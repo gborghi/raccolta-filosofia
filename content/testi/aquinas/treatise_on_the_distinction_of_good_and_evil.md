@@ -24,6 +24,10 @@ tags:
 
 TREATISE ON THE DISTINCTION OF GOOD AND EVIL (QQ[48]-49)
 
+<span class="qlang-split" data-lang="it"></span>
+
+Trattato sulla distinzione tra bene e male (QQ[48]-49)
+
 <span class="atom-split" data-atom="002" data-title="THE DISTINCTION OF THINGS IN PARTICULAR (SIX ARTICLES)" data-chapter="THE DISTINCTION OF THINGS IN PARTICULAR (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the distinction of things in particular; and firstly the distinction of good
@@ -36,6 +40,16 @@ Concerning evil, six points are to be considered:
 (4) Whether evil totally corrupts good?
 (5) The division of evil into pain and fault.
 (6) Whether pain, or fault, has more the nature of evil?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare in modo specifico la distinzione tra le cose; innanzitutto, la distinzione tra bene e male; successivamente, la distinzione tra creature spirituali e corporee. Per quanto riguarda il primo aspetto, indaghiamo su ciò che è il male e sulla sua causa. Per analizzare il male, sono da considerare sei punti:  
+(1) Se il male sia una vera e propria natura;  
+(2) Se il male esista effettivamente nelle cose;  
+(3) Se il bene possa essere soggetto al male;  
+(4) Se il male possa corrompere completamente il bene;  
+(5) La divisione del male in dolore e colpa;  
+(6) Se il dolore o la colpa abbiano una natura più propria del male.
 
 <span class="atom-split" data-atom="003" data-title="Whether evil is a nature?" data-chapter="Whether evil is a nature?" data-kind="atom" data-srclang="en"></span>
 
@@ -171,6 +185,24 @@ generated if air was not corrupted, nor would the life of a lion be preserved un
 killed. Neither would avenging justice nor the patience of a sufferer be praised if there were no
 injustice.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il male non si trovi nelle cose. Infatti, tutto ciò che esiste nelle cose è o qualcosa di concreto, oppure una privazione di qualcosa, cioè “non-esistenza”. Ma Dionisio afferma (Div. Nom. iv) che “il male è lontano dall’esistenza, e ancora più lontano dalla non-esistenza”. Pertanto, il male non si trova affatto nelle cose.
+
+Obiezione 2: Inoltre, “essere” e “cosa” sono concetti intercambiabili. Pertanto, se il male è un “essere” tra le cose, ne consegue che il male è una “cosa”, il che è in contraddizione con quanto detto precedentemente (A[1]).
+
+Obiezione 3: Inoltre, “il bianco non mescolato con il nero è il più bianco”, come afferma il Filosofo (Topic. iii, 4). Pertanto, anche il bene non mescolato con il male è il bene supremo. Ma Dio crea sempre ciò che è migliore, molto di più di quanto faccia la natura. Quindi, nelle cose create da Dio non esiste alcun male.
+
+Al contrario, sulla base delle suddette ipotesi, tutte le proibizioni e le punizioni cesserebbero di esistere, poiché esistono soltanto per contrastare i mali.
+
+Rispondo che, come già detto sopra (Q[47], AA[1],2), la perfezione dell’universo richiede che esista disuguaglianza tra le cose, affinché ogni grado di bontà possa realizzarsi. Un grado di bontà è quello del bene che non può fallire; un altro grado di bontà è invece quello del bene che può fallire nella sua essenza stessa, e questo grado si trova proprio nell’esistenza stessa delle cose: alcune cose, infatti, non possono perdere la loro esistenza in quanto incorruptibili, mentre altre possono perderla in quanto corrottibili. Poiché quindi la perfezione dell’universo richiede l’esistenza sia di esseri incorruptibili che di esseri corrottibili, ne consegue che debbano esistere anche entità capaci di fallire nella loro bontà; e da ciò deriva che talvolta tali entità effettivamente falliscono. Ed è proprio in questo fallimento che consiste il male: nel fatto cioè che una cosa non riesce a mantenere la propria bontà. È quindi evidente che il male esiste nelle cose, così come esiste la corruzione; poiché la stessa corruzione rappresenta un male.
+
+Risposta all’Obiezione 1: Il male è lontano sia dall’essere semplice che dal “non-essere” semplice, poiché non è né una [abitudine](/concepts/custom) né una pura negazione, ma una privazione.
+
+Risposta all’Obiezione 2: Come afferma il Filosofo (Metafisica V, testo 14), l’essere è duplice. In un certo senso, esso indica l’entità di una cosa, intesa come divisibile nei dieci “predicamenti”; in questo contesto, l’essere è sinonimo di cosa stessa, quindi nessuna privazione può essere considerata un essere, e ne consegue che nemmeno il male possa essere definito un essere. In un altro senso, l’essere rappresenta la verità di una proposizione che unisce soggetto e attributo attraverso una congiunzione, come indicato dalla parola “è”; in questo caso, l’essere è ciò che risponde alla domanda “Esiste?”. Per esempio, si dice che la cecità sia un “essere” nell’occhio, o qualsiasi altra forma di privazione. In questo modo, anche il male può essere considerato un essere. A causa della mancanza di questa distinzione, alcuni, ritenendo che le cose possano essere malvagie o che il male sia presente nelle cose stesse, hanno creduto che il male fosse una “cosa positiva in sé”.
+
+Risposta all’Obiezione 3: Dio, la natura e qualsiasi altro agente producono ciò che è migliore nel complesso, ma non necessariamente ciò che è migliore in ogni singola parte, se non nel contesto del tutto, come già detto sopra (Q[47], A[2]). E il tutto stesso, cioè l’universo delle creature, diventa ancora migliore e più perfetto quando alcune sue parti possono fallire nella loro bontà, e talvolta effettivamente falliscono, senza che Dio intervenga per impedirlo. Ciò avviene, in primo luogo, perché “spetta alla Provvidenza salvare la natura, non distruggerla”, come afferma Dionigi di Atene (Div. Nom. iv); ma spetta alla natura stessa che ciò che può fallire debba talvolta fallire. In secondo luogo, poiché, come dice Agostino (Enchiridion 11), “Dio è così potente da poter trasformare il male in bene”. Pertanto, molte cose buone scomparirebbero se Dio non permettesse l’esistenza del male: il fuoco non si genererebbe senza la corruzione dell’aria, e la vita di un leone non sarebbe salvata senza la morte di un asino. Inoltre, né la giustizia vendicativa né la pazienza di chi soffre potrebbero essere lodate se non esistesse ingiustizia.
+
 <span class="atom-split" data-atom="005" data-title="Whether evil is in good as in its subject?" data-chapter="Whether evil is in good as in its subject?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that evil is not in good as its subject. For good is something that
@@ -223,6 +255,29 @@ good.
 
 Reply to Objection 4: The prophet invokes woe to those who say that good as such is evil.
 But this does not follow from what is said above, as is clear from the explanation given.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il male non sia contenuto nel bene come suo soggetto. Infatti, il bene è qualcosa che esiste realmente. Ma Dionisio afferma (Div. Nom. iv, 4) che “il male non esiste, né è presente in ciò che esiste”. Pertanto, il male non è contenuto nel bene come suo soggetto.
+
+Obiezione 2: Inoltre, il male non è un essere; mentre il bene è un essere. Ma il “non-essere” non richiede che l’“essere” ne sia il soggetto. Pertanto, nemmeno il male richiede che il bene ne sia il soggetto.
+
+Obiezione 3: Inoltre, ciò che è contrario a qualcosa non può essere considerato il soggetto di tale cosa. Ma il bene e il male sono contrari tra loro. Pertanto, il male non è “in” il bene, nel senso di essere il suo soggetto.
+
+Obiezione 4: Inoltre, il soggetto della bianchezza viene definito “bianco”. Pertanto, anche il soggetto del male deve essere considerato “male”. Se quindi il male è presente nel bene, in quanto tale, ne consegue che il bene sia male, il che contraddice quanto affermato in (Isaia 5:20): “Guai a voi che chiamate il male bene e il bene male!”
+
+Al contrario, [Agostino](/figures/augustine) afferma (Enchiridion 14) che “il male esiste soltanto nel bene”.
+
+Rispondo che, come detto sopra (A[1]), il male implica l’assenza del bene. Tuttavia, non ogni assenza di bene è male: l’assenza di bene può essere intesa in senso privativo o negativo. Se intesa in senso negativo, l’assenza di bene non è male; altrimenti ne conseguirebbe che ciò che non esiste sia male, e che tutto fosse male, poiché mancherebbe del bene che appartiene ad altre cose. Ad esempio, un uomo che non possedesse la velocità di una lepre o la forza di un leone non sarebbe considerato male. Ma se l’assenza di bene è intesa in senso privativo, allora essa rappresenta effettivamente un male; come ad esempio, la privazione della vista viene definita cecità. Ora, il soggetto della privazione e della forma è lo stesso: si tratta dell’essere nella [potenzialità](/concepts/act_potency), sia che questa sia assoluta – come nel caso della materia primaria, soggetta alla forma sostanziale e alla privazione della sua forma opposta – sia relativa e accompagnata da un’esistenza reale, come nel caso di un corpo trasparente, soggetto sia all’oscurità che alla luce. È evidente, tuttavia, che la forma che rende qualcosa reale è una perfezione, quindi un bene; pertanto ogni essere reale è un bene, e allo stesso modo ogni essere potenziale lo è, in quanto legato al concetto di bene. Poiché possiede l’essere nella potenzialità, esso possiede anche la bontà nella potenzialità. Quindi, il soggetto del male è, il bene.
+
+Risposta all’Obiezione 1: Dionigi intende dire che il male non è presente nelle cose esistenti come loro parte integrante, né come loro proprietà naturale.
+
+Risposta all’Obiezione 2: “L’inesistenza”, intesa in senso negativo, non richiede un soggetto; ma la privazione è una negazione relativa a un soggetto, come afferma il Filosofo (Metafisica iv, testo 4), e tale “inesistenza” rappresenta un male.
+
+Risposta all’Obiezione 3: Il male non risiede nel bene che gli è opposto in quanto sua sostanza, ma in un altro bene; infatti, la “sostanza” dell’cecità non è la “vista”, ma l’“animale”. Tuttavia, come afferma Agostino nell’Enchiridion 13, sembra che qui il principio della dialettica fallisca, poiché si stabilisce che i contrari non possano esistere insieme. Ma ciò va inteso riferendosi al bene e al male in generale, e non a un particolare bene o male. Infatti, contrari come il bianco e il nero, il dolce e l’amaro, vengono considerati tali soltanto in senso specifico, poiché appartengono a determinati generi; mentre il bene è presente in ogni genere. Pertanto, un bene può coesistere con la privazione di un altro bene.
+
+Risposta all’Obiezione 4: Il profeta invoca la sventura su coloro che affermano che il bene in sé sia male.  
+Ma ciò non deriva da quanto detto in precedenza, come è chiaro dall’esplicazione fornita.
 
 <span class="atom-split" data-atom="006" data-title="Whether evil corrupts the whole good? (1/2)" data-chapter="Whether evil corrupts the whole good?" data-kind="atom" data-srclang="en"></span>
 
@@ -333,6 +388,43 @@ source. Hence this kind of defect is not an evil as regards a creature.
 Reply to Objection 2: Pain and fault do not divide evil absolutely considered, but evil that is
 found in voluntary things.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il male corrompa l’intero bene, poiché ciò che è contrario a qualcosa viene completamente corrotto da tale cosa. Ma il bene e il male sono contrari tra loro; pertanto il male corrompe l’intero bene.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (Enchiridion 12) che “il male danneggia nella misura in cui toglie il bene”. Ma il bene è un tutto unitario e coerente; pertanto viene completamente distrutto dal male.
+
+Obiezione 3: Inoltre, il male, finché esiste, causa dolore e toglie il bene. Ma ciò da cui qualcosa viene continuamente rimosso, prima o poi viene distrutto, a meno che non sia infinito; il che non si può dire di alcun bene creato. Pertanto, il male distrugge completamente il bene.
+
+Al contrario, Agostino afferma nell’“Enchiridion” 12 che “il male non può distruggere completamente il bene”.
+
+Rispondo che il male non può distruggere completamente il bene. Per dimostrarlo dobbiamo considerare che il bene è di tre tipi. Un certo tipo di bene viene completamente distrutto dal male; si tratta del bene opposto al male, proprio come la luce viene completamente annientata dall’oscurità o la vista dalla cecità. Un altro tipo di bene non viene né completamente distrutto né diminuito dal male; si tratta del bene che costituisce l’oggetto stesso del male, poiché l’oscurità, ad esempio, non danneggia la sostanza dell’aria. Esiste infine un terzo tipo di bene che viene ridotto dal male, ma non completamente eliminato; si tratta della capacità di un essere di compiere determinate azioni. Tuttavia, questa riduzione non va intesa come una sottrazione quantitativa, bensì come una diminuzione delle qualità o delle forme associate a tale capacità. Anche la riduzione di questa capacità va considerata come l’opposto della sua intensità: tale capacità acquisisce la propria intensità grazie alle disposizioni interne dell’essere che lo rendono idoneo ad agire; più queste disposizioni sono numerose, più l’essere è in grado di raggiungere la propria perfezione. Al contrario, una riduzione di tali disposizioni comporta una diminuzione della capacità stessa. Pertanto, se le disposizioni contrarie non possono essere moltiplicate e intensificate all’infinito, ma solo fino a un certo limite, allo stesso modo anche la suddetta capacità non può essere ridotta o eliminata in modo infinito; questo si osserva nelle qualità attive e passive degli elementi: la freddura e l’umidità, ad esempio, possono ridurre la capacità della materia di assumere la forma del fuoco, ma non possono essere moltiplicate all’infinito. Se invece queste disposizioni contrarie potessero essere moltiplicate all’infinito, anche la suddetta capacità verrebbe ridotta in modo infinito; tuttavia essa non verrebbe completamente eliminata, poiché la sua radice – ovvero la sostanza stessa dell’essere – rimarrebbe intatta. Così, se corpi opachi venissero posti tra il sole e l’aria, la capacità dell’aria di ricevere la luce verrebbe ridotta all’infinito; tuttavia essa non scomparirebbe mai del tutto, poiché l’aria, per sua natura, è trasparente. Allo stesso modo, i peccati possono aumentare all’infinito, riducendo sempre di più la capacità dell’anima di ricevere la grazia divina; questi peccati rappresentano, in qualche modo, ostacoli che si interpongono tra noi e Dio, come dice Isaia 59:2: “I nostri peccati ci hanno separati da Dio”. Tuttavia, questa capacità dell’anima non viene completamente eliminata, poiché fa parte della sua stessa natura.
+
+Risposta all’Obiezione 1: Il bene che è in opposizione al male viene completamente eliminato; ma altri beni, come detto sopra, non vengono del tutto rimossi.
+
+Risposta all’Obiezione 2: La suddetta capacità rappresenta un mezzo tra soggetto e atto. Pertanto, quando riguarda l’atto, viene ridotta dal male; ma quando riguarda il soggetto, rimane tale e quale. Quindi, sebbene il bene sia simile a sé stesso, a causa della sua relazione con diverse cose, non viene completamente, ma solo parzialmente eliminato.
+
+Risposta all’Obiezione 3: Alcuni, ritenendo che la diminuzione di questo tipo di bene sia simile alla diminuzione della quantità, hanno affermato che, proprio come ciò che è continuo è infinitamente divisibile – se la divisione avviene sempre secondo la stessa proporzione (ad esempio, metà di metà, o un terzo di un terzo) – lo stesso valga anche in questo caso. Tuttavia, questa spiegazione non è valida. Infatti, quando nella divisione si mantiene sempre la stessa proporzione, si continuano a sottrarre quantità sempre minori; per esempio, metà di metà è inferiore a metà dell’intero. Ma un secondo peccato non diminuisce necessariamente in modo maggiore o uguale rispetto al primo il suddetto “talento” umano, ma potrebbe anche ridurlo di meno. Pertanto, si deve riconoscere che, sebbene questo “talento” sia qualcosa di finito, può comunque essere ridotto all’infinito, non “in sé”, ma in modo accidentale; proprio come le disposizioni contrarie possono aumentare anch’esse all’infinito, come spiegato sopra.
+
+È possibile dividere adeguatamente il male in “dolore” e “colpa”?  
+[*Con “dolore” si intende qui “pena”: tale era il suo significato originale, derivante dalla parola “poena”. In questo senso si dice “Dolore della morte, Dolore della perdita, Dolore del rimorso”.---Ed.]
+
+Obiezione 1: Sembra che il male non venga adeguatamente suddiviso in dolore e colpa. Infatti, ogni difetto rappresenta un tipo di male. Tuttavia, in tutte le creature esiste la “difettosità” legata all’incapacità di preservare la propria esistenza, il quale, tuttavia, non è né dolore né colpa. Pertanto, il male non viene suddiviso in modo appropriato in dolore e colpa.
+
+Obiezione 2: Inoltre, nelle creature irrazionali non esistono né errori né dolori; tuttavia, esse presentano corruzione e difetti, che sono forme di male. Pertanto, non ogni male è rappresentato da un dolore o da un errore.
+
+Obiezione 3: Inoltre, la tentazione è un male, ma non rappresenta una colpa; poiché “la tentazione che non comporta alcun consenso non è un peccato, bensì un’occasione per esercitare la virtù”, come si afferma in un commento al 2 Corinzi 12; inoltre, non costituisce nemmeno un dolore, poiché la tentazione precede la colpa, mentre il dolore arriva dopo. Pertanto, il male non può essere adeguatamente suddiviso in dolore e colpa.
+
+Obiezione 4:
+
+Al contrario, sembrerebbe che questa distinzione sia superflua: infatti, come afferma Agostino nell’“Enchiridion” 12, una cosa è malvagia “perché causa dolore”. Ma tutto ciò che causa dolore è punitivo; pertanto, ogni male rientra nella categoria del dolore.
+
+Rispondo che il Male, come già detto sopra (A[3]), è la privazione del Bene; e il Bene consiste principalmente nella perfezione e nell’atto. Tuttavia, l’atto è di due tipi: il primo rappresenta la forma e l’integrità di una cosa, mentre il secondo indica il suo funzionamento o operazione. Pertanto anche il Male può essere considerato di due tipi. In un caso, esso si manifesta attraverso la sottrazione della forma o di qualsiasi elemento necessario per l’integrità della cosa; ad esempio, la cecità è un male, così come l’assenza di un qualsiasi membro del corpo. In un altro caso, il Male si manifesta attraverso la mancanza dell’operazione dovuta, sia perché tale operazione non avviene affatto, sia perché non segue il modo e l’ordine appropriati. Poiché il Bene è per sua natura l’oggetto della volontà, il Male, essendo la privazione del Bene, si manifesta in modo particolare nelle creature razionali dotate di volontà. Quindi il Male derivante dalla sottrazione della forma e dell’integrità di una cosa ha la natura di un dolore; soprattutto se si considera che tutte le cose sono soggette alla provvidenza e alla giustizia divine, come dimostrato sopra (Q[22], A[2]); infatti è proprio della natura del dolore contravvenire alla volontà. Ma il Male che consiste nella mancanza dell’operazione dovuta nelle cose volitive ha la natura di un errore; poiché ciò viene considerato un errore quando si fallisce nell’eseguire l’atto perfetto, che si può compiere liberamente attraverso la volontà. Pertanto, ogni male nelle cose volitive deve essere considerato sia un dolore che un errore.
+
+Risposta all’Obiezione 1: Poiché il male è la privazione del bene, e non semplicemente una negazione, come si è detto sopra (A[3]), non ogni difetto del bene è necessariamente un male; ma soltanto quel difetto del bene che è naturalmente previsto dalla sua stessa natura. Ad esempio, la mancanza della vista non rappresenta un male in una pietra, poiché non è contro la natura di una pietra “vedere”; al contrario, per un animale essa costituisce certamente un male, poiché è contro la sua natura non essere in grado di vedere. Allo stesso modo, non è contro la natura di una creatura che questa non possa mantenersi nell’esistenza da sola, poiché esistenza e conservazione derivano dalla stessa fonte. Pertanto, questo tipo di difetto non costituisce necessariamente un male per una creatura.
+
+Risposta all’Obiezione 2: Il dolore e il peccato non dividono l’essere malvagio nel suo complesso, ma soltanto il male che si trova nelle azioni volontarie.
+
 <span class="atom-split" data-atom="007" data-title="Whether evil corrupts the whole good? (2/2)" data-chapter="Whether evil corrupts the whole good?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: Temptation, as importing provocation to evil, is always an evil of fault
@@ -344,6 +436,12 @@ Reply to Objection 4: In answer to the opposite argument, it must be said that t
 of pain includes the idea of injury to the agent in himself, whereas the idea of fault includes the
 idea of injury to the agent in his operation; and thus both are contained in evil, as including the idea
 of injury.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 3: La tentazione, in quanto comporta una provocazione al male, è sempre un male dovuto alla colpa di chi la esercita; ma per colui che viene tentato, non si tratta propriamente di una colpa, a meno che attraverso quella tentazione non avvenga qualche cambiamento in lui; infatti, è proprio così che agisce il tentatore sul soggetto tentato. E se colui che viene tentato viene indotto al male dal tentatore, allora commette un errore.
+
+Risposta all’Obiezione 4: In risposta all’argomento opposto, si deve affermare che la stessa natura del dolore include l’idea di un danno arrecato all’agente stesso, mentre l’idea di colpa include l’idea di un danno arrecato alle azioni dell’agente; pertanto entrambi questi aspetti sono contenuti nel concetto di male, poiché esso comprende l’idea di danno.
 
 <span class="atom-split" data-atom="008" data-title="Whether pain has the nature of evil more than fault has?" data-chapter="Whether pain has the nature of evil more than fault has?" data-kind="atom" data-srclang="en"></span>
 
@@ -398,12 +496,37 @@ one may be deprived of both of these in some way, both by fault and by pain; by 
 as a man is removed from the end and from the order to the end; by fault, inasmuch as this privation
 belongs to the action which is not ordered to its due end.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il dolore abbia più di male che di colpa. Infatti, la colpa è rispetto al dolore ciò che il merito è rispetto alla ricompensa. Ma la ricompensa ha più di bene che di merito, poiché il suo fine è proprio il bene. Pertanto, nel dolore c’è più male di quanto ci sia nella colpa.
+
+Obiezione 2: Inoltre, si tratta del male maggiore che si contrappone al bene maggiore. Ma il dolore, come detto in precedenza (A[5]), è contrario al bene dell’agente, mentre l’errore è contrario al bene dell’azione stessa. Pertanto, poiché l’agente è considerato qualcosa di migliore rispetto all’azione, sembrerebbe che il dolore sia peggiore dell’errore.
+
+Obiezione 3: Inoltre, la privazione dello scopo finale rappresenta un dolore che consiste nella perdita della possibilità di contemplare Dio; mentre il male derivante da un errore è soltanto una distorsione dell’ordine previsto per raggiungere tale scopo. Pertanto, il dolore è un male più grave dell’errore stesso.
+
+Al contrario, un abile artigiano sceglie il male minore per evitare quello maggiore, proprio come il chirurgo amputa un arto per salvare l’intero corpo. Ma la saggezza divina infligge dolore al fine di prevenire i peccati; pertanto, il peccato rappresenta un male più grave del dolore stesso.
+
+Rispondo che il peccato possiede una natura più malvagia del dolore; non solo più del dolore fisico, che consiste nella privazione di beni materiali e colpisce la maggior parte delle persone, ma anche più di qualsiasi altro tipo di dolore, inteso nel suo senso più ampio, includendo così anche la privazione di grazia o gloria. Ci sono due motivi a sostegno di questa affermazione. Il primo è che l’uomo diventa malvagio a causa del peccato stesso, e non a causa del dolore, come afferma Dionigi nel “Divino Nome” IV: “Essere punito non è un male; ma è un male essere resi degni di punizione”. Poiché il bene assoluto consiste nell’atto, e non nella semplice possibilità di agire, e poiché l’atto supremo è l’utilizzo efficace di ciò che si possiede, segue che il vero bene dell’uomo risieda nell’uso corretto delle proprie capacità. Poiché noi utilizziamo tutte le cose attraverso l’azione della volontà, da una buona volontà deriva il comportamento virtuoso, mentre da una cattiva volontà deriva il comportamento malvagio; infatti, una persona con una volontà cattiva può anche utilizzare in modo errato ciò che possiede, proprio come un grammatico che parla in modo scorretto per sua stessa scelta. Poiché il peccato stesso consiste nell’atto disordinato della volontà, mentre il dolore è legato alla privazione di qualcosa che la volontà desidera utilizzare, è evidente che il peccato abbia una natura più malvagia del dolore. Il secondo motivo deriva dal fatto che Dio è l’autore del dolore fisico, ma non del peccato; infatti, il dolore fisico priva la creatura dei suoi beni – sia essi beni materiali o la possibilità di godere della visione di Dio – mentre il peccato si oppone direttamente al bene divino, all’adempimento della volontà divina e all’amore divino, che consiste nell’amare il bene per se stesso, e non soltanto perché condiviso dalla creatura. Pertanto, è chiaro che il peccato abbia una natura più malvagia del dolore.
+
+Risposta all’Obiezione 1: Sebbene il peccato comporti dolore, così come il merito comporti ricompensa, tuttavia il peccato non viene compiuto per il dolore stesso, così come il merito non viene compiuto per la ricompensa; al contrario, il dolore è causato proprio al fine di evitare il peccato; pertanto, il peccato è qualcosa di peggiore del dolore.
+
+Risposta all’Obiezione 2: L’ordine d’azione che viene distrutto a causa di un errore rappresenta il bene più perfetto dell’agente, poiché costituisce la seconda delle sue perfezioni; al contrario, il bene che viene privato a causa del dolore rappresenta soltanto la prima delle sue perfezioni.
+
+Risposta all’Obiezione 3: Dolore e colpa non devono essere paragonati come fine e ordine rispetto a quel fine; poiché entrambi possono essere privati in qualche modo, sia per colpa che per dolore; il dolore, infatti, allontana l’uomo dal fine e dall’ordine verso quel fine; la colpa, invece, si riferisce all’azione che non è diretta verso il suo scopo appropriato.
+
 <span class="atom-split" data-atom="009" data-title="THE CAUSE OF EVIL (THREE ARTICLES)" data-chapter="THE CAUSE OF EVIL (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next inquire into the cause of evil. Concerning this there are three points of inquire:
 (1) Whether good can be the cause of evil?
 (2) Whether the supreme good, God, is the cause of evil?
 (3) Whether there be any supreme evil, which is the first cause of all evils?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Esaminiamo ora la causa del male. A questo proposito ci sono tre questioni da indagare:  
+(1) È possibile che il bene sia la causa del male?  
+(2) Il bene supremo, Dio, è forse la causa del male?  
+(3) Esiste qualche male supremo che possa essere considerato la causa primaria di tutti i mali?
 
 <span class="atom-split" data-atom="010" data-title="Whether good can be the cause of evil?" data-chapter="Whether good can be the cause of evil?" data-kind="atom" data-srclang="en"></span>
 
@@ -620,3 +743,33 @@ and more men seek good in regard to the senses than good according to reason.
 
 Reply to Objection 6: In the causes of evil we do not proceed to infinity, but reduce all evils
 to some good cause, whence evil follows accidentally.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che esista un male supremo, che sia la causa di ogni altro male. Infatti, effetti contrari hanno cause contrarie. Ma la contrarietà si riscontra nelle cose, come afferma l’Ecclesiaste 33:15: “Il bene è opposto al male, la vita alla morte; allo stesso modo il peccatore è opposto all’uomo giusto”. Pertanto, esistono molti principi contrari tra loro: uno legato al bene e l’altro al male.
+
+Obiezione 2: Inoltre, se uno dei contrari è presente in natura, lo stesso vale per l’altro. Ma il bene supremo esiste in natura ed è la causa di ogni bene, come è stato dimostrato sopra (Q[2], A[3]; Q[6], AA[2],4). Pertanto, esiste anche un male supremo che gli è opposto e che costituisce la causa di ogni male.
+
+Obiezione 3: Inoltre, poiché troviamo cose buone e sempre migliori, troviamo anche cose cattive e sempre peggiori. Ma le cose buone e migliori vengono considerate tali in relazione a ciò che è veramente il meglio; pertanto, le cose cattive e peggiori vengono considerate tali in relazione a qualche forma suprema di male.
+
+Obiezione 4: Inoltre, tutto ciò che partecipa a qualcosa viene ridotto a ciò che è essenziale. Ma le cose che sono considerate cattive tra di noi lo sono non in modo essenziale, ma per partecipazione. Pertanto dobbiamo cercare qualche forma di male essenziale e supremo, che sia la causa di ogni male.
+
+Obiezione 5: Inoltre, tutto ciò che è accidentale si riduce a ciò che è “in sé”. Ma il bene è la causa accidentale del male. Pertanto, dobbiamo supporre l’esistenza di un qualche male supremo, che sia la causa “in sé” dei mali. Non si può nemmeno affermare che il male non abbia una causa “in sé”, ma soltanto una causa accidentale; altrimenti ne conterrebbe che il male non esisterebbe nella maggioranza dei casi, ma solo in pochi casi.
+
+Obiezione 6: Inoltre, il male dell’effetto viene ridotto al male della causa; poiché l’effetto difettoso deriva da una causa difettosa, come è stato detto in precedenza (AA[1],2). Tuttavia non possiamo procedere all’[infinito](/concepts/infinity) in questa questione. Pertanto, dobbiamo supporre che esista un male primordiale, la causa di ogni male.
+
+Al contrario, il bene supremo è la causa di ogni essere, come è stato dimostrato in precedenza (Q[2], A[3]; Q[6], A[4]). Pertanto non può esistere alcun principio che si opponga a esso nel suo ruolo di causa del male.
+
+Rispondo che, da quanto precede, risulta evidente l’assenza di un principio primo del male, così come esiste un principio primo del bene. Innanzitutto, poiché il principio primo del bene è essenzialmente buono, come dimostrato in precedenza (Q[6], AA[3],4), nulla può essere essenzialmente cattivo. Infatti, ogni essere, in sé, è buono (Q[5], A[3]); e il male può esistere soltanto all’interno del bene, come sua condizione necessaria (Q[48], A[3]). In secondo luogo, poiché il principio primo del bene rappresenta il bene supremo e perfetto, che contiene in sé tutta la bontà (Q[6], A[2]), non può esistere un male supremo: il male, infatti, anche se riduce sempre il bene, non lo distrugge mai completamente; quindi, finché esiste del bene, nulla può essere totalmente e perfettamente cattivo. Per questo motivo il Filosofo afferma (Etica iv, 5) che “se il male totale potesse esistere, si autodistruggerebbe”, poiché la distruzione di tutto ciò che è buono significherebbe anche la scomparsa del male stesso, essendo il bene la sua condizione necessaria. Infine, poiché la stessa natura del male è contraria all’idea di un principio primo – poiché ogni male deriva dal bene e può esistere soltanto come causa accidentale, quindi non può essere considerata una causa primaria – coloro che sostenevano l’esistenza di due principi primi, uno buono e uno cattivo, commisero questo errore per la stessa ragione; da ciò derivarono anche altre strane concezioni degli antichi. Inoltre, poiché non consideravano la causa universale di tutto l’essere, ma soltanto le cause particolari dei fenomeni concreti, ritenevano che la natura stessa di alcune cose fosse intrinsecamente cattiva; ad esempio, si sarebbe potuto dire che la natura del fuoco è cattiva perché distrugge le case delle persone povere. Tuttavia, il giudizio sulla bontà di qualcosa non dipende dal suo rapporto con cose particolari, ma da ciò che esso è in sé e dal suo ruolo nell’intero universo, dove ogni elemento ha il proprio posto perfettamente ordinato (Q[47], A[2], ad 1). Inoltre, poiché individuavano due cause particolari opposte che producevano effetti contrari, non riuscivano a ridurre queste cause alla causa universale comune; per questo estendevano la contrapposizione delle cause anche ai principi primi. Ma poiché tutte le contraddizioni condividono qualcosa di comune, è necessario cercare una causa unica che le superi tutte; così come esiste una forza celeste alla base delle qualità opposte degli elementi, e un principio primo dell’essere al di sopra di tutte le cose esistenti (Q[2], A[3]).
+
+Risposta all’Obiezione 1: I contrari condividono uno stesso genere e condividono anche la natura dell’esistenza; pertanto, sebbene abbiano cause particolari opposte, dobbiamo inevitabilmente giungere a una causa comune originaria.
+
+Risposta all’Obiezione 2: La privazione e l’[abitudine](/concepts/custom) appartengono naturalmente allo stesso soggetto. Ora, il soggetto della privazione è un essere in [potenzialità](/concepts/act_potency), come è stato detto sopra (Q[48], A[3]). Pertanto, poiché il male è la privazione del bene, come risulta da quanto detto in precedenza (Q[48], AA[1], 2, 3), esso si oppone a quel bene che possiede una certa potenzialità, ma non al bene supremo, che è l’[atto puro](/concepts/actus_purus).
+
+Risposta all’Obiezione 3: L’aumento dell’intensità è proporzionale alla natura di una cosa. Poiché la forma rappresenta una perfezione, anche la privazione elimina tale perfezione. Pertanto, ogni forma, perfezione e bene vengono intensificati quando ci si avvicina al loro termine perfetto; viceversa, la privazione e il male aumentano quando ci si allontana da tale termine. Da questo deriva che una cosa non viene considerata cattiva o peggiore semplicemente perché si avvicina al massimo del male, così come non viene considerata buona o migliore semplicemente perché si avvicina al massimo del bene.
+
+Risposta all’Obiezione 4: Nessun essere viene definito “male” per partecipazione a qualcosa, ma piuttosto per la privazione di tale partecipazione. Pertanto, non è necessario ridurlo a una qualche forma essenziale di male.
+
+Risposta all’Obiezione 5: Il male può avere soltanto una causa accidentale, come è stato dimostrato sopra (A[1]). Pertanto, è impossibile ridurlo a una qualche causa “in sé” del male. Inoltre, affermare che il male sia più frequente rispetto al bene è semplicemente falso. Le cose che vengono generate e corrotte, nelle quali soltanto può esistere il male naturale, rappresentano infatti la parte minore dell’universo intero. In ogni specie, inoltre, i difetti naturali sono presenti nella minoranza degli individui. Solo nell’uomo il male sembra essere più diffuso; questo perché il bene dell’uomo riguardo ai sensi non coincide con il vero bene dell’uomo come essere razionale, e molti uomini cercano il bene attraverso i sensi piuttosto che secondo la ragione.
+
+Risposta all’Obiezione 6: Nei motivi del male non ci addentriamo all’infinito, ma riduciamo tutti i mali a una qualche causa positiva, da cui il male deriva in modo accidentale.

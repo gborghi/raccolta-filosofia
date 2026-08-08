@@ -24,6 +24,10 @@ tags:
 
 MATRIMONY (QQ[41]-67)
 
+<span class="qlang-split" data-lang="it"></span>
+
+MATRIMONIO (QQ[41]-67)
+
 <span class="atom-split" data-atom="002" data-title="OF THE SACRAMENT OF MATRIMONY AS DIRECTED TO AN OFFICE OF NATURE (FOUR ARTICLES)" data-chapter="OF THE SACRAMENT OF MATRIMONY AS DIRECTED TO AN OFFICE OF NATURE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 In the next place we must consider matrimony. We must treat of it (1) as directed to an office
@@ -33,6 +37,14 @@ are four points of inquiry:
 (2) Whether it is a matter of precept?
 (3) Whether its act is lawful?
 (4) Whether its act can be meritorious?
+
+<span class="qlang-split" data-lang="it"></span>
+
+In seguito dobbiamo considerare il matrimonio. Dobbiamo trattarlo: (1) come una funzione imposta dalla natura; (2) come un [sacramento](/concepts/sacrament); (3) in modo assoluto e per se stesso. Nel primo ambito vi sono quattro punti da esaminare:  
+(1) Se appartiene alla [legge naturale](/positions/natural_law);  
+(2) Se rientra tra i precetti morali;  
+(3) Se l’atto che lo costituisce è legittimo;  
+(4) Se tale atto può essere considerato meritevole.
 
 <span class="atom-split" data-atom="003" data-title="Whether matrimony is of natural law?" data-chapter="Whether matrimony is of natural law?" data-kind="atom" data-srclang="en"></span>
 
@@ -109,6 +121,28 @@ vary.
 Reply to Objection 4: Nature intends not only being in the offspring, but also perfect being,
 for which matrimony is necessary, as shown above.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il matrimonio non sia qualcosa di naturale. Poiché “la [legge naturale](/positions/natural_law) è ciò che la natura ha insegnato a tutti gli animali” [*Digesto, I, i, de justitia et jure, 1]. Tuttavia, in altri animali i sessi si uniscono senza il matrimonio. Pertanto, il matrimonio non deriva dalla legge naturale.
+
+Obiezione 1: Inoltre, ciò che appartiene al diritto naturale è presente in tutti gli uomini, indipendentemente dal loro stato sociale. Tuttavia, il matrimonio non esisteva in tutte le fasi dello sviluppo umano; come afferma Tullio nel “De Inv. Rhet.”, “all’inizio gli uomini erano selvaggi e nessuno conosceva i propri figli, né era legato da alcun vincolo matrimoniale”, che è proprio ciò su cui si fonda il matrimonio. Pertanto, il matrimonio non può essere considerato un istituto naturale.
+
+Obiezione 3: Inoltre, le cose naturali sono uguali in tutti i casi. Ma il matrimonio non è lo stesso in tutti i luoghi, poiché la sua pratica varia a seconda delle diverse leggi locali. Pertanto, non può essere considerato una cosa naturale.
+
+Obiezione 4: Inoltre, quelle cose senza le quali l’intento della natura non potrebbe essere realizzato sembrerebbero non essere naturali. Ma la natura mira alla conservazione della specie attraverso la generazione, che è possibile anche senza matrimonio, come nel caso dei fornicatori. Pertanto, il matrimonio non è naturale.
+
+Al contrario, all’inizio dei “Digesti” si afferma: “L’unione tra uomo e donna, che chiamiamo matrimonio, è di diritto naturale”. Inoltre, il Filosofo (Etica, viii, 12) sostiene che “l’uomo sia un animale più incline per natura alla convivenza coniugale che alla società politica”. Tuttavia, lo stesso autore afferma anche che “l’uomo è naturalmente un animale politico e gregario” (Politica, i, 2). Pertanto, è naturalmente incline all’unione coniugale; di conseguenza, l’unione coniugale o il matrimonio sono cose naturali.
+
+Rispondo che una cosa viene definita “naturale” in due modi. Primo, quando deriva necessariamente dai principi stessi della natura; in questo senso, il movimento verso l’alto è naturale per il fuoco. In questo modo, il matrimonio non è considerato naturale, così come nessuna delle azioni che avvengono grazie all’intervento della volontà libera. Secondo, si dice che una cosa sia naturale quando la natura stessa la favorisce, anche se essa avviene attraverso l’azione della volontà libera; in questo senso, le azioni virtuose e le stesse virtù vengono definite naturali; e in questo modo il matrimonio è considerato naturale, poiché la ragione naturale lo favorisce sotto due aspetti: innanzitutto, in relazione allo scopo principale del matrimonio, ovvero il bene della prole. La natura, infatti, non si limita a far sì che nascano figli, ma anche a prendersi cura di loro e farli crescere fino a raggiungere lo stato perfetto dell’uomo, cioè lo stato di virtù. Pertanto, secondo il Filosofo (Etica, viii, 11, 12), riceviamo da nostri genitori tre cose fondamentali: “esistenza”, “nutrimento” ed “educazione”. Ora, un bambino non può essere cresciuto e educato se non ha genitori specifici, e ciò è possibile soltanto attraverso il matrimonio, che rappresenta il legame tra un uomo e una donna. In secondo luogo, il matrimonio è naturale anche in relazione allo scopo secondario, ovvero ai servizi reciproci che i coniugi si prestano nella gestione della casa. Proprio come la ragione naturale impone che gli uomini vivano insieme, poiché nessuno è autosufficiente in tutte le necessità della vita, così anche alcune attività sono più adatte agli uomini e altre alle donne; per questo motivo, la natura incoraggia proprio quella forma di convivenza che è il matrimonio. Questi due motivi vengono espressi chiaramente dal Filosofo (Etica, viii, 11, 12).
+
+Risposta all’Obiezione 1: La natura umana tende verso qualcosa in due modi diversi. In un certo senso, perché tale cosa è conforme alla natura generica, e questo carattere è comune a tutti gli animali; in un altro senso, perché essa corrisponde alla natura specifica dell’uomo, che, in quanto razionale, trascende i limiti della specie generale; un esempio di tale tendenza è l’atto di prudenza o di temperanza. Proprio come la natura generica, sebbene comune a tutti gli animali, non si manifesta nello stesso modo in ciascuno di essi, ma in modo appropriato a ciascuna specie, così anche la natura umana tende verso il matrimonio in base alla sua specificità; per questo motivo il Filosofo (Etica, VIII, 11-12; Politica, I) sottolinea questa caratteristica dell’uomo rispetto agli altri animali. Tuttavia, se consideriamo la natura generale, anche essa spinge l’uomo verso la procreazione, poiché la generazione di discendenti è comune a tutti gli animali; ma questa tendenza non si manifesta nello stesso modo in tutti: ci sono infatti animali i cui piccoli sono in grado di cercare il cibo immediatamente dopo la nascita o vengono sufficientemente nutriti dalla madre; in questi casi non esiste alcun legame particolare tra maschio e femmina. Al contrario, negli animali i cui piccoli hanno bisogno del sostegno di entrambi i genitori, anche se solo per un breve periodo, sussiste un certo legame, come si può osservare in alcuni uccelli. Nell’uomo, invece, poiché il bambino ha bisogno delle cure dei genitori per un lungo periodo di tempo, esiste un legame molto stretto tra maschio e femmina, un legame che anche la natura generica incoraggia.
+
+Risposta all’Obiezione 2: L’affermazione di Tully può essere vera per una determinata nazione, purché la si intenda riferita al momento in cui quella nazione è diventata distinta dalle altre; infatti ciò verso cui tende la ragione naturale non si realizza in tutte le circostanze, e questa affermazione non è universalmente vera, poiché le Scritture sacre dichiarano che il matrimonio esiste fin dall’inizio della razza umana.
+
+Risposta all’Obiezione 3: Secondo il Filosofo (Etica vii), “la [natura umana](/axes/human_nature) non è immutabile, come lo è la natura divina”. Pertanto, le cose che rientrano nella legge naturale variano in base ai diversi stati e condizioni degli esseri umani; mentre quelle che riguardano naturalmente aspetti della natura divina non cambiano mai.
+
+Risposta all’Obiezione 4: La Natura intende che i discendenti non solo esistano, ma siano anche esseri perfetti; per questo motivo il matrimonio è necessario, come dimostrato in precedenza.
+
 <span class="atom-split" data-atom="004" data-title="Whether matrimony still comes under a precept?" data-chapter="Whether matrimony still comes under a precept?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that matrimony still comes under a precept. For a precept is binding
@@ -162,6 +196,24 @@ to the difference of temperament of various individuals. And it is owing to this
 as to Divine providence which governs all, that one person chooses one office such as husbandry,
 and another person another. And so it is too that some choose the married life and some the
 contemplative. Wherefore no danger threatens.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il matrimonio rientri ancora nell’ambito di un precetto. Infatti, un precetto è vincolante finché non viene revocato. Ma l’instituzione primaria del matrimonio era basata su un precetto, come affermato nel testo (Sentenze IV, D, 26); inoltre, da nessuna parte si legge che tale precetto sia stato revocato, bensì confermato (Matteo 19:6): “Quello che Dio ha unito, nessuno lo separi”. Pertanto, il matrimonio rientra ancora nell’ambito di un precetto.
+
+Obiezione 2: Inoltre, i precetti della [legge naturale](/positions/natural_law) sono vincolanti in ogni momento del tempo. Ora, il matrimonio rientra nella categoria delle norme della legge naturale, come già detto sopra (A[1]). Pertanto, eccetera.
+
+Obiezione 3: Inoltre, il bene della specie è superiore al bene dell’individuo, “poiché il bene dello [Stato](/concepts/state) è più simile a quello di Dio rispetto al bene di un singolo uomo” (Etica, i, 2). Ora, il precetto impartito al primo uomo riguardo alla conservazione del bene individuale attraverso l’atto della funzione nutritiva è ancora in vigore. Ancor più pertanto vale il precetto relativo al matrimonio, poiché esso riguarda la conservazione della specie stessa.
+
+Obiezione 4: Inoltre, quando la ragione che sta alla base di un obbligo rimane invariata, anche l’obbligo stesso deve rimanere lo stesso. Il motivo per cui nelle epoche antiche gli uomini erano costretti a sposarsi era per evitare che la specie umana smettesse di moltiplicarsi. Poiché oggi il risultato sarebbe ugualmente negativo, se ognuno potesse scegliere liberamente di astenersi dal matrimonio, sembrerebbe quindi che il matrimonio rientri tra i precetti morali obbligatori.
+
+Al contrario, è scritto (1 Corinzi 7:38): “Chi non dà in matrimonio la propria vergine fa meglio, ”, cioè è migliore di chi la dà in matrimonio. Pertanto, il contratto matrimoniale non rientra oggi tra gli obblighi imposti da precetti. Inoltre, nessuno merita una ricompensa per violare un precetto; mentre alle vergini spetta una ricompensa speciale, ovvero l’aureola (*Cfr. Q[96], A[5]). Quindi, il matrimonio non è soggetto a alcun precetto.
+
+Rispondo che la Natura spinge le persone verso due tipi di comportamenti. Da un lato, spinge verso ciò che è necessario per il perfezionamento dell’individuo; tale obbligo è vincolante per tutti, poiché le perfezioni naturali sono comuni a tutti gli esseri umani. Dall’altro lato, la Natura spinge verso ciò che è necessario per il perfezionamento della comunità; tuttavia, poiché esistono molte cose di questo tipo e alcune di esse si ostacolano a vicenda, tale inclinazione non obbliga ciascun individuo in modo diretto; altrimenti, ognuno sarebbe costretto ad dedicarsi all’agricoltura, alla costruzione di abitazioni e ad altre attività necessarie per la vita comunitaria. Tuttavia, l’inclinazione naturale viene soddisfatta quando queste varie attività vengono svolte da individui diversi. Pertanto, poiché il perfezionamento della comunità umana richiede che alcune persone si dedichino alla vita contemplativa – e il matrimonio rappresenta un grande ostacolo in questo senso – l’inclinazione naturale al matrimonio non è considerata vincolante secondo i filosofi. Per questo motivo, Teofrasto afferma che non sia consigliabile che un uomo saggio si sposi, come riporta Gerolamo nel suo “Contra Jovinianum”.
+
+Risposta all’Obiezione 1: Questo precetto non è stato richiamato esplicitamente, eppure non è obbligatorio per ogni individuo, per i motivi sopra indicati; tranne che in quei periodi in cui la scarsità di popolazione rendeva necessario che ognuno si dedicasse alla procreazione. Le risposte alle Obiezioni 2 e 3 sono chiare, a partire da quanto detto finora.
+
+Risposta all’Obiezione 4: La [natura umana](/axes/human_nature) presenta, come già detto, una tendenza generale verso diversi ruoli e azioni. Tuttavia, poiché essa è variabile a seconda del soggetto, individualizzandosi in questo o quell’individuo, spinge alcuni individui verso determinati ruoli e altri verso altri, in base alle differenze nel temperamento di ciascuno. Ed è proprio a causa di queste differenze, così come per effetto della provvidenza divina che governa tutto, che alcune persone scelgono un certo tipo di attività, come l’agricoltura, mentre altre ne scelgono un altro. Per questo motivo, non esiste alcun pericolo.
 
 <span class="atom-split" data-atom="005" data-title="Whether the marriage act is always sinful?" data-chapter="Whether the marriage act is always sinful?" data-kind="atom" data-srclang="en"></span>
 
@@ -243,6 +295,36 @@ reason, but also destroys the order of reason. The intensity of pleasure in the 
 do this, since, although for the moment man is not being directed, he was previously directed by
 his reason.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’atto coniugale sia sempre peccaminoso. Infatti è scritto (1 Corinzi 7:29): “Coloro che hanno mogli, si comportino come se non le avessero”. Ma coloro che non sono sposati non compiono tale atto; pertanto anche coloro che sono sposati peccano in quell’atto.
+
+Obiezione 2: Inoltre, “Le vostre iniquità hanno separato voi dal vostro Dio”. Ora, l’atto coniugale separa l’uomo da Dio; per questo motivo, al popolo che doveva vedere Dio (Esodo 19:11) fu ordinato di non avvicinarsi alle proprie mogli (Esodo 19:20); e Gerolamo afferma (Epistola ad Ageruchum, Contra Iovini, 18) che nell’atto coniugale “lo Spirito Santo non tocca i cuori dei profeti”. Pertanto, tale atto è peccaminoso.
+
+Obiezione 3: Inoltre, ciò che è di per sé vergognoso non può mai essere compiuto in modo corretto o giusto. Ora, l’atto coniugale è sempre legato alla concupiscenza, che è inevitabilmente vergognosa; pertanto, tale atto è sempre peccaminoso.
+
+Obiezione 4: Inoltre, solo il peccato può essere giustificato o scusato. Ora, l’atto coniugale deve essere giustificato dalle benedizioni nuziali, come dice il Maestro (Sentenze iv, D, 26). Pertanto, si tratta di un peccato.
+
+Obiezione 5: Inoltre, cose dello stesso genere vengono giudicate allo stesso modo. Ma il rapporto coniugale appartiene allo stesso genere dell’adulterio, poiché entrambi hanno lo stesso scopo, ovvero la conservazione della specie umana. Pertanto, poiché l’adulterio è un peccato, lo stesso vale anche per il rapporto coniugale.
+
+Obiezione 6: Inoltre, l’eccesso nelle passioni corrompe la virtù. Ora, nell’atto coniugale c’è sempre eccesso di piacere, al punto che tale piacere sovrasta la ragione, che è il bene principale dell’uomo; per questo il Filosofo afferma (Etica, vii, 11) che “in quell’atto è impossibile comprendere alcunché”. Pertanto, l’atto coniugale è sempre un peccato.
+
+Al contrario, è scritto (1 Corinzi 7:28): “Se una vergine si sposa, non ha commesso peccato”, e (1 Timoteo 5:14): “Desidero che i più giovani si sposino e abbiano figli”. Ma non è possibile avere figli senza unione carnale. Pertanto, l’atto coniugale non è un peccato; altrimenti l’Apostolo non lo avrebbe approvato. Inoltre, nessun peccato dipende da precetti; ma l’atto coniugale è soggetto a precetti (1 Corinzi 7:3): “Che il marito adempia ai propri doveri verso la moglie”. Quindi, non è un peccato.
+
+Rispondo che, se supponiamo che la natura corporea sia stata creata dal buon Dio, non possiamo ritenere che quelle cose che contribuiscono alla sua conservazione e di cui essa ha inclinazione siano del tutto malvagie. Poiché l’inclinazione a procreare, al fine di preservare la natura specifica dell’essere umano, deriva stessa dalla natura umana, è impossibile affermare che l’atto di generare figli sia del tutto illecito; quindi non si può negare che in tale atto esista un aspetto legato alla virtù. A meno che non si supponga, come alcuni sono così pazzi da sostenere, che le cose corruttibili siano state create da un dio malvagio. Da questa ipotesi potrebbe derivare l’opinione menzionata nel testo (Sentenze, IV, D, 26); pertanto si tratta di un’eresia estremamente malvagia.
+
+Risposta all’Obiezione 1: Con queste parole l’Apostolo non vietò l’atto coniugale, così come non vietò la possesso delle cose quando disse (1 Corinzi 7:31): “Coloro che usano questo mondo, ” (che lo usino) “come se non lo usassero”. In entrambi i casi, egli vietò il godimento effettivo di tali cose; ciò è chiaro dal modo in cui si esprime: non disse “che non le usino” o “che non le possiedano”, ma che le usino “come se non le usassero” e che non ne abbiano “alcuna”.
+
+Risposta all’Obiezione 2: Siamo uniti a Dio attraverso l’[abitudine](/concepts/custom) della grazia, nonché attraverso l’atto di contemplazione e di amore. Pertanto, qualsiasi cosa interrompa la prima di queste unioni è sempre un peccato; ma ciò che interrompe la seconda non lo è necessariamente, poiché un’attività legittima rivolta a cose inferiori può distogliere l’animo, rendendolo inadatto all’unione effettiva con Dio. Ciò vale soprattutto nel caso del rapporto carnale, in cui l’intensità del piacere impedisce alla mente di concentrarsi su cose divine. Per questo motivo, a coloro che devono contemplare le realtà divine o manipolare oggetti sacri viene imposto di astenersi dal rapporto coniugale durante quel periodo specifico; ed è in questo senso che lo Spirito Santo, riguardo alla rivelazione effettiva di cose nascoste, non toccò i cuori dei profeti al momento dell’atto coniugale.
+
+Risposta all’Obiezione 3: La vergogna legata alla concupiscenza che accompagna sempre l’atto coniugale non rappresenta una vergogna derivante da colpa, ma piuttosto da una punizione inflitta per il primo peccato, poiché le facoltà inferiori e i membri del corpo non obbediscono alla ragione. Pertanto, questo argomento non è convincente.
+
+Risposta all’Obiezione 4: In senso proprio, si dice che una cosa sia scusabile quando presenta alcune apparenze di male, ma in realtà non lo è, o non lo è nella misura in cui sembra; infatti alcune cose sono completamente scuse, altre solo in parte. Poiché l’atto coniugale, a causa della corruzione della concupiscenza, presenta l’apparenza di un atto eccessivo, viene completamente scusato dalla benedizione nuziale, così da non essere considerato un peccato.
+
+Risposta all’Obiezione 5: Sebbene siano identici dal punto di vista della loro specie naturale, differiscono in termini di specie morale, la quale si distingue per una particolare circostanza, ovvero l’interazione con la propria moglie o con un’altra persona diversa dalla moglie; proprio come il fatto di uccidere un uomo per aggressione o per motivi legittimi costituisce una differenza nella specie morale, anche se la specie naturale rimane identica; eppure l’uno è legittimo e l’altro illegittimo.
+
+Risposta all’Obiezione 6: L’eccesso delle passioni che corrompono la virtù non solo ostacola l’azione della ragione, ma distrugge anche l’ordine stesso della ragione. L’intensità del piacere nell’atto coniugale, invece, non comporta questo effetto; infatti, sebbene in quel momento l’uomo non sia guidato dalla ragione, in precedenza è stato comunque guidato da essa.
+
 <span class="atom-split" data-atom="006" data-title="Whether the marriage act is meritorious?" data-chapter="Whether the marriage act is meritorious?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the marriage act is not meritorious. For Chrysostom [*Hom.
@@ -293,6 +375,28 @@ Reply to Objection 3: First movements in so far as they are venial sins are move
 appetite to some inordinate object of pleasure. This is not the case in the marriage act, and
 consequently the argument does not prove.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’atto matrimoniale non sia meritevole. Infatti Crisostomo, nel suo commento su Matteo attribuito falsamente a San Giovanni Crisostomo, afferma: “Sebbene il matrimonio non comporti alcuna punizione per coloro che lo praticano, non offre nemmeno alcun premio o ricompensa”. Ora, il merito è strettamente legato a una qualche forma di ricompensa; pertanto, l’atto matrimoniale non è considerabile meritevole.
+
+Obiezione 2: Inoltre, astenersi da ciò che è meritevole non merita lode. Eppure la verginità, che consiste nell’astenersi dal matrimonio, è qualcosa di lodevole. Pertanto, l’atto matrimoniale non è considerato meritevole.
+
+Obiezione 3: Inoltre, colui che si avvale di una concessione ottenuta merita in realtà un favore ricevuto. Tuttavia, un uomo non merita nulla semplicemente per aver ricevuto un favore. Pertanto, l’atto coniugale non è considerabile un atto meritevole.
+
+Obiezione 4: Inoltre, il merito, proprio come la virtù, deriva dalla difficoltà. Ma l’atto coniugale non comporta difficoltà, ma piacere. Pertanto, non è considerabile un atto meritevole.
+
+Obiezione 5: Inoltre, ciò che non può essere compiuto senza peccato veniale non è mai meritevole, poiché un uomo non può contemporaneamente meritare lode o biasimo. Ora, nell’atto coniugale c’è sempre un peccato veniale, poiché anche il primo atto che conduce a tali piaceri costituisce un peccato veniale. Pertanto, l’atto in questione non può essere considerato meritevole.
+
+Al contrario, ogni atto attraverso il quale un precetto viene adempiuto è meritevole se compiuto per carità. Il matrimonio rientra appunto in questa categoria, poiché si dice (1 Corinzi 7:3): “Che il marito ripaghi il debito verso sua moglie”. Pertanto. Inoltre, ogni atto di virtù è meritevole; l’atto menzionato sopra appartiene appunto alla categoria degli atti di giustizia, poiché viene considerato un modo per “ripagare un debito”. Quindi, anch’esso è meritevole.
+
+Rispondo che, poiché nessun atto derivante da una volontà deliberata può essere indifferente, come affermato nel Secondo Libro (Sentenze ii, D, 40, Q[1], A[3]; FS, Q[18], A[9]), l’atto coniugale è sempre, per colui che si trova in uno stato di grazia, o peccaminoso o meritevole. Se infatti il movente dell’atto coniugale è una virtù – sia essa quella della giustizia, finalizzata al rimborso di un debito, sia quella della religione, volta alla procreazione di figli per l’[adorazione](/concepts/religion) di Dio – allora tale atto è meritevole. Tuttavia, se il movente è la lussuria, ma senza escludere le benedizioni coniugali – cioè se la persona non sarebbe mai disposta a rivolgersi a un’altra donna – si tratta di un peccato veniale; mentre se tali benedizioni vengono escluse, rendendo la persona propensa ad agire allo stesso modo con qualsiasi donna, allora si tratta di un peccato mortale. Inoltre, la natura non può agire senza essere guidata dalla ragione: in tal caso l’atto sarà una virtù; altrimenti sarà un atto di lussuria.
+
+Risposta all’Obiezione 1: La radice del merito, per quanto riguarda la ricompensa essenziale, è proprio la carità stessa; ma per quanto riguarda una ricompensa accidentale, il motivo del merito risiede nella difficoltà dell’atto compiuto; pertanto, l’atto coniugale non è meritevole se non nel primo senso menzionato.
+
+Risposta all’Obiezione 2: La difficoltà richiesta per meritare una ricompensa accidentale è legata al lavoro svolto, mentre la difficoltà necessaria per meritare una ricompensa essenziale riguarda l’adempimento dei doveri morali, e questa difficoltà si manifesta proprio nell’atto coniugale.
+
+Risposta all’Obiezione 3: I primi atti, nella misura in cui rappresentano peccati veniali, sono azioni dell’appetito dirette verso un oggetto di piacere eccessivo o irragionevole. Questo non vale per l’atto coniugale; pertanto, l’argomentazione proposta non è valida.
+
 <span class="atom-split" data-atom="007" data-title="OF MATRIMONY AS A SACRAMENT (FOUR ARTICLES)" data-chapter="OF MATRIMONY AS A SACRAMENT (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider matrimony as a [sacrament](/concepts/sacrament). Under this head there are four points of
@@ -301,6 +405,14 @@ inquiry:
 (2) Whether it ought to have been instituted before sin was committed?
 (3) Whether it confers grace?
 (4) Whether carnal intercourse belongs to the integrity of matrimony?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il matrimonio come un [sacramento](/concepts/sacrament). In questo contesto, vi sono quattro punti da esaminare:  
+(1) Il matrimonio è davvero un sacramento?  
+(2) Avrebbe dovuto essere istituito prima che venisse commesso il peccato?  
+(3) Conferisce grazia?  
+(4) La relazione carnale fa parte dell’integrità del matrimonio?
 
 <span class="atom-split" data-atom="008" data-title="Whether matrimony is a sacrament?" data-chapter="Whether matrimony is a sacrament?" data-kind="atom" data-srclang="en"></span>
 
@@ -352,6 +464,32 @@ be found, for the acts externally apparent are the sacrament only; the bond betw
 wife resulting from those acts is reality and sacrament; and the ultimate reality contained is the
 effect of this sacrament, while the non-contained reality is that which the Master assigns (Sent. iv,
 D, 26).
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il matrimonio non sia un [sacramento](/concepts/sacrament). Infatti, ogni sacramento del Nuovo Testamento presenta una forma essenziale per la sua validità. Tuttavia, la benedizione impartita dal sacerdote durante un matrimonio non è essenziale al matrimonio stesso; pertanto, non può essere considerata un sacramento.
+
+Obiezione 2: Inoltre, secondo Ugo (De Sacram., I), un sacramento è “un elemento materiale”. Ma il matrimonio non possiede un elemento materiale come sua sostanza; pertanto, non può essere considerato un sacramento.
+
+Obiezione 3: Inoltre, i sacramenti traggono la loro efficacia dalla Passione di Cristo. Ma il matrimonio, poiché comporta piacere, non conforma l’uomo alla Passione di Cristo, che fu dolorosa. Pertanto, non è un sacramento.
+
+Obiezione 4: Inoltre, ogni sacramento della [Nuova Legge](/concepts/divine_law) provoca ciò che simboleggia; tuttavia il matrimonio non provoca l’unione di Cristo con la Chiesa, che invece è ciò che simboleggia. Pertanto, il matrimonio non è un sacramento.
+
+Obiezione 5: Inoltre, negli altri sacramenti esiste qualcosa che sia allo stesso tempo realtà e sacramento. Ma questo non si riscontra nel matrimonio, poiché esso non imprime alcun “carattere” speciale sugli sposi; altrimenti tale carattere verrebbe ripetuto nelle cerimonie successive. Pertanto, il matrimonio non è un sacramento.
+
+Al contrario, è scritto (Efesini 5:32): “Questo è un grande sacramento”. Pertanto, ecc. Inoltre, un sacramento è il segno di una realtà sacra; e il matrimonio è proprio tale realtà sacra. Pertanto, ecc.
+
+Rispondo che un sacramento rappresenta un mezzo santificante contro il peccato, offerto all’uomo attraverso segni sensibili [*Cfr. TP, Q[61], A[1]; TP, Q[65], A[1. Poiché lo stesso vale per il matrimonio, esso è considerato uno dei sacramenti.
+
+Risposta all’Obiezione 1: Le parole con cui viene espressa la consenso al matrimonio costituiscono la forma di questo sacramento, e non la benedizione del sacerdote, che è anch’essa un atto sacramentale.
+
+Risposta all’Obiezione 2: Il sacramento del matrimonio, come quello della penitenza, viene perfezionato dall’atto stesso di chi lo riceve. Pertanto, proprio come la penitenza non ha altra materia se non gli atti sensibili che sostituiscono l’elemento materiale, lo stesso vale per il matrimonio.
+
+Risposta all’Obiezione 3: Sebbene il matrimonio non sia conforme alla Passione di Cristo in termini di sofferenza, lo è in termini di carità, attraverso la quale Egli ha sofferto per la Chiesa, che avrebbe dovuto unirsi a Lui come Sua sposa.
+
+Risposta all’Obiezione 4: L’unione di Cristo con la Chiesa non è la realtà contenuta in questo sacramento, ma è piuttosto una realtà significata, e non effettivamente contenuta al suo interno; inoltre, nessun sacramento può generare una realtà di quel tipo. Il sacramento produce invece un’altra realtà, sia contenuta che significata al suo interno, come spiegheremo più avanti (ad 5). Tuttavia, il Maestro afferma che si tratti di una realtà non effettivamente contenuta nel sacramento, poiché riteneva che il matrimonio non possedesse alcuna realtà intrinseca in sé.
+
+Risposta all’Obiezione 5: Anche in questo sacramento si trovano quelle tre componenti [*Cfr. TP, Q[66], A[1: gli atti esteriormente visibili costituiscono soltanto il sacramento stesso; il legame tra marito e moglie che ne deriva è sia realtà che sacramento; la realtà ultima contenuta in questo sacramento è l’effetto che esso produce, mentre quella realtà non contenuta è ciò che il Maestro ne stabilisce ([Sentenze], iv, D, 26).
 
 <span class="atom-split" data-atom="009" data-title="Whether this sacrament ought to have been instituted before sin was committed?" data-chapter="Whether this sacrament ought to have been instituted before sin was committed?" data-kind="atom" data-srclang="en"></span>
 
@@ -413,6 +551,32 @@ from God.
 
 Reply to Objection 5: As was clearly stated, matrimony was not instituted before Christ as a
 sacrament of the New Law.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il matrimonio non dovrebbe essere stato istituito prima del peccato. Infatti, ciò che appartiene alla [legge naturale](/positions/natural_law) non ha bisogno di essere istituito. Ora, il matrimonio rientra appunto in questa categoria, come detto sopra (Q[41], A[1]). Pertanto, non dovrebbe essere stato istituito prima del peccato.
+
+Obiezione 2: Inoltre, i sacramenti sono rimedi contro la “malattia” del peccato. Ma un rimedio non viene preparato se non per una malattia reale; pertanto, i sacramenti non avrebbero dovuto essere istituiti prima dell’esistenza del peccato.
+
+Obiezione 3: Inoltre, un’unica istituzione è sufficiente per uno scopo specifico. Ora, il Matrimonio fu istituito anche dopo il peccato, come affermato nel testo (Sentenze iv, D, 26). Pertanto, non fu istituito prima del peccato.
+
+Obiezione 4: Inoltre, l’istituzione di un [sacramento](/concepts/sacrament) deve provenire da Dio. Prima del peccato, le parole relative al matrimonio non furono pronunciate definitivamente da Dio, ma da Adamo; le parole che Dio disse (Genesi 1:22), “Moltiplicatevi e riempite la terra”, erano rivolte anche alla creazione animale, dove non esiste il concetto di matrimonio. Pertanto, il matrimonio non fu istituito prima del peccato.
+
+Obiezione 5: Inoltre, il matrimonio è un sacramento del [Nuovo Testamento](/concepts/divine_law). Ma i sacramenti del Nuovo Testamento hanno avuto origine da Cristo. Pertanto, non avrebbe dovuto essere istituito prima del peccato.
+
+Al contrario, si dice (Matteo 19:4): “Non avete letto che Colui che ha creato l’uomo fin dall’inizio lo ha fatto maschio e femmina”? Inoltre, il matrimonio è stato istituito per la procreazione dei figli. Ma la procreazione era necessaria all’uomo prima del peccato; pertanto, anche il matrimonio doveva essere istituito prima del peccato.
+
+Rispondo che la Natura tende al matrimonio con uno scopo specifico, un bene che varia a seconda delle diverse condizioni umane; per questo motivo è stato necessario istituire il matrimonio in modi diversi a seconda di tali condizioni, al fine di realizzare tale bene. Pertanto, il matrimonio inteso alla procreazione – una funzione indispensabile anche prima dell’esistenza del peccato – fu istituito prima del peccato stesso; successivamente, in quanto strumento per guarire la ferita causata dal peccato, fu introdotto con il Diritto Naturale. La sua istituzione rientra nel Diritto Mosaico riguardo alle impedizioni personali, mentre nel Nuovo Testamento rappresenta il mistero dell’unione di Cristo con la Chiesa, e in questo senso costituisce un sacramento del Nuovo Testamento. Per quanto riguarda altri vantaggi derivanti dal matrimonio, come l’amicizia e i reciproci aiuti tra coniugi, la sua istituzione rientra nel Diritto Civile. Tuttavia, poiché un sacramento è essenzialmente un segno e uno strumento di salvezza, si può affermare che la natura del sacramento si applichi al matrimonio riguardo alla sua funzione intermediaria; che sia appropriato per adempiere a una funzione naturale riguardo alla sua istituzione originale; e che, per quanto riguarda la sua funzione sociale, sia volto a realizzare scopi legati alla comunità umana.
+
+Risposta all’Obiezione 1: Le norme che rientrano nel diritto naturale in modo generale devono essere stabilite in merito alle loro specifiche modalità di applicazione, le quali possono variare a seconda delle diverse circostanze; proprio come è del diritto naturale che i malviventi vengano puniti, ma che il tipo di punizione da infliggere per un determinato reato sia stabilito dal diritto positivo.
+
+Risposta all’Obiezione 2: Il matrimonio non è soltanto un mezzo per combattere il peccato, ma soprattutto un dovere imposto dalla natura; pertanto fu istituito prima del peccato, e non come strumento per combatterlo.
+
+Risposta all’Obiezione 3: Non esiste alcun motivo per cui il matrimonio non possa avere diverse istituzioni, corrispondenti alle varie questioni che devono essere regolate in relazione al matrimonio stesso. Pertanto, queste diverse istituzioni non rappresentano la stessa cosa nello stesso contesto.
+
+Risposta all’Obiezione 4: Prima del peccato, il matrimonio fu istituito da Dio, quando Egli creò per l’uomo una compagna dal suo costato e disse loro: “Moltiplicatevi”. E sebbene queste parole fossero state rivolte anche agli altri animali, esse non dovevano essere realizzate da loro nello stesso modo in cui lo furono dagli uomini. Per quanto riguarda le parole di Adamo, egle furono pronunciate ispirato da Dio, affinché comprendesse che l’istituzione del matrimonio proveniva da Dio stesso.
+
+Risposta all’Obiezione 5: Come è stato chiaramente detto, il matrimonio non fu istituito prima di Cristo come sacramento della Nuova Legge.
 
 <span class="atom-split" data-atom="010" data-title="Whether matrimony confers grace?" data-chapter="Whether matrimony confers grace?" data-kind="atom" data-srclang="en"></span>
 
@@ -540,6 +704,28 @@ to the second and not to the first integrity.
 Reply to Objection 4: Before carnal intercourse marriage is a remedy by virtue of the grace
 given therein, although not by virtue of the act, which belongs to the second integrity.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il rapporto sessuale sia una parte integrante del matrimonio. Infatti, fin dalla stessa istituzione del matrimonio fu dichiarato (Genesi 2:24): “Diventeranno una carne sola”. Ora, questo risultato può essere ottenuto soltanto attraverso il rapporto sessuale; pertanto esso costituisce senz’altro una parte integrante del matrimonio.
+
+Obiezione 2: Inoltre, ciò che appartiene al significato di un [sacramento](/concepts/sacrament) è necessario per tale sacramento, come abbiamo già affermato in precedenza (A[2]; Q[9], A[1]). Ora, il rapporto carnale appartiene al significato del matrimonio, come indicato nel testo (Sent. iv, D, 26). Pertanto, esso costituisce una parte integrante del sacramento stesso.
+
+Obiezione 3: Inoltre, questo sacramento ha lo scopo di preservare la “specie”. Ma tale specie non può essere conservata senza rapporti carnali. Pertanto, tali rapporti costituiscono una parte integrante del sacramento stesso.
+
+Obiezione 4: Inoltre, il matrimonio è un sacramento in quanto offre un rimedio contro la concupiscenza; secondo le parole dell’Apostolo (1 Corinzi 7:9): “È meglio sposarsi che bruciare”. Tuttavia, questo rimedio non è disponibile per coloro che non hanno rapporti carnali. Pertanto, si arriva alla stessa conclusione di prima.
+
+Al contrario, nel Paradiso esisteva il matrimonio, eppure non vi era alcun rapporto carnale. Pertanto, il rapporto carnale non è una parte integrante del matrimonio. Inoltre, un sacramento, per definizione stessa, indica una santificazione; ma il matrimonio è ancora più santo senza rapporti carnali, secondo quanto affermato nel testo (Sentenze D, 26). Quindi, il rapporto carnale non è necessario per il sacramento stesso.
+
+Rispondo che l’integrità è di duplice natura: una riguarda la perfezione primordiale, che consiste nella stessa essenza di una cosa; l’altra riguarda la perfezione secondaria, che deriva dall’uso o dall’applicazione di quella essenza. Poiché il rapporto carnale rappresenta proprio un tale uso dell’unione coniugale, ne consegue che appartiene alla seconda forma di integrità del matrimonio, e non alla prima. [*Cfr. TP, Q[29], A[2]*].
+
+Risposta all’Obiezione 1: Adam esprimeva l’integrità del matrimonio in relazione a entrambe le sue perfezioni, poiché una cosa viene conosciuta attraverso il suo funzionamento.
+
+Risposta all’Obiezione 2: La significazione della cosa contenuta nel sacramento è necessaria per la sua efficacia. Il rapporto sessuale carnale non rientra in questa significazione, ma appartiene alla cosa che il sacramento non contiene, come emerge da quanto detto in precedenza (A[1], ad 4,5).
+
+Risposta all’Obiezione 3: Una cosa non raggiunge la sua fine se non attraverso il proprio atto. Pertanto, poiché la fine del matrimonio non può essere raggiunta senza rapporti carnali, ne consegue che tale fine appartiene alla seconda, e non alla prima forma di integrità coniugale.
+
+Risposta all’Obiezione 4: Prima dell’intimità sessuale, il matrimonio rappresenta un rimedio grazie alla grazia che vi è insita, sebbene non per via dell’atto stesso, che appartiene alla seconda forma di integrità coniugale.
+
 <span class="atom-split" data-atom="012" data-title="OF MATRIMONY WITH REGARD TO THE BETROTHAL (THREE ARTICLES)" data-chapter="OF MATRIMONY WITH REGARD TO THE BETROTHAL (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 In the next place we must consider matrimony absolutely; and here we must treat (1) of the
@@ -550,6 +736,14 @@ Under the first head there are three points of inquiry:
 (1) What is the betrothal?
 (2) Who can contract a betrothal?
 (3) Whether a betrothal can be canceled?
+
+<span class="qlang-split" data-lang="it"></span>
+
+In seguito, dobbiamo considerare il matrimonio in modo assoluto; e in questo contesto dobbiamo trattare: (1) l’fidanzamento; (2) la natura del matrimonio; (3) la sua [causa efficace](/concepts/four_causes), ovvero il consenso delle parti; (4) le sue benedizioni; (5) gli ostacoli al suo svolgimento; (6) i matrimoni successivi; (7) alcune questioni collegate al matrimonio stesso.  
+All’interno della prima categoria di argomenti, vi sono tre punti da esaminare:  
+(1) Che cos’è l’fidanzamento?  
+(2) Chi può contrarre un fidanzamento?  
+(3) È possibile annullare un fidanzamento?
 
 <span class="atom-split" data-atom="013" data-title="Whether a betrothal is a promise of future marriage?" data-chapter="Whether a betrothal is a promise of future marriage?" data-kind="atom" data-srclang="en"></span>
 
@@ -631,6 +825,34 @@ man is called a "spouse," even when the marriage has been contracted by words ex
 present, because by this very fact he promises [spondet] the marriage act. However, properly
 speaking, espousals are so called from the promise [sponsione] in the first sense, because espousals
 are a kind of sacramental annexed to matrimony, as exorcism to baptism.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un fidanzamento non possa essere correttamente definito “una promessa di matrimonio futuro”, come espresso nelle parole di Papa Niccolò I (Resp. ad Consul. Bulgar., iii). Infatti, come afferma Isidoro (Etym. iv), “un uomo viene considerato fidanzato non semplicemente per una promessa, ma perché ha dato la sua parola [spondet] e ha fornito garanti [sponsores]”. Poiché una persona è definita fidanzata in base al proprio fidanzamento, è errato descriverlo come una semplice promessa.
+
+Obiezione 2: Inoltre, chi promette qualcosa deve essere costretto a mantenere la sua promessa. Tuttavia coloro che hanno contratto un fidanzamento non sono obbligati dalla Chiesa a celebrare il matrimonio. Pertanto, un fidanzamento non rappresenta una vera e propria promessa.
+
+Obiezione 3: Inoltre, a volte un fidanzamento non consiste semplicemente in una promessa, ma include anche un giuramento, così come alcune altre forme di impegno. Pertanto, sembrerebbe che non dovrebbe essere definito semplicemente una promessa.
+
+Obiezione 4: Inoltre, il matrimonio dovrebbe essere libero e assoluto. Tuttavia, un fidanzamento talvolta viene stipulato con condizioni, persino legate al ricevimento di denaro. Pertanto, non è appropriato definirlo una promessa di matrimonio.
+
+Obiezione 5: Inoltre, promettere qualcosa riguardo al futuro viene criticato in Giacomo 4:13 e seguenti. Ma i sacramenti non dovrebbero contenere nulla di biasimabile; pertanto, non si dovrebbe fare promesse riguardanti un matrimonio futuro.
+
+Obiezione 6: Inoltre, nessuno viene definito coniuge se non in base ai propri sponsali. Tuttavia, un uomo è considerato coniuge in virtù del matrimonio effettivamente contratto, secondo quanto affermato nel testo (Sentenze iv, D, 27). Pertanto, i sponsali non rappresentano sempre una promessa di matrimonio futuro.
+
+Rispondo che il consenso all’unione coniugale, se espresso con parole relative al futuro, non costituisce un matrimonio, ma soltanto una promessa di matrimonio; tale promessa viene definita “promessa di fidanzamento”, come afferma Isidoro nell’Etymologia iv. Prima dell’uso delle tavolette d’inchiostro, le persone si impegnavano con promesse scritte, con cui dichiaravano il loro consenso reciproco secondo i principi del diritto matrimoniale e designavano garanti per tale impegno. Queste promesse potevano essere fatte in due modi: in modo assoluto o condizionato. In modo assoluto, esistevano quattro forme: 1) una semplice dichiarazione di intento, come “Ti prenderò per moglie”; 2) l’offerta di doni, come denaro, come segno del proprio impegno; 3) la consegna di un anello di fidanzamento; 4) l’aggiunta di un giuramento. Se invece la promessa veniva fatta in modo condizionato, era necessario fare una distinzione: o la condizione era onorevole (ad esempio “Ti prenderò per moglie se i tuoi genitori acconsentono”), e in tal caso la promessa aveva effetto solo se la condizione veniva rispettata; oppure la condizione era disonorevole, e questo poteva accadere in due modi: o perché contraddiceva i principi del matrimonio (ad esempio “Ti prenderò per moglie se prometti di rimanere sterile”), e in tal caso non si concludeva alcun fidanzamento; oppure perché non contraddiceva tali principi, ma la condizione era comunque inaccettabile (ad esempio “Ti prenderò per moglie se acconsenti ai miei furti”), e in tal caso la promessa aveva effetto, ma la condizione doveva essere rimossa.
+
+Risposta all’Obiezione 1: Il fidanzamento stesso e la consegna delle garanzie costituiscono una ratifica della promessa; per questo motivo vengono denominati in base a questi elementi, ovvero a ciò che è più perfetto.
+
+Risposta all’Obiezione 2: Con questa promessa una delle parti si impegna verso l’altra riguardo alla stipulazione di un matrimonio; colui che non adempie alla sua promessa commette un peccato mortale, a meno che non sorgano impedimenti legali. La Chiesa ricorre alla coercizione nel senso di imporre una penitenza per questo peccato. Tuttavia, nessuno è costretto dall’ordine di un tribunale, poiché i matrimoni imposti con la forza tendono a produrre conseguenze negative; salvo il caso in cui le parti siano vincolate da un giuramento, nel qual caso, secondo alcuni, dovrebbe esserci coercizione, anche se altri la ritengono inappropriata, soprattutto quando esiste il timore che una delle parti possa uccidere l’altra.
+
+Risposta all’Obiezione 3: Tali elementi vengono aggiunti esclusivamente a conferma della promessa; pertanto, non sono distinti da essa.
+
+Risposta all’Obiezione 4: La condizione aggiunta non distrugge la libertà matrimoniale; infatti, se tale condizione fosse illegale, dovrebbe essere rifiutata; se invece fosse legittima, riguarderebbe cose semplicemente buone, come ad esempio dire “Ti sposerò se i tuoi genitori acconsentono”: in tal caso, questa condizione non distrugge la libertà del fidanzamento, ma ne aumenta la rettitudine. Oppure potrebbe riguardare cose utili, come ad esempio dire “Mi sposerò se mi pagherai cento sterline”; in questo caso, tale condizione non viene inserita come prezzo per il consenso al matrimonio, ma indica semplicemente l’impegno a fornire una dote; quindi il matrimonio non perde la sua libertà. Tuttavia, a volte la condizione aggiunta riguarda il pagamento di una somma di denaro a titolo di sanzione; in tal caso, poiché il matrimonio dovrebbe essere libero, una tale condizione non è valida, e nessuno può essere costretto a pagare una sanzione se non desidera mantenere l’impegno preso nel matrimonio.
+
+Risposta all’Obiezione 5: James non intende vietare del tutto la formulazione di promesse riguardo al futuro, ma quella di promesse come se si fosse certi della propria vita; per questo insegna che dovremmo aggiungere la condizione “Se il Signore vorrà”, che, anche se non è espressa a parole, dovrebbe comunque essere tenuta a mente.
+
+Risposta all’Obiezione 6: Nel matrimonio possiamo considerare sia l’unione coniugale che l’atto matrimoniale stesso; in base alla promessa relativa all’unione coniugale – intesa come futura – un uomo viene chiamato “sposo” poiché ha contratto i patti nuziali attraverso parole che esprimono un futuro legame coniugale; mentre, anche quando il matrimonio è stato contratto attraverso parole che esprimono il presente, un uomo viene comunque chiamato “sposo”, poiché proprio in questo modo egli promette di compiere l’atto matrimoniale. Tuttavia, in senso stretto, i patti nuziali vengono definiti tali sulla base della promessa fatta nel primo dei due sensi menzionati, poiché essi rappresentano una sorta di sacramento connesso al matrimonio, analogamente all’esorcismo che accompagna il battesimo.
 
 <span class="atom-split" data-atom="014" data-title="Whether seven years is fittingly assigned as the age for betrothal?" data-chapter="Whether seven years is fittingly assigned as the age for betrothal?" data-kind="atom" data-srclang="en"></span>
 
@@ -737,6 +959,40 @@ ii, 56), "when little is lacking it seems as though nothing were lacking." Some 
 months. but it is better to determine it according to the condition of the contracting parties, since
 the use of reason comes sooner to some than to others.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che sette anni non siano un’età appropriata per il fidanzamento.  
+Infatti, un contratto che può essere stipulato da altri non richiede alcuna considerazione particolare da parte delle persone coinvolte.  
+Il fidanzamento può essere organizzato dai genitori senza che nessuno dei due futuri sposi ne sia a conoscenza. Pertanto, è possibile stabilire un fidanzamento anche prima degli otto anni, così come dopo tale età.
+
+Obiezione 2: Inoltre, proprio come è necessario un certo uso della ragione per stipulare un fidanzamento, lo stesso vale per il consenso alla commissione di un peccato mortale. Come afferma Gregorio nel “Dialogo iv”, un bambino di cinque anni fu rapito dal diavolo a causa del peccato di blasfemia; pertanto, un fidanzamento può avere luogo anche prima dei sette anni di età.
+
+Obiezione 3: Inoltre, un fidanzamento ha lo scopo di portare al matrimonio. Tuttavia, per il matrimonio non viene stabilita la stessa età per il ragazzo e la ragazza.
+
+Obiezione 4: Inoltre, si può impegnarsi in un fidanzamento non appena il futuro matrimonio risulti accettabile per una persona. Spesso, i segni di tale accettabilità sono evidenti nei ragazzi già prima dei sette anni; pertanto, è possibile impegnarsi in un fidanzamento anche prima di quell’età.
+
+Obiezione 5: Inoltre, se le persone si fidanzano prima di aver compiuto sette anni e successivamente, dopo aver raggiunto l’età di sette anni ma prima dell’età della maturità, rinnovano il loro impegno con parole che esprimono un vincolo attuale, si considera che siano effettivamente fidanzate. Ora, ciò non avviene in virtù del secondo contratto, poiché le parti intendono stipulare non un semplice fidanzamento ma un matrimonio. Pertanto, il fidanzamento può essere celebrato anche prima dei sette anni di età.
+
+Obiezione 6: Inoltre, quando un’azione viene compiuta da molte persone insieme, se una di esse fallisce, viene sostituita da un’altra, come nel caso di coloro che remano su una barca. Ora, il contratto di fidanzamento è un’azione condivisa dalle parti contraenti. Pertanto, se una persona è maggiorenne, può contrarre un fidanzamento con una ragazza che non abbia ancora sette anni, poiché la mancanza di età da parte di uno dei contraenti viene più che compensata da quella dell’altro.
+
+Obiezione 7: Inoltre, coloro che, intorno all’età della pubertà ma prima di raggiungerla, contraggono matrimonio attraverso parole che esprimono il presente sono considerati sposati. Pertanto, allo stesso modo, se contraggono matrimonio attraverso parole che esprimono il futuro, prima ancora di avvicinarsi all’età della pubertà, devono essere considerati fidanzati.
+
+Rispondo che l’età di sette anni è sufficientemente stabilita dalla legge per contrarre promesse di matrimonio, poiché una promessa di matrimonio rappresenta un impegno riguardante il futuro, come già detto (A[1]). Pertanto, tale atto rientra nella competenza di coloro che sono in grado di formulare impegni, e ciò è possibile soltanto per coloro che possiedono una certa capacità di prevedere il futuro, il che richiede l’uso della ragione. Secondo il Filosofo (Etica, i, 4), esistono tre gradi di sviluppo della ragione: il primo si verifica quando una persona né comprende da sola né è in grado di imparare dagli altri; il secondo quando è in grado di apprendere ma non riesce a riflettere e comprendere autonomamente; il terzo quando è sia in grado di apprendere che di riflettere autonomamente. Poiché la ragione si sviluppa gradualmente nell’uomo, proporzionalmente alla calma dei movimenti degli umori corporei, l’uomo raggiunge il primo grado di razionalità prima del settimo anno di vita; pertanto, in quel periodo non è idoneo a contrarre alcun impegno, né tantomeno promesse di matrimonio. Comincia invece a raggiungere il secondo grado alla fine dei primi sette anni, ed è per questo che i bambini di quell’età vengono mandati a scuola. Il terzo grado di razionalità viene raggiunto alla fine dei secondi sette anni, riguardo alle questioni legate alla propria persona, quando la ragione naturale si sviluppa appieno; per quanto riguarda le questioni esterne alla propria persona, il terzo grado viene raggiunto alla fine dei terzi sette anni. Pertanto, prima dei primi sette anni un uomo non è idoneo a contrarre alcun impegno, ma alla fine di quel periodo inizia ad essere in grado di formulare promesse riguardanti il futuro, soprattutto su quelle questioni verso cui la ragione naturale lo spinge; tuttavia, non è ancora in grado di assumersi obblighi permanenti, poiché non possiede ancora una volontà ferma. Per questo motivo, in quell’età è possibile contrarre promesse di matrimonio. Alla fine dei secondi sette anni, invece, un uomo può assumersi obblighi riguardanti la propria persona, sia religiosi che coniugali; dopo i terzi sette anni può assumersi obblighi anche in altri ambiti. Secondo le leggi vigenti, inoltre, acquisisce il potere di disporre della propria proprietà dopo i ventiduesimi anni di vita.
+
+Risposta all’Obiezione 1: Se le parti sono fidanzate da un’altra persona prima di raggiungere l’età della pubertà, sia una che entrambe possono opporsi; pertanto, in tal caso il fidanzamento non entra in vigore e, di conseguenza, non sorge alcun legame tra le parti. Quindi, un fidanzamento stabilito da altri per determinate persone entra in vigore soltanto se queste ultime non si oppongono quando raggiungono l’età appropriata, il che significa che acconsentono a quanto altri hanno deciso per loro.
+
+Risposta all’Obiezione 2: Alcuni sostengono che il ragazzo di cui parla Gregorio non sia mai andato perduto, né abbia commesso un peccato mortale; inoltre, affermano che quella visione avesse lo scopo di far soffrire il padre, poiché questi aveva peccato nei confronti del figlio, non riuscendo a correggerlo. Tuttavia, ciò è in contrasto con l’intenzione esplicita di Gregorio, il quale afferma (Dial. iv) che “il padre del ragazzo, avendo trascurato l’anima del proprio figlio, aveva contribuito alla nascita di un vero peccatore destinato alle fiamme dell’inferno”. Pertanto, si deve riconoscere che per commettere un peccato mortale sia sufficiente dare il consenso a un atto presente, mentre nel caso di un fidanzamento il consenso riguarda un evento futuro; inoltre, è necessaria una maggiore prudenza razionale quando si considerano le conseguenze future rispetto al semplice consenso verso un atto immediato. Di conseguenza, un uomo può commettere un peccato mortale prima ancora di impegnarsi in un obbligo futuro.
+
+Risposta all’Obiezione 3: Per quanto riguarda l’età necessaria per stipulare un contratto di matrimonio, è richiesto che sia soddisfatta non solo la capacità razionale, ma anche le condizioni fisiche, in particolare l’essere giunti a un’età adatta alla procreazione. Poiché una ragazza diventa idonea all’atto della procreazione nel dodicesimo anno e un ragazzo alla fine del secondo periodo di sette anni, come afferma il Filosofo nel “De Hist. Anim.” vii, mentre l’età necessaria per acquisire la capacità razionale – che è l’unica condizione richiesta per il fidanzamento – è la stessa in entrambi i casi, ne consegue che venga stabilita un’unica età per entrambi riguardo al fidanzamento, ma non anche per il matrimonio.
+
+Risposta all’Obiezione 4: Questa affabilità nei confronti dei bambini di età inferiore ai sette anni non deriva dall’uso perfetto della ragione, poiché essi non possiedono ancora un completo autocontrollo; deriva piuttosto dal movimento naturale che da qualsiasi processo razionale. Pertanto, questa affabilità non è sufficiente per stipulare un fidanzamento.
+
+Risposta all’Obiezione 5: In questo caso, anche se il secondo contratto non equivale a un matrimonio, le parti dimostrano comunque di voler confermare la promessa fatta in precedenza; pertanto, il primo contratto viene rafforzato dal secondo.
+
+Risposta all’Obiezione 6: Coloro che remano in barca agiscono come conseguenza di una singola causa; pertanto ciò che manca in uno può essere compensato dall’altro. Ma coloro che stipulano un contratto di fidanzamento agiscono come persone distinte, poiché il fidanzamento può sussistere soltanto tra due parti. Per questo motivo è necessario che entrambe le parti siano idonee a contrarre tale accordo; quindi la mancanza di una delle parti rappresenta un ostacolo al loro fidanzamento e non può essere compensata dall’altra.
+
+Risposta all’Obiezione 7: È vero che, in materia di fidanzamento, se le parti contraenti sono vicine ai sette anni, il contratto di fidanzamento è valido, poiché, secondo il Filosofo (Fisica ii, 56), “quando manca poco sembra che nulla manchi”. Alcuni fissano questo limite a sei mesi; tuttavia è meglio determinarlo in base alle condizioni delle parti contraenti, poiché l’uso della ragione si manifesta prima in alcuni che in altri.
+
 <span class="atom-split" data-atom="015" data-title="Whether a betrothal can be dissolved?" data-chapter="Whether a betrothal can be dissolved?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a betrothal cannot be dissolved if one of the parties enter
@@ -829,6 +1085,42 @@ Reply to Objection 8: Although it was not a true betrothal, there was a betrotha
 consequently, lest approval should seem to be given when they come to the lawful age, they should
 seek a dissolution of the betrothal by the judgment of the Church, for the sake of a good example.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un fidanzamento non possa essere annullato se una delle parti entra in religione. Infatti, se ho promesso qualcosa a qualcuno, legalmente non posso prometterlo a un altro. Chi si impegna in un fidanzamento promette il proprio corpo alla donna; pertanto non può offrire nuovamente se stesso a Dio attraverso la religione.
+
+Obiezione 2: Ancora una volta, sembrerebbe che il rapporto non dovrebbe essere interrotto quando una delle parti si reca in un paese lontano, poiché in questioni dubbi si dovrebbe sempre scegliere la strada più sicura. Ora, la strada più sicura sarebbe quella di aspettarlo. Pertanto, lei è obbligata ad aspettarlo.
+
+Obiezione 3: Inoltre, nemmeno in questo caso il fidanzamento sembra poter essere annullato a causa di una malattia contratta dopo l’impegno matrimoniale, poiché nessuno dovrebbe essere punito per trovarsi in una situazione che comporta sanzioni. Se un uomo contraesse una malattia e ne derivasse la perdita del diritto alla donna con cui era fidanzato, verrebbe comunque punito. Pertanto, il fidanzamento non dovrebbe essere annullato a causa di una infermità fisica.
+
+Obiezione 4: Inoltre, nemmeno un fidanzamento dovrebbe essere annullato a causa di una parentela sorta successivamente, ad esempio se il futuro coniuge commettesse adulterio con una parente della sua promessa sposa; in tal caso, la futura moglie verrebbe punita per il peccato del proprio futuro marito, il che è assurdo.
+
+Obiezione 5: Ancora una volta, sembra che non possano liberarsi a vicenda; infatti, se si legassero insieme per poi liberarsi reciprocamente, ciò costituirebbe una prova di estrema incostanza, e un comportamento del genere non dovrebbe essere tollerato dalla Chiesa. Pertanto, eccetera.
+
+Obiezione 6: Inoltre, non sembrerebbe nemmeno giusto sciogliere un fidanzamento a causa della fornicazione di una delle parti coinvolte. Infatti, il fidanzamento non conferisce ancora a nessuna delle due parti il potere su corpo dell’altra; pertanto, non sembrerebbe che commettessero alcun peccato reciproco se, nel frattempo, dovessero indulgere in atti di fornicazione. Di conseguenza, un fidanzamento non dovrebbe essere sciolto per tale motivo.
+
+Obiezione 7: Ancora una volta, non sembra che ciò avvenga nemmeno a causa di un contratto stipulato con un’altra donna attraverso parole che esprimono il presente. Infatti, una vendita successiva non annulla quella precedente; pertanto, neanche un secondo contratto dovrebbe annullare quello precedente.
+
+Obiezione 8: Inoltre, nemmeno in questo caso sembrerebbe possibile sciogliere un fidanzamento a causa di una età insufficiente; poiché ciò che non esiste non può essere sciolto. Ora, un fidanzamento è nullo prima che venga raggiunta l’età richiesta; pertanto non può essere sciolto.
+
+Rispondo che, in tutti i casi menzionati sopra, il fidanzamento stipulato viene annullato, ma in modi diversi. In due di essi – cioè quando una delle parti entra in una religione o quando uno dei futuri coniugi contrae un legame con un’altra persona attraverso parole che esprimono un impegno immediato – il fidanzamento viene annullato per legge; negli altri casi, invece, deve essere annullato secondo la decisione della Chiesa.
+
+Risposta all’Obiezione 1: Una promessa del genere viene annullata dalla morte spirituale, poiché tale promessa è puramente spirituale, come chiariremo ulteriormente in (Q[61], A[2]).
+
+Risposta all’Obiezione 2: Questo dubbio si risolve nel caso in cui nessuna delle due parti si presenti al momento fissato per il completamento del matrimonio. Pertanto, se la mancata conclusione del matrimonio non è dovuta a colpa di una delle parti, essa può sposarsi legalmente senza commettere alcun peccato. Tuttavia, se tale responsabilità ricade su una delle parti, ciò implica l’obbligo di compiere penitenza per la promessa infranta – o per il giuramento, qualora la promessa fosse stata confermata con un giuramento – e tale persona può contrarre matrimonio con un’altra persona, se lo desidera, previa valutazione della Chiesa.
+
+Risposta all’Obiezione 3: Se una delle parti promesse contrai un’infirmità che indebolisce notevolmente la persona (come l’epilessia o la paralisi), oppure causa una deformità (come la perdita del naso o degli occhi, e simili), o è contraria al bene della prole (come la lebbra, che di solito si trasmette ai figli), il fidanzamento può essere annullato, affinché le parti promesse non si dispiacciano a vicenda e il matrimonio così contratto non abbia conseguenze negative. Inoltre, nessuno viene punito per trovarsi in una situazione penalizzante, anche se ciò comporta delle perdite; tale approccio non è affatto irragionevole.
+
+Risposta all’Obiezione 4: Se lo sposo promesso ha rapporti carnali con una parente della sua consorte, o “viceversa”, il fidanzamento deve essere annullato; e per dimostrarlo è sufficiente che tale fatto sia oggetto di conversazione comune, al fine di evitare scandali. Infatti, cause le cui conseguenze si manifestano in futuro vengono invalidate non solo da ciò che effettivamente accade, ma anche da eventi successivi. Pertanto, proprio come un legame di parentela esistente al momento del fidanzamento avrebbe impedito la stipula di tale contratto, allo stesso modo, se tale legame si verifica dopo il matrimonio – che è una conseguenza del fidanzamento stesso – il contratto precedente viene annullato. L’altra parte non ne subisce alcun danno; anzi, ne trae vantaggio, essendo liberata da una persona diventata odiosa a Dio per aver commesso adulterio.
+
+Risposta all’Obiezione 5: Alcuni non ammettono questo caso. Tuttavia, contro di loro vi è il Decretale (cap. Praeterea, De spons. et matr.), che afferma esplicitamente: “Proprio come coloro che stipulano un patto di condivisione impegnandosi reciprocamente con la fede e poi lo revocano, allo stesso modo si può tollerare pazientemente che coloro che sono fidanzati tra loro decidano di sciogliere il loro legame”. Tuttavia, a questo si obietta dicendo che la Chiesa permette ciò piuttosto per evitare situazioni peggiori, e non perché tale comportamento sia conforme a leggi rigorose. Ma ciò sembra non essere in accordo con l’esempio citato nel Decretale. Pertanto, dobbiamo rispondere che revocare un accordo non è sempre segno di incostanza, poiché “i nostri progetti sono spesso incerti” (Sapienza 9:14).
+
+Risposta all’Obiezione 6: Anche se, quando si fidanzano, non hanno ancora concesso l’uno all’altro il potere di disporre del proprio corpo, se ciò dovesse accadere, genererebbe sospetti sulla fedeltà reciproca; pertanto, uno dei due potrebbe proteggersi dall’altro rompendo il fidanzamento.
+
+Risposta all’Obiezione 7: Questo argomento sarebbe valido se ogni contratto fosse dello stesso tipo; tuttavia, il secondo contratto matrimoniale ha un valore maggiore del primo e, di conseguenza, lo annulla.
+
+Risposta all’Obiezione 8: Sebbene non si trattasse di un vero fidanzamento, esisteva comunque una sorta di promessa matrimoniale; pertanto, affinché non sembrasse che venisse data approvazione al loro rapporto quando avrebbero raggiunto l’età legale, era necessario chiedere la dissoluzione del fidanzamento tramite il giudizio della Chiesa, al fine di dare un buon esempio.
+
 <span class="atom-split" data-atom="016" data-title="OF THE DEFINITION OF MATRIMONY (THREE ARTICLES)" data-chapter="OF THE DEFINITION OF MATRIMONY (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the nature of matrimony. Under this head there are three points of
@@ -836,6 +1128,13 @@ inquiry:
 (1) Whether matrimony is a kind of joining?
 (2) Whether it is fittingly named?
 (3) Whether it is fittingly defined?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora esaminare la natura del matrimonio. In questo ambito vi sono tre punti da considerare:  
+(1) Se il matrimonio rappresenti una sorta di unione tra persone;  
+(2) Se il suo nome sia appropriato;  
+(3) Se la sua definizione sia corretta.
 
 <span class="atom-split" data-atom="017" data-title="Whether matrimony is a kind of joining?" data-chapter="Whether matrimony is a kind of joining?" data-kind="atom" data-srclang="en"></span>
 
@@ -889,6 +1188,24 @@ part of the subject there is numerical diversity. The fact of this relation havi
 is signified by the terms "husband" and "wife," while its unity is denoted by its being called
 matrimony.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il matrimonio non sia un tipo di unione. Infatti, il legame attraverso cui le cose vengono unite è diverso dal processo stesso di unione, proprio come la causa è diversa dall’effetto. Ora, poiché il matrimonio è proprio quel legame che unisce le persone tra loro, esso non può essere considerato un tipo di unione.
+
+Obiezione 2: Inoltre, ogni [sacramento](/concepts/sacrament) è un segno sensibile. Ma nessuna relazione è un accidente sensibile. Pertanto, poiché il matrimonio è un sacramento, non costituisce un tipo di relazione, e di conseguenza neppure un tipo di unione.
+
+Obiezione 3: Inoltre, il legame coniugale rappresenta sia una relazione di equiparanza che di uguaglianza. Ora, secondo Avicenna, la relazione di uguaglianza non è identicamente la stessa nei due estremi; pertanto, nemmeno il legame coniugale lo è in modo identico. Di conseguenza, se il matrimonio è un tipo di legame coniugale, allora non esiste soltanto un unico tipo di matrimonio tra uomo e donna.
+
+Al contrario, è proprio attraverso la relazione che le cose sono collegate tra loro. Ora, attraverso il matrimonio, alcune cose diventano legate l’una all’altra: infatti il marito è il marito della moglie e la moglie è la moglie del marito. Pertanto, il matrimonio rappresenta un tipo di relazione, non altro che un’unione tra due persone. Inoltre, l’unione di due cose in una può avvenire soltanto attraverso il loro legame. Ed è proprio questo l’effetto del matrimonio (Genesi 2:24): “Diventeranno una carne sola”. Quindi, il matrimonio è effettivamente un tipo di unione.
+
+Rispondo che il concetto di “unione” indica un certo tipo di collegamento tra elementi; pertanto, ovunque ci sia un legame tra cose, deve esserci necessariamente un atto di unione. Le cose che sono direzionate verso uno stesso scopo si dice siano unite in relazione a tale obiettivo: ad esempio, molti uomini sono uniti nel seguire lo stesso scopo militare o nell’intraprendere la stessa attività professionale, e per questo vengono definiti compagni d’armi o partner commerciali. Pertanto, poiché il matrimonio unisce persone che hanno in comune l’obiettivo di generare e crescere dei figli, nonché di condividere una vita familiare, è evidente che nel matrimonio esista un legame specifico, che ci fa parlare di marito e moglie. Questo legame, essendo orientato verso uno scopo comune, costituisce il vero significato del matrimonio; mentre l’unione dei corpi e delle menti è soltanto un risultato naturale di tale rapporto.
+
+Risposta all’Obiezione 1: Il matrimonio è il legame attraverso il quale le persone sono unite formalmente, ma non effettivamente; pertanto non è necessario che sia distinto dal semplice unirsi.
+
+Risposta all’Obiezione 2: Sebbene la relazione in sé non sia un accidente sensibile, le sue cause possono esserlo. Inoltre, in un sacramento non è necessario che ciò che è allo stesso tempo realtà e sacramento sia sensibile ([Cfr. TP, Q[66], A[1); infatti, tale relazione esiste tra il legame menzionato e il sacramento stesso. Al contrario, le parole che esprimono il consenso, essendo soltanto elementi del sacramento e quindi la causa di quel legame, sono senz’altro sensibili.
+
+Risposta all’Obiezione 3: Una relazione si fonda, da un lato, su qualcosa che ne costituisce la causa – ad esempio, la somiglianza si basa su una determinata qualità – e, dall’altro lato, su soggetti concreti, ovvero sulle cose stesse che sono simili. In entrambi i casi possiamo riscontrare sia unità che diversità nella relazione stessa. Poiché quindi non è la stessa identica qualità a determinare la somiglianza, ma la stessa qualità specifica nei singoli soggetti simili, e poiché tali soggetti sono due in numero – lo stesso vale per l’uguaglianza – ne consegue che sia l’uguaglianza che la somiglianza siano, sotto ogni aspetto, numericamente distinte nei rispettivi soggetti. Tuttavia, le relazioni matrimoniali presentano unità in entrambi gli estremi: da un lato, nella causa – poiché mirano alla generazione di un essere identico –; dall’altro lato, nei soggetti, dove si riscontra una diversità numerica. Il fatto che questa relazione abbia soggetti diversi è indicato dai termini “marito” e “moglie”, mentre la sua unità è rappresentata dal nome stesso di “matrimonio”.
+
 <span class="atom-split" data-atom="018" data-title="Whether matrimony is fittingly named?" data-chapter="Whether matrimony is fittingly named?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that matrimony is unfittingly named. Because a thing should be
@@ -938,6 +1255,24 @@ from soul anima], and this belongs to an animate body, which is the genus of ani
 is not found perfectly in those animate beings that are not animals. It is thus with the case in point.
 for the joining of husband and wife by matrimony is the greatest of all joinings, since it is a joining
 of [soul and body](/axes/soul_body), wherefore it is called a "conjugal" union.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il matrimonio abbia un nome inadeguato. Poiché una cosa dovrebbe essere chiamata secondo ciò che ha un rango più elevato; ma il padre ha un rango superiore alla madre. Pertanto, l’unione tra padre e madre dovrebbe essere chiamata in onore del padre.
+
+Obiezione 2: Inoltre, una cosa dovrebbe essere chiamata in base a ciò che le è essenziale, poiché una “definizione esprime la natura significata da un nome” (Metafisica iv, 28). Ora, i matrimoni non sono essenziali al concetto stesso di matrimonio. Pertanto, il matrimonio non dovrebbe essere chiamato “matrimonio”.
+
+Obiezione 3: Inoltre, una specie non può prendere il proprio nome da ciò che appartiene al genere. Ora, la “congiunzione” rappresenta il genere del matrimonio; pertanto non dovrebbe essere chiamata “unione coniugale”.
+
+Al contrario, c’è l’uso comune del linguaggio parlato.
+
+Rispondo che, nel matrimonio, si possono considerare tre aspetti principali: in primo luogo, la sua essenza, che consiste nell’unione tra due persone; per questo motivo viene definito “unione coniugale”. In secondo luogo, la sua causa, ovvero il rito nuziale; in questo contesto viene chiamato “unione nubile”, poiché durante la cerimonia di nozze le teste dei coniugi vengono coperte da un velo (pratica ancora in uso in alcuni paesi). In terzo luogo, il suo effetto principale, ovvero la prole; per questo motivo il matrimonio viene definito anche “matrimonio”, come afferma Agostino nel “Contra Faustus” (xix, 26): “Lo scopo unico del matrimonio per una donna dovrebbe essere quello di diventare madre”. Il matrimonio può anche essere considerato come il “dovere materno”, poiché è principalmente la donna ad avere la responsabilità di crescere i figli; oppure come una forma di protezione e sostegno reciproco tra coniugi. Inoltre, esso rappresenta un legame stabile che impedisce alla donna di abbandonare il marito per un altro uomo. Infine, può essere visto come l’unione di due persone al fine di generare una prole, derivando così i termini “matrimonio” da elementi greci che significano “unione” e “materia”. Come afferma Isidoro nell’“Etymologia”, il matrimonio rende una donna madre di un figlio.
+
+Risposta all’Obiezione 1: Sebbene il padre abbia un rango superiore alla madre, è la madre ad avere un rapporto più stretto con i figli rispetto al padre. O, per dirla in altro modo, la donna è stata creata principalmente per essere compagna dell’uomo nel prendersi cura dei figli, mentre l’uomo non è stato creato per questo scopo. Pertanto, la madre ha un legame più profondo con la natura stessa del matrimonio rispetto al padre.
+
+Risposta all’Obiezione 2: A volte gli elementi essenziali vengono conosciuti attraverso quelli accidentali; per questo alcune cose possono essere chiamate anche in base ai loro aspetti accidentali, poiché un nome viene dato a una cosa allo scopo di renderla conoscibile.
+
+Risposta all’Obiezione 3: A volte una specie viene chiamata con un nome che riguarda il genere proprio a causa di un difetto presente in quella specie; in tali casi, infatti, la natura specifica possiede pienamente le caratteristiche del genere, ma non aggiunge nulla che possa essere considerato un elemento distintivo o di dignità. In questi casi, la proprietà accidentale mantiene il nome di “proprietà”, poiché è comune sia alla specie in questione che alla definizione stessa del genere. Tuttavia, altre volte il nome deriva da una caratteristica positiva della specie: quando, cioè, la natura specifica è pienamente presente in una specie e assente in un’altra. Ad esempio, il termine “animale” deriva dall’“anima”, che appartiene a un corpo animato, ovvero al genere “animale”; tuttavia, l’anima non è presente in modo perfetto in quegli esseri viventi che non rientrano nella categoria degli animali. Lo stesso vale nel caso in esame: il legame tra marito e moglie attraverso il matrimonio rappresenta la forma più elevata di unione, poiché si tratta di un’unione tra “anima e corpo”; per questo motivo viene definito “unione coniugale”.
 
 <span class="atom-split" data-atom="019" data-title="Whether matrimony is fittingly defined in the text?" data-chapter="Whether matrimony is fittingly defined in the text?" data-kind="atom" data-srclang="en"></span>
 
@@ -995,6 +1330,26 @@ this same life the partnership of married persons is always indivisible, althoug
 regards the act belonging to each party.
 The Reply to the Fourth Objection is clear from what has been said above.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il matrimonio venga definito in modo inappropriato nel testo* (Sentenza iv, D, 27).  
+[*La definizione menzionata è la seguente: “Il matrimonio è l’unione coniugale tra uomo e donna che comporta la convivenza in una partnership indivisa.”* Poiché per definire un marito è necessario menzionare il matrimonio, essendo proprio il marito a unirsi alla donna in matrimonio, e poiché nella definizione di matrimonio viene utilizzato il termine “unione coniugale”, sembrerebbe esistere un circolo vizioso in queste definizioni.
+
+Obiezione 2: Inoltre, il matrimonio rende la donna moglie dell’uomo esattamente come rende l’uomo marito della donna. Pertanto, non dovrebbe essere definito “unione coniugale”, bensì “unione basata sul rapporto di coniugalità”.
+
+Obiezione 3: Inoltre, l’[abitudine](/concepts/custom) [consuetudo] riguarda aspetti morali. Tuttavia, spesso accade che le persone sposate differiscano molto nelle loro abitudini. Pertanto, le parole “che coinvolgono la convivenza quotidiana in una partnership indivisa” non dovrebbero avere alcun ruolo nella definizione di matrimonio.
+
+Obiezione 4: Inoltre, troviamo altre definizioni di matrimonio; secondo Guglielmo (Summa Sententiarum vii, 6), “il matrimonio è il consenso legittimo di due persone idonee a unirsi”. Secondo alcuni, “il matrimonio è la convivenza in una vita comune e la comunità regolata dalla legge divina e da quella umana”; chiediamo quindi in che questi concetti differiscano tra loro.
+
+Rispondo che, come già detto sopra (A[2]), nel matrimonio bisogna considerare tre elementi: la sua causa, la sua essenza e il suo effetto; di conseguenza, si trovano tre definizioni del matrimonio. La definizione fornita da Hugh indica la causa del matrimonio, ovvero il consenso reciproco, e questa definizione è di per sé evidente. La definizione contenuta nel testo indica l’essenza del matrimonio, ovvero l’unione tra persone legalmente sposate, specificando i soggetti coinvolti con le parole “tra persone legittime”. Inoltre, fa riferimento alla differenza tra le parti contraenti in termini di genere, utilizzando la parola “maritale”, poiché il matrimonio è un’unione finalizzata a uno scopo specifico; tale scopo viene indicato nella definizione stessa. Viene anche evidenziata l’irreversibilità di questa unione, con le parole “indissolubile”. L’ultima definizione indica l’effetto del matrimonio, ovvero la vita comune e condivisa all’interno della famiglia. Poiché ogni forma di convivenza è regolamentata da leggi specifiche, anche il codice giuridico – sia divino che umano – trova posto in questa definizione; al contrario, altre forme di convivenza, come quelle tra commercianti o soldati, sono regolate esclusivamente dalla legge umana.
+
+Risposta all’Obiezione 1: A volte le cose precedenti rispetto alle quali una definizione dovrebbe essere data non ci sono note, e di conseguenza alcune cose vengono definite in base a elementi che sono posteriori, ma che per noi sono anteriori; così, ad esempio, nella definizione di “qualità”, il Filosofo utilizza la parola “tale” quando afferma (Capitolo De Qualitate) che “la qualità è ciò grazie a cui si dice che qualcosa è tale”. Allo stesso modo, nella definizione di “matrimonio”, diciamo che esso è un “unione coniugale”; con questo intendiamo che il matrimonio sia un legame finalizzato ad assolvere alle funzioni richieste dal rapporto coniugale, e tutte queste funzioni non potrebbero essere espresse in una singola parola.
+
+Risposta all’Obiezione 2: Come affermato (A[2]), questa differenza indica la fine dell’unione. E poiché, secondo l’Apostolo (1 Corinzi 11:9), “l’uomo non è stato creato per la donna, ma la donna per l’uomo”, ne consegue che questa differenza debba essere considerata in relazione all’uomo e non alla donna.
+
+Risposta all’Obiezione 3: Proprio come la vita civica non indica l’atto individuale di questo o quel singolo individuo, ma le cose che riguardano l’azione comune dei cittadini, così anche la vita coniugale non è altro che un tipo particolare di compagnia legata a quell’azione comune. Pertanto, per quanto riguarda questa stessa vita, la partnership tra persone sposate è sempre indivisibile, sebbene possa essere divisa in termini degli atti che spettano a ciascuna delle parti.  
+La risposta all’Quarta Obiezione risulta chiara da quanto detto finora.
+
 <span class="atom-split" data-atom="020" data-title="OF THE MARRIAGE CONSENT CONSIDERED IN ITSELF (FIVE ARTICLES)" data-chapter="OF THE MARRIAGE CONSENT CONSIDERED IN ITSELF (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 In the next place we have to consider the consent; and the first point to discuss is the consent
@@ -1007,6 +1362,15 @@ Under the first head there are five points of inquiry:
 (4) Whether consent given in words expressive of the present, without inward consent, makes
 a true marriage outwardly?
 (5) Whether consent given secretly in words expressive of the present makes a marriage?
+
+<span class="qlang-split" data-lang="it"></span>
+
+In secondo luogo dobbiamo considerare il consenso; il primo punto da discutere è il consenso inteso in sé stesso; il secondo è il consenso confermato dal giuramento o dall’atto sessuale; il terzo è il consenso obbligatorio e quello condizionato; il quarto è l’oggetto del consenso. All’interno di questa prima categoria esistono cinque punti da analizzare:  
+(1) Il consenso è forse la [causa efficace](/concepts/four_causes) del matrimonio?  
+(2) È necessario che il consenso venga espresso a parole?  
+(3) Un consenso espresso a parole che indicano il futuro costituisce un vero matrimonio?  
+(4) Un consenso espresso a parole che indicano il presente, senza un consenso interiore, costituisce un vero matrimonio esteriormente?  
+(5) Un consenso espresso segretamente a parole che indicano il presente costituisce un vero matrimonio?
 
 <span class="atom-split" data-atom="021" data-title="Whether consent is the efficient cause of matrimony?" data-chapter="Whether consent is the efficient cause of matrimony?" data-kind="atom" data-srclang="en"></span>
 
@@ -1054,6 +1418,24 @@ the part of the thing consented to, namely the aforesaid union, whereas it is mo
 part of the persons consenting. Nor is the direct object of consent a husband but union with a
 husband on the part of the wife, even as it is union with a wife on the part of the husband.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il consenso non sia la [causa efficace](/concepts/four_causes) del matrimonio. Infatti, i sacramenti dipendono non dalla volontà umana ma dall’istituzione divina, come dimostrato sopra (Sentenze iv, D, 2; TP, Q[64], A[2]). Ma il consenso appartiene alla volontà umana; pertanto, esso non è la causa del matrimonio, né di altri sacramenti.
+
+Obiezione 2: Inoltre, nulla è la propria causa. Ma apparentemente il matrimonio non è altro che un consenso, poiché è proprio il consenso a simboleggiare l’unione di Cristo con la Chiesa.
+
+Obiezione 3: Inoltre, per una stessa cosa dovrebbe esistere una sola causa. Ora, come detto sopra (Q[44], A[1]), esiste un solo matrimonio tra due persone; tuttavia i consensi delle due parti sono distinti, poiché vengono dati da persone diverse e riguardano cose diverse: da un lato c’è il consenso a prendere un marito, dall’altro il consenso a prendere una moglie. Pertanto, il consenso reciproco non può essere considerato la causa del matrimonio.
+
+Al contrario, Crisostomo [*Hom. xxxii nell’Opus Imperfectum, falsamente attribuito a San Giovanni Crisostomo*] afferma: “Non è la congiunzione fisica, ma il consenso che rende valido un matrimonio.” Inoltre, una persona non acquisisce potere su ciò che è liberamente disponibile un’altra senza il suo consenso. Attraverso il matrimonio, ciascuna delle parti contraenti acquista potere sul corpo dell’altra (1 Corinzi 7:4), mentre prima ognuno aveva pieno controllo sul proprio corpo. Pertanto, è il consenso a rendere valido un matrimonio.
+
+Rispondo che, in ogni [sacramento](/concepts/sacrament), vi è un’operazione spirituale che si realizza attraverso un’operazione materiale che la simboleggia; così, nel Battesimo, la purificazione spirituale interiore avviene attraverso una purificazione corporea. Pertanto, poiché nel matrimonio esiste una sorta di unione spirituale – in quanto il matrimonio è un sacramento – e al contempo un’unione materiale, in quanto mira a svolgere funzioni legate alla natura umana e alla vita civile, ne consegue che l’unione spirituale è effetto del potere divino, realizzato attraverso l’unione materiale. Poiché le unioni derivanti da contratti materiali avvengono per consenso reciproco, ne segue che anche l’unione matrimoniale si realizza nello stesso modo.
+
+Risposta all’Obiezione 1: La prima causa dei sacramenti è il potere divino che in essi opera per il bene dell’anima; ma le seconde o causali strumentali sono operazioni materiali la cui efficacia deriva dall’instituzione divina; pertanto, nel matrimonio, il consenso rappresenta tale causa strumentale.
+
+Risposta all’Obiezione 2: Il matrimonio non è il consenso in sé, ma l’unione di persone dirette verso uno scopo comune, come detto sopra (Q[44], A[1]); questa unione è effetto del consenso stesso. Inoltre, il consenso, nel senso proprio del termine, non indica l’unione di Cristo con la Chiesa, ma la Sua volontà attraverso la quale tale unione si è realizzata.
+
+Risposta all’Obiezione 3: Proprio come il matrimonio è uno da parte dell’oggetto verso cui si dirige l’unione, mentre è più di uno da parte delle persone che si uniscono, allo stesso modo il consenso è uno da parte della cosa su cui si dà il consenso, ovvero dell’unione menzionata, mentre è più di uno da parte delle persone che consenziscono. L’oggetto diretto del consenso non è il marito, ma l’unione con il marito da parte della moglie, così come l’unione con la moglie da parte del marito.
+
 <span class="atom-split" data-atom="022" data-title="Whether the consent needs to be expressed in words?" data-chapter="Whether the consent needs to be expressed in words?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is no need for the consent to be expressed in words. For
@@ -1095,6 +1477,24 @@ are being married should give their consent by accepting one another freely. and
 be the case if they show no dissent when they are being wedded. Wherefore in such a case the
 words of the parents are taken as being the maid's, for the fact that she does not contradict them is
 a sign that they are her words.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia necessario che il consenso venga espresso a parole. Infatti, un uomo viene posto sotto il potere di un altro tramite un voto, proprio come avviene attraverso il matrimonio. Ora, un voto è vincolante agli occhi di Dio anche se non viene espresso a parole; pertanto, anche il consenso rende il matrimonio vincolante, anche senza essere espresso verbalmente.
+
+Obiezione 2: Inoltre, può esserci matrimonio tra persone che non sono in grado di esprimere il loro consenso reciproco a parole, poiché sono mute o parlano lingue diverse. Pertanto, l’espressione del consenso verbale non è necessaria per contrarre matrimonio.
+
+Obiezione 3: Inoltre, se ciò che è essenziale per un [sacramento](/concepts/sacrament) viene omesso per qualsiasi motivo, non esiste più sacramento. Esiste infatti il caso del matrimonio senza l’uso di parole, quando la ragazza rimane in silenzio per timidezza quando i suoi genitori la danno in sposa al promesso sposo. Pertanto, l’uso di parole non è essenziale per il matrimonio.
+
+Al contrario, il matrimonio è un sacramento; e poiché ogni sacramento richiede un segno sensibile, anche il matrimonio ne ha bisogno. Pertanto, devono necessariamente esserci parole attraverso cui il consenso delle parti possa essere percepito dai sensi. Inoltre, nel matrimonio sussiste un contratto tra marito e moglie; e poiché in ogni contratto le parti devono esprimere con parole i propri impegni reciproci, anche nel matrimonio il consenso deve essere espresso a parole.
+
+Rispondo che, come già detto sopra (A[1]), l’unione coniugale si realizza nello stesso modo in cui avviene la stipula dei contratti materiali. E poiché i contratti materiali non sono validi se le parti contraenti non esprimono reciprocamente la propria volontà a parole, ne consegue che anche il consenso necessario per celebrare un matrimonio debba essere espresso a parole; in altre parole, l’espressione verbale rappresenta, per il matrimonio, ciò che il rito esteriore rappresenta per il Battesimo.
+
+Risposta all’Obiezione 1: In un voto non esiste un legame sacramentale, ma soltanto uno spirituale; pertanto non è necessario che venga celebrato nello stesso modo dei contratti materiali affinché abbia effetto vincolante, come avviene nel caso del matrimonio.
+
+Risposta all’Obiezione 2: Sebbene non possano impegnarsi reciprocamente a parole, possono farlo attraverso segni, e tali segni hanno lo stesso valore delle parole.
+
+Risposta all’Obiezione 3: Secondo Guglielmo di Sant’Vittore (Trattato vii, Somma delle Sentenze), le persone che si sposano devono dare il loro consenso accettandosi liberamente a vicenda; ciò si considera vero quando non manifestano alcuna opposizione durante la cerimonia nuziale. Pertanto, in tal caso, le parole dei genitori vengono ritenute quelle della fanciulla stessa, poiché il fatto che lei non le contraddica costituisce un segno che esse rappresentino effettivamente i suoi desideri.
 
 <span class="atom-split" data-atom="023" data-title="Whether consent given in words expressive of the future makes a marriage?" data-chapter="Whether consent given in words expressive of the future makes a marriage?" data-kind="atom" data-srclang="en"></span>
 
@@ -1143,6 +1543,24 @@ obedience or observance of the rule. If, however, a man vow spiritual marriage i
 not a spiritual marriage, for a man does not become a monk by taking such a vow, but promises to
 become one.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il consenso espresso con parole che riferiscono al futuro costituisca un matrimonio nel futuro. Poiché il presente è relativo al presente, così anche il futuro è relativo al futuro. Ma il consenso espresso con parole che riferiscono al presente costituisce un matrimonio nel presente; pertanto, il consenso espresso con parole che riferiscono al futuro dovrebbe costituire un matrimonio nel futuro.
+
+Obiezione 2: Inoltre, anche in altri contratti civili, proprio come nel matrimonio, una determinata obbligazione sorge dalle parole che esprimono il consenso. Ora, negli altri contratti non ha importanza se l’obbligazione venga creata da parole al presente o al futuro. Pertanto, nemmeno nel matrimonio questa distinzione ha alcuna rilevanza.
+
+Obiezione 3: Inoltre, con il voto religioso l’uomo contratta un “matrimonio spirituale” con Dio. Poiché il voto religioso viene espresso con frasi al futuro e ha valore vincolante, anche il matrimonio carnale può essere celebrato utilizzando frasi al futuro.
+
+Al contrario, un uomo che con parole al futuro si impegna a prendere una determinata donna come sua moglie, e successivamente, con parole al presente, acconsente a prenderne un’altra secondo la legge, deve necessariamente prendersi quest’ultima come moglie (cfr. cap. “Sicut ex Litteris, De spons. et matr.”). Tuttavia, ciò non sarebbe vero se l’assenso espresso con parole al futuro costituisse effettivamente un matrimonio: infatti, poiché il suo matrimonio con la prima donna è già valido, egli non può sposare un’altra finché lei vive. Pertanto, l’assenso espresso con parole al futuro non costituisce un matrimonio. Inoltre, colui che promette di fare qualcosa non lo ha ancora fatto; analogamente, chi acconsente con parole al futuro promette di sposare una determinata donna, ma in realtà non la sposa ancora.
+
+Rispondo che le cause sacramentali producono il loro effetto indicandolo; pertanto realizzano ciò che indicano. Poiché, quando un uomo esprime il proprio consenso con parole al futuro, non indica di sposarsi, ma promette di farlo, ne consegue che un consenso espresso in questo modo non costituisce un matrimonio, bensì una promessa [sponsionem] di matrimonio; tale promessa è conosciuta come fidanzamento [sponsalia].
+
+Risposta all’Obiezione 1: Quando il consenso viene espresso con parole al presente, non solo tali parole sono effettivamente presenti nel momento in cui vengono pronunciate, ma il consenso stesso è rivolto al presente, quindi i due momenti coincidono temporalmente; invece, quando il consenso viene espresso con parole al futuro, anche se le parole sono presenti nel momento della loro enunciazione, il consenso riguarda un tempo futuro e, pertanto, i due momenti non coincidono. Per questa ragione, il confronto non è valido.
+
+Risposta all’Obiezione 2: Anche in altri contratti, una persona che utilizza parole riferite al futuro non trasferisce il potere su la propria proprietà a un’altra persona – ad esempio, se dicesse “Ti darò” – ma solo quando utilizza parole che indicano il presente.
+
+Risposta all’Obiezione 3: Nel voto di professione religiosa non è il matrimonio spirituale stesso che viene espresso con parole riferite al futuro, ma un atto legato a tale matrimonio spirituale, ovvero l’obbedienza o il rispetto delle regole stabilite. Tuttavia, se un uomo pronuncia un voto di matrimonio spirituale per il futuro, ciò non costituisce effettivamente un matrimonio spirituale: infatti, con tale voto un uomo non diventa monaco, ma si impegna a farlo in futuro.
+
 <span class="atom-split" data-atom="024" data-title="Whether, in the absence of inward consent, a marriage is made by consent given in words of the present?" data-chapter="Whether, in the absence of inward consent, a marriage is made by consent given in words of the present?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that even in the absence of inward consent a marriage is made by
@@ -1189,6 +1607,24 @@ Reply to Objection 3: In such a case the Church compels him to hold to his first
 the Church judges according to outward appearances; nor is she deceived in justice or right, although
 she is deceived in the facts of the case. Yet such a man ought to bear the excommunication rather
 than return to his first wife; or else he should go far away into another country.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che anche in assenza di consenso interiore, un matrimonio venga celebrato attraverso il consenso espresso a parole nel presente. Infatti, “inganno e frode non dovrebbero giovare a nessuno”, secondo la legge (cap. Ex Tenore, De Rescrip., cap. Si Vir, De cognat. spir.). Chi dà il proprio consenso a parole senza condividerlo veramente nel cuore commette un inganno; pertanto non dovrebbe trarne beneficio, né essere liberato dal vincolo matrimoniale.
+
+Obiezione 2: Inoltre, il consenso mentale di una persona non può essere conosciuto da un’altra, se non nella misura in cui viene espresso a parole. Se quindi l’espressione verbale non è sufficiente e sia necessario un consenso interiore da entrambe le parti, nessuno dei due potrà essere certo di essere veramente sposato con l’altro; di conseguenza, ogni volta che si compie l’atto coniugale, si commetterebbe adulterio.
+
+Obiezione 3: Inoltre, se si dimostra che un uomo abbia acconsentito a prendere una determinata donna in moglie usando espressioni nel tempo presente, è costretto, sotto pena di scomunica, a prenderla in moglie, anche se dovesse ammettere di non aver avuto un consenso mentale; ciò nonostante potrebbe successivamente contrarre matrimonio con un’altra donna utilizzando espressioni che esprimono il consenso nel tempo presente. Ma questo non accadrebbe se il consenso mentale fosse necessario per il matrimonio. Pertanto, esso non è richiesto.
+
+Al contrario, Innocenzo III afferma in un decreto (cap. Tua Nos, De Spons. et matr.) riguardo a questo caso: “Altre circostanze non possono completare il vincolo matrimoniale in assenza di consenso.” Inoltre, l’intenzione è necessaria in tutti i sacramenti. Chi, pertanto, non consente nel proprio cuore non ha alcuna intenzione di contrarre matrimonio; e quindi non contrae matrimonio.
+
+Rispondo che il lavaggio esteriore ha lo stesso rapporto con il battesimo quanto l’enunciazione di parole ha con questo [sacramento](/concepts/sacrament), come già detto sopra (A[2]). Pertanto, proprio come una persona che riceve il lavaggio esteriore con l’intenzione non di ricevere il sacramento, ma di scherzare o ingannare, non verrebbe battezzata; allo stesso modo, l’enunciazione di parole senza consenso interiore non costituisce un matrimonio valido.
+
+Risposta all’Obiezione 1: Qui ci sono due aspetti da considerare: da un lato, l’assenza di consenso – il che lo avvantaggia nel tribunale della sua coscienza, poiché non è vincolato dal legame matrimoniale, anche se non nel tribunale della Chiesa, dove la sentenza viene emessa in base alle prove presentate; dall’altro lato, l’inganno contenuto nelle parole utilizzate per ottenere il consenso, il quale non lo avvantaggia né nel tribunale della sua coscienza né in quello della Chiesa, poiché in entrambi i casi viene punito per questo comportamento.
+
+Risposta all’Obiezione 2: Se manca il consenso mentale da parte di una delle parti, non si verifica matrimono da nessuna delle due parti, poiché il matrimonio consiste in un’unione reciproca, come già detto sopra (Q[44], A[1]). Tuttavia, si può ritenere che, con ogni probabilità, non vi sia frode a meno che non ci siano segni evidenti di essa; poiché dobbiamo presumere il bene in tutti, a meno che non vi siano prove del contrario. Pertanto, la parte nella quale non vi è frode è scusata dal peccato per ignoranza.
+
+Risposta all’Obiezione 3: In tal caso, la Chiesa lo obbliga a rimanere con sua prima moglie, poiché la Chiesa giudica in base alle apparenze esterne; e non si sbaglia né nel giusto né nell’equità, anche se si inganna riguardo ai fatti concreti della situazione. Tuttavia, un uomo del genere dovrebbe preferire subire l’escomunione piuttosto che tornare con sua prima moglie; altrimenti dovrebbe andarsene lontano, in un altro paese.
 
 <span class="atom-split" data-atom="025" data-title="Whether consent given secretly in words of the present makes a marriage?" data-chapter="Whether consent given secretly in words of the present makes a marriage?" data-kind="atom" data-srclang="en"></span>
 
@@ -1255,6 +1691,28 @@ Reply to Objection 4: Clandestine marriages are not forbidden as though they wer
 to the essentials of marriage, in the same way as the marriages of unlawful persons, who are undue
 matter for this sacrament; and hence there is no comparison.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il consenso dato segretamente, anche se espresso con parole del presente, non costituisca un matrimonio. Infatti, qualcosa che si trova sotto il potere di una persona non può essere trasferito al potere di un’altra senza il consenso della prima. Ora, la fanciulla si trova sotto il potere di suo padre; pertanto non può essere trasferita sotto il potere del marito senza il consenso paterno. Quindi, anche se il consenso venga dato segretamente e espresso con parole del presente, non ci sarà matrimonio.
+
+Obiezione 2: Inoltre, nella penitenza, proprio come nel matrimonio, il nostro atto è di per sé essenziale per il [sacramento](/concepts/sacrament). Tuttavia, il sacramento della penitenza non può essere completato se non attraverso i ministri della Chiesa, che ne sono gli dispensatori. Pertanto, nemmeno il matrimonio può essere perfezionato senza la benedizione del sacerdote.
+
+Obiezione 3: Inoltre, la Chiesa non vieta che il battesimo venga somministrato in segreto, poiché è possibile battezzare sia in privato che in pubblico. Tuttavia, la Chiesa vieta decisamente la celebrazione di matrimoni clandestini (capitolo Cum inhibitio, De clandest. despons.). Pertanto, anche i matrimoni non possono essere celebrati in segreto.
+
+Obiezione 4: Inoltre, il matrimonio non può essere contratto da persone che sono imparentate di secondo grado, poiché la Chiesa lo ha proibito. Ma la Chiesa ha anche proibito i matrimoni clandestini. Pertanto, tali matrimoni non possono essere considerati validi.
+
+Al contrario: data la causa, ne consegue l’effetto. La causa sufficiente per il matrimonio è il consenso espresso a parole nel presente. Pertanto, che ciò avvenga in pubblico o in privato, il risultato è sempre un matrimonio. Inoltre, ovunque siano presenti la materia e la forma adeguati di un sacramento, esiste effettivamente quel sacramento. Nel caso di un matrimonio segreto, sono presenti sia la materia adeguata – poiché ci sono persone che possono contrarre legalmente il matrimonio – sia la forma adeguata, poiché vi sono parole espresse nel presente che indicano il consenso. Pertanto, anche in questo caso si tratta di un vero matrimonio.
+
+Rispondo che, proprio come negli altri sacramenti alcune cose sono essenziali per la loro validità e la loro omissione rende il sacramento nullo, mentre altre cose appartengono soltanto alla sua celebrazione formale e la loro assenza non impedisce che il sacramento venga comunque celebrato validamente, anche se tale omissione costituisce un peccato; allo stesso modo, il consenso espresso a parole tra persone legalmente idonee a contrarre matrimonio rende tale atto valido, poiché queste due condizioni sono essenziali per la validità del matrimonio stesso. Tutto il resto, invece, riguarda soltanto la forma cerimoniale con cui il matrimonio viene celebrato, al fine di renderlo più appropriato e conforme alle norme religiose. Pertanto, anche se queste condizioni vengono omesse, si tratta comunque di un vero matrimonio, anche se le parti contraenti commettono un peccato, a meno che non abbiano motivi legittimi per essere scusate. I matrimoni clandestini sono stati successivamente dichiarati invalidi dal Concilio di Trento (sessione xxiv). È importante ricordare che, in tutto il suo trattato sul matrimonio, San Tommaso si basa sul diritto canonico del proprio tempo.
+
+Risposta all’Obiezione 1: La fanciulla è sotto il potere di suo padre, non come schiava femminile priva di controllo sul proprio corpo, ma come figlia, allo scopo dell’[educazione](/concepts/education). Pertanto, nella misura in cui è libera, può mettersi sotto il potere di un altro senza il consenso di suo padre; allo stesso modo, anche un figlio o una figlia, essendo liberi, possono entrare in una religione senza il consenso dei genitori.
+
+Risposta all’Obiezione 2: Nella penitenza, il nostro atto, sebbene essenziale per il sacramento, non è sufficiente a produrre l’effetto immediato del sacramento, ovvero il perdono dei peccati; pertanto è necessario che intervienga l’atto del sacerdote affinché il sacramento possa essere perfezionato. Nel matrimonio, invece, i nostri atti costituiscono la causa sufficiente per produrre l’effetto immediato, ovvero il legame coniugale, poiché chi ha il diritto di disporre di sé stesso può legarsi a un altro. Di conseguenza, la benedizione del sacerdote non è richiesta per il matrimonio, in quanto essa non sia essenziale al sacramento stesso.
+
+Risposta all’Obiezione 3: È anch’esso vietato ricevere il battesimo se non da un sacerdote, salvo in caso di necessità. Tuttavia, il matrimonio non è un sacramento necessario; pertanto, questa analogia non regge. Ciononostante, i matrimoni clandestini sono proibiti a causa dei danni che possono causare: spesso uno dei coniugi commette frodi in tali matrimoni; inoltre, molte volte le parti coinvolte ricorrono a matrimoni legali quando si pentono di aver contratto nozze affrettate; da ciò derivano molti altri mali, oltre al fatto che tali matrimoni sono considerati disonorevoli.
+
+Risposta all’Obiezione 4: I matrimoni clandestini non sono proibiti perché si ritenessero contrari alle essenze stesse del matrimonio, così come i matrimoni tra persone non autorizzate, che non sono adatte a ricevere questo sacramento; pertanto non esiste alcuna analogia tra questi casi.
+
 <span class="atom-split" data-atom="026" data-title="OF THE CONSENT TO WHICH AN OATH OR CARNAL INTERCOURSE IS APPENDED (TWO ARTICLES)" data-chapter="OF THE CONSENT TO WHICH AN OATH OR CARNAL INTERCOURSE IS APPENDED (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the consent to which an oath or carnal intercourse is appended. Under
@@ -1262,6 +1720,12 @@ this head there are two points of inquiry:
 (1) Whether an oath added to the consent that is expressed in words of the future tense makes
 a marriage?
 (2) Whether carnal intercourse supervening to such a consent makes a marriage?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il consenso su cui si basano un giuramento o un rapporto sessuale. In questo ambito vi sono due questioni da esaminare:  
+(1) Se un giuramento aggiunto al consenso espresso con parole al futuro rende valido un matrimonio;  
+(2) Se un rapporto sessuale che segue tale consenso rende valido un matrimonio.
 
 <span class="atom-split" data-atom="027" data-title="Whether an oath added to the consent that is expressed in words of the future tense makes a marriage?" data-chapter="Whether an oath added to the consent that is expressed in words of the future tense makes a marriage?" data-kind="atom" data-srclang="en"></span>
 
@@ -1317,6 +1781,26 @@ applied. Hence the Reply to the Third Objection is clear.
 
 Reply to Objection 4: The oath has some effect, not by causing a new obligation, but confirming
 that which is already made, and thus he who violates it sins more grievously.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che, se un giuramento viene aggiunto a un consenso espresso con parole al futuro, ciò renda il matrimonio effettivo. Infatti, nessuno può impegnarsi a compiere atti contrari alla [Legge Divina](/concepts/divine_law). Tuttavia, l’adempimento di un giuramento rientra nella sfera della Legge Divina, come affermato in Matteo 5:33: “Adempi ai tuoi giuramenti davanti al Signore”. Pertanto, nessun obbligo successivo può esonerare una persona dall’impegno preso in precedenza con un giuramento. Quindi, se, dopo aver acconsentito a sposare una donna con parole che indicano il futuro e aver confermato tale consenso con un giuramento, un uomo si impegna con un’altra donna con parole che indicano il presente, sembrerebbe comunque obbligato ad adempiere al primo giuramento. Ma ciò non sarebbe vero se quel giuramento non rendesse effettivo il matrimonio. Pertanto, un giuramento aggiunto a un consenso espresso con parole al futuro rende il matrimonio effettivo.
+
+Obiezione 2: Inoltre, la verità divina è più potente della verità umana. Un giuramento, infatti, conferma qualcosa attraverso la verità divina. Poiché parole che esprimono consenso nel presente, in cui prevale soltanto la verità umana, sono sufficienti a completare un matrimonio, sembrerebbe ancora più vero che ciò valga anche per parole relative al futuro, confermate da un giuramento.
+
+Obiezione 3: Inoltre, secondo l’Apostolo (Ebrei 6:16), “Un giuramento è il mezzo per risolvere ogni controversia”; pertanto, in un tribunale, si deve comunque attenersi a un giuramento piuttosto che a una semplice affermazione. Quindi, se un uomo accetta di sposare una donna con una semplice affermazione formulata al presente, dopo aver già accettato di sposarne un’altra con un giuramento espresso al futuro, sembrerebbe che, secondo la giustizia della Chiesa, dovesse essere costretto ad assumersi la prima moglie e non la seconda.
+
+Obiezione 4: Inoltre, la semplice enunciazione di parole relative al futuro costituisce un fidanzamento. Tuttavia, l’aggiunta di un giuramento deve avere qualche effetto concreto; pertanto, tale atto rappresenta qualcosa di più di un semplice fidanzamento. Ora, oltre al fidanzamento non esiste nulla se non il matrimonio; quindi, si tratta effettivamente di un matrimonio.
+
+Al contrario, ciò che è futuro non è ancora presente. Ora, l’aggiunta di un giuramento non fa sì che le parole al tempo futuro significhino altro che il consenso verso qualcosa che accadrà in futuro. Pertanto, non si tratta ancora di un matrimonio vero e proprio. Inoltre, una volta che il matrimonio è stato completato, non è più necessario alcun ulteriore consenso per confermarlo; ma dopo aver pronunciato il giuramento, è richiesto un altro atto di consenso affinché il matrimonio possa considerarsi effettivamente concluso. Altrimenti, sarebbe inutile giurare riguardo a un matrimonio che ancora non esiste. Quindi, il giuramento stesso non costituisce di per sé la conclusione del matrimonio.
+
+Rispondo che un giuramento viene utilizzato per confermare le proprie parole; pertanto esso conferma soltanto ciò che è espresso da tali parole, senza modificarne il significato. Poiché si tratta di parole relative al futuro, il loro stesso significato impedisce che venga effettuato un matrimonio, poiché ciò che viene promesso in futuro non è ancora stato realizzato. Anche se viene aggiunto un giuramento alla promessa, il matrimonio non viene comunque celebrato, come afferma il Maestro nel testo (Sentenze, iv, D, 28).
+
+Risposta all’Obiezione 1: L’adempimento di un giuramento legittimo è imposto dalla legge divina, ma non quello di un giuramento illecito. Pertanto, se un obbligo successivo rende tale giuramento illegittimo, quando prima lo era, colui che non rispetta il giuramento prestato in precedenza non disobbedisce alla legge divina. Lo stesso vale nel caso in questione: poiché chi promette illegalmente commette un atto illecito, e una promessa riguardante la proprietà altrui è di per sé illegittima. Di conseguenza, il consenso successivo espresso a parole, con cui un uomo trasferisce il proprio potere su di sé a un’altra donna, rende illegittimo il giuramento precedente che prima era legittimo.
+
+Risposta all’Obiezione 2: La verità divina è estremamente efficace nel confermare ciò a cui viene applicata. Pertanto, la risposta alla Terza Obiezione è chiara.
+
+Risposta all’Obiezione 4: Il giuramento ha effetto, non nel creare un nuovo obbligo, ma nel confermare ciò che è già stato stabilito; pertanto, chi lo viola commette un peccato più grave.
 
 <span class="atom-split" data-atom="028" data-title="Whether carnal intercourse after consent expressed in words of the future makes a marriage?" data-chapter="Whether carnal intercourse after consent expressed in words of the future makes a marriage?" data-kind="atom" data-srclang="en"></span>
 
@@ -1376,6 +1860,28 @@ it suffices if he provide for her marriage. Nor is he bound even to do this, acc
 affianced husband is of much higher rank than she, or if there be some evident sign of fraud, because
 it may be presumed that in all probability she was not deceived but pretended to be.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il rapporto sessuale consensuato esplicitamente con parole future costituisca un matrimonio, poiché il consenso espresso con atti è più significativo di quello espresso a parole. Tuttavia, chi ha un rapporto sessuale consente con atti alla promessa fatta in precedenza; pertanto sembrerebbe che questo comportamento costituisca un matrimonio ancora più efficacemente rispetto al caso in cui si desse semplicemente il consenso a parole riferite al presente.
+
+Obiezione 2: Inoltre, non solo il consenso esplicito ma anche quello interpretativo rende un matrimonio valido. Ora, non può esserci interpretazione più appropriata del consenso di quella che consiste nell’atto sessuale. Pertanto, è proprio attraverso questo atto che il matrimonio viene completato.
+
+Obiezione 3: Inoltre, qualsiasi unione carnale al di fuori del matrimonio è un peccato. Tuttavia, la donna, apparentemente, non pecca permettendo al proprio promesso di avere rapporti sessuali con lei. Pertanto, ciò costituisce un matrimonio.
+
+Obiezione 4: Inoltre, “Il peccato non viene perdonato se non vi è stata restituzione”, come afferma [Agostino](/figures/augustine) (Epistola clxxx ad Macedonum). Ora, un uomo non può restituire una donna che ha violato sotto il pretesto del matrimonio se non la sposa. Pertanto, sembrerebbe che anche dopo aver avuto rapporti carnali, se dovesse contrarre nuovi legami con un’altra persona con dichiarazioni rivolte al presente, fosse obbligato a tornare con la prima; e ciò sarebbe possibile soltanto se fosse effettivamente sposato con lei. Quindi, i rapporti carnali avvenuti dopo consenso ma con riferimento al futuro costituiscono di fatto un matrimonio.
+
+Al contrario, Papa Niccolò I afferma (Resp. ad Consult. Bulg. iii; Cap. Tuas dudum, De clandest. despons.), “Senza il consenso al matrimonio, anche le altre azioni, compresa la coniunzione carnale, non hanno alcun effetto.” Inoltre, ciò che segue a un atto non lo rende necessariamente valido; l’atto sessuale, infatti, segue il matrimonio effettivamente celebrato, proprio come l’effetto segue la causa. Pertanto, l’atto sessuale non può considerarsi sufficiente per costituire un matrimonio legittimo.
+
+Rispondo che si può parlare di matrimonio in due modi. Primo, in riferimento al tribunale della coscienza: in questo senso, è vero che il rapporto carnale non può rendere effettivo un matrimonio il cui impegno sia stato precedentemente assunto con parole espresse in termini futuri, se manca il consenso interiore; infatti, anche parole che esprimono il presente non basterebbero a costituire un matrimonio in assenza di consenso mentale, come già detto sopra (Q[45], A[4]). Secondo, in riferimento alla giudizio della Chiesa: poiché nel tribunale esterno la decisione viene presa sulla base di prove materiali, e poiché nulla rappresenta più chiaramente il consenso del rapporto carnale, ne consegue che, secondo la giudizio della Chiesa, il rapporto carnale che segue l’impegno nuziale costituisce effettivamente un matrimonio, a meno che non emergano evidenti segni di inganno o frode [*Secondo la legislazione pre-tridentina*] (De sponsal. et matrim., cap. Is qui fidem).
+
+Risposta all’Obiezione 1: In realtà, colui che ha rapporti sessuali consente con i fatti stesso l’atto di unione sessuale; non consente al matrimonio soltanto per questa ragione, se non secondo l’interpretazione della legge.
+
+Risposta all’Obiezione 2: Questa interpretazione non modifica la verità delle cose, ma cambia il giudizio che viene espresso riguardo alle realtà esterne.
+
+Risposta all’Obiezione 3: Se una donna ammette il proprio promesso sposo, pensando che egli desideri consumare il matrimonio, è scusata dal peccato, a meno che non vi siano chiari segni di frode; ad esempio, se vi sono notevoli differenze tra loro in termini di nascita o fortuna, o se emergono altri segni evidenti. Tuttavia, il promesso sposo è colpevole di adulterio e dovrebbe essere punito per questa frode che ha commesso.
+
+Risposta all’Obiezione 4: In un caso del genere, lo sposo promesso, prima di sposare un’altra donna, è obbligato a sposare colei con cui era fidanzato, se lei ha lo stesso rango o uno superiore al suo. Tuttavia, se ha già sposato un’altra donna, non è più in grado di adempiere a tale obbligo; pertanto basta che provveda al suo mantenimento. Secondo alcuni, non è nemmeno necessario farlo, qualora il marito promesso di lei abbia un rango molto più elevato o se esistano evidenti segni di frode, poiché si può presumere con buona probabilità che lei non sia stata ingannata, ma abbia finto di esserlo.
+
 <span class="atom-split" data-atom="029" data-title="OF COMPULSORY AND CONDITIONAL CONSENT (SIX ARTICLES)" data-chapter="OF COMPULSORY AND CONDITIONAL CONSENT (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider compulsory and conditional consent. Under this head there are six points
@@ -1386,6 +1892,16 @@ of inquiry:
 (4) Whether compulsory consent makes a marriage as regards the party using compulsion?
 (5) Whether conditional consent makes a marriage?
 (6) Whether one can be compelled by one's father to marry?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il consenso obbligatorio e quello condizionato. In questa categoria esistono sei punti da analizzare:  
+(1) È possibile ottenere un consenso obbligatorio?  
+(2) Un uomo costante nel proprio comportamento può essere costretto dal terrore a dare il proprio consenso?  
+(3) Il consenso obbligatorio rende il matrimonio nullo?  
+(4) Nel caso in cui venga utilizzato il ricorso alla coercizione, il matrimonio ha comunque validità per la parte che l’ha imposto?  
+(5) Un consenso condizionato rende il matrimonio valido?  
+(6) È possibile costringere qualcuno a sposarsi tramite la pressione di suo padre?
 
 <span class="atom-split" data-atom="030" data-title="Whether a compulsory consent is possible?" data-chapter="Whether a compulsory consent is possible?" data-kind="atom" data-srclang="en"></span>
 
@@ -1433,6 +1949,20 @@ question at issue compulsion and fear are the same. Now, according to lawyers fe
 of the mind occasioned by danger imminent or future" (Ethic. iii, 1).
 This suffices for the Replies to the Objections; for the first set of arguments consider the first
 kind of compulsion, and the second set of arguments consider the second.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nessun consenso possa essere obbligatorio. Infatti, come detto sopra (Sentenza ii, D, 25 [*FS, Q[6], A[4), la volontà libera non può essere costretta. Ora, il consenso è un atto della volontà libera; pertanto non può essere obbligatorio.
+
+Obiezione 2: Inoltre, “violento” è sinonimo di “obbligatorio”. Ora, secondo il Filosofo (Etica, iii, 1), “un atto violento è un atto il cui principio risiede nell’uso della forza, senza alcun consenso da parte della vittima”. Ma il principio del consenso deve sempre esistere all’interno dell’atto stesso. Pertanto, nessun consenso può essere considerato obbligatorio.
+
+Obiezione 3: Inoltre, ogni peccato viene perfezionato attraverso il consenso. Ma ciò che perfeziona un peccato non può essere obbligatorio, poiché, secondo [Agostino](/figures/augustine) (De Lib. Arb. iii, 18), “nessuno pecca in ciò che non può evitare”. Poiché la violenza viene definita dai giuristi come “la forza di un essere più potente che non può essere respinta”, sembrerebbe che il consenso non possa essere né obbligatorio né violento.
+
+Obiezione 4: Inoltre, il potere è opposto alla libertà. Ma la coercizione è legata al potere, come emerge da una definizione di Tullio secondo cui “la coercizione è la forza esercitata da colui che dispone del potere per trattenere qualcosa al di fuori dei suoi limiti naturali”. Pertanto, la volontà libera non può essere costretta, e di conseguenza nemmeno il consenso, che ne è un atto.
+
+Al contrario, ciò che non è possibile non può rappresentare un ostacolo. Tuttavia il consenso coatto costituisce un impedimento al matrimonio, come affermato nel testo (Sentenze iv, D, 29). Pertanto, il consenso può essere imposto con la forza. Inoltre, nel matrimonio esiste un contratto, e la volontà umana può essere coartata in materia di contratti; per questo motivo la legge stabilisce che debba essere restituito l’intero valore del contratto, poiché non si riconosce validità a “ciò che è stato fatto sotto coercizione o paura” (Sentenze iv, D[29]). Quindi anche nel matrimonio è possibile che il consenso sia imposto con la forza.
+
+Rispondo che la costrizione o la violenza sono di due tipi. Il primo è causato da una necessità assoluta; il filosofo lo definisce “violenza semplice”, come quando si utilizza la forza fisica per costringere qualcuno ad agire. Il secondo tipo di violenza deriva da una necessità condizionata; il filosofo lo chiama “violenza mista”, come quando si getta via le proprie merci per salvare se stessi. Nel secondo caso, anche se l’azione compiuta non è volontaria in sé, tenendo conto delle circostanze di luogo e tempo, essa diventa volontaria. Poiché le azioni riguardano aspetti concreti, si può dire che siano volontarie in un certo senso e involontarie in altri (cfr. FS, Q[6], A[6]). Pertanto, questa seconda forma di violenza o costrizione è compatibile con il consenso della persona interessata, mentre la prima no. Poiché questa costrizione deriva dalla paura di un pericolo imminente, essa coincide in qualche modo con la paura stessa, che “costringe” la volontà; mentre la prima forma di violenza riguarda azioni fisiche. Inoltre, poiché la legge considera non solo le azioni interne ma anche quelle esterne, per violenza si intende necessariamente una costrizione assoluta; per questo motivo si distingue tra violenza e paura. Tuttavia, in questo contesto si tratta di un consenso interno che non può essere influenzato da costrizioni o violenze diverse dalla paura stessa. Quindi, riguardo alla questione in discussione, costrizione e paura sono la stessa cosa. Secondo i giuristi, la paura è “l’agitazione dell’animo causata da un pericolo imminente o futuro” (Etica, iii, 1). Questo basta per rispondere alle obiezioni: il primo insieme di argomentazioni riguarda il primo tipo di costrizione, mentre il secondo insieme di argomentazioni riguarda il secondo tipo.
 
 <span class="atom-split" data-atom="031" data-title="Whether a constant man can be compelled by fear?" data-chapter="Whether a constant man can be compelled by fear?" data-kind="atom" data-srclang="en"></span>
 
@@ -1497,6 +2027,29 @@ to give; yet afterwards he wishes to ask for restitution, or at least to appeal 
 promised not to ask for restitution. But he cannot promise not to appeal, for since this is contrary
 to the good of justice, he cannot be compelled thereto, namely to act against justice.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un “uomo costante” non possa essere costretto dal timore. Infatti, la natura di un uomo costante è quella di non lasciarsi turbare di fronte ai pericoli. Poiché il timore rappresenta “una perturbazione dell’animo causata da un pericolo imminente”, sembrerebbe quindi che un uomo costante non possa essere influenzato dal timore.
+
+Obiezione 2: Inoltre, “Di tutte le cose spaventose, la morte rappresenta il limite”, afferma il Filosofo (Etica, iii, 6), come se fosse la cosa più perfetta tra tutte quelle che suscitano paura. Tuttavia, l’uomo costante non è soggetto alla minaccia della morte, poiché il coraggioso affronta anche i pericoli mortali. Pertanto, nessuna paura influisce sull’uomo costante.
+
+Obiezione 3: Inoltre, tra tutti i pericoli, un uomo buono teme soprattutto ciò che può danneggiare la sua reputazione.  
+Ma la paura della disonore non viene considerata in grado di influenzare un uomo costante nel suo comportamento, poiché, secondo il detto legale (vii, ff, de eo quod metus, ecc.), “la paura della disonore non rientra nell’ambito delle azioni compiute per paura” [*Dig. iv, 2, Quod metus est causa]. Pertanto, nessun altro tipo di paura può influenzare un uomo costante.
+
+Obiezione 4: Inoltre, in colui che è costretto dall’orrore a compiere certi atti, l’orrore stesso genera un peccato, poiché lo spinge a promettere ciò che non è disposto ad adempiere, facendolo così mentire. Ma una persona ferma e costante non commette mai alcun peccato, nemmeno il più lieve, per causa dell’orrore. Pertanto, l’orrore non influisce in alcun modo su una persona ferma e costante.
+
+Al contrario, Abramo e Isacco furono persone costanti nel loro comportamento. Tuttavia anch’essi furono influenzati dal timore: per paura, ciascuno dei due dichiarò che sua moglie fosse sua sorella (Genesi 12:12; 26:7). Inoltre, ovunque vi sia violenza mescolata, è sempre il timore a spingerla avanti. Ma per quanto un uomo possa essere costante, può comunque subire quel tipo di violenza: ad esempio, se si trovasse in mare, getterebbe le sue merci in acqua se minacciato dal rischio di naufragio. Pertanto, anche un uomo costante può essere influenzato dal timore.
+
+Rispondo che, quando diciamo che un uomo è costretto dal timore a compiere qualcosa che altrimenti non vorrebbe fare, intendiamo che viene spinto da questo sentimento ad agire in quel modo per evitare ciò che teme. Ora, l’uomo costante differisce dall’uomo incostante sotto due aspetti. Primo: riguardo alla natura del pericolo temuto; l’uomo costante segue la ragione, e sa quindi quale azione sia preferibile rispetto all’altra. In ogni caso, il male minore o il bene maggiore devono sempre essere scelti; pertanto l’uomo costante è costretto a sopportare il male minore per paura del male maggiore, ma non viene spinto ad affrontare il male maggiore soltanto per evitare il minore. L’uomo incostante, invece, è costretto ad affrontare il male maggiore per paura di un male minore, ad esempio a commettere peccati per timore delle sofferenze fisiche; al contrario, l’uomo ostinato non può essere costretto nemmeno a tollerare o compiere un male minore per evitare uno maggiore. Pertanto, l’uomo costante rappresenta una via di mezzo tra l’incostante e l’ostinato. Secondo: riguardo alla valutazione del pericolo in questione; l’uomo costante viene spinto ad agire soltanto da motivi gravi e plausibili, mentre l’uomo incostante è influenzato da ragioni banali: “Il malvagio agisce quando nessuno lo insegue” (Proverbi 28:1).
+
+Risposta all’Obiezione 1: L’uomo costante, come l’uomo coraggioso, è senza paura, come afferma il Filosofo (Etica, iii, 4): non perché sia del tutto privo di paura, ma perché non teme ciò che non dovrebbe temere, né in quel luogo né in quel momento.
+
+Risposta all’Obiezione 2: Il peccato è il più grande dei mali; pertanto un uomo costante non può mai essere costretto a peccare. Anzi, un uomo dovrebbe preferire morire piuttosto che subire simili cose, come afferma anch’egli il Filosofo (Etica, iii, 6,9). Tuttavia, alcune lesioni fisiche sono meno gravi di altre; tra queste figurano soprattutto quelle che riguardano la persona stessa, come la morte, i colpi, le conseguenze dello stupro e la schiavitù. Pertanto, simili eventi costringono un uomo costante a subire altre lesioni fisiche. Questo è ciò che si intende dal versetto: “Stupro, schiavitù, colpi e morte”. Non importa se tali eventi riguardino la propria persona, quella della moglie o dei figli, o altro ancora.
+
+Risposta all’Obiezione 3: Sebbene la disonore sia un danno più grave, è facile rimediarvi. Pertanto, la paura della disonore non viene considerata in grado di influenzare una persona costante e determinata nei propri principi.
+
+Risposta all’Obiezione 4: L’uomo costante non è costretto a mentire, poiché nel momento in cui desidera dare qualcosa, successivamente potrebbe voler chiedere il rimborso o, almeno, rivolgersi al giudice, se aveva promesso di non farlo. Tuttavia, non può promettere di non ricorrere al giudice, poiché ciò sarebbe contrario al bene della giustizia; quindi non può essere costretto a agire contro la giustizia stessa.
+
 <span class="atom-split" data-atom="032" data-title="Whether compulsory consent invalidates a marriage?" data-chapter="Whether compulsory consent invalidates a marriage?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that compulsory consent does not invalidate a marriage. For just
@@ -1545,6 +2098,24 @@ Reply to Objection 3: He ought not always to be advised to stand to that marriag
 when evil results are feared from its dissolution. Nor does he sin if he does otherwise, because there
 is no appearance of evil in not fulfilling a promise that one has made unwillingly.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il consenso obbligatorio non invalidi un matrimonio. Poiché il consenso è necessario per il matrimonio, allo stesso modo lo è l’intenzione per il Battesimo. Chi viene costretto dal timore a ricevere il Battesimo riceve comunque il [sacramento](/concepts/sacrament). Pertanto, chi viene costretto dal timore a dare il proprio consenso è ugualmente vincolato dal matrimonio.
+
+Obiezione 2: Inoltre, secondo il Filosofo (Etica, iii, 1), ciò che viene compiuto attraverso una violenza mista è più volontario che involontario. Ora, il consenso non può essere imposto se non mediante una violenza mista; pertanto, tale atto non è del tutto involontario e, di conseguenza, il matrimonio è valido.
+
+Obiezione 3: Inoltre, sembra che colui che abbia acconsentito al matrimonio sotto costrizione debba essere consigliato a mantenerlo; infatti, promettere e non mantenere la promessa presenta “l’aspetto del male”, e l’Apostolo ci esorta a evitare ogni comportamento del genere (1 Tessalonicesi 5:22). Tuttavia, questo non sarebbe vero se il consenso imposto invalidasse completamente il matrimonio. Pertanto, ecc.
+
+Al contrario, un decreto afferma (cap. Cum locum, De sponsal. et matrim.): “Poiché non vi è spazio per il consenso quando entrano in gioco la paura o la costrizione, ne consegue che, laddove sia richiesto il consenso di una persona, ogni pretesto per imporre coercizione debba essere scartato.” Ora, il contratto reciproco è necessario nel matrimonio. Pertanto. Inoltre, il matrimonio simboleggia l’unione di Cristo con la Chiesa, un’unione che si basa sulla libertà dell’amore. Pertanto, non può essere il risultato di un consenso imposto con la forza.
+
+Rispondo che il vincolo matrimoniale è eterno; pertanto qualsiasi cosa sia incompatibile con la sua perpetuità rende il matrimonio invalido. La paura, che costringe un uomo retto ad agire contro la propria volontà, priva il contratto della sua natura perpetua, poiché ne può essere richiesto l’annullamento totale. Quindi questa coercizione basata sulla paura rende invalido il matrimonio, ma non altre forme di costrizione simili. Un uomo retto è considerato una persona virtuosa; secondo il Filosofo (Etica, iii, 4), tale persona rappresenta la misura in tutte le azioni umane. Tuttavia, alcuni affermano che anche se il consenso sia stato dato sotto costrizione, il matrimonio sia valido dinanzi alla coscienza e agli occhi di Dio, ma non secondo la Chiesa, la quale ritiene che in tal caso non vi sia stato un vero consenso interiore a causa della paura. Ma ciò non ha alcuna rilevanza: la Chiesa non dovrebbe presumere che una persona abbia peccato finché non ne venga dimostrata la colpevolezza; e chi dichiara di aver acconsentito quando in realtà non lo ha fatto, ha effettivamente peccato. Pertanto, la Chiesa presume che tale consenso sia stato dato, ma ritiene che non sia sufficiente per rendere il matrimonio valido.
+
+Risposta all’Obiezione 1: L’intenzione non è la [causa efficace](/concepts/four_causes) del sacramento nel battesimo, ma soltanto la causa che induce l’agente ad agire; mentre il consenso lo è nel matrimonio. Pertanto, il confronto non regge.
+
+Risposta all’Obiezione 2: Nessun tipo di volontarietà è sufficiente per il matrimonio: esso deve essere completamente volontario, poiché deve essere perpetuo; pertanto, viene annullato da qualsiasi forma di violenza di natura mista.
+
+Risposta all’Obiezione 3: Non si dovrebbe sempre consigliare di mantenere quel matrimonio, ma soltanto quando si temono conseguenze negative della sua dissoluzione. Né commette peccato chi agisce diversamente, poiché non vi è alcun segno di male nel non mantenere una promessa fatta involontariamente.
+
 <span class="atom-split" data-atom="033" data-title="Whether compulsory consent makes a marriage as regards the party who uses compulsion?" data-chapter="Whether compulsory consent makes a marriage as regards the party who uses compulsion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that compulsory consent makes a marriage, at least as regards the
@@ -1574,6 +2145,20 @@ Reply to Objection 2: Marriage does not result from the consent of her who was c
 before, except in so far as the other party's previous consent remains in force; wherefore if he were
 to withdraw his consent there would be no marriage.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il consenso coercitivo renda possibile un matrimonio, almeno per la parte che ricorre alla costrizione. Infatti, il matrimonio è un segno di unione spirituale; ma un’unione spirituale basata sulla carità può esistere anche con una persona che non possiede tale virtù. Pertanto, il matrimonio è possibile anche con qualcuno che non lo desidera.
+
+Obiezione 2: Inoltre, se lei, che era stata costretta, acconsente in seguito, si tratterà di un vero matrimonio. Ma colui che l’ha costretta prima non è vincolato dal suo consenso; pertanto, egli è considerato sposato con lei in base al consenso dato in precedenza.
+
+Al contrario, il matrimonio è una relazione di equivalenza: entrambi i partner devono essere in condizioni equivalenti per che essa possa svolgersi. Pertanto, se c’è un impedimento da parte di uno dei due, non potrà esserci matrimonio.
+
+Rispondo che, poiché il matrimonio è un tipo di relazione, e una relazione non può sorgere in uno dei due termini senza sorgere anche nell’altro, ne consegue che qualsiasi cosa costituisca un ostacolo al matrimonio in uno dei due individui rappresenta anch’esso un ostacolo al matrimonio nell’altro; infatti è impossibile che un uomo sia marito di qualcuno che non sia sua moglie, o che una donna sia moglie senza avere un marito, proprio come è impossibile essere madre senza avere un figlio. Da ciò deriva il detto comune secondo cui “il matrimonio non è mai imperfetto”.
+
+Risposta all’Obiezione 1: Sebbene l’atto dell’amante possa essere rivolto verso qualcuno che non lo ama, non può esserci alcuna unione tra loro, a meno che l’amore non sia reciproco. Per questo motivo il Filosofo afferma (Etica viii, 2) che l’[amicizia](/concepts/friendship), che consiste in una sorta di unione, richiede un reciproco sentimento d’amore.
+
+Risposta all’Obiezione 2: Il matrimonio non deriva dal consenso di colei che è stata costretta in precedenza, salvo nel caso in cui il consenso precedente dell’altra parte rimanga valido; pertanto, se quest’ultima ritirasse il proprio consenso, non ci sarebbe più matrimonio.
+
 <span class="atom-split" data-atom="034" data-title="Whether conditional consent makes a marriage?" data-chapter="Whether conditional consent makes a marriage?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that not even a conditional consent makes a marriage, because a
@@ -1597,6 +2182,17 @@ contingent, as the payment of a sum of money, or the consent of the parents, and
 about a consent of this kind is the same as about a consent expressed in words of the future tense;
 wherefore it makes no marriage.
 This suffices for the Replies to the Objections.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nemmeno un consenso condizionato possa costituire un matrimonio, poiché una dichiarazione non viene ritenuta effettiva se è formulata su base di condizioni. Tuttavia, nel matrimonio le parole che esprimono il consenso devono essere pronunciate in modo semplice e diretto. Pertanto, un consenso condizionato non costituisce un matrimonio.
+
+Obiezione 2: Inoltre, il matrimonio dovrebbe essere certo. Ma quando una dichiarazione viene fatta su condizione, essa diventa dubbia. Pertanto, un consenso di questo tipo non costituisce un vero matrimonio.
+
+Al contrario, in altri contratti l’obbligo viene assunto a condizione che tale condizione venga rispettata; pertanto, poiché il matrimonio è un contratto, sembrerebbe possibile stipularlo attraverso un consenso condizionato.
+
+Rispondo che la condizione posta può riguardare il presente o il futuro. Se riguarda il presente e non è contraria ai principi del matrimonio, sia esso morale che immorale, il matrimonio è valido se la condizione si verifica; altrimenti è nullo. Tuttavia, se tale condizione è contraria alle benedizioni del matrimonio, allora il matrimonio è invalido, come abbiamo già affermato in merito ai fidanzamenti (Q[43], A[1]). Se invece la condizione riguarda il futuro, essa può essere necessaria – ad esempio, che il sole sorga domani – e in tal caso il matrimonio è valido, poiché tali eventi futuri sono già “presenti” nelle loro cause; oppure può essere contingente, come l’adempimento di un impegno finanziario o il consenso dei genitori. In questo ultimo caso, la valutazione del consenso espresso in termini futuri è analoga a quella di un consenso espresso con parole del presente; pertanto, tale condizione non rende il matrimonio valido.  
+Questo basta per rispondere alle obiezioni sollevate.
 
 <span class="atom-split" data-atom="035" data-title="Whether one can be compelled by one's father's command to marry?" data-chapter="Whether one can be compelled by one's father's command to marry?" data-kind="atom" data-srclang="en"></span>
 
@@ -1649,11 +2245,39 @@ service in a spiritual marriage as there is in the bodily marriage; because the 
 a kind of office for dispensing the public weal: "Let a man so account of us as of the ministers of
 Christ, and the dispensers of the mysteries of God" (1 Cor. 4:1).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che si possa essere costretti dall’ordine di un padre a sposarsi. Infatti è scritto (Colossesi 3:20): “Figli, obbedite ai vostri genitori in tutto”. Pertanto sono tenuti ad obbedir loro anche in questo caso.
+
+Obiezione 2: Inoltre, Isacco ordinò a Giacobbe (Genesi 28:1) di non prendere una moglie tra le figlie di Canaan. Ma non avrebbe potuto ordinarlo se non avesse avuto il diritto di farlo. Pertanto, un figlio è tenuto ad obbedire al proprio padre in questo ambito.
+
+Obiezione 3: Inoltre, nessuno dovrebbe promettere, soprattutto con un giuramento, qualcosa per cui non possa costringere la persona a mantenere quella promessa. Ora i genitori promettono matrimoni futuri per i loro figli e addirittura confermano tali promesse con un giuramento. Pertanto, possono costringere i propri figli a rispettare tali promesse.
+
+Obiezione 4: Inoltre, il nostro padre spirituale, ovvero il Papa, può con il suo ordine costringere un uomo ad accettare una posizione ecclesiastica, cioè ad assumere la carica di vescovo. Pertanto, anche un padre carnale può costringere suo figlio a sposarsi.
+
+Al contrario, un figlio può legittimamente entrare in una religione anche se suo padre gli ordina di sposarsi; pertanto non è obbligato ad obbedire a tale comando. Inoltre, se fosse obbligato ad ubbidire, un fidanzamento stipulato dai genitori avrebbe validità senza il consenso dei figli. Ma ciò sarebbe contrario alla legge (capitolo Ex litteris, De despon. impub.). Pertanto.
+
+Rispondo che, poiché nel matrimonio esiste una sorta di servizio perpetuo, per così dire, un padre non può, con il proprio ordine, costringere suo figlio a sposarsi, dato che quest’ultimo è in condizioni di libertà; tuttavia può indurlo a farlo per una ragione valida. In tal caso, l’ordine del padre avrà su di lui lo stesso effetto della ragione stessa: se questa ragione è convincente e indica un dovere o una convenienza, anche l’ordine del padre avrà lo stesso potere coercitivo; altrimenti, non può costringerlo.
+
+Risposta all’Obiezione 1: Le parole dell’Apostolo non si riferiscono a quelle situazioni in cui un uomo è padrone di se stesso, come lo è un padre nei confronti dei propri figli. Il matrimonio, ad esempio, è uno di questi casi: attraverso di esso anche il figlio diventa padre.
+
+Risposta all’Obiezione 2: Esistevano altri motivi per cui Giacobbe era obbligato a fare ciò che Isacco gli aveva ordinato: sia a causa della malvagità di quelle donne, sia perché la discendenza di Canaan doveva essere scacciata dalla terra promessa alla discendenza dei patriarchi. Per questo motivo, Isacco poteva impartire tale ordine.
+
+Risposta all’Obiezione 3: Essi non giurano se non sotto la condizione implicita che “ciò li soddisfi”; inoltre, sono tenuti a farlo in buona fede.
+
+Risposta all’Obiezione 4: Alcuni sostengono che il Papa non possa costringere un uomo ad accettare una carica episcopale, poiché il consenso dovrebbe essere libero. Ma se ciò fosse vero, l’ordine ecclesiastico verrebbe distrutto, poiché senza la possibilità di costringere qualcuno ad assumersi le responsabilità di una chiesa, questa non potrebbe essere salvaguardata, dato che spesso coloro che sono idonei a tale incarico rifiutano di accettarlo se non vengono costretti. Pertanto dobbiamo ribadire che questi due casi non sono paragonabili: nel matrimonio spirituale, infatti, non esiste un obbligo simile a quello presente nel matrimonio carnale; il matrimonio spirituale rappresenta piuttosto una sorta di incarico volto al servizio del bene comune: “Considerateci dunque ministri di Cristo e dispensatori dei misteri di Dio” (1 Corinzi 4:1).
+
 <span class="atom-split" data-atom="036" data-title="OF THE OBJECT OF THE CONSENT (TWO ARTICLES)" data-chapter="OF THE OBJECT OF THE CONSENT (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the object of the consent. Under this head there are two points of inquiry:
 (1) Whether the consent that makes a marriage is a consent to carnal intercourse?
 (2) Whether consent to marry a person for an immoral motive makes a marriage?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’oggetto del consenso. In questo ambito vi sono due questioni da esaminare:  
+(1) Se il consenso che porta al matrimonio sia effettivamente un consenso all’intimità carnale;  
+(2) Se il consenso di sposare una persona per motivi immorali renda tale matrimonio valido.
 
 <span class="atom-split" data-atom="037" data-title="Whether the consent that makes a marriage is a consent to carnal intercourse?" data-chapter="Whether the consent that makes a marriage is a consent to carnal intercourse?" data-kind="atom" data-srclang="en"></span>
 
@@ -1714,6 +2338,28 @@ Reply to Objection 4: Marriage begun corresponds to marriage consummated, as [ha
 power corresponds to the act which is operation.
 The arguments on the contrary side show that consent is not given explicitly to carnal intercourse;
 and this is true.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il consenso che rende valido un matrimonio sia un consenso all’atto sessuale. Infatti, Gerolamo afferma nel *De Bono Viduit* IX che “per coloro che hanno giurato di mantenere la verginità, è malvagio non solo sposarsi, ma anche desiderare di farlo”. Tuttavia, ciò non sarebbe considerato malvagio se non fosse contrario alla verginità, e il matrimonio non è contrario alla verginità se non per via dell’atto sessuale. Pertanto, il consenso volontario nel matrimonio è un consenso all’atto sessuale.
+
+Obiezione 2: Inoltre, tutto ciò che esiste nel matrimonio tra marito e moglie è legittimo anche tra fratello e sorella, ad eccezione dell’atto sessuale. Tuttavia, non può esserci un consenso legittimo al matrimonio tra loro. Pertanto, il consenso matrimoniale equivale a un consenso all’atto sessuale.
+
+Obiezione 3: Inoltre, se una donna dicesse a un uomo: “Consento a sposarti, a condizione che tu non mi conosca”, ciò non costituirebbe un vero consenso matrimoniale, poiché tale condizione è contraria all’essenza stessa di tale consenso. Tuttavia, questo non accadrebbe se il consenso matrimoniale non fosse in realtà un consenso al rapporto sessuale. Pertanto, eccetera.
+
+Obiezione 4: Inoltre, in ogni cosa l’inizio corrisponde alla realizzazione finale. Ora, il matrimonio si realizza attraverso il rapporto sessuale. Pertanto, poiché ha inizio con il consenso degli sposi, sembrerebbe che tale consenso riguardi proprio il rapporto sessuale.
+
+Al contrario, nessuno che consente all’atto sessuale è vergine sia nello spirito che nel corpo. Eppure il beato Giovanni evangelista, dopo aver acconsentito al matrimonio, rimase vergine sia nello spirito che nel corpo; pertanto non acconsentì all’atto sessuale. Inoltre, l’effetto corrisponde alla sua causa: l’acconsenso è infatti la causa del matrimonio. Poiché l’atto sessuale non è essenziale per il matrimonio, sembra che nemmeno l’acconsenso che ne costituisce la causa sia in realtà un consenso all’atto sessuale stesso.
+
+Rispondo che il consenso che rende valido un matrimonio è proprio un consenso al matrimonio stesso, poiché l’effetto effettivo della volontà è ciò che essa vuole. Pertanto, così come la relazione carnale è collegata al matrimonio, allo stesso modo il consenso che dà luogo a un matrimonio è anche un consenso alla relazione carnale. Come già detto in precedenza (Q[44], A[1]; Q[45], AA[1],2), il matrimonio non è essenzialmente la semplice unione carnale, ma una determinata connessione tra marito e moglie voluta per lo scopo della relazione sessuale; inoltre, tale connessione comporta anche un ulteriore legame tra i coniugi, nel senso che ciascuno di loro acquisisce su l’altro il potere di avere rapporti sessuali. Questa unione viene chiamata “vincolo coniugale”. È quindi evidente che coloro che affermavano che consentire al matrimonio significhi implicitamente consentire alla relazione sessuale avevano ragione: infatti, la relazione carnale non può essere intesa in altro modo se non come un effetto implicitamente contenuto nella sua causa; il potere di avere rapporti sessuali, che è l’oggetto del consenso, costituisce appunto la causa di tale relazione, proprio come il potere di utilizzare la propria proprietà è la causa dell’utilizzo di essa.
+
+Risposta all’Obiezione 1: Il motivo per cui il consenso al matrimonio dopo aver pronunciato il voto di verginità è considerato peccaminoso è che tale consenso conferisce il potere di compiere atti illegali; allo stesso modo, un uomo commetterebbe peccato se desse a un altro l’autorità di ricevere ciò che lui stesso ha in custodia, e non solo consegnandoglielo effettivamente. Per quanto riguarda il consenso della Beata Vergine, ne abbiamo già parlato in precedenza (Sentenze iv, D, 3; TP, Q[29], A[2]).
+
+Risposta all’Obiezione 2: Tra fratello e sorella non può esistere alcun potere di uno sull’altro in relazione al rapporto sessuale; allo stesso modo, nemmeno tale rapporto è legittimamente possibile tra loro. Pertanto, l’argomentazione non risulta convincente.
+
+Risposta all’Obiezione 3: Una condizione così esplicita è contraria non solo all’atto stesso, ma anche alla natura stessa del rapporto sessuale; pertanto, è contraria al matrimonio.
+
+Risposta all’Obiezione 4: Il matrimonio iniziato corrisponde al matrimonio consummato, così come l’[abitudine](/concepts/custom) o il potere corrispondono all’atto che ne è la manifestazione concreta. Gli argomenti presentati dal lato opposto dimostrano invece che il consenso non viene esplicitamente dato per l’intimità carnale; e questo è vero.
 
 <span class="atom-split" data-atom="038" data-title="Whether marriage can result from one person's consent to take another for a base motive?" data-chapter="Whether marriage can result from one person's consent to take another for a base motive?" data-kind="atom" data-srclang="en"></span>
 
@@ -1787,6 +2433,40 @@ inquiry:
 (4) Whether the marriage act is excused from sin by the aforesaid goods?
 (5) Whether it can ever be excused from sin without them?
 (6) Whether in their absence it is always a mortal sin?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il matrimonio non possa derivare dal consenso di una persona di assumersi un’altra per un motivo meschino o basso. Infatti, esiste solo una ragione per ogni azione. Ora, poiché il matrimonio è un [sacramento](/concepts/sacrament), non può derivare da un’intenzione diversa da quella per cui è stato istituito da Dio, ovvero la procreazione dei figli.
+
+Obiezione 2: Inoltre, l’unione coniugale proviene da Dio, secondo Matteo 19:6: “Quello che Dio ha unito, nessuno abbia il diritto di separare”. Ma un’unione creata per motivi immorali non proviene da Dio; pertanto non costituisce un vero matrimonio.
+
+Obiezione 3: Inoltre, negli altri sacramenti, se l’intenzione della Chiesa non viene rispettata, il sacramento diventa invalido. Ora, l’intenzione della Chiesa nel sacramento del matrimonio non è diretta verso uno scopo volgare o indegno. Pertanto, se un matrimonio viene contratto per uno scopo simile, esso non sarà considerato un matrimonio valido.
+
+Obiezione 4: Inoltre, secondo Boezio (“De Diff., Topic. ii”), “una cosa è buona se la sua fine è buona”. Ma il matrimonio è sempre buono; pertanto, non si tratta di matrimonio se viene celebrato per un fine malvagio.
+
+Obiezione 5: Inoltre, il matrimonio simboleggia l’unione di Cristo con la Chiesa; e in questo non può esserci nulla di volgare o indecente. Pertanto, nemmeno il matrimonio può essere contratto per motivi volgari o disonorevoli.
+
+Al contrario, colui che battezza un altro per motivi di guadagno battezza in modo valido. Pertanto, se un uomo sposa una donna allo scopo di trarne profitto, si tratta di un matrimonio valido. Inoltre, la stessa conclusione viene confermata dagli esempi e dalle autorità citate nel testo (Sentenze iv, D, 30).
+
+Rispondo che la [causa finale](/concepts/four_causes) del matrimonio può essere considerata duplice: essenziale e accidentale. La causa essenziale del matrimonio è lo scopo per cui esso è stato istituito dalla sua stessa natura, e questo scopo è sempre positivo: la procreazione dei figli e l’evitamento della fornicazione. La causa finale accidentale, invece, è ciò che le parti contraenti intendono come risultato del matrimonio. Poiché ciò che viene inteso come risultato del matrimonio ne consegue necessariamente, e poiché ciò che avviene prima non viene modificato da ciò che avviene dopo, ma al contrario, il matrimonio non diventa buono o cattivo a causa di tale scopo, bensì a causa di ciò che le parti contraenti intendono come risultato del loro legame. Poiché le cause accidentali sono infinite in numero, ne consegue che possano esistere un numero infinito di tali cause nel matrimonio, alcune delle quali positive e altre negative.
+
+Risposta all’Obiezione 1: Ciò vale per la causa essenziale e principale; ma ciò che ha un fine essenziale e principale può avere diversi fini secondari essenziali, nonché un numero infinito di fini accidentali.
+
+Risposta all’Obiezione 2: L’unione tra due persone può essere intesa come la relazione stessa che è il matrimonio; tale relazione proviene sempre da Dio ed è buona, indipendentemente dalla sua causa. Tuttavia, l’unione può anche essere considerata come l’atto di coloro che si uniscono, e in questo caso talvolta può risultare negativa e non derivare necessariamente da Dio. Non è nemmeno irragionevole che un effetto derivi da Dio, mentre la sua causa sia negativa; ad esempio, un bambino nato da adulterio: tale bambino non deriva dalla causa in sé considerata negativa, ma dal fatto che proviene da Dio, anche se non direttamente da Lui.
+
+Risposta all’Obiezione 3: L’intenzione della Chiesa, volta a conferire un sacramento, è essenziale per ogni singolo sacramento; pertanto, se essa non viene rispettata, tutti i sacramenti risultano nulli. Tuttavia, l’intenzione della Chiesa, volta ad ottenere un beneficio attraverso il sacramento, riguarda il benessere delle persone e non l’essenza stessa del sacramento; per questo motivo, anche se tale intenzione viene trascurata, il sacramento rimane comunque valido. Ciononostante, chi omette questa intenzione commette un peccato: ad esempio, chi durante il battesimo non intende la guarigione dell’anima, che è l’intento della Chiesa. Allo stesso modo, colui che intende contrarre matrimonio, anche se non lo indirizza verso lo scopo voluto dalla Chiesa, conclude comunque un matrimonio valido.
+
+Risposta all’Obiezione 4: Il male inteso con questo atto non è la fine del matrimonio, ma quella delle parti contraenti.
+
+Risposta all’Obiezione 5: È l’unione stessa, e non l’azione di coloro che sono uniti, il segno dell’unione di Cristo con la Chiesa; pertanto, la conclusione proposta non segue.  
+DEI BENI MATRIMONIALI* (SEI ARTICOLI) [*“Bona matrimonii” – variamente tradotti come beni matrimoniali, benefici del matrimonio o vantaggi derivanti dal matrimonio.*]  
+In seguito dobbiamo considerare i beni matrimoniali. In questa categoria esistono sei punti da analizzare:  
+(1) Se alcuni beni siano necessari affinché il matrimonio possa essere giustificato;  
+(2) Se quelli indicati siano sufficienti;  
+(3) Se il sacramento sia il bene principale tra tutti questi;  
+(4) Se l’atto matrimoniale possa essere scusato dal peccato grazie ai suddetti beni;  
+(5) Se esso possa mai essere scusato dal peccato senza di essi;  
+(6) Se, in loro assenza, l’atto matrimoniale sia sempre un peccato mortale.
 
 <span class="atom-split" data-atom="039" data-title="Whether certain blessings are necessary in order to excuse marriage?" data-chapter="Whether certain blessings are necessary in order to excuse marriage?" data-kind="atom" data-srclang="en"></span>
 
@@ -1938,6 +2618,38 @@ itself, whence also it derives its rectitude. Hence its sacramentality, if I may
 among the goods which justify marriage; and accordingly this third good of marriage, the sacrament
 to wit, denotes not only its indissolubility, but also whatever pertains to its signification.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i beni del matrimonio siano stati elencati in modo insufficiente dal Maestro (Sentenze iv, D, 31), ovvero “fede, prole e [sacramento](/concepts/sacrament)”. Infatti, lo scopo del matrimonio tra gli uomini non è soltanto la procreazione e l’educazione dei figli, ma anche la condivisione di una vita comune, nella quale ciascuno contribuisce con il proprio lavoro al bene comune, come affermato nell’Etica viii, 12. Pertanto, poiché la prole è considerata un bene del matrimonio, allo stesso modo dovrebbe essere considerata anche la condivisione dei compiti e degli sforzi reciproci.
+
+Obiezione 2: Inoltre, l’unione di Cristo con la Chiesa, simboleggiata dal matrimonio, è il risultato dell’amore fraterno. Pertanto, è l’amore fraterno e non la fede che dovrebbe essere considerato tra i beni del matrimonio.
+
+Obiezione 3: Inoltre, nel matrimonio, proprio come è richiesto che nessuna delle due parti intrattenga rapporti con un terzo, è altresì necessario che una parte ripaghi l’altra dei debiti contratti durante il matrimonio. Ora, il primo aspetto riguarda la fede, secondo quanto affermato dal Maestro (Sentenze iv, D, 31). Pertanto, anche la giustizia dovrebbe essere considerata tra i valori fondamentali del matrimonio, in relazione al pagamento dei debiti.
+
+Obiezione 4: Inoltre, nel matrimonio, che rappresenta l’unione di Cristo con la Chiesa, così come è richiesta l’indivisibilità, è necessaria anche l’unità, secondo cui un uomo ha una sola moglie. Tuttavia, il sacramento considerato uno dei tre elementi fondamentali del matrimonio riguarda proprio l’aspetto dell’indivisibilità. Pertanto, dovrebbe esistere qualcos’altro che riguardi l’aspetto dell’unità.
+
+Obiezione 5: D’altra parte, sembrerebbe che siano troppi. Infatti, una sola virtù è sufficiente per rendere un atto giusto; la fede è senz’altro una virtù. Pertanto, non era necessario aggiungere altre due “virtù” o qualità per rendere il matrimonio giusto.
+
+Obiezione 6: Inoltre, la stessa causa non può rendere qualcosa al contempo utile e virtuoso, poiché l’utile e il virtuoso rappresentano divisioni opposte del bene. Ora, il matrimonio deriva il proprio carattere di utilità dai figli; pertanto, i figli non dovrebbero essere considerati tra quei beni che rendono il matrimonio virtuoso.
+
+Obiezione 7: Inoltre, nulla dovrebbe essere considerato una proprietà o una condizione intrinseca di sé stesso. Ora, questi beni vengono considerati condizioni necessarie per il matrimonio. Pertanto, poiché il matrimonio è un sacramento, tale sacramento non dovrebbe essere considerato a sua volta una condizione del matrimonio stesso.
+
+Rispondo che il Matrimonio è istituito sia come un’operazione naturale che come un sacramento della Chiesa. Come operazione naturale, è guidata da due elementi, proprio come ogni altro atto virtuoso: uno di questi riguarda la volontà dell’agente, ovvero l’intenzione di raggiungere lo scopo legittimo; in questo senso, “la prole” viene considerata un bene derivante dal Matrimonio. L’altro elemento riguarda l’atto stesso, che è considerato buono in sé per il fatto di riguardare una materia appropriata; è quindi fondamentale la “fede”, che permette a un uomo di avere rapporti con sua moglie e nessun’altra donna. Oltre a ciò, il Matrimonio possiede anche una valenza sacrale, come dimostra appunto il termine stesso “sacramento”.
+
+Risposta all’Obiezione 1: “Progenie” indica non solo la nascita dei figli, ma anche la loro [educazione](/concepts/education), verso cui è diretta l’intera attività condivisa tra marito e moglie nel matrimonio; infatti, i genitori naturalmente si impegnano a fornire ciò di cui i loro “figli” hanno bisogno (2 Corinzi 12:14). Pertanto, la progenie include, come scopo principale, anche uno scopo, per così dire, secondario.
+
+Risposta all’Obiezione 2: Qui la fede non viene considerata una [virtù teologica](/concepts/theological_virtues), ma come parte della giustizia, nella misura in cui la fede significa l’allineamento delle azioni alle parole, ossia il rispetto delle promesse; poiché il matrimonio è un contratto, esso contiene appunto una promessa secondo cui questo uomo viene assegnato a questa donna.
+
+Risposta all’Obiezione 3: Proprio come la promessa di matrimonio implica che nessuna delle due parti possa avere rapporti con un terzo, essa richiede anche che entrambe si assumano reciprocamente le responsabilità derivanti dai debiti connessi al matrimonio. Quest’ultimo aspetto rappresenta effettivamente il più importante dei due, poiché deriva dal potere che ciascuna parte acquisisce sull’altra. Pertanto, entrambi questi elementi rientrano nella categoria delle promesse o degli impegni concreti derivanti dal matrimonio; sebbene il “Libro delle Sentenze” menzioni soltanto l’aspetto meno evidente di questi obblighi.
+
+Risposta all’Obiezione 4: Con “sacramento” dobbiamo intendere non solo l’indivisibilità, ma anche tutte quelle caratteristiche che derivano dal fatto che il matrimonio sia un segno dell’unione di Cristo con la Chiesa. Possiamo inoltre ribattere che l’unità a cui si riferisce l’obiezione riguarda la fede, proprio come l’indivisibilità appartiene al sacramento stesso.
+
+Risposta all’Obiezione 5: Qui la fede non indica una virtù, ma quella condizione di virtù che fa parte della giustizia e viene chiamata “fede”.
+
+Risposta all’Obiezione 6: Proprio come l’uso corretto di un bene utile trae la sua rettitudine non dall’utilità stessa del bene, ma dalla ragione che ne determina l’uso appropriato, allo stesso modo anche l’orientamento verso un bene utile può rendere tale orientamento “buono” e “retto”, grazie alla ragione che ne guida l’esecuzione corretta; ed è proprio in questo senso che il matrimonio, essendo diretto alla procreazione, è utile e al contempo retto, nella misura in cui viene praticato nel modo giusto.
+
+Risposta all’Obiezione 7: Come afferma il Maestro (Sentenze iv, D, 31), in questo contesto “sacramento” non si riferisce al matrimonio stesso, ma alla sua indissolubilità, che è un segno dello stesso concetto del matrimonio. Si può anche osservare che, sebbene il matrimonio sia un sacramento, il matrimonio come tale non coincide necessariamente con il matrimonio inteso come sacramento; infatti, esso è stato istituito non solo come segno di una realtà sacra, ma anche come funzione naturale. Pertanto, l’aspetto sacramentale rappresenta una condizione aggiunta al matrimonio considerato in sé stesso, e da essa deriva la sua rettitudine. La sua caratteristica sacramentale, se così si può dire, rientra tra i valori che giustificano il matrimonio; quindi questo terzo aspetto del matrimonio – ovvero il suo carattere sacramentale – indica non solo la sua indissolubilità, ma anche tutto ciò che riguarda il significato simbolico che esso possiede.
+
 <span class="atom-split" data-atom="041" data-title="Whether the sacrament is the chief of the marriage goods?" data-chapter="Whether the sacrament is the chief of the marriage goods?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the "[sacrament](/concepts/sacrament)" is not the chief of the marriage goods. For the
@@ -2022,6 +2734,32 @@ which a character is imprinted, and from this it derives its inseparability, as 
 iv, D, 31); yet it differs from them in so far as that power regards bodily acts; hence it does not
 confer a spiritual character.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il “[)sacramento](/concepts/sacrament)” non sia la cosa principale tra i beni connessi al matrimonio. Poiché lo scopo è ciò che ha la massima importanza in tutto; e lo scopo del matrimonio è la prole, quindi la prole rappresenta il bene principale legato al matrimonio.
+
+Obiezione 2: Inoltre, per quanto riguarda la natura specifica, la differenza è più importante del genere; proprio come nella composizione di una cosa naturale la forma è più importante della materia. Ora, “sacramento”, in termini di genere, si riferisce al matrimonio, mentre “progenie” e “fede”, in termini di differenza specifica, indicano i caratteri che rendono il matrimonio un tipo particolare di sacramento. Pertanto, questi altri due elementi sono più importanti del concetto stesso di “sacramento” nel contesto del matrimonio.
+
+Obiezione 3: Inoltre, proprio come esistono matrimoni senza “progenitori” e senza “fede”, esistono anche matrimoni privi di carattere indissolubile, come nel caso in cui una delle parti entri in una religione prima che il matrimonio venga consumato. Pertanto, nemmeno da questo punto di vista il “sacramento” rappresenta il valore più importante del matrimonio.
+
+Obiezione 4: Inoltre, un effetto non può essere più importante della sua causa. Ora, il consenso, che è la causa del matrimonio, spesso cambia; pertanto anche il matrimonio può essere sciolto, e di conseguenza l’indissolubilità non è sempre una condizione essenziale del matrimonio.
+
+Obiezione 5: Inoltre, i sacramenti che producono un effetto duraturo imprimono un certo carattere sulle persone che li ricevono. Ma nel matrimonio non viene impresso alcun carattere specifico; pertanto, il matrimonio non è condizionato da una duratura inseparabilità tra le parti coinvolte. Di conseguenza, proprio come esiste un matrimonio senza “progenie”, esiste anche un matrimonio senza “sacramento”; ne deriva quindi la stessa conclusione di prima.
+
+Al contrario, ciò che ha un ruolo essenziale nella definizione di una cosa è proprio ciò che ne costituisce l’elemento più fondamentale. L’inseparabilità, ad esempio, che riguarda il sacramento, viene considerata parte integrante della definizione del matrimonio (Q[44], A[3]), mentre la prole e la fede non lo sono. Pertanto, tra tutti gli elementi legati al matrimonio, il sacramento è senz’altro il più essenziale. Inoltre, il potere divino che opera nei sacramenti è più efficace del potere umano. Ma “prole” e “fede” sono legate al matrimonio in quanto riferite a funzioni proprie della [natura umana](/axes/human_nature), mentre il “sacramento” è legato ad esso in quanto istituito da Dio. Per queste ragioni, il sacramento svolge un ruolo più importante nel matrimonio rispetto agli altri due elementi menzionati.
+
+Rispondo che questo o quell’elemento può essere più importante per qualcosa in due modi: o perché è più essenziale, oppure perché è più eccellente. Se la ragione per cui è più importante risiede nel suo carattere eccellente, allora il “sacramento” è di gran lunga il più importante dei tre elementi che costituiscono il matrimonio, poiché appartiene al matrimonio considerato come sacramento di grazia; gli altri due, invece, ne fanno parte in quanto aspetti legati alla natura umana; e una perfezione derivante dalla grazia è certamente più eccellente di una perfezione derivante dalla natura stessa. Tuttavia, se si sostiene che sia più importante perché più essenziale, allora è necessario fare una distinzione: “fede” e “progenie” possono infatti essere considerati in due modi diversi. Primo, nel loro significato intrinseco: in questo caso, “fede” e “progenie” riguardano l’uso del matrimonio per procreare e rispettare i vincoli coniugali; mentre l’“indissolubilità”, che è il carattere distintivo del sacramento, riguarda il sacramento stesso nel suo aspetto essenziale, poiché il fatto stesso che marito e moglie si concedano reciprocamente un potere perpetuo attraverso il contratto matrimoniale implica necessariamente la loro indissolubilità. Pertanto, non esiste matrimonio senza indissolubilità, mentre è possibile esistere un matrimonio senza “fede” e “progenie”, poiché l’esistenza di una cosa non dipende necessariamente dal suo uso; in questo senso, il “sacramento” è più essenziale per il matrimonio di “fede” e “progenie”. Secondo, “fede” e “progenie” possono essere considerati anche in relazione ai loro principi fondamentali: “progenie” indica l’intenzione di avere figli, mentre “fede” rappresenta il dovere di rimanere fedeli; anche questi elementi sono indispensabili per il matrimonio, poiché derivano direttamente dal contratto coniugale stesso; quindi, se nel consenso che costituisce un matrimonio venissero espressi concetti contrari a questi principi, il matrimonio sarebbe invalido. Se si considerano “fede” e “progenie” in questo senso, è evidente che “progenie” sia l’elemento più essenziale per il matrimonio, seguito da “fede” e infine dal “sacramento”; proprio come, per l’uomo, essere nella natura è più essenziale che essere nella grazia, anche se essere nella grazia rappresenta certamente un livello di perfezione superiore.
+
+Risposta all’Obiezione 1: Il fine, in termini di intenzione, ha la priorità in una cosa, ma in termini di realizzazione, occupa un posto successivo. Lo stesso vale per i “progenitori” tra i beni connessi al matrimonio: da un certo punto di vista sono i più importanti, ma da un altro non lo sono.
+
+Risposta all’Obiezione 2: Il sacramento, pur occupando il terzo posto tra i beni connessi al matrimonio, appartiene a quest’ultimo per la sua specifica natura; viene infatti chiamato “sacramento” in quanto rappresenta, attraverso un simbolo, quella realtà sacra che il matrimonio stesso indica.
+
+Risposta all’Obiezione 3: Secondo [Agostino](/figures/augustine) (De Bono Conjug. ix), il matrimonio è un bene per i mortali; pertanto, nella risurrezione “nessuno sposerà né sarà sposato” (Matteo 22:30). Di conseguenza, il legame coniugale non dura oltre la vita in cui viene contratto; si dice quindi che sia “inseparabile”, perché non può essere spezzato in questa vita se non attraverso la morte fisica dopo un’unione carnale, o attraverso la morte spirituale dopo un’unione puramente spirituale.
+
+Risposta all’Obiezione 4: Sebbene il consenso che costituisce un matrimonio non sia di durata eterna in senso materiale, cioè riguardo alla sostanza dell’atto stesso – poiché tale atto termina e può essere seguito da un atto contrario – formalmente parlando è però eterno, poiché rappresenta il consenso verso un legame duraturo per sempre. Altrimenti non costituirebbe affatto un matrimonio, poiché un consenso volto ad assumere una donna temporaneamente non creerebbe alcun legame coniugale. Pertanto, il matrimonio è formalmente eterno, in quanto un atto riceve la propria natura dal proprio oggetto; ed è proprio da questo consenso che deriva l’indissolubilità del matrimonio stesso.
+
+Risposta all’Obiezione 5: Nei sacramenti nei quali viene impresso un “carattere sacro”, viene conferita la capacità di compiere azioni spirituali; nel matrimonio, invece, viene data la capacità di compiere azioni corporee. Pertanto, il matrimonio, in virtù del potere che marito e moglie ricevono l’uno sull’altro, concorda con quei sacramenti nei quali viene impresso un “carattere sacro”; da ciò deriva la sua inseparabilità dai sacramenti stessi, come afferma il Maestro (Sentenze, IV, D, 31). Tuttavia, si differenzia da essi in quanto tale potere riguarda azioni corporee; per questo motivo, il matrimonio non conferisce un “carattere sacro” di natura spirituale.
+
 <span class="atom-split" data-atom="042" data-title="Whether the marriage act is excused by the aforesaid goods?" data-chapter="Whether the marriage act is excused by the aforesaid goods?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the marriage act cannot be altogether excused from sin by the
@@ -2083,6 +2821,28 @@ regulate them during the pleasure itself.
 
 Reply to Objection 4: The turpitude that always accompanies the marriage act and always
 causes shame is the turpitude of punishment, not of sin, for man is naturally ashamed of any defect.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’atto coniugale non possa essere completamente scusato dal peccato grazie ai suddetti beni. Infatti, chi si permette di perdere un bene maggiore in nome di uno minore commette peccato, poiché lo fa in modo irragionevole. Ora, il bene legato alla ragione che è coinvolto nell’atto coniugale è superiore a questi tre beni coniugali menzionati. Pertanto, i suddetti beni non sono sufficienti a scusare l’atto coniugale stesso.
+
+Obiezione 2: Inoltre, se a un male morale si aggiunge un bene morale, il risultato complessivo è comunque male e non bene, poiché una circostanza negativa rende un’azione malvagia, mentre una circostanza positiva non la rende buona. Ora, l’atto coniugale è di per sé malvagio; altrimenti non avrebbe bisogno di alcuna giustificazione. Pertanto, l’aggiunta di elementi positivi legati al matrimonio non può rendere tale atto buono.
+
+Obiezione 3: Inoltre, ovunque vi sia una passione smisurata, vi è anche un vizio morale. Ora, i beni connessi al matrimonio non possono impedire che il piacere derivante da quell’atto sia smisurato; pertanto, essi non possono scusare tale atto come non peccaminoso.
+
+Obiezione 4: Inoltre, secondo Damasceno (De Fide Orth. ii, 15), la vergogna deriva soltanto da un atto disonorevole. Ora, i beni coniugali non tolgono a tale atto il suo carattere disonorevole; pertanto, essi non possono scusarlo come peccato.
+
+Al contrario, l’atto matrimoniale non differisce dalla fornicazione se non per i beni coniugali. Se quindi questi beni non fossero sufficienti a giustificare il matrimonio, esso sarebbe sempre illegale; e ciò è in contraddizione con quanto detto in precedenza (Q[41], A[3]). Inoltre, i beni coniugali sono considerati circostanze necessarie per l’atto matrimoniale stesso, come affermato sopra (A[1], ad 4). Ora, circostanze analoghe sono sufficienti per impedire che un atto sia ritenuto malvagio; pertanto, questi beni possono giustificare il matrimonio, rendendolo in tal modo assolutamente non peccaminoso.
+
+Rispondo che un atto si dice sia scusabile in due modi. Primo, dal punto di vista dell’agente: anche se è malvagio, non viene attribuito come peccato all’agente, o almeno non come un peccato così grave. Ad esempio, l’ignoranza può scusare totalmente o parzialmente un peccato. Secondo, l’atto stesso può essere considerato scusabile, nel senso che non è malvagio; ed è proprio in questo modo che i beni menzionati sopra vengono considerati sufficienti a giustificare l’atto coniugale. Ora, un atto non è moralmente malvagio e può essere considerato buono per la stessa ragione: non esistono atti indifferenti, come si è affermato nel Secondo Libro (Sentenze, ii, D, 40; FS, Q[18], A[9]). Un atto umano può essere considerato buono in due modi: da un lato, per la bontà della virtù che lo caratterizza; in questo caso, la sua bontà deriva dalle qualità che lo collocano nella posizione “media”. È ciò che avvviene nell’atto coniugale, dove “fede” e “progenie” rappresentano elementi fondamentali per la sua bontà, come già accennato sopra (A[2]). Dall’altro lato, un atto può essere considerato buono in quanto legato a un [sacramento](/concepts/sacrament); in questo caso, non solo è buono, ma anche santo. L’atto coniugale riceve questa bontà dalla sua indissolubilità, che simboleggia l’unione di Cristo con la Chiesa. È quindi evidente che i beni menzionati sopra sono sufficienti a giustificare pienamente l’atto coniugale.
+
+Risposta all’Obiezione 1: Attraverso l’atto matrimoniale, l’uomo non subisce danni alla propria ragione in termini di [abitudine](/concepts/custom), ma soltanto riguardo alle azioni che compie. Inoltre, non è affatto inappropriato che un certo atto, generalmente considerato positivo, venga talvolta interrotto per compiere un atto meno nobile; ciò è possibile senza peccare, come nel caso di chi smette di dedicarsi alla contemplazione per dedicarsi temporaneamente all’azione.
+
+Risposta all’Obiezione 2: Questo argomento sarebbe valido se il male insito nell’atto sessuale carnale fosse un male derivante dal peccato. Ma in questo caso si tratta di un male non legato al peccato, bensì esclusivamente alla punizione, dovuto alla ribellione della concupiscenza contro la ragione; pertanto, la conclusione proposta non risulta valida.
+
+Risposta all’Obiezione 3: L’eccesso di passione che costituisce un peccato non si riferisce all’intensità quantitativa della passione stessa, ma alla sua proporzione rispetto alla ragione; pertanto, solo quando una passione supera i limiti stabiliti dalla ragione viene considerata smisurata. Ora, il piacere legato all’atto coniugale, sebbene sia di intensità massima in termini quantitativi, non oltrepassa mai i confini precedentemente definiti dalla ragione prima dell’inizio dell’atto stesso; anche se, durante l’esperienza stessa del piacere, la ragione è incapace di regolarla.
+
+Risposta all’Obiezione 4: La turpitudine che accompagna sempre l’atto coniugale e che provoca sempre vergogna è la turpitudine della punizione, non del peccato; infatti, l’uomo prova naturalmente vergogna di qualsiasi difetto.
 
 <span class="atom-split" data-atom="043" data-title="Whether the marriage act can be excused without the marriage goods?" data-chapter="Whether the marriage act can be excused without the marriage goods?" data-kind="atom" data-srclang="en"></span>
 
@@ -2153,6 +2913,28 @@ this intention becomes evil, if one intend health by means of something that is 
 for that purpose; for instance if one sought only bodily health by the sacrament of baptism, and the
 same applies to the marriage act in the question at issue.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’atto coniugale possa essere giustificato anche in assenza dei beni coniugali. Infatti, colui che è spinto unicamente dalla natura ad compiere tale atto, apparentemente non intende alcuno di questi beni, poiché essi riguardano la grazia o la virtù. Tuttavia, quando una persona è motivata a compiere questo atto esclusivamente dall’appetito naturale, sembra che non commetta alcun peccato, poiché nulla di naturale può essere considerato male, dato che “il male è contrario alla natura e all’ordine”, come afferma Dionigi (Div. Nom. iv). Pertanto, l’atto coniugale può essere giustificato anche in assenza dei beni coniugali.
+
+Obiezione 2: Inoltre, colui che ha rapporti con sua moglie al fine di evitare la fornicazione non sembra intendere alcuno dei benefici connessi al matrimonio. Tuttavia, apparentemente non commette peccato, poiché il matrimonio è stato istituito proprio per contrastare la fornicazione (1 Corinzi 7:2,6). Pertanto, l’atto coniugale può essere giustificato anche in assenza di tali benefici.
+
+Obiezione 3: Inoltre, colui che utilizza a piacimento ciò che è suo non agisce contro la giustizia e, pertanto, apparentemente non pecca. Ora, il matrimonio rende la moglie proprietà del marito, e “viceversa”. Pertanto, se entrambi si utilizzano a vicenda a piacimento, spinti dal desiderio, sembrerebbe che ciò non costituisca un peccato; da ciò deriva la stessa conclusione.
+
+Obiezione 4: Inoltre, ciò che è genericamente buono non diventa cattivo a meno che non venga compiuto con intenzioni malvagie. Ora, l’atto coniugale, attraverso il quale un marito incontra sua moglie, è genericamente considerato un atto buono. Pertanto, non può essere considerato cattivo a meno che non venga compiuto con intenzioni malvagie. Tuttavia, può essere compiuto anche con intenzioni buone, anche senza il desiderio di realizzare i benefici legati al matrimonio stesso; ad esempio, con l’intento di preservare o migliorare la salute fisica. Quindi sembra che questo atto possa essere giustificato anche in assenza degli scopi tradizionalmente associati al matrimonio.
+
+Al contrario, se la causa viene rimossa, anche l’effetto scompare. Ora, i beni coniugali rappresentano la causa della rettitudine nell’atto coniugale; pertanto, l’atto coniugale non può essere giustificato senza di essi. Inoltre, l’atto coniugale non differisce dall’atto di fornicazione se non per quei beni menzionati. Ma l’atto di fornicazione è sempre malvagio; quindi anche l’atto coniugale sarà sempre malvagio, a meno che non venga giustificato da quei beni.
+
+Rispondo che, proprio come i beni coniugali, nella misura in cui consistono in un [obbligo morale](/concepts/custom), rendono il matrimonio onesto e sacro, così anche, nella misura in cui rientrano nell’intenzione effettiva delle parti coinvolte, rendono l’atto coniugale stesso onesto, per quanto riguarda quei due aspetti dei beni coniugali che sono direttamente legati all’atto stesso. Pertanto, quando le persone sposate si uniscono allo scopo di procreare o di saldare i reciproci debiti (che rientrano nella nozione di “fede”), sono completamente scusate dal peccato. Tuttavia, il terzo aspetto dei beni coniugali non riguarda l’uso stesso del matrimonio, ma la sua giustificazione, come già detto; per questo motivo rende onesto il matrimonio in sé, ma non necessariamente l’atto coniugale stesso, anche se quest’ultimo può essere considerato completamente scusato dal peccato, poiché viene compiuto per motivi legati a significati morali specifici. Di conseguenza, ci sono soltanto due modi in cui le persone sposate possono unirsi senza commettere alcun peccato: ovvero allo scopo di procreare o di saldare i debiti reciproci. In tutti gli altri casi, si tratta comunque di un peccato veniale.
+
+Risposta all’Obiezione 1: Il figlio concepito come bene derivante dal matrimonio include, oltre al figlio stesso inteso come bene naturale, anche l’orientamento del bambino verso Dio. Pertanto, l’intenzione della natura che porta alla nascita di un figlio deve necessariamente riferirsi, in modo reale o abituale, all’intento di generare un figlio inteso come bene legato al sacramento del matrimonio; altrimenti tale intento non andrebbe oltre i limiti di una semplice creatura, il che costituisce sempre un peccato. Di conseguenza, quando soltanto la natura spinge una persona ad agire nel matrimonio, questa non è completamente scusata dal peccato, salvo nel caso in cui tale spinta sia ulteriormente orientata, in modo reale o abituale, al figlio inteso come bene sacramentale. Inoltre, non si può affermare che l’istigazione della natura sia per sé stessa cattiva; essa è soltanto imperfetta se non viene ulteriormente indirizzata verso un qualche bene connesso al matrimonio.
+
+Risposta all’Obiezione 2: Se un uomo intende, attraverso l’atto matrimoniale, impedire che sua moglie commetta adulterio, ciò non costituisce peccato, poiché si tratta di una sorta di rimborso di un debito che rientra nell’ambito del bene della “fede”. Tuttavia, se il suo intento è quello di evitare che egli stesso commetta adulterio, allora vi è una certa eccessività nel suo comportamento, e di conseguenza si verifica un peccato veniale; inoltre, il sacramento matrimoniale non è stato istituito proprio a tale scopo, se non per mezzo dell’indulgenza, che riguarda i peccati veniali.
+
+Risposta all’Obiezione 3: Una sola circostanza non è sufficiente per rendere un atto buono; pertanto, non si può concludere che l’uso della propria proprietà sia sempre buono, a meno che non venga effettuato nel modo dovuto, tenendo conto di tutte le circostanze.
+
+Risposta all’Obiezione 4: Sebbene non sia intrinsecamente male voler mantenersi in buona salute, tale intento diventa malvagio se si persegue la salute attraverso mezzi che non sono naturalmente destinati a tale scopo; ad esempio, se si cercasse di ottenere soltanto la salute fisica tramite il sacramento del battesimo, e lo stesso vale per l’atto matrimoniale in questione.
+
 <span class="atom-split" data-atom="044" data-title="Whether it is a mortal sin for a man to have knowledge of his wife, with the intention not of a marriage good but merely of pleasure?" data-chapter="Whether it is a mortal sin for a man to have knowledge of his wife, with the intention not of a marriage good but merely of pleasure?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that whenever a man has knowledge of his wife, with the intention
@@ -2208,9 +2990,35 @@ Reply to Objection 4: The reason for this statement is not that man deserves to 
 excommunicated for this sin, but because he renders himself unfit for spiritual things, since in that
 act, he becomes flesh and nothing more.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che ogni volta che un uomo ha rapporti con sua moglie con l’intento non di instaurare un matrimonio serio, ma soltanto di procurarsi piacere, commetta un peccato mortale. Infatti, secondo Gerolamo (Commento su Efesini 5:25), citato nel testo (Sentenze iv, D, 31), “il piacere derivante dagli abbracci con una donna dissoluta è condannabile per un marito”. Ora, si dice che solo il peccato mortale sia realmente condannabile. Pertanto, avere rapporti con la propria moglie esclusivamente per motivi di piacere costituisce sempre un peccato mortale.
+
+Obiezione 2: Inoltre, acconsentire al piacere costituisce un peccato mortale, come affermato nel Secondo Libro (Sentenze, ii, D, 24). Chiunque conosca la propria moglie soltanto per il piacere che essa può procurargli acconsente quindi a tale piacere. Pertanto, commette un peccato mortale.
+
+Obiezione 3: Inoltre, chi non riferisce l’uso di una creatura a Dio ne gode, e questo costituisce un peccato mortale. Ma chi utilizza sua moglie soltanto per piacere personale non riferisce tale uso a Dio; pertanto commette un peccato mortale.
+
+Obiezione 4: Inoltre, nessuno dovrebbe essere scomunicato se non per un peccato mortale. Ora, secondo il testo (Sentenze ii, D, 24), un uomo che conosce sua moglie soltanto per piacere è vietato l’ingresso in Chiesa, come se fosse effettivamente scomunicato. Pertanto, ogni tale uomo commette un peccato mortale.
+
+Al contrario, come affermato nel testo (Sentenza ii, D, 24), secondo [Agostino](/figures/augustine) (Contra Iuliano ii, 10; De Decem Chordis xi; Sermone xli, de Sancto), questo tipo di rapporto carnale rientra tra i peccati quotidiani per i quali recitiamo il “Padre Nostro”. Ora, questi non sono peccati mortali. Pertanto, ecc. Inoltre, non è un peccato mortale consumare cibo soltanto per piacere; allo stesso modo, non è un peccato mortale che un uomo utilizzi sua moglie esclusivamente per soddisfare i propri desideri.
+
+Rispondo che alcuni affermano che ogni volta che il piacere sia lo scopo principale dell’atto coniugale, si tratti di un peccato mortale; che quando invece sia uno scopo secondario, si tratti di un peccato veniale; e che se l’atto coniugale prescinda completamente dal piacere e sia privo di esso, allora non contenga alcun peccato veniale. Pertanto, cercare il piacere nell’atto coniugale sarebbe un peccato mortale, accettarlo quando viene offerto sarebbe un peccato veniale, ma la perfezione richiede che si detesti completamente tale desiderio. Tuttavia ciò è impossibile, poiché, secondo il Filosofo (Etica, X, 3, 4), lo stesso giudizio vale sia per il piacere che per l’azione: il piacere derivante da un’azione buona è buono, quello derivante da un’azione cattiva è cattivo. Poiché l’atto coniugale di per sé non è cattivo, cercare il piacere in esso non sarà sempre considerato un peccato mortale. La risposta corretta a questa domanda è quindi che, se il piacere viene cercato in modo da escludere l’integrità e la lealtà coniugali – cioè se un uomo tratta sua moglie non come una compagna legittima ma come una donna qualsiasi, pronto a usarla nello stesso modo anche se non fosse sua moglie – allora si tratta di un peccato mortale. Un tale uomo viene considerato un amante troppo appassionato, poiché la sua passione lo allontana dai valori fondamentali del matrimonio. Se invece il piacere viene cercato entro i limiti del matrimonio, cioè se si cerca soltanto con la propria moglie e non con altre donne, allora si tratta di un peccato veniale.
+
+Risposta all’Obiezione 1: Un uomo cerca piaceri volgari con sua moglie quando non vede in lei nulla di ciò che potrebbe desiderare in una donna occasionale.
+
+Risposta all’Obiezione 2: Il consenso al piacere derivante dall’atto sessuale, che costituisce un peccato mortale, è anch’esso un peccato mortale; tuttavia, questo non vale per il consenso all’atto matrimoniale.
+
+Risposta all’Obiezione 3: Anche se in realtà non attribuisce quel piacere a Dio, non pone l’ultima finalità della sua volontà in esso; altrimenti lo cercerebbe indifferentemente ovunque. Pertanto, non si può concludere che goda di una creatura; bensì utilizza effettivamente quella creatura a proprio vantaggio, e sebbene non necessariamente, usa anche se stesso, abitualmente ma non necessariamente, a vantaggio di Dio.
+
+Risposta all’Obiezione 4: La ragione di questa affermazione non è che l’uomo meriti di essere escomunicato per questo peccato, ma perché si rende inadatto alle cose spirituali, poiché con quell’atto diventa soltanto carne e nulla di più.
+
 <span class="atom-split" data-atom="045" data-title="OF THE IMPEDIMENTS OF MARRIAGE, IN GENERAL (ONE ARTICLE)" data-chapter="OF THE IMPEDIMENTS OF MARRIAGE, IN GENERAL (ONE ARTICLE)" data-kind="atom" data-srclang="en"></span>
 
 In the next place we must consider the impediments of marriage: (1) In general; (2) In particular.
+
+<span class="qlang-split" data-lang="it"></span>
+
+In seguito, dobbiamo esaminare gli ostacoli al matrimonio: (1) in generale; (2) in particolare.
 
 <span class="atom-split" data-atom="046" data-title="Whether it is fitting that impediments should be assigned to marriage? (1/2)" data-chapter="Whether it is fitting that impediments should be assigned to marriage?" data-kind="atom" data-srclang="en"></span>
 
@@ -2330,6 +3138,37 @@ states of mankind, and since positive law, too, varies according to the various 
 the Master (Sent. iv, D, 34) asserts that at various times various persons have been unlawful subjects
 of marriage.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra inappropriato assegnare ostacoli al matrimonio, poiché il matrimonio è un [sacramento](/concepts/sacrament) condiviso con gli altri sacramenti. Tuttavia, agli altri sacramenti non vengono assegnati alcun ostacolo; pertanto, nemmeno al matrimonio dovrebbero essere assegnati ostacoli.
+
+Obiezione 2: Inoltre, più una cosa è imperfetta, meno ostacoli presenta. Ora il matrimonio è il sacramento meno perfetto tra tutti; pertanto dovrebbe non presentare alcun ostacolo, o ne dovrebbe presentare pochissimi.
+
+Obiezione 3: Inoltre, ovunque esista una malattia, è necessario disporre di un rimedio per essa. Ora, la concupiscenza, per la quale è permesso ricorrere al matrimonio (1 Corinzi 7:6), esiste in tutti. Pertanto non dovrebbe esserci alcun ostacolo che rendesse del tutto illegale il matrimonio tra due persone specifiche.
+
+Obiezione 4: Inoltre, questi mezzi illeciti sono contrari alla legge stessa. Gli ostacoli che vengono imposti al matrimonio non sono in contrasto con la [legge naturale](/positions/natural_law), poiché non si riscontra che siano uguali in tutti i contesti storici dell’umanità: infatti, in alcune epoche più gradi di parentela sono considerati impedimenti al matrimonio rispetto ad altre. Inoltre, la [legge umana](/concepts/human_law) non può certo imporre ostacoli al matrimonio, poiché quest’ultimo, come gli altri sacramenti, ha origine divina e non umana. Pertanto, non dovrebbero essere stabiliti impedimenti che rendano il matrimonio illegale per una persona.
+
+Obiezione 5: Inoltre, ciò che è contrario alla legge e ciò che non lo è differiscono tra loro in modo tale da non esistere alcun termine intermedio; queste due categorie sono opposte l’una all’altra in termini di affermazione e negazione. Pertanto, non possono esistere impedimenti al matrimonio che posizionino una persona in una posizione intermediaria tra coloro che sono legittimamente idonei al matrimonio e coloro che lo sono in modo illecito.
+
+Obiezione 6: Inoltre, l’unione tra uomo e donna è illegale se non avviene attraverso il matrimonio. Ora, ogni unione illegale dovrebbe essere sciolta. Pertanto, qualsiasi ostacolo possa impedire la celebrazione di un matrimonio lo “de facto” scioglierà anche dopo che esso sia stato contratto; quindi non dovrebbero essere introdotti ostacoli che impediscono il matrimonio prima della sua celebrazione o che lo sciolgono una volta celebrato.
+
+Obiezione 7: Inoltre, nessun ostacolo può eliminare da una cosa ciò che ne fa parte integrante della definizione. L’indissolubilità, ad esempio, fa parte della definizione del matrimonio; pertanto non possono esistere ostacoli in grado di annullare un matrimonio già contratto.
+
+Obiezione 8: D’altra parte, sembrerebbe che dovesse esistere un numero infinito di ostacoli al matrimonio. Infatti, il matrimonio è un bene; e un bene può essere mancante in un numero infinito di modi, come afferma Dionisio nel “Divine Nomina” (III). Pertanto, esiste un numero infinito di ostacoli al matrimonio.
+
+Obiezione 9: Inoltre, gli ostacoli al matrimonio derivano dalle condizioni individuali. Ma tali condizioni sono infinite in numero; pertanto, anche gli ostacoli al matrimonio sono infiniti.
+
+Rispondo che, nel matrimonio come negli altri sacramenti, ci sono alcune cose essenziali per il matrimonio stesso e altre che riguardano la sua solennizzazione. Poiché anche senza queste ultime il matrimonio rimane comunque un vero sacramento, come avviene per gli altri sacramenti, ne consegue che gli ostacoli relativi alle procedure di solennizzazione non influiscono sulla validità del matrimonio stesso. Tali ostacoli impediscono la stipulazione del matrimonio, ma non lo annullano una volta concluso; tra questi figurano il veto della Chiesa o le stagioni sacre. Da qui deriva il detto: “Il veto della Chiesa e le stagioni sacre vietano di legarsi in matrimonio, ma non lo sciogliono se già contratto”. D’altra parte, gli ostacoli che riguardano gli elementi essenziali del matrimonio rendono questo invalido; pertanto tali ostacoli non solo impediscono la stipulazione del matrimonio, ma lo annullano anche qualora sia stato contratto. Tra questi figurano l’errore, lo status sociale, i voti presi, i legami di parentela, i crimini, le differenze nella fede religiosa, la forza, gli ordini sacri, il vincolo coniugale, l’onestà, le affinità familiari e l’impotenza. La ragione di questa classificazione è la seguente: il matrimonio può essere ostacolato sia da fattori relativi alle parti contraenti che da aspetti legati alla stessa cerimonia di matrimonio. Se riguarda i contraenti, un ostacolo può derivare dal fatto che una persona non sia in grado di compiere l’atto coniugale, oppure dal fatto che sia vincolata a mantenere la castità per motivi religiosi o professionali. Nel primo caso, gli ostacoli sono rappresentati dall’impotenza e dalla schiavitù; nel secondo caso, da voti presi o dall’appartenenza a ordini sacri. Se invece l’ostacolo riguarda una persona specifica, ciò può derivare dal fatto che essa sia già sposata con un’altra persona, oppure da altri legami familiari o legali.
+Mancanza di proporzione rispetto all’altra parte, e ciò per tre motivi. Primo, a causa della distanza troppo grande che li separa; da questo deriva la “differenza nelle pratiche religiose”. Secondo, a causa del loro stretto legame di parentela; in questo caso esistono tre ostacoli: il “parentesco”, l’“affinità”, che indica un rapporto stretto tra due persone legate da matrimonio con una terza, e la “giustizia dell’onestà pubblica”, che riguarda i legami stretti nati dal fidanzamento di una delle parti con una terza persona. Terzo, a causa di un’unione precedente e illecita tra lui e quella donna; in questo caso, il “crimine di adulterio” commesso in passato rappresenta un ostacolo al matrimonio.
+
+Risposta all’Obiezione 1: Anche per gli altri sacramenti possono esistere impedimenti legati all’omissione di elementi essenziali o di aspetti relativi alla loro celebrazione, come già detto in precedenza. Tuttavia, agli altri sacramenti rispetto al matrimonio vengono attribuiti più impedimenti per tre motivi principali. Primo, perché il matrimonio coinvolge due persone e quindi può essere ostacolato in modi diversi rispetto agli altri sacramenti, che riguardano una singola persona; secondo, perché il matrimonio ha la sua causa sia in noi che in Dio, mentre alcuni degli altri sacramenti hanno la loro causa esclusivamente in Dio. Per questo motivo, alla penitenza – che in qualche modo ha una causa in noi – vengono assegnati determinati impedimenti (Sentenze, iv, D, 16), come l’ipocrisia o le attività pubbliche; terzo, perché gli altri sacramenti sono oggetto di comando o consiglio, essendo beni più perfetti, mentre il matrimonio rappresenta piuttosto un atto di indulgenza, essendo un bene meno perfetto (1 Corinzi 7:6). Pertanto, al fine di offrire l’opportunità di perseguire un bene maggiore, al matrimonio vengono attribuiti più impedimenti rispetto agli altri sacramenti.
+
+Risposta all’Obiezione 2: Le cose più perfette possono essere ostacolate in molti modi, poiché richiedono un maggior numero di condizioni per realizzarsi. E se una cosa imperfetta richiede molte condizioni, ci saranno quindi molti più ostacoli al suo compimento; ed è proprio questo che accade nel matrimonio.
+
+Risposta all’Obiezione 3: Questo argomento sarebbe valido se non esistessero altri rimedi più efficaci per combattere il male della concupiscenza; il che è falso.
+
+Risposta all’Obiezione 4: Si afferma che le persone siano soggetti illeciti al matrimonio quando sono in contrasto con la legge che lo stabilisce. Ora, il matrimonio, in quanto adempie a una funzione naturale, è stabilito dalla legge naturale; in quanto sacramento, dalla [Legge Divina](/concepts/divine_law); in quanto adempie a una funzione sociale, dalla legge civile. Pertanto, una persona può essere resa soggetto illecito al matrimonio da qualsiasi delle suddette leggi. Inoltre, il paragone con gli altri sacramenti non è pertinente, poiché questi sono soltanto sacramenti. E poiché la legge naturale si specifica in modi diversi a seconda dei vari stati dell’umanità, e poiché anche la legge positiva varia in base alle diverse condizioni umane, il Maestro (Sentenze, iv, D, 34) afferma che, in tempi diversi, diverse persone siano state considerate soggetti illeciti al matrimonio.
+
 <span class="atom-split" data-atom="047" data-title="Whether it is fitting that impediments should be assigned to marriage? (2/2)" data-chapter="Whether it is fitting that impediments should be assigned to marriage?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 5: The law may forbid a thing either altogether, or in part and in certain
@@ -2360,12 +3199,30 @@ Reply to Objection 9: The conditions of particular persons taken individually ar
 number, but taken in general, they may be reduced to a certain number; as instanced in medicine
 and all operative arts, which consider the conditions of particular persons in whom acts are.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 5: La legge può proibire qualcosa completamente, o in parte e in determinati casi. Pertanto, tra ciò che è totalmente conforme alla legge e ciò che è totalmente contrario alla legge (che si oppongono per contrarietà e non attraverso affermazione e negazione), ciò che è in parte conforme e in parte contrario alla legge rappresenta un termine intermedio. Per questo motivo, alcune persone occupano una posizione intermediaria tra coloro che sono semplicemente soggetti legali e coloro che sono semplicemente soggetti illegali.
+
+Risposta all’Obiezione 6: Quegli ostacoli che non annullano un matrimonio già contratto a volte impediscono che tale matrimonio venga celebrato, rendendolo non invalido ma illecito. E se viene comunque contratto, si tratta di un vero matrimonio, anche se le parti contraenti commettono un peccato; proprio come la consacrazione dopo aver rotto il digiuno costituirebbe un peccato per disobbedire all’ordinanza della Chiesa, ma rimarrebbe comunque un valido [sacramento](/concepts/sacrament), poiché non è essenziale che il celebrante sia in stato di digiuno.
+
+Risposta all’Obiezione 7: Quando affermiamo che i suddetti ostacoli annullino un matrimonio già contratto, non intendiamo che essi dissolvano un matrimonio celebrato secondo le dovute formalità, ma che essi dissolvano un matrimonio contratto “de facto” e non “de jure”. Pertanto, se un ostacolo insorge dopo che il matrimonio è stato celebrato secondo le legittime procedure, tale ostacolo non può dissolvere il matrimonio stesso.
+
+Risposta all’Obiezione 8: Gli ostacoli che impediscono accidentalmente l’attuazione di un bene sono infiniti in numero, proprio come tutte le cause accidentali. Tuttavia, le cause che per loro natura corrompono un certo bene sono dirette verso tale effetto e sono determinate, proprio come quelle che producono quel bene stesso; infatti, le cause che distruggono qualcosa e quelle che lo creano sono o opposte tra loro, o uguali ma considerate in modo contrario.
+
+Risposta all’Obiezione 9: Le condizioni delle singole persone, considerate individualmente, sono infinite in numero, ma se considerate nel loro insieme, possono essere ridotte a un certo numero; come avviene nella medicina e in tutte le arti operative, che prendono in considerazione le condizioni delle persone alle quali vengono applicati tali interventi.
+
 <span class="atom-split" data-atom="048" data-title="OF THE IMPEDIMENT OF ERROR (TWO ARTICLES)" data-chapter="OF THE IMPEDIMENT OF ERROR (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the impediments to matrimony in particular, and in the first place the
 impediment of error. Under this head there are two points of inquiry:
 (1) Whether error of its very nature is an impediment to matrimony?
 (2) What kind of error?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare in particolare gli ostacoli al matrimonio, e in primo luogo l’ostacolo rappresentato dall’errore. In questa categoria esistono due aspetti da analizzare:  
+(1) Se l’errore, per sua natura stessa, costituisca un ostacolo al matrimonio;  
+(2) Di che tipo di errore si tratti.
 
 <span class="atom-split" data-atom="049" data-title="Whether it is right to reckon error as an impediment to marriage?" data-chapter="Whether it is right to reckon error as an impediment to marriage?" data-kind="atom" data-srclang="en"></span>
 
@@ -2423,6 +3280,29 @@ Hence the comparison fails.
 Reply to Objection 4: According to the Master (Sent. iv, D, 30) the marriage between Lia and
 Jacob was effected not by their coming together, which happened through an error, but by their
 consent, which followed afterwards. Yet both are clearly to be excused from sin (Sent. iv, D, 30).
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’errore, in sé, non dovrebbe essere considerato un ostacolo al matrimonio.  
+Infatti, il consenso, che costituisce la [causa efficace](/concepts/four_causes) del matrimonio, può essere ostacolato nello stesso modo in cui lo è la volontà. Ora, secondo il Filosofo (Etica, iii, 1), la volontà può essere impedita dall’ignoranza. Ma l’ignoranza non è la stessa cosa che un errore: l’ignoranza esclude completamente la conoscenza, mentre un errore no, poiché “un errore consiste nel ritenere falso ciò che è vero”, secondo [Agostino](/figures/augustine) (De Trinitate, ix, 11). Pertanto, in questo caso, dovrebbe essere l’ignoranza e non l’errore ad essere considerata un ostacolo al matrimonio.
+
+Obiezione 2: Inoltre, ciò che per sua stessa natura può rappresentare un ostacolo al matrimonio è in contrasto con il bene stesso del matrimonio. Ma l’errore non rientra in questa categoria. Pertanto, l’errore, per sua natura, non costituisce un ostacolo al matrimonio.
+
+Obiezione 3: Inoltre, proprio come il consenso è necessario per il matrimonio, lo stesso vale per il battesimo. Se qualcuno battezzasse Giovanni pensando di battezzare Pietro, Giovanni verrebbe comunque battezzato. Pertanto, l’errore non annulla il matrimonio.
+
+Obiezione 4: Inoltre, vi fu un vero matrimonio tra Lia e Giacobbe; tuttavia, in questo caso, si verificò un errore. Pertanto, un errore non annulla un matrimonio.
+
+Al contrario, si legge nei Digesti (Si per errorem, ff. De jurisdic. omn. judic.): “Cosa c’è di più opposto al consenso dell’errore?” Ora il consenso è necessario per il matrimonio; pertanto l’errore rappresenta un ostacolo al matrimonio stesso. Inoltre, il consenso indica qualcosa di volontario, mentre l’errore costituisce un impedimento alla volontà, poiché “ciò che è volontario”, secondo il Filosofo (Etica iii, 1), Damasceno (De Fide Orth. ii, 24) e Gregorio di Nissa (*Nemesio* [De Nat. Hom. xxxii]), “è ciò che ha la sua origine in colui che possiede conoscenza dei singoli elementi che costituiscono l’oggetto delle azioni”. Ma questo non vale per chi si trova in errore; pertanto, l’errore rappresenta effettivamente un ostacolo al matrimonio.
+
+Rispondo che ciò che ostacola una causa, per sua stessa natura, ostacola anche l’effetto che ne deriva. Ora, il consenso è la causa del matrimonio, come già detto sopra (Q[45], A[1]). Pertanto, qualsiasi cosa renda nullo il consenso rende nullo anche il matrimonio. Il consenso, infatti, è un atto della volontà che presuppone un atto dell’intelletto; se manca il primo, necessariamente mancherà anche il secondo. Quindi, quando un errore ostacola la conoscenza, ne consegue anche una deficienza nel consenso e, di conseguenza, nel matrimonio stesso. Pertanto, è possibile, secondo la [legge naturale](/positions/natural_law), che un errore renda nullo un matrimonio.
+
+Risposta all’Obiezione 1: In parole semplici, l’ignoranza si distingue dall’errore perché, per sua natura stessa, l’ignoranza non implica alcun atto di conoscenza, mentre l’errore presuppone un giudizio errato della ragione su qualcosa. Tuttavia, in quanto riguarda il fatto di rappresentare un ostacolo all’azione volontaria, non fa differenza che la si chiami ignoranza o errore: nessuna forma di ignoranza può costituire un ostacolo all’azione volontaria, a meno che non sia accompagnata da un errore, poiché l’atto della volontà presuppone necessariamente una valutazione o un giudizio su qualcosa che ne è l’oggetto. Pertanto, dove c’è ignoranza, deve esserci anche errore; ed è per questo motivo che l’errore viene considerato la causa immediata di tali ostacoli.
+
+Risposta all’Obiezione 2: Sebbene l’errore in sé non sia contrario al matrimonio, lo è riguardo alla causa stessa del matrimonio.
+
+Risposta all’Obiezione 3: La natura del battesimo non è determinata direttamente dall’intenzione di chi battezza, ma dall’elemento materiale applicato esteriormente; inoltre, l’intenzione ha efficacia soltanto nel caso in cui indirizzi tale elemento materiale verso il suo effetto specifico. Al contrario, il legame matrimoniale è determinato direttamente dal consenso delle parti coinvolte. Pertanto, questa analogia non regge.
+
+Risposta all’Obiezione 4: Secondo il Maestro (Sentenze iv, D, 30), il matrimonio tra Lia e Giacobbe non fu celebrato a causa del loro incontro casuale, avvenuto per errore, ma grazie al loro consenso successivo. Tuttavia, entrambi devono essere considerati esenti da colpa (Sentenze iv, D, 30).
 
 <span class="atom-split" data-atom="050" data-title="Whether every error is an impediment to matrimony?" data-chapter="Whether every error is an impediment to matrimony?" data-kind="atom" data-srclang="en"></span>
 
@@ -2528,6 +3408,46 @@ she may either leave the second or return to the first; and ignorance of the fac
 sin, just as she would be excused if after the consummation of the marriage a kinsman of her husband
 were to know her by fraud since she is not to be blamed for the other's deceit.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che ogni errore costituisca un ostacolo al matrimonio, e non soltanto quelli relativi alle condizioni o alla persona interessata, come affermato nel testo (Sentenza iv, D, 30). Infatti, ciò che vale per una cosa in sé vale anche per tutte le sue manifestazioni. Ora, l’errore, per sua stessa natura, rappresenta un ostacolo al matrimonio, come già detto sopra (A[1]). Pertanto, ogni errore costituisce un ostacolo al matrimonio.
+
+Obiezione 2: Inoltre, se l’errore, in quanto tale, rappresenta un ostacolo al matrimonio, maggiore è l’errore, maggiore sarà l’ostacolo stesso. Ora, l’errore riguardante la fede nei confronti di un eretico che nega l’esistenza di questo [sacramento](/concepts/sacrament) è più grave dell’errore relativo alla persona stessa. Pertanto, dovrebbe costituire un ostacolo ancora maggiore rispetto all’errore riguardante la persona.
+
+Obiezione 3: Inoltre, l’errore non annulla il matrimonio se non nel caso in cui ne rimuova la volontarietà. Ora, l’ignoranza riguardo a qualsiasi circostanza elimina la volontarietà (Etica, iii, 1). Pertanto, non è soltanto l’errore riguardo alla condizione o alla persona che costituisce un ostacolo al matrimonio.
+
+Obiezione 4: Inoltre, proprio come lo stato di schiavitù è un accidente che colpisce la persona, allo stesso modo lo sono le qualità fisiche o mentali. Tuttavia, un errore riguardo a tale stato costituisce un ostacolo al matrimonio; pertanto, un errore riguardo alle qualità personali o alla condizione economica rappresenta anch’esso un ostacolo equivalente.
+
+Obiezione 5: Inoltre, proprio come la schiavitù o la libertà riguardano lo stato personale, allo stesso modo esistono ranghi elevati e bassi, nonché dignità sociale e loro mancanza. Ora, un errore riguardo allo stato di schiavitù rappresenta un ostacolo al matrimonio; pertanto, anche un errore riguardo alle altre questioni menzionate costituisce un ostacolo simile.
+
+Obiezione 6: Inoltre, proprio come lo stato di schiavitù rappresenta un ostacolo, allo stesso modo lo sono le differenze nella [adorazione](/concepts/religion) e l’impotenza, come vedremo più avanti (Q[52], A[2]; Q[58], A[1]; Q[59], A[1]). Pertanto, proprio come un errore riguardante lo stato di schiavitù costituisce un ostacolo, allo stesso modo anche gli errori relativi a queste altre questioni dovrebbero essere considerati ostacoli.
+
+Obiezione 7: D’altra parte, sembrerebbe che nemmeno un errore riguardo alla persona sia un ostacolo al matrimonio. Infatti, il matrimonio è un contratto, proprio come lo è una vendita. Nella compravendita, l’accordo non viene annullato se si dà una moneta diversa da un’altra di uguale valore; pertanto, nemmeno il matrimonio viene annullato se si sposa una donna diversa da un’altra.
+
+Obiezione 8: Inoltre, è possibile che rimangano in questo errore per molti anni e che generino figli tra loro. Tuttavia, sarebbe una grave affermazione sostenere che in tal caso dovrebbero essere separati. Pertanto, il loro errore precedente non annulla il loro matrimonio.
+
+Obiezione 9: Inoltre, potrebbe accadere che una donna sia fidanzata con il fratello dell’uomo con cui pensa di sposarsi e che abbia avuto rapporti carnali con lui; in tal caso, apparentemente non potrebbe tornare con l’uomo a cui credeva di dare il proprio consenso, ma dovrebbe rimanere con suo fratello. Pertanto, un errore riguardo alla persona non costituisce un ostacolo al matrimonio.
+
+Rispondo che, proprio come l’errore, poiché causa involontarietà, può essere considerato una scusa per il peccato, allo stesso modo costituisce anche un ostacolo al matrimonio. Tuttavia, l’errore non scusa completamente dal peccato se non riguarda una circostanza la cui presenza o assenza rende un atto legittimo o illegittimo. Ad esempio, se un uomo colpisse suo padre con un bastone di ferro pensando che fosse di legno, non sarebbe completamente scusato dal peccato, anche se forse in parte; al contrario, se colpisse suo padre credendo di colpire suo figlio per correggerlo, sarebbe completamente scusato, a condizione che prestasse la dovuta attenzione. Pertanto, affinché un errore possa annullare un matrimonio, deve riguardare gli elementi essenziali del matrimonio stesso. Il matrimonio include due aspetti: le due persone che si uniscono e il potere reciproco che ne deriva. Il primo di questi aspetti può essere compromesso da un errore riguardante la persona stessa; il secondo, da un errore riguardante le condizioni necessarie per il matrimonio, poiché uno schiavo non può liberamente concedere il proprio corpo a un altro senza il consenso del suo padrone. Per questa ragione, soltanto questi due tipi di errori costituiscono un ostacolo al matrimonio.
+
+Risposta all’Obiezione 1: Non è per la sua natura generica che l’errore costituisce un ostacolo al matrimonio, ma per la natura della differenza che esso introduce; in altre parole, perché si tratta di un errore riguardante uno degli elementi essenziali per il matrimonio.
+
+Risposta all’Obiezione 2: Un errore di fede riguardo al matrimonio concerne questioni che ne derivano, ad esempio il fatto che esso sia un sacramento o che sia legittimo. Pertanto, errori di questo tipo non costituiscono un ostacolo al matrimonio, così come un errore riguardo al battesimo non impedisce a una persona di riceverne i benefici, purché intenda effettivamente accettare ciò che la Chiesa offre, anche se crede che esso non significhi nulla.
+
+Risposta all’Obiezione 3: Non è certo l’ignoranza di una determinata circostanza a causare quella caratteristica di involontarietà che costituisce una scusa per non essere ritenuti colpevoli di un peccato, come già detto; pertanto, questo argomento non dimostra nulla.
+
+Risposta all’Obiezione 4: La differenza di fortuna o di qualità non influisce sugli elementi essenziali del matrimonio, così come non lo fa la condizione di schiavitù. Pertanto, questo argomento non è convincente.
+
+Risposta all’Obiezione 5: Un errore riguardante il rango o la posizione sociale di una persona, in quanto tale, non annulla il matrimonio, per lo stesso motivo per cui un errore relativo a una qualità personale non lo annulla. Tuttavia, se l’errore riguardante il rango o la posizione sociale equivale a un errore sulla stessa persona, costituisce un ostacolo al matrimonio. Pertanto, se una donna consente direttamente di sposare quella specifica persona, il suo errore riguardo al suo rango non annulla il matrimonio; ma se intende sposare il figlio del re, indipendentemente da chi esso sia, e invece le viene presentato un altro uomo, allora si verifica un errore sulla persona stessa e il matrimonio sarà nullo.
+
+Risposta all’Obiezione 6: L’errore rappresenta un ostacolo al matrimonio, purché riguardi aspetti che rendano una persona inadatta a contrarre matrimoni legalmente validi. Tuttavia, il Maestro non menziona l’errore in tali casi, poiché tale condizione costituisce comunque un ostacolo al matrimonio, indipendentemente dall’esistenza di errore; quindi, se una donna contrae matrimonio con un subdecano, sia che ne sia a conoscenza o meno, il matrimonio non è valido. Al contrario, lo stato di schiavitù non costituisce un ostacolo al matrimonio, purché tale condizione sia nota. Pertanto, il paragone proposto non regge.
+
+Risposta all’Obiezione 7: Nei contratti, il denaro è considerato la misura di altre cose (Etica, v, 5), e non viene cercato per se stesso. Pertanto, se la moneta pagata non corrisponde a ciò che si pensava fosse, ma è invece un’altra moneta di uguale valore, ciò non rende il contratto nullo. Tuttavia, se vi è un errore riguardo a qualcosa che viene cercato per sé stesso, il contratto diventa nullo; ad esempio, se qualcuno vendesse un asino pensando di vendere un cavallo. Ed è proprio questo il caso in questione.
+
+Risposta all’Obiezione 8: Non importa da quanto tempo convivano, a meno che lei non sia disposta ad acconsentire di nuovo, non esiste matrimonio.
+
+Risposta all’Obiezione 9: Se in precedenza non aveva acconsentito a sposare il fratello di lui, può rimanere con l’uomo che ha preso in errore. Non può nemmeno tornare dal fratello di lui, soprattutto se è avvenuto rapporto carnale tra lei e quest’ultimo. Tuttavia, se in precedenza aveva acconsentito a sposare il primo con parole esplicite, non può sposare il secondo finché il primo è ancora vivo. Può però lasciare il secondo o tornare dal primo; l’ignoranza di tale fatto la scusa dal peccato, proprio come verrebbe scusata se, dopo la consumazione del matrimonio, un parente del marito la conoscesse a causa di un inganno, poiché non può essere ritenuta responsabile dell’inganno altrui.
+
 <span class="atom-split" data-atom="051" data-title="OF THE IMPEDIMENT OF THE CONDITION OF SLAVERY (FOUR ARTICLES)" data-chapter="OF THE IMPEDIMENT OF THE CONDITION OF SLAVERY (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the impediment of the condition of slavery. Under this head there are
@@ -2536,6 +3456,14 @@ four points of inquiry:
 (2) Whether a slave can marry without his master's consent?
 (3) Whether a man who is already married can make himself a slave without his wife's consent?
 (4) Whether the children should follow the condition of their father or of their mother?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’ostacolo rappresentato dalla condizione di schiavitù. In questo ambito vi sono quattro punti da esaminare:  
+(1) Se la condizione di schiavitù costituisca un ostacolo al matrimonio;  
+(2) Se uno schiavo possa sposarsi senza il consenso del proprio padrone;  
+(3) Se un uomo già sposato possa ridursi allo stato di schiavitù senza il consenso della propria moglie;  
+(4) Se i figli debbano seguire la condizione del padre o di madre.
 
 <span class="atom-split" data-atom="052" data-title="Whether the condition of slavery is an impediment to matrimony?" data-chapter="Whether the condition of slavery is an impediment to matrimony?" data-kind="atom" data-srclang="en"></span>
 
@@ -2641,6 +3569,36 @@ Reply to Objection 6: Leprosy does not hinder marriage as to its first act, sinc
 the debt freely; although they lay a burden upon marriage as to its secondary effects; wherefore it
 is not an impediment to marriage as slavery is.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che lo stato di schiavitù non costituisca un ostacolo al matrimonio. Infatti, nulla può essere considerato un ostacolo al matrimonio se non qualcosa che vi sia in qualche modo contrario. Ma lo stato di schiavitù non è affatto contrario al matrimonio; altrimenti non potrebbero esistere matrimoni tra schiavi. Pertanto, lo stato di schiavitù non rappresenta un ostacolo al matrimonio.
+
+Obiezione 2: Inoltre, ciò che è contrario alla natura non può rappresentare un ostacolo per ciò che è conforme alla natura. Ora, la schiavitù è contraria alla natura; infatti, come afferma Gregorio (Pastorale ii, 6), “è contrario alla natura che l’uomo desideri dominare su un altro uomo”; e ciò risulta anche evidente dal fatto che dell’uomo fu detto (Genesi 1:26) che avrebbe dovuto “dominare sui pesci del mare”, ma non che avesse dovuto dominare sugli altri uomini. Pertanto, la schiavitù non può costituire un ostacolo al matrimonio, che è una cosa naturale.
+
+Obiezione 3: Inoltre, se rappresenta un ostacolo, tale ostacolo può derivare soltanto dalla [legge naturale](/positions/natural_law) o dalla legge positiva. Ma non deriva dalla legge naturale, poiché secondo questa tutti gli uomini sono uguali, come afferma Gregorio (Pastor. ii, 6); inoltre, all’inizio dei Digesti (Manumissiones, ff. de just. et jure.) si dichiara esplicitamente che la schiavitù non rientra nella sfera della legge naturale. La legge positiva, invece, deriva dalla legge naturale, come afferma Tullio (De Invent. ii). Pertanto, secondo le leggi vigenti, la schiavitù non costituisce alcun ostacolo al matrimonio.
+
+Obiezione 4: Inoltre, ciò che rappresenta un ostacolo al matrimonio lo è ugualmente sia che sia conosciuto o meno, come nel caso della consanguineità. Ora, la schiavitù di una delle parti, se conosciuta dall’altra, non costituisce alcun ostacolo al loro matrimonio. Pertanto, la schiavitù, considerata in sé stessa, non è in grado di annullare un matrimonio; e di conseguenza non dovrebbe essere considerata, a sé stante, un ostacolo distintivo al matrimonio.
+
+Obiezione 5: Inoltre, proprio come si può sbagliare riguardo alla schiavitù, considerando libero una persona che in realtà è schiava, allo stesso modo si può sbagliare riguardo alla libertà, considerando schiavo una persona che in realtà è libera. Tuttavia, la libertà non viene considerata un ostacolo al matrimonio; pertanto, nemmeno la schiavitù dovrebbe essere considerata tale.
+
+Obiezione 7: Inoltre, la lebbra rappresenta un ostacolo più grave per l’unità coniugale e per il benessere dei figli rispetto alla schiavitù. Eppure la lebbra non è considerata un impedimento al matrimonio; pertanto nemmeno la schiavitù dovrebbe essere considerata tale.
+
+Al contrario, un decreto afferma (De conjug. servorum, cap. Ad nostram) che “un errore riguardo alla condizione delle parti impedisce la celebrazione di un matrimonio e rende nullo quello già contratto”. Inoltre, il matrimonio è uno dei beni desiderati per se stessi, poiché è caratterizzato dall’onestà; mentre la schiavitù è una cosa da evitare per se stessa. Pertanto, matrimonio e schiavitù sono reciprocamente contrari; di conseguenza, la schiavitù rappresenta un ostacolo al matrimonio.
+
+Rispondo che, nel contratto di matrimonio, una delle parti è obbligata all’altra riguardo al pagamento del debito; pertanto, se la parte che si impegna a pagare non è in grado di farlo, l’ignoranza di tale impossibilità da parte della parte contraente rende il contratto nullo. Così come l’impotenza sessuale impedisce a una persona di adempiere al proprio debito, rendendola completamente incapace di farlo, allo stesso modo la schiavitù le impedisce di pagare liberamente. Pertanto, proprio come l’ignoranza o l’impotenza sessuale costituiscono un ostacolo se non conosciute, ma non se note (come spiegheremo più avanti in [Q[58), allo stesso modo lo stato di schiavitù rappresenta un ostacolo se non conosciuto, ma non se noto.
+
+Risposta all’Obiezione 1: La schiavitù è contraria al matrimonio, sia per quanto riguarda l’atto che il matrimonio lega una parte all’altra, poiché impedisce l’esecuzione libera di tale atto; sia per quanto riguarda il bene dei figli, i quali vengono a trovarsi nella stessa condizione a causa della schiavitù dei genitori. Tuttavia, poiché è libero per chiunque subire danni in ciò che gli spetta di diritto, se una delle parti sa che l’altra è schiava, il matrimonio rimane comunque valido. Allo stesso modo, poiché nel matrimonio entrambe le parti hanno obblighi uguali riguardo al pagamento dei debiti, nessuna delle due può imporre all’altra un obbligo maggiore di quello che essa stessa ha; quindi, se uno schiavo sposa una donna libera, pensando che sia tale, il matrimonio non diventa invalido. È evidente dunque che la schiavitù non costituisce un ostacolo al matrimonio, a meno che l’altra parte non ne sia a conoscenza, anche se questa si trovi in condizioni di libertà; pertanto nulla impedisce il matrimonio tra schiavi, né tantomeno tra un uomo libero e una donna libera.
+
+Risposta all’Obiezione 2: Niente impedisce che una cosa sia contraria alla natura riguardo alla sua prima intenzione, eppure non lo sia riguardo alla sua seconda intenzione. Così, come affermato nel De Coelo, ii, ogni corruzione, difetto e vecchiaia sono contrari alla natura, poiché la natura tende all’essere e alla perfezione; tuttavia non lo sono riguardo alla seconda intenzione della natura, poiché questa, non essendo in grado di preservare l’essere in una determinata cosa, lo preserva in un’altra che ne deriva dalla corruzione di quella stessa. E quando la natura non riesce a portare una cosa a una maggiore perfezione, la porta invece a una minore; così, quando non può produrre un maschio, produce una femmina, che è “un maschio nato male” (De Gener. Animal., ii, 3). Pertanto, allo stesso modo si può dire che la schiavitù sia contraria alla prima intenzione della natura; tuttavia non lo è riguardo alla seconda, poiché la ragione naturale ha questa tendenza e la natura stessa desidera che tutti siano buoni. Ma poiché un individuo pecca, la natura ha l’istinto che venga punito per il suo errore; ed è proprio per questo motivo che la schiavitù è stata introdotta come punizione del peccato. Non è nemmeno irragionevole che una cosa naturale venga ostacolata da ciò che è contrario alla natura; così, ad esempio, il matrimonio può essere ostacolato dall’impotenza sessuale, che è contraria alla natura nel modo menzionato.
+
+Risposta all’Obiezione 3: La legge naturale richiede che la punizione venga inflitta in base alla colpevolezza, e che nessuno venga punito se non è colpevole; tuttavia, l’individuazione della pena in relazione alle circostanze personali e alla gravità del reato appartiene al diritto positivo. Pertanto, la schiavitù, essendo una punizione specifica, rientra nel diritto positivo e deriva dalla legge naturale, come ciò che è determinato deriva da ciò che è indeterminato. Inoltre, anche il fatto che la schiavitù costituisca un ostacolo al matrimonio – affinché nessuno innocente venga punito – deriva dalla stessa legge positiva: per la moglie, infatti, avere un marito schiavo rappresenta una punizione, e viceversa.
+
+Risposta all’Obiezione 4: Alcuni ostacoli rendono il matrimonio illegittimo; e poiché non è la nostra volontà a rendere qualcosa legittimo o illegittimo, ma la legge alla quale la nostra volontà deve sottoporsi, ne consegue che la validità o l’invalidità di un matrimonio non viene influenzata né dall’ignoranza (che distrugge la volontarietà) dell’ostacolo in questione, né dalla sua conoscenza. Tali ostacoli includono l’affinità, i voti e altri di natura simile. Altri ostacoli, invece, rendono il matrimonio inefficace dal punto di vista del adempimento degli obblighi contrattuali; ma poiché spetta alla nostra volontà perdonare un debito che ci è dovuto, ne consegue che tali ostacoli, se conosciuti, non invalidano il matrimonio, salvo quando la loro ignoranza distrugge la volontarietà delle parti. Tra questi ostacoli figurano la schiavitù e l’impotenza sessuale. Poiché hanno di per sé la natura di un ostacolo, vengono considerati ostacoli specifici, oltre all’errore; al contrario, il cambio di persona non viene considerato un ostacolo specifico, poiché la sostituzione di una delle parti contraenti non ha di per sé la natura di un ostacolo, se non in base alle intenzioni di una delle parti.
+
+Risposta all’Obiezione 5: La libertà non ostacola l’atto matrimoniale; pertanto, l’ignoranza della libertà non costituisce un impedimento al matrimonio.
+
+Risposta all’Obiezione 6: La lebbra non ostacola il matrimonio nella sua fase iniziale, poiché i lebbrosi possono pagare liberamente i debiti contratti; tuttavia, comporta degli svantaggi per gli effetti secondari del matrimonio; pertanto, non costituisce un impedimento al matrimonio, a differenza della schiavitù.
+
 <span class="atom-split" data-atom="053" data-title="Whether a slave can marry without his master's consent?" data-chapter="Whether a slave can marry without his master's consent?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a slave cannot marry without his master's consent. For no one
@@ -2713,6 +3671,32 @@ himself to works that are superadded to natural works, and in which his master h
 him, but not in natural works to which a man binds himself by marriage. Hence he cannot vow
 continence without his master's consent.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un schiavo non possa sposarsi senza il consenso del suo padrone. Infatti, nessuno può concedere a qualcuno ciò che appartiene a un altro senza il consenso di quest’ultimo. Ora, poiché lo schiavo è una proprietà del suo padrone, non può concedere alla propria moglie il potere su sé stesso attraverso il matrimonio, senza il permesso del proprio padrone.
+
+Obiezione 2: Inoltre, uno schiavo è obbligato ad obbedire al suo padrone. Ma il suo padrone può ordinargli di non acconsentire a sposarsi. Pertanto, uno schiavo non può sposarsi senza il consenso del proprio padrone.
+
+Obiezione 3: Inoltre, dopo il matrimonio, un schiavo è obbligato anche da un precetto della [Legge divina](/concepts/divine_law) a ripagare i debiti contratti con sua moglie. Tuttavia, nel momento in cui sua moglie chiede il rimborso di tali debiti, il suo padrone potrebbe richiedergli un servizio che egli non sarà in grado di eseguire se desidera dedicarsi alle relazioni carnali. Pertanto, se uno schiavo potesse sposarsi senza il consenso del proprio padrone, quest’ultimo verrebbe privato di un servizio che gli spetta senza alcuna colpa da parte sua; e ciò non dovrebbe accadere.
+
+Obiezione 4: Inoltre, un padrone può vendere il proprio schiavo in un paese straniero, dove la moglie di quest’ultimo non è in grado di seguirlo, a causa di una debolezza fisica o di un pericolo imminente per la sua fede; ad esempio, se lo schiavo viene venduto a persone non credenti, oppure se il padrone della moglie si rifiuta di permetterle di seguirlo, supponendo che lei sia una schiava. In tal caso, il matrimonio verrà sciolto, il che è inappropriato. Pertanto, uno schiavo non può sposarsi senza il consenso del proprio padrone.
+
+Obiezione 5: Inoltre, il dovere che un uomo assume nei confronti del servizio divino è più vantaggioso di quello che lo obbliga a sottomettersi alla moglie. Tuttavia, uno schiavo non può entrare nella religione o ricevere ordini senza il consenso del suo padrone; tanto meno può sposarsi senza il suo permesso.
+
+Al contrario, “In Cristo Gesù, non vi è né schiavo né libero” (Galati 3:26,28). Pertanto, sia i liberi che gli schiavi godono della stessa libertà di sposarsi nella fede di Cristo Gesù. Inoltre, la schiavitù appartiene al diritto positivo; mentre il matrimonio è legato al diritto naturale e divino. Poiché il diritto positivo non è contrario al diritto naturale o divino, sembrerebbe che uno schiavo possa sposarsi senza il consenso del suo padrone.
+
+Rispondo che, come già detto sopra (A[1], ad 3), il diritto positivo deriva dal [diritto naturale](/positions/natural_law); pertanto la schiavitù, essendo un istituto di diritto positivo, non può essere dannosa per quelle cose che rientrano nel dominio del diritto naturale. Proprio come la natura tende alla conservazione dell’individuo, così tende anche alla conservazione della specie attraverso la procreazione; per questo motivo, un schiavo non è talmente soggetto al proprio padrone da non poter mangiare, dormire o compiere quelle azioni necessarie al soddisfacimento dei bisogni del proprio corpo, senza i quali la vita stessa non potrebbe essere mantenuta. Pertanto, il padrone non può impedire allo schiavo di sposarsi liberamente, nemmeno a sua insaputa o contro la sua volontà.
+
+Risposta all’Obiezione 1: Un schiavo è una proprietà del suo padrone per quanto riguarda le cose che vanno oltre i limiti della natura; ma per quanto riguarda le cose naturali, tutti sono uguali. Pertanto, nelle questioni relative agli atti naturali, uno schiavo, sposandosi, può concedere a un’altra persona il potere su suo corpo senza il consenso del proprio padrone.
+
+Risposta all’Obiezione 2: Uno schiavo è obbligato a obbedire al proprio padrone in quelle cose che quest’ultimo può comandargli legalmente; e così come il padrone non può comandargli legalmente di non mangiare o dormire, allo stesso modo non può comandargli legalmente di astenersi dal matrimonio. Infatti spetta al legislatore stabilire come ciascuno debba utilizzare ciò che gli appartiene; pertanto, se il padrone comanda allo schiavo di non sposarsi, lo schiavo non è obbligato ad obbedire a tale comando.
+
+Risposta all’Obiezione 3: Se uno schiavo si è sposato con il consenso del proprio padrone, deve astenersi dal compiere i doveri impostigli dal padrone e pagare i debiti contratti con la propria moglie; poiché il padrone, acconsentendo al matrimonio dello schiavo, ha implicitamente accettato tutto ciò che tale matrimonio richiede. Tuttavia, se il matrimonio è stato contratto senza il conoscimento o il consenso del padrone, quest’ultimo non è obbligato a pagare i debiti; in tal caso, lo schiavo deve preferire obbedire al proprio padrone, qualora le due cose siano incompatibili. Nonostante ciò, in simili questioni sono da considerare molti aspetti, come avviene per tutti gli atti umani: il pericolo che la castità della moglie possa correre, l’ostacolo rappresentato dal pagamento dei debiti nel compimento dei doveri impostigli dal padrone, e altri fattori simili. Valutando adeguatamente tutti questi aspetti, sarà possibile stabilire quale delle due obbligazioni lo schiavo debba preferire rispettare: quella verso il proprio padrone o quella verso la propria moglie.
+
+Risposta all’Obiezione 4: In tal caso si sostiene che il padrone debba essere costretto a non vendere lo schiavo in modo da aumentare il peso del “onere coniugale”, soprattutto considerando che è in grado di ottenere ovunque un prezzo equo per lo schiavo.
+
+Risposta all’Obiezione 5: Chi entra nella religione o riceve gli ordini sacerdotali si impegna a servire Dio per tutta la vita; mentre un marito è obbligato a ripagare i debiti verso sua moglie non sempre, ma in tempi appropriati; pertanto il paragone non regge. Inoltre, chi entra nella religione o riceve gli ordini sacerdotali si impegna ad atti che vanno oltre quelle azioni naturali e quotidiane, nei quali il proprio superiore ha potere su di lui, mentre questo non vale per le attività naturali legate al matrimonio. Per queste ragioni, una persona non può promettere castità senza il consenso del proprio superiore religioso.
+
 <span class="atom-split" data-atom="054" data-title="Whether slavery can supervene to marriage?" data-chapter="Whether slavery can supervene to marriage?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that slavery cannot supervene to marriage, by the husband selling
@@ -2765,6 +3749,28 @@ are many obstacles to generation that are not capable of destroying what is alre
 in things which have stability it is possible to have an impediment which prevents a certain thing
 from beginning to be, yet does not cause it to cease to be; as instanced by the rational soul. It is the
 same with marriage, which is a lasting tie so long as this life lasts.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la schiavitù non possa derivare dal matrimonio, poiché un marito che si vende come schiavo agisce in modo fraudolento e a scapito dell’altro coniuge. Tuttavia, un marito che si vende come schiavo lo fa talvolta per ingannare il proprio matrimonio, e comunque a danno della propria moglie. Pertanto, tale vendita non dovrebbe avere effetti legali legati alla condizione di schiavitù.
+
+Obiezione 2: Inoltre, due cose favorevoli hanno più peso di una cosa sfavorevole. Ora, il matrimonio e la libertà sono cose favorevoli e sono contrarie alla schiavitù, che legalmente non è considerata una cosa favorevole. Pertanto, una tale forma di schiavitù dovrebbe essere completamente abolita all’interno del contesto matrimoniale.
+
+Obiezione 3: Inoltre, nel matrimonio marito e moglie sono alla pari l’uno rispetto all’altro. Ora, la moglie non può sottomettersi e diventare schiava senza il consenso del marito; pertanto, nemmeno il marito può farlo senza il consenso della moglie.
+
+Obiezione 4: Inoltre, nelle cose naturali, ciò che ostacola la generazione di qualcosa ne distrugge l’esistenza una volta che questa è avvenuta. Ora, se la schiavitù del marito fosse sconosciuta alla moglie, essa rappresenterebbe un impedimento all’atto matrimoniale prima che esso venga compiuto. Pertanto, se tale condizione dovesse verificarsi durante il matrimonio, esso verrebbe annullato; il che è assurdo.
+
+Al contrario, ognuno può donare ciò che è suo. Il marito, essendo libero, è padrone di se stesso; pertanto può cedere i propri diritti a un altro. Inoltre, come già detto (A[2]), uno schiavo può sposarsi senza il consenso del proprio padrone; quindi anche un marito può sottomettersi a un “padrone”, senza il consenso della propria moglie.
+
+Rispondo che il marito è soggetto alla moglie in quelle cose che riguardano l’atto naturale; in queste circostanze sono uguali, e la sottomissione tipica della schiavitù non si estende a tali ambiti. Pertanto, il marito può, senza il consenso della moglie, consegnarsi come schiavo di un altro. Ciò tuttavia non comporta la dissoluzione del matrimonio, poiché nessun ostacolo che possa insorgere successivamente al matrimonio può scioglierlo, come già affermato in precedenza (Q[50], A[1], ad 7).
+
+Risposta all’Obiezione 1: La frode può certamente danneggiare la persona che l’ha commessa, ma non può essere dannosa per un’altra persona. Pertanto, se un marito, al fine di ingannare sua moglie, si sottomette volontariamente a diventare schiavo di un altro, ciò arrecherà danno soltanto a lui stesso, poiché perderà il bene inestimabile della libertà; mentre questo non può in alcun modo danneggiare la moglie, che ha diritto ad essere pagata i debiti che lui le deve e ad ottenere tutto ciò che il matrimonio richiede da lui. Inoltre, nessun ordine del suo padrone può liberarlo da queste obbligazioni.
+
+Risposta all’Obiezione 2: Nel misura in cui la schiavitù è contraria al matrimonio, il matrimonio è dannoso per la schiavitù, poiché in tal caso lo schiavo è obbligato a onorare i debiti verso sua moglie, anche se il suo padrone non lo desidera.
+
+Risposta all’Obiezione 3: Sebbene marito e moglie siano considerati uguali nell’atto coniugale e in quelle cose legate alla natura, alle quali la condizione di schiavitù non si estende, tuttavia, per quanto riguarda la gestione della casa e altre questioni simili, il marito è il capo della moglie e deve correggerla, e non viceversa. Pertanto, la moglie non può sottomettersi volontariamente a una condizione di schiavitù senza il consenso del marito.
+
+Risposta all’Obiezione 4: Questo argomento riguarda cose corruttibili; eppure anche in queste esistono molti ostacoli alla loro generazione che non sono in grado di distruggere ciò che è già stato generato. Tuttavia, nelle cose stabili è possibile che esista un impedimento che impedisce a qualcosa di nascere, senza per questo far sì che cessi di esistere; ne è un esempio l’anima razionale. Lo stesso vale per il matrimonio, che rappresenta un legame duraturo finché dura questa vita.
 
 <span class="atom-split" data-atom="055" data-title="Whether children should follow the condition of their father?" data-chapter="Whether children should follow the condition of their father?" data-kind="atom" data-srclang="en"></span>
 
@@ -2825,6 +3831,28 @@ mother that in the genealogies of [Scripture](/concepts/revelation), and accordi
 after their father rather than from their mother. But in matters relating to slavery they follow the
 mother by preference.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i figli debbano seguire lo status del padre, poiché il dominio spetta a coloro di rango superiore. Ora, nel processo di generazione, il padre ha un rango più elevato rispetto alla madre. Pertanto, eccetera.
+
+Obiezione 2: Inoltre, l’esistenza di una cosa dipende maggiormente dalla forma che dalla materia. Nella generazione, infatti, il padre fornisce la forma, mentre la madre fornisce la materia (De Generatione Animalium, ii, 4). Pertanto, il figlio dovrebbe ereditare le caratteristiche del padre e non quelle della madre.
+
+Obiezione 3: Inoltre, una cosa dovrebbe seguire ciò che le è più simile. Ora il figlio assomiglia di più al padre che alla madre, proprio come la figlia assomiglia di più alla madre. Pertanto, almeno il figlio dovrebbe seguire l’esempio del padre, e la figlia quello della madre.
+
+Obiezione 4: Inoltre, nelle genealogie della Sacra Scrittura queste vengono tracciate attraverso gli uomini e non attraverso le donne. Pertanto, i figli seguono il padre e non la madre.
+
+Al contrario, se un uomo semina nella terra di un altro, il raccolto appartiene al proprietario della terra. Ora, l’utero di una donna, rispetto al seme umano, è simile alla terra rispetto al seminatore. Pertanto. Inoltre, osserviamo che negli animali nati da specie diverse, la prole assomiglia di più alla madre che al padre; per questo i muli nati da una cavalla e un asino assomigliano di più alle cavalle rispetto a quelli nati da una giumenta e un cavallo. Pertanto, dovrebbe essere lo stesso anche negli esseri umani.
+
+Rispondo che, secondo il diritto civile (XIX, ff. De statu hom. vii, cap. De reis vendit.), la prole segue lo stato sociale del genitore: ciò è logico poiché l’aspetto formale della prole deriva dal padre, mentre la sostanza corporea dalla madre. La schiavitù rappresenta infatti uno stato sociale; pertanto i figli di uno schiavo seguono lo stato dello stesso padre. Tuttavia, in materia di dignità – che derivante dall’aspetto formale di una persona – i figli seguono lo stato della madre: onori, diritti civili, eredità, ecc. I canoni della Chiesa concordano su questo punto (cap. Liberi, 32, qu. iv), così come la legge di Mosè (Esodo 21). In alcuni paesi, tuttavia, dove il diritto civile non ha valore, la prole segue lo stato sociale del genitore inferiore: quindi, se il padre è schiavo, anche i figli saranno schiavi, indipendentemente dallo stato della madre. Questo non vale invece nel caso in cui il padre si renda schiavo dopo il matrimonio senza il consenso della moglie; lo stesso discorso vale se la situazione è inversa. Se entrambi i genitori sono schiavi e appartengono a padroni diversi, i figli verranno divisi tra questi ultimi; in caso di un solo figlio, il padre di uno dei due padroni compenserà l’altro per la perdita e prenderà il bambino come proprio schiavo. È tuttavia incredibile che tale usanza possieda una tale validità, paragonabile a quella delle decisioni prese da molti saggi nel corso del tempo. Inoltre, nelle cose naturali, ciò che viene ricevuto assume lo stato di chi lo riceve, secondo le caratteristiche di quest’ultimo e non di chi lo dona; pertanto è logico che il seme ricevuto dalla madre assuma lo stato sociale della madre stessa.
+
+Risposta all’Obiezione 1: Sebbene il padre rappresenti un principio più nobile della madre, è comunque la madre a fornire la sostanza del corpo, ed è proprio a questa sostanza che si lega lo stato di schiavitù.
+
+Risposta all’Obiezione 2: Per quanto riguarda le caratteristiche legate alla natura specifica di una cosa, il figlio è simile al padre piuttosto che alla madre; tuttavia, per quanto riguarda le condizioni materiali, dovrebbe essere simile alla madre piuttosto che al padre. Infatti, l’essere specifico di una cosa deriva dalla sua forma, mentre le sue condizioni materiali derivano dalla materia stessa.
+
+Risposta all’Obiezione 3: Il figlio è simile al padre per quanto riguarda la forma che è sua e anche il complemento della forma del padre stesso. Pertanto, questo argomento non è pertinente.
+
+Risposta all’Obiezione 4: È proprio perché il figlio trae onore dal padre e non dalla madre che, nelle genealogie della [Scrittura](/concepts/revelation) e secondo la consuetudine comune, i bambini vengono chiamati con il nome del padre e non di quella. Tuttavia, in questioni relative alla schiavitù, si preferisce seguire il nome della madre.
+
 <span class="atom-split" data-atom="056" data-title="OF THE IMPEDIMENT OF VOWS AND ORDERS (FOUR ARTICLES)" data-chapter="OF THE IMPEDIMENT OF VOWS AND ORDERS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the impediment of vows and orders. Under this head there are four
@@ -2833,6 +3861,14 @@ points of inquiry:
 (2) Whether a solemn vow is a diriment impediment?
 (3) Whether order is an impediment to matrimony?
 (4) Whether a man can receive a sacred order after being married?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare gli ostacoli rappresentati dai voti e dalle ordini sacri. In questa categoria esistono quattro punti da esaminare:  
+(1) Se un semplice voto costituisca un ostacolo insormontabile al matrimonio;  
+(2) Se un voto solenne costituisca un ostacolo insormontabile al matrimonio;  
+(3) Se l’essere sottoposti a un ordine sacro costituisca un ostacolo al matrimonio;  
+(4) Se un uomo possa ricevere un ordine sacro dopo essersi sposato.
 
 <span class="atom-split" data-atom="057" data-title="Whether marriage already contracted should be annulled by the obligation of a simple vow?" data-chapter="Whether marriage already contracted should be annulled by the obligation of a simple vow?" data-kind="atom" data-srclang="en"></span>
 
@@ -2911,6 +3947,28 @@ everyone may renounce what is his own. Some say, however, that he may both ask a
 the marriage become too burdensome to the wife who has always to ask; but if this be looked into
 aright, it is the same as asking interpretively.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un matrimonio già contratto debba essere annullato dall’obbligo derivante da un semplice voto. Infatti, il legame più forte ha la precedenza su quello più debole. Ora, un voto rappresenta un legame più forte di un matrimonio, poiché quest’ultimo lega l’uomo all’uomo, mentre il primo lega l’uomo a Dio. Pertanto, l’obbligo derivante da un voto ha la precedenza sul legame matrimoniale.
+
+Obiezione 2: Inoltre, il comandamento di Dio è altrettanto vincolante quanto quello della Chiesa. Ora, il comandamento della Chiesa è così vincolante che un matrimonio contratto in violazione di esso è nullo; come dimostra il caso di coloro che si sposano tra parenti proibiti dalla Chiesa. Pertanto, poiché mantenere una promessa è un comandamento divino, sembrerebbe che se una persona si sposasse nonostante una promessa, il suo matrimonio dovrebbe essere annullato per questo motivo.
+
+Obiezione 3: Inoltre, nel matrimonio un uomo può avere rapporti carnali senza peccare. Tuttavia colui che ha fatto un semplice voto di castità non può mai avere rapporti carnali con sua moglie senza peccare. Pertanto, un semplice voto annulla il matrimonio stesso. La tesi viene dimostrata nel seguente modo: è chiaro che sposarsi dopo aver fatto un voto di continenza sia un peccato mortale, poiché, secondo Gerolamo [*Cfr. San Agostino, De Bono Viduitate, IX*], “per coloro che fanno voto di verginità, non solo è dannoso sposarsi, ma anche desiderare di farlo”. Ora, il contratto matrimoniale non è in contrasto con il voto di continenza, se non per via dei rapporti carnali; pertanto, si pecca mortalmente la prima volta che si hanno tali rapporti con la moglie, e lo stesso vale per tutte le altre volte successive, poiché un peccato commesso la prima volta non può costituire scusa per un peccato successivo.
+
+Obiezione 4: Inoltre, marito e moglie dovrebbero essere uguali nel matrimonio, soprattutto per quanto riguarda il rapporto sessuale. Ma colui che ha fatto un semplice voto di castità non può mai chiedere il rimborso del debito senza commettere peccato, poiché ciò sarebbe chiaramente contrario al suo voto di castità; essendo infatti legato a tale voto, non potrebbe in alcun modo adempiere alla sua richiesta senza trasgredire. Pertanto, nemmeno può pagare il debito senza commettere peccato.
+
+Al contrario, papa Clemente III afferma (cap. Consuluit, De his qui cler. vel vovent.) che un “voto semplice costituisce un ostacolo al contratto di matrimonio, ma non lo annulla una volta stipulato”.
+
+Rispondo che una cosa cessa di essere sotto il potere di una persona non appena passa sotto il potere di un’altra. Ora, la promessa di una cosa non la trasferisce necessariamente sotto il potere della persona a cui viene fatta; pertanto, una cosa non smette di essere sotto il potere di una persona solo perché questa l’ha promessa. Poiché un semplice voto consiste soltanto nella promessa di dedicare il proprio corpo al mantenimento della castità per amore di Dio, una persona mantiene comunque il controllo sul proprio corpo anche dopo aver fatto tale voto; quindi può cederlo a un’altra persona, ovvero alla propria moglie. Ed è proprio in questa cessione che consiste il [)sacramento](/concepts/sacrament) del matrimonio, che è indissolubile. Pertanto, sebbene un semplice voto costituisca un ostacolo al contratto matrimoniale – poiché sposarsi dopo aver fatto tale voto è considerato un peccato –, poiché il contratto stesso è valido, il matrimonio non può essere annullato per questo motivo.
+
+Risposta all’Obiezione 1: Un voto rappresenta un legame più forte del matrimonio, per quanto riguarda ciò a cui l’uomo è vincolato e l’obbligo che ne consegue. Infatti, attraverso il matrimonio l’uomo è legato alla moglie con l’obbligo di adempiere ai propri doveri coniugali, mentre con un voto è legato a Dio con l’obbligo di mantenere la castità. Tuttavia, per quanto riguarda il modo in cui questo legame si manifesta, il matrimonio è più vincolante di un semplice voto: infatti, attraverso il matrimonio l’uomo si sottomette effettivamente al potere della moglie, mentre con un semplice voto ciò non avviene. In questo senso, un semplice voto ha lo stesso effetto di una promessa di matrimonio; pertanto, una promessa di matrimonio dovrebbe essere annullata in caso di voto.
+
+Risposta all’Obiezione 2: Il contratto matrimoniale tra consanguinei viene annullato dal comandamento che vieta tali matrimoni, non necessariamente perché si tratti di un comandamento di Dio o della Chiesa, ma perché tale matrimonio rende impossibile che il corpo di una donna consanguinea venga trasferito sotto il potere del suo parente maschio; mentre il comandamento che vieta i matrimoni basati su semplici promesse non ha questo effetto, come già detto. Pertanto, tale argomentazione è invalida, poiché attribuisce come causa ciò che in realtà non lo è.
+
+Risposta all’Obiezione 3: Se, dopo aver fatto un semplice voto, un uomo contrae matrimonio con parole esplicite, non può conoscere sua moglie senza commettere un peccato mortale, poiché fino al compimento del matrimonio è ancora in grado di rispettare il voto di castità. Tuttavia, una volta che il matrimonio è stato consumato, diventa illegale da parte sua non adempiere al proprio dovere quando sua moglie lo richiede; quindi ciò non è coperto dall’obbligo derivante dal voto, come spiegato in precedenza (ad 1). Nonostante ciò, dovrebbe espiare il proprio mancato rispetto alla castità attraverso lacrime di pentimento.
+
+Risposta all’Obiezione 4: Dopo aver contratto matrimonio, l’uomo è comunque obbligato a rispettare il voto di castità in quelle circostanze in cui non vi sono impedimenti per farlo. Pertanto, se sua moglie dovesse morire, egli sarebbe ancora tenuto a mantenere tale voto. Poiché il legame matrimoniale non lo obbliga ad esigere il pagamento dei debiti contratti dalla moglie, non può chiederne il rimborso senza commettere peccato; tuttavia, può pagare tali debiti senza peccato se gli vengono richiesti, soprattutto quando tale obbligo è derivato da rapporti sessuali già avvenuti. Ciò vale sia nel caso in cui la moglie chieda esplicitamente il rimborso sia quando lo faccia in modo implicito, ad esempio per timore o perché il marito intuisca che lei desideri tale pagamento; in entrambi i casi, egli può effettuare il pagamento senza peccato. Ciò è particolarmente vero se teme di mettere a rischio la castità della moglie; inoltre, non ha importanza che i coniugi siano uguali nel rapporto matrimoniale, poiché ognuno può rinunciare a ciò che gli appartiene. Alcuni sostengono tuttavia che l’uomo possa sia chiedere il rimborso sia effettuarlo personalmente, per evitare di gravare eccessivamente sulla moglie; ma se si esamina attentamente questa posizione, si scopre che equivale comunque a una richiesta implicita.
+
 <span class="atom-split" data-atom="058" data-title="Whether a solemn vow dissolves a marriage already contracted?" data-chapter="Whether a solemn vow dissolves a marriage already contracted?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that not even a solemn vow dissolves a marriage already contracted.
@@ -2964,6 +4022,24 @@ conclusion does not follow.
 Reply to Objection 3: A solemn vow implies the actual surrender of one's body, whereas a
 simple vow does not, as stated above (A[1]). Hence the argument does not suffice to prove the
 conclusion.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nemmeno un voto solenne possa annullare un matrimonio già contratto. Infatti, secondo un decreto (cap. Rursus, De his qui cler. vel vovent.), “ai occhi di Dio un semplice voto è altrettanto vincolante di uno solenne”. Ora, il matrimonio ha valore esclusivamente in virtù dell’approvazione divina. Pertanto, poiché un semplice voto non può annullare un matrimonio, nemmeno uno solenne lo potrà fare.
+
+Obiezione 2: Inoltre, un voto solenne non conferisce alla semplice promessa la stessa forza legale che conferisce un giuramento. Ora, una semplice promessa, anche se accompagnata da un giuramento, non può annullare un matrimonio già contratto; pertanto, lo stesso vale per un voto solenne.
+
+Obiezione 3: Inoltre, un voto solenne non possiede nulla di ciò che un semplice voto non possa avere. Infatti, anche un semplice voto può causare scandalo se reso pubblico, proprio come un voto solenne. Inoltre, la Chiesa potrebbe e dovrebbe stabilire che un semplice voto possa annullare un matrimonio già contratto, al fine di evitare molti peccati. Pertanto, per lo stesso motivo per cui un semplice voto non annulla un matrimonio già contratto, nemmeno un voto solenne dovrebbe farlo.
+
+Al contrario, colui che pronuncia un voto solenne conclude un matrimonio spirituale con Dio, il quale è di gran lunga più nobile di un matrimonio materiale. Ora, un matrimonio materiale già contratto annulla qualsiasi altro matrimonio contratto in seguito; pertanto lo stesso vale anche per un voto solenne. Inoltre, la stessa conclusione può essere dimostrata attraverso molte autorità citate nel testo (Sentenze, iv, D, 28).
+
+Rispondo che tutti concordano sul fatto che un voto solenne costituisca un ostacolo alla conclusione del matrimonio e quindi lo renda invalido. Alcuni adducono lo scandalo come motivo di tale invalidità, ma ciò è inutile, poiché anche un semplice voto può talvolta causare uno scandalo, soprattutto quando è di natura pubblica. Inoltre, l’indissolubilità del matrimonio fa parte delle verità fondamentali della vita [*Cfr. FP, Q[16], A[4], ad 3; FP, Q[21], A[2], ad 2; SS, Q[109], A[3], ad 3*]; queste verità non possono essere messe da parte a causa dello scandalo. Altri sostengono che l’indissolubilità del matrimonio derivi dall’ordinanza della Chiesa, ma anche questo argomento è insufficiente, poiché in tal caso la Chiesa potrebbe decidere il contrario, il che sembrerebbe contraddire le sue stesse istituzioni. Pertanto, dobbiamo concordare con coloro che affermano che un voto solenne, per sua natura stessa, dissolve il contratto matrimoniale: infatti, con tale voto l’uomo rinuncia al proprio potere sul proprio corpo, cedendolo a Dio al fine di mantenere la continenza perpetua; quindi non è più in grado di cederlo alla moglie attraverso il matrimonio. Poiché un matrimonio contratto sotto tali condizioni è nullo, si può dire che un voto del genere annulli effettivamente il matrimonio stesso.
+
+Risposta all’Obiezione 1: Si dice che un semplice voto sia altrettanto vincolante agli occhi di Dio quanto un voto solenne, soprattutto in questioni relative a Dio, ad esempio nella separazione da Lui causata dal peccato mortale. Chi infrange un semplice voto commette infatti un peccato mortale, proprio come chi infrange un voto solenne; tuttavia infrangere un voto solenne è considerato più grave. Tuttavia, in merito al matrimonio – che stabilisce un obbligo tra due persone – non è necessario che tali obblighi siano uguali in termini di gravità, poiché un voto solenne impone vincoli riguardo a determinate cose a cui un semplice voto non li impone.
+
+Risposta all’Obiezione 2: Un giuramento è più vincolante di una promessa da parte della parte che assume l’obbligo; tuttavia, un voto solenne è più vincolante per quanto riguarda il modo in cui si concretizza tale obbligo, poiché rappresenta effettivamente la cessione di ciò che è stato promesso; mentre un giuramento non comporta una cessione effettiva. Pertanto, la conclusione proposta non segue necessariamente da queste considerazioni.
+
+Risposta all’Obiezione 3: Un voto solenne implica la vera e propria consegna del proprio corpo, mentre un semplice voto no, come già detto sopra (A[1]). Pertanto, questo argomento non è sufficiente a dimostrare la conclusione.
 
 <span class="atom-split" data-atom="059" data-title="Whether order is an impediment to matrimony?" data-chapter="Whether order is an impediment to matrimony?" data-kind="atom" data-srclang="en"></span>
 
@@ -3034,6 +4110,31 @@ for this very reason he enjoys the privilege of clergy, it follows that in the L
 is forfeit to a married cleric.
 This suffices for the Reply to the last Objection.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’ordine non costituisca un ostacolo al matrimonio. Infatti, nulla rappresenta un ostacolo a qualcosa se non il suo contrario; ma l’ordine non è il contrario del matrimonio. Pertanto, non ne costituisce un ostacolo.
+
+Obiezione 2: Inoltre, gli ordini sacri sono gli stessi sia per noi che per la Chiesa Orientale. Tuttavia, nella Chiesa Orientale essi non costituiscono un ostacolo al matrimonio. Pertanto, ecc.
+
+Obiezione 3: Inoltre, il matrimonio simboleggia l’unione di Cristo con la Chiesa. Questo simbolo si adatta perfettamente a coloro che sono ministri di Cristo, cioè coloro che sono stati ordinati. Pertanto, l’ordinazione non costituisce un ostacolo al matrimonio.
+
+Obiezione 4: Inoltre, tutti gli ordini religiosi riguardano questioni spirituali. Ora, un ordine religioso non può rappresentare un ostacolo al matrimonio se non per motivi legati alla sua natura spirituale. Pertanto, se un ordine religioso fosse davvero un ostacolo al matrimonio, allora ogni tipo di ordine religioso lo sarebbe, il che è assurdo.
+
+Obiezione 5: Inoltre, ogni persona ordinata può detenere benefici ecclesiastici e godere ugualmente dei privilegi del clero. Se quindi gli ordini rappresentassero un ostacolo al matrimonio, poiché le persone sposate non potrebbero possedere benefici ecclesiastici né godere dei privilegi del clero, come affermano i giuristi (cap. Joannes et seqq., De cler. conjug.), allora ogni ordine dovrebbe costituire un ostacolo al matrimonio. Tuttavia ciò è falso, come dimostra il Decretale di Alessandro III (De cler. conjug., cap. Si Quis); pertanto sembrerebbe che nessun ordine rappresenti un ostacolo al matrimonio.
+
+Al contrario, il Decretale afferma (De cler. conjug., cap. Si Quis): “Chiunque venga trovato aver preso moglie dopo aver ricevuto la dignità di subdiacono o ordini più elevati dovrà essere costretto a divorziare”. Tuttavia, ciò non sarebbe vero se il matrimonio fosse valido. Inoltre, nessuna persona che abbia pronunciato un voto di castità può contrarre matrimonio; alcuni ordini religiosi, infatti, prevedono proprio tale voto, come risulta dal testo (Sententiae, iv, D, 37). Pertanto, in tal caso, l’appartenenza a tali ordini costituisce un ostacolo al matrimonio.
+
+Rispondo che, per una certa naturale convenienza, la stessa essenza dell’ordine sacro richiede che esso costituisca un ostacolo al matrimonio: coloro che appartengono all’ordine sacro infatti manipolano i vasi sacri e i sacramenti; pertanto è opportuno che mantengano il proprio corpo puro attraverso la continenza [*Cfr. Is. 52:11*]. Tuttavia, è soltanto per decreto della Chiesa che tale ordine costituisce effettivamente un ostacolo al matrimonio. Non è però lo stesso per i Latini rispetto ai Greci: per questi ultimi l’ostacolo al matrimonio deriva esclusivamente dall’appartenenza all’ordine sacro; mentre per i Latini tale ostacolo deriva sia dall’appartenenza all’ordine sacro che dal voto di continenza che ne consegue; poiché, sebbene questo voto non venga espresso a parole, si presuppone che una persona lo abbia assunto semplicemente per il fatto stesso di essere stata ordinata. Pertanto, tra i Greci e altri popoli orientali l’ordine sacro costituisce un ostacolo al matrimonio, ma non vieta l’utilizzo dei matrimoni già contratti; essi possono infatti continuare a vivere nel matrimonio precedentemente instaurato, anche se non possono sposarsi di nuovo. Nella Chiesa occidentale, invece, tale ordine costituisce un ostacolo sia al matrimonio che all’utilizzo dei matrimoni già contratti, salvo il caso in cui il marito riceva l’ordine sacro senza la conoscenza o il consenso della moglie, poiché ciò non potrebbe danneggiarla. Riguardo alla distinzione tra ordini sacri e non sacri, sia attualmente che nella Chiesa primitiva, ne abbiamo già parlato in precedenza (Q[37], A[3]).
+
+Risposta all’Obiezione 1: Sebbene un ordine sacro non sia contrario al matrimonio in quanto [sacramento](/concepts/sacrament), esso presenta una certa incompatibilità con il matrimonio riguardo all’atto stesso del matrimonio, che costituisce un ostacolo agli atti spirituali.
+
+Risposta all’Obiezione 2: L’obiezione si basa su un’affermazione falsa: poiché l’ordine rappresenta ovunque un ostacolo alla celebrazione del matrimonio, anche se non in tutti i casi è accompagnato da un voto solenne.
+
+Risposta all’Obiezione 3: Coloro che ricoprono ordini sacri rappresentano Cristo attraverso azioni più [sublimi](/concepts/sublime), come emerge da quanto detto nel trattato sugli ordini (Q[37], AA[2],4), rispetto a coloro che sono sposati. Pertanto, la conclusione proposta non segue.
+
+Risposta all’Obiezione 4: A coloro che ricoprono ordini minori non viene vietato di sposarsi in virtù del loro stesso ordine; infatti, sebbene tali ordini siano incaricati di determinate funzioni spirituali, essi non sono autorizzati a occuparsi direttamente di cose sacre, al contrario di coloro che ricoprono ordini sacri. Tuttavia, secondo le leggi della Chiesa occidentale, il matrimonio costituisce un ostacolo all’esercizio di un ordine non sacro, al fine di mantenere una maggiore integrità nelle funzioni ecclesiastiche. Poiché la detenzione di un beneficio ecclesiastico obbliga una persona ad esercitare il proprio ordine e, proprio per questo motivo, le viene concesso il privilegio del clero, ne consegue che, nella Chiesa latina, tale privilegio venga revocato a un clero sposato.  
+Ciò basta come risposta all’ultima Obiezione.
+
 <span class="atom-split" data-atom="060" data-title="Whether a sacred order cannot supervene to matrimony?" data-chapter="Whether a sacred order cannot supervene to matrimony?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a sacred order cannot supervene to matrimony. For the stronger
@@ -3100,6 +4201,32 @@ sacramental cause appointed by God. Hence matrimony may be impeded by a previous
 as not to be true marriage: whereas order cannot be impeded by marriage, so as not to be true order,
 because the power of the sacraments is unchangeable, whereas human acts can be impeded.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un ordine sacro non possa essere conferito dopo il matrimonio. Infatti, i pregiudizi più forti prevalgono su quelli più deboli; inoltre, un obbligo spirituale è più forte di un legame fisico. Pertanto, se un uomo sposato venisse ordinato sacerdote, ciò danneggerebbe la moglie, impedendole di richiedere i diritti coniugali, poiché l’ordine sacro rappresenta un obbligo spirituale, mentre il matrimonio è un legame fisico. Da ciò si deduce che un uomo non possa ricevere un ordine sacro dopo aver consumato il matrimonio.
+
+Obiezione 2: Inoltre, dopo la consumazione del matrimonio, una delle parti non può pronunciare il voto di castità senza il consenso dell’altra [*Cfr. Q[61], A[1*. Ora, un ordine sacro prevede necessariamente il voto di castità tra i suoi membri. Pertanto, se un uomo viene ordinato sacerdote senza il consenso della moglie, questa sarà costretta a mantenere il voto di castità contro la sua volontà, poiché non può sposare un altro uomo durante la vita del marito.
+
+Obiezione 3: Inoltre, un marito non può nemmeno per un breve periodo dedicarsi alla preghiera senza il consenso di sua moglie (1 Corinzi 7:5). Tuttavia, nella Chiesa Orientale coloro che ricoprono ordini sacri sono tenuti al celibato durante il periodo in cui svolgono le loro funzioni. Pertanto, nemmeno loro possono essere ordinati senza il consenso della moglie, e tanto meno i Latini.
+
+Obiezione 4: Inoltre, marito e moglie sono alla stessa condizione l’uno rispetto all’altro. Ora, un sacerdote greco non può risposarsi dopo la morte della moglie; pertanto, nemmeno sua moglie può farlo dopo la morte del marito. Tuttavia, il diritto di una donna di sposarsi nuovamente dopo la morte del marito non può essere leso dall’atto stesso del marito; quindi, nemmeno il marito può ricevere ordini religiosi dopo il matrimonio.
+
+Obiezione 5: Inoltre, l’ordine è altrettanto contrario al matrimonio quanto il matrimonio all’ordine. Ora, un ordine precedente rappresenta un ostacolo per un matrimonio successivo. Pertanto, ecc.
+
+Al contrario, i religiosi sono tenuti al celibato, proprio come coloro che appartengono alle ordini sacri. Tuttavia, un uomo può entrare nella vita religiosa dopo il matrimonio, qualora sua moglie muoia o acconsenta. Pertanto, anche in questo caso può ricevere gli ordini religiosi. Inoltre, un uomo può diventare schiavo di qualcuno dopo il matrimonio; quindi, allo stesso modo, può diventare “schiavo” di Dio attraverso la ricezione degli ordini sacri.
+
+Rispondo che il matrimonio non costituisce un ostacolo all’ ricezione degli ordini sacri. Infatti, se un uomo sposato riceve gli ordini sacri, anche se sua moglie è contraria, egli acquisisce comunque lo status di chierico; tuttavia, non può esercitare le funzioni proprie del suo ordine. Se invece sua moglie consente, o se è deceduta, egli riceve sia lo status di chierico che l’abilità ad esercitare le relative funzioni.
+
+Risposta all’Obiezione 1: Il vincolo derivante dalle ordini religiozi dissolve il vincolo coniugale per quanto riguarda il pagamento del debito, poiché tale obbligo è incompatibile con lo stato coniugale da parte della persona che ha ricevuto l’ordine; essa, infatti, non può richiedere il pagamento del debito, e nemmeno la moglie è tenuta a effettuarlo. Tuttavia, questo vincolo non viene meno riguardo all’altra parte coniugale: il marito è comunque obbligato a pagare il debito alla moglie, qualora non riesca a convincerla ad osservare la continenza.
+
+Risposta all’Obiezione 2: Se il marito riceve gli ordini sacri con la conoscenza e il consenso di sua moglie, questa è tenuta a pronunciare un voto di continenza perpetua; tuttavia, non è obbligata ad entrare in religione, purché non tema che la sua castità possa essere messa a rischio a causa dei voti solenni presi dal marito. La situazione sarebbe diversa, invece, se il marito avesse ricevuto gli ordini sacri senza il suo consenso. D’altra parte, se il marito viene ordinato senza il consenso della moglie, questa non è tenuta ad aderire alla religione in alcun modo, poiché tale decisione non le arreca alcun danno.
+
+Risposta all’Obiezione 3: Sembra più probabile, anche se alcuni sostengono il contrario, che nemmeno un greco dovrebbe ricevere gli ordini sacri senza il consenso della propria moglie; infatti, in quel momento lei verrebbe privata del pagamento dei debiti, e tale privazione non sarebbe legittima secondo la legge qualora il marito fosse stato ordinato senza il suo consenso o a sua insaputa.
+
+Risposta all’Obiezione 4: Come già detto, tra i Greci la moglie, semplicemente consenzendo al marito di ricevere un ordine sacro, si impegna a non sposare mai un altro uomo, poiché in tal caso il significato stesso del matrimonio verrebbe compromesso; ciò è particolarmente necessario nel caso del matrimonio di un sacerdote. Tuttavia, se il sacerdote venisse ordinato senza il consenso della moglie, apparentemente essa non sarebbe soggetta a tale obbligo.
+
+Risposta all’Obiezione 5: Il matrimonio ha come sua causa il nostro consenso; non lo stesso vale per l’ordine sacramentale, il cui scopo è stabilito da Dio. Pertanto, un ordine sacramentale precedente può ostacolare la celebrazione di un matrimonio, rendendolo così invalido; al contrario, un matrimonio non può ostacolare l’esecuzione di un ordine sacramentale, poiché il potere dei sacramenti è immutabile, mentre gli atti umani possono essere ostacolati.
+
 <span class="atom-split" data-atom="061" data-title="OF THE IMPEDIMENT OF CONSANGUINITY (FOUR ARTICLES)" data-chapter="OF THE IMPEDIMENT OF CONSANGUINITY (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider the impediment of consanguinity. Under this head there are four points
@@ -3108,6 +4235,14 @@ of inquiry:
 (2) Whether it is fittingly distinguished by degrees and lines?
 (3) Whether certain degrees are by [natural law](/positions/natural_law) an impediment to marriage?
 (4) Whether the impediment degrees can be fixed by the ordinance of the Church?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’impedimento della consanguineità. In questo ambito vi sono quattro punti da esaminare:  
+(1) Se la consanguineità venga correttamente definita da alcuni;  
+(2) Se possa essere opportunamente distinta in diversi gradi e linee di parentela;  
+(3) Se certi gradi di consanguineità costituiscano, secondo la [legge naturale](/positions/natural_law), un impedimento al matrimonio;  
+(4) Se tali gradi di impedimento possano essere stabiliti tramite le norme della Chiesa.
 
 <span class="atom-split" data-atom="062" data-title="Whether consanguinity is rightly defined?" data-chapter="Whether consanguinity is rightly defined?" data-kind="atom" data-srclang="en"></span>
 
@@ -3187,6 +4322,31 @@ But according to this, matrimonial consanguinity would never come to an end. How
 theory was disproved in the Second Book (Sent. ii, D, 30: FP, Q[119], A[1]). Wherefore we must
 reply that the reason for this is that animals are not united together in the union of friendship through
 the begetting of many from one proximate parent, as is the case with men, as stated above.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che alcuni definiscano in modo inappropriato la consanguineità nel seguente modo:  
+“La consanguineità è il legame che si instaura tra persone discendenti dallo stesso antenato comune attraverso la procreazione carnale.” Poiché tutti gli uomini discendono dall’antenato comune Adamo attraverso la procreazione carnale, se questa definizione fosse corretta, tutti gli uomini sarebbero imparentati tra loro per consanguineità: il che è falso.
+
+Obiezione 2: Inoltre, una relazione di “parità” esiste soltanto tra cose che sono in armonia tra loro, poiché è proprio l’armonia a unirle. Ora, non esiste alcuna maggiore armonia tra persone discendenti da un antenato comune rispetto a quella che esiste tra altre persone, poiché anch’esse condividono la stessa specie ma differiscono per il numero; proprio come avviene tra altre persone. Pertanto, la consanguineità non costituisce una vera e propria relazione di “parità”.
+
+Obiezione 3: Inoltre, la procreazione carnale, secondo il Filosofo (De Gener. Anim. ii, 19), avviene a partire dal cibo in eccesso [*Cfr. FP, Q[119], A[2. Ora, questo cibo in eccesso ha più in comune con ciò che viene consumato – poiché ne condivide la stessa sostanza – che con colui che lo mangia. Pertanto, non sorge alcun legame di consanguineità tra la persona nata dal seme e il cibo che viene ingerito; allo stesso modo, non esiste alcun legame di parentela tra questa persona e la persona da cui è nata attraverso la procreazione carnale.
+
+Obiezione 4: Inoltre, Labano disse a Giacobbe (Genesi 29:14): “Tu sei carne mia e ossa mie”, in riferimento alla loro relazione. Pertanto, un tale legame dovrebbe essere definito “relazione di carne” piuttosto che “relazione di sangue” [consanguinità].
+
+Obiezione 5: Inoltre, la procreazione carnale è comune sia agli uomini che agli animali. Tuttavia, tra gli animali non sorge alcun legame di consanguineità a seguito della procreazione carnale; pertanto, lo stesso non avviene nemmeno tra gli uomini.
+
+Rispondo che, secondo il Filosofo (Etica, iii, 11, 12), “tutta la [amicizia](/concepts/friendship) si basa su qualche forma di condivisione o comunanza”. Poiché l’amicizia rappresenta un legame o un’unione, ne consegue che quella forma di comunanza che ne è la causa viene definita “legame”. Pertanto, per quanto riguarda qualsiasi tipo di comunanza, alcune persone vengono definite come se fossero collegate tra loro: parliamo, ad esempio, di concittadini uniti da una vita politica comune, di soldati legati dallo stesso impegno militare, e allo stesso modo coloro che sono uniti dalla comunanza naturale vengono definiti “consanguinei”, cioè legati dal sangue. Quindi, nella definizione sopra riportata, il termine “legame” indica genericamente la consanguineità; le persone che discendono dallo stesso antenato comune sono quelle soggette a questo legame, mentre la “procreazione carnale” ne rappresenta l’origine.
+
+Risposta all’Obiezione 1: Una forza attiva non viene trasmessa in un “strumento” con lo stesso grado di perfezione con cui esiste nell’agente principale. Poiché ogni agente che muove è a sua volta uno strumento, ne consegue che il potere dell’agente primario, quando si diffonde attraverso molti agenti intermedi, alla fine si indebolisce e arriva a qualcosa che viene mosso, ma non è più un agente. Tuttavia, il potere di un genitore non agisce soltanto riguardo a ciò che appartiene alla specie, ma anche riguardo a ciò che appartiene all’individuo; per questo motivo il figlio assomiglia al padre anche nei tratti accidentali, e non solo nella natura specifica. Eppure questo potere individuale del padre non è così perfetto nel figlio come lo era nel padre stesso, e ancora meno nel nipote; di conseguenza, tale potere continua ad indebolirsi fino a quando scompare completamente. Poiché la consanguineità deriva dal trasferimento di questo potere da una persona all’altra attraverso la procreazione, essa si distrugge gradualmente, come afferma Isidoro (Etym. IX). Pertanto, nel definire la consanguineità non dobbiamo considerare un antenato comune lontano, ma il più vicino, il cui potere sia ancora presente nelle persone discendenti da lui.
+
+Risposta all’Obiezione 2: È chiaro da quanto detto che i legami di sangue coincidono non solo nella natura specifica, ma anche in quella capacità particolare dell’individuo che viene trasmessa da uno a molti; di conseguenza, a volte il figlio assomiglia non solo al padre, ma anche al nonno o agli antenati lontani (De Gener. Anim. iv, 3).
+
+Risposta all’Obiezione 3: La somiglianza dipende maggiormente dalla forma attraverso la quale una cosa esiste effettivamente, che dalla materia attraverso la quale essa esiste potenzialmente; ad esempio, il carbone ha più in comune con il fuoco che con l’albero da cui è stato ricavato. Allo stesso modo, il cibo, già trasformato dal potere nutritivo nella sostanza della persona che lo consuma, ha più in comune con questa persona che con la materia da cui tale nutrimento proviene. Tuttavia, questo argomento sarebbe valido secondo l’opinione di coloro che affermano che tutta la natura di una cosa derivi dalla sua materia e che tutte le forme siano soltanto accidenti: il che è falso.
+
+Risposta all’Obiezione 4: È il sangue che, in modo diretto, si trasforma nel seme, come dimostrato in “De Gener. Anim.” I, 18. Pertanto, il legame instaurato attraverso la procreazione carnale può essere più appropriatamente definito “relazione di sangue” piuttosto che “relazione di carne”. Il fatto che talvolta una relazione venga chiamata “carne” di un’altra deriva dal fatto che il sangue, trasformatosi nel seme o nel flusso mestruale, possiede potenzialmente le caratteristiche della carne e dell’osso.
+
+Risposta all’Obiezione 5: Alcuni affermano che il motivo per cui il legame di consanguineità si instaura tra gli uomini attraverso la procreazione carnale, e non tra altri animali, risieda nel fatto che tutto ciò che appartiene alla verità della [natura umana](/axes/human_nature) in tutti gli esseri umani esisteva già nel nostro primo antenato; questo, invece, non vale per gli altri animali. Tuttavia, secondo questa teoria, il legame di consanguineità matrimoniale non potrebbe mai terminare. Ma tale ipotesi è stata confutata nel Secondo Libro (Sentenze, ii, D, 30: FP, Q[119], A[1]). Pertanto, dobbiamo rispondere che il motivo reale risiede nel fatto che gli animali non si uniscono attraverso il legame dell’amicizia e la procreazione di molti individui da un unico antenato, come avviene negli esseri umani.
 
 <span class="atom-split" data-atom="063" data-title="Whether consanguinity is fittingly distinguished by degrees and lines? (1/2)" data-chapter="Whether consanguinity is fittingly distinguished by degrees and lines?" data-kind="atom" data-srclang="en"></span>
 
@@ -3295,6 +4455,33 @@ Reply to Objection 4: Even as there cannot be likeness without a difference, so 
 propinquity without distance. Hence not every distance is opposed to consanguinity, but such as
 excludes the propinquity of blood-relationship.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la consanguineità venga in modo inappropriato distinta in gradi e linee. Infatti, una linea di consanguineità viene definita come “la serie ordinata di persone collegate da legami di sangue, discendenti da un antenato comune a diversi gradi”. Ora, la consanguineità non è altro che una serie di tali persone; pertanto, una linea di consanguineità è essenzialmente la stessa cosa della consanguineità in sé. Ma una cosa non dovrebbe essere distinta in base a se stessa; quindi, la consanguineità non dovrebbe essere suddivisa in linee.
+
+Obiezione 2: Inoltre, ciò che divide una cosa comune non dovrebbe essere incluso nella definizione di quella stessa cosa comune. Ora, il concetto di discendenza è incluso nella definizione sopra menzionata di consanguineità. Pertanto, la consanguineità non può essere divisa in linee ascendenti, discendenti e collaterali.
+
+Obiezione 3: Inoltre, una linea viene definita come l’intervallo tra due punti. Ma due punti formano soltanto un grado. Pertanto, una linea ha soltanto un grado; per questo motivo sembrerebbe che la consanguineità non dovrebbe essere suddivisa in linee e gradi.
+
+Obiezione 4: Inoltre, un grado viene definito come “la relazione esistente tra persone lontane, attraverso la quale si può conoscere la distanza che le separa”. Poiché la consanguineità rappresenta un tipo di prossimità, la distanza tra persone è opposta alla consanguineità, e non ne costituisce una parte.
+
+Obiezione 5: Inoltre, se la consanguineità può essere distinta e identificata in base ai suoi gradi, coloro che appartengono allo stesso grado dovrebbero essere considerati strettamente imparentati tra loro. Tuttavia ciò è falso, poiché lo zio materno di primo grado e il nipote di primo grado appartengono allo stesso grado, ma non sono considerati strettamente imparentati secondo un decreto pontificio (cap. Porro; cap. Parenteloe, 35, qu. v). Pertanto, la consanguineità non può essere correttamente suddivisa in gradi.
+
+Obiezione 6: Inoltre, nelle cose ordinarie l’aggiunta di una cosa all’altra produce un grado diverso, proprio come ogni unità aggiuntiva genera un tipo diverso di numero. Tuttavia, l’aggiunta di una persona all’altra non sempre determina un diverso grado di consanguineità; ad esempio, padre e zio appartengono allo stesso grado di consanguineità, poiché sono considerati “lato a lato”. Pertanto, la consanguineità non può essere correttamente suddivisa in gradi.
+
+Obiezione 7: Inoltre, se due persone sono imparentate tra loro, esiste sempre lo stesso grado di parentela, poiché la distanza da un estremo all’altro è uguale in entrambi i casi. Tuttavia, i gradi di consanguineità non sono sempre gli stessi in entrambe le direzioni; a volte uno dei parenti appartiene al terzo grado e l’altro al quarto grado. Pertanto, il grado di consanguineità non può essere determinato con sufficiente precisione soltanto in base ai suoi gradi.
+
+Rispondo che la consanguineità, così come definita (A[1]), rappresenta una certa vicinanza basata sulla comunicazione naturale derivante dall’atto della procreazione, attraverso il quale si perpetua la vita. Secondo il Filosofo (Etica viii, 12), questa comunicazione è di tre tipi: il primo corrisponde alla relazione tra causa ed effetto, e rappresenta la consanguineità tra padre e figlio; per questo motivo egli afferma che “i genitori amano i loro figli come se fossero una parte di sé stessi”. Il secondo tipo corrisponde alla relazione tra effetto e causa, e riguarda la consanguineità tra figlio e padre; in questo caso il figlio ama i propri genitori come se essi fossero qualcosa che deve la propria esistenza a lui. Il terzo tipo si riferisce alla relazione reciproca tra persone che derivano dalla stessa origine, come i fratelli, “nati dai stessi genitori”, come ancora afferma il Filosofo (Etica viii, 12). Poiché il movimento di un punto genera una linea, e poiché un padre, attraverso la procreazione, può essere considerato “discendente” del proprio figlio, ne consegue che esistono tre tipi di linee di consanguineità: quella “discendente”, relativa al primo tipo di rapporto; quella “ascendente”, relativa al secondo; e quella “collaterale”, relativa al terzo. Tuttavia, poiché il processo di procreazione non si ferma in un solo livello ma continua oltre, è possibile individuare anche generazioni successive, come il padre del padre o il figlio del figlio, e così via. A seconda dei diversi gradi di questa catena genealogica, si possono distinguere diversi livelli di consanguineità. Poiché i gradi di una cosa fanno parte di essa stessa, non può esistere grado di vicinanza quando non c’è alcuna vera e propria relazione genetica; pertanto, l’identicità o una distanza eccessiva eliminano ogni gradazione di consanguineità. Nessun uomo è “parente” di sé stesso, così come nessuno è esattamente uguale a sé stesso: per questo motivo non esiste grado di consanguineità quando si tratta di una sola persona, ma soltanto quando due persone vengono confrontate tra loro. Tuttavia, esistono diversi modi per calcolare questi gradi nelle varie linee di consanguineità. Nel caso delle linee ascendenti e discendenti, il grado di consanguineità deriva dal fatto che una delle parti coinvolte discende dall’altra; pertanto, secondo i criteri canonici e legali, la persona che occupa il primo posto in queste linee è considerata “lontana” di un certo grado rispetto all’altra persona (ad esempio, padre e figlio sono a primo grado); quella che occupa il secondo posto è considerata “lontana” di secondo grado (nonno, nipote, ecc.). Nel caso delle linee collaterali, invece, il grado di consanguineità deriva dal fatto che entrambe le parti discendono da un’unica origine; pertanto i gradi vengono calcolati in relazione a questo principio comune. In questo ambito, però, i criteri canonici e legali differiscono: il calcolo legale tiene conto anche di altri fattori legati alla discendenza.
+Le relazioni di consanguineità sono calcolate in entrambi i modi, ma il computo canonico tiene conto soltanto di uno dei gradi di parentela, ovvero di quello che rappresenta il numero maggiore di generazioni intermedie. Pertanto, secondo il calcolo legale, fratello e sorella, o due fratelli, sono considerati parenti di secondo grado, poiché ciascuno di loro è separato dal “grado comune” di parentela da una sola generazione; allo stesso modo, i figli di due fratelli sono considerati parenti di quarto grado. Tuttavia, secondo il calcolo canonico, due fratelli sono considerati parenti di primo grado, poiché nessuno dei due è separato dal “grado comune” da più di una generazione; i figli di un fratello, invece, sono considerati parenti di secondo grado rispetto all’altro fratello, poiché anch’essi si trovano a quella stessa distanza dal “grado comune”. Quindi, secondo il calcolo canonico, la distanza di una persona da un certo grado di parentela più elevato è esattamente uguale – e mai inferiore – alla distanza che essa ha da ogni persona discendente da quel grado stesso; infatti, “la causa per cui una cosa è così è ancora più forte”. Pertanto, anche se gli altri discendenti dal “grado comune” sono considerati parenti di una determinata persona in quanto anch’essi discendono da quel grado, questi discendenti di un altro ramo della famiglia non possono essere considerati più strettamente imparentati con quella persona di quanto essa lo sia con il “grado comune”. Tuttavia, a volte una persona può essere più lontanamente imparentata con un discendente dal “grado comune” di quanto lo sia lei stessa con quel grado; in tal caso, la consanguineità deve essere calcolata secondo il grado più distante.
+
+Risposta all’Obiezione 1: Questa obiezione si basa su un presupposto errato: infatti, la consanguineità non rappresenta una serie di persone in ordine cronologico, ma piuttosto una relazione reciproca esistente tra determinate persone, le quali, insieme, formano una linea di consanguineità.
+
+Risposta all’Obiezione 2: Il concetto di discendenza, inteso in senso generale, si applica a ogni linea di consanguineità, poiché la procreazione carnale, da cui deriva il legame di consanguineità, rappresenta un tipo di discendenza. Tuttavia, solo un particolare tipo di discendenza – ovvero quella che ha origine dalla persona di cui si tratta – rende effettivamente possibile la formazione di una linea di discendenza.
+
+Risposta all’Obiezione 3: Una linea può essere interpretata in due modi diversi. A volte viene intesa nel senso proprio della dimensione stessa, che rappresenta il primo tipo di quantità continua; in questo caso, una linea retta contiene effettivamente soltanto due punti che la delimitano, ma potenzialmente un numero infinito di punti; se uno qualsiasi di questi punti viene individuato concretamente, la linea si divide e diventa due linee. Altre volte, però, una linea indica elementi disposti in sequenza lungo una retta; è questo il caso, ad esempio, nei numeri, dove l’unione di unità genera un numero. Ogni unità aggiunta rappresenta quindi un “grado” all’interno di una determinata sequenza; lo stesso vale per la linea di consanguineità: una singola linea può quindi contenere diversi gradi.
+
+Risposta all’Obiezione 4: Proprio come non può esserci somiglianza senza differenza, così non esiste prossimità senza distanza. Pertanto, non ogni distanza è contraria alla consanguineità, ma soltanto quelle che escludono la prossimità legata ai rapporti di sangue.
+
 <span class="atom-split" data-atom="064" data-title="Whether consanguinity is fittingly distinguished by degrees and lines? (2/2)" data-chapter="Whether consanguinity is fittingly distinguished by degrees and lines?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 5: Even as whiteness is said to be greater in two ways, in one way through
@@ -3321,6 +4508,14 @@ the grandfather stands.
 Reply to Objection 7: Two persons are always related in the same degree to one another,
 although they are not always distant in the same number of degrees from the common ancestor, as
 explained above.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 5: Proprio come la bianchezza può essere considerata maggiore in due modi – da un lato per l’intensità della stessa qualità, dall’altro per la quantità della superficie – anche la consanguineità può essere ritenuta maggiore o minore in due modi. In primo luogo, in termini di intensità, a causa della natura stessa della consanguineità; in secondo luogo, in termini di quantità, e quindi il grado di consanguineità viene misurato dalle persone tra cui si verifica la propagazione dello stesso sangue comune. È proprio in questo modo che vengono distinti i diversi gradi di consanguineità. Può accadere, dunque, che due persone collegate da lo stesso grado di consanguineità siano diverse per l’intensità di tale legame: ad esempio, il padre e il fratello di una persona sono collegati dal primo grado di consanguineità, poiché in nessuno dei due casi vi è alcuna terza persona intermediaria; tuttavia, in termini di intensità, il padre è più strettamente legato alla figlia rispetto al fratello, poiché quest’ultimo è considerato tale soltanto perché condivide lo stesso padre. Da ciò deriva che più una persona è vicina all’antenato comune da cui discende la consanguineità, maggiore sarà tale legame, anche se non si trova in un grado più stretto. In questo modo, il prozio di una persona è più strettamente legato a lei rispetto al nipote di primo grado, pur essendo entrambi collocati nello stesso grado di consanguineità.
+
+Risposta all’Obiezione 6: Sebbene il padre e lo zio di un uomo siano allo stesso grado in termini di legame di consanguineità, poiché entrambi sono separati da un grado dal nonno, tuttavia, in relazione alla persona la cui consanguineità è in questione, non si trovano allo stesso grado: il padre appartiene al primo grado, mentre lo zio non può essere più vicino di quanto non sia il secondo grado, che corrisponde al nonno.
+
+Risposta all’Obiezione 7: Due persone sono sempre collegate tra loro nello stesso grado, anche se non sono sempre distanti dello stesso numero di generazioni dallo stesso antenato comune, come spiegato sopra.
 
 <span class="atom-split" data-atom="065" data-title="Whether consanguinity is an impediment to marriage by virtue of the natural law?" data-chapter="Whether consanguinity is an impediment to marriage by virtue of the natural law?" data-kind="atom" data-srclang="en"></span>
 
@@ -3418,6 +4613,34 @@ to the goods of marriage. Hence the Objection proceeds from false premises.
 Reply to Objection 5: It is not unreasonable for one of two unions to be hindered by the other,
 even as where there is identity there is not likeness. In like manner the tie of consanguinity may
 hinder the union of marriage.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la consanguineità non costituisca, secondo la [legge naturale](/positions/natural_law), un ostacolo al matrimonio.  
+Infatti, nessuna donna può essere più strettamente imparentata con un uomo di Eva rispetto ad Adamo; egli stesso disse infatti (Genesi 2:23): “Questa è ora osso delle mie ossa e carne della mia carne”. Eppure Eva sposò Adamo.  
+Pertanto, secondo la legge naturale, nessuna consanguineità rappresenta un ostacolo al matrimonio.
+
+Obiezione 2: Inoltre, la legge naturale è uguale per tutti. Ora, tra le nazioni non civilizzate, nessuno viene escluso dal matrimonio a causa di consanguineità. Pertanto, riguardo alla legge naturale, la consanguineità non costituisce un ostacolo al matrimonio.
+
+Obiezione 3: Inoltre, la legge naturale è ciò che “la natura ha insegnato a tutti gli animali”, come si afferma all’inizio dei Digesti (I, ff. De just. et jure). Ora, anche gli animali bruti copulano con le loro madri; pertanto non è certo una disposizione della legge naturale che alcune persone siano escluse dal matrimonio per motivi di consanguineità.
+
+Obiezione 4: Inoltre, nulla che non sia contrario ad alcuno dei beni del matrimonio costituisce un ostacolo al matrimonio. Ma la consanguineità non è contraria ad alcuno di questi beni; pertanto, non rappresenta un ostacolo al matrimonio.
+
+Obiezione 5: Inoltre, le cose che sono più simili tra loro sono meglio e più strettamente legate tra loro. Il matrimonio è una forma di unione; poiché la consanguineità rappresenta anch’essa un tipo di parentela, essa non ostacola il matrimonio, ma anzi ne rafforza l’unione.
+
+Al contrario, secondo la legge naturale, qualsiasi cosa ostacoli il bene della prole rappresenta un impedimento al matrimonio. La consanguineità infatti ostacola il bene della prole; come affermano le parole di Gregorio (Regist., episodio xxxi), citate nel testo (Sentenze, iv, D, 40): “Abbiamo imparato dall’esperienza che i figli di un tale matrimonio non possono crescere sani e forti”. Pertanto, secondo la legge naturale, la consanguineità è un impedimento al matrimonio. Inoltre, ciò che appartiene alla [natura umana](/axes/human_nature) fin dalla sua creazione rientra nella legge naturale stessa. Fin dall’inizio, infatti, era previsto che una persona non potesse sposare il proprio padre o la propria madre; a dimostrazione di ciò si legge in Genesi 2:24: “Pertanto l’uomo lascerà padre e madre”. Questa disposizione non può riferirsi alla convivenza, ma deve necessariamente indicare l’unione matrimoniale. Quindi, ancora una volta, la consanguineità è un impedimento al matrimonio secondo la legge naturale.
+
+Rispondo che, in relazione al matrimonio, si dice che qualcosa sia contrario alla legge naturale se impedisce a questo istituto di raggiungere lo scopo per cui è stato creato. Ora, lo scopo essenziale e primario del matrimonio è il bene della prole, e tale bene viene ostacolato da determinati rapporti di consanguineità, in particolare quelli tra padre e figlia o tra figlio e madre. Non si tratta certo di un danno irreparabile per la prole, poiché una figlia può concepire un figlio dal seme del proprio padre e crescere e educarlo secondo i valori che contribuiscono al suo bene; tuttavia, tale processo non avviene in modo appropriato. È infatti contrario alla natura che una figlia sposi il proprio padre allo scopo di procreare e allevare figli, poiché in ogni ambito lei dovrebbe essere sottomessa a lui come sua discendente. Pertanto, per legge naturale, un padre e una madre sono vietati dal sposarsi tra loro; e la madre ancora più del padre, poiché è più offensivo verso il rispetto che si deve ai genitori se un figlio sposa la propria madre piuttosto che se un padre sposa la propria figlia, dato che la moglie dovrebbe essere in certo modo sottomessa al marito. Lo scopo secondario essenziale del matrimonio è la repressione della concupiscenza; tale scopo verrebbe vanificato se un uomo potesse sposare una persona con cui ha rapporti di consanguineità, poiché ciò darebbe ampio spazio alla lussuria. Per questo motivo, la legge divina vieta il matrimonio non solo tra genitori, ma anche tra altri parenti che vivono in stretta intimità e dovrebbero preservare la reciproca modestia. La legge divina fornisce questa motivazione (Levitico 18:10): “Non scoprire la nudità di una persona con cui hai rapporti di consanguineità, poiché essa è la tua stessa nudità”. Lo scopo occasionale del matrimonio, invece, è quello di unire l’umanità e di rafforzare i legami di amicizia: infatti, il marito considera la famiglia della moglie come propria. Pertanto, sarebbe dannoso per tale rafforzamento dell’amicizia se un uomo potesse sposare una donna con cui ha rapporti di consanguineità, poiché tale matrimonio non porterebbe a nuove relazioni amichevoli. Per questo motivo, secondo la legge umana e le norme della Chiesa, diversi gradi di consanguineità sono vietati dal matrimonio. Da quanto detto, è evidente che la consanguineità rappresenta un ostacolo al matrimonio per alcune persone secondo la legge naturale, per altre secondo la legge divina, e per altre ancora secondo la legge umana.
+
+Risposta all’Obiezione 1: Sebbene Eva sia stata creata da Adamo, non era sua figlia, poiché non è stata formata da lui nel modo naturale con cui un uomo genera un essere simile a sé per specie, ma attraverso un atto divino; infatti, dalla costola di Adamo avrebbe potuto essere creato anche un cavallo, nello stesso modo in cui è stata creata Eva. Pertanto, il legame naturale tra Eva e Adamo non era così stretto come quello tra figlia e padre, né Adamo rappresentava il principio naturale di Eva, proprio come un padre lo è per sua figlia.
+
+Risposta all’Obiezione 2: Il fatto che alcuni barbari siano uniti carnalmente ai propri genitori non deriva dalla legge naturale, ma dall’impulso della concupiscenza, che ha offuscato in loro la legge naturale stessa.
+
+Risposta all’Obiezione 3: Si afferma che l’unione tra maschio e femmina sia di diritto naturale, poiché la natura l’ha insegnata agli animali; tuttavia, essa ha insegnato questa unione in modi diversi a seconda delle caratteristiche specifiche di ciascun animale. Tuttavia, il rapporto sessuale con i genitori è contrario al rispetto che si deve loro. Poiché la natura ha infatti instillato nei genitori l’attenzione e la cura verso i propri figli, ha altresì insito nei figli il rispetto per i genitori; tuttavia, nessun altro animale, se non l’uomo, possiede un tale sentimento duraturo nei confronti dei propri figli o del rispetto per i genitori. Negli altri animali, questo sentimento esiste in misura diversa, a seconda che il figlio sia più o meno necessario ai genitori, o viceversa. Come afferma il Filosofo nel “De Animalibus”, IX, 47, riguardo al cammello e al cavallo, in alcuni animali il figlio detesta il rapporto sessuale con la propria madre finché conserva conoscenza di lei e un certo rispetto per lei. Poiché tutte le abitudini sessuali degli animali si ritrovano naturalmente nell’uomo, e in modo più perfetto che negli altri animali, ne consegue che l’uomo detesta naturalmente il rapporto sessuale non solo con la propria madre, ma anche con la propria figlia; tuttavia, come già accennato, questo comportamento è meno contrario alla natura. Inoltre, la consanguineità derivante dalla procreazione sessuale non esiste negli altri animali nel modo in cui esiste nell’uomo, come detto sopra (A[1], ad 5). Pertanto, il confronto proposto non è valido.
+
+Risposta all’Obiezione 4: È stato dimostrato come la consanguineità tra persone sposate sia contraria ai valori fondamentali del matrimonio. Pertanto, l’obiezione si basa su premesse errate.
+
+Risposta all’Obiezione 5: Non è irragionevole che una delle due forme di unione venga ostacolata dall’altra, proprio come quando c’è identità non c’è somiglianza. Allo stesso modo, il legame di consanguineità può ostacolare l’unione coniugale.
 
 <span class="atom-split" data-atom="066" data-title="Whether the degrees of consanguinity that are an impediment to marriage could be fixed by the Church? (1/2)" data-chapter="Whether the degrees of consanguinity that are an impediment to marriage could be fixed by the Church?" data-kind="atom" data-srclang="en"></span>
 
@@ -3523,6 +4746,31 @@ it is more subject to the control of the Church's ministers than baptism which i
 because just as human contracts and offices are controlled by human laws, so are spiritual contracts
 and offices controlled by the law of the Church.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i gradi di consanguineità che costituiscono un impedimento al matrimonio non possano essere fissati dalla Chiesa fino al quarto grado. Infatti è scritto (Matteo 19:6): “Quello che Dio ha unito, nessuno lo separi”. Ma Dio ha unito coloro che sono sposati entro il quarto grado di consanguineità, poiché la loro unione non è proibita dalla legge divina. Pertanto, nemmeno una [legge umana](/concepts/human_law) dovrebbe separarli.
+
+Obiezione 2: Inoltre, il matrimonio è un [sacramento](/concepts/sacrament), proprio come il battesimo. Ora, nessuna disposizione della Chiesa potrebbe impedire a una persona battezzata di ricevere il carattere sacramentale del battesimo, se essa ne è idonea secondo la [Legge divina](/concepts/divine_law). Pertanto, nemmeno una disposizione della Chiesa può proibire il matrimonio tra persone a cui la Legge divina non lo vieta.
+
+Obiezione 3: Inoltre, il diritto positivo non può né annullare né estendere quelle norme che sono di natura naturale. La consanguineità, ad esempio, è un legame naturale che di per sé stesso impedisce il matrimonio. Pertanto, la Chiesa non può, con le sue disposizioni, permettere o proibire a determinate persone di sposarsi, né può rendere loro parenti o meno.
+
+Obiezione 4: Inoltre, un ordinamento di diritto positivo dovrebbe avere una causa ragionevole, poiché è proprio per questa causa ragionevole che deriva dal [diritto naturale](/positions/natural_law). Tuttavia le cause addotte per spiegare il numero dei gradi di proibizione sembrano del tutto irragionevoli, poiché non hanno alcuna relazione con i loro effetti; ad esempio, il fatto che la consanguineità costituisca un impedimento al quarto grado in base ai quattro elementi, al sesto grado in base alle sei età del mondo, o al settimo grado in base ai sette giorni da cui è composto tutto il tempo. Pertanto, questa proibizione sembra priva di qualsiasi validità legale.
+
+Obiezione 5: Inoltre, quando la causa è la stessa, dovrebbe esserci lo stesso effetto. Ora, le ragioni per cui la consanguineità costituisce un ostacolo al matrimonio sono il bene della prole, la repressione della concupiscenza e l’approfondimento dell’[amicizia](/concepts/friendship), come già detto sopra (A[3]); queste ragioni sono ugualmente necessarie in ogni tempo. Pertanto, i diversi gradi di consanguineità dovrebbero aver sempre ostacolato il matrimonio nello stesso modo; tuttavia ciò non è vero: attualmente la consanguineità costituisce un ostacolo solo fino al quarto grado, mentre in passato lo era fino al settimo.
+
+Obiezione 6: Inoltre, lo stesso legame non può essere allo stesso tempo un tipo di sacramento e un tipo di incesto. Tuttavia ciò accadrebbe se la Chiesa avesse il potere di stabilire diversi gradi che costituiscano impedimenti al matrimonio. Ad esempio, se persone collegate da un grado quinto si sposassero quando tale grado rappresentava un impedimento, il loro legame sarebbe considerato incestuoso; ma successivamente, una volta revocata la proibizione da parte della Chiesa, lo stesso legame verrebbe considerato matrimonio. Allo stesso modo, potrebbe accadere il contrario se certi gradi che inizialmente non rappresentavano impedimenti venissero successivamente proibiti dalla Chiesa. Pertanto, sembra che il potere della Chiesa non si estenda in questo ambito.
+
+Obiezione 7: Inoltre, la legge umana dovrebbe imitare la legge divina. Ora, secondo la legge divina contenuta nell’Antico Testamento, il divieto di matrimonio tra consanguinei non si applica in modo uguale sia nelle linee ascendenti che in quelle discendenti: nell’Antico Testamento, ad esempio, a un uomo era vietato sposare la sorella del padre ma non la figlia del fratello. Pertanto, nemmeno oggi dovrebbe esserci alcun divieto di matrimonio tra nipoti e zii.
+
+Al contrario, il nostro Signore disse ai suoi discepoli (Lc 10:16): “Chi vi ascolta, ascolta Me”. Pertanto, un comando della Chiesa ha lo stesso valore di un comando di Dio. Spesso la Chiesa ha proibito o permesso certe pratiche che l’Antico Testamento non vietava; quindi tali pratiche rappresentano un ostacolo al matrimonio. Inoltre, proprio come in passato i matrimoni dei pagani erano regolati dal diritto civile, così oggi il matrimonio è regolato dalle leggi della Chiesa. Un tempo era il diritto civile a stabilire quali gradi di consanguineità impedissero il matrimonio e quali no; pertanto anche oggi ciò può essere deciso tramite un comando della Chiesa.
+
+Rispondo che i gradi entro cui la consanguineità è stata un ostacolo al matrimonio sono variati nel corso del tempo. All’inizio della specie umana, soltanto i genitori erano vietati di sposare i propri figli; all’epoca l’umanità era infatti molto rara, e per garantire la sua sopravvivenza era necessario prestare grande attenzione alle unioni matrimoniali. Pertanto venivano esclusi soltanto coloro che non erano idonei a sposarsi, anche in relazione allo scopo principale del matrimonio, ovvero il bene della prole, come già accennato (A[3]). In seguito, con l’aumentare della popolazione umana, altre categorie di persone furono escluse dalla legge di Mosè, poiché si iniziava a controllare i desideri carnali. Come afferma il rabbino Mosè (Doc. Perp. iii, 49), erano vietati di sposarsi coloro che vivevano insieme sotto lo stesso tetto; infatti, se fosse stato possibile un rapporto sessuale legittimo tra di loro, ciò avrebbe rappresentato un forte incentivo alla lussuria. Tuttavia, la Legge Antica permetteva altri gradi di consanguineità; anzi, in certa misura li incoraggiava, imponendo che ogni uomo prendesse una moglie appartenente alla propria famiglia per evitare confusione nelle successioni ereditarie. In quel periodo, infatti, il culto divino veniva tramandato come eredità della specie umana. Successivamente, la Legge Nuova, legge dello spirito e dell’amore, proibì ulteriori gradi di consanguineità: poiché il culto di Dio non veniva più trasmesso attraverso il rapporto sessuale, ma attraverso una grazia spirituale. Era quindi necessario che gli uomini si allontanassero ancora di più dalle cose carnali e si dedicassero alle cose spirituali, affinché l’amore potesse svolgere un ruolo ancora più importante nella vita umana. Per questo motivo, nell’antichità il matrimonio era vietato anche entro gradi di consanguineità piuttosto lontani, al fine che tale legame potesse diventare fonte di una più profonda amicizia naturale; questa restrizione veniva estesa fino al settimo grado, sia perché al di là di esso risultava difficile ricordare le origini comuni delle famiglie, sia perché ciò corrispondeva alle sette grazie dello Spirito Santo. In tempi più recenti, però, la Chiesa ha limitato tale divieto al quarto grado: poiché estenderlo a gradi più lontani risultava inutile e pericoloso. Era inutile, perché nella maggior parte delle persone il sentimento di carità si affievoliva, rendendo difficile mantenere legami di amicizia con i parenti più lontani; era pericoloso, perché, a causa della prevalenza dei desideri carnali, molte persone ignoravano l’esistenza di tanti parenti, e quindi il divieto diventava una trappola che poteva condurre alla dannazione. Inoltre, c’è una certa logica nella limitazione del divieto al quarto grado: innanzitutto, perché gli esseri umani tendono a vivere fino alla quarta generazione, così che il legame di consanguineità non possa essere dimenticato.
+Pertanto, Dio minacciò (Esodo 20:5) di far ricadere i peccati dei genitori sui loro figli, fino alla terza e quarta generazione. In secondo luogo, perché in ogni generazione il sangue, la cui identità costituisce il legame di consanguineità, riceve l’aggiunta di nuovo sangue; e più sangue viene aggiunto, meno ne rimane del vecchio. Poiché esistono quattro elementi, ciascuno dei quali si mescola più facilmente con un altro quanto più è raffinato, ne consegue che, alla prima miscelazione, l’identità del sangue scompare riguardo al primo elemento, il più sottile; alla seconda miscelazione, riguardo al secondo elemento; alla terza, riguardo al terzo elemento; alla quarta, riguardo al quarto elemento. Pertanto, dopo la quarta generazione, è opportuno ripetere l’unione carnale.
+
+Risposta all’Obiezione 1: Proprio come Dio non unisce coloro che si uniscono contro il suo comando, allo stesso modo Egli non unisce coloro che si uniscono contro il comando della Chiesa, il quale possiede lo stesso valore obbligatorio di un comando divino.
+
+Risposta all’Obiezione 2: Il matrimonio non è soltanto un sacramento, ma svolge anche una funzione specifica; pertanto è soggetto al controllo dei ministri della Chiesa in misura maggiore rispetto al battesimo, che è considerato semplicemente un sacramento. Infatti, proprio come i contratti e le funzioni umane sono regolati dalle leggi umane, allo stesso modo anche i contratti e le funzioni spirituali sono governati dalla legge della Chiesa.
+
 <span class="atom-split" data-atom="067" data-title="Whether the degrees of consanguinity that are an impediment to marriage could be fixed by the Church? (2/2)" data-chapter="Whether the degrees of consanguinity that are an impediment to marriage could be fixed by the Church?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: Although the tie of consanguinity is natural, it is not natural that
@@ -3559,6 +4807,18 @@ her nephew: because a daughter is more identified with her father, being part of
 sister is not in this way identified with her brother, for she is not part of him but is born of the same
 parent. Hence there was not the same reason for debarring a niece and an aunt.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 3: Sebbene il legame di consanguineità sia naturale, non è naturale che esso vieti il rapporto sessuale, se non per determinati gradi, come indicato sopra (A[3]). Pertanto, il comandamento della Chiesa non fa sì che alcune persone diventino o non diventino parenti, poiché rimangono ugualmente imparentate in ogni momento; piuttosto, stabilisce se tale rapporto sia legittimo o illecito a seconda del grado di consanguineità.
+
+Risposta all’Obiezione 4: Le ragioni addotte vengono presentate come esempi di appropriatenza e coerenza, piuttosto che di causalità e necessità.
+
+Risposta all’Obiezione 5: La ragione che impedisce i matrimoni tra consanguinei non è la stessa in diversi periodi storici; pertanto ciò che era utile permetterlo in un determinato momento poteva rivelarsi vantaggioso proibirlo in un altro.
+
+Risposta all’Obiezione 6: Un comandamento non riguarda il passato, ma il futuro. Pertanto, se il quinto grado attualmente consentito venisse proibito in qualsiasi momento, coloro che si trovano in tale stato e sono sposati non sarebbero costretti a separarsi, poiché nessun ostacolo successivo al matrimonio può annullarlo; di conseguenza, un’unione che già era considerata matrimoniale fin dall’inizio non diventerebbe incestuosa per decreto della Chiesa. Allo stesso modo, se un grado attualmente proibito venisse permesso, tale unione non diventerebbe matrimoniale in base al decreto della Chiesa, poiché le parti potrebbero separarsi se lo desiderassero; tuttavia, potrebbero contrarre nuovamente matrimonio, e questo sarebbe considerato un nuovo legame coniugale.
+
+Risposta all’Obiezione 7: Nel proibire i gradi di consanguineità, la Chiesa tiene principalmente conto del punto di vista affettivo. Poiché il motivo dell’affetto verso il figlio di un fratello non è inferiore, ma anzi maggiore, rispetto ai motivi dell’affetto verso il cugino di padre, dato che il figlio è più strettamente legato al padre del padre al figlio (Etica, viii, 12), la Chiesa ha proibito ugualmente i rapporti tra zii e nipoti. D’altra parte, l’Antico Testamento, nel vietare certe unioni, considerava principalmente il pericolo di [concupiscenza](/concepts/concupiscence) derivante dalla convivenza; quindi venivano escluse quelle persone che vivevano in stretta intimità a causa della loro convivenza. Oggi è più comune che una nipote viva con lo zio piuttosto che una zia con il nipote: poiché una figlia è strettamente legata al padre, essendo parte di lui, mentre una sorella non lo è allo stesso modo, essendo nata dallo stesso genitore. Pertanto, non esisteva lo stesso motivo per vietare i rapporti tra nipote e zia.
+
 <span class="atom-split" data-atom="068" data-title="OF THE IMPEDIMENT OF AFFINITY (ELEVEN ARTICLES)" data-chapter="OF THE IMPEDIMENT OF AFFINITY (ELEVEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must consider next the impediment of affinity. Under this head there are eleven points of
@@ -3576,6 +4836,21 @@ always be dissolved by divorce?
 (10) Whether the process for the dissolution of like marriages should always be by way of
 accusation?
 (11) Whether witnesses should be called in such a case?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’ostacolo rappresentato dall’affinità. In questa categoria esistono undici punti da esaminare:  
+(1) Deriva forse l’affinità dal matrimonio?  
+(2) Permane essa anche dopo la morte di uno o entrambi i coniugi?  
+(3) Viene causata da rapporti illeciti?  
+(4) Nasce forse da un fidanzamento?  
+(5) Può l’affinità stessa generare ulteriori gradi di affinità?  
+(6) Rappresenta davvero un ostacolo al matrimonio?  
+(7) Esistono diversi gradi di affinità?  
+(8) Tali gradi si estendono fino ai livelli della consanguineità?  
+(9) I matrimoni tra persone legate da consanguineità o affinità dovrebbero sempre essere annullati tramite divorzio?  
+(10) Il procedimento per l’annullamento di tali matrimoni dovrebbe sempre avvenire attraverso accuse formali?  
+(11) In tal caso, sono necessari testimoni?
 
 <span class="atom-split" data-atom="069" data-title="Whether a person contracts affinity through the marriage of a blood-relation?" data-chapter="Whether a person contracts affinity through the marriage of a blood-relation?" data-kind="atom" data-srclang="en"></span>
 
@@ -3646,6 +4921,27 @@ wherefore at the time it happens that there results in him the aforesaid relatio
 of another. Likewise because this man descends through his own birth from the same stock as the
 husband, there results in him affinity with the latter's wife, without any new change in him.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che una persona non entri in rapporti di affinità attraverso il matrimonio con un parente di sangue. Infatti, “la causa per cui qualcosa è così lo rende ancora di più tale”. Ora, la moglie non è legata alla famiglia del marito se non attraverso il matrimonio stesso. Pertanto, non entra in rapporti di affinità né con il marito né con i parenti di lui.
+
+Obiezione 2: Inoltre, se alcune cose sono separate l’una dall’altra e qualcosa è collegato a una di esse, ciò non implica necessariamente che sia collegato anche alle altre. Ora, i legami di sangue tra le persone sono separati tra loro; pertanto, il fatto che una donna sia sposata con un uomo non significa necessariamente che sia collegata a tutti i suoi parenti.
+
+Obiezione 3: Inoltre, le relazioni familiari derivano dal fatto che determinate persone vengono unite tra loro. Ora, i parenti del marito non vengono uniti dal semplice atto di lui sposare una donna; pertanto, non acquisiscono alcuna relazione di affinità familiare a causa di questo matrimonio.
+
+Al contrario, marito e moglie sono fatti “una carne”. Pertanto, se il marito è legato da vincoli di sangue a tutti i suoi parenti, per lo stesso motivo anche sua moglie sarà legata a loro. Inoltre, ciò viene confermato dalle autorità citate nel testo (Sentenze iv, D, 41).
+
+Rispondo che una certa forma di [amicizia](/concepts/friendship) naturale si fonda sulla condivisione fisica e biologica. Ora, secondo il Filosofo (Etica viii, 12), tale condivisione può sorgere in due modi: innanzitutto dalla procreazione carnale; in secondo luogo da una connessione derivante da una procreazione ordinata e legittima. Per questo motivo egli afferma che l’amicizia tra un marito e sua moglie sia di natura. Di conseguenza, così come una persona è legata a un’altra attraverso la procreazione carnale da un vincolo di amicizia naturale, allo stesso modo si può stabilire un legame simile attraverso il rapporto sessuale. Tuttavia esiste una differenza: chi è legato alla propria famiglia attraverso la procreazione condivide lo stesso sangue e gli stessi antenati; quindi il legame che lo unisce al padre è di natura consanguinea, sebbene in grado diverso a seconda del grado di distanza genetica. Al contrario, chi entra in rapporto sessuale con qualcuno non condivide lo stesso sangue e gli stessi antenati; il legame che ne deriva è quindi di natura diversa, definito “affinità”. Questo concetto viene espresso nel seguente verso:  
+“Il matrimonio stabilisce un nuovo tipo di legame,  
+mentre la procreazione crea un grado diverso di parentela;  
+infatti la persona nata dal rapporto sessuale entra in una relazione nuova, ma dello stesso tipo.”
+
+Risposta all’Obiezione 1: Sebbene una causa sia più potente del suo effetto, non segue necessariamente che lo stesso nome possa essere applicato sia alla causa che all’effetto; infatti, a volte ciò che si trova nell’effetto esiste anche nella causa, ma in modo diverso o più elevato. Pertanto, non è possibile riferirsi a causa ed effetto con lo stesso nome o dallo stesso punto di vista, come avviene per tutte le cause efficaci ambigue. Così, ad esempio, l’unione tra marito e moglie è più forte dell’unione tra la moglie e i parenti del marito; tuttavia non dovrebbe essere chiamata “affinità”, ma “matrimonio”, che rappresenta un tipo di unità. Allo stesso modo, un uomo è identico a se stesso, ma non ai suoi parenti.
+
+Risposta all’Obiezione 2: Le relazioni di sangue sono, in un certo senso, separate, e in un altro senso collegate; proprio a causa di questa loro connessione, una persona che è legata a uno di questi legami familiari lo è, in qualche modo, anche a tutti. Tuttavia, a causa della loro separazione e distanza reciproca, può accadere che una persona che è collegata a uno di questi legami in un certo modo lo sia in modo diverso con un altro, sia per il tipo di relazione che per il grado di essa.
+
+Risposta all’Obiezione 3: Inoltre, una relazione può talvolta derivare dal movimento di entrambi gli estremi; ad esempio, la paternità e la filiazione sono relazioni di questo tipo che esistono effettivamente in entrambi gli estremi. A volte, invece, la relazione deriva dal movimento di uno solo degli estremi, e ciò avviene in due modi diversi. Nel primo caso, la relazione sorge dal movimento di un estremo senza alcun movimento precedente o concomitante dell’altro estremo; ad esempio, nel rapporto tra Creatore e creatura, tra ciò che è sensibile e il senso, tra conoscenza e oggetto conosciuto. In questo caso, la relazione esiste effettivamente in un estremo e logicamente soltanto nell’altro. Nel secondo caso, la relazione deriva dal movimento di un estremo senza alcun movimento concomitante dell’altro, ma non senza un movimento precedente di quest’ultimo; ad esempio, l’uguaglianza tra due uomini può derivare dall’aumento della quantità di uno di loro, senza che l’altro aumenti o diminuisca; tuttavia, in precedenza entrambi avevano raggiunto la propria quantità attuale attraverso un certo movimento o cambiamento. In questi casi, la relazione esiste effettivamente in entrambi gli estremi. Lo stesso vale per le relazioni di consanguineità e affinità: ad esempio, il rapporto di fratellanza che sorge nel momento della nascita di un figlio maschio non deriva da alcun movimento del padre in quel momento, ma dalla relazione precedente che ha portato alla sua nascita; pertanto, tale relazione esiste effettivamente in entrambi gli estremi. Allo stesso modo, il fatto che quest’uomo discenda dallo stesso lignaggio del marito comporta in lui un legame di affinità con la moglie di quest’ultimo, senza alcun cambiamento nel suo stato personale.
+
 <span class="atom-split" data-atom="070" data-title="Whether affinity remains after the death of husband or wife?" data-chapter="Whether affinity remains after the death of husband or wife?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that affinity does not remain after the death of husband or wife,
@@ -3686,6 +4982,20 @@ also by reason of the union having been effected in the past.
 Reply to Objection 2: Consanguinity is not the chief cause of affinity, but union with a
 blood-relation, not only because that union is now, but because it has been. Hence the argument
 does not prove.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’affinità non sopravviva alla morte del marito o della moglie, né tra i parenti di sangue dei coniugi né “viceversa”. Infatti, se la causa scompare, scompare anche l’effetto. Ora, la causa di tale affinità era il matrimonio, che termina dopo la morte del marito; da quel momento “la donna, è liberata dalla legge del marito” (Romani 7:2). Pertanto, anche l’affinità menzionata sopra cessa.
+
+Obiezione 2: Inoltre, la consanguineità è la causa dell’affinità. Ora, la consanguineità del marito con i suoi parenti di sangue cessa alla sua morte; pertanto, anche l’affinità della moglie con loro cessa.
+
+Al contrario, l’affinità è causata dalla consanguineità. La consanguineità lega le persone tra loro per tutta la durata della loro vita; pertanto anche l’affinità agisce allo stesso modo: di conseguenza, l’affinità (tra due persone) non si dissolve con la dissoluzione del matrimonio a causa della morte di una terza persona.
+
+Rispondo che una relazione cessa in due modi: in un caso a causa della corruzione del suo soggetto, nell’altro per la scomparsa della sua causa; pertanto, la somiglianza cessa quando uno dei soggetti simili muore, o quando la qualità che ne determinava l’affinità scompare. Esistono relazioni il cui fondamento è un atto, una passione o un movimento (Metafisica V, 20): alcune di queste derivano da un movimento effettivo, come quella tra motore e mobile; altre nascono dal fatto che qualcosa sia adatto a muoversi, ad esempio le relazioni tra forza motrice e oggetto mosso, o tra padrone e servo; altre ancora derivano dal fatto che qualcosa è stato precedentemente mosso, come quella tra padre e figlio, poiché tale relazione non deriva dall’atto attuale della generazione, ma dal fatto che il padre sia stato generato in passato. L’attitudine a muoversi o ad essere mossi è effimera; invece, il fatto stesso di essere stati mossi è eterno, poiché ciò che è stato esiste sempre. Pertanto, la paternità e la filiazione non vengono mai annullate dalla scomparsa della causa, ma soltanto dalla corruzione del soggetto, cioè di uno dei due individui coinvolti nella relazione. Lo stesso vale per l’affinità: essa deriva dal fatto che determinate persone siano state unite tra loro, e non perché siano effettivamente unite fisicamente; pertanto, tale affinità non viene meno finché le persone coinvolte sopravvivono, anche se quella che ne è stata la causa muore.
+
+Risposta all’Obiezione 1: Il legame coniugale genera affinità non solo a causa dell’unione effettiva, ma anche perché tale unione è avvenuta in passato.
+
+Risposta all’Obiezione 2: La consanguineità non è la causa principale dell’affinità, ma l’unione basata su un legame di sangue, non solo perché tale unione esiste attualmente, ma anche perché è esistita in passato. Pertanto, questo argomento non dimostra nulla.
 
 <span class="atom-split" data-atom="071" data-title="Whether unlawful intercourse causes affinity?" data-chapter="Whether unlawful intercourse causes affinity?" data-kind="atom" data-srclang="en"></span>
 
@@ -3736,6 +5046,24 @@ likeness does.
 Reply to Objection 3: In unnatural copulation there is no mingling of seeds that makes
 generation possible: wherefore a like intercourse does not cause affinity.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli rapporti illeciti non possano generare affinità, poiché l’affinità è qualcosa di onorevole. Ora, le cose onorevoli non derivano da ciò che è disonorevole. Pertanto, l’affinità non può essere causata da rapporti illeciti.
+
+Obiezione 2: Inoltre, dove c’è consanguineità non può esserci affinità; poiché l’affinità è una relazione tra persone che deriva dall’intimità carnale e è completamente priva di legami di sangue. Ora, se l’intimità illecita fosse la causa dell’affinità, potrebbe accadere che un uomo entrasse in affinità con i propri parenti di sangue o addirittura con se stesso: ad esempio, quando un uomo commette incesto con un parente di sangue. Pertanto, l’affinità non deriva dall’intimità illecita.
+
+Obiezione 3: Inoltre, gli rapporti illeciti sono o conformi alla natura o contrari ad essa. Ora, l’affinità non deriva da rapporti illeciti e contrari alla natura, come stabilito dalla legge (canone Extraordinaria, xxxv, q. 2,3). Pertanto, l’affinità non è causata esclusivamente da rapporti illeciti conformi alla natura.
+
+Al contrario, colui che si unisce a una prostituta diventa uno con lei (1 Corinzi 6:16). Ed è proprio per questo motivo che il matrimonio crea legami di affinità; lo stesso vale, pertanto, anche per le relazioni illecite. Inoltre, l’atto sessuale carnale è la causa di tali legami di affinità, come dimostra la definizione stessa di affinità: essa indica quella relazione tra persone che deriva dall’atto sessuale e che non ha alcun legame di sangue. Poiché anche nelle relazioni illecite si verifica un atto sessuale carnale, ne consegue che tali relazioni generano anch’esse legami di affinità.
+
+Rispondo che, secondo il Filosofo (Etica, viii, 12), l’unione tra marito e moglie è considerata naturale principalmente per motivi legati alla procreazione dei figli, e in secondo luogo per la condivisione delle attività quotidiane: il primo aspetto deriva dalla copulazione carnale, mentre il secondo riguarda il fatto che il matrimonio rappresenta una partnership finalizzata a una vita comune. Ora, il primo aspetto è presente in qualsiasi unione carnale che comporti lo scambio di spermatozoi, poiché tale unione può portare alla nascita di figli; il secondo aspetto, invece, potrebbe mancare. Pertanto, poiché il matrimonio genera un legame affettivo in quanto unione carnale, ne consegue che anche un rapporto illegittimo possa generare lo stesso tipo di legame, nella misura in cui comporti elementi simili alla copulazione naturale.
+
+Risposta all’Obiezione 1: In un rapporto illecito esiste qualcosa di naturale che è comune sia alla fornicazione che al matrimonio; in questo senso, tale rapporto genera un legame affettivo. Tuttavia, vi è anche qualcosa di eccessivo o irregolare che lo differenzia dal matrimonio; in questo caso, tale rapporto non genera alcun legame affettivo. Pertanto, il legame affettivo rimane onorevole, anche se la sua origine è in qualche modo disonorevole.
+
+Risposta all’Obiezione 2: Non c’è alcun motivo per cui diverse relazioni non possano esistere nello stesso soggetto a causa di fattori diversi. Pertanto, può esserci affinità e consanguineità tra due persone, non solo a causa di rapporti illeciti ma anche legittimi: ad esempio, se una persona imparentata con me per parte del padre sposa una persona imparentata con me per parte della madre. Quindi, nella definizione sopra riportata, le parole “che sono completamente prive di relazioni di sangue” si riferiscono proprio all’affinità in sé. Inoltre, non segue affatto che un uomo, avendo rapporti con una persona imparentata con lui per sangue, entri in relazione di affinità con se stesso; infatti, l’affinità, come la consanguineità, richiede la diversità dei soggetti coinvolti, proprio come richiede essa stessa la presenza di somiglianze.
+
+Risposta all’Obiezione 3: Nella copulazione innaturale non avviene alcun mescolamento dei semi che renda possibile la generazione; pertanto, un simile rapporto non genera alcuna affinità tra le parti coinvolte.
+
 <span class="atom-split" data-atom="072" data-title="Whether affinity is caused by betrothal?" data-chapter="Whether affinity is caused by betrothal?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that affinity cannot be caused by betrothal. For affinity is a lasting
@@ -3784,6 +5112,24 @@ insensibility or malefice, having a perpetual impediment, is betrothed before th
 and after the age of seven years, with a woman who is of age, from such a contract there results
 the impediment called "justice of public honesty," because at the time the impediment was not
 actual, since at that age the boy who is insensible is equally impotent in respect of the act in question.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’affinità non possa essere generata dal fidanzamento. Infatti, l’affinità rappresenta un legame duraturo, mentre il fidanzamento a volte viene annullato. Pertanto, il fidanzamento non può essere la causa dell’affinità.
+
+Obiezione 2: Inoltre, se il velo verginale viene violato senza che l’atto sessuale venga completato, non si instaura alcun legame coniugale. Eppure questo comportamento è molto più simile a un rapporto sessuale che a un fidanzamento. Pertanto, il fidanzamento non dà origine a nessun legame coniugale.
+
+Obiezione 3: Inoltre, il fidanzamento non è altro che una promessa di matrimonio futuro. Tuttavia, a volte si verifica una promessa di matrimonio futuro senza che venga stipulato alcun legame affettivo tra le parti interessate; ad esempio, se tale promessa avviene prima dei sette anni d’età; oppure se un uomo, affetto da un impedimento permanente all’attività sessuale, promette a una donna di sposarla in futuro; o ancora se una simile promessa viene fatta tra persone per le quali il matrimonio è vietato da qualche voto o giuramento. Pertanto, il fidanzamento non può creare alcun legame affettivo tra le persone coinvolte.
+
+Al contrario, papa Alessandro (cap. Ad audiendem, De spons. et matrim.) vietò a una certa donna di sposare un certo uomo, poiché era già promessa al fratello di quest’ultimo. Ora, ciò non sarebbe avvenuto se il legame di affinità non fosse stato stabilito attraverso la promessa di matrimonio. Pertanto, eccetera.
+
+Rispondo che, proprio come un fidanzamento non possiede le caratteristiche di un matrimonio perfetto, ma ne rappresenta una preparazione, allo stesso modo il fidanzamento non genera un legame affettivo simile a quello del matrimonio, bensì qualcosa di simile. Questo fenomeno viene definito “giustizia dell’onestà pubblica”; esso costituisce un ostacolo al matrimonio, proprio come l’affinità e la consanguineità, e lo è nella stessa misura. La “giustizia dell’onestà pubblica” è una relazione che sorge dal fidanzamento e riceve la sua validità dall’instituzione ecclesiastica, in virtù della sua natura onesta. Questo spiega sia il motivo del suo nome che la sua origine: tale relazione fu infatti istituita dalla Chiesa proprio per le sue caratteristiche di onestà.
+
+Risposta all’Obiezione 1: Lo fidanzamento, non in sé stesso, ma per lo scopo a cui è rivolto, genera quel tipo di legame conosciuto come “giustizia dell’onestà pubblica”; pertanto, proprio come il matrimonio rappresenta un legame duraturo, anche tale tipo di legame lo è.
+
+Risposta all’Obiezione 2: Nel rapporto carnale, l’uomo e la donna diventano “una carne” attraverso lo scambio dei semi. Pertanto, non ogni invasione o penetrazione del velo virginale determina la formazione di un legame affettivo, ma soltanto quelle che sono seguite da uno scambio di semenzi. Il matrimonio, invece, genera questo legame non solo a causa del rapporto carnale, ma anche grazie alla comunanza coniugale, elemento anch’esso conforme alla natura umana. Di conseguenza, tale legame affettivo deriva dal contratto matrimoniale stesso, espresso attraverso parole solenni prima della sua consumazione; allo stesso modo, il fidanzamento, che rappresenta una promessa di comunanza coniugale, genera un legame simile a quello matrimoniale, ovvero la lealtà e l’onestà reciproca.
+
+Risposta all’Obiezione 3: Tutti quegli ostacoli che rendono nullo un fidanzamento impediscono anche la stipulazione di un legame affettivo attraverso una promessa di matrimonio. Pertanto, sia che colui che effettivamente promette il matrimonio sia minorenne, sia che si trovi sotto un voto solenne di castità o sia soggetto ad altri ostacoli simili, non sorge alcun legame affettivo né nulla di simile, poiché il fidanzamento stesso è nullo. Tuttavia, se un minore, affetto da infermità mentale o malvagità e quindi soggetto a un ostacolo permanente, viene fidanzato prima dell’età della pubertà e dopo i sette anni, con una donna maggiorenne, da tale contratto sorge l’ostacolo denominato “justizia di pubblica onestà”, poiché al momento della stipulazione tale ostacolo non esisteva effettivamente; infatti, a quell’età, il ragazzo affetto da infermità mentale è ugualmente incapace di compiere l’atto in questione.
 
 <span class="atom-split" data-atom="073" data-title="Whether affinity is a cause of affinity?" data-chapter="Whether affinity is a cause of affinity?" data-kind="atom" data-srclang="en"></span>
 
@@ -3882,6 +5228,36 @@ them, either as with father or mother, inasmuch as she descends from them, or, a
 as proceeding from the same principle; wherefore the brother or father of my affine does not become
 affine to me in any kind of affinity.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che anche l’affinità sia una causa di affinità. Infatti Papa Giulio I afferma (cap. Contradicimus 35, qu. iii): “Nessun uomo può sposare una persona con cui ha un legame di sangue ancora in vita”; e nel capitolo successivo si dice che “le mogli di due cugini non possono sposare, una dopo l’altra, lo stesso marito”. Tuttavia ciò avviene soltanto perché l’affinità si instaura attraverso il matrimonio con una persona imparentata. Pertanto, l’affinità è effettivamente una causa di affinità.
+
+Obiezione 2: Inoltre, il rapporto sessuale rende le persone simili, proprio come la procreazione carnale, poiché i gradi di affinità e consanguineità vengono considerati uguali. Ma la consanguineità genera affinità; pertanto anche il rapporto sessuale ne è causa.
+
+Obiezione 3: Inoltre, ciò che è lo stesso per una persona lo è anche per un’altra. Ma la moglie entra in relazioni affettive con tutti i parenti di suo marito. Pertanto, tutti i parenti di suo marito vengono considerati parte della stessa categoria di persone collegate a lei attraverso il legame matrimoniale; quindi, il legame matrimoniale stesso diventa la causa di ulteriori relazioni affettive.
+
+Obiezione 4:
+
+Al contrario, se l’affinità fosse causata da un’altra affinità, un uomo che ha rapporti con due donne non potrebbe sposarne nessuna, poiché in tal caso una delle due sarebbe imparentata con l’altra per via di affinità. Ma ciò è falso. Pertanto, l’affinità non causa altra affinità.
+
+Obiezione 5: Inoltre, se l’affinità derivasse da un’altra affinità, un uomo che sposasse la vedova di un altro uomo entrerebbe in relazione di affinità con tutti i parenti del primo marito di quella donna, poiché è legato a loro da questo vincolo. Ma ciò non può essere vero, perché in tal caso diventerebbe particolarmente legato da affinità al defunto marito di lei. Pertanto, eccetera.
+
+Obiezione 6: Inoltre, il legame di consanguineità è più forte di quello di affinità. Tuttavia, le relazioni di sangue della moglie non diventano relazioni di sangue del marito. Pertanto, ancora meno l’affinità con la moglie può generare un legame di affinità con i suoi parenti di sangue; da ciò deriva lo stesso conclusione.
+
+Rispondo che esistono due modi in cui una cosa deriva da un’altra: in uno modo, una cosa deriva da un’altra per somiglianza di specie, come quando un uomo nasce da un altro uomo; nell’altro modo, una cosa deriva da un’altra senza alcuna somiglianza di specie, e questo processo avviene sempre verso una specie inferiore, come si può osservare in tutti gli agenti equivoci. Nel primo caso, per quanto tale processo possa ripetersi più volte, la stessa specie rimane sempre invariata: ad esempio, se un uomo nasce da un altro attraverso l’atto della generazione, anche da quest’ultimo nascerà un altro uomo, e così via. Nel secondo caso, proprio come nel primo, si produce una nuova specie ogni volta che il processo si ripete. Ad esempio, il movimento da un punto genera una linea, non un altro punto; una linea, se mossa linearmente, genera una superficie, e una superficie un corpo; in questo modo il processo non può proseguire oltre. Nel caso delle relazioni di parentela, si osservano due tipi di processi che ne determinano l’insorgere: uno è legato alla procreazione carnale, che produce sempre la stessa specie di relazione; l’altro è legato al matrimonio, che genera una diversa specie di relazione fin dall’inizio. È quindi evidente che una donna sposata è legata ai parenti del marito non per sangue, ma per affinità. Se questo processo si ripete, il risultato non sarà più l’affinità, ma un’altra forma di relazione; pertanto, le parti sposate stabiliscono con gli affini dell’altra parte una relazione che non è di affinità, ma di un altro tipo, chiamato “affinità di secondo genere”. Inoltre, se una persona entra in relazione con un affine di secondo genere attraverso il matrimonio, questa relazione non sarà di secondo genere, ma di terzo genere, come indicato nel versetto citato sopra. In passato, questi due tipi di relazioni erano inclusi nell’interdizione, considerati sotto l’aspetto della “giustizia pubblica” piuttosto che dell’affinità stessa, poiché non corrispondevano all’affinità vera e propria, proprio come la relazione derivante dal fidanzamento. Oggi, tuttavia, tali relazioni non sono più incluse nell’interdizione, che ora riguarda esclusivamente il primo tipo di affinità, quello che costituisce l’affinità vera e propria.
+
+Risposta all’Obiezione 1: Un marito entra in affinità di primo tipo con i parenti maschi della moglie e in affinità di secondo tipo con la moglie di tali parenti; pertanto, se quest’ultimo muore, il primo non può sposare la vedova a causa dell’affinità di secondo tipo. Inoltre, se un uomo A sposa una vedova B, e C, un parente del precedente marito di B, entra in affinità di primo tipo con B, allora A entra in affinità di secondo tipo con il marito di C; inoltre, se D, la moglie di questo parente C, entra in affinità di secondo tipo con B, allora la moglie di A entra in affinità di terzo tipo con il marito di C. Poiché l’affinità di terzo tipo è stata inclusa nella proibizione soprattutto per motivi legati alla decenza pubblica piuttosto che per ragioni strettamente affettive, il canone (cap. Porro duorum 35, q. iii) afferma: “La giustizia della decenza pubblica vieta alle mogli di due cugini di sposare lo stesso uomo, una dopo l’altra”. Tuttavia, questa proibizione è stata abolita.
+
+Risposta all’Obiezione 2: Sebbene il rapporto sessuale sia una causa per cui le persone si legano tra loro, non si tratta dello stesso tipo di legame.
+
+Risposta all’Obiezione 3: La moglie instaura lo stesso tipo di relazione con i parenti del marito, ma non nella stessa misura né dello stesso grado. Tuttavia, poiché gli argomenti contrari sembrerebbero dimostrare che l’affinità non genera alcun legame reale, dobbiamo rispondervi affinché il divieto tradizionalmente imposto dalla Chiesa non appaia irragionevole.
+
+Risposta all’Obiezione 4: Come già detto, una donna non entra in un legame di affinità del primo tipo con l’uomo con cui è unita carnalmente; pertanto, non entra nemmeno in un legame di affinità del secondo tipo con un’altra donna conosciuta da quell’uomo. Di conseguenza, se un uomo sposa una di queste donne, l’altra non entra in alcun legame di affinità con lui. Ecco perché le leggi dei tempi passati non vietavano a un stesso uomo di sposare successivamente due donne conosciute da lui.
+
+Risposta all’Obiezione 5: Poiché un uomo non è legato a sua moglie da un legame di affinità di primo tipo, allo stesso modo non entra in un legame di affinità di secondo tipo con il secondo marito di quella stessa donna. Pertanto, l’argomentazione non risulta convincente.
+
+Risposta all’Obiezione 6: Una persona non entra in relazione con me attraverso un’altra, se queste due persone non sono già collegate tra loro. Pertanto, attraverso una donna che è imparentata con me, nessuna persona entra in relazione con me, se non quella che è già legata a lei. Ciò può avvenire soltanto attraverso la procreazione carnale o il matrimonio; secondo le antiche leggi, io entrai in qualche tipo di relazione con questa donna attraverso entrambi questi mezzi: infatti, il figlio nato da un altro marito diventa imparentato con me allo stesso modo, ma a un grado diverso, come emerge dalla regola sopra indicata; inoltre, il secondo marito di questa donna diventa imparentato con me secondo un altro tipo di relazione. Tuttavia, le altre parentele di sangue di questa donna non entrano in relazione con me; lei stessa, invece, è legata a loro sia come madre che come figlia, poiché discende da loro, oppure come sorella, poiché proviene dallo stesso lignaggio; pertanto, né il fratello né il padre della mia parente diventano imparentati con me in alcun modo.
+
 <span class="atom-split" data-atom="074" data-title="Whether affinity is an impediment to marriage?" data-chapter="Whether affinity is an impediment to marriage?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that affinity is not an impediment to marriage. For nothing is an
@@ -3910,6 +5286,20 @@ the curbing of concupiscence, which are sought in marriage.
 Reply to Objection 2: The husband's possessions do not become one with him as the wife is
 made one flesh with him. Wherefore just as consanguinity is an impediment to marriage or union
 with the husband according to the flesh, so is one forbidden to marry the husband's wife.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’affinità non costituisca un ostacolo al matrimonio. Infatti, nulla può essere considerato un ostacolo al matrimonio se non ciò che è in contraddizione con esso. Ma l’affinità non è in contraddizione con il matrimonio, poiché ne deriva; pertanto, non costituisce alcun ostacolo al matrimonio.
+
+Obiezione 2: Inoltre, con il matrimonio la moglie diventa una proprietà del marito. Ora i parenti del marito ereditano le sue proprietà dopo la sua morte; pertanto possono succedergli anche nella moglie, nonostante lei sia loro affine, come dimostrato sopra (A[5]). Quindi l’affinità non costituisce un ostacolo al matrimonio.
+
+Al contrario, è scritto (Lv 18:8): “Non dovrai scoprire la nudità della moglie di tuo padre”. Ora lei è soltanto affiniata a lui; pertanto l’affinità rappresenta un ostacolo al matrimonio.
+
+Rispondo che l’affinità che precede il matrimonio ostacola la stipulazione del matrimonio stesso e lo rende nullo, per lo stesso motivo della consanguineità. Proprio come esiste una certa necessità di legami di sangue affinché le persone possano vivere insieme, così esiste questa stessa necessità anche per coloro che sono uniti da affinità; e proprio come esiste un legame di [amicizia](/concepts/friendship) tra parenti di sangue, esiste lo stesso anche tra persone affini. Tuttavia, se l’affinità interviene dopo la stipulazione del matrimonio, essa non può renderlo nullo, come già affermato in precedenza (Q[50], A[7]).
+
+Risposta all’Obiezione 1: L’affinità non è contraria al matrimonio che la genera, ma a un matrimonio contratto con una persona affine, nella misura in cui tale affinità potrebbe ostacolare lo sviluppo dell’amicizia e la repressione della concupiscenza, obiettivi fondamentali del matrimonio stesso.
+
+Risposta all’Obiezione 2: Le proprietà del marito non diventano una cosa con lui, al contrario di quanto accade per la moglie, che viene fatta “una carne” con lui. Pertanto, proprio come il legame di consanguineità costituisce un ostacolo al matrimonio o all’unione con il marito in senso fisico, è altrettanto vietato sposare la moglie del marito stesso.
 
 <span class="atom-split" data-atom="075" data-title="Whether affinity in itself admits of degrees?" data-chapter="Whether affinity in itself admits of degrees?" data-kind="atom" data-srclang="en"></span>
 
@@ -3943,6 +5333,20 @@ Reply to Objection 2: Formerly it used to be said that the son of my affine by a
 was affine to me, not directly but accidentally as it were: wherefore he was forbidden to marry on
 account of the justice of public honesty rather than affinity. And for this reason this prohibition is
 now revoked.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’affinità, in sé stessa, possa presentare diversi gradi. Infatti, qualsiasi tipo di vicinanza può essere soggetto a gradazioni. Poiché l’affinità è un tipo di vicinanza, ne consegue che essa abbia dei gradi intrinseci, indipendentemente dai gradi di consanguineità che la determinano.
+
+Obiezione 2: Inoltre, nel testo (Sentenza iv, D, 41) si afferma che il figlio di un secondo matrimonio non potesse prendere in moglie una persona appartenente agli stessi gradi di affinità del primo marito. Ma ciò non sarebbe vero se il figlio di una persona appartenente a tali gradi di affinità fosse anch’egli considerato tale. Pertanto, l’affinità, proprio come la consanguineità, ammette diversi gradi.
+
+Al contrario, l’affinità è causata dalla consanguineità. Pertanto, tutti i gradi di affinità derivano dai gradi di consanguineità; per questo motivo, l’affinità stessa non possiede gradi propri.
+
+Rispondo che una cosa, di per sé, non può essere divisa se non in relazione a qualcosa che le appartiene per via del suo genere: ad esempio, “animale” viene diviso in “razionale” e “irrazionale”, e non in “bianco” e “nero”. Ora, la procreazione carnale ha una relazione diretta con la consanguineità, poiché il legame di consanguineità si instaura immediatamente attraverso di essa; invece, non ha alcuna relazione con l’affinità se non attraverso la consanguineità, che ne è la causa. Pertanto, poiché i gradi di parentela vengono distinti in riferimento alla procreazione carnale, anche la distinzione dei gradi di affinità è direttamente legata alla consanguineità, e all’affinità stessa attraverso la consanguineità. Da ciò deriva la regola generale per determinare i gradi di affinità: in quale grado di consanguineità sono legato al marito, in quello stesso grado sono legato anche alla moglie.
+
+Risposta all’Obiezione 1: I gradi di vicinanza di relazione possono essere considerati soltanto in riferimento alla linea di discendenza; l’affinità, infatti, viene misurata esclusivamente attraverso il legame di consanguineità. Pertanto, l’affinità non possiede gradi diretti, ma ne deriva i livelli in base ai gradi di consanguineità stessi.
+
+Risposta all’Obiezione 2: In passato si diceva che il figlio di una mia parente acquisita attraverso un secondo matrimonio fosse considerato mio parente, non in modo diretto ma, per così dire, indiretto; per questo motivo gli era vietato di sposarsi, più per motivi di giustizia e onestà pubblica che per ragioni legate alla parentela. Ed è proprio per questa ragione che tale divieto è ora stato revocato.
 
 <span class="atom-split" data-atom="076" data-title="Whether the degrees of affinity extend in the same way as the degrees of consanguinity?" data-chapter="Whether the degrees of affinity extend in the same way as the degrees of consanguinity?" data-kind="atom" data-srclang="en"></span>
 
@@ -3978,6 +5382,20 @@ when the latter died without issue, in order to raise up seed to his brother. Th
 time when religious [worship](/concepts/religion) was propagated by means of the propagation of the flesh, which is
 not the case now. Hence it is clear that he did not marry her in his own person as it were, but as
 supplying the place of his brother.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i gradi di affinità non si estendano nello stesso modo dei gradi di consanguineità. Infatti, il legame di affinità è meno forte di quello di consanguineità, poiché l’affinità deriva dalla consanguineità attraverso differenze di specie, come se provenisse da una causa equivoca. Ora, più forte è un legame, più a lungo dura; pertanto, il legame di affinità non si estende per lo stesso numero di gradi rispetto a quello di consanguineità.
+
+Obiezione 2: Inoltre, la [legge umana](/concepts/human_law) dovrebbe imitare la [legge divina](/concepts/divine_law). Secondo la legge divina, certi gradi di consanguineità erano proibiti, mentre in quegli stessi gradi l’affinità non costituiva un ostacolo al matrimonio; ad esempio, un uomo poteva sposare la moglie di suo fratello, ma non quella di sua sorella. Pertanto, anche oggi il divieto legato all’affinità e alla consanguineità non dovrebbe estendersi agli stessi gradi.
+
+Al contrario, una donna è legata a me per affinità, proprio perché è sposata con un mio parente di sangue. Pertanto, nella misura in cui suo marito è imparentato con me per sangue, lo è anche lei per affinità; quindi i gradi di affinità devono essere calcolati nello stesso numero dei gradi di consanguineità.
+
+Rispondo che, poiché i gradi di affinità vengono calcolati in base ai gradi di consanguineità, anche i gradi di affinità devono necessariamente essere uguali per numero a quelli di consanguineità. Tuttavia, poiché l’affinità rappresenta un legame meno stretto della consanguineità, sia in passato che oggi, è più facile ottenere delle deroghe nei gradi più remoti di affinità rispetto ai gradi più remoti di consanguineità.
+
+Risposta all’Obiezione 1: Il fatto che il legame di affinità sia inferiore a quello di consanguineità comporta una differenza nel tipo di relazione, ma non nei suoi gradi. Pertanto, questo argomento non è pertinente.
+
+Risposta all’Obiezione 2: Un uomo non poteva prendere in moglie la vedova di suo fratello deceduto se quest’ultimo non aveva lasciato discendenza, al fine di garantire la continuità della linea genealogica del fratello. Ciò era necessario in un’epoca in cui la [adorazione](/concepts/religion) religiosa si basava sulla procreazione, cosa che oggi non accade più. Pertanto, è evidente che tale matrimonio non aveva lo scopo di un legame personale tra i due coniugi, ma piuttosto quello di sostituire il ruolo del fratello deceduto nella famiglia.
 
 <span class="atom-split" data-atom="077" data-title="Whether a marriage contracted by persons with the degrees of affinity or consanguinity should always be annulled?" data-chapter="Whether a marriage contracted by persons with the degrees of affinity or consanguinity should always be annulled?" data-kind="atom" data-srclang="en"></span>
 
@@ -4027,6 +5445,24 @@ done about the other marriage: but seemingly one ought to draw a distinction, be
 has certain knowledge of the impediment of his marriage, or he has an opinion about it, or he has
 neither. In the first case, he can neither seek nor pay the debt, in the second, he must pay, but not
 ask, in the third he can both pay and ask.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un matrimonio contratto tra persone che si trovano entro i gradi di affinità o consanguineità non debba sempre essere annullato tramite divorzio. Infatti, “quello che Dio ha unito, nessuno lo separi” (Matteo 19:6). Poiché ciò che fa la Chiesa è considerato come fatto da Dio stesso, e poiché talvolta la Chiesa unisce tali persone per ignoranza, sembrerebbe che, se in seguito questa circostanza venisse a conoscenza delle parti interessate, esse non dovrebbero essere separate.
+
+Obiezione 2: Inoltre, il legame matrimoniale è meno oneroso del legame di proprietà. Dopo un lungo periodo di tempo, un uomo può acquisire per prescrizione la proprietà di una cosa di cui inizialmente non era proprietario. Pertanto, con il trascorrere del tempo, anche un matrimonio diventa valido legalmente, sebbene all’inizio non lo fosse.
+
+Obiezione 3: Inoltre, giudichiamo in modo simile le cose dello stesso genere. Ora, se un matrimonio dovrebbe essere annullato per motivi di consanguineità – ad esempio quando due fratelli sposano due sorelle – e uno dei matrimoni viene annullato per questo motivo, anche l’altro dovrebbe essere annullato per la stessa ragione. Tuttavia, ciò non sembra appropriato. Pertanto, un matrimonio non dovrebbe essere annullato né per motivi di affinità né di consanguineità.
+
+Al contrario, la consanguineità e l’affinità vietano la celebrazione di un matrimonio e rendono tale contratto nullo. Pertanto, se vengono dimostrate l’affinità o la consanguineità, le parti interessate devono essere separate, anche se hanno effettivamente contratto matrimonio.
+
+Rispondo che, poiché ogni rapporto sessuale al di fuori del matrimonio legittimo è un peccato mortale, e la Chiesa fa tutto il possibile per impedirlo, spetta a lei separare coloro tra i quali non può esserci un matrimonio valido, soprattutto coloro che sono imparentati per sangue o affinità e che, senza commettere incesto, non potrebbero unirsi carnalmente.
+
+Risposta all’Obiezione 1: Sebbene la Chiesa sia sostenuta dal dono e dall’autorità di Dio, poiché è un’assemblea di uomini, nelle sue azioni si riscontra qualcosa di debolezza umana che non è divina. Pertanto, un’unione celebrata alla presenza di una Chiesa ignara di un impedimento non è indissolubile per autorità divina, ma viene realizzata contro tale autorità a causa dell’errore umano; un errore di fatto, tuttavia, scusa dal peccato, finché persiste. Quindi, quando l’impedimento viene portato alla conoscenza della Chiesa, questa dovrebbe sciogliere tale unione.
+
+Risposta all’Obiezione 2: Ciò che non può essere compiuto senza peccato non viene mai legittimato da alcuna prescrizione, poiché, come afferma Innocenzo III (Concilio Lateranense IV, canone 50, cap. “Non debent, ”, De consang. et affinit.), “la lunghezza del tempo non diminuisce il peccato, ma lo aumenta”; inoltre, non può in alcun modo rendere legittimo un matrimonio che non potrebbe comunque avere luogo tra persone illegittime.
+
+Risposta all’Obiezione 3: Nei processi contenziosi tra due persone, il verdetto non influisce su terzi; pertanto, anche se il matrimonio di un fratello con una sorella viene annullato per consanguineità, la Chiesa non annulla necessariamente l’altro matrimonio, contro cui non è stata intentata alcuna azione legale. Tuttavia, nel tribunale della coscienza, quel fratello non dovrebbe sempre essere costretto a separarsi dalla propria moglie, poiché tali accuse spesso derivano da cattive intenzioni e vengono avvalorate da testimoni falsi. Pertanto, non è obbligato a guidare la propria coscienza in base a quanto accaduto riguardo all’altro matrimonio; sembra però opportuno fare una distinzione: o egli ha prove certe dell’esistenza di un impedimento al proprio matrimonio, oppure ne ha solo un’opinione, oppure non ne ha alcuna. Nel primo caso, non può né cercare né pagare il “debito” derivante da quel matrimonio; nel secondo caso, deve pagare, ma non chiedere nulla in cambio; nel terzo caso, può sia pagare che chiedere qualcosa.
 
 <span class="atom-split" data-atom="078" data-title="Whether it is necessary to proceed by way of accusation for the annulment of a marriage contracted by persons related to each other by affinity or consanguinity?" data-chapter="Whether it is necessary to proceed by way of accusation for the annulment of a marriage contracted by persons related to each other by affinity or consanguinity?" data-kind="atom" data-srclang="en"></span>
 
@@ -4097,6 +5533,28 @@ cause, his accusation should be heard. otherwise without doubt he should be repu
 suspicion, unless he swear that the information lodged by him came to his knowledge subsequently
 and that he is not moved by ill-will to make his accusation."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non si dovrebbe ricorrere alle accuse al fine di sciogliere un matrimonio contratto tra persone imparentate per affinità o consanguineità. Infatti, l’azione legale basata sull’accusa è preceduta da una dichiarazione formale con cui la parte che presenta l’accusa si impegna a subire le conseguenze legali nel caso non riesca a dimostrare la fondatezza delle sue accuse. Secondo il Diritto Romano, chi presentava un’accusa era obbligato a formalizzarla ufficialmente; cfr. SS, Q[33], A[7]. Tuttavia, questo requisito non è previsto quando si tratta di una separazione coniugale. Pertanto, in tali casi l’uso delle accuse non ha alcun senso.
+
+Obiezione 2: Inoltre, in un processo legato a controversie coniugali vengono ascoltati soltanto i parenti, come indicato nel testo (Sentenza iv, D, 41). Ma nelle accuse vengono ascoltati anche estranei. Pertanto, in un processo per separazione coniugale il procedimento non segue la modalità delle accuse.
+
+Obiezione 3: Inoltre, se un matrimonio dovesse essere denunciato, ciò dovrebbe avvenire soprattutto in quei casi in cui è meno difficile sciogliere il legame coniugale. Ed è proprio quando è stato stipulato soltanto l’impegno di fidanzamento che non si tratta di un matrimonio vero e proprio; pertanto, non dovrebbe mai verificarsi alcuna accusa in altri momenti.
+
+Obiezione 4: Inoltre, il fatto che un uomo non accusi immediatamente non lo impedisce di farlo in seguito. Tuttavia, questo accade nel matrimonio: se rimane in silenzio al momento della stipulazione del contratto nuziale, non potrà denunciare il matrimonio in un secondo momento senza esporre se stesso a sospetti. Pertanto, eccetera.
+
+Al contrario, tutto ciò che è illegale può essere denunciato. Tuttavia, il matrimonio tra parenti per affinità o consanguineità è illegale; pertanto può essere denunciato.
+
+Rispondo che l’accusa viene intentata affinché il colpevole non venga tollerato come se fosse innocente. Proprio come, per ignoranza dei fatti, un uomo colpevole può essere ritenuto innocente, allo stesso modo, per ignoranza di una circostanza particolare, un certo fatto può essere considerato legale quando in realtà lo è meno. Ed è proprio per questo che talvolta un matrimonio viene denunciato: a causa dell’ignoranza di un impedimento, esso viene ritenuto legale quando invece non lo è.
+
+Risposta all’Obiezione 1: La punizione di rappresaglia si attua quando una persona viene accusata di un crimine, poiché in tal caso vengono intraprese azioni al fine di punirla. Tuttavia, quando si tratta di un atto illecito, le azioni intraprese non hanno lo scopo di punire l’autore dell’atto stesso, ma di impedire che esso venga ripetuto. Pertanto, in una causa matrimoniale, l’accusatore non si impegna necessariamente a richiedere una punizione. Inoltre, l’accusa può essere presentata sia a parole che per iscritto, purché vengano chiaramente indicati la persona denunciata e l’impedimento per il quale si procede con la denuncia.
+
+Risposta all’Obiezione 2: Gli estranei non possono conoscere i legami di consanguineità se non attraverso i parenti, poiché questi ne sono a conoscenza con maggiore probabilità. Pertanto, quando i parenti tacciono, un estraneo può essere sospettato di agire con cattive intenzioni, a meno che non desideri che siano proprio i parenti a verificare la sua affermazione. Di conseguenza, a un estraneo viene vietato di accusare quando ci sono parenti che tacciono e attraverso i quali non può dimostrare la fondatezza delle sue accuse. D’altra parte, i parenti, per quanto strettamente imparentati, non sono vietati dall’accusare, soprattutto quando il matrimonio viene denunciato a causa di un impedimento permanente che ne vieta la celebrazione e rende il contratto nullo. Tuttavia, se l’accusa si basa sulla negazione che il matrimonio sia realmente avvenuto, i genitori dovrebbero essere esclusi dalla possibilità di testimoniare, poiché potrebbero essere sospettati; fatta eccezione per quelli appartenenti alla parte di rango e ricchezza inferiore, poiché si può presumere che desiderino comunque che il matrimonio venga confermato.
+
+Risposta all’Obiezione 3: Se il matrimonio non è ancora stato contratto e esiste soltanto un fidanzamento, non può esserci alcuna accusa, poiché ciò che non esiste non può essere oggetto di accuse. Tuttavia, l’impedimento può essere denunciato per evitare che il matrimonio venga effettivamente contratto.
+
+Risposta all’Obiezione 4: Colui che rimane in silenzio all’inizio, a volte viene ascoltato in seguito se desidera denunciare il matrimonio; altre volte, invece, viene respinto. Ciò è chiarito dal Decretale (cap. Cum in tua, De his qui matrim. accus. possunt.), che recita: “Se un accusatore si presenta dopo che il matrimonio è stato contratto, poiché non si è fatto avanti quando, secondo la consuetudine, gli annunci di nozze venivano pubblicati in chiesa, possiamo giustamente chiederci se debba essere permesso a formulare la sua accusa. Riteniamo che in questo caso sia necessario fare una distinzione: se colui che presenta l’accusa contro persone già sposate era assente dalla diocesi al momento della suddetta pubblicazione, o se per qualche altro motivo non ne era a conoscenza – ad esempio a causa di gravi malattie, febbre, giovane età insufficiente per comprendere tali questioni, o impedimenti legittimi – la sua accusa dovrebbe essere ascoltata. Altrimenti, senza dubbio, dovrebbe essere respinta, poiché ciò significherebbe che è sospettabile; salvo che non giuri che le informazioni da lui fornite gli siano state comunicate in un secondo momento e che la sua accusa non sia motivata da cattive intenzioni.”
+
 <span class="atom-split" data-atom="079" data-title="Whether in a suit of this kind one should proceed by hearing witnesses in the same way as in other suits?" data-chapter="Whether in a suit of this kind one should proceed by hearing witnesses in the same way as in other suits?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in such a suit one ought not to proceed by hearing witnesses,
@@ -4129,6 +5587,18 @@ that may occur in such a union (cap. Quoties aliqui; cap. Super eo, De test. et 
 De juram. calumn.).
 This suffices for the Replies to the Objections.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che in un tale processo non si dovrebbe procedere ascoltando testimoni, proprio come avviene in altri processi dove qualsiasi testimone possa essere chiamato a deporre, purché sia considerato idoneo. Tuttavia, qui agli estranei non è permesso partecipare, anche se sono ritenuti idonei. Pertanto, eccetera.
+
+Obiezione 2: Inoltre, i testimoni sospettati di provare odio o affetto personale vengono esclusi dal poter fornire prove. I parenti, in particolare, sono soggetti a sospetti legati all’affetto verso una delle parti e all’odio verso l’altra; pertanto, le loro testimonianze non dovrebbero essere prese in considerazione.
+
+Obiezione 3: Inoltre, il matrimonio rappresenta un contesto più favorevole rispetto ad altri casi in cui sono in gioco esclusivamente questioni di natura corporea. In questi ultimi, la stessa persona non può contemporaneamente ricoprire i ruoli di accusatore e testimone; pertanto, lo stesso dovrebbe valere anche nel caso di un processo matrimoniale. Ne consegue che non sia corretto procedere ascoltando testimoni in un processo di questo tipo.
+
+Al contrario, i testimoni vengono chiamati in un processo al fine di fornire al giudice prove riguardo a questioni dubbi. Ora, le prove dovrebbero essere presentate al giudice in questo processo come in qualsiasi altro, poiché egli non deve emettere una sentenza affrettata su ciò che non è stato dimostrato. Pertanto, sia qui che in altre cause legali, i testimoni devono essere chiamati a deporre.
+
+Rispondo che, come in altri tipi di cause legali, anche in questo la verità deve essere rivelata attraverso i testimoni; tuttavia, come affermano gli avvocati, ci sono molte peculiarità legate a questa causa: innanzitutto, “la stessa persona può agire sia come accusatore che come testimone”; in secondo luogo, le prove non vengono raccolte sotto giuramento, poiché si tratta di una sorta di causa “quasi spirituale”; inoltre, ai parenti è permesso fungere da testimoni; in terzo luogo, l’ordine giudiziario non viene sempre rispettato, poiché se la denuncia viene presentata e la causa non viene contestata, il convenuto può essere scomunicato qualora si mostri recalcitrante; in quarto luogo, vengono ammesse prove basate su dicerie altrui; infine, i testimoni possono essere chiamati soltanto dopo che i loro nomi sono stati resi noti. Tutto ciò è volto a prevenire i peccati che potrebbero verificarsi in una situazione del genere (capp. Quoties aliqui; capp. Super eo, De test. et attest.; capp. Literas, De juram. calumn.). Questo basta per rispondere alle obiezioni sollevate.
+
 <span class="atom-split" data-atom="080" data-title="OF THE IMPEDIMENT OF SPIRITUAL RELATIONSHIP (FIVE ARTICLES)" data-chapter="OF THE IMPEDIMENT OF SPIRITUAL RELATIONSHIP (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the impediment of spiritual relationship: under which head there are
@@ -4138,6 +5608,15 @@ five points of inquiry:
 (3) Between whom?
 (4) Whether it passes from husband to wife?
 (5) Whether it passes to the father's carnal children?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’ostacolo rappresentato dalla relazione spirituale: in questa categoria esistono cinque punti da indagare:  
+(1) Se la relazione spirituale costituisca un ostacolo al matrimonio;  
+(2) Da quale causa essa venga instaurata;  
+(3) Tra quali persone;  
+(4) Se possa trasferirsi dal marito alla moglie;  
+(5) Se possa estendersi anche ai figli carnali del padre.
 
 <span class="atom-split" data-atom="081" data-title="Whether spiritual relationship is an impediment to marriage?" data-chapter="Whether spiritual relationship is an impediment to marriage?" data-kind="atom" data-srclang="en"></span>
 
@@ -4204,6 +5683,29 @@ another being contrary to the same thing, as great and small are contrary to equ
 of worship and spiritual relationship are opposed to marriage, because in one the distance is greater,
 and in the other less, than required by marriage. Hence there is an impediment to marriage in either
 case.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che una relazione spirituale non costituisca un ostacolo al matrimonio. Infatti, nulla può rappresentare un ostacolo al matrimonio se non ciò che è contrario al bene stesso del matrimonio. Ora, una relazione spirituale non è contraria al bene del matrimonio; pertanto, non costituisce un ostacolo al matrimonio.
+
+Obiezione 2: Inoltre, un ostacolo permanente al matrimonio non può coesistere con il matrimonio stesso.  
+Ma una relazione spirituale a volte può coesistere con il matrimonio, come indicato nel testo (Sentenze iv, D, 42): ad esempio, quando un uomo, in caso di necessità, battezza suo figlio, allora instaura una relazione spirituale con sua moglie, eppure il matrimonio non viene sciolto. Pertanto, una relazione spirituale non costituisce un ostacolo al matrimonio.
+
+Obiezione 3: Inoltre, l’unione dello spirito non si estende alla carne. Ma il matrimonio è un’unione della carne. Pertanto, poiché la relazione spirituale è un’unione dello spirito, essa non può rappresentare un ostacolo al matrimonio.
+
+Obiezione 4: Inoltre, le cose contrarie non producono gli stessi effetti. Ora, la relazione spirituale è apparentemente contraria alla disparità nella pratica del [culto](/concepts/religion), poiché tale relazione rappresenta un legame derivante dalla celebrazione di un [sacramento](/concepts/sacrament) o dall’intenzione di farlo [*Vedi l’articolo successivo, punto 3]: mentre la disparità nel culto consiste nella mancanza di un sacramento, come già detto sopra (Q[50], A[1]). Poiché quindi la disparità nel culto rappresenta un ostacolo al matrimonio, sembrerebbe che la relazione spirituale non abbia lo stesso effetto.
+
+Al contrario, più sacra è un legame, maggiormente deve essere protetto. Ora, un legame spirituale è più sacro di un legame fisico; e poiché il legame di parentela fisica rappresenta un ostacolo al matrimonio, ne consegue che anche una relazione spirituale dovrebbe costituire un ostacolo allo stesso. Inoltre, nel matrimonio l’unione delle anime ha un valore più alto rispetto all’unione dei corpi, poiché essa precede quest’ultima. Pertanto, con ancora maggior motivo, una relazione spirituale può impedire il matrimonio quanto lo possa fare una relazione fisica.
+
+Rispondo che, proprio come l’uomo riceve l’esistenza naturale attraverso la procreazione carnale, così riceve l’esistenza spirituale e la grazia attraverso i sacramenti. Pertanto, proprio come il legame derivante dalla procreazione carnale è naturale per l’uomo in quanto essere naturale, allo stesso modo il legame derivante dal ricevimento dei sacramenti è, in un certo senso, naturale per l’uomo in quanto membro della Chiesa. Quindi, proprio come una relazione carnale può ostacolare il matrimonio, così anche una relazione spirituale lo può fare, secondo l’ordine della Chiesa. Tuttavia, è necessario fare una distinzione riguardo a questa relazione spirituale: essa può precedere o seguire il matrimonio. Se precede, ostacola la celebrazione del matrimonio e rende tale atto nullo; se segue, non dissolve il legame coniugale. È inoltre necessario fare un’ulteriore distinzione riguardo all’atto stesso del matrimonio: questa relazione spirituale può essere contratta per necessità – ad esempio quando un padre battezza suo figlio che è sul punto di morire – e in tal caso non costituisce un ostacolo all’atto coniugale; oppure può essere contratta senza alcuna necessità o a causa di ignoranza. In questo secondo caso, se la persona che ha causato tale relazione ha agito con sufficiente cautela, la situazione è analoga alla prima. Infine, questa relazione spirituale può anche essere contratta intenzionalmente e senza alcuna necessità; in tal caso, la persona che l’ha instaurata perde il diritto di richiedere il rimborso delle spese sostenute, ma è obbligata a pagarle se viene sollecitata, poiché il errore di una parte non dovrebbe danneggiare l’altra.
+
+Risposta all’Obiezione 1: Sebbene la relazione spirituale non ostacoli alcuno dei beni principali del matrimonio, ostacola invece uno dei beni secondari, ovvero lo sviluppo dell’[amicizia](/concepts/friendship), poiché la relazione spirituale in sé rappresenta già una ragione sufficiente per instaurare un legame di amicizia. Pertanto, l’intimità e l’amicizia con altre persone devono essere cercate attraverso il matrimonio.
+
+Risposta all’Obiezione 2: Il matrimonio è un legame duraturo; pertanto nessun ostacolo successivo può scioglierlo. Per questo motivo, a volte il matrimonio e un ostacolo al matrimonio coesistono nello stesso tempo, ma non nel caso in cui l’ostacolo esista prima del matrimonio.
+
+Risposta all’Obiezione 3: Nel matrimonio esiste non solo un’unione fisica, ma anche uno spirituale; pertanto, una parentela spirituale rappresenta un ostacolo al matrimonio, senza che sia necessario che una parentela spirituale si concretizzi in una relazione fisica.
+
+Risposta all’Obiezione 4: Non c’è nulla di irragionevole nel fatto che due cose contrarie tra loro siano anche contrarie alla stessa cosa; così come il grande e il piccolo sono contrari all’uguale. Pertanto, la disparità nelle forme di culto e nelle relazioni spirituali sono contrarie al matrimonio, poiché in un caso tale disparità è maggiore, nell’altro minore rispetto a quanto richiesto dal matrimonio stesso. Di conseguenza, in entrambi i casi esiste un ostacolo al matrimonio.
 
 <span class="atom-split" data-atom="082" data-title="Whether spiritual relationship is contracted by baptism only?" data-chapter="Whether spiritual relationship is contracted by baptism only?" data-kind="atom" data-srclang="en"></span>
 
@@ -4299,6 +5801,42 @@ things. Nevertheless he has not, through being his spiritual father, a spiritual
 unless he is like a (carnal) father as to generation which is the way to being. This solution may also
 be applied to the foregoing Eighth Objection.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il legame spirituale possa essere instaurato soltanto attraverso il Battesimo. Poiché il legame di parentela fisica deriva dal parto fisico, allo stesso modo anche il legame spirituale deriva da un “parto spirituale”. Ora, solo il Battesimo è considerato un “parto spirituale”; pertanto, anche il legame spirituale può essere instaurato soltanto attraverso il Battesimo, proprio come il legame di parentela fisica può essere stabilito soltanto attraverso il parto carnale.
+
+Obiezione 2: Inoltre, un carattere particolare viene impresso nell’individuo durante la Riconfermazione. Tuttavia, una relazione spirituale non deriva dall’accettare ordini; pertanto, essa non scaturisce dalla Riconfermazione, ma soltanto dal Battesimo.
+
+Obiezione 3: Inoltre, i sacramenti sono di gran lunga più importanti dei sacramentali. Ora, una relazione spirituale non deriva da certi sacramenti, ad esempio dall’Unzione Estrema. Perciò, tanto meno può derivare dal catechismo, come sostengono alcuni.
+
+Obiezione 4: Inoltre, al Battesimo sono associati molti altri sacramentali, oltre alla catechesi. Pertanto, il rapporto spirituale non viene instaurato attraverso la catechesi, così come non lo è attraverso gli altri sacramentali.
+
+Obiezione 5: Inoltre, la preghiera non è meno efficace dell’insegnamento del catechismo per il progresso verso il bene. Tuttavia, una relazione spirituale non deriva dalla preghiera; pertanto, neppure dall’insegnamento del catechismo.
+
+Obiezione 6: Inoltre, l’insegnamento impartito ai battezzati attraverso la predicazione è altrettanto efficace quanto quello rivolto a coloro che non sono ancora stati battezzati. Tuttavia, nessuna relazione spirituale deriva dalla predicazione, né tantomeno dal catechismo.
+
+Obiezione 7: D’altra parte, è scritto (1 Corinzi 4:15): “In Cristo Gesù, attraverso il vangelo, vi ho generati”. Ora, la nascita spirituale genera una relazione spirituale; pertanto, questa relazione deriva dalla predicazione del vangelo e dall’insegnamento, e non soltanto dal Battesimo.
+
+Obiezione 8: Inoltre, poiché il [-peccato originale](/positions/original_sin) viene eliminato dal Battesimo, allo stesso modo anche il peccato effettivo viene cancellato dalla Penitenza. Pertanto, proprio come il Battesimo instaura una relazione spirituale, lo fa anche la Penitenza.
+
+Obiezione 9: Inoltre, il termine “padre” indica una relazione spirituale. Un uomo viene chiamato “padre spirituale” di un altro in merito alla penitenza, all’insegnamento, alle cure pastorali e a molte altre cose simili. Pertanto, la relazione spirituale può nascere da molteplici fonti, oltre al Battesimo e alla Confermazione.
+
+Rispondo che su questa questione esistono tre opinioni diverse. Alcuni sostengono che, poiché la rigenerazione spirituale viene conferita dalla grazia settuplice dello Spirito Santo, essa sia causata da sette elementi specifici, a partire dal primo assaggio del sale benedetto fino alla Confermazione impartita dal vescovo; affermano inoltre che ogni uno di questi sette elementi contribuisca alla formazione di un legame spirituale. Tuttavia, questa tesi non sembra ragionevole, poiché anche il legame carnale si instaura soltanto attraverso un atto completo di generazione. Pertanto, un legame spirituale dovrebbe essere formato esclusivamente tramite un sacramento. Altri ritengono che tale legame possa essere stabilito soltanto attraverso tre sacramenti: il Catechismo, il Battesimo e la Confermazione; ma questi ultimi non sembrano comprendere appieno il significato delle loro affermazioni, poiché il Catechismo non è un sacramento in senso stretto, bensì un’attività preparatoria al sacramento stesso. Alcuni ancora sostengono che il legame spirituale si instauri soltanto attraverso due sacramenti: la Confermazione e il Battesimo; questa è l’opinione più diffusa. Infine, alcuni ritengono che il Catechismo costituisca un ostacolo di minor rilievo al formarsi di tale legame, poiché impedisce l’ingresso nel matrimonio senza però annullarlo.
+
+Risposta all’Obiezione 1: La nascita carnale può essere considerata in due momenti. Il primo avviene nel grembo materno: in questo caso, colui che nasce è debole e non può uscire senza pericolo; a questa fase della nascita si paragona la rigenerazione attraverso il Battesimo, durante la quale l’uomo viene “rigenerato”, sebbene abbia ancora bisogno di essere “nutrito” nel grembo della Chiesa. Il secondo momento della nascita avviene dopo la separazione dal grembo materno: in questo caso, colui che è nato si è sufficientemente rafforzato per affrontare senza pericolo il mondo esterno, che presenta una naturale tendenza al decadimento. A questa fase si paragona la Confermazione, attraverso la quale l’uomo, essendo stato rafforzato, esce nel mondo per confessare il nome di Cristo. Pertanto, è appropriato che attraverso entrambi questi sacramenti si instauri una relazione spirituale tra le persone.
+
+Risposta all’Obiezione 2: L’effetto del sacramento dell’ordine non è la rigenerazione, ma l’attribuzione di poteri; per questo motivo non viene conferito alle donne e, di conseguenza, non può generare alcun ostacolo al matrimonio. Pertanto, questo tipo di relazione non rientra nella considerazione legale.
+
+Risposta all’Obiezione 3: Nel catechismo si fa professione del Battesimo futuro, proprio come nel fidanzamento si stipula un impegno matrimoniale futuro. Pertanto, così come nel fidanzamento si instaura una certa forma di vicinanza tra le parti coinvolte, allo stesso modo avviene anche nel catechismo, il quale, secondo alcuni, rende il matrimonio almeno illegittimo; ciò non accade invece negli altri sacramenti.
+
+Risposta all’Obiezione 4: Nell’altro sacramentale del Battesimo non si formula alcuna professione di fede, come avviene nel Catechismo; pertanto il confronto non è valido. La stessa risposta vale anche per l’Osservazione Quinta e Sesta.
+
+Risposta all’Obiezione 7: L’Apostolo li aveva istruiti nella fede attraverso un tipo di catechesi; pertanto la sua insegnanza mirava al loro “nascere spirituale”.
+
+Risposta all’Obiezione 8: In senso proprio, una relazione spirituale non viene instaurata attraverso il sacramento della Penitenza. Pertanto, il figlio di un sacerdote può sposare una donna la cui confessione egli stesso ha ascoltato; altrimenti, in tutta la parrocchia non troverebbe alcuna donna con cui poter sposarsi. Inoltre, non importa che attraverso la Penitenza i peccati attuali vengano eliminati: si tratta infatti non di un “atto di nascita”, ma di un processo di guarigione. Tuttavia, la Penitenza instaura una sorta di legame tra la donna che si pente e il sacerdote, legame che presenta alcune somiglianze con una relazione spirituale; pertanto, se il sacerdote avesse rapporti carnali con lei, commetterebbe un peccato gravissimo, come se quella donna fosse sua figlia spirituale. La ragione di ciò è che le relazioni tra sacerdote e penitente sono delle più intime; per questo motivo, al fine di eliminare ogni occasione di peccato, fu stabilita questa proibizione [*Can. Omnes quos, et seqq., Causa xxx].
+
+Risposta all’Obiezione 9: Un padre spirituale è chiamato così per la sua somiglianza con un padre carnale. Ora, come afferma il Filosofo (Etica, viii, 2), un padre carnale dona al proprio figlio tre cose: nutrimento e insegnamenti; pertanto anche un padre spirituale è chiamato così in relazione a una di queste tre cose. Tuttavia, il fatto di essere padre spirituale non implica necessariamente un legame spirituale con la persona che ne riceve l’aiuto, a meno che tale padre non sia simile, sotto il profilo della generazione – che rappresenta il fondamento dell’esistenza – a un padre carnale. Questa spiegazione può essere applicata anche all’Ottava Obiezione menzionata in precedenza.
+
 <span class="atom-split" data-atom="083" data-title="Whether spiritual relationship is contracted between the person baptized and the person who raises him from the sacred font?" data-chapter="Whether spiritual relationship is contracted between the person baptized and the person who raises him from the sacred font?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that spiritual relationship is not contracted between the person
@@ -4339,6 +5877,24 @@ since he is not a member of the Church whom the godparent in Baptism represents:
 can baptize, because he is a creature of God Whom the baptizer represents. And yet he cannot
 contract a spiritual relationship, since he is void of spiritual life to which man is first born by
 receiving Baptism.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che una relazione spirituale non venga instaurata tra la persona battezzata e quella che la prende in custodia dopo il battesimo. Infatti, nella generazione carnale, la relazione carnale viene stabilita soltanto da parte della persona dalla quale proviene lo sperma con cui il bambino viene concepito; non invece da parte di colui che accoglie il bambino dopo la nascita. Pertanto, nemmeno una relazione spirituale può essere instaurata tra chi riceve il battesimo e chi lo somministra durante la cerimonia sacra.
+
+Obiezione 2: Inoltre, colui che battezza una persona presso l’altare sacro viene chiamato {anadochos} da Dionigi (Eccl. Hier. ii); ed è parte del suo compito istruire il bambino battezzato. Tuttavia, l’insegnamento non costituisce una causa sufficiente per stabilire un rapporto spirituale, come già affermato in precedenza (A[2]). Pertanto, non si instaura alcun legame tra colui che battezza e la persona che viene battezzata presso l’altare sacro.
+
+Obiezione 3: Inoltre, può accadere che qualcuno conduca una persona alla sacra fonte prima che questa venga battezzata. In tal caso, non si instaura alcuna relazione spirituale, poiché chi non è stato battezzato non è in grado di vivere una vita spirituale. Pertanto, il fatto di condurre qualcuno alla sacra fonte non è sufficiente per stabilire una relazione spirituale.
+
+Al contrario, esiste la definizione di relazione spirituale citata sopra (A[1]), così come le autorità menzionate nel testo (Sentenza iv, D, 42).
+
+Rispondo che, proprio come nella generazione carnale una persona nasce da un padre e da una madre, così anche nella generazione spirituale una persona viene rigenerata e diventa nuovamente figlio di Dio come Padre, e della Chiesa come Madre. Ora, poiché colui che conferisce il [sacramento](/concepts/sacrament) agisce in nome di Dio, essendo suo strumento e ministro, colui che solleva una persona battezzata dall’altare sacro o assiste il candidato alla Confermazione agisce in nome della Chiesa. Pertanto, si stabilisce un legame spirituale con entrambi.
+
+Risposta all’Obiezione 1: Non solo il padre, dal cui seme nasce il bambino, è legato a lui da un rapporto carnale, ma anche la madre che fornisce il materiale genetico e nel cui grembo il bambino viene concepito. Allo stesso modo, il padrino o la madrina che, al posto della Chiesa, offre e sostiene il candidato al Battesimo e lo accompagna durante la Confessione stabiliscono con lui un rapporto spirituale.
+
+Risposta all’Obiezione 2: Egli instaura una relazione spirituale non in base al dovere di insegnare che gli spetta, ma a causa del processo di nascita spirituale nel quale coopera.
+
+Risposta all’Obiezione 3: Una persona che non è stata battezzata non può battezzare nessuno, poiché non appartiene alla Chiesa che il padrino e la madrina rappresentano nel rito battesimale; tuttavia può effettuare il battesimo, in quanto essa stessa è una creatura di Dio che il battista rappresenta. Tuttavia, tale persona non può instaurare una relazione spirituale, poiché le manca la vita spirituale che l’uomo riceve per la prima volta attraverso il battesimo.
 
 <span class="atom-split" data-atom="084" data-title="Whether spiritual relationship passes from husband to wife?" data-chapter="Whether spiritual relationship passes from husband to wife?" data-kind="atom" data-srclang="en"></span>
 
@@ -4397,6 +5953,28 @@ absurd that the wife become twice godmother of the same person from different ca
 is possible for her to be connected in carnal relationship both by affinity and consanguinity to the
 same person.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la relazione spirituale non possa trasferirsi dal marito alla moglie. Infatti, l’unione spirituale e quella fisica sono diverse e differiscono per natura. Pertanto, l’unione carnale tra marito e moglie non può costituire il mezzo per instaurare una relazione spirituale.
+
+Obiezione 2: Inoltre, il padrino e la madrina hanno molto di più in comune riguardo alla “nascita spirituale”, che è la causa della relazione spirituale, rispetto a quanto un marito, che agisce come padrino, abbia con sua moglie. Ora, il padrino e la madrina non instaurano una relazione spirituale attraverso questo ruolo; pertanto, nemmeno una moglie instaura una relazione spirituale perché suo marito agisce come padrino per qualcuno.
+
+Obiezione 3: Inoltre, può accadere che il marito venga battezzato e sua moglie no, ad esempio quando lui si converte dalla non fede senza che anche lei si converta. Ora, una relazione spirituale non può essere instaurata da una persona che non è stata battezzata. Pertanto, tale relazione non si trasmette necessariamente dal marito alla moglie.
+
+Obiezione 4: Inoltre, marito e moglie possono insieme battezzare una persona, poiché nessuna legge lo vieta. Pertanto, se esistesse una relazione spirituale tra marito e moglie, ne conseguirebbe che ciascuno di loro fosse padrino o madrina due volte dello stesso individuo: il che è assurdo.
+
+Al contrario, i beni spirituali sono più comunicabili dei beni materiali. Tuttavia, il legame di consanguineità fisica tra marito e moglie si trasmette anche attraverso l’affinità; tanto più quindi ciò vale per le relazioni spirituali.
+
+Rispondo che A può diventare co-genitore di B in due modi. Primo, attraverso l’atto di un altro (B), che battezza il figlio di A o lo cresce nel battesimo. In questo caso, la relazione spirituale non passa dal marito alla moglie, a meno che quel bambino non sia suo figlio; in tal caso, lei entra direttamente in questa relazione spirituale, proprio come suo marito. Secondo, attraverso l’atto stesso di A: ad esempio, quando egli cresce il figlio di B dopo il battesimo. In questo caso, la relazione spirituale passa alla moglie, purché tra loro sia già avvenuta unione carnale; altrimenti, non avviene, poiché non sono ancora diventati “una carne”. Questo meccanismo si basa su una sorta di affinità. Pertanto, sembrerebbe che la stessa relazione possa sorgere anche con una donna con cui A abbia avuto un rapporto carnale, anche se non è sua moglie. Da qui il detto: “Non posso sposare la madrina del mio figlio, né la madre del mio nipote; ma posso sposare la madrina del figlio di mia moglie”.
+
+Risposta all’Obiezione 1: Dal fatto che l’unione corporea e quella spirituale siano di generi diversi, possiamo concludere che una non sia l’altra, ma non che l’une non possa causare l’altra, poiché cose di generi diversi a volte si causano a vicenda, direttamente o indirettamente.
+
+Risposta all’Obiezione 2: Il padrino e la madrina della stessa persona non sono uniti nella nascita spirituale di quella persona se non per caso, poiché uno dei due sarebbe sufficiente a tale scopo. Pertanto, da ciò non deriva alcuna relazione spirituale tra loro che possa impedire loro di sposarsi. Ecco quindi il versetto: “Di due genitori coinvolti nella procreazione, uno è sempre di natura spirituale, l’altro carnale: questa regola è infallibile.” D’altra parte, il matrimonio stesso rende marito e moglie una sola carne; pertanto, tale paragone non è applicabile.
+
+Risposta all’Obiezione 3: Se la moglie non è battezzata, il rapporto spirituale non potrà raggiungerla, perché lei non è un soggetto idoneo; e ciò non per motivi legati al fatto che il rapporto spirituale non possa trasmettersi dal marito alla moglie attraverso il matrimonio.
+
+Risposta all’Obiezione 4: Poiché non sussiste alcuna relazione spirituale tra padrino e madrina, nulla impedisce a marito e moglie di allevare insieme una persona battezzata nella chiesa. Non è nemmeno assurdo che la moglie diventi due volte madrina della stessa persona per motivi diversi, proprio come è possibile che lei sia legata a quella stessa persona da rapporti carnali, sia per affinità che per consanguineità.
+
 <span class="atom-split" data-atom="085" data-title="Whether spiritual relationship passes to the godfather's carnal children?" data-chapter="Whether spiritual relationship passes to the godfather's carnal children?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that spiritual relationship does not pass to the godfather's carnal
@@ -4429,6 +6007,20 @@ Reply to Objection 2: A man is not part of his brother as a son is of his father
 part of her husband, since she is made one with him in body. Consequently the relationship does
 not pass from brother to brother, whether the brother be born before or after spiritual brotherhood.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il legame spirituale non si estenda ai figli carnali del padrino. Infatti, al legame spirituale non vengono attribuiti gradi specifici; tuttavia, se tale legame dovesse trasmettersi da padre a figlio, ci sarebbero dei gradi, poiché la nascita di un figlio comporterebbe un cambiamento di grado, come già detto in precedenza (Q[55], A[5]). Pertanto, il legame spirituale non si estende ai figli carnali del padrino.
+
+Obiezione 2: Inoltre, padre e figlio sono legati dallo stesso grado di parentela che fratello e fratello. Pertanto, se esiste una relazione spirituale che si trasmette da padre a figlio, essa dovrebbe trasmettersi ugualmente da fratello a fratello; ma ciò è falso.
+
+Al contrario, ciò viene dimostrato da un’autorità citata nel testo (Sentenze iv, D, 42).
+
+Rispondo che un figlio è in qualche modo “figlio” del proprio padre, e non il contrario (Etica, viii, 12): pertanto la relazione spirituale si estende dal padre al suo figlio carnale, e non viceversa. È quindi evidente che esistono tre tipi di relazioni spirituali: la prima, chiamata paternità spirituale, tra padrino e battesimato; la seconda, chiamata co-paternità, tra il padrino e i genitori carnali della stessa persona; la terza, chiamata fraternità spirituale, tra il battesimato e i figli carnali dello stesso genitore. Ognuna di queste relazioni impedisce il contratto matrimoniale e lo rende nullo.
+
+Risposta all’Obiezione 1: L’aggiunta di una persona attraverso la generazione carnale comporta un certo grado di parentela rispetto a coloro che sono collegati da lo stesso tipo di relazione, ma non rispetto a coloro che sono collegati da un altro tipo di relazione. Ad esempio, un figlio è legato alla moglie di suo padre nello stesso grado in cui lo è a suo padre stesso, ma attraverso un diverso tipo di relazione. Ora, la relazione spirituale differisce per natura da quella carnale; pertanto, un padrino non è legato al figlio carnale del proprio padrino nello stesso grado in cui il padre di quest’ultimo lo è a lui, attraverso il quale si è instaurata la relazione spirituale. Di conseguenza, non si può dedurre che anche la relazione spirituale possa presentare diversi gradi di parentela.
+
+Risposta all’Obiezione 2: Un uomo non fa parte di suo fratello nel modo in cui un figlio fa parte di suo padre. Tuttavia, una moglie fa parte di suo marito, poiché con lui forma un’unica entità fisica. Pertanto, questo legame non si trasmette da un fratello all’altro, indipendentemente dal fatto che questi sia nato prima o dopo l’inizio della loro fraternità spirituale.
+
 <span class="atom-split" data-atom="086" data-title="OF LEGAL RELATIONSHIP, WHICH IS BY ADOPTION (THREE ARTICLES)" data-chapter="OF LEGAL RELATIONSHIP, WHICH IS BY ADOPTION (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider legal relationship which is by adoption. Under this head there are three
@@ -4436,6 +6028,13 @@ points of inquiry:
 (1) What is adoption?
 (2) Whether one contracts through it a tie that is an impediment to marriage?
 (3) Between which persons is this tie contracted.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la relazione giuridica derivante dall’adozione. In questo ambito vi sono tre punti da esaminare:  
+(1) Che cos’è l’adozione?  
+(2) Se attraverso di essa si instaura un legame che costituisce un ostacolo al matrimonio;  
+(3) Tra quali persone tale legame viene stabilito.
 
 <span class="atom-split" data-atom="087" data-title="Whether adoption is rightly defined?" data-chapter="Whether adoption is rightly defined?" data-kind="atom" data-srclang="en"></span>
 
@@ -4535,6 +6134,36 @@ a person is not competent to be chosen to succeed by adoption. And if a relative
 competent to inherit the estate, be adopted, he is adopted not as a relative, but as a stranger lacking
 the right of succeeding to the adopter's goods.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’adozione non venga correttamente definita: “L’adozione è l’atto con il quale una persona assume legalmente come proprio figlio o nipote, ecc., qualcuno che in realtà non le appartiene”. Infatti, un figlio dovrebbe essere soggetto al padre. Ora, a volte la persona adottata non cade sotto il potere dell’adottivo; pertanto, l’adozione non è sempre l’atto di assumere qualcuno come proprio figlio.
+
+Obiezione 2: Inoltre, “I genitori dovrebbero preparare qualcosa per i loro figli” (2 Corinzi 12:14). Tuttavia, il padre adottivo non prepara necessariamente qualcosa per il proprio figlio adottivo, poiché a volte quest’ultimo non eredita i beni del genitore adottivo. Pertanto, l’adozione non rappresenta necessariamente l’accettare qualcuno come proprio figlio.
+
+Obiezione 3: Inoltre, l’adozione, che consiste nel prendere qualcuno come figlio, viene paragonata alla procreazione naturale, che porta alla nascita di un bambino in modo spontaneo. Pertanto, chiunque sia in grado di procreare naturalmente dovrebbe anche essere in grado di adottare. Ma ciò non è vero: né coloro che non sono autonomi nel prendere decisioni, né coloro che hanno meno di venticinque anni, né le donne possono adottare, eppure sono in grado di procreare naturalmente. Quindi, per definizione, l’adozione non rappresenta davvero il “prendere qualcuno come figlio”.
+
+Obiezione 4: Inoltre, considerare come proprio figlio qualcuno che non lo è sembra necessario al fine di colmare la mancanza di figli nati naturalmente. Ora, chi non è in grado di procreare, essendo eunuco o impotente, soffre particolarmente per l’assenza di figli propri. Pertanto, è particolarmente idoneo ad adottare qualcuno come proprio figlio. Ma poiché non è in grado di adottare, l’adozione non rappresenta davvero il considerare qualcuno come proprio figlio.
+
+Obiezione 5: Inoltre, nella relazione spirituale, quando qualcuno viene considerato come un bambino senza una procreazione carnale, non ha alcuna importanza che una persona più anziana diventi il “padre” di una più giovane, o viceversa; poiché anche un giovane può battezzare un anziano e viceversa. Pertanto, se attraverso l’adozione qualcuno viene considerato come un bambino senza essere generato carnalmente, non farebbe differenza che una persona più anziana adottasse una più giovane, o una più giovane un’anziana; il che è contrario alla realtà. Pertanto, si arriva alla stessa conclusione.
+
+Obiezione 6: Inoltre, non esiste alcuna differenza di grado tra il figlio adottivo e l’adottivo. Pertanto, chiunque venga adottato lo viene come bambino; quindi non è corretto affermare che si possa essere adottati anche in qualità di nipoti.
+
+Obiezione 7: Inoltre, l’adozione è il risultato dell’amore; per questo si dice che Dio ci abbia adottati come suoi figli per carità. Ora dovremmo provare una maggiore carità verso coloro che sono legati a noi rispetto verso gli estranei. Pertanto, l’adozione non dovrebbe riguardare un estraneo, ma qualcuno che è legato a noi.
+
+Rispondo che l’arte imita la natura e colma le sue mancanze. Pertanto, proprio come un uomo genera figli attraverso la procreazione naturale, allo stesso modo, tramite il diritto positivo – che rappresenta l’arte di ciò che è buono e giusto – una persona può assumersi un’altra come figlio, analogamente a quanto avviene nella procreazione naturale, al fine di sostituire i figli che ha perso. Questo costituisce il motivo principale per cui l’adozione è stata introdotta. Poiché l’atto di assumersi qualcuno implica necessariamente un “da dove” e un “a dove”, risulta evidente che la persona assunta come figlio debba essere uno straniero. Così come nella procreazione naturale esistono il “fine” (il bambino o il nipote) e il “mezzo” (la forma opposta a quella del fine), anche nella generazione legale si distinguono un “fine” (il figlio o il nipote) e un “mezzo” (lo straniero). Di conseguenza, la definizione sopra esposta include anche l’adozione, poiché essa può essere considerata un “atto legittimo di assumersi qualcuno come figlio”, con lo “straniero” che rappresenta il “mezzo” e il bambino o il nipote il “fine”.
+
+Risposta all’Obiezione 1: La figliolanza adottiva è un’imitazione della figliolanza naturale. Pertanto esistono due tipi di adozione: uno che imita perfettamente la figliolanza naturale, e viene chiamato “arrogatio”; in questo caso la persona adottata entra sotto la potestà dell’adottivo; e l’altro tipo, che non imita completamente la figliolanza naturale, e viene chiamato “adozione semplice”. In questo secondo caso la persona adottata non entra sotto la potestà dell’adottivo, ma si tratta piuttosto di una disposizione preliminare all’adozione perfetta. Con questo tipo di adozione, anche una persona che non è autonoma può adottare, senza il consenso del sovrano e con l’autorità di un magistrato; inoltre, la persona adottata non eredita i beni dell’adottivo, né quest’ultimo è obbligato a lasciarle parte dei propri beni nel testamento, se non lo desidera. Ciò basta per rispondere alla Seconda Obiezione.
+
+Risposta all’Obiezione 3: La procreazione naturale ha lo scopo di perpetuare la specie; pertanto, chiunque non abbia impedimenti nella sua natura specifica è idoneo a procreare naturalmente. L’adozione, invece, mira alla successione ereditaria; quindi sono idonei ad adottare soltanto coloro che hanno il potere di disporre dei propri beni. Di conseguenza, chi non è padrone di sé stesso, chi ha meno di ventiquattro anni o una donna non possono adottare nessuno, se non con l’autorizzazione speciale del sovrano.
+
+Risposta all’Obiezione 4: Un’eredità non può essere trasmessa alla posterità attraverso una persona che presenta un ostacolo permanente alla procreazione; pertanto, proprio per questo motivo, dovrebbe essere trasferita a coloro che, per diritto di relazione, dovrebbero succedergli. Inoltre, la perdita di figli rappresenta un dolore maggiore rispetto al caso in cui non si siano mai avuti figli. Quindi, coloro che sono impossibilitati a procreare non hanno bisogno di alcun conforto per la mancanza di figli, così come coloro che ne hanno avuti e li hanno persi, o che avrebbero potuto averne ma non ne hanno avuti a causa di ostacoli accidentali.
+
+Risposta all’Obiezione 5: La relazione spirituale viene instaurata attraverso un [sacramento](/concepts/sacrament), mediante il quale i fedeli nascono di nuovo in Cristo, in Lui dove non esiste distinzione tra maschio e femmina, schiavo e libero, giovane e anziano (Galati 3:28; Colossesi 3:11). Pertanto, chiunque può diventare padrino di qualcun altro senza alcuna distinzione. Tuttavia, l’adozione ha lo scopo di stabilire una successione ereditaria e una certa sottomissione del figlio adottivo al genitore adottivo; inoltre, non è appropriato che persone più anziane siano subordinate a quelle più giovani nella gestione della famiglia. Di conseguenza, una persona più giovane non può adottare una persona più anziana; secondo la legge, il figlio adottivo deve essere così più giovane dell’adottante da poter essere considerato suo figlio biologico.
+
+Risposta all’Obiezione 6: È possibile perdere i propri nipoti, così come i propri figli. Pertanto, poiché l’adozione è stata introdotta come un conforto per chi ha perso dei figli – proprio come qualcuno può essere adottato al posto di un figlio – allo stesso modo è possibile che qualcuno venga adottato al posto di un nipote, e così via.
+
+Risposta all’Obiezione 7: Un parente dovrebbe succedere per diritto di relazione; pertanto, una tale persona non è idonea ad essere scelta per succedere tramite adozione. E se un parente che non è idoneo a ereditare il patrimonio viene adottato, viene adottato non in qualità di parente, ma come uno straniero privo del diritto di succedere ai beni dell’adottante.
+
 <span class="atom-split" data-atom="088" data-title="Whether a tie that is an impediment to marriage is contracted through adoption?" data-chapter="Whether a tie that is an impediment to marriage is contracted through adoption?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is not contracted through adoption a tie that is an
@@ -4577,6 +6206,22 @@ that is an impediment to marriage.
 
 Reply to Objection 4: The prohibition of a human law would not suffice to make an impediment
 to marriage, unless the authority of the Church intervenes by issuing the same prohibition.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’adozione non crei un legame tale da costituire un ostacolo al matrimonio. Infatti, la cura spirituale è di gran lunga più importante della cura corporea. Tuttavia, nessun legame di parentela viene creato attraverso il fatto che una persona venga sottoposta alla cura spirituale di un’altra: in caso contrario, tutti coloro che risiedono nella parrocchia sarebbero imparentati con il parroco e quindi non potrebbero sposare suo figlio. Pertanto, nemmeno l’adozione, che pone l’adottato sotto la cura dell’adottivo, può comportare tale conseguenza.
+
+Obiezione 2: Inoltre, non sorge alcun legame di parentela quando le persone concedono un beneficio ad altre. Ma l’adozione non è altro che la concessione di un beneficio; pertanto, dall’adozione non deriva alcun legame di parentela.
+
+Obiezione 3: Inoltre, un padre naturale provvede al proprio figlio principalmente in tre modi, come afferma il Filosofo (Etica, viii, 11, 12): dandogli la vita, il nutrimento e l’[educazione](/concepts/education); la successione ereditaria, invece, segue questi aspetti. Ora, non si instaura alcun legame di parentela semplicemente fornendo cibo ed educazione a qualcuno; altrimenti una persona sarebbe imparentata con coloro che la nutrono, la guidano o la istruiscono, il che è falso. Pertanto, neppure l’adozione instaura alcun legame di parentela che permetta di ereditare i beni altrui.
+
+Obiezione 4: Inoltre, i sacramenti della Chiesa non sono soggetti alle leggi umane. Ora il matrimonio è un [sacramento](/concepts/sacrament) della Chiesa; poiché l’adozione è stata introdotta per mezzo di leggi umane, sembrerebbe che un legame derivante dall’adozione non possa costituire un ostacolo al matrimonio.
+
+Al contrario, una sorta di relazione derivante dall’adozione costituisce un ostacolo al matrimonio; infatti, la relazione legale scaturita dall’adozione è proprio definita come “un legame che sorge a seguito dell’adozione”. Pertanto, l’adozione crea un vincolo che impedisce il matrimonio. Ciò viene ulteriormente confermato dalle autorità citate nel testo (Sentenza iv, D, 42).
+
+Rispondo che la [Legge Divina](/concepts/divine_law) vieta esplicitamente il matrimonio tra persone che devono vivere insieme; infatti, come osserva il Rabbino Mosè (Doc. Perp. iii, 49), se fosse legittimo che tali persone intrattenessero rapporti carnali, ci sarebbe maggior spazio per la concupiscenza, e proprio la repressione di questa è lo scopo del matrimonio. Poiché il figlio adottivo vive nella casa del padre adottivo come un figlio biologico, le leggi umane vietano il matrimonio tra persone dello stesso status, e tale divieto è approvato dalla Chiesa. Pertanto, l’adozione legale costituisce un ostacolo al matrimonio. Ciò basta per rispondere alle prime tre obiezioni: nessuna di queste situazioni comporta una convivenza che possa incoraggiare la concupiscenza; quindi, non danno origine a relazioni che rappresentino un ostacolo al matrimonio.
+
+Risposta all’Obiezione 4: Il divieto imposto da una legge umana non sarebbe sufficiente per rendere il matrimonio impossibile, a meno che l’autorità della Chiesa non intervenisse emettendo lo stesso divieto.
 
 <span class="atom-split" data-atom="089" data-title="Whether legal relationship is contracted only between the adopting father and the adopted child?" data-chapter="Whether legal relationship is contracted only between the adopting father and the adopted child?" data-kind="atom" data-srclang="en"></span>
 
@@ -4634,6 +6279,28 @@ of the godfather, as in legal relationship: because it is necessary that whateve
 pass under the power of the adoptive father. Wherefore if a father be adopted the children and
 grandchildren who are in the power of the person adopted are adopted also.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un rapporto di questo tipo possa essere instaurato soltanto tra il padre adottivo e il figlio adottivo. Infatti, sembrerebbe che tale rapporto dovesse soprattutto sorgere tra il padre adottivo e la madre naturale del figlio adottivo, proprio come avviene nei rapporti spirituali. Tuttavia, non esiste alcun legame giuridico tra di loro. Pertanto, tale rapporto non può essere instaurato tra altre persone se non tra l’adottante e il figlio adottivo.
+
+Obiezione 2: Inoltre, il rapporto che impedisce il matrimonio è un impedimento permanente. Tuttavia non esiste alcun impedimento permanente tra il figlio adottivo e la figlia naturale dell’adottante; poiché quando l’adozione termina con la morte dell’adottante, o quando l’adottato raggiunge la maggiore età, quest’ultimo può sposarla. Pertanto, non esisteva alcun legame tale da impedirgli di sposarla.
+
+Obiezione 3: Inoltre, una relazione spirituale non può essere trasferita a una persona incapace di fungere da padrino o madrina; pertanto, non può essere trasferita nemmeno a chi non è stato battezzato. Ora, come già detto (A[1], ad 2), una donna non può adottare; quindi, ne consegue che una relazione legale non può essere trasferita dal marito alla moglie.
+
+Obiezione 4: Inoltre, il legame spirituale è più forte di quello legale. Tuttavia, il legame spirituale non si estende ai nipoti; pertanto, lo stesso vale per il legame legale.
+
+Al contrario, la relazione giuridica è più in linea con l’unione carnale o la procreazione di quanto lo sia una relazione spirituale. Tuttavia, anche la relazione spirituale si trasferisce a un’altra persona; pertanto lo stesso vale per la relazione giuridica. Inoltre, ciò viene confermato dalle autorità citate nel testo (Sentenze iv, D, 42).
+
+Rispondo che le relazioni legali sono di tre tipi. Il primo tipo si instaura, in ordine decrescente, tra il padre adottivo e il figlio adottivo, tra il nipote del figlio adottivo e così via; il secondo tipo riguarda la relazione tra il figlio adottivo e il figlio biologico; il terzo tipo è simile a una sorta di affinità e si verifica tra il padre adottivo e la moglie del figlio adottivo, o viceversa. Pertanto, il primo e il terzo tipo di relazioni costituiscono impedimenti permanenti al matrimonio; il secondo tipo, invece, non lo è, salvo che la persona adottata rimanga sotto l’autorità del padre adottivo; in tal caso, quando il padre muore o quando la persona raggiunge la maggiore età, possono sposarsi.
+
+Risposta all’Obiezione 1: Attraverso la generazione spirituale, il figlio non viene separato dal potere del padre, a differenza di quanto avviene nell’adozione; pertanto il figlioccio rimane contemporaneamente figlio sia del padre che della madre biologici, mentre questo non accade per il figlio adottivo. Di conseguenza, non sorge alcun legame tra il padre adottivo e la madre o il padre naturale del bambino, a differenza di quanto avviene nel caso di una relazione spirituale.
+
+Risposta all’Obiezione 2: La relazione legale rappresenta un ostacolo al matrimonio in quanto le parti convivono; pertanto, quando scompare la necessità di convivere, non è irragionevole che anche tale legame si interrompa, ad esempio quando una delle parti smette di essere sotto l’autorità dello stesso padre. Tuttavia, il padre adottivo e sua moglie mantengono sempre una certa autorità sul figlio adottivo e sulla sua moglie, quindi il legame tra loro rimane in vigore.
+
+Risposta all’Obiezione 3: Anche una donna può adottare con il permesso del sovrano; pertanto anche la relazione legale passa a lei. Inoltre, il motivo per cui la relazione spirituale non si trasferisce a una persona non battezzata non è che tale persona non possa essere padrino o madrina, ma perché essa non è un soggetto idoneo alla spiritualità.
+
+Risposta all’Obiezione 4: Per via di un legame spirituale, il figlio non viene posto sotto il potere e la cura del padrino, come avviene in un rapporto legale; infatti è necessario che tutto ciò che ricade sotto il controllo del figlio passi sotto il potere del padre adottivo. Pertanto, se un padre viene adottato, anche i figli e i nipoti che sono sotto il suo controllo vengono adottati a loro volta.
+
 <span class="atom-split" data-atom="090" data-title="OF THE IMPEDIMENTS OF IMPOTENCE, SPELL, FRENZY OR MADNESS, INCEST AND DEFECTIVE AGE (FIVE ARTICLES)" data-chapter="OF THE IMPEDIMENTS OF IMPOTENCE, SPELL, FRENZY OR MADNESS, INCEST AND DEFECTIVE AGE (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider five impediments to marriage, namely the impediments of impotence,
@@ -4643,6 +6310,15 @@ spell, frenzy or madness, incest, and defective age. Under this head there are f
 (3) Whether frenzy or madness is?
 (4) Whether incest is?
 (5) Whether defective age is?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare cinque ostacoli al matrimonio, ovvero l’impotenza, le maledizioni, la follia o la demenza, l’incesto e l’età non idonea. In merito a questi argomenti vi sono cinque punti da esaminare:  
+(1) Se l’impotenza costituisca un ostacolo al matrimonio;  
+(2) Se le maledizioni lo siano;  
+(3) Se la follia o la demenza lo siano;  
+(4) Se l’incesto lo sia;  
+(5) Se un’età non idonea lo sia.
 
 <span class="atom-split" data-atom="091" data-title="Whether impotence is an impediment to marriage?" data-chapter="Whether impotence is an impediment to marriage?" data-kind="atom" data-srclang="en"></span>
 
@@ -4744,6 +6420,36 @@ the frigidity which renders the man impotent would not disable the woman. Yet th
 natural impediment from another cause, namely stricture, and then we must judge of stricture in
 the woman in the same way as of frigidity in the man.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’impotenza non costituisca un ostacolo al matrimonio. Infatti, la copulazione carnale non è essenziale per il matrimonio, poiché quest’ultimo diventa più perfetto quando entrambe le parti osservano la continenza per voto. Tuttavia, l’impotenza priva il matrimonio soltanto della possibilità di una copulazione carnale; pertanto, non costituisce un ostacolo insormontabile al contratto matrimoniale.
+
+Obiezione 2: Inoltre, proprio come l’impotenza impedisce la copulazione carnale, lo stesso vale per la frigidità. Tuttavia, la frigidità non è considerata un ostacolo al matrimonio; pertanto, nemmeno l’impotenza dovrebbe essere considerata tale.
+
+Obiezione 3: Inoltre, tutte le persone anziane sono fredde nel comportamento sessuale. Tuttavia, gli anziani possono sposarsi. Pertanto, ecc.
+
+Obiezione 4: Inoltre, se una donna sa che l’uomo è frigido al momento del matrimonio, il matrimonio è comunque valido. Pertanto, la frigidità, considerata in sé stessa, non costituisce un ostacolo al matrimonio.
+
+Obiezione 5: Inoltre, la scarsa capacità di provare piacere sessuale potrebbe rappresentare un incentivo sufficiente a spingere un uomo a intraprendere rapporti carnali con una donna che non è vergine, ma non lo sarebbe con una vergine, poiché tale capacità potrebbe essere così debole da esaurirsi rapidamente. Pertanto, tale caratteristica non sarebbe sufficiente per “deflorare” una vergine. Inoltre, potrebbe motivare un uomo in modo adeguato nei confronti di una donna bella, ma non abbastanza nei confronti di una donna poco attraente. Quindi sembrerebbe che la frigidità, sebbene rappresenti un ostacolo in alcuni casi, non lo sia assolutamente in altri.
+
+Obiezione 6: Inoltre, in generale, la donna è più fredda dell’uomo. Tuttavia alle donne non viene vietato di sposarsi; pertanto nemmeno agli uomini dovrebbe essere vietato di farlo a causa della freddezza.
+
+Al contrario, si afferma (Extra, De Frigidis et Malefic., cap. Quod Sedem): “Proprio come un ragazzo incapace di rapporti coniugali non è idoneo al matrimonio, allo stesso modo coloro che sono impotenti sono ritenuti assolutamente inadatti al contratto matrimoniale”. Le persone affette da frigidità rientrano in questa categoria. Pertanto. Inoltre, nessuno può impegnarsi in qualcosa di impossibile. Nel matrimonio, l’uomo si impegna a rapporti carnali; è infatti per questo scopo che concede all’altra parte il potere sul proprio corpo. Quindi, una persona frigida, essendo incapace di rapporti carnali, non può sposarsi.
+
+Rispondo che nel matrimonio esiste un contratto secondo il quale una delle parti è obbligata a rispettare gli impegni coniugali verso l’altra; pertanto, proprio come in altri contratti, tale vincolo non è valido se una persona si impegna a fare qualcosa che non è in grado di realizzare, allo stesso modo il contratto matrimoniale non è valido se viene stipulato da una persona che non è in grado di adempiere ai propri doveri coniugali. Questo impedimento viene generalmente definito “impotenza riguardo al rapporto sessuale” e può derivare da cause intrinseche e naturali, oppure da cause esterne e accidentali (ad esempio incantesimi, di cui parleremo in seguito). Se la causa è naturale, essa può essere temporanea e quindi superabile con cure mediche o col trascorrere del tempo; in tal caso il matrimonio non viene annullato. Tuttavia, se l’impotenza è permanente, il matrimonio diventa nullo, e la persona afflitta da tale impedimento rimane per sempre priva della possibilità di sposarsi, mentre l’altra parte può “sposare chi vuole, nel Signore” (1 Corinzi 7:39). Per stabilire se l’impedimento sia permanente o meno, la Chiesa ha stabilito un termine di tre anni per verificare concretamente la situazione; se dopo tale periodo entrambe le parti hanno cercato onestamente di adempiere ai propri doveri coniugali senza riuscirci, il matrimonio viene dichiarato nullo. Tuttavia, a volte la Chiesa si sbaglia in questa valutazione, poiché tre anni possono non essere sufficienti per dimostrare che l’impotenza è permanente. Se la Chiesa si rende conto di aver commesso un errore e scopre che la persona interessata ha avuto rapporti sessuali con un’altra persona o con lo stesso partner, ristabilisce il primo matrimonio e annulla quello successivo, anche se quest’ultimo è stato contratto con il suo consenso. [*“Al giorno d’oggi è raro che sia necessario esaminare troppo attentamente questa questione, poiché tutti i casi correlati vengono generalmente trattati come dispensazioni dai matrimoni non consumati.” Cfr. Enciclopedia Cattolica, voce “Impedimenti canonici”.]
+
+Risposta all’Obiezione 1: Sebbene l’atto di congiunzione carnale non sia essenziale per il matrimonio, la capacità di compiere tale atto lo è, poiché il matrimonio conferisce a ciascuna delle parti sposate il potere su corpo dell’altra in relazione agli atti coniugali.
+
+Risposta all’Obiezione 2: L’eccessiva freddezza difficilmente può rappresentare un ostacolo permanente. Tuttavia, se dovesse costituire un impedimento alle relazioni coniugali per tre anni, verrebbe considerata tale. In ogni caso, poiché la frigidità rappresenta un ostacolo più grave e più frequente (poiché non solo impedisce lo scambio di essenze vitali ma indebolisce anche gli organi coinvolti nell’unione dei corpi), essa viene considerata un impedimento reale, piuttosto che semplicemente una forma di freddezza. Infatti, tutti i difetti naturali possono essere ricondotti alla frigidità.
+
+Risposta all’Obiezione 3: Sebbene gli anziani non dispongano di sufficiente “calore” fisico per procreare, ne hanno comunque abbastanza per avere rapporti sessuali. Pertanto, è loro permesso sposarsi, nella misura in cui il matrimonio viene considerato un rimedio a tali condizioni; anche se, in realtà, non è adatto a svolgere il ruolo naturale che esso dovrebbe assumere.
+
+Risposta all’Obiezione 4: In tutti i contratti si concorda unanimemente sul fatto che chiunque non sia in grado di adempiere a un obbligo non sia idoneo a stipulare un contratto che richieda l’esecuzione di tale obbligo. Ora, questa incapacità può essere di due tipi: in primo luogo, quando una persona è incapace di adempiere all’obbligo “de jure”; in tal caso il contratto risulta completamente nullo, indipendentemente dal fatto che la parte contraente ne sia a conoscenza o meno. In secondo luogo, quando una persona è incapace di adempiere “de facto”; se la parte contraente ne è a conoscenza e comunque stipula il contratto, ciò indica che quest’ultima ha altri scopi in vista; in tal caso il contratto rimane valido. Tuttavia, se la parte contraente non ne è a conoscenza, il contratto è nullo. Pertanto, la frigidità che rende un uomo incapace di adempiere “de facto” al proprio dovere coniugale, così come lo stato di schiavitù che impedisce a una persona di prestare liberamente i propri servizi, costituiscono ostacoli al matrimonio, purché la parte contraria non sappia dell’incapacità dell’altra. Al contrario, un ostacolo che impedisca a una persona di adempiere all’obbligo coniugale “de jure”, come ad esempio la consanguineità, rende il contratto nullo, indipendentemente dal fatto che l’altra parte ne sia a conoscenza o meno. Per questa ragione, il Maestro afferma (Sentenze iv, D, 34) che questi due ostacoli – frigidità e schiavitù – non rendono del tutto illegale il matrimonio tra le persone colpite da essi.
+
+Risposta all’Obiezione 5: Un uomo non può trovarsi in una condizione naturale che gli impedisca permanentemente di avere rapporti con una persona e no con un’altra. Tuttavia, se non è in grado di compiere l’atto carnale con una vergine, ma lo può fare con una donna che non lo è, la membrana imenea può essere romputa mediante strumenti medici, permettendogli così di avere rapporti con lei. Ciò non sarebbe contrario alla natura, poiché avverrebbe non per piacere, ma a scopo terapeutico. L’avversione verso una donna non rappresenta una causa naturale, bensì un motivo accidentale e esterno; pertanto dobbiamo giudicarla allo stesso modo di quanto faremmo riguardo alle magie, di cui parleremo più avanti (A[2]).
+
+Risposta all’Obiezione 6: L’uomo è l’agente nell’atto della procreazione, mentre la donna ne è la “vittima”; pertanto è necessaria una maggiore capacità di resistenza fisica da parte dell’uomo rispetto alla donna per poter svolgere questo compito. Di conseguenza, la frigidità che rende l’uomo impotente non impedirebbe alla donna di procreare. Tuttavia, può esistere un ostacolo naturale causato da altri fattori, come ad esempio una stenosi; in tal caso, dobbiamo valutare tale condizione nella donna nello stesso modo in cui consideriamo la frigidità nell’uomo.
+
 <span class="atom-split" data-atom="092" data-title="Whether a spell can be an impediment to marriage?" data-chapter="Whether a spell can be an impediment to marriage?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a spell cannot be an impediment to marriage. For the spells in
@@ -4824,6 +6530,28 @@ Moreover, the impediment resulting from witchcraft may result from an impression
 demon on a man's imagination, whereby he is deprived of the [concupiscence](/concepts/concupiscence) that moves him in
 regard to a particular woman and not to another.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che una magia non possa rappresentare un ostacolo al matrimonio. Infatti, le magie in questione sono causate dall’azione dei demoni. Ma i demoni non hanno alcun potere per impedire l’atto matrimoniale, così come non possono impedire altre azioni fisiche; anzi, se lo facessero, disturberebbero l’intero ordine del mondo, poiché ostacolerebbero attività fondamentali come mangiare e camminare. Pertanto, i demoni non possono impedire il matrimonio attraverso la magia.
+
+Obiezione 2: Inoltre, l’opera di Dio è più potente di quella del diavolo. Ma una maledizione rappresenta l’opera del diavolo; pertanto non può ostacolare il matrimonio, che invece è un’opera di Dio.
+
+Obiezione 3: Inoltre, nessun ostacolo, a meno che non sia permanente, può rendere nullo il contratto matrimoniale. Ma una maledizione non può costituire un ostacolo permanente, poiché, dato che il diavolo non ha potere sugli altri se non sui peccatori, tale maledizione verrà annullata qualora il peccato venga eliminato, oppure tramite un’altra maledizione o attraverso gli esorcismi della Chiesa utilizzati per reprimere il potere del demone. Pertanto, una maledizione non può rappresentare un ostacolo al matrimonio.
+
+Obiezione 4: Inoltre, la copulazione carnale non può essere ostacolata, a meno che non esista un impedimento alla forza generativa che ne è il principio. Ma la forza generativa di un uomo è ugualmente relativa a tutte le donne. Pertanto, una sorta magica non potrebbe rappresentare un ostacolo per una singola donna senza esserlo anche per tutte le altre.
+
+Al contrario, si legge nei Decretali (XXXIII, q. 1, cap. iv): “Se per mezzo di stregoni o streghe, ”, e in seguito: “se sono incurabili, devono essere separati”. Inoltre, il potere dei demoni è maggiore di quello dell’uomo: “Non esiste alcun potere sulla terra che possa essere paragonato a colui che non teme nessuno” (Job 41:24). Ora, per l’azione umana, una persona può diventare incapace di rapporti carnali a causa di certi mezzi o della castrazione; e questo rappresenta un ostacolo al matrimonio. Pertanto, molto di più può essere ottenuto con il potere di un demone.
+
+Rispondo che alcuni hanno affermato che la stregoneria non sia altro che un’immaginazione umana, che attribuisce agli incantesimi effetti naturali i cui veri motivi rimangono nascosti. Tuttavia, questa opinione è in contraddizione con l’autorità degli uomini santi, i quali sostengono che i demoni abbiano potere sui corpi e sulle menti umane, quando Dio lo permette; per questo motivo, attraverso di loro gli stregoni possono compiere determinati atti magici. Questa concezione deriva dalla radice dell’incredulità, poiché si ritiene che i demoni esistano soltanto nell’immaginazione delle persone comuni, le quali attribuiscono ai demoni gli orrori che derivano dai propri pensieri; inoltre, a causa di un’immaginazione vivida, alcune forme mentali diventano visibili ai sensi, facendo credere alla loro realtà. Tali affermazioni vengono però rifiutate dalla vera fede, che ci insegna che gli angeli sono caduti dal cielo, che i demoni esistono e che, grazie alla loro natura subdola, sono in grado di compiere molte cose che noi non possiamo; coloro che li inducono a compiere tali atti vengono chiamati stregoni. Altri sostengono invece che la stregoneria possa creare ostacoli alla copulazione carnale, ma che tali ostacoli non siano permanenti; pertanto, essa non annulla il contratto matrimoniale, e si afferma che le leggi che ne stabilivano l’effetto siano state abrogate. Tuttavia, ciò è in contrasto con i fatti reali e con la nuova legislazione che concorda con quella antica. Dobbiamo quindi fare una distinzione: l’incapacità di copulare causata dalla stregoneria può essere permanente, nel qual caso annulla il matrimonio; oppure non è permanente, e in tal caso non lo annulla. Per verificare concretamente questa ipotesi, la Chiesa ha stabilito un periodo di tre anni, proprio come abbiamo fatto per il problema della frigidità. Tuttavia, c’è una differenza tra un incantesimo e la frigidità: una persona che è impotente a causa della frigidità lo è in modo uniforme con tutte le donne, e quindi, quando il matrimonio viene annullato, non le è permesso sposare un’altra donna; mentre, a causa di uno stregonamento, un uomo può essere impotente con una donna e no con un’altra, e pertanto, quando il matrimonio viene annullato, ciascuna delle parti può cercare un altro partner.
+
+Risposta all’Obiezione 1: La prima forma di corruzione causata dal peccato, attraverso la quale l’uomo divenne schiavo del diavolo, ci fu trasmessa attraverso l’atto della procreazione; per questo motivo Dio permette al diavolo di esercitare il proprio potere di stregoneria in questo atto più che in altri. Anche così, il potere di stregoneria si manifesta maggiormente nei serpenti che in altri animali, secondo il Genesi 3, poiché fu attraverso un serpente che il diavolo tentò la donna.
+
+Risposta all’Obiezione 2: L’opera di Dio può essere ostacolata dall’opera del diavolo, con il permesso stesso di Dio; non perché il diavolo sia più potente di Dio al punto da poter distruggere le sue opere con la violenza.
+
+Risposta all’Obiezione 3: Alcuni incantesimi sono così permanenti che non possono essere contrastati con mezzi umani, anche se Dio potrebbe fornire una soluzione costringendo il demone o facendolo desistere. Infatti, come ammettono stessi i maghi, non è sempre vero che ciò che può essere distrutto da un tipo di stregoneria possa essere eliminato con un altro tipo; inoltre, anche se fosse possibile utilizzare la stregoneria come rimedio, essa verrebbe comunque considerata un mezzo permanente, poiché non si dovrebbe mai ricorrere all’aiuto del demone attraverso pratiche magiche. Inoltre, anche se il diavolo abbia ottenuto potere su una persona a causa di un peccato, ciò non significa che quel potere cessi con il peccato stesso, poiché talvolta la punizione continua anche dopo la rimozione dell’errore. Infine, gli esorcismi della Chiesa non riescono sempre a reprimere tutte le molestie dei demoni sul corpo umano, se Dio lo vuole; tuttavia, sono sempre efficaci contro quegli attacchi demoniaci per i quali sono stati istituiti.
+
+Risposta all’Obiezione 4: La stregoneria talvolta causa un ostacolo riguardo a tutti, altre volte soltanto a uno specifico individuo; ciò perché il diavolo è una causa volontaria che non agisce per necessità naturale. Inoltre, l’ostacolo derivante dalla stregoneria può essere dovuto all’impressione che il demone suscita nell’immaginazione di un uomo, impedendogli di provare la [concupiscenza](/concepts/concupiscence) che lo spinge verso una determinata donna e non verso un’altra.
+
 <span class="atom-split" data-atom="093" data-title="Whether madness is an impediment to marriage?" data-chapter="Whether madness is an impediment to marriage?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that madness is not an impediment to marriage. For spiritual
@@ -4866,6 +6594,28 @@ in order to void the marriage.
 Reply to Objection 4: This impediment is reducible to error, since in either case there is lack
 of consent on the part of the reason.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la follia non costituisca un ostacolo al matrimonio. Poiché il matrimonio spirituale, celebrato durante il Battesimo, è di gran lunga più nobile del matrimonio carnale; inoltre, le persone folli possono essere battezzate. Pertanto, possono anche sposarsi.
+
+Obiezione 2: Inoltre, la frigidità rappresenta un ostacolo al matrimonio poiché impedisce il rapporto sessuale, mentre la follia non ne ostacola l’esecuzione. Pertanto, nemmeno il matrimonio viene compromesso da tale condizione.
+
+Obiezione 3: Inoltre, il matrimonio non viene annullato se non in caso di un ostacolo permanente. Tuttavia, non si può stabilire con certezza se la follia costituisca un ostacolo permanente; pertanto, essa non rende invalido il matrimonio.
+
+Obiezione 4: Inoltre, gli ostacoli che impediscono il matrimonio sono sufficientemente menzionati nelle citazioni sopra riportate (Q[50]). Tuttavia, in esse non viene fatta alcuna menzione della pazzia. Pertanto, ecc.
+
+Al contrario, la follia elimina l’uso della ragione in misura maggiore dell’errore. Tuttavia, l’errore rappresenta un ostacolo al matrimonio; pertanto anche la follia lo è. Inoltre, le persone folli non sono idonee a stipulare contratti, e il matrimonio è senz’altro un contratto. Quindi, eccetera.
+
+Rispondo che la follia può essere precedente o successiva al matrimonio. Se è successiva, in nessun modo annulla il matrimonio; se invece è precedente, allora la persona folle presenta periodi di lucidità, oppure no. Se presenta tali periodi, anche se non è sicuro che sposandosi in quei momenti possa educare correttamente i propri figli, il matrimonio rimane valido. Tuttavia, se non esistono periodi di lucidità, o se si sposa durante un periodo di confusione mentale, allora, poiché non può esserci consenso senza l’uso della ragione, il matrimonio è invalido.
+
+Risposta all’Obiezione 1: L’uso della ragione non è necessario per il Battesimo in quanto sua causa, al contrario di quanto avviene per il matrimonio. Pertanto, tale paragone non è pertinente. Tuttavia, abbiamo parlato del Battesimo delle persone folli (TP, Q[68], A[12]).
+
+Risposta all’Obiezione 2: La follia impedisce il matrimonio da parte di colui che deve dare il consenso, sebbene non lo impedisca nemmeno nell’atto stesso, a differenza della frigidità. Tuttavia, il Maestro tratta queste due condizioni insieme, poiché entrambe rappresentano difetti naturali (Sentenze, iv, D, 34).
+
+Risposta all’Obiezione 3: Un ostacolo temporaneo che impedisce il raggiungimento dello scopo del matrimonio, ovvero il consenso reciproco, rende l’unione matrimoniale completamente nula. Tuttavia, un ostacolo che interferisce con l’esecuzione stessa dell’atto matrimoniale deve necessariamente essere di natura permanente affinché possa rendere il matrimonio invalido.
+
+Risposta all’Obiezione 4: Questo ostacolo può essere ridotto a un errore, poiché in entrambi i casi manca il consenso da parte della ragione stessa.
+
 <span class="atom-split" data-atom="094" data-title="Whether marriage is annulled by the husband committing incest with his wife's sister?" data-chapter="Whether marriage is annulled by the husband committing incest with his wife's sister?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that marriage is not annulled by the husband committing incest
@@ -4899,6 +6649,20 @@ contravening the law of the Church, but his marriage is not for this reason to b
 suffices for the Replies to the Objections, for incest is accounted an impediment to marriage not
 so much for its being a sin as on account of the affinity which it causes. For this reason it is not
 mentioned with the other impediments, but is included in the impediment of affinity.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il matrimonio non venga annullato se il marito commette incesto con la sorella di sua moglie. Infatti, la moglie non dovrebbe essere punita per il peccato del marito; tuttavia, verrebbe punita se il matrimonio venisse annullato. Pertanto, eccetera.
+
+Obiezione 2: Inoltre, è un peccato più grave conoscere il proprio parente che conoscere il parente di propria moglie. Tuttavia, il primo peccato non costituisce un ostacolo al matrimonio; pertanto, nemmeno il secondo lo è.
+
+Obiezione 3: Inoltre, se ciò venisse inflitto come punizione per il peccato, sembrerebbe che, anche nel caso in cui un marito incestuoso sposasse nuovamente dopo la morte di sua moglie, i due dovessero essere separati; il che non è vero.
+
+Obiezione 4: Inoltre, questo ostacolo non è menzionato tra quelli elencati sopra (Q[50]). Pertanto, non rende nullo il contratto di matrimonio.
+
+Al contrario, conoscendo la sorella di sua moglie, entra in rapporto di affinità con lei; ma tale affinità rende nullo il contratto matrimoniale. Pertanto, anche l’incesto menzionato prima costituisce un atto che annulla il matrimonio. Inoltre, per qualsiasi peccato un uomo commetta, è proprio con quel peccato stesso che viene punito. Ora, poiché tale uomo ha peccato contro i principi del matrimonio, dovrebbe essere punito privandolo della possibilità di contrarre matrimoni.
+
+Rispondo che, se un uomo entra in relazione con la sorella o con qualche altro parente di sua moglie prima di contrarre matrimonio, anche dopo essersi fidanzato, il matrimonio deve essere annullato a causa dell’affinità risultante. Tuttavia, se tale relazione ha luogo dopo che il matrimonio è stato contratto e consumato, non deve necessariamente essere sciolto del tutto: l’uomo, però, perde il diritto al rapporto coniugale e non può richiederlo senza peccare; deve comunque acconsentire se gli viene chiesto, poiché la moglie non dovrebbe essere punita per il peccato del marito. Dopo la morte della moglie, egli non dovrebbe più avere alcuna speranza di sposarsi, a meno che non riceva una dispensa a causa delle sue debolezze o per timore di rapporti illeciti. Se, invece, si sposa senza tale dispensa, commette un peccato violando la legge della Chiesa, ma ciò non implica l’annullamento del matrimonio. Questo basta per rispondere alle obiezioni: l’incesto è considerato un ostacolo al matrimonio non tanto perché rappresenti un peccato, quanto piuttosto a causa dell’affinità che ne deriva. Per questo motivo non viene menzionato insieme agli altri ostacoli, ma è incluso tra quelli legati all’affinità stessa.
 
 <span class="atom-split" data-atom="095" data-title="Whether defective age is an impediment to marriage?" data-chapter="Whether defective age is an impediment to marriage?" data-kind="atom" data-srclang="en"></span>
 
@@ -4961,6 +6725,32 @@ Reply to Objection 5: The impediment arising from defective age, like that which
 madness, is reducible to the impediment of error; because a man has not yet the full use of his
 free-will.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’età inferiore non costituisca un ostacolo al matrimonio. Infatti, secondo le leggi, i bambini sono sotto la cura di un tutore fino al loro ventiquattresimo anno. Pertanto, sembrerebbe che prima di quell’età la loro ragione non sia sufficientemente matura per dare il consenso necessario, e quindi che tale età dovrebbe essere quella fissata per il matrimonio. Tuttavia, il matrimonio può essere contratto anche prima di quell’età. Quindi, l’assenza dell’età prescritta non rappresenta un ostacolo al matrimonio.
+
+Obiezione 2: Inoltre, proprio come il legame religioso è perpetuo, lo stesso vale per il legame matrimoniale. Secondo la nuova legislazione (cap. Non Solum, De regular. et transeunt.), nessuno può professare una fede religiosa prima dei quattordici anni di età; pertanto, nemmeno una persona potrebbe sposarsi se l’età insufficiente rappresentasse un ostacolo.
+
+Obiezione 3: Inoltre, proprio come il consenso sia necessario per il matrimonio da parte dell’uomo, lo è anche da parte della donna. Ora, una donna può sposarsi prima dei quattordici anni; pertanto, anche un uomo può farlo allo stesso modo.
+
+Obiezione 4: Inoltre, l’incapacità di avere rapporti sessuali, a meno che non sia permanente e nota, non costituisce un ostacolo al matrimonio. Tuttavia, la mancanza di età né è permanente né è nota; pertanto, nemmeno essa rappresenta un ostacolo al matrimonio.
+
+Obiezione 5: Inoltre, non rientra in alcuno dei suddetti ostacoli (Q[50]) e, pertanto, sembrerebbe non costituire un ostacolo al matrimonio.
+
+Al contrario, un Decreto (cap. Quod Sedem, De frigid et malefic.) afferma che “un ragazzo incapace di rapporti coniugali non è idoneo al matrimonio”. Tuttavia, nella maggior parte dei casi, egli non è in grado di pagare i debiti derivanti dal matrimonio prima dell’età di quattordici anni (De Animalibus vii). Pertanto. Inoltre, secondo il Filosofo, “esiste un limite fisico e uno sviluppo preciso per tutte le cose della natura” (De Anima ii, 4); ne consegue che, poiché il matrimonio è una realtà naturale, deve necessariamente avere un’età minima entro la quale possa essere celebrato; al di sotto di tale età, esso diventa impossibile.
+
+Rispondo che, poiché il matrimonio si conclude attraverso un contratto, esso rientra nell’ambito delle disposizioni del diritto positivo, come tutti gli altri contratti. Pertanto, secondo la legge (cap. Tua, De sponsal. impub.), è stabilito che il matrimonio non possa essere contratto prima dell’età in cui entrambe le parti siano in grado di riflettere adeguatamente sulla sua conclusione e di adempiere reciprocamente ai propri doveri coniugali; altrimenti, tali matrimoni sono invalidi. Nella maggior parte dei casi, tale età è fissata al quattordicesimo anno per gli uomini e al dodicesimo anno per le donne. Tuttavia, poiché le disposizioni del diritto positivo si basano su ciò che avviene nella stragrande maggioranza dei casi, se qualcuno raggiunge la maturità richiesta prima di tale età, in modo che natura e ragione siano sufficientemente sviluppate per compensare la mancanza di età legale, il matrimonio non viene annullato. Pertanto, anche se le parti che si sposano prima dell’età della pubertà hanno rapporti coniugali prima di tale età, il loro matrimonio rimane perpetuamente indissolubile.
+
+Risposta all’Obiezione 1: Nei casi in cui la natura stessa orienta le persone, non è necessario uno sviluppo particolare della ragione per poter prendere decisioni; pertanto è possibile, dopo aver riflettuto, accettare di sposarsi anche prima di essere in grado di gestire autonomamente le proprie faccende in altri ambiti, senza l’aiuto di un tutore.
+
+Risposta all’Obiezione 2: La stessa risposta vale, poiché il voto religioso riguarda questioni al di fuori delle inclinazioni naturali e rappresenta un impegno più arduo di quello coniugale.
+
+Risposta all’Obiezione 3: Si afferma che la donna raggiunga l’età della pubertà prima dell’uomo (De Animalibus, IX); pertanto non esiste alcuna analogia tra i due casi.
+
+Risposta all’Obiezione 4: In questo caso esiste un ostacolo non solo legato all’incapacità di copulare, ma anche dovuto al difetto della ragione, che non è ancora in grado di dare correttamente quel consenso che debba durare per l’eternità.
+
+Risposta all’Obiezione 5: L’impedimento derivante da un’età insufficiente, così come quello derivante dalla follia, può essere considerato un impedimento legato all’errore; infatti, in tali casi l’uomo non dispone ancora del pieno uso della propria volontà libera.
+
 <span class="atom-split" data-atom="096" data-title="OF DISPARITY OF WORSHIP AS AN IMPEDIMENT TO MARRIAGE (SIX ARTICLES)" data-chapter="OF DISPARITY OF WORSHIP AS AN IMPEDIMENT TO MARRIAGE (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider disparity of [worship](/concepts/religion) as an impediment to marriage. Under this head
@@ -4972,6 +6762,16 @@ to be converted?
 (4) Whether he may leave his unbelieving wife?
 (5) Whether after putting her away he may take another wife?
 (6) Whether a husband may put aside his wife on account of other sins as he may for unbelief?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la disparità nelle forme di [adorazione](/concepts/religion) come un ostacolo al matrimonio. In questo ambito vi sono sei punti da esaminare:  
+(1) Un credente può sposare una persona non credente?  
+(2) Esiste il matrimonio tra persone non credenti?  
+(3) Se un marito si converte alla fede, può rimanere con sua moglie se lei rifiuta di convertirsi?  
+(4) Può lasciare sua moglie che non crede?  
+(5) Dopo averla lasciata, può prendersi un’altra moglie?  
+(6) Un marito può lasciare sua moglie anche a causa di altri peccati, oltre alla mancanza di fede?
 
 <span class="atom-split" data-atom="097" data-title="Whether a believer can marry an unbeliever?" data-chapter="Whether a believer can marry an unbeliever?" data-kind="atom" data-srclang="en"></span>
 
@@ -5047,6 +6847,32 @@ marry an excommunicate woman, and yet the marriage would not be void: whereas on
 hand if a catechumen having right faith but not having been baptized were to marry a baptized
 believer, the marriage would not be valid.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un credente possa sposare una persona non credente. Infatti, Giuseppe sposò una donna egizia e Ester sposò Assuero; in entrambi i matrimoni vi era disomogeneità nella [fede religiosa](/concepts/religion), poiché uno dei coniugi era non credente e l’altro credente. Pertanto, la disomogeneità nella fede religiosa prima del matrimonio non costituisce un ostacolo ad esso.
+
+Obiezione 2: Inoltre, l’[Antico Testamento](/concepts/divine_law) insegna la stessa fede del Nuovo Testamento. Tuttavia, secondo l’Antico Testamento era possibile che un credente sposasse una non credente, come dimostra Deuteronomio 21:10 e seguenti: “Se vai in battaglia, e vedi tra i prigionieri una donna bella e la desideri, puoi prenderla per moglie. Potrai dormire con lei e diventerà tua moglie”. Pertanto, anche secondo il Nuovo Testamento ciò è legittimo.
+
+Obiezione 3: Inoltre, il fidanzamento ha lo scopo di portare al matrimonio. Ora, può esserci un fidanzamento tra una persona credente e una non credente, nel caso in cui venga posta come condizione la futura conversione della seconda. Pertanto, sotto la stessa condizione, può esserci anche un matrimonio tra di loro.
+
+Obiezione 4: Inoltre, ogni ostacolo al matrimonio è in qualche modo contrario al matrimonio stesso. Ma l’infedeltà non è contraria al matrimonio, poiché il matrimonio svolge una funzione naturale la cui realizzazione richiede proprio la fede. Pertanto, la diversità di credo religioso non costituisce un ostacolo al matrimonio.
+
+Obiezione 5: Inoltre, talvolta esiste disparità nella pratica del culto anche tra due persone battezzate, ad esempio quando, dopo il battesimo, una persona cade in eresia. Tuttavia, se tale persona sposa un credente, il matrimonio rimane valido. Pertanto, la disparità nella pratica del culto non costituisce un ostacolo al matrimonio.
+
+Al contrario, è scritto (2 Corinzi 6:14): “Che concordia c’è tra la luce e le tenebre?[*Vulgata:* ‘Che rapporto c’è tra la luce e le tenebre? E che concordia c’è tra Cristo e Belial?’” Ora, esiste la massima armonia tra marito e moglie; pertanto colui che si trova nella luce della fede non può sposare qualcuno che vive nell’oscurità dell’incredulità. Inoltre, è scritto (Malachia 2:11): “Giuda ha profanato la santità del Signore, che amava, e si è unito alla figlia di un dio straniero.” Ma ciò non sarebbe mai accaduto se avessero potuto sposarsi in modo legittimo. Pertanto, la diversità nelle pratiche religiose rappresenta un ostacolo al matrimonio.
+
+Rispondo che il principale bene del matrimonio è la prole, che deve essere educata al culto di Dio. Poiché l’[educazione](/concepts/education) è un compito condiviso da padre e madre, ciascuno di loro intende educare il figlio al culto di Dio secondo la propria fede. Pertanto, se i due coniugi hanno fedi diverse, le loro intenzioni saranno opposte, e quindi non può esserci un matrimonio appropriato tra di loro. Per questo motivo, la diversità di fede prima del matrimonio costituisce un ostacolo al contratto matrimoniale.
+
+Risposta all’Obiezione 1: Nella Legge Antica era consentito sposarsi con alcuni infedeli, mentre con altri tale matrimonio era vietato. Tuttavia, questo divieto era particolarmente rigido nei confronti degli abitanti della terra di Canaan, sia perché il Signore aveva ordinato di ucciderli a causa della loro ostinazione, sia perché esisteva un rischio maggiore che essi inducessero all’idolatria coloro che sposavano o i loro figli; infatti, gli Israeliti erano più propensi ad adottare i loro riti e costumi vivendo tra di loro. Tuttavia, con altri infedeli tale matrimonio era permesso, soprattutto quando non si temeva che venissero trascinati nell’idolatria. Ecco perché Giuseppe, Mosè ed Ester sposarono persone infedeli. Ma sotto la Nuova Legge, che è diffusa in tutto il mondo, questo divieto si estende, con uguali motivazioni, a tutti gli infedeli. Pertanto, una differenza di credo religioso prima del matrimonio costituisce un ostacolo alla sua celebrazione e rende tale contratto nullo.
+
+Risposta all’Obiezione 2: Questo legge si riferisce o ad altre nazioni con le quali è possibile sposarsi legalmente, oppure al caso in cui la donna prigioniera sia disposta a convertirsi alla fede e al culto di Dio.
+
+Risposta all’Obiezione 3: Il presente è correlato al presente nello stesso modo in cui il futuro è correlato al futuro. Pertanto, proprio come quando si contrae un matrimonio nel presente è richiesta l’unione nella preghiera da entrambe le parti contraenti, allo stesso modo, nel caso di un fidanzamento – che rappresenta una promessa di matrimonio futuro – basta aggiungere la condizione dell’unione futura nella preghiera.
+
+Risposta all’Obiezione 4: È stato chiarito che la disparità nelle pratiche di culto è contraria al matrimonio, in relazione al suo bene principale, ovvero il benessere della prole.
+
+Risposta all’Obiezione 5: Il matrimonio è un [sacramento](/concepts/sacrament); pertanto, per quanto riguarda gli elementi essenziali del sacramento stesso, richiede purezza in relazione al “sacramento della fede”, ovvero il Battesimo, e non in relazione alla fede interiore. Per questa stessa ragione, tale impedimento non viene definito “disparità di fede”, ma “disparità di culto”, che riguarda gli aspetti esteriori del servizio religioso, come già detto sopra (Sentenze, iii, D, 9, Q[1], A[1], qu. 1). Di conseguenza, se un credente sposa una eretica battezzata, il matrimonio è valido; tuttavia, pecca nel farlo se sa che lei è un’eretica. Lo stesso vale se sposasse una donna scomunicata: il matrimonio non sarebbe invalido. D’altra parte, se un catechumeno che possiede la fede giusta ma non è stato battezzato sposasse un credente battezzato, il matrimonio non sarebbe valido.
+
 <span class="atom-split" data-atom="098" data-title="Whether there can be marriage between unbelievers?" data-chapter="Whether there can be marriage between unbelievers?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there can be no marriage between unbelievers. For matrimony
@@ -5119,6 +6945,32 @@ her: since this is an act of justice and of temperance which observes the due ci
 of touch; even as neither does he sin in performing acts of other civic virtues. Again, the reason
 why the whole life of unbelievers is said to be a sin is not that they sin in every act, but because
 they cannot be delivered from the bondage of sin by that which they do.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non possa esserci matrimonio tra gli infedeli. Poiché il matrimonio è un [sacramento](/concepts/sacrament) della Chiesa, e il battesimo rappresenta l’ingresso ai sacramenti, gli infedeli, essendo privi del battesimo, non possono sposarsi, così come non possono ricevere altri sacramenti.
+
+Obiezione 2: Inoltre, due mali rappresentano un ostacolo maggiore al bene rispetto a uno solo. Ma l’infedeltà di una sola parte costituisce già un ostacolo al matrimonio; quindi, molto di più lo è l’infedeltà di entrambe le parti, e di conseguenza non può esserci matrimonio tra persone infedeli.
+
+Obiezione 3: Inoltre, proprio come esiste disparità nella [adorazione](/concepts/religion) tra credenti e non credenti, essa può esistere anche tra due non credenti, ad esempio se uno è pagano e l’altro ebreo. Ora, la disparità nell’adorazione rappresenta un ostacolo al matrimonio, come già detto sopra (A[1]). Pertanto, non può esserci un matrimonio valido almeno tra non credenti che praticano forme diverse di adorazione.
+
+Obiezione 4: Inoltre, nel matrimonio esiste una vera castità. Ma secondo [Agostino](/figures/augustine) (De Adulto Conjugato, I, 18), non esiste vera castità tra un non credente e sua moglie; queste parole vengono citate nei Decretali (XXVIII, q. i, can. Sic enim.). Pertanto, nemmeno in questo caso esiste un vero matrimonio.
+
+Obiezione 5: Inoltre, il vero matrimonio scusa il rapporto carnale dal punto di vista del peccato. Ma un matrimonio contratto tra non credenti non può farlo, poiché “tutta la vita dei non credenti è peccato”, come osserva una glossa su Romani 14:23: “Tutto ciò che non proviene dalla fede è peccato”. Pertanto, non esiste un vero matrimonio tra non credenti.
+
+Al contrario, è scritto (1 Corinzi 7:12): “Se qualche fratello ha una moglie che non crede e lei acconsente a rimanere con lui, non la debba lasciare”. Ma lei non viene chiamata sua moglie se non in virtù del matrimonio. Pertanto, il matrimonio tra persone non credenti è un vero matrimonio. Inoltre, l’eliminazione di ciò che segue non implica necessariamente l’eliminazione di ciò che precede. Ora, il matrimonio appartiene a una funzione naturale, che precede lo “stato di grazia”, il cui principio è la fede. Pertanto, l’incredulità non impedisce l’esistenza del matrimonio tra persone non credenti.
+
+Rispondo che il matrimonio è stato istituito principalmente per il bene della prole, non solo in termini di generazione – poiché questa può avvenire anche senza matrimonio – ma anche affinché la prole possa raggiungere uno stato perfetto, poiché ogni cosa tende naturalmente a portare i propri effetti alla perfezione. Ora, nella prole si possono considerare due tipi di perfezione: una è la perfezione naturale, sia riguardo al corpo che all’anima, attraverso quei mezzi che appartengono alla [legge naturale](/positions/natural_law); l’altra è la perfezione della grazia. La prima perfezione è materiale e imperfetta rispetto alla seconda. Pertanto, poiché ciò che serve a realizzare un fine è proporzionato a tale fine, il matrimonio che tende alla prima perfezione è imperfetto e materiale rispetto a quello che tende alla seconda. E poiché la prima perfezione può essere condivisa sia dagli increduli che dai credenti, mentre la seconda appartiene esclusivamente ai credenti, ne consegue che tra gli increduli esista effettivamente il matrimonio, ma non nella sua forma perfetta, a differenza di quanto avviene tra i credenti.
+
+Risposta all’Obiezione 1: Il matrimonio è stato istituito non solo come sacramento, ma anche come funzione naturale. Pertanto, sebbene il matrimonio non sia accessibile agli infedeli, in quanto sacramento che dipende dall’atto dei ministri della Chiesa, esso rimane comunque disponibile per loro nel ruolo di adempiere a una funzione naturale. Eppure anche questo tipo di matrimonio è considerato un sacramento, sebbene non lo sia in senso stretto, poiché i contraenti non si uniscono realmente nella fede della Chiesa.
+
+Risposta all’Obiezione 2: La diversità nelle pratiche di culto rappresenta un ostacolo al matrimonio, non a causa dell’incredulità, ma in seguito alle differenze nella fede. Infatti, tale disparità non solo impedisce la realizzazione della seconda perfezione dei figli, ma anche della prima, poiché i genitori tendono a guidarli in direzioni diverse; questo non accade quando entrambi sono increduli.
+
+Risposta all’Obiezione 3: Come già detto (al punto 1), esiste il matrimonio tra non credenti, nella misura in cui esso svolge una funzione naturale. Ora, ciò che riguarda la legge naturale può essere determinato dalla legge positiva; pertanto, se qualche legge tra i non credenti vietasse il contratto matrimoniale con persone di rito diverso, la disparità nelle pratiche religiose costituirebbe un ostacolo al loro matrimonio. Tuttavia, tale pratica non è vietata dalla [Legge Divina](/concepts/divine_law), perché davanti a Dio, per quanto si possa allontanare dalla fede, ciò non influisce in alcun modo sulla perdita della grazia divina; né viene proibita da alcuna legge della Chiesa, poiché quest’ultima non ha il compito di giudicare coloro che sono al di fuori della sua influenza.
+
+Risposta all’Obiezione 4: Si afferma che la castità e le altre virtù degli infedeli non siano vere, poiché essi non sono in grado di raggiungere lo scopo finale delle vere virtù, ovvero la vera felicità. Pertanto, si dice che un vino non sia vero se non possiede gli effetti tipici del vino stesso.
+
+Risposta all’Obiezione 5: Un non credente non pecca nell’avere rapporti con sua moglie, se le paga il debito coniugale, per il bene dei figli o per l’impegno coniugale che lo lega a lei; poiché si tratta di un atto di giustizia e temperanza che rispetta le dovute circostanze nel godimento del contatto fisico; allo stesso modo, non pecca nemmeno nell’eseguire altri atti di virtù civica. Inoltre, il motivo per cui si dice che l’intera vita dei non credenti sia un peccato non è perché commettano peccati in ogni loro azione, ma perché non riescono a liberarsi dalla schiavitù del peccato attraverso ciò che fanno.
 
 <span class="atom-split" data-atom="099" data-title="Whether the husband, being converted to the faith, may remain with his wife is she be unwilling to be converted?" data-chapter="Whether the husband, being converted to the faith, may remain with his wife is she be unwilling to be converted?" data-kind="atom" data-srclang="en"></span>
 
@@ -5206,6 +7058,32 @@ marrying another, the same judgment is to be pronounced in this case as in the c
 had several wives, because if he wish to be converted he is bound to take the first whom he had
 divorced and to put the other away.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che, quando un marito si converte alla fede, non possa rimanere con sua moglie, che è incredula e non desidera convertirsi, e con la quale si è sposato quando ancora era incredulo. Infatti, dove il pericolo è lo stesso, si dovrebbero adottare le stesse precauzioni. Poiché a un credente è vietato sposare un incredulo per paura di essere allontanato dalla fede, se il credente rimane con l’incredula con cui si era sposato in precedenza, il pericolo è lo stesso, anzi maggiore, poiché i neofiti sono più facilmente indotti al peccato rispetto a coloro che sono cresciuti nella fede. Pertanto, sembrerebbe che un credente, dopo essersi convertito, non possa rimanere con un incredulo.
+
+Obiezione 2: Inoltre, “Un non credente non può rimanere unito a colui che è stato accolto nella fede cristiana” (Decretali, XXVIII, q. 1, can. Judaei). Pertanto, un credente è tenuto a separarsi da una moglie che non crede.
+
+Obiezione 3: Inoltre, un matrimonio contratto tra credenti è più perfetto di uno contratto tra non credenti. Ora, se i credenti si sposano entro i gradi proibiti dalla Chiesa, il loro matrimonio è nullo. Pertanto lo stesso vale per i non credenti; quindi un marito credente non può rimanere con una moglie non credente, almeno nel caso in cui abbia contratto matrimonio con lei entro i gradi proibiti, essendo lui stesso non credente.
+
+Obiezione 4: Inoltre, a volte un non credente ha più mogli riconosciute dalla legge della sua religione. Se in tal caso può rimanere con quelle donne che ha sposato quando ancora non era credente, sembrerebbe che anche dopo la sua conversione possa mantenere più mogli.
+
+Obiezione 5: Inoltre, può accadere che, dopo aver divorziato dalla sua prima moglie, egli sposi una seconda e che si converta durante questo secondo matrimonio. Sembra quindi che, almeno in questo caso, non possa rimanere con questa seconda moglie.
+
+Al contrario, l’Apostolo lo esorta a rimanere insieme (1 Corinzi 7:12). Inoltre, nessun ostacolo che possa sorgere in un vero matrimonio può annullarlo. Poiché si trattava di un vero matrimonio quando entrambi erano increduli, anche se uno dei due si converte, il matrimonio non viene annullato; pertanto sembra legittimo che continuino a vivere insieme.
+
+Rispondo che la fede di una persona sposata non dissolve ma perfeziona il matrimonio. Pertanto, poiché esiste un vero matrimonio tra persone incredenti, come detto sopra (A[2], ad 1), il legame coniugale non viene spezzato dal fatto che uno dei coniugi si converta alla fede; tuttavia, a volte, pur rimanendo in vigore il legame matrimoniale, la convivenza e gli atti coniugali vengono interrotti, poiché l’incredulità e l’adulterio sono entrambi contrari al bene della prole. Di conseguenza, il marito ha lo stesso potere di separarsi da una moglie incredula o di rimanerle accanto, così come ha lo stesso potere di separarsi da una moglie adultera o di rimanerle accanto. Un marito innocente può infatti scegliere di rimanere con una moglie adultera nella speranza che si ravveda, ma non se questa persiste nel suo peccato; tuttavia, anche in questo caso ha il diritto di separarsi da lei. Allo stesso modo, un credente, dopo la propria conversione, può rimanere con una persona incredula nella speranza che anch’essa si converta, purché non si mostri ostinata nel proprio errore; rimanerle accanto è certamente una scelta opportuna, anche se non obbligatoria: ed è proprio ciò che consiglia l’Apostolo (1 Cor. 7:12).
+
+Risposta all’Obiezione 1: È più facile impedire che una cosa venga fatta piuttosto che annullare ciò che è stato fatto correttamente. Pertanto, esistono molte circostanze che ostacolano la celebrazione del matrimonio se si verificano prima di essa, ma che tuttavia non possono scioglierlo nemmeno se si verificano dopo. È questo il caso, ad esempio, dell’affinità genetica (Q[55], A[6]); lo stesso vale per la diversità nelle pratiche religiose o di culto.
+
+Risposta all’Obiezione 2: Nella Chiesa primitiva, ai tempi degli apostoli, sia gli Ebrei che i Gentili si convertivano ovunque alla fede; di conseguenza, un credente poteva nutrire una speranza ragionevole per la conversione della propria moglie, anche se questa non prometteva di convertirsi. In seguito, tuttavia, col passare del tempo, gli Ebrei divennero più ostinati dei Gentili, poiché questi continuavano a convertirsi, ad esempio ai tempi dei martiri e intorno al periodo di Costantino. Pertanto, all’epoca non era sicuro per un credente convivere con una moglie ebrea non credente, né c’era speranza per la sua conversione, così come per quella di una moglie gentile. Di conseguenza, dopo la propria conversione, un credente poteva convivere con la propria moglie se questa era gentile, ma non se era ebrea, a meno che lei non promettesse di convertirsi. Questo è il significato di quel decreto. Oggi, tuttavia, Gentili ed Ebrei sono considerati alla stessa stregua, poiché entrambi sono ostinati; pertanto, a meno che la moglie non credente non sia disposta a convertirsi, non è permesso al credente convivere con lei, sia essa gentile che ebrea.
+
+Risposta all’Obiezione 3: Gli increduli non battezzati non sono vincolati dalle leggi della Chiesa, ma sono soggetti alle prescrizioni della [Legge divina](/concepts/divine_law). Pertanto, gli increduli che si sono uniti in matrimonio entro i rapporti proibiti dalla Legge divina, sia che entrambi che uno solo di loro si convertano alla fede, non possono continuare tale matrimonio. Tuttavia, se si sono uniti in matrimonio entro i rapporti proibiti da un precetto della Chiesa, possono rimanere insieme qualora entrambi si convertano, o se uno solo si converte e ci sia speranza che anche l’altro si converta.
+
+Risposta all’Obiezione 4: Avere più mogli è contrario alla [legge naturale](/positions/natural_law) che obbliga anche gli infedeli. Pertanto, un infedele non è veramente sposato se non con la prima moglie con cui si è unito. Di conseguenza, se dovesse convertirsi insieme a tutte le sue mogli, potrebbe rimanere con la prima e dovrebbe lasciare le altre. Tuttavia, se la prima rifiutasse di convertirsi e una delle altre lo facesse, egli avrebbe lo stesso diritto di sposarla nuovamente come ne avrebbe per sposare un’altra. Tratteremo ulteriormente questa questione in seguito (A[5]).
+
+Risposta all’Obiezione 5: Divorziare una moglie è contrario alla legge della natura; pertanto non è lecito che un non credente divorzi dalla propria moglie. Quindi, se tale persona si convertisse dopo aver divorziato e sposato un’altra donna, dovrebbe essere emessa la stessa sentenza nel suo caso come in quello di un uomo che avesse avuto più mogli: se desidera convertirsi, è obbligato a riprendere con sé la prima moglie da cui si era divorziato e a lasciare andare l’altra.
+
 <span class="atom-split" data-atom="100" data-title="Whether a believer can, after his conversion, put away his unbelieving wife if she be willing to cohabit with him without insult to the Creator?" data-chapter="Whether a believer can, after his conversion, put away his unbelieving wife if she be willing to cohabit with him without insult to the Creator?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a believer, after his conversion, cannot put away his unbelieving
@@ -5281,6 +7159,32 @@ given to the believer notwithstanding that it needs the mother's care for its [e
 
 Reply to Objection 5: By doing penance the adulterer does not enter another life as an unbeliever
 by being baptized. Hence the comparison fails.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un credente, dopo la sua conversione, non possa separarsi dalla propria moglie incredula se questa è disposta a convivere con lui senza insultare il Creatore. Infatti, il marito è più legato alla moglie di quanto lo sia uno schiavo al proprio padrone. Tuttavia, uno schiavo convertito non viene liberato dal vincolo della schiavitù, come si evince da 1 Corinzi 7:21 e 1 Timoteo 6:1. Pertanto, nemmeno un marito credente può separarsi dalla propria moglie incredula.
+
+Obiezione 2: Inoltre, nessuno può agire a danno di un altro senza il suo consenso. Ora, la moglie non credente possedeva diritti sul corpo del proprio marito non credente. Pertanto, se la conversione del marito alla fede potesse essere dannosa per lei, tanto da permettergli di divorziarla, allora il marito non potrebbe convertirsi alla fede senza il consenso della moglie, proprio come non può ricevere ordini o impegnarsi a praticare la castità senza il suo consenso.
+
+Obiezione 3: Inoltre, se un uomo, sia schiavo che libero, sposa consapevolmente una donna in condizioni di schiavitù, non può divorziarla a causa della sua diversa condizione sociale. Poiché, dunque, il marito, quando ha sposato una donna non credente, sapeva che lei era non credente, sembrerebbe che allo stesso modo non possa divorziarla a causa della sua mancanza di fede.
+
+Obiezione 4: Inoltre, un padre ha il dovere di lavorare per la salvezza dei suoi figli. Ma se lasciasse sua moglie incredula, i figli nati da quel matrimonio rimarrebbero con la madre, poiché “i figli seguono il grembo materno”; di conseguenza, la loro salvezza sarebbe messa in pericolo. Pertanto, non può legalmente lasciare sua moglie incredula.
+
+Obiezione 5: Inoltre, un marito adultero non può divorziare da una moglie adultera, nemmeno dopo essersi pentito del proprio adulterio. Pertanto, se un marito adultero e ateo deve essere giudicato allo stesso modo, ne consegue che nemmeno il credente può divorziare dall’ateo, anche dopo che quest’ultimo si sia convertito alla fede.
+
+Al contrario, sono proprio le parole dell’Apostolo (1 Corinzi 7:15,16) a confermarlo. Inoltre, l’adulterio spirituale è ancora più grave di quello carnale. Tuttavia, un uomo può separarsi dalla propria moglie per motivi legati all’adulterio carnale; tanto più, quindi, può farlo per motivi legati all’incredulità, che rappresenta un adulterio spirituale.
+
+Rispondo che cose diverse sono idonee ed opportune per l’uomo a seconda che la sua vita sia di un certo tipo o di un altro. Pertanto, colui che “muore” alla propria precedente vita non è più vincolato da quelle cose alle quali era legato in quella vita. Ecco perché chi ha fatto voto di qualcosa durante la sua esistenza terrena non è obbligato a mantenerli dopo aver abbracciato la vita religiosa e “morito” al mondo. Chi viene battezzato, infatti, viene rigenerato in Cristo e “muore” alla propria precedente vita; poiché la nascita di una cosa comporta necessariamente la corruzione di un’altra, egli è liberato dall’obbligo di adempiere ai voti fatti in passato, come quello di mantenere il debito coniugale verso la propria moglie. Non è più obbligato a convivere con lei se questa rifiuta di convertirsi, anche se, in alcuni casi, può farlo liberamente, come già detto (A[3]); allo stesso modo, un religioso è libero di adempiere ai voti fatti in vita terrena, purché non siano contrari alla sua vocazione religiosa, anche se non è obbligato a farlo.
+
+Risposta all’Obiezione 1: La schiavitù non è incompatibile con la perfezione della religione cristiana, che promuove apertamente l’umiltà. Tuttavia, l’obbligo verso la moglie o il vincolo coniugale rappresentano in qualche modo un elemento detrattivo per la perfezione della vita cristiana, il cui stato più alto consiste nel mantenere la castità: pertanto, tale paragone non è appropriato. Inoltre, una delle parti sposate non è legata all’altra come una proprietà o uno schiavo al proprio padrone, ma attraverso un tipo di partnership che non è adatta tra un non credente e un credente, come si evince da 2 Corinzi 6:15; quindi non esiste alcuna analogia tra uno schiavo e una persona sposata.
+
+Risposta all’Obiezione 2: La moglie possiede diritti sul corpo del marito soltanto finché quest’ultimo rimane nella condizione di vita in cui hanno contratto matrimonio; infatti, anche quando il marito muore, la moglie “viene liberata dalla legge del suo marito” (Romani 7:3). Pertanto, se il marito abbandona la moglie dopo aver cambiato vita, morendo alla sua precedente condizione, ciò non le arreca alcun danno. Chi intraprende una vita religiosa subisce in realtà una “morte spirituale”, e non una morte fisica; quindi, se il matrimonio è stato consumato, il marito non può entrare nella vita religiosa senza il consenso della moglie, mentre prima del rapporto carnale, quando esiste soltanto un legame spirituale, ciò è possibile. D’altra parte, chi viene battezzato viene anche sepolto fisicamente insieme a Cristo fino alla morte; pertanto, anche dopo che il matrimonio è stato consumato, tale persona è liberata dal dovere di onorare i vincoli coniugali. Si può inoltre osservare che è proprio per la sua stessa colpa, nel rifiutarsi di convertirsi, che la moglie subisce dei danni.
+
+Risposta all’Obiezione 3: La disparità nella [adorazione](/concepts/religion) rende una persona semplicemente inadatta al matrimonio legittimo, mentre lo stato di schiavitù non lo fa, salvo nel caso in cui sia sconosciuto. Pertanto, non esiste alcuna analogia tra un non credente e una schiava.
+
+Risposta all’Obiezione 4: O il bambino ha raggiunto un’età perfetta, e in tal caso è libero di seguire sia il padre credente che la madre non credente; oppure è minorenne, e in questo caso dovrebbe essere affidato al genitore credente, nonostante abbia bisogno delle cure della madre per la sua [educazione](/concepts/education).
+
+Risposta all’Obiezione 5: Compiendo la penitenza, l’adultero non entra in un’altra vita come incredulo attraverso il battesimo. Pertanto, questa analogia non regge.
 
 <span class="atom-split" data-atom="101" data-title="Whether the believer who leaves his unbelieving wife can take another wife?" data-chapter="Whether the believer who leaves his unbelieving wife can take another wife?" data-kind="atom" data-srclang="en"></span>
 
@@ -5358,6 +7262,32 @@ of her tardy conversion that she is deprived of her husband.
 Reply to Objection 5: The bond of fatherhood is not dissolved by disparity of [worship](/concepts/religion), as the
 marriage bond is: wherefore there is no comparison between an inheritance and a wife.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un credente che abbandoni sua moglie non credente non possa prendersi un’altra moglie. Infatti, l’indissolubilità fa parte della natura del matrimonio, poiché divorziare dalla propria moglie è contrario alla [legge naturale](/positions/natural_law). Poiché tra loro esisteva un vero matrimonio quando erano entrambi non credenti, tale matrimonio non può essere sciolto. Tuttavia, finché un uomo è legato a una donna per via di matrimonio, non può sposare un’altra persona. Pertanto, un credente che abbandoni sua moglie non credente non può prendersi un’altra moglie.
+
+Obiezione 2: Inoltre, un crimine commesso dopo il matrimonio non dissolve questo stesso matrimonio. Ora, se la moglie è disposta a convivere senza offendere il Creatore, il legame coniugale non viene sciolto, poiché il marito non può sposare un’altra donna. Pertanto, il peccato di una moglie che rifiuta di convivere senza offendere il Creatore non dissolve il matrimonio, né rende libero il marito di prendersi un’altra moglie.
+
+Obiezione 3: Inoltre, marito e moglie sono uguali nel vincolo coniugale. Pertanto, poiché è illegale che una moglie non credente si risposi mentre suo marito è ancora in vita, sembrerebbe che nemmeno un marito credente possa farlo.
+
+Obiezione 4: Inoltre, il voto di castità è più vantaggioso del contratto matrimoniale. Sembra infatti che non sia legittimo per un marito credente pronunciare un voto di castità senza il consenso della moglie non credente, poiché in tal caso quest’ultima verrebbe privata del matrimonio qualora in seguito si convertisse. Molto meno quindi è legittimo che egli prenda un’altra moglie.
+
+Obiezione 5: Inoltre, il figlio che persiste nell’infedeltà dopo la conversione del padre perde il diritto di ereditare da lui; eppure, se in seguito anche lui si converte, l’eredità gli viene restituita, anche se un altro avrebbe potuto già entrarne in possesso. Pertanto, sembrerebbe che, allo stesso modo, se la moglie infedele si convertisse, il marito le dovrebbe essere restituito, anche se avesse sposato un’altra donna; tuttavia ciò sarebbe impossibile se il secondo matrimonio fosse valido. Quindi, il marito non può prendere un’altra moglie.
+
+Al contrario, il matrimonio non viene ratificato senza il [sacramento](/concepts/sacrament) del Battesimo. Ora, ciò che non è stato ratificato può essere annullato. Pertanto, un matrimonio contratto in condizioni di incredulità può essere annullato; e poiché il legame coniugale viene così sciolto, è lecito per l’uomo prendere un’altra moglie. Inoltre, un uomo non dovrebbe convivere con una moglie incredula che si rifiuti di convivere senza insultare il Creatore. Se quindi fosse illegale per lui prendere un’altra moglie, sarebbe costretto a rimanere casto, il che sembrerebbe irragionevole, poiché in tal caso verrebbe messo in svantaggio a causa della sua conversione.
+
+Rispondo che, quando sia il marito che la moglie si convertono alla fede mentre l’altro rimane nell’incredulità, è necessario fare una distinzione. Infatti, se l’incredulo è disposto a convivere senza insultare il Creatore – cioè senza trascinare l’altro nell’incredulità – il credente è libero di separarsi da lui, ma non gli è permesso sposare un’altra persona dopo la separazione. Tuttavia, se l’incredulo rifiuta di convivere senza insultare il Creatore, utilizzando parole blasfeme e rifiutandosi di pronunciare il nome di Cristo, allora, se lei cerca di trascinarlo nell’incredulità, il marito credente, dopo averla lasciata, può unirsi in matrimonio con un’altra persona.
+
+Risposta all’Obiezione 1: Come già detto sopra (A[2]), il matrimonio tra non credenti è imperfetto, mentre il matrimonio tra credenti è perfetto e quindi lega più saldamente. Ora, un legame più forte finisce sempre per indebolire quello più debole se è in contrasto con esso; pertanto, il matrimonio successivamente contratto nella fede di Cristo annulla quello precedentemente contratto nell’infedeltà. Quindi, il matrimonio tra non credenti non è completamente valido e ratificato fin dall’inizio, ma viene successivamente ratificato dalla fede di Cristo.
+
+Risposta all’Obiezione 2: Il peccato di una moglie che rifiuta di convivere senza insultare il Creatore libera il marito dal legame che lo vincolava a lei, impedendogli così di sposarsi di nuovo durante la sua vita. Tuttavia, questo non dissolve immediatamente il matrimonio; infatti, se lei si pentisse della sua blasfemia prima che lui si risposasse, suo marito le sarebbe restituito. Il matrimonio viene effettivamente dissolto soltanto dal secondo matrimonio, e un marito credente non potrebbe celebrarlo se non fosse liberato dall’obbligo verso la moglie a causa di un suo errore.
+
+Risposta all’Obiezione 3: Dopo che la credente si è sposata, il legame coniugale viene sciolto da entrambe le parti, poiché il matrimonio non è imperfetto in termini di vincolo tra i coniugi, anche se a volte lo è riguardo ai suoi effetti concreti. Pertanto, l’interdizione di risposarsi deriva piuttosto dalla condanna della moglie incredula che dal carattere stesso del matrimonio precedente. Tuttavia, se in seguito essa si convertisse, le potrebbe essere concessa la possibilità di prendere un altro marito, qualora quest’ultimo avesse già preso un’altra moglie.
+
+Risposta all’Obiezione 4: Il marito non dovrebbe pronunciare un voto di castità né contrarre un secondo matrimonio, se dopo la sua conversione esista una ragionevole speranza che anche sua moglie si converta, poiché la conversione della moglie sarebbe più difficile se sapesse di essere stata privata del marito. Tuttavia, se non vi sia alcuna speranza per la sua conversione, il marito può ricevere gli ordini sacri o entrare in religione, dopo aver prima supplicato la moglie di convertirsi. Se poi la moglie si converte dopo che il marito ha ricevuto gli ordini sacri, non deve essere restituita a lui, ma deve considerare questa privazione come una punizione per la sua lentezza nella conversione.
+
+Risposta all’Obiezione 5: Il legame della paternità non viene meno a causa di differenze nella [adorazione](/concepts/religion) dei genitori, come avviene nel caso del legame coniugale; pertanto, non esiste alcuna analogia tra un’eredità e una moglie.
+
 <span class="atom-split" data-atom="102" data-title="Whether other sins dissolve marriage?" data-chapter="Whether other sins dissolve marriage?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that other sins besides unbelief dissolve marriage. For adultery is
@@ -5424,11 +7354,43 @@ is unwilling to cohabit except on the condition of sinning, for instance, if she
 not remain your wife unless you amass wealth for me by theft," for then he ought to leave her rather
 than thieve.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che anche altri peccati, oltre all’infedeltà, possano dissolvere il matrimonio. Infatti, l’adulterio sembra essere più direttamente contrario al matrimonio dell’infedeltà stessa. Tuttavia, l’infedeltà dissolve il matrimonio in alcuni casi, rendendo legittimo risposarsi; pertanto anche l’adulterio dovrebbe avere lo stesso effetto.
+
+Obiezione 2: Inoltre, proprio come l’infedeltà è una forma di adulterio spirituale, lo stesso vale per qualsiasi tipo di peccato. Se dunque l’infedeltà distrugge il matrimonio perché rappresenta un adulterio spirituale, per la stessa ragione qualsiasi tipo di peccato distruggerà anch’esso il matrimonio.
+
+Obiezione 3: Inoltre, si dice (Matteo 5:30): “Se la tua mano destra ti causa scandalo, taglala via e gettala via da te”; un commento di Gerolamo afferma che con “la mano e l’occhio destro” si intendono il fratello, la moglie, i parenti e i figli. Ora, queste persone diventano ostacoli per noi in caso di qualsiasi tipo di peccato; pertanto, il matrimonio può essere sciolto a causa di qualsiasi tipo di peccato.
+
+Obiezione 4: Inoltre, l’avidità è considerata idolatria secondo Efesini 5:5. Ora, una moglie può essere ripudiata a causa di idolatria; pertanto, allo stesso modo, può essere ripudiata anche a causa di avidità, così come per altri peccati più gravi dell’avidità.
+
+Obiezione 5: Inoltre, il Maestro lo afferma esplicitamente in questo passaggio (Sentenze iv, D, 30).
+
+Al contrario, si dice (Matteo 5:32): “Chi abbandona la propria moglie, se non per motivo di adulterio, la spinge ad commettere adulterio”. Inoltre, se ciò fosse vero, i divorzi avverrebbero continuamente, poiché è raro trovare un matrimonio in cui una delle parti non commetta peccato.
+
+Rispondo che la fornicazione e l’infedeltà presentano una contrarietà specifica nei confronti dei beni connessi al matrimonio, come già detto sopra (A[3]). Pertanto, esse hanno un effetto particolarmente dannoso nel dissolvere i matrimoni. Tuttavia, è necessario osservare che il matrimonio può essere sciolto in due modi diversi. In un caso, lo scioglimento riguarda soltanto il vincolo coniugale stesso: in tal caso, il matrimonio non può essere dissolto né dall’infedeltà né dal adulterio, una volta ratificato. Tuttavia, se il matrimonio non viene ratificato, il vincolo si dissolve qualora una delle parti rimanga nell’infedeltà, mentre l’altra, convertendosi alla fede, si sposi di nuovo. Dall’altro canto, l’adulterio non sciolge il matrimonio, altrimenti l’infedele potrebbe liberamente chiedere il divorzio dalla propria moglie adultera e, dopo averla lasciata, prendersene un’altra, il che è assurdo. In un altro caso, lo scioglimento riguarda anche l’atto coniugale stesso: in tal caso, il matrimonio può essere dissolto sia a causa dell’infedeltà che della fornicazione. Tuttavia, il matrimonio non può essere sciolto nemmeno per altri peccati, salvo nel caso in cui il marito desideri interrompere ogni rapporto con la moglie al fine di punirla privandola del conforto della sua presenza.
+
+Risposta all’Obiezione 1: Sebbene l’adulterio sia in contraddizione con il matrimonio, poiché quest’ultimo svolge una funzione naturale, e lo sia in modo più diretto rispetto all’infedeltà, la situazione si inverte se consideriamo il matrimonio come un [sacramento](/concepts/sacrament) della Chiesa, da cui deriva una stabilità perfetta, poiché simboleggia l’unione indissolubile di Cristo con la Chiesa. Pertanto, un matrimonio non ratificato può essere sciolto in base alla mancanza di fede, e non a causa dell’adulterio.
+
+Risposta all’Obiezione 2: L’unione primordiale dell’anima con Dio avviene per fede; pertanto, l’anima viene in questo modo “sposata” a Dio, come si legge in Osea 2:20: “Ti sposerò nella fede”. Per questo motivo, negli Scritti Sacri l’idolatria e l’incredulità vengono specificamente definite con il termine di “adulterio”; al contrario, altri peccati vengono definiti “adulteri spirituali” in un senso più lato.
+
+Risposta all’Obiezione 3: Ciò si applica nel caso in cui la moglie costituisca una causa evidente di peccato per il marito, tanto da fargli temere di essere in pericolo; in tal caso, il marito può decidere di interrompere la convivenza con lei, come già indicato sopra (A[5]).
+
+Risposta all’Obiezione 4: Si afferma che l’avidità sia idolatria a causa di una certa somiglianza con la schiavitù, poiché sia l’avido che l’idolatra servono la creatura piuttosto che il Creatore; ma non a causa di una somiglianza nell’incredulità, poiché l’incredulità corrompe l’intelletto, mentre l’avidità corrompe le affezioni.
+
+Risposta all’Obiezione 5: Le parole del Maestro si riferiscono al fidanzamento, poiché un fidanzamento può essere annullato a causa di un crimine successivo. Oppure, se parla di matrimonio, esse devono riferirsi alla separazione temporanea della convivenza reciproca, come già detto in precedenza, oppure al caso in cui la moglie si rifiuti di convivere a meno che non si compia un atto peccaminoso; ad esempio, se lei dicesse: “Non resterò tua moglie a meno che tu non accumuli ricchezze per me attraverso il furto”, allora lui dovrebbe lasciarla piuttosto che commettere un furto.
+
 <span class="atom-split" data-atom="103" data-title="OF WIFE-MURDER (TWO ARTICLES)" data-chapter="OF WIFE-MURDER (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider wife-murder, under which head there are two points of inquiry:
 (1) Whether in a certain case it is lawful to kill one's wife?
 (2) Whether wife-murder is an impediment to marriage?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il delitto di omicidio coniugale, il quale presenta due aspetti da indagare:  
+(1) Se, in determinati casi, sia legittimo uccidere la propria moglie;  
+(2) Se l’omicidio coniugale costituisca un ostacolo al matrimonio.
 
 <span class="atom-split" data-atom="104" data-title="Whether it is lawful for a man to kill his wife if she be discovered in the act of adultery?" data-chapter="Whether it is lawful for a man to kill his wife if she be discovered in the act of adultery?" data-kind="atom" data-srclang="en"></span>
 
@@ -5495,6 +7457,28 @@ extend beyond the limits of amendment, and these are exceeded by the punishment 
 Wherefore the husband who exercises this kind of control over his wife may not kill her, but he
 may accuse or chastise her in some other way.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembri legittimo che un uomo uccida sua moglie se la trovasse mentre commette adulterio, poiché la [Legge Divina](/concepts/divine_law) comandava di lapidare le mogli adultere. Ora, non è peccato attuare la Legge Divina; pertanto, nemmeno uccidere la propria moglie se questa è adultera costituisce un peccato.
+
+Obiezione 2: Inoltre, ciò che la legge può fare legittimamente, può essere fatto altrettanto legittimamente da chi è incaricato dalla legge di farlo. Poiché la legge può uccidere legittimamente una moglie adultera o qualsiasi altra persona che meriti la morte, e poiché ha incaricato il marito di uccidere sua moglie se questa viene scoperta mentre commette adulterio, sembrerebbe che anche lui possa farlo legittimamente.
+
+Obiezione 3: Inoltre, il marito ha un potere maggiore su sua moglie adultera rispetto all’uomo che ha commesso adulterio con lei. Ora, se il marito colpisce un chierico che trova insieme a sua moglie, non viene scomunicato. Pertanto, sembrerebbe legittimo anche per lui uccidere la propria moglie se venisse scoperta in adulterio.
+
+Obiezione 4: Inoltre, il marito è tenuto a correggere sua moglie. Ma la correzione si ottiene infliggendo una punizione giusta. Poiché la punizione giusta per l’adulterio è la morte – essendo questo un peccato capitale – sembrerebbe legittimo che un marito uccidesse sua moglie adultera.
+
+Al contrario, nel testo (Sentenza iv, D, 37) si afferma che “la Chiesa di Dio non è mai vincolata dalle leggi di questo mondo, poiché essa possiede soltanto una spada spirituale”. Pertanto, sembrerebbe che colui che desidera appartenere alla Chiesa non possa giustamente avvalersi della legge che permette a un uomo di uccidere sua moglie. Inoltre, marito e moglie vengono giudicati in modo equo; tuttavia non è lecito a una moglie uccidere suo marito se questi viene scoperto ad adulterare. Pertanto, nemmeno un marito può uccidere sua moglie.
+
+Rispondo che ci sono due modi in cui un marito può uccidere sua moglie. Primo, attraverso una sentenza civile; in questo caso non vi è dubbio che un marito, mosso dal desiderio di giustizia e non da rancore o odio vendicativo, possa senza peccato presentare accusazioni di adulterio contro sua moglie davanti a un tribunale secolare e chiedere che venga inflitta la pena capitale prevista dalla legge, proprio come è lecito accusare qualcuno di omicidio o di qualsiasi altro reato. Tuttavia, tale accusa non può essere presentata in un tribunale ecclesiastico, poiché, come affermato nel testo (Sententiae, iv, D, 37), la Chiesa non detiene alcun potere coercitivo materiale. Secondo, un marito può uccidere sua moglie di propria mano senza che venga condannata in tribunale; pertanto ucciderla al di fuori di un atto di adulterio non è lecito né secondo il diritto civile né secondo la legge della coscienza, indipendentemente dalle prove dell’adulterio che possa disporre. Il diritto civile, tuttavia, considera tale atto come legittimo, sebbene non lo ordini esplicitamente, ma perché non infligge al marito la pena prevista per l’omicidio, data la grande provocazione che un simile atto rappresenta. Ma la Chiesa non è vincolata da queste leggi umane; né assolve il marito dal debito di una punizione eterna, né lo scagiona dalle sanzioni che potrebbero essere inflitte da un tribunale ecclesiastico, solo perché è esentato dalla pena prevista dai tribunali secolari. Pertanto, in nessun caso è lecito a un marito uccidere sua moglie di propria autorità.
+
+Risposta all’Obiezione 1: La legge ha incaricato di infliggere questa punizione non individui privati, ma persone pubbliche, designate per questo ruolo dal loro incarico ufficiale. Ora, il marito non è il giudice di sua moglie; pertanto non può ucciderla, ma può accusarla in presenza del giudice.
+
+Risposta all’Obiezione 2: Il diritto civile non ha incaricato il marito di uccidere sua moglie, né glielo ha ordinato; altrimenti egli commetterebbe un peccato, proprio come il vice del giudice non commette peccato uccidendo il ladro condannato a morte. Tuttavia, il diritto civile ha permesso tale comportamento, poiché non lo punisce. Per questo motivo, ha introdotto determinati ostacoli al fine di impedire al marito di uccidere sua moglie.
+
+Risposta all’Obiezione 3: Ciò non dimostra che tale pratica sia legittima in sé, ma soltanto che lo è in termini di immunità da un particolare tipo di punizione, poiché l’escomunione rappresenta anch’essa una forma di punizione.
+
+Risposta all’Obiezione 4: Esistono due tipi di comunità: quella familiare, come una famiglia, e quella civile, come una città o un regno. Pertanto, colui che presiede alla seconda sorta di comunità – ad esempio un re – può punire un individuo sia correggendolo che eliminandolo, al fine del miglioramento della comunità per la quale è incaricato di prendersi cura. Ma colui che presiede a una comunità del primo tipo può infliggere soltanto punizioni correttive, le quali non oltrepassano i limiti del rimedio; la pena di morte, invece, va al di là di tali limiti. Per questo motivo, il marito che esercita questo tipo di controllo sulla moglie non può ucciderla, ma può accusarla o castigarla in qualche altro modo.
+
 <span class="atom-split" data-atom="105" data-title="Whether wife-murder is an impediment to marriage?" data-chapter="Whether wife-murder is an impediment to marriage?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that wife-murder is not an impediment to marriage. For adultery
@@ -5559,6 +7543,32 @@ the other's consent?
 (3) Whether the wife can take another husband if her former husband has entered religion before
 the consummation of the marriage?
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’omicidio di una moglie non costituisca un ostacolo al matrimonio. Infatti, l’adulterio è più contrario al matrimonio di quanto lo sia l’omicidio. Ora, poiché l’adulterio non rappresenta un ostacolo al matrimonio, ne consegue che nemmeno l’omicidio di una moglie lo sia.
+
+Obiezione 2: Inoltre, uccidere la propria madre è un peccato più grave che uccidere la propria moglie, poiché non è mai lecito colpire la propria madre, mentre a volte lo è colpire la propria moglie. Tuttavia, l’omicidio materno non costituisce un ostacolo al matrimonio; allo stesso modo, nemmeno l’omicidio coniugale lo rappresenta.
+
+Obiezione 3: Inoltre, è un peccato più grave per un uomo uccidere la moglie di un altro uomo a causa di adulterio che uccidere la propria moglie, poiché in questo secondo caso ha motivi meno forti e non si preoccupa altrettanto della sua correzione. Tuttavia, colui che uccide la moglie di un altro uomo non viene ostacolato nel sposare qualcun’altra; allo stesso modo, nemmeno colui che uccide la propria moglie ne è ostacolato.
+
+Obiezione 4: Inoltre, se la causa viene rimossa, anche l’effetto viene eliminato. Ma il peccato di omicidio può essere eliminato attraverso il pentimento; pertanto anche l’impedimento che derivante da tale peccato esiste per il matrimonio può essere rimosso. Di conseguenza, sembrerebbe che, dopo aver compiuto la penitenza, non vi sia più alcun divieto di sposarsi.
+
+Al contrario, un canone (caus. xxxiii, qu. ii, can. Interfectores) afferma: “Coloro che uccidono le proprie mogli devono essere ricondotti alla penitenza e loro è assolutamente vietato di sposarsi”. Inoltre, in qualunque modo un uomo pechi, deve essere punito secondo lo stesso tipo di colpa commessa. Ma chi uccide la propria moglie commette un crimine contro il matrimonio; pertanto deve essere punito privandolo del diritto di sposarsi.
+
+Rispondo che, secondo il decreto della Chiesa, l’omicidio di una moglie costituisce un impedimento al matrimonio. Tuttavia, a volte tale atto vieta la celebrazione del matrimonio senza renderlo nullo; ad esempio, quando il marito uccide sua moglie per adulterio o semplicemente per odio. In tal caso, se sussiste il timore che possa comportarsi in modo incontrollato, la Chiesa può concedere l’autorizzazione affinché possa sposare legalmente. Altre volte, invece, l’omicidio rende il matrimonio nullo: ad esempio, quando un uomo uccide sua moglie per poterla sposare di nuovo dopo aver commesso adulterio con lei; in tal caso, la legge lo dichiara semplicemente inadatto a sposarla, e quindi il matrimonio è nullo. Tuttavia, ciò non lo rende legalmente inadatto ad altri matrimoni: pertanto, se avesse già sposato un’altra donna, anche se commetterebbe un peccato disobbedendo all’ordinanza della Chiesa, il matrimonio non sarebbe comunque nullo per questo motivo.
+
+Risposta all’Obiezione 1: L’omicidio e l’adulterio, in alcuni casi, vietano la stipula del matrimonio e rendono tale contratto nullo; come affermiamo qui riguardo all’omicidio di una moglie, e lo ribadiremo in seguito (Sentenze iv, Q[62], A[2]) riguardo all’adulterio. Possiamo anche osservare che l’omicidio di una moglie è contrario alla sostanza stessa del matrimonio, mentre l’adulterio è contrario al dovere di fedeltà coniugale. Pertanto, l’adulterio non è meno contrario al matrimonio dell’omicidio di una moglie; inoltre, l’argomentazione si basa su un presupposto errato.
+
+Risposta all’Obiezione 2: In parole semplici, uccidere la propria madre è un peccato più grave che uccidere la propria moglie, poiché contraddice maggiormente la natura umana; infatti, un uomo rispetta naturalmente sua madre. Di conseguenza, è meno incline al parricidio e più propenso all’omicidio coniugale; ed è proprio per reprimere questa tendenza che la Chiesa ha proibito il matrimonio all’uomo che ha ucciso sua moglie.
+
+Risposta all’Obiezione 3: Un tale uomo non pecca contro il matrimonio, così come colui che uccide sua moglie; pertanto, questa analogia non regge.
+
+Risposta all’Obiezione 4: Non si può dedurre che, poiché la colpa è stata perdonata, anche l’intera punizione venga annullata, come dimostra l’esistenza di casi irregolari. Infatti, il pentimento non restituisce all’uomo la sua precedente dignità, sebbene possa riportarlo allo stato di grazia in cui si trovava prima, come già affermato sopra (Q[38], A[1], ad 3). DEGLI IMPEDIMENTI AL MATRIMONIO DERIVANTI DA UN VOTO SOLLENNE (TRE ARTICOLI)  
+Dobbiamo ora considerare gli impedimenti che possono ostacolare il matrimonio. Esamineremo: (1) l’impedimento che riguarda un matrimonio non consumato, ovvero un voto solenne; (2) l’impedimento che riguarda un matrimonio consumato, ovvero la fornicazione. Nel primo caso, vi sono tre questioni da analizzare:  
+(1) È possibile che una delle parti, dopo il consumo del matrimonio, entri in religione senza il consenso dell’altra?  
+(2) È possibile che entrambe le parti entrino in religione prima del consumo del matrimonio?  
+(3) È possibile che la moglie prenda un altro marito se il suo precedente marito è entrato in religione prima del consumo del matrimonio?
+
 <span class="atom-split" data-atom="106" data-title="Whether one party after the marriage has been consummated can enter religion without the other's consent?" data-chapter="Whether one party after the marriage has been consummated can enter religion without the other's consent?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that even after the marriage has been consummated one consort
@@ -5596,6 +7606,24 @@ Reply to Objection 3: In every form of religious life marriage is contracted wit
 namely Christ; to Whom, however, a person contracts more obligations in one religious order than
 in another. But in carnal marriage and religious marriage the contract is not with the same person:
 wherefore that comparison fails.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che, anche dopo la consumazione del matrimonio, uno coniuge possa intraprendere una vita religiosa senza il consenso dell’altro. Infatti, la [legge divina](/concepts/divine_law) dovrebbe essere più favorevole alle questioni spirituali rispetto alla [legge umana](/concepts/human_law). Ora che la legge umana lo permette, tanto più la legge divina dovrebbe consentirlo.
+
+Obiezione 2: Inoltre, il bene minore non ostacola quello maggiore. Ma lo stato coniugale rappresenta un bene minore rispetto allo stato religioso, secondo 1 Corinzi 7:38. Pertanto, il matrimonio non dovrebbe impedire a un uomo di intraprendere la vita religiosa.
+
+Obiezione 3: Inoltre, in ogni forma di vita religiosa esiste una sorta di “matrimonio spirituale”. Ora, è legittimo passare da un ordine religioso meno rigoroso a uno più rigoroso; pertanto, è anche permesso passare da un matrimonio meno rigoroso – cioè un matrimonio carnale – a un matrimonio più rigoroso, ovvero quello della vita religiosa, anche senza il consenso della moglie.
+
+Al contrario, ai coniugi è vietato (1 Corinzi 7:5) astenersi dall’uso dei rapporti coniugali anche per un breve periodo senza il consenso reciproco, al fine di dedicare del tempo alla preghiera. Inoltre, nessuno può legittimamente compiere atti dannosi per l’altro senza il suo consenso. Ora, il voto religioso preso da uno dei coniugi è dannoso per l’altro, poiché uno ha potere sul corpo dell’altro; pertanto, nessuno dei due può pronunciare un voto religioso senza il consenso dell’altro.
+
+Rispondo che nessuno può offrire a Dio ciò che appartiene a un altro. Pertanto, poiché con il matrimonio consumato il corpo del marito appartiene già alla moglie, egli non può offrirlo a Dio con un voto di castità senza il suo consenso.
+
+Risposta all’Obiezione 1: La legge umana considera il matrimonio semplicemente come l’esercizio di un dovere naturale; invece, la legge divina lo considera un [sacramento](/concepts/sacrament), per cui è del tutto indissolubile. Pertanto, tale confronto non ha alcun fondamento.
+
+Risposta all’Obiezione 2: Non è irragionevole che un bene maggiore venga ostacolato da un bene minore che gli è contrario, proprio come il bene viene ostacolato dal male.
+
+Risposta all’Obiezione 3: In ogni forma di vita religiosa, il matrimonio viene contratto con una sola persona, ovvero Cristo; verso di Lui, tuttavia, una persona assume obblighi maggiori in un certo ordine religioso rispetto a un altro. Ma nel matrimonio carnale e nel matrimonio religioso il contratto non viene stipulato con la stessa persona; pertanto, tale confronto non è valido.
 
 <span class="atom-split" data-atom="107" data-title="Whether before the marriage has been consummated one consort can enter religion without the other's consent?" data-chapter="Whether before the marriage has been consummated one consort can enter religion without the other's consent?" data-kind="atom" data-srclang="en"></span>
 
@@ -5641,6 +7669,24 @@ Reply to Objection 3: The marriage union, before consummation, is indeed perfect
 primary being, but is not finally perfect as to its second act which is operation. It is like bodily
 possession and consequently is not altogether indissoluble.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che, anche prima che il matrimonio venga consumato, uno dei coniugi non possa entrare in religione senza il consenso dell’altro. Infatti, l’indissolubilità del matrimonio fa parte dello [sacramento](/concepts/sacrament) del matrimonio, proprio perché esso simboleggia l’unione di Cristo con la Chiesa. Ora, il matrimonio è un vero sacramento anche prima della sua consumazione, non appena sia stato espresso il consenso verbale. Pertanto, non può essere sciolto semplicemente perché uno dei coniugi entra in religione.
+
+Obiezione 2: Inoltre, in virtù del consenso espresso a parole nel presente, uno dei coniugi ha concesso all’altro il potere su sé stesso. Pertanto, l’uno può immediatamente richiedere il pagamento dei debiti coniugali, e l’altro è obbligato a pagarli; di conseguenza, l’uno non può intraprendere un percorso religioso senza il consenso dell’altro.
+
+Obiezione 3: Inoltre, si dice (Matteo 19:6): “Quello che Dio ha unito, nessuno abbia il diritto di separare”. Ma l’unione che precede il rapporto coniugale è stata stabilita da Dio stesso; pertanto non può essere sciolta per volontà umana.
+
+Al contrario, secondo Gerome nel *Prologo a Giovanni*, il nostro Signore chiamò Giovanni durante le sue nozze.
+
+Rispondo che, prima dell’atto coniugale, esiste soltanto un legame spirituale tra marito e moglie; dopo l’atto coniugale, invece, sorge un legame carnale tra di loro. Pertanto, proprio come il matrimonio può essere sciolto dalla morte fisica dopo l’atto coniugale, allo stesso modo l’ingresso nella vita religiosa dissolve quel legame che esiste prima della consumazione del matrimonio, poiché la vita religiosa rappresenta una sorta di “morte spirituale”: attraverso di essa l’uomo muore per il mondo e vive per Dio.
+
+Risposta all’Obiezione 1: Prima della consumazione, il matrimonio rappresenta l’unione di Cristo con l’anima per grazia, unione che viene sciolta da una disposizione spirituale contraria, ovvero dal peccato mortale. Dopo la consumazione, invece, il matrimonio simboleggia l’unione di Cristo con la Chiesa, nel senso dell’assunzione della natura umana nell’unità della persona; un’unione del tutto indissolubile.
+
+Risposta all’Obiezione 2: Prima della consumazione, il corpo di uno coniuge non viene assolutamente trasferito sotto il potere dell’altro, ma in modo condizionato, a patto che nessuno dei due coniugi cerchi nel frattempo di ottenere i frutti di una vita migliore. Tuttavia, attraverso l’intimità coniugale tale trasferimento diventa effettivo, poiché in quel momento ciascuno dei coniugi entra realmente in possesso del potere che è stato trasferito all’altro. Pertanto, anche prima della consumazione, non sono obbligati a pagare il debito coniugale immediatamente dopo aver contratto il matrimonio attraverso le parole rituali, ma viene loro concesso un termine di due mesi per tre motivi: in primo luogo, affinché possano prendere in considerazione la possibilità di entrare in religione; in secondo luogo, per preparare quanto necessario alla celebrazione nuziale; e in terzo luogo, per evitare che il marito sottovaluti un dono che non desiderava affatto possedere (cfr. Institutum, causa xxvi, qu. ii).
+
+Risposta all’Obiezione 3: L’unione coniugale, prima della consumazione, è effettivamente perfetta riguardo alla sua essenza primaria, ma non lo è in modo definitivo riguardo al suo atto secondario, ovvero l’atto sessuale. È simile a una possessione fisica e, di conseguenza, non è del tutto indissolubile.
+
 <span class="atom-split" data-atom="108" data-title="Whether the wife may take another husband if her husband has entered religion before the consummation of the marriage?" data-chapter="Whether the wife may take another husband if her husband has entered religion before the consummation of the marriage?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the wife may not take another husband, if her husband has
@@ -5678,6 +7724,24 @@ Reply to Objection 3: We must judge of a profession thus made before the time fi
 as of a simple vow. Wherefore just as when the husband has taken a simple vow his wife is not
 bound to pay him the marriage debt, and yet has not the power to marry again, so is it in this case.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che una moglie non possa prendersi un altro marito se quest’ultimo ha intrapreso la vita religiosa prima della consumazione del matrimonio. Infatti, ciò che è compatibile con i vincoli coniugali non dissolve il legame matrimoniale. Il legame matrimoniale rimane quindi intatto anche quando entrambi i coniugi pronunciano voti religiosi. Pertanto, il fatto che uno dei coniugi intraprenda la vita religiosa non libera l’altro dai vincoli coniugali; e poiché lei è ancora legata a lui per matrimonio, non può sposare un altro uomo. Quindi, ecc.
+
+Obiezione 2: Inoltre, dopo essere entrato in religione e prima di pronunciare i voti, il marito può tornare al mondo secolare. Se dunque la moglie può risposarsi quando il marito entra in religione, anche lui può risposarsi quando ritorna al mondo secolare: il che è assurdo.
+
+Obiezione 3: Inoltre, secondo un nuovo decreto (cap. Non solum, de regular. et transeunt.), una professione religiosa, se fatta prima della scadenza di un anno, viene considerata nulla. Pertanto, se un uomo ritorna alla propria moglie dopo aver pronunciato tale professione, lei è obbligata ad accettarlo. Quindi, né l’ingresso del marito nella religione, né il suo pronunciamento di voto possono impedire alla moglie di risposarsi in seguito.
+
+Al contrario, nessuno può costringere un altro ad aderire a ciò che appartiene alla perfezione. Ora, la castità rientra tra le cose che appartengono alla perfezione; pertanto, una moglie non è obbligata a mantenere la castità solo perché suo marito entra in religione, e di conseguenza può sposarsi nuovamente.
+
+Rispondo che, proprio come la morte fisica del marito dissolve il legame coniugale in modo che la moglie possa sposare chi vuole, secondo quanto affermato dall’Apostolo (1 Corinzi 7:39), allo stesso modo, dopo la “morte spirituale” del marito attraverso l’ingresso nella religione, anche lei può sposare chi vuole.
+
+Risposta all’Obiezione 1: Quando entrambi i coniugi pronunciano lo stesso voto di castità, nessuno dei due rinuncia al legame matrimoniale, che quindi rimane intatto; ma quando solo uno dei due pronuncia tale voto, egli, da parte sua, rinuncia al legame matrimoniale, liberando così l’altro.
+
+Risposta all’Obiezione 2: Una persona non è considerata morta dal punto di vista del mondo esterno fino al momento in cui compie il rito di ingresso nella religione; pertanto, sua moglie è obbligata ad aspettarlo fino a quel momento.
+
+Risposta all’Obiezione 3: Dobbiamo considerare una professione fatta in questo modo prima del termine stabilito dalla legge come un semplice voto. Pertanto, proprio come quando il marito ha fatto un semplice voto, sua moglie non è obbligata a ripagargli i debiti coniugali, ma allo stesso tempo non ha il diritto di sposarsi di nuovo, lo stesso vale in questo caso.
+
 <span class="atom-split" data-atom="109" data-title="OF THE IMPEDIMENT THAT SUPERVENES TO MARRIAGE AFTER ITS CONSUMMATION, NAMELY FORNICATION (SIX ARTICLES)" data-chapter="OF THE IMPEDIMENT THAT SUPERVENES TO MARRIAGE AFTER ITS CONSUMMATION, NAMELY FORNICATION (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the impediment that supervenes upon marriage after its consummation,
@@ -5689,6 +7753,16 @@ marriage tie remains. Under this head there are six points of inquiry:
 (4) Whether in this matter husband and wife are of equal condition?
 (5) Whether, after being divorced, they must remain unmarried?
 (6) Whether they can be reconciled after being divorced?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’impedimento che sorge dopo la consumazione del matrimonio, ovvero la fornicazione, che rappresenta un ostacolo a un nuovo matrimonio per quanto riguarda l’atto stesso, anche se il legame coniugale rimane in vigore. In questo ambito vi sono sei punti da esaminare:  
+(1) È lecito per un marito ripudiare sua moglie per motivi di fornicazione?  
+(2) È obbligato a farlo?  
+(3) Può decidere di ripudiarla a proprio giudizio?  
+(4) In questa questione, marito e moglie hanno lo stesso status legale?  
+(5) Dopo il divorzio, devono rimanere single?  
+(6) È possibile riconciliarsi dopo il divorzio?
 
 <span class="atom-split" data-atom="110" data-title="Whether it is lawful for a husband to put away his wife on account of fornication?" data-chapter="Whether it is lawful for a husband to put away his wife on account of fornication?" data-kind="atom" data-srclang="en"></span>
 
@@ -5749,6 +7823,28 @@ which is a proof of obstinacy wherein unbelief is perfected.
 Reply to Objection 4: Steps may be taken to procure a divorce on account also of the unnatural
 vice: but this is not mentioned in the same way, both because it is an unmentionable passion, and
 because it does not so affect the certainty of offspring.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra illegale che un marito abbandoni sua moglie per adulterio. Infatti non dobbiamo ricambiare il male con il male. Ma il marito, abbandonando la moglie per adulterio, sembra proprio ricambiare il male con il male. Pertanto, questo comportamento non è legittimo.
+
+Obiezione 2: Inoltre, il peccato è più grave se entrambi commettono adulterio, rispetto al caso in cui lo commetta solo uno dei due. Tuttavia, se entrambi commettono adulterio, non possono divorziare per questo motivo; allo stesso modo, nemmeno possono divorziare se lo commette solo uno di loro.
+
+Obiezione 3: Inoltre, la fornicazione spirituale e alcuni altri peccati sono più gravi della fornicazione carnale. Tuttavia, la separazione dal letto coniugale non può essere motivata da questi peccati; pertanto, nemmeno può essere attuata a causa della fornicazione stessa.
+
+Obiezione 4: Inoltre, il vizio innaturale è ancora più lontano dagli elementi essenziali del matrimonio rispetto alla fornicazione, la cui pratica è considerata naturale. Pertanto, dovrebbe essere considerato una causa di separazione molto più grave della fornicazione stessa.
+
+Al contrario, sono proprio le parole di Matteo 5:32 a confermarlo. Inoltre, non si è obbligati a mantenere la fede verso chi la tradisce; ma un coniuge che commette adulterio viola la fede nei confronti dell’altro coniuge. Pertanto, è possibile separarsi a causa dell’adulterio.
+
+Rispondo che il nostro Signore permise a un uomo di divorziare dalla propria moglie per adulterio, come punizione della parte infedele e a favore di quella fedele, affinché quest’ultima non fosse costretta a mantenere rapporti coniugali con la parte infedele. Tuttavia esistono sette casi in cui non è legittimo divorziare da una moglie che ha commesso adulterio: quando la moglie non è da biasimare, o quando entrambi i coniugi sono ugualmente colpevoli. Il primo caso riguarda l’uomo che ha commesso anch’egli adulterio; il secondo, quando ha prostituito sua moglie; il terzo, quando la moglie, credendo il marito morto a causa della sua lunga assenza, si è risposata; il quarto, quando un altro uomo ha simulato fraudolentemente l’identità del marito durante il rapporto coniugale; il quinto, quando lei è stata costretta con la forza; il sesto, quando l’uomo si è riconciliato con lei dopo che lei aveva commesso adulterio; il settimo, quando entrambi si erano sposati in uno stato di incredulità e successivamente il marito le ha consegnato un atto di divorzio e lei si è risposata; in questi casi, se entrambi si convertissero alla fede cristiana, l’uomo sarebbe obbligato a riprenderla in sposa.
+
+Risposta all’Obiezione 1: Un marito pecca se, spinto da un’ira vendicativa, abbandona la moglie che ha commesso adulterio; tuttavia, non pecca se lo fa al fine di evitare di perdere la propria reputazione, per non sembrare complice del suo peccato, o per correggere il suo errore, oppure per evitare le incertezze legate ai figli che potrebbero nascere da quel rapporto.
+
+Risposta all’Obiezione 2: Il divorzio per adulterio viene pronunciato da colui che accusa l’altro. E poiché nessuno può accusare qualcuno che ha commesso lo stesso reato, il divorzio non può essere dichiarato quando entrambi hanno commesso adulterio; inoltre, il matrimonio viene più violato quando entrambi sono colpevoli di adulterio che quando solo uno lo è.
+
+Risposta all’Obiezione 3: La fornicazione è direttamente contraria al bene del matrimonio, poiché con essa viene distrutta la certezza della prole, viene infranta la fede e il matrimonio perde il suo significato quando il corpo di uno sposo viene condiviso con più persone. Pertanto, anche altri peccati, sebbene forse più gravi della fornicazione, non costituiscono motivi sufficienti per un divorzio. Tuttavia, l’infedeltà, che può essere considerata una forma di “fornicazione spirituale”, è anch’essa contraria al bene del matrimonio, il quale consiste nell’educare la prole al [culto](/concepts/religion) di Dio; pertanto rappresenta anch’essa un motivo per il divorzio, ma non nello stesso modo della fornicazione fisica. Poiché si possono intraprendere azioni per ottenere il divorzio a causa di un atto di fornicazione carnale, non lo si può fare invece a causa di un singolo atto di infedeltà, bensì a causa di un’infedeltà persistente e radicata, che costituisce una dimostrazione di ostinazione e rappresenta il culmine dell’infedeltà stessa.
+
+Risposta all’Obiezione 4: È possibile intraprendere azioni al fine di ottenere il divorzio anche a causa di vizi innaturali; tuttavia, questo aspetto non viene menzionato nello stesso modo, sia perché si tratta di una passione indegna di essere citata, sia perché tale condotta non influisce in modo significativo sulla certezza della nascita di figli.
 
 <span class="atom-split" data-atom="111" data-title="Whether the husband is bound by precept to put away his wife when she is guilty of fornication?" data-chapter="Whether the husband is bound by precept to put away his wife when she is guilty of fornication?" data-kind="atom" data-srclang="en"></span>
 
@@ -5811,6 +7907,36 @@ forbidden.
 Reply to Objection 6: The wife sins not only against her husband, but also against herself and
 against God, wherefore her husband cannot entirely remit the punishment, unless amendment has
 followed.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il marito sia obbligato, per precetto divino, a separarsi dalla moglie colpevole di adulterio. Poiché il marito è la guida della moglie, ha il dovere di correggerla; e la separazione dal letto viene considerata un mezzo efficace per correggere una donna che ha commesso adulterio. Pertanto, egli è tenuto a separarsi da lei.
+
+Obiezione 2: Inoltre, colui che consente a qualcuno che commette un peccato mortale è anch’egli colpevole di quel peccato. Ora, il marito che mantiene una moglie colpevole di adulterio sembrerebbe concordare con lei, come indicato nel testo (Sentenze iv, D, 35). Pertanto, commette peccato a meno che non la lasci.
+
+Obiezione 3: Inoltre, è scritto (1 Corinzi 6:16): “Chi si unisce a una prostituta diventa uno con lei”. Ora, un uomo non può contemporaneamente essere membro di una prostituta e membro di Cristo (1 Corinzi 6:15). Pertanto, il marito che si unisce a una moglie colpevole di adulterio smette di essere membro di Cristo, e quindi commette un peccato mortale.
+
+Obiezione 4: Inoltre, proprio come il rapporto sessuale illegittimo annulla il vincolo coniugale, allo stesso modo la fornicazione dissolve il legame matrimoniale. Ora, una volta che il marito viene a conoscenza del legame di consanguineità con sua moglie, commette un peccato mortale se ha rapporti carnali con lei; pertanto, commette anch’esso un peccato mortale se lo fa dopo aver saputo che ella è colpevole di fornicazione.
+
+Obiezione 5:
+
+Al contrario, un commento su 1 Corinzi 7:11, “Che il marito non lasci la moglie”, afferma che “Nostro Signore permise che una moglie venisse lasciata a causa di adulterio”. Pertanto, non si tratta di un precetto.
+
+Obiezione 6: Inoltre, si può sempre perdonare il peccato che un altro ha commesso contro di noi. Ora, poiché la moglie ha commesso adulterio, ha peccato contro suo marito; pertanto, il marito può perdonarla e non divorziarla.
+
+Rispondo che la separazione di una moglie colpevole di adulterio era prescritta al fine che essa potesse essere corretta attraverso tale punizione. Ora, una punizione correzionale non è necessaria quando il pentimento è già avvenuto. Pertanto, se la moglie si pente del suo peccato, il marito non è obbligato a separarsi da lei; al contrario, se ella non si pente, egli è tenuto a farlo, affinché non sembri approvare il suo peccato, evitando così di ricorrere alla correzione dovuta.
+
+Risposta all’Obiezione 1: La moglie può essere corretta per il suo peccato di adulterio non solo con questa punizione, ma anche con parole e colpi; pertanto, se ella è disposta ad essere corretta in altri modi, il marito non è obbligato a ricorrere alla suddetta punizione per correggerla.
+
+Risposta all’Obiezione 2: Il marito sembra concordare con lei quando la mantiene con sé, nonostante lei persista nel proprio peccato passato; tuttavia, se si fosse ravveduta, lui non concorderebbe più con lei.
+
+Risposta all’Obiezione 3: Non può più essere chiamata prostituta poiché si è pentita del suo peccato. Pertanto, il marito, unendosi a lei, non diventa membro di una prostituta. Potremmo anche ribattere che si unisce a lei non come a una prostituta, ma come a sua moglie.
+
+Risposta all’Obiezione 4: Non esiste alcuna analogia, poiché l’effetto della consanguineità è proprio quello di impedire qualsiasi legame matrimoniale tra le persone coinvolte, rendendo quindi il rapporto carnale illegittimo. Al contrario, la fornicazione non elimina tale legame; pertanto l’atto in sé rimane legittimo, a meno che non diventi accidentalmente illegittimo, nel caso in cui il marito sembri consentire alle attività licenziose della moglie.
+
+Risposta all’Obiezione 5: Questo permesso deve essere inteso come l’assenza di un divieto; pertanto non è in contraddizione con alcun precetto, poiché ciò che rientra nell’ambito di un precetto non è nemmeno vietato.
+
+Risposta all’Obiezione 6: La moglie pecca non solo contro il proprio marito, ma anche contro se stessa e contro Dio; pertanto, il marito non può assolutamente rimuovere la punizione, a meno che lei non si penta sinceramente.
 
 <span class="atom-split" data-atom="112" data-title="Whether the husband can on his own judgment put away his wife on account of fornication?" data-chapter="Whether the husband can on his own judgment put away his wife on account of fornication?" data-kind="atom" data-srclang="en"></span>
 
@@ -5890,6 +8016,35 @@ by denunciation, which should be preceded by fraternal correction." Accordingly 
 Lord refers to the case where the process is by way of denunciation, and not by accusation, because
 then the end in view is not only the correction of the guilty party, but also his punishment, for the
 safeguarding of the common good, which would be destroyed if justice were lacking.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il marito possa, in base al proprio giudizio, divorziare dalla moglie per adulterio. Infatti, quando il giudice ha emesso la sentenza, è legale attuarla senza ulteriori procedimenti legali. Ma Dio, il Giudice giusto, ha stabilito che un marito possa divorziare dalla moglie per adulterio; pertanto non è necessario alcun altro processo per farlo.
+
+Obiezione 2: Inoltre, si afferma (Matteo 1:19) che Giuseppe, essendo un uomo giusto, “intendeva sposare” Maria in segreto. Pertanto, sembrerebbe che un marito possa pronunciare un divorzio in modo privato, senza il giudizio della Chiesa.
+
+Obiezione 3: Inoltre, se un marito, dopo essersi reso conto della prostituzione di sua moglie, continua ad avere rapporti con lei, perde il diritto di intentare azioni legali contro l’adultera. Pertanto, la rinuncia al debito coniugale, che riguarda il divorzio, dovrebbe precedere la sentenza della Chiesa.
+
+Obiezione 4: Inoltre, ciò che non può essere dimostrato non dovrebbe essere sottoposto al giudizio della Chiesa. Ora, il crimine di adulterio non può essere provato, poiché “l’occhio dell’adultero vede solo tenebre” (Job 24:15). Pertanto, il divorzio in questione non dovrebbe essere autorizzato sulla base del giudizio della Chiesa.
+
+Obiezione 5: Inoltre, l’accusa dovrebbe essere preceduta da una dichiarazione formale [*Cfr. SS, Q[33], A[7 attraverso la quale una persona si impegna a subire conseguenze negative in caso di mancata presentazione delle prove. Ma ciò è impossibile in questo caso, poiché in ogni eventualità il marito raggiungerebbe lo scopo desiderato, sia che abbia divorziato dalla moglie sia che sia stata lei ad abbandonarlo. Pertanto, la moglie non dovrebbe essere convocata tramite accusa per affrontare il giudizio della Chiesa.
+
+Obiezione 6: Inoltre, un uomo è più legato a sua moglie che a uno sconosciuto. Ora, un uomo non dovrebbe denunciare il crimine di un altro, anche se si tratta di uno sconosciuto, senza prima rimproverarlo in privato (Matteo 18:15). Perciò, con ancora maggiore ragione, un marito non può portare il crimine di sua moglie davanti alla Chiesa, a meno che non l’abbia prima rimproverata in privato.
+
+Al contrario, nessuno dovrebbe vendicarsi da solo. Tuttavia, se un marito decides, in base al proprio giudizio, di divorziare dalla propria moglie per adulterio, allora egli si vendicherà. Pertanto, ciò non dovrebbe essere permesso.  
+Inoltre, nessuno può contemporaneamente ricoprire il ruolo di pubblico ministero e giudice nella stessa causa. Il marito, però, agisce come pubblico ministero quando denuncia la moglie per l’offesa che lei gli ha arrecato; quindi non può anche assumere il ruolo di giudice, e di conseguenza non può decidere da solo del divorzio.
+
+Rispondo che un marito può separarsi dalla moglie in due modi. Il primo consiste nel vietarle l’accesso al letto, e in questo caso può farlo a proprio giudizio non appena abbia prove della sua adulterio; inoltre, non è obbligato a pagare i debiti coniugali su sua richiesta, a meno che non venga costretto dalla Chiesa, e facendolo non danneggia in alcun modo la propria posizione legale. Il secondo modo consiste nel vietarle sia l’accesso al letto che il sostentamento, e in questo caso la separazione può avvenire soltanto su decisione della Chiesa; se invece la separazione è stata effettuata in altro modo, il marito deve essere costretto a convivere con lei, a meno che non possa immediatamente dimostrare l’adulterio di sua moglie. Questo tipo di separazione viene chiamato divorzio; pertanto, è necessario ammettere che un divorzio non può essere pronunciato se non su decisione della Chiesa.
+
+Risposta all’Obiezione 1: La frase rappresenta l’applicazione di una legge generale a un caso particolare. Pertanto, Dio ha stabilito le leggi secondo cui devono essere emesse le sentenze dei tribunali.
+
+Risposta all’Obiezione 2: Giuseppe intendeva allontanare la Beata Vergine non perché sospettato di adulterio, ma per rispetto alla sua santità, poiché temeva di convivere con lei. Inoltre, non esiste alcun paragone possibile in questo caso, poiché all’epoca la pena prevista dalla legge era non solo il divorzio, ma anche la lapidazione; oggi, invece, la questione viene portata davanti alla Chiesa per essere giudicata. La risposta all’Obiezione Terza è chiara, come emerso dalle argomentazioni precedenti.
+
+Risposta all’Obiezione 4: A volte, quando un marito sospetta che sua moglie lo tradisca, la osserva di nascosto insieme a testimoni, al fine di scoprire con certezza il suo peccato di adulterio e poter quindi presentare accuse formali. Inoltre, anche in assenza di prove concrete, possono esistere forti sospetti di adulterio; tali sospetti, una volta confermati, sembrano costituire prove valide del reato stesso. Ad esempio, se i due vengono trovati insieme da soli in un luogo e a un’ora che possono destare sospetti, o se vengono sorpresi nudi insieme.
+
+Risposta all’Obiezione 5: Un marito può accusare la moglie di adulterio in due modi. In primo luogo, può chiedere una separazione coniugale davanti a un giudice spirituale; in questo caso non è necessario alcun atto formale che imponga conseguenze legali nel caso di insuccesso della sua richiesta, poiché così otterrà comunque lo scopo desiderato. In secondo luogo, può chiedere che il reato venga punito in un tribunale secolare; in questo caso è necessario redigere un atto formale che lo impegni legalmente, con la conseguenza di subire sanzioni nel caso non riesca a dimostrare la fondatezza delle sue accuse.
+
+Risposta all’Obiezione 6: Secondo un Decretale (Extra, De Simonia, cap. Licet), “esistono tre [modi](/concepts/mode) di procedura nei casi penali. Il primo è l’inquisizione, che deve essere preceduta da una fase di notorietà; il secondo è l’accusa, che deve essere preceduta da un’iscrizione ufficiale; il terzo è la denuncia, che deve essere preceduta da un tentativo di correzione fraterna”. Pertanto, l’affermazione del nostro Signore si riferisce al caso in cui la procedura avviene tramite denuncia e non attraverso accusa, poiché in questo modo l’obiettivo non è soltanto la correzione della parte colpevole, ma anche la sua punizione, al fine di proteggere il bene comune che verrebbe distrutto in assenza di giustizia.
 
 <span class="atom-split" data-atom="113" data-title="Whether in a case of divorce husband and wife should be judged on a par with each other?" data-chapter="Whether in a case of divorce husband and wife should be judged on a par with each other?" data-kind="atom" data-srclang="en"></span>
 
@@ -5972,6 +8127,33 @@ aggravating circumstance, nevertheless the sin is yet more aggravated by this ci
 draws the sin to another species, namely by the lesion to marriage, which lesion becomes a kind
 of injustice, through the fraudulent substitution of another's child.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che, nel caso di divorzio, marito e moglie non dovrebbero essere giudicati alla stessa stregua. Infatti, il divorzio previsto dalla [Nuova Legge](/concepts/divine_law) sostituisce quello denominato “repudium” riconosciuto dall’Antica Legge (Matteo 5:31-32). Nel caso del “repudium”, marito e moglie non venivano giudicati alla stessa stregua, poiché il marito poteva ripudiare la moglie, ma non viceversa. Pertanto, nemmeno nel divorzio dovrebbero essere giudicati alla stessa stregua.
+
+Obiezione 2: Inoltre, è ancora più contrario alla [legge naturale](/positions/natural_law) che una moglie abbia diversi mariti rispetto al fatto che un marito abbia diverse mogli: infatti, quest’ultimo caso è stato talvolta consentito dalla legge, mentre il primo mai. Pertanto, la moglie pecca in modo più grave nell’adulterio rispetto al marito, e di conseguenza non dovrebbero essere giudicati allo stesso modo.
+
+Obiezione 3: Inoltre, quando si arrecca un danno maggiore al proprio prossimo, il peccato commesso è anche più grave. Ora, la moglie adultera arreca un danno maggiore al proprio marito rispetto a quanto il marito adultero ne arrechi alla propria moglie; infatti, l’adulterio di una moglie comporta l’incertezza riguardo alla prole, mentre quello di un marito non lo comporta. Pertanto, il peccato della moglie è più grave e, di conseguenza, non dovrebbero essere giudicati allo stesso modo.
+
+Obiezione 4: Inoltre, il divorzio è previsto al fine di punire il crimine dell’adulterio. Ora spetta al marito, che è il capo della moglie (1 Corinzi 11:3), correggerla, e non viceversa. Pertanto, non dovrebbero essere giudicati allo stesso modo per motivi di divorzio; il marito dovrebbe avere la priorità.
+
+Obiezione 5:
+
+Al contrario, sembrerebbe che in questa materia la moglie dovrebbe avere la priorità. Infatti, più debole è il peccatore, più merita il suo peccato essere perdonato. Ora, nelle donne c’è una debolezza maggiore rispetto agli uomini; per questo motivo Crisostomo afferma nell’[*Hom. xl dell’Opus Imperfectum*], falsamente attribuito a San Giovanni Crisostomo, che “la lussuria è una passione propria delle donne”, e il Filosofo dice (Etica vii, 7) che “propriamente parlando, non si può dire che le donne siano caste, poiché sono facilmente incline alla concupiscenza”; inoltre, nemmeno gli animali muti possono essere considerati casti, poiché nulla ostacola i loro desideri. Pertanto, nelle punizioni legate al divorzio, le donne dovrebbero essere risparmiate.
+
+Obiezione 6: Inoltre, l’uomo viene considerato il capo della donna al fine di correggerla; pertanto il suo peccato è più grave di quello della donna e quindi dovrebbe essere punito più severamente.
+
+Rispondo che, nel caso di divorzio, marito e moglie vengono giudicati in modo paritario, nel senso che le stesse cose sono considerate legittime o illecite per entrambi; tuttavia non vengono giudicati allo stesso modo riguardo a determinati aspetti, poiché la motivazione per il divorzio è più grave in uno dei coniugi rispetto all’altro, anche se in entrambi esistono ragioni sufficienti per divorziare. Il divorzio, infatti, rappresenta una punizione per l’adulterio, in quanto contraddice i valori fondamentali del matrimonio. Per quanto riguarda il dovere di fedeltà, che è ugualmente obbligatorio per entrambi i coniugi, l’adulterio di uno rappresenta lo stesso grave peccato contro il matrimonio dell’adulterio dell’altro; pertanto, in entrambi i casi esiste una ragione sufficiente per divorziare. Tuttavia, per quanto riguarda il bene dei figli, l’adulterio della moglie rappresenta un peccato più grave contro il matrimonio rispetto a quello del marito; quindi costituisce una motivazione più valida per il divorzio da parte della moglie che da parte del marito. In conclusione, i coniugi sono sottoposti allo stesso obbligo, ma non per le stesse ragioni. E ciò non è ingiusto, poiché in entrambi i casi esistono motivazioni sufficienti per tale punizione; proprio come due persone condannate alla pena di morte possono essere giudicate allo stesso modo, anche se una delle due ha commesso un peccato più grave dell’altra.
+
+Risposta all’Obiezione 1: L’unica ragione per cui il divorzio fu permesso era evitare l’omicidio. E poiché questo pericolo era maggiore negli uomini che nelle donne, al marito fu concesso di separarsi dalla moglie tramite un atto di divorzio, ma non viceversa.  
+Risposta alle Obiezioni 2 e 3: Questi argomenti si basano sul fatto che, rispetto ai benefici per i figli, vi siano maggiori motivi per concedere il divorzio a una moglie adultera piuttosto che a un marito adultero. Tuttavia, ciò non significa che tali motivi vengano valutati in modo diverso l’uno dall’altro.
+
+Risposta all’Obiezione 4: Sebbene il marito sia il capo della moglie, egli è, per così dire, il suo guida, e non è certo il suo giudice, proprio come lei non lo è per lui. Pertanto, in materia che richiedono l’intervento di un giudice, il marito non ha più potere sulla moglie di quanto ne abbia lei su di lui.
+
+Risposta all’Obiezione 5: Nell’adulterio vi è lo stesso carattere peccaminoso della semplice fornicazione, e inoltre qualcosa che lo aggrava, ovvero il danno arrecato al matrimonio. Pertanto, se consideriamo ciò che è comune all’adulterio e alla fornicazione, il peccato dell’uomo e quello della donna si possono paragonare come “ciò che eccede” rispetto a “ciò che viene ecceduto”: nelle donne, infatti, gli umori sono più abbondanti, per cui tendono maggiormente ad essere guidate dalle loro concupiscenze; nell’uomo, invece, l’eccessiva passione sessuale è stimolata da una natura fisica particolarmente fervente. In parole semplici, a parità di condizioni, un uomo pecca più gravemente nella semplice fornicazione rispetto a una donna, poiché possiede in misura maggiore la capacità razionale che dovrebbe prevalere su tutte le pulsioni corporee. Tuttavia, per quanto riguarda il danno al matrimonio causato dall’adulterio – motivo per cui esso costituisce un’occasione di divorzio – è la donna a peccare più gravemente dell’uomo, come emerge da quanto detto in precedenza. E poiché l’adulterio è considerato un peccato più grave della semplice fornicazione, ne consegue che, a parità di condizioni, la moglie adultera pecca più gravemente del marito adultero.
+
+Risposta all’Obiezione 6: Sebbene il controllo che l’uomo esercita sulla moglie costituisca una circostanza aggravante, il peccato diventa ancora più grave proprio a causa di questa circostanza, che trasforma il peccato in un altro tipo di comportamento ingiusto, ovvero attraverso la lesione del matrimonio, che si configura come una forma di ingiustizia dovuta alla sostituzione fraudolenta del figlio altrui.
+
 <span class="atom-split" data-atom="114" data-title="Whether a husband can marry again after having a divorce?" data-chapter="Whether a husband can marry again after having a divorce?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a husband can marry again after having a divorce. For no one
@@ -6026,6 +8208,12 @@ marriage debt, but it would be unlawful for her to demand it.
 
 Reply to Objection 4: The exception expressed in our Lord's words refers to the putting away
 of the wife. Hence the objection is based on a false interpretation.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 3: Sebbene, dopo il divorzio, la moglie non sia più obbligata a pagare i debiti coniugali né a convivere con il marito, il legame matrimoniale che un tempo la vincolava a queste obbligazioni rimane in vigore; pertanto lei non può risposarsi durante la vita del proprio ex marito. Tuttavia, può pronunciare un voto di castità contro la volontà del marito, a meno che non si possa ritenere che la Chiesa sia stata ingannata da falsi testimoni nell’emettere il decreto di divorzio; in tal caso, anche se avesse già pronunciato tale voto, dovrebbe essere restituita al marito e sarebbe obbligata a pagare i debiti coniugali, ma non le sarebbe permesso richiederli legalmente.
+
+Risposta all’Obiezione 4: L’eccezione espressa nelle parole del nostro Signore si riferisce al divorzio dalla moglie. Pertanto, l’obiezione si basa su un’interpretazione errata.
 
 <span class="atom-split" data-atom="116" data-title="Whether husband and wife may be reconciled after being divorced?" data-chapter="Whether husband and wife may be reconciled after being divorced?" data-kind="atom" data-srclang="en"></span>
 
@@ -6086,12 +8274,43 @@ the divorce. But according to equity, the judge is bound by virtue of his office
 him to beware of imperiling his own soul and of scandalizing others; although the wife may not
 herself seek reconciliation.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che marito e moglie non possano riconciliarsi dopo il divorzio.  
+Infatti, la legge contiene questa norma (Can. Quod bene semel, Caus. vi, qu. iv): “Ciò che è stato una volta deciso in modo definitivo non deve essere successivamente revocato”. Ora, per decisione della Chiesa, essi devono essere separati; pertanto non possono riconciliarsi in seguito.
+
+Obiezione 2: Inoltre, se fosse consentito che si riconciliassero, sembrerebbe che il marito fosse obbligato ad accettare di nuovo sua moglie, soprattutto dopo che questa si fosse pentita. Ma in realtà non è obbligato a farlo; infatti, la moglie, nel difendersi davanti al giudice, non può addurre il proprio pentimento per contraddire l’accusa di adulterio avanzata dal marito. Pertanto, in nessun caso la riconciliazione è consentita.
+
+Obiezione 3: Inoltre, se la riconciliazione fosse consentita, sembrerebbe che una moglie adultera fosse obbligata a tornare dal proprio marito se questi lo chiedesse. Ma in realtà non è obbligata, poiché sono separati dalla Chiesa. Pertanto, eccetera.
+
+Obiezione 4: Inoltre, se fosse legittimo riconciliarsi con una moglie adultera, ciò sarebbe ancora più vero nel caso in cui si scoprisse che il marito aveva commesso adulterio dopo il divorzio. Ma in questo caso la moglie non potrebbe costringerlo a riconciliarsi, poiché il divorzio è stato pronunciato giustamente. Pertanto, essa non potrebbe mai riconciliarsi con lui.
+
+Obiezione 5: Inoltre, se un marito la cui adulterio è sconosciuto divorziasse dalla moglie, convinta di adulterio per sentenza della Chiesa, sembrerebbe che il divorzio sia stato pronunciato ingiustamente. Eppure il marito non è obbligato a riconciliarsi con la moglie, poiché lei non è in grado di provare il suo adulterio in tribunale. Quindi, tanto meno è ammissibile una riconciliazione quando il divorzio è stato concesso giustamente.
+
+Al contrario, è scritto (1 Corinzi 7:11): “E se lei se ne va, che rimanga nubile o si riconcili con suo marito.” Inoltre, è permesso al marito di non divorziare da lei dopo un adulterio; pertanto, per lo stesso motivo, può anche riconciliarsi con lei dopo il divorzio.
+
+Rispondo che, se la moglie ha corretto il proprio comportamento pentendosi del proprio peccato dopo il divorzio, suo marito può riconciliarsi con lei; ma se rimane irremediabilmente colpevole, non deve riprenderla con sé, per lo stesso motivo che gli impediva di tenerla accanto a sé quando si rifiutava di smettere di peccare.
+
+Risposta all’Obiezione 1: La dichiarazione della Chiesa riguardo al divorzio non li obbligava necessariamente a separarsi, ma permetteva loro di farlo. Pertanto, la riconciliazione può avvenire o essere possibile senza alcun ritiro della precedente dichiarazione.
+
+Risposta all’Obiezione 2: Il pentimento della moglie dovrebbe indurre il marito a non accusare né allontanare la moglie colpevole di adulterio. Tuttavia, lui non può essere costretto ad agire in questo modo, né sua moglie può opporre il proprio pentimento alle sue accuse; perché, anche se lei non è più colpevole, né nell’atto né nel peccato commesso, rimane comunque una sorta di “debito” di punizione. Sebbene tale debito sia stato cancellato davanti a Dio, esiste ancora il debito di punizione che deve essere adempiuto secondo la giustizia umana, poiché l’uomo non vede nel cuore delle persone come fa Dio.
+
+Risposta all’Obiezione 3: Ciò che viene fatto a favore di una persona non le arreca alcun danno. Pertanto, poiché il divorzio è stato concesso a favore del marito, questo non lo priva del diritto di chiedere il rimborso dei debiti contratti durante il matrimonio, né del diritto di richiedere che la moglie ritorni da lui. Di conseguenza, la moglie è obbligata a pagare i debiti e a tornare dal marito, se questi lo richiede, a meno che non abbia, con il suo consenso, preso un voto di castità.
+
+Risposta all’Obiezione 4: Secondo la legge rigorosa, un marito che in precedenza era innocente non dovrebbe essere costretto ad accettare una moglie adultera solo perché ha commesso adulterio dopo il divorzio. Tuttavia, secondo i principi dell’equità, il giudice, per via della sua funzione, è prima di tutto tenuto a esortarlo a fare attenzione a non mettere in pericolo la propria anima e a non causare scandali; anche se la moglie stessa potrebbe non desiderare una riconciliazione.
+
 <span class="atom-split" data-atom="117" data-title="OF SECOND MARRIAGES (TWO ARTICLES)" data-chapter="OF SECOND MARRIAGES (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 In the next place we must consider second marriage. Under this head there are two points of
 inquiry:
 (1) Whether it is lawful?
 (2) Whether it is a [sacrament](/concepts/sacrament)?
+
+<span class="qlang-split" data-lang="it"></span>
+
+In seguito, dobbiamo considerare il secondo matrimonio. In questo ambito ci sono due questioni da esaminare:  
+(1) È legittimo?  
+(2) È un [sacramento](/concepts/sacrament)?
 
 <span class="atom-split" data-atom="118" data-title="Whether a second marriage is lawful?" data-chapter="Whether a second marriage is lawful?" data-kind="atom" data-srclang="en"></span>
 
@@ -6133,6 +8352,28 @@ they are debarred from second marriages, which lack the decorum which was in a f
 Reply to Objection 4: Irregularity is not always incurred on account of a sin, and may be
 incurred through a defect in a [sacrament](/concepts/sacrament) [*"Defectus sacramenti," i.e. defect of signification; Cf.
 A[2], OBJ[3]]. Hence the argument is not to the point.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un secondo matrimonio sia illegale. Dopotutto, dovremmo giudicare le cose in base alla verità. Ora, Crisostomo [*Hom. xxxii nell’“Opus Imperfectum” falsamente attribuito a San Giovanni Crisostomo*] afferma che “prendere un secondo marito equivale di fatto ad adulterio”, il quale è illegale. Pertanto, nemmeno un secondo matrimonio può essere considerato legittimo.
+
+Obiezione 2: Inoltre, tutto ciò che non è buono è illegale. Ora Ambrogio, nel suo *Commento su 1 Corinzi 7:40 e De Viduis*, afferma che un secondo matrimonio non sia buono; pertanto è illegale.
+
+Obiezione 3: Inoltre, nessuno dovrebbe essere escluso dalla partecipazione a eventi che siano appropriati e legittimi. Tuttavia ai sacerdoti è vietato partecipare ai matrimoni secondari, come indicato nel testo (Sentenze iv, D, 42). Pertanto, tali matrimoni sono considerati illegali.
+
+Obiezione 4: Inoltre, nessuno subisce una punizione se non per un peccato. Ora, una persona subisce la punizione relativa all’irregolarità per aver contratto due matrimoni. Pertanto, un secondo matrimonio è illegale.
+
+Al contrario, leggiamo che Abramo contrasse un secondo matrimonio (Genesi 25:1). Inoltre, l’Apostolo afferma (1 Timoteo 5:14): “Desidero, che le vedove più giovani si sposino e abbiano figli”. Pertanto, i matrimoni secondi sono legittimi.
+
+Rispondo che il legame coniugale dura soltanto fino alla morte (Romani 7:2); pertanto, alla morte di uno dei coniugi, tale legame cessa. Di conseguenza, quando uno muore, l’altro non è impedito dal precedente matrimonio di sposarsi nuovamente. Pertanto, non solo i matrimoni successivi sono legali, ma lo sono anche quelli terzi e così via.
+
+Risposta all’Obiezione 1: Crisostomo si riferisce alla causa che talvolta spinge una persona a contrarre un secondo matrimonio, ovvero la concupiscenza, che induce anche al peccato di adulterio.
+
+Risposta all’Obiezione 2: Si afferma che un secondo matrimonio non sia giusto, non perché sia illegale, ma perché manca dell’onore e del significato propri di un primo matrimonio, in cui un uomo ha una sola moglie, come nel caso di Cristo e della Chiesa.
+
+Risposta all’Obiezione 3: Gli uomini consacrati alle cose divine sono vietati non solo di compiere atti illeciti, ma anche di partecipare ad azioni che presentino anche solo l’apparenza della turpitudine; pertanto, sono esclusi anche dal matrimonio secondario, poiché quest’ultimo manca del decoro che caratterizza un primo matrimonio.
+
+Risposta all’Obiezione 4: L’irregolarità non deriva sempre da un peccato, ma può anche essere causata da un difetto in un [sacramento](/concepts/sacrament) (*“Defectus sacramenti”, cioè difetto nella sua efficacia simbolica; cfr. A[2], OBJ[3]). Pertanto, questo argomento non è pertinente.
 
 <span class="atom-split" data-atom="119" data-title="Whether a second marriage is a sacrament?" data-chapter="Whether a second marriage is a sacrament?" data-kind="atom" data-srclang="en"></span>
 
@@ -6191,6 +8432,28 @@ defective sacrament.
 Reply to Objection 4: A second marriage in so far as there is a defect in the sacrament, but
 not as a sacrament, is an impediment to the sacrament of Order.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un secondo matrimonio non sia un [sacramento](/concepts/sacrament). Infatti, chi ripete un sacramento lo offende in sé stesso. Ma nessun sacramento dovrebbe essere offeso in questo modo. Pertanto, se un secondo matrimonio fosse un sacramento, allora il matrimonio non dovrebbe mai essere ripetuto.
+
+Obiezione 2: Inoltre, in ogni sacramento viene conferita qualche forma di benedizione. Ma nel secondo matrimonio nessuna benedizione viene concessa, come affermato nel testo (Sentenze iv, D, 42). Pertanto, in quel caso non viene conferito alcun sacramento.
+
+Obiezione 3: Inoltre, il significato è essenziale per un sacramento. Ma il significato del matrimonio non viene conservato nel secondo matrimonio, poiché in questo caso non si verifica l’unione di una sola donna con un solo uomo, come avviene tra Cristo e la Chiesa. Pertanto, il secondo matrimonio non è un sacramento.
+
+Obiezione 4: Inoltre, un sacramento non costituisce un ostacolo al ricevimento di un altro sacramento. Ma un secondo matrimonio rappresenta un ostacolo al ricevimento degli ordini sacri; pertanto, non può essere considerato un sacramento.
+
+Al contrario, il rapporto coniugale è scusato dal peccato anche nel secondo matrimonio, così come nel primo. Ora, il rapporto coniugale è giustificato dai valori coniugali, ovvero fedeltà, prole e sacramento; pertanto anche il secondo matrimonio è un sacramento. Inoltre, una relazione irregolare non si verifica attraverso un’unione secondaria e non sacramentale, come l’adulterio; tuttavia, una relazione irregolare può sorgere anche nel corso di un secondo matrimonio. Quindi, anche il secondo matrimonio è considerato un’unione sacramentale.
+
+Rispondo che, ovunque si trovino gli elementi essenziali di un sacramento, vi è un vero sacramento. Pertanto, poiché nel matrimonio ripetuto si trovano tutti gli elementi essenziali del sacramento del matrimonio – cioè la materia necessaria, derivante dalle condizioni prescritte dalla legge, e la forma adeguata, che rappresenta l’espressione del consenso interno attraverso parole pronunciate nel presente – è evidente che anche il matrimonio ripetuto sia un sacramento, proprio come il primo.
+
+Risposta all’Obiezione 1: Ciò vale per un sacramento che produce un effetto duraturo; in tal caso, se il sacramento viene ripetuto, si implica che il primo non sia stato efficace, e quindi ne deriva un danno al primo stesso, come è evidente in tutti quei sacramenti che imprimono un carattere permanente sulla persona che li riceve. Tuttavia, i sacramenti che non producono effetti duraturi possono essere ripetuti senza causare alcun danno, come nel caso della Penitenza. Inoltre, poiché il legame coniugale termina con la morte, non vi è alcun danno al sacramento matrimoniale se una donna si risposa dopo la morte del marito.
+
+Risposta all’Obiezione 2: Sebbene il secondo matrimonio, considerato in sé, sia un sacramento perfetto, tuttavia, se lo si considera in relazione al primo matrimonio, esso appare in qualche modo un sacramento imperfetto, poiché non possiede la sua piena significazione; infatti, in questo caso non si verifica l’unione di una sola donna con un solo uomo, come avviene nel matrimonio tra Cristo e la Chiesa. Proprio a causa di questa imperfezione, nella seconda unione matrimoniale viene omessa la benedizione. Tuttavia, ciò riguarda il caso in cui sia l’uomo che la donna contraggono un secondo matrimonio, oppure solo la donna. Se una vergine sposa un uomo che ha avuto un’altra moglie, il matrimonio viene comunque benedetto; infatti, la significazione del sacramento viene in parte conservata anche rispetto al primo matrimonio, poiché sebbene Cristo abbia una sola Chiesa come sua sposa, molte persone sono “sposate” a Lui all’interno di quella stessa Chiesa. Tuttavia, l’anima non può essere “sposata” a nessun altro al di fuori di Cristo, altrimenti commetterebbe adulterio con il diavolo; inoltre, non esiste un matrimonio spirituale. Per queste ragioni, quando una donna si sposa per la seconda volta, il matrimonio non viene benedetto a causa dell’imperfezione del sacramento stesso.
+
+Risposta all’Obiezione 3: Il significato perfetto del matrimonio si trova nel matrimonio stesso considerato in sé, e non invece se viene considerato in relazione al matrimonio precedente; ed è proprio per questo che il matrimonio ripetuto costituisce un sacramento difettoso.
+
+Risposta all’Obiezione 4: Un secondo matrimonio, nella misura in cui presenta un difetto riguardo al sacramento stesso, ma non come tale sacramento, rappresenta un ostacolo al sacramento dell’Ordine.
+
 <span class="atom-split" data-atom="120" data-title="OF THE THINGS ANNEXED TO MARRIAGE, AND FIRST OF THE PAYMENT OF THE MARRIAGE DEBT (TEN ARTICLES)" data-chapter="OF THE THINGS ANNEXED TO MARRIAGE, AND FIRST OF THE PAYMENT OF THE MARRIAGE DEBT (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 In the next place we must consider those things which are annexed to marriage: (1) the payment
@@ -6208,6 +8471,21 @@ the debt?
 (8) Whether it is a mortal sin to ask for it at a holy time?
 (9) Whether it is an obligation to pay it at the time of a festival?
 (10) Whether weddings should be forbidden at certain times?
+
+<span class="qlang-split" data-lang="it"></span>
+
+In secondo luogo, dobbiamo considerare quelle cose che sono collegate al matrimonio: (1) il pagamento del debito coniugale; (2) la poligamia; (3) il bigamio; (4) la dichiarazione di divorzio; (5) i figli illegittimi.  
+Relativamente al primo punto, vi sono dieci questioni da esaminare:  
+(1) È obbligato uno dei coniugi a pagare il debito coniugale all’altro?  
+(2) A volte è necessario pagare senza che se ne chieda esplicitamente?  
+(3) Una moglie può richiedere il pagamento del debito durante le mestruazioni?  
+(4) È lei obbligata a pagarlo in quel periodo?  
+(5) Sono uguali marito e moglie in questa materia?  
+(6) Uno dei coniugi, senza il consenso dell’altro, può pronunciare un voto che vieti il pagamento del debito?  
+(7) È vietato richiedere il pagamento del debito in momenti particolari?  
+(8) È un peccato mortale richiederlo in tempi sacri?  
+(9) È obbligatorio pagarlo durante le feste?  
+(10) Dovrebbero essere proibiti i matrimoni in determinati periodi?
 
 <span class="atom-split" data-atom="121" data-title="Whether husband and wife are mutually bound to the payment of the marriage debt?" data-chapter="Whether husband and wife are mutually bound to the payment of the marriage debt?" data-kind="atom" data-srclang="en"></span>
 
@@ -6275,6 +8553,28 @@ Reply to Objection 4: Leprosy voids a betrothal but not a marriage. Wherefore a 
 to pay the debt even to a leprous husband. But she is not bound to cohabit with him, because she
 is not so liable to infection from marital intercourse as from continual cohabitation. And though
 the child begotten of them be diseased, it is better to be thus than not at all.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che marito e moglie non siano reciprocamente obbligati, in base all’obbligo derivante da un precetto, al pagamento del debito coniugale. Infatti, a nessuno è vietato ricevere l’eucaristia per aver adempiuto a un precetto. Tuttavia, colui che ha avuto rapporti sessuali con sua moglie non può partecipare alla carne dell’Agnello, secondo quanto affermato da Gerolamo nel [*Sermone sull’Agnello* VIII], citato nel testo (Sentenze IV, D, 32). Pertanto, il pagamento di tale debito non rientra nell’ambito degli obblighi derivanti dai precetti.
+
+Obiezione 2: Inoltre, è legittimo per chiunque astenersi da ciò che può nuocere alla propria persona. Tuttavia, a volte pagare un debito quando vi si viene chiesto può rivelarsi dannoso, sia a causa di malattia che perché il debito è già stato pagato in precedenza. Pertanto, sembrerebbe consentibile rifiutare chi richiede il pagamento.
+
+Obiezione 3: Inoltre, è un peccato rendersi incapace di adempiere a un dovere imposto da un precetto. Se quindi il pagamento del debito rientra nell’ambito di un dovere derivante da un precetto, sembrerebbe peccaminoso rendersi impossibilitati a pagare quel debito, astenendosi dal mangiare o indebolendo in qualche altro modo il proprio corpo; ma evidentemente ciò non è vero.
+
+Obiezione 4: Inoltre, secondo il Filosofo (Etica, viii, 12), il matrimonio ha lo scopo di generare e allevare i figli, nonché di condividere la vita insieme. Ora, la lebbra si oppone a entrambi questi scopi del matrimonio: poiché si tratta di una malattia contagiosa, la moglie non è obbligata a convivere con un marito lebbroso; inoltre, questa malattia viene spesso trasmessa anche ai figli. Pertanto, sembrerebbe che una moglie non sia obbligata ad adempiere ai doveri coniugali verso un marito lebbroso.
+
+Al contrario, così come lo schiavo è sotto il potere del suo padrone, allo stesso modo uno sposo è sotto il potere dell’altro (1 Corinzi 7:4). Tuttavia lo schiavo è vincolato da un dovere legale a ripagare al proprio padrone il debito derivante dal proprio servizio, come stabilito in Romani 13:7: “Rendete a tutti ciò che è loro dovuto; tributo a chi deve essere pagato tributo”, ecc. Pertanto anche marito e moglie sono reciprocamente obbligati a ripagare il “debito coniugale”. Inoltre, il matrimonio ha lo scopo di evitare la fornicazione (1 Corinzi 7:2); questo scopo non potrebbe essere raggiunto se uno dei coniugi non fosse obbligato a ripagare l’altro quando quest’ultimo è afflitto dalla [concupiscenza](/concepts/concupiscence). Pertanto, il pagamento di tale debito rappresenta un dovere legale.
+
+Rispondo che il matrimonio è stato istituito appositamente per adempiere a una funzione naturale. Pertanto, nel suo atto deve essere rispettato il movimento naturale stesso: infatti, la forza nutritiva deve essere utilizzata esclusivamente al fine di alimentare quella generativa, e soltanto ciò che va oltre le necessità per la conservazione dell’individuo può essere impiegato a tale scopo. L’ordine naturale richiede infatti che una cosa venga prima perfezionata in sé stessa e solo successivamente trasmetta la propria perfezione ad altri; questo è anche l’ordine della carità, che perfeziona la natura stessa. Pertanto, poiché la moglie ha potere sul marito soltanto in relazione alla funzione generativa e non in quella legata alla conservazione dell’individuo, il marito è tenuto a onorare i propri doveri nei confronti della moglie riguardo alla procreazione, tenendo però conto del proprio benessere.
+
+Risposta all’Obiezione 1: È possibile, adempiendo a un precetto, rendersi inadatti all’esercizio di un dovere sacro; così, un giudice diventa inadatto all’esercizio delle proprie funzioni se condanna a morte qualcuno. Allo stesso modo, colui che paga il debito coniugale, adempiendo a tale precetto, diventa inadatto all’assunzione di uffici religiosi, non perché l’atto in questione sia peccaminoso, ma a causa della sua natura carnale. E quindi, secondo il Maestro (Sentenze, iv, D, 32), Gerolamo parla soltanto dei ministri della Chiesa, e non di altre persone che dovrebbero essere lasciate libere di decidere autonomamente, poiché, senza peccare, possono astenersi per rispetto o ricevere il corpo di Cristo per devozione.
+
+Risposta all’Obiezione 2: La moglie non ha alcun potere sul corpo del marito, se non nel grado che sia conforme al benessere della sua persona, come già detto sopra. Pertanto, se lei va oltre in quanto chiede, ciò non costituisce una richiesta legittima, ma un’estorsione ingiusta; e per questo motivo il marito non è obbligato a soddisfarla.
+
+Risposta all’Obiezione 3: Se il marito diventa incapace di pagare il debito a causa di un evento che deriva dal matrimonio – ad esempio, perché ha già pagato il debito ma non è in grado di ripagarlo – la moglie non ha il diritto di chiederlo nuovamente; altrimenti si comporterebbe come una prostituta e non come una moglie. Tuttavia, se la sua incapacità deriva da un altro motivo, e tale motivo è legittimo, lui non è obbligato a pagare e lei non può richiederlo; se invece il motivo è illegittimo, allora lui pecca, e anche il peccato di sua moglie, qualora si dedichi alla fornicazione per questa ragione, può essere in qualche modo attribuito a lui. Pertanto, egli dovrebbe fare del suo meglio affinché sua moglie rimanga casta.
+
+Risposta all’Obiezione 4: La lebbra annulla un fidanzamento, ma non un matrimonio. Pertanto, la moglie è obbligata a pagare i debiti anche verso un marito lebbroso; tuttavia, non è tenuta a convivere con lui, poiché non corre lo stesso rischio di contrarre l’infezione attraverso il rapporto coniugale quanto attraverso una convivenza continua. E anche se il figlio nato da loro fosse malato, sarebbe comunque meglio averlo che non averne affatto.
 
 <span class="atom-split" data-atom="122" data-title="Whether a husband is bound to pay the debt if his wife does not ask for it? (1/2)" data-chapter="Whether a husband is bound to pay the debt if his wife does not ask for it?" data-kind="atom" data-srclang="en"></span>
 
@@ -6398,6 +8698,55 @@ Further, the menstruous wife should not be an occasion of sin to her husband. Bu
 give her husband an occasion of sin, if she paid him not the debt at his asking; since he might
 commit fornication. Therefore, etc.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il marito non sia obbligato a pagare il debito coniugale se sua moglie non lo richiede. Infatti, un precetto positivo è vincolante soltanto in un determinato momento; ma il momento fissato per il pagamento del debito può essere soltanto quando esso viene richiesto. Pertanto, in caso contrario, il marito non è obbligato a pagare.
+
+Obiezione 2: Inoltre, dovremmo presumere che in ogni persona ci siano aspetti positivi. Anche per le persone sposate, è preferibile astenersi dal rapporto coniugale piuttosto che avvalersene. Pertanto, a meno che la moglie non chieda esplicitamente il pagamento del debito, il marito dovrebbe presumere che sia sua volontà astenersi dal pagare tale debito; quindi non è obbligato a farlo.
+
+Obiezione 3: Inoltre, poiché la moglie ha potere sul marito, allo stesso modo il padrone ha potere sul suo schiavo. Ora, uno schiavo non è obbligato a servire il proprio padrone se quest’ultimo non glielo ordina esplicitamente; pertanto, nemmeno un marito è obbligato a pagare i debiti verso la propria moglie se lei non li richiede.
+
+Obiezione 4: Inoltre, il marito può talvolta chiedere alla moglie di non esigere il debito quando questa lo richiede. Quindi, con ancora maggiore ragione, non è tenuto a pagarlo quando non viene sollecitato a farlo.
+
+Al contrario, il pagamento del debito rappresenta un rimedio contro la concupiscenza della moglie. Un medico, infatti, che si occupa di una persona malata è tenuto a curarla senza essere sollecitato; pertanto anche il marito è obbligato a pagare il debito verso sua moglie, anche se lei non lo richiede. Inoltre, un superiore ha il dovere di intervenire per correggere i peccati dei suoi sottoposti, anche se questi si ribellano contro tale intervento. Il pagamento del debito da parte del marito, quindi, mira a rimediare ai peccati della moglie; per questo motivo, a volte il marito è comunque tenuto a farlo, anche se lei non lo chiede esplicitamente.
+
+Rispondo che il debito può essere richiesto in due modi: primo, in modo esplicito, quando le persone se lo chiedono a parole; secondo, in modo implicito, quando il marito intuisce, attraverso certi segni, che la moglie desidera che paghi il debito, ma rimane in silenzio per vergogna. Pertanto, anche se lei non richiede esplicitamente il pagamento del debito a parole, il marito è obbligato a farlo ogni volta che sua moglie mostri segni di volerlo.
+
+Risposta all’Obiezione 1: Il termine stabilito non coincide soltanto con il momento in cui tale pagamento è richiesto, ma anche con quello in cui, a causa di determinati segnali, sorge la paura di un pericolo (che è lo scopo stesso del pagamento del debito), a meno che esso non venga effettuato entro quel lasso di tempo.
+
+Risposta all’Obiezione 2: Il marito può presumere ciò riguardo a sua moglie quando non percepisce in lei alcun segno contrario; tuttavia sarebbe sciocco da parte sua ammettere tale presunzione se effettivamente osservasse tali segni.
+
+Risposta all’Obiezione 3: Il padrone non si vergogna di chiedere al proprio schiavo il dovere del servizio, così come una moglie chiede al marito il pagamento dei debiti derivanti dal matrimonio. Tuttavia, anche se il padrone non lo richiedesse, sia per ignoranza che per qualche altro motivo, lo schiavo sarebbe comunque obbligato a adempiere al proprio dovere, qualora ci fosse un pericolo incombente. Questo è ciò che si intende con l’espressione “non servire solo per compiacere gli occhi degli altri” (Efesini 6:6; Colossesi 3:22), che rappresenta l’ordine dell’Apostolo ai servi.
+
+Risposta all’Obiezione 4: Un marito non dovrebbe dissuadere sua moglie dal chiedere il rimborso del debito, se non per una ragione valida; e anche in tal caso non dovrebbe essere troppo insistente, considerando il pericolo che ne consegue.
+
+È consentito a una donna in periodo mestruale di richiedere il rimborso del debito contratto durante il matrimonio? [*Questo punto, così come il Quarto Articolo, sono omessi nell’edizione Leonina.]*
+
+Obiezione 1: Sembra legittimo che una donna in periodo mestruale chieda il rimborso del debito contratto durante il matrimonio. Infatti, nella Legge un uomo che avesse eiaculato era considerato impuro, proprio come una donna in periodo mestruale; tuttavia, un uomo che ha eiaculato può chiedere il rimborso del debito, quindi anche una donna in periodo mestruale potrebbe farlo.
+
+Obiezione 2: Inoltre, la lebbra è una malattia più grave rispetto ai disturbi mestruali e sembrerebbe causare un danno maggiore nella prole. Eppure una persona affetta da lebbra può chiedere il rimborso dei debiti. Pertanto, ecc.
+
+Obiezione 3: Inoltre, se a una donna in periodo mestruale non è permesso chiedere il rimborso del debito, ciò può avvenire soltanto perché si teme che ciò possa essere dannoso per i figli. Tuttavia, se la donna è sterile, tale timore non sussiste. Pertanto, sembrerebbe che almeno una donna sterile possa chiedere il rimborso del debito durante il periodo mestruale.
+
+Al contrario, il precetto “Non ti avvicinare a una donna nel suo periodo mestruale” (Lv 18:19): su questo punto [Agostino](/figures/augustine) osserva: “Anche se l’esplicito divieto è già stato sufficientemente chiarito, esso viene ripetuto qui per evitare che possa sembrare espresso in modo figurato”. Inoltre, si legge “Tutti i nostri giudici sono diventati come la sporcizia di una donna mestruante” (Is 64:6); Gerolamo commenta: “Allora gli uomini dovrebbero tenersi lontani dalle loro mogli, poiché così vengono concepiti figli deformi, ciechi, zoppi e lebbrosi; coloro che non si vergognano di unirsi sessualmente fanno sì che il loro peccato diventi evidente a tutti”. Da ciò deriva la stessa conclusione.
+
+Rispondo che, nella Legge, era vietato avvicinarsi a una donna in periodo mestruale per due motivi: da un lato, a causa della sua “impurità”, e dall’altro, a causa del danno che tale rapporto spesso causava alla prole. Per quanto riguarda il primo motivo, si trattava di un precetto cerimoniale; per quanto riguarda il secondo, invece, di un precetto morale. Poiché il matrimonio è principalmente finalizzato al bene della prole, qualsiasi utilizzo del matrimonio che sia diretto al bene della prole è giustificato. Pertanto, anche nella [Nuova Legge](/concepts/divine_law) questo precetto rimane valido per il secondo motivo, sebbene non per il primo. Ora, il flusso mestruale può essere naturale o innaturale: quello naturale si verifica in periodi specifici e quando la donna è in buona salute; mentre quello innaturale si ha in caso di disturbi patologici che causano sanguinamenti. Pertanto, se il flusso mestruale è innaturale, nella Nuova Legge non è vietato avvicinarsi a una donna in tale stato: da un lato perché essa, in quella condizione, non può concepire; dall’altro perché tale sanguinamento è prolungato e continuo, il che significherebbe che il marito dovrebbe astenersi per sempre. Tuttavia, quando la donna presenta un flusso mestruale naturale, può concepire; inoltre, tale flusso dura solo per poco tempo, ed è proprio per questo motivo che le viene vietato di avvicinarsi al marito durante quel periodo. Allo stesso modo, a una donna è vietato chiedere il rimborso dei debiti durante il periodo del flusso mestruale.
+
+Risposta all’Obiezione 1: La presenza di “seme” nell’uomo è il risultato di una malattia, e in questo caso tale “seme” non è adatto alla generazione. Inoltre, un simile disturbo persiste nel tempo, proprio come la lebbra; pertanto, il paragone proposto non è appropriato. Ciò basta per rispondere alla Seconda Obiezione.
+
+Risposta all’Obiezione 3: Finché una donna è soggetta alle mestruazioni, non si può essere certi che sia sterile. Infatti alcune donne sono sterili in giovane età e, col tempo, diventano fertili; e viceversa, come osserva il Filosofo (De Gener. Anim., xvi).
+
+Una donna in periodo mestruale dovrebbe o può, secondo la legge, pagare il debito coniugale al proprio marito se questi lo richiede?  
+[*Questo articolo, così come quello precedente, è omesso nell’edizione Leonina.]*
+
+Obiezione 1: Sembra che una donna in periodo mestruale non possa pagare il debito coniugale al proprio marito quando questi lo richiede. Infatti è scritto (Levitico 20:18) che chi si avvicini a una donna in periodo mestruale sarà punito con la morte. Pertanto, sembrerebbe che sia colpevole di peccato mortale sia colui che chiede tale pagamento sia lei stessa che lo accetta.
+
+Obiezione 2: Inoltre, “Non solo coloro che compiono tali atti, ma anche coloro che vi consenziscono meritano la morte” (Romani 1:32). Chi chiede intenzionalmente il pagamento di un debito a una donna in periodo mestruale commette un peccato mortale; pertanto, anche lei commette un peccato mortale acconsentendo a pagare quel debito.
+
+Obiezione 3: Inoltre, a un pazzo non deve essere restituita la spada, per evitare che si suicidi o uccida qualcun altro. Pertanto, allo stesso modo, una moglie non dovrebbe concedere il proprio corpo al marito durante le mestruazioni, per evitare che egli commetta un “omicidio spirituale”.
+
+Al contrario, “La moglie non ha potere sul proprio corpo, ma appartiene al marito” (1 Corinzi 7:4). Pertanto, su richiesta del marito, la moglie deve pagare il debito anche durante le sue mestruazioni. Inoltre, una donna in periodo mestruale non dovrebbe costituire un’occasione di peccato per il proprio marito; tuttavia, se non gli pagasse il debito su sua richiesta, potrebbe fornirgli l’opportunità di commettere peccato, poiché lui potrebbe incorrere in adulterio. Pertanto, eccetera.
+
 <span class="atom-split" data-atom="123" data-title="Whether a husband is bound to pay the debt if his wife does not ask for it? (2/2)" data-chapter="Whether a husband is bound to pay the debt if his wife does not ask for it?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, In this regard some have asserted that a menstruous woman may not pay the
@@ -6428,6 +8777,16 @@ unwilling she is passive rather than consenting.
 
 Reply to Objection 3: A madman should be given back his sword if a greater danger were
 feared from its not being returned to him: and thus it is in the case in point.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Rispondo che, a questo proposito, alcuni hanno affermato che una donna in periodo mestruale non possa rimborsare il debito, così come non possa chiederne il pagamento. Poiché, proprio come non sarebbe obbligata a farlo se soffrisse di qualche malattia personale che potesse metterla in pericolo, allo stesso modo non è tenuta a pagare per timore del danno che ciò potrebbe arrecare al suo futuro figlio. Tuttavia, questa opinione sembrerebbe denigrare il matrimonio, poiché esso conferisce al marito pieno potere sul corpo della moglie in relazione all’atto coniugale. Inoltre, non esiste alcuna analogia tra le sofferenze fisiche del figlio e i pericoli che potrebbero derivare dal corpo stesso della madre: se la donna è malata, è certo che l’atto sessuale possa metterla in pericolo, mentre ciò non è affatto certo nel caso del figlio, il quale potrebbe anche non nascere. Pertanto, altri sostengono che a una donna in periodo mestruale non sia mai permesso chiedere il rimborso del debito; e che, se il marito lo richiede, lo faccia o consapevolmente o per ignoranza. Se lo fa consapevolmente, la moglie dovrebbe dissuaderlo con preghiere e ammonimenti; tuttavia, non in modo così insistente da fornirgli l’occasione di ricorrere ad altre pratiche peccaminose, qualora si ritienga che sia incline a farlo. Se invece chiede per ignoranza, la moglie può addurre motivi legati alla sua salute o dichiarare di essere malata come scusa per non pagare il debito, a meno che non vi sia un reale pericolo per il marito. Tuttavia, se il marito insiste nella sua richiesta, la moglie deve cedere alle sue insistenze. Ma non sarebbe sicuro da parte sua manifestare apertamente il proprio dissenso, altrimenti ciò potrebbe far sì che il marito sviluppi avversione per lei, a meno che non si possa dare per scontata la sua prudenza.
+
+Risposta all’Obiezione 1: Ciò si riferisce al caso in cui entrambi consenziscano volontariamente, ma non a quando la donna paga il debito, per così dire, con la forza.
+
+Risposta all’Obiezione 2: Poiché non esiste consenso senza la condivisione della volontà, la donna non si considera coinvolta nel peccato del marito a meno che non lo compia volontariamente. Infatti, quando è riluttante, agisce in modo passivo e non consente realmente.
+
+Risposta all’Obiezione 3: A un pazzo dovrebbe essere restituita la sua spada, se si temesse un pericolo maggiore nel caso in cui essa non gli venisse restituita; ed è proprio questo il caso in questione.
 
 <span class="atom-split" data-atom="124" data-title="Whether husband and wife are equal in the marriage act?" data-chapter="Whether husband and wife are equal in the marriage act?" data-kind="atom" data-srclang="en"></span>
 
@@ -6478,6 +8837,28 @@ equal in proportion.
 Reply to Objection 4: Although the head is the principal member, yet just as the members are
 bound to the head in their own respective capacities, so is the head in its own capacity bound to
 the members: and thus there is equality of proportion between them.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che marito e moglie non siano uguali nell’atto coniugale. Infatti, secondo [Agostino](/figures/augustine) (Genesi ad litteram xii), l’agente è di natura più nobile rispetto al soggetto passivo. Ma nell’atto coniugale il marito agisce come agente e la moglie come soggetto passivo; pertanto non sono uguali in tale atto.
+
+Obiezione 2: Inoltre, la moglie non è obbligata a pagare i debiti del marito senza che questi glielo chieda; mentre lui lo è, come detto sopra (AA[1],2). Pertanto, nel matrimonio non sono uguali.
+
+Obiezione 3: Inoltre, la donna fu creata per l’uomo, in relazione al matrimonio; secondo Genesi 2:18: “Facciamogli un aiuto simile a lui”. Ma ciò che costituisce il motivo principale di questa creazione è sempre l’uomo stesso. Pertanto, eccetera.
+
+Obiezione 4: Inoltre, il matrimonio è principalmente finalizzato all’atto coniugale. Tuttavia, nel matrimonio “il marito è la testa della moglie” (Efesini 5:23). Pertanto, non sono uguali nell’atto menzionato.
+
+Al contrario, è scritto (1 Corinzi 7:4): “Il marito, non ha potere sul proprio corpo”, e lo stesso vale per la moglie. Pertanto, sono uguali nell’atto coniugale. Inoltre, il matrimonio è una relazione di uguaglianza, poiché rappresenta un tipo di unione, come già detto sopra (Q[44], AA[1],3). Quindi marito e moglie sono uguali nell’atto coniugale.
+
+Rispondo che l’uguaglianza è di due tipi: quella di quantità e quella di proporzione. L’uguaglianza di quantità si verifica quando due grandezze hanno la stessa misura; ad esempio, un oggetto lungo due cubiti e un altro altrettanto lungo. L’uguaglianza di proporzione, invece, si verifica quando due rapporti sono dello stesso tipo, come “doppio a doppio”. Pertanto, in termini di primo tipo di uguaglianza, marito e moglie non sono uguali nel matrimonio: né per quanto riguarda l’atto coniugale, dove il ruolo più nobile spetta al marito, né per quanto riguarda la gestione della casa, dove è la moglie a essere guidata dal marito. Tuttavia, in termini di secondo tipo di uguaglianza, sono uguali in entrambi questi ambiti: poiché sia nell’atto coniugale che nella gestione domestica il marito ha obblighi verso la moglie in tutto ciò che riguarda i suoi doveri, così anche la moglie ha obblighi verso il marito in tutto ciò che riguarda i suoi doveri. È in questo senso che si afferma nel testo (Sentenze IV, D, 32) che siano uguali nel pagare e nel richiedere i debiti.
+
+Risposta all’Obiezione 1: Sebbene sia più nobile essere attivi che passivi, esiste lo stesso rapporto tra pazienza e passività quanto tra agente e attività; pertanto, vi è un equilibrio proporzionale tra di loro.
+
+Risposta all’Obiezione 2: Ciò è dovuto a ragioni accidentali. Poiché il marito svolge nel atto coniugale il ruolo più nobile, è naturale che provi meno imbarazzo della moglie nel chiedere il rimborso del debito. Per questo motivo, la moglie non è obbligata a pagare il debito al marito senza che quest’ultimo lo richieda, mentre il marito è tenuto a pagarlo alla moglie.
+
+Risposta all’Obiezione 3: Ciò dimostra che non sono uguali in modo assoluto, ma non che non siano uguali in proporzione.
+
+Risposta all’Obiezione 4: Sebbene la testa sia il membro principale, proprio come i singoli membri sono legati alla testa nelle loro rispettive funzioni, anche la testa, nella sua funzione specifica, è legata ai membri; pertanto esiste un’uguaglianza di proporzione tra di loro.
 
 <span class="atom-split" data-atom="125" data-title="Whether husband and wife can take a vow contrary to the marriage debt without their mutual consent?" data-chapter="Whether husband and wife can take a vow contrary to the marriage debt without their mutual consent?" data-kind="atom" data-srclang="en"></span>
 
@@ -6546,6 +8927,28 @@ just as a wife cannot ask her husband for the debt to the detriment of his bodil
 can she do this so as to hinder him in his duty to his master. And yet the master cannot for this
 reason prevent her from paying the debt.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che marito e moglie possano pronunciare un voto contrario al debito coniugale senza il consenso reciproco. Infatti, come detto in precedenza (A[5]), sia il marito che la moglie sono ugualmente obbligati a pagare tale debito. Ora è legittimo per il marito, anche se sua moglie fosse contraria, prendere parte alle crociate in difesa della Terra Santa; pertanto lo stesso dovrebbe essere legittimo anche per la moglie. Poiché ciò impedisce il pagamento del debito, sia il marito che la moglie possono pronunciare tale voto senza il consenso dell’altro.
+
+Obiezione 2: Inoltre, nel pronunciare un voto non si dovrebbe attendere il consenso di una persona che non possa dissentire senza peccare. Ora, sia il marito che la moglie non possono, senza peccare, rifiutare il proprio consenso al voto di castità da parte dell’altro, né in modo assoluto né per un determinato periodo; poiché impedire lo [progresso](/positions/progress) spirituale di una persona rappresenta un peccato contro lo Spirito Santo. Pertanto, uno dei coniugi può pronunciare un voto di castità, sia in modo assoluto che per un certo periodo, senza il consenso dell’altro.
+
+Obiezione 3: Inoltre, nell’atto matrimoniale, il debito deve essere richiesto esattamente come deve essere pagato. Ora, una delle parti può, senza il consenso dell’altra, giurare di non richiedere il debito, poiché in questo caso agisce entro i propri diritti. Pertanto, può altrettanto giurare di non pagare il debito.
+
+Obiezione 4: Inoltre, nessuno può essere obbligato dall’ordine di un superiore a compiere qualcosa che non possa legittimamente promettere o fare, poiché non si deve obbedire a ciò che è illegale. Ora, l’autorità superiore potrebbe ordinare al marito di non pagare il debito verso sua moglie per un certo periodo, impegnandolo in qualche altro compito. Pertanto, egli potrebbe, di sua volontà, compiere o promettere qualcosa che gli impedirebbe di pagare il debito.
+
+Al contrario, è scritto (1 Corinzi 7:5): “Non ingannatevi a vicenda, salvo che lo facciate per un certo periodo di tempo, con il consenso reciproco, al fine di potervi dedicare alla preghiera”. Inoltre, nessuno può fare voto su ciò che appartiene ad altri. Poiché “il marito non ha potere sul proprio corpo, ma la moglie” (1 Corinzi 7:4), senza il suo consenso, il marito non può pronunciare un voto di castità, né assoluto né temporaneo.
+
+Rispondo che un voto è un atto volontario, come suggerisce appunto il suo nome; pertanto, un voto può riguardare soltanto beni soggetti alla nostra volontà, mentre ciò che lega una persona all’altra non rientra in questa categoria. Di conseguenza, in questioni di questo genere, una persona non può pronunciare un voto senza il consenso di colui verso cui è legata. Poiché marito e moglie sono reciprocamente obbligati a rispettare i doveri coniugali che rappresentano un ostacolo alla continenza, uno dei due non può pronunciare un voto di castità senza il consenso dell’altro; in caso contrario, commetterebbe un peccato e non dovrebbe mantenere tale voto, ma dovrebbe compiere penitenze per averlo fatto in modo errato [*Cfr. Q[53], AA[1],4; Q[61], A[1*.
+
+Risposta all’Obiezione 1: È sufficientemente probabile che la moglie debba essere disposta a rimanere casta per un certo periodo di tempo, al fine di soddisfare le esigenze della Chiesa universale. Pertanto, a favore dell’impresa per la quale viene offerta la croce, si stabilisce che il marito possa accettarla senza il consenso della moglie, proprio come potrebbe andare in battaglia senza il permesso del proprietario terriero da cui ha affittato la terra. Tuttavia, la moglie non viene completamente privata dei suoi diritti, poiché può seguirlo. Inoltre, non esiste alcuna analogia tra moglie e marito: poiché è il marito a dover guidare la moglie e non viceversa, quest’ultima è tenuta ad seguirlo piuttosto che lui lei. In più, vi sarebbero maggiori rischi per la castità della moglie nel caso in cui viaggiasse da un paese all’altro, rispetto al marito, e ciò porterebbe meno benefici alla Chiesa. Pertanto, la moglie non può pronunciare questo voto senza il consenso del marito.
+
+Risposta all’Obiezione 2: Il coniuge che rifiuta di accordarsi sul voto di castità dell’altro non commette peccato, poiché lo scopo della sua opposizione non è quello di ostacolare il bene dell’altro, ma di proteggere se stesso dal danno che potrebbe derivargli.
+
+Risposta all’Obiezione 3: Su questo punto esistono due opinioni diverse. Alcuni sostengono che si possa, senza il consenso dell’altro coniuge, promettere di non richiedere il debito, ma non necessariamente di non pagarlo, poiché nel primo caso entrambi agiscono all’interno dei propri diritti, mentre nel secondo no. Tuttavia, considerando che se uno coniuge non chiedesse mai il rimborso del debito, questo diventerebbe un onere eccessivo per l’altro, costretto a subire continuamente l’imbarazzo di doverlo richiedere, altri ritengono con maggiore probabilità che nessuna delle due promesse possa essere legalmente accettata da uno sposo senza il consenso dell’altro.
+
+Risposta all’Obiezione 4: Proprio come la moglie possiede il potere su corpo del marito, senza pregiudicare il dovere che quest’ultimo ha verso il proprio corpo, allo stesso modo ciò avviene anche in relazione al dovere che il marito ha nei confronti del suo padrone. Pertanto, proprio come una moglie non può chiedere al marito di pagare un debito a scapito della sua salute fisica, allo stesso modo non può farlo nemmeno per ostacolare il suo dovere verso il padrone. Eppure, il padrone non può impedirle di pagare quel debito per tale motivo.
+
 <span class="atom-split" data-atom="126" data-title="Whether it is forbidden to demand the debt on holy days?" data-chapter="Whether it is forbidden to demand the debt on holy days?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a person ought not to be forbidden to ask for the debt on holy
@@ -6572,6 +8975,20 @@ perpetual continence have recourse.
 
 Reply to Objection 2: Although one is not bound to pray at all hours, one is bound throughout
 the day to keep oneself fit for prayer.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non si dovrebbe impedire a una persona di chiedere il rimborso del debito nei giorni santi. Infatti, il rimedio deve essere applicato quando la “malattia” diventa più intensa; e l’[concupiscenza](/concepts/concupiscence) potrebbe proprio rafforzarsi in un giorno festivo. Pertanto, il rimedio dovrebbe essere applicato anche in quel momento, chiedendo il rimborso del debito.
+
+Obiezione 2: Inoltre, l’unica ragione per cui il debito non dovrebbe essere richiesto nei giorni di festa è che tali giorni sono dedicati alla preghiera. Tuttavia, in quei giorni vengono comunque stabiliti momenti specifici per la preghiera; pertanto si potrebbe chiedere il rimborso del debito in un altro momento qualsiasi.
+
+Al contrario, proprio come certi luoghi sono sacri perché dedicati a cose sacre, allo stesso modo certi momenti sono sacri per la stessa ragione. Tuttavia non è lecito richiedere il pagamento di un debito in un luogo sacro; pertanto, nemmeno in un momento sacro è lecito farlo.
+
+Rispondo che, sebbene l’atto coniugale non sia intriso di peccato, poiché soffoca la ragione a causa del piacere carnale, rende l’uomo inadatto alle cose spirituali. Pertanto, nei giorni in cui si dovrebbe dedicare particolarmente il proprio tempo alle cose spirituali, non è lecito chiedere il rimborso di un debito.
+
+Risposta all’Obiezione 1: In un simile momento possono essere utilizzati altri mezzi per reprimere la concupiscenza; ad esempio, la preghiera e molte altre pratiche simili, a cui ricorrono anche coloro che mantengono una continenza perpetua.
+
+Risposta all’Obiezione 2: Sebbene non si sia obbligati a pregare in ogni momento, è comunque necessario, durante tutto il giorno, mantenersi in condizioni idonee per pregare.
 
 <span class="atom-split" data-atom="127" data-title="Whether it is a mortal sin to ask for the debt at a holy time?" data-chapter="Whether it is a mortal sin to ask for the debt at a holy time?" data-kind="atom" data-srclang="en"></span>
 
@@ -6601,6 +9018,20 @@ unbecoming. For under the Old Law which was given to a carnal people many things
 under an obligation of precept, for the sake of bodily cleanness, which are not required in the New
 Law which is the law of the spirit.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che chiedere il rimborso di un debito in un momento sacro costituisca un peccato mortale. Infatti Gregorio afferma (Dial. i) che il diavolo prese possesso di una donna che aveva avuto rapporti con suo marito di notte e, al mattino, partecipò alla processione. Ma questo non sarebbe accaduto se lei non avesse commesso un peccato mortale. Pertanto, ecc.
+
+Obiezione 2: Inoltre, chi disobbedisce a un comandamento divino commette un peccato mortale. Il Signore infatti ordinò (Esodo 19:15): “Non avvicinatevi alle vostre mogli”, proprio nel momento in cui stavano per ricevere la Legge. Pertanto, i mariti commettono un peccato mortale ancora più grave se hanno rapporti con le loro mogli in momenti in cui dovrebbero dedicarsi alle sacre osservanze della [Nuova Legge](/concepts/divine_law).
+
+Al contrario, nessuna circostanza aggrava un peccato in modo infinito; tuttavia, il tempo eccessivo rappresenta una tale circostanza. Pertanto, non rende un peccato mortale quando altrimenti sarebbe veniale.
+
+Rispondo che chiedere il pagamento di un debito in un giorno di festa non costituisce una circostanza che trasforma un peccato in un altro tipo di peccato; pertanto, ciò non può rendere il peccato infinitamente più grave. Di conseguenza, né un marito né una moglie commettono un peccato mortale chiedendo il pagamento di un debito in un giorno di festa. Tuttavia, chiedere il pagamento di un debito per semplice piacere rappresenta un peccato più grave rispetto a farlo per paura della debolezza umana.
+
+Risposta all’Obiezione 1: Questa donna fu punita non perché avesse pagato il debito, ma perché in seguito, contro la propria coscienza, si intromise imprudentemente nel rito divino.
+
+Risposta all’Obiezione 2: L’autorità citata non dimostra che si tratti di un peccato mortale, ma soltanto che tale comportamento sia inappropriato. Poiché sotto l’Antico Testamento, rivolto a un popolo carnale, venivano richieste molte cose in base a precetti legati alla pulizia fisica; queste richieste, invece, non sono previste nel Nuovo Testamento, che è la legge dello spirito.
+
 <span class="atom-split" data-atom="128" data-title="Whether one spouse is bound to pay the debt to the other at a festal time?" data-chapter="Whether one spouse is bound to pay the debt to the other at a festal time?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that neither are they bound to pay the debt at a festal time. For
@@ -6626,6 +9057,20 @@ asks lest he be afforded an occasion of sin.
 
 Reply to Objection 2: No hour is fixed for praying, but that compensation can be made at some
 other hour; wherefore the argument is not cogent.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nessuno dei due sia obbligato a pagare il debito in un momento festivo. Infatti, sia coloro che commettono il peccato sia coloro che vi consentono vengono puniti allo stesso modo (Romani 1:32). Ma colui che paga il debito consente, di fatto, con chi lo ha chiesto, cioè con chi ha commesso il peccato. Pertanto, anche lui commette un peccato.
+
+Obiezione 2: Inoltre, si tratta di un precetto positivo che ci obbliga a pregare; pertanto siamo tenuti a farlo in un momento prestabilito. Di conseguenza, non si dovrebbe pagare il debito in un momento in cui si è obbligati a pregare, così come non si dovrebbe farlo in un momento in cui si è obbligati ad adempiere a un dovere particolare verso un padrone temporale.
+
+Al contrario, è scritto (1 Corinzi 7:5): “Non ingannatevi a vicenda, se non per un periodo di tempo concordato”. Pertanto, quando uno coniuge lo chiede, l’altro deve acconsentire.
+
+Rispondo che, poiché la moglie ha il potere su corpo del marito, e “viceversa”, per quanto riguarda l’atto della procreazione, ciascuno dei due è tenuto a ripagare il debito all’altro in qualsiasi momento o ora, tenendo conto del decoro richiesto in tali circostanze, poiché tale atto non può avvenire apertamente e immediatamente.
+
+Risposta all’Obiezione 1: Per quanto lo riguarda, lui non consente volontariamente, ma concede ciò che gli viene richiesto a malincuore e con dolore; pertanto, non commette peccato. Poiché Dio ha stabilito, a causa della debolezza della carne, che il debito debba sempre essere pagato a colui che lo chiede, affinché non venga data l’occasione di peccare.
+
+Risposta all’Obiezione 2: Non esiste un’ora prestabilita per pregare, ma tale compenso può essere effettuato in un altro momento; pertanto l’argomentazione non è convincente.
 
 <span class="atom-split" data-atom="129" data-title="Whether weddings should be forbidden at certain times? [*This article is omitted in the Leonine edition.]" data-chapter="Whether weddings should be forbidden at certain times? [*This article is omitted in the Leonine edition.]" data-kind="atom" data-srclang="en"></span>
 
@@ -6668,6 +9113,24 @@ a marriage have been contracted or a wedding celebrated at the aforesaid times, 
 done so "ought to be separated." Nor does he say this on his own authority, but in reference to some
 canonical ordinance, such as that of the Council of Lerida, which decision is quoted by the Decretals.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i matrimoni non dovrebbero essere proibiti in determinati periodi. Infatti, il matrimonio è un [sacramento](/concepts/sacrament); e la celebrazione degli altri sacramenti non viene vietata in quei momenti. Pertanto, nemmeno la celebrazione del matrimonio dovrebbe essere proibita in tali occasioni.
+
+Obiezione 2: Inoltre, chiedere il rimborso del debito matrimoniale è ancora meno appropriato nei giorni di festa rispetto alla celebrazione stessa del matrimonio. Eppure tale debito può essere richiesto proprio in quei giorni. Pertanto, anche i matrimoni possono essere celebrati in tali occasioni.
+
+Obiezione 3: Inoltre, i matrimoni contratti nonostante la legge della Chiesa dovrebbero essere annullati. Tuttavia, tali matrimoni non vengono annullati se celebrati in quei periodi specifici; pertanto non dovrebbero essere proibiti da alcun comandamento della Chiesa.
+
+Al contrario, è scritto (Ecclesiaste 3:5): “C’è un tempo per abbracciare e un tempo per allontanarsi dagli abbracci”.
+
+Rispondo che, quando la sposa appena unitasi in matrimonio viene consegnata al marito, le menti di entrambi sono assorbite da preoccupazioni carnali, a causa della novità stessa dell’evento; per questo motivo i matrimoni solitamente si celebrano con grandi festeggiamenti sfrenati. Per questa ragione è vietato celebrare matrimoni in quei periodi in cui gli uomini dovrebbero dedicarsi soprattutto alle cose spirituali. Tali periodi sono dall’Avvento all’Epifania, a causa della Comunione che, secondo gli antichi canoni, si celebra di solito a Natale (come già accennato in precedenza); dal Settagesima fino all’ottava di Pasqua, a causa della Comunione pasquale; e dai tre giorni precedenti l’Ascensione fino all’ottava di Pentecoste, a causa delle preparazioni necessarie per ricevere la Comunione in quel periodo.
+
+Risposta all’Obiezione 1: La celebrazione del matrimonio è accompagnata da una certa gioia mondana e carnale, caratteristica che non si riscontra negli altri sacramenti. Pertanto, il confronto non è valido.
+
+Risposta all’Obiezione 2: Non esiste un distacco mentale causato dal pagamento di un debito, paragonabile a quello derivante dalla celebrazione di un matrimonio; pertanto, il confronto non è valido.
+
+Risposta all’Obiezione 3: Poiché il tempo non è essenziale per un matrimonio contratto nelle stagioni proibite, tale matrimonio rimane comunque un vero sacramento. Inoltre, il matrimonio non viene sciolto in modo definitivo, ma solo temporaneamente, affinché coloro che lo hanno contratto possano compiere penitenza per aver disobbedito al comando della Chiesa. È così che dobbiamo interpretare le parole del Maestro (Sentenze IV, D, 33): se un matrimonio fosse stato contratto o una cerimonia nuziale celebrata in tali periodi proibiti, coloro che l’hanno fatto “dovrebbero essere separati”. Il Maestro non afferma ciò sulla base della propria autorità personale, ma in riferimento a qualche disposizione canonica, come quella del Concilio di Lerida, citata nei Decretali.
+
 <span class="atom-split" data-atom="130" data-title="OF PLURALITY OF WIVES (FIVE ARTICLES)" data-chapter="OF PLURALITY OF WIVES (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the plurality of wives. Under this head there are five points of inquiry:
@@ -6676,6 +9139,15 @@ We must now consider the plurality of wives. Under this head there are five poin
 (3) Whether it is against the natural law to have a concubine?
 (4) Whether it is a mortal sin to have intercourse with a concubine?
 (5) Whether it was ever lawful to have a concubine?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la questione delle molteplici mogli. In questo ambito vi sono cinque punti da esaminare:  
+(1) È contrario alla [legge naturale](/positions/natural_law) avere più mogli?  
+(2) È mai stato legittimo farlo in passato?  
+(3) È contrario alla legge naturale avere una concubina?  
+(4) Rappresenta un peccato mortale avere rapporti con una concubina?  
+(5) È mai stato legittimo avere una concubina in passato?
 
 <span class="atom-split" data-atom="131" data-title="Whether it is against the natural law to have several wives? (1/2)" data-chapter="Whether it is against the natural law to have several wives?" data-kind="atom" data-srclang="en"></span>
 
@@ -6779,6 +9251,31 @@ Rhet. ii, 4], and in like manner the several wives of one husband. The third end
 because as Christ is one, so also is the Church one. It is therefore evident from what has been said
 that plurality of wives is in a way against the law of nature, and in a way not against it.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia contrario alla [legge naturale](/positions/natural_law) avere più mogli, poiché la [consuetudine](/concepts/custom) non viola tale legge. Tuttavia, secondo l’[Agostino](/figures/augustine) (De Bono Conjug. xv), citato nel testo (Sententiae iv, D, 33), “non era un peccato” avere più mogli “quando questa era la consuetudine”. Pertanto, avere più mogli non è contrario alla legge naturale.
+
+Obiezione 2: Inoltre, chi agisce in opposizione alla legge naturale disobbedisce a un comandamento, poiché anche la legge naturale possiede i suoi comandamenti, proprio come la legge scritta. Agostino afferma infatti (De Bono Conjug. XV; De Civ. Dei XV, 38) che “non era contrario a alcun comandamento” avere più mogli, “poiché nessuna legge lo vietava”. Pertanto, avere più mogli non è contrario alla legge naturale.
+
+Obiezione 3: Inoltre, il matrimonio ha principalmente lo scopo di procreare figli. Tuttavia, un uomo può avere figli da diverse donne, facendole rimanere incinte. Pertanto, avere più mogli non è contrario alla legge naturale.
+
+Obiezione 4: Inoltre, “il [diritto naturale](/positions/natural_right) è ciò che la natura ha insegnato a tutti gli animali”, come affermato all’inizio dei Digesti (1, i, ff. De just. et jure). Ora, la natura non ha insegnato a tutti gli animali che un maschio debba unirsi soltanto a una femmina, poiché in molti animali un solo maschio si unisce a più femmine. Pertanto, avere più mogli non è contrario alla legge naturale.
+
+Obiezione 5: Inoltre, secondo il Filosofo (De Generatione Animalium, i, 20), nella procreazione il maschio è rispetto alla femmina come l’agente rispetto al soggetto passivo, e come il artigiano rispetto al materiale da lavorare. Tuttavia non è contrario all’ordine della natura che un solo agente agisca su più soggetti passivi, o che un solo artigiano utilizzi diversi materiali. Pertanto, né è contrario alla legge della natura che un solo marito abbia molte mogli.
+
+Obiezione 6:
+
+Al contrario, ciò che è stato insito nell’uomo fin dalla formazione della sua natura umana sembra appartenere particolarmente alla legge naturale. Infatti, fin dalla stessa origine della [natura umana](/axes/human_nature), è stato stabilito che un uomo debba avere una sola moglie, come recita Genesi 2:24: “Saranno due in una carne”. Pertanto, ciò rientra nella legge naturale.
+
+Obiezione 7: Inoltre, è contrario alla legge della natura che l’uomo si imponga obblighi impossibili, e che ciò che viene concesso a una persona venga concesso anche ad un’altra. Quando un uomo contrae matrimonio con una donna, le concede il diritto di disporre del proprio corpo; pertanto è suo dovere onorare tale impegno quando lei lo richiede. È quindi contrario alla legge della natura che, successivamente, egli conceda lo stesso diritto a un’altra persona, poiché sarebbe impossibile per lui onorare entrambi gli impegni se entrambe le donne ne facessero richiesta nello stesso momento.
+
+Obiezione 8: Inoltre, “Non fare agli altri ciò che non vorresti fosse fatto a te” [*Cfr. Tob. 4:16*] è un precetto della legge naturale. Ma un marito certamente non vorrebbe che sua moglie avesse un altro marito; pertanto, se avesse un’altra moglie, agirebbe contro la legge naturale.
+
+Obiezione 9: Inoltre, tutto ciò che è contrario al desiderio naturale è contrario alla legge naturale. Ora, la gelosia di un marito verso sua moglie e quella di una moglie verso suo marito sono sentimenti naturali, poiché si riscontrano in tutti. Pertanto, poiché la gelosia rappresenta “un amore impaziente di condividere la persona amata”, sembrerebbe contrario alla legge naturale che più mogli condividessero lo stesso marito.
+
+Rispondo che tutte le cose naturali sono dotate di determinati principi grazie ai quali non solo sono in grado di compiere le azioni proprie, ma anche di rendere tali azioni proporzionali al loro scopo, sia che queste azioni derivino dalla loro natura generica sia da quella specifica. Ad esempio, è proprio della natura di un magnete attrarre il ferro; allo stesso modo, è nella sua natura specifica che un animale come il cane percepisce e reagisce agli stimoli esterni. Proprio come in quegli esseri che agiscono per necessità naturale il principio dell’azione risiede nella loro stessa forma, così nelle creature dotate di intelletto i principi-guida delle loro azioni sono la conoscenza e il desiderio. Pertanto, nel potere cognitivo è necessario un concetto naturale, mentre nel potere appetitivo esiste una tendenza innata che permette di compiere azioni proporzionali al proprio scopo. Poiché l’uomo, più di qualsiasi altro animale, conosce il fine per cui agisce e la proporzione tra l’azione e tale fine, è evidente che possiede un concetto naturale che lo guida a comportarsi in modo appropriato; questo concetto viene chiamato “legge naturale” o “diritto naturale”, mentre negli altri animali si manifesta come istinto naturale. Gli esseri inferiori, infatti, sono spinti dalla forza della natura ad agire in modo appropriato, piuttosto che guidati dal proprio giudizio. Quindi, la legge naturale non è altro che un concetto insito nell’uomo che lo orienta verso comportamenti adeguati, sia nelle azioni derivanti dalla sua natura generica (come procreare, mangiare, ecc.), sia in quelle legate alla sua natura specifica (come ragionare). Qualsiasi azione che renda tali comportamenti inadeguati al fine perseguito dalla natura è considerata contraria alla legge naturale. Un’azione può essere inadeguata sia rispetto allo scopo principale che a quello secondario, e in entrambi i casi ciò può accadere in due modi: primo, a causa di fattori che ostacolano completamente il raggiungimento dello scopo; ad esempio, un eccesso o una carenza eccessiva nell’alimentazione possono danneggiare sia la salute del corpo che la capacità di svolgere le proprie funzioni. Secondo, a causa di fattori che rendono più difficile o meno efficace l’attuazione dello scopo; ad esempio, mangiare in modo eccessivo o in momenti inappropriati può compromettere sia la salute che le capacità cognitive. Pertanto, un’azione che ostacoli direttamente il raggiungimento dello scopo principale è vietata dai primi principi della legge naturale; analogamente, un’azione che lo renda meno efficace è vietata dai secondi principi della stessa legge.
+Deriva dalla prima finalità del matrimonio, così come le conclusioni in materia speculativa ricevono il nostro assenso sulla base di principi ovvi e noti; per questo motivo si dice che l’atto in questione sia contrario alla legge naturale. Il matrimonio ha infatti come scopo principale la procreazione e l’educazione dei figli, un compito che spetta all’uomo in quanto essere di genere umano, e quindi è comune anche ad altri animali (Etica, VIII, 12); per questo motivo i “figli” vengono considerati un bene essenziale del matrimonio. Tuttavia, come afferma il Filosofo (Etica, VIII, 12), in quanto tale il matrimonio ha anche uno scopo secondario, specifico degli esseri umani: la condivisione delle attività necessarie alla vita quotidiana, menzionate sopra (Q[41], A[1]). In relazione a questo scopo, i coniugi si devono reciprocamente “fedeltà”, che rappresenta uno dei beni fondamentali del matrimonio. Esiste inoltre un altro scopo, particolarmente rilevante nel caso di matrimoni tra credenti: la rappresentazione simbolica di Cristo e della Chiesa; per questo motivo si dice che il “sacramento” sia un bene essenziale del matrimonio. Pertanto, il primo scopo del matrimonio corrisponde alla natura umana dell’uomo come essere animale; il secondo, alla sua natura di essere razionale; il terzo, alla sua fede cristiana. Di conseguenza, la poligamia non distrugge completamente né ostacola in alcun modo il primo scopo del matrimonio, poiché un uomo è sufficiente per avere figli da più mogli e per educarli. Tuttavia, sebbene non distrugga completamente il secondo scopo, lo ostacola notevolmente: infatti, in una famiglia con più mogli è difficile mantenere la pace, poiché un solo marito non può soddisfare le esigenze di tutte; inoltre, la condivisione delle stesse responsabilità familiari può generare conflitti. Il terzo scopo del matrimonio viene invece completamente compromesso dalla poligamia, poiché Cristo è uno e anche la Chiesa è una. Da quanto detto, risulta evidente che la poligamia sia in qualche modo contraria alla legge naturale, ma in altri aspetti non lo sia affatto.
+
 <span class="atom-split" data-atom="132" data-title="Whether it is against the natural law to have several wives? (2/2)" data-chapter="Whether it is against the natural law to have several wives?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 1: [Custom](/concepts/custom) does not prejudice the law of nature as regards the first precepts
@@ -6857,6 +9354,20 @@ have several wives as for a wife to have several husbands, it follows that a wif
 averse to another sharing the same husband with her, as a husband's love is to another sharing the
 same wife with him. Consequently both in man and in other animals the male is more jealous of
 the female than "vice versa."
+
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 1: La [CONSUETUDINE](/concepts/custom) non influisce negativamente sulla legge naturale riguardo ai suoi primi precetti, che sono simili ai concetti generali dell’intelletto in ambito speculativo. Tuttavia, quei precetti che derivano come conclusioni da tali abitudini, come afferma Tullio nel “De Inv. Rhet. ii”, li rafforzano o li indeboliscono. È questo il caso del precetto naturale relativo al divieto di avere più mogli.
+
+Risposta all’Obiezione 2: Come afferma Tullio (De Inv. Rhet. ii), “la paura della legge e della religione hanno sanzionato quelle cose che derivano dalla natura e sono approvate dalla consuetudine”. Pertanto è evidente che quei precetti della [legge naturale](/positions/natural_law), che derivano dai principi fondamentali di tale legge, non possiedono la forza vincolante di un comandamento assoluto, se non quando sono stati sanzionati dalla legge divina o da quella umana. È proprio ciò che intende sant’Agostino quando afferma che “non hanno disobbedito ai comandamenti della legge, poiché nessuna legge li proibiva”. La risposta all’Obiezione Terza deriva da quanto è stato detto finora.
+
+Risposta all’Obiezione 4: Il [diritto naturale](/positions/natural_right) ha diverse significazioni. In primo luogo, un diritto è definito naturale in base al suo principio, poiché è insito nella natura stessa; così Tullio lo definisce nel “De Inv. Rhet. ii” quando afferma: “Il diritto naturale non deriva dall’opinione, ma è il prodotto di una forza innata”. Poiché anche nelle cose naturali alcuni movimenti vengono definiti “naturali”, non perché derivino da un principio intrinseco, ma perché sono causati da un principio superiore – ad esempio, i movimenti degli elementi determinati dall’influenza dei corpi celesti, come afferma il Commentatore nel “De Coelo et Mundo iii, 28” –, quindi anche quelle cose che derivano dal diritto divino possono essere considerate diritti naturali, poiché sono causate dall’impronta e dall’influenza di un principio superiore, ovvero Dio. Isidoro intende il diritto naturale in questo senso quando dice (“Etym. v”): “Il diritto naturale è quello contenuto nella Legge e nel Vangelo”. In terzo luogo, un diritto è definito naturale non solo in base al suo principio, ma anche in base alla sua materia, poiché riguarda cose naturali; poiché la natura si contrappone alla ragione – grazie alla quale l’uomo è tale –, se consideriamo il diritto naturale nel senso più stretto, quelle cose che sono dettate dalla ragione naturale e pertinenti esclusivamente all’uomo non possono essere considerate diritti naturali, ma solo quelle che sono dettate dalla ragione naturale e comuni sia all’uomo che ad altri animali. Ecco quindi la definizione sopra menzionata: “Il diritto naturale è ciò che la natura ha insegnato a tutti gli animali”. Pertanto, la poligamia, sebbene non contraria al diritto naturale nel terzo senso, è comunque contraria al diritto naturale nel secondo senso, poiché è proibita dalla legge divina; è anche contraria al diritto naturale nel primo senso, come si è visto in precedenza, poiché tale è il dettato della natura per ogni animale, secondo i principi adatti alla sua natura stessa. Per questo motivo, alcuni animali, i cui piccoli richiedono la cura sia del maschio che della femmina, per istinto naturale tendono a mantenere un legame monogamico, come la tortora, la colomba e simili. La risposta all’Osservazione Quinta è chiara da quanto detto finora. Tuttavia, poiché gli argomenti addotti “dall’altra parte” sembrano dimostrare che la poligamia sia contraria ai principi fondamentali della legge naturale, dobbiamo rispondere a tali obiezioni. Rispondendo quindi all’Osservazione Sesta, possiamo affermare che la [natura umana](/axes/human_nature) è stata creata senza alcun difetto; pertanto è dotata non solo di quelle caratteristiche senza le quali lo scopo principale del matrimonio sarebbe impossibile da realizzare, ma anche di quelle senza le quali lo scopo secondario del matrimonio non potrebbe essere raggiunto facilmente. In questo senso, all’uomo, quando fu creato per la prima volta, era sufficiente avere una sola moglie, come già detto in precedenza.
+
+Risposta all’Obiezione 7: Nel matrimonio, il marito concede alla moglie il diritto di disporre del proprio corpo, ma non in tutti gli aspetti, bensì soltanto in quelle cose che sono necessarie per il mantenimento del rapporto coniugale. Ora, se consideriamo lo scopo principale per cui il matrimonio è stato istituito – ovvero il bene della prole – allora non è richiesto che il marito paghi i debiti ogni volta che la moglie ne fa richiesta, ma soltanto nella misura in cui ciò sia necessario per garantire la fecondità. Tuttavia, se consideriamo il matrimonio come un mezzo per risolvere determinati problemi (il che rappresenta uno scopo secondario), allora è effettivamente richiesto che i debiti vengano pagati immediatamente su richiesta della moglie. Pertanto, è evidente che assumere più mogli non significhi impegnarsi in qualcosa di impossibile, considerando lo scopo principale del matrimonio; e quindi la poligamia non contraddice i principi fondamentali della legge naturale.
+
+Risposta all’Obiezione 8: Questo precetto della legge naturale, “Non fare agli altri ciò che non vorresti fosse fatto a te”, deve essere inteso con la condizione che vi sia una proporzionalità equa tra le azioni compiute. Infatti, se un superiore non desidera essere contrariato dal proprio sottoposto, questo non lo obbliga necessariamente a non contrariare tale sottoposto. Pertanto, non segue da questo precetto che, poiché un marito non vuole che sua moglie abbia un altro marito, egli stesso non possa avere un’altra moglie: infatti, che un uomo abbia più mogli non è contrario ai principi fondamentali della legge naturale, come già detto; al contrario, che una donna abbia più mariti lo è, poiché ciò distrugge completamente, o comunque ostacola gravemente, il bene dei figli, che rappresenta lo scopo principale del matrimonio. Il bene dei figli infatti include non solo la procreazione, ma anche l’educazione. La procreazione, sebbene non venga completamente annullata (poiché una donna può rimanere incinta nuovamente dopo un primo concepimento, come affermato nel De Generatione Animalium VII, 4), viene comunque notevolmente ostacolata, poiché ciò difficilmente avviene senza danni sia per il feto che per uno dei genitori. L’educazione dei figli, invece, diventa del tutto impossibile in caso di più mariti per una donna, poiché ciò comporta incertezza riguardo al padre dei figli, la cui cura è essenziale per la loro crescita. Pertanto, il matrimonio di una donna con più mariti non è mai stato approvato da alcuna legge o consuetudine; al contrario, questo tipo di rapporto è sempre stato considerato illegittimo.
+
+Risposta all’Obiezione 9: L’inclinazione naturale della potenza appetitiva segue il concetto naturale presente nella potenza cognitiva. Poiché non è tanto contrario al concetto naturale che un uomo abbia più mogli, quanto lo è che una donna abbia più mariti, ne consegue che l’amore di una donna non è così ostile all’idea che un’altra donna condivida lo stesso marito con lei, come invece l’amore di un uomo lo è all’idea che un altro uomo condivida la stessa moglie con lui. Di conseguenza, sia nell’uomo che negli altri animali, il maschio è più geloso della femmina che “viceversa”.
 
 <span class="atom-split" data-atom="133" data-title="Whether it was ever lawful to have several wives?" data-chapter="Whether it was ever lawful to have several wives?" data-kind="atom" data-srclang="en"></span>
 
@@ -6955,6 +9466,32 @@ triumphant. Consequently their marriages signified somewhat the union of Christ 
 Church militant, as some say, but also with the Church triumphant where there are "many mansions"
 [*Jn. 19:2].
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia mai stato legittimo avere più mogli. Infatti, secondo il Filosofo (Etica v, 7), “La [legge naturale](/positions/natural_law) ha lo stesso potere in ogni tempo e luogo”. Ora, la pluralità di mogli è vietata dalla legge naturale, come detto sopra (A[1]). Pertanto, poiché oggi è illegittimo, lo era anche in tutti i tempi.
+
+Obiezione 2: Inoltre, se ciò fosse mai stato legittimo, sarebbe potuto accadere soltanto perché tale pratica fosse legittima in sé stessa o per dispensa divina. Se fosse legittima in sé stessa, lo sarebbe ancora oggi; se invece dipendesse da una dispensa divina, ciò sarebbe impossibile, poiché secondo [Agostino](/figures/augustine) (Contra Faustus, xxvi, 3), “poiché Dio è il fondatore della natura, Egli non fa nulla che contraddica i principi che ha insediato nella natura stessa”. Poiché Dio ha insediato nella nostra natura il principio secondo cui un uomo debba essere unito a una sola moglie, sembrerebbe che Egli non abbia mai dispensato l’uomo da tale obbligo.
+
+Obiezione 3: Inoltre, se qualcosa è legittimo per grazia speciale, allora tale legittimità vale soltanto per coloro che ricevono tale grazia. Ora non troviamo nella Legge alcuna disposizione che stabilisca una grazia generale concessa a tutti. Poiché nell’Antico Testamento chiunque desiderasse farlo, senza alcuna distinzione, poteva prendersi più mogli e nessuno lo rimproverava per questo, né la Legge né i profeti, sembra quindi che tale pratica non fosse considerata legittima per grazia speciale.
+
+Obiezione 4: Inoltre, quando esiste lo stesso motivo per una dispensa, dovrebbe essere concessa anch’essa. Ora non possiamo individuare alcun altro motivo per tale dispensa se non la necessità di aumentare il numero dei discendenti al fine del [culto](/concepts/religion) di Dio, e questa esigenza è ancora valida oggi. Pertanto, tale dispensa dovrebbe essere considerata ancora in vigore, soprattutto poiché da nessuna parte si legge che sia stata revocata.
+
+Obiezione 5: Inoltre, nell’ concedere una dispensa, il bene maggiore non dovrebbe essere trascurato a vantaggio di un bene minore. Ora, la fedeltà e il [sacramento](/concepts/sacrament), che sembrano impossibili da preservare in un matrimonio in cui un uomo è unito a più mogli, rappresentano beni maggiori rispetto alla moltiplicazione dei discendenti. Pertanto, questa dispensa non dovrebbe essere stata concessa al fine di favorire tale moltiplicazione.
+
+Al contrario, si afferma (Galati 3:19) che la Legge “fu istituita a causa dei trasgressori”, cioè al fine di proibirli. Ora, l’[Antica Legge](/concepts/divine_law) menziona la possibilità di avere più mogli senza alcuna proibizione in merito, come si evince da Deuteronomio 21:15: “Se un uomo ha due mogli”, ecc. Pertanto, non si considerava trasgressivo avere due mogli; anzi, tale pratica era legittima. Inoltre, ciò viene confermato dall’esempio dei santi patriarchi, i quali ebbero più mogli e tuttavia furono molto graditi a Dio: Giacobbe, Davide e molti altri. Quindi, un tempo questa pratica era effettivamente legittima.
+
+Rispondo che, come già detto sopra (A[1], ad 7,8), la poligamia viene considerata contraria alla legge naturale non in relazione ai suoi principi fondamentali, ma rispetto ai precetti secondari che ne derivano, simili a conclusioni tratte da tali principi. Tuttavia, poiché le azioni umane devono necessariamente variare in base alle diverse condizioni delle persone, dei tempi e di altre circostanze, tali conclusioni non derivano dai principi primari della legge naturale in modo da essere vincolanti in ogni caso, ma soltanto nella maggior parte dei casi. Questo è infatti il principio fondamentale dell’etica secondo il Filosofo (Etica i, 3,7). Pertanto, quando tali conclusioni perdono la loro validità, è legittimo ignorarle. Tuttavia, poiché non è facile determinare queste variazioni, spetta esclusivamente a colui da cui deriva l’autorità di tale legge permettere il non rispetto della stessa in quei casi in cui la sua forza non dovrebbe estendersi; tale permesso viene chiamato “dispensazione”. Ora, la legge che prescrive una sola moglie non è stata stabilita dall’uomo, ma da Dio; non è mai stata enunciata a parole o per iscritto, ma è impressa nel cuore degli esseri umani, come altre norme appartenenti alla legge naturale. Pertanto, una dispensazione in questo ambito può essere concessa soltanto da Dio attraverso un’ispirazione interiore, concesso originariamente ai santi patriarchi e continuato poi tramite il loro esempio, nei casi in cui fosse necessario non rispettare tale precetto, al fine di favorire la moltiplicazione della prole e la sua educazione nel culto di Dio. Poiché lo scopo principale deve sempre essere tenuto a mente prima di considerare gli scopi secondari, è quindi giusto ignorare temporaneamente qualsiasi ostacolo possa derivare da tale precetto quando sia necessario aumentare il numero della prole; infatti, proprio per eliminare tali ostacoli è stato stabilito il divieto della poligamia, come già detto sopra (A[1]).
+
+Risposta all’Obiezione 1: La legge naturale, considerata in sé stessa, ha la stessa forza in tutti i tempi e luoghi; ma, a causa di alcuni ostacoli, può variare in determinati momenti e luoghi, come osserva il Filosofo nel caso di altre cose naturali (Etica, I, 3,7). Infatti, in ogni momento e luogo la mano destra è, per natura, superiore alla sinistra; tuttavia può accadere che una persona sia ambidestra, poiché la nostra natura è soggetta a variazioni. Lo stesso vale per le leggi naturali, come afferma il Filosofo (Etica, I, 3,7).
+
+Risposta all’Obiezione 2: In un decreto (De divortiis, cap. Gaudemus) si afferma che non sia mai stato legittimo avere più mogli senza aver ricevuto una dispensa concessa per ispirazione divina. Tale dispensa non costituisce una contraddizione ai principi insiti nella natura da Dio stesso, ma ne rappresenta un’eccezione; infatti, tali principi non sono destinati ad applicarsi a tutti i casi, bensì soltanto alla maggioranza di essi. Anche quando alcune circostanze si verificano in modo miracoloso all’interno dei fenomeni naturali, ciò non è contrario alla natura stessa, poiché rappresenta un’eccezione rispetto alle situazioni più comuni.
+
+Risposta all’Obiezione 3: La deroga da una legge dovrebbe essere determinata dalla natura stessa di quella legge. Poiché la legge naturale è inscritta nel cuore umano, non era necessario che le deroghe relative a tale legge venissero stabilite sotto forma di leggi scritte, ma piuttosto attraverso ispirazioni interne.
+
+Risposta all’Obiezione 4: Quando Cristo venne, era il tempo della piena manifestazione della grazia di Cristo; in quel periodo, il culto di Dio si diffuse tra tutte le nazioni attraverso un mezzo spirituale. Pertanto, non esiste più lo stesso motivo per una forma particolare di diffusione del culto di Dio rispetto al periodo precedente la venuta di Cristo, quando tale diffusione avveniva attraverso mezzi materiali o carnali.
+
+Risposta all’Obiezione 5: La prole, considerata come uno dei beni connessi al matrimonio, include anche la fedeltà verso Dio; infatti, essa viene considerata un bene matrimoniale proprio perché si spera che venga educata nel culto di Dio. Ora, la fedeltà verso Dio è di maggiore importanza rispetto alla fedeltà verso la moglie, anch’essa considerata un bene matrimoniale, nonché rispetto al significato simbolico legato al sacramento stesso, poiché tale significato è subordinato alla conoscenza della fede. Pertanto, non è inappropriato che venga sacrificato qualcosa dei due altri beni a vantaggio del bene della prole. Inoltre, tali elementi non vengono affatto eliminati: rimane la fedeltà verso più mogli, e il sacramento mantiene comunque il suo significato, anche se non rappresenta l’unione di Cristo con la Chiesa come un’unica entità; inoltre, la pluralità delle mogli simboleggia la distinzione dei gradi all’interno della Chiesa, distinzione che esiste sia nella Chiesa militante che in quella trionfante. Di conseguenza, i matrimoni rappresentano in qualche modo l’unione di Cristo non solo con la Chiesa militante, ma anche con la Chiesa trionfante, dove esistono “molte dimore” [*Giovanni 19:2*].
+
 <span class="atom-split" data-atom="134" data-title="Whether it is against the natural law to have a concubine?" data-chapter="Whether it is against the natural law to have a concubine?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that to have a concubine is not against the [natural law](/positions/natural_law). For the
@@ -7040,6 +9577,32 @@ Reply to Objection 5: The wife has power of her husband's body, not simply and i
 but only in relation to marriage, and consequently she cannot transfer her husband's body to another
 to the detriment of the good of marriage.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che avere una concubina non sia contrario alla [legge naturale](/positions/natural_law). Infatti, le cerimonie stabilite dalla legge non fanno parte della legge naturale stessa. Tuttavia, la fornicazione è proibita (Atti 15:29) in relazione a quelle cerimonie che, all’epoca, venivano imposte a coloro che si convertivano alla fede provenienti dai popoli pagani. Pertanto, la semplice fornicazione, ovvero il rapporto sessuale con una concubina, non è contraria alla legge naturale.
+
+Obiezione 2: Inoltre, il diritto positivo è un risultato del diritto naturale, come afferma Tullio nel “De Inventio Iuris”. Ora, la fornicazione non era proibita dal diritto positivo; anzi, secondo le leggi antiche, le donne venivano spesso condannate ad essere mandate nei bordelli. Pertanto, avere una concubina non è contrario al diritto naturale.
+
+Obiezione 3: Inoltre, la legge naturale non vieta che ciò che viene concesso in modo semplice venga concesso per un certo periodo di tempo o sotto determinate restrizioni. Ora, una donna single può concedere a un uomo single il diritto di utilizzare il proprio corpo per sempre, affinché egli possa farlo quando desidera. Pertanto, non è contrario alla legge naturale che lei gli conceda tale diritto per un periodo limitato di tempo.
+
+Obiezione 4: Inoltre, chiunque utilizzi la propria proprietà come desidera non danneggia nessuno. Ma una schiava appartiene al proprio padrone; pertanto, se il padrone la utilizza come vuole, non danneggia nessuno. Di conseguenza, avere una concubina non è contrario alla legge naturale.
+
+Obiezione 5: Inoltre, ognuno può donare la propria proprietà a un altro. Ora la moglie ha il potere su corpo del marito (1 Corinzi 7:4). Pertanto, se la moglie è d’accordo, il marito può avere rapporti con un’altra donna senza peccare.
+
+Al contrario, secondo tutte le leggi, i figli nati da una concubina sono considerati figli della vergogna. Ma ciò non sarebbe vero se l’unione da cui essi derivano non fosse di per sé vergognosa. Inoltre, come già detto sopra (Q[41], A[1]), il matrimonio è qualcosa di naturale; ma ciò non sarebbe vero se, senza violare la legge naturale, un uomo potesse unirsi a una donna in modo diverso dal matrimonio. Pertanto, avere una concubina è contrario alla legge naturale.
+
+Rispondo che, come già detto sopra (A[1]), un’azione si dice contraria alla legge naturale quando non è in linea con lo scopo per cui la natura l’ha intesa, sia perché non è diretta verso tale scopo dall’agente che la compie, sia perché lo è in modo improporzionato. Ora, lo scopo che la natura ha in vista nell’unione sessuale è la procreazione e l’educazione dei figli; poiché questo bene deve essere perseguito, la natura ha associato alla tale unione il piacere, come afferma [Agostino](/figures/augustine) (De Nup. et Concup. i, 8). Pertanto, utilizzare l’atto sessuale soltanto per il piacere che esso comporta, senza tener conto dello scopo per cui la natura lo ha voluto, significa agire contro la sua volontà; lo stesso vale se tale atto non è diretto in modo appropriato verso quel fine. Poiché, nella maggior parte dei casi, le cose prendono il loro nome dallo scopo che hanno per noi più importante, così come il matrimonio prende il suo nome dal bene dei figli (*Cf. Q[44], A[2]), lo scopo principale del matrimonio, allo stesso modo il termine “concubina” indica un rapporto sessuale intrattenuto soltanto per il piacere che esso procura. Inoltre, anche se talvolta un uomo desidera avere figli attraverso tale rapporto, ciò non è conforme al bene dei figli stessi, il quale include non solo la loro procreazione, ma anche la loro educazione e l’educazione morale, che permettono ai bambini di ricevere nutrimento e insegnamenti dai genitori. Per quanto riguarda questi aspetti, i genitori hanno dei doveri nei confronti dei figli, come afferma il Filosofo (Etica viii, 11, 12). Poiché l’educazione dei figli richiede un lungo periodo di tempo e impegno da parte dei genitori, la legge naturale esige che padre e madre vivano insieme per un lungo periodo, affinché possano collaborare efficacemente nell’educazione dei loro figli. Per questo motivo, gli uccelli che si uniscono per allevare i loro piccoli mantengono la loro relazione fino a quando questi non sono completamente cresciuti. Questo dovere che lega la donna al suo compagno costituisce il matrimonio. Pertanto, è evidente che sia contrario alla legge naturale che un uomo abbia rapporti sessuali con una donna che non è sua moglie, il che corrisponde esattamente al concetto di “concubina”.
+
+Risposta all’Obiezione 1: Tra i gentili, la legge naturale era oscurata in molti punti; di conseguenza, non ritenevano sbagliato avere rapporti con una concubina e, in molti casi, praticavano l’adulterio come se fosse legittimo, così come altre azioni contrarie alle leggi rituali degli Ebrei, anche se non violavano la legge naturale. Per questo motivo, gli apostoli inserirono il divieto dell’adulterio tra le altre prescrizioni rituali, poiché in entrambi i casi esisteva disaccordo tra Ebrei e gentili.
+
+Risposta all’Obiezione 2: Questo legame morale fu il risultato dell’oscurità nella quale i Gentili erano caduti, a causa del loro mancato rispetto dovuto a Dio, come indicato in Romani 1:21; non derivava dunque dall’istinto della legge naturale. Pertanto, quando la religione cristiana prese il sopravvento, questo legame morale fu abolito.
+
+Risposta all’Obiezione 3: In alcuni casi, non derivano conseguenze negative dal fatto che una persona rinunci al proprio diritto su qualcosa, sia in modo definitivo che temporaneo; pertanto, in nessuno dei due casi tale rinuncia va contro la legge naturale. Tuttavia, questo non vale nel caso specifico di cui si tratta, e quindi l’argomentazione proposta non è convincente.
+
+Risposta all’Obiezione 4: Il danno è in contraddizione con la giustizia. Ora, la legge naturale vieta non solo l’ingiustizia, ma anche qualsiasi cosa sia in contrasto con le virtù: ad esempio, mangiare in modo eccessivo è contrario alla legge naturale, anche se in tal modo una persona utilizza la propria proprietà senza danneggiare nessuno. Inoltre, sebbene una schiava sia proprietà del suo padrone e possa servirlo, non è sua al punto di poter diventare sua concubina. In ogni caso, dipende da come una persona utilizza la propria proprietà: un uomo che agisce in questo modo arreca danno alla prole che genera, poiché tale rapporto non è orientato al suo bene, come già detto.
+
+Risposta all’Obiezione 5: La moglie ha potere sul corpo del marito, ma non in modo assoluto e in ogni ambito, bensì soltanto nel contesto del matrimonio; pertanto non può trasferire il corpo del marito a un altro individuo, al fine di danneggiare i benefici derivanti dal matrimonio stesso.
+
 <span class="atom-split" data-atom="135" data-title="Whether it is a mortal sin to have intercourse with a concubine?" data-chapter="Whether it is a mortal sin to have intercourse with a concubine?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not a mortal sin to have intercourse with a concubine. For
@@ -7094,6 +9657,28 @@ it comes nearer to the nature of sin. Hence although fornication is less grave o
 greatness of its incentive, yet on account of the matter about which it is, it has a greater gravity
 than immoderate eating, because it is about those things which tighten the bond of human fellowship,
 as stated above. Hence the argument does not prove.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia un peccato mortale avere rapporti con una concubina. Infatti, mentire è un peccato più grave della semplice fornicazione; ne è una prova il fatto che Giuda, pur non rifiutandosi di commettere fornicazione con Tamar, esitò a mentire, dicendo (Genesi 38:23): “Certamente lei non potrà accusarci di aver mentito”. Ma mentire non è sempre un peccato mortale. E neppure la semplice fornicazione lo è.
+
+Obiezione 2: Inoltre, un peccato mortale dovrebbe essere punito con la morte. Ma l’[Antico Testamento](/concepts/divine_law) non puniva con la morte il rapporto sessuale con una concubina, se non in un caso specifico (Deuteronomio 22:25). Pertanto, non si tratta di un peccato mortale.
+
+Obiezione 3: Inoltre, secondo Gregorio (Moralia, xxxiii, 12), i peccati del corpo sono meno deprecabili dei peccati spirituali. Ora, l’orgoglio e l’avidità, che sono peccati spirituali, non sono sempre peccati mortali. Pertanto, la fornicazione, che è un peccato del corpo, non è sempre un peccato mortale.
+
+Obiezione 4: Inoltre, quanto maggiore è l’incentivo, tanto minore è la gravità del peccato, poiché colpevole è chi cede a una tentazione più debole. Ma la concupiscenza rappresenta l’incentivo più forte alla lussuria. Pertanto, poiché le azioni lussuriose non sono sempre peccati mortali, nemmeno la semplice fornicazione lo è.
+
+Al contrario, soltanto il peccato mortale esclude dalla regno di Dio. Ma i fornicatori sono esclusi dal regno di Dio (1 Corinzi 6:9,10). Pertanto, la semplice fornicazione è un peccato mortale. Inoltre, soltanto i peccati mortali vengono definiti crimini; ogni forma di fornicazione è considerata un crimine secondo Tobitto 4:13: “Stai attento a proteggerti, da ogni forma di fornicazione; non tollerare mai di compiere alcun crimine al di fuori del tuo matrimonio”. Pertanto, ecc.
+
+Rispondo che, come abbiamo già affermato (Sentenza ii, D, 42, Q[1], A[4]), quei peccati sono mortali per loro natura quando violano il legame di [amicizia](/concepts/friendship) tra l’uomo e Dio, nonché tra gli uomini stessi; infatti, tali peccati contraddicono i due precetti dell’amore, che costituiscono la vita dell’anima. Poiché l’atto di fornicazione distrugge le giuste relazioni tra genitori e figli – obiettivo naturale del rapporto sessuale – non può esserci dubbio che la semplice fornicazione sia, per sua stessa natura, un peccato mortale, anche in assenza di leggi scritte.
+
+Risposta all’Obiezione 1: Spesso accade che una persona che non evita un peccato mortale eviti anche un peccato veniale per il quale non ha un incentivo così forte. Così pure, Giuda evitò di mentire perché non voleva commettere adulterio; tuttavia, quella sarebbe stata una menzogna dannosa, poiché avrebbe comportato un danno se non avesse mantenuto la sua promessa.
+
+Risposta all’Obiezione 2: Un peccato viene definito “mortale” non perché venga punito con la morte temporale, ma perché viene punito con la morte eterna. Pertanto, anche il furto, che è un peccato mortale, e molti altri peccati a volte non vengono puniti con la morte temporale dalla legge. Lo stesso vale per la fornicazione.
+
+Risposta all’Obiezione 3: Proprio come non ogni atto di orgoglio è un peccato mortale, allo stesso modo non ogni atto di lussuria lo è; infatti, i primi manifesti di lussuria e simili sono peccati veniali, a volte persino il rapporto coniugale può essere considerato tale. Tuttavia, alcuni atti di lussuria sono peccati mortali, mentre alcuni atteggiamenti di orgoglio sono soltanto veniali: le parole citate da Gregorio vanno infatti intese come un confronto tra vizi nel loro genere, e non nei singoli atti che li compongono.
+
+Risposta all’Obiezione 4: Una circostanza è tanto più efficace nel aggravare un peccato quanto più si avvicina alla sua natura stessa. Pertanto, sebbene la fornicazione sia meno grave in virtù dell’intensità del suo stimolo, essa presenta una gravità maggiore rispetto al consumo eccessivo di cibo, poiché riguarda quelle cose che rafforzano i legami tra gli esseri umani, come già detto. Di conseguenza, questo argomento non è convincente.
 
 <span class="atom-split" data-atom="136" data-title="Whether it was ever lawful to have a concubine?" data-chapter="Whether it was ever lawful to have a concubine?" data-kind="atom" data-srclang="en"></span>
 
@@ -7167,6 +9752,30 @@ head there are five points of inquiry:
 (4) Whether bigamy is removed by Baptism?
 (5) Whether a dispensation can be granted to a bigamous person?
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che in alcuni casi sia stato legittimo avere una concubina. Poiché proprio come la [legge naturale](/positions/natural_law) richiede che un uomo abbia soltanto una moglie, allo stesso modo gli vieta di avere una concubina; tuttavia, in alcune occasioni è stato permesso avere più mogli. Pertanto, anche l’aver una concubina deve essere stato considerato legittimo.
+
+Obiezione 2: Inoltre, una donna non può essere allo stesso tempo schiava e moglie; pertanto, secondo la Legge (Deuteronomio 21:11 e seguenti), una serva acquistava la libertà semplicemente per il fatto di essere presa in sposa. Ora leggiamo che alcuni uomini particolarmente amati da Dio, come Abramo e Giacobbe, ebbero rapporti con le loro serve. Quindi queste non erano mogli, e di conseguenza era talvolta legittimo avere concubine.
+
+Obiezione 3: Inoltre, una donna che viene presa in sposa non può essere allontanata, e suo figlio dovrebbe avere una parte nell’eredità. Tuttavia Abramo allontanò Agar, e suo figlio non divenne suo erede (Genesi 21:14). Pertanto, Agar non era la moglie di Abramo.
+
+Al contrario, ciò che è in contrasto con i precetti del decalogo non può mai essere considerato legittimo. Avere una concubina, infatti, contraddice uno dei precetti del decalogo: “Non commettere adulterio”. Pertanto, tale pratica non è mai stata legittima. Inoltre, Ambrogio afferma nel suo libro sui patriarchi (De Abraham i, 4): “Ciò che è illegittimo per una moglie lo è anche per un marito”. Ma è assolutamente impossibile che una moglie abbandoni il proprio marito per intrattenere rapporti con un altro uomo; quindi, ne consegue che sia altrettanto impossibile che un marito abbia una concubina.
+
+Rispondo che il Rabbino Mosè afferma (Doc. Perp. iii, 49) che prima dell’epoca della Legge la fornicazione non era considerata un peccato; dimostrò questa tesi sostenendo che Giuda ebbe rapporti con Tamar. Tuttavia, questo argomento non è decisivo. Non c’è infatti bisogno di scusare i figli di Giacobbe da un peccato mortale, poiché furono accusati dal padre di un crimine estremamente malvagio (Genesi 37:2) e acconsentirono a uccidere Giuseppe e a venderlo. Pertanto, poiché avere una concubina al di fuori del matrimonio è contrario alla legge naturale, come già detto (A[3]), tale pratica non era mai legittima, né in sé stessa né per dispensa. Come abbiamo dimostrato, infatti, avere rapporti con una donna al di fuori del matrimonio è un atto che va contro il bene della prole, scopo principale del matrimonio; quindi tale pratica contraddice i primi principi della legge naturale, i quali non ammettono alcuna dispensa. Pertanto, ove nel Vecchio Testamento si parla di concubine, dobbiamo intendere che tali donne venivano effettivamente sposate, anche se venivano chiamate “concubine” poiché possedevano sia caratteristiche di moglie che di concubina. Finché il matrimonio è orientato verso lo scopo principale, ovvero il bene della prole, l’unione tra marito e moglie è indissolubile o comunque duratura; in questo senso non esiste alcuna dispensa. Tuttavia, per quanto riguarda lo scopo secondario del matrimonio, ovvero la gestione della famiglia e delle attività comuni, la moglie è unita al marito come sua compagna; ciò mancava nelle donne chiamate “concubine”, poiché in questo aspetto era possibile una dispensa. Da questo punto di vista, tali donne presentavano alcune somiglianze con le concubine e per questa ragione venivano così denominate.
+
+Risposta all’Obiezione 1: Come già detto sopra (A[1], ad 7,8), avere più mogli non è contrario ai primi precetti della legge naturale, così come aver una concubina; pertanto, questo argomento non dimostra nulla.
+
+Risposta all’Obiezione 2: I patriarchi dell’antichità, grazie alla dispensa che loro permetteva di avere più mogli, trattavano le proprie concubine con lo stesso atteggiamento di un marito verso sua moglie. Queste donne, infatti, erano considerate mogli per quanto riguarda lo scopo principale e fondamentale del matrimonio, ma non per quanto riguarda l’altra forma di unione legata agli scopi secondari; tale forma di unione, infatti, era in contrasto con il concetto stesso di schiavitù, poiché una donna non poteva essere allo stesso tempo compagna e schiava.
+
+Risposta all’Obiezione 3: Così come nella legge mosaica era consentito, per motivi particolari, concedere un atto di divorzio al fine di evitare l’omicidio della moglie (come spiegheremo più avanti, Q[67], A[6]), allo stesso modo, per lo stesso motivo, ad Abramo fu permesso allontanare Agar, affinché ciò simboleggiasse il mistero che l’Apostolo esplica in Galati 4:22 e seguenti. Inoltre, il fatto che quel figlio non abbia ereditato rientra anch’esso in questo mistero, come spiegato nello stesso passaggio; allo stesso modo Esaù, figlio di una donna libera, non ereditò (Romani 9:13 e seguenti). Allo stesso modo, per motivi legati a questo mistero, i figli di Giacobbe nati da donne sia libere che schiave poterono ereditare, come afferma [Agostino](/figures/augustine) nel Trattato XI su Giovanni, poiché “i figli e gli eredi di Cristo provengono sia dai buoni ministri rappresentati dalla donna libera, sia dai cattivi ministri rappresentati dalla donna schiava”. **Sulla bigamia e sulle irregolarità connesse ad essa (cinque articoli)**  
+In seguito dobbiamo esaminare la bigamia e le irregolarità che ne derivano. In questa sede vi sono cinque punti da considerare:  
+(1) Si verifica un’irregolarità nella bigamia che consiste nell’avere due mogli consecutive?  
+(2) Si verifica un’irregolarità quando una persona ha contemporaneamente due mogli?  
+(3) Si verifica un’irregolarità quando si sposa una donna che non è vergine?  
+(4) La bigamia viene eliminata dal battesimo?  
+(5) È possibile concedere una dispensazione a una persona bigama?
+
 <span class="atom-split" data-atom="137" data-title="Whether irregularity attaches to bigamy?" data-chapter="Whether irregularity attaches to bigamy?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that irregularity is not attached to the bigamy that consists in having
@@ -7223,6 +9832,22 @@ at the same time in order to cause irregularity. Hence the decree of Innocent II
 statement of the Master (Sent. iv, D, 27), namely that consent alone by words of the present is
 sufficient to cause irregularity.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’irregolarità non sia legata alla bigamia che consiste nell’avere due mogli in successione. Poiché la pluralità e l’unità derivano dall’esistenza stessa; quindi, l’inesistenza non comporta la pluralità. Un uomo che abbia due mogli in successione – una esistente e l’altra inesistente – non diventa così marito di più di una donna, e pertanto non viene escluso, secondo quanto affermato dall’Apostolo (1 Timoteo 3:2; Tito 1:6), dalla possibilità di ricoprire la carica episcopale.
+
+Obiezione 2: Inoltre, un uomo che commette adulterio con diverse donne dimostra una maggiore mancanza di controllo rispetto a colui che ha diverse mogli uno dopo l’altro. Eppure, nel primo caso, l’uomo non diventa considerato irregolare; pertanto, nemmeno nel secondo caso dovrebbe essere considerato tale.
+
+Obiezione 3: Inoltre, se la bigamia causa irregolarità, ciò avviene o a causa del [sacramento](/concepts/sacrament) stesso, oppure a causa degli atti carnali. Ora, non è certo per motivi legati al primo aspetto, poiché se un uomo avesse contratto matrimonio con le sole parole rituali e sua moglie fosse morta prima della consumazione del matrimonio, sposando un’altra donna diventerebbe irregolare, il che è contrario alla sentenza di Innocenzo III (cap. Dubium, De bigamia). Né può essere attribuito al secondo aspetto, poiché in tal caso un uomo che avesse commesso adulterio con diverse donne sarebbe ugualmente considerato irregolare: il che è falso. Pertanto, la bigamia non causa affatto irregolarità.
+
+Rispondo che, per il sacramento dell’ordine, un uomo viene designato al ministero dei sacramenti; colui che deve amministrare i sacramenti agli altri non deve presentare alcun difetto riguardo a tali sacramenti stessi. Ora, un sacramento è considerato difettoso quando la sua intera significazione spirituale non vi si riscontra. Il sacramento del matrimonio simboleggia l’unione di Cristo con la Chiesa, cioè l’unione di uno con uno; pertanto, la piena realizzazione di questo significato richiede che il marito abbia una sola moglie e la moglie un solo marito. La bigamia, che distrugge questa condizione, comporta quindi irregolarità nel sacramento del matrimonio. Esistono quattro tipi di bigamia: il primo si verifica quando un uomo ha più mogli legali una dopo l’altra; il secondo quando ne ha più contemporaneamente, alcune legalmente e altre di fatto; il terzo quando ne ha diverse in sequenza, alcune legalmente e altre di fatto; il quarto quando un uomo sposa una vedova. In tutti questi casi si verifica irregolarità nel sacramento del matrimonio. Vi è anche un altro motivo legato a questa irregolarità: coloro che ricevono il sacramento dell’ordine dovrebbero essere caratterizzati da una grande spiritualità, sia perché amministrano cose spirituali – i sacramenti – sia perché insegnano materie spirituali; inoltre, dovrebbero dedicarsi esclusivamente a questioni spirituali. Poiché la concupiscenza è profondamente incompatibile con la spiritualità, poiché rende l’uomo completamente carnale, coloro che ricoprono tale ruolo non dovrebbero manifestare alcuna traccia di persistente concupiscenza; ciò si osserva effettivamente nelle persone bigame, le quali non sono disposte a accontentarsi di una sola moglie. Tuttavia, il primo motivo menzionato è senz’altro il più valido.
+
+Risposta all’Obiezione 1: La pluralità di diverse mogli contemporaneamente costituisce una pluralità semplice; pertanto, tale situazione è del tutto incompatibile con il significato stesso del sacramento, e per questo motivo il sacramento risulta nullo. Tuttavia, la pluralità di diverse mogli in successione costituisce una pluralità relativa; quindi essa non distrugge completamente il significato del sacramento, né lo rende nullo nella sua essenza, ma soltanto nella sua perfezione, che è richiesta da coloro che ne sono i ministri.
+
+Risposta all’Obiezione 2: Sebbene coloro che commettono adulterio dimostrino di possedere una concupiscenza più intensa, essa non è tale da essere persistente, poiché attraverso l’adulterio una delle parti non viene legata all’altra per sempre; pertanto, il sacramento non ne risulta compromesso in alcun modo.
+
+Risposta all’Obiezione 3: Come già detto, la bigamia causa irregolarità, poiché distrugge il significato perfetto del sacramento; tale significato risiede sia nell’unione delle menti, espressa attraverso il consenso, sia nell’unione dei corpi. Pertanto, la bigamia deve influenzare entrambi questi aspetti contemporaneamente per causare irregolarità. Da ciò deriva anche la decisione di Innocenzo III, che confuta l’affermazione del Maestro (Sentenze, IV, D, 27), secondo cui il consenso espresso soltanto con parole presenti sia sufficiente a provocare irregolarità.
+
 <span class="atom-split" data-atom="138" data-title="Whether irregularity results from bigamy, when one husband has two wives, one in law, the other in fact?" data-chapter="Whether irregularity results from bigamy, when one husband has two wives, one in law, the other in fact?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that irregularity does not result from bigamy when one husband
@@ -7256,6 +9881,21 @@ Reply to Objection 3: In this case the man is not reckoned a bigamist, because t
 lacked its perfect signification. Nevertheless if, by the judgment of the Church, he be compelled
 to return to his first wife and carnally to know her, he becomes irregular forthwith, because the
 irregularity is the result not of the sin but of imperfect signification.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’irregolarità non derivi dalla bigamia quando un uomo ha due mogli contemporaneamente, una per legge e una di fatto. Poiché quando il [sacramento](/concepts/sacrament) è nullo non può esserci alcun difetto in esso. Ora, quando un uomo sposa una donna di fatto ma non per legge, non vi è alcun sacramento, poiché tale unione non rappresenta l’unione di Cristo con la Chiesa. Pertanto, poiché l’irregolarità non deriva dalla bigamia se non a causa di un difetto nel sacramento, sembrerebbe che questa forma di bigamia non comporti alcuna irregolarità.
+
+Obiezione 2: Inoltre, se un uomo ha rapporti con una donna che ha sposato di fatto ma non legalmente, commette adulterio se non possiede una moglie legittima, o fornicazione se ne possiede una. Tuttavia, un uomo non diventa irregolare dividendo la propria vita con più donne attraverso rapporti adulterini o fornicatori; pertanto, lo stesso vale per il tipo di bigamia menzionato.
+
+Obiezione 3: Inoltre, può accadere che un uomo, prima di conoscere carnalmente la donna con cui si è unito in matrimonio secondo le leggi, sposi un’altra donna in modo effettivo ma non legale, e conosca questa seconda donna carnalmente, sia che la prima moglie sia ancora viva o morta. In questo caso, l’uomo ha contratto matrimoni sia legali che effettivi con più donne, ma non si trova in una situazione irregolare, poiché non ha diviso il proprio corpo tra diverse donne. Pertanto, l’irregolarità non deriva da questo tipo di bigamia.
+
+Rispondo che l’irregolarità si verifica nei due tipi di bigamia; infatti, sebbene nel primo caso non vi sia alcun sacramento, esiste comunque una certa somiglianza con un sacramento. Pertanto questi due tipi sono considerati secondari, mentre il primo rappresenta la causa principale dell’irregolarità.
+
+Risposta all’Obiezione 1: Sebbene in questo caso non vi sia alcun sacramento, esiste comunque una certa somiglianza con un sacramento; ciò che invece non accade nella fornicazione o nell’adulterio. Pertanto, il confronto non è valido.  
+Ciò basta per rispondere alla Seconda Obiezione.
+
+Risposta all’Obiezione 3: In questo caso l’uomo non viene considerato bigamo, poiché il primo matrimonio mancava della sua piena validità. Tuttavia, se, a giudizio della Chiesa, dovesse essere costretto a tornare con la sua prima moglie e a convivere con lei carnalmente, diventerebbe immediatamente irregolare nel suo stato matrimoniale; l’irregolarità, infatti, deriva non dal peccato stesso, ma dalla mancanza di validità legale del matrimonio.
 
 <span class="atom-split" data-atom="139" data-title="Whether irregularity is contracted by marrying one who is not a virgin?" data-chapter="Whether irregularity is contracted by marrying one who is not a virgin?" data-kind="atom" data-srclang="en"></span>
 
@@ -7335,6 +9975,27 @@ by his own conscience, even before she is convicted of adultery, he becomes irre
 opinions differ on this point. However, what we have said is more probable, since here it is not a
 question of sin, but of signification only.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il matrimonio con una persona non vergine non comporti alcuna irregolarità. Infatti, il difetto di un uomo rappresenta un ostacolo maggiore per lui stesso rispetto al difetto di un’altra persona. Ma se l’uomo stesso che sposa non è vergine, non si verifica alcuna irregolarità; quindi, tanto meno lo sarà se sua moglie non è vergine.
+
+Obiezione 2: Inoltre, può accadere che un uomo sposi una donna dopo averla corrotta. A prima vista, un tale uomo non commette alcun atto illegittimo, poiché non ha condiviso il proprio corpo con più persone, né sua moglie lo ha fatto; tuttavia sposa comunque una donna che non è vergine. Pertanto, questo tipo di bigamia non comporta alcuna irregolarità.
+
+Obiezione 3: Inoltre, nessuno può diventare irregolare se non volontariamente. Tuttavia, a volte una persona sposa involontariamente qualcuno che non è vergine; ad esempio, quando pensa che sia vergine e in seguito, dopo averla conosciuta intimamente, scopre che non lo è. Pertanto, questo tipo di situazione non comporta sempre irregolarità.
+
+Obiezione 4: Inoltre, il rapporto sessuale illegale dopo il matrimonio è più grave di quello precedente al matrimonio stesso. Se una moglie, dopo la consumazione del matrimonio, ha rapporti con un altro uomo, suo marito non diventa “irregolare”, altrimenti verrebbe punito per il peccato di sua moglie. Inoltre, potrebbe accadere che, venuto a conoscenza di ciò, lui paghi il debito richiestogli dalla moglie prima che questa venga accusata e condannata per adulterio. Pertanto, sembrerebbe che questo tipo di bigamia non causi alcuna “irregolarità”.
+
+Al contrario, Gregorio afferma (Registri ii, epistola 37): “Ti ordaino di non pronunciare mai ordinanze illegali, né di ammettere alle ordini sacri un bigamo, o colui che si è sposato con una donna che non era vergine, o uno analfabeta, o uno dalla corporatura deforme, o qualcuno che sia costretto a svolgere penitenze o ad adempiere a doveri civili, o chiunque si trovi in alcuna condizione di soggezione.”
+
+Rispondo che, nell’unione di Cristo con la Chiesa, si trova l’unità in entrambi i membri della coppia. Pertanto, sia che si verifichi una separazione fisica da parte del marito o della moglie, sorge un difetto nel [sacramento](/concepts/sacrament) coniugale. Tuttavia esiste una differenza: da parte del marito non è richiesto che sia vergine, mentre da parte della moglie sì; la ragione addotta da coloro che si occupano di studi canonici è che lo sposo rappresenta la Chiesa militante, affidata alla cura di un vescovo e quindi soggetta a molte corruzioni, mentre la sposa rappresenta Cristo, che fu vergine; per questo motivo è richiesto che la sposa sia vergine, ma non lo sposo, affinché un uomo possa diventare vescovo. Tuttavia questa spiegazione è palesemente contraria alle parole dell’Apostolo (Efesini 5:25): “Mariti, amate le vostre mogli, come Cristo ha amato la Chiesa”, il che indica chiaramente che la sposa rappresenta la Chiesa e lo sposo Cristo; inoltre l’Apostolo afferma (Efesini 5:23): “Poiché lo sposo è la testa della moglie, così Cristo è la testa della Chiesa”. Alcuni sostengono quindi che sia Cristo ad essere rappresentato dallo sposo e che la Chiesa sia rappresentata dalla sposa, considerata la Chiesa trionfante priva di ogni macchia. Si dice anche che la sinagoga fosse inizialmente unita a Cristo come concubina; quindi non vi sarebbe alcun problema nel sacramento se lo sposo avesse avuto una concubina in precedenza. Ma questa ipotesi è assurda, poiché sia la fede degli antichi che quella dei moderni è unica, così come la Chiesa stessa. Coloro che servivano Dio al tempo della sinagoga appartenevano dunque all’unità della Chiesa nella quale oggi serviamo Dio. Inoltre, ciò è palesemente contrario ai passaggi di Geremia 3:14, Ezechiele 16:8 e Osea 2:16, dove le nozze con la sinagoga vengono menzionate esplicitamente; quindi la sinagoga non era considerata una concubina, ma una moglie. In base a queste interpretazioni, anche il adulterio potrebbe essere considerato un “sacramento” di tale unione, il che è assurdo. Pertanto, l’idolatria corruppe l’antica religione prima che questa venisse unita a Cristo nella fede della Chiesa. Quindi dobbiamo ritenere che le irregolarità coniugali derivino da un difetto intrinseco al sacramento stesso. Quando una separazione fisica avviene al di fuori del matrimonio a causa di un precedente matrimonio, ciò non comporta alcun difetto nel sacramento per la persona coinvolta, ma soltanto per l’altra parte, poiché l’atto coniugale ha come destinatario l’altro partner. Pertanto, il significato del sacramento deriva dal suo destinatario, che in questo caso rappresenta l’elemento essenziale del sacramento stesso. Se dunque una donna potesse ricevere gli ordini sacri, allo stesso modo in cui un uomo diventa irregolare sposando una donna non vergine, anche lei diventerebbe irregolare se sposasse un uomo non vergine.
+Ma non se lei non fosse più vergine al momento del matrimonio, a meno che non fosse stata corrotta a causa di un precedente matrimonio. Questo basta per rispondere alla prima obiezione.
+
+Risposta all’Obiezione 2: In questo caso le opinioni sono divise. Tuttavia, è più probabile che non si tratti di un comportamento irregolare, poiché non ha diviso la propria carne tra diverse donne.
+
+Risposta all’Obiezione 3: L’irregolarità non rappresenta l’applicazione di una punizione, ma piuttosto un difetto di un sacramento. Pertanto, non è sempre necessario che il bigamio sia volontario affinché si verifichi un’irregolarità. Quindi, un uomo che sposa una donna pensando che sia vergine, quando in realtà non lo è, commette un atto irregolare nel momento in cui ha rapporti carnali con lei.
+
+Risposta all’Obiezione 4: Se una donna commette adulterio dopo essere sposata, suo marito non diventa irregolare per questo motivo, a meno che non la conosca di nuovo carnalmente dopo che lei è stata corrotta dall’adulterio; altrimenti, la corruzione della moglie non influisce in alcun modo sull’atto coniugale del marito. Tuttavia, anche se lui sia costretto dalla legge a pagarle il debito, o lo faccia su sua richiesta per motivi di coscienza, anche prima che lei venga condannata per adulterio, diventa irregolare; sebbene le opinioni in merito siano diverse. Comunque, ciò che abbiamo detto appare più probabile, poiché qui non si tratta di un problema legato al peccato, ma soltanto di una questione di significato legale.
+
 <span class="atom-split" data-atom="140" data-title="Whether bigamy is removed by Baptism?" data-chapter="Whether bigamy is removed by Baptism?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that bigamy is removed by Baptism. For Jerome says in his
@@ -7385,6 +10046,32 @@ not as to the condition of the body, which is effected by virginity or division 
 Reply to Objection 5: Those irregularities were contracted through slight and temporary causes,
 and consequently they could be removed by those sacraments. Moreover the latter were ordained
 for that purpose, whereas Baptism is not.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il battesimo elimini il reato di bigamia. Infatti Gerolamo, nel suo commento alla Lettera di Tito (1:6, “marito di una sola moglie”), afferma che se un uomo ha avuto più mogli prima di ricevere il battesimo, o ne ha avuta una prima e un’altra dopo averlo ricevuto, non è considerato bigamo. Pertanto, il battesimo elimina il reato di bigamia.
+
+Obiezione 2: Inoltre, colui che compie qualcosa di più, compie anche qualcosa di meno. Ora il Battesimo elimina tutti i peccati, e il peccato è qualcosa di più grave dell’irregolarità. Pertanto, il Battesimo elimina anche l’irregolarità.
+
+Obiezione 3: Inoltre, il Battesimo elimina ogni punizione derivante da un atto illecito. Ora, la bigamia rappresenta proprio un tale atto illecito. Pertanto, ecc.
+
+Obiezione 4: Inoltre, un bigamo è considerato irregolare perché manca della [Rappresentanza](/concepts/idea) di Cristo; attraverso il Battesimo, invece, ci conformiamo pienamente a Cristo. Pertanto, questa irregolarità viene eliminata.
+
+Obiezione 5: Inoltre, i sacramenti della [Nuova Legge](/concepts/divine_law) sono più efficaci dei sacramenti dell’Antica Legge. Ma i sacramenti dell’Antica Legge eliminavano le irregolarità, secondo quanto affermato dal Maestro (Sentenze iv). Pertanto anche il Battesimo, essendo il più efficace tra i sacramenti della Nuova Legge, elimina l’irregolarità derivante dal bigamio.
+
+Al contrario, [Agostino](/figures/augustine) afferma (De Bono Conjug. xviii): “Coloro che sostengono che un uomo che abbia sposato una seconda moglie, anche se in quel momento fosse un catecumeno o addirittura un pagano, non possa essere ordinato sacerdote, hanno compreso correttamente la questione; si tratta infatti di un [)sacramento](/concepts/sacrament), non di un peccato.” Inoltre, sempre secondo lo stesso autore (De Bono Conjug. xviii): “Una donna che sia stata corrotta durante il periodo in cui era catecumena o pagana non può, dopo il Battesimo, essere consacrata tra le vergini di Dio.” Pertanto, allo stesso modo, colui che abbia commesso bigamia prima del Battesimo non può essere ordinato sacerdote.
+
+Rispondo che il Battesimo elimina il peccato, ma non scioglie il matrimonio. Pertanto, poiché l’irregolarità nel matrimonio ne è una conseguenza, essa non può essere eliminata dal Battesimo, come afferma Agostino (De Bono Conjugii, XVIII).
+
+Risposta all’Obiezione 1: In questo caso, l’opinione di Girolamo non viene seguita; a meno che forse volesse spiegare che intende dire che una dispensa dovrebbe essere concessa più facilmente.
+
+Risposta all’Obiezione 2: Non si può dedurre che ciò che è efficace per qualcosa di maggiore lo sia anche per qualcosa di minore, a meno che non sia rivolto specificamente a quest’ultimo. Nel caso in questione, questo non vale, poiché il Battesimo non ha lo scopo di eliminare irregolarità.
+
+Risposta all’Obiezione 3: Ciò deve essere inteso riguardo alle punizioni che derivano dal peccato effettivo, quelle che sono state inflitte o che ancora devono essere inflitte; infatti, il Battesimo non restituisce la verginità, né ripristina l’unità fisica delle persone.
+
+Risposta all’Obiezione 4: Il battesimo conforma l’uomo a Cristo per quanto riguarda la virtù dell’anima, ma non per quanto riguarda lo stato del corpo, che viene realizzato attraverso la verginità o la divisione della carne.
+
+Risposta all’Obiezione 5: Quegli irregolarità si verificavano a causa di cause lievi e temporanee; pertanto potevano essere eliminate attraverso quei sacramenti. Inoltre, questi ultimi erano stati istituiti proprio per tale scopo, mentre il Battesimo non lo è.
 
 <span class="atom-split" data-atom="141" data-title="Whether it is lawful for a bigamist to receive a dispensation?" data-chapter="Whether it is lawful for a bigamist to receive a dispensation?" data-kind="atom" data-srclang="en"></span>
 
@@ -7437,6 +10124,28 @@ Reply to Objection 4: In particular cases there is no ratio that applies to all 
 of their variety. Hence what is reasonably established for all, in consideration of what happens in
 the majority of cases, can be with equal reason done away in a certain definite case.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra illegale concedere una dispensa a un bigamo. Infatti si dice (Extra, De bigamis, cap. Nuper): “Non è legittimo concedere una dispensa a chierici che, se avessero potuto farlo, si siano presi una seconda moglie”.
+
+Obiezione 2: Inoltre, non è lecito concedere alcuna dispensa dalla [Legge divina](/concepts/divine_law). Tutto ciò che è contenuto negli scritti canonici appartiene infatti alla Legge divina. Poiché nell’[Santuario](/concepts/revelation) canonico l’Apostolo afferma (1 Timoteo 3:2): “È necessario che un vescovo sia, marito di una sola moglie”, sembrerebbe quindi impossibile concedere alcuna dispensa in questa materia.
+
+Obiezione 3: Inoltre, nessuno può ricevere una dispensa in ciò che è essenziale per un [sacramento](/concepts/sacrament). Tuttavia, per il sacramento dell’ordine è essenziale che la persona che lo riceve non sia irregolare, poiché la significazione stessa che è essenziale per un sacramento manca in chi è irregolare. Pertanto, a tale persona non può essere concessa alcuna dispensa in questo ambito.
+
+Obiezione 4: Inoltre, ciò che viene fatto in modo ragionevole non può essere annullato in modo altrettanto ragionevole. Pertanto, se un bigamo può legalmente ricevere una dispensa, sarebbe irragionevole che venisse considerato in stato di irregolarità: il che è inaccettabile.
+
+Al contrario, papa Lucio concesse una dispensa vescovo di Palermo, che era bigamo, come si legge nella glossa al canone Lector, dist. 34. Inoltre, papa Martino [*Martinus Bracarensis: cap. xliii*] afferma: “Se un lettore sposa una vedova, possa rimanere lettore; o, se necessario, possa ricevere il grado di subdiacono, ma non uno superiore. Lo stesso vale nel caso in cui sia bigamo.” Pertanto, almeno per quanto riguarda il grado di subdiacono, può ricevere una dispensa.
+
+Rispondo che l’irregolarità legata alla bigamia deriva non dalla legge naturale, ma da quella positiva; inoltre, non è affatto essenziale per il mantenimento dell’ordine sociale che un uomo non sia bigamo, come dimostra il fatto che, se un bigamo si presenta per ricevere ordini sacri, questi gli vengono comunque conferiti. Pertanto, il Papa può completamente dispensare da tale irregolarità; un vescovo, invece, solo riguardo agli ordini minori, anche se alcuni affermano che, al fine di prevenire eventuali deviazioni religiose all’estero, possa dispensarne anche per gli ordini maggiori in coloro che desiderano servire Dio nella vita religiosa.
+
+Risposta all’Obiezione 1: Questo Decretale dimostra che esiste la stessa difficoltà nell’autorizzare una dispensa per coloro che hanno sposato più mogli di fatto, come se le avessero sposate legalmente; tuttavia, non prova affatto che il Papa non abbia il potere di concedere una dispensa in tali casi.
+
+Risposta all’Obiezione 2: Ciò è vero per quanto riguarda le cose che appartengono alla [legge naturale](/positions/natural_law), nonché quelle che sono essenziali ai sacramenti e alla fede. Tuttavia, per quanto riguarda quelle istituzioni che derivano dagli apostoli, poiché la Chiesa possiede oggi lo stesso potere di allora di stabilirle o abolirle, essa può concedere delle dispensazioni attraverso colui che detiene la primazia.
+
+Risposta all’Obiezione 3: Non ogni significato è essenziale per un sacramento, ma soltanto quello che appartiene all’effetto sacramentale; tale significato non viene meno a causa di irregolarità. [*Nell’edizione Leonina si legge “officium”, alcuni preferiscono “effectum”; il senso è lo stesso e la traduzione sopra indicata è la più appropriata.]
+
+Risposta all’Obiezione 4: In casi particolari non esiste alcuna regola che si applichi ugualmente a tutti, a causa della loro diversità. Pertanto, ciò che è considerato ragionevole per tutti, in base a quanto accade nella maggior parte dei casi, può essere altrettanto giustamente rifiutato in un caso specifico e definito.
+
 <span class="atom-split" data-atom="142" data-title="OF THE BILL OF DIVORCE (SEVEN ARTICLES)" data-chapter="OF THE BILL OF DIVORCE (SEVEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the bill of divorce, under which head there are seven points of inquiry:
@@ -7447,6 +10156,17 @@ We must now consider the bill of divorce, under which head there are seven point
 (5) Whether the husband can marry again the wife whom he has divorced?
 (6) Whether the cause of divorce was hatred of the wife?
 (7) Whether the reasons for divorce had to be written on the bill?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora esaminare il documento di divorzio, che comprende sette punti da analizzare:  
+(1) Se l’indissolubilità del matrimonio sia una norma della [legge naturale](/positions/natural_law);  
+(2) Se, per motivi particolari, sia lecito separarsi dalla moglie;  
+(3) Se ciò fosse consentito dalla legge mosaica;  
+(4) Se una donna divorziata possa prendere un altro marito;  
+(5) Se il marito possa risposare la moglie da cui si è separato;  
+(6) Se il motivo del divorzio sia l’odio verso la moglie;  
+(7) Se i motivi del divorzio debbano essere specificati nel documento ufficiale.
 
 <span class="atom-split" data-atom="143" data-title="Whether inseparableness of the wife is of natural law?" data-chapter="Whether inseparableness of the wife is of natural law?" data-kind="atom" data-srclang="en"></span>
 
@@ -7504,6 +10224,26 @@ marriage laws consider what is expedient for all rather than what may be suitabl
 although the indissolubility of marriage hinder the good of the offspring with regard to some
 individual, it is proportionate with the good of the offspring absolutely speaking: and for this reason
 the argument does not prove.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’indissolubilità coniugale non faccia parte della [legge naturale](/positions/natural_law). Infatti, la legge naturale è uguale per tutti. Ma nessuna legge, se non quella di Cristo, ha proibito il divorzio dalla moglie. Pertanto, l’indissolubilità coniugale non appartiene alla legge naturale.
+
+Obiezione 2: Inoltre, i sacramenti non appartengono alla legge naturale. Ma l’indissolubilità del matrimonio è uno dei beni intrinseci al matrimonio stesso; pertanto, nemmeno essa rientra nella categoria della legge naturale.
+
+Obiezione 3: Inoltre, l’unione tra uomo e donna nel matrimonio ha lo scopo principale di generare, allevare ed educare i figli. Ma tutte le cose raggiungono la loro completezza entro un certo periodo di tempo. Pertanto, dopo tale periodo è legittimo separarsi dalla moglie, senza violare la legge naturale.
+
+Obiezione 4: Inoltre, il bene dei figli rappresenta lo scopo principale del matrimonio. Tuttavia, l’indissolubilità del matrimonio è in contrasto con il bene dei figli, poiché, secondo i filosofi, un certo uomo non può generare figli con una certa donna, eppure potrebbe generarne con un’altra, anche se questa ultima potrebbe essere stata in relazione con un altro uomo. Pertanto, l’indissolubilità del matrimonio è contraria, piuttosto che conforme, alla legge naturale.
+
+Al contrario, quelle cose che furono attribuite alla natura quando questa era già ben stabilita nella sua origine appartengono in modo particolare alla legge naturale. Ora, l’indissolubilità del matrimonio è una di queste cose, secondo Matteo 19:4,6; pertanto essa rientra nella legge naturale. Inoltre, è anch’esso parte della legge naturale il fatto che l’uomo non debba opporsi a Dio. Tuttavia, l’uomo si opporrebbe in qualche modo a Dio se dovesse separare “ciò che Dio ha unito”. Poiché dunque l’indissolubilità del matrimonio deriva da questo passo di Matteo 19:6, sembra proprio che appartenga alla legge naturale.
+
+Rispondo che, secondo l’intenzione della natura, il matrimonio ha lo scopo di allevare la prole, non solo per un certo periodo di tempo, ma per tutta la sua vita. Pertanto, è legge naturale che i genitori provvedano ai loro figli e che questi siano gli eredi dei genitori (2 Corinzi 12:14). Poiché la prole rappresenta il bene comune del marito e della moglie, l’imperativo della legge naturale richiede che essi vivano insieme per sempre, inseparabilmente; ed è proprio per questo che l’indissolubilità matrimoniale è una norma di diritto naturale.
+
+Risposta all’Obiezione 1: Solo la legge di Cristo portò l’umanità “alla perfezione” [*Cfr. Eb 7:19*], riconducendola allo “stato” della novità naturale. Pertanto, né le leggi mosaiche né quelle umane potevano eliminare tutto ciò che era contrario alla legge di natura, poiché ciò era riservato esclusivamente alla “legge dello spirito di vita” [*Cfr. Rom 8:2*].
+
+Risposta all’Obiezione 2: L’indissolubilità appartiene al matrimonio in quanto quest’ultimo rappresenta un segno dell’unione perpetua di Cristo con la Chiesa, e in quanto svolge una funzione naturale finalizzata al bene dei figli, come già detto. Tuttavia, poiché il divorzio è più direttamente incompatibile con il significato stesso del [)sacramento](/concepts/sacrament) che con il bene dei figli – di cui comunque è incompatibile, come affermato sopra (Q[65], A[2], ad 5) – l’indissolubilità del matrimonio deriva principalmente dal bene stesso del sacramento, e non necessariamente da quello dei figli, anche se può essere collegata a entrambi. Per quanto riguarda il legame con il bene dei figli, tale caratteristica appartiene alla legge naturale, ma non a quella del sacramento stesso. La risposta alla Terza Obiezione si ricava appunto da quanto detto finora.
+
+Risposta all’Obiezione 4: Il matrimonio è rivolto principalmente al bene comune, in relazione al suo scopo principale, che è il bene della prole; sebbene, in relazione al suo scopo secondario, sia orientato al bene delle parti contraenti, poiché per sua natura rappresenta un rimedio alla concupiscenza. Pertanto, le leggi matrimoniali tengono conto di ciò che è vantaggioso per tutti, piuttosto che di ciò che potrebbe essere appropriato per singoli individui. Quindi, anche se l’indissolubilità del matrimonio ostacola il bene della prole in alcuni casi individuali, essa è comunque proporzionata al bene della prole nel suo complesso; e per questo motivo l’argomentazione presentata non risulta convincente.
 
 <span class="atom-split" data-atom="144" data-title="Whether it may have been lawful by dispensation to put away a wife?" data-chapter="Whether it may have been lawful by dispensation to put away a wife?" data-kind="atom" data-srclang="en"></span>
 
@@ -7659,6 +10399,32 @@ in the Opus Imperfectum falsely ascribed to St. John Chrysostom] that "divorce w
 evil indeed, yet lawful." Those who hold the first opinion understand by this only that divorce
 incurred the debt of temporal punishment.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che, secondo la legge mosaica, fosse legittimo divorziare dalla propria moglie. Infatti, un modo per dare il proprio consenso è astenersi dal proibire ciò che si potrebbe proibire; inoltre, non è lecito accordarsi su qualcosa che è illegale. Poiché la legge mosaica non vietava il divorzio e non commetteva alcun errore nel non proibirlo – poiché “la legge, è santa” (Romani 7:12) – sembra quindi che il divorzio fosse, in un certo periodo, considerato legittimo.
+
+Obiezione 2: Inoltre, i profeti parlavano ispirati dallo Spirito Santo, secondo 2 Pietro 1:21. È scritto infatti (Malachia 2:16): “Quando la odierai, allontanala da te”. Poiché ciò che lo Spirito Santo ispira non è considerato illegale, sembrerebbe che il divorzio da una moglie non sia sempre stato considerato un atto illegittimo.
+
+Obiezione 3: Inoltre, Crisostomo [*Hom. xxxii nell’“Opus Imperfectum” falsamente attribuito a San Giovanni Crisostomo*] afferma che, proprio come gli apostoli permisero i matrimoni secondi, così Mosè concesse l’autorizzazione al divorzio. Ma i matrimoni secondi non sono peccaminosi; pertanto nemmeno sotto la legge mosaica era peccaminoso divorziare da una moglie.
+
+Obiezione 4:
+
+Al contrario, il nostro Signore disse (Matteo 19:8) che Mosè concesse ai Giudei il diritto di divorzio a causa della durezza del loro cuore. Tuttavia, la durezza del loro cuore non li scusava dal peccato; né tantomeno la legge relativa al diritto di divorzio poteva considerarsi una giustificazione per tale comportamento.
+
+Obiezione 5: Inoltre, Crisostomo afferma nell’[*Hom. xxxii dell’“Opus Imperfectum” falsamente attribuito a San Giovanni Crisostomo*] che “Mosè, concedendo il diritto di divorzio, non intendeva dimostrare la giustizia di Dio, ma anzi eliminava la colpevolezza dal loro peccato; poiché gli Ebrei agivano come se osservassero la legge, il loro peccato sembrava non essere tale”.
+
+Rispondo che su questo punto esistono due opinioni. Alcuni sostengono che, secondo la Legge, coloro che divorziavano dalle proprie mogli, dopo aver loro concesso il certificato di divorzio, non fossero comunque scusati dal peccato, anche se venivano esentati dalla punizione che avrebbero dovuto subire secondo la Legge; per questo motivo si dice che Mosè abbia permesso l’uso del certificato di divorzio. Di conseguenza, si distinguono quattro tipi di autorizzazione: il primo deriva dall’assenza di un precetto esplicito: quando non viene prescritto un bene maggiore, si ritiene che sia permesso un bene minore; ad esempio, l’Apostolo, non prescrivendo la castità, permise il matrimonio (1 Corinzi 7). Il secondo tipo di autorizzazione deriva dall’assenza di un divieto esplicito: i peccati veniali sono considerati permessi perché non sono proibiti. Il terzo tipo deriva dall’assenza di misure preventive: tutti i peccati, quindi, sono considerati permessi da Dio, nella misura in cui Egli non li impedisce, pur potendolo fare. Il quarto tipo deriva dall’omissione della punizione: in questo caso, il certificato di divorzio fu permesso dalla Legge, non certo al fine di ottenere un bene maggiore – come avvenne nel caso del permesso di avere più mogli – ma per evitare un male peggiore, ovvero l’omicidio coniugale, a cui i Giudei erano inclini a causa della corruzione dei loro desideri carnali. Allo stesso modo, ai Giudei fu permesso prestare denaro ad usura agli stranieri, a causa della corruzione dei loro desideri lussuriosi, affinché non esigessero interessi eccessivi dai propri fratelli; inoltre, fu permessa la pratica del sacrificio per gelosia, a causa della corruzione dei loro sospetti, affinché semplici supposizioni non alterassero il loro giudizio. Tuttavia, poiché l’[Antica Legge](/concepts/divine_law), sebbene non conferisse la grazia di Dio, fu data proprio per indicare i peccati – come affermano unanimemente i santi – altri ritengono che, se divorziare fosse stato considerato un peccato, ciò sarebbe stato almeno indicato dalla Legge o dai profeti: “Mostrate al mio popolo le sue azioni malvagie” (Isaia 58:1); altrimenti, sembrerebbe che tali cose necessarie per la salvezza e di cui i Giudei non erano a conoscenza non fossero mai state loro rivelate. Il che è inaccettabile, poiché la giustizia osservata secondo l’Antica Legge avrebbe potuto meritare la vita eterna. Per questo motivo si dice che, sebbene divorziare sia in sé un atto sbagliato, diventò comunque legittimo grazie alla permissione di Dio; questa tesi viene confermata dall’autorità di Crisostomo, il quale afferma che “il Leggeggiatore, permettendo il divorzio, eliminò la colpa associata a quel peccato”. Sebbene questa opinione abbia una certa plausibilità, la prima è generalmente più condivisa. Pertanto dobbiamo rispondere agli argomenti di entrambe le parti [*Cfr. FS, Q[105], A[4], ad 8; FS, Q[108], A[3], ad 2; Contra Gentes iii, cap. 123].
+
+Risposta all’Obiezione 1: Chi è in grado di proibire non pecca per il semplice fatto di omettere di proibire, se non nutre alcuna speranza di poter correggere la situazione; al contrario, teme che il proprio divieto possa fornire l’occasione per un male ancora maggiore. Fu proprio ciò che accadde a Mosè: agendo per autorità divina, egli non proibì l’uso dei documenti di divorzio.
+
+Risposta all’Obiezione 2: I profeti, ispirati dall’Holy Ghost, dissero che una moglie potesse essere ripudiata; non perché ciò rappresentasse un comando dell’Holy Ghost, ma perché tale azione veniva considerata tollerabile al fine di evitare conseguenze ancora peggiori.
+
+Risposta all’Obiezione 3: Questa somiglianza tra le due autorizzazioni non deve essere applicata a ogni singolo dettaglio, ma soltanto alla causa che era identica in entrambi i casi, poiché entrambe le autorizzazioni furono concesse al fine di evitare qualche forma di malvagità.
+
+Risposta all’Obiezione 4: Sebbene la loro durezza di cuore non li scusasse dal peccare, l’autorizzazione concessa a causa di tale durezza li scusava comunque. Infatti, alcune cose sono proibite a coloro che sono in buona salute fisica, ma non ai malati; eppure i malati non peccano per il semplice fatto di approfittare dell’autorizzazione loro concessa.
+
+Risposta all’Obiezione 5: Un bene può essere omesso in due modi. Primo, al fine di ottenere un bene maggiore; in questo caso, l’omissione di quel bene diventa virtuosa poiché mira a un bene più grande; è per questo che Giacobbe decise saggiamente di non avere che una moglie, per il bene dei suoi discendenti. In secondo luogo, un bene può essere omesso al fine di evitare un male maggiore; se ciò avviene con l’autorità di chi ha il potere di concedere dispensazioni, l’omissione di quel bene non è peccaminosa, ma non diventa nemmeno virtuosa. È in questo senso che nella legge di Mosè la indissolubilità del matrimonio fu sospesa al fine di evitare un male ancora più grave, ovvero l’omicidio coniugale. Per questo motivo Crisostomo afferma che “si eliminò il peccato stesso”; infatti, sebbene il divorzio rimanesse considerato un atto irregolare e quindi peccaminoso, non comportava alcuna punizione, né temporanea né eterna, poiché avveniva con l’autorizzazione divina; di conseguenza, la sua colpevolezza veniva ritenuta esclusa. E per questo motivo egli aggiunge nell’[*Homilia xxxii dell’Opus Imperfectum attribuito falsamente a San Giovanni Crisostomo*]: “Il divorzio era permesso, un male certamente, ma legittimo”. Coloro che sostengono la prima opinione intendono semplicemente dire che il divorzio comportava una punizione temporanea.
+
 <span class="atom-split" data-atom="146" data-title="Whether it was lawful for a divorced wife to have another husband?" data-chapter="Whether it was lawful for a divorced wife to have another husband?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was lawful for a divorced wife to have another husband. For
@@ -7725,6 +10491,32 @@ she is defiled absolutely speaking; or she is said to be defiled just as a perso
 dead or leprous body was said to be unclean with the uncleanness, not of sin, but of a certain legal
 irregularity. Wherefore a priest could not marry a widow or a divorced woman.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che sia legittimo per una donna divorziata avere un altro marito. Infatti, nel divorzio è il marito a commettere un torto maggiore separandosi dalla moglie rispetto a quanto possa farlo la moglie stessa. Tuttavia, il marito può sposare un’altra donna senza peccare; pertanto, anche la moglie potrebbe sposare un altro uomo senza peccare.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine), parlando della bigamia, afferma (De Bono Conjug. xv, xviii) che “all’epoca in cui tale pratica era diffusa, non costituiva un peccato”. Nel periodo del [Vecchio Testamento](/concepts/divine_law), infatti, era la [consuetudine](/concepts/custom) che una donna, dopo il divorzio, potesse sposare un altro uomo; si diceva, ad esempio: “Quando ella si separa dal marito e sposa un altro”, ecc. Pertanto, la donna non peccava nel sposare un altro uomo.
+
+Obiezione 3: Inoltre, il nostro Signore ha dimostrato che la giustizia del Nuovo Testamento è superiore a quella dell’Antico Testamento (Matteo 5). Ha detto infatti che proprio questa giustizia superiore del Nuovo Testamento impone che una donna divorziata non sposi un altro uomo (Matteo 5:32). Pertanto, ciò era considerato legittimo anche nell’Antico Testamento.
+
+Obiezione 4:
+
+Al contrario, le parole di Matteo 5:32 – “Chi sposa una donna divorziata commette adulterio” – dimostrano che l’adulterio non era mai stato permesso nell’Antico Testamento. Pertanto, non era legittimo che una donna divorziata avesse un altro marito.
+
+Obiezione 5: Inoltre, è scritto (Deuteronomio 24:3) che una donna divorziata che si sposa un altro marito “è contaminata e diventa odiosa agli occhi del Signore”. Pertanto, ha peccato sposando un altro uomo.
+
+Rispondo che, secondo la prima opinione menzionata sopra (A[3]), ella ha peccato sposando un altro uomo dopo il divorzio, poiché il suo primo matrimonio era ancora valido. Infatti “la donna, finché vive il marito, è legata alla legge di lui” (Romani 7:2); inoltre non le era possibile avere più di un marito contemporaneamente. Ma secondo la seconda opinione, proprio come era lecito, per disposizione divina, che un marito divorziasse dalla moglie, allo stesso modo era permesso alla moglie sposare un altro uomo, poiché l’indissolubilità del matrimonio veniva meno a causa di tale disposizione divina. E finché tale indissolubilità persiste, vale ancora quanto detto dall’Apostolo. Pertanto, si può rispondere efficacemente agli argomenti di entrambe le parti.
+
+Risposta all’Obiezione 1: Era legittimo per un marito avere più mogli contemporaneamente, in virtù della disposizione divina; pertanto, dopo aver divorziato da una moglie, poteva sposarne un’altra, anche se il primo matrimonio non era stato annullato. Tuttavia, non fu mai legittimo per una donna avere più mariti; quindi, questa analogia non è valida.
+
+Risposta all’Obiezione 2: In queste parole di Agostino, “mos” non indica la consuetudine, ma le buone maniere; allo stesso modo, si dice che una persona abbia buone maniere quando ne possiede davvero; anche la filosofia “morale” prende il suo nome da questa stessa origine.
+
+Risposta all’Obiezione 3: Nostro Signore dimostra l’eccellenza della Nuova Legge rispetto alla Vecchia, sia per quanto riguarda i consigli da seguire, sia per quanto riguarda le cose che la Vecchia Legge permetteva, sia ancora per quelle che essa proibiva; molte di queste ultime, tuttavia, venivano ritenute permesse a causa di interpretazioni errate dei precetti – ad esempio, quella relativa all’odio verso i nostri nemici. Lo stesso vale per la questione del divorzio.
+
+Risposta all’Obiezione 4: L’affermazione del nostro Signore si riferisce al periodo della Nuova Legge, quando la suddetta autorizzazione fu revocata. Allo stesso modo dobbiamo interpretare le parole di Crisostomo nel [*Hom. xii nell’Opus Imperfectum falsamente attribuito a San Giovanni Crisostomo*], il quale dice che “un uomo che divorzia sua moglie secondo la legge commette quattro crimini: poiché agli occhi di Dio egli è un assassino”, nel senso che ha l’intenzione di uccidere sua moglie se non la divorzia; “e perché la divorzia avviene senza che lei abbia commesso adulterio”, nel caso unico in cui la legge del Vangelo permette a un uomo di separarsi da sua moglie; “e infine, perché la rende adultera e l’uomo con cui si sposa diventa anch’egli un adultero”.
+
+Risposta all’Obiezione 5: Un commento osserva: “È contaminata e abominabile, cioè secondo il giudizio di colui che per primo la ritenne contaminata”, e pertanto non ne consegue che sia effettivamente contaminata in senso assoluto; si dice infatti che sia contaminata proprio come una persona che avesse toccato un cadavere o un lebbroso veniva considerata impura, non a causa di un peccato, ma a causa di una certa irregolarità legale. Per questo motivo, un sacerdote non poteva sposare una vedova o una donna divorziata.
+
 <span class="atom-split" data-atom="147" data-title="Whether a husband could lawfully take back the wife he had divorced?" data-chapter="Whether a husband could lawfully take back the wife he had divorced?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a husband could lawfully take back the wife he had divorced.
@@ -7763,6 +10555,24 @@ to her in punishment that she should not return to her former husband. Since, ho
 makes no distinction in its prohibition, others say that from the moment that she was put away she
 could not be taken back, even before marrying again, because the defilement must be understood
 not in reference to sin, but as explained above (A[4], ad 3).
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un marito possa legalmente riprendere la moglie da cui si è divorziato. Infatti, è legale annullare ciò che è stato fatto in modo errato; ma il fatto che un marito si divorzii dalla moglie rappresenta senz’altro un atto errato. Pertanto, sarebbe legittimo per lui annullare tale errore riprendendo la moglie.
+
+Obiezione 2: Inoltre, è sempre stato legittimo essere indulgenti con il peccatore, poiché si tratta di un precetto morale che vale in ogni legge. Ora, il marito che riprende la moglie da cui si era divorziato dimostra di essere indulgente verso qualcuno che ha commesso un peccato; pertanto anche questo comportamento è considerato legittimo.
+
+Obiezione 3: Inoltre, il motivo addotto (Deuteronomio 24:4) per considerare illegale riprendere una moglie divorziata era “perché è stata contaminata”. Ma una moglie divorziata non viene contaminata se non sposando un altro marito. Pertanto, almeno prima che si risposasse, doveva essere legittimo riprenderla.
+
+Al contrario, si dice (Deuteronomio 24:4) che “il precedente marito non può riprenderla”, ecc.
+
+Rispondo che, nella legge relativa al divorzio, erano consentite due cose: innanzitutto che il marito potesse separarsi dalla moglie, e in secondo luogo che la moglie divorziata potesse prendere un altro marito; inoltre venivano imposti due obblighi: che il documento di divorzio fosse redatto per iscritto e che il marito che divorziava dalla moglie non potesse riprenderla in seguito. Secondo coloro che sostengono la prima opinione, ciò fu stabilito come punizione per la donna che si risposava, poiché considerato un peccato; mentre secondo altri, lo scopo era impedire al marito di divorziare troppo facilmente, se non avesse potuto riprenderla in seguito.
+
+Risposta all’Obiezione 1: Al fine di prevenire il male derivante dal fatto che un uomo divorziasse dalla propria moglie, fu stabilito che quest’ultimo non potesse riprendere con sé la moglie divorziata, come detto sopra; ed è per questa ragione che tale disposizione fu emanata da Dio.
+
+Risposta all’Obiezione 2: È sempre stato lecito essere indulgenti verso il peccatore riguardo ai sentimenti crudeli che proviene dal cuore, ma non riguardo alla punizione stabilita da Dio.
+
+Risposta all’Obiezione 3: Su questo punto esistono due opinioni. Alcuni sostengono che sia legittimo che una donna divorziata si riconcili con il proprio marito, a meno che non sia già sposata con un altro uomo; in tal caso, data l’adulterio a cui aveva volontariamente ceduto, le veniva imposto come punizione di non poter tornare dal proprio ex marito. Tuttavia, poiché la legge non fa distinzioni nella sua proibizione, altri affermano che, dal momento in cui una donna viene divorziata, non possa essere ripresa dal marito precedente, nemmeno prima di sposarsi nuovamente; infatti, il “disonore” derivante dal divorzio deve essere inteso non in relazione al peccato commesso, ma secondo quanto spiegato sopra (A[4], ad 3).
 
 <span class="atom-split" data-atom="148" data-title="Whether the reason for divorce was hatred for the wife?" data-chapter="Whether the reason for divorce was hatred for the wife?" data-kind="atom" data-srclang="en"></span>
 
@@ -7813,6 +10623,28 @@ cause of love. Wherefore the argument does not hold.
 Reply to Objection 5: The husband was punished in that case by being unable to put away his
 wife for ever, just as in the case when he had corrupted a maid (Dt. 22:28-30).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il motivo del divorzio sia l’odio verso la moglie. Infatti è scritto in (Malachia 2:16): “Quando la odierai, allora lasciala”. Pertanto, ecc.
+
+Obiezione 2: Inoltre, è scritto (Deuteronomio 24:1): “Se, non trovasse favore ai suoi occhi a causa di qualche impurità”, ecc. Pertanto, si arriva alla stessa conclusione di prima.
+
+Obiezione 3:
+
+Al contrario, la sterilità e la fornicazione sono più contrarie al matrimonio dell’odio stesso; pertanto avrebbero dovuto costituire motivi per il divorzio piuttosto che per l’odio.
+
+Obiezione 4: Inoltre, l’odio può essere suscitato proprio dalla virtù della persona odiata. Pertanto, se l’odio costituisse una ragione sufficiente, una donna potrebbe essere divorziata a causa della sua virtù, il che è assurdo.
+
+Obiezione 5: Inoltre, “Se un uomo sposa una donna e in seguito la odia, cercando occasioni per divorziarla” sostenendo che lei non fosse vergine al momento del matrimonio, se non riesce a dimostrarlo, dovrà essere punito con la frusta e condannato al pagamento di cento sicli d’argento; inoltre non potrà più divorziare da lei per tutta la vita (Deuteronomio 22:13-19). [*Il resto del passaggio sembra essere citato a memoria.]* Pertanto, l’odio non costituisce una ragione sufficiente per il divorzio.
+
+Rispondo che l’opinione comune dei saggi è che il motivo per cui fu concesso il permesso di divorziare fosse quello di evitare l’omicidio della moglie. Ora, la causa immediata dell’omicidio è l’odio; pertanto, anche la causa immediata del divorzio era l’odio. Tuttavia, l’odio, come l’amore, ha una sua origine specifica. Pertanto, dobbiamo individuare alcune cause remote che potessero generare odio e quindi giustificare il divorzio. Infatti, [Agostino](/figures/augustine) afferma nel suo commento (De Serm. Dom. in Monte i, 14): “Nella Legge esistevano molte ragioni per divorziare; Cristo ne ammise soltanto una: la fornicazione; e comandò di sopportare altre offese nell’ambito della fedeltà coniugale e della castità”. Tali ragioni riguardavano imperfezioni fisiche, come malattie o deformità evidenti, oppure morali, come la fornicazione o comportamenti perversi che avrebbero potuto influenzare negativamente i figli. Alcuni, tuttavia, limitano queste ragioni a casi particolari, sostenendo con sufficiente plausibilità che non fosse legittimo divorziare se non per motivi sorti dopo il matrimonio; e nemmeno in tal caso, solo per cause che potessero danneggiare i figli, sia fisicamente (come la sterilità o la lebbra) che moralmente (ad esempio, se la moglie avesse abitudini malvagie che i figli avrebbero potuto imitare). Esiste inoltre un commento su Deuteronomio 24:1, secondo cui “se ella non trovasse favore nei suoi occhi”, ciò sembrerebbe limitare ulteriormente le ragioni per il divorzio a casi di peccato; infatti, con “impurità” si intende proprio il peccato. Tuttavia, in questo contesto, il termine “peccato” si riferisce sia alla moralità dell’anima che allo stato fisico della persona. Pertanto, accettiamo le prime due obiezioni avanzate.
+
+Risposta all’Obiezione 3: La sterilità e altre simili condizioni sono cause di odio, e pertanto costituiscono cause remote del divorzio.
+
+Risposta all’Obiezione 4: Nessuno è odiato a causa della virtù in sé, poiché la bontà è motivo di amore. Pertanto, questo argomento non regge.
+
+Risposta all’Obiezione 5: In quel caso, il marito veniva punito dal fatto di non poter più separarsi per sempre dalla propria moglie, proprio come quando corrompeva una serva (Deuteronomio 22:28-30).
+
 <span class="atom-split" data-atom="149" data-title="Whether the causes of divorce had to be written in the bill?" data-chapter="Whether the causes of divorce had to be written in the bill?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the causes of divorce had to be written in the bill: because the
@@ -7839,6 +10671,18 @@ put into writing in order to cause a delay, and that the husband might be dissua
 of the notaries to refrain from his purpose of divorce.
 This suffices for the Replies to the Objections.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le cause del divorzio dovessero essere indicate esplicitamente nel documento di divorzio, poiché il marito veniva esentato dalla punizione prevista dalla legge grazie a tale documento scritto. Tuttavia, ciò sarebbe assolutamente ingiusto, a meno che non venissero addotte cause sufficienti per motivare il divorzio. Pertanto, era necessario che tali cause fossero espresse chiaramente nel documento di divorzio stesso.
+
+Obiezione 2: Inoltre, sembra che questo documento non avesse alcun altro scopo se non quello di indicare le cause del divorzio. Pertanto, se tali cause non fossero state riportate per iscritto, la richiesta di divorzio sarebbe stata presentata senza alcun effetto concreto.
+
+Obiezione 3: Inoltre, il Maestro afferma che sia così anche nel testo originale (Sentenze iv, D, 33).
+
+Al contrario, le cause del divorzio erano o sufficienti o insufficienti. Se erano sufficienti, la moglie veniva esclusa dalla possibilità di contrarre un secondo matrimonio, anche se la legge lo permetteva. Se invece erano insufficienti, il divorzio risultava ingiusto e quindi non poteva essere concesso. Pertanto, le cause del divorzio non venivano mai specificate nei documenti ufficiali.
+
+Rispondo che le cause del divorzio non venivano specificate nel documento ufficiale, ma erano indicate in modo generico al fine di dimostrare la legittimità della separazione. Secondo Giuseppe Flavio (Antichità giudaiche iv, 6), ciò avveniva per permettere alla donna, possedendo il documento scritto del divorzio, di prendere un altro marito; altrimenti non le sarebbe stato creduto. Pertanto, secondo lui, il testo del documento recitava: “Prometto di non averti più con me”. Tuttavia, secondo Agostino (Contra Faustus xix, 26), il documento veniva redatto per causare un ritardo e per convincere il marito, con i consigli degli notai, a desistere dal suo intento di divorziare. Ciò basta come risposta alle obiezioni sollevate.
+
 <span class="atom-split" data-atom="150" data-title="OF ILLEGITIMATE CHILDREN (THREE ARTICLES)" data-chapter="OF ILLEGITIMATE CHILDREN (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider children of illegitimate birth. Under this head there are three points of
@@ -7846,6 +10690,13 @@ inquiry:
 (1) Whether those born out of true marriage are illegitimate?
 (2) Whether children should suffer any loss through being illegitimate?
 (3) Whether they can be legitimized?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare i figli nati da matrimoni illegittimi. In questo ambito ci sono tre questioni da esaminare:  
+(1) Se i bambini nati da matrimoni validi siano considerati illegittimi;  
+(2) Se i figli nati da matrimoni illegittimi debbano subire qualche svantaggio a causa della loro condizione;  
+(3) Se sia possibile renderli legittimi.
 
 <span class="atom-split" data-atom="151" data-title="Whether children born out of true marriage are illegitimate?" data-chapter="Whether children born out of true marriage are illegitimate?" data-kind="atom" data-srclang="en"></span>
 
@@ -7885,6 +10736,20 @@ she knows not of the impediment, they are not excused from sin, nor do their chi
 illegitimate. Neither are they excused if they know not of the impediment and marry secretly,
 because such ignorance would appear to be affected.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i bambini nati da un vero matrimonio siano legittimi. Infatti, colui che nasce secondo la legge viene chiamato figlio legittimo. Ora, tutti nascono secondo la legge, almeno secondo quella della natura, che ha più forza di qualsiasi altra legge. Pertanto, ogni bambino dovrebbe essere considerato legittimo.
+
+Obiezione 2: Inoltre, si dice comunemente che un figlio legittimo sia quello nato da un matrimonio legittimo, o da un matrimonio riconosciuto come tale dagli occhi della Chiesa. Tuttavia, a volte accade che un matrimonio venga considerato legittimo dalla Chiesa nonostante esistano impedimenti alla sua validità; tali impedimenti possono essere noti alle parti che si sposano in presenza della Chiesa, oppure possono rimanere sconosciuti, e in tal caso il loro matrimonio sembrerà legittimo agli occhi della Chiesa proprio perché non viene ostacolato da essa. Pertanto, i figli nati da un vero matrimonio non sono illegittimi.
+
+Al contrario, ciò che è contrario alla legge è considerato illegittimo. Coloro che nascono al di fuori del matrimonio vengono quindi al mondo in violazione della legge; per questo motivo sono considerati illegittimi.
+
+Rispondo che i bambini possono rientrare in quattro categorie. Alcuni sono naturali e legittimi, ad esempio quelli nati da un matrimonio vero e legittimo; altri sono naturali ma illegittimi, come quelli nati da relazioni illecite; alcuni sono legittimi ma non naturali, come i figli adottivi; infine, ci sono quelli che non sono né legittimi né naturali, ovvero quelli nati da adulterio o incesto, poiché tali nascite violano sia la legge positiva che la chiara espressione della [legge naturale](/positions/natural_law). Pertanto, dobbiamo ammettere che alcuni bambini siano illegittimi.
+
+Risposta all’Obiezione 1: Sebbene coloro che nascono da rapporti illeciti siano concepiti secondo la natura comune all’uomo e a tutti gli animali, essi nascono in violazione della legge naturale propria dell’uomo; infatti, l’adulterio, la fornicazione e simili atti sono contrari alla legge naturale. Pertanto, tali rapporti non possono essere considerati legittimi secondo alcuna legge.
+
+Risposta all’Obiezione 2: L’ignoranza, a meno che non sia intenzionale, scusa un rapporto sessuale illecito dal punto di vista del peccato. Pertanto, coloro che contraggono matrimonio in buona fede e alla presenza della Chiesa, anche se esiste un impedimento di cui sono ignari, non commettono peccato, né i loro figli risultano illegittimi. Tuttavia, se sono a conoscenza dell’impedimento, anche se la Chiesa approva il loro matrimonio perché non ne è informata, non sono scusati dal peccato, né i loro figli evitano di essere considerati illegittimi. Né sono scusati nel caso in cui ignorino l’impedimento e contraggano matrimonio in segreto, poiché tale ignoranza potrebbe essere considerata intenzionale.
+
 <span class="atom-split" data-atom="152" data-title="Whether children should suffer any loss through being illegitimate?" data-chapter="Whether children should suffer any loss through being illegitimate?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that children ought not to suffer any loss through being illegitimate.
@@ -7921,6 +10786,20 @@ generative power, but as proceeding from a wicked will. Hence an illegitimate so
 not in those things which come to him by his natural origin, but in those things which are dependent
 on the will for being done or possessed.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i bambini non dovrebbero subire alcuna perdita a causa della loro illegittimità. Infatti, un bambino non dovrebbe essere punito per il peccato di suo padre, secondo quanto detto dal Signore (Ezechiele 18:20). Tuttavia, la colpa del suo nascere da un’unione illegale non è sua, ma di suo padre; pertanto, non dovrebbe subire alcuna conseguenza negativa a causa di ciò.
+
+Obiezione 2: Inoltre, la giustizia umana è modellata su quella divina. Dio infatti conferisce beni naturali in modo equo sia ai figli legittimi che a quelli illegittimi. Pertanto, secondo le leggi umane, i figli illegittimi dovrebbero essere trattati allo stesso modo dei figli legittimi.
+
+Al contrario, si afferma (Genesi 25:5,6) che “Abramo diede tutti i suoi beni a Isacco, mentre ai figli delle sue concubine donò regali”; eppure questi ultimi non nacquero da relazioni illecite. Pertanto, con ancora maggiore ragione, coloro che nascono da relazioni illecite dovrebbero subire perdite, in quanto non ereditano i beni del proprio padre.
+
+Rispondo che si dice che una persona subisca una perdita per qualche motivo in due modi: primo, perché le viene negato ciò che le spetta di diritto; pertanto, un figlio illegittimo non subisce alcuna perdita. Secondo, perché le viene rifiutato qualcosa che altrimenti le sarebbe spettato; quindi, un figlio illegittimo subisce una doppia perdita: innanzitutto, perché viene escluso da attività legittime come cariche ufficiali e onori, che richiedono una certa rispettabilità da parte di chi le svolge; in secondo luogo, perché non eredita nulla dalla proprietà del padre. Tuttavia, i figli naturali possono ereditare soltanto un sesto della sostanza paterna, mentre i figli illegittimi non possono ereditare nulla, sebbene per [legge naturale](/positions/natural_law) i loro genitori siano obbligati a provvedere alle loro necessità. Pertanto, fa parte delle responsabilità di un vescovo costringere entrambi i genitori a prendersi cura dei propri figli.
+
+Risposta all’Obiezione 1: Subire una perdita in questo secondo modo non costituisce una punizione. Pertanto, non si può affermare che una persona venga punita per non essere riuscita ad ascendere al trono perché non è figlia del re. Allo stesso modo, non rappresenta una punizione per un figlio illegittimo il fatto che non abbia diritto a ciò che spetta ai figli legittimi.
+
+Risposta all’Obiezione 2: L’intimità illegittima è contraria alla legge, non in quanto atto legato al potere generativo, ma perché derivante da una volontà malvagia. Pertanto, un figlio nato da un rapporto illegittimo subisce delle perdite, non riguardo a quelle cose che gli vengono conferite per via della sua origine naturale, ma riguardo a quelle cose che dipendono dalla volontà umana per essere ottenute o possedute.
+
 <span class="atom-split" data-atom="153" data-title="Whether an illegitimate son can be legitimized?" data-chapter="Whether an illegitimate son can be legitimized?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an illegitimate son cannot be legitimized. For the legitimate
@@ -7956,3 +10835,17 @@ his fault, he is not said to be illegitimate, because he was legitimately begott
 Reply to Objection 2: Illegitimate intercourse has an inherent inseparable defect whereby it
 is opposed to the law: and consequently it cannot be legitimized. Nor is there any comparison with
 an illegitimate child who has no such defect.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un figlio illegittimo non possa essere legalizzato. Infatti, un figlio legittimo è tanto lontano da quello illegittimo quanto quest’ultimo lo è dal primo. Ma un figlio legittimo non diventa mai illegittimo; pertanto, nemmeno un figlio illegittimo può mai diventare legittimo.
+
+Obiezione 2: Inoltre, un rapporto illegittimo genera un figlio illegittimo. Ma un rapporto illegittimo non può mai diventare legittimo. Pertanto, nemmeno un figlio nato da un rapporto illegittimo può diventare legittimo.
+
+Al contrario, ciò che viene fatto dalla legge può essere annullato dalla stessa legge. Ora, l’illegitimità dei figli è un effetto della legge positiva; pertanto, un figlio illegittimo può essere legalizzato da qualcuno che possieda autorità legale.
+
+Rispondo che un figlio illegittimo può essere legalizzato, non perché sia nato da un rapporto legittimo – poiché tale rapporto appartiene al passato e non può mai essere reso legittimo dopo essere stato considerato illegittimo – ma perché le perdite che un figlio illegittimo dovrebbe subire vengono eliminate per autorità della legge. Esistono sei modi per rendere legittimo un figlio illegittimo: due secondo i canoni (Capitoli “Conquestus” e “Tanta”), ovvero quando un uomo sposa la donna da cui ha avuto un figlio illegittimo (se non si tratta di adulterio), oppure tramite particolari indulgenze o dispense da parte del Papa. Gli altri quattro modi sono stabiliti dalle leggi: (1) se il padre presenta suo figlio naturale alla corte imperiale, poiché questo atto stesso rende il figlio legittimo grazie all’autorità della corte; (2) se il padre lo designa nel proprio testamento come erede legittimo e successivamente il figlio presenta tale testamento alla corte imperiale; (3) se non esiste alcun figlio legittimo e il figlio stesso si presenta alla corte imperiale; (4) se il padre lo designa come figlio legittimo in un documento pubblico o firmato da tre testimoni, senza definirlo “figlio naturale”.
+
+Risposta all’Obiezione 1: È possibile concedere un favore a qualcuno senza commettere ingiustizia, ma una persona non può essere danneggiata se non per colpa propria. Pertanto, un figlio illegittimo può essere legalizzato, e non il contrario; infatti, anche se un figlio legittimo viene talvolta privato dell’eredità a causa dei propri errori, non si dice che sia illegittimo, poiché è stato concepito in modo legittimo.
+
+Risposta all’Obiezione 2: L’intimità illegittima presenta un difetto intrinseco e inscindibile che la rende contraria alla legge; pertanto non può essere legalizzata. Inoltre, non esiste alcuna analogia con un figlio illegittimo, il quale non presenta tale difetto.

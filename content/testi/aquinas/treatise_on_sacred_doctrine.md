@@ -25,6 +25,11 @@ tags:
 FIRST PART (FP: QQ 1-119)
 TREATISE ON SACRED DOCTRINE (Q[1])
 
+<span class="qlang-split" data-lang="it"></span>
+
+PRIMA PARTE (FP: QQ 1-119)  
+TRATTATO DI DOTTRINA SACRA (Q[1])
+
 <span class="atom-split" data-atom="002" data-title="THE NATURE AND EXTENT OF SACRED DOCTRINE (TEN ARTICLES)" data-chapter="THE NATURE AND EXTENT OF SACRED DOCTRINE (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 To place our purpose within proper limits, we first endeavor to investigate the nature and extent
@@ -39,6 +44,20 @@ of this sacred doctrine. Concerning this there are ten points of inquiry:
 (8) Whether it is a matter of argument?
 (9) Whether it rightly employs metaphors and similes?
 (10) Whether the Sacred [Scripture](/concepts/revelation) of this doctrine may be expounded in different senses?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Per delimitare correttamente l’ambito dei nostri scopi, cerchiamo innanzitutto di indagare sulla natura e sull’estensione di questa sacra dottrina. A tal fine esistono dieci punti da esaminare:  
+(1) È necessaria?  
+(2) Rappresenta una scienza?  
+(3) È un’unica dottrina o ne esistono molte?  
+(4) È di natura speculativa o pratica?  
+(5) In che modo si colloca rispetto ad altre scienze?  
+(6) È la stessa cosa della saggezza?  
+(7) Dio ne è l’oggetto principale?  
+(8) Rientra nel campo degli argomenti dibattibili?  
+(9) Utilizza correttamente metafore e similitudini?  
+(10) Le Sacre [Scritture](/concepts/revelation) relative a questa dottrina possono essere interpretate in modi diversi?
 
 <span class="atom-split" data-atom="003" data-title="Whether, besides philosophy, any further doctrine is required?" data-chapter="Whether, besides philosophy, any further doctrine is required?" data-kind="atom" data-srclang="en"></span>
 
@@ -86,6 +105,20 @@ those things which may be learned from philosophical science, so far as they can
 natural reason, may not also be taught us by another science so far as they fall within revelation.
 Hence theology included in sacred doctrine differs in kind from that theology which is part of
 philosophy.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che, oltre alla scienza filosofica, non abbiamo bisogno di alcuna altra conoscenza. Infatti, l’uomo non dovrebbe cercare di comprendere ciò che va al di là della ragione: “Non cercare ciò che è troppo alto per te” (Ecclesiaste 3:22). Tuttavia, tutto ciò che non va al di là della ragione viene ampiamente trattato nella scienza filosofica. Pertanto, qualsiasi altra conoscenza oltre a quella filosofica è superflua.
+
+Obiezione 2: Inoltre, la conoscenza può riguardare soltanto l’essere, poiché nulla può essere conosciuto se non ciò che è vero; e tutto ciò che esiste è vero. Tuttavia, ogni aspetto dell’essere viene studiato nella scienza filosofica – persino Dio stesso –; per questo esiste una branca della filosofia chiamata teologia, ovvero la scienza divina, come ha dimostrato [Aristotele](/figures/aristotle) (Metafisica VI). Pertanto, oltre alla scienza filosofica, non c’è alcun bisogno di altre forme di conoscenza.
+
+Al contrario, è scritto (2 Timoteo 3:16): “Tutta la [Scrittura](/concepts/revelation), ispirata da Dio, è utile per insegnare, rimproverare, correggere e istruire alla giustizia”. Ora, la Scrittura, ispirata da Dio, non fa parte della scienza filosofica, che è stata costruita attraverso il ragionamento umano. Pertanto, è utile che, oltre alla scienza filosofica, esistano altre forme di conoscenza, cioè quelle ispirate da Dio.
+
+Rispondo che fu necessario, per la salvezza dell’uomo, che esistesse una conoscenza rivelata da Dio, oltre alla scienza filosofica costruita dalla ragione umana. Innanzitutto, perché l’uomo è diretto verso Dio, come verso un fine che trascende la portata della sua ragione: “Gli occhi non hanno visto, o Dio, ciò che Tu hai preparato per coloro che Ti attendono” (Isaia 66:4). Ma tale fine deve essere prima conosciuto dagli uomini, affinché possano indirizzare i propri pensieri e le proprie azioni verso di esso. Pertanto, fu necessario, per la salvezza dell’uomo, che alcune verità che trascendono la ragione umana gli fossero rivelate divinamente. Anche riguardo a quelle verità su Dio che la ragione umana avrebbe potuto scoprire da sola, fu necessario che l’uomo venisse istruito attraverso una rivelazione divina; perché la verità su Dio che la ragione può scoprire sarebbe stata conosciuta soltanto da pochi, e solo dopo molto tempo, e mescolata con molti errori. Mentre l’intera salvezza dell’uomo, che consiste in Dio, dipende dalla conoscenza di questa verità. Pertanto, affinché la salvezza degli uomini potesse avvenire in modo più appropriato e sicuro, fu necessario che venissero insegnate loro le verità divine attraverso una rivelazione divina. Fu quindi necessario che, oltre alla scienza filosofica costruita dalla ragione, esistesse anche una scienza sacra appresa attraverso la rivelazione divina.
+
+Risposta all’Obiezione 1: Anche se quelle cose che sono al di là della conoscenza umana non possono essere cercate dall’uomo attraverso la sua ragione, tuttavia, una volta rivelate da Dio, devono essere accettate per fede. Ecco perché il testo sacro prosegue dicendo: “Molte cose infatti ti vengono rivelate al di là della comprensione umana” (Ecclesiaste 3:25). Ed è in questo che consiste la scienza sacra.
+
+Risposta all’Obiezione 2: Le scienze si differenziano in base ai diversi mezzi attraverso i quali viene acquisita la conoscenza. L’astronomo e il fisico, ad esempio, possono entrambi giungere alla stessa conclusione: che la Terra sia rotonda. L’astronomo lo fa attraverso la matematica (cioè astraendo dalla materia), mentre il fisico lo fa utilizzando direttamente la materia stessa. Pertanto non vi è alcun motivo per cui ciò che può essere appreso attraverso la scienza filosofica, nella misura in cui possa essere conosciuto mediante la ragione naturale, non possa essere insegnato anche da un’altra scienza, nella misura in cui rientri nell’ambito della rivelazione. Di conseguenza, la teologia inclusa nella dottrina sacra differisce per natura da quella che fa parte della filosofia.
 
 <span class="atom-split" data-atom="004" data-title="Whether sacred doctrine is a science?" data-chapter="Whether sacred doctrine is a science?" data-kind="atom" data-srclang="en"></span>
 
@@ -156,6 +189,20 @@ science under one aspect precisely so far as they can be included in revelation.
 sacred doctrine bears, as it were, the stamp of the divine science which is one and simple, yet
 extends to everything.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la dottrina sacra non costituisca una scienza unica; infatti, secondo il Filosofo (Posteriora Analitica I), “una scienza è quella che tratta di un solo genere di argomenti”. Tuttavia, sia il Creatore che la Creazione, entrambi oggetto della dottrina sacra, non possono essere considerati appartenenti allo stesso genere di argomenti. Pertanto, la dottrina sacra non è una scienza unica.
+
+Obiezione 2: Inoltre, nella dottrina sacra trattiamo di angeli, creature corporee e della morale umana. Ma queste tematiche appartengono a scienze filosofiche distinte. Pertanto, la dottrina sacra non può essere considerata una singola scienza.
+
+Al contrario, la Sacra [Scrittura](/concepts/revelation) ne parla come di una scienza unica: “La sapienza gli diede la conoscenza delle cose sacre” (Sapienza 10:10).
+
+Rispondo che la dottrina sacra è una scienza unica. L’unità di una facoltà o di un [habito](/concepts/custom) deve essere valutata in base al suo oggetto, non certo dal punto di vista materiale, ma riguardo alla forma precisa sotto cui esso costituisce un oggetto. Ad esempio, l’uomo, l’asino e la pietra condividono la stessa forma precisa di essere “colorati”; e il colore è l’oggetto formale della vista. Pertanto, poiché la Sacra Scrittura considera le cose esattamente nella loro forma di rivelazione divina, tutto ciò che è stato divinamente rivelato possiede questa stessa forma precisa dell’oggetto di questa scienza; e quindi rientra nella dottrina sacra come parte di una singola disciplina scientifica.
+
+Risposta all’Obiezione 1: La dottrina sacra non tratta di Dio e delle creature in modo equo, ma di Dio in primo luogo, e delle creature soltanto nella misura in cui queste possono essere considerate riferite a Dio come loro origine o fine. Pertanto, l’unità di questa scienza non viene compromessa.
+
+Risposta all’Obiezione 2: Niente impedisce che facoltà o abitudini inferiori vengano differenziate da qualcosa che rientra anch’esso nella categoria di una facoltà o abitudine superiore; poiché la facoltà o abitudine superiore considera l’oggetto nella sua forma più universale, così come l’oggetto del “senso comune” è tutto ciò che colpisce i sensi, compresi quindi ciò che è visibile o udibile. Pertanto il “senso comune”, pur essendo una singola facoltà, si estende a tutti gli oggetti dei cinque sensi. Allo stesso modo, gli oggetti che sono oggetto di diverse scienze filosofiche possono essere trattati da questa singola e sacra scienza sotto un certo aspetto, nella misura in cui possano essere inclusi nella rivelazione divina. In questo modo, la dottrina sacra porta, per così dire, il sigillo della scienza divina, che è una e semplice, ma si estende a tutto.
+
 <span class="atom-split" data-atom="006" data-title="Whether sacred doctrine is a practical science?" data-chapter="Whether sacred doctrine is a practical science?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that sacred doctrine is a practical science; for a practical science is that
@@ -179,6 +226,16 @@ the same science, knows both Himself and His works. Still, it is speculative rat
 because it is more concerned with divine things than with human acts; though it does treat even of
 these latter, inasmuch as man is ordained by them to the perfect knowledge of God in which consists
 eternal bliss. This is a sufficient answer to the Objections.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la dottrina sacra sia una scienza pratica; infatti, una scienza pratica è quella che si concreta in azioni, secondo quanto afferma il Filosofo (Metafisica ii). Ma la dottrina sacra è destinata all’azione: “Siate dunque coloro che mettono in pratica le parole, e non soltanto coloro che le ascoltano” (Giacomo 1:22). Pertanto, la dottrina sacra è una scienza pratica.
+
+Obiezione 2: Inoltre, la dottrina sacra è divisa in Antico e Nuovo Testamento. Ma il concetto di “legge” implica una scienza morale, che a sua volta è una scienza pratica. Pertanto, anche la dottrina sacra è una scienza pratica.
+
+Al contrario, ogni scienza pratica si occupa delle azioni umane; così come la scienza morale si occupa degli atti umani e l’architettura si occupa degli edifici. Ma la dottrina sacra si occupa principalmente di Dio, il cui operato principale è l’uomo stesso. Pertanto, non si tratta di una scienza pratica, ma di una scienza speculativa.
+
+Rispondo che la dottrina sacra, essendo unica, si estende anche alle cose appartenenti a diverse scienze filosofiche, poiché in ciascuna di esse considera lo stesso aspetto formale, ovvero ciò che può essere conosciuto attraverso la divina [rivelazione](/concepts/revelation). Pertanto, sebbene tra le scienze filosofiche vi sia quella speculativa e quella pratica, la dottrina sacra include entrambe; poiché Dio, con una sola scienza, conosce sia Sé stesso che le Sue opere. Tuttavia, essa è più di natura speculativa che pratica, poiché si occupa soprattutto delle cose divine piuttosto che degli atti umani; anche se tratta anch’essi di questi ultimi, nella misura in cui l’uomo è destinato attraverso di essi alla conoscenza perfetta di Dio, nella quale consiste la beatitudine eterna. Questa risposta è sufficiente a confutare le obiezioni sollevate.
 
 <span class="atom-split" data-atom="007" data-title="Whether sacred doctrine is nobler than other sciences?" data-chapter="Whether sacred doctrine is nobler than other sciences?" data-kind="atom" data-srclang="en"></span>
 
@@ -227,6 +284,20 @@ political of military science. That it thus uses them is not due to its own defe
 to the defect of our intelligence, which is more easily led by what is known through natural reason
 (from which proceed the other sciences) to that which is above reason, such as are the teachings
 of this science.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la dottrina sacra non sia più nobile delle altre scienze; infatti, la nobiltà di una scienza dipende dalla certezza che essa stabilisce. Tuttavia, le altre scienze, le cui principi non possono essere messi in dubbio, sembrano essere più certe della dottrina sacra; i suoi principi, cioè gli articoli di fede, possono infatti essere dubitati. Pertanto, le altre scienze sembrano essere più nobili.
+
+Obiezione 2: Inoltre, è segno di una scienza inferiore il fatto che dipenda da una scienza superiore; così come la musica dipende dall’aritmetica. Ma la dottrina sacra, in un certo senso, dipende dalle scienze filosofiche; infatti Gerolamo osserva, nella sua Epistola a Magnuso, che “gli antichi dottori hanno arricchito i loro libri con le idee e le frasi dei filosofi, al punto che non si sa più cosa ammirare in essi: se la loro erudizione profana o la loro conoscenza delle Scritture”. Pertanto, la dottrina sacra è inferiore ad altre scienze.
+
+Al contrario, le altre scienze sono considerate ancelle di questa: “La Sapienza inviò le sue ancelle ad invitare tutti alla torre” (Proverbi 9:3).
+
+Rispondo che, poiché questa scienza è in parte speculativa e in parte pratica, essa trascende tutte le altre scienze, sia speculative che pratiche. Si dice infatti che una scienza speculativa sia più nobile di un’altra, o in base alla sua maggiore certezza, o in base al maggior valore del suo oggetto di studio. In entrambi questi aspetti, questa scienza supera le altre scienze speculative: per quanto riguarda la certezza, poiché le altre scienze traggono la loro certezza dalla luce naturale della ragione umana, che può errare; mentre questa scienza trae la sua certezza dalla luce della conoscenza divina, che non può essere ingannata. Per quanto riguarda il valore del suo oggetto di studio, poiché questa scienza si occupa principalmente di quelle cose che, per la loro sublimità, trascendono la ragione umana; mentre le altre scienze considerano soltanto quelle cose che rientrano nell’ambito della comprensione razionale. Tra le scienze pratiche, quella è più nobile che ha uno scopo più elevato; ad esempio, la scienza politica è più nobile della scienza militare, poiché il bene dell’esercito è diretto al bene dello [Stato](/concepts/state). Ma lo scopo di questa scienza, in quanto pratica, è la beatitudine eterna; verso questo fine sono indirizzati tutti gli scopi delle altre scienze pratiche. Pertanto, è evidente che, da ogni punto di vista, essa sia più nobile delle altre scienze.
+
+Risposta all’Obiezione 1: È molto possibile che ciò che di per sé è più certo possa sembrarci meno certo a causa della debolezza della nostra intelligenza, “che viene abbagliata dagli oggetti più chiari della natura; proprio come la civetta viene accecata dalla luce del sole” (Metafisica ii, lezione i). Pertanto, il fatto che alcune persone dubitino di alcuni articoli della fede non deriva dalla natura incerta di tali verità, ma dalla debolezza dell’intelligenza umana; tuttavia, la conoscenza più limitata che possiamo ottenere riguardo alle cose supreme è preferibile alla conoscenza più certa riguardo a cose inferiori, come si afferma nel De Animalibus xi.
+
+Risposta all’Obiezione 2: Questa scienza può, in un certo senso, fare affidamento sulle scienze filosofiche, non perché ne abbia bisogno, ma soltanto al fine di rendere i suoi insegnamenti più chiari. Infatti, i suoi principi non le vengono trasmessi da altre scienze, ma direttamente da Dio, attraverso la [rivelazione](/concepts/revelation). Pertanto, essa non dipende dalle altre scienze come da quelle superiori, ma le utilizza come se fossero inferiori e al suo servizio; allo stesso modo, le scienze principali fanno uso di quelle che forniscono loro i materiali necessari, così come la scienza politica fa uso della scienza militare. Il fatto che essa le utilizzi in questo modo non deriva da un difetto o da un’insufficienza sua stessa, ma dal limite della nostra intelligenza, che è più facilmente guidata da ciò che viene conosciuto attraverso la ragione naturale (da cui derivano le altre scienze) verso ciò che va al di là della ragione, come sono gli insegnamenti di questa scienza.
 
 <span class="atom-split" data-atom="008" data-title="Whether this doctrine is the same as wisdom?" data-chapter="Whether this doctrine is the same as wisdom?" data-kind="atom" data-srclang="en"></span>
 
@@ -323,6 +394,20 @@ in place of a definition of the cause.
 Reply to Objection 2: Whatever other conclusions are reached in this sacred science are
 comprehended under God, not as parts or species or accidents but as in some way related to Him.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non sia l’oggetto di questa scienza. Infatti, in ogni scienza l’essenza del suo oggetto viene presupposta. Ma questa scienza non può presupporre l’essenza di Dio, poiché Damasceno afferma (De Fide Orthodossa i, iv): “È impossibile definire l’essenza di Dio”. Pertanto, Dio non è l’oggetto di questa scienza.
+
+Obiezione 2: Inoltre, qualsiasi conclusione si raggiunga in una scienza deve essere compresa nell’ambito dell’oggetto di quella scienza. Tuttavia, nelle Scritture Sacre giungiamo a conclusioni non solo riguardo a Dio, ma anche su molte altre cose, come le creature e la morale umana. Pertanto, Dio non è l’oggetto di questa scienza.
+
+Al contrario, l’oggetto di questa scienza è ciò di cui essa tratta principalmente. Tuttavia, in questa scienza, l’attenzione principale è rivolta a Dio; essa viene infatti chiamata teologia, poiché si occupa di Dio. Pertanto, Dio è l’oggetto di questa scienza.
+
+Rispondo che Dio è l’oggetto di questa scienza. La relazione tra una scienza e il suo oggetto è la stessa che esiste tra un’[abitudine](/concepts/custom) o una facoltà mentale e il suo oggetto. In senso proprio, l’oggetto di una facoltà o di un’abitudine è ciò attraverso il cui aspetto tutte le cose vengono considerate in relazione a quella facoltà o abitudine; ad esempio, l’uomo e la pietra sono considerati in relazione alla facoltà della vista perché hanno colore. Pertanto, le cose colorate sono gli oggetti propri della vista. Ma nella scienza sacra, tutte le cose vengono considerate sotto l’aspetto di Dio: o perché esse stesse sono Dio, o perché si riferiscono a Lui come al loro principio e fine. Ne consegue che Dio è davvero l’oggetto di questa scienza. Ciò risulta anche chiaramente dai principi su cui si fonda questa scienza, ovvero dagli articoli della fede, poiché la fede riguarda proprio Dio. L’oggetto dei principi e dell’intera scienza deve essere lo stesso, poiché l’intera scienza è virtualmente contenuta nei suoi principi. Tuttavia, alcuni, guardando a ciò di cui questa scienza tratta e non all’aspetto sotto il quale tale materia viene considerata, hanno affermato che l’oggetto di questa scienza sia qualcosa di diverso da Dio: cioè le cose stesse o i loro segni; le opere della salvezza; o Cristo nel suo complesso, come capo e membro dell’umanità. In realtà, tutte queste cose vengono effettivamente trattate in questa scienza, ma solo nella misura in cui hanno riferimento a Dio.
+
+Risposta all’Obiezione 1: Sebbene non possiamo conoscere in cosa consista l’essenza di Dio, tuttavia in questa scienza utilizziamo i suoi effetti, sia quelli della natura che quelli della grazia, al posto di una definizione, per quanto riguarda tutto ciò che viene trattato in questa disciplina a proposito di Dio; proprio come in alcune scienze filosofiche dimostriamo qualcosa riguardo a una causa partendo dal suo effetto, utilizzando quest’ultimo al posto di una definizione della causa stessa.
+
+Risposta all’Obiezione 2: Qualsiasi altra conclusione si raggiunga in questa sacra scienza è compresa entro i confini di Dio, non come parti, specie o attributi di Lui, ma come qualcosa che, in qualche modo, Lo riguarda.
+
 <span class="atom-split" data-atom="010" data-title="Whether sacred doctrine is a matter of argument?" data-chapter="Whether sacred doctrine is a matter of argument?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems this doctrine is not a matter of argument. For Ambrose says (De Fide 1):
@@ -383,6 +468,20 @@ have I learned to hold in such honor as to believe their authors have not erred 
 them. But other authors I so read as not to deem everything in their works to be true, merely on
 account of their having so thought and written, whatever may have been their holiness and learning."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che questa dottrina non sia oggetto di argomentazione. Infatti Ambrogio afferma nel “De Fide” 1: “Lasciate da parte gli argomenti quando si cerca la fede”. Ma in questa dottrina proprio la fede è l’oggetto principale della ricerca: “Tutto ciò è stato scritto affinché crediate” (Giovanni 20:31). Pertanto, la dottrina sacra non può essere oggetto di dibattito.
+
+Obiezione 2: Inoltre, se si tratta di un argomento, esso deve basarsi o sull’autorità o sulla ragione. Se si basa sull’autorità, ciò sembra inadeguato alla sua dignità, poiché la prova basata sull’autorità è considerata la forma più debole di dimostrazione. Ma se si basa sulla ragione, ciò risulta incompatibile con lo scopo della fede stessa, poiché, secondo Gregorio (Hom. 26), “la fede non ha alcun merito in quelle cose riguardo alle quali la ragione umana possiede esperienza diretta”. Pertanto, la dottrina sacra non può essere oggetto di argomentazioni razionali.
+
+Al contrario, la [Scrittura](/concepts/revelation) afferma che un vescovo debba “abbracciare quella parola fedele che è conforme alla dottrina, affinché possa esortare secondo una vera dottrina e convincere coloro che la contestano” (Tito 1:9).
+
+Rispondo che, proprio come le altre scienze non dimostrano i propri principi, ma partendo da essi dimostrano altre verità all’interno di quelle stesse discipline, anche questa dottrina non si basa sulla dimostrazione dei propri principi – che sono gli articoli della fede – per stabilirli, ma li utilizza invece come punto di partenza per dimostrare altre cose; proprio come l’Apostolo utilizza la risurrezione di Cristo per dimostrare la realtà della risurrezione universale (1 Corinzi 15). Tuttavia, bisogna tenere presente che, nel caso delle scienze filosofiche, le discipline inferiori né dimostrano i propri principi né discutono con coloro che li negano, lasciando questa responsabilità a una scienza più elevata; mentre la scienza suprema, ovvero la metafisica, può discutere con chi nega i suoi principi, purché l’avversario conceda almeno qualcosa; ma se non concede nulla, essa non può affatto entrare in discussione con lui, anche se è in grado di rispondere alle sue obiezioni. Pertanto, la Sacra Scrittura, essendo priva di una scienza superiore a sé stessa, può discutere con chi nega i suoi principi soltanto se l’avversario ammette almeno alcune delle verità rivelate divinamente; è così che possiamo confutare gli eretici attraverso i testi sacri e, contro coloro che negano uno qualsiasi degli articoli della fede, possiamo argomentare basandoci su altri principi. Se il nostro avversario non crede affatto nella rivelazione divina, allora non esiste più alcun mezzo per dimostrare gli articoli della fede attraverso il ragionamento, ma soltanto per rispondere alle sue obiezioni – qualora ne abbia – contro la fede stessa. Poiché la fede si basa su verità infallibili e poiché l’opposto di una verità non può mai essere dimostrato, è evidente che gli argomenti avanzati contro la fede non possono considerarsi vere dimostrazioni, ma soltanto difficoltà che possono essere risolte attraverso risposte appropriate.
+
+Risposta all’Obiezione 1: Sebbene gli argomenti della ragione umana non siano in grado di dimostrare ciò che deve essere accettato per fede, tuttavia questa dottrina utilizza i principi della fede per dedurre altre verità.
+
+Risposta all’Obiezione 2: Questa dottrina si basa soprattutto su argomentazioni di autorità, poiché i suoi principi derivano dalla rivelazione divina; pertanto dovremmo credere sulla base dell’autorità di coloro a cui tale rivelazione è stata fatta. Ciò tuttavia non diminuisce la dignità di questa dottrina, poiché, sebbene l’argomentazione basata sull’autorità umana sia la più debole, quella basata sulla rivelazione divina è senz’altro la più forte. Tuttavia, anche la dottrina sacra fa ricorso alla ragione umana, non certo per dimostrare la fede (poiché in tal caso il merito della fede verrebbe meno), ma piuttosto per chiarire altri aspetti contenuti in essa. Poiché la grazia divina non distrugge la natura umana, bensì la perfeziona, anche la ragione naturale dovrebbe servire alla fede, così come la tendenza naturale della volontà serve alla carità. Per questo motivo l’Apostolo afferma: “Sottomettendo ogni intelletto all’obbedienza di Cristo” (2 Corinzi 10:5). La dottrina sacra fa quindi anche ricorso all’autorità dei filosofi in quelle questioni che essi sono riusciti a comprendere attraverso la ragione naturale; ad esempio, Paolo cita una frase di Arato: “Come dicono alcuni dei vostri poeti: ‘Anche noi siamo infatti suoi discendenti’” (Atti 17:28). Tuttavia, la dottrina sacra utilizza queste autorità soltanto come argomentazioni esterne e probabili; l’autorità delle Scritture canoniche, invece, viene considerata una prova inconfutabile, mentre l’autorità dei dottori della Chiesa viene riconosciuta come valida, ma solo in senso probabile. La nostra fede, infatti, si basa sulla rivelazione concessa agli apostoli e ai profeti che hanno scritto i libri canonici, e non su rivelazioni rivolte ad altri dottori. Per questo motivo Agostino afferma (Epistola ad Ieronimo xix, 1): “Solo quei libri della Scrittura che vengono considerati canonici ho imparato a rispettare al punto di credere che i loro autori non abbiano commesso alcun errore nella loro stesura. Per quanto riguarda gli altri autori, li leggo senza ritenere vero tutto ciò che hanno scritto, semplicemente perché lo hanno pensato e scritto così, indipendentemente dalla loro santità o erudizione”.
+
 <span class="atom-split" data-atom="011" data-title="Whether Holy Scripture should use metaphors?" data-chapter="Whether Holy Scripture should use metaphors?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that Holy [Scripture](/concepts/revelation) should not use metaphors. For that which is proper
@@ -437,6 +536,24 @@ have in this life. For what He is not is clearer to us than what He is. Therefor
 from things farthest away from God form within us a truer estimate that God is above whatsoever
 we may say or think of Him. Thirdly, because thereby divine truths are the better hidden from the
 unworthy.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la Sacra [Scrittura](/concepts/revelation) non dovrebbe utilizzare metafore. Poiché ciò che è proprio delle scienze più basse non sembra adatto a questa scienza, che occupa il posto più elevato tra tutte. Tuttavia, ricorrere a varie similitudini e figure è tipico della poesia, la scienza considerata la meno importante di tutte. Pertanto, non è appropriato che anche la Sacra Scrittura utilizzi tali espressioni.
+
+Obiezione 2: Inoltre, questa dottrina sembra essere intesa a rendere la verità più chiara. Pertanto vengono offerte ricompense a coloro che la manifestano: “Coloro che mi spiegano avranno la vita eterna” (Ecclesiaste 24:31). Ma proprio attraverso tali similitudini la verità viene oscurata. Pertanto, presentare le verità divine paragonandole a cose corporee non è appropriato per questa scienza.
+
+Obiezione 3: Inoltre, più le creature sono elevate, più si avvicinano alla somiglianza divina. Pertanto, se dovesse esserci una qualche creatura che rappresenti Dio, questa [Rappresentazione](/concepts/idea) dovrebbe derivare principalmente dalle creature più elevate, e non da quelle inferiori; tuttavia, questo accade spesso nelle Scritture.
+
+Al contrario, è scritto (Osea 12:10): “Ho moltiplicato le visioni e ho utilizzato parabole per mezzo dei profeti”. Ma presentare qualcosa attraverso parabole significa utilizzare metafore. Pertanto, questa sacra scienza può ricorrere alle metafore.
+
+Rispondo che è appropriato che le Scritture Sacre espongano verità divine e spirituali attraverso paragoni con cose materiali. Infatti, Dio provvede a tutto in base alle capacità naturali di ciascuna cosa. È naturale per l’uomo raggiungere la conoscenza delle verità intellettuali attraverso oggetti sensibili, poiché tutta la nostra conoscenza ha origine dai sensi. Pertanto, nelle Scritture Sacre le verità spirituali vengono insegnate in modo appropriato attraverso immagini tratte da cose materiali. È proprio ciò che afferma Dionigi nel “Coelum Hierarchicum” (I): “Non possiamo essere illuminati dai raggi divini se questi non sono nascosti dietro molti veli sacri”. È inoltre appropriato che le Scritture Sacre, rivolte a tutti senza distinzioni di persona (“A saggi e insensati io sono debitore”, Romani 1:14), espongano verità spirituali attraverso simboli tratti da cose corporee, affinché anche coloro che, per semplicità d’animo, non sono in grado di comprendere le verità intellettuali possano comunque riceverne la conoscenza.
+
+Risposta all’Obiezione 1: La poesia utilizza le metafore per creare rappresentazioni, poiché è naturale per l’uomo essere compiaciuto da tali rappresentazioni. Ma la dottrina sacra impiega le metafore sia perché necessarie che perché utili.
+
+Risposta all’Obiezione 2: Il raggio della rivelazione divina non viene estinto dalle immagini sensibili con cui è velato, come afferma Dionigi di Atene (Coel. Hier. I); la sua verità rimane inalterata, poiché non permette alle menti di coloro a cui la rivelazione è stata fatta di fermarsi alle metafore, ma le eleva alla conoscenza delle verità stesse; e attraverso queste verità, anche altri possono ricevere insegnamenti in questi ambiti. Pertanto, ciò che viene insegnato in forma metaforica in una parte della Scrittura, in altre parti viene esposto in modo più chiaro. Il fatto stesso che la verità venga nascosta attraverso figure è utile per l’esercizio delle menti riflessive e costituisce anche una difesa contro le derisioni degli irriverenti, come indicano le parole “Non date ciò che è sacro ai cani” (Matteo 7:6).
+
+Risposta all’Obiezione 3: Come afferma Dionigi (Coel. Hier. i), è più appropriato che le verità divine vengano espresse attraverso immagini di entità meno nobili rispetto a quelle più nobili, e ciò per tre motivi. Primo, perché in questo modo le menti umane vengono meglio protette dall’errore; infatti diventa chiaro che tali descrizioni non costituiscono rappresentazioni letterali delle verità divine, le quali potrebbero essere oggetto di dubbi se espresse attraverso immagini di entità più nobili, soprattutto per coloro che non riescono a concepire nulla di più nobile degli esseri fisici. Secondo, perché questo approccio è più in linea con la conoscenza di Dio che possediamo in questa vita: ciò che Dio non è ci appare infatti più chiaro di ciò che Egli è. Pertanto, le similitudini tratte da elementi lontani da Dio ci aiutano a comprendere meglio quanto Dio sia al di sopra di tutto ciò che possiamo dire o pensare di Lui. Terzo, perché in questo modo le verità divine vengono meglio nascoste agli inadeguati.
 
 <span class="atom-split" data-atom="012" data-title="Whether in Holy Scripture a word may have several senses?" data-chapter="Whether in Holy Scripture a word may have several senses?" data-kind="atom" data-srclang="en"></span>
 
@@ -497,3 +614,21 @@ signified properly and figuratively. Nor is the figure itself, but that which is
 sense. When Scripture speaks of God's arm, the literal sense is not that God has such a member,
 but only what is signified by this member, namely operative power. Hence it is plain that nothing
 false can ever underlie the literal sense of Holy Writ.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nelle Scritture Sacre una parola non possa avere diversi significati: storico, letterale, allegorico, tropologico, morale o anagogico. Infatti, l’uso di molti significati diversi nello stesso testo genera confusione e inganno, distruggendo completamente la forza argomentativa delle dichiarazioni. Pertanto, da una molteplicità di proposizioni non possono derivare che fallacie, e non argomentazioni valide. Ma le Scritture Sacre dovrebbero essere in grado di esprimere la verità senza alcuna fallacia; quindi, in esse una parola non può avere diversi significati.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (De utilitate credendi, iii) che “l’Antico Testamento presenta una divisione in quattro parti: storia, eziologia, analogia e allegoria”. Ora queste quattro categorie sembrano del tutto diverse dalle quattro suddivisioni menzionate nella prima obiezione. Pertanto, non pare appropriato interpretare la stessa parola delle Scritture secondo questi quattro diversi significati.
+
+Obiezione 3: Inoltre, oltre a questi sensi, esiste anche quello parabolico, che non rientra tra questi quattro.
+
+Al contrario, Gregorio afferma (Moralia, xx, 1): “La Sacra Scrittura, per il modo in cui è scritta, trascende ogni scienza; poiché, in una singola frase, mentre descrive un fatto, ne rivela anche il mistero”.
+
+Rispondo che l’autore delle Scritture Sacre è Dio, il quale ha il potere di esprimere il proprio significato non soltanto con le parole (come può fare anche l’uomo), ma anche attraverso le cose stesse. Mentre in ogni altra scienza le cose vengono indicate tramite le parole, in questa scienza le cose indicate dalle parole possiedono anch’esse un significato autonomo. Quindi quel primo significato con cui le parole indicano le cose appartiene al senso storico o letterale; quel significato per cui le cose indicate dalle parole hanno a loro volta un altro significato viene chiamato senso spirituale, e si basa sul senso letterale, presupponendolo. Ora, questo senso spirituale può essere diviso in tre parti: poiché, come dice l’Apostolo (Ebrei 10:1), la [Legge Antica](/concepts/divine_law) è una figura della Nuova Legge, e Dionigi di Atene afferma (“Coel. Hier.” i) che “la stessa Nuova Legge è una figura della gloria futura”, allora ciò che il nostro Capo ha fatto nella Nuova Legge rappresenta un modello di ciò che noi dovremmo fare; quindi, in quanto le cose della Legge Antica indicano quelle della Nuova Legge, esiste il senso allegorico; in quanto le azioni compiute da Cristo, o ciò che indica Cristo, rappresentano un modello di ciò che noi dovremmo fare, esiste il senso morale; ma in quanto queste cose indicano ciò che riguarda la gloria eterna, esiste il senso anagogico. Poiché il senso letterale è quello inteso dall’autore delle Scritture, e poiché tale autore è Dio, il quale con un solo atto comprende tutte le cose attraverso il proprio intelletto, non è affatto inappropriato, come dice Agostino (“Confessioni” xii), che anche secondo il senso letterale una parola nelle Scritture possa avere diversi significati.
+
+Risposta all’Obiezione 1: La molteplicità di questi significati non comporta alcuna ambiguità o altro tipo di confusione, poiché tali significati non derivano dal fatto che una parola possa indicare più cose, ma dal fatto che le cose indicate da quelle parole possano a loro volta rappresentare tipi di altre cose. Pertanto, nelle Scritture Sacre non sorge alcuna confusione: tutti i significati si basano su quello letterale, l’unico da cui è possibile trarre argomentazioni valide; non certo da quelli intesi in senso allegorico, come afferma Agostino (Epistola 48). Tuttavia, nulla delle Scritture Sacre viene meno a causa di questo: nulla di ciò che è necessario per la fede è contenuto nel significato spirituale, sebbene tale significato non venga esplicitamente menzionato nelle Scritture nella loro forma letterale.
+
+Risposta all’Obiezione 2: Questi tre elementi – storia, eziologia, analogia – vengono raggruppati sotto il senso letterale. Viene chiamato “storia” quando qualcosa viene semplicemente descritto o raccontato; viene chiamato “eziologia” quando ne viene indicata la causa, come quando Nostro Signore spiegò il motivo per cui Mosè permise il divorzio: a causa della durezza dei cuori degli uomini; viene chiamato “analogia” quando si dimostra che la verità contenuta in un testo sacro non contraddice quella di un altro. Di questi quattro elementi, soltanto l’analogia rappresenta i tre sensi spirituali del testo sacro. Così, Guglielmo di Sant’Vittore (Sacramentum, IV, 4 Prologus) include il senso anagogico sotto quello allegorico, individuando soltanto tre sensi del testo sacro: storico, allegorico e tropologico.
+
+Risposta all’Obiezione 3: Il senso parabolico è contenuto nel senso letterale, poiché con le parole si indicano cose in modo proprio e figurato. Non è la figura stessa, ma ciò che viene rappresentato attraverso di essa, il senso letterale. Quando la Scrittura parla del “braccio” di Dio, il senso letterale non significa che Dio abbia effettivamente un tale membro, ma indica piuttosto ciò che questo termine rappresenta, ovvero il potere operativo di Dio. Pertanto è evidente che nulla di falso possa mai sottostare al senso letterale delle Scritture Sacre.

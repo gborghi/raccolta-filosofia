@@ -24,6 +24,10 @@ tags:
 
 TREATISE ON GRACE (QQ[109]-114)
 
+<span class="qlang-split" data-lang="it"></span>
+
+Trattato sulla Grazia (QQ[109]-114)
+
 <span class="atom-split" data-atom="002" data-title="OF THE NECESSITY OF GRACE (TEN ARTICLES)" data-chapter="OF THE NECESSITY OF GRACE (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the exterior principle of human acts, i.e. God, in so far as, through grace,
@@ -43,6 +47,22 @@ Under the first head there are ten points of inquiry:
 (9) Whether man having received grace can do good and avoid sin without any further Divine
 help?
 (10) Whether he can of himself persevere in good?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il principio esterno degli atti umani, cioè Dio, nella misura in cui, per grazia Sua, veniamo aiutati a compiere il bene. Prima di tutto, dobbiamo esaminare la grazia di Dio; in secondo luogo, la sua causa; infine, i suoi effetti.  
+Il primo punto di riflessione si articolerà in tre aspetti: (1) La necessità della grazia; (2) La grazia stessa, in termini di essenza; (3) La sua suddivisione.  
+All’interno del primo ambito di indagine vi sono dieci questioni principali:  
+(1) Può l’uomo conoscere qualcosa senza la grazia?  
+(2) Può l’uomo compiere o desiderare alcun bene senza la grazia di Dio?  
+(3) Può l’uomo amare Dio più di ogni altra cosa senza la grazia?  
+(4) Può l’uomo osservare i comandamenti della Legge senza la grazia?  
+(5) Può l’uomo meritarsi la vita eterna senza la grazia?  
+(6) Può l’uomo prepararsi alla grazia senza di essa?  
+(7) Può l’uomo liberarsi dal peccato senza la grazia?  
+(8) Può l’uomo evitare il peccato senza la grazia?  
+(9) Può l’uomo, una volta ricevuta la grazia, compiere il bene ed evitare il peccato senza ulteriore aiuto divino?  
+(10) Può l’uomo perseverare da solo nel bene?
 
 <span class="atom-split" data-atom="003" data-title="Whether without grace man can know any truth?" data-chapter="Whether without grace man can know any truth?" data-kind="atom" data-srclang="en"></span>
 
@@ -113,6 +133,24 @@ Reply to Objection 3: We always need God's help for every thought, inasmuch as H
 the understanding to act; for actually to understand anything is to think, as is clear from Augustine
 (De Trin. xiv, 7).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che senza la grazia l’uomo non possa conoscere alcuna verità. Infatti, in 1 Corinzi 12:3 si legge: “Nessuno può dire ‘Signore Gesù’ se non è ispirato dallo Spirito Santo”; un commento afferma: “Ogni verità, qualunque sia la persona che la proclami, proviene lo Spirito Santo”. Ora lo Spirito Santo dimora in noi per grazia; pertanto non possiamo conoscere la verità senza la grazia.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (Soliloquio I, 6) che “le scienze più certe sono come cose illuminate dal sole e quindi visibili. Ora, Dio stesso è colui che irradia la luce; la ragione, invece, si trova nell’anima, proprio come la vista negli occhi, e gli ‘occhi’ dell’anima sono i sensi dello spirito”. Tuttavia, i sensi fisici, per quanto puri, non possono percepire alcun oggetto visibile senza la luce del sole; pertanto, anche la mente umana, per quanto perfetta, non può conoscere verità attraverso il ragionamento senza la luce divina: e questo riguarda appunto l’aiuto della grazia.
+
+Obiezione 3: Inoltre, la mente umana può comprendere la verità soltanto attraverso il pensiero, come è chiaro nelle opere di Agostino (De Trinitate, xiv, 7). Tuttavia l’Apostolo afferma (2 Corinzi 3:5): “Non che siamo noi stessi in grado di comprendere qualcosa riguardo a noi stessi; ma la nostra capacità deriva da Dio”. Pertanto, l’uomo non può conoscere la verità per proprio conto, senza l’aiuto della grazia divina.
+
+Al contrario, Agostino afferma (Retractationes, I, 4): “Non approvo aver detto nella preghiera: ‘O Dio, che desideri che solo i senza peccato conoscano la verità’, poiché si potrebbe ribattere che molti coloro che non sono senza peccato conoscono molte verità”. Ora l’uomo viene purificato dal peccato per grazia, secondo il Salmo 50:12: “O Dio, crea in me un cuore puro e rinnova dentro di me uno spirito retto”. Pertanto, senza la grazia, l’uomo da solo non può conoscere la verità.
+
+Rispondo che conoscere la verità è un uso o un atto della luce intellettuale; infatti, secondo l’Apostolo (Efesini 5:13): “Tutto ciò che viene rivelato è luce”. Ora, ogni uso implica movimento, e si intende il movimento in senso lato, includendo sia il pensiero che la volontà, come chiarisce il Filosofo nel De Anima iii, 4. Nei fenomeni corporei vediamo che per il movimento è necessaria non solo la forma che ne è il principio, ma anche l’azione del primo motore; nel caso dei corpi celesti, tale motore è il cielo stesso. Pertanto, per quanto il fuoco possa essere perfetto dal punto di vista termico, non potrebbe produrre alcun cambiamento senza l’intervento del cielo. E poiché tutti i movimenti corporei sono in ultima analisi dovuti al movimento celeste, così anche tutti i movimenti, sia fisici che spirituali, derivano dal Primo Motore, che è Dio. Quindi, per quanto una natura umana o spirituale possa essere perfetta, non può agire se non viene mossa da Dio; tale movimento avviene secondo il disegno della Sua provvidenza, e non per necessità naturale, come nel caso del movimento celeste. Ogni movimento deriva dunque da Dio, che è il Primo Motore; inoltre, ogni perfezione formale proviene da Lui, che è l’Origine di ogni forma. Pertanto, l’atto dell’intelletto o di qualsiasi essere creato dipende da Dio in due modi: innanzitutto, perché riceve la forma attraverso cui agisce; in secondo luogo, perché viene mosso da Lui ad agire. Ogni forma conferita alle cose create da Dio possiede la capacità di compiere un certo atto, nella misura in cui tale capacità corrisponde al suo scopo specifico; al di là di questo limite, essa rimane impotente, a meno che non venga dotata di una forma ulteriore. Ad esempio, l’acqua può riscaldarsi solo se viene messa a contatto con il fuoco. Lo stesso vale per la mente umana: possiede una forma, ovvero la luce intellettuale, che le permette di conoscere certe cose sensibili; tuttavia, non è in grado di comprendere realtà più elevate senza l’aiuto della fede o della profezia, che rappresentano una “luce di grazia” aggiunta alla natura umana. Pertanto, per conoscere qualsiasi verità, l’uomo ha bisogno dell’aiuto divino, affinché il suo intelletto venga mosso da Dio ad agire. Non ha bisogno, tuttavia, di una luce nuova aggiunta a quella naturale per comprendere tutte le verità, ma solo alcune che trascendono la sua capacità conoscitiva ordinaria. Talvolta, però, Dio, con il Suo dono della grazia, illumina miracolosamente gli esseri umani su questioni che possono essere comprese attraverso la ragione naturale, proprio come talvolta realizza miracoli che la natura stessa è in grado di compiere.
+
+Risposta all’Obiezione 1: Ogni verità, qualunque sia la persona che la enuncia, proviene dallo Spirito Santo, il quale ci dona la luce naturale e ci spinge a comprendere e pronunciare la verità; tuttavia, tale verità non dimora in noi attraverso la grazia santificante, né ci conferisce alcun dono abituale aggiunto alla nostra natura. Ciò avviene soltanto per alcune verità che sono conosciute e enunciate, soprattutto quelle relative alla fede di cui parla l’Apostolo.
+
+Risposta all’Obiezione 2: Il sole materiale irradia la sua luce al di fuori di noi; ma il Sole intelligibile, che è Dio, splende dentro di noi. Pertanto, la luce naturale donata all’anima è l’[illuminazione](/schools/enlightenment) di Dio, grazie alla quale veniamo illuminati riguardo a ciò che rientra nella conoscenza naturale; e per questo non è necessaria alcuna altra conoscenza, se non per quelle cose che trascendono i limiti della conoscenza naturale.
+
+Risposta all’Obiezione 3: Abbiamo sempre bisogno dell’aiuto di Dio per ogni pensiero, poiché è Lui a spingere l’intelletto ad agire; infatti, comprendere qualcosa significa proprio pensare, come è chiaro nelle opere di Agostino (De Trinitate, xiv, 7).
+
 <span class="atom-split" data-atom="004" data-title="Whether man can wish or do any good without grace?" data-chapter="Whether man can wish or do any good without grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man can wish and do good without grace. For that is in man's
@@ -172,6 +210,24 @@ Reply to Objection 3: Man cannot even know truth without Divine help, as stated 
 And yet human nature is more corrupt by sin in regard to the desire for good, than in regard to the
 knowledge of truth.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’uomo possa desiderare e compiere il bene senza la grazia. Infatti ciò rientra nelle sue possibilità, di cui è padrone. L’uomo è infatti padrone dei propri atti, soprattutto delle proprie volontà, come già affermato in precedenza (Q[1], A[1]; Q[13], A[6]). Pertanto, l’uomo può, di per sé, desiderare e compiere il bene senza l’aiuto della grazia.
+
+Obiezione 2: Inoltre, l’uomo ha più potere su ciò che è in accordo con la sua natura che su ciò che va al di là di essa. Ora il peccato è contrario alla sua natura, come afferma Damasceno (De Fide Orth. ii, 30); mentre le azioni virtuose sono in linea con la sua natura, come già detto sopra (Q[71], A[1]). Pertanto, poiché l’uomo può peccare di propria volontà, può anche desiderare e compiere il bene.
+
+Obiezione 3: Inoltre, il bene dell’intelletto è la verità, come afferma il Filosofo (Etica, VI, 2). L’intelligenza può infatti conoscere la verità per sé stessa, proprio come qualsiasi altra cosa può svolgere le proprie funzioni in modo autonomo. Pertanto, l’uomo è ancora più in grado di compiere e desiderare il bene in modo indipendente.
+
+Al contrario, l’Apostolo afferma (Romani 9:16): “Non è dalla volontà di colui che vuole, né dall’azione di colui che corre, ma da Dio che mostra misericordia”. E [Agostino](/figures/augustine) dice (De Corrept. et Gratia ii) che “senza la grazia, gli uomini non compiono nulla di buono, né quando pensano, né quando desiderano, né quando amano, né quando agiscono”.
+
+Rispondo che la natura umana può essere considerata in due modi: innanzitutto, nella sua integrità, così come era nel nostro primo genitore prima del peccato; in secondo luogo, nella sua corruzione dopo il peccato di Adamo. In entrambi i casi, la [natura umana](/axes/human_nature) ha bisogno dell’aiuto di Dio per compiere qualsiasi atto di bene, come già detto sopra (A[1]). Tuttavia, nello stato di integrità, grazie alle proprie doti naturali, l’uomo può desiderare e compiere atti di bene proporzionati alla sua natura, come quelli derivanti dalle virtù acquisite; ma non può raggiungere un bene superiore a quello che la sua natura gli permette, come quello derivante dalle virtù infuse. Nello stato di corruzione, invece, l’uomo è incapace di compiere ciò che la sua natura originaria gli avrebbe permesso; tuttavia, poiché la natura umana non è completamente corrotta al punto di perdere ogni bene naturale, essa può comunque, grazie alle proprie doti innate, realizzare alcuni atti positivi, come costruire abitazioni o piantare viti; ma non può compiere tutti quegli atti che le sono naturalmente possibili, senza alcuna lacuna. Proprio come un uomo malato può muoversi in modo limitato, ma non può eseguire movimenti perfetti come una persona sana, a meno di ricevere l’aiuto della medicina per guarire. E quindi, nello stato di natura integra, l’uomo ha bisogno di una forza soprannaturale aggiunta a quella naturale, per poter compiere atti di bene soprannaturale; mentre nello stato di corruzione, ha bisogno dell’aiuto divino sia per essere guarito, sia per realizzare opere di virtù meritorie. In entrambi i casi, comunque, l’uomo ha bisogno dell’intervento divino affinché possa essere spinto ad agire bene.
+
+Risposta all’Obiezione 1: L’uomo è padrone dei propri atti e della propria volontà, poiché possiede una ragione deliberante che può essere orientata in un senso o nell’altro. E sebbene sia padrone di decidere se agire o meno, ciò avviene soltanto attraverso una precedente riflessione; e poiché questa riflessione non può proseguire all’[infinito](/concepts/infinity), dobbiamo concludere che la volontà umana è guidata da un principio esterno, superiore alla mente umana, ovvero da Dio, come dimostra il Filosofo nel capitolo “Sulla buona fortuna” (Etica Eudemica vii). Pertanto, anche quando la mente umana non è indebolita, non è del tutto padrona dei propri atti al punto di non aver bisogno di essere guidata da Dio; e tanto meno lo è la volontà umana indebolita dal peccato, che, attraverso la corruzione della natura, ostacola l’uomo nel perseguire il bene.
+
+Risposta all’Obiezione 2: Peccare significa semplicemente fallire nel realizzare il bene che appartiene a ogni essere secondo la sua natura. Ora, poiché ogni creatura ha la propria esistenza grazie a un altro e, in sé stessa, non è nulla, ha bisogno di essere sostenuta da qualcos’altro affinché possa realizzare il bene che le è proprio per natura. Infatti, essa può da sola fallire nel perseguire il bene, così come può cessare di esistere; solo se è sostenuta da Dio può mantenere la propria essenza e attuare il proprio scopo naturale.
+
+Risposta all’Obiezione 3: L’uomo non può nemmeno conoscere la verità senza l’aiuto divino, come già affermato sopra (A[1]). Eppure, la natura umana è più corrotta dal peccato in termini di desiderio del bene che in termini di conoscenza della verità.
+
 <span class="atom-split" data-atom="005" data-title="Whether by his own natural powers and without grace man can love God above all things?" data-chapter="Whether by his own natural powers and without grace man can love God above all things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that without grace man cannot love God above all things by his
@@ -230,6 +286,26 @@ was said above.
 Reply to Objection 3: Love is said to be best, both with respect to degree of love, and with
 regard to the motive of loving, and the mode of love. And thus the highest degree of love is that
 whereby charity loves God as the giver of beatitude, as was said above.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che, senza la grazia di Dio, l’uomo non possa amare Dio sopra ogni cosa con le proprie forze naturali. Infatti, amare Dio sopra ogni cosa è l’atto proprio e principale della carità. Ora, l’uomo da solo non può possedere la carità, poiché “la carità di Dio ci viene versata nei cuori dallo Spirito Santo che ci è stato dato”, come si dice in Romani 5:5. Pertanto, l’uomo con le sole proprie forze naturali non può amare Dio sopra ogni cosa.
+
+Obiezione 2: Inoltre, nessuna natura può elevarsi al di sopra di sé stessa. Ma amare Dio più di ogni altra cosa significa tendere verso qualcosa che va oltre se stessi. Pertanto, senza l’aiuto della grazia, nessuna natura creata può amare Dio al di sopra di sé stessa.
+
+Obiezione 3: Inoltre, a Dio, che è il Massimo Bene, spetta l’amore più grande, ovvero essere amato sopra ogni cosa. Ora, senza la grazia, l’uomo non è in grado di donare a Dio quell’amore che Gli spetta; altrimenti sarebbe inutile aggiungere la grazia stessa. Pertanto, l’uomo, privo di grazia e affidandosi soltanto alle proprie forze naturali, non può amare Dio sopra ogni cosa.
+
+Al contrario, come alcuni sostengono, l’uomo fu creato inizialmente soltanto con doti naturali; e in questo stato è evidente che amasse Dio in qualche misura. Tuttavia, non amava Dio allo stesso modo in cui amava se stesso, né meno di sé stesso, altrimenti avrebbe peccato. Pertanto, amava Dio più di sé stesso. Quindi, soltanto con le proprie forze naturali, l’uomo può amare Dio più di sé stesso e al di sopra di tutte le cose.
+
+Rispondo che, come già detto sopra (FP, Q[60], A[5]), dove sono state esposte le varie opinioni riguardo all’amore naturale degli angeli, l’uomo nello stato di natura perfetta avrebbe potuto, con le sue forze naturali, compiere il bene che gli è proprio senza l’aggiunta di alcun dono gratuito, sebbene non senza l’aiuto di Dio che lo spingesse in questa direzione. Ora, amare Dio sopra ogni cosa è naturale per l’uomo e per ogni essere, sia razionale che irrazionale, persino per la natura inanimata, secondo il modo di amore che è proprio di ciascuna creatura. La ragione di ciò è che è naturale per tutti cercare e amare le cose secondo quanto sono naturalmente adatte a essere cercate e amate; infatti “tutte le cose agiscono secondo quanto sono naturalmente adatte”, come affermato nella Fisica ii, 8. È evidente che il bene di una parte è al servizio del bene del tutto; pertanto, ogni cosa, con il proprio desiderio e amore naturale, ama il proprio bene specifico in vista del bene comune dell’universo intero, che è Dio. Per questo Dionigi afferma (Div. Nom. iv) che “Dio conduce tutte le cose verso l’amore di Sé”. Nello stato di natura perfetta, dunque, l’uomo rivolgeva l’amore per sé stesso e per tutte le altre cose verso l’amore di Dio come verso il suo fine ultimo; perciò amava Dio più di se stesso e sopra ogni cosa. Ma nello stato di natura corrotta, l’uomo fallisce in questo intento a causa del desiderio della sua volontà razionale, che, se non viene guarita dalla grazia di Dio, segue il proprio bene personale, a causa della corruzione della natura stessa. E perciò dobbiamo dire che nello stato di natura perfetta l’uomo non aveva bisogno del dono della grazia, aggiunto alle sue doti naturali, per amare Dio sopra ogni cosa in modo naturale; sebbene avesse comunque bisogno dell’aiuto di Dio per essere spinto verso questo scopo. Nello stato di natura corrotta, invece, anche per questo l’uomo ha bisogno dell’aiuto della grazia per guarire la propria natura.
+
+Risposta all’Obiezione 1: La carità ama Dio sopra ogni cosa in modo più profondo di quanto lo faccia la natura.  
+Infatti, la natura ama Dio perché Egli è l’inizio e la fine del bene naturale;  
+mentre la carità Lo ama perché Egli è l’oggetto della [beatazza](/positions/beatitude) e perché l’uomo ha una comunione spirituale con Dio. Inoltre, la carità aggiunge alla naturale amore per Dio una certa rapidità e gioia, proprio come ogni [abitudine](/concepts/custom) di virtù arricchisce l’atto buono compiuto soltanto dalla ragione naturale di un uomo che non possiede tali abitudini.
+
+Risposta all’Obiezione 2: Quando si afferma che la natura non può elevarsi al di sopra di sé, non dobbiamo intendere che non possa essere indirizzata verso un oggetto superiore a sé stessa, poiché è evidente che il nostro intelletto, con la sua conoscenza naturale, può comprendere cose che trascendono le sue capacità, come dimostra la nostra conoscenza naturale di Dio. Tuttavia, dobbiamo intendere che la natura non può compiere un atto che superi la proporzione delle sue forze. Ora, amare Dio sopra ogni cosa non è certo un tale atto; poiché, come già detto, questo sentimento è naturale per ogni creatura.
+
+Risposta all’Obiezione 3: Si afferma che l’amore sia il migliore, sia in termini di intensità, sia per quanto riguarda il movente dell’amare e il modo stesso di amare. Pertanto, il grado più alto di amore è quello in cui la carità ama Dio come colui che dona la beatitudine, come già detto in precedenza.
 
 <span class="atom-split" data-atom="006" data-title="Whether man without grace and by his own natural powers can fulfil the commandments of the Law?" data-chapter="Whether man without grace and by his own natural powers can fulfil the commandments of the Law?" data-kind="atom" data-srclang="en"></span>
 
@@ -324,6 +400,24 @@ since it is nobler, can be raised by the help of grace to a higher end, which lo
 reach; even as a man who can recover his health by the help of medicines is better disposed to
 health than one who can nowise recover it, as the Philosopher observes (De Coelo ii, 12).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’uomo possa meritarsi la vita eterna senza la grazia di Dio. Infatti, il nostro Signore dice (Matteo 19:17): “Se vuoi entrare nella vita, osserva i comandamenti”; da ciò si potrebbe dedurre che l’ingresso nella vita eterna dipenda dalla volontà umana. Ma ciò che dipende dalla nostra volontà possiamo realizzarlo con le nostre forze. Pertanto, sembra che l’uomo possa meritarsi la vita eterna per merito proprio.
+
+Obiezione 2: Inoltre, la vita eterna è la ricompensa che Dio concede agli uomini, secondo Matteo 5:12: “La tua ricompensa è molto grande in cielo”. Ma la ricompensa viene concessa da Dio a ciascuno in base alle sue opere, come dice il Salmo 61:12: “Ricompenserai ognuno secondo le sue opere”. Pertanto, poiché l’uomo è padrone delle proprie azioni, sembra che sia in suo potere ottenere la vita eterna.
+
+Obiezione 3: Inoltre, la vita eterna rappresenta lo scopo finale della vita umana. Ora, ogni cosa naturale, grazie alle sue dotazioni innate, può raggiungere il proprio fine. Pertanto, l’uomo potrebbe ancora di più raggiungere la vita eterna attraverso le proprie dotazioni naturali, senza la necessità della grazia divina.
+
+Al contrario, l’Apostolo dice (Roma 6:23): “La grazia di Dio è la vita eterna”. E come spiega un commento, ciò viene detto “affinché comprendiamo che Dio, per la sua misericordia, ci conduce verso la vita eterna”.
+
+Rispondo che gli atti che portano a un fine devono essere proporzionati a tale fine. Tuttavia, nessun atto supera la misura del proprio principio attivo; perciò osserviamo nelle cose naturali che nulla può, attraverso il proprio operare, produrre un effetto che vada oltre la sua forza attiva, ma soltanto uno che sia proporzionato alle sue capacità. Ora, la vita eterna è un fine che va al di là delle possibilità della [natura umana](/axes/human_nature), come risulta chiaramente da quanto detto in precedenza (Q[5], A[5]). Pertanto, l’uomo, con i suoi doni naturali, non può compiere opere meritevoli proporzionate alla vita eterna; per questo è necessaria una forza superiore, ovvero la forza della grazia. E così, senza la grazia, l’uomo non può meritarsi la vita eterna; tuttavia può compiere atti che portano a un bene naturale all’uomo, come “lavorare nei campi, bere, mangiare o avere amici”, e simili, come afferma [Agostino](/figures/augustine) nella sua terza Risposta ai Pelagiani (*Hypognosticon iii*, tra le opere spurie di Sant’Agostino).
+
+Risposta all’Obiezione 1: L’uomo, con la sua volontà, compie azioni meritevoli di vita eterna; ma, come afferma Agostino nello stesso libro, per questo è necessario che la volontà umana sia preparata da Dio con la grazia.
+
+Risposta all’Obiezione 2: Come afferma la spiegazione di Romani 6:23, “La grazia di Dio è la vita eterna”, “È certo che la vita eterna sia legata alle buone opere; ma le opere stesse, attraverso cui essa viene concesa, appartengono alla grazia di Dio”. Inoltre, si è detto (A[4]) che per adempiere ai comandamenti della Legge, nel modo dovuto affinché tale adempimento possa essere considerato meritevole, sia necessaria la grazia di Dio.
+
+Risposta all’Obiezione 3: Questa obiezione riguarda la fine naturale dell’uomo. Ora, la natura umana, essendo più nobile, può essere elevata con l’aiuto della grazia a uno scopo più alto, che le nature inferiori non possono mai raggiungere; proprio come un uomo che può ripristinare la propria salute con l’aiuto dei medicinali è più predisposto ad essa rispetto a colui che non ne è in grado, come osserva il Filosofo (De Coelo ii, 12).
+
 <span class="atom-split" data-atom="008" data-title="Whether a man, by himself and without the external aid of grace, can prepare himself for grace?" data-chapter="Whether a man, by himself and without the external aid of grace, can prepare himself for grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man, by himself and without the external help of grace, can
@@ -391,6 +485,28 @@ Reply to Objection 4: It is the part of man to prepare his soul, since he does t
 And yet he does not do this without the help of God moving him, and drawing him to Himself, as
 was said above.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’uomo, da solo e senza l’aiuto esterno della grazia, possa prepararsi ad accoglierla. Infatti, nulla di impossibile viene imposto all’uomo, come è stato detto sopra (A[4], ad 1). Ma è scritto (Zaccaria 1:3): “Tornate a Me, e Io tornerò a voi”. Ora, prepararsi ad accogliere la grazia non significa altro che rivolgersi a Dio. Pertanto, sembra che l’uomo, da solo e senza l’aiuto esterno della grazia, possa prepararsi ad accoglierla.
+
+Obiezione 2: Inoltre, l’uomo si prepara alla grazia facendo ciò che è in suo potere, poiché se compie ciò che gli è possibile fare, Dio non gli negherà la grazia; infatti è scritto (Matteo 7:11) che Dio dona il Suo Spirito Santo “a coloro che Lo chiedono”. E ciò che è in nostro potere può certamente essere compiuto. Pertanto, sembra che sia davvero possibile prepararsi alla grazia attraverso le nostre azioni.
+
+Obiezione 3: Inoltre, se un uomo ha bisogno di grazia per potersi preparare ad accettarne un’altra, con lo stesso ragionamento avrà bisogno di grazia anche per prepararsi a ricevere la prima grazia; e così via, all’[infinito](/concepts/infinity), il che è impossibile. Pertanto sembra che non dobbiamo andare oltre quanto detto in precedenza, ovvero che l’uomo, da solo e senza grazia, può prepararsi ad accettarne un’altra.
+
+Obiezione 4: Inoltre, è scritto (Proverbi 16:1) che “è compito dell’uomo preparare la propria anima”. Si dice infatti che un’azione faccia parte di un uomo quando egli può compierla da solo. Pertanto, sembra che l’uomo possa prepararsi da solo per ricevere la grazia.
+
+Al contrario, è scritto (Giovanni 6:44): “Nessuno può venire a Me se non col Padre che Mi ha mandato”. Ma se l’uomo potesse prepararsi da solo, non avrebbe bisogno di essere attirato da un altro. Pertanto, l’uomo non può prepararsi senza l’aiuto della grazia.
+
+Rispondo che la preparazione della volontà umana al bene avviene in due modi: il primo consiste nel renderla idonea ad agire rettamente e a godere di Dio; tale preparazione non può avvenire senza il dono abituale della grazia, che è il principio delle opere meritevoli, come già detto (A[5]). Esiste inoltre un secondo modo attraverso cui la volontà umana può essere considerata preparata a ricevere tale dono. Ora, affinché l’uomo si prepari ad accettare questo dono, non è necessario presupporre ulteriori doni abituali nell’anima, altrimenti ci troveremmo di fronte a un processo infinito. Dobbiamo invece presupporre un dono gratuito da parte di Dio, che muove l’anima verso il bene e ispira in lei questo desiderio. Proprio in questi due modi abbiamo bisogno dell’aiuto divino, come già indicato (AA[2],3). È evidente che abbiamo bisogno dell’aiuto di Dio per essere spinti verso il bene; poiché ogni agente agisce in vista di un fine, ogni causa deve dirigere il proprio effetto verso quel fine. Pertanto, poiché l’ordine dei fini corrisponde all’ordine degli agenti che li realizzano, l’uomo deve essere guidato verso il fine ultimo dal movimento del primo motore, e verso i fini intermedi da quello di altri motori subordinati; proprio come lo spirito di un soldato è indirizzato a cercare la vittoria sotto la guida del comandante dell’esercito, o ad seguire le bandiere dei reggimenti guidati dai loro portabandiera. Poiché Dio è il Primo Motore, è proprio per il suo movimento che tutte le cose tendono a somigliargli nel proprio modo. Per questo Dionigi dice (Div. Nom. iv) che “Dio attira tutte le cose verso di Sé”. Ma Egli dirige gli uomini giusti verso di Sé come verso un fine particolare, che essi cercano e al quale desiderano attaccarsi, secondo il Salmo 72:28: “È buono per Me attaccarmi al mio Dio”. E il fatto che questi uomini siano “attirati” verso Dio può derivare soltanto dal fatto che Dio li ha “attirati” a Sé. Prepararsi quindi alla grazia significa, in sostanza, essere attirati verso Dio; proprio come chi distoglie lo sguardo dalla luce del sole si prepara ad accettarla voltando lo sguardo verso di essa. È evidente quindi che l’uomo non può prepararsi a ricevere la luce della grazia se non con l’aiuto gratuito di Dio, che lo spinge interiormente verso di essa.
+
+Risposta all’Obiezione 1: L’inclinazione dell’uomo verso Dio avviene per libera volontà; pertanto, all’uomo viene chiesto di rivolgersi a Dio. Tuttavia, la libera volontà può essere indirizzata verso Dio soltanto quando Dio stesso la orienta in quella direzione, come si legge in Geremia 31:18: “Riconducimi e mi convertirò, poiché Tu sei il Signore, mio Dio”; e in Lamentazioni 5:21: “Riconducici a Te, o Signore, e ci convertiremo”.
+
+Risposta all’Obiezione 2: L’uomo non può fare nulla se non è mosso da Dio, secondo Giovanni 15:5: “Senza di Me, non potete fare nulla”. Pertanto, quando si dice che un uomo fa ciò che è in suo potere fare, ciò significa che agisce perché è mosso da Dio.
+
+Risposta all’Obiezione 3: Questa obiezione riguarda la grazia abituale, per la quale è necessaria una certa preparazione, poiché ogni forma richiede una disposizione in colui che ne sarà soggetto. Tuttavia, affinché l’uomo possa essere mosso da Dio, non è necessario alcun ulteriore intervento, poiché Dio è il Primo Motore. Pertanto, non dobbiamo ricorrere all’infinito.
+
+Risposta all’Obiezione 4: È proprio della natura umana preparare la propria anima, poiché ciò avviene attraverso la libera volontà dell’uomo stesso. Tuttavia, questo processo non avviene senza l’aiuto di Dio, che spinge e attira l’uomo verso di Sé, come è stato detto in precedenza.
+
 <span class="atom-split" data-atom="009" data-title="Whether man can rise from sin without the help of grace?" data-chapter="Whether man can rise from sin without the help of grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man can rise from sin without the help of grace. For what is
@@ -450,6 +566,24 @@ proportionate condition; but without exterior help it cannot be restored to what
 And thus [human nature](/axes/human_nature) undone by reason of the act of sin, remains no longer perfect, but corrupted,
 as stated above (Q[85]); nor can it be restored, by itself, to its connatural good, much less to the
 supernatural good of justice.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’uomo possa liberarsi dal peccato senza l’aiuto della grazia. Infatti, ciò che viene considerato un effetto della grazia può avvenire anche senza di essa. Tuttavia, per liberarsi dal peccato è necessaria la [illuminazione](/schools/enlightenment) offerta dalla grazia; come recita la Scrittura (Efesini 5:14): “Risorgi dai morti e Cristo ti illuminerà”. Pertanto, l’uomo può liberarsi dal peccato senza la grazia.
+
+Obiezione 2: Inoltre, il peccato è opposto alla virtù come la malattia alla salute, come già affermato sopra (Q[71], A[1], ad 3). Ora, l’uomo, per natura sua, può passare dalla malattia alla salute senza l’aiuto esterno della medicina, poiché in lui rimane ancora il principio di vita da cui derivano le funzioni naturali. Pertanto, sembra che, con lo stesso ragionamento, l’uomo possa riprendersi da solo e tornare dallo [stato](/concepts/state) del peccato allo stato della giustizia senza l’aiuto della grazia divina.
+
+Obiezione 3: Inoltre, ogni cosa naturale può tornare da sola all’atto che le è conforme per natura; ad esempio, l’acqua calda ritorna spontaneamente alla sua temperatura naturale fredda, e una pietra lanciata in alto riprende automaticamente il suo movimento naturale verso il basso. Ora, un peccato rappresenta un atto contrario alla natura, come è chiaro nelle opere di Damasceno (De Fide Orthodossa ii, 30). Pertanto, sembra che l’uomo possa da solo tornare dal peccato allo stato di giustizia.
+
+Al contrario, l’Apostolo dice (Galati 2:21; cfr. Galati 3:21): “Se infatti esistesse una legge in grado di donare la vita, allora Cristo sarebbe morto invano”, cioè senza alcun scopo. Pertanto, con lo stesso ragionamento, se l’uomo possedesse una natura che gli permettesse di essere giustificato, “Cristo sarebbe morto invano”. Ma ciò non può essere affermato in modo appropriato. Quindi, l’uomo da solo non può essere giustificato, cioè non può passare da uno stato di peccato a uno stato di giustizia.
+
+Rispondo che l’uomo da solo non può in alcun modo liberarsi dal peccato senza l’aiuto della grazia. Poiché il peccato, sebbene sia effimero nel suo atto, permane nella sua colpa, come è stato detto sopra (Q[87], A[6]), liberarsi dal peccato non significa semplicemente cessare di compiere atti peccaminosi; significa piuttosto recuperare ciò che si è perso a causa del peccato. Ora, l’uomo subisce un triplice danno a seguito del peccato, come è stato chiaramente dimostrato sopra (Q[85], A[1]; Q[86], A[1]; Q[87], A[1]): la macchia, la corruzione del bene naturale e il debito di punizione. Subisce una macchia, poiché perde lo splendore della grazia a causa della deformità causata dal peccato; il bene naturale viene corrotto, poiché la volontà umana non è più sottomessa a quella di Dio; e quando questa armonia viene distrutta, l’intera natura dell’uomo peccatore rimane disordinata. Infine, esiste il debito di punizione, poiché peccando l’uomo merita la dannazione eterna. È evidente che nessuno di questi tre danni può essere riparato se non da Dio. Poiché lo splendore della grazia deriva dalla manifestazione della luce divina, tale splendore può essere ristabilito soltanto quando Dio irradia nuovamente la Sua luce; pertanto è necessaria una donazione permanente, e questa è proprio la luce della grazia. Allo stesso modo, l’ordine naturale può essere ripristinato soltanto quando Dio attira la volontà umana verso di Sé, come è stato detto sopra (A[6]). Anche il debito di punizione eterna può essere perdonato soltanto da Dio, Lui contro il quale è stato commesso il peccato e che è il Giudice dell’uomo. Pertanto, affinché l’uomo possa liberarsi dal peccato, è necessaria l’aiuto della grazia, sia sotto forma di una donazione permanente, sia attraverso l’intervento interno di Dio.
+
+Risposta all’Obiezione 1: All’uomo viene comandato ciò che riguarda l’atto della libera volontà, poiché tale atto è necessario affinché l’uomo possa liberarsi dal peccato. Pertanto, quando si dice “Alzati, e Cristo ti illuminerà”, non dobbiamo intendere che la completa liberazione dal peccato preceda l’illuminazione della grazia; ma piuttosto che, quando l’uomo, spinto da Dio attraverso la sua libera volontà, si sforza di liberarsi dal peccato, riceve la luce della grazia che lo giustifica.
+
+Risposta all’Obiezione 2: La ragione naturale non costituisce il principio sufficiente per la salute interiore dell’uomo, quella che deriva dalla grazia salvifica. Questo principio è rappresentato dalla stessa grazia, che viene meno a causa del peccato. Pertanto, l’uomo non può essere restaurato da solo; ha bisogno che la luce della grazia venga nuovamente riversata su di lui, come se lo spirito venisse infuso in un corpo morto al fine della sua risurrezione.
+
+Risposta all’Obiezione 3: Quando la natura è perfetta, può essere ripristinata da sola nella sua condizione appropriata e proporzionata; ma senza aiuto esterno non può essere riportata a uno stato che superi i limiti della sua natura. E così, la [natura umana](/axes/human_nature), corrotta a causa del peccato, non è più perfetta, ma è decaduta, come già detto sopra (Q[85]); inoltre, non può essere ripristinata da sola nel suo bene innato, tanto meno nel bene soprannaturale della giustizia.
 
 <span class="atom-split" data-atom="010" data-title="Whether man without grace can avoid sin?" data-chapter="Whether man without grace can avoid sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -519,6 +653,25 @@ Reply to Objection 3: As Augustine says (Hypognosticon iii [*Among the spurious 
 St. Augustine]), this saying is to be understood of man in the state of perfect nature, when as yet
 he was not a slave of sin. Hence he was able to sin and not to sin. Now, too, whatever a man wills,
 is given to him; but his willing good, he has by God's assistance.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che, senza la grazia divina, l’uomo possa evitare il peccato. Poiché “nessuno pecca in ciò che non può evitare”, come afferma [Agostino](/figures/augustine) (De Duab. Anim. x, xi; De Libero Arbit. iii, 18). Pertanto, se un uomo che si trova in peccato mortale non può evitarlo, sembrerebbe che, commettendo quel peccato, in realtà non lo stia commettendo, il che è impossibile.
+
+Obiezione 2: Inoltre, gli uomini vengono corretti affinché non peccino. Pertanto, se un uomo che si trova in peccato mortale non può evitare di peccare, la correzione sembrerebbe priva di senso; il che è assurdo.
+
+Obiezione 3: Inoltre, è scritto (Ecclesiaste 15:18): “Prima dell’uomo esistono la vita e la morte, il bene e il male; ciò che egli sceglierà gli sarà dato”. Ma peccando, nessuno smette di essere uomo. Pertanto è ancora in suo potere scegliere tra il bene e il male; quindi l’uomo può evitare il peccato anche senza la grazia.
+
+Al contrario, Agostino afferma (De Perfecta Justitia, xxxi): “Chi nega che dovremmo recitare la preghiera ‘Non indurci in tentazione’ (e lo negano coloro che sostengono che l’aiuto della grazia di Dio non sia necessario all’uomo per la salvezza, ma che il dono della legge sia sufficiente alla volontà umana) dovrebbe senza dubbio essere allontanato da ogni ascolto e anatematizzato dalle bocche di tutti.”
+
+Rispondo che l’uomo può essere considerato in due modi: innanzitutto, nello stato di natura perfetta; in secondo luogo, nello stato di natura corrotta. Nello stato di natura perfetta, l’uomo, senza la grazia abituale, avrebbe potuto evitare sia i peccati mortali che quelli veniali; infatti, peccare significa semplicemente allontanarsi da ciò che è conforme alla nostra natura, e nello stato di natura perfetta l’uomo avrebbe potuto evitarlo. Tuttavia, non avrebbe potuto farlo senza l’aiuto di Dio, il quale lo sostiene nel bene; altrimenti anche la sua natura sarebbe ricaduta nel nulla. Nello stato di natura corrotta, invece, l’uomo ha bisogno della grazia per guarire la propria natura e poter astenersi completamente dal peccato. Nella vita presente, questa guarigione avviene nella mente, poiché il desiderio carnale non è ancora stato restaurato. Per questo motivo l’Apostolo (Romani 7:25), parlando di una persona che è stata restaurata alla grazia divina, dice: “Io stesso, con la mente, servo la legge di Dio, ma con il corpo, la legge del peccato”. In questo stato, l’uomo può astenersi da tutti i peccati mortali, che hanno origine nella sua ragione; ma non può astenersi da tutti i peccati veniali a causa della corruzione del suo desiderio sensuale. Infatti, l’uomo può certamente reprimere ciascuno di questi movimenti (e quindi essi sono peccaminosi e volontari), ma non tutti; poiché mentre resiste a uno, un altro può sorgere, e inoltre la ragione è sempre attenta ad evitare tali movimenti. Prima che la ragione umana, nella quale risiede il peccato mortale, venga restaurata dalla grazia della giustificazione, l’uomo può astenersi da ogni singolo peccato mortale, almeno per un certo periodo di tempo; poiché non è necessario che pechi costantemente. Tuttavia, non è possibile che rimanga a lungo senza commettere alcun peccato mortale. Per questo motivo Gregorio dice (Super Ezio, Omelia xi) che “un peccato che non viene immediatamente eliminato dal pentimento ci trascina verso altri peccati”; e ciò perché, così come il desiderio sensuale dovrebbe essere sottomesso alla ragione, anche la ragione dovrebbe essere sottomessa a Dio e porre in Lui lo scopo della propria volontà. Tutti gli atti umani dovrebbero infatti essere regolati da questo scopo, così come i movimenti del desiderio sensuale dovrebbero essere guidati dal giudizio della ragione. E poiché i movimenti incontrollati del desiderio sensuale sono inevitabili, dato che tale desiderio non è sottomesso alla ragione, allo stesso modo, poiché la ragione umana non è completamente sottomessa a Dio, ne derivano molte distorsioni nel pensiero. Quando il cuore dell’uomo non è fissato su Dio al punto di non volersi allontanare da Lui per cercare il bene o evitare il male, accadono molte cose che lo portano a allontanarsi da Dio e a violare i Suoi comandamenti, commettendo così peccati mortali; soprattutto quando, preso alla sprovvista, l’uomo agisce secondo i propri desideri preesistenti o abitudini. Anche se, con la premeditazione della ragione, un uomo può compiere certi atti.
+Al di fuori dell’ordine del fine prestabilito e della tendenza delle sue [abitudini](/concepts/custom). Tuttavia, poiché un uomo non può sempre avere questa premeditazione, è inevitabile che agisca in accordo con una volontà deviata da Dio, a meno che, per grazia, non venga rapidamente ricondotto all’ordine giusto.
+
+Risposta all’Obiezione 1: L’uomo può evitare ogni singolo atto di peccato, tranne quelli che richiedono la grazia divina, come già detto in precedenza. Tuttavia, poiché è a causa delle proprie debolezze che non si prepara ad accogliere la grazia, il fatto che non possa evitare il peccato senza di essa non lo scusa dal commetterlo.
+
+Risposta all’Obiezione 2: La correzione è utile “affinché, dal dolore derivante dalla correzione, possa nascere il desiderio di rinnovarsi; se infatti colui che viene corretto è un figlio della promessa, in tal modo che, mentre il suono della correzione risuona esteriormente e punisce, Dio, con ispirazioni nascoste, suscita interiormente il desiderio di cambiare”, come afferma Agostino (De Corr. et Gratia vi). La correzione è quindi necessaria, poiché la volontà umana è indispensabile per astenersi dal peccato; tuttavia non è sufficiente senza l’aiuto di Dio. Per questo si legge nell’Ecclesiaste (7:14): “Considera le opere di Dio: nessun uomo può correggere colui che Egli ha disprezzato”.
+
+Risposta all’Obiezione 3: Come afferma Agostino (Hypognosticon iii, *Tra le opere false di Sant’Agostino*), questa affermazione va intesa dell’uomo nello stato della natura perfetta, quando ancora non era schiavo del peccato. Pertanto, era in grado sia di peccare che di non peccare. Anche oggi, tutto ciò che un uomo desidera gli viene concesso; ma il compiere volontariamente il bene è possibile grazie all’aiuto di Dio.
 
 <span class="atom-split" data-atom="011" data-title="Whether one who has already obtained grace, can, of himself and without further help of grace, do good and avoid sin?" data-chapter="Whether one who has already obtained grace, can, of himself and without further help of grace, do good and avoid sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -623,6 +776,22 @@ which the flesh was not rebellious against the spirit, than it is now. For the r
 grace, although it is already begun in the mind, is not yet completed in the flesh, as it will be in
 heaven, where man will not merely be able to persevere but will be unable to sin.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’uomo dotato di grazia non abbia bisogno di alcun aiuto per perseverare. Infatti, la perseveranza è qualcosa di inferiore alla virtù, proprio come lo è la continenza, come risulta chiaramente dal Filosofo (Etica vii, 7, 9). Poiché l’uomo viene giustificato per mezzo della grazia, non ha bisogno di alcun ulteriore aiuto da essa per possedere le virtù. Molto meno, quindi, ha bisogno dell’aiuto della grazia per perseverare.
+
+Obiezione 2: Inoltre, tutte le virtù vengono infuse contemporaneamente. Ma la perseveranza è considerata una virtù a sé stante. Pertanto, sembra che, insieme alla grazia, anche la perseveranza venga conferita alle altre virtù infuse.
+
+Obiezione 3: Inoltre, come afferma l’Apostolo (Romani 5:20), attraverso il dono di Cristo all’uomo è stato restituito molto di ciò che aveva perso a causa del peccato di Adamo. Tuttavia, Adamo ricevette ciò che gli permise di perseverare; pertanto, l’uomo non ha bisogno della grazia per poter perseverare.
+
+Al contrario, [Agostino](/figures/augustine) afferma (De Persev. ii): “Perché chiedere a Dio la perseveranza, se non è Lui stesso a donarla? Non è forse una richiesta assurda cercare ciò che sappiamo bene non sia in Suo potere di concedere, e ciò che invece è a nostra disposizione senza il Suo intervento?” Anche coloro che sono santificati dalla grazia chiedono la perseveranza; questo si evince quando diciamo “Sia santificato il Tuo nome”, e Agostino lo conferma con le parole di Cipriano (De Correp. et Grat. xii). Pertanto, anche l’uomo, pur possedendo la grazia, ha bisogno della perseveranza che Dio deve donargli.
+
+Rispondo che la perseveranza può essere intesa in tre modi. Primo, come un’abitudine mentale mediante la quale una persona rimane ferma e immobile di fronte agli assalti della tristezza riguardo a ciò che è virtuoso; in questo senso, la perseveranza è alla tristezza ciò che la continenza è alla concupiscenza e al piacere, come afferma il Filosofo (Etica, vii, 7). Secondo, la perseveranza può essere considerata un’abitudine attraverso la quale una persona si impegna a perseverare nel bene fino alla fine. In entrambi questi casi, la perseveranza è donata insieme alle altre virtù grazie divine. Terzo, la perseveranza è definita come l’attitudine di rimanere fedeli al bene per tutta la durata della vita. Per possedere questa perseveranza, non è necessaria alcuna altra grazia abituale; tuttavia è indispensabile l’aiuto divino che guidi e protegga una persona dagli assalti delle passioni, come emerge dal discorso precedente. Pertanto, anche dopo essere stati giustificati per mezzo della grazia, le persone hanno ancora bisogno di pregare Dio affinché conceda loro questa virtù della perseveranza, in modo da essere salvate dal male fino alla fine dei loro giorni. Infatti, a molti viene data la grazia, ma non anche la capacità di perseverare nella rettitudine.
+
+Risposta all’Obiezione 1: Questa obiezione riguarda il primo modo di perseveranza, così come la seconda obiezione riguarda il secondo modo. Pertanto, la soluzione alla seconda obiezione è ovvia.
+
+Risposta all’Obiezione 3: Come afferma Agostino (De [Natura](/concepts/nature) et [Gratia](/concepts/grace) xliii) [*Cfr. De Correp. et Grat. xii*]: “Nello stato originale, l’uomo ricevette un dono che gli permetteva di perseverare, ma non fu dato anche il potere stesso di perseverare. Oggi, però, grazie alla grazia di Cristo, molti ricevono sia il dono della grazia che consente loro di perseverare, sia anche la capacità concreta di farlo”; pertanto il dono di Cristo è più grande del peccato originale di Adamo. Tuttavia, per l’uomo era più facile perseverare, nel stato di innocenza in cui il corpo non era ribelle allo spirito, rispetto a quanto avviene oggi. Poiché la restaurazione operata dalla grazia di Cristo, sebbene abbia già iniziato nell’anima, non è ancora completa nel corpo; ma lo sarà in cielo, dove l’uomo non solo sarà in grado di perseverare, ma non potrà più peccare.
+
 <span class="atom-split" data-atom="013" data-title="OF THE GRACE OF GOD AS REGARDS ITS ESSENCE (FOUR ARTICLES)" data-chapter="OF THE GRACE OF GOD AS REGARDS ITS ESSENCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the grace of God as regards its essence; and under this head there are
@@ -631,6 +800,14 @@ four points of inquiry:
 (2) Whether grace is a quality?
 (3) Whether grace differs from infused virtue?
 (4) Of the subject of grace.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la grazia di Dio in relazione alla sua essenza; e sotto questo aspetto vi sono quattro punti da esaminare:  
+(1) Se la grazia implichi qualcosa nell’anima;  
+(2) Se la grazia sia una qualità;  
+(3) Se la grazia differisca dalla virtù infusa;  
+(4) Chi sia il soggetto della grazia.
 
 <span class="atom-split" data-atom="014" data-title="Whether grace implies anything in the soul?" data-chapter="Whether grace implies anything in the soul?" data-kind="atom" data-srclang="en"></span>
 
@@ -699,6 +876,24 @@ the remission of sins." Not only grace, therefore, but many other of God's gifts
 And hence the remission of sins does not take place without some effect divinely caused in us, as
 will appear later (Q[113], A[2]).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la grazia non implichi nulla nell’anima dell’uomo. Infatti, si dice che l’uomo possieda sia la grazia di Dio che quella umana. Per questo motivo è scritto (Genesi 39:21) che il Signore concesse a Giuseppe “favore agli occhi del capo carceriere”. Ora, quando diciamo che un uomo gode del favore di un altro, ciò non implica nulla in colui che riceve tale favore, ma indica soltanto l’accettazione da parte di chi lo concede. Pertanto, quando affermiamo che un uomo possiede la grazia di Dio, ciò non significa nulla riguardo alla sua anima; si tratta semplicemente di indicare l’accettazione divina da parte di Dio.
+
+Obiezione 2: Inoltre, così come l’anima vivifica il corpo, anche Dio vivifica l’anima; per questo si legge (Deuteronomio 30:20): “Lui è la tua vita”. Ora, l’anima vivifica il corpo immediatamente. Pertanto, nulla può fungere da intermediario tra Dio e l’anima. Di conseguenza, la grazia non implica nulla di creato nell’anima stessa.
+
+Obiezione 3: Inoltre, riguardo a Romani 1:7, “Grazia a voi e pace”, il commento afferma: “Grazia, cioè la remissione dei peccati”. Ora, la remissione dei peccati non implica nulla nell’anima, ma soltanto in Dio, Il quale non imputa i peccati, secondo il Salmo 31:2: “Beato l’uomo a cui il Signore non ha imputato peccato”. Pertanto, nemmeno la grazia implica nulla nell’anima.
+
+Al contrario, la luce implica qualcosa in ciò che viene illuminato. Ma la grazia è una luce dell’anima; per questo [Agostino](/figures/augustine) afferma (De [Natura](/concepts/nature) et [Gratia](/concepts/grace) xxii): “La luce della verità abbandona senza esitazione chi viola la legge, e coloro che vengono così abbandonati diventano ciechi”. Pertanto, la grazia implica qualcosa nell’anima.
+
+Rispondo che, secondo il modo comune di esprimersi, la grazia viene solitamente intesa in tre modi. Primo, in riferimento all’amore che qualcuno prova per un’altra persona; si dice ad esempio che un soldato sia nelle buone grazie del re, il che significa che il re lo tratta con favore. Secondo, la grazia può indicare un dono offerto liberamente; si dice ad esempio: “Ti faccio questo atto di grazia”. Terzo, la grazia può essere intesa come ricompensa per un dono ricevuto gratuitamente; si dice infatti che si sia “grati” per i benefici ottenuti. Di questi tre significati, il secondo dipende dal primo: qualcuno dona qualcosa liberamente perché prova amore per la persona a cui dona. Il terzo deriva dal secondo, poiché il sentimento di gratitudine nasce dai benefici ricevuti gratuitamente. Per quanto riguarda gli ultimi due significati, è chiaro che la grazia implica qualcosa nella persona che la riceve: innanzitutto, il dono stesso offerto gratuitamente; in secondo luogo, il riconoscimento di tale dono. Tuttavia, per quanto riguarda il primo significato, bisogna fare una distinzione tra la grazia di Dio e quella dell’uomo: poiché il bene della creatura deriva dalla volontà divina, un certo bene nella creatura scaturisce dall’amore di Dio, che desidera il suo bene. Dall’altra parte, la volontà umana è influenzata dal bene già esistente nelle cose; pertanto l’amore umano non è la causa totale del bene della cosa, ma lo presuppone in parte o completamente. È quindi chiaro che ogni amore di Dio comporta, in un certo momento, il verificarsi di un bene nella creatura, ma questo bene non è co-eterno con l’amore divino stesso. E a seconda di questa differenza nel modo in cui il bene viene donato, si può considerare diversamente l’amore di Dio per la creatura: c’è un amore universale, con cui Dio ama “tutte le cose che sono” (Sapienza 11:25) e dà loro l’esistenza naturale; ma c’è anche un amore particolare, con cui Dio porta la creatura razionale al di sopra delle condizioni della sua natura, permettendole di partecipare al bene divino. Per questo motivo, quando si dice che una persona ha la grazia di Dio, ciò indica che Dio le ha donato qualcosa. Tuttavia, a volte la grazia di Dio indica anche il suo amore eterno; si parla ad esempio della grazia della predestinazione, poiché Dio predestina e sceglie alcune persone gratuitamente, senza considerare i loro meriti; come scrive Efesini 1:5: “Ci ha predestinati alla figliolanza per la lode della gloria della sua grazia”.
+
+Risposta all’Obiezione 1: Anche quando si dice che un uomo è nelle buone grazie di un altro, ciò significa che vi è qualcosa in lui che piace a quell’altro; allo stesso modo, si dice che qualcuno possieda la grazia di Dio. La differenza sta nel fatto che ciò che piace a un uomo in un altro è presupposto come frutto del suo amore, mentre ciò che piace a Dio in un uomo è causato dall’amore divino, come già detto in precedenza.
+
+Risposta all’Obiezione 2: Dio è la vita dell’anima nel senso di una [causa efficace](/concepts/four_causes); ma l’anima è la vita del corpo nel senso di una causa formale. Ora non esiste alcun intermediario tra forma e materia, poiché la forma, in sé stessa, “informa” la materia; mentre l’agente che “informa” la materia lo fa non attraverso la propria sostanza, ma attraverso la forma che induce nella materia.
+
+Risposta all’Obiezione 3: Agostino afferma (Retractationes, I, 25): “Quando ho detto che la grazia serve alla remissione dei peccati e la pace alla nostra riconciliazione con Dio, non dovete intendere che pace e riconciliazione si riferiscano soltanto alla remissione dei peccati, ma che il nome specifico di ‘grazia’ indichi proprio questa funzione”. Pertanto, non solo la grazia, ma anche molti altri doni di Dio sono legati alla grazia stessa. E da ciò deriva che la remissione dei peccati non avviene senza un effetto divino che agisce in noi, come verrà chiarito più avanti (Q[113], A[2]).
+
 <span class="atom-split" data-atom="015" data-title="Whether grace is a quality of the soul?" data-chapter="Whether grace is a quality of the soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that grace is not a quality of the soul. For no quality acts on its
@@ -756,6 +951,24 @@ into being or is corrupted, but is said to come into being and to be corrupted i
 begins or ceases to be in act with this accident. And thus grace is said to be created inasmuch as
 men are created with reference to it, i.e. are given a new being out of nothing, i.e. not from merits,
 according to Eph. 2:10, "created in Jesus Christ in good works."
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la grazia non sia una qualità dell’anima. Infatti, nessuna qualità agisce sul proprio soggetto, poiché l’azione di una qualità è impossibile senza l’intervento del soggetto stesso; quindi il soggetto dovrebbe necessariamente agire su se stesso. Ma la grazia agisce sull’anima, giustificandola. Pertanto, la grazia non è una qualità.
+
+Obiezione 2: Inoltre, la sostanza è più nobile della qualità. Ma la grazia è ancora più nobile della natura stessa dell’anima, poiché con la grazia possiamo compiere molte cose alle quali la natura non è in grado di arrivare, come già detto sopra (Q[109], AA[1],2,3). Pertanto, la grazia non è una qualità.
+
+Obiezione 3: Inoltre, nessuna qualità rimane dopo che ha cessato di esistere nel suo soggetto. Ma la grazia rimane; poiché non viene corrotta – altrimenti verrebbe ridotta a nulla, essendo stata creata dal nulla – per questo viene chiamata “nuova creatura” (Galati 6:15).
+
+Al contrario, in Salmo 103:15 (“Affinché il suo volto si rallegri con l’olio”), la glossa afferma: “La grazia è una certa [bellezza](/concepts/beauty) dell’anima che conquista l’amore divino”. Ma la bellezza dell’anima è una qualità, proprio come la bellezza del corpo. Pertanto, anche la grazia è una qualità.
+
+Rispondo che, come già detto sopra (A[1]), si intende che esista un effetto della volontà gratuita di Dio in coloro che sono considerati possessori della sua grazia. È stato inoltre affermato (Q[109], A[1]) che l’uomo viene aiutato dalla volontà gratuita di Dio in due modi: innanzitutto, nel senso in cui l’anima umana è spinta da Dio a conoscere, volere o compiere qualcosa; in questo caso, l’effetto della volontà gratuita di Dio non costituisce una qualità dell’anima stessa, ma piuttosto un movimento interno ad essa, poiché “il movimento è l’azione del motore sul mobile”. In secondo luogo, l’uomo viene aiutato dalla volontà gratuita di Dio anche nel senso in cui Dio infonde nell’anima doni che ne favoriscono lo sviluppo; non sarebbe infatti appropriato che Dio fornisse meno a coloro che ama, affinché possano acquisire beni soprannaturali, rispetto a creature che ama ugualmente, ma di cui desidera soltanto il bene naturale. Per quanto riguarda queste ultime, Dio non si limita a spingerle verso azioni naturali, ma conferisce loro anche determinate forme e poteri, che ne fanno le basi per compiere tali azioni in modo spontaneo; così i movimenti che Dio induce in esse diventano naturali e facili da realizzare. Ciò è espressamente indicato nella Sapienza 8:1: “Lei, dispone tutte le cose con grazia”. Ancor di più, per coloro che Dio guida verso l’acquisizione del bene soprannaturale, Egli infonde forme o qualità soprannaturali, che permettono loro di essere spinti da Lui in modo dolce e rapido verso il bene eterno; ed è proprio per questo che il dono della grazia può essere considerato una vera e propria qualità umana.
+
+Risposta all’Obiezione 1: La grazia, in quanto qualità, agisce sull’anima non nel modo di una [causa efficiente](/concepts/four_causes), ma nel modo di una causa formale; così come la bianchezza rende qualcosa bianco e la giustizia rende qualcosa giusto.
+
+Risposta all’Obiezione 2: Ogni sostanza è o la natura della cosa di cui costituisce la sostanza, oppure una parte di tale natura; così come materia e forma vengono definite sostanze. Poiché la grazia si trova al di sopra della [natura umana](/axes/human_nature), essa non può essere considerata una sostanza né una [forma sostanziale](/concepts/forma_substantialis), ma piuttosto una forma accidentale dell’anima. Ciò che è essenzialmente presente in Dio diventa accidentale nell’anima che partecipa alla bontà divina, come è evidente nel caso della conoscenza. Poiché l’anima partecipa alla bontà divina in modo imperfetto, anche la grazia, che rappresenta questa partecipazione, esiste nell’anima in modo meno perfetto rispetto al modo in cui l’anima stessa esiste in sé. Tuttavia, poiché la grazia è l’espressione o la partecipazione della bontà divina, essa è più nobile della natura stessa dell’anima, anche se non nel suo stesso modo di essere.
+
+Risposta all’Obiezione 3: Come afferma Boezio nel [*Pseudo-Bede, Sentenze filosofiche secondo l’Arte], “l’esistenza di un accidente consiste nel fatto che esso è intrinseco a qualcosa”. Pertanto, nessun accidente viene definito “essere” nel senso che possieda realmente un’esistenza autonoma, ma perché grazie ad esso qualcos’altro esiste. Per questo motivo si dice che un accidente appartiene a un essere, piuttosto che essere esso stesso un essere (Metafisica vii, testo 2). Inoltre, poiché il diventare e il corrompersi sono caratteristiche di ciò che esiste in senso proprio, nessun accidente viene effettivamente creato o distrutto; si dice invece che entri in essere o venga corrotto nel momento in cui il suo soggetto inizia o smette di possederlo. Così pure la grazia può essere considerata “creata”, nel senso che gli uomini vengono donati una nuova esistenza, non a partire dai loro meriti, ma in relazione a essa; come si legge in Efesini 2:10: “Sono stati creati in Cristo Gesù per compiere opere buone”.
 
 <span class="atom-split" data-atom="016" data-title="Whether grace is the same as virtue?" data-chapter="Whether grace is the same as virtue?" data-kind="atom" data-srclang="en"></span>
 
@@ -815,6 +1028,26 @@ Reply to Objection 3: Grace is reduced to the first species of quality; and yet 
 as virtue, but is a certain disposition which is presupposed to the infused virtues, as their principle
 and root.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la grazia sia la stessa cosa della virtù. Infatti, [Agostino](/figures/augustine) afferma (De Spiritu et Litera xiv) che “la grazia operante è la fede che agisce attraverso la carità”. Ma una fede che agisce attraverso la carità è una virtù. Pertanto, anche la grazia è una virtù.
+
+Obiezione 2: Inoltre, ciò che corrisponde alla definizione di virtù corrisponde effettivamente al concetto stesso di virtù. Tuttavia, le definizioni di virtù fornite da santi e filosofi si applicano anche alla grazia, poiché “la grazia rende il soggetto buono e le sue azioni buone”, e “è una qualità positiva dell’animo che ci permette di vivere rettamente”, ecc. Pertanto, la grazia è virtù.
+
+Obiezione 3: Inoltre, la grazia è una qualità. Ora è evidente che essa non appartiene alla “quarta” specie di qualità, ovvero alla “forma”, che rappresenta l’“aspetto permanente delle cose”, poiché la grazia non riguarda i corpi. Né appartiene alla “terza” specie, poiché non è una “passione né una qualità simile a una passione”, come quelle presenti nella parte sensibile dell’anima, come dimostrato nel Physica viii; inoltre, la grazia ha principalmente sede nell’intelletto. Né appartiene alla “seconda” specie di qualità, ovvero alla “forza naturale” o all’“impotenza”, poiché la grazia trascende la natura e non riguarda il bene e il male, a differenza della forza naturale. Pertanto, deve appartenere alla “prima” specie di qualità, ovvero alle “abitudini” o alle “disposizioni”. Ora, le abitudini dell’intelletto sono virtù; poiché anche la conoscenza stessa, in un certo senso, è considerata una virtù, come già detto sopra (Q[57], AA[1],2). Pertanto, la grazia è la stessa cosa della virtù.
+
+Al contrario, se la grazia fosse una virtù, sembrerebbe senz’altro appartenere alle tre virtù teologali. Ma la grazia né è fede né speranza, poiché queste possono esistere anche senza la grazia santificante; né è carità, poiché “la grazia precede la carità”, come afferma Agostino nel suo libro sulla [Predestinazione](/concepts/predestination) dei Santi (De Dono Persev. xvi). Pertanto, la grazia non è una virtù.
+
+Rispondo che alcuni ritenevano che grazia e virtù fossero identiche in essenza, e si differenziassero soltanto logicamente: si parlava di grazia nel senso in cui rende l’uomo gradito a Dio o viene concessa gratuitamente; si parlava invece di virtù nel senso in cui ci permette di agire rettamente. Sembra che anche il Maestro abbia condiviso questa opinione (Sentenze, ii, D 27).  
+Ma se si considera attentamente la natura della virtù, questa tesi non regge, poiché, come afferma il Filosofo (Fisica, vii, testo 17), “la virtù è una disposizione di ciò che è perfetto; e chiamo perfetto ciò che è disposto secondo la sua natura”. Da questo si deduce chiaramente che la virtù di un essere ha riferimento a una natura preesistente, poiché tutto è disposto in modo da corrispondere alla propria natura. Tuttavia, le virtù acquisite attraverso azioni umane sono disposizioni che permettono all’uomo di agire in modo conforme alla sua natura umana; mentre le virtù infuse lo predispongono in modo più elevato e verso un fine più alto, cioè in relazione a una natura superiore, ovvero alla partecipazione della Natura Divina, come si legge in 2 Pietro 1:4: “Ci ha dato promesse grandissime e preziose; attraverso di esse possiamo diventare partecipi della Natura Divina”. Ed è proprio nel ricevere questa natura che si dice che veniamo rigenerati, diventando figli di Dio.  
+Così come la luce naturale della ragione è qualcosa di diverso dalle virtù acquisite, destinate a essere utilizzate in relazione a quella luce, allo stesso modo la luce della grazia, che rappresenta una partecipazione alla Natura Divina, è qualcosa di diverso dalle virtù infuse, derivate da essa e destinate ad essere guidate da tale luce. Per questo motivo l’Apostolo afferma (Efesini 5:8): “Voi eravate prima nell’oscurità, ma ora siete nella luce del Signore; camminate quindi come figli della luce”. Poiché le virtù acquisite permettono all’uomo di agire in accordo con la luce naturale della ragione, le virtù infuse lo permettono invece di agire in modo conforme alla luce della grazia.
+
+Risposta all’Obiezione 1: Agostino definisce “fede che opera attraverso la carità” grazia, poiché l’atto di fede di colui che agisce con carità è il primo atto attraverso cui si manifesta la grazia santificante.
+
+Risposta all’Obiezione 2: Il bene viene incluso nella definizione della virtù in relazione alla sua adattabilità a una qualche natura preesistente, essenziale o condivisa dall’uomo. Ora, il bene non viene attribuito alla grazia in questo modo, ma piuttosto in relazione alla radice stessa del bene nell’uomo, come già detto sopra.
+
+Risposta all’Obiezione 3: La grazia viene ridotta alla prima specie di qualità; eppure non è la stessa cosa della virtù, bensì una certa disposizione che costituisce il principio e la radice delle virtù infuse.
+
 <span class="atom-split" data-atom="017" data-title="Whether grace is in the essence of the soul as in a subject, or in one of the powers?" data-chapter="Whether grace is in the essence of the soul as in a subject, or in one of the powers?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that grace is not in the essence of the soul, as in a subject, but in
@@ -870,6 +1103,26 @@ species, the soul cannot be without them. Yet, granted that it was without them,
 be called intellectual or rational in its species, not that it would actually have these powers, but on
 account of the essence of such a species, from which these powers naturally flow.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la grazia non sia nell’essenza dell’anima, come in un soggetto, ma in una delle sue facoltà. Infatti, [Agostino](/figures/augustine) afferma (nello Hypognosticon iii, tra le opere spurie di Sant’Agostino) che la grazia è legata alla volontà o al [libero arbitrio](/positions/free_will) “come un cavaliere al proprio cavallo”. Ora, la volontà o il libero arbitrio sono senz’altro delle facoltà dell’anima, come già detto (FP, Q[83], A[2]). Pertanto, la grazia si trova in una facoltà dell’anima, e non nell’essenza stessa di essa.
+
+Obiezione 2: Inoltre, “Il merito umano deriva dalla grazia”, come afferma Agostino (De [Gratia](/concepts/grace) et Lib. Arbit. vi). Ora, il merito consiste in azioni che derivano da una determinata capacità o potenza dell’anima. Pertanto, sembra che la grazia rappresenti una perfezione di tale capacità.
+
+Obiezione 3: Inoltre, se l’essenza dell’anima è il soggetto proprio della grazia, allora l’anima, in quanto possiede un’essenza, deve essere capace di ricevere la grazia. Ma ciò è falso; infatti ne conseguirebbe che ogni anima sia capace di ricevere la grazia. Pertanto, l’essenza dell’anima non è il soggetto proprio della grazia.
+
+Obiezione 4: Inoltre, l’essenza dell’anima è anteriore alle sue facoltà. Ora ciò che è anteriore può essere compreso senza ricorrere a ciò che è posteriore. Pertanto, si può ritenere che la grazia esista nell’anima, anche se non supponiamo che vi sia alcuna parte o facoltà dell’anima – né la volontà, né l’intelletto, né nulla altro – il che è impossibile.
+
+Al contrario, per grazia nasciamo di nuovo figli di Dio. Tuttavia, la generazione si arresta all’essenza precedente alle facoltà; pertanto, la grazia appartiene all’essenza dell’anima, prima ancora che a queste sue facoltà.
+
+Rispondo che questa domanda dipende da quanto precede. Poiché se la grazia è identica alla virtù, allora essa deve necessariamente trovarsi nelle facoltà dell’anima, in quanto queste ne sono il soggetto appropriato, come già detto sopra (Q[56], A[1]). Ma se la grazia differisce dalla virtù, non si può affermare che una qualche facoltà dell’anima sia il soggetto della grazia, poiché ogni perfezione delle facoltà dell’anima ha la natura di virtù, come ancora osservato sopra (Q[55], A[1]; Q[56], A[1]). Pertanto, rimane che la grazia, in quanto precede la virtù, abbia un soggetto che è anteriore alle stesse facoltà dell’anima; quindi essa si trova nell’essenza stessa dell’anima. Poiché l’uomo, attraverso le sue facoltà intellettive, partecipa alla conoscenza divina grazie alla virtù della fede, e attraverso la sua volontà partecipa all’amore divino grazie alla virtù della carità, allo stesso modo, nella natura stessa dell’anima, l’uomo partecipa alla Natura Divina, in modo simile a una somiglianza, attraverso una sorta di rigenerazione o ricreazione.
+
+Risposta all’Obiezione 1: Così come dall’essenza dell’anima derivano le sue facoltà, che sono i principi delle azioni umane, allo stesso modo anche le virtù, che spingono queste facoltà ad agire, provengono dalla grazia. Pertanto la grazia può essere paragonata alla volontà come al motore rispetto a ciò che viene mosso; è lo stesso rapporto esistente tra il cavaliere e il cavallo – ma non come un attributo accidentale rispetto al soggetto su cui si esercita. In questo modo si chiarisce anche la Risposta alla Seconda Obiezione: poiché la grazia è il principio delle opere meritevoli, attraverso il mezzo delle virtù, così come l’essenza dell’anima è il principio delle azioni vitali, attraverso il mezzo delle facoltà umane.
+
+Risposta all’Obiezione 3: L’anima è soggetto della grazia, poiché appartiene alla specie di natura intellettuale o razionale. Tuttavia, l’anima non viene classificata in alcuna specie in base alle sue facoltà, poiché queste sono proprietà naturali dell’anima che derivano dalla sua stessa specie. Pertanto, l’anima si differenzia specificamente per essenza dalle altre anime, come quelle degli animali muti e delle piante. Di conseguenza, non si può dedurre che, poiché l’essenza dell’anima umana è soggetto della grazia, ogni anima possa essere soggetto della grazia; questa caratteristica appartiene infatti all’essenza stessa dell’anima, in quanto essa appartiene a una determinata specie.
+
+Risposta all’Obiezione 4: Poiché le facoltà dell’anima sono proprietà naturali che derivano dalla sua essenza specifica, l’anima non può essere priva di esse. Tuttavia, anche ammettendo che fosse priva di tali facoltà, essa continuerebbe comunque a essere definita “intelligente” o “razionale” in base alla sua specie; ciò non significa che possedesse effettivamente queste capacità, ma deriva semplicemente dall’essenza stessa di tale specie, dalla quale tali facoltà scaturiscono naturalmente.
+
 <span class="atom-split" data-atom="018" data-title="OF THE DIVISION OF GRACE (FIVE ARTICLES)" data-chapter="OF THE DIVISION OF GRACE (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the division of grace; under which head there are five points of inquiry:
@@ -878,6 +1131,15 @@ We must now consider the division of grace; under which head there are five poin
 (3) Of the division of it into prevenient and subsequent grace;
 (4) Of the division of gratuitous grace;
 (5) Of the comparison between sanctifying and gratuitous grace.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la divisione della grazia; sotto questa categoria esistono cinque punti di indagine:  
+(1) Se la grazia possa essere correttamente divisa in grazia gratuita e grazia santificante;  
+(2) La divisione tra grazia operante e grazia cooperante;  
+(3) La divisione tra grazia preventiva e grazia successiva;  
+(4) La specifica della grazia gratuita;  
+(5) Il confronto tra grazia santificante e grazia gratuita.
 
 <span class="atom-split" data-atom="019" data-title="Whether grace is fittingly divided into sanctifying grace and gratuitous grace?" data-chapter="Whether grace is fittingly divided into sanctifying grace and gratuitous grace?" data-kind="atom" data-srclang="en"></span>
 
@@ -933,6 +1195,26 @@ Reply to Objection 3: Sanctifying grace adds to the notion of gratuitous grace s
 pertaining to the nature of grace, since it makes man pleasing to God. And hence gratuitous grace
 which does not do this keeps the common name, as happens in many other cases; and thus the two
 parts of the division are opposed as sanctifying and non-sanctifying grace.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la grazia non possa essere correttamente divisa in grazia santificante e grazia gratuita. Infatti, la grazia è un dono di Dio, come risulta chiaramente da quanto già detto (Q[110], A[1]). Tuttavia, l’uomo non è gradito a Dio solo perché gli viene dato qualcosa da Lui, ma al contrario: poiché qualcosa gli viene dato liberamente da Dio, è proprio perché l’uomo Gli è gradito. Pertanto, non esiste una grazia santificante.
+
+Obiezione 2: Inoltre, tutto ciò che non viene concesso in base a meriti precedenti viene dato gratuitamente. Anche il bene naturale viene infatti concesso all’uomo senza alcun merito pregresso, poiché la natura stessa è presupposta come condizione necessaria per tale dono. Pertanto, anche la natura stessa viene data gratuitamente da Dio. Ma la natura è condivisa con la grazia; quindi definire “gratuito” ciò che appartiene alla natura non sembra appropriato, poiché tale caratteristica si colloca al di fuori del genere stesso della grazia.
+
+Obiezione 3: Inoltre, i membri di una divisione sono reciprocamente opposti tra loro. Ma anche la grazia santificante, mediante la quale veniamo giustificati, ci viene concessa gratuitamente, come afferma Romani 3:24: “Essendo giustificati gratuitamente per la Sua grazia”. Pertanto, la grazia santificante non dovrebbe essere contrapposta alla grazia gratuita.
+
+Al contrario, l’Apostolo attribuisce entrambe le cose alla grazia, cioè al fatto di santificare e di essere donata gratuitamente. Per quanto riguarda il primo aspetto, egli dice (Efesini 1:6): “Ci ha colmato di grazia attraverso suo Figlio amato”. Per quanto riguarda il secondo aspetto, aggiunge (Romani 2:6): “Se dunque è per grazia, non è più per le opere; altrimenti la grazia non sarebbe più grazia”. Pertanto, si può distinguere la grazia in base al fatto che possieda uno solo di questi aspetti o entrambi.
+
+Rispondo che, come afferma l’Apostolo (Romani 13:1), “quelle cose che sono di Dio sono ben ordinate”. Ora, l’ordine delle cose consiste nel fatto che esse vengono guidate verso Dio da altre cose, come dice Dionigi di Atene (Coel. Hier. iv). Pertanto, poiché la grazia è destinata a guidare gli uomini verso Dio, ciò avviene secondo un certo ordine: alcuni vengono infatti guidati verso Dio da altri. Esistono quindi due tipi di grazia: una che permette all’uomo stesso di unirsi a Dio, e questa viene chiamata “grazia santificante”; l’altra che consente a un uomo di cooperare con un altro nel guidarlo verso Dio, e questo dono viene chiamato “grazia gratuita”, poiché viene concessa all’uomo al di là delle capacità naturali e dei meriti personali. Tuttavia, poiché questa grazia non ha lo scopo di giustificare l’uomo, ma piuttosto di permettergli di cooperare nella giustificazione di un altro, non viene chiamata “grazia santificante”. Di ciò parla anche l’Apostolo (1 Corinzi 12:7): “La manifestazione dello Spirito è data a ciascuno per il bene degli altri”.
+
+Risposta all’Obiezione 1: Si dice che la grazia renda qualcuno gradito a Dio, non in senso pratico o effettivo, ma in senso formale; cioè perché attraverso di essa un uomo viene giustificato e diventa degno di essere considerato gradito a Dio, secondo Colossesi 1:21: “Ci ha resi degni di partecipare alla sorte dei santi nella luce”.
+
+Risposta all’Obiezione 2: La grazia, in quanto concessa gratuitamente, esclude il concetto di debito.  
+Ora, il debito può essere inteso in due modi: primo, come derivante dal merito; in questo caso si riferisce alla persona che deve compiere opere meritevoli, secondo Romani 4:4: “Chi lavora, infatti, non riceve la ricompensa in base alla grazia, ma in base al debito”. Il secondo significato di debito riguarda la condizione naturale dell’uomo; si dice, ad esempio, che sia dovuto all’uomo possedere la ragione e tutto ciò che appartiene alla [natura umana](/axes/human_nature).  
+Tuttavia, in nessuno dei due casi il concetto di debito implica che Dio sia obbligato verso la sua creazione, ma piuttosto che la creatura debba sottomettersi a Dio affinché possa realizzarsi l’ordine divino: cioè affinché una determinata natura possieda certe condizioni o proprietà e, compiendo specifiche opere, possa raggiungere uno stato più elevato. Per questo motivo, i doni naturali non possono essere considerati un debito nel primo senso, ma soltanto nel secondo; ed è proprio per questa ragione che meritano particolarmente il nome di “grazia”.
+
+Risposta all’Obiezione 3: La grazia santificante aggiunge alla nozione di grazia gratuita qualcosa che riguarda la natura stessa della grazia, poiché rende l’uomo gradito a Dio. Pertanto, la grazia gratuita che non compie questo compito mantiene lo stesso nome comune, come avviene in molti altri casi; e così le due parti di questa distinzione vengono considerate rispettivamente “grazia santificante” e “grazia non santificante”.
 
 <span class="atom-split" data-atom="020" data-title="Whether grace is fittingly divided into operating and cooperating grace?" data-chapter="Whether grace is fittingly divided into operating and cooperating grace?" data-kind="atom" data-srclang="en"></span>
 
@@ -999,6 +1281,30 @@ intended, grace cooperates with us.
 
 Reply to Objection 4: Operating and cooperating grace are the same grace; but are distinguished
 by their different effects, as is plain from what has been said.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la grazia non possa essere correttamente suddivisa in grazia operante e grazia cooperante. Infatti, la grazia è un accidente, come detto sopra (Q[110], A[2]). Ora, nessun accidente può agire sul proprio soggetto; pertanto, nessuna grazia può essere definita “operante”.
+
+Obiezione 2: Inoltre, se la grazia opera qualcosa in noi, certamente porta alla giustificazione.  
+Ma non solo la grazia agisce in questo modo. Infatti, [Agostino](/figures/augustine) afferma, riflettendo su Giovanni 14:12: “Le opere che io faccio, anche lui le farà”, e aggiunge nel Sermone CLXIX: “Colui che ti ha creato senza di te, non ti giustificherà senza di te”.  
+Pertanto, nessuna grazia dovrebbe essere considerata semplicemente un fattore che agisce in noi.
+
+Obiezione 3: Inoltre, collaborare sembra riferirsi all’agente inferiore, e non all’agente principale. Ma la grazia opera in noi più della volontà libera, secondo Romani 9:16: “Non è dalla volontà di colui che vuole, né dall’azione di colui che corre, ma da Dio che mostra misericordia”. Pertanto, nessuna grazia dovrebbe essere definita “cooperante”.
+
+Obiezione 4: Inoltre, la divisione dovrebbe basarsi sull’opposizione. Ma operare e cooperare non sono contrari tra loro; infatti, la stessa cosa può sia operare che cooperare. Pertanto, la grazia non può essere adeguatamente divisa in “operante” e “cooperante”.
+
+Al contrario, Agostino afferma (De [Gratia](/concepts/grace) et Lib. Arbit. xvii): “Dio, collaborando con noi, perfeziona ciò che ha iniziato agendo su di noi; infatti Colui che perfeziona attraverso la cooperazione di coloro che sono disposti a collaborare, agisce affinché essi stessi desiderino farlo”. Ma le azioni di Dio mediante cui ci spinge verso il bene rientrano nella sfera della grazia. Pertanto, la grazia può essere opportunamente divisa in quelle che agiscono direttamente su di noi e in quelle che collaborano con le nostre volontà.
+
+Rispondo che, come già detto sopra (Q[110], A[2]), la grazia può essere intesa in due modi: in primo luogo, come un aiuto divino attraverso il quale Dio ci spinge a volere e ad agire; in secondo luogo, come un dono abituale conferito da Dio. In entrambi i casi, la grazia si divide opportunamente in “operante” e “cooperante”. L’effetto di un’azione, infatti, non viene attribuito alla cosa che viene mossa, ma al motore; pertanto, nell’effetto in cui è Dio l’unico motore, l’azione viene attribuita a Lui stesso, ed è in questo senso che si parla di “grazia operante”. Nell’effetto, invece, in cui sia la nostra volontà a muovere e ad essere mossa da Dio, l’azione viene attribuita sia a Dio che all’anima; ed è in questo senso che si parla di “grazia cooperante”. In noi esiste dunque un duplice atto: innanzitutto, l’atto interno della volontà, nel quale la volontà stessa è la cosa mossa e Dio il motore; soprattutto quando la volontà, che prima desiderava il male, inizia a desiderare il bene. Poiché è Dio ad animare la nostra volontà verso questo atto, si parla di “grazia operante”. Esiste inoltre un altro atto, esterno; poiché esso è comandato dalla volontà stessa, l’effetto di tale atto viene attribuito alla volontà. Poiché Dio ci assiste in questo atto, sia rafforzando interiormente la nostra volontà affinché possiamo compierlo, sia concedendoci esteriormente la capacità di agire, si parla di “grazia cooperante”. Dopo queste considerazioni, Agostino aggiunge: “Lui opera affinché noi possiamo volere; e quando vogliamo, Lui coopera affinché possiamo perfezionare”. Pertanto, se la grazia è intesa come il movimento gratuito di Dio che ci spinge verso il bene meritevole, si divide opportunamente in “grazia operante” e “grazia cooperante”. Ma se la grazia è intesa come un dono abituale conferito da Dio, allora esiste anch’essa un duplice effetto della grazia, proprio come per ogni altra forma di dono divino: il primo effetto è quello di rendere l’anima capace di compiere azioni meritevoli, mentre il secondo effetto consiste nell’aiutarla a realizzare tali azioni. L’effetto del calore, ad esempio, è quello di riscaldare la materia; allo stesso modo, la grazia abituale, poiché guarisce l’anima, la giustifica e la rende gradita a Dio, viene chiamata “grazia operante”; mentre poiché è il principio delle azioni meritevoli che derivano dalla libertà della volontà, viene chiamata “grazia cooperante”.
+
+Risposta all’Obiezione 1: Poiché la grazia è una qualità accidentale, essa non agisce sull’anima in modo efficace, ma soltanto formale, proprio come il bianco rende una superficie bianca.
+
+Risposta all’Obiezione 2: Dio non ci giustifica senza il nostro contributo, perché mentre veniamo giustificati, consentiamo alla sua azione di giustificazione attraverso un atto della nostra libera volontà. Tuttavia, questo atto non è la causa della grazia, ma ne è l’effetto; pertanto, l’intero processo appartiene alla sfera della grazia stessa.
+
+Risposta all’Obiezione 3: Si dice che una cosa coopera con un’altra non soltanto quando agisce in qualità di agente secondario rispetto a un agente principale, ma anche quando contribuisce al raggiungimento dello scopo prefissato. Ora, l’uomo è aiutato da Dio nel volere il bene, attraverso i mezzi offerti dalla grazia divina. Pertanto, poiché lo scopo è già previsto, la grazia coopera con noi nel realizzarlo.
+
+Risposta all’Obiezione 4: La grazia operante e la grazia cooperante sono la stessa grazia; tuttavia si distinguono per i loro effetti diversi, come è evidente da quanto detto finora.
 
 <span class="atom-split" data-atom="021" data-title="Whether grace is fittingly divided into prevenient and subsequent grace?" data-chapter="Whether grace is fittingly divided into prevenient and subsequent grace?" data-kind="atom" data-srclang="en"></span>
 
@@ -1179,6 +1485,25 @@ Reply to Objection 3: Feeling is ordained to reason, as to an end; and thus, to 
 But here it is the contrary; for what is proper is ordained to what is common as to an end. Hence
 there is no comparison.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la grazia gratuita sia più nobile della grazia santificante. Infatti, “il bene del popolo è superiore al bene individuale”, come afferma il Filosofo (Etica, i, 2). La grazia santificante, dunque, è destinata al bene di un singolo individuo, mentre la grazia gratuita è rivolta al bene comune di tutta la Chiesa, come già detto in precedenza (AA[1],4). Pertanto, la grazia gratuita è più nobile della grazia santificante.
+
+Obiezione 2: Inoltre, è una potenza maggiore quella che è in grado di agire su un altro oggetto, rispetto a quella che è confinata in se stessa; così come è maggiore la luminosità di un corpo che può illuminare altri corpi, rispetto a quella di un corpo che può soltanto brillare ma non illuminare. Per questo motivo il Filosofo afferma (Etica V, 1) che “la giustizia è la più eccellente delle virtù”, poiché grazie ad essa l’uomo si comporta correttamente verso gli altri. Tuttavia, con la grazia santificante l’uomo viene perfezionato soltanto in se stesso; mentre con la grazia gratuita l’uomo opera per la perfezione degli altri. Pertanto, la grazia gratuita è più nobile della grazia santificante.
+
+Obiezione 3: Inoltre, ciò che è proprio del migliore è più nobile di ciò che è comune a tutti; pertanto, il ragionamento, che è proprio dell’uomo, è più nobile della sensazione, che è comune a tutti gli animali. Ora, la grazia santificante è comune a tutti i membri della Chiesa, ma la grazia gratuita è il dono specifico dei membri più elevati della Chiesa. Pertanto, la grazia gratuita è più nobile della grazia santificante.
+
+Al contrario, l’Apostolo (1 Corinzi 12:31), dopo aver elencato le grazie gratuite, aggiunge: “Vi mostro ancora un modo ancora più eccellente”; e come dimostra il seguito del testo, si riferisce alla carità, che appartiene alla grazia santificante. Pertanto, la grazia santificante è più nobile delle grazie gratuite.
+
+Rispondo che, più elevato è il bene per cui una virtù è destinata, più eccellente è essa stessa. Ora, lo scopo finale è sempre superiore ai mezzi utilizzati per raggiungerlo. Tuttavia, la grazia santificante conduce l’uomo direttamente verso l’unione con il proprio fine ultimo, mentre la grazia gratuita lo guida verso ciò che costituisce una preparazione a tale fine; cioè, attraverso profezie, miracoli e simili mezzi, gli uomini vengono indotti ad avvicinarsi al loro scopo finale. E per questo motivo, la grazia santificante è più nobile della grazia gratuita.
+
+Risposta all’Obiezione 1: Come afferma il Filosofo (Metafisica XII, testo 52), una moltitudine, in quanto esercito, possiede due tipi di bene: il primo risiede nella stessa moltitudine, ovvero nell’ordine organizzato dell’esercito; il secondo è separato dalla moltitudine stessa e riguarda il bene del capo – ed è questo il bene più nobile, poiché il primo esiste soltanto al fine di servire al secondo. Ora, la grazia gratuita è destinata al bene comune della Chiesa, ovvero all’ordine ecclesiastico; invece, la grazia santificante è destinata al bene comune più elevato, che è Dio stesso. Pertanto, la grazia santificante è di natura più nobile.
+
+Risposta all’Obiezione 2: Se la grazia gratuita potesse far sì che un uomo ricevesse la grazia santificante, ne conterrebbe che essa sia di natura più nobile; proprio come la luce del sole, che illumina, è superiore a quella di un oggetto semplicemente illuminato. Tuttavia, con la grazia gratuita un uomo non può far sì che un altro possa ottenere l’unione con Dio, cosa che egli stesso può realizzare soltanto attraverso la grazia santificante; può tuttavia suscitare in altri determinate disposizioni verso tale unione. Pertanto, la grazia gratuita non deve necessariamente essere di natura più nobile; proprio come nel fuoco, il calore che esso emana per riscaldare altre cose non è di qualità superiore alla sua [forma sostanziale](/concepts/forma_substantialis).
+
+Risposta all’Obiezione 3: Il sentimento è destinato al ragionamento come a uno scopo; pertanto, il ragionamento è più nobile del sentimento.  
+Ma in questo caso avviene il contrario: ciò che è specifico è destinato a ciò che è generale come a uno scopo. Pertanto, non esiste alcuna analogia tra i due.
+
 <span class="atom-split" data-atom="024" data-title="OF THE CAUSE OF GRACE (FIVE ARTICLES)" data-chapter="OF THE CAUSE OF GRACE (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the cause of grace; and under this head there are five points of inquiry:
@@ -1188,6 +1513,15 @@ free-will?
 (3) Whether such a disposition can make grace follow of necessity?
 (4) Whether grace is equal in all?
 (5) Whether anyone may know that he has grace?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la causa della grazia; e sotto questo aspetto ci sono cinque punti da esaminare:  
+(1) Se Dio sia l’unico [causa efficace](/concepts/four_causes) della grazia;  
+(2) Se sia necessaria, da parte di colui che riceve la grazia, una disposizione particolare, frutto di un atto di libera volontà;  
+(3) Se tale disposizione possa rendere la grazia inevitabile;  
+(4) Se la grazia sia uguale per tutti;  
+(5) Se qualcuno possa conoscere con certezza di aver ricevuto la grazia.
 
 <span class="atom-split" data-atom="025" data-title="Whether God alone is the cause of grace?" data-chapter="Whether God alone is the cause of grace?" data-kind="atom" data-srclang="en"></span>
 
@@ -1229,6 +1563,24 @@ again of water and the Holy Ghost he cannot enter into the kingdom of God."
 Reply to Objection 3: Angels cleanse, enlighten, and perfect angels or men, by instruction,
 and not by justifying them through grace. Hence Dionysius says (Coel. Hier. vii) that "this cleansing
 and [enlightenment](/schools/enlightenment) and perfecting is nothing else than the assumption of Divine knowledge."
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che solo Dio non sia la causa della grazia. Infatti è scritto (Giovanni 1:17): “La grazia e la verità sono venute per mezzo di Gesù Cristo”. Ora, con il nome di Gesù Cristo si intende non soltanto la Natura Divina assunta da Lui, ma anche la Natura creata. Pertanto, una creatura può essere la causa della grazia.
+
+Obiezione 2: Inoltre, esiste questa differenza tra i sacramenti della [Nuova Legge](/concepts/divine_law) e quelli dell’Antica Legge: i sacramenti della Nuova Legge producono la grazia, mentre quelli dell’Antica Legge ne sono soltanto segni. Ora, poiché i sacramenti della Nuova Legge sono elementi visibili e concreti, Dio non può essere considerato l’unica causa della grazia.
+
+Obiezione 3: Inoltre, secondo Dionigi (Coel. Hier. iii, iv, vii, viii), “Gli angeli purificano, illuminano e perfezionano sia gli angeli minori che gli uomini”. Ora, la creatura razionale viene purificata, illuminata e perfezionata per grazia. Pertanto, Dio non è l’unica causa di questa grazia.
+
+Al contrario, è scritto (Salmo 83:12): “Il Signore darà grazia e gloria”.
+
+Rispondo che nulla può agire al di fuori della propria specie, poiché la causa deve sempre essere più potente dell’effetto. Ora, il dono della grazia supera ogni capacità della natura creata, poiché non è altro che una partecipazione alla Natura Divina, che trascende tutte le altre nature. Pertanto, è impossibile che alcuna creatura possa generare la grazia. È infatti altrettanto necessario che solo Dio possa deificare, conferendo una partecipazione alla Natura Divina attraverso un’affinità con essa, quanto è impossibile che qualcosa, all’infuori del fuoco, possa accendere altro.
+
+Risposta all’Obiezione 1: L’umanità di Cristo è un “organo della Sua Divinità”, come afferma Damasceno (De Fide Orthodossa iii, 19). Ora, uno strumento non produce l’effetto dell’agente principale con la propria forza, ma in virtù di quest’ultimo. Pertanto, l’umanità di Cristo non genera la grazia con la propria forza, ma grazie alla Natura Divina che le è unita; per questo motivo, le azioni dell’umanità di Cristo sono azioni salvifiche.
+
+Risposta all’Obiezione 2: Così come nella persona di Cristo l’umanità contribuisce alla nostra salvezza per grazia, essendo la potenza divina l’agente principale, allo stesso modo nei sacramenti della Nuova Legge, che derivano da Cristo, la grazia è mediata dai sacramenti stessi e, in modo principale, dalla potenza dello Spirito Santo che opera attraverso di essi, secondo quanto affermato in Giovanni 3:5: “Se uno non nasce nuovamente dall’acqua e dallo Spirito Santo, non può entrare nel regno di Dio”.
+
+Risposta all’Obiezione 3: Gli angeli purificano, illuminano e perfezionano altri angeli o uomini attraverso l’insegnamento, e non attraverso la giustificazione operata dalla grazia. Pertanto Dionigi afferma (Coel. Hier. vii) che “questa purificazione, questa [illuminazione](/schools/enlightenment) e questo perfezionamento non sono altro che l’assunzione della conoscenza divina”.
 
 <span class="atom-split" data-atom="026" data-title="Whether any preparation and disposition for grace is required on man's part?" data-chapter="Whether any preparation and disposition for grace is required on man's part?" data-kind="atom" data-srclang="en"></span>
 
@@ -1284,6 +1636,24 @@ it must cause, in the thing caused, both the matter and the due disposition for 
 when God infuses grace into a soul, no preparation is required which He Himself does not bring
 about.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia necessaria alcuna preparazione o disposizione da parte dell’uomo per ricevere la grazia, poiché, come afferma l’Apostolo (Romani 4:4), “Per colui che lavora, la ricompensa non si calcola in base alla grazia, ma in base al dovere”. Ora, la preparazione di un uomo attraverso la libera volontà può avvenire soltanto attraverso alcune azioni concrethe. Pertanto, tale approccio eliminerebbe il concetto stesso di grazia.
+
+Obiezione 2: Inoltre, chi continua a peccare non si prepara affatto ad ricevere la grazia. Tuttavia, a alcuni che continuano a peccare viene comunque concessa la grazia, come è evidente nel caso di Paolo, il quale ricevette la grazia mentre “pronunciava minacce e proclamava la distruzione dei discepoli del Signore” (Atti 9:1). Pertanto, non è necessario alcun preparativo da parte dell’uomo per ricevere la grazia.
+
+Obiezione 3: Inoltre, un agente dotato di potere infinito non ha bisogno di alcuna disposizione materiale, poiché non necessita nemmeno della materia stessa – come si evince nella creazione, a cui la grazia viene paragonata e che viene definita “una nuova creatura” (Galati 6:15). Solo Dio, che possiede potere infinito, può produrre la grazia, come già detto in precedenza (A[1]). Pertanto, non è necessario alcun preparativo da parte dell’uomo per ricevere la grazia.
+
+Al contrario, è scritto (Amos 4:12): “Preparati ad incontrare il tuo Dio, o Israele”, e (1 Re 7:3): “Preparate i vostri cuori al Signore”.
+
+Rispondo che, come già detto sopra (Q[111], A[2]), la grazia può essere intesa in due modi: in primo luogo, come dono abituale di Dio; in secondo luogo, come aiuto da parte di Dio che spinge l’anima verso il bene. Se consideriamo la grazia nel primo senso, è necessaria una certa preparazione da parte dell’uomo affinché essa possa agire, poiché una forma può esistere soltanto in materia predisposta ad accoglierla. Tuttavia, se parliamo della grazia come di un aiuto divino che spinge l’uomo verso il bene, non è richiesta alcuna preparazione da parte dell’uomo; al contrario, ogni preparazione umana deve avvenire grazie all’aiuto di Dio stesso. Anche il buon uso della libertà volontaria, che rende l’uomo idoneo ad accogliere il dono della grazia, è un atto della volontà stessa mossa da Dio. Per questo si dice che l’uomo si prepari da solo, secondo quanto affermato in Proverbi 16:1 (“È compito dell’uomo preparare l’anima”); tuttavia questa preparazione avviene principalmente per opera di Dio, che muove la volontà umana. Da qui deriva anche l’espressione secondo cui la volontà umana è “preparata da Dio” e i passi dell’uomo sono “guidati da Dio”.
+
+Risposta all’Obiezione 1: Una certa preparazione dell’uomo alla grazia avviene contemporaneamente all’infusione della stessa; tale preparazione è meritoria, non certo per la grazia che già possiede l’uomo, ma per la gloria che ancora non possiede. Esiste tuttavia un’altra forma di preparazione imperfetta, che talvolta precede la concessione della grazia santificante; anche questa forma di preparazione deriva dall’intervento di Dio. Tuttavia, essa non è sufficiente per generare meriti, poiché l’uomo non è ancora giustificato dalla grazia, e i meriti possono sorgere soltanto dalla grazia, come verrà ulteriormente spiegato in seguito (Q[114], A[2]).
+
+Risposta all’Obiezione 2: Poiché un uomo non può prepararsi alla grazia se Dio non lo induce e lo spinge verso il bene, non ha alcuna importanza che questa preparazione avvenga istantaneamente o passo dopo passo. Infatti è scritto (Ecclesiaste 11:23): “È facile agli occhi di Dio rendere improvvisamente ricco il povero”. A volte accade che Dio spinga un uomo verso il bene, ma non verso il bene perfetto; in questi casi questa preparazione precede l’arrivo della grazia. Tuttavia, altre volte Dio lo spinge improvvisamente e perfettamente verso il bene, e allora l’uomo riceve la grazia immediatamente, come si legge in Giovanni 6:45: “Chiunque abbia ascoltato la voce del Padre e l’abbia imparata, viene a Me”. Ed è proprio ciò che accadde a Paolo: improvvisamente, mentre si trovava immerso nel peccato, il suo cuore fu perfettamente mosso da Dio ad ascoltare, ad imparare, a venire a Lui; ed è per questo che ricevette la grazia immediatamente.
+
+Risposta all’Obiezione 3: Un agente dotato di potere infinito non ha bisogno di alcuna materia o disposizione materiale che possa essere prodotta dall’azione di altro; eppure, considerando lo stato della cosa che viene creata, Egli deve necessariamente fornire sia la materia che la giusta disposizione affinché quella cosa assuma la forma desiderata. Allo stesso modo, quando Dio infonde la grazia in un’anima, non è necessaria alcuna preparazione preliminare: tutto ciò che è necessario viene fornito direttamente da Lui stesso.
+
 <span class="atom-split" data-atom="027" data-title="Whether grace is necessarily given to whoever prepares himself for it, or to whoever does what he can?" data-chapter="Whether grace is necessarily given to whoever prepares himself for it, or to whoever does what he can?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that grace is necessarily given to whoever prepares himself for
@@ -1330,6 +1700,24 @@ help is only in Me."
 
 Reply to Objection 3: Even in natural things, the form does not necessarily ensue the disposition
 of the matter, except by the power of the agent that causes the disposition.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la grazia venga necessariamente concessa a chiunque si prepari ad accoglierla, o a chiunque faccia ciò che è in suo potere, poiché, secondo Romani 5:1 (“Essendo giustificati, per fede, abbiamo pace”, ecc.), il commento afferma: “Dio accoglie chiunque si avvicini a Lui; altrimenti ci sarebbe ingiustizia da Sua parte”. Ma è impossibile che Dio agisca in modo ingiusto. Pertanto, è altrettanto impossibile che Egli non accolga chiunque si avvicini a Lui. Di conseguenza, la grazia viene necessariamente concessa a tutti coloro che se ne preparano ad accoglierla.
+
+Obiezione 2: Inoltre, Anselmo afferma (De Casu Diaboli, iii) che il motivo per cui Dio non dona la grazia al diavolo è che quest’ultimo non desiderava né era pronto ad accettarla. Ma se la causa viene rimossa, anche l’effetto deve necessariamente essere eliminato. Pertanto, se qualcuno è disposto ad accettare la grazia, essa gli viene inevitabilmente concessa.
+
+Obiezione 3: Inoltre, il bene è per sua natura diffusivo, come si evince da Dionisio (Div. Nom. iv). Ora, il bene della grazia è superiore al bene della natura. Pertanto, poiché le forme naturali vengono necessariamente conferite alla materia predisposta, sembra ancora più evidente che la grazia venga necessariamente concessa a chiunque si prepari ad accoglierla.
+
+Al contrario, l’Uomo è paragonato a Dio come l’argilla al vasaio, secondo Geremia 18:6: “Come l’argilla è nelle mani del vasaio, così anche voi siete nelle mie mani”. Tuttavia, per quanto l’argilla venga preparata, non riceve necessariamente la forma desiderata dal vasaio; allo stesso modo, per quanto un uomo si prepari, non riceve necessariamente la grazia di Dio.
+
+Rispondo che, come già detto sopra (A[2]), la preparazione dell’uomo alla grazia proviene da Dio, in quanto Motore, e dalla libertà volontaria, in quanto soggetta a tale movimento. Pertanto, questa preparazione può essere considerata sotto due prospettive: innanzitutto, in relazione alla libertà volontaria, e in questo caso non vi è alcuna necessità che essa porti effettivamente alla grazia, poiché il dono della grazia trascende ogni preparazione umana. Ma può essere considerata anche, in secondo luogo, in relazione a Dio come Motore; in questo caso sussiste una necessità – non certo di coercizione, ma di infallibilità – riguardo a ciò che Dio ha stabilito per l’uomo, poiché l’intenzione di Dio non può fallire. Come afferma sant’Agostino nel suo libro sulla predestinazione dei santi (De Dono Persev. xiv): “Per i doni divini, chiunque viene liberato lo è certamente e senza errore”. Pertanto, se Dio intende che colui il cui cuore viene mosso da Lui raggiunga la grazia, allora egli lo farà inevitabilmente, secondo quanto detto in Giovanni 6:45: “Chiunque ha ascoltato la voce del Padre e l’ha imparata, viene a Me”.
+
+Risposta all’Obiezione 1: Questo commento si riferisce a coloro che, grazie a un atto meritevole compiuto con la loro libera volontà e già “illuminati” dalla grazia divina, volano verso Dio; infatti, se non ricevessero questa grazia, ciò sarebbe contrario alla giustizia stessa che Lui stesso ha stabilito. Oppure, se si riferisce al movimento della libera volontà prima dell’arrivo della grazia, allora si intende dire che il cammino dell’uomo verso Dio avviene per un impulso divino, il quale, per motivi di giustizia, non dovrebbe fallire.
+
+Risposta all’Obiezione 2: La prima causa del difetto di grazia risiede da parte nostra; ma la prima causa della concessione della grazia appartiene a Dio, come si legge in Ossea 13:9: “La tua rovina è opera tua stessa, o Israele; il tuo aiuto sta soltanto in Me”.
+
+Risposta all’Obiezione 3: Anche nelle cose naturali, la forma non deriva necessariamente dalla disposizione della materia, se non per l’azione dell’agente che causa tale disposizione.
 
 <span class="atom-split" data-atom="028" data-title="Whether grace is greater in one than in another?" data-chapter="Whether grace is greater in one than in another?" data-kind="atom" data-srclang="en"></span>
 
@@ -1378,6 +1766,25 @@ remissness, both in grace and in final glory as regards the subjects' participat
 
 Reply to Objection 3: Natural life pertains to man's substance, and hence cannot be more or
 less; but man partakes of the life of grace accidentally, and hence man may possess it more or less.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la grazia non sia maggiore in uno rispetto a un altro. Infatti, la grazia è suscitata in noi dall’amore divino, come detto sopra (Q[110], A[1]). Ora è scritto (Sapienza 6:8): “Ha creato il piccolo e il grande, e ha cura di tutti allo stesso modo”. Pertanto, tutti ricevono la grazia da Lui in modo uguale.
+
+Obiezione 2: Inoltre, ciò che è il massimo possibile non può essere né maggiore né minore di quanto sia. Ma la grazia è il massimo possibile, poiché ci unisce al nostro fine ultimo. Pertanto, non esiste nulla di più o meno nella grazia stessa; quindi essa non è maggiore in alcuno rispetto ad altri.
+
+Obiezione 3: Inoltre, la grazia è la vita dell’anima, come detto sopra (Q[110], A[1], ad 2). Ma nella vita non esiste nulla di maggiore o minore; pertanto, lo stesso vale anche per la grazia.
+
+Al contrario, è scritto (Efesini 4:7): “Ma a ciascuno di noi viene data la grazia secondo la misura della donazione di Cristo”. Ora, ciò che viene dato in base a una determinata misura non viene concesso a tutti in modo uguale. Pertanto, non tutti possiedono la stessa grazia.
+
+Rispondo che, come già detto sopra (Q[52], AA[1],2; Q[56], AA[1],2), le abitudini possono avere una doppia dimensione: da un lato, in relazione allo scopo o all’oggetto per cui vengono praticate; ad esempio, si dice che una virtù sia più nobile quando è direzionata verso un bene maggiore. Dall’altro lato, riguarda il soggetto che le pratica, il quale partecipa in misura diversa all’abitudine stessa.  
+Per quanto riguarda la prima dimensione, la grazia santificante non può essere né maggiore né minore, poiché per sua natura unisce l’uomo al Bene Supremo, che è Dio. Tuttavia, in relazione al soggetto, la grazia può essere più o meno abbondante, a seconda che quest’ultimo sia più o meno illuminato da essa. Una ragione di questa diversità risiede nel modo in cui l’uomo si prepara ad accogliere la grazia: chi è meglio preparato ne riceve di più. Tuttavia, non è qui che dobbiamo cercare la causa principale di tale diversità, poiché l’uomo si prepara soltanto nella misura in cui la sua volontà libera viene guidata da Dio. Quindi, la vera causa di questa varietà deve essere ricercata in Dio stesso, che distribuisce i suoi doni di grazia in modo diverso, affinché dalla loro variazione possa derivare la bellezza e la perfezione della Chiesa; proprio come ha stabilito le diverse condizioni necessarie affinché l’universo fosse perfetto. Ecco perché, dopo aver detto (Ef 4:7): “A ciascuno di noi è data la grazia secondo la misura del dono di Cristo”, l’Apostolo, elencate le varie forme di grazia, aggiunge (Ef 4:12): “Per il perfezionamento dei santi, per la costruzione del corpo di Cristo”.
+
+Risposta all’Obiezione 1: La cura divina può essere considerata in due modi: innanzitutto, in relazione all’atto divino stesso, che è semplice e uniforme; in questo senso, la Sua cura riguarda tutti allo stesso modo, poiché con un unico atto semplice Egli provvede sia a cose grandi che a cose piccole. Tuttavia, “in secondo luogo”, si può considerare ciò che viene effettivamente realizzato grazie alla cura divina; in questo caso si riscontra disuguaglianza, poiché Dio, con la Sua cura, concede doni maggiori ad alcuni e doni minori ad altri.
+
+Risposta all’Obiezione 2: Questa obiezione si basa sul primo tipo di “grandezza” della grazia; poiché la grazia non può essere maggiore nel momento in cui ordina a un bene più grande, ma soltanto quando favorisce, in misura maggiore o minore, una partecipazione più o meno ampia allo stesso bene. Infatti, sia nella grazia che nella gloria finale, possono esistere differenze di intensità e di misura della partecipazione da parte dei destinatari.
+
+Risposta all’Obiezione 3: La vita naturale appartiene alla sostanza umana e, pertanto, non può essere né maggiore né minore; ma l’uomo partecipa alla vita di grazia in modo accidentale, e quindi può possederla in misura maggiore o minore.
 
 <span class="atom-split" data-atom="029" data-title="Whether man can know that he has grace?" data-chapter="Whether man can know that he has grace?" data-kind="atom" data-srclang="en"></span>
 
@@ -1475,6 +1882,20 @@ head there are ten points of inquiry:
 (9) Whether the justification of the ungodly is God's greatest work?
 (10) Whether the justification of the ungodly is miraculous?
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’effetto della grazia: (1) la giustificazione degli ingiusti, che è l’effetto dell’operazione della grazia; e (2) il merito, che è l’effetto della cooperazione della grazia. Nel primo ambito vi sono dieci punti da esaminare:  
+(1) Che cos’è la giustificazione degli ingiusti?  
+(2) È necessaria la grazia per essa?  
+(3) È richiesta qualche azione da parte della volontà libera?  
+(4) È necessaria un’azione di fede?  
+(5) È richiesta una qualche azione della volontà libera contro il peccato?  
+(6) La remissione dei peccati va considerata come parte di questo processo?  
+(7) La giustificazione degli ingiusti è un atto che avviene nel tempo o avviene improvvisamente?  
+(8) Qual è l’ordine naturale delle cose che contribuiscono alla giustificazione?  
+(9) La giustificazione degli ingiusti è forse l’opera più grande di Dio?  
+(10) La giustificazione degli ingiusti è un fenomeno miracoloso?
+
 <span class="atom-split" data-atom="031" data-title="Whether the justification of the ungodly is the remission of sins?" data-chapter="Whether the justification of the ungodly is the remission of sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the justification of the ungodly is not the remission of sins.
@@ -1529,6 +1950,26 @@ is named after justice rather than after charity or faith.
 Reply to Objection 3: Being called refers to God's help moving and exciting our mind to give
 up sin, and this motion of God is not the remission of sins, but its cause.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la giustificazione degli ingiusti non sia la remissione dei peccati.  
+Infatti, il peccato è contrario non solo alla giustizia, ma anche a tutte le altre virtù, come detto sopra (Q[71], A[1]).  
+Ora, la giustificazione indica un certo movimento verso la giustizia; pertanto nemmeno la remissione dei peccati può essere considerata giustificazione, poiché il movimento avviene da ciò che è contrario a ciò che è giusto.
+
+Obiezione 2: Inoltre, tutto dovrebbe essere chiamato in base a ciò che vi è predominante, secondo il De [Anima](/concepts/soul) ii, testo 49. Ora, la remissione dei peccati avviene principalmente per fede, come si legge negli Atti degli Apostoli 15:9: “Purificano i loro cuori per fede”; e anche per carità, secondo il Proverbi 10:12: “La carità copre tutti i peccati”. Pertanto, la remissione dei peccati dovrebbe essere chiamata “remissione per fede” o “remissione per carità”, piuttosto che “remissione per giustizia”.
+
+Obiezione 3: Inoltre, la remissione dei peccati sembra essere lo stesso che essere chiamati da Dio; infatti chiunque viene chiamato si trova lontano da Lui, e noi siamo lontani da Dio a causa del peccato. Tuttavia, si viene chiamati prima di essere giustificati, come dice Romani 8:30: “E coloro che Egli ha chiamati, anche loro li ha giustificati”. Pertanto, la giustificazione non è la remissione dei peccati.
+
+Al contrario, in Romani 8:30, dove si legge “Coloro che Egli ha chiamati, li ha anche giustificati”, il commento afferma che ciò avviene “per mezzo della remissione dei peccati”. Pertanto, la remissione dei peccati è essa stessa la giustificazione.
+
+Rispondo che la giustificazione, intesa in senso passivo, implica un movimento verso il bene. Tuttavia, poiché la giustizia, per sua natura, comporta una certa rettitudine nell’ordine delle cose, può essere interpretata in due modi: innanzitutto, nel senso in cui essa rappresenta un ordine corretto negli atti umani; in questo caso la giustizia rientra tra le virtù – sia come giustizia particolare, che regola gli atti dell’uomo in relazione ai suoi simili, sia come giustizia legale, che ne dirige l’esercizio nel rispetto del bene comune della società, come si evince dall’Etica V, 1. In secondo luogo, la giustizia può essere intesa anche come una certa rettitudine nell’ordine interiore dell’anima: ciò che è più elevato nell’uomo deve sottoporsi a Dio, e le facoltà inferiori dell’anima devono essere subordinate a quelle superiori, cioè alla ragione; questa disposizione viene da parte del Filosofo definita “giustizia in senso metaforico” (Etica V, 11). Questa giustizia interiore può esistere nell’uomo in due modi: primo, attraverso un processo di formazione graduale, che va dalla privazione alla perfezione; in questo caso anche coloro che non sono in peccato possono ricevere questa giustizia da Dio, come si dice che Adamo abbia ricevuto la giustizia originale. Secondo, questa giustizia può essere realizzata nell’uomo attraverso un movimento che porta da uno stato di ingiustizia a uno stato di giustizia; è proprio questo processo di trasformazione che viene indicato con il termine “giustificazione degli ingiusti”, secondo quanto affermato dall’Apostolo in Romani 4:5: “Ma per colui che non opera, ma crede in Colui che giustifica gli ingiusti, ”. Poiché un movimento prende il nome dal suo termine di destinazione e non da quello di partenza, anche questo processo di trasformazione, che porta l’uomo dallo stato di ingiustizia a quello di giustizia, prende il proprio nome dal risultato finale e viene chiamato “giustificazione degli ingiusti”.
+
+Risposta all’Obiezione 1: Ogni peccato, nella misura in cui implica il disordine di una mente non sottomessa a Dio, può essere definito ingiustizia, poiché è contrario alla suddetta giustizia, secondo 1 Giovanni 3:4: “Chi commette peccato commette anche iniquità; e il peccato è iniquità”. Pertanto, la rimozione di qualsiasi peccato viene chiamata giustificazione degli ingiusti.
+
+Risposta all’Obiezione 2: La fede e la carità implicano una direzione particolare della mente umana verso Dio, attraverso l’intelletto e la volontà; mentre la giustizia implica una rettitudine generale nell’ordine delle cose. Pertanto, questa trasformazione è chiamata “giustizia” piuttosto che “carità” o “fede”.
+
+Risposta all’Obiezione 3: Il termine “essere chiamati” si riferisce all’aiuto di Dio che muove e stimola la nostra mente a rinunciare al peccato; tale azione di Dio non costituisce la remissione dei peccati, ma ne è la causa.
+
 <span class="atom-split" data-atom="032" data-title="Whether the infusion of grace is required for the remission of guilt, i.e. for the justification of the ungodly?" data-chapter="Whether the infusion of grace is required for the remission of guilt, i.e. for the justification of the ungodly?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that for the remission of guilt, which is the justification of the
@@ -1580,6 +2021,24 @@ that they may be forgiven thee.'" For the act of sin passes, but the guilt remai
 ceases to have the act of the former sin, but he does not cease to have the guilt, hence he may have
 the guilt of both sins at once. For sins are not contrary to each other on the part of their turning
 from God, wherein sin has its guilt.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che, per la remissione del peccato – che costituisce la giustificazione di coloro che non sono devoti – non sia necessaria alcuna infusione di grazia. Infatti, chiunque può passare da uno stato contrario all’altro senza essere spinto verso il secondo, purché tali stati non siano immediatamente contrapposti tra loro. Ora, lo stato di peccato e lo stato di grazia non sono contrari immediati; esiste infatti uno stato intermedio, quello dell’innocenza, in cui una persona non possiede né grazia né peccato. Pertanto, è possibile perdonare a qualcuno il suo peccato senza che venga portato nello stato di grazia.
+
+Obiezione 2: Inoltre, la rimozione del peccato consiste nell’attribuzione divina del peccato, come affermato nel Salmo 31:2: “Beato colui a cui il Signore non ha attribuito alcun peccato”. Ora, l’infusione della grazia immette qualcosa nella nostra anima, come già detto sopra (Q[110], A[1]). Pertanto, l’infusione della grazia non è necessaria per la rimozione del peccato.
+
+Obiezione 3: Inoltre, nessuno può essere contemporaneamente soggetto a due contrari. Ora, alcuni peccati sono contrari tra loro, come la dissipatezza e l’avarizia. Pertanto, chi è soggetto al peccato della dissipatezza non lo è allo stesso tempo anche al peccato dell’avarizia; tuttavia può accadere che in passato sia stato soggetto a quest’ultimo. Di conseguenza, commettendo il peccato della dissipatezza, si viene liberati dal peccato dell’avarizia. E così un peccato viene “perdonato” senza l’intervento della grazia divina.
+
+Al contrario, è scritto (Roma 3:24): “Giustificati gratuitamente per la Sua grazia”.
+
+Rispondo che, peccando, l’uomo offende Dio, come è stato detto sopra (Q[71], A[5]). Ora, un’offesa viene perdonata a qualcuno soltanto quando l’anima dell’offensore è in pace con colui che è stato offeso. Pertanto, il peccato viene perdonato a noi quando Dio è in pace con noi, e questa pace consiste nell’amore con cui Dio ci ama. L’amore di Dio, considerato dal punto di vista dell’atto divino, è eterno e immutabile; tuttavia, riguardo all’effetto che esercita su di noi, talvolta viene interrotto, poiché a volte non riusciamo ad adeguarci ad esso e ne abbiamo nuovamente bisogno. L’effetto dell’amore divino in noi, che il peccato toglie via, è la grazia: essa rende l’uomo degno della vita eterna, dalla quale il peccato lo esclude. Pertanto, non potremmo concepire la remissione dei peccati senza l’intervento della grazia.
+
+Risposta all’Obiezione 1: Per che un colpevole possa perdonare il proprio peccato è necessario qualcosa di più rispetto a ciò che basta perché una persona che non ha commesso alcun errore non venga odiata. Infatti, tra gli uomini può accadere che uno non odii né ami un altro; ma se quest’ultimo lo offende, il perdono del peccato può derivare soltanto da una volontà particolare di perdonare. Ora si dice che la volontà di Dio sia ripristinata nell’uomo attraverso il dono della grazia; pertanto, anche se un uomo, prima di peccare, possa essere privo di grazia e di colpa, è solo perché possiede la grazia che può essere considerato senza colpa dopo aver peccato.
+
+Risposta all’Obiezione 2: Poiché l’amore di Dio non consiste soltanto nell’atto della volontà divina, ma implica anche un certo effetto della grazia, come detto sopra (Q[110], A[1]), allo stesso modo, quando Dio non imputa un peccato a una persona, ciò implica che in quella persona si verifichi un certo effetto derivante da tale decisione divina; infatti, è proprio dall’amore di Dio che deriva il fatto che quel peccato non venga attribuito a quell’individuo.
+
+Risposta all’Obiezione 3: Come afferma [Agostino](/figures/augustine) (De Nup. et Concup., i, 26), se smettere di peccare fosse equivalente a non peccare affatto, basterebbe che la [Scrittura](/concepts/revelation) ci avvertisse in questo modo: “‘Figlio mio, hai peccato? Non farlo più.’ Ora questo non è sufficiente; viene aggiunto anche: ‘Ma prega anche per i tuoi peccati passati affinché ti siano perdonati.’” Poiché l’atto del peccato può cessare, la colpa rimane, come già detto sopra (Q[87], A[6]). Pertanto, quando qualcuno passa dal peccato di un vizio al peccato di un vizio opposto, smette di compiere l’atto del primo peccato, ma non smette di possedere la colpa di entrambi; quindi può contemporaneamente essere colpevole di entrambi i peccati. I peccati, infatti, non sono contrari tra loro in termini della loro natura intrinseca, che li lega a Dio e ne costituisce la vera essenza.
 
 <span class="atom-split" data-atom="033" data-title="Whether for the justification of the ungodly is required a movement of the free-will?" data-chapter="Whether for the justification of the ungodly is required a movement of the free-will?" data-kind="atom" data-srclang="en"></span>
 
@@ -1647,6 +2106,26 @@ human soul, and hence a proper movement of the human soul is required in order t
 be moved in its own manner. But the conservation of grace is without transmutation: no movement
 on the part of the soul is required but only a continuation of the Divine influx.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia necessario alcun atto della volontà libera per la giustificazione degli ingiusti. Infatti, attraverso il [sacramento](/concepts/sacrament) del Battesimo, anche i bambini e talvolta gli adulti vengono giustificati senza alcuna azione deliberata della loro volontà; per questo motivo l’[Agostino](/figures/augustine) afferma (Confessioni, IV) che quando uno dei suoi amici fu colpito da febbre, “rimase a lungo privo di sensi e sudava copiosamente; quando sembrò ormai senza speranza, fu battezzato senza che se ne rendesse conto e così venne rigenerato”; questo effetto è ottenuto grazie alla grazia santificante. Ora, Dio non limita la Sua potenza ai sacramenti; pertanto può giustificare un uomo anche al di fuori dei sacramenti, e senza alcun intervento della volontà libera.
+
+Obiezione 2: Inoltre, un uomo non utilizza la ragione quando dorme, e senza di essa non può esserci alcun atto della volontà libera. Tuttavia, Salomone ricevette dal Dio la grazia della saggezza mentre dormiva, come raccontato in 3 Re 3 e 2 Paralipomeni 1. Pertanto, per ragioni analoghe, anche la grazia santificante può essere talvolta concessa da Dio all’uomo senza che vi sia alcun atto della sua volontà libera.
+
+Obiezione 3: Inoltre, la grazia viene conservata dalla stessa causa che l’ha originata; infatti Agostino afferma (Genesi ad litteram viii, 12) che “l’uomo deve rivolgersi a Dio proprio perché è sempre reso giusto da Lui”. Ora, la grazia viene conservata nell’uomo senza alcun intervento della sua volontà libera; pertanto può essere infusa fin dall’inizio, anch’essa senza il coinvolgimento della volontà libera.
+
+Al contrario, è scritto (Giovanni 6:45): “Chiunque ha ascoltato del Padre e ne ha imparato, viene da Me”. Ora, imparare non può avvenire senza un atto della volontà libera, poiché chi impara acconsente all’insegnante. Pertanto, nessuno può giungere al Padre attraverso la grazia della giustificazione senza un atto della volontà libera.
+
+Rispondo che la giustificazione dell’ingiusto avviene quando Dio spinge l’uomo verso la giustizia. Perché è Lui “colui che giustifica l’ingiusto”, secondo Romani 4:5. Ora, Dio muove ogni cosa nel suo proprio modo; come vediamo nelle cose naturali, ciò che è pesante e ciò che è leggero vengono mossi in modi diversi a causa delle loro diverse nature. Pertanto, Dio spinge l’uomo verso la giustizia in base alle condizioni della sua [natura umana](/axes/human_nature). Ma è proprio della natura umana possedere la libertà di volontà; quindi, nell’uomo che dispone del ragionamento, l’azione di Dio per guidarlo verso la giustizia non avviene senza il coinvolgimento della sua volontà libera. Tuttavia, Dio infonde in lui il dono della grazia giustificatrice in modo tale che, al contempo, spinge quella volontà ad accettare tale dono, nei casi in cui ciò sia possibile.
+
+Risposta all’Obiezione 1: I neonati non sono in grado di esercitare la propria volontà libera; pertanto è soltanto attraverso l’infusione della loro anima che Dio li spinge verso la giustizia. Ciò non può avvenire senza un sacramento, poiché il [peccato originale](/positions/original_sin), da cui ricevono la giustificazione, non deriva dalla loro volontà, ma dalla generazione carnale; allo stesso modo, la grazia viene loro concessa da Cristo attraverso la rigenerazione spirituale. Lo stesso ragionamento vale per i pazzi e gli idioti che non hanno mai potuto esercitare la propria volontà libera. Tuttavia, nel caso di una persona che ha utilizzato la propria volontà libera e in seguito l’ha persa a causa di malattia o sonno, essa non riceve la grazia giustificatrice attraverso il rito esteriore del Battesimo o di qualsiasi altro sacramento, a meno che non intenda effettivamente utilizzarlo, e ciò è possibile soltanto esercitando la propria volontà libera. È proprio in questo modo che colui di cui parla Agostino fu rigenerato, poiché sia prima che dopo acconsentì al Battesimo.
+
+Risposta all’Obiezione 2: Salomone né meritò né ricevette la saggezza mentre dormiva; tuttavia gli fu rivelata nel sonno che, a causa della sua precedente volontà, Dio avrebbe infuso in lui la saggezza. Per questo motivo si dice di lui (Sapienza 7:7): “La desiderai, ed ecco mi fu data la sapienza”.  
+Oppure si potrebbe dire che il suo sonno non fosse naturale, ma piuttosto un sonno profetico, secondo Numeri 12:6: “Se tra voi vi è un profeta del Signore, io mi manifesterò a lui in visione o gli parlerò in sogno”. In tali casi l’uso della libertà di volontà rimane possibile.  
+Tuttavia va osservato che il paragone tra il dono della saggezza e il dono della grazia giustificante non è appropriato. Il dono della grazia giustificante, infatti, ordina specificamente l’uomo al bene, che è l’oggetto della sua volontà; perciò l’uomo viene spinto a compiere questo bene da un movimento della volontà, cioè da un atto di libertà. La saggezza, invece, perfeziona l’intelletto, che precede la volontà; quindi, anche senza alcun atto deliberato della libertà di volontà, l’intelletto può essere illuminato dal dono della saggezza, proprio come le cose vengono rivelate alle persone nel sonno, secondo Giobbe 33:15-16: “Quando il profondo sonno colpisce gli uomini e giacciono nei loro letti, allora Egli apre le loro orecchie e li insegna ciò che devono imparare”.
+
+Risposta all’Obiezione 3: Nell’influsso della grazia giustificante avviene una certa trasformazione dell’anima umana; pertanto è necessario che l’anima reagisca in modo appropriato affinché possa essere influenzata nel suo proprio modo. Tuttavia, la conservazione della grazia non comporta alcuna trasformazione: non è richiesto alcun movimento da parte dell’anima, ma soltanto la continuazione di quell’influsso divino.
+
 <span class="atom-split" data-atom="034" data-title="Whether a movement of faith is required for the justification of the ungodly?" data-chapter="Whether a movement of faith is required for the justification of the ungodly?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no movement of faith is required for the justification of the
@@ -1697,6 +2176,24 @@ justifieth the ungodly his faith is reputed to justice, according to the purpose
 Hence it is clear that in the justification of the ungodly an act of faith is required in order that a
 man may believe that God justifies man through the mystery of Christ.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia necessario alcun atto di fede per la giustificazione degli ingiusti. Poiché un uomo viene giustificato per fede, lo può essere anche attraverso altri mezzi, ad esempio mediante la paura – di cui si legge nell’Ecclesiaste 1:27: “La paura del Signore scaccia il peccato; chi non teme non può essere giustificato” – oppure mediante la carità, come riportato in Luca 7:47: “Molti dei suoi peccati le sono stati perdonati perché ha amato molto”; o ancora mediante l’umiltà, secondo Giacomo 4:6: “Dio resiste ai superbi e dona la grazia agli umili”; o infine mediante la misericordia, come affermato nel Proverbi 15:27: “Con la misericordia e la fede i peccati vengono purificati”. Pertanto, l’atto di fede non è affatto necessario per la giustificazione degli ingiusti, così come non lo sono gli atti legati alle virtù menzionate sopra.
+
+Obiezione 2: Inoltre, l’atto di fede è necessario per la giustificazione soltanto nella misura in cui una persona conosce Dio attraverso la fede. Ma una persona può conoscere Dio anche in altri modi, cioè attraverso la conoscenza naturale e il dono della saggezza. Pertanto, non è necessario alcun atto di fede per la giustificazione degli ingiusti.
+
+Obiezione 3: Inoltre, esistono diversi articoli di fede. Pertanto, se l’atto di fede fosse necessario per la giustificazione degli ingiusti, sembrerebbe che una persona dovesse riflettere su ciascun articolo di fede al momento della propria prima giustificazione. Ma ciò appare scomodo, poiché tale riflessione richiederebbe un lungo lasso di tempo. Pertanto, sembra che non sia necessario alcun atto di fede per la giustificazione degli ingiusti.
+
+Al contrario, è scritto (Roma 5:1): “Essendo dunque giustificati per fede, abbiamo pace con Dio.”
+
+Rispondo che, come già detto sopra (A[3]), è necessario un atto di volontà libera affinché gli empi possano essere giustificati, poiché la mente umana viene influenzata da Dio. Dio infatti guida l’anima umana attirandola verso di Sé, come si legge nel Salmo 84:7 (Settanta): “Tu ci convertirai, o Dio, e ci rianimerai”. Pertanto, per la giustificazione degli empi è necessario un atto di volontà che porti l’anima a rivolgersi verso Dio. La prima forma di questa conversione avviene attraverso la fede, come si legge in Ebrei 11:6: “Chi vuole venire a Dio deve credere che Egli esista”. Quindi, anche per la giustificazione degli empi è indispensabile un atto di fede.
+
+Risposta all’Obiezione 1: Il movimento della fede non è perfetto se non viene accelerato dalla carità; pertanto, nella giustificazione degli ingiusti, al movimento della fede si accompagna anche il movimento della carità. Ora, la libertà volontaria viene spinta verso Dio attraverso la sottomissione a Lui; quindi concorrono anche un atto di timore filiale e un atto di umiltà. Può infatti accadere che lo stesso atto di libertà volontaria derivi da diverse virtù, quando una di queste comanda e l’altra viene subita, poiché tale atto può essere indirizzato verso scopi diversi. Ma l’atto di misericordia contrasta il peccato: o soddisfacendolo e quindi contribuendo alla giustificazione, oppure preparando il cuore dell’uomo ad accettare la misericordia; in questo caso, può precedere la giustificazione o concorrere con le altre virtù verso di essa, poiché la misericordia rientra nell’amore del prossimo.
+
+Risposta all’Obiezione 2: La conoscenza naturale non induce l’uomo a rivolgersi a Dio, poiché Dio è l’oggetto della [beatazza](/positions/beatitude) e la causa della giustificazione. Pertanto, tale conoscenza non è sufficiente per ottenere la giustificazione. Tuttavia, il dono della saggezza presuppone la conoscenza della fede, come già detto sopra (Q[68], A[4], ad 3).
+
+Risposta all’Obiezione 3: Come afferma l’Apostolo (Romani 4:5), “Per colui che crede in Colui che giustifica gli ingiusti, la fede stessa è considerata giustizia, secondo il disegno della grazia di Dio”. È quindi evidente che, nella giustificazione degli ingiusti, sia necessario un atto di fede affinché una persona possa credere che Dio giustifichi l’uomo attraverso il mistero di Cristo.
+
 <span class="atom-split" data-atom="035" data-title="Whether for the justification of the ungodly there is required a movement of the free-will towards sin?" data-chapter="Whether for the justification of the ungodly there is required a movement of the free-will towards sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no movement of the free-will towards sin is required for the
@@ -1746,6 +2243,25 @@ have committed, and from this remembrance the soul goes on to have a general mov
 detestation with regard to all sins committed, in which are included such sins as have been forgotten.
 For a man is then in such a frame of mind that he would be sorry even for those he does not
 remember, if they were present to his memory; and this movement cooperates in his justification.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia necessario alcun movimento della volontà libera verso il peccato per la giustificazione degli ingiusti. Poiché solo la carità è sufficiente a eliminare il peccato, secondo Proverbi 10:12: “La carità copre tutti i peccati”. Ora, l’oggetto della carità non è il peccato stesso; pertanto, per questa giustificazione degli ingiusti, non è richiesto alcun movimento della volontà libera verso il peccato.
+
+Obiezione 2: Inoltre, chi è impegnato nel percorso verso il futuro non dovrebbe guardare indietro, secondo Filippo.  
+3:13,14: “Dimenticando ciò che è alle spalle e tendendo verso ciò che è davanti a me, mi sforzo di raggiungere l’obiettivo, il premio della vocazione celeste.” Ma chi si impegna nella rettitudine ha i propri peccati alle proprie spalle; pertanto dovrebbe dimenticarli e non tornare indietro verso di essi con un atto della propria volontà libera.
+
+Obiezione 3: Inoltre, nella giustificazione dell’empio il peccato non viene perdonato senza che ne venga perdonato un altro, poiché “è irriverente sperare da Dio una sorta di perdono parziale” [*Cap., Sunt. plures: Dist. iii, De Poenit.]. Pertanto, nella giustificazione dell’empio, se la volontà libera dell’uomo deve agire contro il peccato, dovrebbe ricordarsi di tutti i propri peccati. Ma ciò è inappropriato, sia perché richiederebbe un tempo eccessivo per tale riflessione, sia perché l’uomo non potrebbe ottenere il perdono di quei peccati che ha dimenticato. Quindi, per la giustificazione dell’empio, non è necessario alcun intervento della volontà libera.
+
+Al contrario, è scritto (Salmo 31:5): “Confesserò al Signore la mia ingiustizia; tu hai perdonato la malvagità dei miei peccati”.
+
+Rispondo che, come già detto sopra (A[1]), la giustificazione dell’empio è un certo movimento mediante il quale l’intelletto umano viene guidato da Dio dallo stato di peccato allo stato di giustizia. Pertanto, è necessario che l’intelletto umano consideri entrambi questi estremi attraverso un atto di libera volontà, proprio come un corpo in movimento locale è legato a entrambi i termini di tale movimento. È evidente che, nel movimento locale, il corpo in movimento abbandona il punto di partenza e si avvicina al punto di arrivo; pertanto, anche l’intelletto umano, durante il processo di giustificazione, deve, attraverso un atto di libera volontà, allontanarsi dal peccato e avvicinarsi alla giustizia. Allontanarsi dal peccato e avvicinarsi alla giustizia, mediante un atto di libera volontà, significa provare disgusto per il peccato e desiderio di giustizia. Infatti, l’[Agostino](/figures/augustine) afferma riguardo alle parole “il servo fugge”, ecc. (Giovanni 10:12): “Le nostre emozioni sono i movimenti della nostra anima; la gioia è l’espressione dell’anima; la paura è la fuga dell’anima; l’anima si avvicina quando cerchiamo, si allontana quando temiamo”. Pertanto, nella giustificazione dell’empio devono esserci due atti della libera volontà: uno attraverso il quale ci si dirige verso la giustizia di Dio, l’altro attraverso il quale si odia il peccato.
+
+Risposta all’Obiezione 1: Appartiene alla stessa virtù cercare ciò che è contrario a qualcosa e evitarne l’altro; pertanto, così come appartiene alla carità amare Dio, allo stesso modo appartiene alla stessa virtù detestare il peccato, che separa l’anima da Dio.
+
+Risposta all’Obiezione 2: Un uomo non dovrebbe tornare a quelle cose che sono ormai passate, amandole; anzi, dovrebbe dimenticarle, affinché non venga attratto verso di esse. Tuttavia, dovrebbe ricordarsele per poterle detestare; in questo modo, infatti, eviterà di essere influenzato da loro.
+
+Risposta all’Obiezione 3: Prima della giustificazione, un uomo deve detestare ogni peccato che ricorda di aver commesso; da questo ricordo deriva in lui un sentimento generale di ripugnanza verso tutti i peccati compiuti, inclusi anche quelli dimenticati. In tale stato mentale, l’uomo proverebbe rimorso persino per quei peccati di cui non si ricorda, se li avesse presenti alla memoria; e questo sentimento contribuisce alla sua giustificazione.
 
 <span class="atom-split" data-atom="036" data-title="Whether the remission of sins ought to be reckoned amongst the things required for justification?" data-chapter="Whether the remission of sins ought to be reckoned amongst the things required for justification?" data-kind="atom" data-srclang="en"></span>
 
@@ -1799,6 +2315,24 @@ Reply to Objection 3: This enumeration is not the division of a genus into its s
 the things enumerated must be simultaneous; but it is division of the things required for the
 completion of anything; and in this enumeration we may have what precedes and what follows,
 since some of the principles and parts of a composite thing may precede and some follow.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la remissione dei peccati non debba essere considerata tra le cose necessarie per la giustificazione. Infatti, la sostanza di una cosa non viene inclusa in quelle che sono richieste per il suo esistere; così come un uomo non è considerato insieme al proprio corpo e anima. Ma la stessa giustificazione degli ingiusti consiste nella remissione dei peccati, come già detto sopra (A[1]). Pertanto, la remissione dei peccati non dovrebbe essere annoverata tra le condizioni necessarie per la giustificazione degli ingiusti.
+
+Obiezione 2: Inoltre, l’infusione della grazia e la remissione dei peccati sono la stessa cosa; così come l’illuminazione e l’allontanamento delle tenebre sono la stessa cosa. Tuttavia, una cosa non dovrebbe essere considerata insieme a se stessa; poiché l’unità è opposta alla molteplicità. Pertanto, la remissione dei peccati non dovrebbe essere considerata insieme all’infusione della grazia.
+
+Obiezione 3: Inoltre, la remissione dei peccati deriva come effetto dalla causa, cioè dal movimento della volontà libera verso Dio e dal peccato stesso; poiché è attraverso la fede e il pentimento che i peccati vengono perdonati. Tuttavia, un effetto non dovrebbe essere considerato insieme alla sua causa; poiché le cose così elencate insieme, in qualche modo condivise, sono per natura simultanee. Pertanto, la remissione dei peccati non dovrebbe essere considerata tra le condizioni necessarie per la giustificazione degli ingiusti.
+
+Al contrario, nel valutare ciò che è necessario per qualcosa, non dovremmo trascurare la fine, che rappresenta la parte principale di tutto. Ora, la remissione dei peccati costituisce proprio la fine del processo di giustificazione degli ingiusti; infatti è scritto (Isaia 27:9): “Questo è l’unico frutto che rende possibile la rimozione del peccato”. Pertanto, la remissione dei peccati deve essere considerata tra le cose necessarie per la giustificazione.
+
+Rispondo che ci sono quattro elementi considerati necessari per la giustificazione degli ingiusti, ovvero: l’infusione della grazia, il movimento della volontà libera verso Dio attraverso la fede, il movimento della volontà libera verso il peccato e la remissione dei peccati. La ragione di ciò è che, come già detto (A[1]), la giustificazione degli ingiusti rappresenta un processo mediante il quale l’anima viene guidata da Dio da uno stato di peccato a uno stato di giustizia. Ora, in qualsiasi processo in cui una cosa sia mossa da un’altra, sono necessari tre elementi: innanzitutto, il movimento del motore; in secondo luogo, il movimento della cosa mossa; infine, la realizzazione completa di tale processo, ovvero l’attuazione dello scopo perseguito. Per quanto riguarda il movimento divino, esso si manifesta nell’infusione della grazia; per quanto riguarda la volontà libera che viene mossa, vi sono due aspetti principali: il distacco dallo stato di peccato e l’avvicinamento allo stato di giustizia; tuttavia, la realizzazione completa di questo processo avviene attraverso la remissione dei peccati, poiché è proprio in essa che si compie pienamente la giustificazione degli ingiusti.
+
+Risposta all’Obiezione 1: La giustificazione degli ingiusti viene chiamata remissione dei peccati, proprio come ogni azione ha la sua specifica natura determinata dal suo fine. Tuttavia, per raggiungere tale fine sono necessarie molte altre condizioni, come già detto in precedenza (A[5]).
+
+Risposta all’Obiezione 2: L’influsso della grazia e la remissione del peccato possono essere considerati in due modi: innanzitutto, in relazione alla sostanza dell’atto stesso; in questo senso, essi sono identici, poiché è attraverso lo stesso atto che Dio dona la grazia e rimuove il peccato. In secondo luogo, possono essere considerati dal punto di vista degli oggetti su cui si esercitano; in questo caso, essi differiscono a seconda della natura dell’oggetto interessato: da un lato c’è il peccato che viene rimesso, dall’altro la grazia che viene donata; proprio come, nel mondo naturale, la generazione e la corruzione sono due processi diversi, anche se la generazione di una cosa può essere considerata la corruzione di un’altra.
+
+Risposta all’Obiezione 3: Questa enumerazione non rappresenta la divisione di un genere nelle sue specie, nella quale gli elementi elencati devono essere simultanei; bensì si tratta della divisione degli elementi necessari per il completamento di qualcosa. In questa enumerazione possiamo quindi includere sia gli elementi che precedono che quelli che seguono, poiché alcuni principi e parti di un composto possono esserci prima di altri.
 
 <span class="atom-split" data-atom="037" data-title="Whether the justification of the ungodly takes place in an instant or successively?" data-chapter="Whether the justification of the ungodly takes place in an instant or successively?" data-kind="atom" data-srclang="en"></span>
 
@@ -1903,6 +2437,32 @@ therefore, decide from this about its change as regards the condition of tempora
 we must say that there is no last instant that sin inheres, but a last time; whereas there is a first
 instant that grace inheres; and in all the time previous sin inhered.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la giustificazione degli ingiusti non avvenga in un istante, ma in modo successivo, poiché, come già detto (A[3]), per la giustificazione degli ingiusti è necessario un atto di libera volontà. Ora, l’atto della libera volontà è la scelta, e questa richiede una deliberazione, come sopra indicato (Q[13], A[1]). Pertanto, poiché la deliberazione implica un certo processo di ragionamento, e questo comporta successività, sembra che anche la giustificazione degli ingiusti avvenga in modo progressivo.
+
+Obiezione 2: Inoltre, l’azione della volontà libera non avviene senza una reale considerazione da parte dell’individuo. Tuttavia è impossibile comprendere molte cose in modo simultaneo e completo, come già affermato sopra (FP, Q[85], A[4]). Pertanto, poiché per giustificare l’empio è necessario che la volontà libera si diriga verso più oggetti – cioè verso Dio e verso il peccato – sembrerebbe impossibile che la giustificazione dell’empio possa avvenire in un istante.
+
+Obiezione 3: Inoltre, una qualità che può essere maggiore o minore – ad esempio, la nerezza o la bianchezza – viene ricevuta gradualmente dal soggetto che la possiede. Ora, la grazia può anch’essa essere maggiore o minore, come già detto (Q[112], A[4]). Pertanto, non viene ricevuta improvvisamente dal suo soggetto. Quindi, poiché l’infusione della grazia è necessaria per la giustificazione degli ingiusti, sembrerebbe che la giustificazione degli ingiusti non possa avvenire in un istante.
+
+Obiezione 4: Inoltre, l’azione della volontà libera, che coopera nel processo di giustificazione, è meritoria; pertanto deve derivare dalla grazia, senza la quale non esiste alcun merito, come chiariremo più avanti (Q[114], A[2]). Ora, una cosa riceve la propria forma prima di poter agire secondo tale forma. Quindi la grazia viene prima infusa, e solo dopo la volontà libera viene spinta verso Dio e a detestare il peccato. Di conseguenza, il processo di giustificazione non avviene immediatamente.
+
+Obiezione 5: Inoltre, se la grazia viene infusa nell’anima, deve esserci un istante preciso in cui essa vi dimora per la prima volta; allo stesso modo, se il peccato viene perdonato, deve esserci un ultimo istante in cui l’uomo si trova nel peccato. Ma non può trattarsi dello stesso istante, altrimenti opposti esisterebbero contemporaneamente nello stesso momento. Pertanto, devono esserci due momenti successivi; tra di loro deve esserci del tempo, come afferma il Filosofo (Phys. vi, 1). Quindi la giustificazione degli ingiusti non avviene tutto d’un tratto, ma in modo successivo.
+
+Al contrario, la giustificazione degli ingiusti è dovuta alla grazia giustificatrice dello Spirito Santo. Lo Spirito Santo infatti entra nelle menti degli uomini improvvisamente, come si legge in Atti 2:2: “Improvvisamente venne dal cielo un suono simile al rumore di un vento potente”; secondo i commenti biblici, “la grazia dello Spirito Santo non conosce ritardi”. Pertanto, la giustificazione degli ingiusti non avviene in modo graduale, ma è immediata.
+
+Rispondo che l’intera giustificazione degli empi si basa sul fatto che la loro salvezza deriva dall’infusione della grazia divina. È infatti per mezzo della grazia che la volontà libera viene mosso e il peccato viene remesso. L’infusione della grazia avviene in un istante, senza alcun processo successivo. Il motivo di ciò è che, se una forma non viene immediatamente impressa nella materia su cui agisce, ciò accade o perché quella materia non è predisposta ad accoglierla, oppure perché l’agente stesso ha bisogno di tempo per prepararla. Pertanto, non appena la materia viene adeguatamente predisposta da un cambiamento precedente, la [forma sostanziale](/concepts/forma_substantialis) divina le viene conferita; così come l’atmosfera, essendo predisposta ad accogliere la luce, viene immediatamente illuminata da un corpo luminoso. È stato detto in precedenza (Q[112], A[2]) che Dio, per infondere la grazia nell’anima, non ha bisogno di alcuna predisposizione preesistente, se non quella che Lui stesso ha creato. A volte questa predisposizione viene realizzata immediatamente, altre volte in modo graduale e successivo, come già accennato (Q[112], A[2], ad 2). Il motivo per cui un agente naturale non può modificare immediatamente la materia è che all’interno di essa esistono resistenze che contrastano con la potenza dell’agente stesso; quindi, più forte è l’agente, più rapidamente la materia viene predisposta. Poiché la potenza divina è infinita, essa può modificare immediatamente qualsiasi materia secondo la propria forma; e tanto più lo può fare la volontà umana, la cui azione è per natura istantanea. Pertanto, la giustificazione degli empi da parte di Dio avviene in un istante.
+
+Risposta all’Obiezione 1: Il movimento della volontà libera, che contribuisce alla giustificazione di coloro che non sono devoti a Dio, rappresenta un consenso nel detestare il peccato e nel avvicinarsi a Dio; tale consenso si verifica improvvisamente. A volte, infatti, può precederlo una deliberazione, ma questa non costituisce la sostanza stessa della giustificazione, bensì soltanto un mezzo per raggiungerla; così come il movimento fisico è un mezzo di illuminazione, e il cambiamento rappresenta un processo di generazione.
+
+Risposta all’Obiezione 2: Come già detto sopra (FP, Q[85], A[5]), non esiste nulla che impedisca di comprendere due cose contemporaneamente, nella misura in cui siano in qualche modo una stessa cosa; pertanto comprendiamo il soggetto e il predicato insieme, poiché sono uniti nell’ordine di un’unica affermazione. Allo stesso modo, la volontà libera può essere spinta verso due cose contemporaneamente, nella misura in cui una è destinata all’altra. Ora, il movimento della volontà libera verso il peccato è destinato al suo movimento verso Dio, poiché l’uomo detesta il peccato come qualcosa di contrario a Dio, a Lui che desidera attaccarsi. Pertanto, nella giustificazione dell’ingiusto, la volontà libera odia contemporaneamente il peccato e si rivolge a Dio, proprio come un corpo si avvicina a un punto e allo stesso tempo si allontana da un altro.
+
+Risposta all’Obiezione 3: Il motivo per cui una forma non viene ricevuta immediatamente nella materia non risiede nel fatto che essa possa esserci inerente in misura maggiore o minore; altrimenti la luce verrebbe ricevuta all’istante nell’aria, che può essere illuminata in modo diverso a seconda delle circostanze. Il motivo va invece cercato nella disposizione stessa della materia o del soggetto su cui la forma viene applicata, come già detto in precedenza.
+
+Risposta all’Obiezione 4: Nello stesso istante in cui una forma viene acquisita, la cosa inizia ad agire secondo quella forma; ad esempio, il fuoco, non appena viene generato, si muove verso l’alto, e se tale movimento fosse istantaneo, terminerebbe nello stesso istante in cui ha inizio. Ora, voler o non voler – i movimenti della volontà libera – non sono successivi, ma istantanei. Pertanto, anche la giustificazione delle azioni ingiuste non può essere considerata un processo successivo.
+
+Risposta all’Obiezione 5: La successione degli opposti nello stesso soggetto deve essere considerata in modo diverso nelle cose soggette al tempo e in quelle che sono al di sopra del tempo. Infatti, nelle cose che esistono nel tempo non esiste un istante finale in cui la forma precedente persista nel soggetto; esiste invece un ultimo momento in cui la forma successiva prende il sopravvento. Ciò avviene perché, nel tempo, non possiamo considerare un singolo istante come tale, poiché gli istanti non seguono immediatamente l’uno dopo l’altro, né i punti su una linea seguono necessariamente uno dopo l’altro (come dimostrato nella Fisica VI, 1). Il tempo, tuttavia, è delimitato da un istante finale. Pertanto, nel corso di tutto il tempo precedente in cui qualcosa si dirige verso la propria forma, tale cosa si trova sotto l’influenza della forma opposta; nell’istante finale di quel tempo, che coincide con il primo istante del tempo successivo, essa assume finalmente la forma desiderata. Nelle cose che sono al di sopra del tempo, invece, le cose stanno diversamente. Se in esse esiste una successione di stati o concetti intellettuali (come negli angeli), tale successione non viene misurata dal tempo continuo, ma da un tempo discreto, poiché anche le cose su cui si basa questa misurazione non sono continue (come già affermato in FP, Q[53], AA[2],3). In questi casi esiste quindi un istante finale in cui prevale lo stato precedente e un primo istante in cui emerge lo stato successivo; inoltre, non è necessario che vi sia alcun intervallo di tempo tra questi due istanti, poiché il tempo stesso non presenta continuità. L’intelletto umano, essendo giustificato, è in sé al di sopra del tempo; tuttavia, soggiace accidentalmente al tempo, nel senso che comprende le cose nel contesto di un tempo continuo, soprattutto quando considera le specie intellettuali attraverso i fantasmi mentali (come già detto in FP, Q[85], AA[1],2). Pertanto, sulla base di ciò possiamo affermare che, riguardo ai cambiamenti che avvengono nell’intelletto umano nel contesto dei processi temporali, non esiste un istante finale in cui il peccato persista, ma soltanto un ultimo momento in cui esso prevale; al contrario, esiste un primo istante in cui la grazia diventa effettiva. Nel corso di tutto il tempo precedente, invece, il peccato continua ad esistere nell’intelletto umano.
+
 <span class="atom-split" data-atom="038" data-title="Whether the infusion of grace is naturally the first of the things required for the justification of the ungodly?" data-chapter="Whether the infusion of grace is naturally the first of the things required for the justification of the ungodly?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the infusion of grace is not what is naturally required first for
@@ -1966,6 +2526,25 @@ movements the removal of the impediment precedes the attainment of the end. And 
 movement is a movement of the soul, in the order of nature it moves towards God as to its end,
 before removing the impediment of sin.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’infusione della grazia non sia ciò che è naturalmente necessario per prima cosa affinché gli ingiusti possano essere giustificati. Infatti, ci allontaniamo dal male prima di avvicinarci al bene, come recita il Salmo 33:15: “Allontanati dal male e fai del bene”. Ora, la remissione dei peccati riguarda l’allontanamento dal male, mentre l’infusione della grazia riguarda l’avvicinamento al bene. Pertanto, la remissione dei peccati è naturalmente precedente all’infusione della grazia.
+
+Obiezione 2: Inoltre, la disposizione precede naturalmente la forma verso cui essa ci dispone. Ora, il movimento della volontà libera è una disposizione alla ricezione della grazia; pertanto, esso precede naturalmente l’infusione della grazia stessa.
+
+Obiezione 3: Inoltre, il peccato ostacola l’anima nel tendere liberamente verso Dio. Ora, qualsiasi ostacolo al movimento deve essere eliminato prima che esso possa avvenire. Pertanto, la remissione del peccato e il libero arbitrio nell’indirizzarsi verso il peccato precedono naturalmente l’infusione della grazia.
+
+Al contrario, la causa è naturalmente anteriore al suo effetto. Ora, l’infusione della grazia è la causa di tutto ciò che è necessario per la giustificazione degli ingiusti, come detto sopra (A[7]). Pertanto, essa è naturalmente anteriore a tale processo.
+
+Rispondo che le quattro cose menzionate, necessarie per la giustificazione dell’ingiusto, sono simultanee nel tempo, poiché la giustificazione dell’ingiusto non avviene in modo successivo, come già detto (A[7]); tuttavia, nell’ordine naturale, una di queste precede l’altra. Nell’ordine naturale stesso, la prima è l’infusione della grazia; la seconda è il movimento della volontà libera verso Dio; la terza è il movimento della volontà libera verso il peccato; la quarta è la remissione del peccato.  
+Il motivo di ciò è che, in ogni movimento, il movimento del motore è naturalmente precedente al movimento della materia mosso; l’obiettivo finale del movimento è posto alla fine. Ora, il movimento di Dio come motore è l’infusione della grazia, come già detto (A[6]); il movimento della volontà libera verso Dio rappresenta il primo passo nel processo di giustificazione; il movimento della volontà libera verso il peccato ne è il contrario; infine, la remissione del peccato costituisce l’obiettivo finale di tutto questo processo. Pertanto, nell’ordine naturale, la prima fase nella giustificazione dell’ingiusto è l’infusione della grazia; la seconda è il movimento della volontà libera verso Dio; la terza è il movimento della volontà libera verso il peccato, poiché colui che viene giustificato detesta il peccato in quanto contrario a Dio; infine, la quarta e ultima fase è la remissione del peccato, che rappresenta lo scopo ultimo di tutto questo processo, come già indicato (AA[1],6).
+
+Risposta all’Obiezione 1: Il distacco da un certo stato e l’avvicinamento a un altro possono essere considerati in due modi: innanzitutto, dal punto di vista della cosa su cui avviene il movimento; in questo caso, il distacco da uno stato precede naturalmente l’approccio a un altro, poiché nel soggetto del movimento ciò che viene eliminato è anteriore a ciò che viene raggiunto attraverso quel movimento. Tuttavia, dal punto di vista dell’agente che compie il movimento, la sequenza è inversa: l’agente agisce per eliminare una certa forma negativa, grazie alla forma positiva preesistente in lui; ad esempio, il sole illumina attraverso la sua luce, e quindi nell’ordine naturale l’illuminazione precede la rimozione dell’oscurità. Per quanto riguarda l’atmosfera che deve essere illuminata, liberarsi dall’oscurità è anteriore all’essere illuminata, anche se entrambi gli eventi avvengono simultaneamente nel tempo. Poiché l’influsso della grazia e la remissione dei peccati riguardano Dio che giustifica, nell’ordine naturale l’influsso della grazia precede la remissione dei peccati. Tuttavia, se consideriamo ciò che avviene nell’uomo che viene giustificato, la sequenza è inversa: nell’ordine naturale, essere liberati dal peccato precede l’ottenimento della grazia che giustifica. Si potrebbe anche dire che il “punto di partenza” della giustificazione sia il peccato, mentre il “punto di arrivo” sia la giustizia; inoltre, la grazia è la causa del perdono dei peccati e dell’acquisizione della giustizia.
+
+Risposta all’Obiezione 2: Nell’ordine naturale, la disposizione del soggetto precede l’assunzione della forma; tuttavia, nell’ordine divino, essa segue l’azione dell’agente che determina tale disposizione. Pertanto, nel contesto naturale, il movimento della libertà volontaria precede l’acquisizione della grazia, mentre nel contesto divino esso segue l’influsso stesso della grazia.
+
+Risposta all’Obiezione 3: Come afferma il Filosofo (Physica ii, 9), nei movimenti dell’anima, il movimento verso il principio speculativo o verso lo scopo pratico è il primo e fondamentale; ma nei movimenti esteriori, la rimozione degli ostacoli precede l’attuazione dello scopo stesso. Poiché il movimento della volontà libera è anch’esso un movimento dell’anima, secondo l’ordine naturale essa si dirige verso Dio come verso il proprio fine, prima ancora di eliminare gli ostacoli rappresentati dal peccato.
+
 <span class="atom-split" data-atom="039" data-title="Whether the justification of the ungodly is God's greatest work?" data-chapter="Whether the justification of the ungodly is God's greatest work?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the justification of the ungodly is not God's greatest work. For
@@ -2014,6 +2593,23 @@ in the whole universe.
 
 Reply to Objection 3: This objection rests on the manner of acting, in which way creation is
 God's greatest work.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la giustificazione degli ingiusti non sia l’opera più grande di Dio. Infatti, è proprio attraverso la giustificazione degli ingiusti che otteniamo la grazia del viandante sulla strada della salvezza. Ora, per mezzo della glorificazione riceviamo una grazia celestiale, che è ancora maggiore. Pertanto, la glorificazione di angeli e uomini rappresenta un’opera più grande della giustificazione degli ingiusti.
+
+Obiezione 2: Inoltre, la giustificazione degli ingiusti è voluta per il bene particolare di un singolo uomo. Ma il bene dell’universo è maggiore del bene di un singolo uomo, come risulta chiaramente dall’Etica, I, 2. Pertanto, la creazione del cielo e della terra rappresenta un’opera più importante della giustificazione degli ingiusti.
+
+Obiezione 3: Inoltre, creare qualcosa dal nulla, quando non esiste nulla che possa cooperare con l’agente creatore, è un atto più difficile rispetto a creare qualcosa con la collaborazione di chi riceve quel risultato. Nel processo della creazione, infatti, qualcosa viene prodotto dal nulla; pertanto non esiste nulla che possa collaborare con il Creatore. Ma nella giustificazione degli ingiusti, Dio crea qualcosa partendo da qualcos’altro – ad esempio, un uomo giusto a partire da uno peccatore – e in questo caso c’è una collaborazione da parte dell’uomo stesso, poiché è necessario il coinvolgimento della sua volontà libera, come già accennato sopra (A[3]). Pertanto, la giustificazione degli ingiusti non rappresenta l’opera più grande di Dio.
+
+Al contrario, è scritto (Salmo 144:9): “Le sue tenere misericordie si estendono su tutte le sue opere”, e in una preghiera comune del [*Decimo Domenica dopo Pentecoste*] diciamo: “O Dio, che mostri la tua onnipotenza soprattutto perdonando e mostrando misericordia”. Inoltre, l’[Agostino](/figures/augustine), spiegando le parole “Cose ancora più grandi farà” (Giovanni 14:12), afferma che “far sì che un uomo giusto nasca da un peccatore è qualcosa di ancora più grande che creare il cielo e la terra”.
+
+Rispondo che un’opera può essere considerata grande in due modi: innanzitutto, in base al modo in cui agisce; in questo senso, l’atto della creazione è senza dubbio l’opera più grande, poiché qualcosa viene creato dal nulla. In secondo luogo, un’opera può essere considerata grande anche in base a ciò che ne risulta; in questo caso, la giustificazione degli ingiusti, che porta all’eterna beatitudine e alla partecipazione alla divinità, è più importante della creazione del cielo e della terra, che riguarda soltanto la natura mortale. Per questo motivo Agostino, dopo aver affermato che “rendere un peccatore giusto è un atto più grande della creazione del cielo e della terra”, aggiunge: “Poiché il cielo e la terra passeranno, mentre la giustificazione degli ingiusti durerà per sempre”.  
+Inoltre, bisogna ricordare che una cosa può essere considerata grande anche in termini di quantità assoluta; in questo caso, il dono della gloria è più importante del dono della grazia che santifica gli ingiusti. In questo senso, la glorificazione dei giusti è superiore alla giustificazione degli ingiusti. In secondo luogo, una cosa può essere considerata grande anche in termini di quantità relativa; in questo caso, il dono della grazia che giustifica gli ingiusti è più importante del dono della gloria che beata i giusti, poiché il dono della grazia supera di gran lunga la meritevolezza degli ingiusti, destinati alla punizione, mentre il dono della gloria supera soltanto la meritevolezza dei giusti, già degni di gloria a causa della loro giustificazione. Per questo motivo Agostino dice: “Chi ne è capace, giudichi se sia più grande creare angeli giusti che giustificare gli ingiusti. Certamente, se entrambi questi atti rappresentano la stessa potenza, il secondo indica una misericordia maggiore”. E così risulta chiara anche la risposta alla prima domanda.
+
+Risposta all’Obiezione 2: Il bene dell’universo è maggiore del bene particolare di un individuo, se entrambi vengono considerati nello stesso genere. Tuttavia, il bene della grazia in un singolo individuo è maggiore del bene della natura in tutto l’universo.
+
+Risposta all’Obiezione 3: Questa obiezione si basa sul modo in cui Dio agisce; è proprio attraverso questo modo che la creazione rappresenta il suo più grande capolavoro.
 
 <span class="atom-split" data-atom="040" data-title="Whether the justification of the ungodly is a miraculous work?" data-chapter="Whether the justification of the ungodly is a miraculous work?" data-kind="atom" data-srclang="en"></span>
 
@@ -2074,6 +2670,26 @@ talent and study. Hence it is miraculous when a man is made wise or learned outs
 a man does not naturally acquire justifying grace by his own action, but by God's. Hence there is
 no parity.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la giustificazione degli ingiusti sia un atto miracoloso. Infatti, gli atti miracolosi sono più grandi di quelli non miracolosi. Ora, la giustificazione degli ingiusti è più grande di qualsiasi altro atto miracoloso; ciò risulta chiaro dalla citazione di [Agostino](/figures/augustine) (A[9]). Pertanto, la giustificazione degli ingiusti è un atto miracoloso.
+
+Obiezione 2: Inoltre, il movimento della volontà nell’anima è simile all’inclinazione naturale delle cose naturali. Ma quando Dio agisce sulle cose naturali contro la loro inclinazione intrinseca, si tratta di un atto miracoloso, come quando dona la vista ai ciechi o risuscita i morti. Ora, la volontà degli ingiusti è orientata verso il male; pertanto, poiché Dio, nel giustificare un uomo, lo spinge verso il bene, sembrerebbe che anche la giustificazione degli ingiusti sia un atto miracoloso.
+
+Obiezione 3: Inoltre, poiché la saggezza è un dono di Dio, lo stesso vale per la giustizia. È miracoloso che qualcuno possa improvvisamente ricevere saggezza da Dio senza alcuno studio. Pertanto, è anch’esso miracoloso che gli ingiusti possano essere giustificati da Dio.
+
+Al contrario, le opere miracolose trascendono la forza naturale. Ora, la giustificazione degli ingiusti non trascende la forza naturale; infatti Agostino afferma (De Praed. Sanct. v) che “essere in grado di avere fede e carità appartiene alla natura umana; ma possedere veramente fede e carità richiede la grazia di Dio”. Pertanto, la giustificazione degli ingiusti non è di natura miracolosa.
+
+Rispondo che nelle opere miracolose si trovano solitamente tre elementi: il primo riguarda la forza attiva coinvolta, poiché tali operazioni possono essere compiute esclusivamente per mezzo del potere divino; esse sono semplicemente meravigliose, poiché la loro causa rimane nascosta, come già detto (FP, Q[105], A[7]). Pertanto, sia la giustificazione degli empi che la creazione del mondo, e in generale ogni opera che possa essere realizzata esclusivamente da Dio, sono considerate miracolose.  
+In secondo luogo, in alcune opere miracolose si osserva che la forma risultante va al di là delle capacità naturali della materia utilizzata; ad esempio, nella risurrezione dei morti, la vita rappresenta qualcosa che trascende le possibilità fisiche di un corpo umano. Pertanto, la giustificazione degli empi non può essere considerata miracolosa, poiché l’anima è naturalmente in grado di ricevere la grazia divina; essendo stata creata a immagine di Dio, è adatta ad accoglierla per mezzo della grazia, come afferma Agostino nella citazione precedente.  
+In terzo luogo, nelle opere miracolose si riscontra spesso un ordine causale diverso da quello abituale e consueto; ad esempio, quando un malato recupera improvvisamente la salute, al di là dei processi naturali o medici. Pertanto, la giustificazione degli empi può essere talvolta considerata miracolosa e talvolta no. Il processo normale di giustificazione prevede che Dio muova interiormente l’anima, inducendola a convertirsi verso di Lui; questa conversione iniziale è spesso imperfetta, ma può poi diventare perfetta con il tempo. Come afferma Agostino (“In Epistola Joan. Tractatus v”), “la carità iniziata merita ulteriori progressi, e quando questi progressi raggiungono la perfezione, si ottiene la completezza”. Tuttavia, Dio talvolta agisce con tale intensità che l’anima raggiunge immediatamente la perfezione della giustizia; è ciò che accadde nella conversione di Paolo, accompagnata anche da un evento miracoloso esterno. Per questo motivo, la conversione di Paolo viene ricordata in Chiesa come un fatto miracoloso.
+
+Risposta all’Obiezione 1: Alcuni miracoli, sebbene non siano sufficienti a giustificare l’azione di coloro che sono irreligiosi in termini dei beni che producono, superano comunque la normale sequenza degli eventi e quindi presentano maggiormente i tratti tipici di un [miracolo](/concepts/miracle).
+
+Risposta all’Obiezione 2: Non si tratta di un atto miracoloso, ogni volta che una cosa naturale viene fatta muoversi contro la sua inclinazione naturale; altrimenti sarebbe miracoloso che l’acqua venisse riscaldata o che una pietra venisse lanciata verso l’alto. Tuttavia, si parla di miracolo soltanto quando ciò avviene al di fuori dell’ordine delle cause naturali che normalmente determinano tali fenomeni. Ora, nessuna causa altra che Dio può giustificare gli empi, proprio come nulla altro che il fuoco può riscaldare l’acqua. Pertanto, la giustificazione degli empi da parte di Dio non è considerata miracolosa in questo senso.
+
+Risposta all’Obiezione 3: Un uomo acquisisce naturalmente saggezza e conoscenza da Dio grazie al proprio talento e allo studio. Pertanto, è miracoloso quando un uomo diventa saggio o erudito al di fuori di questo processo naturale. Tuttavia, un uomo non acquisisce naturalmente la grazia salvifica attraverso le proprie azioni, ma per intervento di Dio. Perciò non esiste alcuna analogia tra i due casi.
+
 <span class="atom-split" data-atom="041" data-title="OF MERIT (TEN ARTICLES)" data-chapter="OF MERIT (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider merit, which is the effect of cooperating grace; and under this head there
@@ -2089,6 +2705,20 @@ merit?
 (8) Whether he can merit for himself an increase of grace or charity?
 (9) Whether he can merit final perseverance?
 (10) Whether temporal goods fall under merit?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il merito, che è l’effetto della grazia cooperante; e in questo ambito vi sono dieci punti da esaminare:  
+(1) Se un uomo possa meritare qualcosa da Dio;  
+(2) Se, senza la grazia, qualcuno possa meritarsi la vita eterna;  
+(3) Se, con la grazia, qualcuno possa meritarsi la vita eterna in modo degno;  
+(4) Se sia soprattutto attraverso l’azione della carità che la grazia diventi il principio del merito;  
+(5) Se un uomo possa meritarsi per sé la prima forma di grazia;  
+(6) Se possa meritarsela per qualcun altro;  
+(7) Se qualcuno possa meritarsi la restaurazione dopo il peccato;  
+(8) Se possa meritarsi per sé un aumento di grazia o di carità;  
+(9) Se possa meritarsi la perseveranza finale nella fede;  
+(10) Se i beni temporali rientrino nel concetto di merito.
 
 <span class="atom-split" data-atom="042" data-title="Whether a man may merit anything from God?" data-chapter="Whether a man may merit anything from God?" data-kind="atom" data-srclang="en"></span>
 
@@ -2144,6 +2774,24 @@ Reply to Objection 3: Since our action has the character of merit, only on the p
 of the Divine ordination, it does not follow that God is made our debtor simply, but His own,
 inasmuch as it is right that His will should be carried out.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un uomo non possa meritare nulla da Dio. Infatti, nessuno sembrerebbe meritarlo semplicemente adempiendo ai propri doveri. Ma con tutto il bene che facciamo, non possiamo rendere sufficiente giustizia a Dio, poiché Lui merita molto di più, come afferma anche il Filosofo (Etica, viii, 14). Per questo è scritto (Luca 17:10): “Quando avrete compiuto tutte queste cose che vi sono state comandate, dite: ‘Siamo servitori inutili; abbiamo fatto ciò che era nostro dovere’”. Pertanto, un uomo non può meritare nulla da Dio.
+
+Obiezione 2: Inoltre, sembrerebbe che un uomo non meriti nulla da Dio, poiché agendo bene trae beneficio soltanto per sé stesso e non per Dio. Ora, agendo bene, un uomo può trarre vantaggio per sé o per un altro, ma non per Dio; infatti è scritto (Job 35:7): “Se agisci con giustizia, che cosa Gli darai tu, o che cosa riceverà Lui dalle tue mani?” Pertanto, un uomo non può meritare nulla da Dio.
+
+Obiezione 3: Inoltre, chiunque meriti qualcosa da un altro lo rende suo debitore; infatti, il salario di una persona rappresenta un debito che gli spetta. Ora, Dio non è debitore di nulla a nessuno; per questo si legge (Romani 11:35): “Chi ha prima dato a Lui riceverà in cambio”. Pertanto, nessuno può meritare qualcosa da Dio.
+
+Al contrario, è scritto (Ger. 31:16): “C’è una ricompensa per il tuo lavoro”. Ora, una ricompensa significa qualcosa concesso in base al merito. Pertanto, sembrerebbe che un uomo possa meritarsi qualcosa da Dio.
+
+Rispondo che merito e ricompensa si riferiscono alla stessa cosa: una ricompensa infatti indica qualcosa che viene dato a qualcuno in cambio del lavoro o dello sforzo compiuto, come prezzo per esso. Pertanto, così come è un atto di giustizia pagare un prezzo equo per ciò che si riceve da un altro, allo stesso modo è un atto di giustizia ricompensare il lavoro o lo sforzo svolto. La giustizia, infatti, è una forma di uguaglianza, come chiarisce il Filosofo nell’Etica (V, 3); quindi la giustizia esiste soltanto tra individui che sono effettivamente uguali tra loro. Tuttavia, dove non c’è uguaglianza assoluta, non esiste nemmeno giustizia assoluta, ma può esserci una certa forma di giustizia, come quando si parla del diritto di un padre o di un padrone verso il proprio figlio o servo. Quindi, dove c’è giustizia, esiste anche il concetto di merito e ricompensa; mentre dove non esiste un diritto assoluto, ma soltanto relativo, non esiste nemmeno un merito assoluto, ma soltanto relativo, nella misura in cui vi è giustizia. Il bambino, ad esempio, merita qualcosa dal proprio padre, e lo schiavo dal proprio padrone. È evidente che tra Dio e l’uomo esiste la massima disuguaglianza: essi sono infinitamente separati, e tutto il bene dell’uomo proviene da Dio. Pertanto non può esserci giustizia di uguaglianza assoluta tra uomo e Dio, ma soltanto una certa proporzione, poiché entrambi agiscono secondo le proprie leggi naturali. Il modo e la misura della virtù umana derivano da Dio; quindi il merito dell’uomo davanti a Dio esiste soltanto sulla base di un ordine divino: l’uomo riceve da Dio, come ricompensa per il proprio operare, ciò che Dio gli ha dato per poter agire, proprio come le cose naturali ottengono ciò per cui sono state create da Dio. Tuttavia, poiché la creatura razionale si muove liberamente secondo la propria volontà, il suo agire ha il carattere di merito, cosa che non accade nelle altre creature.
+
+Risposta all’Obiezione 1: L’uomo merita, nella misura in cui compie ciò che è dovuto, grazie alla sua libera volontà; altrimenti, l’atto di giustizia con il quale qualcuno adempie a un debito non sarebbe considerato meritevole.
+
+Risposta all’Obiezione 2: Dio non cerca dai nostri beni alcun profitto, ma gloria, cioè la manifestazione della Sua bontà; proprio come la cerca anche nelle Sue stesse opere. Ora, nulla viene a Lui, se non a noi stessi, attraverso la nostra [adorazione](/concepts/religion) di Lui. Pertanto, meritiamo da Dio non che le nostre azioni portino qualche beneficio a Lui, ma soltanto nel senso che compiamo queste azioni per la Sua gloria.
+
+Risposta all’Obiezione 3: Poiché la nostra azione presenta caratteristiche meritorie, ciò avviene soltanto sulla premessa dell’ordinamento divino; pertanto non si può concludere che Dio diventi nostro debitore, ma piuttosto che sia proprio suo dovere che la Sua volontà venga attuata.
+
 <span class="atom-split" data-atom="043" data-title="Whether anyone without grace can merit eternal life?" data-chapter="Whether anyone without grace can merit eternal life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that without grace anyone can merit eternal life. For man merits
@@ -2197,6 +2845,24 @@ But as regards the second proof taken from the impediment of sin, the case is si
 and God, since one man cannot merit from another whom he has offended, unless he makes
 satisfaction to him and is reconciled.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che, senza la grazia di Dio, chiunque possa meritare la vita eterna. Infatti, l’uomo merita da Dio ciò che è divinamente destinato a ricevere, come detto sopra (A[1]). Ora, per sua natura, l’uomo è destinato alla [beata felicità](/positions/beatitude) come fine ultimo della sua esistenza; pertanto desidera naturalmente essere beato. Quindi, grazie alle sue doti innate e senza la grazia di Dio, l’uomo può meritare quella beatitudine che è in realtà la vita eterna.
+
+Obiezione 2: Inoltre, più un’opera è “meno dovuta” – cioè meno legata a obblighi o doveri – e più meritoria si ritiene che sia. Ora, un’opera considerata “meno dovuta” è quella compiuta da chi ha ricevuto meno doni da Dio. Pertanto, poiché colui che possiede soltanto doti naturali ha ricevuto meno doni divini rispetto a colui che dispone sia di doni naturali che di doni gratuiti, sembrerebbe che le sue opere siano più meritorie agli occhi di Dio. E quindi, se colui che possiede la grazia può meritarsi in qualche misura la vita eterna, tanto più potrà farlo colui che non ne dispone affatto.
+
+Obiezione 3: Inoltre, la misericordia e la generosità di Dio superano infinitamente quelle umane. Un uomo può infatti meritarne da un altro, anche se non ha ancora ricevuto la sua grazia; tanto più, quindi, sembrerebbe che un uomo privo di grazia possa meritare la vita eterna.
+
+Al contrario, l’Apostolo dice (Roma 6:23): “La grazia di Dio è la vita eterna”.
+
+Rispondo che l’uomo privo di grazia può essere considerato in due stati, come già detto sopra (Q[109], A[2]): il primo è lo stato di natura perfetta, in cui si trovava Adamo prima del suo peccato; il secondo è lo stato di natura corrotta, in cui ci troviamo prima di essere restaurati dalla grazia. Pertanto, se parliamo dell’uomo nello stato primordiale, esiste un solo motivo per cui non possa meritare la vita eterna senza la grazia: i suoi doni puramente naturali non sono sufficienti, poiché il merito umano dipende dalla preordinazione divina. Ora, nessun atto umano è divinamente destinato a qualcosa che superi le capacità naturali dell’uomo; infatti, è una legge della provvidenza divina che nulla possa agire al di là delle proprie forze. La vita eterna, invece, rappresenta un bene che va oltre le possibilità della natura creata: essa trascende la conoscenza e il desiderio umano, come si legge in 1 Corinzi 2:9: “Né occhio ha visto, né orecchio ha udito, né mente umana ha concepito ciò che Dio ha preparato per coloro che lo amano”. Pertanto, nessuna natura creata può essere sufficiente a compiere un atto meritevole della vita eterna, se non vi aggiunge un dono soprannaturale: la grazia. Ma se parliamo dell’uomo nel suo stato di peccato, si aggiunge un altro motivo: l’ostacolo rappresentato dal peccato stesso. Poiché il peccato è un’offesa contro Dio che ci esclude dalla vita eterna, come chiarito in precedenza (Q[71], A[6]; Q[113], A[2]), nessuno che si trovi in uno stato di peccato mortale può meritare la vita eterna, se non prima non viene riconciliato con Dio e il suo peccato perdonato, grazie alla grazia divina. Il peccatore, infatti, merita non la vita, ma la morte, come si legge in Romani 6:23: “Il salario del peccato è la morte”.
+
+Risposta all’Obiezione 1: Dio ha disposto che la [natura umana](/axes/human_nature) raggiungesse lo scopo della vita eterna, non con le proprie forze, ma con l’aiuto della grazia; ed è in questo modo che il suo operare può essere meritevole di vita eterna.
+
+Risposta all’Obiezione 2: Senza grazia, un uomo non può compiere un’azione paragonabile a quella che deriva dalla grazia, poiché più perfetto è il principio, più perfetta sarà l’azione risultante. Tuttavia, l’obiezione avrebbe senso se ipotizzassimo che le azioni siano uguali in entrambi i casi.
+
+Risposta all’Obiezione 3: Per quanto riguarda il primo argomento addotto, la situazione è diversa in Dio e nell’uomo. L’uomo riceve infatti tutta la sua capacità di compiere il bene da Dio, e non dall’uomo stesso; pertanto, l’uomo non può meritare nulla da Dio se non attraverso i doni che Egli gli concede, come esprime efficacemente l’Apostolo in Romani 11:35: “Chi ha prima dato a Lui, riceverà in cambio”. Tuttavia, l’uomo può meritare qualcosa dall’uomo stesso, anche prima di aver ricevuto nulla da lui, grazie a ciò che ha ricevuto da Dio. Per quanto riguarda invece il secondo argomento basato sull’ostacolo rappresentato dal peccato, la situazione è simile sia nell’uomo che in Dio: un uomo non può infatti meritare nulla da un altro di cui si è offeso, a meno che non gli compia soddisfazione e non si riconcili con lui.
+
 <span class="atom-split" data-atom="044" data-title="Whether a man in grace can merit eternal life condignly?" data-chapter="Whether a man in grace can merit eternal life condignly?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man in grace cannot merit eternal life condignly, for the
@@ -2245,6 +2911,25 @@ Reply to Objection 3: The grace of the Holy Ghost which we have at present, alth
 to glory in act, is equal to it virtually as the seed of a tree, wherein the whole tree is virtually. So
 likewise by grace of the Holy Ghost dwells in man; and He is a sufficient cause of life everlasting;
 hence, 2 Cor. 1:22, He is called the "pledge" of our inheritance.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un uomo che si trova nella grazia di Dio non possa meritare degnamente la vita eterna, poiché l’Apostolo dice (Romani 8:18): “Le sofferenze di questo tempo non sono degne di essere paragonate alla gloria futura che ci sarà rivelata”. Ma tra tutte le opere meritevoli, sembrano proprio le sofferenze dei santi quelle più meritevoli. Pertanto, nessuna opera umana è sufficiente a meritare degnamente la vita eterna.
+
+Obiezione 2: Inoltre, riguardo a Romani 6:23 (“La grazia di Dio, la vita eterna”), un commento afferma: “Avrebbe potuto davvero dire: ‘Il premio della giustizia, la vita eterna’; ma ha preferito dire ‘La grazia di Dio, la vita eterna’, affinché noi sapessimo che Dio ci conduce alla vita eterna per la sua misericordia e non per i nostri meriti”. Ora, quando qualcuno merita qualcosa in modo degno, lo riceve non per misericordia, ma per merito. Pertanto, sembrerebbe che una persona che possiede la grazia di Dio non possa meritare la vita eterna in modo degno.
+
+Obiezione 3: Inoltre, sembrerebbe giusto che il merito sia pari alla ricompensa. Ora, nessun atto della vita presente può essere paragonato all’eterna vita, che supera la nostra conoscenza e i nostri desideri; inoltre, supera anche la carità o l’amore di colui che percorre questo cammino, così come supera le leggi naturali. Pertanto, con la grazia divina, un uomo non può meritare l’eterna vita in modo degno.
+
+Al contrario, ciò che viene concesso in base a un giudizio equo sembrerebbe una ricompensa meritata. Tuttavia, la vita eterna è concessa da Dio in conformità al giudizio della giustizia, come si legge in 2 Timoteo 4:8: “Per quanto riguarda me, mi è riservata una corona di giustizia che il Signore, il giusto giudice, mi darà in quel giorno”. Pertanto, l’uomo merita davvero la vita eterna come ricompensa meritata.
+
+Rispondo che il lavoro meritevole dell’uomo può essere considerato in due modi: innanzitutto, in quanto deriva dalla libera volontà; in secondo luogo, in quanto scaturisce dalla grazia dello Spirito Santo. Se lo si considera in relazione alla sostanza stessa di quel lavoro, e poiché esso nasce dalla libera volontà, non può esistere alcuna disproporzione o condanna, data l’enorme disparità tra le forze umane e quelle divine. Tuttavia, c’è una certa armonia, poiché il merito umano è proporzionale alla grazia dello Spirito Santo che lo spinge verso la vita eterna; sembrerebbe quindi giusto che Dio ricompensi l’uomo secondo l’eccellenza delle sue capacità.  
+Ma se consideriamo il lavoro meritevole in relazione alla grazia dello Spirito Santo che ci spinge verso la vita eterna, allora tale lavoro è veramente meritevole e degno di una ricompensa adeguata. Il valore del merito umano dipende infatti dalla potenza dello Spirito Santo, che ci dona la vita eterna, come affermato in Giovanni 4:14: “In lui diventerà una sorgente che sgorga per la vita eterna”. E il valore stesso di quel lavoro deriva dalla dignità della grazia divina, che rende l’uomo partecipante della natura divina e lo fa figlio di Dio, al quale spetta per diritto l’eredità celeste, come dichiarato in Romani 8:17: “Se sono figli, allora anche eredi”.
+
+Risposta all’Obiezione 1: L’Apostolo sta parlando della sostanza di queste sofferenze.
+
+Risposta all’Obiezione 2: Questa affermazione va intesa in riferimento alla prima causa che ci permette di raggiungere la vita eterna, ovvero la misericordia di Dio. Ma il nostro merito rappresenta una causa successiva.
+
+Risposta all’Obiezione 3: La grazia dello Spirito Santo che possediamo attualmente, sebbene non sia paragonabile alla gloria in atto, lo è virtualmente; infatti, il seme di un albero contiene in sé l’intero albero nel suo stato potenziale. Allo stesso modo, nella persona umana dimora la grazia dello Spirito Santo, che costituisce una causa sufficiente per la vita eterna; da qui, 2 Corinzi 1:22, lo Spirito Santo viene chiamato “pegno” della nostra eredità.
 
 <span class="atom-split" data-atom="045" data-title="Whether grace is the principle of merit through charity rather than the other virtues?" data-chapter="Whether grace is the principle of merit through charity rather than the other virtues?" data-kind="atom" data-srclang="en"></span>
 
@@ -2296,6 +2981,24 @@ Reply to Objection 3: The act of faith is not meritorious unless "faith . . . wo
 out of charity, according to 1 Cor. 13:3: "If I should deliver my body to be burned, and have not
 charity, it profiteth me nothing."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la grazia non sia il principio del merito attraverso la carità piuttosto che attraverso le altre virtù. Infatti, i salari sono dovuti per il lavoro, come affermato in Matteo 20:8: “Chiamate i lavoratori e pagateli il loro compenso”. Ora, ogni virtù rappresenta il principio di un certo atto o operazione, poiché la virtù è un’abitudine che incide concretamente sul comportamento, come già detto in precedenza (Q[55], A[2]). Pertanto, ogni virtù è ugualmente il principio del merito.
+
+Obiezione 2: Inoltre, l’Apostolo afferma (1 Corinzi 3:8): “Ognuno riceverà la propria ricompensa secondo il proprio lavoro”. Ora, la carità riduce piuttosto che aumentare lo sforzo richiesto per compiere un compito, poiché, come dice [Agostino](/figures/augustine) (De Verbis Domini, Sermone lxx), “l’amore rende facili e quasi insignificanti tutte le attività difficili e sgradevoli”. Pertanto, la carità non rappresenta un principio di merito superiore rispetto ad altre virtù.
+
+Obiezione 3: Inoltre, il più grande principio di merito sembrerebbe essere quello le cui azioni sono particolarmente meritevoli. Tuttavia, le azioni di fede, pazienza o forza d’animo sembrano essere le più meritevoli, come dimostrano i martiri, che lottarono per la fede con pazienza e coraggio fino alla morte. Pertanto, altre virtù rappresentano un principio di merito ancora maggiore della carità stessa.
+
+Al contrario, il nostro Signore disse (Giovanni 14:21): “Chi Mi ama, sarà amato dal Mio Padre; e Io lo amerò e mi manifesterò a lui”. Ora, la vita eterna consiste nella conoscenza manifesta di Dio, secondo Giovanni 17:3: “Questa è la vita eterna: che essi ti conoscano, Te, l’unico vero e vivente Dio”. Pertanto, il merito della vita eterna risiede principalmente nella carità.
+
+Rispondo che, come possiamo dedurre da quanto detto sopra (A[1]), gli atti umani hanno natura di merito per due motivi: innanzitutto, a causa dell’ordinamento divino, poiché si dice che tali atti meritino quel bene verso cui l’uomo è divinamente destinato; in secondo luogo, a causa della libertà volontaria, poiché l’uomo, più di qualsiasi altra creatura, possiede il potere di compiere atti volontari. In entrambi questi casi, il merito risiede principalmente nella carità. Dobbiamo infatti ricordare che la vita eterna consiste nel godimento di Dio; l’atto attraverso cui la mente umana si dirige verso la realizzazione del bene divino è proprio l’atto della carità, e tutti gli atti delle altre virtù sono orientati verso questo scopo, poiché tutte le altre virtù sono comandate dalla carità. Pertanto, il merito della vita eterna riguarda innanzitutto la carità, e in secondo luogo le altre virtù, nella misura in cui i loro atti sono comandati dalla carità. È altresì evidente che ciò che facciamo per amore lo facciamo con maggiore volontà; quindi, anche se il merito dipende dalla volontarietà, esso viene principalmente attribuito alla carità.
+
+Risposta all’Obiezione 1: La carità, in quanto ha la bontà come fine ultimo, spinge le altre virtù ad agire. Poiché l’abitudine alla quale appartiene tale fine comanda sempre anche le abitudini alle quali appartengono i mezzi per raggiungerlo, come è stato detto sopra (Q[9], A[1]).
+
+Risposta all’Obiezione 2: Un compito può risultare faticoso e difficile in due modi: innanzitutto, a causa della sua entità o grandezza; in questo caso, la difficoltà del compito contribuisce al aumento del merito, e quindi la carità non riduce affatto tale fatica, anzi ci spinge ad intraprendere le imprese più ardue, “poiché la carità compie grandi cose, se esiste”, come afferma Gregorio (Hom. in Evang. xxx). In secondo luogo, la difficoltà può derivare dal difetto di chi svolge il compito; ciò che non viene fatto con volontà spontanea risulta difficile per tutti noi, e tale fatica riduce il merito ottenuto; la carità, invece, elimina questa negativa conseguenza.
+
+Risposta all’Obiezione 3: L’atto di fede non è meritevole se non “operi attraverso la carità” (Galati 5:6). Allo stesso modo, anche gli atti di pazienza e forza d’animo non sono meritevoli se non vengono compiuti per amore della carità, secondo 1 Corinzi 13:3: “Anche se dovessi offrire il mio corpo al rogo, senza carità, nulla di tutto ciò mi sarebbe di alcun beneficio”.
+
 <span class="atom-split" data-atom="046" data-title="Whether a man may merit for himself the first grace?" data-chapter="Whether a man may merit for himself the first grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man may merit for himself the first grace, because, as
@@ -2342,6 +3045,26 @@ conceived of unclean seed" (Job 14:4).
 Reply to Objection 3: Man's every good work proceeds from the first grace as from its principle;
 but not from any gift of man. Consequently, there is no comparison between gifts of grace and gifts
 of men.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un uomo possa meritarsi la prima grazia, poiché, come dice [Agostino](/figures/augustine) (Epistola clxxxvi), “la fede merita la giustificazione”. Ora, un uomo viene giustificato proprio attraverso la prima grazia. Pertanto, un uomo può meritarsi la prima grazia.
+
+Obiezione 2: Inoltre, Dio dona la grazia soltanto a coloro che ne sono degni. Ora, nessuno può essere considerato degno di qualche bene se non lo ha meritato in modo adeguato. Pertanto, possiamo meritare la prima grazia in modo adeguato.
+
+Obiezione 3: Inoltre, negli esseri umani è possibile meritarsi un dono che si è già ricevuto. Ad esempio, se una persona riceve un cavallo dal proprio padrone, può meritarlo utilizzandolo al meglio al servizio di quest’ultimo. Ora, Dio è molto più generoso dell’uomo; pertanto, è ancora più possibile che un uomo, attraverso azioni successive, meriti la prima grazia che ha già ricevuto da Dio.
+
+Al contrario, la natura della grazia è incompatibile con la ricompensa basata sulle opere, come si legge in Romani 4:4:  
+“Per colui che opera, la ricompensa non viene calcolata in base alla grazia, ma in base al debito.”  
+Un uomo merita ciò che gli viene riconosciuto in base al debito, cioè come ricompensa delle sue opere. Pertanto, un uomo non può meritare la prima forma di grazia.
+
+Rispondo che il dono della grazia può essere considerato in due modi: innanzitutto, nella sua natura di dono gratuito; in questo senso è evidente che ogni merito sia incompatibile con la grazia, poiché, come afferma l’Apostolo (Romani 11:6), “se è per grazia, non è più per opere”. In secondo luogo, il dono della grazia può essere considerato anche in relazione alla natura della cosa stessa che viene concessa; in questo caso, esso certamente non può rientrare nel merito di colui che non possiede la grazia, sia perché tale dono supera di gran lunga le possibilità umane, sia perché, prima dell’arrivo della grazia, l’uomo, trovandosi nello “stato di peccato”, presenta un ostacolo al merito stesso, ovvero il peccato. Tuttavia, quando qualcuno riceve la grazia, questa già posseduta non può essere considerata frutto di meriti umani, poiché la ricompensa è legata alle opere compiute, mentre la grazia è la fonte di tutte le nostre buone azioni, come già detto sopra (Q[109]). Quanto a eventuali ulteriori doni gratuiti ricevuti in seguito alla prima grazia, essi non possono essere considerati parte della stessa grazia iniziale. Pertanto, è evidente che nessuno possa meritarsi da sé la prima grazia.
+
+Risposta all’Obiezione 1: Come afferma Agostino (Retractationes, I, 23), egli fu ingannato su questo punto per un certo periodo di tempo, credendo che l’inizio della fede provenisse da noi e che la sua realizzazione fosse concessa da Dio; e in questo senso ritratta tale opinione. Sembra proprio in questo contesto che parli della fede come di qualcosa che meriti la giustificazione. Tuttavia, se supponiamo – e questa è infatti una verità della fede – che l’inizio della fede risieda in noi, ma sia donato da Dio, allora il primo atto legato alla fede deve derivare dalla grazia; pertanto tale atto non può essere considerato meritevole di quella prima grazia. Quindi l’uomo viene giustificato per mezzo della fede, non perché, credendo, meriti effettivamente la giustificazione, ma perché crede proprio mentre viene giustificato; poiché, come già detto sopra (Q[113], A[4]), un atto di fede è necessario affinché l’ingiusto possa essere giustificato.
+
+Risposta all’Obiezione 2: Dio dona la grazia soltanto a coloro che sono degni; non perché questi lo fossero già in precedenza, ma perché per la Sua grazia li rende degni. Solo Lui “può rendere puro colui che è nato da seme impuro” (Job 14:4).
+
+Risposta all’Obiezione 3: Ogni opera buona dell’uomo deriva dalla prima grazia, cioè dal suo principio fondamentale; non invece da alcun dono umano. Pertanto, non esiste alcuna analogia tra i doni della grazia e i doni umani.
 
 <span class="atom-split" data-atom="047" data-title="Whether a man can merit the first grace for another?" data-chapter="Whether a man can merit the first grace for another?" data-kind="atom" data-srclang="en"></span>
 
@@ -2393,6 +3116,24 @@ dwellings, either by impetrating their forgiveness in prayer, or by meriting con
 good works, or materially speaking, inasmuch as by these good works of mercy, exercised towards
 the poor, we merit to be received into everlasting dwellings.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un uomo possa meritare la prima grazia per un altro. Infatti, in Matteo 9:2, dove si legge “Gesù, vedendo la loro fede”, un commento afferma: “Quanto vale la nostra fede personale davanti a Dio, che ha attribuito tale valore alla fede di un altro da guarirlo sia interiormente che esteriormente!” Ora, la guarigione interiore avviene per mezzo della grazia. Pertanto, un uomo può meritare la prima grazia per un altro.
+
+Obiezione 2: Inoltre, le preghiere dei giusti non sono vane, ma efficaci, secondo quanto affermato da Giacomo 5:16: “La continua preghiera di un uomo giusto è molto utile”. Prima di ciò, Giacomo aveva detto: “Pregate gli uni per gli altri, affinché possiate essere salvati”. Pertanto, poiché la salvezza dell’uomo può avvenire soltanto per grazia, sembra che un uomo possa meritare per un altro la prima grazia divina.
+
+Obiezione 3: Inoltre, è scritto (Lc. 16:9): “Fatevi amici dei denari mal acquistati, affinché, quando vi troverete in difficoltà, essi possano accogliervi nelle dimore eterne”. Ora, è soltanto per grazia che qualcuno viene accolto nelle dimore eterne, poiché è solo attraverso la grazia che si merita la vita eterna, come detto sopra (A[2]; Q[109], A[5]). Pertanto, un uomo può, per merito proprio, ottenere per un altro la prima grazia.
+
+Al contrario, è scritto (Ger. 15:1): “Anche se Mosè e Samuele si presentassero davanti a Me, il Mio cuore non sarebbe rivolto verso questo popolo” – eppure essi avevano grande merito agli occhi di Dio. Da ciò sembra che nessuno possa meritare per un altro la prima grazia divina.
+
+Rispondo che, come mostrato sopra (AA[1],3,4), le nostre opere sono meritevoli per due motivi: innanzitutto, per virtù del movimento divino; e quindi meritiamo giustamente di essere ricompensati; in secondo luogo, poiché queste opere derivano dalla libera volontà, nel senso che le compiamo volentieri, e pertanto possiedono un merito congruo: è infatti logico che, quando un uomo utilizza al meglio le proprie capacità, Dio, con il Suo potere sovrannaturale, operi ancora cose più grandi. È quindi evidente che nessuno può meritare giustamente per un altro la prima grazia divina, se non Cristo stesso; poiché ciascuno di noi è mosso da Dio al fine di raggiungere la vita eterna attraverso il dono della grazia; pertanto, il merito giusto non va oltre questo scopo. Ma l’anima di Cristo è mossa da Dio per mezzo della grazia, non solo al fine di raggiungere la gloria della vita eterna, ma anche per guidare gli altri verso di essa, poiché Egli è il Capo della Chiesa e l’Autore della salvezza umana, secondo quanto si legge in Ebrei 2:10: “Colui che ha condotto molti figli alla gloria, affinché fosse compiuto l’autore della loro salvezza”. Tuttavia, è possibile meritare giustamente la prima grazia divina per un altro; poiché una persona nella grazia di Dio realizza la Sua volontà, e è logico e in armonia con l’amicizia che Dio realizzi il desiderio di un uomo di salvare un altro, anche se a volte può esserci un ostacolo da parte di colui per il quale si desidera la salvezza. Ed è in questo senso che parla il passo del Libro di Geremia.
+
+Risposta all’Obiezione 1: La fede di un uomo è utile alla salvezza di un altro per meriti concordanti, e non per meriti degni di lode.
+
+Risposta all’Obiezione 2: L’efficacia della preghiera si basa sulla misericordia divina, mentre il merito che rende qualcuno degno di ricevere qualcosa si fonda sulla giustizia; pertanto un uomo può implorare la Divina misericordia affinché gli conceda molte cose, cose che, secondo Daniele 9:18, non merita in base alla giustizia, poiché “non è per le nostre giustificazioni che presentiamo le nostre preghiere davanti a Te, ma per la moltitudine delle Tue tenere misericordie”.
+
+Risposta all’Obiezione 3: Si dice che i poveri che ricevono l’elemosina vengano ammessi alle dimore eternhe, sia attraverso la preghiera per ottenere il loro perdono, sia per meriti derivanti da altre buone azioni, oppure, in termini materiali, poiché proprio queste opere di misericordia compiute nei confronti dei poveri ci rendono degni di essere accolti nelle dimore eternhe.
+
 <span class="atom-split" data-atom="048" data-title="Whether a man may merit restoration after a fall?" data-chapter="Whether a man may merit restoration after a fall?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that anyone may merit for himself restoration after a fall. For what
@@ -2439,6 +3180,24 @@ acts, on account of the prostration of illness. Hence it must be said that every
 eternal life absolutely; but by subsequent sin, there arises an impediment to the preceding merit,
 so that it does not obtain its effect; just as natural causes fail of their effects on account of a
 supervening impediment.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che chiunque possa meritarsi il ristabilimento dopo una caduta. Poiché ciò che un uomo può chiedere giustamente a Dio, lo stesso può meritarlo. Ora, nulla potrebbe essere più giustamente chiesto a Dio del ristabilimento dopo una caduta, come afferma [Agostino](/figures/augustine) (*Cfr. Enarr. i super Ps. lxx.*), in accordo con il Salmo 70:9: “Quando la mia forza si esaurirà, non abbandonarmi”. Pertanto, un uomo può meritarsi di essere ristabilito dopo una caduta.
+
+Obiezione 2: Inoltre, le azioni di un uomo giovano a lui stesso più che ad altri. Un uomo può, in qualche misura, meritarsi per un altro il suo ristabilimento dopo una caduta, proprio come la prima grazia ricevuta da quell’altro. Pertanto, con ancora maggiore motivo, può meritarsi per sé stesso il proprio ristabilimento dopo una caduta.
+
+Obiezione 3: Inoltre, quando un uomo è una volta nella grazia di Dio, merita la vita eterna grazie alle buone opere che compie, come è stato dimostrato sopra (A[2]; Q[109], A[5]). Ora, nessuno può ottenere la vita eterna se non viene restituito alla grazia di Dio. Pertanto, sembrerebbe che egli meriti per sé stesso tale restituzione.
+
+Al contrario, è scritto (Ezechiele 18:24): “Se l’uomo giusto abbandona la sua rettitudine e compie ingiustizie, tutte le sue azioni buone non verranno ricordate”. Pertanto, i suoi meriti precedenti non potranno in alcun modo aiutarlo a rialzarsi dopo una caduta. Di conseguenza, nessuno può meritarsi la restaurazione delle proprie condizioni dopo aver peccato.
+
+Rispondo che nessuno può meritarsi per sé stesso la restaurazione dopo una futura caduta, né in modo degno né appropriato. Non può meritarla in modo degno, poiché la ragione di tale merito dipende dal movimento della grazia divina, e questo movimento viene interrotto dal peccato successivo; pertanto tutti i benefici che in seguito riceve da Dio, attraverso i quali viene restaurato, non rientrano nel concetto di merito, poiché il movimento della grazia precedente non si estende a essi. Inoltre, un merito appropriato, che permetterebbe a qualcuno di meritare la prima grazia per un altro, viene ostacolato dal peccato di colui per il quale tale merito viene compiuto. Ancor di più, l’efficacia di tale merito è gravemente compromessa dall’ostacolo rappresentato da chi lo merita e da colui per il quale esso viene ottenuto; poiché entrambi sono la stessa persona. Pertanto, un uomo non può in alcun modo meritarsi per sé stesso la restaurazione dopo una caduta.
+
+Risposta all’Obiezione 1: Il desiderio che ci spinge a cercare il ristabilimento dopo una caduta è chiamato giusto, e allo stesso modo anche la preghiera con cui si implora questo ristabilimento è considerata giusta, poiché tende verso la giustizia; non perché dipenda dalla giustizia in termini di merito, ma soltanto dalla misericordia.
+
+Risposta all’Obiezione 2: Chiunque può meritare in modo legittimo per un altro la prima grazia, poiché non esiste alcun ostacolo (almeno da parte di colui che merita), diverso da quello che sorge quando qualcuno si allontana dalla giustizia dopo aver ottenuto una grazia.
+
+Risposta all’Obiezione 3: Alcuni hanno affermato che nessuno meriti “assolutamente” la vita eterna, se non attraverso l’atto della grazia finale, ma soltanto “condizionalmente”, cioè se persevera nel bene. Tuttavia, tale affermazione è irragionevole: talvolta, l’atto della grazia finale può rivelarsi meno meritevole degli atti precedenti a causa di circostanze negative, come la malattia. Pertanto, si deve riconoscere che ogni atto di carità merita assolutamente la vita eterna; tuttavia, il peccato successivo può creare un ostacolo al merito accumulato in precedenza, impedendogli di produrre i suoi effetti desiderati, proprio come le cause naturali possono fallire a causa di ostacoli esterni.
 
 <span class="atom-split" data-atom="049" data-title="Whether a man may merit the increase of grace or charity?" data-chapter="Whether a man may merit the increase of grace or charity?" data-kind="atom" data-srclang="en"></span>
 
@@ -2549,6 +3308,14 @@ me." Therefore temporal goods fall under merit.
 Objection 3: Further, as good is to merit so is evil to demerit. But on account of the demerit
 of sin some are punished by God with temporal punishments, as appears from the Sodomites, Gn.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i beni temporali rientrino nella categoria dei meriti. Infatti, ciò che viene promesso a qualcuno come ricompensa della giustizia appartiene ai meriti. Ora, nei [Vecchio Testamento](/concepts/divine_law) i beni temporali venivano promessi come ricompensa della giustizia, come si evince dal Deuteronomio 28. Pertanto, sembra che i beni temporali rientrino nella categoria dei meriti.
+
+Obiezione 2: Inoltre, ciò sembrerebbe rientrare nella categoria dei meriti, che Dio conferisce a qualcuno in ricompensa di un servizio reso. Tuttavia, a volte Dio dona beni temporali agli uomini anche per servizi resi a Lui stesso. Infatti è scritto (Esodio 1:21): “Poiché le levatrici temevano Dio, Egli loro costruì case”; secondo un commento di Gregorio (Moralia, XVIII, 4), “la vita eterna avrebbe potuto essere loro concessa come frutto della loro bontà, ma a causa del loro peccato di menzogna ricevettero una ricompensa terrena”. Inoltre è scritto (Ezechiele 29:18): “Il re di Babilonia ha fatto sì che il suo esercito compiesse faticosi lavori contro Tiro, e non gli fu data alcuna ricompensa”; successivamente si legge: “Questa sarà la paga del suo esercito. Gli ho dato la terra d’Egitto perché ha lavorato per Me”. Pertanto, i beni temporali rientrano effettivamente nella categoria dei meriti.
+
+Obiezione 3: Inoltre, ciò che è meritevole è altrettanto degno di lode, così come ciò che è indegno è degno di biasimo. Tuttavia, a causa del demerito del peccato, alcuni vengono puniti da Dio con punizioni temporanee, come si evince dai Sodomiti, secondo il Genesi.
+
 <span class="atom-split" data-atom="052" data-title="19. Hence temporal goods fall under merit." data-chapter="19. Hence temporal goods fall under merit." data-kind="atom" data-srclang="en"></span>
 
 Objection 4:
@@ -2597,3 +3364,22 @@ Reply to Objection 4: All things happen equally to the good and the wicked, as r
 substance of temporal good or evil; but not as regards the end, since the good and not the wicked
 are led to beatitude by them.
 And now enough has been said regarding morals in general.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 4:
+
+Al contrario, ciò che rientra nell’ambito dei meriti non colpisce tutti allo stesso modo. Ma i beni temporali riguardano sia i buoni che i cattivi; come afferma l’Ecclesiaste 9:2: “Tutte le cose accadono ugualmente ai giusti e ai malvagi, ai buoni e ai cattivi, ai puri e ai impuri, a colui che offre sacrifici e a colui che disprezza i riti sacri”. Pertanto, i beni temporali non sono legati ai meriti individuali.
+
+Rispondo che ciò che rientra nella categoria del merito è la ricompensa o il compenso, che costituiscono un tipo di bene. Ora, il bene dell’uomo è duplice: il primo, in senso assoluto; il secondo, in senso relativo. Il bene assoluto dell’uomo è il suo fine ultimo (secondo il Salmo 72:27: “È buono per gli uomini attenersi al loro Dio”), e quindi tutto ciò che è destinato a portare a questo fine rientra nel concetto di merito. Ma il bene relativo, non quello assoluto, è ciò che è utile all’uomo in questo momento specifico, o ciò che rappresenta un vantaggio per lui; tale bene non rientra direttamente nel concetto di merito, ma solo in senso relativo.  
+Pertanto, dobbiamo affermare che se i beni temporali vengono considerati in base al loro utilità per compiere opere virtuose, che ci portano verso il cielo, allora essi rientrano direttamente e assolutamente nel concetto di merito, così come l’aumento della grazia divina e tutto ciò che aiuta un uomo ad alcanzare la [beatazza](/positions/beatitude) dopo aver ricevuto la prima forma di grazia. Infatti, Dio dona sia ai giusti che ai malvagi abbastanza beni temporali per permetter loro di raggiungere la vita eterna; quindi tali beni sono in senso assoluto considerati buoni. Per questo si legge nel Salmo 33:10: “Coloro che Lo temono non mancheranno di nulla”, e ancora nel Salmo 36:25: “Non ho visto il giusto abbandonato, ecc.”  
+Ma se questi beni temporali vengono considerati in sé stessi, essi non rappresentano il bene assoluto dell’uomo, ma solo un vantaggio relativo; pertanto non rientrano direttamente nel concetto di merito, ma solo in senso relativo, poiché sono gli stessi uomini a essere spinti da Dio ad compiere tali opere, e con l’aiuto divino riescono a raggiungere il loro scopo. Così come la vita eterna è essenzialmente la ricompensa delle opere di giustizia, in relazione al movimento divino (come detto sopra [AA[3],6]), allo stesso modo i beni temporali, considerati in sé stessi, hanno la natura di una ricompensa, in relazione a quel movimento divino che spinge la volontà umana ad intraprendere tali opere, anche se talvolta gli uomini non ne hanno l’intenzione giusta.
+
+Risposta all’Obiezione 1: Come afferma [Agostino](/figures/augustine) (Contra Faustus, iv, 2), “in queste promesse temporali vi erano figure di cose spirituali future. Poiché le persone carnali si attenevano alle promesse della vita presente; e non solo le loro parole, ma anche la loro stessa vita avevano un carattere profetico”.
+
+Risposta all’Obiezione 2: Si afferma che queste ricompense siano state determinate da cause divine, in relazione al volere divino e non in relazione alla malvagità della volontà umana; ciò vale soprattutto per il Re di Babilonia, poiché non assediò Tiro con l’intento di servire Dio, ma piuttosto per usurpare il potere. Allo stesso modo, sebbene le levatrici avessero buone intenzioni nel salvare i bambini, la loro azione non era giusta, poiché inventarono menzogne al riguardo.
+
+Risposta all’Obiezione 3: I mali temporali vengono inflitti come punizione ai malvagi, poiché non li aiutano affatto a raggiungere la vita eterna. Ma per i giusti, che invece ne traggono beneficio, tali mali non sono punizioni, bensì strumenti utili, come già detto sopra (Q[87], A[8]).
+
+Risposta all’Obiezione 4: A tutti, sia i buoni che i malvagi, accadono le stesse cose riguardo alla sostanza del bene o del male temporale; ma non riguardo al fine ultimo, poiché solo i buoni, e non i malvagi, vengono condotti verso la beatitudine attraverso queste esperienze.  
+E ora è sufficiente ciò che è stato detto in generale sulla morale.

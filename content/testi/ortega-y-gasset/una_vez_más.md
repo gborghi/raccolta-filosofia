@@ -43,3 +43,55 @@ No sabemos si las gentes más interesadas en que los problemas de España manen 
 Por eso estimamos —y lo demandamos a plena voz— que todos los hombres responsables de los destinos de un país, se decidan a transformar toda la vida política de este pueblo, en el que varios millones de habitantes piden aquello a que tienen derecho perfecto: un poco de respeto y de bien estar; o como se ha dicho, no sólo el jornal del pan cotidiano, sino un justo «jornal de placer», para su vida.
 
 Publicado sin firma, El Sol, 18 de enero de 1919
+
+<span class="qlang-split" data-lang="en"></span>
+
+It may be affirmed that for a year and a half the guarantees that the Constitution concedes to the Spanish citizen have been in perpetual suspension. In this extreme measure the Spanish rulers have found the balm with which they try to cure all our ills.
+
+The conservative stage of 1917 was a terrible example of incivility: the brief dictatorship of Señor La Cierva went to the verge of deportation in tsarist style; and not deportation of Russians, but of honorable Spaniards.
+
+During the summer of 1918, the policy of the national Cabinet has been characterized by the murky and senseless suspension of the freedom of the Press.
+
+Now, the count of Romanones resorts to the same measure. The count's liberalism has not allowed him to find discreet means of preventing the order of Spanish life from being altered. The existence of the Spaniards is already beginning to resemble that of invaded peoples in which protests are drowned with rifle-butt blows.
+
+It is not that the effort made from the Government to guard very severely the tranquillity to which every free citizen has a right seems condemnable to us —how could it seem so to us! Revolutionary methods applied at any moment and occasion to achieve ends that an evolutionary system can attain within a modern and just regime of government remain as far from our way of seeing politics as the reactionary violences of those who convert 'order' and public tranquillity into perpetual stillness and deathly silence.
+
+But in Spain —we have said this many times— the revolution, in all its nuances, in all its aspects, has been encouraged and rekindled from the Power, from the highest summits of the Power. Now the people who believed they held all Spain in their hand are learning that a considerable part of our people lives in sullen rebellion and has come to detest them and to raise camps of combat. Now they begin to notice that the desperation of the humble and poor folk overflows, threatening and vengeful. What is to be done? There is a marvelous recourse: the constitutional guarantees are suspended; a few agitators remain confined aboard an old protected barge; decrees and proclamations are published; regiments are sent to the rebellious cities; in short, the whole police apparatus is set in motion à la Protopopoff. If there were a guard of Cossacks, it would come out brandishing its 'nagaikas'.
+
+We do not believe that the count of Romanones has thought of solving the syndicalist problem (which is not such a syndicalist problem, but a labor question that reaches all Spain) by means of police measures. It does not escape his cunning perspicacity that, once these days of public protest have passed, that violent and deep justiciary agitation will continue to be elaborated silently in the heart of the country, against which the force that a Government can arbitrarily dispose of no longer serves. Something more must be done. The problem must be solved in such a [way](/concepts/mode) that several million Spaniards feel attended with the same attention and affection that the Powers have until now reserved for certain privileged castes.
+
+We, and with us many of our compatriots, have come to fear with good foundation that all government measures in the hands of men who represent the maximum decadence of Spain will always have condemnable purposes. For example: that this moment of agitation, violent in Catalonia, tragic in Andalusia and anguishing in all Spain, may serve the Government of the count of Romanones to feign —once the first echoes of the protests have died out— that everything returns to the old normality and that, therefore, one may continue marching along the same paths of murky political concupiscence. That cannot be; we do not believe that the parties of disaster dare even to attempt at this hour a similar mockery which would have the character of a suicidal vocation.
+
+Once more, for a year and a half, recourse has been had with too much frivolity to extreme measures. We repeat that every effort of the public Power to maintain order in the life of a nation seems excellent to us. But behind that effort there must exist others very vigorous and new, clothed in a kind of efficacy that has so far been lacking in Spanish politics for everything that meant modernizing it and raising it to the necessary dignity.
+
+We do not know whether the people most interested in the problems of Spain flowing through a tranquil channel will need new essays and other experiences. We believe they are already too many.
+
+For this reason we deem —and we demand it at full voice— that all the men responsible for the destinies of a country resolve to transform the whole political life of this people, in which several million inhabitants ask for that to which they have perfect right: a little respect and well-being; or as has been said, not only the wage of the daily bread, but a just 'wage of pleasure', for their life.
+
+Published unsigned, El Sol, 18 January 1919
+
+<span class="qlang-split" data-lang="it"></span>
+
+Si può assicurare che da un anno e mezzo le garanzie che la Costituzione concede al cittadino spagnolo sono in sospensione perpetua. In questa misura estrema hanno trovato i governanti spagnoli il balsamo con cui tentano di curare tutti i nostri mali.
+
+La tappa conservatrice del 1917 fu un esempio terribile di inciviltà: la breve dittatura del signor La Cierva andò rasentando i limiti della deportazione in stile zarista; e non deportazione di russi, ma di spagnoli onorabili.
+
+Durante l'estate del 1918, la politica del Gabinetto nazionale si è caratterizzata per la torbida e insensata sospensione della libertà di stampa.
+
+Ora, il conte di Romanones ricorre alla stessa misura. Il liberalismo del conte non gli ha permesso di trovare mezzi discreti per evitare che l'ordine della vita spagnola sia alterato. L'esistenza degli spagnoli va già somigliando a quella dei popoli invasi in cui le proteste si soffocano a colpi di calcio di fucile.
+
+Non è che ci sembri condannabile —come potrebbe sembrarci!— lo sforzo che si faccia dal Governo per custodire molto severamente la tranquillità a cui ha diritto ogni cittadino libero. I metodi rivoluzionari applicati in qualsiasi momento e occasione per raggiungere fini che un sistema evolutivo può conseguire dentro un regime di governo moderno e giusto, restano tanto lontani dal nostro modo di vedere la politica, quanto le violenze reazionarie di coloro che convertono l'«ordine» e la tranquillità pubblica in quiete perpetua e in silenzio di morte.
+
+Ma in Spagna —l'abbiamo detto molte volte— la rivoluzione, in tutte le sue sfumature, in tutti i suoi aspetti, è stata incoraggiata e ravvivata dal Potere, dalle più alte vette del Potere. Ora s'accorgono le genti che credevano di avere tutta la Spagna in mano, che una considerevole parte del nostro popolo vive in sorda ribellione e che è arrivata a detestarle e a levare accampamenti di combattimento. Ora cominciano ad avvertire che la disperazione delle genti umili e povere trabocca minacciosa e vendicativa. Che fare? Esiste una meravigliosa risorsa: si sospendono le garanzie costituzionali; alcuni agitatori restano confinati a bordo di un vecchio pontone protetto; si pubblicano decreti, bandi; si inviano reggimenti alle città in rivolta; si muove, infine, tutto l'apparato di polizia alla Protopopoff. Se ci fosse una guardia di cosacchi, uscirebbe brandendo le sue «nagaike».
+
+Non crediamo che il conte di Romanones abbia pensato di risolvere il problema sindacalista (che non è tale problema sindacalista, ma una questione operaia che raggiunge tutta la Spagna) per mezzo di misure poliziesche. Non sfugge alla sua perspicacia ladina che, passati questi giorni di protesta pubblica, seguirà silenziosamente elaborandosi nel cuore del paese quella violenta e profonda agitazione giustiziera contro la quale non serve più la forza di cui un Governo può arbitrariamente disporre. Bisogna fare qualcosa di più. Bisogna risolvere il problema di [modo](/concepts/mode) che parecchi milioni di spagnoli si sentano assistiti della stessa attenzione e affetto che finora i Poteri riservavano a certe caste privilegiate.
+
+Noi, e con noi molti dei nostri compatrioti, abbiamo preso a temere fondatamente che tutte le misure di governo in mano di uomini che rappresentano la massima decadenza della Spagna, abbiano sempre finalità condannabili. Per esempio: che questo momento di agitazione, violenta in Catalogna, tragica in Andalusia e angosciosa in tutta la Spagna, serva al Governo del conte di Romanones per fingere —una volta spenti i primi echi delle proteste— che tutto torna alla vecchia normalità e che, perciò, si può continuare a marciare per gli stessi cammini di torbida concupiscenza politica. Questo non può essere; non crediamo che i partiti del disastro osino neppure tentare in quest'ora una beffa simile che avrebbe caratteri di vocazione suicida.
+
+Una volta di più, da un anno e mezzo, si ricorre con troppa frivolità a misure estreme. Ripetiamo che ci sembra eccellente ogni sforzo del Potere pubblico per mantenere l'ordine nella vita di una nazione. Ma dietro a quello sforzo devono esisterne altri molto vigorosi e nuovi, rivestiti di un genere di efficacia che finora è mancato alla politica spagnola per tutto ciò che significasse modernizzarla ed elevarla alla necessaria dignità.
+
+Non sappiamo se le genti più interessate a che i problemi della Spagna scorrano per un canale tranquillo avranno bisogno di nuovi tentativi e di altre esperienze. Crediamo che siano già fin troppi.
+
+Per questo stimiamo —e lo domandiamo a piena voce— che tutti gli uomini responsabili dei destini di un paese si decidano a trasformare tutta la vita politica di questo popolo, in cui parecchi milioni di abitanti chiedono ciò a cui hanno pieno diritto: un po' di rispetto e di benessere; o come si è detto, non solo il salario del pane quotidiano, ma un giusto «salario di piacere», per la loro vita.
+
+Pubblicato senza firma, El Sol, 18 gennaio 1919

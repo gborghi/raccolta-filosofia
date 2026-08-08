@@ -33,3 +33,35 @@ Para nosotros, lo importante es que, reconocida paladinamente la urgencia de org
 Creemos firmemente que se avecina para la política española la hora más favorable que ha sonado desde hace un siglo.
 
 Publicado sin firma, El Sol, 11 de octubre de 1918
+
+<span class="qlang-split" data-lang="en"></span>
+
+Upon learning of the solution given to the crisis, we have all said to ourselves: "There was no other." With these words we meant to say that there was none. The Government, which has been reborn from its ashes, is the ashes of a Government. No one ignores the opinion that of this ministerial conglomerate its own members had yesterday and continue to have today. The experiment undertaken on 21 March has failed. This was forced. We always made it known that that Government did not signify the future: it was, on the contrary, the liquidation of a past pluperfect, the annihilation of the traditional parties and groups. As ill-assorted relatives usually do at a funeral, all the family members of the old official Spain had gathered together, in order to give it a Christian burial.
+
+It would have been possible, nevertheless, to make its management beneficial and more prolonged. To this end we incited from this newspaper the Cabinet to undertake on a large scale, generously, orderly and seriously, some of the ample labors that, apart from the political dissidences, it is urgent to do in Spain.
+
+But it has not done so. It has done quite the contrary. According to our news, the budget hatched by this Ministry of Eagles has turned out a centipede. Each minister —and some are excellent— has applied his five senses to a piece of the budget. But, it seems, the budget, as a whole, lacks common sense. Suffice it to recall how the purpose, plausible in principle, of raising the salaries of the State functionaries has been executed. In each department distinct norms have been followed, without even equity having triumphed in the improvement.
+
+But we do not now try to give great thrusts to a dead Moor. We take account of the situation of Spanish politics at the date and hour of today. In everyone's mind is that this Government is not going to govern; it is going, simply, to wait in order to leave. It will open the Cortes, and it is understandable that the desire exists to sustain it until the approval of the aforementioned centipede. Will this be achieved?
+
+For us, the important thing is that, paladinly recognizing the urgency of organizing new political forces to which the Government be handed over as soon as possible, breaking into normal and creative march, not a single day be allowed to pass without moving opinion in that sense.
+
+We firmly believe that there is approaching for Spanish politics the most favorable hour that has sounded in a century.
+
+Published unsigned, El Sol, 11 October 1918
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nel conoscere la soluzione data alla crisi, tutti ci siamo detti: «Non ce n'era un'altra». Con queste parole volevamo dire che non ce n'era nessuna. Il Governo, che è rinato dalle sue ceneri, è la cenere di un Governo. Nessuno ignora l'opinione che di questo conglomerato ministeriale avevano ieri e continuano ad avere oggi i suoi stessi membri. Il tentativo intrapreso il 21 marzo è fallito. Era forzoso questo. Abbiamo sempre fatto constare che quel Governo non significava il futuro: era, al contrario, la liquidazione di un pretérito piuccheperfetto, l'annichilamento dei partiti e dei gruppi tradizionali. Come suole accadere in un funerale tra i parenti mal assortiti, si erano riuniti tutti i familiari della vecchia Spagna ufficiale, al fine di dare a questa cristiana sepoltura.
+
+Sarebbe stato possibile, nondimeno, rendere benefica e più prolungata la sua gestione. A questo fine incitavamo da questo periodico il Gabinetto perché intraprendesse in grande scala, generosa, ordinata e seriamente, qualcuna delle ampie opere che, a parte le dissidenze politiche, urge fare in Spagna.
+
+Ma non lo ha fatto. Ha fatto tutto il contrario. Secondo le nostre notizie, il bilancio covato da questo Ministero delle Aquile è risultato un millepiedi. Ogni ministro —e alcuni sono eccellenti— ha applicato a un pezzo del bilancio i suoi cinque sensi. Ma, a quanto pare, al bilancio, nell'insieme, manca il senso comune. Basti ricordare come si è eseguito il proposito, plausibile in principio, di aumentare lo stipendio ai funzionari dello Stato. In ogni dipartimento si sono seguite norme distinte, senza che sia trionfata neppure l'equità nel miglioramento.
+
+Ma non trattiamo ora di dare grandi stoccate a moro morto. Ci facciamo carico della situazione della politica spagnola nella data e nell'ora di oggi. Nell'animo di tutti è che questo Governo non governerà; va, semplicemente, ad aspettare per andarsene. Aprirà le Cortes, ed è comprensibile che esista il desiderio di sostenerlo fino all'approvazione del millepiedi sopra detto. Si otterrà questo?
+
+Per noi, l'importante è che, riconosciuta paladinamente l'urgenza di organizzare nuove forze politiche alle quali si consegni quanto prima il Governo, rompendo marcia normale e creatrice, non si lasci passare un giorno senza muovere l'opinione in tal senso.
+
+Crediamo fermamente che si avvicini per la politica spagnola l'ora più favorevole che sia suonata da un secolo.
+
+Pubblicato senza firma, El Sol, 11 ottobre 1918

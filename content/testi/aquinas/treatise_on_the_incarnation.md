@@ -38,6 +38,15 @@ itself, whereby God was made man for our salvation; the second, about such thing
 and suffered by our Saviour---i.e. God incarnate.
 TREATISE ON THE INCARNATION (QQ[1]-59)
 
+<span class="qlang-split" data-lang="it"></span>
+
+TERZA PARTE (TP) DELLA [SUMMA](/schools/scholasticism) TEOLOGICA
+(QQ[1]-90)
+PROLOGO
+Poiché il nostro Salvatore, il Signore Gesù Cristo, al fine di “salvare il suo popolo dai suoi peccati” (Matteo 1:21), come annunciato dall’angelo, ci ha mostrato nella Sua stessa persona la via della verità, per mezzo della quale possiamo raggiungere la beatitudine della vita eterna attraverso la risurrezione, è necessario, al fine di completare l’opera della teologia, che, dopo aver considerato lo scopo finale della vita umana, nonché le virtù e i vizi, segua un’esame del Salvatore di tutti e dei benefici da Lui donati alla razza umana.
+In merito a ciò dobbiamo considerare: (1) il Salvatore stesso; (2) i sacramenti attraverso i quali raggiungiamo la nostra salvezza; (3) lo scopo della vita immortale, che otteniamo attraverso la risurrezione. Per quanto riguarda il primo punto, sorge una doppia considerazione: la prima riguarda il mistero dell’Incarnazione stessa, mediante la quale Dio si è fatto uomo per la nostra salvezza; la seconda riguarda le azioni e le sofferenze patite dal nostro Salvatore, cioè da Dio incarnato.
+TRATTATO SULL’INCARNAZIONE (QQ[1]-59)
+
 <span class="atom-split" data-atom="002" data-title="OF THE FITNESS OF THE INCARNATION (SIX ARTICLES)" data-chapter="OF THE FITNESS OF THE INCARNATION (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Concerning the first, three things occur to be considered: first, the fitness of the Incarnation;
@@ -49,6 +58,16 @@ Under the first head there are six points of inquiry:
 (4) Whether He became incarnate to take away [original sin](/positions/original_sin) rather than actual?
 (5) Whether it was fitting for God to become incarnate from the beginning of the world?
 (6) Whether His Incarnation ought to have been deferred to the end of the world?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Per quanto riguarda il primo punto, ci sono tre aspetti da considerare: in primo luogo, la convenienza dell’Incarnazione; in secondo luogo, il modo di unione della Parola Incarnata; in terzo luogo, le conseguenze di questa unione. Sotto questo primo capo si possono individuare sei punti di indagine:  
+(1) È appropriato che Dio si incarni?  
+(2) Era necessario che Dio si incarnasse per la restaurazione della razza umana?  
+(3) Se non ci fosse stata il peccato, Dio si sarebbe comunque incarnato?  
+(4) Si è incarnato per eliminare il [peccato originale](/positions/original_sin) piuttosto che i peccati concreti commessi dagli uomini?  
+(5) Era appropriato che Dio si incarnasse fin dall’inizio del mondo?  
+(6) La Sua Incarnazione avrebbe dovuto essere rinviata alla fine del mondo?
 
 <span class="atom-split" data-atom="003" data-title="Whether it was fitting that God should become incarnate?" data-chapter="Whether it was fitting that God should become incarnate?" data-kind="atom" data-srclang="en"></span>
 
@@ -121,6 +140,28 @@ men unable to see anything but corporeal things . . . God is great not in mass, 
 the greatness of His might feels no straits in narrow surroundings. Nor, if the passing word of a
 man is heard at once by many, and wholly by each, is it incredible that the abiding Word of God
 should be everywhere at once?" Hence nothing unfitting arises from God becoming incarnate.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non fosse appropriato che Dio si incarnasse. Poiché Dio, da tutta l’[eternità](/positions/eternity), è essenza stessa di bontà, era meglio per Lui rimanere ciò che è sempre stato. Ma da tutta l’eternità Lui non ha avuto carne; pertanto era del tutto appropriato che non si unisse alla carne. Quindi non era appropriato che Dio si incarnasse.
+
+Obiezione 2: Inoltre, non è appropriato unire cose che sono infinitamente distanti tra loro; allo stesso modo, non sarebbe una unione appropriata “disegnare una figura nella quale il collo di un cavallo fosse unito alla testa di un uomo” [*Orazio, Ars Poetica, verso 1]. Ma Dio e la carne sono infinitamente distanti l’uno dall’altro: poiché Dio è la massima semplicità, mentre la carne è la massima complessità – soprattutto la carne umana. Pertanto, non era appropriato che Dio si unisse alla carne umana.
+
+Obiezione 3: Inoltre, un corpo è tanto lontano dall’essere spirituale più elevato quanto il male lo è dal bene supremo. Tuttavia sarebbe stato del tutto inappropriato che Dio, che è il bene supremo, assumesse la forma del male. Pertanto non sarebbe stato appropriato nemmeno che lo spirito creato più elevato assumesse una forma corporea.
+
+Obiezione 4: Inoltre, non sarebbe appropriato che Colui Che ha superato le cose più grandi fosse contenuto in qualcosa di così insignificante, e Che Si occupa delle questioni più importanti le lasciasse in mano a figure minori. Ma Dio – Che si prende cura di tutto il mondo, dell’intero universo – non può essere contenuto in nulla di limitato o fragile. Pertanto sembrerebbe inadeguato che “fosse nascosto sotto il corpo debole di un bambino avvolto in fasce, rispetto a Colui Di cui l’intero universo è considerato insignificante; e che Questo Sovrano abbandonasse il proprio trono per così lungo tempo, trasferendo la guida del mondo intero a un corpo così fragile”, come scrive Volusiano ad [Agostino](/figures/augustine) (Ep. cxxxv).
+
+Al contrario, sembrerebbe assolutamente appropriato che le cose invisibili di Dio vengano rivelate attraverso quelle visibili; infatti, l’intero mondo è stato creato proprio per questo scopo, come si evince chiaramente dalle parole dell’Apostolo (Romani 1:20): “Le cose invisibili di Dio, infatti, sono chiaramente comprensibili attraverso quelle visibili”. Ma, come afferma Damasceno nel De Fide Orthodossa iii, 1, grazie al mistero dell’Incarnazione vengono rivelate contemporaneamente la bontà, la saggezza, la giustizia e il potere di Dio: “La sua bontà, poiché non disprezzò la debolezza della propria creazione; la sua giustizia, poiché, di fronte alla sconfitta dell’uomo, fece sì che il tiranno fosse sconfitto proprio da un uomo, senza però strappare gli uomini con la forza dalla morte; la sua saggezza, poiché trovò un modo appropriato per saldare un debito estremamente gravoso; il suo potere, o infinita maestosità, poiché non c’è nulla di più grande del fatto che Dio si sia incarnato, ”
+
+Rispondo che a ciascuna cosa è appropriato ciò che le appartiene per sua stessa natura; pertanto, alla ragione è appropriato l’uomo, poiché essa gli appartiene in quanto è di natura razionale. Ma la stessa natura di Dio è la bontà, come risulta chiaro da Dionigi di Alessandria (Divinum Nomina i). Quindi, ciò che appartiene all’essenza della bontà è appropriato a Dio. Tuttavia, all’essenza della bontà appartiene anche il donarsi agli altri, come si evince sempre da Dionigi di Alessandria (Divinum Nomina iv). Pertanto, all’essenza del bene supremo appartiene donarsi alle creature nel modo più elevato possibile, e ciò avviene principalmente attraverso l’unione della natura creata con Lui stesso, in modo che una sola Persona sia composta da queste tre componenti: la Parola, l’anima e la carne, come afferma Agostino (De Trinitate xiii). È quindi evidente che fosse appropriato che Dio si incarnasse.
+
+Risposta all’Obiezione 1: Il mistero dell’Incarnazione non si compì perché Dio cambiasse in alcun modo lo [stato](/concepts/state) in cui esisteva da eternità, ma perché Si unì alla creatura in un modo nuovo, o meglio, perché la fece Sua. Tuttavia è appropriato che una creatura, per natura mutevole, non rimanga sempre nello stesso stato. Pertanto, così come la creatura iniziò ad esistere (sebbene prima non esistesse affatto), allo stesso modo, essendo stata precedentemente separata da Dio in Persona, in seguito Si unì a Lui.
+
+Risposta all’Obiezione 2: Unirsi a Dio in unità di persona non era conforme alle capacità naturali della carne umana, poiché tale unione andava al di là della sua dignità; tuttavia, per motivi legati alla Sua infinita bontà, fu giusto che Dio la unisse a Sé stesso per la salvezza dell’uomo.
+
+Risposta all’Obiezione 3: Ogni modo di essere in cui qualsiasi creatura si differenzia dal Creatore è stato stabilito dalla saggezza di Dio e è voluto per la sua bontà. Poiché Dio, che è increato, immutabile e incorporeo, ha creato creature mutevoli e corporee per il proprio bene. Anche il male rappresentato dalle punizioni è stato stabilito dalla giustizia di Dio, al fine della sua gloria. Tuttavia, il male derivante dai nostri errori si verifica quando ci allontaniamo dall’armonia della saggezza divina e dall’ordine della bontà divina. Pertanto, sarebbe stato conforme alla natura di Dio assumere una natura creata, mutevole, corporea e soggetta alle punizioni; ma non sarebbe stato appropriato che Egli assumesse il male stesso derivante dai nostri errori.
+
+Risposta all’Obiezione 4: Come risponde Agostino (Epistola ad Volusiano, cxxxvii): “La dottrina cristiana non afferma mai che Dio sia stato unito alla carne umana in modo tale da dover abbandonare o perdere, o trasferire – per così dire – la responsabilità di governare l’universo all’interno di questo fragile corpo. Questa è l’opinione delle persone incapaci di vedere qualcosa al di là delle cose corporee. Dio è grande non per la sua massa, ma per il suo potere; pertanto, la grandezza del Suo potere non incontra alcuna limitazione in ambienti ristretti. E se le parole fugaci di un uomo vengono udite immediatamente da molti, e ciascuno le riceve nella loro interezza, perché dovrebbe essere incredibile che la Parola eterna di Dio sia onnipresente in ogni luogo nello stesso istante?” Pertanto, nulla di inappropriato deriva dall’incarnazione di Dio.
 
 <span class="atom-split" data-atom="004" data-title="Whether it was necessary for the restoration of the human race that the Word of God should become incarnate?" data-chapter="Whether it was necessary for the restoration of the human race that the Word of God should become incarnate?" data-kind="atom" data-srclang="en"></span>
 
@@ -219,6 +260,25 @@ Reply to Objection 3: By taking flesh, God did not lessen His majesty; and in co
 did not lessen the reason for reverencing Him, which is increased by the increase of knowledge of
 Him. But, on the contrary, inasmuch as He wished to draw nigh to us by taking flesh, He greatly
 drew us to know Him.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non fosse necessario, per la riparazione della razza umana, che la Parola di Dio si incarnasse. Poiché la Parola di Dio è Dio perfetto, come è stato detto (FP, Q[4], AA[1],2), nessuna forza le fu aggiunta attraverso l’assunzione della carne. Pertanto, se la Parola di Dio incarnata avesse potuto restaurare la [natura umana](/axes/human_nature), avrebbe potuto farlo anche senza assumere una forma corporea.
+
+Obiezione 2: Inoltre, per la restaurazione della natura umana, che è decaduta a causa del peccato, non è necessario nulla di più se non che l’uomo possa espiare il proprio peccato. Ora sembra che l’uomo possa effettivamente espierlo; poiché Dio non può chiedere all’uomo di più di ciò che egli sia in grado di fare, e dato che Egli è molto più propenso alla misericordia che al castigo, poiché attribuisce l’atto del peccato all’uomo, dovrebbe anche riconoscergli il merito dell’atto opposto. Pertanto, non era necessario che la Parola di Dio si incarnasse per la restaurazione della natura umana.
+
+Obiezione 3: Inoltre, venerare Dio riguarda in modo particolare la salvezza dell’uomo; per questo si legge (Mal. 1:6): “Se dunque sono padre, dove è la mia gloria? E se sono padrone, dove è il mio timore?” Ma gli uomini venerano Dio ancora di più considerandolo al di sopra di tutto e ben al di là dei sensi umani; per questo si legge (Sal. 112:4): “Il Signore è alto sopra tutte le nazioni, e la sua gloria oltre i cieli”; e in seguito: “Chi è come il Signore nostro Dio?”, il che riguarda appunto il concetto di venerazione. Pertanto, sembrerebbe inadeguato alla salvezza dell’uomo che Dio venisse reso simile a noi assumendo la carne.
+
+Al contrario, ciò che libera l’umanità dalla perdizione è necessario per la salvezza dell’uomo. Ma il mistero dell’Incarnazione è proprio questo: secondo Giovanni 3:16, “Dio ha amato tanto il mondo da dare il Suo Unigenito, affinché chiunque crede in Lui non perisca, ma abbia la vita eterna”. Pertanto, era necessario che Dio si incarnasse per la salvezza dell’uomo.
+
+Rispondo che una cosa viene considerata necessaria per un certo fine in due modi. Primo, quando quel fine non può essere realizzato senza di essa; ad esempio, il cibo è necessario per la conservazione della vita umana. Secondo, quando quel fine può essere raggiunto in modo migliore e più agevole; ad esempio, un cavallo è necessario per un viaggio. Nel primo caso, non era necessario che Dio si incarnasse per restaurare la natura umana: con il Suo potere onnipotente, Dio avrebbe potuto comunque restaurarla in molti altri modi. Ma nel secondo caso, era davvero necessario che Dio si incarnasse per restaurare la natura umana. Ecco perché [Agostino](/figures/augustine) dice (De Trinitate xii, 10): “Dimostreremo anche che non mancavano altri modi a Dio, al cui potere tutte le cose sono ugualmente soggette; ma che non esisteva modo più adatto per guarire la nostra miseria.” Questo può essere considerato in relazione al nostro “progresso verso il bene”. Primo, riguardo alla fede: essa diventa più certa quando crediamo in Dio stesso che parla; ecco perché Agostino dice (De Civitate Dei xi, 2): “Affinché l’uomo possa camminare con maggiore fiducia verso la verità, la Verità stessa, il Figlio di Dio, avendo assunto la natura umana, ha stabilito e fondato la fede.” Secondo, riguardo alla speranza: essa viene notevolmente rafforzata da questo; ecco perché Agostino dice (De Trinitate xiii): “Niente era più necessario per elevare la nostra speranza di quanto mostrarci quanto Dio ci abbia amati profondamente. E cosa potrebbe fornirci una prova più forte di questo, se non il fatto che il Figlio di Dio sia diventato nostro compagno nella natura umana?” Terzo, riguardo alla carità: essa viene grandemente stimolata da questo; ecco perché Agostino dice (De Catechesis Rudis iv): “Qual motivo più grande potrebbe esserci per la venuta del Signore, se non per mostrare l’amore di Dio per noi?” E aggiunge poi: “Se siamo stati lenti ad amare, almeno affrettiamoci a ricambiare questo amore.” Quarto, riguardo alle buone azioni: in queste, Cristo ci ha dato un esempio; ecco perché Agostino dice in un sermone (xxii de Tempore): “Non doveva essere seguito l’uomo che poteva essere visto; ma Dio, che non poteva essere visto. E per questo motivo Dio si è fatto uomo, affinché Colui che poteva essere visto dall’uomo e da cui l’uomo poteva essere guidato, potesse essere mostrato all’uomo.” Quinto, riguardo alla piena partecipazione alla divinità: essa rappresenta la vera beatitudine dell’uomo e lo scopo della sua vita; e questa è stata donata a noi attraverso l’umanità di Cristo; ecco perché Agostino dice in un sermone (xiii de Tempore): “Dio si è fatto uomo, affinché l’uomo potesse diventare Dio.” Lo stesso vale per il nostro “allontanamento dal male”. Primo, perché attraverso questo ci viene insegnato a non preferire il diavolo a noi stessi, né ad onorare colui che è l’autore del peccato; ecco perché Agostino dice (De Trinitate xiii, 17): “Poiché la natura umana è così unita a Dio da diventare una sola persona, non permettiamo a questi spiriti orgogliosi di preferirsi a se stessi rispetto all’uomo, solo perché non hanno un corpo.” Secondo, perché attraverso questo ci viene insegnato quanto sia grande la dignità umana, affinché non la contaminiamo con il peccato; ecco perché Agostino dice (De Vera Religione xvi): “Dio ci ha dimostrato quale alto posto occupi la natura umana tra tutte le creature, ”
+Poiché Egli apparve agli uomini come un vero uomo. E Papa Leone dice in un sermone sulla Nascita: “Impara, o cristiano, il tuo valore; e essendo diventato partecipe della natura divina, rifiuta di tornare, con azioni malvagie, alla tua precedente nullità.” In terzo luogo, perché “al fine di eliminare l’arroganza umana, la grazia di Dio viene esaltata in Gesù Cristo, anche se nessun merito nostro ne è stato il presupposto”, come afferma Agostino (De Trinitate, xiii, 17). In quarto luogo, perché “l’orgoglio umano, che rappresenta il più grande ostacolo al nostro attaccamento a Dio, può essere convinto e guarito da un’umiltà così profonda”, come dice ancora Agostino nello stesso testo. In quinto luogo, affinché l’uomo possa essere liberato dalla schiavitù del peccato – che, secondo Agostino (De Trinitate, xiii, 13), “deve essere sconfitto attraverso la giustizia di Gesù Cristo” – e questo fu realizzato quando Cristo pagò al posto nostro. Ora, un semplice uomo non avrebbe potuto pagare per l’intera umanità, e Dio non era obbligato a farlo; pertanto era necessario che Gesù Cristo fosse sia Dio che uomo. Per questo motivo Papa Leone dice nello stesso sermone: “La debolezza viene assunta dalla forza, l’umiltà dalla maestosità, la mortalità dall’[eternità](/positions/eternity); affinché lo stesso Mediatore tra Dio e gli uomini potesse morire da uomo e risorgere in Dio. Poiché questa era la cura adeguata per noi. Se non fosse stato Dio, non avrebbe potuto offrirci questa salvezza; se non fosse stato uomo, non avrebbe potuto darci un esempio.” E ci sono molti altri vantaggi che derivano da questo fatto, troppo numerosi per essere compresi dalla mente umana.
+
+Risposta all’Obiezione 1: Questo ragionamento riguarda il primo tipo di necessità, senza la quale non possiamo raggiungere lo scopo prefissato.
+
+Risposta all’Obiezione 2: Si può dire che la soddisfazione sia sufficiente in due modi. Primo, in modo perfetto, poiché essa è adeguata a rimediare al peccato commesso; in questo senso, la soddisfazione di un semplice uomo non può essere sufficiente per un peccato, sia perché l’intera natura umana è stata corrotta dal peccato, sia perché la bontà di una qualsiasi persona non potrebbe mai compensare completamente il danno arrecato all’intera natura umana; inoltre, poiché un peccato commesso contro Dio presenta una sorta di [infinità](/concepts/infinity), legata all’infinità della maestà divina – infatti, più grande è la persona offesa, più grave è l’offesa stessa. Pertanto, affinché la soddisfazione sia davvero adeguata al peccato, l’atto di colui che la compie deve possedere un’efficacia infinita, poiché riguarda sia Dio che l’uomo. Secondo, la soddisfazione umana può essere considerata sufficiente in modo imperfetto, cioè nell’accettazione da parte di chi si accontenta di essa, anche se essa non è realmente adeguata al peccato commesso; in questo senso, la soddisfazione di un semplice uomo è comunque efficace. Poiché ogni cosa imperfetta presuppone sempre qualcosa di perfetto che la sostiene, è proprio dalla soddisfazione di Cristo che deriva l’efficacia della soddisfazione umana.
+
+Risposta all’Obiezione 3: Prendendo carne, Dio non ha diminuito la Sua maestà; e di conseguenza non ha ridotto i motivi per rispettarLo, anzi tali motivi sono aumentati con una maggiore conoscenza di Lui. Al contrario, poiché desiderava avvicinarsi a noi prendendo carne, ci ha permesso di conoscerLo ancora meglio.
 
 <span class="atom-split" data-atom="005" data-title="Whether, if man had not sinned, God would have become incarnate?" data-chapter="Whether, if man had not sinned, God would have become incarnate?" data-kind="atom" data-srclang="en"></span>
 
@@ -360,6 +420,25 @@ person. But the sin of the nature is as perfectly healed in each one as if it we
 Hence, on account of the union of charity, what is vouchsafed to all ought to be accounted his own
 by each one.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio si sia incarnato come rimedio ai peccati effettivi e non al [peccato originale](/positions/original_sin). Infatti, più grave è il peccato, più si oppone alla salvezza dell’uomo, per la quale Dio si è incarnato. Ma il peccato effettivo è più grave del peccato originale; infatti, anche la punizione più lieve è dovuta al peccato originale, come afferma [Agostino](/figures/augustine) (Contra Iuliano, v, 11). Pertanto, l’incarnazione di Cristo ha lo scopo principale di eliminare i peccati effettivi.
+
+Obiezione 2: Inoltre, il dolore sensibile non deriva dal peccato originale, ma soltanto dal dolore legato alla perdita di qualcosa, come è stato dimostrato (FS, Q[87], A[5]). Tuttavia Cristo venne a soffrire il dolore sensibile sulla Croce in soddisfazione dei peccati – e non il dolore legato alla perdita, poiché non mancava né della [visione beatifica](/positions/beatitude) né della sua realizzazione. Pertanto, Egli venne per eliminare i peccati effettivi, e non quelli originari.
+
+Obiezione 3: Inoltre, come afferma Crisostomo (De Compunctione Cordis ii, 3): “Questo deve essere lo spirito del fedele servitore, che considera i benefici del proprio Signore, concessi a tutti in modo uguale, come se fossero stati concessi soltanto a lui stesso. Infatti, parlando quasi esclusivamente di sé, Paolo scrive ai Galati 2:20: ‘Cristo, mi ha amato e si è dato per me.’” Ma i nostri peccati individuali sono peccati concreti; poiché il peccato originale è un peccato comune a tutti. Pertanto, dovremmo avere questa convinzione, affinché crediamo che Cristo sia venuto soprattutto per i nostri peccati concreti.
+
+Al contrario, è scritto (Giovanni 1:29): “Ecco il Agnello di Dio, colui che toglie i peccati del mondo”.
+
+Rispondo che è certo che Cristo sia venuto in questo mondo non solo per eliminare quel peccato che viene trasmesso originariamente alle generazioni future, ma anche per cancellare tutti i peccati che successivamente vi sono stati aggiunti; non perché tutti i peccati vengano effettivamente eliminati (e ciò dipende dalla colpa degli uomini, poiché essi non si attaccano a Cristo, come dice Giovanni 3:19: “La luce è venuta nel mondo, ma gli uomini hanno preferito le tenebre alla luce”), bensì perché Egli ha offerto ciò che era sufficiente per cancellare tutti i peccati. Per questo si legge in Romani 5:15-16: “Ma non come il peccato, così anche la grazia. Poiché la giustizia è venuta per condanna attraverso un solo uomo, ma la grazia è venuta per giustificazione attraverso molti peccati”.  
+Inoltre, più grave è il peccato, più specificamente Cristo è venuto per cancellarlo. Ma “maggiore” si può intendere in due modi: in uno senso, “in intensità”, poiché una maggiore intensità di bianchezza viene considerata maggiore; e in questo senso il peccato effettivo è più grave del peccato originale, poiché ha un carattere più volontario, come è stato dimostrato (FS, Q[81], A[1]). In un altro senso, si può dire che qualcosa è “maggiore” “in estensione”, poiché una maggiore superficie bianca viene considerata più estesa; e in questo senso il peccato originale, che contamina l’intera umanità, è più grave di qualsiasi peccato effettivo che riguardi una singola persona. E in questo contesto, Cristo è venuto principalmente per eliminare il peccato originale, poiché “il bene della specie umana è qualcosa di più divino del bene di un individuo”, come si afferma nell’Etica i, 2.
+
+Risposta all’Obiezione 1: Questo argomento si concentra sull’enormità intrinseca del peccato.
+
+Risposta all’Obiezione 2: In futuro, il dolore fisico non verrà più inflitto come punizione per il peccato originale. Tuttavia, le pene come la fame, la sete, la morte e simili, che soffriamo in questa vita, derivano proprio dal peccato originale. Per questo motivo, Cristo, al fine di espiare completamente il peccato originale, volle sopportare dolore fisico, affinché potesse assorbire in Sé la morte e tutte le altre conseguenze negative del peccato.
+
+Risposta all’Obiezione 3: Crisostomo afferma (De Compunctione Cordis ii, 6): “L’Apostolo usò queste parole non per voler sminuire i doni di Cristo, che sono così abbondanti e diffusi in tutto il mondo, ma per far credere che fosse lui stesso la causa di tali doni. Infatti, che importanza ha se questi doni vengono concessi ad altri, se ciò che viene dato a te è completo e perfetto, come se nessuno altro ne ricevesse traccia?” Pertanto, anche se un uomo dovrebbe considerare i doni di Cristo come fatti per sé stesso, non deve pensare che essi non siano destinati ad altri. Non escludiamo quindi che Cristo sia venuto per cancellare il peccato di tutta la natura umana, e non soltanto quello di una singola persona; tuttavia, il peccato della natura umana viene sanato in modo perfetto in ciascuno di noi, come se fosse stato sanato esclusivamente in lui. Pertanto, a causa dell’unione dell’amore fraterno, ciò che è concesso a tutti dovrebbe essere considerato proprietà propria da parte di ognuno di noi.
+
 <span class="atom-split" data-atom="007" data-title="Whether it was fitting that God should become incarnate in the beginning of the human race?" data-chapter="Whether it was fitting that God should become incarnate in the beginning of the human race?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was fitting that God should become incarnate in the beginning
@@ -443,6 +522,24 @@ same, imperfection is prior in time though posterior in nature. And thus the ete
 God precedes in duration the imperfection of [human nature](/axes/human_nature); but the latter's ultimate perfection in
 union with God follows.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra appropriato che Dio si sia incarnato all’inizio della razza umana. Infatti, l’atto dell’Incarnazione derivava dall’immensità della carità divina, come si legge in Efesini 2:4-5: “Ma Dio, ricco di misericordia, per la sua immensa carità con cui ci ha amati, anche quando eravamo morti nei peccati, ci ha risuscitati insieme in Cristo”. La carità, infatti, non esita ad aiutare un amico che soffre di necessità, come afferma Proverbi 3:28: “Non dire al tuo amico: ‘Vai e torna domani, che ti darò ciò che puoi ricevere ora’”. Pertanto, Dio non avrebbe dovuto rimandare l’atto dell’Incarnazione, ma avrebbe dovuto fornire immediatamente sollievo alla razza umana fin dall’inizio.
+
+Obiezione 2: Inoltre, è scritto (1 Timoteo 1:15): “Cristo Gesù è venuto in questo mondo per salvare i peccatori”. Ma molti di più sarebbero stati salvati se Dio si fosse incarnato all’inizio della razza umana; infatti, nel corso dei secoli, molte persone sono morte nel loro peccato perché non conoscevano Dio. Pertanto, è stato appropriato che Dio si incarnasse all’inizio della razza umana.
+
+Obiezione 3: Inoltre, l’opera della grazia non è meno ordinata dell’opera della natura. Ma la natura ha origine da ciò che è più perfetto, come afferma Boezio nel “De Consolatione” (III). Pertanto, anche l’opera di Cristo dovrebbe essere stata perfetta fin dall’inizio. Tuttavia, nell’atto dell’incarnazione vediamo la perfezione della grazia, come si legge in Giovanni 1:14: “Il Verbo si è fatto carne”; e successivamente si aggiunge: “Colmo di grazia e verità”. Quindi, Cristo dovrebbe essere stato incarnato fin dall’inizio della specie umana.
+
+Al contrario, è scritto (Galati 4:4): “Ma quando fu giunto il tempo debito, Dio mandò il Suo Figlio, nato da donna e soggetto alla legge”. Un commento afferma che “il tempo debito è quello in cui Dio Padre decise di mandare il Suo Figlio”. Ma Dio ha deciso tutto con la Sua saggezza; pertanto, Dio si incarnò nel momento più appropriato. Non era infatti opportuno che Dio si incarnasse all’inizio della storia umana.
+
+Rispondo che, poiché l’opera dell’Incarnazione è principalmente destinata al ristabilimento della razza umana attraverso la cancellazione del peccato, è evidente che non fosse appropriato che Dio si incarnasse all’inizio della storia umana, prima dell’apparizione del peccato. La medicina, infatti, viene data soltanto ai malati; per questo stesso motivo il nostro Signore stesso dice (Matteo 9:12-13): “Coloro che sono sani non hanno bisogno di un medico, ma coloro che sono malati. Non sono venuto infatti a chiamare i giusti, ma i peccatori”. Non era nemmeno appropriato che Dio si incarnasse immediatamente dopo l’insorgere del peccato. Prima di tutto, a causa del modo in cui il peccato umano è nato – derivante dall’orgoglio – era necessario che l’uomo venisse liberato in modo tale da rendersi conto della propria debolezza e del bisogno di un salvatore. Per questo motivo, riguardo alle parole di Galati 3:19 (“Essendo stato ordinato dagli angeli nelle mani di un mediatore”), un commento afferma: “Con grande saggezza fu deciso che il Figlio dell’Uomo non venisse inviato subito dopo la caduta dell’uomo. Infatti, prima di tutto Dio lasciò l’uomo sotto la legge naturale, con la libertà della sua volontà, affinché potesse conoscere le proprie capacità naturali; quando queste fallirono, ricevette la legge; e fu proprio a causa del difetto intrinseco alla natura umana che il male si intensificò. Solo allora l’uomo, riconoscendo la propria debolezza, poté chiedere aiuto e invocare la grazia di Dio”. In secondo luogo, considerando l’ordine con cui progrediamo verso il bene, passando dall’imperfezione alla perfezione. Per questo motivo l’Apostolo dice (1 Corinzi 15:46-47): “Ma ciò che è spirituale non è venuto prima di ciò che è naturale; piuttosto, ciò che è naturale è venuto prima, e poi ciò che è spirituale. Il primo uomo era terrestre; il secondo uomo viene dal cielo”. In terzo luogo, in considerazione della dignità della Parola Incarnata. Riguardo alle parole di Galati 4:4 (“Ma quando sarà venuto il tempo pieno, ”), un commento afferma: “Più grande era il Giudice che stava per arrivare, più numerosi dovevano essere coloro che Lo precedevano”. Infine, per evitare che lo zelo della fede si affievolisse nel corso del tempo – poiché la carità di molti potrebbe indebolirsi alla fine dei tempi – è scritto (Luca 18:8): “Ma quando il Figlio dell’Uomo verrà, troverà ancora sulla terra fede?”
+
+Risposta all’Obiezione 1: La carità non ritarda nel fornire aiuto a un amico, tenendo sempre presenti sia le circostanze che lo [stato](/concepts/state) delle persone coinvolte. Infatti, se il medico somministrasse il farmaco fin dall’inizio della malattia, l’effetto sarebbe minore e potrebbe causare più danno che beneficio. Ecco perché il Signore non ha concesso all’umanità il rimedio dell’Incarnazione fin dall’inizio, per evitare che l’uomo lo disprezzasse a causa dell’orgoglio, nel caso in cui non avesse già riconosciuto la propria malattia.
+
+Risposta all’Obiezione 2: [Agostino](/figures/augustine) risponde a questa obiezione nel suo libro *De Sex Quest. Pagan.* (Epistola cxxii), affermando che “Cristo volle apparire agli uomini e far predicare la Sua dottrina in quei tempi e luoghi dove sapeva che vi sarebbero stati coloro che avrebbero creduto in Lui. Tuttavia, in epoche e luoghi in cui il Suo Vangelo non veniva predicato, Egli prevedeva che non tutti, ma molti, avrebbero accolto la Sua predicazione senza credere nella Sua presenza corporea, anche se Lui stesso avesse risuscitato i morti”. Tuttavia lo stesso Agostino, nel suo libro *De Perseverantia* (IX), obietta a questa spiegazione, dicendo: “Come possiamo affermare che gli abitanti di Tiro e Sidone non avrebbero creduto se tali grandi miracoli fossero avvenuti tra di loro, o che non avrebbero creduto comunque, quando Dio stesso testimonia che avrebbero compiuto penitenza con grande umiltà se questi segni del potere divino fossero apparsi davanti a loro?” E aggiunge ancora: “Pertanto, come dice l’Apostolo (Romani 9:16), ‘non è dalla volontà di colui che vuole né da quella di colui che corre, ma da Dio che mostra misericordia’. Egli soccorre coloro che, come aveva previsto, avrebbero creduto nei Suoi miracoli se questi fossero avvenuti tra di loro; per gli altri, invece, non interviene, poiché li ha giudicati nella Sua [predestinazione](/concepts/predestination) in modo segreto ma giusto. Pertanto, crediamo senza esitazioni che la Sua misericordia sia con coloro che sono liberati, e la Sua verità con coloro che sono condannati.” [*Le parole tra parentesi non fanno parte del testo originale di Sant’Agostino*.]
+
+Risposta all’Obiezione 3: La perfezione è anteriore all’imperfezione, sia nel tempo che nella natura, nelle cose diverse (poiché ciò che porta le altre alla perfezione deve esso stesso essere perfetto); ma nello stesso oggetto, l’imperfezione è anteriore nel tempo sebbene posteriore nella natura. Pertanto, la perfezione eterna di Dio precede, in termini di durata, l’imperfezione della [natura umana](/axes/human_nature); ma la sua perfezione ultima, nell’unione con Dio, segue.
+
 <span class="atom-split" data-atom="008" data-title="Whether the Incarnation ought to have been put off till the end of the world?" data-chapter="Whether the Incarnation ought to have been put off till the end of the world?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the work of the Incarnation ought to have been put off till the
@@ -516,6 +613,24 @@ of sins; the second, to judge the world. For if He had not done so, all would ha
 since all have sinned and need the glory of God." Hence it is plain that He ought not to have put
 off the coming in mercy till the end of the world.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’opera dell’Incarnazione avrebbe dovuto essere rinviata fino alla fine del mondo. Infatti è scritto (Salmo 91:11): “La mia vecchiaia avverrà nella grande misericordia” – cioè “nei giorni ultimi”, come spiega un commento. Ma il tempo dell’Incarnazione è proprio il tempo della misericordia, secondo il Salmo 101:14: “È giunto il momento di mostrare misericordia”. Pertanto, l’Incarnazione avrebbe dovuto essere rinviata fino alla fine del mondo.
+
+Obiezione 2: Inoltre, come è stato detto (A[5], ad 3), nello stesso soggetto la perfezione segue temporalmente l’imperfezione. Pertanto, ciò che è più perfetto dovrebbe essere collocato all’ultimo posto nel tempo. Ma la massima perfezione della [natura umana](/axes/human_nature) consiste nell’unione con la Parola, poiché “in Cristo è piaciuto al Padre che tutta la pienezza della divinità risiedesse in Lui”, come afferma l’Apostolo (Col. 1:19 e 2:9). Pertanto, l’Incarnazione avrebbe dovuto essere rinviata fino alla fine del mondo.
+
+Obiezione 3: Inoltre, ciò che può essere fatto da una sola persona non dovrebbe essere fatto da due. Ma colui che venne da Cristo alla fine del mondo fu sufficiente per la salvezza della natura umana. Pertanto, non era necessario che Egli venisse prima attraverso l’Incarnazione; e quindi l’Incarnazione avrebbe dovuto essere rinviata fino alla fine del mondo.
+
+Al contrario, è scritto (Abacuc 3:2): “Nel corso degli anni lo renderai noto”. Pertanto, il mistero dell’Incarnazione, che fu rivelato al mondo, non avrebbe dovuto essere rinviato fino alla fine dei tempi.
+
+Rispondo che, così come non era appropriato che Dio si incarnasse all’inizio del mondo, allo stesso modo non era appropriato che l’Incarnazione fosse rinviata fino alla fine del mondo. Ciò risulta evidente innanzitutto dall’unione della natura divina e di quella umana: poiché, come è stato detto (A[5], ad 3), la perfezione precede l’imperfezione nel tempo in un certo modo, mentre in altro modo è l’imperfezione a precedere la perfezione. Nel caso di ciò che viene reso perfetto partendo dall’imperfetto, l’imperfezione precede la perfezione nel tempo; mentre in ciò che rappresenta la causa efficiente della perfezione, è la perfezione a precedere l’imperfezione nel tempo. Nell’atto dell’Incarnazione entrambi questi aspetti concorrono: infatti, attraverso l’Incarnazione la natura umana viene elevata alla sua massima perfezione; pertanto non era appropriato che l’Incarnazione avvenisse all’inizio della storia umana. La Parola incarnata è proprio la causa efficiente della perfezione della natura umana, come si legge in Giovanni 1:16: “Dalla Sua pienezza tutti noi abbiamo ricevuto”; quindi l’atto dell’Incarnazione non avrebbe dovuto essere rinviato fino alla fine del mondo. Tuttavia, la perfezione di gloria a cui la natura umana sarà infine elevata attraverso la Parola incarnata avverrà proprio alla fine del mondo. In secondo luogo, ciò risulta appropriato anche in base agli effetti della salvezza dell’uomo: poiché, come si dice nelle Qq. Vet et Nov. Test., qu. 83, “è nel potere di Colui che dona avere pietà quando e quanto Egli vuole”. Pertanto, Dio è venuto quando ha ritenuto appropriato intervenire per soccorrere gli uomini e quando i Suoi doni sarebbero stati ben accetti. Quando, a causa della debolezza dell’umanità, la conoscenza di Dio iniziò ad offuscarsi e la morale ad indebolirsi, Dio scelse Abramo come modello di conoscenza di Dio e di vita santa; in seguito, quando il rispetto per Lui diminuì ulteriormente, diede la legge a Mosè per iscritto. Poiché i gentili la disprezzavano e non erano disposti ad accettarla, e coloro che la ricevevano non la osservavano, Dio, mosso da pietà, inviò il Suo Figlio per concedere a tutti il perdono dei loro peccati e offrirli giustificati a Dio Padre. Se questo rimedio fosse stato rinviato fino alla fine del mondo, tutta la conoscenza e il rispetto di Dio, nonché ogni rettitudine morale, sarebbero scomparsi dalla terra. In terzo luogo, ciò sembra appropriato anche in relazione alla manifestazione del potere divino, che ha salvato gli uomini in diversi modi: non solo attraverso la fede in qualcosa di futuro, ma anche attraverso la fede in cose presenti e passate.
+
+Risposta all’Obiezione 1: Questo commento ha come oggetto la misericordia di Dio, che ci conduce alla gloria. Tuttavia, se si riferisce alla misericordia dimostrata alla razza umana dall’Incarnazione di Cristo, dobbiamo riflettere che, come afferma [Agostino](/figures/augustine) (Retractationes, i), il tempo dell’Incarnazione può essere paragonato all’età giovanile della razza umana, “a causa della forza e del fervore della fede, che opera attraverso la carità”; e all’età anziana – cioè alla sesta età della vita umana – a causa del numero dei secoli: infatti Cristo è venuto nella sesta età. E sebbene l’età giovanile e quella anziana non possano coesistere in un unico corpo, possono tuttavia esistere insieme nell’anima, la prima per la sua agilità, la seconda per la sua gravità. Per questo motivo Agostino afferma altrove (Questiones lxxxiii, q. 44) che “non era appropriato che il Maestro, il cui esempio avrebbe dovuto guidare la razza umana verso la virtù suprema, venisse dal cielo, se non nel periodo dell’età giovanile”. In un altro suo scritto (De Genesi contra Manichei, i, 23) aggiunge però che Cristo è venuto nella sesta età – cioè nell’età anziana – della razza umana.
+
+Risposta all’Obiezione 2: L’opera dell’Incarnazione deve essere considerata non soltanto come il punto finale di un percorso che va dall’imperfezione alla perfezione, ma anche come un principio di perfezione per la natura umana, come è stato detto.
+
+Risposta all’Obiezione 3: Come afferma Crisostomo nel commento su Giovanni 3:11 (“Poiché Dio non ha mandato suo Figlio nel mondo per giudicare il mondo”, Omelia xxviii): “Ci sono due venite di Cristo: la prima, per la remissione dei peccati; la seconda, per giudicare il mondo. Se non fosse stato così, tutti sarebbero periti insieme, poiché tutti hanno peccato e hanno bisogno della gloria di Dio”. Pertanto è evidente che Cristo non avrebbe dovuto rimandare la sua venuta per misericordia fino alla fine del mondo.
+
 <span class="atom-split" data-atom="009" data-title="OF THE MODE OF UNION OF THE WORD INCARNATE (TWELVE ARTICLES)" data-chapter="OF THE MODE OF UNION OF THE WORD INCARNATE (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Now we must consider the mode of union of the Incarnate Word; and, first, the union itself;
@@ -533,6 +648,23 @@ Under the first head there are twelve points of inquiry:
 (10) Whether the union of the two natures in Christ was brought about by grace?
 (11) Whether any merits preceded it?
 (12) Whether the grace of union was natural to the man Christ?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora dobbiamo considerare il modo di unione della Parola Incarnata; e, innanzitutto, l’unione stessa; in secondo luogo, la Persona che ha assunto tale natura; in terzo luogo, la natura stessa assunta.  
+Relativamente al primo punto, vi sono dodici questioni da esaminare:  
+(1) La unione della Parola Incarnata ha avuto luogo nella natura stessa?  
+(2) Ha avuto luogo nella Persona?  
+(3) Ha avuto luogo nell’“suppositum” o nell’“hypostasis”?  
+(4) La Persona o l’“hypostasis” di Cristo è composta dopo l’Incarnazione?  
+(5) È avvenuta qualche unione tra corpo e anima in Cristo?  
+(6) La [natura umana](/axes/human_nature) è stata unita alla Parola in modo casuale?  
+(7) L’unione stessa è qualcosa di creato?  
+(8) È la stessa cosa che l’“assunzione”?  
+(9) L’unione delle due nature è la più perfetta possibile?  
+(10) L’unione delle due nature in Cristo è stata realizzata per grazia?  
+(11) Sono stati necessari alcuni meriti precedenti a tale unione?  
+(12) La grazia che ha permesso questa unione era naturale nell’uomo Cristo?
 
 <span class="atom-split" data-atom="010" data-title="Whether the Union of the Incarnate Word took place in the nature?" data-chapter="Whether the Union of the Incarnate Word took place in the nature?" data-kind="atom" data-srclang="en"></span>
 
@@ -626,6 +758,25 @@ likewise the flesh is said to be deified, as he also says (De Fide Orth. 15,17),
 union with the Word, its natural properties still remaining, and hence it may be considered as
 deified, inasmuch as it becomes the flesh of the Word of God, but not that it becomes God.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’unione della Parola Incarnata abbia avuto luogo nella natura stessa. Infatti Cirillo afferma (è citato negli atti del Concilio di Calcedone, parte ii, atto 1): “Dobbiamo intendere non due nature, ma una sola natura incarnata della Parola di Dio”; e ciò sarebbe impossibile se l’unione non avesse avuto luogo nella natura stessa. Pertanto, l’unione della Parola Incarnata ha avuto effettivamente luogo nella natura.
+
+Obiezione 2: Inoltre, Atanasio afferma che, così come l’anima razionale e la carne insieme costituiscono la [natura umana](/axes/human_nature), allo stesso modo Dio e l’uomo insieme formano una certa natura unica; pertanto, l’unione ha avuto luogo a livello della natura stessa.
+
+Obiezione 3: Inoltre, di due nature, una non può essere denominata con il nome dell’altra se queste non sono, in qualche misura, reciprocamente trasformate tra loro. Ma la natura divina e quella umana in Cristo vengono denominate l’una con il nome dell’altra; infatti Cirillo afferma (citato negli atti del Concilio di Calcedone, parte ii, atto 1) che la natura divina “è incarnata”; e Gregorio Nazianzeno dice (Ep. i ad Cledonem) che la natura umana è “deificata”, come risulta anche da Damasceno (De Fide Orthodossa iii, 6, 11). Pertanto, sembra che da queste due nature ne sia derivata una terza.
+
+Al contrario, si legge nella dichiarazione del Concilio di Calcedonia: “Confessiamo che in questi ultimi tempi il Figlio unigenito di Dio si è manifestato in due nature, senza confusione, senza cambiamento, senza divisione, senza separazione; la distinzione tra le nature non è stata eliminata dall’unione”. Pertanto, l’unione non ha avuto luogo nella natura stessa.
+
+Rispondo che, per chiarire questa questione, dobbiamo considerare ciò che significa “natura”. Ora è da osservare che la parola “natura” deriva dal termine “nascita”. Pertanto, inizialmente questo termine venne utilizzato per indicare il processo di generazione degli esseri viventi, che viene chiamato “nascita” o “fioritura”; la parola “natura”, in questo senso, significava letteralmente “ciò che nasce”. In seguito, il termine “natura” venne esteso a indicare anche il principio stesso di questa generazione; e poiché nel caso degli esseri viventi tale principio è intrinseco, il termine “natura” fu utilizzato anche per indicare qualsiasi principio intrinseco di movimento. Il Filosofo, ad esempio, afferma nella sua Physica (II) che “la natura è il principio del movimento in ciò che lo possiede essenzialmente e non accidentalmente”. Ora, questo principio può essere o la forma o la materia; perciò a volte si parla di “natura” come di forma, altre volte come di materia. Inoltre, poiché lo scopo della generazione naturale è la realizzazione dell’essenza specifica della specie, questa essenza stessa viene chiamata “natura”. Così Boezio definisce la natura nel suo De Duab. Nat.: “La natura è ciò che conferisce a una cosa la sua differenza specifica”, cioè ciò che perfeziona la sua definizione specifica. Ma ora stiamo parlando della natura in senso di essenza, di ciò che costituisce realmente la specie. Se consideriamo la natura in questo modo, diventa impossibile che l’unione del Verbo Incarnato abbia avuto luogo nella natura stessa. Infatti, una cosa può essere formata da due o più elementi in tre modi diversi: primo, da due entità complete che rimangono nella loro perfezione; questo può accadere solo nel caso di entità la cui forma sia costituita da composizione, ordine o struttura specifica (ad esempio, una casa è fatta di pietre e travi disposte in modo ordinato). Alcuni hanno ipotizzato che l’unione del Verbo Incarnato avvenisse attraverso un processo di confusione o di commensurazione, ma ciò è impossibile: prima di tutto, perché né la composizione né l’ordine sono forme sostanziali, bensì accidentali; inoltre, questo significerebbe che l’unione del Verbo Incarnato non fosse essenziale, il che verrà confutato in seguito. In secondo luogo, un tale processo non porterebbe a una unità assoluta, ma solo relativa, poiché rimarrebbero comunque diversi elementi. Infine, la forma di una cosa del genere non è considerata “natura”, bensì “arte” (ad esempio, la forma di una casa); quindi non si potrebbe dire che in Cristo sia stata costituita una singola “natura”. Inoltre, una cosa può essere formata da più elementi, perfetti ma modificati nel loro stato originale; alcuni hanno ipotizzato che l’unione del Verbo Incarnato avvenisse attraverso un processo di combinazione tra questi elementi, ma ciò è anch’esso impossibile: innanzitutto, perché la Natura Divina è completamente immutabile, e quindi non può essere trasformata in nulla altro; inoltre, nulla altro potrebbe essere trasformato in essa, poiché essa stessa non può essere generata.
+In secondo luogo, perché ciò che viene mescolato appartiene alla stessa specie e non contiene alcuno degli elementi che lo compongono; infatti, la carne differisce per specie da ciascuno dei suoi elementi. Pertanto, Cristo non avrebbe potuto avere la stessa natura né con il Suo Padre né con la Sua Madre. In terzo luogo, perché non può esserci alcun mescolamento tra cose profondamente diverse tra loro; ad esempio, se si mettesse una goccia d’acqua in un vaso di vino, l’acqua verrebbe assorbita dal vino. Poiché la Natura Divina supera infinitamente la natura umana, non potrebbe esserci alcun mescolamento: rimarrebbe soltanto la Natura Divina. Inoltre, una cosa è composta da elementi che non vengono mescolati né modificati, ma sono imperfetti; ad esempio, l’uomo è composto dall’anima e dal corpo, così come da diversi membri del corpo stesso. Tuttavia, ciò non si può dire riguardo al mistero dell’Incarnazione. Primo perché ciascuna natura, sia quella Divina che quella umana, possiede la propria specifica perfezione. Secondo perché le nature Divina e umana non possono costituire un tutto nel modo in cui i membri del corpo sono uniti tra loro; infatti, la Natura Divina è incorporea. Inoltre, non possono essere considerate come una forma unita a una materia, poiché la Natura Divina non può essere considerata la forma di nulla, soprattutto di nulla di corporeo; altrimenti si dovrebbe concludere che la specie risultante da tale unione potesse essere condivisa da più persone, il che significherebbe che ci sarebbero stati diversi Cristi. Infine, Cristo non esisterebbe né nella natura umana né in quella Divina: poiché qualsiasi differenza modifica la specie stessa di una cosa, così come l’unità modifica il numero delle parti di un insieme, come affermato nella Metafisica VIII, testo 10.
+
+Risposta all’Obiezione 1: Questo potere di Cirillo viene spiegato nel Quinto Sinodo (cioè Costantinopoli II, coll. viii, can. 8) nel seguente modo: “Se qualcuno che proclama l’unica natura della Parola di Dio incarnata non la riceve secondo quanto insegnarono i Padri, cioè che dalle nature divina e umana (dopo un’unione sostanziale) ne risulta un solo Cristo, ma cerca invece di far derivare da queste affermazioni un’unica natura o sostanza della divinità e della carne di Cristo, tale persona debba essere anatema.” Quindi il significato non è che da due nature ne risulti una sola; bensì che la Natura della Parola di Dio unisca in Sé stessa la carne nella Sua Persona.
+
+Risposta all’Obiezione 2: Dalla anima e dal corpo deriva una doppia unità, cioè quella di natura e di persona – un’unione che si manifesta in ogni individuo: da un lato, la natura, poiché l’anima è unita al corpo e lo perfeziona formalmente; dall’altro, la persona stessa. Tuttavia, questa analogia non va intesa in questo senso, poiché la Natura Divina non può essere considerata la forma di un corpo, come dimostrato (FP, Q[3], A[8]). L’unità di persona deriva invece dall’unione di anima e corpo, poiché esiste un individuo concreto che esiste in carne ed anima; ed è proprio in questo aspetto che si riscontra la somiglianza tra Cristo nella sua natura divina e umana.
+
+Risposta all’Obiezione 3: Come afferma Damasceno (De Fide Orthodossa iii, 6,11), si dice che la Natura Divina sia incarnata perché si unisce personalmente alla carne, e non perché venga trasformata in carne. Allo stesso modo, si dice che la carne sia deificata, come egli stesso afferma (De Fide Orthodossa 15,17), non per una qualche trasformazione, ma per l’unione con la Parola di Dio; le sue proprietà naturali rimangono infatti invariate. Pertanto, si può considerare la carne deificata nel senso che diventa la carne della Parola di Dio, ma non che essa stessa diventi Dio.
+
 <span class="atom-split" data-atom="011" data-title="Whether the union of the Incarnate Word took place in the Person?" data-chapter="Whether the union of the Incarnate Word took place in the Person?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the union of the Incarnate Word did not take place in the
@@ -695,6 +846,24 @@ substance," for the hand is not a complete substance, but part of a substance. T
 this human nature is a kind of individual in the genus of substance, it has not its own personality,
 because it does not exist separately, but in something more perfect, viz. in the Person of the Word.
 Therefore the union took place in the person.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’unione della Parola Incarnata non abbia avuto luogo nella Persona di Dio. Infatti, la Persona di Dio non è distinta dalla Sua Natura, come abbiamo detto (FP, Q[39], A[1]). Pertanto, se l’unione non ha avuto luogo nella Natura, ne consegue che non abbia avuto luogo nemmeno nella Persona.
+
+Obiezione 2: Inoltre, la [natura umana](/axes/human_nature) di Cristo non possiede una dignità inferiore alla nostra. Ma la personalità appartiene alla dignità, come è stato detto in precedenza (FP, Q[29], A[3], ad 2). Pertanto, poiché la nostra natura umana possiede una propria personalità, c’era ancora più motivo perché anche quella di Cristo ne possedesse una.
+
+Obiezione 3: Inoltre, come afferma Boezio nel “De Duab. Nat.”, una persona è una sostanza individuale di natura razionale. Tuttavia, la Parola di Dio ha assunto una natura umana individuale, poiché “la natura umana universale non esiste in sé stessa, ma è oggetto di pensiero puro”, come dice Damasceno nel “De Fide Orthodossa” iii, 11. Pertanto, la natura umana di Cristo possiede una propria personalità. Di conseguenza, non sembra che l’unione tra la divinità e l’umanità abbia avuto luogo a livello della persona stessa di Cristo.
+
+Al contrario, leggiamo nel Sinodo di Calcedonia (Parte ii, atto 5): “Confessiamo che il nostro Signore Gesù Cristo non sia diviso o suddiviso in due persone, ma sia uno e lo stesso: Figlio unigenito e Parola di Dio.” Pertanto, l’unione ha avuto luogo nella persona stessa di Cristo.
+
+Rispondo che il termine “persona” ha un significato diverso da quello di “natura”. Per quanto riguarda la natura, come è stato detto, essa indica quell’essenza specifica che viene indicata dalla definizione di una specie. E se non si trovasse nulla in più rispetto a ciò che appartiene alla nozione stessa della specie, non ci sarebbe bisogno di distinguere tra la natura e il soggetto che ne è l’espressione concreta (l’individuo che esiste all’interno di quella natura), poiché ogni individuo che esiste entro una determinata natura sarebbe completamente identico a essa. Ora, in alcune entità reali, si riscontrano elementi che non fanno parte della nozione stessa della specie, ovvero accidenti e principi individualizzanti; questi elementi sono particolarmente evidenti nelle entità composte da materia e forma. Pertanto, in tali casi, natura e soggetto concreto differiscono effettivamente tra loro; non perché siano completamente separati, ma perché il soggetto concreto include nella propria essenza anche quegli elementi che esulano dalla nozione stessa della specie. Per questo motivo, si considera il soggetto concreto come un tutto nel quale la natura costituisce quella parte formale necessaria al suo completamento; quindi, nelle entità composte da materia e forma, non si può dire che la natura appartenga effettivamente al soggetto concreto. Ad esempio, non si dice che quest’uomo sia “la sua umanità”. Tuttavia, se esiste un essere nel quale nulla esula dalla nozione stessa della specie o dalla sua natura (come in Dio), allora il soggetto concreto e la natura non sono realmente distinti tra loro; questa distinzione esiste soltanto nel nostro modo di pensare: si parla di “natura” perché si tratta di un’essenza, e di “soggetto concreto” perché si tratta di un ente che esiste. Ciò che si dice del soggetto concreto può essere applicato anche alla “persona” nelle creature razionali; infatti, secondo Boezio, una persona non è altro che “un’entità individuale di natura razionale”. Pertanto, tutto ciò che appartiene a una persona è unito a essa in modo intrinseco, indipendentemente dal fatto che tale cosa faccia parte della sua natura o meno. Quindi, se la natura umana non fosse unita personalmente a Dio il Verbo, non sarebbe affatto unita a Lui; di conseguenza, la credenza nell’Incarnazione verrebbe completamente negata, e la fede cristiana sarebbe completamente sovvertita. Poiché il Verbo possiede una natura umana unita a Sé, ma questa natura umana non fa parte della Sua natura divina, ne consegue che l’unione tra natura umana e natura divina è avvenuta nella “persona” del Verbo, e non nella sua natura divina stessa.
+
+Risposta all’Obiezione 1: Sebbene in Dio Natura e Persona non siano realmente distinte, esse hanno comunque significati distinti, come è stato detto sopra; infatti, il termine “Persona” indica qualcosa che esiste in modo concreto. Poiché la natura umana è unita alla Parola di Dio, in modo che la Parola esista al suo interno senza che la sua stessa natura ne riceva alcun aggiunto o cambiamento, ne consegue che l’unione tra la natura umana e la Parola di Dio ha avuto luogo nella Persona, e non nella Natura.
+
+Risposta all’Obiezione 2: La personalità appartiene necessariamente alla dignità di una cosa, nonché alla sua perfezione, nella misura in cui tale dignità e perfezione dipendono dal fatto che quella cosa esista in modo autonomo (è proprio questo il significato della parola “personalità”). Ora, esistere in qualcosa di più nobile di sé stesso rappresenta una dignità maggiore rispetto all’esistere in modo autonomo. Pertanto, la natura umana di Cristo possiede una dignità superiore alla nostra: in noi, essendo un essere che esiste in modo autonomo, ha una propria personalità; in Cristo, invece, esiste nella Persona della Parola. Così, il fatto di perfezionare la specie appartiene alla dignità di una forma, ma la parte sensibile nell’uomo, grazie alla sua unione con quella forma più nobile che perfeziona la specie, è più nobile rispetto a quella degli animali, dove essa stessa rappresenta la forma che realizza la perfezione della specie.
+
+Risposta all’Obiezione 3: La Parola di Dio “non ha assunto la natura umana nel suo complesso, ma ‘in un individuo’”, come afferma Damasceno (De Fide Orth. iii, 11); altrimenti ogni uomo sarebbe considerato la Parola di Dio, proprio come Cristo. Tuttavia dobbiamo ricordare che non ogni individuo appartenente al genere della sostanza, nemmeno quelli di natura razionale, è una persona; solo ciò che esiste in modo autonomo può essere considerato una persona, e non ciò che esiste all’interno di qualcosa di più perfetto. Pertanto, la mano di Socrate, sebbene sia un individuo, non è una persona, poiché non esiste in modo autonomo, ma all’interno di qualcosa di più perfetto, ovvero del tutto umano. La definizione di “persona” come “sostanza individuale” indica proprio questo: la mano non è una sostanza completa, ma ne fa parte. Quindi, sebbene questa natura umana sia un individuo appartenente al genere della sostanza, essa non possiede una personalità autonoma, poiché esiste in modo congiunto a qualcosa di più perfetto, ovvero alla Persona della Parola di Dio. Pertanto, l’unione tra la natura umana e la divinità ha avuto luogo nella Persona stessa della Parola.
 
 <span class="atom-split" data-atom="012" data-title="Whether the union of the Word Incarnate took place in the suppositum or hypostasis?" data-chapter="Whether the union of the Word Incarnate took place in the suppositum or hypostasis?" data-kind="atom" data-srclang="en"></span>
 
@@ -782,6 +951,25 @@ account of what belongs to its [individuation](/concepts/individuation), but on 
 form, and in composite things individuation is taken more from matter. Hence we say that Christ
 is in the human species by reason of the nature assumed, and not by reason of the hypostasis.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’unione della Parola Incarnata non abbia avuto luogo nel “suppositum” o nell’“ipostasi”. Infatti, [Agostino](/figures/augustine) afferma (Enchiridion xxxv, xxxviii): “Sia la sostanza divina che quella umana costituiscono un solo Figlio di Dio; tuttavia, esse sono una cosa [aliud] in relazione alla Parola e un’altra cosa [aliud] in relazione all’uomo”. E Papa Leone, nella sua lettera a Flaviano (Ep. xxviii), scrive: “Uno di questi due aspetti della natura divina è glorioso per i miracoli che compie; l’altro, invece, subisce lesioni”. Ma “uno” e “l’altro” differiscono in termini di “suppositum”; pertanto, l’unione della Parola Incarnata non ha avuto luogo nel “suppositum”.
+
+Obiezione 2: Inoltre, l’ipostasi non è altro che una “sostanza particolare”, come afferma Boezio nel De Duab. Nat. Ma è evidente che in Cristo esista un’altra sostanza particolare, oltre all’ipostasia della Parola: cioè il corpo, l’anima e ciò che ne deriva. Pertanto, in Lui esiste un’altra ipostasi, oltre a quella della Parola.
+
+Obiezione 3: Inoltre, l’ipostasi della Parola non è inclusa in alcun genere o specie, come risulta chiaramente da FP, Q[3], A[5]. Ma Cristo, in quanto divenne uomo, rientra nella specie umana; infatti Dionigi afferma (Div. Nom. 1): “Entro i limiti della nostra natura venne Colui che, per sua essenza superiore, trascende di gran lunga l’intero ordine della natura”. Ora, nulla può essere incluso nella specie umana se non si tratta di un’ipostasi appartenente a tale specie. Pertanto, in Cristo esiste un’altra ipostasia, oltre all’ipostasia della Parola di Dio; e da ciò deriva la stessa conclusione già espressa in precedenza.
+
+Al contrario, Damasceno afferma (De Fide Orthodossa iii, 3,4,5): “Nel nostro Signore Gesù Cristo riconosciamo due nature e un’unica ipostasi.”
+
+Rispondo che alcuni, non comprendendo il rapporto tra ipostasi e persona, pur ammettendo l’esistenza di una sola persona in Cristo, ritenevano comunque che vi fosse un’ipostasia divina e un’altra umana, e quindi che l’unione avesse avuto luogo nella persona e non nell’ipostasia. Ora, questo punto è chiaramente errato per tre motivi. Primo, perché la persona aggiunge all’ipostasia una natura specifica, cioè quella razionale, come afferma Boezio nel “De Duab. Nat.”: “Una persona è una sostanza individuale di natura razionale”; pertanto attribuire alla natura umana in Cristo un’ipostasia e una persona distinte significherebbe contraddire questa logica. I Santi Padri, consapevoli di ciò, condannarono tale dottrina nel Quinto Concilio di Costantinopoli, affermando: “Chiunque intenda introdurre nella mistica dell’Incarnazione due entità o due persone sia anatema; infatti l’incarnazione di uno dei Tre Esseri Divini, il Verbo di Dio, non ha aumentato la natura o l’esistenza della Santissima Trinità”. “Esistenza”, in questo contesto, indica ciò che esiste concretamente, e tale concetto è proprio dell’ipostasia, come chiarisce ancora Boezio. Secondo, se si ammette che la persona aggiunga all’ipostasia qualcosa che permetta l’unione tra le due nature, questa “qualcosa” non può essere altro che una proprietà legata alla dignità; alcuni definiscono infatti la persona come un’“ipostasia caratterizzata da una determinata dignità”. Se quindi l’unione avvenisse nella persona e non nell’ipostasia, ciò significherebbe che l’unione riguarda soltanto aspetti legati alla dignità. Questo concetto fu condannato da Cirillo, con il consenso del Concilio di Efeso (parte III, canone 3), che dichiarò: “Chiunque divida le entità presenti in Cristo in due parti, unendole soltanto in termini di dignità, autorità o potere, e non in base a una vera unione naturale, sia anatema”. Terzo, solo all’ipostasia vengono attribuite le operazioni e le proprietà naturali; ad esempio, si dice che quest’uomo ragioni, sia razionale, ecc. Pertanto, se in Cristo esistesse un’altra ipostasia oltre a quella del Verbo, ciò significherebbe che attributi tipici dell’umanità verrebbero riferiti a qualcun altro oltre al Verbo stesso – ad esempio, il fatto che sia nato da una Vergine, abbia sofferto e sia stato crocifisso. Anche questo concetto fu condannato dal Concilio di Efeso (parte III, canone 4), che affermò: “Chiunque attribuisca alle due persone o entità presenti in Cristo frasi presenti negli Scritti evangelici e apostolici, o dette da Cristo stesso, applicandole al uomo considerato separato dal Verbo di Dio, e altre soltanto al Verbo di Dio, sia anatema”.
+“Padre, che sia anatema”. Pertanto, affermare chiaramente che in Cristo esistano due ipostasi o due entità distinte, o che l’unione tra il Verbo e la carne non abbia avuto luogo su un piano ontologico, è senza dubbio eresia da tempo condannata dalla Chiesa. Ecco perché nello stesso Sinodo (canone 2) si legge: “Se qualcuno non confessa che il Verbo si è unito alla carne in termini di essenza, e che Cristo, con la sua carne, sia contemporaneamente Dio e uomo, che sia anatema”.
+
+Risposta all’Obiezione 1: Così come la differenza accidentale rende una cosa “altra” [alterum], così la differenza essenziale rende una cosa “un’altra cosa” [aliud]. È evidente che questa “altritudine”, derivante dalla differenza accidentale, può riguardare lo stesso soggetto o entità nelle cose create, poiché la stessa cosa numericamente può essere accompagnata da diverse proprietà accidentali. Tuttavia, nelle cose create non succede mai che la stessa cosa numericamente possa esistere in essenze o nature diverse. Pertanto, proprio come quando parliamo di “altritudine” riguardo alle creature non intendiamo indicare una diversità del soggetto stesso, ma soltanto una diversità delle proprietà accidentali, allo stesso modo, quando si afferma che Cristo è una cosa o un’altra cosa, non ci si riferisce a una diversità del soggetto o dell’essenza, ma a una diversità della natura. Per questo motivo Gregorio Nazianzeno scrive in una lettera a Chelidonio: “Nel Salvatore possiamo trovare una cosa e un’altra cosa, tuttavia Lui non è una persona e un’altra persona. Dico ‘una cosa e un’altra cosa’, ma nella Trinità diciamo invece ‘una Persona e un’altra Persona’ (per evitare di confondere le entità), non ‘una cosa e un’altra cosa’”.
+
+Risposta all’Obiezione 2: L’ipostasi indica una sostanza particolare, non in tutti i suoi aspetti, ma nella misura in cui essa è unita al proprio complemento. Tuttavia, poiché l’essenza umana in Cristo è unita a qualcosa di più completo, cioè al Cristo intero – nel suo duplice essere di Dio e uomo – non può essere considerata un’ipostasi o un suppositum. È piuttosto il tutto cristiano che viene definito ipostasia o suppositum.
+
+Risposta all’Obiezione 3: Nelle cose create, un essere singolo viene collocato in un genere o in una specie non in base a ciò che appartiene alla sua [individualizzazione](/concepts/individuation), ma in base alla sua natura, che deriva dalla sua forma; nelle cose composite, invece, l’individualizzazione dipende maggiormente dalla materia. Pertanto diciamo che Cristo appartiene alla specie umana in base alla natura assunta, e non in base all’ipostasi.
+
 <span class="atom-split" data-atom="013" data-title="Whether after the Incarnation the Person or Hypostasis of Christ is composite?" data-chapter="Whether after the Incarnation the Person or Hypostasis of Christ is composite?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Person of Christ is not composite. For the Person of Christ
@@ -818,6 +1006,22 @@ Reply to Objection 3: It is not verified in every composition, that the thing co
 homogeneous with its component parts, but only in the parts of a continuous thing; for the continuous
 is composed solely of continuous [parts]. But an animal is composed of [soul and body](/axes/soul_body), and neither
 of these is an animal.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la Persona di Cristo non sia composta. Infatti, la Persona di Cristo non è altro che la Persona o l’ipostasi della Parola, come risulta da quanto detto in precedenza (A[2]). Tuttavia, nella Parola, Persona e Natura non differiscono tra loro, come si evince da FP, Q[39], A[1]. Pertanto, poiché la Natura della Parola è semplice, come dimostrato sopra (FP, Q[3], A[7]), è impossibile che la Persona di Cristo sia composta.
+
+Obiezione 2: Inoltre, ogni composizione richiede parti. Ma la Natura Divina è incompatibile con l’idea di una parte, poiché ogni parte implica l’idea di imperfezione. Pertanto, è impossibile che la Persona di Cristo sia composta da due nature.
+
+Obiezione 3: Inoltre, ciò che è composto da altri elementi sembrerebbe essere omogeneo con essi, poiché soltanto corpi possono essere composti da altri corpi. Pertanto, se in Cristo esiste qualcosa composto dalle due nature, ne consegue che non si tratterà di una persona, ma di una semplice natura; e quindi l’unione in Cristo avverrà a livello della natura, il che è contrario all’affermazione A[2].
+
+Al contrario, Damasceno afferma (De Fide Orthodossa iii, 3,4,5): “Nel Signore Gesù Cristo riconosciamo due nature, ma un’unica ipostasi composta da entrambe”.
+
+Rispondo che la Persona o l’ipostasi di Cristo può essere considerata in due modi. Primo, come essa è in sé stessa: in questo caso è completamente semplice, proprio come la Natura della Parola. Secondo, nell’aspetto di persona o ipostasia, in base al quale esiste in una determinata natura; pertanto, la Persona di Cristo esiste in due nature. Quindi, sebbene in Lui vi sia un’unica entità sostanziale, esistono diversi aspetti della sua esistenza; per questo si dice che sia una persona composta, nel senso che un’unica entità esiste in due forme diverse. E così si risolve chiaramente il primo problema sollevato.
+
+Risposta all’Obiezione 2: Questa composizione di una persona da parti diverse non viene definita così in base alle singole parti stesse, ma in base al loro numero; allo stesso modo, si può dire che qualcosa che è il risultato della concomitanza di due elementi sia composto da essi.
+
+Risposta all’Obiezione 3: Non si verifica in ogni composizione che la cosa risultante sia omogenea alle sue parti componenti, ma soltanto nelle parti di una cosa continua; infatti, ciò che è continuo è composto esclusivamente da parti continue. Tuttavia, un animale è composto da ['anima e corpo](/axes/soul_body), e nessuno dei due elementi costitutivi è esso stesso un animale.
 
 <span class="atom-split" data-atom="014" data-title="Whether in Christ there is any union of soul and body?" data-chapter="Whether in Christ there is any union of soul and body?" data-kind="atom" data-srclang="en"></span>
 
@@ -887,6 +1091,26 @@ and in this way the Word of God is the principle of all life; the other, the for
 for since "in living things to be is to live," as the Philosopher says (De [Anima](/concepts/soul) ii, 37), just as
 everything is formally by its form, so likewise the body lives by the soul: in this way a body could
 not live by the Word, Which cannot be the form of a body.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che in Cristo non ci sia stata alcuna unione tra ['anima e il corpo](/axes/soul_body). Infatti, dall’unione dell’anima e del corpo in noi deriva una persona, ovvero un’ipostasi umana. Pertanto, se nell’uomo l’anima e il corpo fossero stati uniti, ne sarebbe risultata un’ipostasia; ma questa non sarebbe stata l’ipostasia di Dio Verbo, poiché Egli è eterno. Quindi, in Cristo esisterebbe una seconda ipostasia oltre a quella del Verbo, il che è contrario alle dottrine indicate nelle fonti AA[2],3.
+
+Obiezione 2: Inoltre, dall’unione di anima e corpo deriva la natura della specie umana.  
+Ma Damasceno afferma (De Fide Orthodossa iii, 3) che “non dobbiamo concepire una specie comune in Nostro Signore Gesù Cristo”. Pertanto, in Lui non ebbe luogo alcuna unione di anima e corpo.
+
+Obiezione 3: Inoltre, l’anima è unita al corpo esclusivamente allo scopo di dar vita a quest’ultimo. Ma il corpo di Cristo poteva essere animato direttamente dalla Parola di Dio stesso, poiché Egli è la fonte e il principio della vita. Pertanto, in Cristo non vi fu alcuna unione tra anima e corpo.
+
+Al contrario, si dice che il corpo sia animato soltanto in virtù della sua unione con l’anima. Ora, si afferma che il corpo di Cristo sia animato, come canta la Chiesa: “Prendendo un corpo animato, Egli si degnò di nascere da una Vergine” (*Festa della Circoncisione, Antiphona ii, Lodi*). Pertanto, in Cristo vi fu un’unione tra anima e corpo.
+
+Rispondo che Cristo viene chiamato “uomo” in modo univoco, come gli altri uomini, poiché appartiene alla stessa specie umana, secondo quanto afferma l’Apostolo (Filippesi 2:7): “È stato formato alla somiglianza dell’uomo”. È essenziale per la specie umana che l’anima sia unita al corpo, poiché la forma non costituisce la specie stessa se non nella misura in cui diventa l’atto della materia; ed è proprio questo processo di unione che rappresenta il fine della generazione, attraverso il quale la natura realizza la sua intenzione di creare una nuova specie umana. Pertanto, si deve affermare che in Cristo l’anima fosse unita al corpo; il contrario sarebbe eretico, poiché distruggerebbe la verità sulla natura umana di Cristo.
+
+Risposta all’Obiezione 1: Questo sembrerebbe essere il motivo che spinse coloro che negavano l’unione dell’anima e del corpo in Cristo a rifiutare tale concezione, ovvero per evitare di dover ammettere l’esistenza di una seconda “ipostasi” o persona in Cristo. Infatti, essi osservavano che l’unione dell’anima e del corpo negli esseri umani comuni dà origine a una singola entità personale. Tuttavia, in Cristo l’anima e il corpo sono uniti non semplicemente per formare un’entità separata, ma perché si fondono con qualcosa di più nobile: la natura divina che li compone. Pertanto, dall’unione dell’anima e del corpo in Cristo non deriva alcuna nuova “ipostasi” o persona, ma ciò che ne risulta è semplicemente unito all’ipostasia o persona già esistente in Cristo. Inoltre, questo non significa affatto che l’unione dell’anima e del corpo in Cristo abbia un effetto inferiore a quello negli esseri umani: anzi, il fatto che essa avvenga con qualcosa di più nobile ne aumenta certamente la virtù e il valore. Proprio come l’anima sensibile negli animali costituisce la specie stessa, considerata nella sua forma ultima, ma non lo fa nell’uomo – sebbene sia di effetto e dignità molto maggiore – proprio a causa della sua unione con una perfezione ancora più nobile, ovvero l’anima razionale, come già detto in precedenza (A[2], ad 2).
+
+Risposta all’Obiezione 2: Questa affermazione di Damasceno può essere interpretata in due modi. Primo, come riferita alla [natura umana](/axes/human_nature), la quale, essendo presente soltanto in un singolo individuo, non possiede la natura di una specie comune; essa può essere considerata soltanto nel momento in cui viene astratta da ogni singolo individuo e analizzata separatamente dalla mente, oppure nel contesto di tutti gli individui della stessa specie. Ora, il Figlio di Dio non ha assunto la natura umana così come esiste nella pura riflessione intellettuale, poiché in questo caso non l’avrebbe assunta realmente; si potrebbe forse dire che la natura umana rappresenti un’idea astratta, proprio come i platonici concepivano l’uomo senza materia. Tuttavia, in questo modo il Figlio di Dio non avrebbe assunto la carne, contrariamente a quanto scritto (Lc 24:39): “Lo spirito, infatti, non ha carne e ossa come voi mi vedete avere”. Né si può dire che il Figlio di Dio abbia assunto la natura umana così com’è presente in tutti gli individui della stessa specie, altrimenti avrebbe assunto tutti gli uomini. Pertanto, come afferma Damasceno nel seguito (De Fide Orth. iii, 11), il Figlio di Dio ha assunto la natura umana “in atomo”, cioè in un singolo individuo; non in un altro individuo che rappresenti una semplice ipotesi o una persona di quella natura, ma nella Persona stessa del Figlio di Dio.  
+Secondo, questa affermazione di Damascene può essere intesa non come riferita alla natura umana in sé, ma piuttosto all’unione tra la natura divina e quella umana: queste due nature non si combinano per formare una terza entità comune, poiché in tal caso essa potrebbe essere attribuita a molti individui; ed è proprio questo che Damascene intende quando aggiunge: “Non è mai esistito, né esisterà mai, un altro Cristo che sia allo stesso tempo Dio e uomo”.
+
+Risposta all’Obiezione 3: Esistono due principi della vita corporea: uno è il principio efficace; in questo senso, la Parola di Dio è il principio di tutta la vita; l’altro è il principio formale della vita, poiché, come afferma il Filosofo (De Anima ii, 37), “per gli esseri viventi essere significa vivere”. Proprio come tutto è formalmente determinato dalla propria forma, così anche il corpo vive grazie all’anima: in questo modo, un corpo non potrebbe vivere attraverso la Parola di Dio, poiché questa non può essere considerata una forma corporea.
 
 <span class="atom-split" data-atom="015" data-title="Whether the human nature was united to the Word of God accidentally? (1/2)" data-chapter="Whether the human nature was united to the Word of God accidentally?" data-kind="atom" data-srclang="en"></span>
 
@@ -991,6 +1215,28 @@ Metaph. v, 25, is taken in two ways: first, for essence or nature; secondly, for
 hypostasis---hence the union having taken place in the hypostasis, is enough to show that it is not
 an accidental union, although the union did not take place in the nature.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la [natura umana](/axes/human_nature) sia unita alla Parola di Dio in modo accidentale.  
+Infatti l’Apostolo, parlando del Figlio di Dio (Filippesi 2:7), afferma che Egli “era in un corpo umano”. Ma il corpo è legato in modo accidentale a ciò a cui appartiene, sia che si intenda per “corpo” uno dei dieci predicati o una specie di qualità. Pertanto, la natura umana è unita al Figlio di Dio in modo accidentale.
+
+Obiezione 2: Inoltre, tutto ciò che accade a una cosa che è già completa nella sua esistenza avviene in modo accidentale, poiché si definisce “accidente” ciò che può verificarsi o scomparire senza che l’entità su cui si verifica venga alterata. Ma la natura umana giunse a Cristo nel tempo, mentre Egli possedeva un’esistenza perfetta fin dall’[eternità](/positions/eternity). Pertanto, la natura umana gli arrivò in modo accidentale.
+
+Obiezione 3: Inoltre, tutto ciò che non appartiene alla natura o all’essenza di una cosa è considerato un suo accidente, poiché ciò che esiste è o una sostanza o un accidente. Ma la natura umana non appartiene all’Essenza o alla Natura Divina del Figlio di Dio, poiché l’unione tra loro non ha avuto luogo nella sfera della natura, come già detto in precedenza (A[1]). Pertanto, la natura umana deve essere stata acquisita accidentalmente dal Figlio di Dio.
+
+Obiezione 4: Inoltre, un strumento viene creato in modo accidentale. Ma la natura umana fu lo “strumento” della divinità in Cristo, poiché Damasceno afferma (De Fide Orthodossa iii, 15) che “la carne di Cristo è lo strumento della divinità”. Pertanto, sembrerebbe che la natura umana sia stata unita al Figlio di Dio in modo accidentale.
+
+Al contrario, ciò che viene predicato in modo accidentale non riguarda la sostanza, ma la quantità, la qualità o qualche altro modo di essere. Pertanto, se la natura umana viene considerata in modo accidentale, quando diciamo che Cristo è uomo, non stiamo predicando una sostanza, ma una qualità, una quantità o qualche altro modo di essere – il che è contrario al decreto di Papa Alessandro III, che afferma: “Poiché Cristo è Dio perfetto e uomo perfetto, quale audacia hanno alcuni nel negare che Cristo, in quanto uomo, sia una sostanza?”
+
+Rispondo che, per rispondere a questa domanda, dobbiamo sapere che sono emerse due eresie riguardo al mistero dell’unione delle due nature in Cristo. La prima confondeva le due nature: Eutiche e Dioscoro sostenevano infatti che dalle due nature ne derivasse una sola, ammettendo quindi che Cristo fosse “di” due nature (distinte prima dell’unione), ma non “in” due nature (la distinzione tra le nature cessava dopo l’unione). La seconda eresia era quella di Nestorio e Teodoro di Mopsuestia, i quali separavano le persone: ritenevano infatti che la Persona del Figlio di Dio fosse diversa da quella del Figlio dell’Uomo, affermando che queste due persone fossero unite tra loro in modi diversi: prima, “per dimora”, poiché la Parola di Dio risiedeva nell’uomo come in un tempio; poi, “per unità di volontà”, poiché la volontà dell’uomo era sempre in accordo con quella della Parola di Dio; inoltre, “per funzione”, poiché l’uomo era considerato lo strumento della Parola di Dio; infine, “per dignità”, poiché tutta la gloria attribuita al Figlio di Dio veniva riconosciuta anche al Figlio dell’Uomo a causa della loro unione. È evidente che queste concezioni implicano un’unione accidentale delle due nature. Tuttavia, alcuni maestri più recenti, nel tentativo di evitare queste eresie, ne sono caduti vittime per ignoranza. Alcuni ammettevano l’esistenza di una sola persona in Cristo, ma sostenevano l’esistenza di due ipostasi o supposte, affermando che un uomo, composto da corpo e anima, fosse stato assunto dalla Parola di Dio fin dal momento della sua concezione. Questa è la prima opinione espressa dai maestri (Sentenze, iii, D, 6). Altri, desiderosi di mantenere l’unità della persona, ritenevano che l’anima di Cristo non fosse unita al corpo, ma che entrambi fossero separati e uniti alla Parola in modo accidentale, affinché il numero delle persone non aumentasse. Questa è la terza opinione espressa dai maestri (Sentenze, iii, D, 6). Tuttavia, entrambe queste opinioni cadono nell’eresia di Nestorio: la prima, perché sostenere l’esistenza di due ipostasi in Cristo equivale a riconoscere due persone, come già dimostrato in precedenza. Inoltre, se si insiste sul concetto di “persona”, bisogna ricordare che anche Nestorio parlava di un’unione di persona a causa dell’unità di dignità e gloria. Per questo motivo, il Quinto Concilio di Costantinopoli (Coll., viii, can. 5) condanna chi sostiene che “esista una sola persona in termini di dignità, gloria e adorazione, come hanno scritto scioccamente Teodoro e Nestorio”. L’altra opinione, invece, cade nell’errore di Nestorio, poiché presuppone un’unione accidentale delle due nature. Infatti, non c’è alcuna differenza tra affermare che la Parola di Dio sia unita all’Uomo Cristo “per dimora”, come in un tempio (come sosteneva Nestorio), o “indossandogli il corpo come un abito” (secondo la terza opinione); anzi, questa seconda concezione rappresenta addirittura un errore più grave.
+Più di Nestorio, cioè che l’['anima](/axes/soul_body) e il corpo non siano uniti. Ora la fede cattolica, mantenendo una posizione intermediaria tra le due opinioni sopra menzionate, non afferma che l’unione tra Dio e l’uomo abbia avuto luogo nell’essenza o nella natura di uno dei due, né in qualcosa di accidentale, ma piuttosto in un’entità distinta, una sorta di “ipostasi”. Pertanto, nel Quinto Concilio di Costantinopoli (VIII collezione, canone 5) si legge: “Poiché l’unione può essere intesa in molti modi, coloro che seguono l’eresia di Apollinario ed Eutiche, sostenendo la distruzione di ciò che è stato unito (cioè delle due nature), affermano un’unione basata sulla loro fusione; mentre i seguaci di Teodoro e Nestorio, mantenendo la separazione tra le due nature, propongono un’unione basata su uno scopo comune. Ma la Santa Chiesa di Dio, rifiutando l’eresia di entrambi questi punti di vista, confessa un’unione del Verbo di Dio con la carne, una unione che si realizza a livello di entità distinta”. È quindi evidente che la seconda delle tre opinioni menzionate dal Maestro (Sentenze, III, D, 6), quella che sostiene l’esistenza di un’unica ipostasi divina e umana, non può essere considerata un’opinione, ma un articolo fondamentale della fede cattolica. Allo stesso modo, la prima opinione, che ritiene esistano due ipostasi distinte, e la terza, che sostiene un’unione puramente accidentale, non possono essere definite opinioni, ma eresie condannate dalla Chiesa nei concili.
+
+Risposta all’Obiezione 1: Come afferma Damasceno (De Fide Orthodossa iii, 26): “Gli esempi non devono necessariamente essere del tutto e in ogni dettaglio simili; ciò che è del tutto simile, infatti, è lo stesso oggetto, e non un esempio. Ciò vale soprattutto per le cose divine, poiché è impossibile trovare un esempio del tutto analogo nella Teologia”, cioè nella natura divina delle Persone della Trinità, “nonché nella Dispensazione”, ovvero nel mistero dell’Incarnazione. Pertanto, la natura umana in Cristo viene paragonata a un abito: non certo in relazione all’unione accidentale tra il Verbo e la natura umana, ma perché il Verbo è percepito dalla natura umana, proprio come un uomo è riconoscibile attraverso i suoi vestiti; inoltre, l’abito stesso subisce modifiche, poiché viene plasmato secondo le caratteristiche di colui che lo indossa, senza che il suo stesso essere venga alterato. Allo stesso modo, la natura umana assunta dal Verbo di Dio viene nobilitata, ma il Verbo di Dio non subisce alcun cambiamento, come afferma sant’Agostino (Qq. 83, qu. 73).
+
+Risposta all’Obiezione 2: Quello che accade dopo la completazione dell’esistenza di un essere avviene in modo accidentale, a meno che non venga unito a quell’essere completo; proprio come nel caso della risurrezione, il corpo viene unito all’anima che esiste già prima, ma non in modo accidentale, poiché viene assunto nell’ambito dello stesso essere, così che il corpo possieda una vita vitale grazie all’anima. Tuttavia, questo non vale per la “bianchezza”: l’esistenza della bianchezza è diversa dall’esistenza dell’uomo a cui essa si aggiunge. La Parola di Dio, invece, fin dall’eternità possedeva già un’esistenza completa in termini di ipostasi o persona; nel tempo, la natura umana le fu unita, non come se fosse stata assunta nell’ambito di un’unica entità – poiché ciò riguarderebbe soltanto la natura umana stessa (così come il corpo viene assunto nell’ambito dell’anima) – ma come se fosse stata unita all’entità della Parola di Dio in termini di ipostasi o persona. Pertanto, la natura umana non è unita al Figlio di Dio in modo accidentale.
+
+Risposta all’Obiezione 3: L’accidente viene contrapposto alla sostanza. Ora, la sostanza, come è chiaro dalla Metafisica V, 25, può essere intesa in due modi: in primo luogo, come essenza o natura; in secondo luogo, come suppositum o ipostasi. Pertanto, il fatto che l’unione si sia verificata a livello dell’ipostasi è sufficiente per dimostrare che non si tratta di un’unione accidentale, anche se l’unione stessa non ha avuto luogo a livello dell’essenza o della natura.
+
 <span class="atom-split" data-atom="016" data-title="Whether the human nature was united to the Word of God accidentally? (2/2)" data-chapter="Whether the human nature was united to the Word of God accidentally?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: Not everything that is assumed as an instrument pertains to the hypostasis
@@ -1002,6 +1248,10 @@ was really the Son of God, but His instrument. Hence Cyril says (Epist. ad Monac
 "The [Scripture](/concepts/revelation) does not affirm that this Emmanuel," i.e. Christ, "was assumed for the office of an
 instrument, but as God truly humanized," i.e. made man. But Damascene held that the human nature
 in Christ is an instrument belonging to the unity of the hypostasis.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 4: Non tutto ciò che viene assunto come strumento appartiene alla stessa ipostasi di colui che lo assume, come è evidente nel caso di una sega o di una spada; tuttavia nulla impedisce che ciò che viene assunto entri a far parte dell’unità della stessa ipostasia e venga utilizzato come strumento, proprio come il corpo umano o i suoi membri. Per questo motivo Nestorio sosteneva che la [natura umana](/axes/human_nature) fosse stata assunta dal Verbo soltanto come strumento, e non nell’unità della stessa ipostasia. Pertanto, non ammetteva che l’uomo fosse veramente il Figlio di Dio, ma soltanto il suo strumento. Così dice Cirillo nell’Epistola ai Monaci d’Egitto: “La [Scritura](/concepts/revelation) non afferma che questo Emmanuel, cioè Cristo, sia stato assunto per svolgere la funzione di uno strumento, ma che sia diventato veramente umano”. Al contrario, Damasceno riteneva che la natura umana in Cristo fosse uno strumento che faceva parte dell’unità della stessa ipostasia.
 
 <span class="atom-split" data-atom="017" data-title="Whether the union of the Divine nature and the human is anything created?" data-chapter="Whether the union of the Divine nature and the human is anything created?" data-kind="atom" data-srclang="en"></span>
 
@@ -1042,6 +1292,24 @@ that it has a created being.
 Reply to Objection 3: A man is called Creator and is God because of the union, inasmuch as
 it is terminated in the Divine hypostasis; yet it does not follow that the union itself is the Creator
 or God, because that a thing is said to be created regards its being rather than its relation.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’unione tra la natura divina e quella umana non sia qualcosa di creato. Infatti, nulla può essere creato in Dio, poiché tutto ciò che è in Dio è Dio stesso. Ma questa unione esiste in Dio, poiché Dio stesso è unito alla [natura umana](/axes/human_nature). Pertanto, sembra che tale unione non sia qualcosa di creato.
+
+Obiezione 2: Inoltre, la fine occupa il primo posto in tutto. Ma la fine di questa unione è l’ipostasi divina o la Persona nella quale tale unione si compie. Pertanto sembra che questa unione debba essere giudicata principalmente in base alla dignità dell’ipostasia divina, che non è affatto qualcosa di creato. Quindi, questa unione stessa non è nulla di creato.
+
+Obiezione 3: Inoltre, “Ciò che è la causa di una cosa perché è tale lo è ancora di più” (Poster i). Ma si dice che l’uomo sia il Creatore a causa di questa unione. Pertanto, con ancora maggiore ragionevolezza, l’unione stessa non può essere nulla di creato, ma deve essere considerata il Creatore stesso.
+
+Al contrario, tutto ciò che ha un inizio nel tempo è creato. Ora, questa unione non proveniva dall’[eternità](/positions/eternity), ma ha avuto inizio nel tempo. Pertanto, questa unione è qualcosa di creato.
+
+Rispondo che l’unione di cui stiamo parlando è una relazione che consideriamo esistere tra la natura divina e quella umana, nella misura in cui queste due nature si uniscono in una sola Persona, il Figlio di Dio. Ora, come detto sopra (FP, Q[13], A[7]), ogni relazione che consideriamo esistere tra Dio e la creatura è in realtà presente nella creatura stessa, poiché è proprio attraverso i cambiamenti che avvengono in essa che tale relazione viene a esistere; mentre non è realmente presente in Dio, ma soltanto nel nostro modo di pensare, poiché non deriva da alcun cambiamento in Dio stesso. Pertanto dobbiamo dire che l’unione di cui stiamo parlando non è realmente presente in Dio, se non solo nel nostro modo di pensare; ma nella natura umana, che è una creatura, essa esiste davvero. Quindi dobbiamo considerarla qualcosa di creato.
+
+Risposta all’Obiezione 1: Questa unione non esiste realmente in Dio, ma soltanto nel nostro modo di pensare; infatti, si dice che Dio sia unito a una creatura nella misura in cui la creatura è effettivamente unita a Lui, senza alcun cambiamento in Lui stesso.
+
+Risposta all’Obiezione 2: La natura specifica di una relazione, come quella del movimento, dipende dal soggetto che la esprime. E poiché questa unione ha esistenza soltanto in una natura creata, come è stato detto sopra, ne consegue che essa ha un’essenza creata.
+
+Risposta all’Obiezione 3: Un uomo viene chiamato Creatore e Dio a causa di quell’unione che si conclude nella ipostasi divina; tuttavia ciò non significa che l’unione stessa sia il Creatore o Dio, poiché quando si dice che qualcosa è stato creato, ci si riferisce al suo essere piuttosto che alla sua relazione.
 
 <span class="atom-split" data-atom="018" data-title="Whether union is the same as assumption?" data-chapter="Whether union is the same as assumption?" data-kind="atom" data-srclang="en"></span>
 
@@ -1094,6 +1362,24 @@ one assuming, inasmuch as assumption means taking unto oneself [ad se sumere], w
 incarnation and humanation (determine with whom the union is made) on the part of the thing
 assumed, which is flesh or human nature. And thus assumption differs logically both from union
 and from incarnation or humanation.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’unione sia la stessa cosa dell’assunzione. Poiché le relazioni, come i movimenti, sono definite dai loro termini, e il termine dell’assunzione e dell’unione è lo stesso, ovvero l’ipostasi divina, ne consegue che unione e assunzione non siano diverse.
+
+Obiezione 2: Inoltre, nel mistero dell’Incarnazione, sembra che la stessa cosa sia sia ciò che unisce, sia ciò che viene assunto; e allo stesso tempo, sembra che l’unione e l’assunzione seguano l’azione e la passione di quella cosa che unisce e di ciò che viene unito, di quella cosa che assume e di ciò che viene assunto. Pertanto, l’unione sembrerebbe essere la stessa cosa dell’assunzione.
+
+Obiezione 3: Inoltre, Damasceno afferma (De Fide Orthodossa iii, 11): “L’unione è una cosa, l’incarnazione un’altra; l’unione richiede soltanto la copulazione, senza chiarire quale ne sia lo scopo finale; invece l’incarnazione e l’umanizzazione determinano effettivamente tale scopo.” Tuttavia, anche l’assunzione umana non determina lo scopo della copulazione. Pertanto, sembrerebbe che l’unione e l’assunzione siano la stessa cosa.
+
+Al contrario, si dice che la Natura Divina sia un’unica entità, e non qualcosa che venga “assunta” o considerata separatamente.
+
+Rispondo che, come già detto sopra (A[7]), l’unione implica una certa relazione tra la Natura Divina e quella umana, nella misura in cui queste si uniscono in una sola Persona. Ora, tutte le relazioni che hanno inizio nel tempo sono determinate da qualche cambiamento; e il cambiamento consiste in azione e passione. Pertanto, la prima e principale differenza tra assunzione e unione è che l’unione implica quella relazione stessa, mentre l’assunzione implica l’azione attraverso cui qualcosa viene assunto, o la passione attraverso cui qualcosa viene assunto. Da questa differenza deriva una seconda distinzione: l’assunzione implica un “diventare”, mentre l’unione implica un “essere già diventati”; quindi ciò che si unisce è detto “unito”, ma ciò che assume non è detto “assunto”. La natura umana, infatti, viene considerata come assunta nella Persona Divina quando si parla dell’uomo; perciò possiamo veramente dire che il Figlio di Dio, che assume la natura umana in sé stesso, è uomo. Tuttavia, la natura umana, considerata in sé stessa, cioè in astratto, viene vista come qualcosa che è stato assunto; e non si dice che il Figlio di Dio sia la natura umana. Da ciò deriva anche una terza differenza: una relazione, soprattutto di equiparanza, non ha lo stesso significato rispetto ai due termini coinvolti; mentre azione e passione hanno effetti diversi sull’agente e sul soggetto della relazione, e su termini diversi. Pertanto, l’assunzione determina il termine da cui e il termine verso cui avviene l’atto di assunzione; poiché l’assunzione significa prendere qualcosa per sé da un altro. L’unione, invece, non determina nulla di tutto ciò; quindi si può dire indifferentemente che la natura umana sia unita alla Divinità, o viceversa. Ma non si dice che la Natura Divina venga assunta dalla natura umana, bensì il contrario: poiché la natura umana viene unita alla Persona Divina, in modo che la Persona Divina esista nella natura umana.
+
+Risposta all’Obiezione 1: L’unione e l’assunzione non hanno lo stesso rapporto con il termine in questione, ma un rapporto diverso, come è stato detto sopra.
+
+Risposta all’Obiezione 2: Ciò che unisce e ciò che assorbe non sono la stessa cosa. Poiché qualsiasi Persona che assorbe necessariamente unisce, ma non il contrario. La Persona del Padre, ad esempio, ha unito la natura umana al Figlio, ma non a Sé stesso; per questo si dice che Egli unisca e non assorba. Allo stesso modo, ciò che è stato unito e ciò che è stato assorbito non sono identici: si dice infatti che la Natura Divina sia stata unita, ma non assorbita.
+
+Risposta all’Obiezione 3: L’assunzione determina, da parte di colui che assume, con chi avvenga l’unione, poiché assumere significa “prendersi qualcosa per sé” [ad se sumere]; invece l’incarnazione e l’umanizzazione determinano, da parte della cosa assunta – ovvero della carne o della natura umana – con chi avvenga tale unione. Pertanto, l’assunzione differisce logicamente sia dall’unione che dall’incarnazione o dall’umanizzazione.
 
 <span class="atom-split" data-atom="019" data-title="Whether the union of the two natures in Christ is the greatest of all unions?" data-chapter="Whether the union of the two natures in Christ is the greatest of all unions?" data-kind="atom" data-srclang="en"></span>
 
@@ -1363,6 +1649,25 @@ nature does not make the Son of Man to be simply, since He was from [eternity](/
 It is by the Divine Nature that a Divine Person is constituted simply. Hence the Divine Person is
 not said to assume the Divine Nature, but to assume the human nature.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia appropriato per una Persona Divina assumere una natura creata.  
+Infatti, una Persona Divina rappresenta qualcosa di estremamente perfetto; e nulla può essere aggiunto a ciò che è già perfetto. Pertanto, poiché “assumere” significa prendersi qualcosa a sé, e quindi ciò che viene assunto viene aggiunto alla persona che lo assume, non sembra appropriato per una Persona Divina assumere una natura creata.
+
+Obiezione 2: Inoltre, ciò di cui qualcosa viene considerato parte viene, in qualche misura, trasmesso a ciò che viene considerato come sua conseguenza; proprio come la dignità viene trasmessa a chiunque venga considerato possedente tale dignità. Tuttavia, è della natura stessa di una persona essere “incomunicabile”, come già detto in precedenza (FP, Q[29], A[1]). Pertanto, non è appropriato che una Persona Divina assuma, cioè si assuma qualcosa che non le appartiene per natura.
+
+Obiezione 3: Inoltre, la persona è costituita dalla natura. Tuttavia è contraddittorio che la cosa così costituita assuma ciò che la costituisce, poiché l’effetto non agisce sulla sua causa. Pertanto, non è appropriato che una Persona assuma una natura.
+
+Al contrario, [Agostino](/figures/augustine) [*Fulgenzio*] afferma (De Fide ad Petrum ii): “Questo Dio, cioè il Solo Genito, assunse la forma, ovvero la natura, di un servo della propria Persona”. Ma il Solo Genito è una Persona. Pertanto è appropriato che una Persona assuma una natura.
+
+Rispondo che nella parola “assunzione” sono implicati due elementi: il principio e l’oggetto dell’atto stesso; infatti, assumere significa prendersi qualcosa per sé. Ora, riguardo a questa assunzione, una Persona è sia il principio che l’oggetto di tale atto. È principale perché agire appartiene propriamente a una Persona, e questa assunzione della natura umana avvenne per opera divina. Allo stesso modo, una Persona è anche l’oggetto di questa assunzione, poiché, come detto in precedenza (Q[2], AA[1], 2), l’unione tra la natura umana e la divinità ebbe luogo nella Persona stessa, e non nella natura umana. Pertanto è evidente che assumere una natura umana sia ciò che più propriamente conviene a una Persona.
+
+Risposta all’Obiezione 1: Poiché la Persona Divina è infinita, non è possibile aggiungere nulla a essa. Pertanto, Cirillo afferma nel [*Concilio di Efeso, Parte I, cap. 26*]: “Non concepiamo che il modo di unione tra Dio e l’uomo sia basato sull’aggiunta di qualcosa”; proprio come nell’unione dell’uomo con Dio, grazie alla grazia dell’adozione non viene aggiunto nulla a Dio, ma ciò che è Divino si unisce all’uomo; pertanto, non Dio ma l’uomo viene perfezionato.
+
+Risposta all’Obiezione 2: Si dice che una Persona Divina sia “incomunicabile” nel senso che non può essere attribuita a più soggetti diversi; tuttavia nulla impedisce che diverse qualità siano attribuite a tale Persona. Pertanto, non è contrario alla natura di una Persona Divina che essa possa esistere in più nature contemporaneamente, poiché anche in una persona creata possono coesistere accidentalmente diverse caratteristiche (ad esempio, nella persona umana convivono quantità e qualità). Ma per una Persona Divina, a causa della sua [infinità](/concepts/infinity), tale coesistenza di nature non è accidentale, bensì essenziale alla sua stessa natura.
+
+Risposta all’Obiezione 3: Come è stato detto sopra (Q[2], A[1]), l’[natura umana](/axes/human_nature) costituisce una Persona Divina, non semplicemente, ma perché tale Persona deriva proprio da questa natura. Infatti, la natura umana non rende il Figlio dell’Uomo “solo” umano, poiché Egli esisteva già dall’[eternità](/positions/eternity); essa lo rende soltanto uomo. È grazie alla Natura Divina che una Persona Divina viene effettivamente costituita come tale. Pertanto, non si dice che la Persona Divina “assuma” la Natura Divina, ma piuttosto che assume la natura umana.
+
 <span class="atom-split" data-atom="024" data-title="Whether it is befitting to the Divine Nature to assume?" data-chapter="Whether it is befitting to the Divine Nature to assume?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not befitting to the Divine Nature to assume. Because, as
@@ -1405,6 +1710,24 @@ the Word, as was said above, and hence it is befitting to that Person alone.
 Reply to Objection 3: As in God "what is" and "whereby it is" are the same, so likewise in
 Him "what acts" and "whereby it acts" are the same, since everything acts, inasmuch as it is a being.
 Hence the Divine Nature is both that whereby God acts, and the very God Who acts.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia appropriato alla Natura Divina assumere qualcosa. Infatti, come detto in precedenza (A[1]), assumere significa prendersi qualcosa a sé. Ma la Natura Divina non si è presa l’[natura umana](/axes/human_nature); l’unione tra le due nature non ha avuto luogo nella natura stessa, come chiarito in precedenza (Q[2], AA[1],3). Pertanto, non è appropriato alla Natura Divina assumere la natura umana.
+
+Obiezione 2: Inoltre, la Natura Divina è comune alle tre Persone divine. Pertanto, se è appropriato alla Natura Divina assumere una forma umana, allora lo è anche per le tre Persone; e quindi il Padre ha assunto la natura umana, proprio come il Figlio, il che rappresenta un errore.
+
+Obiezione 3: Inoltre, assumere significa agire. Ma agire è appropriato a una persona, non a una natura, che invece viene considerata il principio attraverso cui l’agente agisce. Pertanto, assumere non è conforme alla natura stessa.
+
+Al contrario, [Agostino](/figures/augustine) (Fulgenzio) afferma nel “De Fide ad Petrum ii”: “Quella natura che rimane eternamente generata dal Padre” (cioè quella che viene ricevuta dal Padre attraverso una generazione eterna) “ha preso la nostra natura, libera dal peccato, dalla Sua Madre”.
+
+Rispondo che, come è stato detto sopra (A[1]), nella parola “assunzione” si intendono due cose: cioè il principio e l’oggetto dell’azione. Ora, essere il principio di un’assunzione appartiene intrinsecamente alla Natura Divina, poiché l’assunzione avvenne per il suo potere; ma essere l’oggetto di un’assunzione non appartiene intrinsecamente alla Natura Divina, bensì in relazione alla Persona in cui essa viene considerata. Pertanto, si può dire in modo primario e più appropriato che è una Persona a compiere un’assunzione; ma si può anche dire, in modo secondario, che la Natura ha assunto una natura per la propria Persona. Allo stesso modo, si dice che la Natura sia incarnata: non perché venga trasformata in carne, ma perché assume la natura della carne. Per questo motivo Damasceno afferma (De Fide Orth. iii, 6): “Seguendo il beato Atanasio e Cirillo, diciamo che la Natura di Dio è incarnata”.
+
+Risposta all’Obiezione 1: “Il Sé” è un concetto reciproco e si riferisce allo stesso soggetto considerato. Tuttavia, la Natura Divina non costituisce un soggetto distinto dalla Persona della Parola. Pertanto, poiché la Natura Divina ha assunto la natura umana nella Persona della Parola, si può dire che l’abbia assunta “per sé”. Ma anche se il Padre ha assunto la natura umana nella Persona della Parola, ciò non significa che l’abbia assunta “per sé”, poiché il soggetto del Padre e quello del Figlio non sono lo stesso. Pertanto, non si può propriamente affermare che il Padre abbia assunto la natura umana.
+
+Risposta all’Obiezione 2: Ciò che è degno della Natura Divina in sé stesso è degno anche delle tre Persone divine, come la bontà, la saggezza e simili. Tuttavia, l’attributo dell’“assumere” appartiene alla Natura Divina in relazione alla Persona del Verbo, come già detto in precedenza; pertanto, tale attributo è degno esclusivamente di quella Persona.
+
+Risposta all’Obiezione 3: Così come in Dio “ciò che è” e “il modo in cui esiste” sono la stessa cosa, allo stesso modo in Lui “ciò che agisce” e “il modo in cui agisce” sono la stessa cosa; poiché tutto agisce, nella misura in cui è un essere. Pertanto, la Natura Divina è sia ciò mediante il quale Dio agisce, sia lo stesso Dio che agisce.
 
 <span class="atom-split" data-atom="025" data-title="Whether the Nature abstracted from the Personality can assume?" data-chapter="Whether the Nature abstracted from the Personality can assume?" data-kind="atom" data-srclang="en"></span>
 
@@ -1457,6 +1780,24 @@ all we can think of in God is considered as a subsisting suppositum. However, so
 predicated of God can be understood without others, not by way of resolution, but by the way
 mentioned above.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che, se con la nostra mente astraiamo la Personalità, la Natura non possa più assumerne le caratteristiche. Infatti, come detto in precedenza (A[1]), spetta proprio alla Natura assumere tali caratteristiche in relazione alla Persona. Ma ciò che appartiene a qualcosa in relazione a un’altra cosa non può più appartenere a quella prima cosa se quest’ultima viene rimossa; ad esempio, un corpo è visibile grazie al colore, e senza colore non potrebbe essere visto. Pertanto, se la Personalità viene mentalmente astratta, la Natura non potrà più assumerne le proprietà.
+
+Obiezione 2: Inoltre, l’assunzione implica necessariamente il concetto di unione, come già detto sopra (A[1]). Ma tale unione non può avvenire nella Natura divina, ma soltanto nella Persona divina. Pertanto, se si astrae la nozione di Persona, la Natura divina non può assumere nulla.
+
+Obiezione 3: Inoltre, è stato detto sopra (FP, Q[40], A[3]) che, nella Divinità, se si astrae la Personalità, non rimane nulla. Ma ciò che assume una forma concreta è qualcosa. Pertanto, se si astrae la Personalità, la Natura Divina non può assumere alcuna forma concreta.
+
+Al contrario, la “Personalità Divina” rappresenta una proprietà specifica di Dio; e questa proprietà è tripla: Paternità, Filiazione e Processione, come già detto in precedenza (FP, Q[30], A[2]). Ora, se astraiamo mentalmente queste componenti, rimane comunque l’onnipotenza di Dio, grazie alla quale si è verificata l’Incarnazione, come afferma l’angelo (Lc 1:37): “Per Dio non c’è nulla impossibile”. Pertanto, sembra che anche in assenza della Personalità Divina, la Natura Divina possa comunque manifestarsi.
+
+Rispondo che l’intelletto si rapporta a Dio in due modi. In primo luogo, per conoscere Dio così come Egli è; in questo caso è impossibile per l’intelletto delimitare una parte di ciò che esiste in Dio e lasciare il resto, poiché tutto ciò che è in Dio costituisce un’unica realtà, fatta eccezione per le distinzioni legate alle Persone divine; queste ultime, infatti, sono distinguibili soltanto attraverso relazioni che devono esistere contemporaneamente. In secondo luogo, l’intelletto si rapporta a Dio non nel senso di conoscerlo così come Egli è, ma in modo proprio, cioè comprendendo in modo molteplice e separato ciò che in Dio è unico; in questo modo il nostro intelletto può comprendere la bontà divina, la saggezza e altre qualità definite attributi essenziali di Dio, senza però afferrare i concetti di Paternità e Figliolanza, che rappresentano le sue Persone divine. Pertanto, anche se estraiamo dal nostro pensiero il concetto di Persona divina, possiamo comunque comprendere la Natura stessa di Dio.
+
+Risposta all’Obiezione 1: Poiché in Dio “ciò che è” e “quello con cui esiste” sono una cosa sola, se si considera ciascuna delle qualità attribuite a Dio in modo astratto, prescindendo da tutto il resto, essa rimarrà comunque qualcosa di reale e quindi una Persona, poiché si tratta di una natura intellettuale. Pertanto, proprio come oggi diciamo che ci sono tre Persone in Dio a causa delle loro proprietà personali, allo stesso modo, anche se eliminassimo mentalmente queste proprietà personali, nella nostra riflessione rimarrebbe comunque la Natura Divina come entità reale e come Persona. In questo modo si può comprendere che Dio possa assumere la [natura umana](/axes/human_nature) in virtù della sua esistenza o della sua Personalità.
+
+Risposta all’Obiezione 2: Anche se le proprietà personali delle Tre Persone vengono astratte dalla nostra mente, rimarrà comunque nella nostra riflessione quella unica Personalità di Dio, così come la consideravano gli Ebrei. L’ipotesi in questione può essere ricondotta a questa Unica Personalità di Dio, proprio come ora si riconduce ad essa l’ipotesi relativa alla Persona della Parola.
+
+Risposta all’Obiezione 3: Se astraiamo mentalmente la nozione di “Personalità”, si sostiene che non rimanga nulla in termini di distinzione logica tra il soggetto della relazione e la relazione stessa, poiché tutto ciò che possiamo considerare riguardo a Dio viene inteso come un semplice presupposto esistente. Tuttavia, alcune delle qualità attribuite a Dio possono essere comprese senza altre, non attraverso processi di astrazione logica, ma secondo il metodo menzionato in precedenza.
+
 <span class="atom-split" data-atom="026" data-title="Whether one Person without another can assume a created nature?" data-chapter="Whether one Person without another can assume a created nature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one Person cannot assume a created nature without another
@@ -1497,6 +1838,24 @@ Pet. 1:4: "That you may be made partakers of the Divine Nature"; and hence this 
 common to the three Persons, in regard to the principle and the term. But the assumption which is
 by the grace of union is common on the part of the principle, but not on the part of the term, as was
 said above.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che una Persona non possa assumere una natura creata senza che un’altra la assuma al suo posto. Infatti, “le opere della Trinità sono inseparabili”, come afferma [Agostino](/figures/augustine) nell’Enchiridion xxxviii. Ma poiché le tre Persone hanno una sola essenza, hanno anche un’unica operazione. Ora, assumere qualcosa rappresenta senz’altro un atto operativo; pertanto, questo atto non può appartenere a una sola Persona senza appartenere anche alle altre due.
+
+Obiezione 2: Inoltre, così come affermiamo che la Persona del Figlio si sia incarnata, lo stesso è avvenuto anche per la Natura Divina; infatti “l’intera Natura Divina si è incarnata in una delle sue ipostasi”, come afferma Damasceno (De Fide Orth. iii, 6). Ma la Natura Divina è comune alle tre Persone della Trinità. Pertanto, l’incarnazione riguarda anche la Natura Divina.
+
+Obiezione 3: Inoltre, poiché la [natura umana](/axes/human_nature) in Cristo è assunta da Dio, allo stesso modo gli uomini sono anch’essi assunti da Lui per grazia, secondo Romani 14:3: “Dio lo ha accolto presso Sé”. Ma questa assunzione riguarda tutte le Persone della Trinità; pertanto vale anche per la prima di esse.
+
+Al contrario, Dionigi afferma (Div. Nom. ii) che il mistero dell’Incarnazione rientra nella “teologia discreta”, cioè secondo quella concezione per cui si attribuiscono qualità “distinte” alle Persone divine.
+
+Rispondo che, come detto sopra (A[1]), l’assunzione implica due elementi: l’atto stesso di assumere e il termine dell’assunzione. L’atto di assumere deriva dal Potere Divino, comune alle tre Persone della Trinità; mentre il termine dell’assunzione è una Persona specifica, come indicato in precedenza (A[2]). Pertanto, ciò che riguarda l’aspetto attivo dell’assunzione è comune alle tre Persone; ma ciò che concerne la natura del termine dell’assunzione appartiene a una sola Persona, in modo tale da non essere condiviso dalle altre due. Infatti, le tre Persone della Trinità hanno fatto sì che la natura umana venisse unita alla Persona del Figlio.
+
+Risposta all’Obiezione 1: Questo argomento riguarda l’operazione in sé; la conclusione deriverebbe soltanto se tale operazione fosse l’unica considerata, senza tenere conto del termine “Persona”.
+
+Risposta all’Obiezione 2: Si afferma che la Natura Divina sia incarnata e che assuma una forma specifica a causa della Persona in cui ha luogo questa unione, come detto sopra (AA[1],2), e non perché tale caratteristica sia comune alle tre Persone divine. Ora, si dice che “l’intera Natura Divina” sia incarnata; non nel senso che sia incarnata in tutte e tre le Persone, ma perché nulla manca alla perfezione della Natura Divina nella Persona incarnata, come spiega Damasceno in quei passaggi.
+
+Risposta all’Obiezione 3: L’assunzione che avviene per grazia dell’adozione termina in una certa partecipazione alla Natura Divina, attraverso un’assimilazione alla Sua bontà, secondo quanto si legge in 2 Petri 1:4: “Affinché possiate diventare partecipi della Natura Divina”; pertanto questa assunzione è comune alle tre Persone della Trinità, sia riguardo al principio che al termine. Tuttavia, l’assunzione che avviene per grazia dell’unione è comune soltanto riguardo al principio, ma non anche al termine, come già detto in precedenza.
 
 <span class="atom-split" data-atom="027" data-title="Whether each of the Divine Persons could have assumed human nature?" data-chapter="Whether each of the Divine Persons could have assumed human nature?" data-kind="atom" data-srclang="en"></span>
 
@@ -1550,6 +1909,24 @@ Reply to Objection 3: It belongs to the Father to be innascible as to eternal bi
 temporal birth would not destroy this. But the Son of God is said to be sent in regard to the
 Incarnation, inasmuch as He is from another, without which the Incarnation would not suffice for
 the nature of mission.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nessun’altra Persona Divina potesse aver assunto la [natura umana](/axes/human_nature) se non quella del Figlio. Infatti, proprio grazie a questa assunzione Dio è diventato il Figlio dell’Uomo. Tuttavia, non sarebbe stato appropriato affermare che né il Padre né lo Spirito Santo fossero figli; ciò infatti porterebbe alla confusione delle Persone Divine. Pertanto, né il Padre né lo Spirito Santo potevano aver assunto la carne umana.
+
+Obiezione 2: Inoltre, per mezzo dell’Incarnazione Divina, gli uomini hanno ottenuto la condizione di figli adottivi, secondo Romani 8:15: “Non avete infatti ricevuto lo spirito della schiavitù che porta al timore, ma lo spirito della filiazione divina”. Tuttavia, la filiazione adottiva rappresenta soltanto un’imitazione parziale della filiazione naturale, che non appartiene né al Padre né allo Spirito Santo; per questo si dice (Romani 8:29): “Per coloro che Egli aveva conosciuto in anticipo, li ha anche predestinati ad essere conformi all’immagine del Suo Figlio”. Pertanto, sembra che nessun’altra Persona, se non quella del Figlio, potesse incarnarsi.
+
+Obiezione 3: Inoltre, si afferma che il Figlio sia stato inviato e generato attraverso la nascita temporale, poiché si è incarnato. Ma non spetta al Padre essere “inviato”, poiché Egli è innascibile, come già detto in precedenza (FP, Q[32], A[3]; FP, Q[43], A[4]). Pertanto, almeno la Persona del Padre non può incarnarsi.
+
+Al contrario, tutto ciò che il Figlio può fare, possono farlo anche il Padre e lo Spirito Santo; altrimenti il potere delle tre Persone non sarebbe uno. Ma poiché il Figlio è stato in grado di incarnarsi, anche il Padre e lo Spirito Santo sono stati in grado di incarnarsi.
+
+Rispondo che, come detto in precedenza (AA[1],2,4), l’assunzione implica due elementi: l’atto di colui che assume e il termine dell’assunzione stessa. Ora, il principio dell’atto è il Potere Divino, mentre il termine dell’assunzione è una Persona. Tuttavia, il Potere Divino è indifferenziato e comune a tutte le Persone divine. Inoltre, la natura della personalità è comune a tutte le Persone, sebbene le proprietà specifiche di ciascuna siano diverse. Ogni volta che un potere agisce in modo indifferenziato su più oggetti, può esercitarsi su qualsiasi di essi allo stesso modo; ciò è evidente nei poteri razionali, che possono agire sia sugli opposti che su uno solo di essi. Pertanto, il Potere Divino avrebbe potuto unire la natura umana alla Persona del Padre o dello Spirito Santo, così come l’ha unita alla Persona del Figlio. E da ciò si deve concludere che anche il Padre o lo Spirito Santo avrebbero potuto assumere una carne, proprio come il Figlio.
+
+Risposta all’Obiezione 1: La filiazione temporale, per mezzo della quale si afferma che Cristo sia il Figlio dell’Uomo, non costituisce la Sua Persona, così come non lo fa la filiazione eterna; essa rappresenta piuttosto qualcosa che deriva dalla nascita temporale di Cristo. Pertanto, se il nome di “Figlio” venisse trasferito al Padre o allo Spirito Santo in questo modo, non ci sarebbe alcuna confusione tra le Persone Divine.
+
+Risposta all’Obiezione 2: La filiazione adottiva rappresenta una certa forma di partecipazione alla filiazione naturale; tuttavia essa avviene in noi attraverso l’appropriazione da parte del Padre, che è il principio della filiazione naturale, e attraverso il dono dello Spirito Santo, che è l’amore del Padre e del Figlio, secondo quanto si legge in Galati 4:6: “Dio ha inviato lo Spirito del Suo Figlio nei vostri cuori, affinché gridino: ‘Abbà, Padre!’”. Pertanto, proprio come attraverso l’incarnazione del Figlio abbiamo ricevuto la filiazione adottiva in conformità alla Sua filiazione naturale, allo stesso modo, se il Padre fosse stato incarnato, avremmo ricevuto la filiazione adottiva da Lui, come dal principio della filiazione naturale, e dallo Spirito Santo, come dal legame comune tra Padre e Figlio.
+
+Risposta all’Obiezione 3: Spetta al Padre essere “innascibile” riguardo alla sua nascita eterna; una nascita temporale non distruggerebbe questa caratteristica. Tuttavia, si dice che il Figlio di Dio sia stato inviato in relazione all’Incarnazione, poiché proviene da un altro essere; senza questo elemento, l’Incarnazione non sarebbe stata sufficiente per adempiere alla natura della sua missione.
 
 <span class="atom-split" data-atom="028" data-title="Whether several Divine Persons can assume one and the same individual nature?" data-chapter="Whether several Divine Persons can assume one and the same individual nature?" data-kind="atom" data-srclang="en"></span>
 
@@ -1617,6 +1994,24 @@ as "man" stood for the Person of the Father. But if one were to go on to say, "T
 the Son is man; therefore the Son is unbegotten," it would be the fallacy of figure of speech or of
 accident; even as we now say God is unbegotten, because the Father is unbegotten, yet we cannot
 conclude that the Son is unbegotten, although He is God.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che due Persone Divine non possano assumere la stessa natura individuale. Infatti, se ciò fosse vero, esisterebbero o diversi uomini o un solo uomo. Ma non diversi uomini, poiché proprio come una singola Natura Divina in diverse Persone non costituisce diversi dèi, allo stesso modo una sola natura umana in diverse Persone non costituisce diversi uomini. E nemmeno esisterebbe un solo uomo, poiché “questo uomo” indica una singola persona; di conseguenza, la distinzione tra le tre Persone Divine verrebbe distrutta, il che è inaccettabile. Pertanto, né due né tre Persone Divine possono assumere una sola natura umana.
+
+Obiezione 2: Inoltre, l’assunzione si conclude nella unità di una sola Persona, come è stato detto sopra (A[2]). Ma il Padre, il Figlio e lo Spirito Santo non costituiscono una singola Persona. Pertanto, le tre Persone non possono assumere una sola natura umana.
+
+Obiezione 3: Inoltre, Damasceno afferma (De Fide Orth. iii, 3,4) e anche [Agostino](/figures/augustine) (De Trin. i, 11,12,13) che, a seguito dell’Incarnazione del Figlio di Dio, ciò che si dice del Figlio di Dio si può dire anche del Figlio dell’Uomo, e viceversa. Pertanto, se le tre Persone assumessero una sola natura umana, ciò che si dice di ciascuna delle tre Persone si potrebbe dire dell’uomo; e inversamente, ciò che si dice dell’uomo si potrebbe dire di ciascuna delle tre Persone. Quindi, ciò che è proprio del Padre – ovvero generare il Figlio – verrebbe detto anche dell’uomo, e di conseguenza anche del Figlio di Dio; ma questo è impossibile. Pertanto, è impossibile che le tre Persone assumano una sola natura umana.
+
+Al contrario, la Persona Incarnata esiste in due nature. Tuttavia, le tre Persone divine possono esistere in una sola Natura Divina. Pertanto, possono anche esistere in una sola natura umana, in modo che tale natura umana sia assunta dalle tre Persone divine.
+
+Rispondo che, come è stato detto sopra (Q[2], A[5], ad 1), attraverso l’unione dell’['anima e del corpo](/axes/soul_body) in Cristo non si crea una nuova persona né una nuova ipostasi, ma un’unica natura umana viene assunta dalla Persona o dall’Ipostasia Divina. Questo processo avviene infatti non per il potere della natura umana, ma per il potere della Persona Divina. Ora, la caratteristica delle Persone Divine è proprio quella di non escludersi a vicenda nella condivisione della stessa natura, ma soltanto nella stessa Persona. Pertanto, poiché nel mistero dell’Incarnazione “la ragione fondamentale di questo atto risiede nel potere del soggetto che lo compie”, come afferma Agostino (Epistola ad Volusianum cxxxvii), dobbiamo giudicarlo in base alla qualità della Persona Divina che assume tale natura, e non in base alla qualità della natura umana assunta. Quindi non è impossibile che due o tre Persone Divine assumano una sola natura umana; tuttavia sarebbe impossibile che assumessero un’unica ipostasi o persona umana. Come afferma Anselmo nel libro De Conceptu Virgini (Cur Deus Homo ii, 9): “Diverse Persone non possono assumere lo stesso uomo per formare un’unica Persona”.
+
+Risposta all’Obiezione 1: Nell’ipotesi che tre Persone assumano una sola natura umana, sarebbe corretto affermare che le tre Persone siano un unico uomo, in virtù di quella singola natura umana. Proprio come oggi si può dire che le tre Persone siano un unico Dio a causa della loro comune natura divina, allo stesso modo si potrebbe dire che siano un unico uomo per via della loro identica natura umana. Il termine “uno”, in questo contesto, non indica l’unità di persona, ma soltanto l’unità nella natura umana; infatti, non si potrebbe sostenere che le tre Persone siano una cosa sola semplicemente perché sono un unico uomo. Del resto, nulla ci impedisce di affermare che gli uomini, pur essendo molti in senso numerico, siano in qualche modo uno: ad esempio, un unico popolo. Come dice Agostino nel De Trinitate vi, 3: “Lo Spirito di Dio e lo spirito dell’uomo sono diversi per natura, ma diventano uno spirito attraverso la comunanza di origine”; ciò è in accordo con 1 Corinzi 6:17: “Chi è unito al Signore è un solo spirito”.
+
+Risposta all’Obiezione 2: In questa ipotesi, si assumerebbe che la natura umana sia unitaria, non certo in senso di una singola Persona, ma in senso dell’unità di ciascuna delle Persone divine; quindi, proprio come la Natura Divina presenta un’unità intrinseca con ciascuna delle sue Persone, anche la natura umana avrebbe un’unità simile, derivante da tale assunzione.
+
+Risposta all’Obiezione 3: Nel mistero dell’Incarnazione si verifica una comunicazione delle proprietà appartenenti alla natura umana, poiché tutto ciò che appartiene alla natura umana può essere attribuito alla Persona del Padre che esiste in quella natura, indipendentemente dal fatto che tale attributo si riferisca alla natura umana o a quella divina. Pertanto, nella persona del Padre possono essere attribuiti sia i tratti della natura umana che quelli della natura divina; lo stesso vale per la persona del Figlio e dello Spirito Santo. Tuttavia, ciò che appartiene alla persona del Padre in virtù della sua essenza propria non potrebbe essere attribuito alla persona del Figlio o dello Spirito Santo a causa della distinzione delle persone divine. Si potrebbe quindi dire che, così come il Padre è “non generato”, allo stesso modo anche l’uomo è “non generato”, nel senso che il termine “uomo” indica appunto la persona del Padre. Tuttavia, se si continuasse a sostenere che “l’uomo è non generato; il Figlio è uomo; pertanto il Figlio è non generato”, ciò costituirebbe un errore logico, analogo alla fallacia basata su una somiglianza accidentale; proprio come oggi diciamo che Dio è “non generato” perché il Padre lo è, ma questo non ci permette di concludere che anche il Figlio sia “non generato”, sebbene anch’Egli sia Dio.
 
 <span class="atom-split" data-atom="029" data-title="Whether one Divine Person can assume two human natures?" data-chapter="Whether one Divine Person can assume two human natures?" data-kind="atom" data-srclang="en"></span>
 
@@ -1691,6 +2086,24 @@ natures assumed there would be a uniform relation to the Divine Person, nor woul
 the other. Hence it would not be necessary for one of them to be altogether united to the other, i.e.
 all the parts of one with all the parts of the other.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra impossibile che una singola Persona Divina possa assumere due nature umane. Infatti, la natura assunta nel mistero dell’Incarnazione non ha altro soggetto di applicazione se non la stessa Persona Divina, come è chiaro da quanto detto in precedenza (Q[2], AA[3],6). Pertanto, se supponessimo che una singola Persona assuma due nature umane, ci troveremmo di fronte a un soggetto che possiede due nature della stessa specie; il che sembrerebbe implicare una contraddizione, poiché la natura di una specie può essere applicata soltanto attraverso soggetti distinti.
+
+Obiezione 2: Inoltre, secondo questa ipotesi non si potrebbe affermare che la Persona Divina incarnata fosse un unico uomo, poiché non avrebbe posseduto una sola [natura umana](/axes/human_nature); né si potrebbe sostenere che ci fossero più persone divine, poiché diversi uomini hanno nature umane distinte, mentre in questo caso esisterebbe soltanto un’unica natura umana. Pertanto, l’ipotesi sopra menzionata è impossibile.
+
+Obiezione 3: Inoltre, nel mistero dell’Incarnazione l’intera Natura Divina si unisce all’intera natura umana assunta da Cristo, cioè a ogni sua parte; infatti Cristo è “Dio perfetto e uomo perfetto, Dio completo e uomo completo”, come afferma Damasceno (De Fide Orth. iii, 7). Tuttavia due nature umane non possono unirsi completamente tra loro, poiché l’anima di una natura umana verrebbe unita al corpo dell’altra; inoltre, due corpi umani uniti insieme causerebbero confusione delle loro nature. Pertanto è impossibile che una sola Persona Divina assuma due nature umane.
+
+Al contrario, tutto ciò che il Padre può fare, lo può anche il Figlio. Tuttavia, dopo l’Incarnazione, il Padre può ancora assumere una natura umana diversa da quella che il Figlio ha assunto; infatti, in nulla il potere del Padre o del Figlio viene diminuito a causa dell’Incarnazione del Figlio. Pertanto, sembra che dopo l’Incarnazione il Figlio possa assumere un’altra natura umana diversa da quella che ha già assunto.
+
+Rispondo che ciò che ha potere su una sola cosa, e nient’altro, possiede un potere limitato a quella singola cosa. Ora, il potere di una Persona Divina è infinito e non può essere limitato da alcuna creatura. Pertanto, non si può affermare che una Persona Divina, avendo assunto una natura umana, non possa assumerne un’altra. Infatti, ciò significherebbe che la natura divina venisse compresa entro i confini di una sola natura umana, rendendola incapace di assumerne un’altra; ma questo è impossibile, poiché l’Increato non può essere compreso da alcuna creatura. Quindi è evidente che, sia considerando la Persona Divina in relazione al suo potere – che costituisce il principio dell’unione – sia in relazione alla sua natura personale – che rappresenta il termine di tale unione – si deve ammettere che la Persona Divina, al di là della natura umana che ha assunto, può assumere un’altra natura umana distinta.
+
+Risposta all’Obiezione 1: Una natura creata è completata nelle sue essenze dalla sua forma, la quale si moltiplica in base alla divisione della materia. Pertanto, se la composizione di materia e forma costituisce un nuovo “suppostum”, ne consegue che la natura stessa si moltiplichi attraverso la moltiplicazione di tali “supposita”. Tuttavia, nel mistero dell’Incarnazione, l’unione tra forma e materia – cioè tra anima e corpo – non costituisce un nuovo “suppostum”, come già detto in precedenza (A[6]). Di conseguenza, può esserci una molteplicità numerica nella natura stessa, a causa della divisione della materia, senza che ci sia distinzione tra i diversi “supposita”.
+
+Risposta all’Obiezione 2: Potrebbe sembrare possibile affermare che, in una tale ipotesi, ne deriverebbe l’esistenza di due uomini a causa delle due nature umane; al contrario, le tre Persone divine verrebbero considerate una sola persona in virtù della natura unica che assumono, come già detto sopra (A[6], ad 1). Tuttavia, ciò non sembra essere vero. Poiché dobbiamo utilizzare le parole secondo lo scopo del loro significato, che è legato al contesto in cui vengono usate. Pertanto, per comprendere il significato di una parola, dobbiamo considerare gli elementi presenti nel nostro ambiente; in questi contesti, una parola derivante da un concetto specifico non viene mai utilizzata al plurale, a meno che non ci siano diverse entità coinvolte. Ad esempio, un uomo che indossa due abiti non viene definito “due persone vestite”, ma “una persona con due abiti”; allo stesso modo, qualcuno che possiede due caratteristiche specifiche viene indicato al singolare come “colui che possiede quelle due caratteristiche”. Ora, la natura umana assunta da Dio può essere paragonata a un abito; tuttavia questa analogia non è del tutto appropriata, come già osservato sopra (Q[2], A[6], ad 1). Pertanto, se una Persona divina assumesse due nature umane, verrebbe considerata una sola persona con due nature umane, in base all’unità dello “supposto” su cui si basa tale natura. Molti uomini vengono definiti un popolo perché condividono qualcosa in comune, e non a causa dell’unità dello “supposto” che li caratterizza; allo stesso modo, se due Persone divine assumessero una sola natura umana, verrebbero considerate una sola persona, non per l’unità dello “supposto”, ma perché condividono qualcosa in comune.
+
+Risposta all’Obiezione 3: La natura divina e quella umana non hanno lo stesso rapporto con la Persona Divina; la natura divina è in relazione con essa innanzitutto, poiché è una cosa con essa fin dall’[eternità](/positions/eternity); successivamente, la natura umana entra in relazione con la Persona Divina, nel senso che viene assunta da questa nella dimensione temporale. Non si tratta però di un’unione tra le due nature, ma piuttosto del fatto che la Persona di Dio esiste all’interno della natura umana. Il Figlio di Dio è infatti la Sua divinità, ma non la Sua umanità. Pertanto, affinché la natura umana possa essere assunta dalla Persona Divina, è necessario che la natura divina si unisca personalmente a tutta la natura umana assunta, cioè a tutte le sue parti. Nelle due nature assunte esisterebbe però un rapporto uniforme con la Persona Divina; inoltre, una delle due nature non assumerebbe l’altra. Di conseguenza, non sarebbe necessario che una di esse si unisse completamente all’altra, cioè che tutte le parti di una natura si combinassero con tutte le parti dell’altra.
+
 <span class="atom-split" data-atom="030" data-title="Whether it was more fitting that the Person of the Son rather than any other Divine Person should assume human nature?" data-chapter="Whether it was more fitting that the Person of the Son rather than any other Divine Person should assume human nature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was not more fitting that the Son of God should become
@@ -1763,6 +2176,24 @@ Reply to Objection 3: To be the gift of the Father and the Son is proper to the 
 But the remission of sins is caused by the Holy Ghost, as by the gift of God. And hence it was more
 fitting to man's justification that the Son should become incarnate, Whose gift the Holy Ghost is.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non fosse meno appropriato che il Figlio di Dio si incarnasse piuttosto che il Padre o lo Spirito Santo. Infatti, attraverso il mistero dell’incarnazione gli uomini vengono condotti alla vera conoscenza di Dio, come affermato in Giovanni 18:37: “Per questo sono nato e sono venuto nel mondo: per dare testimonianza della verità”. Tuttavia, poiché la persona del Figlio di Dio si è incarnata, molti sono rimasti lontani dalla vera conoscenza di Dio, poiché hanno attribuito a quella stessa persona ciò che era stato detto del Figlio nella Sua [natura umana](/axes/human_nature); un esempio è Ario, che sosteneva l’esistenza di una disuguaglianza tra le persone divine, come si legge in Giovanni 14:28: “Il Padre è maggiore di Me”. Ora, questo errore non sarebbe sorto se fosse stata la persona del Padre ad incarnarsi, poiché nessuno avrebbe considerato il Padre inferiore al Figlio. Pertanto, sembra appropriato che sia stata la persona del Padre, e non quella del Figlio, ad incarnarsi.
+
+Obiezione 2: Inoltre, l’effetto dell’Incarnazione sembrerebbe essere, per così dire, una seconda creazione della natura umana, secondo Galati 6:15: “Perché in Cristo Gesù né la circoncisione né l’incirconcisione hanno alcun valore; ma si tratta di una nuova creatura”. Tuttavia il potere della creazione appartiene al Padre. Pertanto sarebbe stato più appropriato che fosse il Padre ad incarnarsi, piuttosto che il Figlio.
+
+Obiezione 3: Inoltre, l’Incarnazione è destinata alla remissione dei peccati, secondo Matteo 1:21: “Lo chiamerete Gesù; poiché egli salverà il suo popolo dai suoi peccati”. Ora, la remissione dei peccati viene attribuita allo Spirito Santo, secondo Giovanni 20:22-23: “Ricevete lo Spirito Santo; quelli che perdonerete i loro peccati, saranno perdonati”. Pertanto, è stato lo Spirito Santo, e non il Figlio, ad incarnarsi.
+
+Al contrario, Damasceno afferma (De Fide Orth. iii, 1): “Nel mistero dell’Incarnazione la saggezza e il potere di Dio vengono rivelati: la saggezza, perché Egli trovò un modo estremamente appropriato per saldare un debito particolarmente gravoso; il potere, perché Egli fece sì che colui che era stato sconfitto diventasse a sua volta vincitore.” Ma potere e saggezza sono attribuiti al Figlio, secondo 1 Corinzi 1:24: “Cristo, potere di Dio e saggezza di Dio”. Pertanto, era appropriato che la Persona del Figlio si incarnasse.
+
+Rispondo che fu assolutamente appropriato che la Persona del Figlio si incarnasse. Primo, per quanto riguarda l’unione: ciò che è simile infatti si unisce naturalmente. La Persona del Figlio, essendo la Parola di Dio, ha una certa affinità con tutte le creature, poiché la parola dell’artigiano, cioè il suo concetto, rappresenta l’esempio di ciò che egli stesso crea. Pertanto, la Parola di Dio, essendo il concetto eterno di Dio, è l’esempio di tutte le creature. E poiché le creature, attraverso questa affinità, possono raggiungere la loro perfezione eterna e immutabile, fu appropriato che la stessa Parola si unisse personalmente alla natura umana al fine di restituirle tale perfezione. Inoltre, la Parola ha una particolare affinità con la natura umana, poiché essa è il concetto della Saggezza eterna da cui deriva tutta la saggezza umana. Pertanto l’uomo viene perfezionato nella saggezza – che costituisce la sua vera perfezione, in quanto essere razionale – attraverso la partecipazione alla Parola di Dio, proprio come il discepolo riceve l’insegnamento dal suo maestro. Per questo si dice nell’Ecclesiaste (1:5): “La Parola di Dio nei cieli è la sorgente della saggezza”. Infine, per la perfezione ultima dell’uomo, fu appropriato che proprio la Parola di Dio si unisse personalmente alla natura umana. In secondo luogo, questa appropriazione può essere spiegata dal fine stesso di tale unione: il compimento della [predestinazione](/concepts/predestination), cioè di coloro che sono destinati all’eredità celeste, che viene concessa esclusivamente ai figli, come si legge in Romani 8:17: “Se infatti sono figli, anche eredi”. Pertanto fu appropriato che fosse proprio il Figlio naturale di Dio a far sì che gli uomini potessero partecipare a questa condizione di figli attraverso l’adozione, come afferma l’Apostolo nello stesso capitolo (Romani 8:29): “Per coloro che Egli aveva conosciuto in anticipo, li ha anche predestinati ad essere conformi all’immagine del Suo Figlio”. In terzo luogo, questa appropriazione può essere spiegata dal peccato del nostro primo genitore; l’incarnazione offrì infatti il rimedio a tale peccato. Il primo uomo peccò cercando la conoscenza, come si evince dalle parole del serpente che promise all’uomo la conoscenza del bene e del male. Pertanto fu appropriato che fosse proprio la Parola della vera conoscenza a guidare l’uomo verso Dio, dopo che questi si era allontanato da Lui a causa di una sete eccessiva di conoscenza.
+
+Risposta all’Obiezione 1: Non esiste nulla che la malvagità umana non possa abusare, poiché essa abusa persino della bontà di Dio, come si legge in Romani 2:4: “Forse disprezzi le ricchezze della sua bontà?”. Pertanto, anche se la Persona del Padre fosse venuta incarnata, gli uomini avrebbero comunque trovato il modo di commettere errori, come se il Figlio non fosse in grado di restaurare la natura umana.
+
+Risposta all’Obiezione 2: La prima creazione delle cose fu realizzata per mezzo del Potere di Dio Padre attraverso la Parola; pertanto anche la seconda creazione dovrebbe essere avvenuta tramite la Parola, per il potere di Dio Padre, affinché la restaurazione corrispondesse alla creazione, secondo quanto detto in 2 Corinzi 5:19: “Dio infatti, in Cristo, ha riconciliato il mondo con Sé stesso”.
+
+Risposta all’Obiezione 3: Essere il dono del Padre e del Figlio è proprio dello Spirito Santo. Tuttavia, la remissione dei peccati è opera dello Spirito Santo, come di un dono di Dio. Pertanto, era più appropriato per la giustificazione dell’uomo che il Figlio si incarnasse, poiché lo Spirito Santo è proprio quel dono del Figlio.
+
 <span class="atom-split" data-atom="031" data-title="OF THE MODE OF UNION ON THE PART OF THE HUMAN NATURE (SIX ARTICLES)" data-chapter="OF THE MODE OF UNION ON THE PART OF THE HUMAN NATURE (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the union on the part of what was assumed. About which we must
@@ -1780,6 +2211,18 @@ individuals?
 (5) Whether it was becoming that He should assume human nature in all its individuals?
 (6) Whether it was becoming that He should assume human nature in any man begotten of the
 stock of Adam?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’unione che si è verificata riguardo a ciò che è stato assunto. A questo proposito, dobbiamo innanzitutto esaminare quali cose siano state assunte dalla Parola di Dio; in secondo luogo, quali elementi siano stati assunti insieme ad essa, sia essi perfezioni che difetti.  
+Il Figlio di Dio ha assunto la [natura umana](/axes/human_nature) e le sue parti. Pertanto sorgono tre aspetti da considerare: primo, in relazione alla natura stessa; secondo, in relazione alle sue parti; terzo, in relazione all’ordine con cui questa unione si è verificata.  
+Sotto il primo aspetto, vi sono sei punti da esaminare:  
+(1) La natura umana era forse più adatta ad essere assunta rispetto a qualsiasi altra natura?  
+(2) Ha assunto una persona specifica?  
+(3) Ha assunto un uomo concreto?  
+(4) Era appropriato che assumesse la natura umana in modo astratto, senza considerare gli individui specifici?  
+(5) Era appropriato che assumesse la natura umana nella sua totalità, compresi tutti gli individui?  
+(6) Era appropriato che assumesse la natura umana in qualsiasi uomo discendente da Adamo?
 
 <span class="atom-split" data-atom="032" data-title="Whether human nature was more assumable by the Son of God than any other nature?" data-chapter="Whether human nature was more assumable by the Son of God than any other nature?" data-kind="atom" data-srclang="en"></span>
 
@@ -1854,6 +2297,28 @@ suppositum, but of something which is one by position or order, whereof very man
 capable of assumption, as was said above. Hence it follows that only human nature is capable of
 being assumed.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la [natura umana](/axes/human_nature) non sia più idonea ad essere assunta dal Figlio di Dio di qualsiasi altra natura. Infatti, l’[Agostino](/figures/augustine) afferma (Epistola ad Volusianum cxxxvii): “Nei fatti compiuti in modo miracoloso, la vera causa di tali fatti è il potere di colui che li ha realizzati”. Ora, il potere di Dio che ha operato l’Incarnazione, un atto davvero miracoloso, non è limitato a una sola natura, poiché il potere di Dio è infinito. Pertanto, la natura umana non è più idonea ad essere assunta dal Figlio di Dio di qualsiasi altra creatura.
+
+Obiezione 2: Inoltre, la somiglianza rappresenta la base della conformità dell’Incarnazione della Persona Divina, come già detto sopra (Q[3], A[8]). Ma così come nelle creature razionali esiste una somiglianza di immagine, nelle creature irrazionali esiste una somiglianza di traccia. Pertanto, anche la creatura irrazionale era in grado di subire l’Incarnazione, proprio come la natura umana.
+
+Obiezione 3: Inoltre, nella natura angelica troviamo una somiglianza più perfetta rispetto a quella umana, come afferma Gregorio nel suo Homilium de Cento Ovibus (xxxiv in Ev.), citando Ezechiele 28:12: “Tu eri il sigillo di questa somiglianza”. Anche gli angeli, proprio come gli uomini, sono soggetti al peccato, come si legge in Giobbe 4:18: “Anche nei suoi angeli trovò malvagità”. Pertanto, la natura angelica era altrettanto capace di compiere atti di assunzione quanto quella umana.
+
+Obiezione 4: Inoltre, poiché la massima perfezione appartiene a Dio, più una cosa è simile a Dio, più perfetta è. Ma l’intero universo è più perfetto delle sue parti, tra cui rientra anche la natura umana. Pertanto, l’intero universo è più idoneo ad essere assunto come oggetto di riflessione o analisi che la natura umana stessa.
+
+Al contrario, si dice (Proverbi 8:31) attraverso la voce della Sapienza: “Il mio piacere è essere con i figli dell’uomo”; e quindi sembrerebbe esserci una sorta di armonia nell’unione del Figlio di Dio con la natura umana.
+
+Rispondo che si dice che una cosa sia assunibile quando è considerata capace di essere assunta da una Persona Divina; tale capacità non può essere intesa in riferimento alla potenza passiva naturale, la quale non si estende a ciò che trascende l’ordine naturale, come avviene nell’unione personale di una creatura con Dio. Pertanto, si dice che una cosa sia assunibile in base a una certa idoneità ad una tale unione. Ora, questa idoneità nella natura umana può essere considerata sotto due aspetti: la sua dignità e il suo bisogno. Per quanto riguarda la dignità, poiché la natura umana, essendo razionale e intellettuale, è stata creata per avvicinarsi in qualche modo alla Parola, attraverso la conoscenza e l’amore di essa. Per quanto riguarda il bisogno, poiché la natura umana ha avuto bisogno di essere restaurata dopo essere caduta nel [peccato originale](/positions/original_sin). Ora, questi due aspetti appartengono esclusivamente alla natura umana: nella creatura irrazionale manca l’idoneità legata alla dignità, mentre nella natura angelica manca l’idoneità legata al bisogno. Pertanto, solo la natura umana può essere considerata assunibile.
+
+Risposta all’Obiezione 1: Si dice che le creature siano “tali” in relazione alle loro cause proprie, e non in relazione a ciò che appartiene loro a causa delle loro cause prime ed universali; per questo motivo definiamo una malattia incurabile, non perché non possa essere guarita da Dio, ma perché non può essere curata attraverso i principi propri della creatura stessa. Pertanto, si dice che una creatura non sia “assumibile” non nel senso che togliamo qualcosa al potere di Dio, ma per indicare la condizione stessa della creatura, che non possiede la capacità necessaria per essere guarita.
+
+Risposta all’Obiezione 2: La somiglianza nell’immagine si trova nella natura umana, poiché l’uomo è capace di raggiungere Dio attraverso il proprio operare di conoscenza e amore. Tuttavia, la somiglianza nel segno riguarda soltanto una [rappresentazione](/concepts/idea) derivante dall’impressione divina, esistente nella creatura, e non implica affatto che la creatura irrazionale, in cui tale somiglianza si riscontra, possa raggiungere Dio unicamente attraverso il proprio operare. Infatti, ciò che non è adatto al minore non può essere adatto al maggiore; così come un corpo che non è idoneo a essere perfezionato da un’anima sensibile lo è ancora meno da un’anima intellettuale. Ora, l’unione con Dio in essere personale è molto più grande e perfetta dell’unione ottenuta attraverso il proprio operare. Pertanto, la creatura irrazionale che non riesce a raggiungere questa unione personale con Dio non ha alcuna capacità di unirsi a Lui in tale modo.
+
+Risposta all’Obiezione 3: Alcuni affermano che gli angeli non possano essere assunti da Dio, poiché la loro natura è perfetta fin dal momento della loro creazione; essendo infatti esenti da generazione e corruzione, non potrebbero essere uniti alla divinità senza che la loro stessa natura venisse distrutta. Tuttavia, ciò non sembrerebbe confutare del tutto l’idoneità della natura angelica ad essere assunta da Dio. Infatti, Dio potrebbe creare una nuova natura angelica e unirla a Sé nella unità della persona divina, senza che nulla di preesistente venisse corrotto in essa. Tuttavia, come già detto, manca l’idoneità necessaria per tale unione: poiché, sebbene la natura angelica possa essere soggetta al peccato in alcuni casi, il loro peccato è irreparabile, come si è affermato in precedenza (FP, Q[64], A[2]).
+
+Risposta all’Obiezione 4: La perfezione dell’universo non è la perfezione di una singola persona o entità, ma quella di qualcosa che è unitario in termini di posizione o ordine; molte delle sue parti, come già detto in precedenza, non sono suscettibili di essere “assunte” o considerate separatamente. Pertanto, solo la natura umana è in grado di essere considerata un’entità unitaria nel contesto dell’universo.
+
 <span class="atom-split" data-atom="033" data-title="Whether the Son of God assumed a person?" data-chapter="Whether the Son of God assumed a person?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Son of God assumed a person. For Damascene says (De
@@ -1893,6 +2358,24 @@ but the hindering what might otherwise have been. For if the human nature had no
 by a Divine Person, the human nature would have had its own personality; and in this way is it
 said, although improperly, that the Person "absorbed the person," inasmuch as the Divine Person
 by His union hindered the human nature from having its personality.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il Figlio di Dio abbia assunto una persona umana. Infatti Damasceno afferma (De Fide Orth. iii, 11) che il Figlio di Dio “abbia assunto la [natura umana](/axes/human_nature) ‘in modo individuale’”, cioè in forma di un essere concreto e distinto dagli altri. Ma un essere dotato di natura razionale è necessariamente una persona, come risulta chiaramente da Boezio (De Duab. Nat.). Pertanto, il Figlio di Dio ha assunto una persona umana.
+
+Obiezione 2: Inoltre, Damasceno afferma (De Fide Orthodossa iii, 6) che il Figlio di Dio “ha assunto ciò che aveva seminato nella nostra natura”. Ma è proprio nella nostra natura che Egli ha “seminato” la nostra personalità. Pertanto, il Figlio di Dio ha assunto una persona.
+
+Obiezione 3: Inoltre, nulla può essere assorbito se non esiste prima. Ma Innocenzo III, nel suo decreto *Paschas. Diac., De Spiritu Sanct. ii*, afferma che “la Persona di Dio ha assorbito la Persona umana”. Pertanto, sembrerebbe che la Persona umana esistesse già prima di essere assunta da Dio.
+
+Al contrario, [Agostino](/figures/augustine) (*Fulgentio*) afferma nel *De Fide ad Petrum II* che “Dio ha assunto la natura, non la persona, dell’uomo”.
+
+Rispondo che una cosa si dice sia “assunta” nel senso che viene considerata o presa in considerazione all’interno di un altro contesto. Pertanto, ciò che viene assunto deve necessariamente essere presupposto alla stessa operazione di assunzione, così come ciò che subisce un movimento locale deve essere presupposto al movimento stesso. Ora, la natura umana non è “presupposta” all’atto di assunzione; piuttosto, essa costituisce l’oggetto dell’assunzione, come già detto (Q[3], AA[1],2). Infatti, se la natura umana fosse presupposta all’assunzione, o sarebbe stata corrotta – nel qual caso sarebbe diventata inutile – oppure rimarrebbe dopo l’atto di assunzione, il che significherebbe l’esistenza di due persone: una che assume e l’altra che viene assunta, il che è falso, come dimostrato sopra (Q[2], A[6]). Pertanto, ne consegue che il Figlio di Dio non ha mai assunto una natura umana.
+
+Risposta all’Obiezione 1: Il Figlio di Dio assunse la natura umana “in atomo”, cioè in forma individuale; tale individuo non è altro che la Persona stessa del Figlio di Dio, un essere non creato ex nihilo. Pertanto, da ciò non consegue necessariamente che sia stata assunta una persona umana nel senso comune del termine.
+
+Risposta all’Obiezione 2: La sua vera natura non consiste nella perdita di ciò che è necessario per la perfezione della natura umana, ma nell’aggiunta di qualcosa che va al di là della natura umana stessa, ovvero nell’unione con una Persona Divina.
+
+Risposta all’Obiezione 3: L’‘assorbimento’, in questo contesto, non implica la distruzione di nulla che esistesse già prima, ma piuttosto l’impedimento a ciò che altrimenti avrebbe potuto verificarsi. Infatti, se la natura umana non fosse stata assunta da una Persona Divina, essa avrebbe avuto una propria personalità; ed è per questo motivo che si dice, anche se in modo improprio, che quella Persona “ha assorbito” la natura umana, nel senso che l’unione con la Persona Divina ha impedito alla natura umana di sviluppare una propria individualità.
 
 <span class="atom-split" data-atom="034" data-title="Whether the Divine Person assumed a man?" data-chapter="Whether the Divine Person assumed a man?" data-kind="atom" data-srclang="en"></span>
 
@@ -1935,6 +2418,24 @@ a man was assumed.
 
 Reply to Objection 3: The Son of God is not the man whom He assumed, but the man whose
 nature He assumed.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la Persona Divina abbia assunto una forma umana. Infatti è scritto nel Salmo 64:5: “Beato colui che Tu hai eletto e preso con Te”, un commento interpreta questa frase riferendola a Cristo; inoltre, [Agostino](/figures/augustine) afferma nel De Agone Christ. xi: “Il Figlio di Dio assunse una forma umana e in essa portò le caratteristiche dell’uomo”.
+
+Obiezione 2: Inoltre, la parola “uomo” indica una [natura umana](/axes/human_nature). Ma il Figlio di Dio assunse una natura umana; pertanto assunse l’essere di un uomo.
+
+Obiezione 3: Inoltre, il Figlio di Dio è un uomo. Ma non è uno dei tanti uomini che ha assunto; altrimenti, con lo stesso ragionamento, potrebbe essere Pietro o qualsiasi altro uomo. Pertanto, Egli è proprio l’uomo che ha assunto.
+
+Al contrario, l’autorità di Felice, Papa e Martire, citata dal Concilio di Efeso, recita: “Crediamo nel nostro Signore Gesù Cristo, nato dalla Vergine Maria, perché Egli è il Figlio Eterno e la Parola di Dio, e non un uomo assunto da Dio in modo che ci possa essere un altro al suo fianco. Infatti, il Figlio di Dio non si è assunto un uomo per creare un altro essere al suo fianco.”
+
+Rispondo che, come già detto sopra (A[2]), ciò che viene presunto non è il termine stesso della supposizione, ma qualcosa che viene presupposto alla base di tale supposizione. È stato inoltre affermato (Q[3], AA[1],2) che l’individuo al quale viene attribuita la natura umana non è altro che la Persona Divina, che rappresenta effettivamente il termine della supposizione stessa. La parola “uomo”, in questo contesto, indica la natura umana nel senso di una supposizione logica; infatti, come afferma Damasceno (De Fide Orth. iii, 4,11), la parola “Dio” indica colui che possiede la natura umana. Pertanto non si può dire propriamente che il Figlio di Dio abbia assunto un uomo, anche ammettendo (come è inevitabile) che in Cristo esista una sola supposizione e una sola ipostasi. Tuttavia, secondo coloro che ritengono che in Cristo ci siano due ipostasi o due supposizioni, si può affermare correttamente che il Figlio di Dio abbia assunto un uomo. Da questo deriva il primo parere citato nel Sententiae iii, D. 6, che ammette l’assunzione di un uomo da parte del Figlio di Dio; tuttavia tale opinione è errata, come già detto sopra (Q[2], A[6]).
+
+Risposta all’Obiezione 1: Queste frasi non devono essere intese in senso letterale, ma devono essere spiegate fedelmente ogni volta che vengono utilizzate dai saggi dottori della Chiesa; si intende cioè dire che un uomo fu assunto, nella misura in cui la sua natura venne assunta; e poiché tale assunzione aveva come scopo quello di rendere il Figlio di Dio un uomo.
+
+Risposta all’Obiezione 2: La parola “uomo” indica la natura umana nel suo aspetto concreto, nella misura in cui essa rappresenta un supposto; pertanto, poiché non possiamo affermare che un tale supposto sia stato effettivamente ipotizzato, non possiamo nemmeno dire che l’“uomo” stesso sia stato considerato come un supposto.
+
+Risposta all’Obiezione 3: Il Figlio di Dio non è l’uomo che ha assunto, ma l’uomo il cui essere umano ha assunto.
 
 <span class="atom-split" data-atom="035" data-title="Whether the Son of God ought to have assumed human nature abstracted from all individuals?" data-chapter="Whether the Son of God ought to have assumed human nature abstracted from all individuals?" data-kind="atom" data-srclang="en"></span>
 
@@ -1995,6 +2496,24 @@ Reply to Objection 3: Although human nature was not assumed in the concrete, as 
 suppositum were presupposed to the assumption, nevertheless it is assumed in an individual, since
 it is assumed so as to be in an individual.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il Figlio di Dio avrebbe dovuto assumere la [natura umana](/axes/human_nature) astratta da ogni singolo individuo. Infatti, l’assunzione della natura umana ebbe luogo per la salvezza comune di tutti gli uomini; per questo si dice di Cristo (1 Timoteo 4:10) che Egli è “il Salvatore di tutti gli uomini, soprattutto dei fedeli”. Tuttavia, la natura umana così come esiste negli individui si allontana dalla sua universalità. Pertanto, il Figlio di Dio avrebbe dovuto assumere la natura umana nella forma in cui essa è astratta da ogni singolo individuo.
+
+Obiezione 2: Inoltre, ciò che è più nobile tra tutte le cose deve essere attribuito a Dio. Ma in ogni genere ciò che è di per sé il migliore rappresenta il vertice della sua specie. Pertanto, il Figlio di Dio dovrebbe essersi assunto un uomo che esistesse di per sé, cioè quella natura umana che, secondo i platonici, è l’essenza dell’umanità astratta dai suoi individui concreti. Quindi, il Figlio di Dio dovrebbe essersi assunto proprio questa natura umana.
+
+Obiezione 3: Inoltre, la natura umana non fu assunta dal Figlio di Dio nel senso concreto che il termine “uomo” indica, come detto sopra (A[3]). In questo modo, il termine “uomo” designa la natura umana così com’è negli individui, come risulta chiaramente da quanto detto (A[3]). Pertanto, il Figlio di Dio assunse la natura umana nel senso in cui essa è separata dagli individui.
+
+Al contrario, Damasceno afferma (De Fide Orthodossa iii, 11): “Dio, la Parola Incarnata, non ha assunto una natura che esista soltanto nel pensiero; altrimenti ciò non sarebbe stato un’Incarnazione, ma un’incarnazione falsa e fittizia”. Tuttavia, la natura umana, così come è separata o astratta dagli individui, “viene considerata una concezione pura, poiché in sé stessa non esiste”, come dice ancora Damasceno (De Fide Orthodossa iii, 11). Pertanto, il Figlio di Dio non ha assunto la natura umana nella sua forma separata dagli individui.
+
+Rispondo che la natura dell’uomo o di qualsiasi altra cosa sensibile, al di là dell’esistenza che essa ha negli individui, può essere considerata in due modi: innanzitutto, come se avesse un’essenza propria, separata dalla materia, come sostenevano i Platonici; in secondo luogo, come esistente in un intelletto, umano o divino. Ora, questa natura non può esistere di per sé, come dimostra il Filosofo (Metafisica vii, 26, 27, 29, 51), poiché la materia sensibile appartiene alla natura specifica delle cose sensibili ed è inclusa nella loro definizione, proprio come la carne e le ossa fanno parte della definizione dell’uomo. Pertanto, la natura umana non può prescindere dalla materia sensibile. Tuttavia, se la natura umana esistesse in questo modo, non sarebbe appropriato che fosse assunta dal Verbo di Dio: innanzitutto, perché tale assunzione si concluderebbe in una Persona, e è contrario alla natura di una forma comune essere individualizzata in una persona specifica; in secondo luogo, poiché a una forma comune possono essere attribuite solo operazioni comuni e universali, secondo le quali l’uomo né merita né subisce conseguenze positive o negative; al contrario, l’assunzione della natura umana da parte del Figlio di Dio aveva lo scopo che Egli potesse meritare per noi; infine, poiché una natura esistente in questo modo non sarebbe sensibile, ma intelligibile. Ma il Figlio di Dio ha assunto la natura umana affinché potesse manifestarsi davanti agli occhi degli uomini, come dice Baruc 3:38: “In seguito fu visto sulla terra e conversò con gli uomini”. Allo stesso modo, non sarebbe stato possibile che il Figlio di Dio assumesse la natura umana nella sua forma divina, poiché ciò significherebbe che la natura umana fosse identica alla Natura Divina; in tal caso, la natura umana esisterebbe nel Figlio di Dio fin dall’[eternità](/positions/eternity). Non possiamo nemmeno dire che il Figlio di Dio abbia assunto la natura umana nella sua forma presente nell’intelletto umano, poiché ciò significherebbe semplicemente che Egli è considerato come colui che ha assunto una natura umana; e quindi, se questa assunzione non fosse avvenuta realmente, si tratterebbe di un’errata interpretazione; inoltre, tale assunzione della natura umana non sarebbe altro che un’incarnazione fittizia, come afferma Damasceno (De Fide Orth. iii, 11).
+
+Risposta all’Obiezione 1: Il Figlio di Dio incarnato è il Salvatore comune di tutti, non in relazione a una comunità generica o specifica – come quella attribuita alla natura separata dagli individui – ma in relazione a una comunità di causa: il Figlio di Dio incarnato, infatti, rappresenta la causa universale della salvezza umana.
+
+Risposta all’Obiezione 2: L’uomo che esiste di per sé non si trova nella natura in modo da essere al di fuori del singolo individuo, come sostenevano i Platonici; tuttavia alcuni affermano che Platone ritenesse che l’uomo separato dall’universo esistesse soltanto nell’intelletto divino. Pertanto, non era necessario che tale concetto fosse assunto dal Verbo, poiché esso esisteva già con Lui da eternità.
+
+Risposta all’Obiezione 3: Sebbene la natura umana non venga presa in considerazione in modo concreto, come se il presupposto fosse già dato prima della stessa ipotesi, essa viene comunque considerata a livello individuale, poiché viene presa in considerazione proprio nel contesto dell’individuo.
+
 <span class="atom-split" data-atom="036" data-title="Whether the Son of God ought to have assumed human nature in all individuals?" data-chapter="Whether the Son of God ought to have assumed human nature in all individuals?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Son of God ought to have assumed [human nature](/axes/human_nature) in all
@@ -2040,6 +2559,27 @@ died for us," which would not have taken place had He assumed human nature in al
 Reply to Objection 3: In order to shorten the way, which every skilful workman does, what
 can be done by one must not be done by many. Hence it was most fitting that by one man all the
 rest should be saved.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il Figlio di Dio dovrebbe aver assunto la [natura umana](/axes/human_nature) in tutti gli individui. Infatti, ciò che viene assunto per primo e in modo essenziale è proprio la natura umana. E poiché ciò che appartiene essenzialmente a una data natura appartiene a tutti coloro che sono caratterizzati da quella natura, era quindi appropriato che la Parola di Dio assumesse la natura umana in tutte le sue manifestazioni.
+
+Obiezione 2: Inoltre, l’Incarnazione Divina derivava dall’amore divino; per questo si legge (Giovanni 3:16): “Dio ha amato il mondo a tal punto da donare il Suo Unigenito”. Ma l’amore ci spinge a dare tutto ciò che possiamo ai nostri amici, e quindi era possibile che il Figlio di Dio assumesse diverse nature umane, come già detto in precedenza (Q[3], A[7]); per lo stesso motivo, era appropriato che il Figlio di Dio assumesse la natura umana in tutte le sue possibili forme.
+
+Obiezione 3: Inoltre, un artigiano abile compie il proprio lavoro nel modo più rapido possibile. Tuttavia, sarebbe stato ancora più semplice se tutti gli uomini fossero stati considerati figli naturali di Dio, piuttosto che che un solo Figlio Naturale guidasse molti ad essere accettati come figli adottivi, come si legge in Galati 4:5 (cfr. Ebrei 2:10). Pertanto, la natura umana avrebbe dovuto essere assunta da Dio nella sua totalità.
+
+Al contrario, Damasceno afferma (De Fide Orth. iii, 11) che il Figlio di Dio “non ha assunto la natura umana come specie, né tutte le sue ipostasi”.
+
+Rispondo che non era conforme alla natura umana che la Parola assumesse tutte le ipotesi relative a tale natura.  
+In primo luogo, perché la molteplicità di tali ipotesi, essendo innate alla natura umana, verrebbe eliminata; infatti, se nella natura assunta non vi fosse alcun’altra ipotesi se non quella della Persona che assume, ne conseguirebbe che esistesse soltanto un’unica ipotesi di natura umana, ovvero la Persona stessa che assume.  
+In secondo luogo, ciò sarebbe stato offensivo alla dignità del Figlio di Dio incarnato: essendo Egli il Primo-nato tra molti fratelli secondo la natura umana, così come è il Primo-nato di tutte le creature secondo la natura divina, allora tutti gli uomini avrebbero avuto lo stesso rango.  
+In terzo luogo, è appropriato che, poiché una singola ipotesi divina si è incarnata, anche una singola natura umana venga assunta da tale Persona, affinché su entrambi i fronti si possa riscontrare l’unità.
+
+Risposta all’Obiezione 1: L’atto di “assumere” fa parte intrinseca della natura umana; non deriva da alcuna specifica persona, al contrario di quanto avviene nella Natura Divina, dove tale capacità è legata alla Persona divina stessa. Tuttavia, questo non significa che tale capacità appartenga per sé stessa ai principi essenziali della natura umana, né che sia una sua proprietà naturale in senso generale, come lo sarebbe per qualsiasi entità considerata “supposta” da essa.
+
+Risposta all’Obiezione 2: L’amore di Dio per gli uomini si manifesta non solo nell’assumere la natura umana, ma soprattutto in ciò che Egli ha sofferto nella natura umana per gli altri uomini, secondo Romani 5:8: “Ma Dio dimostra il suo amore per noi: quando ancora eravamo peccatori. Cristo è morto per noi”. Questo non sarebbe mai avvenuto se Egli non avesse assunto la natura umana in tutte le sue caratteristiche.
+
+Risposta all’Obiezione 3: Al fine di abbreviare il percorso, come fa ogni lavoratore abile, ciò che può essere fatto da una sola persona non deve necessariamente essere fatto da molte persone. Pertanto era assolutamente appropriato che fosse un solo individuo a compiere tutte le operazioni necessarie per salvare gli altri.
 
 <span class="atom-split" data-atom="037" data-title="Whether it was fitting for the Son of God to assume human nature of the stock of Adam?" data-chapter="Whether it was fitting for the Son of God to assume human nature of the stock of Adam?" data-kind="atom" data-srclang="en"></span>
 
@@ -2089,6 +2629,24 @@ forth. And hence, even in the people from whom Christ was to be born, God appoin
 holiness, which began in Abraham, who was the first to receive the promise of Christ, and
 circumcision, as a sign that the covenant should be kept, as is written (Gn. 17:11).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra inappropriato che il Figlio di Dio assumesse la [natura umana](/axes/human_nature) della stirpe di Adamo, poiché l’Apostolo afferma (Ebrei 7:26): “È stato giusto che avessimo un sacerdote così nobile, separato dai peccatori”. Tuttavia, Lui sarebbe stato ancora più separato dai peccatori se non avesse assunto la natura umana della stirpe di Adamo, che è quella di un peccatore. Pertanto, sembrerebbe che Non avrebbe dovuto assumere la natura umana della stirpe di Adamo.
+
+Obiezione 2: Inoltre, in ogni genere il principio è più nobile di ciò che deriva da quel principio stesso. Pertanto, se Egli avesse voluto assumersi la natura umana, avrebbe dovuto farlo direttamente in Adamo.
+
+Obiezione 3: Inoltre, i gentili erano peccatori più gravi dei giudei, come afferma un commento su Galati 2:15: “Poiché per natura siamo giudei, e non gentili, cioè peccatori”. Pertanto, se Egli voleva assumere la natura umana da peccatori, avrebbe dovuto farlo dai gentili piuttosto che dal lignaggio di Abramo, che era giusto.
+
+Al contrario, (Lc. 3), l’[albero genealogico](/positions/genealogy) del nostro Signore risale ad Adamo.
+
+Rispondo che, come afferma [Agostino](/figures/augustine) (De Trinitate xiii, 18): “Dio poteva assumerre la natura umana in un altro luogo, diverso da quello di Adamo, il quale con il suo peccato aveva incatenato l’intera razza umana; tuttavia, Dio ritenne più opportuno assumere la natura umana dalla stessa razza sconfitta, per poter così sconfiggere il nemico dell’umanità”. E ciò per tre motivi: Primo, perché sembrerebbe giusto che colui che ha peccato debba rimediare al proprio errore; pertanto, è opportuno che dalla natura che egli stesso ha corrotto derivi ciò che possa compensare l’intera umanità. Secondo, la dignità dell’uomo aumenta se colui che sconfigge il diavolo proviene dalla stessa stirpe da cui questo è sorto. Terzo, in questo modo la potenza di Dio diventa ancora più evidente: poiché, partendo da una natura corrotta e indebolita, Egli ha assunto ciò che è stato elevato a tale maestosità e gloria.
+
+Risposta all’Obiezione 1: Cristo deve essere separato dai peccatori riguardo al peccato, che Egli è venuto ad annientare, e non riguardo alla natura umana, che Egli è venuto a salvare; in questa natura “è stato necessario che in ogni cosa Egli fosse simile ai suoi fratelli”, come dice l’Apostolo (Ebrei 2:17). Ed è proprio in questo aspetto che la Sua innocenza appare ancora più meravigliosa, poiché, sebbene abbia assunto una natura contaminata dal peccato, essa fu comunque dotata di tale purezza.
+
+Risposta all’Obiezione 2: Come è stato detto sopra (al punto 1), Colui che venne per eliminare i peccati doveva essere separato dai peccatori riguardo al peccato, di cui Adamo era soggetto; Cristo “lo liberò dal suo peccato”, come si legge nella Sapienza 10:2. Poiché Colui che venne per purificare tutti non aveva bisogno di essere purificato lui stesso; proprio come in ogni genere di movimento, il primo motore è immobile rispetto a quel movimento, e ciò che prima cambia è esso stesso immutabile. Pertanto, non era appropriato che Egli assumesse la natura umana nell’uomo Adamo stesso.
+
+Risposta all’Obiezione 3: Poiché Cristo doveva essere particolarmente separato dai peccatori in termini di peccato e possedere l’innocenza suprema, era appropriato che tra il primo peccatore e Cristo vi fossero alcuni uomini giusti, nei quali si potessero intravedere alcune anticipazioni della Sua futura santità. Pertanto, anche tra il popolo dal quale Cristo avrebbe dovuto nascere, Dio instituì segni di santità: questi iniziarono con Abramo, che fu il primo ad ricevere la promessa di Cristo, e con la circoncisione, come simbolo del rispetto dell’alleanza, come è scritto (Genesi 17:11).
+
 <span class="atom-split" data-atom="038" data-title="OF THE PARTS OF HUMAN NATURE WHICH WERE ASSUMED (FOUR ARTICLES)" data-chapter="OF THE PARTS OF HUMAN NATURE WHICH WERE ASSUMED (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the assumption of the parts of [human nature](/axes/human_nature); and under this head there
@@ -2097,6 +2655,14 @@ are four points of inquiry:
 (2) Whether He ought to have assumed an earthly body, i.e. one of flesh and blood?
 (3) Whether He ought to have assumed a soul?
 (4) Whether He ought to have assumed an intellect?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora esaminare l’ipotesi relativa alle componenti della [natura umana](/axes/human_nature); in questo ambito vi sono quattro punti di indagine principali:
+(1) Se il Figlio di Dio dovesse aver assunto un corpo vero e proprio;
+(2) Se dovesse aver assunto un corpo terreno, cioè fatto di carne e sangue;
+(3) Se dovesse aver assunto un’anima;
+(4) Se dovesse aver assunto un’intelligenza.
 
 <span class="atom-split" data-atom="039" data-title="Whether the Son of God ought to have assumed a true body?" data-chapter="Whether the Son of God ought to have assumed a true body?" data-kind="atom" data-srclang="en"></span>
 
@@ -2210,6 +2776,24 @@ precious materials, but very often because by making use of the poorest . . . la
 earth, they show the power of their craft; so the best of all workmen, the Word of God, did not
 come down to us by taking a heavenly body of some most precious matter, but shewed the greatness
 of His skill in clay."
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo avesse un corpo non carnale né terrestre, ma celeste. Infatti l’Apostolo dice (1 Corinzi 15:41): “Il primo uomo è stato di terra, terrestre; il secondo uomo proviene dal cielo, celeste”. Ma il primo uomo, cioè Adamo, era di terra per quanto riguarda il suo corpo, come risulta chiaramente dal Genesi 1. Pertanto anche il secondo uomo, cioè Cristo, doveva essere di cielo per quanto riguarda il suo corpo.
+
+Obiezione 2: Inoltre, si dice (1 Corinzi 15:50): “La carne e il sangue non potranno possedere il regno di Dio”. Ma il regno di Dio è principalmente in Cristo; pertanto, in Lui non vi è né carne né sangue, bensì un corpo celeste.
+
+Obiezione 3: Inoltre, ciò che è migliore deve essere attribuito a Dio. Ma tra tutti i corpi, il corpo celeste è il migliore. Pertanto, era dovere di Cristo assumere un tale corpo.
+
+Al contrario, il nostro Signore dice (Lc 24:39): “Lo spirito non ha carne né ossa, come voi vedete che io ne ho”. Ora, la carne e le ossa non fanno parte dei corpi celesti, ma sono composte da elementi inferiori. Pertanto, il corpo di Cristo non era un corpo celeste, ma un corpo carnale ed terrestre.
+
+Rispondo che, per le stesse ragioni che hanno dimostrato che il corpo di Cristo non era un’entità immaginaria, si può altresì dimostrare che non era un corpo celeste. Primo perché, proprio come la verità sulla natura umana di Cristo non avrebbe potuto essere confermata se il suo corpo fosse stato immaginario – come sosteneva Mani – allo stesso modo tale verità non sarebbe stata confermata nemmeno se avessimo ritenuto, come fece Valentino, che si trattasse di un corpo celeste. Poiché la forma umana è qualcosa di naturale, essa richiede una materia concreta, cioè carne e ossa, elementi necessari per definire appunto l’essere umano, come chiarisce il Filosofo nel “Metafisico” VII, 39. In secondo luogo, un corpo celeste è impassibile e incorruttibile; quindi, se il Figlio di Dio avesse assunto un corpo celeste, non avrebbe veramente sofferto la fame o la sete, né avrebbe subito le sue sofferenze e la sua morte. Infine, questo avrebbe diminuito la veridicità delle azioni compiute da Cristo in carne e ossa: poiché se avesse avuto un corpo celeste, la sua manifestazione agli uomini sarebbe stata falsa. Ecco perché si dice nel “De Ecclesiae Dogmata” II: “Il Figlio di Dio nacque assumendo la carne del corpo della Vergine, e non la portò con sé dal cielo”.
+
+Risposta all’Obiezione 1: Si dice che Cristo sia disceso dal cielo in due modi. Primo, riguardo alla Sua Natura Divina; non certo perché la Natura Divina abbia cessato di trovarsi nel cielo, ma perché Egli ha iniziato ad esistere qui sulla terra in un modo nuovo, cioè attraverso la Sua natura umana assunta, come si legge in Giovanni 3:13: “Nessuno è salito al cielo se non Colui che è disceso dal cielo, il Figlio dell’Uomo, che è nel cielo”. Secondo, riguardo al Suo corpo; non perché la sostanza stessa del corpo di Cristo sia discesa dal cielo, ma perché il Suo corpo è stato formato da una forza celeste, cioè dallo Spirito Santo. Per questo motivo, [Agostino](/figures/augustine), spiegando quel passaggio, afferma (Ad Orosium, Dial. Qq. lxv, qu. 4, opera di autore sconosciuto): “Chiamo Cristo un ‘uomo celeste’ perché non è stato concepito da semenza umana”. Anche Hilario lo interpreta nello stesso modo (De Trin. x).
+
+Risposta all’Obiezione 2: Qui il “carne e sangue” non vengono intesi come la sostanza stessa del carne e sangue, ma piuttosto come l’aspetto corrotto di esso; tale aspetto non esisteva in Cristo nel senso di essere peccaminoso, ma soltanto come punizione. Pertanto, per un certo periodo, quel “carne e sangue” fu presente in Cristo, affinché Egli potesse compiere l’opera della nostra redenzione.
+
+Risposta all’Obiezione 3: Il fatto che Dio abbia elevato un corpo debole e terreno a tale sublimità costituisce la sua più grande gloria. Pertanto, nel Concilio Generale di Efeso (P. II, Atto I) leggiamo le parole di San Teofilo: “Proprio come i migliori artigiani vengono apprezzati non solo per la maestria con cui utilizzano materiali preziosi, ma spesso anche perché, impiegando i materiali più umili e comuni, dimostrano la potenza della loro arte; allo stesso modo, il migliore di tutti gli artigiani, la Parola di Dio, non è discesa tra noi assumendo un corpo celeste fatto di materiale prezioso, ma ha mostrato la grandezza della Sua abilità nell’uso dell’argilla.”
 
 <span class="atom-split" data-atom="041" data-title="Whether the Son of God assumed a soul?" data-chapter="Whether the Son of God assumed a soul?" data-kind="atom" data-srclang="en"></span>
 
@@ -2353,6 +2937,24 @@ the essence of the human soul, which is the form of the body, requires that it s
 in order that it may have the power of understanding; and hence it is necessary that a better disposed
 body should correspond to it.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il Figlio di Dio non abbia assunto una mente o un intelletto umano. Infatti, dove qualcosa è già presente, non c’è bisogno della sua “immagine”. Ma l’uomo è stato creato a immagine di Dio, anche per quanto riguarda la sua mente, come afferma [Agostino](/figures/augustine) (De Trinitate, xiv, 3,6). Pertanto, poiché in Cristo era presente la Parola Divina stessa, non c’era bisogno di una mente umana.
+
+Obiezione 2: Inoltre, la luce più intensa offusca quella meno intensa. Ma la Parola di Dio, che è “la luce che illumina ogni uomo che entra in questo mondo”, come si legge in Giovanni 1:9, viene paragonata alla mente umana come la luce più intensa rispetto a quella meno intensa; poiché anche la nostra mente è una sorta di luce, essendo come una lampada accesa dalla “Prima Luce” (Proverbi 20:27): “Lo spirito dell’uomo è la lampada del Signore”. Pertanto, in Cristo, che è la Parola di Dio, non c’è bisogno di una mente umana.
+
+Obiezione 3: Inoltre, l’assunzione della [natura umana](/axes/human_nature) da parte della Parola di Dio viene chiamata la Sua Incarnazione. Tuttavia, l’intelletto o la mente umana non è nulla di carnale, né nella sua sostanza né nel suo atto; infatti, non si tratta dell’atto di un corpo, come dimostrato in De [Anima](/concepts/soul) iii, 6. Pertanto, sembrerebbe che il Figlio di Dio non abbia assunto una mente umana.
+
+Al contrario, Agostino [*Fulgenzio*] afferma (De Fide ad Petrum xiv): “Tenete fermamente e non dubitate mai che Cristo, Figlio di Dio, abbia una vera carne e un’anima razionale dello stesso tipo della nostra; infatti, riguardo alla Sua carne dice (Lc. 24:39): ‘Toccatemi e vedete; lo spirito, infatti, non ha carne né ossa, come voi mi vedete avere’. E dimostra di possedere un’anima dicendo (Giov. 10:17): ‘Dò la mia vita affinché possa riprenderla’. Inoltre, dimostra di possedere un’intelligenza dicendo (Matteo 11:29): ‘Insegnatevi da Me, poiché Sono umile e mite di cuore’. E Dio parla di Lui attraverso il profeta (Isaia 52:13): ‘Ecco, il mio servo comprenderà’”.
+
+Rispondo che, come afferma Agostino (De Haeres. 49,50), “gli Apollinaristi avevano un’opinione diversa da quella della Chiesa Cattolica riguardo all’anima di Cristo; sostenevano, insieme agli Ariani, che Cristo avesse assunto soltanto il corpo, senza anima; e quando furono confutati su questo punto dalle testimonianze del Vangelo, passarono a dire che alla anima di Cristo mancava l’intelletto, ma che la Parola ne aveva assunto il posto”. Tuttavia questa posizione viene confutata dagli stessi argomenti utilizzati per confutare le tesi precedenti. Primo perché contraddice il racconto del Vangelo, che descrive come Cristo si meravigliasse (come è evidente in Matteo 8:10); il meravigliarsi, infatti, non può avvenire senza motivo, poiché implica la correlazione tra effetto e causa. In secondo luogo, questa posizione è incompatibile con lo scopo stesso dell’Incarnazione, che è la giustificazione dell’uomo dal peccato; l’anima umana, infatti, non è in grado di peccare né di ricevere la grazia della giustificazione se non attraverso l’intelletto. Pertanto era particolarmente necessario che l’intelletto fosse assunto da Cristo. Damasceno afferma quindi (De Fide Orth. iii, 6) che “la Parola di Dio ha assunto un corpo e un’anima intellettiva e razionale”, aggiungendo: “L’intero essere umano è stato unito in modo perfetto, affinché Cristo potesse donare la salvezza a tutti gli esseri umani; ciò che non è stato assunto, infatti, non può essere redento”. Infine, questa posizione è contraria alla verità stessa dell’Incarnazione: poiché il corpo è proporzionato all’anima, come la materia alla sua forma specifica, un corpo umano non può essere considerato vero se non è completato da un’intelligenza razionale. Se quindi Cristo avesse avuto un’anima senza intelletto, non avrebbe avuto un vero corpo umano, ma soltanto un corpo irrazionale; inoltre, la nostra anima si distingue da quella animale proprio per l’intelletto. Agostino afferma quindi (Qq. lxxxiii, qu. 80) che da questo errore sarebbe derivato il concetto che il Figlio di Dio avesse “assunto un essere animale sotto forma di corpo umano”, il che è ancora una volta contrario alla verità divina, che non può tollerare alcuna falsità inventata.
+
+Risposta all’Obiezione 1: Laddove una cosa esiste concretamente, non è necessario che la sua immagine sostituisca la sua presenza reale; ad esempio, quando l’imperatore è presente, i soldati non rendono omaggio alla sua immagine. Tuttavia, l’immagine di una cosa è necessaria insieme alla sua presenza reale, affinché possa essere perfezionata dalla stessa cosa; proprio come l’immagine incisa sulla cera viene perfezionata dall’impronta del sigillo, o come l’immagine di un uomo viene riflessa nello specchio grazie alla sua presenza. Pertanto, affinché la mente umana potesse essere perfezionata, era necessario che il Verbo si unisse a essa.
+
+Risposta all’Obiezione 2: La luce più intensa offusca la luce meno intensa di un altro corpo luminoso; ma non la attenua, bensì la perfeziona. Alla presenza del sole, la luce delle stelle si spegne, mentre la luce dell’aria viene invece perfezionata. Ora, l’intelletto umano è, in qualche modo, una luce illuminata dalla luce della Parola Divina; pertanto, alla presenza di questa Parola, l’intelletto umano viene perfezionato, anziché oscurato.
+
+Risposta all’Obiezione 3: Sebbene la facoltà intellettiva non sia un atto del corpo, l’essenza dell’anima umana, che è la forma di quel corpo, richiede che essa sia di natura più nobile, affinché possa disporre della capacità di comprendere; pertanto è necessario che vi corrisponda un corpo meglio strutturato.
+
 <span class="atom-split" data-atom="043" data-title="OF THE ORDER OF ASSUMPTION (SIX ARTICLES)" data-chapter="OF THE ORDER OF ASSUMPTION (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the order of the foregoing assumption, and under this head there are six
@@ -2363,6 +2965,16 @@ points of inquiry:
 (4) Whether the flesh of Christ was assumed by the Word previous to being united to the soul?
 (5) Whether the whole [human nature](/axes/human_nature) was assumed through the medium of the parts?
 (6) Whether it was assumed through the medium of grace?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’ordine delle suddette ipotesi; in questo ambito vi sono sei punti da esaminare:  
+(1) Se il Figlio di Dio abbia assunto la carne attraverso l’intervento dell’anima;  
+(2) Se abbia assunto l’anima attraverso l’intervento dello spirito o della mente;  
+(3) Se l’anima sia stata assunta prima della carne;  
+(4) Se la carne di Cristo sia stata assunta dalla Parola prima di essere unita all’anima;  
+(5) Se l’intera [natura umana](/axes/human_nature) sia stata assunta attraverso le sue singole parti;  
+(6) Se sia stata assunta attraverso il mezzo della grazia.
 
 <span class="atom-split" data-atom="044" data-title="Whether the Son of God assumed flesh through the medium of the soul?" data-chapter="Whether the Son of God assumed flesh through the medium of the soul?" data-kind="atom" data-srclang="en"></span>
 
@@ -2528,6 +3140,24 @@ in Him that justifieth the ungodly, his faith is reputed to justice according to
 grace of God." Hence because this purpose is eternal, there is nothing to hinder some from being
 justified by the faith of Jesus Christ, even before His soul was full of grace and truth.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’anima di Cristo sia stata assunta dal Verbo prima della carne. Infatti, il Figlio di Dio ha assunto la carne attraverso l’intermediazione dell’anima, come è stato detto sopra (A[1]). Ora, l’intermediario viene raggiunto prima che lo scopo finale venga realizzato; pertanto, il Figlio di Dio ha assunto l’anima prima del corpo.
+
+Obiezione 2: Inoltre, l’anima di Cristo è più nobile degli angeli, secondo il Salmo 96:8: “AdorateLo, voi tutti i Suoi angeli”. Ma gli angeli furono creati all’inizio, come detto sopra (FP, Q[46], A[3]). Pertanto anche l’anima di Cristo fu creata all’inizio. Tuttavia, non fu creata prima che venisse assunta da Lui, poiché Damasceno afferma (De Fide Orth. iii, 2,3,9) che “né l’anima né il corpo di Cristo ebbero mai alcuna ipostasi al di fuori di quella della Parola”. Quindi sembrerebbe che l’anima sia stata assunta prima del corpo, che fu concepito nel grembo della Vergine.
+
+Obiezione 3: Inoltre, è scritto (Giovanni 1:14): “Lo abbiamo visto pieno di grazia e verità”, e successivamente si aggiunge che “della Sua pienezza tutti noi abbiamo ricevuto” (Giovanni 1:16), cioè tutti i fedeli di tutti i tempi, come spiega Crisostomo nell’Homilia xiii in Giovanni. Ora, ciò non sarebbe stato possibile se l’anima di Cristo non avesse posseduto già tutta la pienezza di grazia e verità prima di tutti i santi, che esistevano fin dall’inizio del mondo, poiché la causa non può precedere l’effetto. Pertanto, poiché la pienezza di grazia e verità era nell’anima di Cristo a seguito della sua unione con la Parola, come si legge nello stesso passaggio: “Lo abbiamo visto, la gloria stessa del Figlio Unigenito del Padre, pieno di grazia e verità”, sembrerebbe quindi che fin dall’inizio del mondo l’anima di Cristo fosse stata assunta dalla Parola di Dio.
+
+Al contrario, Damasceno afferma (De Fide Orthodossa iv, 6): “L’intelletto non fu, come alcuni dicono falsamente, unito al vero Dio, e quindi chiamato Cristo, prima dell’Incarnazione avvenuta nella Vergine.”
+
+Rispondo che Origene (Peri Archon i, 7,8; ii, 8) sosteneva che tutte le anime, tra cui anche l’anima di Cristo, fossero state create fin dall’inizio. Tuttavia, questa ipotesi non è conforme alla verità: se si ammettesse che quest’anima sia stata creata prima di essere unita al Verbo, ne deriverebbe che essa abbia avuto un’esistenza autonoma, indipendente dal Verbo; inoltre, poiché l’anima fu assunta dal Verbo, o l’unione non ebbe luogo durante la sua esistenza precedente, oppure quell’esistenza stessa venne corrotta. È altresì inappropriato supporre che questa anima sia stata unita al Verbo fin dall’inizio per poi incarnarsi nel grembo della Vergine: in tal caso, l’anima di Cristo non sembrerebbe avere la stessa natura delle nostre, le quali vengono create nello stesso momento in cui vengono infuse nei corpi. Pertanto, Papa Leone afferma nell’Epistola ad Iuliano (xxxv) che “la carne di Cristo non aveva una natura diversa dalla nostra, e nessuna anima diversa da quella degli altri uomini fu infusa in essa fin dall’inizio”.
+
+Risposta all’Obiezione 1: Come è stato detto sopra (A[1]), si afferma che l’anima di Cristo sia il mezzo nell’unione della carne con la Parola, secondo l’ordine naturale; ma ciò non implica affatto che essa sia stata il mezzo anche secondo l’ordine del tempo.
+
+Risposta all’Obiezione 2: Come afferma Papa Leone nella stessa Epistola, l’anima di Cristo supera la nostra “non per diversità di genere, ma per la sublimità del suo potere”; poiché appartiene allo stesso genere delle nostre anime, tuttavia eccelle anche sugli angeli in “pienezza di grazia e verità”. Tuttavia, il modo di creazione è in armonia con le proprietà specifiche dell’anima; essendo essa la forma del corpo, viene creata nello stesso istante in cui viene infusa e unita a esso; ciò non accade negli angeli, poiché essi sono sostanze completamente prive di materia.
+
+Risposta all’Obiezione 3: Tutti gli uomini ricevono la pienezza di Cristo in proporzione alla fede che hanno in Lui; infatti è scritto (Romani 3:22) che “la giustizia di Dio si attua per fede in Gesù Cristo, verso tutti coloro che credono in Lui”. Proprio come noi crediamo che Cristo sia già nato, gli antichi credevano che Egli stesse per nascere, poiché “avendo lo stesso spirito di fede, anche noi crediamo”, come è scritto (2 Corinzi 4:13). Ma la fede in Cristo possiede il potere di giustificare, grazie allo scopo della grazia di Dio, secondo quanto riportato in Romani 4:5: “Ma colui che non opera, ma crede in Colui che giustifica i malvagi, la sua fede è reputata giustizia, secondo lo scopo della grazia di Dio”. Pertanto, poiché questo scopo è eterno, nulla può impedire ad alcuno di essere giustificato per la fede in Gesù Cristo, anche prima che la sua anima fosse piena di grazia e verità.
+
 <span class="atom-split" data-atom="047" data-title="Whether the flesh of Christ was assumed by the Word before being united to the soul?" data-chapter="Whether the flesh of Christ was assumed by the Word before being united to the soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the flesh of Christ was assumed by the Word before being
@@ -2584,6 +3214,24 @@ we understand the flesh as united to the soul before it is united to the Word, f
 with the soul that it is capable of being united to the Word in Person; especially since a person is
 found only in the rational nature
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la carne di Cristo sia stata assunta dal Verbo prima di essere unita all’anima. Infatti, [Agostino](/figures/augustine) [*Fulgentio*] afferma nel *De Fide ad Petrum* XVIII: “Tenete fermamente e senza alcun dubbio che la carne di Cristo sia stata concepita nel grembo della Vergine senza l’essenza divina, prima ancora che venisse assunta dal Verbo”. Tuttavia, sembrerebbe che la carne di Cristo sia stata concepita prima di essere unita all’anima razionale, poiché la materia o la struttura fisica precedono la forma completa nel processo di generazione. Pertanto, la carne di Cristo fu assunta prima di essere unita all’anima.
+
+Obiezione 2: Inoltre, poiché l’anima fa parte della [natura umana](/axes/human_nature), lo stesso vale per il corpo. Tuttavia, nell’uomo Cristo l’anima non aveva alcun principio di essere diverso da quello degli altri uomini, come risulta chiaramente dall’autorità di Papa Leone citata sopra (A[3]). Pertanto, sembrerebbe che anche il corpo di Cristo avesse lo stesso principio di essere del nostro. Ma in noi il corpo viene generato prima che l’anima razionale si unisca ad esso; quindi lo stesso doveva valere anche per Cristo: la carne fu dunque assunta dal Verbo prima di essere unita all’anima.
+
+Obiezione 3: Inoltre, come si afferma nel “De Causis”, la prima causa supera la seconda nel produrre l’effetto e precede questa nella sua unione con esso. Tuttavia, l’anima di Cristo viene paragonata alla Parola come una seconda causa rispetto a una prima. Pertanto, la Parola fu unita alla carne prima che all’anima.
+
+Al contrario, Damasceno afferma (De Fide Orthodossa iii, 2): “Nello stesso momento, la Parola di Dio divenne carne, e la carne fu unita a un’anima razionale e intellettuale”. Pertanto, l’unione della Parola con la carne non precedette l’unione con l’anima.
+
+Rispondo che la carne umana può essere assunta dal Verbo in virtù dell’ordine che essa ha rispetto all’anima razionale, nel senso di essere la sua forma propria. Ora, tale ordine non esiste prima che l’anima razionale si unisca alla carne; infatti, quando una materia diventa idonea a ricevere una determinata forma, allo stesso tempo riceve quella forma stessa; pertanto il processo di trasformazione si compie nell’istante in cui viene introdotta la [forma sostanziale](/concepts/forma_substantialis). Da ciò deriva che la carne non avrebbe dovuto essere assunta prima di diventare carne umana, e questo avvenne quando l’anima razionale vi si unì. Poiché dunque l’anima non fu assunta prima della carne – poiché è contro la natura stessa dell’anima trovarsi in uno stato precedente all’unione con il corpo – allo stesso modo la carne non avrebbe dovuto essere assunta prima dell’anima, poiché non costituisce carne umana finché non riceve un’anima razionale.
+
+Risposta all’Obiezione 1: La carne umana dipende dall’anima per esistere; pertanto, prima dell’arrivo dell’anima, non esiste carne umana, ma può esserci una predisposizione alla sua formazione. Tuttavia, nella concezione di Cristo, lo Spirito Santo, che è un agente di potenza infinita, ha disposto la materia e l’ha portata al suo perfezionamento nello stesso istante.
+
+Risposta all’Obiezione 2: La forma fornisce effettivamente la specie; ma la materia in sé è ancora in [potenzialità](/concepts/act_potency) rispetto a tale specie. Pertanto, sarebbe contrario alla natura di una forma esistere prima che la natura specifica si realizzzi. La diversità tra la nostra origine e quella di Cristo – poiché noi veniamo concepiti prima di essere animati, mentre il corpo di Cristo no – deriva da ciò che precede la perfezione della natura stessa: noi veniamo concepiti dal seme umano, mentre Cristo no. Tuttavia, una differenza relativa all’origine dell’anima implicherebbe una diversità di natura.
+
+Risposta all’Obiezione 3: Si intende che la Parola di Dio sia unita alla carne prima che lo sia all’anima, attraverso lo stesso modo con cui essa è presente nelle altre creature per essenza, potere e presenza. Tuttavia, dico “prima” non in termini di tempo, ma di natura; infatti la carne viene considerata un essere che riceve dalla Parola prima ancora di essere considerata animata, cioè dotata di vita spirituale, grazie all’anima. Ma con l’unione personale si intende che la carne sia unita all’anima prima ancora di essere unita alla Parola in Persona; infatti è proprio dall’unione con l’anima che la carne diventa capace di unirsi alla Parola in Persona; soprattutto perché una “persona” esiste soltanto nella natura razionale.
+
 <span class="atom-split" data-atom="048" data-title="Whether the whole human nature was assumed through the medium of the parts?" data-chapter="Whether the whole human nature was assumed through the medium of the parts?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Son of God assumed the whole [human nature](/axes/human_nature) through the
@@ -2635,6 +3283,24 @@ more like to God than the parts, inasmuch as it is more perfect.
 Reply to Objection 3: It is a personal union wherein the assumption is terminated, not a union
 of nature, which springs from a conjunction of parts.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il Figlio di Dio abbia assunto l’intera [natura umana](/axes/human_nature) attraverso le sue parti. Infatti, [Agostino](/figures/augustine) afferma (De Agone Christ. XVIII) che “la Verità invisibile e immutabile ha assunto l’anima attraverso lo spirito, e il corpo attraverso l’anima; in questo modo ha assunto l’intero uomo”. Ma lo spirito, l’anima e il corpo sono parti dell’intero uomo. Pertanto, Egli ha assunto tutto attraverso queste parti.
+
+Obiezione 2: Inoltre, il Figlio di Dio assunse la carne attraverso l’intermediazione dell’anima, poiché l’anima è più simile a Dio del corpo. Ma le parti della natura umana, essendo più semplici del corpo, sembrerebbero essere ancora più simili a Dio, che è il più semplice di tutti. Pertanto, Egli assunse l’intero essere umano attraverso l’intermediazione delle sue parti.
+
+Obiezione 3: Inoltre, l’intero deriva dall’unione delle parti. Tuttavia, l’unione viene considerata il termine dell’assunzione stessa, mentre le parti sono presupposte già prima di tale assunzione. Pertanto, egli ha presunto l’intero partendo dalle singole parti.
+
+Al contrario, Damasceno afferma (De Fide Orthodossa iii, 16): “Nel nostro Signore Gesù Cristo non vediamo parti di altre parti, ma entità strettamente unite tra loro, cioè la divinità e l’umanità”. L’umanità è un tutto composto da ['anima e corpo](/axes/soul_body), considerati come sue parti. Pertanto, il Figlio di Dio ha assunto queste parti attraverso il mezzo di questo tutto.
+
+Rispondo che, quando si afferma che qualcosa sia il mezzo attraverso cui avviene l’Incarnazione, non ci si riferisce necessariamente all’ordine temporale, poiché l’unione del tutto e delle parti ebbe luogo simultaneamente. È stato infatti dimostrato (AA[3],4) che anima e corpo furono uniti nello stesso istante al fine di costituire la natura umana della Parola. Ciò che viene indicato, quindi, è l’ordine naturale: ciò che è “primo” in termini naturali viene assunto prima di ciò che è “secondo”. Un elemento può essere considerato “primo” in natura in due modi: da un lato, in relazione all’agente che lo realizza; dall’altro, in relazione alla materia su cui si esercita tale azione. Per quanto riguarda l’agente, ciò che è “primo” è semplicemente ciò che viene prima intenzionalmente da parte sua; ma in senso relativo, ciò che precede nell’esecuzione dell’azione stessa, poiché l’intenzione precede l’atto stesso. Per quanto riguarda la materia, ciò che è “primo” è ciò che esiste per primo nel processo di trasformazione della materia stessa. Nell’Incarnazione, quindi, bisogna considerare particolarmente questo ordine legato all’agente, poiché, come afferma Agostino (Epistola ad Volusianum cxxxvii), “in tali casi, la ragione fondamentale dell’atto è il potere di colui che lo compie”. È evidente, inoltre, che, secondo l’intenzione dell’agente, ciò che è completo precede ciò che è incompleto, e quindi il tutto le parti. Pertanto, si può affermare che la Parola di Dio abbia assunto le parti della natura umana attraverso il mezzo del tutto; così come ha assunto il corpo in relazione all’anima razionale, allo stesso modo ha assunto un corpo e un’anima in relazione alla natura umana nel suo complesso.
+
+Risposta all’Obiezione 1: Da queste parole non si può dedurre nulla, se non che la Parola, assumendo le parti della natura umana, ha assunto l’intera natura umana. Pertanto, l’assunzione delle singole parti è prioritaria in termini di ordine logico, se consideriamo il processo di assunzione stesso; ma non in termini di ordine temporale. L’assunzione dell’intera natura umana, invece, è prioritaria se si considera l’intenzione che stava alla base di tale atto: ed essa è effettivamente la prima in ordine logico, come già detto in precedenza.
+
+Risposta all’Obiezione 2: Dio è così semplice che è anche il più perfetto; pertanto l’intero è più simile a Dio delle singole parti, in quanto è più perfetto.
+
+Risposta all’Obiezione 3: Si tratta di un’unione personale in cui l’assunzione di determinati caratteri termina al momento della formazione dell’unione stessa, e non di un’unione naturale che scaturisce dalla congiunzione di parti.
+
 <span class="atom-split" data-atom="049" data-title="Whether the human nature was assumed through the medium of grace?" data-chapter="Whether the human nature was assumed through the medium of grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Son of God assumed [human nature](/axes/human_nature) through the medium
@@ -2681,6 +3347,24 @@ proceeds, from which the speech is formed. And similarly from the eternal Word p
 Spirit, Who formed the body of Christ, as will be shown (Q[32], A[1]). But it does not follow from
 this that the grace of the Holy Spirit is the formal medium in the aforesaid union.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il Figlio di Dio abbia assunto la [natura umana](/axes/human_nature) attraverso il mezzo della grazia. Infatti, è per mezzo della grazia che siamo uniti a Dio. Ma la natura umana in Cristo era strettamente unita a Dio; pertanto, questa unione ha avuto luogo per mezzo della grazia.
+
+Obiezione 2: Inoltre, così come il corpo vive grazie all’anima, che ne è la perfezione, allo stesso modo anche l’anima vive per mezzo della grazia. Ma la natura umana era adatta a ricevere l’anima; pertanto il Figlio di Dio ha assunto l’anima attraverso il mezzo della grazia.
+
+Obiezione 3: Inoltre, [Agostino](/figures/augustine) afferma (De Trin. XV, 11) che la Parola Incarnata è simile alla nostra parola pronunciata ad alta voce. Ma la nostra parola è unita al nostro discorso attraverso il “respiro” [spiritus]. Pertanto, anche la Parola di Dio è unita alla carne attraverso lo Spirito Santo, e quindi tramite la grazia, che viene attribuita allo Spirito Santo, secondo 1 Corinzi 12:4: “Esistono infatti diverse forme di grazia, ma è lo stesso Lo Spirito”.
+
+Al contrario, la Grazia è un elemento casuale nell’anima, come è stato dimostrato sopra (FS, Q[110], A[2]). L’unione della Parola con la natura umana avvenne in modo necessario, e non casualmente, come è stato spiegato in precedenza (Q[2], A[6]); pertanto, la natura umana non fu assunta attraverso la Grazia.
+
+Rispondo che, in Cristo, esistevano sia la grazia dell’unione che la grazia abituale. Pertanto, non si può considerare la grazia come il mezzo attraverso cui avviene l’assunzione della natura umana, sia che si parli della grazia dell’unione che di quella abituale. La grazia dell’unione è quell’esistenza personale che viene donata gratuitamente dall’alto alla natura umana nella Persona del Verbo, e rappresenta il fine stesso dell’assunzione. Al contrario, la grazia abituale, relativa alla santità spirituale dell’uomo, è un effetto derivante dall’unione; come si legge in Giovanni 1:14: “Abbiamo visto la sua gloria, simile a quella del Figlio Unigenito del Padre, pieno di grazia e verità”. Questo ci fa comprendere che, poiché quest’Uomo (come risultato dell’unione) è il Figlio Unigenito del Padre, Egli è pieno di grazia e verità. Tuttavia, se con “grazia” intendiamo la volontà di Dio che agisce o dona qualcosa gratuitamente, allora l’unione stessa avvenne per grazia, non come mezzo, ma come [causa efficace](/concepts/four_causes) di tale evento.
+
+Risposta all’Obiezione 1: La nostra unione con Dio avviene attraverso l’azione della nostra volontà, poiché Lo conosciamo e Lo amiamo; pertanto questa unione è dovuta alla grazia abituale, poiché un’azione perfetta deriva da una [abitudine](/concepts/custom). Ora, l’unione della natura umana con la Parola di Dio avviene a livello personale, e non dipende da alcuna abitudine, ma dalla natura stessa.
+
+Risposta all’Obiezione 2: L’anima è la perfezione sostanziale del corpo; la grazia, invece, non è che una perfezione accidentale dell’anima. Pertanto, la grazia non può destinare l’anima all’unione personale, che non è di natura accidentale, proprio come l’anima destina il corpo.
+
+Risposta all’Obiezione 3: La nostra parola è unita al nostro discorso attraverso il respiro [spiritus], non come mezzo formale, ma come mezzo che agisce dinamicamente. Infatti, dalla parola concepita interiormente deriva il respiro, e da questo si forma il discorso. Allo stesso modo, dalla Parola eterna deriva lo Spirito Santo, che ha formato il corpo di Cristo, come verrà dimostrato in (Q[32], A[1]). Tuttavia, ciò non significa affatto che la grazia dello Spirito Santo sia il mezzo formale nell’unione menzionata.
+
 <span class="atom-split" data-atom="050" data-title="OF THE GRACE OF CHRIST AS AN INDIVIDUAL MAN (THIRTEEN ARTICLES)" data-chapter="OF THE GRACE OF CHRIST AS AN INDIVIDUAL MAN (THIRTEEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider such things as were co-assumed by the Son of God in [human nature](/axes/human_nature);
@@ -2703,6 +3387,10 @@ Under the first head there are thirteen points of inquiry:
 (11) Whether the grace of Christ was infinite?
 (12) Whether it could have been increased?
 (13) How this grace stood towards the union?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare quelle caratteristiche che il Figlio di Dio condivise nella [natura umana](/axes/human_nature); innanzitutto ciò che appartiene alla perfezione, e in secondo luogo ciò che riguarda i difetti. Per quanto riguarda la perfezione, vi sono tre aspetti da considerare: (1) La grazia di Cristo; (2) La Sua conoscenza; (3) Il Suo potere. Per quanto riguarda la Sua grazia, dobbiamo prendere in considerazione due aspetti: (1) La Sua grazia come individuo umano; (2) La Sua grazia come Capo della Chiesa. Della grazia dell’unione abbiamo già parlato (Q[2]). All’interno del primo ambito di riflessione vi sono tredici punti da esaminare: (1) Esisteva nella anima di Cristo qualche grazia abituale? (2) Possedeva Cristo delle virtù? (3) Aveva fede? (4) Aveva speranza? (5) Possedeva Cristo i doni dello Spirito Santo? (6) Possedeva il dono della paura? (7) Esistevano in Cristo alcune grazie gratuite? (8) Possedeva Cristo la profezia? (9) Era in Lui la pienezza di grazia? (10) Questa pienezza era propria esclusivamente di Cristo? (11) La grazia di Cristo era infinita? (12) Poteva essere aumentata? (13) In che modo questa grazia si relazionava all’unione con Dio?
 
 <span class="atom-split" data-atom="051" data-title="Whether in the Soul of Christ there was any habitual grace?" data-chapter="Whether in the Soul of Christ there was any habitual grace?" data-kind="atom" data-srclang="en"></span>
 
@@ -2759,6 +3447,24 @@ an inanimate instrument, which nowise acts, but is merely acted upon; but an ins
 by a rational soul, which is so acted upon as to act. And hence the nature of the action demanded
 that he should have habitual grace.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nella Persona del Verbo non vi fosse alcuna grazia abituale. Poiché la grazia rappresenta una certa partecipazione alla divinità da parte della creatura razionale, secondo 2 Pietro 1:4: “Per mezzo di Lui ci ha dato promesse grandissime e preziose, affinché attraverso di esse possiamo diventare partecipi della natura divina”. Ora Cristo è Dio non per partecipazione, ma in verità. Pertanto, in Lui non vi era alcuna grazia abituale.
+
+Obiezione 2: Inoltre, la grazia è necessaria all’uomo affinché possa agire rettamente, come affermato in 1 Corinzi 15:10: “Ho lavorato più di tutti; tuttavia non sono stato io ad operare, ma la grazia di Dio che era con me”; e affinché possa raggiungere la vita eterna, secondo Romani 6:23: “La grazia di Dio è la vita eterna”. Ora, l’eredità della vita eterna spettava a Cristo semplicemente in virtù del fatto che Egli era il Figlio naturale di Dio; e poiché Era la Parola attraverso la quale tutte le cose furono create, Egli possedeva il potere di compiere ogni cosa rettamente. Pertanto, la Sua [natura umana](/axes/human_nature) non aveva bisogno di alcuna altra grazia, oltre all’unione con la Parola.
+
+Obiezione 3: Inoltre, ciò che funge da strumento non ha bisogno di alcuna [abitudine](/concepts/custom) per il proprio funzionamento, poiché le abitudini sono radicate nell’agente principale. Ora, la natura umana in Cristo era “come lo strumento della divinità”, come afferma Damasceno (De Fide Orth. iii, 15). Pertanto, in Cristo non c’era bisogno di grazie abituali.
+
+Al contrario, è scritto (Isaia 11:2): “Lo Spirito del Signore riposerà su di Lui” – e questo Spirito, infatti, si dice che sia presente nell’uomo per grazia abituale, come già detto in precedenza (FP, Q[8], A[3]; FP, Q[43], AA[3],6). Pertanto, Cristo possedeva la grazia abituale.
+
+Rispondo che è necessario supporre l’esistenza di una grazia abituale in Cristo per tre motivi. Primo, a causa dell’unione della Sua anima con la Parola di Dio: più un ricevente è vicino alla fonte da cui proviene questa grazia, più ne partecipa. Ora, l’afflusso di grazia proviene da Dio, come si legge nel Salmo 83:12: “Il Signore darà grazia e gloria”. Pertanto, era assolutamente appropriato che la Sua anima ricevesse direttamente questo flusso di grazia divina. Secondo, a causa della dignità di questa anima, le cui attività dovevano avvicinarsi il più possibile a Dio attraverso la conoscenza e l’amore; per ciò era necessario che la natura umana fosse elevata dalla grazia. Terzo, a causa del rapporto di Cristo con la razza umana: poiché Cristo, in quanto uomo, è il “Mediatore tra Dio e gli uomini”, come si legge in 1 Timoteo 2:5, era necessario che Egli possedesse una grazia che potesse trasfondersi negli altri, secondo quanto detto in Giovanni 1:16: “Dalla Sua pienezza tutti noi abbiamo ricevuto grazia su grazia”.
+
+Risposta all’Obiezione 1: Cristo è il vero Dio in Persona e Natura divine. Tuttavia, poiché, oltre all’unità di persona, esiste anche una distinzione tra le nature, come detto sopra (Q[2], AA[1],2), l’anima di Cristo non è essenzialmente divina. Pertanto, essa deve essere divina per partecipazione, cioè per grazia.
+
+Risposta all’Obiezione 2: A Cristo, in quanto Figlio naturale di Dio, spetta un’eredità eterna, ovvero la [beatazza](/positions/beatitude) non creata, ottenuta attraverso l’atto divino della conoscenza e dell’amore di Dio – lo stesso atto con cui il Padre conosce e ama Sé stesso. Ora, l’anima umana non era in grado di compiere tale atto a causa della differenza delle loro nature; pertanto, le era necessario raggiungere Dio attraverso un atto creato da parte sua, atto che non poteva avvenire senza la grazia divina. Allo stesso modo, in quanto Cristo era la Parola di Dio, possedeva il potere di compiere ogni cosa nel modo giusto, grazie all’operazione divina. E poiché è necessario ammettere l’esistenza di un atto umano, distinto da quello divino (come verrà dimostrato in [Q[19], A[1), era indispensabile che Cristo possedesse una grazia costante e abituale, tale da rendere possibile la perfezione di questo atto umano in Lui.
+
+Risposta all’Obiezione 3: L’umanità di Cristo è lo strumento della divinità – non certo uno strumento inanimato che non agisce affatto, ma piuttosto uno strumento animato da un’anima razionale, la quale viene influenzata in modo tale da poter agire. E proprio per questo motivo, la natura di tale azione richiedeva che Cristo possedesse una grazia abituale.
+
 <span class="atom-split" data-atom="052" data-title="Whether in Christ there were virtues?" data-chapter="Whether in Christ there were virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in Christ there were no virtues. For Christ had the plenitude
@@ -2811,6 +3517,24 @@ evil desires which the continent suffers. Hence, taking continence in this sense
 takes it, Christ, from the very fact that He had all virtue, had not continence, since it is not a virtue,
 but something less than virtue.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che in Cristo non ci fossero virtù. Infatti, Cristo possedeva la pienezza della grazia; e la grazia, secondo 2 Corinzi 12:9, è sufficiente per ogni atto buono (“La mia grazia ti basta”). Pertanto, in Cristo non ci sarebbero state virtù.
+
+Obiezione 2: Inoltre, secondo il Filosofo (Etica vii, 1), la virtù viene contrapposta a una “certa abitudine eroica o divina” attribuita agli uomini simili a Dio. Ma questa caratteristica appartiene soprattutto a Cristo. Pertanto, Cristo non possedeva virtù, bensì qualcosa di ancora più elevato della virtù stessa.
+
+Obiezione 3: Inoltre, come è stato detto sopra (FS, Q[65], AA[1],2), tutte le virtù sono strettamente legate tra loro. Tuttavia non sarebbe stato appropriato che Cristo possedesse tutte le virtù, come risulta evidente nel caso della generosità e della magnanimità: queste virtù infatti riguardano i beni materiali, che Cristo rifiutò, secondo quanto detto in Matteo 8:20: “Il Figlio dell’Uomo non ha dove posare la testa”. Anche la temperanza e la castità riguardano desideri malvagi, dai quali Cristo era libero. Pertanto, Cristo non possedeva tutte le virtù.
+
+Al contrario, riguardo al versetto del Salmo 1:2 “Ma la sua volontà è nella legge del Signore”, un commento afferma: “Ciò si riferisce a Cristo, che è pieno di ogni bene”. Ora, una qualità positiva dell’animo è considerata una virtù; pertanto, Cristo era pieno di tutte le virtù.
+
+Rispondo che, come è stato detto sopra (FS, Q[110], AA[3],4), così come la grazia riguarda l’essenza dell’anima, allo stesso modo la virtù riguarda le sue facoltà. Pertanto, poiché le facoltà dell’anima derivano dalla sua essenza, anche le virtù derivano dalla grazia. Ora, più perfetto è un principio, maggiori sono gli effetti che ne derivano. Quindi, poiché la grazia di Cristo era la più perfetta, da essa derivarono le virtù che perfezionavano le varie facoltà dell’anima, utili a tutti i suoi atti; ed è così che Cristo possedeva tutte le virtù.
+
+Risposta all’Obiezione 1: La grazia è sufficiente per permettere all’uomo di realizzare tutto ciò per cui è destinato alla [beata vita](/positions/beatitude); tuttavia, alcune di queste cose vengono realizzate direttamente dalla grazia stessa – ad esempio, rendere l’uomo gradito a Dio – mentre altre avvengono attraverso le virtù che derivano dalla grazia.
+
+Risposta all’Obiezione 2: Un’abitudine eroica o divina si differenzia dalla virtù comunemente intesa soltanto per il suo carattere più perfetto; infatti, tale abitudine spinge l’individuo verso il bene in modo più elevato rispetto a quanto sia comune a tutti. Pertanto, ciò che viene dimostrato qui non è che Cristo non possedesse virtù, ma che le possedesse nella forma più perfetta, al di là del livello ordinario. In questo senso, Plotino definì un certo grado elevatissimo di virtù “virtù dell’anima purificata” (cfr. FS, Q[61], A[5]).
+
+Risposta all’Obiezione 3: La liberalità e la magnanimità sono degne di lode in relazione alle ricchezze, nella misura in cui nessuno apprezza il denaro al punto da volerlo trattenere a tutti i costi, rinunciando così a ciò che è doveroso fare. Tuttavia, colui che disprezza completamente le ricchezze e le scarta per amore della perfezione le apprezza di meno di ogni altro. Ecco perché Cristo, disprezzando totalmente tutte le ricchezze, dimostrò il più alto grado di liberalità e magnanimità; sebbene compisse anch’Egli atti di generosità, nella misura in cui ciò era conforme alla Sua natura, facendo distribuire ai poveri ciò che Gli veniva dato. Quando quindi il nostro Signore disse a Giuda (Giovanni 13:21): “Fai presto ciò che devi fare”, i discepoli intesero che Egli gli ordinasse di dare del denaro ai poveri. Ma Cristo non aveva alcun desiderio malvagio, come verrà dimostrato in seguito; tuttavia ciò non Lo impedì di possedere la temperanza, che è ancora più perfetta nell’uomo privo di desideri malvagi. Pertanto, secondo il Filosofo (Etica vii, 9), l’uomo temperante si distingue dall’uomo casto proprio per questo: l’uomo temperante non possiede quei desideri malvagi che caratterizzano l’uomo casto. Quindi, se si intende la castità nel senso indicato dal Filosofo, allora Cristo, essendo dotato di tutte le virtù, non possedeva affatto la castità, poiché questa non è una vera virtù, ma qualcosa di inferiore alle vere virtù.
+
 <span class="atom-split" data-atom="053" data-title="Whether in Christ there was faith?" data-chapter="Whether in Christ there was faith?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there was faith in Christ. For faith is a nobler virtue than the
@@ -2850,6 +3574,24 @@ perfectly Himself.
 Reply to Objection 3: As a gloss says in the same place, faith is that "whereby such things as
 are not seen are believed." But faith in things seen is improperly so called, and only after a certain
 similitude with regard to the certainty and firmness of the assent.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che in Cristo esistesse fede. Infatti, la fede è una virtù più nobile delle virtù morali, come la temperanza e la generosità. Ora, queste virtù erano presenti in Cristo, come detto sopra (A[2]). Pertanto, con ancora maggiore certezza, in Lui doveva esistere fede.
+
+Obiezione 2: Inoltre, Cristo non insegnò virtù che Lui stesso non possedesse; secondo gli Atti degli Apostoli 1:1, “Gesù cominciò a compiere e ad insegnare”. Ma di Cristo si dice (Ebrei 12:2) che Egli è “l’autore e il completatore della nostra fede”. Pertanto, la fede in Lui esisteva già prima di tutte le altre.
+
+Obiezione 3: Inoltre, tutto ciò che è imperfetto viene escluso dagli eletti. Ma negli eletti c’è fede; infatti, riguardo a Romani 1:17, dove si dice “la giustizia di Dio si rivela nella fede”, un commento afferma: “Dalla fede delle parole e della speranza alla fede delle cose e della visione”. Pertanto, sembrerebbe che anche in Cristo ci fosse fede, poiché essa non implica nulla di imperfetto.
+
+Al contrario, è scritto (Ebrei 11:1): “La fede è la prova di cose che non si vedono”. Ma per Cristo non c’era nulla che non fosse visibile, secondo quanto Giovanni Gli disse (Giovanni 21:17): “Tu sai tutte le cose”. Pertanto, per Cristo non esisteva alcuna fede.
+
+Rispondo che, come è stato detto sopra (SS, Q[1], A[4]), l’oggetto della fede è una realtà divina che non viene vista con i sensi. Ora, l’[abitudine](/concepts/custom) della virtù, come ogni altra abitudine, trae la propria essenza dall’oggetto a cui si riferisce. Pertanto, se negassimo che quella realtà divina sia stata effettivamente vista, escluderemmo proprio l’essenza stessa della fede. Ora, fin dal primo momento della sua concezione, Cristo vide pienamente l’Essenza di Dio, come sarà chiarito in seguito (Q[34], A[1]). Pertanto, non poteva esserci alcuna fede in Lui.
+
+Risposta all’Obiezione 1: La fede è una virtù più nobile delle virtù morali, poiché riguarda materia più nobile; tuttavia, essa implica un certo difetto riguardo a tale materia; e questo difetto non era presente in Cristo. Pertanto, non poteva esserci fede in Lui, anche se le virtù morali erano presenti in Lui, poiché per loro stessa natura tali virtù non implicano alcun difetto riguardo alla materia di cui sono costituite.
+
+Risposta all’Obiezione 2: Il merito della fede consiste nel fatto che l’uomo, attraverso l’obbedienza, accetta ciò che non vede, secondo Romani 1:5: “Poiché l’obbedienza alla fede è dovuta a tutte le nazioni per il suo nome”. Ora, Cristo ebbe un’obbedienza assolutamente perfetta verso Dio, secondo Filippi 2:8: “Diventando obbediente fino alla morte”. E per questo motivo non insegnò nulla riguardo al merito che Lui stesso non avesse realizzato in modo ancora più perfetto.
+
+Risposta all’Obiezione 3: Come afferma un commento nello stesso passaggio, la fede è quella “per mezzo della quale si credono cose che non sono visibili”. Tuttavia, chiamare fede ciò che è visibile sarebbe improprio; tale denominazione è appropriata soltanto quando vi è una certa somiglianza tra quelle cose visibili e la fede riguardo alla loro realtà, in termini di certezza e fermezza nella credenza.
 
 <span class="atom-split" data-atom="054" data-title="Whether in Christ there was hope?" data-chapter="Whether in Christ there was hope?" data-kind="atom" data-srclang="en"></span>
 
@@ -2896,6 +3638,24 @@ pertain to the perfection of Christ, whereby He is perfect in Himself, but inasm
 to a share of His perfection. And because hope properly regards what is expected by him who
 hopes, the virtue of hope cannot properly be said to be in Christ, because of the aforesaid reason.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che ci fosse speranza in Cristo. Infatti, nella persona di Cristo si dice nel Salmo 30:1: “In Te, o Signore, ho riposto la mia speranza”. Ma la virtù della speranza è quella che permette all’uomo di confidare in Dio. Pertanto, anche in Cristo esisteva questa virtù della speranza.
+
+Obiezione 2: Inoltre, la speranza è l’attesa della beatitudine futura, come è stato dimostrato sopra (SS, Q[17], A[5], ad 3). Ma Cristo attendeva qualcosa che riguardava la beatitudine, cioè la glorificazione del Suo corpo. Pertanto, sembra che in Lui ci fosse speranza.
+
+Obiezione 3: Inoltre, ognuno può sperare in ciò che riguarda la propria perfezione, purché essa non sia ancora giunta. Ma c’era qualcosa ancora da realizzare riguardo alla perfezione di Cristo, secondo Efesini 4:12: “Per la perfezione dei santi, per l’esercizio del ministero, per la costruzione del corpo di Cristo”. Pertanto, sembra appropriato che anche Cristo abbia avuto speranza.
+
+Al contrario, è scritto (Romani 8:24): “Perché ciò che l’uomo vede, per questo spera?” È quindi evidente che, così come la fede riguarda ciò che non si vede, allo stesso modo anche la speranza. Ma non c’era fede in Cristo, come è stato detto sopra (A[1]); di conseguenza, nemmeno c’era speranza.
+
+Rispondo che, così come è natura della fede accordare il proprio assenso a ciò che non si vede, allo stesso modo è natura della speranza attendersi ciò che ancora non si possiede; e poiché la fede, essendo una virtù teologica, non riguarda tutto ciò che è invisibile, ma soltanto Dio, così anche la speranza, in quanto virtù teologica, ha come oggetto Dio stesso, la realizzazione di Ciò che l’uomo attende principalmente attraverso la virtù della speranza; tuttavia, chi possiede la virtù della speranza può aspettarsi l’aiuto divino anche in altre cose, proprio come colui che possiede la virtù della fede crede in Dio non solo nelle cose divine, ma anche in tutto ciò che è rivelato divinamente. Ora, fin dal momento del suo concepimento, Cristo possedeva già pienamente la realizzazione divina, come verrà dimostrato (Q[34], A[4]); pertanto non aveva la virtù della speranza. Tuttavia, egli aveva speranza riguardo a quelle cose che ancora non possedeva, anche se non aveva fede in nulla; perché, pur conoscendo tutto pienamente – e quindi essendo del tutto privo di fede –, non possedeva ancora completamente tutto ciò che riguardava la sua perfezione, cioè l’immortalità e la gloria del corpo, su cui poteva sperare.
+
+Risposta all’Obiezione 1: Ciò si dice di Cristo in relazione alla speranza, non come virtù teologica, ma perché Egli sperava in alcune cose che ancora non possedeva, come è stato detto sopra.
+
+Risposta all’Obiezione 2: La gloria del corpo non riguarda l’[beatazza](/positions/beatitude) nel senso che essa costituisca essenzialmente la beatazza stessa, ma piuttosto rappresenta un certo flusso proveniente dalla gloria dell’anima, come già detto in precedenza (FS, Q[4], A[6]). Pertanto, la speranza, in quanto virtù teologica, non riguarda la beatitudine del corpo, ma quella dell’anima, che consiste nella fruizione divina.
+
+Risposta all’Obiezione 3: La crescita della Chiesa attraverso la conversione dei fedeli non riguarda la perfezione di Cristo, che è perfetto in se stesso, ma piuttosto il fatto che tale processo permetta ad altri di condividere la Sua perfezione. Poiché la speranza riguarda ciò che si attende da colui che spera, non si può affermare che la virtù della speranza risieda propriamente in Cristo, per le ragioni sopra menzionate.
+
 <span class="atom-split" data-atom="055" data-title="Whether in Christ there were the gifts?" data-chapter="Whether in Christ there were the gifts?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the gifts were not in Christ. For, as is commonly said, the gifts
@@ -2935,6 +3695,24 @@ proceedeth."
 Reply to Objection 3: In Christ there was not only heavenly knowledge, but also earthly
 knowledge, as will be said (Q[15], A[10]). And yet even in heaven the gifts of the Holy Ghost will
 still exist, in a certain manner, as was said above (FS, Q[68], A[6]).
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i doni non fossero presenti in Cristo. Infatti, come si dice comunemente, i doni vengono concessi per aiutare le virtù. Ma ciò che è perfetto di per sé stesso non ha bisogno di un aiuto esterno. Pertanto, poiché le virtù di Cristo erano perfette, sembra che in Lui non vi fossero doni.
+
+Obiezione 2: Inoltre, dare e ricevere doni sembrerebbero appartenere a azioni diverse; infatti, dare riguarda colui che possiede qualcosa, mentre ricevere riguarda colui che non ne possiede. Ma a Cristo spetta donare doni, secondo quanto detto nel Salmo 67:19: “Hai dato doni agli uomini”. Pertanto, non sarebbe stato appropriato che Cristo ricevesse doni dello Spirito Santo.
+
+Obiezione 3: Inoltre, sembrerebbe che quattro doni siano legati alla contemplazione della terra, ovvero saggezza, conoscenza, intelligenza e consiglio, che riguardano la prudenza; per questo motivo il Filosofo (Etica VI, 3) li elenca tra le virtù intellettuali. Ma Cristo aveva la contemplazione del cielo; pertanto non possedeva questi doni.
+
+Al contrario, è scritto (Isaia 4:1): “Sette donne prenderanno possesso di un uomo”; una spiegazione aggiunge: “Cioè, i sette doni dello Spirito Santo si impadroniranno di Cristo”.
+
+Rispondo che, come è stato detto sopra (FS, Q[68], A[1]), i doni sono, propriamente parlando, determinate perfezioni delle facoltà dell’anima, poiché queste possiedono una naturale predisposizione ad essere mosse dallo Spirito Santo, come si legge in Luca 4:1: “E Gesù, essendo pieno dello Spirito Santo, tornò dal Giordano e fu condotto lo Spirito nel deserto”. Pertanto è evidente che in Cristo i doni raggiungevano un grado eccezionale.
+
+Risposta all’Obiezione 1: Ciò che è perfetto nella propria natura ha bisogno di essere aiutato da qualcosa di natura superiore; così come l’uomo, per quanto perfetto, abbia bisogno dell’aiuto di Dio. E in questo modo anche le virtù, che perfezionano le facoltà dell’anima e sono guidate dalla ragione, per quanto perfette siano, hanno bisogno dell’aiuto dei doni divini, che perfezionano ulteriormente tali facoltà, poiché questi doni sono ispirati dallo Spirito Santo.
+
+Risposta all’Obiezione 2: Cristo non è, in senso analogo, né destinatario né donatore dei doni dello Spirito Santo; poiché li dona come Dio e li riceve come uomo. Pertanto Gregorio afferma (Moralia ii) che “lo Spirito Santo non abbandonò mai la [natura umana](/axes/human_nature) di Cristo, dalla quale deriva la Sua natura divina”.
+
+Risposta all’Obiezione 3: In Cristo non vi era soltanto conoscenza celeste, ma anche conoscenza terrena, come verrà detto più avanti (Q[15], A[10]). E tuttavia, anche in cielo i doni dello Spirito Santo esisteranno ancora, in un certo modo, come è stato affermato sopra (FS, Q[68], A[6]).
 
 <span class="atom-split" data-atom="056" data-title="Whether in Christ there was the gift of fear?" data-chapter="Whether in Christ there was the gift of fear?" data-kind="atom" data-srclang="en"></span>
 
@@ -2980,6 +3758,24 @@ Reply to Objection 2: This reason is based on fear in so far as it regards the e
 
 Reply to Objection 3: Perfect charity casts out servile fear, which principally regards
 punishment. But this kind of fear was not in Christ.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che in Cristo non esistesse il dono della paura. Infatti, la speranza sembrerebbe essere più forte della paura; poiché l’oggetto della speranza è il bene, mentre quello della paura è il male, come detto sopra (FS, Q[40], A[1]; FS, Q[42], A[1]). Ma in Cristo non esisteva la virtù della speranza, come già affermato (A[4]). Pertanto, ne consegue che nemmeno il dono della paura fosse presente in Lui.
+
+Obiezione 2: Inoltre, per il dono della paura, temiamo o di essere separati da Dio – ciò che riguarda la “paura casta” – oppure di essere puniti da Lui, ciò che riguarda la “paura servile”, come afferma [Agostino](/figures/augustine) (In Joan. Tract. ix). Ma Cristo non temeva di essere separato da Dio a causa del peccato, né di essere punito da Lui per una colpa, poiché era impossibile che Egli peccasse, come verrà detto in seguito (Q[15], AA[1],2). Ora, la paura riguarda ciò che è possibile; pertanto, in Cristo non esisteva il dono della paura.
+
+Obiezione 3: Inoltre, è scritto (1 Gv. 4:18) che “la carità perfetta scaccia la paura”. Ma in Cristo c’era la carità più perfetta, secondo Ef. 3:19: “La carità di Cristo, che supera ogni conoscenza”. Pertanto, in Cristo non esisteva il dono della paura.
+
+Al contrario, è scritto (Isaia 11:3): “E sarà colmo dello spirito del timore del Signore”.
+
+Rispondo che, come detto sopra (FS, Q[42], A[1]), la paura riguarda due oggetti: uno è il male che provoca terrore; l’altro è colui che ha il potere di infliggere quel male, come temiamo il re perché ha il potere di uccidere. Ora, chiunque possa causare danno non verrebbe temuto se non possedesse una certa forza tale da rendere difficile resistergli; infatti ciò che possiamo facilmente respingere non suscita paura in noi. È quindi evidente che nessuno viene temuto se non per qualche forma di superiorità. In questo senso si dice che in Cristo vi fosse la “paura di Dio”, non certo nel senso del male derivante dalla separazione da Dio a causa dei peccati, né nel senso della punizione per tali peccati; ma piuttosto nel senso della divina superiorità di Dio, grazie alla quale l’anima di Cristo, guidata dallo Spirito Santo, si dirigeva verso Dio con atteggiamento di reverenza. Per questo si dice (Ebrei 5:7) che “in tutte le cose fu ascoltato per la sua reverenza”. Poiché Cristo, in quanto uomo, ebbe questo atteggiamento di reverenza verso Dio in modo più completo e superiore a tutti gli altri. Ecco perché la [Scrittura](/concepts/revelation) Gli attribuisce la pienezza della “paura del Signore”.
+
+Risposta all’Obiezione 1: Le abitudini legate alle virtù e ai doni riguardano direttamente la bontà in sé; al contrario, il male è oggetto di tali abitudini solo in quanto collegato alla natura della virtù, che ha lo scopo di rendere gli atti buoni, come affermato nell’Etica ii, 6. Pertanto, la natura del dono della paura non riguarda il male stesso, ma l’eccellenza di quella bontà, cioè di Dio, per mezzo del cui potere il male può essere inflitto. D’altra parte, la speranza, in quanto virtù, riguarda non solo l’autore del bene, ma anche il bene stesso, nella misura in cui esso non è ancora stato realizzato. Ecco perché a Cristo, che possedeva già il perfetto bene della [beatazza](/positions/beatitude), non attribuiamo la virtù della speranza, ma il dono della paura.
+
+Risposta all’Obiezione 2: Questo ragionamento si basa sulla paura, nel senso che riguarda l’oggetto del male stesso.
+
+Risposta all’Obiezione 3: La carità perfetta scaccia la paura servile, quella che riguarda principalmente il castigo. Ma questo tipo di paura non esisteva in Cristo.
 
 <span class="atom-split" data-atom="057" data-title="Whether the gratuitous graces were in Christ?" data-chapter="Whether the gratuitous graces were in Christ?" data-kind="atom" data-srclang="en"></span>
 
@@ -3091,6 +3887,24 @@ hence faith and hope are repugnant to the perfection of Christ's [beatitude](/po
 Reply to Objection 3: Angels, being "comprehensors," are above prophets, who are merely
 "wayfarers"; but not above Christ, Who was both a "comprehensor" and a "wayfarer."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che in Cristo non vi fosse il dono della profezia. Infatti, la profezia implica una certa conoscenza oscura e imperfetta, come si legge in Numeri 12:6: “Se tra di voi ci sarà un profeta del Signore, io mi manifesterò a lui in visione o gli parlerò in sogno”. Ma Cristo possedeva una conoscenza piena e chiara, molto più ampia di quella di Mosè, di cui si dice che “vedesse Dio chiaramente, senza enigmi né simboli” (Numeri 6:8). Pertanto, non dovremmo ammettere l’esistenza del dono della profezia in Cristo.
+
+Obiezione 2: Inoltre, poiché la fede riguarda ciò che non si vede e la speranza ciò che non si possiede, allo stesso modo la profezia riguarda ciò che non è presente, ma lontano nel tempo; infatti un profeta è, in qualche modo, colui che annuncia eventi futuri. Ma in Cristo non potevano esistere né fede né speranza, come già detto sopra (AA[3],4). Pertanto nemmeno la profezia dovrebbe essere considerata valida in relazione a Cristo.
+
+Obiezione 3: Inoltre, un profeta è di rango inferiore rispetto a un angelo; pertanto Mosè, che fu il più grande tra i profeti, come detto sopra (SS, Q[174], A[4]), si dice che abbia parlato con un angelo nel deserto (Atti 7:38). Ma Cristo “fu reso inferiore agli angeli”, non per quanto riguarda la conoscenza della Sua anima, ma soltanto in relazione alle sofferenze del Suo corpo, come si legge in Ebrei 2:9. Pertanto sembra che Cristo non fosse un profeta.
+
+Al contrario, di Lui è scritto (Deuteroeronimo 18:15): “Il tuo Dio ti susciterà un profeta dal tuo popolo e dai tuoi fratelli”; e Lui stesso dice di Sé (Matteo 13:57; Giovanni 4:44): “Un profeta non è disprezzato nella sua patria”.
+
+Rispondo che un profeta, per così dire, è colui che annuncia o predice eventi lontani e invisibili agli occhi umani, poiché conosce e rivela ciò che è al di là delle nostre percezioni, come afferma [Agostino](/figures/augustine) (Contra Faustus, xvi, 18). Dobbiamo però ricordare che nessuno può essere considerato profeta solo perché conosce e annuncia ciò che è lontano da coloro con cui non si trova in contatto; questo vale soprattutto per quanto riguarda spazio e tempo. Ad esempio, se qualcuno che vive in Francia conoscesse e comunicasse agli altri francesi ciò che accade in Siria, tale azione sarebbe considerata profetica, proprio come quando Eliseo riferì a Giezi di un uomo che era sceso dal suo carro per andargli incontro (4 Re 5:26). Al contrario, se qualcuno che vive in Siria annunciasse ciò che vi accade, tale azione non sarebbe considerata profetica. Lo stesso vale per il tempo: fu profetico quando Isaia predisse che Ciro, re dei Persiani, avrebbe ricostruito il tempio di Dio (Isaia 44:28), ma non lo fu quando Esdra ne scrisse la storia, poiché tale evento ebbe luogo proprio durante il suo regno. Pertanto, se Dio, gli angeli o anche i beati conoscono e annunciano ciò che va al di là della nostra conoscenza, ciò non rientra nella categoria della profezia, poiché essi non toccano in alcun modo lo stato umano attuale. Cristo, invece, prima della sua passione, toccò effettivamente lo stato umano: non fu soltanto un “colui che comprende”, ma anche un “viandante” tra gli uomini. Per questo motivo fu profetico quando conosceva e annunciava ciò che era al di là della conoscenza degli altri esseri umani; ed è proprio per questa ragione che viene chiamato profeta.
+
+Risposta all’Obiezione 1: Queste parole non dimostrano che la conoscenza enigmatica, ovvero quella ottenuta attraverso sogni e visioni, appartenga alla natura della profezia; piuttosto, si stabilisce un paragone tra altri profeti che vedevano le cose divine nei sogni e nelle visioni, e Mosè, il quale vide Dio in modo chiaro e diretto, senza alcun enigma. Eppure anche Mosè è considerato un profeta, come affermato in Deuteronomio 24:10: “Non si alzò più in Israele un profeta simile a Mosè”. Tuttavia, si può dire che sebbene Cristo possedesse una conoscenza completa e chiara riguardo alla parte intellettiva delle cose divine, nella parte immaginativa presentava certe analogie attraverso le quali era possibile percepire tali realtà; in altre parole, Egli non era soltanto un “comprensore”, ma anche un “viaggiatore” lungo il cammino della verità divina.
+
+Risposta all’Obiezione 2: La fede riguarda cose che non sono visibili a colui che crede; anche la speranza riguarda cose che non appartengono a colui che spera; ma la profezia riguarda cose che trascendono la percezione umana, con le quali il profeta vive e conversa in questo stato di vita. Pertanto, fede e speranza sono contrarie alla perfezione della [beata condizione](/positions/beatitude) di Cristo; ma la profezia no.
+
+Risposta all’Obiezione 3: Gli angeli, essendo “comprensori”, sono superiori ai profeti, i quali sono soltanto “viandanti”; ma non sono superiori a Cristo, che fu sia un “comprensore” che un “viandante”.
+
 <span class="atom-split" data-atom="059" data-title="Whether in Christ there was the fulness of grace?" data-chapter="Whether in Christ there was the fulness of grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in Christ there was not the fulness of grace. For the virtues
@@ -3147,6 +3961,24 @@ the beginning of His conception; not that it was until then sinful, or even not 
 Reply to Objection 3: The fulness of grace is attributed to the soul of Christ according to the
 capacity of the creature and not by comparison with the infinite fulness of the Divine goodness.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che in Cristo non vi fosse la pienezza della grazia. Infatti le virtù derivano dalla grazia, come è stato detto sopra (FS, Q[110], A[4]). Ma in Cristo non vi erano tutte le virtù; poiché in Lui non c’erano né fede né speranza, come è stato dimostrato sopra (AA[3],4). Pertanto, in Cristo non vi era la pienezza della grazia.
+
+Obiezione 2: Inoltre, come è evidente da quanto detto sopra (FS, Q[111], A[2]), la grazia si divide in quella operante e quella cooperante. La grazia operante indica ciò mediante cui l’ingiusto viene giustificato; tale grazia, tuttavia, non ha alcun ruolo in Cristo, che mai è stato soggetto a peccato. Pertanto, in Cristo non esisteva la pienezza della grazia.
+
+Obiezione 3: Inoltre, è scritto (Giacomo 1:17): “Tutti i doni veramente preziosi e perfetti provengono dal cielo, dal Padre della luce”. Ma ciò che viene in questo modo è posseduto solo in parte, e non completamente. Pertanto, nessuna creatura, nemmeno l’anima di Cristo, può possedere la pienezza dei doni della grazia.
+
+Al contrario, è scritto (Giovanni 1:14): “Lo abbiamo visto pieno di grazia e verità”.
+
+Rispondo che “avere pienamente” significa avere qualcosa in modo totale e perfetto. Ora, la totalità e la perfezione possono essere intese in due modi: innanzitutto, in termini di quantità “intensiva”; ad esempio, si può dire che un uomo abbia la bianchezza in modo pieno, perché ne possiede la quantità massima che naturalmente possa contenere; in secondo luogo, in termini di “potenza”; ad esempio, si può dire che qualcuno abbia la vita in modo pieno, se questa si manifesta in tutti i suoi effetti o azioni. Così l’uomo ha la vita in modo pieno, mentre gli animali e le piante privi di sensi no. In entrambi questi sensi, Cristo possiede la pienezza della grazia: innanzitutto, perché possiede la grazia nel suo grado più alto, nel modo più perfetto in cui essa può essere ricevuta; ciò risulta chiaramente dalla vicinanza dell’anima di Cristo alla fonte stessa della grazia. Come già detto in precedenza, più un destinatario è vicino a questa fonte, più ne riceve; l’anima di Cristo, essendo strettamente unita a Dio più di qualsiasi altra creatura razionale, riceve quindi la massima quantità della Sua grazia. In secondo luogo, in relazione agli effetti che la grazia produce: l’anima di Cristo, avendo ricevuto tale grazia, è in grado di trasmetterla ad altri; per questo motivo Egli doveva possedere la grazia più grande di tutte. Così come il fuoco, essendo la causa del calore in altre cose calde, è di tutte le cose il più caldo. Allo stesso modo, in termini della “virtù” della grazia, Cristo la possedeva pienamente, poiché essa si manifestava in tutti gli effetti e le azioni che essa comporta; ciò perché la grazia fu concessa a Lui come a un principio universale, capace di influenzare tutte le manifestazioni della grazia stessa. La virtù di questo principio universale si estende infatti a tutti gli effetti di quel genere; così come la forza del sole, che è la causa universale della generazione, si estende a tutte le cose che vengono generate. Pertanto, la seconda forma di pienezza della grazia si riscontra in Cristo, poiché la Sua grazia si estende a tutti gli effetti della grazia stessa, ovvero alle virtù, ai doni e simili.
+
+Risposta all’Obiezione 1: La fede e la speranza indicano effetti della grazia che presentano certi difetti da parte di colui che riceve quella grazia; infatti, la fede riguarda ciò che è invisibile, mentre la speranza riguarda ciò che ancora non si possiede. Pertanto, non era necessario che in Cristo, che è l’autore della grazia, esistessero difetti di quel genere; tuttavia, ogni perfezione presente nella fede e nella speranza era in Cristo realizzata nel modo più completo. Così come nel fuoco non si trovano tutte le forme di calore che potrebbero essere considerate “difettose” a causa dei limiti del soggetto che lo utilizza, ma soltanto ciò che appartiene alla perfezione stessa del calore.
+
+Risposta all’Obiezione 2: Essenzialmente, la grazia operante riguarda il processo di giustificazione; tuttavia, il fatto che essa renda gli ingiusti giusti è un aspetto accidentale, legato alla condizione del soggetto in cui si trova il peccato. Pertanto, l’anima di Cristo fu giustificata attraverso la grazia operante, poiché fu resa giusta e santa fin dal momento della sua concezione; ciò non significa che prima di allora fosse peccaminosa, o nemmeno giusta.
+
+Risposta all’Obiezione 3: La pienezza della grazia viene attribuita all’anima di Cristo in base alle capacità della creatura, e non in confronto alla pienezza infinita della bontà divina.
+
 <span class="atom-split" data-atom="060" data-title="Whether the fulness of grace is proper to Christ?" data-chapter="Whether the fulness of grace is proper to Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the fulness of grace is not proper to Christ. For what is proper
@@ -3202,6 +4034,22 @@ Reply to Objection 3: These gifts which are in common in heaven, viz.: vision, p
 and fruition, and the like, have certain gifts corresponding to them in this life which are also common
 to all the saints. Yet there are certain prerogatives of saints, both in heaven and on earth, which are
 not possessed by all.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la pienezza di grazia non sia propria di Cristo. Infatti, ciò che è proprio di qualcuno appartiene esclusivamente a lui. Tuttavia, l’essere “pieni di grazia” viene attribuito anche ad altri; infatti, alla Beata Vergine fu detto (Lc 1:28): “Salve, tu piena di grazia”; e inoltre si legge (Atti 6:8): “Stefano, pieno di grazia e forza”. Pertanto, la pienezza di grazia non è propria di Cristo.
+
+Obiezione 2: Inoltre, ciò che può essere trasmesso ad altri attraverso Cristo non sembra appartenergli in modo proprio. Tuttavia, la pienezza della grazia può essere trasmessa ad altri attraverso Cristo, poiché l’Apostolo dice (Efesini 3:19): “Affinché siate colmati fino alla pienezza di Dio”. Pertanto, la pienezza della grazia non appartiene in modo proprio a Cristo.
+
+Obiezione 3: Inoltre, lo [stato](/concepts/state) del viaggiatore sembra essere proporzionale allo [stato](/concepts/state) di colui che comprende. Tuttavia, nello stato di colui che comprende esiste una certa pienezza, poiché “nella nostra patria celeste, piena di ogni bene, sebbene alcune cose vengano concesse in modo eccezionale, nulla viene posseduto in modo esclusivo”, come è chiaro da Gregorio (Hom. De Cent. Ovib.; xxxiv in Ev.). Pertanto, nello stato di colui che comprende, la pienezza della grazia appartiene a tutti; quindi la pienezza della grazia non è propria di Cristo. Al contrario, la pienezza della grazie viene attribuita a Cristo perché Egli è l’Unigenito del Padre, secondo Giovanni 1:14: “Lo abbiamo visto, cioè la Sua gloria, come l’Unigenito del Padre, pieno di grazia e verità”. Ma essere l’Unigenito del Padre è proprio di Cristo; pertanto è proprio di Lui essere pieno di grazia e verità.
+
+Rispondo che la pienezza della grazia può essere intesa in due modi: da un lato, riguardo alla grazia stessa; dall’altro, riguardo a colui che ne è dotato. Per quanto riguarda la grazia stessa, si dice che essa sia piena quando raggiunge il suo limite massimo, sia in termini di essenza che di potere, ovvero quando viene posseduta nella sua più alta perfezione e nella sua massima estensione nei suoi effetti. Questa pienezza della grazia è propria di Cristo. Per quanto riguarda invece colui che ne è dotato, si dice che la grazia sia piena quando egli la possiede completamente in base alle sue condizioni: sia in termini di intensità – poiché la grazia è intensa in lui fino al limite stabilito da Dio (Efesini 4:1: “A ciascuno di noi, infatti, è data la grazia secondo la misura della donazione di Cristo”) – sia in termini di potere, poiché l’uomo riceve il sostegno della grazia per tutto ciò che riguarda il suo ruolo o la sua condizione sociale, come afferma l’Apostolo (Efesini 3:8: “A me, che sono il minore di tutti i santi, è stata data questa grazia, per illuminare tutti gli uomini”). E questa pienezza della grazia non è propria di Cristo, ma viene comunicata agli altri attraverso di Lui.
+
+Risposta all’Obiezione 1: Si dice che la Beata Vergine sia piena di grazia, non in relazione alla grazia stessa – poiché essa non possedeva la grazia nella sua massima espressione – né per tutti gli effetti che la grazia può produrre; ma si dice che sia piena di grazia in relazione a se stessa, cioè perché possedeva abbastanza grazia per raggiungere lo stato a cui Dio l’aveva destinata: quello di essere la madre del Suo Unigenito. Allo stesso modo, si dice che Stefano sia pieno di grazia, poiché ne possedeva abbastanza per essere un degno ministro e testimone di Dio, ruolo per il quale era stato chiamato. Lo stesso vale per gli altri. Tra queste “pienezze” di grazia, alcune sono più grandi di altre, in base al fatto che le persone siano state divinamente destinate a uno stato più elevato o più umile.
+
+Risposta all’Obiezione 2: L’Apostolo parla di quella pienezza che riguarda il soggetto umano, in relazione a ciò che è divinamente predestinato all’uomo; e questa pienezza può essere sia qualcosa di comune, destinato a tutti i santi, sia qualcosa di particolare, legato alla superiorità di alcuni di essi. In questo senso, una certa pienezza di grazia è comune a tutti i santi: ovvero, la grazia sufficiente per meritare la vita eterna, che consiste nel godimento di Dio. Ed è proprio questa pienezza di grazia che l’Apostolo desidera per i fedeli a cui scrive.
+
+Risposta all’Obiezione 3: Questi doni che sono comuni in cielo – cioè la visione, la possessione e la fruizione, e simili – hanno nella vita terrena doni corrispondenti anch’essi comuni a tutti i santi. Tuttavia, esistono alcune prerogative dei santi, sia in cielo che sulla terra, che non sono possedute da tutti.
 
 <span class="atom-split" data-atom="061" data-title="Whether the grace of Christ is infinite?" data-chapter="Whether the grace of Christ is infinite?" data-kind="atom" data-srclang="en"></span>
 
@@ -3260,6 +4108,24 @@ both have the same kind of quantity. But the grace of any man is compared to the
 as a particular to a universal power; hence as the force of fire, no matter how much it increases,
 can never equal the sun's strength, so the grace of a man, no matter how much it increases, can
 never equal the grace of Christ.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la grazia di Cristo sia infinita, poiché tutto ciò che è immisurabile è infinito. Ma la grazia di Cristo è davvero immisurabile; infatti è scritto (Giovanni 3:34): “Dio non dà lo Spirito in misura al Suo Figlio”. Pertanto, la grazia di Cristo è infinita.
+
+Obiezione 2: Inoltre, un effetto infinito indica una potenza infinita, la quale può derivare soltanto da un’essenza infinita. Ma l’effetto della grazia di Cristo è infinito, poiché si estende alla salvezza di tutta l’umanità; Egli infatti è la propiziazione per i nostri peccati, e anche per quelli di tutto il mondo, come si afferma in 1 Giovanni 2:2. Pertanto, la grazia di Cristo è infinita.
+
+Obiezione 3: Inoltre, qualsiasi cosa finita può, attraverso l’addizione, raggiungere la stessa quantità di un’altra cosa finita. Pertanto, se la grazia di Cristo fosse finita, la grazia di qualsiasi altro uomo potrebbe aumentare al punto di essere paragonabile a quella di Cristo, contrariamente a quanto scritto in Giobbe 28:17: “Né l’oro né il cristallo possono eguagliarla”, come spiega Gregorio (Moralia, XVIII). Quindi la grazia di Cristo è infinita.
+
+Al contrario, la grazia è qualcosa che viene creato nell’anima. Ma ogni cosa creata è finita, come afferma il Saggio 11:21: “Hai ordinato tutte le cose secondo misura, numero e peso”. Pertanto, la grazia di Cristo non è infinita.
+
+Rispondo che, come è stato chiarito sopra (Q[2], A[10]), si possono considerare due tipi di grazia in Cristo: la prima è la grazia dell’unione, che, come detto (Q[6], A[6]), consiste nel fatto che Egli sia personalmente unito al Figlio di Dio; un’unione che è stata concessa gratuitamente alla [natura umana](/axes/human_nature). È evidente che questa grazia sia infinita, poiché la Persona di Dio è infinita. La seconda è la grazia abituale, che può essere intesa in due modi: da un lato come entità finita, poiché risiede nell’anima di Cristo – una creatura dotata di capacità finite; dall’altro lato, nella sua natura specifica di grazia, e in questo senso si può affermare che la grazia di Cristo sia infinita, poiché non è limitata: possiede infatti tutto ciò che riguarda la natura stessa della grazia. Inoltre, questa grazia non viene concessa a Cristo in misura fissa; anzi, “secondo il disegno” di Dio, essa viene donata all’anima di Cristo come principio universale per la concessione della grazia alla natura umana, come si legge in Efesini 1:5-6: “Ci ha colmato di grazia nel Suo Figlio amato”. Si potrebbe quindi dire che la luce del sole sia infinita, non nella sua esistenza fisica, ma nella sua natura stessa, poiché possiede tutto ciò che è caratteristico della luce.
+
+Risposta all’Obiezione 1: Quando si afferma che il Padre “non dona lo Spirito in misura”, ciò può essere interpretato riguardo al dono che Dio Padre ha concesso al Figlio fin dall’[eternità](/positions/eternity), ovvero la Natura Divina, un dono infinito. Da qui deriva il commento di un certo glossario: “Affinché il Figlio possa essere grande quanto il Padre”. Oppure ciò può riferirsi al dono concesso alla natura umana, affinché possa unirsi alla Persona Divina, e anche questo è un dono infinito. Un altro glossario commenta: “Poiché il Padre ha generato una Parola piena e perfetta, essa si unisce alla natura umana in modo altrettanto pieno e perfetto”. In terzo luogo, ciò può riferirsi alla grazia abituale, poiché la grazia di Cristo si estende a tutto ciò che appartiene alla sfera della grazia. Per questo motivo [Agostino](/figures/augustine), esponendo questo argomento nel Trattato XIV su Giovanni, afferma: “La divisione dei doni rappresenta una sorta di misurazione; infatti a alcuni viene dato lo Spirito attraverso la Parola della saggezza, ad altri attraverso la Parola della conoscenza”. Ma Cristo, che dona tutto ciò, non riceve nulla in misura.
+
+Risposta all’Obiezione 2: La grazia di Cristo ha un effetto infinito, sia a causa della suddetta [infinità](/concepts/infinity) della grazia stessa, sia a causa dell’unità della Persona Divina, con la quale l’anima di Cristo è unita. [*Forse dovremmo leggere “infinità”---Nota dell’editore.]
+
+Risposta all’Obiezione 3: Il minore può raggiungere lo stesso livello del maggiore aumentando la propria quantità, quando entrambi possiedono lo stesso tipo di quantità. Tuttavia, la grazia di un uomo viene paragonata alla grazia di Cristo come qualcosa di particolare rispetto a una forza universale; pertanto, così come la potenza del fuoco, per quanto possa aumentare, non potrà mai eguagliare la forza del sole, allo stesso modo la grazia di un uomo, per quanto possa crescere, non potrà mai essere paragonabile alla grazia di Cristo.
 
 <span class="atom-split" data-atom="062" data-title="Whether the grace of Christ could increase?" data-chapter="Whether the grace of Christ could increase?" data-kind="atom" data-srclang="en"></span>
 
@@ -3320,6 +4186,24 @@ as the very habits of wisdom and grace are increased; and in this way Christ did
 Secondly, as regards the effects, i.e. inasmuch as they do wiser and greater works; and in this way
 Christ increased in wisdom and grace even as in age, since in the course of time He did more perfect
 works, to prove Himself true man, both in the things of God, and in the things of man.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la grazia di Cristo possa aumentare, poiché a ogni cosa finita si può aggiungere qualcosa. Ma la grazia di Cristo era finita; pertanto, poteva aumentare.
+
+Obiezione 2: Inoltre, è per mezzo del potere divino che la grazia aumenta, come si legge in 2 Corinzi 9:8: “Dio è capace di far sì che tutta la grazia abbondi in voi”. Ma poiché il potere divino è infinito, non è soggetto a alcun limite. Pertanto, sembrerebbe che la grazia di Cristo potesse essere ancora maggiore.
+
+Obiezione 3: Inoltre, è scritto (Luca 2:52) che il bambino “Gesù cresceva in saggezza, età e grazia davanti a Dio e agli uomini”. Pertanto, la grazia di Cristo poteva aumentare.
+
+Al contrario, è scritto (Giovanni 1:14): “Lo abbiamo visto, l’Unigenito del Padre, pieno di grazia e verità”. Ma nulla può essere considerato più grande del fatto che qualcuno possa essere l’Unigenito del Padre. Pertanto, nessuna grazia può essere considerata più grande di quella di cui Cristo era pieno.
+
+Rispondo che una forma possa essere incapace di aumentare si verifica in due modi: primo, da parte del soggetto che la possiede; secondo, da parte della forma stessa. Da parte del soggetto, infatti, quando questo raggiunge il limite massimo entro cui può manifestare quella forma, a modo proprio, ad esempio quando si dice che l’aria non può aumentare di calore una volta raggiunto il massimo grado di calore possibile nella sua natura, anche se in realtà possa esistere un calore ancora maggiore, come quello del fuoco. Ma da parte della forma stessa, la possibilità di aumento viene esclusa quando il soggetto raggiunge la perfezione massima che quella forma può naturalmente alcanzare; ad esempio, si dice che il calore del fuoco non possa aumentare perché non esiste grado di calore più perfetto di quello a cui il fuoco arriva. Ora, la misura propria della grazia, come quella di altre forme, è determinata dalla saggezza divina, secondo quanto si legge in Sapienza 11:21: “Hai ordinato tutte le cose in numero, peso e misura”. E a ciascuna forma viene assegnata una misura in relazione al suo fine; così come non esiste gravità maggiore di quella terrestre, perché non esiste luogo più basso del suolo. Il fine della grazia è dunque l’unione della creatura razionale con Dio. Ma non può esistere un’unione più perfetta tra la creatura razionale e Dio di quella che si realizza nella Persona divina. Ecco perché la grazia di Cristo ha raggiunto il massimo grado di grazia possibile; pertanto è evidente che essa non possa aumentare, né da parte della forma stessa né da parte del soggetto che la riceve. Cristo, infatti, fin dal momento della sua concezione, era già una vera e completa realizzazione di quella grazia. Pertanto non poteva esserci alcun aumento della sua grazia, così come non può essercene per gli altri beati, i quali hanno già raggiunto il loro fine ultimo. Per quanto riguarda gli uomini che sono ancora nel cammino verso la perfezione, la loro grazia può aumentare sia da parte della forma stessa, poiché non hanno ancora raggiunto il massimo grado di essa, sia da parte del soggetto che la riceve, poiché non hanno ancora raggiunto il loro fine ultimo.
+
+Risposta all’Obiezione 1: Se parliamo di quantità matematiche, l’addizione può essere effettuata su qualsiasi quantità finita, poiché non esiste nulla nella natura delle quantità finite che si opponga all’operazione dell’addizione. Tuttavia, se parliamo di quantità naturali, può esserci un ostacolo rappresentato dalla forma specifica a cui appartiene una determinata quantità, proprio come altri attributi sono determinati da particolari caratteristiche delle cose stesse. Per questo motivo il Filosofo afferma (nel De Anima ii, 41) che “esiste naturalmente un limite massimo per tutte le cose, nonché un confine fisso per la loro grandezza e l’aumento”. Di conseguenza, non è possibile effettuare alcuna aggiunta alla quantità totale di una realtà naturale. Ancora di più, dobbiamo riconoscere che esiste un limite intrinseco anche nelle stesse forme delle cose, al di là del quale esse non possono espandersi. Pertanto, non è necessario che la grazia di Cristo possa essere soggetta ad aggiunte, anche se essa è di natura finita.
+
+Risposta all’Obiezione 2: Sebbene il potere divino possa rendere qualcosa più grande e migliore della grazia abituale di Cristo, non potrebbe tuttavia renderlo idoneo a qualcosa di maggiore della unione personale con il Figlio Unigenito del Padre; e per questa unione, secondo la volontà della saggezza divina, la misura della grazia è sufficiente.
+
+Risposta all’Obiezione 3: Chiunque può aumentare in saggezza e grazia in due modi. Primo, nel senso che le stesse abitudini di saggezza e grazia vengono rafforzate; e in questo modo Cristo non aumentò affatto. Secondo, per quanto riguarda gli effetti concreti, cioè nel senso che compie opere sempre più sagge e meritevoli; ed è in questo modo che Cristo aumentò in saggezza e grazia, proprio come aumentò in età, poiché nel corso del tempo compì opere sempre più perfette per dimostrare di essere veramente un uomo, sia nelle cose di Dio che in quelle degli uomini.
 
 <span class="atom-split" data-atom="063" data-title="Whether the habitual grace of Christ followed after the union?" data-chapter="Whether the habitual grace of Christ followed after the union?" data-kind="atom" data-srclang="en"></span>
 
@@ -3495,6 +4379,24 @@ Reply to Objection 3: Although Christ drew the matter of His body from other men
 draw from Him the immortal life of their body, according to 1 Cor. 15:22: "And as in Adam all
 die, so also in Christ all shall be made alive."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo non sia il Capo degli uomini in relazione ai loro corpi. Infatti, si dice che Cristo sia il Capo della Chiesa nel senso che dona alla Chiesa la capacità di comprendere spiritualmente e di ricevere i doni della grazia. Ma un corpo non è in grado di possedere queste qualità spirituali. Pertanto, Cristo non è il Capo degli uomini in relazione ai loro corpi.
+
+Obiezione 2: Inoltre, condividiamo i corpi con gli animali brutali. Pertanto, se Cristo fosse stato la Testa degli uomini in termini di corpo, ne conseguirebbe che fosse anche la Testa degli animali brutali; e questo non è appropriato.
+
+Obiezione 3: Inoltre, Cristo prese il proprio corpo da altri uomini, come risulta chiaramente da Matteo 1 e Luca 3. Ma la testa è il primo tra i membri, come già detto in precedenza (A[1], ad 3). Pertanto, Cristo non è la Testa della Chiesa in termini di corpi umani.
+
+Al contrario, è scritto (Filosofi 3:21): “Chi potrà riformare il corpo della nostra umiltà, fatto simile al corpo della Sua gloria?”
+
+Rispondo che il corpo umano ha una relazione naturale con l’anima razionale, la quale ne è la forma propria e il motore. Poiché l’anima rappresenta la sua forma, il corpo riceve da essa la vita e le altre proprietà specifiche dell’uomo; ma poiché l’anima agisce come motore del corpo, quest’ultimo funge da strumento al suo servizio. Pertanto dobbiamo ritenere che la umanità di Cristo possedesse il potere di “influenzare” tutti, sia nell’anima che nel corpo; ma principalmente nell’anima e in secondo luogo nel corpo. Primo, perché i “membri del corpo” vengono considerati strumenti della giustizia nell’anima che vive attraverso Cristo, come afferma l’Apostolo (Romani 6:13); secondo, perché la vita di gloria fluisce dall’anima verso il corpo, secondo Romani 8:11: “Colui che ha risuscitato Gesù dai morti darà anche vita ai vostri corpi mortali, per mezzo dello Spirito suo che è in voi”.
+
+Risposta all’Obiezione 1: Il senso spirituale della grazia non agisce prima e principalmente sul corpo, ma in modo secondario e strumentale, come è stato detto sopra.
+
+Risposta all’Obiezione 2: Il corpo di un animale non ha alcuna relazione con un’anima razionale, come invece avviene per il corpo umano. Pertanto, non esiste alcuna analogia tra i due casi.
+
+Risposta all’Obiezione 3: Sebbene Cristo abbia tratto la materia del Suo corpo da altri uomini, tuttavia tutti ricevono da Lui la vita immortale del proprio corpo, secondo 1 Corinzi 15:22: “E così come in Adamo tutti muoiono, così anche in Cristo tutti saranno resi vivi”.
+
 <span class="atom-split" data-atom="066" data-title="Whether Christ is the Head of all men?" data-chapter="Whether Christ is the Head of all men?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ is not the Head of all men. For the head has no relation
@@ -3555,6 +4457,24 @@ to the reality, as is clear from the Philosopher (De Memor. et Remin. ii). Hence
 by observing the legal sacraments, were borne to Christ by the same faith and love whereby we
 also are borne to Him, and hence the ancient Fathers belong to the same Church as we.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo non sia la Testa di tutti gli uomini. Infatti, la testa ha relazione soltanto con i membri del suo corpo. Ora, i non battezzati non fanno parte della Chiesa, che è il corpo di Cristo, come si legge in Efesini 1:23. Pertanto, Cristo non è la Testa di tutti gli uomini.
+
+Obiezione 2: Inoltre, l’Apostolo scrive agli Efesini (5:25,27): “Cristo si è sacrificato per la Chiesa, affinché potesse presentarla a Sé come una Chiesa gloriosa, senza macchia, senza ruga o alcun difetto simile”. Tuttavia, molti fedeli presentano macchie o difetti derivanti dal peccato. Pertanto, Cristo non può essere considerato il Capo di tutti i fedeli.
+
+Obiezione 3: Inoltre, i sacramenti dell’[Antico Testamento](/concepts/divine_law) vengono paragonati a Cristo come l’ombra al corpo, come è scritto in (Colossesi 2:17). Ma i padri dell’Antico Testamento, nel loro tempo, rendevano culto a questi sacramenti, secondo quanto si legge in Ebrei 8:5: “Coloro che rendono culto all’esempio e all’ombra delle cose celesti”. Pertanto, questi sacramenti non riguardavano il corpo di Cristo; quindi Cristo non può essere considerato la Testa di tutti gli uomini.
+
+Al contrario, è scritto (1 Timoteo 4:10): “Chi è il Salvatore di tutti gli uomini, soprattutto dei fedeli”, e (1 Giovanni 2:2): “Lui è la propiziazione per i nostri peccati, non solo per i nostri, ma anche per quelli di tutto il mondo”. Ora, salvare gli uomini e essere una propiziazione per i loro peccati appartiene a Cristo in qualità di Capo. Pertanto, Cristo è il Capo di tutti gli uomini.
+
+Rispondo che questa è la differenza tra il corpo naturale dell’uomo e il corpo mistico della Chiesa: i membri del corpo naturale sono tutti uniti tra loro, mentre i membri del corpo mistico non lo sono – né in termini di essere naturale, poiché il corpo della Chiesa è composto da coloro che esistono dal principio fino alla fine del mondo, né in termini di essere soprannaturale, poiché tra coloro che esistono in un determinato momento, alcuni sono privi di grazia, ma la otterranno in seguito, mentre altri già la possiedono. Pertanto dobbiamo considerare i membri del corpo mistico non solo come sono attualmente, ma anche come potenzialmente possono essere. Tuttavia, alcuni sono in potenza senza mai diventare realtà, mentre altri lo diventano in un determinato momento; e ciò avviene secondo tre categorie: la prima attraverso la fede, la seconda attraverso la carità di questa vita, la terza attraverso la realizzazione della vita futura. Quindi possiamo dire che, se consideriamo l’intero arco del tempo umano, Cristo è il Capo di tutti gli uomini, ma in modi diversi: innanzitutto, è il Capo di coloro che sono uniti a Lui per gloria; in secondo luogo, di coloro che sono effettivamente uniti a Lui attraverso la carità; in terzo luogo, di coloro che sono effettivamente uniti a Lui attraverso la fede; in quarto luogo, di coloro che sono uniti a Lui solo in potenza, e che quindi non lo sono ancora realmente, ma lo diventeranno secondo la divina [predestinazione](/concepts/predestination); infine, di coloro che sono uniti a Lui in potenza, ma che mai lo saranno realmente: si tratta degli uomini esistenti nel mondo che non sono predestinati a tale unione, e i quali, al momento della loro morte, cessano completamente di essere membri di Cristo, poiché non possiedono più la possibilità di esserne uniti.
+
+Risposta all’Obiezione 1: Coloro che non sono battezzati, sebbene non appartengano effettivamente alla Chiesa, ne fanno parte potenzialmente. E questa possibilità si basa su due elementi: innanzitutto, sulla potenza di Cristo, che è sufficiente per la salvezza di tutta l’umanità; in secondo luogo, sul libero arbitrio.
+
+Risposta all’Obiezione 2: Essere “una Chiesa gloriosa, priva di macchie o imperfezioni” è lo scopo finale verso cui ci conduce la Passione di Cristo. Pertanto, questo avverrà in cielo, e non sulla terra, dove “se diciamo di non avere peccati, ci inganniamo”, come è scritto (1 Gv 1:8). Tuttavia, vi sono alcuni che, pur essendo membri di Cristo per l’unione effettiva dell’amore, sono liberi da alcuni peccati mortali; ma coloro che sono contaminati da tali peccati non sono membri di Cristo in modo effettivo, bensì potenziale. Forse, però, in modo imperfetto, attraverso una fede informe che li unisce a Dio in modo relativo, ma non semplicemente; cioè in modo tale che l’uomo possa partecipare alla vita di grazia. Come infatti è scritto (Giacomo 2:20): “La fede senza opere è morta”. Tuttavia, questi individui ricevono da Cristo un atto vitale fondamentale: credere, come se un arto inanimato fosse mosso da una persona.
+
+Risposta all’Obiezione 3: I Santi Padri utilizzavano i sacramenti legittimi non come realtà, ma come immagini e ombre di ciò che sarebbe avvenuto in futuro. Ora, il rapporto tra un’immagine e la sua realtà corrisponde esattamente a quello descritto dal Filosofo nel “De Memor. et Remin.” II. Pertanto, i Santi Padri antichi, osservando questi sacramenti legittimi, furono condotti verso Cristo attraverso la stessa fede e lo stesso amore che anche noi utilizziamo per avvicinarci a Lui; da ciò si deduce che anch’essi appartenevano alla stessa Chiesa di noi.
+
 <span class="atom-split" data-atom="067" data-title="Whether Christ is the Head of the angels?" data-chapter="Whether Christ is the Head of the angels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ as man is not the head of the angels. For the head and
@@ -3604,6 +4524,24 @@ corporeal things act on bodies, and spiritual things on spiritual things. Nevert
 of Christ, by virtue of the spiritual nature, i.e. the Divine, can cause something not only in the spirits
 of men, but also in the spirits of angels, on account of its most close conjunction with God, i.e. by
 personal union.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo, in quanto uomo, non sia il capo degli angeli. Infatti, la testa e i membri appartengono alla stessa natura; ma Cristo, in quanto uomo, non ha la stessa natura degli angeli, bensì solo degli uomini. Come è scritto nell’Epistola agli Ebrei (2:16): “In nessun luogo si rivolge agli angeli, ma soltanto alla discendenza di Abramo”. Pertanto, Cristo, in quanto uomo, non è il capo degli angeli.
+
+Obiezione 2: Inoltre, Cristo è il capo di coloro che appartengono alla Chiesa, la quale è il Suo Corpo, come si legge in Efesini 1:23. Ma gli angeli non appartengono alla Chiesa. La Chiesa, infatti, è la congregazione dei fedeli; negli angeli, invece, non esiste fede, poiché essi “non camminano per fede” ma “per vista”; altrimenti sarebbero “assenti dal Signore”, come afferma l’Apostolo in 2 Corinzi 5:6-7. Pertanto, Cristo, in quanto uomo, non è il capo degli angeli.
+
+Obiezione 3: Inoltre, [Agostino](/figures/augustine) afferma (Trattati xix; xxiii in Giovanni) che, così come la “Parola” che “era all’inizio con il Padre” dà vita alle anime, anche la “Parola fatta carne” dà vita ai corpi, cosa che gli angeli non possiedono. Ma la Parola fatta carne è Cristo in quanto uomo. Pertanto, Cristo in quanto uomo non dona la vita agli angeli e, di conseguenza, in quanto uomo non è il capo degli angeli.
+
+Al contrario, l’Apostolo afferma (Colossesi 2:10): “Chi è la testa di ogni principato e potere, ”, e lo stesso ragionamento vale anche per le altre gerarchie degli angeli. Pertanto, Cristo è la testa degli angeli.
+
+Rispondo che, come detto in precedenza (A[1], ad 2), dove esiste un corpo, dobbiamo ammettere che esista anche una testa. Ora, un insieme di persone destinate a uno stesso scopo, con compiti e funzioni distinte, può essere metaforicamente definito un corpo unico. È evidente però che sia gli uomini che gli angeli sono destinati allo stesso fine: la gloria della realizzazione divina. Pertanto, il corpo mistico della Chiesa è composto non solo da uomini ma anche da angeli. In tutto questo insieme, Cristo è la testa: Egli è più vicino a Dio e condivide i Suoi doni in modo più completo non solo degli uomini, ma persino degli angeli; inoltre, della Sua influenza partecipano sia gli uomini che gli angeli, poiché è scritto (Efesini 1:20-22) che Dio Padre ha “posto Cristo alla Sua destra nei cieli, al di sopra di ogni principato, potere, virtù, dominio e di ogni nome che sia stato nominato, non solo in questo mondo, ma anche in quello che verrà; e Egli ha sottomesso tutte le cose ai suoi piedi”. Pertanto, Cristo è non solo la testa degli uomini, ma anche degli angeli. Ecco perché leggiamo (Matteo 4:11) che “gli angeli vennero a servirlo”.
+
+Risposta all’Obiezione 1: L’influenza di Cristo sugli uomini riguarda principalmente le loro anime; in questo ambito gli uomini condividono con gli angeli una natura generale, sebbene non anche una natura specifica. Per questa somiglianza, si può dire che Cristo sia il Capo degli angeli, anche se tale somiglianza non si estende al piano fisico.
+
+Risposta all’Obiezione 2: La Chiesa, sulla terra, è la congregazione dei fedeli; ma in cielo, è la congregazione di coloro che comprendono pienamente il significato delle verità divine. Ora, Cristo non fu soltanto un viandante lungo il cammino della fede, ma colui che comprese appieno tali verità. Pertanto, Egli è il Capo non solo dei fedeli, ma anche di coloro che comprendono pienamente la volontà di Dio, poiché possiede in modo supremo grazia e gloria.
+
+Risposta all’Obiezione 3: Agostino utilizza qui l’analogia tra causa ed effetto, cioè nel senso in cui le cose corporee agiscono su corpi e le cose spirituali su altre cose spirituali. Tuttavia, l’umanità di Cristo, grazie alla sua natura spirituale, ovvero a quella divina, può produrre effetti non solo negli spiriti degli uomini, ma anche negli spiriti degli angeli, in virtù della sua stretta unione con Dio, cioè attraverso l’unità personale.
 
 <span class="atom-split" data-atom="068" data-title="Whether the grace of Christ, as Head of the Church, is the same as His habitual grace, inasmuch as He is Man?" data-chapter="Whether the grace of Christ, as Head of the Church, is the same as His habitual grace, inasmuch as He is Man?" data-kind="atom" data-srclang="en"></span>
 
@@ -3658,6 +4596,24 @@ in the essence of the habit; but the grace of union does not, although the perso
 called in a manner the grace of union, inasmuch as it brings about a fitness for the union; and thus
 the grace of union, the capital, and the personal grace are one in essence, though there is a distinction
 of reason between them.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la grazia per mezzo della quale Cristo è Capo della Chiesa e la grazia individuale dell’Uomo non siano la stessa cosa. Infatti l’Apostolo dice (Romani 5:15): “Se per la colpa di uno molti morirono, tanto più la grazia di Dio e il dono, per mezzo della grazia di un uomo solo, Gesù Cristo, sono stati riversati su molti”. Ma il peccato effettivo di Adamo è diverso dall’[peccato originale](/positions/original_sin) che egli trasmise alla sua discendenza. Pertanto, la grazia personale propria a Cristo è distinta dalla Sua grazia in quanto Lui è il Capo della Chiesa, e questa grazia fluisce da Lui verso gli altri.
+
+Obiezione 2: Inoltre, le abitudini si distinguono in base agli atti che vengono compiuti. Ma la grazia personale di Cristo è destinata a un solo atto, ovvero alla santificazione della Sua anima; mentre la grazia principale è destinata a un altro scopo, cioè a santificare gli altri. Pertanto, la grazia personale di Cristo è distinta dalla Sua grazia nel ruolo che Egli svolge come Capo della Chiesa.
+
+Obiezione 3: Inoltre, come è stato detto sopra (Q[6], A[6]), in Cristo si distingue una triplice grazia: la grazia dell’unione, la grazia principale e la grazia individuale di Cristo come Uomo. Ora, la grazia individuale di Cristo è diversa dalla grazia dell’unione; pertanto, è anche diversa dalla grazia principale.
+
+Al contrario, è scritto (Giovanni 1:16): “Della Sua pienezza tutti noi abbiamo ricevuto”. Ora Lui è la nostra Testa, poiché riceviamo da Lui; pertanto è la nostra Testa perché possiede la pienezza della grazia. Egli ha avuta la pienezza della grazia perché in Lui la grazia personale era nella sua perfezione, come detto sopra (Q[7], A[9]). Pertanto, la Sua grazia principale e quella personale non sono distinte.
+
+Rispondo che, poiché tutto agisce nella misura in cui è un essere attivo, deve trattarsi dello stesso atto con il quale esiste e con il quale agisce, proprio come lo stesso calore rende il fuoco caldo e lo fa funzionare come fonte di calore. Tuttavia, non ogni atto attraverso il quale qualcosa agisce è sufficiente affinché tale cosa possa diventare la causa dell’azione altrui. Poiché l’agente è più nobile del soggetto su cui agisce, come affermano [Agostino](/figures/augustine) (Genesi ad litteram xii, 16) e il Filosofo ([Anima](/concepts/soul) iii, 19), l’agente deve agire sull’altro in base a una certa superiorità. Come già detto in precedenza ([A[1]; Q[7], A[9), la grazia fu ricevuta dall’anima di Cristo nel modo più elevato; pertanto, proprio a causa di questa superiorità della grazia che Egli ricevette, è da Lui che questa grazia viene concessa agli altri – e questo costituisce una caratteristica essenziale del Suo ruolo di Capo della Chiesa. Quindi, la grazia personale con cui l’anima di Cristo viene giustificata è essenzialmente la stessa grazia di Cristo stesso; poiché Egli è il Capo della Chiesa e giustifica gli altri, esiste tuttavia una distinzione logica tra queste due forme di grazia.
+
+Risposta all’Obiezione 1: Il peccato originale in Adamo, che è un peccato della natura, deriva dal suo peccato effettivo, che è un peccato personale; infatti, in lui la natura è stata corrotta dalla persona stessa. Attraverso questa corruzione, il peccato del primo uomo viene trasmesso alla posterità, poiché la natura corrotta contamina la persona umana. Ora, la grazia non ci viene concessa attraverso la [natura umana](/axes/human_nature), ma unicamente per l’azione personale di Cristo stesso. Pertanto, non dobbiamo distinguere due tipi diversi di grazia in Cristo: uno relativo alla natura e l’altro relativo alla persona, proprio come in Adamo distinguiamo il peccato della natura dal peccato della persona.
+
+Risposta all’Obiezione 2: Azioni diverse, di cui una è la ragione e la causa dell’altra, non diversificano una [abitudine](/concepts/custom). L’azione della grazia personale, che ha lo scopo formale di santificare colui a cui viene concessa, rappresenta la ragione della giustificazione altrui, e questa giustificazione riguarda la grazia capitale. Pertanto, l’essenza dell’abitudine non viene modificata da tale differenza.
+
+Risposta all’Obiezione 3: La grazia personale e la grazia capitale sono destinate a un atto specifico; ma la grazia dell’unione non è destinata a un atto, bensì all’esistenza personale stessa. Pertanto, la grazia personale e la grazia capitale condividono essenzialmente lo stesso carattere; la grazia dell’unione, invece, no. Tuttavia, la grazia personale può essere considerata, in un certo senso, anche grazia dell’unione, poiché contribuisce a rendere possibile tale unione. Così, la grazia dell’unione, la grazia capitale e la grazia personale sono una cosa nella loro essenza, sebbene esista una distinzione razionale tra di esse.
 
 <span class="atom-split" data-atom="069" data-title="Whether it is proper to Christ to be Head of the Church?" data-chapter="Whether it is proper to Christ to be Head of the Church?" data-kind="atom" data-srclang="en"></span>
 
@@ -3767,6 +4723,24 @@ death came into the world. And they follow him that are of his side."
 Reply to Objection 3: All sins agree in aversion from God, although they differ by conversion
 to different changeable goods.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il diavolo non sia la testa dei malvagi. Infatti, spetta alla “testa” diffondere sensazione e movimento nei membri, come afferma un commento su Efesini 1:22: “E lo fece capo, ” Ma il diavolo non possiede il potere di diffondere il male del peccato, che deriva dalla volontà del peccatore stesso. Pertanto, il diavolo non può essere chiamato la testa dei malvagi.
+
+Obiezione 2: Inoltre, ogni peccato rende l’uomo malvagio. Ma non tutti i peccati provengono dal diavolo; ciò è evidente nei casi dei demoni, che non hanno commesso peccati per la persuasione altrui; allo stesso modo, non tutti i peccati umani derivano dal diavolo, poiché si dice (De Eccles. Dogm. lxxxii): “Non tutti i nostri pensieri malvagi sono sempre ispirati dal suggerimento del diavolo; a volte scaturiscono invece dall’azione della nostra volontà”. Pertanto, il diavolo non è la causa di tutti i mali.
+
+Obiezione 3: Inoltre, una sola testa è posta su un solo corpo. Ma l’intera moltitudine dei malvagi non sembra avere nulla che li unisca, poiché il male è contrario al male stesso e deriva da diversi difetti, come afferma Dionigi (Div. Nom. iv). Pertanto, il diavolo non può essere considerato la testa di tutti i malvagi.
+
+Al contrario, un commento di San Gregorio Magno, nel libro XIV delle Morali, a proposito del versetto della Genesi 18:17 (“Che il ricordo di lui perisca dalla terra”), afferma: “Ciò si dice di ogni persona malvagia, ma in realtà si riferisce al diavolo”.
+
+Rispondo che, come già detto sopra (A[6]), la testa non solo influisce interiormente sui membri, ma li governa anche esteriormente, dirigendo le loro azioni verso un fine preciso. Pertanto si può affermare che chiunque sia il capo di una moltitudine, sia in termini di influenza interna che di governo esterno; così Cristo è il Capo della Chiesa, come dichiarato (A[6]); oppure, in termini di governo esterno, ogni principe o prelato è il capo delle persone sottoposte al suo potere. In questo modo anche il diavolo è il capo di tutti i malvagi. Infatti, come si legge in Giobbe 41:25: “Lui regna su tutti i figli dell’orgoglio”. Ora, spetta a un governante guidare coloro che sono sotto la sua autorità verso il loro fine; ma lo scopo del diavolo è allontanare la creatura razionale da Dio; perciò fin dall’inizio ha cercato di impedire all’uomo di obbedire ai comandamenti divini. Tuttavia, questo allontanamento da Dio ha natura di fine ultimo, poiché viene perseguito sotto l’apparenza della libertà, come si legge in Geremia 2:20: “Fin dai tempi antichi hai spezzato il mio giogo, hai rotto le mie catene e hai detto: ‘Non servirò’”. Pertanto, poiché alcuni raggiungono questo scopo attraverso il peccato, cadono sotto il dominio e il governo del diavolo; ed è per questo che viene chiamato il loro capo.
+
+Risposta all’Obiezione 1: Sebbene il diavolo non influenzi interiormente la mente razionale, egli la inganna e la spinge al male attraverso la persuasione.
+
+Risposta all’Obiezione 2: Un governante non suggerisce sempre ai suoi sudditi di obbedire alla sua volontà; ma manifesta in modo evidente i segni della sua volontà, e di conseguenza alcuni ne sono indotti ad agire per persuasione, altri invece lo fanno per propria libera scelta. È chiaro questo nel caso del comandante di un esercito: il suo stendardo viene seguito da tutti i soldati, senza che nessuno li convinca a farlo. Pertanto, allo stesso modo, il primo peccato di Satana, che “pecca fin dal principio” (1 Gv 3:8), viene offerto a tutti come modello da seguire; alcuni lo imitano su sua sollecitazione, altri invece per propria volontà, senza alcuna influenza esterna. Ed è proprio per questo che Satana è considerato il capo di tutti i malvagi, poiché essi lo imitano, come si legge nella Sapienza 2:24-25: “Per invidia di Satana entrò la morte nel mondo; e coloro che sono dalla sua parte lo seguono”.
+
+Risposta all’Obiezione 3: Tutti i peccati condividono l’avversione verso Dio, anche se si differenziano per il loro orientamento verso beni diversi e mutevoli.
+
 <span class="atom-split" data-atom="071" data-title="Whether Anti-christ may be called the head of all the wicked?" data-chapter="Whether Anti-christ may be called the head of all the wicked?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Antichrist is not the head of the wicked. For there are not
@@ -3813,6 +4787,24 @@ Reply to Objection 3: Anti-christ is said to be the head of all the wicked not b
 influence, but by a likeness of perfection. For in him the devil, as it were, brings his wickedness to
 a head, in the same way that anyone is said to bring his purpose to a head when he executes it.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’Anticristo non sia il capo dei malvagi. Infatti, un corpo non può avere più di un capo; inoltre, il diavolo è il capo di tutti i malvagi. Pertanto, l’Anticristo non può essere considerato il loro capo.
+
+Obiezione 2: Inoltre, l’Anticristo è un membro del diavolo. Ora, la testa si distingue dai membri; pertanto, l’Anticristo non è la testa dei malvagi.
+
+Obiezione 3: Inoltre, la testa esercita un’influenza sui membri; ma l’Anticristo non ha alcun ascendente sugli empi che lo hanno preceduto. Pertanto, l’Anticristo non è la “testa” degli empi.
+
+Al contrario, un commento di San Gregorio Magno, nel libro XV delle “Morali”, a proposito del versetto Giobbe 21:29 (“Chiedete ad alcuni di coloro che passano per la strada, ”), afferma: “Mentre parlava del corpo di tutti i malvagi, improvvisamente cambiò argomento e si rivolse ad Anticristo, capo di tutti i malviventi”.
+
+Rispondo che, come detto sopra (A[1]), nella “testa” di ogni essere vi sono tre elementi fondamentali: l’ordine, la perfezione e il potere di influenzare gli altri. Per quanto riguarda l’“ordine” del corpo umano, non si dice che l’Anticristo sia il capo dei malvagi perché il suo peccato sia preceduto da quello del diavolo; né viene definito tale in base al potere di influenzare, anche se nel suo tempo riuscirà a indurre alcuni alla malvagità attraverso la persuasione esteriore. Tuttavia, coloro che lo hanno preceduto non sono stati ingannati da lui né hanno imitato la sua malvagità; pertanto non può essere considerato il capo di tutti i malvagi in questo senso, ma soltanto di alcuni di loro. Resta quindi da chiarire che egli è il capo di tutti i malvagi in virtù della perfezione della propria malvagità. Per questo motivo, riguardo al versetto 2 Tessalonicesi 2:4 (“Si presenta come se fosse Dio”), un commento afferma: “Come in Cristo risiedeva la pienezza della divinità, così nell’Anticristo risiede la pienezza di tutta la malvagità”. Non si tratta certo del fatto che il diavolo abbia assunto l’umanità dell’Anticristo in una unione personale, come il Figlio di Dio ha assunto quella di Cristo; ma piuttosto del fatto che il diavolo, attraverso le sue suggestioni, infonda nella sua natura malvagia una forza maggiore rispetto a qualsiasi altro essere. E in questo senso, tutti i malvagi che sono esistiti prima dell’Anticristo rappresentano dei segni di lui, come si legge nel versetto 2 Tessalonicesi 2:7 (“Poiché il mistero dell’iniquità è già all’opera”).
+
+Risposta all’Obiezione 1: Il diavolo e l’Anticristo non sono due “teste”, ma una sola; poiché l’Anticristo viene chiamato “testa” proprio perché in lui si rispecchia pienamente la malvagità del diavolo. Pertanto, nel 2 Tessalonicesi 2:4, dove si dice che “si mostrerà come se fosse Dio”, un commento afferma: “La ‘testa’ di tutti i malvagi, cioè il diavolo, re di tutti coloro che sono orgogliosi, sarà in lui”. Ora, si dice che il diavolo sia “in” lui non per una unione personale né per una dimora interna, poiché “solo la Trinità dimora nella mente umana” (come si afferma nel De Eccles. Dogm. lxxxiii), ma per l’effetto della sua malvagità.
+
+Risposta all’Obiezione 2: Poiché la testa di Cristo è Dio, eppure Egli è la Testa della Chiesa, come detto sopra (A[1], ad 2), allo stesso modo l’Anticristo è un membro del diavolo eppure è la testa dei malvagi.
+
+Risposta all’Obiezione 3: Si dice che l’Anticristo sia il capo di tutti i malvagi non per una somiglianza nell’influenza, ma per una somiglianza nella perfezione. Poiché in lui il diavolo, per così dire, porta la sua malvagità al suo apice, proprio come si dice che qualcuno porti a compimento il proprio scopo quando lo realizza.
+
 <span class="atom-split" data-atom="072" data-title="OF CHRIST'S KNOWLEDGE IN GENERAL (FOUR ARTICLES)" data-chapter="OF CHRIST'S KNOWLEDGE IN GENERAL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider Christ's knowledge; concerning which the consideration will be twofold.
@@ -3822,6 +4814,16 @@ Under the first head there are four points of inquiry:
 (2) Whether He had the knowledge which the blessed or comprehensors have?
 (3) Whether He had an imprinted or infused knowledge?
 (4) Whether He had any acquired knowledge?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la conoscenza di Cristo; in merito alla quale l’analisi sarà duplice.  
+Innanzitutto, riguardo alla conoscenza di Cristo in generale; in secondo luogo, riguardo a ciascun tipo specifico di conoscenza che Egli possedeva.  
+All’interno della prima categoria di considerazioni vi sono quattro punti da esaminare:  
+(1) Se Cristo possedesse qualche altra conoscenza oltre a quella divina;  
+(2) Se Egli possedesse la conoscenza che appartiene ai beati o agli esseri dotati di una visione completa della verità;  
+(3) Se Egli possedesse una conoscenza innata o infusa direttamente da Dio;  
+(4) Se Egli possedesse qualche conoscenza acquisita attraverso esperienze personali.
 
 <span class="atom-split" data-atom="073" data-title="Whether Christ had any knowledge besides the Divine?" data-chapter="Whether Christ had any knowledge besides the Divine?" data-kind="atom" data-srclang="en"></span>
 
@@ -3885,6 +4887,24 @@ attributed to God, as was said above (Q[3], AA[1],6). But on the part of the uni
 admit any knowledge in Christ. For this union is in personal being, and knowledge belongs to
 person only by reason of a nature.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che in Cristo non esistesse alcuna conoscenza se non quella divina. Infatti, la conoscenza è necessaria affinché le cose possano essere comprese attraverso di essa. Ma grazie alla sua conoscenza divina, Cristo conosceva ogni cosa; pertanto, qualsiasi altra forma di conoscenza sarebbe stata per lui superflua.
+
+Obiezione 2: Inoltre, la luce minore viene oscurata da quella maggiore. Ma tutta la conoscenza creata, rispetto alla conoscenza increata di Dio, è come la luce minore rispetto a quella maggiore. Pertanto, in Cristo non brillò alcuna altra conoscenza se non quella divina.
+
+Obiezione 3: Inoltre, l’unione della [natura umana](/axes/human_nature) con quella Divina ha avuto luogo nella Persona di Cristo, come risulta chiaramente da Q[2], A[2]. Secondo alcuni, in Cristo esiste una certa “conoscenza dell’unione”, grazie alla quale Egli comprendeva più pienamente di chiunque altro i misteri dell’Incarnazione. Pertanto, poiché l’unione personale coinvolge due nature, sembrerebbe che in Cristo non ci siano due conoscenze distinte, ma una sola, comune a entrambe le nature.
+
+Al contrario, Ambrogio afferma (De Incarnat. vii): “Dio assunse la perfezione della natura umana nella carne; prese su di Sé i sensi dell’uomo, ma non le passioni esagerate della carne”. Tuttavia, la conoscenza creata appartiene ai sensi dell’uomo; pertanto, in Cristo esisteva una conoscenza creata.
+
+Rispondo che, come detto sopra (Q[5]), il Figlio di Dio assunse una natura umana completa, cioè non solo un corpo, ma anche un’anima, e non solo un’anima sensibile, ma anche un’anima razionale. Pertanto, era necessario che Egli possedesse la conoscenza, per tre motivi. Primo, a causa della perfezione dell’anima stessa: l’anima, in sé considerata, è nella [potenzialità](/concepts/act_potency) di conoscere le cose intelligibili; è come “una tavoletta su cui nulla è scritto”, ma può essere riempita attraverso l’intelletto umano, diventando così capace di comprendere ogni cosa, come si afferma nel De [Anima](/concepts/soul) iii, 18. Tuttavia, ciò che è in potenzialità rimane imperfetto finché non viene realizzato nell’atto concreto; quindi era appropriato che il Figlio di Dio assumesse una natura umana perfetta, affinché l’intera specie umana potesse essere ricondotta alla perfezione attraverso di Lui. Pertanto, l’anima di Cristo doveva essere perfezionata attraverso la conoscenza, che rappresentava proprio il suo completamento. Era quindi necessario che in Cristo esistesse una conoscenza diversa da quella divina; altrimenti, l’anima di Cristo sarebbe stata più imperfetta di quelle degli altri uomini. Secondo motivo: poiché tutto ha un senso attraverso la propria attività, come si afferma nel De Coel. ii, 17, sarebbe stato inutile che Cristo possedesse un’intelligenza se non l’avesse utilizzata per comprendere le cose; e questa conoscenza appartiene alla sfera della conoscenza creata dall’uomo. Terzo motivo: alcune forme di conoscenza creata sono proprie della natura umana, come quelle che ci permettono di comprendere i principi fondamentali; poiché qui parliamo di conoscenza nel senso più generale, cioè di qualsiasi forma di comprensione posseduta dall’intelletto umano. Ora, nulla di naturale mancava a Cristo, poiché Egli assunse interamente la natura umana, come detto sopra (Q[5]). Per questo motivo, il Sesto Concilio (*Terzo Concilio di Costantinopoli, Atto 4*) condannò l’opinione di coloro che negavano l’esistenza di due forme di conoscenza o saggezza in Cristo.
+
+Risposta all’Obiezione 1: Cristo conosceva tutte le cose grazie alla conoscenza divina, attraverso un atto non creato che costituisce proprio l’Essenza di Dio; poiché la comprensione di Dio è la sua stessa sostanza, come dimostra il Filosofo (Metafisica XII, testo 39). Pertanto, questo atto non poteva appartenere all’anima umana di Cristo, essendo caratteristico di una natura diversa. Quindi, se nell’anima di Cristo non fosse esistita alcuna altra forma di conoscenza, egli non avrebbe saputo nulla; e in tal caso la sua esistenza sarebbe stata del tutto inutile, poiché ogni cosa ha un senso soltanto attraverso il proprio operare.
+
+Risposta all’Obiezione 2: Se si suppone che le due luci siano disposte nello stesso ordine, la minore viene oscurata dalla maggiore, proprio come la luce del sole attenua quella di una candela, poiché entrambe appartengono alla stessa categoria di fonti luminose. Tuttavia, se consideriamo due luci: una appartenente alla categoria delle fonti luminose e l’altra a quella degli oggetti illuminati, la luce minore non viene oscurata dalla maggiore, ma anzi ne viene rafforzata, proprio come la luce dell’aria viene intensificata dalla luce del sole. In questo modo, anche la luce della conoscenza non viene attenuata, ma al contrario viene potenziata nell’anima di Cristo grazie alla luce della conoscenza divina, che è “la vera luce che illumina ogni uomo che viene in questo mondo”, come si legge in Giovanni 1:9.
+
+Risposta all’Obiezione 3: Per quanto riguarda ciò che è unito in Cristo, riteniamo esistere una conoscenza in Lui, sia riguardo alla Sua natura divina che a quella umana; pertanto, a causa dell’unione che rende Dio e l’uomo un’unica ipostasi, le cose di Dio vengono attribuite all’uomo, e le cose dell’uomo vengono attribuite a Dio, come già detto in precedenza (Q[3], AA[1],6). Tuttavia, per quanto riguarda l’unione stessa, non possiamo ammettere l’esistenza di alcuna conoscenza in Cristo. Questa unione, infatti, ha carattere personale, e la conoscenza appartiene alla persona soltanto in relazione a una natura specifica.
+
 <span class="atom-split" data-atom="074" data-title="Whether Christ had the knowledge which the blessed or comprehensors have?" data-chapter="Whether Christ had the knowledge which the blessed or comprehensors have?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in Christ there was not the knowledge of the blessed or
@@ -3933,6 +4953,26 @@ of the rational soul, inasmuch as it cannot reach it of its own strength; but in
 accordance with its nature, inasmuch as it is capable of it by nature, having been made to the likeness
 of God, as stated above. But the uncreated knowledge is in every way above the nature of the human
 soul.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che in Cristo non vi fosse la conoscenza dei beati o dei comprendenti. Infatti, la conoscenza dei beati è una partecipazione alla luce divina, come si legge nel Salmo 35:10: “Nella tua luce vedremo luce”. Ora, Cristo non possedeva una luce ricevuta in modo esterno, ma aveva in sé la stessa Divinità, che risiedeva in Lui in modo sostanziale, come si afferma nella Colossesi 2:9: “In Lui infatti risiede tutta la pienezza della Divinità”. Pertanto, in Cristo non vi era la conoscenza dei beati.
+
+Obiezione 2: Inoltre, la conoscenza dei beati li rende beati, secondo Giovanni 17:3:  
+“Questa è la vita eterna: che conoscano Te, l’unico vero Dio, e Gesù Cristo che Tu hai mandato.” Ma quest’uomo fu reso beato per essere unito a Dio in persona, secondo il Salmo 64:5:  
+“Beato Colui che Tu hai scelto e preso con Te.” Pertanto non è necessario supporre che la conoscenza dei beati risieda in Lui.
+
+Obiezione 3: Inoltre, all’uomo appartiene una doppia forma di conoscenza: una naturale e l’altra trascendente la natura stessa. La conoscenza dei beati, che consiste nella visione di Dio, non è naturale per l’uomo, ma trascende la sua natura. Tuttavia, in Cristo esisteva un’altra forma di conoscenza, ancora più elevata e soprannaturale: la conoscenza divina. Pertanto, in Cristo non vi era alcun bisogno della conoscenza dei beati.
+
+Al contrario, la conoscenza dei beati consiste nella conoscenza di Dio. Ma Egli conosceva pienamente Dio, anche quando era uomo, secondo Giovanni 8:55: “Lo conosco davvero e osservo la Sua parola”. Pertanto, in Cristo esisteva la conoscenza dei beati.
+
+Rispondo che ciò che è in [potenzialità](/concepts/act_potency) viene reso effettivo da ciò che è già in atto; infatti, ciò che riscalda le cose deve esso stesso essere caldo. L’uomo, dunque, possiede il potenziale per conoscere la beatitudine, che consiste nella visione di Dio, e è destinato a raggiungerla come a un fine ultimo; poiché la creatura razionale è in grado di acquisire tale conoscenza beata, essendo stata creata all’immagine di Dio. Gli uomini vengono condotti verso questo scopo della [beatitudine](/positions/beatitude) attraverso l’umanità di Cristo, come si legge in Eb 2:10: “Poiché Egli, per il quale tutte le cose esistono e mediante il quale tutte le cose sono state create, avendo portato molti figli alla gloria, volle perfezionare con la Sua passione colui che è l’autore della loro salvezza”. E quindi era necessario che la conoscenza beata, che consiste nella visione di Dio, appartenesse in modo preminente a Cristo, poiché la causa deve sempre essere più efficace dell’effetto.
+
+Risposta all’Obiezione 1: La Divinità è unita alla umanità di Cristo in Persona, non per essenza o natura; tuttavia, nonostante l’unione in Persona, rimane la distinzione tra le nature. Pertanto, l’anima di Cristo, che appartiene alla [natura umana](/axes/human_nature), viene perfezionata attraverso una luce trasmessa dalla Natura Divina, grazie alla quale può contemplare Dio nella sua essenza stessa.
+
+Risposta all’Obiezione 2: Attraverso questa unione, quest’Uomo è benedetto con la beatitudine increata, proprio come, attraverso questa stessa unione, Egli diventa Dio; tuttavia, oltre alla beatitudine increata, era necessario che nella natura umana di Cristo esistesse anche una beatitudine creata, grazie alla quale la Sua anima potesse essere stabilita nel fine ultimo della natura umana.
+
+Risposta all’Obiezione 3: La visione beatifica e la conoscenza trascendono, in qualche misura, la natura dell’anima razionale, poiché quest’ultima non è in grado di raggiungerle con le proprie forze; tuttavia, in un altro senso, esse sono in armonia con la sua natura, poiché l’anima razionale ne è naturalmente capace, essendo stata creata a immagine di Dio, come già detto. La conoscenza non creatasi, invece, trascende in ogni modo la natura dell’anima umana.
 
 <span class="atom-split" data-atom="075" data-title="Whether Christ had an imprinted or infused knowledge?" data-chapter="Whether Christ had an imprinted or infused knowledge?" data-kind="atom" data-srclang="en"></span>
 
@@ -4000,6 +5040,24 @@ and the Divine Essence is a form exceeding the capacity of any creature whatsoev
 with this super-exceeding form, there is nothing to hinder from being in the rational mind, intelligible
 species, proportioned to its nature.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che in Cristo non esistesse alcun altro tipo di conoscenza, oltre alla conoscenza beata. Infatti, tutte le altre forme di conoscenza, rispetto a quella beata, sono come imperfette rispetto a perfette. Ma la conoscenza imperfetta viene eliminata dalla presenza della conoscenza perfetta; così come la visione chiara e diretta elimina la visione enigmatica della fede, come è chiaro in 1 Corinzi 13:10,12. Poiché, dunque, in Cristo esisteva la conoscenza beata, come detto sopra (A[2]), sembrerebbe che non potesse esserci alcun altro tipo di conoscenza.
+
+Obiezione 2: Inoltre, un modo di conoscenza imperfetto conduce verso uno più perfetto; così come l’opinione, risultato di sillogismi dialettici, conduce verso la scienza, che deriva da sillogismi dimostrativi. Ora, quando si raggiunge la perfezione, non c’è più bisogno di tale disposizione, proprio come non è necessario alcun movimento una volta raggiunto il fine. Pertanto, poiché ogni forma di conoscenza creata può essere paragonata alla conoscenza beata – come ciò che è imperfetto rispetto a ciò che è perfetto, o come una disposizione verso il proprio termine finale – sembra logico concludere che, poiché Cristo possedeva la conoscenza beata, non gli fosse necessaria alcuna altra forma di conoscenza.
+
+Obiezione 3: Inoltre, così come la materia corporea è in [potenzialità](/concepts/act_potency) di assumere forme sensibili, allo stesso modo l’intelletto possibile è in potenzialità di ricevere forme intelligibili. Ora, la materia corporea non può assumerne due contemporaneamente: una più perfetta e l’altra meno perfetta. Pertanto, nemmeno l’anima può acquisire conoscenze duali allo stesso tempo, una più perfetta e l’altra meno perfetta; e da ciò deriva la stessa conclusione di prima.
+
+Al contrario, è scritto (Colossesi 2:3) che in Cristo “sono nascosti tutti i tesori della saggezza e della conoscenza”.
+
+Rispondo che, come già detto sopra (A[1]), era appropriato che la [natura umana](/axes/human_nature) assunta dalla Parola di Dio non fosse imperfetta. Ora, tutto ciò che esiste in potenzialità è imperfetto, a meno che non venga portato all’atto. Ma l’intelletto umano, nella sua condizione passiva, è in potenzialità rispetto a tutte le cose intelligibili; tale intelletto viene portato all’atto attraverso le specie intelligibili, che costituiscono le sue forme complete, come si evince chiaramente da quanto detto nel [Anima](/concepts/soul) iii, 32,38. Pertanto dobbiamo ammettere nell’anima di Cristo una conoscenza infusa: la Parola di Dio, impressa nell’anima di Cristo – che è personalmente unita a Lui – contiene le specie intelligibili di tutte le cose, accessibili all’intelletto umano in potenzialità; proprio come, all’inizio della creazione, la Parola di Dio imprimeva tali specie nell’intelligenza angelica, come chiarisce [Agostino](/figures/augustine) (Genesi ad litteram ii, 8). E quindi, così come negli angeli – secondo Agostino (Genesi ad litteram iv, 22,24,30) – esistono due tipi di conoscenza – una “conoscenza mattutina”, attraverso la quale conoscono le cose nella Parola stessa, e un’altra “conoscenza serale”, attraverso la quale conoscono le cose nella loro natura propria grazie alle specie infuse – allo stesso modo, nell’anima di Cristo esistono una conoscenza divina e ineffabile, attraverso la quale conosce la Parola e le cose contenute in essa; nonché una conoscenza infusa, attraverso la quale conosce le cose nella loro natura propria, grazie alle specie intelligibili adatte all’intelletto umano.
+
+Risposta all’Obiezione 1: La visione imperfetta della fede è essenzialmente opposta alla visione manifesta, poiché è proprio dell’essenza della fede riferirsi a ciò che non si vede, come già detto in precedenza (SS, Q[1], A[4]). Tuttavia, la conoscenza ottenuta attraverso le specie infuse non presenta alcuna opposizione alla conoscenza beata. Pertanto, non esiste alcuna parità tra queste due forme di conoscenza.
+
+Risposta all’Obiezione 2: La disposizione viene intesa come perfezione in due modi: innanzitutto, come un mezzo che conduce alla perfezione; in secondo luogo, come un effetto che deriva dalla perfezione. Ad esempio, il calore dispone la materia a ricevere la forma del fuoco, e una volta che questa forma si manifesta, il calore non scompare, ma rimane come effetto di tale forma. Allo stesso modo, l’opinione derivante da un sillogismo dialettico rappresenta un mezzo verso la conoscenza, che viene acquisita attraverso la dimostrazione; tuttavia, anche dopo aver ottenuto questa conoscenza dimostrativa, può ancora persistere quella derivante dal sillogismo dialettico, come se essa seguisse, per così dire, quella dimostrativa. Questo vale anche per Cristo: insieme alla conoscenza beata, rimane sempre la conoscenza infusa, non come un mezzo verso la [beatazza](/positions/beatitude), ma come qualcosa che viene rafforzato dalla stessa beatazza.
+
+Risposta all’Obiezione 3: La conoscenza beata non è una specie, cioè una somiglianza con l’Essenza Divina o con ciò che è conosciuto nell’Essenza Divina, come risulta chiaramente da quanto detto nel FP, Q[12], A[2]; bensì è una conoscenza immediata dell’Essenza Divina, in quanto l’Essenza Divina stessa si unisce alla mente beata come qualcosa di intelligibile per un essere intelligente; e l’Essenza Divina è una forma che trascende la capacità di qualsiasi creatura. Pertanto, insieme a questa forma sovraordinaria, non esiste nulla che possa impedire che nella mente razionale esistano specie intellegibili, proporzionate alla sua natura.
+
 <span class="atom-split" data-atom="076" data-title="Whether Christ had any acquired knowledge?" data-chapter="Whether Christ had any acquired knowledge?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in Christ there was no empiric and acquired knowledge. For
@@ -4063,6 +5121,24 @@ the same kind cannot be again acquired. But the habit of infused knowledge is of
 as coming down to the soul from on high, and not from phantasms. And hence there is no parity
 between these habits.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che in Cristo non vi fosse alcuna conoscenza empirica o acquisita. Poiché tutto ciò che era appropriato a Cristo, Lui lo possedeva nella maniera più perfetta. Ora, poiché Cristo non si dedicò allo studio delle lettere – attraverso il quale la conoscenza viene acquisita nella sua forma più completa – sembra evidente che Egli non possedesse alcuna conoscenza acquisita. Infatti, si legge nel Vangelo di Giovanni (7:15): “I Giudei rimasero meravigliati e dissero: ‘Come può quest’uomo conoscere la Scrittura, se mai non l’ha studiata?’”. Pertanto, sembra che in Cristo non vi fosse alcuna conoscenza acquisita.
+
+Obiezione 2: Inoltre, nulla può essere aggiunto a ciò che è già completo. Ma la potenza dell’anima di Cristo era piena di specie intellegibili infuse divinamente, come detto sopra (A. 3). Pertanto, nessuna specie acquisita avrebbe potuto aggiungersi alla Sua anima.
+
+Obiezione 3: Inoltre, colui che già possiede l’[abitudine](/concepts/custom) del conoscere non acquisisce alcuna nuova abitudine attraverso ciò che riceve dai sensi (altrimenti due forme della stessa specie esisterebbero contemporaneamente nella stessa cosa); piuttosto, l’abitudine già esistente viene rafforzata e intensificata. Pertanto, poiché Cristo possedeva l’abitudine del conoscimento infuso, non sembra che abbia acquisito una nuova conoscenza attraverso ciò che percepiva con i sensi.
+
+Al contrario, è scritto (Ebrei 5:8): “Poiché. Egli era il Figlio di Dio, imparò l’obbedienza attraverso le sofferenze che subì”, cioè “le esperienze vissute”, afferma un commento. Pertanto, nell’anima di Cristo esisteva una conoscenza empirica, ovvero una conoscenza acquisita attraverso l’esperienza concreta.
+
+Rispondo che, come è evidente da [A1], nulla di ciò che Dio ha insito nella nostra natura mancava rispetto alla [natura umana](/axes/human_nature) così com’è stata formata per mezzo della Parola di Dio. È chiaro infatti che Dio abbia posto nella natura umana non solo un intelletto passivo, ma anche uno attivo; pertanto è necessario affermare che nell’anima di Cristo esistesse non soltanto un intelletto passivo, ma anche uno attivo. Ora, poiché in tutte le altre cose Dio e la natura non operano invano, come dice il Filosofo ([De Coel.], i, 31; ii, 59), tanto meno nell’anima di Cristo può esserci qualcosa di inutile. Ciò che non svolge la propria funzione appropriata è senza dubbio inutile, come si afferma nel [De Coel.], ii, 17. La funzione specifica dell’intelletto attivo consiste nell’rendere intelligibili le specie attraverso l’estrazione di queste dai fantasmi; per questo motivo si dice ([De Anima], iii, 18) che l’intelletto attivo è “quello mediante il quale tutte le cose diventano realtà”. È quindi necessario riconoscere che in Cristo esistessero specie intelligibili ricevute dall’intelletto passivo attraverso l’azione dell’intelletto attivo; ciò significa che in Lui vi era una conoscenza acquisita, quella che alcuni definiscono empirica. E sebbene io abbia espresso questa idea in modo diverso ([Sentenze], iii, D, xiv, A[3]; D, xviii, A[3]), è comunque vero che in Cristo esisteva una conoscenza acquisita, una conoscenza propriamente umana sia per quanto riguarda il soggetto che la riceveva, sia per quanto riguarda la causa attiva che la generava. Tale conoscenza derivava infatti dall’intelletto attivo di Cristo, che è naturale all’anima umana. La conoscenza infusa, invece, viene attribuita all’anima in virtù di una luce proveniente dall’alto; questo modo di conoscere è adatto alla natura angelica. Quanto alla conoscenza beata, quella mediante la quale si può contemplare l’Essenza stessa di Dio, essa è propria e naturale esclusivamente a Dio, come si afferma nel [FP], Q[12], A[4].
+
+Risposta all’Obiezione 1: Poiché esistono due modi per acquisire conoscenza – attraverso la scoperta e attraverso l’insegnamento – il modo della scoperta è considerato il più nobile, mentre quello dell’insegnamento è secondario. Per questo si dice nell’Etica (I, 4): “Colui che conosce tutto da solo è davvero il migliore; tuttavia, anche colui che obbedisce a chi parla rettamente è buono”. Ecco perché era più appropriato che Cristo possedesse una conoscenza acquisita attraverso la scoperta piuttosto che attraverso l’insegnamento, soprattutto considerando che Egli fu destinato ad essere il Maestro di tutti, secondo quanto dice Gioele 2:23: “Rallegratevi nel Signore vostro Dio, perché vi ha dato un Maestro di giustizia”.
+
+Risposta all’Obiezione 2: La mente umana ha due tipi di relazioni: una riguarda le cose superiori, e in questo senso l’anima di Cristo era piena di conoscenza infusa. L’altra relazione riguarda le cose inferiori, cioè i fantasmi, che naturalmente influenzano la mente umana attraverso l’intelletto attivo. Era necessario che anche in questo ambito l’anima di Cristo fosse colma di conoscenza: non perché la prima forma di pienità fosse insufficiente per la mente umana in sé, ma perché era opportuno che essa fosse anche perfezionata riguardo ai fantasmi.
+
+Risposta all’Obiezione 3: Le abitudini acquisite e quelle infuse non devono essere classificate insieme; infatti, l’abitudine alla conoscenza viene acquisita attraverso la relazione tra la mente umana e i fantasmi; pertanto, un’altra abitudine dello stesso tipo non può essere nuovamente acquisita. Tuttavia, l’abitudine alla conoscenza infusa è di natura diversa, poiché discende nell’anima da fonti superiori, e non dai fantasmi. Ecco perché non esiste alcuna equivalenza tra queste due tipologie di abitudini.
+
 <span class="atom-split" data-atom="077" data-title="OF THE BEATIFIC KNOWLEDGE OF CHRIST'S SOUL (FOUR ARTICLES)" data-chapter="OF THE BEATIFIC KNOWLEDGE OF CHRIST'S SOUL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Now we must consider each of the aforesaid knowledges. Since, however, we have treated of
@@ -4075,6 +5151,14 @@ of Christ. Under this head there are four points of inquiry:
 (2) Whether it knew all things in the Word?
 (3) Whether the soul of Christ knew the infinite in the Word?
 (4) Whether it saw the Word or the Divine Essence clearer than did any other creature?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora dobbiamo considerare ciascuna delle suddette conoscenze. Tuttavia, poiché abbiamo già trattato della conoscenza divina nel FP, Q[14], rimane da parlare delle altre tre: (1) della conoscenza beata; (2) della conoscenza infusa; (3) della conoscenza acquisita. Ma, dato che nel FP, Q[12] è stato detto molto sulla conoscenza beata, che consiste nella visione di Dio, qui parleremo soltanto di ciò che appartiene propriamente all’anima di Cristo. In questo ambito vi sono quattro punti da esaminare:  
+(1) Se l’anima di Cristo abbia compreso la Parola o l’Essenza Divina;  
+(2) Se conoscesse tutte le cose contenute nella Parola;  
+(3) Se conoscesse l’infinito attraverso la Parola;  
+(4) Se vedesse la Parola o l’Essenza Divina in modo più chiaro di qualsiasi altra creatura.
 
 <span class="atom-split" data-atom="078" data-title="Whether the soul of Christ comprehended the Word or the Divine Essence?" data-chapter="Whether the soul of Christ comprehended the Word or the Divine Essence?" data-kind="atom" data-srclang="en"></span>
 
@@ -4125,6 +5209,24 @@ reason of which all that is said of the Son of God in His Divine Nature is also 
 Man on account of the identity of suppositum. And in this way it may be said that the Son of Man
 is a comprehensor of the Divine Essence, not indeed by His soul, but in His Divine Nature; even
 as we may also say that the Son of Man is the Creator.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’anima di Cristo abbia compreso, e comprenda ancora oggi, la Parola o l’Essenza Divina. Infatti Isidoro afferma (De Summo Bono i, 3) che “la Trinità è conosciuta soltanto da Sé stessa e dall’Uomo assunto”. Pertanto, l’Uomo assunto comunica con la Santissima Trinità attraverso quella conoscenza di Sé stessa che è propria della Trinità. Ora, questa conoscenza è proprio quella di comprensione. Quindi, l’anima di Cristo comprende davvero l’Essenza Divina.
+
+Obiezione 2: Inoltre, essere uniti a Dio nella sua essenza personale è qualcosa di molto più significativo rispetto all’essere uniti a Lui attraverso la visione. Ma come afferma Damasceno (De Fide Orthodossa iii, 6), “l’intera divinità, in una sola Persona, è unita alla [natura umana](/axes/human_nature) in Cristo”. Pertanto, è ancora più vero che l’anima di Cristo possa contemplare l’intera Natura Divina; da ciò si potrebbe dedurre che l’anima di Cristo comprenda effettivamente l’Essenza Divina stessa.
+
+Obiezione 3: Inoltre, ciò che per natura appartiene al Figlio di Dio appartiene per grazia anche al Figlio dell’Uomo, come afferma [Agostino](/figures/augustine) (De Trinitate i, 13). Ma comprendere l’Essenza Divina è qualcosa che per natura appartiene al Figlio di Dio; pertanto, per grazia deve appartenere anche al Figlio dell’Uomo. Quindi sembra che l’anima di Cristo abbia compreso l’Essenza Divina per grazia.
+
+Al contrario, Agostino afferma (Qq. lxxxiii, qu. 14): “Tutto ciò che si comprende da sé stesso è finito rispetto a se stesso.” Ma l’Essenza Divina non è finita rispetto all’anima di Cristo, poiché la supera infinitamente. Pertanto, l’anima di Cristo non comprende il Verbo.
+
+Rispondo che, come è chiaro da Q[2], AA[1],6, l’unione delle due nature nella Persona di Cristo avvenne in modo tale che le proprietà di entrambe le nature rimasero ine confuse; cioè “quello che è increato rimase increato, e ciò che è creato rimase entro i limiti della creazione”, come afferma Damasceno (De Fide Orth. iii, 3,4). Ora, è impossibile per qualsiasi creatura comprendere l’Essenza Divina, come dimostrato in FP, Q[12], AA[1],4,7, poiché l’infinito non può essere compreso dal finito. Pertanto, si deve affermare che l’anima di Cristo non comprende affatto l’Essenza Divina.
+
+Risposta all’Obiezione 1: L’uomo considerato in questo contesto è ritenuto parte della Divina Trinità nella conoscenza che essa ha di sé stessa; non certo in termini di comprensione, ma a causa di una certa conoscenza estremamente eccellente, superiore a quella delle altre creature.
+
+Risposta all’Obiezione 2: Nemmeno nell’unione personale l’essenza umana riesce a comprendere la Parola di Dio o la Natura Divina; poiché, sebbene Dio si sia unito completamente all’essenza umana nella Persona del Figlio, tutta la potenza della divinità non è stata limitata dall’essenza umana. Pertanto Agostino afferma (Epistola ad Volusianum, cxxxvii): “Voglio che si sappia chiaramente che non è la dottrina cristiana a sostenere che Dio si sia unito alla carne in modo da abbandonare o perdere il controllo sul governo del mondo, né che tale unione abbia ridotto o limitato le sue funzioni quando le ha trasferite in quel piccolo corpo umano”. Allo stesso modo, l’anima di Cristo può vedere l’intera Essenza di Dio, ma non la comprende completamente; poiché non la percepisce nella sua totalità, cioè non nel modo perfetto in cui essa è realmente conoscibile, come si afferma nell’FP, Q[12], A[7].
+
+Risposta all’Obiezione 3: Questa dichiarazione di Agostino va intesa in riferimento alla grazia dell’unione, per mezzo della quale tutto ciò che si dice del Figlio di Dio nella Sua Natura Divina si può anche dire del Figlio dell’Uomo, a causa dell’identità dei loro “suppositi” (cioè delle loro nature essenziali). In questo modo si può affermare che il Figlio dell’Uomo sia colui che comprende l’Essenza Divina, non certo attraverso la sua anima, ma nella Sua Natura Divina; così come si può dire che il Figlio dell’Uomo sia anche il Creatore.
 
 <span class="atom-split" data-atom="079" data-title="Whether the Son of God knew all things in the Word?" data-chapter="Whether the Son of God knew all things in the Word?" data-kind="atom" data-srclang="en"></span>
 
@@ -4198,6 +5300,24 @@ Christ in clearness of cognition, since the uncreated light of the Divine intell
 any created light received by the soul of Christ; although, absolutely speaking, the Divine knowledge
 exceeds the knowledge of the soul of Christ, not only as regards the mode of knowing, but also as
 regards the number of things known, as was stated above.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 2: Sembra che l’anima di Cristo non conosca tutte le cose contenute nella Parola. Infatti è scritto (Marco 13:32): “Ma di quel giorno o di quell’ora nessuno lo sa, né gli angeli in cielo né il Figlio, ma solo il Padre”. Pertanto, Egli non conosce tutte le cose contenute nella Parola.
+
+Obiezione 2: Inoltre, più perfettamente qualcuno conosce un principio, più sa riguardo a quel principio stesso. Ma Dio vede la Sua Essenza in modo ancora più perfetto di quanto lo faccia l’anima di Cristo; pertanto Egli sa più di quanto sappia l’anima di Cristo nella Parola stessa. Quindi, l’anima di Cristo non conosce tutte le cose contenute nella Parola.
+
+Obiezione 3: Inoltre, l’entità di tale conoscenza dipende dal numero di cose conosciute. Pertanto, se l’anima di Cristo avesse conosciuto nella Parola tutto ciò che la Parola conosce, ne conseguirebbe che la conoscenza dell’anima di Cristo sarebbe equivalente alla conoscenza divina, cioè il creato sarebbe equivalente all’increato, il che è impossibile.
+
+Al contrario, in Apocalisse 5:12, dove si legge “Il Agnello che è stato sacrificato merita di ricevere, divinità e saggezza”, un commento aggiunge: cioè “la conoscenza di tutte le cose”.
+
+Rispondo che, quando si chiede se Cristo conosca tutte le cose attraverso la Parola, “tutte le cose” possono essere intese in due modi. Primo, nel senso proprio: per indicare tutto ciò che, in qualsiasi modo sia, esiste, avverrà o è già accaduto, detto o pensato da chiunque e in qualsiasi momento. In questo senso, si deve affermare che l’anima di Cristo conosce tutte le cose attraverso la Parola. Infatti, ogni intelletto creato conosce nella Parola, non tutte le cose semplicemente, ma molte di più quanto più perfettamente riesce a comprendere la Parola stessa. Tuttavia, nessun intelletto beato ignora ciò che riguarda lui stesso nella Parola. Ora, poiché tutte le cose sono sottomesse a Cristo e alla Sua dignità, l’anima di Cristo conosce nella Parola tutto ciò che esiste in qualsiasi momento, nonché i pensieri degli uomini, di cui Egli è il Giudice; quindi ciò che si dice di Lui (Giovanni 2:25), “Poiché sapeva ciò che c’era nell’uomo”, può essere inteso non solo nel senso della Sua conoscenza divina, ma anche in quello della conoscenza posseduta dall’anima Sua nella Parola. Secondo, “tutte le cose” possono essere intese in senso lato, come comprendenti non soltanto ciò che è effettivamente attuato in un determinato momento, ma anche ciò che si trova ancora in potenzialità e che mai sarà realizzato. Alcune di queste cose esistono esclusivamente nel potere divino; l’anima di Cristo, tuttavia, non conosce tutte queste cose nella Parola. Infatti, ciò significherebbe comprendere tutto ciò che Dio può fare, il che equivarrebbe a comprendere il Suo potere e, di conseguenza, la Sua Essenza divina. Poiché ogni potere è conosciuto attraverso la conoscenza di ciò che esso può realizzare; tuttavia, alcuni poteri appartengono non solo a Dio, ma anche alle creature; e tutti questi poteri l’anima di Cristo li conosce nella Parola, poiché essa comprende nella Parola l’essenza di ogni creatura, nonché il suo potere, la sua virtù e tutto ciò che è in potere della creatura stessa.
+
+Risposta all’Obiezione 1: Arioso ed Eunomio intesero questa affermazione non in riferimento alla conoscenza dell’anima – che essi ritenevano assente in Cristo, come detto sopra (Q[9], A[1]) – ma riguardo alla conoscenza divina del Figlio, che consideravano inferiore al Padre per quanto riguarda la sapienza. Tuttavia questa interpretazione non regge, poiché tutte le cose sono state create dalla Parola di Dio, come si legge in Giovanni 1:3; tra queste, anche tutti i tempi sono stati creati da Lui stesso. Ora, Egli non può essere ignorante di nulla di ciò che ha creato. Si dice quindi che Egli non conosca il giorno e l’ora del Giudizio, perché non li rivela; quando gli apostoli Glielo chiesero (Atti 1:7), Egli rifiutò di rivelarli. Al contrario, leggiamo in Genesi 22:12: “Ora so che temi Dio”, cioè “Ora ti ho fatto conoscere questa verità”. Ma si dice che il Padre conosca questo tempo, perché ha trasmesso tale conoscenza al Figlio. Pertanto, quando si afferma che “solo il Padre lo sa”, ciò significa che anche il Figlio lo conosce, non soltanto nella sua natura divina, ma anche in quella umana; come sostiene Crisostomo (Homilie lxxviii su Matteo), se a Cristo, in quanto uomo, è stata data la capacità di giudicare – il che rappresenta qualcosa di molto più importante – allora tanto più Gli è stata data la conoscenza del tempo del Giudizio. Origene, invece (in Trattato su Matteo xxx), interpreta questa affermazione in riferimento al corpo di Cristo, cioè alla Chiesa, che è ignorante di questo tempo. Alcuni ritengono inoltre che ciò si riferisca al Figlio adottivo e non a quello naturale di Dio.
+
+Risposta all’Obiezione 2: Dio conosce la Sua Essenza in modo ancora più perfetto di quanto la conosca l’anima di Cristo, poiché Egli la comprende appieno. Pertanto, Egli conosce tutte le cose: non soltanto quelle che sono attualmente in atto in un determinato momento – di queste si dice che le conosca attraverso la visione – ma anche tutto ciò che Lui stesso può compiere; di queste si dice che le conosca attraverso l’intelligenza pura, come dimostrato nel FP, Q[14], A[9]. Quindi, l’anima di Cristo conosce tutte quelle cose che Dio conosce in Sé stesso attraverso la visione, ma non tutte quelle che Dio conosce in Sé stesso attraverso l’intelligenza pura; e pertanto, in Se stesso, Dio conosce molte più cose dell’anima di Cristo.
+
+Risposta all’Obiezione 3: L’estensione della conoscenza dipende non soltanto dal numero delle cose conosciute, ma anche dalla chiarezza di tale conoscenza. Pertanto, sebbene la conoscenza che l’anima di Cristo possiede nella Parola sia paragonabile, per quanto riguarda il numero delle cose conosciute, alla conoscenza ottenuta attraverso la visione diretta, la conoscenza di Dio supera infinitamente quella dell’anima di Cristo in termini di chiarezza cognitiva. Infatti, la luce divina, non creata dall’essere umano, è di gran lunga più intensa di qualsiasi luce creata che possa essere ricevuta dall’anima di Cristo; e sebbene, in termini assoluti, la conoscenza divina sia superiore a quella dell’anima di Cristo, non solo per quanto riguarda il modo stesso di conoscere, ma anche per quanto riguarda il numero delle cose conosciute, come già detto in precedenza.
 
 <span class="atom-split" data-atom="080" data-title="Whether the soul of Christ can know the infinite in the Word?" data-chapter="Whether the soul of Christ can know the infinite in the Word?" data-kind="atom" data-srclang="en"></span>
 
@@ -4287,6 +5407,24 @@ the power of God than in the potentiality of the creature. So, too, the soul of 
 things by the knowledge of simple intelligence; yet God knows more by this manner of knowledge
 or understanding.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’anima di Cristo non possa conoscere l’infinito nella Parola stessa. Infatti, il fatto che l’infinito debba essere conosciuto è in contraddizione con la definizione dell’infinito, secondo cui quest’ultimo è “ciò da cui, per quanto ne preleviamo, rimane sempre qualcosa da prendere”. Ma è impossibile separare questa definizione dall’oggetto definito, poiché ciò significherebbe che contraddizioni possano esistere contemporaneamente. Pertanto, è impossibile che l’anima di Cristo conosca l’infinito.
+
+Obiezione 2: Inoltre, la conoscenza dell’infinito è stessa infinita. Ma la conoscenza dell’anima di Cristo non può essere infinita, poiché la sua capacità è finita, essendo essa stessa creata. Pertanto, l’anima di Cristo non può conoscere l’infinito.
+
+Obiezione 3: Inoltre, non può esistere nulla di più grande dell’infinito. Tuttavia, la conoscenza divina contiene, in senso assoluto, informazioni maggiori rispetto alla conoscenza posseduta dall’anima di Cristo, come già affermato sopra (A[2]). Pertanto, l’anima di Cristo non conosce l’infinito.
+
+Al contrario, l’anima di Cristo conosce tutta la sua potenza e tutto ciò che è in grado di fare. Ora può purificare peccati infiniti, secondo 1 Giovanni 2:2: “Lui è la propiziazione per i nostri peccati, non solo per i nostri, ma anche per quelli di tutto il mondo”. Pertanto, l’anima di Cristo conosce l’infinito.
+
+Rispondo che la conoscenza riguarda soltanto l’essere, poiché essere e verità sono interconvertibili. Ora, si dice che una cosa sia un essere in due modi: in primo luogo, in modo semplice, cioè tutto ciò che esiste effettivamente; in secondo luogo, in modo relativo, cioè tutto ciò che esiste potenzialmente. Poiché, come si afferma nella Metafisica IX, 20, ogni cosa viene conosciuta per ciò che è nell’atto e non per ciò che è nel potenziale, la conoscenza riguarda primariamente e essenzialmente l’essere nell’atto, e secondariamente l’essere nel potenziale, il quale non può essere conosciuto di per sé, ma soltanto in quanto ciò in cui esiste sia noto. Pertanto, riguardo al primo modo di conoscenza, l’anima di Cristo non conosce l’infinito: poiché non esiste un numero infinito di cose nell’atto, anche se considerassimo tutte quelle che esistono in qualsiasi momento dato, poiché lo stato di generazione e corruzione non durerà per sempre; quindi esiste un certo numero sia di cose prive di generazione e corruzione, sia di cose capaci di generazione e corruzione. Ma riguardo al secondo modo di conoscenza, l’anima di Cristo conosce le cose infinite nel Verbo, poiché conosce, come detto sopra, tutto ciò che è nella potenza della creatura. Pertanto, poiché nella potenza della creatura esiste un numero infinito di cose, essa conosce l’infinito, per così dire, attraverso una certa conoscenza dell’intelligenza pura, e non attraverso la visione.
+
+Risposta all’Obiezione 1: Come abbiamo detto nel FP, Q[8], A[1], l’infinito può essere inteso in due modi. Primo, dal punto di vista della forma: in questo caso si parla di un infinito “negativo”, cioè di una forma o di un atto che non è limitato dal fatto di essere recepito nella materia o in un soggetto; tale infinito è per sé stesso molto conoscibile grazie alla perfezione dell’atto che lo costituisce, anche se non può essere compreso dalla potenza finita della creatura; è proprio in questo senso che si dice che Dio sia infinito. L’anima di Cristo conosce tale infinito, ma non lo comprende appieno. Secondo modo: l’infinito considerato dal punto di vista della materia, inteso in senso negativo, cioè come qualcosa che manca della forma che naturalmente dovrebbe avere; in questo caso si parla di un infinito “quantitativo”. Un tale infinito, però, è in sé stesso ignoto, poiché rappresenta, in qualche modo, materia priva di forma (come si afferma nella Fisica, III, 65). Ma ogni conoscenza avviene attraverso forme o atti; pertanto, se questo infinito dovesse essere conosciuto secondo il proprio modo d’essere, non potrebbe essere compreso. Il suo modo d’essere consiste infatti nel fatto che parti di esso possono essere prese una dopo l’altra (come si dice sempre nella Fisica, III, 62-63); e in questo senso è vero che, se ne togliamo qualcosa, ne rimane sempre dell’altro da prendere. Tuttavia, poiché le cose materiali possono essere recepite dall’intelletto in modo immateriale, e molte cose possono essere considerate unite nel loro insieme, anche le cose infinite possono essere percepite dall’intelletto, non secondo il loro carattere infinito, ma in modo finito; quindi ciò che è infinito in sé stesso diventa finito nell’intelletto di colui che lo conosce. In questo modo, l’anima di Cristo conosce un numero infinito di cose, poiché le conosce non attraverso processi logici di deduzione, ma in una sorta di unità: cioè in qualsiasi creatura nella cui potenzialità esistano cose infinite, e soprattutto nel Verbo stesso.
+
+Risposta all’Obiezione 2: Non esiste nulla che impedisca a una cosa di essere infinita in un senso e finita in un altro; ad esempio, nelle quantità possiamo immaginare una superficie infinita in lunghezza ma finita in larghezza. Pertanto, se esistesse un numero infinito di uomini, essi avrebbero un’“infinità relativa”, cioè in termini di quantità; tuttavia, in termini di essenza, sarebbero finiti, poiché l’essenza di tutti sarebbe limitata a una natura specifica. Quello che è semplicemente infinito per essenza è Dio, come si è detto nel FP, Q[7], A[2]. L’oggetto proprio dell’intelletto è “ciò che una cosa è”, come affermato nel De [Anima](/concepts/soul) iii, 26; pertanto, l’anima di Cristo, essendo dotata di capacità finita, può raggiungere, ma non comprendere pienamente, ciò che è semplicemente infinito per essenza, come già detto (A[1]). L’infinità potenziale presente nelle creature, invece, può essere compresa dall’anima di Cristo, poiché essa è paragonabile a quell’anima in termini di essenza; in questo senso, l’anima di Cristo non è infinita. Anche il nostro intelletto riesce infatti a comprendere concetti universali – ad esempio, la natura di un genere o di una specie – che, in un certo senso, sono infiniti, poiché possono essere applicati a un numero infinito di individui.
+
+Risposta all’Obiezione 3: Ciò che è infinito in ogni senso può essere soltanto uno. Pertanto il Filosofo afferma (De Coel., i, 2, 3) che, poiché i corpi hanno dimensioni in ogni loro parte, non possono esistere più corpi infiniti. Tuttavia, se qualcosa fosse infinito soltanto in un certo senso, nulla impedirebbe l’esistenza di più entità infinite di questo tipo; come se potessimo immaginare diverse linee di lunghezza infinita disegnate su una superficie di larghezza finita. Poiché l’infinito non è una sostanza, ma un attributo accidentale delle cose che vengono definite infinite, come afferma il Filosofo (Phys., iii, 37, 38), e poiché l’infinito può essere applicato a soggetti diversi, allo stesso modo anche le sue proprietà devono essere considerate in relazione a tali soggetti. Ora, una delle proprietà dell’infinito è che nulla può essergli maggiore. Pertanto, se prendiamo una linea infinita, non esiste nulla al suo interno che sia maggiore dell’infinito stesso; lo stesso vale per qualsiasi altra linea infinita: ognuna di esse contiene parti infinite. Di conseguenza, in una data linea infinita non può esserci nulla di maggiore di tutte queste parti infinite; mentre in un’altra linea potrebbero essercene ancora di più. Questo fenomeno si osserva anche nei numeri: le specie dei numeri pari e dispari sono infinite, ma esistono più numeri pari che dispari. Pertanto, si può affermare che nulla è maggiore dell’infinito in senso assoluto; tuttavia, rispetto all’infinito che è limitato in qualche modo, potrebbe esistere qualcosa di ancora maggiore, sebbene possiamo soltanto ipotizzarlo al di fuori di tale ambito. In questo modo, dunque, nell’universo creato esistono molte cose infinite; tuttavia, nel potere di Dio ce ne sono ancora di più rispetto a quelle presenti nell’universo stesso. Allo stesso modo, l’anima di Cristo conosce molte cose infinite attraverso la conoscenza intellettuale semplice; ma Dio conosce ancora di più attraverso questo tipo di conoscenza o comprensione.
+
 <span class="atom-split" data-atom="081" data-title="Whether the soul of Christ sees the Word or the Divine Essence more clearly than does any other creature?" data-chapter="Whether the soul of Christ sees the Word or the Divine Essence more clearly than does any other creature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the soul of Christ does not see the Word more perfectly than
@@ -4347,6 +5485,32 @@ head there are six points of inquiry:
 (5) Whether it was a habitual knowledge?
 (6) Whether it was distinguished by various habits?
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’anima di Cristo non veda la Parola in modo più perfetto di qualsiasi altra creatura. Infatti, la perfezione della conoscenza dipende dal mezzo attraverso il quale essa viene acquisita; così come la conoscenza ottenuta tramite un sillogismo dimostrativo è più perfetta di quella derivante da un sillogismo probabile. Ma tutte le creature beate vedono la Parola direttamente nell’Essenza Divina stessa, come si afferma nel FP, Q[12], A[2]. Pertanto, l’anima di Cristo non vede la Parola in modo più perfetto di qualsiasi altra creatura.
+
+Obiezione 2: Inoltre, la perfezione della visione non supera la capacità di vedere. Ma la potenza razionale di un’anima come quella di Cristo è inferiore alla potenza intellettiva di un angelo, come risulta chiaramente da Dionigi (Coel. Hier. iv). Pertanto, l’anima di Cristo non vide la Parola in modo più perfetto degli angeli.
+
+Obiezione 3: Inoltre, Dio vede la Sua Parola in modo infinitamente più perfetto di quanto lo faccia l’anima di Cristo. Pertanto esistono infinite gradazioni possibili tra il modo in cui Dio vede la Sua Parola e il modo in cui l’anima di Cristo la vede. Di conseguenza, non possiamo affermare che l’anima di Cristo veda la Parola o l’Essenza Divina in modo più perfetto di qualsiasi altra creatura.
+
+Al contrario, l’Apostolo afferma (Efesini 1:20,21) che Dio ha posto Cristo “alla Sua destra nei luoghi celesti, al di sopra di ogni principato, potere, virtù, dominio e di ogni nome che possa essere nominato, non solo in questo mondo, ma anche in quello che verrà”. Tuttavia, nella gloria celeste, più alto è uno, più perfettamente conosce Dio. Pertanto, l’anima di Cristo vede Dio in modo più perfetto di qualsiasi altra creatura.
+
+Rispondo che la visione dell’Essenza Divina viene concessa a tutti i beati attraverso la partecipazione alla luce divina che si irradia su di loro dalla fonte della Parola di Dio, secondo quanto detto in Ecclesiaste 1:5: “La Parola di Dio, lassù nei cieli, è la fonte della Sapienza”. Ora, l’anima di Cristo, essendo unita alla Parola in persona, è strettamente legata alla Parola di Dio più di qualsiasi altra creatura; perciò riceve in modo più completo quella luce attraverso la quale Dio viene visto dalla stessa Parola, rispetto a qualsiasi altra creatura. E quindi, più perfettamente delle altre creature, essa può contemplare la Verità primordiale stessa, cioè l’Essenza di Dio; da qui deriva anche la scrittura (Giovanni 1:14): “E abbiamo visto la sua gloria, gloria simile a quella del Figlio unigenito del Padre”, una gloria “piena” non solo di grazia, ma anche di verità.
+
+Risposta all’Obiezione 1: La perfezione della conoscenza, da parte dell’oggetto conosciuto, dipende dal mezzo attraverso cui essa viene acquisita; ma riguardo al conoscitore, essa dipende dalla sua capacità o dalla sua [abitudine](/concepts/custom) nel ricercare la verità. Ecco perché, anche tra gli uomini, alcuni riescono a comprendere meglio di altri i concetti attraverso determinati mezzi. In questo modo, l’anima di Cristo, essendo colmata di una luce più intensa, conosce l’Essenza Divina in modo più perfetto rispetto agli altri beati, anche se tutti vedono l’Essenza Divina nella sua stessa natura.
+
+Risposta all’Obiezione 2: La visione dell’Essenza Divina trascende la capacità naturale di qualsiasi creatura, come è stato detto nel FP, Q[12], A[4]. Pertanto, i gradi di tale visione dipendono piuttosto dall’ordine della grazia in cui Cristo occupa una posizione suprema, che non dall’ordine naturale, secondo il quale la natura angelica viene considerata superiore a quella umana.
+
+Risposta all’Obiezione 3: Come già detto sopra (Q[7], A[12]), non può esistere una grazia più grande di quella di Cristo riguardo all’unione con la Parola; lo stesso si può dire per la perfezione della visione divina; sebbene, in termini assoluti, possa esistere un grado ancora più elevato e [sublime](/concepts/sublime) grazie all’[infinità](/concepts/infinity) del potere divino.  
+**Della conoscenza impressa o infusa nell’anima di Cristo (sei articoli)**  
+Ora dobbiamo considerare la conoscenza impressa o infusa nell’anima di Cristo; sotto questo titolo vi sono sei punti da esaminare:  
+(1) Cristo conosce tutte le cose attraverso questa conoscenza?  
+(2) Potrebbe utilizzare questa conoscenza ricorrendo a immagini mentali?  
+(3) Questa conoscenza è di natura collettiva (derivante dall’unione con la Parola)?  
+(4) In che modo si differenzia dalla conoscenza angelica?  
+(5) Si tratta di una conoscenza abituale, cioè costantemente presente nella sua coscienza?  
+(6) Questa conoscenza era caratterizzata da diverse forme o modalità di manifestazione?
+
 <span class="atom-split" data-atom="082" data-title="Whether by this imprinted or infused knowledge Christ knew all things?" data-chapter="Whether by this imprinted or infused knowledge Christ knew all things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that by this knowledge Christ did not know all things. For this
@@ -4405,6 +5569,24 @@ required the remembrance of past things, knowledge of present things, and foresi
 things, as Tully says (De Invent. ii). Therefore, since Christ had the fulness of prudence by the gift
 of counsel, He consequently knew all singular things---present, past, and future.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che, con questa conoscenza, Cristo non sapesse tutte le cose. Infatti, questa conoscenza è impressa in Cristo al fine di perfezionare l’intelletto passivo. Ora, l’intelletto passivo dell’anima umana sembra essere in [potenzialità](/concepts/act_potency) riguardo a tutte le cose, ma soltanto a quelle che possono essere portate all’azione dall’intelletto attivo, il quale ne è il vero motore; e queste cose sono conoscibili attraverso la ragione naturale. Pertanto, con questa conoscenza, Cristo non sapeva ciò che andava oltre i limiti della ragione naturale.
+
+Obiezione 2: Inoltre, i fantasmi sono per l’intelletto umano ciò che i colori sono per la vista, come si afferma nel De [Anima](/concepts/soul) iii, 18,31,39. Tuttavia, la perfezione della facoltà di vedere non consiste nel conoscere ciò che è privo di colore; pertanto, nemmeno la perfezione dell’intelletto umano include la conoscenza di cose di cui non esistono fantasmi, come le sostanze separate. Quindi, poiché questa conoscenza era presente in Cristo al fine di perfezionare la Sua anima intellettiva, sembra che con essa Egli non conoscesse le sostanze separate.
+
+Obiezione 3: Inoltre, conoscere i singoli non rientra nella perfezione dell’intelletto. Pertanto, sembrerebbe che con questa conoscenza l’anima di Cristo non conoscesse i singoli elementi.
+
+Al contrario, è scritto (Isaia 11:2) che “Lo Spirito di sapienza e di intelligenza, lo Spirito di conoscenza e di consiglio si poserà su di Lui”; sotto questo termine sono inclusi tutti gli elementi conoscibili, poiché la conoscenza di tutte le cose divine appartiene alla sapienza, quella di tutte le cose immateriali all’intelligenza, quella di tutte le conclusioni logiche alla conoscenza [scientia], e quella di tutte le cose pratiche al consiglio. Pertanto, sembrerebbe che con questa conoscenza Cristo possedesse la conoscenza di tutte le cose.
+
+Rispondo che, come già detto in precedenza (Q[9], A[1]), era appropriato che l’anima di Cristo fosse completamente perfezionata attraverso la riduzione all’azione di ciascuna delle sue facoltà. Bisogna ricordare che nell’anima umana, come in ogni creatura, esistono due tipi di poteri passivi: uno rispetto agli agenti naturali; l’altro rispetto a quell’agente supremo che può portare una creatura a compiere atti superiori a quelli che gli agenti naturali sono in grado di realizzare, e questo potere viene solitamente definito “potere di obbedienza” della creatura. Entrambi i poteri dell’anima di Cristo furono ridotti all’azione attraverso questa conoscenza divinamente impressa in lei. Per mezzo di essa, l’anima di Cristo conobbe: innanzitutto tutto ciò che può essere appreso grazie all’intelletto attivo umano, ad esempio quanto riguarda le scienze umane; in secondo luogo, tutte le verità rivelate a gli uomini per mezzo della Divina [rivelazione](/concepts/revelation), sia che appartengano al dono della saggezza, alla profezia o ad altri doni dello Spirito Santo; poiché l’anima di Cristo conosceva queste verità in modo più completo e assoluto rispetto agli altri esseri umani. Tuttavia, Egli non conobbe l’Essenza di Dio attraverso questa conoscenza, ma soltanto attraverso quella primaria di cui abbiamo parlato in precedenza (Q[10]).
+
+Risposta all’Obiezione 1: Questo argomento si riferisce al potere naturale di un’anima intellettiva rispetto al suo agente naturale, ovvero l’intelletto attivo.
+
+Risposta all’Obiezione 2: L’anima umana, nello [stato](/concepts/state) di questa vita, essendo in parte vincolata dal corpo e quindi incapace di comprendere le cose senza l’intervento delle immagini mentali, non può conoscere le sostanze separate. Tuttavia, dopo la fine di questa vita, l’anima separata sarà in grado, in misura determinata, di conoscere le sostanze separate per sé stessa, come è stato detto nel FP, Q[89], AA[1],2; ciò è particolarmente evidente per le anime beate. Prima della Sua Passione, Cristo non era soltanto un viandante, ma anche colui che comprendeva veramente le realtà divine; pertanto la Sua anima poteva conoscere le sostanze separate nello stesso modo in cui lo potrebbe una anima separata.
+
+Risposta all’Obiezione 3: La conoscenza dei singoli individui riguarda la perfezione dell’anima intellettiva, non nel campo della conoscenza speculativa, ma in quello della conoscenza pratica, che è imperfetta senza la conoscenza dei singoli individui, nei quali si svolgono le operazioni mentali, come affermato nell’Etica VI, 7. Pertanto, per la prudenza sono necessarie la memoria di ciò che è accaduto in passato, la conoscenza di ciò che sta avvenendo nel presente e la previsione di ciò che accadrà in futuro, come sostiene Tullio (De Inventione II). Poiché Cristo possedeva la pienezza della prudenza grazie al dono del consiglio, Egli conosceva quindi tutti i singoli individui – presenti, passati e futuri.
+
 <span class="atom-split" data-atom="083" data-title="Whether Christ could use this knowledge by turning to phantasms?" data-chapter="Whether Christ could use this knowledge by turning to phantasms?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the soul of Christ could not understand by this knowledge
@@ -4455,6 +5637,24 @@ phantasms, yet it could also understand by turning to phantasms. Hence the sense
 in it; especially as the senses are not afforded to man solely for intellectual knowledge, but for the
 need of animal life.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’anima di Cristo non potesse comprendere nulla con questa conoscenza, se non ricorrendo ai fantasmi; infatti, come affermato nel De [Anima](/concepts/soul) iii, 18,31,39, i fantasmi vengono paragonati all’anima intellettiva dell’uomo come i colori alla vista. Ma il potere di vedere di Cristo non avrebbe potuto manifestarsi se non attraverso i colori; pertanto, la Sua anima intellettiva non avrebbe potuto comprendere nulla se non ricorrendo ai fantasmi.
+
+Obiezione 2: Inoltre, l’anima di Cristo è della stessa natura della nostra; altrimenti non appartenerebbe alla stessa specie di noi, contrariamente a quanto afferma l’Apostolo (Filippesi 2:7): “, formato alla somiglianza degli uomini”. Ma la nostra anima può comprendere le cose solo attraverso i fantasmi; pertanto, allo stesso modo, nemmeno l’anima di Cristo può comprenderle in altro modo.
+
+Obiezione 3: Inoltre, i sensi sono dati all’uomo per aiutare il suo intelletto. Pertanto, se l’anima di Cristo potesse comprendere senza ricorrere alle immagini che derivano dai sensi, ne conterrebbe che tali sensi sarebbero inutili nell’anima di Cristo, il che è assurdo. Quindi sembra che l’anima di Cristo possa comprendere soltanto attraverso le immagini fornite dai sensi.
+
+Al contrario, l’anima di Cristo conosceva certe cose che non potevano essere apprese attraverso i sensi, vale a dire sostanze distinte. Pertanto, era in grado di comprenderle senza ricorrere alle immagini create dalla fantasia.
+
+Rispondo che, nello [stato](/concepts/state) precedente alla Sua Passione, Cristo era al contempo un viandante e un comprenditore, come verrà mostrato più chiaramente in (Q[15], A[10]). In particolare, possedeva le caratteristiche di un viandante riguardo al corpo, che era soggetto alle sofferenze; ma le caratteristiche di un comprenditore le aveva principalmente riguardo all’anima. Questa è infatti la condizione dell’anima di un comprenditore: essa non è in alcun modo sottomessa o dipendente dal proprio corpo, ma lo domina completamente. Pertanto, dopo la risurrezione, la gloria scorrerà dall’anima al corpo. Tuttavia, l’anima umana sulla terra deve rivolgersi ai fantasmi, poiché è legata al corpo e in certo modo ne dipende. Ecco perché i beati, sia prima che dopo la risurrezione, possono comprendere senza ricorrere ai fantasmi. Lo stesso vale per l’anima di Cristo, che possedeva appieno le capacità di un comprenditore.
+
+Risposta all’Obiezione 1: Questa somiglianza che il Filosofo sostiene non vale per ogni cosa. È infatti evidente che lo scopo della facoltà visiva è conoscere i colori; mentre lo scopo della facoltà intellettiva non è conoscere le immagini mentali, ma le specie intelligibili, che essa comprende a partire da tali immagini, secondo lo stato della vita presente. Pertanto esiste una somiglianza riguardo a ciò che entrambe le facoltà considerano, ma non riguardo a ciò attraverso cui si realizza il loro scopo specifico. Ora, nulla impedisce a una cosa, in diversi stati, di raggiungere il proprio fine in modi diversi; anche se esiste sempre un solo fine proprio per ogni cosa. Quindi, sebbene la vista non possa conoscere nulla senza i colori, in determinati contesti l’intelletto può comprendere le cose senza ricorrere alle immagini mentali, ma soltanto attraverso le specie intelligibili.
+
+Risposta all’Obiezione 2: Sebbene l’anima di Cristo avesse la stessa natura delle nostre anime, essa possedeva uno stato che le nostre anime non hanno ancora realmente, ma soltanto in speranza, ovvero lo stato di comprensione totale.
+
+Risposta all’Obiezione 3: Sebbene l’anima di Cristo potesse comprendere senza ricorrere ai fantasmi, poteva comunque comprenderli anche attraverso di essi. Pertanto, i sensi non erano inutili per lei; soprattutto perché i sensi non vengono dati all’uomo esclusivamente per la conoscenza intellettuale, ma anche per le esigenze della vita animale.
+
 <span class="atom-split" data-atom="084" data-title="Whether this knowledge is collative?" data-chapter="Whether this knowledge is collative?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the soul of Christ had not this knowledge by way of comparison.
@@ -4498,6 +5698,24 @@ Reply to Objection 3: The blessed are likened to the angels in the gifts of grac
 still remains the difference of natures. And hence to use comparison and discursion is connatural
 to the souls of the blessed, but not to angels.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’anima di Cristo non possedesse questa conoscenza attraverso il processo di confronto e ragionamento. Infatti, Damasceno afferma (De Fide Orth. iii, 14): “Non attribuiamo a Cristo alcuna capacità di deliberazione o scelta”. Ora, queste facoltà gli sono state negate proprio perché implicano il ricorso al confronto e alla riflessione razionale. Pertanto, sembra che in Cristo non esistesse alcuna conoscenza basata su processi logici o discorsivi.
+
+Obiezione 2: Inoltre, l’uomo ha bisogno di confronti e ragionamenti per scoprire ciò che è sconosciuto. Ma l’anima di Cristo sapeva tutto, come detto sopra (Q[10], A[2]). Pertanto, in Lui non esisteva alcuna conoscenza basata su ragionamenti o confronti.
+
+Obiezione 3: Inoltre, la conoscenza presente nell’anima di Cristo era simile a quella dei “comprehensori”, i quali vengono paragonati agli angeli, secondo Matteo 22:30. Ora, negli angeli non esiste alcuna conoscenza discorsiva o collettiva, come dimostra Dionigi (Divinum Nomina, vii). Pertanto, nell’anima di Cristo non esisteva alcuna conoscenza di questo tipo.
+
+Al contrario, Cristo possedeva un’anima razionale, come dimostrato in (Q[5], A[4]). Ora, il corretto funzionamento di un’anima razionale consiste nel confronto e nel ragionamento da un’idea all’altra. Pertanto, in Cristo esistevano sia conoscenze basate sul confronto che su processi di ragionamento discorsivo.
+
+Rispondo che la conoscenza può essere di tipo discorsivo o collettivo in due modi. Primo, nel processo stesso di acquisizione della conoscenza; come accade a noi, quando passiamo da una cosa all’altra, dalle cause agli effetti, e viceversa. In questo senso, la conoscenza presente nell’anima di Cristo non era di tipo discorsivo o collettivo, poiché essa fu infusa divinamente, e non acquisita attraverso un processo di ragionamento. Secondo, la conoscenza può essere considerata discorsiva o collettiva nel suo utilizzo; talvolta coloro che possiedono una certa conoscenza ragionano dalle cause agli effetti, non per imparare qualcosa di nuovo, ma per poter applicare quella conoscenza che già possiedono. In questo caso, la conoscenza nell’anima di Cristo poteva essere considerata sia collettiva che discorsiva; poiché egli era in grado di trarre conclusioni da un’informazione all’altra, come avviene nel Vangelo di Matteo 17:24-25, quando il Signore chiese a Pietro: “Di chi ricevono i re della terra il tributo: dei loro figli o degli stranieri?”, e, dopo che Pietro rispose “Gli stranieri”, Egli concluse: “Allora i figli sono liberi”.
+
+Risposta all’Obiezione 1: Da Cristo è escluso quel tipo di consiglio che comporta dubbi; e di conseguenza, anche la scelta, che essenzialmente include tale tipo di consiglio; tuttavia, l’uso pratico di consigli non è escluso da Cristo.
+
+Risposta all’Obiezione 2: Questo ragionamento si basa sulla discussione e sul confronto, utilizzati per acquisire conoscenza.
+
+Risposta all’Obiezione 3: I beati sono paragonati agli angeli per quanto riguarda i doni della grazia; tuttavia rimane comunque la differenza di natura tra loro. Pertanto, l’uso del confronto e della discussione è congeniale alle anime dei beati, ma non agli angeli.
+
 <span class="atom-split" data-atom="085" data-title="Whether in Christ this knowledge was greater than the knowledge of the angels?" data-chapter="Whether in Christ this knowledge was greater than the knowledge of the angels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that this knowledge was not greater in Christ than in the angels.
@@ -4530,6 +5748,19 @@ the knowledge imprinted on the soul of Christ is less than the angelic knowledge
 knowing that is natural to the human soul, i.e. by turning to phantasms, and by comparison and
 discursion.
 And hereby the reply to the objections is made clear.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che questa conoscenza non fosse maggiore in Cristo rispetto agli angeli.  
+Infatti, la perfezione è proporzionale alla cosa che viene perfezionata. Ma l’anima umana, secondo l’ordine naturale, è inferiore alla natura angelica. Pertanto, poiché la conoscenza di cui stiamo parlando è stata impressa nell’anima di Cristo al fine della sua perfezione, sembra che questa conoscenza sia inferiore a quella con cui la natura angelica viene perfezionata.
+
+Obiezione 2: Inoltre, la conoscenza relativa all’anima di Cristo era, in una certa misura, di natura comparativa e discorsiva; ciò non si può dire della conoscenza degli angeli. Pertanto, la conoscenza dell’anima di Cristo era inferiore a quella degli angeli.
+
+Obiezione 3: Inoltre, più la conoscenza è “immateriale”, maggiore è il suo valore. Ma la conoscenza degli angeli è ancora più “immateriale” della conoscenza dell’anima di Cristo, poiché l’anima di Cristo rappresenta l’atto di un corpo e si riferisce a fenomeni fantasmagorici, cosa che non si può dire degli angeli. Pertanto, la conoscenza degli angeli è più grande della conoscenza dell’anima di Cristo.
+
+Al contrario, l’Apostolo afferma (Ebrei 2:9): “Poiché vediamo Gesù, che è stato reso un po’ inferiore agli angeli per il [soffrire](/concepts/suffering) della morte, incoronato di gloria e onore”; da ciò risulta chiaramente che Cristo viene detto inferiore agli angeli soltanto in relazione al soffrire della morte. E quindi, non in termini di conoscenza.
+
+Rispondo che la conoscenza impressa nell’anima di Cristo può essere considerata in due modi: innanzitutto, in relazione a ciò che essa riceve dalla causa che l’ha generata; in secondo luogo, in relazione a ciò che essa possiede nel soggetto che la riceve. Per quanto riguarda il primo aspetto, la conoscenza impressa nell’anima di Cristo era superiore a quella degli angeli, sia per il numero delle cose conosciute che per la certezza stessa di tali conoscenze; infatti, la luce spirituale che è insita nell’anima di Cristo è molto più eccellente della luce propria alla natura angelica. Tuttavia, per quanto riguarda il secondo aspetto, la conoscenza impressa nell’anima di Cristo è inferiore a quella degli angeli, in quanto si basa su metodi di conoscenza propri dell’anima umana, cioè sull’analisi dei fenomeni, sul confronto e sulla riflessione. E con ciò rispondono chiaramente alle obiezioni sollevate.
 
 <span class="atom-split" data-atom="086" data-title="Whether this knowledge was habitual?" data-chapter="Whether this knowledge was habitual?" data-kind="atom" data-srclang="en"></span>
 
@@ -4586,6 +5817,24 @@ and goodness, but that its subject is a being and a good. And hence habitual kno
 better or more excellent than the soul of Christ; but relatively, since the whole goodness of habitual
 knowledge is added to the goodness of the subject.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che in Cristo non esistesse alcuna conoscenza abituale. Infatti, si è detto (Q[9], A[1]) che la massima perfezione della conoscenza fosse propria dell’anima di Cristo. Ma la perfezione di una conoscenza effettivamente esistente è maggiore di quella di una conoscenza potenzialmente o abitualmente esistente. Pertanto, era appropriato che Egli conoscesse tutte le cose in modo effettivo; quindi, non possedeva alcuna conoscenza abituale.
+
+Obiezione 2: Inoltre, poiché le abitudini sono destinate ad essere messe in atto, una conoscenza abituale che non venga mai tradotta in azione sembrerebbe inutile. Ora, poiché Cristo conosceva tutte le cose, come detto in Q[10], A[2], non avrebbe potuto considerarle tutte realmente, esaminandole una per una, poiché l’infinito non può essere esaurito attraverso un elenco. Pertanto, la conoscenza abituale di alcune cose sarebbe stata inutile per Lui – il che è incompatibile con la Sua natura. Quindi, Egli possedeva una conoscenza reale, e non abituale, di ciò che sapeva.
+
+Obiezione 3: Inoltre, la conoscenza abituale rappresenta una perfezione del soggetto che la possiede. Ma la perfezione è qualcosa di più nobile rispetto alla cosa che viene perfezionata. Pertanto, se nell’anima di Cristo esistesse qualche abitudine di conoscenza creata, ciò significherebbe che tale cosa creata fosse più nobile dell’anima stessa di Cristo. Quindi, nell’anima di Cristo non esisteva alcuna conoscenza abituale.
+
+Al contrario, la conoscenza di Cristo di cui stiamo parlando ora era identica alla nostra conoscenza, proprio come la Sua anima apparteneva allo stesso genere della nostra. Tuttavia, la nostra conoscenza rientra nel genere delle abitudini; pertanto, anche la conoscenza di Cristo era di natura abituale.
+
+Rispondo che, come già detto sopra (A[4]), il modo di conoscenza impresso nell’anima di Cristo era adatto al soggetto che la riceveva. Infatti, ciò che viene ricevuto assume nel ricevente lo stesso modo con cui è stato trasmesso. Ora, il modo naturale dell’anima umana è quello di comprendere a volte in modo attuale, altre volte in modo potenziale. Tuttavia, il mezzo tra una capacità pura e un atto compiuto è l’abitudine; estremi e mezzi appartengono allo stesso genere. Pertanto, è evidente che sia proprio il modo naturale dell’anima umana ricevere la conoscenza sotto forma di abitudine. Ne consegue che la conoscenza impressa nell’anima di Cristo doveva essere di natura abituale, poiché Egli poteva utilizzarla quando lo desiderava.
+
+Risposta all’Obiezione 1: Nella anima di Cristo esistevano due tipi di conoscenza – ciascuno dei quali il più perfetto della sua specie. Il primo tipo superava i limiti della [natura umana](/axes/human_nature), poiché grazie ad esso Egli riusciva a contemplare l’Essenza di Dio e altre realtà che vi erano contenute; questo tipo di conoscenza era senza dubbio il più perfetto. Inoltre, non si trattava di una conoscenza abituale, ma di una conoscenza effettiva, relativa a tutto ciò che Egli apprendeva in questo modo. Il secondo tipo di conoscenza, invece, era in Cristo in modo proporzionato alla natura umana: cioè nel senso che Egli comprendeva le cose attraverso concetti divinamente impressi in lui; di questa conoscenza stiamo parlando ora. Questo secondo tipo di conoscenza non era il più perfetto in assoluto, ma soltanto all’interno della categoria della conoscenza umana; per questo motivo non era necessario che fosse sempre attiva.
+
+Risposta all’Obiezione 2: Gli abiti si riducono ad azioni per comando della volontà, poiché un abito è “quello con il quale agiamo quando lo desideriamo”. Ora, la volontà è indeterminata riguardo a infinite possibilità. Tuttavia non è inutile, nemmeno quando effettivamente non tende verso tutte queste possibilità; purché tenda effettivamente verso tutto ciò che è appropriato nel giusto luogo e nel giusto momento. E quindi neppure un abito è inutile, anche se tutto ciò a cui si estende non viene effettivamente messo in atto; purché ciò che corrisponde allo scopo legittimo della volontà venga realizzato secondo le esigenze della situazione e del momento.
+
+Risposta all’Obiezione 3: La bontà e l’essere vengono intesi in due modi: in primo luogo, in modo semplice; e quindi una sostanza che esiste nella sua essenza e nella sua bontà è considerata buona ed essere. In secondo luogo, la bontà e l’essere vengono intesi in modo relativo; e in questo caso un accidente è considerato essere e bontà non perché possieda effettivamente queste qualità, ma perché il suo soggetto è un essere e una bontà. Pertanto, la conoscenza abituale non è semplicemente migliore o più eccellente dell’anima di Cristo; ma lo è in modo relativo, poiché tutta la bontà della conoscenza abituale viene aggiunta alla bontà del suo soggetto.
+
 <span class="atom-split" data-atom="087" data-title="Whether this knowledge was distinguished by divers habits?" data-chapter="Whether this knowledge was distinguished by divers habits?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in the soul of Christ there was only one [habit](/concepts/custom) of knowledge.
@@ -4636,6 +5885,30 @@ there are four points of inquiry:
 (3) Whether He learned anything from man?
 (4) Whether He received anything from angels?
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nell’anima di Cristo esistesse soltanto un’unica [abitudine](/concepts/custom) di conoscenza. Infatti, più la conoscenza è perfetta, più è unitaria; per questo gli angeli più elevati comprendono attraverso forme più universali, come si è detto nel FP, Q[55], A[3]. Ora, poiché la conoscenza di Cristo era la più perfetta, doveva essere anche l’unica; pertanto non era caratterizzata da diverse abitudini di conoscenza.
+
+Obiezione 2: Inoltre, la nostra fede deriva dalla conoscenza di Cristo; per questo si legge (Ebrei 12:2): “Guardando a Gesù, autore e compimento della fede”. Ma esiste soltanto un’unica forma di fede riguardo a tutte le cose in cui crediamo, come è stato detto nella Sacra Querela, Q[4], A[6]. Pertanto, ancora di più, doveva esserci una sola forma di conoscenza in Cristo.
+
+Obiezione 3: Inoltre, la conoscenza si distingue per le diverse forme o modalità delle cose conosciute. Tuttavia, l’anima di Cristo conosceva tutto attraverso una sola forma, ovvero mediante una luce divinamente infusa. Pertanto, in Cristo esisteva soltanto un’unica abitudine conoscitiva.
+
+Al contrario, è scritto (Zaccheo 3:9) che su “una” pietra, cioè Cristo, “ci sono sette occhi”. Ora, con l’occhio si intende la conoscenza; pertanto sembrerebbe che in Cristo esistessero diverse forme di conoscenza.
+
+Rispondo che, come già detto sopra (AA[4],5), la conoscenza impressa nell’anima di Cristo possiede un modo congenito all’anima umana. È infatti naturale per l’anima umana ricevere informazioni di universalità inferiore rispetto a quelle ricevute dagli angeli; pertanto, essa conosce nature specifiche diverse attraverso specie intellegibili distinte. Tuttavia, poiché esistono classi diverse di cose conoscibili, abbiamo abitudini cognitive differenti: ciò che appartiene allo stesso genere viene infatti compreso attraverso modalità di conoscenza specifiche. È proprio per questo motivo che la conoscenza impressa nell’anima di Cristo presentava caratteristiche distintive, dovute alle diverse abitudini cognitive umane.
+
+Risposta all’Obiezione 1: Come è stato detto (A[4]), la conoscenza dell’anima di Cristo è la più perfetta e supera quella degli angeli per quanto riguarda ciò che essa contiene, in termini di dono divino; tuttavia, è inferiore alla conoscenza angelica per quanto riguarda il modo in cui tale conoscenza viene ricevuta dall’individuo. Ed è proprio questo modo di ricezione a rendere questa conoscenza caratterizzata da diverse peculiarità, poiché essa si riferisce a specie più specifiche dell’esistenza umana.
+
+Risposta all’Obiezione 2: La nostra fede si basa sulla Prima Verità; pertanto Cristo è l’autore della nostra fede, grazie alla conoscenza divina, che è essenzialmente unica e indivisa.
+
+Risposta all’Obiezione 3: La luce divinamente infusa rappresenta la forma comune per comprendere ciò che è rivelato divinamente, così come la luce dell’intelletto attivo è utilizzata per conoscere ciò che è noto naturalmente. Pertanto, nell’anima di Cristo devono esistere le specie appropriate delle cose singolari, affinché Egli possa conoscerle ciascuna in modo appropriato; e in questo modo, nell’anima di Cristo devono esserci diversi modi di conoscenza, come già detto.  
+**DEI CONOSCIMENTI ACQUISITI O EMPIRICI DELL’ANIMA DI CRISTO (QUATTRO ARTICOLI)**  
+Ora dobbiamo considerare i conoscimenti acquisiti o empirici dell’anima di Cristo; in questo ambito vi sono quattro punti da esaminare:  
+(1) Se Cristo conoscesse tutte le cose attraverso questi conoscimenti;  
+(2) Se Egli progredisse nel corso di tali conoscenze;  
+(3) Se imparò qualcosa dagli uomini;  
+(4) Se ricevette qualcosa dagli angeli.
+
 <span class="atom-split" data-atom="088" data-title="Whether Christ knew all things by this acquired or empiric knowledge?" data-chapter="Whether Christ knew all things by this acquired or empiric knowledge?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ did not know everything by this knowledge. For this
@@ -4680,6 +5953,24 @@ Reply to Objection 3: By this knowledge the soul of Christ did not know all thin
 but all such as are knowable by the light of man's active intellect. Hence by this knowledge He did
 not know the essences of separate substances, nor past, present, or future singulars, which,
 nevertheless, He knew by infused knowledge, as was said above (Q[11]).
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo non sapesse tutto attraverso questa forma di conoscenza, poiché tale conoscenza si acquisisce attraverso l’esperienza. Ma Cristo non ha vissuto tutte le esperienze umane; pertanto, non poteva sapere tutto attraverso questa forma di conoscenza.
+
+Obiezione 2: Inoltre, l’uomo acquisisce conoscenza attraverso i sensi. Ma non tutte le cose percepibili dai sensi umani furono oggetto delle percezioni fisiche di Cristo. Pertanto, Cristo non conosceva tutto attraverso questa forma di conoscenza.
+
+Obiezione 3: Inoltre, l’ambito della conoscenza dipende dagli oggetti conoscibili. Pertanto, se Cristo avesse conosciuto tutte le cose attraverso questa forma di conoscenza, la sua conoscenza acquisita sarebbe stata uguale alla sua conoscenza innata e beatifica; il che non è conforme alle realtà. Quindi, Cristo non conosceva tutte le cose attraverso questa forma di conoscenza.
+
+Al contrario, nulla di imperfetto esisteva nell’anima di Cristo. Ora, questa conoscenza di Lui sarebbe stata imperfetta se Egli non avesse conosciuto tutte le cose attraverso di essa, poiché ciò che è imperfetto è ciò a cui si può aggiungere qualcosa. Pertanto, Cristo conosceva tutte le cose grazie a questa conoscenza.
+
+Rispondo che la conoscenza acquisita si ritiene risieda nell’anima di Cristo, come abbiamo detto in Q[9], A[4], a causa dell’intelletto attivo; infatti, l’azione di quest’ultimo, che consiste nel rendere le cose effettivamente comprensibili, non potrebbe mai mancare. Allo stesso modo, la conoscenza impressa o infusa si ritiene risieda nell’anima di Cristo al fine di perfezionare l’intelletto passivo. Ora, poiché l’intelletto passivo è ciò mediante il quale “tutte le cose esistono in potenzialità”, così l’intelletto attivo è ciò mediante il quale “tutte le cose diventano realtà”, come affermato nel De Anima iii, 18. E pertanto, poiché l’anima di Cristo conosceva, attraverso la conoscenza infusa, tutte quelle cose alle quali l’intelletto passivo è in qualche modo potenzialmente legato, allo stesso modo conosceva, attraverso la conoscenza acquisita, tutto ciò che può essere compreso grazie all’azione dell’intelletto attivo.
+
+Risposta all’Obiezione 1: La conoscenza delle cose può essere acquisita non soltanto attraverso l’esperienza diretta di tali cose, ma anche attraverso l’esperienza di altre cose; poiché, grazie alla luce dell’intelletto attivo, l’uomo è in grado di comprendere gli effetti dalle cause e le cause dagli effetti, seguendo leggi di analogia o di contrapposizione. Pertanto, sebbene Cristo non abbia sperimentato tutte le cose, egli ha raggiunto la conoscenza di tutte le cose attraverso ciò che ha effettivamente vissuto.
+
+Risposta all’Obiezione 2: Sebbene non tutte le cose sensibili fossero soggette ai sensi fisici di Cristo, altre cose sensibili lo erano certamente; e grazie a ciò Egli poteva conoscere altre realtà attraverso il potere supremo della sua ragione, nel modo descritto nella risposta precedente. Proprio come, osservando i corpi celesti, Egli riusciva a comprendere le loro proprietà e gli effetti che esercitavano sulle cose terrene, che non erano soggette ai suoi sensi; per lo stesso motivo, partendo da qualsiasi altra realtà, Egli poteva giungere alla conoscenza di altre ancora.
+
+Risposta all’Obiezione 3: Con questa conoscenza, l’anima di Cristo non conosceva tutte le cose in modo assoluto, ma soltanto quelle che possono essere comprese attraverso la luce dell’intelletto umano. Pertanto, con questa conoscenza Egli non conosceva le essenze delle sostanze separate, né i singoli eventi del passato, presente o futuro; queste cose, tuttavia, le conosceva attraverso una conoscenza infusa, come è stato detto sopra (Q[11]).
 
 <span class="atom-split" data-atom="089" data-title="Whether Christ advanced in acquired or empiric knowledge?" data-chapter="Whether Christ advanced in acquired or empiric knowledge?" data-kind="atom" data-srclang="en"></span>
 
@@ -4740,6 +6031,24 @@ was made to Christ's knowledge, i.e. as regards any knowledge of His, and especi
 the infused knowledge which is caused in Christ's soul by union with the Word; but it does not
 regard the increase of knowledge caused by the natural agent.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo non abbia progredito in questa conoscenza. Poiché, proprio come Cristo conosceva tutte le cose grazie alla sua conoscenza beata e infusa, allo stesso modo acquisì anche queste conoscenze ulteriori, come risulta chiaramente da quanto detto (A[1]). Tuttavia, Egli non progredì in queste conoscenze. Pertanto, nemmeno in queste.
+
+Obiezione 2: Inoltre, il progresso appartiene all’imperfetto, poiché al perfetto non può essere aggiunto nulla. Ora non possiamo supporre che Cristo possedesse una conoscenza imperfetta; pertanto, Cristo non ha fatto progressi in questo ambito della conoscenza.
+
+Obiezione 3: Inoltre, Damasceno afferma (De Fide Orthodossa iii, 22): “Chi sostiene che Cristo abbia acquisito saggezza e grazia in modo tale da ricevere sensazioni aggiuntive, non venera quella unione che esiste nella sua ipostasi”. Ma è empio non venerare questa unione. Pertanto, è empio affermare che la Sua conoscenza sia aumentata.
+
+Al contrario, è scritto (Lc 2:52): “Gesù cresceva in saggezza, età e grazia davanti a Dio e agli uomini”; e Ambrogio afferma (De Incar. Dom. vii) che “cresceva in sapienza umana”. Ora, la sapienza umana è quella che si acquisisce in modo umano, cioè attraverso la luce dell’intelletto attivo. Pertanto, Cristo crebbe in questa forma di conoscenza.
+
+Rispondo che esistono due tipi di progresso nella conoscenza: uno riguarda l’essenza stessa della conoscenza, nel senso che aumenta l’abitudine alla conoscenza; l’altro riguarda gli effetti concreti di tale conoscenza – ad esempio, se qualcuno, possedendo la stessa abitudine alla conoscenza, inizialmente dimostri a un altro alcune verità minori e successivamente conclusioni più importanti e complesse. In questo secondo caso è evidente che Cristo progredì sia nella conoscenza che nella grazia, proprio come nell’età: man mano che invecchiava, compiva imprese sempre più grandi e dimostrava una conoscenza e una grazia sempre maggiori. Per quanto riguarda l’abitudine alla conoscenza, è chiaro che la sua abitudine alla conoscenza infusa non aumentò mai, poiché fin dall’inizio possedeva una conoscenza perfetta e completa di tutte le cose; inoltre, la sua conoscenza beata non poteva certo crescere. Nelle opere FP, Q[14], A[15] abbiamo già affermato che la sua conoscenza divina non poteva aumentare. Pertanto, se nella anima di Cristo non esisteva alcuna abitudine alla conoscenza acquisita, al di fuori di quella infusa – come ritenevano alcuni grandi teologi come Sant’Alberto Magno, Alessandro di Hales e San Bonaventura – allora nessuna conoscenza di Christo aumentò in termini essenziali, ma soltanto attraverso l’esperienza, cioè confrontando le specie intellegibili infuse con quelle percepite attraverso i sensi. In questo modo si sostiene che la conoscenza di Cristo crescesse grazie all’esperienza, soprattutto nel confrontare tali specie intellegibili con ciò che riceveva per la prima volta attraverso i sensi. Tuttavia, poiché sembra inappropriato ritenere che Cristo potesse essere privo di qualsiasi capacità intellettiva naturale, e poiché estrarre specie intellegibili dai fenomeni sensoriali è un’azione naturale dell’intelletto umano attivo, appare logico attribuire anche questa capacità a Cristo. Da ciò si deduce che nell’anima di Cristo esistesse davvero un’abitudine alla conoscenza che poteva aumentare attraverso tale processo di astrazione delle specie intellegibili; infatti, l’intelletto attivo, dopo aver estratto la prima specie intellegibile dai fenomeni sensoriali, poteva continuare ad estrarne altre.
+
+Risposta all’Obiezione 1: Sia la conoscenza innata che quella beata dell’anima di Cristo furono effetti di un agente di potere infinito, capace di produrre l’intero insieme in una sola volta; pertanto, in nessuna delle due forme di conoscenza Cristo fece progressi, poiché le possedeva già perfettamente fin dall’inizio. La conoscenza acquisita da Cristo, invece, è il risultato dell’operazione dell’intelletto attivo, che non produce l’intero insieme in una sola volta, ma gradualmente; per questo motivo, attraverso questa conoscenza Cristo non conobbe tutto fin dall’inizio, bensì passo dopo passo, e solo dopo un certo periodo di tempo, cioè nella sua età perfetta. Ciò risulta chiaro da quanto afferma l’Evangelista, secondo cui Cristo “cresceva sia nella conoscenza che nell’età”.
+
+Risposta all’Obiezione 2: Anche questa conoscenza era sempre perfetta per il momento in cui veniva acquisita, anche se non lo era sempre in termini assoluti o rispetto alla natura stessa; pertanto, poteva essere migliorata.
+
+Risposta all’Obiezione 3: Questa affermazione di Damasceno riguarda coloro che sostengono in modo assoluto che alla conoscenza di Cristo sia stata aggiunta qualche informazione, cioè qualsiasi tipo di conoscenza da Lui posseduta, soprattutto quella infusa nella Sua anima attraverso l’unione con la Parola; tuttavia, non si riferisce all’aumento della conoscenza causato dagli agenti naturali.
+
 <span class="atom-split" data-atom="090" data-title="Whether Christ learned anything from man?" data-chapter="Whether Christ learned anything from man?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ learned something from man. For it is written (Lk.
@@ -4789,6 +6098,24 @@ give ear to hearing the lessons of doctrine until such time as He was able to ha
 of knowledge by way of experience. Hence Gregory says (Sup. Ezech. Lib. i, Hom. ii): "In the
 twelfth year of His age He deigned to question men on earth, since in the course of reason, the word
 of doctrine is not vouchsafed before the age of perfection."
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo abbia imparato qualcosa dagli uomini. Infatti è scritto (Lc 2:46,47) che “Lo trovarono nel tempio, in mezzo ai dottori; egli li ascoltava e li interpellava”. Ma porre domande e rispondere sono azioni tipiche di chi impara. Pertanto, Cristo deve aver imparato qualcosa dagli uomini.
+
+Obiezione 2: Inoltre, acquisire conoscenza attraverso l’insegnamento di un uomo sembra più nobile che ottenerla dalle cose sensibili, poiché nell’anima dell’uomo che insegna le specie intelligibili queste sono attualmente presenti; mentre nelle cose sensibili tali specie esistono soltanto in [potenzialità](/concepts/act_potency). Ora, Cristo ha acquisito conoscenza empirica attraverso le cose sensibili, come detto sopra (A[2]). Pertanto, con ancora maggiore ragione avrebbe potuto ottenere conoscenza imparando dagli uomini.
+
+Obiezione 3: Inoltre, grazie alla conoscenza empirica, Cristo non conosceva tutto fin dall’inizio, ma progredì nella sua conoscenza, come detto sopra (A[2]). Chiunque ascolti parole che hanno un significato può imparare qualcosa di ciò che non sa. Pertanto, Cristo poteva imparare dagli uomini cose che non conosceva attraverso questa forma di conoscenza.
+
+Al contrario, è scritto (Salmo 45:4): “Ecco, l’ho dato come testimone al popolo, come guida e maestro per le nazioni”. Ora, un maestro non viene insegnato, ma insegna. Pertanto Cristo non ha ricevuto alcuna conoscenza attraverso l’insegnamento di alcun uomo.
+
+Rispondo che, in ogni genere, ciò che è il primo motore non viene mosso secondo lo stesso tipo di movimento; così come il primo agente di cambiamento non subisce a sua volta modifiche. Ora, Cristo è stato posto da Dio a capo della Chiesa – sì, di tutti gli uomini, come detto sopra (Q[8], A[3]) – affinché non solo tutti potessero ricevere la grazia attraverso Lui, ma anche tutti potessero ricevere dalla Sua voce la dottrina della Verità. Per questo motivo Egli stesso dice (Giovanni 18:37): “Per questo sono nato e sono venuto nel mondo: per dare testimonianza della verità”. E quindi non era conforme alla Sua dignità che fosse Lui ad essere insegnato da alcun uomo.
+
+Risposta all’Obiezione 1: Come afferma Origene (Hom. xix in Luc.), “Nostro Signore poneva domande non per imparare qualcosa, ma per insegnare attraverso le domande stesse. Poiché dalla stessa fonte di conoscenza provenivano sia la domanda che la risposta sagge”. Per questo motivo il Vangelo prosegue dicendo che “tutti coloro che Lo ascoltarono rimasero stupiti dalla Sua saggezza e dalle Sue risposte”.
+
+Risposta all’Obiezione 2: Chi impara dall’uomo non riceve la conoscenza direttamente dalle specie intellegibili presenti nella sua mente, ma attraverso parole sensibili, che sono segni di concetti intellegibili. Poiché le parole create dall’uomo sono segni della sua conoscenza intellettuale, allo stesso modo le creature create da Dio sono segni della Sua saggezza. Per questo si legge nell’Ecclesiaste (1:10) che Dio “ha versato” la saggezza su tutte le Sue opere. Pertanto, proprio come è meglio essere istruiti da Dio piuttosto che dall’uomo, è anche meglio ricevere la nostra conoscenza dalle creature sensibili e non attraverso l’insegnamento umano.
+
+Risposta all’Obiezione 3: Gesù avanzò nella conoscenza empirica, così come nell’età, come detto sopra (A[2]). Ora, poiché per un uomo è necessaria un’età adeguata per acquisire conoscenza attraverso la scoperta, così pure lo è per poterla acquisire tramite l’insegnamento. Ma il nostro Signore non fece nulla che non fosse conforme alla Sua età; pertanto non ascoltò le lezioni della dottrina fino a quando non fu in grado di raggiungere quel livello di conoscenza attraverso l’esperienza. Per questo motivo Gregorio dice (Sup. Ezech. Lib. i, Hom. ii): “Nel dodicesimo anno della Sua età si degnò di porre domande alle persone sulla terra, poiché, secondo la logica naturale, la parola della dottrina non viene rivelata prima dell’età della perfezione”.
 
 <span class="atom-split" data-atom="091" data-title="Whether Christ received knowledge from the angels?" data-chapter="Whether Christ received knowledge from the angels?" data-kind="atom" data-srclang="en"></span>
 
@@ -4850,6 +6177,14 @@ inquiry:
 (2) Whether He had omnipotence with regard to corporeal creatures?
 (3) Whether He had omnipotence with regard to His own body?
 (4) Whether He had omnipotence as regards the execution of His own will?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il potere dell’anima di Cristo; e in questo ambito vi sono quattro punti da esaminare:  
+(1) Se Egli possedesse onnipotenza in senso assoluto;  
+(2) Se Egli possedesse onnipotenza riguardo alle creature corporee;  
+(3) Se Egli possedesse onnipotenza riguardo al proprio corpo;  
+(4) Se Egli possedesse onnipotenza per quanto riguarda l’esecuzione della propria volontà.
 
 <span class="atom-split" data-atom="093" data-title="Whether the soul of Christ had omnipotence?" data-chapter="Whether the soul of Christ had omnipotence?" data-kind="atom" data-srclang="en"></span>
 
@@ -4924,6 +6259,24 @@ something else is more than merely to have the form; as to be lightsome and to e
 than merely to be lightsome. Hence the soul of Christ has a speculative knowledge of creation (for
 it knows the mode of God's creation), but it has no practical knowledge of this mode, since it has
 no knowledge operative of creation.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’anima di Cristo possedesse onnipotenza. Infatti Ambrogio, nel suo [*Commento], a proposito di Luca 1:32, afferma: “Il potere che il Figlio di Dio possedeva naturalmente, l’Uomo stava per riceverlo nel tempo”. Ciò sembrerebbe riguardare principalmente l’anima, poiché essa è la parte principale dell’uomo. Pertanto, poiché il Figlio di Dio aveva onnipotenza fin dall’[eternità](/positions/eternity), sembrerebbe che anche l’anima di Cristo abbia ricevuto onnipotenza nel tempo.
+
+Obiezione 2: Inoltre, poiché il potere di Dio è infinito, lo è anche la Sua conoscenza. Ma l’anima di Cristo, in un certo senso, possedeva la conoscenza di tutto ciò che Dio conosce, come detto sopra (Q[10], A[2]). Pertanto, Egli possedeva ogni potere; ed era quindi onnipotente.
+
+Obiezione 3: Inoltre, l’anima di Cristo possiede ogni conoscenza. Ora, la conoscenza è o pratica o speculativa. Pertanto, Egli possiede una conoscenza pratica di ciò che sa; cioè, sapeva come compiere quelle cose che conosceva; e quindi sembra che Egli possa fare ogni cosa.
+
+Al contrario, ciò che è proprio di Dio non può appartenere ad alcuna creatura. Tuttavia, essere onnipotente è proprio di Dio, come si legge in Esodo 15:2-3: “Lui è il mio Dio e lo glorificherò”; inoltre, “Il suo nome è Onnipotente”. Pertanto, l’anima di Cristo, essendo una creatura, non possiede onnipotenza.
+
+Rispondo che, come già detto in precedenza (Q[2], A[1]; Q[10], A[1]) riguardo al mistero dell’Incarnazione, l’unione tra le nature avvenne in modo tale che rimase comunque distinta la natura divina da quella umana, ciascuna conservando ciò che le apparteneva. Ora, il principio attivo di una cosa segue la sua forma, che è appunto il principio dell’azione. Ma la forma può essere o la stessa natura della cosa, come nei semplici enti, oppure un elemento costitutivo della natura della cosa, come in quelli composti da materia e forma. Ed è proprio in questo modo che l’onnipotenza, per così dire, deriva dalla Natura Divina. Poiché la Natura Divina è lo stesso Essere illimitato di Dio, come chiarisce Dionigi (Div. Nom. v), essa possiede un potere attivo su tutto ciò che può avere la natura dell’essere; e questo significa possedere l’onnipotenza. Proprio come ogni altra cosa possiede un potere attivo su ciò che rientra nell’ambito della perfezione della sua natura – ad esempio, ciò che è caldo dà calore. Pertanto, poiché l’anima di Cristo fa parte della natura umana, essa non può assolutamente possedere l’onnipotenza.
+
+Risposta all’Obiezione 1: Attraverso l’unione con la Persona divina, l’Uomo acquisisce onnipotenza nel tempo, quella che il Figlio di Dio possedeva fin dall’eternità; conseguenza di questa unione è che, poiché si dice che l’Uomo sia Dio, si dice anche che Egli sia onnipotente. Non si tratta però di una onnipotenza distinta da quella del Figlio di Dio (così come non lo è la Sua divinità), ma semplicemente perché esiste un’unica Persona divina, composta da Dio e dall’Uomo.
+
+Risposta all’Obiezione 2: Secondo alcuni, conoscenza e potere attivo non sono nella stessa proporzione; infatti, il potere attivo deriva dalla stessa natura della cosa, poiché l’azione è considerata come qualcosa che emerge dall’agente stesso; mentre la conoscenza non è sempre posseduta dall’essenza o dalla forma stessa del conoscitore, poiché può essere acquisita attraverso l’assimilazione di ciò che viene conosciuto, con l’aiuto di concetti ricevuti. Tuttavia, questo argomento sembra non essere sufficiente: infatti, proprio come possiamo comprendere qualcosa attraverso una somiglianza ottenuta da un altro oggetto, così possiamo anche agire seguendo una forma derivante da un altro elemento, come l’acqua o il ferro che si riscaldano grazie al calore preso dal fuoco. Pertanto, non vi sarebbe alcun motivo per cui l’anima di Cristo, essendo in grado di conoscere tutte le cose attraverso le somiglianze che Dio le ha impresso, non potesse compiere queste stesse azioni utilizzando le stesse somiglianze. È quindi necessario considerare ulteriormente che ciò che viene ricevuto nella natura inferiore dalla natura superiore viene posseduto in modo inferiore; ad esempio, l’acqua non riceve il calore nella sua perfezione e forza come avviene nel fuoco. Pertanto, poiché l’anima di Cristo ha una natura inferiore rispetto alla Natura Divina, le somiglianze delle cose vengono acquisite da essa in modo meno completo rispetto a quanto avvenga nella Natura Divina. Di conseguenza, la conoscenza dell’anima di Cristo è inferiore alla conoscenza divina, sia per quanto riguarda il modo di conoscere – poiché Dio conosce le cose in modo più perfetto – sia per quanto riguarda il numero delle cose conosciute: l’anima di Cristo, infatti, non conosce tutto ciò che Dio può fare, e Dio stesso conosce queste cose attraverso la conoscenza dell’intelligenza semplice; sebbene l’anima di Cristo conosca tutte le cose presenti, passate e future, che Dio conosce attraverso la visione divina. Allo stesso modo, le somiglianze delle cose infuse nell’anima di Cristo non equivalgono al potere divino nell’agire, cioè non sono sufficienti per compiere tutto ciò che Dio può fare o per agire nello stesso modo in cui Dio agisce, Lui che opera con un potere infinito di cui la creatura è incapace. Ora, non esiste nulla che richieda necessariamente un potere infinito per essere conosciuto, anche se alcuni tipi di conoscenza appartengono effettivamente a un potere infinito; tuttavia, ci sono cose che possono essere compiute soltanto con un potere infinito, come la creazione e simili, come è evidente da quanto detto nel FP, Q[45]. Pertanto, l’anima di Cristo, essendo una creatura e quindi limitata nel suo potere, può certamente conoscere tutte le cose, ma non in ogni modo; tuttavia, non può compiere tutte le cose che sono proprie della natura dell’onnipotenza; tra queste, è evidente che non può creare se stessa.
+
+Risposta all’Obiezione 3: L’anima di Cristo possiede conoscenza pratica e conoscenza speculativa; tuttavia non è necessario che abbia una conoscenza pratica di quelle cose di cui possiede una conoscenza speculativa. Poiché per la conoscenza speculativa basta semplicemente che il conoscitore si conformi o si assimili alla cosa conosciuta; mentre per la conoscenza pratica è necessario che le forme delle cose nell’intelletto siano efficaci, cioè capaci di agire. Ora, possedere una forma e imprimere questa forma su qualcos’altro significa qualcosa di più che semplicemente possederla; così come essere “leggeri” e “illuminanti” significa qualcosa di più che semplicemente essere “leggeri”. Pertanto, l’anima di Cristo possiede una conoscenza speculativa della creazione (poiché conosce il modo in cui Dio ha creato), ma non ne possiede una conoscenza pratica, poiché non dispone di alcuna conoscenza efficace riguardo alla creazione stessa.
 
 <span class="atom-split" data-atom="094" data-title="Whether the soul of Christ had omnipotence with regard to the transmutation of creatures?" data-chapter="Whether the soul of Christ had omnipotence with regard to the transmutation of creatures?" data-kind="atom" data-srclang="en"></span>
 
@@ -5048,6 +6401,24 @@ imagination, and thus by commotion of the spirits the whole body is altered. But
 dispositions which have no natural relation to the imagination are not transmuted by the imagination,
 however strong it is, e.g. the shape of the hand, or foot, or such like.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’anima di Cristo avesse onnipotenza riguardo al proprio corpo. Infatti Damasceno afferma (De Fide Orth. iii, 20,23) che “tutte le cose naturali erano volontarie per Cristo; Egli volle soffrire la fame, volle provare sete, volle temere, volle morire”. Ora Dio è chiamato onnipotente perché “ha fatto tutto ciò che ha voluto” (Salmo 113:11). Pertanto sembra che l’anima di Cristo avesse onnipotenza riguardo alle funzioni naturali del corpo.
+
+Obiezione 2: Inoltre, la [natura umana](/axes/human_nature) era più perfetta in Cristo che in Adamo, il quale possedeva un corpo interamente soggetto all’anima, così che nulla poteva accadere al corpo contro la volontà dell’anima – e ciò grazie alla giustizia originale che Adamo possedeva nello [stato](/concepts/state) di innocenza. Pertanto, molto più ancora l’anima di Cristo doveva disporre di onnipotenza riguardo al Suo corpo.
+
+Obiezione 3: Inoltre, il corpo viene naturalmente modificato dalle immaginazioni dell’anima; e tali modifiche diventano ancora più evidenti quanto più forti siano le capacità immaginative dell’anima, come è stato detto nel FP, Q[117], A[3], ad 3. Ora, l’anima di Cristo possedeva la forza più perfetta sia in termini di capacità immaginative che di altre facoltà spirituali. Pertanto, l’anima di Cristo era onnipotente riguardo al proprio corpo.
+
+Al contrario, è scritto (Ebrei 2:17) che “era necessario che Egli in ogni cosa fosse simile ai suoi fratelli”, soprattutto per quanto riguarda ciò che appartiene alla condizione della natura umana. Tuttavia, fa parte della natura umana il fatto che la salute del corpo, nonché la sua nutrizione e crescita, non siano soggette al comando della ragione o della volontà, poiché le cose naturali sono soggette soltanto a Dio, che ne è l’autore. Pertanto, in Cristo queste cose non erano soggette al suo controllo; di conseguenza, l’anima di Cristo non era onnipotente riguardo al proprio corpo.
+
+Rispondo che, come già detto sopra (A[2]), l’anima di Cristo può essere considerata in due modi. Primo, nella sua natura e potenza proprie; e in questo senso, poiché era incapace di far deviare i corpi esterni dal corso e dall’ordine della natura, allo stesso modo era incapace di modificare la propria carne secondo disposizioni diverse da quelle naturali, poiché l’anima, per sua stessa natura, ha una relazione determinata con il proprio corpo. In secondo luogo, l’anima di Cristo può essere considerata uno strumento unito in persona alla Parola di Dio; e pertanto ogni disposizione del suo corpo era interamente soggetta al suo potere. Tuttavia, poiché il potere di un’azione non viene propriamente attribuito allo strumento, ma all’agente principale, questa onnipotenza viene attribuita alla Parola di Dio piuttosto che all’anima di Cristo.
+
+Risposta all’Obiezione 1: Questo riferimento di Damasceno alla volontà divina di Cristo si basa sul fatto che, come egli afferma nel capitolo precedente (De Fide Orth. xix, 14, 15), fu proprio con il consenso della volontà divina che alla carne fu permesso soffrire e compiere ciò che le era proprio.
+
+Risposta all’Obiezione 2: Non faceva parte della giustizia originale che Adamo possedesse nello stato di innocenza il potere di trasformare il proprio corpo in qualsiasi forma, ma soltanto il potere di proteggerlo da ogni danno. Tuttavia, Cristo avrebbe potuto assumere anche questo potere, se lo avesse desiderato. Ma poiché l’uomo attraversa tre stati – ovvero innocenza, peccato e gloria – così come dallo stato di gloria assunse la capacità di comprendere le verità divine, e dallo stato di innocenza la libertà dal peccato, allo stesso modo, dallo stato di peccato assunse la necessità di sottoporsi alle punizioni di questa vita, come verrà detto più avanti (Q[14], A[2]).
+
+Risposta all’Obiezione 3: Se l’immaginazione è forte, il corpo obbedisce naturalmente in alcune cose; ad esempio, nel caso di una caduta da un’impalcatura posta in alto, poiché l’immaginazione è stata creata appunto per essere il principio del movimento locale, come si afferma nel De [Anima](/concepts/soul) iii, 9,10. Lo stesso vale per i cambiamenti dovuti al caldo e al freddo, nonché alle loro conseguenze; infatti, le emozioni dell’anima, che influenzano il cuore, seguono naturalmente l’immaginazione, e così, attraverso la perturbazione degli spiriti, l’intero corpo viene modificato. Tuttavia, altre caratteristiche corporee che non hanno alcuna relazione naturale con l’immaginazione non vengono alterate da essa, per quanto forte possa essere; ad esempio, la forma della mano o del piede, e simili.
+
 <span class="atom-split" data-atom="096" data-title="Whether the soul of Christ had omnipotence as regards the execution of His will?" data-chapter="Whether the soul of Christ had omnipotence as regards the execution of His will?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the soul of Christ had not omnipotence as regards the execution
@@ -5109,6 +6480,15 @@ Under the first head there are four points of inquiry:
 (2) Whether He assumed the obligation of being subject to these defects?
 (3) Whether He contracted these defects?
 (4) Whether He assumed all these defects?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare i difetti che Cristo assunse nella [natura umana](/axes/human_nature); e in primo luogo, i difetti del corpo; in secondo luogo, i difetti dell’anima.  
+All’interno di questa prima categoria esistono quattro punti da esaminare:  
+(1) Se il Figlio di Dio dovesse aver assunto nella natura umana difetti fisici;  
+(2) Se abbia assunto l’obbligo di essere soggetto a tali difetti;  
+(3) Se abbia realmente contratto tali difetti;  
+(4) Se abbia assunto tutti questi difetti.
 
 <span class="atom-split" data-atom="098" data-title="Whether the Son of God in human nature ought to have assumed defects of body?" data-chapter="Whether the Son of God in human nature ought to have assumed defects of body?" data-kind="atom" data-srclang="en"></span>
 
@@ -5192,6 +6572,30 @@ they made known His Manhood, which is the way of coming to the Godhead, accordin
 strength in Christ, but spiritual strength, wherewith He vanquished the devil and healed human
 weakness.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il Figlio di Dio non dovrebbe aver assunto la [natura umana](/axes/human_nature) con difetti fisici. Poiché la Sua anima è strettamente unita alla Parola di Dio, lo stesso vale per il Suo corpo. Tuttavia, l’anima di Cristo possedeva ogni perfezione, sia in termini di grazia che di verità, come già detto sopra (Q[7], A[9]; Q[9], seguenti). Pertanto, anche il Suo corpo doveva essere perfetto sotto ogni aspetto, privo di alcuna imperfezione.
+
+Obiezione 2: Inoltre, l’anima di Cristo vide la Parola di Dio attraverso quella visione con cui i beati, come detto sopra (Q[9], A[2]), percepiscono le realtà divine; ed è proprio per questo che l’anima di Cristo fu beata. Ora, con la beatificazione dell’anima, anche il corpo viene glorificato; poiché, come afferma [Agostino](/figures/augustine) (Epistola ad Dioscorus cxviii), “Dio ha creato l’anima di una natura così potente che dalla pienezza della sua beatitudine si irradia anche sulla natura inferiore” (cioè sul corpo), “non certo la beatitudine propria della visione divina, ma la piena salute” (cioè la forza dell’incorruzione). Pertanto, il corpo di Cristo era incorruttibile e privo di qualsiasi difetto.
+
+Obiezione 3: Inoltre, la punizione è la conseguenza di un errore. Ma in Cristo non vi era alcun errore, secondo 1 Pietro 2:22: “Colui che non ha commesso alcuna ingiustizia”. Pertanto, i difetti fisici, che rappresentano forme di punizione, non avrebbero dovuto esserci in Lui.
+
+Obiezione 4: Inoltre, nessun uomo ragionevole assume ciò che gli impedisce di raggiungere il proprio scopo finale. Ma a causa di tali difetti fisici, sembra che lo scopo dell’Incarnazione venga ostacolato in molti modi. Primo, perché queste infermità impedivano alle persone di conoscerLo, come si legge in Isaia 53:2-3: “Non c’era nulla di attraente in Lui che potesse suscitare il nostro desiderio; disprezzato e considerato l’ultimo tra gli uomini, pieno di sofferenze e afflitto da infermità, il Suo aspetto era quasi nascosto e ignorato, perciò non Lo stimavamo affatto”. Secondo, perché sembrerebbe che il desiderio dei Padri della Chiesa di vedere realizzato ciò che è scritto in Isaia 51:9 – “Alzati, alzati, rivestiti della tua forza, o Tu, Braccio del Signore” – non potesse essere soddisfatto. Terzo, perché sembrerebbe più appropriato che il potere del diavolo venisse sconfitto e la debolezza umana guarita attraverso la forza, piuttosto che attraverso la debolezza stessa. Pertanto, non sembra appropriato che il Figlio di Dio abbia assunto una natura umana caratterizzata da infermità o difetti fisici.
+
+Al contrario, è scritto (Ebrei 2:18): “Poiché Egli stesso ha sofferto e è stato tentato, può anche soccorrere coloro che sono tentati”. Ora Egli è venuto a soccorrerci; per questo Davide Ne parlò così (Salmo 120:1): “Ho alzato gli occhi verso le montagne, da dove verrà il mio aiuto”. Pertanto era appropriato che il Figlio di Dio assumesse una carne soggetta alle debolezze umane, affinché potesse soffrire e essere tentato in esse, e così portarci soccorso.
+
+Rispondo che era appropriato che il corpo assunto dal Figlio di Dio fosse soggetto alle debolezze e ai difetti umani; e ciò per tre motivi principali. Primo, perché fu necessario che il Figlio di Dio, assumendo la carne, venisse nel mondo al fine di redimere il peccato dell’umanità. Infatti, si compie la redenzione del peccato di un altro assumendosi su di sé la punizione dovuta a quel peccato. Ora, questi difetti fisici – morte, fame, sete e simili – rappresentano proprio la punizione del peccato introdotto nel mondo da Adamo, come si legge in Romani 5:12: “Per mezzo di un uomo il peccato è entrato nel mondo; per mezzo del peccato è venuta la morte”. Pertanto, era necessario che Egli assumesse queste punizioni al nostro posto, secondo Isaia 53:4: “Certamente ha portato le nostre infermità”.  
+Secondo, affinché si potesse credere nella veridicità dell’Incarnazione. Poiché la natura umana è conosciuta dagli uomini solo attraverso tali difetti, se il Figlio di Dio avesse assunto una natura umana priva di essi, non sarebbe sembrato un vero uomo, né avrebbe avuto una carne reale, bensì soltanto apparente, come sostenevano i Manichei. Come si legge in Filippi 2:7: “Si è svuotato, assumendo la forma di servo, diventando simile agli uomini”. Fu proprio per questo che Tommaso, vedendo le Sue ferite, ritrovò la fede, come raccontato in Giovanni 20:26.  
+Terzo, affinché Egli potesse offrirci un esempio di pazienza, sopportando con coraggio le debolezze e i difetti umani. Per questo motivo si dice nell’Epistola agli Ebrei 12:3 che Egli “ha sopportato tali opposizioni da parte dei peccatori, affinché anche voi non vi stancaste o vi scoraggiaste”.
+
+Risposta all’Obiezione 1: Le punizioni che si subiscono per il peccato altrui rappresentano, in qualche modo, la soddisfazione di quel peccato; ma il principio fondamentale è l’abitudine dell’anima, che spinge a desiderare di compiere tale soddisfazione e conferisce efficacia a tale atto. Infatti, una soddisfazione non sarebbe efficace se non derivasse dalla carità, come verrà spiegato più avanti (XP, Q[14], A[2]). Pertanto, l’anima di Cristo doveva essere perfetta per quanto riguarda l’abitudine alla conoscenza e alla virtù, affinché possedesse la capacità di compiere tale soddisfazione; tuttavia il Suo corpo era soggetto a infermità, affinché non mancasse il mezzo concreto attraverso cui tale soddisfazione potesse avvenire.
+
+Risposta all’Obiezione 2: Dalla relazione naturale che esiste tra l’anima e il corpo, la gloria dell’anima fluisce nel corpo. Tuttavia, questa relazione naturale in Cristo era soggetta alla volontà della Sua divinità; per questo motivo la [beata condizione](/positions/beatitude) rimase nell’anima e non si riversò nel corpo; la carne, invece, subì ciò che è proprio di una natura mortale. Come afferma Damasceno (De Fide Orthodossa iii, 15): “Fu per consenso della volontà divina che alla carne fu permesso soffrire e compiere ciò che le spettava”.
+
+Risposta all’Obiezione 3: La punizione segue sempre il peccato, sia quello commesso dall’individuo punito, sia quello per cui colui che subisce la punizione compie un atto di espiazione. Così fu anche per Cristo, secondo Isaia 53:5: “Fu ferito a causa dei nostri peccati, fu martoriato per le nostre colpe”.
+
+Risposta all’Obiezione 4: Le infermità che Cristo sopportò non ostacolarono affatto, ma anzi favorirono grandemente il compimento dell’Incarnazione, come già detto in precedenza. E sebbene queste infermità nascondessero la Sua divinità, esse resero evidente la Sua umanità, che rappresenta proprio il mezzo per raggiungere la divinità, secondo quanto si legge in Romani 5:1-2: “Per mezzo di Gesù Cristo abbiamo accesso a Dio”. Inoltre, gli antichi Padri non desideravano che Cristo possedesse una forza fisica, ma una forza spirituale, con la quale potesse sconfiggere il diavolo e guarire le debolezze umane.
+
 <span class="atom-split" data-atom="099" data-title="Whether Christ was of necessity subject to these defects?" data-chapter="Whether Christ was of necessity subject to these defects?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ was not of necessity subject to these defects. For it is
@@ -5235,6 +6639,24 @@ Reply to Objection 2: This is plain from what has been said.
 Reply to Objection 3: Nothing was more powerful than Christ's soul, absolutely; yet there was
 nothing to hinder a thing being more powerful in regard to this or that effect, as a nail for piercing.
 And this I say, in so far as Christ's soul is considered in its own proper nature and power.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo non fosse necessariamente soggetto a questi difetti. Infatti è scritto (Isaia 53:7): “Fu offerto perché era volontà Sua”; e il profeta si riferisce all’offerta della Passione. Ma la volontà è opposta alla necessità. Pertanto, Cristo non era necessariamente soggetto a difetti fisici.
+
+Obiezione 2: Inoltre, Damasceno afferma (De Fide Orth. iii, 20): “In Cristo non si riscontra nulla di obbligatorio; tutto è volontario”. Ora, ciò che è volontario non è necessario. Pertanto, questi difetti non erano necessari in Cristo.
+
+Obiezione 3: Inoltre, la necessità è determinata da qualcosa di più potente. Ma nessuna creatura è più potente dell’anima di Cristo, a cui spettava il compito di preservare il proprio corpo. Pertanto, questi difetti non erano necessari in Cristo.
+
+Al contrario, l’Apostolo dice (Romani 8:3) che “Dio” ha mandato “il Suo Figlio nella forma di carne peccaminosa”. Ora, essere sotto la necessità di morire e di soffrire altre passioni simili è una caratteristica intrinseca della carne peccaminosa. Pertanto, la necessità di sopportare tali difetti era presente nella carne di Cristo.
+
+Rispondo che la necessità è di due tipi. Uno è una necessità “imposta”, derivante da un agente esterno; tale necessità è contraria sia alla natura che alla volontà, poiché entrambe derivano da principi interni. L’altro tipo di necessità è quella “naturale”, che scaturisce dai principi stessi della natura umana: sia dalla forma delle cose (ad esempio, il fatto che il fuoco debba riscaldare), sia dalla materia stessa (ad esempio, il fatto che un corpo composto da contrari debba dissolversi). Pertanto, in relazione a questa necessità naturale, il corpo di Cristo era soggetto alla morte e ad altri simili mali; poiché, come detto precedentemente, “fu per volontà divina che la carne dovette subire ciò che le spettava”. Questa necessità deriva dunque dai principi della natura umana. Tuttavia, se si parla di una necessità imposta, contraria alla natura stessa del corpo, anche il corpo di Cristo, nella sua condizione naturale, era soggetto a tale necessità (ad esempio, ai chiodi che lo trafissero o alle frustate che lo colpirono). Ma poiché una tale necessità è in contrasto con la volontà umana, è evidente che, per Cristo, tali mali non derivavano né dalla volontà divina né dalla sua volontà umana considerata in sé stessa, ma soltanto dal movimento naturale della volontà umana, che inevitabilmente si ritrae di fronte alla morte e al dolore fisico.
+
+Risposta all’Obiezione 1: Si afferma che Cristo sia stato “offerto perché era volontà Sua”, cioè volontà divina e volontà umana deliberata; sebbene la morte fosse contraria al naturale corso della Sua volontà umana, come dice Damasceno (De Fide Orth. iii, 23,24).
+
+Risposta all’Obiezione 2: Ciò è evidente da quanto è stato detto finora.
+
+Risposta all’Obiezione 3: Niente era assolutamente più potente dell’anima di Cristo; tuttavia non esisteva nulla che potesse impedire a qualcosa di essere ancora più potente riguardo a questo o quel effetto, come ad esempio un chiodo utilizzato per pungere. E dico questo nel senso che l’anima di Cristo va considerata nella sua natura e potenza proprie.
 
 <span class="atom-split" data-atom="100" data-title="Whether Christ contracted these defects?" data-chapter="Whether Christ contracted these defects?" data-kind="atom" data-srclang="en"></span>
 
@@ -5329,6 +6751,25 @@ assume them all, but only such as sufficed to satisfy for the sin of the whole n
 Reply to Objection 3: Death comes to all men from the sin of our first parent; but not other
 defects, although they are less than death. Hence there is no parity.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo avrebbe dovuto assumersi tutti i difetti fisici degli uomini.  
+Infatti Damasceno afferma (De Fide Orthodossa iii, 6,18): “Ciò che non può essere assunto è anche incurabile”. Ma Cristo è venuto per guarire tutti i nostri difetti; pertanto avrebbe dovuto assumersi tutti quanti.
+
+Obiezione 2: Inoltre si è detto (A[1]) che, affinché potesse soddisfare le nostre esigenze, Cristo avrebbe dovuto possedere abitudini spirituali perfette e difetti fisici. Ora, per quanto riguarda l’anima, Egli assunse la pienezza di tutta la grazia; pertanto, per quanto riguarda il corpo, avrebbe dovuto assumere tutti i difetti possibili.
+
+Obiezione 3: Inoltre, tra tutti i difetti fisici, la morte occupa il posto più importante. Ora Cristo ha assunto la morte; pertanto, molto di più avrebbe dovuto assumere anche altri difetti.
+
+Al contrario, le contrarietà non possono manifestarsi simultaneamente nella stessa entità. Alcune malattie sono tra loro opposte, poiché causate da principi contrari; pertanto è impossibile che Cristo abbia assunto tutte le malattie umane.
+
+Rispondo che, come già detto (AA[1],2), Cristo assunse i difetti umani al fine di redimere il peccato della [natura umana](/axes/human_nature); per questo era necessario che possedesse la pienezza della conoscenza e della grazia. Pertanto, Cristo doveva assumere quei difetti che derivano dal peccato comune a tutta l’umanità, ma che non sono incompatibili con la perfezione della conoscenza e della grazia. Tuttavia, non era appropriato che assumesse tutti i difetti o le infermità umane: alcuni di questi difetti, infatti, sono incompatibili con la perfezione della conoscenza e della grazia – come l’ignoranza, la propensione al male o la difficoltà nel compiere il bene. Altri difetti, invece, non derivano dal peccato del nostro primo genitore, ma sono causati da cause particolari in alcuni individui (lebbra, epilessia, ecc.); questi difetti talvolta sono dovuti alle azioni umane stesse, altre volte a fattori fisiologici. Nessuno di questi difetti riguardava Cristo: il Suo corpo fu concepito dallo Spirito Santo, che possiede saggezza e potere infiniti e non può mai errare; inoltre, Egli stesso non commise alcun errore nel corso della Sua vita. Esistono poi altri difetti comuni a tutti gli esseri umani, dovuti al peccato del nostro primo genitore: morte, fame, sete, ecc.; e tutti questi difetti Cristo li assunse. Damasceno (De Fide Orth. i, 11; iii, 20) li definisce “passioni naturali e indistruttibili”: naturali, perché legati alla natura umana comune; indistruttibili, perché non comportano alcuna mancanza di conoscenza o grazia.
+
+Risposta all’Obiezione 1: Tutti i difetti particolari degli uomini sono causati dalla corruibilità e dalla passibilità del corpo, con l’aggiunta di alcune cause specifiche; pertanto, poiché Cristo ha guarito la passibilità e la corruibilità del nostro corpo assumendole su Sé, ha conseguentemente guarito anche tutti gli altri difetti.
+
+Risposta all’Obiezione 2: La pienezza di tutta la grazia e della conoscenza derivava per sé stessa dall’anima di Cristo, in virtù del fatto che essa fu assunta dalla Parola di Dio; pertanto Cristo assunse assolutamente tutta la pienezza di conoscenza e saggezza. Tuttavia, assunse i nostri difetti “economicamente”, cioè al fine di soddisfare il peccato nostro, e non perché tali difetti appartenessero a Lui stesso. Pertanto non era necessario che li assumesse tutti; bastava che ne assumesse quelli sufficienti a compensare il peccato dell’intera natura umana.
+
+Risposta all’Obiezione 3: La morte colpisce tutti gli uomini a causa del peccato del nostro primo genitore; ma non altri difetti, anche se questi sono meno gravi della morte. Pertanto, non esiste alcuna equivalenza tra di essi.
+
 <span class="atom-split" data-atom="102" data-title="OF THE DEFECTS OF SOUL ASSUMED BY CHRIST (TEN ARTICLES)" data-chapter="OF THE DEFECTS OF SOUL ASSUMED BY CHRIST (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the defects pertaining to the soul; and under this head there are ten points
@@ -5343,6 +6784,20 @@ of inquiry:
 (8) Whether there was wonder?
 (9) Whether there was [anger](/concepts/anger)?
 (10) Whether He was at once wayfarer and comprehensor?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare i difetti relativi all’anima; e in questa categoria esistono dieci punti di indagine:  
+(1) Se in Cristo vi fosse stato peccato?  
+(2) Se in Lui vi fossero stati i “simboli” del peccato?  
+(3) Se in Lui vi fosse stata ignoranza?  
+(4) Se la Sua anima fosse stata soggetta ai sentimenti negativi?  
+(5) Se in Lui vi fosse stato dolore fisico?  
+(6) Se in Lui vi fosse stata tristezza?  
+(7) Se in Lui vi fosse stata paura?  
+(8) Se in Lui vi fosse stato stupore?  
+(9) Se in Lui vi fosse stata [ira](/concepts/anger)?  
+(10) Se Egli fosse stato al contempo un viaggiatore nel cammino spirituale e colui che comprendeva i misteri della verità.
 
 <span class="atom-split" data-atom="103" data-title="Whether there was sin in Christ?" data-chapter="Whether there was sin in Christ?" data-kind="atom" data-srclang="en"></span>
 
@@ -5419,6 +6874,32 @@ Reply to Objection 5: A penitent can give a praiseworthy example, not by having 
 by freely bearing the punishment of sin. And hence Christ set the highest example to penitents,
 since He willingly bore the punishment, not of His own sin, but of the sins of others.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che in Cristo ci fossero peccati. Infatti è scritto (Salmo 21:2): “O Dio, mio Dio, perché mi hai abbandonato? Lontano dalla mia salvezza sono le parole dei miei peccati”. Ora queste parole vengono pronunciate nella persona stessa di Cristo, come risulta dal fatto che le ha dette sulla croce. Pertanto sembrerebbe che in Cristo ci fossero stati peccati.
+
+Obiezione 2: Inoltre, l’Apostolo afferma (Romani 5:12) che “in Adamo tutti hanno peccato”, cioè perché tutti provenivano da Adamo per origine. Ora anche Cristo proveniva da Adamo per origine; pertanto Egli ha peccato in lui.
+
+Obiezione 3: Inoltre, l’Apostolo afferma (Ebrei 2:18) che “poiché Egli stesso ha sofferto e è stato tentato, può anche soccorrere coloro che sono tentati”. Soprattutto in questo momento abbiamo bisogno del Suo aiuto per combattere il peccato. Pertanto, sembra che in Lui ci fosse il peccato.
+
+Obiezione 4: Inoltre, è scritto (2 Corinzi 5:21) che “Colui che non conosceva peccato” (cioè Cristo), “per noi” Dio “ha reso peccato”. Ma ciò che è stato reso peccato da Dio esiste davvero. Pertanto, in Cristo c’era davvero peccato.
+
+Obiezione 5: Inoltre, come afferma [Agostino](/figures/augustine) (De Agone Christ. xi), “nell’uomo Cristo, Figlio di Dio, Egli si è dato a noi come modello di vita”. Ora l’uomo ha bisogno di un modello non solo per vivere rettamente, ma anche per pentirsi del peccato. Pertanto sembra che in Cristo sia dovuto esserci stato il peccato, affinché Egli potesse pentirsi del proprio peccato e così offrirci un modello di pentimento.
+
+Al contrario, Lui stesso dice (Giovanni 8:46): “Chi di voi può dimostrarmi che io pecco?”
+
+Rispondo che, come è stato detto sopra (Q[14], A[1]), Cristo ha assunto i nostri difetti affinché potesse soddisfare per noi le nostre esigenze, affinché potesse dimostrare la veridicità della Sua [natura umana](/axes/human_nature) e affinché potesse diventare un esempio di virtù per noi. Ora è evidente che, per queste tre ragioni, Egli non avrebbe dovuto assumere il difetto del peccato. Primo perché il peccato in nessun modo può soddisfare le nostre esigenze; anzi, ostacola la capacità di soddisfarle, poiché, come si legge nell’Ecclesiaste (34:23), “Il SIGNORE non approva i doni dei malvagi”. Secondo perché la veridicità della Sua natura umana non può essere dimostrata attraverso il peccato, poiché il peccato non appartiene alla natura umana – di cui Dio è la causa – ma è stato seminato in essa contro la sua stessa natura dal diavolo, come afferma Damasceno (De Fide Orth. iii, 20). Terzo perché, commettendo peccati, Cristo non avrebbe potuto offrire un esempio di virtù, poiché il peccato è opposto alla virtù. Pertanto, Cristo non ha mai assunto il difetto del peccato – né originale né effettivo – come si legge nella Prima Lettera ai Petri (2:22): “Colui che non ha commesso peccato, in bocca sua non è stata trovata alcuna menzogna”.
+
+Risposta all’Obiezione 1: Come afferma Damasceno (De Fide Orth. iii, 25), di Cristo si parla, in primo luogo, in riferimento alle Sue proprietà naturali e ipostatiche; ad esempio, quando si dice che Dio divenne uomo e soffrì per noi. In secondo luogo, si parla di Lui in relazione alle Sue proprietà personali e relative, quando di Lui vengono dette cose che in realtà non Gli appartengono in sé stesso. Pertanto, nelle sette regole di Tichonio citate da Agostino in De Doctrina Christiana iii, 31, la prima riguarda “Nostro Signore e il Suo Corpo”, poiché “Cristo e la Sua Chiesa sono considerati una sola persona”. E così Cristo, parlando nel nome dei suoi membri, dice (Salmo 21:2): “Le parole dei miei peccati” – non perché nella Sua Persona esistessero veri peccati.
+
+Risposta all’Obiezione 2: Come afferma Agostino (Genesi ad litteram x, 20), Cristo era in Adamo e negli altri antenati non esattamente nello stesso modo in cui lo eravamo noi. Noi, infatti, eravamo in Adamo sia per quanto riguarda la virtù generativa che la sostanza corporea; come egli stesso aggiunge: “Poiché nel seme vi è una sostanza visibile e una virtù invisibile, entrambe derivano da Adamo. Cristo, invece, prese la sostanza corporea della Sua carne dalla carne della Vergine; ma la virtù del Suo concepimento non proveniva dal seme umano, bensì da fonti celesti”. Pertanto, Cristo non era in Adamo per quanto riguarda la virtù generativa, ma soltanto per quanto riguarda la sostanza corporea. Di conseguenza, Cristo non ricevette la natura umana da Adamo in modo attivo, ma solo in senso materiale; mentre la Sua natura spirituale fu donata attivamente dallo Spirito Santo. Allo stesso modo in cui Adamo ricevette il proprio corpo materialmente dalla terra, ma attivamente da Dio. E così Cristo non peccò in Adamo, in cui esisteva soltanto in senso materiale.
+
+Risposta all’Obiezione 3: Nella Sua tentazione e nella Sua passione, Cristo ci ha aiutati soddisfacendo al nostro posto i desideri peccaminosi. Ora il peccato non favorisce questa soddisfazione, ma la ostacola, come è stato detto. Pertanto, Era necessario che Cristo non avesse peccato, ma fosse del tutto libero da esso; altrimenti, la punizione che ha sopportato sarebbe stata dovuta a un suo proprio peccato.
+
+Risposta all’Obiezione 4: Dio “fece di Cristo un peccatore” – non certo nel senso che Egli stesso commettesse il peccato, ma nel senso che Lo fece diventare un sacrificio per il peccato; come è scritto in Osea 4:8: “Mangeranno i peccati del mio popolo”, cioè i sacerdoti, che secondo la legge consumavano i sacrifici offerti per il peccato. E in questo senso si legge anche in Isaia 53:6: “Il Signore ha caricato su di Lui le iniquità di tutti noi” (cioè Lo ha fatto diventare vittima dei peccati di tutti gli uomini); oppure: “Lo ha reso peccatore” (cioè Lo ha fatto assumere l’aspetto di una carne peccaminosa), come si legge in Romani 8:3, e ciò a causa del corpo mortale e soggetto al dolore che Egli assunse.
+
+Risposta all’Obiezione 5: Un pentito può offrire un esempio lodevole non perché abbia peccato, ma perché sopporta liberamente la punizione del peccato. E per questo Cristo ha dato il più alto esempio ai pentiti, poiché ha volontariamente sopportato la punizione, non dei propri peccati, ma di quelli degli altri.
+
 <span class="atom-split" data-atom="104" data-title="Whether there was the \&quot;fomes\&quot; of sin in Christ?" data-chapter="Whether there was the \&quot;fomes\&quot; of sin in Christ?" data-kind="atom" data-srclang="en"></span>
 
 # Whether there was the "fomes" of sin in Christ?
@@ -5476,6 +6957,26 @@ hence this belonged to Christ, whose spirit reached the highest degree of fortit
 He suffered no internal assault on the part of the "fomes" of sin, He sustained an external assault
 on the part of the world and the devil, and won the crown of victory by overcoming them.
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Esistevano “mali” o “peccati” in Cristo?
+
+Obiezione 1: Sembra che in Cristo esistessero i “vizi” del peccato. Infatti, i “vizi” del peccato, così come la passibilità e la mortalità del corpo, derivano dallo stesso principio: ovvero dalla sottrazione della giustizia originale, a causa della quale le facoltà inferiori dell’anima divennero soggette alla ragione, e il corpo all’anima. Poiché nella persona di Cristo esistevano passibilità e mortalità del corpo, ne consegue che anche i “vizi” del peccato dovevano esserci.
+
+Obiezione 2: Inoltre, come afferma Damasceno (De Fide Orth. iii, 19), “fu per volontà divina che la carne di Cristo potesse soffrire e compiere ciò che le spettava”. Tuttavia, è proprio della carne desiderare i piaceri terreni. Poiché i “vizi” del peccato non sono altro che [concupiscenza](/concepts/concupiscence), come si legge nel commento a Romani 7:8, sembra quindi che anche in Cristo esistessero tali vizi.
+
+Obiezione 3: Inoltre, è proprio a causa delle “piaghe” del peccato che “la carne desidera contro lo spirito”, come si legge in Galati 5:17. Ma lo spirito si dimostra essere molto più forte e degno di ricevere una corona quanto più completamente vince il proprio nemico, ovvero la concupiscenza della carne; secondo 2 Timoteo 2:5, “non riceve la corona se non lotta con tutte le sue forze”. Ora, Cristo possedeva uno spirito estremamente valoroso e vittorioso, uno davvero degno di una corona, come si legge nell’Apocalisse 6:2: “Gli fu data una corona; egli uscì vittorioso per poter vincere”. Pertanto, sembrerebbe particolarmente appropriato che anche in Cristo esistessero le “piaghe” del peccato.
+
+Al contrario, è scritto (Matteo 1:20): “Quello che è concepito in lei proviene dallo Spirito Santo”. Ora lo Spirito Santo scaccia il peccato e la tendenza al peccato, quella che è implicata nella parola “peccati veniali”. Pertanto, in Cristo non dovrebbero esserci stati tali “peccati veniali”.
+
+Rispondo che, come è stato detto sopra (Q[7], AA[2],9), Cristo possedeva la grazia e tutte le virtù nella loro massima perfezione. Ora, le virtù morali, che si trovano nella parte irrazionale dell’anima, rendono quest’ultima soggetta alla ragione; e tale soggezione aumenta quanto più la virtù stessa è perfetta. Così, la temperanza controlla il desiderio sensuale, la forza d’animo e la umiltà controllano il desiderio irascibile, come si è detto nel FS, Q[56], A[4]. Tuttavia, nella natura stessa dei “tumori” del peccato esiste una tendenza del desiderio sensuale verso ciò che è contrario alla ragione. Pertanto, è evidente che più le virtù sono perfette in un uomo, più deboli diventano in lui i “tumori” del peccato. E poiché in Cristo le virtù erano al loro massimo grado, nei Lui i “tumori” del peccato non esistevano affatto; inoltre, questo difetto non può mai essere orientato verso la soddisfazione, ma piuttosto verso ciò che è contrario a essa.
+
+Risposta all’Obiezione 1: Le facoltà inferiori relative all’appetito sensibile possiedono una capacità naturale di obbedire alla ragione; ma non lo stesso vale per le forze corporee, né per quelle dei umori corporei, né per quelle dell’anima vegetativa, come è chiaramente espresso nell’Etica, I, 13. Pertanto, la perfezione della virtù, che è in armonia con la ragione retta, non esclude la suscettibilità del corpo; tuttavia elimina quelle “cause” di peccato le cui caratteristiche principali risiedono nella resistenza dell’appetito sensibile alla ragione.
+
+Risposta all’Obiezione 2: La carne umana, essendo un animale razionale, cerca ciò che le è piacevole secondo il modo e l’ordine della ragione; pertanto, per effetto della concupiscenza dell’appetito sensibile, la carne di Cristo cercava naturalmente cibo, bevande, sonno e tutto ciò che può essere desiderato in base alla retta ragione, come si evince chiaramente da Damasceno (De Fide Orth. iii, 14). Tuttavia, questo non significa affatto che in Cristo esistessero i “vizi” del peccato, poiché ciò implicherebbe un desiderio di cose piacevoli contrario all’ordine della ragione.
+
+Risposta all’Obiezione 3: Lo spirito dimostra una certa forza di volontà resistendo a quella concupiscenza della carne che gli è opposta; tuttavia, una maggiore forza dello spirito si manifesta quando, grazie alla sua potenza, la carne viene completamente sconfitta, al punto di non essere più in grado di contrastare lo spirito. Proprio questo caratterizzava Cristo, il cui spirito raggiunse il massimo livello di forza di volontà. Sebbene non subisse alcuna aggressione interna da parte dei “vizi” del peccato, dovette affrontare attacchi esterni da parte del mondo e del diavolo; li sconfisse tutti, conquistando così la corona della vittoria.
+
 <span class="atom-split" data-atom="105" data-title="Whether in Christ there was ignorance?" data-chapter="Whether in Christ there was ignorance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there was ignorance in Christ. For that is truly in Christ which
@@ -5527,6 +7028,24 @@ given to gold). They themselves were the spoils of Samaria. Because Samaria is t
 idolatry; since this people, having turned away from the Lord, turned to the [worship](/concepts/religion) of idols. Hence
 these were the first spoils which the child took from the domination of idolatry." And in this way
 "before the child know" may be taken to mean "before he show himself to know."
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo abbia conosciuto l’ignoranza. Infatti, ciò che appartiene a Cristo nella sua [natura umana](/axes/human_nature) è effettivamente presente in Lui, anche se non lo è nella sua natura divina – come il soffrire e la morte. Ma l’ignoranza appartiene certamente alla natura umana di Cristo; infatti Damasceno afferma (De Fide Orth. iii, 21) che “egli assunse una natura ignorante ed schiava”. Pertanto, l’ignoranza era effettivamente presente in Cristo.
+
+Obiezione 2: Inoltre, si dice che una persona sia ignorante a causa della mancanza di conoscenza. Ora, a Cristo mancava qualche tipo di conoscenza, poiché l’Apostolo dice (2 Corinzi 5:21): “Colui che non conosceva peccato, lo ha reso peccato per noi”. Pertanto, in Cristo esisteva un certo grado di ignoranza.
+
+Obiezione 3: Inoltre, è scritto (Isaia 8:4): “Prima che il bambino sappia chiamare padre e madre, la forza di Damasco sarà distrutta”. Pertanto, in Cristo c’era ignoranza riguardo a certe cose.
+
+Al contrario, l’ignoranza non può essere eliminata con l’ignoranza stessa. Ma Cristo è venuto per eliminare la nostra ignoranza; infatti “è venuto per illuminare coloro che sono nella oscurità e nell’ombra della morte” (Lc 1:79). Pertanto, in Cristo non c’era alcuna ignoranza.
+
+Rispondo che, poiché in Cristo c’era la pienezza di grazia e virtù, così pure c’era la pienezza di ogni conoscenza, come risulta chiaramente da quanto detto sopra (Q[7], A[9]; Q[9]). Ora, poiché la pienezza di grazia e virtù in Cristo escludeva le “impurità” del peccato, allo stesso modo la pienezza di conoscenza escludeva l’ignoranza, che è l’opposto della conoscenza. Pertanto, proprio come nelle opere di Cristo non vi erano “impurità” del peccato, così nemmeno in Lui esisteva l’ignoranza.
+
+Risposta all’Obiezione 1: La natura umana assunta da Cristo può essere considerata in due modi. In primo luogo, nella sua natura specifica; per questo motivo Damasceno la definisce “ignorante e schiava”, aggiungendo: “Poiché la natura umana è schiava di Colui che l’ha creata; essa non possiede alcuna conoscenza delle cose future”. In secondo luogo, può essere considerata in relazione a ciò che riceve dalla sua unione con l’ipostasi divina, grazie alla quale acquisisce la pienezza di conoscenza e grazia, come si legge in Giovanni 1:14: “Lo abbiamo visto, cioè la Sua gloria, come il Figlio Unigenito del Padre, pieno di grazia e verità”. In questo senso, la natura umana in Cristo non è stata affetta dall’ignoranza.
+
+Risposta all’Obiezione 2: Si afferma che Cristo non conoscesse il peccato, perché non lo conobbe attraverso l’esperienza; ma lo conobbe tramite una semplice conoscenza intellettuale.
+
+Risposta all’Obiezione 3: In questo passaggio, il profeta parla della conoscenza umana di Cristo; quindi dice: “Prima che il Bambino” (cioè nella Sua natura umana) “sappia chiamare suo padre” (cioè Giuseppe, che era considerato suo padre), “e sua madre” (cioè Maria), “la forza di Damasco, sarà presa”. Non dobbiamo intendere questo nel senso che Cristo sia stato per un certo periodo un uomo senza saperlo; ma “prima che egli sappia” (cioè prima che diventi un uomo con una conoscenza umana) – letteralmente: “la forza di Damasco e i tesori di Samaria saranno presi dal Re degli Assiri” – o, in senso spirituale: “prima della Sua nascita, Egli salverà il Suo popolo esclusivamente attraverso la preghiera”, come spiega un commento. Tuttavia, [Agostino](/figures/augustine) (Sermone xxxii de Temp.) afferma che ciò si è avverato nell’adorazione dei Magi; egli dice: “Prima che Cristo pronunciasse parole umane in carne umana, ricevette la ‘forza di Damasco’, cioè le ricchezze di cui Damasco andava orgogliosa (poiché le ricchezze sono rappresentate soprattutto dall’oro). Quei tesori erano i ‘tesori di Samaria’: poiché Samaria simboleggia l’idolatria; infatti quel popolo, allontanandosi dal Signore, si era rivolto all’adorazione degli idoli. Pertanto, quei tesori furono i primi che il Bambino strappò al dominio dell’idolatria”. In questo modo, “prima che il Bambino sappia” può essere inteso come “prima che mostri di sapere”.
 
 <span class="atom-split" data-atom="106" data-title="Whether Christ's soul was passible?" data-chapter="Whether Christ's soul was passible?" data-kind="atom" data-srclang="en"></span>
 
@@ -5642,6 +7161,24 @@ passibility and mortality should be taken away; and for the same reason the deli
 was so kept in the mind as not to overflow into the sensitive powers, lest sensible pain should
 thereby be prevented.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che in Cristo non ci sia stata alcuna vera e propria sofferenza fisica. Infatti, Hilario afferma nel “De Trinitate” x: “Poiché per Cristo morire significava vivere, quale dolore si può supporre abbia provato nell’atto della Sua morte Lui, che dona la vita a coloro che muoiono per Lui?” E in seguito aggiunge: “L’Unigenito assunse la [natura umana](/axes/human_nature), senza cessare di essere Dio; e sebbene Gli venissero inflitti colpi, ferite e supplizi, tutto ciò non causò vera sofferenza, ma rappresentava soltanto l’espressione estrema di quella passione.” Pertanto, in Cristo non vi fu alcuna vera sofferenza fisica.
+
+Obiezione 2: Inoltre, sembrerebbe appropriato che la carne concepita nel contesto del [-peccato originale](/positions/original_sin) sia soggetta alla necessità di soffrire dolore. Ma la carne di Cristo non fu concepita nel peccato, bensì dallo Spirito Santo nel grembo della Vergine. Pertanto, essa non era soggetta alla necessità di subire dolori.
+
+Obiezione 3: Inoltre, il piacere derivante dalla contemplazione delle cose divine attenua la sensazione del dolore; per questo i martiri, nel corso delle loro sofferenze, riuscivano a sopportarle con maggiore coraggio pensando all’amore divino. Ma l’anima di Cristo godeva appieno della contemplazione di Dio, che Egli vedeva nella Sua essenza, come detto in precedenza (Q[9], A[2]). Pertanto, Egli non poteva provare alcun dolore.
+
+Al contrario, è scritto (Isaia 53:4): “Certamente Lui ha portato le nostre infermità e sopportato i nostri dolori”.
+
+Rispondo che, come è evidente da quanto detto nelle FAQ, Q[35], A[7], per provare un vero dolore fisico sono necessari sia il danno fisico stesso che la percezione di tale danno. Ora, il corpo di Cristo poteva essere danneggiato, poiché era passibile e mortale, come già detto (Q[14], AA[1],2); inoltre, non mancava nemmeno la percezione del dolore, poiché l’anima di Cristo possedeva perfettamente tutte le facoltà naturali. Pertanto, nessuno dovrebbe dubitare che in Cristo esistesse un vero dolore.
+
+Risposta all’Obiezione 1: In tutte queste e simili affermazioni, Hilary non intende escludere l’esistenza reale del dolore, ma soltanto la sua necessità. Per questo motivo, dopo quanto detto, aggiunge: “Né quando aveva sete, né quando aveva fame, né quando piangeva, si vide il Signore bere, mangiare o soffrire. Tuttavia, al fine di dimostrare l’esistenza reale del corpo, furono presi in considerazione i comportamenti tipici di un corpo umano; in questo modo, le abitudini del nostro corpo vennero compensate dalle caratteristiche della nostra natura divina. Quando Cristo mangiava o beveva, non soddisfaceva una necessità fisiologica del corpo, ma rispettava le sue abitudini naturali.” Utilizza il termine “necessità” riferendosi alla causa primaria di questi difetti, ovvero al peccato, come già detto in precedenza (Q[14], AA[1],3); quindi si può affermare che la carne di Cristo non fu soggetta alle necessità derivanti dal peccato. Aggiunge infine: “Poiché Egli aveva un corpo, un corpo proprio della Sua natura divina, che non nacque a causa dell’impurità del nostro concepimento, ma esistette nella forma del nostro corpo grazie alla potenza di Dio.” Per quanto riguarda la causa immediata di questi difetti, ovvero l’unione di elementi contrari, la carne di Cristo fu effettivamente soggetta a tali imperfezioni, come già accennato in precedenza (Q[14], A[2]).
+
+Risposta all’Obiezione 2: La carne concepita nel peccato è soggetta al dolore, non soltanto a causa della necessità dei suoi principi naturali, ma anche a causa del peso del peccato stesso. Ora, questa necessità non esisteva in Cristo; esisteva soltanto la necessità legata ai principi naturali.
+
+Risposta all’Obiezione 3: Come è stato detto sopra (Q[14], A[1], ad 2), per il potere della divinità di Cristo la [beatazza](/positions/beatitude) veniva trattenuta nell’anima, affinché non traboccasse nel corpo e così non si togliesse alla Sua passibilità e mortalità; e per lo stesso motivo, la gioia della contemplazione veniva trattenuta nella mente, affinché non si riversasse nelle facoltà sensibili e così non si impedisse il dolore sensibile.
+
 <span class="atom-split" data-atom="108" data-title="Whether there was sorrow in Christ?" data-chapter="Whether there was sorrow in Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in Christ there was no sorrow. For it is written of Christ (Is.
@@ -5707,6 +7244,28 @@ desired, but only as it is ordained to health. And thus Christ's death and passi
 involuntary, and caused sorrow, although they were voluntary as ordained to the end, which is the
 redemption of the human race.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che in Cristo non ci fosse alcun dolore. Infatti, di Cristo si legge (Isaia 42:4): “Non proverà tristezza né angoscia”.
+
+Obiezione 2: Inoltre, è scritto (Proverbi 12:21): “Quello che accade all’uomo giusto non lo rende triste”. Gli Stoici affermavano che la ragione di ciò fosse che nessuno si addolora se non per la perdita dei propri beni. Ora, l’uomo giusto considera come suoi beni soltanto la giustizia e la virtù, e queste cose non può perderle; altrimenti, l’uomo giusto sarebbe soggetto al caso fortunato se si addolorasse per la perdita di ciò che il destino gli ha concesso. Ma Cristo era il più giusto di tutti, secondo Geremia 23:6: “Questo è il nome con cui lo chiameranno: Il Signore, il nostro Giusto”. Pertanto, in Lui non vi fu alcun dolore.
+
+Obiezione 3: Inoltre, il Filosofo afferma (Etica vii, 13, 14) che ogni dolore sia “male e debba essere evitato”. Ma in Cristo non esisteva alcun male da evitare; pertanto, in Cristo non c’era alcun dolore.
+
+Obiezione 4: Inoltre, come afferma [Agostino](/figures/augustine) (De Civ. Dei xiv, 6): “Il dolore riguarda le cose che subiamo contro la nostra volontà”. Ma Cristo non ha sofferto nulla contro la Sua volontà, poiché è scritto (Isaia 53:7): “È stato offerto perché era secondo la Sua volontà”. Pertanto, in Cristo non c’è stato alcun dolore.
+
+Al contrario, il nostro Signore disse (Matteo 26:38): “Il mio cuore è addolorato fino alla morte”. E Ambrogio afferma (De Trinitate ii.) che “come uomo provò dolore; poiché egli portò il mio dolore. Lo chiamo dolore, senza timore, poiché predico la croce”.
+
+Rispondo che, come detto sopra (A[5], ad 3), per disposizione divina la gioia della contemplazione rimase nella mente di Cristo affinché non traboccasse nelle facoltà sensibili e, di conseguenza, impedisse l’insorgere del dolore sensibile. Così come il dolore sensibile deriva da un danno percepito dai sensi – come quando qualcuno viene ferito – allo stesso modo esiste anche la tristezza, che derivante da un male o da un danno interiore, percepito dalla ragione o dall’immaginazione. Ora, l’anima di Cristo poteva considerare tali cose come dannose sia per Sé stesso – in relazione alle Sue sofferenze e alla Sua morte – che per gli altri, come il peccato dei Suoi discepoli o degli Ebrei che Lo uccisero. Pertanto, poiché in Cristo poteva esistere vero dolore, poteva anche esistere vera tristezza; altrimenti, tale tristezza non avrebbe potuto manifestarsi se non nel modo descritto sopra, proprio come accade in noi quando parliamo delle passioni dell’anima di Cristo in generale.
+
+Risposta all’Obiezione 1: Il dolore non era presente in Cristo come passione perfetta; tuttavia, in Lui esisteva già, sebbene in forma incipiente, come “passione potenziale”. Per questo si legge (Matteo 26:37): “Cominciò ad addolorarsi e a rattristarsi”. Infatti, “è una cosa essere tristi e un’altra cominciare ad addolorarsi”, come afferma Girolamo riguardo a questo testo.
+
+Risposta all’Obiezione 2: Come afferma Agostino (De Civ. Dei xiv, 8), “per le tre passioni” – desiderio, gioia e paura – gli Stoici consideravano esistere tre “eupatheie”, cioè passioni positive, nell’anima dell’uomo saggio: per il desiderio, la volontà; per la gioia, l’euforia; per la paura, la prudenza. Tuttavia riguardo al dolore, negavano che potesse esistere nell’anima di un uomo saggio, poiché il dolore riguarda il male già presente, e ritenevano che nessun male potesse colpire un uomo saggio; inoltre, poiché credevano che solo la virtù fosse buona, poiché rende gli uomini buoni, e che nulla fosse male se non ciò che è peccaminoso e porta alla malvagità. Sebbene la virtù sia il bene principale dell’uomo, e il peccato il male principale, poiché entrambi riguardano la ragione, che è l’elemento supremo nell’uomo, esistono anche beni secondari legati al corpo o alle cose esterne che lo servono. Pertanto, nell’anima dell’uomo saggio può esserci dolore dovuto alla percezione di tali mali, senza che tale dolore disturbi la ragione. In questo modo si deve comprendere il detto “quello che accadrà all’uomo giusto non lo renderà triste”, poiché la sua ragione non viene turbata da alcuna sfortuna. E così anche il dolore di Cristo fu una passione, ma non una vera e propria passione malvagia.
+
+Risposta all’Obiezione 3: Tutta la tristezza rappresenta un male derivante da punizioni; tuttavia, non sempre è dovuta a colpe, se non quando deriva da affetti eccessivi. Per questo Agostino afferma (De Civ. Dei xiv, 9): “Quando questi affetti seguono la ragione e si manifestano nel momento e nel luogo in cui sono necessari, chi oserebbe definirli malattie o passioni viziose?”
+
+Risposta all’Obiezione 4: Non c’è alcun motivo per cui una cosa non possa essere di per sé contraria alla volontà, eppure essere voluta a causa dello scopo per cui è destinata; così come il medicinale amaro non è desiderato in sé stesso, ma solo perché serve alla salute. Pertanto, la morte e la passione di Cristo erano di per sé involontarie e causavano dolore, sebbene fossero volontarie nel senso che servivano allo scopo finale, ovvero il redenzimento dell’umanità.
+
 <span class="atom-split" data-atom="109" data-title="Whether there was fear in Christ?" data-chapter="Whether there was fear in Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there was no fear in Christ. For it is written (Prov. 28:1): "The
@@ -5746,6 +7305,24 @@ He voluntarily assumed fear, even as sorrow.
 
 Reply to Objection 3: Although Christ could have avoided future evils by the power of His
 Godhead, yet they were unavoidable, or not easily avoidable by the weakness of the flesh.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che in Cristo non ci fosse alcuna paura. Infatti è scritto (Proverbi 28:1): “Il giusto, coraggioso come un leone, non conoscerà timore”. Ma Cristo era il più giusto di tutti; pertanto, in Lui non c’era alcuna paura.
+
+Obiezione 2: Inoltre, Hilary afferma (De Trin. x): “Chiedo a coloro che pensano in questo modo: è davvero logico ritenere che Cristo debba temere la morte, Lui che eliminò ogni timore della morte dagli Apostoli, incoraggiandoli verso la gloria del martirio?” Pertanto, è irragionevole che in Cristo possa esistere paura.
+
+Obiezione 3: Inoltre, la paura sembra riguardare soltanto ciò che un uomo non può evitare. Ora, Cristo avrebbe potuto evitare sia il male della punizione che ha subito, sia il male del peccato che ha colpito gli altri. Pertanto, in Cristo non c’era paura.
+
+Al contrario, è scritto (Marco 4:33): Gesù “incominciò ad avere paura e a sentirsi angosciato”.
+
+Rispondo che, così come il dolore è causato dall’immaginazione di un male presente, allo stesso modo la paura è provocata dall’immaginazione di un male futuro. Ora, l’immaginazione di un male futuro, se tale male è del tutto certo, non suscita paura. Pertanto il Filosofo afferma (Rhetorica ii, 5) che non temiamo qualcosa se non esiste alcuna speranza di poterlo evitare; infatti, quando non c’è speranza di evitarlo, quel male viene considerato presente e quindi provoca dolore piuttosto che paura. Quindi la paura può essere considerata in due modi: in primo luogo, poiché il desiderio sensibile si ritrae naturalmente dal dolore fisico, sia esso presente o futuro; ed è per questo che anche in Cristo esisteva la paura, così come il dolore. In secondo luogo, la paura può essere considerata nell’incertezza riguardo all’eventualità di un male futuro, come quando di notte ci spaventiamo al suono di qualcosa senza sapere cosa sia; e in questo senso, in Cristo non esisteva paura, come afferma Damasceno (De Fide Orthodossa iii, 23).
+
+Risposta all’Obiezione 1: Si dice che l’uomo giusto sia “senza paura”, poiché la paura implica un sentimento che allontana l’uomo da ciò che la ragione prescrive. Pertanto, Cristo non provava paura, ma soltanto come un sentimento passeggero. Da qui deriva l’affermazione (Marco 14:33) secondo cui Gesù “incominciò ad avere paura e a sentirsi angosciato”, intendendo con ciò un sentimento temporaneo, come spiega Gerolamo (Matteo 26:37).
+
+Risposta all’Obiezione 2: Hilary esclude la paura da Cristo nello stesso modo in cui esclude il dolore, cioè riguardo alla necessità di provare paura. Eppure, per dimostrare la realtà della Sua [natura umana](/axes/human_nature), Egli assunse volontariamente la paura, proprio come il dolore.
+
+Risposta all’Obiezione 3: Sebbene Cristo avesse potuto evitare i mali futuri con il potere della Sua divinità, essi erano comunque inevitabili, o almeno difficilmente evitabili a causa della debolezza della carne umana.
 
 <span class="atom-split" data-atom="110" data-title="Whether there was wonder in Christ?" data-chapter="Whether there was wonder in Christ?" data-kind="atom" data-srclang="en"></span>
 

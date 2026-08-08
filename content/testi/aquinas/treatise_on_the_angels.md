@@ -38,6 +38,16 @@ Concerning their substance absolutely considered, there are five points of inqui
 (4) Of their difference from each other.
 (5) Of their immortality or incorruptibility.
 
+<span class="qlang-split" data-lang="it"></span>
+
+**Trattato sugli angeli (QQ[50]-64)**  
+**Sulla sostanza degli angeli considerata in modo assoluto (cinque articoli)** Ora esaminiamo la distinzione tra creature corporee e spirituali: innanzitutto, la creatura puramente spirituale che nella Sacra [Scrittura](/concepts/revelation) viene chiamata angelo; in secondo luogo, la creatura interamente corporea; infine, la creatura composta, sia corporea che spirituale, ovvero l’uomo. Per quanto riguarda gli angeli, consideriamo innanzitutto ciò che appartiene alla loro sostanza; in secondo luogo, ciò che riguarda il loro intelletto; in terzo luogo, ciò che riguarda la loro volontà; infine, le caratteristiche della loro creazione. La loro sostanza viene esaminata sia in modo assoluto che in relazione alle cose corporee. Per quanto riguarda la loro sostanza considerata in modo assoluto, vi sono cinque punti di indagine:  
+(1) Esiste davvero una creatura interamente spirituale, completamente incorporea?  
+(2) Supponendo che un angelo sia tale, chiediamo se sia composto da materia e forma.  
+(3) Indaghiamo sul loro numero.  
+(4) Analizziamo le differenze tra di loro.  
+(5) Esaminiamo la loro immortalità o incorruttibilità.
+
 <span class="atom-split" data-atom="002" data-title="Whether an angel is altogether incorporeal?" data-chapter="Whether an angel is altogether incorporeal?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an angel is not entirely incorporeal. For what is incorporeal
@@ -87,6 +97,24 @@ Reply to Objection 3: To be circumscribed by local limits belongs to bodies only
 be circumscribed by essential limits belongs to all creatures, both corporeal and spiritual. Hence
 Ambrose says (De Spir. Sanct. i, 7) that "although some things are not contained in corporeal place,
 still they are none the less circumscribed by their substance."
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un angelo non sia del tutto incorporeo. Infatti, ciò che è considerato incorporeo soltanto rispetto a noi, e non in relazione a Dio, non può essere definito assolutamente incorporeo. Tuttavia Damasceno afferma (De Fide Orthodossa ii) che “un angelo è detto incorporeo e immateriale rispetto a noi; ma rispetto a Dio è corporeo e materiale. Pertanto, non è semplicemente incorporeo.”
+
+Obiezione 2: Inoltre, nulla può essere mosso se non un corpo, come afferma il Filosofo (Physica vi, testo 32). Ma Damasceno sostiene (De Fide Orthodossa ii) che “un angelo è una sostanza intellettuale sempre in movimento”. Pertanto, un angelo è una sostanza corporea.
+
+Obiezione 3: Inoltre, Ambrogio afferma (De Spiritu Sancto, I, 7): “Ogni creatura è limitata entro la propria natura”. Ma essere limitati è una caratteristica dei corpi. Pertanto, ogni creatura è corporea. Ora, gli angeli sono creature di Dio, come si evince dal Salmo 148:2: “Lodate il Signore, tutti i suoi angeli”; e ancora più chiaramente nel versetto 4: “Poiché egli parlò, essi furono creati; egli comandò, ed essi vennero alla luce”. Quindi anche gli angeli sono corporei.
+
+Al contrario, si dice (Salmo 103:4): “Colui che fa dei suoi angeli degli spiriti”.
+
+Rispondo che devono esistere alcune creature incorporee. Poiché ciò che Dio intende principalmente nelle sue creazioni è il bene, e questo consiste nell’assimilazione a Lui stesso. L’assimilazione perfetta di un effetto alla sua causa si realizza quando l’effetto imita la causa secondo quel mezzo attraverso cui essa lo produce; così come il calore genera altro calore. Ora, Dio crea le cose mediante il proprio intelletto e volontà (Q[14], A[8]; Q[19], A[4]). Pertanto, la perfezione dell’universo richiede l’esistenza di creature dotate di intelletto. L’intelletto, tuttavia, non può essere un’azione di un corpo, né di alcuna facoltà corporea; poiché ogni corpo è limitato allo “qui” e al “ora”. Quindi, la perfezione dell’universo impone l’esistenza di creature incorporee. Gli antichi, tuttavia, non comprendendo appieno la natura dell’intelletto e non facendo una distinzione chiara tra sensi e intelletto, ritenevano che nel mondo esistesse soltanto ciò che poteva essere percepito dai sensi. Poiché solo i corpi rientravano nell’ambito della percezione sensoriale, supponevano che non esistesse alcun altro essere al di fuori dei corpi, come osserva il Filosofo (Physica, iv, testi 52, 57). Da qui derivò l’errore dei Sadducei, i quali affermavano che non esistesse lo spirito (Atti degli Apostoli 23:8). Ma il fatto stesso che l’intelletto sia superiore ai sensi costituisce una prova razionale dell’esistenza di entità incorporee comprensibili unicamente attraverso l’intelletto.
+
+Risposta all’Obiezione 1: Le sostanze incorporee si collocano tra Dio e le creature corporee. Ora, il mezzo, rispetto a un estremo, sembra essere l’altro estremo; infatti, ciò che è tiepido rispetto al caldo appare freddo; per questo si dice che gli angeli, rispetto a Dio, siano materiali e corporei, ma non nel senso che in loro esista qualcosa di effettivamente corporeo.
+
+Risposta all’Obiezione 2: Il concetto di movimento viene inteso nel senso in cui si applica all’intelligenza e alla volontà. Pertanto, un angelo è definito “sostanza sempre in movimento”, perché è costantemente dotato di intelletto attivo; non come se fosse a volte in possesso di intelletto attivo e a volte solo potenzialmente, come noi. È evidente quindi che quest’obiezione si basa su un equivoco.
+
+Risposta all’Obiezione 3: Essere delimitati da confini locali è caratteristico esclusivamente dei corpi; invece, essere delimitati da confini essenziali appartiene a tutte le creature, sia corporee che spirituali. Pertanto Ambrogio afferma (De Spiritu Sancto I, 7) che “sebbene alcune cose non siano contenute in uno spazio fisico, sono comunque delimitate dalla loro stessa essenza”.
 
 <span class="atom-split" data-atom="003" data-title="Whether an angel is composed of matter and form?" data-chapter="Whether an angel is composed of matter and form?" data-kind="atom" data-srclang="en"></span>
 
@@ -187,6 +215,28 @@ regards the nature of whiteness, forasmuch as it is not contracted to any one su
 Whence it is said (De Causis, prop. 16) that "intelligence is finite from above," as receiving its
 being from above itself, and is "infinite from below," as not received in any matter.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un angelo sia composto da materia e forma. Infatti, tutto ciò che rientra in un determinato genere è composto dal genere stesso e dalla differenza che, aggiunta al genere, ne costituisce la specie. Ma il genere deriva dalla materia, mentre la differenza deriva dalla forma (Metafisica, xiii, testo 6). Pertanto, tutto ciò che appartiene a un genere è composto da materia e forma. Poiché un angelo rientra nel genere delle sostanze, ne consegue che anche lui sia composto da materia e forma.
+
+Obiezione 2: Inoltre, ovunque esistano le proprietà della materia, vi è necessariamente materia. Ora, le proprietà della materia consistono nel ricevere e nell’esistere; da ciò Boezio afferma (ne “De Trinitate”) che “una forma semplice non può essere soggetto”; inoltre, tali proprietà si riscontrano anche negli angeli. Pertanto, un angelo è composto da materia e forma.
+
+Obiezione 3: Inoltre, la forma è atto. Quindi ciò che è soltanto forma è un [atto puro](/concepts/actus_purus). Ma un angelo non è un atto puro, poiché tale caratteristica appartiene esclusivamente a Dio. Pertanto, un angelo non è soltanto forma, ma possiede una forma in materia.
+
+Obiezione 4: Inoltre, la forma è propriamente limitata e perfezionata dalla materia. Quindi, una forma che non si trovi nella materia sarebbe una forma infinita. Ma la forma di un angelo non è infinita, poiché ogni creatura è finita. Pertanto, la forma di un angelo deve trovarsi nella materia.
+
+Al contrario, Dionisio afferma (Div. Nom. iv): “Si ritiene che le prime creature siano tanto immateriali quanto incorporee.”
+
+Rispondo che alcuni affermano che gli angeli siano composti da materia e forma; un’opinione che Avicebron cercò di confermare nel suo libro “La Fonte della Vita”. Egli sostiene infatti che tutto ciò che viene distinto dall’intelletto sia effettivamente distinto. Per quanto riguarda la sostanza incorporea, l’intelletto comprende ciò che la distingue dalla sostanza corporea, nonché ciò che hanno in comune. Da ciò conclude che ciò che distingue la sostanza incorporea da quella corporea è una sorta di forma; e tutto ciò che è soggetto a questa forma distintiva costituisce, per così dire, la sua materia. Pertanto, Avicebron afferma che la materia universale delle cose spirituali e corporee sia la stessa; si deve quindi intendere che la forma della sostanza incorporea sia impressa nella materia delle cose spirituali, proprio come la forma della quantità è impressa nella materia delle cose corporee. Ma basta un’occhiata per capire che non può esistere una sola materia per le cose spirituali e quelle corporee. Infatti, non è possibile che una forma spirituale e una forma corporea vengano ricevute nella stessa parte della materia; altrimenti lo stesso essere sarebbe sia corporeo che spirituale. Ne consegue quindi che una parte della materia riceva la forma corporea e un’altra quella spirituale. Tuttavia, la materia non può essere divisa in parti se non in termini di quantità; e senza quantità, la sostanza è indivisibile, come afferma Aristotele (Fisica, I, 15). Pertanto, la materia delle cose spirituali dovrebbe essere soggetta alla quantità, il che è impossibile. Quindi non è possibile che le cose corporee e quelle spirituali abbiano la stessa materia. Inoltre, è impossibile che una sostanza intellettuale abbia alcuna sorta di materia. L’operazione propria di qualsiasi essere dipende infatti dal modo in cui è costituita. Comprendere, però, è un’operazione del tutto immateriale, come risulta dal suo oggetto: da esso ogni atto riceve la sua specie e natura. Un essere viene compreso in base al grado della sua immaterialità; poiché le forme che esistono nella materia sono forme individuali che l’intelletto non può comprendere direttamente. Pertanto, ogni sostanza individuale è del tutto immateriale. Ma ciò che viene distinto dall’intelletto non è necessariamente distinto anche nella realtà; poiché l’intelletto comprende le cose secondo il proprio modo di operare, e non secondo il loro vero essere. Di conseguenza, le cose materiali, che sono al di sotto del nostro intelletto, esistono in esso in un modo più semplice rispetto a come esistono nella realtà. Le sostanze angeliche, invece, sono al di sopra del nostro intelletto; quindi non possiamo comprenderle così come sono realmente, ma soltanto secondo il modo in cui le comprende il nostro intelletto stesso, che è capace di percepire solo le cose composite. E in questo modo comprende anche Dio.
+
+Risposta all’Obiezione 1: È proprio la differenza a costituire la specie. Ora, tutto è definito entro una specie nel momento in cui viene determinato a un certo grado di essere; infatti “le specie delle cose sono simili ai numeri”, che si differenziano per l’addizione o la sottrazione dell’unità, come afferma il Filosofo (Metafisica viii, testo 10). Tuttavia, nelle cose materiali esiste una componente che determina un certo grado di essere: questa è la forma; un’altra componente, invece, è quella che viene determinata dal contesto materiale: questa è la materia. Da quest’ultima deriva il “genere”, mentre dalla prima deriva la “differenza”. Nelle cose immateriali, invece, non esistono componenti distinte che determinino un certo grado di essere; ciascuna cosa possiede intrinsecamente quel grado di essere; pertanto, in esse il “genere” e la “differenza” non derivano da elementi diversi, ma dallo stesso elemento. Tuttavia, questo concetto cambia nel modo in cui viene concepito dall’intelletto umano: quando l’intelletto considera una cosa come indeterminata, ne deriva l’idea di “genere”; quando invece la considera come determinata, ne deriva l’idea di “differenza”.
+
+Risposta all’Obiezione 2: Questo argomento viene esposto nel libro sulla Fonte della Vita e sarebbe convincente se il modo di ricevere la forma da parte dell’intelletto e della materia fosse lo stesso. Tuttavia, questo è chiaramente falso. La materia riceve infatti la forma al fine di essere costituita in una determinata specie – aria, fuoco o altro – ma l’intelletto non riceve la forma nello stesso modo; altrimenti l’opinione di Empedocle (De Anima i, 5, testo 26) sarebbe vera, secondo cui conosciamo la terra come tale e il fuoco come tale. Tuttavia, la forma intelligibile si trova nell’intelletto proprio in virtù della natura stessa di una forma; ed è proprio per questo che viene conosciuta dall’intelletto. Pertanto, questo modo di ricevere la forma non appartiene alla materia, ma a una sostanza immateriale.
+
+Risposta all’Obiezione 3: Sebbene in un angelo non esista alcuna composizione di materia e forma, vi sono tuttavia atto e [potenzialità](/concepts/act_potency). Ciò può essere reso evidente se consideriamo la natura delle cose materiali, le quali presentano una doppia composizione: quella di forma e materia, grazie alla quale tali entità vengono costituite. Una tale natura composta non rappresenta in sé l’esistenza stessa; piuttosto, l’esistenza è il suo atto. Pertanto, la natura stessa è relativa alla propria esistenza come potenzialità rispetto all’atto. Quindi, anche se non vi fosse materia e si ipotizzasse che la forma esista senza materia, rimarrebbe comunque la relazione tra la forma e la sua esistenza, cioè tra potenzialità e atto. Si ritiene che questo tipo di composizione sia presente negli angeli; è proprio ciò che alcuni affermano, quando dicono che un angelo è composto da “ciò per mezzo di cui esiste” e da “l’esistenza stessa”, come sostiene Boezio. Infatti, “ciò che esiste” è la forma stessa in atto; l’esistenza stessa, invece, è ciò grazie a cui la sostanza esiste – proprio come il movimento è ciò grazie a cui chi corre corre. Ma in Dio, “esistenza” e “ciò che esiste” non sono distinte, come è stato spiegato sopra (Q[3], A[4]). Pertanto, solo Dio è pura attività.
+
+Risposta all’Obiezione 4: Ogni creatura è semplicemente finita, poiché la sua esistenza non è assolutamente autonoma, ma è limitata a una determinata natura a cui appartiene. Tuttavia, non vi è nulla che impedisca di considerare una creatura come relativamente infinita. Le creature materiali sono infinite in termini di materia, ma finite nella loro forma, che è delimitata dalla materia stessa che le costituisce. Al contrario, le sostanze create immateriali sono finite nel loro essere; tuttavia, sono infinite nel senso che le loro forme non dipendono da alcuna altra realtà materiale. Ad esempio, si potrebbe dire che la bianchezza, in quanto entità separata e indipendente, è infinita nella sua natura essenziale, poiché non è legata a nessun soggetto concreto; ma il suo “essere” è finito, poiché è determinato da una specifica natura materiale. Da ciò deriva l’affermazione contenuta nel testo De Causis (proposizione 16): “L’intelligenza è finita ‘dall’alto’, poiché riceve il proprio essere da una fonte superiore; è invece ‘infinita ‘dal basso’, poiché non dipende da alcuna materia concreta”.
+
 <span class="atom-split" data-atom="004" data-title="Whether the angels exist in any great number?" data-chapter="Whether the angels exist in any great number?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the angels are not in great numbers. For number is a species
@@ -265,6 +315,28 @@ the cause of the distinction of things; but this was refuted above (Q[47], A[1])
 multiplication of the angels is not to be taken according to matter, nor according to bodies, but
 according to the divine wisdom devising the various orders of immaterial substances.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli non siano numerosi. Poiché il numero è una specie di quantità e deriva dalla divisione di un corpo continuo, ciò non può valere per gli angeli, poiché sono incorporei, come è stato dimostrato in precedenza (A[1]). Pertanto, gli angeli non possono esistere in numero considerevole.
+
+Obiezione 2: Inoltre, più una cosa si avvicina all’unità, meno essa viene moltiplicata, come è evidente nei numeri. Ma tra tutte le nature create, la natura angelica è quella che si avvicina di più a Dio. Pertanto, poiché Dio è supremamente uno, sembra che nella natura angelica esista il numero minimo possibile.
+
+Obiezione 3: Inoltre, l’effetto specifico delle sostanze separate sembra essere proprio il movimento dei corpi celesti. Tuttavia, i movimenti dei corpi celesti rientrano in un numero limitato e ben definito, che possiamo comprendere. Pertanto, gli angeli non sono in numero maggiore rispetto ai movimenti dei corpi celesti.
+
+Obiezione 4: Dionigi afferma (Div. Nom. iv) che “tutte le sostanze intellettuali e intelligibili esistono grazie ai raggi della divina bontà”. Tuttavia, un raggio si moltiplica soltanto in base alle diverse cose che lo ricevono. Non si può quindi dire che la loro materia sia in grado di recepire tali raggi, poiché le sostanze intellettuali sono immateriali, come è stato dimostrato in precedenza (A[2]). Pertanto, sembra che la moltiplicazione delle sostanze intellettuali possa avvenire soltanto in base alle esigenze dei primi corpi – cioè di quelli celesti – affinché in qualche modo le forme generate da tali raggi possano manifestarsi in essi; e da ciò si arriva alla stessa conclusione di prima.
+
+Al contrario, si dice (Daniele 7:10): “Migliaia di migliaia Lo servivano, e centomila volte diecimila persone stavano davanti a Lui”.
+
+Rispondo che sussistono varie opinioni riguardo al numero delle sostanze separate. Platone sosteneva che le sostanze separate fossero le specie delle cose sensibili; come se si dovesse affermare che la [natura umana](/axes/human_nature) sia di per sé una sostanza separata: e secondo questa visione, si dovrebbe concludere che il numero delle sostanze separate corrisponda al numero delle specie delle cose sensibili. Tuttavia, [Aristotele](/figures/aristotle) respingeva questo punto di vista (Metafisica I, testo 31), poiché la materia è proprio essenza delle specie delle cose sensibili. Pertanto, le sostanze separate non possono essere considerate gli esempi paradigmatici di queste cose sensibili; ma possiedono nature proprie e stabili, che sono superiori alle nature delle cose sensibili. Nonostante ciò, Aristotele riteneva (Metafisica XI, testo 43) che quelle nature più perfette avessero una relazione con le cose sensibili, come quella di “moto” e di “fine”; perciò cercava di determinare il numero delle sostanze separate in base al numero dei primi movimenti. Ma poiché ciò sembra contraddire gli insegnamenti della Sacra [Scrittura](/concepts/revelation), il rabbino Mosè Ebreo, desiderando armonizzare entrambi i punti di vista, sosteneva che gli angeli, in quanto considerati sostanze immateriali, fossero numerosi secondo il numero dei movimenti o corpi celesti, come affermava Aristotele (Metafisica XI, testo 43); al contempo, sosteneva che anche gli uomini portatori di messaggi divini venissero chiamati angeli nelle Scritture; e inoltre, anche le forze naturali che manifestano il potere infinito di Dio. Tuttavia, è del tutto estraneo alle usanze della Sacra Scrittura designare con il termine “angeli” le forze delle cose irrazionali. Pertanto, si deve affermare che gli angeli, anche in quanto sostanze immateriali, esistono in numero estremamente grande, ben oltre ogni misura materiale. È ciò che dice Dionigi di Atene (Coelum Hierarchicum XIV): “Esistono molte schiere beate di intelligenze celesti, che superano di gran lunga i limitati calcoli delle nostre numerazioni materiali”. La ragione di ciò è che, poiché Dio ha come scopo principale nella creazione la perfezione dell’universo, più alcune cose sono perfette, maggiormente vengono create da Lui. Ora, come in questo caso il “superfluo” si manifesta nella grandezza dei corpi materiali, così nelle cose incorporee si manifesta nel loro numero. Infatti, i corpi immortali superano di gran lunga i corpi mortali per grandezza; poiché l’intero ambito delle cose attive e passive è qualcosa di molto piccolo rispetto ai corpi celesti. Pertanto, è ragionevole concludere che le sostanze immateriali superino di gran lunga le sostanze materiali per numero.
+
+Risposta all’Obiezione 1: Negli angeli, il numero non rappresenta una quantità discreta, derivante dalla divisione di ciò che è continuo, ma indica piuttosto ciò che deriva dalla distinzione delle forme; infatti, la molteplicità è considerata tra i trascendentali, come già detto in precedenza (Q[30], A[3]; Q[11]).
+
+Risposta all’Obiezione 2: Poiché la natura angelica è quella più vicina a Dio, necessariamente deve contenere il minor numero possibile di elementi nella sua composizione; tuttavia, ciò non significa che esista solo in pochi esseri.
+
+Risposta all’Obiezione 3: Questo è l’argomento di Aristotele (Metafisica XII, testo 44), e concluderebbe necessariamente che le sostanze immateriali esistano solo allo scopo di generare movimento nelle cose corporee. Tuttavia non è vero che le sostanze immateriali esistano a causa di quelle corporee, poiché lo scopo finale è più nobile dei mezzi utilizzati per raggiungerlo. Per questo motivo Aristotele afferma (Metafisica XII, testo 44) che si tratta di un argomento probabile, non necessario. È stato costretto ad utilizzarlo, poiché solo attraverso le cose sensibili possiamo giungere alla conoscenza di quelle intellegibili.
+
+Risposta all’Obiezione 4: Questo argomento deriva dall’opinione di coloro che ritengono che la materia sia la causa della distinzione tra le cose; ma ciò è stato confutato in precedenza (Q[47], A[1]). Pertanto, la moltiplicazione degli angeli non deve essere intesa in termini di materia o di corpi fisici, bensì in relazione alla saggezza divina che ha disposto le varie gerarchie delle sostanze immateriali.
+
 <span class="atom-split" data-atom="005" data-title="Whether the angels differ in species?" data-chapter="Whether the angels differ in species?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the angels do not differ in species. For since the "difference"
@@ -323,6 +395,29 @@ intended by the agent, but only specific multiplication, as was said above (Q[47
 perfection of the angelic nature calls for the multiplying of species, but not for the multiplying of
 individuals in one species.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli non differiscano per specie. Poiché la “differenza” è più nobile del “genere”, tutte le cose che concordano nel loro aspetto più nobile concordano anche nella loro differenza costitutiva fondamentale; pertanto, sono uguali in termini di specie. Ma tutti gli angeli condividono ciò che è più nobile in loro, ovvero l’intelligenza. Quindi, tutti gli angeli appartengono alla stessa specie.
+
+Obiezione 2: Inoltre, “di più” e “di meno” non modificano la natura di una specie. Ma gli angeli sembrano differire tra loro soltanto in termini di quantità – cioè, uno è più semplice dell’altro e possiede un’intelligenza più acuta. Pertanto, gli angeli non differiscono per qualità specifiche.
+
+Obiezione 3: Inoltre, anima e angelo si distinguono a vicenda tra loro. Ma tutte le anime appartengono alla stessa specie; pertanto lo stesso vale per gli angeli.
+
+Obiezione 4: Inoltre, più perfetta è una cosa nella natura, maggiormente dovrebbe essere moltiplicata.  
+Ma ciò non sarebbe vero se esistesse un solo individuo di una data specie. Pertanto, esistono molti angeli della stessa specie.
+
+Al contrario, nelle cose appartenenti alla stessa specie non esiste alcuna distinzione tra “primo” e “secondo”, come afferma il Filosofo (Metafisica iii, testo 2). Tuttavia, anche tra gli angeli dello stesso ordine esistono differenze di rango: primi, intermedi e ultimi, come dice Dionigi (Ierarchia degli Angeli x). Pertanto, gli angeli non appartengono alla stessa specie.
+
+Rispondo che alcuni hanno affermato che tutte le sostanze spirituali, comprese le anime, appartengano alla stessa specie. Altri, invece, sostengono che tutti gli angeli appartengano alla stessa specie, ma non le anime; altri ancora ritengono che tutti gli angeli appartenenti allo stesso ordine o gerarchia facciano parte della stessa specie. Tuttavia, ciò è impossibile. Infatti, cose che concordano nella specie ma differiscono nel numero concordano anche nella forma, ma si distinguono materialmente. Se dunque gli angeli non sono composti da materia e forma, come detto in precedenza (A[2]), allora è impossibile che due angeli appartengano alla stessa specie; allo stesso modo, sarebbe impossibile esistere diverse forme di “bianchezza” o di “umanità”, poiché queste qualità non sono diverse se non in relazione alle sostanze in cui si manifestano. Inoltre, anche se gli angeli possedessero materia, non sarebbe comunque possibile che esistessero diversi angeli della stessa specie; infatti, la materia dovrebbe rappresentare il principio di distinzione tra di loro, ma non certo in base alla quantità – poiché gli angeli sono incorporei – bensì in base alla diversità delle loro facoltà. Una tale diversità della materia porterebbe non solo a differenze nella specie, ma anche nel genere.
+
+Risposta all’Obiezione 1: “Differenza” è più nobile di “genere”, poiché ciò che è determinato è più nobile di ciò che è indeterminato, e ciò che è specifico è più nobile di ciò che è generico; tuttavia, questa differenza non significa che una natura sia intrinsecamente superiore all’altra. Altrimenti, sarebbe necessario che tutti gli animali irrazionali appartenessero alla stessa specie, oppure che possedessero una forma superiore rispetto all’anima sensibile. Pertanto, gli animali irrazionali differiscono tra loro per specie in base ai diversi gradi di natura sensitiva; allo stesso modo, tutti gli angeli differiscono tra loro per specie in base ai diversi gradi di natura intellettuale.
+
+Risposta all’Obiezione 2: I cambiamenti modificano la specie in misura maggiore o minore, non in base all’intensità o alla debolezza di una determinata forma, ma in base al fatto che tali cambiamenti siano causati da forme di diversi gradi; ad esempio, se affermiamo che il fuoco sia più perfetto dell’aria: è proprio in questo modo che gli angeli si differenziano tra loro, secondo gradi variabili di perfezione.
+
+Risposta all’Obiezione 3: Il bene della specie prevale sul bene dell’individuo. Pertanto, è molto meglio che la specie si moltiplichi negli angeli piuttosto che che gli individui si moltiplichino all’interno di quella singola specie.
+
+Risposta all’Obiezione 4: La moltiplicazione numerica, poiché può essere svolta all’infinito, non è intenzionata dall’agente, ma soltanto la moltiplicazione specifica, come già detto in precedenza (Q[47], A[3]). Pertanto, la perfezione della natura angelica richiede la moltiplicazione delle specie, ma non quella degli individui all’interno di una stessa specie.
+
 <span class="atom-split" data-atom="006" data-title="Whether the angels are incorruptible?" data-chapter="Whether the angels are incorruptible?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the angels are not incorruptible; for Damascene, speaking of
@@ -378,6 +473,24 @@ upon God as its cause. For a thing is said to be corruptible not merely because 
 to non-existence, by withdrawing His act of preservation; but also because it has some principle
 of corruption within itself, or some contrariety, or at least the [potentiality](/concepts/act_potency) of matter.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli non siano incorruttibili; infatti Damasceno, parlando dell’angelo, afferma (De Fide Orth. ii, 3) che esso sia “una sostanza intellettuale che partecipa all’immortalità per grazia e non per natura”.
+
+Obiezione 2: Inoltre, Platone afferma nel “Timaeo”: “O dèi dei dèi, di cui io sono il creatore e il padre: voi siete davvero le mie opere, di natura dissolubili, ma indissolubili perché lo voglio io”. Ma dèi del genere possono essere intesi soltanto come angeli. Pertanto, gli angeli sono corrottabili per loro stessa natura.
+
+Obiezione 3: Inoltre, secondo Gregorio (Moralia, xvi), “tutte le cose tenderebbero a non essere nulla, se non fosse per l’intervento della mano dell’Onnipotente che le mantiene esistenti”. Ma ciò che può essere ridotto al nulla è corrottibile. Pertanto, poiché gli angeli sono stati creati da Dio, sembrerebbe che siano corrottibili per loro stessa natura.
+
+Al contrario, Dionisio afferma (Div. Nom. iv) che le sostanze intellettuali “hanno una vita eterna, essendo libere da ogni corruzione, morte, materia e generazione”.
+
+Rispondo che è necessario ritenere che gli angeli siano per loro natura incorruttibili. Il motivo di ciò è che nulla può corrompersi se non quando la sua forma viene separata dalla materia. Poiché un angelo è una forma che esiste in sé stessa, come è stato chiarito sopra (A[2]), è impossibile che la sua sostanza sia corruttibile. Infatti, ciò che appartiene a qualcosa considerato in sé stesso non può mai essere da esso separato; mentre ciò che appartiene a una cosa considerata in relazione a un’altra cosa può essere separato quando quest’ultima viene rimossa. La rotondità, ad esempio, non può essere tolta al cerchio perché appartiene a esso per sua natura stessa; ma un cerchio di bronzo può perdere la sua forma rotonda se il bronzo stesso viene privato della sua struttura circolare. Ora, “essere” appartiene a una forma considerata in sé stessa, poiché ogni cosa è un essere reale in base alla propria forma; mentre la materia è un essere reale grazie alla forma che le è attribuita. Pertanto, un soggetto composto da materia e forma cessa di esistere come entità reale quando la forma viene separata dalla materia. Ma se la forma esiste in sé stessa, come avviene negli angeli, come detto sopra (A[2]), essa non può perdere la propria essenza. Pertanto, l’immaterialità dell’angelo è la ragione per cui è incorruttibile per sua natura stessa. Un segno di questa incorruttibilità si trova nel suo operare intellettuale: poiché ogni cosa agisce secondo la propria essenza reale, l’operazione di un angelo indica il modo in cui esiste. La specie e la natura di tale operazione vengono comprese dall’oggetto su cui essa si concentra; ma un oggetto intellettuale, essendo al di sopra del tempo, è eterno. Pertanto, ogni sostanza intellettiva è per sua natura incorruttibile.
+
+Risposta all’Obiezione 1: Damasceno si occupa dell’immortalità perfetta, che include un’immutabilità assoluta; poiché “ogni cambiamento rappresenta una sorta di morte”, come afferma [Agostino](/figures/augustine) in *Contra Maximus iii*. Gli angeli ottengono questa immutabilità perfetta soltanto per grazia divina, come verrà chiarito in seguito (*Q[62]*).
+
+Risposta all’Obiezione 2: Con l’espressione “dèi”, Platone intende i corpi celesti, che riteneva fossero composti da elementi e quindi, per loro natura, suscettibili di dissoluzione; tuttavia, essi sono conservati nell’essere per sempre per volontà divina.
+
+Risposta all’Obiezione 3: Come osservato in precedenza (Q[44], A[1]), esiste un tipo di cosa necessaria che ha una causa alla sua stessa necessità. Pertanto, non è contraddittorio per una entità necessaria o incorruttibile dipendere dall’esistenza di un’altra entità come causa della propria esistenza. Quindi, quando si afferma che tutte le cose, anche gli angeli, cadrebbero nel nulla se non fossero conservate da Dio, ciò non significa affatto che negli angeli esista qualche principio di corruzione; piuttosto, significa che la loro natura dipende da Dio come causa della propria esistenza. Infatti, si dice che una cosa sia corruttibile non soltanto perché Dio può ridurla all’inesistenza ritirando il proprio atto di conservazione, ma anche perché essa possiede in sé stesso qualche principio di corruzione, o qualche contraddizione interna, o almeno la [potenzialità](/concepts/act_potency) della materia stessa.
+
 <span class="atom-split" data-atom="007" data-title="OF THE ANGELS IN COMPARISON WITH BODIES (THREE ARTICLES)" data-chapter="OF THE ANGELS IN COMPARISON WITH BODIES (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next inquire about the angels in comparison with corporeal things; and in the first place
@@ -387,6 +500,13 @@ Under the first heading there are three points of inquiry:
 (1) Whether angels have bodies naturally united to them?
 (2) Whether they assume bodies?
 (3) Whether they exercise functions of life in the bodies assumed?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Esaminiamo ora gli angeli in relazione alle cose corporee; innanzitutto, il loro rapporto con i corpi; in secondo luogo, gli angeli rispetto ai luoghi corporei; e, infine, il loro rapporto con i movimenti spaziali. All’interno della prima categoria di indagini vi sono tre punti principali:  
+(1) Gli angeli possiedono corpi naturalmente connessi a loro?  
+(2) Assumono forse dei corpi?  
+(3) Svolgono funzioni vitali nei corpi che assumono?
 
 <span class="atom-split" data-atom="008" data-title="Whether the angels have bodies naturally united to them?" data-chapter="Whether the angels have bodies naturally united to them?" data-kind="atom" data-srclang="en"></span>
 
@@ -447,6 +567,24 @@ belongs to a substance which is part of some nature, and which has not within it
 of the species. Hence an intellectual substance which is not united to a body is more perfect than
 one which is united to a body.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli possiedano corpi naturalmente connessi a loro. Infatti Origene afferma: “È soltanto un attributo di Dio – cioè, appartiene al Padre, al Figlio e allo Spirito Santo come proprietà naturale – che Egli esista senza alcuna sostanza materiale e senza alcun elemento corporeo.” Anche Bernardo dice: “Assegniamo l’incorporeità soltanto a Dio, così come l’immortalità; la natura stessa dell’immortalità, né per sé stessa né per altro motivo, ha bisogno dell’aiuto di alcun organo corporeo. Tuttavia è evidente che ogni spirito creato necessita di una sostanza materiale.” Anche Agostino afferma: “I demoni sono chiamati ‘animali dell’atmosfera’ perché la loro natura è simile a quella dei corpi celesti; ma la natura sia dei demoni che degli angeli è la stessa. Pertanto, gli angeli possiedono corpi naturalmente connessi a loro.”
+
+Obiezione 2: Inoltre, Gregorio (Hom. x in Ev.) definisce un angelo un animale razionale. Ma ogni animale è composto da corpo e anima; pertanto gli angeli possiedono corpi che sono naturalmente uniti a loro.
+
+Obiezione 3: Inoltre, la vita negli angeli è più perfetta di quella nelle anime. Ma l’anima non solo vive, ma dà vita anche al corpo; pertanto gli angeli animano corpi che sono naturalmente uniti a loro.
+
+Al contrario, Dionisio afferma (Div. Nom. iv) che “si intende che gli angeli siano incorporei”.
+
+Rispondo che gli angeli non possiedono corpi naturalmente connessi a loro. Poiché ciò che appartiene a una data natura in qualità di accidente non si trova universalmente in quella natura; ad esempio, l’avere le ali, poiché non fa parte dell’essenza di un animale, non è caratteristico di ogni animale. Ora, poiché comprendere non è un atto del corpo né di alcuna energia corporea, come verrà dimostrato in seguito (Q[75], A[2]), ne consegue che possedere un corpo connesso a sé non fa parte dell’essenza di una sostanza intellettuale in quanto tale; ma è qualcosa di accidentale per alcune sostanze intellettuali, a causa di altri fattori. Allo stesso modo, appartiene all’anima umana essere unita a un corpo, poiché essa è imperfetta e esiste potenzialmente nel genere delle sostanze intellettuali; non possiede infatti la pienità della conoscenza nella propria natura, ma la acquisisce attraverso i sensi corporei, come verrà spiegato in seguito (Q[84], A[6]; Q[89], A[1]). Ogni volta che troviamo qualcosa di imperfetto in un determinato genere, dobbiamo presupporre l’esistenza di qualcosa di perfetto in quel genere. Pertanto, nella natura intellettuale esistono sostanze intellettuali perfette, le quali non hanno bisogno di acquisire conoscenza attraverso gli oggetti sensibili. Ne consegue che non tutte le sostanze intellettuali sono unite a corpi; alcune sono completamente separate dai corpi, e queste le chiamiamo angeli.
+
+Risposta all’Obiezione 1: Come già detto in precedenza (Q[50], A[1]), alcuni ritenevano che ogni essere fosse un corpo; di conseguenza, sembrava che considerassero inesistenti sostanze incorporee se non unite a corpi; al punto che alcuni addirittura sostenevano che Dio fosse l’anima del mondo, come ci racconta Agostino (De Civ. Dei vii). Tuttavia, questa opinione è contraria alla Fede Cattolica, la quale afferma che Dio sia elevato al di sopra di tutte le cose, secondo il Salmo 8:2: “La tua maestosità si estende oltre i cieli”. Origene, pur rifiutando di attribuire tale caratteristica a Dio, seguì l’opinione degli altri riguardo alle altre sostanze; fu ingannato in questo, come in molti altri casi, seguendo le opinioni dei filosofi antichi. L’espressione di Bernardo può essere interpretata nel senso che lo spirito creato ha bisogno di un mezzo corporeo che non gli è naturalmente connesso, ma viene assunto per uno scopo specifico, come verrà spiegato in seguito (A[2]). Agostino parla non per affermare questo fatto, ma semplicemente utilizzando l’opinione dei Platonici, i quali sostenevano l’esistenza di animali “aerei”, che chiamavano demoni.
+
+Risposta all’Obiezione 2: Gregorio definisce l’angelo un animale razionale in senso metaforico, a causa della somiglianza con la natura razionale umana.
+
+Risposta all’Obiezione 3: Dare la vita in modo efficace è, in parole semplici, una perfezione; pertanto appartiene a Dio, come si dice nel 1 Re 2:6: “Il Signore uccide e dà la vita”. Ma dare la vita in modo formale appartiene a una sostanza che fa parte di una determinata natura e che non possiede in sé tutta la natura specifica della specie. Pertanto, una sostanza intellettuale che non è unita a un corpo è più perfetta di quella che è unita a un corpo.
+
 <span class="atom-split" data-atom="009" data-title="Whether angels assume bodies?" data-chapter="Whether angels assume bodies?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that angels do not assume bodies. For there is nothing superfluous
@@ -497,6 +635,24 @@ Reply to Objection 3: Although air as long as it is in a state of rarefaction ha
 nor color, yet when condensed it can both be shaped and colored as appears in the clouds. Even so
 the angels assume bodies of air, condensing it by the Divine power in so far as is needful for forming
 the assumed body.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli non assumano corpi. Poiché nulla è superfluo nell’operato di un angelo, così come nulla del genere esiste nell’opera della natura. Tuttavia, sarebbe superfluo per gli angeli assumere corpi, poiché un angelo non ha bisogno di un corpo, dato che la sua stessa forza supera ogni potenza corporea. Pertanto, un angelo non assume un corpo.
+
+Obiezione 2: Inoltre, ogni assunzione si conclude necessariamente in qualche forma di unione; infatti assumere qualcosa significa “prenderselo per sé” ([ad se sumere]). Ma un corpo non è unito a un angelo nel senso di essere considerato una sua “forma”, come affermato in (A[1]); mentre, nella misura in cui il corpo è unito all’angelo come elemento che lo muove, non si può dire che venga “assunto” dall’angelo; altrimenti ne conseguirebbe che tutti i corpi mossi dagli angeli vengano effettivamente assunti da loro. Pertanto, gli angeli non assumono corpi.
+
+Obiezione 3: Inoltre, gli angeli non assumono corpi provenienti dalla terra o dall’acqua, altrimenti non potrebbero scomparire improvvisamente; né tantomeno dal fuoco, in tal caso brucerebbero tutto ciò che toccano; né ancora dall’aria, poiché l’aria è priva di forma e colore. Pertanto, gli angeli non assumono corpi.
+
+Al contrario, [Agostino](/figures/augustine) afferma (De Civ. Dei xvi) che gli angeli apparvero ad Abramo sotto corpi umani.
+
+Rispondo che alcuni sostengono che gli angeli non assumano mai corpi fisici, ma che tutto ciò che leggiamo nella [Scrittura](/concepts/revelation) riguardo alle apparizioni degli angeli sia avvenuto in visioni profetiche, cioè frutto dell’immaginazione umana. Tuttavia, ciò è contrario allo scopo stesso della Scrittura; infatti, quanto viene visto attraverso una visione immaginaria esiste soltanto nell’immaginazione di chi la percepisce, e quindi non può essere visto da tutti. Eppure, nella Sacra Scrittura vengono spesso descritti angeli così evidenti da poter essere visti da tutti; proprio come gli angeli che apparvero ad Abramo furono visti da lui e dalla sua intera famiglia, da Lot e dai cittadini di Sodoma; allo stesso modo, l’angelo che apparve a Tobia fu visto da tutte le persone presenti. Da tutto ciò risulta chiaramente che tali apparizioni avvennero attraverso una visione corporea, cioè un’esperienza in cui l’oggetto visto esiste al di fuori della persona che lo percepisce e può quindi essere osservato da tutti. Ora, soltanto attraverso una visione del genere è possibile percepire un corpo fisico; pertanto, poiché gli angeli non sono corpi e non possiedono corpi naturali, come è stato chiarito in precedenza (A[1]; Q[50], A[1]), ne consegue che a volte assumano forme corporee.
+
+Risposta all’Obiezione 1: Gli angeli hanno bisogno di corpi assunti, non per sé stessi, ma per nostro conto; in questo modo, conversando familiarmente con gli uomini, possono dimostrare quella compagnia intellettuale che gli uomini si aspettano di avere con loro nella vita futura. Inoltre, il fatto che gli angeli assumessero corpi sotto la [Legge Antica](/concepts/divine_law) rappresentava un simbolo del fatto che la Parola di Dio avrebbe assunto un corpo umano; infatti, tutte le apparizioni descritte nell’Antico Testamento erano destinate a preparare il terreno per quell’apparizione in cui il Figlio di Dio si manifestò nella carne.
+
+Risposta all’Obiezione 2: Il corpo assunto dall’angelo non è unito ad esso come sua forma, né semplicemente come suo motore, ma come quel motore rappresentato attraverso il corpo mobile assunto. Poiché, come nelle Sacre Scritture le proprietà delle cose intellegibili vengono descritte attraverso analogie con le cose sensibili, allo stesso modo, per potere, gli angeli plasmano i corpi sensibili in modo che possano rappresentare adeguatamente le proprietà intellegibili di un angelo. Ed è proprio questo che intendiamo quando parliamo di un angelo che assume un corpo.
+
+Risposta all’Obiezione 3: Sebbene l’aria, nella sua forma rarefatta, non abbia né forma né colore, quando viene condensata può assumere sia una forma che un colore, come si osserva nelle nuvole. Allo stesso modo, gli angeli assumono corpi formati dall’aria, condensandola con il potere divino nella misura necessaria per creare tali corpi.
 
 <span class="atom-split" data-atom="010" data-title="Whether the angels exercise functions of life in the bodies assumed?" data-chapter="Whether the angels exercise functions of life in the bodies assumed?" data-kind="atom" data-srclang="en"></span>
 
@@ -602,12 +758,49 @@ from the seed of men taken for the purpose; as when the demon assumes first the 
 and afterwards of a man; just as they take the seed of other things for other generating purposes,
 as Augustine says (De Trin. iii), so that the person born is not the child of a demon, but of a man.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli esercitino funzioni vitali all’interno di corpi assunti. Infatti, la finzione non è degna degli angeli della verità. Ma sarebbe una finzione se il corpo assunto da loro, che sembra vivere ed esercitare funzioni vitali, in realtà non le possedesse. Pertanto, gli angeli esercitano effettivamente funzioni vitali nel corpo assunto.
+
+Obiezione 2: Inoltre, nelle opere degli angeli non c’è nulla che sia privo di scopo. Ma occhi, narici e gli altri organi dei sensi sarebbero stati creati senza alcun scopo nel corpo assunto dall’angelo, se questi non percepisse nulla attraverso di essi. Pertanto, l’angelo percepisce tramite il corpo che ha assunto; ed questa è la funzione più specifica della vita stessa.
+
+Obiezione 3: Inoltre, muoversi da un luogo all’altro è una delle funzioni della vita, come afferma il Filosofo nel De [Anima](/concepts/soul) ii. Ma gli angeli, chiaramente, si muovono nei corpi che assumono. Infatti, si dice nella Genesi (18:16) che “Abramo camminava con” gli angeli che gli erano apparsi, “guidandoli lungo la strada”; e quando Tobia chiese all’angelo (Tob. 5:7-8): “Conosci tu la strada che conduce alla città di Media?”, questi rispose: “La conosco; l’ho percorsa molte volte”. Pertanto, gli angeli esercitano spesso le funzioni della vita nei corpi che assumono.
+
+Obiezione 4: Inoltre, il linguaggio è una funzione di un soggetto vivente, poiché viene prodotto dalla voce, e la voce stessa è un suono che proviene dalla bocca. Tuttavia, è evidente da molte citazioni della Sacra [Scrittura](/concepts/revelation) che gli angeli parlavano attraverso corpi umani. Pertanto, nei loro corpi umani, essi esercitavano le funzioni tipiche di un essere vivente.
+
+Obiezione 5: Inoltre, mangiare è una funzione puramente animale. Pertanto, il Signore, dopo la Sua Resurrezione, mangiò con i Suoi discepoli per dimostrare di aver ripreso la vita (Lc. 24). Quando gli angeli apparvero nei loro corpi umani, mangiarono anch’essi; inoltre, Abramo offrì loro del cibo dopo averli adorati come Dio (Gen. 18). Quindi gli angeli esercitano funzioni legate alla vita all’interno di corpi umani.
+
+Obiezione 6: Inoltre, generare prole è un atto vitale. E questo è accaduto agli angeli nei loro corpi assunti; infatti si legge: “Dopo che i figli di Dio entrarono nelle figlie degli uomini e ne ebbero dei figli, questi furono gli uomini potenti e famosi dell’antichità” (Genesi 6:4). Pertanto, gli angeli esercitarono funzioni vitali nei loro corpi assunti.
+
+Al contrario, i corpi assunti dagli angeli non possiedono vita, come è stato affermato nell’articolo precedente (ad 3). Pertanto, essi non possono esercitare le funzioni vitali attraverso tali corpi assunti.
+
+Rispondo che alcune funzioni degli esseri viventi presentano somiglianze con altre operazioni; così come il linguaggio, che è una funzione dell’essere vivente, presenta analogie con altri suoni di cose inanimate, nella misura in cui anch’essi sono suoni; e camminare presenta somiglianze con altri movimenti, nella misura in cui anch’essi sono movimenti. Pertanto, le funzioni vitali possono essere svolte da angeli in corpi artificiali, per quanto riguarda ciò che è comune a tali operazioni; ma non per quanto riguarda ciò che è specifico degli esseri viventi, poiché, secondo il Filosofo (De Somn. et Vig. I), “ciò che possiede la capacità possiede anche l’azione”. Di conseguenza, nulla può svolgere una funzione vitale se non ciò che è dotato di vita, ovvero ciò che rappresenta il principio potenziale di tale azione.
+
+Risposta all’Obiezione 1: Non è affatto contrario alla verità che le cose intellegibili vengano descritte nella Scrittura attraverso immagini sensibili; infatti, ciò non ha lo scopo di affermare che tali cose siano sensibili, ma piuttosto di permetterci di comprendere le loro proprietà attraverso similitudini rappresentate da forme sensibili. Così pure, non è contrario alla verità il fatto che gli angeli sacri appaiano come uomini viventi attraverso i corpi che assumono, anche se in realtà non lo sono. Questi corpi vengono infatti assunti esclusivamente per questo scopo: permettere che le proprietà e le azioni spirituali degli angeli possano essere manifestate attraverso le caratteristiche umane e le loro azioni. Ciò non sarebbe possibile in modo altrettanto appropriato se gli angeli assumessero corpi umani veri; infatti, le proprietà di tali uomini ci porterebbero a pensare agli uomini stessi, e non agli angeli.
+
+Risposta all’Obiezione 2: La sensazione è interamente una funzione vitale. Pertanto non si può affatto affermare che gli angeli percepiscano attraverso gli organi dei loro corpi presunti. Tuttavia, tali corpi non sono creati invano; non sono infatti destinati alla percezione sensoriale, ma allo scopo di permettere alle facoltà spirituali degli angeli di manifestarsi attraverso di essi; proprio come l’occhio permette di esprimere la facoltà conoscitiva dell’angelo, e gli altri organi permettono di manifestare altre facoltà, come insegna Dionigi (Coel. Hier.).
+
+Risposta all’Obiezione 3: Il movimento che proviene da un motore unitario rappresenta una funzione essenziale della vita; tuttavia i corpi assunti dagli angeli non vengono mossi in questo modo, poiché gli angeli non ne sono le “forme” sostanziali. Ciononostante, gli angeli vengono mossi in modo “accidentale”, quando tali corpi subiscono movimento, poiché essi si trovano al loro interno esattamente come i motori si trovano nelle cose mosse; ma in questo caso, la loro presenza in quei corpi non implica che possano trovarsi altrove, il che non si può dire di Dio. Pertanto, sebbene Dio non venga mosso quando le cose in cui esiste subiscono movimento – poiché Egli è onnipresente – gli angeli vengono comunque mossi “accidentalmente”, in relazione al movimento dei corpi che assumono. Tuttavia, non vengono mossi nemmeno dal movimento dei corpi celesti, anche se si trovano al loro interno come motori nelle cose mosse; questo perché i corpi celesti non cambiano “luogo” nel loro insieme, e poiché lo spirito che muove il mondo non ha una località fissa in relazione a alcuna parte specifica della sua sostanza – questa sostanza può trovarsi ora nell’est, ora nell’ovest – ma appartiene piuttosto a un “quadrante” fisso dello spazio. Come affermato nel Phys. viii, testo 84: “L’energia motrice è sempre nell’est”.
+
+Risposta all’Obiezione 4: Per parlare correttamente, gli angeli non parlano attraverso i loro corpi umani; tuttavia esiste una sorta di “parola”, nel senso che producono suoni nell’aria simili alle voci umane.
+
+Risposta all’Obiezione 5: In senso proprio, non si può dire che gli angeli mangino, poiché il mangiare implica l’assunzione di cibo che possa trasformarsi nella sostanza di chi lo consuma. Sebbene, dopo la Resurrezione, il cibo non si trasformasse nella sostanza del corpo di Cristo, ma si risolvesse in materia preesistente, tuttavia il corpo di Cristo aveva una natura tale che il cibo poteva essere trasformato in esso; pertanto si trattava davvero di un atto di mangiare. Ma il cibo assunto dagli angeli né veniva trasformato nel loro corpo, né il loro corpo aveva una natura tale da permettere tale trasformazione; quindi non si trattava di un vero atto di mangiare, ma di una metafora del “mangiare spirituale”. È ciò che l’angelo disse a Tobia: “Quando ero con te, sembravo davvero mangiare e bere; ma in realtà consumavo carne e bevande invisibili” (Tob. 12:19). Abramo offrì loro del cibo, ritenendoli uomini; tuttavia, pregava Dio in loro, poiché Dio è così presente nei profeti, come afferma [Agostino](/figures/augustine) nel “De Civitate Dei” xvi.
+
+Risposta all’Obiezione 6: Come afferma Agostino nel De Civitate Dei XV, “Molte persone sostengono di aver avuto questa esperienza, o di averne sentito parlare da coloro che l’hanno vissuta, secondo cui i Satiri e i Fauni, che la gente comune chiama incubi, si sono spesso presentati davanti alle donne cercando di stabilire con loro rapporti intimi. Pertanto è assurdo negarlo. Tuttavia, gli angeli sacri di Dio non avrebbero potuto comportarsi in questo modo prima del diluvio. Perciò i ‘figli di Dio’ vanno intesi come i figli di Set, che erano persone buone; mentre le ‘figlie degli uomini’, secondo la Scrittura, si riferiscono a coloro che discendevano dalla stirpe di Caino. Non sorprende quindi che da loro possano nascere giganti; infatti non tutti erano giganti, anche se ne esistevano molti prima del diluvio e pochi dopo”. Tuttavia, se talvolta nascono individui dal frutto dei demoni, ciò avviene non dal seme di tali demoni né dai loro corpi temporanei, ma dal seme umano utilizzato a tale scopo; come quando un demone assume prima l’aspetto di una donna e poi quello di un uomo. Proprio come i demoni utilizzano il seme di altre cose per realizzare i propri intenti generativi, come afferma Agostino nel De Trinitate III, il bambino nato non è quindi figlio di un demone, ma di un uomo.
+
 <span class="atom-split" data-atom="011" data-title="OF THE ANGELS IN RELATION TO PLACE (THREE ARTICLES)" data-chapter="OF THE ANGELS IN RELATION TO PLACE (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now inquire into the place of the angels. Touching this there are three subjects of inquiry:
 (1) Is the angel in a place?
 (2) Can he be in several places at once?
 (3) Can several angels be in the same place?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora indaghiamo sul luogo in cui si trovano gli angeli. A questo proposito, ci sono tre argomenti di studio:
+(1) Gli angeli si trovano in un luogo specifico?
+(2) È possibile che siano contemporaneamente in più luoghi?
+(3) È possibile che più angeli si trovino nello stesso luogo?
 
 <span class="atom-split" data-atom="012" data-title="Whether an angel is in a place?" data-chapter="Whether an angel is in a place?" data-kind="atom" data-srclang="en"></span>
 
@@ -642,6 +835,18 @@ it comes into contact, and is not contained by it: for the soul is in the body a
 contained by it. In the same way an angel is said to be in a place which is corporeal, not as the thing
 contained, but as somehow containing it.
 And hereby we have the answers to the objections.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un angelo non si trovi in un luogo. Infatti Boezio afferma nel “De Hebdom.”: “L’opinione comune degli studiosi è che le cose incorporee non si trovino in un luogo”. Inoltre, [Aristotele](/figures/aristotle) osserva nella “Fisica” IV, testo 48,57 che “non tutte le cose esistenti si trovano in un luogo, ma soltanto i corpi mobili”. Tuttavia un angelo non è un corpo, come è stato dimostrato sopra (Q[50]). Pertanto, un angelo non si trova in un luogo.
+
+Obiezione 2: Inoltre, il luogo è una “quantità che occupa una posizione”. Ma tutto ciò che si trova in un luogo ha necessariamente una posizione. Ora, possedere una posizione non può essere di alcun vantaggio per un angelo, poiché la sua essenza è priva di quantità, e proprio la quantità è ciò che conferisce una posizione. Pertanto, un angelo non si trova in un luogo.
+
+Obiezione 3: Inoltre, trovarsi in un luogo significa essere misurati e contenuti da tale luogo, come è evidente nel testo del Filosofo (Fisica iv, testo 14,119). Ma un angelo non può né essere misurato né contenuto da un luogo, poiché il contenitore è di natura più “formale” rispetto a ciò che viene contenuto; proprio come l’aria rispetto all’acqua (Fisica iv, testo 35,49). Pertanto, un angelo non si trova in un luogo.
+
+Al contrario, si legge nel Rito della Compieta del Breviario Domenicano: “Che i tuoi angeli santi, che dimorano qui, ci mantengano in pace”.
+
+Rispondo che è degno di un angelo trovarsi in un luogo; tuttavia si dice che un angelo e un corpo si trovino in un luogo in significati del tutto diversi. Si dice che un corpo si trovi in un luogo nel senso che occupa tale spazio grazie alla quantità dimensionale; ma negli angeli non esiste una tale quantità, poiché la loro è di natura virtuale. Pertanto, si dice che un angelo si trovi in un luogo corporeo quando il suo potere angelico viene applicato in qualche modo a quel luogo. Di conseguenza, non c’è bisogno di affermare che un angelo possa essere considerato “commensurabile” con un luogo o che occupi uno spazio continuo; poiché queste caratteristiche appartengono esclusivamente ai corpi materiali dotati di quantità dimensionali. Allo stesso modo, non è necessario ritenere che un angelo sia “contenuto” da un luogo, poiché una sostanza incorporea contiene virtualmente ciò con cui entra in contatto, ma non viene essa stessa contenuta da tale cosa: l’anima, ad esempio, si trova nel corpo come entità che lo “contiene”, e non come entità contenuta da esso. Allo stesso modo, si dice che un angelo si trovi in un luogo corporeo, ma non nel senso di essere contenuto da esso, bensì nel senso di “contenerlo” in qualche modo. E con ciò abbiamo risposto a tutte le obiezioni sollevate.
 
 <span class="atom-split" data-atom="013" data-title="Whether an angel can be in several places at once?" data-chapter="Whether an angel can be in several places at once?" data-kind="atom" data-srclang="en"></span>
 
@@ -692,6 +897,18 @@ neither circumscriptively nor definitively there, because He is everywhere.
 From this we can easily gather an answer to the objections: because the entire subject to which
 the angelic power is immediately applied, is reputed as one place, even though it be continuous.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un angelo possa trovarsi in più luoghi contemporaneamente. Infatti, un angelo non è certo meno dotato di potere rispetto all’anima; e l’anima, invece, può essere in più luoghi allo stesso tempo, poiché si trova interamente in ogni parte del corpo, come afferma [Agostino](/figures/augustine) nel “De Trinitate” VI. Pertanto, anche un angelo potrebbe trovarsi in più luoghi contemporaneamente.
+
+Obiezione 2: Inoltre, un angelo si trova nel corpo che assume; e poiché il corpo che assume è continuo, sembrerebbe che egli si trovi in ogni sua parte. Ma, data la diversità delle parti di quel corpo, esistono anche diversi luoghi; pertanto, l’angelo si trova contemporaneamente in più luoghi.
+
+Obiezione 3: Inoltre, Damasceno afferma nel “De Fide Orthodossa” II che “là dove l’angelo agisce, là si trova”. Tuttavia, talvolta agisce contemporaneamente in più luoghi, come è evidente nel caso dell’angelo che distrusse Sodoma (Genesi 19:25). Pertanto, un angelo può trovarsi in diversi luoghi nello stesso istante.
+
+Al contrario, Damasceno afferma (De Fide Orthodossa ii) che “mentre gli angeli si trovano in cielo, non sono sulla terra”.
+
+Rispondo che il potere e la natura di un angelo sono finiti, mentre il potere e l’essenza divina, che è la causa universale di tutte le cose, sono infiniti: pertanto Dio, con il suo potere, tocca tutte le cose ed è presente non solo in alcuni luoghi, ma ovunque. Poiché il potere dell’angelo è finito, esso non si estende a tutte le cose, ma soltanto a una cosa determinata; infatti, ciò che viene paragonato a un certo potere deve essere considerato come una cosa specifica. Poiché tutto l’esistente viene considerato come una singola entità rispetto al potere universale di Dio, allo stesso modo anche una singola entità particolare può essere considerata come tale rispetto al potere angelico. Pertanto, poiché un angelo si trova in un luogo grazie all’applicazione del suo potere su quel luogo, ne consegue che non sia ovunque né in più luoghi, ma soltanto in uno solo. Tuttavia, alcuni sono stati ingannati in questo ambito: coloro che non riuscivano ad andare oltre i limiti della loro immaginazione ritenevano che l’indivisibilità dell’angelo fosse simile a quella di un punto, e quindi pensavano che un angelo potesse trovarsi soltanto in un luogo che fosse un punto. Ma erano chiaramente in errore, poiché un punto è qualcosa di indivisibile, ma ha comunque una posizione spaziale; mentre l’angelo è indivisibile e al di là della categoria della quantità e della posizione spaziale. Pertanto non esiste alcuna ragione per considerare che un angelo si trovi in un luogo specifico: qualsiasi luogo, sia esso divisibile o indivisibile, grande o piccolo, è sufficiente; l’angelo, infatti, applica il proprio potere su corpi di dimensioni diverse a seconda della propria volontà. L’intero corpo su cui viene applicato il suo potere rappresenta, per lui, un unico luogo. Inoltre, anche se un angelo muove i cieli, non è necessario che sia ovunque: innanzitutto, perché il suo potere si applica soltanto a ciò che viene mosso da lui; in secondo luogo, poiché i filosofi non ritengono che una singola sostanza possa muovere immediatamente tutte le sfere celesti. Quindi non è necessario che l’angelo sia ovunque. È evidente, dunque, che il concetto di “trovarsi in un luogo” ha significati diversi per un corpo, per un angelo e per Dio: un corpo si trova in un luogo in modo circoscritto, poiché viene misurato da quel luogo; un angelo, invece, non è lì in modo circoscritto, poiché non viene misurato dal luogo, ma vi è in modo definitivo, nel senso che non può trovarsi in altri luoghi; Dio, infine, non è lì né in modo circoscritto né in modo definitivo, poiché è ovunque. Da tutto ciò possiamo facilmente rispondere alle obiezioni: poiché l’intero oggetto su cui si applica immediatamente il potere angelico viene considerato come un unico luogo, anche se esso è continuo.
+
 <span class="atom-split" data-atom="014" data-title="Whether several angels can be at the same time in the same place?" data-chapter="Whether several angels can be at the same time in the same place?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that several angels can be at the same time in the same place. For
@@ -739,6 +956,13 @@ points of inquiry:
 (1) Whether an angel can be moved locally.
 (2) Whether in passing from place to place he passes through intervening space?
 (3) Whether the angel's movement is in time or instantaneous?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il movimento locale degli angeli; sotto questa voce vi sono tre punti di indagine:  
+(1) Se un angelo possa muoversi localmente.  
+(2) Se, passando da un luogo all’altro, attraversi lo spazio interposto.  
+(3) Se il movimento dell’angelo avvenga nel tempo o sia istantaneo.
 
 <span class="atom-split" data-atom="016" data-title="Whether an angel can be moved locally?" data-chapter="Whether an angel can be moved locally?" data-kind="atom" data-srclang="en"></span>
 
@@ -814,6 +1038,24 @@ but the movement of what is in act is not for any need of its own, but for anoth
 way, because of our need, the angel is moved locally, according to Heb. 1:14: "They are all [*Vulg.:
 'Are they not all . . . ?'] ministering spirits, sent to minister for them who receive the inheritance of
 salvation."
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un angelo non possa essere mosso in modo locale. Infatti, come dimostra il Filosofo (Physica VI, testo 32,86), “nulla ciò che è privo di parti può essere mosso”; poiché, quando si trova nel termine “da cui” non viene mosso, e quando si trova nel termine “verso cui” allora già è stato mosso; pertanto, tutto ciò che viene mosso, mentre lo è, si trova in parte nel termine “da cui” e in parte nel termine “verso cui”. Ma un angelo è privo di parti. Quindi, un angelo non può essere mosso in modo locale.
+
+Obiezione 2: Inoltre, il movimento è “l’atto di un essere imperfetto”, come afferma il Filosofo (Fisica iii, testo 14). Ma un angelo beato non è imperfetto; pertanto, un angelo beato non subisce movimenti locali.
+
+Obiezione 3: Inoltre, il movimento sorge semplicemente a causa di una qualche mancanza o necessità. Ma gli angeli sacri non hanno alcuna mancanza. Pertanto, gli angeli sacri non si muovono in senso spaziale.
+
+Al contrario, è lo stesso sia per un angelo beato che per una anima beata essere commossi. Tuttavia, si deve necessariamente affermare che un’anima beata viene commossa in modo locale, poiché è un articolo di fede che l’anima di Cristo discese all’Inferno. Pertanto, anche un angelo beato viene commosso in modo locale.
+
+Rispondo che un angelo beato può muoversi in modo locale. Tuttavia, poiché il fatto di trovarsi in un luogo appartiene in modo equivoco sia a un corpo che a un angelo, lo stesso vale per il movimento locale. Un corpo si trova in un luogo nella misura in cui è contenuto da esso e ne è commensurabile; pertanto, il movimento locale di un corpo deve essere commensurabile con quel luogo e conforme alle sue esigenze. Da ciò deriva che la continuità del movimento corporeo corrisponde alla continuità della sua dimensione, nonché alla sequenza temporale dei suoi spostamenti, come afferma il Filosofo (Physica IV, testo 99). Un angelo, invece, non si trova in un luogo in modo commensurabile e contenuto da esso, ma piuttosto nel senso che contiene quel luogo; pertanto, non è necessario che il suo movimento locale sia commensurabile con il luogo né conforme alle sue esigenze, per cui tale movimento non è continuo. Poiché un angelo si trova in un luogo soltanto attraverso un contatto virtuale, come già detto (Q[52], A[1]), ne consegue che il suo movimento consiste semplicemente nella successiva interazione con diversi luoghi, e non simultaneamente; inoltre, un angelo non può trovarsi contemporaneamente in più luoghi, come già affermato (Q[52], A[2]). Non è nemmeno necessario che questi contatti siano continui; tuttavia, si può riconoscere una certa forma di continuità in tali processi. Poiché, come detto in precedenza, non vi è nulla che ci impedisca di attribuire a un angelo un luogo divisibile sulla base di un contatto virtuale, proprio come un corpo riceve una posizione spaziale in base al suo contatto con altri corpi, ne consegue che anche un angelo può lasciare successivamente diversi “luoghi” e quindi il suo movimento può risultare continuo. Tuttavia, è anche possibile che un angelo lasci immediatamente tutto il luogo precedente per recarsi in un altro luogo, nel qual caso il suo movimento non sarebbe continuo.
+
+Risposta all’Obiezione 1: Questo argomento fallisce nel raggiungere il suo scopo per due motivi principali. In primo luogo, perché la dimostrazione di [Aristotele](/figures/aristotle) riguarda ciò che è indivisibile in termini quantitativi, e a questo corrisponde necessariamente un luogo anch’esso indivisibile; il che non si può applicare agli angeli. In secondo luogo, perché la dimostrazione di Aristotele si basa sull’idea di movimento continuo; se invece il movimento fosse discontinuo, si potrebbe affermare che una cosa venga mossa sia nel punto da cui parte che in quello verso cui si dirige, poiché la successione dei punti attraversati verrebbe considerata stessa un movimento. Tuttavia, la continuità del movimento esclude questa possibilità: nulla di continuo può essere “nel proprio termine”, come è evidente nel caso della linea che non è “nel punto”. Pertanto, durante il movimento, una cosa non può trovarsi interamente né nel punto da cui parte né in quello verso cui si dirige, ma solo in parte in ciascuno di questi due termini. Poiché il movimento dell’angelo non è continuo, la dimostrazione di Aristotele non regge; ma se si ammette che il suo movimento sia continuo, allora è possibile riconoscere che, mentre un angelo è in movimento, egli si trova parzialmente nel punto da cui parte e parzialmente in quello verso cui si dirige (tuttavia questa “parzialità” riguarda soltanto il luogo, non la sostanza stessa dell’angelo). All’inizio del suo movimento continuo, l’angelo si trova nell’intero luogo da cui parte; durante il movimento stesso, egli è parzialmente nel luogo che abbandona e parzialmente in quello che occupa. Il fatto stesso che un angelo possa “occupare parti di due luoghi” deriva dal suo potere di agire su ciò che è divisibile, proprio come un corpo può agire su ciò che ha dimensioni. Pertanto, mentre un corpo mobile nello spazio è divisibile in termini di dimensione, il potere di un angelo può essere applicato a qualcosa che è divisibile.
+
+Risposta all’Obiezione 2: Il movimento di ciò che si trova in [potenzialità](/concepts/act_potency) è l’atto di un agente imperfetto. Ma il movimento che deriva dall’applicazione di energia è l’atto di uno che è già in atto, poiché l’energia implica attualità.
+
+Risposta all’Obiezione 3: Il movimento di ciò che è in potenzialità rappresenta un atto di qualcosa di imperfetto; invece, il movimento di ciò che è già in atto non deriva da una necessità propria, ma da quella di un altro. In questo modo, a causa della nostra necessità, l’angelo viene mosso, secondo quanto si legge in Ebrea 1:14: “Sono tutti spiriti ministeriali, inviati a servire coloro che ricevono l’eredità della salvezza”.
 
 <span class="atom-split" data-atom="017" data-title="Whether an angel passes through intermediate space?" data-chapter="Whether an angel passes through intermediate space?" data-kind="atom" data-srclang="en"></span>
 
@@ -893,6 +1135,26 @@ but its conclusion; hence movement must precede change. Accordingly such movemen
 the mid-space. But in movement which is not continuous, the change is a part, as a unit is a part of
 number: hence the succession of the various places, even without the mid-space, constitutes such
 movement.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un angelo non attraversi lo spazio intermedio. Infatti, tutto ciò che attraversa uno spazio intermedio viaggia prima lungo un luogo le cui dimensioni corrispondono alle sue dimensioni proprie, prima di passare attraverso uno spazio più ampio. Ma il luogo che può accogliere un angelo, essendo quest’ultimo indivisibile, è limitato a un punto. Pertanto, se l’angelo dovesse attraversare uno spazio intermedio, dovrebbe considerare infinite posizioni nel corso del suo movimento: il che è impossibile.
+
+Obiezione 2: Inoltre, un angelo è composto da una sostanza più semplice rispetto all’anima umana. Ma la nostra anima, con il pensiero, può passare da un estremo all’altro senza attraversare la fase intermedia: ad esempio, posso pensare alla Francia e poi alla Siria, senza mai pensare all’Italia che si trova tra di loro. Pertanto, molto più facilmente un angelo può passare da un estremo all’altro senza attraversare la fase intermedia.
+
+Al contrario, se l’angelo viene spostato da un luogo all’altro, allora, quando si trova nel punto “verso cui” viene spostato, non è più in movimento, ma subisce un cambiamento. Tuttavia, ogni cambiamento reale è preceduto da un processo di trasformazione: pertanto, l’angelo deve essere stato spostato mentre si trovava in un certo luogo. Ma non è stato spostato finché si trovava nel punto “da cui” proveniva. Quindi, è stato necessario che attraversasse lo spazio intermedio per arrivare al nuovo luogo.
+
+Rispondo che, come osservato nell’articolo precedente, il movimento locale di un angelo può essere continuo o discontinuo. Se è continuo, l’angelo non può passare da un estremo all’altro senza attraversare lo spazio intermedio; poiché, come afferma il Filosofo (Physica v, testo 22; vi, testo 77), “Lo medio è ciò attraverso cui una cosa che si muove continuamente passa prima di raggiungere l’estremo verso cui viene spostata”; infatti, nell’ambito di un movimento continuo, l’ordine del primo e dell’ultimo punto corrisponde all’ordine della loro grandezza, come egli stesso precisa (Physica iv, testo 99).  
+Ma se il movimento di un angelo è discontinuo, è possibile che esso passi da un estremo all’altro senza attraversare lo spazio intermedio: ciò risulta evidente considerando che tra due limiti estremi esistono infinite posizioni intermedie, sia queste considerate divisibili che indivisibili. Questo è particolarmente chiaro nel caso delle posizioni indivisibili; poiché tra due punti qualsiasi esistono infiniti punti intermedi, e nessun punto segue un altro senza uno spazio intermedio, come dimostrato nella Physica vi, testo 1. Lo stesso vale per le posizioni divisibili, come si evince dal movimento continuo di un corpo: un corpo infatti non si sposta da un luogo all’altro se non nel corso del tempo; e nell’intero arco di tempo che misura il suo movimento, non esistono due momenti in cui il corpo non si trovi in uno specifico luogo; poiché se fosse sempre nello stesso luogo in due momenti diversi, significherebbe che è fermo in quel punto; e essere fermo significa esser sempre nello stesso luogo. Pertanto, poiché nell’arco di tempo che misura il movimento di un corpo esistono infinite “istanti”, devono esistere anche infinite posizioni intermedie tra il punto di partenza del movimento e quello della sua fine. Questo si dimostra anche attraverso l’esperienza sensibile: supponiamo, ad esempio, che ci sia un corpo lungo una spanna e che si muova su un piano lungo due spanne; è evidente che il punto di partenza del movimento è quello corrispondente a una spanna, mentre il punto di arrivo è quello corrispondente all’altra spanna. Quando il corpo inizia a muoversi, gradualmente abbandona la prima posizione e raggiunge la seconda; quindi, poiché la grandezza di una spanna è divisibile, anche le posizioni intermedie sono infinite, poiché ogni punto all’interno della grandezza della prima spanna rappresenta un inizio di posizione, mentre ogni punto all’interno della grandezza della seconda spanna ne rappresenta la fine. Poiché la grandezza è infinitamente divisibile e i punti all’interno di essa sono anch’essi infiniti, tra due qualsiasi posizioni esistono infinite posizioni intermedie.  
+Un corpo in movimento esaurisce l’“infinità” delle posizioni intermedie soltanto attraverso un movimento continuo.
+Il suo movimento; poiché, dato che i luoghi intermedi sono infiniti in potenzialità, deve necessariamente esistere anche un’infinità di movimenti continui. Pertanto, se il movimento non fosse continuo, tutte le sue fasi sarebbero effettivamente numerabili. Se quindi un corpo mobile venisse mosso in modo discontinuo, ciò significherebbe che o non attraversa tutti i luoghi intermedi, oppure ne attraversa un numero infinito: il che è impossibile. Quindi, poiché il movimento dell’angelo non è continuo, egli non attraversa tutti i luoghi intermedi.  
+Ora, il passaggio effettivo da un estremo all’altro, senza attraversare lo spazio intermedio, è perfettamente in linea con la natura di un angelo; ma non con quella di un corpo, poiché un corpo è definito e contenuto entro uno spazio specifico; pertanto il suo movimento deve seguire le leggi dello spazio. Tuttavia, la sostanza di un angelo non è soggetta alle leggi dello spazio, ma lo domina: quindi può muoversi liberamente in qualsiasi direzione, attraversando o meno gli spazi intermedi a seconda della sua volontà.
+
+Risposta all’Obiezione 1: Il luogo di un angelo non viene considerato uguale a lui in termini di grandezza, ma in base al grado di potere che possiede; pertanto il “luogo” di un angelo può essere divisibile e non è sempre rappresentato da un semplice punto. Tuttavia anche questi luoghi intermedi, pur essendo divisibili, sono infiniti, come già detto in precedenza; inoltre vengono “consumati” dalla continuità del movimento, come risulta evidente dai ragionamenti fatti finora.
+
+Risposta all’Obiezione 2: Mentre un angelo viene mosso in modo locale, la sua essenza si estende a diversi luoghi; invece, l’essenza dell’anima non si applica alle cose su cui si pensa, bensì sono le stesse cose su cui si pensa ad essere contenute nell’anima. Pertanto, non esiste alcuna analogia tra i due casi.
+
+Risposta all’Obiezione 3: Nel movimento continuo, il cambiamento effettivo non è una parte del movimento stesso, ma la sua conseguenza; pertanto il movimento deve precedere il cambiamento. Di conseguenza, tale movimento avviene attraverso lo “spazio intermedio”. Tuttavia, nel movimento discontinuo, il cambiamento costituisce effettivamente una parte del movimento stesso, proprio come un’unità fa parte di un numero; pertanto la successione dei vari punti spaziali, anche senza l’esistenza dello “spazio intermedio”, costituisce già tale tipo di movimento.
 
 <span class="atom-split" data-atom="018" data-title="Whether the movement of an angel is instantaneous?" data-chapter="Whether the movement of an angel is instantaneous?" data-kind="atom" data-srclang="en"></span>
 
@@ -978,6 +1240,25 @@ last 'now'; as was already shown (A[2]). Nevertheless he is partly in one of the
 and partly in another, not because his substance is susceptible of parts, but because his power is
 applied to a part of the first place and to a part of the second, as was said above (A[2]).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il movimento di un angelo sia istantaneo. Infatti, maggiore è la potenza del motore e minore è la resistenza dell’oggetto mosso, più rapido sarà il movimento. Tuttavia, la potenza di un angelo nel muoversi stesso supera di gran lunga quella necessaria per muovere un corpo materiale. Ora, la proporzione tra le velocità si calcola in base alla riduzione del tempo impiegato per il movimento; poiché esiste una proporzione tra qualsiasi intervallo di tempo, se un corpo viene mosso nel corso di un certo lasso di tempo, allora un angelo deve essere mosso in un istante.
+
+Obiezione 2: Inoltre, il movimento dell’angelo è più semplice di qualsiasi cambiamento fisico. Tuttavia, alcuni cambiamenti fisici avvengono in un istante, come l’illuminazione; sia perché l’oggetto non viene illuminato gradualmente, come avviene quando si riscalda gradualmente, sia perché un raggio luminoso raggiunge più rapidamente ciò che è vicino rispetto a ciò che è lontano. Pertanto, il movimento dell’angelo è ancora più istantaneo.
+
+Obiezione 3: Inoltre, se un angelo viene spostato da un luogo a un altro nel corso del tempo, è evidente che nell’ultimo istante di tale periodo si trovi nel “luogo verso cui” viene spostato; ma per tutto il resto del tempo precedente, si trova o nel luogo immediatamente precedente, considerato il “luogo da cui” viene spostato, oppure in parte in uno e in parte nell’altro. Ciò significherebbe che è divisibile, il che è impossibile. Pertanto, per tutto il tempo precedente al movimento, si trova nel “luogo da cui” viene spostato; quindi rimane fermo lì: poiché essere in quiete significa trovarsi nello stesso luogo sia ora che in precedenza, come già detto (A[2]). Ne consegue che non può essere spostato se non nell’ultimo istante del tempo.
+
+Al contrario, in ogni cambiamento esiste un “prima” e un “dopo”. Il “prima” e il “dopo” di un movimento vengono misurati nel tempo; pertanto, ogni movimento, anche quello di un angelo, avviene nel tempo, poiché in esso esistono necessariamente un momento precedente e uno successivo.
+
+Rispondo che alcuni hanno sostenuto che il movimento locale di un angelo sia istantaneo. Affermavano che, quando un angelo viene spostato da un luogo all’altro, per tutto il tempo precedente si trovi nel “luogo da cui parte”, mentre nell’ultimo istante di tale periodo si trovi nel “luogo verso cui arriva”. Non è necessario alcun mezzo intermediario tra questi due stati, proprio come non esiste alcun mezzo tra il tempo e il suo limite. Tuttavia, esiste un “intervallo di tempo” tra due momenti successivi dello stesso istante; per questo si sostiene che non sia possibile individuare un ultimo momento in cui l’angelo si trovasse nel “luogo da cui parte”, proprio come non esiste un ultimo istante in cui l’aria fosse ancora scura o la materia priva della forma del fuoco, durante i processi di illuminazione o generazione sostanziale. È invece possibile individuare un ultimo momento in cui nell’aria esista la luce o nella materia la forma del fuoco. Per questo motivo, fenomeni come l’illuminazione e la generazione sostanziale vengono definiti movimenti istantanei. Ma ciò non vale nel caso specifico degli angeli. La natura dello stato di riposo richiede che l’ente in quiete rimanga nella stessa condizione in ogni momento; pertanto, in ogni “istante” di tempo che misura il riposo, l’ente si trova nello stesso luogo. D’altra parte, la natura del movimento implica che l’ente in movimento cambi condizione in ogni istante; quindi, in ogni “istante” di tempo che misura il movimento, l’ente si trova in diverse condizioni, e nell’ultimo istante deve necessariamente assumere una forma diversa da quella precedente. È evidente, dunque, che rimanere nello stesso stato per tutto il tempo significa trovarsi in tale stato in ogni singolo istante di quel periodo. Pertanto, non è possibile che un ente rimanga in uno stato durante tutto il tempo precedente e, nell’ultimo istante, passi a un altro stato. Questo invece è possibile nel caso del movimento, poiché trovarsi in uno stato diverso in ogni istante di un certo periodo significa non essere nella stessa condizione in tutti quegli istanti. Di conseguenza, tutti i cambiamenti istantanei rientrano nella categoria dei movimenti continui: proprio come la generazione sostanziale è il risultato di un processo continuo che altera la natura della materia, e l’illuminazione è il risultato di un movimento locale dell’ente illuminante. Il movimento locale di un angelo, invece, non rientra in alcun processo continuo; è un fenomeno autonomo, che non dipende da altri movimenti. Pertanto, non è possibile affermare che un angelo si trovi in un certo luogo durante tutto il tempo e, nell’ultimo istante, in un altro luogo: deve necessariamente esserci un momento specifico in cui si trova nell’ultimo luogo precedente. Tuttavia, dove esistono molti momenti successivi l’uno all’altro, è inevitabile la presenza del tempo, poiché il tempo non è altro che il modo in cui vengono misurati i rapporti di “prima” e “dopo” nel contesto del movimento. Quindi, si può concludere che il movimento di un angelo avviene nel tempo: se tale movimento è continuo, allora avviene nel tempo continuo; se invece è discontinuo, allora avviene nel tempo discontinuo.
+Non è continuo, poiché, come si è detto (A[1]), il suo movimento può essere di entrambi i tipi; inoltre, la continuità del tempo deriva dalla continuità del movimento, come afferma il Filosofo (Phys. iv, testo 99). Tuttavia, quel tempo, sia esso continuo o meno, non è lo stesso di quello che misura il movimento dei cieli e con cui vengono misurate tutte le cose corporee, le quali subiscono cambiamenti a causa del movimento dei cieli; infatti, il movimento dell’angelo non dipende dal movimento dei cieli.
+
+Risposta all’Obiezione 1: Se il tempo del movimento dell’angelo non fosse continuo, ma costituito da una sorta di successione di “momenti presenti”, non avrebbe alcuna proporzione con il tempo che misura il movimento delle cose corporee, il quale è continuo; poiché i due tipi di tempo non hanno la stessa natura. Tuttavia, se il tempo del movimento dell’angelo fosse continuo, allora sì che avrebbe una proporzione con il tempo misurante il movimento delle cose corporee; e questa proporzione non deriverebbe dalla relazione tra il motore e ciò che viene mosso, ma dalle dimensioni stesse del movimento. Inoltre, la velocità del movimento dell’angelo non è determinata dalla quantità della sua forza, ma dall’intenzione della sua volontà.
+
+Risposta all’Obiezione 2: “Illuminazione” è un termine che indica un movimento; si tratta di un cambiamento, ma non di un movimento locale, come se si potesse pensare che la luce si sposti prima verso ciò che è vicino e poi verso ciò che è lontano. Tuttavia, il movimento dell’angelo è di natura locale, e inoltre non rappresenta propriamente un “termine” di movimento; pertanto, non esiste alcuna analogia tra i due casi.
+
+Risposta all’Obiezione 3: Questa obiezione si basa sull’idea di tempo continuo. Tuttavia, lo stesso lasso di tempo necessario per il movimento di un angelo può essere considerato discontinuo. Pertanto, un angelo può trovarsi in un luogo in un istante e in un altro luogo nel momento successivo, senza che intervenga alcun periodo di tempo intermedio. Se il tempo impiegato dal movimento dell’angelo fosse continuo, egli attraverserebbe infinite posizioni nello spazio durante tutto il lasso di tempo precedente all’ultimo “adesso”; come già dimostrato (A[2]). In realtà, però, un angelo è in parte in una determinata posizione e in parte in un’altra; non perché la sua essenza sia suddivisibile in parti, ma perché le sue facoltà vengono applicate a una parte della prima posizione e a una parte della seconda, come già accennato sopra (A[2]).
+
 <span class="atom-split" data-atom="019" data-title="OF THE KNOWLEDGE OF THE ANGELS (FIVE ARTICLES)" data-chapter="OF THE KNOWLEDGE OF THE ANGELS (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After considering what belongs to the angel's substance, we now proceed to his knowledge.
@@ -990,6 +1271,15 @@ Under the first heading there are five points of inquiry:
 (3) Is his substance his power of intelligence?
 (4) Is there in the angels an active and a passive intellect?
 (5) Is there in them any other power of knowledge besides the intellect?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo aver esaminato ciò che appartiene alla sostanza stessa dell’angelo, passiamo ora al suo conoscere. Questa indagine sarà articolata in quattro parti: in primo luogo, è necessario analizzare la sua capacità di conoscenza; in secondo luogo, il mezzo attraverso cui acquisisce conoscenza; in terzo luogo, gli oggetti che conosce; e infine, il modo in cui li percepisce. All’interno della prima categoria di indagini vi sono cinque punti principali:  
+(1) È la capacità intellettiva dell’angelo la sua stessa sostanza?  
+(2) È la sua esistenza stessa quella che costituisce la sua capacità di conoscere?  
+(3) La sua sostanza coincide con la sua facoltà intellettiva?  
+(4) Negli angeli esiste un’intelligenza attiva e una passiva?  
+(5) Esistono in loro altre facoltà di conoscenza, oltre all’intelligenza stessa?
 
 <span class="atom-split" data-atom="020" data-title="Whether an angel's act of understanding is his substance?" data-chapter="Whether an angel's act of understanding is his substance?" data-kind="atom" data-srclang="en"></span>
 
@@ -1090,6 +1380,20 @@ object, namely, truth and being. Thus it is evident, that, although the form is 
 the principle of existence and of understanding according to the same formality. On this account
 it does not follow that in the angel "to be" is the same as 'to understand.'
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che, per un angelo, comprendere significhi esistere. Poiché, negli esseri viventi, vivere significa essere, come afferma il Filosofo (De Anima ii, testo 37). E poiché “comprendere, in un certo senso, significa vivere” (De Anima ii, testo 37), ne consegue che, per un angelo, comprendere significhi esistere.
+
+Obiezione 2: Inoltre, la causa ha lo stesso rapporto con un’altra causa quanto l’effetto con un altro effetto. Ma la forma grazie alla quale l’angelo esiste è la stessa forma grazie alla quale comprende, almeno se stesso. Pertanto, per l’angelo comprendere significa esistere.
+
+Al contrario, l’atto di comprendere dell’angelo è esso stesso il suo movimento, come risulta chiaro da Dionigi (Div. Nom. iv). Ma esistere non significa necessariamente muoversi; pertanto, per un angelo, “essere” non equivale a “comprendere”.
+
+Rispondo che l’azione dell’angelo, così come quella di qualsiasi creatura, non costituisce la sua stessa esistenza. Come si afferma nella Metafisica (IX, 16), esistono due tipi di azione: una che si estende verso qualcosa al di fuori dell’agente e provoca in tale oggetto un cambiamento, come il bruciare o il tagliare; l’altra, invece, rimane all’interno dell’agente stesso, manifestandosi attraverso atti come sentire, comprendere, volere. Con queste azioni non avviene alcun cambiamento nell’esterno; l’intera attività si svolge esclusivamente all’interno dell’agente. È evidente che il primo tipo di azione non può costituire l’esistenza stessa dell’agente, poiché quest’ultima è definita come qualcosa che appartiene al suo interno, mentre tale tipo di azione indica piuttosto un processo che si estende verso l’esterno. Il secondo tipo di azione, per sua natura, possiede una caratteristica di “infinità”, sia essa assoluta che relativa. Ad esempio, l’atto di “comprendere” ha come oggetto la “verità”, mentre l’atto di “volere” ha come oggetto il “bene”; entrambi questi atti sono strettamente legati all’esistenza stessa dell’agente e, pertanto, hanno una relazione con tutte le cose. L’atto della percezione, invece, è relativamente infinito, poiché riguarda tutte le cose sensibili; così come la vista riguarda tutte le cose visibili. Ora, l’esistenza di ogni creatura è limitata a un determinato genere e specie; soltanto l’esistenza di Dio è assolutamente infinita, poiché comprende in sé tutte le cose, come afferma Dionigi nel “De Divinis Nominibus” (V). Pertanto, solo la natura divina è allo stesso tempo il proprio atto di comprensione e il proprio atto di volontà.
+
+Risposta all’Obiezione 1: La vita viene talvolta intesa come l’esistenza del soggetto vivente; altre volte, invece, come un’operazione vitale, cioè qualcosa che permette di riconoscere se una cosa è effettivamente viva. In questo senso, il Filosofo afferma che comprendere, in un certo modo, significa “vivere”: infatti distingue i vari gradi degli esseri viventi in base alle diverse funzioni della vita stessa.
+
+Risposta all’Obiezione 2: L’essenza di un angelo è la ragione dell’esistenza stessa di quell’angelo, ma non la ragione del suo intero atto di comprensione, poiché non può comprendere tutto attraverso la propria essenza. Pertanto, nella sua natura specifica di essenza angelica, essa viene considerata in relazione all’esistenza dell’angelo stesso; mentre il suo atto di comprensione viene visto come contenuto nell’idea di un oggetto più universale, ovvero la verità e l’essere. È evidente quindi che, sebbene la forma sia la stessa, essa non costituisce il principio né dell’esistenza né della comprensione secondo quella stessa formalità. Per questo motivo, non si può concludere che, nell’angelo, “essere” equivalga a “comprendere”.
+
 <span class="atom-split" data-atom="022" data-title="Whether an angel's power of intelligence is his essence?" data-chapter="Whether an angel's power of intelligence is his essence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in an angel the power or faculty of understanding is not different
@@ -1133,6 +1437,24 @@ individual, and which does not belong to the whole species, results from the mat
 
 Reply to Objection 3: The power of matter is a potentiality in regard to substantial being itself,
 whereas the power of operation regards accidental being. Hence there is no comparison.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che, in un angelo, la facoltà di comprendere non sia diversa dalla sua essenza stessa. Infatti, termini come “mente” e “intelletto” indicano proprio questa capacità di comprensione. Tuttavia, in molti passaggi delle sue opere, Dionigi definisce gli angeli “intelligenze” e “menti”. Pertanto, l’angelo è essenzialmente la propria facoltà intellettiva.
+
+Obiezione 2: Inoltre, se il potere intellettivo dell’angelo fosse qualcosa di diverso dalla sua essenza, allora necessariamente sarebbe un accidente; infatti ciò che è diverso dall’essenza di qualcosa viene definito accidente. Ma “una forma semplice non può essere soggetto”, come afferma Boezio (De Trinitate 1). Pertanto, un angelo non potrebbe essere considerato una forma semplice, il che contraddice quanto detto in precedenza (Q[50], A[2]).
+
+Obiezione 3: Inoltre, [Agostino](/figures/augustine) (Confessioni, XII) afferma che Dio abbia reso la natura angelica “vicina a Sé”, mentre ha reso la materia primordiale “vicina al nulla”; da ciò sembrerebbe che l’angelo possieda una natura più semplice rispetto alla materia primordiale, poiché è più vicino a Dio. Ma la materia primordiale rappresenta in sé stessa la sua propria forza; pertanto, molto di più un angelo rappresenta la propria forza intellettiva.
+
+Al contrario, Dionigi afferma (Coel. Hier. xi) che “gli angeli sono divisi in sostanza, potenza e operazione”. Pertanto, sostanza, potenza e operazione sono tutte elementi distinti in loro.
+
+Rispondo che, né in un angelo né in alcuna creatura, il potere o la facoltà operativa sono identici alla sua essenza; ciò risulta evidente dal seguente ragionamento. Poiché ogni potere è destinato a compiere un certo atto, ne consegue che, in base alla diversità degli atti, debba esistere anche una diversità dei poteri; per questo si dice che ciascun atto specifico corrisponda al proprio potere specifico. Tuttavia, in ogni creatura l’essenza differisce dall’esistenza, e quest’ultima può essere considerata rispetto all’essenza come la [potenzialità](/concepts/act_potency) rispetto all’atto, come già evidenziato in precedenza (Q[44], A[1]). Ora, l’atto a cui viene paragonata la facoltà operativa è proprio l’azione stessa; ma nell’angelo comprendere non equivale ad esistere, e nessuna azione, né in lui né in alcun’altra creatura, è identica alla sua esistenza. Pertanto, l’essenza dell’angelo non coincide con il suo potere di intelligenza; allo stesso modo, l’essenza di qualsiasi creatura non corrisponde al suo potere operativo.
+
+Risposta all’Obiezione 1: Un angelo viene chiamato “intelligenza” e “mente”, perché tutta la sua conoscenza è di natura intellettuale; mentre la conoscenza di un’anima è in parte intellettuale e in parte sensibile.
+
+Risposta all’Obiezione 2: Una forma semplice che sia [atto puro](/concepts/actus_purus) non può essere soggetto di accidente, poiché il soggetto viene paragonato all’accidente come la potenzialità all’atto. Solo Dio è una tale forma; ed è proprio di questo che parla Boezio in quel passo. Tuttavia, una forma semplice che non sia essa stessa l’esistenza, ma venga considerata rispetto a sé stessa come la potenzialità rispetto all’atto, può essere soggetto di accidente; in particolare di un accidente che riguarda la specie stessa della forma: tale accidente appartiene infatti alla forma stessa, mentre un accidente che riguarda l’individuo e non la specie nel suo insieme deriva dalla materia, che è il [principio di individuazione](/concepts/individuation). E un esempio di tale forma semplice è l’angelo.
+
+Risposta all’Obiezione 3: Il potere della materia è una potenzialità riguardo all’essere sostanziale stesso, mentre il potere di azione riguarda l’essere accidentale. Pertanto, non esiste alcuna analogia tra i due.
 
 <span class="atom-split" data-atom="023" data-title="Whether there is an active and a passive intellect in an angel?" data-chapter="Whether there is an active and a passive intellect in an angel?" data-kind="atom" data-srclang="en"></span>
 
@@ -1181,6 +1503,20 @@ it belong to the passive intellect for the angel to be enlightened with regard t
 to the knowledge of which he is sometimes in potentiality. But if anyone wishes to call these by
 the [names](/positions/nominalism) of active and passive intellect, he will then be speaking equivocally; and it is not about
 names that we need trouble.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che in un angelo esistano sia un intelletto attivo che uno passivo. Il filosofo afferma (De [Anima](/concepts/soul) iii, testo 17) che “nella anima, come in ogni essere, c’è qualcosa che le permette di diventare tutte le cose, e c’è qualcosa che le permette di creare tutte le cose”. Ma un angelo è una sorta di essere; pertanto, in un angelo devono esistere sia un intelletto attivo che uno passivo.
+
+Obiezione 2: Inoltre, la funzione propria dell’intelletto passivo è quella di ricevere; mentre illuminare è la funzione propria dell’intelletto attivo, come si chiarisce nel De Anima iii, testi 2,3,18. Ma un angelo riceve l’[illuminazione](/schools/enlightenment) da un angelo più alto e ne illumina uno più basso. Pertanto, in lui esistono sia un intelletto attivo che uno passivo.
+
+Al contrario, la distinzione tra intelletto attivo e passivo in noi è relativa ai fantasmi, i quali vengono paragonati all’intelletto passivo come i colori alla vista; ma all’intelletto attivo, invece, come i colori alla luce, come risulta chiaramente dal De Anima III, testo 18. Tuttavia, questo non vale per gli angeli. Pertanto, negli angeli non esistono né intelletto attivo né passivo.
+
+Rispondo che la necessità di ammettere l’esistenza di un intelletto passivo in noi deriva dal fatto che a volte comprendiamo le cose soltanto in potenzialità, e non in modo concreto e attuale. Pertanto deve esistere una qualche forza che, prima dell’atto stesso della comprensione, sia in potenzialità rispetto alle cose intelligibili; tale forza, però, si attiva effettivamente quando le comprende, e ancora di più quando le riflette. Questa è la forza denominata intelletto passivo. La necessità di ammettere l’esistenza di un intelletto attivo deriva dal fatto che la natura delle cose materiali che comprendiamo non esiste al di fuori dell’anima in modo immateriale e effettivamente intelligibile, ma è soltanto intelligibile in potenzialità finché si trova al di fuori dell’anima. Di conseguenza, è necessario che esista una qualche forza capace di rendere tali nature effettivamente intelligibili; questa forza in noi viene chiamata intelletto attivo. Tuttavia, ciascuna di queste necessità è assente negli angeli: essi non comprendono mai le cose soltanto in potenzialità, né le loro nature sono in potenzialità, ma sono effettivamente tali; infatti, gli angeli comprendono principalmente cose immateriali, come verrà chiarito in seguito (Q[84], A[7]; Q[85], A[1]). Pertanto, negli angeli non può esistere un intelletto attivo e uno passivo, se non in senso equivoco.
+
+Risposta all’Obiezione 1: Come indicano chiaramente le stesse parole, il Filosofo intende che queste due cose siano presenti in ogni natura nella quale sia possibile la generazione o la creazione. Tuttavia, la conoscenza non viene generata negli angeli, ma è loro presente in modo naturale. Pertanto, non c’è bisogno di ammettere nell’essi un intelletto attivo e uno passivo.
+
+Risposta all’Obiezione 2: La funzione dell’intelletto attivo è quella di illuminare, non un altro intelletto, bensì le cose che sono intelligibili in potenza, nel senso che l’intelletto attivo, attraverso l’astrazione, le rende effettivamente intelligibili. L’intelletto passivo, invece, è caratterizzato dal fatto di essere in potenza riguardo alle cose che naturalmente possono essere conosciute, e talvolta di comprenderle effettivamente. Pertanto, il fatto che un angelo illumini un altro non rientra nella natura stessa dell’intelletto attivo; allo stesso modo, non rientra nella funzione dell’intelletto passivo il fatto che un angelo venga illuminato riguardo a misteri soprannaturali di cui talvolta è in potenza. Tuttavia, se qualcuno desidera chiamare queste realtà con i nomi di “intelletto attivo” e “intelletto passivo”, allora sta parlando in modo equivoco; e non sono certo i nomi ciò di cui abbiamo bisogno quando discutiamo di queste questioni.
 
 <span class="atom-split" data-atom="024" data-title="Whether there is only intellectual knowledge in the angels?" data-chapter="Whether there is only intellectual knowledge in the angels?" data-kind="atom" data-srclang="en"></span>
 
@@ -1234,6 +1570,13 @@ there are three points of inquiry:
 (1) Do the angels know everything by their substance, or by some species?
 (2) If by species, is it by connatural species, or is it by such as they have derived from things?
 (3) Do the higher angels know by more universal species than the lower angels?
+
+<span class="qlang-split" data-lang="it"></span>
+
+In seguito, sorge la domanda riguardo al mezzo attraverso il quale gli angeli acquisiscono questa conoscenza. In merito a questo argomento, ci sono tre punti da esaminare:  
+(1) Gli angeli conoscono tutto per via della loro essenza stessa, o tramite determinate categorie di conoscenza?  
+(2) Se attraverso categorie di conoscenza, si tratta di categorie innate a loro, oppure di quelle acquisite attraverso l’esperienza delle cose?  
+(3) Gli angeli più elevati possiedono categorie di conoscenza più universali rispetto agli angeli inferiori?
 
 <span class="atom-split" data-atom="026" data-title="Whether the angels know all things by their substance?" data-chapter="Whether the angels know all things by their substance?" data-kind="atom" data-srclang="en"></span>
 
@@ -1292,6 +1635,24 @@ other things---but according to some common formality. Yet all things are perfec
 to their own formality in God's essence, as in the first and universal operative power, from which
 proceeds whatever is proper or common to anything. Therefore God has a proper knowledge of all
 things by His own essence: and this the angel has not, but only a common knowledge.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli conoscano tutte le cose attraverso la loro essenza stessa. Infatti Dionigi afferma (Div. Nom. vii) che “gli angeli, in base alla natura propria di una mente, conoscono ciò che accade sulla terra”. Ma l’essenza dell’angelo è proprio la sua sostanza. Pertanto, l’angelo conosce le cose attraverso la propria essenza.
+
+Obiezione 2: Inoltre, secondo il Filosofo (Metafisica xii, testo 51; De Anima iii, testo 15), “nei fenomeni privi di materia, l’intelletto è identico all’oggetto compreso”. Ma l’oggetto compreso è lo stesso colui che lo comprende, in quanto riguarda ciò per mezzo di cui viene compreso. Pertanto, nei fenomeni privi di materia, come gli angeli, il mezzo attraverso cui l’oggetto viene compreso è proprio la sostanza stessa di colui che lo comprende.
+
+Obiezione 3: Inoltre, tutto ciò che è contenuto in un altro essere esiste lì secondo il modo specifico di quel contenitore. Ma un angelo possiede una natura intellettuale; pertanto, tutto ciò che è in lui esiste in forma intelligibile. Poiché tutte le cose sono in lui – poiché gli esseri di ordine inferiore sono essenzialmente contenuti in quelli di ordine superiore, mentre questi ultimi partecipano in qualche modo agli esseri inferiori – Dionigi afferma (Div. Nom. iv) che Dio “racchiude l’intero nell’intero”, cioè tutto in tutto. Pertanto, l’angelo conosce tutte le cose nella sua stessa sostanza.
+
+Al contrario, Dionigi afferma (Div. Nom. iv) che “gli angeli sono illuminati dalle forme delle cose”. Pertanto, conoscono le cose attraverso le loro forme, e non attraverso la propria sostanza.
+
+Rispondo che il mezzo attraverso cui l’intelletto comprende può essere paragonato all’intelletto stesso, poiché è proprio attraverso questa “forma” che l’intelletto agisce. Ora, affinché tale facoltà possa essere perfettamente realizzata attraverso questa forma, è necessario che tutte le cose alle quali essa si estende siano incluse in quella forma stessa. Pertanto, nelle cose corruttibili, la forma non completa perfettamente la “potenzialità” della materia; infatti, la potenzialità della materia si estende a molte più cose di quante ne siano incluse in una data forma. Ma la capacità intellettiva dell’angelo è tale da comprendere tutte le cose, poiché l’oggetto del suo intelletto è l’essere universale o la verità universale. Tuttavia, l’essenza stessa dell’angelo non include in sé tutte le cose, essendo un’essenza limitata a un genere e a una specie. Questo è proprio dell’essenza divina, che è infinita e in grado di comprendere semplicemente e perfettamente tutte le cose in Sé stessa. Pertanto, solo Dio conosce tutte le cose attraverso la Sua essenza; un angelo, invece, non può conoscerle attraverso la propria essenza; il suo intelletto deve essere perfezionato da alcune specie particolari affinché possa comprendere le cose.
+
+Risposta all’Obiezione 1: Quando si afferma che l’angelo conosce le cose secondo la sua stessa natura, le parole “secondo la sua stessa natura” non indicano il mezzo attraverso cui tale conoscenza avviene, poiché il mezzo effettivo è la somiglianza tra l’oggetto conosciuto e la capacità conoscitiva dell’angelo; esse indicano piuttosto la facoltà di conoscere che appartiene all’angelo per sua natura stessa.
+
+Risposta all’Obiezione 2: Poiché il senso in atto è ciò che è sensibile in atto, come affermato nel De Anima II, testo 53, non si intende che la facoltà sensitiva sia l’immagine del soggetto sensibile contenuta nel senso stesso, ma piuttosto che una cosa è costituita da entrambi – atto e potenzialità. Allo stesso modo, si dice che l’intelletto in atto sia ciò che viene compreso in atto; non perché la sostanza stessa dell’intelletto sia quell’immagine mediante cui comprende, ma perché proprio quell’immagine costituisce la sua forma. Ora, dire “nei soggetti privi di materia, l’intelletto è identico all’oggetto compreso” equivale esattamente a dire che “l’intelletto in atto è ciò che viene compreso in atto”; infatti, una cosa viene effettivamente compresa proprio perché è priva di materia.
+
+Risposta all’Obiezione 3: Le cose che si trovano al di sotto dell’angelo, e quelle che si trovano al di sopra di lui, sono in qualche misura contenute nella sua essenza; tuttavia non perfettamente, né secondo la loro propria forma specifica – poiché l’essenza dell’angelo, essendo finita, è distinta dalle altre cose dalla propria forma specifica – ma secondo una forma comune. Tuttavia, tutte le cose sono perfettamente contenute nella sostanza di Dio, nel suo potere operativo primo e universale, da cui derivano tutto ciò che è proprio o comune a qualsiasi cosa. Pertanto, Dio possiede una conoscenza perfetta di tutte le cose attraverso la propria essenza; l’angelo, invece, ne ha solo una conoscenza comune.
 
 <span class="atom-split" data-atom="027" data-title="Whether the angels understand by species drawn from things?" data-chapter="Whether the angels understand by species drawn from things?" data-kind="atom" data-srclang="en"></span>
 
@@ -1360,6 +1721,24 @@ Reply to Objection 3: The angel's knowledge is quite indifferent as to what is n
 Nevertheless his local movement is not purposeless on that account: for he is not moved to a place
 for the purpose of acquiring knowledge, but for the purpose of operation.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli comprendano le cose attraverso specie derivate da esse stesse. Infatti, tutto ciò che viene compreso viene percepito grazie a una qualche somiglianza presente nell’intelletto di colui che lo comprende. Ma questa somiglianza può esistere in un altro essere o in modo di exemplare, nel qual caso essa costituisce la causa della cosa stessa; oppure in modo di immagine, nel qual caso è essa stessa a essere causata da quella cosa. Pertanto, ogni conoscenza da parte dell’intelletto umano deve essere o la causa dell’oggetto conosciuto, o essere essa stessa causata da esso. Ora, la conoscenza degli angeli non può essere considerata la causa delle cose esistenti; tale funzione appartiene esclusivamente alla conoscenza divina. Quindi è necessario che le specie attraverso cui l’intelletto angelico comprende le cose derivino direttamente da esse stesse.
+
+Obiezione 2: Inoltre, la luce angelica è più potente della luce dell’intelligenza attiva dell’anima. Ma la luce dell’intelligenza attiva estrae le specie intelligibili dai fantasmi; pertanto anche la luce dell’intelligenza angelica può estrarre specie dalle cose sensibili. Quindi non c’è nulla che ci impedisca di affermare che gli angeli comprendono attraverso specie derivate dalle cose stesse.
+
+Obiezione 3: Inoltre, le specie nell’intelletto sono indifferenti rispetto a ciò che è presente o lontano, salvo nel caso in cui siano derivate da oggetti sensibili. Pertanto, se un angelo non comprendesse attraverso specie tratte dalle cose reali, la sua conoscenza sarebbe indifferente riguardo a ciò che è vicino o lontano; di conseguenza, le sue azioni non avrebbero alcun scopo concreto.
+
+Al contrario, Dionigi afferma (Div. Nom. vii) che “gli angeli non traggono la loro conoscenza divina da cose divisibili o sensibili”.
+
+Rispondo che le specie attraverso cui gli angeli comprendono non derivano dalle cose esterne, ma sono loro innate. Dobbiamo infatti osservare che esiste una somiglianza tra la distinzione e l’ordine delle sostanze spirituali e quelle corporee: i corpi più elevati possiedono in sé una [potenzialità](/concepts/act_potency) che viene pienamente realizzata dalla forma; nei corpi inferiori, invece, la potenzialità della materia non viene completamente soddisfatta dalla forma stessa, ma riceve da agenti esterni una forma dopo l’altra. Allo stesso modo, le sostanze intellettuali inferiori – cioè le anime umane – possiedono un potere di comprensione che non è naturalmente completo, ma viene gradualmente perfezionato attraverso l’assorbimento delle specie intelligibili provenienti dalle cose esterne. Nei corpi spirituali più elevati – cioè negli angeli – questo potere di comprensione è invece naturalmente completo, poiché tali specie sono loro innate e permettono loro di comprendere tutte le cose che possono conoscere in modo naturale. Lo stesso si evince dal modo in cui queste sostanze esistono: le sostanze spirituali inferiori – cioè le anime – hanno una natura simile a quella dei corpi, poiché sono esse stesse le forme di tali corpi; pertanto, per via della loro stessa essenza, devono cercare la propria perfezione intellettiva attraverso i corpi. Al contrario, le sostanze spirituali superiori – cioè gli angeli – sono completamente libere dai corpi e esistono in modo immateriale, nella propria natura intelligibile; pertanto raggiungono la propria perfezione attraverso un flusso di informazioni intellettuali ricevute da Dio, che include le specie delle cose conosciute nonché la loro stessa natura intellettiva. Da qui deriva l’affermazione di [Agostino](/figures/augustine) (Genesi ad litteram ii, 8): “Le altre cose inferiori agli angeli vengono create in modo che ricevano prima l’esistenza attraverso la conoscenza della creatura razionale, e poi nella propria natura”.
+
+Risposta all’Obiezione 1: Nella mente dell’angelo esistono immagini di creature; queste immagini, tuttavia, non derivano dalle creature stesse, ma da Dio, che è la causa delle creature e in Lui le somiglianze delle creature esistono per prima volta. Pertanto Agostino afferma (Genesi ad litteram ii, 8) che: “Come il modello secondo cui viene plasmata la creatura esiste nella Parola di Dio prima della stessa creatura, così la conoscenza di tale modello esiste innanzitutto nella creatura intellettuale e successivamente diventa essa stessa il processo di formazione della creatura.”
+
+Risposta all’Obiezione 2: Per passare da un estremo all’altro è necessario attraversare il mezzo. Ora, la natura di una forma nell’immaginazione – una forma priva di materia ma non priva di condizioni materiali – si trova a metà strada tra la natura di una forma che esiste nella materia e la natura di una forma che esiste nell’intelletto, ottenuta attraverso l’astrazione dalla materia e dalle condizioni materiali. Pertanto, per quanto potente possa essere l’intelligenza angelica, essa non potrebbe ridurre le forme materiali a uno stato intelligibile, se non prima le riducesse alla natura di forme immaginarie; il che è impossibile, poiché l’angelo non possiede un’immaginazione, come già detto sopra (Q[54], A[5]). Anche ammettendo che potesse estrarre specie intelligibili dalle cose materiali, non lo farebbe comunque; perché non ne avrebbe bisogno, poiché possiede già in sé specie intelligibili innate.
+
+Risposta all’Obiezione 3: La conoscenza dell’angelo è del tutto indifferente rispetto al fatto che ciò che conosce sia vicino o lontano. Tuttavia, il suo movimento spaziale non è privo di scopo; infatti, non viene spinto in un luogo allo scopo di acquisire conoscenza, ma per compiere azioni concrete.
+
 <span class="atom-split" data-atom="028" data-title="Whether the higher angels understand by more universal species than the lower angels?" data-chapter="Whether the higher angels understand by more universal species than the lower angels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the higher angels do not understand by more universal species
@@ -1419,6 +1798,24 @@ according to its proper type. The same applies to the universal form which is in
 angel, so that, on account of its excellence, many things can be known through it with a proper
 knowledge.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli superiori non comprendano le cose attraverso specie più universali rispetto agli angeli inferiori. Infatti, ciò che è universale sembra essere ciò che viene astratto dalle singole cose particolari. Ma gli angeli non comprendono le cose attraverso specie derivate da tali singole cose. Pertanto, non si può affermare che le specie dell’intelletto angelico siano più o meno universali.
+
+Obiezione 2: Inoltre, ciò che è conosciuto in dettaglio è conosciuto in modo più perfetto rispetto a ciò che è conosciuto in modo generico; poiché conoscere qualcosa in modo generico equivale, in un certo senso, a trovarsi a metà strada tra la [potenzialità](/concepts/act_potency) e l’atto concreto. Pertanto, se gli angeli più elevati conoscono attraverso concetti più universali rispetto agli angeli inferiori, ne consegue che abbiano una conoscenza meno perfetta di questi ultimi; il che non è appropriato.
+
+Obiezione 3: Inoltre, lo stesso non può essere il tipo proprio di molte cose. Ma se l’angelo superiore conosce varie cose attraverso una forma universale, mentre l’angelo inferiore le conosce attraverso diverse forme particolari, ne consegue che l’angelo superiore utilizza una sola forma universale per conoscere molteplici realtà. Pertanto, non sarà in grado di possedere una conoscenza adeguata di ciascuna di esse; il che sembra inappropriato.
+
+Al contrario, Dionigi afferma (Coel. Hier. xii) che gli angeli più elevati possiedono una conoscenza più universale rispetto a quelli inferiori. Inoltre, nel trattato “De Causis” si sostiene che gli angeli più elevati dispongano di forme mentali più universali.
+
+Rispondo che, proprio per questo motivo, alcune cose sono di natura più elevata, poiché sono più vicine e più simili a quella prima fonte, cioè a Dio. In Dio, l’intera pienezza della conoscenza intellettuale è contenuta in una sola realtà, ovvero nell’essenza divina, mediante la quale Dio conosce tutte le cose. Questa stessa pienezza di conoscenza si trova negli intelletti creati, ma in modo più limitato e meno semplice. Pertanto, è necessario che gli intelletti inferiori comprendano le cose attraverso molteplici forme, mentre Dio le conosce attraverso una sola forma; e tante più forme vengono utilizzate, quanto più basso è l’intelletto stesso. Quindi, più elevato è un angelo, meno specie sarà in grado di comprendere nell’intera gamma degli oggetti intellegibili; per questo le sue forme devono essere più universali, cioè estendersi a un numero maggiore di realtà. Un esempio di ciò si può osservare, in qualche misura, anche in noi stessi: alcune persone non riescono a comprendere una verità intellegibile se non viene spiegata loro nei minimi dettagli; ciò deriva dalla debolezza del loro intelletto; mentre altre, dotate di un’intelligenza più forte, sono in grado di comprenderne molte attraverso poche informazioni.
+
+Risposta all’Obiezione 1: È accidentale, per l’universale, essere astratto dalle singole cose, nella misura in cui l’intelletto che lo conosce trae la sua conoscenza dalle cose stesse. Ma se esistesse un intelletto il quale non trae la sua conoscenza dalle cose, l’universale che esso conosce non sarebbe astratto da esse, bensì esisterebbe in qualche modo prima di esse; sia secondo l’ordine della causalità, come le idee universali delle cose esistono nella Parola di Dio, sia almeno secondo l’ordine della natura, come tali idee esistono nella mente angelica.
+
+Risposta all’Obiezione 2: Conoscere qualcosa in modo universale può essere inteso in due modi. In un senso, riguardo alla cosa conosciuta, si intende che venga conosciuta soltanto la sua natura universale; conoscere una cosa in questo modo rappresenta quindi una forma di conoscenza meno perfetta, poiché si ha una conoscenza incompleta di quella cosa. In un altro senso, riguardo al mezzo attraverso il quale avviene tale conoscenza: in questo caso, conoscere qualcosa in modo universale è considerato una forma di conoscenza più perfetta. L’intelletto, infatti, che può, attraverso un mezzo universale, conoscere ciascuna delle cose contenute in esso, è più perfetto di quello che non possiede tale capacità.
+
+Risposta all’Obiezione 3: Lo stesso non può essere il tipo proprio e adeguato di molteplici cose. Tuttavia, se esso è eminente, allora può essere considerato il tipo proprio e l’immagine di molte altre cose. Proprio come nell’uomo esiste una prudenza universale che riguarda tutti gli atti delle virtù; questa prudenza può essere considerata il tipo proprio e l’immagine di quella prudenza che, nel leone, conduce ad atti di magnanimità, e nella volpe ad atti di cautela; e così via per le altre cose. L’essenza divina, a causa della sua eminenza, è in modo analogo considerata il tipo proprio di ogni cosa che vi è contenuta; pertanto, ciascuna cosa viene paragonata ad essa secondo il proprio tipo specifico. Lo stesso vale per la forma universale che si trova nella mente dell’angelo: grazie alla sua eccellenza, molte cose possono essere conosciute attraverso di essa in modo appropriato e completo.
+
 <span class="atom-split" data-atom="029" data-title="OF THE ANGEL'S KNOWLEDGE OF IMMATERIAL THINGS (THREE ARTICLES)" data-chapter="OF THE ANGEL'S KNOWLEDGE OF IMMATERIAL THINGS (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now inquire into the knowledge of the angels with regard to the objects known by them.
@@ -1427,6 +1824,13 @@ the first heading there are three points of inquiry:
 (1) Does an angel know himself?
 (2) Does one angel know another?
 (3) Does the angel know God by his own natural principles?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora esaminiamo la conoscenza degli angeli riguardo agli oggetti che sono loro noti. Tratteremo, innanzitutto, della loro conoscenza delle cose immateriali e, in seguito, di quella delle cose materiali. All’interno della prima categoria di indagine vi sono tre punti principali:  
+(1) Un angelo conosce se stesso?  
+(2) Un angelo conosce un altro angelo?  
+(3) L’angelo conosce Dio attraverso i propri principi naturali?
 
 <span class="atom-split" data-atom="030" data-title="Whether an angel knows himself?" data-chapter="Whether an angel knows himself?" data-kind="atom" data-srclang="en"></span>
 
@@ -1554,6 +1958,28 @@ He would have impressed more intelligible species in the angelic minds; as a bui
 had intended to build a larger house, would have made larger foundations. Hence, for God to add
 a new creature to the universe, means that He would add a new intelligible species to an angel.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un angelo non conosca un altro. Infatti, il Filosofo afferma (nei «De Anima», III, testo 4) che se l’intelletto umano possedesse in sé qualche caratteristica sensibile, tale natura presente al suo interno gli impedirebbe di comprendere le cose esterne; allo stesso modo, se la pupilla dell’occhio avesse una determinata colorazione, non sarebbe in grado di percepire tutti i colori. Ma poiché l’intelletto umano è adatto a comprendere le cose corporee, così pure l’intelligenza angelica è adatta a comprendere le cose immateriali. Pertanto, poiché l’intelligenza angelica possiede in sé una natura specifica tra quelle esistenti, sembrerebbe che non sia in grado di comprendere altre nature.
+
+Obiezione 2: Inoltre, nel “De Causis” si afferma che “ogni intelligenza conosce ciò che le è superiore, nella misura in cui essa ne è la causa; e ciò che le è inferiore, nella misura in cui essa ne è la causa”. Tuttavia, un angelo non è la causa di un altro. Pertanto, un angelo non conosce un altro angelo.
+
+Obiezione 3: Inoltre, un angelo non può essere conosciuto da un altro angelo attraverso l’essenza di colui che conosce; poiché ogni conoscenza avviene tramite una somiglianza tra le cose conosciute. Tuttavia, l’essenza dell’angelo che conosce non è simile all’essenza dell’angelo conosciuto, se non in modo generico; come risulta chiaramente da quanto detto in precedenza (Q[50], A[4]; Q[55], A[1], ad 3). Pertanto, ne consegue che un angelo non possiede una conoscenza particolare dell’altro, ma soltanto una conoscenza generale. Allo stesso modo, non si può affermare che un angelo conosca l’altro attraverso l’essenza di quest’ultimo; poiché ciò che permette all’intelletto di comprendere è qualcosa che appartiene all’intelletto stesso, mentre soltanto la Trinità può penetrare nel profondo della mente umana. Inoltre, non si può nemmeno sostenere che un angelo conosca l’altro attraverso una “specie” comune; poiché tale specie non differirebbe dall’angelo conosciuto, essendo entrambi immateriali. Quindi, in nessun modo sembra possibile che un angelo possa comprendere un altro.
+
+Obiezione 4: Inoltre, se un angelo potesse comprendere un altro, ciò avverrebbe o attraverso una specie innata; ne consegue che, se Dio dovesse creare ora un altro angelo, tale angelo non potrebbe essere conosciuto dagli angeli esistenti; oppure tale conoscenza dovrebbe derivare da informazioni provenienti dal mondo materiale; quindi gli angeli più elevati non potrebbero conoscere quelli inferiori, dai quali non ricevono nulla. Pertanto, in nessun modo sembra possibile che un angelo conosca un altro.
+
+Al contrario, leggiamo nel “De Causis” che “ogni intelligenza conosce le cose che non sono corrotte”.
+
+Rispondo che, come afferma [Agostino](/figures/augustine) (Genesi ad litteram, ii), cose del genere esistevano già dall’[eternità](/positions/eternity) nella Parola di Dio e ne derivarono in due modi: innanzitutto, nel pensiero angelico; in secondo luogo, in modo da esistere nelle loro stesse nature. Queste idee entrarono nel pensiero angelico in tal modo che Dio imprimeva nell’intelligenza angelica le immagini di quelle cose che aveva creato nella loro essenza naturale. Nella Parola di Dio, dunque, dall’eternità esistevano non solo le forme delle cose corporee, ma anche quelle di tutte le creature spirituali. In ogni singola creatura spirituale erano presenti, quindi, le forme di tutte le cose, sia corporee che spirituali; tuttavia, in ciascun angelo era impressa soltanto la forma della sua specie, sia nella sua natura fisica che in quella intellettuale, affinché potesse esistere secondo tale natura e comprendersi attraverso di essa. Le forme di altre nature spirituali o corporee erano invece presenti in lui soltanto nella loro dimensione intellettiva, permettendogli così di conoscere le creature sia corporee che spirituali.
+
+Risposta all’Obiezione 1: Le nature spirituali degli angeli si distinguono l’una dall’altra secondo un certo ordine, come già osservato (Q[50], A[4], ad 1,2). Pertanto, la natura di un angelo non gli impedisce di conoscere le altre nature angeliche, poiché sia quelle superiori che quelle inferiori presentano una affinità con la sua stessa natura; l’unica differenza risiede nei diversi gradi di perfezione di ciascuna.
+
+Risposta all’Obiezione 2: La natura di causa ed effetto non permette a un angelo di conoscere un altro, se non attraverso la somiglianza, nella misura in cui causa ed effetto siano simili. Pertanto, se si ammettesse una somiglianza senza causalità tra gli angeli, ciò sarebbe sufficiente affinché uno potesse conoscere l’altro.
+
+Risposta all’Obiezione 3: Un angelo conosce un altro angelo in base alla specie di quell’angelo che esiste nel suo intelletto; tale specie differisce dall’angelo il cui “ritratto” essa rappresenta, non in termini di natura materiale o immateriale, ma in termini di esistenza naturale o intenzionale. L’angelo stesso è una forma che esiste realmente nel suo essere naturale; tuttavia, la sua specie nell’intelletto di un altro angelo non possiede lo stesso carattere di realtà, poiché in quel contesto essa ha soltanto un’esistenza intellegibile. Così come la forma del colore sulla parete esiste realmente; ma nel mezzo diverso in cui si manifesta, essa ha soltanto un’esistenza intenzionale.
+
+Risposta all’Obiezione 4: Dio ha creato ogni essere in modo che fosse proporzionato all’universo che aveva deciso di creare. Pertanto, se Dio avesse voluto creare più angeli o altre forme di esseri, avrebbe impresso nella loro mente specie più comprensibili; proprio come un costruttore che, se avesse voluto edificare una casa più grande, avrebbe preparato fondamenta più solide. Quindi, per Dio aggiungere un nuovo essere all’universo significherebbe aggiungere una nuova specie intelligibile agli angeli.
+
 <span class="atom-split" data-atom="032" data-title="Whether an angle knows God by his own natural principles?" data-chapter="Whether an angle knows God by his own natural principles?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the angels cannot know God by their natural principles. For
@@ -1608,6 +2034,24 @@ above the knowledge which an angel has of Him.
 Reply to Objection 3: The knowledge which an angel has of God is midway between these
 two kinds of knowledge; nevertheless it approaches more to one of them, as was said above.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli non possano conoscere Dio attraverso i loro principi naturali. Infatti Dionigi afferma (Div. Nom. I) che Dio “per la sua potenza incomprensibile è posto al di sopra di tutte le menti celesti”. In seguito aggiunge che, “poiché è al di sopra di tutte le sostanze, è lontano da ogni forma di conoscenza”.
+
+Obiezione 2: Inoltre, Dio è infinitamente al di sopra dell’intelligenza di un angelo. Ma ciò che è infinitamente lontano non può essere raggiunto. Pertanto, sembra che un angelo non possa conoscere Dio attraverso i suoi principi naturali.
+
+Obiezione 3: Inoltre, è scritto (1 Corinzi 13:12): “Ora lo vediamo in modo vago e indiretto, come attraverso uno specchio; ma allora lo vedremo faccia a faccia”. Da ciò si deduce che esista una doppia conoscenza di Dio: una, mediante la quale Egli viene visto nella Sua essenza, e per cui si dice che venga visto faccia a faccia; l’altra, mediante la quale Egli viene visto nello “specchio” delle creature. Come già dimostrato (Q[12], A[4]), un angelo non può possedere la prima forma di conoscenza attraverso i propri principi naturali. Nemmeno la visione attraverso uno specchio appartiene agli angeli, poiché essi non traggono la loro conoscenza di Dio dalle cose sensibili, come osserva Dionigi (Divinum Nomine vii). Pertanto, gli angeli non possono conoscere Dio con i loro poteri naturali.
+
+Al contrario, gli angeli sono più potenti degli uomini nel conoscere. Tuttavia, gli uomini possono conoscere Dio attraverso i loro principi naturali; come afferma Romani 1:19: “Quello che è noto di Dio è manifesto in loro”. Pertanto, tanto più gli angeli possono conoscerlo.
+
+Rispondo che gli angeli possono possedere una certa conoscenza di Dio attraverso i propri principi naturali. A dimostrazione di ciò, si deve ricordare che una cosa può essere conosciuta in tre modi: primo, attraverso la presenza della sua essenza nel conoscitore, come la luce viene vista nell’occhio; è così che un angelo conosce se stesso. Secondo, attraverso la presenza della sua somiglianza nella forza che la percepisce, come una pietra viene vista dall’occhio grazie alla sua immagine presente in esso. Terzo, quando l’immagine dell’oggetto conosciuto non deriva direttamente da esso stesso, ma da qualcos’altro attraverso cui essa appare, come quando vediamo un uomo nello specchio. La prima di queste categorie di conoscenza è paragonabile a quella mediante la quale Dio viene visto attraverso la sua essenza; una tale conoscenza, tuttavia, non può derivare dai principi naturali di alcuna creatura, come già detto in precedenza (Q[12], A[4]). La terza categoria comprende quella conoscenza grazie alla quale conosciamo Dio mentre siamo sulla terra, attraverso la sua somiglianza riflessa nelle creature, secondo quanto affermato in Romani 1:20: “Le cose invisibili di Dio sono chiaramente comprensibili attraverso quelle che sono visibili”. Per questo motivo si dice anche che vediamo Dio nello specchio. Ma la conoscenza che un angelo possiede grazie ai suoi principi naturali si colloca a metà strada tra queste due categorie; è paragonabile a quella mediante la quale una cosa viene vista attraverso le sue caratteristiche astratte. Poiché l’immagine di Dio è impressa nella stessa natura dell’angelo, questo conosce Dio in quanto tale immagine; tuttavia non può contemplare l’essenza divina, poiché nessuna somiglianza creata è sufficiente a rappresentarla. Questo tipo di conoscenza si avvicina quindi al modello speculare: la natura angelica, infatti, è in qualche modo uno specchio che riflette l’immagine divina.
+
+Risposta all’Obiezione 1: Dionigi si riferisce alla conoscenza basata sulla comprensione, come espressamente indicato dalle sue parole. In questo modo, Dio non può essere conosciuto da alcun intelletto creato.
+
+Risposta all’Obiezione 2: Poiché l’intelligenza e l’essenza di un angelo sono infinitamente distanti da Dio, ne consegue che non può comprenderlo; né può percepire l’essenza di Dio attraverso la propria natura. Tuttavia, ciò non significa affatto che non possa avere alcuna conoscenza di Lui: poiché, proprio come Dio è infinitamente distante dall’angelo, anche la conoscenza che Dio ha di Sé stessa è infinitamente superiore alla conoscenza che un angelo può averne.
+
+Risposta all’Obiezione 3: La conoscenza che un angelo ha di Dio si trova a metà strada tra questi due tipi di conoscenza; tuttavia, come detto in precedenza, si avvicina di più a uno di essi.
+
 <span class="atom-split" data-atom="033" data-title="OF THE ANGEL'S KNOWLEDGE OF MATERIAL THINGS (FIVE ARTICLES)" data-chapter="OF THE ANGEL'S KNOWLEDGE OF MATERIAL THINGS (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next investigate the material objects which are known by the angels. Under this heading
@@ -1617,6 +2061,15 @@ there are five points of inquiry:
 (3) Whether they know the future?
 (4) Whether they know secret thoughts?
 (5) Whether they know all mysteries of grace?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Esaminiamo ora gli oggetti materiali conosciuti dagli angeli. In questa categoria vi sono cinque punti di indagine:  
+(1) Gli angeli conoscono la natura delle cose materiali?  
+(2) Conoscono singoli oggetti specifici?  
+(3) Conoscono il futuro?  
+(4) Conoscono i pensieri segreti delle persone?  
+(5) Conoscono tutti i misteri della grazia divina?
 
 <span class="atom-split" data-atom="034" data-title="Whether the angels know material things?" data-chapter="Whether the angels know material things?" data-kind="atom" data-srclang="en"></span>
 
@@ -1751,6 +2204,25 @@ Reply to Objection 3: Angels know singulars by universal forms, which neverthele
 images of things both as to their universal, and as to their individuating principles. How many
 things can be known by the same species, has been already stated above (Q[55], A[3], ad 3).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli non conoscano i singolari. Infatti, il Filosofo afferma (Posteriori Analitici, libro II, testo 22): “Il senso ha come oggetto i singolari, mentre l’intelletto considera gli [universali](/axes/universals)”. Ora, negli angeli non esiste alcuna facoltà di comprensione se non quella intellettiva, come è evidente da quanto detto in precedenza (Q[54], A[5]). Pertanto, essi non conoscono i singolari.
+
+Obiezione 2: Inoltre, ogni conoscenza deriva da un’assimilazione da parte del conoscente all’oggetto conosciuto. Tuttavia non è possibile alcuna assimilazione tra un angelo e un oggetto singolare, in quanto tale; poiché, come già osservato sopra (Q[50], A[2]), l’angelo è immateriale, mentre la materia rappresenta il principio della singolarità. Pertanto, l’angelo non può conoscere gli oggetti singolari.
+
+Obiezione 3: Inoltre, se un angelo conosce i singolari, lo fa attraverso specie singolari o universali. Non può essere attraverso specie singolari, poiché in questo caso avrebbe bisogno di disporre di un numero infinito di specie. Né può essere attraverso specie universali, poiché l’universale non costituisce un principio sufficiente per conoscere il singolare in sé stesso; infatti, le cose singolari vengono conosciute nell’universale soltanto in modo potenziale. Pertanto, l’angelo non conosce i singolari.
+
+Al contrario, nessuno può custodire ciò che non conosce. Ma gli angeli custodiscono gli individui, come recita il Salmo 90:11: “Ha affidato te ai suoi angeli”. Pertanto, gli angeli conoscono i singoli individui.
+
+Rispondo che alcuni hanno negato agli angeli qualsiasi conoscenza dei singoli individui. In primo luogo, ciò è contrario alla fede cattolica, la quale afferma che queste realtà inferiori siano governate dagli angeli, come si legge in Ebrea 1:14: “Sono tutti spiriti ministeriali”. Se gli angeli non conoscessero i singoli individui, non potrebbero intervenire su ciò che accade in questo mondo, poiché le azioni umane appartengono a singole persone; e ciò è in contraddizione con il testo di Ecclesiastico 5:5: “Non dire davanti all’angelo: ‘Non c’è provvidenza’”. In secondo luogo, questa posizione è anche contraria alle dottrine della filosofia, secondo cui gli angeli sono considerati i motori delle sfere celesti e le governano in base alla loro conoscenza e volontà. Altri hanno quindi sostenuto che gli angeli possiedano una conoscenza dei singoli individui, ma solo riguardo alle loro cause universali, alle quali tutti gli effetti particolari sono ridotti; come se un astronomo potesse prevedere un’eclissi in base alle disposizioni dei movimenti celesti. Tuttavia, questa opinione non sfugge alle suddette implicazioni: conoscere un singolo individuo soltanto attraverso le sue cause universali significa non conoscerlo come tale, cioè come esiste qui e ora. L’astronomo, pur conoscendo dal calcolo dei movimenti celesti che un’eclissi sta per verificarsi, la conosce in termini universali; ma non sa che si stia realmente verificando in quel momento, se non attraverso i sensi. Tuttavia, l’amministrazione delle cose, la provvidenza e i movimenti sono legati ai singoli individui, così come esistono qui e ora. Pertanto, bisogna affermare che, proprio come l’uomo, con le sue diverse facoltà cognitive, conosce tutti i tipi di cose – comprendendo quelle universali e immateriali attraverso l’intelletto, e quelle singole e materiali attraverso i sensi – anche un angelo conosce tutto attraverso la sua unica facoltà mentale. L’ordine delle cose è infatti tale che più una realtà è elevata, più le sue capacità sono integrate e ampie: nell’uomo stesso, ad esempio, il senso comune, essendo superiore ai sensi esterni, conosce tutto ciò che questi percepiscono, oltre ad altre cose che nessun senso esterno può conoscere (ad esempio, la differenza tra bianco e dolce). Lo stesso vale per gli angeli. Poiché un angelo è superiore all’uomo nell’ordine naturale, non è ragionevole sostenere che l’uomo possa conoscere qualcosa con una delle sue facoltà cognitive, mentre un angelo non può conoscerlo attraverso la sua unica facoltà di conoscenza, ovvero l’intelletto. Per questo motivo, Aristotele considerava ridicolo affermare che una discordia nota a noi potesse essere sconosciuta a Dio (De Anima I, 80; Metafisica, 15). Il modo in cui un angelo conosce i singoli individui può essere compreso osservando come le cose derivino da Dio al fine di esistere nella loro natura specifica; allo stesso modo, queste cose derivano anche per poter esistere nella mente angelica. È evidente che da Dio provengono non solo ciò che appartiene alla loro natura universale, ma anche tutto ciò che costituisce i loro principi essenziali.
+Della [individuazione](/concepts/individuation); poiché Egli è la causa di tutta la sostanza della cosa, sia della sua materia che della sua forma. E poiché Egli causa, Egli conosce; poiché la Sua conoscenza è la causa delle cose, come è stato dimostrato in precedenza (Q[14], A[8]). Pertanto, per via della Sua essenza, con la quale causa tutte le cose, Dio è l’immagine di tutte le cose e le conosce tutte, non solo riguardo alla loro natura universale, ma anche riguardo alla loro individualità; allo stesso modo, gli angeli conoscono le cose attraverso le specie che queste ricevono da Lui, non soltanto in relazione alla loro natura universale, ma anche nelle loro condizioni particolari, nella misura in cui esse rappresentano in modo vario quella stessa essenza semplice.
+
+Risposta all’Obiezione 1: Il filosofo si riferisce al nostro intelletto, il quale comprende le cose soltanto attraverso un processo di astrazione; tale astrazione dalle condizioni materiali trasforma l’oggetto astratto in qualcosa di universale. Un simile modo di comprendere non è conforme alla natura degli angeli, come già detto sopra (Q[55], A[2], A[3] ad 1); pertanto, non esiste alcuna analogia tra i due casi.
+
+Risposta all’Obiezione 2: Non è secondo la loro natura che gli angeli vengano paragonati a cose materiali; infatti, due cose si assomigliano tra loro in base alla concordanza di genere, specie o accidente. Piuttosto, ciò avviene perché le entità superiori assomigliano a quelle inferiori, proprio come il sole assomiglia al fuoco. Anche in questo modo, in Dio esiste una sorta di “somiglianza” tra tutte le cose, sia per quanto riguarda la materia che la forma; infatti, in Lui preesistono, come nella loro causa, tutte le caratteristiche che si trovano nelle cose stesse. Per lo stesso motivo, le idee nell’intelletto angelico, che sono immagini tratte dall’essenza divina, rappresentano le cose non solo per quanto riguarda la forma, ma anche per quanto riguarda la materia.
+
+Risposta all’Obiezione 3: Gli angeli conoscono i singoli enti attraverso forme universali, le quali tuttavia rappresentano tali enti sia sotto il profilo delle loro proprietà universali che di quelle che li rendono individuali. Quante cose possano essere conosciute attraverso la stessa specie è già stato detto in precedenza (Q[55], A[3], ad 3).
+
 <span class="atom-split" data-atom="036" data-title="Whether angels know the future?" data-chapter="Whether angels know the future?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the angels know future events. For angels are mightier in
@@ -1811,6 +2283,28 @@ likened to such species; consequently, they cannot be known by those species.
 Reply to Objection 4: Things distant according to place are already existing in nature; and
 share in some species, whose image is in the angel; whereas this is not true of future things, as has
 been stated. Consequently there is no comparison.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli conoscano gli eventi futuri, poiché sono più potenti degli uomini nel conoscere. Ma alcuni uomini conoscono molti eventi futuri; quindi, molto di più, gli angeli devono saperne.
+
+Obiezione 2: Inoltre, il presente e il futuro sono differenze di tempo. Ma l’intelligenza dell’angelo è al di sopra del tempo; poiché, come si afferma nel “De Causis”, “un’intelligenza è in sintonia con l’[eternità](/positions/eternity)”, cioè con l’aeviternità. Pertanto, per la mente dell’angelo, passato e futuro non sono diversi; egli li conosce entrambi allo stesso modo.
+
+Obiezione 3: Inoltre, l’angelo non comprende le cose attraverso specie derivate da esse, ma attraverso specie universali innate. Tuttavia, le specie universali si riferiscono ugualmente al presente, al passato e al futuro. Pertanto, sembra che gli angeli conoscano indifferentemente cose passate, presenti e future.
+
+Obiezione 4: Inoltre, così come una cosa viene considerata lontana in base al tempo, lo è anche in base al luogo. Ma gli angeli conoscono cose che sono lontane in termini di posizione spaziale; pertanto conoscono anche cose che si trovano in luoghi distanti nel futuro.
+
+Al contrario, ciò che costituisce il segno esclusivo della Divinità non appartiene agli angeli. Tuttavia, conoscere gli eventi futuri è proprio quel segno esclusivo della Divinità, come afferma Isaia 41:23: “Mostrateci ciò che accadrà in futuro, e allora sapremo che siete dèi”. Pertanto, gli angeli non conoscono gli eventi futuri.
+
+Rispondo che il futuro può essere conosciuto in due modi. In primo luogo, può essere conosciuto attraverso le sue cause: gli eventi futuri che derivano necessariamente dalle loro cause sono quindi conoscibili con certezza; ad esempio, sappiamo con certezza che domani sorgerà il sole. Tuttavia, gli eventi che derivano dalle loro cause nella maggior parte dei casi non sono conosciuti con certezza, ma solo in modo congetturale; è il caso, ad esempio, del medico che conosce in anticipo lo stato di salute del paziente. Questo modo di conoscere gli eventi futuri è proprio degli angeli, e ancora di più loro rispetto a noi, poiché comprendono le cause delle cose in modo più universale e perfetto; per questo i medici che approfondiscono maggiormente le cause di una malattia possono formulare previsioni più sicure riguardo al suo futuro sviluppo. Gli eventi, invece, che derivano dalle loro cause solo in rari casi rimangono del tutto sconosciuti; si tratta di eventi casuali e fortuiti. In un altro modo, il futuro può essere conosciuto direttamente nelle sue caratteristiche intrinseche: conoscere il futuro in questo modo è prerogativa esclusiva di Dio; non solo gli eventi che avvengono necessariamente o nella maggior parte dei casi, ma anche quelli casuali e fortuiti. Infatti, Dio vede tutte le cose nella sua eternità, che essendo semplice è presente in ogni momento del tempo e lo comprende interamente. Pertanto, con un solo sguardo, Dio contempla tutte le cose che avvengono nel corso del tempo come se fossero presenti davanti a Lui; vede tutte le cose così come sono in sé stesse, come già detto riguardo alla conoscenza divina (Q[14], A[13]). Tuttavia, la mente di un angelo e qualsiasi intelletto creato sono ben lontani dall’eternità di Dio; per questo il futuro, così com’è in sé stesso, non può essere conosciuto da alcun intelletto creato.
+
+Risposta all’Obiezione 1: Gli uomini non possono conoscere le cose future se non attraverso le loro cause, o tramite la [rivelazione](/concepts/revelation) di Dio. Anche gli angeli conoscono il futuro nello stesso modo, ma in modo molto più chiaro e preciso.
+
+Risposta all’Obiezione 2: Sebbene l’intelligenza dell’angelo sia superiore al tempo secondo cui vengono misurati i movimenti corporei, esiste comunque un “tempo” nella sua mente, determinato dalla successione dei concetti intellegibili; di ciò parla [Agostino](/figures/augustine) nel Genesi ad litteram viii, quando afferma che “Dio muove la creatura spirituale secondo il tempo”. Pertanto, poiché nell’intelligenza dell’angelo esiste una successione di eventi, non tutte le cose che avvengono nel corso del tempo sono presenti nella sua mente.
+
+Risposta all’Obiezione 3: Sebbene le specie nell’intelletto di un angelo, in quanto tali, si riferiscano ugualmente a cose presenti, passate e future, tuttavia il presente, il passato e il futuro non hanno le stesse relazioni rispetto a queste specie. Le cose presenti possiedono una natura che le rende simili alle specie nell’intelletto di un angelo; per questo motivo possono essere conosciute attraverso tali specie. Le cose che ancora devono accadere, invece, non possiedono ancora una natura che le renda simili a queste specie; pertanto non possono essere conosciute tramite esse.
+
+Risposta all’Obiezione 4: Le cose lontane per posizione esistono già nella natura e appartengono a determinate categorie, le cui immagini si trovano negli angeli; ciò non vale invece per le cose future, come è stato detto in precedenza. Pertanto, non vi è alcuna analogia tra i due casi.
 
 <span class="atom-split" data-atom="037" data-title="Whether angels know secret thoughts?" data-chapter="Whether angels know secret thoughts?" data-kind="atom" data-srclang="en"></span>
 
@@ -1880,6 +2374,24 @@ But it does not follow that, if the angel knows what is passing through man's se
 imagination, he knows what is in the thought or will: because the intellect or will is not subject to
 the sensitive appetite or the imagination, but can make various uses of them.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli conoscano i pensieri segreti delle persone. Infatti Gregorio, nel suo trattato Morale XVIII, spiegando il versetto di Giobbe 28:17 (“Né l’oro né il cristallo possono paragonarglisi”), afferma che “in quel momento”, cioè nella beatitudine di coloro che risorgono dai morti, “ognuno sarà così chiaramente visibile agli altri quanto lo è a se stesso; e non appena la mente di ognuno verrà compresa, anche la sua coscienza sarà completamente penetrata”. Ma coloro che risorgeranno saranno simili agli angeli, come si legge in Matteo 22:30. Pertanto, un angelo può conoscere ciò che si trova nella coscienza di un altro essere umano.
+
+Obiezione 2: Inoltre, le specie intellegibili mantengono lo stesso rapporto con l’intelletto che le forme hanno con i corpi. Ma quando si vede un corpo, si vede anche la sua forma; pertanto, quando si osserva una sostanza intellettiva, anche le specie intellegibili al suo interno vengono percepite. Di conseguenza, quando un angelo osserva un altro angelo, o addirittura un’anima, sembra che possa vedere i pensieri di entrambi.
+
+Obiezione 3: Inoltre, le idee del nostro intelletto assomigliano di più agli angeli che le immagini nella nostra immaginazione; poiché le prime vengono effettivamente comprese, mentre le seconde vengono comprese soltanto in potenza. Tuttavia, le immagini nella nostra immaginazione possono essere conosciute dagli angeli esattamente come le cose corporee vengono conosciute: poiché l’immaginazione è una facoltà corporea. Pertanto, sembra che un angelo possa conoscere i pensieri dell’intelletto.
+
+Al contrario, ciò che è proprio di Dio non appartiene agli angeli. Tuttavia, è proprio di Dio leggere i segreti dei cuori, come recita Geremia 17:9: “Il cuore è più perverso di ogni altra cosa e insondabile; chi può comprenderlo? Io sono il Signore che esamina i cuori.” Pertanto, gli angeli non conoscono i segreti dei cuori.
+
+Rispondo che un pensiero segreto può essere conosciuto in due modi: innanzitutto, attraverso i suoi effetti. In questo modo può essere compreso non solo dagli angeli, ma anche dall’uomo; e tale comprensione diventa ancora più sottile quanto più nascosti siano tali effetti. Infatti, un pensiero a volte viene rivelato non soltanto attraverso azioni esterne, ma anche attraverso cambiamenti nell’espressione del volto; inoltre, i medici possono individuare alcune emozioni dell’anima semplicemente osservando il polso. Gli angeli, o addirittura i demoni, che penetrano più profondamente in queste modificazioni corporee occulte, sono ancora più in grado di comprenderle. Ecco perché sant’Agostino afferma (De divinis daemonibus) che i demoni “a volte, con la loro grande capacità, riescono a conoscere le intenzioni umane, non solo quando vengono espresse a parole, ma anche quando sono soltanto concepite nel pensiero, quando l’anima le manifesta attraverso determinati segni nel corpo”; sebbene aggiunga (Retractationes, ii, 30) che “non si può affermare con certezza come ciò avvenga”. In un altro modo, i pensieri possono essere compresi così come esistono nella mente, e le emozioni così come sono presenti nella volontà; pertanto, solo Dio può conoscere i pensieri dei cuori e le emozioni delle volontà. Il motivo di ciò è che la creatura razionale è soggetta soltanto a Dio, e solo Lui può agire in essa, poiché Egli ne è l’oggetto principale e lo scopo finale: questo aspetto verrà ulteriormente sviluppato in seguito (Q[63], A[1]; Q[105], A[5]). Di conseguenza, tutto ciò che esiste nella volontà, e tutte le cose che dipendono unicamente dalla volontà, sono conosciute soltanto da Dio. È evidente infatti che l’esame attento di qualsiasi cosa dipende interamente dalla volontà umana; un uomo, ad esempio, utilizza le conoscenze o le idee che possiede secondo la propria volontà. Ecco perché l’Apostolo afferma (1 Corinzi 2:11): “Chi può comprendere i pensieri dell’uomo, se non lo spirito dell’uomo stesso che è in lui?”
+
+Risposta all’Obiezione 1: Nella vita presente, i pensieri di un uomo non sono conosciuti da un altro a causa di due ostacoli principali: innanzitutto, a causa della grossolanità del corpo; in secondo luogo, perché la volontà nasconde i propri segreti. Il primo ostacolo sarà eliminato alla Resurrezione e non esiste affatto negli angeli; il secondo, invece, rimarrà e esiste già negli angeli attualmente. Tuttavia, la luminosità del corpo rivelerà le qualità dell’anima, così come la quantità di grazia e di gloria che essa possiede. In questo modo, sarà possibile comprendere i pensieri altrui.
+
+Risposta all’Obiezione 2: Anche se un angelo percepisce le specie intellegibili di un altro angelo, poiché tali specie sono proporzionali al rango di queste entità in base alla loro universalità maggiore o minore, ciò non significa necessariamente che uno angelo possa conoscere fino a che punto l’altro le utilizzi effettivamente nella sua attività.
+
+Risposta all’Obiezione 3: L’appetito delle bestie non controlla i loro atti, ma segue l’impressione causata da qualche altra causa corporea o spirituale. Poiché gli angeli conoscono le cose corporee e le loro proprietà, possono quindi comprendere ciò che avviene nell’appetito o nella capacità di immaginazione delle bestie, e persino dell’uomo, nella misura in cui l’appetito sensibile, a volte, influisce sul comportamento umano seguendo determinate impressioni corporee, come accade sempre nelle bestie. Tuttavia, gli angeli non conoscono necessariamente i movimenti dell’appetito sensibile e della capacità di immaginazione umana quando questi sono guidati dalla volontà e dalla ragione; poiché anche la parte inferiore dell’anima possiede una certa dose di ragione, essendo sottomessa al suo dominatore, come si afferma nell’Etica, III, 12. Ma ciò non significa che, se un angelo conosce ciò che avviene nell’appetito sensibile o nell’immaginazione umana, ne conosca necessariamente i pensieri o la volontà: poiché l’intelletto e la volontà non sono soggetti all’appetito sensibile o all’immaginazione, ma possono utilizzarli in modi diversi.
+
 <span class="atom-split" data-atom="038" data-title="Whether the angels know the mysteries of grace?" data-chapter="Whether the angels know the mysteries of grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the angels know mysteries of grace. For, the mystery of the
@@ -1946,6 +2458,25 @@ also, the later ones knew what the former did not know; according to Ps. 118:100
 understanding above ancients," and Gregory says: "The knowledge of Divine things increased as
 time went on" (Hom. xvi in Ezech.).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli conoscano i misteri della grazia. Infatti, il mistero dell’Incarnazione è il più eccellente di tutti i misteri. Ma gli angeli lo conoscevano fin dall’inizio; poiché [Agostino](/figures/augustine) afferma (Genesi ad litteram V, 19): “Questo mistero fu nascosto in Dio attraverso i secoli, tuttavia in modo che fosse noto ai principi e alle potenze celesti”. E l’Apostolo dice (1 Timoteo 3:16): “Quel grande mistero della pietà apparve agli angeli*”. [*Vulgata: ‘Grande è il mistero della pietà, che, apparve agli angeli.’] Pertanto, gli angeli conoscono i misteri della grazia.
+
+Obiezione 2: Inoltre, le ragioni di tutti i misteri della grazia sono contenute nella saggezza divina. Ma gli angeli contemplano la saggezza di Dio, che è la Sua essenza stessa; pertanto conoscono i misteri della grazia.
+
+Obiezione 3: Inoltre, i profeti sono illuminati dagli angeli, come risulta chiaro da Dionigi di Atene (Coel. Hier. iv). Ma i profeti conoscevano i misteri della grazia; infatti si dice nell’Amos 3:7: “Poiché il Signore Dio non fa nulla senza rivelare i suoi segreti ai suoi servitori, i profeti”. Pertanto, anche gli angeli conoscono i misteri della grazia.
+
+Al contrario, nessuno impara ciò che già sa. Eppure anche gli angeli più elevati cercano e apprendono i misteri della grazia. Poiché si afferma (Coel. Hier. vii) che “la Sacra [Scrittura](/concepts/revelation) descrive alcune essenze celesti mentre pongono domande a Gesù e imparano da Lui la conoscenza del Suo lavoro divino per noi; e Gesù stesso le insegna direttamente”: come è evidente in Is. 63:1, dove, quando gli angeli chiedono “Chi è colui che viene dall’Edom?”, Gesù risponde “Sono Io, colui che proclama la giustizia”. Pertanto, gli angeli non conoscono i misteri della grazia.
+
+Rispondo che esiste una doppia forma di conoscenza negli angeli. La prima è quella naturale, grazie alla quale conoscono le cose sia attraverso la loro essenza che attraverso specie innate. Con tale conoscenza gli angeli non possono comprendere i misteri della grazia; infatti questi misteri dipendono dalla volontà pura di Dio. E se un angelo non può comprendere i pensieri di un altro angelo, che a loro volta dipendono dalla volontà di quest’ultimo, tanto meno può conoscere ciò che dipende interamente dalla volontà di Dio. L’Apostolo ragiona in questo modo (1 Corinzi 2:11): “Nessuno conosce le cose umane se non lo spirito dell’uomo che è in lui”; allo stesso modo, “nessuno conosce le cose di Dio se non lo Spirito di Dio”. Esiste un’altra forma di conoscenza negli angeli, quella che li rende felici: è la conoscenza attraverso la quale vedono la Parola e le realtà contenute nella Parola. Grazie a questa visione comprendono i misteri della grazia, ma non tutti; inoltre non li conoscono tutti allo stesso modo, bensì nel grado in cui Dio vuole che li apprendano attraverso rivelazioni. Come dice l’Apostolo (1 Corinzi 2:10): “Ma a noi Dio le ha rivelate per mezzo dello Spirito suo”. Gli angeli più elevati, osservando con maggiore chiarezza la saggezza divina, apprendono misteri sempre più profondi; questi misteri li comunicano agli angeli inferiori illuminandoli. Alcuni di questi misteri erano noti fin dal loro stesso inizio; altri vengono insegnati in seguito, secondo le loro funzioni e i loro compiti.
+
+Risposta all’Obiezione 1: Si può parlare del mistero dell’Incarnazione in due modi. In primo luogo, in modo generale; ed è in questo senso che esso fu rivelato a tutti fin dall’inizio della loro [beatitudine](/positions/beatitude). La ragione di ciò è che si tratta di un principio generale al quale sono subordinate tutte le loro mansioni. Infatti, “tutti sono spiriti ministeriali, inviati a servire coloro che riceveranno l’eredità della salvezza (Ebrei 1:14)”; e questo è reso possibile dal mistero dell’Incarnazione. Pertanto, era necessario che tutti fossero istruiti su questo mistero fin dall’inizio.  
+Si può parlare del mistero dell’Incarnazione anche in termini delle sue condizioni particolari. Non tutti gli angeli furono infatti istruiti su ogni dettaglio fin dall’inizio; persino gli angeli più elevati appresero queste verità in un secondo momento, come emerge dal passaggio di Dionigi già citato.
+
+Risposta all’Obiezione 2: Anche se gli angeli nella beatitudine contemplano la saggezza divina, non la comprendono completamente. Pertanto, non è necessario che conoscano tutto ciò che vi è nascosto al suo interno.
+
+Risposta all’Obiezione 3: Quello che i profeti conoscevano attraverso la rivelazione dei misteri della grazia, fu rivelato in modo ancora più eccellente agli angeli. E sebbene Dio abbia rivelato in generale ai profeti ciò che avrebbe fatto un giorno per la salvezza dell’umanità, gli apostoli conoscevano alcune particolari di queste cose che i profeti non conoscevano. Così leggiamo (Efesini 3:4-5): “Così che voi possiate comprendere la conoscenza che ho riguardo al mistero di Cristo, conoscenza che in altre generazioni non fu nota agli uomini, ma che ora è rivelata ai suoi santi apostoli”. Anche tra i profeti, quelli successivi conoscevano ciò che quelli precedenti ignoravano; come dice il Salmo 118:100: “Ho ricevuto una conoscenza superiore a quella degli antichi”, e Gregorio d’Origo afferma: “La conoscenza delle cose divine aumentò con il passare del tempo” (Omelia xvi su Ezechiele).
+
 <span class="atom-split" data-atom="039" data-title="OF THE MODE OF ANGELIC KNOWLEDGE (SEVEN ARTICLES)" data-chapter="OF THE MODE OF ANGELIC KNOWLEDGE (SEVEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After the foregoing we have now to treat of the mode of the angelic knowledge, concerning
@@ -1957,6 +2488,17 @@ which there are seven points of inquiry:
 (5) Whether there can be error in the angel's intellect?
 (6) Whether his knowledge can be styled as morning and evening?
 (7) Whether the morning and evening knowledge are the same, or do they differ?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo quanto preceduto, dobbiamo ora trattare del modo di conoscenza angelica, su cui si possono porre sette domande:  
+(1) Se l’intelligenza angelica sia a volte in [potenzialità](/concepts/act_potency) e a volte in atto;  
+(2) Se l’angelo possa comprendere molte cose contemporaneamente;  
+(3) Se la conoscenza angelica sia di natura discorsiva;  
+(4) Se l’angelo compia operazioni di composizione e divisione per comprendere le cose;  
+(5) Se nell’intelligenza angelica possa sorgere errore;  
+(6) Se si possa definire la conoscenza angelica “matutina” o “serale”;  
+(7) Se queste due forme di conoscenza siano identiche o differiscano tra loro.
 
 <span class="atom-split" data-atom="040" data-title="Whether the angel's intellect is sometimes in potentiality, sometimes in act?" data-chapter="Whether the angel's intellect is sometimes in potentiality, sometimes in act?" data-kind="atom" data-srclang="en"></span>
 
@@ -2105,6 +2647,24 @@ in this way, by syllogizing from causes to effect, or from effect to cause.
 Reply to Objection 3: Experience is affirmed of angels and demons simply by way of similitude,
 forasmuch as they know sensible things which are present, yet without any discursion withal.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la conoscenza degli angeli sia di tipo discorsivo. Infatti, il movimento discorsivo dell’intelletto deriva dal fatto che una cosa viene conosciuta attraverso un’altra. Ma gli angeli conoscono le cose attraverso il Verbo; pertanto, l’intelligenza di un angelo opera secondo un metodo discorsivo.
+
+Obiezione 2: Inoltre, tutto ciò che una potenza inferiore è in grado di fare, anche una potenza superiore può farlo. Ma l’intelletto umano è in grado di formulare sillogismi e di comprendere le cause nei loro effetti; tutte queste capacità rientrano nel metodo discorsivo. Pertanto, l’intelletto dell’angelo, che occupa un posto più elevato nell’ordine naturale, può farlo con ancora maggiore efficacia.
+
+Obiezione 3: Inoltre, Isidoro (De sum. bono i, 10) afferma che “i demoni imparano molte cose attraverso l’esperienza”. Ma la conoscenza empirica è di natura discorsiva: infatti, “una singola esperienza deriva da molteplici ricordi, e una conoscenza universale nasce da molte esperienze”, come osserva [Aristotele](/figures/aristotle) (Posteriora Analitica ii; Metafisica vii). Pertanto, anche la conoscenza di un angelo è di natura discorsiva.
+
+Al contrario, Dionigi afferma (Div. Nom. vii) che “gli angeli non acquisiscono la conoscenza divina attraverso discorsi separati, né vengono guidati verso qualcosa di specifico partendo da qualcosa di generale”.
+
+Rispondo che, come è stato spesso affermato (A[1]; Q[55], A[1]), gli angeli occupano tra le sostanze spirituali lo stesso posto che i corpi celesti occupano tra le sostanze corporee: infatti Dionigi li definisce “menti celesti” (A[1]; Q[55], A[1]). Ora, la differenza tra corpi celesti e terrestri consiste nel fatto che questi ultimi raggiungono la loro perfezione finale grazie alla [casualità](/concepts/fortune) e al movimento, mentre i primi possiedono già in sé stessi la propria perfezione. Allo stesso modo, gli intelletti umani ottengono la loro perfezione nella conoscenza della verità attraverso un processo discorsivo e operazioni intellettuali; in altre parole, progredendo da una conoscenza nota verso un’altra. Tuttavia, se dalla conoscenza di un principio noto si potessero immediatamente percepire tutte le sue conseguenze, non ci sarebbe alcun processo discorsivo. Questa è proprio la condizione degli angeli: nelle verità che conoscono naturalmente, essi comprendono immediatamente tutto ciò che può essere rivelato da esse. Per questo vengono chiamati “esseri intellettuali”: anche noi, infatti, definiamo “intelligibili” quelle cose che vengono immediatamente comprese dalla mente; da qui deriva il significato di “intelletto”, inteso come la capacità di comprendere i principi fondamentali. Le anime umane, invece, che acquisiscono la conoscenza della verità attraverso un metodo discorsivo, vengono chiamate “razionali”; ciò deriva dalla debolezza della loro luce intellettiva. Se possedessero, come gli angeli, la piena capacità di comprendere intuitivamente i principi fondamentali, percepirebbero immediatamente tutta la portata delle verità che da essi derivano.
+
+Risposta all’Obiezione 1: Il discorso esprime un certo tipo di movimento. Ora, ogni movimento avviene da qualcosa che precede verso qualcosa che segue. Pertanto, la conoscenza discorsiva si forma nel momento in cui, partendo da ciò che è già noto, si arriva alla conoscenza di ciò che prima era sconosciuto. Tuttavia, se nella cosa percepita venga contemporaneamente osservato qualcos’altro – come un oggetto e la sua immagine che appaiono insieme in uno specchio – allora non si tratta di conoscenza discorsiva. Ed è proprio in questo modo che gli angeli conoscono le cose attraverso la Parola.
+
+Risposta all’Obiezione 2: Gli angeli sono in grado di formulare sillogismi, nel senso di comprendere il loro significato; inoltre riescono a riconoscere gli effetti nelle cause e le cause negli effetti; tuttavia non acquisiscono conoscenza di verità sconosciute attraverso questo processo, cioè formulando sillogismi che partono dalle cause per arrivare agli effetti, o viceversa.
+
+Risposta all’Obiezione 3: L’esistenza degli angeli e dei demoni viene affermata semplicemente attraverso il concetto di somiglianza, poiché anch’essi conoscono cose sensibili che sono presenti nel loro ambiente, senza però alcun processo di riflessione o ragionamento.
+
 <span class="atom-split" data-atom="043" data-title="Whether the angels understand by composing and dividing?" data-chapter="Whether the angels understand by composing and dividing?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the angels understand by composing and dividing. For, where
@@ -2159,6 +2719,24 @@ Reply to Objection 3: The fact that angels use affirmative and negative forms of
 that they know both composition and division: yet not that they know by composing and dividing,
 but by knowing simply the nature of a thing.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli comprendano le cose attraverso il processo di composizione e divisione. Infatti, laddove esiste una molteplicità di elementi da comprendere, si verifica necessariamente una composizione di tali elementi, come affermato nel De [Anima](/concepts/soul) iii, testo 21. Ma nella mente angelica esiste effettivamente una molteplicità di concetti da comprendere; gli angeli, infatti, percepiscono cose diverse attraverso diversi modi di rappresentazione e non tutte contemporaneamente. Pertanto, anche nella mente angelica si verificano processi di composizione e divisione.
+
+Obiezione 2: Inoltre, la negazione è molto più lontana dall’affermazione di quanto lo siano due nature opposte qualsiasi; infatti, la prima distinzione fondamentale riguarda proprio l’affermazione e la negazione. Ma l’angelo conosce certe nature “lontane” non attraverso una sola categoria, ma attraverso diverse specie, come è evidente da quanto detto in precedenza (A[2]). Pertanto, deve conoscere l’affermazione e la negazione attraverso categorie diverse. E sembra quindi che comprenda tali concetti attraverso operazioni di composizione e divisione.
+
+Obiezione 3: Inoltre, il linguaggio è un segno dell’intelletto. Tuttavia, quando gli angeli parlano agli uomini, utilizzano espressioni affermative e negative, che rappresentano segni di composizione e divisione nell’intelletto; ciò risulta evidente da molte citazioni della Sacra [Scrittura](/concepts/revelation). Pertanto, sembra che gli angeli comprendano le cose attraverso processi di composizione e divisione.
+
+Al contrario, Dionigi afferma (Div. Nom. vii) che “la potenza intellettiva dell’angelo risplende attraverso la chiara semplicità dei concetti divini”. Ma un’intelligenza semplice è priva di composizione e divisione; pertanto, l’angelo comprende senza ricorrere a tali elementi.
+
+Rispondo che, così come nell’intelletto, nel processo di ragionamento la conclusione viene confrontata con il principio, allo stesso modo nell’operazione di composizione e divisione il predicato viene confrontato con il soggetto. Se infatti il nostro intelletto potesse immediatamente riconoscere la verità della conclusione nel principio stesso, non comprenderebbe mai nulla attraverso il ragionamento discorsivo. Allo stesso modo, se nell’afferrare l’essenza di un soggetto potesse immediatamente conoscere tutto ciò che può essere attribuito o rimosso da esso, non comprenderebbe mai nulla attraverso la composizione e la divisione, ma soltanto attraverso la comprensione dell’essenza stessa. È evidente quindi che, per lo stesso motivo, il nostro intelletto comprende attraverso il ragionamento discorsivo e attraverso la composizione e la divisione: nel momento in cui afferra qualcosa di nuovo, non riesce immediatamente a cogliere tutto ciò che esso contiene virtualmente. Ciò deriva dalla debolezza della “luce intellettuale” che possediamo, come già detto (A[3]). Pertanto, poiché la luce intellettuale è perfetta nell’angelo – poiché egli rappresenta uno specchio puro e assolutamente chiaro, come afferma Dionigi di Atene nel “Divine Nomina” iv – ne consegue che, proprio come l’angelo non comprende attraverso il ragionamento, allo stesso modo non comprende nemmeno attraverso la composizione e la divisione. Tuttavia, egli riesce comunque a comprendere la struttura delle enunciazioni, così come afferra il funzionamento dei sillogismi: poiché è in grado di comprendere, in modo semplice e diretto, ciò che è composto, ciò che può essere spostato o mantenuto immobile, e ciò che è materiale o immateriale.
+
+Risposta all’Obiezione 1: Non ogni insieme di cose, quando comprese, comporta necessariamente una composizione; piuttosto, si tratta di un insieme di elementi tra cui uno viene attribuito o negato a un altro. Quando un angelo comprende la natura di qualcosa, egli al contempo percepisce tutto ciò che può essere attribuito o negato a quella natura. Pertanto, attraverso una singola percezione, egli afferra completamente ciò che noi possiamo apprendere attraverso operazioni di composizione e divisione.
+
+Risposta all’Obiezione 2: Le diverse nature delle cose differiscono meno per quanto riguarda il loro modo di esistere rispetto alla differenza tra affermazione e negazione. Tuttavia, per quanto riguarda il modo in cui vengono conosciute, affermazione e negazione hanno qualcosa in comune: poiché la verità di un’affermazione è conosciuta direttamente, anche la falsità della sua contraria negazione diventa immediatamente evidente.
+
+Risposta all’Obiezione 3: Il fatto che gli angeli utilizzino forme di espressione affermative e negative dimostra che conoscono sia la composizione che la divisione; tuttavia, ciò non significa che comprendano tali concetti attraverso l’operazione di composizione e divisione, ma semplicemente grazie alla conoscenza della natura stessa delle cose.
+
 <span class="atom-split" data-atom="044" data-title="Whether there can be falsehood in the intellect of an angel?" data-chapter="Whether there can be falsehood in the intellect of an angel?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there can be falsehood in the angel's intellect. For perversity
@@ -2207,6 +2785,18 @@ perversity of the demons comes of their not being subject to the Divine wisdom; 
 is in the angels as regards things knowable, not naturally but supernaturally. It is, furthermore,
 evident that their understanding of what a thing is, is always true, save accidentally, according as
 it is, in an undue manner, referred to some composition or division.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra possibile che nell’intelletto degli angeli possa esistere la falsità, poiché la perversità è caratteristica della falsità stessa. Tuttavia, come afferma Dionigi (Div. Nom. iv), nei demoni esiste una “fantasia distorta”. Pertanto, sembra che anche nell’intelletto degli angeli possa esserci falsità.
+
+Obiezione 2: Inoltre, l’ignoranza è la causa di valutazioni errate. Tuttavia, come afferma Dionisio (Eccl. Hier. VI), anche gli angeli possono essere ignoranti. Pertanto, sembra che anche loro possano commettere errori.
+
+Obiezione 3: Inoltre, tutto ciò che è lontano dalla verità della saggezza e che possiede un ragionamento corrotto contiene falsità o errore nel proprio intelletto. Ma Dionisio (Div. Nom. vii) afferma lo stesso riguardo ai demoni. Pertanto, sembra possibile che anche negli angeli possano esistere errori di pensiero.
+
+Al contrario, il Filosofo afferma (De [Anima](/concepts/soul) iii, testo 41) che “l’intelligenza è sempre vera”. Anche [Agostino](/figures/augustine) dice (QQ. 83, qu. 32) che “solo ciò che è vero può essere oggetto di intelligenza”. Pertanto, nella conoscenza degli angeli non possono esistere né inganni né falsità.
+
+Rispondo che la verità di questa questione dipende in parte da ciò che è accaduto prima. Infatti, si è detto che un angelo comprende non attraverso processi di composizione e divisione, ma comprendendo direttamente cos’è una cosa. L’intelletto, infatti, è sempre vero riguardo a ciò che è una cosa, proprio come i sensi lo sono riguardo ai loro oggetti specifici, come si afferma nel De Anima III, testo 26. Tuttavia, talvolta possono insinuarsi inganni e falsità quando comprendiamo l’essenza di una cosa attraverso processi di composizione; ciò accade sia quando confondiamo la definizione di un’entità con quella di un’altra, sia quando le parti che compongono tale definizione non sono logicamente collegate tra loro. Ad esempio, considerare “una bestia alata a quattro zampe” come definizione di una creatura reale sarebbe errato, poiché tale animale non esiste. Questo tipo di errore può verificarsi anche nelle cose composite, le cui definizioni sono basate su elementi diversi tra loro. Tuttavia, non vi è alcuna possibilità di errore nella comprensione delle entità semplici, come si afferma nel Metafisica IX, testo 22: o queste entità non vengono affatto comprese, e quindi non ne conosciamo nulla; oppure vengono comprese esattamente così come sono. Pertanto, nell’intelletto di un angelo non può esistere alcuna falsità, errore o inganno in sé; tuttavia, tali errori possono verificarsi occasionalmente, ma in modo molto diverso rispetto a quanto accade per noi umani. Noi, infatti, a volte comprendiamo la natura di una cosa attraverso processi di composizione e divisione, come quando ricorriamo alla dimostrazione logica per scoprire la verità di una definizione. Questo non è il metodo degli angeli: essi conoscono direttamente l’essenza delle cose e, quindi, sanno tutto ciò che si può dire su di esse. È evidente che l’essenza di una cosa può costituire una fonte di conoscenza riguardo a tutto ciò che appartiene o è escluso da essa; tuttavia, non può fornire informazioni su ciò che dipende dall’ordine soprannaturale di Dio. Pertanto, grazie alla loro volontà retta e alla loro comprensione della natura di ogni creatura, gli angeli buoni non formulano giudizi errati riguardo alle qualità delle cose, se non in base all’ordine divino; quindi, in loro non può esistere alcun errore o falsità. Al contrario, poiché la mente dei demoni è completamente deviata dalla saggezza divina, essi a volte formano le proprie opinioni basandosi soltanto sulle condizioni naturali delle cose; non vengono mai ingannati riguardo alle proprietà naturali di qualcosa, ma possono essere traviati in merito a questioni soprannaturali. Ad esempio, vedendo un morto, potrebbero pensare che non risorgerà più; oppure, osservando Cristo, potrebbero ritenere che non sia Dio. Da tutto ciò derivano le risposte alle obiezioni di entrambe le parti in questa discussione: la perversità dei demoni deriva dal fatto che non sono soggetti alla saggezza divina; mentre gli angeli, riguardo a ciò che è conoscibile, ignorano talvolta la verità in modo naturale, ma solo per motivi soprannaturali. È inoltre evidente che la loro comprensione di ciò che è una cosa è sempre vera, tranne quando avviene accidentalmente, a causa di un uso improprio dei processi logici di composizione e divisione.
 
 <span class="atom-split" data-atom="045" data-title="Whether there is a \&quot;morning\&quot; and an \&quot;evening\&quot; knowledge in the angels?" data-chapter="Whether there is a \&quot;morning\&quot; and an \&quot;evening\&quot; knowledge in the angels?" data-kind="atom" data-srclang="en"></span>
 
@@ -2266,6 +2856,26 @@ Who has neither beginning nor end.
 Reply to Objection 3: The angels themselves are also creatures. Accordingly the existence of
 things in the angelic knowledge is comprised under evening knowledge, as also the existence of
 things in their own nature.
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Esistono conoscenze “matutine” e “serali” negli angeli?
+
+Obiezione 1: Sembra che negli angeli non esistano né conoscenze “serali” né “matutine”, poiché queste terminazioni implicano la presenza dell’oscurità; ma nella conoscenza di un angelo non c’è oscurità, poiché non vi è errore né falsità. Pertanto, la conoscenza angelica non dovrebbe essere definita “conoscenza serale” o “conoscenza matutina”.
+
+Obiezione 2: Inoltre, tra sera e mattina interviene la notte; mentre il mezzogiorno cade tra mattina e sera. Pertanto, se negli angeli esistono forme di conoscenza legate alla mattina e alla sera, per lo stesso motivo sembrerebbe che dovessero esistere anche forme di conoscenza legate al mezzogiorno e alla notte.
+
+Obiezione 3: Inoltre, la conoscenza è diversificata in base alla differenza degli oggetti conosciuti; per questo il Filosofo afferma (De [Anima](/concepts/soul) iii, testo 38): “Le scienze sono divise esattamente come lo sono le cose stesse”. Tuttavia, le cose esistono in tre modi: nella Parola di Dio, nella loro natura propria e nella conoscenza angelica, come osserva [Agostino](/figures/augustine) (Genesi ad litteram ii, 8). Pertanto, se si ammette l’esistenza di una conoscenza “matutina” e di una conoscenza “serale” negli angeli, a causa dell’esistenza delle cose nella Parola e nella loro natura propria, allora dovrebbe esserci anche una terza categoria di conoscenza, legata all’esistenza delle cose nella mente angelica.
+
+Al contrario, Agostino (Genesi ad litteram IV, 22,31; De Civitate Dei XII, 7,20) divide la conoscenza degli angeli in “conoscenza mattutina” e “conoscenza serale”.
+
+Rispondo che l’espressione “conoscenza mattutina” e “conoscenza serale” fu coniata da Agostino, il quale interpreta i sei giorni in cui Dio creò tutte le cose non come giorni ordinari misurati dal ciclo solare – poiché il sole fu creato solo al quarto giorno – ma come un unico giorno, ovvero il giorno della conoscenza angelica, rivolta a sei categorie di esseri. Così come nella giornata ordinaria la mattina rappresenta l’inizio e la sera la fine del giorno, allo stesso modo la loro conoscenza dell’essere primordiale delle cose viene chiamata “conoscenza mattutina”; questa conoscenza si basa sul modo in cui le cose esistono nella Parola di Dio. Tuttavia, la loro conoscenza dell’essere stesso delle cose create, così come esse si manifestano nella loro natura propria, viene definita “conoscenza serale”; poiché l’essere delle cose deriva dalla Parola, come da una sorta di principio primordiale, e questa derivazione culmina nell’essere che le stesse cose possiedono in sé.
+
+Risposta all’Obiezione 1: La conoscenza notturna e quella mattutina, nel contesto della conoscenza angelica, non vanno intese come un insieme di elementi oscuri, ma piuttosto come momenti distintivi di un processo continuo. O, per usare le parole di Agostino (Genesi ad litteram IV, 23), nulla ci impedisce di definire qualcosa “luce” rispetto a qualcos’altro e “oscurità” in relazione a qualcos’altro ancora. Allo stesso modo, la vita dei fedeli e dei giusti viene definita “luce” rispetto ai malvagi, secondo Efesini 5:8: “Voi eravate prima oscurità; ora siete luce nel Signore”; tuttavia, questa stessa vita dei fedeli, se messa a confronto con la vita di gloria, viene definita “oscurità”, secondo 2 Pietro 1:19: “Avete la parola profetica, ferma e affidabile; fate attenzione ad essa, come a una luce che splende nelle tenebre”. Quindi, la conoscenza angelica, con cui gli angeli comprendono le cose nella loro vera natura, è paragonabile al “giorno” rispetto all’ignoranza o all’errore; tuttavia, rispetto alla visione diretta della Parola stessa, essa rappresenta comunque l’“oscurità”.
+
+Risposta all’Obiezione 2: La conoscenza del mattino e della sera appartiene al giorno, cioè agli angeli illuminati, che sono completamente separati dall’oscurità, ovvero dagli spiriti malvagi. Gli angeli buoni, pur conoscendo la creazione, non vi si attaccano, poiché ciò significherebbe rivolgersi verso l’oscurità e la notte; piuttosto, riferiscono questa conoscenza alla lode di Dio, in Lui, come nel loro principio, conoscono tutte le cose. Pertanto, dopo “la sera” non vi è notte, ma “mattino”; quindi il mattino rappresenta la fine del giorno precedente e l’inizio di quello successivo, nella misura in cui gli angeli riferiscono la loro conoscenza delle opere divine alla lode di Dio. Mezzogiorno è incluso nel concetto di “giorno”, poiché costituisce il punto centrale tra i due estremi; oppure può essere considerato come la conoscenza stessa di Dio, che non ha né inizio né fine.
+
+Risposta all’Obiezione 3: Anche gli angeli sono esseri creati. Pertanto, l’esistenza delle cose nella conoscenza degli angeli rientra nell’ambito della conoscenza umana, così come l’esistenza delle cose nella loro stessa natura.
 
 <span class="atom-split" data-atom="046" data-title="Whether the morning and evening knowledge are one?" data-chapter="Whether the morning and evening knowledge are one?" data-kind="atom" data-srclang="en"></span>
 
@@ -2335,6 +2945,14 @@ are four points of inquiry:
 (2) Whether the will of the angel is his nature, or his intellect?
 (3) Is there free-will in the angels?
 (4) Is there an irascible and a concupiscible appetite in them?
+
+<span class="qlang-split" data-lang="it"></span>
+
+In seguito dobbiamo trattare di argomenti relativi alla volontà degli angeli. Prima di tutto parleremo della volontà stessa; in secondo luogo, del suo movimento, che è l’amore. All’interno della prima categoria di indagini vi sono quattro punti da esaminare:  
+(1) Esiste davvero volontà negli angeli?  
+(2) La volontà dell’angelo è la sua natura o il suo intelletto?  
+(3) Gli angeli possiedono una libera volontà?  
+(4) Hanno in loro desideri irascibili e concupiscibili?
 
 <span class="atom-split" data-atom="048" data-title="Whether there is will in the angels?" data-chapter="Whether there is will in the angels?" data-kind="atom" data-srclang="en"></span>
 
@@ -2456,6 +3074,24 @@ good is apprehended by the intellect as something true; while the true is desire
 something good. Nevertheless, the diversity of their aspects is sufficient for diversifying the faculties,
 as was said above (ad 2).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che, nell’angelo, la volontà non differisca dall’intelletto e dalla sua stessa natura. Infatti, un angelo è più semplice di un corpo naturale; e un corpo naturale, per via della propria struttura, tende verso il proprio fine, che è il bene. Quindi, tanto più ciò vale per l’angelo. Ora, la forma dell’angelo è o la sua stessa natura, oppure qualche specie contenuta nel suo intelletto. Pertanto, l’angelo tende verso il bene attraverso la propria natura o attraverso una specie intelligibile; ma tale tendenza verso il bene appartiene alla volontà. Quindi, la volontà dell’angelo non differisce dalla sua natura né dal suo intelletto.
+
+Obiezione 2: Inoltre, l’oggetto dell’intelletto è la verità, mentre l’oggetto della volontà è il bene. Ora, il bene e la verità differiscono non in modo reale, ma soltanto logicamente [*Cfr. Q[16], A[4. Pertanto, volontà e intelletto non sono realmente diversi.
+
+Obiezione 3: Inoltre, la distinzione tra termini comuni e specifici non permette di distinguere le facoltà umane; infatti, lo stesso potere visivo percepisce sia il colore che la bianchezza. Tuttavia, il bene e la verità sembrano essere strettamente collegati, poiché la verità rappresenta un caso particolare di bene, nello specifico del dominio dell’intelletto. Pertanto, la volontà, la cui finalità è il bene, non differisce dall’intelletto, la cui finalità è la verità.
+
+Al contrario, la volontà degli angeli riguarda soltanto le cose buone, mentre il loro intelletto considera sia le cose buone che quelle cattive, poiché conosce entrambe. Pertanto, la volontà degli angeli è distinta dal loro intelletto.
+
+Rispondo che, negli angeli, la volontà è una facoltà o un potere speciale, che non costituisce né la loro natura né il loro intelletto. Il fatto che essa non sia parte della loro natura risulta evidente dal principio secondo cui l’essenza stessa di una cosa è completamente contenuta al suo interno; pertanto, tutto ciò che va oltre tale essenza non ne fa parte integrante. Nei corpi naturali, dunque, la tendenza ad esistere deriva non da elementi aggiuntivi all’essenza stessa, ma dalla materia che desidera esistere prima ancora di ottenerla, e dalla forma che le permette di rimanere in tale stato una volta esistita. Al contrario, la tendenza verso qualcosa di esterno all’essenza deriva da elementi aggiuntivi; ad esempio, la tendenza verso un luogo è dovuta alla gravità o alla leggerezza, mentre la tendenza a creare qualcosa di simile a sé stessa proviene dalle qualità attive della materia. Ora, la volontà ha una naturale inclinazione verso il bene. Pertanto, solo in Dio l’essenza e la volontà sono identiche, poiché tutto il bene è contenuto nell’essenza di Colui che vuole; cioè, in Dio, il quale non desidera nulla al di fuori di Sé stesso se non per via del Suo bene. Ciò non si può dire di alcuna creatura, poiché la bontà infinita è completamente estranea alla natura di qualsiasi essere creato. Di conseguenza, né la volontà dell’angelo né quella di alcuna creatura possono essere considerate la stessa cosa della loro essenza. Allo stesso modo, la volontà non può essere identica all’intelletto, né degli angeli né degli uomini. Poiché la conoscenza si verifica quando l’oggetto conosciuto è contenuto nell’intelligente; pertanto, l’intelletto si estende verso ciò che è al di fuori di esso, poiché ciò che, nella sua essenza, è al di fuori di esso tende in qualche modo ad essere al suo interno. D’altra parte, la volontà si dirige verso ciò che è al di fuori di essa, poiché possiede una sorta di inclinazione verso tale cosa. Ora, appartiene a una facoltà avere al proprio interno qualcosa che è al di fuori di sé, mentre appartiene a un’altra facoltà tendere verso ciò che è al di fuori di sé. Pertanto, intelletto e volontà devono necessariamente essere poteri diversi in ogni creatura. Non è così per Dio, poiché Egli possiede in Sé stesso l’esistenza universale e il bene universale; pertanto, sia l’intelletto che la volontà fanno parte della Sua natura.
+
+Risposta all’Obiezione 1: Un corpo naturale viene mosso verso la sua stessa essenza dalla sua [forma sostanziale](/concepts/forma_substantialis); mentre tende verso qualcosa di esterno grazie a elementi aggiuntivi, come è stato detto in precedenza.
+
+Risposta all’Obiezione 2: Le facoltà non si differenziano per alcuna differenza materiale dei loro oggetti, ma in base alla loro distinzione formale, che deriva dalla natura dell’oggetto stesso. Pertanto, la diversità derivante dai concetti di bene e vero è sufficiente a spiegare la differenza tra intelletto e volontà.
+
+Risposta all’Obiezione 3: Poiché il bene e la verità sono effettivamente interconvertibili, ne consegue che il bene viene percepito dall’intelletto come qualcosa di vero; mentre la verità è desiderata dalla volontà come qualcosa di buono. Tuttavia, la diversità dei loro aspetti è sufficiente a diversificare le facoltà umane, come già detto in precedenza (ad 2).
+
 <span class="atom-split" data-atom="050" data-title="Whether there is free-will in the angels?" data-chapter="Whether there is free-will in the angels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is no free-will in the angels. For the act of free-will is to
@@ -2506,6 +3142,24 @@ the lower, as also does the judgment of the intellect. Yet it is true that liber
 of compulsion is considered, is not susceptible of greater and less degree; because privations and
 negations are not lessened nor increased directly of themselves; but only by their cause, or through
 the addition of some qualification.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che negli angeli non esista libero arbitrio. Infatti, l’atto del libero arbitrio consiste nel scegliere. Ma negli angeli non può esserci scelta, poiché la scelta è “il desiderio di qualcosa dopo aver riflettuto”, mentre la riflessione è “un tipo di indagine”, come affermato nell’Etica, III, 3. Tuttavia, la conoscenza degli angeli non deriva da alcuna indagine, poiché ciò appartiene alla capacità discorsiva della ragione. Pertanto, sembra che negli angeli non esista libero arbitrio.
+
+Obiezione 2: Inoltre, la libertà di volontà implica indifferenza verso le alternative. Ma negli angeli, per quanto riguarda il loro intelletto, non esiste tale indifferenza; poiché, come già osservato (Q[58], A[5]), il loro intelletto non viene ingannato riguardo a ciò che è naturalmente comprensibile per loro. Pertanto, nemmeno nel loro appetito può esserci libertà di volontà.
+
+Obiezione 3: Inoltre, i doni naturali degli angeli sono loro attribuiti secondo gradi di maggiore o minore perfezione; poiché negli angeli più elevati la natura intellettuale è più perfetta rispetto a quella degli angeli inferiori. Tuttavia, la libertà di volontà non ammette gradazioni; pertanto, negli angeli non esiste libertà di volontà.
+
+Al contrario, la libertà di volontà fa parte della dignità umana. Tuttavia, la dignità degli angeli supera quella degli uomini. Pertanto, poiché la libertà di volontà esiste negli uomini, con ancora maggiore ragione deve esistere anche negli angeli.
+
+Rispondo che ci sono alcune cose che agiscono non sulla base di alcuna valutazione precedente, ma, per così dire, vengono spinte e indotte ad agire da altri; proprio come la freccia viene diretta verso il bersaglio dall’arciere. Altre cose, invece, agiscono sulla base di una qualche forma di valutazione; ma non attraverso la libera volontà, come nel caso degli animali irrazionali: ad esempio, la pecora fugge dal lupo grazie a una sorta di valutazione che le fa comprendere che tale comportamento possa nuocerle; una simile valutazione non è frutto della libera volontà, ma è insita nella natura stessa dell’animale. Solo un essere dotato di intelletto può agire sulla base di una valutazione libera, poiché è in grado di comprendere il concetto universale del bene e di giudicare che questo o quell’altro comportamento sia positivo. Pertanto, dove c’è intelletto, c’è anche libera volontà. È evidente, quindi, che proprio come esiste l’intelletto, esiste anche la libera volontà negli angeli – e in un grado di perfezione ancora più elevato rispetto all’uomo.
+
+Risposta all’Obiezione 1: Il filosofo parla della scelta così come essa esiste nell’uomo. La valutazione di un uomo in questioni speculative differisce da quella di un angelo nel senso che l’uno non ha bisogno di indagare, mentre l’altro ne ha necessità; lo stesso vale per le questioni pratiche. Pertanto anche gli angeli compiono scelte, ma non attraverso una deliberazione attenta e ponderata, bensì accettando improvvisamente la verità.
+
+Risposta all’Obiezione 2: Come già osservato (A[2]), la conoscenza si realizza grazie alla presenza di ciò che è conosciuto all’interno del conoscitore. Ora, un segno di imperfezione in qualsiasi cosa consiste nel non possedere al proprio interno ciò che naturalmente dovrebbe avere. Pertanto, un angelo non sarebbe perfetto nella sua natura se la sua intelligenza non fosse orientata verso ogni verità che può conoscere in modo naturale. Tuttavia, l’atto della facoltà appetitiva deriva dal fatto che tale affezione è diretta verso qualcosa di esterno al soggetto stesso. La perfezione di una cosa, quindi, non deriva da tutto ciò verso cui essa è incline, ma soltanto da qualcosa che sia superiore a essa. Pertanto, non si può considerare un angelo imperfetto se la sua volontà non è orientata verso le cose inferiori a lui; al contrario, sarebbe un segno di imperfezione se fosse indeterminato riguardo a ciò che è superiore a lui.
+
+Risposta all’Obiezione 3: La libertà volontaria esiste in modo più nobile negli angeli superiori rispetto a quelli inferiori, così come il giudizio dell’intelletto. Tuttavia è vero che, per quanto riguarda la rimozione della costrizione, la libertà non può essere considerata di gradi diversi; poiché le privazioni e le negazioni non diminuiscono né aumentano in sé stesse, ma soltanto a causa della loro origine o attraverso l’aggiunta di alcune condizioni particolari.
 
 <span class="atom-split" data-atom="051" data-title="Whether there is an irascible and a concupiscible appetite in the angels?" data-chapter="Whether there is an irascible and a concupiscible appetite in the angels?" data-kind="atom" data-srclang="en"></span>
 
@@ -2579,6 +3233,15 @@ Under this heading there are five points of inquiry:
 (3) Whether the angel loves himself with natural love or with love of choice?
 (4) Whether one angel loves another with natural love as he loves himself?
 (5) Whether the angel loves God more than self with natural love?
+
+<span class="qlang-split" data-lang="it"></span>
+
+L’argomento successivo da esaminare è quell’atto della volontà che è l’amore o la dilezione; poiché ogni atto della facoltà appetitiva deriva dall’amore. Sotto questo titolo vi sono cinque punti di indagine:  
+(1) Esiste un amore naturale negli angeli?  
+(2) Esiste in loro un amore volontario?  
+(3) Gli angeli amano se stessi con un amore naturale o con un amore volontario?  
+(4) Un angelo ama un altro con un amore naturale, proprio come ama se stesso?  
+(5) Gli angeli amano Dio più di sé stessi con un amore naturale?
 
 <span class="atom-split" data-atom="053" data-title="Whether there is natural love or dilection in an angel?" data-chapter="Whether there is natural love or dilection in an angel?" data-kind="atom" data-srclang="en"></span>
 
@@ -2680,6 +3343,22 @@ does not follow a discursive act of the reason; but only human choice. Consequen
 does not follow.
 The reply to the second objection follows from what has been said.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che negli angeli non esista amore basato sulla scelta volontaria. Infatti, l’amore basato sulla scelta volontaria appare essere un amore razionale; poiché la scelta segue il consiglio, e il consiglio si fonda sull’indagine, come affermato nell’Etica, III, 3. Ora, l’amore razionale è contrapposto all’amore intellettuale, che è proprio degli angeli, come detto nel De Divinitate, IV. Pertanto, negli angeli non esiste amore basato sulla scelta volontaria.
+
+Obiezione 2: Inoltre, gli angeli possiedono soltanto conoscenza naturale, oltre a quella che viene loro infusa; poiché non procedono dai principi per acquisire la conoscenza delle conclusioni, sono predisposti a tutto ciò che possono conoscere, proprio come il nostro intelletto è predisposto ai principi primi che può comprendere naturalmente. Ora, l’amore segue la conoscenza, come già detto (A[1]; Q[16], A[1]). Pertanto, oltre all’amore che viene loro infuso, negli angeli esiste soltanto amore naturale; di conseguenza, in loro non esiste alcun amore volontario.
+
+Al contrario, con i nostri atti naturali né meritiamo né demeritiamo nulla; sono gli angeli, invece, che, attraverso il loro amore, meritano o demeritano qualcosa. Pertanto, in loro esiste un amore che è frutto di una scelta deliberata.
+
+Rispondo che negli angeli esiste un amore naturale e un amore scelto. Il loro amore naturale costituisce il principio del loro amore scelto; infatti, ciò che appartiene a ciò che precede ha sempre la natura di un principio. Poiché la natura è primaria in tutto, ciò che appartiene alla natura deve necessariamente essere considerato un principio in ogni cosa.  
+Questo è chiaramente evidente nell’uomo, sia riguardo all’intelletto che alla volontà. L’intelletto conosce naturalmente i principi; da tale conoscenza deriva la capacità di giungere a conclusioni, le quali non sono conosciute in modo naturale, ma attraverso scoperta o insegnamento. Allo stesso modo, il fine agisce sulla volontà nello stesso modo in cui il principio agisce sull’intelletto, come stabilito nella “Fisica” II, testo 89. Pertanto, la volontà tende naturalmente verso il proprio fine ultimo; poiché ogni uomo desidera naturalmente la felicità, e tutti gli altri desideri derivano da questo desiderio naturale – poiché ciò che un uomo desidera lo fa sempre in vista di un fine. Quindi, l’amore per quel bene che l’uomo desidera naturalmente come fine è il suo amore naturale; mentre l’amore che deriva da questo, cioè quello che nasce dal desiderare qualcosa in vista di un altro fine, è l’amore scelto.  
+Tuttavia, esiste una differenza tra l’intelletto e la volontà. Poiché, come già detto (Q[59], A[2]), la conoscenza umana deriva dalla presenza interna della realtà conosciuta all’interno del conoscitore; dall’imperfezione della natura intellettiva umana deriva il fatto che la mente non possiede contemporaneamente tutte le cose comprensibili, ma solo alcune di esse, grazie alle quali può comprendere altre. Al contrario, l’azione della facoltà appetitiva segue direttamente l’inclinazione dell’uomo verso le cose: alcune di queste sono buone in sé stesse e quindi desiderabili per loro stesse; altre sono buone solo in relazione a qualcos’altro e quindi desiderabili in virtù di quel legame. Pertanto, non si può considerare un segno di imperfezione nel desiderante il fatto che cerchi naturalmente una cosa come fine e un’altra come mezzo per raggiungere tale fine. Poiché la natura intellettiva degli angeli è perfetta, in loro esiste soltanto conoscenza naturale, non deduttiva; ma sia l’amore naturale che quello scelto sono presenti in loro.  
+Dicendo tutto ciò, tralasciamo tutto ciò che riguarda le realtà al di là della natura, poiché la natura non ne è il principio sufficiente; parleremo di esse più avanti (Q[62]).
+
+Risposta all’Obiezione 1: Non tutto l’amore che deriva da una scelta volontaria è amore razionale, poiché il concetto di amore razionale si distingue da quello di amore intellettuale. L’amore razionale, infatti, è quello che segue una conoscenza deduttiva; tuttavia, come già detto in precedenza (Q[59], A[3], ad 1) riguardo alla libertà volontaria, non ogni scelta umana deriva da un atto discorsivo della ragione. Pertanto, la conclusione proposta non è valida.  
+La risposta alla seconda obiezione deriva direttamente da quanto detto finora.
+
 <span class="atom-split" data-atom="055" data-title="Whether the angel loves himself with both natural love, and love of choice?" data-chapter="Whether the angel loves himself with both natural love, and love of choice?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the angel does not love himself both with natural love and a
@@ -2722,6 +3401,25 @@ Reply to Objection 3: As love is an action which remains within the agent, so al
 movement which abides within the lover, but does not of necessity tend towards something else;
 yet it can be reflected back upon the lover so that he loves himself; just as knowledge is reflected
 back upon the knower, in such a way that he knows himself.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’angelo non ami se stesso sia con un amore naturale che con un amore volontario. Infatti, come è stato detto (A[2]), l’amore naturale riguarda lo scopo stesso; mentre l’amore volontario riguarda i mezzi per raggiungere tale scopo. Ma la stessa cosa, in relazione allo stesso oggetto, non può essere contemporaneamente sia lo scopo che il mezzo per raggiungerlo. Pertanto, l’amore naturale e l’amore volontario non possono avere lo stesso oggetto.
+
+Obiezione 2: Inoltre, come osserva Dionisio nel “Divinum Nomina” IV: “L’amore è una forza che unisce e lega”. Ma unire e legare implica la fusione di diverse cose tra loro. Pertanto, l’angelo non può amarsi stesso.
+
+Obiezione 3: Inoltre, l’amore è un tipo di movimento. Ma ogni movimento tende verso qualcos’altro. Pertanto, sembra che un angelo non possa amare se stesso né con amore naturale né con amore volontario.
+
+Al contrario, il Filosofo afferma (Etica, IX, 8): “L’amore per gli altri deriva dall’amore per se stessi”.
+
+Rispondo che, poiché l’oggetto dell’amore è il bene, e il bene si trova sia nella sostanza che negli accidenti, come risulta chiaramente dall’Etica I, 6, una cosa può essere amata in due modi: innanzitutto come bene esistente in sé; in secondo luogo come bene accidentale o intrinseco. Si ama qualcosa come bene esistente in sé quando si desidera sinceramente il suo bene. Ma ciò che desideriamo per un altro essere umano viene amato come bene accidentale o intrinseco: è così che si ama la conoscenza, non perché da essa possa derivare qualche vantaggio concreto, ma perché permette di possederla. Questo tipo di amore è stato chiamato “concupiscenza”, mentre il primo tipo viene definito “[amicizia](/concepts/friendship)”.  
+È evidente che nelle cose prive di conoscenza, tutto naturalmente tende a cercare ciò che è vantaggioso per sé; così come il fuoco tende ad ascendere verso l’alto. Pertanto, sia gli angeli che gli esseri umani cercano naturalmente il proprio bene e la propria perfezione. Questo costituisce un atto di amore verso se stessi. Di conseguenza, angeli ed esseri umani amano naturalmente se stessi, nella misura in cui ogni essere desidera spontaneamente ciò che è vantaggioso per sé. D’altra parte, si ama se stessi anche con un amore deliberato, quando si desidera consapevolmente qualcosa che possa portare beneficio.
+
+Risposta all’Obiezione 1: Non è sotto gli stessi, ma sotto aspetti del tutto diversi, che un angelo o un uomo amano se stessi con amore naturale o con amore volontario, come è stato osservato in precedenza.
+
+Risposta all’Obiezione 2: Poiché essere “uno” è meglio che essere “uniti”, esiste una maggiore unità nell’amore che si rivolge verso se stessi rispetto all’amore che unisce le persone tra loro. Dionigius utilizzò i termini “unire” e “legare” per mostrare come l’amore derivi dal sé verso le cose esterne al sé; infatti, il concetto di “unione” deriva dalla stessa nozione di unità.
+
+Risposta all’Obiezione 3: Poiché l’amore è un’azione che rimane nell’interno dell’agente, esso è anche un movimento che permane nell’animo di colui che ama, ma non necessariamente tende verso qualcos’altro; tuttavia, tale movimento può riflettersi su colui che ama, facendolo amare se stesso; proprio come la conoscenza si riflette sull’intelletto di chi conosce, permettendogli di conoscere se stesso.
 
 <span class="atom-split" data-atom="056" data-title="Whether an angel loves another with natural love as he loves himself?" data-chapter="Whether an angel loves another with natural love as he loves himself?" data-kind="atom" data-srclang="en"></span>
 
@@ -2779,6 +3477,26 @@ united to oneself. Nor can such natural love be stripped from the wicked angels,
 retaining a natural affection towards the good angels, in so far as they share the same nature with
 them. But they hate them, in so far as they are unlike them according to righteousness and
 unrighteousness.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un angelo non ami un altro con amore naturale, così come ama se stesso. Infatti l’amore segue la conoscenza. Ma un angelo non conosce un altro nel modo in cui conosce se stesso: poiché conosce se stesso attraverso la sua essenza, mentre conosce un altro attraverso la sua somiglianza a sé stesso, come è stato detto sopra (Q[56], AA[1],2). Pertanto, sembra che un angelo non ami un altro con amore naturale, così come ama se stesso.
+
+Obiezione 2: Inoltre, la causa è più potente dell’effetto; e il principio è più importante di ciò che ne deriva. Ma l’amore per un altro nasce dall’amore per se stessi, come afferma il Filosofo (Etica, IX, 8). Pertanto, un angelo non ama un altro come se fosse sé stesso, ma ama se stesso di più.
+
+Obiezione 3: Inoltre, l’amore naturale è orientato verso qualcosa come fine e non può essere separato da ciò che ne costituisce l’oggetto. Tuttavia, nessun angelo rappresenta il fine di un altro; in più, tale amore può essere interrotto, come avviene nei demoni, i quali non provano alcun affetto per gli angeli buoni. Pertanto, un angelo non ama un altro con un amore naturale, proprio come non ama se stesso allo stesso modo.
+
+Al contrario, sembra trattarsi di una proprietà naturale che si riscontra in tutti, anche in coloro che sono privi di ragione. Ma, come si dice nell’Ecclesiaste 13:19, “ogni animale ama ciò che è simile a sé”. Pertanto, un angelo ama naturalmente un altro angelo nello stesso modo in cui ama se stesso.
+
+Rispondo che, come è stato osservato (A[3]), sia l’angelo che l’uomo amano naturalmente se stessi. Ora, ciò che è “uno” con qualcosa altro è proprio quella cosa stessa; pertanto, ogni essere ama ciò che è “uno” con sé stesso. Quindi, se tale relazione di unità deriva da un legame naturale, l’amore che ne scaturisce è anch’esso naturale; al contrario, se tale unità deriva da un legame non naturale, l’amore sarà di natura diversa. Così, un uomo ama il proprio concittadino con un amore sociale, mentre ama i propri parenti per affetto naturale, nella misura in cui è “uno” con loro secondo il principio della generazione naturale.  
+È evidente che ciò che è “uno” con un altro, in senso genetico o specifico, lo è secondo la natura stessa. Pertanto, ogni essere ama ciò che è “uno” con sé stesso per specie, con affetto naturale, nella misura in cui ama la propria specie. Questo è vero anche nelle cose prive di intelletto: il fuoco, ad esempio, ha una tendenza naturale a trasmettere la propria forma ad un altro essere, e questo costituisce il bene di quell’altro essere; allo stesso modo, il fuoco cerca naturalmente il proprio bene, ovvero di ascendere verso l’alto.  
+Si può quindi affermare che un angelo ama un altro con affetto naturale, nella misura in cui è “uno” con lui secondo la natura stessa. Tuttavia, se due angeli hanno qualcosa in comune o si differenziano in altri aspetti, non si amano con amore naturale.
+
+Risposta all’Obiezione 1: L’espressione “come se stesso” può, in un certo senso, qualificare la conoscenza e l’amore da parte di colui che conosce e ama l’altro: in questo modo, un angelo conosce un altro come se fosse sé stesso, perché sa che l’altro è esattamente ciò che lui stesso è. In un altro senso, questa espressione può invece qualificare la conoscenza e l’amore da parte di colui che conosce e ama. E in questo caso, un angelo non conosce un altro come se fosse sé stesso, perché conosce se stesso attraverso la propria essenza, mentre l’altro non viene conosciuto attraverso la sua essenza. Allo stesso modo, non ama un altro come ama se stesso: ama se stesso attraverso la propria volontà, ma non ama l’altro attraverso la volontà dell’altro.
+
+Risposta all’Obiezione 2: L’espressione “come” non indica uguaglianza, ma somiglianza. Poiché l’affetto naturale si basa sull’unione naturale, l’angelo ama naturalmente di meno ciò che è meno unito a lui. Pertanto, ama di più ciò che è numericamente uno con lui, rispetto a ciò che è soltanto unito a lui in modo generico o specifico. È naturale per lui provare un amore simile per un altro come per sé stesso: poiché ama se stesso desiderando il suo bene, allo stesso modo ama anche l’altro desiderando il suo bene.
+
+Risposta all’Obiezione 3: Si dice che l’amore naturale sia orientato verso un fine specifico, non però verso quel fine al quale viene desiderata la bontà in sé, ma piuttosto verso quella bontà che si desidera per se stessi e, di conseguenza, anche per gli altri, nella misura in cui essa è considerata parte della propria natura. Inoltre, un tale amore naturale non può essere completamente strappato agli angeli malvagi; questi continueranno comunque a provare un affetto naturale verso gli angeli buoni, poiché condividono con loro la stessa natura. Tuttavia, li odiano, in quanto essi sono diversi da loro per quanto riguarda la rettitudine e l’ingiustizia.
 
 <span class="atom-split" data-atom="057" data-title="Whether an angel by natural love loves God more than he loves himself?" data-chapter="Whether an angel by natural love loves God more than he loves himself?" data-kind="atom" data-srclang="en"></span>
 
@@ -2880,6 +3598,38 @@ Under the first heading there are four points of inquiry:
 (3) Whether he was created before corporeal creatures?
 (4) Whether the angels were created in the empyrean heaven?
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’angelo non ami Dio con un amore naturale maggiore di quanto ami se stesso. Infatti, come è stato detto (A[4]), l’amore naturale si basa sull’unione naturale tra le parti coinvolte. Ora, la natura divina è di gran lunga superiore alla natura angelica. Pertanto, secondo i principi dell’amore naturale, l’angelo ama Dio meno di se stesso, o addirittura di un altro angelo.
+
+Obiezione 2: Inoltre, “ciò per cui una cosa è tale lo rende ancora di più tale”. Ma ognuno ama l’altro con un amore naturale, a vantaggio proprio; poiché una cosa ama un’altra perché questa le è utile. Pertanto, l’angelo non ama Dio più di se stesso con un amore naturale.
+
+Obiezione 3: Inoltre, la natura è incentrata su se stessa nel suo operare; infatti osserviamo che ogni ente agisce in modo naturale al fine di preservarsi. Tuttavia, l’operato della natura non sarebbe incentrato su se stessa se tendesse verso qualcos’altro oltre alla natura stessa. Pertanto, l’angelo non ama Dio più di se stesso per amore naturale.
+
+Obiezione 4: Inoltre, è proprio della carità amare Dio più di se stessi. Ma amare per amore di carità non è naturale agli angeli; poiché “questo sentimento viene versato nei loro cuori dallo Spirito Santo che è loro concesso”, come afferma [Agostino](/figures/augustine) (De Civ. Dei xii, 9). Pertanto, gli angeli non amano Dio più di se stessi per amore naturale.
+
+Obiezione 5: Inoltre, l’amore naturale dura finché la natura esiste. Ma l’amore di Dio, più dell’amore per se stessi, non permane nell’angelo o nell’uomo che pecca; infatti Agostino afferma (De Civ. Dei xiv): “Due amori hanno formato due città: cioè l’amore per sé stesso, che conduce al disprezzo di Dio, ha creato la città terrena; mentre l’amore di Dio, che conduce al disprezzo di sé stesso, ha creato la città celeste.” Pertanto, non è naturale amare Dio più di se stessi.
+
+Al contrario, tutti i precetti morali della legge derivano dalla legge di natura. Tuttavia il precetto di amare Dio più di se stessi è un precetto morale che appartiene alla legge. Pertanto, anch’esso deriva dalla legge di natura. Di conseguenza, per amore naturale, l’angelo ama Dio più di sé stesso.
+
+Rispondo che ci sono stati coloro che sostenevano che un angelo ami Dio più di se stesso con un amore naturale: sia per quanto riguarda l’amore derivante dalla concupiscenza, poiché cerca il bene divino per sé piuttosto che il proprio bene; sia, in un certo senso, per quanto riguarda l’amore basato sull’[amicizia](/concepts/friendship), poiché desidera naturalmente che il bene di Dio sia maggiore di quello suo stesso; infatti, desidera che Dio rimanga Dio, mentre per sé stesso vuole semplicemente mantenere la propria natura. Tuttavia, in senso assoluto, per amore naturale l’angelo ama se stesso più di Dio, poiché ama se stesso prima di Dio e con maggiore intensità. La falsità di tale opinione è evidente se si considera verso dove tende il movimento naturale nell’ordine delle cose: infatti, la tendenza naturale delle cose prive di ragione rivela la natura dell’inclinazione che risiede nella volontà di una natura intellettuale. Nelle cose naturali, tutto ciò che, per sua stessa natura, appartiene a un altro è principalmente e più fortemente incline verso quell’altro piuttosto che verso se stesso. Questa tendenza naturale si manifesta nelle cose che sono mosse secondo le leggi della natura: “Poiché una cosa viene mossa naturalmente, possiede per natura l’aptitudine ad essere così mossa”, come affermato nella Fisica, II, testo 78. Infatti, osserviamo che ogni parte del corpo si espone spontaneamente al pericolo al fine di proteggere l’intero organismo; ad esempio, la mano viene messa senza esitazione a rischio di un colpo per la sicurezza dell’intero corpo. Poiché la ragione imita la natura, troviamo lo stesso tipo di inclinazione anche nelle virtù sociali: infatti, è dovere di un cittadino virtuoso esporsi al pericolo della morte per il bene pubblico dello [stato](/concepts/state); e se l’uomo fosse una parte naturale della città, tale inclinazione sarebbe per lui stessa naturale. Pertanto, poiché Dio è il bene universale e sotto questo bene sono inclusi sia l’uomo che l’angelo e tutte le creature, e poiché ogni creatura, nella sua interezza, appartiene naturalmente a Dio, ne consegue che, per amore naturale, sia l’angelo che l’uomo amino Dio più di se stessi e con un amore maggiore. Altrimenti, se uno dei due amasse se stesso più di Dio, ciò significherebbe che l’amore naturale è perverso e non verrebbe perfezionato, ma distrutto dalla carità.
+
+Risposta all’Obiezione 1: Tale ragionamento è valido per le cose adeguatamente divise, nelle quali una non è la causa dell’esistenza e della bontà dell’altra; infatti, in tali casi ciascuna parte ama naturalmente di più se stessa che l’altra, poiché è più “unica” con sé stessa che con l’altra. Ma quando una parte è la causa totale dell’esistenza e della bontà dell’altra, allora quella parte viene naturalmente amata di più di se stessa; infatti, come abbiamo detto in precedenza, ciascuna parte ama naturalmente il tutto più di sé stessa, e ogni individuo ama naturalmente il bene della specie più del proprio bene individuale. Ora, Dio non è soltanto il bene di una singola specie, ma rappresenta assolutamente il bene universale; pertanto, ogni cosa, a modo suo, ama naturalmente Dio più di sé stessa.
+
+Risposta all’Obiezione 2: Quando si afferma che un angelo ami Dio “in quanto” Egli sia buono per quell’angelo, se l’espressione “in quanto” indica uno scopo o una finalità, allora questa affermazione è falsa; infatti, l’angelo non ama Dio naturalmente per il bene che quest’ultimo gli procura, ma per amore di Dio stesso. Se invece l’espressione indica la natura stessa dell’amore da parte del soggetto amante, allora è vera; poiché non sarebbe nella natura di alcuno amare Dio se non perché tutto dipende da quel bene che è Dio.
+
+Risposta all’Obiezione 3: L’operazione della natura è incentrata su se stessa non solo per quanto riguarda certi dettagli specifici, ma ancora di più per ciò che è comune a tutte le cose; infatti, tutto tende a preservare non soltanto la propria individualità, ma anche la propria specie. Inoltre, ogni cosa possiede una naturale inclinazione verso ciò che rappresenta il bene assolutamente universale.
+
+Risposta all’Obiezione 4: Dio, in quanto è il bene universale da cui dipende ogni bene naturale, è amato da tutte le cose con un amore naturale. In quanto è quel bene che, per sua stessa natura, beata tutte le creature con una [beatazza](/positions/beatitude) soprannaturale, Egli è l’amore stesso, nell’ambito dell’amore della carità.
+
+Risposta all’Obiezione 5: Poiché la sostanza di Dio e la sua bontà universale sono una cosa sola, tutti coloro che contemplano l’essenza divina sono spinti, per lo stesso impulso d’amore, verso quella essenza – nella misura in cui essa si distingue dalle altre cose e rappresenta il bene universale. E poiché Dio è naturalmente amato da tutti in quanto è il bene universale, è impossibile che chiunque lo contempli nella sua essenza non lo ami. Tuttavia coloro che non contemplano direttamente la sua essenza lo conoscono attraverso alcuni effetti particolari, talvolta contrari alla loro volontà; per questo motivo si dice che odino Dio. Eppure, in quanto Egli è il bene universale di tutte le cose, ogni essere ama naturalmente Dio più di se stesso. **Della generazione degli angeli nell’ordine dell’esistenza naturale (quattro articoli)**  
+Dopo aver trattato della natura degli angeli, della loro conoscenza e della loro volontà, rimane ora da esaminare la loro creazione, o, in termini generali, la loro origine. Questo argomento può essere considerato sotto tre aspetti: innanzitutto, come siano stati portati all’esistenza naturale; in secondo luogo, come siano stati resi perfetti attraverso la grazia o la gloria; e infine, come alcuni di loro siano diventati malvagi.  
+All’interno del primo di questi aspetti vi sono quattro questioni principali da esaminare:  
+(1) Se l’angelo abbia una causa specifica della sua esistenza;  
+(2) Se esista fin dall’[eternità](/positions/eternity);  
+(3) Se sia stato creato prima delle creature corporee;  
+(4) Se gli angeli siano stati creati nell’empireo celeste.
+
 <span class="atom-split" data-atom="058" data-title="Whether the angels have a cause of their existence?" data-chapter="Whether the angels have a cause of their existence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the angels have no cause of their existence. For the first chapter
@@ -2918,6 +3668,22 @@ existence and unity, nor such active cause as produces its effect by changing th
 of [potentiality](/concepts/act_potency) to actuality; but they have a cause productive of their entire substance.
 From this the solution of the third difficulty is manifest.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli non abbiano alcuna ragione per esistere. Infatti, il primo capitolo della Genesi tratta di cose create da Dio, ma non vi è alcuna menzione degli angeli. Pertanto, gli angeli non sono stati creati da Dio.
+
+Obiezione 2: Inoltre, il Filosofo afferma (Metafisica viii, testo 16) che se qualche sostanza fosse una forma priva di materia, “allora avrebbe immediatamente essere e unità propria, e non avrebbe alcuna causa del proprio essere e della propria unità”. Ma gli angeli sono forme immateriali, come è stato dimostrato sopra (Q[50], A[2]). Pertanto, essi non hanno alcuna causa del proprio essere.
+
+Obiezione 3: Inoltre, qualsiasi cosa venga prodotta da un agente, per il semplice fatto di essere stata prodotta, riceve dalla stessa quell’agente la propria forma. Ma poiché gli angeli sono forme, essi non traggono la propria forma da alcun agente. Pertanto, gli angeli non hanno alcuna causa attiva che ne determini la formazione.
+
+Al contrario, si dice nel Salmo 148:2: “LodateLo, tutti i suoi angeli”; e ancora più avanti, nel versetto 5: “Poiché Egli parlò e essi furono creati”.
+
+Rispondo che è necessario affermare che angeli e tutte le cose esistenti, ad eccezione di Dio, sono state create da Dio stesso. Solo Dio è la propria esistenza; in tutte le altre cose, invece, l’essenza differisce dall’esistenza, come è stato dimostrato sopra (Q[3], A[4]). Da ciò risulta chiaramente che solo Dio esiste per la propria essenza; tutte le altre cose, invece, hanno la loro esistenza attraverso la partecipazione a qualcosa di altro. Ora, tutto ciò che esiste attraverso la partecipazione è causato da ciò che esiste essenzialmente; così come ogni cosa che viene accesa è causata dal fuoco. Pertanto, gli angeli sono necessariamente stati creati da Dio.
+
+Risposta all’Obiezione 1: [Agostino](/figures/augustine) afferma (De Civ. Dei xi, 50) che gli angeli non furono menzionati in quella descrizione della prima creazione delle cose, ma sono indicati con i nomi di “cieli” o di “luce”. O furono semplicemente tralasciati, oppure designati con i [nomi](/positions/nominalism) di cose corporee, perché Mosè si rivolgeva a un popolo ignorante, ancora incapace di comprendere una natura incorporea; inoltre, se fosse stato rivelato l’esistenza di creature al di là della natura corporea, ciò avrebbe rappresentato per loro un pericolo di idolatria, verso cui erano inclini, e da cui Mosè voleva proprio proteggerli.
+
+Risposta all’Obiezione 2: Le sostanze, essendo forme che esistono in sé stesse, non hanno alcuna “causa formale” della loro esistenza e unità, né una causa attiva che produca il loro effetto modificando la materia da uno stato di [potenzialità](/concepts/act_potency) a uno di attualità; esse possiedono invece una causa che genera interamente la loro sostanza. Da ciò deriva chiaramente la soluzione alla terza difficoltà.
+
 <span class="atom-split" data-atom="059" data-title="Whether the angel was produced by God from eternity?" data-chapter="Whether the angel was produced by God from eternity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the angel was produced by God from [eternity](/positions/eternity). For God is the
@@ -2955,6 +3721,24 @@ Reply to Objection 3: Angels and intelligent souls are incorruptible by the very
 having a nature whereby they are capable of truth. But they did not possess this nature from eternity;
 it was bestowed upon them when God Himself willed it. Consequently it does not follow that the
 angels existed from eternity.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’angelo sia stato creato da Dio nell’[eternità](/positions/eternity). Infatti, Dio è la causa dell’esistenza dell’angelo per il semplice fatto di essere ciò che è; non agisce attraverso nulla al di fuori della sua essenza stessa. Poiché la sua essenza è eterna, ne consegue che abbia creato gli angeli nell’eternità.
+
+Obiezione 2: Inoltre, tutto ciò che esiste in un determinato momento e non in un altro è soggetto al tempo. Ma l’angelo è al di sopra del tempo, come affermato nel libro “De Causis”. Pertanto, l’angelo non esiste in un momento e non esiste in un altro, ma esiste sempre.
+
+Obiezione 3: Inoltre, [Agostino](/figures/augustine) (De Trin. xiii) dimostra l’incorruibilità dell’anima sull’argomento che la mente è capace di verità. Ma poiché la verità è incorruttibile, lo è anche l’intelletto stesso. Pertanto, la natura intellettiva sia dell’anima che dell’angelo non è solo incorruttibile, ma anche eterna.
+
+Al contrario, si dice (Proverbi 8:22), nella persona della Sapienza generata da Dio: “Il Signore mi possedette all’inizio dei Suoi percorsi, prima ancora di creare qualsiasi cosa”. Ma, come è stato dimostrato sopra (A[1]), gli angeli furono creati da Dio; pertanto, in un certo momento, gli angeli non esistevano ancora.
+
+Rispondo che solo Dio, Padre, Figlio e Spirito Santo, esiste dall’eternità. La Fede Cattolica lo afferma senza alcun dubbio; tutto ciò che contraddice questa verità deve essere rifiutato come eresia. Poiché Dio ha creato le creature “dal nulla”, cioè prima ancora che esistessero.
+
+Risposta all’Obiezione 1: L’esistenza di Dio è la Sua volontà. Pertanto, il fatto che Dio abbia creato angeli e altre creature attraverso la propria esistenza non esclude che le abbia create anche attraverso la propria volontà. Tuttavia, come è stato dimostrato in precedenza (Q[19], A[3]; Q[46], A[1]), la volontà di Dio non agisce necessariamente nella creazione delle creature. Quindi, Dio le ha create secondo ciò che ha voluto, e nel momento in cui ha voluto farlo.
+
+Risposta all’Obiezione 2: Un angelo è al di sopra di quel tempo che rappresenta la misura del movimento dei cieli; poiché egli è al di sopra di ogni movimento di natura corporea. Tuttavia, non è al di sopra di quel tempo che costituisce la misura della successione delle sue esistenze dopo la sua inesistenza, e che rappresenta anche la sequenza degli eventi che avvengono nelle sue operazioni. Pertanto Agostino afferma (Genesi ad litteram viii, 20,21) che “Dio muove le creature spirituali secondo il tempo”.
+
+Risposta all’Obiezione 3: Angeli e anime intelligenti sono incorruttibili proprio perché possiedono una natura che li rende capaci di conoscere la verità. Tuttavia, non possedevano questa natura fin dall’eternità; essa fu loro concessa quando Dio stesso lo volle. Pertanto, non ne consegue che gli angeli esistessero già dall’eternità.
 
 <span class="atom-split" data-atom="060" data-title="Whether the angels were created before the corporeal world?" data-chapter="Whether the angels were created before the corporeal world?" data-kind="atom" data-srclang="en"></span>
 
@@ -3007,6 +3791,25 @@ and earth," the words, "In the beginning," must be interpreted, "In the Son," or
 of time": but not, "In the beginning, before which there was nothing," unless we say "Before which
 there was nothing of the nature of corporeal creatures."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli siano stati creati prima del mondo corporeo. Infatti Gerome afferma (In Epistola ad Titum i, 2): “Seimila anni del nostro tempo non sono ancora trascorsi; eppure come possiamo misurare il tempo, come possiamo contare gli eoni in cui angeli, troni, dominazioni e le altre gerarchie servivano Dio?” Anche Damaseno scrive (De Fide Orthodossa ii): “Alcuni sostengono che gli angeli siano stati generati prima di tutta la creazione; come dichiara Gregorio il Teologo, egli concepì per primo le potenze angeliche e celesti, e tale concezione stessa costituì la loro creazione.”
+
+Obiezione 2: Inoltre, la natura angelica si trova a metà strada tra la natura divina e quella corporea. Ma la natura divina ha origine nell’[eternità](/positions/eternity); mentre la natura corporea ha origine nel tempo. Pertanto, la natura angelica è stata creata prima che il tempo esistesse, e dopo l’eternità.
+
+Obiezione 3: Inoltre, la natura angelica è ancora più lontana dalla natura corporea di quanto una natura corporea lo sia da un’altra. Ma una natura corporea è stata creata prima di un’altra; per questo motivo i sei giorni della creazione sono menzionati all’inizio del Genesi. Quindi, con ancora maggiore ragione, la natura angelica deve essere stata creata prima di ogni natura corporea.
+
+Al contrario, si dice (Genesi 1:1): “All’inizio Dio creò il cielo e la terra”. Ora, questo non sarebbe vero se qualcosa fosse stato creato prima; pertanto, gli angeli non furono creati prima della natura corporea.
+
+Rispondo che, su questo punto, si trovano due diverse opinioni nelle scritture dei Padri della Chiesa. Quella più probabile sostiene che gli angeli siano stati creati nello stesso momento delle creature corporee. Gli angeli, infatti, fanno parte dell’universo: non costituiscono un universo a sé stanti, ma insieme alle nature corporee contribuiscono a formare un unico universo. Ciò risulta evidente dalla relazione che esiste tra le varie creature, poiché questa reciproca interazione costituisce il bene stesso dell’universo. Tuttavia, nessuna parte può essere considerata perfetta se separata dal tutto; pertanto è improbabile che Dio, la cui “opera è perfetta”, come si dice in Deuteronomio 32:4, abbia creato le creature angeliche prima delle altre. Allo stesso tempo, l’opinione contraria non deve essere considerata errata, soprattutto alla luce dell’autorità di Gregorio Nazianzene, “la cui dottrina nella Chiesa cristiana è così riconosciuta che nessuno ha mai sollevato obiezioni alle sue insegnanze, proprio come avviene per la dottrina di Atanasio”, afferma Girolamo.
+
+Risposta all’Obiezione 1: Gerome si attiene all’insegnamento dei Padri Greci, i quali ritengono che la creazione degli angeli sia avvenuta prima di quella del mondo corporeo.
+
+Risposta all’Obiezione 2: Dio non è una parte dell’universo intero, ma ne è molto al di sopra; possiede in sé tutta la perfezione dell’universo, in modo ancora più eminente. Un angelo, invece, è una parte dell’universo stesso. Pertanto, tale confronto non è valido.
+
+Risposta all’Obiezione 3: Tutte le creature corporee sono identiche per quanto riguarda la materia; gli angeli, invece, non condividono questa stessa natura materiale. Pertanto, la creazione della materia delle creature corporee implica, in qualche modo, la creazione di tutte le cose; mentre la creazione degli angeli non comporta necessariamente la creazione dell’universo stesso.  
+Se si adottasse un punto di vista opposto, allora nel testo del Genesi 1 (“All’inizio Dio creò il cielo e la terra”), le parole “All’inizio” dovrebbero essere interpretate come “Nel Figlio” o “All’inizio del tempo”; non certo come “All’inizio, prima di cui non esistesse nulla”, a meno che non si intenda dire “Prima di cui non esistesse nulla di natura corporea”.
+
 <span class="atom-split" data-atom="061" data-title="Whether the angels were created in the empyrean heaven?" data-chapter="Whether the angels were created in the empyrean heaven?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the angels were not created in the empyrean heaven. For the
@@ -3053,6 +3856,24 @@ Reply to Objection 3: Isaias is not speaking there of any corporeal heaven, but 
 of the Blessed Trinity; unto which the sinning angel wished to ascend, when he desired to be equal
 in some manner to God, as will appear later on (Q[63], A[3]).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli non siano stati creati nel cielo empiereo. Gli angeli, infatti, sono sostanze incorporee. Una sostanza incorporea non dipende da un corpo per la propria esistenza; di conseguenza, nemmeno per la propria creazione. Pertanto, gli angeli non sono stati creati in alcun luogo corporeo.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (Genesi ad litteram iii, 10) che gli angeli furono creati nell’atmosfera superiore; pertanto non nel cielo empireo.
+
+Obiezione 3: Inoltre, si dice che il cielo empyreale sia il cielo più alto. Pertanto, se gli angeli fossero stati creati nel cielo empyreale, non sarebbe appropriato per loro ascendere a un cielo ancora più alto. E questo è in contraddizione con quanto detto in Isaia, che parla nel nome dell’angelo peccatore: “Salirò in cielo” (Isaia 14:13).
+
+Al contrario, Strabone, commentando il testo “All’inizio Dio creò il cielo e la terra”, afferma: “Con ‘cielo’ non intende il firmamento visibile, ma l’empireo, cioè il firmamento ardente o intellettuale; questo nome non deriva dal suo calore, ma dalla sua splendidezza; inoltre, era già pieno di angeli fin dal momento della sua creazione”.
+
+Rispondo che, come osservato in (A[3]), l’universo è composto da creature corporee e spirituali. Pertanto, le creature spirituali sono state create in modo da avere un certo rapporto con le creature corporee e da dominarle tutte. È quindi appropriato che gli angeli siano stati creati nel luogo corporeo più elevato, poiché hanno il compito di governare tutta la natura corporea; sia che questo luogo venga chiamato cielo empyreale o con altro nome. Così afferma Isidoro: “Il cielo più alto è il cielo degli angeli”, spiegando il passo del Deuteronomio 10:14: “Ecco, il cielo appartiene al Signore tuo Dio; anche il cielo che è sopra il cielo”.
+
+Risposta all’Obiezione 1: Gli angeli furono creati in un luogo corporeo, non nel senso che la loro esistenza o la loro creazione dipendessero da un corpo; infatti, Dio avrebbe potuto crearli prima di ogni altra forma di creazione corporea, come sostengono molti saggi teologi. Furono creati in un luogo corporeo al fine di mostrare il loro legame con la natura corporea e per dimostrare che, grazie alla loro potenza, sono in grado di interagire con i corpi.
+
+Risposta all’Obiezione 2: Con l’espressione “atmosfera più alta”, Agostino potrebbe intendere la parte più elevata del cielo, alla quale l’atmosfera ha una sorta di affinità a causa della sua sottigliezza e trasparenza. Oppure non si riferisce a tutti gli angeli, ma soltanto a quelli che hanno peccato; secondo alcuni, questi appartengono agli ordini inferiori degli angeli. Tuttavia, nulla ci impedisce di ritenere che gli angeli più elevati, essendo dotati di un potere nobile e universale su tutte le cose corporee, siano stati creati nel luogo più alto tra le creature materiali; mentre gli altri angeli, avendo poteri più limitati, sono stati creati tra i corpi inferiori.
+
+Risposta all’Obiezione 3: Isaia non parla in quel passaggio di alcun cielo corporeo, ma del cielo della Santissima Trinità; verso il quale l’angelo peccatore desiderava ascendere, quando cercò in qualche modo di essere uguale a Dio, come verrà chiarito in seguito (Q[63], A[3]).
+
 <span class="atom-split" data-atom="062" data-title="OF THE PERFECTION OF THE ANGELS IN THE ORDER OF GRACE AND OF GLORY (NINE ARTICLES)" data-chapter="OF THE PERFECTION OF THE ANGELS IN THE ORDER OF GRACE AND OF GLORY (NINE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 In due sequence we have to inquire how the angels were made in the order of grace and of
@@ -3066,6 +3887,19 @@ glory; under which heading there are nine points of inquiry:
 (7) After entering glory, did their natural love and knowledge remain?
 (8) Could they have sinned afterwards?
 (9) After entering into glory, could they advance farther?
+
+<span class="qlang-split" data-lang="it"></span>
+
+In due fasi successive dobbiamo indagare su come gli angeli siano stati creati, in relazione all’ordine della grazia e della gloria; sotto questa rubrica esistono nove punti da esaminare:  
+(1) Gli angeli sono stati creati nella [beatazza](/positions/beatitude)?  
+(2) Hanno avuto bisogno di grazia per rivolgersi a Dio?  
+(3) Sono stati creati già nella grazia?  
+(4) Hanno meritato la loro beatazza?  
+(5) Sono entrati immediatamente nella beatazza dopo averla meritata?  
+(6) Hanno ricevuto grazia e gloria in base alle loro capacità naturali?  
+(7) Dopo essere entrati nella gloria, il loro amore e la loro conoscenza naturali sono rimasti intatti?  
+(8) Avrebbero potuto peccare in seguito?  
+(9) Dopo essere entrati nella gloria, avrebbero potuto progredire ulteriormente?
 
 <span class="atom-split" data-atom="063" data-title="Whether the angels were created in beatitude?" data-chapter="Whether the angels were created in beatitude?" data-kind="atom" data-srclang="en"></span>
 
@@ -3126,6 +3960,25 @@ Word; imperfectly by his natural knowledge, and perfectly by his knowledge of gl
 the first knowledge of things in the Word was present to the angel from the outset of his creation;
 while the second was not, but only when the angels became blessed by turning to the good. And
 this is properly termed their morning knowledge.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli siano stati creati nella [beatazza](/positions/beatitude). Infatti, si afferma nel De Eccl. Dogm. xxix che “gli angeli che rimangono nella beatazza in cui sono stati creati non possiedono per natura la perfezione che hanno”. Pertanto, gli angeli sono stati creati nella beatazza.
+
+Obiezione 2: Inoltre, la natura angelica è più nobile della creatura corporea. Ma la creatura corporea fu subito resa perfetta e completa al momento della sua creazione; la mancanza di forma non ebbe alcuna priorità nel tempo, ma soltanto nella natura, come afferma [Agostino](/figures/augustine) (Genesi ad litteram i, 15). Pertanto, nemmeno Dio creò la natura angelica in modo imperfetto e incompleto. La sua formazione e perfezione derivano dalla sua beatitudine, attraverso la quale essa gode di Dio. Quindi, fu creata nella beatitudine stessa.
+
+Obiezione 3: Inoltre, secondo Agostino (Genesi ad litteram iv, 34; v, 5), le cose di cui leggiamo che furono create nei sei giorni della creazione furono tutte create contemporaneamente; pertanto, quei sei giorni dovettero esistere tutti insieme fin dall’inizio stesso della creazione. Tuttavia, secondo la sua spiegazione, in quei sei giorni “la conoscenza angelica” rappresentava il mezzo attraverso cui gli angeli conoscevano la Parola e le cose contenute nella Parola. Quindi, fin dal momento della loro creazione, gli angeli conoscevano già la Parola e le cose in essa contenute. Ma la beatitudine degli angeli deriva dalla visione diretta della Parola; pertanto, gli angeli erano già in stato di beatitudine fin dall’inizio stesso della loro esistenza.
+
+Al contrario, essere stabiliti o confermati nella bontà è proprio dell’essere beati. Tuttavia, gli angeli non furono confermati nella bontà immediatamente dopo la loro creazione; la [caduta](/positions/original_sin) di alcuni di loro lo dimostra. Pertanto, gli angeli non erano in stato di beatitudine fin dalla loro creazione.
+
+Rispondo che per “beatitudine” si intende la perfezione ultima della natura razionale o intellettuale; ed è proprio per questo che essa è naturalmente desiderata, poiché tutto desidera naturalmente la propria perfezione ultima. Ora, esiste una duplice perfezione ultima della natura razionale o intellettuale: la prima è quella che può essere raggiunta con le proprie forze naturali; e questa, in una certa misura, viene chiamata beatitudine o felicità. Pertanto, [Aristotele](/figures/aristotle) (Etica, X) afferma che la felicità ultima dell’uomo consiste nella sua contemplazione più perfetta, attraverso la quale, in questa vita, può contemplare l’oggetto intelligibile più sublime: cioè Dio. Al di sopra di questa felicità esiste un’altra, che attendiamo nel futuro, attraverso la quale “vedremo Dio così come Egli è”. Questa felicità trascende però la natura di ogni intelletto creato, come è stato dimostrato in precedenza (Q[12], A[4]).  
+Quindi, rimane da dire che, riguardo a questa prima beatitudine, che l’angelo poteva raggiungere con le proprie forze naturali, egli era già creato beato. Poiché l’angelo non acquisisce tale beatitudine attraverso un processo progressivo, come fa l’uomo, ma ne è immediatamente in possesso grazie alla sua dignità naturale. Tuttavia, gli angeli non possedevano fin dall’inizio della loro creazione quella perfezione ultima che trascende le possibilità della natura; poiché tale beatitudine non fa parte della loro natura, ma ne rappresenta lo scopo finale; e pertanto non avrebbero dovuto possederla immediatamente fin dall’inizio.
+
+Risposta all’Obiezione 1: La beatitudine viene intesa come quella perfezione naturale che l’angelo possedeva nello [stato](/concepts/state) di innocenza.
+
+Risposta all’Obiezione 2: La creatura corporea, nel momento stesso della sua creazione, non poteva possedere la perfezione che avrebbe acquisito in seguito al proprio sviluppo; pertanto, secondo Agostino (Genesi ad litteram V, 4,23; VIII, 3), la crescita delle piante sulla terra non ebbe luogo immediatamente tra le prime opere della creazione, nelle quali alla terra fu conferita soltanto la capacità di far germogliare le piante. Allo stesso modo, la creatura angelica, all’inizio della sua esistenza, possedeva già la perfezione intrinseca alla sua natura; tuttavia, non possedeva ancora quella perfezione che avrebbe raggiunto attraverso il proprio sviluppo.
+
+Risposta all’Obiezione 3: L’angelo possiede due tipi di conoscenza del Verbo: una naturale e l’altra derivante dalla sua gloria. La conoscenza naturale gli permette di comprendere il Verbo attraverso le somiglianze che esso presenta nella sua stessa natura; la conoscenza derivante dalla gloria, invece, gli consente di comprenderlo attraverso la sua essenza stessa. Con entrambi questi tipi di conoscenza, l’angelo può comprendere le realtà contenute nel Verbo: in modo imperfetto attraverso la conoscenza naturale, e in modo perfetto attraverso quella derivante dalla gloria. Pertanto, la prima forma di conoscenza delle realtà nel Verbo era già presente nell’angelo fin dal momento della sua creazione; la seconda, invece, non esisteva fino a quando gli angeli non si rivolsero al bene e furono benedetti. Questa seconda forma di conoscenza viene propriamente definita “conoscenza mattutina”.
 
 <span class="atom-split" data-atom="064" data-title="Whether an angel needs grace in order to turn to God?" data-chapter="Whether an angel needs grace in order to turn to God?" data-kind="atom" data-srclang="en"></span>
 
@@ -3188,6 +4041,24 @@ himself so that he may have grace; for this no habitual grace is required; but t
 Who draws the soul towards Himself, according to Lam 5:21: "Convert us, O Lord, to Thee, and
 we shall be converted." Hence it is clear that there is no need to go on to infinity.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’angelo non avesse bisogno di grazia per rivolgersi a Dio. Infatti, noi non abbiamo bisogno di grazia per ciò che possiamo compiere naturalmente. Ma l’angelo si rivolge a Dio in modo naturale: perché ama Dio in modo naturale, come risulta chiaramente da quanto detto (Q[60], A[5]). Pertanto, un angelo non aveva bisogno di grazia per rivolgersi a Dio.
+
+Obiezione 2: Inoltre, sembra che abbiamo bisogno di aiuto soltanto per compiti difficili. Ora, rivolgersi a Dio non rappresentava certo un compito difficile per l’angelo; poiché in lui non esisteva alcun ostacolo che gli impedisse di farlo. Pertanto, l’angelo non aveva bisogno della grazia per potersi rivolgere a Dio.
+
+Obiezione 3: Inoltre, rivolgersi a Dio significa prepararsi ad accogliere la grazia; per questo si dice (Zaccaria 1:3): “Rivolgetevi a Me e Io mi rivolgerò a voi”. Ma non abbiamo bisogno della grazia per prepararci ad accoglierla, poiché in tal caso ci troveremmo di fronte all’[infinito](/concepts/infinity). Pertanto, l’angelo non aveva bisogno della grazia per rivolgersi a Dio.
+
+Al contrario, fu proprio rivolgendosi a Dio che l’angelo raggiunse la [beatazza](/positions/beatitude). Se quindi non avesse avuto bisogno di grazia per rivolgersi a Dio, ne conterrebbe che non avesse nemmeno avuto bisogno di grazia per possedere la vita eterna. Ma ciò è in contraddizione con quanto afferma l’Apostolo (Romani 6:23): “La grazia di Dio è la vita eterna”.
+
+Rispondo che gli angeli avevano bisogno della grazia per potersi rivolgere a Dio, come oggetto di beatitudine. Poiché, come è stato osservato in precedenza (Q[60], A[2]), il movimento naturale della volontà è il principio di tutte le cose che desideriamo. Tuttavia, l’inclinazione naturale della volontà è diretta verso ciò che è in armonia con la sua natura. Pertanto, se esiste qualcosa che va al di là della natura stessa, la volontà non può essere indirizzata verso di esso, a meno che non sia aiutata da qualche principio soprannaturale. È evidente, ad esempio, che il fuoco ha una tendenza naturale a produrre calore e altro fuoco; generare carne, invece, va al di là delle capacità naturali del fuoco; pertanto, il fuoco non ha alcuna inclinazione in tal senso, se non nella misura in cui viene guidato dalla “anima nutritiva”. Inoltre, come è stato dimostrato in precedenza (Q[12], AA[4],5), quando trattavamo della conoscenza di Dio, vedere Dio nella Sua essenza – dove risiede la beatitudine ultima della creatura razionale – va al di là delle capacità naturali di qualsiasi intelletto creato. Pertanto, nessuna creatura razionale può dirigere il proprio volere verso tale beatitudine, se non viene spinta a farlo da un agente soprannaturale. Questo è ciò che chiamiamo “aiuto della grazia”. Quindi, si deve dire che un angelo non potrebbe, di sua volontà, rivolgersi verso tale beatitudine, se non con l’aiuto della grazia.
+
+Risposta all’Obiezione 1: L’angelo ama Dio in modo naturale, nella misura in cui Dio è l’autore della sua esistenza naturale. Ma qui stiamo parlando di un rapporto con Dio che si basa sul fatto che Dio doni la beatitudine attraverso la visione della Sua essenza.
+
+Risposta all’Obiezione 2: Una cosa è “difficile” quando va al di là delle capacità umane; ciò può accadere in due modi. In primo luogo, perché tale cosa trascende la capacità naturale dell’uomo; in questo caso, se può essere raggiunta con l’aiuto di altri mezzi, si dice che sia “difficile”; ma se non è affatto possibile ottenerla, allora si dice che sia “impossibile” – ad esempio, per un uomo è impossibile volare. In secondo luogo, una cosa può risultare al di là delle capacità umane non in base alla natura stessa di tali capacità, ma a causa di ostacoli esterni; ad esempio, salire verso l’alto non contraddice la natura della forza motrice dell’anima, poiché l’anima, in sé considerata, può essere spinta in qualsiasi direzione; tuttavia, questo movimento viene ostacolato dal peso del corpo; pertanto, per un uomo è difficile salire verso l’alto. Per l’uomo è difficile raggiungere la propria beatitudine ultima, sia perché tale scopo trascende la sua natura umana, sia a causa degli ostacoli rappresentati dalla corruzione del corpo e dall’influenza del peccato. Tuttavia, per un angelo questa difficoltà deriva soltanto dal fatto che tale realtà è soprannaturale.
+
+Risposta all’Obiezione 3: Ogni movimento della volontà verso Dio può essere definito una conversione a Dio. Esiste quindi una triplice forma di conversione a Dio: la prima si basa sull’amore perfetto per Dio; essa appartiene alla creatura che gode della presenza di Dio, e per tale conversione è necessaria la grazia perfetta. La seconda forma di conversione è quella che merita la beatitudine; per questa è richiesta la grazia abituale, che costituisce il principio del merito. La terza forma di conversione consiste nel predisporre se stessi in modo da ricevere la grazia; per questa non è necessaria alcuna grazia abituale, ma l’azione di Dio stesso, che attira l’anima verso di Sé, secondo quanto detto in Lam 5:21: “Riconduceteci a Te, o Signore, e ci convertiremo”. È quindi evidente che non vi è alcun bisogno di procedere all’infinito.
+
 <span class="atom-split" data-atom="065" data-title="Whether the angels were created in grace?" data-chapter="Whether the angels were created in grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the angels were not created in grace. For [Augustine](/figures/augustine) says (Gen.
@@ -3234,6 +4105,24 @@ and glory, nevertheless, in the order of time, in created nature, glory is not s
 because glory is the end of the operation of nature helped by grace. But grace stands not as the end
 of operation, because it is not of works, but as the principle of right operation. Therefore it was
 fitting for grace to be given straightway with nature.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli non siano stati creati nella grazia. Infatti, [Agostino](/figures/augustine) afferma (Genesi, ad litteram ii, 8) che la natura angelica fu prima creata senza forma e venne chiamata “cielo”; in seguito ricevette la sua forma e allora fu chiamata “luce”. Ma tale formazione deriva dalla grazia. Pertanto, gli angeli non furono creati nella grazia.
+
+Obiezione 2: Inoltre, la grazia dirige la creatura razionale verso Dio. Pertanto, se un angelo fosse stato creato nella grazia, nessun angelo si sarebbe mai allontanato da Dio.
+
+Obiezione 3: Inoltre, la grazia si trova a metà strada tra la natura e la gloria. Ma gli angeli non furono beati alla loro creazione. Pertanto sembra che siano stati creati prima solo in base alle leggi della natura, e poi abbiano ricevuto la grazia; infine, soltanto allora sono stati beatificati.
+
+Al contrario, Agostino afferma (De Civ. Dei xii, 9): “Chi ha suscitato la buona volontà degli angeli? Chi, se non Colui che li ha creati con la Sua volontà, cioè con quell’amore puro per mezzo del quale essi si attaccano a Lui; colui che al contempo ha formato la loro natura e donato loro la grazia?”
+
+Rispondo che, sebbene esistano opinioni contrastanti su questo punto – alcune sostengono che gli angeli siano stati creati soltanto nello stato naturale, altre affermano che siano stati creati nella grazia divina – sembra più probabile, e più in linea con le parole dei saggi, che siano stati creati nella grazia santificante. Infatti, tutte le cose che, nel corso del tempo, sono state create per opera della Provvidenza Divina, sono nate dall’operazione di Dio stesso; esse furono generate fin dal primo momento secondo forme simili a semi, come afferma Agostino (Genesi ad litteram viii, 3): alberi, animali e via dicendo. Ora è evidente che la grazia santificante ha lo stesso rapporto con la [beatazza](/positions/beatitude) quanto le forme simili a semi hanno con gli effetti naturali; per questo motivo (1 Giovanni 3:9) la grazia viene chiamata “seme” di Dio. Così come, secondo Agostino, le forme simili a semi che danno origine agli effetti naturali furono insediate nella creatura al momento della sua creazione corporea, allo stesso modo gli angeli furono creati fin dal principio nella grazia divina.
+
+Risposta all’Obiezione 1: Tale assenza di forma negli angeli può essere compresa o in relazione alla loro formazione nella gloria; in questo caso, l’assenza di tale formazione precede effettivamente la loro creazione, per priorità temporale. Oppure può essere intesa in riferimento alla loro formazione secondo la grazia divina: in tal caso, questa assenza non precede la loro creazione in termini di ordine temporale, ma soltanto in termini di ordine naturale; è quanto afferma Agostino riguardo alla formazione delle cose corporee (Genesi ad litteram, I, 15).
+
+Risposta all’Obiezione 2: Ogni forma inclina il soggetto secondo il modo intrinseco alla sua natura. Ora, il modo di una natura intellettuale consiste nell’inclinarsi liberamente verso gli oggetti che desidera. Pertanto, l’azione della grazia non impone alcuna necessità; colui che possiede la grazia può decidere di non farne uso e quindi peccare.
+
+Risposta all’Obiezione 3: Sebbene, nell’ordine della natura, la grazia si trovi a metà strada tra la natura e la gloria, tuttavia, nell’ordine del tempo, nella natura creata, la gloria non è simultanea alla natura; poiché la gloria rappresenta la fine dell’operazione della natura assistita dalla grazia. Ma la grazia non agisce come fine di tale operazione, poiché non deriva dalle opere umane, bensì come principio di un corretto svolgimento delle stesse. Pertanto, era appropriato che la grazia venisse concessa fin dall’inizio, insieme alla natura stessa.
 
 <span class="atom-split" data-atom="066" data-title="Whether an angel merits his beatitude?" data-chapter="Whether an angel merits his beatitude?" data-kind="atom" data-srclang="en"></span>
 
@@ -3291,6 +4180,23 @@ Reply to Objection 2: An angel did not merit beatitude by natural movement towar
 but by the movement of charity, which comes of grace.
 The answer to the Third Objection is evident from what we have said.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’angelo non meritasse la sua [beatitudine](/positions/beatitude). Infatti, il merito deriva dalla difficoltà dell’atto meritevole. Ma l’angelo non ha incontrato alcuna difficoltà nell’agire in modo retto. Pertanto, un atto retto non era considerato meritevole per lui.
+
+Obiezione 2: Inoltre, non meritiamo la beatitudine semplicemente attraverso operazioni naturali. Tuttavia, era del tutto naturale che l’angelo si rivolgesse a Dio; pertanto, con questo atto non meritò la beatitudine.
+
+Obiezione 3: Inoltre, se un angelo beato ha meritato la sua beatitudine, l’ha fatto o prima di ottenerla o dopo. Ma non prima, perché, secondo molti, prima non possedeva alcuna grazia che gli permettesse di meritarla. Né l’ha meritata dopo, poiché in tal caso continuerebbe a meritarla anche ora; il che è chiaramente falso, poiché in questo modo un angelo inferiore potrebbe, attraverso i propri meriti, raggiungere lo stesso rango di uno superiore, e i diversi gradi di grazia non sarebbero più permanenti; il che è inaccettabile. Pertanto, l’angelo non ha meritato la sua beatitudine.
+
+Al contrario, si afferma (Apocalisse 21:17) che “la misura dell’angelo” in quella Gerusalemme celeste sia “la misura di un uomo”. Pertanto, lo stesso vale anche per l’angelo.
+
+Rispondo che la perfezione suprema è naturale soltanto a Dio, poiché in Lui esistenza e beatitudine sono una cosa unica. Tuttavia, la beatitudine non appartiene alla natura della creatura, ma ne costituisce lo scopo finale. Ogni cosa raggiunge il proprio fine ultimo attraverso le proprie azioni; tali azioni, che portano a quel fine, sono o produttive di esso – quando tale fine rientra nelle possibilità dell’agente che si impegna per ottenerlo, come l’arte medica che produce la salute – oppure meritevoli di esso, quando tale fine trascende le capacità dell’agente; in questo caso, il fine viene concesso da un altro. È evidente, dunque, che la beatitudine suprema supera sia la natura angelica che quella umana. Resta quindi da stabilire se anche l’uomo e gli angeli meritino la propria beatitudine.  
+Se l’angelo fosse stato creato nella grazia – senza la quale non esiste merito – non ci sarebbe alcuna difficoltà nel dire che merita la beatitudine; allo stesso modo, si potrebbe affermare che abbia ricevuto la grazia prima di ottenere la gloria. Ma se non avesse ricevuto la grazia prima di entrare nella beatitudine, ciò significherebbe che possiede la beatitudine senza merito, proprio come noi possediamo la grazia. Tuttavia, questo è del tutto contrario all’idea stessa di beatitudine, che rappresenta uno scopo finale e una ricompensa della virtù, come afferma anche il Filosofo (Etica, I, 9). Altrimenti, si potrebbe sostenere che gli angeli meritino la beatitudine attraverso le loro attività attuali, mentre già si trovano nella condizione di beatitudine. Ma ciò è ancora in contraddizione con l’idea di merito: poiché il merito implica un mezzo per raggiungere uno scopo, mentre ciò che già possiede tale scopo non può essere considerato “meritevole” di ottenerlo. Inoltre, non sembra possibile che qualcuno possa godere della beatitudine e al contempo meritarla. È quindi più appropriato affermare che l’angelo abbia ricevuto la grazia prima di essere ammesso nella beatitudine, e che sia proprio grazie a questa grazia che meriti tale stato.
+
+Risposta all’Obiezione 1: La difficoltà dell’angelo nel compiere opere giuste non deriva da alcuna contraddizione o ostacolo delle sue facoltà naturali, ma dal fatto che le buone azioni trascendono la sua capacità naturale.
+
+Risposta all’Obiezione 2: Un angelo non merita la beatitudine attraverso un movimento naturale verso Dio, ma attraverso il movimento della carità, che deriva dalla grazia. La risposta all’Terza Obiezione è evidente da quanto abbiamo detto.
+
 <span class="atom-split" data-atom="067" data-title="Whether the angel obtained beatitude immediately after one act of merit?" data-chapter="Whether the angel obtained beatitude immediately after one act of merit?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the angel did not possess [beatitude](/positions/beatitude) instantly after one act of
@@ -3338,6 +4244,24 @@ beatitude, and in another was beatified.
 Reply to Objection 3: It is of the nature of an angel instantly to attain the perfection unto which
 he is ordained. Consequently, only one meritorious act is required; which act can so far be called
 an interval as through it the angel is brought to beatitude.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’angelo non abbia posseduto la [beatazza](/positions/beatitude) immediatamente dopo un singolo atto di merito. Infatti, per un uomo è più difficile compiere azioni virtuose rispetto a un angelo; inoltre, l’uomo non viene ricompensato immediatamente dopo un singolo atto di merito. Pertanto, nemmeno l’angelo lo fu.
+
+Obiezione 2: Inoltre, un angelo potrebbe agire immediatamente, nel momento stesso della sua creazione, poiché anche i corpi naturali iniziano a muoversi nell’istante stesso della loro nascita; e se il movimento di un corpo potesse essere istantaneo, come avviene per le operazioni della mente e della volontà, allora quel corpo avrebbe già iniziato a muoversi nel primo istante della sua esistenza. Di conseguenza, se l’angelo meritasse la beatitudine per un solo atto della sua volontà, la meriterebbe già nel primo istante della sua creazione; e quindi, se la sua beatitudine non venisse ritardata, gli angeli sarebbero già in stato di beatitudine dal primo momento della loro esistenza.
+
+Obiezione 3: Inoltre, devono esserci molti intermedi tra cose che si trovano a grande distanza l’una dall’altra. Ma lo stato beato degli angeli è molto lontano dalla loro condizione naturale; mentre il merito si trova a metà strada tra i due estremi. Pertanto, l’angelo dovrebbe attraversare molti stadi di merito per raggiungere lo stato beato.
+
+Al contrario, l’anima umana e un angelo sono entrambi destinati alla beatitudine; pertanto ai santi viene promessa l’uguaglianza con gli angeli. Ora, l’anima separata dal corpo, se possiede meriti degni di beatitudine, entra immediatamente in essa, a meno che non vi siano ostacoli. Lo stesso vale per un angelo: nel suo primo atto di carità, un angelo acquisì già il merito necessario per la beatitudine; poiché non esistevano ostacoli dentro di lui, entrò immediatamente in beatitudine grazie a un solo atto meritevole.
+
+Rispondo che l’angelo fu beato immediatamente dopo il primo atto di carità, atto con cui meritò la beatitudine. Il motivo è che la [grazia perfetta](/positions/grace_perfects_nature) perfeziona la natura angelica secondo le caratteristiche stesse di tale natura; infatti ogni perfezione viene ricevuta da un soggetto capace di essa, secondo i modi specifici di quella perfezione. Poiché la natura angelica è per sua essenza incline alla perfezione naturale, lo è anche, per merito, verso la gloria. Pertanto, immediatamente dopo tale atto di merito, l’angelo ottenne la beatitudine. Ora, sia per gli angeli che per gli uomini, il merito necessario per la beatitudine può derivare da un solo atto; infatti l’uomo merita la beatitudine con ogni atto ispirato dalla carità. Ne consegue quindi che un angelo fu beato immediatamente dopo un solo atto di carità.
+
+Risposta all’Obiezione 1: L’uomo non è stato creato per raggiungere immediatamente la sua perfezione definitiva, come l’angelo. Pertanto, all’uomo è stato assegnato un percorso più lungo rispetto all’angelo per ottenere la beatitudine.
+
+Risposta all’Obiezione 2: L’angelo si trova al di sopra del tempo delle cose corporee; pertanto, i diversi momenti relativi agli angeli non devono essere intesi se non come indicazioni della successione dei loro atti. Ora, l’atto che gli angeli compirono e che meritò la beatitudine non poteva esistere contemporaneamente all’atto stesso della beatitudine, che rappresenta la sua realizzazione; poiché il primo appartiene alla grazia imperfetta, mentre il secondo alla grazia perfetta. Di conseguenza, è necessario concepire diversi momenti: in uno di questi gli angeli meritarono la beatitudine, e in un altro ne furono effettivamente beati.
+
+Risposta all’Obiezione 3: È naturale per un angelo raggiungere immediatamente la perfezione a cui è destinato. Pertanto, è necessario soltanto un atto meritevole; tale atto può essere considerato un “intervallo” attraverso il quale l’angelo giunge alla beatitudine.
 
 <span class="atom-split" data-atom="068" data-title="Whether the angels receive grace and glory according to the degree of their natural gifts?" data-chapter="Whether the angels receive grace and glory according to the degree of their natural gifts?" data-kind="atom" data-srclang="en"></span>
 
@@ -3388,6 +4312,24 @@ difference is on account of the end; while numerical difference is because of th
 there is something in man which can thwart or impede the movement of his intellective nature; but
 not in the angels. Consequently the argument is not the same for both.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli non abbiano ricevuto grazia e gloria in base al grado dei loro doni naturali. Poiché la grazia viene concessa per volontà assoluta di Dio, il grado di grazia dipende quindi dalla volontà di Dio, e non dal grado dei loro doni naturali.
+
+Obiezione 2: Inoltre, un atto morale sembra essere più strettamente legato alla grazia che la natura; infatti, un atto morale costituisce una preparazione alla grazia. Ma la grazia non deriva dalle “opere”, come si afferma in Romani 11:6. Pertanto, con ancora maggiore ragione, il grado di grazia non dipende dal grado dei doni naturali delle persone.
+
+Obiezione 3: Inoltre, sia l’uomo che l’angelo sono entrambi destinati alla [beatitudine](/positions/beatitude) o alla grazia. Tuttavia, l’uomo non riceve una maggiore quantità di grazia in base al grado dei suoi doni naturali; pertanto lo stesso vale per l’angelo.
+
+Al contrario, così afferma il Maestro delle Sentenze (Sentenze II, D, 3): “Quegli angeli che furono creati con nature più sottili e intelligenze più acute in materia di saggezza, furono altresì dotati di doni di grazia ancora maggiori”.
+
+Rispondo che è ragionevole supporre che i doni di grazia e la perfezione della beatitudine siano stati concessi agli angeli in base al grado dei loro doni naturali. La motivazione di ciò può essere ricavata da due fonti. In primo luogo, da parte di Dio, il quale, secondo l’ordine della sua saggezza, ha stabilito diversi gradi nella natura angelica. Poiché la natura angelica è stata creata da Dio per ottenere grazia e beatitudine, sembra che anche questi gradi siano stati disposti in relazione ai vari livelli di grazia e gloria; proprio come, ad esempio, quando un costruttore scolpisce le pietre per edificare una casa, il fatto che ne prepari alcune in modo più artistico e appropriato rispetto ad altre dimostra chiaramente che le destina alle parti più ornate dell’edificio. Così sembra che Dio abbia destinato agli angeli di natura superiore doni maggiori di grazia e una beatitudine più piena. In secondo luogo, lo stesso è evidente anche dal punto di vista degli angeli stessi: un angelo non è composto da diverse nature che possano ostacolarsi a vicenda, come avviene nell’uomo, dove il funzionamento della parte intellettiva può essere ritardato o ostacolato dalle inclinazioni della parte sensibile. Quando invece nulla ostacola il corso naturale delle cose, questa si manifesta con tutta la sua forza. Pertanto è ragionevole supporre che gli angeli di natura superiore si rivolgessero a Dio in modo più intenso ed efficace. Lo stesso accade negli uomini: doni maggiori di grazia e gloria vengono concessi in base alla maggiore dedizione con cui si rivolgono a Dio. Da ciò deriva che gli angeli dotati di poteri naturali più elevati possedessero anche una grazia e una gloria maggiori.
+
+Risposta all’Obiezione 1: Poiché la grazia deriva unicamente dalla volontà di Dio, allo stesso modo anche la natura dell’angelo è determinata da tale volontà; e poiché Dio ha disposto la natura affinché fosse strumento della grazia, ha altresì stabilito i diversi gradi della natura in relazione ai diversi gradi di grazia.
+
+Risposta all’Obiezione 2: Gli atti della creatura razionale derivano dalla stessa creatura; invece, la natura deriva direttamente da Dio. Pertanto, sembra più probabile che la grazia venga concessa in base al grado di natura posseduto da una persona, piuttosto che in base ai suoi atti.
+
+Risposta all’Obiezione 3: La diversità dei doni naturali esiste, da un lato, negli angeli, i quali sono essi stessi specificamente differenti tra loro; e, dall’altro lato, negli uomini, i quali differiscono soltanto in termini numerici. La differenza specifica deriva dal fine per cui tali doni sono dati; quella numerica, invece, dalla materia di cui sono fatti. Inoltre, nell’uomo esiste qualcosa che può ostacolare o impedire lo sviluppo della sua natura intellettiva; ciò non accade negli angeli. Pertanto, l’argomentazione non è la stessa per entrambi i casi.
+
 <span class="atom-split" data-atom="069" data-title="Whether natural knowledge and love remain in the beatified angels?" data-chapter="Whether natural knowledge and love remain in the beatified angels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that natural knowledge and love do not remain in the beatified
@@ -3432,6 +4374,24 @@ Reply to Objection 3: There cannot be two operations of the one faculty at the o
 the one be ordained to the other. But natural knowledge and love are ordained to the knowledge
 and love of glory. Accordingly there is nothing to hinder natural knowledge and love from existing
 in the angel conjointly with those of glory.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la conoscenza naturale e l’amore non siano presenti negli angeli beati. Infatti si dice (1 Corinzi 13:10): “Quando verrà ciò che è perfetto, allora ciò che è solo parziale sarà eliminato”. Ma la conoscenza naturale e l’amore sono imperfetti rispetto alla conoscenza e all’amore beati. Pertanto, nella [beatazza](/positions/beatitude), la conoscenza naturale e l’amore cessano di esistere.
+
+Obiezione 2: Inoltre, quando uno è sufficiente, l’altro risulta superfluo. Ma la conoscenza e l’amore per la gloria sono sufficienti agli angeli beati; pertanto sarebbe superfluo che il loro sapere naturale e il loro amore rimanessero.
+
+Obiezione 3: Inoltre, la stessa facoltà umana non può compiere due atti simultaneamente, così come una stessa linea non può terminare in due punti nello stesso punto. Ma gli angeli beati esercitano costantemente la loro conoscenza e il loro amore beati; infatti, come si afferma nell’Etica I, 8, la felicità consiste non nell’abitudine, ma nell’atto. Pertanto, negli angeli non può mai esistere una conoscenza o un amore di natura.
+
+Al contrario, finché una natura esiste, il suo funzionamento continua. Ma la beatitudine non distrugge la natura, poiché essa ne rappresenta la perfezione; pertanto, non toglie né la conoscenza naturale né l’amore.
+
+Rispondo che la conoscenza naturale e l’amore rimangono negli angeli. Poiché i principi delle operazioni sono reciprocamente collegati, lo stesso vale per le operazioni stesse. È evidente che la natura è, rispetto alla beatitudine, come ciò che precede ciò che segue; infatti la beatitudine si aggiunge alla natura. Ma ciò che precede deve sempre essere conservato in ciò che segue. Pertanto, la natura deve essere conservata nella beatitudine; e allo stesso modo, l’atto della natura deve essere conservato nell’atto della beatitudine.
+
+Risposta all’Obiezione 1: L’avvento di una perfezione elimina l’imperfezione opposta. Ora, l’imperfezione della natura non è contraria alla perfezione della beatitudine, ma ne costituisce la base; così come l’imperfezione del potere costituisce la base della perfezione della forma, e il potere non viene eliminato dalla forma, bensì dalla privazione che le è opposta. Allo stesso modo, l’imperfezione della conoscenza naturale non è contraria alla perfezione della conoscenza nella gloria; infatti nulla ci impedisce di conoscere una cosa attraverso diversi mezzi, poiché una cosa può essere conosciuta contemporaneamente sia attraverso un mezzo probabile che attraverso uno dimostrativo. Allo stesso modo, un angelo può conoscere Dio attraverso la Sua essenza, e questa conoscenza appartiene alla sua conoscenza nella gloria; ma allo stesso tempo può anche conoscere Dio attraverso la propria essenza, il che rientra nella sua conoscenza naturale.
+
+Risposta all’Obiezione 2: Tutti gli elementi che compongono la beatitudine sono, di per sé, sufficienti a generarla. Tuttavia, affinché possano esistere, presuppongono la presenza dei doni naturali; poiché nessuna beatitudine è autonoma, tranne quella increata.
+
+Risposta all’Obiezione 3: Non può esserci due operazioni della stessa facoltà nello stesso momento, se non quando una di queste è destinata ad accompagnare l’altra. Ma la conoscenza naturale e l’amore sono destinate alla conoscenza e all’amore della gloria. Pertanto, nulla impedisce che nella mente dell’angelo esistano contemporaneamente sia la conoscenza naturale che l’amore, così come quelli relativi alla gloria.
 
 <span class="atom-split" data-atom="070" data-title="Whether a beatified angel can sin?" data-chapter="Whether a beatified angel can sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -3550,6 +4510,24 @@ reward. But it is better to say that the Blessed can in no wise merit without be
 a wayfarer and a comprehensor; like Christ, Who alone was such. For the Blessed acquire such joy
 from the virtue of their beatitude, rather than merit it.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli beati possano progredire nella [beatazza](/positions/beatitude), poiché la carità è il principio del merito. Ma negli angeli esiste una carità perfetta; pertanto, gli angeli beati possono meritare. Ora, poiché il merito aumenta, anche la ricompensa della beatitudine aumenta; quindi, gli angeli beati possono [progressare](/positions/progress) nella loro beatazza.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (De Doctrina Christiana i) che “Dio ci utilizza per il nostro stesso bene e per la Sua bontà; lo stesso accade agli angeli, i quali vengono impiegati per compiti spirituali”; poiché “tutti sono spiriti ministeriali, inviati a servire coloro che riceveranno l’eredità della salvezza” (Ebrei 1:14). Ciò non avverrebbe a loro vantaggio se non ne derivasse qualche merito, né li aiuterebbe ad avanzare verso la beatitudine. Pertanto, gli angeli beati possono meritare e possono progredire nella beatitudine.
+
+Obiezione 3: Inoltre, si sostiene che chi non occupa il posto più elevato non possa avanzare, il che indica imperfezione o difetto. Ma gli angeli non si trovano nel grado più alto di beatitudine; pertanto, se non fossero in grado di salire ulteriormente, ciò significherebbe che in loro esistono imperfezioni e difetti, il che è inaccettabile.
+
+Al contrario, il merito e il progresso appartengono a questa condizione attuale di vita. Ma gli angeli non sono viaggiatori diretti verso la beatitudine: essi già ne possiedono la natura. Pertanto, gli angeli beati non possono né meritarsela né progredire ulteriormente nella beatitudine.
+
+Rispondo che, in ogni movimento, l’intenzione del soggetto motore è rivolta verso un fine preciso, verso il quale intende guidare l’oggetto mosso; poiché l’intenzione mira sempre a un fine, e qualsiasi progresso infinito sarebbe contraddittorio rispetto a tale scopo. Ora è evidente che, poiché la creatura razionale non può, con le sue sole forze, raggiungere la sua beatitudine – che consiste nella visione di Dio – come è chiaro da quanto detto in precedenza (Q[12], A[4]), essa ha bisogno di essere guidata da Dio verso tale beatitudine. Pertanto deve esistere qualcosa di determinato verso cui ogni creatura razionale sia diretta come verso il suo fine ultimo. Questo oggetto determinato, nella visione di Dio, non può consistere esattamente in ciò che viene effettivamente visto; poiché la Verità Suprema è percepita da tutte le creature beate in gradi diversi. Tuttavia, riguardo al modo stesso con cui questa visione avviene, i vari aspetti vengono già determinati in anticipo dall’intenzione di Colui che guida verso il fine ultimo. È infatti impossibile che, mentre la creatura razionale viene guidata verso la visione dell’Essenza Suprema, lo stesso avvenga nello stesso modo per quanto riguarda il modo supremo di questa visione, ovvero la comprensione; poiché questo appartiene esclusivamente a Dio, come è stato chiarito in precedenza (Q[12], A[7]; Q[14], A[3]). Tuttavia, poiché per comprendere Dio è necessaria un’efficacia infinita, mentre l’efficacia della creatura nel contemplare è soltanto finita; e poiché ogni essere finito si trova a distanze infinite dall’infinito, ne consegue che la creatura razionale comprende Dio in modo più o meno chiaro, a seconda di tali differenze. E poiché la beatitudine consiste nella visione, anche il grado stesso di questa visione dipende da un determinato modo di percepire. Pertanto, ogni creatura razionale viene guidata da Dio verso il fine della sua beatitudine; e grazie alla [predestinazione](/concepts/predestination) divina, raggiunge effettivamente un certo grado di beatitudine. Una volta ottenuto questo grado, non può più avanzare verso uno più elevato.
+
+Risposta all’Obiezione 1: Il merito appartiene a un soggetto che si dirige verso il proprio fine. Ora, la creatura razionale è spinta verso il proprio fine non solo in modo passivo, ma anche attraverso un’azione attiva. Se il fine rientra nelle possibilità della creatura razionale, allora la sua azione viene considerata efficace nel raggiungere tale fine; come quando l’uomo acquisisce conoscenza attraverso la riflessione. Ma se il fine è al di fuori delle sue capacità e deve essere cercato altrove, allora l’azione sarà meritevole soltanto in relazione a quel fine specifico. Tuttavia, ciò che già esiste nel termine finale non viene considerato “spinto” verso quel fine, ma piuttosto “già raggiunto”. Pertanto, il merito appartiene alla carità imperfetta di questa vita; mentre la carità perfetta non merita nulla, ma riceve direttamente la ricompensa. Proprio come nelle abitudini acquisite: l’atto che precede lo sviluppo dell’abitudine ne è la causa; mentre l’atto che segue lo sviluppo di un’abitudine acquisita è sia perfetto che gratificante. Allo stesso modo, l’atto della carità perfetta non possiede alcuna qualità di merito, ma appartiene piuttosto alla perfezione stessa della ricompensa ricevuta.
+
+Risposta all’Obiezione 2: Una cosa può essere definita utile in due modi. In primo luogo, come mezzo per raggiungere un fine; ed è proprio in questo senso che il merito legato alla beatitudine è considerato utile. In secondo luogo, come elemento che contribuisce al funzionamento del tutto; così come il muro contribuisce alla costruzione di una casa. In questo modo, i servizi resi dagli angeli sono utili per gli angeli beati, poiché rappresentano una parte integrante della loro stessa beatitudine; infatti, donare agli altri la perfezione acquisita è proprio ciò che caratterizza ciò che è perfetto.
+
+Risposta all’Obiezione 3: Sebbene un angelo beato non si trovi assolutamente nel grado più alto di beatitudine, tuttavia, per quanto riguarda se stesso, è effettivamente nel grado più alto, secondo la predestinazione divina. Tuttavia, la gioia degli angeli può aumentare in relazione alla salvezza di coloro che vengono salvati grazie alle loro azioni di aiuto, come si legge in Luca 15:10: “Ci sarà grande gioia tra gli angeli di Dio quando un peccatore si pentirà”. Tale gioia appartiene alla loro ricompensa accidentale, la quale può aumentare fino al giorno del giudizio. Pertanto alcuni autori affermano che i beati possano meritarsi tale ricompensa; tuttavia è più corretto dire che i beati non possono in alcun modo meritarla, se non sono allo stesso tempo “viandanti nel cammino della perfezione” e “comprensori della verità”; proprio come Cristo, l’unico ad essere stato tale. Infatti, i beati ricevono questa gioia grazie alla virtù della loro beatitudine, piuttosto che meritarla con i propri sforzi.
+
 <span class="atom-split" data-atom="072" data-title="THE MALICE OF THE ANGELS WITH REGARD TO SIN (NINE ARTICLES)" data-chapter="THE MALICE OF THE ANGELS WITH REGARD TO SIN (NINE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 In the next place we must consider how angels became evil: first of all with regard to the evil
@@ -3566,6 +4544,19 @@ creation by an act of his own will?
 (7) Was the highest of them who fell, absolutely the highest among the angels?
 (8) Was the sin of the foremost angel the cause of the others sinning?
 (9) Did as many sin as remained steadfast?
+
+<span class="qlang-split" data-lang="it"></span>
+
+In secondo luogo, dobbiamo considerare in che modo gli angeli divennero malvagi: innanzitutto riguardo al male derivante dai loro errori; e in secondo luogo, riguardo al male legato alle punizioni. All’interno della prima categoria vi sono nove punti da esaminare:  
+(1) Può esistere un male derivante dagli errori negli angeli?  
+(2) Quali tipi di peccati possono commettere gli angeli?  
+(3) Cosa cercavano gli angeli commettendo peccati?  
+(4) Supponendo che alcuni siano diventati malvagi a causa di peccati compiuti volontariamente, ce n’è qualcuno che sia naturalmente malvagio?  
+(5) Se non è così, è possibile che uno di loro diventi malvago nel primo istante della sua creazione, attraverso un atto della propria volontà?  
+(6) Se ciò non fosse possibile, esiste qualche intervallo tra la sua creazione e la sua caduta?  
+(7) L’angelo più alto tra quelli che caddero era davvero il più alto di tutti gli angeli?  
+(8) Il peccato dell’angelo che per primo cadde fu la causa del peccato degli altri?  
+(9) Tutti coloro che rimasero fedeli non commisero alcun peccato?
 
 <span class="atom-split" data-atom="073" data-title="Whether the evil of fault can be in the angels?" data-chapter="Whether the evil of fault can be in the angels?" data-kind="atom" data-srclang="en"></span>
 
@@ -3631,6 +4622,28 @@ but merely absence of consideration of the things which ought to be considered. 
 angel sinned, by seeking his own good, from his own free-will, insubordinately to the rule of the
 Divine will.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che negli angeli non possa esistere alcun male derivante da una qualche imperfezione o difetto. Infatti, il male può esistere soltanto nelle cose che si trovano in uno stato di [potenzialità](/concepts/act_potency), come afferma il Filosofo (Metafisica, IX, testo 19), poiché l’oggetto della privazione è necessariamente un essere in potenzialità. Ma gli angeli non sono esseri in potenzialità, poiché sono forme perfette e reali; pertanto, in loro non può esistere alcun male.
+
+Obiezione 2: Inoltre, gli angeli sono superiori ai corpi celesti. Ma i filosofi affermano che nei corpi celesti non possa esistere il male; pertanto, nemmeno negli angeli può esserci.
+
+Obiezione 3: Inoltre, ciò che è naturale per una cosa è sempre presente in essa. Ma è naturale per gli angeli essere mossi dal sentimento d’amore verso Dio; pertanto, tale amore non può essere loro tolto. E poiché nell’amare Dio non commettono peccati, ne consegue che gli angeli non possono peccare.
+
+Obiezione 4: Inoltre, il desiderio riguarda soltanto ciò che è buono o apparentemente buono. Ora, per gli angeli non può esistere nulla di apparentemente buono che non sia anche veramente buono; poiché in loro non può esserci alcun errore, almeno prima di commettere un peccato. Pertanto, gli angeli possono desiderare soltanto ciò che è veramente buono. Ma nessuno pecca desiderando ciò che è veramente buono. Di conseguenza, nemmeno l’angelo pecca per desiderio.
+
+Al contrario, si dice (Giobbe 4:18): “Nei suoi angeli ha trovato la malvagità”.
+
+Rispondo che un angelo o qualsiasi altra creatura razionale, considerata nella sua natura originale, può peccare; mentre per quelle creature a cui non è propria la capacità di peccare, tale facoltà costituisce un dono della grazia divina, e non deriva dalla loro condizione naturale. Il motivo di ciò è che il peccato non è altro che una deviazione da quella rettitudine che un atto dovrebbe possedere, sia che si tratti di un atto legato alla natura, all’arte o alle norme morali. Unico elemento in grado di garantire la rettitudine di un atto è la volontà stessa del soggetto che lo compie, poiché essa rappresenta il fondamento stesso della virtù dell’agente. Se la mano dell’artigiano fosse essa stessa il criterio con cui si valuta la correttezza dei suoi lavori, non potrebbe mai realizzare incisioni errate; tuttavia, se la rettitudine di un’incisione viene giudicata secondo un altro standard, allora tale incisione può risultare corretta o errata. La volontà divina, dunque, è l’unico criterio che guida le azioni di Dio, poiché non si riferisce a alcun fine superiore. Ogni volontà creata, invece, possiede una certa rettitudine nell’agire soltanto nella misura in cui è regolata dalla volontà divina, che rappresenta l’obiettivo finale da perseguire; così come ogni desiderio di un essere subordinato deve essere guidato dalla volontà del suo superiore. Solo nella volontà divina, dunque, non può esistere il peccato; mentre nelle volontà delle altre creature, considerata la loro condizione naturale, il peccato è possibile.
+
+Risposta all’Obiezione 1: Negli angeli non esiste alcuna potenzialità di esistenza naturale. Tuttavia, nella loro parte intellettiva esiste una certa potenzialità, nel senso che sono inclini verso questo o quell’oggetto. In questo contesto, può esserci del male in loro.
+
+Risposta all’Obiezione 2: I corpi celesti sono soggetti unicamente a un’azione naturale. Pertanto, poiché nella loro natura non può esistere alcun male legato alla corruzione, allo stesso modo non può esserci alcun male derivante da disordini nell’ambito delle loro azioni naturali. Tuttavia, oltre a queste azioni naturali, esiste anche l’azione della libera volontà negli angeli; proprio per questo motivo in loro può sorgere il male.
+
+Risposta all’Obiezione 3: È naturale che l’angelo si rivolga a Dio per movimento d’amore, poiché Dio è il principio della sua essenza naturale. Tuttavia, il fatto che si rivolga a Dio come oggetto di una [beatazza](/positions/beatitude) soprannaturale deriva da un amore infuso in lui; tale amore, però, potrebbe essere allontanato dal peccato.
+
+Risposta all’Obiezione 4: Il peccato mortale si verifica in due modi nell’atto della libertà volontaria. Primo, quando viene scelto qualcosa di male; ad esempio, l’uomo pecca scegliendo l’adulterio, che è di per sé un atto malvagio. Un tale peccato deriva sempre dall’ignoranza o dall’errore; altrimenti ciò che è male non verrebbe mai scelto come bene. L’adultero commette un errore nel momento in cui sceglie, per inclinazione passionale o abitudine, di godere di un atto immorale considerandolo qualcosa di buono da compiere; anche se, in termini di giudizio generale, non sbaglia e mantiene un’opinione corretta su questo argomento. In questo modo, l’angelo non può peccare: poiché negli angeli non esistono passioni che possano vincolare la ragione o l’intelletto, come è stato chiarito in precedenza (Q[59], A[4]); inoltre, nessuna abitudine incline al peccato potrebbe precedere il loro primo atto peccaminoso. In un altro modo, il peccato deriva dalla libertà volontaria quando si sceglie qualcosa di buono in sé, ma non secondo misura o regola appropriata; in questo caso, l’errore risiede nella scelta stessa, che non segue criteri corretti, e non nell’oggetto scelto. Ad esempio, pregare senza rispettare l’ordine stabilito dalla Chiesa rappresenta un tale peccato. Un simile peccato non presuppone ignoranza, ma soltanto la mancanza di considerazione per ciò che dovrebbe essere tenuto in conto. In questo modo, anche l’angelo può peccare: quando cerca il proprio bene con la propria libertà volontaria, disobbedendo alle regole della volontà divina.
+
 <span class="atom-split" data-atom="074" data-title="Whether only the sin of pride and envy can exist in an angel?" data-chapter="Whether only the sin of pride and envy can exist in an angel?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there can be other sins in the angels besides those of pride and
@@ -3684,6 +4697,25 @@ envy is not to be taken for a passion, but for a will resisting the good of anot
 
 Reply to Objection 3: Under envy and pride, as found in the demons, are comprised all other
 sins derived from them.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra possibile che esistano altri peccati negli angeli, oltre a quelli di orgoglio e invidia. Infatti, chiunque possa provare piacere in qualche tipo di peccato può cadere effettivamente in quel peccato stesso. Ma i demoni provano piacere persino nelle oscenità dei peccati carnali; come afferma [Agostino](/figures/augustine) (De Civ. Dei xiv, 3). Pertanto, anche nei demoni possono esistere peccati carnali.
+
+Obiezione 2: Inoltre, poiché l’orgoglio e l’invidia sono peccati spirituali, lo stesso vale per la pigrizia, l’avarizia e l’[ira](/concepts/anger). Ma i peccati spirituali riguardano lo spirito, proprio come i peccati carnali riguardano il corpo. Pertanto, non solo gli angeli possono essere soggetti all’orgoglio e all’invidia, ma allo stesso modo anche alla pigrizia e all’avarizia.
+
+Obiezione 3: Inoltre, secondo Gregorio (Moralia, xxxi), molti vizi derivano dall’orgoglio; allo stesso modo, anche dall’invidia. Ma se la causa viene ammessa, ne consegue inevitabilmente l’effetto. Pertanto, se negli angeli possono esistere orgoglio e invidia, per lo stesso motivo possono esserci anche altri vizi in loro.
+
+Al contrario, Agostino afferma (De Civ. Dei xiv, 3) che il diavolo “non è un adultero né un ubriaco, né nulla del genere; tuttavia è orgoglioso e invidioso”.
+
+Rispondo che il peccato può esistere in un essere umano in due modi: innanzitutto attraverso la colpa effettiva, e in secondo luogo attraverso un certo tipo di desiderio o affetto. Per quanto riguarda la colpa, tutti i peccati appartengono ai demoni; poiché, inducendo gli uomini al peccato, essi si rendono responsabili di tutti i peccati commessi. Ma per quanto riguarda l’affetto, solo quei peccati possono esistere nei demoni che sono di natura spirituale. Ora, una natura spirituale non può essere influenzata da piaceri legati al corpo, ma soltanto da ciò che è in armonia con le cose spirituali; poiché nulla può essere influenzato se non in relazione a qualcosa che sia in qualche modo adatto alla sua natura. Tuttavia, non può esserci peccato quando qualcuno viene spinto verso il bene dell’ordine spirituale, a meno che in tale desiderio non venga trasgredita la regola del superiore. Proprio questo è il peccato dell’orgoglio: rifiutarsi di sottomettersi a un superiore quando tale sottomissione è dovuta. Pertanto, il primo peccato dell’angelo non può essere altro che l’orgoglio.  
+Tuttavia, da ciò deriva anche la possibilità che nell’angelo esistesse anche l’invidia; poiché il desiderio di possedere qualcosa comporta necessariamente una resistenza verso tutto ciò che è contrario a tale desiderio. L’invidioso rimpiange il bene posseduto da un altro, ritenendo che tale bene rappresenti un ostacolo per il proprio. Ma il bene altrui non potrebbe essere considerato un ostacolo per il bene che l’angelo malvagio brama, se non nel caso in cui tale desiderio riguardi una qualche forma di eccellenza particolare; un’eccellenza che, però, cesserebbe di essere tale se esistesse un’altra eccellenza ancora maggiore. Così, dopo il peccato dell’orgoglio, seguì il male dell’invidia nell’angelo peccatore: egli rimpiangeva il bene umano, nonché l’eccellenza divina, poiché Dio utilizzava l’uomo per la sua gloria, contro la volontà del diavolo.
+
+Risposta all’Obiezione 1: I demoni non provano piacere nelle oscenità dei peccati della carne, come se anch’essi fossero inclini ai piaceri carnali; è soltanto per invidia che trovano soddisfazione in ogni sorta di peccato umano, nella misura in cui questi rappresentano un ostacolo al bene dell’uomo.
+
+Risposta all’Obiezione 2: L’avarizia, considerata come un tipo particolare di peccato, è la brama smodata di possedere beni materiali utili alla vita umana e che possono essere valutati in termini di denaro; tali desideri non sono affatto presenti nei demoni, così come non lo sono i piaceri carnali. Pertanto, l’avarizia nel senso proprio del termine non può esistere in loro. Tuttavia, se si definisce “avarizia” qualsiasi brama smodata di possedere beni creati, allora l’avarizia rientrerebbe nella categoria dell’orgoglio tipico dei demoni. L’ira e la concupiscenza implicano passioni; pertanto possono esistere soltanto in senso metaforico nei demoni. La pigrizia, invece, è una sorta di tristezza che rende l’uomo lento nelle pratiche spirituali, poiché queste stesse affaticano il corpo; tale caratteristica non si applica ai demoni. È evidente quindi che orgoglio ed invidia siano gli unici peccati spirituali presenti nei demoni; tuttavia, l’invidia non deve essere considerata una passione, ma piuttosto una volontà che si oppone al bene altrui.
+
+Risposta all’Obiezione 3: L’invidia e l’orgoglio, come presenti nei demoni, comprendono tutti gli altri peccati che ne derivano.
 
 <span class="atom-split" data-atom="075" data-title="Whether the devil desired to be as God?" data-chapter="Whether the devil desired to be as God?" data-kind="atom" data-srclang="en"></span>
 
@@ -3744,6 +4776,20 @@ furthermore that he sought to have dominion over others; wherein he also pervers
 like unto God.
 From this we have the answer to all the objections.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il diavolo non desiderasse essere come Dio. Infatti, ciò che non cade nell’ambito della comprensione umana non può nemmeno essere oggetto di desiderio; poiché il bene, quando viene percepito o compreso, suscita un appetito – sia esso sensibile, razionale o intellettuale – e il peccato consiste proprio in tale desiderio. Tuttavia, che una qualsiasi creatura possa essere alla pari di Dio non rientra nell’ambito della comprensione umana, poiché ciò implicherebbe una contraddizione: se ciò che è finito potesse essere paragonato a ciò che è infinito, allora anche quella creatura sarebbe infinita. Pertanto, un angelo non potrebbe desiderare di essere come Dio.
+
+Obiezione 2: Inoltre, lo scopo naturale può sempre essere desiderato senza peccare. Ma essere simili a Dio è lo scopo verso cui ogni creatura tende naturalmente. Pertanto, se un angelo avesse desiderato essere come Dio, non per uguaglianza ma per somiglianza, sembrerebbe che in tal modo non avrebbe commesso peccato.
+
+Obiezione 3: Inoltre, l’angelo fu creato con una maggiore pienezza di saggezza rispetto all’uomo. Ma nessun uomo, tranne un idiota, sceglierebbe mai di essere alla stessa parianza di un angelo, figuriamoci di Dio; poiché la scelta riguarda soltanto ciò che è possibile e su cui si può deliberare. Pertanto, ancora meno l’angelo potrebbe aver peccato desiderando di essere come Dio.
+
+Al contrario, si dice che il diavolo, nel libro di Isaia (14:13,14), affermi: “Salirò in cielo. Sarò come il Supremo”. E [Agostino](/figures/augustine) (De Quodlibet Vetus Testamentum, cxiii) sostiene che, “invaso dall’orgoglio, desiderasse essere chiamato Dio”.
+
+Rispondo che, senza dubbio, l’angelo peccò cercando di essere come Dio. Ma ciò può essere inteso in due modi: primo, in termini di uguaglianza; secondo, in termini di somiglianza. Non poteva cercare di essere come Dio nel primo senso, poiché con la conoscenza naturale sapeva che questo era impossibile; inoltre, prima del suo primo atto peccaminoso non esisteva alcuna abitudine né passione che potesse guidarlo a scegliere ciò che era impossibile. E anche ammesso che fosse possibile, sarebbe stato contrario al desiderio naturale di ogni essere: poiché in tutto esiste il desiderio innato di preservare la propria natura, e questa non verrebbe conservata se venisse trasformata in un’altra. Pertanto, nessuna creatura di ordine inferiore può mai desiderare il livello di una natura superiore; proprio come un asino non desidera diventare un cavallo: poiché, se ciò accadesse, cesserebbe di essere sé stesso. Tuttavia, l’immaginazione ci inganna in questo senso; si può pensare che, poiché un uomo cerca di raggiungere un livello più alto riguardo a qualità accidentali che possono aumentare senza distruggere la sua essenza, possa anche cercare di raggiungere un livello più alto di natura, al quale non potrebbe arrivare senza cessare di esistere. Ora è evidente che Dio supera gli angeli non solo in termini di qualità accidentali, ma anche di grado di natura; e un angelo è diverso dall’altro. Pertanto, è impossibile per un angelo di ordine inferiore desiderare l’uguaglianza con uno di ordine superiore; e ancora meno desiderare l’uguaglianza con Dio.  
+Desiderare di essere come Dio in termini di somiglianza può avvenire in due modi. In un modo, riguardo a quella somiglianza grazie alla quale tutto è fatto per assomigliare a Dio. E quindi, se qualcuno desidera in questo modo essere simile a Dio, non commette peccato; purché tale desiderio sia orientato nella giusta direzione, cioè affinché possa essere realizzato attraverso Dio stesso. Ma commetterebbe peccato se desiderasse essere simile a Dio anche nel modo corretto, cioè con le proprie forze e non con il potere di Dio. In un altro modo, si può desiderare di essere simili a Dio in qualche aspetto che non è naturale per noi; come se si desiderasse creare cielo e terra, cosa che appartiene esclusivamente a Dio; in questo caso vi sarebbe peccato. Fu in questo modo che il diavolo desiderò essere come Dio. Non perché volesse assomigliare a Dio senza sottoporsi ad alcuno altro; poiché ciò significherebbe desiderare la propria “non-esistenza”, poiché nessuna creatura può esistere se non in relazione a Dio. Ma desiderava assomigliare a Dio in questo aspetto: cercando, come fine ultimo della sua beatitudine, qualcosa che potesse ottenere con le forze della propria natura, allontanando così il proprio desiderio dalla beatitudine soprannaturale che può essere raggiunta solo per grazia divina. Oppure, se desiderava come fine ultimo quella somiglianza a Dio che viene conferita dalla grazia, cercava di ottenerla con le proprie forze e non con l’aiuto divino secondo il disegno di Dio stesso. Ciò è in accordo con l’opinione di Anselmo, il quale dice nel *De casu diaboli*, IV, che “il diavolo cercava ciò a cui avrebbe potuto aspirare”.
+“Come avrebbe potuto rimanere fermo nella sua decisione?” Questi due punti di vista, in un certo senso, coincidono: secondo entrambi, egli cercava di ottenere la beatitudine finale attraverso le proprie forze, mentre ciò è riservato esclusivamente a Dio. Poiché ciò che esiste per sé stesso è la causa di ciò che esiste grazie ad altro, ne consegue ulteriormente che egli cercava di dominare gli altri; in questo modo, desiderava anche in modo distorto essere simile a Dio. Da tutto ciò otteniamo la risposta a tutte le obiezioni.
+
 <span class="atom-split" data-atom="076" data-title="Whether any demons are naturally wicked?" data-chapter="Whether any demons are naturally wicked?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that some demons are naturally wicked. For Porphyry says, as
@@ -3790,6 +4836,24 @@ certain particular goods, with which certain evils are connected; thus the fox i
 has a natural inclination to do so with a certain skill coupled with deceit. Wherefore it is not evil
 in the fox to be sly, since it is natural to him; as it is not evil in the dog to be fierce, as Dionysius
 observes (De Div. Nom. iv).
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che alcuni demoni siano naturalmente malvagi. Infatti Porfirio afferma, come citato da [Agostino](/figures/augustine) (De Civ. Dei x, 11): “Esiste una classe di demoni dal carattere astuto, i quali fingono di essere dei e le anime dei morti”. Ma essere ingannatori significa essere malvagi. Pertanto, alcuni demoni sono naturalmente malvagi.
+
+Obiezione 2: Inoltre, poiché gli angeli sono creati da Dio, lo stesso vale per gli uomini. Tuttavia alcuni uomini sono naturalmente malvagi; di loro si dice (Sapienza 12:10): “La loro malvagità è naturale”. Pertanto, anche alcuni angeli potrebbero essere naturalmente malvagi.
+
+Obiezione 3: Inoltre, alcuni animali irrazionali possiedono per natura inclinazioni malvagie: ad esempio, la volpe è naturalmente astuta e il lupo è naturalmente avido; tuttavia, anch’essi sono creature di Dio. Pertanto, anche se i demoni sono creature di Dio, possono essere per natura malvagi.
+
+Al contrario, Dionisio afferma (Div. Nom. iv) che “i demoni non sono per natura malvagi”.
+
+Rispondo che tutto ciò che esiste, nella misura in cui esiste e possiede una natura specifica, tende naturalmente verso qualche bene; poiché proviene da un principio buono, e perché l’effetto di qualsiasi cosa ritorna sempre al suo principio originale. Ora, un bene particolare può talvolta essere associato a qualche male; ad esempio, il fuoco ha il male della distruzione delle cose; ma un bene universale non può mai essere collegato a alcun male. Pertanto, se qualcosa ha nella sua natura la tendenza verso un bene specifico, può naturalmente essere anche associato a qualche male; non come male in sé, ma in modo accidentale, poiché legato a quel bene particolare. Tuttavia, se qualcosa ha nella sua natura la tendenza verso il bene in generale, allora per sua stessa natura non può essere incline al male. È evidente che ogni natura intellettuale è orientata verso il bene in generale, verso ciò che può comprendere e che costituisce l’oggetto della volontà. Pertanto, poiché i demoni sono sostanze intellettuali, non possono affatto avere una tendenza naturale verso alcun male; di conseguenza, non possono essere per natura malvagi.
+
+Risposta all’Obiezione 1: Agostino rimprovera Porfirio per aver affermato che i demoni siano naturalmente ingannatori; egli stesso sostiene invece che non lo siano per natura, ma per propria volontà. Il motivo per cui Porfirio riteneva che i demoni fossero naturalmente ingannatori era che, secondo lui, i demoni sono esseri dotati di una natura sensibile. La natura sensibile tende verso un certo bene, e tale bene può essere collegato al male; pertanto, la natura sensibile dei demoni può avere una tendenza naturale verso il male, ma solo in modo accidentale, poiché il male è legato al bene.
+
+Risposta all’Obiezione 2: La malvagità di alcuni uomini può essere considerata “naturale”, sia a causa della [CONSUETUDINE](/concepts/custom), che rappresenta una sorta di “seconda natura”, sia in virtù della propensione innata della natura sensibile verso alcune passioni eccessive; si dice infatti che alcune persone siano per natura irascibili o lussuriose. Tuttavia, questa caratteristica non riguarda la natura intellettuale.
+
+Risposta all’Obiezione 3: Le bestie selvatiche possiedono, nella loro natura sensibile, un’inclinazione naturale verso certi beni specifici, ai quali sono legati alcuni mali; pertanto, la volpe, nel cercare il proprio cibo, ha un’inclinazione naturale a farlo con determinata abilità e astuzia. Non è quindi male che una volpe sia astuta, poiché ciò è naturale per lei; allo stesso modo, non è male che un cane sia feroce, come osserva Dionigi nel “De Divinis Nominibus” IV.
 
 <span class="atom-split" data-atom="077" data-title="Whether the devil was wicked by the fault of his own will in the first instant of his creation?" data-chapter="Whether the devil was wicked by the fault of his own will in the first instant of his creation?" data-kind="atom" data-srclang="en"></span>
 
@@ -3875,6 +4939,29 @@ as all were created in grace, all merited in their first instant. But some of th
 impediment to their beatitude, thereby destroying their preceding merit; and consequently they
 were deprived of the beatitude which they had merited.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il diavolo fosse malvagio già dal primo istante della sua creazione, a causa del suo stesso volere. Infatti, del diavolo si dice (Giovanni 8:44): “È stato un assassino fin dall’inizio”.
+
+Obiezione 2: Inoltre, secondo [Agostino](/figures/augustine) (Genesi ad litteram i, 15), la mancanza di forma nella creatura non precedette la sua formazione in termini temporali, ma soltanto in termini naturali. Secondo lui (Genesi ad litteram ii, 8), il “cielo”, che si dice sia stato creato all’inizio, indica la natura angelica ancora non completamente formata; quando si dice che Dio disse: “Sia fatta luce, e fu fatta la luce”, dobbiamo intendere con ciò la completa formazione degli angeli attraverso la Parola di Dio. Pertanto, la natura dell’angelo fu creata, e la luce fu generata, nello stesso istante. Ma nel momento stesso in cui la luce fu creata, divenne distinta dalla “oscurità”, termine con cui vengono indicati gli angeli che peccarono. Quindi, nel primo istante della loro creazione, alcuni angeli furono resi beati, mentre altri peccarono.
+
+Obiezione 3: Inoltre, il peccato è opposto al merito. Tuttavia, alcune entità intellettuali possono meritare qualcosa fin dal loro primo istante di creazione; come l’anima di Cristo o anche gli angeli buoni. Pertanto, anche i demoni potrebbero peccare fin dal loro primo istante di esistenza.
+
+Obiezione 4: Inoltre, la natura angelica è più potente della natura corporea. Ma una cosa corporea inizia a operare nel primo istante della sua creazione; così come il fuoco inizia ad ascendere nel primo istante in cui viene generato. Pertanto anche l’angelo avrebbe potuto iniziare a operare nel primo istante della sua creazione. Ora, questa azione poteva essere ordinata o disordinata. Se fosse stata ordinata, allora, poiché possedeva la grazia, ne avrebbe tratto merito e sarebbe stato beato. Ma negli angeli il premio segue immediatamente il merito, come è stato detto sopra (Q[62], A[5]). Di conseguenza, sarebbero diventati beati all’istante; e quindi non avrebbero mai peccato, il che è falso. Resta dunque che abbiano peccato attraverso azioni disordinate nel loro primo istante di esistenza.
+
+Al contrario, è scritto (Genesi 1:31): “Dio vide tutte le cose che aveva creato, e erano molto buone”. Ma tra queste cose c’erano anche i demoni. Pertanto, i demoni in un certo momento sono stati buoni.
+
+Rispondo che alcuni hanno sostenuto che i demoni fossero malvagi fin dal primo istante della loro creazione; non per natura, ma a causa del peccato compiuto con la propria volontà; poiché, non appena creati, il diavolo rifiutò la rettitudine. Secondo Agostino (De Civ. Dei xi, 13), chi aderisce a questa opinione non concorda con quegli eretici manichei che sostengono che la natura stessa del diavolo sia malvagia. Tuttavia, questa posizione è in contraddizione con l’autorità della Scrittura: il diavolo viene infatti descritto come “principe di Babilonia” (Isaia 14:12) e come “re di Tiro” (Ezechiele 28:13), termini che indicano chiaramente la sua natura originariamente buona. Pertanto, questa opinione è stata giustamente rifiutata dagli studiosi come errata. Altri hanno affermato che gli angeli, nel primo istante della loro creazione, avrebbero potuto peccare, ma non lo fecero. Tuttavia anche questa visione viene contestata da alcuni: quando due azioni seguono l’una dopo l’altra, sembra impossibile che entrambe avvengano nello stesso istante. Ora è chiaro che il peccato dell’angelo fu un atto successivo alla sua creazione; ma il momento della creazione coincide con la stessa esistenza dell’angelo, mentre il momento del peccato rappresenta uno stato di malvagità. Pertanto, sembra impossibile che l’angelo possa essere stato malvagio fin dal primo istante della sua esistenza. Tuttavia, questo argomento non è convincente: esso vale soltanto per azioni che avvengono nel tempo e in modo successivo; quindi, se un cambiamento segue un altro, entrambi non possono verificarsi nello stesso istante. Ma se i cambiamenti sono istantanei, allora sia il primo che il secondo possono avvenire contemporaneamente. La creazione, come pure l’esercizio della libertà di volontà negli angeli, sono processi istantanei; quindi non c’è nulla che impedisca che entrambi avvengano nello stesso istante. Dobbiamo quindi rispondere che, al contrario, è impossibile che un angelo pecchi fin dal primo istante della sua esistenza attraverso un atto di volontà malvagia. Poiché, anche se una cosa può iniziare ad agire nel momento della sua creazione, quell’atto deriva dalla natura stessa dell’ente creato; così come il movimento verso l’alto del fuoco deriva dalla sua causa produttiva. Pertanto, se qualcosa deriva da una causa difettosa e può compiere un atto difettoso, allora è possibile che in quel primo istante compia tale atto. Ma poiché la natura stessa dell’angelo è buona, è impossibile che pecchi fin dal suo stesso inizio.
+Zoppicante. Ma l’agente che ha portato gli angeli all’esistenza, cioè Dio, non può essere la causa del peccato. Pertanto, non si può affermare che il diavolo fosse malvagio nel primo istante della sua creazione.
+
+Risposta all’Obiezione 1: Come afferma Agostino (De Civ. Dei xi, 15), quando si dice che “il diavolo pecca fin dall’inizio”, non bisogna intendere che pechi dal momento della sua creazione, ma dal momento stesso in cui ha commesso il primo peccato; in altre parole, perché non ha mai smesso di peccare.
+
+Risposta all’Obiezione 2: Quella distinzione tra luce e oscurità, attraverso la quale i peccati dei demoni vengono indicati con il termine “oscurità”, deve essere intesa come derivante dalla prescienza di Dio. Pertanto Agostino afferma (De Civ. Dei xi, 15) che “Solo Lui poteva distinguere tra luce e oscurità, poiché solo Lui poteva prevedere, prima che cadessero, coloro che avrebbero peccato”.
+
+Risposta all’Obiezione 3: Tutto ciò che merita lode proviene da Dio; pertanto, un angelo potrebbe meritarla fin dal primo istante della sua creazione. Lo stesso ragionamento non vale per il peccato, come è stato già detto.
+
+Risposta all’Obiezione 4: Dio non fece distinzione tra gli angeli prima che alcuni di loro si allontanassero da Lui e altri si avvicinassero a Lui, come afferma Agostino (De Civitate Dei xi, 15). Pertanto, poiché tutti furono creati nella grazia, tutti meritavano la beatitudine fin dal loro primo istante di esistenza. Tuttavia, alcuni di loro posero immediatamente un ostacolo al proprio percorso verso la beatitudine, distruggendo così il merito che avevano acquisito; di conseguenza, furono privati della beatitudine che avevano meritato.
+
 <span class="atom-split" data-atom="078" data-title="Whether there was any interval between the creation and the fall of the angel?" data-chapter="Whether there was any interval between the creation and the fall of the angel?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there was some interval between the angel's creation and his
@@ -3933,6 +5020,28 @@ by their morning knowledge while others, absorbed in themselves, became night, "
 pride," as Augustine says (Gen. ad lit. iv, 24). Hence the first act was common to them all; but in
 their second they were separated. Consequently they were all of them good in the first instant; but
 in the second the good were set apart from the wicked.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che ci sia stato un certo lasso di tempo tra la creazione dell’angelo e la sua caduta. Infatti, si dice (Ezechiele 28:15): “Tu hai camminato in modo perfetto nei tuoi percorsi, dal giorno della tua creazione fino a quando non fu trovata in te l’iniquità”. Ma poiché “camminare” significa un movimento continuo, è necessario che ci sia stato un intervallo di tempo. Pertanto, deve esserci stato un certo lasso di tempo tra la creazione del diavolo e la sua caduta.
+
+Obiezione 2: Inoltre, Origene afferma (Hom. i in Ezech.) che “il serpente di un tempo non camminava fin dall’inizio sul proprio petto e sulla propria pancia”; ciò si riferisce al suo peccato. Pertanto, il diavolo non ha commesso peccato immediatamente dopo il primo istante della sua creazione.
+
+Obiezione 3: Inoltre, la capacità di peccare è comune sia all’uomo che all’angelo. Tuttavia, vi fu un certo ritardo tra la creazione dell’uomo e il suo peccato; pertanto, per lo stesso motivo, vi fu anche un certo intervallo tra la creazione del diavolo e il suo peccato.
+
+Obiezione 4: Inoltre, l’istante in cui il diavolo peccò era diverso dall’istante in cui fu creato. Ma c’è sempre un intervallo di tempo tra due istanti qualsiasi. Pertanto, esistette un lasso di tempo tra la sua creazione e la sua caduta.
+
+Al contrario, si dice del diavolo (Giovanni 8:44): “Non rimase nella verità”; e, come afferma [Agostino](/figures/augustine) (De Civ. Dei xi, 15), “dobbiamo intenderlo nel senso che egli si trovava nella verità, ma non vi rimase”.
+
+Rispondo che su questo punto esistono due opinioni diverse. Tuttavia, quella più probabile, e anche più in armonia con gli insegnamenti dei Santi, è che il diavolo abbia peccato fin dal primo istante della sua creazione. Questa tesi deve essere mantenuta se si ritiene che egli abbia compiuto un atto di libera volontà nel primo momento della sua esistenza e che sia stato creato nella grazia; come abbiamo già detto (Q[62], A[3]). Poiché gli angeli raggiungono la [beatazza](/positions/beatitude) attraverso un solo atto meritevole, come è stato affermato in precedenza (Q[62], A[5]), se il diavolo, creato nella grazia, avesse compiuto un atto meritevole fin dal primo istante, avrebbe immediatamente ricevuto la beatazza, se non fosse intervenuta l’ostacolo del peccato. Tuttavia, se si sostiene che l’angelo non sia stato creato nella grazia, o che non possa compiere un atto di libera volontà nel primo istante della sua esistenza, allora nulla impedisce che vi sia uno spazio di tempo tra la sua creazione e la sua caduta.
+
+Risposta all’Obiezione 1: A volte, nella Sacra [Scrittura](/concepts/revelation), i movimenti spirituali e istantanei vengono rappresentati attraverso movimenti corporei che possono essere misurati nel tempo. In questo modo, con il termine “camminare” si intende indicare il movimento del libero arbitrio orientato verso il bene.
+
+Risposta all’Obiezione 2: Origene afferma che “il serpente di un tempo non camminava sul proprio petto e sulla propria pancia fin dal principio”, poiché esisteva un primo istante in cui non era malvagio.
+
+Risposta all’Obiezione 3: Un angelo, una volta presa una decisione, possiede una volontà libera e inflessibile; pertanto, se, dopo il primo istante in cui provò un impulso naturale verso il bene, non avesse immediatamente posto un ostacolo al raggiungimento della beatitudine, sarebbe rimasto fedele al bene. Non è così per l’uomo; quindi, questo argomento non è valido.
+
+Risposta all’Obiezione 4: È vero affermare che esista un periodo di tempo intermedio tra ogni due istanti, nella misura in cui il tempo sia continuo, come dimostrato nella Fisica VI, testo 2. Tuttavia negli angeli, che non sono soggetti al movimento celeste misurato dal tempo continuo, per “tempo” si intende la successione dei loro atti mentali o delle loro emozioni. Pertanto, il primo istante degli angeli corrisponde all’atto attraverso cui la loro mente si introspeziona grazie alla conoscenza acquisita nel corso della notte; infatti, il primo giorno viene menzionato nella parte serale e non in quella mattutina. Questo processo era comune a tutti gli angeli; tuttavia, a seconda del modo in cui lo utilizzavano, alcuni di loro si dedicarono alla lode della Parola grazie alla conoscenza mattutina, mentre altri, assorbiti in sé stessi, divennero simboli dell’oscurità e dell’orgoglio, come afferma Agostino (Genesi ad litteram IV, 24). Quindi, l’atto iniziale fu comune a tutti; ma nel corso del loro percorso spirituale, i buoni furono separati dai cattivi.
 
 <span class="atom-split" data-atom="079" data-title="Whether the highest angel among those who sinned was the highest of all?" data-chapter="Whether the highest angel among those who sinned was the highest of all?" data-kind="atom" data-srclang="en"></span>
 
@@ -3993,6 +5102,24 @@ creature was so made by God, that it lies within its own will to act for its end
 Reply to Objection 3: However great was the inclination towards good in the highest angel,
 there was no necessity imposed upon him: consequently it was in his power not to follow it.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’angelo più nobile tra quelli che hanno peccato non fosse in realtà il più nobile di tutti. Infatti si legge (Ezechiele 28:14): “Eri un cherubino, disteso e protettore; ti ho posto sul monte sacro di Dio”. Ora, l’ordine dei Cherubini è inferiore a quello dei Serafini, come afferma Dionigi (Coel. Hier. VI, vii). Pertanto, l’angelo più nobile tra coloro che hanno peccato non era il più nobile di tutti.
+
+Obiezione 2: Inoltre, Dio ha creato la natura intellettuale affinché potesse raggiungere la [beatazza](/positions/beatitude). Pertanto, se anche l’angelo più nobile ha peccato, ne consegue che l’ordine divino è stato vanificato nella creatura più nobile, rendendola così inadatta al suo scopo originale.
+
+Obiezione 3: Inoltre, più un essere è incline verso qualcosa, meno può allontanarsene. Ma più alto è un angelo, maggiore è la sua inclinazione verso Dio; pertanto, tanto minore è la possibilità che si allontani da Dio peccando. Sembra quindi che l’angelo che ha peccato non fosse il più alto di tutti, ma uno degli angeli inferiori.
+
+Al contrario, Gregorio (Hom. xxxiv in Ev.) afferma che l’angelo principale che peccò, “essendo posto al comando di tutte le schiere angeliche, superava tutti per splendore e, per così dire, era il più illustre tra loro”.
+
+Rispondo che, quando si considera il peccato, sono necessarie due analisi: da un lato, la propensione al peccato stesso; dall’altro, il movente che spinge a commetterlo. Se quindi si esamina la propensione al peccato negli angeli, sembra evidente che gli angeli più elevati fossero meno inclini a peccare rispetto a quelli inferiori. Per questo motivo Damasceno afferma (De Fide Orthodossa ii) che l’angelo più alto tra coloro che hanno peccato fu posto al di sopra dell’ordine terrestre. Questa opinione sembra concordare con quella dei Platonici, citata da Agostino (De Civitate Dei vii, 6,7; x, 9,10,11): essi sostenevano che tutti gli dèi fossero buoni, mentre alcuni demoni erano buoni e altri cattivi; definivano “dèi” le entità intellettuali situate al di sopra della sfera lunare e “demoni” quelle situate al di sotto di essa, ma ancora superiori agli uomini nell’ordine naturale. Questa visione non può essere ritenuta contraria alla fede, poiché l’intera creazione corporea è governata da Dio attraverso gli angeli, come afferma Agostino (De Trinitate iii, 4,5). Pertanto, nulla vieta di considerare che gli angeli inferiori fossero destinati a governare i corpi più bassi, quelli superiori i corpi più elevati, e che l’angelo più alto stesse davanti a Dio. In questo senso Damasceno dice (De Fide Orthodossa ii) che coloro che caddero appartenevano al grado inferiore degli angeli; tuttavia, in quell’ordine, alcuni di loro rimasero buoni. Ma se si considera il movente del peccato, si scopre che esso era più forte negli angeli più elevati rispetto a quelli inferiori. Poiché, come già detto, il peccato dei demoni derivava dall’orgoglio, e il motivo dell’orgoglio è l’eccellenza, una qualità particolarmente presente negli spiriti più alti. Per questo Gregorio afferma che colui che peccò era proprio l’angelo più elevato di tutti. Questa sembra essere l’opinione più plausibile: poiché il peccato degli angeli non derivava da alcuna propensione innata, ma unicamente dalla libera scelta. Pertanto, questo argomento appare più convincente se si tiene conto del movente che spinge al peccato. Tuttavia, ciò non deve escludere l’altra possibilità: potrebbe esserci stato un motivo simile anche in colui che era il capo degli angeli inferiori.
+
+Risposta all’Obiezione 1: I cherubini vengono interpretati come “pienezza di conoscenza”, mentre i serafini significano “quelli che sono in fiamme” o “quelli che infuocano”. Pertanto, il termine “cherubino” deriva dalla conoscenza, il che è compatibile con il peccato mortale; invece, il termine “serafino” deriva dal calore dell’amore, il quale non è compatibile con il peccato mortale. Per questo motivo, l’angelo che ha commesso il primo peccato viene chiamato cherubino, e non serafino.
+
+Risposta all’Obiezione 2: L’intenzione divina non viene frustrata né in coloro che peccano, né in coloro che sono salvati; poiché Dio conosce in anticipo il fine di entrambi, e trae gloria da entrambi: salvando coloro per la Sua bontà e punendo coloro per la Sua giustizia. Tuttavia, la creatura intellettuale, quando pecca, si allontana dal proprio fine naturale. E ciò non è inappropriato per alcuna creatura nobile; poiché la creatura intellettuale è stata creata da Dio in modo tale che sia in suo potere agire secondo il proprio fine.
+
+Risposta all’Obiezione 3: Per quanto grande fosse la tendenza al bene nell’angelo più elevato, non esisteva alcuna necessità che lo costringesse ad agire secondo tale tendenza; pertanto gli era possibile non seguirla.
+
 <span class="atom-split" data-atom="080" data-title="Whether the sin of the highest angel was the cause of the others sinning?" data-chapter="Whether the sin of the highest angel was the cause of the others sinning?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the sin of the highest angel was not the cause of the others
@@ -4049,6 +5176,24 @@ retard his action, and with his whole might he is moved to whatsoever he is move
 bad. Consequently since the highest angel had greater natural energy than the lower angels, he fell
 into sin with intenser energy, and therefore he became the greater in malice.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il peccato dell’angelo più alto non sia stato la causa del peccare degli altri, poiché la causa precede l’effetto. Tuttavia, come osserva Damasceno (De Fide Orthodossa ii), tutti hanno peccato nello stesso momento; pertanto, il peccato di uno non può essere considerato la causa del peccare degli altri.
+
+Obiezione 2: Inoltre, il primo peccato di un angelo può essere soltanto l’orgoglio, come è stato dimostrato sopra (A[2]). Ma l’orgoglio cerca l’eccellenza; ora, per qualcuno essere soggetto a uno inferiore piuttosto che a uno superiore è certamente più contrario all’eccellenza. Pertanto, non sembra plausibile che gli angeli abbiano peccato desiderando essere soggetti a un angelo di rango superiore piuttosto che a Dio. Tuttavia, il peccato di un angelo avrebbe potuto essere la causa del peccato degli altri, se lo avesse indotto ad assumerne il dominio. Quindi, non sembra nemmeno plausibile che il peccato dell’angelo più alto sia stato la causa del peccato degli altri.
+
+Obiezione 3: Inoltre, è un peccato più grave desiderare di essere soggetti a un altro contro Dio, piuttosto che desiderare di dominare sugli altri contro Dio; poiché in questo secondo caso vi sono motivi meno forti per commettere peccato. Se quindi il peccato dell’angelo più alto fosse stato la causa del peccato degli altri, poiché li aveva indotti a sottomettersi a lui, allora gli angeli inferiori avrebbero peccato in modo ancora più grave di quello supremo; il che è contrario all’interpretazione del Salmo 103:26: “Questo drago che Tu hai creato. Colui che era più nobile degli altri per natura, divenne il più malvagio”. Pertanto, il peccato dell’angelo più alto non fu la causa del peccato degli altri.
+
+Al contrario, si dice (Apocalisse 12:4) che il drago “trascinò” con sé “la terza parte delle stelle del cielo”.
+
+Rispondo che il peccato dell’angelo più alto fu la causa del peccato degli altri; non nel senso di costringerli, ma piuttosto di indurli al male attraverso un certo tipo di esortazione. Un segno di ciò si trova nel fatto che tutti i demoni siano soggetti a quell’angelo supremo; come è evidente dalle parole del nostro Signore: “Andate via da Me, maledetti, nell’inferno eterno preparato per il diavolo e i suoi angeli” (Matteo 25:41). Infatti, l’ordine della giustizia divina richiede che chiunque acconsenta alle cattive suggestioni altrui debba subire la stessa punizione; come si legge in 2 Pietro 2:19: “Chi è vinto da qualcuno, diventa schiavo di quella stessa persona”.
+
+Risposta all’Obiezione 1: Sebbene tutti i demoni abbiano peccato nello stesso istante, il peccato di uno di loro poteva essere la causa del peccato degli altri. Infatti, l’angelo non ha bisogno di alcun ritardo nel tempo per prendere una decisione, esortare o consentire, a differenza dell’uomo, che necessita di riflessione prima di scegliere e di parole per esprimersi; entrambi questi processi richiedono il passaggio del tempo. È evidente inoltre che anche l’uomo inizia a parlare nel preciso istante in cui formula un pensiero, e che, nell’istante stesso in cui pronuncia quelle parole, qualcun altro può comprenderne il significato e accordarsi con ciò che è stato detto; questo è particolarmente vero per i concetti primari, “che tutti accettano immediatamente non appena vengono uditi” [*Boezio, De Hebdom.]. Pertanto, eliminando il tempo necessario a parlare e riflettere, nel preciso istante in cui l’angelo più alto esprimeva i propri sentimenti attraverso parole comprensibili, gli altri demoni potevano immediatamente accordarsi con lui.
+
+Risposta all’Obiezione 2: A parità di altre condizioni, il superbo preferirebbe essere soggetto a qualcuno di rango superiore piuttosto che inferiore. Tuttavia, sceglie di essere soggetto a qualcuno di rango inferiore se ciò gli permette di ottenere un vantaggio, cosa che non gli sarebbe possibile con una persona di rango superiore. Pertanto, non era contro la loro vanità il desiderio dei demoni di servire qualcuno di rango inferiore sottomettendosi al suo dominio; volevano infatti che quest’ultimo fosse il loro principe e leader, affinché potessero raggiungere la propria massima [beatitudine](/positions/beatitude) attraverso le loro stesse forze naturali. Inoltre, nella gerarchia della natura, i demoni erano già allora soggetti all’angelo più alto.
+
+Risposta all’Obiezione 3: Come è stato osservato sopra (Q[62], A[6]), un angelo non possiede nulla che possa ritardare la sua azione; con tutta la sua forza, viene spinto a compiere ciò che deve compiere, sia che si tratti di qualcosa di buono o di male. Pertanto, poiché l’angelo più alto possedeva un’energia naturale maggiore rispetto agli angeli inferiori, cadde nel peccato con una forza ancora maggiore e, di conseguenza, divenne il più malvagio tra tutti.
+
 <span class="atom-split" data-atom="081" data-title="Whether those who sinned were as many as those who remained firm?" data-chapter="Whether those who sinned were as many as those who remained firm?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that more angels sinned than stood firm. For, as the Philosopher
@@ -4086,6 +5231,22 @@ the ardor of love and from God's indwelling, which are not consistent with morta
 names of Cherubim, Powers, and Principalities are attributed to them; because these names are
 derived from knowledge and from power, which can be common to both good and bad.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che più angeli abbiano peccato che quelli rimasti fedeli alle loro principi. Infatti, come afferma il Filosofo (Etica, II, 6): “Il male è diffuso tra molti, mentre il bene è raro.”
+
+Obiezione 2: Inoltre, giustizia e peccato si trovano allo stesso modo negli uomini e negli angeli. Tuttavia, esistono più uomini malvagi che buoni; come afferma l’Ecclesiaste 1:15: “Il numero degli stolti è infinito”. Pertanto, per lo stesso motivo, vale anche per gli angeli.
+
+Obiezione 3: Inoltre, gli angeli sono distinti in base alle loro nature e ordini gerarchici. Pertanto, se più esseri angelici rimanessero fedeli ai loro principi, si potrebbe dedurre che coloro che hanno peccato non appartengano a tutti gli ordini angelici.
+
+Al contrario, si dice (4 Re 6:16): “Siamo in maggior numero di loro”; ciò si riferisce agli angeli buoni che sono al nostro fianco per aiutarci, e agli spiriti malvagi che sono i nostri nemici.
+
+Rispondo che più angeli rimasero fedeli alle loro leggi che non commisero peccati. Poiché il peccato è contrario alla tendenza naturale dell’uomo; mentre ciò che va contro l’ordine naturale accade con minore frequenza, poiché la natura riesce sempre, o comunque nella maggior parte dei casi, a realizzare i propri effetti.
+
+Risposta all’Obiezione 1: Il filosofo parla degli uomini, per i quali il male sorge dal desiderio di piaceri sensibili, conosciuti dalla maggior parte delle persone, e dal rifiuto del bene indicato dalla ragione, un bene conosciuto soltanto da pochi. Negli angeli esiste soltanto una natura intellettuale; pertanto questo argomento non è applicabile a loro. E da ciò deriva anche la risposta alla seconda difficoltà.
+
+Risposta all’Obiezione 3: Secondo coloro che ritengono che il diavolo principale appartenesse al grado inferiore degli angeli, incaricati delle faccende terrene, è evidente che non tutti gli angeli di ogni ordine siano caduti, ma soltanto quelli del grado più basso. Secondo coloro che sostengono invece che il diavolo principale appartenesse al grado più alto, è probabile che alcuni angeli di ogni ordine siano caduti; proprio come gli esseri umani sono distribuiti in tutti i gradi angelici per compensare la loro rovina. Secondo questa visione, la libertà della volontà umana appare ancora più consolidata; essa, infatti, può essere utilizzata a fini malvagi in ogni livello di creatura. Tuttavia, nelle Sacre [Scritture](/concepts/revelation), i nomi di alcuni ordini angelici, come Serafimi e Troni, non vengono attribuiti ai demoni; poiché tali nomi derivano dall’ardore dell’amore e dalla presenza di Dio in loro, caratteristiche che non sono compatibili con il peccato mortale. Al contrario, i nomi di Cherubini, Poteri e Principati vengono attribuiti ai demoni; poiché questi nomi derivano dalla conoscenza e dal potere, qualità che possono essere possedute sia da esseri buoni che da esseri malvagi.
+
 <span class="atom-split" data-atom="082" data-title="THE PUNISHMENT OF THE DEMONS (FOUR ARTICLES)" data-chapter="THE PUNISHMENT OF THE DEMONS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 It now remains as a sequel to deal with the punishment of the demons; under which heading
@@ -4094,6 +5255,14 @@ there are four points of inquiry:
 (2) Of their obstinacy of will;
 (3) Of their grief;
 (4) Of their place of punishment.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora rimane da trattare, come sequela, la questione della punizione dei demoni; sotto questa rubrica vi sono quattro punti di indagine:  
+(1) La loro mancanza di intelletto;  
+(2) La loro ostinazione di volontà;  
+(3) Il loro dolore;  
+(4) Il luogo della loro punizione.
 
 <span class="atom-split" data-atom="083" data-title="Whether the demons' intellect is darkened by privation of the knowledge of all truth?" data-chapter="Whether the demons' intellect is darkened by privation of the knowledge of all truth?" data-kind="atom" data-srclang="en"></span>
 
@@ -4200,6 +5369,32 @@ species is completed in individual things, they know some things as present, whi
 did not know would come to pass, as we said when dealing with the knowledge of the angels (Q[57],
 A[3], ad 3).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’intelligenza dei demoni venga oscurata dalla privazione della conoscenza di ogni verità. Se infatti conoscessero anche solo una qualche verità, conoscerebbero soprattutto se stessi, cioè le sostanze separate. Ma ciò non è in accordo con la loro sfortuna: tale conoscenza sembrerebbe infatti appartenere a una grande felicità; anzi, alcuni autori hanno considerato proprio la conoscenza delle sostanze separate come l’ultima forma di felicità umana. Pertanto, i demoni sono privati di ogni conoscenza della verità.
+
+Obiezione 2: Inoltre, ciò che è più evidente nella sua natura sembra essere particolarmente chiaro agli angeli, sia buoni che cattivi. Il fatto che questa verità non sia evidente per noi deriva dalla debolezza del nostro intelletto, il quale trae la propria conoscenza dagli immaginari; allo stesso modo, come l’occhio debole dell’uccello notturno non può vedere la luce del sole, così anche il nostro intelletto limitato non è in grado di comprendere pienamente le realtà supreme. Tuttavia, i demoni non possono conoscere Dio, che è la verità suprema stessa; ciò avviene perché non hanno un cuore puro, e soltanto attraverso un cuore puro si può realmente vedere Dio. Pertanto, nemmeno essi sono in grado di comprendere altre realtà.
+
+Obiezione 3: Inoltre, secondo [Agostino](/figures/augustine) (Genesi ad litteram iv, 22), la vera conoscenza degli angeli è di due tipi: quella mattutina e quella serale. Ma i demoni non possiedono alcuna conoscenza mattutina, poiché non vedono le cose attraverso la Parola; né possiedono alcuna conoscenza serale, poiché tale conoscenza mira a lodare il Creatore (da qui, dopo “serale” viene menzionato “mattutino” [Genesi 1]). Pertanto, i demoni non possono avere alcuna conoscenza delle cose.
+
+Obiezione 4: Inoltre, gli angeli, al momento della loro creazione, conoscevano il mistero del regno di Dio, come afferma Agostino (Genesi ad litteram V, 19; De Civitate Dei XI). Ma i demoni sono privati di tale conoscenza: “Se l’avessero conosciuta, non avrebbero mai crocifisso il Signore della gloria”, come si dice in 1 Corinzi 2:8. Pertanto, per lo stesso motivo, sono privati di ogni altra conoscenza della verità.
+
+Obiezione 5: Inoltre, qualsiasi verità una persona conosca viene appresa o naturalmente, come conosciamo i principi primi; oppure derivandola da altri, attraverso l’apprendimento; o grazie a una lunga esperienza, come quelle cose che impariamo attraverso la scoperta. Ora, i demoni non possono conoscere la verità per loro stessi, poiché, come afferma Agostino (De Civ. Dei xi, 33), gli angeli buoni sono separati da loro come la luce è separata dall’oscurità; e ogni manifestazione avviene attraverso la luce, come si dice in Efesini 5:13. Allo stesso modo, non possono imparare attraverso la [rivelazione](/concepts/revelation), né attraverso l’apprendimento dagli angeli buoni: perché “non c’è alcuna comunione tra la luce e l’oscurità” (2 Corinzi 6:14). Né possono imparare attraverso una lunga esperienza, poiché l’esperienza deriva dai sensi. Pertanto, in loro non esiste alcuna conoscenza della verità.
+
+Al contrario, Dionisio afferma (Div. Nom. iv) che “certi doni furono concessi ai demoni; questi, secondo noi, non sono affatto cambiati, ma rimangono intatti e straordinariamente brillanti”. Ora, la conoscenza della verità rientra tra quei doni naturali; pertanto, essi possiedono in qualche modo la conoscenza della verità.
+
+Rispondo che la conoscenza della verità è di due tipi: una che deriva dalla natura e un’altra che deriva dalla grazia. La conoscenza che deriva dalla grazia è anch’essa di due tipi: il primo è puramente speculativo, come quando i segreti divini vengono rivelati a un individuo; l’altro è efficace e genera amore per Dio; questa conoscenza appartiene propriamente al dono della saggezza. Di questi tre tipi di conoscenza, il primo non è stato né tolto né diminuito nei demoni. Infatti, dalla natura stessa dell’angelo – che, secondo la sua essenza, è un’intelligenza o una mente – deriva che, a causa della semplicità della sua sostanza, nulla può essere rimosso dalla sua natura al fine di punirlo, così come un uomo viene punito privandolo di una mano, di un piede o di altro. Pertanto Dionigi afferma (Div. Nom. iv) che i doni naturali rimangono intatti nei demoni; di conseguenza, la loro conoscenza naturale non è stata diminuita. Il secondo tipo di conoscenza, invece, che deriva dalla grazia e consiste nella speculazione, non è stato del tutto tolto loro, ma ridotto; poiché dei segreti divini vengono rivelati loro soltanto quanto è necessario, sia attraverso gli angeli che “attraverso alcune azioni temporali del potere divino”, come afferma Agostino (De Civ. Dei ix, 21); ma non nella stessa misura in cui vengono rivelate agli angeli santi, ai quali molte più cose vengono comunicate, e in modo più completo, direttamente nel Verbo stesso. Quanto al terzo tipo di conoscenza, così come alla carità, essi ne sono completamente privati.
+
+Risposta all’Obiezione 1: La felicità consiste nell’applicarsi a qualcosa di più elevato. Le sostanze separate ci sono superiori secondo l’ordine della natura; pertanto l’uomo può provare una certa forma di felicità conoscendo queste sostanze separate, anche se la sua vera felicità consiste nella conoscenza della prima sostanza, cioè Dio. È del tutto naturale che una sostanza separata conosca un’altra; così come è naturale per noi conoscere le nature sensibili. Pertanto, poiché la felicità umana non consiste nella conoscenza delle nature sensibili, allo stesso modo nemmeno la felicità dell’angelo consiste nella conoscenza delle sostanze separate.
+
+Risposta all’Obiezione 2: Ciò che è più evidente nella sua natura ci rimane nascosto proprio perché trascende i limiti della nostra intelligenza; e non soltanto perché la nostra intelligenza attinge la conoscenza attraverso immagini mentali. Ora, la sostanza divina trascende non solo le capacità dell’intelligenza umana, ma anche quelle degli angeli. Pertanto, nemmeno un angelo può, per sua natura stessa, conoscere la sostanza di Dio. Tuttavia, grazie alla perfezione della sua intelligenza, egli può, per sua natura, possedere una conoscenza di Dio più profonda di quella dell’uomo. Anche i demoni possiedono tale conoscenza; sebbene non abbiano la purezza che deriva dalla grazia divina, hanno comunque una purezza intrinseca alla loro natura, e questa è sufficiente per acquisire la conoscenza di Dio che appartiene loro per natura stessa.
+
+Risposta all’Obiezione 3: La creatura è oscurità rispetto all’eccellenza della luce divina; pertanto la conoscenza che la creatura possiede riguardo alle cose nella loro natura stessa viene chiamata “conoscenza serale”. Infatti, la sera è simile all’oscurità, ma possiede ancora un po’ di luce; quando invece la luce scompare del tutto, allora arriva la notte. Così anche la conoscenza delle cose nella loro natura, quando viene utilizzata per lodare il Creatore – come avviene nei buoni angeli – contiene qualcosa della luce divina e può essere definita “conoscenza serale”; ma se non viene rivolta a Dio, come accade nei demoni, non viene chiamata “serale”, bensì “notturna”. Ecco perché leggiamo nel Genesi 1:5 che l’oscurità, separata dalla luce da Dio, fu chiamata “notte”.
+
+Risposta all’Obiezione 4: Tutti gli angeli possedevano fin dall’inizio una certa conoscenza riguardo al mistero del regno di Dio, che trovò la sua realizzazione in Cristo; soprattutto dal momento in cui furono beati attraverso la visione della Parola, una visione che i demoni non ebbero mai. Tuttavia, non tutti gli angeli compresero pienamente e in modo uguale questo mistero; perciò i demoni ancora meno comprendevano appieno il mistero dell’Incarnazione, quando Cristo era nel mondo. Come osserva Agostino (De Civ. Dei ix, 21): “Non fu loro rivelato come lo fu agli angeli santi, che godono di una partecipazione all’[eternità](/positions/eternity) della Parola; ma fu loro fatto conoscere attraverso alcuni effetti temporali, al fine di suscitare in loro terrore”. Infatti, se avessero conosciuto pienamente e con certezza che Egli era il Figlio di Dio e l’esito delle Sue sofferenze, non avrebbero mai cercato di far crocifiggere il Signore della gloria.
+
+Risposta all’Obiezione 5: I demoni conoscono la verità in tre modi: innanzitutto grazie alla sottigliezza della loro natura; poiché, sebbene oscurati dalla privazione della luce della grazia, sono comunque illuminati dalla luce della loro natura intellettuale; in secondo luogo, attraverso rivelazioni provenienti dagli angeli sacri; poiché, sebbene non concordino con essi nel modo di agire, condividono tuttavia una somiglianza nella loro natura intellettuale, che permette loro di accettare ciò che viene rivelato dagli altri; in terzo luogo, attraverso una lunga esperienza; non derivando questa conoscenza dai sensi, ma quando la somiglianza della loro natura intelligibile innata si realizza nelle cose individuali, essi riescono a comprendere alcune verità come se fossero già presenti nel presente, anche se in precedenza non sapevano che tali eventi sarebbero avvenuti. Come abbiamo detto quando abbiamo discusso della conoscenza degli angeli (Q[57], A[3], ad 3).
+
 <span class="atom-split" data-atom="084" data-title="Whether the will of the demons is obstinate in evil?" data-chapter="Whether the will of the demons is obstinate in evil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the will of the demons is not obstinate in evil. For liberty of
@@ -4282,6 +5477,33 @@ deceive; and when he believes and confesses, yet not willingly, but compelled by
 things. Another kind of act is natural to the demon; this can be good and bears witness to the
 goodness of nature. Yet he abuses even such good acts to evil purpose.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la volontà dei demoni non sia ostinatamente rivolta al male. Poiché la libertà di volontà appartiene alla natura di un essere intellettuale, e tale natura permane nei demoni, come abbiamo detto in precedenza (A[1]). Ma la libertà di volontà è direttamente e primariamente destinata al bene, piuttosto che al male. Pertanto, la volontà dei demoni non è così ostinatamente rivolta al male da non essere in grado di tornare a ciò che è buono.
+
+Obiezione 2: Inoltre, poiché la misericordia di Dio è infinita, essa è maggiore della malvagità dei demoni, che è finita. Ma nessuno può tornare dalla malvagità del peccato alla bontà della giustizia se non attraverso la misericordia di Dio. Pertanto, anche i demoni possono altrettanto tornare dal loro stato di malvagità allo [stato](/concepts/state) di giustizia.
+
+Obiezione 3: Inoltre, se i demoni possiedono una volontà ostinata nel male, allora tale volontà sarebbe particolarmente tenace riguardo al peccato attraverso il quale sono caduti. Ma quel peccato, ovvero l’orgoglio, non esiste più in loro; poiché il motivo che li spingeva a commetterlo, cioè la ricerca dell’eccellenza, è ormai scomparso. Pertanto, i demoni non sono ostinati nel male.
+
+Obiezione 4: Inoltre, Gregorio afferma (Moralia, iv) che l’uomo possa essere ristabilito da un altro, poiché è caduto a causa di un altro. Ma, come già osservato (Q[63], A[8]), i demoni inferiori sono caduti a causa del più alto di loro; pertanto la loro caduta può essere riparata da un altro. Di conseguenza, non sono ostinati nel male.
+
+Obiezione 5: Inoltre, chi è ostinato per malvagità non compie mai alcun atto di bene. Ma il demone compie alcuni atti di bene: infatti confessa la verità, dicendo a Cristo: “So chi sei tu, il santo di Dio” (Marco 1:24). Anche i demoni “credono e tremano” (Giacomo 2:19). E Dionigi osserva (Div. Nom. iv) che “desiderano ciò che è buono e migliore, cioè esistere, vivere, comprendere”. Pertanto non sono ostinati per malvagità.
+
+Al contrario, si dice (Salmo 73:23): “L’orgoglio di coloro che ti odiano aumenta continuamente”; e ciò si riferisce ai demoni. Pertanto, essi rimangono sempre ostinati nella loro malvagità.
+
+Rispondo che, secondo l’opinione di Origene ([Peri Archon i. 6]), la volontà di ogni creatura può, grazie alla libertà di scelta, inclinarsi verso il bene o il male; fatta eccezione per l’anima di Cristo a causa dell’unione con la Parola divina. Una tale affermazione priverebbe angeli e santi della vera [beatazza](/positions/beatitude), poiché una stabilità eterna è proprio caratteristica della vera beatitudine; per questo motivo essa viene definita “vita eterna”. Inoltre, tale opinione è contraria all’autorità delle Sacre [Scritture](/concepts/revelation), le quali dichiarano che demoni e uomini malvagi saranno mandati “in punizione eterna”, mentre i buoni verranno condotti “alla vita eterna”. Pertanto, un’opinione del genere deve essere considerata errata; secondo la Fede Cattolica, invece, è necessario ritenere con fermezza che la volontà degli angeli buoni sia orientata verso il bene, mentre quella dei demoni sia ostinatamente rivolta al male.  
+Dobbiamo cercare la causa di questa ostinazione non nella gravità del peccato, ma nella natura stessa degli angeli o degli uomini. Come afferma Damasceno ([De Fide Orth. ii]), “la morte è per gli uomini ciò che la caduta è per gli angeli”. È evidente che tutti i peccati mortali, sia gravi che meno gravi, sono perdonabili prima della morte; dopo la morte, invece, non sono più rimediabili e durano per l’eternità. Quindi, per comprendere questa ostinazione, bisogna ricordare che la facoltà desiderativa è, in tutte le cose, proporzionata alla facoltà intellettiva che la guida; la facoltà desiderativa cerca il bene particolare, mentre la volontà cerca il bene universale. L’intelletto angelolico comprende i principi immutabili, mentre l’intelletto umano considera le cose in modo variabile, potendo passare da un’idea all’altra e scegliere tra opposti. Di conseguenza, la volontà umana può attaccarsi a qualcosa in modo flessibile, con la possibilità di abbandonarlo o attaccarsi al suo contrario; quella angelolica, invece, è ferma e immutabile. Pertanto, prima di prendere una decisione, la volontà umana può orientarsi sia verso il bene che verso il male; una volta presa la decisione, però, rimane fissa in essa. Si dice comunemente che la libertà umana sia flessibile sia prima che dopo la scelta; quella angelolica, invece, è flessibile solo prima della scelta, ma non dopo. Per questo motivo, gli angeli buoni, attaccati alla giustizia, rimangono fedeli ad essa; i demoni, invece, continuano a peccare con ostinazione. In seguito tratteremo dell’ostinazione degli uomini dannati ([SP, Q[98], AA[1], 2]).
+
+Risposta all’Obiezione 1: Gli angeli buoni e quelli cattivi possiedono la libertà di volontà, ma tale libertà è determinata dal modo e dalle condizioni del loro stato, come già detto.
+
+Risposta all’Obiezione 2: La misericordia di Dio salva dal peccato coloro che si pentono. Ma coloro che non sono in grado di pentirsi rimangono saldamente attaccati al peccato e non vengono salvati dalla misericordia divina.
+
+Risposta all’Obiezione 3: Il primo peccato del diavolo rimane in lui sotto forma di desiderio; anche se non più sotto forma della convinzione che possa ottenere ciò che desidera. Tuttavia, se un uomo credesse di poter commettere omicidio, lo volesse compiere e successivamente gli venisse negata la possibilità di farlo, il desiderio di uccidere potrebbe comunque rimanergli dentro, tanto da fargli pensare che l’avrebbe già fatto, o che lo farebbe ancora se ne avesse l’opportunità.
+
+Risposta all’Obiezione 4: Il fatto che l’uomo abbia peccato su suggerimento altrui non costituisce la ragione sufficiente per ritenere il suo peccato perdonabile. Pertanto, questo argomento non è valido.
+
+Risposta all’Obiezione 5: L’azione di un demone è di due tipi. Uno deriva da una volontà deliberata; e questo viene propriamente definito il suo “atto proprio”. Un tale atto, da parte del demone, è sempre malvagio; perché, anche se a volte compie qualcosa di buono, non lo fa per bene: ad esempio, quando dice la verità al fine di ingannare, o quando crede e confessa, ma non volontariamente, bensì costretto dalle prove presenti. Un altro tipo di atto è naturale per il demone; questo può essere buono e testimoniare della bontà della sua natura stessa. Tuttavia, anche un simile atto buono viene abusato dal demone a scopi malvagi.
+
 <span class="atom-split" data-atom="085" data-title="Whether there is sorrow in the demons?" data-chapter="Whether there is sorrow in the demons?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is no sorrow in the demons. For since sorrow and joy
@@ -4331,6 +5553,24 @@ for the evil of sin on account of the punishment, bears witness to the goodness 
 the evil of punishment is opposed. Hence Augustine says (De Civ. Dei xix, 13), that "sorrow for
 good lost by punishment, is the witness to a good nature." Consequently, since the demon has a
 perverse and obstinate will, he is not sorry for the evil of sin.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nei demoni non esista alcun dolore. Poiché dolore e gioia sono opposti, non possono coesistere nello stesso essere. Ma nei demoni c’è gioia: infatti [Agostino](/figures/augustine), scrivendo contro i Manichei (De Genesi Contra Manichei ii, 17), afferma: “Il diavolo ha potere su coloro che disprezzano i comandamenti di Dio, e si rallegra di questo potere malvagio”. Pertanto, nei demoni non esiste alcun dolore.
+
+Obiezione 2: Inoltre, il dolore è la causa della paura, poiché quelle cose che provocano paura quando sono future, causano dolore quando diventano realtà. Ma nei demoni non c’è paura, secondo Giobbe 41:24: “Colui che non teme nessuno”. Pertanto, nei demoni non c’è nemmeno dolore.
+
+Obiezione 3: Inoltre, è una cosa positiva provare rimorso per il male. Ma i demoni non sono in grado di compiere alcuna azione buona; pertanto non possono provare rimorso, almeno per il male rappresentato dal peccato; e questo vale anche per quella sorta di “verme della coscienza” che induce il senso di colpa.
+
+Al contrario, il peccato del demone è più grave di quello dell’uomo. Tuttavia l’uomo viene punito con la tristezza a causa del piacere che trae dal peccare, secondo l’Apocalisse 18:7: “Quanto si è glorificata e ha vissuto in lussi, tanto tormento e dolore le infliggiate voi”. Pertanto, molto di più il diavolo viene punito con un dolore ancora più profondo, poiché è stato proprio lui ad auto-glorificarsi in modo particolare.
+
+Rispondo che paura, tristezza, gioia e simili sentimenti, nella misura in cui sono passioni, non possono esistere nei demoni; poiché tali passioni appartengono esclusivamente all’appetito sensibile, che è una facoltà insita in un organo corporeo. Tuttavia, se questi sentimenti indicano semplici atti della volontà, allora possono esistere anche nei demoni. Bisogna infatti ammettere che i demoni provano tristezza; poiché la tristezza, in quanto indica un semplice atto della volontà, non è altro che la resistenza della volontà a ciò che esiste o a ciò che non esiste. Ora è evidente che i demoni desidererebbero che molte cose non esistessero, quando invece esistono, e che altre cose esistessero, quando invece non esistono; poiché, per invidia, vorrebbero che altri fossero dannati, mentre in realtà sono salvati. Pertanto, si può affermare che la tristezza esista nei demoni; soprattutto perché, per definizione, il castigo è qualcosa che si oppone alla volontà stessa. Inoltre, i demoni sono privati della felicità che desiderano naturalmente; in più, la loro volontà malvagia viene in molti modi repressa.
+
+Risposta all’Obiezione 1: La gioia e il dolore riguardanti la stessa cosa sono opposti, ma non riguardanti cose diverse. Pertanto, non esiste nulla che impedisca a una persona di provare dolore per una cosa e gioia per un’altra; soprattutto perché sia il dolore che la gioia implicano semplici atti della volontà; infatti, non solo in cose diverse, ma anche nella stessa cosa, può esserci qualcosa che desideriamo e qualcosa che invece non desideriamo.
+
+Risposta all’Obiezione 2: Poiché nei demoni esiste dolore di fronte al male presente, allo stesso modo esiste paura del male futuro. Quando si dice “Non doveva temere nessuno”, ciò si riferisce alla paura di Dio che impedisce di peccare. Infatti, altrove è scritto: “Anche i demoni credono e tremano” (Giacomo 2:19).
+
+Risposta all’Obiezione 3: Sentirsi addolorati per il male del peccato, in considerazione della stessa natura del peccato stesso, testimonia la bontà della volontà, alla quale il male del peccato è opposto. Ma sentirsi addolorati per il male della punizione, in relazione al male del peccato e alla punizione che ne consegue, testimonia invece la bontà della natura umana, alla quale il male della punizione è opposto. Pertanto Agostino afferma (De Civ. Dei xix, 13) che “il dolore per il bene perduto a causa della punizione è una testimonianza di una natura buona”. Poiché il demone possiede una volontà perversa e ostinata, non prova alcun rimorso per il male del peccato.
 
 <span class="atom-split" data-atom="086" data-title="Whether our atmosphere is the demons' place of punishment?" data-chapter="Whether our atmosphere is the demons' place of punishment?" data-kind="atom" data-srclang="en"></span>
 

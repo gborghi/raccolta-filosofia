@@ -35,3 +35,39 @@ Esto pasa en España. Sólo influye en nosotros la política, y ésta nos aparec
 El que ahora han hecho esas minorías es doblemente pernicioso: ha aumentado la desconfianza de la nación hacia sus hombres públicos y la indiferencia hacia la [norma](/concepts/law) social más delicada de todas: la libertad.
 
 Han hecho una mala obra.
+
+<span class="qlang-split" data-lang="en"></span>
+
+A bad work they have performed —with the best intention perhaps— the minorities who met to draft a note protesting that the Government prohibited the meetings where the war was spoken of. Who remembers that note already? This is the grave thing: that already no one remembers it. The Government replied with an immense contempt. Curious condition, that of psychological things! In a small glass only a little wine fits; but in men of very reduced spiritual proportions there fits, at times, a colossal contempt.
+
+Already no one remembers that note: not even those who wrote it. It produced no effect whatsoever. We saw them meet, consult; we heard some words of accusation and threat; the words remained dissolved and traceless in the air, the men returned to separate each to his own side, they went away without more. And those of us who would wish to have a better memory find in it only, as it were, the ghost of men shaking their arms and the evanescent specter of some voices.
+
+This is the bad work. The public soul lives on what it sees, on what it witnesses. From it takes its tone and its measure. In other countries industry or commerce share with politics its regulating influence over public opinion. A society that witnesses how within itself great businesses are undertaken and triumph, new techniques are invented, capitals multiply, new cities are created in the warmth of wealth, receives in its intimacy as a reflection of that impetus and that efficacy. Without noticing it, it lets itself be penetrated by an emotion before life that presents it to it as an area of realities where a will can intervene efficaciously, where the wanting brings with it the achieving. Little does it matter that in that society politics be inert and paralytic.
+
+But in Spain economic action is so poor, so minuscule, that it does not transcend to the collective consciousness. The same happens with intellectual or artistic labor. Business, science and art interest this or that individual, this or that guild, but they do not exist for that diffuse mass which we call the public, the nation. In Spain there are not, unfortunately, more national facts, properly public, than the political ones. Politics is the only social power we count on.
+
+There is no doubt that our most urgent patriotic duty consists in arousing and fostering other powers that, at least, share with it the shop window of public attention. But, today as things stand, they do not exist, and we live dependent on politics alone. If it offers us nothing else than a panorama of inefficacy and farce, if we witness nothing but fictions of acts that produce no effects, nor hear anything but words said without conviction, we will come to believe that life is a hallucinated orb, where all is specter and phantom, where the will is a useless weapon, where there is nothing that, in truth, should not be indifferent.
+
+This happens in Spain. Only politics influences us, and this appears to us composed, half and half, of farces and invalid gestures.
+
+That which those minorities have now done is doubly pernicious: it has increased the nation's distrust of its public men and the indifference toward the most delicate social [norm](/concepts/law) of all: liberty.
+
+They have done a bad work.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una mala opera hanno realizzato —con la migliore intenzione forse— le minoranze che si riunirono per redigere una nota di protesta perché il Governo proibisse le riunioni dove si parlasse della guerra. Chi si ricorda già di quella nota? Questo è il grave: che ormai nessuno se ne ricorda. Il Governo rispose con un immenso disprezzo. Curiosa condizione quella delle cose psicologiche! In un vaso piccolo ci sta solo un po' di vino; ma in uomini di piccolissime proporzioni spirituali ci sta, magari, un disprezzo colossale.
+
+Ormai nessuno si ricorda di quella nota: nemmeno quelli che la scrissero. Non produsse effetto alcuno. Li vedemmo riunirsi, consultarsi; udimmo alcune parole di accusa e minaccia; le parole restarono dissolte e senza traccia nell'aria, gli uomini tornarono a separarsi ciascuno per la sua parte, se ne andarono senza altro. E noi che vorremmo avere migliore memoria vi troviamo solo come il fantasma di alcuni uomini che scuotono le braccia e lo spettro evanescente di alcune voci.
+
+Questa è la mala opera. L'anima pubblica vive di ciò che vede, di ciò a cui assiste. Di ciò prende il suo tono e la sua misura. In altri paesi l'industria o il commercio condividono con la politica il loro influsso regolatore sull'opinione pubblica. Una società che assiste a come dentro di essa si intraprendono e trionfano grandi affari, si inventano nuove tecniche, si moltiplicano i capitali, si creano nuove città al calore della ricchezza, riceve nella sua intimità come un riflesso di quel impeto e di quella efficacia. Senza accorgersene si lascia penetrare da un'emozione davanti alla vita che gliela presenta come un'area di realtà dove può una volontà intervenire efficacemente, dove il volere porta con sé il conseguire. Poco importa che in quella società la politica sia inerte e paralitica.
+
+Ma in Spagna l'azione economica è tanto povera, tanto minuscola, che non trascende alla coscienza collettiva. Lo stesso accade con la fatica intellettuale o artistica. Gli affari, la scienza e l'arte interessano a questo o quell'individuo, a questo o quel gremio, ma non esistono per quella massa diffusa che chiamiamo pubblico, la nazione. In Spagna non ci sono, per disgrazia, altri fatti nazionali, propriamente pubblici, che i politici. La politica è l'unico potere sociale con cui contiamo.
+
+Non c'è dubbio che il nostro più urgente dovere patriottico consista nel suscitare e fomentare altri poteri che, almeno, si ripartiscano con quello la vetrina dell'attenzione pubblica. Ma, oggi per oggi, non esistono, e viviamo attenuti alla sola politica. Se questa non ci offre altro che un panorama di inefficacia e di farsa, se non presenziamo se non finzioni di atti che non sortiscono effetti, né udiamo se non parole dette senza convinzione, arriveremo a credere che la vita è un orbe allucinato, dove tutto è spettro e fantasma, dove la volontà è un'arma inutile, dove nulla c'è che, in verità, non debba essere indifferente.
+
+Questo accade in Spagna. Solo la politica influisce su di noi, e questa ci appare composta, metà per metà, di farse e di gesti invalidi.
+
+Quella che hanno fatto ora queste minoranze è doppiamente perniciosa: ha aumentato la diffidenza della nazione verso i suoi uomini pubblici e l'indifferenza verso la [norma](/concepts/law) sociale più delicata di tutte: la libertà.
+
+Hanno fatto una mala opera.

@@ -24,6 +24,10 @@ tags:
 
 EVIL HABITS, i.e. VICES AND SINS (QQ[71]-89)
 
+<span class="qlang-split" data-lang="it"></span>
+
+Cattive abitudini, ovvero vizi e peccati (QQ[71]-89)
+
 <span class="atom-split" data-atom="002" data-title="OF VICE AND SIN CONSIDERED IN THEMSELVES (SIX ARTICLES)" data-chapter="OF VICE AND SIN CONSIDERED IN THEMSELVES (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have in the next place to consider vice and sin: about which six points have to be considered:
@@ -37,6 +41,18 @@ Under the first head there are six points of inquiry:
 (5) Whether every sin includes action?
 (6) Of the definition of sin proposed by [Augustine](/figures/augustine) (Contra Faust. xxii): "Sin is a word, deed,
 or desire against the [eternal law](/concepts/eternal_law)."
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il vizio e il peccato: su questi argomenti vi sono sei punti da esaminare:
+(1) Il vizio e il peccato considerati in sé stessi; (2) la loro distinzione; (3) il loro confronto reciproco; (4) l’oggetto del peccato; (5) la causa del peccato; (6) l’effetto del peccato.
+All’interno della prima categoria di argomenti vi sono sei punti di indagine:
+(1) Il vizio è contrario alla virtù?  
+(2) Il vizio è contrario alla natura?  
+(3) Qual è peggiore, il vizio o un atto malvagio?  
+(4) Un atto malvagio può essere compatibile con la virtù?  
+(5) Ogni peccato include necessariamente un’azione concreta?  
+(6) Riguardo alla definizione di peccato proposta da [Agostino](/figures/augustine) (Contra Faust. xxii): “Il peccato è una parola, un atto o un desiderio contrario alla [legge eterna](/concepts/eternal_law)”.
 
 <span class="atom-split" data-atom="003" data-title="Whether vice is contrary to virtue?" data-chapter="Whether vice is contrary to virtue?" data-kind="atom" data-srclang="en"></span>
 
@@ -157,6 +173,29 @@ and that they are contrary to the eternal law. Hence Augustine says (De Lib. Arb
 nature, as such, is from God; and is a vicious nature, in so far as it fails from the Divine art whereby
 it was made."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il vizio non sia contrario alla natura. Poiché il vizio è contrario alla virtù, come detto sopra (A[1]). Ora la virtù è in noi, non per natura ma per infusione o abitudine, come affermato sopra (Q[63], AA[1], 2, 3). Pertanto, il vizio non è contrario alla natura.
+
+Obiezione 2: Inoltre, è impossibile abituarsi a ciò che è contrario alla natura; pertanto “una pietra non diventa mai abituata al movimento verso l’alto” (Etica, ii, 1). Tuttavia alcune persone si abituano al vizio. Quindi il vizio non è contrario alla natura.
+
+Obiezione 3: Inoltre, tutto ciò che è contrario alla natura di un individuo non si trova nella maggior parte degli esseri umani che possiedono tale natura. Ora, il vizio si riscontra nella maggior parte delle persone; infatti è scritto (Matteo 7:13): “La strada che conduce alla perdizione è larga, e molti vi entrano”. Pertanto, il vizio non è contrario alla natura umana.
+
+Obiezione 4: Inoltre, il peccato viene paragonato al vizio, come l’atto alla [abitudine](/concepts/custom), come già detto sopra (A[1]). Ora, il peccato è definito come “una parola, un atto o un desiderio contrario alla Legge di Dio”, come mostra [Agostino](/figures/augustine) (Contra Faustus, xxii, 27). Ma la Legge di Dio è superiore alla natura. Pertanto, dovremmo dire che il vizio è contrario alla Legge, e non alla natura.
+
+Al contrario, Agostino afferma (De Lib. Arb. iii, 13): “Ogni vizio, semplicemente perché è un vizio, è contrario alla natura.”
+
+Rispondo che, come già detto sopra (A[1]), il vizio è contrario alla virtù. Ora, la virtù di una cosa consiste nel fatto che essa sia disposta nella maniera appropriata alla sua natura, come ancora affermato in precedenza (A[1]). Pertanto, il vizio di qualsiasi cosa risiede nel fatto che essa sia disposta in modo non conforme alla sua natura; ed è proprio per questa ragione che una tale cosa viene “vituperata”, termine derivante appunto da “vizio”, secondo Agostino (De Lib. Arb. iii, 14).  
+Tuttavia, va osservato che la natura di una cosa consiste principalmente nella forma dalla quale essa deriva la propria specie. L’uomo, ad esempio, riceve la propria specie dalla sua anima razionale; pertanto, ciò che è contrario all’ordine della ragione è, in senso proprio, contrario alla natura umana; mentre ciò che è in armonia con la ragione è conforme alla natura umana. “Il bene dell’uomo consiste nell’essere in accordo con la ragione, e il male nel contraddirla”, afferma Dionigi di Atene (Div. Nom. iv). Quindi, la virtù umana, che rende l’uomo buono e le sue azioni virtuose, è in armonia con la natura umana, nella misura in cui concorda con la ragione; mentre il vizio è contrario alla natura umana, poiché va contro l’ordine della ragione.
+
+Risposta all’Obiezione 1: Sebbene le virtù non siano causate dalla natura per quanto riguarda la loro perfezione intrinseca, esse ci spingono verso ciò che è in accordo con la ragione, cioè con l’ordine razionale. Infatti, [Cicerone](/figures/cicero) afferma nel “De Inv. Rhet. ii” che “la virtù è un’abitudine conforme alla ragione, come una seconda natura”; ed è in questo senso che si dice che la virtù sia in armonia con la natura, mentre il vizio ne è l’opposto.
+
+Risposta all’Obiezione 2: Il filosofo parla qui di una cosa che è contraria alla natura, nel senso in cui “essere contrario alla natura” è opposto a “essere conforme alla natura”; e non nel senso in cui “essere contrario alla natura” sia opposto a “essere in armonia con la natura”, nel secondo caso si dice infatti che le virtù siano in armonia con la natura, poiché ci spingono verso ciò che è adatto a essa.
+
+Risposta all’Obiezione 3: L’uomo possiede una doppia natura: la natura razionale e la natura sensibile. Poiché è attraverso l’azione dei suoi sensi che l’uomo compie atti razionali, è evidente che ci sono più persone che seguono le inclinazioni della natura sensibile rispetto a quelle che obbediscono all’ordine della ragione; infatti, molti arrivano soltanto al punto di inizio di un’azione senza riuscire a portarla a termine. La presenza di vizi e peccati nell’uomo è dovuta proprio al fatto che egli segue le inclinazioni della sua natura sensibile, contravvenendo all’ordine della ragione.
+
+Risposta all’Obiezione 4: Quello che è irregolare in un’opera d’arte è innaturale per quell’arte che l’ha prodotta. Ora, la [legge eterna](/concepts/eternal_law) viene paragonata all’ordine della ragione umana, così come un’opera d’arte viene paragonata a un’altra opera d’arte. Pertanto, è lo stesso dire che vizio e peccato sono contrari all’ordine della ragione umana e quindi alla legge eterna. Da ciò deriva quanto afferma Agostino nel De Libero Arbitrio iii, 6: “Ogni natura, in sé stessa, proviene da Dio; ma diventa una natura malvagia nel momento in cui si allontana dall’arte divina con la quale è stata creata”.
+
 <span class="atom-split" data-atom="005" data-title="Whether vice is worse than a vicious act?" data-chapter="Whether vice is worse than a vicious act?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that vice, i.e. a bad [habit](/concepts/custom), is worse than a sin, i.e. a bad act. For, as
@@ -200,6 +239,24 @@ Wherefore this does not prove that habit precedes act simply, both in goodness a
 Reply to Objection 3: Habit causes act by way of efficient causality: but act causes habit, by
 way of final causality, in respect of which we consider the nature of good and evil. Consequently
 act surpasses habit both in goodness and in badness.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il vizio, cioè un cattivo [habito](/concepts/custom), sia peggiore di un peccato, cioè un atto malvagio. Infatti, quanto più duraturo è un bene, tanto migliore è; allo stesso modo, quanto più a lungo dura un male, tanto peggiore è. Ora, un vizio persistente è più duraturo di atti malvagi che scompaiono immediatamente; pertanto, un vizio persistente è peggiore di un atto malvagio occasionale.
+
+Obiezione 2: Inoltre, diversi mali meritano certamente di essere evitati più di uno solo. Ma un cattivo vizio è, in sostanza, la causa di molti atti malvagi. Pertanto, un vizio grave è peggiore di un atto malvagio specifico.
+
+Obiezione 3: Inoltre, una causa è più potente del suo effetto. Ma un’abitudine produce i suoi effetti sia per quanto riguarda la loro bontà che la loro cattiveria. Pertanto, un’abitudine è più potente dell’atto che ne deriva, sia in termini di bontà che di cattiveria.
+
+Al contrario, un uomo viene giustamente punito per un atto malvagio; ma non per un vizio, purché da esso non derivi alcun atto concreto. Pertanto, un atto malvagio è più grave di un vizio.
+
+Rispondo che l’abitudine si trova a metà strada tra la capacità e l’atto. È evidente che, sia nel bene che nel male, l’atto precede la capacità, come affermato nella Metafisica IX, 19: infatti è meglio compiere il bene piuttosto che essere in grado di farlo, e allo stesso modo è più biasimabile commettere il male piuttosto che essere in grado di farlo. Da ciò deriva anche che, sia nel bene che nel male, l’abitudine si colloca a metà strada tra la capacità e l’atto; quindi, proprio come un’abitudine buona o cattiva è superiore alla corrispondente capacità, essa è inferiore al corrispondente atto. Ciò risulta anche chiaramente dal fatto che un’abitudine non viene definita buona o cattiva se non nella misura in cui induce a un atto buono o cattivo; pertanto, un’abitudine è considerata buona o cattiva in base alla bontà o alla cattiveria del suo atto. In altre parole, l’atto supera l’abitudine stessa in termini di bontà o cattiveria, poiché “la causa per cui una cosa è tale è ancora di più tale”.
+
+Risposta all’Obiezione 1: Nulla impedisce che una cosa sia semplicemente superiore un’altra e, al contempo, inferiore ad essa in alcuni aspetti. Una cosa è considerata semplicemente superiore un’altra se la supera in qualcosa che è comune a entrambe; mentre è considerata superiore in un certo senso se la supera in qualcosa che è accidentale a entrambe. Ora, dalla stessa natura dell’atto e dell’abitudine risulta chiaramente che l’atto supera l’abitudine sia nel bene che nel male. Tuttavia il fatto che l’abitudine sia più duratura dell’atto è un aspetto accidentale, dovuto al fatto che entrambi appartengono a una natura che non può sempre essere in azione, e la cui azione consiste in movimenti transitori. Pertanto, l’atto semplicemente prevale nel bene e nel male, mentre l’abitudine prevale in un certo senso.
+
+Risposta all’Obiezione 2: Un’abitudine è costituita da diversi atti, non semplicemente da uno solo, ma in un certo senso, cioè in modo virtuale. Pertanto, ciò non dimostra che l’abitudine preceda l’atto, né nel bene né nel male.
+
+Risposta all’Obiezione 3: L’abitudine determina l’azione attraverso una causalità efficiente; ma l’azione, a sua volta, genera abitudini attraverso una causalità finale, nel contesto della quale consideriamo la natura del bene e del male. Pertanto, l’azione supera l’abitudine sia in termini di bontà che di cattiveria.
 
 <span class="atom-split" data-atom="006" data-title="Whether sin is compatible with virtue?" data-chapter="Whether sin is compatible with virtue?" data-kind="atom" data-srclang="en"></span>
 
@@ -251,6 +308,24 @@ vice excludes virtue, just as sin excludes acts of virtue.
 Reply to Objection 3: The natural powers act of necessity, and hence so long as the power is
 unimpaired, no sin can be found in the act. On the other hand, the virtues of the soul do not produce
 their acts of necessity; hence the comparison fails.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un atto malvagio, cioè il peccato, sia incompatibile con la virtù. Infatti, contrari non possono coesistere nello stesso soggetto. Ora, come detto sopra (A[1]), il peccato è in qualche modo contrario alla virtù; pertanto, il peccato è incompatibile con la virtù.
+
+Obiezione 2: Inoltre, il peccato è peggiore del vizio, cioè un atto malvagio è peggiore di una cattiva [abitudine](/concepts/custom). Ma il vizio non può esistere nello stesso soggetto della virtù; pertanto, nemmeno il peccato può esistere nello stesso soggetto della virtù.
+
+Obiezione 3: Inoltre, il peccato si verifica anche nelle cose naturali, così come nelle azioni volontarie (Physica ii, testo 82). Ora, il peccato non può mai verificarsi nelle cose naturali se non a causa di una qualche corruzione del loro potere naturale; pertanto i mostri derivano dalla corruzione di alcuna forza elementare presente nel seme, come affermato nella Physica ii. Quindi, nemmeno nelle azioni volontarie il peccato può verificarsi se non attraverso la corruzione di qualche virtù nell’anima: da ciò si deduce che peccato e virtù non possono coesistere nello stesso soggetto.
+
+Al contrario, il Filosofo afferma (Etica ii, 2,3) che “la virtù viene generata e corrotta da cause opposte”. Ora, un atto virtuoso non genera una nuova virtù, come già detto sopra (Q[51], A[3]); di conseguenza, un atto peccaminoso non corrompe la virtù. Pertanto, entrambi possono coesistere nello stesso individuo.
+
+Rispondo che il peccato può essere paragonato alla virtù, così come l’atto malvagio può essere considerato l’opposto di un buon costume. Ora, la posizione di un costume nell’anima non è la stessa di quella di una forma in una cosa naturale: infatti, la forma di una cosa naturale produce necessariamente un’azione conforme a sé stessa; perciò una forma naturale è incompatibile con l’azione prodotta da una forma contraria – ad esempio, il calore non può essere associato all’azione di raffreddamento, e la leggerezza non può comportare movimenti verso il basso (a meno che non venga utilizzata la forza esterna). Al contrario, un costume che risiede nell’anima non produce necessariamente alcuna azione; l’uomo può decidere di utilizzarlo o meno a seconda della propria volontà. Pertanto, anche se una persona possiede una virtù, può comunque compiere un atto peccaminoso; e tale atto, purché sia uno solo, non è in grado di corrompere la virtù stessa, se consideriamo l’atto stesso come parte del costume virtuoso: poiché, proprio come un costume non viene creato da un singolo atto, né viene distrutto da esso (come già affermato in Q[63], A[2], ad 2), allo stesso modo nemmeno un atto peccaminoso può distruggere una virtù. Tuttavia, se consideriamo l’atto peccaminoso come causa delle virtù, allora è possibile che alcuni vizi distruggano alcune virtù; infatti ogni peccato mortale è contrario alla carità, che rappresenta la radice di tutte le virtù innate; quindi, quando la carità viene distrutta da un atto peccaminoso, anche tutte le altre virtù innate vengono eliminate. Ciò vale soprattutto per la fede e la speranza, i cui costumi rimangono intatti dopo un peccato mortale, ma non sono più considerate vere virtù. D’altra parte, il peccato veniale non è contrario alla carità né la distrugge; pertanto non elimina nemmeno le altre virtù. Quanto alle virtù acquisite, esse non vengono distrutte da un singolo atto di qualsiasi tipo di peccato. In conclusione, il peccato mortale è incompatibile con le virtù innate, ma compatibile con quelle acquisite; mentre il peccato veniale è compatibile sia con le virtù innate che con quelle acquisite.
+
+Risposta all’Obiezione 1: Il peccato è contrario alla virtù, non in sé stesso, ma in relazione al suo atto. Pertanto, il peccato è incompatibile con l’atto della virtù, ma non con l’abitudine alla virtù stessa.
+
+Risposta all’Obiezione 2: Il vizio è direttamente opposto alla virtù, proprio come il peccato è opposto agli atti virtuosi; pertanto il vizio esclude la virtù, così come il peccato esclude gli atti di virtù.
+
+Risposta all’Obiezione 3: Le facoltà naturali agiscono per necessità; pertanto, finché tali facoltà non sono compromesse, non si può ritenere che l’atto compiuto sia peccaminoso. D’altra parte, le virtù dell’anima non producono i loro atti per necessità; quindi il confronto non è valido.
 
 <span class="atom-split" data-atom="007" data-title="Whether every sin includes an action?" data-chapter="Whether every sin includes an action?" data-kind="atom" data-srclang="en"></span>
 
@@ -322,6 +397,25 @@ Reply to Objection 3: The sin of omission is contrary to an affirmative precept 
 always, but not for always. Hence, by omitting to act, a man sins only for the time at which the
 affirmative precept binds him to act.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che ogni peccato includa un atto concreto. Poiché il merito viene paragonato alla virtù, allo stesso modo anche il peccato viene paragonato al vizio. Ora, non può esserci merito senza un atto; pertanto, nemmeno può esserci peccato senza un atto concreto.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (De Lib. Arb. iii, 18) [*Cfr. De Vera Relig. xiv.]: “È vero che ogni peccato è volontario; infatti, se non fosse volontario, non sarebbe affatto un peccato”. Ora, nulla può essere considerato volontario se non attraverso un atto della volontà. Pertanto, ogni peccato implica necessariamente un atto volontario.
+
+Obiezione 3: Inoltre, se il peccato potesse esistere senza un atto concreto, ne conseguirebbe che un uomo pecca non appena smette di fare ciò che dovrebbe fare. Ora, colui che mai fa ciò che dovrebbe fare, smette costantemente di compiere gli atti che gli sono richiesti; pertanto ne deriverebbe che pecca continuamente, il che è falso. Quindi non esiste peccato senza un atto concreto.
+
+Al contrario, è scritto (Giacomo 4:17): “Colui che sa fare il bene e non lo fa, commette peccato”. Ora, “non farlo” non implica necessariamente l’attuazione di un atto concreto; pertanto, il peccato può esistere anche senza alcun atto concreto.
+
+Rispondo che il motivo per cui si pone questa domanda riguarda il peccato di omissione, su cui sono state espresse varie opinioni. Alcuni sostengono che in ogni peccato di omissione vi sia sempre un atto, sia interno che esterno: interno, ad esempio, quando una persona decide “di non andare in chiesa” pur essendo obbligata a farlo; esterno, quando, nello stesso momento in cui dovrebbe recarsi in chiesa (o anche prima), si occupa di cose che le impediscono di andarci. Questo sembrerebbe, in un certo senso, equivalente alla prima interpretazione, poiché chi desidera qualcosa che sia incompatibile con un’altra cosa, di conseguenza intende non fare quella seconda cosa; a meno che non gli venga in mente che ciò che vuole fare gli impedirà di compiere l’obbligo impostogli, nel qual caso potrebbe essere considerato colpevole di negligenza. Altri, invece, affermano che un peccato di omissione non presupponga necessariamente un atto: il semplice fatto di non fare ciò che si è obbligati a fare costituisce già un peccato. Ognuna di queste opinioni contiene una parte di verità. Se consideriamo soltanto ciò che costituisce essenzialmente il peccato di omissione, allora talvolta esso comporta un atto interno (ad esempio, quando si decide “di non andare in chiesa”); altre volte, invece, non comporta alcun atto, né interno né esterno (ad esempio, quando, nel momento in cui si dovrebbe andare in chiesa, non ci si pensa affatto). Tuttavia, se consideriamo anche le cause o le circostanze che portano all’omissione, allora essa deve necessariamente comportare un atto; infatti, non esiste peccato di omissione se non quando si omette qualcosa che si può o non si può fare, e questo comportamento è sicuramente dovuto a una causa o a una circostanza. Se questa causa non dipende dalla volontà dell’uomo, l’omissione non è peccaminosa (ad esempio, se si manca di andare in chiesa a causa di malattia); ma se la causa dipende dalla volontà, l’omissione è peccaminosa; e tale causa, in quanto volontaria, deve necessariamente comportare un atto, almeno l’atto interno della volontà. A volte questo atto riguarda direttamente l’omissione stessa (ad esempio, quando si decide “di non andare in chiesa” perché è troppo noioso); altre volte riguarda qualcos’altro che impedisce di compiere l’obbligo (ad esempio, quando si decide di giocare al posto di andare in chiesa). In questi casi, l’atto della volontà, sia esso interno che esterno, è soltanto accidentale rispetto all’omissione stessa, poiché quest’ultima deriva da una decisione presa al di fuori dell’intenzione originale.
+Casuale (Fisica ii, testi 49,50). È quindi evidente che il peccato di omissione comporti effettivamente un atto che lo accompagna o che precede l’omissione stessa, ma che tale atto sia soltanto casuale rispetto al peccato di omissione stesso. Ora, nel giudicare le cose, dobbiamo essere guidati da ciò che è essenziale a esse, e non da ciò che è solo occasionale; pertanto è più corretto affermare che un peccato possa esistere senza alcun atto concreto: altrimenti, gli atti e le circostanze che lo accompagnano diventerebbero elementi essenziali per altri peccati effettivi.
+
+Risposta all’Obiezione 1: Per il bene sono necessarie più cose che per il male, poiché “il bene deriva da una causa completa e integrale, mentre il male nasce da ogni singola imperfezione”, come afferma Dionigi (Div. Nom. iv): quindi il peccato può sorgere quando un uomo fa ciò che non dovrebbe fare, o quando non fa ciò che dovrebbe fare; mentre non può esserci merito se una persona non compie volontariamente ciò che è suo dovere: pertanto non può esserci merito senza azione, mentre il peccato può esistere anche senza azione.
+
+Risposta all’Obiezione 2: Il termine “volontario” viene applicato non solo a ciò su cui l’atto della volontà viene esercitato, ma anche a ciò che abbiamo il potere di fare o di non fare, come affermato nell’Etica, III, 5. Pertanto, anche il semplice non voler qualcosa può essere considerato un atto volontario, nella misura in cui l’uomo abbia il potere di volerlo o di non volerlo.
+
+Risposta all’Obiezione 3: Il peccato di omissione è contrario a un precetto positivo che obbliga sempre, ma non per tutta la vita. Pertanto, omettendo di agire, una persona pecca soltanto nel periodo in cui quel precetto positivo la obbliga ad agire.
+
 <span class="atom-split" data-atom="008" data-title="Whether sin is fittingly defined as a word, deed, or desire contrary to the eternal law?" data-chapter="Whether sin is fittingly defined as a word, deed, or desire contrary to the eternal law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sin is unfittingly defined by saying: "Sin is a word, deed, or
@@ -392,6 +486,32 @@ to its being "contrary to the eternal law," more fittingly than with reference t
 reason; the more so, as the eternal law directs us in many things that surpass human reason, e.g. in
 matters of faith.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il peccato venga definito in modo improprio dicendo: “Il peccato è una parola, un atto o un desiderio contrario alla [legge eterna](/concepts/eternal_law)”. Infatti, “parola”, “atto” e “desiderio” implicano l’esecuzione di un’azione; ma non ogni peccato comporta necessariamente un’azione, come già accennato sopra (A[5]). Pertanto, questa definizione non include tutti i tipi di peccato.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (De Duab. Anim. xii): “Il peccato è la volontà di conservare o ottenere ciò che la giustizia vieta”. Ora, la volontà rientra nella categoria del desiderio, in quanto il desiderio indica qualsiasi atto dell’appetito. Pertanto era sufficiente affermare: “Il peccato è un desiderio contrario alla legge eterna”; non c’era bisogno di aggiungere “parola” o “atto”.
+
+Obiezione 3: Inoltre, il peccato sembra consistere propriamente in un’allontanamento dal fine ultimo; infatti il bene e il male vengono valutati principalmente in relazione a tale fine, come spiegato sopra (Q[1], A[3]; Q[18], AA[4],6; Q[20], AA[2],3). Per questo motivo Agostino (De Lib. Arb. i) definisce il peccato in riferimento al fine ultimo, affermando che “il peccato non è altro che trascurare le cose eterne e cercare quelle temporali”; inoltre aggiunge (Qq. lxxxii, qu. 30) che “tutta la malvagità umana consiste nel utilizzare ciò che dovremmo godere e nel godere di ciò che dovremmo utilizzare”. Ora, questa definizione non menziona affatto un’allontanamento dal nostro fine ultimo; pertanto si tratta di una definizione insufficiente del peccato.
+
+Obiezione 4: Inoltre, si dice che una cosa sia proibita perché è contraria alla legge. Ora, non tutti i peccati sono malvagi semplicemente perché proibiti, ma alcuni lo sono perché effettivamente malvagi. Pertanto, il peccato in generale non dovrebbe essere definito come qualcosa che va contro la legge di Dio.
+
+Obiezione 5: Inoltre, il peccato indica un cattivo atto umano, come è stato spiegato sopra (A[1]). Ora, il male dell’uomo consiste nel contrastare con la ragione, come afferma Dionigi (Div. Nom. iv). Pertanto, sarebbe stato meglio dire che il peccato è contrario alla ragione piuttosto che contrario alla legge eterna.
+
+Al contrario, l’autorità di Agostino è sufficiente (Contra Faust. xxii, 27).
+
+Rispondo che, come è stato dimostrato sopra (A[1]), il peccato non è altro che un cattivo atto umano. Ora, poiché un atto è considerato umano proprio perché volontario, come affermato in precedenza (Q[1], A[1]), sia che tale volontà derivi dalla scelta deliberata dell’individuo – ad esempio nel voler fare qualcosa – sia che venga imposta dalla volontà stessa, come nelle azioni esterne come parlare o agire. Un atto umano è considerato malvagio quando manca di conformità con le regole che lo governano; e tale conformità dipende da norme precise, dal cui disprezzo l’atto diventa inadeguato. Esistono dunque due tipi di norme per la volontà umana: una è immediata e omogenea, ovvero la ragione umana; l’altra è rappresentata dalla legge eterna, cioè dalla ragione di Dio. Pertanto Agostino (Contra Faustus, xxii, 27) include nella definizione del peccato due elementi: uno relativo alla sostanza dell’atto umano – che potremmo considerare la “materia” del peccato, quando si parla di parole, azioni o desideri – e l’altro relativo alla natura stessa del male, che rappresenta la “forma” del peccato, quando si afferma che esso è “contrario alla legge eterna”.
+
+Risposta all’Obiezione 1: L’affermazione e la negazione vengono ridotte allo stesso genere; ad esempio, nelle cose divine, ciò che è generato e ciò che non lo è vengono entrambi inclusi nel genere “relazione”, come afferma Agostino (De Trinitate, V, 6, 7): pertanto “parola” e “atto” indicano allo stesso modo ciò che viene detto e ciò che non viene detto, ciò che viene fatto e ciò che non viene fatto.
+
+Risposta all’Obiezione 2: La prima causa del peccato risiede nella volontà, che comanda tutti gli atti volontari; è soltanto nella volontà che il peccato può essere trovato. Per questo motivo Agostino a volte definisce il peccato in riferimento esclusivamente alla volontà. Tuttavia, poiché anche gli atti esterni fanno parte della sostanza stessa del peccato, essendo essi stessi malvagi, era necessario includere nella definizione del peccato anche elementi relativi agli atti esterni.
+
+Risposta all’Obiezione 3: La legge eterna, innanzitutto e soprattutto, indirizza l’uomo verso il suo fine; di conseguenza, rende l’uomo propenso a comportarsi in modo conforme a ciò che è rivolto verso quel fine. Pertanto, quando si dice “contrario alla legge eterna”, ciò include sia l’avversione per tutto ciò che è contrario a tale fine, sia tutte le altre forme di disordinio o irregolarità nel comportamento umano.
+
+Risposta all’Obiezione 4: Quando si afferma che non ogni peccato è malvagio soltanto perché proibito, ciò deve essere inteso riferendosi alla proibizione imposta dalla legge positiva. Tuttavia, se la proibizione si riferisce alla [legge naturale](/positions/natural_law), che è contenuta principalmente nella legge eterna e in secondo luogo nel codice naturale della ragione umana, allora ogni peccato è malvagio perché proibito: poiché è contrario alla legge naturale, proprio perché è inappropriato o eccessivo.
+
+Risposta all’Obiezione 5: Il teologo considera il peccato principalmente come un oltraggio a Dio; il filosofo morale, invece, come qualcosa che è contrario alla ragione. Per questo motivo Agostino definisce il peccato in base al suo essere “contrario alla legge eterna”, definizione più appropriata rispetto a quella basata sul suo essere contrario alla ragione; tanto più che la legge eterna ci guida in molte questioni che trascendono la ragione umana, ad esempio in materia di fede.
+
 <span class="atom-split" data-atom="009" data-title="OF THE DISTINCTION OF SINS (NINE ARTICLES)" data-chapter="OF THE DISTINCTION OF SINS (NINE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the distinction of sins or vices: under which head there are nine points
@@ -405,6 +525,19 @@ of inquiry:
 (7) Whether they differ according to their various stages?
 (8) Whether they differ in respect of excess and deficiency?
 (9) Whether they differ according to their various circumstances?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la distinzione tra peccati o vizi: sotto questa categoria esistono nove punti di indagine:  
+(1) I peccati si distinguono specificamente in base ai loro oggetti?  
+(2) Qual è la differenza tra peccati spirituali e peccati carnali?  
+(3) I peccati differiscono in relazione alle loro cause?  
+(4) Differiscono anche rispetto a coloro contro cui vengono commessi?  
+(5) I peccati variano in base al debito di punizione che comportano?  
+(6) Si distinguono tra omissioni e azioni deliberate?  
+(7) Differiscono a seconda delle loro diverse fasi?  
+(8) Variano in base all’eccesso o alla mancanza nel compierli?  
+(9) Differiscono anche in relazione alle circostanze in cui vengono commessi?
 
 <span class="atom-split" data-atom="010" data-title="Whether sins differ in species according to their objects?" data-chapter="Whether sins differ in species according to their objects?" data-kind="atom" data-srclang="en"></span>
 
@@ -451,6 +584,24 @@ Reply to Objection 3: In various things, differing in species or genus, nothing 
 finding one formal aspect of the object, from which aspect sin receives its species. It is thus that
 pride seeks excellence in reference to various things; and avarice seeks abundance of things adapted
 to human use.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i peccati non differiscano per specie in base ai loro oggetti. Infatti, si dice che gli atti siano buoni o cattivi principalmente in relazione al loro fine, come dimostrato sopra (Q[1], A[3]; Q[18], AA[4],6). Poiché il peccato non è altro che un atto umano cattivo, come affermato sopra (Q[71], A[1]), sembrerebbe che i peccati dovrebbero differire specificamente in base ai loro fini e non in base ai loro oggetti.
+
+Obiezione 2: Inoltre, il male, essendo una privazione, si differenzia specificamente a seconda delle diverse specie di opposti. Ora, il peccato è un male appartenente al genere degli atti umani. Pertanto, i peccati si differenziano specificamente in base ai loro opposti, e non in base ai loro oggetti.
+
+Obiezione 3: Inoltre, se i peccati differissero specificamente in base ai loro oggetti, sarebbe impossibile trovare lo stesso peccato con oggetti diversi; eppure tali peccati esistono davvero. Poiché l’orgoglio riguarda sia cose spirituali che materiali, come afferma Gregorio (Moralia, xxxiv, 18), mentre l’avarizia riguarda tipi diversi di cose. Pertanto, i peccati non differiscono per specie in base ai loro oggetti.
+
+Al contrario, “Il peccato è una parola, un atto o un desiderio che contraddice la legge di Dio”. Ora, parole, atti e desideri differiscono per specie in base ai loro diversi oggetti; poiché gli atti si distinguono per i loro oggetti, come detto sopra (Q[18], A[2]), anche i peccati differiscono per specie in base ai loro oggetti.
+
+Rispondo che, come già detto sopra (Q[71], A[6]), due elementi concorrono nella natura del peccato: l’atto volontario e la sua irregolarità, ovvero il distacco dalla legge di Dio. Di questi due elementi, uno è essenzialmente legato al peccatore, che intende compiere un certo atto in una determinata circostanza; l’altro, cioè l’irregolarità dell’atto stesso, è invece legato in modo accidentale all’intenzione del peccatore, poiché “nessuno agisce con l’intenzione di compiere il male”, come afferma Dionigi (Div. Nom. iv). È evidente che una cosa deriva la propria specie da ciò che è essenziale e non da ciò che è accidentale, poiché ciò che è accidentale rientra nell’ambito delle caratteristiche secondarie. Pertanto, i peccati differiscono specificamente in base agli atti volontari compiuti, piuttosto che in base all’irregolarità intrinseca al peccato stesso. Gli atti volontari, infatti, differiscono per specie in base ai loro oggetti, come dimostrato sopra (Q[18], A[2]). Ne consegue quindi che i peccati possono essere distinti correttamente in base ai loro oggetti specifici.
+
+Risposta all’Obiezione 1: L’aspetto del bene si trova principalmente nell’oggetto; pertanto, l’oggetto stesso svolge il ruolo di elemento fondamentale nell’atto della volontà che sta alla base di ogni peccato. Di conseguenza, non fa differenza se i peccati differiscano per oggetto o per scopo.
+
+Risposta all’Obiezione 2: Il peccato non è una pura privazione, ma un atto privo della sua dovuta ordine; pertanto i peccati si distinguono specificamente in base ai loro oggetti o agli atti che compiono, e non in base ai loro opposti. Tuttavia, anche se venissero distinti in relazione alle virtù opposte a quelle che rappresentano, il risultato sarebbe lo stesso: poiché le virtù si distinguono specificamente in base ai loro oggetti, come già detto sopra (Q[60], A[5]).
+
+Risposta all’Obiezione 3: In varie cose, che differiscono per specie o genere, nulla ostacola il nostro tentativo di individuare un aspetto formale dell’oggetto, da cui tale oggetto riceve la propria specifica natura. È così che l’orgoglio cerca l’eccellenza in relazione a diverse cose; e l’avidità cerca una quantità abbondante di beni utilizzabili dall’uomo.
 
 <span class="atom-split" data-atom="011" data-title="Whether spiritual sins are fittingly distinguished from carnal sins?" data-chapter="Whether spiritual sins are fittingly distinguished from carnal sins?" data-kind="atom" data-srclang="en"></span>
 
@@ -569,6 +720,24 @@ they have the character of term, from which movement takes its species (Phys. v,
 Reply to Objection 3: These distinctions of sins are given, not as distinct species of sins, but
 to show their various causes.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i peccati differiscano specificamente in base alle loro cause. Infatti, una cosa riceve la sua specie da ciò da cui deriva la sua esistenza; poiché i peccati derivano la loro esistenza dalle loro cause, ne ricevono anche la specie. Pertanto, differiscono specificamente in base alle loro cause.
+
+Obiezione 2: Inoltre, tra tutte le cause, la [causa materiale](/concepts/four_causes) sembra avere il minore legame con la specie del peccato. Ora, l’oggetto di un peccato è simile alla sua causa materiale; poiché i peccati differiscono specificamente in base ai loro oggetti, sembra che differiscano ancora di più in relazione alle altre cause che li determinano.
+
+Obiezione 3: Inoltre, [Agostino](/figures/augustine), commentando il Salmo 79:17 (“Cose che vengono date alle fiamme e scavate nel terreno”), afferma che “ogni peccato deriva o dalla paura che induce una falsa umiltà, o dall’amore che ci infuoca con un ardore eccessivo”. Infatti è scritto (1 Giovanni 2:16) che “tutto ciò che esiste nel mondo proviene dalla concupiscenza della carne, o dalla concupiscenza degli occhi, o dall’orgoglio della vita”. Si dice che qualcosa appartenga al mondo a causa del peccato, poiché il termine “mondo” indica coloro che amano il mondo, come osserva Agostino (Trattato ii su Giovanni). Anche Gregorio (Moralia xxxi, 17) distingue tutti i peccati in base ai sette vizi capitali. Ora, tutte queste classificazioni riguardano le cause dei peccati; pertanto, a prima vista, i peccati differiscono specificamente in base alla diversità delle loro cause.
+
+Al contrario, se fosse così, tutti i peccati apparterrebbero alla stessa categoria, poiché derivano da una sola causa. Infatti è scritto (Ecclesiaste 10:15) che “l’orgoglio è l’inizio di ogni peccato”, e (1 Timoteo 6:10) che “la brama di denaro è la radice di tutti i mali”. Ora è evidente che esistono diverse categorie di peccati; pertanto, questi non differiscono in modo specifico in base alle loro diverse cause.
+
+Rispondo che, poiché esistono quattro tipi di cause, queste vengono attribuite alle varie cose in modi diversi. La causa “formale” e quella “materiale” riguardano propriamente la sostanza di una cosa; pertanto le sostanze differiscono per materia e forma, sia a livello di specie che di genere. La causa “agente” e quella “scopo” riguardano direttamente il movimento e l’azione: per questo i movimenti e le azioni differiscono specificamente in base a queste cause; tuttavia, lo fanno in modi diversi, poiché i principi attivi naturali sono sempre determinati ad compiere gli stessi atti; quindi le diverse specie di atti naturali derivano non solo dagli oggetti che ne sono lo scopo o il fine, ma anche dai loro principi attivi: ad esempio, riscaldare e raffreddare differiscono specificamente in base al caldo e al freddo. D’altra parte, i principi attivi negli atti volontari, come quelli che costituiscono i peccati, non sono necessariamente determinati ad un solo atto; pertanto, da uno stesso principio attivo possono derivare diverse specie di peccati: ad esempio, dalla paura che genera una falsa umiltà può scaturire il furto, l’omicidio o l’abbandono del gregge affidato alle proprie cure; e le stesse cose possono derivare dall’amore che suscita un ardore eccessivo. È evidente quindi che i peccati non differiscono specificamente in base alle loro varie cause attive o motivazioni, ma soltanto per la diversità della causa finale, cioè dello scopo e dell’oggetto della volontà. Poiché è stato dimostrato sopra (Q[1], A[3]; Q[18], AA[4],6) che le azioni umane ricevono la loro specie dallo scopo per cui vengono compiute.
+
+Risposta all’Obiezione 1: I principi attivi negli atti volontari, non essendo determinati verso un singolo atto, non sono sufficienti a generare atti umani, a meno che la volontà non sia determinata verso quel singolo atto dall’intenzione del fine, come dimostra il Filosofo (Metafisica IX, testi 15, 16); di conseguenza, il peccato deriva sia dalla sua esistenza che dalla sua specie dal fine stesso.
+
+Risposta all’Obiezione 2: Gli oggetti, in relazione agli atti esterni, hanno il carattere di “materia su cui” tali atti si svolgono; ma in relazione all’atto interno della volontà, hanno il carattere di fine; ed è proprio per questo che conferiscono all’atto la sua specifica natura. Tuttavia, anche considerati come “materia su cui” gli atti avvengono, essi possiedono il carattere di termine, dal quale il movimento riceve la propria specificità (Physica, v, testo 4; Etica, x, 4); eppure anche i termini che indicano il movimento lo specificano, nella misura in cui essi hanno il carattere di fine.
+
+Risposta all’Obiezione 3: Queste distinzioni dei peccati vengono fornite non come specie distinte di peccati, ma per evidenziarne le varie cause.
+
 <span class="atom-split" data-atom="013" data-title="Whether sin is fittingly divided into sin against God, against oneself, and against one's neighbor?" data-chapter="Whether sin is fittingly divided into sin against God, against oneself, and against one's neighbor?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sin is unfittingly divided into sin against God, against one's
@@ -625,6 +794,24 @@ four.
 
 Reply to Objection 3: Although God and our neighbor are external to the sinner himself, they
 are not external to the act of sin, but are related to it as to its object.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra inappropriato dividere il peccato in peccati contro Dio, contro il prossimo e contro se stessi. Infatti, ciò che è comune a tutti i peccati non dovrebbe essere considerato una parte di questa divisione. Tuttavia, essere contro Dio è qualcosa che accomuna tutti i peccati: come affermato nella definizione stessa di peccato, esso “è contrario alla legge di Dio”, come detto sopra (Q[66], A[6]). Pertanto, il peccato contro Dio non dovrebbe essere considerato una categoria distinta all’interno della classificazione dei peccati.
+
+Obiezione 2: Inoltre, ogni divisione dovrebbe comprendere elementi che siano in opposizione tra loro. Ma queste tre tipologie di peccato non sono reciprocamente opposte: infatti, chi pecca contro il proprio prossimo pecca sia contro se stesso che contro Dio. Pertanto, il peccato non può essere adeguatamente suddiviso in queste tre categorie.
+
+Obiezione 3: Inoltre, la specificazione dei peccati non deriva da elementi esterni a noi. Ma Dio e il nostro prossimo sono considerati elementi esterni rispetto a noi. Pertanto i peccati non possono essere distinti in modo specifico in relazione a loro; di conseguenza, la divisione dei peccati in queste tre categorie non è appropriata.
+
+Al contrario, Isidoro (in “De Summo Bono”), nell’elencare le categorie dei peccati, afferma che “si dice che l’uomo pechi contro se stesso, contro Dio e contro il suo prossimo”.
+
+Rispondo che, come già detto sopra (Q[71], AA[1],6), il peccato è un atto eccessivo o irragionevole. Ora, nell’uomo dovrebbe esistere una triplice gerarchia: la prima riguarda la regola della ragione, secondo cui tutte le nostre azioni e passioni devono essere in armonia con questa regola; la seconda riguarda la legge divina, che deve guidarci in ogni ambito della vita. Se l’uomo fosse per natura un animale solitario, queste due gerarchie sarebbero sufficienti. Tuttavia, poiché l’uomo è per natura un animale sociale, come dimostrato nella Politica I, 2, ne è necessaria una terza: quella che lo guida nei rapporti con gli altri esseri umani tra cui vive. Tra queste gerarchie, la seconda include la prima e la supera, poiché tutto ciò che rientra nell’ambito della ragione appartiene anche alla volontà di Dio. Tuttavia, alcune cose rientrano nella sfera della legge divina ma trascendono la comprensione umana, come le questioni di fede o ciò che è dovuto esclusivamente a Dio. Pertanto, chi pecca in tali ambiti – ad esempio con l’eresia, il sacrilegio o la blasfemia – pecca contro Dio stesso. Allo stesso modo, la prima gerarchia include e supera la terza: in tutte le situazioni in cui ciò che facciamo riguarda il nostro prossimo, dobbiamo agire secondo la ragione; tuttavia, in alcune circostanze ci comportiamo secondo la ragione soltanto nei confronti di noi stessi, e non anche del prossimo. In questi casi, si dice che pecciamo contro noi stessi – come avviene nel caso dei golosi, degli lussuriosi o dei dissipatori. Quando invece il nostro peccato riguarda il prossimo, si dice che pecciamo contro di lui, come avviene nei casi dei ladri e degli assassini. Le cose attraverso cui l’uomo è guidato verso Dio, il prossimo e se stesso sono diverse; pertanto questa distinzione tra i peccati si basa sugli oggetti a cui essi si riferiscono, e di conseguenza rappresenta una vera e propria diversificazione delle specie di peccato. Anche le virtù, che sono l’opposto dei peccati, differiscono specificamente in relazione a questi tre aspetti. Come è evidente da quanto detto sopra (Q[62], AA[1],2,3), attraverso le virtù teologali l’uomo è guidato verso Dio; attraverso la temperanza e la forza d’animo, verso se stesso; e attraverso la giustizia, verso il prossimo.
+
+Risposta all’Obiezione 1: Peccare contro Dio è comune a tutti i peccati, nella misura in cui l’ordine rispetto a Dio include ogni ordine umano; ma poiché l’ordine rispetto a Dio trascende gli altri due ordini, peccare contro Dio rappresenta un tipo particolare di peccato.
+
+Risposta all’Obiezione 2: Quando diverse entità, tra cui una include un’altra, sono distinte l’una dall’altra, questa distinzione si riferisce non alla parte contenuta nell’altra, ma a quella in cui l’entità inclusa va oltre l’altra. Ciò è evidente nella divisione dei numeri e delle figure: un triangolo viene distinto da una figura quadrilaterale non in base al fatto di essere contenuto in essa, ma in base a ciò che lo rende superiore a quest’ultima; lo stesso vale per i numeri tre e quattro.
+
+Risposta all’Obiezione 3: Sebbene Dio e il nostro prossimo siano esterni al peccatore stesso, non lo sono rispetto all’atto di peccato, ma ne sono legati in quanto riguardano l’oggetto di tale atto.
 
 <span class="atom-split" data-atom="014" data-title="Whether the division of sins according to their debt of punishment diversifies their species?" data-chapter="Whether the division of sins according to their debt of punishment diversifies their species?" data-kind="atom" data-srclang="en"></span>
 
@@ -701,6 +888,25 @@ Reply to Objection 3: The reward is intended by him that merits or acts virtuall
 punishment is not intended by the sinner, but, on the contrary, is against his will. Hence the
 comparison fails.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la divisione dei peccati in base al loro grado di punizione diversifichi le loro specie; ad esempio, quando i peccati vengono suddivisi in “mortali” e “veniali”. Infatti, cose che sono infinitamente distanti tra loro non possono appartenere alla stessa specie, né tantomeno allo stesso genere. Ma il peccato veniale e quello mortale sono infinitamente diversi: il castigo temporale è infatti previsto per i peccati veniali, mentre il castigo eterno per quelli mortali; inoltre, l’entità della punizione corrisponde alla gravità del peccato, come affermato in Deuteronomio 25:2: “Secondo la misura del peccato sarà anche la misura delle bastonate”. Pertanto, i peccati veniali e mortali non appartengono allo stesso genere, né si può dire che facciano parte della stessa specie.
+
+Obiezione 2: Inoltre, alcuni peccati sono mortali in virtù della loro specie – come l’omicidio e l’adulterio –; altri, invece, sono veniali in virtù della loro specie, come parole vane o risate eccessive. Pertanto, i peccati veniali e quelli mortali differiscono specificamente tra loro.
+
+Obiezione 3: Inoltre, proprio come un atto virtuoso è legato alla sua ricompensa, allo stesso modo il peccato è legato al suo castigo. Ma la ricompensa rappresenta lo scopo finale dell’atto virtuoso; pertanto anche il castigo costituisce lo scopo finale del peccato. Ora, i peccati differiscono specificamente in base ai loro scopi, come già detto sopra (A[1], ad 1); quindi sono anche distinti in base al debito di punizione che comportano.
+
+Al contrario, quelle caratteristiche che costituiscono una specie sono anteriori alla stessa specie, ad esempio le differenze specifiche. Ma la punizione segue il peccato come suo effetto. Pertanto, i peccati non si distinguono in base alla “dovenza” di punizione che comportano.
+
+Rispondo che, nelle cose che differiscono specificamente, troviamo una doppia distinzione: la prima causa la diversità delle specie e non si riscontra se non tra specie diverse, ad esempio “razionale” e “irrazionale”, “animato” e “inanimato”; la seconda distinzione deriva dalla diversità specifica; e sebbene in alcuni casi possa derivarne, in altri può essere riscontrata all’interno della stessa specie; così “bianco” e “nero” derivano dalla diversità specifica del corvo e del cigno, ma questa distinzione esiste anche all’interno della stessa specie umana. Pertanto dobbiamo affermare che la differenza tra peccato veniale e mortale, o qualsiasi altra differenza, riguardante il debito di punizione, non può costituire una diversità specifica. Poiché ciò che è accidentale non costituisce mai una specie; e ciò che è al di fuori dell’intenzione dell’agente è accidentale (Fisica ii, testo 50). Ora è evidente che la punizione è al di fuori dell’intenzione del peccatore, quindi essa viene riferita accidentalmente al peccato da parte dello stesso. Tuttavia, questa relazione deriva da un principio esterno, ovvero dalla giustizia del giudice, che impone varie punizioni in base ai diversi tipi di peccato. Pertanto, la differenza derivante dal debito di punizione può essere conseguente alla diversità specifica dei peccati, ma non può costituirli. La differenza tra peccato veniale e mortale deriva invece dalla diversità di quella disordinazione che costituisce il concetto stesso di peccato. Poiché la disordinazione è di due tipi: una che distrugge il principio dell’ordine, e un’altra che, senza distruggere tale principio, comporta disordini nelle cose che ne derivano; ad esempio, nel corpo animale, l’organismo può essere così disordinato da distruggere il principio vitale; questo è il caso della morte; mentre, pur preservando il principio vitale, possono esserci disordini negli umori corporei, causando malattie. Ora, il principio dell’intero ordine morale è la fine ultima, che ha lo stesso rapporto con le azioni umane quanto il principio indimostrabile ha con i concetti teorici (Etica vii, 8). Pertanto, quando l’anima viene disordinata dal peccato al punto di allontanarsi dalla sua fine ultima, ovvero da Dio, a cui è unita per mezzo dell’amore, si verifica un peccato mortale; ma quando viene disordinata senza allontanarsi da Dio, si verifica un peccato veniale. Poiché, proprio come nel corpo, il disordine causato dalla morte, che distrugge il principio della vita, è irreparabile secondo la natura, mentre il disordine dovuto a una malattia può essere riparato poiché il principio vitale viene preservato, lo stesso vale per le questioni relative all’anima. Poiché, in ambito teorico, è impossibile convincere chi erra nei principi fondamentali; mentre chi erra, ma mantiene tali principi, può essere riportato alla verità attraverso di essi. Allo stesso modo, in ambito pratico, colui che, peccando, si allontana da.
+La sua fine ultima, se si considera la natura del suo peccato, è irreparabile; per questo si dice che abbia commesso un peccato mortale e meriti quindi una punizione eterna. Invece, quando un uomo pecca senza allontanarsi da Dio, per la stessa natura di quel peccato, il disordine creato può essere riparato, poiché il principio dell’ordine non viene distrutto; per questo si dice che abbia commesso un peccato veniale, poiché, in altre parole, non pecca al punto da meritare una punizione eterna.
+
+Risposta all’Obiezione 1: I peccati mortali e veniali differiscono infinitamente in ciò da cui “si allontanano”, non in ciò verso cui “si rivolgono”, ovvero nell’oggetto che li specifica. Pertanto, nulla impedisce che lo stesso genere di peccato includa sia i peccati mortali che quelli veniali; ad esempio, nel genere del “adulterio”, il primo atto compiuto può essere considerato un peccato veniale, mentre una parola inutile, che generalmente è considerata venale, può anche rivelarsi un peccato mortale.
+
+Risposta all’Obiezione 2: Dal fatto che un peccato è mortale per la sua specie e un altro veniale per la sua specie, ne consegue che questa differenza deriva dalla specificità stessa dei peccati, e non ne è la causa. Inoltre, questa differenza può essere riscontrata anche in cose della stessa specie, come già accennato in precedenza.
+
+Risposta all’Obiezione 3: La ricompensa è destinata a coloro che meritano o compiono azioni virtuose; al contrario, la punizione non è voluta dal peccatore, ma va contro la sua volontà. Pertanto, il paragone non regge.
+
 <span class="atom-split" data-atom="015" data-title="Whether sins of commission and omission differ specifically?" data-chapter="Whether sins of commission and omission differ specifically?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sins of commission and omission differ specifically. For
@@ -757,6 +963,24 @@ Reply to Objection 3: This objection considers the material diversity of sins. I
 observed, however, that although, properly speaking, negation is not in a species, yet it is allotted
 to a species by reduction to the affirmation on which it is based.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i peccati commessi intenzionalmente e quelli derivanti dall’omissione differiscano specificamente tra loro. Infatti, termini come “offesa” e “peccato” vengono spesso utilizzati in modo intercambiabile (Efezi 2:1), dove si legge: “Quando eravate morti nei vostri peccati”, e una glossa spiega che con “peccati” si intendono gli atti vietati dalla legge, mentre con “offese” si indicano le omissioni rispetto a ciò che era stato comandato. Da ciò emerge chiaramente che “offese” rappresentino peccati derivanti dall’omissione, mentre “peccati” siano quelli commessi intenzionalmente. Pertanto, questi concetti differiscono specificamente tra loro, poiché vengono contrapposti come specie distinte.
+
+Obiezione 2: Inoltre, è essenziale che il peccato sia contrario alla legge di Dio, poiché ciò fa parte della sua stessa definizione, come risulta chiaro da quanto detto in precedenza (Q[71], A[6]). Ora, nella legge di Dio, i precetti positivi, contro cui si commette il peccato di omissione, sono diversi dai precetti negativi, contro cui si commette anch’essi il peccato di omissione. Pertanto, i peccati di omissione e quelli di commissione differiscono specificamente tra loro.
+
+Obiezione 3: Inoltre, l’omissione e l’azione differiscono come l’affermazione e la negazione. Ora, l’affermazione e la negazione non possono appartenere alla stessa specie, poiché la negazione non ha alcuna specie; infatti, “non esiste né specie né differenza nel non-essere”, come afferma il Filosofo (Physica iv, testo 67). Pertanto, l’omissione e l’azione non possono neppure appartenere alla stessa categoria logica.
+
+Al contrario, sia l’omissione che la commissione rientrano nella stessa categoria di peccato. L’uomo avido, infatti, sia prende ciò che appartiene agli altri – il che costituisce un peccato di commissione – sia non dona ciò che gli spetta di donare, il che rappresenta un peccato di omissione. Pertanto, omissione e commissione non differiscono per natura specifica.
+
+Rispondo che esistono due tipi di differenze nei peccati: una differenza materiale e una differenza formale. La differenza materiale si riferisce alle specie naturali dell’atto peccaminoso; la differenza formale, invece, deriva dalla loro relazione verso uno scopo specifico, che è anche il loro oggetto reale. Pertanto, troviamo alcuni atti che differiscono tra loro per caratteristiche materiali, ma che formalmente appartengono alla stessa specie di peccato, poiché sono tutti direzionati verso lo stesso fine. Ad esempio, soffocare, lapidare e pugnalare rientrano nella stessa categoria del omicidio, anche se le azioni stesse differiscono per specifiche caratteristiche naturali. Se consideriamo le specie materiali dei peccati di omissione e di commissione, queste differiscono tra loro in senso lato, poiché l’negazione e la privazione possono essere considerate forme di azione. Tuttavia, se consideriamo le specie formali, tali peccati non differiscono tra loro, poiché sono entrambi direzionati verso lo stesso scopo e derivano dallo stesso movente. Ad esempio, l’uomo avaro, al fine di accumulare denaro, sia deruba che omette di dare ciò che è dovuto; allo stesso modo, il goloso, per saziare la propria fame, mangia troppo e omette di osservare i digiuni prescritti. Lo stesso vale per altri peccati: in ogni caso, l’negazione si basa sempre sull’affermazione, che, in qualche modo, ne costituisce la causa. Pertanto, anche nell’ordine fisico, elementi come il fuoco sono considerati appartenenti alla stessa categoria, poiché producono calore e non freddo.
+
+Risposta all’Obiezione 1: Questa distinzione tra azioni compiute intenzionalmente e omissioni non si basa su diverse specie formali, ma soltanto su diverse specie materiali, come già detto.
+
+Risposta all’Obiezione 2: Nella legge di Dio, la necessità di vari precetti positivi e negativi risiede nel fatto che tali precetti dovessero guidare gradualmente gli uomini verso la virtù: innanzitutto astenendoli dal male, attraverso i precetti negativi, e successivamente incitandoli a compiere il bene, grazie ai precetti positivi. Pertanto, i precetti positivi e negativi non appartengono a diverse virtù, ma a diversi gradi di virtù; di conseguenza, non sono necessariamente legati a peccati di specie diverse. Inoltre, il peccato non viene definito da ciò da cui si allontana – poiché in questo senso rappresenta una negazione o una privazione – ma da ciò verso cui si dirige, nella misura in cui il peccato è un atto concreto. Di conseguenza, i peccati non differiscono specificamente in base ai vari precetti della Legge.
+
+Risposta all’Obiezione 3: Questa obiezione prende in considerazione la diversità materiale dei peccati. Tuttavia, è necessario osservare che, sebbene, in senso stretto, la negazione non appartenga a nessuna specie specifica, essa viene comunque riferita a una specie attraverso la riduzione all’affermazione su cui si basa.
+
 <span class="atom-split" data-atom="016" data-title="Whether sins are fittingly divided into sins of thought, word, and deed?" data-chapter="Whether sins are fittingly divided into sins of thought, word, and deed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sins are unfittingly divided into sins of thought, word, and
@@ -811,6 +1035,24 @@ they are united together with it, but when each is found by itself: even as one 
 is not distinct from the whole movement, when the movement is continuous, but only when there
 is a break in the movement.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra inappropriato dividere i peccati in peccati di pensiero, di parola e di azione. Infatti, [Agostino](/figures/augustine) (De Trin. xii, 12) descrive tre fasi del peccato: la prima è “quando il senso carnale offre una tentazione”, che corrisponde al peccato di pensiero; la seconda fase si verifica “quando ci si accontenta semplicemente del piacere derivante dal pensiero”; la terza fase consiste “nel dare consenso all’atto concreto”. Ora, queste tre fasi rientrano tutte nel peccato di pensiero. Pertanto, è inappropriato considerare il peccato di pensiero come una categoria a sé stante di peccati.
+
+Obiezione 2: Inoltre, Gregorio (Moralia, iv, 25) distingue quattro gradi di peccato; il primo è “un errore nascosto nel cuore”; il secondo, “quando tale errore viene compiuto apertamente”; il terzo, “quando diventa un’[abitudine](/concepts/custom)”; e il quarto, “quando l’uomo arriva al punto di presumere sulla misericordia di Dio o di abbandonarsi alla disperazione”. In questo schema non viene fatta distinzione tra peccati commessi con le azioni e peccati commessi con le parole; inoltre vengono aggiunti altri due gradi di peccato. Pertanto, questa prima classificazione risultava inadeguata.
+
+Obiezione 3: Inoltre, non può esistere peccato di parola o di azione se non vi è prima un peccato di pensiero. Pertanto, questi peccati non differiscono in modo specifico; per questo motivo non dovrebbero essere considerati equivalenti tra loro.
+
+Al contrario, Gerome, commentando Ezechiele 43:23, afferma: “L’umanità è soggetta a tre tipi di peccato; quando pecciamo, infatti, lo facciamo attraverso il pensiero, le parole o le azioni”.
+
+Rispondo che le cose differiscono specificamente in due modi: primo, quando ciascuna possiede la specie completa; così un cavallo e un bue differiscono specificamente. Secondo, quando la diversità delle specie deriva da una diversità di grado nella generazione o nel movimento; ad esempio, la costruzione di una casa rappresenta la generazione completa di tale edificio, mentre il getto delle fondamenta e l’erezione dei muri costituiscono fasi incomplete del processo di realizzazione, come afferma il Filosofo nell’Etica (X, 4); lo stesso vale per la generazione degli animali. Di conseguenza, i peccati si dividono in tre categorie: peccati di pensiero, di parola e di azione, ma non come specie complete distinte tra loro; infatti, l’attuazione concreta del peccato avviene nell’azione, ed è proprio per questo che i peccati di azione rappresentano le specie complete. Tuttavia, l’inizio stesso del peccato risiede nel pensiero; il secondo grado è rappresentato dalle parole, quando l’uomo è pronto a esprimere i propri pensieri in modo negativo; il terzo grado consiste nell’attuazione concreta di tali pensieri. Pertanto, queste tre categorie differiscono tra loro per i diversi gradi di gravità del peccato. Nonostante ciò, è evidente che tutte appartengono alla stessa specie completa di peccato, poiché derivano dallo stesso movente: ad esempio, un uomo arrabbiato, spinto dal desiderio di vendetta, inizia con pensieri negativi, poi passa alle parole offensive e infine compie atti malvagi; lo stesso vale per la lussuria e qualsiasi altro peccato.
+
+Risposta all’Obiezione 1: Tutti i peccati del pensiero condividono la caratteristica comune della segretezza; in questo senso, costituiscono un unico grado che, tuttavia, può essere suddiviso in tre fasi: la riflessione, il piacere derivato da tale riflessione e l’assenso definitivo a tali pensieri.
+
+Risposta all’Obiezione 2: I peccati di parola e di azione vengono entrambi compiuti apertamente; per questo motivo Gregorio (Morale, iv, 25) li considera della stessa categoria; mentre Gerolamo, commentando Ezechiele 43:23, ne fa una distinzione: nei peccati di parola l’aspetto esteriore rappresenta soltanto la manifestazione di un’intenzione principale; nei peccati di azione, invece, è la realizzazione concreta del pensiero interiore a costituire l’elemento fondamentale, mentre l’espressione esterna ne è solo il risultato conseguente. L’abitudine al male e la disperazione rappresentano fasi successive allo sviluppo completo di un peccato, proprio come l’infanzia e la giovinezza seguono lo sviluppo completo di una persona umana.
+
+Risposta all’Obiezione 3: Il peccato del pensiero e il peccato della parola non sono distinti dal peccato dell’azione quando sono uniti ad essa; ma quando vengono considerati separatamente, sì lo sono. Così come una parte di un movimento non è distinta dall’intero movimento quando questo è continuo, ma solo quando vi è una interruzione nel movimento stesso.
+
 <span class="atom-split" data-atom="017" data-title="Whether excess and deficiency diversify the species of sins?" data-chapter="Whether excess and deficiency diversify the species of sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that excess and deficiency do not diversify the species of sins. For
@@ -863,6 +1105,24 @@ Reply to Objection 3: One may be prodigal and illiberal with regard to different
 instance one may be illiberal [*Cf. SS, Q[119], A[1], ad 1] in taking what one ought not: and nothing
 hinders contraries from being in the same subject, in different respects.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che eccesso e difetto non diversifichino le specie di peccati. Infatti, eccesso e difetto si distinguono in termini di “di più” e “di meno”, ma “di più” e “di meno” non diversificano una specie. Pertanto, eccesso e difetto non diversificano nemmeno le specie di peccati.
+
+Obiezione 2: Inoltre, proprio come il peccato, nelle questioni pratiche, deriva dal deviare dalla rettitudine della ragione, così anche la falsità, nelle questioni speculative, deriva dal deviare dalla verità della realtà. Ora, la specie di falsità non si diversifica nel dire più o meno della realtà; pertanto, neanche la specie di peccato si diversifica nel deviare più o meno dalla rettitudine della ragione.
+
+Obiezione 3: Inoltre, “una specie non può essere costituita da due elementi diversi”, come afferma Porfirio nell’*Isagogon*; cfr. Aristotele, *Metafisica*, I. Ora, eccesso e difetto sono entrambi considerati peccati; infatti alcune forme di comportamento sono al contempo irrispettose delle regole morali e dissipative: l’irrispetto delle regole morali rappresenta un difetto, mentre la dissipazione costituisce un eccesso. Pertanto, eccesso e difetto non diversificano le specie di peccati.
+
+Al contrario, i contrari si distinguono in modo specifico, poiché “la contrarietà è una differenza di forma”, come affermato nella Metafisica, X, testi 13 e 14. Ora, i vizi che si differenziano in base all’eccesso o alla carenza sono tra loro contrari, come l’irragionevolezza lo è rispetto al lusso sfrenato. Pertanto, essi si distinguono in modo specifico.
+
+Rispondo che, sebbene nel peccato vi siano due elementi: l’atto stesso e la sua irregolarità, poiché il peccato rappresenta una deviazione dall’ordine della ragione e dalla [legge divina](/concepts/divine_law), la specie del peccato non deriva dalla sua irregolarità – che, come già detto (A[1]), è al di fuori dell’intenzione del peccatore – bensì, al contrario, dall’atto stesso, in quanto rivolto verso l’oggetto verso cui è diretta l’intenzione del peccatore. Pertanto, ove troviamo un motivo diverso che spinge all’atto peccaminoso, esisterà anche una specie diversa di peccato. È evidente infatti che il motivo che induce al peccato nei casi di eccesso non è lo stesso di quello che lo induce nei casi di carenza; anzi, questi motivi sono opposti tra loro: nel peccato di intemperanza il motivo è l’amore per i piaceri corporei, mentre nel peccato di insensibilità il motivo è l’odio per tali piaceri. Pertanto, questi peccati non solo differiscono tra loro in termini specifici, ma sono anche reciprocamente contrari.
+
+Risposta all’Obiezione 1: Sebbene “di più” e “di meno” non causino la diversità delle specie, talvolta sono conseguenza di differenze specifiche, nella misura in cui derivano dalla varietà delle forme; pertanto possiamo affermare che il fuoco sia più leggero dell’aria. Per questo motivo il Filosofo dice (Etica viii, 1) che “coloro che sostenevano l’inesistenza di diverse specie di [amicizia](/concepts/friendship), in quanto essa ammette gradi diversi, sono stati guidati da prove insufficienti”. Superare o mancare la ragione in questo modo rientra tra i peccati specificamente diversi, nella misura in cui derivano da motivi differenti.
+
+Risposta all’Obiezione 2: Non è intenzione del peccatore allontanarsi dalla ragione; pertanto i peccati di eccesso o di difetto non diventano dello stesso genere a causa di tale allontanamento dalla rettitudine della ragione. D’altra parte, a volte colui che pronuncia una menzogna intende nascondere la verità; in questo senso non ha importanza se dice di più o di meno. Tuttavia, se l’allontanamento dalla verità non rientra nelle sue intenzioni, è evidente che ci sono motivi diversi che spingono una persona a dire di più o di meno; e in questo contesto esistono diversi tipi di menzogne, come dimostra il “presuntuoso”, che esagera nel raccontare bugie per ottenere fama, e il “truffatore”, che dice meno della verità per evitare di pagare i propri debiti. Ciò spiega anche perché alcune opinioni false siano contrarie tra loro.
+
+Risposta all’Obiezione 3: Si può essere prodighi e irrispettosi nei confronti di oggetti diversi; ad esempio, si può essere irrispettosi nel prendere ciò che non si dovrebbe [Cfr. SS, Q[119], A[1], ad 1]. Inoltre, nulla impedisce che contrari caratteristiche siano presenti nello stesso soggetto, in ambiti diversi.
+
 <span class="atom-split" data-atom="018" data-title="Whether sins differ specifically in respect of different circumstances?" data-chapter="Whether sins differ specifically in respect of different circumstances?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that vices and sins differ in respect of different circumstances. For,
@@ -907,6 +1167,24 @@ when there is another motive.
 
 Reply to Objection 3: In the various species of gluttony there are various motives, as stated.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che vizi e peccati differiscano in base alle diverse circostanze. Infatti, come afferma Dionisio (Div. Nom. iv), “il male deriva da ogni singola imperfezione”. Ora, le singole imperfezioni sono corruzioni di particolari circostanze; pertanto, dalla corruzione di ciascuna circostanza deriva un tipo specifico di peccato.
+
+Obiezione 2: Inoltre, i peccati sono atti umani. Ma gli atti umani a volte ricevono la loro specifica natura dalle circostanze in cui avvengono, come già detto sopra (Q[18], A[10]). Pertanto, i peccati differiscono in modo specifico a seconda delle diverse circostanze che li determinano.
+
+Obiezione 3: Inoltre, diverse caratteristiche vengono attribuite alla gola, secondo quanto indicato nel seguente versetto: “Affrettatamente, in modo sfarzoso, eccessivamente, avidamente, con troppa cura per l’apparenza”. Queste caratteristiche si riferiscono a diverse circostanze: “affrettatamente” significa prima del dovuto; “in modo sfarzoso”, più di quanto sia giusto, e così via. Pertanto, le forme di questo peccato variano in base alle diverse situazioni in cui si manifesta.
+
+Al contrario, il Filosofo afferma (Etica, iii, 7; iv, 1) che “ogni vizio pecca perché si compie più di quanto sia dovuto, o quando non è affatto consentito farlo”; e lo stesso vale per le altre circostanze. Pertanto, i tipi di peccati non si diversificano in questo senso.
+
+Rispondo che, come già detto sopra (A[8]), ovunque esista un motivo specifico per peccare, si ha un tipo diverso di peccato, poiché il motivo stesso del peccato ne costituisce lo scopo e l’oggetto. A volte, pur essendo corrotte circostanze diverse, esiste soltanto un unico motivo: ad esempio, una persona dissoluta, per lo stesso motivo, prende ciò che non dovrebbe, dove non dovrebbe, e in quantità eccessive; tutto questo deriva da un desiderio smisurato di accumulare denaro. In tali casi, la diversità delle circostanze corrotte non altera la natura del peccato, che rimane sempre lo stesso. Tuttavia, altre volte la corruzione delle circostanze deriva da motivi diversi: ad esempio, il mangiare in fretta può essere dovuto alla difficoltà di attendere l’ora giusta per consumare il cibo, a causa di un rapido esaurimento degli umori digestivi; il desiderio eccessivo di cibo può derivare da una capacità digestiva naturalemente forte; mentre la preferenza per carni pregiate riflette un desiderio di piacere nel mangiare. In questi casi, la diversità delle circostanze corrotte comporta effettivamente tipi diversi di peccato.
+
+Risposta all’Obiezione 1: Il male, in sé, è una privazione; pertanto presenta diverse specie a seconda di ciò che viene privato dal soggetto, proprio come altre forme di privazione. Ma il peccato non deriva la sua specie dalla privazione o dall’avversione, come già detto (A[1]), ma dal rivolgersi all’oggetto dell’atto stesso.
+
+Risposta all’Obiezione 2: Una circostanza non trasferisce mai un atto da una categoria all’altra, a meno che non esista un altro motivo che lo determini.
+
+Risposta all’Obiezione 3: Come già detto, nelle varie forme di gola esistono motivi diversi che le determinano.
+
 <span class="atom-split" data-atom="019" data-title="OF THE COMPARISON OF ONE SIN WITH ANOTHER (TEN ARTICLES)" data-chapter="OF THE COMPARISON OF ONE SIN WITH ANOTHER (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the comparison of one sin with another: under which head there are ten
@@ -921,6 +1199,20 @@ points of inquiry:
 (8) Whether it depends on how much harm ensues?
 (9) Whether on the position of the person sinned against?
 (10) Whether sin is aggravated by reason of the excellence of the person sinning?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il confronto tra un peccato e un altro: in questo ambito esistono dieci punti da analizzare:  
+(1) Se tutti i peccati e i vizi siano tra loro collegati;  
+(2) Se siano tutti uguali;  
+(3) Se la gravità di un peccato dipenda dall’oggetto a cui si riferisce;  
+(4) Se dipenda dall’eccellenza della virtù contro cui si scontra;  
+(5) Se i peccati carnali siano più gravi dei peccati spirituali;  
+(6) Se la gravità dei peccati dipenda dalle loro cause;  
+(7) Se dipenda dalle circostanze in cui vengono commessi;  
+(8) Se dipenda dal danno che ne deriva;  
+(9) Dalla posizione della persona contro cui si compie il peccato;  
+(10) Se il peccato sia aggravato dall’eccellenza della persona che lo commette.
 
 <span class="atom-split" data-atom="020" data-title="Whether all sins are connected with one another?" data-chapter="Whether all sins are connected with one another?" data-kind="atom" data-srclang="en"></span>
 
@@ -986,6 +1278,24 @@ But self-love disunites man's affections among different things, in so far as ma
 desiring for himself temporal goods, which are various and of many kinds: hence vices and sins,
 which arise from self-love, are not connected together.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che tutti i peccati siano tra loro collegati. Infatti è scritto (Giacomo 2:10): “Chiunque osservi tutta la legge e trasgredisca in un solo punto, è colpevole di tutti”. Ora, essere colpevoli di aver violato tutti i precetti della legge equivale a commettere tutti i peccati, poiché, come afferma Ambrogio (De Paradiso viii), “il peccato è una trasgressione della [legge divina](/concepts/divine_law) e un’ disobbedienza ai comandamenti celesti”. Pertanto, chi commette un solo peccato è colpevole di tutti.
+
+Obiezione 2: Inoltre, ogni peccato esclude la virtù opposta a esso. Chi manca di una virtù, quindi, manca di tutte, come è stato dimostrato sopra (Q[65], A[1]). Pertanto, chi commette un solo peccato viene privato di tutte le virtù. Quindi, chi commette un solo peccato è colpevole di tutti i peccati.
+
+Obiezione 3: Inoltre, tutte le virtù sono collegate tra loro, poiché condividono un principio comune, come già affermato sopra (Q[65], AA[1],2). Poiché le virtù hanno un principio comune, lo stesso vale per i peccati: infatti, così come l’amore di Dio, che costruisce la “città di Dio”, è l’inizio e la radice di tutte le virtù, allo stesso modo l’autoamore, che costruisce la “città di Babilonia”, è la radice di tutti i peccati, come dichiara [Agostino](/figures/augustine) (De Civ. Dei xiv, 28). Pertanto, anche tutti i vizi e i peccati sono collegati tra loro; chi ne commette uno, ne commette tutti.
+
+Al contrario, alcuni vizi sono tra loro opposti, come afferma il Filosofo nell’Etica, II, 8. Ma gli opposti non possono coesistere nello stesso soggetto. Pertanto, è impossibile che tutti i peccati e i vizi siano tra loro collegati.
+
+Rispondo che l’intenzione dell’uomo che agisce secondo la virtù, seguendo il ragionamento, è diversa dall’intenzione del peccatore che si allontana dal sentiero della ragione. Infatti, l’intenzione di chiunque agisca in modo virtuoso è quella di seguire le regole della ragione; perciò tutte le virtù sono dirette verso lo stesso scopo, e quindi sono collegate tra loro attraverso il giusto ordine delle cose da compiere, ovvero la prudenza, come già detto sopra (Q[65], A[1]). Al contrario, l’intenzione del peccatore non è diretta verso il perseguimento di un bene desiderabile, ma piuttosto verso l’allontanamento dal sentiero della ragione. I beni a cui si rivolge l’intenzione del peccatore sono di vario tipo e non sono tra loro collegati; anzi, a volte sono addirittura contrari tra loro. Poiché quindi i vizi e i peccati traggono la loro essenza da ciò verso cui si orientano, è evidente che, per quanto riguarda l’elemento fondamentale che costituisce la natura di un peccato, questi non sono tra loro collegati. Il peccato, infatti, non consiste nel passare dal molteplice al singolo – come avviene nelle virtù, che sono invece collegate tra loro – ma piuttosto nel abbandonare il singolo per il molteplice.
+
+Risposta all’Obiezione 1: James parla di peccato, non in relazione a ciò verso cui esso si dirige e che ne causa la distinzione, come detto sopra (Q[72], A[1]), ma in relazione a ciò da cui il peccato si allontana; infatti l’uomo, peccando, si allontana da un comandamento della legge. Ora, tutti i comandamenti della legge provengono dallo stesso principio, come egli stesso afferma nello stesso passaggio; quindi lo stesso Dio viene disprezzato in ogni peccato. In questo senso, James dice che chi “offende in un punto è colpevole di tutti”, poiché commettendo un solo peccato si incarica del debito della punizione a causa del proprio disprezzo per Dio, che è l’origine di tutti i peccati.
+
+Risposta all’Obiezione 2: Come già detto sopra (Q[71], A[4]), non ogni atto di peccato distrugge la virtù opposta; infatti il peccato veniale non annienta la virtù, mentre il peccato mortale distrugge quella virtù innata, allontanando l’uomo da Dio. Tuttavia, anche un solo atto di peccato mortale non cancella l’abitudine alla virtù acquisita; se tali atti vengono ripetuti fino a generare un’abitudine contraria, allora l’abitudine alla virtù viene distrutta, e tale distruzione comporta la perdita della prudenza, poiché quando l’uomo agisce contro qualsiasi virtù, agisce contro la prudenza stessa, senza la quale nessuna virtù morale è possibile, come già affermato sopra (Q[58], A[4]; Q[65], A[1]). Di conseguenza, tutte le virtù morali vengono distrutte nella loro essenza perfetta e formale, nella misura in cui dipendono dalla prudenza; tuttavia rimangono le inclinazioni verso atti virtuosi, ma queste inclinazioni stesse non costituiscono vere e proprie virtù. Tuttavia, ciò non significa che per questo motivo l’uomo commetta tutti i vizi: innanzitutto, perché alcuni vizi sono opposti a una singola virtù, quindi uno di essi può distruggerla senza che gli altri siano presenti; in secondo luogo, perché il peccato è direttamente contrario alla virtù, soprattutto per quanto riguarda l’inclinazione dell’uomo ad agire in modo virtuoso, come già affermato sopra (Q[71], A[1]). Pertanto, finché rimangono inclinazioni verso il bene, non si può dire che l’uomo abbia commesso i vizi opposti.
+
+Risposta all’Obiezione 3: L’amore di Dio è unificante, in quanto dirige i sentimenti dell’uomo dal molteplice verso l’unità; per questo le virtù che derivano dall’amore di Dio sono tra loro collegate. Ma l’amor proprio disunisce i sentimenti umani, poiché spinge l’uomo a desiderare beni temporali, vari e di diverso genere; da ciò derivano vizi e peccati che, essendo legati all’amor proprio, non sono tra loro collegati.
+
 <span class="atom-split" data-atom="021" data-title="Whether all sins are equal?" data-chapter="Whether all sins are equal?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all sins are equal. Because sin is to do what is unlawful. Now
@@ -1041,6 +1351,24 @@ than another, in the same species of virtue, as stated above (Q[66], AA[1],2). M
 virtues were equal, it would not follow that vices are equal, since virtues are connected, and vices
 or sins are not.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che tutti i peccati siano uguali. Poiché il peccato consiste nel compiere atti illegali, e compiere atti illegali viene condannato nello stesso modo in tutte le circostanze. Pertanto, ogni peccato viene condannato allo stesso modo; quindi nessun peccato è più grave di un altro.
+
+Obiezione 2: Inoltre, ogni peccato rappresenta una trasgressione della regola della ragione, che per gli atti umani è ciò che la legge lineare è per le cose corporee. Pertanto, peccare significa proprio superare quel limite stabilito dalla ragione. Ma superare tale limite avviene in modo ugualmente efficace, sia che si proceda lontano da esso sia che si rimanga vicini ad esso, poiché le privazioni non ammettono gradazioni di intensità. Quindi tutti i peccati sono uguali.
+
+Obiezione 3: Inoltre, i peccati sono in opposizione alle virtù. Ma tutte le virtù sono uguali, come afferma [Cicerone](/figures/cicero) (Paradosso iii). Pertanto, tutti i peccati sono uguali.
+
+Al contrario, il nostro Signore disse a Pilato (Giovanni 19:11): “Colui che mi ha consegnato a te ha commesso un peccato più grave”, eppure è evidente che anche Pilato era colpevole di qualche peccato. Pertanto, un peccato può essere più grave di un altro.
+
+Rispondo che l’opinione degli Stoici, adottata da Cicerone nel libro sui Paradoxi (Paradoxi iii), era che tutti i peccati siano uguali; da questa opinione derivò l’errore di alcuni eretici, i quali non solo ritenevano tutti i peccati equivalenti, ma sostenevano anche che tutte le sofferenze dell’inferno fossero uguali. Da quanto si può dedurre dalle parole di Cicerone, gli Stoici giunsero a questa conclusione considerando il peccato soltanto dal punto di vista della privazione, cioè come una deviazione dalla ragione; poiché nessuna privazione ammette gradi diversi, essi ritenevano che tutti i peccati fossero uguali. Tuttavia, se consideriamo la questione con attenzione, vedremo che esistono due tipi di privazione: una semplice e pura, che consiste nel “diventare” corrotti, come la morte che è privazione della vita o l’oscurità che è privazione della luce; tali privazioni non ammettono gradi diversi, poiché nulla rimane dell’opposto stato. Pertanto, un uomo non è meno “morto” il primo giorno dopo la sua morte rispetto al terzo o quarto giorno, né rispetto all’anno successivo, quando il suo corpo è ormai decomposto; allo stesso modo, una casa non è più buia se la luce viene oscurata da diversi veli rispetto a quando viene oscurata da un solo velo che blocca tutta la luce. Esiste invece un altro tipo di privazione, non semplice, ma che conserva ancora qualcosa dell’opposto stato; si tratta di una privazione che consiste nel “diventare” corrotti piuttosto che nel “essere” già corrotti, come la malattia che è una privazione della giusta armonia degli umori, ma in modo tale che rimanga ancora qualcosa di questa armonia, altrimenti l’animale cesserebbe di vivere; lo stesso vale per le deformità e simili. Questo tipo di privazioni ammette gradi diversi, a seconda di ciò che rimane o del grado di conservazione dell’opposto stato. Nella malattia o nella deformità, infatti, è molto importante sapere se si sia allontanati di più o di meno dalla giusta armonia degli umori o dei membri; lo stesso vale per i vizi e i peccati: in essi, la privazione della giusta armonia della ragione non distrugge completamente l’ordine razionale; altrimenti il male, se totale, si autodistruggerebbe, come affermato nell’Etica iv, 5. La sostanza dell’atto o l’affetto dell’agente non potrebbero infatti sopravvivere senza che rimanesse qualcosa dell’ordine razionale. Pertanto, è molto importante per la gravità di un peccato sapere se si sia allontanati di più o di meno dalla rettitudine della ragione; e quindi dobbiamo dire che i peccati non sono tutti uguali.
+
+Risposta all’Obiezione 1: Commettere un peccato è lecito a causa di una certa “disordinarietà” che esso contiene; pertanto, quei peccati che presentano una disordinarietà maggiore sono ancora più illeciti e, di conseguenza, più gravi.
+
+Risposta all’Obiezione 2: Questo argomento considera il peccato come una pura privazione.
+
+Risposta all’Obiezione 3: Le virtù sono proporzionalmente uguali nello stesso soggetto; tuttavia, una virtù supera un’altra in eccellenza a seconda della sua specie; inoltre, uno stesso uomo può essere più virtuoso di un altro nella stessa specie di virtù, come già detto (Q[66], AA[1],2). In più, anche se le virtù fossero uguali, ciò non significherebbe necessariamente che anche i vizi lo siano, poiché le virtù sono tra loro collegate, mentre i vizi o i peccati non lo sono.
+
 <span class="atom-split" data-atom="022" data-title="Whether the gravity of sins varies according to their objects?" data-chapter="Whether the gravity of sins varies according to their objects?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the gravity of sins does not vary according to their objects.
@@ -1093,6 +1421,25 @@ Reply to Objection 3: All the objects of human acts are related to one another, 
 human acts are somewhat of one kind, in so far as they are directed to the last end. Therefore nothing
 prevents all sins from being compared with one another.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la gravità dei peccati non varii in base ai loro oggetti.  
+Poiché la gravità di un peccato riguarda il suo modo o la sua qualità, mentre l’oggetto del peccato è la materia stessa di tale peccato. Pertanto, la gravità dei peccati non cambia a seconda dei diversi oggetti su cui si manifestano.
+
+Obiezione 2: Inoltre, la gravità di un peccato corrisponde all’intensità della sua malvagità. Ora, il male presente in un peccato non deriva dal suo oggetto specifico – che è sempre qualche bene desiderabile – ma piuttosto da ciò da cui quel peccato ci allontana. Pertanto, la gravità dei peccati non varia in base ai loro diversi oggetti.
+
+Obiezione 3: Inoltre, i peccati che hanno oggetti diversi sono di tipi diversi. Ma cose di tipi diversi non possono essere paragonate tra loro, come dimostrato in Phys. vii, testo 30 e seguenti. Pertanto, un peccato non è più grave di un altro per via della differenza negli oggetti su cui si basa.
+
+Al contrario, i peccati ricevono la loro “specie” dai loro oggetti, come è stato dimostrato sopra (Q[72], A[1]). Tuttavia, alcuni peccati sono più gravi di altri in base alla loro specie; ad esempio, l’omicidio è più grave del furto. Pertanto, la gravità dei peccati varia in funzione degli oggetti a cui si riferiscono.
+
+Rispondo che, come è chiaro da quanto detto (Q[71], A[5]), la gravità dei peccati varia nello stesso modo in cui una malattia può essere più grave di un’altra: così come il bene della salute consiste in un certo equilibrio degli umori, in armonia con la natura dell’animale, allo stesso modo il bene della virtù consiste in un certo equilibrio delle azioni umane, in conformità alle regole della ragione. Ora è evidente che più alto è il principio dal quale deriva il disordine che altera gli umori, più grave è la malattia; pertanto una malattia che colpisce il corpo umano a partire dal cuore, che è il principio della vita, o da una parte adiacente, è più pericolosa. Ne consegue che un peccato deve essere tanto più grave quanto maggiore sia il principio che ne risulta alterato nella gerarchia razionale. In materia di azioni, la ragione guida tutto in funzione dell’obiettivo finale; pertanto più alto è questo obiettivo, più grave è il peccato. L’oggetto di un’azione è il suo fine, come già detto (Q[72], A[3], ad 2); quindi la differenza di gravità dei peccati dipende dai loro oggetti. È evidente che le cose esterne sono destinate all’uomo come loro fine, mentre l’uomo stesso è destinato a Dio come suo fine ultimo. Pertanto un peccato che riguarda la stessa essenza dell’uomo, ad esempio l’omicidio, è più grave di un peccato che riguarda cose esterne, ad esempio il furto; ancora più grave è un peccato commesso direttamente contro Dio, come l’incredulità, la blasfemia e simili. In ciascuno di questi gradi di gravità, un peccato sarà più grave di un altro in base al principio che ne risulta alterato. Poiché i peccati ricevono la loro specie dai loro oggetti, la differenza di gravità derivante dagli oggetti è, innanzitutto e soprattutto, il risultato della specie stessa del peccato.
+
+Risposta all’Obiezione 1: Sebbene l’oggetto di un atto sia ciò su cui esso si concentra, esso presenta comunque le caratteristiche di un fine, nella misura in cui l’intenzione dell’agente è rivolta verso di esso, come già detto sopra (Q[72], A[3], ad 2). Ora, la forma di un atto morale dipende dal fine stesso, come dimostrato in precedenza (Q[72], A[6]; Q[18], A[6]).
+
+Risposta all’Obiezione 2: Dal semplice fatto che l’uomo si rivolga eccessivamente verso alcuni beni mutevoli, ne consegue che si allontani dal Bene immutabile; tale distacco costituisce il nucleo essenziale del male. Pertanto, i diversi gradi di malvagità presenti nei peccati derivano necessariamente dalla varietà delle cose verso cui l’uomo si dirige.
+
+Risposta all’Obiezione 3: Tutti gli oggetti degli atti umani sono tra loro correlati; pertanto tutti gli atti umani appartengono, in qualche modo, allo stesso genere, nella misura in cui sono diretti verso lo scopo finale. Quindi nulla impedisce di confrontare tutti i peccati tra loro.
+
 <span class="atom-split" data-atom="023" data-title="Whether the gravity of sins depends on the excellence of the virtues to which they are opposed?" data-chapter="Whether the gravity of sins depends on the excellence of the virtues to which they are opposed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the gravity of sins does not vary according to the excellence
@@ -1138,6 +1485,24 @@ the will is shown to be more intent on good or evil, through not being overcome 
 
 Reply to Objection 3: Charity is not any kind of love, but the love of God: hence not any kind
 of hatred is opposed to it directly, but the hatred of God, which is the most grievous of all sins.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la gravità dei peccati non varii in base all’eccellenza delle virtù alle quali sono contrapposti; quindi, più grave è il peccato, maggiore dovrebbe essere la virtù a cui si oppone. Infatti, secondo Proverbi 15:5, “Nella giustizia abbondante c’è la massima forza”. Ora, come dice il Signore (Matteo 5:20 e seguenti), la giustizia abbondante reprime l’[ira](/concepts/anger), che è un peccato meno grave del omicidio, il quale viene invece represso da una giustizia meno abbondante. Pertanto, il peccato meno grave dovrebbe essere contrapposto alla virtù più grande.
+
+Obiezione 2: Inoltre, si afferma nell’Etica ii, 3 che “la virtù riguarda ciò che è difficile e ciò che è buono”; da ciò sembrerebbe derivare che la virtù maggiore riguardi ciò che è più difficile. Tuttavia, commettere un peccato meno grave nel compiere qualcosa di più difficile è possibile rispetto a quando si fallisce in qualcosa di meno difficile. Pertanto, il peccato meno grave smentisce l’esistenza della virtù maggiore.
+
+Obiezione 3: Inoltre, la carità è una virtù più grande della fede o della speranza (1 Corinzi 13:13). Ora, l’odio, che è opposto alla carità, rappresenta un peccato meno grave dell’incredulità o del dispero, che sono opposti alla fede e alla speranza. Pertanto, il peccato meno grave è contrario alla virtù più grande.
+
+Al contrario, il Filosofo afferma (Etica, 8:10) che “il peggiore è opposto al migliore”. Ora, in ambito morale, il migliore rappresenta la virtù più grande; il peggiore, invece, il peccato più grave. Pertanto, il peccato più grave è opposto alla virtù più grande.
+
+Rispondo che un peccato si oppone a una virtù in due modi: innanzitutto, in modo principale e diretto; tale peccato, infatti, riguarda lo stesso oggetto della virtù, poiché contrari e virtù hanno sempre lo stesso oggetto di riferimento. In questo senso, il peccato più grave deve necessariamente opporsi alla virtù più grande, poiché, proprio come i gradi di gravità di un peccato dipendono dall’oggetto su cui si concentra, così anche la grandezza di una virtù è determinata dall’oggetto a cui si riferisce; entrambi, infatti, traggono la loro essenza da tale oggetto, come dimostrato sopra (Q[60], A[5]; Q[72], A[1]). Pertanto, il peccato più grave è direttamente opposto alla virtù più grande, poiché si trova nella posizione più lontana da essa nello stesso genere. In secondo luogo, l’opposizione tra virtù e peccato può essere considerata anche in relazione all’estensione della virtù nel contrastare il peccato: più una virtù è grande, più allontana l’uomo dal peccato opposto; essa non solo lo allontana da quel peccato specifico, ma anche da tutto ciò che può portarvi. È evidente quindi che, quanto più grande è una virtù, tanto più allontana l’uomo anche dai peccati meno gravi; proprio come una salute più perfetta protegge meglio dall’insorgere di malattie minori. In questo senso, il peccato meno grave si oppone alla virtù più grande, in base agli effetti che questa ultima è in grado di produrre.
+
+Risposta all’Obiezione 1: Questo argomento prende in considerazione l’opposizione che consiste nel impedire di commettere peccati; infatti, una giustizia così rigorosa ostacola persino i peccati più lievi.
+
+Risposta all’Obiezione 2: La virtù maggiore, che riguarda un bene più difficile da realizzare, è direttamente opposta al peccato, che riguarda un male altrettanto difficile da evitare. In entrambi i casi esiste una certa superiorità: la volontà dimostra di essere maggiormente orientata verso il bene o il male, poiché non viene sopraffatta dalle difficoltà.
+
+Risposta all’Obiezione 3: La carità non è alcun tipo di amore, ma l’amore di Dio; pertanto, ciò che le si oppone direttamente non è alcun tipo di odio, ma l’odio verso Dio, che rappresenta il peccato più grave di tutti.
 
 <span class="atom-split" data-atom="024" data-title="Whether carnal sins are of less guilt than spiritual sins?" data-chapter="Whether carnal sins are of less guilt than spiritual sins?" data-kind="atom" data-srclang="en"></span>
 
@@ -1192,6 +1557,24 @@ are about those pleasures which are common to us and irrational minds": hence, b
 is, so to speak, brutalized; for which same reason Gregory says (Moral. xxxi, 17) that they are more
 shameful.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i peccati carnali non siano meno gravi dei peccati spirituali. Infatti, l’adulterio è un peccato più grave del furto; poiché è scritto (Proverbi 6:30,32): “Il male non è così grande quando un uomo ruba, ma colui che commette adulterio, per la follia del suo cuore, distruggerà la propria anima”. Ora, il furto appartiene all’avidità, che è un peccato spirituale; mentre l’adulterio riguarda la lussuria, che è un peccato carnale. Pertanto, i peccati carnali sono più gravi dei peccati spirituali.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma nel suo commento al Levitico [*La citazione è tratta da De Civ. Dei ii, 4 e iv, 31.] che “il diavolo si rallegra soprattutto della lussuria e dell’idolatria”. Ma si rallegra ancora di più dei peccati più gravi. Pertanto, poiché la lussuria è un peccato carnale, sembra che i peccati carnali siano i più gravemente colpevoli.
+
+Obiezione 3: Inoltre, il Filosofo dimostra (Etica vii, 6) che “è più vergognoso essere incontrollati nella lussuria che nell’[ira](/concepts/anger)”. Tuttavia, l’ira è un peccato spirituale, secondo Gregorio (Morale xxxi, 17); mentre la lussuria rientra tra i peccati carnali. Pertanto, il peccato carnale è più grave del peccato spirituale.
+
+Al contrario, Gregorio afferma (Moralia, xxxiii, 11) che i peccati carnali comportano una colpa minore, ma suscitano maggiore vergogna rispetto ai peccati spirituali.
+
+Rispondo che i peccati spirituali sono più gravi dei peccati carnali; tuttavia ciò non significa che ogni peccato spirituale sia più grave di ogni peccato carnale, ma che, considerando la sola differenza tra i due, i peccati spirituali siano più gravi dei peccati carnali, a parità di tutte le altre circostanze. Si possono addurre tre motivazioni a sostegno di questa tesi. La prima riguarda il soggetto che commette il peccato: poiché i peccati spirituali coinvolgono lo spirito, che è destinato a rivolgersi verso Dio o allontanarsi da Lui; mentre i peccati carnali si realizzano attraverso il piacere fisico, e quindi riguardano principalmente il corpo, che dovrebbe essere considerato meno importante di Dio e del prossimo. Per questo motivo, il peccato carnale indica più un “rivolgersi verso” qualcosa, e quindi implica un legame più stretto con ciò che lo causa; mentre il peccato spirituale indica più un “allontanarsi da” qualcosa, e proprio da questa caratteristica deriva la sensazione di colpa, rendendo così i peccati spirituali più gravi. Una seconda motivazione riguarda la persona contro cui viene commesso il peccato: poiché il peccato carnale colpisce direttamente il corpo del peccatore, che dovrebbe amare meno di Dio e del prossimo; quindi i peccati spirituali, in quanto più gravi, implicano una minore considerazione per il proprio corpo. Una terza motivazione riguarda il movente che spinge alla commissione del peccato: poiché più forte è l’impulso a peccare, meno grave sarà il peccato stesso, come vedremo in seguito. I peccati carnali sono spinti da un impulso particolarmente forte, ovvero dalla concupiscenza innata; pertanto i peccati spirituali, in quanto più gravi, implicano un movente ancora più negativo.
+
+Risposta all’Obiezione 1: L’adulterio appartiene non solo al peccato della lussuria, ma anche al peccato dell’ingiustizia; in questo senso può essere considerato un esempio di avarizia, come osserva un commento su Efesini 5:5. “Nessun adultero, nessuno impuro, nessuno avaro, ”; quindi l’adulterio è molto più grave del furto, poiché un uomo ama sua moglie molto di più dei suoi beni materiali.
+
+Risposta all’Obiezione 2: Si dice che il diavolo si rallegri soprattutto al peccato della lussuria, poiché è quello che presenta la maggiore tenacia e dal quale l’uomo fatica molto a liberarsi. “Poiché il desiderio di piacere è insaziabile”, afferma il Filosofo (Etica, iii, 12).
+
+Risposta all’Obiezione 3: Come afferma lo stesso Filosofo (Etica vii, 6), il motivo per cui è più vergognoso essere incontrollati nella lussuria che nell’ira è che la lussuria coinvolge meno la ragione; nello stesso senso egli dice (Etica iii, 10) che “i peccati di intemperanza sono i più degni di rimprovero, poiché riguardano quei piaceri che sono comuni a noi e alle menti irrazionali”: per questo motivo, con questi peccati l’uomo viene, in qualche modo, brutalizzato; ed è proprio per questa ragione che Gregorio dice (Morale xxxi, 17) che tali peccati sono più vergognosi.
+
 <span class="atom-split" data-atom="025" data-title="Whether the gravity of a sin depends on its cause?" data-chapter="Whether the gravity of a sin depends on its cause?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the gravity of a sin does not depend on its cause. Because the
@@ -1245,6 +1628,25 @@ unrestrainedly to its object.
 
 Reply to Objection 3: This argument considers the cause which renders the act involuntary,
 and such a cause diminishes the gravity of sin, as stated.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la gravità di un peccato non dipenda dalla sua causa. Infatti, più grande è la causa di un peccato, più fortemente esso spinge l’individuo a commetterlo, rendendo quindi più difficile resistervi. Tuttavia, il fatto stesso che sia difficile resistere al peccato ne riduce la gravità; ciò indica infatti debolezza da parte del peccatore, e un peccato dovuto alla debolezza è considerato meno grave. Pertanto, la gravità di un peccato non deriva dalla sua causa.
+
+Obiezione 2: Inoltre, la [concupiscenza](/concepts/concupiscence) è una causa generale del peccato; perciò un commento su Romani 7:7, che recita “Poiché non conoscevo la concupiscenza, ”, afferma: “La legge è buona, poiché vietando la concupiscenza, vieta tutti i mali”. Ora, più intensa è la concupiscenza che sopraffà l’uomo, meno grave è il suo peccato. Pertanto, la gravità di un peccato diminuisce in proporzione alla forza della sua causa.
+
+Obiezione 3: Inoltre, poiché la rettitudine della ragione è la causa di un atto virtuoso, sembra che il difetto nella ragione sia la causa del peccato. Ora, maggiore è il difetto nella ragione, minore è la gravità del peccato: tanto è vero che colui che manca della capacità di utilizzare la ragione è completamente scusato dal peccato, e colui che pecca per ignoranza pecca in modo meno grave. Pertanto, la gravità di un peccato non aumenta con la grandezza della sua causa.
+
+Al contrario: se la causa viene aumentata, anche l’effetto aumenta. Pertanto, più grande è la causa del peccato, più grave è il peccato stesso.
+
+Rispondo che, nel genere del peccato, come in ogni altro genere, si possono osservare due cause. La prima è la causa diretta e propria del peccato, ovvero la volontà di peccare: essa viene paragonata all’atto peccaminoso, come un albero ai suoi frutti, come osserva un commentatore a proposito di Matteo 7:18: “Un albero buono non può produrre frutti cattivi”. Più grande è questa causa, più grave sarà il peccato, poiché maggiore è la volontà di peccare, maggiormente l’uomo pecca.  
+Le altre cause del peccato sono esterne e, per così dire, indirette, ovvero quelle che spingono la volontà a peccare. Tra queste cause bisogna fare una distinzione: alcune di esse inducono la volontà a peccare in accordo con la stessa natura della volontà; ad esempio, l’intento malvagio, che è l’obiettivo reale del peccato. Cause di questo tipo rendono il peccato ancora più grave, poiché l’uomo pecca in modo più efferato quando la sua volontà viene spinta da un intento particolarmente malvagio. Altre cause, invece, inclinano la volontà a peccare contro la sua natura e il suo ordine intrinseco, poiché la volontà umana tende naturalmente ad agire liberamente, in accordo con il giudizio della ragione. Pertanto, quelle cause che indeboliscono il giudizio della ragione (ad esempio, l’ignoranza) o che ostacolano il libero movimento della volontà (ad esempio, la debolezza, la violenza, la paura, ecc.) riducono la gravità del peccato, così come ne diminuiscono la natura volontaria; al punto che, se l’atto è completamente involontario, non costituisce più un peccato.
+
+Risposta all’Obiezione 1: Questo argomento prende in considerazione la causa motrice esterna, che riduce il carattere volontario dell’atto. L’aumento di tale causa, come affermato, diminuisce anch’esso la gravità del peccato.
+
+Risposta all’Obiezione 2: Se si intende per concupiscenza il movimento della volontà, allora, dove c’è una maggiore concupiscenza, c’è anche un peccato più grave. Ma se si intende per concupiscenza una passione, ovvero un movimento del potere concupiscente, allora una maggiore concupiscenza, che sovrasta il giudizio della ragione e il movimento della volontà, riduce la gravità del peccato; infatti, l’uomo che pecca, stimolato da una concupiscenza più intensa, cade vittima di una tentazione più grave, e per questo merita meno biasimo. D’altra parte, se si intende per concupiscenza ciò che segue il giudizio della ragione e il movimento della volontà, allora una maggiore concupiscenza comporta necessariamente un peccato più grave; infatti, a volte il movimento della concupiscenza viene rafforzato dalla volontà che tende in modo incontrollato verso il proprio oggetto.
+
+Risposta all’Obiezione 3: Questo argomento considera la causa che rende l’atto involontario, e una tale causa riduce, come detto, la gravità del peccato.
 
 <span class="atom-split" data-atom="026" data-title="Whether a circumstance aggravates a sin?" data-chapter="Whether a circumstance aggravates a sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -1302,6 +1704,24 @@ corruption of any single circumstance; for instance, by doing something when one
 where one ought not; and to depart thus from the rule of reason suffices to make the act evil. This
 turning aside from the rule of reason results from man's turning away from God, to Whom man
 ought to be united by right reason.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che una circostanza non aggravi un peccato. Infatti, la gravità di un peccato deriva dalla sua specie; una circostanza, invece, non definisce il peccato stesso, essendo soltanto un suo accidente. Pertanto, la gravità di un peccato non deriva da alcuna circostanza.
+
+Obiezione 2: Inoltre, una circostanza è o malevola o non lo è: se è malevola, causa di per sé un certo tipo di male; e se non lo è, non può peggiorare nulla. Pertanto, una circostanza in nessun modo aggrava un peccato.
+
+Obiezione 3: Inoltre, la malvagità di un peccato deriva dal suo allontanarsi da Dio. Tuttavia, le circostanze influenzano il peccato nel senso in cui esso riguarda l’oggetto verso cui si rivolge; pertanto, tali circostanze non aumentano la malvagità del peccato stesso.
+
+Al contrario, l’ignoranza di una circostanza riduce la gravità del peccato: colui che commette un peccato per ignoranza di tale circostanza merita di essere perdonato (Etica, iii, 1). Tuttavia, ciò non sarebbe vero se una determinata circostanza non aggravasse il peccato stesso. Pertanto, una circostanza può rendere un peccato più grave.
+
+Rispondo che, come dice il Filosofo parlando delle abitudini virtuose (Etica, ii, 1,2), “è naturale che una cosa venga accresciuta da ciò che la causa”. Ora è evidente che un peccato è causato da un difetto in alcuna circostanza: poiché il fatto che un uomo si allontani dall’ordine della ragione deriva dal non osservare le circostanze dovute nel suo agire. Pertanto, è naturale che un peccato venga aggravato a causa delle sue circostanze. Ciò avviene in tre modi. Primo: quando una circostanza trasforma un peccato da uno tipo in un altro; ad esempio, l’adulterio è l’atto di un uomo con una persona che non è sua moglie; ma se si aggiunge la circostanza che quella persona sia già la moglie di un altro, il peccato diventa un atto di ingiustizia, poiché l’uomo usurpa la proprietà altrui; in questo senso, l’adulterio è un peccato più grave della semplice fornicazione. Secondo: una circostanza aggrava un peccato non trasformandolo in un altro genere, ma semplicemente aumentando l’intensità del male stesso; ad esempio, se una persona dissipatrice dona denaro quando non dovrebbe e a persone a cui non dovrebbe donarlo, commette lo stesso peccato in modi diversi rispetto a quando donasse semplicemente a chi non dovrebbe; per questo motivo il suo peccato è più grave. Così come una malattia che colpisce molte parti del corpo è più grave di una che ne colpisce solo alcune. Da qui deriva l’affermazione di [Cicerone](/figures/cicero) (Paradossi, iii): “Uccidendo il proprio padre, un uomo commette molti peccati; offende infatti colui che lo ha generato, nutrito, educato, e a cui deve la sua terra, la sua casa, la sua posizione nella repubblica”. Terzo: una circostanza aggrava un peccato aggiungendo ulteriori elementi alla deformità che esso già presenta; ad esempio, prendere la proprietà altrui costituisce il peccato di furto; ma se si aggiunge la circostanza che si prenda una quantità eccessiva di quella proprietà, il peccato diventa ancora più grave; anche se, in sé, prendere di più o di meno non ha necessariamente il carattere di un atto buono o cattivo.
+
+Risposta all’Obiezione 1: Alcune circostanze determinano effettivamente un atto morale, come indicato sopra (Q[18], A[10]). Tuttavia, una circostanza che non definisce la “specie” dell’atto può aggravarne la gravità; poiché, proprio come la bontà di qualcosa viene valutata non solo in relazione alla sua “specie”, ma anche in relazione a eventuali circostanze particolari, allo stesso modo la malvagità di un atto viene misurata non soltanto in base alla sua natura intrinseca, ma anche in relazione alle circostanze che lo accompagnano.
+
+Risposta all’Obiezione 2: Una circostanza può aggravare un peccato in entrambi i modi. Infatti, se è malevola, ciò non significa necessariamente che costituisca la “specie” stessa del peccato; poiché può semplicemente aumentare l’intensità del male all’interno della stessa categoria di peccati, come già detto in precedenza. Inoltre, anche se non è malvagia in sé, può comunque aggravare un peccato in relazione alla malizia di un’altra circostanza concomitante.
+
+Risposta all’Obiezione 3: La ragione dovrebbe guidare l’azione non solo riguardo all’oggetto, ma anche in relazione a ogni circostanza. Pertanto, si può deviare dalla regola della ragione attraverso la corruzione di una qualsiasi singola circostanza; ad esempio, compiendo un’azione quando non si dovrebbe o in un luogo dove non si dovrebbe; e bastano queste deviazioni per rendere l’atto malvagio. Questa distacco dalla regola della ragione deriva dal fatto che l’uomo si allontana da Dio, a Quello con il quale dovrebbe essere unito attraverso la ragione retta.
 
 <span class="atom-split" data-atom="027" data-title="Whether sin is aggravated by reason of its causing more harm?" data-chapter="Whether sin is aggravated by reason of its causing more harm?" data-kind="atom" data-srclang="en"></span>
 
@@ -1453,6 +1873,24 @@ Reply to Objection 3: There is no respect for persons if God punishes more sever
 who sin against a person of higher rank; for this is done because such an injury redounds to the
 harm of many.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il peccato non venga aggravato in base alla condizione della persona contro cui viene commesso. Infatti, se fosse così, un peccato verrebbe soprattutto aggravato quando viene compiuto contro una persona giusta e santa. Ma ciò non accade: un uomo virtuoso che affronta ingiustizie con equanimità subisce meno danno di altre persone, le quali, essendo scandalizzate, ne risentono anche a livello interiore. Pertanto, la condizione della persona contro cui viene commesso un peccato non lo aggrava.
+
+Obiezione 2: Inoltre, se la condizione della persona che commette il peccato lo aggrava, ciò sarebbe ancora più vero nel caso in cui tale persona sia un parente stretto, poiché, come afferma [Cicerone](/figures/cicero) (Paradoxi iii): “Colui che uccide il proprio schiavo commette un solo peccato; colui che toglie la vita al proprio padre commette molti peccati”. Tuttavia, il legame di parentela con la persona contro cui si è peccato non sembra aggravare il reato, poiché ogni uomo è più strettamente legato a se stesso; eppure danneggiarsi stesso è considerato meno grave che danneggiare un altro, ad esempio uccidere il proprio cavallo piuttosto che quello di un altro, come dichiara lo Stagirita (Etica v, 11). Pertanto, il legame di parentela con la persona contro cui si è peccato non aggrava il reato.
+
+Obiezione 3: Inoltre, la condizione della persona contro cui si commette il peccato ne aggrava la gravità soprattutto in base alla sua posizione o conoscenza, come affermato nella Sapienza 6:7 (“Coloro che sono potenti saranno duramente puniti”) e nel Vangelo di Luca 12:47 (“Il servo che conosceva la volontà del suo padrone, e non l’ha eseguita, sarà punito con molte frustate”). Pertanto, allo stesso modo, anche per la persona contro cui si commette il peccato, la sua condizione ne aumenta la gravità. Tuttavia, apparentemente infliggere un danno a una persona ricca e potente non è considerato un peccato più grave che farlo a un povero, poiché “Dio non fa distinzioni tra le persone” (Colossesi 3:25); è secondo il Suo giudizio che si misura la gravità di un peccato. Pertanto, la condizione della persona contro cui si commette il peccato non ne aggrava la gravità.
+
+Al contrario, le Scritture sacre condannano in modo particolare quei peccati commessi contro i servitori di Dio. Così è scritto (3 Re 19:14): “Hanno distrutto i tuoi altari, hanno ucciso i tuoi profeti con la spada”. Inoltre, un grande biasimo grava su quei peccati commessi da una persona contro coloro che le sono affini, come si legge in Micae 7:6: “Il figlio disonora il padre, la figlia si ribella contro la madre”. In più, i peccati commessi contro persone di rango elevato vengono esplicitamente condannati; così è scritto (Job 34:18): “Chi dice al re: ‘Sei un apostata’; chi chiama i governanti empi”. Pertanto, la condizione della persona contro cui si commette il peccato aggrava ulteriormente tale colpa.
+
+Rispondo che la persona contro cui si commette il peccato è, in un certo senso, l’oggetto stesso di quel peccato. Come già detto in precedenza (A[3]), la gravità principale di un peccato deriva dal suo oggetto; pertanto, un peccato è ritenuto più grave quanto più il suo oggetto rappresenti un fine importante per l’uomo. Ma i fini principali delle azioni umane sono Dio, l’uomo stesso e il suo prossimo: infatti, tutto ciò che facciamo lo facciamo in relazione a uno di questi scopi, anche se alcuni di essi siano subordinati ad altri. Pertanto, la maggiore o minore gravità di un peccato, in relazione alla persona contro cui viene commesso, può essere valutata in base a questi tre aspetti. In primo luogo, in relazione a Dio, verso il quale l’uomo è più strettamente unito, soprattutto quando è più virtuoso o più sacro agli occhi di Dio. Un torto inflitto a una tale persona colpisce direttamente Dio, come si legge in Zaccaria 2:8: “Chi ti tocca, tocca l’occhio Mio”. Pertanto, un peccato è più grave quando viene commesso contro una persona che è strettamente unita a Dio per via della sua santità personale o della sua posizione ufficiale. In secondo luogo, in relazione all’uomo stesso: commette un peccato più gravemente quanto più la persona contro cui lo compie è strettamente legata a lui, sia attraverso affinità naturali che attraverso rapporti di amicizia o altri legami. In questo caso, sembra quasi di peccare contro se stessi, e proprio per questa ragione il peccato appare ancora più grave, come si legge in Ecclesiaste 14:5: “Chi è cattivo con sé stesso, a chi potrà essere buono?”. Infine, in relazione al prossimo: un peccato è più grave quando colpisce molte persone. Un crimine commesso contro una figura pubblica, ad esempio un sovrano che rappresenta l’intero popolo, è quindi più grave di uno commesso contro una persona privata; per questo motivo tale comportamento viene esplicitamente proibito (Esodo 22:28): “Non maledire il principe del tuo popolo”. Allo stesso modo, un torto inflitto a una persona di rilievo sociale è particolarmente grave in quanto può causare scandalo e turbolenze tra molte persone.
+
+Risposta all’Obiezione 1: Chi infligge un danno a una persona virtuosa, per quanto riguarda lui stesso, la perturba sia interiormente che esteriormente; tuttavia il fatto che quest’ultima non venga turbata interiormente è dovuto alla sua bontà, la quale tuttavia non attenua il peccato di chi ha inflitto il danno.
+
+Risposta all’Obiezione 2: Il danno che un uomo infligge a se stesso nelle cose soggette al dominio della sua volontà – ad esempio i suoi beni personali – è meno peccaminoso di quello che infliggerebbe a un altro, poiché lo compie per propria scelta; ma nelle cose che non sono soggette al dominio della sua volontà, come i beni naturali e spirituali, infliggere danno a se stesso rappresenta un peccato più grave: infatti, per un uomo è molto più doloroso uccidersi che uccidere un altro. Poiché, tuttavia, le cose appartenenti al nostro prossimo non sono soggette al dominio della nostra volontà, questo argomento non dimostra che commettere peccati riguardo a tali cose sia meno grave, a meno che il nostro prossimo non lo desideri o ne dia il consenso.
+
+Risposta all’Obiezione 3: Non vi è alcun rispetto per le persone se Dio punisce più severamente coloro che peccano contro qualcuno di rango superiore; ciò avviene perché tale offesa arreca danno a molti.
+
 <span class="atom-split" data-atom="029" data-title="Whether the excellence of the person sinning aggravates the sin?" data-chapter="Whether the excellence of the person sinning aggravates the sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the excellence of the person sinning does not aggravate the
@@ -1501,6 +1939,24 @@ because their excellence conduces to the gravity of their sin, as stated.
 Reply to Objection 3: The man who excels in anything reaps disadvantage, not from the good
 which he has, but from his abuse thereof.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’eccellenza della persona che pecca non aggravi il peccato stesso. Infatti, l’uomo diventa grande soprattutto attaccandosi a Dio, come si legge in Ecclesiaste 25:13: “Quanto è grande colui che trova la saggezza e la conoscenza! Non c’è nessuno al di sopra di lui che tema il Signore”. Ora, più un uomo si attacca a Dio, meno il peccato gli viene attribuito; infatti è scritto (2 Paralipomeni 30:18-19): “Il Signore, che è buono, avrà misericordia di tutti coloro che cercano con tutto il cuore il Signore, Dio dei loro padri; e non gli attribuirà il peccato per il fatto che non sono stati santificati”. Pertanto, l’eccellenza della persona che pecca non aggrava il peccato stesso.
+
+Obiezione 2: Inoltre, “non vi è distinzione di persone davanti a Dio” (Romani 2:11). Pertanto, Lui non punisce uno più di un altro per lo stesso peccato. Quindi, il peccato non viene aggravato dall’elevatezza della persona che lo commette.
+
+Obiezione 3: Inoltre, nessuno dovrebbe trarre svantaggio dal bene. Tuttavia ciò accadrebbe se il proprio agire fosse più biasimabile proprio a causa della propria bontà. Pertanto, un peccato non viene aggravato in virtù dell’eccellenza della persona che lo commette.
+
+Al contrario, Isidoro afferma (De Summo Bono ii, 18): “Un peccato è ritenuto tanto più grave quanto maggiore sia considerata la dignità della persona che lo commette.”
+
+Rispondo che il peccato è di due tipi. C’è un peccato che ci colpisce all’improvviso a causa della debolezza della [natura umana](/axes/human_nature); peccati del genere sono meno imputabili a una persona più virtuosa, poiché essa è meno negligente nel contrastarli, anche se la debolezza umana non ci permette di evitarli del tutto. Ma ci sono altri peccati che derivano da deliberazioni consapevoli; questi peccati sono tanto più imputabili all’uomo quanto più eccellente egli sia. Si possono addurre quattro motivi a sostegno di questa tesi. Primo, perché una persona più eccellente, ad esempio colui che si distingue in conoscenza e virtù, può resistere più facilmente al peccato; per questo il Signore disse (Lc 12:47) che “il servo che conosce la volontà del suo padrone e non la mette in atto, sarà punito con molte frustate”. Secondo, a causa dell’ingratitudine: ogni bene in cui un uomo eccelle è un dono di Dio, e l’uomo diventa ingrato quando pecca; in questo senso qualsiasi forma di eccellenza, anche nei beni temporali, aggrava il peccato, come afferma la Sapienza 6:7: “I potenti saranno puniti con grande severità”. Terzo, perché l’atto peccaminoso è particolarmente incompatibile con l’eccellenza della persona che lo compie; ad esempio, se un principe violasse la giustizia, essendo lui stesso incaricato di difenderla, o se un sacerdote commettesse adulterio, avendo preso il voto di castità. Quarto, a causa dell’esempio negativo che tale comportamento può fornire; come dice Gregorio nel “Pastore” I, 2: “Il peccato diventa molto più scandaloso quando il peccatore è onorato per la sua posizione”; inoltre, i peccati dei potenti sono particolarmente noti e suscitano maggiore indignazione nelle persone.
+
+Risposta all’Obiezione 1: Il passaggio citato allude a quelle azioni compiute in modo negligente, quando siamo colti di sorpresa a causa della debolezza umana.
+
+Risposta all’Obiezione 2: Dio non tratta diversamente le persone quando punisce più severamente coloro che sono eccezionali, poiché la loro eccellenza contribuisce alla gravità del loro peccato, come già detto.
+
+Risposta all’Obiezione 3: L’uomo che eccelle in qualcosa subisce svantaggi, non a causa del bene che possiede, ma a causa del suo abuso di esso.
+
 <span class="atom-split" data-atom="030" data-title="OF THE SUBJECT OF SIN (TEN ARTICLES)" data-chapter="OF THE SUBJECT OF SIN (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the subject of vice or sin: under which head there are ten points of
@@ -1515,6 +1971,20 @@ inquiry:
 (8) Whether the lower reason can be the subject of mortal sin?
 (9) Whether the higher reason can be the subject of venial sin?
 (10) Whether there can be in the higher reason a venial sin directed to its proper object?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il tema del vizio o del peccato: sotto questa categoria esistono dieci punti di indagine:  
+(1) Se la volontà possa essere soggetto di peccato;  
+(2) Se solo la volontà sia soggetto di peccato;  
+(3) Se la sensualità possa essere soggetto di peccato;  
+(4) Se possa essere soggetto di peccato mortale;  
+(5) Se la ragione possa essere soggetto di peccato;  
+(6) Se le delizie, sia esse morose che non morose, siano soggette alla ragione superiore;  
+(7) Se il consenso nell’atto peccaminoso sia soggetto alla ragione superiore;  
+(8) Se la ragione inferiore possa essere soggetto di peccato mortale;  
+(9) Se la ragione superiore possa essere soggetto di peccato veniale;  
+(10) Se nella ragione superiore possa esistere un peccato veniale diretto al suo oggetto specifico.
 
 <span class="atom-split" data-atom="031" data-title="Whether the will is a subject of sin?" data-chapter="Whether the will is a subject of sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -1558,6 +2028,24 @@ that is subject to the will, this defect also is deemed a sin.
 Reply to Objection 3: This argument applies to those efficient causes whose actions pass into
 external matter, and which do not move themselves, but move other things; the contrary of which
 is to be observed in the will; hence the argument does not prove.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la volontà non possa essere soggetto di peccato. Infatti Dionigi afferma (Div. Nom. iv) che “il male è al di fuori della volontà e dell’intenzione”. Ma il peccato ha caratteristiche proprie del male; pertanto il peccato non può risiedere nella volontà.
+
+Obiezione 2: Inoltre, la volontà è diretta o verso il bene o verso ciò che sembra bene. Poiché la volontà desidera il bene, non commette peccato; mentre il fatto che desideri ciò che sembra bene ma in realtà non lo è indica piuttosto un difetto nella capacità di comprendere la realtà, piuttosto che nella volontà stessa. Pertanto, il peccato non risiede affatto nella volontà.
+
+Obiezione 3: Inoltre, la stessa cosa non può essere allo stesso tempo soggetto e [causa efficiente](/concepts/four_causes) del peccato; poiché “la causa efficiente e quella materiale non coincidono” (Physica, 2, testo 70). Ora, la volontà è la causa efficiente del peccato: poiché la prima causa del peccare è proprio la volontà, come afferma [Agostino](/figures/augustine) (De Duabus Animis, x, 10, 11). Pertanto, la volontà non può essere considerata soggetto del peccato.
+
+Al contrario, Agostino afferma (Retrattazioni, I, 9) che “è per volontà nostra che pecciamo e che viviamo rettamente”.
+
+Rispondo che il peccato è un atto, come già detto sopra (Q[71], AA[1],6). Alcuni atti, infatti, si concretizzano in materia esterna; ad esempio “tagliare” e “bruciare”: tali atti hanno come loro oggetto la cosa su cui viene esercitata l’azione. Come afferma il Filosofo (Phys. iii, testo 18), “il movimento è l’atto della cosa mossa, causato da un motore”. D’altra parte, ci sono atti che non si concretizzano in materia esterna, ma rimangono nell’agente stesso; ad esempio “desiderare” e “sapere”: questi sono tutti atti morali, sia virtuosi che peccaminosi. Pertanto, l’oggetto proprio del peccato deve essere la facoltà che costituisce il principio di tale atto. Poiché gli atti morali sono per loro natura volontari, come già detto sopra (Q[1], A[1]; Q[18], A[6]), ne consegue che la volontà – che è il principio degli atti volontari, sia quelli buoni che quelli cattivi o peccaminosi – è anche il principio del peccato stesso. Quindi, il peccato risiede nella volontà come nel suo soggetto.
+
+Risposta all’Obiezione 1: Si dice che il male sia al di fuori della volontà, perché la volontà non tende verso di esso nel suo aspetto negativo. Tuttavia, poiché alcuni mali appaiono come beni, a volte la volontà desidera un male; in questo senso, il male fa parte della volontà stessa.
+
+Risposta all’Obiezione 2: Se il difetto nella capacità di comprendere non fosse in alcun modo soggetto alla volontà, non ci sarebbe né peccato nella volontà né nel potere di comprensione, proprio come nel caso di coloro la cui ignoranza è invincibile. Pertanto, quando nel potere di comprensione esiste un difetto che è soggetto alla volontà, anche tale difetto viene considerato un peccato.
+
+Risposta all’Obiezione 3: Questo argomento si applica a quelle cause efficienti il cui agire si manifesta nell’universo esterno e che non si muovono da sole, ma muovono altre cose; il contrario di ciò si osserva nella volontà umana; pertanto, questo argomento non è convincente.
 
 <span class="atom-split" data-atom="032" data-title="Whether the will alone is the subject of sin?" data-chapter="Whether the will alone is the subject of sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -1651,6 +2139,24 @@ of reason, since the principal part of man does nothing therein: wherefore such 
 human act; and consequently it cannot be a perfect act of virtue or of sin, but is something imperfect
 of that kind. Therefore such movement of the sensuality as forestalls the reason, is a venial sin,
 which is something imperfect in the genus of sin.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra impossibile che esista peccato nella sensualità. Infatti, il peccato è proprio dell’uomo, che viene lodato o biasimato per le sue azioni. Ora, la sensualità è comune sia a noi che agli animali irrazionali; pertanto, non può esserci peccato nella sensualità stessa.
+
+Obiezione 2: Inoltre, “nessuno pecca in ciò che non può evitare”, come afferma [Agostino](/figures/augustine) (De Lib. Arb. iii, 18). Ma l’uomo non può impedire che il movimento della sensualità diventi eccessivo, poiché “la sensualità rimane sempre corrotta finché siamo in questa vita mortale; per questo motivo viene simboleggiata dal serpente”, come dichiara Agostino (De Trin. xii, 12,13). Pertanto, il movimento eccessivo della sensualità non costituisce un peccato.
+
+Obiezione 3: Inoltre, ciò che l’uomo stesso non compie non gli viene attribuito come peccato. Infatti, “solo ciò che facciamo con la deliberazione della ragione sembra essere veramente opera nostra”, come afferma il Filosofo (Etica, IX, 8). Pertanto, l’atto compiuto sotto l’influenza dei sensi, che avviene senza la partecipazione della ragione, non viene considerato un peccato dall’uomo.
+
+Al contrario, è scritto (Romani 7:19): “Il bene che voglio non lo faccio; ma il male che non voglio, quello invece lo compio”. Queste parole vengono spiegate da Agostino (Contra Iuliano, iii, 26; De Verbis Apostolici, xii, 2,3) come riferite al male derivante dalla concupiscenza, che è chiaramente un movimento della sensualità. Pertanto, può esistere peccato nella sensualità stessa.
+
+Rispondo che, come già detto sopra (AA[2],3), il peccato può esistere in qualsiasi potenza la cui azione possa essere volontaria e smisurata, poiché proprio in questo risiede la natura del peccato. Ora è evidente che l’azione della sensualità, o dell’appetito sensibile, è naturalmente incline ad essere guidata dalla volontà; pertanto ne consegue che il peccato può esistere anche nella sensualità stessa.
+
+Risposta all’Obiezione 1: Sebbene alcune delle facoltà della parte sensibile siano comuni sia a noi che agli animali irrazionali, tuttavia, in noi esse possiedono una certa superiorità poiché sono unite alla ragione; per questo motivo superiamo gli altri animali nella parte sensibile, poiché disponiamo delle facoltà di riflessione e di ricordo, come affermato nel FP, Q[78], A[4]. Allo stesso modo, il nostro appetito sensibile supera quello degli altri animali grazie a una certa superiorità derivante dalla sua naturale capacità di obbedire alla ragione; in questo senso può diventare il principio di un’azione volontaria e, di conseguenza, l’oggetto del peccato.
+
+Risposta all’Obiezione 2: La continua corruzione della sensualità va intesa come riferita ai “vizi”, che in questa vita non vengono mai completamente distrutti; infatti, sebbene la macchia del peccato originale svanisca, il suo effetto rimane. Tuttavia, questa corruzione dei “vizi” non impedisce all’uomo di utilizzare la propria volontà razionale per controllare quei movimenti eccessivi che potrebbero sorgere, purché ne sia consapevole, ad esempio rivolgendo i propri pensieri verso altre cose. Tuttavia, anche quando l’uomo distoglie la propria attenzione da qualcosa di sensuale per concentrarsi su argomenti scientifici o altri, può comunque verificarsi un movimento eccessivo legato a motivi diversi; ad esempio, quando uno cerca di evitare i desideri carnali concentrandosi sullo studio, talvolta può sorgere un impulso inaspettato di vanità. Pertanto, non è possibile evitare tutti questi movimenti eccessivi a causa della suddetta corruzione; tuttavia, per che si verifichi un peccato volontario, basta che l’uomo sia in grado di evitarne ciascuno singolarmente.
+
+Risposta all’Obiezione 3: L’uomo non compie perfettamente ciò che fa senza la deliberazione della ragione, poiché la parte principale dell’essere umano non partecipa affatto a tale processo; pertanto, un simile atto non è perfettamente umano. Di conseguenza, non può essere considerato un atto perfetto di virtù o di peccato, ma piuttosto qualcosa di imperfetto in quel genere. Quindi, qualsiasi azione guidata dalla sensibilità che prevenga il intervento della ragione rappresenta un peccato veniale, cioè qualcosa di imperfetto all’interno del genere dei peccati.
 
 <span class="atom-split" data-atom="034" data-title="Whether mortal sin can be in the sensuality?" data-chapter="Whether mortal sin can be in the sensuality?" data-kind="atom" data-srclang="en"></span>
 
@@ -1863,6 +2369,28 @@ judgment of the lower reason is deliberate, and so requires time, during which t
 can also deliberate; consequently, if by its deliberation it does not check the sinful act, this will
 deservedly by imputed to it.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il peccato legato al consenso all’atto non risieda nella ragione superiore. Infatti, il consenso è un atto della potenza appetitiva, come detto sopra (Q[15], A[1]); mentre la ragione è una potenza conoscitiva. Pertanto, il peccato legato al consenso all’atto non appartiene alla ragione superiore.
+
+Obiezione 2: Inoltre, “la ragione superiore è intenta a contemplare e consultare la legge eterna”, come afferma [Agostino](/figures/augustine) (De Trin. xii, 7). [*“Rationes aeternae”*, cfr. FP, Q[15], AA[2],[3]; in passaggi simili “ratio” è stato tradotto con “tipo”, poiché San Tommaso si riferiva all’“idea” divina come archetipo della creatura. Pertanto, il “tipo” o l’“idea” rappresentano una regola di condotta e vengono identificati con la legge eterna (cfr. A[8], OBJ[1]; A[9]). Tuttavia, a volte si consente un atto senza consultare la legge eterna: poiché l’uomo non riflette sempre su questioni divine, ogni volta che consente un atto. Pertanto, il peccato derivante dal consenso all’atto non è sempre dovuto alla ragione superiore.*
+
+Obiezione 3: Inoltre, proprio come l’uomo può regolare le proprie azioni esterne secondo la legge eterna, così può anche regolare i propri piaceri interni o altre passioni. Ma “consentire a un piacere senza decidere di realizzarlo con atti concreti appartiene alla ragione inferiore”, come afferma Agostino (De Trinitate, xii, 2). Pertanto, anche il consenso verso un atto peccaminoso dovrebbe talvolta essere attribuito alla ragione inferiore.
+
+Obiezione 4: Inoltre, proprio come la ragione superiore è superiore alla ragione inferiore, così anche l’immaginazione è superiore alle altre facoltà umane. A volte l’uomo agisce sulla base delle capacità dell’immaginazione, senza alcuna riflessione della propria ragione; ad esempio, quando muove la mano o il piede senza premeditazione. Pertanto, anche la ragione inferiore può talvolta concordare con un atto peccaminoso, indipendentemente dalla ragione superiore.
+
+Al contrario, Agostino afferma (De Trinitate xii, 12): “Se il consenso all’uso malvagio di cose che possono essere percepite dai sensi corporei approva in qualche modo qualsiasi peccato, al punto di incoraggiarne, se possibile, la compiuzione con atti concreti, allora dobbiamo intendere che quella donna abbia offerto al proprio marito il frutto proibito.”
+
+Rispondo che il consenso implica un giudizio su ciò a cui viene dato. Proprio come la ragione speculativa giudica e emette sentenze su questioni intellegibili, così anche la ragione pratica giudica e pronuncia sentenze su questioni relative alle azioni umane. Ora dobbiamo osservare che, in ogni caso sottoposto a giudizio, la sentenza definitiva spetta al tribunale supremo; proprio come nelle questioni speculative la sentenza finale su qualsiasi proposizione viene emessa facendo riferimento ai principi primi, poiché finché esiste un principio ancora più elevato, la questione può essere sottoposta a esso: pertanto il giudizio rimane in sospeso, e la sentenza definitiva non viene ancora pronunciata. È evidente tuttavia che gli atti umani possono essere regolati dalla legge della ragione umana, che deriva dalle cose create che l’uomo conosce naturalmente; e ancora di più, dalla legge [Divina](/concepts/divine_law), come già detto (Q[19], A[4]). Pertanto, poiché la legge Divina rappresenta il principio supremo, ne consegue che la sentenza definitiva, attraverso cui il giudizio viene infine pronunciato, spetta alla ragione più elevata, quella che si concentra sui modelli eterni. Quando è necessario emettere una sentenza su più punti, la decisione finale riguarda ciò che viene considerato ultimo; negli atti umani, l’azione stessa rappresenta il momento finale, mentre il piacere che motiva tale azione ne costituisce soltanto un preludio. Pertanto, il consenso verso un’azione appartiene propriamente alla ragione più elevata, mentre il giudizio preliminare riguardante il piacere derivante da quell’azione appartiene alla ragione inferiore, quella che emette sentenze in ambiti di minor rilevanza; sebbene anche la ragione più elevata possa valutare il piacere stesso, poiché tutto ciò che è soggetto al giudizio della ragione inferiore lo è anche a quello della ragione superiore, ma non viceversa.
+
+Risposta all’Obiezione 1: Il consenso è un atto della potenza appetitiva, ma non in modo assoluto, bensì in seguito ad un atto di ragione che delibera e giudica, come già detto sopra (Q[15], A[3]). Poiché il fatto che il consenso venga infine dato a qualcosa è dovuto al fatto che la volontà tende verso ciò su cui la ragione ha già espresso il proprio giudizio. Pertanto, il consenso può essere attribuito sia alla volontà che alla ragione.
+
+Risposta all’Obiezione 2: Si dice che la ragione superiore consenti all’atto umano, semplicemente perché non riesce a guidarlo secondo la legge divina, indipendentemente dal fatto che si riferisca o meno alla legge eterna. Infatti, se considera la legge di Dio, la disprezza effettivamente; altrimenti, la trascura per omissione. Pertanto, il consenso verso un atto peccaminoso deriva sempre dalla ragione superiore: poiché, come afferma Agostino (De Trinitate, xii, 12), “l’intelletto non può decidere efficacemente di compiere un peccato, se non attraverso il proprio consenso, con cui esercita il proprio potere sovrano di muovere o trattenere i propri membri dall’agire, diventando così servo o schiavo del male”.
+
+Risposta all’Obiezione 3: La ragione superiore, considerando la legge eterna, può guidare o frenare quella delizia interiore, proprio come può guidare o frenare l’azione esteriore; tuttavia, prima che venga pronunciata la sentenza della ragione superiore, la ragione inferiore, nel deliberare sulla questione in base a principi temporali, talvolta approva tale delizia; in questo caso, il consenso alla delizia appartiene alla ragione inferiore. Se, invece, dopo aver considerato la legge eterna, l’uomo persiste nel dare lo stesso consenso, allora tale consenso appartiene alla ragione superiore.
+
+Risposta all’Obiezione 4: La percezione del potere dell’immaginazione avviene in modo improvviso e senza riflessione; pertanto può provocare un atto prima che la ragione superiore o inferiore abbia il tempo di deliberarne. Tuttavia, il giudizio della ragione inferiore è frutto di una riflessione attenta, quindi richiede del tempo; durante questo lasso di tempo anche la ragione superiore può esaminare la situazione. Se, a seguito di questa riflessione, la ragione superiore non riesce a impedire l’atto peccaminoso, ciò le verrà certamente attribuito.
+
 <span class="atom-split" data-atom="038" data-title="Whether consent to delectation is a mortal sin?" data-chapter="Whether consent to delectation is a mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that consent to delectation is not a mortal sin, for consent to
@@ -2069,6 +2597,24 @@ consideration. And therefore, although the object of the higher reason is, in it
 sudden movement was not a mortal sin, becomes a mortal sin in virtue of the deliberation which
 brought it into the light of a higher consideration, as was explained above.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il peccato veniale non possa esistere nella ragione superiore in sé stessa, cioè considerata nel suo rapporto con la [legge eterna](/concepts/eternal_law). Infatti, l’atto di una facoltà umana non fallisce se non quando quella facoltà è disposta in modo irregolare rispetto al proprio oggetto. Ora, l’oggetto della ragione superiore è la legge eterna; riguardo a questa, non può esserci alcun disordine senza che si commetta un peccato mortale. Pertanto, non può esistere alcun peccato veniale nella ragione superiore in sé stessa.
+
+Obiezione 2: Inoltre, poiché la ragione è un potere deliberativo, non può esserci alcun atto di ragione senza deliberazione. Ora, ogni movimento eccessivo nelle cose che riguardano Dio, se è frutto di deliberazione, costituisce un peccato mortale. Pertanto, il peccato veniale non esiste mai nella ragione superiore in quanto tale.
+
+Obiezione 3: Inoltre, capita talvolta che un peccato che ci colpisce all’improvviso sia un peccato veniale. Ora, un peccato commesso deliberatamente è necessariamente un peccato mortale, poiché nel momento della deliberazione l’intelletto si rifà a qualche bene superiore contro cui agire significa peccare in modo più grave; proprio come quando l’intelletto, valutando un atto piacevole ma eccessivo, riconosce che esso è contrario alla legge di Dio, il consenso dato a tale atto rappresenta un peccato ancora più grave rispetto al caso in cui si considerasse semplicemente contrario alla virtù morale. Tuttavia, l’intelletto superiore non può fare riferimento a nessun tribunale più alto del proprio oggetto di riflessione. Pertanto, se un atto che ci colpisce all’improvviso non è un peccato mortale, nemmeno la successiva deliberazione lo renderà tale; il che è chiaramente falso. Quindi non può esistere alcun peccato veniale nell’intelletto superiore in quanto tale.
+
+Al contrario, un improvviso moto di incredulità rappresenta un peccato veniale. Tuttavia, tale atteggiamento appartiene alla ragione superiore in sé stessa; pertanto, è possibile che esista un peccato veniale nella ragione superiore come tale.
+
+Rispondo che la ragione superiore considera il proprio oggetto in modo diverso rispetto agli oggetti delle facoltà inferiori guidate dalla ragione stessa. Infatti, essa non si occupa degli oggetti delle facoltà inferiori se non nella misura in cui li riguarda alla luce della legge eterna; quindi li considera soltanto attraverso il processo del deliberare. Ora, un consenso deliberato su qualcosa che, nel suo genere, è un peccato mortale costituisce a sua volta un peccato mortale; pertanto, la ragione superiore commette sempre un peccato mortale, se gli atti delle facoltà inferiori a cui consente sono peccati mortali. Per quanto riguarda il proprio oggetto, la ragione superiore compie due tipi di azioni: l’“intuizione” semplice e il “deliberare”; in quest’ultimo caso, si consulta nuovamente sulla legge eterna riguardo al proprio oggetto. Tuttavia, nell’intuizione semplice, può verificarsi un movimento eccessivo verso le cose divine, come quando una persona prova improvvisamente un attimo di incredulità. Sebbene l’incredulità, in sé, sia un peccato mortale, un tale attimo di incredulità è considerato un peccato veniale, poiché un peccato mortale richiede necessariamente una contraddizione con la legge di Dio. È possibile che uno dei punti della fede venga presentato alla ragione in modo improvviso e da un altro punto di vista, prima ancora che si possa consultare la legge eterna al riguardo; ad esempio, quando una persona ritiene immediatamente impossibile la risurrezione dei morti e la respinge senza aver avuto il tempo di riflettere su come tale dottrina sia in linea con la legge divina. Tuttavia, se questo atteggiamento persiste dopo una riflessione, costituisce un peccato mortale. Pertanto, nei casi di reazioni immediate, la ragione superiore può commettere un peccato veniale riguardo al proprio oggetto, anche se tale oggetto è in sé un peccato mortale; oppure può commettere un peccato mortale attraverso un consenso deliberato. Per quanto riguarda le facoltà inferiori, invece, la ragione superiore commette sempre un peccato mortale quando si tratta di atti che sono peccati mortali nel loro genere.
+
+Risposta all’Obiezione 1: Un peccato che viola la legge eterna, anche se di genere mortale, può comunque essere veniale, a causa dell’incompletità di un atto compiuto improvvisamente, come già detto.
+
+Risposta all’Obiezione 2: In materia di azione, l’intuizione semplice dei principi su cui si basa la deliberazione appartiene alla ragione, così come l’atto stesso della deliberazione; allo stesso modo, in ambito speculativo, spetta alla ragione sia il procedere per sillogismo che la formulazione di proposizioni. Pertanto, anche la ragione può essere portata a decisioni immediate.
+
+Risposta all’Obiezione 3: Una stessa cosa può essere oggetto di considerazioni diverse, di cui una è più elevata dell’altra; pertanto, l’esistenza di Dio può essere considerata sia come qualcosa che può essere conosciuto dalla ragione umana, sia come qualcosa che ci viene rivelato dalla Divina [rivelazione](/concepts/revelation), la quale rappresenta una considerazione ancora più elevata. E quindi, sebbene l’oggetto della ragione più elevata sia, per sua natura, qualcosa di [sublime](/concepts/sublime), esso può comunque essere ricondotto a una considerazione ancora superiore; e in questo modo, ciò che, nel momento del suo compimento, non costituiva un peccato mortale, diventa tale a seguito di una riflessione più approfondita che lo porta sotto la luce di una visione più elevata, come è stato spiegato sopra.
+
 <span class="atom-split" data-atom="041" data-title="OF THE CAUSES OF SIN, IN GENERAL (FOUR ARTICLES)" data-chapter="OF THE CAUSES OF SIN, IN GENERAL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the causes of sin: (1) in general; (2) in particular. Under the first head
@@ -2077,6 +2623,14 @@ there are four points of inquiry:
 (2) Whether it has an internal cause?
 (3) Whether it has an external cause?
 (4) Whether one sin is the cause of another?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare le cause del peccato: (1) in generale; (2) in particolare. Nel primo ambito di indagine vi sono quattro punti da esaminare:
+(1) Il peccato ha una causa?
+(2) Ha una causa interna?
+(3) Ha una causa esterna?
+(4) Un peccato può essere la causa di un altro?
 
 <span class="atom-split" data-atom="042" data-title="Whether sin has a cause?" data-chapter="Whether sin has a cause?" data-kind="atom" data-srclang="en"></span>
 
@@ -2131,6 +2685,24 @@ Divine law, is the cause of sin. Now the fact of not applying the rule of reason
 has not in itself the nature of evil, whether of punishment or of guilt, before it is applied to the act.
 Wherefore accordingly, evil is not the cause of the first sin, but some good lacking some other
 good.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il peccato non abbia alcuna causa. Infatti, il peccato ha la natura del male, come detto sopra (Q[71], A[6]). Ma il male, secondo Dionigi di Alessandria (Div. Nom. iv), non ha alcuna causa. Pertanto, nemmeno il peccato può avere una causa.
+
+Obiezione 2: Inoltre, una causa è qualcosa da cui qualcos’altro deriva necessariamente. Ora, ciò che è necessario non sembra rappresentare un peccato, poiché ogni peccato è volontario. Pertanto, il peccato non ha alcuna causa.
+
+Obiezione 3: Inoltre, se il peccato ha una causa, questa causa è o buona o cattiva. Non può essere buona, perché il bene non produce altro che bene, poiché “un albero buono non può produrre frutti cattivi” (Matteo 7:18). Allo stesso modo, nemmeno il male può essere la causa del peccato, poiché il male della punizione è una conseguenza del peccato stesso, e il male della colpa è identico al peccato. Pertanto, il peccato non ha alcuna causa.
+
+Al contrario, tutto ciò che viene compiuto ha una causa, poiché, secondo il Libro di Giobbe 5:6, “nulla sulla terra avviene senza motivo”. Ma il peccato è qualcosa che viene compiuto; essendo una “parola, un atto o un desiderio contrario alla legge di Dio”, anche il peccato ha quindi una causa.
+
+Rispondo che un peccato è un atto disordinato. Pertanto, in quanto atto, può avere una causa diretta, proprio come qualsiasi altro atto; ma, in quanto disordinato, ha necessariamente una causa, allo stesso modo in cui una negazione o una privazione possono avere una causa. Ora, a una negazione si possono attribuire due cause: in primo luogo, l’assenza della causa dell’affermazione; cioè la negazione stessa della causa è la causa della negazione in sé; poiché la rimozione della causa comporta necessariamente la scomparsa dell’effetto: ad esempio, l’assenza del sole è la causa dell’oscurità. In secondo luogo, la causa di un’affermazione, da cui deriva una negazione, è la causa accidentale della negazione risultante; ad esempio, il fuoco, producendo calore per sua natura, provoca inevitabilmente la privazione del freddo. La prima di queste cause è sufficiente a generare una semplice negazione; ma poiché la disordinatezza del peccato e di ogni male non è una semplice negazione, bensì la privazione di ciò che qualcosa dovrebbe naturalmente possedere, tale disordinatezza deve necessariamente avere una causa efficiente accidentale. Poiché ciò che in una cosa esiste e dovrebbe esistere non manca mai se non a causa di qualche ostacolo, si può dire che il male, che consiste in una certa privazione, ha una causa insufficiente o una causa efficiente accidentale. Ora, ogni causa accidentale può essere ridotta alla causa diretta; pertanto, poiché il peccato, per la sua disordinatezza, ha una causa efficiente accidentale e, come atto, una causa diretta, ne consegue che tale disordinatezza è il risultato della causa dell’atto stesso. Quindi, quando la volontà manca della guida della ragione e della [Legge divina](/concepts/divine_law) e si dirige verso un bene mutevole, essa provoca direttamente l’atto peccaminoso, mentre la disordinatezza di tale atto deriva indirettamente da questa stessa volontà deviata: infatti, la mancanza di ordine nell’atto è il risultato della mancanza di guida nella volontà.
+
+Risposta all’Obiezione 1: Il peccato non indica soltanto la privazione del bene – di cui tale privazione costituisce l’aspetto di disordine – ma anche l’atto che è all’origine di tale privazione, e che ha per natura il male; inoltre, è stato spiegato come questo male abbia una causa.
+
+Risposta all’Obiezione 2: Affinché questa definizione possa essere verificata in tutti i casi, deve essere intesa come applicabile a una causa che sia sufficiente e non ostacolata da alcun impedimento. Infatti, capita spesso che una cosa sia la causa sufficiente di un’altra, ma che l’effetto non si verifichi necessariamente a causa di qualche ostacolo imprevisto; altrimenti si dovrebbe concludere che tutte le cose accadano necessariamente, come dimostrato nella Metafisica VI, testo 5. Pertanto, anche se il peccato ha una causa, ciò non significa che si tratti di una causa necessaria, poiché l’effetto del peccato può essere ostacolato da vari fattori.
+
+Risposta all’Obiezione 3: Come detto sopra, la volontà, nel non applicare la regola della ragione o la legge divina, è la causa del peccato. Ora, il fatto stesso di non applicare la regola della ragione o la legge divina, in sé, non ha la natura del male, né quella di punizione né di colpa, prima che venga applicato all’atto concreto. Pertanto, il male non è la causa del primo peccato, ma piuttosto un bene privo di un altro bene.
 
 <span class="atom-split" data-atom="043" data-title="Whether sin has an internal cause?" data-chapter="Whether sin has an internal cause?" data-kind="atom" data-srclang="en"></span>
 
@@ -2227,6 +2799,24 @@ multiplied, because they incline to the sinful act in both greater numbers and g
 Nevertheless the character of guilt is lessened, since this depends on the act being voluntary and
 in our power.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il peccato non abbia alcuna causa esterna. Infatti, il peccato è un atto volontario, e gli atti volontari derivano da principi presenti dentro di noi; pertanto non possono avere una causa esterna. Quindi, il peccato non ha alcuna causa esterna.
+
+Obiezione 2: Inoltre, poiché la natura è un principio interno, lo stesso vale per la volontà. Nei fenomeni naturali, il peccato può derivare soltanto da una causa interna; ad esempio, la nascita di un mostro è dovuta alla corruzione di qualche principio interno. Pertanto, anche nell’ordine morale, il peccato può sorgere solo da una causa interna; quindi non ha alcuna causa esterna.
+
+Obiezione 3: Inoltre, se la causa viene moltiplicata, anche l’effetto viene moltiplicato. Ora, più numerose e influenti sono le circostanze esterne che spingono all’peccato, meno il comportamento eccessivo di una persona può essere considerato un peccato. Pertanto, nulla di esterno può essere considerato causa di peccato.
+
+Al contrario, è scritto (Num. 21:16): “Non sono forse questi quelli che hanno ingannato i figli d’Israele con i consigli di Balaam, facendovi trasgredire il Signore con il peccato di Peor?” Pertanto, qualcosa di esterno può essere causa di peccato.
+
+Rispondo che, come già detto sopra (A[2]), la causa interna del peccato è sia la volontà, in quanto compie l’atto peccaminoso, sia la ragione, in quanto manca della dovuta guida morale, sia il desiderio, in quanto spinge verso il peccato. Pertanto, qualcosa di esterno potrebbe essere causa di peccato in tre modi: o muovendo direttamente la volontà stessa, o influenzando la ragione, o stimolando il desiderio sensibile. Ora, come già affermato sopra (Q[9], A[6]; Q[10], A[4]), nessuno può muovere interiormente la volontà se non Dio stesso, il quale non può essere causa di peccato, come dimostreremo ulteriormente (Q[79], A[1]). Ne consegue che nulla di esterno può essere causa di peccato, se non inducendo la ragione – come fanno l’uomo o il diavolo quando tentano qualcuno al peccato – oppure stimolando il desiderio sensibile, come fanno certi oggetti esterni. Tuttavia, nemmeno una tentazione esterna può necessariamente muovere la ragione in merito alle azioni da compiere, né le cose proposte dall’esterno possono necessariamente influenzare il desiderio sensibile, a meno che quest’ultimo non sia già predisposto in tal senso; e nemmeno il desiderio sensibile può necessariamente muovere la ragione e la volontà. Pertanto, qualcosa di esterno può essere causa che spinge verso il peccato, ma non come causa sufficiente ad esso: solo la volontà è la causa sufficiente e completa per l’attuazione del peccato.
+
+Risposta all’Obiezione 1: Dal semplice fatto che le cause esterne che motivano il peccato non lo provocano in modo sufficiente e necessario, ne consegue che rimane in nostro potere peccare o non peccare.
+
+Risposta all’Obiezione 2: Il fatto che il peccato abbia una causa interna non impedisce che abbia anche una causa esterna; infatti, nulla di esterno può essere considerato causa del peccato, se non attraverso l’intervento della causa interna, come già detto.
+
+Risposta all’Obiezione 3: Se le cause esterne che spingono al peccato aumentano di numero, anche gli atti peccaminosi aumentano, poiché tali cause esercitano una pressione più forte e con maggiore frequenza. Tuttavia, la natura stessa del peccato viene attenuata, poiché essa dipende dal fatto che l’atto sia volontario e possa essere compiuto secondo la nostra volontà.
+
 <span class="atom-split" data-atom="045" data-title="Whether one sin is a cause of another?" data-chapter="Whether one sin is a cause of another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one sin cannot be the cause of another. For there are four kinds
@@ -2278,6 +2868,28 @@ the cause of another sin.
 Reply to Objection 3: Not every cause of one sin is another sin; so there is no need to go on
 indefinitely: for one may come to one sin which is not caused by another sin.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra impossibile che un peccato possa essere la causa di un altro. Esistono infatti quattro tipi di causa, e nessuno di essi si adatta al caso in cui un peccato causi un altro peccato. Il fine, infatti, ha caratteristiche positive, il che è incompatibile con il peccato, che è intrinsecamente negativo. Allo stesso modo, un peccato non può essere considerato una [causa efficiente](/concepts/four_causes), poiché “il male non è una causa efficiente, ma è debole e impotente”, come afferma Dionigi nel “Divine Nomina” (IV). Inoltre, la causa materiale e quella formale sembrano avere senso soltanto nei corpi naturali, composti da materia e forma. Pertanto, un peccato non può avere né una causa materiale né una causa formale.
+
+Obiezione 2: Inoltre, “produrre qualcosa di simile appartiene a una cosa perfetta”, come affermato nel Meteor. iv, 2 [*Cfr. De [Anima](/concepts/soul) ii.*]. Ma il peccato è essenzialmente qualcosa di imperfetto. Pertanto, un peccato non può essere la causa di un altro.
+
+Obiezione 3: Inoltre, se un peccato è la causa di un secondo peccato, allo stesso modo anche un altro peccato potrebbe essere la causa del primo; e così via all’infinito, il che è assurdo. Pertanto, un peccato non può essere la causa di un altro peccato.
+
+Al contrario, Gregorio, nel suo commento su Ezechiele (Hom. xi), afferma: “Un peccato non viene cancellato rapidamente dal pentimento; esso è sia un peccato che una causa di ulteriori peccati.”
+
+Rispondo che, poiché ogni peccato ha una causa legata all’atto stesso che lo compie, è possibile che un peccato diventi la causa di un altro, proprio come un atto umano può essere la causa di un altro atto simile. Pertanto, un peccato può essere considerato causa di un altro secondo quattro tipi di relazioni causali:  
+1. **Come causa efficiente**: sia in modo diretto che indiretto. In modo indiretto, quando un atto peccaminoso elimina un ostacolo che impediva all’individuo di compiere altri atti peccaminosi; ad esempio, quando una persona, perdendo la grazia divina a causa di un peccato, cade in un altro peccato. In modo diretto, quando un atto peccaminoso rende più probabile che si compiano ulteriori atti dello stesso tipo.  
+2. **Come causa materiale**: quando un peccato prepara il terreno per l’insorgere di un altro peccato; ad esempio, la lussuria può portare al furto.  
+3. **Come causa finale**: quando un peccato viene compiuto allo scopo di raggiungere un altro fine; ad esempio, il ricatto può essere commesso per ottenere potere o denaro.  
+4. **Come causa formale**: quando un atto peccaminoso assume una specifica forma a causa di un altro scopo; ad esempio, il rapporto sessuale adulterino può essere compiuto con l’intento di rubare. Poiché lo scopo finale conferisce alla condotta morale una determinata struttura o forma, si può dire che anche in questo caso un peccato sia la causa formale di un altro.
+
+Risposta all’Obiezione 1: Il peccato, nella misura in cui è eccessivo o fuori luogo, ha il carattere del male; ma, in quanto atto, presenta sempre qualche bene, almeno apparente, come suo fine. Pertanto, in quanto atto e non in quanto eccessivo, può essere causa, sia finale che efficiente, di un altro peccato. Un peccato ha una materia, ma non “di cui” è fatto, bensì “riguardo a cui” si verifica; inoltre, la sua forma deriva dal suo fine. Di conseguenza, un peccato può essere causa di un altro, secondo i quattro tipi di causa menzionati sopra.
+
+Risposta all’Obiezione 2: Il peccato è qualcosa di imperfetto a causa della sua imperfezione morale, dovuta alla sua disarmonia con le leggi morali. Tuttavia, come atto umano, può possedere una perfezione naturale; ed è proprio in questo senso che può diventare la causa di un altro peccato.
+
+Risposta all’Obiezione 3: Non ogni causa di un peccato è a sua volta un altro peccato; pertanto non c’è bisogno di procedere all’infinito, poiché è possibile che si verifichi un peccato che non sia causato da un altro peccato.
+
 <span class="atom-split" data-atom="046" data-title="OF THE CAUSES OF SIN, IN PARTICULAR (FOUR ARTICLES)" data-chapter="OF THE CAUSES OF SIN, IN PARTICULAR (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the causes of sin, in particular, and (1) The internal causes of sin; (2)
@@ -2291,6 +2903,11 @@ Under the first head, there are four points of inquiry:
 (2) Whether ignorance is a sin?
 (3) Whether it excuses from sin altogether?
 (4) Whether it diminishes sin?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare le cause del peccato, in particolare: (1) le cause interne del peccato; (2) le sue cause esterne; e (3) i peccati che a loro volta sono cause di altri peccati. Alla luce di quanto detto sopra, la prima analisi sarà articolata in tre punti principali: innanzitutto tratteremo dell’ignoranza, che è la causa del peccato da parte della ragione; in secondo luogo, della debolezza o delle passioni, che ne sono la causa da parte dell’appetito sensibile; infine, della malizia, che ne è la causa da parte della volontà.  
+All’interno di questa prima categoria di cause, vi sono quattro questioni principali da esaminare: (1) L’ignoranza è davvero una causa del peccato? (2) L’ignoranza costituisce di per sé un peccato? (3) Scusa completamente l’atto peccaminoso? (4) Riduce la gravità del peccato?
 
 <span class="atom-split" data-atom="047" data-title="Whether ignorance can be a cause of sin?" data-chapter="Whether ignorance can be a cause of sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -2413,6 +3030,32 @@ which the affirmative precept is binding, so is it with the sin of ignorance. Fo
 sins actually indeed, not continually, but only at the time for acquiring the knowledge that he ought
 to have.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’ignoranza non sia un peccato. Infatti, il peccato è “una parola, un atto o un desiderio contrario alla legge di Dio”, come detto sopra (Q[71], A[5]). Ora, l’ignoranza non indica alcun atto, né interno né esterno. Pertanto, l’ignoranza non è un peccato.
+
+Obiezione 2: Inoltre, il peccato è più direttamente in contrasto con la grazia che con la conoscenza. Ora, la privazione della grazia non è un peccato, ma una punizione derivante dal peccato. Pertanto, l’ignoranza, che rappresenta una privazione di conoscenza, non è un peccato.
+
+Obiezione 3: Inoltre, se l’ignoranza è un peccato, ciò può accadere soltanto nel caso in cui sia volontaria. Ma se l’ignoranza è un peccato, poiché è volontaria, sembra che il peccato risieda nell’atto stesso della volontà, e non nell’ignoranza stessa. Pertanto, l’ignoranza non sarebbe un peccato in sé, ma piuttosto un risultato di un peccato.
+
+Obiezione 4: Inoltre, ogni peccato viene eliminato dal pentimento; nessun peccato, tranne il [peccato originale](/positions/original_sin), rimane attivo pur essendo privo di colpa. L’ignoranza, invece, non viene eliminata dal pentimento e continua ad esistere in forma attiva, anche se la sua colpa viene cancellata dal pentimento stesso. Pertanto, l’ignoranza non è un peccato, a meno che non si tratti del peccato originale.
+
+Obiezione 5: Inoltre, se l’ignoranza fosse un peccato, allora una persona commetterebbe continuamente peccati finché rimanesse ignorante. Ma l’ignoranza è costante in colui che non conosce la verità. Pertanto, una persona ignorante commetterebbe continuamente peccati, il che è chiaramente falso; altrimenti l’ignoranza sarebbe considerata un peccato estremamente grave. Quindi, l’ignoranza non è un peccato.
+
+Al contrario, solo il peccato merita punizione. Ma l’ignoranza merita anch’essa punizione, secondo 1 Corinzi 14:38: “Se qualcuno non sa, non verrà giudicato”. Pertanto, l’ignoranza è un peccato.
+
+Rispondo che l’ignoranza si distingue dalla mancanza di conoscenza in quanto quest’ultima indica semplicemente l’assenza totale di informazioni su un determinato argomento; pertanto chiunque sia privo di conoscenze su qualcosa può essere considerato ignorante al riguardo. In questo senso, Dionisio attribuisce la mancanza di conoscenza anche agli angeli (Coel. Hier. vii). D’altra parte, l’ignoranza indica una vera e propria privazione di conoscenze, cioè l’assenza di quelle informazioni che una persona dovrebbe naturalmente possedere. Alcune di queste conoscenze sono obbligatorie: senza di esse, infatti, non è possibile compiere correttamente determinati atti. Pertanto tutti sono tenuti a conoscere i principi fondamentali della fede e delle norme morali; inoltre, ognuno deve essere a conoscenza di ciò che riguarda i propri doveri e la propria condizione personale. Esistono tuttavia altre cose che una persona potrebbe naturalmente desiderare conoscere, ma non è obbligata a farlo; ad esempio, i teoremi geometrici o particolari fatti contingenti, salvo in casi specifici. È evidente quindi che chi trascura di acquisire o compiere ciò che è suo dovere commette un peccato di omissione. Pertanto, l’ignoranza riguardo a ciò che è obbligatorio conoscere costituisce un peccato; al contrario, non viene considerata tale se si tratta di informazioni che una persona semplicemente non è in grado di acquisire. Di conseguenza, l’ignoranza di questo tipo viene definita “invincibile”, poiché non può essere superata attraverso lo studio. Poiché tale ignoranza non è volontaria – poiché non dipende dalla nostra volontà eliminarla – non costituisce un peccato; quindi, è evidente che nessuna forma di ignoranza invincibile è considerata un peccato. D’altra parte, l’ignoranza “vincibile” è un peccato se riguarda argomenti che sono obbligatori conoscere; altrimenti, non lo è.
+
+Risposta all’Obiezione 1: Come già detto sopra (Q[71], A[6], ad 1), quando affermiamo che il peccato sia una “parola, un atto o un desiderio”, includiamo anche le loro negazioni opposte; pertanto, anche le omissioni hanno il carattere di peccato. Quindi la negligenza, in quanto l’ignoranza è considerata un peccato, rientra nella definizione sopra data del peccato. In altre parole, quando si omette di dire ciò che si dovrebbe dire, di fare ciò che si dovrebbe fare o di desiderare ciò che si dovrebbe desiderare, allo scopo di acquisire la conoscenza che si dovrebbe possedere, si commette un peccato.
+
+Risposta all’Obiezione 2: Sebbene la privazione della grazia non sia di per sé un peccato, tuttavia, a causa della negligenza nell’attuare i preparativi necessari per riceverla, essa può assumere le caratteristiche di un peccato, proprio come l’ignoranza; tuttavia anche in questo caso esiste una differenza: l’uomo può acquisire conoscenza attraverso le proprie azioni, mentre la grazia non si ottiene attraverso le azioni umane, ma per grazia di Dio.
+
+Risposta all’Obiezione 3: Proprio come in un peccato di trasgressione, il peccato non consiste soltanto nell’atto della volontà, ma anche nell’azione voluta da quella stessa volontà; allo stesso modo, in un peccato di omissione, non solo l’atto della volontà è considerato peccato, ma anche l’omissione stessa, nella misura in cui sia in qualche modo volontaria; pertanto, la negligenza nel conoscere, o addirittura la mancanza di considerazione, costituiscono anch’esse un peccato.
+
+Risposta all’Obiezione 4: Sebbene la colpevolezza scompaia attraverso il pentimento, l’ignoranza rimane, poiché si tratta di una privazione di conoscenza; tuttavia, la negligenza non persiste, ed è proprio per questa mancanza di negligenza che l’ignoranza viene considerata un peccato.
+
+Risposta all’Obiezione 5: Proprio come in altri peccati di omissione, l’uomo pecca effettivamente soltanto nel momento in cui il precetto positivo è vincolante; lo stesso vale per il peccato di ignoranza. Infatti, l’uomo ignorante pecca davvero, ma non continuamente, bensì soltanto nel momento in cui avrebbe dovuto acquisire la conoscenza che gli era necessaria.
+
 <span class="atom-split" data-atom="049" data-title="Whether ignorance excuses from sin altogether?" data-chapter="Whether ignorance excuses from sin altogether?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that ignorance excuses from sin altogether. For as [Augustine](/figures/augustine) says
@@ -2472,6 +3115,25 @@ sin remains in him: so that, in this respect, his sin is not accidental.
 Reply to Objection 3: If the ignorance be such as to exclude the use of reason entirely, it
 excuses from sin altogether, as is the case with madmen and imbeciles: but such is not always the
 ignorance that causes the sin; and so it does not always excuse from sin altogether.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’ignoranza scusi completamente dal peccato. Poiché, come afferma [Agostino](/figures/augustine) (Retractationes, I, 9), ogni peccato è volontario; e poiché l’ignoranza provoca l’involontarietà, come detto sopra (Q[6], A[8]), ne consegue che l’ignoranza scusi completamente dal peccato.
+
+Obiezione 2: Inoltre, ciò che viene compiuto al di fuori dell’intenzione originale viene fatto in modo accidentale. Ora, l’intenzione non può riguardare ciò che è sconosciuto; pertanto, ciò che un uomo compie per ignoranza è considerato accidentale negli atti umani. Ma ciò che è accidentale non conferisce caratteristiche specifiche o significati definiti agli atti stessi. Quindi, nulla di ciò che viene compiuto per ignoranza negli atti umani dovrebbe essere considerato peccaminoso o virtuoso.
+
+Obiezione 3: Inoltre, l’uomo è soggetto di virtù e peccato, poiché partecipa alla ragione. L’ignoranza, però, esclude quella conoscenza che perfeziona la ragione; pertanto, l’ignoranza scusa completamente dall’atto del peccare.
+
+Al contrario, Agostino afferma (De Lib. Arb. iii, 18) che “alcune azioni compiute per ignoranza vanno giustamente rimproverate”. Ora, solo quelle azioni che costituiscono peccati vanno effettivamente rimproverate. Pertanto, alcune azioni compiute per ignoranza sono peccati; quindi l’ignoranza non scusa del tutto dall’aver commesso un peccato.
+
+Rispondo che l’ignoranza, per sua stessa natura, rende l’atto che provoca involontario. È già stato affermato (AA[1],2) che l’ignoranza causa quell’atto che una conoscenza opposta avrebbe impedito; quindi, se tale conoscenza fosse disponibile, quell’atto sarebbe contrario alla volontà, il che è esattamente il significato di “involontario”. Tuttavia, se la conoscenza che l’ignoranza elimina non avrebbe comunque impedito quell’atto a causa dell’inclinazione della volontà verso di esso, la mancanza di tale conoscenza non rende quella persona “non volente”, ma semplicemente priva della capacità di prendere una decisione consapevole, come si afferma nell’Etica iii, 1. Un’ignoranza che non sia causa di un atto peccaminoso, essendo essa stessa incapace di renderlo involontario, non scusa il peccato; lo stesso vale per qualsiasi forma di ignoranza che semplicemente accompagni o segua un atto peccaminoso.  
+D’altra parte, l’ignoranza che è effettivamente causa di un atto, poiché lo rende involontario, per sua stessa natura scusa il peccato, poiché la volontarietà è essenziale per definire un atto peccaminoso. Tuttavia, questa ignoranza può non scusare completamente il peccato per due motivi: primo, riguardo alla cosa stessa di cui si ignora; ad esempio, una persona può ignorare qualche circostanza del proprio atto peccaminoso, la conoscenza della quale le impedirebbe di commetterlo. In tal caso, anche se non conosce quella circostanza specifica, sa comunque che l’atto è peccaminoso; quindi non è completamente scusata. Secondo, riguardo alla natura stessa dell’ignoranza: essa può essere volontaria – sia direttamente, quando una persona sceglie di ignorare certe cose per poter commettere più liberamente il peccato, sia indirettamente, a causa di impegni o distrazioni che le impediscono di acquisire la conoscenza necessaria. In questi casi, l’ignoranza stessa diventa volontaria e quindi peccaminosa; pertanto non scusa completamente il peccato. Se invece l’ignoranza è totalmente involontaria – sia per motivi insormontabili, sia perché riguarda cose di cui non si ha alcun dovere di conoscere – allora tale ignoranza scusa completamente il peccato.
+
+Risposta all’Obiezione 1: Non ogni ignoranza comporta azioni involontarie, come già affermato sopra (Q[6], A[8]). Pertanto, non ogni ignoranza scusa completamente da un peccato.
+
+Risposta all’Obiezione 2: Finché nella persona ignorante persiste la volontà, anche l’intenzione di peccare rimane in lei; pertanto, in questo senso, il suo peccato non è accidentale.
+
+Risposta all’Obiezione 3: Se l’ignoranza è tale da escludere completamente l’uso della ragione, essa scusa totalmente dall’atto peccaminoso, come nel caso dei pazzi e degli idioti; ma non sempre l’ignoranza che causa il peccato è di questo tipo; pertanto, non scusa sempre totalmente dall’atto peccaminoso.
 
 <span class="atom-split" data-atom="050" data-title="Whether ignorance diminishes a sin?" data-chapter="Whether ignorance diminishes a sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -2553,6 +3215,37 @@ flesh," and "Pride of life."
 (7) Whether passion excuses from sin altogether?
 (8) Whether a sin committed through passion can be mortal?
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’ignoranza non riduca la gravità di un peccato. Infatti ciò che è comune a tutti i peccati non ne diminuisce la natura negativa. Ora, l’ignoranza è proprio ciò che accomuna tutti i peccati, poiché il Filosofo afferma (Etica, iii, 1) che “ogni uomo malvagio è ignorante”. Pertanto, l’ignoranza non attenua la gravità di un peccato.
+
+Obiezione 2: Inoltre, l’aggiunta di un peccato ad un altro ne crea uno più grave. Ma l’ignoranza stessa è un peccato, come già detto sopra (A[2]). Pertanto, non può certo ridurre la gravità di un peccato.
+
+Obiezione 3: Inoltre, la stessa cosa non può contemporaneamente aggravare e ridurre il peccato. L’ignoranza, infatti, aggrava il peccato; Ambrogio, commentando Romani 2:4 (“Non sai forse che la bontà di Dio ti spinge alla penitenza?”), afferma: “Il tuo peccato è ancora più grave se non lo conosci”. Pertanto, l’ignoranza non riduce il peccato.
+
+Obiezione 4: Inoltre, se qualche tipo di ignoranza riduce la gravità di un peccato, ciò sembrerebbe valere soprattutto nel caso dell’ignoranza che elimina completamente l’uso della ragione. Ora, questo tipo di ignoranza non riduce affatto il peccato, ma lo aumenta: infatti il Filosofo afferma (Etica, iii, 5) che “la punizione viene raddoppiata per un uomo ubriaco”. Pertanto, l’ignoranza non attenua la gravità del peccato.
+
+Al contrario, tutto ciò che costituisce una ragione per perdonare il peccato ne riduce la gravità. Appunto l’ignoranza rientra in questa categoria, come si evince chiaramente da 1 Timoteo 1:13: “Ho ricevuto misericordia, perché ho agito ignorando la verità”. Pertanto, l’ignoranza riduce o attenua la gravità del peccato.
+
+Rispondo che, poiché ogni peccato è volontario, l’ignoranza può ridurre la natura stessa di tale peccato, nella misura in cui ne diminuisce la volontarietà; tuttavia, se non rende il peccato meno volontario, allora non lo attenua affatto. È evidente che un’ignoranza che scusa completamente dal peccato (rendendolo del tutto involontario) non lo riduce, ma lo elimina del tutto. D’altra parte, un’ignoranza che non è la causa effettiva del peccato commesso, ma ne è soltanto concomitante, né lo attenua né lo aggrava. Pertanto, il peccato non può essere alleviato da alcuna forma di ignoranza, se non da quella che sia effettivamente la causa della sua commissione, ma che non scusi completamente dal peccato stesso. A volte, tale ignoranza è direttamente e volontariamente causata; ad esempio, quando una persona sceglie deliberatamente di ignorare certe verità per poter peccare più liberamente. In questi casi, l’ignoranza sembra anzi rendere l’atto ancora più volontario e quindi più peccaminoso, poiché è proprio la volontà di peccare a spingere una persona ad accettare le conseguenze dell’ignoranza, al fine di godere della libertà di commettere peccati. Altre volte, invece, l’ignoranza che causa un peccato non è diretta, ma indiretta o accidentale; ad esempio, quando una persona non si impegna a studiare con sufficiente diligenza, finisce per essere ignorante; oppure quando beve troppo vino di proposito, diventa ubriaca e commette azioni imprudenti. In questi casi, l’ignoranza riduce la volontarietà della persona nel compiere il peccato e, di conseguenza, ne attenua la gravità. Poiché, quando non si è consapevoli che un certo atto sia peccaminoso, non si può dire che la volontà vi consenti in modo diretto; quindi, in tali situazioni, c’è meno disprezzo per il peccato e, di conseguenza, anche meno gravità del peccato stesso.
+
+Risposta all’Obiezione 1: L’ignoranza che rende “ogni uomo malvagio ignorante” non è la causa dell’atto peccaminoso, ma qualcosa che ne deriva, cioè una passione o un’[abitudine](/concepts/custom) che spinge verso il peccato.
+
+Risposta all’Obiezione 2: L’aggiunta di un peccato a un altro ne genera altri, ma ciò non significa necessariamente che tali peccati diventino più gravi; infatti, i due peccati potrebbero non coincidere tra loro, essendo separati. È possibile che, se il primo peccato riduce la gravità del secondo, i due insieme abbiano una portata meno grave di quanto uno solo avrebbe avuto; ad esempio, l’omicidio commesso da un uomo sobrio è considerato un peccato più grave rispetto a quello commesso da un uomo ubriaco, anche se in questo secondo caso si verificano due peccati: l’ubriachezza, infatti, riduce la gravità del peccato compiuto più di quanto ciò che essa stessa rappresenta possa far pensare.
+
+Risposta all’Obiezione 3: Le parole di Ambrogio possono essere intese come riferendosi semplicemente a un’ignoranza volontaria; oppure possono indicare una forma di peccato di ingratitudine, il cui grado più elevato consiste nel fatto che l’uomo ignori completamente i benefici che ha ricevuto; inoltre, possono anche alludere all’ignoranza derivante dall’incredulità, quella che mina le fondamenta dell’edificio spirituale.
+
+Risposta all’Obiezione 4: L’uomo ubriaco merita una “doppia punizione” per i due peccati che commette, ovvero l’ubriachezza stessa e il peccato che ne deriva; tuttavia, l’ubriachezza, a causa dell’ignoranza ad essa connessa, riduce la gravità di tale peccato, forse persino più di quanto la sua stessa entità suggerisca, come già accennato in precedenza (ad 2). Si potrebbe anche osservare che le citazioni in questione si riferiscono a un decreto del legislatore Pittaco, il quale ordinava che gli ubriachi venissero puniti più severamente se aggredivano qualcuno; tale decisione non mirava alla tolleranza verso l’ubriachezza stessa, ma piuttosto all’utilità pratica, poiché l’ubriaco causa maggior danno rispetto a una persona sobria, come osserva il Filosofo (Politica ii). **Della causa del peccato, da parte dell’appetito sensibile (otto articoli)**  
+Ora dobbiamo esaminare la causa del peccato, nel contesto dell’appetito sensibile, per capire se una passione dell’anima possa essere considerata causa di peccato. In questo ambito vi sono otto punti da analizzare:  
+(1) Una passione dell’appetito sensibile può muovere o inclinare la volontà?  
+(2) Può sopraffare la ragione, contraddicendone le conclusioni?  
+(3) Un peccato derivante da una tale passione è considerato un peccato di debolezza?  
+(4) La passione dell’amor proprio è la causa di ogni peccato?  
+(5) Quali sono le tre cause menzionate in 1 Giovanni 2:16: “la concupiscenza degli occhi, la concupiscenza della carne e l’orgoglio”?  
+(6) La passione che provoca un peccato ne riduce forse la gravità?  
+(7) Una passione può scusare completamente il compimento di un peccato?  
+(8) Un peccato commesso per passione può essere considerato mortale?
+
 <span class="atom-split" data-atom="051" data-title="Whether the will is moved by a passion of the senstive appetite?" data-chapter="Whether the will is moved by a passion of the senstive appetite?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the will is not moved by a passion of the sensitive appetite.
@@ -2603,6 +3296,23 @@ the will, yet it occasions a certain change in the judgment about the object of 
 Reply to Objection 2: The higher mover is not directly moved by the lower; but, in a manner,
 it can be moved by it indirectly, as stated.
 The Third Objection is solved in like manner.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la volontà non venga mossa da alcuna passione dell’appetito sensibile. Infatti, nessuna forza passiva può essere mossa se non dal proprio oggetto. Ora, la volontà è una forza sia passiva che attiva, in quanto è allo stesso tempo motrice e mossa, come afferma il Filosofo riguardo all’appetito in generale (De Anima iii, testo 54). Poiché quindi l’oggetto della volontà non è una passione dell’appetito sensibile, ma il bene definito dalla ragione, sembra che nessuna passione dell’appetito sensibile possa muovere la volontà.
+
+Obiezione 2: Inoltre, il motore superiore non viene mosso da quello inferiore; pertanto l’anima non viene mossa dal corpo. Ora, la volontà, che è l’appetito razionale, può essere paragonata all’appetito sensibile come un motore superiore rispetto a uno inferiore: infatti il Filosofo afferma (De Anima iii, testo 57) che “l’appetito razionale muove quello sensibile, proprio come, nei corpi celesti, una sfera muove un’altra”. Pertanto, la volontà non può essere mossa da alcuna passione dell’appetito sensibile.
+
+Obiezione 3: Inoltre, nulla di immateriale può essere mosso da ciò che è materiale. Ora, la volontà è una forza immateriale, poiché non utilizza alcun organo corporeo; essendo situata nell’intelletto, come affermato nel De Anima III, testo 42; mentre l’appetito sensibile è una forza materiale, poiché ha sede in un organo del corpo. Pertanto, una passione dell’appetito sensibile non può muovere l’appetito intellettivo.
+
+Al contrario, è scritto (Daniele 13:56): “La lussuria ha corrotto il tuo cuore”.
+
+Rispondo che una passione dell’appetito sensibile non può influenzare o muovere direttamente la volontà; tuttavia può farlo in modo indiretto, e questo avviene in due modi. Primo, attraverso una sorta di distrazione: poiché tutte le facoltà dell’anima sono radicate nell’unica essenza dell’anima stessa, è inevitabile che, quando una facoltà si concentra sul proprio compito, un’altra ne risulti trascurata o addirittura ostacolata nel suo operare. Questo avviene sia perché l’energia totale dell’anima viene indebolita quando divisa su più direzioni, sia perché, quando l’attenzione è concentrata su un unico oggetto, meno attenzione viene dedicata ad altri aspetti. In questo modo, la passione dell’appetito sensibile, interferendo con le funzioni razionali dell’anima, ne ostacola necessariamente il corretto funzionamento.  
+Secondo, ciò può accadere anche a causa dell’oggetto stesso della volontà, quando esso viene percepito come “bene” attraverso la ragione. Poiché il giudizio e la comprensione razionali vengono ostacolati da una percezione intensa e irrazionale fornita dall’immaginazione o dalla facoltà di valutazione, come avviene nelle persone in preda a passioni violente. È evidente che tali percezioni seguono le influenze delle passioni sensibili, proprio come il gusto segue la disposizione della lingua; per questo motivo coloro che sono sotto l’effetto di una passione difficilmente riescono a distogliere la propria immaginazione dall’oggetto di tale emozione. Di conseguenza, anche il giudizio razionale e, quindi, l’azione della volontà vengono influenzati negativamente.
+
+Risposta all’Obiezione 1: Sebbene la passione dell’appetito sensibile non sia l’oggetto diretto della volontà, essa provoca comunque un certo cambiamento nel giudizio riguardo all’oggetto della volontà, come già detto.
+
+Risposta all’Obiezione 2: Il motore superiore non viene mosso direttamente dal motore inferiore; tuttavia, può essere mosso da esso in modo indiretto, come è stato detto. Anche la Terza Obiezione viene risolta nello stesso modo.
 
 <span class="atom-split" data-atom="052" data-title="Whether the reason can be overcome by a passion, against its knowledge?" data-chapter="Whether the reason can be overcome by a passion, against its knowledge?" data-kind="atom" data-srclang="en"></span>
 
@@ -2709,6 +3419,33 @@ signification, of which, however, he is incompetent to judge, his drunkenness hi
 that a man who is in a state of passion, may indeed say in words that he ought not to do so and so,
 yet his inner thought is that he must do it, as stated in Ethic. vii, 3.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che una passione, contraria alla conoscenza, non possa superare la ragione stessa. Infatti, ciò che è più forte non può essere vinto da ciò che è più debole. Ora, la conoscenza, per la sua certezza, rappresenta ciò che è più potente in noi; pertanto non può essere sopraffatta da una passione, che è debole e di breve durata.
+
+Obiezione 2: Inoltre, la volontà è diretta esclusivamente verso il bene o verso ciò che appare bene. Quando una passione attira la volontà verso ciò che è veramente buono, non influisce sulla ragione contrariamente alla sua conoscenza; mentre quando attira la volontà verso ciò che appare buono ma in realtà non lo è, attira la volontà verso ciò che sembra buono alla ragione. Ma ciò che sembra buono alla ragione rientra nella sfera della sua conoscenza. Pertanto, una passione non influisce mai sulla ragione contrariamente alla sua conoscenza.
+
+Obiezione 3: Inoltre, se si afferma che una conclusione si basi sulla conoscenza di qualcosa in termini generali per formulare un giudizio opposto su un caso particolare, allora, al contrario, quando una proposizione universale e una proposizione particolare sono contrapposte tra loro, lo sono per contraddizione; ad esempio: “Tutti gli uomini” e “Non tutti gli uomini”. Ora, se due opinioni sono in contraddizione reciproca, allora sono effettivamente opposte l’una all’altra, come affermato nel Peri Hermeneutica ii. Pertanto, se qualcuno, pur conoscendo qualcosa in termini generali, formulasse un giudizio opposto in un caso particolare, avrebbe contemporaneamente due opinioni contrarie, il che è impossibile.
+
+Obiezione 4: Inoltre, chi conosce il generale conosce anche ciò che è particolare e contenuto in quel generale; pertanto, chi sa che ogni mulo è sterile sa che questo animale particolare è sterile, a condizione che sappia che si tratta di un mulo, come risulta chiaro dal testo citato. Ora, chi conosce qualcosa in termini generali – ad esempio, che “nessuna fornicazione è legittima” – sa che questa proposizione generale contiene, ad esempio, la proposizione particolare “Questo è un atto di fornicazione”. Pertanto, sembra che la sua conoscenza si estenda anche al livello dei dettagli particolari.
+
+Obiezione 5: Inoltre, secondo il Filosofo (Peri Hermeneutica i), “le parole esprimono i pensieri della mente”. Spesso accade che l’uomo, trovandosi in uno stato di passione, ammetta che ciò che ha scelto sia qualcosa di male, anche in quel caso specifico. Pertanto, egli possiede conoscenza, anche in ambiti particolari. Ne consegue che le passioni non possono portare la ragione contro la sua conoscenza universale; infatti è impossibile che la ragione possieda conoscenza universale e allo stesso tempo giudizi particolari contrari ad essa.
+
+Al contrario, l’Apostolo dice (Romani 7:23): “Vedo un altro legge dentro di me che combatte contro la legge della mia ragione e mi trascina verso la legge del peccato”. Ora, quella legge che è dentro di noi è la concupiscenza, di cui aveva parlato in precedenza. Poiché la concupiscione è una passione, sembra che una passione spinga la ragione contro la sua stessa conoscenza.
+
+Rispondo che, come afferma il Filosofo (Etica vii, 2), l’opinione di [Socrate](/figures/socrates) era che la conoscenza non potesse mai essere sopraffatta dalle passioni; per questo motivo considerava ogni virtù una sorta di conoscenza e ogni peccato una forma di ignoranza. In questo aveva in parte ragione, poiché, dato che l’oggetto della volontà è il bene o ciò che appare bene, essa non può mai essere spinta verso il male, a meno che ciò che non è buono non appaia tale sotto un certo aspetto alla ragione; quindi la volontà non tenderebbe mai al male, se non esistesse ignoranza o errore nella ragione. Da qui deriva l’affermazione della Proverbia (14:22): “Coloro che compiono il male sbagliano”. Tuttavia, l’esperienza dimostra che molte persone agiscono contro ciò che sanno; ciò è confermato anche dall’autorità divina, come si legge in Luca 12:47: “Il servo che conosce la volontà del suo padrone e non la attua sarà punito con molti colpi”, e in Giacomo 4:17: “Chi sa fare il bene e non lo fa commette peccato”. Pertanto, Socrate non aveva completamente ragione, ed è necessario, come fa il Filosofo (Etica vii, 3), fare una distinzione. Poiché l’uomo viene guidato all’azione giusta da due tipi di conoscenza: quella universale e quella particolare, un difetto in una qualsiasi di queste è sufficiente a ostacolare la rettitudine della volontà e dell’azione, come già detto (Q[76], A[1]). Può dunque accadere che un uomo abbia una conoscenza generale, ad esempio che il concubinaggio non sia lecito, ma non sappia in modo specifico che tale atto debba essere evitato; e questo è sufficiente affinché la volontà non segua quella conoscenza universale della ragione. Inoltre, nulla impedisce a qualcosa che si conosce abitualmente di non essere considerato effettivamente vero; quindi è possibile che un uomo abbia una conoscenza corretta sia in modo generale che particolare, ma non la tenga effettivamente in considerazione; e in tal caso non sembra difficile per lui agire contro ciò che non considera realmente. Ora, il fatto che un uomo a volte non prenda in considerazione ciò che sa abitualmente può verificarsi semplicemente per mancanza di attenzione: ad esempio, una persona che conosce la geometria potrebbe non prestare attenzione alle conclusioni geometriche che è pronta a considerare in qualsiasi momento. A volte, invece, ciò che si sa abitualmente non viene preso in considerazione a causa di ostacoli esterni o di condizioni fisiche; e in questo modo, una persona sotto l’effetto di una passione non riesce a prendere in considerazione ciò che sa in modo generale, poiché le passioni le impediscono di farlo. Questo avviene in tre modi: innanzitutto, attraverso la distrazione, come spiegato sopra (A[1]); in secondo luogo, attraverso l’opposizione, poiché una passione spesso induce a comportamenti contrari a ciò che si conosce in modo generale; infine, attraverso modificazioni fisiche che impediscono alla ragione di agire liberamente, proprio come il sonno o l’ebrezza.
+Ciò che colpisce il corpo ostacola l’uso della ragione. È evidente che ciò avvenga nelle passioni, poiché a volte, quando queste sono particolarmente intense, l’uomo perde completamente la capacità di ragionare: molti, infatti, hanno perso la ragione a causa di un eccesso di amore o [ira](/concepts/anger). È in questo modo che le passioni inducono la ragione a giudicare in modo errato, contrariamente alle conoscenze che essa possiede in generale.
+
+Risposta all’Obiezione 1: La conoscenza universale, che è la più certa, non occupa un posto di primo piano nell’azione; al contrario, prevale la conoscenza particolare, poiché le azioni riguardano individui concreti. Pertanto, non sorprende affatto che, in materia di azione, le passioni agiscano contro la conoscenza universale, quando manca la considerazione della conoscenza particolare.
+
+Risposta all’Obiezione 2: Il fatto che qualcosa appaia buono in modo particolare alla ragione, mentre in realtà non lo è, è dovuto a una passione; eppure questo giudizio particolare è contrario alla conoscenza universale della ragione.
+
+Risposta all’Obiezione 3: È impossibile che qualcuno possieda una conoscenza effettiva o un’opinione vera riguardo a una proposizione universale affermativa, e allo stesso tempo un’opinione falsa riguardo a una proposizione particolare negativa, o viceversa; tuttavia è del tutto possibile che una persona abbia una conoscenza effettiva e abituale riguardo a una proposizione universale affermativa, ma al contempo un’opinione falsa riguardo a una proposizione particolare negativa: infatti, un atto è direttamente opposto non a una [abitudine](/concepts/custom), ma a un altro atto.
+
+Risposta all’Obiezione 4: Colui che possiede conoscenza di un concetto universale viene ostacolato, a causa di una passione, nel ragionare su tale concetto al fine di trarre una conclusione; invece, ragiona su un altro concetto universale suggerito dall’inclinazione della passione e ne trae la conseguenza di conseguenza. Per questo motivo il Filosofo afferma (Etica, vii, 3) che il sillogismo di una persona incontrollata da passioni è composto da quattro proposizioni: due particolari e due universali; di queste, una appartiene alla ragione (ad esempio: “Nessun atto di adulterio è legittimo”) e l’altra deriva dalla passione (ad esempio: “Il piacere deve essere perseguito”). In altre parole, la passione incatena la ragione, impedendole di ragionare e trarre conclusioni sulla base della prima proposizione; finché le passioni persistono, dunque, la ragione agisce in base alla seconda.
+
+Risposta all’Obiezione 5: Proprio come un uomo ubriaco a volte pronuncia parole di profondo significato, delle quali tuttavia è incapace di giudicare correttamente a causa del proprio stato di ebbrezza, allo stesso modo una persona in preda alla passione può dire con le parole che non dovrebbe fare qualcosa, mentre nel suo intimo pensa di doverlo fare, come indicato nell’Etica, VII, 3.
+
 <span class="atom-split" data-atom="053" data-title="Whether a sin committed through passion, should be called a sin of weakness?" data-chapter="Whether a sin committed through passion, should be called a sin of weakness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a sin committed through passion should not be called a sin of
@@ -2762,6 +3499,24 @@ Reply to Objection 3: It is in the will's power to give or refuse its consent to
 inclines us to do, and it is in this sense that our appetite is said to be under us; and yet this consent
 or dissent of the will is hindered in the way already explained (A[1]).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un peccato commesso per passione non debba essere definito peccato di debolezza. Infatti, la passione rappresenta un movimento violento dell’appetito sensibile, come già detto sopra (A[1]). Ora, la violenza dei movimenti è segno di forza e non di debolezza. Pertanto, un peccato commesso per passione non dovrebbe essere considerato peccato di debolezza.
+
+Obiezione 2: Inoltre, la debolezza umana riguarda ciò che in noi è più fragile, ovvero il corpo; da qui deriva la scritta del Salmo 77:39: “Si ricordò che sono carne”. Pertanto, i peccati derivanti dalla debolezza dovrebbero essere quelli causati da difetti fisici, e non quelli legati alle passioni.
+
+Obiezione 3: Inoltre, non sembra che l’uomo sia debole riguardo alle cose che sono soggette alla sua volontà. Infatti, è proprio la volontà umana a determinare se l’uomo compia o meno quelle azioni verso cui lo spingono le sue passioni, come si legge in Genesi 4:7: “Il tuo desiderio sarà sotto di te e tu ne avrai il dominio”. Pertanto, il peccato commesso per passione non è un segno di debolezza.
+
+Al contrario, [Cicerone](/figures/cicero) (De Quaest. Tusc. iv) definisce le passioni malattie dell’anima; inoltre, la debolezza è un altro nome per malattia. Pertanto, un peccato che nasce da una passione dovrebbe essere considerato un peccato di debolezza.
+
+Rispondo che la causa del peccato risiede nell’anima, poiché è proprio in essa che il peccato ha la sua radice principale. Ora, la debolezza può essere paragonata alla debolezza del corpo: si dice infatti che il corpo umano sia debole quando non è in grado di svolgere correttamente le proprie funzioni, a causa di qualche disordine nelle sue parti, tale da impedire ai fluidi e agli organi di essere soggetti al potere dirigente dell’anima. Allo stesso modo, si dice che un membro del corpo sia debole quando non è in grado di svolgere il proprio compito normalmente; ad esempio, l’occhio è considerato debole quando non riesce a vedere chiaramente, come afferma il Filosofo nel “De Hist. Animal.” x, 1. Quindi, la debolezza dell’anima si verifica quando questa viene ostacolata nel svolgere le proprie funzioni a causa di un disordine nelle sue parti interne. Proprio come si dice che le parti del corpo sono in disordine quando non seguono l’ordine naturale, così anche le parti dell’anima sono considerate disordinate quando non obbediscono all’ordine della ragione, poiché la ragione è il potere dirigente di tali parti. Pertanto, quando le facoltà concupiscibili o irascibili vengono influenzate da passioni contrarie all’ordine della ragione, ne consegue un ostacolo nel corretto funzionamento dell’anima; tale situazione viene definita peccato dovuto alla debolezza. Per questo motivo il Filosofo (Etica, vii, 8) paragona l’uomo incontrollabile a un epilettico, le cui membra si muovono in modo contrario alla sua volontà.
+
+Risposta all’Obiezione 1: Proprio come nel corpo, più intensa è l’azione che si scontra con l’ordine naturale, maggiore è la debolezza risultante; allo stesso modo, più forte è l’impulso delle passioni che va contro il ragionamento, maggiore diventa la debolezza dell’anima.
+
+Risposta all’Obiezione 2: Il peccato consiste principalmente in un atto della volontà, il quale non è ostacolato dalla debolezza del corpo; infatti, colui che è fisicamente debole può avere una volontà pronta all’azione, ma essere comunque ostacolato da una passione, come già detto sopra (A[1]). Pertanto, quando parliamo di peccati derivanti dalla debolezza, ci riferiamo alla debolezza dell’anima piuttosto che a quella del corpo. Eppure anche la debolezza dell’anima viene chiamata “debolezza della carne”, nella misura in cui è dovuta a una condizione fisica che fa sì che le passioni dell’anima emergano in noi attraverso l’appetito sensibile, il quale è un potere che utilizza organi corporei.
+
+Risposta all’Obiezione 3: È nel potere della volontà concedere o rifiutare il proprio consenso a ciò che le passioni ci spingono a fare; ed è in questo senso che si dice che il nostro desiderio sia sotto il controllo della nostra volontà. Tuttavia, questo consenso o dissenso della volontà viene ostacolato nel modo già spiegato (A[1]).
+
 <span class="atom-split" data-atom="054" data-title="Whether self-love is the source of every sin?" data-chapter="Whether self-love is the source of every sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that self-love is not the source of every sin. For that which is good
@@ -2808,6 +3563,28 @@ things, or avoids evil things.
 
 Reply to Objection 4: A friend is like another self (Ethic. ix): wherefore the sin which is
 committed through love for a friend, seems to be committed through self-love.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’amore di sé non sia la fonte di ogni peccato. Infatti, ciò che è in sé buono e giusto non può essere la causa effettiva del peccato. Ora, l’amore di sé è qualcosa di buono e giusto in sé stesso; perciò all’uomo viene comandato di amare il proprio prossimo come se fosse se stesso (Lv 19:18). Pertanto, l’amore di sé non può essere la causa effettiva del peccato.
+
+Obiezione 2: Inoltre, l’Apostolo dice (Romani 7:8): “Il peccato, approfittando del comandamento, suscita in me ogni sorta di desiderio”; riguardo a queste parole, un commento afferma che “la legge è buona, poiché, vietando i desideri lussuriosi, vieta anche tutti i mali”, e la ragione di ciò è che il desiderio lussurioso è la causa di ogni peccato. Ora, il desiderio lussurioso è una passione diversa dall’amore, come già detto sopra (Q[3], A[2]; Q[23], A[4]). Pertanto, l’amor proprio non può essere considerato la causa di ogni peccato.
+
+Obiezione 3: Inoltre, [Agostino](/figures/augustine), commentando il Salmo 79:17 (“Cose date alle fiamme e sepolte sotto terra”), afferma che “ogni peccato deriva o dall’amore che ci spinge ad un ardore eccessivo, o dalla paura che induce una falsa umiltà”. Pertanto, l’autoamore non è l’unica causa del peccato.
+
+Obiezione 4: Inoltre, poiché l’uomo a volte pecca a causa di un amore eccessivo per se stesso, allo stesso modo a volte pecca a causa di un amore eccessivo per il proprio prossimo. Pertanto, l’amore di sé non è la causa di ogni peccato.
+
+Al contrario, Agostino afferma (De Civ. Dei xiv, 28) che “l’amor di sé, che equivale al disprezzo per Dio, costruisce la città di Babilonia”. Ora, ogni peccato rende l’uomo cittadino di Babilonia; pertanto, l’amor di sé è la causa di ogni peccato.
+
+Rispondo che, come già detto sopra (Q[75], A[1]), la causa vera e diretta del peccato va ricercata nell’attaccamento a un bene effimero; in questo senso, ogni atto peccaminoso deriva da un desiderio eccessivo di qualche bene temporale. Ora, il fatto che qualcuno desideri un bene temporale in modo eccessivo è dovuto al fatto che si ama eccessivamente se stesso; infatti, desiderare a qualcuno del bene equivale ad amarlo. Pertanto, è evidente che un amore eccessivo di sé stesso sia la causa di ogni peccato.
+
+Risposta all’Obiezione 1: L’amore di sé ben ordinato, attraverso il quale l’uomo desidera per sé qualcosa di appropriato e benefico, è giusto e naturale; ma è l’amore di sé eccessivo, che conduce al disprezzo per Dio, che Agostino (De Civ. Dei xiv, 28) considera la causa del peccato.
+
+Risposta all’Obiezione 2: La concupiscenza, mediante la quale un uomo desidera il bene per sé stesso, si riduce, per quanto riguarda la sua causa, all’amore di sé, come già detto.
+
+Risposta all’Obiezione 3: Si dice che l’uomo ami sia il bene che desidera per sé stesso, sia se stesso, verso il quale prova tale desiderio. L’amore, in quanto diretto verso l’oggetto del proprio desiderio (ad esempio, si dice che un uomo ami il vino o i soldi), ammette come sua causa la paura, che riguarda l’evitamento del male; infatti ogni peccato sorge o da un desiderio eccessivo di qualche bene, o da un’eccessiva evitazione di qualche male. Ma entrambi questi fenomeni si riducono all’amore di sé stesso, poiché è attraverso l’amare se stesso che l’uomo desidera le cose buone o evita quelle cattive.
+
+Risposta all’Obiezione 4: Un amico è come un altro sé stesso (Etica, IX): perciò il peccato commesso per amore di un amico sembra essere commesso per amore di sé.
 
 <span class="atom-split" data-atom="055" data-title="Whether concupiscence of the flesh, concupiscence of the eyes, and pride of life are fittingly described as causes of sin?" data-chapter="Whether concupiscence of the flesh, concupiscence of the eyes, and pride of life are fittingly described as causes of sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -2874,6 +3651,28 @@ Reply to Objection 4: Avoidance of evil is caused by the appetite for good, as s
 (Q[25], A[2]; Q[39], A[2]); and so those passions alone are mentioned which incline to good, as
 being the causes of those which cause inordinately the avoidance of evil.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra inappropriato definire “la concupiscenza della carne, la concupiscenza degli occhi e l’orgoglio della vita” cause di peccato. Infatti, secondo l’Apostolo (1 Timoteo 6:10), “l’avidità è la radice di tutti i mali”. Ora, l’orgoglio della vita non rientra nell’ambito dell’avidità; pertanto non dovrebbe essere considerato tra le cause del peccato.
+
+Obiezione 2: Inoltre, la concupiscenza della carne viene principalmente suscitata da ciò che gli occhi vedono, come affermato in Daniele 13:56: “La [bellezza](/concepts/beauty) ti ha ingannato”. Pertanto, la concupiscenza degli occhi non dovrebbe essere considerata equivalente alla concupiscenza della carne.
+
+Obiezione 3: Inoltre, la concupiscenza è il desiderio di piacere, come detto sopra (Q[30], A[2]). Ora, gli oggetti del piacere vengono percepiti non solo dalla vista, ma anche dagli altri sensi. Pertanto, dovrebbero essere menzionati anche la “concupiscenza dell’udito” e di altri sensi.
+
+Obiezione 4: Inoltre, proprio come l’uomo viene spinto a peccare da un desiderio eccessivo di cose buone, allo stesso modo viene spinto anche a evitare eccessivamente le cose cattive, come già detto sopra (A[4], ad 3). Tuttavia, in questo passaggio non viene menzionato nulla riguardo all’evitamento del male. Pertanto, le cause del peccato vengono descritte in modo insufficiente.
+
+Al contrario, è scritto (1 Gv. 2:16): “Tutto ciò che è nel mondo deriva dalla concupiscenza della carne o dall’orgoglio della vita”. Si dice che qualcosa sia “nel mondo” in relazione al peccato; per questo è scritto (1 Gv. 5:19): “Tutto il mondo è immerso nel male”. Pertanto, questi tre elementi sono le cause del peccato.
+
+Rispondo che, come già detto sopra (A[4]), l’eccessivo amor proprio è la causa di ogni peccato. Ora, l’amor proprio include un desiderio eccessivo del bene: infatti, un uomo desidera il bene per colui che ama. Pertanto, è evidente che un tale desiderio eccessivo del bene sia la causa di ogni peccato. Il bene, in due modi, è l’oggetto dell’appetito sensibile; tali appetiti sono i responsabili dei peccati: innanzitutto, in senso assoluto, poiché il bene è l’oggetto della parte concupiscente dell’anima; in secondo luogo, sotto l’aspetto della difficoltà di ottenerlo, poiché il bene è allora l’oggetto della parte irascibile, come già affermato sopra (Q[23], A[1]). Inoltre, la concupiscenza è di due tipi, come detto ancora in precedenza (Q[30], A[3]): uno naturale, rivolto verso quelle cose che sostengono la natura del corpo – sia per la conservazione dell’individuo (cibo, bevande, ecc.) sia per la conservazione della specie (questioni sessuali) – e l’eccessivo desiderio di tali cose viene chiamato “concupiscenza della carne”; l’altro tipo è la concupiscenza spirituale, rivolta verso quelle cose che non forniscono sostentamento o piacere ai sensi fisici, ma sono gradevoli per via dell’intelletto, dell’immaginazione o di altri modi di percezione; esempi di tali cose sono il denaro, i vestiti, ecc.; questa concupiscenza spirituale viene chiamata “concupiscenza degli occhi”, sia che ci si riferisca alla vista stessa – di cui gli occhi sono l’organo – e quindi al desiderio di conoscere cose nuove, secondo l’interpretazione di Agostino (Confessioni, x), sia che ci si riferisca al desiderio di possedere cose visibili esteriormente, e quindi alla cupidigia. L’eccessivo desiderio di beni difficili da ottenere appartiene alla “superbia”; infatti, la superbia è proprio quel desiderio eccessivo di eccellenza, come spiegheremo più avanti (Q[84], A[2]; SS, Q[162], A[1]). È quindi evidente che tutte le passioni che causano peccato possono essere ridotte a questi tre tipi: poiché tutte le passioni della parte concupiscente possono essere ricondotte ai primi due tipi, e tutte le passioni della parte irascibile al terzo tipo, il quale non si suddivide in due sottocategorie, poiché tutte le passioni irascibili appartengono alla concupiscenza spirituale.
+
+Risposta all’Obiezione 1: “L’orgoglio per la vita” è incluso nell’avidità, poiché quest’ultima indica qualsiasi tipo di desiderio per qualsiasi bene. Come l’avidità, in quanto vizio specifico noto anche come “avarizia”, sia alla radice di tutti i peccati, verrà spiegato più avanti (Q[84], A[1]).
+
+Risposta all’Obiezione 2: “La concupiscenza degli occhi”, in questo contesto, non si riferisce alla concupiscenza per tutte le cose che possono essere viste con gli occhi, ma soltanto per quelle che procurano piacere non di natura carnale, bensì attraverso la vista, cioè attraverso qualsiasi capacità percettiva.
+
+Risposta all’Obiezione 3: La vista è il senso più eccellente di tutti, e copre un ambito più ampio, come affermato nella “Metafisica” I; per questo motivo il suo nome viene esteso anche agli altri sensi, nonché alle capacità intellettive interne, come sostiene Agostino nel “De Verbo Domini”, sermone xxxiii.
+
+Risposta all’Obiezione 4: L’evitamento del male è determinato dall’appetito per il bene, come già detto sopra (Q[25], A[2]; Q[39], A[2]); pertanto vengono menzionate soltanto quelle passioni che tendono al bene, poiché sono le cause di quelle che inducono in modo eccessivo all’evitamento del male.
+
 <span class="atom-split" data-atom="056" data-title="Whether sin is alleviated on account of a passion?" data-chapter="Whether sin is alleviated on account of a passion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sin is not alleviated on account of passion. For increase of
@@ -2923,6 +3722,27 @@ his reason, such a passion diminishes the goodness and praiseworthiness of his a
 
 Reply to Objection 3: Although the movement of the will incited by the passion is more intense,
 yet it is not so much the will's own movement, as if it were moved to sin by the reason alone.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il peccato non venga mitigato a causa delle passioni. Infatti, un aumento della causa aumenta anche l’effetto: se qualcosa di caldo fa sciogliere un materiale, qualcosa di ancora più caldo lo farà sciogliere ulteriormente. Ora, le passioni sono una causa del peccato, come affermato in (A[5]). Pertanto, più intense sono le passioni, maggiore è il peccato commesso. Quindi le passioni non riducono il peccato, ma lo aumentano.
+
+Obiezione 2: Inoltre, una buona passione ha lo stesso rapporto con il merito che una cattiva passione ha con il peccato. Una buona passione aumenta il merito: infatti, un uomo sembra meritare di più quando è spinto da una maggiore compassione a aiutare un povero. Pertanto, anche una cattiva passione aumenta, piuttosto che diminuire, il peccato.
+
+Obiezione 3: Inoltre, sembra che un uomo pechi in modo più grave quanto più intensamente la sua volontà lo spinge al peccato. Ma quella passione che stimola la volontà la induce ad agire con maggiore intensità verso l’atto peccaminoso. Pertanto, la passione aggrava il peccato stesso.
+
+Al contrario, la passione della concupiscenza viene definita una tentazione della carne. Tuttavia, più grande è la tentazione che supera un uomo, meno grave è il suo peccato, come afferma [Agostino](/figures/augustine) (De Civ. Dei iv, 12).
+
+Rispondo che il peccato consiste essenzialmente in un atto della [volontà libera](/positions/free_will), la quale è una facoltà sia della volontà che della ragione; mentre la passione rappresenta un movimento dell’appetito sensibile. Ora, l’appetito sensibile può essere collegato alla volontà libera in modo sia antecedente che consequenziale: antecedentemente, nel senso che una passione dell’appetito sensibile attira o inclina la ragione o la volontà, come già detto (AA[1],2; Q[10], A[3]); e conseguentemente, in quanto i movimenti delle facoltà superiori influenzano quelle inferiori, poiché non è possibile che la volontà venga spinta con intensità verso qualcosa senza che si susciti una passione nell’appetito sensibile.  
+Pertanto, se consideriamo la passione come precedente all’atto peccaminoso, essa necessariamente riduce la gravità del peccato: poiché un atto è peccaminoso nella misura in cui è volontario e sotto il nostro controllo. Una cosa è detta essere sotto il nostro controllo attraverso la ragione e la volontà; quindi, più la ragione e la volontà agiscono spontaneamente, senza essere spinte da una passione, più l’atto è volontario e sotto il nostro controllo. In questo senso, la passione riduce il peccato, poiché ne diminuisce la natura volontaria.  
+D’altra parte, una passione che segue un atto peccaminoso non lo riduce, ma anzi ne aumenta la gravità; in quanto dimostra l’intensità della volontà verso quell’atto. È vero quindi che maggiore è il piacere o la concupiscenza che spingono qualcuno a peccare, maggiore sarà il peccato stesso.
+
+Risposta all’Obiezione 1: La passione è la causa del peccato da parte di colui che si rivolge verso di essa.  
+Ma la gravità di un peccato viene misurata in base a ciò da cui l’individuo si è rivolto, e tale aspetto deriva accidentalmente dalla sua scelta di rivolgersi a qualcos’altro – cioè, in modo accidentale, ovvero al di fuori delle sue intenzioni originali. Ora, un effetto viene aumentato non dall’aumento della sua causa accidentale, ma da quello della sua causa diretta.
+
+Risposta all’Obiezione 2: Una buona passione che deriva dalla valutazione della ragione aumenta il merito; ma se essa precede tale valutazione, facendo sì che una persona agisca più spinta dalla passione che dalla ragione, allora tale passione riduce la bontà e il valore lodevole dell’azione stessa.
+
+Risposta all’Obiezione 3: Sebbene il movimento della volontà suscitato dalle passioni sia più intenso, esso non rappresenta tanto un movimento spontaneo della volontà stessa, come se questa fosse spinta al peccato esclusivamente dalla ragione.
 
 <span class="atom-split" data-atom="057" data-title="Whether passion excuses from sin altogether?" data-chapter="Whether passion excuses from sin altogether?" data-kind="atom" data-srclang="en"></span>
 
@@ -2978,6 +3798,24 @@ particular act, which passion the reason is able to drive away, as stated.
 Reply to Objection 3: Bodily disease is involuntary: there would be a comparison, however,
 if it were voluntary, as we have stated about drunkenness, which is a kind of bodily disease.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le passioni scusino completamente il peccato. Infatti, qualsiasi causa renda un atto involontario, lo scusa completamente dal punto di vista del peccato. Ma la concupiscenza della carne, essendo una passione, rende un atto involontario, come afferma Galati 5:17: “La carne desidera ciò che è contrario allo spirito, così che non si facciano le cose che si vorrebbero fare”. Pertanto, le passioni scusano completamente il peccato.
+
+Obiezione 2: Inoltre, la passione provoca una certa ignoranza riguardo a un particolare argomento, come detto sopra (A[2]; Q[76], A[3]). Ma l’ignoranza su un particolare argomento scusa completamente da ogni peccato, come affermato anch’esso sopra (Q[6], A[8]). Pertanto, la passione scusa completamente da ogni peccato.
+
+Obiezione 3: Inoltre, la malattia dell’anima è più grave della malattia del corpo. Ma la malattia fisica scusa completamente da ogni peccato, come nel caso delle persone folli. Pertanto, tanto più lo fa l’emozione, che è una malattia dell’anima.
+
+Al contrario, l’Apostolo (Romani 7:5) parla delle passioni come di “passioni di peccato”, e questo solo perché esse causano il peccato; altrimenti non ci sarebbe alcuna giustificazione per il peccato. Pertanto, le passioni non scusano affatto il peccato.
+
+Rispondo che un atto che, per sua natura, è malvagio non può essere completamente scusato come peccato, a meno che non sia del tutto involontario. Pertanto, se una passione rende l’atto successivo totalmente involontario, allora quell’atto è completamente scusabile; altrimenti, non lo è affatto. In questa materia si dovrebbero osservare due aspetti: primo, che una cosa può essere volontaria “in sé”, quando la volontà tende direttamente verso di essa; oppure “per la sua causa”, quando la volontà tende verso quella causa e non verso l’effetto; è il caso di chi si ubriaca intenzionalmente: in tal caso, ciò che fa viene considerato volontario, poiché lo fa in uno stato di ebbrezza. In secondo luogo, si deve distinguere se una cosa sia volontaria “direttamente” o “indirettamente”: direttamente, quando la volontà tende verso di essa; indirettamente, quando la volontà avrebbe potuto impedirla, ma non l’ha fatto. Pertanto, bisogna fare questa distinzione: a volte una passione è così intensa da privare completamente della capacità di ragionare, come nel caso di coloro che sono pazzi per amore o rabbia; in tal caso, se tale passione è volontaria fin dall’inizio, l’atto viene considerato un peccato, poiché è volontario “per la sua causa”. Tuttavia, se la causa non è volontaria ma naturale – ad esempio, se qualcuno, a causa di una malattia o di altro motivo simile, cade in una passione che lo priva della capacità di ragionare – allora il suo atto diventa totalmente involontario e quindi non può essere considerato un peccato. Altre volte, invece, la passione non è così intensa da privare completamente della capacità di ragionare; in tal caso, la ragione può scacciare quella passione pensando ad altro, oppure può impedirle di avere il suo pieno effetto; poiché i nostri organi fisici vengono utilizzati soltanto con il consenso della ragione, come già detto (Q[17], A[9]). Pertanto, in questi casi, la passione non scusa completamente dal peccato.
+
+Risposta all’Obiezione 1: Le parole “Affinché non facciate ciò che desiderate” non si riferiscono alle azioni esterne, ma al movimento interno della concupiscenza; infatti, un uomo vorrebbe certamente non desiderare il male, ed è in questo senso che dobbiamo interpretare le parole di Romani 7:19: “Il male che non voglio, lo compio”. Oppure queste parole possono riferirsi alla volontà che precede l’impulso passionale, come nel caso delle persone incontrollate, le quali agiscono contro la propria risoluzione a causa della loro concupiscenza.
+
+Risposta all’Obiezione 2: L’ignoranza particolare che scusa completamente qualcuno è quella relativa a una circostanza di cui una persona non può venire a conoscenza nemmeno dopo aver adottato le dovute precauzioni. Tuttavia, la passione induce un’ignoranza delle leggi in casi specifici, impedendo l’applicazione dei principi generali a azioni particolari; questa ignoranza, come già detto, può essere superata dalla ragione.
+
+Risposta all’Obiezione 3: La malattia fisica è involontaria; tuttavia, ci sarebbe una qualche analogia se fosse volontaria, come abbiamo già sottolineato per l’ebrezza, che rappresenta un tipo di malattia fisica.
+
 <span class="atom-split" data-atom="058" data-title="Whether a sin committed through passion can be mortal?" data-chapter="Whether a sin committed through passion can be mortal?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sin committed through passion cannot be mortal. Because
@@ -3022,6 +3860,24 @@ Reply to Objection 3: Passion does not always hinder the act of reason altogethe
 the reason remains in possession of its free-will, so as to turn away from God, or turn to Him. If,
 however, the use of reason be taken away altogether, the sin is no longer either mortal or venial.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il peccato commesso per passione non possa essere mortale. Poiché il peccato veniale è considerato concomitante al peccato mortale. Ora, il peccato commesso per debolezza è veniale, poiché in sé contiene un motivo di perdono [venia]. Pertanto, poiché il peccato commesso per passione è un peccato di debolezza, sembra che non possa essere mortale.
+
+Obiezione 2: Inoltre, la causa è più potente dell’effetto che ne deriva. Ma la passione non può essere un peccato mortale, poiché nella sensualità non esiste alcun peccato mortale, come già affermato sopra (Q[74], A[4]). Pertanto, un peccato commesso per passione non può essere considerato mortale.
+
+Obiezione 3: Inoltre, la passione rappresenta un ostacolo per la ragione, come spiegato sopra (AA[1],2). Ora, spetta proprio alla ragione decidere se rivolgersi a Dio o allontanarsene, e questo rappresenta l’essenza di un peccato mortale. Pertanto, un peccato commesso per passione non può essere considerato mortale.
+
+Al contrario, l’Apostolo afferma (Romani 7:5) che “le passioni dei peccati, operano nei nostri membri per produrre frutti mortali”. Ora, è proprio del peccato mortale produrre frutti mortali; pertanto, il peccato commesso per passione può essere considerato un peccato mortale.
+
+Rispondo che il peccato mortale, come detto sopra (Q[72], A[5]), consiste nel allontanarsi dal nostro fine ultimo, che è Dio; tale distacco riguarda la ragione deliberante, la cui funzione è proprio quella di guidarci verso quel fine. Pertanto, ciò che è contrario al fine ultimo non può essere considerato un peccato mortale, se non quando la ragione deliberante è incapace di intervenire per impedirlo, come avviene nei movimenti improvvisi. Ora, quando qualcuno agisce spinto dalla passione o dopo una decisione deliberata, ciò non avviene in modo improvviso; quindi la ragione deliberante può intervenire, poiché è in grado di repellere la passione o almeno di impedirne gli effetti, come già detto. Se invece non interviene, allora si verifica un peccato mortale; ed è proprio per questo che molti omicidi e adulteri vengono commessi spinti dalla passione.
+
+Risposta all’Obiezione 1: Un peccato può essere veniale in tre modi. Primo, per la sua causa: quando esiste una ragione che rende il peccato meritevole di perdono, e tale ragione ne attenua la gravità; quindi un peccato commesso per debolezza o ignoranza è considerato veniale. Secondo, per le sue conseguenze: ogni peccato, attraverso il pentimento, diventa veniale, cioè meritevole di perdono. Terzo, per la sua natura: ad esempio, una parola inutile. Questo è l’unico tipo di peccato veniale che si contrappone al peccato mortale; l’obiezione riguarda invece il primo dei tre modi menzionati.
+
+Risposta all’Obiezione 2: La passione causa il peccato nel momento in cui si manifesta un attaccamento a qualcosa. Tuttavia, che ciò costituisca un peccato mortale dipende dall’avversione che ne deriva accidentalmente, come già detto sopra (A[6], ad 1): pertanto, questo argomento non è convincente.
+
+Risposta all’Obiezione 3: La passione non ostacola sempre completamente l’azione della ragione; pertanto, la ragione mantiene il proprio libero arbitrio, e può quindi allontanarsi da Dio o rivolgersi a Lui. Tuttavia, se l’uso della ragione venisse completamente eliminato, il peccato non sarebbe più né mortale né veniale.
+
 <span class="atom-split" data-atom="059" data-title="OF THAT CAUSE OF SIN WHICH IS MALICE (FOUR ARTICLES)" data-chapter="OF THAT CAUSE OF SIN WHICH IS MALICE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the cause of sin on the part of the will, viz. malice: and under this head
@@ -3030,6 +3886,14 @@ there are four points of inquiry:
 (2) Whether everyone that sins through [habit](/concepts/custom), sins through certain malice?
 (3) Whether every one that sins through certain malice, sins through habit?
 (4) Whether it is more grievous to sin through certain malice, than through passion?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la causa del peccato da parte della volontà, ovvero l’ostilità; in questo ambito vi sono quattro punti di indagine:  
+(1) È possibile che qualcuno pechi per una determinata malizia, cioè intenzionalmente?  
+(2) Ogni persona che pecca a causa di un’[abitudine](/concepts/custom) pecca necessariamente per una certa malizia?  
+(3) Chiunque pecca per una determinata malizia pecca anche a causa di un’abitudine?  
+(4) È più grave peccare per una determinata malizia che per una passione?
 
 <span class="atom-split" data-atom="060" data-title="Whether anyone sins through certain malice?" data-chapter="Whether anyone sins through certain malice?" data-kind="atom" data-srclang="en"></span>
 
@@ -3093,6 +3957,24 @@ imply that a thing is its own cause: for the interior act is the cause of the ex
 is the cause of another; not indefinitely, however, since we can trace it back to some previous sin,
 which is not caused by any previous sin, as was explained above (Q[75], A[4], ad 3).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nessuno pechi intenzionalmente, o per una certa malizia. Infatti l’ignoranza è contraria all’intenzione o alla malizia deliberata. Ora, “ogni uomo malvagio è ignorante”, secondo il Filosofo (Etica, iii, 1); inoltre si legge (Proverbi, 14:22): “Coloro che compiono il male sbagliano”. Pertanto, nessuno pecca per una certa malizia.
+
+Obiezione 2: Inoltre, Dionisio afferma (Div. Nom. iv) che “nessuno compie un atto con l’intenzione di fare del male”. Ora, peccare per malizia sembra indicare proprio l’intenzione deliberata di commettere il male [*si allude al fatto che il termine “malizia” derivi da “male” in senso negativo], poiché un atto non viene definito in base a ciò che è involontario o accidentale. Pertanto, nessuno pecca per malizia.
+
+Obiezione 3: Inoltre, la malizia stessa è un peccato. Pertanto, se la malizia è una causa di peccato, ne consegue che il peccato continui a causare altri peccati all’infinito, il che è assurdo. Quindi nessuno commette peccati per malizia.
+
+Al contrario, è scritto (Job 34:27): “Coloro che, per così dire, si ribellano intenzionalmente contro Dio non vogliono comprendere tutti i suoi modi di agire”. Ribellarsi contro Dio significa peccare; pertanto alcuni commettono il peccato in modo deliberato o per malizia.
+
+Rispondo che l’uomo, come qualsiasi altro essere, ha naturalmente un desiderio per il bene; pertanto, se questo suo desiderio si orienta verso il male, ciò è dovuto a una corruzione o a un disordine in uno dei principi fondamentali dell’essere umano. È così che il peccato sorge nelle azioni umane. I principi che guidano queste azioni sono l’intelletto e i desideri, sia razionali (cioè la volontà) che sensuali. Pertanto, proprio come il peccato può derivare da un difetto dell’intelletto – ad esempio quando si pecca per ignoranza – o da un difetto dei desideri sensuali – ad esempio quando si pecca per passione – allo stesso modo può sorgere anche da un disordine nella volontà. La volontà è in disordine quando preferisce il bene inferiore a quello superiore. Inoltre, amare meno qualcosa significa essere disposti a subire dei danni al fine di ottenere ciò che si ama di più; ad esempio, quando una persona, pur consapevolmente, accetta di perdere un arto per salvare la propria vita, che considera più importante. Pertanto, quando una volontà mal regolata preferisce un bene temporale – come ricchezze o piaceri – alla ragione, alla legge divina o ad altri valori spirituali, allora è disposta a subire perdite spirituali pur di ottenere quel bene materiale. Il male, in sostanza, non è altro che la privazione di un bene; quindi, quando una persona sceglie consapevolmente di subire un danno spirituale al fine di ottenere un beneficio temporale, si dice che pecca per malizia o intenzionalmente.
+
+Risposta all’Obiezione 1: L’ignoranza a volte esclude la semplice consapevolezza che un determinato atto sia male; in tal caso si dice che l’uomo pechi per ignoranza. A volte esclude anche la conoscenza del fatto che quel particolare atto sia male in quel preciso momento, come quando si pecca per passione. In altri casi, l’ignoranza può escludere soltanto la consapevolezza che un certo male non debba essere sopportato al fine di ottenere un bene, ma non necessariamente la semplice consapevolezza che si tratti di un male; è in questo modo che un uomo agisce per ignoranza quando commette un atto malizioso.
+
+Risposta all’Obiezione 2: Il male non può essere intenzionato da nessuno per se stesso; ma può essere intenzionato al fine di evitare un altro male o di ottenere un altro bene, come già detto in precedenza. In questo caso, chiunque preferirebbe ottenere il bene che è intenzionato per sé stesso, senza subire la perdita dell’altro bene; proprio come un uomo lussurioso desidererebbe godere di un piacere senza offendere Dio. Tuttavia, di fronte a queste due possibilità, preferirebbe peccare e quindi incorrere nell’[ira](/concepts/anger) di Dio, piuttosto che privarsi di quel piacere.
+
+Risposta all’Obiezione 3: La malvagità attraverso la quale qualcuno pecca può essere intesa come malvagità abituale, nel senso in cui il Filosofo (Etica V, 1) definisce una cattiva abitudine “malvagità”, proprio come una buona abitudine viene chiamata virtù. In questo modo, si dice che qualcuno pecca per malvagità quando compie un atto peccaminoso guidato da un’abitudine negativa. La malvagità può anche indicare una malizia effettiva: sia nel senso che con “malvagità” ci si riferisca alla scelta deliberata del male (e in tal caso si dice che qualcuno pecca per malvagità quando sceglie intenzionalmente il male), sia nel senso che si riferisca a un errore precedente che ne origina uno successivo, come quando qualcuno attacca la grazia del proprio fratello per invidia. Questo però non significa che una cosa sia la propria causa: l’atto interiore è infatti la causa dell’atto esteriore, e un peccato può essere la causa di un altro; tuttavia, questa relazione non è infinita, poiché si può sempre risalire a un peccato precedente che, a sua volta, non è causato da alcun altro peccato, come spiegato in precedenza (Q[75], A[4], ad 3).
+
 <span class="atom-split" data-atom="061" data-title="Whether everyone that sins through habit, sins through certain malice?" data-chapter="Whether everyone that sins through habit, sins through certain malice?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that not every one who sins through [habit](/concepts/custom), sins through certain
@@ -3146,6 +4028,24 @@ by means of his reason, which is not altogether corrupted, it may happen that wh
 habit he is sorry for what he has done through the habit. And so it often happens that such a man
 is sorry for his sin not because sin in itself is displeasing to him, but on account of his reaping some
 disadvantage from the sin.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non tutti coloro che peccano per abitudine lo facciano con una certa malizia. Poiché il peccato commesso con malizia sembra essere il più grave, capita talvolta che una persona compia un piccolo peccato per abitudine, come quando pronuncia parole inutili. Pertanto, il peccato commesso per abitudine non sempre deriva da una certa malizia.
+
+Obiezione 2: Inoltre, “Gli atti che derivano da abitudini sono simili agli atti attraverso i quali tali abitudini si sono formate” (Etica, ii, 1,2). Tuttavia, gli atti che precedono l’insorgere di un vizio non vengono compiuti con una certa malizia. Pertanto, anche i peccati che derivano da abitudini non vengono commessi con una certa malizia.
+
+Obiezione 3: Inoltre, quando un uomo commette un peccato per certa malizia, è felice dopo averlo compiuto, come afferma il Proverbo 2:14: “Coloro che si rallegrano di aver compiuto il male e gioiscono delle azioni più malvagie, ” Questo perché ottenere ciò che desideriamo e compiere azioni che per abitudine sono naturali per noi è piacevole. Tuttavia, coloro che peccano per abitudine provano dolore dopo averlo fatto; infatti, “gli uomini malvagi”, cioè quelli con abitudini viziose, “sono pieni di rimorso” (Etica, IX, 4). Pertanto, i peccati che derivano dall’abitudine non vengono commessi per una certa malizia.
+
+Al contrario, un peccato commesso con una certa malizia è un peccato compiuto attraverso la scelta del male. Ora, noi scegliamo quelle cose verso cui siamo inclini per abitudine, come affermato nell’Etica, VI, 2 riguardo alle abitudini virtuose. Pertanto, un peccato che deriva da un’abitudine viene commesso attraverso una certa malizia.
+
+Rispondo che esiste una differenza tra un peccato commesso da chi possiede una cattiva abitudine e un peccato compiuto semplicemente per abitudine: non è infatti necessario ricorrere a quell’abitudine, poiché essa è soggetta alla volontà della persona che la possiede. Pertanto, l’abitudine viene definita “qualcosa di cui ci serviamo quando lo desideriamo”, come già detto in precedenza (Q[50], A[1]). E così, anche se può accadere che una persona con una cattiva abitudine compia un atto virtuoso – poiché una cattiva abitudine non corrompe del tutto la ragione, lasciando ancora qualcosa intatto – il risultato è comunque che tale persona commetta atti in generale buoni. Allo stesso modo, può accadere che una persona con una cattiva abitudine agisca non per quella stessa abitudine, ma spinta da un impulso passionale o dall’ignoranza. Tuttavia, ogni volta che ricorre a quell’abitudine, inevitabilmente commette peccato, poiché ciò che le è conforme appare come qualcosa di desiderabile; e poiché abitudine e consuetudine costituiscono in un certo senso una “seconda natura”, ciò che è conforme a una cattiva abitudine esclude necessariamente il bene spirituale. Di conseguenza, tale persona sceglie effettivamente il male spirituale al fine di ottenere ciò che le è conforme secondo quella sua abitudine, e questo equivale a commettere peccato con malizia. È quindi evidente che chiunque pecca per abitudine lo fa necessariamente con malizia.
+
+Risposta all’Obiezione 1: Il peccato veniale non esclude il bene spirituale, che consiste nella grazia di Dio o nella carità. Pertanto, esso rappresenta un male, non in senso assoluto, ma relativo; e per questa ragione, l’abitudine al peccato veniale non è considerata un male assoluto, ma relativo.
+
+Risposta all’Obiezione 2: Gli atti che derivano da abitudini appartengono alla stessa categoria di quelli da cui tali abitudini sono nate; tuttavia, si differenziano da questi ultimi in quanto perfetti rispetto a imperfetti. È questa la differenza tra il peccato commesso per malizia deliberata e il peccato commesso per passione.
+
+Risposta all’Obiezione 3: Chi pecca per abitudine è sempre felice di ciò che fa per abitudine, finché continua a praticare quell’abitudine. Ma poiché è in grado di smetterla e di pensare ad altro, grazie alla sua ragione che non è del tutto corrotta, può accadere che, smettendo di praticare quell’abitudine, si penta di ciò che ha fatto per essa. Ed è proprio per questo che spesso tale persona si pente del suo peccato non perché il peccato in sé sia spiacevole per lei, ma perché ne subisce delle conseguenze negative.
 
 <span class="atom-split" data-atom="062" data-title="Whether one who sins through certain malice, sins through habit?" data-chapter="Whether one who sins through certain malice, sins through habit?" data-kind="atom" data-srclang="en"></span>
 
@@ -3206,6 +4106,24 @@ but at times is something else. Moreover, there is no comparison between choosin
 choosing evil: because evil is never without some good of nature, whereas good can be perfect
 without the evil of fault.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che chi pecca per una certa malizia pechi attraverso l’[abitudine](/concepts/custom). Infatti il Filosofo afferma (Etica v, 9) che “un atto ingiusto non viene compiuto da una persona ingiusta”, cioè intenzionalmente, “se non è frutto di abitudine”. Ora, peccare per malizia significa scegliere deliberatamente il male, come detto sopra (A[1]). Pertanto, nessuno pecca per malizia se non possiede l’abitudine al peccato.
+
+Obiezione 2: Inoltre, Origene afferma (Peri Archon iii) che “un uomo non viene improvvisamente distrutto e perduto, ma deve necessariamente decadere poco alla volta”. Tuttavia, la caduta più grave sembra essere quella dell’uomo che pecca per malizia deliberata. Pertanto, l’uomo arriva al peccato attraverso una malizia specifica, non fin dall’inizio, ma a causa di abitudini radicate che possono generare un vizio.
+
+Obiezione 3: Inoltre, ogni volta che un uomo pecca per una certa malizia, la sua volontà deve necessariamente essere incline di per sé verso il male che sceglie. Ma per natura, quella stessa forza umana è inclina al bene, non al male. Pertanto, se un uomo sceglie il male, ciò deve essere dovuto a qualcosa che interviene successivamente, come la passione o l’abitudine. Ora, quando un uomo pecca per passione, non lo fa per una certa malizia, ma per debolezza, come è stato detto (Q[77], A[3]). Quindi, ogni volta che qualcuno pecca per una certa malizia, in realtà pecca a causa di un’abitudine.
+
+Al contrario, la buona abitudine svolge lo stesso ruolo nella scelta di ciò che è giusto, quanto la cattiva abitudine nella scelta di ciò che è sbagliato. Tuttavia, a volte può accadere che una persona, senza possedere l’abitudine di una virtù, scelga ciò che è giusto secondo quella virtù. Pertanto, anche in questi casi, una persona che non ha l’abitudine di un vizio può scegliere il male, commettendo così un peccato a causa di una certa malizia.
+
+Rispondo che la volontà ha un rapporto diverso con il bene e con il male. Poiché, per natura stessa, è incline al bene razionale, che ne rappresenta l’oggetto proprio; pertanto si dice che ogni peccato sia contrario alla natura umana. Quindi, se una volontà, per scelta propria, tende verso il male, ciò deve essere causato da qualche altro fattore. A volte questa inclinazione deriva da un difetto nella ragione, come quando qualcuno pecca per ignoranza; altre volte nasce dall’impulso degli appetiti sensuali, come quando si pecca per passione. Tuttavia, in nessun caso ciò equivale a commettere un peccato per malizia deliberata; infatti si commette peccato per malizia soltanto quando la volontà è spinta verso il male di sua spontanea iniziativa. Ciò può accadere in due modi: primo, quando una persona possiede una disposizione corrotta che la inclina al male; in tal caso, quel male le sembra appropriato e congeniale, e la volontà vi tende come verso qualcosa di buono, poiché tutto tende spontaneamente verso ciò che gli è adatto. Questa disposizione corrotta può essere un’abitudine acquisita con il tempo o una condizione fisica patologica; ad esempio, una persona che per natura è inclina a certi peccati potrebbe farlo a causa di una corruzione interna. In secondo luogo, la volontà può tendere spontaneamente verso il male se vengono rimossi degli ostacoli: ad esempio, se qualcuno viene trattenuto dal peccare non perché il peccato stesso gli sia ripugnante, ma per la speranza di una vita eterna o per la paura dell’inferno; tuttavia, se questa speranza o questa paura svaniscono, quella persona potrebbe commettere un peccato per malizia deliberata, essendo stata liberata da ogni impedimento. È evidente quindi che il peccato compiuto con malizia presupone sempre una qualche disordinazione nell’uomo; tuttavia questa disordinazione non è sempre un’abitudine consolidata: pertanto non si può necessariamente dedurre che chi commette un peccato per malizia lo faccia per abitudine.
+
+Risposta all’Obiezione 1: Agire come fa un uomo ingiusto può significare non solo compiere atti ingiusti per malizia, ma anche farlo con piacere, senza alcuna resistenza da parte della ragione; e ciò accade soltanto in chi ha sviluppato tale abitudine.
+
+Risposta all’Obiezione 2: È vero che un uomo non cade improvvisamente nel peccato a causa di una certa malvagità, e che qualcosa viene presupposto in tale contesto; tuttavia, questa “qualcosa” non è sempre un’abitudine, come detto sopra.
+
+Risposta all’Obiezione 3: Ciò che spinge la volontà verso il male non è sempre un’abitudine o una passione, ma a volte può essere qualcos’altro. Inoltre, non esiste alcuna analogia tra scegliere il bene e scegliere il male: poiché il male contiene sempre in sé qualche aspetto positivo, mentre il bene può essere perfetto senza alcun elemento negativo.
+
 <span class="atom-split" data-atom="063" data-title="Whether it is more grievous to sin through certain malice than through passion?" data-chapter="Whether it is more grievous to sin through certain malice than through passion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not more grievous to sin through certain malice than
@@ -3265,6 +4183,24 @@ chooses evil of his own accord, in the way already explained (AA[2],3), so that 
 which he has full control, is the principle of his sin: and for this reason he is said to sin "through"
 choosing.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia più grave peccare per certa malizia che per passione. Infatti l’ignoranza scusa dal peccato, in tutto o in parte. Ora, l’ignoranza è maggiore in colui che pecca per certa malizia rispetto a colui che pecca per passione; poiché colui che pecca per malizia soffre della peggiore forma di ignoranza, ovvero quella derivante da una falsa valutazione dell’obiettivo finale, che secondo il Filosofo (Etica vii, 8) rappresenta il principio guida nelle azioni. Pertanto, c’è una maggiore scusa per colui che pecca per malizia rispetto a colui che pecca per passione.
+
+Obiezione 2: Inoltre, più un uomo è spinto a peccare, meno grave è il suo peccato, come è evidente nel caso di colui che viene trascinato verso il peccato da una passione impetuosa. Chi invece pecca per malizia, è spinto dall’[abitudine](/concepts/custom), la cui forza è maggiore di quella della passione. Pertanto, peccare per abitudine è meno grave che peccare per passione.
+
+Obiezione 3: Inoltre, peccare per certa malizia significa peccare scegliendo il male. Chi pecca per passione, anch’egli sceglie il male. Pertanto, non pecca in modo meno grave di colui che pecca per certa malizia.
+
+Al contrario, un peccato commesso intenzionalmente merita una punizione più severa, proprio per questo motivo; come dice Giobbe 34:26: “Li ha colpiti perché erano malvagi, in piena vista, coloro che, per così dire, si sono ribellati a Lui di proposito”. Ora, la punizione non aumenta se non per un errore più grave. Pertanto, un peccato diventa più grave quando viene commesso intenzionalmente, cioè con una certa malizia.
+
+Rispondo che un peccato commesso con malizia è più grave di uno commesso per passione, per tre motivi. Primo, poiché il peccato consiste principalmente in un atto della volontà, ne consegue che, a parità di altre condizioni, un peccato è tanto più grave quanto maggiore sia la partecipazione della volontà stessa nell’atto peccaminoso. Quando un peccato viene commesso con malizia, infatti, la volontà è spinta al male di sua spontanea iniziativa; mentre quando il peccato nasce da una passione, la volontà viene sollecitata da fattori esterni. Pertanto, il peccato diventa più grave proprio a causa della malizia che lo motiva, e tanto più quanto questa malizia è intensa; al contrario, si attenua quando viene commesso per passione, e tanto più quanto tale passione è forte. Secondo, poiché la passione che spinge alla colpa svanisce rapidamente, permettendo all’uomo di pentirsi e tornare alle proprie buone intenzioni, l’abitudine al peccato, invece, è una caratteristica permanente; quindi chi pecca per malizia rimane più a lungo nel proprio errore. Per questo motivo il Filosofo (Etica, vii, 8) paragona l’uomo intemperante, che pecca con malizia, a un uomo malato affetto da una malattia cronica, mentre paragona l’uomo incontinente, che pecca per passione, a colui che soffre di disturbi intermittenti. Terzo, poiché chi pecca con malizia è predisposto negativamente rispetto allo scopo stesso dell’azione, il difetto diventa più pericoloso rispetto al caso di chi pecca per passione: in quest’ultimo caso, infatti, l’intenzione originale rimane orientata verso un bene, anche se temporaneamente ostacolata dalla passione. Ora, il peggiore dei difetti è proprio quello legato alla mancanza di principi morali. È evidente quindi che un peccato commesso con malizia sia più grave di uno commesso per passione.
+
+Risposta all’Obiezione 1: L’ignoranza riguardo alle scelte, di cui parla l’obiezione, né scusa né attenua un peccato, come già detto sopra (Q[76], A[4]). Pertanto, nemmeno una maggiore ignoranza in questo senso rende un peccato meno grave.
+
+Risposta all’Obiezione 2: L’impulso derivante dalle passioni è, per così dire, causato da un difetto esterno alla volontà; invece, attraverso l’abitudine, la volontà viene influenzata dall’interno stesso. Pertanto, il paragone non regge.
+
+Risposta all’Obiezione 3: È una cosa peccare mentre si sceglie, un’altra peccare a causa di una scelta. Chi pecca per passione pecca effettivamente mentre sceglie, ma non perché abbia scelto intenzionalmente; la sua scelta, infatti, non rappresenta il principio fondamentale del suo peccato, poiché viene indotta dalla passione stessa a scegliere ciò che altrimenti non sceglierebbe. D’altra parte, chi pecca per malizia sceglie deliberatamente il male, nel modo già spiegato (AA[2],3); in questo caso, la sua scelta, su cui ha pieno controllo, costituisce effettivamente il principio del suo peccato; ed è proprio per questa ragione che si dice che egli pecca “a causa” di quella scelta.
+
 <span class="atom-split" data-atom="064" data-title="OF THE EXTERNAL CAUSES OF SIN (FOUR ARTICLES)" data-chapter="OF THE EXTERNAL CAUSES OF SIN (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the external causes of sin, and (1) on the part of God; (2) on the part of
@@ -3274,6 +4210,15 @@ Under the first head there are four points of inquiry:
 (2) Whether the act of sin is from God?
 (3) Whether God is the cause of spiritual blindness and hardness of heart?
 (4) Whether these things are directed to the salvation of those who are blinded or hardened?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare le cause esterne del peccato, e cioè: (1) da parte di Dio; (2) da parte del diavolo; (3) da parte dell’uomo.  
+All’interno della prima categoria esistono quattro punti da esaminare:  
+(1) Se Dio sia una causa del peccato;  
+(2) Se l’atto stesso del peccato derivi da Dio;  
+(3) Se Dio sia la causa dell’oscurità spirituale e della durezza di cuore;  
+(4) Se tali fenomeni abbiano lo scopo di salvare coloro che sono stati resi ciechi o induriti nel loro cuore.
 
 <span class="atom-split" data-atom="065" data-title="Whether God is a cause of sin?" data-chapter="Whether God is a cause of sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -3347,6 +4292,28 @@ thereby deprived of some good or other: but fault is opposed to the good of subo
 and so it is directly opposed to the Divine goodness; consequently there is no comparison between
 fault and punishment.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio sia una causa di peccato. Infatti l’Apostolo dice di alcuni: “Dio li ha abbandonati a un senso perverso, affinché facessero ciò che non è giusto” (Romani 1:28); inoltre, un commento aggiunge che “Dio agisce nei cuori degli uomini, inclinando la loro volontà verso ciò che Lui vuole, sia verso il bene che verso il male”. Ora, il peccato consiste nel fare ciò che non è giusto e nell’avere una volontà incline al male. Pertanto, Dio è per l’uomo una causa di peccato.
+
+Obiezione 2: Inoltre, si legge (Sapienza 14:11): “Le creature di Dio sono diventate oggetto di disprezzo e di tentazione per le anime degli uomini”. Ma una tentazione indica solitamente una provocazione al peccato. Poiché quindi le creature sono state create unicamente da Dio, come stabilito nel FP, Q[44], A[1], sembra che Dio sia causa di peccato, poiché provoca l’uomo a commetterlo.
+
+Obiezione 3: Inoltre, la causa della causa è anch’essa la causa dell’effetto. Ora, Dio è la causa della libertà di volontà, che a sua volta è la causa del peccato. Pertanto, Dio è la causa del peccato.
+
+Obiezione 4: Inoltre, ogni male è opposto al bene. Tuttavia non è contrario alla bontà di Dio il fatto che Egli provochi il male della punizione; infatti, a proposito di questo male si legge (Isaia 45:7) che Dio “crea il male”, e anche (Amos 3:6): “Potrà esserci del male in una città che Dio non ha creato?” Pertanto, non è incompatibile con la bontà di Dio il fatto che Egli provochi il male derivante dai peccati umani.
+
+Al contrario, è scritto (Sapienza 11:25): “Tu, odii tutte le cose che hai create”. Ora, Dio odia il peccato, secondo la Sapienza 14:9: “Per Dio, il malvagio e il suo male sono oggetto di odio”. Pertanto, Dio non è la causa del peccato.
+
+Rispondo che l’Uomo, in due modi, può essere la causa del proprio o dell’altrui peccato. Primo, in modo diretto: cioè inclinando la propria volontà o quella altrui verso il peccato; secondo, in modo indiretto: cioè non impedendo a qualcuno di peccare. Per questo motivo (Ezechiele 3:18) si dice al custode: “Se non dici al malvagio: ‘Certamente morirai’, allora chiederò il suo sangue dalle tue mani”. Ora, Dio non può essere direttamente la causa del peccato, né in se stesso né in un altro, poiché ogni peccato rappresenta una deviazione dall’ordine che per Dio è lo scopo finale di tutte le cose; mentre Dio dirige e orienta tutte le cose verso di Sé come verso il loro fine ultimo, come afferma Dionigi nel “De Divinis Nominibus” (I): quindi è impossibile che Egli sia la causa, né per sé stesso né per un altro, di una deviazione da tale ordine. Pertanto, non può essere direttamente la causa del peccato; allo stesso modo, non può esserlo nemmeno in modo indiretto. Infatti, Dio non fornisce a alcuno l’aiuto necessario per evitare il peccato, poiché se lo facesse, tali persone non peccerebbero più. Tuttavia, Egli agisce sempre secondo l’ordine della Sua saggezza e giustizia, poiché Egli stesso è Saggezza e Giustizia; quindi, se qualcuno pecca, ciò non può essere attribuito a Dio come se fosse la causa di quel peccato; proprio come non si può dire che un pilota causi il naufragio della nave semplicemente perché non ne dirige la rotta, a meno che non smetta di farlo quando è ancora in grado e obbligato a farlo. È quindi evidente che Dio non è affatto la causa del peccato.
+
+Risposta all’Obiezione 1: Per quanto riguarda le parole dell’Apostolo, la soluzione è chiara dal testo stesso. Poiché se Dio abbandona alcune persone a un modo di pensare errato, ne consegue che queste già possedessero tale modo di pensare, al punto da compiere azioni sbagliate. Pertanto, si dice che Dio le abbandoni a quel modo di pensare errato nel senso che non le impedisce di seguirlo, proprio come diciamo che esponiamo una persona al pericolo se non la proteggiamo. L’affermazione di [Agostino](/figures/augustine) (De Gratia et Libero Arbitrio xxi, da cui è tratta la citazione) secondo cui “Dio inclina la volontà degli uomini verso il bene e il male” deve essere intesa nel senso che Egli spinge direttamente la volontà verso il bene; mentre verso il male, solo nel grado in cui non la ostacola, come detto sopra. Eppure anche questo accade perché tale comportamento è meritato da un peccato precedente.
+
+Risposta all’Obiezione 2: Quando si afferma che “le creature di Dio vengono trasformate in un’abominazione e in una tentazione per le anime degli uomini”, la preposizione “in” non indica una relazione causale, ma semplicemente una conseguenza. Ciò è chiarito dalla versione Douay: la frase latina “factae sunt in abominationem” può essere tradotta come “furono rese un’abominazione”, il che potrebbe suggerire una causalità; tuttavia, Dio non ha creato queste creature al fine che diventassero un male per l’uomo: ciò è stato il risultato della follia umana. Per questo motivo, il testo prosegue dicendo che tali creature rappresentano anche “una trappola per i piedi degli incauti”, ovvero per coloro che, nella loro stessa follia, le utilizzano a scopi diversi da quelli per cui sono state create.
+
+Risposta all’Obiezione 3: L’effetto che deriva dalla causa intermedia, nella misura in cui è subordinato alla prima causa, si riduce a quella prima causa; ma se deriva dalla causa intermedia al di fuori dell’ordine stabilito dalla prima causa, non si riduce più a essa. Pertanto, se un servo compie qualcosa che contraddice gli ordini del suo padrone, ciò non viene attribuito al padrone stesso come se fosse la causa di tale azione. Allo stesso modo, il peccato, che deriva dalla libera volontà umana e viola i comandamenti di Dio, non può essere attribuito a Dio come sua causa.
+
+Risposta all’Obiezione 4: La punizione è contraria al bene della persona punita, la quale ne viene privata di qualche bene; invece, il peccato è contrario al bene legato alla sottomissione a Dio, e quindi è direttamente contrario alla bontà divina. Pertanto, non esiste alcuna analogia tra il peccato e la punizione.
+
 <span class="atom-split" data-atom="066" data-title="Whether the act of sin is from God?" data-chapter="Whether the act of sin is from God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the act of sin is not from God. For [Augustine](/figures/augustine) says (De Perfect.
@@ -3392,6 +4359,24 @@ Reply to Objection 3: As stated above (Q[72], A[1]), acts and habits do not take
 from the privation itself, wherein consists the nature of evil, but from some object, to which that
 privation is united: and so this defect which consists in not being from God, belongs to the species
 of the act consequently, and not as a specific difference.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’atto di peccato non provenga da Dio. Infatti, [Agostino](/figures/augustine) afferma (De Perfecta Justitiae ii) che “l’atto di peccato non è una realtà concreta”. Ora, tutto ciò che proviene da Dio è una realtà concreta; pertanto, l’atto di peccato non proviene da Dio.
+
+Obiezione 2: Inoltre, non si dice che l’uomo sia la causa del peccato se non perché è la causa dell’atto peccaminoso; infatti, “nessuno compie un atto con l’intenzione di fare del male”, come afferma Dionisio (Div. Nom. iv). Ora, Dio non è la causa del peccato, come già detto sopra (A[1]). Pertanto, Dio non è la causa dell’atto peccaminoso stesso.
+
+Obiezione 3: Inoltre, alcune azioni sono malvagie e peccaminose per loro natura, come è stato dimostrato sopra (Q[18], AA[2],8). Ora, qualsiasi sia la causa di una cosa, essa provoca anche tutto ciò che appartiene a quella cosa in termini di sua natura. Pertanto, se Dio avesse causato l’atto peccaminoso, Egli sarebbe il responsabile del peccato stesso, il che è falso, come è stato dimostrato sopra (A[1]). Quindi, Dio non è la causa dell’atto peccaminoso.
+
+Al contrario, l’atto di peccato rappresenta un movimento della volontà libera. Ora, “la volontà di Dio è la causa di ogni movimento”, come afferma Agostino (De Trinitate iii, 4,9). Pertanto, la volontà di Dio è anche la causa dell’atto di peccato.
+
+Rispondo che l’atto di peccato è sia un essere che un atto; e in entrambi i sensi deriva da Dio. Poiché ogni essere, qualunque ne sia il modo di esistere, deve derivare dall’Essere Primo, come afferma Dionigi nel “Divino Nome” (v). Inoltre, ogni azione è causata da qualcosa che esiste in atto, poiché nulla produce un’azione se non nella misura in cui è esso stesso in atto; e ogni essere in atto si riduce, come causa sua, all’Atto Primo, cioè a Dio, il quale è atto per essenza sua. Pertanto, Dio è la causa di ogni azione, nella misura in cui quest’ultima è un atto. Ma il peccato indica un essere e un atto caratterizzati da un difetto; e questo difetto deriva dalla causa creata, cioè dalla volontà libera, che si allontana dall’ordine del Primo Agente, ovvero di Dio. Di conseguenza, questo difetto non si riduce a Dio come sua causa, ma alla volontà libera: proprio come il difetto dell’zoppia si riduce a una gamba storta come sua causa, ma non alla forza motrice che, tuttavia, provoca ogni movimento nella persona zoppa. Pertanto, Dio è la causa dell’atto di peccato; eppure non è la causa del peccato stesso, poiché non fa sì che quell’atto presenti tale difetto.
+
+Risposta all’Obiezione 1: In questo passaggio Agostino chiama “cosa” ciò che è semplicemente una cosa, cioè la sostanza; infatti, in questo senso l’atto di peccato non è considerato una cosa.
+
+Risposta all’Obiezione 2: Non solo l’atto, ma anche il difetto sono da attribuire all’uomo come loro causa; tale difetto consiste nel fatto che l’uomo non è soggetto a Colui a cui dovrebbe essere sottomesso, anche se questo non è il suo intento principale. Pertanto, l’uomo è la causa del peccato; Dio, invece, è la causa dell’atto stesso, ma in nessun modo è la causa del difetto che accompagna quell’atto, quindi non è nemmeno la causa del peccato.
+
+Risposta all’Obiezione 3: Come già detto sopra (Q[72], A[1]), azioni e abitudini non ricevono la loro specie dalla privazione stessa, che costituisce la natura del male, ma da un oggetto al quale tale privazione è unita; pertanto, questo difetto, che consiste nel non provenire da Dio, appartiene necessariamente alla specie dell’azione in questione, e non come differenza specifica.
 
 <span class="atom-split" data-atom="067" data-title="Whether God is the cause of spiritual blindness and hardness of heart?" data-chapter="Whether God is the cause of spiritual blindness and hardness of heart?" data-kind="atom" data-srclang="en"></span>
 
@@ -3445,6 +4430,27 @@ Reply to Objection 2: This argument considers hardheartedness in so far as it is
 
 Reply to Objection 3: Malice is the demeritorious cause of blindness, just as sin is the cause
 of punishment: and in this way too, the devil is said to blind, in so far as he induces man to sin.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non sia la causa della cecità spirituale e della durezza di cuore. Infatti, [Agostino](/figures/augustine) afferma (Qq. lxxxiii, qu. 3) che Dio non è la causa di ciò che peggiora l’uomo. Ora, l’uomo viene peggiorato dalla cecità spirituale e dalla durezza di cuore; pertanto, Dio non può essere considerato la causa di tali stati.
+
+Obiezione 2: Inoltre, Fulgenzio afferma (De Dupl. Praedest. i, 19): “Dio non punisce ciò che Egli stesso provoca”. Ora, Dio punita il cuore indurito, secondo l’Ecclesiastico 3:27: “Il cuore indurito temerà il male alla fine”. Pertanto, Dio non è la causa dell’indurimento del cuore.
+
+Obiezione 3: Inoltre, lo stesso effetto non viene attribuito a cause opposte. Ma la causa della cecità spirituale viene considerata l’avidità e la malvagità umana; come si legge in Sapienza 2:21: “Per la loro stessa malvagità sono rimasti accecati”, e ancora in 2 Corinzi 4:4: “Il dio di questo mondo ha oscurato la mente dei non credenti”. Tali cause sembrano essere contrarie a Dio. Pertanto, Dio non può essere considerato la causa della cecità spirituale e della durezza di cuore.
+
+Al contrario, è scritto (Isaia 6:10): “Ciechino il cuore di questo popolo e rendano sordi i suoi orecchi”, e in Romani 9:18: “Ha misericordia chi vuole e rende ostinato chi vuole”.
+
+Rispondo che la cecità spirituale e la durezza di cuore implicano due aspetti. Il primo riguarda il movimento della mente umana che si attacca al male e si allontana dalla luce divina; in questo senso, Dio non è la causa della cecità spirituale e della durezza di cuore, proprio come non lo è del peccato. Il secondo aspetto riguarda il ritiro della grazia divina: in tal caso, la mente non viene illuminata da Dio per vedere correttamente, e il cuore dell’uomo non si addolcisce per vivere rettamente; in questo senso, Dio è effettivamente la causa della cecità spirituale e della durezza di cuore.  
+Dobbiamo considerare che Dio è la causa universale dell’illuminazione delle anime, secondo quanto detto in Giovanni 1:9: “Questa era la vera luce che illumina ogni uomo che viene in questo mondo”. Allo stesso modo, il sole è la causa universale dell’illuminazione dei corpi, sebbene non nello stesso modo: il sole illumina per necessità naturale, mentre Dio agisce liberamente, secondo l’ordine della Sua saggezza.  
+Tuttavia, anche se il sole illumina tutti i corpi, se incontra un ostacolo all’interno di essi, li lascia nell’oscurità, proprio come una casa le cui persiane sono chiuse; il sole, in questo caso, non è la causa dell’oscurità, poiché non agisce volontariamente per impedire di illuminare l’interno della casa; la vera causa è colui che ha chiuso le persiane. Al contrario, Dio, liberamente, ritira la Sua grazia da coloro nei quali trova ostacoli; quindi, la causa del ritiro della grazia non è soltanto l’uomo che crea tali ostacoli, ma anche Dio stesso che, volontariamente, si astiene dal donare la Sua grazia. In questo modo, Dio è effettivamente la causa della cecità spirituale, della sordità e della durezza di cuore.  
+Tutti questi aspetti differiscono a seconda degli effetti che la grazia divina produce: essa perfeziona l’intelletto attraverso il dono della saggezza e addolcisce le emozioni con il fuoco dell’amore. Poiché due dei sensi sono particolarmente utili nell’aiutare l’intelletto – la vista e l’udito, la prima per la “scoperta” e il secondo per l’insegnamento – si può dire che la cecità spirituale corrisponda alla vista, la sordità all’udito e la durezza di cuore alle emozioni umane.
+
+Risposta all’Obiezione 1: La cecità e la crudeltà, nel contesto del rifiuto di concedere grazia, sono punizioni; pertanto, in questo senso, non peggiorano l’uomo. È proprio perché è già stato corrotto dal peccato che subisce tali punizioni, così come altre forme di castigo.
+
+Risposta all’Obiezione 2: Questo argomento considera la durezza di cuore nel senso in cui essa rappresenta un peccato.
+
+Risposta all’Obiezione 3: La malvagità è la causa deleteria che porta alla cecità, proprio come il peccato è la causa della punizione; e anche in questo senso si dice che il diavolo “acceca” l’uomo, nel momento in cui lo induce a peccare.
 
 <span class="atom-split" data-atom="068" data-title="Whether blindness and hardness of heart are directed to the salvation of those who are blinded and hardened?" data-chapter="Whether blindness and hardness of heart are directed to the salvation of those who are blinded and hardened?" data-kind="atom" data-srclang="en"></span>
 
@@ -3508,6 +4514,14 @@ points of inquiry:
 (3) Whether he can make us sin of necessity?
 (4) Whether all sins are due to the devil's suggestion?
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la causa del peccato, in relazione al diavolo; e in questo ambito ci sono quattro punti da esaminare:  
+(1) Se il diavolo sia direttamente la causa del peccato;  
+(2) Se il diavolo ci induca a peccare, convincendoci interiormente;  
+(3) Se possa costringerci ad agire in modo da commettere peccati;  
+(4) Se tutti i peccati siano dovuti alle sue insinuazioni.
+
 <span class="atom-split" data-atom="070" data-title="Whether the devil is directly the cause of man's sinning?" data-chapter="Whether the devil is directly the cause of man's sinning?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the devil is directly the cause of man's sinning. For sin consists
@@ -3564,6 +4578,24 @@ devil cannot move us in this way.
 Reply to Objection 3: God is the universal principle of all inward movements of man; but that
 the human will be determined to an evil counsel, is directly due to the human will, and to the devil
 as persuading or offering the object of appetite.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il diavolo sia la causa diretta del peccato umano. Infatti, il peccato consiste direttamente in un atto dell’appetito. Ora, [Agostino](/figures/augustine) afferma (De Trinitate iv, 12) che “il diavolo ispira i suoi seguaci con desideri malvagi”; Beda, commentando Atti 5:3, dice che il diavolo “attira l’anima verso desideri cattivi”; e Isidoro sostiene (De Summo Bono ii, 41; iii, 5) che il diavolo “riempie i cuori degli uomini di desideri segreti”. Pertanto, il diavolo è la causa diretta del peccato.
+
+Obiezione 2: Inoltre, Gerome afferma (Contra Jovin., ii, 2) che “poiché Dio è il perfezionatore del bene, così anche il diavolo è il perfezionatore del male”. Ma Dio è la causa diretta del nostro bene; pertanto il diavolo deve essere considerato la causa diretta dei nostri peccati.
+
+Obiezione 3: Inoltre, il Filosofo afferma in un capitolo dell’Etica Eudemica (vii, 18): “Deve necessariamente esistere qualche principio esterno che guidi il consiglio umano”. Ora, il consiglio umano riguarda non solo le cose buone ma anche quelle cattive. Pertanto, così come Dio spinge l’uomo a prendere decisioni sagge e quindi è la causa del bene, allo stesso modo il diavolo lo spinge a prendere decisioni errate e quindi è direttamente la causa del peccato.
+
+Al contrario, Agostino dimostra (De Lib. Arb. i, 11) che “null’altro se non la propria volontà rende la mente umana schiava dei propri desideri”. Ora, l’uomo non diventa schiavo dei propri desideri se non attraverso il peccato. Pertanto, la causa del peccato non può essere il diavolo, ma soltanto la volontà stessa dell’uomo.
+
+Rispondo che il peccato è un’azione; pertanto, qualcosa può essere direttamente la causa di un peccato, nello stesso modo in cui qualsiasi persona può essere direttamente la causa di un’azione; e ciò può avvenire soltanto spingendo il principio proprio di quell’azione ad agire. Ora, il principio proprio di un’azione peccaminosa è la volontà, poiché ogni peccato è volontario. Di conseguenza, nulla può essere direttamente la causa di un peccato, se non ciò che è in grado di spingere la volontà ad agire. La volontà, come detto sopra (Q[9], AA[3],4,6), può essere spinta da due cose: innanzitutto dal suo oggetto, poiché ciò che viene percepito e ritenuto desiderabile è in grado di stimolare il desiderio; in secondo luogo da quell’agente che spinge la volontà ad agire, e questo non può essere altro che la volontà stessa o Dio, come dimostrato sopra (Q[9], AA[3],4,6). Ora, Dio non può essere la causa di un peccato, come affermato sopra (Q[79], A[1]). Pertanto, in questo senso, soltanto la volontà umana è direttamente la causa del proprio peccato. Per quanto riguarda l’oggetto, qualcosa può essere considerato in grado di spingere la volontà in tre modi: innanzitutto l’oggetto stesso che viene proposto alla volontà; ad esempio, il cibo suscita il desiderio di mangiare. In secondo luogo, colui che propone o offre quell’oggetto. Infine, colui che persuade la volontà che tale oggetto presenti aspetti positivi, poiché in qualche modo fornisce alla volontà il suo vero o apparente bene razionale. Pertanto, nel primo caso, le cose sensibili che agiscono dall’esterno spingono la volontà umana al peccato; nei secondo e terzo caso, sia il diavolo che l’uomo possono incoraggiare al peccato, o offrendo oggetti desiderabili ai sensi, o persuadendo la ragione. Ma in nessuno di questi tre modi qualcosa può essere considerata la causa diretta del peccato, poiché la volontà non viene necessariamente spinta da alcun oggetto se non dal fine ultimo, come affermato sopra (Q[10], AA[1],2). Di conseguenza, né l’oggetto offerto dall’esterno, né colui che lo propone, né colui che persuade sono cause sufficienti del peccato. Pertanto, il diavolo è causa di peccato, ma non in modo diretto né sufficiente, bensì soltanto attraverso la persuasione o l’offerta di oggetti desiderabili.
+
+Risposta all’Obiezione 1: Tutti questi e altri simili argomenti, quando li incontriamo, devono essere intesi nel senso che il diavolo induce l’uomo ad avere affetto per un peccato, sia suggerendoglielo sia offrendogli oggetti di desiderio.
+
+Risposta all’Obiezione 2: Questo confronto è vero nella misura in cui il diavolo sia in qualche modo la causa dei nostri peccati, proprio come Dio lo è, in un certo senso, delle nostre buone azioni; tuttavia, tale confronto non si estende al modo specifico con cui avviene la [causazione](/concepts/cause): infatti, Dio provoca in noi le cose buone muovendo la nostra volontà verso l’interno, mentre il diavolo non è in grado di farlo.
+
+Risposta all’Obiezione 3: Dio è il principio universale di tutti i movimenti interiori dell’uomo; tuttavia il fatto che la volontà umana venga indotta a seguire un consiglio malvagio dipende direttamente dalla volontà stessa umana, nonché dal diavolo che persuade o offre l’oggetto del desiderio.
 
 <span class="atom-split" data-atom="071" data-title="Whether the devil can induce man to sin, by internal instigations?" data-chapter="Whether the devil can induce man to sin, by internal instigations?" data-kind="atom" data-srclang="en"></span>
 
@@ -3627,6 +4659,22 @@ of nature, nor is it due to a command alone, but according to local movement, as
 Consequently the Reply to the Third Objection is clear, because these forms are received
 originally from the senses.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il diavolo non possa indurre l’uomo al peccato attraverso stimoli interni. Infatti, i movimenti interiori dell’anima sono funzioni vitali, e nessuna funzione vitale può essere esercitata se non da un principio intrinseco; nemmeno quelle dell’anima vegetativa, che rappresentano le funzioni vitali più basse. Pertanto, il diavolo non può spingere l’uomo al male attraverso tali movimenti interiori.
+
+Obiezione 2: Inoltre, tutti i movimenti interiori derivano dai sensi esterni, secondo l’ordine della natura. Ora, soltanto a Dio spetta compiere qualcosa al di fuori di questo ordine naturale, come è stato affermato nel FP, Q[110], A[4]. Pertanto, il diavolo non può influenzare in alcun modo i movimenti interiori dell’uomo, se non riguardo a ciò che viene percepito dai sensi esterni.
+
+Obiezione 3: Inoltre, gli atti interni dell’anima consistono nell’intendere e nell’immaginare. Ora il diavolo non può compiere nulla in relazione a nessuno di questi processi, poiché, come affermato nel FP, Q[111], AA[2],3, ad 2, il diavolo non è in grado di imprimere “specie” nell’intelletto umano, né sembra possibile che possa generare forme immaginarie; infatti, queste ultime, essendo di natura più spirituale, sono di qualità superiore rispetto a quelle contenute nella materia sensibile, e il diavolo non è in grado nemmeno di produrre queste forme sensibili, come è chiaro da quanto detto nel FP, Q[110], A[2]; FP, Q[111], AA[2],3, ad 2. Pertanto, il diavolo non può indurre l’uomo al peccato attraverso i processi interni della sua anima.
+
+Al contrario, in quel caso il diavolo non tenterebbe mai l’uomo, a meno che non si manifestasse visibilmente; il che è ovviamente falso.
+
+Rispondo che la parte interna dell’anima è intellettiva e sensibile; la parte intellettiva contiene l’intelletto e la volontà. Per quanto riguarda la volontà, abbiamo già affermato (A[1]; FP, Q[111], A[1]) quale sia il rapporto del diavolo al riguardo. Ora, l’intelletto, per sua natura stessa, viene mosso da ciò che lo illumina nella conoscenza della verità, cosa che il diavolo non ha alcuna intenzione di fare nell’uomo; anzi, egli oscura la ragione umana affinché questa consenti al peccato. Questa oscurità deriva dall’immaginazione e dal desiderio sensibile. Pertanto, l’azione del diavolo sembra limitarsi all’immaginazione e al desiderio sensibile, muovendo uno dei due elementi per indurre l’uomo al peccato: egli può infatti presentare determinate immagini all’immaginazione o stimolare il desiderio sensibile verso alcuna passione. La ragione di ciò è che, come affermato nel FP, Q[110], A[3], la natura corporea possiede una capacità innata di essere influenzata dalla natura spirituale; quindi il diavolo può produrre tutti quegli effetti derivanti dal movimento locale dei corpi terreni, a meno che non venga trattenuto dal potere divino. La rappresentazione delle immagini nell’immaginazione, talvolta, è dovuta proprio a un tale movimento locale; il Filosofo, infatti, afferma nel “De Somno et Vigil.” (*De Insomn. iii, iv*) che “quando un animale dorme, il sangue si dirama abbondantemente verso i principi sensibili, e con esso anche le impressioni lasciate dagli oggetti sensoriali; queste impressioni vengono conservate attraverso delle specie sensibili e continuano a influenzare il principio percettivo, facendo sì che tali immagini appaiano come se fossero effettivamente presenti”. Pertanto, i demoni possono indurre tale movimento locale degli spiriti vitali, sia quando l’uomo dorme che quando è sveglio, e così stimolare l’immaginazione umana. Allo stesso modo, il desiderio sensibile viene suscitato da determinati movimenti del cuore e degli spiriti vitali; anche in questo caso il diavolo può intervenire. Quando certe passioni vengono risvegliate nel desiderio sensibile, l’uomo percepisce più facilmente le immagini o i segnali che gli vengono presentati, poiché, come osserva il Filosofo, “coloro che sono presi da una passione tendono a percepire ciò verso cui tale passione li spinge”. Inoltre, l’emozione suscitata può far sì che ciò che viene presentato all’immaginazione venga considerato qualcosa da perseguire; per chi è dominato dalla passione, infatti, tutto ciò che essa lo induce a desiderare sembra buono. In questo modo il diavolo induce l’uomo interiormente al peccato.
+
+Risposta all’Obiezione 1: Sebbene le funzioni vitali derivino sempre da un principio intrinseco, un agente esterno può comunque collaborare con esse, proprio come il calore esterno aiuta le funzioni dell’anima vegetale a facilitare la digestione del cibo.
+
+Risposta all’Obiezione 2: Questa apparizione di forme immaginarie non è del tutto al di fuori dell’ordine della natura, né deriva esclusivamente da un comando, ma si verifica in base ai movimenti locali, come spiegato in precedenza. Pertanto, la risposta alla Terza Obiezione è chiara: queste forme vengono infatti ricevute originariamente dai sensi.
+
 <span class="atom-split" data-atom="072" data-title="Whether the devil can induce man to sin of necessity?" data-chapter="Whether the devil can induce man to sin of necessity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the devil can induce man to sin of necessity. Because the
@@ -3675,6 +4723,24 @@ Reply to Objection 3: The lusting of the flesh against the spirit, when the reas
 it, is not a sin, but is matter for the exercise of virtue. That reason does not resist, is not in the devil's
 power; wherefore he cannot bring about the necessity of sinning.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il diavolo possa costringere l’uomo a peccare in modo inevitabile. Poiché ciò che è più potente può costringere ciò che è meno potente, e del diavolo si dice (Job 41:24) che “non esiste alcuna forza sulla terra che possa paragonarsi a lui”. Pertanto, egli può costringere l’uomo a peccare, anche mentre dimora sulla terra.
+
+Obiezione 2: Inoltre, la ragione umana non può essere influenzata se non riguardo a cose che vengono presentate direttamente ai sensi o rappresentate all’immaginazione; infatti “tutta la nostra conoscenza deriva dai sensi, e non possiamo comprendere nulla senza l’aiuto di immagini mentali” (De Anima iii, testi 30 e 39). Ora, il diavolo può influenzare l’immaginazione umana, come già detto; inoltre può anche agire sui sensi esterni, poiché [Agostino](/figures/augustine) afferma (Qq. lxxxiii, qu. 12) che “questo male”, il cui autore è appunto il diavolo, “si diffonde gradualmente attraverso tutti i canali dei sensi: si adatta alle forme, si fonde con i colori, si mescola con i suoni e modifica ogni sapore”. Pertanto, può indurre necessariamente la ragione umana a commettere peccati.
+
+Obiezione 3: Inoltre, Agostino afferma (De Civ. Dei xix, 4) che “esiste un peccato quando la carne desidera ciò che è contrario allo spirito”. Ora il diavolo può suscitare in noi concupiscenza carnale, così come altre passioni, nel modo spiegato sopra (A[2]). Pertanto, può indurre l’uomo a peccare in modo inevitabile.
+
+Al contrario, è scritto (1 Pietro 5:8): “Il vostro avversario, il diavolo, va in giro come un leone ruggente, cercando chi possa divorare”. Sarebbe inutile ammonire in questo modo se fosse vero che l’uomo fosse costretto a cedere al diavolo; quindi quest’ultimo non può costringere l’uomo a peccare per necessità. Inoltre, è anche scritto (Giacomo 4:7): “Sottomettetevi a Dio, ma resistete al diavolo, e lui si allontanerà da voi”. Questo non sarebbe né giusto né vero se il diavolo potesse costringerci in qualche modo a peccare; infatti, in tal caso non sarebbe possibile resistergli, né egli si allontanerebbe da coloro che peccano. Pertanto, il diavolo non ci costringe a peccare.
+
+Rispondo che il diavolo, con la sua stessa forza, a meno che non sia trattenuto da Dio, può costringere qualcuno a compiere un atto che, per genere, è peccato; ma non può rendere necessario commettere quel peccato. Ciò è evidente dal fatto che l’uomo non resiste a ciò che lo spinge al peccato, se non attraverso la ragione; l’uso della quale il diavolo può ostacolare completamente, agitando l’immaginazione e gli appetiti sensuali, come avviene in coloro che sono posseduti dal demonio. Tuttavia, quando la ragione è così vincolata, qualsiasi cosa l’uomo compia non viene considerata un peccato. Se invece la ragione non è del tutto inibita, allora, nella misura in cui è libera, può resistere al peccato, come già detto (Q[77], A[7]). È quindi evidente che il diavolo non può in alcun modo costringere l’uomo a commettere peccati.
+
+Risposta all’Obiezione 1: Non ogni potere che sia maggiore dell’uomo può influenzare la sua volontà; solo Dio può farlo, come è stato detto sopra (Q[9], A[6]).
+
+Risposta all’Obiezione 2: Ciò che viene percepito dai sensi o dall’immaginazione non influisce necessariamente sul volere, purché l’uomo possa fare uso della ragione; inoltre, tale percezione non incatena sempre la ragione.
+
+Risposta all’Obiezione 3: Il desiderio carnale che si oppone allo spirito, quando la ragione lo resiste effettivamente, non è un peccato, ma costituisce invece l’occasione per esercitare la virtù. Se la ragione resiste a tale desiderio, allora non è sotto il potere del diavolo; pertanto, questo non può costringere alcuno ad commettere peccato.
+
 <span class="atom-split" data-atom="073" data-title="Whether all the sins of men are due to the devil's suggestion?" data-chapter="Whether all the sins of men are due to the devil's suggestion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all the sins of men are due to the devil's suggestion. For
@@ -3714,6 +4780,24 @@ Reply to Objection 3: The devil's sin was irremediable, not only because he sinn
 another's suggestion; but also because he was not already prone to sin, on account of any previous
 sin; which can be said of no sin of man.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che tutti i peccati degli uomini siano dovuti alle insinuazioni del diavolo. Infatti Dionigi afferma (Div. Nom. iv) che “la folla dei demoni è la causa di tutti i mali, sia per sé stessi che per gli altri”.
+
+Obiezione 2: Inoltre, chi commette un peccato mortale diventa schiavo del diavolo, secondo Giovanni 8:34: “Chi commette peccato è schiavo del peccato”. Ora, “di colui che vince una persona, essa diventa schiava sua” (2 Pietro 2:19). Pertanto, chi commette un peccato è stato sconfitto dal diavolo.
+
+Obiezione 3: Inoltre, Gregorio afferma (Moralia, iv, 10) che il peccato del diavolo è irreparabile, poiché egli ha peccato senza l’incitamento di alcuno altro. Pertanto, se qualcuno commettesse un peccato per propria libera volontà e senza alcun suggerimento esterno, tale peccato sarebbe irrimediabile: il che è chiaramente falso. Quindi tutti i peccati degli uomini sono dovuti all’incitamento del diavolo.
+
+Al contrario, si legge in (“De Eccl. Dogm.”, lxxxii): “Non tutti i nostri pensieri malvagi sono ispirati dal diavolo; a volte derivano da un movimento della volontà libera”.
+
+Rispondo che il diavolo è la causa occasionale e indiretta di tutti i nostri peccati, nel senso che indusse l’uomo primogenito a peccare; a causa di questo peccato, la [natura umana](/axes/human_nature) è talmente contaminata che tutti siamo propensi al peccato. È come se il bruciamento del legno potesse essere attribuito all’uomo che lo ha essiccato per renderlo più infiammabile. Tuttavia, il diavolo non è la causa diretta di tutti i peccati degli uomini, come se ciascuno di essi derivasse direttamente dalla sua suggestione. Origene dimostra questo nel suo testo “Peri Archon” iii, 2: anche se il diavolo non esistesse più, gli uomini avrebbero comunque desiderio di cibo, piaceri sessuali e simili; un tale desiderio potrebbe diventare eccessivo, se non fosse subordinato alla ragione, che a sua volta è soggetta alla libertà volontaria.
+
+Risposta all’Obiezione 1: La folla di demoni è la causa di tutti i nostri mali, in quanto riguarda la loro origine, come già detto.
+
+Risposta all’Obiezione 2: Un uomo diventa schiavo di un altro non solo quando viene sopraffatto da lui, ma anche quando si sottomette volontariamente a lui; è così che colui che pecca di sua spontanea volontà diventa schiavo del diavolo.
+
+Risposta all’Obiezione 3: Il peccato del diavolo era irreparabile, non solo perché lo commise senza l’influenza altrui, ma anche perché non era già predisposto al peccato a causa di alcun peccato precedente; il che non si può dire per nessun peccato umano.
+
 <span class="atom-split" data-atom="074" data-title="OF THE CAUSE OF SIN, ON THE PART OF MAN (FIVE ARTICLES)" data-chapter="OF THE CAUSE OF SIN, ON THE PART OF MAN (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the cause of sin, on the part of man. Now, while man, like the devil, is
@@ -3729,6 +4813,15 @@ generation?
 (4) Whether it would be contracted by anyone formed miraculously from some part of the
 human body?
 (5) Whether original sin would have been contracted if the woman, and not the man, had sinned?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la causa del peccato, da parte dell’uomo. Sebbene l’uomo, come il diavolo, possa essere la causa del peccato altrui attraverso suggerimenti esterni, egli possiede un modo particolare di generare il peccato stesso, in termini di origine stessa di tale peccato. Pertanto dobbiamo parlare del [peccato originale](/positions/original_sin), la cui analisi sarà articolata su tre aspetti: (1) la sua trasmissione; (2) la sua essenza; (3) il suo soggetto. All’interno di questo primo ambito di indagine vi sono cinque punti principali:  
+(1) Il peccato originale viene trasmesso, in modo ereditario, ai discendenti dell’uomo?  
+(2) Tutti gli altri peccati del nostro primo genitore, o di qualsiasi altro genitore, vengono anch’essi trasmessi ai loro discendenti?  
+(3) Il peccato originale viene contratto da tutti coloro che sono nati da Adamo attraverso il processo riproduttivo?  
+(4) Potrebbe essere contratto anche da qualcuno creato miracolosamente a partire da una parte del corpo umano?  
+(5) Il peccato originale sarebbe stato contratto se fosse stata la donna, e non l’uomo, ad aver peccato?
 
 <span class="atom-split" data-atom="075" data-title="Whether the first sin of our first parent is contracted by his descendants, by way of origin?" data-chapter="Whether the first sin of our first parent is contracted by his descendants, by way of origin?" data-kind="atom" data-srclang="en"></span>
 
@@ -3827,6 +4920,33 @@ Reply to Objection 5: A man is not blamed for that which he has from his origin,
 the man born, in himself. But it we consider him as referred to a principle, then he may be reproached
 for it: thus a man may from his birth be under a family disgrace, on account of a crime committed
 by one of his forbears.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il primo peccato del nostro primo genitore non possa essere trasmesso ad altri, per via di origine. Infatti è scritto (Ezechiele 18:20): “Il figlio non dovrà portare sulla propria testa la colpa del padre”. Ma il figlio la porterebbe se la ricevesse dal padre stesso. Pertanto, nessuno può trasmettere alcun peccato dai propri genitori per via di origine.
+
+Obiezione 2: Inoltre, un accidente non viene trasmesso attraverso il mezzo dell’origine, a meno che anche il soggetto di tale accidente venga trasmesso, poiché gli accidenti non passano da un soggetto all’altro. Ora, l’anima razionale, che è il soggetto del peccato, non viene trasmessa attraverso il mezzo dell’origine, come è stato dimostrato nel FP, Q[118], A[2]. Pertanto, nemmeno alcun peccato può essere trasmesso attraverso il mezzo dell’origine.
+
+Obiezione 3: Inoltre, tutto ciò che viene trasmesso attraverso il mezzo umano è causato dal seme. Ma il seme non può causare peccato, poiché manca della parte razionale dell’anima, l’unica in grado di essere causa di peccato. Pertanto, nessun peccato può essere commesso attraverso questo mezzo.
+
+Obiezione 4: Inoltre, ciò che è più perfetto in natura è anche più potente nell’azione. Ora, una carne perfetta non può contaminare l’anima a cui è unita; altrimenti, l’anima non potrebbe essere purificata dal [peccato originale](/positions/original_sin), finché rimane unita al corpo. Quindi, con ancora maggiore ragione, lo sperma non può contaminare l’anima.
+
+Obiezione 5: Inoltre, il Filosofo afferma (Etica, iii, 5): “Nessuno rimprovera coloro che sono brutti per natura, ma soltanto coloro che lo sono a causa della mancanza di esercizio e della negligenza.” Si definiscono “naturalmente brutti” coloro che lo sono fin dalla nascita. Pertanto, nulla ciò che deriva dalla natura stessa può essere considerato biasimabile o peccaminoso.
+
+Al contrario, l’Apostolo afferma (Romani 5:12): “Attraverso un uomo il peccato è entrato nel mondo, e attraverso il peccato è venuta la morte”. Questa affermazione non può essere intesa come un riferimento all’imitazione o alla suggestione, poiché è scritto (Sapienza 2:24): “Per invidia del diavolo, la morte è entrata nel mondo”. Ne consegue quindi che, a causa dell’origine legata al primo uomo, il peccato sia entrato nel mondo.
+
+Rispondo che, secondo la Fede Cattolica, siamo obbligati a ritenere che il primo peccato dell’uomo primogenito venga trasmesso ai suoi discendenti attraverso l’atto della procreazione. Per questo motivo i bambini vengono battezzati poco dopo la nascita, per dimostrare che devono essere purificati da qualche impurità. Il contrario costituisce parte dell’eresia pelagiana, come è chiaro da quanto affermato da [Agostino](/figures/augustine) in molti dei suoi scritti (*ad esempio, Retractationes i, 9; De Peccato et Remissione ix; Contra Iulianum iii, 1; De Dono Persevationis xi, xii*). Nel tentativo di spiegare come il peccato del nostro primo genitore possa essere trasmesso ai suoi discendenti attraverso l’atto della procreazione, diversi autori hanno proposto varie teorie. Alcuni, ritenendo che l’oggetto del peccato sia l’anima razionale, sostenevano che quest’ultima venga trasmessa insieme al seme, in modo che un’anima “infetta” possa produrre altre anime “infette”. Altri, respingendo questa ipotesi come errata, cercavano di dimostrare come la colpa dell’anima del genitore possa essere trasmessa ai figli, anche se l’anima stessa non viene trasmessa; sostenendo che difetti del corpo possano essere ereditati dai genitori ai figli – ad esempio, un lebbroso può generare un altro lebbroso, o un uomo affetto da gotta può avere un figlio con lo stesso disturbo, a causa di corruzioni seminali. Poiché il corpo è proporzionato all’anima e i difetti dell’anima si riflettono sul corpo, e viceversa, si sostiene che anche dei difetti morali dell’anima possano essere trasmessi ai figli attraverso il seme, sebbene il seme stesso non sia l’oggetto della colpa. Tuttavia tutte queste spiegazioni risultano insufficienti. Poiché, anche ammettendo che alcuni difetti fisici vengano trasmessi dai genitori ai figli, e che alcuni difetti dell’anima possano derivare da tali difetti fisici, il fatto stesso di ereditare un difetto sembra escludere l’idea di colpa, che è essenzialmente qualcosa di volontario. Pertanto, anche ammettendo che l’anima razionale venga trasmessa dai genitori ai figli, il semplice fatto che la “macchia” presente nell’anima del bambino non sia frutto della sua volontà renderebbe tale macchia priva di significato dal punto di vista morale; infatti, come afferma il Filosofo (*Etica*, iii, 5), “nessuno rimprovera un uomo nato cieco; anzi si prova compassione per lui”. Pertanto dobbiamo spiegare la questione in modo diverso: tutti gli uomini nati da Adamo possono essere considerati come un’unica persona, poiché condividono una stessa natura ricevuta dai loro primi genitori; proprio come, in ambito civile, tutti i membri di una comunità sono considerati come un unico corpo e l’intera comunità come un’unica persona. Infatti Porfirio afferma (*Praedicata*, De Specie*) che “condividendo la stessa natura, molti uomini costituiscono un’unica persona”. Pertanto, tutti gli uomini nati da Adamo sono come membri di un unico corpo; l’azione di uno dei suoi membri, ad esempio della mano.
+Ad esempio, un atto violento compiuto con la mano non è dovuto alla volontà di quella mano stessa, ma alla volontà dell’anima, che è il principio motore dei membri del corpo. Pertanto, un omicidio commesso con la mano non verrebbe considerato un peccato della mano in sé, considerata separata dal corpo, ma sarebbe attribuito all’intero essere umano, mosso dal principio motore dell’uomo stesso. In questo modo, il disordine presente nell’essere umano, derivante da Adamo, è volontario, non per la volontà di quell’individuo, ma per quella del suo primo genitore; tale disordine influisce su tutti coloro che discendono da lui, proprio come la volontà dell’anima guida i membri del corpo nelle loro azioni. Per questo motivo, il peccato trasmesso dal primo genitore ai suoi discendenti viene chiamato “peccato originale”, così come il peccato che deriva dall’anima e si manifesta nei membri del corpo viene chiamato “peccato effettivo”. E proprio come il peccato effettivo commesso da un membro del corpo non è propriamente il peccato di quel membro, se non nel senso che esso fa parte dell’intero essere umano, e per questo motivo viene chiamato “peccato umano”, allo stesso modo il peccato originale non è propriamente il peccato di quella persona, se non nel senso che essa riceve la propria natura dal proprio primo genitore; per questa ragione viene chiamato “peccato di natura”, come si legge in Efesini 2:3: “Noi, eravamo per natura figli dell’ira”.
+
+Risposta all’Obiezione 1: Si afferma che il figlio non debba portare sulla propria coscienza la colpevolezza del padre, poiché non viene punito per il peccato di quest’ultimo, a meno che non ne condivida la responsabilità. È proprio questo il caso che abbiamo davanti a noi: poiché la colpevolezza si trasmette dal padre al figlio attraverso l’origine comune, così come il peccato effettivo si trasmette attraverso l’imitazione.
+
+Risposta all’Obiezione 2: Sebbene l’anima non venga trasmessa, poiché la forza contenuta nel seme non è in grado di generare l’anima razionale, tuttavia il movimento del seme costituisce una disposizione alla trasmissione dell’anima razionale. Pertanto, il seme, con la sua stessa forza, trasmette la [natura umana](/axes/human_nature) dal genitore al figlio, e insieme a essa anche quella “macchia” che la contamina: infatti, colui che nasce condivide la colpevolezza del proprio primo genitore, poiché eredita da lui la propria natura attraverso un processo di generazione.
+
+Risposta all’Obiezione 3: Sebbene la colpa non risieda effettivamente nel seme, la natura umana è comunque, in modo virtuale, accompagnata da tale colpa.
+
+Risposta all’Obiezione 4: Il seme è il principio della generazione, un atto proprio della natura che le permette di propagarsi. Pertanto, l’anima viene influenzata maggiormente dal seme che dalla carne, la quale è già perfetta e già legata a una determinata persona.
+
+Risposta all’Obiezione 5: Un uomo non viene biasimato per ciò che possiede fin dalla nascita, se lo consideriamo nel suo stato originario. Ma se lo consideriamo in relazione a un determinato principio o contesto, allora può essere rimproverato per tale cosa; ad esempio, un uomo può essere colpito da una disonore familiare fin dalla nascita, a causa di un crimine commesso da uno dei suoi antenati.
 
 <span class="atom-split" data-atom="076" data-title="Whether also other sins of the first parent or of nearer ancestors are transmitted to their descendants?" data-chapter="Whether also other sins of the first parent or of nearer ancestors are transmitted to their descendants?" data-kind="atom" data-srclang="en"></span>
 
@@ -3937,6 +5057,24 @@ so is the grace of Christ transmitted to all that are begotten of Him spirituall
 and this, not only unto the removal of sin of their first parent, but also unto the removal of actual
 sins, and the obtaining of glory.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il peccato del primo genitore non venga trasmesso, attraverso la linea di discendenza, a tutti gli uomini. Poiché la morte è una punizione conseguente al [peccato originale](/positions/original_sin). Tuttavia, non tutti coloro che nascono dalla semenza di Adamo moriranno: coloro che saranno ancora vivi alla venuta del nostro Signore non moriranno mai, come si può dedurre da 1 Tessalonicesi 4:14: “Noi, che siamo vivi fino alla venuta del Signore, non impediremo a quelli che sono già morti di risorgere”. Pertanto, essi non contraggono il peccato originale.
+
+Obiezione 2: Inoltre, nessuno dà agli altri ciò che non possiede lui stesso. Ora, un uomo che è stato battezzato non possiede il peccato originale; pertanto, non lo trasmette ai suoi figli.
+
+Obiezione 3: Inoltre, il dono di Cristo è più grande del peccato di Adamo, come afferma l’Apostolo (Romani 5:15 e seguenti). Tuttavia, il dono di Cristo non viene trasmesso a tutti gli uomini; pertanto, nemmeno il peccato di Adamo lo è.
+
+Al contrario, l’Apostolo dice (Roma 5:12): “La morte è entrata in tutti gli uomini, poiché tutti hanno peccato”.
+
+Rispondo che, secondo la Fede Cattolica, dobbiamo credere fermamente che, ad eccezione di Cristo, tutti gli uomini discendenti da Adamo abbiano contratto il peccato originale da lui; altrimenti nessuno avrebbe bisogno della redenzione – che avviene attraverso Cristo – e ciò sarebbe errato. La ragione di ciò può essere ricavata da quanto è stato detto (A[1]), ovvero che il peccato originale, a causa del peccato del nostro primo genitore, viene trasmesso alla sua discendenza, proprio come il peccato effettivo, derivante dalla volontà dell’anima, viene trasmesso ai membri del corpo attraverso l’azione di tale volontà. Ora è evidente che il peccato effettivo può essere trasmesso a tutti quei membri del corpo che possiedono una predisposizione innata ad essere mossi dalla volontà; pertanto, anche il peccato originale viene trasmesso a tutti coloro che sono influenzati da Adamo attraverso il processo della generazione.
+
+Risposta all’Obiezione 1: Si ritiene con maggiore probabilità e più comunemente che tutti coloro che sono vivi al momento dell’avvento del nostro Signore moriranno e risorgeranno presto, come spiegheremo più ampiamente nel TP (XP, Q[78], A[1], OBJ[1]). Tuttavia, se fosse vero, come sostengono altri, che non moriranno mai (un’opinione menzionata da Gerolamo in una lettera a Minerio riguardo alla Resurrezione del corpo – Ep. cxix), allora dovremmo rispondere all’obiezione dicendo che, anche se non dovranno morire, il “debito della morte” esiste comunque in loro, e che la punizione della morte verrà perdonata da Dio, poiché Egli può anche perdonare la pena dovuta ai peccati effettivi.
+
+Risposta all’Obiezione 1: Il peccato originale viene eliminato dal Battesimo riguardo alla colpa, poiché l’anima recupera la grazia nel suo aspetto mentale. Tuttavia, il peccato originale rimane efficace per quanto riguarda i “vizi”, ovvero lo squilibrio nelle parti inferiori dell’anima e nel corpo stesso; in questi ambiti, e non nella sfera mentale, l’uomo esercita la propria capacità di procreare. Pertanto, coloro che sono battezzati trasmettono il peccato originale: poiché non generano figli nel senso di essere stati rinnovati dal Battesimo, ma continuano a possedere qualcosa della vecchiaia del primo peccato.
+
+Risposta all’Obiezione 3: Proprio come il peccato di Adamo viene trasmesso a tutti coloro che nascono da lui in modo corporeo, così anche la grazia di Cristo viene trasmessa a tutti coloro che sono generati da Lui in modo spirituale, attraverso la fede e il Battesimo: e ciò non solo per eliminare il peccato del loro primo genitore, ma anche per eliminare i peccati effettivi e per ottenere la gloria.
+
 <span class="atom-split" data-atom="078" data-title="Whether original sin would be contracted by a person formed miraculously from human flesh?" data-chapter="Whether original sin would be contracted by a person formed miraculously from human flesh?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [original sin](/positions/original_sin) would be contracted by a person formed
@@ -4031,6 +5169,24 @@ hinder the transmission of original sin, but because it behooved the Mother of G
 the greatest purity" [*Cf. Anselm, De Concep. Virg. xviii.]. For nothing is worthy to receive God
 unless it be pure, according to Ps. 92:5: "Holiness becometh Thy House, O Lord."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che, se fosse stata Eva e non Adamo ad aver peccato, i loro figli avrebbero contratto il [peccato originale](/positions/original_sin). Poiché il peccato originale viene trasmesso dai genitori, ne consegue che anche i figli lo ricevano, in quanto un tempo facevano parte di loro stessi, secondo le parole dell’Apostolo (Romani 5:12): “In lui tutti hanno peccato”. Ora, l’uomo esiste già nel grembo della madre, così come nel grembo del padre; pertanto avrebbe contratto il peccato originale sia a causa del peccato di sua madre che di quello di suo padre.
+
+Obiezione 2: Inoltre, se fosse stata Eva e non Adamo a peccare, i loro figli sarebbero nati destinati a soffrire e a morire, poiché è “la madre” che “fornisce la materia necessaria alla generazione”, come afferma il Filosofo (De Gener. Animalium, ii, 1,4); morte e predisposizione al dolore sono infatti conseguenze inevitabili di tale materia. Ora, la predisposizione al dolore e la necessità di morire rappresentano punizioni per il peccato originale. Pertanto, se fosse stata Eva e non Adamo a peccare, i loro figli avrebbero contratto il peccato originale.
+
+Obiezione 3: Inoltre, Damasceno afferma (De Fide Orthodossa iii, 3) che “lo Spirito Santo discese sulla Vergine”, da cui Cristo sarebbe nato senza peccato originale, “purificandola”. Ma questa purificazione non sarebbe stata necessaria se l’infezione del peccato originale non fosse stata trasmessa dalla madre. Pertanto, l’infezione del peccato originale viene trasmessa dalla madre: quindi, se Eva avesse peccato, i suoi figli avrebbero contratto il peccato originale, anche se Adamo non avesse peccato.
+
+Al contrario, l’Apostolo dice (Romani 5:12): “Per mezzo di un uomo il peccato è entrato nel mondo”. Ora, se la donna avesse trasmesso il peccato originale ai suoi figli, egli avrebbe dovuto dire che esso è entrato attraverso due persone, poiché entrambi hanno peccato; o meglio, che è entrato attraverso una donna, poiché lei ha peccato per prima. Pertanto, il peccato originale viene trasmesso ai figli non dalla madre, ma dal padre.
+
+Rispondo che la soluzione a questa domanda risulta chiara da quanto è stato detto finora. Infatti, è stato affermato (A[1]) che il peccato originale viene trasmesso dal primo genitore, in quanto egli è colui che determina la nascita dei propri figli; perciò si è anche detto (A[4]) che se qualcuno fosse stato generato esclusivamente da carne umana, non contrarrebbe il peccato originale. Ora è evidente che, secondo i filosofi, il principio attivo della generazione proviene dal padre, mentre la madre fornisce la materia necessaria. Pertanto, il peccato originale viene trasmesso dal padre, e non dalla madre; di conseguenza, se fosse Eva ad aver peccato e non Adamo, i loro figli non contrarrebbero il peccato originale; al contrario, se fosse Adamo ad aver peccato e non Eva, sì che lo avrebbero contratto.
+
+Risposta all’Obiezione 1: Il bambino esiste già prima della nascita nel padre, come nel proprio principio attivo, e nella madre, come nel proprio principio materiale e passivo. Pertanto, tale confronto non è valido.
+
+Risposta all’Obiezione 2: Alcuni sostengono che, se fosse stata Eva e non Adamo a peccare, i loro figli sarebbero stati immuni al peccato, ma soggetti alla necessità di morire e ad altre forme di sofferenza che derivano inevitabilmente dalla natura materiale ricevuta dalla madre, non come punizioni, ma come effetti concreti di tale natura. Tuttavia, questa ipotesi sembra irragionevole. Poiché, come affermato nell’FP, Q[97], AA[1], 2, ad 4, l’immortalità e l’impassibilità, nello stato originale, derivavano non dalla natura materiale, ma dalla giustizia originale che subordinava il corpo all’anima, purché quest’ultima rimanesse sottomessa a Dio. Ora, la privazione della giustizia originale rappresenta appunto il peccato originale. Pertanto, se Adamo non avesse peccato, il peccato originale non sarebbe stato trasmesso alla posterità a causa del peccato di Eva; è evidente che i figli non sarebbero stati privati della giustizia originale e, di conseguenza, non sarebbero stati soggetti a sofferenze né alla necessità di morire.
+
+Risposta all’Obiezione 3: Questa purificazione preventiva della Beata Vergine non era necessaria per impedire la trasmissione del peccato originale, ma perché era dovere della Madre di Dio “risplendere con la massima purezza” [*Cfr. Anselmo, De Concep. Virg. XVIII.*]. Infatti, nulla è degno di ricevere Dio se non è puro, secondo il Salmo 92:5: “Santità sia nella tua casa, o Signore”.
+
 <span class="atom-split" data-atom="080" data-title="OF ORIGINAL SIN, AS TO ITS ESSENCE (FOUR ARTICLES)" data-chapter="OF ORIGINAL SIN, AS TO ITS ESSENCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider [original sin](/positions/original_sin) as to its essence, and under this head there are four points
@@ -4039,6 +5195,14 @@ of inquiry:
 (2) Whether there is but one original sin in each man?
 (3) Whether original sin is concupiscence?
 (4) Whether original sin is equally in all?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la [peccato originale](/positions/original_sin) in termini della sua essenza, e sotto questo aspetto vi sono quattro punti da esaminare:  
+(1) Se il peccato originale sia una [abitudine](/concepts/custom);  
+(2) Se in ogni uomo esista un solo peccato originale;  
+(3) Se il peccato originale sia la concupiscenza;  
+(4) Se il peccato originale sia uguale per tutti.
 
 <span class="atom-split" data-atom="081" data-title="Whether original sin is a habit?" data-chapter="Whether original sin is a habit?" data-kind="atom" data-srclang="en"></span>
 
@@ -4138,6 +5302,24 @@ the parts of one whole; even as original justice held all the soul's parts toget
 there is but one original sin: just as there is but one fever in one man, although the various parts of
 the body are affected.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che in un uomo esistano molti peccati originali. Infatti è scritto (Salmo 1,7): “Ecco, sono stato concepito nel peccato e mia madre mi ha generato nel peccato”. Ma il peccato con cui un uomo viene concepito è proprio il [peccato originale](/positions/original_sin). Pertanto, in un uomo esistono diversi peccati originali.
+
+Obiezione 2: Inoltre, lo stesso [habito](/concepts/custom) non spinge la persona che lo possiede a compiere azioni contrarie: poiché l’inclinazione derivante da un habito è simile a quella della natura, che tende verso una sola direzione. Ora, il peccato originale, anche in una singola persona, spinge a commettere vari tipi di peccati contrari tra loro. Pertanto, il peccato originale non è un unico habito, ma piuttosto diversi abiti o tendenze negative.
+
+Obiezione 3: Inoltre, il peccato originale contamina ogni parte dell’anima. Ora, le diverse parti dell’anima sono soggetti diversi del peccato, come dimostrato sopra (Q[74]). Poiché un solo peccato non può riguardare soggetti diversi, sembra che il peccato originale non sia uno, ma molti.
+
+Al contrario, è scritto (Giovanni 1:29): “Ecco il Agnello di Dio, colui che toglie i peccati del mondo”; e la ragione dell’uso del singolare è che il “peccato del mondo” indica il peccato originale, come spiega un commento a questo passaggio.
+
+Rispondo che, in un singolo individuo, esiste un solo peccato originale. Si possono addurre due motivi a sostegno di questa tesi. Il primo riguarda la causa stessa del peccato originale: come è stato affermato (Q[81], A[2]), fu soltanto il primo peccato commesso dal nostro primo genitore ad essere trasmesso alla sua discendenza. Pertanto, in un singolo individuo il peccato originale è uno in termini di numero; e in tutti gli uomini, esso rimane uno in relazione al suo principio originario. Il secondo motivo deriva dall’essenza stessa del peccato originale: in ogni disposizione distorta, l’unità di specie dipende dalla causa, mentre l’unità di numero deriva dal soggetto interessato. Ad esempio, le varie malattie fisiche derivano da cause diverse – calore eccessivo, freddo intenso, lesioni ai polmoni o al fegato – ma una singola malattia in un individuo rimane uno in termini di numero. La causa di questa disposizione corrotta, chiamata peccato originale, è unica: la privazione della giustizia originale, che elimina la sottomissione dell’anima umana a Dio. Pertanto, il peccato originale è uno in termini specifici; in un singolo individuo può essere soltanto uno in termini di numero; mentre in diversi individui rimane uno in termini di specie e di relazione alla sua causa originaria, ma è numericamente molteplice.
+
+Risposta all’Obiezione 1: L’uso del plurale – “nei peccati” – può essere spiegato dalla consuetudine delle Scritture divine di utilizzare frequentemente il plurale al posto del singolare, ad esempio: “Sono morti coloro che cercarono di uccidere il bambino”; oppure dal fatto che tutti i peccati concreti preesistono, in qualche modo, nel peccato originale, che rappresenta quindi un principio da cui derivano molti altri peccati; ancora, può essere dovuto alla presenza di molteplici aspetti negativi nel peccato del nostro primo genitore, ovvero orgoglio, disobbedienza, gola e simili; infine, può essere spiegato dal fatto che diverse parti dell’anima vengano influenzate dal peccato originale.
+
+Risposta all’Obiezione 2: Di per sé e direttamente, cioè attraverso la propria natura intrinseca, un’abitudine non può indurre il proprio soggetto ad agire in modo contrario a quella abitudine stessa. Tuttavia, non esiste alcun motivo per cui ciò non possa accadere in modo indiretto o accidentale, cioè attraverso la rimozione di un ostacolo: ad esempio, quando l’armonia di un corpo misto viene distrutta, i suoi elementi tendono a muoversi in direzioni opposte. Allo stesso modo, quando l’armonia della giustizia originaria viene compromessa, le varie facoltà dell’anima sviluppano tendenze contrastanti tra loro.
+
+Risposta all’Obiezione 3: Il peccato originale contamina le diverse parti dell’anima, nella misura in cui queste fanno parte di un tutto; proprio come la giustizia originale teneva unite tutte le parti dell’anima in un unico insieme. Di conseguenza, esiste soltanto un peccato originale: così come in un uomo esiste una sola febbre, anche se diverse parti del corpo ne sono colpite.
+
 <span class="atom-split" data-atom="083" data-title="Whether original sin is concupiscence?" data-chapter="Whether original sin is concupiscence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [original sin](/positions/original_sin) is not concupiscence. For every sin is contrary to
@@ -4228,6 +5410,24 @@ were to grant to a man to feel no inordinate lust in the act of generation, he w
 original sin; we must understand this to be habitual lust, whereby the sensitive appetite is not kept
 subject to reason by the bonds of original justice. This lust is equally in all.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’[peccato originale](/positions/original_sin) non sia presente in modo uguale in tutti. Poiché il peccato originale consiste in una concupiscenza eccessiva, come detto sopra (A[3]), e non tutti sono ugualmente predisposti ad agire secondo questa concupiscenza, ne consegue che il peccato originale non sia presente in modo uguale in tutti.
+
+Obiezione 2: Inoltre, il peccato originale rappresenta una disposizione anomala dell’anima, proprio come la malattia è una disposizione anomala del corpo. Ma la malattia presenta gradi diversi; pertanto anche il peccato originale deve presentare gradi diversi.
+
+Obiezione 3: Inoltre, [Agostino](/figures/augustine) afferma (De Nup. et Concep. i, 23) che “la lussuria trasmette il peccato originale al bambino”. Tuttavia, l’atto di generazione può essere più lussurioso in un caso che in un altro; pertanto, anche il peccato originale può essere maggiore in un caso che in un altro.
+
+Al contrario, il peccato originale è un peccato naturale, come già affermato sopra (Q[81], A[1]). Ma la natura è uguale per tutti; pertanto lo è anche il peccato originale.
+
+Rispondo che nell’peccato originale vi sono due aspetti: uno è la privazione della giustizia originale; l’altro è il legame tra questa privazione e il peccato del nostro primo genitore, da cui tale privazione viene trasmessa all’uomo attraverso la sua origine corrotta. Per quanto riguarda il primo aspetto, il peccato originale non presenta gradi diversi, poiché il dono della giustizia originale viene completamente revocato; inoltre, le privazioni che eliminano qualcosa completamente – come la morte e l’oscurità – non possono essere né maggiori né minori, come già affermato (Q[73], A[2]). Allo stesso modo, ciò non è possibile nemmeno per quanto riguarda il secondo aspetto: poiché tutti gli esseri umani sono ugualmente legati al principio fondamentale della nostra origine corrotta, da cui il peccato originale trae la sua natura di colpa; infatti, i rapporti tra persone non possono essere né più intensi né meno intensi. Pertanto, è evidente che il peccato originale non può essere maggiore in un individuo rispetto a un altro.
+
+Risposta all’Obiezione 1: Poiché il legame della giustizia originale, che teneva unite tutte le facoltà dell’anima in un certo ordine, è stato spezzato, ciascuna di queste facoltà tende a muoversi secondo la propria natura, e con maggiore impeto quanto più è potente. Ora, alcune delle facoltà dell’anima sono più forti in un individuo che in un altro, a causa delle diverse disposizioni fisiche. Pertanto, se uno è più incline di un altro agli atti di concupiscenza, ciò non deriva dal peccato originale, poiché il legame della giustizia originale è ugualmente spezzato in tutti, e le parti inferiori dell’anima vengono lasciate libere di agire allo stesso modo in ogni caso; piuttosto, si deve alle diverse disposizioni delle singole facoltà dell’anima.
+
+Risposta all’Obiezione 2: La malattia del corpo, anche se dello stesso tipo, non ha sempre la stessa causa; ad esempio, se una febbre è causata dalla corruzione della bile, tale corruzione può essere maggiore o minore, e può trovarsi più vicina o più lontana da un principio vitale. Ma la causa del peccato originale è la stessa per tutti, quindi non esiste alcuna analogia tra le due situazioni.
+
+Risposta all’Obiezione 3: Non è la lussuria effettiva a trasmettere il peccato originale; infatti, anche se Dio permettesse a un uomo di non provare alcuna lussuria eccessiva nell’atto della generazione, egli comunque trasmetterebbe il peccato originale. Bisogna intendere con questo termine una lussuria abituale, quella cioè che impedisce all’appetito sensibile di rimanere soggetto alla ragione a causa dei vincoli della giustizia originale. Questa lussuria è presente in tutti gli esseri umani.
+
 <span class="atom-split" data-atom="085" data-title="OF THE SUBJECT OF ORIGINAL SIN (FOUR ARTICLES)" data-chapter="OF THE SUBJECT OF ORIGINAL SIN (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the subject of [original sin](/positions/original_sin), under which head there are four points of
@@ -4237,6 +5437,14 @@ inquiry:
 (3) Whether the will prior to the other powers is the subject of original sin?
 (4) Whether certain powers of the soul are specially infected, viz. the generative power, the
 concupiscible part, and the sense of touch?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il tema del [peccato originale](/positions/original_sin), sotto cui si individuano quattro punti di indagine:  
+(1) Se l’oggetto del peccato originale sia la carne e non l’anima;  
+(2) Se, in caso sia l’anima, ciò avvenga per essenza o per le sue facoltà;  
+(3) Se la volontà, precedente alle altre facoltà dell’anima, sia l’oggetto del peccato originale;  
+(4) Se alcune particolari facoltà dell’anima siano particolarmente colpite dal peccato originale, vale a dire la facoltà procreativa, la parte concupiscente e il senso del tatto.
 
 <span class="atom-split" data-atom="086" data-title="Whether original sin is more in the flesh than in the soul?" data-chapter="Whether original sin is more in the flesh than in the soul?" data-kind="atom" data-srclang="en"></span>
 
@@ -4318,6 +5526,32 @@ of the soul demands that it should not exist prior to its infusion into the body
 Q[90], A[4]; FP, Q[118], A[3]. And it is better for the soul to be thus, according to its nature, than
 not to be at all, especially since it can avoid damnation, by means of grace.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’[peccato originale](/positions/original_sin) sia più radicato nel corpo che nell’anima. Poiché la ribellione del corpo contro la mente deriva dalla corruzione causata dal peccato originale, e la radice di questa ribellione risiede appunto nel corpo: l’Apostolo infatti afferma (Romani 7:23): “Vedo un altro legge nei miei membri che si oppone al legge della mia mente”. Pertanto, il peccato originale è principalmente insito nel corpo.
+
+Obiezione 2: Inoltre, una cosa è più “presente” nella sua causa che nel suo effetto; ad esempio, il calore è presente maggiormente nel fuoco che riscalda che nell’acqua calda. Ora, l’anima viene contaminata dalla corruzione del peccato originale attraverso lo sperma carnale. Pertanto, il peccato originale risiede nella carne e non nell’anima.
+
+Obiezione 3: Inoltre, contraiamo il peccato originale dal nostro primo genitore, nella misura in cui eravamo in lui a causa della virtù seminale. Ora le nostre anime non erano in lui in questo modo, ma soltanto il nostro corpo. Pertanto, il peccato originale non risiede nell’anima, ma nel corpo.
+
+Obiezione 4: Inoltre, l’anima razionale creata da Dio viene infusa nel corpo. Pertanto, se l’anima fosse contaminata dal peccato originale, ne conterrebbe le conseguenze fin dalla sua stessa creazione o infusione nel corpo; e ciò significherebbe che Dio sarebbe la causa del peccato, poiché Egli è l’autore della creazione e dell’unione dell’anima con il corpo.
+
+Obiezione 5: Inoltre, nessun uomo saggio verserebbe un liquido prezioso in un vaso che sa essere in grado di corromperlo. Ma l’anima razionale è ancora più preziosa di qualsiasi liquido. Se quindi l’anima, unendosi al corpo, potesse essere corrotta dall’influenza del peccato originale, Dio, che è essenza stessa di saggezza, non infonderebbe mai l’anima in un tale corpo. Eppure lo fa; pertanto l’anima non viene corrotta dalla carne. Ne consegue che il peccato originale non risiede nell’anima, ma nella carne.
+
+Al contrario, lo stesso è vero sia per la virtù che per il vizio o il peccato opposto a quella virtù. Tuttavia, la carne non può essere soggetto di virtù: poiché l’Apostolo dice (Romani 7:18): “So che in me, cioè nella mia carne, non dimora ciò che è buono”. Pertanto, la carne non può essere soggetto del peccato originale, ma soltanto l’anima.
+
+Rispondo che una cosa può trovarsi in un’altra in due modi: primo, come sua causa, sia essa principale che instrumentale; secondo, come suo soggetto. Pertanto, il peccato originale di tutti gli uomini risiede in Adamo, effettivamente come sua causa principale, secondo le parole dell’Apostolo (Romani 5:12): “In lui tutti hanno peccato”; mentre, come sua causa instrumentale, esso risiede nel seme umano, poiché è attraverso la forza attiva di questo seme che il peccato originale, insieme alla [natura umana](/axes/human_nature), viene trasmesso al bambino. Tuttavia, il peccato originale non può mai risiedere nella carne come suo soggetto, ma soltanto nell’anima. La ragione di ciò è che, come già detto (Q[81], A[1]), il peccato originale viene trasmesso dalla volontà del nostro primo genitore a questa discendenza attraverso un certo processo di generazione, proprio come il peccato effettivo viene trasmesso dalla volontà di un uomo alle sue altre parti. In questo processo si deve osservare che tutto ciò che deriva dalla volontà che consente al peccato, e che riguarda qualsiasi parte dell’uomo che possa in qualche modo partecipare a tale colpa – sia come suo soggetto che come suo strumento – ha il carattere di peccato. Ad esempio, dalla volontà che consente alla gola, la concupiscenza per il cibo si trasmette alla facoltà concupiscente, e il consumo di cibo riguarda le mani e la bocca, che, nella misura in cui sono mosse dalla volontà di peccare, diventano strumenti del peccato. Tuttavia, azioni ulteriori che avvengono nelle funzioni digestive o negli organi interni, i quali non possiedono una naturale predisposizione a essere mossi dalla volontà, non hanno il carattere di colpa. Pertanto, poiché l’anima può essere soggetto di colpa, mentre la carne di per sé non lo può; tutto ciò che deriva dall’corruzione del peccato originale riguarda l’anima e ha quindi il carattere di colpa, mentre ciò che riguarda la carne ha il carattere non di colpa, ma di punizione. Quindi, è l’anima, e non la carne, a essere soggetto del peccato originale.
+
+Risposta all’Obiezione 1: Come afferma [Agostino](/figures/augustine) (Retractationes, i, 27) [*Cfr. QQ. lxxxiii, qu. 66*], l’Apostolo parla in quel passaggio dell’uomo già redento, che è liberato dal peccato e dalla colpa, ma che rimane comunque soggetto alla punizione; per questo motivo si dice che il peccato “risieda nella carne”. Ne consegue quindi che la carne non è il soggetto della colpa, bensì della punizione.
+
+Risposta all’Obiezione 2: Il peccato originale è causato dal seme come causa strumentale. Ora, non c’è bisogno che qualcosa sia presente nella causa strumentale in misura maggiore rispetto all’effetto; tale presenza è invece necessaria soltanto nella causa principale. In questo modo, il peccato originale era presente in Adamo in modo più completo, poiché in lui assumeva la natura di un peccato effettivo.
+
+Risposta all’Obiezione 3: L’anima di ogni individuo umano risiedeva in Adamo, in relazione alla sua capacità procreativa; non certo come nel suo principio effettivo, ma piuttosto come in un principio predisponente: poiché il seme corporeo trasmesso da Adamo, di per sé, non è in grado di produrre l’anima razionale, ma solo di predisporre la materia necessaria alla sua formazione.
+
+Risposta all’Obiezione 4: La corruzione del peccato originale non è affatto causata da Dio, ma soltanto dal peccato commesso dal nostro primo genitore attraverso il processo di generazione carnale. Poiché la creazione implica una relazione dell’anima esclusivamente con Dio, non si può affermare che l’anima venga contaminata nel momento della sua creazione. D’altra parte, l’“infusione” dell’anima nel corpo umano implica una relazione sia con Dio che con il corpo stesso in cui l’anima viene inserita. Pertanto, riguardo a Dio che “infonde” l’anima, non si può dire che questa venga macchiata nel momento di tale processo; ma soltanto riguardo al corpo in cui viene inserita.
+
+Risposta all’Obiezione 5: Il bene comune ha la precedenza sul bene privato. Pertanto, Dio, secondo la Sua saggezza, non trascura l’ordine generale delle cose (ovvero che una determinata anima venga infusa in un determinato corpo), affinché tale anima non subisca corruzioni gravi; tanto più che la natura stessa dell’anima richiede che essa esista soltanto dopo essere stata infusa nel corpo, come affermato nei testi della Fede Perseguitata, Q[90], A[4] e Q[118], A[3]. Inoltre, per la natura stessa dell’anima, è preferibile che esista in questo modo piuttosto che non esistesse affatto; soprattutto perché, grazie alla grazia divina, l’anima può evitare la dannazione eterna.
+
 <span class="atom-split" data-atom="087" data-title="Whether original sin is in the essence of the soul rather than in the powers?" data-chapter="Whether original sin is in the essence of the soul rather than in the powers?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [original sin](/positions/original_sin) is not in the essence of the soul rather than in the
@@ -4368,6 +5602,28 @@ fails.
 Reply to Objection 4: Concupiscence, in relation to original sin, holds the position of matter
 and effect, as stated above (Q[82], A[3]).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’[peccato originale](/positions/original_sin) non risieda nell’essenza dell’anima, ma soltanto nelle sue facoltà. Infatti, l’anima è naturalmente predisposta a essere soggetta al peccato, per quelle parti di sé che possono essere mosse dalla volontà. Ora, l’anima viene mossa dalla volontà, non in relazione alla sua essenza, ma soltanto alle sue facoltà. Pertanto, il peccato originale esiste nell’anima, non secondo la sua essenza, ma soltanto secondo le sue facoltà.
+
+Obiezione 2: Inoltre, il peccato originale è in contraddizione con la giustizia originale. Ora, la giustizia originale apparteneva alle facoltà dell’anima, poiché la facoltà è l’oggetto della virtù. Pertanto, anche il peccato originale deve essere considerato appartenente alle facoltà dell’anima, e non alla sua essenza stessa.
+
+Obiezione 3: Inoltre, proprio come il peccato originale deriva sia dall’anima che dal corpo, così deriva anche dalle facoltà dell’essere umano dall’essenza stessa di quest’ultimo. Ma il peccato originale è più presente nell’anima che nel corpo; pertanto deve essere anche più presente nelle facoltà dell’anima rispetto all’essenza stessa di essa.
+
+Obiezione 4: Inoltre, si afferma che il peccato originale sia la concupiscenza, come dichiarato nell’interrogatorio [82], risposta [3]. Ma la concupiscenza appartiene alle facoltà dell’anima; pertanto anche il peccato originale appartiene alle facoltà dell’anima.
+
+Al contrario, il peccato originale è definito “peccato della natura”, come già affermato sopra (Q[81], A[1]). Ora, l’anima rappresenta la forma e la natura del corpo, in relazione alla sua essenza e non alle sue facoltà, come indicato nel FP, Q[76], A[6]. Pertanto, l’anima è soggetto al peccato originale principalmente in relazione alla sua essenza.
+
+Rispondo che il soggetto di un peccato è principalmente quella parte dell’anima a cui appartiene direttamente la causa motrice di quel peccato: pertanto, se la causa motrice di un peccato è il piacere sensuale, che riguarda la potenza concupiscente in quanto suo oggetto proprio, ne consegue che la potenza concupiscente sia il soggetto effettivo di tale peccato. Ora è evidente che il peccato originale ha origine dalla nostra natura umana; pertanto quella parte dell’anima che viene influenzata per prima cosa da questa nostra natura è il soggetto principale del peccato originale. La natura umana, infatti, raggiunge l’anima come termine della generazione, in quanto essa costituisce la forma del corpo; e questo aspetto appartiene all’anima nella sua essenza stessa, come dimostrato nel FP, Q[76], A[6]. Quindi, nell’ambito della sua essenza, l’anima è il soggetto principale del peccato originale.
+
+Risposta all’Obiezione 1: Poiché il movimento della volontà di un individuo riguarda soltanto le facoltà dell’anima e non la sua essenza, allo stesso modo il movimento della volontà del primo generatore, attraverso il canale della generazione, raggiunge innanzitutto l’essenza stessa dell’anima, come già detto.
+
+Risposta all’Obiezione 2: Anche la giustizia originale apparteneva radicalmente all’essenza dell’anima, poiché era un dono di Dio alla [natura umana](/axes/human_nature), con cui l’essenza dell’anima è strettamente legata, prima ancora che alle facoltà. Le facoltà, infatti, sembrano riguardare la persona nella misura in cui costituiscono i principi degli atti personali; per questo motivo sono i soggetti propri dei peccati concreti, ovvero dei peccati della persona stessa.
+
+Risposta all’Obiezione 3: Il corpo è correlato all’anima come la materia alla forma; sebbene occupi un secondo posto nell’ordine della generazione, precede l’anima nell’ordine della perfezione e della natura stessa. Tuttavia, l’essenza dell’anima è correlata alle sue facoltà, come un soggetto ai suoi accidenti propri; questi accidenti seguono il loro soggetto sia nell’ordine della generazione che in quello della perfezione. Pertanto, questa analogia non regge.
+
+Risposta all’Obiezione 4: La concupiscenza, in relazione al peccato originale, occupa la posizione di “materia” ed “effetto”, come già affermato sopra (Q[82], A[3]).
+
 <span class="atom-split" data-atom="088" data-title="Whether original sin infects the will before the other powers?" data-chapter="Whether original sin infects the will before the other powers?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [original sin](/positions/original_sin) does not infect the will before the other powers.
@@ -4407,6 +5663,24 @@ infection of original sin reaches it first.
 Reply to Objection 3: The intellect precedes the will, in one way, by proposing its object to
 it. In another way, the will precedes the intellect, in the order of motion to act, which motion pertains
 to sin.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il [peccato originale](/positions/original_sin) non influisca sulla volontà prima di interessare le altre facoltà umane. Infatti, ogni peccato appartiene principalmente alla facoltà attraverso la quale è stato commesso; poiché il peccato originale deriva da un atto della facoltà generativa, sembra che appartenga maggiormente a questa facoltà piuttosto che alle altre.
+
+Obiezione 2: Inoltre, il peccato originale si trasmette attraverso lo sperma carnale. Ma le altre facoltà dell’anima sono più legate al corpo che la volontà; ciò è evidente per tutte le facoltà sensitive, che utilizzano organi corporei. Pertanto, il peccato originale è presente in esse in misura maggiore rispetto alla volontà.
+
+Obiezione 3: Inoltre, l’intelletto precede la volontà, poiché l’oggetto della volontà è soltanto il bene inteso. Pertanto, se il peccato originale influisce su tutte le facoltà dell’anima, sembra che debba innanzitutto colpire l’intelletto, essendo quest’ultimo precedente alle altre facoltà.
+
+Al contrario, la giustizia originale ha una relazione prioritaria con la volontà, poiché essa rappresenta “la rettitudine della volontà”, come afferma Anselmo nel De Concep. Virg. iii. Pertanto, anche il peccato originale, che le è opposto, ha anch’esso una relazione prioritaria con la volontà.
+
+Rispondo che, nell’ambito dell’influenza del peccato originale, bisogna considerare due aspetti: in primo luogo, la sua natura intrinseca al soggetto che lo subisce; in questo senso, il peccato originale riguarda innanzitutto l’essenza dell’anima, come già detto sopra (A[2]). In secondo luogo, bisogna considerare la sua capacità di indurre all’azione; in questo contesto, il peccato originale riguarda le facoltà dell’anima. Pertanto, deve essere considerata innanzitutto quella facoltà nella quale risiede l’inclinazione primaria a commettere peccati, e questa è la volontà, come già indicato sopra (Q[74], AA[1],2). Quindi, il peccato originale riguarda principalmente la volontà.
+
+Risposta all’Obiezione 1: Il peccato originale, nell’uomo, non è causato dalla capacità generativa del bambino stesso, ma dall’atto della capacità generativa dei genitori. Pertanto, non segue affatto che la capacità generativa del bambino sia l’oggetto del peccato originale.
+
+Risposta all’Obiezione 2: Il peccato originale si diffonde in due modi: dal corpo all’anima, e dall’essenza dell’anima alle sue facoltà. Il primo processo segue l’ordine della generazione, il secondo quello della perfezione. Pertanto, anche se le facoltà sensibili sono più strettamente legate al corpo, poiché la volontà, essendo la facoltà superiore, è più vicina all’essenza dell’anima, l’influenza del peccato originale raggiunge prima di tutto la volontà.
+
+Risposta all’Obiezione 3: L’intelletto precede la volontà, in un certo senso, poiché le propone l’oggetto su cui agire. In un altro senso, è la volontà a precedere l’intelletto, nell’ordine del movimento verso l’azione, e tale movimento riguarda il peccato.
 
 <span class="atom-split" data-atom="089" data-title="Whether the aforesaid powers are more infected than the others?" data-chapter="Whether the aforesaid powers are more infected than the others?" data-kind="atom" data-srclang="en"></span>
 
@@ -4462,6 +5736,14 @@ this head there are four points of inquiry:
 (3) Whether other special sins should be called capital vices, besides pride and covetousness?
 (4) How many capital vices there are, and which are they?
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la causa del peccato, nel senso in cui un peccato possa essere la causa di un altro. In questo ambito vi sono quattro punti da esaminare:  
+(1) Se l’avidità sia alla radice di tutti i peccati;  
+(2) Se l’orgoglio sia l’inizio di ogni peccato;  
+(3) Se altri peccati specifici debbano essere considerati vizi capitali, oltre all’orgoglio e all’avidità;  
+(4) Quanti siano i vizi capitali e quali essi siano.
+
 <span class="atom-split" data-atom="091" data-title="Whether covetousness is the root of all sins?" data-chapter="Whether covetousness is the root of all sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that covetousness is not the root of all sins. For covetousness,
@@ -4515,6 +5797,25 @@ not always to act in the same way; so also in moral matters, we consider what ha
 majority of cases, not what happens invariably, for the reason that the will does not act of necessity.
 So when we say that covetousness is the root of all evils, we do not assert that no other evil can be
 its root, but that other evils more frequently arise therefrom, for the reason given.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’avidità non sia la radice di tutti i peccati. Infatti, l’avidità, ovvero il desiderio smisurato di ricchezze, è in contrasto con la virtù della generosità; ma la generosità non è la radice di tutte le virtù. Pertanto, l’avidità non può essere considerata la radice di tutti i peccati.
+
+Obiezione 2: Inoltre, il desiderio dei mezzi deriva dal desiderio dello scopo finale. Ora, le ricchezze, per il cui desiderio si parla di avarizia, non vengono desiderate se non in quanto utili per uno scopo specifico, come affermato nell’Etica I, 5. Pertanto, l’avarizia non è la radice di tutti i peccati, ma deriva da una radice più profonda.
+
+Obiezione 3: Inoltre, spesso accade che l’avarizia, che è un altro nome per la bramosia, derivi da altri peccati; ad esempio, quando una persona desidera denaro per ambizione o per soddisfare la propria gola. Pertanto, non può essere considerata la radice di tutti i peccati.
+
+Al contrario, l’Apostolo dice (1 Timoteo 6:10): “La brama di denaro è la radice di tutti i mali”.
+
+Rispondo che, secondo alcuni, l’avidità può essere intesa in modi diversi. In primo luogo, come desiderio eccessivo di ricchezze; in questo senso rappresenta un peccato specifico. In secondo luogo, come desiderio eccessivo di qualsiasi bene temporale; in questo caso costituisce un genere che comprende tutti i peccati, poiché ogni peccato comporta un orientamento eccessivo verso beni effimeri, come già affermato (Q[72], A[2]). In terzo luogo, come inclinazione di una natura corrotta a desiderare in modo eccessivo beni effimeri; in questo senso l’avidità viene considerata la radice di tutti i peccati, paragonandola alla radice di un albero che trae il proprio sostentamento dalla terra, così come ogni peccato nasce dall’amore per le cose temporali.  
+Tuttavia, anche se tutto ciò è vero, non sembra spiegare esattamente ciò che intendeva l’Apostolo quando affermava che l’avidità è la radice di tutti i peccati. In quel passaggio, infatti, egli si oppone chi, nel tentativo di arricchirsi, cade in tentazione e nelle insidie del diavolo, poiché “l’avidità è la radice di ogni male”. È evidente quindi che si riferisce all’avidità intesa come desiderio eccessivo di ricchezze. Pertanto, possiamo dire che l’avidità, in quanto peccato specifico, viene definita la radice di tutti i peccati, proprio come la radice di un albero fornisce sostentamento all’intero organismo vegetale. Infatti, attraverso le ricchezze l’uomo ottiene i mezzi per commettere qualsiasi tipo di peccato e per soddisfare il proprio desiderio di beni materiali; il denaro, infatti, permette di ottenere ogni sorta di bene temporale, come affermato nell’Ecclesiaste 10:19: “Tutte le cose sono sottomesse al denaro”. È proprio in questo desiderio eccessivo di ricchezze che risiede la radice di tutti i peccati.
+
+Risposta all’Obiezione 1: La virtù e il peccato non hanno la stessa origine. Il peccato infatti deriva dal desiderio di beni effimeri; pertanto, il desiderio di quei beni che aiutano l’uomo ad ottenere tutti i beni temporali è considerato la radice di tutti i peccati. La virtù, invece, nasce dal desiderio di Dio, l’Essere immutabile; per questo motivo la carità, che è l’amore per Dio, viene definita la radice delle virtù, come affermato in Efesini 3:17: “Radicate e fondate nella carità”.
+
+Risposta all’Obiezione 2: Si dice che il desiderio di denaro sia alla radice dei peccati, non perché le ricchezze vengano cercate per se stesse come fine ultimo, ma perché sono molto ricercate in quanto utili per qualsiasi scopo temporale. E poiché un bene universale è più desiderabile di un bene particolare, le ricchezze stimolano l’appetito umano più di qualsiasi altro bene individuale, che, insieme a molti altri, può essere ottenuto attraverso il denaro.
+
+Risposta all’Obiezione 3: Proprio come nelle cose naturali non ci chiediamo cosa accade sempre, ma cosa accade più frequentemente, poiché la natura delle cose corruttibili può essere ostacolata e quindi non agisce sempre nello stesso modo; allo stesso modo, in materia morale, consideriamo ciò che accade nella maggior parte dei casi, non ciò che accade inevitabilmente, poiché la volontà non agisce per necessità. Quindi, quando affermiamo che l’avidità è la radice di tutti i mali, non intendiamo dire che nessun altro male possa esserne la radice, ma che altri mali ne derivino più frequentemente, per le ragioni sopra indicate.
 
 <span class="atom-split" data-atom="092" data-title="Whether pride is the beginning of every sin?" data-chapter="Whether pride is the beginning of every sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -4570,6 +5871,22 @@ Reply to Objection 3: In desiring to excel, man loves himself, for to love onese
 as to desire some good for oneself. Consequently it amounts to the same whether we reckon pride
 or self-love as the beginning of every evil.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’orgoglio non sia la causa originale di ogni peccato. Poiché la radice di un albero rappresenta il suo punto di origine, si potrebbe pensare che anche la causa originale di ogni peccato sia la sua “radice”. Ora, l’avidità è considerata la radice di ogni peccato, come detto sopra (A[1]). Pertanto, anche lei dovrebbe essere considerata la causa originale di ogni peccato, e non l’orgoglio.
+
+Obiezione 2: Inoltre, è scritto (Ecclesiaste 10:14): “L’inizio dell’orgoglio umano è l’allontanamento da Dio”. Ma allontanarsi da Dio è un peccato. Pertanto, anche l’inizio stesso dell’orgoglio è un peccato; quindi quest’ultimo non può essere considerato l’origine di tutti i peccati.
+
+Obiezione 3: Inoltre, l’inizio di ogni peccato sembrerebbe essere ciò che ne causa tutti gli altri. Ora, questo rappresenta un eccesso di autoamore, che, secondo [Agostino](/figures/augustine) (De Civ. Dei xiv), “costruisce la città di Babilonia”. Pertanto, è l’autoamore, e non l’orgoglio, l’inizio di ogni peccato.
+
+Al contrario, è scritto (Ecclesiaste 10:15): “L’orgoglio è l’inizio di ogni peccato”.
+
+Rispondo che alcuni affermano che l’orgoglio possa essere considerato in tre modi diversi. Primo, come un desiderio eccessivo di eccellere; in questo senso, rappresenta un peccato specifico. Secondo, come un vero disprezzo per Dio, dovuto al rifiuto di sottomettersi ai suoi comandamenti; in questo caso, viene considerato un peccato generale. Terzo, come una tendenza innata a tale disprezzo, derivante dalla corruzione della natura umana; in questo senso, si dice che sia l’origine di ogni peccato. Si distingue però dall’avidità: quest’ultima riguarda il desiderio di ottenere beni materiali, considerati mezzi per raggiungere la perfezione; per questa ragione, l’avidità viene definita “radice” del male, mentre l’orgoglio rappresenta un rifiuto di sottomettersi a Dio. Tuttavia, anche se tutto ciò è vero, non spiega pienamente il significato delle parole del saggio che disse: “L’orgoglio è l’inizio di tutti i peccati”. È evidente infatti che si riferiva all’orgoglio inteso come desiderio eccessivo di eccellere, come si evince dal versetto successivo: “Dio ha rovesciato i troni dei principi orgogliosi”; questo è proprio il tema principale dell’intero capitolo. Pertanto, possiamo affermare che l’orgoglio, anche quando considerato un peccato specifico, rappresenta comunque l’inizio di ogni male. Bisogna infatti ricordare che nelle azioni volontarie, come i peccati, esistono due livelli: quello dell’intenzione e quello dell’esecuzione. Nel primo caso, lo scopo finale è raggiungere una qualche perfezione attraverso quei mezzi; da questo punto di vista, l’orgoglio, che è il desiderio di eccellere, viene considerato l’inizio di ogni peccato. Nel secondo caso, ciò che svolge il ruolo di “radice” del male è ciò che fornisce l’opportunità di soddisfare tutti i desideri peccaminosi; in questo senso, l’avidità viene definita la “radice” di ogni male. Questo basta per rispondere alla prima obiezione.
+
+Risposta all’Obiezione 2: Si afferma che l’apostasia da Dio sia l’inizio dell’orgoglio, poiché rappresenta un allontanamento da Dio stesso. Dal fatto che l’uomo non desideri essere sottomesso a Dio, ne consegue che aneli in modo eccessivo alla propria eccellenza nelle cose temporali. Pertanto, nel passaggio citato, l’apostasia da Dio non indica un peccato specifico, ma piuttosto quella condizione generale di ogni peccato, caratterizzata dal suo allontanamento da Dio. Si può anche dire che l’apostasia da Dio sia considerata l’inizio dell’orgoglio perché rappresenta la prima forma di orgoglio: essendo infatti tipico dell’orgoglio il rifiuto di sottomettersi a qualcuno superiore, soprattutto a Dio, ne consegue che l’uomo si elevi in modo eccessivo rispetto alle altre forme di orgoglio.
+
+Risposta all’Obiezione 3: Nel desiderare di eccellere, l’uomo ama se stesso, poiché amarsi significa desiderare il bene per sé stesso. Pertanto, è lo stesso considerare l’orgoglio o l’amor proprio come l’inizio di ogni male.
+
 <span class="atom-split" data-atom="093" data-title="Whether any other special sins, besides pride and avarice, should be called capital?" data-chapter="Whether any other special sins, besides pride and avarice, should be called capital?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no other special sins, besides pride and avarice, should be
@@ -4614,6 +5931,24 @@ this respect, there can be order in sin.
 
 Reply to Objection 3: This objection considers capital sin as so called from the punishment it
 deserves, in which sense we are not taking it here.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nessun altro peccato, oltre all’orgoglio e all’avarizia, debba essere considerato un peccato capitale. Poiché “la testa è, per un animale, ciò che le radici sono per una pianta”, come affermato nel De [Anima](/concepts/soul) ii, testo 38; infatti le radici hanno una funzione simile a quella di una bocca. Pertanto, se l’avarizia viene definita “la radice di tutti i mali”, sembra che sia soltanto essa, e nessun altro peccato, ad essere considerata un vizio capitale.
+
+Obiezione 2: Inoltre, la testa ha una certa relazione di ordine rispetto agli altri membri del corpo, poiché la sensazione e il movimento derivano dalla testa stessa. Ma il peccato implica la privazione di ordine; pertanto il peccato non possiede le caratteristiche della “testa”, e quindi nessun peccato dovrebbe essere considerato “capitale”.
+
+Obiezione 3: Inoltre, i reati capitali sono quelli che comportano la pena di morte. Ma ogni tipo di peccato include alcuni che vengono puniti in questo modo. Pertanto, i peccati capitali non sono necessariamente peccati specifici e determinati.
+
+Al contrario, Gregorio (Morali, xxxi, 17) elenca alcuni vizi particolari sotto il nome di “vizi capitali”.
+
+Rispondo che la parola “capitale” deriva da “caput”, ovvero “testa”. La testa, in senso proprio, è quella parte del corpo di un animale che ne rappresenta il principio e il direttore. Pertanto, in senso metaforico, ogni principio viene chiamato “testa”; anche gli uomini che guidano e governano gli altri vengono definiti “teste”. Così, un vizio capitale viene chiamato così innanzitutto perché deriva dal termine “testa” nel suo significato letterale; da qui deriva anche il nome “peccato capitale”, quello per cui si infligge la pena di morte. Tuttavia, non è in questo senso che parliamo ora dei peccati capitali, ma in un altro: in questo caso, il termine “capitale” deriva da “testa” intesa come principio o guida per gli altri. Un vizio capitale, quindi, è quello dal quale derivano altri vizi, soprattutto perché ne rappresenta la causa finale; tale origine è di natura formale, come già detto (Q[72], A[6]). Pertanto, un vizio capitale non è soltanto il principio degli altri vizi, ma anche il loro direttore, in qualche modo il loro leader: l’arte o l’abitudine alla quale appartiene un fine specifico è sempre il principio e il comandante nelle questioni relative ai mezzi per raggiungere quel fine. Per questo motivo Gregorio Magno (Moralia, xxxi, 17) paragona questi vizi capitali ai “comandanti di un esercito”.
+
+Risposta all’Obiezione 1: Il termine “capitale” deriva da “caput” e viene applicato a ciò che è collegato alla testa o ne condivide alcune caratteristiche, ma non nel senso letterale di essere la testa stessa. Pertanto, i vizi capitali non sono soltanto quelli che hanno il carattere di origine primaria – come l’avidità, chiamata “radice”, e l’orgoglio, chiamato “inizio” – ma anche quelli che rappresentano un’origine immediata in relazione ad altri peccati.
+
+Risposta all’Obiezione 2: Il peccato manca di ordine nella misura in cui si allontana da Dio; in questo senso, esso è un male, e il male, secondo [Agostino](/figures/augustine) (De Natura Boni iv), è “la privazione di forma, specie e ordine”. Tuttavia, nella misura in cui il peccato implica una direzione verso qualcosa, esso si riferisce a un certo bene; pertanto, anche in questo aspetto, può esistere un ordine nel peccato.
+
+Risposta all’Obiezione 3: Questa obiezione considera il peccato capitale tale per la punizione che merita; in questo senso, noi non lo intendiamo affatto così.
 
 <span class="atom-split" data-atom="094" data-title="Whether the seven capital vices are suitably reckoned?" data-chapter="Whether the seven capital vices are suitably reckoned?" data-kind="atom" data-srclang="en"></span>
 
@@ -4704,6 +6039,37 @@ for the ignorance that can cause sin, is due to negligence, as stated above (Q[7
 commit a sin with a good intention, seems to point to ignorance, in so far as he knows not that evil
 should not be done that good may come of it.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non dovremmo considerare sette vizi capitali, ovvero vanità, invidia, [ira](/concepts/anger), pigrizia, avarizia, gola e lussuria. Infatti, i peccati sono l’opposto delle virtù. Ma, come già detto sopra (Q[61], A[2]), esistono soltanto quattro virtù principali. Pertanto, dovrebbero esserci anch’essi solo quattro vizi capitali principali.
+
+Obiezione 2: Inoltre, le passioni dell’anima sono cause di peccato, come detto sopra (Q[77]). Ma esistono quattro principali passioni dell’anima; due di queste, ovvero la speranza e la paura, non vengono menzionate tra i peccati elencati, mentre alcuni vizi sono associati alla gioia e al dolore: la gioia, ad esempio, è legata all’ingordigia e alla lussuria, mentre il dolore è collegato alla pigrizia e all’invidia. Pertanto, l’elenco dei peccati principali risulta inadeguato.
+
+Obiezione 3: Inoltre, la rabbia non è una passione principale; pertanto non dovrebbe essere considerata tra i vizi principali.
+
+Obiezione 4: Inoltre, proprio come l’avidità o la avarizia sono alla radice del peccato, allo stesso modo l’orgoglio ne è l’inizio, come già detto sopra (A[2]). Ma l’avarizia è considerata uno dei vizi capitali; pertanto anche l’orgoglio dovrebbe essere annoverato tra i vizi capitali.
+
+Obiezione 5: Inoltre, ci sono alcuni peccati che non possono essere commessi attraverso nessuno di questi motivi; ad esempio, quando si pecca per ignoranza, o quando si compie un peccato con buone intenzioni – come rubare al fine di donare in beneficenza. Pertanto, l’elenco dei vizi capitali è incompleto.
+
+Al contrario, c’è l’autorità di Gregorio che li elenca in questo modo (Morale, xxix, 17).
+
+Rispondo che, come già detto sopra (A[3]), i vizi capitali sono quelli che danno origine ad altri vizi, soprattutto attraverso la [causa finale](/concepts/four_causes). Questo tipo di origine può verificarsi in due modi. Primo, a causa della condizione stessa del peccatore, il quale è predisposto a provare una forte inclinazione verso un certo fine, con il risultato che spesso commette altri vizi. Tuttavia, questo tipo di origine non rientra nell’ambito dell’arte, poiché le particolari disposizioni umane sono infinite in numero. Secondo, a causa di una relazione naturale tra i vari fini: ed è proprio in questo modo che un vizio nasce spesso da un altro, rendendo possibile considerare questa origine nell’ambito dell’arte.  
+Pertanto, si definiscono vizi capitali quelli i cui fini presentano motivazioni fondamentali capaci di stimolare l’appetito umano; ed è proprio in relazione a queste motivazioni che i vizi capitali vengono distinti tra loro. Un oggetto può stimolare l’appetito in due modi: direttamente, per sua natura stessa (il bene induce alla ricerca di sé stesso, mentre il male induce all’evitamento); oppure indirettamente, a causa di altri elementi connessi (si cerca un male per il bene che ne deriva, o si evita un bene per il male che ne consegue).  
+Inoltre, il bene umano è di tre tipi: primo, il bene dell’anima, rappresentato dall’onore e dalla lode; questo bene viene cercato in modo eccessivo dal “vanità”. Secondo, il bene del corpo, legato alla conservazione della persona stessa (cibo, bevande) o alla riproduzione della specie (relazioni sessuali); questi beni vengono cercati in modo eccessivo dalla “gola” e dalla “lussuria”. Terzo, il bene esterno, rappresentato dalle ricchezze; questo bene viene cercato in modo eccessivo dall’“avidità”. Questi quattro vizi comportano l’evitamento dei mali contrari.  
+Il bene stimola anche l’appetito attraverso la sensazione di felicità, che tutti gli uomini cercano naturalmente. La felicità implica però la perfezione; essa è un bene perfetto e deriva dall’eccellenza o dalla reputazione, desiderate dal “orgoglio” e dal “vanità”. Inoltre, la felicità comporta la sazietà, che l’“avidità” cerca attraverso le ricchezze; e infine, la felicità implica il piacere, senza il quale essa non è possibile, come affermato nell’Etica (I, 7; X, 6-7). Questi sentimenti sono alla base della “gola” e della “lussuria”.  
+D’altra parte, l’evitamento del bene a causa di un male connesso può verificarsi in due modi: primo, riguardo al proprio bene, e in questo caso si ha la “pigrizia”, che rappresenta una tristezza per il proprio bene spirituale a causa dei lavori fisici necessari; secondo, riguardo al bene altrui, e in questo caso, se tale evitamento avviene senza rimorso, si ha l’“invidia”, che è una tristezza per il bene altrui.
+Essere d’ostacolo alla propria eccellenza è già di per sé un male; mentre se tale ostacolo deriva da rimproveri o desideri di vendetta, allora si tratta di “ira”. Inoltre, questi stessi vizi tendono a causare altri mali ancora più gravi.
+
+Risposta all’Obiezione 1: Virtù e vizio non hanno origine nello stesso modo: poiché la virtù deriva dalla sottomissione del desiderio alla ragione, o al bene immutabile, che è Dio, mentre il vizio nasce dal desiderio di beni mutabili. Pertanto, non c’è alcuna necessità che i vizi principali siano contrari alle virtù principali.
+
+Risposta all’Obiezione 2: Paura e speranza sono passioni irascibili. Ora, tutte le passioni appartenenti alla parte irascibile derivano da passioni della parte concupiscibile; e queste ultime, in qualche modo, sono dirette verso il piacere o il dolore. Pertanto, piacere e dolore occupano un posto di rilievo tra i peccati capitali, poiché rappresentano le passioni più importanti, come già affermato sopra (Q[25], A[4]).
+
+Risposta all’Obiezione 3: Sebbene la rabbia non sia una passione principale, occupa tuttavia un posto distinto tra i vizi capitali, poiché implica un particolare tipo di reazione nell’appetito umano; in quanto il rimproverare il bene altrui presenta aspetti legati a un “bene virtuoso”, ovvero al diritto alla vendetta.
+
+Risposta all’Obiezione 4: Si dice che l’orgoglio sia l’inizio di ogni peccato, secondo l’ordine delle conseguenze negative che ne derivano, come detto sopra (A[2]); ed è sempre in questo stesso ordine che dobbiamo considerare il peccato capitale come il più grave di tutti. Pertanto, l’orgoglio, in quanto vizio universale, non viene annoverato insieme agli altri vizi, ma è ritenuto la “regina di tutti”, come afferma Gregorio (Moralia, xxxi, 27). D’altra parte, l’avidità viene considerata la radice dei peccati da un altro punto di vista, come indicato sopra (AA[1], 2).
+
+Risposta all’Obiezione 5: Questi vizi sono chiamati “capitali” perché altri vizi, molto spesso, ne derivano; quindi nulla impedisce che alcuni peccati sorgano da cause diverse. Tuttavia si potrebbe affermare che tutti i peccati dovuti all’ignoranza possono essere ricondotti alla pigrizia, ovvero alla negligenza di colui che rifiuta di acquisire beni spirituali a causa del lavoro necessario per farlo; infatti l’ignoranza che può portare al peccato deriva proprio dalla pigrizia, come già detto sopra (Q[76], A[2]). Il fatto che una persona commetta un peccato con buone intenzioni sembra indicare l’esistenza di ignoranza, poiché non sa che non si dovrebbe compiere il male al fine di ottenere il bene.
+
 <span class="atom-split" data-atom="095" data-title="OF THE EFFECTS OF SIN, AND, FIRST, OF THE CORRUPTION OF THE GOOD OF NATURE (SIX ARTICLES)" data-chapter="OF THE EFFECTS OF SIN, AND, FIRST, OF THE CORRUPTION OF THE GOOD OF NATURE (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the effects of sin; and (1) the corruption of the good of nature; (2) the
@@ -4716,6 +6082,17 @@ of sin.
 (4) Whether privation of mode, species and order is an effect of sin?
 (5) Whether death and other bodily defects are the result of sin?
 (6) Whether they are, in any way, natural to man?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare gli effetti del peccato; e in particolare: (1) la corruzione del bene innato nell’uomo; (2) il “macchio” che il peccato lascia sull’anima; (3) il debito di punizione che ne consegue.  
+All’interno di questa prima categoria di riflessioni, vi sono sei punti principali da esaminare:  
+(1) Se il bene innato venga diminuito dal peccato;  
+(2) Se possa essere completamente distrutto;  
+(3) Le quattro “ferite” che la natura umana subisce a causa del peccato, menzionate da Bede;  
+(4) Se la privazione di modalità, specie e ordine costituisca un effetto del peccato;  
+(5) Se morte e altri difetti fisici siano il risultato del peccato;  
+(6) Se tali fenomeni siano in qualche modo naturali per l’uomo.
 
 <span class="atom-split" data-atom="096" data-title="Whether sin diminishes the good of nature?" data-chapter="Whether sin diminishes the good of nature?" data-kind="atom" data-srclang="en"></span>
 
@@ -4776,6 +6153,29 @@ the acts of the soul, there is an active, and a passive element: thus the sensib
 sensitive appetite, and the sensitive appetite inclines the reason and will, as stated above (Q[77],
 AA[1], 2). The result of this is the inordinateness, not as though an accident acted on its own subject,
 but in so far as the object acts on the power, and one power acts on another and puts it out of order.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il peccato non diminuisca il bene della natura umana. Infatti, il peccato dell’uomo non è peggiore di quello del diavolo. Tuttavia, il bene naturale rimane intatto nei demoni anche dopo il peccato, come afferma Dionigi nel “Divinum Nomine” iv. Pertanto, nemmeno il peccato riduce il bene della [natura umana](/axes/human_nature).
+
+Obiezione 2: Inoltre, quando ciò che segue viene modificato, ciò che precede rimane immutato, poiché la sostanza rimane la stessa anche quando i suoi accidenti cambiano. Ma la natura esiste prima dell’azione volontaria. Pertanto, quando il peccato provoca un disordine in un atto volontario, la natura non viene modificata a causa di ciò, e quindi il bene insito nella natura non diminuisce.
+
+Obiezione 3: Inoltre, il peccato è un’azione, mentre la diminuzione è una passione. Ora, nessun agente è passivo per il semplice fatto di agire, anche se è possibile che agisca su una cosa e sia passivo riguardo a un’altra. Pertanto, colui che pecca non riduce, con il proprio peccato, il bene della propria natura.
+
+Obiezione 4: Inoltre, nessun accidente agisce sul proprio soggetto: poiché ciò che è “paziente” di un accidente è un essere potenziale, mentre ciò che viene sottoposto a un accidente è già un essere reale riguardo a quel particolare accidente. Ma il peccato, essendo un accidente presente nella bontà della natura, non diminuisce affatto questa bontà; infatti, “diminuire” significa agire.
+
+Al contrario, “Un certo uomo che scendeva da Gerusalemme a Gerico (Lc. 10:30), cioè verso la corruzione del peccato, perse i suoi doni naturali e fu ferito nella sua stessa natura”, come spiega Bede (*La citazione è tratta dalla Glossa Ordinaria di Strabone*). Pertanto, il peccato riduce il bene insito nella natura umana.
+
+Rispondo che il bene insito nella natura umana è di tre tipi. In primo luogo, vi sono i principi su cui si fonda la natura stessa e le proprietà che ne derivano, come le facoltà dell’anima, per esempio. In secondo luogo, poiché l’uomo possiede per natura una tendenza verso la virtù, come già detto (Q[60], A[1]; Q[63], A[1]), questa stessa tendenza costituisce un bene insito nella natura umana. In terzo luogo, il dono della giustizia originale, conferito a tutta la natura umana nel personaggio dell’uomo primordiale, può anch’esso essere considerato un bene naturale.  
+Pertanto, il primo dei suddetti beni naturali non viene né distrutto né diminuito dal peccato; il terzo, invece, viene completamente annientato dal peccato del nostro primo genitore. Il secondo bene naturale, ovvero la tendenza innata verso la virtù, viene tuttavia indebolito dal peccato, poiché le azioni umane generano spesso altre azioni simili, come già affermato (Q[50], A[1]). Poiché qualcosa diventa incline verso uno dei due contrari, la sua tendenza verso l’altro contrario deve necessariamente diminuire. Pertanto, poiché il peccato è opposto alla virtù, il fatto stesso che un uomo pechi comporta inevitabilmente una riduzione di quel bene naturale che rappresenta la propensione verso la virtù.
+
+Risposta all’Obiezione 1: Dionigi si riferisce al primo dei beni naturali menzionati, che consiste nel “essere, vivere e comprendere”, come chiunque possa capire leggendo il contesto.
+
+Risposta all’Obiezione 2: Sebbene la natura preceda l’azione volontaria, essa possiede un’inclinazione verso una determinata azione volontaria. Pertanto, la natura stessa non cambia in seguito a un cambiamento nell’azione volontaria; è soltanto l’inclinazione che viene modificata, nella misura in cui è diretta verso il suo scopo.
+
+Risposta all’Obiezione 3: Un atto volontario deriva da diverse forze, sia attive che passive. Di conseguenza, attraverso gli atti volontari, nell’individuo che agisce avviene qualcosa di positivo o negativo, come abbiamo già affermato quando abbiamo trattato della formazione delle abitudini (Q[51], A[2]).
+
+Risposta all’Obiezione 4: Un accidente non agisce efficacemente sul proprio soggetto, ma agisce su di esso in modo formale, nello stesso senso in cui si dice che la bianchezza rende qualcosa bianco. In questo modo, nulla impedisce al peccato di diminuire il bene naturale; tuttavia, ciò avviene soltanto nella misura in cui il peccato stesso rappresenta una riduzione del bene naturale, essendo un’azione disordinata. Per quanto riguarda la disordinatezza dell’agente, bisogna riconoscere che tale disordine deriva dal fatto che negli atti dell’anima esistono un elemento attivo e uno passivo: l’oggetto sensibile infatti muove il desiderio sensibile, e questo a sua volta influisce sulla ragione e sulla volontà, come già detto in precedenza (Q[77], AA[1], 2). Il risultato di tutto ciò è proprio tale disordine, ma non perché un accidente agisca direttamente sul proprio soggetto, bensì perché l’oggetto esterno influisce su una capacità interna, facendola funzionare in modo errato.
 
 <span class="atom-split" data-atom="097" data-title="Whether the entire good of human nature can be destroyed by sin?" data-chapter="Whether the entire good of human nature can be destroyed by sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -4907,6 +6307,32 @@ for it is owing to these three that a man finds it difficult to tend to the good
 are consequent wounds, since a man is vexed through being weakened in respect of the objects of
 his concupiscence.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che debolezza, ignoranza, malvagità e concupiscenza non debbano essere considerate adeguatamente come le “ferite della natura” derivanti dal peccato. Infatti, una stessa cosa non può essere allo stesso tempo effetto e causa di sé stessa. Tuttavia, queste vengono ritenute cause del peccato, come è stato detto in precedenza (Q[76], A[1]; Q[77], AA[3],5; Q[78], A[1]). Pertanto, non dovrebbero essere considerate effetti del peccato.
+
+Obiezione 2: Inoltre, la malvagità è il nome di un peccato; pertanto non dovrebbe avere alcun posto tra gli effetti del peccato stesso.
+
+Obiezione 3: Inoltre, la concupiscenza è qualcosa di naturale, poiché rappresenta un atto della forza concupiscente. Ma ciò che è naturale non dovrebbe essere considerato una “ferita” alla natura stessa. Pertanto, la concupiscenza non dovrebbe essere ritenuta una ferita alla natura umana.
+
+Obiezione 4: Inoltre, è stato affermato (Q[77], A[3]) che peccare per debolezza equivale a peccare per passione. Ma la concupiscenza è una passione; pertanto non dovrebbe essere considerata sinonimo di debolezza.
+
+Obiezione 5: Inoltre, [Agostino](/figures/augustine) (De Nat. et Grat. lxvii, 67) considera “due elementi come punizioni inflitte all’anima del peccatore, ovvero l’ignoranza e la difficoltà”, da cui derivano “errore e angoscia”; questi quattro elementi non coincidono con quelli in questione. Pertanto, sembra che uno di questi ragionamenti sia incompleto.
+
+Al contrario, l’autorità di Beda è sufficiente [*Riferimento sconosciuto].
+
+Rispondo che, a causa della giustizia originale, la ragione esercitava un controllo perfetto sulle parti inferiori dell’anima; inoltre, la stessa ragione era stata perfezionata da Dio e soggetta a Lui. Tuttavia, questa giustizia originale fu perduta a causa del peccato del nostro primo genitore, come già detto (Q[81], A[2]); di conseguenza, tutte le facoltà dell’anima rimasero prive della loro ordine naturale, e perciò non erano più dirette verso la virtù. Questa condizione viene definita “ferita della natura”. Inoltre, ci sono quattro facoltà dell’anima che possono essere soggette alla virtù, come già menzionato (Q[61], A[2]): la ragione, sede della prudenza; la volontà, sede della giustizia; l’irascibile, sede della forza d’animo; e il concupiscibile, sede della temperanza. Pertanto: quando la ragione viene privata del suo ordine naturale verso il vero, si verifica la “ferita dell’ignoranza”; quando la volontà viene privata del suo orientamento verso il bene, si verifica la “ferita della malvagità”; quando l’irascibile viene privato del suo slancio verso le cose difficili, si verifica la “ferita della debolezza”; e quando il concupiscibile viene privato del suo controllo da parte della ragione, si verifica la “ferita della concupiscenza”. Ecco quindi le quattro ferite che colpiscono l’intera [natura umana](/axes/human_nature) a causa del peccato del nostro primo genitore. Tuttavia, poiché la tendenza verso il bene diminuisce in ogni individuo a causa dei peccati concreti, come spiegato in precedenza (AA[1], 2), queste quattro ferite derivano anche da altri peccati: infatti, attraverso il peccato, la ragione viene offuscata, soprattutto nelle questioni pratiche; la volontà diventa ostile al bene; le azioni virtuose risultano più difficili da compiere; e la concupiscenza diventa ancora più impetuosa.
+
+Risposta all’Obiezione 1: Non c’è alcun motivo per cui l’effetto di un peccato non possa essere la causa di un altro: poiché l’anima, dopo aver peccato una volta, è più propensa a peccare di nuovo.
+
+Risposta all’Obiezione 2: Qui il malevolenza non deve essere intesa come un peccato, ma come una certa propensione della volontà verso il male, secondo le parole di Genesi 8:21: “I sensi dell’uomo sono inclini al male fin dalla sua giovinezza”.
+
+Risposta all’Obiezione 3: Come già detto sopra (Q[82], A[3], ad 1), la concupiscenza è naturale all’uomo, nella misura in cui è soggetta alla ragione; mentre, nella misura in cui trascende i limiti della ragione, diventa innaturale per l’uomo.
+
+Risposta all’Obiezione 4: In termini generali, ogni passione può essere considerata una debolezza, nella misura in cui indebolisce la forza dell’anima e ostacola il ragionamento. Tuttavia, Beda intese la debolezza nel senso stretto, come contraria alla forza d’animo che riguarda l’irascibilità.
+
+Risposta all’Obiezione 5: La “difficoltà” menzionata in questo libro di Agostino include le tre ferite che colpiscono le facoltà desiderose, ovvero “malizia”, “debolezza” e “concupiscenza”; è proprio a causa di queste tre che un uomo trova difficile tendere verso il bene. “Errore” e “angoscia” sono conseguenze di tali ferite, poiché l’uomo soffre a causa della propria debolezza riguardo agli oggetti della sua concupiscenza.
+
 <span class="atom-split" data-atom="099" data-title="Whether privation of mode, species and order is the effect of sin?" data-chapter="Whether privation of mode, species and order is the effect of sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that privation of mode, species and order is not the effect of sin.
@@ -4947,6 +6373,22 @@ This suffices for the Replies to the first two Objections.
 
 Reply to Objection 3: Mode, species and order follow one from the other, as explained above:
 and so they are destroyed or diminished together.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la privazione di modalità, specie e ordine non sia effetto del peccato. Infatti, [Agostino](/figures/augustine) afferma (De Natura Boni iii) che “laddove queste tre componenti sono abbondanti, il bene è grande; laddove sono scarse, il bene è minore; laddove mancano del tutto, non c’è alcun bene”. Ma il peccato non distrugge il bene innato nella natura umana; pertanto non distrugge nemmeno modalità, specie e ordine.
+
+Obiezione 2: Inoltre, nulla è la propria causa. Ma il peccato stesso rappresenta proprio quella “privazione di modo, specie e ordine”, come afferma Agostino (De Natura Boni iv). Pertanto, la privazione di modo, specie e ordine non può essere considerata l’effetto del peccato.
+
+Obiezione 3: Inoltre, diversi effetti derivano da diversi peccati. Poiché modalità, specie e ordine sono diversi, anche le relative privazioni devono essere diverse e, di conseguenza, devono risultare da peccati diversi. Pertanto, la privazione di modalità, specie e ordine non è l’effetto di ogni singolo peccato.
+
+Al contrario, il Peccato è per l’anima ciò che la debolezza è per il corpo, secondo il Salmo 6:3: “Abbi pietà di me, o Signore, perché sono debole”. La debolezza infatti priva il corpo della sua forma, della sua specie e del suo ordine.
+
+Rispondo che, come affermato nelle FP, Q[5], A[5], il modo, la specie e l’ordine derivano da ogni bene creato, così come da ogni essere. Poiché ogni essere e ogni bene, in quanto tali, dipendono dalla loro forma, da cui traggono la propria “specie”. Inoltre, qualsiasi tipo di forma, sia sostanziale che accidentale, corrisponde a una determinata misura; per questo motivo si afferma nella Metafisica viii che “le forme delle cose sono simili ai numeri”, e quindi ogni forma possiede un certo “modo” che corrisponde alla sua misura. Infine, grazie alla propria forma, ogni cosa ha una relazione di “ordine” con altre cose.  
+Esistono quindi diversi gradi di modo, specie e ordine, in base ai diversi livelli di bontà. C’è innanzitutto la bontà che appartiene alla stessa essenza della natura; questa bontà possiede il proprio modo, specie e ordine, e non viene né distrutta né diminuita dal peccato. Poi c’è la bontà legata alle inclinazioni naturali: anch’essa ha il proprio modo, specie e ordine, ma viene ridotta dal peccato, come già detto (AA[1], 2), senza però essere completamente distrutta. In seguito, c’è la bontà derivante dalla virtù e dalla grazia: anche questa possiede il proprio modo, specie e ordine, ma viene completamente eliminata dal peccato. Infine, c’è la bontà che risiede nell’atto stesso; anch’essa ha il proprio modo, specie e ordine, e la privazione di questi elementi costituisce essenzialmente il peccato. È quindi evidente sia come il peccato rappresenti una privazione di modo, specie e ordine, sia come distrugga o riduca tali elementi.  
+Questo basta per rispondere alle prime due Obiezioni.
+
+Risposta all’Obiezione 3: Modo, specie e ordine seguono necessariamente l’uno dopo l’altro, come spiegato sopra; pertanto, vengono distrutti o ridotti insieme.
 
 <span class="atom-split" data-atom="100" data-title="Whether death and other bodily defects are the result of sin?" data-chapter="Whether death and other bodily defects are the result of sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -5008,6 +6450,24 @@ thus some sicken and die through eating too much. But as regards the fault, it d
 which is given to us that we may regulate the acts of the soul, but not that we may ward off defects
 of the body, as original justice did. Wherefore actual sin does not cause those defects, as original
 sin does.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la morte e altri difetti fisici non siano il risultato del peccato. Infatti, cause uguali producono effetti uguali. Ora, questi difetti non sono uguali in tutti; alcuni ne soffrono di più rispetto ad altri, mentre il [peccato originale](/positions/original_sin), da cui sembrano derivare soprattutto questi difetti, è uguale per tutti, come già detto sopra (Q[82], A[4]). Pertanto, la morte e simili difetti non sono il risultato del peccato.
+
+Obiezione 2: Inoltre, se la causa viene rimossa, anche l’effetto viene eliminato. Ma questi difetti non vengono eliminati quando ogni peccato viene rimosso attraverso il Battesimo o la Penitenza. Pertanto, essi non possono essere considerati effetti del peccato.
+
+Obiezione 3: Inoltre, il peccato effettivo presenta in misura maggiore il carattere della colpa rispetto al peccato originale. Tuttavia, il peccato effettivo non altera la natura del corpo, imponendogli alcun difetto; tanto meno, quindi, può farlo il peccato originale. Pertanto, la morte e altri difetti fisici non sono il risultato del peccato.
+
+Al contrario, l’Apostolo dice (Roma 5:12): “Attraverso un uomo il peccato è entrato nel mondo, e attraverso il peccato è venuta la morte”.
+
+Rispondo che una cosa ne causa un’altra in due modi: primo, per sé stessa; secondo, in modo accidentale. Per sé stessa, una cosa è causa di un’altra quando produce il proprio effetto grazie alla forza della propria natura o forma, in modo tale che l’effetto sia direttamente intenzionato dalla causa stessa. Pertanto, poiché la morte e simili difetti non rientrano nell’intenzione del peccatore, è evidente che il peccato, di per sé, non è la causa di tali difetti. In modo accidentale, una cosa è causa di un’altra quando la elimina eliminando un ostacolo; così si afferma nel Phys. viii, testo 32: “Spostando un pilastro, un uomo sposta accidentalmente la pietra che vi poggiava sopra”. In questo modo, il peccato del nostro primo genitore è causa della morte e di tutti i difetti simili nell’[natura umana](/axes/human_nature), poiché proprio a causa di quel peccato la giustizia originale fu perduta. La giustizia originale, infatti, non solo manteneva le facoltà inferiori dell’anima sotto il controllo della ragione, senza alcun disordine, ma anche tutto il corpo era sottomesso all’anima, senza alcuna imperfezione, come si afferma nel FP, Q[97], A[1]. Pertanto, poiché la giustizia originale fu perduta a causa del peccato del nostro primo genitore, così pure la natura umana subì un disordine nelle proprie facoltà, rendendola soggetta alla corruzione. Ora, la perdita della giustizia originale ha il carattere di una punizione, proprio come la perdita della grazia divina. Di conseguenza, la morte e tutti i difetti fisici che ne derivano sono punizioni per il peccato originale. E sebbene tali difetti non siano intenzionati dal peccatore, essi vengono comunque inflitti secondo la giustizia di Dio, che li considera punizioni.
+
+Risposta all’Obiezione 1: Le cause che producono i loro effetti da sole, se uguali, producono effetti uguali; infatti, se tali cause vengono aumentate o diminuite, anche l’effetto aumenta o diminuisce. Tuttavia, la rimozione di cause uguali che creano un ostacolo non comporta necessariamente effetti uguali. Ad esempio, se una persona impiega la stessa forza per spostare due colonne, ciò non significa che i movimenti delle pietre su di esse saranno uguali; anzi, una delle pietre si muoverà con maggiore velocità, poiché ha un peso maggiore, secondo le leggi della sua natura. Allo stesso modo, quando viene rimossa l’ostacolo che impediva la caduta di qualcosa, la natura stessa di quell’oggetto agisce liberamente, e a seconda dei diversi temperamenti naturali, alcuni corpi umani sono più soggetti a difetti, altri meno, anche se il peccato originale è lo stesso per tutti.
+
+Risposta all’Obiezione 2: Sia il peccato originale che quello effettivo vengono eliminati dalla stessa causa che rimuove questi difetti, secondo quanto afferma l’Apostolo (Romani 8:11): “Lui, darà vita ai vostri corpi mortali, per mezzo dello Spirito suo che è in voi”; tuttavia ciascuno di questi processi avviene secondo l’ordine della saggezza divina, nel momento opportuno. È infatti giusto che prima di raggiungere l’immortalità e l’impassibilità, che furono iniziate in Cristo e da Lui acquisite per noi, noi stessi ci conformiamo alle sofferenze di Cristo. Pertanto è necessario che i nostri corpi rimangano, per un certo periodo, soggetti a sofferenze, affinché possiamo meritare l’impassibilità della gloria, in conformità con Cristo.
+
+Risposta all’Obiezione 3: Nel peccato effettivo si possono considerare due aspetti: la sostanza dell’atto stesso e l’aspetto del difetto commesso. Per quanto riguarda la sostanza dell’atto, il peccato effettivo può causare dei danni fisici; ad esempio, alcune persone ammalano e muoiono a causa di un consumo eccessivo di cibo. Tuttavia, in termini di difetto commesso, il peccato effettivo ci priva della grazia che ci viene data per regolare i nostri atti spirituali, ma non per prevenire i danni fisici, come avveniva con la giustizia originale. Pertanto, il peccato effettivo non causa quei danni fisici in modo diretto, a differenza del peccato originale.
 
 <span class="atom-split" data-atom="101" data-title="Whether death and other defects are natural to man?" data-chapter="Whether death and other defects are natural to man?" data-kind="atom" data-srclang="en"></span>
 
@@ -5073,11 +6533,33 @@ Q[97], A[1]. It is in this sense that it is said that "God made not death," and 
 punishment of sin.
 This suffices for the Replies to the Objections.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la morte e altri simili difetti siano naturali all’uomo. Infatti “ciò che è corruttibile e ciò che non è corruttibile differiscono per genere” (Metafisica, X, 26). Ma l’uomo appartiene allo stesso genere di altri animali che sono naturalmente corruttibili. Pertanto, anche l’uomo è naturalmente corruttibile.
+
+Obiezione 2: Inoltre, tutto ciò che è composto da contrari è naturalmente corruttibile, poiché contiene in sé la causa della corruzione. Ed è proprio il caso del corpo umano. Pertanto, esso è naturalmente corruttibile.
+
+Obiezione 3: Inoltre, una cosa calda consuma naturalmente l’umidità. Ora la vita umana è mantenuta da elementi caldi e umidi. Poiché quindi le funzioni vitali vengono svolte dall’azione del calore naturale, come affermato nel “De Anima” ii, testo 50, sembra che la morte e simili fenomeni siano naturali per l’uomo.
+
+Al contrario: (1) Dio ha dato all’uomo tutto ciò che è naturale per lui; ora, “Dio non ha creato la morte” (Sapienza 1:13). Pertanto, la morte non è naturale per l’uomo.  
+(2) Inoltre, ciò che è naturale non può essere definito né punizione né male, poiché ciò che è naturale per una cosa le è adatto. Ma la morte e simili mali sono la conseguenza del peccato originale, come già detto (A[5]). Quindi non sono naturali per l’uomo.  
+(3) Inoltre, la materia è proporzionata alla forma, e tutto ha uno scopo specifico. Lo scopo dell’uomo è la felicità eterna, come affermato in precedenza (Q[2], A[7]; Q[5], AA[3],4); la forma del corpo umano è l’anima razionale, come dimostrato nel FP, Q[75], A[6]. Pertanto, il corpo umano è naturalmente incorruttibile.
+
+Rispondo che qualsiasi cosa corruttibile può essere considerata in due modi: innanzitutto, in relazione alla sua natura universale; in secondo luogo, in relazione alla sua natura particolare. La natura particolare di una cosa consiste nella sua capacità di agire e di autopreservarsi. In questo senso, qualsiasi forma di corruzione o difetto è contraria alla natura stessa di quella cosa, come affermato nel “De Coelo”, testo 37: infatti, tale capacità tende al mantenimento e alla conservazione della cosa a cui appartiene. D’altra parte, la natura universale rappresenta una forza attiva all’interno di alcuni principi fondamentali della natura – ad esempio, in alcuni corpi celesti – o appartiene a sostanze superiori; in questo senso, alcuni dicono che Dio sia “la Natura che crea la natura”. Questa forza tende al bene e alla conservazione dell’universo, e per questo motivo il processo di generazione e corruzione delle cose è necessario. In questo contesto, la corruzione non è considerata contraria alla natura stessa delle cose, ma piuttosto in relazione alle caratteristiche della materia che le costituisce, determinate dal principio universale che governa il processo creativo. Sebbene ogni forma tenda al perseguimento del proprio essere per quanto possibile, nessuna forma di essere corruttibile può raggiungere la propria immortalità, tranne l’anima razionale; quest’ultima, infatti, non è interamente soggetta alla materia, ma possiede una capacità operativa immateriale, come affermato nel “FP”, Q[75], A[2]. Pertanto, per quanto riguarda la sua natura specifica, l’immortalità è più propria dell’uomo che di altre cose corruttibili. Tuttavia, poiché la forma umana è composta da materia caratterizzata da contrari, questa stessa natura materiale comporta inevitabilmente la possibilità della corruzione. In questo senso, l’uomo è naturalmente corruttibile in relazione alla sua natura materiale, ma non in relazione alla sua forma spirituale. Le prime tre obiezioni si basano sulla natura materiale dell’uomo; le altre tre, invece, sulla sua natura formale. Pertanto, per risolverle, è necessario considerare che la forma umana – l’anima razionale – è adatta alla propria destinazione finale, ovvero alla felicità eterna; mentre il corpo umano, essendo corruttibile, in un certo senso è adatto a questa forma, ma in altri aspetti non lo è. Infatti, ogni materia presenta due tipi di caratteristiche: alcune sono scelte dall’agente creatore, altre invece sono innate alla materia stessa. Ad esempio, un fabbro, per creare un coltello, sceglie una materia dura e flessibile che possa essere affilata al fine di renderla utile per tagliare; l’essere che il ferro sia fragile e soggetto alla ruggine deriva dalle sue caratteristiche innate, e il fabbro non le ha scelte intenzionalmente. Pertanto, queste caratteristiche materiali non corrispondono alle intenzioni dell’artigiano.
+Lo scopo dell’arte di un artista è proprio quello di esprimere tali intenzioni. Allo stesso modo, il corpo umano rappresenta la materia scelta dalla natura, in virtù della sua natura mista, affinché possa essere il mezzo più adatto per fungere da organo del tatto e delle altre facoltà sensitive e motorie. Il fatto che il corpo umano sia corruttibile deriva invece da caratteristiche intrinseche alla materia stessa, e non è certo una scelta deliberata della natura: anzi, se fosse possibile, la natura avrebbe preferito utilizzare una materia incorruttibile. Tuttavia, Dio, a cui tutte le cose sono soggette, ha compensato questa debolezza naturale, donando al corpo umano un certo grado di incorruttibilità attraverso il dono della giustizia originale, come si afferma nel FP, Q[97], A[1]. È in questo senso che si dice che “Dio non ha creato la morte”, poiché la morte rappresenta piuttosto una punizione per il peccato.  
+Questo basta per rispondere alle obiezioni sollevate.
+
 <span class="atom-split" data-atom="102" data-title="OF THE STAIN OF SIN (TWO ARTICLES)" data-chapter="OF THE STAIN OF SIN (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the stain of sin; under which head there are two points of inquiry:
 (1) Whether an effect of sin is a stain on the soul?
 (2) Whether it remains in the soul after the act of sin?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la “macchia” del peccato; sotto questo aspetto ci sono due questioni da esaminare:  
+(1) Se l’effetto del peccato costituisca davvero una macchia sull’anima;  
+(2) Se tale “macchia” rimanga nell’anima dopo l’atto peccaminoso.
 
 <span class="atom-split" data-atom="103" data-title="Whether sin causes a stain on the soul?" data-chapter="Whether sin causes a stain on the soul?" data-kind="atom" data-srclang="en"></span>
 
@@ -5132,6 +6614,24 @@ wherefore diverse sins occasion diverse stains. It is like a shadow, which is th
 through the interposition of a body, and which varies according to the diversity of the interposed
 bodies.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il peccato non lasci alcuna macchia sull’anima. Infatti, una natura superiore non può essere contaminata dal contatto con una natura inferiore; pertanto, i raggi del sole non vengono contaminati dal contatto con corpi impuriti, come afferma [Agostino](/figures/augustine) (Contra Quinque Haereses V). Ora, l’anima umana appartiene a una natura molto più elevata rispetto alle cose mutevoli verso cui si rivolge attraverso il peccato; quindi non subisce alcuna contaminazione a causa di esso.
+
+Obiezione 2: Inoltre, il peccato risiede principalmente nella volontà, come detto sopra (Q[74], AA[1],2). Ora la volontà appartiene alla ragione, come affermato nel De [Anima](/concepts/soul) iii, testo 42. Ma la ragione o l’intelletto non vengono macchiati dal considerare qualsiasi cosa; anzi, vengono perfezionati attraverso tale processo. Pertanto, nemmeno la volontà viene macchiata dal peccato.
+
+Obiezione 3: Inoltre, se il peccato causa una “macchia”, questa macchia è o qualcosa di positivo, oppure una pura privazione. Se fosse qualcosa di positivo, potrebbe essere soltanto una disposizione o un’[abitudine](/concepts/custom): infatti sembra che nulla altro possa essere causato da un atto peccaminoso. Ma non si tratta né di una disposizione né di un’abitudine: infatti la “macchia” rimane anche dopo la scomparsa di tali elementi; ad esempio, in una persona che, dopo aver commesso un peccato mortale di prodigalità, subisce cambiamenti tale da cadere in un vizio opposto. Pertanto, questa “macchia” non indica nulla di positivo nell’anima. Inoltre, non è nemmeno una pura privazione: tutti i peccati, infatti, comportano sempre un rifiuto della grazia divina e una sua privazione; quindi si dovrebbe concludere che esista soltanto una “macchia” causata da tutti i peccati. Pertanto, la “macchia” non è effetto del peccato stesso.
+
+Al contrario, a Salomone fu detto (Ecclesiaste 47:22): “Hai macchiato la tua gloria”; e si scrive (Efesini 5:27): “Affinché Egli possa presentarsi una chiesa gloriosa, senza macchia né ruga”. In entrambi i casi si tratta della macchia del peccato. Pertanto, una macchia è l’effetto del peccato.
+
+Rispondo che una macchia viene propriamente attribuita alle cose corporee quando un corpo bello perde la sua bellezza a causa del contatto con un altro corpo, ad esempio un indumento, l’oro o l’argento, e simili. Allo stesso modo, una macchia può essere attribuita anche alle cose spirituali. L’anima umana possiede infatti una doppia bellezza: una derivante dal fulgore della luce naturale della ragione, che guida le sue azioni; l’altra dal fulgore della luce divina, cioè della saggezza e della grazia, che perfeziona l’uomo al fine di compiere azioni buone e appropriate. Quando l’anima si attacca a certe cose per amore, si verifica un certo tipo di contatto interno; e quando l’uomo pecca, si attacca a tali cose contro la luce della ragione e contro la [legge divina](/concepts/divine_law), come è stato dimostrato sopra (Q[71], A[6]). Pertanto, la perdita di bellezza causata da questo tipo di contatto viene metaforicamente definita una “macchia” sull’anima.
+
+Risposta all’Obiezione 1: L’anima non viene contaminata da cose inferiori per il loro stesso potere, come se queste agissero direttamente sull’anima; al contrario, è l’anima stessa, con la sua azione, a contaminarsi attaccandosi in modo irregolare a tali cose, contro la luce della ragione e della legge divina.
+
+Risposta all’Obiezione 2: L’azione dell’intelletto si compie quando la cosa intelligibile entra nell’intelletto, secondo il modo specifico di funzionamento di quest’ultimo; in questo processo, l’intelletto non viene contaminato, ma anzi perfezionato. D’altra parte, l’azione della volontà consiste in un movimento diretto verso le cose stesse; è attraverso questo movimento che l’amore lega l’anima alla cosa amata. È proprio per questa ragione che l’anima viene “macchiata” quando si attacca in modo disordinato alle cose, come si legge in Osea 9:10: “Diventarono abominabili, proprio come le cose che amavano”.
+
+Risposta all’Obiezione 3: La “macchia” non è né qualcosa di positivo nell’anima, né indica una pura privazione; indica piuttosto la privazione della luminosità dell’anima rispetto alla sua causa, che è il peccato; pertanto, diversi peccati causano diverse “macchie”. È come un’ombra, che rappresenta la privazione di luce dovuta all’intervento di un corpo e che varia a seconda della natura di tale corpo.
+
 <span class="atom-split" data-atom="104" data-title="Whether the stain remains in the soul after the act of sin?" data-chapter="Whether the stain remains in the soul after the act of sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the stain does not remain in the soul after the act of sin. For
@@ -5173,6 +6673,24 @@ Reply to Objection 3: The act of sin parts man from God, which parting causes th
 brightness, just as local movement causes local parting. Wherefore, just as when movement ceases,
 local distance is not removed, so neither, when the act of sin ceases, is the stain removed.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la macchia non rimanga nell’anima dopo l’atto peccaminoso. Infatti, dopo un atto, nulla rimane nell’anima se non abitudini o disposizioni. Ma la macchia non è un’abitudine né una disposizione, come già detto sopra (A[1], OBJ[3]). Pertanto, la macchia non rimane nell’anima dopo l’atto peccaminoso.
+
+Obiezione 2: Inoltre, il “macchio” è per il peccato ciò che l’“ombra” è per il corpo, come detto sopra (A[1], ad 3). Ma l’ombra scompare quando il corpo non c’è più; pertanto anche il “macchio” scompare nell’anima quando l’atto peccaminoso è ormai trascorso.
+
+Obiezione 3: Inoltre, ogni effetto dipende dalla sua causa. Ora, la causa della macchia è l’atto di peccato. Pertanto, quando l’atto di peccato non esiste più, nemmeno la macchia nell’anima esiste più.
+
+Al contrario, è scritto (Giosuè 22:17): “È forse una cosa da poco aver peccato insieme a Beelfegor, e che il marchio di quel crimine rimanga in voi [Vulgata: ‘in noi’] fino ad oggi?”
+
+Rispondo che la macchia del peccato rimane nell’anima anche quando l’atto stesso di peccare è ormai passato. Il motivo di ciò è che tale macchia, come già detto (A[1]), rappresenta un difetto nella “luminosità” dell’anima, dovuto al suo allontanamento dalla luce della ragione o dalla [legge divina](/concepts/divine_law). Pertanto, finché l’uomo rimane lontano da questa luce, la macchia del peccato permane in lui; ma non appena, spinto dalla grazia, ritorna alla luce divina e a quella della ragione, la macchia viene eliminata. Poiché, sebbene l’atto di peccare cessi – che ha portato l’uomo lontano dalla luce della ragione e della legge divina – l’uomo non ritorna immediatamente allo “stato” in cui si trovava prima; è necessario che la sua volontà compia un movimento opposto a quello precedente. Così, se due persone vengono separate a causa di qualche motivo, non si ricongiungono immediatamente non appena quel motivo scompare, ma devono avvicinarsi l’una all’altra attraverso un movimento inverso.
+
+Risposta all’Obiezione 1: Dopo l’atto di peccato, nell’anima non rimane nulla di positivo, se non la disposizione o l’abitudine derivanti da quel peccato; tuttavia rimane qualcosa di “privato”, ovvero la privazione dell’unione con la Luce Divina.
+
+Risposta all’Obiezione 2: Dopo che il corpo interposto è passato, il corpo trasparente rimane nella stessa posizione e nello stesso rapporto rispetto al corpo illuminante; di conseguenza, l’ombra scompare immediatamente. Tuttavia, quando il peccato è compiuto, l’anima non rimane più nello stesso rapporto con Dio; pertanto, non esiste alcuna analogia tra i due casi.
+
+Risposta all’Obiezione 3: L’atto del peccato separa l’uomo da Dio, e questa separazione provoca la mancanza di “luminosità”, proprio come il movimento locale causa una separazione spaziale. Pertanto, così come quando il movimento cessa la distanza spaziale non scompare, allo stesso modo, quando l’atto del peccato cessa, la macchia lasciata dal peccato non viene eliminata.
+
 <span class="atom-split" data-atom="105" data-title="OF THE DEBT OF PUNISHMENT (EIGHT ARTICLES)" data-chapter="OF THE DEBT OF PUNISHMENT (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the debt of punishment. We shall consider (1) the debt itself; (2) mortal
@@ -5186,6 +6704,18 @@ Under the first head there are eight points of inquiry:
 (6) Whether the debt of punishment can remain after sin?
 (7) Whether every punishment is inflicted for a sin?
 (8) Whether one person can incur punishment for another's sin?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il “debito” di punizione. Esamineremo: (1) il debito stesso; (2) i peccati mortali e veniali, che differiscono in base alla punizione loro dovuta. All’interno della prima categoria vi sono otto punti da analizzare:  
+(1) Se il debito di punizione sia un effetto del peccato stesso;  
+(2) Se un peccato possa costituire la punizione di un altro;  
+(3) Se qualche peccato comporti un debito di punizione eterna;  
+(4) Se un peccato generi un debito di punizione di entità infinita;  
+(5) Se ogni peccato comporti necessariamente una punizione eterna e infinita;  
+(6) Se il debito di punizione possa persistere anche dopo la commissione del peccato;  
+(7) Se ogni punizione venga inflitta esclusivamente per un peccato specifico;  
+(8) Se una persona possa subire la punizione per il peccato di un’altra.
 
 <span class="atom-split" data-atom="106" data-title="Whether the debt of punishment is an effect of sin?" data-chapter="Whether the debt of punishment is an effect of sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -5237,6 +6767,24 @@ Reply to Objection 3: This punishment of the "inordinate affection" is due to si
 the order of reason. Nevertheless sin incurs a further punishment, through disturbing the order of
 the Divine or [human law](/concepts/human_law).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il debito di punizione non sia un effetto del peccato. Infatti, ciò che è collegato in modo accidentale a una cosa non sembra essere il suo effetto proprio. Ora, il debito di punizione è collegato in modo accidentale al peccato, poiché esiste al di fuori dell’intenzione del peccatore. Pertanto, il debito di punizione non è un effetto del peccato.
+
+Obiezione 2: Inoltre, il male non è la causa del bene. Ma la punizione è un bene, poiché è giusta e proviene da Dio. Pertanto, non può essere considerata un effetto del peccato, che è male.
+
+Obiezione 3: Inoltre, [Agostino](/figures/augustine) afferma (Confessioni i) che “ogni affetto eccessivo è di per sé stesso una punizione”. Ma la punizione non genera un ulteriore debito di punizione, poiché in tal caso il ciclo continuerebbe all’infinito. Pertanto, il peccato non comporta necessariamente un debito di punizione.
+
+Al contrario, è scritto (Roma 2:9): “Angoscia e tribolazione su ogni anima dell’uomo che compie il male”. Ma compiere il male significa peccare. Pertanto, il peccato comporta una punizione, indicata appunto dalle parole “angoscia e tribolazione”.
+
+Rispondo che, sia nelle cose naturali che negli affari umani, ogni volta che una cosa si oppone un’altra, subisce dei danni a causa di tale opposizione. Infatti, nelle cose naturali osserviamo che quando si verifica l’intervento di qualcosa di contrario, l’altra entità agisce con maggiore intensità; per questo motivo “l’acqua calda gela più rapidamente”, come affermato nel libro I dei Meteorologi, capitolo 12. Ne consegue che la natura umana tende a reprimere coloro che si oppongono a lei. Ora è evidente che tutte le cose ordinate seguono, in qualche modo, lo stesso principio di organizzazione; pertanto, qualsiasi cosa si ribelli a tale ordine viene soppressa da esso stesso o dal principio che lo regola. Poiché il peccato rappresenta un atto disordinato, è chiaro che chi pecca commette un’offesa contro quest’ordine; di conseguenza, viene punito proprio da quell’ordine stesso, e questa repressione costituisce la punizione. Pertanto, l’uomo può essere punito in modo triplo, in base ai tre ordini a cui è soggetta la sua volontà: innanzitutto, all’ordine della propria ragione; in secondo luogo, all’ordine di un altro uomo che lo governa, sia in ambito spirituale che temporale, come membro dello [stato](/concepts/state) o della famiglia; infine, all’ordine universale del governo divino. Ogni uno di questi ordini viene perturbato dal peccato, poiché il peccatore agisce contro la propria ragione e contro le leggi umane e [Divine](/concepts/divine_law). Per questo motivo subisce una punizione triplice: una inflitta da lui stesso, ovvero il rimorso di coscienza; un’altra inflitta dagli altri uomini; e una terza inflitta da Dio.
+
+Risposta all’Obiezione 1: La punizione segue il peccato, poiché quest’ultimo rappresenta un male in quanto è disordinato rispetto alle leggi morali. Pertanto, proprio come il male è qualcosa di accidentale nell’atto del peccatore – cioè qualcosa che non rientra nelle sue intenzioni originali – allo stesso modo anche il debito della punizione ha un carattere accidentale rispetto al peccato commesso.
+
+Risposta all’Obiezione 2: Inoltre, una punizione giusta può essere inflitta sia da Dio che dall’uomo; pertanto, la punizione stessa è l’effetto del peccato, sebbene non in modo diretto, ma indiretto. Il peccato, tuttavia, rende l’uomo degno di punizione, e questo rappresenta un male: infatti Dionigi afferma (Div. Nom. iv) che “la punizione non è un male, ma essere degni di punizione sì”. Di conseguenza, il debito di punizione viene considerato effettivamente l’effetto diretto del peccato.
+
+Risposta all’Obiezione 3: Questo castigo per l’“affetto eccessivo” deriva dal peccato, poiché esso sovverte l’ordine della ragione. Tuttavia, il peccato subisce un ulteriore castigo, in quanto perturba anche l’ordine della legge divina o della [legge umana](/concepts/human_law).
+
 <span class="atom-split" data-atom="107" data-title="Whether sin can be the punishment of sin?" data-chapter="Whether sin can be the punishment of sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sin cannot be the punishment of sin. For the purpose of
@@ -5284,6 +6832,25 @@ sin.
 
 Reply to Objection 2: This objection considers sin essentially as such: and the same answer
 applies to the Third Objection.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il peccato non possa essere la punizione di un altro peccato. Infatti, lo scopo della punizione è quello di riportare l’uomo verso il bene e la virtù, come afferma il Filosofo (Etica, x, 9). Ora, il peccato non conduce l’uomo verso il bene e la virtù, ma in direzione opposta. Pertanto, il peccato non può essere considerato la punizione di un altro peccato.
+
+Obiezione 2: Inoltre, le punizioni giuste provengono da Dio, come afferma [Agostino](/figures/augustine) (Qq. lxxxiii, qu. 82). Ma il peccato non proviene da Dio e rappresenta un’ingiustizia; pertanto, il peccato non può essere considerato la punizione del peccato stesso.
+
+Obiezione 3: Inoltre, la natura della punizione è qualcosa che va contro la volontà dell’individuo. Ma il peccato, come dimostrato sopra (Q[74], AA[1],2), deriva proprio dalla volontà. Pertanto, il peccato non può essere considerato la punizione del peccato stesso.
+
+Al contrario, Gregorio afferma nell’Homilia XI sull’Ezechiele che alcuni peccati sono punizioni di altri.
+
+Rispondo che si può parlare di peccato in due modi: innanzitutto, nella sua essenza stessa; in secondo luogo, riguardo a ciò che ad esso è connesso in modo accidentale. Il peccato, considerato nella sua essenza, non può mai essere una punizione per un altro. Poiché il peccato, nel suo significato più profondo, deriva dalla volontà umana, ed è proprio da questa che riceve il carattere di colpa; mentre la punizione, per definizione, è qualcosa che va contro la volontà, come affermato nella FP, Q[48], A[5]. Pertanto è evidente che il peccato, considerato nella sua essenza, non può mai essere una punizione per un altro peccato. D’altra parte, il peccato può essere una punizione per un altro peccato in tre modi diversi:  
+1. Quando un peccato è la causa di un altro, eliminando gli ostacoli che ne impedivano l’attuazione. Le passioni, le tentazioni del diavolo e simili possono essere cause di peccato, ma vengono ostacolate dalla grazia divina; quando questa grazia viene ritirata a causa del peccato, il risultante è anch’esso un peccato, che quindi rappresenta una punizione accidentale. In questo senso parla l’Apostolo in Romani 1:24, quando dice: “Per questo Dio li ha abbandonati ai loro desideri”, cioè alle loro passioni; poiché, quando gli uomini vengono privati della grazia divina, sono sopraffatti dalle proprie passioni.  
+2. A causa della natura stessa dell’atto peccaminoso, che comporta dolore o sofferenza: sia che si tratti di un atto interiore (come l’ira o l’invidia), sia di un atto esteriore (come chi subisce grandi difficoltà per compiere un atto peccaminoso, secondo la Sapienza 5:7).  
+3. A causa degli effetti negativi che il peccato produce; in questi casi, si può dire che un peccato sia una punizione non solo di un altro peccato precedente, ma anche di sé stesso. In questi ultimi due modi, il peccato è considerato una punizione sia rispetto a un altro peccato, sia riguardo alla propria natura intrinseca.
+
+Risposta all’Obiezione 1: Anche quando Dio punisce gli uomini permettendo loro di cadere nel peccato, ciò avviene a vantaggio della virtù. A volte, infatti, la punizione è utile proprio per coloro che ne sono colpiti, poiché li spinge ad essere più umili e più cauti. Ma in ogni caso, lo scopo principale della punizione è sempre quello di indurre il peccatore a correggersi: il fatto stesso che l’uomo debba sopportare sofferenze e perdite a causa del peccato costituisce un mezzo efficace per allontanarlo da esso.
+
+Risposta all’Obiezione 2: Questa obiezione considera il peccato essenzialmente come tale; la stessa risposta vale anche per l’Osservazione Terza.
 
 <span class="atom-split" data-atom="108" data-title="Whether any sin incurs a debt of eternal punishment?" data-chapter="Whether any sin incurs a debt of eternal punishment?" data-kind="atom" data-srclang="en"></span>
 
@@ -5351,6 +6918,28 @@ Reply to Objection 4: Although punishment is related indirectly to nature, never
 essentially related to the disturbance of the order, and to God's justice. Wherefore, so long as the
 disturbance lasts, the punishment endures.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nessun peccato generi un debito di punizione eterna. Infatti, una punizione giusta è proporzionale al peccato stesso, poiché la giustizia consiste proprio nell’equità; per questo si legge (Isaia 27:8): “Misura per misura, quando sarà rimosso, tu lo giudicherai”. Ora, il peccato è qualcosa di temporale; pertanto non genera un debito di punizione eterna.
+
+Obiezione 2: Inoltre, “le punizioni sono un tipo di medicina” (Etica ii, 3). Ma nessuna medicina dovrebbe essere infinita, poiché è rivolta verso uno scopo, e “ciò che è rivolto verso uno scopo non può essere infinito”, come afferma il Filosofo (Politica i, 6). Pertanto, nessuna punizione dovrebbe essere infinita.
+
+Obiezione 3: Inoltre, nessuno compie mai un’azione se non perché ne trae piacere per il suo stesso valore intrinseco. Ma “Dio non trova gioia nella distruzione degli uomini” [Vulgata: ‘dei viventi’]. Pertanto, Egli non infliggerà punizioni eternhe all’uomo.
+
+Obiezione 4: Inoltre, nulla di casuale può essere infinito. Ma la punizione è qualcosa di casuale, poiché non è naturale per colui che viene punito. Pertanto, non può avere una durata infinita.
+
+Al contrario, è scritto (Matteo 25:46): “Questi entreranno in un castigo eterno”; e (Marco 3:29): “Chi bestemmia lo Spirito Santo non avrà mai perdono, ma commetterà un peccato eterno”.
+
+Rispondo che, come già detto sopra (A[1]), il peccato genera un debito di punizione poiché perturba l’ordine stabilito. Tuttavia, questo effetto persiste finché rimane la causa della perturbazione; pertanto, finché tale disordine esiste, anche il debito di punizione deve rimanere. Ora, la perturbazione di un ordine può essere talvolta riparabile e talvolta irreparabile: un difetto che distrugge il principio su cui si fonda quell’ordine è infatti irreparabile, mentre se il principio stesso viene preservato, i difetti possono essere eliminati grazie a esso. Ad esempio, se il principio della vista viene distrutto, essa non può essere ripristinata se non con il potere divino; invece, se tale principio rimane intatto, anche se sorgono ostacoli nell’uso della vista, questi possono essere superati dalla natura o dall’arte. In ogni ordine esiste dunque un principio su cui si fonda la sua struttura; pertanto, se un peccato distrugge quel principio che rende la volontà umana soggetta a Dio, il disordine risultante è di per sé irreparabile, anche se può essere sanato con il potere divino. Il principio di questo ordine è l’ultimo fine verso cui l’uomo tende attraverso la carità; quindi, qualsiasi peccato che allontani l’uomo da Dio e distrugga la carità genera, in sé stesso, un debito di punizione eterna.
+
+Risposta all’Obiezione 1: La punizione è proporzionale al peccato in termini di gravità, sia nelle giudizio divine che umane. Tuttavia, come afferma [Agostino](/figures/augustine) (De Civ. Dei xxi, 11), non è necessario che la durata della punizione sia uguale alla gravità del peccato. Il fatto che adulterio o omicidio vengano commessi in un istante non richiede una punizione altrettanto rapida: spesso vengono puniti con l’ergastolo o l’esilio, e talvolta persino con la morte; in questi casi non si tiene conto del tempo impiegato per compiere il crimine, ma piuttosto dell’utilità di allontanare il colpevole dalla comunità dei vivi. In questo modo, tale punizione rappresenta, a suo modo, l’[eternità](/positions/eternity) della punizione inflitta da Dio. Secondo Gregorio (Dial. iv, 44), è giusto che colui che ha peccato contro Dio nella sua stessa eternità venga punito nell’eternità di Dio stesso. Si dice che un uomo abbia peccato nella sua stessa eternità non solo perché continua a commettere peccati per tutta la vita, ma anche perché, nel momento in cui si propone di vivere nel peccato, possiede la volontà di peccare per l’eternità. Per questo motivo Gregorio afferma (Dial. iv, 44) che i malvagi “desidererebbero vivere senza fine, affinché potessero rimanere nei loro peccati per sempre”.
+
+Risposta all’Obiezione 2: Anche la punizione inflitta secondo le leggi umane non è sempre intesa come rimedio per colui che viene punito, ma a volte soltanto per gli altri: ad esempio, quando un ladro viene impiccato, ciò avviene non per il suo stesso ravvedimento, ma affinché gli altri possano essere dissuasi dal commettere crimini attraverso la paura della punizione, come recita il Proverbo 19:25: “Il malvagio, quando viene castigato, diventa più saggio”. Allo stesso modo, le punizioni eternhe inflitte da Dio ai reprobi rappresentano rimedi efficaci per coloro che si astengono dal peccare, pensando a tali punizioni, come dice il Salmo 59:6: “Hai dato loro un avvertimento affinché ti temano e possano fuggire davanti alla tua ira, affinché i tuoi amati siano salvati”.
+
+Risposta all’Obiezione 3: Dio non si compiace nelle punizioni per il loro stesso valore; ma si compiace nell’ordine della Sua giustizia, che richiede la loro esistenza.
+
+Risposta all’Obiezione 4: Sebbene la punizione sia collegata in modo indiretto alla natura, essa è essenzialmente legata al perturbamento dell’ordine e alla giustizia di Dio. Pertanto, finché tale perturbamento persiste, anche la punizione continua ad esistere.
+
 <span class="atom-split" data-atom="109" data-title="Whether sin incurs a debt of punishment infinite in quantity?" data-chapter="Whether sin incurs a debt of punishment infinite in quantity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sin incurs a debt of punishment infinite in quantity. For it is
@@ -5398,6 +6987,24 @@ irreparable, is such that, of itself, it lasts for ever; wherefore it incurs an 
 But it is not infinite as regards the thing it turns to; wherefore, in this respect, it does not incur
 punishment of infinite quantity.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il peccato comporti una punizione di quantità infinita. Infatti è scritto (Geremia 10:24): “Correggimi, o Signore, ma con giustizia, e non con la tua ira, affinché non mi distrugga del tutto”. L’ira di Dio rappresenta metaforicamente la vendetta della giustizia divina; essere completamente distrutto equivale a una punizione infinita, così come creare qualcosa dal nulla indica un potere infinito. Pertanto, secondo la vendetta di Dio, al peccato viene inflitta una punizione di quantità infinita.
+
+Obiezione 2: Inoltre, la quantità della punizione corrisponde alla quantità del peccato, secondo il Deuteronomio 25:2: “Secondo la misura del peccato sarà anche la misura delle bastonate”. Ora, un peccato commesso contro Dio è infinito: poiché la gravità di un peccato aumenta in base alla grandezza della persona contro cui si pecca (è quindi un peccato più grave colpire il sovrano che una persona comune), e la grandezza di Dio è infinita. Pertanto, per un peccato commesso contro Dio è dovuta una punizione infinita.
+
+Obiezione 3: Inoltre, una cosa può essere infinita in due modi: per durata e per quantità. Ora, la punizione è infinita per durata; pertanto lo è anche per quantità.
+
+Al contrario, se fosse così, le punizioni per tutti i peccati mortali sarebbero uguali; infatti, l’infinito non è più grande dell’altro infinito.
+
+Rispondo che il castigo è proporzionale al peccato. Ora, il peccato comprende due aspetti: innanzitutto, c’è il allontanamento dal bene immutabile e infinito; in questo senso, il peccato è infinito. In secondo luogo, c’è un orientamento eccessivo verso il bene mutabile; in questo caso, il peccato è finito, sia perché il bene mutabile stesso è finito, sia perché l’atto di volgersi verso di esso è anch’esso finito, poiché le azioni di una creatura non possono essere infinite. Pertanto, nella misura in cui il peccato consiste nell’allontanarsi da qualcosa, la punizione corrispondente è il “dolore della perdita”, che anch’esso è infinito, poiché rappresenta la perdita del bene infinito, cioè di Dio. Ma nella misura in cui il peccato si orienta eccessivamente verso qualcosa, la punizione corrispondente è il “dolore sensibile”, che invece è finito.
+
+Risposta all’Obiezione 1: Sarebbe incompatibile con la giustizia divina che il peccatore venisse completamente annientato, poiché ciò sarebbe contrario alla perpetuità della punizione richiesta dalla giustizia divina, come già affermato sopra (A[3]). L’espressione “essere completamente annientato” si riferisce a colui che viene privato dei beni spirituali; così recita 1 Corinzi 13:2: “Se non ho carità, non sono nulla”.
+
+Risposta all’Obiezione 2: Questo argomento considera il peccato come un allontanamento da qualcosa; è proprio in questo modo che l’uomo pecca contro Dio.
+
+Risposta all’Obiezione 3: La durata della punizione corrisponde alla durata del peccato, non certo riguardo all’atto stesso, ma in relazione al “macchio” che tale peccato lascia; finché questo macchio esiste, rimane anche il debito di punizione. Tuttavia, la punizione corrisponde al peccato per quanto riguarda la sua severità. Un peccato irreparabile, essendo di per sé duraturo per l’eternità, comporta anch’esso una punizione eterna. Ma tale punizione non è infinita in termini della sua entità; pertanto, in questo senso, non si tratta di una punizione di quantità infinita.
+
 <span class="atom-split" data-atom="110" data-title="Whether every sin incurs a debt of eternal punishment?" data-chapter="Whether every sin incurs a debt of eternal punishment?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that every sin incurs a debt of eternal punishment. Because
@@ -5443,6 +7050,22 @@ but by reason of the condition of the subject, viz. a human being deprived of gr
 there is no remission of sin.
 The same answer applies to the Third Objection about venial sin. Because [eternity](/positions/eternity) of punishment
 does not correspond to the quantity of the sin, but to its irremissibility, as stated above (A[3]).
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che ogni peccato comporti un debito di punizione eterna. Poiché la punizione, come detto sopra (A[4]), è proporzionale al peccato commesso. Ora, la punizione eterna differisce infinitamente dalla punizione temporale: mentre, apparentemente, nessun peccato differisce infinitamente da un altro, poiché ogni peccato è un atto umano e quindi non può essere infinito. Pertanto, poiché alcuni peccati comportano un debito di punizione eterna, come affermato sopra (A[4]), sembra che nessun peccato comporti un debito di semplice punizione temporale.
+
+Obiezione 2: Inoltre, il [peccato originale](/positions/original_sin) è il minore di tutti i peccati; per questo motivo [Agostino](/figures/augustine) afferma (Enchiridion, xciiii) che “la punizione più lieve viene inflitta a coloro che vengono puniti soltanto per il peccato originale”. Tuttavia, il peccato originale comporta una punizione eterna, poiché i bambini che muoiono nel peccato originale senza essere battezzati non vedranno mai il regno di Dio, come indicano le parole del Signore (Giovanni 3:3): “Se uno non nasce di nuovo, non può vedere il regno di Dio”. Pertanto, con ancora maggiore ragione, anche le punizioni per tutti gli altri peccati dovranno essere eterne.
+
+Obiezione 3: Inoltre, un peccato non merita una punizione più severa solo perché è unito a un altro peccato; infatti, la giustizia divina ha assegnato a ciascun peccato la sua punizione specifica. Ora, un peccato veniale merita una punizione eterna se viene unito a un peccato mortale in un’anima perduta, poiché all’inferno non esiste alcuna remissione dei peccati. Pertanto, anche il peccato veniale di per sé merita una punizione eterna. Ne consegue che nessun peccato meriti una punizione temporale.
+
+Al contrario, Gregorio afferma (Dial. iv, 39) che alcuni peccati meno gravi vengono perdonati dopo questa vita. Pertanto, non tutti i peccati vengono puniti in modo eterno.
+
+Rispondo che, come già detto sopra (A[3]), un peccato genera un debito di punizione eterna nella misura in cui causa un disordine irreparabile nell’ordine della giustizia divina, essendo contrario al principio stesso di tale ordine, ovvero allo scopo finale. Ora è evidente che in alcuni peccati esiste effettivamente un disordine, ma tale disordine non riguarda lo scopo finale stesso, bensì soltanto elementi relativi a questo scopo; in tali casi, l’attenzione rivolta a questi elementi può essere eccessiva o insufficiente, senza tuttavia compromettere l’ordine verso il fine ultimo. Ad esempio, quando una persona ama troppo qualcosa di temporale, ma non violerebbe mai i comandamenti di Dio per amor suo. Pertanto, tali peccati comportano soltanto una punizione temporanea, e non eterna.
+
+Risposta all’Obiezione 1: I peccati non differiscono infinitamente tra loro per quanto riguarda il loro orientamento verso un bene mutevole, che costituisce la sostanza dell’atto peccaminoso; tuttavia, differiscono infinitamente per quanto riguarda il loro allontanamento da qualcosa. Infatti, alcuni peccati consistono nell’allontanarsi dall’ultimo fine, mentre altri si manifestano attraverso un disordine che colpisce elementi riferibili a tale fine; e l’ultimo fine, in sé, differisce infinitamente dagli elementi a esso correlati.
+
+Risposta all’Obiezione 2: Il peccato originale comporta una punizione eterna, non a causa della sua gravità, ma in ragione dello stato del soggetto, ovvero di un essere umano privo di grazia, senza la quale non vi è alcuna remissione del peccato. La stessa risposta vale anche per l’Terza Obiezione riguardante il peccato veniale. Poiché l’[eternità](/positions/eternity) della punizione non corrisponde alla gravità del peccato, ma alla sua irremissibilità, come già detto sopra (A[3]).
 
 <span class="atom-split" data-atom="111" data-title="Whether the debt of punishment remains after sin?" data-chapter="Whether the debt of punishment remains after sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -5502,6 +7125,24 @@ they were so disordered by the sin committed, so that, to wit, the disorder may 
 contrary of that which caused it. Moreover punishment is requisite in order to restore the equality
 of justice, and to remove the scandal given to others, so that those who were scandalized at the sin
 many be edified by the punishment, as may be seen in the example of David quoted above.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che, dopo il peccato, non rimanga alcun debito di punizione. Infatti, se la causa viene eliminata, anche l’effetto scompare. Ma il peccato è la causa di tale debito di punizione; pertanto, quando il peccato viene eliminato, anche il debito di punizione cessa di esistere.
+
+Obiezione 2: Inoltre, il peccato viene eliminato quando l’uomo ritorna alla virtù. Ora, un uomo virtuoso merita non punizione, ma ricompensa. Pertanto, quando il peccato viene eliminato, il debito della punizione non esiste più.
+
+Obiezione 3: Inoltre, “Le punizioni sono una sorta di medicina” (Etica, ii, 3). Tuttavia, a una persona non viene somministrata della medicina dopo che la sua malattia è stata curata. Pertanto, quando il peccato viene eliminato, il debito legato alla punizione non sussiste più.
+
+Al contrario, è scritto (2 Re 12:13-14): “Davide disse a Natano: ‘Ho peccato contro il Signore’. E Natano rispose a Davide: ‘Anche il Signore ha perdonato il tuo peccato; non morirai. Tuttavia, poiché hai dato ai nemici del Signore l’occasione di blasfemare, il bambino che nascerà da te morirà’”. Pertanto, un uomo viene punito da Dio anche dopo che il suo peccato è stato perdonato; quindi il debito della punizione rimane, nonostante il peccato sia stato eliminato.
+
+Rispondo che, riguardo al peccato, si possono considerare due aspetti: l’atto stesso del peccato e la macchia che ne consegue. È evidente che, in tutti i peccati reali, anche quando l’atto peccaminoso cessa di essere compiuto, il peccato stesso rimane; infatti, l’atto peccaminoso rende l’uomo degno di punizione, poiché viola l’ordine della giustizia divina, e per tornare a tale ordine è necessario pagare una sorta di compensazione punitiva che restituisca all’uomo l’equilibrio giusto. Secondo quest’ordine divino, colui che si è lasciato andare troppo ai propri desideri, violando i comandamenti di Dio, soffre, volontariamente o meno, qualcosa che va contro le sue intenzioni. Questa ristabilizione dell’equilibrio giusto attraverso la compensazione punitiva si osserva anche nei danni arrecati agli altri esseri umani. Pertanto, è evidente che, anche quando l’atto peccaminoso cessa di essere compiuto, rimane comunque il debito della punizione. Tuttavia, se parliamo della rimozione della “macchia” del peccato, è chiaro che tale macchia non può essere eliminata dall’anima senza che essa si unisca a Dio; infatti, è proprio per essersi separata da Lui che l’anima ha perso la sua luminosità, e questa stessa luminosità costituisce la “macchia” del peccato. L’uomo, attraverso la propria volontà, può unirsi a Dio; pertanto, la macchia del peccato non può essere rimossa dall’uomo se la sua volontà non accetta l’ordine della giustizia divina: cioè, se non si assume volontariamente la punizione per i propri peccati o non sopporta pazientemente quella che Dio gli infligge. In entrambi i casi, la punizione svolge una funzione di compensazione. Quando la punizione è efficace nel ripristinare l’equilibrio giusto, essa perde in parte il proprio carattere punitivo; infatti, la natura stessa della punizione consiste nel contrastare la volontà umana. Tuttavia, anche se una punizione efficace è in sé contraria alla volontà dell’uomo, in questo specifico contesto e per questo scopo particolare, essa diventa volontaria. Pertanto, si può dire che la rimozione della macchia del peccato sia un atto volontario, ma in alcuni aspetti no; come abbiamo spiegato quando abbiamo parlato di ciò che è volontario e di ciò che non lo è (Q[6], A[6]). Quindi, possiamo affermare che, anche dopo la rimozione della macchia del peccato, possa ancora esistere un debito di punizione, ma non una semplice punizione, bensì una punizione efficace nel ripristinare l’equilibrio giusto.
+
+Risposta all’Obiezione 1: Proprio come, dopo che l’atto peccaminoso è terminato, la macchia rimane, come detto sopra (Q[86], A[2]), allo stesso modo anche il debito di punizione può persistere. Tuttavia, quando la macchia viene eliminata, il debito di punizione non sussiste più nello stesso modo, come descritto.
+
+Risposta all’Obiezione 2: L’uomo virtuoso non merita la punizione in sé, ma può meritarla come forma di soddisfazione delle proprie colpe; infatti, proprio la sua virtù richiede che egli compia un atto di compensazione per le offese arrecate a Dio o agli altri.
+
+Risposta all’Obiezione 3: Quando la macchia viene rimossa, la “ferita” del peccato viene guarita riguardo alla volontà umana. Tuttavia, la punizione è ancora necessaria affinché anche le altre facoltà dell’anima possano essere guarite, poiché sono state profondamente turbate dal peccato commesso; soltanto il contrario di ciò che ha causato quel disordine può rimediare a tale situazione. Inoltre, la punizione è indispensabile per ripristinare l’equità e eliminare lo scandalo causato al prossimo; coloro che sono stati offesi dal peccato possono così trarre beneficio dalla punizione stessa, come si evince dall’esempio di Davide citato in precedenza.
 
 <span class="atom-split" data-atom="112" data-title="Whether every punishment is inflicted for a sin?" data-chapter="Whether every punishment is inflicted for a sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -5641,6 +7282,24 @@ is brought up amid the sins of his parents, he is more eager to imitate them, an
 by their punishments, he would seem to be the more obstinate, and, therefore, to deserve more
 severe punishment.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra possibile che si possa essere puniti per il peccato di un altro. Infatti è scritto (Esodo 20:5): “Io sono. Dio, geloso; castigo la colpe dei padri sui figli, fino alla terza e quarta generazione di coloro che Mi odiano”; e (Matteo 23:35): “Affinché su di voi cada tutta la giusta vendetta per il sangue versato sulla terra”.
+
+Obiezione 2: Inoltre, la giustizia umana deriva dalla giustizia divina. Ora, secondo la giustizia umana, i bambini vengono talvolta puniti per i peccati dei loro genitori, come nel caso della tradizione alta. Pertanto, anche secondo la giustizia divina, una persona viene punita per il peccato di un’altra.
+
+Obiezione 3: Inoltre, se si rispondesse che il figlio viene punito non per il peccato del padre, ma per il proprio, poiché imita la malvagità di quest’ultimo, ciò non si potrebbe dire dei figli stessi, bensì di estranei che vengono puniti allo stesso modo di coloro i cui crimini imitano. Sembra quindi che i figli vengano puniti non per i propri peccati, ma per quelli dei loro genitori.
+
+Al contrario, è scritto (Ezechiele 18:20): “Il figlio non dovrà portare sulla propria testa le colpe del padre”.
+
+Rispondo che, se parliamo di quella punizione “soddisfacente” che si subisce volontariamente, allora è possibile sopportare anche la punizione altrui, nella misura in cui queste persone siano, in qualche modo, collegate a noi, come già detto sopra (A[7]). Tuttavia, se parliamo di una punizione inflitta a causa del peccato, poiché essa ha un carattere punitivo, allora ognuno viene punito soltanto per il proprio peccato, perché l’atto peccaminoso è qualcosa di personale. Ma se consideriamo una punizione “medicinale”, allora può accadere che uno venga punito per il peccato di un altro. Infatti, come già affermato (A[7]), le sofferenze subite nei beni materiali o addirittura nel corpo stesso possono essere considerate punizioni “medicinali” destinate al bene dell’anima. Pertanto, non c’è motivo per cui tali punizioni non possano essere inflitte da Dio o dall’uomo per il peccato altrui: ad esempio, sui figli per i loro genitori, o sui servitori per i loro padroni, poiché essi, in un certo senso, sono loro proprietà. Tuttavia, se i figli o i servitori partecipano al peccato commesso, questa punizione assume un carattere punitivo sia per colui che la subisce sia per colui a cui è inflitta; se invece non vi partecipano, essa ha soltanto un effetto “medicinale” per colui per il quale viene sopportata, mentre per colui che la subisce rappresenta semplicemente un mezzo per il suo bene spirituale, purché la tolleri con pazienza. Per quanto riguarda le punizioni spirituali, queste non sono soltanto di natura “medicinale”, poiché il bene dell’anima non è diretto verso un bene ancora più alto. Pertanto, nessuno subisce perdite nei beni spirituali senza che ci sia una sua colpa. Per questo motivo, [Agostino](/figures/augustine) afferma (Ep. ad Avit.) che tali punizioni non vengono inflitte per il peccato altrui, poiché, dal punto di vista dell’anima, il figlio non è proprietà del padre. Il Signore fornisce questa spiegazione dicendo (Ezechiel 18:4): “Tutte le anime sono mie”.
+
+Risposta all’Obiezione 1: Sembra che entrambi i passaggi citati si riferiscano a punizioni temporali o corporali, poiché i bambini sono considerati proprietà dei loro genitori e la posterità, quella dei propri antenati. Altrimenti, se si intendessero punizioni spirituali, queste dovrebbero essere interpretate in relazione all’imitazione del peccato; per questo motivo, nell’Esodo vengono aggiunte le parole “di coloro che Mi odiano”, mentre nel passaggio citato da Matteo (versetto 32) si legge: “Riempite dunque la misura dei vostri padri”. Si dice che i peccati dei padri vengano puniti nei loro figli, perché questi ultimi sono più propensi a commettere peccati, crescendo nell’ambiente dei crimini dei propri genitori: sia per abituarsi ad essi, sia imitandone l’esempio e sottomettendosi alla loro autorità. Inoltre, meritano una punizione più severa se, vedendo la punizione dei propri genitori, non cambiano comportamento. Il testo aggiunge “fino alla terza e quarta generazione”, poiché gli esseri umani di solito vivono abbastanza a lungo da vedere le tre o quattro generazioni successive; in questo modo sia i figli possono assistere ai peccati dei propri genitori e imitarli, sia i genitori possono vedere le punizioni dei propri figli e soffrirne.
+
+Risposta all’Obiezione 2: Le punizioni che la giustizia umana infligge a qualcuno per il peccato di un altro sono di natura fisica e temporale. Sono inoltre rimedi o strumenti utili per prevenire futuri peccati, al fine di impedire sia a coloro che vengono puniti sia ad altri di commettere simili errori.
+
+Risposta all’Obiezione 3: Si dice che coloro che sono strettamente imparentati con i colpevoli vengano puniti, piuttosto che gli estranei, per i peccati altrui; sia perché la punizione dei parenti influisce in qualche modo anche su coloro che hanno commesso il peccato – come già detto, poiché il figlio è considerato una proprietà del padre – sia perché gli esempi e le punizioni che avvengono all’interno della propria famiglia sono più efficaci nel suscitare rimorso. Pertanto, quando un uomo cresce in mezzo ai peccati dei propri genitori, è più propenso a imitarli; e se non viene dissuaso dalle loro punizioni, sembra essere ancora più ostinato, e quindi meritevole di una punizione più severa.
+
 <span class="atom-split" data-atom="114" data-title="OF VENIAL AND MORTAL SIN (SIX ARTICLES)" data-chapter="OF VENIAL AND MORTAL SIN (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 In the next place, since venial and mortal sins differ in respect of the debt of punishment, we
@@ -5653,6 +7312,17 @@ Under the first head there are six points of inquiry:
 (4) Whether a venial sin can become mortal?
 (5) Whether a venial sin can become mortal by reason of an aggravating circumstance?
 (6) Whether a mortal sin can become venial?
+
+<span class="qlang-split" data-lang="it"></span>
+
+In secondo luogo, poiché i peccati veniali e mortali differiscono per quanto riguarda il debito di punizione, dobbiamo considerarli attentamente. Prima di tutto, esamineremo il peccato veniale in relazione al peccato mortale; in seguito, analizzeremo il peccato veniale in sé stesso.  
+All’interno della prima categoria di indagini vi sono sei punti principali:  
+(1) Se il peccato veniale possa essere correttamente considerato analogo al peccato mortale;  
+(2) Se essi differiscano in natura generale;  
+(3) Se il peccato veniale costituisca una disposizione verso il peccato mortale;  
+(4) Se un peccato veniale possa trasformarsi in peccato mortale;  
+(5) Se un peccato veniale possa diventare mortale a causa di circostanze aggravanti;  
+(6) Se un peccato mortale possa ridursi a peccato veniale.
 
 <span class="atom-split" data-atom="115" data-title="Whether venial sin is fittingly condivided with mortal sin?" data-chapter="Whether venial sin is fittingly condivided with mortal sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -5732,6 +7402,28 @@ because he does not fix his end in it, but as using it, by referring it to God, 
 Reply to Objection 4: Mutable good is not considered to be a term in contraposition to the
 immutable good, unless one's end is fixed therein: because what is referred to the end has not the
 character of finality.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra inappropriato considerare il peccato veniale come qualcosa che possa essere condiviso con il peccato mortale. Infatti, [Agostino](/figures/augustine) afferma (Contra Faustus, xxii, 27): “Il peccato è una parola, un atto o un desiderio contrario alla [legge eterna](/concepts/eternal_law)”. Ma il fatto di essere contrario alla legge eterna rende un peccato mortale; pertanto, ogni peccato sarebbe mortale. Di conseguenza, il peccato veniale non potrebbe mai essere considerato condivisibile con il peccato mortale.
+
+Obiezione 2: Inoltre, l’Apostolo dice (1 Corinzi 10:31): “Che mangiate, che beviate o che facciate qualsiasi altra cosa, fate tutto per la gloria di Dio”. Chiunque pecca viola questo comandamento, poiché il peccato non viene compiuto per la gloria di Dio. Pertanto, poiché violare un comandamento equivale a commettere un peccato mortale, sembra che chiunque pecca commetta un peccato mortale.
+
+Obiezione 3: Inoltre, chi si attacca a qualcosa per amore lo fa o perché ne gode o perché lo utilizza, come afferma Agostino (De Doctrina Christiana, I, 3,4). Ma nessuno, quando pecca, si attacca a un bene mutevole semplicemente perché lo utilizza: poiché non lo riferisce a quel bene che ci dona la felicità, il quale, in senso proprio, è proprio l’atto di utilizzarlo, secondo Agostino stesso. Pertanto, chi pecca gode di un bene mutevole. Ora, “godere di ciò che dovremmo utilizzare rappresenta una perversione umana”, come dice ancora Agostino (Qq., lxxxiii, qu. 30). Poiché “perversione” indica un peccato mortale, sembra quindi che chi pecca commetta un peccato mortale.
+
+Obiezione 4: Inoltre, chi si avvicina a un certo termine, per quel solo fatto si allontana dall’opposto. Ora, chi pecca si avvicina a un bene mutevole e, di conseguenza, si allontana dal bene immutabile; per questo motivo commette un peccato mortale. Pertanto, il peccato veniale viene in modo inappropriato considerato paragonabile al peccato mortale.
+
+Al contrario, Agostino afferma (Trattato xli contro Gioanni) che “un crimine è ciò che merita la condanna, mentre un peccato veniale non lo merita”. Tuttavia, il termine “crimine” indica solitamente un peccato mortale; pertanto, è appropriato considerare i peccati veniali come categorie affini ai peccati mortali.
+
+Rispondo che alcuni termini, se intesi nel loro senso proprio, non appaiono essere reciprocamente opposti; tuttavia lo diventano quando vengono utilizzati in senso metaforico. Ad esempio, “sorridere” non è contrario a “essere asciutto”; ma se parliamo dei prati fioriti e rigogliosi di verde, allora questo concetto diventa opposto alla siccità. Allo stesso modo, il termine “mortale”, se inteso letteralmente come riferimento alla morte del corpo, non implica alcuna opposizione ai peccati veniali né appartiene allo stesso genere; ma se utilizzato in senso metaforico, riferendosi al peccato, diventa opposto a questi ultimi. Il peccato, essendo una malattia dell’anima, è considerato “mortale” perché causa un danno irreparabile, ovvero la corruzione di principi fondamentali per la vita spirituale; tale danno può essere sanato soltanto con il potere di Dio. Pertanto, i peccati che alterano l’ordine delle cose volte al fine ultimo non possono essere riparati da alcun principio intrinseco, ma solo dal potere divino. Di conseguenza, tali peccati sono definiti “mortali”, poiché irreparabili; al contrario, i peccati che influenzano negativamente l’ordine delle cose verso il fine ultimo, pur mantenendo intatto tale ordine, possono essere riparati e sono quindi considerati “veniali”. Un peccato diventa veniale quando la pena prevista per esso viene sospesa; ciò avviene non appena il peccato stesso cessa di esistere. Pertanto, i concetti di “mortale” e “veniale” sono reciprocamente opposti in termini di riparabilità o irreparabilità del danno causato; questo discorso si riferisce ai principi intrinseci alla natura del peccato, e non al potere divino che può sanare qualsiasi male, sia fisico che spirituale. Per queste ragioni, il peccato veniale è considerato qualcosa di condivisibile con il peccato mortale.
+
+Risposta all’Obiezione 1: La divisione del peccato in veniale e mortale non rappresenta una suddivisione di un genere nelle sue specie, le quali condividono ugualmente la natura comune a quel genere; bensì si tratta di una suddivisione di un termine analogo nelle sue parti rispetto alle quali esso viene predicato: prima della parte veniale, poi di quella mortale. Pertanto, la nozione perfetta di peccato, così come fornita da Agostino, si applica al peccato mortale. D’altra parte, il peccato veniale è definito “peccato” in relazione a una nozione imperfetta di peccato, e precisamente in rapporto al peccato mortale; allo stesso modo, un accidente viene definito “essere” in relazione alla sostanza, sempre in riferimento a una nozione imperfetta di essere. Infatti, il peccato veniale non si contrapone direttamente alla legge: chi commette un peccato veniale né fa ciò che la legge vieta, né omette ciò che essa prescrive; piuttosto, agisce “al di fuori” della legge, poiché non segue il modo di ragionare previsto da essa.
+
+Risposta all’Obiezione 2: Questo precetto dell’Apostolo è affermativo, e pertanto non è vincolante in ogni circostanza. Di conseguenza, chiunque non indirizzi effettivamente tutte le proprie azioni alla gloria di Dio non agisce contro questo precetto. Pertanto, per evitare il peccato mortale ogni volta che si manca di indirizzare un’azione verso la gloria di Dio, è sufficiente riferire se stessi e tutto ciò che si possiede a Dio in modo abituale. Ora, il peccato veniale esclude soltanto l’indirizzamento effettivo dell’atto umano alla gloria di Dio, ma non quello abituale; poiché non esclude la carità, che indirizza l’uomo verso Dio in modo abituale. Pertanto, non segue necessariamente che chi commette un peccato veniale commetta anche un peccato mortale.
+
+Risposta all’Obiezione 3: Chi pecca in modo veniale si attacca ai beni temporali non perché li goda veramente, poiché non li considera come scopo finale delle proprie azioni, ma perché li utilizza, riferendoli a Dio, sebbene non sempre consapevolmente.
+
+Risposta all’Obiezione 4: Il bene mutabile non viene considerato un concetto opposto al bene immutabile, a meno che lo scopo di una persona non sia legato a quest’ultimo; infatti, ciò che è collegato a uno scopo particolare non possiede il carattere della finalità.
 
 <span class="atom-split" data-atom="116" data-title="Whether mortal and venial sin differ generically?" data-chapter="Whether mortal and venial sin differ generically?" data-kind="atom" data-srclang="en"></span>
 
@@ -5845,6 +7537,24 @@ Reply to Objection 3: A good work is not, of itself, a disposition to mortal sin
 the matter or occasion of mortal sin accidentally; whereas a venial sin, of its very nature, disposes
 to mortal sin, as stated.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il peccato veniale non costituisca una disposizione al peccato mortale. Infatti, ciò che è contrario a un certo peccato non costituisce necessariamente una disposizione ad altro peccato simile. Tuttavia, sia il peccato veniale che quello mortale sono considerati contrari l’uno all’altro, come già detto sopra (A[1]). Pertanto, il peccato veniale non è una disposizione al peccato mortale.
+
+Obiezione 2: Inoltre, un atto dispone verso qualcosa di simile per genere o specie; pertanto si afferma nell’Etica ii, 1,2 che “da atti simili nascono disposizioni e abitudini simili”. Tuttavia, il peccato mortale e il peccato veniale differiscono per genere o specie, come già detto sopra (A[2]). Pertanto, il peccato veniale non dispone verso il peccato mortale.
+
+Obiezione 3: Inoltre, se un peccato viene definito veniale perché conduce al peccato mortale, ne consegue che qualsiasi cosa conduca al peccato mortale è anch’essa un peccato veniale. Ora, ogni opera buona conduce al peccato mortale; pertanto [Agostino](/figures/augustine) afferma nella sua Regola (Ep. ccxi) che “l’orgoglio attende in agguato le opere buone per distruggerle”. Quindi anche le opere buone sarebbero peccati veniali, il che è assurdo.
+
+Al contrario, è scritto (Ecclesiaste 19:1): “Chi disprezza le piccole cose cadrà poco a poco”. Chi commette peccati veniali sembra proprio disprezzare queste piccole cose; pertanto, poco a poco, si trova ad cadere nel peccato mortale.
+
+Rispondo che una disposizione è un tipo di causa; pertanto, poiché esistono due modi diversi di essere causa, esistono anche due modi diversi di essere disposizione. Esiste infatti una causa che agisce direttamente sulla produzione dell’effetto, come il calore che riscalda; e c’è una causa che agisce indirettamente, eliminando un ostacolo, come colui che rimuove un pilastro viene considerato responsabile anche della pietra che vi si trova sopra. Di conseguenza, un atto peccaminoso può predisporre a qualcosa in due modi: innanzitutto, in modo diretto, e in questo caso predisponde a un atto dello stesso genere; ad esempio, un peccato veniale di per sé non predispone necessariamente a un peccato mortale, poiché i due differiscono per genere. Tuttavia, lo stesso peccato veniale può, in seguito, predisporre a un peccato mortale, poiché le abitudini peccaminose possono rafforzarsi attraverso ripetuti atti veniali, aumentando così il desiderio di peccare e portando il peccatore a scegliere azioni che, in sé, sono mortali. In secondo luogo, un atto umano può predisporre a qualcosa eliminandone gli ostacoli; in questo modo, anche un peccato veniale può portare a un peccato mortale, poiché chi commette un peccato veniale si allontana da un certo ordine morale e, abituando la propria volontà a non seguire le regole nelle cose minori, finisce per non sottomettersi nemmeno alle leggi morali fondamentali, scegliendo azioni che sono intrinsecamente mortali.
+
+Risposta all’Obiezione 1: Il peccato veniale e il peccato mortale non sono condivisi in modo contrario l’uno all’altro, come se fossero specie dello stesso genere, come detto sopra (A[1], ad 1), ma piuttosto come un accidente è condiviso con una sostanza. Pertanto, un accidente può costituire una disposizione verso una [forma sostanziale](/concepts/forma_substantialis), così come un peccato veniale può predisporre a commettere un peccato mortale.
+
+Risposta all’Obiezione 2: Il peccato veniale non è simile al peccato mortale per specie; ma lo è per genere, poiché entrambi implicano una mancanza dell’ordine dovuto, sebbene in modi diversi, come affermato in (AA[1],2).
+
+Risposta all’Obiezione 3: Un’opera buona, di per sé, non costituisce una disposizione al peccato mortale; tuttavia può accidentalmente diventare l’oggetto o l’occasione di un peccato mortale; al contrario, un peccato veniale, per sua stessa natura, dispone alla commissione di un peccato mortale, come già detto.
+
 <span class="atom-split" data-atom="118" data-title="Whether a venial sin can become mortal?" data-chapter="Whether a venial sin can become mortal?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a venial sin can become a mortal sin. For [Augustine](/figures/augustine) in
@@ -5899,6 +7609,30 @@ Reply to Objection 4: A disposition that becomes a habit, is like an imperfect t
 species; thus imperfect science, by being perfected, becomes a habit. On the other hand, venial sin
 is a disposition to something differing generically, even as an accident which disposes to a substantial
 form, into which it is never changed.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra possibile che un peccato veniale possa trasformarsi in peccato mortale. Infatti, nell’interpretare le parole di Giovanni 3:36 (“Chi non crede nel Figlio non vedrà la vita”), Agostino afferma (Trattato XII su Giovanni): “Anche i peccati più lievi, cioè veniali, possono essere mortali se vengono sottovalutati”. Un peccato viene definito mortale quando causa la morte spirituale dell’anima; pertanto, un peccato veniale può effettivamente diventare mortale.
+
+Obiezione 2: Inoltre, un atto che si svolge nell’ambito della sensibilità prima dell’approvazione della ragione è un peccato veniale, ma dopo tale approvazione diventa un peccato mortale, come già affermato sopra (Q[74], A[8], ad 2). Pertanto, un peccato veniale può trasformarsi in un peccato mortale.
+
+Obiezione 3: Inoltre, il peccato veniale e il peccato mortale differiscono come una malattia curabile e una malattia incurabile, come detto sopra (A[1]). Ma una malattia curabile può diventare incurabile. Pertanto, anche un peccato veniale può trasformarsi in peccato mortale.
+
+Obiezione 4: Inoltre, una disposizione può trasformarsi in un [abitudine](/concepts/custom). Ora, il peccato veniale è una disposizione che può portare al peccato mortale, come affermato in (A[3]). Pertanto, un peccato veniale può diventare mortale.
+
+Rispondo che il fatto che un peccato veniale possa diventare un peccato mortale può essere compreso in tre modi.  
+In primo luogo, si potrebbe intendere che lo stesso atto sia inizialmente veniale e poi diventi mortale; ciò è impossibile: poiché un peccato, come qualsiasi atto morale, consiste principalmente in un atto della volontà; quindi un atto non è moralmente lo stesso se la volontà cambia, anche se l’atto fisicamente continua. Se invece la volontà non cambia, non è possibile che un peccato veniale diventi mortale.  
+In secondo luogo, si potrebbe intendere che un peccato genericamente veniale diventi mortale; ciò è possibile, nel caso in cui l’intento di compiere quel peccato veniale sia diretto verso un peccato mortale, come già accennato sopra.  
+In terzo luogo, si potrebbe intendere che molti peccati veniali costituiscano insieme un peccato mortale; se ciò si intende nel senso che la somma di molti peccati veniali generi un peccato mortale, allora è falso: poiché tutti i peccati veniali del mondo non possono comportare una pena equivalente a quella di un peccato mortale. Ciò è evidente sia per quanto riguarda la durata della pena – il peccato mortale comporta una punizione eterna, mentre il peccato veniale solo temporanea – sia per quanto riguarda l’intensità del dolore: i peccati mortali meritano una punizione che consiste nella privazione della visione di Dio, una pena senza eguali; inoltre, i peccati mortali causano un rimorso profondo e un dolore fisico intenso. Tuttavia, non è detto che le pene associate ai vari tipi di peccati veniali siano necessariamente disproporzionate tra loro.  
+Se invece ciò si intende nel senso che molti peccati veniali contribuiscono in modo determinante alla formazione di un peccato mortale, allora è vero, come già dimostrato sopra.
+
+Risposta all’Obiezione 1: Agostino si riferisce al fatto che molti peccati veniali, nel loro insieme, possano rendere un peccato mortale.
+
+Risposta all’Obiezione 2: Lo stesso movimento della sensualità che precede il consenso della ragione non può mai diventare un peccato mortale; ma il movimento della ragione nel dare il proprio consenso è un peccato mortale.
+
+Risposta all’Obiezione 3: La malattia del corpo non è un atto, ma una condizione permanente; pertanto, pur rimanendo la stessa malattia, essa può subire cambiamenti. D’altra parte, il peccato veniale è un atto transitorio che non può essere ripetuto: quindi, in questo senso, il paragone non regge.
+
+Risposta all’Obiezione 4: Una disposizione che diventa abitudine è simile a una cosa imperfetta della stessa specie; pertanto, la scienza imperfetta, venendo perfezionata, diventa un’abitudine. D’altra parte, il peccato veniale rappresenta una disposizione verso qualcosa che differisce in modo generico; è come un accidente che predisponde a una forma sostanziale, nella quale mai si trasforma.
 
 <span class="atom-split" data-atom="119" data-title="Whether a circumstance can make a venial sin to be mortal?" data-chapter="Whether a circumstance can make a venial sin to be mortal?" data-kind="atom" data-srclang="en"></span>
 
@@ -5970,6 +7704,27 @@ lasting, and delectation to be morose, on account of the approval of the deliber
 Reply to Objection 3: A circumstance does not make a good act to be evil, unless it constitute
 the species of a sin, as we have stated above (Q[18], A[5] , ad 4).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che una determinata circostanza possa rendere un peccato veniale mortale. Infatti, [Agostino](/figures/augustine) afferma in un sermone sul Purgatorio (De Sanctis, serm. xli) che “se la rabbia dura per molto tempo o se l’ubriachezza è frequente, tali comportamenti diventano peccati mortali”. Tuttavia, rabbia e ubriachezza sono generalmente considerati peccati veniali, non mortali; altrimenti sarebbero sempre considerati peccati mortali. Pertanto, una circostanza può effettivamente rendere un peccato veniale mortale.
+
+Obiezione 2: Inoltre, il Maestro afferma (Sentenza ii, D, 24) che la delizia, se di natura malinconica [*Vedi Q[74], A[6, è un peccato mortale, ma che, se non lo è, è un peccato veniale. Ora, la malinconia rappresenta una circostanza; pertanto, una circostanza può trasformare un peccato veniale in un peccato mortale.
+
+Obiezione 3: Inoltre, il male e il bene differiscono molto di più dal peccato veniale e dal peccato mortale, entrambi considerati genericamente malvagi. Ma una determinata circostanza può trasformare un atto buono in uno cattivo, come quando una persona dona del denaro per vanità. Pertanto, molto di più una tale circostanza può rendere un peccato veniale un peccato mortale.
+
+Al contrario, poiché una circostanza è un accidente, la sua “quantità” non può superare quella dell’atto stesso, derivante dal genere di quell’atto, poiché il soggetto supera sempre il proprio accidente. Pertanto, se un atto è veniale in base al suo genere, non può diventare mortale a causa di un accidente: infatti, in qualche modo, il peccato mortale supera infinitamente la “quantità” del peccato veniale, come è evidente da quanto detto precedentemente (Q[72], A[5], ad 1; Q[87], A[5], ad 1).
+
+Rispondo che, come già detto sopra (Q[7], A[1]; Q[18], A[5], ad 4; AA[10], 11), quando trattiamo delle circostanze, una circostanza, in sé stessa, è un elemento accidentale dell’atto morale; tuttavia, una circostanza può essere considerata come la differenza specifica di un atto morale, e in tal caso perde la sua natura di semplice circostanza per diventare invece l’elemento che costituisce la specie specifica di quell’atto. Ciò avviene nei peccati: quando una certa circostanza aggiunge alla condotta morale una deformità che la rende contraria a un valore morale fondamentale, come la castità; ad esempio, se un uomo ha rapporti con una donna diversa dalla sua moglie, il suo atto è contrario alla castità. Ma se questa altra donna è la moglie di un altro uomo, allora si aggiunge una ulteriore deformità che contraddice il valore della giustizia, poiché si tratta di appropriarsi di ciò che appartiene a un altro; e in questo caso tale circostanza costituisce effettivamente una nuova specie di peccato, ovvero l’adulterio.  
+Tuttavia, è impossibile che una semplice circostanza trasformi un peccato veniale in un peccato mortale, a meno che non aggiunga una deformità tale da farlo rientrare in un’altra specie di peccato. Come già detto sopra (A[1]), la deformità di un peccato veniale consiste in un disordine relativo agli elementi dell’atto morale che sono direttamente legati all’obiettivo finale di quell’atto, mentre la deformità di un peccato mortale riguarda il fine ultimo stesso dell’azione umana. Pertanto, è evidente che una circostanza non può rendere un peccato veniale mortale, a meno che non lo trasformi effettivamente in un’altra specie di peccato, diventando così l’elemento che ne costituisce la differenza specifica.
+
+Risposta all’Obiezione 1: La durata nel tempo non è un elemento che trasforma un atto in un peccato di un certo tipo, né lo sono la frequenza o la [consuetudine](/concepts/custom), salvo forse in casi accidentali. Un atto, infatti, non acquisisce una nuova natura morale attraverso la ripetizione o la durata, a meno che per caso non intervenga qualcosa che ne modifichi la natura, come l’obbedienza mancata, il disprezzo o simili.  
+Pertanto, possiamo rispondere all’obiezione sostenendo che poiché la rabbia è un movimento dell’anima tendente a causare danno al prossimo, se tale movimento conduce a un atto considerato peccato mortale – come l’omicidio o il furto – allora anche la rabbia stessa è un peccato mortale. Se invece si tratta di un peccato veniale, ciò deriva dall’imperfezione dell’atto stesso, soprattutto quando tale rabbia è un movimento improvviso e dettato dalla sensualità; se invece dura a lungo, la ragione interviene per moderarla, facendo ritornare l’atto alla sua natura originale.  
+Per quanto riguarda l’ubriachezza, essa è considerata un peccato mortale in sé stessa; infatti, rendere se stesso incapace di usare la ragione soltanto per il piacere dell’alcol è palesemente contrario alla virtù. Può essere considerata un peccato veniale solo in caso di ignoranza o debolezza: ad esempio, se una persona non conosce bene l’effetto dell’alcol o la propria incapacità di controllarsi, e quindi non intende ubriacarsi; in tal caso, l’ubriachezza stessa non viene considerata un peccato, ma soltanto il consumo eccessivo di alcol. Se invece una persona si ubriaca frequentemente, tale ignoranza non può più essere scusa: la sua volontà sembra scegliere deliberatamente di cedere alla tentazione dell’alcol, rendendo così l’atto un peccato vero e proprio.
+
+Risposta all’Obiezione 2: La delizia malinconica non costituisce un peccato mortale se non in quei casi in cui tale delizia rientri genericamente tra i peccati mortali. In tali situazioni, se la delizia non è di natura malinconica, si tratta comunque di un peccato veniale a causa dell’imperfezione dell’atto stesso, come abbiamo già detto riguardo alla rabbia (cfr. punto 1): infatti, la rabbia è considerata un’emozione duratura, mentre la delizia malinconica deriva dall’approvazione della ragione riflessiva.
+
+Risposta all’Obiezione 3: Una circostanza non rende un atto buono cattivo, a meno che essa non costituisca di per sé il genere di un peccato, come abbiamo già affermato sopra (Q[18], A[5], ad 4).
+
 <span class="atom-split" data-atom="120" data-title="Whether a mortal sin can become venial?" data-chapter="Whether a mortal sin can become venial?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a mortal sin can become venial. Because venial sin is equally
@@ -6022,6 +7777,24 @@ evil in themselves, cannot be well done for any good end." Now murder is the sla
 and this can nowise be well done. But, as Augustine states (De Lib. Arb. i, 4,5), the judge who
 sentences a thief to death, or the soldier who slays the enemy of the common weal, are not murderers.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un peccato mortale possa diventare veniale. Poiché il peccato veniale è altrettanto lontano dal peccato mortale quanto quest’ultimo lo è dal peccato veniale. Ma un peccato veniale può diventare mortale, come detto sopra (A[5]). Pertanto, anche un peccato mortale può diventare veniale.
+
+Obiezione 2: Inoltre, si dice che il peccato veniale e quello mortale differiscano nel fatto che colui che commette un peccato mortale ama una creatura più di Dio, mentre colui che commette un peccato veniale ama la creatura meno di Dio. Ora, può accadere che una persona, commettendo un peccato genericamente mortale, ami una creatura meno di Dio; ad esempio, se qualcuno, ignaro del fatto che la semplice fornicazione sia un peccato mortale e contrariamente all’amore per Dio, commette tale peccato, pur essendo disposto, per amore di Dio, a astenersene se sapesse che agire in quel modo è contrario all’amore divino. Pertanto, il suo atto costituirebbe un peccato veniale; e di conseguenza, anche un peccato mortale può trasformarsi in uno veniale.
+
+Obiezione 3: Inoltre, come già detto sopra (A[5], OBJ[3]), il bene è più lontano dal male di quanto lo sia un peccato veniale dal peccato mortale. Ma un atto che è malvagio in sé può diventare buono; pertanto uccidere una persona può essere un atto di giustizia, come quando un giudice condanna un ladro a morte. Molto di più, quindi, un peccato mortale può trasformarsi in un peccato veniale.
+
+Al contrario, ciò che è eterno non può mai diventare temporale. Tuttavia, il peccato mortale merita una punizione eterna, mentre il peccato veniale merita una punizione temporale. Pertanto, un peccato mortale non può mai trasformarsi in peccato veniale.
+
+Rispondo che il peccato veniale e quello mortale differiscono tra loro in quanto perfetti e imperfetti nel genere del peccato, come è stato detto sopra (A[1], ad 1). Ora, ciò che è imperfetto può diventare perfetto attraverso un qualche tipo di aggiunta; pertanto, un peccato veniale può trasformarsi in peccato mortale se vi si aggiunge qualcosa che appartiene al genere del peccato mortale, come quando un uomo pronuncia una parola vana allo scopo di commettere adulterio. D’altra parte, ciò che è perfetto non può diventare imperfetto attraverso alcuna aggiunta; quindi, un peccato mortale non può trasformarsi in peccato veniale se vi si aggiunge qualcosa che appartiene al genere del peccato veniale, poiché il peccato non viene ridotto di gravità se un uomo commette adulterio soltanto allo scopo di pronunciare una parola vana; anzi, tale azione lo aggrava ulteriormente. Tuttavia, un peccato che è genericamente mortale può diventare veniale a causa dell’imperfezione dell’atto compiuto, poiché in tal caso non soddisfa completamente le condizioni richieste per essere considerato un atto morale; si tratta infatti di un atto improvviso e non deliberato, come è evidente da quanto detto sopra (A[2]). Ciò avviene attraverso una sorta di “sottrazione”, ovvero della volontà deliberata che caratterizza un atto morale. Poiché un atto morale deriva dalla volontà deliberata, tale sottrazione distrugge la natura stessa di quell’atto.
+
+Risposta all’Obiezione 1: Il peccato veniale differisce dal peccato mortale come ciò che è imperfetto differisce da ciò che è perfetto, proprio come un ragazzo differisce da un uomo. Tuttavia, è il ragazzo a diventare uomo e non viceversa. Pertanto, questo argomento non è convincente.
+
+Risposta all’Obiezione 2: Se l’ignoranza fosse tale da scusare completamente il peccato – come nell’ignoranza di un pazzo o di un idiota – allora colui che commette adulterio in uno stato di tale ignoranza non commetterebbe alcun peccato, né mortale né veniale. Ma se l’ignoranza non è invincibile, allora essa stessa rappresenta un peccato e contiene in sé la mancanza dell’amore per Dio, nella misura in cui una persona trascura di imparare ciò che le permetterebbe di proteggersi nell’amore di Dio.
+
+Risposta all’Obiezione 3: Come afferma [Agostino](/figures/augustine) (Contra Mendacium vii), “quelle cose che sono cattive di per sé non possono mai essere compiute a fin di bene”. Ora, l’omicidio è l’uccisione di un innocente, e questo certamente non può mai essere considerato un atto giusto. Tuttavia, come sostiene Agostino (De Lib. Arb. i, 4,5), il giudice che condanna a morte un ladro, o il soldato che uccide un nemico del bene comune, non sono assassini.
+
 <span class="atom-split" data-atom="121" data-title="OF VENIAL SIN IN ITSELF (SIX ARTICLES)" data-chapter="OF VENIAL SIN IN ITSELF (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider venial sin in itself, and under this head there are six points of inquiry:
@@ -6031,6 +7804,16 @@ We must now consider venial sin in itself, and under this head there are six poi
 (4) Whether a good or a wicked angel can sin venially?
 (5) Whether the movements of unbelievers are venial sins?
 (6) Whether venial sin can be in a man with [original sin](/positions/original_sin) alone?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il peccato veniale in sé, e sotto questo aspetto ci sono sei punti da esaminare:  
+(1) Se il peccato veniale lascia una macchia nell’anima;  
+(2) I diversi tipi di peccato veniale, indicati con termini come “legna”, “fieno”, “paglia” (1 Corinzi 3:12);  
+(3) Se l’uomo possa commettere peccati veniali anche nello [stato](/concepts/state) di innocenza;  
+(4) Se un angelo buono o cattivo possa commettere peccati veniali;  
+(5) Se le azioni degli increduli possano essere considerate peccati veniali;  
+(6) Se un uomo possa commettere peccati veniali pur avendo soltanto l’[peccato originale](/positions/original_sin).
 
 <span class="atom-split" data-atom="122" data-title="Whether venial sin causes a stain on the soul?" data-chapter="Whether venial sin causes a stain on the soul?" data-kind="atom" data-srclang="en"></span>
 
@@ -6077,6 +7860,26 @@ God as their last end, is entirely cut off.
 
 On the contrary, in venial sin, man does not cleave to a
 creature as his last end: hence there is no comparison.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i peccati veniali causino una macchia nell’anima. Infatti, [Agostino](/figures/augustine) afferma (De Poenit., Hom. 50, inter. L., 2) che se i peccati veniali si moltiplicano, distruggono la [bellezza](/concepts/beauty) delle nostre anime, privandoci così degli abbracci del nostro coniuge celeste. Ma la macchia del peccato non è altro che la perdita della bellezza dell’anima. Pertanto, i peccati veniali causano davvero una macchia nell’anima.
+
+Obiezione 2: Inoltre, il peccato mortale provoca una macchia nell’anima, a causa dell’irregolarità dell’atto e delle inclinazioni del peccatore. Ma anche nel peccato veniale esistono irregolarità nell’atto e nelle inclinazioni; pertanto anche il peccato veniale provoca una macchia nell’anima.
+
+Obiezione 3: Inoltre, la macchia nell’anima è causata dal contatto con una cosa temporale, attraverso l’amore per essa, come detto sopra (Q[86], A[1]). Ma nel peccato veniale, l’anima entra in contatto con una cosa temporale a causa di un amore eccessivo. Pertanto, il peccato veniale lascia una macchia nell’anima.
+
+Al contrario, si legge (Efesini 5:27): “Affinché Egli possa presentarsi una chiesa gloriosa, senza macchia né ruga”, e la spiegazione aggiunge: “cioè, qualche peccato grave”. Pertanto, sembra appropriato che il peccato mortale causi una macchia nell’anima.
+
+Rispondo che, come già detto sopra (Q[86], A[1]), una “macchia” indica una perdita di bellezza dovuta al contatto con qualcosa; questo concetto, applicato alle cose materiali, è stato poi trasferito all’anima per analogia. Proprio come nel corpo esistono due tipi di bellezza – una derivante dalla disposizione interna degli organi e dai colori, l’altra dall’aspetto esteriore che ne deriva – anche nell’anima esistono due tipi di bellezza: una “abituale”, per così dire intrinseca, e un’altra “effettiva”, simile a un bagliore esterno. Il peccato veniale ostacola questa bellezza effettiva, ma non quella abituale; infatti, non distrugge né riduce l’“abitudine” alla carità e alle altre virtù, come dimostreremo più avanti (SS, Q[24], A[10]; Q[133], A[1], ad 2), ma soltanto impedisce la loro manifestazione pratica. Al contrario, una “macchia” indica qualcosa di permanente nella cosa contaminata; pertanto sembra che riguardi più una perdita di bellezza abituale che effettiva. Quindi, in senso stretto, il peccato veniale non causa alcuna “macchia” nell’anima. Tuttavia, se si afferma che possa provocarla, ciò avviene in senso limitato, ovvero nel grado in cui ostacola la bellezza derivante dalle azioni virtuose.
+
+Risposta all’Obiezione 1: Agostino si riferisce al caso in cui molti peccati veniali, in modo preparatorio, portano al peccato mortale; altrimenti tali peccati non separerebbero l’anima dal suo “coniuge celeste”.
+
+Risposta all’Obiezione 2: Nel peccato mortale, l’illegittimità dell’atto distrugge l’abitudine alla virtù, ma non nel peccato veniale.
+
+Risposta all’Obiezione 3: Nel peccato mortale, l’anima entra in contatto con una cosa temporale come proprio fine ultimo; pertanto, la perdita di quella luce della grazia che caratterizza coloro che, per carità, si attaccano a Dio come al loro scopo supremo viene completamente interrotta.
+
+Al contrario, nel peccato veniale, l’uomo non si attacca a una creatura come al proprio fine ultimo; pertanto non esiste alcuna analogia tra i due casi.
 
 <span class="atom-split" data-atom="123" data-title="Whether venial sins are suitably designated as \&quot;wood, hay, and stubble\&quot;?" data-chapter="Whether venial sins are suitably designated as \&quot;wood, hay, and stubble\&quot;?" data-kind="atom" data-srclang="en"></span>
 
@@ -6152,6 +7955,30 @@ to three, viz. to "wood," which remains longer in the fire; "stubble," which is 
 "hay," which is between these two: because venial sins are removed by fire, quickly or slowly,
 according as man is more or less attached to them.
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Vengono i peccati veniali definiti adeguatamente “legna, paglia e stoppia”?
+
+Obiezione 1: Sembra inappropriato definire i peccati veniali “legna”, “fieno” e “paglia”. Infatti, legno, fieno e paglia sono descritti (1 Corinzi 3:12) come elementi che si fondano su una base spirituale. I peccati veniali, invece, appartengono a qualcosa che è al di fuori di questa base spirituale, proprio come le opinioni false rientrano al di fuori del dominio della scienza. Pertanto, non è appropriato definire i peccati veniali “legna”, “fieno” e “paglia”.
+
+Obiezione 2: Inoltre, colui che accumula legna, paglia e stoppia “sarà salvato, tuttavia attraverso il fuoco” (1 Corinzi 3:15). Ma a volte l’uomo che commette un peccato veniale non verrà salvato nemmeno attraverso il fuoco, ad esempio quando muore in un peccato mortale al quale sono legati peccati veniali. Pertanto, i peccati veniali non vengono indicati in modo appropriato con termini come legna, paglia e stoppia.
+
+Obiezione 3: Inoltre, secondo l’Apostolo (1 Corinzi 3:12), coloro che “costruiscono d’oro, d’argento e di pietre preziose”, cioè coltivano l’amore per Dio e il prossimo e compiono opere buone, sono diversi da coloro che utilizzano legno, paglia e stoppia. Ma anche coloro che amano Dio e il prossimo e compiono opere buone commettono peccati veniali; infatti è scritto (1 Giovanni 1:8): “Se diciamo di non avere peccato, ci inganniamo”. Pertanto, questi tre elementi non sono adeguati per designare i peccati veniali.
+
+Obiezione 4: Inoltre, esistono molte più di tre differenze e gradi di peccati veniali; pertanto non è appropriato includerli tutti sotto questi tre categorie.
+
+Al contrario, l’Apostolo afferma (1 Corinzi 3:15) che colui che accumula legna, paglia e stoppia “sarà salvato, tuttavia attraverso il fuoco”; quindi subirà una punizione, ma non eterna. Ora, il debito di una punizione temporale appartiene propriamente ai peccati veniali, come già detto sopra (Q[87], A[5]). Pertanto, questi tre esempi indicano appunto i peccati veniali.
+
+Rispondo che alcuni hanno interpretato il “fondamento” su cui si basano le buone opere come una fede morta, rappresentata da oro, argento e pietre preziose; altri invece lo vedono come il simbolo di peccati mortali, indicati da legno, paglia e stoppia. Tuttavia, [Agostino](/figures/augustine) disapprova questa interpretazione (De Fide et Operis, XV), poiché, come afferma l’Apostolo in Galati 5:21, colui che compie opere carnali “non otterrà il regno di Dio”, ovvero la salvezza; mentre chi si impegna in atti considerati vili (“legno, paglia, stoppia”) “sarà salvato, ma attraverso il fuoco”. Pertanto, legno, paglia e stoppia non possono essere intesi come simboli di peccati mortali. Altri sostengono che tali elementi rappresentino buone opere, effettivamente basate sull’edificio spirituale, ma mescolate con peccati veniali; ad esempio, quando una persona si assume la responsabilità della famiglia – un atto nobile – un eccessivo affetto per moglie, figli o beni materiali può influenzare le sue decisioni, anche se, sotto il volere di Dio, ciò non lo spingerà a compiere atti contrari alla volontà divina. Tuttavia nemmeno questa interpretazione sembra ragionevole: tutte le buone opere, infatti, sono legate all’amore per Dio e il prossimo; per questo vengono rappresentate da elementi preziosi, non certo da materiali volgari come legno, paglia o stoppia. Pertanto, dobbiamo riconoscere che proprio i peccati veniali, quelli che si insinuano nella vita di coloro che sono troppo attaccati alle cose terrene, sono indicati da questi simboli. Proprio come legno, paglia e stoppia vengono conservati in una casa senza farne parte integrante e possono essere distrutti, così anche i peccati veniali aumentano nella vita di un uomo, ma l’edificio spirituale rimane intatto; per questi peccati l’uomo soffre prove temporanee in questa vita o nel purgatorio dopo la morte, ma alla fine viene salvato per sempre.
+
+Risposta all’Obiezione 1: Si dice che i peccati veniali non siano “edificati” sulla fondazione spirituale, non perché vi siano posizionati direttamente sopra di essa, ma perché vi si trovino accanto; allo stesso modo in cui è scritto nel Salmo 136:1: “sulle acque di Babilonia”, cioè “accanto alle acque”: perché i peccati veniali non distruggono l’intero edificio spirituale.
+
+Risposta all’Obiezione 2: Non si dice che tutti coloro che costruiscono legna, paglia e rami secchi saranno salvati, ma soltanto coloro che costruiscono “sulla fondazione”. E questa fondazione non è la fede morta, come alcuni hanno ritenuto, bensì la fede ravvivata dalla carità, secondo Efesini 3:17: “Radicati e fondata nella carità”. Pertanto, colui che muore in peccato mortale insieme a peccati veniali possiede effettivamente legna, paglia e rami secchi, ma non ha costruito sull’edificio spirituale; di conseguenza, non sarà salvato nel modo descritto.
+
+Risposta all’Obiezione 3: Anche se coloro che si ritirano dalle cure delle cose temporali commettono talvolta peccati veniali, questi sono di lieve entità e, nella maggior parte dei casi, vengono purificati dalla fervore della carità; pertanto non accumulano peccati veniali, poiché tali peccati non rimangono a lungo in loro. Al contrario, i peccati veniali di coloro che sono impegnati nelle faccende terrene durano più a lungo, poiché non riescono a ricorrere con frequenza alla fervore della carità per eliminarli.
+
+Risposta all’Obiezione 4: Come afferma il Filosofo (De Coelo i, testo 2), “tutte le cose sono comprese in tre categorie: l’inizio, il mezzo e la fine”. Pertanto, tutti i gradi dei peccati veniali possono essere ridotti a tre tipi: il “legno”, che rimane più a lungo nel fuoco; la “paglia”, che brucia immediatamente; e l“erba secca”, che si trova tra questi due estremi. I peccati veniali, infatti, vengono eliminati dal fuoco, in modo rapido o lento, a seconda del grado di attaccamento dell’uomo ad essi.
+
 <span class="atom-split" data-atom="124" data-title="Whether man could commit a venial sin in the state of innocence?" data-chapter="Whether man could commit a venial sin in the state of innocence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man could commit a venial sin in [the state](/concepts/state) of innocence.
@@ -6220,6 +8047,24 @@ its destroying that state: this a venial sin cannot do. And because the integrit
 is incompatible with any inordinateness whatever, the result is that the first man could not sin
 venially, before committing a mortal sin.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra possibile che l’uomo possa commettere un peccato veniale nella [stato](/concepts/state) di innocenza. Poiché in 1 Timoteo 2:14 si legge “Adamo non fu sedotto”, un commento afferma: “Non avendo conosciuto la severità di Dio, era possibile che egli pensasse erroneamente di aver commesso un peccato veniale”. Ma non avrebbe potuto pensarlo se non fosse stato in grado di commettere effettivamente un peccato veniale. Pertanto, è possibile che l’uomo commetta un peccato veniale senza commettere un peccato mortale.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (Genesi ad litteram xi, 5): “Non dobbiamo supporre che il tentatore avrebbe potuto sconfiggere l’uomo, se prima non fosse sorto nell’anima sua un desiderio di vanità che avrebbe dovuto essere frenato”. Ora, quel desiderio di vanità che precedette la sconfitta dell’uomo, e che si concretizzò nella sua caduta in peccato mortale, non poteva essere altro che un peccato veniale. Allo stesso modo, Agostino dice (Genesi ad litteram xi, 5) che “l’uomo fu tentato da un certo desiderio di sperimentare, quando vide che la donna non morì dopo aver mangiato il frutto proibito”. Inoltre, sembra che in Eva esistesse una certa sfiducia nelle parole del Signore, come si evince dalla sua frase (Genesi 3:3): “Perché forse moriremo”. Ora, questi sembrano essere stati peccati veniali. Pertanto, l’uomo poteva commettere un peccato veniale prima di commettere un peccato mortale.
+
+Obiezione 3: Inoltre, il peccato mortale è più contrario all’integrità dello stato originale dell’uomo di quanto lo sia il peccato veniale. Ora, l’uomo potrebbe commettere un peccato mortale nonostante l’integrità dello stato originale; pertanto, potrebbe anche commettere un peccato veniale.
+
+Al contrario, ogni peccato merita una qualche punizione. Tuttavia, nulla di punitivo era possibile nello stato di innocenza, come afferma Agostino (De Civ. Dei xiv, 10). Pertanto, un uomo in tale stato avrebbe potuto commettere un peccato senza che ciò lo privasse di quella condizione di integrità. Ma il peccato veniale non altera lo stato dell’uomo; quindi, non sarebbe stato possibile commettere un peccato veniale.
+
+Rispondo che è generalmente ammesso che l’uomo non possa commettere un peccato veniale nello stato di innocenza. Tuttavia, ciò non deve essere inteso nel senso che, a causa della perfezione di tale stato, il peccato che per noi è veniale sarebbe stato mortale per lui se lo avesse commesso. La dignità umana, infatti, può aggravare un peccato, ma non lo trasforma in un altro genere di peccato, a meno che non vi sia una deformità aggiuntiva derivante dall’ disobbedienza, da un voto o simili circostanze, il che non riguarda il caso in esame. Pertanto, ciò che è veniale in sé non potrebbe essere trasformato in mortale a causa dell’eccellenza dello stato originario dell’uomo. Dobbiamo quindi intendere che l’uomo non potesse commettere peccati veniali, perché gli era impossibile compiere un atto che di per sé fosse veniale, prima di perdere l’integrità dello stato originario attraverso la commissione di un peccato mortale. La ragione di ciò è che il peccato veniale si verifica in noi o a causa dell’imperfezione dell’atto stesso – come nel caso di movimenti improvvisi – oppure a causa di qualche disordine riguardo agli scopi finali, quando l’ordine dovuto non viene rispettato. Ora, ciascuno di questi casi deriva da un difetto nell’ordine delle facoltà umane, poiché le facoltà inferiori non sono controllate da quelle superiori. Il movimento improvviso della sensualità, ad esempio, è dovuto al fatto che la sensualità non è perfettamente sottomessa alla ragione; allo stesso modo, il movimento improvviso della ragione stessa deriva dal fatto che l’esecuzione di un atto razionale non segue l’ordine del deliberare, che dovrebbe essere guidato da un bene superiore. Inoltre, quando le cose dirette verso uno scopo finale non sono regolate in modo infallibile da quel fine supremo – che rappresenta l’inizio stesso di ogni attività umana – allora sorge il disordine. Nello stato di innocenza, invece, c’era una stabilità perfetta nell’ordine delle cose, poiché le facoltà inferiori erano sempre subordinate a quelle superiori, finché l’uomo rimaneva sottomesso a Dio, come afferma Agostino (De Civ. Dei xiv, 13). Pertanto, non può esserci alcun disordine nell’uomo nello stato di innocenza, a meno che prima la parte più elevata della sua natura non cessi di essere sottomessa a Dio, il che costituisce un peccato mortale. Da ciò si evince chiaramente che, nello stato di innocenza, l’uomo non potrebbe commettere peccati veniali prima di commettere un peccato mortale.
+
+Risposta all’Obiezione 1: Nel passaggio citato, il termine “peccato veniale” non viene inteso nello stesso senso in cui lo usiamo oggi; con esso ci riferiamo a quei peccati che possono essere facilmente perdonati.
+
+Risposta all’Obiezione 2: Questo orgoglio che precedette la caduta dell’uomo fu il suo primo peccato mortale, poiché si afferma che abbia preceduto la sua caduta nell’atto concreto di peccare. A questo orgoglio seguì, nell’uomo, il desiderio di creare e sperimentare; nella donna, invece, il dubbio, poiché ella cedette all’orgoglio semplicemente sentendo il serpente menzionare quel precetto, come se rifiutasse di essere vincolata da esso.
+
+Risposta all’Obiezione 3: Il peccato mortale si oppone all’integrità dello stato originario, poiché lo distrugge; ciò che un peccato veniale non è in grado di fare. E poiché l’integrità dello stato primordiale è incompatibile con qualsiasi forma di disordinio, ne consegue che l’uomo primitivo non avrebbe potuto commettere peccati veniali prima di compiere un peccato mortale.
+
 <span class="atom-split" data-atom="125" data-title="Whether a good or a wicked angel can sin venially?" data-chapter="Whether a good or a wicked angel can sin venially?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that a good or wicked angel can sin venially. Because man agrees with
@@ -6264,6 +8109,24 @@ above.
 Reply to Objection 3: The demons incite man to all such things which seem venial, that he
 may become used to them, so as to lead him on to mortal sin. Consequently in all such things they
 sin mortally, on account of the end they have in view.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un angelo buono o cattivo possa commettere peccati veniali. Poiché l’uomo condivide, nella parte più elevata della propria anima – chiamata intelletto – le stesse capacità degli angeli, secondo Gregorio, il quale afferma nell’Homilia xxix sull’Evangelo che “l’uomo comprende ciò che gli angeli comprendono”. Ma l’uomo può commettere peccati veniali nella parte più elevata della propria anima; pertanto anche un angelo potrebbe commettere peccati veniali.
+
+Obiezione 2: Inoltre, colui che è in grado di fare di più può anche fare di meno. Un angelo, però, avrebbe potuto amare una creatura più di Dio, e infatti lo fece commettendo un peccato mortale; pertanto avrebbe anche potuto amare una creatura in modo indebitamente inferiore a Dio, commettendo un peccato veniale.
+
+Obiezione 3: Inoltre, sembra che gli angeli malvagi compiano atti che costituiscono peccati veniali, nel senso generale del termine, provocando negli uomini risate e altre simili frivolezze. Ora, la circostanza personale di colui che compie tali atti non rende un peccato mortale veniale, come affermato sopra (A[3]), a meno che non esista un divieto specifico, il quale nel caso in questione non esiste. Pertanto, un angelo può peccare in modo veniale.
+
+Al contrario, la perfezione di un angelo è maggiore di quella dell’uomo nello stato primitivo. Tuttavia, nell’stato primitivo l’uomo non poteva peccare in modo veniale; pertanto, nemmeno un angelo può farlo.
+
+Rispondo che l’intelligenza angelica, come detto sopra nel FP, Q[58], A[3]; FP, Q[79], A[8], non è discorsiva, cioè non procede dai principi alle conclusioni al fine di comprendere entrambi separatamente, come facciamo noi. Pertanto, ogni volta che l’intelligenza angelica considera una conclusione, deve necessariamente considerarne i principi alla base. Ora, in materia di desideri e appetiti, come abbiamo spesso affermato (Q[8], A[2]; Q[10], A[1]; Q[72], A[5]), gli scopi sono paragonabili ai principi, mentre i mezzi sono paragonabili alle conclusioni. Di conseguenza, la mente angelica non si rivolge ai mezzi se non nella misura in cui questi siano subordinati allo scopo prefissato; per natura stessa, quindi, i mezzi non possono presentare alcuna disordinata relazione rispetto allo scopo, a meno che contemporaneamente non vi sia una disordinata relazione anche rispetto allo scopo stesso, il che costituirebbe un peccato mortale. I buoni angeli, dunque, non sono spinti ad agire attraverso i mezzi se non in subordine allo scopo legittimo, che è Dio; per questo tutte le loro azioni sono azioni di carità, e quindi non possono commettere peccati veniali. Al contrario, gli angeli malvagi sono spinti ad agire soltanto in subordine allo scopo del loro orgoglio, il che li porta a commettere peccati mortali in tutto ciò che fanno di propria volontà. Questo non vale per l’appetito verso il bene naturale, che, come abbiamo detto, esiste in loro (FP, Q[63], A[4]; Q[64], A[2], ad 5).
+
+Risposta all’Obiezione 1: L’uomo concorda effettivamente con gli angeli nel pensiero o nell’intelletto, ma differisce nel modo di comprendere, come detto sopra.
+
+Risposta all’Obiezione 2: Un angelo non potrebbe amare una creatura inferiore a Dio senza, allo stesso tempo, riferirla a Dio come fine ultimo, oppure a qualche altro fine indebitamente elevato, per le ragioni già espresse in precedenza.
+
+Risposta all’Obiezione 3: I demoni incitano l’uomo a compiere tutte quelle azioni che sembrano veniali, affinché egli si abitui ad esse e così venga condotto al peccato mortale. Pertanto, in tutte queste azioni essi commettono un peccato mortale, a causa dello scopo che hanno in vista.
 
 <span class="atom-split" data-atom="126" data-title="Whether the first movements of the sensuality in unbelievers are mortal sin?" data-chapter="Whether the first movements of the sensuality in unbelievers are mortal sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -6315,6 +8178,22 @@ Objection is evident.
 Reply to Objection 3: This freedom from liability to concupiscence was a result of original
 justice. Wherefore that which is opposed to such liability pertains, not to actual but to original sin.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i primi impulsi della sensualità negli increduli siano peccati mortali. Infatti l’Apostolo dice (Romani 8:1) che “non c’è condanna per coloro che sono in Cristo Gesù e non vivono secondo la carne”; e qui si riferisce alla concupiscenza della sensualità, come emerge dal contesto stesso (Romani 7). Pertanto, il motivo per cui la concupiscenza non costituisce un motivo di condanna per coloro che non vivono secondo la carne è proprio perché sono in Cristo Gesù. Ma gli increduli non sono in Cristo Gesù; quindi, per loro, questa concupiscenza rappresenta effettivamente un motivo di condanna. Di conseguenza, i primi impulsi della sensualità negli increduli sono peccati mortali.
+
+Obiezione 2: Inoltre, Anselmo afferma nel “De Gratia” e nel Libro VII dell’Arbore di Disciplina: “Coloro che non sono in Cristo, quando sentono il tormento della carne, seguono la strada della dannazione, anche se non agiscono secondo le inclinazioni della carne”. Ma la dannazione è dovuta soltanto al peccato mortale. Pertanto, poiché l’uomo prova il tormento della carne nei primi impulsi della concupiscenza, sembra che tali impulsi, negli increduli, siano peccati mortali.
+
+Obiezione 3: Inoltre, Anselmo afferma (in “De Gratia et Lib. Arb. vii”): “L’uomo è stato creato in modo da non essere soggetto alla concupiscenza”. Ora sembra che questa predisposizione venga eliminata nell’uomo per grazia del Battesimo, cosa che l’incredulo non possiede. Pertanto, qualsiasi atto di concupiscenza da parte di un incredulo, anche senza il suo consenso, costituisce un peccato mortale, poiché si contraddice al suo dovere.
+
+Al contrario, si legge negli Atti degli Apostoli 10:34 che “Dio non fa distinzioni tra le persone”. Pertanto, Egli non attribuisce a qualcuno ciò che potrebbe condannarlo, ciò che non attribuisce ad altri. Così come non attribuisce ai credenti azioni iniziali che possano portare alla condanna; allo stesso modo, non le attribuisce nemmeno agli increduli.
+
+Rispondo che è irragionevole affermare che i primi atti compiuti dagli increduli siano peccati mortali, quando essi stessi non vi consenziscono. Ciò risulta evidente per due motivi: in primo luogo, perché la sensualità in sé non può essere oggetto di peccato mortale, come già detto (Q[79], A[4]); inoltre, la sensualità ha lo stesso carattere negli increduli quanto nei credenti. Pertanto, i semplici atti derivanti dalla sensualità negli increduli non possono essere considerati peccati mortali. In secondo luogo, il stato stesso del peccatore gioca un ruolo fondamentale: l’elevatezza della natura umana non riduce mai la gravità del peccato, ma anzi la aumenta, come affermato in precedenza (Q[73], A[10]). Pertanto, un peccato è altrettanto grave in un credente quanto in un incredulo, se non addirittura più grave; i peccati degli increduli, infatti, meritano maggior perdono a causa della loro ignoranza, come si legge in 1 Timoteo 1:13: “Ho ricevuto la misericordia di Dio perché ho compiuto tali atti nell’ignoranza della mia fede”; al contrario, i peccati dei credenti sono ancora più gravi a causa dei sacramenti della grazia, come si legge in Ebrei 10:29: “Quanto più dunque merita chi ha disprezzato il sangue del patto con cui è stato santificato, ”.
+
+Risposta all’Obiezione 1: L’Apostolo parla della condanna dovuta al [-peccato originale](/positions/original_sin), una condanna che viene rimossa per la grazia di Gesù Cristo, anche se i “vizi” derivanti dalla concupiscenza persistono. Pertanto, il fatto che i credenti siano soggetti alla concupiscenza non costituisce in loro un segno della condanna dovuta al peccato originale, come avviene invece per gli increduli. In questo modo si deve anche comprendere l’affermazione di Anselmo; di conseguenza, la Risposta alla Seconda Obiezione risulta evidente.
+
+Risposta all’Obiezione 3: Questa libertà dalla responsabilità nei confronti della concupiscenza era il risultato della giustizia originale. Pertanto, ciò che è in contraddizione con tale libertà riguarda non il peccato effettivo, ma il peccato originale.
+
 <span class="atom-split" data-atom="127" data-title="Whether venial sin can be in anyone with original sin alone?" data-chapter="Whether venial sin can be in anyone with original sin alone?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that venial sin can be in a man with [original sin](/positions/original_sin) alone. For disposition
@@ -6363,3 +8242,21 @@ God as soon as possible. For the first thing that occurs to a man who has discre
 himself, and to direct other things to himself as to their end, since the end is the first thing in the
 intention. Therefore this is the time when man is bound by God's affirmative precept, which the
 Lord expressed by saying (Zech. 1:3): "Turn ye to Me . . . and I will turn to you."
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il peccato veniale possa esistere in una persona che presenta soltanto il [peccato originale](/positions/original_sin). Infatti, la disposizione precede l’abitudine; e poiché il peccato veniale è una disposizione al peccato mortale, come affermato sopra (Q[88], A[3]), ne consegue che in un non credente, nel quale il peccato originale non è stato remesso, il peccato veniale esista prima del peccato mortale. Pertanto, talvolta i non credenti possiedono sia il peccato veniale che il peccato originale, senza però commettere peccati mortali.
+
+Obiezione 2: Inoltre, il peccato veniale ha meno in comune e meno legami con il peccato mortale di quanto un singolo peccato mortale ne abbia con un altro. Ma un non credente, nella [condizione](/concepts/state) del peccato originale, può commettere un peccato mortale senza commetterne un altro; pertanto può anche commettere un peccato veniale senza commettere un peccato mortale.
+
+Obiezione 3: Inoltre, è possibile determinare con precisione il momento in cui un bambino è per la prima volta in grado di commettere un peccato effettivo; e quando tale momento arriva, il bambino può trascorrere almeno un breve periodo senza commettere peccati mortali, poiché ciò accade anche nei peggiori criminali. Ora, è possibile che il bambino commetta peccati veniali durante quel lasso di tempo, per quanto breve possa essere; pertanto, i peccati veniali possono esistere in chiunque abbia soltanto il peccato originale e non peccati mortali.
+
+Al contrario, l’Uomo viene punito per il peccato originale nel limbo dei bambini, dove non esiste alcun dolore fisico, come spiegheremo più avanti (SS, Q[69], A[6]); mentre gli uomini vengono puniti all’inferno soltanto per i peccati mortali. Pertanto, non esiste alcun luogo in cui un uomo possa essere punito per i peccati veniali, se non per il peccato originale stesso.
+
+Rispondo che è impossibile che una persona possieda soltanto il peccato originale e non anche il peccato mortale; la ragione di ciò è che, prima che un uomo raggiunga l’età della discrezione, la mancanza di esperienza impedisce l’uso della ragione e lo scusa dal commettere peccati mortali; quindi, tanto più lo scusa dal commettere peccati veniali, se compie atti che, in linea generale, sono considerati tali. Tuttavia, quando un uomo inizia ad utilizzare la propria ragione, non è completamente scusato né dalla colpa dei peccati veniali né da quella dei peccati mortali. La prima cosa a cui un uomo pensa in quel momento è se stesso; se si dirige verso il giusto scopo, grazie alla misericordia divina riceverà la remissione del peccato originale; altrimenti, se non si dirige verso il giusto scopo e, nella misura delle sue capacità in quell’età, compie atti che comportano peccati mortali, allora commetterà tali peccati. Di conseguenza, da quel momento in poi non può più esistere alcun peccato veniale in lui senza un peccato mortale, fino a quando tutti i suoi peccati non siano stati rimessi grazie alla misericordia divina.
+
+Risposta all’Obiezione 1: Il peccato veniale precede sempre il peccato mortale, non come condizione necessaria, ma come disposizione contingente; proprio come il lavoro a volte può predisporre alla febbre, ma non come il calore possa determinare la formazione del fuoco.
+
+Risposta all’Obiezione 2: Il peccato veniale viene impedito di esistere non soltanto a causa del legame o della somiglianza con il peccato originale, ma per la mancanza di uso della ragione, come già detto in precedenza.
+
+Risposta all’Obiezione 3: Il bambino che inizia a utilizzare la ragione può astenersi per un certo periodo da altri peccati mortali, ma non è libero dal suddetto peccato di omissione, a meno che non si rivolga a Dio il prima possibile. Infatti, la prima cosa che viene in mente a una persona dotata di discernimento è se stessa, e tende ad orientare tutte le altre cose verso di sé come verso il loro fine; poiché il fine rappresenta l’elemento fondamentale dell’intenzione umana. Pertanto, in questo periodo l’uomo è vincolato dal precetto positivo di Dio, espresso dal Signore nelle parole di Zaccaria 1:3: “Ritornate a Me, e Io mi rivolgerò a voi”.

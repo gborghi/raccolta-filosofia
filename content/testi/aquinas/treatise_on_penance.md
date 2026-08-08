@@ -27,6 +27,10 @@ THEOLOGICA OF ST. THOMAS AQUINAS GATHERED
 FROM HIS COMMENTARY ON BOOK IV OF THE
 SENTENCES (QQ[1] -99)
 
+<span class="qlang-split" data-lang="it"></span>
+
+Supplemento (XP): Alla terza parte della [SUMMA](/schools/scholasticism) teologica di San Tommaso d’Aquino, raccolta dal suo commento al libro IV delle Sentenze (QQ[1]–99).
+
 <span class="atom-split" data-atom="002" data-title="OF THE PARTS OF PENANCE, IN PARTICULAR, AND FIRST OF CONTRITION (THREE ARTICLES)" data-chapter="OF THE PARTS OF PENANCE, IN PARTICULAR, AND FIRST OF CONTRITION (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider each single part of Penance, and (1) Contrition; (2) Confession; (3)
@@ -36,6 +40,10 @@ Under the first head there are three points of inquiry:
 (1) Whether Contrition is suitably defined?
 (2) Whether it is an act of virtue?
 (3) Whether attrition can become contrition?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora esaminare ciascuna parte della Penitenza, e in particolare: (1) la Contrizione; (2) la Confessione; (3) la Satisfazione. L’analisi della Contrizione sarà articolata in quattro punti: (1) Che cos’è? (2) Di cosa dovrebbe trattarsi? (3) Quanto deve essere intensa? (4) Quanto dura? (5) Qual è il suo effetto? Nel primo punto di discussione vi sono tre interrogativi principali: (1) La Contrizione è definita correttamente? (2) È un atto di virtù? (3) L’attrito può trasformarsi in Contrizione?
 
 <span class="atom-split" data-atom="003" data-title="Whether contrition is an assumed sorrow for sins, together with the purpose of confessing them and of making satisfaction for them?" data-chapter="Whether contrition is an assumed sorrow for sins, together with the purpose of confessing them and of making satisfaction for them?" data-kind="atom" data-srclang="en"></span>
 
@@ -105,6 +113,25 @@ confession and satisfaction are still necessary, both because man cannot be sure
 was sufficient to take away all, and because confession and satisfaction are a matter of precept:
 wherefore he becomes a transgressor, who confesses not and makes not satisfaction.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il pentimento non sia “un dolore simulato per i peccati, unito allo scopo di confessarli e di compiere atti di riparazione”, come alcuni lo definiscono. Infatti, come afferma [Agostino](/figures/augustine) (De Civ. Dei xiv, 6), “il dolore riguarda ciò che accade contro la nostra volontà”. Ma questo non vale per i peccati. Pertanto, il pentimento non è un dolore per i peccati.
+
+Obiezione 2: Inoltre, la contrizione ci viene data da Dio. Ma ciò che viene dato non è qualcosa che noi assumiamo da soli. Pertanto, la contrizione non è un dolore che noi stessi scegliamo di provare.
+
+Obiezione 3: Inoltre, la soddisfazione dei debiti morali e la confessione sono necessarie per l’indulgenza della punizione che non è stata cancellata attraverso il pentimento. Tuttavia, a volte l’intera punizione viene abolita grazie al pentimento stesso. Pertanto, non è sempre indispensabile che una persona pentita abbia l’intenzione di confessare e di compiere atti di soddisfazione dei debiti morali.
+
+Al contrario, c’è proprio questa definizione che contraddice tale ipotesi.
+
+Rispondo che, come affermato nell’Ecclesiastico 10:15, “l’orgoglio è l’inizio di ogni peccato”, poiché attraverso di esso l’uomo si attacca alle proprie opinioni e si allontana dai comandamenti divini. Pertanto, ciò che distrugge il peccato deve necessariamente indurre l’uomo a rinunciare alle proprie opinioni personali. Chi persiste nelle proprie convinzioni viene metaforicamente definito “rigido” e “indurito”; per questo si dice che qualcuno è “spezzato” quando viene strappato dalle proprie opinioni errate. Tuttavia, nel caso delle cose materiali – da cui queste espressioni vengono trasferite alle realtà spirituali – esiste una differenza tra il concetto di “spezzare” e quello di “schiacciare” o di “pentimento”. Parliamo di “spezzare” quando qualcosa viene diviso in parti grandi, mentre di “schiacciare” o di “pentimento” quando ciò che era solido viene ridotto in particelle minuscole. Poiché, per la remissione del peccato, è necessario che l’uomo abbandoni completamente il proprio attaccamento al peccato – il che implica uno stato di continuità e solidità nel suo pensiero – l’atto attraverso cui il peccato viene rifiutato viene metaforicamente chiamato “pentimento”. In questo pentimento si possono osservare diversi aspetti: la sostanza stessa dell’atto, il modo in cui viene compiuto, la sua origine e il suo effetto. Per quanto riguarda la sostanza dell’atto, abbiamo già fornito una definizione; poiché l’atto di pentimento è sia un atto di virtù che una parte del sacramento della Penitenza, la sua natura come atto di virtù viene spiegata menzionando il suo genere (“tristezza”), l’oggetto (“per i peccati”) e l’intenzione necessaria per compiere un atto di virtù (“assunta”). Come parte del sacramento, il pentimento si manifesta attraverso la sua relazione con le altre componenti del rito penitenziale (“insieme allo scopo di confessare e di compiere soddisfazioni”). Esiste anche un’altra definizione che considera il pentimento soltanto come atto di virtù, ma che include al contempo la specificità che lo lega a una particolare virtù, ovvero la penitenza. Questa definizione recita: “Il pentimento è una tristezza volontaria per il peccato, attraverso la quale l’uomo punisce in sé stesso ciò che ritiene di aver commesso”. L’aggiunta della parola “punisce” precisa che si tratta di un atto legato specificamente alla virtù della penitenza. Un’altra definizione, fornita da Isidoro nel De Summo Bono ii, 12, recita: “Il pentimento è una tristezza lacrimosa e umiltà d’animo che derivano dal ricordo del peccato e dalla paura del Giudizio”. In questa definizione viene sottolineata l’origine del pentimento, legata al ricordo dei propri errori e alla paura delle conseguenze future. Un’altra definizione, tratta dalle parole di Agostino nel *Implicitly on Ps. 46*, indica l’effetto del pentimento: esso consiste nella rinuncia volontaria ai peccati e nell’impegno a correggersi.
+“La contrizione è quel dolore che elimina il peccato.” Un’altra definizione deriva dalle parole di Gregorio (Morale, xxxiii, 11): “La contrizione è l’umiltà dell’anima, che schiaccia il peccato tra speranza e paura.” Qui la natura della contrizione viene indicata come “umiltà dell’anima”; l’effetto che produce viene descritto come “lo schiacciamento del peccato”; l’origine di tale effetto, invece, risiede nel rapporto tra speranza e paura. Infatti, la contrizione include non solo la causa principale – la paura – ma anche quella concomitante: la speranza, senza la quale la paura potrebbe portare alla disperazione.
+
+Risposta all’Obiezione 1: Sebbene i peccati, quando vengono commessi, siano volontari, tuttavia, quando ne proviamo rimorso, non lo sono più; pertanto avvengono contro la nostra volontà. Non si tratta della volontà che avevamo quando li abbiamo compiuti, ma di quella che possediamo ora, e per cui desidereremmo che non fossero mai stati commessi.
+
+Risposta all’Obiezione 2: La contrizione proviene unicamente da Dio per quanto riguarda la forma che la rende efficace; per quanto riguarda invece la sostanza dell’atto stesso, essa deriva sia dalla libera volontà umana che da Dio, il quale interviene in tutte le azioni, sia quelle della natura che quelle della volontà.
+
+Risposta all’Obiezione 3: Sebbene l’intera punizione possa essere rimessa per contrizione, la confessione e la soddisfazione rimangono comunque necessarie, sia perché l’uomo non può essere certo che la sua contrizione sia stata sufficiente a eliminare completamente tutti gli effetti negativi del peccato, sia perché la confessione e la soddisfazione rappresentano atti imposti da precetti religiosi. Pertanto, colui che non confessa né compie tali atti diventa un trasgressore.
+
 <span class="atom-split" data-atom="004" data-title="Whether contrition is an act of virtue?" data-chapter="Whether contrition is an act of virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that contrition is not an act of virtue. For passions are not acts of
@@ -145,6 +172,20 @@ crushed to pieces; while they are said to be contrite, when all the parts are cr
 Wherefore, in spiritual matters, attrition signifies a certain but not a perfect displeasure for sins
 committed, whereas contrition denotes perfect displeasure.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il pentimento non sia un atto di virtù. Infatti, le passioni non sono atti di virtù, poiché “non ci portano né lode né biasimo” (Etica, ii, 5). Ma il dolore è una passione; pertanto, poiché il pentimento è dolore, sembra che non sia un atto di virtù.
+
+Obiezione 2: Inoltre, poiché la contrizione è chiamata così perché rappresenta un atto di profonda umiliazione e pentimento, lo stesso vale per l’usura. Tutti concordano nel ritenere che l’usura non sia un atto di virtù; pertanto, nemmeno la contrizione può essere considerata un atto di virtù.
+
+Al contrario, solo un atto di virtù è meritevole. Ma la contrizione è un atto meritevole; pertanto, essa è anch’essa un atto di virtù.
+
+Rispondo che, nel senso letterale della parola, la contrizione non indica un atto di virtù, ma una passione corporea. Tuttavia, la domanda in questione non si riferisce alla contrizione in questo significato, bensì a ciò che la parola viene utilizzata per indicare in senso metaforico. Poiché l’indurimento della propria volontà verso atti malvagi implica di per sé un male generale, allo stesso modo la distruzione totale di quella stessa volontà implica qualcosa di buono in senso generale: si tratta infatti di detestare proprio quella volontà con la quale sono stati commessi peccati. Pertanto, la contrizione, nel senso indicato qui, implica la rettitudine della volontà; ed è proprio l’atto di questa virtù che consiste nel detestare e distruggere i peccati passati, ovvero l’atto della penitenza, come risulta evidente da quanto detto in precedenza (Sent. iv, D, 14, Q[1], A[1]; TP, Q[85], AA[2],3).
+
+Risposta all’Obiezione 1: La contrizione include un doppio dolore per il peccato. Uno di questi dolori si manifesta nella parte sensibile dell’anima ed è una passione; tale dolore non appartiene essenzialmente alla contrizione in quanto atto di virtù, ma ne rappresenta piuttosto l’effetto. Proprio come la virtù della penitenza infligge un castigo esteriore al corpo, al fine di compensare il peccato commesso contro Dio attraverso gli organi del corpo stesso, così essa infligge anche un dolore alla parte concupiscibile dell’anima, poiché questa ha anch’essa contribuito alle azioni peccaminose. Tuttavia, questo dolore può essere considerato parte della contrizione nel senso in cui il sacramento della penitenza comprende sia atti interni che esterni, nonché elementi sensibili. L’altro tipo di dolore si manifesta nella volontà ed è nulla altro che un dispiacere per qualche male; infatti, le emozioni della volontà prendono il nome dalle passioni, come già detto (Sententiae, iii, D, 26, Q[1], A[5]; FS, Q[22], A[3], ad 3). Pertanto, la contrizione è essenzialmente un tipo di dolore e rappresenta un atto della virtù della penitenza.
+
+Risposta all’Obiezione 2: L’“attrito” indica un avvicinamento alla contrizione perfetta; pertanto, in ambito materiale, si dice che le cose siano “attrite” quando vengono consumate fino a un certo punto, ma non completamente distrutte; al contrario, si dice che siano “contrite” quando tutte le loro parti vengono frantumate in modo minutissimo. Nell’ambito spirituale, dunque, l’“attrito” rappresenta un certo grado di dispiacere per i peccati commessi, ma non uno stato di contrizione perfetta; la contrizione, invece, indica proprio uno stato di dispiacere assoluto.
+
 <span class="atom-split" data-atom="005" data-title="Whether attrition can become contrition?" data-chapter="Whether attrition can become contrition?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that attrition can become contrition. For contrition differs from
@@ -181,6 +222,21 @@ anew by some form, whereby it was not quickened previously: whereas this cannot 
 act, even as it is impossible for the identically same thing to arise from a cause wherefrom it did
 not arise before, since a thing is brought into being but once.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’usura possa trasformarsi in pentimento. Infatti il pentimento si distingue dall’usura, proprio come la vita si distingue dalla morte. Ora, una fede “morta” può diventare “viva”; pertanto anche l’usura può trasformarsi in pentimento.
+
+Obiezione 2: Inoltre, la materia riceve la perfezione quando viene eliminata la privazione. Ora, il dolore è alla grazia ciò che la materia è alla forma, poiché la grazia rende più intensa il dolore. Pertanto, quel dolore che prima era privo di vita, finché esisteva il peccato, riceve la perfezione attraverso l’intensificazione operata dalla grazia; e ne consegue lo stesso risultato già discusso in precedenza.
+
+Al contrario, le cose che sono causate da principi del tutto diversi non possono essere trasformate l’una nell’altra. Ora, il principio dell’usura è la paura servile, mentre la paura filiale è la causa della contrizione; pertanto, l’usura non può trasformarsi in contrizione.
+
+Rispondo che su questa questione esistono due opinioni: alcuni affermano che l’usanza o la consuetudine possa trasformarsi in contrizione, proprio come una fede priva di vita possa diventare una fede viva. Tuttavia, questo sembra impossibile; infatti, anche se l’abitudine di una fede priva di vita può diventare viva, un atto di tale fede non può mai trasformarsi in un atto di fede vera e propria, poiché quell’atto, essendo privo di vitalità, scompare non appena arriva la carità. L’usanza o la consuetudine, invece, non indicano un’abitudine, ma soltanto un atto; inoltre, quelle abitudini virtuose che riguardano la volontà non possono essere prive di vita, poiché derivano dalla carità, come già detto sopra (Sentenze iii, D, 27, Q[2], A[4]; FS, Q[65], A[4]). Pertanto, finché non arriva la grazia divina, non esiste alcuna abitudine che possa in seguito generare l’atto di contrizione; quindi, l’usanza o la consuetudine non possono mai trasformarsi in contrizione: ed è questa l’altra opinione.
+
+Risposta all’Obiezione 1: Come già detto in precedenza, non esiste alcuna analogia tra fede e pentimento.
+
+Risposta all’Obiezione 2: Quando la privazione viene rimossa dalla materia, questa si rinnova se permane dopo l’arrivo della perfezione. Tuttavia, il dolore, che in precedenza era privo di vita, non sopravvive all’arrivo della carità; pertanto non può essere rinnovato.  
+Si potrebbe anche osservare che la materia non trae la sua origine essenzialmente dalla forma, così come un atto trae la sua origine dall’abitudine che lo rende attivo. Pertanto nulla impedisce alla materia di essere nuovamente rinnovata da una qualche forma che in precedenza non l’aveva resa attiva; ciò invece non può dirsi degli atti, poiché è impossibile che la stessa cosa emerga da una causa da cui prima non è mai sorta, dato che una cosa viene creata soltanto una volta.
+
 <span class="atom-split" data-atom="006" data-title="OF THE OBJECT OF CONTRITION (SIX ARTICLES)" data-chapter="OF THE OBJECT OF CONTRITION (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the object of contrition. Under this head there are six points of inquiry:
@@ -190,6 +246,16 @@ We must now consider the object of contrition. Under this head there are six poi
 (4) Whether, for actual sins he will commit?
 (5) Whether, for the sins of others?
 (6) Whether, for each single mortal sin?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’oggetto della contrizione. In questo ambito vi sono sei punti da esaminare:  
+(1) Se un uomo debba provare contrizione a causa delle punizioni che subisce;  
+(2) A causa del [peccato originale](/positions/original_sin);  
+(3) Per ogni peccato effettivamente commesso;  
+(4) Per i peccati che potrebbe commettere in futuro;  
+(5) Per i peccati altrui;  
+(6) Per ogni singolo peccato mortale.
 
 <span class="atom-split" data-atom="007" data-title="Whether man should be contrite on account of the punishment, and not only on account of his sin?" data-chapter="Whether man should be contrite on account of the punishment, and not only on account of his sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -225,6 +291,20 @@ contrition, but is its principle. For just as we are moved to desire a thing on 
 we expect to derive from it, so are we moved to be sorry for something on account of the evil
 accruing to us therefrom.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’uomo debba provare rimorso non solo a causa del proprio peccato, ma anche a causa delle punizioni che ne derivano. Infatti, [Agostino](/figures/augustine) afferma nel De Poenitentia [*Cfr. Hom. 50 inter 1]: “Nessuno desidera la vita eterna se non si pente di questa vita mortale”. Ma la morale di questa vita stessa rappresenta una punizione; pertanto, il pentito dovrebbe provare rimorso anche a causa di queste punizioni.
+
+Obiezione 2: Inoltre, il Maestro afferma (Sentenze iv, D, 16, cap. i), citando Agostino (De vera et falsa Poenitentia [Opera di autore sconosciuto]), che il pentito debba provare rimorso per aver privato se stesso della virtù. Ma la privazione della virtù è una punizione; pertanto, il pentimento rappresenta anche un rimorso per le punizioni stesse.
+
+Al contrario, nessuno si attacca a ciò per cui prova rimorso. Ma un pentito, proprio per il significato stesso della parola, è colui che accetta la propria punizione (*“Poenitens”, cioè “colui che tiene la pena”*). Pertanto, non prova rimorso a causa della punizione; quindi, il pentimento, che è un tipo di rimorso legato alla penitenza, non ha origine nella punizione stessa.
+
+Rispondo che, come già detto sopra (Q[1], A[1]), la contrizione implica la distruzione di qualcosa di solido e integro. Ora, questa solidità e integrità si riscontrano nel male derivante dai peccati, poiché la volontà, che ne è la causa nell’individuo malvagio, si attacca fermamente alle proprie convinzioni e rifiuta di sottomettersi ai precetti della legge; per questo motivo, il dispiacere derivante da un simile male viene metaforicamente chiamato “contrizione”. Qui c’è un gioco di parole tra i termini “integro” e “fermo nelle proprie convinzioni”. Tuttavia, questa metafora non può essere applicata al male legato alle punizioni, poiché queste rappresentano semplicemente una riduzione del male stesso; quindi è possibile provare dolore per le punizioni, ma non necessariamente contrizione.
+
+Risposta all’Obiezione 1: Secondo Sant’Agostino, la penitenza dovrebbe essere praticata in relazione a questa vita mortale, e non a causa della sua mortalità (a meno che la penitenza non venga intesa in senso lato, come ogni tipo di dolore); bensì in relazione ai peccati, ai quali siamo inclini a causa della debolezza di questa vita.
+
+Risposta all’Obiezione 2: Il dolore per la perdita della virtù a causa del peccato non è essenzialmente lo stesso che il pentimento, ma ne rappresenta il principio. Proprio come siamo spinti a desiderare qualcosa in base al bene che ci aspettiamo di trarne, allo stesso modo siamo spinti a provare dolore per il male che ne deriva.
+
 <span class="atom-split" data-atom="008" data-title="Whether contrition should be on account of original sin?" data-chapter="Whether contrition should be on account of original sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that contrition should be on account of [original sin](/positions/original_sin). For we ought
@@ -255,6 +335,18 @@ punishment. But contrition ought to be on account of sin, as implying deformity 
 act of the will; and this does not apply to original sin, so that contrition does not apply to it.
 The same Reply avails for the Second Objection, because contrition is due to aversion of the
 will.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il pentimento dovrebbe derivare dall’[peccato originale](/positions/original_sin). Infatti, dovremmo pentirci per i peccati effettivi; non a causa dell’atto in sé, considerato come una sorta di entità, ma a causa della sua deformità, poiché l’atto, nella sua essenza, è qualcosa di buono e proviene da Dio. Ora, il peccato originale possiede anch’esso una deformità, proprio come i peccati effettivi; pertanto dovremmo pentirci anche a causa del peccato originale.
+
+Obiezione 2: Inoltre, a causa del peccato originale l’uomo è stato allontanato da Dio, poiché in punizione di esso gli fu negata la possibilità di vedere Dio. Ma ogni uomo dovrebbe provare dispiacere per essere stato allontanato da Dio. Pertanto, l’uomo dovrebbe provare dispiacere per il peccato originale; e quindi dovrebbe nutrire rimorso per esso.
+
+Al contrario, il rimedio deve essere proporzionato alla malattia. Noi abbiamo commesso il peccato originale senza volerlo; pertanto non è necessario che ne veniamo purificati attraverso un atto di volontà, come la penitenza.
+
+Rispondo che la contrizione è dolore, come già detto sopra (Q[1], AA[1],2), e consiste nel rispettare, per così dire, e nell’umiliare la durezza della nostra volontà. Pertanto, essa può riguardare soltanto quei peccati che derivano dalla durezza della nostra volontà stessa. Poiché il peccato originale non ci è stato inflitto a causa della nostra volontà, ma deriva dall’essenza stessa della nostra natura corrotta, ne consegue che, in senso proprio, non possiamo provare contrizione riguardo ad esso, ma soltanto dispiacere o dolore.
+
+Risposta all’Obiezione 1: La contrizione riguarda il peccato, non in base alla semplice natura dell’atto stesso, poiché questa non conferisce all’atto il carattere di male; né tantomeno in base alla sua deformità, poiché la deformità, di per sé, non implica il concetto di colpa e talvolta indica addirittura una punizione. La contrizione deve invece essere legata al peccato, poiché esso comporta una deformità derivante da un atto della volontà; ciò non vale per il peccato originale, quindi la contrizione non è applicabile a quest’ultimo. La stessa risposta vale anche per l’Seconda Obiezione, poiché la contrizione deriva dall’avversione della volontà verso il male commesso.
 
 <span class="atom-split" data-atom="009" data-title="Whether we should have contrition for every actual sin?" data-chapter="Whether we should have contrition for every actual sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -318,6 +410,28 @@ Reply to Objection 4: A venial sin can remain after contrition for a mortal sin,
 contrition for the venial sin: wherefore contrition should also cover venial sins even as penance
 does, as stated above (Sent. iv, D, 16, Q[2], A[2], qu. 2; XP, Q[87], A[1]).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non abbiamo bisogno di provare pentimento per ogni peccato effettivamente commesso. Infatti, i contrari si guariscono a vicenda. Ora, alcuni peccati vengono compiuti attraverso il dolore, ad esempio la pigrizia e l’invidia; pertanto, il loro rimedio non dovrebbe essere il dolore – come invece è nel caso del pentimento – ma la gioia.
+
+Obiezione 2: Inoltre, la contrizione è un atto della volontà, che non può riguardare ciò che non è conosciuto. Tuttavia esistono peccati di cui non abbiamo alcuna conoscenza, come quelli che abbiamo dimenticato. Pertanto non possiamo provare contrizione per essi.
+
+Obiezione 3: Inoltre, attraverso la contrizione volontaria, quei peccati che abbiamo commesso volontariamente vengono cancellati. Ma l’ignoranza elimina il carattere di volontarietà, come afferma il Filosofo (Etica, iii, 1). Pertanto, la contrizione non è necessaria per quegli atti che sono avvenuti a causa dell’ignoranza.
+
+Obiezione 4: Inoltre, non è necessario provare rimorso per un peccato che non viene eliminato dal rimorso stesso. Alcuni peccati, infatti, non vengono cancellati dal rimorso, ad esempio i peccati veniali che persistono anche dopo l’azione del rimorso. Pertanto, non è necessario provare rimorso per tutti i propri peccati passati.
+
+Al contrario, la penitenza è un rimedio per tutti i peccati effettivi. Tuttavia, la penitenza non può riguardare alcuni peccati senza che vi sia anche contrizione nei loro confronti, poiché la contrizione costituisce la prima parte della penitenza stessa. Pertanto, la contrizione deve esistere per tutti i peccati commessi in passato. Inoltre, nessun peccato viene perdonato a un uomo se non è stato giustificato; ma la giustificazione richiede necessariamente contrizione, come già detto sopra (Q[1], A[1]; FS, Q[113]). Quindi è indispensabile provare contrizione per tutti i propri peccati.
+
+Rispondo che ogni peccato effettivo è causato dal fatto che la nostra volontà non si sottomette alla legge di Dio, sia attraverso la sua trasgressione, sia attraverso la sua omissione, sia ancora agendo in modo contrario ad essa. Poiché ciò che è difficile è ciò che non si lascia facilmente convincere o influenzare, è proprio per questo che in ogni peccato effettivo si riscontra una certa durezza della volontà. Pertanto, se un peccato deve essere rimediato, è necessario eliminarlo attraverso la contrizione, che lo spezza e lo sconfigge.
+
+Risposta all’Obiezione 1: Come chiaramente dimostrato sopra (A[2], ad 1), il pentimento è opposto al peccato nel senso che deriva dalla scelta della volontà che non ha obbedito all’ordine della legge di Dio, e non riguardo alla parte materiale del peccato stesso; ed è proprio su questo aspetto che si basa tale scelta. Ora, la scelta della volontà riguarda non solo gli atti delle altre facoltà umane che la volontà utilizza per i propri scopi, ma anche l’atto stesso della volontà: infatti, la volontà desidera volere qualcosa. Pertanto, la scelta della volontà si applica a quel dolore o a quella tristezza che sono caratteristici di peccati come l’invidia e simili, sia che tale dolore risieda nei sensi che nella stessa volontà. Di conseguenza, il dolore del pentimento è opposto proprio a quei tipi di peccato.
+
+Risposta all’Obiezione 2: Si può dimenticare qualcosa in due modi: o perché essa sfugge completamente alla memoria, e in tal caso non è possibile ricordarla; oppure perché rimane parzialmente nella memoria, come quando si ricorda di aver sentito qualcosa in generale, ma non si sa esattamente di cosa si tratti, e allora si cerca di ricordare i dettagli. Allo stesso modo, anche un peccato può essere dimenticato in due modi: o perché rimane nella memoria solo in termini generali, senza i particolari, e in tal caso è necessario sforzarsi di ricordarlo per poter provare pentimento per ogni singolo peccato; oppure perché esso è completamente svanito dalla memoria, e in questo caso non si è obbligati a compiere alcun atto di penitenza, poiché non si è più in grado di ricordarlo. Tuttavia, non appena tale dimenticanza viene superata, è necessario provare pentimento per quel peccato in particolare, proprio come un povero che non può pagare un debito è scusato, ma deve comunque farlo non appena ne ha le possibilità.
+
+Risposta all’Obiezione 3: Se l’ignoranza eliminasse del tutto la volontà di compiere il male, ciò costituirebbe una scusa sufficiente e non esisterebbero più peccati; tuttavia, a volte l’ignoranza non elimina del tutto tale volontà, e quindi non costituisce una vera scusa, ma soltanto in misura limitata. Per questo motivo, un uomo è tenuto a pentirsi di un peccato commesso per ignoranza.
+
+Risposta all’Obiezione 4: Un peccato veniale può persistere anche dopo la contrizione per un peccato mortale, ma non dopo la contrizione per il peccato veniale stesso; pertanto anche la contrizione dovrebbe includere i peccati veniali, proprio come avviene con la penitenza, come già detto sopra (Sentenze iv, D, 16, Q[2], A[2], qu. 2; XP, Q[87], A[1]).
+
 <span class="atom-split" data-atom="010" data-title="Whether a man is bound to have contrition for his future sins?" data-chapter="Whether a man is bound to have contrition for his future sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man is bound to have contrition for his future sins also. For
@@ -363,6 +477,20 @@ punishment accrues to it, in the respect of which the damned will have the more 
 for the more evils that have resulted from their sins. It is in this sense that Jerome [*Basil] speaks.
 Hence there is not need for contrition to be for other than past sins.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un uomo sia tenuto a provare anche pentimento per i propri peccati futuri. Infatti il pentimento è un atto della volontà libera; e la volontà libera si estende al futuro, non al passato, poiché la scelta, che è un atto della volontà libera, riguarda eventi futuri contingenti, come affermato nell’Etica iii. Pertanto il pentimento dovrebbe riguardare i peccati futuri, e non quelli passati.
+
+Obiezione 2: Inoltre, il peccato si aggrava a causa del risultato che ne deriva; per questo motivo Gerolamo afferma che la punizione di Ariano non è ancora terminata, poiché è ancora possibile che alcune persone vengano rovinate a causa della sua eresia, e proprio a causa di questa rovina la sua punizione aumenterebbe. Lo stesso vale per un uomo giudicato colpevole di omicidio: anche se ha commesso l’attacco assassino prima che la vittima muoia, durante quel lasso di tempo dovrebbe provare rimorso. Pertanto, il grado del suo rimorso dovrebbe essere proporzionale non solo al suo atto passato, ma anche al risultato che ne è derivato; in altre parole, il rimorso deve prendere in considerazione anche il futuro.
+
+Al contrario, la contrizione fa parte della penitenza. Ma la penitenza riguarda sempre il passato; pertanto anche la contrizione riguarda il passato e, di conseguenza, non è destinata a un peccato futuro.
+
+Rispondo che, in ogni serie di cose che si muovono o vengono mosse l’una dall’altra e sono ordinate tra loro, riscontriamo che il motore inferiore possiede il proprio movimento specifico; inoltre, in qualche modo segue il movimento del motore superiore: ciò è evidente nel movimento dei pianeti, i quali, oltre al proprio movimento naturale, seguono la rotazione del primo cielo. Ora, in tutte le virtù morali, il motore principale è la prudenza, che viene definita “la guida delle virtù”. Pertanto, ogni virtù morale, oltre al proprio movimento specifico, possiede anche elementi della prudenza; e poiché la penitenza è una virtù morale – essendo parte della giustizia – essa acquisisce, oltre al proprio atto specifico, anche i tratti caratteristici della prudenza. Il suo movimento naturale è diretto verso l’oggetto specifico della sua azione, ovvero il peccato commesso; pertanto, l’atto principale della penitenza – la contrizione – riguarda essenzialmente i peccati passati. Tuttavia, poiché la penitenza acquisisce anche elementi della prudenza, essa considera indirettamente anche i peccati futuri, sebbene non sia direttamente motivata da questi ultimi. Per questo motivo, chi è contrito si pente dei propri peccati passati e prende precauzioni per evitare di commetterne altri in futuro; tuttavia non si parla di contrizione nei confronti dei peccati futuri, ma di prudenza, che rappresenta un aspetto della prudenza stessa integrato nella penitenza.
+
+Risposta all’Obiezione 1: Si dice che la libertà di volontà riguardi gli eventi futuri contingenti, nella misura in cui è legata agli atti umani, ma non all’oggetto di tali atti. Infatti, grazie alla propria libertà di volontà, un uomo può riflettere su cose passate e necessarie; tuttavia, l’atto stesso di riflettere, nella misura in cui è soggetto alla libertà di volontà, è un evento futuro contingente. Pertanto, anche l’atto della contrizione è un evento futuro contingente, nella misura in cui dipende dalla libertà di volontà; eppure il suo oggetto può essere qualcosa che appartiene al passato.
+
+Risposta all’Obiezione 2: Il risultato conseguente che aggrava un peccato era già presente nell’atto stesso, così come nella sua causa; pertanto, quando il peccato veniva commesso, il suo grado di gravità era già completo, e non si aggiungeva alcuna ulteriore colpa quando quel risultato si verificava. Tuttavia, può derivarne una punizione accidentale; in questo senso, i dannati avranno maggiori motivi di rimorso per tutti i mali che sono scaturiti dai loro peccati. È in questo senso che parla Gerolamo [*Basilio*]. Pertanto, non è necessario provare pentimento se il peccato non riguarda fatti del passato.
+
 <span class="atom-split" data-atom="011" data-title="Whether a man ought to have contrition for another's sin?" data-chapter="Whether a man ought to have contrition for another's sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man ought to have contrition for another's sin. For one should
@@ -389,6 +517,20 @@ through fellowship with sinners, a man contracts a stain by consenting to their 
 
 Reply to Objection 2: We ought to grieve for the sins of others, but not to have contrition for
 them, because not all sorrow for past sins is contrition, as is evident for what has been said already.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un uomo debba provare pentimento per il peccato altrui. Infatti, non si dovrebbe chiedere perdono per un peccato se non si prova pentimento per esso. Ora, il perdono per il peccato altrui viene chiesto nel Salmo 18:13: “Perdona il tuo servo nei confronti degli altri”. Pertanto, un uomo dovrebbe provare pentimento per i peccati altrui.
+
+Obiezione 2: Inoltre, l’uomo è obbligato, per carità, ad amare il proprio prossimo come se fosse sé stesso. Ora, attraverso l’amore per sé stesso, egli prova dolore per i propri mali e desidera cose buone. Pertanto, poiché siamo obbligati a desiderare le benedizioni della grazia per il nostro prossimo, proprio come per noi stessi, sembra che dovremmo anche provare dolore per i suoi peccati, esattamente come per i nostri. Ma la contrizione non è altro che dolore per i peccati; quindi l’uomo dovrebbe essere contrito per i peccati altrui.
+
+Al contrario, il pentimento è un atto della virtù della penitenza. Ma nessuno si pente se non per ciò che ha fatto personalmente. Pertanto, nessuno si pente per i peccati altrui.
+
+Rispondo che ciò che prima era duro e integro viene necessariamente distrutto quando subisce una trasformazione. Pertanto, il pentimento per i peccati deve esistere necessariamente in colui stesso in cui prima esisteva la durezza del peccato; quindi non può esserci pentimento per i peccati altrui.
+
+Risposta all’Obiezione 1: Il profeta prega affinché gli vengano risparmiati i peccati degli altri, poiché, attraverso la compagnia dei peccatori, un uomo si macchia concordando con i loro peccati; così è scritto (Salmo 17:27): “Con i perversi ti pervertirai anche tu”.
+
+Risposta all’Obiezione 2: Dovremmo dolerci per i peccati altrui, ma non provare rimorso per essi, poiché non ogni dolore per i peccati commessi in passato rappresenta un vero rimorso, come è evidente da quanto già detto.
 
 <span class="atom-split" data-atom="012" data-title="Whether it is necessary to have contrition for each mortal sin?" data-chapter="Whether it is necessary to have contrition for each mortal sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -436,6 +578,23 @@ the accident which is the term of the alteration. In like manner, one Baptism bl
 together and introduces a new life; whereas Penance does not blot out each sin, unless it be directed
 to each. For this reason it is necessary to be contrite for, and to confess each sin.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia necessario provare pentimento per ogni peccato mortale. Infatti, il movimento del pentimento nel processo di giustificazione avviene istantaneamente; mentre un uomo non è in grado di ricordare tutti i propri peccati mortali in un istante. Pertanto, non è necessario provare pentimento per ogni singolo peccato mortale.
+
+Obiezione 2: Inoltre, il pentimento dovrebbe riguardare i peccati, poiché questi ci allontanano da Dio; non abbiamo infatti bisogno di pentirci per esserci rivolti verso le creature senza allontanarci da Dio. Ora, tutti i peccati mortali hanno in comune il fatto di allontanarci da Dio; pertanto, un solo atto di pentimento è sufficiente per tutti loro.
+
+Obiezione 3: Inoltre, i peccati mortali hanno più in comune tra loro di quanto non abbiano il peccato effettivo e il [peccato originale](/positions/original_sin). Ora, un solo Battesimo cancella tutti i peccati, sia quelli effettivi che quelli originali. Pertanto, una sola contrizione generale cancella tutti i peccati mortali.
+
+Al contrario, per diverse malattie esistono diversi rimedi, poiché “ciò che guarisce l’occhio non guarirà il piede”, come afferma Gerome (Super Marc. IX, 28). Ma la contrizione è il rimedio specifico per un singolo peccato mortale; pertanto, una contrizione generale per tutti i peccati mortali non è sufficiente. Inoltre, la contrizione si esprime attraverso la confessione, ma è necessario confessare ogni singolo peccato mortale. Quindi, è indispensabile provare contrizione per ciascun peccato mortale.
+
+Rispondo che la contrizione può essere considerata in due modi: riguardo alla sua origine e riguardo al suo termine. Per origine della contrizione intendo il processo di riflessione attraverso cui un uomo si rende conto del proprio peccato e ne prova rimorso, anche se non nel modo specifico caratteristico della vera contrizione, ma piuttosto in forma di semplice pentimento. Il termine della contrizione si verifica quando tale rimorso viene intensificato dalla grazia divina. Pertanto, riguardo all’origine della contrizione, è necessario che un uomo provi rimorso per ogni singolo peccato che ricorda; ma riguardo al suo termine, basta che abbia un rimorso generale per tutti i propri peccati, poiché in tal caso il movimento del suo pentimento agisce sulla base di tutte le disposizioni interiori precedenti. Questo è sufficiente per rispondere alla Prima Obiezione.
+
+Risposta all’Obiezione 2: Sebbene tutti i peccati mortali abbiano in comune il fatto di allontanare l’uomo da Dio, essi differiscono per la causa e il modo con cui ci allontanano da Lui, nonché per il grado di separazione che comportano; inoltre, questi peccati influenzano in modi diversi il nostro rapporto con le altre creature.
+
+Risposta all’Obiezione 3: Il Battesimo agisce in virtù del merito di Cristo, il quale possedeva un potere infinito per cancellare tutti i peccati; pertanto, basta un solo Battesimo per tutti i peccati. Tuttavia, nella contrizione, oltre al merito di Cristo, è necessario anche un atto da parte nostra, che deve quindi corrispondere a ciascun peccato, poiché il potere della contrizione non è infinito.  
+Si può inoltre osservare che il Battesimo rappresenta una sorta di “generazione spirituale”, mentre la Penitenza, per quanto riguarda la contrizione e le altre sue componenti, costituisce un processo di “guarigione spirituale” attraverso alcune modifiche interne. È evidente che nella generazione di un corpo, accompagnata dalla corruzione di un altro corpo, tutti gli elementi contrari a ciò che viene generato vengono eliminati; viceversa, in un processo di alterazione, viene rimossa soltanto quella caratteristica che era contraria alla caratteristica finale dell’oggetto modificato. Allo stesso modo, un solo Battesimo cancella tutti i peccati e introduce una nuova vita; la Penitenza, invece, non cancella ciascun peccato individualmente, a meno che non venga rivolta specificamente a ciascuno di essi. Per questa ragione è necessario provare contrizione e confessare ogni singolo peccato.
+
 <span class="atom-split" data-atom="013" data-title="OF THE DEGREE OF CONTRITION (THREE ARTICLES)" data-chapter="OF THE DEGREE OF CONTRITION (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the degree of contrition: under which head there are three points of
@@ -443,6 +602,13 @@ inquiry:
 (1) Whether contrition is the greatest possible sorrow in the world?
 (2) Whether the sorrow of contrition can be too great?
 (3) Whether sorrow for one sin ought to be greater than for another?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il grado di contrizione: in questo ambito vi sono tre punti da esaminare:  
+(1) Se la contrizione rappresenti il dolore più profondo possibile nel mondo;  
+(2) Se il dolore derivante dalla contrizione possa essere davvero eccessivo;  
+(3) Se il dolore per un peccato debba essere maggiore di quello per un altro.
 
 <span class="atom-split" data-atom="014" data-title="Whether contrition is the greatest possible sorrow in the world?" data-chapter="Whether contrition is the greatest possible sorrow in the world?" data-kind="atom" data-srclang="en"></span>
 
@@ -545,6 +711,32 @@ not be questioned about his feelings, because man cannot easily measure them. So
 which displeases least seems to displease most, through being more closely connected with some
 sensible hurt, which is more known to us.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il pentimento non sia il dolore più grande possibile al mondo. Infatti, il dolore è la sensazione di sofferenza; ma alcune forme di sofferenza vengono percepite con maggiore intensità rispetto alla sofferenza causata dal peccato, ad esempio il dolore provocato da una ferita. Pertanto, il pentimento non rappresenta il dolore più grande in assoluto.
+
+Obiezione 2: Inoltre, giudichiamo una causa in base al suo effetto. Ora, l’effetto del dolore sono le lacrime. Poiché talvolta una persona pentita non versa lacrime per i propri peccati, ma piange invece per la morte di un amico o per un colpo subito, sembra che la penitenza non sia il dolore più profondo.
+
+Obiezione 3: Inoltre, più una cosa è mescolata con il suo contrario, minore ne è l’intensità. Ma il dolore della contrizione contiene una notevole dose di gioia, poiché la persona pentita si rallegra della propria liberazione, nella speranza di essere perdonata, e per molte altre ragioni simili. Pertanto, il suo dolore è molto lieve.
+
+Obiezione 4: Inoltre, il dolore della contrizione è un tipo di dispiacere. Ma ci sono molte cose che causano maggiore dispiacere al pentito rispetto ai propri peccati passati; infatti, nessuno preferirebbe subire i tormenti dell’inferno piuttosto che peccare, né sopportare qualsiasi tipo di punizione temporale. Altrimenti, pochi sarebbero veramente pentiti. Pertanto, il dolore della contrizione non è certo il più intenso possibile.
+
+Al contrario, secondo [Agostino](/figures/augustine) (De Civ. Dei xiv, 7, 9), “tutta la tristezza ha origine nell’amore”. Ora, l’amore della carità, su cui si fonda la tristezza della contrizione, è l’amore più grande; pertanto anche la tristezza della contrizione è la tristezza più profonda. Inoltre, la tristezza nasce dal male; quindi, maggiore è il male, maggiore è la tristezza. Ma il peccato rappresenta un male ancora più grave della sua punizione; pertanto la contrizione, che è la tristezza per il peccato, supera tutte le altre forme di tristezza.
+
+Rispondo che, come già detto sopra (Q[1], A[2], ad 1), nella contrizione esistono due tipi di dolore: uno riguarda la volontà e costituisce l’essenza stessa della contrizione, essendo nulla altro che il dispiacere per i peccati commessi in passato; questo tipo di dolore, nella contrizione, supera tutti gli altri. Infatti, più una cosa è piacevole, più spiacevole è il suo contrario; e poiché lo scopo finale della vita umana è ciò che rappresenta la massima felicità, il peccato, che ci allontana da tale scopo, deve necessariamente essere considerato qualcosa di estremamente spiacevole. L’altro tipo di dolore riguarda la parte sensibile del corpo e deriva dal primo; può sorgere per necessità naturale, poiché le facoltà inferiori seguono inevitabilmente gli impulsi delle facoltà superiori, oppure volontariamente, quando il pentito si sforza di provare tale dolore nei confronti dei propri peccati. In nessuno di questi casi tale dolore è necessariamente il più intenso; anzi, le facoltà inferiori sono spesso più profondamente colpite dagli stimoli provenienti dalle facoltà superiori. Pertanto, quanto più l’azione delle facoltà superiori si avvicina agli oggetti delle facoltà inferiori, tanto più queste ultime seguono spontaneamente il loro impulso. Di conseguenza, il dolore che colpisce la parte sensibile del corpo a causa di un danno fisico è maggiore di quello che deriva dalla riflessione razionale; allo stesso modo, il dolore derivante dalla riflessione su questioni materiali è più intenso di quello derivante dal considerare questioni spirituali. Pertanto, il dolore che sorge nella parte sensibile a causa del dispiacere della ragione per i peccati non è maggiore degli altri tipi di dolore che colpiscono questa stessa parte; e allo stesso modo, nemmeno il dolore che deriva volontariamente dalla riflessione razionale è più intenso degli altri tipi di dolore, sia perché il desiderio inferiore non obbedisce sempre al desiderio superiore, sia perché le emozioni vengono utilizzate dalla ragione, negli atti di virtù, secondo determinati limiti, che un dolore privo di virtù a volte non rispetta.
+
+Risposta all’Obiezione 1: Proprio come il dolore sensibile deriva dalla percezione di un danno fisico, così il dolore interiore nasce dal pensiero di qualcosa che causa sofferenza. Pertanto, anche se il danno causato dal peccato non viene percepito dai sensi esterni, esso è considerato il danno più grave dalla ragione o dal senso interno.
+
+Risposta all’Obiezione 2: Le affezioni del corpo sono il risultato immediato delle passioni sensibili e, attraverso di esse, delle emozioni derivanti dall’appetito più elevato. È per questo che le lacrime fisiche scaturiscono più rapidamente dalla tristezza sensibile, o persino da qualcosa che offende i sensi, rispetto alla tristezza spirituale derivante dal pentimento.
+
+Risposta all’Obiezione 3: La gioia che un pentito prova per il proprio dolore non diminuisce la sua scontentezza (poiché non è contraria ad essa), ma anzi la aumenta, poiché ogni azione viene intensificata dal piacere che provoca, come affermato nell’Etica, X, 5. Così colui che trova gioia nello studiare una scienza impara meglio; allo stesso modo, colui che si rallegra della propria scontentezza ne è ancora più profondamente turbato. Tuttavia, può ben accadere che questa gioia attenui il dolore derivante dalla ragione nella parte sensibile dell’anima.
+
+Risposta all’Obiezione 4: Il grado di dispiacere suscitato da un evento dovrebbe essere proporzionale al grado della sua malvagità. Ora, la malvagità del peccato mortale viene misurata in relazione a Colui contro il quale viene commesso, poiché rappresenta un’offesa Per Lui; e anche in relazione a colui che pecca, poiché gli arreca danno. Poiché l’uomo dovrebbe amare Dio più di se stesso, dovrebbe odiare il peccato, come offesa contro Dio, ancora di più di quanto esso gli possa causare danno. Il peccato gli causa danno soprattutto perché lo separa da Dio; e in questo senso, questa separazione, che rappresenta una punizione, dovrebbe suscitare un maggiore dispiacere del peccato stesso, poiché è essa a causare tale danno (poiché ciò che viene odiato per qualche altra ragione viene odiato meno intensamente); tuttavia, tale dispiacere è minore rispetto all’offesa contro Dio che il peccato rappresenta. Inoltre, tra tutte le punizioni derivanti dalla malvagità, esiste una certa gerarchia in base al grado del danno arrecato; pertanto, poiché questo danno è il più grave – essendo legato alla privazione del bene supremo – anche la punizione più severa sarà quella che consiste nella separazione da Dio.  
+Per quanto riguarda tale dispiacere, bisogna notare che esiste anche un grado di malvagità “accidentale”, in relazione al presente o al passato; poiché ciò che è accaduto nel passato non esiste più, esso possiede meno carattere di malvagità o bontà. Per questo motivo, l’uomo evita con maggiore disgusto un male attuale o futuro rispetto a un male già accaduto in passato; e pertanto nessuna emozione dell’anima corrisponde direttamente al passato: il dolore riguarda i mali presenti, mentre la paura riguarda i mali futuri. Di conseguenza, tra due mali passati, l’uomo evita con maggiore disgusto quello che ancora oggi ha un effetto negativo più grave, o che teme possa avere un effetto peggiore in futuro, anche se in passato era il male minore. Inoltre, poiché l’effetto del peccato passato a volte non viene percepito con la stessa intensità dell’effetto della punizione conseguente – sia perché il peccato può essere più facilmente redento rispetto alla punizione, sia perché il difetto fisico è più evidente di quello spirituale – anche una persona ben disposta talvolta prova un maggiore disgusto per la punizione subita in passato rispetto al peccato commesso, anche se sarebbe pronta a sopportare nuovamente la stessa punizione piuttosto che commettere di nuovo lo stesso peccato.  
+Bisogna inoltre notare che alcune punizioni sono inseparabili dall’offesa contro Dio; ad esempio, la separazione da Lui. Alcune punizioni, inoltre, sono eterne, come quella dell’inferno. Pertanto, quelle punizioni legate a un’offesa contro Dio devono essere evitate allo stesso modo in cui si evita il peccato stesso; mentre quelle eterne devono essere evitate ancora di più rispetto al peccato. Tuttavia, se si separa dal concetto di offesa e si considera soltanto il concetto di punizione, queste ultime possiedono un grado di malvagità inferiore a quello del peccato stesso come offesa contro Dio; per questo motivo dovrebbero suscitare meno dispiacere.  
+Tuttavia, è necessario ricordare che, anche se una persona pentita dovrebbe comportarsi in questo modo, ciò non significa che.
+Non si possono mettere in discussione i suoi sentimenti, perché l’uomo non è in grado di misurarli facilmente. A volte ciò che sembra causare meno dispiacere, in realtà lo provoca maggiormente, poiché è strettamente legato a qualche dolore concreto e tangibile, che conosciamo meglio.
+
 <span class="atom-split" data-atom="015" data-title="Whether the sorrow of contrition can be too great?" data-chapter="Whether the sorrow of contrition can be too great?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the sorrow of contrition cannot be too great. For no sorrow
@@ -580,6 +772,22 @@ did not wish his eyes to be blinded.
 
 Reply to Objection 2: This objection considers the sorrow which is in the reason: while the
 Third considers the sorrow of the sensitive part.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il dolore della contrizione non possa mai essere troppo intenso. Infatti, nessun dolore può essere più eccessivo di quello che distrugge la stessa persona che lo prova. Tuttavia, se il dolore della contrizione fosse così profondo da causare la morte o la corruzione del corpo, sarebbe degno di lode. Anselmo, infatti, afferma nell’Oratio lii: “Oh, se solo l’esuberanza della mia anima potesse prosciugare le ossa del mio corpo!”; inoltre, Agostino nel suo scritto *De Contritione Cordis* (opera di autore sconosciuto) confessa di “meritare che le lacrime gli accechino gli occhi”. Pertanto, il dolore della contrizione non può mai essere troppo intenso.
+
+Obiezione 2: Inoltre, il dolore della contrizione deriva dall’amore di carità. Ma l’amore di carità non può essere mai troppo grande. Pertanto, nemmeno il dolore della contrizione può essere mai troppo intenso.
+
+Obiezione 3:
+
+Al contrario, ogni virtù morale viene distrutta sia dall’eccesso che dalla mancanza. Ma il pentimento è un atto legato a una virtù morale, cioè alla penitenza, poiché fa parte della giustizia. Pertanto, il dolore per i peccati può essere eccessivo.
+
+Rispondo che la contrizione, in quanto riguarda il dolore intellettuale, cioè il dispiacere derivante dal fatto che il peccato rappresenti un’offesa contro Dio, non può mai essere troppo intenso; allo stesso modo, nemmeno l’amore fraterno può mai essere eccessivo, poiché quando quest’ultimo aumenta, anche il suddetto dispiacere cresce. Tuttavia, per quanto riguarda il dolore sensibile, la contrizione può certamente essere troppo intensa, così come le sofferenze fisiche possono risultare eccessive. In tutte queste circostanze, la regola da seguire dovrebbe essere quella di preservare la salute del soggetto e quel benessere generale necessario per adempiere ai propri doveri; ecco perché si legge in (Romani 12:1): “Che il vostro sacrificio sia gradito a Dio”.
+
+Risposta all’Obiezione 1: Anselmo desiderava che il “midollo” del suo corpo si prosciugasse a causa dell’intensità della sua devozione, non riguardo agli umori naturali del corpo, ma riguardo ai suoi desideri e concupiscenze materiali. E sebbene Agostino riconoscesse di meritare la perdita dell’uso dei propri occhi a causa dei propri peccati – poiché ogni peccatore merita non solo la morte eterna, ma anche quella temporale – egli tuttavia non desiderava che i suoi occhi venissero accecati.
+
+Risposta all’Obiezione 2: Questa obiezione riguarda il dolore che ha origine nella ragione; mentre la Terza obiezione si riferisce al dolore della parte sensibile dell’anima.
 
 <span class="atom-split" data-atom="016" data-title="Whether sorrow for one sin should be greater than for another?" data-chapter="Whether sorrow for one sin should be greater than for another?" data-kind="atom" data-srclang="en"></span>
 
@@ -637,12 +845,39 @@ Reply to Objection 3: Although each mortal sin turns us away from God and depriv
 His grace, yet some remove us further away than others, inasmuch as through their inordinateness
 they become more out of harmony with the order of the Divine goodness, than others do.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il dolore per un peccato non debba necessariamente essere maggiore di quello per un altro. Infatti, Gerolamo (Epistola CVIII) loda Paola per il fatto che “lamentava i suoi peccati più lievi tanto quanto quelli gravi”. Pertanto, non è necessario provare maggior dolore per un peccato piuttosto che per un altro.
+
+Obiezione 2: Inoltre, il movimento della contrizione è istantaneo. Ora, un movimento istantaneo non può essere allo stesso tempo più intenso e più debole. Pertanto, la contrizione per un peccato non deve necessariamente essere maggiore di quella per un altro peccato.
+
+Obiezione 3: Inoltre, il pentimento riguardo al peccato ha principalmente lo scopo di allontanarci da Dio. Ma tutti i peccati mortali hanno lo stesso effetto, ovvero ci allontanano da Dio, poiché ci privano della grazia che unisce l’anima a Dio. Pertanto, dovremmo provare lo stesso pentimento per tutti i peccati mortali.
+
+Al contrario, è scritto (Deuteronomio 25:2): “Secondo la misura del peccato, sarà anche la misura delle punizioni”. Ora, nella contrizione, le punizioni vengono determinate in base ai peccati commessi, poiché alla contrizione è legata l’intenzione di compiere un atto di soddisfazione per i propri errori. Pertanto, la contrizione dovrebbe essere più profonda per alcuni peccati che per altri.  
+Inoltre, l’uomo dovrebbe provare rimorso per ciò che avrebbe dovuto evitare; e dovrebbe evitare un certo peccato con maggiore impegno se esso è più grave, soprattutto quando sia necessario scegliere tra due alternative. Pertanto, allo stesso modo, si dovrebbe provare maggior dolore per il peccato più grave che per l’altro.
+
+Rispondo che si può parlare di contrizione in due modi: innanzitutto, in quanto essa corrisponde a ciascun singolo peccato; pertanto, per quanto riguarda il dolore provato dall’appetito superiore, un uomo dovrebbe provare maggiore rimorso per un peccato più grave, poiché in tale caso esistono motivi più validi per il dolore stesso, ovvero l’offesa arrecata a Dio. Più un atto è irragionevole, più offende Dio; di conseguenza, più grave è il peccato, maggiore dovrebbe essere anche la punizione e, di conseguenza, il dolore provato dall’appetito sensibile. Tuttavia, in quanto le emozioni derivanti dall’appetito inferiore siano il risultato dell’influenza dell’appetito superiore, il grado di rimorso dipende dalla capacità dell’appetito inferiore di recepire tali influenze, e non dalla gravità del peccato stesso.  
+In secondo luogo, la contrizione può essere intesa anche nel senso che riguarda tutti i propri peccati insieme, come avviene nell’atto della giustificazione. Tale tipo di contrizione deriva o dal considerare ciascun singolo peccato – e quindi, sebbene si tratti di un unico atto, la distinzione tra i vari peccati rimane comunque presente – oppure include almeno l’intenzione di riflettere su ciascuno di essi; anche in questo caso, il grado di contrizione tende ad essere maggiore per alcuni peccati rispetto ad altri.
+
+Risposta all’Obiezione 1: Paula viene lodata non perché condanni tutti i suoi peccati allo stesso modo, ma perché si addolora per i suoi piccoli peccati come se fossero peccati gravi, rispetto ad altre persone che si addolorano soltanto per i peccati più gravi; per i peccati ancora più gravi, invece, si sarebbe addolorata molto di più.
+
+Risposta all’Obiezione 2: In quel movimento istantaneo di contrizione, sebbene non sia possibile individuare un’intensità effettivamente distinta per ciascun singolo peccato, essa esiste comunque nel modo spiegato sopra; esiste inoltre anche in un altro modo: poiché, in questa contrizione generale, ogni singolo peccato è collegato a quel particolare motivo di dolore che sorge nella persona contrita, ovvero all’offesa arrecata a Dio. Chi ama un tutto ama potenzialmente le sue parti, sebbene non effettivamente; pertanto ama alcune parti di più e altre di meno, in proporzione al loro rapporto con il tutto. Allo stesso modo, chi si pente di aver offeso Dio prova dolore, in modo implicito, per i diversi peccati commessi, in base al fatto che attraverso di essi ha offeso Dio in misura maggiore o minore.
+
+Risposta all’Obiezione 3: Sebbene ogni peccato mortale ci allontani da Dio e ci privi della Sua grazia, alcuni di essi ci allontanano ancora di più rispetto ad altri, poiché, per la loro natura disordinata, creano una maggiore discordanza con l’ordine della bontà divina.
+
 <span class="atom-split" data-atom="017" data-title="OF THE TIME FOR CONTRITION (THREE ARTICLES)" data-chapter="OF THE TIME FOR CONTRITION (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the time for contrition: under which head there are three points of inquiry:
 (1) Whether the whole of this life is the time for contrition?
 (2) Whether it is expedient to grieve continually for our sins?
 (3) Whether souls grieve for their sins even after this life?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il periodo del pentimento: in questo ambito vi sono tre punti da esaminare:
+(1) Se l’intera durata di questa vita sia il tempo adatto per il pentimento;
+(2) Se sia opportuno continuare a piangere i propri peccati;
+(3) Se le anime continuiano a pentirsi dei propri peccati anche dopo questa vita.
 
 <span class="atom-split" data-atom="018" data-title="Whether the whole of this life is the time for contrition?" data-chapter="Whether the whole of this life is the time for contrition?" data-kind="atom" data-srclang="en"></span>
 
@@ -715,6 +950,32 @@ derives its finiteness. On the other hand, the sorrow of contrition corresponds 
 the aversion, whence it derives a certain [infinity](/concepts/infinity); wherefore contrition ought to continue always;
 nor is it unreasonable if that which precedes remains, when that which follows is taken away.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il tempo per la contrizione non sia l’intera durata di questa vita. Poiché dovremmo provare rimorso per un peccato commesso, dovremmo anche vergognarcene. Tuttavia, la vergogna per il peccato non dura tutta la vita; Ambrogio, infatti, afferma nel “De Poenitentia” (ii) che “colui la cui colpa è stata perdonata non ha nulla di cui vergognarsi”. Pertanto, sembra anche che la contrizione non debba durare tutta la vita, poiché essa rappresenta il rimorso per un peccato.
+
+Obiezione 2: Inoltre, è scritto (1 Gv. 4:18) che “la carità perfetta scaccia la paura, poiché la paura comporta dolore”. Ma anche il dolore fa parte della tristezza; pertanto, la tristezza derivante dal pentimento non può esistere in uno stato di carità perfetta.
+
+Obiezione 3: Inoltre, non può esserci alcun dolore per il passato (poiché, in senso proprio, si tratta di un male presente) se non nella misura in cui qualcosa del peccato commesso in passato rimane nel presente. Ora, in questa vita, a volte si raggiunge uno stato in cui non rimane nulla di quel peccato passato: né disposizione negativa, né colpa, né alcun debito di punizione. Pertanto, non c’è motivo di continuare a soffrire per quel peccato.
+
+Obiezione 4: Inoltre, è scritto (Romani 8:28) che “a coloro che amano Dio, tutte le cose concorrono al bene”, anche i peccati, come afferma Agostino nel *De Correp. et Grat.*. Pertanto, non c’è motivo per loro di dolersi per i peccati una volta che sono stati perdonati.
+
+Obiezione 5: Inoltre, la contrizione fa parte della Penitenza, insieme alla soddisfazione dei peccati commessi. Tuttavia, non è necessaria una soddisfazione continua; pertanto, nemmeno la contrizione per i peccati deve essere continua.
+
+Al contrario, Agostino nel De Poenitentia [*De vera et falsa Poenitentia, opera di un autore sconosciuto*] afferma che “quando la tristezza cessa, anche il pentimento fallisce; e quando il pentimento fallisce, non rimane più alcuna remissione”. Pertanto, poiché è dovere non perdere la grazia che ci è stata concessa, sembra opportuno che si pianga sempre per i propri peccati. Inoltre, è scritto nell’Ecclesiastico 5:5: “Non essere senza timore riguardo ai peccati perdonati”. Quindi l’uomo dovrebbe sempre piangere, affinché i suoi peccati possano essere perdonati.
+
+Rispondo che, come già detto sopra (Q[3], A[1]), nella contrizione esistono due tipi di dolore: uno riguarda la ragione e consiste nel disprezzo per il peccato commesso; l’altro riguarda la parte sensibile dell’anima ed è conseguenza del primo. Per quanto riguarda entrambi questi aspetti, il momento appropriato per la contrizione è l’intero corso della vita presente. Finché si è in viaggio verso una meta, si detestano gli ostacoli che ritardano o impediscono di raggiungerla; pertanto, poiché i peccati commessi nel passato rallentano il cammino verso Dio (poiché il tempo concesso per raggiungere la meta non può essere recuperato), ne consegue che lo stato di contrizione dura per tutta la durata di questa vita, soprattutto in termini di disprezzo per il peccato. Lo stesso vale per il dolore sensibile, che viene accettato dalla volontà come punizione: poiché l’uomo, peccando, meritava una punizione eterna e ha peccato contro Dio eterno, essendo questa punizione stata commutata in una temporale, il dolore dovrebbe persistere per tutta la durata dell’eternità umana, cioè per tutto il corso di questa vita. Per questo motivo, Guglielmo di Sant’Vittore afferma nel *Richard de Saint-Victor, De Pot. Lig. et Solv. 3,5,13* che “quando Dio assolve un uomo dal peccato e dalla punizione eterna, lo lega con una catena di disprezzo eterno per il peccato”.
+
+Risposta all’Obiezione 1: La vergogna considera il peccato soltanto come un atto disonorevole; pertanto, una volta che la colpa del peccato viene eliminata, non rimane più alcun motivo di vergogna; tuttavia persiste un motivo di dolore, legato sia alla colpa stessa in quanto tale, sia ai danni che essa comporta.
+
+Risposta all’Obiezione 2: La paura servile che la carità scaccia è in contrasto con la carità stessa a causa della sua natura servile, poiché si concentra sulla punizione. Ma il dolore derivante dalla contrizione nasce proprio dalla carità, come già detto sopra (Q[3], A[2]); pertanto, questa analogia non regge.
+
+Risposta all’Obiezione 3: Sebbene, attraverso la penitenza, il peccatore ritorni allo stato precedente di grazia e all’esenzione dal debito della punizione, egli non riprende mai la propria dignità originale di innocenza; pertanto, qualcosa del suo passato peccato rimane sempre.
+
+Risposta all’Obiezione 4: Proprio come un uomo non dovrebbe compiere il male nella speranza che ne derivi del bene, allo stesso modo non dovrebbe rallegrarsi del male, poiché dal male potrebbe eventualmente nascere del bene grazie alla grazia divina o alla provvidenza; in tal caso, infatti, i suoi peccati non avrebbero causato quei beni, ma li avrebbero ostacolati. È piuttosto la provvidenza divina ad essere stata la causa di tali beni, e in questo caso l’uomo dovrebbe rallegrarsi, mentre invece dovrebbe dolersi dei propri peccati.
+
+Risposta all’Obiezione 5: La soddisfazione dipende dalla punizione prescritta per i peccati; pertanto essa può giungere a termine, eliminando così la necessità di ulteriori atti di soddisfazione. Tuttavia, il fatto che tale punizione sia proporzionata al peccato deriva principalmente dal suo legame con una creatura, da cui trae la sua finitezza. D’altra parte, il dolore della contrizione corrisponde al peccato per via dell’avversione che esso suscita, e proprio da questa avversione deriva una certa [infinità](/concepts/infinity); perciò la contrizione dovrebbe continuare sempre. Non è nemmeno irragionevole che ciò che precede rimanga, anche quando ciò che segue viene eliminato.
+
 <span class="atom-split" data-atom="019" data-title="Whether it is expedient to grieve for sin continually?" data-chapter="Whether it is expedient to grieve for sin continually?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not expedient to grieve for sin continually. For it is
@@ -761,6 +1022,26 @@ for which it is assumed, demands.
 
 Reply to Objection 3: Bernard is speaking of sorrow as a passion.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia opportuno continuare a piangere per i peccati. Infatti, a volte è opportuno gioire, come risulta evidente da Filippi 4:4, dove la spiegazione delle parole “Ridete sempre nel Signore” afferma che “è necessario gioire”. Ora, non è possibile gioire e piangere contemporaneamente. Pertanto, non è opportuno continuare a piangere per i peccati.
+
+Obiezione 2: Inoltre, ciò che di per sé è un male e qualcosa da evitare non dovrebbe essere assunto su di sé, se non nella misura in cui sia necessario come rimedio contro qualcos’altro, come nel caso del bruciare o del tagliare una ferita. Ora, il dolore è di per sé un male; per questo si legge (Ecclesiaste 30:24): “Allontana da te la tristezza”, e viene fornito il motivo (Ecclesiaste 30:25): “Poiché la tristezza ha ucciso molti, e non vi è alcun vantaggio in essa”. Anche il Filosofo dice lo stesso (Etica, VII, 13-14; X, 5). Pertanto, non si dovrebbe soffrire per il peccato oltre a quanto sia necessario affinché esso venga cancellato. Ora, il peccato viene già cancellato dopo il primo momento di pentimento e dolore; quindi non è opportuno continuare a soffrire ulteriormente.
+
+Obiezione 3: Inoltre, Bernardo afferma (Sermone XI sul Cantico dei Cantici): “Il dolore è una cosa buona, purché non sia continuo; infatti il miele dovrebbe essere mescolato con la polvere di ipecacuo”. Pertanto, sembra inappropriato soffrire continuamente.
+
+Al contrario, [Agostino](/figures/augustine) nel suo [*De vera et falsa Poenitentia*, opera di autore sconosciuto], afferma:  
+“Il pentito dovrebbe sempre piangere e gioire nella propria tristezza.”  
+Inoltre, è opportuno continuare, per quanto possibile, in quelle azioni dalle quali deriva la [beatazza](/positions/beatitude). La tristezza per il peccato rientra appunto in questa categoria; come dimostrano le parole di Matteo 5:5: “Beati coloro che piangono”. Pertanto, è auspicabile che la tristezza sia quanto più continua possibile.
+
+Rispondo che questa condizione si riscontra negli atti delle virtù: in essi, infatti, né l’eccesso né il difetto sono possibili, come dimostrato nell’Etica, ii, 6,7. Pertanto, poiché la contrizione – in quanto forma di dispiacere radicata nell’appetito razionale – è un atto della virtù della penitenza, non può mai esserci eccesso né nella sua intensità né nella sua durata, salvo nel caso in cui l’atto di una virtù ostacoli quello di un’altra più urgente in quel momento. Di conseguenza, più frequentemente un uomo compie atti di questo tipo, meglio è, a condizione che eserciti anche gli atti delle altre virtù nel modo e nel tempo appropriati. Dall’altro lato, le passioni possono presentare sia eccesso che difetto, sia in intensità che in durata; pertanto, poiché la passione del dolore, che la volontà si impegna a provare, deve essere moderatamente intensa, deve anche avere una durata appropriata, affinché l’uomo non cada nella disperazione, nella codardia o in altri vizi se essa dovesse protrarsi troppo a lungo.
+
+Risposta all’Obiezione 1: Il dolore della penitenza rappresenta un ostacolo alla gioia mondana, ma non alla gioia che riguarda Dio e la cui stessa essenza include il dolore come suo oggetto.
+
+Risposta all’Obiezione 2: Le parole dell’Ecclesiastico si riferiscono alla gioia mondana; il Filosofo, invece, parla del dolore come di una passione che dovremmo utilizzare in modo moderato, secondo i fini per cui viene impiegata.
+
+Risposta all’Obiezione 3: Bernard parla del dolore come di una passione.
+
 <span class="atom-split" data-atom="020" data-title="Whether our souls are contrite for sins even after this life?" data-chapter="Whether our souls are contrite for sins even after this life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that our souls are contrite for sins even after this life. For the love
@@ -802,6 +1083,24 @@ Reply to Objection 3: The pain which the souls suffer in purgatory, cannot, prop
 be called satisfaction, because satisfaction demands a meritorious work; yet, in a broad sense, the
 payment of the punishment due may be called satisfaction.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le nostre anime provino rimorso per i peccati anche dopo questa vita. Infatti, l’amore della carità suscita dispiacere per il peccato. Ora, dopo questa vita, la carità permane in alcuni individui, sia nella sua azione che nella sua [abitudine](/concepts/custom), poiché “la carità non svanisce mai”. Pertanto, il dispiacere per il peccato commesso, che è l’essenza del rimorso, continua ad esistere.
+
+Obiezione 2: Inoltre, dovremmo dolerci di più per il peccato che per la punizione. Ma le anime nel purgatorio soffrono a causa della punizione fisica e del ritardo nella loro glorificazione. Pertanto, dovrebbero dolersi ancora di più per i peccati che hanno commesso.
+
+Obiezione 3: Inoltre, il dolore del purgatorio soddisfa i requisiti legati al peccato. Ma tale soddisfazione trae la sua efficacia dal potere della contrizione. Pertanto, la contrizione sopravvive anche dopo questa vita.
+
+Al contrario, la contrizione fa parte del [sacramento](/concepts/sacrament) della Penitenza. Ma i sacramenti non durano oltre questa vita; pertanto, nemmeno la contrizione dura per sempre. Inoltre, la contrizione può essere così intensa da cancellare sia il peccato che la punizione. Se quindi le anime nel Purgatorio potessero provare contrizione, sarebbe possibile che il loro debito di punizione venisse estinto grazie al potere della loro contrizione, e così esse sarebbero liberate dal dolore sensibile che soffrono, il che è assurdo.
+
+Rispondo che nella contrizione si devono osservare tre aspetti: primo, il suo genere, ovvero il dolore; secondo, la sua forma, poiché è un atto di virtù stimolato dalla carità; terzo, la sua efficacia, poiché è un atto meritevole e sacramentale, e in certo modo soddisfacente. Pertanto, dopo questa vita, quelle anime che dimorano nel regno celeste non possono provare contrizione, poiché sono prive di dolore a causa della pienezza della loro gioia; quelle che si trovano all’inferno non hanno contrizione, perché, sebbene provino dolore, manca loro la grazia che lo stimola; mentre quelle che sono nel purgatorio provano dolore per i propri peccati, un dolore stimolato dalla grazia; tuttavia tale dolore non è meritevole, poiché esse non si trovano nello [stato](/concepts/state) di poter meritare la salvezza. In questa vita, invece, tutti e tre questi aspetti della contrizione possono essere riscontrati.
+
+Risposta all’Obiezione 1: La carità non causa questo dolore, se non in coloro che ne sono capaci; ma la piena gioia dei Beati esclude in loro qualsiasi possibilità di provare dolore; pertanto, anche se possiedono la carità, non hanno alcun pentimento.
+
+Risposta all’Obiezione 2: Le anime nel Purgatorio soffrono per i loro peccati; ma il loro dolore non è contrizione, poiché manca dell’efficacia della vera contrizione.
+
+Risposta all’Obiezione 3: Il dolore che le anime soffrono nel purgatorio non può, propriamente parlando, essere definito “soddisfazione”, poiché la soddisfazione richiede un atto meritevole; tuttavia, in senso lato, il pagamento della punizione dovuta può essere considerato una forma di “soddisfazione”.
+
 <span class="atom-split" data-atom="021" data-title="OF THE EFFECT OF CONTRITION (THREE ARTICLES)" data-chapter="OF THE EFFECT OF CONTRITION (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the effect of contrition: under which head there are three points of
@@ -809,6 +1108,13 @@ inquiry:
 (1) Whether the remission of sin is the effect of contrition?
 (2) Whether contrition can take away the debt of punishment entirely?
 (3) Whether slight contrition suffices to blot out great sins?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’effetto della contrizione: in questo ambito vi sono tre punti da esaminare:  
+(1) Se la remissione del peccato sia effetto della contrizione;  
+(2) Se la contrizione possa eliminare completamente il debito di punizione;  
+(3) Se una contrizione debole sia sufficiente a cancellare peccati gravi.
 
 <span class="atom-split" data-atom="022" data-title="Whether the forgiveness of sin is the effect of contrition?" data-chapter="Whether the forgiveness of sin is the effect of contrition?" data-kind="atom" data-srclang="en"></span>
 
@@ -851,6 +1157,24 @@ of the forgiveness of sin.
 Reply to Objection 3: The dispensation of the Eucharist belongs to the ministers of the Church:
 wherefore a man should not go to Communion until his sin has been forgiven through the ministers
 of the Church, although his sin may be forgiven him before God.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il perdono dei peccati non sia effetto della contrizione. Infatti, solo Dio perdona i peccati. Ma noi siamo in qualche modo la causa della contrizione, poiché essa è un atto che proviene da noi stessi. Pertanto, la contrizione non è la causa del perdono.
+
+Obiezione 2: Inoltre, la contrizione è un atto di virtù. Ora, la virtù segue il perdono del peccato, poiché virtù e peccato non coesistono nella stessa anima. Pertanto, la contrizione non può essere considerata la causa del perdono del peccato.
+
+Obiezione 3: Inoltre, solo il peccato rappresenta un ostacolo all’ ricezione dell’Eucaristia. Ma chi è pentito non dovrebbe partecipare alla Comunione prima di confessarsi. Pertanto, tali persone non hanno ancora ricevuto il perdono dei loro peccati.
+
+Al contrario, un commento al Salmo 50:19, che recita “Un sacrificio a Dio è uno spirito afflitto”, afferma: “Una sincera contrizione è il sacrificio con cui i peccati vengono perdonati”. Inoltre, virtù e vizio sono generati e corrotti dalle stesse cause, come si legge nell’Etica, ii, 1,2. Il peccato viene commesso attraverso l’amore smisurato del cuore; pertanto viene distrutto dal dolore derivante dall’amore ordinato del cuore; di conseguenza, la contrizione cancella il peccato.
+
+Rispondo che la contrizione può essere considerata in due modi: o come parte di un [sacramento](/concepts/sacrament), oppure come atto di virtù. In entrambi i casi, essa è causa del perdono dei peccati, ma non nello stesso modo. Infatti, quando è considerata parte di un sacramento, agisce principalmente come strumento per il perdono dei peccati, come è evidente per gli altri sacramenti (cfr. Sententiae, iv, D, 1, Q[1], A[4]: TP, Q[62], A[1]); mentre, quando è considerata atto di virtù, rappresenta la causa quasi “materiale” del perdono dei peccati. Una disposizione, infatti, può essere considerata una condizione necessaria per la giustificazione; inoltre, essa può essere definita “causa materiale” quando si intende con questo termine ciò che rende la materia idonea ad accogliere qualcosa. Il caso della disposizione di un agente ad agire è diverso: questa, infatti, rientra nel genere delle cause efficienti.
+
+Risposta all’Obiezione 1: Solo Dio è la causa efficace principale del perdono dei peccati; tuttavia, la causa determinante può provenire anche da noi, così come la causa sacramentale, poiché le forme sacramentali sono parole pronunciate da noi e che possiedono il potere di conferire la grazia, permettendo così il perdono dei peccati.
+
+Risposta all’Obiezione 2: Il perdono del peccato precede la virtù e l’infusione della grazia, in un certo senso; in un altro senso, ne segue. E nella misura in cui ne segue, l’atto compiuto per virtù può costituire una causa del perdono del peccato.
+
+Risposta all’Obiezione 3: La celebrazione dell’Eucaristia spetta ai ministri della Chiesa; pertanto un uomo non dovrebbe partecipare alla Comunione finché il suo peccato non sia stato perdonato attraverso i ministri della Chiesa, anche se tale perdono possa essere ottenuto direttamente da Dio.
 
 <span class="atom-split" data-atom="023" data-title="Whether contrition can take away the debt of punishment entirely?" data-chapter="Whether contrition can take away the debt of punishment entirely?" data-kind="atom" data-srclang="en"></span>
 
@@ -897,6 +1221,24 @@ Reply to Objection 3: Although the sorrow of contrition is finite in its intensi
 punishment due for mortal sin is finite; yet it derives infinite power from charity, whereby it is
 quickened, and so it avails for the remission of both guilt and punishment.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il pentimento non possa eliminare completamente il debito di punizione. Infatti, la soddisfazione dei requisiti richiesti e la confessione sono istituiti proprio per liberare l’uomo da questo debito. Ora, nessun uomo è così perfettamente pentito da essere esentato dalla necessità di confessare e di compiere tali atti. Pertanto, il pentimento non può mai essere così intenso da cancellare del tutto il debito di punizione.
+
+Obiezione 2: Inoltre, nella penitenza la punizione dovrebbe in qualche modo compensare il peccato. Ora, alcuni peccati vengono compiuti attraverso gli organi del corpo; pertanto, poiché è proprio per una adeguata compensazione del peccato che “con le stesse cose con cui un uomo pecca, con esse stesso viene punito” (Sapienza 11:17), sembra che la punizione per tali peccati non possa mai essere rimessa attraverso il pentimento.
+
+Obiezione 3: Inoltre, il dolore della contrizione è finito. Ora, per alcuni peccati, cioè quelli mortali, è dovuta una punizione infinita. Pertanto, la contrizione non può mai essere così intensa da cancellare completamente tale punizione.
+
+Al contrario, le affezioni del cuore sono più gradite a Dio degli atti esterni. L’uomo, infatti, viene assolto sia dalla punizione che dal peccato attraverso gli atti esterni; pertanto viene anche assolto attraverso le affezioni del cuore, come la contrizione. Inoltre, abbiamo un esempio di ciò nel ladro a cui fu detto (Lc 23:43): “Oggi sarai con Me in paradiso”, grazie al suo unico atto di pentimento. Per quanto riguarda il fatto che l’intero debito della punizione venga sempre cancellato dalla contrizione, questa questione è già stata trattata in precedenza (Sentenze iv, D, 14, Q[2], AA[1],2; TP, Q[86], A[4]), dove lo stesso argomento era stato discusso anche in relazione alla penitenza.
+
+Rispondo che l’intensità della contrizione può essere considerata in due modi. Primo, dal punto di vista della carità, che provoca quel senso di dispiacere; in questo caso, l’atto di carità può essere così intenso da rendere la contrizione derivante non solo degna di cancellare il peccato, ma anche di ottenere la remissione di ogni punizione. Secondo, dal punto di vista del dolore sensibile che la volontà suscita nella contrizione: poiché questo dolore rappresenta anch’esso una sorta di punizione, può essere così intenso da bastare per eliminare sia il peccato che la punizione.
+
+Risposta all’Obiezione 1: Un uomo non può essere certo che la sua contrizione sia sufficiente per la remissione sia della punizione che del peccato; pertanto è obbligato a confessare e a compiere atti di soddisfazione, soprattutto perché la sua contrizione non sarebbe vera se non fosse accompagnata dall’intenzione di confessare; tale intenzione deve anch’essa essere messa in atto, in conformità con il precetto relativo alla confessione.
+
+Risposta all’Obiezione 2: Proprio come la gioia interiore si riflette nelle parti esterne del corpo, così anche il dolore interiore si manifesta nei membri esterni; per questo si legge (Proverbi 17:22): “Lo spirito addolorato consuma le ossa”.
+
+Risposta all’Obiezione 3: Sebbene il dolore della contrizione sia di intensità finita, proprio come la punizione dovuta al peccato mortale è limitata; tuttavia, trae una forza infinita dalla carità, grazie alla quale viene rafforzato e quindi riesce a contribuire alla remissione sia del peccato che della pena.
+
 <span class="atom-split" data-atom="024" data-title="Whether slight contrition suffices to blot out great sins?" data-chapter="Whether slight contrition suffices to blot out great sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that slight contrition does not suffice to blot out great sins. For
@@ -930,6 +1272,20 @@ a lesser, according as it is more repugnant to the love which causes his sorrow.
 same degree of sorrow for a greater sin, as another has for a lesser, this would suffice for the
 remission of the sin.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che una contrizione lieve non sia sufficiente per cancellare peccati gravi. Poiché la contrizione è il rimedio contro il peccato, un rimedio di natura fisica, che guarisce una malattia corporea minore, non è certo adeguato a curare una malattia più grave. Pertanto, anche la contrizione più lieve non basta per cancellare peccati estremamente gravi.
+
+Obiezione 2: Inoltre, è stato detto in precedenza (Q[3], A[3]) che per i peccati più gravi si dovrebbe provare una contrizione maggiore. Ora, la contrizione non cancella il peccato, a meno che non soddisfi le condizioni necessarie. Pertanto, anche la minima contrizione non cancella tutti i peccati.
+
+Al contrario, ogni grazia santificante cancella ogni peccato mortale, poiché è incompatibile con esso. Ora, ogni pentimento viene rafforzato dalla grazia santificante; pertanto, per quanto lieve possa essere, cancella tutti i peccati.
+
+Rispondo che, come abbiamo spesso detto (Q[1], A[2], ad 1; Q[3], A[1]; Q[4], A[1]), il pentimento include due tipi di dolore. Il primo è legato alla ragione e consiste nel dispiacere per il peccato commesso; tale dolore può essere così lieve da non essere sufficiente per un vero pentimento, ad esempio quando un peccato non provoca in una persona un dispiacere maggiore di quanto dovrebbe provocare la separazione dalla propria fine ultima; allo stesso modo, l’amore può essere talmente debole da non essere sufficiente per una vera carità. Il secondo tipo di dolore è legato ai sensi e la sua lievità non ostacola affatto il vero pentimento, poiché non appartiene essenzialmente al pentimento stesso, ma vi è collegato in modo accidentale; inoltre, tale dolore non è sotto il nostro controllo. Pertanto, dobbiamo affermare che qualsiasi tipo di dolore, per lieve che sia, purché sia sufficiente per un vero pentimento, cancella completamente ogni peccato.
+
+Risposta all’Obiezione 1: I rimedi spirituali traggono la loro infinita efficacia dal potere infinito che agisce al loro interno; pertanto, il rimedio sufficiente a guarire un peccato lieve è altrettanto efficace per guarire anche un peccato grave. Ciò si osserva nel Battesimo, che libera sia dai peccati gravi che da quelli minori; lo stesso vale per la contrizione, purché soddisfi le condizioni necessarie.
+
+Risposta all’Obiezione 2: È necessario che un uomo provi maggiore dolore per un peccato più grave che per uno minore, poiché tale peccato è più in contrasto con l’amore che causa il suo dolore. Tuttavia, se una persona prova lo stesso grado di dolore per un peccato più grave e un’altra per uno minore, ciò sarebbe sufficiente per la remissione del peccato.
+
 <span class="atom-split" data-atom="025" data-title="OF CONFESSION, AS REGARDS ITS NECESSITY (SIX ARTICLES)" data-chapter="OF CONFESSION, AS REGARDS ITS NECESSITY (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider confession, about which there are six points for our consideration: (1)
@@ -942,6 +1298,11 @@ Under the first head there are six points of inquiry:
 (4) Whether it is lawful to confess a sin of which one is not guilty?
 (5) Whether one is bound to confess at once?
 (6) Whether one can be dispensed from confessing to another man?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la confessione, su cui vi sono sei punti da esaminare: (1) La necessità della confessione; (2) La sua natura; (3) Il suo ministrante; (4) La sua qualità; (5) Il suo effetto; (6) Il sigillo della confessione.  
+Sotto il primo punto vi sono sei interrogativi da affrontare: (1) È la confessione necessaria per la salvezza? (2) È conforme alla [legge naturale](/positions/natural_law)? (3) Tutti sono obbligati a confessarsi? (4) È lecito confessare un peccato di cui non si è colpevoli? (5) È obbligatorio confessarsi immediatamente? (6) È possibile essere esentati dal confessarsi a un altro uomo?
 
 <span class="atom-split" data-atom="026" data-title="Whether confession is necessary for salvation?" data-chapter="Whether confession is necessary for salvation?" data-kind="atom" data-srclang="en"></span>
 
@@ -1018,6 +1379,28 @@ reason of the severity of the punishment which is enjoined in satisfaction, but 
 being a part of the sacrament having the sacramental power; wherefore it ought to be imposed by
 the dispensers of the sacraments, and consequently confession is necessary.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la confessione non sia necessaria per la salvezza. Infatti, il [)sacramento](/concepts/sacrament) della Penitenza è istituito proprio al fine di removere i peccati. Ma i peccati vengono sufficientemente rimossi attraverso l’infusione della grazia divina. Pertanto, la confessione non è necessaria per compiere il rito penitenziale.
+
+Obiezione 2: Inoltre, leggiamo di persone a cui i loro peccati sono stati perdonati senza che avessero fatto confessione, ad esempio Pietro, Maddalena e Paolo. Ma la grazia che perdona i peccati non è meno efficace oggi di quanto lo fosse allora. Pertanto, nemmeno oggi è necessario che l’uomo faccia confessione per essere salvato.
+
+Obiezione 3: Inoltre, un peccato commesso a causa di un altro dovrebbe ricevere la propria sanazione da quell’altro. Pertanto, il peccato effettivo che un uomo compie con le proprie azioni deve essere sanato dall’uomo stesso. Ora, la penitenza è istituita proprio per tali peccati; quindi la confessione non è necessaria per la salvezza.
+
+Obiezione 4: Inoltre, la confessione è necessaria per una sentenza giudiziaria, affinché la punizione possa essere inflitta in proporzione al reato commesso. Ora, un uomo è in grado di infliggersi una punizione più severa di quella che potrebbe essere imposta da altri. Pertanto, sembra che la confessione non sia necessaria per la salvezza.
+
+Al contrario, Boezio afferma (De Consolatio i): “Se vuoi che il medico ti sia d’aiuto, devi fargli conoscere la tua malattia”. Ma per la salvezza è necessario che l’uomo assuma “medicamenti” per i propri peccati; pertanto è indispensabile che riveli tali peccati attraverso la confessione. Inoltre, in un tribunale civile il giudice è distinto dall’accusato; quindi il peccatore, essendo l’accusato stesso, non dovrebbe essere il proprio giudice, ma dovrebbe essere giudicato da un altro, e di conseguenza dovrebbe confessare i propri peccati a quest’ultimo.
+
+Rispondo che la Passione di Cristo, senza il cui potere né il peccato originale né quello effettivo possono essere rimessi, produce il proprio effetto in noi attraverso la ricezione dei sacramenti i quali traggono la loro efficacia da essa. Pertanto, per la remissione sia del peccato effettivo che di quello originale, è necessario un sacramento della Chiesa, ricevuto sia realmente che almeno desideratamente, quando una persona non può riceverlo in modo concreto a causa di un ostacolo inevitabile, e non per disprezzo. Di conseguenza, quei sacramenti che sono stabiliti come rimedi per i peccati incompatibili con la salvezza, sono necessari per essa: così come il Battesimo, che cancella il peccato originale, è necessario per la salvezza, lo stesso vale per il sacramento della Penitenza. E proprio come una persona, chiedendo di essere battezzata, si sottomette ai ministri della Chiesa a cui spetta impartire quel sacramento, allo stesso modo, confessando il proprio peccato, si sottomette a un ministro della Chiesa affinché, attraverso il sacramento della Penitenza da lui amministrato, possa ricevere il perdono dei propri peccati; inoltre, il ministro non può applicare il rimedio appropriato se non conosce il peccato, conoscenza che acquisisce attraverso la confessione del penitente. Pertanto, la confessione è necessaria per la salvezza di una persona che ha commesso un peccato effettivo mortale.
+
+Risposta all’Obiezione 1: L’infusione della grazia è sufficiente per la remissione del peccato; tuttavia, anche dopo che il peccato è stato perdonato, il peccatore deve ancora scontare una pena temporale. Inoltre, i sacramenti della grazia sono istituiti affinché l’uomo possa ricevere tale infusione di grazia; prima di riceverli, sia effettivamente che intenzionalmente, l’uomo non riceve la grazia. Ciò è evidente nel caso del Battesimo e vale anche per la Penitenza. Il penitente sconta la propria pena temporale attraverso l’umiliazione della confessione, il potere dei sacramenti a cui si sottomette, e le penitenze prescritte dal sacerdote, che quest’ultimo modera in base al tipo di peccati rivelati nella confessione. Tuttavia, il fatto che la confessione sia necessaria per la salvezza non deriva dal suo effetto di soddisfare i peccati, poiché tale pena, pur essendo obbligatoria dopo la remissione del peccato, è di natura temporale; pertanto la via della salvezza rimane aperta anche senza che tale pena venga scontata in questa vita. La necessità della confessione deriva invece dal suo effetto di ottenere la remissione dei peccati, come spiegato sopra.
+
+Risposta all’Obiezione 2: Anche se non si legge che abbiano confessato, è possibile che lo abbiano fatto; infatti molte cose venivano compiute senza essere registrate per iscritto. Inoltre, Cristo possiede il potere supremo nei sacramenti; quindi Egli poteva conferire la realtà del sacramento senza utilizzare gli elementi che ne fanno parte.
+
+Risposta all’Obiezione 3: Il peccato che si commette attraverso un altro, cioè il peccato originale, può essere rimediato da una causa interamente esterna, come nel caso dei bambini; mentre il peccato effettivo, che un uomo compie da solo, non può essere espiato senza un’azione da parte dello stesso peccatore. Tuttavia, l’uomo non è sufficiente a espiare il proprio peccato da solo, anche se era sufficiente a commetterlo; infatti, il peccato presenta una natura finita riguardo alla cosa verso cui si rivolge, e in questo senso il peccatore ritorna su se stesso; mentre, dal punto di vista della forza che lo contrasta, il peccato possiede una natura infinita, e in questo senso la remissione del peccato deve necessariamente provenire da un altro, poiché “ciò che è ultimo nell’ordine della generazione è primo nell’ordine dell’intenzione” (Etica, iii). Pertanto, anche il peccato effettivo deve necessariamente trovare la propria rimedio in un altro.
+
+Risposta all’Obiezione 4: La soddisfazione non sarebbe sufficiente per espiare la punizione del peccato, data la gravità della pena imposta attraverso tale soddisfazione; tuttavia essa è sufficiente in quanto parte di un sacramento che possiede potere sacramentale. Pertanto, dovrebbe essere impostata dai ministri dei sacramenti, e di conseguenza la confessione risulta necessaria.
+
 <span class="atom-split" data-atom="027" data-title="Whether confession is according to the natural law?" data-chapter="Whether confession is according to the natural law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that confession is according to the [natural law](/positions/natural_law). For Adam and Cain
@@ -1070,6 +1453,24 @@ Reply to Objection 3: Job is speaking of the man who hides his sin by denying it
 himself when he is accused thereof, as we may gather from a gloss [*Cf. Gregory, Moral. xxii, 9]
 on the passage.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la confessione sia conforme alla [legge naturale](/positions/natural_law). Infatti, né Adamo né Caino erano vincolati da alcun altro principio se non da quelli della legge naturale, eppure vengono rimproverati per non aver confessato i loro peccati. Pertanto, la confessione del peccato è conforme alla legge naturale.
+
+Obiezione 2: Inoltre, quei precetti comuni sia all’Antico che al [Nuovo Testamento](/concepts/divine_law) sono conformi alla legge naturale. Tuttavia, la confessione era prescritta nell’Antico Testamento, come si può desumere da Isai 43:26: “Rispondi, se hai qualcosa per giustificarti”. Pertanto, anche questa pratica è conforme alla legge naturale.
+
+Obiezione 3: Inoltre, Giobbe era soggetto soltanto alla legge naturale. Tuttavia confessò i propri peccati, come risulta dalle sue parole (Giobbe 31:33): “Se ho nascosto il mio peccato come un uomo, ”. Pertanto, la confessione è conforme alla legge naturale.
+
+Al contrario, Isidoro afferma (Etym. v.) che la legge naturale è la stessa per tutti. Tuttavia, la confessione non è praticata in modo identico da tutti; pertanto, non segue le norme della legge naturale. Inoltre, la confessione viene fatta a colui che possiede le “chiavi”: ma le chiavi della Chiesa non costituiscono un’istituzione derivante dalla legge naturale; di conseguenza, nemmeno la confessione lo è.
+
+Rispondo che i sacramenti sono dichiarazioni di fede; pertanto devono essere proporzionati a tale fede. Ora, la fede supera la conoscenza della ragione naturale, e quindi anche le prescrizioni di questa ragione vengono sorpassate dai sacramenti. Poiché “la legge naturale non deriva dall’opinione, ma è il prodotto di una certa forza innata”, come afferma Tullio nel De Inv. Rhet. ii, ne consegue che i sacramenti non fanno parte della legge naturale, bensì della legge divina, che trascende la natura stessa. Quest’ultima, tuttavia, viene talvolta definita “naturale”, nel senso che ciò che deriva dal suo Creatore è considerato “naturale” per quella cosa; ma, in senso stretto, si definiscono “naturali” soltanto quelle cose causate dai principi della natura stessa. Tuttavia, ciò che Dio riserva a Sé stesso trascende la natura: tali realtà vengono realizzate o attraverso l’azione della natura, o mediante miracoli, o attraverso la rivelazione di misteri, o ancora tramite l’instituzione dei sacramenti. Pertanto, la confessione, essendo necessaria per il ricevimento dei sacramenti, rientra nella sfera della legge divina, ma non di quella naturale.
+
+Risposta all’Obiezione 1: Adamo viene rimproverato per non aver confessato il proprio peccato davanti a Dio; infatti la confessione che si compie davanti a Dio attraverso l’ammissione del proprio peccato è conforme alla legge naturale. Qui, invece, ci riferiamo a una confessione fatta davanti a un uomo. Si può anche ribattere che, in tal caso, la confessione del proprio peccato sia conforme alla legge naturale, soprattutto quando si viene chiamati a farlo da un giudice in tribunale; in quel momento il peccatore non dovrebbe mentire scusandosi o negando il proprio peccato, come invece fanno Adamo e Caino. Tuttavia, una confessione fatta volontariamente davanti a un uomo al fine di ricevere da Dio il perdono dei propri peccati non è conforme alla legge naturale.
+
+Risposta all’Obiezione 2: I precetti della legge naturale sono efficaci nello stesso modo sia nella legge di Mosè che nella Nuova Legge. Tuttavia, sebbene nella legge di Mosè esistesse una sorta di confessione dei peccati, essa non avveniva nel medesimo modo rispetto alla Nuova Legge né rispetto alla legge naturale; infatti, nella legge naturale era sufficiente riconoscere il proprio peccato interiormente davanti a Dio, mentre nella legge di Mosè era necessario dichiarare il proprio peccato attraverso un segno esterno, come l’offerta di un sacrificio, in modo che la realtà del proprio peccato diventasse nota ad altri; tuttavia non era obbligatorio specificare quale peccato fosse stato commesso o quali ne fossero le circostanze, come avviene nella Nuova Legge.
+
+Risposta all’Obiezione 3: Giobbe parla dell’uomo che nasconde il proprio peccato negandolo o scusandosene quando viene accusato di esso, come possiamo dedurre da un commento su questo passaggio [*Cfr. Gregorio Magno, Morali, xxii, 9*].
+
 <span class="atom-split" data-atom="028" data-title="Whether all are bound to confession?" data-chapter="Whether all are bound to confession?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that not all are bound to confession, for Jerome says on Is. 3:9
@@ -1115,6 +1516,24 @@ apply to venial sins, because no one can confess all his venial sins. Accordingl
 no mortal sins to confess, is not bound to confess his venial sins, but it suffices for the fulfillment
 of the commandment of the Church that he present himself before the priest, and declare himself
 to be unconscious of any mortal sin: and this will count for his confession.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non tutti siano obbligati alla confessione, poiché Gerolamo, commentando Isai 3:9 (“Hanno proclamato apertamente i loro peccati”), afferma: “La penitenza è il secondo mezzo di salvezza dopo il naufragio”. Tuttavia, alcuni non hanno subito alcun “naufragio” dopo il Battesimo; pertanto la penitenza non è adatta a loro, e di conseguenza lo è nemmeno la confessione, che ne fa parte.
+
+Obiezione 2: Inoltre, è proprio il giudice a cui deve essere fatta la confessione in qualsiasi tribunale. Ma alcuni non hanno un giudice che li sovrintenda; pertanto, non sono obbligati a confessare.
+
+Obiezione 3: Inoltre, alcune persone commettono soltanto peccati veniali. Ora, un uomo non è obbligato a confessare tali peccati. Pertanto, non tutti sono obbligati alla confessione.
+
+Al contrario, la Confessione viene fatta con soddisfazione e pentimento. Ora tutti sono tenuti al pentimento e alla soddisfazione; pertanto, tutti sono anche tenuti a confessare i propri peccati. Inoltre, ciò risulta chiaro dai Decretali (De Poenit. et Remiss. xii), dove si afferma che “tutti, di entrambi i sessi, sono tenuti a confessare i loro peccati non appena raggiungono l’età della discrezione”.
+
+Rispondo che siamo obbligati al pentimento per due motivi: innanzitutto, per la [legge divina](/concepts/divine_law), poiché il pentimento rappresenta un mezzo di redenzione; in questo senso, non tutti sono tenuti a confessarsi, ma soltanto coloro che commettono peccati mortali dopo il Battesimo. In secondo luogo, per un precetto della legge positiva: in questo caso, tutti sono vincolati dal precetto stabilito dalla Chiesa nel Concilio Lateranense IV (Canone 21), emanato sotto Innocenzo III. Questo obbligo serve sia affinché ognuno riconosca di essere peccatore, poiché “tutti hanno peccato e hanno bisogno della grazia di Dio” (Romani 3:23), sia per rendere l’accesso all’Eucaristia più solenne. Infine, tale obbligo è necessario affinché i parroci possano conoscere bene la propria parrocchia, per evitare che vi si nascondano individui pericolosi.
+
+Risposta all’Obiezione 1: Sebbene sia possibile a un uomo, in questa vita mortale, evitare il “naufragio”, cioè i peccati mortali, dopo il Battesimo, non può tuttavia evitare i peccati veniali, che lo predispongono al “naufragio” e contro i quali è stata istituita anche la Penitenza; pertanto esiste ancora spazio per la Penitenza, e di conseguenza anche per la Confessione, anche in coloro che non commettono peccati mortali.
+
+Risposta all’Obiezione 2: Tutti devono riconoscere Cristo come il proprio giudice davanti al quale devono confessarsi attraverso il suo vicario; e sebbene quest’ultimo possa essere di rango inferiore quando il penitente è un prelato, egli rimane comunque superiore, poiché il penitente è un peccatore, mentre il confessore è il ministro di Cristo.
+
+Risposta all’Obiezione 3: Un uomo è obbligato a confessare i propri peccati veniali, non in virtù dello [sacramento](/concepts/sacrament), ma per disposizione della Chiesa, e questo soltanto quando non abbia altri peccati mortali da confessare. Possiamo anche ribattere che il decreto citato sopra si applica esclusivamente a coloro che hanno peccati mortali da confessare. Ciò è evidente dal fatto che tale decreto ordina la confessione di tutti i peccati, il che non può riguardare i peccati veniali, poiché nessuno può confessare tutti i propri peccati veniali. Pertanto, un uomo che non ha peccati mortali da confessare non è obbligato a rivelarne i peccati veniali; tuttavia, per adempiere all’ordine della Chiesa, basta che si presenti davanti al sacerdote e dichiari di non essere colpevole di alcun peccato mortale: ciò sarà considerato sufficiente come confessione.
 
 <span class="atom-split" data-atom="029" data-title="Whether it is lawful for a man to confess a sin which he has not committed?" data-chapter="Whether it is lawful for a man to confess a sin which he has not committed?" data-kind="atom" data-srclang="en"></span>
 
@@ -1170,6 +1589,26 @@ Reply to Objection 4: A man does not commit a falsehood by making satisfaction f
 which he did not commit, as when anyone confesses a sin which he thinks he has not committed.
 And if he mentions a sin that he has not committed, believing that he has, he does not lie; wherefore
 he does not sin, provided his confession thereof tally with his conscience.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che sia legittimo per un uomo confessare un peccato che non ha commesso. Infatti, come afferma Gregorio (Registri XII), “è segno di una buona coscienza riconoscere un errore quando in realtà non c’è”. Pertanto, è anch’esso segno di una buona coscienza accusarsi di peccati che non si sono realmente commessi.
+
+Obiezione 2: Inoltre, per umiltà un uomo si ritiene peggiore di un altro che è notoriamente peccatore, e in questo senso merita lode. Tuttavia, è legittimo che un uomo ammetta di essere ciò che ritiene di essere. Pertanto, è anche legittimo confessare di aver commesso un peccato più grave di quello che si è realmente compiuto.
+
+Obiezione 3: Inoltre, a volte si dubita riguardo al fatto che un peccato sia mortale o veniale; in tal caso, sembrerebbe opportuno confessarlo come mortale. Pertanto, una persona potrebbe talvolta dover confessare un peccato che in realtà non ha commesso.
+
+Obiezione 4: Inoltre, la soddisfazione derivante dalla confessione è necessaria per espiare un peccato. Ma un uomo può compiere questa soddisfazione anche per un peccato che non ha commesso. Pertanto, può anche confessare un peccato che non ha realmente commesso.
+
+Al contrario, chi afferma di aver compiuto qualcosa che in realtà non ha fatto sta dicendo una menzogna. Tuttavia, nessuno dovrebbe mentire durante la confessione, poiché ogni menzogna è un peccato; pertanto, nessuno dovrebbe confessare un peccato che non ha realmente commesso. Inoltre, nel tribunale pubblico della giustizia, nessuno dovrebbe essere accusato di un crimine che non possa essere provato attraverso testimoni attendibili. Nel tribunale della penitenza, invece, il testimone è la coscienza; quindi, una persona non dovrebbe accusarsi di un peccato che non risulti evidente nella propria coscienza.
+
+Rispondo che il penitente, attraverso la sua confessione, debba rendere noto al confessore lo stato della propria coscienza. Chi, però, racconta al sacerdote qualcosa di diverso da ciò che realmente ha sulla coscienza, sia che si tratti di cose buone o cattive, non rende noto lo stato reale della propria coscienza, ma lo nasconde; pertanto la sua confessione risulta inutile. Affinché essa possa essere efficace, le parole del penitente devono corrispondere ai suoi pensieri, in modo che esse accusino il penitente soltanto di ciò che effettivamente ha sulla coscienza.
+
+Risposta all’Obiezione 1: Ammettere un errore quando non ne esiste può essere inteso in due modi: in primo luogo, riguardo alla sostanza dell’atto stesso, e in questo caso l’affermazione è falsa; infatti, ammettere di aver compiuto qualcosa che non si è fatto rappresenta un segno non di bontà, ma di una coscienza errata. In secondo luogo, riguardo alle circostanze in cui l’atto è stato compiuto; in questo caso le parole di Gregorio sono vere, poiché un uomo giusto teme che, anche in un atto in sé buono, possano esserci difetti da parte sua. Come si legge in Giobbe 9:28: “Temevo tutte le mie azioni”. Pertanto, è anch’esso un segno di una coscienza buona che un uomo esprima a parole questa paura che nutre nel proprio cuore. Da ciò si può trarre la risposta anche all’Seconda Obiezione: un uomo giusto e veramente umile si considera peggiore non perché abbia commesso un atto particolarmente malvagio, ma perché teme di peccare più gravemente attraverso l’orgoglio in quelle cose che apparentemente compie bene.
+
+Risposta all’Obiezione 3: Quando un uomo dubita che un certo peccato sia mortale, è obbligato a confessarlo, finché rimane in dubbio, perché commette un peccato mortale se compie o omette qualcosa mentre ne dubita, lasciando così la questione al [caso](/concepts/fortune); inoltre, corre dei rischi se trascura di confessare ciò che potrebbe essere un peccato mortale. Tuttavia, non dovrebbe affermare con certezza che si tratti di un peccato mortale, ma esprimersi con dubbi, lasciando la decisione al sacerdote, il cui compito è discernere ciò che è realmente un peccato grave e ciò che non lo è.
+
+Risposta all’Obiezione 4: Un uomo non commette una menzogna quando paga per un peccato che non ha commesso, proprio come quando qualcuno confessa un peccato che ritiene di non aver commesso. E se menziona un peccato che non ha compiuto, credendo invece di averlo commesso, non sta mentendo; pertanto non pecca, a condizione che la sua confessione sia in accordo con la sua coscienza.
 
 <span class="atom-split" data-atom="030" data-title="Whether one is bound to confess at once?" data-chapter="Whether one is bound to confess at once?" data-kind="atom" data-srclang="en"></span>
 
@@ -1253,6 +1692,29 @@ to a negative precept, which binds always and for always, and therefore one is a
 make immediate restitution. It is not the same with the fulfillment of an affirmative precept, which
 binds always, but not for always, wherefore one is not bound to fulfill it at once.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che si sia obbligati a confessare immediatamente. Infatti, Guglielmo di Sant’Vittore afferma nel “De Sacramentis” (ii): “Il disprezzo per la confessione è inescusabile, a meno che non esista una ragione urgente per ritardarla”. Ma tutti sono tenuti ad evitare il disprezzo; pertanto, tutti sono obbligati a confessarsi il prima possibile.
+
+Obiezione 2: Inoltre, ognuno è tenuto a fare di più per evitare le malattie spirituali che per evitare quelle fisiche. Ora, se una persona affetta da una malattia fisica ritardasse nel chiamare il medico, ciò sarebbe dannoso per la sua salute. Pertanto, sembra inevitabile che sia altrettanto dannoso per la salute di una persona omettere di confessarsi immediatamente a un prete, qualora ne vi fosse uno a disposizione.
+
+Obiezione 3: Inoltre, ciò che è sempre dovuto deve essere pagato immediatamente. Ma l’uomo deve sempre confessare i propri peccati a Dio; pertanto è obbligato a farlo senza indugio.
+
+Al contrario, un tempo fisso sia per la confessione che per la ricezione dell’Eucaristia è stabilito dai Decretali (Capitolo Omnis utriusque sexus: De Poenit. et Remiss.). Ora, un uomo non pecca se non riceve l’Eucaristia prima di tale tempo fisso; pertanto, non pecca nemmeno se non si confessa prima di quell’ora. Inoltre, omettere ciò che un comandamento ci ordina è un peccato mortale. Se quindi un uomo è obbligato a confessarsi immediatamente e trascura di farlo, avendo un prete a disposizione, commetterebbe un peccato mortale; lo stesso vale in qualsiasi altro momento. Di conseguenza, il ritardo nella confessione potrebbe portare all’accumulo di molti peccati mortali, il che sembra davvero irragionevole.
+
+Rispondo che, poiché lo scopo della confessione è strettamente legato alla contrizione, un uomo è tenuto ad avere tale scopo ogni volta che deve provare contrizione, cioè quando ricorda i propri peccati, soprattutto quando si trova in pericolo di morte o quando le circostanze lo costringono a commettere un altro peccato se non confessa: ad esempio, se un sacerdote è tenuto a celebrare la Messa e c’è un confessore disponibile, è obbligato a confessarsi; in assenza di confessore, deve almeno provare contrizione e avere l’intenzione di farlo.  
+Per quanto riguarda la confessione effettiva, un uomo è tenuto ad essa in due modi: in modo occasionale, quando è costretto a compiere un’azione che non può eseguire senza commettere un peccato mortale, a meno di confessarsi prima; ad esempio, se deve ricevere l’Eucaristia dopo aver commesso un peccato mortale e c’è un sacerdote disponibile. Per questo motivo la Chiesa impone a tutti di confessarsi almeno una volta all’anno, poiché ordina che si riceva la Santa Comunione annualmente, durante la Pasqua; quindi tutti devono confessarsi prima di tale data.  
+In secondo luogo, un uomo è assolutamente tenuto a confessarsi; in questo caso, il ritardo nella confessione è considerato equivalente al ritardo nel Battesimo, poiché entrambi sono sacramenti necessari. Tuttavia, non si è obbligati a ricevere il Battesimo non appena si decide di farlo; quindi non si commetterebbe un peccato mortale se ci si astenesse dal battesimo immediatamente, né esiste un termine limite oltre il quale il ritardo comporterebbe necessariamente un peccato mortale. Tuttavia, tale ritardo potrebbe essere considerato un peccato mortale, a seconda delle motivazioni che lo provocano; infatti, come afferma il Filosofo (Phys. viii, 15), la volontà non rinuncia a fare ciò che desidera se non per una ragione valida. Pertanto, se il ritardo nel Battesimo è dovuto a motivi legati a peccati mortali – ad esempio, alla disprezzosità – tale ritardo costituirà un peccato mortale; altrimenti no. Lo stesso vale per la confessione, che non è più necessaria del Battesimo.  
+Inoltre, poiché l’uomo è tenuto a compiere in questa vita quelle azioni necessarie alla salvezza, se si trova in pericolo di morte è obbligato, anche in modo assoluto, a confessarsi o a ricevere il Battesimo immediatamente. Per questo motivo Giacomo ha proclamato contemporaneamente l’obbligo di confessarsi e quello di ricevere l’Unzione degli Infermi (Giacomo 5:14-16).  
+Quindi sembra plausibile l’opinione di coloro che sostengono che non si sia obbligati a confessarsi immediatamente, anche se ritardare potrebbe essere pericoloso. Altri, invece, affermano che un uomo pentito debba confessarsi subito, non appena ne ha l’opportunità appropriata e valida. Inoltre, il fatto che i decreti ecclesiastici impongano una confessione annuale non significa che la Chiesa favorisca i ritardi; anzi, vieta la negligenza che ne deriverebbe.
+Ulteriori ritardi non sono tollerabili. Pertanto, con questo decreto, colui che ritarda viene scusato, non dal peccato nel tribunale della coscienza, ma dalla punizione nel tribunale della Chiesa; in questo modo, tale persona non verrà privata di un funerale degno se dovesse morire prima di quel termine. Tuttavia, questa soluzione sembra eccessivamente severa: i precetti positivi, infatti, non sono obbligatori immediatamente, ma in un momento prestabilito; e ciò non perché sia più opportuno adempirli in quel momento (in tal caso, se una persona non donasse le proprie risorse superflue a chi ne ha bisogno, commetterebbe un peccato mortale), ma perché tale momento è considerato urgente. Pertanto, anche se non si confessa al primo opportuno momento, ciò non significa necessariamente che si commetta un peccato mortale, a meno che non insorga un pericolo di morte che renda immediatamente necessario confessarsi. Inoltre, il fatto che non sia obbligatorio confessarsi subito non deriva dall’indulgenza della Chiesa, ma dalla natura stessa dei precetti positivi; prima che tali precetti venissero stabiliti, l’obbligo era ancora minore. Alcuni sostengono inoltre che le persone secolari non siano obbligate a confessarsi prima della Quaresima, che per loro rappresenta il periodo di penitenza; mentre i religiosi dovrebbero confessarsi immediatamente, poiché per loro ogni momento è un momento di penitenza. Tuttavia, questa argomentazione non è pertinente: i religiosi, infatti, non hanno obblighi aggiuntivi rispetto alle persone secolari, fatta eccezione per quelli derivanti dai voti che hanno preso.
+
+Risposta all’Obiezione 1: Hugh si riferisce a coloro che muoiono senza questo [sacramento](/concepts/sacrament).
+
+Risposta all’Obiezione 2: Non è necessario chiamare immediatamente il medico per problemi di salute fisica, tranne nei casi in cui sia indispensabile ricevere cure; lo stesso vale per le malattie spirituali.
+
+Risposta all’Obiezione 3: Trattenere la proprietà altrui contro la volontà del proprietario è contrario a un precetto negativo, che è vincolante in ogni momento e per sempre; pertanto, si è sempre obbligati a restituire immediatamente tale proprietà. Non lo stesso vale per l’adempimento di un precetto positivo, che è anch’esso vincolante in ogni momento, ma non per sempre; quindi, non si è obbligati ad adempiervi immediatamente.
+
 <span class="atom-split" data-atom="031" data-title="Whether one can be dispensed from confession?" data-chapter="Whether one can be dispensed from confession?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one can be dispensed from confessing his sins to a man. For
@@ -1292,6 +1754,20 @@ John's Baptism for the grace of Christ, confessed their sins to him, and that th
 to the priests, and though they were not priests of the New Testament, yet the priesthood of the
 New Testament was foreshadowed in them.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che si possa essere esentati dal confessare i propri peccati a un uomo. Infatti, i precetti del diritto positivo possono essere derogati dai prelati della Chiesa; e la confessione rientra appunto in questa categoria, come è stato detto sopra (A[3]). Pertanto, si può essere esentati dal confessare.
+
+Obiezione 2: Inoltre, un uomo può concedere una dispensa riguardo a ciò che è stato istituito da un altro uomo. Ma leggiamo che la pratica della confessione è stata istituita non da Dio, ma da un uomo (Giacomo 5:16): “Confessate i vostri peccati gli uni agli altri”. Ora il Papa ha il potere di concedere dispense riguardo a ciò che è stato stabilito dagli apostoli, come si evince nel caso dei bigami. Pertanto, può anche dispensare un uomo dal dover confessare i propri peccati.
+
+Al contrario, la Penitenza, di cui la Confessione è una parte, è un sacramento necessario, proprio come il Battesimo. Poiché quindi nessuno può essere esentato dal Battesimo, allo stesso modo nessuno può essere esentato dalla Confessione.
+
+Rispondo che i ministri della Chiesa vengono nominati nella Chiesa stessa, fondata da Dio. Pertanto, devono essere nominati dalla Chiesa prima di esercitare il loro ministero, proprio come l’atto della creazione è presupposto all’operato della natura. Poiché la Chiesa si fonda sulla fede e sui sacramenti, i ministri della Chiesa non hanno il potere di stabilire nuovi articoli di fede, né di abrogare quelli già esistenti, né di istituire nuovi sacramenti, né di abolirne quelli già stabiliti; tale potere appartiene esclusivamente a Cristo, fondamento della Chiesa. Di conseguenza, il Papa non può dispensare alcuno dal Battesimo o dalla Confessione, nella misura in cui queste sono obbligatorie per virtù dei sacramenti stessi. Tuttavia, può dispensare dalla Confessione, nella misura in cui essa è considerata obbligatoria in base agli ordini della Chiesa; ciò permette a una persona di ritardare la Confessione oltre i limiti stabiliti dalla Chiesa stessa.
+
+Risposta all’Obiezione 1: I precetti della [Legge divina](/concepts/divine_law) sono vincolanti allo stesso modo dei precetti della legge naturale; pertanto, proprio come non è possibile alcuna dispensa dalla legge naturale, lo stesso vale per la Legge divina.
+
+Risposta all’Obiezione 2: Il precetto riguardante la confessione non fu stabilito da un uomo, anche se fu promulgato da Giacomo; fu invece istituito da Dio. Anche se non ne troviamo esplicita menzione nelle Scritture, esso è in qualche modo preannunciato dal fatto che coloro che venivano preparati dal Battesimo di Giovanni alla grazia di Cristo confessavano i propri peccati a lui, e che il Signore inviava i lebbrosi ai sacerdoti; sebbene questi non fossero sacerdoti del Nuovo Testamento, il sacerdozio del Nuovo Testamento era già prefigurato in loro.
+
 <span class="atom-split" data-atom="032" data-title="OF THE NATURE OF CONFESSION (THREE ARTICLES)" data-chapter="OF THE NATURE OF CONFESSION (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the nature of confession, under which head there are three points of
@@ -1299,6 +1775,13 @@ inquiry:
 (1) Whether [Augustine](/figures/augustine) fittingly defines confession?
 (2) Whether confession is an act of virtue?
 (3) Whether confession is an act of the virtue of penance?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la natura della confessione; in questo ambito vi sono tre punti da esaminare:  
+(1) Se [Agostino](/figures/augustine) abbia definito correttamente la confessione;  
+(2) Se la confessione sia un atto di virtù;  
+(3) Se la confessione sia un atto della virtù della penitenza.
 
 <span class="atom-split" data-atom="033" data-title="Whether Augustine fittingly defines confession?" data-chapter="Whether Augustine fittingly defines confession?" data-kind="atom" data-srclang="en"></span>
 
@@ -1349,6 +1832,26 @@ Reply to Objection 4: It is not necessary that every definition should include e
 connected with the thing defined: and for this reason we find some definitions or descriptions that
 indicate one cause, and some that indicate another.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che [Agostino](/figures/augustine) definisca in modo inappropriato la confessione, quando afferma (Super Ps. 21) che essa “rivela la malattia nascosta nella speranza di perdono”. Poiché la malattia contro cui è destinata la confessione è il peccato, e il peccato a volte è manifesto, non si dovrebbe dire che la confessione sia un rimedio per una “malattia nascosta”.
+
+Obiezione 2: Inoltre, l’inizio della penitenza è la paura. Ma la confessione fa parte della penitenza. Pertanto, dovrebbe essere considerata causa della confessione la paura, e non la “speranza”.
+
+Obiezione 3: Inoltre, ciò che viene sigillato non viene reso visibile, ma chiuso e nascosto. Ma il peccato che viene confessato viene “sigillato” dalla confessione stessa. Pertanto, nel momento della confessione il peccato non viene rivelato, ma piuttosto nascosto.
+
+Obiezione 4: Inoltre, si trovano altre definizioni diverse da quella sopra esposta. Infatti Gregorio afferma (Hom. xl in Evang.) che la confessione sia “la rivelazione dei peccati e l’esposizione delle ferite interiori”. Altri dicono che “la confessione sia una dichiarazione legale dei nostri peccati in presenza di un sacerdote”. Altri ancora la definiscono così: “La confessione è l’autodenuncia sacramentale del peccatore, dovuta alla vergogna per ciò che ha compiuto; tale autodenuncia, attraverso i poteri della Chiesa, permette di espiare i peccati e obbliga il peccatore a compiere la penitenza prescritta”. Pertanto, sembra che la definizione in questione sia insufficiente, poiché non include tutto ciò che le altre definizioni includono.
+
+Rispondo che, nell’atto della confessione, ci sono diverse cose che vanno prese in considerazione: innanzitutto, la stessa natura o genere di questo atto, che rappresenta una sorta di manifestazione; in secondo luogo, l’oggetto di questa manifestazione, ovvero il peccato; in terzo luogo, la persona a cui viene fatta questa manifestazione, cioè il sacerdote; in quarto luogo, la causa di tale atto, ovvero la speranza di perdono; infine, l’effetto di esso, ovvero la riduzione di una parte della punizione e l’obbligo di pagare la restante. Pertanto, la prima definizione fornita da Agostino indica proprio la natura sostanziale di questo atto, affermando che esso “rivela” l’oggetto della confessione; altre definizioni includono invece una o più delle cinque componenti menzionate, come si può facilmente comprendere esaminando attentamente il tema.
+
+Risposta all’Obiezione 1: Sebbene il sacerdote, in quanto uomo, possa talvolta conoscere il peccato del penitente, egli non lo conosce nella veste di vicario di Cristo (così come un giudice, a volte, conosce qualcosa che, in quanto uomo, ignorerebbe, ma che nel suo ruolo di giudice gli viene rivelato). In questo senso, il peccato del penitente viene reso noto al sacerdote attraverso la confessione. Oppure si potrebbe osservare che, sebbene l’atto esterno possa avvenire in pubblico, l’atto interno, che ne è la causa, rimane nascosto; pertanto necessita di essere rivelato attraverso la confessione.
+
+Risposta all’Obiezione 2: La confessione presuppone la carità, che ci dona la vita, come affermato nel testo (Sentenze IV, D, 17). Ora, è nella contrizione che la carità viene donata; mentre la paura servile, priva di speranza, precede la carità: tuttavia colui che possiede la carità è mosso più dalla speranza che dalla paura. Pertanto, è la speranza e non la paura ad essere considerata la causa della confessione.
+
+Risposta all’Obiezione 3: In ogni confessione, il peccato viene rivelato al sacerdote e nascosto agli altri dal sigillo della confessione stessa.
+
+Risposta all’Obiezione 4: Non è necessario che ogni definizione includa tutto ciò che è collegato alla cosa definita; per questo motivo troviamo alcune definizioni o descrizioni che indicano una causa, e altre che ne indicano un’altra.
+
 <span class="atom-split" data-atom="034" data-title="Whether confession is an act of virtue?" data-chapter="Whether confession is an act of virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that confession is not an act of virtue. For every act of virtue belongs
@@ -1393,6 +1896,24 @@ Reply to Objection 3: Though the grace of the sacraments differs from the grace 
 they are not contrary but disparate; hence there is nothing to prevent that which is an act of virtue,
 in so far as it proceeds from the free-will quickened by grace, from being a sacrament, or part of a
 sacrament, in so far as it is ordained as a remedy for sin.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la confessione non sia un atto di virtù. Infatti, ogni atto di virtù rientra nella [legge naturale](/positions/natural_law), poiché “siamo naturalmente capaci di virtù”, come afferma il Filosofo (Etica, ii, 1). Ma la confessione non appartiene alla legge naturale; pertanto, non è un atto di virtù.
+
+Obiezione 2: Inoltre, un atto di virtù è più consono a colui che è innocente che a colui che ha peccato. Ma la confessione di un peccato, di cui stiamo parlando ora, non può essere consono a un uomo innocente. Pertanto, non costituisce un atto di virtù.
+
+Obiezione 3: Inoltre, la grazia contenuta nei sacramenti differisce in qualche modo dalla grazia presente nelle virtù e nei doni dello Spirito Santo. Tuttavia, la confessione fa parte di un [sacramento](/concepts/sacrament); pertanto non costituisce un atto di virtù.
+
+Al contrario, i precetti della legge riguardano atti di virtù. Ma la confessione rientra tra questi precetti; pertanto, essa è anch’essa un atto di virtù. Inoltre, non meritiamo nulla se non attraverso atti di virtù. Ma la confessione è meritoria, poiché “apre la porta del cielo”, come dice il Maestro (Sentenze, iv, D, 17). Quindi sembra proprio che sia un atto di virtù.
+
+Rispondo che, come già detto sopra (FS, Q[18], AA[6],7; SS, Q[80]; SS, Q[85], A[3]; SS, Q[109], A[3]), affinché un atto possa essere considerato appartenente a una virtù, è sufficiente che sia di natura tale da implicare condizioni proprie della virtù stessa. Ora, sebbene la confessione non includa tutto ciò che è necessario per costituire una virtù, il suo stesso nome implica già la manifestazione di ciò che una persona ha nella propria coscienza: in questo modo, le sue parole e i suoi sentimenti coincidono. Infatti, se una persona afferma con le labbra ciò che non crede veramente nel proprio cuore, quella non è una confessione, ma una menzogna. Esprimere a parole ciò che si pensa rappresenta dunque una condizione essenziale per la virtù; pertanto, la confessione in sé è un atto nobile e virtuoso. Tuttavia, può essere compiuta in modo errato, se priva delle altre circostanze necessarie.
+
+Risposta all’Obiezione 1: La ragione naturale, in modo generale, spinge l’uomo a confessare nel modo appropriato, cioè come e quando è dovuto; pertanto la confessione rientra nell’ambito della legge naturale. Tuttavia, sono le norme della [Legge divina](/concepts/divine_law) a stabilire i dettagli riguardanti le circostanze, il momento, il modo, l’oggetto e la persona a cui deve essere fatta la confessione di cui stiamo parlando. È evidente quindi che la legge naturale orienta l’uomo verso la confessione, ma sono le norme divine a definire i dettagli concreti, proprio come avviene per tutte le questioni relative alla legge positiva.
+
+Risposta all’Obiezione 2: Anche se un uomo innocente possieda l’[abitudine](/concepts/custom) di una virtù il cui oggetto è un peccato già commesso, egli non ha compiuto tale atto, finché rimane innocente. Pertanto, la confessione dei peccati, di cui stiamo parlando ora, non è adatta a un uomo innocente, anche se rappresenta un atto di virtù.
+
+Risposta all’Obiezione 3: Sebbene la grazia dei sacramenti sia diversa dalla grazia delle virtù, esse non sono contrarie tra loro, ma soltanto distinte; pertanto non esiste nulla che impedisca a un atto di virtù, nella misura in cui deriva dalla volontà libera stimolata dalla grazia, di essere anche un sacramento o una parte di un sacramento, nella misura in cui è istituito come rimedio al peccato.
 
 <span class="atom-split" data-atom="035" data-title="Whether confession is an act of the virtue of penance?" data-chapter="Whether confession is an act of the virtue of penance?" data-kind="atom" data-srclang="en"></span>
 
@@ -1453,6 +1974,31 @@ article about the Judgment, which fear considers; although penance, in its aspec
 the opposite.
 The Reply to the Fifth Objection is to be gathered from what has been said.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la confessione non sia un atto della virtù della penitenza. Infatti, un atto appartiene alla virtù che ne è la causa. Ora, la causa della confessione è la speranza di essere perdonati, come risulta dalla definizione data sopra (A[1]). Pertanto, sembrerebbe che si tratti di un atto di speranza e non di penitenza.
+
+Obiezione 2: Inoltre, la vergogna fa parte della temperanza. Ma la confessione deriva dalla vergogna, come risulta dalla definizione fornita sopra (A[1], OBJ[4]). Pertanto, la confessione è un atto di temperanza e non di penitenza.
+
+Obiezione 3: Inoltre, l’atto di penitenza si fonda sulla misericordia divina; mentre la confessione si basa piuttosto sulla saggezza divina, a causa della verità che essa richiede. Pertanto, la confessione non è un atto di penitenza.
+
+Obiezione 4: Inoltre, siamo spinti a compiere atti di penitenza dal capitolo della Crede relativo al Giudizio Universale, a causa del timore che ne è l’origine. Ma siamo spinti a confessare i nostri peccati dal capitolo che tratta della vita eterna, poiché questa speranza deriva dalla fiducia nella remissione dei peccati. Pertanto, la confessione non costituisce un atto di penitenza.
+
+Obiezione 5: Inoltre, appartiene alla virtù della verità il fatto che un uomo si mostri per ciò che realmente è. Ed è proprio questo che un uomo fa quando va in confessione. Pertanto, la confessione è un atto di quella virtù chiamata verità, e non di penitenza.
+
+Al contrario, la penitenza è istituita per distruggere il peccato. Anche la confessione ha lo stesso scopo; pertanto, anch’essa rappresenta un atto di penitenza.
+
+Rispondo che, riguardo alle virtù, è necessario osservare che quando all’oggetto di una virtù viene aggiunto un motivo particolare di bontà o difficoltà, diventa necessaria un’altra virtù specifica: ad esempio, la spesa di somme ingenti rientra nell’ambito della magnanimità, mentre una spesa media e regolare, così come i doni, appartengono alla liberalità, come si evince dall’Etica, II, 7; IV, 1. Lo stesso vale per la confessione della verità: sebbene essa appartenga assolutamente alla virtù della verità, in considerazione del motivo aggiuntivo di bontà che la motiva, essa rientra in realtà in un altro tipo di virtù. Per questo il Filosofo afferma nell’Etica, IV, 7, che una confessione fatta in tribunale appartiene alla virtù della giustizia piuttosto che a quella della verità. Allo stesso modo, la lode dei favori di Dio non rientra nella virtù della verità, ma in quella della religione; e così pure la confessione dei peccati, finalizzata ad ottenere il perdono, non è un atto che esprime la virtù della verità, come alcuni sostengono, ma quella del pentimento. Tuttavia, può essere considerato un atto voluto da molte virtù, poiché la confessione stessa può essere orientata verso lo scopo di realizzare diversi valori morali.
+
+Risposta all’Obiezione 1: La speranza è la causa della confessione, non nel senso di essere un elemento che la induce, ma nel senso di esserne il fattore che la comanda o la impone.
+
+Risposta all’Obiezione 2: In quella definizione la vergogna non viene menzionata come causa della confessione, poiché ha più il carattere di ostacolare tale atto; piuttosto, viene considerata una causa congiunta che contribuisce alla liberazione dalla punizione (poiché la vergogna stessa rappresenta una forma di punizione). Inoltre, le “chiavi della Chiesa” vengono anch’esse considerate cause congiunte, insieme alla confessione, allo stesso scopo.
+
+Risposta all’Obiezione 3: Attraverso una certa interpretazione, le parti che compongono la Penitenza possono essere attribuite a tre Atributi Personali: la Contrizione può essere considerata corrispondente alla Misericordia o alla Bontà, in quanto rappresenta il dolore per il male; la Confessione può essere ricondotta alla Saggezza, poiché costituisce una manifestazione della verità; infine, la Satisfazione può essere associata al Potere, data l’impegno fisico e mentale che richiede. Poiché la Contrizione è la parte fondamentale della Penitenza e rende efficaci le altre sue componenti, lo stesso si può dire della Penitenza nel suo insieme, così come della Contrizione stessa.
+
+Risposta all’Obiezione 4: Poiché la confessione deriva dalla speranza e non dalla paura, come detto sopra (A[1], ad 2), essa si basa sull’aspetto della vita eterna verso cui tende la speranza, e non sull’aspetto del Giudizio che la paura considera; sebbene la penitenza, nel suo aspetto di contrizione, sia l’opposto.  
+La risposta all’Ottava Obiezione si ricaverà da quanto è stato detto finora.
+
 <span class="atom-split" data-atom="036" data-title="OF THE MINISTER OF CONFESSION (SEVEN ARTICLES)" data-chapter="OF THE MINISTER OF CONFESSION (SEVEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the minister of confession, under which head there are seven points of
@@ -1466,6 +2012,17 @@ sins?
 privilege or of the command of a superior?
 (6) Whether a penitent, in danger of death can be absolved by any priest?
 (7) Whether the temporal punishment should be enjoined in proportion to the sin?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il ministro della confessione; sotto questa voce vi sono sette punti da esaminare:  
+(1) È necessario confessarsi a un prete?  
+(2) È mai lecito confessarsi a qualcuno diverso da un prete?  
+(3) In assenza di necessità, una persona che non è un prete può ascoltare la confessione di peccati veniali?  
+(4) È obbligatorio per un uomo confessarsi al proprio prete?  
+(5) È lecito per chiunque confessarsi a qualcuno diverso dal proprio prete, in virtù di un privilegio o dell’ordine di un superiore?  
+(6) Un penitente in pericolo di morte può essere assolto da qualsiasi prete?  
+(7) La punizione temporale dovrebbe essere imposta in proporzione al peccato commesso?
 
 <span class="atom-split" data-atom="037" data-title="Whether it is necessary to confess to a priest?" data-chapter="Whether it is necessary to confess to a priest?" data-kind="atom" data-srclang="en"></span>
 
@@ -1525,6 +2082,28 @@ that they may be provided with suitable remedies for their health; and to know t
 thus belongs to the man, i.e. the priest, whose business it is to provide remedies conducive to health,
 such as the sacrament of the Eucharist, and other like things. It is to this knowledge of the sheep
 that confession is ordained.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia necessario confessarsi a un prete. Infatti, non siamo obbligati alla confessione se non in virtù della sua istituzione divina. Ora, questa istituzione divina ci è stata rivelata (Giacomo 5:16): “Confessate i vostri peccati gli uni agli altri”, e in questo testo non vi è alcuna menzione di un prete. Pertanto, non è necessario confessarsi a un prete.
+
+Obiezione 2: Inoltre, la Penitenza è un [sacramento](/concepts/sacrament) necessario, così come il Battesimo. Ma qualsiasi uomo può celebrare il Battesimo, data la sua necessità; pertanto, qualsiasi uomo può anche celebrare la Penitenza. Ora, la Confessione deve essere fatta al ministro della Penitenza; quindi basta confessarsi con chiunque sia incaricato di questo compito.
+
+Obiezione 3: Inoltre, la confessione è necessaria affinché si possa imporre al pentito la misura di soddisfazione richiesta. Tuttavia, a volte qualcuno che non sia un prete potrebbe essere più discreto di molti sacerdoti nell’applicare tale misura. Pertanto, non è necessario confessarsi a un prete.
+
+Obiezione 4: Inoltre, la confessione fu introdotta nella Chiesa affinché i pastori potessero riconoscere le loro pecore. Tuttavia, a volte un pastore o un prelato non è sacerdote; pertanto, la confessione non dovrebbe sempre essere fatta a un sacerdote.
+
+Al contrario, l’assoluzione del penitente, per la quale egli fa la sua confessione, viene concessa soltanto dai sacerdoti a cui sono state affidate le “chiavi” dell’assoluzione. Pertanto, la confessione deve essere fatta a un sacerdote. Inoltre, la pratica della confessione è preannunciata dal risveglio di Lazzaro dai morti: il nostro Signore infatti ordinò che solo i discepoli liberassero Lazzaro (Giovanni 11:44). Quindi, ancora una volta, la confessione deve essere fatta a un sacerdote.
+
+Rispondo che la grazia conferita nei sacramenti discende dalla Testa verso i membri. Pertanto, solo colui che svolge il ministero sul vero corpo di Cristo è ministro dei sacramenti, attraverso i quali viene concessa la grazia; e ciò spetta esclusivamente al sacerdote, che può consacrare l’Eucaristia. Quindi, poiché la grazia viene conferita nel sacramento della Penitenza, solo un sacerdote può essere ministro di questo sacramento; e di conseguenza, la confessione sacramentale, che deve essere fatta a un ministro della Chiesa, deve essere fatta esclusivamente a un sacerdote.
+
+Risposta all’Obiezione 1: Giacomo parla sulla base della presunzione dell’esistenza di istituzioni divine; poiché la confessione era già stata prescritta da Dio come dovere da compiere davanti a un sacerdote – poiché Egli aveva investito i sacerdoti, in persona degli apostoli, del potere di perdonare i peccati, come riportato in Giovanni 20:23 – dobbiamo considerare le parole di Giacomo come un monito a confessarsi ai sacerdoti.
+
+Risposta all’Obiezione 2: Il Battesimo è un sacramento di maggiore necessità della Penitenza, in quanto riguarda la Confessione e l’Assoluzione; infatti, a volte il Battesimo non può essere omesso senza perdita della salvezza eterna, come nel caso dei bambini che non hanno ancora raggiunto l’uso della ragione. Ciò non si può dire per la Confessione e l’Assoluzione, che riguardano esclusivamente gli adulti, nei quali la contrizione, unita alla volontà di confessarsi e al desiderio di ricevere l’assoluzione, sono sufficienti per liberarli dalla morte eterna. Pertanto, non esiste alcuna parità tra il Battesimo e la Confessione.
+
+Risposta all’Obiezione 3: Per risolvere questa obiezione, dobbiamo considerare non solo la quantità della punizione, ma anche la sua efficacia, in quanto essa fa parte di un sacramento. Pertanto, è necessario che vi sia una persona incaricata di amministrare i sacramenti; tuttavia, la quantità della punizione può essere stabilita da qualcuno diverso dal sacerdote.
+
+Risposta all’Obiezione 4: Può essere necessario riconoscere le pecore a vista per due motivi. Primo, affinché possano essere registrate come membri del gregge di Cristo; tale conoscenza rientra infatti nell’ambito delle responsabilità e della cura pastorale, che talvolta spetta anche a persone non sacerdotali. Secondo, affinché possano essere forniti rimedi adeguati al loro benessere; conoscere le pecore a vista è dunque un compito del sacerdote, il quale ha il dovere di offrire mezzi utili alla loro salute, come il sacramento dell’Eucaristia e altri simili. È proprio a questa conoscenza delle pecore che serve la confessione.
 
 <span class="atom-split" data-atom="038" data-title="Whether it is ever lawful to confess to another than a priest?" data-chapter="Whether it is ever lawful to confess to another than a priest?" data-kind="atom" data-srclang="en"></span>
 
@@ -1586,6 +2165,24 @@ more so since, as stated above (ad 1), the sacrament of Penance was not perfecte
 yet to be perfected, in order that by receiving the sacrament, the penitent may receive a more
 plentiful effect, and that he may fulfill the commandment about receiving the sacrament of Penance.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia mai lecito confessarsi se non a un sacerdote. Infatti, la confessione è un’“accusa sacramentale”, come risulta dalla definizione fornita sopra (Q[7], A[1]). Ma l’amministrazione di un [sacramento](/concepts/sacrament) spetta esclusivamente al ministro del sacramento stesso. Poiché il vero ministro della Penitenza è il sacerdote, sembra quindi che la confessione non possa essere fatta ad altri che a lui.
+
+Obiezione 2: Inoltre, in ogni tribunale di giustizia la confessione è necessaria per emettere una sentenza. Ora, in un caso conteso, la sentenza è invalida se pronunciata da qualcuno diverso dal giudice competente; pertanto, la confessione dovrebbe essere fatta esclusivamente a un giudice. Ma, nel tribunale della coscienza, il “giudice” non è altro che un sacerdote, che possiede il potere di legare e sciogliere. Quindi, anche in questo caso, la confessione dovrebbe essere fatta esclusivamente a un sacerdote.
+
+Obiezione 3: Inoltre, nel caso del Battesimo, poiché chiunque può battezzare, se un laico ha compiuto il rito del battesimo anche senza necessità, esso non dovrebbe essere ripetuto da un sacerdote. Tuttavia, se qualcuno confessa i propri peccati a un laico in caso di necessità, è obbligato a ripetere la propria confessione davanti a un sacerdote non appena la situazione di urgenza si sia risolta. Pertanto, la confessione non dovrebbe essere fatta a un laico in caso di necessità.
+
+Al contrario, è proprio l’autorità del testo (Sentenza iv, D, 17) a stabilirlo.
+
+Rispondo che, proprio come il Battesimo è un sacramento necessario, lo stesso vale per la Penitenza. Il Battesimo, essendo un sacramento necessario, ha due ministri: uno il cui compito è battezzare, in virtù della sua funzione, ovvero il sacerdote; e un altro a cui viene affidata l’atto del battesimo in caso di necessità. Allo stesso modo, il ministro della Penitenza, a cui deve essere fatta la confessione in virtù della sua funzione, è il sacerdote; ma in caso di necessità anche un laico può sostituire il sacerdote e ascoltare la confessione di una persona.
+
+Risposta all’Obiezione 1: Nel sacramento della Penitenza vi è non solo un atto da parte del ministrante, ovvero l’assoluzione e l’imposizione della soddisfazione, ma anche un atto da parte del ricevente, anch’esso essenziale per il sacramento stesso, ovvero la contrizione e la confessione. La soddisfazione ha origine dal ministrante nel momento in cui la prescrive, e dal penitente nel momento in cui la compie; affinché il sacramento sia completo, entrambi questi elementi devono concorrere, ove possibile. Tuttavia, quando vi è motivo di urgenza, il penitente deve adempiere al proprio dovere, manifestando contrizione e confessandosi a chiunque sia in grado di riceverla; e anche se questa persona non può completare il sacramento nel suo complesso, assolvendo il ruolo del sacerdote, tale mancanza viene compensata dal Sommo Sacerdote. Tuttavia, la confessione fatta a un laico, in assenza di un sacerdote, è quasi-sacramentale, anche se non costituisce un sacramento perfetto, a causa dell’assenza dell’atto che spetta al sacerdote. [*In questa e nell’Risposta all’Obiezione 2, l’edizione Leonina legge “a causa della necessità di un sacerdote”.]
+
+Risposta all’Obiezione 2: Sebbene un laico non sia il giudice di colui che si confessa a lui, tuttavia, a causa dell’urgenza, egli assume, in senso assoluto, il ruolo di giudice nei confronti di quella persona, nella misura in cui il penitente si sottomette a lui, a causa della mancanza di un prete.
+
+Risposta all’Obiezione 3: Attraverso i sacramenti l’uomo deve necessariamente essere riconciliato non solo con Dio, ma anche con la Chiesa. Ora, non può essere riconciliato con la Chiesa se non attraverso il suo stesso santificarsi. Nel Battesimo, il santificarsi della Chiesa raggiunge l’uomo attraverso l’elemento stesso del battesimo, che viene applicato esternamente e che è reso sacro “dalla parola di vita” (Ef 5:26), indipendentemente da chi lo amministri; pertanto, una volta battezzato, un uomo non può essere battezzato nuovamente. D’altra parte, nella Penitenza, il santificarsi della Chiesa raggiunge l’uomo esclusivamente attraverso l’atto ministeriale del sacerdote, poiché in questo sacramento non vi è alcun elemento fisico applicato esternamente attraverso il quale la grazia possa essere conferita. Pertanto, anche se una persona che, in caso di necessità, si è confessata a un laico ha ricevuto il perdono di Dio perché ha adempiuto, per quanto possibile, allo scopo previsto dalla volontà divina, non è ancora riconciliata con la Chiesa e quindi non può accedere ai sacramenti, se non dopo essere stata assolta da un sacerdote; allo stesso modo, chi ha ricevuto il Battesimo di desiderio non può partecipare all’Eucaristia. Pertanto, è necessario che si confidi nuovamente a un sacerdote non appena ne sia disponibile uno; soprattutto perché, come già detto (vedi Obiezione 1), il Sacramento della Penitenza non è ancora perfetto e quindi ha bisogno di essere completato affinché il penitente possa trarne un effetto più profondo e possa adempiere al precetto che impone di ricevere questo sacramento.
+
 <span class="atom-split" data-atom="039" data-title="Whether, outside a case of necessity, anyone who is not a priest may hear the confession of venial sins?" data-chapter="Whether, outside a case of necessity, anyone who is not a priest may hear the confession of venial sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that, outside a case of necessity, no one but a priest may hear the
@@ -1612,6 +2209,18 @@ purpose.
 
 Reply to Objection 2: Extreme Unction is not given directly as a remedy for venial sin, nor is
 any other sacrament.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che, salvo nei casi di necessità, nessuno se non un sacerdote possa ascoltare la confessione dei peccati veniali. Infatti, l’amministrazione di un [sacramento](/concepts/sacrament) viene affidata a un laico per motivi di necessità; ma la confessione dei peccati veniali non è considerata una necessità. Pertanto, non viene affidata a un laico.
+
+Obiezione 2: Inoltre, l’Unzione Estrema è istituita per i peccati veniali, proprio come la Penitenza. Tuttavia, la prima non può essere amministrata da un laico, come risulta da Giacomo 5:14. Pertanto, nemmeno la confessione dei peccati veniali può essere fatta a un laico.
+
+Al contrario, l’autorità di Beda (riguardo a Giacomo 5:16, “Confessatevi a vicenda”) viene citata nel testo (Sentenze IV, D, 17).
+
+Rispondo che, a causa del peccato veniale, l’uomo non viene separato né da Dio né dai sacramenti della Chiesa; pertanto non ha bisogno di ricevere alcuna grazia ulteriore per la remissione di tale peccato, né è necessario che si riconcili con la Chiesa. Di conseguenza, non è obbligatorio confessare i propri peccati veniali a un sacerdote. Inoltre, poiché la confessione fatta a un laico è un atto sacramentale, anche se non perfetto, e poiché deriva dalla carità, essa ha naturalmente il potere di remitere i peccati, proprio come il battesimo del petto o l’aspergesione con acqua santa (cfr. TP, Q[87], A[3]). Ciò è sufficiente per rispondere alla prima obiezione: non c’è infatti bisogno di ricevere un sacramento specifico per la remissione dei peccati veniali, e un atto sacramentale come l’aspergesione con acqua santa è più che adeguato allo scopo.
+
+Risposta all’Obiezione 2: L’unzione estrema non viene conferita direttamente come rimedio al peccato veniale, né lo stesso vale per qualsiasi altro sacramento.
 
 <span class="atom-split" data-atom="040" data-title="Whether it is necessary for one to confess to one's own priest?" data-chapter="Whether it is necessary for one to confess to one's own priest?" data-kind="atom" data-srclang="en"></span>
 
@@ -1709,6 +2318,36 @@ without confession than confess to such a priest. Wherefore those priests who ar
 probe the consciences of their subjects by means of confession, lay a snare of damnation for many,
 and consequently for themselves.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia necessario confessarsi al proprio sacerdote. Infatti Gregorio afferma nel *Canone Ex auctoritate xvi, Q[1]*: “Con l’autorità apostolica e nell’esercizio della nostra cura, abbiamo decretato che i sacerdoti, che come monaci imitano l’esempio degli apostoli, possano predicare, battezzare, impartire la comunione, pregare per i peccatori, imporre penitenze e assolvere dai peccati”. Ora, i monaci non sono i sacerdoti propriamente detti di nessuno, poiché non si occupano della cura delle anime. Pertanto, poiché la confessione ha lo scopo dell’assoluzione, è sufficiente che venga fatta a qualsiasi sacerdote.
+
+Obiezione 2: Inoltre, il ministro di questo [sacramento](/concepts/sacrament) è un sacerdote, così come quello dell’Eucaristia. Tuttavia qualsiasi sacerdote può celebrare l’Eucaristia; pertanto qualsiasi sacerdote può amministrare anche il sacramento della Penitenza. Di conseguenza, non c’è bisogno di confessarsi al proprio sacerdote.
+
+Obiezione 3: Inoltre, quando siamo vincolati a qualcosa di specifico, questa scelta non dipende da noi. Tuttavia, la scelta di un sacerdote competente spetta a noi, come risulta dall’autorità di [Agostino](/figures/augustine) citata nel testo (Sententiae, IX, D, 17): egli infatti afferma nel “De vera et falsa Poenitentia” (*Opera di autore sconosciuto*): “Chi desidera confessare i propri peccati, al fine di ricevere la grazia, deve cercare un sacerdote che sappia come assolvere e come imponere penitenze”. Pertanto, sembra inutile confessarsi con il proprio sacerdote.
+
+Obiezione 4: Inoltre, ci sono persone, come i prelati, che sembrano non avere un proprio sacerdote, poiché non hanno alcun superiore; tuttavia sono obbligate a confessarsi. Pertanto, una persona non è sempre obbligata a confessarsi al proprio sacerdote.
+
+Obiezione 5: Inoltre, “Ciò che viene istituito a fin di praticare la carità non va contro essa”, come osserva Bernard nel De Praecept. et Dispens. ii. Ora, la confessione, essendo stata istituita a fin di praticare la carità, andrebbe contro di essa se una persona fosse obbligata a confessarsi a un determinato sacerdote: ad esempio, se il peccatore sapesse che il proprio sacerdote è un eretico, o una persona di cattivo influenzo, o debole e propenso al peccato che desidera confessare, o se vi fossero ragionevoli sospetti che tale sacerdote possa violare il segreto della confessione, oppure se il penitente dovesse confessare un peccato commesso contro il proprio confessore. Pertanto, sembra che non sia necessario sempre confessarsi al proprio sacerdote.
+
+Obiezione 6: Inoltre, gli uomini non dovrebbero essere costretti a seguire regole che siano necessarie per la salvezza, affinché non vengano ostacolati nel loro cammino verso la salvezza. Tuttavia, sembra davvero un grande inconveniente essere obbligati, per necessità, a confessarsi a un determinato prete; molti potrebbero quindi rinunciare a fare la confessione a causa di paura, vergogna o altri motivi simili. Pertanto, poiché la confessione è necessaria per la salvezza, gli uomini non dovrebbero essere costretti a farla soltanto presso il proprio prete.
+
+Al contrario, esiste un decreto di Papa Innocenzo III emanato durante il Quarto Concilio Lateranense (Canone 21), secondo cui “tutti, sia di sesso maschile che femminile, devono confessarsi una volta all’anno presso il proprio sacerdote”. Inoltre, così come un vescovo è legato alla sua diocesi, allo stesso modo un sacerdote lo è alla sua parrocchia. Secondo il diritto canonico (Canone Nullus primas ix, Q[2]; Canone Si quis episcoporum xvi, Q[5]), è illegale che un vescovo eserciti le funzioni episcopali in un’altra diocesi; pertanto, è altrettanto illegale che un sacerdote ascolti le confessioni dei parrocchiani di un altro sacerdote.
+
+Rispondo che gli altri sacramenti non consistono in un’azione da parte del ricevente, ma soltanto nel suo ricevere qualcosa, come è evidente per il Battesimo e simili. Sebbene l’azione del ricevente sia necessaria per eliminare ostacoli, ovvero l’insincerità, affinché possa trarre beneficio dal sacramento, a condizione che abbia esercitato la propria volontà libera. D’altra parte, l’azione dell’uomo che si avvicina al sacramento della Penitenza è essenziale per il suo efficace svolgimento, poiché contrizione, confessione e soddisfazione, che sono atti del penitente, fanno parte integrante di questo sacramento. Ora, le nostre azioni, poiché hanno origine in noi stessi, non possono essere compiute da altri se non su loro comando. Pertanto, chiunque venga incaricato di amministrare questo sacramento deve essere in grado di impartire tali comandi. Un uomo, però, non è autorizzato a dare ordini ad un altro se non ne ha la giurisdizione. Di conseguenza, per questo sacramento è essenziale non solo che il ministro sia ordinato, come avviene negli altri sacramenti, ma anche che abbia effettivamente la giurisdizione necessaria; altrimenti, colui che non ne dispone non può amministrarlo, proprio come chi non è sacerdote. Pertanto, la confessione deve essere fatta non solo a un sacerdote, ma specificamente al proprio sacerdote di riferimento: poiché un sacerdote non assolve qualcuno se non imponendogli determinati obblighi, soltanto colui che può impartire tali ordini è in grado di assolvere il penitente.
+
+Risposta all’Obiezione 1: Gregorio si riferisce a quei monaci che hanno giurisdizione in quanto sono incaricati della gestione di una parrocchia; alcuni avevano sostenuto che, proprio per il fatto di essere monaci, non potessero assolvere né imporre penitenze, il che è falso.
+
+Risposta all’Obiezione 2: Il sacramento dell’Eucaristia non richiede il potere di comando su una persona, mentre questo altro sacramento lo richiede, come detto sopra; pertanto tale argomentazione non dimostra nulla. Tuttavia, non è lecito ricevere l’Eucaristia da qualcuno diverso dal proprio sacerdote, anche se si tratta di un vero sacramento che viene ricevuto da un altro.
+
+Risposta all’Obiezione 3: La scelta di un sacerdote adatto non ci è lasciata alla nostra discrezione, in modo che possiamo agire come vogliamo; essa dipende invece dall’autorità superiore, nel caso in cui il nostro stesso sacerdote si riveli meno idoneo a applicare i rimedi necessari ai nostri peccati.
+
+Risposta all’Obiezione 4: Poiché è dovere dei prelati amministrare i sacramenti, che dovrebbero essere celebrati soltanto da persone pure, la legge (De Poenit. et Remiss., Cap. Ne pro dilatione) permette loro di scegliere un sacerdote come confessore; in questo senso, tale sacerdote ha una posizione superiore rispetto al prelato stesso; proprio come un medico può essere curato da un altro medico, non nella veste di medico ma in quella di paziente.
+
+Risposta all’Obiezione 5: Nei casi in cui il penitente abbia motivo di temere qualche danno per sé o per il sacerdote a causa della confessione fatta a quest’ultimo, dovrebbe ricorrere all’autorità superiore o chiedere direttamente al sacerdote stesso il permesso di confessarsi con un altro; e se non riesce ad ottenerlo, la situazione deve essere considerata come quella di una persona che non disponga di un sacerdote a disposizione; pertanto, dovrebbe preferire confidarsi a un laico. Non si viola in questo modo la legge della Chiesa, poiché i precetti del diritto positivo non vanno oltre l’intenzione del legislatore, che rappresenta lo scopo stesso di tali precetti; in questo caso, tale intento è la carità, secondo quanto affermato dall’Apostolo (1 Timoteo 1:5). Inoltre, ciò non comporta alcun disonore per il sacerdote, poiché egli merita di perdere il proprio privilegio se abusa del potere che gli è stato affidato.
+
+Risposta all’Obiezione 6: La necessità di confessarsi al proprio sacerdote non ostacola il cammino verso la salvezza, ma lo delimita in modo sufficiente. Tuttavia, un sacerdote commetterebbe peccato se non fosse disposto ad autorizzare le confessioni presso altri sacerdoti, poiché molte persone sono così deboli da preferire morire senza confessarsi piuttosto che farlo con un tale sacerdote. Pertanto, quei sacerdoti che sono troppo desiderosi di esaminare la coscienza dei loro fedeli attraverso le confessioni tendono a preparare trappole di dannazione per molti, e di conseguenza anche per se stessi.
+
 <span class="atom-split" data-atom="041" data-title="Whether it is lawful for anyone to confess to another than his own priest, in virtue of a privilege or a command given by a superior?" data-chapter="Whether it is lawful for anyone to confess to another than his own priest, in virtue of a privilege or a command given by a superior?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not lawful for anyone to confess to another than his own
@@ -1803,6 +2442,28 @@ of which applies to Penance. Hence it would be well for him who hears confession
 authority, to advise the penitent to confess to his own priest, yet he must absolve him, even if he
 declines to do so.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia legittimo per nessuno confessarsi ad altro che al proprio sacerdote, nemmeno in virtù di un privilegio o di un ordine impartito da un superiore. Infatti, nessun privilegio dovrebbe essere concesso se tale privilegio arreca danno a terzi. Inoltre, sarebbe dannoso per il sacerdote del soggetto stesso se questi si confessasse ad altro. Pertanto, ciò non può essere permesso né in base a un privilegio, né a un’autorizzazione, né a un ordine di un superiore.
+
+Obiezione 2: Inoltre, ciò che ostacola l’osservanza di un comando divino non può essere oggetto di un comando o di un privilegio concesso dall’uomo. Ora, è un comando divino per i rettori delle chiese “conoscere il bestiame che appartiene a loro” (Proverbi 27:23); e questo obiettivo viene ostacolato se qualcun altro, diverso dal rettore, ascolta le confessioni dei fedeli. Pertanto, ciò non può essere prescritto da alcun privilegio o comando umano.
+
+Obiezione 3: Inoltre, colui che ascolta la confessione di un altro è allo stesso tempo il suo giudice; altrimenti non potrebbe né condannarlo né assolverlo. Ora, una persona non può avere più di un sacerdote o giudice per sé, poiché in tal caso sarebbe costretta ad obbedire a più persone contemporaneamente, il che è impossibile se i loro ordini sono contrari o incompatibili tra loro. Pertanto, non si può confessare a nessuno altro se non al proprio sacerdote, nemmeno con il permesso di un superiore.
+
+Obiezione 4: Inoltre, ripetere un sacramento per la stessa materia è denigratorio nei confronti di tale sacramento, o almeno inutile. Ma colui che si è confessato a un altro sacerdote è obbligato a confessarsi nuovamente al proprio sacerdote, se quest’ultimo lo richiede, poiché non è stato assolto dall’obbedienza che lo lega a lui in questo ambito. Pertanto, non può essere lecito per nessuno confessarsi a qualcun altro diverso dal proprio sacerdote.
+
+Al contrario, colui che è in grado di compiere gli atti richiesti da un ordine può delegarne l’esecuzione a chiunque possieda lo stesso ordine. Un superiore, come un vescovo, può ascoltare la confessione di qualsiasi persona appartenente alla parrocchia di un sacerdote; talvolta, però, riserva per sé determinati casi, in quanto è il capo della diocesi. Pertanto, può anche delegare a un altro sacerdote l’incarico di ascoltare le confessioni dei fedeli della propria parrocchia. Inoltre, un superiore può fare tutto ciò che è in grado di fare il suo subordinato; ma lo stesso sacerdote può concedere ai propri parrocchiani il permesso di confessarsi con un altro sacerdote. Quindi, molto di più può farlo il proprio superiore. Inoltre, il potere che un sacerdote possiede tra la sua gente gli viene conferito dal vescovo; ed è proprio attraverso tale potere che egli può ascoltare le confessioni. Pertanto, allo stesso modo, un altro individuo può farlo, purché il vescovo gli abbia concesso lo stesso potere.
+
+Rispondo che un sacerdote può essere ostacolato in due modi nell’ascoltare la confessione di una persona: in primo luogo, a causa della mancanza di giurisdizione; in secondo luogo, perché gli viene impedito di esercitare il proprio ministero, come nel caso di coloro che sono stati scomunicati o degradati. Ora, chiunque abbia la giurisdizione può delegare ad altri le funzioni che rientrano nella sua competenza; quindi, se un sacerdote è impossibilitato ad ascoltare una confessione per mancanza di giurisdizione, chiunque abbia la giurisdizione diretta su quella persona – sia esso un sacerdote, un vescovo o il Papa – può delegare a quel sacerdote l’incarico di ascoltare la confessione e di assolvere la persona in questione. D’altra parte, se il sacerdote non può ascoltare la confessione a causa di un ostacolo nell’esercizio del proprio ministero, chiunque abbia il potere di eliminare tale ostacolo può permettergli di assolvere alle sue funzioni.
+
+Risposta all’Obiezione 1: Non si compie alcun torto verso una persona se ciò che le viene tolto non le era stato concesso a suo vantaggio. Ora, il potere giudiziario non viene concesso a un uomo a suo beneficio, ma per il bene del popolo e per la gloria di Dio. Pertanto, se i prelati di grado superiore ritengono opportuno affidare questioni di giurisdizione ad altri al fine di promuovere la salvezza del popolo e la gloria di Dio, non si compie alcun torto nei confronti dei prelati di grado inferiore, tranne che verso coloro che “cercano ciò che è loro proprio, e non ciò che appartiene a Gesù Cristo” (Filippesi 2:21) e che governano il loro gregge non nutrendolo, ma sfruttandolo.
+
+Risposta all’Obiezione 2: Il rettore di una chiesa dovrebbe “conoscere le condizioni dei suoi fedeli” in due modi. Primo, attraverso un’attenta osservazione del loro comportamento esteriore, al fine di vegliare su coloro che sono affidati alla sua cura; nell’acquisire questa conoscenza, non dovrebbe fidarsi ciecamente dei suoi fedeli, ma cercare il più possibile di verificare la veridicità dei fatti. Secondo, attraverso le confessioni rilasciate dai fedeli; in questo caso, non è possibile raggiungere una certezza maggiore che credendo alle parole del penitente stesso, poiché ciò è necessario affinché il rettore possa aiutare la coscienza di quest’ultimo. Pertanto, nel tribunale della confessione, si crede al penitente, sia che parli a proprio favore che contro di sé; ma non così nel tribunale del giudizio esterno: in questo caso, basta credere alle parole del penitente quando afferma di aver confessato a qualcuno che potrebbe assolverlo. È quindi evidente che questa conoscenza dei fedeli non viene ostacolata da alcun privilegio concesso ad altre persone per ascoltare le confessioni.
+
+Risposta all’Obiezione 3: Sarebbe scomodo se due persone fossero poste in posizioni uguali riguardo alla stessa comunità di persone; tuttavia non vi è alcun inconveniente nel caso in cui una di queste due persone sia posta al di sopra dell’altra. In questo modo, il parroco, il vescovo e il Papa sono tutti collocati direttamente al di sopra della stessa comunità di persone, e ciascuno di loro può delegare compiti di giurisdizione ad altri. Un superiore più alto delega i propri poteri in due modi: innanzitutto, affinché la persona delegata assuma il posto del superiore stesso, come quando il Papa o un vescovo nomina i propri penitenzieri; in secondo luogo, affinché la persona delegata abbia uno status gerarchicamente superiore rispetto al prelato a cui viene assegnata, come avviene per i penitenzieri del Papa rispetto ai vescovi, e questi rispetto ai parroci: in tal caso, il penitente è tenuto ad obbedire alla persona delegata piuttosto che al proprio parroco. Inoltre, la delega può essere nominata coadiutore di un altro prelato; poiché un coadiutore è subordinato alla persona a cui viene assegnato per aiutarla, occupa uno status gerarchicamente inferiore, e il penitente non è tenuto ad obbedirgli nello stesso modo in cui deve obbedire al proprio parroco.
+
+Risposta all’Obiezione 4: Nessun uomo è obbligato a confessare peccati che non possiede più. Pertanto, se un uomo ha confessato i propri peccati al penitenziario vescovile o a qualcuno che abbia l’autorità delegata dal vescovo, i suoi peccati sono perdonati sia davanti alla Chiesa che davanti a Dio; quindi non è obbligato a confessarli nuovamente al proprio sacerdote, per quanto quest’ultimo possa insistere. Tuttavia, a causa del precetto ecclesiastico (De Poenit. et Remiss., Cap. Omnis utriusque) che prescrive di confessarsi una volta all’anno al proprio sacerdote, tale persona è soggetta alla stessa obbligazione di chi abbia commesso soltanto peccati veniali. Per quest’ultimo, secondo alcuni, è sufficiente confessare solo peccati veniali; in alternativa, deve dichiarare di essere libero da peccati mortali, e il sacerdote, nel tribunale della coscienza, dovrebbe e ha l’obbligo di credergli. Se invece fosse obbligato a confessarsi nuovamente, la prima confessione non sarebbe inutile, poiché più sacerdoti si confessa con, maggiore sarà la remissione della pena: sia per via dell’imbarazzo derivante dalla confessione stessa, considerata una punizione sufficiente, sia per il potere dei sacramenti. Pertanto, non vi è nulla di offensivo nella ripetizione della confessione, tranne nei casi in cui essa comporti una qualche forma di santificazione, come l’apposizione di un segno o la consacrazione del materiale utilizzato; entrambi questi aspetti non si applicano alla penitenza. Pertanto, colui che ascolta le confessioni per autorità vescovile dovrebbe consigliare al penitente di confessarsi al proprio sacerdote; tuttavia, deve assolverlo anche nel caso in cui quest’ultimo rifiuti di farlo.
+
 <span class="atom-split" data-atom="042" data-title="Whether a penitent, at the point of death, can be absolved by any priest?" data-chapter="Whether a penitent, at the point of death, can be absolved by any priest?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a penitent, at the point of death, cannot be absolved by any
@@ -1857,6 +2518,24 @@ owing to the merit derived from his confession and to his repentance. but he doe
 diminution of his punishment which results from the power of the keys; and consequently he must
 confess again to a priest; and one who has confessed thus, is more punished hereafter than if he
 had confessed to a priest.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un penitente, al momento della morte, non possa essere assolto da alcun sacerdote. Infatti l’assoluzione richiede una determinata giurisdizione, come già detto sopra (A[5]). Ora, un sacerdote non acquisisce tale giurisdizione su una persona che si pente al momento della morte; pertanto non può assolverla.
+
+Obiezione 2: Inoltre, colui che riceve il [sacramento](/concepts/sacrament) del Battesimo, in pericolo di morte, da un altro che non sia il proprio sacerdote, non ha bisogno di essere battezzato nuovamente da quest’ultimo. Pertanto, se qualsiasi sacerdote può assolvere da qualsiasi peccato una persona in pericolo di morte, il penitente, qualora sopravviva al pericolo, non è obbligato a rivolgersi al proprio sacerdote; il che è falso, poiché in caso contrario il sacerdote non “conoscerebbe il volto delle sue pecore”.
+
+Obiezione 3: Inoltre, quando c’è pericolo di morte, il Battesimo può essere conferito non solo da un sacerdote straniero, ma anche da qualcuno che non è sacerdote. Tuttavia, una persona che non è sacerdote non può mai assolvere nel tribunale della Penitenza. Pertanto, nemmeno un sacerdote può assolvere una persona che non è soggetta alla sua giurisdizione, quando questa si trova in pericolo di morte.
+
+Al contrario, la necessità spirituale è più importante della necessità fisica. Tuttavia, in caso di estrema necessità, è legittimo che una persona utilizzi la proprietà altrui, anche contro la volontà del proprietario, al fine di soddisfare un bisogno fisico. Pertanto, in pericolo di morte, una persona può essere assolta da qualcuno diverso dal proprio sacerdote, al fine di soddisfare i propri bisogni spirituali. Inoltre, le autorità citate nel testo confermano lo stesso concetto (Sentenze iv, D, 20, Capitolo Non Habet).
+
+Rispondo che, se consideriamo il potere delle “chiavi sacramentali”, ogni sacerdote possiede ugualmente tale potere su tutti gli uomini e su tutti i peccati; tuttavia, a causa del fatto che, per ordinazione della Chiesa, egli ha una giurisdizione limitata o addirittura nessuna, non può assolvere tutti gli uomini da tutti i peccati. Ma poiché “la necessità non conosce leggi” [*Capitolo Consilium, De observ. jejun.; De reg. jur. (v, Decretale), *], in casi di emergenza l’ordinazione della Chiesa non gli impedisce di assolvere, poiché egli possiede effettivamente quelle “chiavi sacramentali”. Inoltre, il penitente trarrà lo stesso beneficio dall’assoluzione di questo altro sacerdote come se fosse stata concessa dal proprio. In più, un uomo può essere assolto da qualsiasi sacerdote, non solo dai propri peccati, ma anche dall’escomunica, indipendentemente da chi l’abbia pronunciata; tale assoluzione rientra infatti nella giurisdizione conferita alla Chiesa per ordinazione.
+
+Risposta all’Obiezione 1: Una persona può agire secondo la volontà di un’altra in ambito giurisdizionale, poiché le questioni relative alla giurisdizione possono essere delegate. Pertanto, poiché la Chiesa riconosce l’assoluzione concessa da qualsiasi sacerdote al momento della morte, è proprio da questo fatto che un sacerdote possiede il potere di esercitare la giurisdizione, anche se in realtà non ne dispone formalmente.
+
+Risposta all’Obiezione 2: È necessario che si rechi dal proprio sacerdote, non per essere nuovamente assolto dai peccati di cui è stato assolto quando era in pericolo di morte, ma affinché il proprio sacerdote sappia che è stato assolto. Allo stesso modo, colui che è stato assolto dall’espulsione dalla Chiesa deve recarsi al giudice che, in altre circostanze, avrebbe potuto assolverlo; non per chiedere di nuovo l’assoluzione, ma per offrire una soddisfazione per i peccati commessi.
+
+Risposta all’Obiezione 3: Il battesimo trae la sua efficacia dalla santificazione della materia stessa su cui viene celebrato; pertanto, chiunque battezza un uomo gli conferisce il sacramento. Al contrario, il potere sacramentale della penitenza consiste in una santificazione pronunciata dal ministro del sacramento; quindi, se un uomo confessa i propri peccati a un laico, anche se adempie al proprio dovere nel rito della confessione, non riceve l’assoluzione sacramentale. La sua confessione può comunque giovargli, in quanto contribuisce alla riduzione della pena, grazie ai meriti derivanti dalla sua penitenza e dal suo pentimento; tuttavia, non ottiene quella riduzione della pena che deriva dal potere dei “chiavi sacramentali”. Pertanto, è necessario che confidi nuovamente a un sacerdote; chi ha confessato in questo modo subirà una punizione più severa in futuro rispetto a chi avesse confessato a un sacerdote.
 
 <span class="atom-split" data-atom="043" data-title="Whether the temporal punishment is imposed according to the degree of the fault?" data-chapter="Whether the temporal punishment is imposed according to the degree of the fault?" data-kind="atom" data-srclang="en"></span>
 
@@ -1939,6 +2618,28 @@ due. Hence he is punished less in Purgatory.
 Reply to Objection 4: This punishment refers to the case when this happens against the priest's
 will: for if he spilled it willingly he would deserve a much heavier punishment.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la punizione temporale, il debito della quale rimane dopo il pentimento, non venga inflitta in base al grado di colpa. Infatti, essa viene imposta in base al grado di piacere derivante dal peccato, come si evince dall’Apocalisse 18:7: “Quanto più si è glorificata e ha vissuto nel lusso, tanto più tormento e dolore le infliggiate”. Tuttavia, a volte, dove c’è maggiore piacere, c’è minore colpa; infatti, secondo Gregorio (“Morale”, xxxiii, 2), “i peccati carnali, che procurano maggior piacere dei peccati spirituali, sono meno gravi”. Pertanto, la punizione non viene inflitta in base al grado di colpa.
+
+Obiezione 2: Inoltre, nella [Nuova Legge](/concepts/divine_law) si è soggetti alla punizione per i peccati mortali, nello stesso modo della Vecchia Legge. Nella Vecchia Legge la punizione per il peccato durava sette giorni; in altre parole, si doveva rimanere impuri per sette giorni a causa di un solo peccato mortale. Poiché nella Nuova Legge viene imposta una punizione di sette anni per un singolo peccato mortale, sembra che l’entità della punizione non corrisponda al grado di colpa.
+
+Obiezione 3: Inoltre, il peccato di omicidio compiuto da un laico è più grave di quello di adulterio commesso da un sacerdote, poiché la circostanza che riguarda la natura stessa del peccato rappresenta un fattore aggravante maggiore rispetto a quella legata alla persona del peccatore. Ora, per un laico colpevole di omicidio è prevista una pena di sette anni, mentre per un sacerdote colpevole di adulterio la pena è di dieci anni, secondo il Canone dei Presbiteri, Distretto lxxxii. Pertanto, la punizione non viene inflitta in base al grado della colpa commessa.
+
+Obiezione 4: Inoltre, un peccato commesso contro il corpo stesso di Cristo è particolarmente grave, poiché maggiore è la persona contro cui si commette il peccato, più grave è anch’esso. Ora, per aver versato il sangue di Cristo nel [sacramento](/concepts/sacrament) dell’altare, è prescritta una punizione di quaranta giorni o poco più; mentre per l’adulterio è prevista una punizione di sette anni, secondo i Canoni (Can. Presbyter, Dist. lxxxii). Pertanto, l’intensità della punizione non corrisponde al grado del peccato commesso.
+
+Al contrario, è scritto (Isaia 27:8): “Misura per misura; quando sarà rimosso, tu lo giudicherai”. Pertanto, la quantità della punizione inflitta per il peccato corrisponde al grado dell’errore commesso. Inoltre, l’uomo viene ridotto all’uguaglianza davanti alla giustizia proprio a causa della punizione che gli viene inflitta; ma ciò non sarebbe possibile se la quantità dell’errore e quella della punizione non corrispondessero tra loro. Pertanto, una delle due deve necessariamente corrispondere all’altra.
+
+Rispondo che, dopo il perdono del peccato, una punizione è necessaria per due motivi: innanzitutto, per saldare il “debito” derivante dal peccato; in secondo luogo, per offrire un rimedio alle conseguenze di tale peccato. Pertanto, la punizione può essere inflitta tenendo conto di questi due aspetti. Per quanto riguarda il debito, l’entità della punizione corrisponde direttamente alla gravità del peccato, prima che alcuna parte di esso venga perdonata; tuttavia, più viene remissione attraverso la contrizione o la confessione, meno rimane da compensare. Per quanto riguarda il rimedio, a volte si impone una punizione più severa anche per un peccato minore: sia perché il peccato di una persona è più difficile da resistere rispetto a quello di un’altra (ad esempio, una punizione più pesante viene inflitta a un giovane per adulterio che a un anziano, anche se il primo ha commesso un peccato meno grave), sia perché il peccato di una determinata persona rappresenta un pericolo maggiore per gli altri (ad esempio, quello di un prete), sia ancora perché la società è particolarmente propensa a commettere quel tipo di peccato. Pertanto, nel tribunale della penitenza, la punizione deve essere inflitta tenendo debitamente conto di entrambi questi aspetti; non sempre, quindi, una punizione più severa corrisponde a un peccato più grave. D’altra parte, la pena del Purgatorio ha lo scopo esclusivo di saldare il “debito” derivante dal peccato, poiché in quel contesto non è più possibile commettere nuovi errori; pertanto, questa punizione viene determinata soltanto in base alla gravità del peccato, tenendo conto anche del grado di contrizione, della confessione e dell’assoluzione, elementi che possono ridurla. Per questo motivo, il sacerdote, quando prescrive una penitenza, deve tenerli tutti questi fattori a mente.
+
+Risposta all’Obiezione 1: Nelle parole citate vengono menzionate due aspetti legati al peccato, ovvero la “glorificazione” e le “delizie” o i piaceri derivanti dal peccare; il primo riguarda l’elevamento dello spirito del peccatore, che lo porta a resistere a Dio, mentre il secondo si riferisce al piacere stesso derivante dal peccato. Anche se a volte un peccato più grave comporti meno piacere, esso provoca però un maggiore elevamento dello spirito del peccatore; pertanto, l’argomentazione presentata non è convincente.
+
+Risposta all’Obiezione 2: Questo castigo di sette giorni non espiava completamente la pena dovuta per il peccato; pertanto, anche se il peccatore morisse entro quel termine, sarebbe stato punito nel Purgatorio. Tuttavia, tale castigo aveva lo scopo di espiare l’irregolarità commessa, e tutti i sacrifici rituali erano considerati efficaci per espiare simili irregolarità. Nonostante ciò, a parità di condizioni, un uomo pecca in modo più grave sotto la Nuova Legge che sotto l’Antica, grazie alla santificazione più profonda ricevuta nel Battesimo e alle benedizioni più potenti concesse da Dio all’umanità. Ciò è evidente in Ebrei 29: “Quanto di più, dunque, merita una punizione ancora più severa, ”. Tuttavia, non è sempre vero che per ogni peccato mortale sia richiesta una penitenza di sette anni; si tratta piuttosto di una regola generale applicabile nella maggior parte dei casi, ma che deve comunque essere considerata con attenzione alle diverse circostanze del peccato e del pentito.
+
+Risposta all’Obiezione 3: Un vescovo o un sacerdote pecca con maggiore pericolo per gli altri o per sé stesso; pertanto i canoni si adoperano con maggiore impegno per farlo allontanare dal peccato, infliggendogli una punizione più severa, poiché ciò è inteso come un rimedio; sebbene a volte tale punizione non sia strettamente meritata. Per questo motivo, nel Purgatorio viene punito meno severamente.
+
+Risposta all’Obiezione 4: Questa punizione si riferisce al caso in cui ciò avviene contro la volontà del sacerdote; infatti, se lo avesse fatto di sua spontanea volontà, meriterebbe una punizione molto più severa.
+
 <span class="atom-split" data-atom="044" data-title="OF THE QUALITY OF CONFESSION (FOUR ARTICLES)" data-chapter="OF THE QUALITY OF CONFESSION (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the quality of confession: under which head there are four points of
@@ -1948,6 +2649,14 @@ inquiry:
 (3) Whether one can confess through another, or by writing?
 (4) Whether the sixteen conditions, which are assigned by the masters, are necessary for
 confession?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la qualità della confesione: in questo ambito vi sono quattro punti da esaminare:  
+(1) È possibile che una confessione manchi di forma legale?  
+(2) Dovrebbe la confessione essere completa in tutti i suoi dettagli?  
+(3) È possibile confessare attraverso un altro, o per iscritto?  
+(4) Sono necessarie le sedici condizioni indicate dagli esperti per rendere valida una confesione?
 
 <span class="atom-split" data-atom="045" data-title="Whether confession can be lacking in form?" data-chapter="Whether confession can be lacking in form?" data-kind="atom" data-srclang="en"></span>
 
@@ -1989,6 +2698,24 @@ be united to God by charity.
 Reply to Objection 3: He who declares the sins which he has, speaks the truth; and thus his
 thought agrees with his lips or words, as to the substance of confession, though it is discordant with
 the purpose of confession.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la confessione non possa essere priva di forma adeguata. Infatti è scritto (Ecclesiaste 17:26): “La lode della confessione perisce con i morti, come se nulla fosse”. Ma un uomo privo di carità è morto, poiché la carità è la vita dell’anima. Pertanto non può esserci alcuna confessione senza carità.
+
+Obiezione 2: Inoltre, la confessione è accompagnata dalla contrizione e dalla soddisfazione. Ma contrizione e soddisfazione sono impossibili senza carità. Pertanto, anche la confessione è impossibile senza carità.
+
+Obiezione 3: Inoltre, è necessario che nella confessione le parole siano in accordo con i pensieri, poiché proprio il nome stesso di “confessione” richiede questo. Ora, se una persona confessa rimanendo attaccata al peccato, le sue parole non sono in linea con i suoi pensieri: nel suo cuore mantiene fede nel peccato, mentre con le labbra lo condanna. Pertanto, una tale persona non confessa veramente.
+
+Al contrario, ogni uomo è obbligato a confessare i propri peccati mortali. Ora, se un uomo che ha commesso un peccato mortale lo ha già confessato una volta, non è più obbligato a confessarlo di nuovo, poiché nessuno sa con certezza di possedere la carità; quindi non è necessario che la confessione venga sollecitata dalla presenza della carità.
+
+Rispondo che la Confessione è un atto di virtù e fa parte di un [sacramento](/concepts/sacrament). In quanto atto di virtù, ha il carattere di essere meritorio; pertanto non può avere efficacia senza la carità, che è il principio del merito stesso. Tuttavia, in quanto parte di un sacramento, sottomette il penitente al sacerdote, che possiede le “chiavi della Chiesa” e che, attraverso la Confessione, conosce la coscienza di colui che si confessa. In questo modo, è possibile che una persona che non è sinceramente pentita compia la Confessione: può infatti rivelare i propri peccati al sacerdote e sottomettersi alle “chiavi della Chiesa”; anche se in quel momento non riceve il frutto dell’assoluzione, comincerà ad ottenerlo quando sarà sinceramente pentita, proprio come avviene negli altri sacramenti. Pertanto, non è obbligato a ripetere la Confessione, ma deve confessare la propria mancanza di sincerità.
+
+Risposta all’Obiezione 1: Queste parole devono essere intese nel senso che si riferiscono alla ricezione dei frutti della confessione, i quali nessuno può ricevere se non si trova nello [stato](/concepts/state) di carità.
+
+Risposta all’Obiezione 2: La contrizione e la soddisfazione vengono offerte a Dio; la confessione, invece, viene fatta all’uomo. Pertanto, è essenziale per la contrizione e la soddisfazione – ma non necessario per la confessione – che l’uomo sia unito a Dio attraverso la carità.
+
+Risposta all’Obiezione 3: Chi confessa i propri peccati dice la verità; pertanto, in termini di sostanza della confessione, il suo pensiero è in accordo con le sue parole, anche se questo può essere in disaccordo con lo scopo stesso della confessione.
 
 <span class="atom-split" data-atom="046" data-title="Whether confession should be entire?" data-chapter="Whether confession should be entire?" data-kind="atom" data-srclang="en"></span>
 
@@ -2054,6 +2781,28 @@ Reply to Objection 4: Although the priest may be unable to absolve the penitent 
 sins, yet the latter is bound to confess all to him, that he may know the total quantity of his guilt,
 and refer him to the superior with regard to the sins from which he cannot absolve him.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia necessario che la confessione sia completa, cioè che un uomo confidi tutti i propri peccati a un solo prete. Infatti, la vergogna contribuisce alla riduzione della punizione; pertanto, più numerosi sono i preti a cui un uomo confida i suoi peccati, maggiore sarà la sua vergogna. Quindi, la confessione risulta più efficace se divisa tra diversi preti.
+
+Obiezione 2: Inoltre, la confessione è necessaria nel rito della penitenza affinché la punizione per il peccato possa essere impostata secondo il giudizio del sacerdote. Ora, una punizione adeguata per diversi peccati può essere inflitta da diversi sacerdoti; pertanto non è necessario confessare tutti i propri peccati a un solo sacerdote.
+
+Obiezione 3: Inoltre, può accadere che un uomo, dopo essersi confessato e aver compiuto la propria penitenza, si ricordi di un peccato mortale che gli era sfuggito alla memoria durante la confessione; in tal caso, il sacerdote a cui si era confessato in precedenza potrebbe non essere più disponibile, e quindi quell’uomo dovrà confessare quel peccato a un altro sacerdote. Di conseguenza, potrebbe confessare peccati diversi a sacerdoti diversi.
+
+Obiezione 4: Inoltre, l’unica ragione per confessare i propri peccati a un prete è quella di ricevere l’assoluzione. Tuttavia, a volte il prete che ascolta la confessione può assolvere da alcuni dei peccati, ma non da tutti. Pertanto, in tal caso, la confessione non deve necessariamente essere completa.
+
+Al contrario, l’ipocrisia rappresenta un ostacolo alla penitenza. Tuttavia, è ipocrita dividere la propria confessione, come afferma [Agostino](/figures/augustine) nel *De vera et falsa Poenitentia*, opera di autore sconosciuto. Pertanto, la confessione deve essere completa. Inoltre, la confessione fa parte della penitenza; poiché la penitenza stessa deve essere completa, anche la confessione deve essere integrale.
+
+Rispondo che, nel prescrivere medicine per il corpo, il medico deve conoscere non solo la malattia per cui sta prescrivendo, ma anche la costituzione generale della persona ammalata; infatti, una malattia può essere aggravata dall’insorgenza di un’altra, e un farmaco adatto a una determinata patologia potrebbe rivelarsi dannoso per un’altra. Lo stesso vale per i peccati: uno di essi può essere ulteriormente peggiorato dall’aggiunta di un altro; inoltre, un rimedio efficace contro un certo peccato potrebbe incoraggiare la commissione di un altro, poiché talvolta una persona compie peccati contrari, come afferma Gregorio (Pastorale, iii, 3). Pertanto, è necessario che l’uomo confessi tutti i peccati che gli vengono in mente; se non lo fa, ciò non costituisce una vera confessione, ma soltanto un fingere di confessare.
+
+Risposta all’Obiezione 1: Anche se la vergogna di un uomo aumenta quando confessa i propri peccati separatamente a diversi confessori, tuttavia la somma di tutte queste vergogne non è paragonabile a quella che proviene dalla confessione di tutti i suoi peccati insieme: infatti, un singolo peccato, preso isolatamente, non dimostra necessariamente la cattiva natura del peccatore; al contrario, quando considerato insieme ad altri peccati, esso rivela chiaramente la malvagità o la profonda corruzione di quest’ultimo. Un uomo può infatti commettere un singolo peccato per ignoranza o debolezza, ma una serie di peccati dimostra certamente la sua malizia o il suo grave decadimento morale.
+
+Risposta all’Obiezione 2: La punizione inflitta da diversi sacerdoti non sarebbe sufficiente, poiché ciascuno di loro considererebbe soltanto un singolo peccato, senza tenere conto della gravità che esso acquista quando si verifica in concomitanza con altri. Inoltre, a volte la punizione prevista per un certo peccato potrebbe incoraggiare l’commissione di altri peccati. Inoltre, il sacerdote, nell’ascoltare la confessione, assume il ruolo di Dio; pertanto la confessione dovrebbe essere fatta a lui esattamente come la contrizione viene rivolta a Dio. Così come non vi sarebbe contrizione se non ci fosse rimorso per tutti i peccati che si ricordano, allo stesso modo non vi sarebbe vera confessione se non si confessassero tutti i peccati commessi.
+
+Risposta all’Obiezione 3: Alcuni affermano che quando un uomo ricorda un peccato che aveva precedentemente dimenticato, debba confessare nuovamente i peccati che aveva già confessato in precedenza, soprattutto se non può rivolgersi allo stesso sacerdote davanti al quale si era confessato la prima volta, affinché la quantità totale dei suoi peccati possa essere conosciuta da un unico sacerdote. Tuttavia, ciò non sembra necessario, poiché la quantità di un peccato deriva sia dalla sua natura intrinseca che dall’insieme degli elementi che lo compongono; per quanto riguarda i peccati già confessati in precedenza, la loro quantità è già nota; mentre per il peccato dimenticato, basta che il penitente lo dichiari esplicitamente e confessi gli altri in modo generico, affermando di aver confessato molti peccati nella sua precedente confessione, ma di aver dimenticato proprio questo particolare peccato.
+
+Risposta all’Obiezione 4: Anche se il sacerdote potrebbe non essere in grado di assolvere il penitente da tutti i suoi peccati, quest’ultimo è comunque obbligato a confessarglieli tutti, affinché il sacerdote possa conoscere l’entità totale della sua colpevolezza e indirizzarlo al superiore per quanto riguarda i peccati da cui non può assolverlo.
+
 <span class="atom-split" data-atom="047" data-title="Whether one may confess through another, or by writing?" data-chapter="Whether one may confess through another, or by writing?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one may confess through another, or by writing. For confession
@@ -2100,6 +2849,24 @@ by ourselves, so that when we cannot confess in one way, we must confess as we c
 Reply to Objection 3: In the absence of one's own priest, confession may be made even to a
 layman, so that there is no necessity to confess in writing, because the act of confession is more
 essential than the person to whom confession is made.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che si possa confessare attraverso un altro o per iscritto. Infatti, la confessione è necessaria affinché la coscienza del penitente venga resa nota al sacerdote. Ma una persona può comunque rendere nota la propria coscienza al sacerdote tramite un altro o per iscritto. Pertanto, è sufficiente confessare in questo modo.
+
+Obiezione 2: Inoltre, alcuni non vengono compresi dai propri sacerdoti a causa di differenze linguistiche e, di conseguenza, non possono confessarsi se non tramite altri. Pertanto, non è essenziale per il [sacramento](/concepts/sacrament) che si confessi personalmente; quindi, se qualcuno confessa attraverso un altro, in qualsiasi modo sia, ciò è sufficiente per la sua salvezza.
+
+Obiezione 3: Inoltre, è essenziale per il sacramento che un uomo confidi i propri peccati al proprio sacerdote, come risulta da quanto detto precedentemente (Q[8], A[5]). Tuttavia, a volte il proprio sacerdote è assente, e quindi il penitente non può parlare con lui di persona. Ma potrebbe comunque far conoscere la propria coscienza al sacerdote scrivendogli. Pertanto, sembra opportuno che il penitente manifesti la propria coscienza al sacerdote attraverso una lettera.
+
+Al contrario, l’Uomo è tenuto a confessare i propri peccati, proprio come è tenuto a confessare la propria fede. Tuttavia, la confessione della fede deve essere fatta “con la bocca”, come si evince da Romani 10:10; pertanto anche la confessione dei peccati dovrebbe avvenire allo stesso modo. Inoltre, chi ha peccato da solo deve compiere la penitenza da solo; ma la confessione fa parte della penitenza stessa. Quindi, il pentito deve confessare i propri peccati.
+
+Rispondo che la Confessione non è soltanto un atto di virtù, ma anche parte di un sacramento. Ora, sebbene, in quanto atto di virtù, non importi come venga compiuta – anche se sia più facile farla in un certo modo piuttosto che in un altro – tuttavia, in quanto parte di un sacramento, essa ha una forma specifica, proprio come gli altri sacramenti hanno un contenuto preciso. E così come nel Battesimo, per simboleggiare il lavaggio interiore, utilizziamo quell’elemento che viene comunemente impiegato per lavare, allo stesso modo nell’atto sacramentale volto alla manifestazione dei peccati, di solito utilizziamo quel mezzo più diffuso per tale scopo, ovvero le nostre stesse parole; poiché sono stati introdotti anche altri metodi come complemento a questi.
+
+Risposta all’Obiezione 1: Proprio come nel Battesimo non basta lavarsi con qualsiasi cosa, ma è necessario utilizzare un elemento specifico, allo stesso modo nella Penitenza non è sufficiente manifestare i propri peccati in qualsiasi modo; essi devono essere dichiarati attraverso un atto preciso.
+
+Risposta all’Obiezione 2: È sufficiente che una persona ignara di una lingua confessi i propri peccati scrivendo, con segni o attraverso un interprete; infatti, nessuno è obbligato a fare più di ciò che è in suo potere. Sebbene una persona non sia in grado o non sia tenuta a ricevere il Battesimo se non con acqua – che proviene da una fonte esterna e viene somministrata da un altro – l’atto della confessione, invece, ha origine interiore ed è compiuto direttamente dalla persona stessa. Pertanto, quando non siamo in grado di confessare in un certo modo, dobbiamo farlo nel modo che ci è possibile.
+
+Risposta all’Obiezione 3: In assenza del proprio sacerdote, la confessione può essere fatta anche a un laico; pertanto non c’è alcuna necessità di redigerla per iscritto, poiché l’atto stesso della confessione è più importante della persona a cui essa viene rivelata.
 
 <span class="atom-split" data-atom="048" data-title="Whether the sixteen conditions usually assigned are necessary for confession?" data-chapter="Whether the sixteen conditions usually assigned are necessary for confession?" data-kind="atom" data-srclang="en"></span>
 
@@ -2175,6 +2942,32 @@ sometimes for slight sins, and sometimes for none at all.
 
 Reply to Objection 5: We must understand this to refer to tears of the heart.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le condizioni indicate dai maestri, e riportate nelle seguenti righe, non siano necessarie per la confessione: semplicità, umiltà, purezza, fedeltà; frequenza, sincerità, discrezione, volontarietà; vergogna, riservatezza, lacrime, tempestività nell’atto di confessare; coraggio nell’accusare e disponibilità ad obbedire. Infatti, fedeltà, semplicità e coraggio sono virtù a sé stanti e quindi non dovrebbero essere considerate condizioni necessarie per la confessione.
+
+Obiezione 2: Inoltre, una cosa è “pura” quando non è mescolata con nulla altro; e la “semplicità”, allo stesso modo, elimina ogni forma di composizione o miscelazione. Pertanto, l’una o l’altra di queste caratteristiche è superflua.
+
+Obiezione 3: Inoltre, nessuno è obbligato a confessare più volte un peccato che ha commesso una sola volta. Pertanto, se un uomo non commette di nuovo quel peccato, la sua penitenza non deve necessariamente essere “frequente”.
+
+Obiezione 4: Inoltre, la confessione ha lo scopo di ottenere soddisfazione. Ma talvolta questa soddisfazione avviene in pubblico. Pertanto, la confessione non dovrebbe sempre essere “segreta”.
+
+Obiezione 5: Inoltre, ciò che non è nel nostro potere non ci viene richiesto. Ma versare “lacrime” non rientra nel nostro potere; pertanto, non viene richiesto a coloro che si confessano.
+
+Al contrario, disponiamo dell’autorità di coloro che hanno stabilito quanto sopra indicato.
+
+Rispondo che alcune delle condizioni sopra menzionate sono essenziali per la confessione, mentre altre ne sono necessarie per il suo corretto svolgimento. Quelle che risultano essenziali appartengono alla confessione sia in quanto atto di virtù, sia in quanto parte di un [sacramento](/concepts/sacrament). Se considerate dal punto di vista della virtù, queste condizioni derivano o dalla virtù in generale, o dalla virtù specifica che la confessione rappresenta, oppure dall’atto stesso della confessione. Esistono quattro condizioni fondamentali per la virtù in generale, come indicato nell’Etica ii, 4: la prima è la conoscenza, senza la quale la confessione non potrebbe essere “discreta”, poiché ogni atto di virtù richiede prudenza; questa discrezione consiste nel dare maggiore importanza ai peccati più gravi. La seconda condizione è la scelta volontaria, poiché gli atti di virtù devono essere compiuti liberamente; in questo senso, la confessione è considerata “volontaria”. La terza condizione è che l’atto venga compiuto per uno scopo specifico, ovvero per raggiungere il fine previsto dal sacramento; in questo contesto, la confessione è definita “pura”, cioè compiuta con intenzioni rette. La quarta condizione è l’immobilità nell’atto stesso, che rende la confessione “coraggiosa”, poiché non si deve mai rinunciare alla verità per paura o vergogna. La confessione è un atto legato alla virtù della penitenza. Nasce dallo spavento suscitato dalla vergogna del peccato; in questo senso, la confessione deve essere “piena di vergogna”, affinché non diventi un modo vanitoso per esibire i propri errori. Successivamente, comporta il lutto per il peccato commesso; in questo contesto, si dice che la confessione sia “dolorosa”. Infine, culmina nell’umiltà: chi confessa deve riconoscere la propria miseria e debolezza. Per la sua stessa natura, l’atto della confessione è un atto di manifestazione; questa manifestazione può essere ostacolata da quattro fattori: innanzitutto dalla menzogna, contro cui la confessione deve essere “fedele”, cioè vera. In secondo luogo dall’uso di parole vaghe; in questo caso, la confessione deve essere “chiara” e precisa. Terzo, dall’eccesso di dettagli; in questo senso, deve essere “semplice”, cioè limitata ai fatti rilevanti per la gravità del peccato. Quarto, nulla di ciò che deve essere rivelato dovrebbe essere nascosto; in questo contesto, la confessione deve essere “completa”. Poiché la confessione fa parte di un [sacramento](/concepts/sacrament), è soggetta al giudizio del sacerdote, che ne è il ministro. Pertanto, la confessione deve essere fatta in modo “franco”, dimostrando la disponibilità del penitente ad obbedire alle indicazioni del sacerdote; deve rimanere “segreta” riguardo ai contenuti delle questioni personali che vengono esaminate. Per funzionare correttamente, la confessione deve essere “frequente” e “immediata”, cioè il peccatore dovrebbe confessarsi senza indugi.
+
+Risposta all’Obiezione 1: Non c’è nulla di irragionevole nel fatto che una virtù sia condizione dell’atto di un’altra virtù, poiché tale atto viene comandato da quella prima virtù; o nel fatto che il mezzo che appartiene principalmente a una virtù appartenga anche, in misura minore, ad altre virtù.
+
+Risposta all’Obiezione 2: La condizione di “purezza” esclude la perversione dell’intenzione, da cui l’uomo è liberato; mentre la condizione di “semplicità” esclude l’inserimento di elementi superflui.
+
+Risposta all’Obiezione 3: Questo non è necessario per la confessione, ma rappresenta una condizione essenziale affinché essa possa svolgersi correttamente.
+
+Risposta all’Obiezione 4: La confessione dovrebbe essere fatta in privato e non pubblicamente, affinché gli altri non vengano scandalizzati o indotti a compiere atti malvagi ascoltando i peccati confessati. D’altra parte, la penitenza prescritta come atto di soddisfazione non genera scandali, poiché opere simili vengono spesso compiute anche per peccati minori, o addirittura in assenza di alcun peccato.
+
+Risposta all’Obiezione 5: Dobbiamo intendere che ci si riferisce alle lacrime del cuore.
+
 <span class="atom-split" data-atom="049" data-title="OF THE EFFECT OF CONFESSION (FIVE ARTICLES)" data-chapter="OF THE EFFECT OF CONFESSION (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the effect of confession: under which head there are five points of
@@ -2184,6 +2977,15 @@ inquiry:
 (3) Whether confession opens Paradise to us?
 (4) Whether confession gives hope of salvation?
 (5) Whether a general confession blots out mortal sins that one has forgotten?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’effetto della confessione: in questo ambito vi sono cinque punti da esaminare:  
+(1) La confessione ci libera dalla morte del peccato?  
+(2) La confessione ci salva in qualche modo dal castigo?  
+(3) La confessione ci apre il Paradiso?  
+(4) La confessione dona la speranza di salvezza?  
+(5) Una confessione generale cancella i peccati mortali che si sono dimenticati?
 
 <span class="atom-split" data-atom="050" data-title="Whether confession delivers one from the death of sin?" data-chapter="Whether confession delivers one from the death of sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -2225,6 +3027,20 @@ e.g. an idle word: secondly, for what is venial in its cause, i.e. having within
 pardon, e.g. sins due to weakness: thirdly, for what is venial in the result, in which sense it is
 understood here, because the result of confession is that man's past guilt is pardoned.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la confessione non liberi alcuno dalla “morte del peccato”. Infatti, la confessione segue la contrizione, ma la contrizione basta a cancellare completamente il senso di colpa. Pertanto, la confessione non libera alcuno dalla “morte del peccato”.
+
+Obiezione 2: Inoltre, proprio come il peccato mortale è un errore, lo è anche il peccato veniale. Ora, la confessione rende veniale ciò che prima era considerato mortale, come affermato nel testo (Sentenze, iv, D, 17). Pertanto, la confessione non cancella il peccato, ma trasforma un tipo di peccato in un altro.
+
+Al contrario, la Confessione fa parte del [sacramento](/concepts/sacrament) della Penitenza. Ma la Penitenza libera dalla colpa; pertanto anche la Confessione lo fa.
+
+Rispondo che la Penitenza, in quanto sacramento, si perfeziona principalmente attraverso la Confessione, poiché quest’ultima permette all’uomo di sottomettersi ai ministri della Chiesa, i quali sono gli dispensatori dei sacramenti. La contrizione, infatti, è accompagnata dal desiderio di confessarsi, e la soddisfazione dei peccati viene prescritta in base al giudizio del sacerdote che ascolta la Confessione. Poiché nel Sacramento della Penitenza, come nel Battesimo, viene infusa quella grazia che perdona i peccati, anche la Confessione, attraverso l’assoluzione concessa, rimuove la colpa, proprio come il Battesimo. Il Battesimo libera dall’“morte del peccato”, non solo quando viene ricevuto effettivamente, ma anche quando viene desiderato, come è evidente nel caso di coloro che si avvicinano al sacramento dopo essere già stati santificati. E se un uomo non ostacola il ricevimento del sacramento, egli riceve, semplicemente attraverso il fatto stesso di essere battezzato, quella grazia che perdona i suoi peccati, qualora questi non siano già stati rimossi. Lo stesso vale per la Confessione: all’assoluzione concessa vi aggiunge la grazia che libera il penitente dalla colpa, poiché tale desiderio era già presente in lui prima della Confessione stessa. Successivamente, al momento effettivo della Confessione e dell’assoluzione, il penitente riceve un ulteriore aumento di grazia; inoltre, i suoi peccati verrebbero comunque perdonati, se la sua precedente sofferenza per i propri errori non fosse stata sufficiente a generare vera contrizione, e se al momento della Confessione non avesse creato alcun ostacolo al ricevimento della grazia. Pertanto, proprio come si dice del Battesimo che libera dall’“morte del peccato”, lo stesso si può dire anche della Confessione.
+
+Risposta all’Obiezione 1: La contrizione è accompagnata dal desiderio di confessarsi; pertanto, libera i pentiti dalla morte, proprio come il desiderio di ricevere il Battesimo salva coloro che stanno per essere battezzati.
+
+Risposta all’Obiezione 2: Nel testo, “veniale” non indica colpa, ma una punizione che può essere facilmente espiata. Pertanto, non si tratta di un peccato che venga sostituito con un altro, ma di uno peccato che viene completamente cancellato. Il termine “veniale” infatti può essere inteso in tre modi [*Cfr. FS, Q[88], A[2: primo, in senso generico, per ciò che è considerato lieve o insignificante; secondo, per ciò il cui motivo comporta la possibilità di perdono, ad esempio i peccati derivanti dalla debolezza umana; terzo, per ciò il cui risultato comporta la remissione del peccato, e in questo senso viene utilizzato nel testo, poiché il risultato della confessione è proprio la remissione dei peccati passati.
+
 <span class="atom-split" data-atom="051" data-title="Whether confession delivers from punishment in some way?" data-chapter="Whether confession delivers from punishment in some way?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that confession nowise delivers from punishment. For sin deserves
@@ -2262,6 +3078,19 @@ under the head of accidental and secondary reward. Consequently one who has conf
 received absolution will be less punished in Purgatory than one who has gone no further than
 contrition.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la confessione non possa in alcun modo esentare dalla punizione. Poiché il peccato merita soltanto una punizione, sia essa eterna che temporale. Ora, la punizione eterna viene rimossa attraverso la contrizione, mentre quella temporale tramite la soddisfazione. Pertanto, nulla della punizione viene effettivamente rimesso attraverso la confessione.
+
+Obiezione 2: Inoltre, “la volontà viene considerata come l’atto stesso” [*Cfr. Can. Magna Pietas, De Poenit., Dist. i*], come affermato nel testo (Sententiae iv, D, 17). Chi è pentito ha infatti l’intenzione di confessare; pertanto la sua intenzione vale come se avesse già confessato, e quindi la confessione che egli compie in seguito non riduce affatto la pena da scontare.
+
+Al contrario, la Confessione è un atto punitivo. Ma tutti gli atti punitivi espiano la punizione dovuta al peccato; pertanto anche la Confessione lo fa.
+
+Rispondo che la Confessione, insieme all’assoluzione, ha il potere di liberare dall’espiazione, per due motivi. Primo: per il potere stesso dell’assoluzione; infatti, il solo desiderio di essere assolti libera l’uomo dalla punizione eterna e dal senso di colpa. Questa punizione consiste nella condanna e nell’esclusione totale dall’universo divino; tuttavia, anche quando un uomo viene liberato da essa, rimane soggetto a una punizione temporale, poiché la punizione rappresenta uno strumento di purificazione e perfezionamento. Questa punizione temporale deve essere scontata nel Purgatorio da coloro che sono stati liberati dalla pena infernale; essa è al di fuori delle possibilità di chi si trova in questo mondo, ma viene ridotta dal potere dell’assoluzione, rendendola accessibile attraverso il pentimento e la soddisfazione dei propri peccati in questa vita. In secondo luogo, la Confessione stessa riduce la punizione, in virtù della natura stessa del atto di confessare: tale atto comporta infatti l’umiliazione, e quindi più spesso si confessano gli stessi peccati, più la punizione viene attenuata.  
+Questo basta per rispondere alla prima obiezione.
+
+Risposta all’Obiezione 2: La volontà non viene considerata come l’atto stesso, quando quest’ultimo è compiuto da un altro, come nel caso del Battesimo: infatti, il semplice voler ricevere il Battesimo non ha lo stesso valore della sua effettiva ricezione. Tuttavia, la volontà di una persona viene considerata come l’atto stesso quando quest’ultimo è compiuto interamente da lei stessa. Ciò vale anche per la ricompensa essenziale, ma non per l’allontanamento delle punizioni e simili, che rientrano nella categoria delle ricompense accidentali e secondarie. Pertanto, colui che ha confessato i propri peccati e ricevuto l’assoluzione sarà punito meno nel Purgatorio di colui che si è limitato alla semplice contrizione.
+
 <span class="atom-split" data-atom="052" data-title="Whether confession opens paradise?" data-chapter="Whether confession opens paradise?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that confession does not open Paradise. For different sacraments
@@ -2284,6 +3113,20 @@ Reply to Objection 2: If the dying man was in mortal sin Paradise was closed to 
 he conceived the desire to confess his sin, although afterwards it was opened by contrition implying
 a desire for confession, even before he actually confessed. Nevertheless the obstacle of the debt of
 punishment was not entirely removed before confession and satisfaction.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la confessione non apra il Paradiso, poiché i diversi sacramenti hanno effetti diversi. Tuttavia, è l’effetto del Battesimo quello di aprire il Paradiso; pertanto, non può essere l’effetto della confessione.
+
+Obiezione 2: Inoltre, è impossibile entrare attraverso una porta chiusa prima che venga aperta. Ma un uomo morente può entrare in paradiso prima di fare la sua confessione. Pertanto, la confessione non apre il Paradiso.
+
+Al contrario, la Confessione fa sì che un uomo si sottometta alle “chiavi” della Chiesa; ma è proprio con quelle chiavi che il Paradiso viene aperto. Pertanto, il Paradiso si apre attraverso la Confessione.
+
+Rispondo che il peccato e il debito della punizione impediscono a un uomo di entrare in Paradiso; poiché la confessione elimina questi ostacoli, come dimostrato sopra (AA[1],2), si dice che essa apra la strada per il Paradiso.
+
+Risposta all’Obiezione 1: Sebbene il Battesimo e la Penitenza siano sacramenti diversi, agiscono entrambi in virtù della singola Passione di Cristo, che aprì la strada per il Paradiso.
+
+Risposta all’Obiezione 2: Se l’uomo morente si trovava in peccato mortale, il Paradiso gli era chiuso prima che concepisse il desiderio di confessare il proprio peccato; tuttavia, anche prima che effettivamente lo confessasse, il Paradiso fu aperto grazie al pentimento, che implicava tale desiderio. Nonostante ciò, l’ostacolo rappresentato dal debito di punizione non venne completamente eliminato fino alla confessione e alla soddisfazione del medesimo.
 
 <span class="atom-split" data-atom="053" data-title="Whether confession gives hope of salvation?" data-chapter="Whether confession gives hope of salvation?" data-kind="atom" data-srclang="en"></span>
 
@@ -2310,6 +3153,21 @@ hope of salvation, not only as a meritorious act, but also as part of a [sacrame
 Reply to Objection 2: Tribulation gives hope of salvation, by making us exercise our own
 virtue, and by paying off the debt of punishment: while confession does so also in the way mentioned
 above.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la speranza di salvezza non debba essere considerata un effetto della confessione.  
+Infatti, la speranza deriva da tutti gli atti meritevoli; pertanto, apparentemente, non costituisce l’effetto specifico della confessione.
+
+Obiezione 2: Inoltre, raggiungiamo la speranza attraverso le sofferenze, come si evince da Romani 5:3,4. L’uomo infatti subisce sofferenze principalmente a scopo di soddisfazione delle proprie colpe. Pertanto, è proprio la soddisfazione, e non la confessione, a fornire la speranza di salvezza.
+
+Al contrario, “la confessione rende l’uomo più umile e più cauto”, come afferma il Maestro nel testo (Sentenze iv, D, 17). Ma il risultato di ciò è che l’uomo concepisce la speranza di salvezza. Pertanto, è proprio l’effetto della confessione quello di donare la speranza di salvezza.
+
+Rispondo che non possiamo avere alcuna speranza di perdono per i nostri peccati se non attraverso Cristo; e poiché, con la confessione, l’uomo si sottomette alle autorità della Chiesa, le quali traggono il loro potere dalla Passione di Cristo, diciamo quindi che la confessione dona la speranza di salvezza.
+
+Risposta all’Obiezione 1: Non sono le nostre azioni, ma la grazia del nostro Redentore, la causa principale della speranza di salvezza; e poiché la confessione si basa sulla grazia del nostro Redentore, essa dona la speranza di salvezza non solo come atto meritevole, ma anche come parte di un [sacramento](/concepts/sacrament).
+
+Risposta all’Obiezione 2: La tribolazione dona la speranza di salvezza, poiché ci spinge ad esercitare le nostre virtù e a ripagare il debito della punizione; anche la confessione, nel modo già menzionato, svolge lo stesso ruolo.
 
 <span class="atom-split" data-atom="054" data-title="Whether a general confession suffices to blot out forgotten mortal sins?" data-chapter="Whether a general confession suffices to blot out forgotten mortal sins?" data-kind="atom" data-srclang="en"></span>
 
@@ -2378,6 +3236,28 @@ Now forgetfulness of an act of sin comes under the head of ignorance of fact, wh
 from the sin of insincerity in confession, which is an obstacle to the fruit of absolution and
 confession.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che una confessione generale non sia sufficiente per cancellare i peccati mortali dimenticati. Infatti, non c’è alcuna necessità di confessare nuovamente un peccato che è già stato cancellato attraverso la confessione. Pertanto, se i peccati dimenticati venissero perdonati tramite una confessione generale, non ci sarebbe bisogno di confessarli quando vengono ricordati.
+
+Obiezione 2: Inoltre, chi non è consapevole di aver commesso un peccato, o non è colpevole di alcun peccato, oppure ha dimenticato il proprio peccato. Pertanto, se i peccati mortali vengono perdonati attraverso una confessione generale, chiunque non sia consapevole di aver commesso un peccato mortale può essere certo di essere libero da tale peccato ogni volta che si confessa: il che è in contraddizione con quanto afferma l’Apostolo (1 Corinzi 4:4): “Non mi rendo conto di alcun peccato, ma ciò non significa che io sia giustificato”.
+
+Obiezione 3: Inoltre, nessuno trae vantaggio dall’ignoranza o dal trascurare qualcosa. Ora, un uomo non può dimenticare un peccato mortale senza trascurarlo, prima che questo venga perdonatogli. Pertanto, il suo comportamento negligente non gli è di alcun aiuto affinché il peccato venga perdonato senza che sia necessario menzionarlo esplicitamente durante la confessione.
+
+Obiezione 4: Inoltre, ciò di cui il pentito non sa nulla è ancora più lontano dalla sua conoscenza di ciò che ha dimenticato. Ora, una confessione generale non cancella i peccati commessi per ignoranza; altrimenti gli eretici, che non sono consapevoli del fatto che alcune delle loro azioni siano peccaminose, e certe persone semplici, verrebbero assolti attraverso una confessione generale, il che sarebbe errato. Pertanto, una confessione generale non elimina i peccati dimenticati.
+
+Al contrario, è scritto (Salmo 33:6): “Avvicinatevi a Lui e vi illuminerete; le vostre facce non saranno confuse”. Chi confessa tutti i peccati di cui è consapevole si avvicina a Dio nel modo migliore possibile; non si può chiedere di più da lui. Pertanto, non sarà umiliato o rifiutato, ma sarà perdonato. Inoltre, chi confessa viene perdonato, a condizione che non sia insincero. Chi confessa tutti i peccati di cui ricorda, non è insincero se ne dimentica alcuni, poiché questa dimenticanza deriva dall’ignoranza dei fatti, una circostanza che scusa dal peccato. Pertanto riceve il perdono, e anche i peccati che ha dimenticato vengono “sciolti” dalla sua responsabilità; infatti sarebbe malvagio sperare in un perdono parziale.
+
+Rispondo che la Confessione produce il suo effetto sulla premessa che esista contrizione, la quale cancella la colpa; pertanto, la Confessione è direttamente destinata alla remissione della punizione, che essa provoca grazie alla vergogna che comporta e al potere delle “chiavi” a cui l’uomo si sottomette confessandosi. Tuttavia, a volte, per effetto di una contrizione precedente, un peccato viene cancellato in termini di colpa, sia in modo generale (se non veniva ricordato al momento) che in modo specifico (eppure viene dimenticato prima della Confessione); in tali casi, la Confessione sacramentale produce comunque la remissione della punizione, grazie al potere delle “chiavi” a cui l’uomo si sottomette confessandosi, purché egli non ostacoli tale processo. Tuttavia, nella misura in cui la vergogna derivante dalla Confessione di un peccato ne riduce la punizione, quella del peccato che non viene confessato al prete non viene certo mitigata.
+
+Risposta all’Obiezione 1: Nella confessione sacramentale non è richiesta soltanto l’assoluzione, ma si attende anche il giudizio del sacerdote che impone la soddisfazione dei peccati. Pertanto, anche se quest’ultimo ha concesso l’assoluzione, il penitente è comunque obbligato a confessarsi nuovamente al fine di compiere ciò che mancava nella confessione sacramentale stessa.
+
+Risposta all’Obiezione 2: Come già detto, la confessione non produce il suo effetto se non si presuppone la contrizione; riguardo alla quale nessuno può sapere con certezza se si tratti di una vera contrizione, così come nessuno può essere certo di possedere la grazia divina. Di conseguenza, un uomo non può essere sicuro che un peccato dimenticato sia stato perdonato durante una confessione generale, anche se potrebbe ritenere di sì sulla base di alcuni segni congetturali.
+
+Risposta all’Obiezione 3: Lui non trae alcun vantaggio dalla propria negligenza, poiché non riceve quella piena indulgenza che altrimenti avrebbe ottenuto, né il suo merito è così grande. Inoltre, è obbligato a confessare il peccato non appena se ne ricorda.
+
+Risposta all’Obiezione 4: L’ignoranza della legge non scusa, poiché essa stessa rappresenta un peccato; ma l’ignoranza dei fatti scusa. Pertanto, se una persona omette di confessare un peccato perché non sa che si tratta di un peccato, a causa dell’ignoranza della [legge divina](/concepts/divine_law), non è scusata per la sua insincerità. D’altra parte, sarebbe scusata se non lo sapesse considerandolo un peccato, a causa di una mancanza di conoscenza riguardo a determinate circostanze; ad esempio, se conoscesse la moglie di un altro e la considerasse propria. Ora, l’oblio di un atto peccaminoso rientra nella categoria dell’ignoranza dei fatti, e quindi scusa dalla colpa di insincerità nella confessione, che rappresenta un ostacolo al frutto dell’assoluzione e della confessione stessa.
+
 <span class="atom-split" data-atom="055" data-title="OF THE SEAL OF CONFESSION (FIVE ARTICLES)" data-chapter="OF THE SEAL OF CONFESSION (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now inquire about the seal of confession, about which there are five points of inquiry:
@@ -2388,6 +3268,15 @@ confession?
 (4) Whether, by permission of the penitent, the priest can make known to another, a sin of his
 which he knew under the seal of confession?
 (5) Whether he is bound to hide even what he knows through other sources besides?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora indagare sul “sigillo della confessione”, riguardo al quale esistono cinque punti da esaminare:  
+(1) Se, in ogni caso, un uomo sia obbligato a nascondere ciò che sa sotto il sigillo della confessione;  
+(2) Se il sigillo della confessione si estenda anche ad altre questioni oltre a quelle relative alla confessione stessa;  
+(3) Se solo il sacerdote sia vincolato dal sigillo della confessione;  
+(4) Se, con il permesso del penitente, il sacerdote possa rivelare a terzi un peccato di cui è a conoscenza sotto il sigillo della confessione;  
+(5) Se sia obbligato a nascondere anche ciò che sa attraverso altre fonti, oltre a quelle legate alla confessione.
 
 <span class="atom-split" data-atom="056" data-title="Whether in every case the priest is bound to hide the sins which he knows under the seal of confession?" data-chapter="Whether in every case the priest is bound to hide the sins which he knows under the seal of confession?" data-kind="atom" data-srclang="en"></span>
 
@@ -2475,6 +3364,28 @@ Reply to Objection 4: A man is rendered unworthy of ecclesiastical preferment, b
 causes besides sin, for instance, by lack of knowledge, age, or the like: so that by raising an objection
 one does not raise a suspicion of crime or divulge the secret of confession.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il sacerdote non sia obbligato, in ogni caso, a nascondere i peccati di cui è a conoscenza attraverso la confessione. Infatti, come afferma Bernardo nel “De Proecep. et Dispens.” ii, “ciò che è istituito a scopo di carità non deve mai andare contro lo spirito della carità”. Ora, il segreto della confessione potrebbe andare contro lo spirito della carità in alcuni casi: ad esempio, se un uomo venisse a sapere attraverso la confessione che una determinata persona è un eretico e non riuscisse a convincerla a smettere di ingannare le persone; oppure, allo stesso modo, se venisse a sapere che alcune persone desiderose di sposarsi sono imparentate tra loro. Pertanto, in tali casi, tali informazioni dovrebbero essere rivelate.
+
+Obiezione 2: Inoltre, ciò che è obbligatorio esclusivamente in base a un precetto della Chiesa non deve essere osservato se il comando stesso venisse modificato nel senso opposto. Ora, il segreto della confessione è stato introdotto esclusivamente su ordine della Chiesa. Pertanto, se la Chiesa prescrivesse che chiunque sappia qualcosa riguardo a un certo peccato debba rivelarlo, una persona che possedesse tale informazione attraverso la confessione sarebbe obbligata a parlarne.
+
+Obiezione 3: Inoltre, un uomo è tenuto a proteggere la propria coscienza piuttosto che la buona reputazione altrui, poiché nella carità esiste un ordine preciso. Tuttavia, a volte accade che nascondendo un peccato un uomo danneggi la propria stessa coscienza: ad esempio, se viene chiamato a testimoniare su un peccato di cui è a conoscenza attraverso la confessione e viene costretto a giurare di dire la verità; oppure quando un abate scopre, tramite la confessione, il peccato di un priore sottoposto a lui, un peccato che potrebbe causare la rovina di quest’ultimo se gli venisse permesso di mantenere la sua carica. In tali casi, l’abate è quindi tenuto a privarlo della dignità della sua funzione pastorale; tuttavia, compiere tale atto potrebbe comportare la divulgazione del segreto della confessione. Pertanto, sembra che in alcune circostanze sia legittimo rivelare i contenuti di una confessione.
+
+Obiezione 4: Inoltre, è possibile che un sacerdote, ascoltando la confessione di una persona, si renda conto che quest’ultima non sia degna di favori ecclesiastici. Ora, tutti sono tenuti a impedire la promozione delle persone indegne, se spetta a loro farlo. Pertanto, sollevando un’obiezione, sembra che si possa insinuare l’esistenza di un peccato, e quindi rivelare in parte i contenuti della confessione; pare quindi necessario, a volte, divulgare tali informazioni.
+
+Al contrario, il Decretale afferma (De Poenit. et Remiss., Cap. Omnis utriusque): “Che il sacerdote stia attento a non tradire il peccatore, né con parole, né con segni, né in alcun altro modo”. Inoltre, il sacerdote deve conformarsi a Dio, di cui è ministro; ma Dio non rivela i peccati che gli vengono rivelati durante la confessione, bensì li nasconde. Pertanto, nemmeno il sacerdote dovrebbe rivelarli.
+
+Rispondo che quelle cose che avvengono esteriormente nei sacramenti sono i segni di ciò che accade interiormente: pertanto la confessione, con cui un uomo si sottomette a un sacerdote, è un segno della sottomissione interiore, attraverso la quale si sottomette a Dio. Ora, Dio nasconde i peccati di coloro che Si sottomettono a Lui attraverso la penitenza; perciò anche questo dovrebbe essere simboleggiato nel sacramento della penitenza, e di conseguenza il sacramento richiede che la confessione rimanga segreta; colui che rivela i peccati commessi in confessione pecca, violando il significato stesso del sacramento. Oltre a ciò, questa segretezza presenta altri vantaggi: infatti, permette alle persone di essere maggiormente spinte a confessare i propri peccati e di farlo con maggiore semplicità.
+
+Risposta all’Obiezione 1: Alcuni sostengono che il sacerdote non sia obbligato dal segreto della confessione a nascondere altri peccati, diversi da quelli per i quali il penitente promette di correggersi; altrimenti potrebbe rivelarli a qualcuno che possa essere d’aiuto e non un ostacolo. Tuttavia questa opinione sembra errata, poiché è contraria alla verità del sacramento stesso. Proprio come il battesimo rimane un sacramento anche quando la persona battezzata non è sincera, e le sue essenze non vengono modificate per questo motivo, così anche la confessione continua ad essere un sacramento, anche se colui che si confessa non intende realmente correggersi. Pertanto, nonostante ciò, il segreto della confessione deve essere mantenuto; inoltre, tale segreto non contrasta con l’amore cristiano, poiché quest’ultimo non richiede che una persona cerchi rimedi per un peccato di cui non è a conoscenza. Ciò che viene rivelato nella confessione, in qualche modo, diventa “sconosciuto”, poiché la persona lo conosce non come uomo, ma come Dio lo conosce. Tuttavia, nei casi menzionati si dovrebbe cercare di intervenire in qualche modo, purché ciò sia possibile senza rivelare i dettagli della confessione: ad esempio, ammonendo il penitente o vegliando affinché gli altri non vengano corrotti dall’eresia. Si può anche chiedere al prelato di prendersi cura con grande attenzione del proprio gregge, senza mai tradire il segreto della confessione con parole o gesti.
+
+Risposta all’Obiezione 2: Il precetto relativo al segreto della confessione deriva direttamente dal sacramento stesso. Pertanto, proprio come l’obbligo di confessarsi sacramentalmente è imposto dalla legge divina, e quindi nessuna disposizione o ordine umano può esonerarne qualcuno, allo stesso modo nessun uomo può essere costretto o autorizzato da un altro a rivelare il segreto della confessione. Di conseguenza, se gli venisse ordinato di rivelare, sotto pena di scomunica, se sapesse qualcosa riguardo a un certo peccato, non dovrebbe farlo, poiché dovrebbe presumere che l’intenzione di chi gli impartisce tale ordine sia quella che egli dica ciò che sa in quanto essere umano. E anche se venisse interrogato esplicitamente sulla confessione fatta, non dovrebbe dire nulla; inoltre, non incorrerebbe nella scomunica, poiché non è soggetto al proprio superiore se non in quanto essere umano, e lui conosce questa verità non come essere umano, ma come Dio la conosce.
+
+Risposta all’Obiezione 3: Un uomo non è chiamato a testimoniare se non nella veste di uomo; pertanto, senza offendere la propria coscienza, può giurare di non sapere ciò che conosce soltanto come Dio lo conosce. Allo stesso modo, un superiore può, senza offendere la propria coscienza, lasciare impunito un peccato che conosce soltanto come Dio lo conosce, oppure può astenersi dal prendere alcuna misura, poiché non è obbligato a farlo se questa non risulta dalla sua conoscenza. Pertanto, riguardo alle questioni di cui ha conoscenza presso il tribunale della Penitenza, dovrebbe adottare le necessarie misure nel medesimo ambito giudiziario. Nel caso specifico, l’abate dovrebbe consigliare al priore di dimettersi dall’incarico; se quest’ultimo rifiuta, può assolverlo dal ruolo di priore in un’altra occasione, evitando però qualsiasi sospetto riguardo alla divulgazione delle confessioni ricevute.
+
+Risposta all’Obiezione 4: Un uomo può essere ritenuto indegno di favori ecclesiastici per molte altre ragioni, oltre al peccato; ad esempio, per mancanza di conoscenza, età o simili motivi. Pertanto, sollevare un’obiezione non significa insinuare la presenza di un crimine né rivelare i segreti confessati.
+
 <span class="atom-split" data-atom="057" data-title="Whether the seal of confession extends to other matters than those which have reference to confession?" data-chapter="Whether the seal of confession extends to other matters than those which have reference to confession?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the seal of confession extends to other matters besides those
@@ -2502,6 +3413,19 @@ This suffices for the Reply to the First Objection.
 Reply to Objection 2: A confidence ought not easily to be accepted in this way: but if it be
 done the secret must be kept in the way promised, as though one had the secret through confession,
 though not through the seal of confession.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il sigillo della confessione si estenda anche ad altre questioni oltre a quelle relative alla stessa confessione. Infatti, soltanto i peccati sono oggetto di confessione; tuttavia, a volte vengono rivelate al sacerdote informazioni che non hanno alcuna relazione con la confessione dei peccati. Pertanto, poiché tali informazioni vengono comunicate al sacerdote, come se fossero rivolte direttamente a Dio, sembra che anche esse siano coperte dal sigillo della confessione.
+
+Obiezione 2: Inoltre, a volte una persona rivela un segreto a un’altra, e quest’ultima lo riceve sotto il sigillo della confidenza. Pertanto, il sigillo della confidenza si estende anche a questioni che non hanno alcuna relazione con la confessione stessa.
+
+Al contrario, il sigillo della confessione è legato alla confessione sacramentale. Tuttavia, ciò che è connesso a un [sacramento](/concepts/sacrament) non va oltre i limiti di tale sacramento. Pertanto, il sigillo della confessione non si estende ad argomenti diversi da quelli relativi alla confessione sacramentale stessa.
+
+Rispondo che il sigillo della confessione non si estende direttamente ad altre questioni diverse da quelle relative alla confessione sacramentale; tuttavia, in modo indiretto, anche questioni non collegate alla confessione sacramentale ne sono influenzate, ad esempio quelle che potrebbero portare alla scoperta di un peccatore o del suo peccato. Nonostante ciò, tali questioni devono essere nascoste con la massima cura, sia per evitare scandali, sia per impedire che altre persone cadano in peccato a causa della loro conoscenza di esse.  
+Ciò basta come risposta alla Prima Obiezione.
+
+Risposta all’Obiezione 2: Una tale fiducia non dovrebbe essere accettata facilmente; tuttavia, se viene accordata, il segreto deve essere mantenuto nel modo promesso, come se si possedesse quel segreto attraverso la confessione, anche se non tramite il sigillo della confessione stessa.
 
 <span class="atom-split" data-atom="058" data-title="Whether the priest alone is bound by the seal of confession?" data-chapter="Whether the priest alone is bound by the seal of confession?" data-kind="atom" data-srclang="en"></span>
 
@@ -2531,6 +3455,18 @@ the keys, when he hears a confession in a case of urgency, so also does he have 
 the act of the seal of confession, and is bound to secrecy, though, properly speaking, he is not bound
 by the seal of confession.
 This suffices for the Replies to the Objections.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non solo il sacerdote sia vincolato dal segreto della confessione. Infatti, a volte un sacerdote ascolta una confessione tramite un interprete, qualora ci sia una ragione urgente per farlo. Ma sembra anche che l’interprete sia tenuto al rispetto del segreto della confessione. Pertanto, chi non è sacerdote potrebbe venire a conoscenza di informazioni contenute nel segreto della confessione.
+
+Obiezione 2: Inoltre, talvolta, in casi di urgenza, è possibile che un laico ascolti una confessione. Tuttavia, egli è tenuto al segreto riguardo a quei peccati, poiché gli vengono rivelati come se fossero rivolti direttamente a Dio. Pertanto, non solo il sacerdote è vincolato dal segreto della confessione.
+
+Obiezione 3: Inoltre, può accadere che una persona si finga sacerdote al fine di conoscere ciò che è contenuto nella coscienza altrui; sembrerebbe quindi che anche lui peccasse se rivelasse i segreti confessati. Pertanto, non solo il sacerdote è vincolato dal segreto della confessione.
+
+Al contrario, solo il sacerdote è il ministro di questo [sacramento](/concepts/sacrament). Tuttavia, il segreto della confessione è strettamente legato a questo sacramento; pertanto, solo il sacerdote è vincolato dal dovere del segreto. Inoltre, la ragione per cui una persona è obbligata a mantenere segrete le informazioni ricevute durante la confessione è che le conosce non come un uomo, ma come Dio le conosce. Ma solo il sacerdote è il ministro di Dio; quindi, solo lui è tenuto al rispetto del segreto.
+
+Rispondo che il sigillo della confessione riguarda il sacerdote nel suo ruolo di ministro di questo sacramento: tale sigillo non è altro che l’obbligo di mantenere segreta la confessione ricevuta, proprio come la “chiave” rappresenta il potere di assolvere. Tuttavia, una persona che non sia sacerdote può, in casi particolari e urgenti, partecipare in qualche modo all’atto della confessione stessa; pertanto è anch’essa tenuta al segreto, sebbene, in senso stretto, non sia vincolata dal sigillo della confessione stesso. Ciò basta per rispondere alle obiezioni sollevate.
 
 <span class="atom-split" data-atom="059" data-title="Whether by the penitent's permission, a priest may reveal to another a sin which he knows under the seal of confession?" data-chapter="Whether by the penitent's permission, a priest may reveal to another a sin which he knows under the seal of confession?" data-kind="atom" data-srclang="en"></span>
 
@@ -2580,6 +3516,28 @@ be accused of the contrary.
 Reply to Objection 4: He that is informed of a sin through the priest with the penitent's consent,
 shares in an act of the priest's, so that the same applies to him as to an interpreter, unless perchance
 the penitent wish him to know it unconditionally and freely.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un sacerdote non possa, con il permesso del penitente, rivelare a terzi un peccato di cui è a conoscenza attraverso la confessione. Infatti, ciò che un inferiore non può fare, nessun superiore può farlo; poiché il Papa stesso non può autorizzare alcuno a divulgare un peccato appreso tramite la confessione, ne consegue che nemmeno il penitente possa concedergli tale permesso.
+
+Obiezione 2: Inoltre, ciò che viene istituito per il bene comune della Chiesa non può essere modificato a piacimento di un individuo. Ora, la segretezza della confessione è stata introdotta per il bene di tutta la Chiesa, affinché le persone potessero nutrire maggiore fiducia nell’avvicinarsi al confessionale. Pertanto, il penitente non può permettere al sacerdote di divulgare i contenuti della sua confessione.
+
+Obiezione 3: Inoltre, se il sacerdote potesse concedere tale permesso, ciò sembrerebbe attenuare la malvagità dei cattivi sacerdoti, poiché questi potrebbero fingere di aver ricevuto il permesso e quindi peccare impunemente, il che sarebbe inappropriato. Pertanto, sembra che il penitente non possa concedere tale permesso.
+
+Obiezione 4: Inoltre, colui a cui viene rivelato questo peccato non sa che tale peccato, essendo stato sigillato durante la confessione, non può essere reso noto pubblicamente; farlo sarebbe indecoroso. Pertanto, questa autorizzazione non può essere concessa.
+
+Al contrario, se il peccatore consente, un superiore può inviarlo per lettera a un sacerdote inferiore. Pertanto, con il consenso del penitente, il sacerdote può rivelare il suo peccato a un altro. Inoltre, chiunque possa compiere qualcosa per proprio potere, può farlo anche attraverso un altro; ma il penitente, avendo il potere di rivelare il proprio peccato, può farlo anche tramite il sacerdote.
+
+Rispondo che ci sono due motivi per cui il sacerdote è tenuto a mantenere un peccato segreto: in primo luogo, perché proprio questo segreto è essenziale per il [sacramento](/concepts/sacrament), poiché il sacerdote conosce quel peccato così come Dio lo conosce, essendo lui colui che riceve la confessione; in secondo luogo, al fine di evitare scandali. Il penitente può infatti rivelare al sacerdote ciò che prima conosceva soltanto Dio, e lo fa quando consente al sacerdote di divulgarlo; pertanto, anche se il sacerdote lo rivela, non rompe il sigillo della confessione. Tuttavia, dovrebbe fare attenzione a non causare scandali con la rivelazione del peccato, affinché non venga considerato colpevole di aver violato tale segreto.
+
+Risposta all’Obiezione 1: Il Papa non può permettere a un sacerdote di rivelare un peccato, poiché non può far sì che quest’ultimo lo conosca in quanto uomo, mentre colui che l’ha confessato sì può.
+
+Risposta all’Obiezione 2: Quando viene rivelato ciò che era già conosciuto attraverso un’altra fonte, ciò che è stato istituito per il bene comune non viene annullato, poiché il sigillo della confessione non viene violato.
+
+Risposta all’Obiezione 3: Ciò non conferisce impunità ai sacerdoti malvagi, poiché rischiano di dover dimostrare di aver ottenuto il permesso del penitente per rivelare il peccato, qualora vengano accusati del contrario.
+
+Risposta all’Obiezione 4: Chi viene informato di un peccato tramite il sacerdote, con il consenso del pentito, partecipa attivamente all’atto compiuto dal sacerdote; pertanto ciò che vale per quest’ultimo vale anche per lui, come se fosse un semplice interprete, a meno che il pentito non desideri che tale informazione venga conosciuta da lui in modo incondizionato e libero.
 
 <span class="atom-split" data-atom="060" data-title="Whether a man may reveal that which he knows through confession and through some other source besides?" data-chapter="Whether a man may reveal that which he knows through confession and through some other source besides?" data-kind="atom" data-srclang="en"></span>
 
@@ -2650,6 +3608,28 @@ a man should not be deterred by the fear of giving scandal, from divulging what 
 confession, provided he knows it from some other source: although he ought to avoid giving scandal,
 as far as he is able.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un uomo non possa rivelare ciò che sa attraverso la confessione o attraverso altre fonti. Infatti, il sigillo della confessione non viene violato se non si rivela un peccato conosciuto tramite essa. Pertanto, se un uomo divulga un peccato che conosce attraverso la confessione, indipendentemente da come lo conosca in altro modo, sembra che venga infranto tale sigillo.
+
+Obiezione 2: Inoltre, chiunque ascolti la confessione di qualcuno ha l’obbligo di non rivelare i suoi peccati. Ora, se qualcuno promettesse a qualcun altro di mantenere un segreto, sarebbe tenuto a farlo, anche se lo sapesse attraverso altre fonti. Pertanto, una persona è obbligata a mantenere segreto ciò che ha appreso attraverso la confessione, indipendentemente dal modo in cui ne sia venuta a conoscenza.
+
+Obiezione 3: Inoltre, ciò che è più potente tra due cose attira l’altro verso di sé. Ora, la conoscenza grazie alla quale un uomo comprende un peccato così come Dio lo conosce, è più potente e superiore rispetto alla conoscenza grazie alla quale lo comprende in termini umani. Pertanto, questa conoscenza “attira” quella umana verso di sé; di conseguenza, un uomo non può rivelare quel peccato, poiché ciò sarebbe richiesto dal suo modo di comprenderlo così come Dio lo conosce.
+
+Obiezione 4: Inoltre, il segreto della confesione fu istituito per evitare lo scandalo e per impedire alle persone di vergognarsi di andare in confessione. Ma se una persona potesse rivelare ciò che ha sentito durante la confesione, anche se sapesse la verità diversa, lo scandalo si verificherebbe comunque. Pertanto, essa non può assolutamente rivelare ciò che ha ascoltato.
+
+Al contrario, nessuno può imporre ad un altro una nuova obbligazione, se non è il suo superiore, che può legarlo con un precetto. Chi viene a conoscenza di un peccato attraverso la testimonianza al riguardo non è tenuto a mantenerlo segreto; pertanto, colui che confessa tale peccato a una persona che non è il proprio superiore non può imporre a quest’ultima l’obbligo del silenzio. Inoltre, la giustizia della Chiesa verrebbe ostacolata se un uomo, al fine di evitare una sentenza di scomunica derivante da un peccato di cui è stato condannato, confessasse tale peccato alla persona incaricata di emettere la sentenza. Poiché l’esercizio della giustizia rientra tra i precetti imposti dalla Chiesa, un uomo non è tenuto a mantenere segreto un peccato che ha appreso durante una confessione, ma che conosce anche da altre fonti.
+
+Rispondo che esistono tre opinioni su questa questione. Alcuni affermano che un uomo non possa assolutamente rivelare a un altro ciò che ha appreso durante una confessione, nemmeno se lo sapesse da altre fonti prima o dopo la stessa; altri sostengono invece che la confessione gli impedisca di parlare di ciò che già sapeva, ma non di ciò che ha appreso in seguito e in modo diverso. Tuttavia entrambe queste opinioni, esagerando il carattere sacro della confessione, sono dannose sia alla verità che alla tutela della giustizia. Un uomo potrebbe infatti essere più propenso a peccare se non temesse di essere accusato dal proprio confessore, nel caso ripetesse il peccato davanti a lui; inoltre, sarebbe estremamente dannoso per la giustizia se un uomo non potesse testimoniare su un atto che ha visto commettere dopo che ne era stato informato durante una confessione. Non importa nemmeno ciò che alcuni dicono, ovvero che dovrebbe dichiarare di non essere in grado di mantenere il segreto: infatti non può fare tale dichiarazione se il peccato non è ancora stato confessato; e in tal caso, qualsiasi sacerdote potrebbe, se lo desiderasse, rivelare quel peccato facendo una simile dichiarazione, anche se ciò lo rendesse libero di farlo. Pertanto esiste una terza e più corretta opinione: ciò che un uomo sa da altre fonti prima o dopo la confessione non è obbligato a mantenerlo segreto, nella misura in cui lo sa come un essere umano; può infatti dire: “So questo perché l’ho visto”. Tuttavia deve mantenere il segreto nella misura in cui lo sa come Dio lo sa; non può quindi dire: “Ho sentito queste cose durante una confessione”. Ciononostante, per evitare scandali, dovrebbe astenersi dal parlarne a meno che non ci sia una ragione urgente.
+
+Risposta all’Obiezione 1: Se un uomo afferma di aver visto ciò che ha sentito durante la confessione, non rivela direttamente quanto ascoltato in quella sede, ma solo in modo indiretto; proprio come chi conosce qualcosa attraverso l’ascolto o la visione non rivela, in senso stretto, ciò che ha visto, se dice di averlo sentito, ma soltanto in modo indiretto, poiché afferma di aver udito ciò che incidentalmente ha visto. Pertanto, non viene violato il segreto della confessione.
+
+Risposta all’Obiezione 2: Al confessore non è vietato rivelare un peccato in sé stesso, ma solo nel modo in cui è stato raccontato durante la confessione; infatti, in nessun caso gli è permesso affermare di averlo udito durante il colloquio confidenziale.
+
+Risposta all’Obiezione 3: Ciò vale per le cose che sono in opposizione tra loro; mentre comprendere un peccato come Dio lo comprende e come l’uomo lo comprende non rappresentano affatto un’opposizione reciproca; pertanto, questo argomento non dimostra nulla.
+
+Risposta all’Obiezione 4: Non sarebbe giusto evitare lo scandalo al fine di tradire la giustizia; infatti, la verità non dovrebbe essere negata per paura dello scandalo. Pertanto, quando giustizia e verità sono in bilico, un uomo non dovrebbe lasciarsi dissuadere dalla paura di causare uno scandalo dal rivelare ciò che ha appreso durante una confessione, a condizione che ne sia a conoscenza attraverso altre fonti; tuttavia, dovrebbe comunque cercare di evitare lo scandalo, nella misura del possibile.
+
 <span class="atom-split" data-atom="061" data-title="OF SATISFACTION, AS TO ITS NATURE (THREE ARTICLES)" data-chapter="OF SATISFACTION, AS TO ITS NATURE (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider satisfaction; about which four things have to be considered: (1) Its
@@ -2658,6 +3638,14 @@ Under the first head there are three points of inquiry:
 (1) Whether satisfaction is a virtue or an act of virtue?
 (2) Whether it is an act of justice?
 (3) Whether the definition of satisfaction contained in the text is suitable?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la soddisfazione; al riguardo, sono necessarie quattro analisi: (1) La sua natura; (2) La sua possibilità; (3) La sua qualità; (4) I mezzi con cui l’uomo può offrire soddisfazione a Dio.  
+All’interno della prima categoria di analisi vi sono tre punti da esaminare:  
+(1) Se la soddisfazione sia una virtù o un atto di virtù;  
+(2) Se sia un atto di giustizia;  
+(3) Se la definizione di soddisfazione contenuta nel testo sia appropriata.
 
 <span class="atom-split" data-atom="062" data-title="Whether satisfaction is a virtue or an act of virtue?" data-chapter="Whether satisfaction is a virtue or an act of virtue?" data-kind="atom" data-srclang="en"></span>
 
@@ -2708,6 +3696,24 @@ its determination. Now the interior act, in certain virtues, is determined by so
 choice, which is common to all virtues, becomes proper to such and such a virtue through being
 directed to such and such an act. Thus it is that external acts hold the chief place in certain virtues;
 and this is the case with satisfaction.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la soddisfazione non sia né una virtù né un atto di virtù. Infatti, ogni atto di virtù è meritevole; mentre la soddisfazione, apparentemente, non lo è, poiché il merito è gratuito, mentre la soddisfazione rappresenta il pagamento di un debito. Pertanto, la soddisfazione non è un atto di virtù.
+
+Obiezione 2: Inoltre, ogni atto di virtù è volontario. Tuttavia, a volte una persona deve compiere un atto di soddisfazione contro la propria volontà, come quando viene punita dal giudice per un reato commesso contro un’altra persona. Pertanto, l’atto di soddisfazione non può essere considerato un atto di virtù.
+
+Obiezione 3: Inoltre, secondo il Filosofo (Etica, VIII, 13): “La scelta occupa un posto centrale nella virtù morale”. Tuttavia, la soddisfazione non è un atto di scelta, ma riguarda principalmente azioni esterne. Pertanto, non costituisce un atto di virtù.
+
+Al contrario, la soddisfazione appartiene alla penitenza; e poiché la penitenza è una virtù, anche la soddisfazione è un atto di virtù. Inoltre, solo un atto di virtù ha il potere di cancellare il peccato, poiché ciò che è contrario al peccato viene distrutto da esso stesso; e poiché la soddisfazione distrugge completamente il peccato, essa è certamente un atto di virtù.
+
+Rispondo che un atto viene considerato un atto di virtù in due modi. Primo, in senso materiale: qualsiasi atto che non comporti malizia né difetti nelle circostanze appropriate può essere definito un atto di virtù, poiché la virtù può utilizzare qualsiasi tale atto per raggiungere i propri scopi – ad esempio camminare, parlare, e così via. Secondo, un atto appartiene formalmente a una virtù quando il suo stesso nome indica chiaramente la sua natura e le sue caratteristiche; quindi soffrire con coraggio è un atto di coraggio. Ora, l’elemento formale presente in ogni virtù morale è il rispetto di un “mezzo” appropriato; pertanto, qualsiasi atto che comporti il rispetto di tale mezzo è formalmente un atto di virtù. E poiché l’equità rappresenta proprio quel mezzo implicito nel concetto di “soddisfazione” (poiché si dice che qualcosa sia soddisfatto quando esiste una proporzione equilibrata tra le parti coinvolte), è evidente che anche la soddisfazione sia formalmente un atto di virtù.
+
+Risposta all’Obiezione 1: Sebbene il compiere un atto di soddisfazione sia in sé dovuto, tuttavia, nella misura in cui tale atto viene compiuto volontariamente da colui che lo effettua, diventa qualcosa di gratuito da parte del soggetto, il quale trasforma così una necessità in una virtù. Poiché il debito riduce il merito, essendo qualcosa di inevitabile e quindi contrario alla volontà, se la volontà consente a questa necessità, l’elemento di merito non viene comunque perso.
+
+Risposta all’Obiezione 2: Un atto di virtù richiede volontarietà non nel soggetto che subisce l’azione ma nell’agente, poiché si tratta del suo atto stesso. Pertanto, poiché colui su cui il giudice esercita la vendetta è il soggetto che subisce l’azione e non l’agente, ne consegue che la soddisfazione delle rivendicazioni debba essere volontaria non da parte di lui ma del giudice in qualità di agente.
+
+Risposta all’Obiezione 3: L’elemento principale della virtù può essere inteso in due modi. In primo luogo, come l’elemento fondamentale della virtù stessa; in questo senso, l’elemento principale della virtù indica ciò che appartiene per natura alla virtù o le è più strettamente legato; pertanto, la scelta e altri atti interiori occupano un ruolo centrale nella virtù. In secondo luogo, l’elemento principale della virtù può essere inteso come ciò che occupa il primo posto in una determinata virtù; in questo caso, il primo posto spetta a ciò che ne determina la natura specifica. Ora, nell’ambito di alcune virtù, l’atto interno è determinato da un atto esterno: la scelta, infatti, comune a tutte le virtù, diventa specifica di una certa virtù quando è direzionata verso un certo atto concreto. È proprio per questo che gli atti esterni occupano un ruolo fondamentale in alcune virtù; ed è ciò che accade, ad esempio, nella soddisfazione.
 
 <span class="atom-split" data-atom="063" data-title="Whether satisfaction is an act of justice?" data-chapter="Whether satisfaction is an act of justice?" data-kind="atom" data-srclang="en"></span>
 
@@ -2771,6 +3777,24 @@ satisfaction removes the causes of other sins.
 Reply to Objection 3: Each moral virtue shares in the act of prudence, because this virtue
 completes in it the conditions essential to virtue, since each moral virtue takes its mean according
 to the ruling of prudence, as is evident from the definition of virtue given in Ethic. ii, 6.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la soddisfazione non sia un atto di giustizia. Poiché lo scopo della soddisfazione è quello di permettere a una persona di riconciliarsi con colui che l’ha offesa, e poiché la riconciliazione, essendo un atto d’amore, appartiene alla carità, ne consegue che la soddisfazione sia un atto di carità e non di giustizia.
+
+Obiezione 2: Inoltre, le cause del peccato in noi sono le passioni dell’anima, che ci spingono verso il male. Ma la giustizia, secondo il Filosofo (Etica v, 2,3), non riguarda le passioni, bensì le azioni umane. Poiché quindi la soddisfazione delle cause del peccato ha lo scopo di eliminarle, come affermato nel testo (Sentenze iv, D, 15), sembra che essa non costituisca un atto di giustizia.
+
+Obiezione 3: Inoltre, prendersi cura del futuro non è un atto di giustizia, ma di prudenza, della quale la cautela rappresenta una componente essenziale. Tuttavia, la prudenza rientra nella categoria delle azioni volte a “non lasciare spazio alle tentazioni del peccato” (*Cfr. XP/Q[12]/A[3]/OBJ[1]). Pertanto, la prudenza non è un atto di giustizia.
+
+Al contrario, solo la giustizia considera il concetto di ciò che è dovuto; inoltre, la soddisfazione rende onore a Dio, come afferma Anselmo nel “Cur Deus Homo”. Pertanto, la soddisfazione è un atto di giustizia. Inoltre, nessuna altra virtù se non la giustizia stabilisce l’uguaglianza tra le cose esterne; ciò avviene attraverso la soddisfazione, che crea equità tra il rimedio apportato e il reato commesso in precedenza. Quindi, ancora una volta, la soddisfazione è un atto di giustizia.
+
+Rispondo che, secondo il Filosofo (Etica v, 3,4), il mezzo della giustizia viene considerato in relazione all’equilibrio tra cose, secondo una determinata proporzione. Poiché il nome stesso di “soddisfazione” implica proprio questo tipo di equilibrio – essendo l’avverbio “abbastanza” un segno di uguaglianza proporzionale – è evidente che la soddisfazione sia, in senso formale, un atto di giustizia. L’atto di giustizia, secondo il Filosofo (Etica v, 2,4), può essere compiuto da una persona verso un’altra, come quando uno paga ciò che deve a un altro; oppure può avvenire tra due persone, come quando un giudice applica la giustizia tra di loro. Quando si tratta di un atto di giustizia tra due individui, l’equilibrio viene realizzato nel soggetto che agisce; mentre quando riguarda una situazione tra tre persone, l’equilibrio viene ripristinato nel soggetto che ha subito un torto. Poiché la soddisfazione esprime proprio questo equilibrio nel soggetto che agisce, essa indica, in senso stretto, un atto di giustizia da parte di una persona verso un’altra. Una persona può compiere atti di giustizia sia attraverso azioni o emozioni, sia riguardo a cose esterne; allo stesso modo, può commettere atti ingiusti, sia togliendo qualcosa a qualcuno, sia agendo in modo dannoso. Poiché “dare” significa utilizzare una cosa esterna, l’atto di giustizia, nella misura in cui stabilisce un equilibrio tra cose esterne, indica propriamente un atto di restituzione; mentre la soddisfazione si riferisce chiaramente all’equilibrio tra azioni, anche se a volte una cosa viene utilizzata al posto dell’altra. L’equilibratura riguarda soltanto cose che inizialmente non erano uguali; pertanto la soddisfazione presuppone un’ineguaglianza tra azioni, e questa ineguaglianza costituisce un torto; quindi la soddisfazione si riferisce a un torto commesso in precedenza. Tuttavia, nessuna parte della giustizia riguarda direttamente un torto precedente, tranne la giustizia vendicativa, che stabilisce l’equilibrio indipendentemente dal fatto che il soggetto colpito sia lo stesso dell’autore del torto – come quando una persona si punisce da sola – o che siano persone diverse, come quando un giudice punisce un altro. Lo stesso vale per la penitenza, che riguarda soltanto il soggetto che compie l’atto di penitenza; poiché è il pentito a osservare le regole della penitenza, essa rappresenta in qualche modo una forma di giustizia vendicativa. Questo dimostra che la soddisfazione, che implica un equilibrio nel soggetto che agisce riguardo a un torto precedente, è senz’altro un atto di giustizia, almeno per quella parte che viene definita penitenza.
+
+Risposta all’Obiezione 1: La soddisfazione, come emerge da quanto detto, rappresenta una compensazione per il danno arrecato. Poiché il danno stesso comporta un’ineguaglianza nella giustizia e, di conseguenza, un’ineguaglianza contraria alla [amicizia](/concepts/friendship), la soddisfazione restituisce direttamente l’equità nella giustizia e, di conseguenza, anche l’equità nell’amicizia. Inoltre, poiché un atto è motivato dalla [abitudine](/concepts/custom) verso cui è immediatamente diretto, ma viene comandato da quella abitudine verso cui è finalmente indirizzato, ne consegue che la soddisfazione è ispirata dalla giustizia, ma viene ordinata dalla carità.
+
+Risposta all’Obiezione 2: Sebbene la giustizia riguardi principalmente le azioni umane, essa riguarda anche le passioni, nella misura in cui queste ne sono le cause. Così come la giustizia reprime l’[ira](/concepts/anger) per evitare che si infliggano danni ingiusti agli altri, e reprime la concupiscenza affinché non violi il diritto coniugale altrui, allo stesso modo la soddisfazione elimina le cause di altri peccati.
+
+Risposta all’Obiezione 3: Ogni virtù morale partecipa all’atto di prudenza, poiché questa virtù compie in esso le condizioni essenziali per essere considerata tale; inoltre, ogni virtù morale stabilisce il proprio giusto mezzo seguendo i principi della prudenza, come risulta evidente dalla definizione di virtù data nell’Etica, II, 6.
 
 <span class="atom-split" data-atom="064" data-title="Whether the definition of satisfaction given in the text is suitable?" data-chapter="Whether the definition of satisfaction given in the text is suitable?" data-kind="atom" data-srclang="en"></span>
 
@@ -2853,12 +3877,46 @@ above.
 Reply to Objection 6: By debt is meant the debt we owe to God by reason of the sins we have
 committed, because Penance regards a debt, as stated above (A[2]).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la definizione di soddisfazione data nel testo (Sentenza iv, D, 15) e citata da [Agostino](/figures/augustine) (*Gennadio di Massilia, De Eccl. Dogm. liv*) non sia appropriata; infatti, si afferma che “la soddisfazione consista nel radicare le cause dei peccati e nel impedire che tali cause possano nuovamente insorgere”. Tuttavia, la causa del peccato effettivo è il “fomes”. [*“Fomes” indica letteralmente “combustibile”, ma in senso metaforico “incentivo”; utilizzato dai teologi, designa l’elemento quasi materiale e l’effetto del peccato originale; talvolta viene chiamato anche “concupiscenza”. Cf. FS, Q[82], A[3].*] Ma non possiamo eliminare il “fomes” in questa vita. Pertanto, la soddisfazione non consiste davvero nel rimuovere le cause dei peccati.
+
+Obiezione 2: Inoltre, la causa del peccato è più potente del peccato stesso. Ma l’uomo da solo non può eliminare il peccato; tanto meno quindi può eliminare la causa del peccato; e pertanto si arriva alla stessa conclusione.
+
+Obiezione 3: Inoltre, poiché la soddisfazione fa parte della Penitenza, essa riguarda il passato e non il futuro. Ora, “non dare spazio alle tentazioni del peccato” riguarda il futuro; pertanto, questa considerazione non dovrebbe essere inclusa nella definizione di soddisfazione.
+
+Obiezione 4: Inoltre, la soddisfazione riguarda un reato commesso in passato; tuttavia non vi è alcuna menzione di ciò nella definizione stessa della soddisfazione. Pertanto, questa definizione risulta inadeguata.
+
+Obiezione 5: Inoltre, Anselmo fornisce un’altra definizione (Cur Deus homo i): “La soddisfazione consiste nel rendere a Dio l’onore che gli spetta”, nella quale non vi è alcuna menzione delle cose citate da Agostino in [*Gennadius, OBJ[1 in questa definizione. Pertanto, una di queste due definizioni è inadeguata.
+
+Obiezione 6: Inoltre, un uomo innocente può rendere giusta onore a Dio; mentre la soddisfazione dei debiti non è compatibile con l’innocenza. Pertanto, la definizione di Anselmo è errata.
+
+Rispondo che la giustizia non mira soltanto a eliminare le disuguaglianze già esistenti, punendo i peccati commessi in passato, ma anche a garantire l’equità per il futuro, poiché, secondo il Filosofo (Etica ii, 3), “le punizioni hanno un effetto curativo”. Pertanto, la soddisfazione, che rappresenta l’atto con cui la giustizia infligge una punizione, è un mezzo per guarire i peccati passati e prevenirne di futuri: quando un uomo compie atti di soddisfazione verso un altro, offre un risarcimento per quanto accaduto in passato e prende precauzioni per il futuro. La soddisfazione può quindi essere definita in due modi: da un lato, in relazione ai peccati commessi in passato, che viene sanato attraverso il risarcimento; in questo senso, la soddisfazione è “il risarcimento di un danno arrecato, secondo i principi dell’equità”. Anselmo arriva alla stessa definizione, affermando che “la soddisfazione consiste nel rendere a Dio l’onore che gli spetta”; in questo caso, il dovere viene considerato in relazione al peccato commesso. Dall’altro lato, la soddisfazione può essere vista come un mezzo per proteggerci dai peccati futuri, proprio come la definisce Agostino (Cfr. OBJ[1]). Per quanto riguarda le malattie fisiche, la loro eliminazione è possibile rimuovendo le cause che possono portarle; se queste vengono eliminate, la malattia non può manifestarsi. Tuttavia, questo non vale per le “malattie spirituali”, poiché la libertà volontaria non può essere costretta; quindi, anche in presenza delle loro cause, tali malattie possono essere evitate, sebbene con difficoltà, mentre possono comunque verificarsi anche quando queste cause sono state eliminate. Per questo motivo, nella definizione di soddisfazione vengono menzionate due elementi fondamentali: da un lato, la rimozione delle cause del peccato; dall’altro, il rifiuto della volontà libera di commetterlo.
+
+Risposta all’Obiezione 1: Con “cause” dobbiamo intendere le cause immediate del peccato effettivo, che sono due: da un lato, la concupiscenza derivante dall’[abitudine](/concepts/custom) o dall’atto di un peccato già abbandonato; dall’altro, quelle cose che vengono definite “resti” del peccato passato; inoltre, le occasioni esterne che favoriscono il commesso del peccato, come luogo, cattive compagnie, ecc. Tali cause vengono eliminate attraverso la soddisfazione dei debiti in questa vita; tuttavia, la “causa remota” del peccato effettivo non viene completamente eliminata dalla soddisfazione dei debiti in questa vita, sebbene venga indebolita.
+
+Risposta all’Obiezione 2: Poiché la causa del male o della privazione – a seconda che abbia una causa effettiva – non è altro che un bene difettoso, e poiché è più facile distruggere il bene che crearlo, ne consegue che sia più semplice eliminare le cause della privazione e del male stesso che rimuovere il male in sé, il quale può essere eliminato soltanto attraverso la creazione di bene, come si può vedere nel caso della cecità e delle sue cause. Tuttavia, queste non costituiscono cause sufficienti al peccato, poiché il peccato non ne consegue necessariamente; esse rappresentano piuttosto occasioni per commetterlo. Inoltre, la soddisfazione dei debiti morali non può avvenire senza l’aiuto di Dio, poiché ciò è impossibile senza la carità, come spiegheremo più avanti (Q[14], A[2]).
+
+Risposta all’Obiezione 3: Sebbene la Penitenza sia stata istituita e intesa principalmente in relazione al passato, essa riguarda comunque anche il futuro, in quanto rappresenta un rimedio protettivo; lo stesso vale per la Satisfazione.
+
+Risposta all’Obiezione 4: Agostino [*Gennadio di Massilia, De Eccl. Dogm. liv.] definì la soddisfazione come un atto compiuto verso Dio, da Lui dal quale, in realtà, nulla può essere preso, anche se il peccatore, per parte sua, “prende” qualcosa. Pertanto, in tale tipo di soddisfazione, il rimedio per il futuro ha maggiore importanza della compensazione per il passato. È proprio da questo punto di vista che Agostino definisce la soddisfazione. Tuttavia, è possibile valutare la compensazione per il passato in base alla considerazione riservata al futuro: quest’ultimo, infatti, riguarda lo stesso oggetto del passato, ma in modo opposto: quando guardiamo al passato, detestiamo le cause dei peccati a causa dei peccati stessi, che rappresentano il punto di partenza di tale avversione; mentre, prestando attenzione al futuro, partiamo dalle cause per evitare più facilmente i peccati.
+
+Risposta all’Obiezione 5: Non c’è alcun motivo per cui la stessa cosa non possa essere descritta in modi diversi a seconda delle varie componenti che essa contiene; ed è proprio questo il caso qui, come spiegato sopra.
+
+Risposta all’Obiezione 6: Con “debito” si intende il debito che abbiamo verso Dio a causa dei peccati che abbiamo commesso, poiché la Penitenza riguarda appunto un debito, come già detto sopra (A[2]).
+
 <span class="atom-split" data-atom="065" data-title="OF THE POSSIBILITY OF SATISFACTION (TWO ARTICLES)" data-chapter="OF THE POSSIBILITY OF SATISFACTION (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the possibility of satisfaction, under which head there are two points of
 inquiry:
 (1) Whether man can make satisfaction to God?
 (2) Whether one man can make satisfaction for another?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la possibilità di soddisfazione; in questo ambito vi sono due aspetti da esaminare:  
+(1) Se l’uomo possa rendere Dio soddisfatto;  
+(2) Se un uomo possa rendere soddisfatto un altro.
 
 <span class="atom-split" data-atom="066" data-title="Whether man can make satisfaction to God?" data-chapter="Whether man can make satisfaction to God?" data-kind="atom" data-srclang="en"></span>
 
@@ -2944,6 +4002,35 @@ Reply to Objection 5: Though original sin has less of the nature of sin than act
 it is a more grievous evil, because it is an infection of [human nature](/axes/human_nature) itself, so that, unlike actual
 sin, it could not be expiated by the satisfaction of a mere man.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’uomo non possa rendere soddisfatto Dio. Infatti, una soddisfazione dovrebbe bilanciare l’offesa, come dimostrato sopra (Q[12], AA[2],3). Ma un’offesa contro Dio è infinita, poiché viene misurata in base alla persona verso la quale viene commessa; infatti, colpire un principe rappresenta un’offesa più grave che colpire chiunque altro. Pertanto, poiché nessuna azione umana può essere infinita, sembra che l’uomo non possa rendere soddisfatto Dio.
+
+Obiezione 2: Inoltre, uno schiavo non può pagare un debito, poiché tutto ciò che possiede appartiene al suo padrone. Ma noi siamo schiavi di Dio, e qualsiasi bene abbiamo lo dobbiamo a Lui. Pertanto, poiché la soddisfazione rappresenta una compensazione per un torto commesso in passato, sembra che non possiamo offrirla a Dio.
+
+Obiezione 3: Inoltre, se tutto ciò che un uomo possiede è sufficiente per non pagare un debito, allora non può nemmeno pagare un altro debito. Ora, tutto ciò che un uomo è, tutto ciò che può fare e tutto ciò che possiede non è sufficiente per ripagare ciò che deve in ringraziamento per la benedizione della creazione; per questo si legge (Isaia 40:16) che “il legno del Libano non sarà sufficiente nemmeno per un olocausto”. Pertanto, in nessun modo può un uomo ripagare il debito derivante dal peccato commesso.
+
+Obiezione 4: Inoltre, l’uomo è obbligato a dedicare tutto il proprio tempo al servizio di Dio. Ora, il tempo una volta perso non può essere recuperato; pertanto, come osserva Seneca (Libro I, Epistola i ad Lucilio), la perdita di tempo rappresenta una questione molto grave. Di conseguenza, l’uomo non può compensare Dio, e ne deriva lo stesso conclusione di prima.
+
+Obiezione 5: Inoltre, il peccato effettivo mortale è più grave dell’[peccato originale](/positions/original_sin). Ma nessuno potrebbe soddisfare le esigenze del peccato originale se non fosse allo stesso tempo Dio e uomo. Pertanto, nemmeno lui potrebbe soddisfare le esigenze del peccato effettivo mortale.
+
+Al contrario, Geromeo Pelagio, nell’“Expos. Fidei ad Damasum”, afferma: “Chi sostiene che Dio abbia comandato qualcosa di impossibile per l’uomo, sia anatema”. Tuttavia, la soddisfazione delle colpe è senz’altro un dovere imposto da Dio (Lc 3,8): “Portate frutti degni di penitenza”. Pertanto, è possibile compiere questa soddisfazione nei confronti di Dio.  
+Inoltre, Dio è molto più misericordioso di qualsiasi uomo; quindi è certamente possibile offrire soddisfazione anche a lui.  
+In più, si parla di “soddisfazione dovuta” quando la punizione corrisponde esattamente al peccato commesso, poiché “la giustizia è sinonimo di contrappassione”, come affermavano i Pitagorici ([Aristotele], Etica V, 5; cfr. SS, Q[61], A[4]).  
+La punizione può infatti equivalere al piacere derivante dal peccato commesso; pertanto è possibile offrire soddisfazione a Dio anche in questo senso.
+
+Rispondo che l’uomo diventa debitore di Dio in due modi: innanzitutto a causa dei favori ricevuti, e in secondo luogo a causa dei peccati commessi. Proprio come la gratitudine o il [culto](/concepts/religion) rappresentano il pagamento del debito per i favori ricevuti, così il rimborso dei peccati costituisce il pagamento del debito derivante da essi. Ora, nel rendere onore ai propri genitori o agli dèi – come afferma effettivamente il Filosofo nell’Etica viii, 14 – è impossibile ripagare in modo esattamente proporzionale; tuttavia basta che l’uomo faccia quanto è in suo potere, poiché la [amicizia](/concepts/friendship) non richiede un equilibrio perfetto, ma soltanto ciò che è possibile. Anche questo, comunque, rappresenta in qualche modo un equilibrio proporzionale: poiché il debito verso Dio, rispetto a Dio stesso, è paragonabile a ciò che l’uomo può fare, rispetto a se stesso, si mantiene così la forma stessa della giustizia. Lo stesso vale per il rimborso dei peccati. Pertanto, l’uomo non può ripagare Dio in modo sufficiente se con “sufficiente” si intende un equilibrio quantitativo; ma può farlo se ciò che offre rappresenta un equilibrio proporzionale, come spiegato sopra. E poiché questo basta per garantire la giustizia, basta anche per il rimborso dei peccati.
+
+Risposta all’Obiezione 1: Proprio come il peccato trae una certa [infinità](/concepts/infinity) dall’infinità della Divina maestà, così anche la soddisfazione trae una certa infinità dall’infinità della Divina misericordia, nella misura in cui viene ravvivata dalla grazia; grazie a questa grazia, qualsiasi cosa l’uomo sia in grado di restituire diventa accettabile. Altri, tuttavia, affermano che il peccato sia infinito riguardo al disprezzo verso Dio e che, in questo senso, venga perdonato gratuitamente; ma che sia finito riguardo alla possibilità di compiere atti di soddisfazione. Tuttavia, questa argomentazione non è pertinente, poiché la soddisfazione non può compensare il peccato, se non nel senso in cui esso rappresenta un’offesa contro Dio, cioè un allontanamento da Dio stesso. Altri ancora sostengono che anche riguardo al disprezzo verso Dio sia possibile compiere atti di soddisfazione grazie al merito di Cristo, che, in qualche modo, è infinito. Ma ciò equivale a quanto abbiamo detto prima: la grazia viene infatti concessa ai credenti attraverso la fede nel Mediatore. Se, tuttavia, la grazia venisse concessa in altro modo, la soddisfazione basterebbe comunque, secondo il modo descritto sopra.
+
+Risposta all’Obiezione 2: L’uomo, creato a immagine di Dio, possiede una certa misura di libertà, poiché è padrone delle proprie azioni grazie alla sua volontà libera; pertanto, agendo secondo la propria volontà, può rendere soddisfatto Dio. Poiché questa libertà appartiene a Dio – essendo stata infatti donata da Lui all’uomo – essa è stata comunque concessa liberamente, affinché l’uomo potesse essere padrone di se stesso, cosa che non si può dire di uno schiavo.
+
+Risposta all’Obiezione 3: Questo argomento dimostra che è impossibile offrire a Dio una soddisfazione equivalente, ma non che sia impossibile offrirGli una soddisfazione sufficiente. Poiché, sebbene l’uomo debba a Dio tutto ciò che è in grado di Gli dare, non è necessario per la sua salvezza che egli effettivamente compia realmente tutto ciò che può fare; infatti, data la sua attuale condizione di vita, gli è impossibile concentrare tutta la propria forza su un’unica cosa, poiché deve prestare attenzione a molte altre questioni. Pertanto, il suo comportamento è soggetto a determinati limiti, ovvero al rispetto dei comandamenti di Dio; al di là di ciò, può offrire qualcosa come forma di soddisfazione.
+
+Risposta all’Obiezione 4: Sebbene l’uomo non possa recuperare il tempo trascorso, può, nel tempo che segue, compensare ciò che avrebbe dovuto fare in passato, poiché il comandamento non gli richiedeva l’esercizio di tutta la sua forza, come già detto sopra (ad 3).
+
+Risposta all’Obiezione 5: Sebbene il peccato originale abbia meno della natura del peccato rispetto al peccato effettivo, esso rappresenta un male più grave, poiché riguarda direttamente la stessa [natura umana](/axes/human_nature). Pertanto, a differenza del peccato effettivo, non può essere espiato dalla semplice soddisfazione delle conseguenze di tale peccato da parte di un uomo comune.
+
 <span class="atom-split" data-atom="067" data-title="Whether one man can fulfill satisfactory punishment for another?" data-chapter="Whether one man can fulfill satisfactory punishment for another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one man cannot fulfill satisfactory punishment for another.
@@ -3020,6 +4107,28 @@ long as the other makes satisfaction for him: and if he do not this, then both a
 of fulfilling this punishment, one for the sin committed, the other for his omission, so that it does
 not follow that one sin is twice punished.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un uomo non possa infliggere una punizione soddisfacente per un altro. Infatti, la meritevolezza è necessaria affinché la punizione sia considerata giusta. Ora, un uomo non può meritare o demeritare al posto di un altro, poiché è scritto (Salmo 61:12): “Ricompenserai ciascuno secondo le sue opere”. Pertanto, un uomo non può sostituire un altro nel subire la punizione che gli spetta.
+
+Obiezione 2: Inoltre, la soddisfazione delle colpe viene condivisa insieme al pentimento e alla confessione. Ma un uomo non può pentirsi o confessare al posto di un altro; pertanto, nemmeno può compiere atti di soddisfazione al posto di un altro.
+
+Obiezione 3: Inoltre, pregare per un altro significa anche accumulare meriti per sé stesso. Pertanto, se una persona può compiere un atto di soddisfazione al posto di un’altra, allora compie tale atto anche per sé, in quanto soddisfa i propri peccati attraverso l’atto di soddisfazione compiuto per un altro. Quindi, se una persona compie un atto di soddisfazione al posto di un’altra, non è necessario che compia tale atto anche per i propri peccati.
+
+Obiezione 4: Inoltre, se qualcuno può soddisfare al posto di un altro assumendosi su di sé il debito della punizione, quest’ultimo viene liberato dal proprio debito. Pertanto, l’altro andrà direttamente in paradiso se muore dopo che tutto il suo debito di punizione è stato assunto da qualcun altro; altrimenti, se viene comunque punito, si verificherà una doppia punizione per lo stesso peccato: da parte di colui che ha iniziato a soddisfarlo e da parte di colui che viene punito nel Purgatorio.
+
+Al contrario, è scritto (Galati 6:2): “Portate a vicenda i vostri pesi”. Pertanto sembra che si possa sopportare il peso della punizione imposta ad un altro. Inoltre, la carità ha maggior valore davanti a Dio che davanti agli uomini; davanti agli uomini, infatti, si può pagare il debito altrui per amore verso di lui. Quindi, con ancora maggiore motivo, ciò è possibile anche davanti al tribunale di Dio.
+
+Rispondo che una punizione adeguata ha un duplice scopo: da un lato, quello di saldare il “debito” commesso; dall’altro, quello di fungere da rimedio per evitare il peccato. Pertanto, in quanto rimedio contro i futuri peccati, il fatto che una persona compia la punizione al posto di un’altra non è di alcun beneficio per quest’ultima: infatti, il digiuno o le altre azioni virtuose di uno non bastano a “domare” la carne di un altro; inoltre, nessuno acquisisce realmente l’abitudine al bene attraverso le azioni altrui, se non occasionalmente, e soltanto nel caso in cui tali azioni permettano a una persona di meritarsi maggior grazia divina, poiché la grazia è il rimedio più efficace per evitare il peccato. Tuttavia, questo avviene attraverso il merito e non attraverso la semplice esecuzione della punizione. D’altra parte, per quanto riguarda il “saldamento del debito”, una persona può compiere la punizione al posto di un’altra purché sia animata da carità, in modo che le sue azioni possano effettivamente contribuire a saldare quel debito. Non è nemmeno necessario che chi compie la punizione subisca una pena più severa di quella che il colpevole avrebbe dovuto scontare personalmente (come sostengono alcuni, secondo cui chi paga con le proprie sofferenze ottiene un maggior beneficio), poiché il potere purificatore della punizione deriva principalmente dalla carità. Poiché una maggiore carità si manifesta nel fatto che una persona sia disposta a compiere la punizione al posto di un’altra, è necessario che chi agisce in questo modo subisca una pena inferiore rispetto a quella del colpevole stesso. È proprio per questa ragione che leggiamo nelle Vite dei Padri che qualcuno, per amore verso il fratello, compì penitenze per un peccato che quest’ultimo non aveva commesso; grazie alla sua carità, il fratello fu così liberato da quel peccato. Inoltre, non è necessario che la persona per cui viene eseguita la punizione sia incapace di farlo personalmente: anche se lo fosse, verrebbe comunque liberata dal proprio “debito” quando un’altra persona ne compie l’esecuzione al suo posto. Tuttavia, questa condizione è necessaria soltanto nel caso in cui la punizione abbia uno scopo terapeutico, cioè se sia effettivamente utile per correggere i difetti del peccatore, sia fisici che spirituali. In tal caso, non si dovrebbe permettere a nessuno di compiere penitenze al posto di un altro, se non vi fossero evidenti motivi che giustifichino tale azione.
+
+Risposta all’Obiezione 1: La ricompensa essenziale viene concessa a un uomo in base alla sua natura o disposizione interiore, poiché la piena visione di Dio dipende dalla capacità di coloro che Lo vedono. Pertanto, così come nessuno può essere indotto ad agire da un altro, allo stesso modo nessuno merita per un altro quella ricompensa essenziale, a meno che il proprio merito non abbia una efficacia infinita, come nel caso del merito di Cristo, grazie al quale i bambini ottengono la vita eterna attraverso il Battesimo. D’altra parte, la punizione temporale dovuta al peccato, dopo che il peccato stesso è stato perdonato, non viene determinata in base alla disposizione del soggetto a cui essa spetta; anzi, a volte anche una persona migliore deve scontare una punizione più severa. Di conseguenza, un uomo può meritare per un altro la liberazione dalla punizione, e l’atto di uno diventa quello di un altro attraverso la carità, che ci rende “tutti uno in Cristo” (Galati 3:28).
+
+Risposta all’Obiezione 2: La contrizione è istituita proprio per contrastare il peccato che influisce sul comportamento di una persona verso il bene o il male; pertanto, la contrizione di un altro non può liberare una persona dal proprio peccato. Allo stesso modo, con la confessione una persona si sottomette ai sacramenti della Chiesa: nessuno può ricevere un [sacramento](/concepts/sacrament) al posto di un altro, poiché in un sacramento la grazia viene concessa a colui che lo riceve, e non a un terzo. Di conseguenza, non esiste alcuna analogia tra soddisfazione, contrizione e confessione.
+
+Risposta all’Obiezione 3: Nel pagamento del debito consideriamo la misura della punizione, mentre nel merito vediamo la radice stessa del bene, ovvero la carità. Pertanto colui che, attraverso la carità, merita qualcosa per un altro, merita almeno in modo proporzionale di più anche per sé; tuttavia colui che soddisfa i debiti altrui non soddisfa necessariamente i propri, poiché la misura della punizione non è sufficiente a compensare i peccati di entrambi. Ciononostante, soddisfacendo i debiti altrui si merita qualcosa di molto più grande della semplice liberazione dalla punizione: la vita eterna.
+
+Risposta all’Obiezione 4: Se quest’uomo si impegnasse a subire una certa punizione, non verrebbe liberato dal debito fino al suo pagamento; pertanto sarà lui stesso ad affrontare quella punizione, finché l’altro non la compia al suo posto. E se quest’ultimo non lo fa, entrambi rimarranno debitori per il adempimento di tale punizione: uno per il peccato commesso, l’altro per la sua omissione; quindi non si può concludere che un solo peccato venga punito due volte.
+
 <span class="atom-split" data-atom="068" data-title="OF THE QUALITY OF SATISFACTION (FIVE ARTICLES)" data-chapter="OF THE QUALITY OF SATISFACTION (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the quality of satisfaction, under which head there are five points of
@@ -3030,6 +4139,15 @@ lost charity, satisfy for his other sins which were pardoned him through his con
 (3) Whether a man's previous satisfaction begins to avail when he recovers charity?
 (4) Whether works done without charity merit any good?
 (5) Whether such works avail for the mitigation of the pains of hell?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la qualità della soddisfazione dei peccati; in questo ambito vi sono cinque punti da esaminare:  
+(1) È possibile che un uomo possa soddisfare i propri peccati senza doverlo fare anche per altri?  
+(2) Se un uomo ricade in peccato dopo essersi pentito di tutti i suoi peccati, può ancora, ora che ha perso la carità, soddisfare quei peccati che gli sono stati perdonati grazie alla sua penitenza?  
+(3) La soddisfazione dei peccati precedenti inizia ad avere effetto quando un uomo recupera la carità?  
+(4) Le opere compiute senza carità meritano qualche bene?  
+(5) Tali opere sono utili per alleviare i dolori dell’inferno?
 
 <span class="atom-split" data-atom="069" data-title="Whether a man can satisfy for one sin without satisfying for another?" data-chapter="Whether a man can satisfy for one sin without satisfying for another?" data-kind="atom" data-srclang="en"></span>
 
@@ -3081,6 +4199,26 @@ friendship remains.
 Reply to Objection 3: By its weight, one sin drags us down to another, as Gregory says (Moral.
 xxv): so that when a man holds to one sin, he does not sufficiently cut himself off from the causes
 of further sin.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un uomo possa espiare un peccato senza doverlo fare per un altro.  
+Infatti, quando diverse cose non sono collegate tra loro, una può essere eliminata senza che l’altra ne risenta. Ora i peccati non sono collegati tra loro; altrimenti chi commettesse uno di essi li commetterebbe tutti. Pertanto, un peccato può essere espiato attraverso la propria espiazione, senza che sia necessario farlo anche per gli altri.
+
+Obiezione 2: Inoltre, Dio è più misericordioso dell’uomo. Tuttavia, l’uomo accetta il pagamento di un debito senza che venga pagato anche l’altro. Pertanto, Dio accetta la soddisfazione di un peccato senza che sia necessario farlo per l’altro.
+
+Obiezione 3: Inoltre, come affermato nel testo (Sentenza iv, D, 15), “la soddisfazione dei peccati ha lo scopo di estirpare le cause del male e di impedire che tali cause possano nuovamente insorgere”. Ciò è possibile per un certo peccato e non per un altro; ad esempio, quando una persona reprime la propria lussuria ma continua a essere avida. Pertanto, è possibile compiere un atto di soddisfazione per un peccato senza doverlo fare per un altro.
+
+Al contrario, il digiuno di coloro che lo praticano “per dibattiti e contese” (Isaia 58:4,5) non è gradito a Dio, anche se il digiuno rappresenta un atto di soddisfazione. Ora, la soddisfazione può essere ottenuta soltanto attraverso atti che siano graditi a Dio; pertanto, colui che ha un peccato sulla coscienza non può offrire soddisfazione a Dio.  
+Inoltre, la soddisfazione rappresenta un mezzo per sanare i peccati passati e per proteggersi dai peccati futuri, come già detto (Q[12], A[3]). Ma senza la grazia di Dio è impossibile evitare i peccati. Quindi, poiché ogni peccato esclude la grazia, non è possibile offrire soddisfazione per un peccato e non per un altro.
+
+Rispondo che alcuni hanno sostenuto sia possibile compiere un atto di soddisfazione per un peccato e non per un altro, come afferma il Maestro (Sentenze iv, D, 15). Ma ciò è impossibile. Poiché ogni offesa deve essere eliminata attraverso un atto di soddisfazione, il modo stesso con cui tale atto viene compiuto deve necessariamente essere coerente con l’eliminazione dell’offesa stessa. L’eliminazione dell’offesa, infatti, rappresenta il ristabilimento della [amicizia](/concepts/friendship); pertanto, se esiste qualcosa che ostacola tale ristabilimento, non può esserci alcuna soddisfazione possibile. Poiché ogni peccato costituisce un ostacolo all’amicizia della carità – cioè all’amicizia dell’uomo verso Dio – è impossibile per l’uomo compiere un atto di soddisfazione per un peccato pur continuando a commetterne un altro; allo stesso modo, nessuno potrebbe compiere un atto di soddisfazione per un colpo ricevuto, se mentre si prostra ai piedi della persona che lo ha colpito gli infliggesse un altro colpo.
+
+Risposta all’Obiezione 1: Poiché i peccati non sono collegati tra loro in un unico elemento, un uomo può commetterne uno senza commetterne un altro; invece, tutti i peccati vengono perdonati grazie a una stessa causa, quindi il perdono di diversi peccati è legato tra loro. Di conseguenza, non è possibile compiere una soddisfazione penale per alcuni peccati e non per altri.
+
+Risposta all’Obiezione 2: Quando un uomo è in debito con un altro, l’unica disuguaglianza tra loro è quella che contraddice i principi della giustizia; pertanto, per effettuare il rimborso non è necessario nulla di più se non ripristinare l’equità. Ciò può avvenire in relazione a un singolo debito, senza riguardare altri obblighi. Tuttavia, quando l’obbligo deriva da un reato, sorge una disuguaglianza non solo sotto il profilo della giustizia, ma anche su quello dell’amicizia. Per eliminare tale disuguaglianza, non è sufficiente ripristinare l’equità attraverso la punizione adeguata al reato; è necessario anche ristabilire l’armonia nell’ambito delle relazioni interpersonali, il che diventa impossibile finché esiste un ostacolo alla reciproca amicizia.
+
+Risposta all’Obiezione 3: Per il suo peso, un peccato ci trascina verso un altro, come afferma Gregorio (Moralia, xxv): quindi, quando una persona si attacca a un peccato, non si separa sufficientemente dalle cause che possono portare ad altri peccati.
 
 <span class="atom-split" data-atom="070" data-title="Whether, when deprived of charity, a man can make satisfaction for sins for which he was previously contrite?" data-chapter="Whether, when deprived of charity, a man can make satisfaction for sins for which he was previously contrite?" data-kind="atom" data-srclang="en"></span>
 
@@ -3137,6 +4275,29 @@ virtue to the works done after that sin.
 Reply to Objection 4: Sufficient equalization is impossible both as to the Divine acceptation
 and as to equivalence: so that the argument proves nothing.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che, se un uomo commette peccato dopo essersi pentito di tutti i suoi peccati, possa, ora che ha perso la carità, espiare anche gli altri peccati che già gli erano stati perdonati grazie alla sua penitenza. Infatti Daniele disse a Nabucodonosor (Dan. 4:24): “Riscatta i tuoi peccati con le opere di misericordia”. Tuttavia, egli rimase comunque un peccatore, come dimostra la punizione che seguì. Pertanto, un uomo può espiare anche mentre si trova in uno stato di peccato.
+
+Obiezione 2: Inoltre, “L’uomo non sa se sia degno di amore o di odio” (Ecclesiaste 9:1). Pertanto, se non si è in uno stato di carità, non è possibile soddisfare tale requisito; di conseguenza, diventa impossibile sapere se si sia effettivamente soddisfatto tale condizione, il che sarebbe indecoroso.
+
+Obiezione 3: Inoltre, l’intera azione di un uomo prende forma dall’intenzione che egli ha all’inizio. Ma un pentito si trova in uno stato di carità quando inizia a pentirsi; pertanto, l’intera sua successiva azione deriverà la propria efficacia dalla carità che ravviva la sua intenzione.
+
+Obiezione 4: Inoltre, la soddisfazione delle colpe consiste in una certa equilibratura tra il peccato e la punizione. Ma tale equilibratura può essere realizzata anche in una persona priva di carità. Pertanto, ecc.
+
+Al contrario, “la carità copre tutti i peccati” (Proverbi 10:12). Tuttavia, la soddisfazione ha il potere di cancellare i peccati; pertanto è inefficace senza la carità. Inoltre, l’atto principale di soddisfazione sono le opere di misericordia. Ma le elemosine date da chi è privo di carità non hanno alcun effetto, come si afferma chiaramente in 1 Corinzi 13:3: “Anche se distribuissi tutti i miei beni per nutrire i poveri, e non avessi carità, questo non mi sarebbe di alcuna utilità”. Pertanto, non può esserci alcuna soddisfazione per il peccato mortale.
+
+Rispondo che alcuni hanno affermato che, se una persona, dopo che tutti i suoi peccati sono stati perdonati attraverso il pentimento e prima di averne compiuto la soddisfazione, ricade nuovamente in peccato e successivamente ne compie la soddisfazione, tale soddisfazione sarà valida; pertanto, se muore in quel peccato, non verrà punita all’inferno per gli altri suoi peccati.  
+Ma ciò è impossibile, poiché la soddisfazione richiede il ripristino dell’[amicizia](/concepts/friendship) e la restaurazione dell’equità giudiziaria; il contrario di ciò distrugge l’amicizia, come afferma il Filosofo (Etica, IX, 1,3). Ora, nella soddisfazione resa a Dio, tale equità si basa non sull’equivalenza, ma sulla sua accettazione; quindi, anche se l’offesa è stata già eliminata attraverso il pentimento precedente, le azioni di soddisfazione devono essere accettabili da Dio, e per questo dipendono dalla carità. Di conseguenza, le azioni compiute senza carità non sono considerate soddisfacenti.
+
+Risposta all’Obiezione 1: Il consiglio di Daniele significava che doveva abbandonare il peccato e pentirsi, e quindi compiere un atto di soddisfazione offrendo elemosine.
+
+Risposta all’Obiezione 2: Proprio come l’uomo non sa con certezza se abbia compiuto un atto di espiazione quando ha soddisfatto i propri doveri, né se lo abbia ancora compiuto in questo momento, allo stesso modo non sa con certezza se abbia effettivamente soddisfatto completamente tali doveri. Per questo motivo si legge nell’Ecclesiastico 5:5: “Non essere senza timore riguardo al peccato perdonato”. Tuttavia, l’uomo non è costretto, a causa di tale timore, a ripetere l’atto di espiazione se non è consapevole di aver commesso un peccato mortale. Poiché, anche se non ha effettivamente espiato la propria colpa con quel atto, non incorre nella colpa di omissione per aver trascurato di compiere tale espiazione; allo stesso modo, chi riceve l’Eucaristia senza essere consapevole di un peccato mortale che abbia commesso, non incorre nella colpa di riceverla indegnamente.
+
+Risposta all’Obiezione 3: La sua intenzione fu interrotta dal peccato che commise successivamente, pertanto tale intenzione non conferisce alcuna virtù alle azioni compiute dopo quel peccato.
+
+Risposta all’Obiezione 4: Un’equilibratura sufficiente è impossibile sia in termini di accettazione divina che di equivalenza; pertanto, questo argomento non dimostra nulla.
+
 <span class="atom-split" data-atom="071" data-title="Whether previous satisfaction begins to avail after man is restored to charity?" data-chapter="Whether previous satisfaction begins to avail after man is restored to charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that when a man has recovered charity his previous satisfaction
@@ -3192,6 +4353,24 @@ through penance they are acceptable to God in the result they leave behind. But 
 satisfaction leaves behind no effect in the person that does satisfaction, it needs to be repeated, as
 in the case of prayer and so forth. Interior works, since they pass away altogether, are nowise
 quickened, and must be repeated.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che, quando un uomo riprende a praticare l’elemosina, la soddisfazione che ne derivava in precedenza inizi a manifestarsi di nuovo, poiché un commento su Levitico 25:25 afferma che “i frutti delle buone azioni di una persona debbano essere considerati a partire dal momento in cui ha commesso il peccato”. Tuttavia, tali frutti non verrebbero considerati se non derivassero qualche effetto concreto dalla sua successiva pratica dell’elemosina. Pertanto, la soddisfazione derivante da queste azioni inizia a manifestarsi soltanto dopo che l’uomo ha ripreso a praticarle.
+
+Obiezione 2: Inoltre, poiché l’efficacia della soddisfazione viene ostacolata dal peccato, allo stesso modo l’efficacia del Battesimo viene ostacolata dall’insincerità. Ora, il Battesimo inizia ad avere effetto quando l’insincerità cessa; pertanto, la soddisfazione inizia ad avere effetto quando il peccato viene eliminato.
+
+Obiezione 3: Inoltre, se a un uomo viene imposto di digiunare per diversi giorni come penitenza per i peccati commessi, e successivamente, cadendo nuovamente in peccato, egli compie completamente la propria penitenza, non gli viene chiesto di digiunare ancora una volta quando si confessa per la seconda volta. Tuttavia, se non avesse adempiuto al proprio dovere di soddisfazione attraverso il digiuno, gli sarebbe stato richiesto di farlo. Pertanto, le sue azioni precedenti diventano valide come soddisfazione dei propri peccati grazie al suo pentimento successivo.
+
+Al contrario, le opere compiute senza carità non sono soddisfacenti, poiché sono opere “morte”. Inoltre, la penitenza non le rende più efficaci; pertanto non diventano mai soddisfacenti. In più, la carità non rende efficace un’opera, a meno che quell’opera stessa non derivi direttamente da essa. Poiché le opere compiute senza carità non derivano in alcun modo dalla carità e non possono mai farlo, esse non possono essere considerate soddisfacenti agli occhi di Dio.
+
+Rispondo che alcuni hanno affermato che le opere compiute in uno stato di carità, chiamate “opere viventi”, siano meritevoli per quanto riguarda la vita eterna e sufficienti per saldare il debito del castigo; inoltre, che attraverso ulteriori atti di carità, anche le opere compiute senza carità possano diventare sufficienti per saldare tale debito, ma non necessariamente meritevoli della vita eterna. Tuttavia, ciò è impossibile: le opere compiute in carità producono entrambi questi effetti per la stessa ragione, ovvero perché sono gradite a Dio. Pertanto, proprio come la carità, di per sé, non può rendere meritevoli quelle opere compiute senza di essa, allo stesso modo non può renderle gradite a Dio nemmeno in questo senso.
+
+Risposta all’Obiezione 1: Ciò significa che i frutti del pentimento vanno calcolati non dal momento in cui una persona ha commesso il primo peccato, ma da quando ha smesso di peccare, cioè dall’ultimo momento in cui ha compiuto un atto peccaminoso; a meno che quella persona non si sia pentita immediatamente dopo aver peccato e abbia compiuto molte azioni buone prima di confessarsi. Si può anche dire che maggiore è la contrizione, più essa attenua la punizione; inoltre, più azioni buone una persona compie mentre è ancora nel peccato, maggiormente si rende idonea alla grazia del pentimento, e quindi è probabile che debba una pena inferiore. Per questo motivo, il sacerdote dovrebbe usare la discrezione nel valutare queste circostanze, al fine di infliggere una penitenza più leggera, in base alla migliore disposizione della persona.
+
+Risposta all’Obiezione 2: Il Battesimo imprime un carattere nell’anima, mentre la soddisfazione non lo fa. Pertanto, con l’avvento della carità, che elimina sia l’insincerità che il peccato, il Battesimo riesce a esercitare il proprio effetto; ciò non accade invece per la soddisfazione. Inoltre, il Battesimo conferisce la giustificazione in virtù di un atto [ex opere operato] che non è un atto umano, ma di Dio; per questo motivo, esso non diventa un atto privo di vita, come avviene invece con la soddisfazione, che è un atto umano.
+
+Risposta all’Obiezione 3: A volte la soddisfazione di un debito lascia effetti nella persona che la compie, anche dopo che l’atto stesso è stato eseguito; ad esempio, il digiuno indebolisce il corpo, mentre le opere di carità riducono le risorse materiali di una persona, e così via. In tali casi non c’è bisogno di ripetere tali atti se sono stati compiuti in uno stato di peccato, poiché attraverso la penitenza diventano accettabili a Dio per gli effetti positivi che lasciano dopo essere stati eseguiti. Tuttavia, quando un atto di soddisfazione non lascia alcun effetto nella persona che lo compie, è necessario ripeterlo, proprio come avviene nel caso della preghiera e di altri atti simili. Gli atti interiori, poiché scompaiono completamente dopo essere stati eseguiti, non vengono mai rinnovati e quindi devono essere ripetuti.
 
 <span class="atom-split" data-atom="072" data-title="Whether works done without charity merit any, at least temporal, good?" data-chapter="Whether works done without charity merit any, at least temporal, good?" data-kind="atom" data-srclang="en"></span>
 
@@ -3292,6 +4471,20 @@ as to the pain of fire. But neither will this stand, because as the pain of fire
 also is the pain of the remorse of conscience: so that what applies to one applies to the other.
 This suffices for the Replies to the Objections.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le suddette opere non siano utili per alleviare i dolori dell’inferno. Infatti, l’intensità della punizione all’inferno è proporzionale alla gravità del peccato. Ma le opere compiute senza carità non riducono la gravità del peccato; pertanto, nemmeno attenuano i dolori dell’inferno.
+
+Obiezione 2: Inoltre, il dolore dell’inferno, sebbene infinito per durata, è comunque finito per intensità. Ora, qualsiasi cosa sia finita può essere eliminata mediante una sottrazione finita. Pertanto, se le azioni compiute senza carità cancellassero anche solo in parte la punizione dovuta ai peccati, tali azioni potrebbero essere così numerose da eliminare completamente il dolore dell’inferno: il che è falso.
+
+Obiezione 3: Inoltre, le preghiere e i riti della Chiesa sono più efficaci delle azioni compiute senza carità. Ma, secondo [Agostino](/figures/augustine) (Enchiridion cx), “le preghiere e i riti della Chiesa non portano alcun beneficio ai dannati all’inferno”. Quindi, tanto meno tali sofferenze possono essere alleviate da azioni compiute senza carità.
+
+Al contrario, Agostino afferma anche nell’Enchiridion CX: “Chiunque compia un atto buono riceve una piena remissione dei peccati, o almeno trova la stessa dannazione più tollerabile.” Inoltre, è molto più importante compiere un atto buono che evitare di commettere un atto malvagio. Tuttavia, l’evitamento di un atto malvagio permette sempre di sfuggire alla punizione, anche in chi manchi della carità. Perciò, ancora di più, compiere atti buoni elimina completamente la possibilità di essere puniti.
+
+Rispondo che la mitigazione dei dolori dell’inferno può essere intesa in due modi: in primo luogo, come se una persona venisse liberata dalla punizione che già meritava; poiché nessuno viene liberato dalla punizione se non è assolto dal peccato (poiché un effetto non diminuisce o scompare se la sua causa non diminuisce o scompare), il dolore dell’inferno non può essere mitigato da azioni compiute senza carità, poiché tali azioni non sono in grado di eliminare o ridurre il peccato. In secondo luogo, tali azioni possono ostacolare l’effetto del peccato stesso; quindi diminuiscono il dolore dell’inferno: prima di tutto perché chi compie queste azioni evita di essere ritenuto colpevole per non averle compiute; in secondo luogo, perché tali azioni predispongono una persona al bene, facendola peccare con minore disprezzo e allontanandola da molti altri peccati.  
+Tuttavia, queste azioni meritano effettivamente una riduzione o un rinvio della punizione temporale, come nel caso di Achab (3 Re 21:27 e seguenti), così come l’acquisizione di beni materiali. Alcuni sostengono che tali azioni mitigino i dolori dell’inferno non eliminandone la sostanza, ma rafforzando la persona che le compie, in modo che sia più in grado di sopportarli; ma ciò è impossibile, poiché non esiste alcun rafforzamento senza una riduzione della propensione al peccato. La propensione al peccato, infatti, dipende dalla misura del peccato stesso; quindi, se il peccato non viene eliminato, nemmeno la persona può essere rafforzata. Altri affermano che la punizione venga mitigata in termini di rimorso di coscienza, anche se non in termini di dolore fisico; ma anche questa ipotesi non regge, poiché il dolore fisico è proporzionale al peccato, così come il dolore del rimorso di coscienza; quindi ciò che vale per l’uno vale anche per l’altro.  
+Questo basta per rispondere alle obiezioni sollevate.
+
 <span class="atom-split" data-atom="074" data-title="OF THE MEANS OF MAKING SATISFACTION (THREE ARTICLES)" data-chapter="OF THE MEANS OF MAKING SATISFACTION (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the means of making satisfaction, under which head there are three
@@ -3300,6 +4493,13 @@ points of inquiry:
 (2) Whether the scourges whereby God punishes man in this life, are satisfactory?
 (3) Whether the works of satisfaction are suitably reckoned, by saying that there are three, viz.
 almsdeeds, fasting, and prayer?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare i mezzi attraverso cui può essere ottenuta la soddisfazione dei debiti divini; in questo ambito vi sono tre punti principali da esaminare:  
+(1) Se tale soddisfazione debba avvenire attraverso atti punitivi.  
+(2) Se le punizioni che Dio infligge all’uomo in questa vita siano sufficienti a ottenere tale soddisfazione.  
+(3) Se gli atti considerati idonei a compiere tale dovere siano effettivamente tre, e cioè le opere di carità, il digiuno e la preghiera.
 
 <span class="atom-split" data-atom="075" data-title="Whether satisfaction must be made by means of penal works?" data-chapter="Whether satisfaction must be made by means of penal works?" data-kind="atom" data-srclang="en"></span>
 
@@ -3354,6 +4554,24 @@ does not lessen the efficacy of satisfaction, but increases it.
 Reply to Objection 3: That which is due for sin is compensation for the offense, and this cannot
 be done without punishment of the sinner. It is of this debt that Anselm speaks.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la soddisfazione del debito verso Dio non debba necessariamente essere ottenuta attraverso opere pene. Infatti, la soddisfazione dovrebbe compensare il reato commesso contro Dio. Ora, a prima vista, nessuna compensazione viene offerta a Dio attraverso le opere pene, poiché Dio non si compiace nei nostri sofferimenti, come risulta da Tobia 3:22. Pertanto, la soddisfazione del debito verso Dio non deve necessariamente essere ottenuta attraverso opere pene.
+
+Obiezione 2: Inoltre, maggiore è la carità da cui nasce un’azione, minore è la sua natura punitiva, poiché “la carità non comporta dolore” secondo 1 Giovanni 4:18. Se quindi le azioni di soddisfazione dovessero essere considerate punitive, più queste derivassero dalla carità, meno sarebbero efficaci nel loro scopo, il che è falso.
+
+Obiezione 3: Inoltre, “la soddisfazione”, come afferma Anselmo nel “Cur Deus homo i”, “consiste nel rendere due onori a Dio”. Ma ciò può essere fatto anche con altri mezzi, diversi dalle opere penali. Pertanto, la soddisfazione non deve necessariamente essere realizzata attraverso opere penali.
+
+Al contrario, Gregorio afferma (Hom. in Evang. xx): “È giusto che il peccatore, attraverso il suo pentimento, si infliga una sofferenza tanto maggiore quanto il danno che ha causato con il proprio peccato”. Inoltre, la ferita provocata dal peccato dovrebbe essere completamente guarita attraverso la soddisfazione dei debiti morali. La punizione, infatti, è il rimedio ai peccati, come afferma il Filosofo (Etica ii, 3). Pertanto, la soddisfazione dei debiti morali deve avvenire attraverso atti penali.
+
+Rispondo che, come già detto sopra (Q[12], A[3]), la soddisfazione riguarda sia il peccato commesso in passato, per il quale viene offerta una compensazione, sia il peccato futuro dal quale siamo così salvaguardati; in entrambi i casi, la compensazione deve essere effettuata attraverso opere penali. La compensazione per un peccato implica infatti l’equità, che deve necessariamente esistere tra colpevole e vittima della sua offesa. L’equilibratura nella giustizia umana consiste quindi nel togliere a chi possiede troppo ciò che è in eccesso e darlo a chi ne è stato privato. Ora, sebbene nulla possa essere tolto a Dio, il peccatore, con il suo peccato, lo priva di qualcosa; pertanto, affinché si possa effettuare una vera compensazione, è necessario togliere al peccatore qualcosa che possa contribuire alla gloria di Dio. Un’opera buona, in sé, non priva l’agente di nulla, ma lo perfeziona; quindi, tale privazione può avvenire soltanto attraverso un’opera penale. Pertanto, affinché un’opera sia considerata soddisfacente, deve essere buona al fine di onorare Dio e allo stesso tempo penale, in modo da privare il peccatore di qualcosa. Inoltre, la punizione ci preserva dal peccato futuro, poiché una persona, avendo sperimentato le conseguenze negative della sua azione, difficilmente ricade nuovamente nel peccato. Per questo motivo, secondo il Filosofo (Etica, ii, 3), le punizioni hanno un effetto curativo.
+
+Risposta all’Obiezione 1: Sebbene Dio non si compiaccia delle nostre punizioni in sé stesse, lo fa tuttavia nella misura in cui queste sono giuste, e quindi possono ritenersi soddisfacenti.
+
+Risposta all’Obiezione 2: Proprio come, nel contesto della soddisfazione dei doveri, dobbiamo considerare la difficoltà del compito da svolgere, allo stesso modo, nel contesto del merito, dobbiamo prendere in considerazione la sua entità. Ora, se la difficoltà stessa del compito diminuisce, a parità di altre condizioni, anche il merito ne risente negativamente; ma se questa difficoltà diminuisce a causa della prontezza della volontà nell’adempire al dovere, ciò non riduce affatto il merito, anzi lo aumenta. Allo stesso modo, una riduzione della “difficoltà” del compito, dovuta a una maggiore disponibilità della volontà verso l’altruismo, non diminuisce l’efficacia della soddisfazione dei doveri, ma la aumenta.
+
+Risposta all’Obiezione 3: Ciò che è dovuto per il peccato è una compensazione per l’offesa commessa, e questa compensazione non può avvenire senza la punizione del peccatore. È proprio di questo debito che parla Anselmo.
+
 <span class="atom-split" data-atom="076" data-title="Whether the scourges of the present life are satisfactory?" data-chapter="Whether the scourges of the present life are satisfactory?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the scourges whereby we are punished by God in this life,
@@ -3398,6 +4616,24 @@ person without the person's fault, that his virtue may be meritorious, and that 
 sin. Moreover, these two things are necessary in satisfaction. For the work needs to be meritorious,
 that honor may be given to God, and it must be a safeguard of virtue, that we may be preserved
 from future sins.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le pene con cui Dio ci punisce in questa vita non possano essere considerate “soddisfacenti”. Infatti, solo ciò che è meritevole può essere considerato soddisfacente, come risulta chiaro da quanto detto precedentemente (Q[14], A[2]). Ma noi non meritiamo nulla se non ciò che è nel nostro potere. Poiché quindi le pene con cui Dio ci punisce non rientrano nel nostro controllo, sembra che non possano essere considerate soddisfacenti.
+
+Obiezione 2: Inoltre, solo il bene può portare soddisfazione. Ma queste calamità colpiscono anche i malvagi, e anzi sono proprio loro a meritarle in modo particolare. Pertanto, non possono rappresentare una fonte di soddisfazione.
+
+Obiezione 3: Inoltre, la soddisfazione riguarda i peccati passati. Ma queste punizioni vengono talvolta inflitte anche a coloro che non hanno commesso alcun peccato, come nel caso di Giobbe. Pertanto, sembra che tali punizioni non siano realmente “soddisfacenti” dal punto di vista morale.
+
+Al contrario, è scritto (Romani 5:3,4): “La tribolazione genera pazienza, e la pazienza porta alla liberazione dal peccato”, come spiega un commento. Inoltre, Ambrogio afferma (Super Psalmi 118): “Anche se manca la fede, cioè la consapevolezza del peccato, la punizione è comunque sufficiente”. Pertanto, le sofferenze di questa vita sono considerate sufficienti per ottenere la salvezza.
+
+Rispondo che la compensazione per un torto commesso in passato può essere attuata sia dall’autore del torto stesso che da un altro. Quando viene attuata da un altro, tale compensazione ha un carattere vendicativo piuttosto che soddisfacente; invece, quando è effettuata dall’autore del torto, diventa anche essa soddisfacente. Pertanto, se le sofferenze inflitte da Dio a causa del peccato diventano in qualche modo un atto dello stesso colpevole, assumono un carattere soddisfacente. Diventano infatti un atto del colpevole nel momento in cui quest’ultimo le accetta come mezzo per purificare i propri peccati, utilizzandole con pazienza. Tuttavia, se rifiuta di sottomettersi a esse con pazienza, allora tali sofferenze non diventano affatto un suo atto personale e assumono soltanto un carattere vendicativo, senza alcun valore soddisfacente.
+
+Risposta all’Obiezione 1: Sebbene queste calamità non siano del tutto sotto il nostro controllo, in alcuni casi lo sono, purché le affrontiamo con pazienza. In questo modo l’uomo trasforma la necessità in virtù, rendendo tali situazioni sia meritevoli che soddisfacenti.
+
+Risposta all’Obiezione 2: Come osserva [Agostino](/figures/augustine) (De Civ. Dei i, 8), proprio come “lo stesso fuoco fa brillare l’oro e emana cattivo odore dalla paglia”, allo stesso modo gli stessi flagelli purificano i buoni e peggiorano i malvagi a causa della loro impazienza. Pertanto, sebbene questi flagelli siano comuni a entrambi, la soddisfazione derivante da essi riguarda esclusivamente i buoni.
+
+Risposta all’Obiezione 3: Questi flagelli riguardano sempre una colpa passata, non necessariamente quella della persona stessa, ma talvolta anche quella insita nella natura umana. Se infatti nella [natura umana](/axes/human_nature) non esistesse alcuna colpa, non ci sarebbe alcun castigo. Poiché però la colpa esiste già nella natura, Dio infligge il castigo a una persona anche quando questa non ne è responsabile, affinché la sua virtù possa essere considerata meritevole e lei possa evitare futuri peccati. Inoltre, queste due cose sono necessarie per che il castigo possa avere un vero significato: l’atto deve essere considerato meritevole affinché Dio possa ricevere onore, e deve rappresentare una protezione per la virtù, in modo che si possa evitare di commettere nuovi peccati.
 
 <span class="atom-split" data-atom="077" data-title="Whether the works of satisfaction are suitably enumerated?" data-chapter="Whether the works of satisfaction are suitably enumerated?" data-kind="atom" data-srclang="en"></span>
 
@@ -3478,6 +4714,13 @@ three points of inquiry:
 (2) Whether it can be in the saints in glory?
 (3) Whether in the good or bad angels?
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare i destinatari del [sacramento](/concepts/sacrament) della Penitenza: sotto questa categoria esistono tre punti di indagine:
+(1) Se la penitenza possa essere praticata anche dagli innocenti;
+(2) Se possa essere praticata anche dai santi in gloria;
+(3) Se possa essere praticata sia dagli angeli buoni che da quelli cattivi.
+
 <span class="atom-split" data-atom="079" data-title="Whether penance can be in the innocent?" data-chapter="Whether penance can be in the innocent?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that penance cannot be in the innocent. For penance consists in
@@ -3517,6 +4760,24 @@ something to be in them for which they would deserve to be punished.
 
 Reply to Objection 3: So long as the power to sin remains, there would be room for vindictive
 justice as to the habit, though not as to the act, if there were no actual sins.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la penitenza non possa esistere negli innocenti. Poiché la penitenza consiste nel pentirsi dei propri atti malvagi, e gli innocenti non hanno compiuto alcun atto malvagio, quindi la penitenza non può riguardarli.
+
+Obiezione 2: Inoltre, il nome stesso di penitenza implica punizione. Ma gli innocenti non meritano punizione. Pertanto, la penitenza non è adatta a loro.
+
+Obiezione 3: Inoltre, la penitenza coincide con la giustizia vendicativa. Ma se tutti fossero innocenti, non ci sarebbe spazio per una giustizia vendicativa. Pertanto, non ci sarebbe alcuna penitenza, e quindi nemmeno per gli innocenti.
+
+Al contrario, tutte le virtù sono infuse insieme; poiché la penitenza è una virtù, anche le altre virtù vengono infuse nell’innocente durante il Battesimo, e quindi anche la penitenza viene infusa con esse. Inoltre, si dice che un uomo possa essere “guarito” anche se non è mai stato malato fisicamente; allo stesso modo, colui che non è mai stato malato spiritualmente può anch’egli essere “guarito”. Proprio come non esiste una vera guarigione dalla ferita del peccato senza un atto di penitenza, così non esiste possibilità di guarigione senza l’abitudine alla penitenza. Pertanto, colui che non ha mai sofferto della “malattia” del peccato possiede già l’abitudine alla penitenza.
+
+Rispondo che l’abitudine si interpone tra la capacità e l’azione: poiché la rimozione di ciò che precede comporta necessariamente la rimozione di ciò che segue, ma non viceversa, la scomparsa dell’abitudine deriva dalla perdita della capacità di agire, ma non dall’assenza dell’azione stessa. Inoltre, poiché la rimozione della materia necessaria all’azione comporta anch’essa la scomparsa di quest’ultima – essendo impossibile compiere un’azione senza la materia su cui essa si basa – l’abitudine di una virtù è possibile anche in coloro per i quali tale materia non è disponibile. Ciò significa che un uomo povero può possedere l’abitudine della magnanimità, ma non l’azione stessa, poiché non dispone delle grandi ricchezze necessarie a manifestarla; tuttavia, potrebbe comunque acquisirle in futuro.
+
+Risposta all’Obiezione 1: Sebbene gli innocenti non abbiano commesso alcun peccato, tuttavia sono in grado di praticare l’abitudine della penitenza; tuttavia, questa abitudine non può mai portare all’atto concreto del pentimento, se non forse per quanto riguarda i loro peccati veniali, poiché i peccati mortali distruggono tale abitudine. Nonostante ciò, essa non è priva di significato, poiché rappresenta una perfezione del potere naturale dell’uomo.
+
+Risposta all’Obiezione 2: Sebbene in realtà non meritino alcuna punizione, è possibile che possedano qualcosa per cui dovrebbero essere puniti.
+
+Risposta all’Obiezione 3: Finché esiste la capacità di peccare, vi sarebbe spazio per una giustizia vendicativa riguardo alla tendenza al peccato, sebbene non anche riguardo all’atto effettivo del peccato stesso, anche in assenza di peccati concreti.
 
 <span class="atom-split" data-atom="080" data-title="Whether the saints in glory have penance?" data-chapter="Whether the saints in glory have penance?" data-kind="atom" data-srclang="en"></span>
 
@@ -3561,6 +4822,27 @@ will be the same act of penance in heaven as now, we answer the latter by saying
 one will be altogether conformed to the will of God. Wherefore, as God, by His antecedent will,
 but not by His consequent will, wishes that all things should be good, and therefore that there should
 be no evil, so is it with the blessed. It is this will that this holy father improperly calls penance.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i santi in gloria non abbiano la penitenza. Infatti, come afferma Gregorio (Morale, iv), “i beati ricordano i loro peccati, proprio come noi ricordiamo le nostre sofferenze senza dolore, una volta guariti”. Ma la penitenza è un dolore del cuore; pertanto, i santi in cielo non hanno la penitenza.
+
+Obiezione 2: Inoltre, i santi in cielo sono conformi a Cristo. Ma in Cristo non vi fu alcuna penitenza, poiché non esisteva fede, che è il principio della penitenza. Pertanto, nei santi in cielo non vi sarà alcuna penitenza.
+
+Obiezione 3: Inoltre, una [abitudine](/concepts/custom) è inutile se non si concretizza nell’atto che ne deriva. Ma i santi in cielo non si pentiranno mai realmente, perché, se lo facessero, ci sarebbe qualcosa in loro che contraddirebbe la loro volontà. Pertanto, l’abitudine della penitenza non esisterà in loro.
+
+Obiezione 4: D’altra parte, la penitenza fa parte della giustizia. Ma la giustizia è “eterna e immortale” (Sapienza 1:15) e rimarrà in cielo. Pertanto anche la penitenza lo sarà.
+
+Obiezione 5: Inoltre, leggiamo nelle “Vite dei Padri” che uno di loro affermò che anche Abramo si pentirà di non aver compiuto più buone azioni. Ma si dovrebbe pentire maggiormente dei mali commessi rispetto ai beni non fatti, soprattutto quando tali beni non erano obbligatori da compiere. Poiché si tratta proprio di quel tipo di bene in questione. Pertanto, ci sarà certamente rimorso per i mali commessi.
+
+Rispondo che le virtù cardinali rimarranno in cielo, ma soltanto per quanto riguarda gli atti che compiono in relazione al loro fine. Pertanto, poiché la virtù della penitenza fa parte della giustizia, che è una virtù cardinale, chiunque abbia l’abitudine di praticare la penitenza in questa vita la manterrà anche nell’altra vita; tuttavia non compirà gli stessi atti di ora, bensì un altro atto, ovvero la gratitudine verso Dio per la Sua misericordia nel perdonargli i peccati.
+
+Risposta all’Obiezione 1: Questo argomento dimostra che non possiedono lo stesso significato o funzione che la penitenza ha oggi; e noi lo ammettiamo.
+
+Risposta all’Obiezione 2: Cristo non poteva peccare; pertanto, la virtù del pentimento mancava in Lui sia in modo reale che potenziale: quindi non esiste alcuna analogia tra Lui e gli altri uomini.
+
+Risposta all’Obiezione 3: Il pentimento, inteso propriamente come quell’atto di penitenza che avviene in questa vita, non esisterà in cielo; tuttavia, l’abitudine alla penitenza non rimarrà senza utilità, poiché in cielo esisterà un altro atto simile.  
+Risposta alle Obiezioni 4 e 5: Ammettiamo il quarto argomento presentato. Tuttavia, poiché la quinta obiezione dimostra che in cielo esisterà lo stesso atto di penitenza di ora, rispondiamo affermando che in cielo le persone saranno completamente conformi alla volontà di Dio. Poiché Dio, con la sua volontà antecedente (ma non con quella conseguente), desidera che tutte le cose siano buone e quindi che non esista il male, lo stesso vale per i beati. È proprio questa volontà che questo santo padre chiama impropriamente “penitenza”.
 
 <span class="atom-split" data-atom="081" data-title="Whether an angel can be the subject of penance?" data-chapter="Whether an angel can be the subject of penance?" data-kind="atom" data-srclang="en"></span>
 
@@ -3620,6 +4902,26 @@ because in the latter there has been or could have been a sin that could be pard
 former: so that though they are like as to their present state, they differ as to their previous states,
 which penance regards directly.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che anche un angelo buono o cattivo possa essere soggetto alla penitenza. Infatti, la paura è l’inizio della penitenza; e la paura esiste negli angeli, come afferma Giacomo 2:19: “I demoni, credono e tremano”. Pertanto, anche loro possono sottoporsi alla penitenza.
+
+Obiezione 2: Inoltre, il Filosofo afferma (Etica, IX, 4) che “gli uomini malvagi sono pieni di pentimento, e questo rappresenta per loro una grande punizione”. Ora, i demoni sono ancora più malvagi, e non manca loro alcuna punizione; pertanto, anche loro possono pentirsi.
+
+Obiezione 3: Inoltre, una cosa viene più facilmente spinta verso ciò che è conforme alla sua natura che verso ciò che è contrario ad essa; così l’acqua, che viene violentemente riscaldata, ritorna spontaneamente alle sue proprietà naturali. Ora, gli angeli possono essere spinti a commettere peccati, che sono contrari alla loro natura comune; pertanto possono ancora di più tornare a ciò che è in armonia con la loro natura. E questo avviene attraverso la penitenza. Quindi, gli angeli sono suscettibili alla penitenza.
+
+Obiezione 4: Inoltre, ciò che vale per gli angeli vale altrettanto per le anime separate, come afferma Damasceno (De Fide Orth. ii, 4). Ma può esserci penitenza anche nelle anime separate, come alcuni sostengono, proprio come nelle anime dei beati in cielo. Pertanto, può esserci penitenza anche negli angeli.
+
+Al contrario, attraverso la penitenza l’uomo ottiene il perdono per il peccato che ha commesso. Ma ciò è impossibile negli angeli; pertanto essi non sono soggetti alla penitenza. Inoltre, Damasceno afferma (De Fide Orth. ii, 4) che l’uomo è soggetto alla penitenza a causa della debolezza del proprio corpo; gli angeli, invece, non sono uniti a un corpo, quindi per loro non può esistere alcuna forma di penitenza.
+
+Rispondo che, in noi, la penitenza può essere intesa in due modi: in primo luogo, come passione, e in questo senso non è altro che dolore o mestizia per un peccato commesso; sebbene, come passione, si manifesti soltanto nell’ambito delle passioni sensuali, il nome di penitenza viene comunque utilizzato per indicare quell’atto della volontà con cui una persona detesta ciò che ha fatto. Allo stesso modo, termini come amore e altre passioni vengono spesso riferiti all’aspetto intellettuale dell’anima. In secondo luogo, la penitenza può essere considerata una virtù; in questo caso, il suo atto consiste nella detestazione del male commesso, unita alla volontà di correggersi e di espiare tale male, o di placare Dio per l’offesa arrecata. La detestazione del male è naturale in ogni essere umano, poiché tutti sono destinati al bene; poiché questa tendenza non viene completamente distrutta in alcuna creatura, anche nei dannati essa persiste, e quindi permane anche la passione del pentimento, o qualcosa di simile. Questo pentimento, essendo una passione e non un’abitudine, non può esistere negli angeli beati, che non hanno commesso alcun peccato; tuttavia, è presente negli angeli malvagi, poiché lo stesso vale anche per le anime perdute. Secondo Damasceno (“De Fide Orth.” II, 4), “la morte è per gli uomini ciò che il peccato è per un angelo”; tuttavia, non esiste alcuna possibilità di perdono per i peccati degli angeli. Il peccato, infatti, costituisce l’oggetto stesso della virtù della penitenza, nella misura in cui può essere perdonato o espiato. Pertanto, poiché gli angeli malvagi non possiedono il “materiale” necessario per commettere peccati, non hanno nemmeno la capacità di compiere l’atto della penitenza, né possono sviluppare questa virtù. Di conseguenza, gli angeli non possono essere considerati soggetti della virtù della penitenza.
+
+Risposta all’Obiezione 1: In loro nasce un certo atto di penitenza dovuto alla paura, ma non si tratta di un atto che possa essere considerato una virtù. Ciò basta per rispondere anche alla Seconda Obiezione.
+
+Risposta all’Obiezione 3: Quello che è naturale in loro è completamente buono e tende al bene; tuttavia, la loro libera volontà si orienta verso il male. Poiché i comportamenti virtuosi o vili derivano dall’inclinazione della volontà libera, e non dalla natura stessa, non vi è motivo che in loro possano verificarsi atti di virtù, né effettivamente né potenzialmente, nonostante siano naturalmente inclini al bene.
+
+Risposta all’Obiezione 4: Non esiste alcuna parità tra gli angeli santi e le anime beate, poiché nelle seconde è avvenuto o avrebbe potuto avvenire un peccato che poteva essere perdonato, mentre negli angeli santi ciò non è mai accaduto: quindi, sebbene siano simili per lo stato attuale, differiscono per gli stati precedenti, i quali sono direttamente oggetto della penitenza.
+
 <span class="atom-split" data-atom="082" data-title="OF THE POWER OF THE KEYS (THREE ARTICLES)" data-chapter="OF THE POWER OF THE KEYS (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the power of the ministers of this [sacrament](/concepts/sacrament), which power depends on
@@ -3631,6 +4933,10 @@ Under the first head there are three points of inquiry:
 (1) Whether there ought to be keys in the Church?
 (2) Whether the key is the power of binding and loosing, etc.?
 (3) Whether there are two keys or only one?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il potere dei ministri di questo [sacramento](/concepts/sacrament), un potere che dipende dalle “chiavi”. A tal proposito, innanzitutto tratteremo delle “chiavi”, in secondo luogo dell’espulsione dalla Chiesa, e infine delle indulgenze, poiché queste due cose sono collegate al potere delle “chiavi”. La prima di queste analisi sarà articolata in quattro punti: (1) la natura e il significato delle “chiavi”; (2) l’uso delle “chiavi”; (3) i ministri incaricati dell’uso delle “chiavi”; (4) le persone su cui tale uso può essere esercitato. All’interno del primo punto di discussione vi sono tre interrogativi principali: (1) Dovrebbero esistere delle “chiavi” nella Chiesa? (2) La “chiave” rappresenta davvero il potere di legare e sciogliere, ecc.? (3) Esistono due “chiavi” o soltanto una?
 
 <span class="atom-split" data-atom="083" data-title="Whether there should be keys in the Church?" data-chapter="Whether there should be keys in the Church?" data-kind="atom" data-srclang="en"></span>
 
@@ -3759,6 +5065,30 @@ prayed that He may absolve, so that there may be room for the priest's absolutio
 Reply to Objection 5: The priest's act does not bear immediately on the kingdom, but on the
 sacraments, by means of which man wins to the kingdom.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la “chiave” non sia quella potenza di legare e sciogliere, grazie alla quale “il giudice ecclesiastico deve ammettere i meritevoli nel regno e escluderne gli indegni”, come affermato nel testo (Sentenze iv, D, 16). Infatti, il potere spirituale conferito da un [sacramento](/concepts/sacrament) è lo stesso del carattere morale dell’uomo. Tuttavia, la “chiave” e il carattere morale non sembrano essere la stessa cosa: il carattere morale infatti riferisce l’uomo a Dio, mentre la “chiave” lo riferisce ai suoi sudditi. Pertanto, la “chiave” non è una potenza.
+
+Obiezione 2: Inoltre, un giudice ecclesiastico è soltanto colui che possiede la giurisdizione, la quale non viene conferita contemporaneamente alle ordini. Tuttavia le “chiavi” vengono concesse nell’atto di conferire gli ordini; pertanto non avrebbe dovuto esserci alcuna menzione del giudice ecclesiastico nella definizione delle “chiavi”.
+
+Obiezione 3: Inoltre, quando un uomo possiede qualcosa di sé stesso, non ha bisogno che una qualche forza esterna lo spinga ad agire. Ora, un uomo viene ammesso al regno proprio perché è degno di esso. Pertanto, non spetta al potere delle “chiavi” il compito di ammettere i degni nel regno.
+
+Obiezione 4: Inoltre, i peccatori non sono degni del regno di Dio. Tuttavia la Chiesa prega per i peccatori affinché possano andare in cielo. Pertanto, essa non esclude coloro che non sono degni, ma li ammette, almeno dal suo punto di vista.
+
+Obiezione 5: Inoltre, in ogni serie ordinata di agenti, la fine ultima appartiene all’agente principale e non all’agente strumentale. Ma l’agente principale, per quanto riguarda la salvezza dell’uomo, è Dio. Pertanto, l’ingresso nel regno, che rappresenta la fine ultima, appartiene a Lui, e non a coloro che possiedono le “chiavi”, ovvero agli agenti strumentali o ministeriali.
+
+Rispondo che, secondo il Filosofo (De [Anima](/concepts/soul) ii, testo 33), “le facoltà vengono definite in base ai loro atti”. Pertanto, poiché la “chiave” rappresenta un tipo di facoltà, essa dovrebbe essere definita in base al suo atto o alla sua funzione; il riferimento a tale atto deve includere l’oggetto su cui essa agisce, da cui deriva la sua specificità, nonché il modo in cui essa esercita la propria funzione, dimostrando così di essere ben organizzata. Ora, l’atto della facoltà spirituale consiste nel “aprire il cielo”, non in senso assoluto – poiché esso è già aperto, come detto sopra (A[1], ad 1) – ma per questo o quel particolare individuo; e ciò non può avvenire in modo ordinato senza tenere debitamente conto della dignità di colui che viene ammesso al cielo. Pertanto, la definizione sopra menzionata della “chiave” include il genere – ovvero “facoltà”, l’oggetto su cui essa agisce – il soggetto di tale facoltà – ovvero il “giudice ecclesiastico” – e l’atto stesso, che consiste nell’escludere o ammettere qualcuno; quest’ultimo corrisponde ai due atti fondamentali di una “chiave materiale”, ovvero aprire e chiudere. L’oggetto di tale atto è indicato dalle parole “dal regno dei cieli”, mentre il modo in cui esso viene esercitato dipende dalla dignità o dall’indignità delle persone su cui si applica.
+
+Risposta all’Obiezione 1: Lo stesso potere è diretto verso due cose, di cui una ne è la causa; così come il calore, nel fuoco, ha lo scopo sia di riscaldare che di sciogliere le materie. Poiché ogni grazia e remissione in un corpo mistico provengono dalla sua “testa” (dal suo centro gerarchico), sembra che si tratti essenzialmente dello stesso potere con cui un sacerdote può consacrare, sciogliere o legare, qualora ne abbia l’autorità; esiste quindi soltanto una differenza logica, in base agli effetti che tale potere produce. Così come il fuoco, in un contesto, è considerato capace di riscaldare e, in un altro, di sciogliere. Poiché la natura dell’ordine sacerdotale non è altro che il potere di compiere quell’atto per cui tale ordine è stato istituito (se si ammette che tale potere sia dello stesso tipo di quello spirituale), allora il potere di consacrare e il potere delle “chiavi” sono essenzialmente lo stesso, ma differiscono logicamente.
+
+Risposta all’Obiezione 2: Tutta la potenza spirituale viene conferita attraverso qualche forma di consacrazione. Pertanto, la “chiave” viene data insieme all’ordine che ne stabilisce l’uso; tuttavia, per poterla utilizzare è necessaria una materia adeguata, cioè un popolo sottoposto a una determinata giurisdizione. Finché tale giurisdizione non esiste, il sacerdote possiede la “chiave”, ma non può esercitarne il potere. Poiché la “chiave” è definita in base al suo uso, anche la sua stessa definizione contiene riferimenti alla giurisdizione.
+
+Risposta all’Obiezione 3: Una persona può essere degna di possedere qualcosa in due modi: o perché ha il diritto di possederlo, e quindi chi è degno già ha il cielo aperto davanti a sé; oppure perché è giusto che lo riceva, e in questo caso il potere delle “chiavi” permette ad entrare coloro che sono degni, ma per i quali il cielo non è ancora del tutto aperto.
+
+Risposta all’Obiezione 4: Proprio come Dio rende qualcuno ostinato non immettendo malizia, ma trattenendo la grazia, così si dice che un sacerdote escluda qualcuno non perché ponga un ostacolo all’ingresso, ma perché non rimuove un ostacolo che già esiste, poiché non può farlo se Dio stesso non lo ha già rimosso. [*Qui San Tommaso segue l’opinione di Pietro Lombardo e risponde negativamente; in seguito cambiò idea. Cfr. TP, Q[62], A[1]; TP, Q[64], A[1]; TP, Q[86], A[6].] Per questo si prega Dio affinché conceda l’assoluzione, affinché vi sia spazio per l’atto di assoluzione da parte del sacerdote.
+
+Risposta all’Obiezione 5: L’atto del sacerdote non riguarda direttamente il regno di Dio, ma i sacramenti, attraverso i quali l’uomo può accedere a quel regno.
+
 <span class="atom-split" data-atom="085" data-title="Whether there are two keys or only one?" data-chapter="Whether there are two keys or only one?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there are not two keys but only one. For one lock requires but
@@ -3841,6 +5171,30 @@ Reply to Objection 5: All three Persons remit sins in the same way as one Person
 there is no need for the priest, who is the minister of the Trinity, to have three keys: and all the
 more, since the will, which is appropriated to the Holy Ghost, requires no key, as stated above (ad
 4).
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non ci siano due chiavi, ma soltanto una. Infatti, ogni serratura richiede un’unica chiave. Ora, la “serratura” la cui apertura richiede le chiavi della Chiesa è il peccato. Pertanto, la Chiesa non ha bisogno di due chiavi per un solo peccato.
+
+Obiezione 2: Inoltre, le “chiavi” vengono concesse quando vengono impartiti ordini. Ma la conoscenza non deriva sempre da un’infusione diretta; a volte viene acquisita, e non è posseduta da tutti coloro che sono stati ordinati, bensì anche da alcuni che non lo sono. Pertanto, la conoscenza non costituisce una “chiave”; esiste dunque soltanto una vera chiave, ovvero il potere di giudicare.
+
+Obiezione 3: Inoltre, il potere che il sacerdote possiede sul corpo mistico di Cristo deriva dal potere che egli ha sul vero corpo di Cristo. Ora, il potere di consacrare il vero corpo di Cristo è unico; pertanto anche il potere relativo al corpo mistico di Cristo è unico. Ma questo rappresenta una questione fondamentale. Pertanto, ecc.
+
+Obiezione 4: D’altra parte, sembra che esistano più di due “chiavi” per comprendere il funzionamento delle cose. Poiché sia la conoscenza che il potere sono necessari affinché l’uomo possa agire, lo è anche la volontà. Tuttavia, la conoscenza del giusto comportamento viene considerata una “chiave”, così come il potere di giudicare correttamente. Pertanto, anche la volontà di decidere ciò che è giusto dovrebbe essere considerata una “chiave” fondamentale.
+
+Obiezione 5: Inoltre, tutte e tre le Persone Divine rimuovono i peccati. Ora, il sacerdote, attraverso le chiavi sacramentali, è l’ufficiale incaricato della remissione dei peccati; pertanto dovrebbe disporre di tre chiavi, affinché possa essere in armonia con la Trinità.
+
+Rispondo che, ove un atto richieda che la persona destinataria soddisfi determinati requisiti, colui che deve compiere tale atto deve disporre di due elementi essenziali: la capacità di giudicare se quella persona sia idonea e la possibilità concreta di attuare l’atto stesso. Pertanto, nell’atto di giustizia – attraverso il quale a una persona viene riconosciuto ciò che merita – è necessario un giudizio accurato per stabilire se essa effettivamente meriti tale trattamento. Inoltre, per entrambi questi aspetti è indispensabile un’autorità o un potere concreto: non possiamo infatti concedere qualcosa che non sia in nostro potere; inoltre, un giudizio valido richiede anche la possibilità di farlo valere, poiché tale giudizio si basa su principi indiscutibili nel campo teorico o sul potere decisionale del giudice nel campo pratico. Poiché l’atto di concedere l’assoluzione richiede che la persona destinataria soddisfi determinati requisiti – come dimostra la definizione fornita sopra – il giudice deve disporre sia della capacità di valutare se una persona sia degna di assoluzione, sia della possibilità concreta di concederla; per entrambi questi aspetti è necessario un’autorità specifica. Pertanto possiamo distinguere due tipi di “chiavi” utilizzate in ambito giudiziario: la prima riguarda il giudizio sulla dignità della persona da assolvere, mentre la seconda riguarda l’atto stesso dell’assoluzione. Questi due aspetti sono distinti non nella natura stessa dell’autorità – poiché entrambi spettano al funzionario per via del suo ruolo – ma nel loro rapporto reciproco, poiché uno presuppone l’altro.
+
+Risposta all’Obiezione 1: Una chiave è destinata esclusivamente ad aprire una determinata serratura, ma non è affatto inappropriato che una stessa chiave possa essere utilizzata anche per un altro scopo. Ed è proprio questo il caso in questione. Infatti, è la seconda chiave – quella che rappresenta il potere di legare e sciogliere – ad aprire immediatamente “la serratura del peccato”, mentre la chiave della conoscenza indica a chi debba essere aperta tale “serratura”.
+
+Risposta all’Obiezione 2: Esistono due opinioni riguardo al “chiave della conoscenza”. Alcuni sostengono che la conoscenza, considerata come un’abitudine acquisita o infusa, sia in questo caso il “chiave”, ma non il “chiave principale”; viene chiamato “chiave” soltanto perché è subordinato a un altro “chiave”: quindi non viene considerato tale quando quest’ultimo manca, ad esempio in una persona istruita che non sia sacerdote. E sebbene i sacerdoti a volte manchino di questo “chiave”, poiché sono privi della conoscenza necessaria per compiere determinati atti, talvolta fanno ricorso alle loro capacità naturali; coloro che sostengono questa opinione chiamano queste capacità un “piccolo chiave”. Quindi, anche se la conoscenza non viene conferita insieme alle funzioni sacerdotali, l’attribuzione di tali funzioni rende quella conoscenza effettivamente un “chiave”, che prima non lo era. Questa sembra essere stata l’opinione del Maestro (Sentenze, iv, D, 19). Tuttavia, questa opinione non sembra concordare con le parole del Vangelo, dove ai santi Pietro vengono promesse le “chiavi” (Matteo 16:19); quindi non si tratta di una sola chiave, ma di due. Per questo motivo un’altra opinione sostiene che il “chiave” non sia la conoscenza considerata come abitudine, ma l’autorità per esercitare l’atto della conoscenza; tale autorità a volte può esistere senza conoscenza, mentre la conoscenza stessa a volte può essere presente senza quell’autorità. Questo si può osservare anche nei tribunali secolari: un giudice secolare può avere l’autorità di giudicare senza possedere la conoscenza del diritto, mentre un altro uomo può possedere tale conoscenza senza aver l’autorità di giudicare. Poiché l’atto di giudicare, che un uomo è tenuto a compiere grazie all’autorità conferitagli e non attraverso la sua conoscenza acquisita, non può essere svolto correttamente se mancano entrambi gli elementi sopra menzionati, l’autorità di giudicare – che rappresenta il “chiave della conoscenza” – non può essere accettata senza peccato da chi ne è privo; mentre la conoscenza, priva di tale autorità, può essere posseduta senza peccato.
+
+Risposta all’Obiezione 3: Il potere di consacrare è rivolto soltanto a un unico atto di altro genere; pertanto non viene considerato tra le “chiavi”, né viene moltiplicato come il potere delle “chiavi”, che invece riguarda atti diversi. Tuttavia, per quanto riguarda l’essenza stessa del potere e dell’autorità, esso è unico, come già detto in precedenza.
+
+Risposta all’Obiezione 4: Ognuno è libero di volere, pertanto nessuno ha bisogno di un’autorità per poter agire secondo la propria volontà; quindi il volere non può essere considerato una “chiave” per guidare le azioni umane.
+
+Risposta all’Obiezione 5: Tutte e tre le Persone remettono i peccati nello stesso modo in cui lo fa una sola Persona; pertanto non vi è alcun bisogno che il sacerdote, ministro della Trinità, possieda tre “chiavi”: tanto più che la volontà, attribuita all’Holy Spirit, non richiede alcuna chiave, come già detto sopra (al punto 4).
 
 <span class="atom-split" data-atom="086" data-title="OF THE EFFECT OF THE KEYS (FOUR ARTICLES) (1/2)" data-chapter="OF THE EFFECT OF THE KEYS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
@@ -3940,6 +5294,32 @@ the penitent to the remission of his guilt, from the fact that the guilt is alre
 neither is it unreasonable that Baptism, considered in itself, causes a disposition in one who is
 already sanctified.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’effetto delle “chiavi” su cui si basano questi quattro punti di indagine:  
+(1) Se il potere delle “chiavi” si estende anche alla remissione dei peccati?  
+(2) Se un sacerdote può rimuovere la punizione del peccato?  
+(3) Se un sacerdote può imporre obblighi in virtù del potere delle “chiavi”?  
+(4) Se può sciogliere o imporre vincoli secondo il proprio giudizio?
+
+Si estende il potere delle chiavi alla remissione dei peccati? Qui San Tommaso segue l’opinione di Pietro Lombardo e risponde negativamente. In un secondo momento della sua vita cambiò idea. Cfr. TP, Q[62], A[1]; TP, Q[64], A[1]; TP, Q[86], A[6].
+
+Obiezione 1: Sembra che il potere delle chiavi si estenda anche alla rimozione dei peccati. Infatti ai discepoli fu detto (Giovanni 20:23): “I peccati che perdonerete, saranno perdonati”. Ora, ciò non fu detto soltanto in riferimento alla dichiarazione dei peccati, come afferma il Maestro (Sentenze iv, D, 18), poiché in tal caso il sacerdote del Nuovo Testamento non avrebbe avuto più potere di quello dell’Antico Testamento. Pertanto, egli esercita un potere effettivamente legato alla rimozione dei peccati.
+
+Obiezione 2: Inoltre, nella Penitenza la grazia viene concessa per la remissione del peccato. Ora il sacerdote è colui che amministra questo [sacramento](/concepts/sacrament) in virtù delle “chiavi”. Pertanto, poiché la grazia è contrapposta al peccato – non riguardo alla punizione, ma riguardo alla colpa stessa – sembra che il sacerdote agisca effettivamente per la remissione del peccato attraverso l’uso delle “chiavi”.
+
+Obiezione 3: Inoltre, il sacerdote riceve più potere attraverso la sua consacrazione di quanto l’acqua battesimale ne riceva attraverso la sua santificazione. L’acqua battesimale, infatti, riceve il potere “di toccare il corpo e purificare il cuore”, come afferma [Agostino](/figures/augustine) (Trattato lxxx in Giovanni). Pertanto, molto di più il sacerdote riceve, nella sua consacrazione, nel potere di purificare il cuore dal peccato.
+
+Al contrario, il Maestro ha affermato sopra (Sentenza iv, D, 18) che Dio non ha concesso al ministro il potere di cooperare con Lui nella purificazione interiore dell’anima. Se quindi il ministro potesse rimuovere i peccati in termini di loro colpa, ciò significherebbe che coopera effettivamente con Dio in questa operazione di purificazione. Pertanto, il potere delle “chiavi” non si estende alla remissione della colpa dei peccati. Inoltre, i peccati possono essere rimossi soltanto per mezzo dello Spirito Santo; ma nessuno ha il potere di donare lo Spirito Santo, come ha detto il Maestro sopra (Sentenza i, D, 14). Di conseguenza, nessuno può nemmeno rimuovere i peccati in termini della loro colpa.
+
+Rispondo che, secondo Hugh (De Sacramentis, ii), “i sacramenti, per virtù della loro santificazione, contengono una grazia invisibile”. Ora questa santificazione è talvolta essenziale al sacramento sia riguardo alla materia che al ministro che lo celebra; ciò si osserva, ad esempio, nel Sacramento dell’Confermazione, in cui la virtù sacramentale risiede sia nella materia che nel ministro. Altre volte, invece, l’essenza del sacramento richiede soltanto la santificazione della materia; è il caso del Battesimo, che non ha un ministro necessario per la sua celebrazione, e in questo caso tutta la virtù sacramentale risiede nella materia stessa. Ancora altre volte, l’essenza del sacramento richiede la consacrazione o santificazione del ministro senza alcuna santificazione della materia; è il caso del Sacramento della Penitenza, in cui l’intera virtù sacramentale risiede nel ministro che lo celebra. Pertanto, il potere delle chiavi, che appartiene al sacerdote, ha lo stesso rapporto con l’effetto del Sacramento della Penitenza quanto la virtù contenuta nell’acqua battesimale ha con l’effetto stesso del Battesimo. Il Battesimo e il Sacramento della Penitenza hanno in qualche modo un effetto simile, poiché entrambi sono direttamente destinati a rimuovere il peccato; tuttavia differiscono nel fatto che il Sacramento della Penitenza, essendo i propri atti del ricevente la sua materia stessa, non può essere conferito se non ad adulti, i quali devono essere predisposti ad accogliere l’effetto sacramentale; mentre il Battesimo viene conferito sia ad adulti che a bambini o ad altre persone prive di uso della ragione, in modo che anche i bambini ricevano grazia e remissione dei peccati senza alcuna preparazione preliminare, mentre gli adulti ne hanno bisogno, poiché devono essere liberati dall’insincerità. A volte questa preparazione precede il Battesimo nel tempo, essendo sufficiente per ricevere la grazia prima ancora di essere battezzati; altre volte, invece, avviene contemporaneamente al battesimo stesso, e in questo caso la grazia della remissione dei peccati viene concessa attraverso il battesimo stesso. D’altra parte, la grazia non viene mai conferita attraverso il Sacramento della Penitenza se il ricevente non è già predisposto ad accoglierla, sia contemporaneamente che in precedenza. Pertanto, il potere delle chiavi agisce sulla remissione dei peccati, sia perché desiderato dal ricevente sia perché effettivamente esercitato; allo stesso modo avviene con le acque battesimali. Ma proprio come il Battesimo non agisce direttamente come fonte di grazia, ma soltanto come strumento che prepara il ricevente ad accoglierla, così anche il potere delle chiavi opera in questo modo: Dio è l’unico che rimuove direttamente il peccato; il Battesimo agisce attraverso il suo potere, come uno strumento inanimato, e il sacerdote come uno strumento animato.
+Il sacerdote agisce in qualità di ministro; pertanto è evidente che il potere delle chiavi è istituito al fine di concedere la remissione dei peccati, non come causa diretta di tale remissione, ma come strumento per realizzarla. Di conseguenza, se una persona, prima di ricevere l’assoluzione, non fosse perfettamente disposta ad accogliere la grazia divina, riceverebbe comunque quella grazia nel momento stesso della confessione e dell’assoluzione sacramentale, a condizione che non ostacoli alcun aspetto del rito. Se infatti il potere delle chiavi fosse destinato esclusivamente alla remissione delle pene, come alcuni sostengono, non sarebbe necessario desiderare effettivamente di ricevere tale grazia affinché i propri peccati venissero perdonati; lo stesso vale per gli altri sacramenti che, sebbene istituiti non per la remissione dei peccati, ma contro le pene, non richiedono comunque un simile desiderio. Tuttavia, questo ci permette di comprendere che il potere delle chiavi è effettivamente destinato alla remissione dei peccati, poiché l’uso di tali strumenti sacramentali richiede sempre una disposizione volontaria da parte di colui che li riceve. Lo stesso vale per il Battesimo, se mai venisse conferito esclusivamente agli adulti.
+
+Risposta all’Obiezione 1: Come afferma il Maestro nel testo (Sentenze iv, D, 18), il potere di perdonare i peccati è stato affidato ai sacerdoti non affinché possano perdonarli con la propria forza – poiché ciò appartiene a Dio – ma affinché, in qualità di ministri, possano dichiarare l’operazione divina del perdono. Ciò avviene in tre modi:  
+1. Attraverso una dichiarazione riguardante il perdono futuro, senza che i sacerdoti vi cooperino in alcun modo; in questo senso, i sacramenti dell’Antico Testamento simboleggiavano l’operazione divina, ma il sacerdote non agiva direttamente nel perdonare i peccati.  
+2. Attraverso una dichiarazione riguardante il perdono presente, senza che i sacerdoti vi partecipino in alcun modo; secondo alcuni, i sacramenti del Nuovo Testamento simboleggiano semplicemente la concessione della grazia da parte di Dio, e non possiedono un potere effettivo per produrre tale grazia. Secondo questa opinione, anche il potere delle chiavi sacerdotali si limita a dichiarare l’operazione divina che ha come risultato la remissione dei peccati al momento della celebrazione del sacramento.  
+3. Attraverso una dichiarazione che simboleggia l’operazione divina che provoca immediatamente la remissione dei peccati, e attraverso la cooperazione concreta dei sacerdoti in tale processo; secondo un’altra opinione più diffusa, i sacramenti del Nuovo Testamento dichiarano il lavaggio dei peccati operato da Dio. In questo modo, anche il sacerdote del Nuovo Testamento afferma che la persona che riceve il sacramento è assolta dai suoi peccati, poiché ciò che viene attribuito al potere dei ministri deve essere coerente con il significato stesso del sacramento. Non è nemmeno irragionevole ritenere che le chiavi della Chiesa possano disporre il penitente alla remissione dei suoi peccati, dato che questi sono già stati rimessi; allo stesso modo, non è irragionevole considerare che il Battesimo, in sé considerato, produca una disposizione interiore nel credente che è già stato santificato.
+
 <span class="atom-split" data-atom="087" data-title="OF THE EFFECT OF THE KEYS (FOUR ARTICLES) (2/2)" data-chapter="OF THE EFFECT OF THE KEYS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 2: Neither the [sacrament](/concepts/sacrament) of Penance, nor the sacrament of Baptism, by its
@@ -3949,6 +5329,10 @@ Cf. TP, Q[62], A[1]; TP, Q[64], A[1]; TP, Q[86], A[6]]. Hence the Reply to the T
 is evident.
 The other arguments show that the power of the keys does not effect the remission of guilt
 directly, and this is to be granted.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 2: Né il [)sacramento](/concepts/sacrament) della Penitenza, né quello del Battesimo, con la loro azione, procurano direttamente la grazia o la remissione dei peccati, ma soltanto in modo indiretto. [*San Tommaso segue qui l’opinione di Pietro Lombardo e risponde negativamente; in seguito cambiò idea. Cfr. TP, Q[62], A[1]; TP, Q[64], A[1]; TP, Q[86], A[6. Pertanto, la risposta alla Terza Obiezione è evidente. Gli altri argomenti dimostrano inoltre che il potere delle “chiavi” non ha effetto diretto sulla remissione dei peccati, e ciò va ammesso.
 
 <span class="atom-split" data-atom="088" data-title="Whether a priest can remit sin as to the punishment?" data-chapter="Whether a priest can remit sin as to the punishment?" data-kind="atom" data-srclang="en"></span>
 
@@ -4044,6 +5428,30 @@ the whole punishment is remitted, as we have already stated (Q[5], A[2]). Conseq
 unreasonable, if by frequent confession even the whole punishment be remitted, that a sin remain
 altogether unpunished, since Christ made satisfaction for its punishment.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un sacerdote non possa rimuovere il peccato, almeno per quanto riguarda la punizione. Infatti, il peccato merita una punizione sia eterna che temporale. Ma dopo l’assoluzione del sacerdote, il penitente è comunque obbligato a subire una punizione temporale, sia nel Purgatorio che in questo mondo. Pertanto, il sacerdote non rimuove affatto la punizione.
+
+Obiezione 2: Inoltre, il sacerdote non può anticipare il giudizio di Dio. Ma la giustizia divina stabilisce la punizione che i pentiti devono subire; pertanto, il sacerdote non può assolutamente ridurla in alcuna misura.
+
+Obiezione 3: Inoltre, un uomo che ha commesso un peccato lieve non è meno suscettibile al potere delle chiavi sacramentali di uno che ha commesso un peccato più grave. Ora, se la punizione per il peccato più grave venisse in qualche modo ridotta attraverso le azioni del sacerdote, sarebbe possibile che esistesse un peccato così lieve da non meritare una punizione maggiore di quella che è stata ridotta per il peccato più grave. Pertanto, il sacerdote potrebbe rimuovere l’intera punizione dovuta per quel peccato lieve: il che è falso.
+
+Obiezione 4: Inoltre, l’intera punizione temporale dovuta per un peccato è di una sola natura. Pertanto, se con la prima assoluzione viene tolto qualcosa dalla punizione, sarà possibile che con una seconda assoluzione venga tolto ancora di più; in questo modo, l’assoluzione potrebbe essere ripetuta all’infinito, fino a eliminare completamente la punizione stessa, poiché anche la seconda assoluzione non è meno efficace della prima. Di conseguenza, quel peccato rimarrebbe del tutto impunito, il che è assurdo.
+
+Al contrario, la chiave sta nel potere di legare e sciogliere. Tuttavia, il sacerdote può infliggere una punizione temporale; pertanto, può anche assolvere dalla stessa. Inoltre, il sacerdote non può rimuovere il peccato né in termini di colpa (*San Tommaso segue qui l’opinione di Pietro Lombardo e risponde negativamente; in seguito cambiò idea. Cfr. TP, Q[62], A[1]; TP, Q[64], A[1]; TP, Q[86], A[6]*), né in termini di punizione eterna, per ragioni analoghe. Se quindi non può rimuovere il peccato riguardo alla punizione temporale, non potrebbe assolutamente rimuoverlo in alcun modo, il che è del tutto contrario alle parole del Vangelo.
+
+Rispondo che, qualunque cosa si possa dire sull’effetto del Battesimo su colui che ha già ricevuto la grazia, lo stesso vale per l’effetto dell’esercizio effettivo del potere delle chiavi su colui che è già pentito. Infatti, un uomo può ottenere la grazia della remissione dei propri peccati, in termini di loro gravità, attraverso la fede e la penitenza, prima ancora di ricevere il Battesimo; ma quando successivamente riceve effettivamente il Battesimo, la sua grazia aumenta e viene completamente assolto dal debito di punizione, poiché allora diventa partecipante alla Passione di Cristo. Allo stesso modo, quando un uomo, attraverso la penitenza, ha ricevuto il perdono dei propri peccati, in termini di loro gravità e quindi anche del debito di punizione eterna (che viene rimessa insieme alla colpa stessa), grazie al potere delle chiavi che traggono la loro efficacia dalla Passione di Cristo, la sua grazia aumenta e la punizione temporale viene rimossa, quella parte del debito che rimaneva dopo il perdono della colpa. Tuttavia, questa punizione temporale non viene completamente rimossa, come avviene nel Battesimo, ma solo in parte; poiché l’uomo che viene rigenerato attraverso il Battesimo si conforma alla Passione di Cristo, ricevendo in sé tutta l’efficacia della Passione di Cristo, efficacia sufficiente a cancellare ogni punizione, così che non rimanga nulla del debito dovuto per i peccati commessi in precedenza. Infatti, nulla dovrebbe essere imputato a un uomo come causa di punizione, se non ciò che egli stesso ha compiuto; e nel Battesimo l’uomo inizia una nuova vita, diventando un “nuovo uomo” attraverso l’acqua battesimale, così che non rimane più alcun debito per i peccati commessi in passato. D’altra parte, nella Penitenza, l’uomo non inizia una nuova vita, poiché in essa non nasce di nuovo, ma viene guarito; pertanto, grazie al potere delle chiavi che agiscono nel [)sacramento](/concepts/sacrament) della Penitenza, la punizione non viene completamente rimossa, ma ne viene ridotta una parte; quel debito di punizione temporale che potrebbe comunque rimanere dopo la remissione della punizione eterna. Ciò vale non solo per la punizione temporale che il penitente deve pagare al momento della confessione, come alcuni sostengono (poiché in tal caso la confessione e l’assoluzione sacramentale diventerebbero semplici oneri, cosa che non si può dire dei sacramenti del [Nuovo Testamento](/concepts/divine_law)), ma anche per la punizione dovuta nel Purgatorio; quindi, colui che viene assolto e muore prima di aver compiuto la propria penitenza subirà una punizione meno severa nel Purgatorio rispetto a chi fosse morto senza ricevere l’assoluzione.
+
+Risposta all’Obiezione 1: Il sacerdote non rimuove l’intera punizione temporale, ma solo una sua parte; pertanto il pentito rimane comunque obbligato a subire una punizione adeguata.
+
+Risposta all’Obiezione 2: La Passione di Cristo fu sufficientemente efficace per espiare i peccati di tutto il mondo; pertanto, senza pregiudicare la giustizia divina, è possibile ridurre la punizione che un peccatore merita, nella misura in cui l’effetto della Passione di Cristo raggiunge quel peccatore attraverso i sacramenti della Chiesa.
+
+Risposta all’Obiezione 3: Per ogni peccato deve esistere una punizione adeguata, al fine di fornire un rimedio contro di esso. Pertanto, anche se, a seguito dell’assoluzione, una certa misura della punizione dovuta a un grave peccato viene ridotta, ciò non significa che la stessa misura venga sempre ridotta per ogni singolo peccato; altrimenti alcuni peccati rimarrebbero del tutto privi di punizione. Invece, grazie all’uso delle “chiavi sacramentali”, le punizioni dovute ai vari peccati vengono ridotte in proporzione adeguata.
+
+Risposta all’Obiezione 4: Alcuni sostengono che, con la prima assoluzione, venga perdonata la maggior parte del peccato grazie al potere delle chiavi sacramentali; tuttavia, affermano che anche la seconda confessione sia valida, in virtù dell’insegnamento ricevuto, della garanzia aggiuntiva offerta dal penitente, delle preghiere del sacerdote o del confessore, e infine del merito derivante dalla vergogna provata per il proprio peccato.  
+Ma ciò non sembra corretto: sebbene possa esserci motivo di ripetere la confessione, non esiste alcun motivo per ripetere l’assoluzione, soprattutto quando il penitente non ha motivi di dubitare della precedente assoluzione; anzi, potrebbe nutrire lo stesso dubbio dopo la seconda assoluzione come dopo la prima. Inoltre, durante la seconda confessione non sarebbe necessario che il confessore disponga delle chiavi sacramentali, se il loro potere non avesse alcun effetto in tale contesto.  
+Per queste ragioni, altri affermano che anche con la seconda assoluzione venga perdonata una parte della punizione, poiché l’assoluzione concessa una seconda volta aumenta la grazia divina; e maggiore è la grazia ricevuta, minore rimane il “macchio” del peccato precedente, e quindi minore è la punizione necessaria per eliminarlo. Pertanto, anche quando un uomo viene assolto per la prima volta, una parte della sua punizione viene comunque perdonata, a seconda di come si disponga ad accogliere la grazia divina; tale disposizione può essere così profonda da far sì che, grazie alla propria contrizione, tutta la punizione venga completamente rimossa, come abbiamo già detto (Q[5], A[2]). Di conseguenza, non è irragionevole che, attraverso una frequente confessione, l’intera punizione venga perdonata, e quindi che un peccato rimanga del tutto impunito, poiché Cristo ha già pagato in suo luogo la pena dovuta.
+
 <span class="atom-split" data-atom="089" data-title="Whether the priest can bind through the power of the keys?" data-chapter="Whether the priest can bind through the power of the keys?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the priest cannot bind by virtue of the power of the keys. For
@@ -4086,6 +5494,24 @@ latter is enjoined by the priest, has been said in the article.
 
 Reply to Objection 3: Even the Passion of Christ binds us to some punishment whereby we
 are conformed to Him.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il sacerdote non possa legare gli uomini in virtù del potere delle chiavi. Infatti, il potere sacramentale è stato istituito come rimedio contro il peccato; ora, il “legare” non rappresenta certo un rimedio al peccato, ma sembra anzi contribuire ad aggravarlo. Pertanto, con il potere delle chiavi, che è un potere sacramentale, il sacerdote non può legare gli uomini.
+
+Obiezione 2: Inoltre, proprio come “liberare” o “aprire” significa rimuovere un ostacolo, allo stesso modo “legare” significa porre un ostacolo. Ora, l’ostacolo al cammino verso il cielo è il peccato, che non può essere imposto su di noi da cause esterne, poiché nessun peccato viene commesso se non per volontà propria. Pertanto, il sacerdote non può “legare” le persone.
+
+Obiezione 3: Inoltre, le chiavi traggono la loro efficacia dalla Passione di Cristo. Ma il legame che esse stabiliscono non è un effetto della Passione stessa. Pertanto, il sacerdote non può stabilire tale legame attraverso il potere delle chiavi.
+
+Al contrario, è scritto (Matteo 16:19): “Quello che legherete sulla terra, sarà legato anche in cielo.” Inoltre, le facoltà razionali sono destinate ad operare sugli opposti. Ma il potere delle chiavi è una facoltà razionale, poiché comporta con sé la possibilità di scegliere liberamente; pertanto è anch’esso destinato ad agire sugli opposti. Quindi, se può sciogliere, può anche legare.
+
+Rispondo che l’operazione del sacerdote nell’utilizzare le chiavi è conforme all’operazione di Dio, di cui egli è ministro. L’operazione di Dio si estende sia alla colpa che al castigo: riguardo alla colpa, infatti, essa la elimina direttamente; riguardo al castigo, invece, lo infligge direttamente, poiché Dio può sia perdonare che punire. Allo stesso modo, sebbene il sacerdote, nell’assolvere, eserciti un’operazione volta alla remissione della colpa, nel legare il peccatore non agisce direttamente sulla colpa stessa (a meno che non si intenda che egli “legi” impedendo l’assoluzione e dichiarando il penitente vincolato dal castigo), ma possiede il potere sia di legare che di liberare riguardo al castigo. Libera infatti da quel castigo che rimuove, mentre lo impone per quanto riguarda il resto della pena. Questo avviene in due modi: innanzitutto, in termini di quantità complessiva del castigo; in questo caso, il sacerdote lega il peccatore impedendogli la liberazione e dichiarandolo vincolato dal castigo; in secondo luogo, riguardo a un particolare tipo di punizione, imponendola direttamente.
+
+Risposta all’Obiezione 1: La parte rimanente della punizione che il sacerdote impone al pentito è proprio il mezzo che lo purifica dal peccato.
+
+Risposta all’Obiezione 2: Non solo il peccato, ma anche la punizione rappresentano un ostacolo al raggiungimento del cielo; e il modo in cui quest’ultima viene prescritta dal sacerdote è stato già spiegato nell’articolo precedente.
+
+Risposta all’Obiezione 3: Anche la Passione di Cristo ci lega a una sorta di punizione attraverso la quale veniamo conformati a Lui.
 
 <span class="atom-split" data-atom="090" data-title="Whether the priest can bind and loose according to his own judgment?" data-chapter="Whether the priest can bind and loose according to his own judgment?" data-kind="atom" data-srclang="en"></span>
 
@@ -4141,6 +5567,24 @@ Reply to Objection 3: Christ had the power of "excellence" in the sacraments, so
 own authority, He could remit the punishment wholly or in part, just as He chose. Therefore there
 is no comparison between Him and those who act merely as ministers.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il sacerdote possa imporre o revocare le penitenze secondo il proprio giudizio. Infatti, Gerolamo [*Cfr. Can. 86, Mensuram, De Poenit. Dist. i*] afferma: “I canoni non stabiliscono con precisione la durata delle penitenze, né indicano in modo dettagliato come debba essere espiato ogni peccato; lasciano invece questa decisione al giudizio di un sacerdote discreto”. Pertanto, sembra che il sacerdote possa agire secondo la propria valutazione.
+
+Obiezione 2: Inoltre, “Il Signore lodò lo steward ingiusto, perché aveva agito con saggezza” (Lc 16:5), poiché aveva concesso sconti generosi ai debitori del suo padrone. Ma Dio è molto più incline alla misericordia di qualsiasi sovrano terreno. Pertanto, sembra che più il sacerdote riduce la punizione, più meriti lode.
+
+Obiezione 3: Inoltre, ogni azione di Cristo costituisce una nostra guida. In alcuni casi, Egli non impose alcuna punizione ai peccatori, ma soltanto il desiderio di correggersi, come nel caso della donna adultera (Giovanni 8). Pertanto, sembra che anche il sacerdote, essendo il vicario di Cristo, possa, a proprio giudizio, rimuovere la punizione, sia completamente che parzialmente.
+
+Al contrario, Gregorio VII [*Cfr. Acta Concilii Romani V, Canone 5*] afferma: “Declariamo che una penitenza sia priva di valore se non viene imposta secondo l’autorità dei santi padri e in proporzione al peccato commesso”. Pertanto, sembra che essa non dipenda interamente dal giudizio del sacerdote. Inoltre, l’atto di imporre una penitenza richiede discrezionalità; se il sacerdote potesse imporre o rimuovere qualsiasi tipo di penitenza a suo piacimento, non avrebbe bisogno di usare la discrezione, poiché non ci sarebbero spazi per errori. Quindi, ancora una volta, si conferma che tale decisione non dipende interamente dal giudizio del sacerdote.
+
+Rispondo che, nell’uso delle chiavi sacramentali, il sacerdote agisce come strumento e ministro di Dio. Ora, nessun strumento può esercitare un effetto efficace se non è mosso dall’agente principale, cioè da Dio stesso. Per questo motivo Dionigi afferma (Hierarchia Eclesiastica, cap. ult.) che “i sacerdoti debbano utilizzare i loro poteri gerarchici nella misura in cui sono guidati da Dio”. Un segno di ciò è il fatto che, prima che il potere delle chiavi venisse concesso a Pietro (Matteo 16:19), viene menzionata la rivelazione della divinità concessagli da Dio; inoltre, il dono dello Spirito Santo, che “guida i figli di Dio” (Romani 8:14), viene ricordato prima che agli apostoli venisse concesso il potere di perdonare i peccati. Pertanto, se qualcuno osasse utilizzare tale potere contro la volontà divina, non otterrebbe alcun effetto, come afferma Dionigi; inoltre, si allontanerebbe dall’ordine divino e commetterebbe un peccato. Inoltre, poiché le punizioni stabilite dalla legge sono destinate a guarire, proprio come i medicinali prescritti dal medico non sono adatti a tutti, ma devono essere modificati in base alla valutazione di quest’ultimo, che segue la scienza medica e non il proprio capriccio, allo stesso modo le punizioni stabilite dalla Chiesa non sono adatte a tutti, ma devono essere modificate secondo il giudizio del sacerdote guidato dall’istinto divino. Pertanto, talvolta il sacerdote, mosso dall’istinto divino, rinuncia a infliggere la punizione piena per un singolo peccato, affinché la severità della pena non porti il peccatore alla disperazione e lo allontani completamente dal pentimento.
+
+Risposta all’Obiezione 1: Questo giudizio dovrebbe essere guidato interamente dall’istinto divino.
+
+Risposta all’Obiezione 2: Il custode viene anche lodato per aver agito con saggezza. Pertanto, nella riduzione della punizione dovuta, è necessaria discrezionalità.
+
+Risposta all’Obiezione 3: Cristo possedeva il potere dell’“eccellenza” nei sacramenti; pertanto, con la Sua autorità, poteva rimuovere completamente o parzialmente la punizione, secondo la Sua volontà. Pertanto, non esiste alcuna analogia tra Lui e coloro che agiscono soltanto in qualità di ministri.
+
 <span class="atom-split" data-atom="091" data-title="OF THE MINISTERS OF THE KEYS (SIX ARTICLES)" data-chapter="OF THE MINISTERS OF THE KEYS (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the ministers and the use of the keys: under which head there are six
@@ -4152,6 +5596,16 @@ points of inquiry:
 (5) Whether wicked priests have the effective use of the keys?
 (6) Whether those who are schismatics, heretics, excommunicate, suspended or degraded, have
 the use of the keys?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare i ministri e l’uso delle chiavi: in questa materia esistono sei punti da indagare:  
+(1) Il sacerdote della Legge possedeva le chiavi?  
+(2) Cristo possedeva le chiavi?  
+(3) Solo i sacerdoti hanno le chiavi?  
+(4) Gli uomini santi che non sono sacerdoti possiedono le chiavi o ne possono fare uso?  
+(5) I sacerdoti malvagi possono effettivamente utilizzare le chiavi?  
+(6) Coloro che sono scismatici, eretici, escomunicati, sospesi o degradati possono utilizzare le chiavi?
 
 <span class="atom-split" data-atom="092" data-title="Whether the priest of the Law had the keys?" data-chapter="Whether the priest of the Law had the keys?" data-kind="atom" data-srclang="en"></span>
 
@@ -4196,6 +5650,24 @@ Reply to Objection 3: They had no spiritual power, since, by the sacraments of t
 cleansed men not from their sins but from irregularities, so that those who were cleansed by them
 could enter into a tabernacle which was "made with hand."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i sacerdoti della Legge possedessero le “chiavi”. Infatti, la detenzione di tali “chiavi” deriva dal fatto di ricevere ordini specifici. Ma essi ricevevano questi ordini proprio perché erano chiamati sacerdoti. Pertanto, i sacerdoti della Legge possedevano davvero le “chiavi”.
+
+Obiezione 2: Inoltre, come afferma il Maestro (Sentenze iv, D, 18), esistono due “chiavi”: la conoscenza della discrezione e il potere di giudizio. Ma i sacerdoti della Legge possedevano autorità su entrambe queste cose; pertanto, essi possedevano le “chiavi”.
+
+Obiezione 3: Inoltre, i sacerdoti della Legge possedevano un certo potere su il resto del popolo, e tale potere non era di natura temporale; altrimenti il potere regale non sarebbe stato diverso dal potere sacerdotale. Pertanto si trattava di un potere spirituale. Ed è proprio questo il punto chiave. Quindi loro possedevano effettivamente quel “potere”.
+
+Al contrario, le chiavi sono destinate ad aprire il regno celeste, che non avrebbe potuto essere aperto prima della Passione di Cristo. Pertanto, il sacerdote della Legge non possedeva queste chiavi. Inoltre, i sacramenti dell’[vecchio Testamento](/concepts/divine_law) non conferivano grazia. Ora, la porta del regno celeste poteva essere aperta soltanto mediante la grazia; quindi non poteva essere aperta attraverso quei sacramenti, e di conseguenza i sacerdoti che li amministravano non possedevano le chiavi del regno celeste.
+
+Rispondo che alcuni hanno sostenuto che, sotto l’Antico Testamento, le “chiavi del regno” fossero nelle mani dei sacerdoti, poiché a loro era conferito il diritto di infliggere punizioni per i peccati, come indicato in Levitico 5; tale diritto sembrava essere legato proprio alle “chiavi”. Tuttavia, all’epoca quelle “chiavi” erano incomplete, mentre ora sono complete, poiché Cristo le ha conferite ai sacerdoti del Nuovo Testamento. Ma ciò sembra contraddire l’intento dell’Apostolo nell’Epistola agli Ebrei (Ebrei 9:11-12): in quel testo il sacerdozio di Cristo viene considerato superiore a quello dell’Antico Testamento, poiché Cristo è venuto come “sommo sacerdote delle cose buone future” e ci ha introdotti, “con il proprio sangue”, in un tabernacolo non costruito dall’uomo, diversamente dal tabernacolo dell’Antico Testamento, che era realizzato con sangue di capre e buoi. È quindi evidente che il potere di quel sacerdozio non si estendeva alle cose celesti, ma soltanto alla loro ombra; pertanto dobbiamo riconoscere che i sacerdoti dell’Antico Testamento non possedevano realmente le “chiavi del regno”, ma che tali “chiavi” erano già preannunciate in loro.
+
+Risposta all’Obiezione 1: Le chiavi del regno appartengono al sacerdozio che introduce l’uomo nel regno celeste; tuttavia, il sacerdozio di Levi non era tale; pertanto, le sue chiavi riguardavano non il cielo, ma un tabernacolo terreno.
+
+Risposta all’Obiezione 2: I sacerdoti della Legge Antica avevano l’autorità di discernere e giudicare, ma non quella di ammettere coloro che giudicavano nel regno celeste, bensì soltanto nella “ombra” delle realtà divine.
+
+Risposta all’Obiezione 3: Non possedevano alcun potere spirituale, poiché, attraverso i sacramenti della Legge, essi purificavano gli uomini non dai loro peccati, ma soltanto da quelle irregolarità che impedivano loro di accedere al tempio “costruito con le mani”.
+
 <span class="atom-split" data-atom="093" data-title="Whether Christ had the key?" data-chapter="Whether Christ had the key?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ did not have the key. For the key goes with the character
@@ -4223,6 +5695,20 @@ conformed to Christ, whereas in Christ it results not from a character, but from
 
 Reply to Objection 2: The key, which Christ had was not sacramental, but the origin of the
 sacramental key.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo non possedesse la “chiave”. Infatti, la “chiave” è legata al carattere dell’ordine. Ma Cristo non aveva tale carattere; pertanto, non possedeva la “chiave”.
+
+Obiezione 2: Inoltre, Cristo possedeva il potere dell’“eccellenza” nei sacramenti, tanto da poter produrre l’effetto sacramentale senza il rito sacramentale stesso. Ora, la “chiave” è un elemento essenziale per i sacramenti; pertanto, a Cristo non era necessaria alcuna “chiave”, e avrebbe avuto senso solo se ne fosse stata dotato, il che, in realtà, non accadeva.
+
+Al contrario, è scritto (Apocalisse 3:7): “Queste cose dice colui che possiede la chiave di Davide”, ecc.
+
+Rispondo che il potere di compiere qualcosa esiste sia nell’strumento che nell’agente principale, ma non nello stesso modo: esso è infatti più pienamente presente nell’ultimo. Ora, il potere delle chiavi che possediamo, come altri poteri sacramentali, ha natura strumentale; mentre in Cristo, considerato agente principale nella questione della nostra salvezza, tale potere risiede – per autorità, se Lo consideriamo Dio, e per merito, se Lo consideriamo uomo [*Per la dottrina successiva di San Tommaso su questo punto, si veda TP, Q[48], A[6]; FS, Q[112], A[1], AD 1*]. Ma il concetto stesso di “chiave” esprime il potere di aprire e chiudere, sia che tale azione venga compiuta dall’agente principale che da un strumento. Pertanto dobbiamo ammettere che Cristo possedesse questa chiave, ma in modo più elevato rispetto ai suoi ministri; per questo si dice che Egli abbia la “chiave dell’eccellenza”.
+
+Risposta all’Obiezione 1: Un “carattere” implica l’idea di qualcosa che deriva da un altro; pertanto il potere delle “chiavi” che riceviamo da Cristo deriva dal carattere grazie al quale veniamo conformati a Lui. In Cristo, invece, tale potere non deriva da un “carattere”, ma dalla Sua stessa essenza principale.
+
+Risposta all’Obiezione 2: La “chiave” che Cristo possedeva non era di natura sacramentale, ma rappresentava l’origine della chiave sacramentale stessa.
 
 <span class="atom-split" data-atom="094" data-title="Whether priests alone have the keys?" data-chapter="Whether priests alone have the keys?" data-kind="atom" data-srclang="en"></span>
 
@@ -4285,6 +5771,28 @@ woman. Consequently a woman has neither the key of order nor the key of jurisdic
 a certain use of the keys is allowed to women, such as the right to correct other women who are
 under them, on account of the danger that might threaten if men were to dwell under the same roof.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non siano soltanto i preti ad avere le “chiavi”. Infatti Isidoro afferma (Etym. vii, 12) che “coloro che custodiscono la porta devono distinguere il bene dal male, al fine di ammettere il bene e tenere fuori il male”. Ora questa è proprio la definizione delle “chiavi”, come risulta da quanto detto in precedenza (Q[17], A[2]). Pertanto, non sono soltanto i preti ad avere le chiavi, ma anche coloro che custodiscono la porta.
+
+Obiezione 2: Inoltre, le “chiavi” vengono conferite ai sacerdoti quando, attraverso l’unzione, ricevono potere da Dio. Ma anche i re dei popoli cristiani ricevono potere da Dio e vengono consacrati attraverso l’unzione. Pertanto, non sono solo i sacerdoti ad avere le “chiavi”.
+
+Obiezione 3: Inoltre, il sacerdozio è un ordine che appartiene a una singola persona. Tuttavia, a volte sembra che più persone insieme possiedano tale “chiave”, poiché alcuni capitoli ecclesiastici possono emettere sentenze di scomunica, il che riguarda appunto il potere legato alle “chiavi”. Pertanto, non sono solo i sacerdoti ad avere questa “chiave”.
+
+Obiezione 4: Inoltre, una donna non è in grado di ricevere il sacerdozio, poiché non è competente per insegnare, secondo l’Apostolo (1 Corinzi 14:34). Tuttavia alcune donne (ad esempio le abbadesse, che esercitano un potere spirituale sui loro sottoposti) sembrano possedere i “chiavi” del sacerdozio. Pertanto, non sono solo i sacerdoti ad avere questi “chiavi”.
+
+Al contrario, Ambrogio afferma nel “De Poenitentia” i: “Questo potere”, cioè quello di legare e sciogliere, “è concesso esclusivamente ai sacerdoti”. Inoltre, ricevendo il potere delle chiavi, un uomo viene posto tra il popolo e Dio; ma tale potere appartiene esclusivamente al sacerdote, che è “ordinato, per le cose che riguardano Dio, affinché possa offrire doni e sacrifici per i peccati” (Ebrei 5:1). Pertanto, solo i sacerdoti possiedono le chiavi.
+
+Rispondo che esistono due tipi di “chiavi”. Una di queste conduce direttamente al cielo, attraverso la remissione dei peccati e l’allontanamento degli ostacoli che impediscono l’ingresso in cielo; questa viene chiamata “la chiave dell’ordine”. Solo i sacerdoti possiedono questa chiave, poiché sono loro soltanto quelli incaricati di assistere il popolo nelle questioni direttamente legate a Dio. L’altra chiave conduce al cielo, non in modo diretto, ma attraverso l’intermediazione della Chiesa Militante. Con questa chiave un uomo può accedere o essere escluso dalla comunità della Chiesa Militante, tramite l’escomunica o l’assoluzione; questa viene chiamata “la chiave della giurisdizione” nel contesto delle procedure esterne della Chiesa. Pertanto, anche coloro che non sono sacerdoti possono possederla, ad esempio gli arcidiaconi, i vescovi eletti, nonché altre figure autorizzate a pronunciare escomuniche. Tuttavia, questa chiave non può essere propriamente definita “chiave del cielo”, ma piuttosto un mezzo per accedervi.
+
+Risposta all’Obiezione 1: I custodi della porta possiedono la chiave per gestire ciò che si trova all’interno di quel tempio materiale, e devono decidere se una persona debba essere esclusa o ammessa in esso; tale decisione viene presa non in base alla loro autorità personale, ma seguendo l’orientamento del sacerdote, in modo che appaiano effettivamente come gli amministratori di quel potere sacerdotale.
+
+Risposta all’Obiezione 2: I re non possiedono alcun potere in materia spirituale; pertanto non ricevono la “chiave del regno celeste”. Il loro potere è limitato alle questioni temporali, e anche queste possono essere conferite loro soltanto da Dio, come si evince da Romani 13:1. Inoltre, essi non vengono consacrati attraverso l’unzione di un ordine sacro: la loro unzione rappresenta semplicemente un segno del fatto che l’eccellenza del loro potere deriva da Cristo, e che, sotto la guida di Cristo, regnano sul popolo cristiano.
+
+Risposta all’Obiezione 3: Proprio come nelle questioni civili l’intero potere sia talvolta concentrato in un solo giudice, come in un regno, mentre altre volte è distribuito tra più persone che svolgono funzioni diverse ma agiscono con uguali diritti (Etica, viii, 10, 11), allo stesso modo la giurisdizione spirituale può essere esercitata sia da una sola persona, ad esempio un vescovo, sia da più persone insieme, ad esempio un capitolo di chiesa. Pertanto, queste autorità possiedono il “chiave” per l’esercizio della giurisdizione, ma non necessariamente anche il “chiave” per l’organizzazione e la gestione delle attività ecclesiastiche.
+
+Risposta all’Obiezione 4: Secondo l’Apostolo (1 Timoteo 2:11; Tito 2:5), la donna si trova in uno stato di sottomissione; pertanto non può esercitare alcuna giurisdizione spirituale. Anche il Filosofo afferma (Etica, VIII) che sia una corruzione della vita pubblica quando il governo finisce nelle mani di una donna. Di conseguenza, la donna non possiede né la “chiave dell’ordine” né quella della giurisdizione. Tuttavia, alle donne è concesso un certo uso di queste “chiavi”, ad esempio il diritto di correggere altre donne che si trovano sotto la loro autorità, a causa del pericolo che potrebbe derivare se gli uomini vivessero sotto lo stesso tetto.
+
 <span class="atom-split" data-atom="095" data-title="Whether holy men who are not priests have the keys?" data-chapter="Whether holy men who are not priests have the keys?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that holy men, even those who are not priests, have the use of the
@@ -4328,6 +5836,20 @@ One proceeds from a mere man, as meriting by his own act: this blessing can be c
 holy person in whom Christ dwells by His grace, in so far as he excels in goodness the person
 whom he blesses. The other blessing is when a man blesses, as applying a blessing instrumentally
 through the merit of Christ, and this requires excellence of order and not of virtue.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli uomini santi, anche quelli che non sono sacerdoti, possano utilizzare le chiavi. Infatti, l’atto di “sciogliere” e “legare”, che sono gli effetti delle chiavi, traggono la loro efficacia dal merito della Passione di Cristo. Ora, coloro che seguono Cristo, soffrendo con pazienza e altre virtù, sono quelli che più si conformano alla Passione di Cristo. Pertanto, sembra che anche se non possiedono l’ordine sacerdotale, possano comunque “legare” e “sciogliere”.
+
+Obiezione 2: Inoltre, è scritto (Ebrei 7:7): “Senza alcuna contraddizione, ciò che è minore viene benedetto da ciò che è maggiore”. Ora, “in materia spirituale”, secondo [Agostino](/figures/augustine) (De Trinitate vi, 8), “essere migliori significa essere maggiori”. Pertanto, coloro che sono migliori, cioè quelli che possiedono più carità, possono benedire gli altri assolvendoli. Da ciò deriva la stessa conclusione.
+
+Al contrario, “L’azione appartiene a chi possiede il potere”, come afferma il Filosofo (De Somno et Vigil., i). Ma la chiave, che rappresenta un potere spirituale, appartiene esclusivamente ai sacerdoti. Pertanto, solo i sacerdoti sono idonei ad utilizzare tale chiave.
+
+Rispondo che esiste questa differenza tra un agente principale e uno strumentale: quest’ultimo, infatti, non produce nella realtà la propria somiglianza, ma quella dell’agente principale; l’agente principale, invece, produce la propria somiglianza. Di conseguenza, una cosa diventa un agente principale grazie alla forma che possiede e che può riprodurre in un altro oggetto; uno strumentale, invece, non è costituito in questo modo, ma viene utilizzato dall’agente principale al fine di produrre un certo effetto. Poiché nell’atto delle chiavi l’agente principale è Cristo come Dio per autorità e come uomo per merito, ne consegue che, grazie alla pienezza della sua bontà divina e alla perfezione della sua grazia, Egli è in grado di esercitare tale funzione. Un altro uomo, invece, non è idoneo ad agire come agente principale: né può infatti conferire a un altro la grazia che cancella i peccati, né può meritarla a sufficienza, per cui rimane soltanto uno strumentale. Pertanto, colui che riceve l’effetto delle chiavi non è paragonabile a colui che le utilizza, ma a Cristo stesso. Quindi, per quanto grande possa essere la grazia di un uomo, egli non può produrre l’effetto delle chiavi, se non viene designato a tale scopo attraverso un incarico specifico.
+
+Risposta all’Obiezione 1: Proprio come tra strumento ed effetto esiste una necessità o una somiglianza, non di forma simile, ma di idoneità dello strumento ad ottenere l’effetto desiderato, lo stesso vale per il rapporto tra lo strumento e l’agente principale. La somiglianza in questione riguarda i santi uomini e Cristo sofferente; tale somiglianza tuttavia non conferisce loro il potere di utilizzare le “chiavi” spirituali.
+
+Risposta all’Obiezione 2: Sebbene un uomo comune non possa meritare la grazia per un altro uomo, il merito di un individuo può comunque contribuire alla salvezza di un altro. Pertanto esistono due tipi di benedizioni: una deriva da un uomo comune che merita la grazia attraverso le proprie azioni; questa benedizione può essere conferita da qualsiasi persona santa in cui Cristo risieda per la Sua grazia, nella misura in cui tale persona eccelle in bontà rispetto a colui che viene benedetto. L’altra benedizione si verifica quando un uomo benedice utilizzando il merito di Cristo come strumento per conferire la grazia; in questo caso è necessaria l’eccellenza nell’ordine, e non necessariamente nella virtù stessa.
 
 <span class="atom-split" data-atom="096" data-title="Whether wicked priests have the use of the keys?" data-chapter="Whether wicked priests have the use of the keys?" data-kind="atom" data-srclang="en"></span>
 
@@ -4387,6 +5909,28 @@ Reply to Objection 4: The prayer which the wicked priest proffers on his own acc
 efficacious: but that which he makes as a minister of the Church, is efficacious through the merit
 of Christ. Yet in both ways the priest's prayer should profit those who are subject to him.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i sacerdoti malvagi non possano utilizzare le chiavi. Infatti, nel passo in cui l’uso delle chiavi viene concesso agli apostoli (Giovanni 20:22,23), viene promesso anche il dono dello Spirito Santo. Ma i malvagi non possiedono lo Spirito Santo; pertanto, non possono utilizzare le chiavi.
+
+Obiezione 2: Inoltre, nessun re saggio affida al proprio nemico la gestione del proprio tesoro. L’uso delle chiavi, infatti, consiste nel disporre del “tesoro” del Re del cielo, che è la Sapienza stessa. Pertanto, i malvagi, che sono suoi nemici a causa del peccato, non hanno il diritto di utilizzare quelle chiavi.
+
+Obiezione 3: Inoltre, [Agostino](/figures/augustine) afferma (De Baptismo v, 21) che Dio “concede il [)sacramento](/concepts/sacrament) della grazia anche attraverso gli uomini malvagi, ma la grazza stessa soltanto per mezzo di Sé stesso o dei suoi santi”. Pertanto, Egli perdona i peccati sia direttamente, sia tramite coloro che fanno parte del “Gesù” (simbolo della Chiesa). Tuttavia, la remissione dei peccati è un atto legato all’uso delle “chiavi” spirituali; quindi i peccatori, che non fanno parte di questa comunità sacra, non hanno accesso a tale potere.
+
+Obiezione 4: Inoltre, la preghiera di un sacerdote malvagio non può portare alla riconciliazione, poiché, come afferma Gregorio (Pastorale I, 11), “se una persona inaccettabile viene inviata a intercedere, l’[ira](/concepts/anger) si intensifica ulteriormente”. Tuttavia, l’uso delle “chiavi” sacerdotali implica proprio un tipo di intercessione, come emerge nella pratica dell’assoluzione. Pertanto, i sacerdoti malvagi non possono utilizzare efficacemente le “chiavi” sacerdotali.
+
+Al contrario, nessuno può sapere se un altro uomo si trovi nello [stato](/concepts/state) di grazia. Pertanto, se nessuno potesse utilizzare i mezzi necessari per concedere l’assoluzione se non si trovasse nello stato di grazia, nessuno saprebbe mai di essere stato assolto, il che sarebbe assolutamente inappropriato. Inoltre, la malvagità del ministro non può annullare la generosità del suo padrone; ma il sacerdote non è altro che un ministro. Pertanto, con la sua malvagità non può toglierci il dono che Dio ci ha dato attraverso di lui.
+
+Rispondo che, proprio come la partecipazione di una forma alla realizzazione di un effetto non rende quella cosa uno strumento, allo stesso modo la perdita di tale forma non impedisce che essa venga utilizzata come strumento. Pertanto, poiché l’uomo è soltanto uno strumento nell’uso delle “chiavi” spirituali, per quanto possa essere privato, a causa del peccato, della grazia che perdona i peccati, non viene affatto privato dell’utilizzo di tali “chiavi”.
+
+Risposta all’Obiezione 1: Il dono dello Spirito Santo è necessario per l’uso delle “chiavi”, non perché sia indispensabile allo scopo stesso, ma perché sarebbe inappropriato utilizzarle senza di esso, anche se colui che le accetta ne riceve comunque gli effetti.
+
+Risposta all’Obiezione 2: Un re terreno può essere ingannato e truffato riguardo ai suoi tesori, ed è per questo che non affida loro il controllo ai propri nemici. Ma il Re del cielo non può essere ingannato, perché tutto contribuisce alla Sua gloria; anche l’abuso delle Sue “chiavi” da parte di alcuni non può alterare questo destino, poiché Lui è in grado di trasformare il male in bene e di ottenere molti effetti positivi attraverso persone malvagie. Pertanto, questa analogia non regge.
+
+Risposta all’Obiezione 3: Agostino parla della remissione dei peccati nel senso che gli uomini santi vi cooperano, non per virtù delle “chiavi”, ma per merito della loro conformità a Dio. Pertanto egli afferma che Dio conferisce i sacramenti anche attraverso persone malvagie; tra questi sacramenti, va annoverata anche l’assoluzione, che rappresenta l’uso delle “chiavi”. Tuttavia, è attraverso gli “uomini santi” che Dio concede il perdono dei peccati, poiché li remette grazie alla loro intercessione. Si potrebbe inoltre osservare che con gli “uomini santi” Agostino intende tutti coloro che non sono tagliati fuori dalla Chiesa: coloro che ricevono i sacramenti da loro infatti ricevono la grazia, mentre coloro che li ricevono da persone escomunicate non ricevono alcuna grazia, poiché commettono peccato nel farlo, salvo nel caso del Battesimo, che, in circostanze di necessità, può essere ricevuto anche da una persona escomunicata.
+
+Risposta all’Obiezione 4: La preghiera che il sacerdote malvagio pronuncia a proprio nome non è efficace; quella invece che egli recita nel ruolo di ministro della Chiesa lo è grazie al merito di Cristo. Tuttavia, in entrambi i casi, la preghiera del sacerdote dovrebbe essere di beneficio per coloro che sono soggetti a lui.
+
 <span class="atom-split" data-atom="097" data-title="Whether those who are schismatics, heretics, excommunicate, suspended or degraded have the use of the keys?" data-chapter="Whether those who are schismatics, heretics, excommunicate, suspended or degraded have the use of the keys?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that those who are schismatics, heretics, excommunicate, suspended
@@ -4439,6 +5983,29 @@ there are three points of inquiry:
 (1) Whether a priest can use the key, which he has, on any man?
 (2) Whether a priest can always absolve his subject?
 (3) Whether anyone can use the keys on his superior?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che coloro che sono scismatici, eretici, escomunicati, sospesi o degradati abbiano il diritto di utilizzare le “chiavi”. Poiché il potere legato alle “chiavi” deriva dagli ordini impartiti, allo stesso modo deriva anche il potere della consacrazione. Tuttavia coloro che sono menzionati non possono perdere il diritto di utilizzare il potere della consacrazione, poiché se lo esercitano, tale atto rimane valido, anche se commettono un peccato nel farlo. Pertanto, nemmeno loro possono perdere il diritto di utilizzare le “chiavi”.
+
+Obiezione 2: Inoltre, qualsiasi potere spirituale attivo in colui che possiede la libertà di volontà può essere esercitato quando lo desidera. Ora, il potere delle “chiavi” rimane nelle mani di tale persona, poiché viene concesso soltanto attraverso ordini specifici; pertanto, tali ordini dovrebbero essere rinnovati ogni volta che si ritorna in Chiesa. Quindi, essendo un potere attivo, può essere esercitato quando lo si desidera.
+
+Obiezione 3: Inoltre, la grazia spirituale viene ostacolata dalla colpa più di quanto lo sia dal castigo. Ora, l’escomunione, la sospensione e la degradazione sono forme di castigo. Pertanto, poiché un uomo non perde l’uso delle “chiavi” spirituali a causa della colpa, sembra che non le perda nemmeno a causa dei suddetti motivi.
+
+Al contrario, [Agostino](/figures/augustine) afferma (Trattato cxxi in Joan.) che “la carità della Chiesa perdona i peccati”. È proprio la carità della Chiesa a unire i suoi membri; pertanto, poiché coloro di cui si parla sono separati dalla Chiesa, sembra che non abbiano il potere di perdonare i peccati. Inoltre, nessuno può essere assolto dai propri peccati commettendo altri peccati: cercare l’assoluzione presso coloro di cui si parla costituisce un atto di disobbedienza alla Chiesa, e quindi non è possibile ricevere l’assoluzione da loro. Si arriva dunque allo stesso conclusione.
+
+Rispondo che, in tutto ciò che è stato detto sopra, il potere delle chiavi rimane essenzialmente lo stesso, ma il suo utilizzo viene ostacolato dalla mancanza della materia appropriata per esercitarlo. Poiché l’uso delle chiavi richiede, nell’utente, autorità su colui su cui esse vengono impiegate, come già affermato (Q[17], A[2], ad 2), la materia idonea per tale utilizzo è necessariamente una persona sottoposta all’autorità dell’utente stesso. E poiché l’autorità di un uomo su un altro deriva dall’ordinamento della Chiesa, anche tale autorità può essere revocata dai superiori ecclesiastici. Pertanto, poiché la Chiesa priva gli eretici, i scismatici e simili della loro autorità, togliendo loro i sottoposti o in tutto o in parte, coloro che vengono privati di tale autorità non possono più utilizzare le chiavi.
+
+Risposta all’Obiezione 1: La materia del [sacramento](/concepts/sacrament) dell’Eucaristia, su cui il sacerdote esercita la sua autorità, non è l’uomo ma il pane di grano; nel Battesimo, invece, la materia è semplicemente l’uomo. Pertanto, proprio come un eretico non potrebbe celebrare l’Eucaristia se gli mancasse il pane di grano, allo stesso modo un prelato non può assolvere i peccati se privo della propria autorità; tuttavia può battezzare e consacrare, anche a scapito della propria salvezza.
+
+Risposta all’Obiezione 2: L’affermazione è vera, a condizione che non vi sia carenza di materia, come nel caso specifico menzionato.
+
+Risposta all’Obiezione 3: Il peccato, di per sé, non elimina la materia, come fanno certe punizioni; quindi la punizione rappresenta un ostacolo non perché sia contraria allo scopo che si vuole raggiungere, ma per le ragioni appena espresse.  
+DEI QUELLI SU COI QUAI LA POTERE DELLE CHIAVI PUÒ ESSERE ESERCITATA (TRE ARTICOLI)  
+Ora dobbiamo considerare coloro su cui la potere delle chiavi può essere esercitata. In questo ambito vi sono tre questioni da esaminare:  
+(1) Se un sacerdote possa utilizzare la chiave che possiede su qualsiasi persona;  
+(2) Se un sacerdote possa sempre assolvere i propri fedeli;  
+(3) Se qualcuno possa utilizzare le “chiavi” del potere ecclesiastico nei confronti dei propri superiori.
 
 <span class="atom-split" data-atom="098" data-title="Whether a priest can use the key which he has, on any man?" data-chapter="Whether a priest can use the key which he has, on any man?" data-kind="atom" data-srclang="en"></span>
 
@@ -4498,6 +6065,24 @@ Reply to Objection 3: The people of Israel were one people, and had but one temp
 there was no need for a distinction in priestly jurisdiction, as there is now in the Church which
 comprises various peoples and nations.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un sacerdote possa utilizzare la chiave che possiede su qualsiasi persona. Infatti, il potere delle chiavi fu concesso ai sacerdoti dall’autorità divina con queste parole: “Ricevete lo Spirito Santo; i peccati che perdonerete, saranno perdonati” (Giovanni 20:22-23). Ma ciò fu detto senza alcuna restrizione. Pertanto, colui che possiede la chiave può utilizzarla su chiunque, senza limitazioni.
+
+Obiezione 2: Inoltre, una chiave materiale che apre una serratura apre tutte le serrature dello stesso tipo. Ora, ogni peccato di ogni uomo rappresenta lo stesso tipo di ostacolo al raggiungimento del cielo; pertanto, se un sacerdote può assolvere un uomo utilizzando la chiave che possiede, può fare lo stesso per tutti gli altri.
+
+Obiezione 3: Inoltre, il sacerdozio del Nuovo Testamento è più perfetto di quello dell’Antico Testamento. Tuttavia, il sacerdote dell’Antico Testamento poteva utilizzare il potere che gli era concesso per distinguere tra i diversi tipi di lebbra, applicandolo senza distinzioni a tutti. Pertanto, molto di più il sacerdote del Vangelo può fare, nell’utilizzare il proprio potere riguardo a tutte le situazioni.
+
+Al contrario, si legge nell’Appendice di Graziano: “Non è lecito che ogni sacerdote scioglia o vincoli i fedeli di un altro sacerdote”. Pertanto, un sacerdote non può assolvere tutti. Inoltre, la giudizio in questioni spirituali dovrebbe essere regolamentato in modo più rigoroso rispetto a quello in questioni temporali; tuttavia, anche in quest’ultimo ambito un giudice non può giudicare tutti. Quindi, poiché l’uso delle “chiavi” rappresenta una forma di giudizio, non spetta ai sacerdoti utilizzarle per ogni persona.
+
+Rispondo che ciò che riguarda questioni particolari non è sempre alla portata di tutti. Così come, oltre ai principi generali della medicina, sono necessari medici che adattino tali principi ai singoli pazienti o malattie, in base alle loro specifiche esigenze, allo stesso modo, in ogni ambito, oltre a colui che enuncia i precetti universali della legge, sono necessari altri individui che applichino tali precetti a casi particolari, secondo le caratteristiche di ciascuno. Per questa ragione, anche nella gerarchia celeste, al di sotto delle Potenze che governano in modo indiscriminato, vi sono Principati incaricati di reggere singoli regni e Angeli responsabili di specifici individui, come abbiamo spiegato in precedenza (FP, Q[113], AA[1],2). Pertanto, dovrebbe esistere un ordine simile di autorità anche nella Chiesa militante: un’unica persona dovrebbe detenere l’autorità generale su tutti, mentre altre dovrebbero avere poteri specifici su gruppi diversi di persone. L’uso delle “chiavi” implica infatti il possesso di un certo potere per esercitare autorità; colui a cui tali chiavi vengono affidate diventa quindi l’oggetto diretto di tale atto. Pertanto, colui che ha autorità su tutti può utilizzare le “chiavi” su ogni persona, mentre coloro che hanno ricevuto poteri su individui specifici possono usarle soltanto su quelli per cui sono stati incaricati, salvo in casi di necessità, quando i sacramenti non devono essere rifiutati a nessuno.
+
+Risposta all’Obiezione 1: Per assolvere dai peccati è necessaria una doppia autorità, ovvero l’autorità di impartire ordini e l’autorità giudiziaria. La prima autorità è presente in tutti i sacerdoti, ma non la seconda. Pertanto, quando il nostro Signore (Giovanni 20:23) concesse a tutti gli apostoli, in generale, il potere di perdonare i peccati, ciò si riferisce all’autorità derivante dall’atto di impartire ordini; per questo motivo queste parole furono rivolte ai sacerdoti al momento della loro ordinazione. A Pietro, invece, fu concesso specificamente il potere di perdonare i peccati (Matteo 16:19), a dimostrazione del fatto che egli possedesse un’autorità giudiziaria superiore agli altri. L’autorità di impartire ordini, in sé considerata, si estende a tutti coloro che possono essere assolti; per questo motivo il nostro Signore disse in modo generico: “I peccati che vorrete perdonare, siano perdonati”, intendendo che tale potere dovesse essere esercitato in conformità con quello concesso a Pietro, secondo la Sua volontà.
+
+Risposta all’Obiezione 2: Una chiave materiale può aprire soltanto la propria serratura; allo stesso modo, nessuna forza attiva può agire se non sul proprio stesso oggetto. Un uomo, pertanto, diventa l’oggetto del potere dell’ordine in virtù della giurisdizione che possiede; di conseguenza, nessuno può utilizzare tale “chiave” su qualcun altro su cui non eserciti tale giurisdizione.
+
+Risposta all’Obiezione 3: Il popolo d’Israele era un unico popolo e possedeva un solo tempio; pertanto non vi era alcuna necessità di distinguere le giurisdizioni sacerdotali, come avviene oggi nella Chiesa, che comprende diversi popoli e nazioni.
+
 <span class="atom-split" data-atom="099" data-title="Whether a priest can always absolve his subject?" data-chapter="Whether a priest can always absolve his subject?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a priest cannot always absolve his subject. For, as [Augustine](/figures/augustine)
@@ -4553,6 +6138,24 @@ from sin, for as long as a man is excommunicated, he cannot receive any sacramen
 
 Reply to Objection 3: This objection considers those cases in which superiors reserve the
 power of jurisdiction to themselves.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un sacerdote non possa sempre assolvere i propri fedeli. Infatti, come afferma [Agostino](/figures/augustine) nel “De vera et false Poenitentia” (“Opera di autore sconosciuto”), “nessuno dovrebbe esercitare la funzione sacerdotale se non è libero da quelle cose che condanna negli altri”. Tuttavia, un sacerdote potrebbe trovarsi coinvolto in un peccato commesso dai propri fedeli, ad esempio conoscendo una donna che fa parte dei suoi fedeli. Pertanto, sembra che non possa sempre utilizzare il potere delle “chiavi” per assolverli.
+
+Obiezione 2: Inoltre, con il potere delle chiavi un uomo può essere guarito da tutti i suoi difetti. Tuttavia, a volte un peccato comporta un difetto di irregolarità o una sentenza di scomunica, dalla quale un semplice prete non può assolvere. Pertanto, sembra che non sia possibile utilizzare il potere delle chiavi nei confronti di coloro che sono vincolati da tali condizioni.
+
+Obiezione 3: Inoltre, il giudizio e il potere del nostro sacerdozio erano preannunciati dal giudizio del sacerdozio antico. Secondo la Legge, i giudici di grado inferiore non erano competenti per decidere tutti i casi e ricorrevano ai giudici di grado superiore, come si legge in Esodo 24:14: “Se sorgesse qualche questione tra voi, la dovete portare davanti a loro”. Sembra quindi che un sacerdote non possa assolvere il proprio fedele da peccati più gravi, ma debba rimandarlo al proprio superiore.
+
+Al contrario, chi ha la responsabilità del principale ha anche la responsabilità dell’accessorio. I sacerdoti, infatti, hanno il compito di amministrare l’Eucaristia ai loro fedeli, e questo [sacramento](/concepts/sacrament) include anche l’assoluzione dei peccati [*Cfr. Q[17], A[2], ad 1]. Pertanto, in termini di potere delle “chiavi sacramentali”, un sacerdote può assolvere i propri fedeli da qualsiasi peccato. Inoltre, la grazia, per quanto piccola che sia, elimina ogni peccato; e poiché i sacerdoti amministrano i sacramenti attraverso cui si dona la grazia, essi possono quindi assolvere da tutti i peccati.
+
+Rispondo che il potere dell’ordine, considerato in sé stesso, si estende alla remissione di tutti i peccati. Tuttavia, poiché, come detto sopra, l’uso di questo potere richiede una giurisdizione che i subordinati derivano dai loro superiori, ne consegue che il superiore può riservarsi alcune questioni e non affidarne la decisione ai propri subordinati; altrimenti, qualsiasi sacerdote semplice dotato di giurisdizione potrebbe assolvere da qualsiasi peccato. Esistono però cinque casi in cui un sacerdote semplice deve rimandare il penitente al proprio superiore: il primo è quando è necessario imporre una penitenza pubblica, poiché in tal caso l’episcopo è il ministro appropriato di questo sacramento; il secondo riguarda coloro che sono stati scomunicati, nel caso in cui il sacerdote subordinato non possa assolverli a causa della loro condizione di scomunica; il terzo si verifica quando si riscontra l’esistenza di irregolarità, e per la loro sanazione è necessario ricorrere al superiore; il quarto caso riguarda gli atti di incendio doloso; infine, il quinto si verifica quando, in una diocesi, è consuetudine riservare all’episcopo l’esame dei crimini più gravi, al fine di suscitare timore, poiché in questi casi la consuetudine può sia conferire tale potere che privarlo.
+
+Risposta all’Obiezione 1: In questo caso, il sacerdote non dovrebbe ascoltare la confessione della sua complice riguardo a quel particolare peccato, ma deve indirizzarla verso un altro sacerdote; né lei dovrebbe confessarsi a lui, bensì chiedere il permesso di recarsi da un altro, oppure ricorrere al suo superiore se questi rifiutasse, sia per motivi di sicurezza che per evitare una maggiore vergogna. Tuttavia, se il sacerdote le concedesse l’assoluzione, essa sarebbe valida*: infatti, quando Agostino afferma che non si dovrebbe commettere lo stesso peccato, si riferisce a ciò che è compatibile con i requisiti del sacramento, non a ciò che ne costituisce l’essenza. [*Benedetto XIV dichiarò invalida l’assoluzione di una complice in “materia turpa”.*]
+
+Risposta all’Obiezione 2: La penitenza libera l’uomo da tutti i difetti legati alla colpa, ma non da tutti i difetti legati alla punizione; infatti, anche dopo aver compiuto la penitenza per un omicidio, una persona rimane comunque in stato di irregolarità. Pertanto, un sacerdote può assolvere da un crimine, ma per la remissione della pena deve indirizzare il pentito al superiore, salvo nel caso dell’escomunica: in questo caso, l’assoluzione dalla colpa deve precedere quella dalla punizione, poiché finché una persona è escomunicata non può ricevere alcun sacramento della Chiesa.
+
+Risposta all’Obiezione 3: Questa obiezione prende in considerazione quei casi in cui i superiori si riservano per sé il potere di giurisdizione.
 
 <span class="atom-split" data-atom="100" data-title="Whether a man can use the keys with regard to his superior?" data-chapter="Whether a man can use the keys with regard to his superior?" data-kind="atom" data-srclang="en"></span>
 
@@ -4610,6 +6213,32 @@ Under the first head there are four points of inquiry:
 (2) Whether the Church should excommunicate anyone?
 (3) Whether anyone should be excommunicated for inflicting temporal harm?
 (4) Whether an excommunication unjustly pronounced has any effect?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un uomo non possa utilizzare le “chiavi” in relazione a qualcuno che gli è superiore. Infatti, ogni atto sacramentale richiede la propria materia appropriata; ora, la materia appropriata per l’uso delle “chiavi” è una persona che sia soggetta a quel prete, come detto sopra (Q[19], A[6]). Pertanto, un sacerdote non può utilizzare le “chiavi” in relazione a qualcuno che non sia suo soggetto.
+
+Obiezione 2: Inoltre, la Chiesa Militante è un’immagine della Chiesa Trionfante. Nella Chiesa celeste, un angelo inferiore non può mai purificare, illuminare o perfezionare un angelo superiore. Pertanto, nemmeno un sacerdote inferiore può esercitare su uno superiore un’azione gerarchica come l’assoluzione.
+
+Obiezione 3: Inoltre, la giustizia relativa alle penitenze dovrebbe essere regolamentata in modo più rigoroso rispetto alla giustizia di un tribunale esterno. Nel tribunale esterno, infatti, un inferiore non può scomunicare o assolvere il proprio superiore; pertanto, a prima vista, lo stesso dovrebbe valere anche nel tribunale penitenziale.
+
+Al contrario, anche il prelato di rango più elevato è “colpito dall’indebolimento” e può commettere peccati. Ora, il potere delle chiavi rappresenta il rimedio per i peccati; pertanto, poiché il prelato stesso non può applicare questo potere su se stesso – essendo impossibile che sia allo stesso tempo giudice e accusato – sembra logico che un inferiore possa utilizzare tale potere nei suoi confronti. Inoltre, l’assoluzione concessa attraverso il potere delle chiavi è necessaria per ricevere l’Eucaristia; un inferiore può quindi impartire la Comunione al proprio superiore, se quest’ultimo lo richiede. Quindi, può effettivamente esercitare il potere delle chiavi su di lui, purché quest’ultimo si sottometta alla sua autorità.
+
+Rispondo che il potere delle chiavi, considerato in sé stesso, è applicabile a tutti, come già detto (A[2]); e che un sacerdote non possa utilizzare tale potere su una persona specifica deriva dal fatto che il suo potere è limitato ad individui determinati. Pertanto, colui che ha limitato il proprio potere può estenderlo a chi vuole, permettendogli così di esercitare un controllo su di sé stesso; tuttavia non può utilizzare il potere delle chiavi su se stesso, poiché tale potere deve essere esercitato su un soggetto diverso, visto che nessun uomo può essere sottoposto a se stesso.
+
+Risposta all’Obiezione 1: Sebbene il vescovo, da cui un semplice prete riceve l’assoluzione, sia assolutamente suo superiore, egli si trova al di sotto di lui nel momento in cui si sottomette a lui come peccatore.
+
+Risposta all’Obiezione 2: Negli angeli non può esistere alcun difetto che possa far sì che l’angelo più alto si sottometta a quello più basso, come può accadere tra gli uomini; pertanto non vi è alcuna analogia tra i due casi.
+
+Risposta all’Obiezione 3: Il giudizio esterno segue le regole umane, mentre il giudizio della confessione segue quelle di Dio; agli occhi di Dio l’uomo viene degradato dal peccato, cosa che non avviene nel contesto della gerarchia ecclesiastica. Pertanto, proprio come in un giudizio esterno nessuno può infliggere a se stesso la scomunica, allo stesso modo nessuno può autorizzare un altro a farlo. D’altra parte, nel tribunale della coscienza si può concedere ad altri il potere di assolvere, anche se non si può utilizzare tale potere personalmente.  
+Si può inoltre osservare che l’assoluzione nel tribunale della confessione rientra principalmente nell’ambito del potere delle “chiavi”, e quindi del potere giudiziario; la scomunica, invece, riguarda esclusivamente il potere giudiziario. Per quanto riguarda il potere di ordinare, tutti sono uguali, ma non per quanto riguarda il potere giudiziario; pertanto non esiste alcuna analogia tra i due ambiti.  
+**SULLA DEFINIZIONE, LA COERENZA E LA CAUSA DELLA SCOMUNICA (QUATTRO ARTICOLI)**  
+Ora dobbiamo trattare della scomunica: considereremo: (1) la definizione, la coerenza e la causa della scomunica; (2) chi ha il potere di scomunicare; (3) i rapporti con le persone scomunicate; (4) l’assoluzione dalla scomunica.  
+All’interno del primo punto di discussione vi sono quattro questioni principali:  
+(1) La definizione della scomunica è appropriata?  
+(2) La Chiesa dovrebbe scomunicare qualcuno?  
+(3) Qualcuno dovrebbe essere scomunicato per aver causato danni materiali?  
+(4) Una scomunica pronunciata ingiustamente ha qualche effetto?
 
 <span class="atom-split" data-atom="101" data-title="Whether excommunication is suitably defined as separation from the communion of the Church, etc?" data-chapter="Whether excommunication is suitably defined as separation from the communion of the Church, etc?" data-kind="atom" data-srclang="en"></span>
 
@@ -4682,6 +6311,27 @@ Reply to Objection 4: The minor excommunication does not fulfill all the conditi
 excommunication but only a part of them, hence the definition of excommunication need not apply
 to it in every respect, but only in some.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’espulsione dalla Chiesa venga definita in modo inappropriato da alcuni nel seguente modo:  
+“L’espulsione dalla Chiesa è la separazione dalla comunione della Chiesa, per quanto riguarda i sacramenti e le preghiere comuni.” Infatti, i sacramenti e le preghiere della Chiesa sono efficaci per coloro a cui vengono offerti. Ma la Chiesa prega anche per coloro che si trovano al di fuori di essa, come ad esempio gli eretici e i pagani. Pertanto, prega anche per gli espulsi dalla Chiesa, poiché anch’essi si trovano al di fuori di essa; quindi i sacramenti e le preghiere della Chiesa sono efficaci anche per loro.
+
+Obiezione 2: Inoltre, nessuno perde i diritti e le prerogative della Chiesa se non a causa della propria colpa. Ora, l’escomunazione non è una colpa, ma una punizione; pertanto, l’escomunazione non priva una persona dei diritti generali della Chiesa.
+
+Obiezione 3: Inoltre, il “frutto” della Chiesa sembra essere lo stesso dei suoi atti di suffragio, poiché non può riferirsi ai beni temporali, dato che l’escomunazione non priva una persona di tali beni. Pertanto, non c’è motivo di menzionarli entrambi.
+
+Obiezione 4: Inoltre, esiste un tipo di scomunica chiamata “minore”, per mezzo della quale l’uomo non viene privato dei diritti e delle funzioni ecclesiastiche. [*La scomunica minore non è più riconosciuta dal Diritto Canonico.*] Pertanto, questa definizione non è appropriata.
+
+Rispondo che, quando un uomo entra nella Chiesa attraverso il Battesimo, viene ammesso a due cose: il corpo dei fedeli e la partecipazione ai sacramenti; quest’ultima presuppone necessariamente la prima, poiché i fedeli sono uniti tra loro nella partecipazione ai sacramenti. Pertanto, una persona può essere espulsa dalla Chiesa in due modi: innanzitutto, venendo privata soltanto della partecipazione ai sacramenti; questo costituisce l’escomunica minore. In secondo luogo, venendo privata sia di questa che dell’accesso al corpo dei fedeli; questo costituisce l’escomunica maggiore, e la definizione sopra fornita riguarda proprio quest’ultima forma. Non può esistere una terza forma di espulsione, che consistesse nella privazione soltanto della comunione spirituale con i fedeli, ma non della partecipazione ai sacramenti; questo per il motivo già esposto: i fedeli, infatti, comunicano insieme attraverso i sacramenti. Ora, la comunione con i fedeli è di due tipi: una riguarda aspetti spirituali, come pregare gli uni per gli altri e riunirsi per ricevere le cose sacre; l’altra consiste in determinati atti fisici legittimi. Questi diversi modi di comunione sono indicati nel versetto che afferma che coloro che sono escomunicati vengono privati di: “os, orare; vale, communio, mensa”. “Os”, cioè non dobbiamo manifestare loro segni di affetto o rispetto; “orare”, cioè non dobbiamo pregare insieme a loro; “vale”, cioè non dobbiamo concedere loro alcun riconoscimento ufficiale; “communio”, cioè non dobbiamo condividerli nei sacramenti; “mensa”, cioè non dobbiamo mangiare insieme a loro. Pertanto, la definizione sopra fornita include nella privazione dei sacramenti l’aspetto relativo ai benefici spirituali che questi offrono, e nella privazione della comunione spirituale con i fedeli gli aspetti legati alle pratiche religiose collettive della Chiesa. Esiste anche un’altra definizione che esprime in modo più completo questa privazione di entrambi i tipi di rapporto con i fedeli: “L’escomunica è la privazione di ogni legittima comunione con i fedeli”.
+
+Risposta all’Obiezione 1: Le preghiere vengono recitate anche per gli infedeli, ma essi non ricevono il frutto di tali preghiere a meno che non si convertano alla fede. Allo stesso modo, possono essere offerte preghiere anche per coloro che sono scomunicati, ma queste non rientrano tra le preghiere rivolte ai membri della Chiesa. Tuttavia, tali persone non ricevono il frutto delle preghiere finché rimangono sotto la scomunica; vengono comunque recitate preghiere per loro affinché possano ricevere lo spirito di pentimento e essere liberate dalla scomunica.
+
+Risposta all’Obiezione 2: Le preghiere di un uomo giovano un altro nella misura in cui riescono ad arrivare fino a lui. Ora, l’azione di un uomo può raggiungere un altro in due modi. Primo, per virtù della carità che unisce tutti i fedeli, rendendoli uno in Dio, secondo il Salmo 118:63: “Sono parte di coloro che ti temono”. L’escomunica, tuttavia, non interrompe questa unità, poiché nessuno può essere giustamente escomunicato se non per un peccato mortale, il quale già separa una persona dalla carità, anche senza che venga effettivamente escomunicata. Un’escomunica ingiusta non può privare una persona della carità, poiché questa è uno dei beni più grandi e di cui nessuno può essere privato contro la sua volontà. Secondo, attraverso l’intenzione di colui che prega, intenzione rivolta alla persona per la quale si prega; un’unità del genere viene interrotta dall’escomunica, poiché con essa la Chiesa separa una persona dal corpo dei fedeli per i quali prega. Pertanto, quelle preghiere della Chiesa offerte per l’intera Chiesa non giovano coloro che sono escomunicati. Né è possibile pregare per loro tra i membri della Chiesa nel nome di essa, sebbene un individuo possa pregare con l’intenzione di offrirla per la loro conversione.
+
+Risposta all’Obiezione 3: Il frutto spirituale della Chiesa deriva non solo dalle sue preghiere, ma anche dai sacramenti ricevuti e dalla convivenza dei fedeli tra loro.
+
+Risposta all’Obiezione 4: L’escomunione minore non soddisfa tutte le condizioni richieste per l’escomunione, ma solo alcune di esse; pertanto, la definizione di escomunione non deve essere applicata in tutti i suoi aspetti, ma soltanto in alcuni.
+
 <span class="atom-split" data-atom="102" data-title="Whether the Church should excommunicate anyone?" data-chapter="Whether the Church should excommunicate anyone?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Church ought not to excommunicate anyone, because
@@ -4740,6 +6390,24 @@ his body by the devil. Nor is it unreasonable that one, for whom there is still 
 to the enemy, for he is surrendered, not unto damnation, but unto correction, since the Church has
 the power to rescue him from the hands of the enemy, whenever he is willing.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la Chiesa non dovrebbe scomunicare nessuno, poiché la scomunica rappresenta una sorta di maledizione, e a noi è vietato maledire (Romani 12:14). Pertanto, la Chiesa non dovrebbe procedere con la scomunica.
+
+Obiezione 2: Inoltre, la Chiesa Militante dovrebbe imitare la Chiesa Triumfante. Leggiamo infatti nell’epistola di Giuda (versetto 9) che “quando Michele l’Arcangelo discuteva con il diavolo riguardo al corpo di Mosè, non osò pronunciare parole offensive contro di lui, ma disse: ‘Il Signore ti comanda’”. Pertanto, la Chiesa Militante non dovrebbe giudicare alcuno pronunciando maledizioni o scomunicandolo.
+
+Obiezione 3: Inoltre, nessuno dovrebbe essere consegnato nelle mani dei suoi nemici, a meno che non vi sia più alcuna speranza per lui. Ora, attraverso l’escomunica, una persona viene effettivamente consegnata nelle mani di Satana, come è chiaro da 1 Corinzi 5:5. Pertanto, non dovremmo mai perdere la speranza in nessuno in questa vita, e quindi la Chiesa non dovrebbe mai escomunicare nessuno.
+
+Al contrario, l’Apostolo (1 Corinzi 5:5) ordinò che un uomo venisse escomunicato. Inoltre, è scritto (Matteo 18:17) a proposito di colui che rifiuta di ascoltare la Chiesa: “Che sia per te come gli pagani o i pubblicani”. Ma i pagani si trovano al di fuori della Chiesa; pertanto anche coloro che rifiutano di ascoltare la Chiesa dovrebbero essere allontanati da essa attraverso l’escomunica.
+
+Rispondo che il giudizio della Chiesa debba essere conforme al giudizio di Dio. Dio infatti punisce il peccatore in molti modi, al fine di condurlo al bene: sia castigandolo con le pene corporali, sia lasciandolo solo, affinché, privato degli aiuti che lo tenevano lontano dal male, possa riconoscere la propria debolezza e tornare umilmente a Dio, che aveva abbandonato nella sua superbia. In entrambi questi casi, la Chiesca, pronunciando sentenze di scomunica, imita il giudizio di Dio: separando un uomo dalla comunione dei fedeli affinché arrossisca di vergogna, imita il modo in cui Dio lo castiga; privandolo delle preghiere e di altre cose spirituali, imita ancora il giudizio divino che lascia l’uomo solo, affinché attraverso l’umiltà possa conoscere se stesso e tornare a Dio.
+
+Risposta all’Obiezione 1: Una maledizione può essere pronunciata in due modi: in primo luogo, in modo che l’intenzione di chi la pronuncia si concentri sul male che invoca; in questo caso, la maledizione è assolutamente vietata. In secondo luogo, in modo che il male invocato abbia lo scopo di giovare a colui che viene maledetto; in tal caso, la maledizione può essere legittima e persino benefica: ad esempio, un medico può far sperimentare dolore a un malato, operandolo, al fine di guarirlo dalla sua malattia.
+
+Risposta all’Obiezione 2: Il diavolo non può essere indotto al pentimento; pertanto, il dolore dell’escomunione non può recargli alcun beneficio.
+
+Risposta all’Obiezione 3: Dal semplice fatto che un uomo venga privato delle preghiere della Chiesa, subisce una triplice perdita, corrispondente alle tre cose che l’uomo acquisisce attraverso le preghiere della Chiesa. Infatti, queste preghiere aumentano la grazia di coloro che già la possiedono, o meritano la grazia per coloro che non la possiedono; in questo senso, il Maestro delle Sentenze afferma (Sentenze iv, D, 18): “La grazia di Dio viene meno a causa dell’escomunica”. Inoltre, queste preghiere costituiscono una protezione per la virtù; in questo contesto si dice che “la protezione viene meno”, non nel senso che la persona escomunicata venga completamente allontanata dalla provvidenza di Dio, ma che venga esclusa da quella protezione particolare con cui Egli veglia sui figli della Chiesa. Inoltre, queste preghiere sono utili come difesa contro il nemico; in questo senso si afferma che “il diavolo acquisisce maggiore potere per attaccare la persona escomunicata, sia spiritualmente che fisicamente”. Pertanto, nella Chiesa primitiva, quando gli uomini dovevano essere attratti alla fede attraverso segni esteriori (così il dono dello Spirito Santo veniva manifestato apertamente attraverso un segno visibile), anche l’escomunica veniva dimostrata attraverso eventi che colpivano fisicamente la persona interessata dal diavolo. Non è nemmeno irragionevole che una persona per cui esiste ancora speranza venga affidata al nemico: essa viene infatti consegnata non alla dannazione, ma alla correzione, poiché la Chiesa ha il potere di salvarla dalle mani del nemico, ogni volta che questa lo desideri.
+
 <span class="atom-split" data-atom="103" data-title="Whether anyone should be excommunicated for inflicting temporal harm?" data-chapter="Whether anyone should be excommunicated for inflicting temporal harm?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no man should be excommunicated for inflicting a temporal
@@ -4776,6 +6444,20 @@ excommunication exceeds the harm done, it does not exceed the measure of the sin
 
 Reply to Objection 2: When a man is corrected by being punished, evil is not rendered to him,
 but good: since punishments are remedies, as stated above.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nessuno dovrebbe essere scomunicato per aver inflitto un danno temporale, poiché la punizione non dovrebbe superare la colpa commessa. Tuttavia, la punizione della scomunica consiste nella privazione di un bene spirituale, il quale è di gran lunga più importante di qualsiasi bene temporale. Pertanto, nessuno dovrebbe essere scomunicato per danni di natura temporale.
+
+Obiezione 2: Inoltre, non dovremmo mai ricambiare il male con il male, secondo il precetto dell’Apostolo (Romani 12:17). Tuttavia, escomunicare qualcuno per un simile atto significherebbe proprio ricambiare il male con il male; pertanto, questo non dovrebbe assolutamente essere fatto.
+
+Al contrario, Pietro condannò Anania e Saffira a morte per aver nascosto il prezzo della loro terra (Atti 5:1-10). Pertanto, è legittimo che la Chiesa scomunichi coloro che causano danni materiali.
+
+Rispondo che, con l’espulsione dalla Chiesa, il giudice ecclesiastico esclude, in un certo senso, una persona dal “regno di Dio”. Poiché non si dovrebbe escludere dal regno di Dio se non coloro che sono indegni, come è stato chiarito nella definizione delle “chiavi” della Chiesa (Q[17], A[2]), e poiché nessuno diventa indegno se non commettendo un peccato mortale e perdendo così la carità – che rappresenta il cammino verso il regno di Dio – ne consegue che nessuno dovrebbe essere espulso dalla Chiesa se non per un peccato mortale. Inoltre, poiché danneggiando il corpo o le proprietà materiali di una persona si può commettere un peccato mortale e agire contro la carità, la Chiesa può espellere qualcuno che abbia inflitto tali danni. Tuttavia, poiché l’espulsione dalla Chiesa rappresenta la punizione più severa, e poiché le punizioni hanno lo scopo di correggere i comportamenti errati – secondo il Filosofo (Etica, ii) – e poiché un medico prudente inizia sempre con rimedi meno gravi e meno rischiosi, l’espulsione non dovrebbe essere inflitta nemmeno per un peccato mortale, se il peccatore non si dimostra ostinato: sia rifiutandosi di presentarsi davanti al giudice, sia allontanandosi prima che venga emessa la sentenza, sia disobbedendo alla decisione del tribunale. In tal caso, se, dopo un adeguato avvertimento, il peccatore si rifiuta di obbedire, viene considerato ostinato, e il giudice, non avendo altra scelta, è costretto ad espellerlo dalla Chiesa.
+
+Risposta all’Obiezione 1: Un peccato non viene misurato dall’entità del danno che una persona causa, ma dalla volontà con cui lo compie, agendo contro la carità. Pertanto, anche se la punizione dell’escomunica supera il danno arrecato, essa non oltrepassa comunque i limiti del peccato stesso.
+
+Risposta all’Obiezione 2: Quando un uomo viene corretto attraverso la punizione, il male non gli viene inflitto, ma il bene; poiché le punizioni sono rimedi, come già detto in precedenza.
 
 <span class="atom-split" data-atom="104" data-title="Whether an excommunication unjustly pronounced has any effect?" data-chapter="Whether an excommunication unjustly pronounced has any effect?" data-kind="atom" data-srclang="en"></span>
 
@@ -4825,6 +6507,28 @@ there are six points of inquiry:
 (5) Whether a multitude can be excommunicated?
 (6) Whether one who is already excommunicated can be excommunicated again?
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un’espulsione dalla Chiesa pronunciata ingiustamente non abbia alcun effetto. Poiché l’espulsione priva una persona della protezione e della grazia di Dio, cose che non possono essere perdute in modo ingiusto, ne consegue che un’espulsione pronunciata ingiustamente non abbia alcun effettivo significato.
+
+Obiezione 2: Inoltre, Gerome afferma (riguardo a Matteo 16:19: “Ti darò le chiavi”): “Ritenere che ciò che è stato legato o sciolto in modo ingiusto sia effettivamente legato o sciolto rappresenta una severità farisaica”. Ma tale severità era orgogliosa ed errata. Pertanto, un’espulsione ingiusta non ha alcun effetto.
+
+Al contrario, secondo Gregorio (“Homilia xxvi in Evangelium”), “la sentenza del pastore deve essere temuta, sia essa giusta che ingiusta”. Ora, non ci sarebbe motivo di temere un’espulsione dall’assemblea religiosa ingiusta se questa non causasse alcun danno. Pertanto, eccetera.
+
+Rispondo che un’espulsione dalla Chiesa può essere ingiusta per due motivi. Primo, da parte di colui che la pronuncia: quando ciò avviene per odio o [ira](/concepts/anger), e l’espulsione comunque ha effetto, anche se chi l’ha emessa ha peccato; infatti, la persona espulsa soffre giustamente, anche se colui che l’ha espulsa ha agito in modo errato. Secondo, per motivi legati alla stessa espulsione: quando essa viene pronunciata senza una causa adeguata o senza rispettare le formalità previste dalla legge. In questo caso, se l’errore commesso è tale da rendere la sentenza invalida, l’espulsione non ha alcun effetto; altrimenti, essa ha effettivamente luogo e la persona espulsa deve sottomettersi umilmente (il che le verrà riconosciuto come merito) e cercare l’assoluzione da colui che l’ha espulsa o rivolgersi a un giudice di grado superiore. Tuttavia, se dovesse disprezzare tale sentenza, commetterebbe un peccato mortale “ipso facto”. A volte, però, esiste una causa sufficiente da parte di colui che pronuncia l’espulsione, ma non da parte della persona espulsa; ad esempio, quando una persona viene espulsa per un crimine che non ha commesso ma di cui è stata provata la colpevolezza. In questo caso, se si sottomette umilmente, il merito della sua umiltà potrà compensare il danno derivante dall’espulsione.
+
+Risposta all’Obiezione 1: Sebbene un uomo non possa perdere ingiustamente la grazia di Dio, può tuttavia perdere ingiustamente quelle cose che, da parte nostra, ci predispongono a ricevere quella grazia. Ad esempio, un uomo può essere privato dell’insegnamento che avrebbe dovuto ricevere. È in questo senso che si dice che l’escomunazione privi un uomo della grazia di Dio, come è stato spiegato sopra (A[2], ad 3).
+
+Risposta all’Obiezione 2: Girolamo parla del peccato, non delle sue punizioni, le quali possono essere inflitte ingiustamente dai superiori ecclesiastici.  
+DEI QUELI CHE PUOSONO ESCOMUNICARE O Essere ESCOMUNICATI (SEI ARTICOLI)  
+Ora dobbiamo considerare coloro che possono escomunicare o essere escomunicati. In questa categoria vi sono sei punti da esaminare:  
+(1) Può escomunicare ogni sacerdote?  
+(2) Può escomunicare qualcuno che non è sacerdote?  
+(3) Può un individuo che è stato escomunicato o sospeso escomunicare a sua volta?  
+(4) Può qualcuno escomunicare se stesso, una persona sua pari o un superiore?  
+(5) È possibile escomunicare più persone insieme?  
+(6) Può un individuo che è già stato escomunicato essere nuovamente escomunicato?
+
 <span class="atom-split" data-atom="105" data-title="Whether every priest can excommunicate?" data-chapter="Whether every priest can excommunicate?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that every priest can excommunicate. For excommunication is an
@@ -4865,6 +6569,20 @@ Hence they cannot excommunicate, but they can absolve them in the tribunal of Pe
 though the tribunal of Penance is higher, yet more solemnity is requisite in the judicial tribunal,
 because therein it is necessary to make satisfaction not only to God but also to man.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che ogni sacerdote possa escomunicare, poiché l’escomunica è un atto legato alle “chiavi” sacramentali. Ma poiché ogni sacerdote possiede queste “chiavi”, ne consegue che ogni sacerdote può escomunicare.
+
+Obiezione 2: Inoltre, è cosa più grave sciogliere o legare qualcuno nel tribunale della penitenza che nel tribunale del giudizio. Tuttavia ogni sacerdote può sciogliere o legare i suoi fedeli nel tribunale della penitenza; pertanto ogni sacerdote può escomunicare i suoi fedeli.
+
+Al contrario, le questioni cariche di pericolo dovrebbero essere lasciate alla decisione dei superiori. La punizione dell’escomunica presenta infatti molti rischi, a meno che non venga inflitta con moderazione; pertanto non dovrebbe essere affidata a ogni sacerdote.
+
+Rispondo che, nel tribunale della coscienza, il dibattito avviene tra l’uomo e Dio, mentre nel tribunale esterno avviene tra uomini. Pertanto, ciò che riguarda la liberazione o la vincolazione di un uomo rispetto solo a Dio appartiene al tribunale della penitenza, mentre ciò che riguarda la liberazione o la vincolazione di un uomo rispetto ad altri uomini appartiene al tribunale pubblico del giudizio esterno. Poiché l’escomunica separa un uomo dalla comunione dei fedeli, essa appartiene al tribunale esterno. Di conseguenza, solo coloro che hanno giurisdizione nel tribunale giudiziario possono escomunicare. Pertanto, per autorità propria, soltanto vescovi e prelati di grado superiore possono escomunicare, secondo l’opinione più diffusa; i parroci, invece, possono farlo solo su commissione o in determinati casi, come quelli di furto, rapina e simili, in cui la legge glielo permette. Altri, tuttavia, hanno sostenuto che anche i parroci possano escomunicare; ma l’opinione precedente è più ragionevole.
+
+Risposta all’Obiezione 1: L’escomunica è un atto che riguarda le “chiavi” della Chiesa, ma non in modo diretto, bensì in relazione al giudizio esterno. Tuttavia, sebbene la sentenza di escomunica venga pronunciata tramite un verdetto esterno, poiché essa riguarda in qualche misura l’accesso al regno di Dio – e poiché la Chiesa Militante rappresenta il cammino verso la Chiesa Trionfante – questa giurisdizione che consente a qualcuno di escomunicare può essere considerata una “chiave”. È in questo senso che alcuni distinguono tra la “chiave degli ordini”, che tutti i sacerdoti possiedono, e la “chiave della giurisdizione” nel tribunale di giudizio, che è riservata esclusivamente ai giudici del tribunale esterno. Nonostante ciò, Dio ha concesso entrambe queste facoltà a Pietro (Matteo 16:19); da lui esse derivano poi agli altri sacerdoti, a seconda delle loro funzioni.
+
+Risposta all’Obiezione 2: I parroci hanno effettivamente giurisdizione sui loro fedeli nel tribunale della coscienza, ma non nel tribunale giudiziario, poiché non possono convocarli in cause contenziose. Pertanto non possono escomunicarli, ma possono assolverli nel tribunale della penitenza. E sebbene il tribunale della penitenza sia di rango superiore, nel tribunale giudiziario è richiesta maggiore solennità, poiché in tale ambito è necessario rendere soddisfazione non solo a Dio ma anche all’uomo.
+
 <span class="atom-split" data-atom="106" data-title="Whether those who are not priests can excommunicate?" data-chapter="Whether those who are not priests can excommunicate?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that those who are not priests cannot excommunicate. Because
@@ -4889,6 +6607,20 @@ Reply to Objection 1: Though they have not the key of orders, they have the key 
 Reply to Objection 2: These two are related to one another as something exceeding and
 something exceeded [*Cf. A[1], a[2]; Q[24], A[1], ad 1], and consequently one of them may be
 within the competency of someone while the other is not.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che coloro che non sono sacerdoti non possano escomunicare. Poiché l’escomunica è un atto che richiede l’uso delle “chiavi”, come affermato nella Sentenza iv, D, 18. Ma coloro che non sono sacerdoti non dispongono di queste “chiavi”. Pertanto, non possono escomunicare.
+
+Obiezione 2: Inoltre, per l’escomunica sono richiesti requisiti più severi rispetto a quelli necessari per l’assoluzione nel tribunale della Penitenza. Ma chi non è sacerdote non può assolvere nel tribunale della Penitenza; pertanto, nemmeno può escomunicare.
+
+Al contrario, gli arcidiaconi, i legati e i vescovi eletti hanno il potere di escomunicare; tuttavia, a volte non sono nemmeno sacerdoti. Pertanto, non sono solo i sacerdoti ad avere il diritto di escomunicare.
+
+Rispondo che soltanto i sacerdoti sono competenti per amministrare i sacramenti attraverso i quali viene concessa la grazia; pertanto, solo loro possono sciogliere o imporre vincoli nel tribunale della penitenza. D’altra parte, l’escomunica riguarda la grazia, non direttamente ma in modo consequenziale: essa priva infatti una persona delle preghiere della Chiesa, le quali sono necessarie per ricevere o mantenere la grazia. Di conseguenza, anche coloro che non sono sacerdoti, purché abbiano giurisdizione in un tribunale contenzioso, possono pronunciare l’escomunica.
+
+Risposta all’Obiezione 1: Sebbene non dispongano della chiave per comprendere le gerarchie, possiedono la chiave per esercitare l’autorità giudiziaria.
+
+Risposta all’Obiezione 2: Questi due aspetti sono tra loro correlati nel senso che uno rappresenta qualcosa che “trascende” l’altro e, al contempo, è “trascenduto” dall’altro [*Cfr. A[1], a[2]; Q[24], A[1], ad 1]. Di conseguenza, uno di essi può rientrare nella competenza di qualcuno, mentre l’altro no.
 
 <span class="atom-split" data-atom="107" data-title="Whether a man who is excommunicated or suspended can excommunicate another?" data-chapter="Whether a man who is excommunicated or suspended can excommunicate another?" data-kind="atom" data-srclang="en"></span>
 
@@ -4921,6 +6653,20 @@ Reply to Objection 2: The power of consecration results from the power of the ch
 is indelible, wherefore, from the very fact that a man has the character of order, he can always
 consecrate, though not always lawfully. It is different with the power of excommunication which
 results from jurisdiction, for this can be taken away and bound.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che una persona che sia stata escomunicata o sospesa possa a sua volta escomunicare un’altra. Infatti, tale persona non ha perso né gli ordini sacri né la giurisdizione, poiché né viene riassegnata a nuovi incarichi quando viene assolta, né le sue funzioni giudiziarie vengono ripristinate. Tuttavia, per escomunicare qualcuno sono necessari proprio gli ordini sacri e la giurisdizione; pertanto anche una persona che sia stata escomunicata o sospesa può effettivamente escomunicare un’altra.
+
+Obiezione 2: Inoltre, è cosa più importante consacrare il corpo di Cristo che scomunicare qualcuno. Ma tali persone sono in grado di compiere il rito della consacrazione; pertanto, devono anche essere in grado di compiere quello della scomunica.
+
+Al contrario, colui il cui corpo è vincolato non può vincolare un altro; ma i legami spirituali sono più forti dei ceppi fisici. Pertanto, colui che è stato scomunicato non può scomunicare un altro, poiché la scomunica rappresenta una catena spirituale.
+
+Rispondo che la giurisdizione può essere esercitata soltanto in relazione a un altro uomo. Pertanto, poiché ogni persona scomunicata è separata dalla comunione dei fedeli, le viene negato l’uso della giurisdizione. E poiché la scomunica richiede necessariamente l’esercizio della giurisdizione, una persona scomunicata non può escomunicare altri; lo stesso principio vale per chi è sospeso dall’esercizio della giurisdizione. Se infatti è sospeso soltanto dall’uso degli ordini sacri, allora non può esercitarli, ma può comunque utilizzare la sua giurisdizione; al contrario, se è sospeso sia dall’uso della giurisdizione che dagli ordini sacri, non può né l’uno né l’altro.
+
+Risposta all’Obiezione 1: Sebbene una persona scomunicata o sospesa non perda la propria giurisdizione, essa perde comunque la possibilità di esercitarla.
+
+Risposta all’Obiezione 2: Il potere di consacrazione deriva dal carattere umano, che è indelebile; pertanto, semplicemente perché un uomo possiede il carattere dell’ordine, può sempre compiere atti di consacrazione, anche se non sempre in modo legittimo. È diverso per quanto riguarda il potere di scomunica, che deriva dalla giurisdizione: tale potere può essere revocato o limitato.
 
 <span class="atom-split" data-atom="108" data-title="Whether a man can excommunicate himself, his equal, or his superior?" data-chapter="Whether a man can excommunicate himself, his equal, or his superior?" data-kind="atom" data-srclang="en"></span>
 
@@ -4963,6 +6709,25 @@ his equal, unless the power to do so be committed to him. This does not apply to
 they can be remitted through any sacraments which confer grace, hence remission of venial sins
 follows the power of orders.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un uomo possa escomunicare se stesso, un suo pari o un suo superiore.  
+Infatti, secondo Matteo 11:11, un angelo di Dio era più grande di Paolo: “Colui che è minore nel regno dei cieli è più grande di lui, che non è mai risorto tra gli uomini nati da donna”. Ora Paolo ha escomunicato un angelo celeste (Galati 1:8). Pertanto, un uomo può escomunicare il proprio superiore.
+
+Obiezione 2: Inoltre, a volte un sacerdote pronuncia un’espulsione dalla Chiesa generale per furti o simili reati. Ma potrebbe accadere che sia lui stesso, o qualcuno della sua stessa posizione gerarchica, o un superiore ad aver commesso tali atti. Pertanto, un uomo può espellere da sé stesso, una persona della sua stessa posizione o un superiore dalla Chiesa.
+
+Obiezione 3: Inoltre, un uomo può assolvere il proprio superiore o un proprio pari nel tribunale della Penitenza, così come quando un vescovo confessa i propri peccati ai propri sottoposti, o un prete confessa peccati veniali a un altro prete. Pertanto, sembrerebbe che un uomo possa anche escomunicare il proprio superiore o un proprio pari.
+
+Al contrario, l’espulsione dalla Chiesa è un atto di giurisdizione. Tuttavia, nessuno ha giurisdizione su se stesso (poiché non si può essere allo stesso tempo giudice e imputato nello stesso processo), né su un proprio superiore, né su una persona sua pari. Pertanto, nessuno può espellere dal proprio ordine religioso un superiore, una persona sua pari, o se stesso.
+
+Rispondo che, poiché, per definizione di giurisdizione, un uomo si trova al di sopra di coloro su cui esercita tale potere, essendo il loro giudice, ne consegue che nessun uomo ha giurisdizione su se stesso, sul proprio superiore o sul proprio pari; pertanto, nessuno può escomunicare né sé stesso, né il proprio superiore, né il proprio pari.
+
+Risposta all’Obiezione 1: L’Apostolo parla in modo ipotetico, cioè supponendo che un angelo commettesse peccato; in tal caso, infatti, quell’angelo non sarebbe superiore all’Apostolo, ma inferiore. Non è nemmeno assurdo ritenere che, se il presupposto di una proposizione condizionale fosse impossibile, anche la conseguenza lo sarebbe.
+
+Risposta all’Obiezione 2: In tal caso nessuno verrebbe scomunicato, poiché nessun uomo ha potere su un suo pari.
+
+Risposta all’Obiezione 3: Il “perdere” e il “riconciliare” nel tribunale della confessione influenzano soltanto la nostra relazione con Dio, dinanzi al quale un uomo, a causa del peccato, può passare da una posizione di superiorità a una di inferiorità rispetto ad un altro; dall’altra parte, l’escomunica riguarda un tribunale esterno, nel quale un uomo non perde la propria superiorità a causa del peccato. Pertanto non esiste alcuna analogia tra i due tribunali. Tuttavia, anche nel tribunale della confessione, un uomo non può assolvere se stesso, né il proprio superiore, né un proprio pari, se non gli sia stata conferita l’autorità necessaria per farlo. Questo non vale per i peccati veniali, poiché questi possono essere rimessi attraverso qualsiasi sacramento che conferisca grazia; pertanto la remissione dei peccati veniali dipende dall’autorità gerarchica.
+
 <span class="atom-split" data-atom="109" data-title="Whether a sentence of excommunication can be passed on a body of men?" data-chapter="Whether a sentence of excommunication can be passed on a body of men?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sentence of excommunication can be passed on a body of men.
@@ -4993,6 +6758,18 @@ those who are suspended are not deprived of the prayers of the Church, as the ex
 are. Wherefore a man can be suspended without having committed a sin himself, just as a whole
 kingdom is laid under an interdict on account of the king's crime. Hence there is no comparison
 between excommunication and suspension.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la sentenza di scomunica possa essere emessa nei confronti di un gruppo di persone. Infatti, è possibile che più individui si uniscano nell’atto del male; quando quindi qualcuno persiste nella sua malvagità, dovrebbe essere scomunicato. Pertanto, anche un gruppo di persone può essere scomunicato.
+
+Obiezione 2: Inoltre, l’effetto più grave di un’anatema è la privazione dei sacramenti della Chiesa. Tuttavia, a volte un intero paese viene sottoposto a un interdito. Pertanto, un gruppo di persone può essere scomunicato.
+
+Al contrario, un commento di [Agostino](/figures/augustine)[*Cfr. Ep. ccl*] su Matteo 12 afferma che il sovrano e un popolo intero non possono essere scomunicati.
+
+Rispondo che nessuno dovrebbe essere scomunicato se non per un peccato mortale. Ora, il peccato consiste in un atto; e gli atti appartengono, in generale, agli individui, non alle comunità. Pertanto, i singoli membri di una comunità possono essere scomunicati, ma non la comunità stessa. E sebbene talvolta un atto possa riguardare un intero gruppo di persone – come quando molte persone tirano insieme una barca che nessuna di loro potrebbe trascinare da sola – è improbabile che una comunità concordi totalmente su un atto malvagio al punto di non avere alcuno dissenziente tra i suoi membri. Dio, che giudica tutta la terra, non condanna i giusti insieme ai malvagi (Genesi 18:25). Pertanto, la Chiesa, che dovrebbe imitare i giudizi di Dio, ha deciso saggiamente che una comunità non debba essere scomunicata, affinché il “grano” non venga strappato insieme alle “erbacce”. La risposta alla prima obiezione è evidente da quanto detto finora.
+
+Risposta all’Obiezione 2: La sospensione non è una punizione così grave come l’escomunica, poiché coloro che sono sospesi non vengono privati delle preghiere della Chiesa, a differenza di quelli escomunicati. Pertanto, un uomo può essere sospeso senza aver commesso personalmente alcun peccato, proprio come un interdetto può essere imposto su un intero regno a causa del crimine del suo re. Di conseguenza, non esiste alcuna analogia tra l’escomunica e la sospensione.
 
 <span class="atom-split" data-atom="110" data-title="Whether a man can be excommunicated who is already under sentence of excommunication?" data-chapter="Whether a man can be excommunicated who is already under sentence of excommunication?" data-kind="atom" data-srclang="en"></span>
 
@@ -5025,6 +6802,20 @@ regards its cause. In this way an excommunication can be repeated, and a man who
 excommunicated several times is further from the Church's prayers than one who has been
 excommunicated only once.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un uomo che sia già stato condannato all’espulsione dalla Chiesa non possa essere ulteriormente escomunicato. Infatti l’Apostolo dice (1 Corinzi 5:12): “Che cosa ho io da fare con coloro che sono fuori della Chiesa?” Ora, coloro che sono stati escomunicati si trovano già al di fuori della Chiesa; pertanto la Chiesa non può più esercitare alcun potere giudiziario su di loro, né può nuovamente escomunicarli.
+
+Obiezione 2: Inoltre, l’escomunica rappresenta la privazione di cose divine e della comunione con i fedeli. Ma quando una persona viene privata di qualcosa, non può essere privata di essa nuovamente. Pertanto, chi è stato escomunicato non può essere nuovamente escomunicato.
+
+Al contrario, l’espulsione dalla Chiesa è sia una punizione che un mezzo di guarigione. Oggi, le punizioni e i rimedi vengono ripetuti quando necessario; pertanto, anche l’espulsione dalla Chiesa può essere ripetuta.
+
+Rispondo che un uomo che è già stato scomunicato può essere nuovamente scomunicato, sia attraverso la ripetizione della stessa sanzione al fine di confonderlo ulteriormente e spingerlo a rinunciare al peccato, sia per qualche altro motivo. Esistono quindi tante scomuniche principali quante sono le ragioni per cui un uomo può essere scomunicato.
+
+Risposta all’Obiezione 1: L’Apostolo parla di pagani e di altri increduli che non possiedono alcun carattere sacramentale che li renda parte del popolo di Dio. Tuttavia, poiché il carattere battesimale, grazie al quale un uomo entra a far parte del popolo di Dio, è indelebile, chi viene battezzato appartiene sempre in qualche modo alla Chiesa; pertanto la Chiesa ha sempre la competenza per giudicarlo.
+
+Risposta all’Obiezione 2: Sebbene la privazione, in sé stessa, non riceva nulla di più o di meno, essa può comunque influenzare la sua causa. In questo modo, un’espulsione dalla Chiesa può essere ripetuta; una persona che è stata espulsa più volte si trova quindi ancora più lontana dalle preghiere della Chiesa rispetto a chi ne è stato espulso soltanto una volta.
+
 <span class="atom-split" data-atom="111" data-title="OF COMMUNICATION WITH EXCOMMUNICATED PERSONS (THREE ARTICLES)" data-chapter="OF COMMUNICATION WITH EXCOMMUNICATED PERSONS (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider communication with those who are excommunicated. Under this head
@@ -5034,6 +6825,13 @@ excommunicated?
 (2) Whether one who communicates with an excommunicated person is excommunicated?
 (3) Whether it is always a mortal sin to communicate with an excommunicated person in matters
 not permitted by law?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la comunicazione con coloro che sono stati scomunicati. In questo ambito ci sono tre questioni da esaminare:  
+(1) È lecito intrattenere rapporti puramente materiali con una persona scomunicata?  
+(2) Chi comunica con una persona scomunicata diventa a sua volta scomunicato?  
+(3) È sempre un peccato mortale comunicare con una persona scomunicata in ambiti non consentiti dalla legge?
 
 <span class="atom-split" data-atom="112" data-title="Whether it is lawful, in matters purely corporal, to communicate with an excommunicated person?" data-chapter="Whether it is lawful, in matters purely corporal, to communicate with an excommunicated person?" data-kind="atom" data-srclang="en"></span>
 
@@ -5082,6 +6880,20 @@ art which considers the end commands in matters ordained to the end.
 Reply to Objection 2: In a case where one is bound by the precept of charity to hold
 communication, the prohibition ceases, as is clear from what has been said.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che sia legittimo, in questioni puramente materiali, comunicare con una persona scomunicata. Infatti la scomunica è un atto legato alle “chiavi spirituali”; tuttavia il potere delle “chiavi spirituali” si estende soltanto a questioni spirituali. Pertanto, la scomunica non impedisce di comunicare con qualcuno in ambiti materiali.
+
+Obiezione 2: Inoltre, “Ciò che viene istituito a scopo di carità non va contro i principi della carità stessa” (cfr. Q[11], A[1], OBJ[1]). Tuttavia siamo obbligati dal precetto della carità ad aiutare i nostri nemici, il che è impossibile senza qualche forma di comunicazione. Pertanto è lecito comunicare con una persona scomunicata in questioni materiali o pratiche concrete.
+
+Al contrario, è scritto (1 Corinzi 5:11): “Non si deve nemmeno mangiare con una tale persona.”
+
+Rispondo che l’escomunica è di due tipi: c’è l’escomunica minore, che priva una persona soltanto della partecipazione ai sacramenti, ma non della comunione dei fedeli; pertanto è lecito comunicare con una persona sottoposta a questo tipo di escomunica, ma non impartirle i sacramenti. L’altra forma è l’escomunica maggiore, che priva una persona dei sacramenti della Chiesa e della comunione dei fedeli; in tal caso non è lecito comunicare con essa. Tuttavia, poiché la Chiesia ricorre all’escomunica al fine di riparare e non di distruggere, si fanno eccezioni a questa regola generale in alcune circostanze in cui la comunione è consentita: ad esempio, in quelle relative alla salvezza dell’anima; in tali casi è permesso parlare con una persona sottoposta a escomunica di argomenti legati alla salvezza, o anche di altre cose al fine di confortarla e rendere le parole di fede più accettabili. Inoltre, si fanno eccezioni per alcune persone che hanno il dovere di prendersi cura della persona escomunicata: sua moglie, i suoi figli, i suoi servi, vassalli o sottoposti. Queste eccezioni riguardano tuttavia soltanto i minori; ai genitori è infatti vietato comunicare con i propri figli escomunicati. Per quanto riguarda le altre persone, l’eccezione si applica solo se hanno iniziato a servire la persona escomunicata prima che questa venisse scomunicata, ma non dopo. Alcuni ritengono che queste eccezioni si applichino nel senso opposto, cioè che il padrone possa comunicare con i suoi sudditi; altri invece sostengono il contrario. In ogni caso, è lecito per loro comunicare con altre persone in ambiti in cui siano tenuti a prestare servizio a queste ultime; infatti, proprio come i sudditi sono obbligati a servire il loro padrone, anche il padrone ha il dovere di prendersi cura dei suoi sudditi. Si fanno inoltre alcune eccezioni in casi particolari: ad esempio, quando l’escomunica non è nota, o nel caso di estranei o viaggiatori che si trovino nel paese delle persone escomunicate; a tali persone è permesso acquistare da loro o ricevere elemosine. Inoltre, se qualcuno dovesse vedere una persona escomunicata in difficoltà, sarebbe obbligato, per motivi di carità, ad aiutarla. Tutti questi aspetti sono contenuti nella seguente frase: “[Utilità](/positions/utility_pleasure), legge, umiltà, ignoranza dei fatti, necessità”; dove “utilità” si riferisce a parole utili o salutari, “legge” al matrimonio, “umiltà” alla sottomissione. Gli altri concetti non richiedono spiegazioni aggiuntive.
+
+Risposta all’Obiezione 1: Le cose materiali sono subordinate a quelle spirituali. Pertanto, il potere che si estende alle questioni spirituali può anche estendersi alle questioni relative al corpo; proprio come l’arte che tiene conto dello scopo finale impone regole su ciò che è destinato a raggiungere tale scopo.
+
+Risposta all’Obiezione 2: Nel caso in cui una persona sia obbligata dal precetto della carità a mantenere la comunicazione, tale divieto cessa di valere, come è chiaro da quanto detto finora.
+
 <span class="atom-split" data-atom="113" data-title="Whether a person incurs excommunication for communicating with one who is excommunicated?" data-chapter="Whether a person incurs excommunication for communicating with one who is excommunicated?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a person does not incur excommunication for communicating
@@ -5114,6 +6926,20 @@ exercises a certain power.
 
 Reply to Objection 2: It is lawful to hold communion with one who has incurred a minor
 excommunication, so that excommunication does not pass on to a third person.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che una persona non incorra nell’espulsione dalla Chiesa per comunicare con qualcuno che è stato escomunicato. Infatti, un pagano o un ebreo sono più lontani dalla Chiesa di una persona escomunicata; tuttavia, non si incorre nell’espulsione per comunicare con loro. Pertanto, nemmeno comunicando con un cristiano escomunicato si incorre in tale sanzione.
+
+Obiezione 2: Inoltre, se una persona viene scomunicata per aver comunicato con un altro scomunicato, per lo stesso motivo anche una terza persona verrebbe scomunicata se comunicasse con quella stessa persona; quindi questo processo potrebbe continuare all’infinito, il che sembrerebbe assurdo. Pertanto, non si incorre nella scomunica per aver comunicato con qualcuno che è stato scomunicato.
+
+Al contrario, una persona scomunicata viene esclusa dalla comunione della Chiesa. Pertanto, chiunque entri in comunione con essa si allontana anch’egli dalla comunione della Chiesa; e di conseguenza, sembra a sua volta essere scomunicato.
+
+Rispondo che una persona può incorrere nell’espulsione dalla Chiesa in due modi. Primo, in modo tale che l’espulsione riguardi sia la persona stessa che chiunque entri in comunicazione con lei; in questo caso, senza dubbio, chiunque comunichi con essa incorre nell’espulsione più grave. Secondo, in modo tale che l’espulsione venga pronunciata soltanto nei confronti della persona stessa; in questo caso, una persona può comunicare con lei sia riguardo al suo crimine, fornendole consigli, aiuto o favore, e in tal caso incorre nuovamente nell’espulsione più grave, oppure può comunicare con lei in altre circostanze, parlando con lei, salutandola o mangiando con lei, e in questo caso incorre nell’espulsione meno grave.
+
+Risposta all’Obiezione 1: La Chiesa non ha alcuna intenzione di correggere gli infedeli così come i fedeli che sono sotto la sua cura; pertanto, non separa coloro che escomunica dalla compagnia degli infedeli, proprio come non li separa dalla comunione dei fedeli su cui esercita un certo potere.
+
+Risposta all’Obiezione 2: È legittimo partecipare alla comunione con chi ha subito un’escomunica minore, in modo che tale escomunica non si trasmetta a una terza persona.
 
 <span class="atom-split" data-atom="114" data-title="Whether it is always a mortal sin to communicate with an excommunicated person in other cases than those in which it is allowed?" data-chapter="Whether it is always a mortal sin to communicate with an excommunicated person in other cases than those in which it is allowed?" data-kind="atom" data-srclang="en"></span>
 
@@ -5175,6 +7001,28 @@ Reply to Objection 4: Although it is a venial sin to hold communion with one who
 excommunicated, yet to do so obstinately is a mortal sin: and for this reason one may be
 excommunicated according to the law.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che sia sempre un peccato mortale partecipare alla comunione con una persona scomunicata in tutti i casi diversi da quelli in cui tale partecipazione è consentita. Infatti, un certo decreto (Capitolo Sacris: De his quae vi, metuve, ecc.) afferma che “né nemmeno per paura di morte si dovrebbe partecipare alla comunione con una persona scomunicata, poiché si dovrebbe preferire morire piuttosto che commettere un peccato mortale”. Ma questo non costituirebbe una vera ragione, se non fosse vero che partecipare alla comunione con una persona scomunicata sia sempre un peccato mortale. Pertanto, ecc.
+
+Obiezione 2: Inoltre, agire contro un comandamento della Chiesa è un peccato mortale. Ma la Chiesa vieta a chiunque di partecipare alla comunione con una persona scomunicata. Pertanto, partecipare alla comunione con qualcuno che è stato scomunicato rappresenta anch’esso un peccato mortale.
+
+Obiezione 3: Inoltre, nessuno viene escluso dall’ ricevere l’Eucaristia a causa di un peccato veniale. Tuttavia, una persona che partecipa alla comunione con una persona scomunicata, al di fuori dei casi in cui ciò è permesso, viene esclusa dall’ ricevere l’Eucaristia, poiché commette così una scomunica minore. Pertanto, partecipare alla comunione con una persona scomunicata è un peccato mortale, salvo nei casi in cui ciò sia consentito.
+
+Obiezione 4: Inoltre, nessuno dovrebbe incorrere in un’espulsione dalla Chiesa di gravi conseguenze se non per un peccato mortale. Ora, secondo la legge (Can. Praecipue, seguenti articoli, causa xi), un uomo può essere espulso dalla Chiesa di gravi conseguenze se partecipa alla comunione con una persona scomunicata. Pertanto, partecipare alla comunione con qualcuno che è scomunicato costituisce un peccato mortale.
+
+Al contrario, nessuno può assolvere un uomo dal peccato mortale se non ne ha la giurisdizione. Tuttavia, qualsiasi sacerdote può assolvere un uomo che ha partecipato alla comunione con persone scomunicate; pertanto, tale atto non costituisce un peccato mortale. Inoltre, l’entità della punizione dovrebbe essere proporzionale all’entità del peccato, come stabilito in Deuteronomio 25:3. Ora, la pena prevista dalla consuetudine comune per chi partecipa alla comunione con una persona scomunicata non è quella inflitta per i peccati mortali, ma piuttosto quella dovuta per i peccati veniali. Pertanto, tale atto non costituisce un peccato mortale.
+
+Rispondo che alcuni sostengono che sia sempre un peccato mortale partecipare alla comunione con una persona scomunicata, sia verbalmente che con qualsiasi dei metodi proibiti sopra menzionati (A[2]), salvo nei casi consentiti dalla legge (Capitolo Quoniam). Tuttavia, poiché sembra molto improbabile che una persona possa commettere un peccato mortale semplicemente pronunciando parole offensive verso una persona scomunicata, e poiché scomunicare qualcuno potrebbe mettere a rischio la salvezza di molti o rivelarsi controproducente per chi lo fa, altri ritengono più probabile che ciò non costituisca sempre un peccato mortale, ma soltanto quando tale partecipazione avviene in atti criminali, nell’ambito di pratiche di [adorazione](/concepts/religion) divina o attraverso il disprezzo per la Chiesa.
+
+Risposta all’Obiezione 1: Questo decreto riguarda la partecipazione alla divina liturgia. Si può anche osservare che lo stesso ragionamento si applica sia al peccato mortale che a quello veniale: proprio come non è possibile compiere un atto buono commettendo un peccato mortale, allo stesso modo non è possibile compiere un atto buono commettendo un peccato veniale. Pertanto, proprio come è dovere di un uomo sopportare la morte piuttosto che commettere un peccato mortale, è anche suo dovere evitare di commettere peccati veniali, poiché è suo compito assolutamente evitarli.
+
+Risposta all’Obiezione 2: Il comandamento della Chiesa riguarda direttamente le questioni spirituali e, di conseguenza, anche le azioni legittime; pertanto, partecipare alla comunione durante i riti divini equivale ad agire contro tale comandamento, commettendo così un peccato mortale. Tuttavia, partecipare alla comunione in altre circostanze significa agire al di fuori dei limiti imposti dal comandamento, commettendo quindi un peccato veniale.
+
+Risposta all’Obiezione 3: A volte un uomo viene privato dell’eucaristia anche senza alcuna colpa sua, come nel caso di coloro che sono sospesi o soggetti a interdetti; tali sanzioni vengono infatti talvolta inflitte a una persona per il peccato di un’altra.
+
+Risposta all’Obiezione 4: Sebbene sia un peccato veniale partecipare alla comunione con una persona scomunicata, farlo in modo ostinato costituisce un peccato mortale; per questo motivo, si può essere scomunicati secondo la legge.
+
 <span class="atom-split" data-atom="115" data-title="OF ABSOLUTION FROM EXCOMMUNICATION (THREE ARTICLES)" data-chapter="OF ABSOLUTION FROM EXCOMMUNICATION (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider absolution from excommunication: under which head there are three
@@ -5183,6 +7031,13 @@ points of inquiry:
 (2) Whether a man can be absolved from excommunication against his will?
 (3) Whether a man can be absolved from one excommunication without being absolved from
 another?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la questione dell’assoluzione dall’escomunazione: in questo ambito vi sono tre punti da esaminare:  
+(1) Se un sacerdote possa assolvere il proprio fedele dall’escomunazione;  
+(2) Se una persona possa essere assolta dall’escomunazione contro la sua volontà;  
+(3) Se una persona possa essere assolta da un’escomunazione senza che ciò comporti l’assoluzione da un’altra.
 
 <span class="atom-split" data-atom="116" data-title="Whether any priest can absolve his subject from excommunication?" data-chapter="Whether any priest can absolve his subject from excommunication?" data-kind="atom" data-srclang="en"></span>
 
@@ -5239,6 +7094,20 @@ Reply to Objection 2: As an excommunicated person has no share in the sacraments
 Church, a priest cannot absolve him from his guilt, unless he be first absolved from
 excommunication.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che qualsiasi sacerdote possa assolvere il proprio fedele dall’espulsione dalla Chiesa. Infatti, i legami del peccato sono più forti di quelli dell’espulsione. Ma poiché qualsiasi sacerdote può assolvere dal peccato, allora potrà certamente assolvere anche dall’espulsione dalla Chiesa.
+
+Obiezione 2: Inoltre, se la causa viene rimossa, anche l’effetto scompare. Ma la causa dell’escomunica è un peccato mortale. Pertanto, poiché qualsiasi sacerdote può assolvere il proprio fedele da quel peccato mortale, è altresì in grado di assolverlo dall’escomunica.
+
+Al contrario, spetta alla stessa autorità escomunicare e anche assolvere da un’espulsione dalla chiesa. Tuttavia, i sacerdoti di rango inferiore non possono escomunicare i loro fedeli; pertanto, nemmeno possono assolverli dall’espulsione.
+
+Rispondo che chiunque sia in grado di assolvere dal peccato della partecipazione al peccato altrui può anche assolvere da una minore scomunica. Tuttavia, nel caso di una grave scomunica, questa viene pronunciata o da un giudice, e allora sia colui che ha emesso la sentenza che il suo superiore possono assolvere; oppure viene pronunciata per legge, e in tal caso solo il vescovo o addirittura un sacerdote possono assolvere, salvo nei sei casi riservati dal Papa, che è l’autorità legislativa: il primo caso riguarda colui che tocca un clero o un religioso; il secondo chi irrompe in una chiesa e viene denunciato per tale atto; il terzo chi dà fuoco a una chiesa e viene denunciato per questo crimine; il quarto chi, a conoscenza dei fatti, partecipa al culto divino insieme a persone scomunicate dal Papa; il quinto chi manipola le lettere della Santa Sede; il sesto chi partecipa a un atto criminoso compiuto da una persona scomunicata. In questi casi, l’assoluzione può essere concessa soltanto dalla persona che ha emesso la scomunica, anche se la vittima non è soggetta a tale autorità; tuttavia, qualora sia difficile presentarsi davanti a essa, l’assoluzione può essere concessa dal vescovo o dal proprio sacerdote, purché quest’ultimo si impegni con giuramento ad obbedire alle disposizioni del giudice che ha emesso la scomunica. Esistono inoltre otto eccezioni al primo caso: (1) nell’ora della morte, quando qualsiasi sacerdote può assolvere da qualsiasi tipo di scomunica; (2) se colui che colpisce è il custode di una persona autoritaria e il colpo viene inferto senza odio né intenzione maliziosa; (3) se colui che colpisce è una donna; (4) se colui che colpisce è un servo il cui padrone non è responsabile del fatto e ne soffrirebbe in sua assenza; (5) se un religioso colpisce un altro religioso, a meno che il colpo non sia particolarmente grave; (6) se colui che colpisce è una persona povera; (7) se si tratta di un minore, di un anziano o di una persona invalida; (8) se esiste un conflitto mortale tra loro. Inoltre, ci sono sette casi in cui chi colpisce un clero non incorre nella scomunica: (1) se lo fa per motivi disciplinari, in qualità di insegnante o superiore; (2) se lo fa per scherzo; (3) se scopre che il clero si comporta in modo inappropriato nei confronti della propria moglie, madre, sorella o figlia; (4) se risponde immediatamente al colpo con uno simile; (5) se non è a conoscenza del fatto che sta colpendo un clero; (6) se quest’ultimo ha commesso apostasia dopo essere stato ammonito tre volte; (7) se il clero compie un atto completamente contrario alla vita sacerdotale, ad esempio diventando soldato o commettendo bigamia.
+
+Risposta all’Obiezione 1: Sebbene le catene del peccato siano di per sé più gravi di quelle dell’escomunica, in un certo senso le catene dell’escomunica sono ancora più pesanti, poiché legano l’uomo non solo agli occhi di Dio, ma anche agli occhi della Chiesa. Pertanto, l’assoluzione dall’escomunica richiede la giurisdizione del forum esterno, mentre l’assoluzione dal peccato no. Inoltre, non è necessario dare una promessa solenne sotto giuramento, come avviene nel caso dell’assoluzione dall’escomunica; poiché, come afferma l’Apostolo (Ebrei 6:16), le controversie tra uomini vengono risolte attraverso il giuramento.
+
+Risposta all’Obiezione 2: Poiché una persona scomunicata non partecipa ai sacramenti della Chiesa, un prete non può assolverla dai suoi peccati, a meno che essa non venga prima riammessa nella comunione ecclesiastica.
+
 <span class="atom-split" data-atom="117" data-title="Whether anyone can be absolved against his will?" data-chapter="Whether anyone can be absolved against his will?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no man can be absolved against his will. For spiritual things
@@ -5267,6 +7136,20 @@ can be lost by a man against his will through sickness. Hence the argument is no
 Reply to Objection 2: It is possible for excommunication to be removed from a man even
 though he be contumacious, if it seem to be for the good of the man for whom the excommunication
 was intended as a medicine.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nessuno possa essere assolto contro la sua volontà. Infatti, le cose spirituali non vengono concesse a nessuno contro la sua volontà. Ora, l’assoluzione dall’escomunione rappresenta un favore spirituale; pertanto non può essere concessa a una persona contro la sua volontà.
+
+Obiezione 2: Inoltre, la causa dell’espulsione dalla Chiesa è la ribellione. Ma quando, per disprezzo verso tale espulsione, una persona rifiuta di essere assolta, dimostra un alto grado di ribellione. Pertanto non può essere assolta.
+
+Al contrario, l’espulsione dalla Chiesa può essere pronunciata contro una persona contro la sua volontà. Ora, ciò che accade a una persona contro la sua volontà può anche essere leso o rimosso contro la sua volontà, proprio come nel caso dei beni materiali. Pertanto, l’espulsione dalla Chiesa può essere revocata contro la volontà della persona interessata.
+
+Rispondo che il male derivante da colpa e il male derivante da punizione differiscono in questo: l’origine della colpa risiede dentro di noi, poiché ogni peccato è volontario; invece, l’origine della punizione a volte non dipende dalla nostra volontà, poiché la punizione non deve necessariamente essere volontaria; anzi, la natura stessa della punizione consiste proprio nel contrastare la nostra volontà. Pertanto, così come un uomo non commette peccato se non lo fa volontariamente, allo stesso modo nessun peccato viene perdonato contro la sua volontà. D’altra parte, così come una persona può essere scomunicata contro la sua volontà, può anche essere assolta da tale scomunica.
+
+Risposta all’Obiezione 1: L’affermazione è vera per quei beni spirituali che dipendono dalla nostra volontà, come le virtù, che non possiamo perdere contro la nostra volontà; poiché la conoscenza, sebbene sia un bene spirituale, può essere persa da una persona contro la sua volontà a causa di malattia. Pertanto, l’argomentazione non è pertinente.
+
+Risposta all’Obiezione 2: È possibile revocare l’escomunione di una persona anche quando essa si comporta in modo ribelle, qualora ciò risulti vantaggioso per quella stessa persona, per la quale l’escomunione era stata decretata come “medicina”.
 
 <span class="atom-split" data-atom="118" data-title="Whether a man can be absolved from one excommunication without being absolved from all?" data-chapter="Whether a man can be absolved from one excommunication without being absolved from all?" data-kind="atom" data-srclang="en"></span>
 
@@ -5301,6 +7184,20 @@ hindered by contrariety of the will, as stated above (A[2]). Hence the argument 
 Reply to Objection 2: Just as such a man was for several reasons outside the Church so is it
 possible for his separation to be removed on one count and to remain on another.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un uomo non possa essere assolto da un’unica scomunica senza essere assolto da tutte. Infatti, l’effetto dovrebbe essere proporzionale alla causa; e la causa della scomunica è un peccato. Pertanto, un uomo non può essere assolto da un singolo peccato senza essere assolto da tutti, e lo stesso vale per la scomunica.
+
+Obiezione 2: Inoltre, nella Chiesa viene pronunciata l’assoluzione dall’escomunione. Ma una persona che è soggetta all’effetto di un’escomunione si trova al di fuori della Chiesa. Pertanto, finché una tale condizione persiste, una persona non può essere liberata da un’altra escomunazione.
+
+Al contrario, l’espulsione dalla Chiesa rappresenta una punizione. Un uomo può essere liberato da un certo tipo di punizione, mentre un altro rimane in vigore; pertanto, è possibile che un individuo venga sollevato da un’espulsione senza per questo essere esentato da un’altra.
+
+Rispondo che le scomuniche non sono in alcun modo collegate tra loro; pertanto è possibile che una persona venga assolta da una di esse e rimanga comunque soggetta a un’altra. Tuttavia, bisogna osservare che talvolta una persona può trovarsi sotto più scomuniche pronunciate da diversi giudici; in tal caso, quando viene assolta da una di queste, si intende che venga assolta da tutte, a meno che non venga esplicitamente indicato il contrario, o a meno che la persona non chieda di essere assolta soltanto da una specifica scomunica, mentre in realtà ne era soggetta più di una. D’altra parte, a volte una persona può trovarsi sotto diverse sentenze di scomunica emesse da diversi giudici; in questo caso, l’assoluzione da una di queste non implica necessariamente l’assoluzione dalle altre, a meno che tutti i giudici non confermino ufficialmente la sua assoluzione, o che non deleghino qualcuno per farlo.
+
+Risposta all’Obiezione 1: Tutti i peccati sono collegati tra loro dallo stesso sentimento di avversione verso Dio, il quale è incompatibile con il perdono del peccato; pertanto un peccato non può essere perdonato senza che anche gli altri vengano perdonati. Tuttavia, le scomuniche non presentano tale connessione tra i vari peccati. Inoltre, la rimozione della scomunica non è ostacolata da contraddizioni nella volontà del soggetto, come già detto sopra (A[2]). Pertanto, questo argomento non è convincente.
+
+Risposta all’Obiezione 2: Proprio come un tale uomo, per diverse ragioni al di fuori della Chiesa, può vedere revocata la sua separazione in un certo ambito e rimanere separato in un altro, allo stesso modo è possibile che ciò avvenga.
+
 <span class="atom-split" data-atom="119" data-title="OF INDULGENCES (THREE ARTICLES)" data-chapter="OF INDULGENCES (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider indulgence: (1) in itself; (2) those who grant indulgence; (3) those who
@@ -5309,6 +7206,14 @@ Under the first head there are three points of inquiry:
 (1) Whether an indulgence remits any part of the punishment due for the satisfaction of sins?
 (2) Whether indulgences are as effective as they claim to be?
 (3) Whether an indulgence should be granted for temporal assistance?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la questione delle indulgenze: (1) in sé stesse; (2) coloro che le concedono; (3) coloro che le ricevono.  
+Relativamente al primo punto, vi sono tre aspetti da esaminare:  
+(1) Se un’indulgenza riduce effettivamente una parte della punizione dovuta per il compimento di peccati;  
+(2) Se le indulgenze siano davvero efficaci quanto si afferma;  
+(3) Se sia giusto concedere un’indulgenza al fine di ottenere aiuti materiali.
 
 <span class="atom-split" data-atom="120" data-title="Whether an indulgence can remit any part of the punishment due for the satisfaction of sins?" data-chapter="Whether an indulgence can remit any part of the punishment due for the satisfaction of sins?" data-kind="atom" data-srclang="en"></span>
 
@@ -5393,6 +7298,29 @@ unless this be done without discretion. Nevertheless those who gain indulgences 
 not, on this account, to omit the penitential works imposed on them, so that they may derive a
 remedy from these also, even though they may be quit of the debt of punishment; and all the more,
 seeing that they are often more in debt than they think.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un atto di indulgenza non possa ridurre in alcun modo la punizione dovuta per il compimento dei peccati. Infatti, una spiegazione di 2 Timoteo 2:13 (“Non può negarsi a se stesso”) afferma: “Lo farebbe se non mantenesse la sua parola”. Ora, Dio ha detto (Deuteronomio 25:2): “La misura della punizione sarà proporzionale alla gravità del peccato”. Pertanto, nulla può essere ridotto dalla punizione stabilita in base alla gravità del peccato stesso.
+
+Obiezione 2: Inoltre, un inferiore non può liberarsi da un obbligo impostogli dal suo superiore.  
+Ma quando Dio ci libera dal peccato, ci lega alla punizione temporale, come afferma Ugo di San Vittore (Trattato VI, Sommario delle Sentenze [di autenticità dubbia]). Pertanto, nessuno può liberarsi da tale punizione, nemmeno riducendone alcuna parte.
+
+Obiezione 3: Inoltre, l’attribuzione di un effetto sacramentale senza la celebrazione dei sacramenti rientra nel potere di eccellenza. Ora, solo Cristo possiede tale potere nei sacramenti. Poiché la soddisfazione è parte integrante del [sacramento](/concepts/sacrament) della Penitenza e conduce alla remissione della punizione dovuta, sembra che nessun uomo comune possa rimuovere il debito di punizione senza una tale soddisfazione.
+
+Obiezione 4: Inoltre, il potere conferito ai ministri della Chiesa non è stato dato “per la distruzione”, ma “per l’edificazione” (2 Corinzi 10:8). Tuttavia, se la soddisfazione dei bisogni umani, che era destinata al nostro bene e funge da rimedio, venisse eliminata, ciò porterebbe alla distruzione. Pertanto, il potere dei ministri della Chiesa non si estende in questo ambito.
+
+Al contrario, è scritto (2 Corinzi 2:10): “Poiché ciò che ho perdonato, se ho perdonato qualcosa, l’ho fatto per voi in nome di Cristo”; e un commento aggiunge: “cioè, come se fosse stato Cristo stesso a perdonare”. Ma Cristo poteva rimuovere la punizione di un peccato senza alcuna soddisfazione, come dimostra il caso della donna adultera (Giovanni 8). Pertanto anche Paolo poteva fare lo stesso; quindi può farlo anche il Papa, poiché il suo potere nella Chiesa non è inferiore a quello di Paolo. Inoltre, la Chiesa universale non può errare; poiché Colui che “fu ascoltato per la sua reverenza” (Ebrei 5:7) disse a Pietro, su cui si fondò la Chiesa (Luca 22:32): “Ho pregato per te affinché la tua fede non vacilli”. Ora la Chiesa universale approva e concede le indulgenze; pertanto le indulgenze hanno un certo valore.
+
+Rispondo che tutti ammettono che le indulgenze abbiano un certo valore, poiché sarebbe blasfemo affermare che la Chiesa compia qualcosa invano. Tuttavia alcuni sostengono che tali indulgenze non servano a liberare una persona dal debito di punizione che ha meritato nel Purgatorio secondo il giudizio di Dio, ma che si limitino ad esonerarla dall’obbligo imposto dal sacerdote come punizione per i suoi peccati, o dalle sanzioni canoniche che ha subito. Ma questa opinione non sembra vera. Innanzitutto, perché è in netto contrasto con il privilegio concesso a Pietro, a cui fu detto (Matteo 16:19) che “quanto egli avrà perdonato sulla terra, sarà perdonato anche in cielo”. Pertanto, qualsiasi remissione concessa dalla Chiesa ha validità anche davanti a Dio. Inoltre, se la Chiesa concedesse tali indulgenze, farebbe più danno che bene, poiché, rimuovendo la punizione che aveva imposto a una persona, la consegnerebbe a una punizione ancora più severa nel Purgatorio. Pertanto dobbiamo affermare il contrario: le indulgenze hanno validità sia davanti alla Chiesa che secondo il giudizio di Dio, poiché rimuovono la punizione che rimane dopo il pentimento, l’assoluzione e la confessione, indipendentemente dal fatto che tale punizione sia stata effettivamente imposta. La ragione per cui queste indulgenze sono efficaci è l’universalità del corpo mistico nel quale molti hanno compiuto opere di soddisfazione che superano i requisiti dei loro debiti; in questo stesso corpo, molti hanno sopportato pazientemente tribolazioni ingiuste, le quali, se fossero state effettivamente subite, avrebbero comportato una punizione ancora più grave. La quantità di tali meriti è tale da superare l’intero debito di punizione dovuto da coloro che vivono in questo momento; e ciò soprattutto grazie ai meriti di Cristo: poiché, sebbene Egli agisca attraverso i sacramenti, la Sua efficacia non è affatto limitata a essi, ma li supera infinitamente. Ora, un uomo può soddisfare al posto di un altro, come abbiamo spiegato in precedenza (Q[13], A[2]). I santi, nei quali si trova questa sovrabbondanza di meriti, non hanno compiuto queste opere buone per una persona specifica che avesse bisogno della remissione della sua punizione (altrimenti tale remissione sarebbe stata ottenuta senza alcuna indulgenza), ma le hanno compiute per tutta la Chiesa in generale, proprio come l’Apostolo dichiara di voler “completare ciò che manca nelle sofferenze di Cristo, per il Suo corpo, che è la Chiesa” (Colossesi 1:24). Questi meriti sono quindi proprietà comune di tutta la Chiesa. Ora, ciò che è proprietà comune di un gruppo di persone viene distribuito ai singoli individui secondo il giudizio di colui che li governa tutti. Pertanto, proprio come un uomo otterrebbe la remissione della sua punizione se un altro ne facesse le spese al suo posto, lo stesso accadrebbe anche a lui se le opere di soddisfazione di un altro venissero applicate a suo favore da colui che ha il potere di farlo.
+
+Risposta all’Obiezione 1: La remissione concessa attraverso le indulgenze non distrugge la proporzione tra punizione e peccato, poiché qualcuno ha spontaneamente assunto su di sé la punizione dovuta per il peccato altrui, come spiegato sopra.
+
+Risposta all’Obiezione 2: Chi ottiene un’indulgenza non è, in senso stretto, assolto dal debito di punizione, ma gli vengono forniti i mezzi per poterlo pagare.
+
+Risposta all’Obiezione 3: L’effetto dell’assoluzione sacramentale consiste nella rimozione del peccato di una persona, un effetto che le indulgenze non sono in grado di produrre. Tuttavia, colui che concede indulgenze salda il debito di punizione che una persona deve pagare, utilizzando i beni comuni della Chiesa, come spiegato sopra.
+
+Risposta all’Obiezione 4: La grazia offre un rimedio migliore per evitare il peccato rispetto all’abitudine alle (buone) opere. Poiché colui che riceve un’indulgenza è spinto a cercare la grazia attraverso l’amore che nutre per la causa per cui tale indulgenza gli viene concessa, ne consegue che le indulgenze costituiscono davvero un rimedio contro il peccato. Pertanto, non è dannoso concedere indulgenze, a meno che ciò non avvenga senza discernimento. Tuttavia, coloro che ricevono un’indulgenza dovrebbero essere consigliati a non trascurare le opere penitenziali imposte loro, affinché possano trarre beneficio anche da queste, anche se sono già stati liberati dal debito della punizione; soprattutto considerando che spesso si trovano in debito maggiore di quanto pensino.
 
 <span class="atom-split" data-atom="121" data-title="Whether indulgences are as effective as they claim to be? (1/2)" data-chapter="Whether indulgences are as effective as they claim to be?" data-kind="atom" data-srclang="en"></span>
 
@@ -5534,6 +7462,18 @@ have charity: secondly, by the intention of the person who does the good action;
 provided there be a lawful cause, the intention of a person who has done something for the profit
 of the Church, may reach to some individual through indulgences.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 1: Come già detto sopra (Q[19], A[3]), esistono due “chiavi”: quella degli ordini sacri e quella della giurisdizione. La chiave degli ordini sacri è di natura sacramentale; poiché gli effetti dei sacramenti sono stabiliti da Dio, non dagli uomini, il sacerdote non può decidere, nel tribunale della confessione, quanto della pena dovuta debba essere rimesso grazie a questa “chiave”; è Dio stesso a stabilire l’entità del rimborso. D’altra parte, la chiave della giurisdizione non ha natura sacramentale e il suo effetto dipende dalla decisione di un uomo. La remissione delle pene concessa attraverso le indulgenze è proprio l’effetto di questa “chiave”, poiché essa riguarda non la dispensazione dei sacramenti, ma la distribuzione della proprietà comune della Chiesa; per questo motivo anche i legati, pur non essendo sacerdoti, possono concedere indulgenze. Pertanto, la decisione su quanto della pena debba essere rimesso tramite un’indulgenza dipende dalla volontà di colui che la concede. Tuttavia, se qualcuno concede una remissione senza motivazioni sufficienti, inducendo così le persone a sostituire i veri atti di penitenza con cose prive di valore, commette peccato nell’concedere tali indulgenze, anche se queste vengono effettivamente ottenute.
+
+Risposta all’Obiezione 2: Sebbene le indulgenze siano molto utili per la remissione delle punizioni, le opere di soddisfazione sono ancora più meritevoli in termini della ricompensa essenziale, che trascende infinitamente la semplice rimozione delle punizioni temporanee.
+
+Risposta all’Obiezione 3: Quando un’indulgenza viene concesso in modo generale a chiunque contribuisca alla costruzione di una chiesa, dobbiamo intendere che tale contributo sia proporzionale alle risorse del donatore; nella misura in cui il donatore si avvicini effettivamente a questo obiettivo, otterrà l’indulgenza in modo più o meno completo. Pertanto, un povero che donasse una moneta otterrebbe l’intera indulgenza, mentre un ricco non dovrebbe considerare appropriato donare una somma così esigua per un’opera tanto sacra e proficua; allo stesso modo, non si potrebbe dire che un re aiuti davvero qualcuno se gli donasse soltanto un “obolo”.
+
+Risposta all’Obiezione 4: Una persona che vive vicino alla chiesa, così come il sacerdote e il clero della stessa, ottiene lo stesso beneficio di coloro che viaggiano per una distanza pari a mille giorni di viaggio; infatti, la remissione dei peccati, come già detto, è proporzionale non allo sforzo compiuto, ma ai meriti espressi. Tuttavia, colui che si impegna maggiormente accumula anche più meriti. Questo, tuttavia, va inteso nei casi in cui lo stesso beneficio viene concesso in modo indeterminato. A volte, infatti, vengono fatte distinzioni: ad esempio, il Papa, durante l’assoluzione generale, concede un’indulgenza di cinque anni a coloro che provengono dall’altra parte del mare, una di tre anni a quelli che arrivano dalle montagne, e una di un anno ad altri. Inoltre, una persona non ottiene lo stesso beneficio ogni volta che visita la chiesa durante il periodo in cui esso è valido, poiché a volte tale indulgenza viene concesso per un periodo fisso; quindi, quando si dice “Chiunque visiti questa o quella chiesa fino a tale data otterrà tale beneficio”, bisogna intendere che esso può essere ottenuto soltanto una volta. D’altra parte, se lo stesso beneficio è concesso in modo continuativo in una determinata chiesa – come l’indulgenza di quaranta giorni concessa nella chiesa di San Pietro – allora una persona la ottiene ogni volta che vi visita.
+
+Risposta all’Obiezione 5: Un’indulgenza richiede una causa, non come misura della remissione della punizione, ma affinché l’intenzione di coloro i cui meriti vengono utilizzati possa raggiungere quel particolare individuo. Ora, il bene di una persona può essere rivolto verso un’altra in due modi: innanzitutto, attraverso la carità; e in questo caso, anche senza indulgenze, una persona partecipa a tutte le buone azioni compiute, purché possieda la carità. In secondo luogo, attraverso l’intenzione della persona che compie l’azione buona; e in questo modo, purché esista una causa legittima, l’intenzione di chi ha agito a beneficio della Chiesa può raggiungere un determinato individuo grazie alle indulgenze.
+
 <span class="atom-split" data-atom="123" data-title="Whether an indulgence ought to be granted for temporal help?" data-chapter="Whether an indulgence ought to be granted for temporal help?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an indulgence ought not to be granted for temporal help.
@@ -5561,6 +7501,18 @@ matters. Thus Pope Innocent IV granted an indulgence of ten days to all who pray
 of France; and in like manner sometimes the same indulgence is granted to those who preach a
 crusade as to those who take part in it.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non si debba concedere alcuna indulgenza in cambio di aiuti temporali. Poiché la remissione dei peccati è qualcosa di spirituale; pertanto sostituire qualcosa di spirituale con qualcosa di materiale costituisce simonia. Quindi, ciò non dovrebbe essere permesso.
+
+Obiezione 2: Inoltre, l’aiuto spirituale è più necessario di quello temporale. Tuttavia, le indulgenze non sembrano essere concesse a scopo di aiutare spiritualmente le persone; quindi, tanto meno dovrebbero essere concesse per fornire un aiuto temporale.
+
+Al contrario, esiste la comune [ABITUDINE](/concepts/custom) della Chiesa di concedere indulgenze per i pellegrinaggi e le opere di carità.
+
+Rispondo che le cose temporali sono subordinate alle questioni spirituali, poiché dobbiamo utilizzare le cose temporali proprio per ragioni spirituali. Pertanto, un’indulgenza non deve essere concessa in nome delle cose temporali in sé stesse, ma soltanto nella misura in cui queste siano subordinate a scopi spirituali: ad esempio, nel reprimere i nemici della Chiesa che disturbano la sua pace, o nell’edificare chiese, ponti o compiere altre forme di carità. È evidente quindi che in tali casi non vi è alcuna simonia, poiché ciò che viene scambiato è una cosa spirituale, e non una cosa temporale. Ecco quindi chiara la risposta alla prima obiezione.
+
+Risposta all’Obiezione 2: Le indulgenze possono essere, e talvolta lo sono, concesse anche per questioni puramente spirituali. Ad esempio, papa Innocenzo IV concesse un’indulgenza di dieci giorni a tutti coloro che pregavano per il re di Francia; allo stesso modo, talvolta la stessa indulgenza viene concessa sia a coloro che predicano una crociata sia a coloro che vi partecipano.
+
 <span class="atom-split" data-atom="124" data-title="OF THOSE WHO CAN GRANT INDULGENCES (FOUR ARTICLES)" data-chapter="OF THOSE WHO CAN GRANT INDULGENCES (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider those who can grant indulgences: under which head there are four points
@@ -5569,6 +7521,14 @@ of inquiry:
 (2) Whether a deacon or another, who is not a priest, can grant indulgences?
 (3) Whether a bishop can grant them?
 (4) Whether they can be granted by one who is in mortal sin?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare coloro che possono concedere le indulgenze: in questa categoria vi sono quattro punti da esaminare:  
+(1) Può ogni parroco concedere le indulgenze?  
+(2) Può un diacono o qualcun altro che non sia sacerdote concederle?  
+(3) Può un vescovo concederle?  
+(4) Possono essere concesse da chi si trova in peccato mortale?
 
 <span class="atom-split" data-atom="125" data-title="Whether every parish priest can grant indulgences?" data-chapter="Whether every parish priest can grant indulgences?" data-kind="atom" data-srclang="en"></span>
 
@@ -5625,6 +7585,18 @@ and for this reason they do not dispense all the sacraments. Hence parish priest
 like prelates cannot grant indulgences.
 This suffices for the Replies to the Objections.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che ogni parroco possa concedere indulgenze. Infatti, un’indulgenza deriva la sua efficacia dall’eccedenza dei meriti della Chiesa; e poiché non esiste alcuna congregazione priva di tale eccedenza di meriti, quindi ogni parroco che ha in carico una congregazione può concedere indulgenze, così come ogni prelato.
+
+Obiezione 2: Inoltre, ogni prelato rappresenta un popolo intero, proprio come un individuo rappresenta se stesso. Ma qualsiasi individuo può cedere i propri beni a un altro e così offrire soddisfazione per un terzo. Pertanto, anche un prelato può disporre dei beni del popolo che gli è soggetto, e quindi sembra che possa concedere indulgenze.
+
+Al contrario, escomunicare qualcuno è meno grave che concedere delle indulgenze. Tuttavia, un parroco non può compiere l’atto di escomunica; pertanto, ne consegue che non possa nemmeno concedere indulgenze.
+
+Rispondo che le indulgenze sono efficaci nella misura in cui le opere di soddisfazione compiute da una persona vengono applicate un’altra, non solo per virtù della carità, ma anche perché l’intenzione di chi le ha compiute è direzionata in qualche modo verso la persona a cui vengono rivolte. Ora, l’intenzione di una persona può essere diretta verso un’altra in tre modi: specificamente, genericamente e individualmente. Individualmente, quando una persona offre soddisfazione per un’altra persona specifica; in questo modo, chiunque può applicare le proprie opere a un altro. Specificamente ancora, quando una persona prega per la congregazione a cui appartiene, per i membri della sua famiglia o per i suoi benefattori, e dirige le proprie opere di soddisfazione verso tale scopo; in questo modo, il capo di una congregazione può applicare tali opere a un’altra persona, indirizzando l’intenzione dei membri della sua congregazione verso quella persona specifica. Genericamente, quando una persona dirige le proprie opere al bene della Chiesa in generale; in questo caso, colui che presiede l’intera Chiesa può comunicare tali opere a individui specifici. Poiché ogni uomo fa parte di una congregazione, e una congregazione è parte della Chiesa, l’intenzione di fare del bene a un individuo include anche l’intenzione di fare del bene alla congregazione e all’intera Chiesa. Pertanto, colui che presiede la Chiesa può comunicare ciò che appartiene a una determinata congregazione o a un singolo individuo; ma non il contrario. Tuttavia, né la prima né la seconda forma di comunicazione viene chiamata “indulgenza”, solo la terza; e questo per due motivi: innanzitutto, perché queste forme di comunicazione liberano l’uomo dal debito di punizione agli occhi di Dio, ma non lo esentano dall’obbligo di compiere le opere di soddisfazione prescritte dalla Chiesa; mentre la terza forma di comunicazione libera l’uomo anche da questo obbligo. In secondo luogo, perché in un singolo individuo o in una singola congregazione non esiste un numero sufficiente di meriti per coprire sia i bisogni di quel singolo individuo o congregazione che quelli di tutti gli altri; pertanto, l’individuo non può essere liberato dall’intero debito di punizione se non viene offerta una soddisfazione specifica per lui, nella misura esatta del debito che ha. Dall’altra parte, nell’intera Chiesa esiste un numero sufficiente di meriti, soprattutto grazie al merito di Cristo; pertanto, solo colui che presiede la Chiesa può concedere indulgenze. Poiché la Chiesa è la congregazione dei fedeli, e poiché una congregazione umana può essere di due tipi – quella familiare, composta da membri della stessa famiglia, e quella civile, composta da membri della stessa nazionalità – la Chiesa è paragonabile a una congregazione civile, poiché il popolo stesso viene chiamato “Chiesa”; mentre le varie assemblee o parrocchie di una diocesi.
+Vengono paragonati a una congregazione nelle varie famiglie e nei diversi servizi liturgici. Pertanto, solo un vescovo può essere propriamente chiamato prelato della Chiesa; è lui, infatti, come un sposo, ad ricevere l’anello simbolo della Chiesa. Di conseguenza, l’autorità piena per amministrare i sacramenti e la giurisdizione nei tribunali pubblici appartengono esclusivamente a lui in qualità di rappresentante legittimo della Chiesa; agli altri tali poteri vengono delegati da lui. I sacerdoti incaricati del governo delle persone non sono, in senso stretto, prelati, ma assistenti; per questo motivo, durante la consacrazione dei sacerdoti, il vescovo dice: “Più fragili siamo noi, più abbiamo bisogno di questi assistenti”; ed è proprio per questa ragione che essi non possono amministrare tutti i sacramenti. Di conseguenza, i parroci, gli abati o altri prelati simili non hanno il potere di concedere indulgenze.  
+Questo basta per rispondere alle obiezioni sollevate.
+
 <span class="atom-split" data-atom="126" data-title="Whether a deacon or another who is not a priest can grant an indulgence?" data-chapter="Whether a deacon or another who is not a priest can grant an indulgence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a deacon, or one that is not a priest cannot grant an indulgence.
@@ -5647,6 +7619,16 @@ indulgences, although they cannot absolve in the tribunal of Penance, since this
 of orders. This suffices for the Replies to the Objections, because the granting of indulgences
 belongs to the key of jurisdiction and not to the key of orders.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un diacono, o qualcuno che non sia sacerdote, non possa concedere indulgenze. Poiché la remissione dei peccati è un effetto delle chiavi, e solo un sacerdote possiede queste chiavi, pertanto solo un sacerdote può concedere indulgenze.
+
+Obiezione 2: Inoltre, le indulgenze concedono una remissione più completa della pena rispetto al tribunale della Penitenza. Tuttavia, solo un sacerdote ha potere in quest’ultimo caso; pertanto, anche solo lui ha potere nel primo caso.
+
+Al contrario, la distribuzione del tesoro della Chiesa è affidata alla stessa persona che gestisce l’amministrazione della Chiesa. Talvolta questa responsabilità viene affidata a qualcuno che non è sacerdote; pertanto, tale persona può concedere indulgenze, poiché queste derivano proprio dalla distribuzione del tesoro della Chiesa.
+
+Rispondo che il potere di concedere indulgenze segue la giurisdizione, come già detto sopra (Q[25], A[2]). Poiché diaconi e altri non sacerdoti possono disporre di giurisdizione, sia essa delegata in qualità di legati che ordinaria in quanto vescovi eletti, ne consegue che anche coloro che non sono sacerdoti possono concedere indulgenze; tuttavia non possono assolvere nei tribunali della penitenza, poiché ciò è condizionato dall’aver ricevuto gli ordini sacri. Ciò basta per rispondere alle obiezioni mosse, poiché la concessione delle indulgenze rientra nell’ambito della giurisdizione e non degli ordini sacri.
+
 <span class="atom-split" data-atom="127" data-title="Whether a bishop can grant indulgences?" data-chapter="Whether a bishop can grant indulgences?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that even a bishop cannot grant indulgences. Because the treasury
@@ -5668,6 +7650,16 @@ Therefore the plenitude of the power of granting indulgences resides in the Pope
 grant them, as he lists, provided the cause be a lawful one: while, in bishops, this power resides
 subject to the Pope's ordination, so that they can grant them within fixed limits and not beyond.
 This suffices for the Replies to the Objections.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nemmeno un vescovo possa concedere indulgenze. Poiché il tesoro della Chiesa è proprietà comune di tutta la Chiesa, e tale proprietà comune può essere distribuita soltanto da colui che presiede l’intera Chiesa. Pertanto, solo il Papa può concedere indulgenze.
+
+Obiezione 2: Inoltre, nessuno può abolire le punizioni stabilite dalla legge, se non colui che ha il potere di emanarla. Ora, le punizioni previste come conseguenza dei peccati sono stabilite dalla legge; pertanto, solo il Papa può abolirle, poiché è l’autore della legge stessa.
+
+Al contrario, c’è la [CONSUETUDINE](/concepts/custom) della Chiesa secondo cui i vescovi concedono le indulgenze.
+
+Rispondo che il Papa possiede la plenitudine del potere pontificale; egli è, in qualche modo, come un re nel suo regno: i vescovi, invece, sono nominati per partecipare alle sue cure, simili a giudici incaricati di amministrare ciascuna città. Per questo motivo, solo ai vescovi il Papa si rivolge nelle sue lettere chiamandoli “fratelli”, mentre tutti gli altri li denomina “figli”. Pertanto, la plenitudine del potere di concedere le indulgenze appartiene esclusivamente al Papa, poiché egli può concederle secondo i criteri stabiliti, purché la motivazione sia legittima; nei vescovi, invece, questo potere è subordinato alle direttive del Papa, quindi essi possono concederle entro limiti precisi e non oltre. Ciò basta per rispondere alle obiezioni sollevate.
 
 <span class="atom-split" data-atom="128" data-title="Whether indulgences can be granted by one who is in mortal sin?" data-chapter="Whether indulgences can be granted by one who is in mortal sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -5696,6 +7688,20 @@ from the source, in order that he may grant a valid indulgence.
 Reply to Objection 2: Further, to grant an indulgence is more than to receive one, if we consider
 the power, but it is less, if we consider the personal profit.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le indulgenze non possano essere concesse da chi si trova in peccato mortale. Infatti, un fiume non può più scorrere se viene separato dalla sua sorgente; ora, la sorgente della grazia, ovvero lo Spirito Santo, è “separata” da colui che si trova in peccato mortale. Pertanto, una tale persona non può trasmettere nulla ad altri concedendo indulgenze.
+
+Obiezione 2: Inoltre, concedere un’indulgenza è una cosa più importante che riceverla. Ma colui che si trova in peccato mortale non può ricevere un’indulgenza, come dimostreremo presto (Q[27], A[1]). Pertanto, nemmeno può concederne una.
+
+Al contrario, le indulgenze vengono concesse in virtù del potere conferito ai prelati della Chiesa. Ora, il peccato mortale toglie non il potere, ma la bontà; pertanto, colui che si trova in stato di peccato mortale può concedere indulgenze.
+
+Rispondo che l’concessione delle indulgenze rientra nella giurisdizione ecclesiastica. Tuttavia, un uomo non perde la propria giurisdizione a causa del peccato. Pertanto, le indulgenze sono ugualmente valide, sia che siano concesse da una persona che si trova in peccato mortale, sia da una persona santissima; poiché queste ultime rimuovono la punizione non grazie ai propri meriti, ma grazie ai meriti immagazzinati nel tesoro della Chiesa.
+
+Risposta all’Obiezione 1: Il prelato che, trovandosi in uno stato di peccato mortale, concede un’indulgenza, non dona nulla di proprio; pertanto non è necessario che riceva una fonte di potere o di autorità da cui attingere per poter concedere un’indulgenza valida.
+
+Risposta all’Obiezione 2: Inoltre, concedere un favore è qualcosa di più che riceverlo, se consideriamo il potere che ciò implica; ma è qualcosa di meno, se consideriamo il vantaggio personale che ne deriva.
+
 <span class="atom-split" data-atom="129" data-title="OF THOSE WHOM INDULGENCES AVAIL (FOUR ARTICLES)" data-chapter="OF THOSE WHOM INDULGENCES AVAIL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider those whom indulgences avail: under which head there are four points
@@ -5705,6 +7711,14 @@ of inquiry:
 (3) Whether they avail a person who does not fulfill the conditions for which the indulgence is
 given?
 (4) Whether they avail him who grants them?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare coloro a cui le indulgenze sono efficaci; in questa categoria vi sono quattro punti da esaminare:  
+(1) Se le indulgenze siano efficaci per coloro che si trovano in peccato mortale;  
+(2) Se lo siano per i religiosi;  
+(3) Se lo siano per una persona che non soddisfa le condizioni previste per l’ottenimento dell’indulgenza;  
+(4) Se lo siano per colui che le concede.
 
 <span class="atom-split" data-atom="130" data-title="Whether an indulgence avails those who are in mortal sin?" data-chapter="Whether an indulgence avails those who are in mortal sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -5739,6 +7753,20 @@ This suffices for the Reply to the First Objection.
 Reply to Objection 2: Although he who is in mortal sin is in greater need of help, yet he is
 less capable of receiving it.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le indulgenze siano di qualche utilità per coloro che si trovano in peccato mortale. Infatti, una persona può meritare grazia e molte altre benedizioni per un’altra, anche se questa si trova in peccato mortale. Ora, le indulgenze traggono la loro efficacia dall’applicazione dei meriti dei santi a un individuo specifico; pertanto, dovrebbero essere efficaci anche per chi è in peccato mortale.
+
+Obiezione 2: Inoltre, maggiore è la necessità, maggiore è lo spazio per la pietà. Un uomo che si trova in peccato mortale ha infatti una grande necessità; pertanto, ancora di più dovrebbe essere accolto con compassione e indulgenza.
+
+Al contrario, un membro morto non riceve alcun flusso di benefici dai membri viventi. Ma colui che si trova in peccato mortale è come un membro morto; pertanto non riceve alcun beneficio, attraverso le indulgenze, dai meriti dei membri viventi.
+
+Rispondo che alcuni sostengono che le indulgenze siano utili anche a coloro che si trovano in peccato mortale, per l’acquisizione della grazia, ma non per la remissione della loro punizione, poiché nessuno può essere liberato dalla punizione se prima non è stato liberato dal peccato. Chi infatti non è ancora stato raggiunto dall’azione di Dio che porta alla remissione del peccato, non può ricevere la remissione della sua punizione né attraverso le indulgenze né presso il tribunale della Penitenza.  
+Tuttavia, questa opinione sembra falsa. Poiché, sebbene i meriti ottenuti tramite un’indulgenza possano aiutare una persona a meritare la grazia, non è per questo motivo che vengono concessi, ma per la remissione della punizione. Pertanto, non sono utili a coloro che si trovano in peccato mortale; di conseguenza, vera contrizione e confessione sono necessarie per ottenere qualsiasi indulgenza. Se invece i meriti venissero concessi in questo modo: “Ti concedo una parte dei meriti di tutta la Chiesa, o di una determinata congregazione, ”, allora potrebbero essere utili anche a coloro che si trovano in peccato mortale, permettendo loro di meritare qualcosa, come sostiene l’opinione precedente.  
+Questo basta per rispondere alla Prima Obiezione.
+
+Risposta all’Obiezione 2: Sebbene colui che si trova in peccato mortale abbia un maggiore bisogno di aiuto, è però meno in grado di riceverlo.
+
 <span class="atom-split" data-atom="131" data-title="Whether indulgences avail religious?" data-chapter="Whether indulgences avail religious?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that indulgences do not avail religious. For there is no reason to
@@ -5771,6 +7799,20 @@ they merit less. Nor again do indulgences remit the punishment enjoined in chapt
 chapter is a judicial rather than a penitential tribunal. hence even those who are not priests hold
 chapter. Absolution from punishment enjoined or due for sin is given in the tribunal of Penance.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le indulgenze non siano di alcun beneficio per la vita religiosa. Infatti, non c’è motivo di fornire aiuti a coloro che già donano generosamente da soli. Le indulgenze, inoltre, derivano dall’abbondanza delle opere di soddisfazione presenti nella vita religiosa; pertanto, non è logico che queste indulgenze possano portare a qualche vantaggio concreto.
+
+Obiezione 2: Inoltre, nulla che possa essere dannoso alla vita religiosa dovrebbe essere fatto in Chiesa. Tuttavia, se le indulgenze fossero utili per i religiosi, ciò sarebbe dannoso per la disciplina regolare, poiché i religiosi diventerebbero negligenti a causa delle indulgenze e trascurerebbero le penitenze imposte. Pertanto, le indulgenze non sono di alcun aiuto per i religiosi.
+
+Al contrario, il Bene non arreca danno a nessuno. Ma la vita religiosa è qualcosa di positivo; pertanto, essa non toglie al credente i benefici che possono derivare dalle indulgenze.
+
+Rispondo che le indulgenze sono utili sia ai secolari che ai religiosi, a condizione che possiedano la carità e rispettino le condizioni necessarie per ottenerle; infatti anche i religiosi possono trarre beneficio dalle indulgenze, proprio come le persone che vivono nel mondo.
+
+Risposta all’Obiezione 1: Sebbene i religiosi si trovino nello [stato](/concepts/state) di perfezione, non possono vivere senza peccare; pertanto, se talvolta sono soggetti a punizioni a causa di qualche peccato, possono espiare questo debito attraverso le indulgenze. Non è infatti irragionevole che una persona che, in termini assoluti, è benestante, a volte si trovi in difficoltà e abbia bisogno di ciò che le manca. Ecco perché è scritto (Galati 6:2): “Portate a vicenda i vostri pesi”.
+
+Risposta all’Obiezione 2: Non esiste alcun motivo per cui le indulgenze dovrebbero essere dannose al rispetto delle pratiche religiose, poiché, per quanto riguarda la ricompensa della vita eterna, i meriti religiosi aumentano di più osservando tali regole che ottenendo indulgenze; tuttavia, per quanto riguarda l’indulgenza delle punizioni, che rappresenta un bene di minor rilievo, i meriti derivanti dalle indulgenze sono inferiori. Inoltre, le indulgenze non eliminano le punizioni previste dalle norme religiose, poiché queste ultime riguardano un tribunale giudiziario e non penitenziale; pertanto anche coloro che non sono sacerdoti possono partecipare a tali procedimenti. L’assoluzione dalle punizioni dovute per i peccati avviene invece nel tribunale della Penitenza.
+
 <span class="atom-split" data-atom="132" data-title="Whether an indulgence can ever be granted to one who does not fulfill the conditions required?" data-chapter="Whether an indulgence can ever be granted to one who does not fulfill the conditions required?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an indulgence can sometimes be granted to one who does not
@@ -5802,6 +7844,20 @@ to another. If, however, the indulgence were expressed thus: "Whosoever does thi
 whomsoever this is done, shall gain so much indulgence," it would avail the person for whom it is
 done. Nor would the person who does this action, give the indulgence to another, but he who grants
 the indulgence in this form.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che talvolta si possa concedere un’indulgenza a chi non soddisfa le condizioni richieste. Infatti, quando una persona è impossibilitata ad compiere un certo atto, la sua volontà viene considerata come l’atto stesso. Ora, a volte per ottenere un’indulgenza è necessario donare del denaro, cosa che un povero non può fare, sebbene lo desideri ardentemente. Pertanto, in questo caso, il povero potrebbe comunque ottenere l’indulgenza.
+
+Obiezione 2: Inoltre, un uomo può ottenere per un altro l’indulgenza che è destinata alla remissione della pena. Poiché anche l’indulgenza ha lo scopo di eliminare una punizione, un uomo può quindi procurarsi un’indulgenza a beneficio di un altro; e ciò significa che un uomo può ottenere un’indulgenza senza compiere l’atto per il quale essa è stata concesa.
+
+Al contrario, se la causa viene rimossa, anche l’effetto scompare. Pertanto, se una persona non compie ciò per cui le è stata concessa un’indulgenza – ovvero ciò che costituisce la ragione stessa di tale indulgenza – allora non ottiene quella indulgenza.
+
+Rispondo che, se non viene soddisfatta la condizione prevista per l’ottenimento di una concessione, essa non avviene. Pertanto, poiché un favore viene concesso a condizione che una persona compia o fornisca qualcosa di specifico, se questa condizione non viene rispettata, il favore non viene concesso.
+
+Risposta all’Obiezione 1: Ciò vale per la ricompensa essenziale, ma non per alcune ricompense accidentali, come l’annullamento di una punizione e simili.
+
+Risposta all’Obiezione 2: Una persona può, con la propria intenzione, rivolgere la propria azione a chiunque desideri, e quindi può compiere un atto di soddisfazione nei confronti di chiunque scelga. D’altra parte, un’indulgenza non può essere concessa a qualcuno se non in conformità con l’intenzione del concedente. Pertanto, poiché l’indulgenza viene rivolta al soggetto che compie l’azione o fornisce la cosa in questione, tale soggetto non può trasferire questa intenzione ad altri. Tuttavia, se l’indulgenza fosse espressa in questo modo: “Chiunque compia quest’azione, o a favore di chiunque essa venga compiuta, otterrà un certo beneficio”, allora tale beneficio sarebbe valido per la persona a cui l’azione viene rivolta. Inoltre, colui che compie l’azione non potrebbe trasferire l’indulgenza ad altri, ma soltanto il concedente stesso, nella forma in cui essa è stata espressa.
 
 <span class="atom-split" data-atom="133" data-title="Whether an indulgence avails the person who grants it?" data-chapter="Whether an indulgence avails the person who grants it?" data-kind="atom" data-srclang="en"></span>
 
@@ -5841,6 +7897,23 @@ can pronounce on himself, for the reason that in the tribunal of justice the sam
 judge and accused. On the other hand an indulgence is not given under the form of a sentence, but
 by way of dispensation, which a man can apply to himself.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un’indulgenza non sia di alcun beneficio per colui che la concede. Infatti, il concesso di un’indulgenza rientra nell’ambito della giurisdizione; ora, nessuno può esercitare la propria giurisdizione su se stesso, pertanto nessuno può escomunicarsi da solo. Di conseguenza, nessuno può partecipare all’attuazione di un’indulgenza che egli stesso ha concesso.
+
+Obiezione 2: Inoltre, se ciò fosse possibile, colui che concedesse un’indulgenza potrebbe ottenere la remissione della punizione di tutti i suoi peccati per un atto insignificante, il che significherebbe che potrebbe peccare impunemente, il che sembra assurdo.
+
+Obiezione 3: Inoltre, concedere indulgenze ed escomunicare rientrano nello stesso ambito di potere. Ora, un uomo non può escomunicarsi da solo; pertanto non può partecipare alla concessione di un’indulgenza di cui è lui stesso il concedente.
+
+Al contrario, sarebbe in una situazione peggiore degli altri se non potesse fare uso del tesoro della Chiesa che distribuisce ad altri.
+
+Rispondo che un’indulgenza debba essere concesa per qualche motivo specifico, affinché qualcuno possa essere incoraggiato ad compiere un atto che porti al bene della Chiesa e all’onore di Dio. Ora, il prelato a cui è affidata la cura del bene della Chiesa e la promozione dell’onore di Dio non ha bisogno di essere incoraggiato personalmente ad agire in questo modo. Pertanto, non può concedersi un’indulgenza a sé stesso; ma può utilizzare un’indulgenza che concede agli altri, poiché essa si basa su motivi validi per concederla loro.
+
+Risposta all’Obiezione 1: Un uomo non può esercitare un atto di giurisdizione su se stesso, ma un prelato può avvalersi di quelle cose che sono concesse ad altri per autorità della sua giurisdizione, sia in materia temporale che spirituale; allo stesso modo, un sacerdote si conferisce da solo l’Eucaristia che dona agli altri. Anche un vescovo può quindi applicare a se stesso i sacramenti e le indulgenze della Chiesa che distribuisce ad altri; l’effetto immediato di tali sacramenti e indulgenze, e non quello derivante dalla sua giurisdizione, è la remissione dei peccati.  
+La risposta alla Seconda Obiezione è chiara, come già detto in precedenza.
+
+Risposta all’Obiezione 3: L’escomunione viene pronunciata sotto forma di sentenza, e nessuno può pronunciarla su se stesso, poiché nel tribunale della giustizia lo stesso individuo non può essere allo stesso tempo giudice e imputato. D’altra parte, un’indulgenza non viene concessa sotto forma di sentenza, ma attraverso una dispensa, che un uomo può richiedere per sé stesso.
+
 <span class="atom-split" data-atom="134" data-title="OF THE SOLEMN RITE OF PENANCE (THREE ARTICLES)" data-chapter="OF THE SOLEMN RITE OF PENANCE (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the solemn rite of Penance: under which head there are three points of
@@ -5848,6 +7921,13 @@ inquiry:
 (1) Whether a penance can be published or solemnized?
 (2) Whether a solemn penance can be repeated?
 (3) Whether public penance should be imposed on women?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il solenne rito della Penitenza: sotto questo titolo vi sono tre punti da esaminare:  
+(1) Se una penitenza possa essere resa pubblica o celebrata in modo solenne;  
+(2) Se una penitenza solenne possa essere ripetuta;  
+(3) Se alle donne debba essere imposta una penitenza pubblica.
 
 <span class="atom-split" data-atom="135" data-title="Whether a penance should be published or solemnized?" data-chapter="Whether a penance should be published or solemnized?" data-kind="atom" data-srclang="en"></span>
 
@@ -5899,6 +7979,24 @@ orders. First, on account of the dignity of the latter; secondly, for fear of re
 to avoid the scandal which the people might take through recollection of his former sins; fourthly,
 because he would not have the face to correct others, by reason of the publicity of his own sin.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che una penitenza non dovrebbe essere resa pubblica o celebrata in modo solenne. Infatti, non è lecito per un sacerdote, nemmeno per paura, rivelare i peccati altrui, per quanto notori possano essere. Ora, una penitenza diventa pubblica attraverso la sua celebrazione solenne; pertanto, una penitenza non dovrebbe essere celebrata in modo solenne.
+
+Obiezione 2: Inoltre, il giudizio dovrebbe essere in linea con la natura del tribunale che lo emette. La penitenza, essendo un giudizio pronunciato da un tribunale segreto, non dovrebbe quindi essere reso pubblico né celebrato formalmente.
+
+Obiezione 3: Inoltre, “Ogni difetto viene compensato dalla penitenza”, come afferma Ambrogio nell’*Hypognosticon iii*, tra le opere false attribuite a San [Agostino](/figures/augustine). Ora, la celebrazione solenne della penitenza ha un effetto opposto: essa coinvolge il penitente in molte situazioni negative, poiché un laico non può essere elevato ai ranghi del clero, né un chierico può accedere a ordini più alti dopo aver compiuto una penitenza solenne. Pertanto, la penitenza non dovrebbe essere celebrata in modo solenne.
+
+Al contrario, la Penitenza è un [sacramento](/concepts/sacrament). Ora, ogni sacramento richiede una sorta di solennità; pertanto anche la Penitenza dovrebbe essere accompagnata da una solennità adeguata. Inoltre, il rimedio deve essere appropriato alla malattia: a volte un peccato è pubblico e, con il proprio esempio, induce molti ad commettere altri peccati; quindi anche la penitenza, che ne rappresenta il “rimedio”, dovrebbe essere pubblica e solenne, al fine di portare beneficio a molte persone.
+
+Rispondo che alcune penitenze debbano essere pubbliche e solenni per quattro motivi: primo, affinché un peccato pubblico possa trovare una sanzione pubblica; secondo, perché colui che ha commesso un crimine molto grave meriti la massima umiliazione anche in questa vita; terzo, al fine di scoraggiare gli altri dal compiere simili atti; quarto, affinché costui possa essere un esempio di pentimento, per evitare che coloro che hanno commesso peccati gravi perdano la speranza.
+
+Risposta all’Obiezione 1: Il sacerdote non rivela i segreti della confessione imponendo una tale penitenza, anche se le persone potrebbero sospettare che il penitente abbia commesso qualche grave peccato. Infatti, non si può considerare necessariamente colpevole chi viene punito, poiché a volte si compie la penitenza per conto di un altro; ne troviamo esempi nelle Vite dei Padri della Chiesa: vi è menzionato, ad esempio, un uomo che, al fine di incoraggiare il proprio compagno a pentirsi, ne fece insieme a lui. Inoltre, se il peccato è pubblico, il penitente, compiendo la propria penitenza, dimostra di essere effettivamente andato in confessione.
+
+Risposta all’Obiezione 2: Una penitenza solenne, per quanto riguarda la sua imposizione, non oltrepassa i limiti di un tribunale segreto; infatti, proprio come la confessione viene fatta in segreto, così anche la penitenza viene imposta in segreto. È l’esecuzione della penitenza che va al di là dei limiti del tribunale segreto. E in questo non c’è nulla di criticabile.
+
+Risposta all’Obiezione 3: Sebbene la penitenza cancelli tutte le mancanze, ripristinando l’uomo nello stato di grazia precedente, essa non lo restituisce sempre alla sua dignità originale. Pertanto, alle donne che hanno compiuto penitenza per adulterio non viene restituito il velo, poiché non riacquistano l’onore della verginità. Allo stesso modo, dopo aver scontato una penitenza pubblica, un peccatore non recupera la propria dignità originale al punto di essere idoneo agli ordini sacri; quindi un vescovo che volesse ordinare tale persona dovrebbe essere privato del potere di ordinare, a meno che le esigenze della Chiesa o la [consuetudine](/concepts/custom) non lo richiedano. In tal caso, tale persona verrebbe ammessa agli ordini minori in via eccezionale, ma non agli ordini sacri. Primo, per la dignità degli ultimi; secondo, per timore di ricaduta nel peccato; terzo, per evitare lo scandalo che il ricordo dei suoi precedenti peccati potrebbe suscitare tra la gente; quarto, perché non avrebbe l’onore necessario per correggere gli altri, data la notorietà del proprio errore.
+
 <span class="atom-split" data-atom="136" data-title="Whether a solemn penance can be repeated?" data-chapter="Whether a solemn penance can be repeated?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a solemn penance can be repeated. For those sacraments which
@@ -5924,6 +8022,20 @@ is not inconsistent with solemnity, as it is in the present case. Hence the comp
 
 Reply to Objection 2: Although, if we consider his crime, he ought to do the same penance
 again, yet the repeated solemnization is not becoming, for the reasons stated above.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che una penitenza solenne possa essere ripetuta. Infatti, quei sacramenti che non imprimono un carattere speciale possono essere celebrati nuovamente, come l’Eucaristia e l’Unzione degli Infermi. Ma la penitenza non imprime alcun carattere particolare, pertanto può essere ripetuta.
+
+Obiezione 2: Inoltre, la penitenza viene celebrata in modo solenne proprio a causa della gravità e della pubblicità del peccato commesso. Ora, dopo aver scontato la penitenza, una persona potrebbe ripetere gli stessi peccati, o addirittura commetterne di ancora più gravi. Pertanto, la penitenza solenne dovrebbe essere nuovamente imposta.
+
+Al contrario, la penitenza solenne simboleggia l’allontanamento dell’uomo primordiale dal paradiso. Questo evento è avvenuto una sola volta; pertanto, anche la penitenza solenne dovrebbe essere praticata una sola volta.
+
+Rispondo che la penitenza solenne non dovrebbe essere ripetuta per tre motivi. Primo, affinché la sua frequenza non la renda oggetto di disprezzo. Secondo, in considerazione del suo significato: essa simboleggia l’allontanamento dell’uomo primogenito dal paradiso, un evento che è avvenuto una sola volta. Terzo, perché la sua celebrazione indica, in qualche modo, il proposito di perseverare nella penitenza continua. Pertanto, la ripetizione sarebbe contraddittoria con lo spirito stesso della solennità. E se il peccatore dovesse ricadere nel peccato, non gli viene vietato di compiere penitenza, ma non dovrebbe essere imposta nuovamente una penitenza solenne.
+
+Risposta all’Obiezione 1: Nei sacramenti che vengono celebrati più volte, la ripetizione non è incompatibile con la solennità, come avviene nel caso attuale. Pertanto, il paragone non regge.
+
+Risposta all’Obiezione 2: Sebbene, considerando il suo crimine, dovrebbe compiere nuovamente la stessa penitenza, tuttavia una ripetuta celebrazione di tale atto non è appropriata, per i motivi sopra indicati.
 
 <span class="atom-split" data-atom="137" data-title="Whether solemn penance should be imposed on women and clerics, and whether any priest can impose it?" data-chapter="Whether solemn penance should be imposed on women and clerics, and whether any priest can impose it?" data-kind="atom" data-srclang="en"></span>
 
@@ -5969,3 +8081,20 @@ contempt. Thus deference is given not to the person but to his orders.
 
 Reply to Objection 3: Grave sins need great care in their cure. Hence the imposition of a
 solemn penance, which is only applied for the most grievous sins, is reserved to the bishop.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la penitenza solenne non dovrebbe essere imposta alle donne. Infatti, quando questa penitenza viene inflitta a un uomo, egli deve tagliarsi i capelli; ma una donna, secondo 1 Corinzi 11:15, non deve farlo. Pertanto, lei non dovrebbe sottoporsi alla penitenza solenne.
+
+Obiezione 2: Sembra anche che tale sanzione dovrebbe essere imposta anche ai chierici, poiché è prescritta proprio a causa di un crimine grave. Ora, lo stesso peccato è ancora più grave in un chierico che in un laico; pertanto, tale sanzione dovrebbe essere applicata con maggiore rigore ai chierici rispetto ai laici.
+
+Obiezione 3: Sembra anche che possa essere imposto da qualsiasi sacerdote. Infatti, l’atto di assolvere nel tribunale della Penitenza spetta a colui che possiede le “chiavi”. Ora, un sacerdote ordinario possiede queste “chiavi”; pertanto può amministrare tale penitenza.
+
+Rispondo che ogni penitenza solenne è pubblica, ma non il contrario. Infatti, la penitenza solenne si compie nel seguente modo: “Il primo giorno di Quaresima, questi penitenti, vestiti di sacco, a piedi nudi, con il viso rivolto verso il suolo e i capelli tagliati, accompagnati dai loro sacerdoti, si presentano al vescovo della città alla porta della chiesa. Una volta fatti entrare in chiesa, il vescovo, insieme a tutto il suo clero, recita i sette salmi penitenziali; poi impone loro la mano, li asperga con acqua santa, imposta loro cenere sulla testa, copre le loro spalle con un saio di lana e annuncia con tristezza che, così come Adamo fu espulso dal paradiso, anch’essi sono espulsi dalla chiesa. Successivamente ordina ai sacerdoti di farli uscire dalla chiesa, e il clero li segue recitando il responsorio: ‘Nel sudore della tua fronte’, ecc. Ogni anno, nel giorno dell’Ultima Cena del Signore, vengono riportati in chiesa dai loro sacerdoti e vi rimangono fino all’ottava di Pasqua, senza tuttavia essere ammessi alla Comunione o al bacio della pace. Questo si ripeterà ogni anno finché l’ingresso in chiesa loro sarà vietato. La riconciliazione definitiva è riservata al vescovo, che solo può imporre la penitenza solenne” [*Cap. lxiv, dist. 50*].  
+Questa penitenza può essere imposta sia agli uomini che alle donne; ma non ai sacerdoti, per evitare scandali. Inoltre, tale penitenza non dovrebbe essere imposta se non per un crimine che abbia turbato l’intera città. D’altra parte, la penitenza pubblica ma non solenne è quella che si compie alla presenza della chiesa, ma senza le formalità solenni previste; ad esempio, un pellegrinaggio in tutto il mondo con un bastone. Questo tipo di penitenza può essere ripetuto e può essere imposta anche da un semplice sacerdote, persino su un altro sacerdote. Tuttavia, a volte la penitenza solenne viene utilizzata per indicare una penitenza pubblica; per questo le autorità parlano di penitenza solenne in diversi sensi.
+
+Risposta all’Obiezione 1: I capelli di una donna sono un segno della sua sottomissione, quelli di un uomo no. Pertanto non è appropriato che una donna si tolga i capelli quando compie atti di penitenza, come avviene per un uomo.
+
+Risposta all’Obiezione 2: Sebbene, nello stesso tipo di peccato, un chierico offenda in modo più grave di un laico, non gli viene imposta una penitenza solenne, affinché il suo ordine sacro non diventi oggetto di disprezzo. Quindi, ciò che viene rispettato non è la persona stessa, ma il suo ordine religioso.
+
+Risposta all’Obiezione 3: I peccati gravi richiedono un’attenzione particolare nella loro espiazione. Pertanto, l’imposizione di una penitenza solenne, riservata esclusivamente ai peccati più gravi, è un compito esclusivo del vescovo.

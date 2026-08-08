@@ -24,6 +24,10 @@ tags:
 
 TREATISE ON THE CREATION (QQ 44-49)
 
+<span class="qlang-split" data-lang="it"></span>
+
+TRATTATO SULLA CREAZIONE (QQ 44-49)
+
 <span class="atom-split" data-atom="002" data-title="THE PROCESSION OF CREATURES FROM GOD, AND OF THE FIRST CAUSE OF ALL THINGS (FOUR ARTICLES)" data-chapter="THE PROCESSION OF CREATURES FROM GOD, AND OF THE FIRST CAUSE OF ALL THINGS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After treating of the procession of the divine persons, we must consider the procession of
@@ -37,6 +41,10 @@ Under the first head there are four points of inquiry:
 Him?
 (3) Whether God is the exemplar cause of beings or whether there are other exemplar causes?
 (4) Whether He is the final cause of things?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo aver trattato della processione delle persone divine, dobbiamo considerare la processione delle creature da Dio. Questa analisi sarà articolata in tre parti: (1) la generazione delle creature; (2) la distinzione tra di esse; (3) la loro conservazione e il loro governo. Per quanto riguarda il primo punto, vi sono tre aspetti da esaminare: (1) la causa prima degli esseri; (2) il modo in cui le creature derivano dalla causa prima; (3) il principio che determina la durata delle cose. All’interno di questa prima categoria, si possono individuare quattro questioni principali: (1) Se Dio sia la [causa efficiente](/concepts/four_causes) di tutti gli esseri; (2) Se la materia primaria venga creata da Dio o rappresenti un principio coordinato e indipendente da Lui; (3) Se Dio sia la causa esemplare degli esseri, oppure se esistano altre cause esemplari; (4) Se Egli sia la causa finale delle cose.
 
 <span class="atom-split" data-atom="003" data-title="Whether it is necessary that every being be created by God?" data-chapter="Whether it is necessary that every being be created by God?" data-kind="atom" data-srclang="en"></span>
 
@@ -91,6 +99,24 @@ have an efficient cause in proportion to its being. And so, although the object 
 an efficient cause, still, its relation to that cause is not the reason why it is brought under the
 consideration of the mathematician, who therefore does not demonstrate that object from its efficient
 cause.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia necessario che ogni essere venga creato da Dio. Infatti, nulla impedisce che una cosa esista senza ciò che non appartiene alla sua essenza, proprio come un uomo può esistere senza essere bianco. Tuttavia, la relazione tra l’effetto e la causa non sembra essere essenziale per gli esseri; alcuni esseri possono essere compresi anche senza di essa, quindi possono esistere senza di essa. Pertanto, è possibile che alcuni esseri non vengano creati da Dio.
+
+Obiezione 2: Inoltre, una cosa richiede una [causa efficiente](/concepts/four_causes) per poter esistere. Pertanto, tutto ciò che deve necessariamente esistere non richiede una causa efficiente. Ma nulla di necessario può non esistere, poiché ciò che esiste necessariamente deve necessariamente esistere. Quindi, poiché esistono molte cose necessarie, sembra che non tutti gli esseri provengano da Dio.
+
+Obiezione 3: Inoltre, qualsiasi cosa abbia una causa può essere dimostrata attraverso quella stessa causa. Tuttavia, in matematica la dimostrazione non si basa sulla causa effettiva, come emerge dal Filosofo (Metafisica, iii, testo 3); pertanto, non tutti gli esseri derivano da Dio come dalla loro causa effettiva.
+
+Al contrario, si dice (Roma 11:36): “Di Lui, per Lui e in Lui sono tutte le cose”.
+
+Rispondo che bisogna affermare che ogni essere, in qualsiasi modo esista, proviene da Dio. Poiché ciò che si trova in qualcosa attraverso la partecipazione deve necessariamente essere causato da ciò di cui esso fa essenzialmente parte, proprio come il ferro viene infuocato dal fuoco. È stato già dimostrato in precedenza (Q[3], A[4]), nel trattare della semplicità divina, che Dio è l’Essere essenzialmente autosufficiente; inoltre è stato dimostrato (Q[11], AA[3],4) che un essere autonomo deve necessariamente essere uno: se infatti la bianchezza fosse autosufficiente, sarebbe unica, poiché si moltiplica soltanto nei suoi oggetti. Pertanto, tutti gli esseri, tranne Dio, non sono esseri a sé stanti, ma esistono attraverso la partecipazione ad altri esseri. Ne consegue che tutte le cose che si diversificano attraverso diverse forme di partecipazione all’essere, rendendosi così più o meno perfette, devono essere causate da un Unico Essere Primo, che possiede l’essere in modo assolutamente perfetto. Per questo motivo Platone affermò (Parmenide, xxvi) che l’unità deve precedere la molteplicità; e Aristotele disse (Metafisica, ii, 4) che ciò che è il più grande nell’essere e nel vero è la causa di ogni essere e di ogni verità, proprio come ciò che è il più grande nel calore è la causa di tutto il calore.
+
+Risposta all’Obiezione 1: Sebbene il rapporto con la sua causa non faccia parte della definizione di una cosa causata, esso deriva comunque da ciò che appartiene alla sua essenza; poiché il fatto che una cosa esista per partecipazione implica necessariamente che sia causata. Pertanto, un essere del genere non può esistere senza essere stato causato, proprio come l’uomo non può esistere senza la capacità di ridere. Tuttavia, poiché il fatto di essere causato non rientra nell’essenza dell’essere in sé, è possibile che esista un essere non causato.
+
+Risposta all’Obiezione 2: Questa obiezione ha portato alcuni a sostenere che ciò che è necessario non abbia alcuna causa (Physica viii, testo 46). Tuttavia, questo è chiaramente falso nelle scienze dimostrative, dove i principi necessari costituiscono appunto le cause delle conclusioni necessarie. Pertanto Aristotele afferma (Metafisica v, testo 6) che esistono cose necessarie le quali hanno una causa della loro stessa necessità. La ragione per cui è richiesta una causa efficiente non deriva semplicemente dal fatto che l’effetto non sia necessario in sé, ma perché l’effetto potrebbe non verificarsi se la causa mancasse. Infatti, questa proposizione condizionale è vera indipendentemente dal fatto che il suo antecedente e il suo conseguente siano possibili o impossibili.
+
+Risposta all’Obiezione 3: La scienza della matematica tratta il proprio oggetto come se fosse qualcosa di astratto mentalmente, mentre in realtà non lo è. Oggi si tende sempre di più a ritenere che ogni cosa debba avere una causa efficiente proporzionata alla sua esistenza. Pertanto, anche se l’oggetto della matematica ha effettivamente una causa efficiente, la relazione che esso intrattiene con tale causa non costituisce il motivo per cui viene preso in considerazione dal matematico; quindi, quest’ultimo non dimostra tale oggetto partendo dalla sua causa efficiente.
 
 <span class="atom-split" data-atom="004" data-title="Whether primary matter is created by God?" data-chapter="Whether primary matter is created by God?" data-kind="atom" data-srclang="en"></span>
 
@@ -266,6 +292,38 @@ this is called creation, and includes eight points of inquiry:
 (7) Whether any trace of the Trinity is to be found in created things?
 (8) Whether the work of creation is mingled with the works of nature and of the will?
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non sia la [causa finale](/concepts/four_causes) di tutte le cose. Infatti, agire per un fine sembrerebbe implicare la necessità di tale fine. Ma Dio non ha bisogno di nulla; pertanto, non è appropriato che agisca per un fine.
+
+Obiezione 2: Inoltre, la fine del processo di generazione, la forma della cosa prodotta e l’agente che compie tale processo non possono essere identici (Physica ii, testo 70), poiché la fine del processo di generazione è proprio la forma della cosa risultante. Ma Dio è l’agente primario che produce tutte le cose; pertanto non può essere considerato la causa finale di tutto ciò che esiste.
+
+Obiezione 3: Inoltre, tutte le cose desiderano il proprio fine. Ma non tutte le cose desiderano Dio, poiché molte di esse nemmeno Lo conoscono. Pertanto, Dio non è il fine di tutte le cose.
+
+Obiezione 4: Inoltre, la causa finale è la prima tra tutte le cause. Pertanto, se Dio è sia la causa efficace che quella finale, ne consegue che il concetto di “prima” e “dopo” abbia senso in relazione a Lui; il che è impossibile.
+
+Al contrario, si dice (Proverbi 16:4): “Il Signore ha creato tutte le cose per sé stesso”.
+
+Rispondo che ogni agente agisce per un fine: altrimenti da un’azione dell’agente non deriverebbe mai una cosa piuttosto che un’altra, se non per caso. Ora, il fine dell’agente e di colui che è oggetto delle sue azioni è lo stesso, ma in modi diversi; infatti l’impressione che l’agente intende produrre e quella che colui che ne è soggetto intende ricevere sono la stessa cosa. Tuttavia, alcune entità sono contemporaneamente agenti e oggetti delle azioni altrui: si tratta di agenti imperfetti, i quali, anche nell’agire, intendono l’acquisizione di qualcosa. Ma non spetta all’Agente Primordiale, che è soltanto un agente, agire allo scopo di ottenere un fine; Egli intende soltanto comunicare la Sua perfezione, cioè la Sua bontà; mentre ogni creatura intende acquisire la propria perfezione, che consiste nella somiglianza con la perfezione e la bontà divine. Pertanto, la bontà divina è lo scopo di tutte le cose.
+
+Risposta all’Obiezione 1: Agire per necessità appartiene soltanto a un agente imperfetto, che per sua natura è sia agente che paziente. Ma ciò non vale per Dio; pertanto, solo Lui è il donatore più perfettamente generoso, poiché non agisce per proprio vantaggio, ma esclusivamente per la propria bontà.
+
+Risposta all’Obiezione 2: La forma della cosa generata non costituisce lo scopo stesso della generazione, se non nella misura in cui essa rappresenta l’immagine della forma del generatore, il quale intende trasmettere proprio quella somiglianza; altrimenti, la forma della cosa generata sarebbe più nobile del generatore stesso, poiché lo scopo è sempre più nobile dei mezzi utilizzati per raggiungerlo.
+
+Risposta all’Obiezione 3: Tutte le cose desiderano Dio come loro fine quando desiderano qualcosa di buono, sia che questo desiderio sia intellettuale o sensibile, o naturale, cioè senza conoscenza; perché nulla è buono e desiderabile se non nella misura in cui partecipa alla somiglianza con Dio.
+
+Risposta all’Obiezione 4: Poiché Dio è la causa efficiente, l’esempio e la causa finale di tutte le cose, e poiché la materia primaria proviene da Lui, ne consegue che il primo principio di tutte le cose sia uno in realtà. Tuttavia, ciò non ci impedisce di considerare mentalmente molte cose in Lui, alcune delle quali ci vengono in mente prima di altre.  
+**Il modo di emanazione delle cose dal Primo Principio (Otto articoli)**  
+La domanda successiva riguarda il modo con cui le cose derivano dal Primo Principio; questo processo viene chiamato “creazione” e comprende otto punti di indagine:  
+(1) Che cos’è la creazione?  
+(2) Dio può creare qualcosa?  
+(3) La creazione fa parte della natura stessa delle cose?  
+(4) A quali cose appartiene il fatto di essere create?  
+(5) Solo a Dio spetta il potere di creare?  
+(6) La creazione è comune a tutta la Trinità, o appartiene esclusivamente a una delle Persone della Trinità?  
+(7) Si può trovare qualche traccia della Trinità nelle cose create?  
+(8) Il lavoro della creazione si mescola con i lavori della natura e della volontà di Dio?
+
 <span class="atom-split" data-atom="007" data-title="Whether to create is to make something from nothing?" data-chapter="Whether to create is to make something from nothing?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that to create is not to make anything from nothing. For [Augustine](/figures/augustine)
@@ -319,6 +377,24 @@ the sense is, "It is made from nothing---i.e. it is not made from anything"---as
 when it is said, that anything is made from nothing. But in the first way this preposition "from"
 [ex] implies order, as has been said in this reply. In the second sense, it imports the material cause,
 which is denied.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che creare non significhi produrre qualcosa dal nulla. Infatti, [Agostino](/figures/augustine) afferma (in “Contra Adv. Leg. et Proph.” I): “Produrre significa creare qualcosa che prima non esisteva affatto; mentre creare significa generare qualcosa partendo da ciò che già esiste”.
+
+Obiezione 2: Inoltre, la nobiltà dell’azione e del movimento viene valutata in base ai loro termini di partenza. Pertanto, un’azione è più nobile quando avviene da “buono a buono” o da “essere a essere”, piuttosto che da “nulla a qualcosa”. Tuttavia, la creazione sembra rappresentare l’azione più nobile di tutte; quindi non avviene da “nulla a qualcosa”, ma piuttosto da “essere a essere”.
+
+Obiezione 3: Inoltre, la preposizione “da” implica una relazione di causa, e in particolare quella della [causa materiale](/concepts/four_causes); ad esempio, quando diciamo che una statua è fatta di bronzo. Ma “nulla” non può essere l’oggetto dell’esistenza, né in alcun modo la sua causa. Pertanto, creare non significa produrre qualcosa dal nulla.
+
+Al contrario, riguardo al testo di Genesi 1, “All’inizio Dio creò”, ecc., la glossa recita: “Creare significa produrre qualcosa dal nulla”.
+
+Rispondo che, come detto sopra (Q[44], A[2]), dobbiamo considerare non solo l’emanazione di un essere particolare da un agente particolare, ma anche l’emanazione di tutto l’essere dalla causa universale, che è Dio; e questa emanazione la denominiamo creazione. Ora, ciò che deriva da un’emanazione particolare non è presupposto a tale emanazione; ad esempio, quando un uomo viene generato, prima non esisteva, ma l’uomo viene creato dal “non-uomo”, e il bianco dal “non-bianco”. Pertanto, se si considera l’emanazione di tutto l’essere universale dal principio primo, è impossibile che alcun essere possa essere presupposto prima di questa emanazione. Infatti, nulla è lo stesso che “nessun essere”. Quindi, così come la generazione di un uomo avviene dal “non-essere” che è il “non-uomo”, anche la creazione, che è l’emanazione di tutto l’essere, avviene dal “non-essere” che è “nulla”.
+
+Risposta all’Obiezione 1: Agostino utilizza il termine “creazione” in senso equivoco, poiché “essere creati” indica un miglioramento delle cose; come quando diciamo che un vescovo viene “creato”. Tuttavia, qui non parliamo di creazione in questo senso, ma nel modo descritto sopra.
+
+Risposta all’Obiezione 2: I cambiamenti ricevono specie e dignità non dal termine “da cui derivano”, ma dal termine “verso cui tendono”. Pertanto, un cambiamento è più perfetto ed eccellente quando il termine “verso cui” è più nobile ed eccellente; anche se il termine “da cui derivano”, corrispondente a tale termine, può essere meno perfetto. Ad esempio, la generazione è semplicemente più nobile e più eccellente dell’alterazione, poiché la [forma sostanziale](/concepts/forma_substantialis) è più nobile della forma accidentale; tuttavia, la privazione della forma sostanziale – che rappresenta il termine “da cui derivano” nella generazione – è meno perfetta rispetto al contrario, che corrisponde al termine “verso cui tende” nell’alterazione. Allo stesso modo, la creazione è più perfetta ed eccellente della generazione e dell’alterazione, poiché il termine “verso cui tende” nella creazione rappresenta l’intera sostanza della cosa; mentre ciò che viene inteso come termine “da cui derivano” nella creazione non è altro che nulla.
+
+Risposta all’Obiezione 3: Quando si afferma che qualcosa è “fatto dal nulla”, la preposizione “dal” non indica la causa materiale, ma soltanto l’ordine temporale; come quando diciamo “dalla mattina arriva mezzogiorno”, cioè dopo la mattina arriva mezzogiorno. Tuttavia, questa preposizione può anche includere la negazione implicita nella parola “nulla”. Se interpretata nel primo senso, si afferma l’ordine temporale, indicando il rapporto tra ciò che esiste attualmente e la sua precedente inesistenza. Ma se la negazione include anche la preposizione stessa, allora l’ordine viene negato; il significato diventa “È fatto dal nulla”, cioè “Non è fatto da nulla”, come quando si dice “Parla di nulla” perché non parla affatto di nulla. Questo si verifica in entrambi i casi, quando si afferma che qualcosa sia “fatto dal nulla”. Nel primo senso, la preposizione “dal” indica l’ordine temporale; nel secondo senso, implica la causa materiale, che viene però negata.
 
 <span class="atom-split" data-atom="008" data-title="Whether God can create anything?" data-chapter="Whether God can create anything?" data-kind="atom" data-srclang="en"></span>
 
@@ -390,6 +466,34 @@ Reply to Objection 4: This objection proceeds from a false imagination, as if th
 infinite medium between nothing and being; which is plainly false. This false imagination comes
 from creation being taken to signify a change existing between two forms.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non possa creare nulla, poiché, secondo il Filosofo (Phys. i, testo 34), gli antichi filosofi consideravano un assioma universalmente accettato il fatto che “nulla si crea dal nulla”. Tuttavia, il potere di Dio non si estende alle contraddizioni dei principi primi; ad esempio, Dio non potrebbe rendere l’intero minore della sua parte, né potrebbe far sì che affermazione e negazione fossero entrambe vere allo stesso tempo. Pertanto, Dio non può creare nulla dal nulla.
+
+Obiezione 2: Inoltre, se creare significa produrre qualcosa dal nulla, allora essere creati significa essere resi esistenti. Ma essere resi esistenti significa subire un cambiamento. Pertanto, la creazione è essenzialmente un processo di cambiamento. Ora, ogni cambiamento avviene in un soggetto determinato, come risulta dalla definizione di movimento: il movimento, infatti, è l’atto di ciò che si trova in stato di [potenzialità](/concepts/act_potency). Quindi è impossibile che qualcosa venga creato dal nulla da parte di Dio.
+
+Obiezione 3: Inoltre, ciò che è stato creato deve necessariamente essere stato “fatto” in un certo momento. Tuttavia non si può dire che ciò che viene creato sia contemporaneamente in fase di formazione e già creato, perché nelle cose permanenti ciò che è in fase di formazione non esiste ancora, mentre ciò che è stato creato già esiste: ne consegue quindi che qualcosa potrebbe essere e allo stesso tempo non essere. Pertanto, quando qualcosa viene creato, il suo processo di formazione precede necessariamente il momento in cui diventa effettivamente realtà. Ma questo è impossibile, a meno che non esista un soggetto nel quale tale processo di formazione possa avvenire. Quindi è impossibile che qualcosa venga creato dal nulla.
+
+Obiezione 4: Inoltre, una distanza infinita non può essere attraversata. Tuttavia, esiste una distanza infinita tra l’essere e il nulla. Pertanto, non è possibile che qualcosa venga creato dal nulla.
+
+Al contrario, si dice (Genesi 1:1): “All’inizio Dio creò il cielo e la terra”.
+
+Rispondo che non solo è impossibile che qualcosa possa essere creato da Dio, ma è anche necessario affermare che tutte le cose siano state create da Dio, come risulta da quanto detto in precedenza (Q[44], A[1]). Infatti, quando qualcuno crea una cosa partendo da un’altra, quest’ultima viene presupposta nell’atto creativo e non è prodotta direttamente da esso; così il artigiano lavora con materiali naturali come legno o bronzo, che non derivano dall’azione umana, ma dalla forza della natura. Allo stesso modo, la natura stessa genera le cose naturali in termini di forma, ma presupone già l’esistenza della materia. Pertanto, se Dio agisse soltanto partendo da qualcosa che è già esistente, ne conseguirebbe che tale cosa non sarebbe stata creata da Lui stesso. Ora, come dimostrato in precedenza (Q[44], AA[1],2), nulla può esistere se non per volontà di Dio, che è la causa universale di ogni essere. Ne consegue quindi che sia necessario affermare che Dio crea le cose dal nulla.
+
+Risposta all’Obiezione 1: Gli antichi filosofi, come detto sopra (Q[44], A[2]), consideravano soltanto l’emanazione di effetti specifici da cause particolari, le quali necessariamente presuppongono qualcosa nel loro agire; da ciò derivava la loro comune opinione secondo cui “niente si crea dal nulla”. Tuttavia, questo concetto non ha alcun rilievo nella prima emanazione dal principio universale di tutte le cose.
+
+Risposta all’Obiezione 2: La creazione non è cambiamento, se non secondo un certo modo di comprensione.  
+Infatti, il cambiamento significa che la stessa cosa debba essere diversa ora rispetto a quanto era in precedenza.  
+A volte, effettivamente, la stessa cosa reale è diversa ora rispetto a prima, come nel caso del movimento in termini di quantità, qualità e luogo; ma altre volte si tratta dello stesso essere soltanto in potenzialità, come nel caso dei cambiamenti sostanziali, i cui soggetti sono la materia.  
+Nella creazione, però – che consiste nella produzione dell’intera sostanza di una cosa – la stessa cosa può essere considerata diversa ora rispetto a prima soltanto secondo il nostro modo di comprensione; in questo senso, si dice che una cosa esista prima non esistendo affatto, e poi esiste effettivamente.  
+Ma poiché l’azione e la passività coincidono riguardo alla sostanza del movimento e differiscono soltanto per diverse relazioni (Physica, iii, testi 20, 21), ne consegue che, quando il movimento scompare, rimangono soltanto diverse relazioni nel Creatore e nella creatura.  
+Poiché, come detto in precedenza, il modo di significazione segue il modo di comprensione (Q[13], A[1]), la creazione viene indicata attraverso il concetto di cambiamento; per questo si dice che “creare” significhi “fare qualcosa dal nulla”.  
+Tuttavia, in questo contesto, le espressioni “fare” e “essere fatti” sono più appropriate di quelle “cambiare” e “essere cambiati”, poiché queste ultime implicano necessariamente una relazione di causa-effetto, mentre “fare” e “essere fatti” indicano piuttosto un processo che comporta cambiamento come conseguenza.
+
+Risposta all’Obiezione 3: Nei casi in cui qualcosa viene creato senza il coinvolgimento di movimento, il processo di creazione e lo stato risultante sono simultanei. Ciò vale sia quando tale processo costituisce il compimento di un movimento – come nell’esempio dell’illuminazione, dove una cosa viene illuminata e allo stesso tempo esiste già in uno stato illuminato – sia quando non ne è il caso, come nel caso della formazione di una parola nella mente, dove la parola viene concepita e allo stesso tempo esiste già nella mente. In questi casi, ciò che viene creato “è” già; tuttavia, quando parliamo del suo “essere stato creato”, intendiamo dire che esso deriva da un altro elemento e prima non esisteva. Pertanto, poiché la creazione avviene senza movimento, una cosa viene creata e allo stesso tempo è già stata creata.
+
+Risposta all’Obiezione 4: Questa obiezione deriva da un’errata immaginazione, come se esistesse un mezzo infinito tra il nulla e l’esistenza; il che è chiaramente falso. Questa errata concezione nasce dal fatto che si consideri la creazione come un cambiamento che avviene tra due forme diverse.
+
 <span class="atom-split" data-atom="009" data-title="Whether creation is anything in the creature?" data-chapter="Whether creation is anything in the creature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that creation is not anything in the creature. For as creation taken
@@ -444,6 +548,24 @@ which is the beginning of the creature. Nor is it necessary that as long as the 
 be created; because creation imports a relation of the creature to the Creator, with a certain newness
 or beginning.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la creazione non sia nulla all’interno della creatura. Poiché la creazione intesa in senso passivo viene attribuita alla creatura, allo stesso modo la creazione intesa in senso attivo viene attribuita al Creatore. Tuttavia, la creazione intesa in senso attivo non è nulla nel Creatore, poiché in tal caso si dovrebbe concludere che in Dio esista qualcosa di temporale. Pertanto, anche la creazione intesa in senso passivo non è nulla all’interno della creatura.
+
+Obiezione 2: Inoltre, non esiste alcun intermediario tra il Creatore e la creatura. Tuttavia, la creazione viene considerata proprio quell’intermediario: non è il Creatore, poiché non è eterna; né è la creatura stessa, perché in tal caso sarebbe necessario, per lo stesso motivo, ipotizzare un’altra creazione che la generasse, e così via all’[infinito](/concepts/infinity). Pertanto, la creazione non rappresenta nulla all’interno della creatura stessa.
+
+Obiezione 3: Inoltre, se la creazione è qualcosa di diverso dalla sostanza creata, deve essere un accidente che appartiene a essa. Ma ogni accidente esiste in un soggetto; pertanto, una cosa creata sarebbe il soggetto stesso della creazione, e quindi lo stesso oggetto sarebbe sia il soggetto che l’oggetto della creazione. Questo è impossibile, perché il soggetto precede l’accidente e lo conserva; mentre l’oggetto dell’accidente segue l’azione o la passione di cui è risultato, e non appena queste cessano, anche l’oggetto scompare. Pertanto, la creazione stessa non è nulla.
+
+Al contrario, è molto più significativo che una cosa venga creata secondo la sua intera essenza, piuttosto che secondo la sua forma sostanziale o accidentale. Ma la generazione, intesa in senso semplice o relativo – cioè quando qualcosa viene creato secondo la sua forma sostanziale o accidentale – rappresenta comunque un elemento presente nella cosa stessa che viene generata. Pertanto, la creazione, che consiste nel far sì che una cosa venga creata secondo la sua intera essenza, è ancora di più significativa: essa rappresenta qualcosa che appartiene intrinsecamente alla cosa creata.
+
+Rispondo che la Creazione inserisce qualcosa nella cosa creata soltanto in base a relazioni; infatti ciò che viene creato non è prodotto attraverso movimento o cambiamento. Ciò che viene prodotto tramite movimento o cambiamento deriva da qualcosa che esisteva già prima. Questo avviene effettivamente nelle produzioni particolari di alcuni esseri, ma non può accadere nella creazione di tutto l’essere da parte della causa universale di ogni essere, che è Dio. Pertanto, Dio crea le cose senza ricorrere al movimento. Ora, quando il movimento viene eliminato dall’azione e dalla passione, rimane soltanto la relazione, come già detto in precedenza (A[2], ad 2). Quindi, nella creatura, la creazione rappresenta soltanto una certa relazione verso il Creatore, cioè verso il principio del suo essere; proprio come nella passione, che implica movimento, è implicita una relazione verso il principio del movimento stesso.
+
+Risposta all’Obiezione 1: “Creazione” intesa in senso attivo indica l’azione divina, che è essenza stessa di Dio, nel suo rapporto con la creatura. Tuttavia, il rapporto di Dio con la creatura non è un rapporto reale, ma soltanto un rapporto logico; al contrario, il rapporto della creatura con Dio è un rapporto reale, come già detto in precedenza (Q[13], A[7]) nel trattare dei divini [nomi](/positions/nominalism).
+
+Risposta all’Obiezione 2: Poiché la creazione è intesa come un cambiamento, come detto sopra (A[2], ad 2), e il cambiamento rappresenta una sorta di intermediario tra il motore e ciò che viene mosso, anche la creazione può essere considerata un intermediario tra il Creatore e la creatura. Tuttavia, la creazione passiva esiste all’interno della stessa creatura ed essa stessa è considerata una creatura. Inoltre, non è necessaria alcuna ulteriore creazione per realizzare questa “creazione” interna; poiché le relazioni, o la loro natura complessiva, si riferiscono a qualcosa in modo diretto, senza l’intermediazione di altre relazioni, proprio come dimostrato sopra (Q[42], A[1], ad 4) nel discutere dell’uguaglianza delle Persone divine.
+
+Risposta all’Obiezione 3: La creatura è il termine della creazione nel senso di un cambiamento, ma è anche il soggetto della creazione, considerata come una relazione reale; inoltre, essa esiste prima della creazione stessa, proprio come il soggetto esiste prima dell’attributo che lo caratterizza. Tuttavia, la creazione presenta un certo aspetto di priorità riguardo all’oggetto verso cui è diretta, ovvero l’inizio stesso della creatura. Inoltre, non è necessario che una creatura debba essere “creata” per esistere: la creazione implica infatti una relazione tra la creatura e il Creatore, con un certo carattere di novità o di inizio.
+
 <span class="atom-split" data-atom="010" data-title="Whether to be created belongs to composite and subsisting things?" data-chapter="Whether to be created belongs to composite and subsisting things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that to be created does not belong to composite and subsisting
@@ -488,6 +610,24 @@ at the same time with all its principles.
 Reply to Objection 3: This reason does not prove that matter alone is created, but that matter
 does not exist except by creation; for creation is the production of the whole being, and not only
 matter.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che essere creati non appartenga alle cose composte e sostanzialmente esistenti. Infatti, nel libro “De Causis” (proposizione iv) si afferma: “La prima delle creature è l’essere”. Tuttavia, l’essere di una cosa creata non costituisce una realtà sostanzialmente esistente. Pertanto, la creazione, in senso proprio, non appartiene alle cose composte e sostanzialmente esistenti.
+
+Obiezione 2: Inoltre, tutto ciò che viene creato ha origine dal nulla. Ma le cose composte non derivano dal nulla, bensì sono il risultato delle loro parti componenti. Pertanto, le cose composte non vengono create.
+
+Obiezione 3: Inoltre, ciò che viene presupposto nella seconda emanazione è effettivamente prodotto dalla prima: così come la generazione naturale produce la cosa naturale, che a sua volta è presupposta nel processo creativo dell’arte. Ma ciò che viene presupposto nella generazione naturale è la materia. Pertanto, è la materia, e non il composto, ad essere propriamente parlando ciò che viene creato.
+
+Al contrario, si dice (Genesi 1:1): “All’inizio Dio creò il cielo e la terra”. Ma il cielo e la terra sono entità composte che esistono ancora oggi; pertanto, la creazione appartiene a loro.
+
+Rispondo che essere creati significa, in un certo senso, essere fatti, come è stato dimostrato sopra (Q[44], A[2], ad 2,3). Ora, essere fatti ha lo scopo di dare esistenza a qualcosa; pertanto, essere fatti e essere creati appartengono propriamente a tutto ciò che ha esistenza. Ciò che ha effettivamente esistenza sono le cose sostanziali, sia semplici – come le sostanze separate – che composte – come le sostanze materiali. L’esistenza, infatti, appartiene a ciò che realmente esiste, cioè a ciò che si realizza nella propria essenza. Ma forme, accidenti e simili vengono chiamati “cose” non perché essi stessi abbiano esistenza, ma perché grazie a loro qualcos’altro acquista esistenza; ad esempio, la bianchezza è considerata una “cosa” perché il suo soggetto diventa bianco grazie a essa. Pertanto, secondo il Filosofo (Metafisica vii, testo 2), un accidente può essere più correttamente definito “appartenente a una cosa” che “una cosa in sé”. Quindi, poiché accidenti, forme e simili non sono entità sostanziali ma esistono soltanto in relazione ad altre cose, è appropriato definirli piuttosto “così create” che “create”; mentre le cose veramente create sono entità sostanziali che esistono per sé stesse.
+
+Risposta all’Obiezione 1: Nella proposizione “la prima delle cose create è l’essere”, la parola “essere” non si riferisce al soggetto della creazione, ma al concetto proprio dell’oggetto della creazione. Infatti, una cosa creata viene chiamata “creata” perché è un essere, e non perché sia questo o quell’essere specifico; la creazione, infatti, consiste nell’emanazione di tutto l’essere dall’Essere Universale, come già detto in precedenza (A[1]). Utilizziamo un modo di esprimersi simile quando diciamo che “la prima cosa visibile è il colore”, anche se, in senso stretto, ciò che viene visto è la cosa stessa colorata.
+
+Risposta all’Obiezione 2: La creazione non significa la costruzione di una cosa composta partendo da principi preesistenti; ma significa che quella “cosa composta” viene creata in modo tale che venga portata all’esistenza insieme a tutti i suoi principi.
+
+Risposta all’Obiezione 3: Questo argomento non dimostra che solo la materia venga creata, ma piuttosto che la materia non esista se non attraverso la creazione; infatti, la creazione è l’atto mediante il quale viene prodotta l’intera realtà, e non soltanto la materia.
 
 <span class="atom-split" data-atom="011" data-title="Whether it belongs to God alone to create?" data-chapter="Whether it belongs to God alone to create?" data-kind="atom" data-srclang="en"></span>
 
@@ -647,6 +787,25 @@ to "wisdom," and the justification of the sinner to "mercy" and "goodness" poure
 super-abundantly. But creation, which is the production of the very substance of a thing, is reduced
 to "power."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che creare sia proprio di una certa Persona divina. Infatti, ciò che precede è la causa di ciò che segue; inoltre, ciò che è perfetto è la causa di ciò che è imperfetto. Tuttavia, il processo di manifestazione della Persona divina avviene prima del processo di formazione delle creature e è più perfetto, poiché la Persona divina si manifesta in perfetta somiglianza con il proprio Principio; le creature, invece, si manifestano in somiglianza imperfetta. Pertanto, i processi di manifestazione delle Persone divine sono la causa dei processi di formazione delle cose, e quindi creare appartiene a una Persona divina.
+
+Obiezione 2: Inoltre, le Persone divine si distinguono l’una dall’altra soltanto attraverso le loro relazioni e i loro rapporti reciproci. Pertanto, qualsiasi differenza venga attribuita alle Persone divine lo è in base a tali relazioni e rapporti. Tuttavia, la [causazione](/concepts/cause) delle creature viene attribuita in modo diverso alle Persone divine: nella Crede, al Padre viene attribuito il ruolo di “Creatore di tutte le cose visibili e invisibili”; al Figlio viene attribuito il fatto che “per mezzo Suo siano state create tutte le cose”; allo Spirito Santo viene attribuito il titolo di “Signore e Datore di Vita”. Quindi, anche la causazione delle creature appartiene alle Persone divine in base ai loro rapporti e relazioni reciproci.
+
+Obiezione 3: Inoltre, se si afferma che la causalità della creatura derivi da qualche attributo essenziale appartenente a una determinata Persona, ciò non sembra sufficiente; poiché ogni effetto divino è causato da tutti gli attributi essenziali – cioè dalla potenza, dalla bontà e dalla saggezza – e quindi non appartiene in modo esclusivo a una persona piuttosto che un’altra. Pertanto, nessun particolare modo di causalità dovrebbe essere attribuito a una Persona più che un’altra, a meno che queste non si distinguano tra loro per le modalità con cui operano nella creazione.
+
+Al contrario, Dionigi afferma (Div. Nom. ii) che tutte le cose causate sono il risultato comune dell’intera divinità.
+
+Rispondo che, per definizione, creare significa causare o produrre l’esistenza delle cose. Poiché ogni agente produce qualcosa di simile a sé stesso, il principio dell’azione può essere compreso attraverso gli effetti che essa produce; infatti, deve essere il fuoco a generare altro fuoco. Pertanto, creare appartiene a Dio in base alla sua essenza, che è comune alle tre Persone della Trinità. Quindi, creare non è una caratteristica propria di una singola Persona, ma è un attributo condiviso da tutta la Trinità stessa.  
+Tuttavia, le Persone divine, in base alla natura della loro esistenza, possiedono una capacità causale riguardo alla creazione delle cose. Come già detto in precedenza (Q[14], A[8]; Q[19], A[4]), quando si parla della conoscenza e della volontà di Dio, queste vengono considerate le cause delle cose attraverso l’intelletto e la volontà divina, proprio come il artigiano è causa delle opere realizzate con la sua abilità. L’artigiano opera attraverso le idee concepite nella propria mente e attraverso l’amore che lo spinge a realizzare determinati obiettivi; allo stesso modo, Dio Padre ha creato il mondo attraverso la Sua Parola, che è il Suo Figlio, e attraverso il Suo Amore, che è lo Spirito Santo. Pertanto, le caratteristiche essenziali delle Persone divine – conoscenza e volontà – rappresentano i modelli su cui si basa la creazione delle cose.
+
+Risposta all’Obiezione 1: Le processioni delle Persone Divine sono la causa della creazione, come spiegato in precedenza.
+
+Risposta all’Obiezione 2: Poiché la natura divina, sebbene comune alle tre Persone, appartiene loro tuttavia in un certo ordine: il Figlio riceve la natura divina dal Padre, e lo Spirito Santo da entrambi; allo stesso modo, anche il potere di creazione, pur essendo comune alle tre Persone, appartiene loro in modo gerarchico. Il Figlio lo riceve dal Padre, mentre lo Spirito Santo lo riceve da entrambi. Pertanto, al Padre viene attribuito il titolo di Creatore, poiché Egli non riceve questo potere da alcun altro; del Figlio si dice (Giovanni 1:3): “Per mezzo di Lui tutte le cose sono state create”, poiché Egli possiede lo stesso potere, ma proveniente da un’altra fonte; infatti la preposizione “per mezzo di” indica solitamente una causa intermediaria. Lo Spirito Santo, invece, avendo lo stesso potere da entrambi, è considerato colui che, con il proprio influsso, governa e dà vita a ciò che è stato creato dal Padre attraverso il Figlio. Inoltre, questa particolare attribuzione può essere spiegata dalla nozione comune relativa all’attribuzione degli attributi essenziali delle Persone divine: come già detto (Q[39], A[8], ad 3), al Padre viene attribuito il potere che si manifesta principalmente nella creazione, e per questo Egli è considerato il Creatore; al Figlio viene attribuita la saggezza, attraverso la quale l’agente intellettuale agisce; quindi si dice: “Per mezzo di Lui tutte le cose sono state create”; allo Spirito Santo viene attribuita la bontà, che include sia il potere di governare e portare le cose al loro fine naturale, sia quello di donare la vita – poiché la vita consiste in un certo movimento interno; e il primo motore di questo movimento è proprio la bontà.
+
+Risposta all’Obiezione 3: Sebbene ogni effetto di Dio derivi da ciascuno dei suoi attributi, ogni effetto si riduce all’attributo con cui è naturalmente collegato; pertanto, l’ordine delle cose si riduce alla “saggezza”, mentre la giustificazione del peccatore si riconduce alla “misericordia” e alla “bontà”, che si riversano in modo sovrabbondante su di lui. Tuttavia, la creazione, che consiste nella produzione della stessa sostanza di una cosa, si riduce all’“potere”.
+
 <span class="atom-split" data-atom="013" data-title="Whether in creatures is necessarily found a trace of the Trinity?" data-chapter="Whether in creatures is necessarily found a trace of the Trinity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in creatures there is not necessarily found a trace of the Trinity.
@@ -763,6 +922,13 @@ points for treatment:
 (2) Whether that they began to exist in an article of Faith?
 (3) How God is said to have created heaven and earth in the beginning?
 
+<span class="qlang-split" data-lang="it"></span>
+
+Successivamente va considerato l’inizio della durata delle creature, su cui si possono discutere tre punti principali:  
+(1) Se le creature siano sempre esistite;  
+(2) Se la loro esistenza abbia avuto inizio come parte di una verità di fede;  
+(3) In che modo si possa affermare che Dio abbia creato il cielo e la terra all’inizio dei tempi.
+
 <span class="atom-split" data-atom="016" data-title="Whether the universe of creatures always existed? (1/2)" data-chapter="Whether the universe of creatures always existed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the universe of creatures, called the world, had no beginning,
@@ -873,6 +1039,41 @@ Reply to Objection 4: The notion of a vacuum is not only "in which is nothing," 
 implies a space capable of holding a body and in which there is not a body, as appears from Aristotle
 (Phys. iv, text 60). Whereas we hold that there was no place or space before the world was.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’universo delle creature, chiamato mondo, non abbia avuto un inizio, ma esista da [eternità](/positions/eternity). Infatti, tutto ciò che inizia ad esistere è prima di esistere qualcosa di possibile; altrimenti sarebbe impossibile che esistesse. Se quindi il mondo ha avuto un inizio, allora prima di quell’inizio doveva essere considerato qualcosa di possibile. Ma una cosa possibile è materia, la quale si trova in [potenzialità](/concepts/act_potency) di esistere o di non esistere: l’esistenza deriva da una forma, mentre la non-esistenza dalla privazione di forma. Pertanto, se il mondo ha avuto un inizio, la materia doveva già esistere prima del mondo stesso. Ma la materia non può esistere senza forma; e poiché la materia del mondo, insieme alla sua forma, costituisce il mondo stesso, ne consegue che il mondo esisteva già prima di aver iniziato ad esistere, il che è impossibile.
+
+Obiezione 2: Inoltre, nulla che abbia la capacità di esistere sempre esiste talvolta e talvolta non esiste; poiché, nella misura in cui tale capacità si estende, l’ente esiste necessariamente. Ma ogni ente incorruttibile ha la capacità di esistere sempre, poiché la sua capacità non si estende a un tempo determinato. Pertanto, nessun ente incorruttibile esiste talvolta e talvolta non esiste; invece, tutto ciò che ha un inizio in un certo momento esiste talvolta e talvolta non esiste. Quindi, nessun ente incorruttibile ha un inizio nella sua esistenza. Tuttavia, nel mondo esistono molte cose incorruttibili, come i corpi celesti e tutte le sostanze intellettuali. Pertanto, il mondo non ha avuto un inizio nella sua esistenza.
+
+Obiezione 3: Inoltre, ciò che non ha avuto origine da nulla non ha alcun inizio. Ma il Filosofo (Physica i, testo 82) dimostra che la materia è priva di origine, e altresì (De Coelo et Mundo i, testo 20) che il cielo è anch’esso privo di origine. Pertanto, l’universo non ha mai iniziato ad esistere.
+
+Obiezione 4: Inoltre, un vuoto è uno spazio in cui non esiste alcun corpo, ma potrebbe essercene uno. Tuttavia, se il mondo ha avuto inizio ad esistere, all’inizio non c’era alcun corpo nel luogo in cui ora si trova; eppure quel corpo avrebbe potuto esserci, altrimenti non ci sarebbe oggi. Pertanto, prima che il mondo esistesse, doveva esserci un vuoto, il che è impossibile.
+
+Obiezione 5: Inoltre, nulla inizia nuovamente a muoversi se non perché il motore o la cosa mossa siano diversi da come erano prima. Ma ciò che è diverso da prima è necessariamente in movimento. Pertanto, prima di ogni nuovo movimento deve esserci stato un movimento precedente. Quindi il movimento esiste sempre; e di conseguenza anche la cosa mossa esiste sempre, poiché il movimento può avvenire soltanto in una cosa mobile.
+
+Obiezione 6: Inoltre, ogni agente motore è o naturale o volontario. Ma nessuno di essi inizia a muoversi se non attraverso un movimento preesistente. La natura, infatti, si muove sempre nello stesso modo; pertanto, a meno che non avvenga qualche cambiamento nella natura dell’agente motore o nell’oggetto su cui agisce, non può sorgere un movimento nuovo dal movimento naturale preesistente. La volontà, per parte sua, rinviene ad attuare ciò che intende fare; ma questo avviene soltanto a seguito di qualche cambiamento, almeno nel contesto temporale. Chi, dunque, desidera costruire una casa domani e non oggi, aspetta qualcosa che esisterà domani ma non oggi; in altre parole, aspetta che il presente passi e il futuro arrivi. E questo è possibile soltanto attraverso un cambiamento, poiché il tempo rappresenta la misura del movimento. Pertanto, prima di ogni nuovo movimento deve esserci stato un movimento precedente; e ne consegue lo stesso risultato già osservato in precedenza.
+
+Obiezione 7: Inoltre, ciò che è sempre nel proprio inizio e sempre nella propria fine non può cessare né iniziare; infatti, ciò che inizia non si trova nella propria fine, e ciò che cessa non si trova nel proprio inizio. Ma il tempo è sempre nel proprio inizio e nella propria fine, poiché non esiste tempo se non il “momento presente”, che è la fine del passato e l’inizio del futuro. Pertanto, il tempo non può né iniziare né finire, e di conseguenza lo stesso vale per il movimento, che rappresenta la misura del tempo.
+
+Obiezione 8: Inoltre, Dio esiste prima del mondo sia secondo l’ordine della natura, sia anche in termini di durata. Se ciò avviene soltanto secondo l’ordine della natura, poiché Dio è eterno, anche il mondo deve essere eterno. Ma se Dio esiste prima del mondo anche in termini di durata – poiché ciò che è precedente e successivo in termini di durata costituisce il tempo – ne consegue che il tempo esistesse già prima del mondo, il che è impossibile.
+
+Obiezione 9: Inoltre, se esiste una causa sufficiente, allora deve esserci anche un effetto; infatti, una causa alla quale non corrisponde alcun effetto è considerata una causa imperfetta, che richiede l’intervento di qualcos’altro affinché l’effetto si verifichi. Ma Dio è la causa sufficiente del mondo: essendo la [causa finale](/concepts/four_causes), per via della Sua bontà; la causa esemplare, per via della Sua saggezza; e la causa efficiente, per via del Suo potere, come emerge dalle considerazioni precedenti (Q[44], AA[2],3,4). Poiché quindi Dio è eterno, anche il mondo è eterno.
+
+Obiezione 10: Inoltre, un’azione eterna presuppone un effetto eterno. Ma l’azione di Dio è la Sua stessa sostanza, che è eterna. Pertanto, il mondo è eterno.
+
+Al contrario, si dice (Giovanni 17:5): “Glorifichimi, o Padre, insieme a Te, con quella gloria che avevo prima che il mondo esistesse”; e (Proverbi 8:22): “Il Signore mi possedette all’inizio dei suoi percorsi, prima ancora di creare qualsiasi cosa”.
+
+Rispondo che, oltre a Dio, nulla può essere eterno. E questa affermazione non è affatto impossibile da sostenere: poiché è stato dimostrato in precedenza (Q[19], A[4]) che la volontà di Dio è la causa delle cose. Pertanto, le cose sono necessarie, nella misura in cui è necessario che Dio le voglia; infatti, la necessità dell’effetto dipende dalla necessità della causa (Metafisica v, testo 6). È stato altresì dimostrato che, in senso assoluto, non è necessario che Dio voglia nulla se non Sé stesso. Quindi non è necessario che Dio voglia che il mondo esista sempre; ma il mondo esiste perché Dio vuole che esista, poiché l’esistenza del mondo dipende dalla volontà di Dio, cioè dalla sua causa. Pertanto, non è necessario che il mondo esista sempre; e quindi ciò non può essere dimostrato attraverso argomentazioni logiche.  
+Inoltre, le ragioni di [Aristotele](/figures/aristotle) (Fisica viii) non sono semplicemente dimostrative, ma relative: servono cioè a confutare le tesi di alcuni antichi che sostenevano che il mondo fosse nato in modi assolutamente impossibili. Ciò emerge in tre modi: innanzitutto, perché sia nella Fisica viii che nel De Coelo i, testo 101, Aristotele si basa su opinioni di Anassagora, Empedocle e Platone per confutarle; in secondo luogo, poiché ogni volta che affronta questo argomento cita le testimonianze degli antichi, il che non è tipico di un dimostratore, ma piuttosto di chi cerca di convincere dell’attendibilità di una tesi; infine, perché Aristotele afferma esplicitamente (Topici i, 9) che esistono questioni dialettiche su cui non abbiamo alcuna argomentazione razionale, come ad esempio “se il mondo sia eterno”.
+
+Risposta all’Obiezione 1: Prima che il mondo esistesse, era possibile che esso esistesse, non certo secondo una forza passiva come la materia, ma secondo la forza attiva di Dio; inoltre, quando si dice che qualcosa è “assolutamente possibile”, ciò si intende non in relazione a alcuna forza particolare, ma semplicemente perché le componenti di quella realtà non sono tra loro incompatibili; in questo senso, “possibile” si contrappone a “impossibile”, come emerge dal Filosofo (Metafisica, v, testo 17).
+
+Risposta all’Obiezione 2: Qualsiasi entità che abbia il potere di esistere in ogni momento, per il semplice fatto di possedere tale potere, non può a volte esistere e a volte no; inoltre, prima di ricevere quel potere, non esisteva affatto. Pertanto, il ragionamento fornito da Aristotele (De Coelo i, testo 120) non dimostra semplicemente che le cose incorruttibili non abbiano mai iniziato ad esistere; ma piuttosto che esse non siano nate attraverso il processo naturale mediante cui nascono e si corrompono le cose corruttibili.
+
+Risposta all’Obiezione 3: Aristotele (Fisica i, testo 82) dimostra che la materia non è generata, poiché non possiede un soggetto da cui derivare la propria esistenza; inoltre (De Coelo et Mundo i, testo 20) dimostra che il cielo non è generato, poiché non possiede un contrario dal quale poter sorgere. Pertanto, non ne consegue alcuna conclusione, se non che la materia e il cielo non sono nati per generazione, come alcuni sostenevano, soprattutto riguardo al cielo. Noi invece affermiamo che la materia e il cielo siano stati creati, come emerge chiaramente dalle argomentazioni precedenti (Q[44], A[1], ad 2).
+
+Risposta all’Obiezione 4: Il concetto di vuoto non significa semplicemente “un luogo in cui non c’è nulla”, ma implica anche uno spazio capace di contenere un corpo e in cui, tuttavia, non vi è alcun corpo, come emerge da Aristotele (Fisica IV, testo 60). Noi riteniamo invece che, prima della creazione del mondo, non esistesse alcun luogo o spazio.
+
 <span class="atom-split" data-atom="017" data-title="Whether the universe of creatures always existed? (2/2)" data-chapter="Whether the universe of creatures always existed?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 5: The first mover was always in the same state: but the first movable thing
@@ -929,6 +1130,20 @@ the form, which is the principle of action. But in agents acting by will, what i
 preordained is to be taken as the form, which is the principle of action. Therefore from the eternal
 action of God an eternal effect did not follow; but such an effect as God willed, an effect, to wit,
 which has being after not being.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 5: Il primo motore è sempre stato nello stesso stato; ma la prima cosa mobile non lo era sempre, poiché ha iniziato ad esistere, mentre prima non esisteva affatto. Tuttavia, ciò non è avvenuto attraverso un cambiamento, bensì mediante una creazione, che non è un cambiamento, come già detto sopra (Q[45], A[2]). Pertanto, è evidente che questo argomento fornito da [Aristotele](/figures/aristotle) nella Physica viii è valido contro coloro che ammettevano l’esistenza di cose mobili eterne, ma non di un movimento eterno, come si evince dalle opinioni di Anassagora ed Empedocle. Noi, invece, riteniamo che dal momento in cui le cose mobili hanno iniziato ad esistere, anche il movimento abbia preso a esistere.
+
+Risposta all’Obiezione 6: Il primo agente è un agente volontario. E sebbene avesse la volontà eterna di produrre un certo effetto, non ne produsse uno eterno. Non è nemmeno necessario presupporre alcun cambiamento, nemmeno in relazione al tempo immaginario. Dobbiamo infatti considerare la differenza tra un agente particolare – che presuppone qualcosa e produce qualcos’altro – e l’agente universale, che produce l’intero insieme. L’agente particolare produce la forma e presuppone la materia; pertanto è necessario che introduca tale forma in modo proporzionato nella materia adatta. È quindi corretto affermare che introduce la forma proprio in quella materia, e non in un’altra, a causa delle diverse tipologie di materia esistenti. Tuttavia, non è corretto dire lo stesso di Dio, che produce sia la forma che la materia insieme; è invece corretto affermare che Egli produce una materia adatta alla forma e allo scopo prefissato. Un agente particolare presuppone il tempo, proprio come presuppone la materia; pertanto è corretto descriverlo come agendo nel tempo “dopo”, e non “prima”, secondo una successione immaginaria di eventi temporali. L’agente universale, invece, che produce sia l’oggetto che il tempo, non può essere descritto come agendo ora o prima, secondo una sequenza temporale immaginaria; piuttosto, deve essere considerato come colui che dona il tempo al proprio effetto, nel momento e nella misura in cui lo desidera, e secondo ciò che è necessario per dimostrare la sua potenza. Il mondo, infatti, contribuisce in modo più evidente alla conoscenza del potere creativo divino se non è esistito sempre, piuttosto che se fosse esistito fin dall’inizio; poiché tutto ciò che non è esistito fin dall’inizio ha necessariamente una causa, mentre ciò che è sempre esistito non presenta tale caratteristica evidente.
+
+Risposta all’Obiezione 7: Come affermato in (Fisica iv, testo 99), “prima” e “dopo” appartengono al tempo, nella misura in cui essi sono legati al movimento. Pertanto, inizio e fine nel tempo devono essere intesi nello stesso modo in cui vengono concepiti nel contesto del movimento. Ora, dato che il movimento è eterno, è necessario che ogni singolo momento di movimento sia allo stesso tempo inizio e fine di quel movimento; il che non sarebbe vero se il movimento stesso non fosse eterno. Lo stesso vale per il “momento presente” nel tempo. Quindi, l’idea dell’istante “adesso”, inteso come sempre inizio e fine del tempo, presuppone necessariamente l’eternità sia del tempo che del movimento. Ecco perché Aristotele adduce questo argomento (Fisica viii, testo 10) contro coloro che affermavano l’eternità del tempo ma negavano l’eternità del movimento.
+
+Risposta all’Obiezione 8: Dio precede il mondo per priorità di durata. Tuttavia, la parola “priorità” indica una precedenza non nel tempo, ma nell’eternità. O possiamo dire che indica l’eternità del tempo immaginario, e non del tempo realmente esistente; pertanto, quando affermiamo che al di sopra del cielo non c’è nulla, la parola “al di sopra” indica soltanto un luogo immaginario, poiché è possibile immaginare altre dimensioni al di là di quelle del corpo celeste.
+
+Risposta all’Obiezione 9: Proprio come l’effetto deriva dalla causa che agisce secondo le leggi della natura, nel modo determinato dalla sua stessa struttura, allo stesso modo l’effetto deriva dall’agente volontario, secondo la forma preconcepita e voluta da quest’ultimo, come è stato detto in precedenza (Q[19], A[4]; Q[41], A[2]). Pertanto, anche se Dio è da sempre la causa sufficiente dell’esistenza del mondo, non dovremmo dire che il mondo sia stato creato da Lui, se non nel senso che ciò fosse previsto dalla Sua volontà – cioè che il mondo dovesse esistere dopo essere stato inesistente, al fine di manifestare più chiaramente la sua origine divina.
+
+Risposta all’Obiezione 10: Data l’azione, l’effetto ne consegue secondo i requisiti della forma, che costituisce il principio dell’azione stessa. Tuttavia, negli agenti che agiscono per volontà, ciò che viene concepito e predestinato deve essere considerato come la forma, ovvero il principio dell’azione. Pertanto, dall’azione eterna di Dio non ne è derivato un effetto eterno; bensì un effetto tale che Dio stesso ha voluto, cioè un effetto che acquista esistenza dopo essere stato inesistente.
 
 <span class="atom-split" data-atom="018" data-title="Whether it is an article of faith that the world began? (1/2)" data-chapter="Whether it is an article of faith that the world began?" data-kind="atom" data-srclang="en"></span>
 
@@ -1032,6 +1247,40 @@ bygone day we choose, from it to the present day there is a finite number of day
 passed through. The objection is founded on the idea that, given two extremes, there is an infinite
 number of mean terms.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non si tratti di un articolo di fede, ma di una conclusione dimostrabile, ovvero che il mondo abbia avuto un inizio. Infatti, tutto ciò che esiste ha un inizio nel suo svolgimento temporale. Inoltre, si può dimostrare in modo categorico che Dio sia la causa effettiva dell’esistenza del mondo; anzi, questa tesi è sostenuta dai filosofi più autorevoli. Pertanto, è possibile dimostrare con certezza che il mondo abbia avuto un inizio.
+
+Obiezione 2: Inoltre, se è necessario affermare che il mondo sia stato creato da Dio, allora esso deve essere stato creato dal nulla o da qualcosa. Ma non è stato creato da “qualcosa”; altrimenti la materia del mondo sarebbe esistita prima dello stesso mondo, il che contraddice gli argomenti di [Aristotele](/figures/aristotle) (De Coelo i), il quale sosteneva che il cielo fosse “ingenerato”. Pertanto, si deve affermare che il mondo sia stato creato dal nulla; e quindi esso ha avuto un inizio dopo non aver esistito. Quindi, il suo essere è dovuto avere un punto di partenza.
+
+Obiezione 3: Inoltre, tutto ciò che agisce attraverso l’intelletto procede da qualche principio, come si può osservare in tutti i tipi di artigiani. Ma Dio agisce attraverso l’intelletto; pertanto anche la Sua opera segue un principio. Di conseguenza, il mondo, che è il risultato della Sua azione, non è sempre esistito.
+
+Obiezione 4: Inoltre, appare evidente che alcune arti si siano sviluppate e che alcuni paesi abbiano iniziato ad essere abitati in momenti specifici del tempo. Tuttavia, ciò non sarebbe possibile se il mondo esistesse da sempre. Pertanto, è chiaro che il mondo non sia esistito fin dall’inizio.
+
+Obiezione 5: Inoltre, è certo che nulla può essere uguale a Dio. Ma se il mondo esistesse da sempre, sarebbe uguale a Dio per durata. Pertanto, è certo che il mondo non esista da sempre.
+
+Obiezione 6: Inoltre, se il mondo esistesse da sempre, ne consegue che un numero infinito di giorni precedesse questo giorno presente. Tuttavia è impossibile attraversare un mezzo infinito; pertanto non avremmo mai potuto raggiungere questo giorno presente, il che è chiaramente falso.
+
+Obiezione 7: Inoltre, se il mondo fosse eterno, anche la generazione sarebbe eterna. Pertanto, un uomo sarebbe nato da un altro in una serie infinita. Ma il padre è la [causa efficiente](/concepts/four_causes) del figlio (Fisica ii, testo 5). Quindi, nelle cause efficienti potrebbe esistere una serie infinita, il che è contraddetto dai principi della metafisica (Metafisica ii, testo 5).
+
+Obiezione 8: Inoltre, se il mondo e la generazione esistessero da sempre, ci sarebbe stato un numero infinito di uomini. Ma l’anima umana è immortale; pertanto, in questo momento esisterebbe effettivamente un numero infinito di anime umane, il che è impossibile. Pertanto, si può sapere con certezza che il mondo è nato, e non solo lo si sa per fede.
+
+Al contrario, gli articoli della fede non possono essere dimostrati in modo categorico, poiché la fede riguarda cose “che non appaiono chiaramente” (Ebrei 11:1). Tuttavia, il fatto che Dio sia il Creatore del mondo – e quindi che il mondo abbia avuto un inizio – è un articolo della fede; infatti diciamo: “Credo in un solo Dio”, ecc. Inoltre, Gregorio dice (Hom. i in Ezech.) che Mosè ha profetizzato sul passato, affermando: “All’inizio Dio creò il cielo e la terra”: queste parole evidenziano la novità del mondo. Pertanto, la novità del mondo è conosciuta soltanto attraverso la [rivelazione](/concepts/revelation); per questo motivo non può essere dimostrata in modo categorico.
+
+Rispondo che soltanto per fede possiamo affermare, e nessuna dimostrazione può confermarlo, che il mondo non esistesse sempre, come è stato detto riguardo al mistero della Trinità (Q[32], A[1]). La ragione di ciò è che la novità del mondo non può essere dimostrata dal mondo stesso: infatti il principio della dimostrazione è l’essenza di una cosa, e tutto ciò che appartiene a una determinata specie è astratto da “qui” e “ora”; per questo si dice che gli [universali](/axes/universals) siano ovunque e sempre. Pertanto non è possibile dimostrare che l’uomo, il cielo o una pietra non esistessero sempre. Allo stesso modo, nemmeno la causa efficiente – che agisce per volontà – può essere dimostrata: la volontà di Dio, infatti, non può essere compresa attraverso la ragione, se non riguardo a ciò che Dio deve necessariamente volere; e ciò che Egli vuole riguardo alle creature non rientra in questa categoria, come è stato detto sopra (Q[19], A[3]). Tuttavia, la volontà divina può essere rivelata attraverso la fede; quindi il fatto che il mondo abbia avuto inizio è un oggetto di fede, non di dimostrazione o scienza. È utile considerare questo aspetto, affinché nessuno, presumendo di poter dimostrare ciò che è di fede, presenti argomentazioni poco convincenti, dando così motivo agli increduli di ridere, pensando che basandoci su tali ragioni crediamo in cose che in realtà sono frutto della fede.
+
+Risposta all’Obiezione 1: Come afferma [Agostino](/figures/augustine) (De Civ. Dei xi, 4), l’opinione dei filosofi che sostenevano l’[eternità](/positions/eternity) del mondo era duplice. Alcuni ritenevano che la sostanza del mondo non provenisse da Dio, il che rappresenta un errore inaccettabile; pertanto tale tesi veniva confutata con argomentazioni convincenti. Altri, invece, affermavano che il mondo fosse eterno, anche se creato da Dio. Essi sostenevano infatti che il mondo avesse un inizio, non nel tempo, ma nella creazione; quindi, in un modo difficilmente comprensibile, esso era sempre stato “creato”. “E cercavano di spiegare il loro concetto così (De Civ. Dei x, 31): poiché, come se il piede fosse sempre stato nella polvere fin dall’eternità, ci sarebbe sempre stata una traccia causata da colui che lo calpestava, allo stesso modo il mondo esisteva sempre, perché il suo Creatore esisteva sempre”. Per comprendere questo punto, dobbiamo considerare che la causa efficiente, che agisce attraverso il movimento, necessariamente precede il proprio effetto nel tempo; infatti l’effetto si verifica soltanto alla fine dell’azione, e ogni agente deve essere il principio stesso di tale azione. Tuttavia, se l’azione è istantanea e non successiva, non è necessario che il Creatore preceda temporalmente la cosa creata, come avviene nel caso dell’illuminazione. Pertanto, si può affermare che il fatto che Dio sia la causa attiva del mondo non implica necessariamente che Egli esista prima del mondo in termini di durata; poiché la creazione, con cui Egli ha prodotto il mondo, non rappresenta un cambiamento successivo, come già detto in precedenza (Q[45], A[2]).
+
+Risposta all’Obiezione 2: Coloro che sostengono che il mondo sia eterno affermano che esso sia stato creato da Dio dal nulla, non che sia stato creato dopo il nulla, nel senso in cui comprendiamo il termine “creazione”; inoltre, alcuni di loro non respingono affatto il concetto stesso di creazione, come emerge da Avicenna (Metafisica IX, testo 4).
+
+Risposta all’Obiezione 3: Questo è l’argomento di Anassagora (come citato in Phys. viii, testo 15). Tuttavia, esso non conduce a una conclusione necessaria, se non per quanto riguarda quell’intelletto che delibera al fine di scoprire ciò che deve essere fatto, un intelletto simile al movimento. Tale è l’intelletto umano, ma non quello divino (Q[14], AA[7],12).
+
+Risposta all’Obiezione 4: Coloro che sostengono l’eternità del mondo ritengono che alcune regioni siano state modificate un numero infinito di volte, passando da uno stato inabitabile a uno abitabile e viceversa; altrettanto, ritenono che le arti, a causa di varie corruzioni e accidenti, abbiano subito un’infinità di cambiamenti nel loro sviluppo. Pertanto Aristotele afferma (Meteorologici, I) che sia assurdo, sulla base di tali cambiamenti specifici, sostenere l’idea che l’intero mondo sia nuovo.
+
+Risposta all’Obiezione 5: Anche ammettendo che il mondo esista da sempre, non sarebbe ugiale a Dio nell’eternità, come afferma Boezio (De Consolatione, v, 6); infatti l’essere divino è tutto ciò che esiste, simultaneamente e senza successione; mentre per il mondo le cose stanno diversamente.
+
+Risposta all’Obiezione 6: Un passaggio viene sempre inteso come sequenza di elementi collegati tra loro in modo logico. Qualunque giorno del passato scegliamo, dal momento in cui esso si verifica fino al presente esiste un numero finito di giorni che possono essere attraversati. L’obiezione si basa sull’idea che, dati due estremi, esista un numero infinito di termini intermedi.
+
 <span class="atom-split" data-atom="019" data-title="Whether it is an article of faith that the world began? (2/2)" data-chapter="Whether it is an article of faith that the world began?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 7: In efficient causes it is impossible to proceed to [infinity](/concepts/infinity) "per se"---thus,
@@ -1058,6 +1307,12 @@ of which matters will be given later (Q[75], A[2]; Q[118], A[6]). But be it note
 considers only a particular case. Hence one might say that the world was eternal, or least some
 creature, as an angel, but not man. But we are considering the question in general, as to whether
 any creature can exist from eternity.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 7: Nelle cause efficienti non è possibile procedere verso l’[infinito](/concepts/infinity) “in sé”; pertanto non può esistere un numero infinito di cause necessarie, in sé stesse, per ottenere un determinato effetto. Ad esempio, perché una pietra venga spostata con un bastone, il bastone deve essere mosso da una mano, e così via all’infinito. Tuttavia non è impossibile procedere verso l’infinito “in modo accidentale” per quanto riguarda le cause efficienti; ad esempio, se tutte queste cause, moltiplicate all’infinito, avessero lo stesso ordine di una singola causa, la loro successione sarebbe puramente casuale – proprio come un artigiano utilizza più martelli uno dopo l’altro, anche se alcuni di essi potrebbero rompersi. È quindi accidentale che un determinato martello agisca dopo l’azione di un altro; allo stesso modo, è accidentale che quest’uomo venga generato da un altro uomo: lui genera in quanto essere umano, e non in quanto figlio di un altro individuo. Poiché tutti gli esseri umani che generano occupano lo stesso grado nelle cause efficienti – cioè il grado di un particolare generatore – non è impossibile che un uomo venga generato da un altro all’infinito; tuttavia, una cosa del genere sarebbe impossibile se la generazione di quest’uomo dipendesse da lui stesso, da corpi elementari, dal sole, e così via all’infinito.
+
+Risposta all’Obiezione 8: Coloro che sostengono l’[eternità](/positions/eternity) del mondo eludono questo argomento in molti modi. Alcuni ritengono possibile l’esistenza di un’infinità reale di anime, come si evince dalla Metafisica di Algazel, il quale afferma che tale fenomeno rappresenti un’“infinità accidentale”. Tuttavia questa tesi è stata confutata in precedenza (Q[7], A[4]). Alcuni sostengono che l’anima venga corrotta dal corpo; altri ritengono che, di tutte le anime, ne rimanga soltanto una. Ancora altri, come afferma [Agostino](/figures/augustine) in [*Serm. xiv, De Temp. 4,5; De Haeres., haeres. 46; De Civ. Dei xii. 13*], ipotizzano un ciclo vitale delle anime: cioè che queste, separate dal proprio corpo, vi ritornino dopo un certo lasso di tempo. Una trattazione più approfondita di questi argomenti verrà fornita in seguito (Q[75], A[2]; Q[118], A[6]). Tuttavia è importante notare che questo ragionamento considera soltanto un caso particolare. Pertanto si potrebbe sostenere che il mondo, o almeno alcune creature come gli angeli, siano eterni, ma non l’uomo. Noi, invece, stiamo esaminando la questione in termini generali: cioè se sia possibile che qualche creatura esista dall’eternità.
 
 <span class="atom-split" data-atom="020" data-title="Whether the creation of things was in the beginning of time?" data-chapter="Whether the creation of things was in the beginning of time?" data-kind="atom" data-srclang="en"></span>
 
@@ -1108,3 +1363,21 @@ not being created before.
 Reply to Objection 3: Nothing is made except as it exists. But nothing exists of time except
 "now." Hence time cannot be made except according to some "now"; not because in the first "now"
 is time, but because from it time begins.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la creazione delle cose non sia avvenuta all’inizio del tempo. Infatti, ciò che non appartiene al tempo non fa parte di esso. Ma la creazione delle cose non è avvenuta nel tempo; poiché grazie alla creazione la sostanza delle cose è venuta ad esistere, e il tempo non misura la sostanza delle cose, soprattutto quelle incorporee. Pertanto, la creazione non è avvenuta all’inizio del tempo.
+
+Obiezione 2: Inoltre, il Filosofo dimostra (Phys. vi, testo 40) che tutto ciò che viene creato stava già essere creato; pertanto, l’atto stesso della creazione implica la presenza di un “prima” e di un “dopo”. Ma all’inizio del tempo, poiché esso è indivisibile, non esistono concetti di “prima” e “dopo”. Quindi, poiché essere creati rappresenta una forma di “essere fatti”, sembra che le cose non siano state create all’inizio del tempo.
+
+Obiezione 3: Inoltre, anche il tempo stesso viene creato. Ma il tempo non può essere creato all’inizio del tempo, poiché il tempo è divisibile, mentre l’inizio del tempo è indivisibile. Pertanto, la creazione delle cose non ha avuto luogo all’inizio del tempo.
+
+Al contrario, si dice (Genesi 1:1): “All’inizio Dio creò il cielo e la terra”.
+
+Rispondo che le parole della Genesi: “All’inizio Dio creò il cielo e la terra”, vanno interpretate in senso triplo al fine di escludere tre errori. Alcuni sostenevano infatti che il mondo esistesse da sempre e che il tempo non avesse alcun inizio; per confutare questa tesi, si spiega che “All’inizio” si riferisce proprio al “tempo”. Altri affermavano che esistessero due principi alla base della creazione: uno legato alle cose buone e l’altro alle cose cattive; in questo contesto, “All’inizio” viene inteso come riferimento al “Figlio”, poiché il principio attivo della creazione appartiene al Padre per via del potere, mentre il principio esemplare appartiene al Figlio per via della saggezza. Come si legge nel Salmo 103:24, “Tu hai creato tutte le cose con saggezza”; quindi si può intendere che Dio abbia creato tutte le cose all’inizio, cioè attraverso il Figlio, secondo quanto affermato dall’Apostolo in Colossesi 1:16: “In Lui sono state create tutte le cose”. Infine, alcuni sostenevano che le cose corporee fossero state create da Dio tramite un processo di creazione spirituale; per confutare questa tesi, si spiega che “All’inizio”, cioè prima di ogni altra cosa, “Dio creò il cielo e la terra”. Si indicano infatti quattro elementi creati insieme: il cielo celeste, la materia corporea (intesa come la terra), il tempo e la natura angelica.
+
+Risposta all’Obiezione 1: Si dice che le cose siano state create all’inizio del tempo, non perché l’inizio del tempo possa essere considerato un criterio per misurare la creazione, ma perché insieme al tempo siano stati creati anche il cielo e la terra.
+
+Risposta all’Obiezione 2: Questa affermazione del Filosofo va intesa nel senso che la “creazione” avviene attraverso il movimento, o come risultato di un processo di movimento. Poiché in ogni movimento esistono un “prima” e un “dopo”, prima che qualsiasi punto di un determinato movimento venga effettivamente colpito da tale movimento – cioè mentre qualcosa è ancora nel processo di essere mosso o creato – esistono necessariamente un momento precedente e uno successivo; infatti ciò che si trova all’inizio del movimento non è ancora “in fase di creazione”. Tuttavia, la creazione non è né un movimento né il risultato finale di un processo di movimento, come già detto in precedenza (Q[45], AA[2],3). Pertanto, una cosa viene creata in modo tale che, prima della sua creazione effettiva, essa non esistesse affatto.
+
+Risposta all’Obiezione 3: Nulla viene creato se non nella forma in cui esiste. Tuttavia, del tempo non esiste nulla se non il “momento presente”. Pertanto, il tempo non può essere concepito se non in relazione a questo “momento presente”; non perché nel primo “momento presente” esista già il tempo, ma perché da esso il tempo ha inizio.

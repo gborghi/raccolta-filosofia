@@ -33,3 +33,35 @@ Pero un Régimen naciente no se puede entregar, no tiene derecho a rendirse. Sob
 El Sol, 9 de diciembre de 1933
 
 1934
+
+<span class="qlang-split" data-lang="en"></span>
+
+In the name of the nation, we ask, then, for clarity. The Regime is the soil in which we stand and in which the «right» have been able to achieve their triumph. That soil has to be firm ground. Upon it it urges us to begin the other task, that of making a new soul for our people in which the best of its eternal soul sprouts again. We do not admit in such a matter tricks nor mists. One must give moral diaphaneity to the public air of Spain so that its men can breathe it. Let the neck of cunning be wrung. In the indigenous shield stands the lion, but not the vixen.
+
+Above all, it would be useless. No one, with sense, can dispute the right of the republicans to defend to the last the Regime. While this finds itself in question there cannot remain a clear way to a normal politics. It is not licit for the republicans to abandon a single strategic post.
+
+Let the situation not be compared with that of the Monarchy because it is a wish to lose reason again. Some monarchists have censured Don Alfonso XIII because he handed over the Regime he represented. Such a saying seems to me stupid and pure phraseology of irresponsible people. Don Alfonso fulfilled his duty. He could perfectly have taken the Spanish Army out into the street to fight the Spanish people, and it is very possible that he would have managed to overcome it militarily. But that victory was not a solution. Don Alfonso found that the Monarchy, for one cause or another, had exhausted all its reserves and could not offer the Spaniards a solution. Better said, that it could only offer them one: to withdraw. It was the last national duty that an old Regime could fulfil that has worn itself out against the corners of history.
+
+But a nascent Regime cannot hand itself over, it has no right to surrender. Above all, a Regime that has not been «brought» by anyone, nobody has the right to hand it over.
+
+[Amor fati](/positions/amor_fati)! Spain, for once, hold on well to your fate!
+
+El Sol, 9 December 1933
+
+1934
+
+<span class="qlang-split" data-lang="it"></span>
+
+In nome della nazione, domandiamo, dunque, chiarezza. Il Regime è il suolo in cui stiamo e in cui le «destre» hanno potuto conseguire il loro trionfo. Quel suolo deve essere terra ferma. Sopra di esso ci urge cominciare l'altra fatica, quella di fare una nuova anima al nostro popolo in cui rigermogli il meglio della sua anima eterna. Non ammettiamo in un affare tale arti né nebbie. Bisogna dare diafanità morale all'aria pubblica della Spagna perché possano respirarla i suoi uomini. Si torca il collo all'astuzia. Nello scudo castizo sta il leone, ma non la vulpecula.
+
+Soprattutto, sarebbe inutile. Nessuno, con senso, può discutere il diritto dei repubblicani a difendere fino all'ultimo il Regime. Finché questo si trovi in questione non può restare via franca a una politica normale. Non è lecito ai repubblicani abbandonare un solo posto strategico.
+
+Non si confronti la situazione con quella della Monarchia perché è voglia di perdere un'altra volta la ragione. Alcuni monarchici hanno censurato don Alfonso XIII perché consegnò il Regime che rappresentava. Tal dire mi sembra stupido e pura fraseologia di gente irresponsabile. Don Alfonso adempì il suo dovere. Poté perfettamente tirare fuori l'Esercito spagnolo in strada per combattere il popolo spagnolo, ed è molto possibile che fosse riuscito a vincerlo militarmente. Ma quella vittoria non era una soluzione. Don Alfonso si trovò con che la Monarchia, per una o per altre cause, aveva esaurito tutte le sue riserve e non poteva offrire agli spagnoli una soluzione. Meglio detto, che poteva offrire loro una sola: ritirarsi. Era l'ultimo dovere nazionale che poteva adempiere un Regime antiquato che si è logorato contro gli angoli della storia.
+
+Ma un Regime nascente non si può consegnare, non ha diritto ad arrendersi. Soprattutto, un Regime che non è stato «portato» da nessuno, nessuno ha diritto a consegnarlo.
+
+[Amor fati](/positions/amor_fati)! Spagna, per una volta, aggrappati bene al tuo destino!
+
+El Sol, 9 dicembre 1933
+
+1934

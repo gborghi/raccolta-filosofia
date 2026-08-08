@@ -24,6 +24,10 @@ tags:
 
 TREATISE ON HUMAN ACTS: ACTS PECULIAR TO MAN (QQ[6]-21)
 
+<span class="qlang-split" data-lang="it"></span>
+
+Trattato sugli atti umani: atti specifici dell’uomo (QQ[6]-21)
+
 <span class="atom-split" data-atom="002" data-title="OF THE VOLUNTARY AND THE INVOLUNTARY (EIGHT ARTICLES)" data-chapter="OF THE VOLUNTARY AND THE INVOLUNTARY (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Since therefore Happiness is to be gained by means of certain acts, we must in due sequence
@@ -58,6 +62,10 @@ there are eight points of inquiry:
 (6) Whether fear causes involuntariness?
 (7) Whether [concupiscence](/concepts/concupiscence) causes involuntariness?
 (8) Whether ignorance causes involuntariness?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Poiché quindi la Felicità può essere ottenuta attraverso determinati atti, dobbiamo esaminare in ordine corretto gli atti umani, al fine di conoscere quali azioni ci permettano di raggiungerla e quali invece ce lo impediscono. Tuttavia, poiché le operazioni e gli atti riguardano cose specifiche, ogni conoscenza pratica risulta incompleta se non tiene conto dei dettagli concreti. Lo studio della Morale, essendo incentrato sugli atti umani, dovrebbe innanzitutto considerare i principi generali e successivamente i dettagli specifici. Nel trattare dei principi generali, i punti da esaminare sono: (1) gli atti umani stessi; (2) i loro principi fondamentali. Gli atti umani possono essere divisi in quelli propri dell’uomo e in quelli comuni all’uomo e agli animali. Poiché la Felicità è il bene specifico dell’uomo, gli atti propri dell’uomo sono strettamente legati a essa rispetto a quelli comuni ad entrambi i generi. Pertanto, dobbiamo innanzitutto analizzare gli atti propri dell’uomo e successivamente quelli comuni all’uomo e agli animali, che vengono definiti “passioni”. Per questi ultimi, si possono considerare due aspetti principali: (1) cosa costituisce un atto umano; (2) in cosa consiste la differenza tra gli atti umani e quelli degli altri esseri. Poiché soltanto gli atti volontari possono essere veramente definiti “umani”, poiché la volontà è l’appetito razionale specifico dell’uomo, dobbiamo analizzare gli atti in relazione alla loro natura volontaria. Prima di tutto, dobbiamo distinguere tra atti volontari e involontari; successivamente, esaminare quali atti siano volontari nel senso stretto, cioè quelli scaturiti direttamente dalla volontà, e quali invece siano soltanto comandati dalla volontà attraverso altre facoltà umane. Poiché gli atti volontari presentano determinate circostanze che influenzano la nostra valutazione di essi, dobbiamo innanzitutto analizzare i concetti di volontarietà e involontarietà, e successivamente esaminare le specifiche circostanze che rendono un atto volontario o involontario. In questo ambito, ci sono otto questioni principali da considerare: (1) Esiste qualcosa di volontario negli atti umani? (2) Lo stesso vale per gli animali irrazionali? (3) È possibile esistere volontarietà senza alcuna azione concreta? (4) È possibile costringere la volontà a compiere un atto contro la sua volontà? (5) La coercizione provoca necessariamente comportamenti involontari? (6) Il timore può rendere un atto involontario? (7) La concupiscenza può causare comportamenti involontari? (8) L’ignoranza può portare a atti involontari?
 
 <span class="atom-split" data-atom="003" data-title="Whether there is anything voluntary in human acts?" data-chapter="Whether there is anything voluntary in human acts?" data-kind="atom" data-srclang="en"></span>
 
@@ -137,6 +145,24 @@ it proceed from God, inasmuch as the will is moved by God. Nevertheless both nat
 movements have this in common, that it is essential that they should proceed from a principle within
 the agent.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non vi sia nulla di volontario negli atti umani. Infatti, ciò che è volontario “ha il proprio principio dentro di sé”, come affermano Gregorio di Nissa (*Nemesio, De Natura Hom. xxxii*), Damasceno (De Fide Orth. ii, 24) e [Aristotele](/figures/aristotle) (Etica iii, 1). Ma il principio degli atti umani non risiede nell’uomo stesso, bensì al di fuori di lui: infatti, il desiderio umano viene mosso da un oggetto esterno, e tale oggetto agisce sull’uomo come una “forza motrice immobile” (De Anima iii, 10). Pertanto, non vi è nulla di volontario negli atti umani.
+
+Obiezione 2: Inoltre, il Filosofo (Phys. viii, 2) dimostra che negli animali non sorge alcun nuovo movimento che non sia preceduto da un movimento esterno. Ma tutti gli atti umani sono nuovi, poiché nessuno di essi è eterno. Di conseguenza, il principio di tutti gli atti umani proviene dall’esterno; pertanto, in essi non c’è nulla di volontario.
+
+Obiezione 3: Inoltre, colui che agisce volontariamente può agire per propria scelta. Ma ciò non vale per l’uomo; infatti è scritto (Giovanni 15:5): “Senza di Me non potete fare nulla”. Pertanto, nelle azioni umane non c’è nulla di volontario.
+
+Al contrario, Damasceno afferma (De Fide Orthodossa ii) che “l’atto volontario è un atto che consiste in un’operazione razionale”. Ora, tali sono gli atti umani; pertanto, negli atti umani esiste qualcosa di volontario.
+
+Rispondo che negli atti umani deve necessariamente esserci qualcosa di volontario. Per chiarire questo punto, dobbiamo notare che il principio di alcuni atti o movimenti risiede nell’agente stesso, mentre in altri tale principio è esterno all’agente stesso. Ad esempio, quando una pietra viene spostata verso l’alto, il principio di questo movimento si trova al di fuori della pietra; invece, quando viene spostata verso il basso, il principio del movimento è all’interno della stessa pietra. Ora, tra quelle cose che vengono mosse da un principio intrinseco, alcune si muovono da sole, altre no. Poiché ogni agente o cosa mossa agisce sempre per uno scopo, come detto sopra (Q[1], A[2]), quelle che sono perfettamente mosse da un principio intrinseco hanno tale principio non solo legato al movimento stesso, ma anche al movimento verso uno scopo specifico. Perché affinché una cosa agisca per uno scopo, è necessario che abbia una qualche conoscenza di tale scopo. Pertanto, tutto ciò che agisce o viene mosso da un principio intrinseco possiede necessariamente questa conoscenza dello scopo; quindi, in sé stesso contiene il principio del proprio atto, e non solo agisce, ma agisce per uno scopo preciso. D’altra parte, se una cosa non possiede tale conoscenza dello scopo, anche se ha un principio intrinseco di azione o movimento, il principio che la spinge ad agire verso uno scopo non risiede in essa stessa, ma in qualcos’altro; è questo “qualcos’altro” a imprimere in quella cosa il principio dell’azione finalizzata. Per queste ragioni, si dice che tali cose non si muovono da sole, ma vengono mosse da altri agenti. Al contrario, quelle cose che possiedono una conoscenza dello scopo si dicono capaci di muoversi da sole, poiché in esse esiste un principio che le spinge sia ad agire sia ad agire per uno scopo. E poiché entrambi questi aspetti derivano da un principio intrinseco – ovvero il fatto che quelle cose agiscano e che agiscano per uno scopo – i loro movimenti vengono considerati volontari; infatti, il termine “volontario” implica proprio che tali movimenti derivino dalla propria inclinazione naturale dell’agente. Pertanto, secondo le definizioni di Aristotele, Gregorio di Nissa e Damasceno (*Vedi Obiezione 1*), ciò che è volontario non solo contiene un principio intrinseco nell’agente stesso, ma implica anche la presenza di una conoscenza dello scopo. Poiché l’uomo, in particolare, conosce lo scopo del proprio operare e si muove da sé stesso, è proprio nei suoi atti che il carattere volontario si manifesta in modo evidente.
+
+Risposta all’Obiezione 1: Non ogni principio è un principio primo. Pertanto, sebbene sia essenziale che il principio di un atto volontario appartenga all’agente stesso, non è contrario alla natura dell’atto volontario che tale principio intrinseco venga causato o mosso da un principio esterno: infatti, non è necessario che il principio intrinseco di un atto volontario sia anche un principio primo. Va inoltre osservato che un principio di movimento può essere considerato “primo” all’interno di un determinato genere, ma non necessariamente “primo” in senso assoluto: ad esempio, nel genere delle cose soggette a cambiamento, il principio primo del cambiamento è un corpo celeste; tuttavia, questo corpo celeste non è considerato il “primo motore” in senso assoluto, poiché viene a sua volta mosso da un motore più elevato. Allo stesso modo, il principio intrinseco dell’atto volontario – cioè la facoltà cognitiva e appetitiva – è considerato il “primo principio” nel genere dei movimenti volitivi, anche se viene effettivamente mosso da un principio esterno secondo altre forme di movimento.
+
+Risposta all’Obiezione 2: I nuovi movimenti negli animali sono effettivamente preceduti da un movimento esterno; e ciò avviene in due modi. Primo, nel senso che, grazie a un movimento esterno, i sensi dell’animale vengono messi di fronte a qualcosa di percepibile, il quale, una volta compreso, suscita in esso un desiderio o un appetito. Ad esempio, quando un leone vede una stella che si muove verso di lui, inizia a provare desiderio per quella stella. Secondo, nel senso che alcuni movimenti esterni producono cambiamenti fisici nel corpo dell’animale, come nel caso del freddo o del caldo; e poiché il corpo viene influenzato da tali movimenti, anche l’appetito sensoriale – che è una funzione degli organi corporei – viene indirettamente stimolato. Di conseguenza, alcuni cambiamenti fisici possono suscitare nel corpo un desiderio per qualcosa. Tuttavia, ciò non è contrario alla natura della volontà, come già detto in precedenza (ad 1), poiché tali movimenti causati da fattori esterni appartengono a un genere diverso di movimento.
+
+Risposta all’Obiezione 3: Dio spinge l’uomo ad agire non solo proponendo agli organi di senso ciò che è desiderabile, né tantomeno inducendo cambiamenti nel suo corpo, ma anche muovendo direttamente la volontà stessa; poiché ogni movimento, sia della volontà che della natura, ha origine in Dio come Primo Motore. E proprio come non è contraddittorio alla natura che il movimento naturale derivi da Dio come Primo Motore – poiché la natura è un mezzo attraverso cui Dio agisce – allo stesso modo non è contrario all’essenza di un atto volontario che esso derivi da Dio, poiché la volontà viene effettivamente mossa da Lui. Tuttavia, sia i movimenti naturali che quelli volontari hanno in comune il fatto che sia essenziale che derivino da una forza interna all’agente stesso.
+
 <span class="atom-split" data-atom="004" data-title="Whether there is anything voluntary in irrational animals?" data-chapter="Whether there is anything voluntary in irrational animals?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is nothing voluntary in irrational animals. For a thing is
@@ -185,6 +211,24 @@ stated above.
 Reply to Objection 3: Praise and blame are the result of the voluntary act, wherein is the perfect
 voluntary; such as is not to be found in irrational animals.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che negli animali irrazionali non esista nulla di volontario. Infatti, una cosa viene definita “volontaria” in base alla “[volontà](/concepts/will)”. Poiché la volontà risiede nella ragione (De [Anima](/concepts/soul) iii, 9), essa non può esistere negli animali irrazionali. Pertanto, nemmeno in loro esiste nulla di volontario.
+
+Obiezione 2: Inoltre, poiché gli atti umani sono volontari, si dice che l’uomo sia padrone delle proprie azioni. Ma gli animali irrazionali non sono padroni delle loro azioni; infatti, “non agiscono essi stessi, ma sono piuttosto agiti dagli altri”, come afferma Damasceno (De Fide Orthodossa ii, 27). Pertanto, negli animali irrazionali non esistono atti volontari.
+
+Obiezione 3: Inoltre, Damasceno afferma (De Fide Orth. 24) che “gli atti volontari portano a lode o biasimo”. Tuttavia, né la lode né il biasimo sono dovuti agli atti di menti irrazionali. Pertanto, tali atti non possono essere considerati volontari.
+
+Al contrario, il Filosofo afferma (Etica, iii, 2) che “sia i bambini che gli animali irrazionali partecipano all’atto volontario”. Lo stesso viene detto da Damasceno (De Fide Orthodossa, 24) e da Gregorio di Nissa [*Nemesio, De Natura Hominum, xxxii.*].
+
+Rispondo che, come già detto sopra (A[1]), è essenziale per un atto volontario che il suo principio risieda nell’agente stesso, insieme a una certa conoscenza dell’oggetto di tale atto. Ora, la conoscenza dell’oggetto di un atto volontario può essere di due tipi: perfetta e imperfetta. La conoscenza perfetta consiste non solo nel comprendere chiaramente l’oggetto del desiderio, ma anche nel riconoscere tale oggetto nella sua funzione di fine e nel rapporto che esiste tra i mezzi utilizzati per raggiungerlo; una tale conoscenza è tipica soltanto della natura razionale. La conoscenza imperfetta, invece, si limita semplicemente alla comprensione dell’oggetto del desiderio, senza considerarne la funzione di fine né il rapporto con i mezzi necessari per raggiungerlo; questa forma di conoscenza è propria anche degli animali irrazionali, che la utilizzano attraverso i loro sensi e le loro capacità innate. Di conseguenza, la conoscenza perfetta dell’oggetto del desiderio porta a un atto volontario perfetto: poiché, una volta compreso l’obiettivo, l’uomo può decidere, in base alla riflessione sui mezzi necessari, se agire o meno per raggiungerlo. La conoscenza imperfetta, invece, conduce a un atto volontario imperfetto: poiché l’agente comprende semplicemente l’obiettivo senza rifletterci sopra e agisce immediatamente. Pertanto, l’atto volontario nella sua forma perfetta è tipico esclusivamente della natura razionale; mentre l’atto volontario imperfetto rientra nelle capacità anche degli animali irrazionali.
+
+Risposta all’Obiezione 1: La volontà è il nome dell’appetito razionale; pertanto non può esistere nelle cose prive di ragione. Tuttavia, il termine “volontario” deriva da “voluntas” e può essere esteso anche a quelle cose in cui vi è una qualche forma di partecipazione della volontà, per via di somiglianza con essa. È così che un’azione volontaria viene attribuita agli animali irrazionali, nella misura in cui vengono spinti verso un fine attraverso qualche tipo di conoscenza.
+
+Risposta all’Obiezione 2: Il fatto che l’uomo sia padrone delle proprie azioni deriva dal suo poter deliberare su di esse; poiché la ragione che delibera è indifferente riguardo a cose opposte, la volontà può inclinarsi in entrambe le direzioni. Tuttavia, non è così nel caso degli animali irrazionali, come già detto in precedenza.
+
+Risposta all’Obiezione 3: Lode e biasimo sono il risultato di un atto volontario, caratterizzato da una volontà perfetta; tale tipo di volontà non si riscontra negli animali irrazionali.
+
 <span class="atom-split" data-atom="005" data-title="Whether there can be voluntariness without any act?" data-chapter="Whether there can be voluntariness without any act?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that voluntariness cannot be without any act. For that is voluntary
@@ -230,6 +274,24 @@ Reply to Objection 3: Voluntariness requires an act of knowledge in the same way
 an act of will; namely, in order that it be in one's power to consider, to wish and to act. And then,
 just as not to wish, and not to act, when it is time to wish and to act, is voluntary, so is it voluntary
 not to consider.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la volontarietà non possa esistere senza alcun atto. Infatti, ciò che è volontario deriva dalla volontà stessa. Ma nulla può derivare dalla volontà se non attraverso un qualche atto, almeno un atto della volontà. Pertanto, non può esserci volontarietà senza atto.
+
+Obiezione 2: Inoltre, proprio come si dice che qualcuno desideri attraverso un atto della volontà, allo stesso modo, quando tale atto cessa, si dice che quella persona non desideri più. Ma non desiderare implica involontarietà, il quale è contrario alla volontarietà stessa. Pertanto, non può esserci nulla di volontario quando l’atto della volontà cessa.
+
+Obiezione 3: Inoltre, la conoscenza è essenziale per l’atto volontario, come già affermato sopra (AA[1],2). Ma la conoscenza comporta un atto concreto; pertanto, il carattere volontario non può prescindere da tale atto.
+
+Al contrario, il termine “volontario” viene utilizzato per indicare ciò su cui abbiamo il controllo. Ora noi possiamo decidere di agire o di non agire, di voler qualcosa o di non volerlo. Pertanto, proprio come agire e volere sono atti volontari, allo stesso modo anche non agire e non volere lo sono.
+
+Rispondo che ciò che è volontario deriva dalla volontà stessa. Ora, una cosa può derivare da un’altra in due modi: primo, direttamente, nel senso in cui qualcosa deriva da un’altra perché quest’ultima agisce; ad esempio, il riscaldamento deriva dal calore stesso. Secondo, indirettamente, nel senso in cui qualcosa deriva da un’altra anche quando questa non agisce; ad esempio, l’affondamento di una nave può essere attribuito al timoniere perché ha smesso di guidarla. Tuttavia, è importante notare che la causa di ciò che accade a causa della mancanza di azione non è sempre l’agente stesso nel momento in cui non agisce; ma solo quando quest’ultimo potrebbe e dovrebbe agire. Infatti, se il timoniere fosse incapace di guidare la nave o se il timone non gli fosse stato affidato, l’affondamento della nave non verrebbe attribuito a lui, anche se potrebbe essere dovuto alla sua assenza al timone. Poiché, dunque, la volontà, attraverso il volere e l’agire, è in grado, e a volte deve, impedire ciò che non è voluto o non avviene; questo “non voler” o “non agire” viene attribuito alla volontà stessa, come se derivasse da essa. Ed è per questo che possiamo avere un atto volontario senza che si verifichi alcuna azione concreta: a volte senza alcun atto esterno, ma con un atto interiore; ad esempio, quando qualcuno decide di non agire; e altre volte nemmeno con un atto interiore, come quando non desidera affatto agire.
+
+Risposta all’Obiezione 1: Utilizziamo la parola “volontario” non solo per ciò che deriva direttamente dalla volontà, attraverso il suo atto; ma anche per ciò che ne deriva indirettamente, attraverso la sua inazione.
+
+Risposta all’Obiezione 2: “Non voler” può essere inteso in due modi. Primo, come se fosse una singola parola, ovvero l’infinito di “non voglio”. In questo caso, esattamente come quando dico “Non voglio leggere”, il significato è “Desidero non leggere”; quindi “Non voler leggere” equivale a “Desiderare non leggere”, e in questo senso “non voler” implica involontarietà. Secondo, può essere considerato una frase completa; in tal caso, nessun atto di volontà viene affermato. In questo secondo senso, “Non voler” non implica necessariamente involontarietà.
+
+Risposta all’Obiezione 3: La volontarietà richiede un atto di conoscenza, proprio come richiede un atto di volontà; cioè, affinché sia possibile considerare, desiderare e agire. E così, proprio come non desiderare o non agire quando è il momento giusto per farlo è qualcosa che avviene volontariamente, allo stesso modo è volontario anche non considerare qualcosa.
 
 <span class="atom-split" data-atom="006" data-title="Whether violence can be done to the will?" data-chapter="Whether violence can be done to the will?" data-kind="atom" data-srclang="en"></span>
 
@@ -336,6 +398,24 @@ The same remark applies in the case of one who contorts his limbs in a way that 
 natural disposition. For this is violent in a certain respect, i.e. as to that particular limb; but not
 simply, i.e. as to the man himself.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la violenza non possa causare l’atto involontario. Infatti, parliamo di volontarietà e involontarietà in relazione alla volontà stessa. Ma, come dimostrato sopra (A[4]), non è possibile esercitare violenza sulla volontà; pertanto, la violenza non può causare atti involontari.
+
+Obiezione 2: Inoltre, ciò che viene fatto involontariamente avviene con dolore, come affermano Damasceno (De Fide Orth. ii, 24) e il Filosofo (Etica iii, 5). Tuttavia, a volte una persona subisce una costrizione senza provare dolore a causa di essa. Pertanto, la violenza non è la causa dell’involontarietà.
+
+Obiezione 3: Inoltre, ciò che deriva dalla volontà non può essere involontario. Tuttavia alcune azioni violente derivano proprio dalla volontà: ad esempio, quando un uomo dal corpo pesante si muove verso l’alto; o quando un uomo contorce i propri arti in modo contrario alla loro naturale flessibilità. Pertanto, la violenza non causa l’involontarietà.
+
+Al contrario, il Filosofo (Etica, III, 1) e Damasceno (De Fide Orthodoxa, II, 24) affermano che “le azioni compiute sotto costrizione sono involontarie”.
+
+Rispondo che la violenza è direttamente opposta a ciò che è volontario, così come a ciò che è naturale. Il volontario e il naturale hanno infatti in comune il fatto di derivare da principi intrinseci; mentre la violenza deriva da principi estrinseci. E per questo motivo, proprio come nelle cose prive di conoscenza la violenza agisce contro la natura, così nelle cose dotate di conoscenza agisce contro la volontà. Ciò che è contrario alla natura viene definito “innaturale”; allo stesso modo, ciò che è contrario alla volontà viene definito “involontario”. Pertanto, la violenza causa l’involontarietà.
+
+Risposta all’Obiezione 1: Quello che è involontario si oppone a ciò che è volontario. È stato detto (A[4]) che non solo l’atto che deriva immediatamente dalla volontà viene considerato volontario, ma anche l’atto comandato dalla volontà. Pertanto, per quanto riguarda l’atto che deriva direttamente dalla volontà, non è possibile esercitare violenza sulla volontà stessa, come affermato in precedenza (A[4]); di conseguenza, la violenza non può rendere tale atto involontario. Tuttavia, per quanto riguarda l’atto comandato dalla volontà, questa può essere sottoposta a violenza; quindi, in questo caso, la violenza provoca l’involontarietà dell’atto stesso.
+
+Risposta all’Obiezione 2: Ciò che viene definito “naturale” lo è in base alla tendenza intrinseca della natura; ciò che viene definito “volontario”, invece, lo è in base alla volontà umana. Ora, un atto può essere considerato naturale in due modi: innanzitutto, perché deriva direttamente dalla natura stessa come principio attivo; ad esempio, è naturale che il fuoco produca calore. In secondo luogo, perché esiste nella natura una tendenza a ricevere azioni provenienti da agenti esterni; per questo motivo si dice che il movimento dei corpi celesti sia naturale, poiché tali corpi possiedono la capacità intrinseca di subirlo, anche se la causa effettiva di tale movimento è un agente volontario. Allo stesso modo, un atto può essere considerato volontario in due modi: innanzitutto, in relazione all’azione stessa, quando una persona desidera sottoporsi a essa; quindi, quando un atto viene compiuto da un agente esterno e la volontà di subirlo rimane nel soggetto passivo, non si può parlare di violenza: anche se il soggetto non compie alcuna azione attiva, egli partecipa comunque al processo attraverso la propria volontà di subire tale azione. Pertanto, questo non può essere definito “involontario”.
+
+Risposta all’Obiezione 3: Come afferma il Filosofo (Phys. viii, 4), il movimento di un animale che, talvolta, lo spinge contro la naturale inclinazione del suo corpo non è necessariamente contrario alla sua natura; tuttavia, in qualche modo lo è, poiché per l’animale è naturale muoversi secondo i propri desideri. Pertanto, questo tipo di movimento può essere considerato “violento”, ma solo in un certo senso. Lo stesso discorso vale nel caso di una persona che contorce le proprie membre in modo contrario alla loro disposizione naturale: anche in questo caso il movimento è violento, ma soltanto per quella particolare parte del corpo, e non necessariamente per la persona nel suo complesso.
+
 <span class="atom-split" data-atom="008" data-title="Whether fear causes involuntariness simply?" data-chapter="Whether fear causes involuntariness simply?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that fear causes involuntariness simply. For just as violence regards
@@ -402,6 +482,25 @@ Reply to Objection 3: That which is done through fear, is voluntary without any 
 that is to say, according as it is actually done: but it is involuntary, under a certain condition, that
 is to say, if such a fear were not threatening. Consequently, this argument proves rather the opposite.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la paura causi necessariamente l’azione involontaria. Poiché, proprio come la violenza riguarda ciò che è contrario alla volontà in quel momento, così anche la paura riguarda un male futuro che è in contrasto con la volontà. Ma poiché la violenza causa necessariamente l’azione involontaria, ne consegue che anche la paura causi necessariamente l’azione involontaria.
+
+Obiezione 2: Inoltre, ciò che è tale per sua natura rimane tale, indipendentemente da ciò che vi viene aggiunto; ad esempio, ciò che è caldo di per sé continua a essere caldo, qualunque cosa vi venga aggiunta. Ma ciò che avviene per paura è, in sé stesso, involontario. Pertanto, anche se vi si aggiunge la paura, tale azione rimane comunque involontaria.
+
+Obiezione 3: Inoltre, ciò che è tale, soggetto a una condizione, lo è in un certo senso; mentre ciò che è tale senza alcuna condizione, lo è semplicemente. Pertanto, ciò che è necessario, soggetto a una condizione, lo è in qualche modo; ma ciò che è necessario in modo assoluto, lo è semplicemente. Tuttavia, ciò che viene compiuto per paura è assolutamente involontario; non è volontario se non sotto una determinata condizione, ovvero al fine di evitare il male temuto. Pertanto, ciò che viene compiuto per paura è semplicemente involontario.
+
+Al contrario, Gregorio di Nissa [*Nemesio, De Nat. Hom. xxx.] e il Filosofo (*Etica*, iii, 1) affermano che azioni compiute per paura siano “piuttosto volontarie che involontarie”.
+
+Rispondo che, come afferma il Filosofo nell’Etica (III) e allo stesso modo Gregorio di Nissa nel suo libro sull’Uomo (Nemesio, De Nat. Hom. xxx), azioni del genere vengono compiute per paura; tali azioni sono “di natura mista”, in quanto in parte volontarie e in parte involontarie. Ciò che viene fatto per paura, considerato in sé, non è volontario; tuttavia diventa volontario in quel particolare contesto, precisamente al fine di evitare il male temuto.  
+Ma se si considera la questione nel modo corretto, tali azioni sono piuttosto volontarie che involontarie; infatti sono volontarie in senso assoluto, ma involontarie sotto un certo aspetto. Un’azione è detta “assolutamente volontaria” quando viene effettivamente compiuta; mentre quando esiste soltanto nella mente, non lo è in senso assoluto, ma solo in un determinato contesto. Quello che viene fatto per paura, dunque, è volontario nel momento in cui viene effettivamente compiuto, cioè quando, nelle circostanze specifiche del caso, si evita un male più grave. Ad esempio, gettare il carico in mare durante una tempesta diventa un atto volontario per paura del pericolo; pertanto è evidente che tale azione sia assolutamente volontaria. Da ciò deriva che ciò che viene fatto per paura è essenzialmente volontario, poiché la sua motivazione risiede all’interno della persona stessa. Tuttavia, se si considera l’atto in sé, al di fuori di quel contesto specifico e nel momento in cui va contro la volontà del soggetto, allora tale azione appare involontaria.
+
+Risposta all’Obiezione 1: Le azioni compiute per paura o costrizione differiscono non solo in base al tempo presente o futuro, ma anche perché la volontà non vi consente attivamente, bensì viene spinta in direzione opposta rispetto a ciò che avviene sotto costrizione; al contrario, ciò che si fa per paura diventa volontario, poiché la volontà è indotta ad agire, sebbene non per il bene stesso dell’azione, ma per evitare un male temuto. Le condizioni di un atto volontario sono infatti soddisfatte quando esso viene compiuto per motivi che rientrano nella sfera della volontà stessa: ciò che è volontario non è soltanto ciò che desideriamo per il suo stesso bene, come fine ultimo, ma anche ciò che desideriamo al fine di ottenere qualcos’altro. È quindi evidente che nell’atto compiuto sotto costrizione la volontà non interviene attivamente; mentre nell’atto compiuto per paura, la volontà svolge un ruolo determinante. Come afferma Gregorio di Nissa nel *Nemesio*, per escludere gli atti compiuti per paura, si definisce “violento” un atto non solo “il cui elemento principale proviene dall’esterno”, ma anche “in cui colui che subisce la violenza non partecipa affatto attivamente”; poiché nella situazione di paura, la volontà del soggetto è comunque coinvolta, sebbene in modo passivo.
+
+Risposta all’Obiezione 2: Le cose che sono tali in modo assoluto rimangono tali, indipendentemente da ciò che vi venga aggiunto; ad esempio, una cosa fredda o bianca. Ma le cose che sono tali in modo relativo variano a seconda del confronto con altre cose: ciò che è grande rispetto a una cosa può risultare piccolo rispetto a un’altra. Si dice quindi che una cosa sia “volontaria” non solo per se stessa, in senso assoluto, ma anche in relazione ad altro; pertanto nulla impedisce che una cosa che non era considerata volontaria in un certo contesto diventi tale in un altro.
+
+Risposta all’Obiezione 3: Ciò che viene compiuto per paura è volontario in assenza di alcuna condizione, cioè nel momento in cui viene effettivamente realizzato; ma diventa involontario sotto una certa condizione, ovvero se tale paura non rappresentasse una minaccia. Pertanto, questo argomento dimostra piuttosto il contrario.
+
 <span class="atom-split" data-atom="009" data-title="Whether concupiscence causes involuntariness?" data-chapter="Whether concupiscence causes involuntariness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [concupiscence](/concepts/concupiscence) causes involuntariness. For just as fear is a
@@ -447,6 +546,24 @@ of knowing is not taken away entirely, but only the actual consideration in some
 act. Nevertheless, this itself is voluntary, according as by voluntary we mean that which is in the
 power of the will, for example "not to act" or "not to will," and in like manner "not to consider";
 for the will can resist the passion, as we shall state later on (Q[10], A[3]; Q[77], A[7]).
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la [concupiscenza](/concepts/concupiscence) causi l’atto involontario. Poiché la paura è una passione, lo stesso vale per la concupiscenza. E poiché la paura provoca un certo grado di involontarietà, ne consegue che anche la concupiscenza lo faccia.
+
+Obiezione 2: Inoltre, proprio come l’uomo timido, per paura, agisce contro ciò che aveva proposto, allo stesso modo l’incontinente agisce per effetto della concupiscenza. Ma la paura, in una certa misura, causa azioni involontarie; pertanto anche la concupiscenza provoca comportamenti simili.
+
+Obiezione 3: Inoltre, la conoscenza è necessaria affinché un atto sia volontario. Ma la concupiscenza ostacola la conoscenza; infatti il Filosofo afferma (Etica VI, 5) che “il piacere” o la brama di godimento “distrugge il giudizio della prudenza”. Pertanto, la concupiscenza causa l’atto involontario.
+
+Al contrario, Damasceno afferma (De Fide Orth. ii, 24): “L’atto involontario merita misericordia o indulgenza e viene compiuto con rimorso”. Ma nessuna di queste caratteristiche può essere attribuita a ciò che viene fatto per concupiscenza. Pertanto, la concupiscenza non causa l’involontarietà.
+
+Rispondo che la concupiscenza non causa l’involontarietà, ma al contrario rende qualcosa volontario. Si dice infatti che una cosa sia volontaria quando la volontà è spinta ad essa. Ora, la concupiscenza inclina la volontà a desiderare l’oggetto di cui è fonte; pertanto, l’effetto della concupiscenza è proprio quello di rendere qualcosa volontario, e non involontario.
+
+Risposta all’Obiezione 1: La paura riguarda il male, mentre la concupiscenza riguarda il bene. Ora, il male di per sé è contrario alla volontà, mentre il bene è in armonia con essa. Pertanto, la paura ha una tendenza maggiore della concupiscenza a causare azioni involontarie.
+
+Risposta all’Obiezione 2: Chi agisce per paura mantiene, in qualche misura, il rifiuto della propria volontà verso ciò che compie, considerato in sé stesso. Ma colui che agisce per concupiscenza, ad esempio un uomo incontrollato, non mantiene più quella volontà con cui in precedenza respingeva l’oggetto della sua concupiscenza; infatti la sua volontà è cambiata, tanto da desiderare ciò che prima rifiutava. Pertanto, ciò che viene compiuto per paura è, in una certa misura, involontario, mentre ciò che viene compiuto per concupiscenza non lo è affatto. L’uomo che cede alla concupiscenza agisce contro ciò che aveva inizialmente intenzione di fare, ma non contro ciò che ora desidera; al contrario, l’uomo timido agisce contro ciò che, in sé stesso, ora desidera.
+
+Risposta all’Obiezione 3: Se la concupiscenza distruggesse completamente la conoscenza, come avviene in coloro che ne sono resi pazzi, ne conseguirebbe che la concupiscenza toglierebbe anche il carattere volontario agli atti umani. Tuttavia, in senso proprio, ciò non renderebbe tali atti involontari, poiché nelle cose prive di ragione non esiste né volontarietà né involontarietà. Talvolta, però, negli atti compiuti per motivi legati alla concupiscenza, la conoscenza non viene completamente distrutta: infatti, la capacità di conoscere non viene del tutto annullata, ma soltanto l’esame concreto di un determinato atto possibile. Nonostante ciò, tale esame stesso è volontario, poiché per “volontario” si intende ciò che rientra nella sfera del potere della volontà – ad esempio, “non agire” o “non voler qualcosa” – e allo stesso modo anche “non considerare un certo aspetto di una situazione”. La volontà, infatti, può resistere alle passioni, come vedremo in seguito (Q[10], A[3]; Q[77], A[7]).
 
 <span class="atom-split" data-atom="010" data-title="Whether ignorance causes involuntariness?" data-chapter="Whether ignorance causes involuntariness?" data-kind="atom" data-srclang="en"></span>
 
@@ -504,6 +621,19 @@ ignorance of what a man is bound to know. The second, with ignorance of choice, 
 to a certain extent, as stated above. The third, with that ignorance which is concomitant with the
 act of the will.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’ignoranza non causi azioni involontarie. Infatti, “l’atto involontario merita perdono”, come afferma Damasceno (De Fide Orth. ii, 24). Tuttavia, a volte ciò che viene compiuto per ignoranza non merita perdono, secondo 1 Corinzi 14:38: “Se qualcuno non lo sa, non verrà giudicato”. Pertanto, l’ignoranza non causa azioni involontarie.
+
+Obiezione 2: Inoltre, ogni peccato implica ignoranza; secondo il Proverbo 14:22: “Essi errano perché compiono il male”. Se quindi l’ignoranza causa l’involontarietà, ne consegue che ogni peccato sia involontario: il che è in contraddizione con quanto affermato da [Agostino](/figures/augustine), secondo cui “ogni peccato è volontario” (De Vera Relig. xiv).
+
+Obiezione 3: Inoltre, “l’involontarietà non è priva di tristezza”, come afferma Damasceno (De Fide Orthodossa ii, 24). Tuttavia alcune azioni vengono compiute per ignoranza, ma senza tristezza: ad esempio, un uomo può uccidere un nemico che desidera eliminare, pensando in quel momento di uccidere un cervo. Pertanto, l’ignoranza non causa necessariamente l’involontarietà.
+
+Al contrario, Damasceno (De Fide Orthodossa ii, 24) e il Filosofo (Etica iii, 1) affermano che “ciò che viene compiuto per ignoranza è involontario”.
+
+Rispondo che, se l’ignoranza causa l’involontarietà, ciò avviene nel senso in cui priva una persona della conoscenza, che è una condizione necessaria per agire volontariamente, come già dichiarato in precedenza (A[1]). Tuttavia, non ogni forma di ignoranza priva una persona di questa conoscenza. Pertanto, dobbiamo considerare che l’ignoranza ha un rapporto tripartito con l’atto della volontà: da un lato, “concomitante”; da un altro, “consequente”; da un terzo, “antecedente”. È “concomitante” quando si ignora ciò che si sta facendo, ma anche se lo si sapesse, l’atto verrebbe comunque compiuto. In questo caso, l’ignoranza non induce alcun desiderio di agire in quel modo; semplicemente, l’azione avviene contemporaneamente alla mancanza di conoscenza: ad esempio, nell’esempio fornito (OBJ 3), un uomo desiderava davvero uccidere il suo nemico, ma lo fece ignorando la verità, credendo di colpire una lepre. Questo tipo di ignoranza, come afferma il Filosofo (Etica, iii, 1), non causa l’involontarietà, poiché non è la causa di nulla che sia contrario alla volontà; tuttavia, rende possibile compiere un atto che altrimenti non verrebbe voluto. L’ignoranza è “consequente” all’atto della volontà quando essa stessa è volontaria, e ciò avviene in due modi, secondo i due tipi di volontarietà menzionati in precedenza (A[3]). Primo, quando l’atto della volontà si dirige verso qualcosa che viene ignorato: ad esempio, quando una persona desidera non conoscere certe informazioni per poter trovare scuse per un peccato o per poter commetterlo liberamente; come dice Giobbe 21:14: “Non desideriamo conoscere i tuoi sentieri”. Questo tipo di ignoranza è definito “ignoranza deliberata”. Secondo, l’ignoranza è detta volontaria quando riguarda ciò che si potrebbe e dovrebbe sapere; in questo senso, anche “non agire” o “non voler” possono essere considerati atti volontari, come già detto (A[3]). Questo tipo di ignoranza può derivare dal fatto che una persona non prende in considerazione ciò che potrebbe e dovrebbe conoscere; si tratta dell’“ignoranza delle conseguenze negative delle proprie azioni”, causata da passioni o abitudini. Oppure può derivare dal rifiuto di acquisire la conoscenza necessaria; in questo caso, l’ignoranza dei principi fondamentali della legge è volontaria, a causa di negligenza. Pertanto, se l’ignoranza è volontaria in uno di questi modi, non può causare necessariamente l’involontarietà. Tuttavia, lo fa in un certo senso, poiché precede il movimento della volontà verso l’atto; senza quell’ignoranza, tale movimento non avverrebbe. L’ignoranza è “antecedente” all’atto della volontà quando questa non è volontaria, ma causa comunque la comprensione e la realizzazione di ciò che altrimenti non verrebbe voluto. Ad esempio, una persona può ignorare alcuni dettagli del proprio atto, e di conseguenza compiere qualcosa che altrimenti non farebbe; ad esempio, dopo aver preso tutte le precauzioni necessarie, potrebbe non sapere che qualcuno sta arrivando lungo la strada, e quindi scoccare una freccia uccidendo un passante. In questo caso, l’ignoranza causa chiaramente l’involontarietà.
+Da ciò si può trarre la soluzione alle obiezioni. La prima obiezione riguarda l’ignoranza di ciò che un uomo è tenuto a conoscere; la seconda, l’ignoranza legata alle scelte, che sono in una certa misura volontarie, come già detto; la terza, quell’ignoranza che accompagna l’atto della volontà stessa.
+
 <span class="atom-split" data-atom="011" data-title="OF THE CIRCUMSTANCES OF HUMAN ACTS (FOUR ARTICLES)" data-chapter="OF THE CIRCUMSTANCES OF HUMAN ACTS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the circumstances of human acts: under which head there are four points
@@ -512,6 +642,14 @@ of inquiry:
 (2) Whether a theologian should take note of the circumstances of human acts?
 (3) How many circumstances are there?
 (4) Which are the most important of them?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare le circostanze degli atti umani: in questa categoria esistono quattro punti di indagine:  
+(1) Che cos’è una circostanza?  
+(2) Se un teologo debba prendere in considerazione le circostanze degli atti umani.  
+(3) Quante circostanze esistono?  
+(4) Quali sono le più importanti tra queste?
 
 <span class="atom-split" data-atom="012" data-title="Whether a circumstance is an accident of a human act?" data-chapter="Whether a circumstance is an accident of a human act?" data-kind="atom" data-srclang="en"></span>
 
@@ -572,6 +710,25 @@ have a relation to acts, belong to the agent otherwise than through the act; as 
 of person; whereas others belong to the agent by reason of the act, as the manner in which the act
 is done.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che una circostanza non sia un accidente di un atto umano. Infatti Tullio afferma (De Invent. Rhetor. i) che una circostanza è qualcosa “dal quale un oratore può aggiungere autorità e forza al proprio argomento”. Ma gli argomenti retorici derivano principalmente da elementi legati all’essenza di una cosa, come la definizione, il genere, la specie e simili; ed è proprio da questi elementi che Tullio sostiene che un oratore debba trarre i propri argomenti. Pertanto, una circostanza non può essere considerata un accidente di un atto umano.
+
+Obiezione 2: Inoltre, “essere contenuto al proprio interno” è una caratteristica propria di un accidente. Tuttavia ciò che circonda un atto umano si trova piuttosto all’esterno di esso che al suo interno. Pertanto, le circostanze non possono essere considerate accidenti degli atti umani.
+
+Obiezione 3: Inoltre, un accidente non può essere considerato a sua volta un accidente; ma gli stessi atti umani sono accidenti. Pertanto, le circostanze che accompagnano tali atti non possono essere considerate accidenti degli atti stessi.
+
+Al contrario, le condizioni particolari di ogni singola cosa vengono definite suoi accidenti individuanti. Tuttavia, il Filosofo (Etica, iii, 1) definisce le circostanze “cose particolari”, ovvero le condizioni specifiche di ciascun atto umano. Pertanto, le circostanze costituiscono gli accidenti individuanti degli atti umani.
+
+Rispondo che, poiché, secondo il Filosofo (Peri Hermeneutica I), “le parole sono i segni di ciò che comprendiamo”, è necessario che nel nominare le cose seguiamo il processo della conoscenza intellettuale. Ora la nostra conoscenza intellettuale procede da ciò che è meglio conosciuto a ciò che è meno noto. Pertanto, i [nomi](/positions/nominalism) di cose più evidenti vengono utilizzati per indicare cose meno evidenti; ed è per questo che, come si afferma nella Metafisica X, 4, “il concetto di distanza è stato esteso da cose che sono separate nello spazio a ogni tipo di opposizione”; allo stesso modo, le parole che indicano il movimento nello spazio vengono impiegate per designare tutti gli altri tipi di movimento, poiché i corpi delimitati dallo spazio sono quelli che conosciamo meglio. Ecco perché la parola “circostanza” è passata da cose situate nello spazio agli atti umani.  
+Nelle cose situate nello spazio, si dice che qualcosa circonda ciò che è esterno ad esse, ma le tocca o le è vicino; pertanto, tutte quelle condizioni che sono esterne alla sostanza di un atto, ma in qualche modo lo influenzano, vengono chiamate circostanze. Ciò che, pur essendo esterno alla sostanza di una cosa, appartiene comunque a essa, viene definito suo accidente; quindi, le circostanze degli atti umani dovrebbero essere considerate loro accidenti.
+
+Risposta all’Obiezione 1: L’oratore rafforza il proprio argomento, innanzitutto, sulla sostanza stessa dell’atto; in secondo luogo, sulle circostanze in cui tale atto è stato compiuto. Un uomo, ad esempio, può essere incriminato: prima di tutto, perché colpevole di omicidio; in secondo luogo, perché ha commesso l’atto in modo fraudolento, per motivi di avidità, o in un momento o luogo sacro, e così via. Nella citazione riportata si afferma esplicitamente che l’oratore “rafforza il proprio argomento”, come se ciò fosse qualcosa di secondario.
+
+Risposta all’Obiezione 2: Si dice che una cosa sia un accidente di un’altra in due modi. Primo, perché esiste all’interno di quella cosa; ad esempio, la bianchezza è considerata un accidente di [Socrate](/figures/socrates). Secondo, perché esiste insieme a quella cosa nello stesso soggetto; in questo caso, la bianchezza è considerata un accidente dell’arte musicale, poiché entrambe esistono nello stesso soggetto. In questo senso, si dice che le circostanze siano gli accidenti degli atti umani.
+
+Risposta all’Obiezione 3: Come già detto sopra (ad 2), si dice che un accidente sia “l’accidente di un altro accidente” perché entrambi riguardano lo stesso soggetto. Tuttavia, ciò avviene in due modi diversi. In primo luogo, quando due accidenti sono entrambi legati allo stesso soggetto, senza alcuna relazione reciproca tra loro; ad esempio, la bianchezza e l’arte musicale in Socrate. In secondo luogo, quando tali accidenti sono tra loro correlati; ad esempio, quando uno di essi determina l’esistenza dell’altro nel soggetto considerato; come quando una superficie riceve il colore attraverso la propria struttura. Per questo motivo si dice anche che un accidente “si trovi” in un altro; infatti parliamo del colore come di qualcosa che “è presente sulla superficie”. Di conseguenza, le circostanze sono collegate agli atti in entrambi questi modi: alcune, pur essendo legate agli atti, appartengono all’agente in modo diverso da quello attraverso cui l’atto viene compiuto; ad esempio, il luogo o le condizioni personali dell’agente. Altre, invece, appartengono all’agente proprio a causa dell’atto stesso, come il modo in cui esso viene eseguito.
+
 <span class="atom-split" data-atom="013" data-title="Whether theologians should take note of the circumstances of human acts?" data-chapter="Whether theologians should take note of the circumstances of human acts?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that theologians should not take note of the circumstances of human
@@ -628,6 +785,24 @@ belongs, in all the aforesaid ways: since to him all the other arts are subservi
 consider virtuous and vicious acts, just as the moralist does; and with the orator and politician he
 considers acts according as they are deserving of reward or punishment.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i teologi non dovrebbero prendere in considerazione le circostanze degli atti umani. Infatti, i teologi valutano gli atti umani esclusivamente in base alla loro qualità di buoni o cattivi. Tuttavia, sembra che le circostanze non possano conferire qualità agli atti umani; infatti, formalmente parlando, una cosa non è mai qualificata da ciò che le è esterno, ma soltanto da ciò che è in essa. Pertanto, i teologi non dovrebbero considerare le circostanze degli atti umani.
+
+Obiezione 2: Inoltre, le circostanze sono gli accidenti degli atti. Ma una cosa può essere soggetta a un’[infinità](/concepts/infinity) di accidenti; per questo il Filosofo afferma (Metafisica VI, 2) che “nessuna arte o scienza considera l’essere accidentale, se non l’arte della sofistica”. Pertanto, il teologo non deve prendere in considerazione le circostanze.
+
+Obiezione 3: Inoltre, la valutazione delle circostanze spetta all’oratore. Ma l’oratoria non fa parte della teologia. Pertanto, non è compito di un teologo prendere in considerazione le circostanze.
+
+Al contrario, l’ignoranza delle circostanze rende un atto involontario, secondo Damasceno (De Fide Orth. ii, 24) e Gregorio di Nissa [*Nemesio, De Nat. Hom. xxxi.*]. Tuttavia, l’involontarietà scusa dal peccato, e la valutazione di questo aspetto spetta al teologo. Pertanto anche le circostanze dovrebbero essere prese in considerazione dal teologo.
+
+Rispondo che le circostanze vengono prese in considerazione dal teologo per tre motivi principali. Primo, perché il teologo esamina gli atti umani nella misura in cui essi tendono alla Felicità; ormai, tutto ciò che è diretto verso un fine deve essere proporzionato a tale fine. Gli atti, tuttavia, diventano proporzionati al loro scopo grazie a una certa armonia tra le circostanze e tali atti, e quindi il teologo deve necessariamente prendere in considerazione queste circostanze. Secondo, perché il teologo valuta gli atti umani in base al fatto che siano buoni o cattivi, migliori o peggiori; tale diversità dipende appunto dalle circostanze, come vedremo più avanti (Q[18], AA[10], 11; Q[73], A[7]). Terzo, perché il teologo esamina gli atti umani dal punto di vista del merito e del demerito, che sono caratteristici degli stessi; per farlo, è necessario che tali atti siano volontari. Un atto umano viene considerato volontario o involontario in base alla conoscenza o all’ignoranza delle circostanze coinvolte, come già detto (Q[6], A[8]). Pertanto, anche in questo caso il teologo deve necessariamente prendere in considerazione le circostanze.
+
+Risposta all’Obiezione 1: Si dice che il bene diretto verso un fine sia utile; e ciò implica una sorta di relazione. Per questo motivo il Filosofo afferma (Etica, I, 6) che “il bene appartenente al genere ‘relazione’ è ciò che è utile”. Ora, nel genere “relazione”, una cosa viene denominata non solo in base a ciò che è intrinseco ad essa, ma anche in base a ciò che le è esterno: come si può vedere nelle espressioni “destro” e “sinistro”, “uguale” e “disuguale”, e simili. Pertanto, poiché la bontà degli atti consiste nella loro utilità per il fine prefissato, nulla impedisce di considerarli buoni o cattivi in base alla loro relazione con elementi esterni ad essi.
+
+Risposta all’Obiezione 2: Gli accidenti che sono puramente casuali vengono trascurati da qualsiasi disciplina tecnica, a causa della loro incertezza e infinità. Tuttavia, tali accidenti non corrispondono a ciò che chiamiamo “circostanze”; poiché le circostanze, sebbene, come detto sopra (A[1]), siano estrinseche all’atto stesso, sono comunque in qualche modo collegate ad esso, in quanto vi sono correlate. Gli accidenti propri, invece, rientrano nell’ambito di considerazione delle discipline tecniche.
+
+Risposta all’Obiezione 3: L’esame delle circostanze spetta al moralista, al politico e all’oratore. Per il moralista, le circostanze determinano se un atto umano o una passione siano conformi alla virtù; per il politico e l’oratore, le circostanze fanno sì che tali atti meritino lode o biasimo, scuse o rimproveri. Tuttavia, in modi diversi: mentre l’oratore persuade, il politico giudica. Per il teologo, questa considerazione è fondamentale in tutti i sensi sopra menzionati; poiché tutte le altre discipline sono subordinate alla sua: egli deve infatti valutare gli atti come virtuosi o viziosi, proprio come fa il moralista; e, insieme all’oratore e al politico, considera gli atti in base al loro merito di ricompensa o punizione.
+
 <span class="atom-split" data-atom="014" data-title="Whether the circumstances are properly set forth in the third book of Ethics?" data-chapter="Whether the circumstances are properly set forth in the third book of Ethics?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the circumstances are not properly set forth in Ethic. iii, 1. For
@@ -682,6 +857,24 @@ circumstance "what"; for that a man by pouring water on someone should happen to
 not a circumstance of the washing; but that in doing so he give him a chill, or scald him; heal him
 or harm him, these are circumstances.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le circostanze non siano state descritte correttamente nell’Etica iii, 1. Infatti, una circostanza di un atto viene definita come qualcosa che si trova al di fuori dell’atto stesso; tempo e luogo rientrano appunto in questa definizione. Pertanto, esistono soltanto due circostanze: “quando” e “dove”.
+
+Obiezione 2: Inoltre, giudichiamo se qualcosa sia stato fatto bene o male in base alle circostanze. Ma ciò rientra nel modo in cui un’azione viene compiuta. Pertanto, tutte le circostanze sono incluse sotto quel concetto, ovvero il “modo di agire”.
+
+Obiezione 3: Inoltre, le circostanze non fanno parte della sostanza di un atto. Ma le cause di un atto sembrano appartenere alla sua sostanza stessa. Pertanto, nessuna circostanza dovrebbe essere considerata parte della causa effettiva dell’atto stesso. Di conseguenza, né “chi”, né “perché”, né “di cosa” possono essere considerati elementi costitutivi delle circostanze: poiché “chi” si riferisce alla causa efficiente, “perché” alla causa finale e “di cosa” alla causa materiale.
+
+Al contrario, è proprio questo l’autorità del Filosofo nel “Etica”, III, 1.
+
+Rispondo che Tullio, nella sua “Retorica” (De Invent. Rhetor. i), menziona sette circostanze che sono contenute in questo versetto: “Chi, cosa, dove, con quali mezzi, perché, come, quando”. Infatti, negli atti bisogna prendere in considerazione “chi” li ha compiuti, “con quali mezzi” o strumenti, “cosa” è stato fatto, “dove”, “perché”, “come” e “quando”. Tuttavia Aristotele, nell’“Etica” III, 1, ne aggiunge un’altra: “riguardo a cosa”. Tullio include questa circostanza nella categoria delle “cose”. La ragione di questa enumerazione è la seguente: una circostanza può essere definita qualcosa che si trova al di fuori della sostanza stessa dell’atto, ma che in qualche modo lo riguarda. Ciò avviene in tre modi: primo, nel senso che tale circostanza riguarda direttamente l’atto stesso; secondo, nel senso che riguarda la causa dell’atto; terzo, nel senso che riguarda l’effetto dell’atto. La circostanza “chi” riguarda direttamente l’atto, sia in termini di misura (come “tempo” e “luogo”), sia qualificando il modo in cui l’atto è stato compiuto. La circostanza “cosa” riguarda l’effetto dell’atto. La circostanza “perché” riguarda la causa finale dell’atto; quella “riguardo a cosa” riguarda la causa materiale o l’oggetto dell’azione; quella “chi” riguarda la causa efficiente principale; e quella “con quali mezzi” riguarda i mezzi utilizzati per compiere l’atto.
+
+Risposta all’Obiezione 1: Tempo e luogo circondano l’atto in senso di misura; gli altri elementi, invece, lo circondano in modo diverso, toccandolo in qualche forma, pur essendo esterni alla sostanza stessa dell’atto.
+
+Risposta all’Obiezione 2: Questo modo di agire, “bene” o “male”, non è una circostanza in sé, ma deriva da tutte le altre circostanze. Tuttavia, il modo con cui un atto viene compiuto, che riguarda una qualità specifica dell’atto stesso, rappresenta invece una circostanza particolare; ad esempio, se un uomo cammina velocemente o lentamente, se colpisce con forza o dolcemente, e così via.
+
+Risposta all’Obiezione 3: Una condizione della causa, da cui dipende la sostanza dell’atto, non è una circostanza; deve essere considerata una condizione aggiuntiva. Pertanto, riguardo all’oggetto dell’atto, non è una circostanza del furto il fatto che l’oggetto appartenga a un altro, poiché questo costituisce già la sostanza stessa dell’atto; al contrario, le caratteristiche dell’oggetto (come essere grande o piccolo) sono considerate circostanze. Lo stesso vale per le altre circostanze che vengono valutate in relazione ad altre cause. L’obiettivo specifico che guida l’atto non è una semplice circostanza, ma un fine aggiuntivo; ad esempio, il fatto che un uomo agisca con coraggio “per il bene della virtù o della forza d’animo” non costituisce una circostanza, mentre lo scopo specifico dell’azione (ad esempio, salvare lo stato o la cristianità) sì. Lo stesso vale per la circostanza del “modo in cui l’atto viene compiuto”: il fatto che versando acqua su qualcuno si possa effettivamente lavarlo non è una caratteristica essenziale dell’atto di lavare; al contrario, il fatto che in questo modo si possa causargli freddo, scottature, guarigioni o danni sono circostanze rilevanti.
+
 <span class="atom-split" data-atom="015" data-title="Whether the most important circumstances are \&quot;why\&quot; and \&quot;in what the act consists\&quot;?" data-chapter="Whether the most important circumstances are \&quot;why\&quot; and \&quot;in what the act consists\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether the most important circumstances are "why" and "in what the act consists"?
@@ -724,6 +917,26 @@ conditions of the person have not such an important relation to the act. As to t
 [substantial form](/concepts/forma_substantialis) of the act, for in an act the substantial form depends on the object and term or end;
 but it is, as it were, a certain accidental quality of the act.
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Le circostanze più importanti sono forse “perché” e “in cosa consiste l’atto”?
+
+Obiezione 1: Sembra che queste non siano le circostanze più importanti, ovvero quelle “per cui l’atto viene compiuto” e quelle “in cui l’atto stesso ha luogo”, come affermato nell’Etica iii, 1. Infatti, quelle in cui l’atto ha luogo sembrano essere il luogo e il tempo; ma tali circostanze non appaiono essere le più rilevanti, poiché sono le più esterne all’atto stesso. Pertanto, quelle circostanze in cui l’atto viene compiuto non costituiscono le condizioni più essenziali per la sua realizzazione.
+
+Obiezione 2: Inoltre, la fine di una cosa è estrinseca ad essa; pertanto non rappresenta la circostanza più importante.
+
+Obiezione 3: Inoltre, ciò che occupa il posto più importante in relazione a ogni cosa è la sua causa e la sua forma. Ma la causa di un atto è la persona che lo compie; mentre la forma di un atto è il modo in cui viene eseguito. Pertanto, queste due circostanze sembrano essere di estrema importanza.
+
+Al contrario, Gregorio di Nissa [*Nemesio, De Nat. Hom. xxxi.] afferma che “le circostanze più importanti” sono “il motivo per cui si agisce” e “ciò che viene effettivamente fatto”.
+
+Rispondo che, come già detto sopra (Q[1], A[1]), gli atti vengono propriamente definiti “umani” nella misura in cui sono volontari. Ora, il movente e l’oggetto della volontà sono il fine; pertanto, quella circostanza che riguarda direttamente il fine è la più importante di tutte quelle relative all’atto, ovvero la circostanza del “perché”; la seconda in importanza è invece quella che riguarda la sostanza stessa dell’atto, ovvero la circostanza del “cosa ha fatto”. Per quanto riguarda le altre circostanze, queste sono più o meno importanti a seconda che si avvicinino di più o meno a queste due principali.
+
+Risposta all’Obiezione 1: Con quelle cose “in cui l’atto ha luogo”, il Filosofo non intende il tempo e il luogo, ma quelle circostanze che sono strettamente legate all’atto stesso. Pertanto Gregorio di Nissa [*Nemesio, De Nat. Hom. xxxi*], come se volesse spiegare il detto del Filosofo, utilizzò invece del termine “in cui l’atto ha luogo” l’espressione “quello che viene compiuto”.
+
+Risposta all’Obiezione 2: Sebbene la fine non faccia parte della sostanza dell’atto, essa è tuttavia la causa più importante di tale atto, in quanto spinge l’agente ad agire. Pertanto, l’atto morale viene determinato principalmente dalla sua fine.
+
+Risposta all’Obiezione 3: La persona che compie un atto è la causa di tale atto, nella misura in cui viene spinta ad agire dal fine perseguito; ed è soprattutto in questo senso che essa viene guidata ad compiere quell’atto; mentre altre condizioni della persona non hanno una relazione così importante con l’atto stesso. Per quanto riguarda il modo in cui l’atto viene compiuto, non si tratta della [forma sostanziale](/concepts/forma_substantialis) dell’atto, poiché nella realtà questa forma dipende dall’oggetto e dal fine dell’azione; bensì si tratta, per così dire, di una certa qualità accidentale dell’atto stesso.
+
 <span class="atom-split" data-atom="016" data-title="OF THE WILL, IN REGARD TO WHAT IT WILLS (THREE ARTICLES)" data-chapter="OF THE WILL, IN REGARD TO WHAT IT WILLS (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the different acts of the will; and in the first place, those acts which
@@ -740,6 +953,13 @@ Under the first head there are three points of inquiry:
 (2) Whether it is of the end only, or also of the means?
 (3) If in any way it be of the means, whether it be moved to the end and to the means, by the
 same movement?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare i diversi atti della volontà; innanzitutto, quelli che appartengono direttamente alla volontà stessa, poiché sono suscitati dalla volontà stessa; in secondo luogo, quelli che vengono comandati dalla volontà.  
+La volontà è spinta verso un fine e verso i mezzi necessari per raggiungerlo; pertanto dobbiamo esaminare: (1) quegli atti della volontà attraverso cui essa viene spinta verso il fine; e (2) quelli attraverso cui viene spinta verso i mezzi. Poiché sembra che ci siano tre tipi di atti della volontà in relazione al fine, ovvero “volizione”, “godimento” e “intenzione”, dobbiamo considerare: (1) la volizione; (2) il godimento; (3) l’intenzione.  
+Per quanto riguarda la prima di queste categorie, occorre esaminare tre aspetti: (1) Di quali cose è fatta la volontà? (2) Da cosa viene spinta la volontà? (3) In che modo viene spinta?  
+All’interno della prima categoria di indagine, si possono individuare tre punti principali: (1) La volontà riguarda soltanto il bene? (2) Riguarda soltanto il fine, o anche i mezzi per raggiungerlo? (3) Se in qualche modo riguarda i mezzi, viene forse spinta sia verso il fine che verso i mezzi con lo stesso movimento?
 
 <span class="atom-split" data-atom="017" data-title="Whether the will is of good only?" data-chapter="Whether the will is of good only?" data-kind="atom" data-srclang="en"></span>
 
@@ -792,6 +1012,24 @@ wherefore negations and privations are said to be "beings of reason." In this wa
 in so far as they are apprehended, are beings. Accordingly, in so far as such like are beings, they
 are apprehended under the aspect of good; and it is thus that the will is directed to them. Wherefore
 the Philosopher says (Ethic. v, 1) that "to lack evil is considered as a good."
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la volontà non riguardi soltanto il bene. Infatti, la stessa facoltà umana riguarda anche gli opposti; ad esempio, la vista percepisce sia il bianco che il nero. Ma il bene e il male sono opposti. Pertanto, la volontà riguarda non solo il bene, ma anche il male.
+
+Obiezione 2: Inoltre, le facoltà razionali possono essere indirizzate verso scopi opposti, secondo quanto afferma il Filosofo (Metafisica, IX, 2). Ma la volontà è una facoltà razionale, poiché “si trova nella ragione”, come si legge nel De Anima, III, 9. Pertanto, la volontà può essere indirizzata verso opposti; di conseguenza, il suo operare non è limitato al bene, ma si estende anche al male.
+
+Obiezione 3: Inoltre, il bene e l’essere sono intercambiabili. Ma la volontà non è diretta soltanto verso gli esseri, ma anche verso ciò che non è essere. Infatti, a volte desideriamo “non camminare” o “non parlare”; altre volte, invece, desideriamo cose future che non sono ancora realtà concreta. Pertanto, la volontà non riguarda soltanto il bene.
+
+Al contrario, Dionisio afferma (Div. Nom. iv) che “il male è al di fuori dell’ambito della volontà” e che “tutte le cose desiderano il bene”.
+
+Rispondo che la volontà è un appetito razionale. Ora, ogni appetito riguarda soltanto qualcosa di buono. La ragione di ciò è che l’appetito non è altro che una tendenza dell’uomo verso quella cosa che desidera; e ogni tendenza è diretta verso qualcosa di simile o adatto a ciò che si desidera. Poiché, dunque, tutto ciò che esiste ed è sostanza è buono, ne consegue necessariamente che ogni tendenza sia diretta verso qualcosa di buono. Ecco perché il Filosofo afferma nell’Etica (I, 1) che “il bene è ciò che tutti desiderano”. Tuttavia, poiché ogni tendenza deriva da una forma specifica, l’appetito naturale derivante dalla natura stessa delle cose; mentre l’appetito sensibile, così come l’appetito intellettivo o razionale – che chiamiamo volontà – derivano da forme percepite. Pertanto, proprio come l’appetito naturale tende verso il bene che esiste nelle cose, anche l’appetito volontario tende verso un bene che viene percepito come tale. Di conseguenza, affinché la volontà possa tendere verso qualcosa, non è necessario che quella cosa sia effettivamente buona, ma che venga considerata tale. Ecco perché il Filosofo afferma nella Fisica (II, 3) che “lo scopo finale è un bene, o un bene apparente”.
+
+Risposta all’Obiezione 1: Lo stesso potere riguarda gli opposti, ma non viene applicato a loro nello stesso modo. Pertanto, la volontà si riferisce sia al bene che al male: al bene desiderandolo, al male evitandolo. Per questo motivo, il desiderio effettivo del bene viene chiamato “volontà” (*in latino, ‘[voluntas](/concepts/will)’*); per evitare confusione con il termine “volontà”, San Tommaso aggiunge una spiegazione che, nella traduzione, potrebbe sembrare superflua. Con questo termine si intende l’atto stesso della volontà; è in questo senso che ora stiamo parlando di volontà. D’altra parte, l’evitamento del male può essere meglio descritto come “nolizione”: quindi, proprio come la volontà riguarda il bene, così la nolizione riguarda il male.
+
+Risposta all’Obiezione 2: Un potere razionale non deve essere indirizzato verso tutti gli scopi opposti, ma soltanto verso quelli che rientrano nell’ambito del suo oggetto proprio; infatti, nessun potere tende se non verso il proprio oggetto specifico. Ora, l’oggetto della volontà è il bene. Pertanto, la volontà può essere indirizzata verso scopi opposti che siano comunque riconducibili al bene, come ad esempio muoversi o rimanere in quiete, parlare o tacere, e simili; infatti, la volontà può essere orientata verso tali scopi sotto l’aspetto del bene stesso.
+
+Risposta all’Obiezione 3: Ciò che non è un essere nella natura viene considerato un essere nella ragione; per questo motivo le negazioni e le privazioni vengono definite “esseri della ragione”. In questo modo, anche le cose future, nella misura in cui vengono comprese o percepite, sono considerate esseri. Pertanto, poiché tali cose sono considerate esseri, vengono percepite sotto l’aspetto del bene; ed è proprio per questo che la volontà si dirige verso di esse. Per questo motivo il Filosofo afferma (Etica, V, 1) che “mancare del male viene considerato un bene”.
 
 <span class="atom-split" data-atom="018" data-title="Whether volition is of the end only, or also of the means?" data-chapter="Whether volition is of the end only, or also of the means?" data-kind="atom" data-srclang="en"></span>
 
@@ -849,6 +1087,24 @@ ship-building art considers the means as that which it effects; but it considers
 as that to which it refers what it effects. And again, in every practical art there is an end proper to
 it and means that belong properly to that art.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la volontà non sia un mezzo, ma soltanto uno scopo. Infatti, il Filosofo afferma (Etica, III, 2) che “la volontà è lo scopo, mentre la scelta è il mezzo”.
+
+Obiezione 2: Inoltre, “Per gli oggetti che differiscono per genere esistono poteri dell’anima corrispondenti e diversi” (Etica, VI, 1). Ora, il fine e i mezzi appartengono a generi diversi di bene: poiché il fine, che è un bene legato alla rettitudine o al piacere, appartiene ai generi “qualità”, “azione” o “passione”; mentre il bene che è utile e mira a un certo scopo appartiene al genere “relazione” (Etica, I, 6). Pertanto, se la volontà riguarda il fine, non può riguardare i mezzi.
+
+Obiezione 3: Inoltre, le abitudini sono proporzionali alle capacità umane, poiché rappresentano la loro perfezione. Tuttavia, nelle abitudini denominate “arti pratiche”, lo scopo appartiene a un’arte, mentre i mezzi necessari per raggiungerlo appartengono a un’altra arte; ad esempio, l’uso di una nave, che costituisce lo scopo stesso dell’operazione, rientra nell’ambito dell’arte del timoniere, mentre la costruzione della nave, che mira a realizzare tale scopo, appartiene all’arte del carpentiere navale. Pertanto, poiché la volontà riguarda lo scopo finale, essa non può essere considerata un mezzo per raggiungerlo.
+
+Al contrario, nelle cose naturali, è sempre con la stessa forza che una cosa attraversa lo spazio intermedio per raggiungere la sua destinazione finale. Ma i mezzi stessi rappresentano una sorta di spazio intermedio attraverso il quale si arriva alla meta. Pertanto, se la volontà è legata alla meta, allora lo è anche ai mezzi necessari per raggiungerla.
+
+Rispondo che la parola “[volontà](/concepts/will)” a volte designa il potere della volontà, altre volte il suo atto [*Vedi nota: sopra A[1], Risposta OBJ[1*. Pertanto, se parliamo della volontà come di un potere, esso si estende sia all’atto finale che ai mezzi per raggiungerlo. Infatti, ogni potere si estende a quelle cose in cui può essere considerato, in qualche modo, l’aspetto dell’oggetto di quel potere: ad esempio, la vista si estende a tutte le cose che sono in qualche modo colorate. Ora, l’aspetto del bene, che è l’oggetto del potere della volontà, può essere trovato non solo nell’atto finale, ma anche nei mezzi per raggiungerlo. Tuttavia, se parliamo della volontà in relazione al suo atto, allora, propriamente parlando, la volizione riguarda soltanto l’atto finale. Poiché ogni atto che deriva da un potere designa l’atto semplice di quel potere: ad esempio, “comprendere” designa l’atto semplice dell’intelligenza. Ora, l’atto semplice di un potere si riferisce a ciò che è in sé stesso l’oggetto di quel potere; ma ciò che è buono e desiderato in sé stesso è l’atto finale. Pertanto, la volizione, propriamente parlando, riguarda soltanto l’atto finale stesso. D’altra parte, i mezzi sono considerati buoni e desiderabili non in sé stessi, ma in relazione all’atto finale; per questo motivo la volontà è diretta verso di essi soltanto nella misura in cui è diretta verso l’atto finale: quindi ciò che essa vuole attraverso di essi è proprio l’atto finale stesso. Così, comprendere è propriamente direzionato verso cose che sono conosciute in sé stesse, cioè i principi primi; ma non parliamo di comprensione in relazione a cose conosciute attraverso i principi primi, se non nella misura in cui vediamo quei principi nelle cose stesse. Poiché, in morale, l’atto finale è ciò che i principi rappresentano nella scienza speculativa (Etica, viii, 8).
+
+Risposta all’Obiezione 1: Il filosofo parla della volontà nel senso dell’atto semplice della volontà, e non nel senso del potere della volontà.
+
+Risposta all’Obiezione 2: Esistono poteri diversi per oggetti che differiscono per genere e che si trovano in uno stato di uguaglianza; ad esempio, il suono e il colore appartengono a generi diversi di sensibili, ai quali fanno riferimento l’udito e la vista. Tuttavia, ciò che è utile e ciò che è giusto non si trovano in uno stato di uguaglianza, ma sono considerati rispettivamente come entità autonome o come relazioni tra cose diverse. Oggetti del genere vengono sempre riferiti allo stesso potere; ad esempio, il potere della vista percepisce sia il colore che la luce, e attraverso di essa il colore viene visto.
+
+Risposta all’Obiezione 3: Non tutto ciò che diversifica le abitudini diversifica anche le capacità umane; infatti, le abitudini sono determinazioni specifiche delle capacità relative ad azioni particolari. Inoltre, ogni arte pratica prende in considerazione sia lo scopo che i mezzi per raggiungerlo. L’arte del timoniere, ad esempio, considera lo scopo come ciò che effettivamente realizza e i mezzi come quelli che utilizza per raggiungerlo; l’arte della costruzione navale, invece, considera i mezzi come risultati delle proprie azioni, ma lo scopo come l’obiettivo verso cui mirano tali azioni. In ogni arte pratica, inoltre, esistono uno scopo specifico e dei mezzi propri di quell’arte.
+
 <span class="atom-split" data-atom="019" data-title="Whether the will is moved by the same act to the end and to the means?" data-chapter="Whether the will is moved by the same act to the end and to the means?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the will is moved by the same act, to the end and to the means.
@@ -900,6 +1156,24 @@ ad 2). For the useful and the righteous are not species of good in an equal degr
 which is for its own sake and that which is for the sake of something else: wherefore the act of the
 will can be directed to one and not to the other; but not conversely.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la volontà venga mosso dallo stesso atto, sia verso il fine che verso i mezzi per raggiungerlo. Infatti, secondo il Filosofo (Topichi, iii, 2), “quando una cosa esiste in relazione a un’altra, esiste soltanto una”. Ma la volontà non desidera i mezzi soltanto in vista del fine; pertanto, viene mosso sia dal fine che dai mezzi dallo stesso atto.
+
+Obiezione 2: Inoltre, la fine è il motivo per cui si desiderano i mezzi, proprio come la luce è il motivo per cui si vedono i colori. Ma sia la luce che i colori vengono percepiti attraverso lo stesso atto percettivo. Pertanto, è lo stesso movimento della volontà quello mediante il quale si desiderano sia la fine che i mezzi per raggiungerla.
+
+Obiezione 3: Inoltre, è lo stesso movimento naturale che tende, attraverso lo spazio intermedio, verso il fine. Ma i mezzi, rispetto al fine, sono come lo spazio intermedio rispetto al fine stesso. Pertanto, è lo stesso movimento della volontà che la dirige sia verso il fine che verso i mezzi.
+
+Al contrario, gli atti sono diversificati in base ai loro oggetti. Tuttavia, lo scopo finale rappresenta un tipo di bene diverso dai mezzi utilizzati, che costituiscono un bene di natura pratica. Pertanto, la volontà non viene influenzata nello stesso modo da entrambi questi elementi.
+
+Rispondo che, poiché la fine è voluta in sé stessa, mentre i mezzi, in quanto tali, sono voluti soltanto per la fine, è evidente che la volontà può essere spinta verso la fine senza essere spinta verso i mezzi; al contrario, non può essere spinta verso i mezzi in quanto tali se prima non viene spinta verso la fine. Pertanto, la volontà viene spinta verso la fine in due modi: innanzitutto, in modo assoluto e per sé stessa; in secondo luogo, come motivo che spinge a volere i mezzi necessari per raggiungere quella fine. È evidente quindi che la volontà viene spinta da un unico atto verso la fine, così come verso i mezzi stessi; tuttavia, esiste anche un altro atto attraverso il quale la volontà viene spinta verso la fine in modo assoluto. A volte questo secondo atto precede il primo nel tempo: ad esempio, quando una persona prima desidera ardentemente guarire e successivamente decide con quali mezzi raggiungere tale scopo, decidendo di chiamare un medico. Lo stesso accade per l’intelletto: all’inizio comprendiamo i principi in sé stessi; in seguito, li comprendiamo attraverso le conclusioni a cui giungiamo, poiché accordiamo il nostro assenso a queste conclusioni sulla base dei principi stessi.
+
+Risposta all’Obiezione 1: Questo argomento è valido nel caso in cui la volontà venga motivata dal fine come ragione per volere i mezzi necessari ad alcanzarlo.
+
+Risposta all’Obiezione 2: Ogni volta che si percepisce il colore, allo stesso tempo si percepisce anche la luce; tuttavia la luce può essere percepita senza che il colore venga visto. Allo stesso modo, ogni volta che un uomo desidera i mezzi necessari per raggiungere un fine, allo stesso tempo desidera anche quel fine; ma non viceversa.
+
+Risposta all’Obiezione 3: Nell’esecuzione di un’opera, i mezzi rappresentano lo “spazio intermedio”, mentre la meta costituisce il “termine finale”. Pertanto, proprio come il movimento naturale a volte si arresta a metà strada senza raggiungere la destinazione, allo stesso modo ci capita di dedicarsi ai mezzi senza ottenere l’obiettivo desiderato. Nel caso della volontà, invece, avviene il contrario: è la volontà stessa, nel voler raggiungere la meta, a determinare l’adozione dei mezzi necessari; proprio come l’intelletto giunge alle conclusioni attraverso i principi considerati “mezzi”. Per questo motivo, a volte l’intelletto comprende un mezzo senza arrivare alla conclusione finale; allo stesso modo, la volontà può voler una meta senza decidere quali mezzi utilizzare per raggiungerla. La soluzione a questo argomento, nel senso opposto, risulta chiara da quanto detto in precedenza (A[2], ad 2): il “utile” e il “giusto”, infatti, non rientrano nella stessa categoria di bene; il primo rappresenta qualcosa che ha valore per sé stesso, mentre il secondo è qualcosa che ha valore in relazione a un altro scopo. Pertanto, l’atto della volontà può essere diretto verso l’uno o verso l’altro, ma non viceversa.
+
 <span class="atom-split" data-atom="020" data-title="OF THAT WHICH MOVES THE WILL (SIX ARTICLES)" data-chapter="OF THAT WHICH MOVES THE WILL (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider what moves the will: and under this head there are six points of inquiry:
@@ -909,6 +1183,16 @@ We must now consider what moves the will: and under this head there are six poin
 (4) Whether it is moved by an extrinsic principle?
 (5) Whether it is moved by a heavenly body?
 (6) Whether the will is moved by God alone as by an extrinsic principle?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare ciò che muove la volontà; in questo ambito esistono sei punti di indagine:  
+(1) La volontà viene mossa dall’intelletto?  
+(2) Viene mossa dall’appetito sensibile?  
+(3) La volontà si muove da sé stessa?  
+(4) Viene mossa da un principio esterno?  
+(5) Viene mossa da un corpo celeste?  
+(6) La volontà viene mossa esclusivamente da Dio, come da un principio esterno?
 
 <span class="atom-split" data-atom="021" data-title="Whether the will is moved by the intellect?" data-chapter="Whether the will is moved by the intellect?" data-kind="atom" data-srclang="en"></span>
 
@@ -970,6 +1254,25 @@ good. But as to the determination of the act, which the act derives from the obj
 moves the will; since the good itself is apprehended under a special aspect as contained in the
 universal true. It is therefore evident that the same is not mover and moved in the same respect.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la volontà non venga influenzata dall’intelletto. Infatti, [Agostino](/figures/augustine) afferma nel Psalmo 118:20: “La mia anima anela ardentemente alle tue giustificazioni: l’intelletto procede con slancio, ma il desiderio segue lentamente o addirittura non segue affatto; sappiamo ciò che è buono, ma le azioni non ci procurano gioia”. Tuttavia, non sarebbe così se la volontà fosse influenzata dall’intelletto: infatti, il movimento di ciò che può essere mosso deriva necessariamente dal movimento del motore. Pertanto, l’intelletto non muove la volontà.
+
+Obiezione 2: Inoltre, l’intelletto, nel presentare all’volontà l’oggetto desiderabile, si trova in una relazione con essa, analogamente a come l’immaginazione presenta alla volontà sensibile ciò che è desiderabile. Tuttavia, l’immaginazione non elimina il desiderio sensibile: anzi, a volte la nostra immaginazione non ha alcun effetto su di noi, proprio come un dipinto che viene mostrato davanti ai nostri occhi e che non ci commuove affatto (De [Anima](/concepts/soul) ii, 3). Pertanto, nemmeno l’intelletto riesce a muovere la volontà.
+
+Obiezione 3: Inoltre, lo stesso soggetto non può essere allo stesso tempo motore e mosso riguardo alla stessa cosa. Ma la volontà muove l’intelletto; infatti esercitiamo l’intelletto quando vogliamo. Pertanto, l’intelletto non può muovere la volontà.
+
+Al contrario, il Filosofo afferma (De Anima iii, 10) che “l’oggetto desiderabile è un motore, non un essere mosso; invece, la volontà è un motore che viene a sua volta mosso”.
+
+Rispondo che una cosa ha bisogno di essere mossa da qualcosa nel momento in cui si trova nella [potenzialità](/concepts/act_potency) di realizzare diverse cose; infatti ciò che è potenziale necessita di essere portato all’atto da qualcosa di reale, e fare questo significa muovere. Ora, si osserva che una facoltà dell’anima è potenzialmente in grado di compiere diversi atti in due modi: innanzitutto, riguardo al fatto di agire o meno; in secondo luogo, riguardo a quale specifico atto compiere. Così, la vista a volte percepisce qualcosa concretamente, altre volte no; a volte vede il bianco, altre volte il nero. Pertanto, ha bisogno di un motore in due aspetti: da un lato, per quanto riguarda l’esercizio o l’uso dell’atto stesso; dall’altro, per quanto riguarda la determinazione specifica di quell’atto. Il primo di questi aspetti dipende dal soggetto, che a volte agisce e a volte no; il secondo dipende dall’oggetto, grazie al quale l’atto viene specificato.  
+Il movimento stesso del soggetto è dovuto a un certo agente. E poiché ogni agente agisce per uno scopo, come è stato dimostrato in precedenza (Q[1], A[2]), il principio di questo movimento risiede nello scopo stesso. Ed è proprio per questo che l’arte che si occupa dello scopo finale, con il suo comando, muove l’arte che si occupa dei mezzi necessari per raggiungerlo; proprio come “l’arte della navigazione comanda l’arte della costruzione delle navi” (Phys. ii, 2). Ora, il bene in generale, che ha la natura di uno scopo finale, è l’oggetto della volontà. Pertanto, in questo senso, la volontà muove le altre facoltà dell’anima verso i loro atti, poiché utilizziamo queste facoltà quando lo desideriamo. Infatti, lo scopo e la perfezione di ogni altra facoltà sono inclusi nell’oggetto della volontà come un bene particolare; e sempre l’arte o la facoltà a cui appartiene uno scopo universale, muove verso i loro atti le arti o le facoltà a cui appartengono gli scopi particolari contenuti in quello universale. Così, il comandante di un esercito, che intende il bene comune – cioè l’ordine dell’intero esercito – con il suo comando muove uno dei capitani, il quale a sua volta intende l’ordine della propria compagnia. D’altra parte, l’oggetto stesso del desiderio muove, determinando l’atto in modo simile a un principio formale, grazie al quale nelle cose naturali gli atti vengono specificati; ad esempio, il calore determina l’azione di riscaldare. Ora, il primo principio formale è l’universale “essere” e “verità”, che è l’oggetto dell’intelletto. E quindi, attraverso questo tipo di movimento, l’intelletto muove la volontà, presentandole il proprio oggetto.
+
+Risposta all’Obiezione 1: Il passaggio citato dimostra non che l’intelletto non agisca, ma che non agisce in modo necessario.
+
+Risposta all’Obiezione 2: Proprio come l’immaginazione di una forma, senza considerare la sua idoneità o il suo danno potenziale, non influisce sul desiderio sensibile; allo stesso modo, la comprensione della verità, senza considerarne i valori positivi o le sue attrattive, non suscita alcun impulso. Pertanto, non è l’intelletto speculativo a essere all’origine di tali reazioni, ma l’intelletto pratico (De Anima iii, 9).
+
+Risposta all’Obiezione 3: La volontà dirige l’intelletto nell’esercizio delle sue funzioni; poiché anche la verità stessa, che rappresenta la perfezione dell’intelletto, è inclusa nel bene universale come un bene particolare. Tuttavia, quanto alla determinazione concreta di quell’atto, che deriva dall’oggetto considerato, è l’intelletto a guidare la volontà; poiché il bene stesso viene compreso in un aspetto specifico, come contenuto nella verità universale. È quindi evidente che, nello stesso ambito, non si possa trattare di lo stesso soggetto che agisce e di quello che viene influenzato dall’azione altrui.
+
 <span class="atom-split" data-atom="022" data-title="Whether the will is moved by the sensitive appetite?" data-chapter="Whether the will is moved by the sensitive appetite?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the will cannot be moved by the sensitive appetite. For "to
@@ -1020,6 +1323,24 @@ will, moves, by its command, the irascible and concupiscible powers, not, indeed
 men are ruled by their governor, and can nevertheless act counter to his commands. Hence both
 irascible and concupiscible can move counter to the will: and accordingly nothing hinders the will
 from being moved by them at times.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la volontà non possa essere mossa dall’appetito sensibile. Infatti, “muoversi e agire è qualcosa di più nobile rispetto a rimanere passivi”, come afferma [Agostino](/figures/augustine) (Genesi ad litteram xii, 16). Tuttavia, l’appetito sensibile è meno nobile della volontà, che è un appetito intellettuale; proprio come il senso è meno nobile dell’intelletto. Pertanto, l’appetito sensibile non può muovere la volontà.
+
+Obiezione 2: Inoltre, nessuna forza particolare può produrre un effetto universale. Ma l’appetito sensibile è una forza particolare, poiché segue l’intuizione particolare dei sensi. Pertanto, non può causare il movimento della volontà, che è di natura universale, poiché tale movimento deriva dall’intuizione universale dell’intelletto.
+
+Obiezione 3: Inoltre, come dimostrato nella Physica viii, 5, il motore non viene mosso da ciò che muove, in modo tale da verificarsi un movimento reciproco. Ma la volontà muove l’appetito sensibile, poiché quest’ultimo obbedisce alla ragione. Pertanto, l’appetito sensibile non muove la volontà.
+
+Al contrario, è scritto (Giacomo 1:14): “Ogni uomo viene tentato dalla propria concupiscenza, ed è trascinato e sedotto da essa”. Ma l’uomo non verrebbe trascinato dalla sua concupiscenza, se la sua volontà non fosse influenzata dall’appetito sensibile, nel quale risiede tale concupiscenza. Pertanto, è l’appetito sensibile a muovere la volontà.
+
+Rispondo che, come già detto sopra (A[1]), ciò che viene percepito come buono e appropriato influisce sulla volontà attraverso l’oggetto stesso. Ora, il fatto che una cosa appaia buona e appropriata deriva da due cause: da una parte, dalle condizioni della stessa cosa proposta, dall’altra, da quelle di colui a cui viene proposta. Poiché il concetto di “appropriatezza” si basa su una relazione, esso dipende quindi da entrambi gli elementi coinvolti. È per questo che il gusto, a seconda delle diverse disposizioni dell’individuo, può considerare qualcosa appropriato o inappropriato. Come dice il Filosofo nell’Etica (III, 5): “Come è l’uomo, così gli sembra essere il fine desiderabile.” È evidente che, a seconda delle passioni che colpiscono l’appetito sensibile, l’uomo assume determinate disposizioni mentali; di conseguenza, ciò che in un momento appare appropriato può non esserlo in un altro. Ad esempio, qualcosa può sembrare buono quando una persona è arrabbiata, ma non quando è calma. Ed è in questo modo che l’appetito sensibile influisce sulla volontà, attraverso l’oggetto stesso su cui si concentra l’attenzione dell’individuo.
+
+Risposta all’Obiezione 1: Nulla impedisce che ciò che è semplicemente e intrinsecamente migliore sia meno eccellente in un certo ambito. Pertanto, la volontà è semplicemente più eccellente dell’appetito sensibile; tuttavia, per quanto riguarda l’uomo nel quale una passione prevale, nella misura in cui egli è soggetto a quella passione, l’appetito sensibile risulta più eccellente.
+
+Risposta all’Obiezione 2: Le azioni e le scelte umane riguardano individui specifici. Pertanto, proprio perché il desiderio sensibile è una facoltà particolare, esso esercita una grande influenza nel determinare come agli uomini certe cose appaiano in determinati contesti.
+
+Risposta all’Obiezione 3: Come afferma il Filosofo (Politica I, 2), la ragione, in cui risiede la volontà, muove, per suo comando, le facoltà irascibile e concupiscibile; non certo “con un potere dispotico”, come un schiavo è mosso dal proprio padrone, ma con un “potere regale e politico”, poiché gli uomini liberi sono governati dai loro capi, pur potendo agire contro i loro ordini. Pertanto, sia la facoltà irascibile che quella concupiscibile possono spingere la volontà ad agire in modo contrario a quanto essa desidera; e di conseguenza, nulla impedisce alla volontà di essere talvolta influenzata da queste forze.
 
 <span class="atom-split" data-atom="023" data-title="Whether the will moves itself?" data-chapter="Whether the will moves itself?" data-kind="atom" data-srclang="en"></span>
 
@@ -1110,6 +1431,24 @@ Reply to Objection 3: The will moves itself sufficiently in one respect, and in 
 that is to say as proximate agent; but it cannot move itself in every respect, as we have shown.
 Wherefore it needs to be moved by another as first mover.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la volontà non venga influenzata da nulla di esterno, poiché il suo movimento è volontario. Tuttavia, è essenziale per un atto volontario che esso derivi da un principio intrinseco, proprio come lo è per un atto naturale. Pertanto, il movimento della volontà non deriva da nulla di esterno.
+
+Obiezione 2: Inoltre, la volontà non può subire violenza, come è stato dimostrato sopra (Q[6], A[4]). Ma l’atto violento è un atto il cui principio risiede al di fuori dell’agente stesso [*[Aristotele](/figures/aristotle), Etica iii, 1]. Pertanto, la volontà non può essere influenzata da nulla di esterno a sé stessa.
+
+Obiezione 3: Inoltre, ciò che viene sufficientemente mosso da un motore non ha bisogno di essere mosso da un altro. Ma la volontà si muove da sola in modo sufficiente; pertanto non è mossa da nulla di esterno.
+
+Al contrario, la volontà viene mosso dall’oggetto, come già detto sopra (A[1]). Ma l’oggetto della volontà può essere qualcosa di esterno, che si presenta ai sensi. Pertanto, la volontà può essere influenzata da elementi esterni.
+
+Rispondo che, per quanto riguarda il fatto che la volontà venga mosso dall’oggetto, è evidente che possa essere mosso da qualcosa di esterno. Ma per quanto riguarda il momento in cui la volontà agisce, dobbiamo nuovamente ritenere che sia mossa da qualche principio esterno. Infatti, tutto ciò che in un certo momento è effettivamente un agente, e in un altro momento lo è solo potenzialmente, deve necessariamente essere mosso da qualcosa. Ora è evidente che la volontà inizia a volere qualcosa, mentre prima non lo voleva; pertanto, deve necessariamente essere mossa da qualche cosa affinché possa volerlo. E infatti, come detto sopra, la volontà si muove da sé stessa, nel momento in cui, volendo l’oggetto finale, si riduce all’atto di volere i mezzi per raggiungerlo. Ma questo non può avvenire senza il contributo della riflessione: quando una persona vuole guarire, inizia a riflettere su come ciò possa essere ottenuto, e attraverso questa riflessione arriva alla conclusione che può essere guarita da un medico; ed è proprio questo che vuole. Tuttavia, poiché non ha sempre voluto effettivamente la salute, deve necessariamente essere stata spinta da qualcosa a iniziare a volerla. E se la volontà si è mossa da sé stessa per volere ciò, allora deve necessariamente averlo fatto con l’aiuto di una riflessione precedente. Ma questo processo non può continuare all’infinito; pertanto, dobbiamo necessariamente ritenere che la volontà abbia iniziato il proprio movimento grazie all’influenza di qualche principio esterno, come conclude Aristotele in un capitolo dell’Etica Eudemica (vii, 14).
+
+Risposta all’Obiezione 1: È essenziale che il principio di un atto volontario risieda nell’agente stesso; tuttavia non è necessario che questo principio interno sia il primo principio, indipendente da qualsiasi altra influenza esterna. Pertanto, anche se l’atto volontario presenta un principio interno immediato, il suo vero principio deriva dall’esterno, ovvero da quella forza che muove l’agente stesso. Lo stesso vale per i movimenti naturali: il loro primo principio proviene anch’esso dall’esterno.
+
+Risposta all’Obiezione 2: Affinché un atto sia considerato violento, non è sufficiente che il suo principio sia esterno; è necessario anche che tale atto avvenga “senza la consenzia di colui che ne subisce le conseguenze”. Ciò non accade quando la volontà viene guidata da un principio esterno: infatti è sempre la volontà stessa a decidere, anche se spinta da altri fattori. Tuttavia, tale spinta sarebbe considerata violenta se fosse in contrasto con il libero movimento della volontà; il che nel presente caso è impossibile, poiché in tal caso la volontà vorrebbe e non vorrebbe allo stesso tempo la stessa cosa.
+
+Risposta all’Obiezione 3: La volontà si muove sufficientemente in un certo senso, e secondo il proprio ordine, cioè come agente immediato; ma non può muoversi in ogni senso, come abbiamo dimostrato. Pertanto ha bisogno di essere mossa da un altro ente come motore primo.
+
 <span class="atom-split" data-atom="025" data-title="Whether the will is moved by a heavenly body?" data-chapter="Whether the will is moved by a heavenly body?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the human will is moved by a heavenly body. For all various
@@ -1178,6 +1517,27 @@ Or, as Augustine says (Gen. ad lit. ii, 15): "We must confess that when the trut
 astrologers, this is due to some most hidden inspiration, to which the human mind is subject without
 knowing it. And since this is done in order to deceive man, it must be the work of the lying spirits."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la volontà umana venga determinata da un corpo celeste. Infatti, tutti i movimenti umani, per quanto vari e multiformi, possono essere ridotti, in termini di causa, a un movimento uniforme, ovvero quello dei cieli, come dimostrato nella Physica viii, 9. Ma i movimenti umani sono effettivamente vari e multiformi, poiché iniziano ad esistere, mentre prima non esistevano affatto. Pertanto, anche loro possono essere ricondotti, in termini di causa, al movimento dei cieli, che è per sua natura uniforme.
+
+Obiezione 2: Inoltre, secondo [Agostino](/figures/augustine) (De Trinitate iii, 4), “i corpi inferiori sono mossi da quelli superiori”. Tuttavia, i movimenti del corpo umano, che sono causati dalla volontà, non potrebbero essere ridotti ai movimenti dei cieli, in termini di causa, a meno che anche la volontà stessa non fosse mossa dai cieli. Pertanto, i cieli muovono la volontà umana.
+
+Obiezione 3: Inoltre, osservando i corpi celesti, gli astrologi predicono con precisione futuri atti umani, che sono causati dalla volontà. Ma ciò non sarebbe possibile se i corpi celesti non potessero influenzare la volontà umana. Pertanto, la volontà umana viene influenzata da un corpo celeste.
+
+Al contrario, Damasceno afferma (De Fide Orthodossa ii, 7) che “i corpi celesti non sono le cause dei nostri atti”. Ma lo sarebbero se la volontà, che è il principio degli atti umani, fosse influenzata dai corpi celesti. Pertanto, la volontà non viene influenzata dai corpi celesti.
+
+Rispondo che è evidente che la volontà possa essere influenzata dai corpi celesti nello stesso modo in cui può esserlo dal suo oggetto; cioè, nella misura in cui i corpi esterni che agiscono sulla volontà, presentandosi ai sensi, nonché gli stessi organi delle facoltà sensitive, sono soggetti ai movimenti dei corpi celesti.  
+Tuttavia alcuni hanno sostenuto che i corpi celesti esercitino un’influenza sulla volontà umana, nello stesso modo in cui alcuni agenti esterni influenzano l’esercizio di tale volontà. Ma ciò è impossibile.  
+Poiché la “volontà”, come affermato nel De Anima iii, 9, “si trova nella ragione”; e la ragione è una facoltà dell’anima, non legata ad alcun organo corporeo; ne consegue che la volontà sia una facoltà assolutamente incorporea e immateriale. È evidente infatti che nessun corpo può agire su ciò che è incorporeo, ma piuttosto il contrario: poiché le cose incorporee e immateriali possiedono una potenza più formale e universale di qualsiasi cosa corporea. Pertanto è impossibile che un corpo celeste agisca direttamente sull’intelletto o sulla volontà.  
+Per questo motivo Aristotele (De Anima iii, 3) attribuiva a coloro che ritenevano l’intelletto identico ai sensi la teoria secondo cui “la volontà umana è ciò che il padre degli uomini e dei dèi porta sulla terra” (*Odissea XVIII, 135* – si riferisce a Giove, inteso come tutto il cielo). Poiché tutte le facoltà sensitive, essendo atti di organi corporei, possono essere influenzate indirettamente dai corpi celesti; ma poiché l’appetito intellettuale è, in qualche modo, determinato dall’appetito sensibile, i movimenti dei corpi celesti hanno un effetto indiretto sulla volontà, nella misura in cui questa viene influenzata dalle passioni dell’appetito sensibile.
+
+Risposta all’Obiezione 1: I molteplici movimenti della volontà umana possono essere ricondotti a una causa unica e uniforme, ma tale causa si trova al di sopra dell’intelletto e della volontà stessa. Ciò vale non per qualsiasi corpo materiale, bensì per una sostanza immateriale e superiore. Pertanto, non è necessario ricondurre il movimento della volontà a quello dei cieli come alla sua causa effettiva.
+
+Risposta all’Obiezione 2: I movimenti del corpo umano, in termini di loro causa, si riducono al movimento di un corpo celeste; ciò vale soprattutto nel caso in cui la disposizione adatto a un determinato movimento sia in qualche misura dovuta all’influenza dei corpi celesti; inoltre, poiché il desiderio sensibile viene stimolato dall’azione dei corpi celesti; e infine, poiché i corpi esterni vengono mossi in accordo con i movimenti dei corpi celesti, alla presenza dei quali la volontà decide se volere o meno qualcosa; ad esempio, quando il corpo si raffredda, iniziamo a desiderare di accendere un fuoco. Ma questo movimento della volontà deriva dall’oggetto che viene presentato dall’esterno, e non da una spinta interiore.
+
+Risposta all’Obiezione 3: Come già detto sopra (cfr. FP, Q[84], AA[6],7), l’appetito sensibile è un atto di un organo corporeo. Pertanto non vi è alcun motivo per cui l’uomo non debba essere incline all’[ira](/concepts/anger) o alla concupiscenza, o ad altre passioni simili, a causa dell’influenza dei corpi celesti, proprio come lo sono le sue caratteristiche fisiche naturali. Tuttavia, la maggior parte degli uomini è guidata da queste passioni, alle quali solo i saggi riescono a resistere. Di conseguenza, nella stragrande maggioranza dei casi, le previsioni riguardanti gli atti umani, basate sull’osservazione dei corpi celesti, si avverano. Tuttavia, come afferma Tolomeo (Centiloquium v), “il saggio governa le stelle”; il che significa che, resistendo alle proprie passioni, egli oppone la propria volontà – libera e assolutamente indipendente dal movimento dei corpi celesti – a tali effetti. Oppure, come dice Agostino (Genesi ad litteram ii, 15): “Dobbiamo ammettere che quando gli astrologi predicono la verità, ciò avviene grazie a un’ispirazione estremamente nascosta, alla quale la mente umana è soggetta senza che se ne renda conto. E poiché ciò viene fatto al fine di ingannare l’uomo, deve trattarsi dell’opera degli spiriti mendaci”.
+
 <span class="atom-split" data-atom="026" data-title="Whether the will is moved by God alone, as exterior principle?" data-chapter="Whether the will is moved by God alone, as exterior principle?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the will is not moved by God alone as exterior principle. For
@@ -1228,6 +1588,24 @@ determines himself by his reason to will this or that, which is true or apparent
 sometimes God moves some specially to the willing of something determinate, which is good; as
 in the case of those whom He moves by grace, as we shall state later on (Q[109], A[2]).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la volontà umana non venga mosso soltanto da Dio come principio esterno. Infatti è naturale che ciò che è inferiore sia mosso da ciò che è superiore; così i corpi terreni sono mossi dai corpi celesti. Tuttavia esiste qualcosa che è superiore alla volontà umana e al tempo stesso inferiore a Dio, ovvero l’angelo. Pertanto anche un angelo può muovere la volontà umana come principio esterno.
+
+Obiezione 2: Inoltre, l’atto della volontà segue l’atto dell’intelligenza. Ma l’intelligenza umana viene messa in azione non solo da Dio, ma anche dall’angelo che la illumina, come afferma Dionigi (Coel. Hier. iv). Pertanto, per lo stesso motivo, anche la volontà è guidata da un angelo.
+
+Obiezione 3: Inoltre, Dio non è la causa di nulla se non di cose buone, secondo Genesi 1:31: “Dio vide tutte le cose che aveva creato, e erano molto belle”. Se quindi la volontà umana fosse influenzata soltanto da Dio, non sarebbe mai spinta verso il male; eppure è proprio con la volontà che “pecciamo e compioniamo il bene”, come afferma [Agostino](/figures/augustine) (Retractationes, I, 9).
+
+Al contrario, è scritto (Filippi 2:13): “È Dio che opera in noi, sia per volerlo sia per attuarlo”.
+
+Rispondo che il movimento della volontà proviene dall’interno, così come il movimento naturale. Sebbene sia possibile che qualcosa muova un essere naturale senza essere la causa di tale movimento, soltanto ciò che in qualche modo è la causa della natura di quell’essere può provocare in esso un movimento naturale. Ad esempio, un uomo può spingere una pietra verso l’alto; tuttavia quest’uomo non è la causa della natura della pietra, e quindi tale movimento non è naturale per la pietra stessa. Il movimento naturale di una pietra, invece, può essere causato soltanto da ciò che ne è la vera causa, cioè dalla sua natura stessa. Per questo motivo si afferma nel Phys. vii, 4 che “colui che genera fa muovere gli oggetti pesanti e leggeri”. L’uomo, dotato di volontà, può talvolta essere spinto da qualcosa che non è la causa delle sue decisioni; tuttavia è impossibile che il suo movimento volontario derivi da un principio esterno che non sia la causa della sua stessa volontà. La causa della volontà, quindi, non può essere altro che Dio. Ciò risulta evidente per due motivi: in primo luogo, perché la volontà è una facoltà dell’anima razionale, e l’anima razionale è stata creata da Dio stesso; in secondo luogo, perché la volontà è orientata verso il bene universale. Pertanto, l’unica causa della volontà può essere Dio stesso, che è il bene universale; ogni altro bene, infatti, è soltanto un bene particolare, e una causa particolare non può generare un’inclinazione universale. Di conseguenza, nemmeno la materia primordiale, che possiede la potenzialità di assumere tutte le forme, può essere creata da un agente particolare.
+
+Risposta all’Obiezione 1: Un angelo non è superiore all’uomo nel senso di essere la causa della sua volontà, così come i corpi celesti sono le cause delle forme naturali da cui derivano i movimenti naturali dei corpi stessi.
+
+Risposta all’Obiezione 2: L’intelletto umano viene mosso da un angelo, per quanto riguarda l’oggetto che, grazie al potere della luce angelica, viene presentato alla conoscenza dell’uomo. E in questo modo anche la volontà può essere influenzata da una creatura esterna, come già detto sopra (A[4]).
+
+Risposta all’Obiezione 3: Dio dirige la volontà dell’uomo, in qualità di Motore Universale, verso l’oggetto universale della volontà, che è il bene. Senza questa direzione divina, l’uomo non potrebbe volere nulla. Tuttavia, l’uomo stesso, con il proprio ragionamento, decide di volere questo o quell’altro, che ritenue buono o apparentemente buono. Nonostante ciò, a volte Dio induce alcuni individui in particolare a volere qualcosa di specifico e positivo; è il caso di coloro che vengono guidati dalla Sua grazia, come spiegheremo più avanti (Q[109], A[2]).
+
 <span class="atom-split" data-atom="027" data-title="OF THE MANNER IN WHICH THE WILL IS MOVED (FOUR ARTICLES)" data-chapter="OF THE MANNER IN WHICH THE WILL IS MOVED (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the manner in which the will is moved. Under this head there are four
@@ -1236,6 +1614,14 @@ points of inquiry:
 (2) Whether it is moved of necessity by its object?
 (3) Whether it is moved of necessity by the lower appetite?
 (4) Whether it is moved of necessity by the exterior mover which is God?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il modo in cui la volontà viene influenzata. In questo ambito esistono quattro punti di indagine:  
+(1) Se la volontà venga naturalmente spinta verso qualcosa;  
+(2) Se venga necessariamente spinta dal suo oggetto;  
+(3) Se venga necessariamente spinta dagli appetiti inferiori;  
+(4) Se venga necessariamente spinta da una forza esterna, ovvero da Dio.
 
 <span class="atom-split" data-atom="028" data-title="Whether the will is moved to anything naturally?" data-chapter="Whether the will is moved to anything naturally?" data-kind="atom" data-srclang="en"></span>
 
@@ -1301,6 +1687,24 @@ intellect there corresponds some one general thing, which is the true, or being,
 And under good in general are included many particular goods, to none of which is the will
 determined.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la volontà non venga mosso da nulla in modo naturale. Poiché l’agente naturale condivide le stesse caratteristiche dell’agente volontario, come affermato all’inizio del libro II, capitolo 1 della “Fisica”, ne consegue che la volontà non venga mosso da nulla in modo naturale.
+
+Obiezione 2: Inoltre, ciò che è naturale appartiene sempre a una cosa; ad esempio, “essere caldo” appartiene al fuoco. Ma nessun movimento appartiene sempre alla volontà. Pertanto, nessun movimento è naturale per la volontà.
+
+Obiezione 3: Inoltre, la natura è determinata verso una sola cosa; mentre la volontà si riferisce a opposti. Pertanto, la volontà non desidera nulla in modo naturale.
+
+Al contrario, il movimento della volontà segue il movimento dell’intelletto. Tuttavia, l’intelletto comprende alcune cose in modo naturale; pertanto anche la volontà desidera alcune cose in modo naturale.
+
+Rispondo che, come afferma Boezio nel “De Duabus Nat.” e anche il Filosofo nel “Metafisica”, il termine “natura” viene utilizzato in molti sensi diversi. A volte indica il principio intrinseco delle cose mobili; in questo senso, la natura può essere considerata materia o forma materiale, come si afferma nella “Fisica” II, 1. In un altro senso, la natura designa qualsiasi sostanza, o addirittura qualsiasi ente; in questo caso, si dice che qualcosa sia “naturale” per una cosa quando tale cosa le è appropriata in base alla sua essenza stessa. Ora, tutte quelle cose che non appartengono di per sé alla cosa in cui si trovano possono essere ricondotte a qualcosa che invece appartiene di per sé a quella cosa, cioè al loro principio. Pertanto, se si intende la natura in questo senso, è necessario che il principio di tutto ciò che appartiene a una cosa sia un principio “naturale”. Questo è evidente nel caso dell’intelletto: i principi della conoscenza intellettiva sono infatti conosciuti naturalmente. Allo stesso modo, il principio dei movimenti volontari deve essere qualcosa che viene desiderato in modo naturale; tale principio rappresenta l’ultimo scopo verso cui tende la volontà, così come ogni potere tende al proprio oggetto. In generale, si può dire che siano “naturali” per una persona tutte quelle cose che le appartengono secondo la sua essenza: non solo ciò che riguarda direttamente la volontà, ma anche ciò che è appropriato alle altre facoltà umane, come la conoscenza della verità o il desiderio di esistere e vivere in modo felice. Tutto ciò rientra nell’oggetto della volontà, considerato come una serie di beni specifici.
+
+Risposta all’Obiezione 1: La volontà si distingue dalla natura come un tipo di causa da un altro; alcune cose avvengono naturalmente, altre vengono compiute volontariamente. Esiste tuttavia un altro modo di causare che è proprio della volontà, che ne è padrona, oltre al modo proprio della natura, che è determinato a una sola cosa. Ma poiché la volontà si fonda su una certa natura, è necessario che il movimento proprio della natura sia condiviso anche dalla volontà, in qualche misura: proprio come ciò che appartiene a una causa precedente viene condiviso da una causa successiva. Poiché in ogni cosa, l’essere stesso, che deriva dalla natura, precede la volizione, che deriva dalla volontà. Ed è per questo che la volontà vuole qualcosa in modo “naturale”.
+
+Risposta all’Obiezione 2: Nel caso delle cose naturali, ciò che è naturale, in quanto derivante esclusivamente dalla forma, è sempre effettivamente presente in esse, così come il calore è presente nel fuoco. Tuttavia, ciò che è naturale in quanto derivante dalla materia non è sempre effettivamente presente in esse, ma solo a volte in forma potenziale: poiché la forma rappresenta l’atto, mentre la materia è la potenzialità. Ora, il movimento è “l’atto di ciò che è in potenzialità” (Aristotele, Fisica, iii, 1). Pertanto, ciò che appartiene al movimento, o ne deriva, nelle cose naturali, non è sempre presente in esse. Ad esempio, il fuoco non si muove sempre verso l’alto, ma solo quando si trova al di fuori del proprio luogo naturale (che è il cielo celeste). Allo stesso modo, non è necessario che la volontà – che passa dalla potenzialità all’atto quando desidera qualcosa – sia sempre in atto di volizione; basta che si trovi in una determinata disposizione mentale. Tuttavia, la volontà di Dio, essendo un “atto puro”, è sempre in atto di volizione.
+
+Risposta all’Obiezione 3: A ogni natura corrisponde qualcosa che le è conforme e proporzionato. Poiché la natura considerata come genere ha una corrispondenza di tipo generico; la natura considerata come specie ha una corrispondenza di tipo specifico; e la natura individualizzata ha una corrispondenza individuale. Pertanto, poiché la volontà è un potere immateriale, proprio come l’intelletto, a essa deve corrispondere qualcosa di generale; naturalmente, ciò che corrisponde alla volontà è il bene. Proprio come all’intelletto corrisponde qualcosa di generale, ovvero la verità, l’essere o “ciò che una cosa è”. E sotto il concetto di bene in generale si includono molti beni particolari; ma nessuno di questi determina la volontà.
+
 <span class="atom-split" data-atom="029" data-title="Whether the will is moved, of necessity, by its object?" data-chapter="Whether the will is moved, of necessity, by its object?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the will is moved, of necessity, by its object. For the object of the
@@ -1357,6 +1761,24 @@ In like manner whatever is ordained to that end, and without which the end canno
 as "to be" and "to live," and the like. But other things without which the end can be gained, are not
 necessarily willed by one who wills the end: just as he who assents to the principle, does not
 necessarily assent to the conclusions, without which the principles can still be true.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la volontà venga necessariamente determinata dal suo oggetto. Infatti, l’oggetto della volontà viene paragonato alla volontà stessa come a un motore rispetto a ciò che viene mosso, come affermato nel De [Anima](/concepts/soul) iii, 10. Ma un motore, se sufficiente, muove necessariamente ciò che viene mosso. Pertanto, la volontà può essere necessariamente determinata dal suo oggetto.
+
+Obiezione 2: Inoltre, proprio come la volontà è una forza immateriale, lo stesso vale per l’intelletto; entrambe queste forze sono destinate a un oggetto universale, come già detto sopra (A[1], ad 3). Tuttavia, l’intelletto viene necessariamente mosso dal proprio oggetto; pertanto anche la volontà viene necessariamente mossa dal proprio oggetto.
+
+Obiezione 3: Inoltre, qualsiasi cosa si voglia, è o un fine, oppure qualcosa che è destinato a servire come mezzo per raggiungere un fine. Tuttavia, sembra che si voglia necessariamente un fine, poiché esso rappresenta il principio su cui ci si accorda inevitabilmente in ambiti speculativi. Il fine, infatti, costituisce la ragione per cui si desiderano i mezzi necessari ad alcanzarlo; quindi sembra che anche i mezzi vengano voluti necessariamente. Pertanto, la volontà viene determinata, in modo inevitabile, dal suo oggetto.
+
+Al contrario, le facoltà razionali, secondo il Filosofo (Metafisica IX, 2), sono dirette verso gli opposti. Ma la volontà è anch’essa una facoltà razionale, poiché risiede nella ragione, come affermato nel De Anima III, 9. Pertanto, anche la volontà è diretta verso gli opposti; quindi non viene necessariamente spinta verso nessuno di essi.
+
+Rispondo che la volontà viene mosso in due modi: innanzitutto, riguardo all’esercizio del proprio atto; in secondo luogo, riguardo alla specificazione di tale atto, derivante dall’oggetto su cui esso si concentra. Per quanto riguarda il primo modo, nessun oggetto muove necessariamente la volontà, poiché, indipendentemente dal suo carattere, è sempre possibile per l’uomo non pensarvi e quindi non volerlo effettivamente. Ma per quanto riguarda il secondo modo di azione, la volontà viene necessariamente mosso da alcuni oggetti e no da altri. Nel caso in cui una facoltà venga stimolata dal proprio oggetto, dobbiamo considerare sotto quale aspetto tale oggetto eserciti effettivamente questa facoltà; ad esempio, il colore visibile stimola la vista nel senso del suo aspetto effettivamente percepibile. Pertanto, se il colore viene presentato alla vista, essa ne sarà necessariamente influenzata, a meno che non si distolga lo sguardo; questo rappresenta un esempio di esercizio concreto della volontà. Tuttavia, se la vista venisse confrontata con qualcosa che non è effettivamente colorato in tutti gli aspetti, ma solo in alcuni, e non in altri, essa non lo percepirebbe necessariamente; potrebbe infatti ignorare quella parte dell’oggetto che non presenta caratteristiche visive. Proprio come il colore è l’oggetto della vista, così il bene è l’oggetto della volontà. Pertanto, se alla volontà viene offerto un oggetto che è universalmente e in ogni senso buono, essa tenderà necessariamente verso di esso, a meno che non intenda volere il contrario; poiché non può voler ciò che è contrario al bene. D’altra parte, se l’oggetto offerto alla volontà non è buono sotto tutti gli aspetti, essa non ne sarà necessariamente attratta. E poiché la mancanza di qualsiasi bene rappresenta una sorta di “non-bene”, solo il bene perfetto e completo può essere considerato un oggetto verso cui la volontà non possa non tendere; tale bene è appunto la Felicità. Al contrario, qualsiasi altro bene particolare, in quanto manca di qualche aspetto positivo, può essere considerato un “non-bene”; da questo punto di vista, può essere accettato o rifiutato dalla volontà, che è in grado di orientarsi verso lo stesso oggetto da prospettive diverse.
+
+Risposta all’Obiezione 1: L’unica causa sufficiente di un potere è quell’oggetto che, sotto ogni aspetto, presenta le caratteristiche della causa di quel potere stesso. Se, d’altra parte, tale oggetto manca di alcuna di queste caratteristiche, allora non agirà necessariamente come causa del suddetto potere, come già detto in precedenza.
+
+Risposta all’Obiezione 2: L’intelletto viene necessariamente mosso da un oggetto che è sempre e necessariamente vero; non invece da ciò che può essere vero o falso, cioè da ciò che è contingente, come abbiamo detto a proposito del bene.
+
+Risposta all’Obiezione 3: L’ultimo fine muove necessariamente la volontà, poiché rappresenta il bene perfetto. Allo stesso modo, tutto ciò che è destinato a realizzare tale fine e senza di cui tale fine non potrebbe essere raggiunto – come “essere” e “vivere”, ad esempio – viene necessariamente desiderato da chi vuole quel fine. Tuttavia, altre cose, senza le quali il fine possa comunque essere ottenuto, non sono necessariamente volute da colui che desidera quel fine: proprio come chi accetta i principi fondamentali non accetta necessariamente le conclusioni derivanti da essi, anche se queste conclusioni potrebbero comunque essere vere.
 
 <span class="atom-split" data-atom="030" data-title="Whether the will is moved, of necessity, by the lower appetite?" data-chapter="Whether the will is moved, of necessity, by the lower appetite?" data-kind="atom" data-srclang="en"></span>
 
@@ -1416,6 +1838,25 @@ reason, but also by good apprehended by sense. Wherefore he can be moved to some
 good independently of a passion of the sensitive appetite. For we will and do many things without
 passion, and through choice alone; as is most evident in those cases wherein reason resists passion.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la volontà venga necessariamente spinta da una passione dell’appetito inferiore.  
+Infatti l’Apostolo dice (Romani 7:19): “Il bene che voglio, non lo faccio; mentre il male che non voglio, invece, lo compio”; e ciò si riferisce alla concupiscenza, che è una passione. Pertanto, la volontà viene necessariamente spinta da una passione.
+
+Obiezione 2: Inoltre, come affermato nell’Etica iii, 5, “secondo ciò che un uomo è, anche il fine gli sembra essere tale”. Ma non è nelle possibilità dell’uomo gettare via una passione una volta che essa è sorta. Pertanto, non è nemmeno nelle sue possibilità non volere ciò verso cui lo spinge quella passione.
+
+Obiezione 3: Inoltre, una causa universale non viene applicata a un effetto particolare se non attraverso un’altra causa particolare; pertanto, la ragione universale non agisce se non tramite un giudizio particolare, come affermato nel De [Anima](/concepts/soul) iii, 11. Ma così come la ragione universale è relativa a tale giudizio particolare, allo stesso modo la volontà è relativa all’appetito sensibile. Quindi, la volontà non può essere spinta a volere qualcosa di particolare se non attraverso l’appetito sensibile. Di conseguenza, se l’appetito sensibile si trova incline verso qualcosa a causa di una passione, la volontà non può essere indotta a agire in senso contrario.
+
+Al contrario, è scritto (Genesi 4:7): “La tua concupiscenza sarà sottomessa a te, e tu ne avrai il dominio”. Pertanto, la volontà umana non viene determinata necessariamente dagli appetiti inferiori.
+
+Rispondo che, come già detto sopra (Q[9], A[2]), la passione dell’appetito sensibile muove la volontà, nella misura in cui questa viene influenzata dal proprio oggetto: cioè quando l’uomo, essendo determinato da una certa passione, giudica qualcosa come appropriato e buono, ciò che altrimenti non considererebbe tale. Questo influsso della passione sull’uomo si manifesta in due modi: in primo luogo, quando la ragione viene completamente sopraffatta dalla passione, impedendone l’uso; questo accade negli individui colpiti da violente emozioni di rabbia o desiderio, che possono diventare furiosi o pazzi, proprio come può avvenire a causa di altre malattie fisiche; infatti, tali passioni non si manifestano senza alterazioni nel corpo. Lo stesso vale per gli animali irrazionali, che seguono inevitabilmente l’impulso delle proprie passioni, poiché in loro non esiste né attività razionale né volontà. Tuttavia, a volte la ragione non viene completamente dominata dalla passione, e il giudizio razionale mantiene una certa libertà; in tal caso, anche l’azione della volontà conserva un certo grado di autonomia. Pertanto, nella misura in cui la ragione rimane libera e non soggetta alla passione, l’azione della volontà non è necessariamente orientata verso ciò a cui spinge la passione stessa. Di conseguenza, o non c’è alcuna azione della volontà da parte di quell’individuo, e solo la passione ha il sopravvento; oppure, se c’è un’azione della volontà, questa non segue necessariamente le indicazioni della passione.
+
+Risposta all’Obiezione 1: Sebbene la volontà non possa impedire l’insorgere del movimento della concupiscenza – di cui l’Apostolo dice: “Quello che non voglio, lo faccio; cioè, lo desidero” – tuttavia è in potere della volontà non voler desiderare o non acconsentire al movimento della concupiscenza. Pertanto, non segue necessariamente tale movimento.
+
+Risposta all’Obiezione 2: Poiché nell’uomo esiste una duplice natura, intellettuale e sensibile, a volte l’uomo è uniformemente tale in tutto il suo essere: o perché la parte sensibile è completamente soggetta alla ragione, come nei virtuosi; oppure perché la ragione è interamente assorbita dalle passioni, come nel pazzo. Tuttavia, a volte, anche se la ragione è offuscata dalle passioni, rimane ancora una sua parte libera. In questo caso, l’uomo può either respingere completamente le passioni o almeno controllarsi per non essere trascinato da esse. Poiché, essendo composto da parti diverse della sua anima, ciò che gli appare attraverso la ragione può essere diverso da ciò che gli appare attraverso le passioni.
+
+Risposta all’Obiezione 3: La volontà viene mosso non solo dal bene universale inteso dalla ragione, ma anche dal bene percepito dai sensi. Pertanto, si può essere spinti verso un certo bene particolare indipendentemente da qualsiasi passione dell’appetito sensitivo. Infatti, compiamo molte azioni senza alcuna passione, soltanto attraverso la scelta; ciò è particolarmente evidente nei casi in cui la ragione resiste alle passioni.
+
 <span class="atom-split" data-atom="031" data-title="Whether the will is moved of necessity by the exterior mover which is God?" data-chapter="Whether the will is moved of necessity by the exterior mover which is God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the will is moved of necessity by God. For every agent that
@@ -1458,6 +1899,24 @@ Reply to Objection 3: If God moves the will to anything, it is incompatible with
 that the will be not moved thereto. But it is not impossible simply. Consequently it does not follow
 that the will is moved by God necessarily.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la volontà umana venga necessariamente influenzata da Dio. Infatti, ogni agente contro cui non sia possibile opporsi viene necessariamente determinato ad agire in un certo modo. Ma Dio non può essere contrastato, poiché il Suo potere è infinito; perciò si legge (Romani 9:19): “Chi può resistere alla Sua volontà?” Pertanto, è Dio stesso a determinare necessariamente la volontà umana.
+
+Obiezione 2: Inoltre, la volontà è necessariamente spinta verso ciò che desidera naturalmente, come detto sopra (A[2], ad 3). Ma “quanto Dio fa in una cosa, è naturale per quella cosa”, afferma [Agostino](/figures/augustine) (Contra Faustus, xxvi, 3). Pertanto, la volontà desidererà necessariamente tutto ciò che Dio la spinge a desiderare.
+
+Obiezione 3: Inoltre, una cosa è possibile se dal suo essere ipotizzato non ne consegue nulla di impossibile. Ma dall’ipotesi che la volontà non desideri ciò verso cui Dio la spinge deriva qualcosa di impossibile; infatti, in tal caso l’azione di Dio sarebbe inefficace. Pertanto, non è possibile che la volontà non desideri ciò verso cui Dio la spinge; quindi, lo desidera necessariamente.
+
+Al contrario, è scritto (Ecclesiaste 15:14): “Dio creò l’uomo fin dall’inizio e lo lasciò nelle mani della sua stessa volontà”. Pertanto, non è necessario che Egli influisca sulla volontà umana.
+
+Rispondo che, come afferma Dionigi (Div. Nom. iv), “spetta alla provvidenza divina non distruggere, ma conservare la natura delle cose”. Pertanto, Dio muove tutte le cose in conformità alle loro condizioni: da cause necessarie derivano effetti necessari; da cause contingenti, invece, effetti contingenti. Poiché la volontà è un principio attivo, non determinato verso una cosa specifica, ma in relazione indifferente a molte cose, Dio la muove in modo che il suo agire rimanga contingente e non necessario, tranne nei casi in cui essa sia naturalmente spinta verso una determinata azione.
+
+Risposta all’Obiezione 1: La volontà divina si estende non solo al fatto che una cosa venga compiuta da ciò che essa muove, ma anche al modo in cui tale cosa viene compiuta, in modo conforme alla sua natura. Pertanto, sarebbe ancora più contraddittorio con la natura della volontà divina che questa venisse mossa necessariamente, il che non è conforme alla sua essenza, piuttosto che essere mossa liberamente, il che invece ne rispecchia appieno la natura.
+
+Risposta all’Obiezione 2: Qualcosa è naturale per una certa cosa quando Dio agisce su di essa in modo che ciò diventi effettivamente naturale per quella cosa; infatti, in questo modo qualcosa diventa “adatto” a quella cosa, secondo quanto Dio desidera che sia. Ora, Dio non desidera che tutto ciò che egli opera nelle cose sia naturale per esse; ad esempio, non desidera che i morti risorgano. Tuttavia, Egli vuole che ogni cosa sia sottomessa al Potere Divino: questo, dunque, è ciò che Egli desidera che sia “naturale” per ogni cosa.
+
+Risposta all’Obiezione 3: Se Dio muove la volontà verso qualcosa, ciò è incompatibile con l’ipotesi che la volontà non venga influenzata da tale stimolo. Tuttavia, questa possibilità non è assolutamente impossibile. Pertanto, non si può concludere necessariamente che la volontà venga effettivamente influenzata da Dio.
+
 <span class="atom-split" data-atom="032" data-title="OF ENJOYMENT [*Or, Fruition], WHICH IS AN ACT OF THE WILL (FOUR ARTICLES)" data-chapter="OF ENJOYMENT [*Or, Fruition], WHICH IS AN ACT OF THE WILL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider enjoyment: concerning which there are four points of inquiry:
@@ -1465,6 +1924,14 @@ We must now consider enjoyment: concerning which there are four points of inquir
 (2) Whether it belongs to the rational creature alone, or also to irrational animals?
 (3) Whether enjoyment is only of the last end?
 (4) Whether it is only of the end possessed?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il piacere: in merito al quale vi sono quattro punti da esaminare:
+(1) Se il godere sia un atto della potenza appetitiva;
+(2) Se appartenga soltanto alla creatura razionale, o anche agli animali irrazionali;
+(3) Se il piacere riguardi soltanto lo scopo finale;
+(4) Se riguardi soltanto lo scopo effettivamente raggiunto.
 
 <span class="atom-split" data-atom="033" data-title="Whether to enjoy is an act of the appetitive power?" data-chapter="Whether to enjoy is an act of the appetitive power?" data-kind="atom" data-srclang="en"></span>
 
@@ -1614,6 +2081,24 @@ this last end. And so, just as God is not one end, and the enjoyment of God, ano
 same enjoyment whereby we enjoy God, and whereby we enjoy our enjoyment of God. And the
 same applies to created happiness which consists in enjoyment.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il piacere non sia l’unico scopo finale della vita. Infatti, l’Apostolo dice in Filippesi 20: “Sì, fratello, possa godermi la tua presenza nel Signore”. È evidente però che Paolo non considerasse l’uomo lo scopo ultimo della sua esistenza. Pertanto, il piacere non rappresenta l’unico fine della vita umana.
+
+Obiezione 2: Inoltre, ciò che godiamo è il “frutto”. Ma l’Apostolo dice (Galati 5:22): “Il frutto dello Spirito è la carità, la gioia, la pace”, e altre cose simili, le quali non rientrano nella natura dell’ultimo fine. Pertanto, il godimento non riguarda soltanto l’ultimo fine.
+
+Obiezione 3: Inoltre, gli atti della volontà si riflettono a vicenda; infatti, voglio volere e amo amare. Ma godere è anch’esso un atto della volontà: poiché “è la volontà con cui godiamo”, come afferma [Agostino](/figures/augustine) (De Trin. x, 10). Pertanto, l’uomo gode del piacere che prova. Tuttavia, lo scopo finale dell’uomo non è il piacere, ma soltanto il bene immortale, cioè Dio. Quindi, il piacere non rappresenta certo lo scopo ultimo dell’esistenza umana.
+
+Al contrario, Agostino afferma (De Trinitate, x, 11): “L’uomo non gode di ciò che desidera per il bene di qualcos’altro.” Ma soltanto lo scopo finale è ciò che l’uomo non desidera per il bene di qualcos’altro; pertanto, il godimento riguarda esclusivamente lo scopo finale.
+
+Rispondo che, come già detto sopra (A[1]), il concetto di “frutto” implica due elementi: primo, che esso debba venire per ultimo; secondo, che debba placare l’appetito grazie a una certa dolcezza e piacere. Ora, qualcosa può essere considerato “ultimo” in modo assoluto o relativo: assolutamente, se non si riferisce ad altro; relativamente, se è l’ultimo di una determinata sequenza. Pertanto, ciò che è veramente “ultimo” e del quale ci si compiace come dell’ultima meta, può essere propriamente definito “frutto”; ed è proprio questo che si dice di godere veramente. Ma ciò che è piacevole non in sé stesso, ma soltanto perché desiderato in relazione a qualcos’altro – ad esempio, una pozione amara utilizzata per motivi di salute – non può mai essere definito “frutto”. Inoltre, ciò che presenta elementi piacevoli e al quale fanno riferimento molte cose precedenti può certamente essere chiamato “frutto” in un certo senso; ma non si può dire che lo si goda veramente o che risponda perfettamente al concetto di “frutto”. Ecco perché Agostino afferma (De Trinitate, x, 10) che “godiamo di ciò che conosciamo quando la volontà compiaciuta riposa in esso”. Ma questa “riposazione” non è assoluta se non si raggiunge l’ultima meta; finché qualcosa viene cercato, il movimento della volontà rimane in sospeso, anche se si è già ottenuto qualcosa. Così, nel movimento spaziale, anche se ogni punto tra due estremità rappresenta un inizio e una fine, non viene considerato effettivamente la fine finché il movimento non si arresta lì.
+
+Risposta all’Obiezione 1: Come afferma Agostino (De Doctrina Christiana, I, 33), “se avesse detto ‘Posso godere di te’, senza aggiungere ‘nel Signore’, sembrerebbe che il fine del suo amore fosse in te stesso. Ma poiché ha aggiunto che il fine del suo amore è nel Signore, ha implicitamente espresso il desiderio di goderLo”: come se dicessimo che esprimeva il proprio godimento per il fratello non come un fine, ma come un mezzo.
+
+Risposta all’Obiezione 2: Il frutto ha una relazione con l’albero che lo ha prodotto, e un’altra con l’uomo che ne gode. Rispetto all’albero che lo ha generato, il frutto è considerato effetto della causa; rispetto all’uomo che lo consuma, esso rappresenta l’oggetto finale del suo desiderio e la realizzazione della sua gioia. Pertanto, i frutti menzionati dall’Apostolo vengono chiamati così perché sono effetti concreti dello Spirito Santo in noi; per questo motivo vengono definiti “frutti dello spirito”. Tuttavia, ciò non significa che li debbiamo considerare come il nostro scopo finale. O, come afferma Ambrogio, possono essere chiamati frutti perché “dovremmo desiderarli per loro stessi”; non certo perché non siano destinati al fine ultimo, ma perché rappresentano qualcosa che dovrebbe procurarci piacere.
+
+Risposta all’Obiezione 3: Come già detto sopra (Q[1], A[8]; Q[2], A[7]), parliamo di un “fine” in due sensi diversi: da un lato, come della cosa stessa; dall’altro, come del suo raggiungimento. Questi non sono, ovviamente, due fini distinti, ma uno solo considerato sia in sé stesso che nella sua relazione con qualcos’altro. Pertanto, Dio è il fine ultimo, ciò che viene infine cercato; mentre il godimento rappresenta il raggiungimento di questo fine ultimo. E così, proprio come Dio non è un fine e il godimento di Dio non ne è un altro, allo stesso modo è lo stesso godimento attraverso cui godiamo di Dio e attraverso cui godiamo del nostro stesso godimento di Dio. Lo stesso vale per la felicità creata, che consiste appunto nel godimento.
+
 <span class="atom-split" data-atom="036" data-title="Whether enjoyment is only of the end possessed?" data-chapter="Whether enjoyment is only of the end possessed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that enjoyment is only of the end possessed. For [Augustine](/figures/augustine) says
@@ -1660,6 +2145,15 @@ We must now consider Intention: concerning which there are five points of inquir
 (3) Whether one can intend two things at the same time?
 (4) Whether intention of the end is the same act as volition of the means?
 (5) Whether intention is within the competency of irrational animals?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’Intenzione: su di essa vi sono cinque punti da indagare:  
+(1) Se l’intenzione sia un atto dell’intelletto o della volontà;  
+(2) Se riguardi soltanto lo scopo finale;  
+(3) Se si possa intendere due cose contemporaneamente;  
+(4) Se l’intenzione dello scopo sia lo stesso atto della scelta dei mezzi per raggiungerlo;  
+(5) Se l’intenzione rientri nelle capacità degli animali irrazionali.
 
 <span class="atom-split" data-atom="038" data-title="Whether intention is an act of the intellect or of the will?" data-chapter="Whether intention is an act of the intellect or of the will?" data-kind="atom" data-srclang="en"></span>
 
@@ -1745,6 +2239,24 @@ sometimes in respect of a part.
 Reply to Objection 3: Enjoyment implies rest in the end; and this belongs to the last end alone.
 But intention implies movement towards an end, not rest. Wherefore the comparison proves nothing.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’intenzione riguardi soltanto lo scopo finale. Infatti, nel libro delle “Sentenze di Prospero” (Sentenza 100) si afferma: “L’intenzione del cuore è un appello a Dio”. Ma Dio rappresenta lo scopo finale del cuore umano; pertanto, l’intenzione riguarda sempre questo scopo finale.
+
+Obiezione 2: Inoltre, l’intenzione considera la fine come il termine ultimo, come già detto sopra (A[1], ad 4). Ma un termine finale è qualcosa che viene dopo tutti gli altri; pertanto, l’intenzione riguarda sempre quella fine ultima.
+
+Obiezione 3: Inoltre, proprio come l’intenzione riguarda la fine, lo stesso vale per il piacere. Ma il piacere riguarda sempre la fine ultima; pertanto anche l’intenzione riguarda la fine ultima.
+
+Al contrario, esiste soltanto un unico fine ultimo delle volontà umane, ovvero la felicità, come già detto sopra (Q[1], A[7]). Pertanto, se le intenzioni fossero tutte volte a questo unico fine, gli uomini non avrebbero intenzioni diverse tra loro: il che è chiaramente falso.
+
+Rispondo che, come già detto sopra (A[1], ad 4), l’intenzione considera la meta come il termine finale del movimento della volontà. Ora, un termine finale di un movimento può essere inteso in due modi: in primo luogo, come il punto estremamente ultimo al quale il movimento giunge; questo è il termine finale dell’intero movimento. In secondo luogo, come un punto intermedio che rappresenta l’inizio di una parte del movimento e la fine o il termine di un’altra parte. Ad esempio, nel movimento da A a C passando per B, C è il termine finale, mentre B è anch’esso un termine, ma non l’ultimo. L’intenzione può quindi riguardare sia questo che quell’altro tipo di punto terminale. Pertanto, sebbene l’intenzione riguardi sempre una meta, non necessariamente la meta finale del movimento.
+
+Risposta all’Obiezione 1: L’intenzione del cuore viene definita un “grido verso Dio”, non perché Dio sia sempre l’oggetto di tale intenzione, ma perché Egli vede quella nostra intenzione. O forse perché, quando pregiamo, indirizziamo la nostra intenzione verso Dio, e questa intenzione ha il potere di un grido.
+
+Risposta all’Obiezione 2: Un “terminus” è qualcosa che ha fine; tale fine non riguarda sempre l’intero insieme, ma talvolta soltanto una sua parte.
+
+Risposta all’Obiezione 3: Il piacere implica, in definitiva, riposo; e questo appartiene esclusivamente all’ultimo fine. Tuttavia, l’intenzione implica movimento verso un fine, non riposo. Pertanto, questa analogia non dimostra nulla.
+
 <span class="atom-split" data-atom="040" data-title="Whether one can intend two things at the same time?" data-chapter="Whether one can intend two things at the same time?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one cannot intend several things at the same time. For [Augustine](/figures/augustine)
@@ -1793,6 +2305,24 @@ acquire wealth, from intending both the others.
 
 Reply to Objection 3: As stated in the FP, Q[12], A[10]; FP, Q[58], A[2]; FP, Q[85], A[4] it
 is possible to understand several things at the same time, in so far as, in some way, they are one.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non si possa intendere più cose contemporaneamente. Infatti, [Agostino](/figures/augustine) afferma (De Serm. Dom. in Monte ii, 14,16,17) che l’intenzione umana non può essere rivolta contemporaneamente sia a Dio che ai benefici materiali. Pertanto, per lo stesso motivo, non può essere rivolta nemmeno a due altre cose qualsiasi.
+
+Obiezione 2: Inoltre, l’intenzione indica un movimento della volontà verso un determinato fine. Ora, non può esserci più di uno scopo nello stesso ambito di un singolo movimento della volontà. Pertanto, la volontà non può intendere più di una cosa contemporaneamente.
+
+Obiezione 3: Inoltre, l’intenzione presuppone un atto di ragionamento o dell’intelletto. Ma “non è possibile comprendere più cose contemporaneamente”, secondo il Filosofo (Topichi, ii, 10). Pertanto, non è nemmeno possibile intendere più cose allo stesso tempo.
+
+Al contrario, l’arte imita la natura. La natura, infatti, utilizza uno stesso strumento per realizzare due scopi diversi; così “la lingua serve sia al gusto che alla parola” (De [Anima](/concepts/soul) ii, 8). Pertanto, per lo stesso motivo, anche l’arte o la ragione possono indirizzare una stessa cosa verso due finalità diverse, permettendo di perseguire più obiettivi contemporaneamente.
+
+Rispondo che l’espressione “due cose” può essere intesa in due modi: possono essere tra loro collegate o no. E se sono collegate tra loro, è evidente, da quanto detto, che un uomo può intendere più cose contemporaneamente. Infatti, l’intenzione riguarda non solo lo scopo finale, come già accennato (A[2]), ma anche uno scopo intermedio. Un uomo, quindi, intende allo stesso tempo sia lo scopo finale che quello intermedio; ad esempio, mescolare una medicina e ottenere la salute sono azioni legate tra loro. Ma se si considerano due cose che non sono collegate tra loro, un uomo può ugualmente intendere più cose contemporaneamente. Questo è evidente dal fatto che un uomo preferisce una cosa all’altra perché è la migliore delle due; e uno dei motivi per cui una cosa è migliore dell’altra è proprio il suo maggior numero di utilizzazioni. Pertanto, è chiaro che un uomo possa intendere più cose contemporaneamente.
+
+Risposta all’Obiezione 1: Agostino intende dire che l’uomo non può contemporaneamente rivolgere la propria attenzione a Dio e ai benefici materiali, poiché questi rappresentano due finalità diverse; inoltre, come già detto sopra (Q[1], A[5]), un uomo non può avere più di una fine ultima.
+
+Risposta all’Obiezione 2: Possono esistere diversi elementi che sono tra loro correlati, aventi lo stesso movimento e la stessa direzione; tuttavia, questa relazione può esistere soltanto se tali elementi sono effettivamente collegati tra loro. È inoltre importante osservare che ciò che nella realtà non è considerato un tutto unitario può essere inteso come tale dalla ragione. L’intenzione, infatti, rappresenta un movimento della volontà verso qualcosa che già è stato stabilito dalla ragione, come sopra indicato (A[1], ad 3). Pertanto, quando esistono molteplici elementi nella realtà, possiamo considerarli come un unico elemento all’interno di un’intenzione, nella misura in cui la ragione li vede come tali: sia perché questi elementi concorrono nell’ottenimento di un risultato comune (ad esempio, il calore e il freddo contribuiscono alla salute), sia perché sono inclusi in qualcosa che può essere oggetto di intenzione. Per esempio, l’acquisizione di vino e vestiti è considerata parte della ricchezza, poiché rappresenta un elemento comune a entrambi; pertanto nulla impedisce a una persona che intende accumulare ricchezza di intendere anche l’acquisto di vino e vestiti.
+
+Risposta all’Obiezione 3: Come affermato nelle FP, Q[12], A[10]; FP, Q[58], A[2]; FP, Q[85], A[4], è possibile comprendere più cose contemporaneamente, nella misura in cui, in qualche modo, esse siano una cosa unica.
 
 <span class="atom-split" data-atom="041" data-title="Whether intention of the end is the same act as the volition of the means?" data-chapter="Whether intention of the end is the same act as the volition of the means?" data-kind="atom" data-srclang="en"></span>
 
@@ -1891,6 +2421,33 @@ Concerning choice there are six points of inquiry:
 (5) Whether choice is only of possible things?
 (6) Whether man chooses of necessity or freely?
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli animali irrazionali abbiano un intento verso uno scopo finale. Infatti, nelle cose prive di ragione, la natura irrazionale dista ancora di più dalla natura razionale rispetto a quanto avviene nella natura sensibile negli animali irrazionali. Ma anche nelle cose prive di ragione, la natura tende verso uno scopo finale, come dimostrato nel “Physica”, II, 8. Pertanto, con ancora maggiore certezza, gli animali irrazionali hanno un intento verso uno scopo finale.
+
+Obiezione 2: Inoltre, proprio come l’intenzione è relativa a un fine, lo stesso vale per il piacere. Ma il piacere esiste anche negli animali irrazionali, come detto sopra (Q[11], A[2]). Pertanto, anche l’intenzione deve essere considerata presente negli animali irrazionali.
+
+Obiezione 3: Inoltre, intendere un fine è caratteristico di chi agisce per uno scopo specifico; infatti, intendere significa proprio tendere verso qualcosa. Ma gli animali irrazionali agiscono anch’essi per un fine, poiché vengono spinti a cercare cibo o ad compiere azioni del genere. Pertanto, anche gli animali irrazionali intendono un fine.
+
+Al contrario, l’intenzione di raggiungere un fine implica l’ordinare qualcosa verso quel fine, e questo appartiene alla ragione. Poiché dunque gli animali irrazionali sono privi di ragione, sembra che non abbiano alcuna intenzione riguardo ai fini da perseguire.
+
+Rispondo che, come detto sopra (A[1]), intendere significa tendere verso qualcosa; e questo attributo appartiene sia al motore che alla cosa mossa. Pertanto, così come si dice che ciò che viene mosso verso un fine da un altro intenda quel fine, allo stesso modo si può dire che la natura intenda un fine, poiché è essa stessa spinta verso il proprio fine da Dio, proprio come una freccia è guidata dall’arciere. In questo senso, anche gli animali irrazionali intendono un fine, in quanto sono mossi da istinti naturali verso determinate azioni. Un altro modo di intendere un fine, invece, appartiene al motore stesso: quando quest’ultimo ordina il movimento di qualcosa, sia del proprio che di un altro, verso un certo scopo. Questo modo di intendere è tipico della ragione umana. Pertanto, gli animali irrazionali non intendono un fine in questo senso, cioè nel modo propriamente detto e principale di intendere, come già affermato sopra (A[1]).
+
+Risposta all’Obiezione 1: Questo argomento intende per “intenzione” il concetto di essere spinti verso un determinato fine.
+
+Risposta all’Obiezione 2: Il piacere non implica l’ordinamento di una cosa all’altra, come avviene con l’intenzione, ma piuttosto un riposo assoluto alla fine.
+
+Risposta all’Obiezione 3: Gli animali irrazionali sono spinti verso un fine, non come se pensassero di poter raggiungere quel fine attraverso quel movimento; ciò appartiene a chi agisce con intenzione; ma desiderando quel fine per istinto naturale, vengono spinti verso di esso, in qualche modo “guidati” da un altro fattore, proprio come altre cose che sono mosse in modo naturale.  
+**SULLA SCELTA, CHE È UN ATTO DELLA VOLONTÀ IN RELAZIONE AI MEZZI (SEI ARTICOLI)**  
+Ora dobbiamo considerare gli atti della volontà in relazione ai mezzi. Ne esistono tre tipi:
+Scegliere, consentire e utilizzare. E la scelta è preceduta dal consiglio. Prima di tutto, quindi, dobbiamo considerare la scelta; in secondo luogo, il consiglio; in terzo luogo, il consenso; infine, l’utilizzo. Per quanto riguarda la scelta, ci sono sei punti da esaminare:  
+(1) Di quale potere è questo atto: della volontà o della ragione?  
+(2) Si trova la scelta anche negli animali irrazionali?  
+(3) La scelta è soltanto un mezzo, oppure a volte anche uno scopo?  
+(4) La scelta riguarda soltanto cose che facciamo noi stessi?
+(5) La scelta riguarda forse soltanto cose possibili?  
+(6) L’uomo sceglie per necessità o liberamente?
+
 <span class="atom-split" data-atom="043" data-title="Whether choice is an act of will or of reason?" data-chapter="Whether choice is an act of will or of reason?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that choice is an act, not of will but of reason. For choice implies
@@ -1937,6 +2494,24 @@ reason the conclusion seems to belong to the act of choice, as to that which res
 
 Reply to Objection 3: In speaking "of ignorance of choice," we do not mean that choice is a
 sort of knowledge, but that there is ignorance of what ought to be chosen.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la scelta sia un atto non della volontà, ma della ragione. Infatti, la scelta implica una comparazione, attraverso la quale uno elemento viene preferito rispetto ad un altro; e confrontare è un atto razionale. Pertanto, la scelta è anch’essa un atto razionale.
+
+Obiezione 2: Inoltre, è sempre la stessa facoltà razionale che permette di formare sillogismi e di trarne conclusioni. Tuttavia, nelle questioni pratiche, è proprio la ragione a formulare tali sillogismi. Poiché quindi la scelta rappresenta una sorta di conclusione in ambito pratico, come affermato nell’Etica vii, 3, sembra che essa costituisca un atto della ragione stessa.
+
+Obiezione 3: Inoltre, l’ignoranza non appartiene alla volontà, ma al potere cognitivo. Esiste infatti un “ignoranza voluta”, come affermato nell’Etica iii, 1. Pertanto sembra che la scelta non appartenga alla volontà, ma alla ragione.
+
+Al contrario, il Filosofo afferma (Etica, III, 3) che la scelta sia “il desiderio di cose che sono sotto il nostro potere”. Ma il desiderio è un atto di volontà; pertanto lo è anche la scelta.
+
+Rispondo che la scelta delle parole implica qualcosa che appartiene alla ragione o all’intelletto, e qualcosa che appartiene alla volontà: infatti il Filosofo afferma (Etica VI, 2) che la scelta è o “l’intelletto influenzato dall’appetito” o “l’appetito influenzato dall’intelletto”. Ogni volta che due elementi concorrono per formare un tutto, uno di essi ha una funzione “formale” rispetto all’altro. Pertanto Gregorio di Nissa (*Nemesio, De Nat. Hom. xxxiii*) dice che la scelta “non è né soltanto desiderio, né soltanto riflessione, ma una combinazione dei due”. Proprio come diciamo che un animale è composto da anima e corpo, e non è semplicemente corpo né semplicemente anima, ma entrambi insieme, allo stesso modo vale per la scelta. Per quanto riguarda gli atti dell’anima, un atto che appartiene essenzialmente a una determinata facoltà o abitudine riceve una forma specifica da una facoltà o abitudine superiore, poiché ciò che è inferiore è ordinato da ciò che è superiore. Ad esempio, se un uomo compie un atto di forza per amore di Dio, quell’atto è materialmente un atto di forza, ma formalmente un atto di carità. È evidente che, in un certo senso, la ragione precede la volontà e ne ordina l’azione: poiché la volontà tende verso il proprio oggetto secondo l’ordine della ragione, dato che la facoltà conoscitiva presenta quell’oggetto all’appetito. Pertanto, l’atto attraverso cui la volontà tende verso qualcosa considerato buono, essendo ordinato al fine da parte della ragione, è materialmente un atto della volontà, ma formalmente un atto della ragione. In casi del genere, la “sostanza” dell’atto corrisponde alla materia rispetto all’ordine imposto dalla facoltà superiore. Quindi, la scelta non è essenzialmente un atto della ragione, ma della volontà: poiché la scelta si realizza attraverso un certo movimento dell’anima verso il bene scelto. Di conseguenza, è evidente che si tratta di un atto della facoltà appetitiva.
+
+Risposta all’Obiezione 1: La scelta implica una precedente comparazione; non significa che essa consista nella comparazione stessa.
+
+Risposta all’Obiezione 2: È certamente vero che lo scopo della deduzione in un sillogismo pratico è proprio quello di giungere a una conclusione da seguire; tale conclusione viene quindi definita “decisione” o “giudizio”, e successivamente segue l’atto di scelta. Per questa ragione, la conclusione sembra appartenere all’atto stesso della scelta, come ciò che ne deriva.
+
+Risposta all’Obiezione 3: Quando parliamo di “ignoranza riguardo alle scelte da compiere”, non intendiamo che la scelta sia in qualche modo un tipo di conoscenza, ma piuttosto che esista ignoranza su ciò che dovrebbe essere scelto.
 
 <span class="atom-split" data-atom="044" data-title="Whether choice is to be found in irrational animals?" data-chapter="Whether choice is to be found in irrational animals?" data-kind="atom" data-srclang="en"></span>
 
@@ -1997,6 +2572,24 @@ most orderly manner through being ordained by the Supreme art. For which reason,
 animals are called prudent or sagacious; and not because they reason or exercise any choice about
 things. This is clear from the fact that all that share in one nature, invariably act in the same way.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli animali irrazionali siano in grado di scegliere. Infatti, la scelta “è il desiderio di alcune cose per raggiungere un fine”, come affermato nell’Etica, III, 2,3. Ma gli animali irrazionali desiderano qualcosa anche per raggiungere un fine: poiché agiscono in vista di un obiettivo e spinti dal desiderio, è evidente che anch’essi possano scegliere.
+
+Obiezione 2: Inoltre, la stessa parola “electio” [scelta] sembra indicare l’atto di scegliere qualcosa preferendolo ad altri. Ma anche gli animali irrazionali fanno questa scelta: possiamo facilmente osservare che una pecora mangerà un certo tipo d’erba e rifiuterà un altro. Pertanto, la scelta esiste anche negli animali irrazionali.
+
+Obiezione 3: Inoltre, secondo l’Etica VI, 12, “è dalla prudenza che un uomo compie una buona scelta dei mezzi”. Ma la prudenza è presente anche negli animali irrazionali; per questo si afferma all’inizio della Metafisica I, 1 che “quegli animali che, come le api, non sono in grado di udire i suoni, sono prudenti per istinto”. Questo si osserva chiaramente nei meravigliosi esempi di saggezza dimostrati dalle azioni di vari animali, come api, ragni e cani. Ad esempio, un cane che insegue una strega, giunto a un bivio, utilizza l’olfatto per capire se la strega sia passata per il primo o per il secondo sentiero; se scopre che non è passata da nessuno dei due, procede senza ulteriori indagini verso il terzo sentiero, come se ragionasse attraverso l’esclusione: “La strega deve essere passata di qui, poiché non è passata dagli altri due, e non esiste alcun altro sentiero”. Pertanto, sembra che anche gli animali irrazionali siano in grado di compiere scelte.
+
+Al contrario, Gregorio di Nissa [*Nemesio, De Nat. Hom. xxxiii.] afferma che “i bambini e gli animali irrazionali agiscono volontariamente, ma non per scelta”. Pertanto, la scelta non è presente negli animali irrazionali.
+
+Rispondo che, poiché la scelta consiste nel preferire una cosa all’altra, essa deve necessariamente riguardare più cose tra cui scegliere. Pertanto, in quelle cose che sono completamente determinate a un solo risultato, non c’è spazio per la scelta. Ora, la differenza tra l’appetito sensibile e la volontà è che, come detto sopra (Q[1], A[2], ad 3), l’appetito sensibile è determinato verso una cosa particolare, secondo l’ordine della natura; mentre la volontà, sebbene sia determinata verso il bene in generale, secondo lo stesso ordine della natura, rimane indeterminata riguardo ai singoli beni concreti. Di conseguenza, la scelta appartiene propriamente alla volontà, e non all’appetito sensibile, che è caratteristico degli animali irrazionali. Pertanto, gli animali irrazionali non sono in grado di scegliere.
+
+Risposta all’Obiezione 1: Non ogni desiderio per un certo fine viene definito “scelta”: deve esserci una certa distinzione tra una cosa e un’altra. E questa distinzione è possibile soltanto quando il desiderio può essere orientato verso più oggetti diversi.
+
+Risposta all’Obiezione 2: Un animale irrazionale preferisce una cosa all’altra perché il suo appetito è naturalmente orientato verso quella cosa. Pertanto, non appena un animale, sia attraverso i suoi sensi che attraverso la sua immaginazione, viene presentata qualcosa verso cui il suo appetito è naturalmente incline, si dirige immediatamente verso di essa, senza alcuna scelta da fare. Proprio come il fuoco tende a salire e non a scendere, senza che debba compiere alcuna scelta.
+
+Risposta all’Obiezione 3: Come affermato nella Physica iii, 3, “il movimento è l’atto di ciò che può essere mosso, causato da un motore”. Pertanto, la potenza del motore si manifesta nel movimento di ciò che viene mosso. Di conseguenza, in tutte le cose mosse per mezzo della ragione, l’ordine stabilito dalla ragione che le muove è evidente, anche se le stesse cose sono prive di ragione: un’arco, ad esempio, grazie al movimento dell’arciere, si dirige dritto verso il bersaglio, come se fosse dotato di ragione per guidare la propria traiettoria. Lo stesso si può osservare nei movimenti degli orologi e in tutti gli strumenti creati dall’ingegno umano. Ora, così come le cose artificiali sono in relazione all’arte umana, allo stesso modo tutte le cose naturali sono in relazione all’Arte Divina. Pertanto, nell’ordine delle cose mosse dalla natura si può riconoscere lo stesso principio che nelle cose mosse per mezzo della ragione, come affermato nella Physica ii. Ed è proprio per questo che nelle opere degli animali irrazionali possiamo notare segni di saggezza: tali animali, infatti, hanno una tendenza naturale ad agire in modo ordinato, poiché sono guidati dall’Arte Suprema. Per questa ragione alcuni animali vengono definiti “prudenti” o “saggi”, ma non perché siano in grado di riflettere o prendere decisioni consapevoli riguardo alle loro azioni. Questo è evidente dal fatto che tutte le creature che condividono la stessa natura agiscono inevitabilmente nello stesso modo.
+
 <span class="atom-split" data-atom="045" data-title="Whether choice is only of the means, or sometimes also of the end?" data-chapter="Whether choice is only of the means, or sometimes also of the end?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that choice is not only of the means. For the Philosopher says
@@ -2032,6 +2625,20 @@ end. And thus it is that they can be a matter of choice.
 Reply to Objection 2: As stated above (Q[1], A[5]), there is but one last end. Accordingly
 wherever there are several ends, they can be the subject of choice, in so far as they are ordained to
 a further end.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la scelta riguardi non solo i mezzi. Infatti, il Filosofo afferma (Etica VI, 12) che “la virtù ci fa scegliere correttamente; ma non è parte della virtù stessa, bensì di un’altra forza quella che dirige verso il giusto quelle azioni che vengono compiute per suo mezzo”. Tuttavia, ciò per cui qualcosa viene fatto rappresenta lo scopo finale. Pertanto, la scelta riguarda anche lo scopo stesso.
+
+Obiezione 2: Inoltre, la scelta implica la preferenza di una cosa rispetto a un’altra. Ma proprio come può esserci preferenza per i mezzi, così può esserci preferenza anche per gli scopi. Pertanto, la scelta può riguardare sia gli scopi che i mezzi.
+
+Al contrario, il Filosofo afferma (Etica, III, 2) che “la volontà riguarda lo scopo, mentre la scelta riguarda i mezzi per raggiungerlo”.
+
+Rispondo che, come già detto (A[1], ad 2), la scelta deriva dalla decisione o dal giudizio che rappresenta, per così dire, la conclusione di un sillogismo pratico. Pertanto, ciò che costituisce la conclusione di un simile sillogismo è oggetto di scelta. Ora, nelle questioni pratiche, lo scopo occupa la posizione di un principio, e non di una conclusione, come afferma il Filosofo (Phys. ii, 9). Per questo motivo, lo scopo stesso non è oggetto di scelta. Tuttavia, proprio come nella conoscenza speculativa nulla impedisce che il principio di una dimostrazione o di una scienza sia anche la conclusione di un’altra dimostrazione o scienza; mentre il primo principio indimostrabile non può essere la conclusione di alcuna dimostrazione o scienza; allo stesso modo, ciò che costituisce lo scopo di un’operazione pratica può essere considerato come fine per un’altra operazione. In questo caso, diventa oggetto di scelta. Ad esempio, nel lavoro del medico, la salute è lo scopo; pertanto, per il medico, la salute non è oggetto di scelta, ma di principio. Ora, la salute del corpo è destinata al bene dell’anima; quindi, per colui che ha il compito di preservare la salute dell’anima, la salute o la malattia possono diventare oggetti di scelta; poiché l’Apostolo dice (2 Cor. 12:10): “Perché quando sono debole, allora sono potente”. Ma lo scopo finale non è mai oggetto di scelta.
+
+Risposta all’Obiezione 1: Gli scopi propri delle virtù sono orientati verso la Felicità come loro fine ultimo. Ed è proprio per questo che possono rappresentare oggetto di scelta.
+
+Risposta all’Obiezione 2: Come già detto sopra (Q[1], A[5]), esiste soltanto un unico fine ultimo. Pertanto, ove siano presenti diversi fini, questi possono essere oggetto di scelta nella misura in cui sono destinati a realizzare un fine ulteriore.
 
 <span class="atom-split" data-atom="046" data-title="Whether choice is of those things only that are done by us?" data-chapter="Whether choice is of those things only that are done by us?" data-kind="atom" data-srclang="en"></span>
 
@@ -2069,6 +2676,24 @@ Reply to Objection 3: When a man chooses someone for a bishopric or some high po
 [the state](/concepts/state), he chooses to name that man to that post. Else, if he had no right to act in the appointment
 of the bishop or official, he would have no right to choose. Likewise, whenever we speak of one
 thing being chosen in preference to another, it is in conjunction with some action of the chooser.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la scelta riguardi non solo gli atti umani, ma anche i mezzi utilizzati per compierli. Infatti, non soltanto gli atti stessi, ma anche gli organi corporei possono essere considerati mezzi (Fisica ii, 3). Pertanto, la scelta non è limitata agli atti umani.
+
+Obiezione 2: Inoltre, l’azione è distinta dalla contemplazione. Tuttavia, la scelta ha un ruolo anche nella contemplazione, nel momento in cui una opinione viene preferita a un’altra. Pertanto, la scelta non riguarda esclusivamente gli atti umani.
+
+Obiezione 3: Inoltre, gli uomini vengono scelti per determinati incarichi, sia secolari che ecclesiastici, da coloro che non intervengono direttamente nella loro nomina. Pertanto, la scelta non riguarda esclusivamente gli atti umani.
+
+Al contrario, il Filosofo afferma (Etica, III, 2) che “nessuno sceglie se non ciò che può compiere personalmente”.
+
+Rispondo che, proprio come l’intenzione riguarda il fine, così anche la scelta riguarda i mezzi. Ora, il fine può essere o un’azione o una cosa. Quando il fine è una cosa, deve necessariamente intervenire un’azione umana: sia nel senso in cui l’uomo produce quella cosa che costituisce il fine – come il medico produce la salute (per questo si dice che la produzione della salute sia lo scopo del medico) – sia nel senso in cui l’uomo, in qualche modo, utilizza o gode di quella cosa. Per esempio, per un avaro, il denaro o la sua possesso costituiscono il fine. Lo stesso vale per i mezzi: anch’essi devono necessariamente essere o un’azione o una cosa, e deve intervenire un’altra azione umana che permetta di produrre quei mezzi o di utilizzarli. Ed è proprio per questo che la scelta riguarda sempre gli atti umani.
+
+Risposta all’Obiezione 1: Gli organi sono destinati a quel fine, poiché l’uomo li utilizza appunto per raggiungerlo.
+
+Risposta all’Obiezione 2: Nella stessa contemplazione vi è l’atto dell’intelletto che accorda il proprio consenso a questa o quella opinione. È un atto esterno, appunto, quello che viene posto in contrapposizione alla contemplazione stessa.
+
+Risposta all’Obiezione 3: Quando un uomo sceglie qualcuno per una carica episcopale o un alto incarico nell’[stato](/concepts/state), sta decidendo di nominare quella persona per tale ruolo. Altrimenti, se non avesse il diritto di intervenire nella nomina dell’episcopo o del funzionario, non avrebbe nemmeno il diritto di scegliere. Allo stesso modo, ogni volta che parliamo di una scelta fatta preferendo un’opzione all’altra, ciò avviene sempre in concomitanza con un’azione da parte di chi sceglie.
 
 <span class="atom-split" data-atom="047" data-title="Whether choice is only of possible things?" data-chapter="Whether choice is only of possible things?" data-kind="atom" data-srclang="en"></span>
 
@@ -2119,6 +2744,24 @@ of something apprehended as possible to the chooser, and yet impossible to him.
 
 Reply to Objection 3: The reason for this is that the subject should not rely on his own judgment
 to decide whether a certain thing is possible; but in each case should stand by his superior's judgment.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la scelta riguardi non solo le cose possibili. Infatti, la scelta è un atto della volontà, come detto sopra (A[1]). Ora esiste “la volontà di ciò che è impossibile” (Etica, iii, 2); pertanto esiste anche una scelta delle cose impossibili.
+
+Obiezione 2: Inoltre, la scelta riguarda azioni che compiamo noi stessi, come detto sopra (A[4]). Pertanto, per quanto concerne l’atto stesso di scegliere, non ha importanza se si sceglie qualcosa che è impossibile in sé, o qualcosa che lo è per colui che sceglie. Spesso, infatti, non riusciamo a realizzare ciò che abbiamo scelto; quindi questo dimostra che tale cosa è effettivamente impossibile per noi. Quindi, la scelta riguarda cose impossibili.
+
+Obiezione 3: Inoltre, tentare di compiere qualcosa significa scegliere di farlo. Ma il Beato Benedetto afferma nella [Regola lxviii] che se un superiore ordina qualcosa di impossibile, tale cosa deve comunque essere tentata. Pertanto, la scelta può riguardare anche ciò che è impossibile.
+
+Al contrario, il Filosofo afferma (Etica, III, 2) che “non esiste alcuna possibilità di scegliere tra le cose impossibili”.
+
+Rispondo che, come già detto sopra (A[4]), la nostra scelta riguarda sempre le nostre azioni. Ora, tutto ciò che facciamo è qualcosa che ci è possibile; pertanto dobbiamo dire che la scelta riguarda soltanto cose possibili. Inoltre, il motivo per cui scegliamo qualcosa è perché essa conduce a un fine; ma ciò che è impossibile non può condurre a alcun fine. Un segno di ciò è che quando le persone si riuniscono per consultarsi e giungono a una decisione che per loro è impossibile, allora abbandonano l’iniziativa, ritenendo di non poter proseguire. Questo è ancora più evidente se esaminiamo il processo logico alla base delle nostre scelte: i mezzi, infatti, sono destinati a raggiungere un fine, proprio come una conclusione deriva da un principio. È chiaro quindi che una conclusione impossibile non può derivare da un principio possibile; pertanto, un fine non può essere considerato possibile se i mezzi per raggiungerlo non lo sono. Ora, nessuno è spinto a compiere azioni impossibili; di conseguenza, nessuno tenderebbe verso un fine del genere, se non perché i mezzi sembrano possibili. Quindi, ciò che è impossibile non può essere oggetto di scelta.
+
+Risposta all’Obiezione 1: La volontà si trova tra l’intelletto e l’azione esterna: infatti l’intelletto propone alla volontà il suo oggetto, mentre la volontà determina l’azione esterna. Pertanto, il principio che guida il movimento della volontà risiede nell’intelletto, il quale comprende qualcosa sotto il concetto universale di bene; ma il termine o la perfezione dell’atto della volontà si manifestano nella sua relazione con quell’azione attraverso la quale l’uomo tende ad ottenere qualcosa; infatti, il movimento della volontà va dall’anima verso quella cosa. Di conseguenza, l’atto perfetto della volontà riguarda qualcosa che è buono da fare. Ora, ciò non può essere nulla di impossibile; pertanto, l’atto completo della volontà riguarda soltanto ciò che è possibile e buono per colui che vuole. L’atto incompleto della volontà, invece, riguarda ciò che è impossibile; alcuni lo chiamano “velleità”, poiché si desidererebbe voler fare una cosa del genere, se fosse possibile. La scelta, d’altra parte, è un atto della volontà che si fissa su qualcosa da compiere; pertanto riguarda necessariamente soltanto ciò che è possibile.
+
+Risposta all’Obiezione 2: Poiché l’oggetto della volontà è il bene percepito, dobbiamo giudicare tale oggetto in base a come viene percepito. E così, proprio come a volte la volontà tende verso qualcosa che viene percepito come buono, ma che in realtà non lo è; allo stesso modo, a volte si sceglie qualcosa che viene considerato possibile per chi sceglie, ma che in realtà non lo è.
+
+Risposta all’Obiezione 3: Il motivo di ciò è che il soggetto non dovrebbe affidarsi al proprio giudizio per stabilire se qualcosa sia possibile, ma in ogni caso dovrebbe seguire la decisione del proprio superiore.
 
 <span class="atom-split" data-atom="048" data-title="Whether man chooses of necessity or freely?" data-chapter="Whether man chooses of necessity or freely?" data-kind="atom" data-srclang="en"></span>
 
@@ -2173,6 +2816,24 @@ Reply to Objection 3: If two things be proposed as equal under one aspect, nothi
 us from considering in one of them some particular point of superiority, so that the will has a bent
 towards that one rather than towards the other.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’uomo scelga necessariamente. Infatti, il fine è in relazione all’oggetto della scelta, così come il principio di ciò che deriva dai principi stessi, come affermato nell’Etica, VII, 8. Ma le conclusioni derivano necessariamente dai loro principi. Pertanto, l’uomo è spinto necessariamente ad agire per raggiungere il fine scelto, attraverso i mezzi appropriati.
+
+Obiezione 2: Inoltre, come già detto sopra (A[1], ad 2), la scelta segue il giudizio della ragione su ciò che deve essere fatto. Ma la ragione giudica in termini di necessità riguardo a alcune cose, sulla base della necessità delle premesse. Pertanto, sembrerebbe che anche la scelta derivi necessariamente da tali considerazioni.
+
+Obiezione 3: Inoltre, se due cose sono assolutamente uguali, l’uomo non è spinto verso una più di quanto lo sia verso l’altra; pertanto, se un uomo affamato, come afferma Platone (cfr. De Coelo ii, 13), si trovasse di fronte a due porzioni di cibo ugualmente appetitose e poste alla stessa distanza, non preferirebbe nessuna delle due; la ragione di ciò risiederebbe nell’immobilità della Terra al centro del mondo. Ora, se ciò che è ugualmente idoneo a qualcos’altro non può essere scelto, tanto meno ciò che appare meno idoneo. Pertanto, se sono disponibili due o più cose di cui una sembra più adatta, è impossibile scegliere alcuna delle altre; ne consegue che quella che appare avere il primo posto viene necessariamente scelta. Ma ogni atto di scelta riguarda qualcosa che in qualche modo sembra migliore; quindi, ogni scelta avviene necessariamente.
+
+Al contrario, la Scelta è un atto di una facoltà razionale; che, secondo il Filosofo (Metafisica, IX, 2), è in relazione agli opposti.
+
+Rispondo che l’uomo non sceglie necessariamente. Ciò perché ciò che è possibile non essere non è necessario. La ragione per cui sia possibile scegliere o meno deriva dalla duplice capacità dell’uomo: può voler o non voler, agire o non agire; inoltre, può volere questo o quell’altro e agire di conseguenza. La base di questa capacità risiede nella stessa potenza della ragione, poiché la volontà può tendere verso ciò che la ragione considera buono. La ragione può infatti ritenere buono non solo l’agire stesso, ma anche il non agire; inoltre, riguardo a ogni bene particolare, può considerare sia gli aspetti positivi che quelli negativi di tale bene, e quindi decidere se sceglierlo o evitarlo. Solo il bene perfetto, ovvero la Felicità, non può essere considerato dalla ragione come qualcosa di negativo o di carente in qualche modo; pertanto, l’uomo desidera necessariamente la Felicità, così come non può voler non essere felice. Poiché la scelta riguarda i mezzi, e non lo scopo finale (come già detto), essa non riguarda il bene perfetto, ma altri beni particolari; quindi l’uomo sceglie liberamente, e non necessariamente.
+
+Risposta all’Obiezione 1: La conclusione non deriva necessariamente dai principi, ma soltanto quando tali principi non possono essere veri se la conclusione non lo è. Allo stesso modo, l’obiettivo finale non impone sempre all’uomo la scelta dei mezzi necessari per raggiungerlo, poiché i mezzi stessi non sono sempre tali da rendere impossibile il conseguimento dell’obiettivo senza di essi; inoltre, anche quando lo sono, non vengono sempre considerati nella luce di questo scopo.
+
+Risposta all’Obiezione 2: La decisione o il giudizio della ragione su ciò che deve essere fatto riguardano cose che sono contingenti e possibili per noi. In tali casi, le conclusioni non derivano necessariamente da principi assolutamente necessari, ma da principi condizionati; ad esempio: “Se corre, è in movimento”.
+
+Risposta all’Obiezione 3: Se due cose vengono considerate uguali sotto un certo aspetto, nulla ci impedisce di riconoscere in una di esse qualche particolare vantaggio, in modo che la volontà si orienti verso quella piuttosto che verso l’altra.
+
 <span class="atom-split" data-atom="049" data-title="OF COUNSEL, WHICH PRECEDES CHOICE (SIX ARTICLES)" data-chapter="OF COUNSEL, WHICH PRECEDES CHOICE (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider counsel; concerning which there are six points of inquiry:
@@ -2182,6 +2843,15 @@ We must now consider counsel; concerning which there are six points of inquiry:
 (4) Whether counsel is of all things that we do?
 (5) Whether the process of counsel is one of analysis?
 (6) Whether the process of counsel is indefinite?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la questione del “consiglio”; a questo proposito vi sono sei punti da esaminare:  
+(1) Il consiglio è forse un atto di riflessione o indagine?  
+(2) Rientra tra gli scopi o tra i mezzi per raggiungere uno scopo?  
+(3) Si applica soltanto alle azioni che compiamo noi stessi, o anche a tutte le nostre attività?  
+(4) Il processo di riflessione legato al consiglio è caratterizzato da analisi dettagliata, oppure no?  
+(5) È un processo indefinito nel tempo, o ha una struttura ben definita?
 
 <span class="atom-split" data-atom="050" data-title="Whether counsel is an inquiry?" data-chapter="Whether counsel is an inquiry?" data-kind="atom" data-srclang="en"></span>
 
@@ -2235,6 +2905,24 @@ Reply to Objection 3: It may happen that things which are most certainly good in
 of wise and spiritual men are not certainly good in the opinion of many, or at least of carnal-minded
 men. Consequently in such things counsel may be given.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il consiglio non sia un atto di indagine. Infatti Damasceno afferma (De Fide Orthodossa, ii, 22) che il consiglio è “un atto dell’appetito”. Ma l’indagine non è un atto dell’appetito. Pertanto, il consiglio non è un atto di indagine.
+
+Obiezione 2: Inoltre, l’indagine è un atto discorsivo dell’intelletto; per questo motivo non si trova in Dio, la cui conoscenza non è di natura discorsiva, come abbiamo dimostrato nel FP, Q[14], A[7]. Tuttavia, a Dio viene attribuita la “consiglieria”: infatti è scritto (Ef. 1:11) che “Lui opera tutte le cose secondo il consiglio della Sua volontà”. Pertanto, la “consiglieria” non è identica all’indagine.
+
+Obiezione 3: Inoltre, l’indagine riguarda questioni dubbiose; mentre i consigli vengono dati su questioni che sono certamente positive. Così dice l’Apostolo (1 Corinzi 7:25): “Per quanto riguarda le vergini, non ho alcun comando del Signore; ma do un consiglio”. Pertanto, il consiglio non è una forma di indagine.
+
+Al contrario, Gregorio di Nissa [*Nemesio, De Nat. Hom. xxxiv.] afferma: “Ogni consiglio è un’indagine; ma non ogni indagine è un consiglio.”
+
+Rispondo che la scelta, come detto sopra (Q[13], A[1], ad 2; A[3]), segue il giudizio della ragione riguardo a ciò che deve essere fatto. Ora, nelle cose che devono essere compiute esiste molta incertezza; poiché le azioni riguardano eventi contingenti e singolari, i quali, a causa della loro instabilità, sono incerti. Pertanto, nelle questioni dubbi e incerte la ragione non emette giudizi senza un’indagine preliminare; per questo motivo, è necessario che la ragione condotta un’indagine prima di decidere sugli oggetti della scelta, e questa indagine viene chiamata “consiglio”. Ecco perché il Filosofo afferma (Etica, iii, 2) che la scelta è “il desiderio di ciò che è stato già preso in considerazione attraverso il consiglio”.
+
+Risposta all’Obiezione 1: Quando gli atti di due poteri sono tra loro coordinati, in ciascuno di essi vi è qualcosa che appartiene all’altro potere; pertanto, ogni atto può essere definito in base a entrambi i poteri. È evidente che l’atto della ragione che indica i mezzi da utilizzare e l’atto della volontà che si dirige verso questi mezzi secondo le indicazioni della ragione sono tra loro coordinati. Di conseguenza, nell’atto della volontà – ovvero nella scelta – si trova qualcosa della ragione, cioè l’ordine; e nel consiglio, che è un atto della ragione, si trova qualcosa della volontà: sia come materia (poiché il consiglio riguarda ciò che l’uomo intende fare), sia come motivo (poiché è proprio desiderando il fine che l’uomo è spinto a prendere in considerazione i mezzi necessari). E quindi, proprio come il Filosofo afferma nell’Etica VI, 2 che la scelta “è un’intelligenza guidata dall’appetito”, sottolineando così il loro coinvolgimento congiunto nell’atto di scegliere; allo stesso modo Damasceno sostiene nel De Fide Orthodossa II, 22 che il consiglio è “un appetito basato sulla riflessione”, per indicare che il consiglio appartiene sia alla volontà – che ne dà origine e lo spinge ad agire – sia alla ragione che esegue tale riflessione.
+
+Risposta all’Obiezione 2: Le cose che diciamo di Dio devono essere intese senza alcuno dei difetti che si riscontrano in noi. In noi la scienza consiste nel ragionamento che conduce dalle cause agli effetti; ma quando si parla di scienza in relazione a Dio, ci si riferisce a una conoscenza certa di tutti gli effetti nella Causa Prima, senza alcun processo di ragionamento. Allo stesso modo attribuiamo a Dio la capacità di prendere decisioni, come segno della certezza della Sua conoscenza o del Suo giudizio; tale certezza, in noi, deriva dall’esame delle possibili opzioni. Ma un simile esame non ha alcun senso in Dio; per questo motivo non viene attribuito a Lui. In questo senso, Damasceno afferma (De Fide Orthodossa ii, 22): “Dio non prende decisioni: solo coloro che mancano di conoscenza sono costretti a farlo”.
+
+Risposta all’Obiezione 3: Può accadere che cose che sono certamente buone secondo l’opinione di saggi e persone spirituali non lo siano necessariamente secondo l’opinione di molti, o almeno di coloro la cui mentalità è orientata verso i valori materiali. Pertanto, in tali casi può essere opportuno fornire consigli.
+
 <span class="atom-split" data-atom="051" data-title="Whether counsel is of the end, or only of the means?" data-chapter="Whether counsel is of the end, or only of the means?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that counsel is not only of the means but also of the end. For
@@ -2262,6 +2950,20 @@ about it, it will be counsel not about the end, but about the means.
 
 Reply to Objection 2: Counsel is about operations, in so far as they are ordained to some end.
 Consequently if any human act be an end, it will not, as such, be the matter of counsel.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il consiglio sia non solo uno dei mezzi per raggiungere un fine, ma anche il fine stesso. Infatti, tutto ciò che è incerto può essere oggetto di indagine. Ora, nelle azioni da compiere dall’uomo, a volte sorge dubbi riguardo al fine, e non solo sui mezzi necessari per raggiungerlo. Poiché quindi l’indagine su ciò che deve essere fatto costituisce in sé un consiglio, sembra che il consiglio possa anche riguardare direttamente il fine stesso.
+
+Obiezione 2: Inoltre, l’oggetto del consiglio sono le azioni umane. Ma alcune azioni umane sono fini, come affermato nell’Etica I, 1. Pertanto, il consiglio può riguardare anche i fini stessi.
+
+Al contrario, Gregorio di Nissa [*Nemesio, De Nat. Hom. xxxiv.] afferma che “il consiglio riguarda non la meta, ma i mezzi per raggiungerla”.
+
+Rispondo che, nelle questioni pratiche, la fine rappresenta il principio stesso: infatti il motivo per cui si utilizzano determinati mezzi risiede nella finalità che tali mezzi mirano a realizzare. Ora, il principio non può essere messo in discussione, ma deve essere presupposto in ogni indagine. Poiché quindi il consiglio rappresenta un’indagine, esso riguarda soltanto i mezzi, e non la fine stessa. Tuttavia, può accadere che ciò che è considerato la fine per una determinata questione sia in realtà il mezzo necessario per raggiungere un altro obiettivo; proprio come ciò che costituisce il principio di una dimostrazione può essere, allo stesso tempo, la conclusione di un’altra. Di conseguenza, ciò che viene considerato la fine in un contesto può rivelarsi essere soltanto un mezzo in un altro; ed è proprio per questo motivo che diventa oggetto di riflessione e consiglio.
+
+Risposta all’Obiezione 1: Ciò che viene considerato un fine è già stabilito in anticipo; pertanto, finché esiste anche solo il minimo dubbio al riguardo, non può essere considerato un fine. Di conseguenza, se si prendono in considerazione strategie o misure al suo riguardo, queste non riguarderanno mai il fine stesso, ma soltanto i mezzi per raggiungerlo.
+
+Risposta all’Obiezione 2: Il consiglio riguarda le azioni umane nella misura in cui sono destinate a un certo fine. Pertanto, se un qualsiasi atto umano costituisce di per sé stesso un fine, esso non sarà oggetto di consiglio.
 
 <span class="atom-split" data-atom="052" data-title="Whether counsel is only of things that we do?" data-chapter="Whether counsel is only of things that we do?" data-kind="atom" data-srclang="en"></span>
 
@@ -2313,6 +3015,28 @@ some way, one with us; either by union of affection---thus a man is solicitous a
 his friend, as though it concerned himself; or after the manner of an instrument, for the principal
 agent and the instrument are, in a way, one cause, since one acts through the other; thus the master
 takes counsel about what he would do through his servant.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il consiglio riguardi non solo le cose che facciamo. Infatti, il consiglio implica una sorta di consultazione tra persone. Tuttavia, è possibile che molte persone consultino su questioni che non sono soggette al movimento e che non derivano dalle nostre azioni, come ad esempio la natura delle varie cose. Pertanto, il consiglio riguarda non solo le cose che facciamo.
+
+Obiezione 2: Inoltre, le persone a volte chiedono consiglio su questioni stabilite dalla legge; per questo si parla di “consiglio legale”. Eppure coloro che cercano consiglio in questo modo non hanno alcun ruolo nella stesura delle leggi. Pertanto, il consiglio riguarda non solo le azioni che compiamo noi stessi.
+
+Obiezione 3: Inoltre, si dice che alcune persone consultino altri riguardo agli eventi futuri; ma tali eventi non sono sotto il nostro controllo. Pertanto, il consiglio non riguarda soltanto le cose che possiamo fare noi stessi.
+
+Obiezione 4: Inoltre, se il consiglio riguardasse soltanto le cose che facciamo noi, nessuno chiederebbe consiglio su ciò che fa un altro. Ma questo è chiaramente falso. Pertanto, il consiglio non riguarda soltanto le cose che facciamo noi.
+
+Al contrario, Gregorio di Nissa [*Nemesio, De Nat. Hom. xxxiv.] afferma: “Rivolgiamo il nostro consiglio verso le cose che rientrano nella nostra competenza e che siamo in grado di realizzare”.
+
+Rispondo che il termine “consiglio” implica propriamente una conferenza tenuta tra più persone; la stessa parola [consilium] lo indica chiaramente, poiché significa un’assemblea durante la quale si discute insieme, dato che molte persone si riuniscono per consultarsi a vicenda. Ora dobbiamo considerare che, nei casi particolari e contingenti, affinché qualcosa possa essere conosciuto con certezza, è necessario prendere in considerazione diverse condizioni o circostanze; queste non sono facilmente individuabili da una sola persona, ma possono essere valutate più accuratamente da più persone, poiché ciò che uno nota può sfuggire all’attenzione di un altro. Nel caso delle cose necessarie e universali, invece, la nostra riflessione si concentra su aspetti molto più assoluti e semplici, tanto che una sola persona è sufficiente per comprenderle. Pertanto, il consiglio riguarda propriamente situazioni particolari e contingenti. La conoscenza della verità in tali ambiti non ha lo stesso valore intrinseco della conoscenza di cose universali e necessarie; tuttavia è desiderabile perché utile per l’azione, poiché le azioni umane riguardano sempre situazioni particolari e contingenti. In conclusione, il consiglio riguarda propriamente ciò che facciamo noi stessi.
+
+Risposta all’Obiezione 1: Il consiglio implica una consultazione, non di qualsiasi tipo, ma riguardante ciò che deve essere fatto, per i motivi sopra espressi.
+
+Risposta all’Obiezione 2: Sebbene ciò che è stabilito dalla legge non sia dovuto a chi chiede consiglio, essa tuttavia lo guida nella sua azione; infatti, l’imperativo della legge rappresenta una delle ragioni per cui si deve agire in un determinato modo.
+
+Risposta all’Obiezione 3: Il consiglio riguarda non solo ciò che viene fatto, ma anche tutto ciò che ha a che fare con ciò che viene fatto. E per questo motivo parliamo di consultazioni riguardo agli eventi futuri, nel senso in cui la conoscenza di tali eventi induce l’uomo a compiere o a tralasciare qualcosa.
+
+Risposta all’Obiezione 4: Cerchiamo consiglio riguardo alle azioni altrui nella misura in cui queste, in qualche modo, sono connesse a noi; sia attraverso un legame affettivo – in questo caso una persona si preoccupa di ciò che riguarda il proprio amico come se fosse cosa sua – sia nel ruolo di uno strumento: l’agente principale e lo strumento, infatti, costituiscono, in qualche modo, una sola causa, poiché l’uno agisce attraverso l’altro; è così che il padrone si consulta su ciò che farebbe attraverso il proprio servo.
 
 <span class="atom-split" data-atom="053" data-title="Whether counsel is about all things that we do?" data-chapter="Whether counsel is about all things that we do?" data-kind="atom" data-srclang="en"></span>
 
@@ -2399,6 +3123,24 @@ Reply to Objection 3: We should not want to know whether something to be done fo
 be possible, if it were not suitable for gaining that end. Hence we must first inquire whether it be
 conducive to the end, before considering whether it be possible.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il processo di consulenza non sia un processo di analisi. Infatti, la consulenza riguarda azioni che compiamo; ma il processo stesso delle nostre azioni non è un processo di analisi, bensì di sintesi, cioè dal semplice al complesso. Pertanto, la consulenza non procede sempre attraverso l’analisi.
+
+Obiezione 2: Inoltre, il consiglio rappresenta un’indagine basata sulla ragione. Ma la ragione procede dalle cose che precedono a quelle che seguono, secondo un ordine appropriato. Poiché il passato precede il presente e il presente precede il futuro, sembrerebbe che nel prendere un consiglio si dovesse procedere dal passato e dal presente al futuro: il che non costituisce un processo analitico. Pertanto, il processo del consiglio non è di natura analitica.
+
+Obiezione 3: Inoltre, secondo l’Etica, il consiglio riguarda soltanto quelle cose che sono possibili per noi. Tuttavia, la questione di sapere se una determinata cosa sia possibile dipende da ciò che siamo in grado o meno di fare al fine di raggiungere un certo scopo. Pertanto, l’indagine sul consiglio dovrebbe partire dalle cose presenti.
+
+Al contrario, il Filosofo afferma (Etica, III, 3) che “colui che chiede consiglio sembra indagare e analizzare”.
+
+Rispondo che, in ogni indagine, si deve partire da qualche principio. E se questo principio precede sia nella conoscenza che nell’essere stesso, il processo è di natura sintetica: poiché procedere dalla causa all’effetto significa agire in modo sintetico, dato che le cause sono più semplici degli effetti. Ma se ciò che precede nella conoscenza viene dopo nell’ordine dell’essere, il processo è analitico; come quando il nostro giudizio si occupa di effetti che, attraverso l’analisi, riconduciamo alle loro cause semplici. Ora, nel contesto delle deliberazioni e dei consigli, il principio fondamentale è lo scopo finale: questo, sebbene preceda nell’intenzione, viene realizzato in un secondo momento. Pertanto, l’indagine stessa deve essere di natura analitica, cioè deve partire da ciò che è previsto per il futuro e proseguire fino a raggiungere ciò che deve essere effettivamente compiuto immediatamente.
+
+Risposta all’Obiezione 1: Il consiglio riguarda effettivamente l’azione. Tuttavia, le azioni traggono la loro motivazione dal fine che le guida; pertanto, l’ordine del ragionamento relativo alle azioni è inverso rispetto all’ordine stesso delle azioni stesse.
+
+Risposta all’Obiezione 2: La ragione inizia da ciò che è primo secondo i principi della ragione stessa; ma non sempre da ciò che è primo in termini di tempo.
+
+Risposta all’Obiezione 3: Non dovremmo voler sapere se qualcosa che deve essere fatto per raggiungere un certo scopo sia possibile, se non fosse adatto a ottenere tale scopo. Pertanto, dobbiamo prima verificare se tale cosa sia efficace nel raggiungere lo scopo in questione, prima di considerare se sia effettivamente possibile farla.
+
 <span class="atom-split" data-atom="055" data-title="Whether the process of counsel is indefinite?" data-chapter="Whether the process of counsel is indefinite?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the process of counsel is indefinite. For counsel is an inquiry
@@ -2451,6 +3193,24 @@ We must now consider consent; concerning which there are four points of inquiry:
 (3) Whether it is directed to the end or to the means?
 (4) Whether consent to an act belongs to the higher part of the soul only?
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il processo di consultazione sia infinito. Infatti, la consultazione consiste nell’esaminare i dettagli specifici che riguardano un’azione concreta; ma i singoli elementi in questione sono infiniti. Pertanto, il processo di consultazione è necessariamente infinito.
+
+Obiezione 2: Inoltre, l’indagine condotta dal consigliere deve prendere in considerazione non solo ciò che va fatto, ma anche come evitare gli ostacoli. Tuttavia, ogni azione umana può essere ostacolata, e un ostacolo può essere eliminato attraverso il ragionamento umano. Pertanto, l’indagine volta ad eliminare gli ostacoli può proseguire all’infinito.
+
+Obiezione 3: Inoltre, l’indagine della scienza dimostrativa non prosegue all’infinito, poiché si possono raggiungere principi autoevidenti, assolutamente certi. Ma una tale certezza non è possibile ottenere riguardo ai fenomeni contingenti e singolari, che sono variabili e incerti. Pertanto, l’indagine nel campo del consiglio o della riflessione pratica prosegue all’infinito.
+
+Al contrario, “Nessuno è mosso da ciò che non può comunque raggiungere” (De Coelo i, 7). Tuttavia è impossibile attraversare l’infinito; pertanto, se la ricerca di consiglio fosse infinita, nessuno inizierebbe mai a chiederne. Il che è chiaramente falso.
+
+Rispondo che, in realtà, l’indagine attraverso il consiglio è limitata da entrambi i punti di vista: sia riguardo al suo principio che al suo termine. Infatti, nell’ambito del consiglio sono disponibili due principi diversi. Uno di essi appartiene direttamente al genere delle considerazioni relative all’azione concreta; si tratta dello scopo finale dell’indagine, che non costituisce l’oggetto stesso del consiglio, ma viene considerato come principio fondamentale, come già accennato in precedenza (A[2]). L’altro principio, invece, deriva da un ambito diverso; nelle scienze dimostrative, ad esempio, una disciplina può postulare certi concetti basandosi su altri, senza necessariamente indagarli ulteriormente. I principi considerati fondamentali nell’ambito del consiglio sono quindi fatti percepiti attraverso i sensi – ad esempio, che questo oggetto sia pane o ferro – nonché enunciati generali conosciuti attraverso la scienza speculativa o pratica (ad esempio, che l’adulterio è proibito da Dio o che l’uomo non può vivere senza un’alimentazione adeguata). Il consiglio stesso non indaga su tali questioni. Il termine dell’indagine, invece, indica ciò che possiamo compiere immediatamente; proprio come lo scopo finale è determinato da un principio, i mezzi necessari per raggiungerlo sono definiti in base a una conclusione. Quello che sembra dover essere fatto per primo rappresenta quindi la conclusione ultima verso cui si dirige l’indagine. Tuttavia, nulla impedisce che il processo di consiglio possa essere potenzialmente infinito, poiché un numero infinito di questioni può essere oggetto di analisi attraverso questo metodo.
+
+Risposta all’Obiezione 1: I singolari sono infiniti; non in senso reale, ma solo potenzialmente.
+
+Risposta all’Obiezione 2: Sebbene l’azione umana possa essere ostacolata, tale ostacolo non è sempre immediatamente presente. Pertanto, non è sempre necessario prendere in considerazione la possibilità di eliminare quell’ostacolo.
+
+Risposta all’Obiezione 3: Nei casi contingenti, qualcosa può essere considerato certo non semplicemente in linea di principio, ma per il momento attuale e nella misura in cui riguarda l’azione da compiere. Pertanto, il fatto che quel [Socrate](/figures/socrates) sia seduto non costituisce un’affermazione necessaria; ma il fatto che egli sia seduto, finché continua a esserlo, è necessario, e questo può essere considerato un dato certo.
+
 <span class="atom-split" data-atom="056" data-title="Whether consent is an act of the appetitive or of the apprehensive power?" data-chapter="Whether consent is an act of the appetitive or of the apprehensive power?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that consent belongs only to the apprehensive part of the soul. For
@@ -2494,6 +3254,24 @@ have stated in the FP, Q[16], A[1]; FP, Q[27], A[4]; FP, Q[59], A[2], is more pr
 assent: although one word is wont to be used for the other [*In Latin rather than in English.]. We
 may also say that the intellect assents, in so far as it is moved by the will.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il consenso appartenga esclusivamente alla parte apprensiva dell’anima. Infatti, [Agostino](/figures/augustine) (De Trin. xii, 12) attribuisce il consenso alla ragione superiore; ma la ragione è una facoltà apprensiva. Pertanto, il consenso appartiene a una facoltà apprensiva.
+
+Obiezione 2: Inoltre, il consenso è un “atto di percezione”. Ma la percezione è una facoltà conoscitiva. Pertanto, il consenso è l’atto di una facoltà conoscitiva.
+
+Obiezione 3: Inoltre, proprio come l’assenso rappresenta un’applicazione dell’intelletto su qualcosa, lo stesso vale per il consenso. Ma l’assenso appartiene all’intelletto, che è una potenza di comprensione; pertanto anche il consenso deve appartenere a una potenza di comprensione.
+
+Al contrario, Damasceno afferma (De Fide Orthodossa ii, 22) che “se un uomo giudica senza alcun affetto per ciò di cui giudica, allora non vi è alcuna decisione”, ovvero nessun consenso. Ma l’affetto appartiene alla potenza appetitiva; pertanto, anche il consenso appartiene a questa stessa potenza.
+
+Rispondo che il consenso implica l’applicazione dei sensi verso qualcosa. Ora, è proprio dei sensi conoscere le cose presenti; infatti, l’immaginazione comprende le somiglianze tra le cose corporee, anche in assenza di queste stesse; mentre l’intelletto comprende le idee universali, che può percepire indipendentemente dal fatto che i singoli esempi siano presenti o assenti. Poiché l’atto di una potenza appetitiva è una sorta di inclinazione verso la cosa stessa, l’applicazione di tale potenza verso quella cosa, nella misura in cui vi si attacca, riceve, attraverso una sorta di somiglianza, il nome di “senso”, poiché, in qualche modo, acquisisce una conoscenza diretta della cosa a cui si attacca, nel momento in cui ne trae soddisfazione. Per queste ragioni, si legge (Sapienza 1:1): “Pensate al Signore con benevolenza”. E su questi basi, il consenso è considerato un atto della potenza appetitiva.
+
+Risposta all’Obiezione 1: Come affermato nel De [Anima](/concepts/soul) III, 9, “la volontà appartiene alla ragione”. Pertanto, quando Agostino attribuisce il consenso alla ragione, intende che la ragione includa anche la volontà.
+
+Risposta all’Obiezione 2: Il senso, inteso nel suo vero significato, appartiene alla facoltà percettiva; ma, per analogia, nella misura in cui implica la ricerca di conoscenza, appartiene anche alla potenza appetitiva, come già detto.
+
+Risposta all’Obiezione 3: “Accordare il proprio consenso” significa, in altre parole, “provare un certo sentimento verso qualcosa”; pertanto ciò implica una certa distanza rispetto a ciò su cui viene espresso il consenso. Ma “consentire” nel senso proprio del termine significa “provarlo insieme”, e questo implica invece una certa unità con l’oggetto del consenso stesso. Pertanto, la volontà, che è l’organo attraverso il quale si esprime il consenso, tende propriamente verso l’oggetto stesso; mentre l’intelletto, il cui atto non consiste in un movimento verso quell’oggetto, ma piuttosto nel suo opposto – come abbiamo affermato nelle opere FP, Q[16], A[1]; FP, Q[27], A[4]; FP, Q[59], A[2] – si dice più propriamente che “accorda il proprio consenso”, anche se spesso i due termini vengono usati in modo intercambiabile. Possiamo anche dire che l’intelletto accorda il proprio consenso nella misura in cui viene mosso dalla volontà.
+
 <span class="atom-split" data-atom="057" data-title="Whether consent is to be found in irrational animals?" data-chapter="Whether consent is to be found in irrational animals?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that consent is to be found in irrational animals. For consent implies
@@ -2536,6 +3314,24 @@ animals.
 
 Reply to Objection 3: The man who acts through passion is able not to follow the passion:
 whereas irrational animals have not that power. Hence the comparison fails.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il consenso possa essere riscontrato anche negli animali irrazionali. Infatti, il consenso implica una determinazione del desiderio verso qualcosa; e poiché il desiderio degli animali irrazionali è già diretto verso un certo oggetto, ne consegue che anche loro possano manifestare consenso.
+
+Obiezione 2: Inoltre, se si elimina ciò che precede, si elimina anche ciò che segue. Ma il consenso precede l’atto compiuto. Pertanto, se negli animali irrazionali non esistesse alcun consenso, non ci sarebbero atti compiuti; il che è chiaramente falso.
+
+Obiezione 3: Inoltre, si dice talvolta che gli uomini acconsentano a fare qualcosa spinti da qualche passione, ad esempio dal desiderio o dall’[ira](/concepts/anger). Ma anche gli animali irrazionali agiscono guidati dalle passioni. Pertanto, anch’essi “acconsentono”.
+
+Al contrario, Damasceno afferma (De Fide Orthodossa ii, 22) che “dopo aver giudicato, l’uomo approva e accetta il giudizio del proprio consiglio, e questo viene chiamato ‘sentenza’, ovvero consenso”. Ma il consiglio non esiste negli animali irrazionali; pertanto, nemmeno il consenso esiste in loro.
+
+Rispondo che, in senso proprio, il consenso non esiste negli animali irrazionali. La ragione di ciò è che il consenso implica l’applicazione del movimento appetitivo verso qualcosa che deve essere compiuto. Ora, applicare il movimento appetitivo al compimento di un’azione spetta a colui che ha il potere di dirigere tale movimento; ad esempio, toccare una pietra è un’azione appropriata per un bastone, ma utilizzare quel bastone in modo che tocchi la pietra richiede chi possieda il potere di muoverlo. Gli animali irrazionali, invece, non dispongono del controllo su tale movimento; esso è infatti presente in loro attraverso istinti naturali. Pertanto, negli animali irrazionali esiste effettivamente il movimento appetitivo, ma essi non sono in grado di dirigerlo verso un oggetto specifico. Ecco perché non si può dire che gli animali irrazionali consenziscano: tale capacità appartiene soltanto alla natura razionale, che possiede il controllo sul movimento appetitivo e può decidere se applicarlo o meno a questo o quell’oggetto.
+
+Risposta all’Obiezione 1: Negli animali irrazionali, la determinazione dell’appetito verso una cosa specifica è puramente passiva; mentre il consenso implica una determinazione dell’appetito che è attiva, e non soltanto passiva.
+
+Risposta all’Obiezione 2: Se la prima premessa viene eliminata, allora anche ciò che ne consegue viene eliminato, a condizione che, per parlare correttamente, tale conseguenza derivi esclusivamente da quella premessa. Tuttavia, se qualcosa può derivare da più fattori, non viene cancellato semplicemente perché uno di essi viene rimosso; ad esempio, se la solidificazione è un effetto sia del calore che del freddo (poiché i mattoni si induriscono con il fuoco e l’acqua congelata si indurisce con il freddo), allora la rimozione del calore non implica necessariamente l’assenza di solidificazione. Inoltre, l’esecuzione di un atto deriva non solo dal consenso, ma anche dall’impulso degli appetiti, come avviene negli animali irrazionali.
+
+Risposta all’Obiezione 3: L’uomo che agisce spinto dalla passione è in grado di non seguire ciecamente quella passione; gli animali irrazionali, invece, non dispongono di tale capacità. Pertanto, il confronto non regge.
 
 <span class="atom-split" data-atom="058" data-title="Whether consent is directed to the end or to the means?" data-chapter="Whether consent is directed to the end or to the means?" data-kind="atom" data-srclang="en"></span>
 
@@ -2587,6 +3383,24 @@ after approving of many, we have given our preference to one by choosing it. But
 with approval, then consent and choice do not differ in reality, but only in our way of looking at
 them; so that we call it consent, according as we approve of doing that thing; but choice according
 as we prefer it to those that do not meet with our approval.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il consenso sia rivolto verso la fine. Infatti, ciò per cui una cosa è tale lo rende ancora di più tale. Ma è proprio per la fine che acconsentiamo agli strumenti necessari per raggiungerla. Pertanto, ancora di più dovremmo acconsentire alla fine stessa.
+
+Obiezione 2: Inoltre, l’atto dell’uomo intemperante è il suo stesso fine, proprio come l’atto dell’uomo virtuoso è il suo stesso fine. Ma l’uomo intemperante consente al proprio atto; pertanto, il consenso può essere rivolto verso quel fine.
+
+Obiezione 3: Inoltre, il desiderio dei mezzi costituisce una scelta, come già affermato sopra (Q[13], A[1]). Se quindi il consenso fosse rivolto esclusivamente ai mezzi, non differirebbe in alcun modo da una scelta. E ciò viene dimostrato essere falso attraverso l’autorità di Damasceno, il quale afferma (De Fide Orth. ii, 22) che “dopo l’approvazione”, che egli definisce “la sentenza”, “segue la scelta”. Pertanto, il consenso non è rivolto esclusivamente ai mezzi.
+
+Al contrario, Damasceno afferma (De Fide Orth. ii, 22) che il “consenso”, cioè l’approvazione di una decisione, ha luogo “quando un uomo accetta e adotta il parere del proprio consigliere”. Ma il consiglio riguarda soltanto i mezzi per raggiungere un obiettivo; pertanto lo stesso vale anche per il consenso.
+
+Rispondo che il consenso rappresenta l’applicazione del movimento appetitivo verso qualcosa che già si trova nel potere di colui che induce tale applicazione. L’ordine delle azioni è il seguente: innanzitutto vi è la percezione dell’obiettivo finale; poi il desiderio di raggiungerlo; successivamente viene presa in considerazione la scelta dei mezzi necessari per ottenerlo; infine si manifesta il desiderio di utilizzare tali mezzi. L’appetito tende naturalmente verso l’obiettivo finale; pertanto, l’applicazione del movimento appetitivo verso tale obiettivo non ha la natura di un consenso, ma di una semplice volontà. Tuttavia, per quanto riguarda quei mezzi che vengono presi in considerazione dopo aver individuato l’obiettivo finale, nella misura in cui sono direzionati verso questo obiettivo, essi rientrano nell’ambito delle riflessioni strategiche; quindi al consiglio può essere applicata anche la scelta dei mezzi, nella misura in cui il movimento appetitivo segue le indicazioni derivanti da tale consiglio. Ma il movimento appetitivo verso l’obiettivo finale non deriva direttamente dal consiglio; piuttosto è il consiglio a guidare tale movimento, poiché esso presuppone già il desiderio di raggiungere quell’obiettivo. D’altra parte, il desiderio dei mezzi necessari per realizzare l’obiettivo finale presuppone la decisione presa in base al consiglio. Pertanto, l’applicazione del movimento appetitivo alla decisione derivante dal consiglio costituisce propriamente il consenso. In conclusione, poiché il consiglio riguarda esclusivamente i mezzi, il consenso, nel senso proprio della parola, non riguarda altro che i mezzi stessi.
+
+Risposta all’Obiezione 1: Proprio come la conoscenza delle conclusioni attraverso i principi costituisce scienza, mentre la conoscenza dei principi stessi non è scienza, ma qualcosa di più elevato, ovvero comprensione; allo stesso modo, acconsentiamo ai mezzi in funzione dell’fine, e in questo contesto il nostro atto non è semplicemente consenso, ma qualcosa di ancora più significativo: volontà.
+
+Risposta all’Obiezione 2: È il piacere derivante dall’atto stesso, e non l’atto in sé, lo scopo principale dell’uomo intemperato; per il gusto di tale piacere, egli acconsente a compiere quell’atto.
+
+Risposta all’Obiezione 3: La scelta include qualcosa che il consenso non include, ovvero una certa relazione tra due alternative di cui una viene preferita all’altra; pertanto, anche dopo il consenso, rimane ancora la possibilità di scegliere. Può infatti accadere che, con l’aiuto di consulenza, vengano individuati diversi mezzi utili per raggiungere un certo scopo, e che ciascuno di essi venga approvato; in tal caso si dà il consenso a ciascuno di questi mezzi. Tuttavia, dopo aver approvato più opzioni, ne scegliamo una come preferibile alle altre. Se invece viene approvata soltanto un’opzione, allora consenso e scelta non differiscono nella realtà, ma solo nel modo in cui le consideriamo: chiamiamo “consenso” l’atto di approvare qualcosa, mentre “scelta” indica il fatto di preferire una determinata opzione rispetto alle altre.
 
 <span class="atom-split" data-atom="059" data-title="Whether consent to the act belongs only to the higher part of the soul?" data-chapter="Whether consent to the act belongs only to the higher part of the soul?" data-kind="atom" data-srclang="en"></span>
 
@@ -2641,6 +3455,30 @@ We must now consider use; concerning which there are four points of inquiry:
 (2) Whether it is to be found in irrational animals?
 (3) Whether it regards the means only, or the end also?
 (4) Of the relation of use to choice.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il consenso all’atto non appartenga sempre alla ragione superiore.  
+Infatti, “il piacere segue l’azione e la perfeziona, proprio come la [bellezza](/concepts/beauty) perfeziona la giovinezza” (*oion tois akmaiois he hora* – ovvero come la vigore giovanile perfeziona un uomo nel fiore degli anni) (Etica, x, 4). Tuttavia, il consenso al piacere appartiene alla ragione inferiore, come afferma [Agostino](/figures/augustine) (De Trinitate, xii, 12). Pertanto, il consenso all’atto non appartiene esclusivamente alla ragione superiore.
+
+Obiezione 2: Inoltre, un atto al quale diamo il nostro consenso viene definito volontario. Tuttavia, molte forze diverse sono in grado di generare atti volontari. Pertanto, non è solo la ragione superiore a dare il proprio consenso a tale atto.
+
+Obiezione 3: Inoltre, “la ragione superiore è quella che si dedica alla contemplazione e al riflessione sulle cose eterne”, come afferma Agostino (De Trinitate, xii, 7). Tuttavia, l’uomo spesso consente di compiere un atto non per motivi eterni, ma per ragioni temporali, o addirittura a causa di qualche passione dell’anima. Pertanto, il consenso verso un atto non appartiene esclusivamente alla ragione superiore.
+
+Al contrario, Agostino afferma (De Trinitate xii, 12): “È impossibile per l’uomo decidere di commettere un peccato, a meno che quella facoltà mentale che possiede il potere supremo di spingere i suoi membri ad agire o di impedirglielo non si arrenda al male e ne diventi schiava”.
+
+Rispondo che la decisione finale spetta a colui che occupa il posto più alto e al quale compete giudicare gli altri; poiché finché non sia stata emessa una sentenza su qualche questione, la decisione definitiva non è ancora stata presa. È evidente infatti che spetta alla ragione superiore giudicare su tutto: poiché è attraverso la ragione che giudichiamo le cose sensibili; e per quanto riguarda le questioni relative ai principi umani, giudichiamo in base ai principi divini, il che costituisce appunto la funzione della ragione superiore. Pertanto, finché una persona non è certa se debba opporsi o meno secondo i principi divini, nessuna decisione della ragione può essere considerata definitiva. Ora, la decisione finale su ciò che deve essere fatto consiste nell’approvare l’atto in questione; quindi l’approvazione dell’atto appartiene alla ragione superiore – ma in quel senso in cui la ragione include la volontà, come detto sopra (A[1], ad 1).
+
+Risposta all’Obiezione 1: Il consenso ad apprezzare il lavoro compiuto appartiene alla ragione superiore, così come il consenso al compimento stesso del lavoro; ma il consenso ad apprezzare i pensieri appartiene alla ragione inferiore, proprio come il pensiero stesso appartiene alla ragione inferiore. Tuttavia, la ragione superiore esercita il suo giudizio sul fatto di pensare o meno, considerato come un’azione; e allo stesso modo sul piacere che ne deriva. Ma in quanto l’atto di pensare sia considerato come destinato a un altro atto, esso appartiene alla ragione inferiore. Poiché ciò che è destinato a qualcos’altro appartiene a un’arte o a una forza inferiore rispetto allo scopo per cui è destinato; da qui deriva il fatto che l’arte che si occupa dello scopo stesso viene chiamata “arte principale” o “arte dominante”.
+
+Risposta all’Obiezione 2: Poiché le azioni vengono definite volontarie perché vi diamo il nostro consenso, ciò non significa che tale consenso sia un atto di ogni singola facoltà umana, ma piuttosto dell’intelletto, come già affermato in precedenza (A[1], ad 1); è proprio dall’intelletto che deriva il concetto stesso di atto volontario.
+
+Risposta all’Obiezione 3: Si dice che la ragione superiore consenti non solo perché spinge sempre all’azione, in conformità con le ragioni eterne; ma anche perché non si oppone mai, sulla base delle stesse ragioni. **Dell’uso, che è un atto della volontà riguardo ai mezzi (quattro articoli)**  
+Ora dobbiamo considerare l’uso; al riguardo vi sono quattro punti da esaminare:  
+(1) L’uso è davvero un atto della volontà?  
+(2) Esiste anche negli animali irrazionali?  
+(3) Riguarda soltanto i mezzi, o anche l’fine?  
+(4) Qual è la relazione tra l’uso e la scelta?
 
 <span class="atom-split" data-atom="060" data-title="Whether use is an act of the will?" data-chapter="Whether use is an act of the will?" data-kind="atom" data-srclang="en"></span>
 
@@ -2720,6 +3558,20 @@ reason; whereas to apprehend something absolutely is within the competency even 
 Reply to Objection 2: Animals by means of their members do something from natural instinct;
 not through knowing the relation of their members to these operations. Wherefore, properly speaking,
 they do not apply their members to action, nor do they use them.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’uso sia presente negli animali irrazionali. Infatti, è preferibile godere delle cose piuttosto che usarle, poiché, come afferma [Agostino](/figures/augustine) (De Trin. x, 10): “Usiamo le cose riferendole ad altro di cui possiamo godere”. Ma il godimento è proprio caratteristico degli animali irrazionali, come già detto sopra (Q[11], A[2]). Pertanto, è ancora più probabile che anche loro siano in grado di usare le cose.
+
+Obiezione 2: Inoltre, applicare gli organi del corpo all’azione significa utilizzarli. Gli animali irrazionali infatti utilizzano i propri organi per compiere determinate azioni: ad esempio, i loro piedi per camminare, le loro corna per colpire. Pertanto, è possibile che gli animali irrazionali utilizzino i propri organi in questo modo.
+
+Al contrario, Agostino afferma (QQ. 83, qu. 30): “Solo un animale razionale può fare uso di una cosa.”
+
+Rispondo che, come detto sopra (A[1]), “usare” significa applicare un principio attivo all’azione; quindi “consentire” significa applicare il movimento appetitivo al desiderio di qualcosa, come indicato in precedenza (Q[15], AA[1],2,3). Solo colui che possiede una cosa può applicarla a qualcos’altro; e ciò è possibile soltanto a chi sa come riferirla a un altro scopo, il che rappresenta un atto della ragione. Pertanto, solo l’animale razionale è in grado di consentire e di utilizzare le cose nel modo appropriato.
+
+Risposta all’Obiezione 1: Godere implica un movimento assoluto dell’appetito verso ciò che è desiderabile; invece utilizzare implica un movimento dell’appetito verso qualcosa che, in realtà, serve a raggiungere altro. Pertanto, se confrontiamo il godere e l’utilizzo in base ai loro oggetti, il godere è superiore all’utilizzo: ciò che è desiderabile in modo assoluto è infatti migliore di ciò che è desiderabile soltanto come mezzo per raggiungere altro. Tuttavia, se li confrontiamo in base alla capacità cognitiva che ne precede l’atto, l’utilizzo richiede una maggiore abilità: indirizzare qualcosa verso un altro obiettivo è infatti un atto razionale, mentre comprendere qualcosa in modo assoluto rientra nelle possibilità anche dei sensi.
+
+Risposta all’Obiezione 2: Gli animali, attraverso i loro membri, compiono certe azioni per istinto naturale; non perché comprendano la relazione tra i propri membri e tali azioni. Pertanto, in senso stretto, non applicano i propri membri all’azione, né li utilizzano consapevolmente.
 
 <span class="atom-split" data-atom="062" data-title="Whether use regards also the last end?" data-chapter="Whether use regards also the last end?" data-kind="atom" data-srclang="en"></span>
 
@@ -2812,6 +3664,24 @@ on one another, in each act of the will we can find both consent and choice and 
 say that the will consents to choose, and consents to consent, and uses itself in consenting and
 choosing. And such acts as are ordained to that which precedes, precede also.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’uso preceda la scelta. Infatti, dopo la scelta non segue nulla se non l’esecuzione; ma l’uso, essendo parte della volontà, precede l’esecuzione. Pertanto, anche l’uso precede la scelta.
+
+Obiezione 2: Inoltre, l’assoluto precede il relativo. Pertanto, ciò che è meno relativo precede ciò che è più relativo. Tuttavia, la scelta implica due tipi di relazione: una riguardante l’oggetto scelto in rapporto al fine per cui viene utilizzato; l’altra riguardante l’oggetto scelto rispetto a ciò che viene preferito rispetto ad esso; mentre l’uso implica soltanto una relazione con il fine. Pertanto, l’uso precede la scelta.
+
+Obiezione 3: Inoltre, la volontà utilizza le altre facoltà nella misura in cui le elimina. Ma la volontà si muove anche essa, come detto sopra (Q[9], A[3]). Pertanto, se ne serve applicandola all’azione. E ciò avviene quando consente; quindi nel consenso c’è un atto di utilizzo delle altre facoltà. Ma il consenso precede la scelta, come affermato sopra (Q[15], A[3], ad 3). Quindi anche l’utilizzo delle altre facoltà avviene prima della scelta.
+
+Al contrario, Damasceno afferma (De Fide Orthodossa ii, 22) che “la volontà, dopo aver fatto una scelta, riceve un impulso che la spinge all’azione; successivamente utilizza le proprie facoltà”. Pertanto, l’uso delle facoltà segue la scelta effettuata.
+
+Rispondo che la volontà ha un doppio rapporto con l’oggetto voluto. Da un lato, tale oggetto è, in qualche modo, presente nel soggetto che lo vuole, attraverso una sorta di proporzione o ordine tra il soggetto stesso e l’oggetto voluto. Pertanto, quegli oggetti che sono naturalmente proporzionati a un certo fine vengono considerati come desiderosi di tale fine in modo naturale; tuttavia, possedere un fine in questo modo significa possederlo in modo imperfetto. Ora, ogni cosa imperfetta tende alla perfezione; quindi sia il desiderio naturale che quello volontario tendono a realizzare l’oggetto voluto nella sua forma perfetta. Questo costituisce il secondo rapporto tra la volontà e l’oggetto voluto. Dall’altro lato, l’oggetto voluto non è soltanto il fine, ma anche i mezzi per raggiungerlo. L’atto finale che rientra nel primo rapporto tra la volontà e i mezzi è la scelta: in questo caso, la volontà diventa pienamente proporzionata agli scopi desiderati, volendo appieno quei mezzi necessari per raggiungerli. L’uso, invece, rientra nel secondo rapporto tra la volontà e l’oggetto voluto; in questo caso, la volontà tende alla realizzazione concreta di tale oggetto. È evidente quindi che l’uso segue la scelta, purché per “uso” si intenda l’utilizzo del potere esecutivo della volontà al fine di attuare i propri propositi. Tuttavia, poiché la volontà, in qualche modo, influenza anche la ragione e la utilizza, possiamo considerare l’uso dei mezzi come il risultato di una riflessione razionale che collega tali mezzi al fine desiderato. In questo senso, l’uso precede la scelta.
+
+Risposta all’Obiezione 1: Il movimento della volontà verso l’esecuzione dell’azione precede l’esecuzione stessa, ma segue la scelta. Poiché l’uso appartiene proprio a quel movimento della volontà, esso si colloca quindi tra la scelta e l’esecuzione.
+
+Risposta all’Obiezione 2: Ciò che è essenzialmente relativo segue sempre l’assoluto; tuttavia, la cosa a cui si riferisce tale relazione non necessariamente deve seguirne il corso. Anzi, più una causa precede nel tempo, maggiori saranno gli effetti a cui essa è correlata.
+
+Risposta all’Obiezione 3: La scelta precede l’uso, quando entrambi si riferiscono allo stesso oggetto. Tuttavia nulla impedisce che l’uso di una cosa avvenga prima della scelta di un’altra. Poiché gli atti della volontà agiscono reciprocamente tra loro, in ogni atto della volontà possiamo trovare sia il consenso che la scelta, nonché l’uso; quindi possiamo dire che la volontà consente di scegliere, consente di accordarsi su una scelta e si utilizza stessa nel processo di consenso e scelta. Inoltre, gli atti che sono destinati a precedere un altro atto, precedono anch’essi tale atto.
+
 <span class="atom-split" data-atom="064" data-title="OF THE ACTS COMMANDED BY THE WILL (NINE ARTICLES)" data-chapter="OF THE ACTS COMMANDED BY THE WILL (NINE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the acts commanded by the will; under which head there are nine points
@@ -2825,6 +3695,19 @@ of inquiry:
 (7) Whether the act of the sensitive appetite is commanded?
 (8) Whether the act of the vegetal soul is commanded?
 (9) Whether the acts of the external members are commanded?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare gli atti comandati dalla volontà; in questa categoria esistono nove punti di indagine:  
+(1) Se il comando sia un atto della volontà o della ragione.  
+(2) Se il comando appartenga anche agli animali irrazionali.  
+(3) Qual è l’ordine tra il comando e l’esecuzione dell’atto comandato.  
+(4) Se il comando e l’atto stesso siano un unico atto o distinti.  
+(5) Se anche l’atto della volontà sia soggetto a comando.  
+(6) Se anche l’atto della ragione sia soggetto a comando.  
+(7) Se anche l’atto dell’appetito sensibile sia soggetto a comando.  
+(8) Se anche l’atto dell’anima vegetativa sia soggetto a comando.  
+(9) Se anche gli atti dei membri esterni del corpo siano soggetti a comando.
 
 <span class="atom-split" data-atom="065" data-title="Whether command is an act of the reason or of the will?" data-chapter="Whether command is an act of the reason or of the will?" data-kind="atom" data-srclang="en"></span>
 
@@ -2877,6 +3760,24 @@ arising from reason," implying that reason is the root of liberty.
 Reply to Objection 3: This argument proves that command is an act of reason not absolutely,
 but with a kind of motion as stated above.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il comandare non sia un atto della ragione, ma della volontà. Infatti, il comandare rappresenta un tipo di azione che induce ad agire; Avicenna, infatti, afferma che esistano quattro modi per indurre qualcuno ad agire: “perfezionando, predisponendo, comandando e consigliando”. Tuttavia, spetta alla volontà influenzare tutte le altre facoltà dell’anima, come già detto in precedenza (Q[9], A[1]). Pertanto, il comandare è un atto della volontà.
+
+Obiezione 2: Inoltre, proprio come essere comandati appartiene a ciò che è soggetto, allo stesso modo sembrerebbe che comandare appartenga a ciò che è più libero. Ma la radice della libertà risiede soprattutto nella volontà. Pertanto, comandare appartiene alla volontà.
+
+Obiezione 3: Inoltre, l’ordine viene immediatamente seguito dall’azione. Ma l’azione della ragione non è immediatamente seguita da un’altra azione: infatti colui che giudica che qualcosa debba essere fatto non lo fa subito. Pertanto, l’ordine non è un atto della ragione, ma della volontà.
+
+Al contrario, Gregorio di Nissa [*Nemesio, De Nat. Hom. xvi.] e il Filosofo (*Etica*, I, 13) affermano che “l’appetito obbedisce alla ragione”. Pertanto, l’ordine o il comando rappresentano un atto della ragione stessa.
+
+Rispondo che il comando è essenzialmente un atto della ragione; tuttavia, esso presuppone necessariamente un atto della volontà. A dimostrazione di ciò, bisogna notare che, poiché gli atti della ragione e quelli della volontà possono influenzarsi a vicenda – nella misura in cui la ragione ragiona su ciò che la volontà desidera fare, e la volontà decide di agire sulla base delle considerazioni fornite dalla ragione – ne consegue che l’atto della ragione precede necessariamente quello della volontà, e viceversa. Inoltre, poiché il potere dell’atto precedente si prolunga nell’atto successivo, talvolta può verificarsi che vi sia un atto della volontà nel momento in cui essa conserva in sé qualcosa dell’atto della ragione; come abbiamo già osservato a proposito dell’uso e della scelta. Allo stesso modo, può esserci un atto della ragione quando questa conserva in sé elementi derivanti da un atto della volontà. Ora, il comando è effettivamente un atto della ragione: il comandante infatti ordina a colui che deve obbedire di compiere qualcosa, attraverso un’indicazione o una dichiarazione; e ordinare in questo modo rappresenta senz’altro un atto della ragione. La ragione può però esprimere tali ordini in due modi: in modo assoluto, utilizzando verbi al modo indicativo (“Questo è ciò che devi fare”); oppure in modo imperativo, utilizzando verbi all’imperativo (“Fai questo”). Tra le facoltà dell’anima, quella che spinge effettivamente all’azione è la volontà; pertanto, poiché l’atto di comando della ragione può avvenire soltanto grazie alla forza della volontà, ne consegue che il comando sia davvero un atto della ragione che presuppone necessariamente un atto della volontà. La ragione, infatti, attraverso il proprio comando, stimola la volontà ad agire.
+
+Risposta all’Obiezione 1: Comandare significa muovere qualcuno, non in qualsiasi modo, ma indicando e dichiarando chiaramente a un altro cosa deve essere fatto; ed è questo un atto della ragione.
+
+Risposta all’Obiezione 2: La radice della libertà è la volontà, in quanto sua soggetto; ma la causa della libertà è la ragione. Infatti, la volontà può tendere liberamente verso vari obiettivi, proprio perché la ragione può avere diverse percezioni del bene. Per questo motivo i filosofi definiscono la volontà libera come “un giudizio libero che deriva dalla ragione”, il che implica che la ragione sia effettivamente la radice della libertà.
+
+Risposta all’Obiezione 3: Questo argomento dimostra che il comandare è un atto della ragione, non assolutamente, ma accompagnato da una sorta di spinta o mozione, come già descritto in precedenza.
+
 <span class="atom-split" data-atom="066" data-title="Whether command belongs to irrational animals?" data-chapter="Whether command belongs to irrational animals?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that command belongs to irrational animals. Because, according
@@ -2914,6 +3815,24 @@ On the other hand, the impulse of the irrational animal arises from natural inst
 as they apprehend the fitting or the unfitting, their appetite is moved naturally to pursue or to avoid.
 Wherefore they are directed by another to act; and they themselves do not direct themselves to act.
 Consequently in them is impulse but not command.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il potere di comandare appartenga agli animali irrazionali. Infatti, secondo Avicenna, “il potere che comanda il movimento è l’appetito; mentre il potere che esegue il movimento si trova nei muscoli e nei nervi”. Ma entrambi questi poteri sono presenti negli animali irrazionali. Pertanto, anche il potere di comandare deve essere presente negli animali irrazionali.
+
+Obiezione 2: Inoltre, lo stato di uno schiavo è quello di colui che riceve ordini. Il corpo, infatti, viene paragonato all’anima come uno schiavo al suo padrone, come afferma il Filosofo (Politica, I, 2). Pertanto, anche negli animali irrazionali il corpo è soggetto agli ordini dell’anima, poiché anch’essi sono composti da anima e corpo.
+
+Obiezione 3: Inoltre, attraverso il comando, l’uomo riceve un impulso ad agire. Ma tale impulso ad agire si riscontra anche negli animali irrazionali, come afferma Damasceno (De Fide Orthodossa ii, 22). Pertanto, anche gli animali irrazionali sono soggetti ai comandi.
+
+Al contrario, il comandare è un atto di ragione, come già detto sopra (A[1]). Tuttavia negli animali irrazionali non esiste ragione; pertanto, nemmeno il comandare esiste.
+
+Rispondo che comandare non è altro che indirizzare qualcuno a compiere un certo atto, attraverso un determinato segnale o gesto indicativo. Ora, dirigere rappresenta l’atto proprio della ragione; pertanto è impossibile che gli animali irrazionali possano comandare in alcun modo, poiché sono privi di ragione.
+
+Risposta all’Obiezione 1: Si dice che la potenza appetitiva comandi il movimento, nel senso in cui spinge la ragione che dà tali ordini. Ma ciò vale soltanto nell’uomo. Negli animali irrazionali, la potenza appetitiva non è, propriamente parlando, una facoltà dirigente; a meno che il termine “comando” non venga inteso in senso lato, come indicazione di movimento.
+
+Risposta all’Obiezione 2: Il corpo dell’animale irrazionale è in grado di obbedire; ma la sua anima non è in grado di comandare, poiché non è nemmeno in grado di guidare. Di conseguenza, non esiste alcuna relazione di comandante e comandato; esiste soltanto una relazione di motore e mosso.
+
+Risposta all’Obiezione 3: L’impulso all’azione è presente negli animali irrazionali, ma non nell’uomo. Infatti, l’impulso umano all’azione deriva dalla ragione; per questo motivo, tale impulso ha natura di comando. Al contrario, l’impulso degli animali irrazionali scaturisce dall’istinto naturale: non appena questi comprendono ciò che è appropriato o inappropriato, il loro desiderio li spinge naturalmente a cercare di ottenere l’uno o evitarne l’altro. Pertanto, sono gli altri ad indirizzarli all’azione, e non essi stessi. Di conseguenza, negli animali irrazionali esiste soltanto impulso, ma non comando.
 
 <span class="atom-split" data-atom="067" data-title="Whether use precedes command?" data-chapter="Whether use precedes command?" data-kind="atom" data-srclang="en"></span>
 
@@ -2956,6 +3875,24 @@ precedes, rather than that it follows use.
 Reply to Objection 3: Just as the act of the will in using the reason for the purpose of command,
 precedes the command; so also we may say that this act whereby the will uses the reason, is preceded
 by a command of reason; since the acts of these powers react on one another.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’uso preceda il comando. Infatti, il comando è un atto della ragione che presuppone un atto della volontà, come detto sopra (A[1]). Ma, come abbiamo già dimostrato (Q[16], A[1]), l’uso è anch’esso un atto della volontà. Pertanto, l’uso precede il comando.
+
+Obiezione 2: Inoltre, il comando rientra tra quelle cose che sono destinate a un fine specifico; allo stesso modo, anche l’uso rientra tra queste cose. Pertanto, sembrerebbe che l’uso preceda il comando.
+
+Obiezione 3: Inoltre, ogni atto di una facoltà guidata dalla volontà viene definito “uso”; poiché la volontà utilizza le altre facoltà, come detto sopra (Q[16], A[1]). Ma il comando è un atto della ragione guidata dalla volontà, come anch’esso detto sopra (A[1]). Pertanto, il comando rappresenta una forma di uso. Ora, il generale precede il particolare; quindi anche l’uso precede il comando.
+
+Al contrario, Damasceno afferma (De Fide Orthodossa ii, 22) che l’impulso all’azione precede l’attuazione stessa. Tuttavia, tale impulso viene fornito dall’ordine; pertanto, l’ordine precede l’atto concreto.
+
+Rispondo che l’uso di ciò che è destinato a un fine, nella misura in cui tale uso sia guidato dalla ragione che collega l’oggetto all’obiettivo desiderato, precede la scelta stessa, come già detto sopra (Q[16], A[4]). Pertanto, ancora di più, precede l’ordine impartito. D’altra parte, l’uso di ciò che è destinato a un fine, nella misura in cui dipende dal potere esecutivo, segue l’ordine stesso; infatti, nell’utente, l’uso dell’oggetto si fonde con l’atto effettivamente compiuto con quell’oggetto; non si usa infatti un bastone prima di utilizzarlo per compiere qualche azione. Ma l’ordine impartito non è simultaneo all’atto che esso prescrive: naturalmente precede la sua attuazione, talvolta anche in termini temporali. Ne consegue quindi chiaramente che l’ordine precede l’uso.
+
+Risposta all’Obiezione 1: Non ogni atto della volontà precede quell’atto della ragione che costituisce un comando; tuttavia, un atto della volontà precede l’atto di scelta, mentre un altro atto della volontà segue l’esecuzione di tale scelta. Infatti, dopo la decisione presa dalla ragione, la volontà effettua la scelta; successivamente, la ragione impartisce il comando affinché quella forza che è stata incaricata di agire esegua quanto scelto; infine, la volontà dell’individuo inizia ad attuare tale comando. A volte si tratta della volontà di un altro quando una persona comanda un’altra; altre volte, è la stessa volontà di chi comanda a imporre l’esecuzione di un determinato atto su se stesso.
+
+Risposta all’Obiezione 2: Proprio come l’atto precede il potere, allo stesso modo l’oggetto precede l’atto. L’oggetto dell’uso è ciò che è diretto verso un fine specifico; pertanto, il comando precede l’uso, e non ne deriva.
+
+Risposta all’Obiezione 3: Proprio come l’atto della volontà che utilizza la ragione al fine di emettere un comando precede tale comando, si può dire anche che l’atto attraverso il quale la volontà impiega la ragione sia preceduto da un “comando” della ragione stessa; poiché gli atti di queste facoltà agiscono reciprocamente l’uno sull’altro.
 
 <span class="atom-split" data-atom="068" data-title="Whether command and the commanded act are one act, or distinct?" data-chapter="Whether command and the commanded act are one act, or distinct?" data-kind="atom" data-srclang="en"></span>
 
@@ -3007,6 +3944,24 @@ one another, and yet they form one whole.
 Reply to Objection 3: In those things that are many in parts, but one as a whole, nothing hinders
 one part from preceding another. Thus the soul, in a way, precedes the body; and the heart, the
 other members.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’atto comandato non sia lo stesso della comanda stessa. Infatti, gli atti eseguiti da poteri diversi sono per loro natura distinti. Tuttavia, l’atto comandato appartiene a un certo potere, mentre la comanda stessa appartiene a un altro potere; poiché uno è il potere che comanda e l’altro è il potere che riceve la comanda. Pertanto, l’atto comandato non è lo stesso della comanda stessa.
+
+Obiezione 2: Inoltre, tutte le cose che possono essere separate l’una dall’altra sono distinte; infatti nulla viene separato da se stesso. Tuttavia, a volte l’atto che viene comandato è separato dal comando stesso: spesso il comando viene dato, ma l’atto richiesto non segue immediatamente. Pertanto, il comando rappresenta un atto distinto dall’atto che viene ordinato di compiere.
+
+Obiezione 3: Inoltre, tutte le cose che sono collegate tra loro come antecedente e conseguente sono distinte. Ma il comando precede naturalmente l’atto che ne deriva; pertanto, anch’essi sono distinti.
+
+Al contrario, il Filosofo afferma (Tema iii, 2) che “laddove una cosa esiste in virtù di un’altra, ne esiste soltanto una”. Ma non esiste alcun atto che possa essere compiuto se non per motivi legati a un comando. Pertanto, tali atti sono considerati “uno” nel loro insieme.
+
+Rispondo che nulla impedisce che alcune cose siano distinte in un certo rispetto e in un altro diverso. Infatti, ogni molteplicità è una in qualche modo, come afferma Dionigius nel “Divino Nomenclatore” XIII. Tuttavia, si osserva una differenza: alcune cose sono semplicemente molteplici, ma una in un aspetto specifico; altre invece sono il contrario. Il termine “una” viene usato nello stesso modo del termine “essere”. La sostanza è essere nel senso più stretto, mentre l’accidente o l’essere “di ragione” è essere soltanto in un certo rispetto. Pertanto, quelle cose che sono una in sostanza lo sono semplicemente, anche se molteplici in alcuni aspetti. Ad esempio, nel genere “sostanza”, il tutto composto dalle sue parti integrali o essenziali è uno semplicemente, poiché il tutto è essere e sostanza nel senso stretto, mentre le parti sono essere e sostanze all’interno del tutto stesso. Tuttavia, quelle cose che sono distinte in sostanza, ma una in base a un accidente, lo sono semplicemente in sé stesse, ma uno in un certo rispetto: ad esempio, molti uomini costituiscono un popolo, e molte pietre formano un mucchio; questa è un’unione di composizione o di ordine. Allo stesso modo, molti individui che sono uno nel genere o nella specie sono molti semplicemente, ma uno in un certo rispetto: poiché essere uno nel genere o nella specie significa essere uno secondo il concetto razionale che li caratterizza. Proprio come nel genere delle cose naturali, un tutto è composto da materia e forma (ad esempio, l’uomo, che è un essere naturale, anche se composto da molte parti, è formato da anima e corpo), allo stesso modo, negli atti umani, l’atto di una potenza inferiore ha il ruolo della materia rispetto all’atto di una potenza superiore, nella misura in cui la potenza inferiore agisce sotto l’influenza della potenza superiore che la muove; così come l’atto del primo motore è paragonabile alla forma rispetto all’atto del suo strumento. È evidente quindi che il comando e l’atto eseguito sono un unico atto umano, proprio come un tutto è uno, ma nelle sue parti è molteplice.
+
+Risposta all’Obiezione 1: Se le diverse facoltà non sono destinate l’una all’altra, i loro atti sono semplicemente diversi. Ma quando una facoltà è la causa che muove un’altra, allora i loro atti sono, in qualche modo, uno stesso: poiché “l’atto del motore e l’atto della cosa mossa costituiscono un unico atto” (Fisica, iii, 3).
+
+Risposta all’Obiezione 2: Il fatto che il comando e l’atto comandato possano essere separati l’uno dall’altro dimostra che sono parti diverse. Poiché le parti di un uomo possono essere separate tra loro, eppure formano un tutto.
+
+Risposta all’Obiezione 3: Nelle cose che sono molteplici nelle loro parti, ma uniche nel loro insieme, nulla impedisce che una parte preceda un’altra. Così, in un certo senso, l’anima precede il corpo; e il cuore, gli altri organi del corpo stesso.
 
 <span class="atom-split" data-atom="069" data-title="Whether the act of the will is commanded?" data-chapter="Whether the act of the will is commanded?" data-kind="atom" data-srclang="en"></span>
 
@@ -3095,6 +4050,23 @@ nothing prevents the reason from participating in itself: thus the knowledge of 
 participated in the knowledge of the conclusions.
 The reply to the third object is evident from what has been said.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’atto della ragione non possa essere comandato. Infatti, pare impossibile che una cosa comandi se stessa. Ma è proprio la ragione a comandare, come detto sopra (A[1]). Pertanto, l’atto della ragione non può essere comandato.
+
+Obiezione 2: Inoltre, ciò che è essenziale è diverso da ciò che è derivato per partecipazione.  
+Ma la potenza la cui azione è comandata dalla ragione è razionale per partecipazione, come affermato nell’Etica, i, 13. Pertanto, l’azione di quella potenza, che è essenzialmente razionale, non viene comandata.
+
+Obiezione 3: Inoltre, quell’atto è comandato e rientra nelle nostre possibilità. Ma conoscere e giudicare la verità, che è un atto della ragione, non sempre è nelle nostre possibilità. Pertanto, l’atto della ragione non può essere comandato.
+
+Al contrario, ciò che facciamo per libera volontà può essere compiuto anche su comando. Tuttavia, gli atti della ragione avvengono attraverso la libera volontà: infatti Damasceno afferma (De Fide Orth. ii, 22) che “con la sua libera volontà l’uomo indaga, riflette, giudica, approva”. Pertanto, gli atti della ragione possono essere comandati.
+
+Rispondo che, poiché la ragione agisce su se stessa, proprio come dirige le azioni delle altre facoltà mentali, può anche dirigere la propria azione. Pertanto, la sua azione può essere comandata. Tuttavia, dobbiamo notare che l’azione della ragione può essere considerata in due modi: da un lato, in relazione all’esercizio stesso di tale azione; in questo caso, l’azione della ragione può sempre essere comandata, come quando ci si dice di prestare attenzione e di utilizzare la propria ragione. Dall’altro lato, in relazione all’oggetto su cui essa agisce; in questo contesto, si distinguono due tipi di azioni della ragione: una è quella mediante la quale la ragione comprende la verità su qualcosa; questa azione non dipende da noi, poiché avviene grazie a una luce naturale o soprannaturale. Pertanto, in questo senso, l’azione della ragione non è sotto il nostro controllo e non può essere comandata. L’altra azione della ragione è quella mediante la quale essa accetta ciò che ha compreso; se ciò che la ragione comprende è tale da indurla naturalmente ad accettarlo – ad esempio, i principi primi – allora non dipende da noi accettare o rifiutare tale verità: l’assenso segue naturalmente, e quindi, in senso stretto, non è soggetto al nostro controllo. Tuttavia, alcune cose comprese dalla ragione non la convincono a tal punto da lasciarla libera di accettarle o rifiutarle, oppure almeno di sospendere il proprio assenso per qualche motivo; in tali casi, l’assenso o il rifiuto dipendono da noi e sono soggetti al nostro controllo.
+
+Risposta all’Obiezione 1: La ragione si comanda da sé stessa, proprio come la volontà si muove da sé stessa, come detto sopra (Q[9], A[3]); in altre parole, nella misura in cui ciascuna facoltà reagisce sui propri atti e tende da una cosa all’altra.
+
+Risposta all’Obiezione 2: A causa della diversità degli oggetti soggetti all’azione della ragione, nulla impedisce alla ragione di “partecipare” a se stessa; pertanto la conoscenza dei principi è parte integrante della conoscenza delle conclusioni. La risposta alla terza obiezione risulta evidente da quanto detto finora.
+
 <span class="atom-split" data-atom="071" data-title="Whether the act of the sensitive appetite is commanded?" data-chapter="Whether the act of the sensitive appetite is commanded?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the act of the sensitive appetite is not commanded. For the
@@ -3162,6 +4134,24 @@ or weakness of the imaginative power. For that man is unable to imagine the thin
 considers, is either because they cannot be imagined, such as incorporeal things; or because of the
 weakness of the imaginative power, due to some organic indisposition.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’atto dell’appetito sensibile non sia soggetto al nostro controllo volontario. Infatti, l’Apostolo dice (Romani 7:15): “Poiché non faccio ciò che è buono”; e un commento spiega questo dicendo che l’uomo desidera qualcosa, anche se non vuole desiderarlo. Ma desiderare è un atto dell’appetito sensibile. Pertanto, l’atto dell’appetito sensibile non è soggetto al nostro comando volontario.
+
+Obiezione 2: Inoltre, la materia corporea obbedisce soltanto a Dio, e ciò comporta una trasformazione formale della stessa, come dimostrato nelle opere di Filosofo Nobile, Q[65], A[4]; FP, Q[91], A[2]; FP, Q[110], A[2]. Tuttavia, l’atto dell’appetito sensibile è accompagnato da una trasformazione formale del corpo, che si manifesta sotto forma di calore o freddo. Pertanto, l’atto dell’appetito sensibile non è soggetto al comando umano.
+
+Obiezione 3: Inoltre, il vero principio motivazionale dell’appetito sensibile è qualcosa che può essere percepito attraverso i sensi o l’immaginazione. Tuttavia, non è sempre in nostro potere percepire qualcosa con i sensi o l’immaginazione. Pertanto, l’atto dell’appetito sensibile non è soggetto al nostro controllo.
+
+Al contrario, Gregorio di Nissa [*Nemesio, De Nat. Hom. xvi.] afferma: “Ciò che obbedisce alla ragione è duplice: il desiderabile e l’irascibile”, entrambi appartenenti all’appetito sensibile. Pertanto, l’atto dell’appetito sensibile è soggetto al comando della ragione.
+
+Rispondo che un atto è soggetto al nostro comando nella misura in cui rientra nelle nostre possibilità, come già detto sopra ([A[5). Pertanto, per comprendere in quale modo l’atto dell’appetito sensibile sia soggetto al comando della ragione, dobbiamo considerare in che modo tale atto rientri nelle nostre possibilità. Ora è necessario osservare che l’appetito sensibile si distingue dall’appetito intellettivo, chiamato volontà, nel fatto che il primo è una facoltà di un organo corporeo, mentre la seconda non lo è. Inoltre, ogni atto di una facoltà che utilizza un organo corporeo dipende non solo da una facoltà dell’anima, ma anche dalla condizione di tale organo corporeo: ad esempio, l’atto della vista dipende dalla facoltà visiva e dalle condizioni degli occhi, le quali possono facilitare o ostacolare tale atto. Di conseguenza, anche l’atto dell’appetito sensibile dipende non solo dalla facoltà appetitiva, ma anche dalla condizione del corpo. Ora, qualsiasi ruolo la facoltà dell’anima svolga nell’esecuzione di un atto, tale ruolo è sempre legato all’intuizione. L’intuizione dell’immaginazione, essendo un tipo particolare di intuizione, è regolata dall’intuizione razionale, che è di natura universale; proprio come una facoltà attiva particolare è regolata da una facoltà attiva universale. Pertanto, in questo senso, l’atto dell’appetito sensibile è soggetto al comando della ragione. D’altra parte, la condizione del corpo non è soggetta al comando della ragione; quindi, in questo aspetto, il funzionamento dell’appetito sensibile può essere ostacolato dal fatto di non essere completamente controllato dalla ragione. Inoltre, a volte il funzionamento dell’appetito sensibile viene scatenato improvvisamente a seguito di un’immaginazione sensoriale; in tali casi, tale attività avviene senza il comando della ragione, anche se questa avrebbe potuto impedirla se l’avesse prevista. Per questo motivo il Filosofo afferma (Politica I, 2) che la ragione governa le facoltà irascibile e concupiscibile non con un “dominio dispotico”, simile a quello di un padrone su uno schiavo, ma con un “dominio politico e regale”, tale da guidare individui liberi che non sono completamente soggetti al comando altrui.
+
+Risposta all’Obiezione 1: Il fatto che un uomo desideri qualcosa, anche se non vuole farlo, è dovuto a una disposizione del corpo che impedisce al desiderio sensuale di obbedire perfettamente agli ordini della ragione. Per questo motivo l’Apostolo aggiunge (Romani 7:15): “Vedo un altro legge dentro di me che si oppone alla legge della mia mente”. Ciò può anche verificarsi a causa di un improvviso impulso di concupiscenza, come già detto in precedenza.
+
+Risposta all’Obiezione 2: Lo stato del corpo è legato in modo duplice all’atto dell’appetito sensibile. In primo luogo, come condizione che lo precede: un uomo può essere predisposto, riguardo al proprio corpo, a questa o quella passione. In secondo luogo, come conseguenza di tale stato: un uomo si eccita a causa della [ira](/concepts/anger). Ora, la condizione che precede non è soggetta al comando della ragione; poiché deriva o dalla natura stessa o da qualche movimento precedente che non può cessare immediatamente. La condizione che ne consegue, invece, segue il comando della ragione; poiché scaturisce dal movimento locale del cuore, il quale subisce variazioni in base ai diversi atti dell’appetito sensibile.
+
+Risposta all’Obiezione 3: Poiché ciò che è percepibile dai sensi esterni è necessario per la loro funzione di percezione, non è in nostro potere comprendere nulla attraverso i sensi, a meno che tale elemento percettibile non sia effettivamente presente; ma questa presenza non è sempre sotto il nostro controllo. Infatti, l’uomo può utilizzare i propri sensi quando lo desidera, a condizione che non vi siano ostacoli da parte degli organi di percezione. D’altra parte, la capacità di immaginare è soggetta all’ordine impartito dalla ragione, in proporzione alla forza o alla debolezza della propria facoltà immaginativa. Un uomo, infatti, non è in grado di immaginare ciò che la ragione considera impossibile da percepire – come le cose incorporee – oppure lo fa a causa della debolezza della propria capacità immaginativa, dovuta a qualche disturbo fisico.
+
 <span class="atom-split" data-atom="072" data-title="Whether the act of the vegetal soul is commanded?" data-chapter="Whether the act of the vegetal soul is commanded?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the acts of the vegetal soul are subject to the command of
@@ -3205,6 +4195,24 @@ the nutritive and generative power, i.e. digestion, and formation of the human b
 the acts of the sensitive part, that are ordained to the acts of generation and nutrition; for example
 the desire for pleasure in the act of taking food or in the act of generation, and the right or wrong
 use thereof.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli atti dell’anima vegetativa siano soggetti al comando della ragione. Infatti, le facoltà sensitive hanno un rango più elevato rispetto alle facoltà vegetative; e poiché le facoltà sensitive sono soggette al comando della ragione, molto di più lo devono essere le facoltà vegetative.
+
+Obiezione 2: Inoltre, l’uomo è chiamato “piccolo mondo” [*[Aristotele](/figures/aristotle), Fisica viii. 2, perché l’anima si trova nel corpo, così come Dio si trova nel mondo. Ma Dio è nel mondo in modo tale che tutto ciò che esiste nel mondo obbedisce al Suo comando. Pertanto, tutto ciò che è nell’uomo, anche le facoltà dell’anima vegetativa, obbediscono al comando della ragione.
+
+Obiezione 3: Inoltre, lode e biasimo vengono attribuiti soltanto a quegli atti che sono soggetti al comando della ragione. Ma negli atti legati alle funzioni nutritive e generative esiste spazio per lode e biasimo, virtù e vizio: come nel caso della gola e della lussuria, nonché delle loro contrarie virtù. Pertanto, anche gli atti legati a queste funzioni sono soggetti al comando della ragione.
+
+Al contrario, Gregorio di Nissa [*Nemesio, De Nat. Hom. xxii.] afferma che “la forza nutritiva e generativa è una di quelle su cui la ragione non ha alcun controllo”.
+
+Rispondo che alcuni atti derivano dall’appetito naturale, altri dall’appetito animale o da quello intellettuale: infatti ogni agente desidera in qualche modo raggiungere un fine. L’appetito naturale, però, non deriva da alcuna comprensione concettuale, a differenza dell’appetito animale e di quello intellettuale. La ragione, invece, comanda attraverso il potere conoscitivo; pertanto gli atti che derivano dall’appetito intellettivo o animale possono essere guidati dalla ragione, mentre quelli che derivano dall’appetito naturale no. Appartengono a questa categoria gli atti dell’anima vegetativa; per questo Gregorio di Nissa (Nemesio, De Nat. Hom. xxii) afferma che “la generazione e la nutrizione fanno parte delle cosiddette forze naturali”. Di conseguenza, gli atti dell’anima vegetativa non sono soggetti al comando della ragione.
+
+Risposta all’Obiezione 1: Più un atto è irrilevante, più nobile è, e più è soggetto al comando della ragione. Pertanto, il semplice fatto che gli atti dell’anima vegetale non obbediscano alla ragione dimostra che occupano il livello più basso nella gerarchia delle azioni umane.
+
+Risposta all’Obiezione 2: Il confronto è valido in un certo senso: infatti, proprio come Dio muove il mondo, così l’anima muove il corpo. Tuttavia, non è valido in ogni aspetto: l’anima, infatti, non ha creato il corpo dal nulla, come ha fatto Dio con il mondo; per questo motivo, il mondo è interamente soggetto al Suo comando.
+
+Risposta all’Obiezione 3: La virtù e il vizio, la lode e il biasimo non influenzano direttamente gli atti stessi del potere nutritivo e generativo, cioè il processo di digestione e la formazione del corpo umano; ma influenzano gli atti della parte sensitiva dell’uomo, quelli che sono destinati alle funzioni di generazione e nutrizione. Ad esempio, il desiderio di piacere nell’atto di mangiare o nell’atto di procreare, nonché l’uso corretto o errato di tali atti.
 
 <span class="atom-split" data-atom="073" data-title="Whether the acts of the external members are commanded?" data-chapter="Whether the acts of the external members are commanded?" data-kind="atom" data-srclang="en"></span>
 
@@ -3270,6 +4278,25 @@ the principle of the senses; and from the organ of generation proceeds the semin
 virtually the entire animal. Consequently they have their proper movements naturally: because
 principles must needs be natural, as stated above (Reply OBJ 2).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i membri del corpo non obbediscano alla ragione nei loro atti. Infatti è evidente che i membri del corpo siano più lontani dalla ragione rispetto alle facoltà dell’anima vegetativa; ma le facoltà dell’anima vegetativa, come già detto (A[8]), non obbediscono alla ragione. Pertanto, con ancora meno motivo, i membri del corpo dovrebbero obbedirle.
+
+Obiezione 2: Inoltre, il cuore è il principio del movimento animale. Ma il movimento del cuore non è soggetto al comando della ragione; infatti Gregorio di Nissa [*Nemesio, De Nat. Hom. xxii.] afferma che “il battito cardiaco non è controllato dalla ragione”. Pertanto, anche il movimento degli altri membri del corpo non è soggetto al comando della ragione.
+
+Obiezione 3: Inoltre, [Agostino](/figures/augustine) afferma (De Civ. Dei xiv, 16) che “il movimento dei genitali a volte è inopportuno e non desiderato; altre volte, anche quando cercato, fallisce, e mentre il cuore è pieno di desiderio, il corpo rimane freddo”. Pertanto, i movimenti dei genitali non sono soggetti alla ragione.
+
+Al contrario, Agostino afferma (Confessioni, VIII, 9): “L’intelletto ordina un movimento della mano, e la mano è così pronta ad obbedire che quasi non si può distinguere l’obbedienza dall’ordine stesso.”
+
+Rispondo che i membri del corpo sono organi delle facoltà dell’anima. Pertanto, così come le facoltà dell’anima sono subordinate all’obbedienza alla ragione, lo stesso vale per i membri del corpo. Poiché le facoltà sensitive sono soggette al comando della ragione, mentre quelle naturali non lo sono, ne consegue che tutti i movimenti dei membri causati dalle facoltà sensitive siano soggetti al comando della ragione; al contrario, i movimenti derivanti dalle facoltà naturali non lo sono.
+
+Risposta all’Obiezione 1: I membri del corpo umano non si muovono da soli, ma vengono mossi attraverso le facoltà dell’anima; tra queste facoltà, alcune sono in rapporto più stretto con la ragione rispetto ad altre facoltà appartenenti all’anima vegetativa.
+
+Risposta all’Obiezione 2: Nelle cose relative all’intelletto e alla volontà, ciò che è conforme alla natura ha la priorità; da esso derivano tutte le altre cose: così, dalla conoscenza dei principi naturalmente noti deriva la conoscenza delle conclusioni; e dalla volontà di un fine naturalmente desiderato deriva la scelta dei mezzi per raggiungerlo. Allo stesso modo, nei movimenti fisici il principio è anch’esso conforme alla natura. Il principio dei movimenti fisici inizia con il movimento del cuore; pertanto, il movimento del cuore è conforme alla natura, e non alla volontà: esso, infatti, deriva dalla vita stessa, che emerge dall’unione dell’anima e del corpo. Anche i movimenti delle cose pesanti e leggere derivano dalla loro “forma sostanziale”; per questo motivo si dice che siano mosse dal loro “generatore”, come afferma il Filosofo (Physica viii, 4). Per questa ragione tale movimento viene chiamato “vitale”. Gregorio di Nissa (Nemesio, De Nat. Hom. xxii) sostiene che, proprio come i processi di generazione e nutrizione non seguono la ragione, allo stesso modo il battito cardiaco, essendo un movimento vitale, non obbedisce alla volontà umana. Con il termine “battito cardiaco” si intende appunto il movimento del cuore, rilevabile attraverso le vene pulsanti.
+
+Risposta all’Obiezione 3: Come afferma Agostino (De Civ. Dei xiv, 17,20), è proprio come punizione del peccato che i movimenti di questi organi non obbediscano alla ragione; in questo senso, l’anima viene punita per la sua ribellione contro Dio attraverso l’insubordinazione di quegli organi attraverso cui il [peccato originale](/positions/original_sin) viene trasmesso alle generazioni future.  
+Ma poiché, come vedremo in seguito, l’effetto del peccato del nostro primo genitore fu che la sua natura rimase priva di quella grazia soprannaturale che Dio aveva donato all’uomo, dobbiamo considerare la causa naturale dell’insubordinazione di questi organi alla ragione. Questo è quanto afferma [Aristotele](/figures/aristotle) (De Causis Motus Animalium), il quale sostiene che “i movimenti del cuore e degli organi genitali siano involontari”. La ragione di ciò è che questi organi vengono attivati in seguito a determinate percezioni; nella misura in cui l’intelletto e l’immaginazione rappresentano quelle cose che suscitano le passioni dell’anima, i movimenti degli organi ne sono conseguenza. Tuttavia, tali movimenti non avvengono per comando della ragione, poiché sono determinati da cambiamenti naturali di calore e freddo, cambiamenti che non sono soggetti al controllo razionale. Questo vale soprattutto per questi due organi in particolare: il cuore, essendo il principio dei sensi; e gli organi genitali, poiché rappresentano la fonte della vita stessa. Pertanto, i loro movimenti sono naturali, poiché i principi fondamentali devono necessariamente essere di natura, come già detto (Risposta all’Obiezione 2).
+
 <span class="atom-split" data-atom="074" data-title="OF THE GOOD AND EVIL OF HUMAN ACTS, IN GENERAL (ELEVEN ARTICLES)" data-chapter="OF THE GOOD AND EVIL OF HUMAN ACTS, IN GENERAL (ELEVEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the good and evil of human acts. First, how a human act is good or evil;
@@ -3291,6 +4318,23 @@ object, as under its genus, or conversely?
 (10) Whether a circumstance places a moral action in the species of good or evil?
 (11) Whether every circumstance that makes an action better or worse, places the moral action
 in the species of good or evil?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il bene e il male degli atti umani. In primo luogo, come un atto umano possa essere considerato buono o cattivo; in secondo luogo, quali siano le conseguenze del bene o del male di un atto umano, come meriti o demeriti, peccati o colpe.  
+Per quanto riguarda il primo punto, vi saranno tre aspetti da considerare: il primo riguarderà il bene e il male degli atti umani in generale; il secondo, il bene e il male degli atti interiori; il terzo, il bene e il male degli atti esteriori.  
+Per quanto riguarda il primo aspetto, ci sono undici punti da esaminare:  
+(1) Se ogni atto umano sia buono, o se esistano anche atti cattivi;  
+(2) Se il bene o il male di un atto umano derivino dal suo oggetto;  
+(3) Se derivino da una circostanza particolare;  
+(4) Se derivino dal fine perseguito dall’atto;  
+(5) Se un atto umano sia buono o cattivo in sé stesso;  
+(6) Se un atto possa essere considerato buono o cattivo in base al suo fine;  
+(7) Se il concetto di bene o male derivante dal fine sia incluso nel concetto derivante dall’oggetto dell’atto, come se fossero categorie subordinate l’una all’altra, o viceversa;  
+(8) Se esistano atti che, in sé stessi, siano indifferenti dal punto di vista morale;  
+(9) Se un singolo atto possa essere considerato indifferente dal punto di vista morale;  
+(10) Se una circostanza particolare possa rendere un atto buono o cattivo;  
+(11) Se ogni circostanza che migliora o peggiora un atto lo renda effettivamente buono o cattivo.
 
 <span class="atom-split" data-atom="075" data-title="Whether every human action is good, or are there evil actions?" data-chapter="Whether every human action is good, or are there evil actions?" data-kind="atom" data-srclang="en"></span>
 
@@ -3343,6 +4387,24 @@ suffers a defect in walking by stumbling when he walks.
 Reply to Objection 3: An evil action can have a proper effect, according to the goodness and
 being that it has. Thus adultery is the cause of human generation, inasmuch as it implies union of
 male and female, but not inasmuch as it lacks the order of reason.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che ogni azione umana sia buona e che nessuna sia cattiva. Infatti Dionisio afferma (Div. Nom. iv) che le azioni cattive non vengono compiute se non in virtù di ciò che è buono. Ma nulla di cattivo viene fatto in virtù di ciò che è buono. Pertanto, nessuna azione è cattiva.
+
+Obiezione 2: Inoltre, nulla agisce se non nella misura in cui è effettivamente attivo. Ora, una cosa è cattiva non perché sia effettivamente attiva, ma perché la sua [potenzialità](/concepts/act_potency) è priva di attuazione; al contrario, nella misura in cui la sua potenzialità viene realizzata attraverso l’atto, essa è buona, come affermato nel Metafisico IX, 9. Pertanto, nulla agisce nella misura in cui è cattivo, ma soltanto nella misura in cui è buono. Quindi ogni azione è buona e nessuna è cattiva.
+
+Obiezione 3: Inoltre, il male non può essere una causa, se non in modo accidentale, come afferma Dionisio (Div. Nom. iv). Ma ogni azione ha un effetto che le è proprio. Pertanto, nessuna azione è malvagia; tutte le azioni sono buone.
+
+Al contrario, Nostro Signore disse (Giovanni 3:20): “Chi compie il male odia la luce”. Pertanto, alcune azioni umane sono malvagie.
+
+Rispondo che dobbiamo parlare di bene e male nelle azioni esattamente come parliamo di bene e male nelle cose: poiché ciò che è una cosa, lo stesso è l’atto che essa produce. Ora, nelle cose, ciascuna possiede tanto bene quanto essere; poiché bene ed essere sono interconvertibili, come è stato affermato nel FP, Q[5], AA[1],3. Ma solo Dio possiede la piena entità del proprio essere in una certa unità; mentre tutte le altre cose hanno la propria pienezza di essere in una certa molteplicità. Pertanto, alcune cose hanno essere in alcuni aspetti, ma mancano della piena entità che loro spetta. Così, la pienezza dell’essere umano richiede la combinazione di ['anima e corpo](/axes/soul_body), dotati di tutte le facoltà e gli strumenti necessari per conoscere e muoversi; quindi, se un uomo manca di alcuna di queste cose, manca di qualcosa che è essenziale per la piena realizzazione del proprio essere. Quanto più uno possiede di essere, tanto più possiede di bene; mentre ciò in cui manca di bene lo rende cattivo: così un uomo cieco possiede bene nella misura in cui vive, ma anche male, poiché gli manca la vista. Tuttavia, ciò che non possiede né essere né bene non può essere considerato né buono né cattivo. Ma poiché questa stessa pienezza di essere è essenzialmente legata al concetto di bene, se una cosa manca della propria piena entità di essere, non si può dire che sia semplicemente “buona”, ma solo in alcuni aspetti, nella misura in cui è un essere; anche se può essere definita “essere” in senso generale e “non-essere” in alcuni contesti, come è stato affermato nel FP, Q[5], A[1], ad 1. Pertanto, dobbiamo dire che ogni azione possiede bene nella misura in cui ha essere; ma manca di bene nella misura in cui le mancano gli elementi necessari per la sua piena realizzazione; ed è quindi considerata cattiva: ad esempio, se manca della quantità stabilita dalla ragione, del proprio luogo appropriato, o di altri elementi simili.
+
+Risposta all’Obiezione 1: Gli atti malvagi derivano da una bontà insufficiente. Se non esistesse alcuna forma di bontà, non ci sarebbe né essere né possibilità di azione. D’altra parte, se la bontà fosse completa, non esisterebbe il male. Pertanto, l’atto compiuto rappresenta una forma di bontà insufficiente: è buono in alcuni aspetti, ma nel complesso è malvagio.
+
+Risposta all’Obiezione 2: Niente impedisce che una cosa sia “in atto” in un certo senso, tanto da poter agire; e allo stesso tempo sia “carente di attività” in un altro senso, tanto da causare un’azione insufficiente. Ad esempio, un uomo cieco possiede la capacità di camminare, quindi è in grado di farlo; tuttavia, a causa della mancanza della vista, soffre di difficoltà nel camminare, inciampando spesso.
+
+Risposta all’Obiezione 3: Un atto malvagio può avere un effetto positivo, in base alla bontà e alle caratteristiche che esso possiede. Pertanto, l’adulterio è la causa della generazione umana, nella misura in cui comporta l’unione tra uomo e donna; tuttavia, non lo è nella misura in cui manca dell’ordine razionale richiesto dalla morale.
 
 <span class="atom-split" data-atom="076" data-title="Whether the good or evil of a man's action is derived from its object?" data-chapter="Whether the good or evil of a man's action is derived from its object?" data-kind="atom" data-srclang="en"></span>
 
@@ -3397,6 +4459,24 @@ the goodness of an action is not caused by the goodness of its effect, yet an ac
 from the fact that it can produce a good effect. Consequently the very proportion of an action to its
 effect is the measure of its goodness.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il bene o il male di un’azione non derivino dal suo oggetto. Infatti, l’oggetto di qualsiasi azione è una cosa. Ma “il male non risiede nelle cose stesse, ma nell’uso che ne fa il peccatore”, come afferma [Agostino](/figures/augustine) (De Doctrina Christiana iii, 12). Pertanto, il bene o il male di un’azione umana non derivano dal suo oggetto.
+
+Obiezione 2: Inoltre, l’oggetto viene paragonato all’azione in quanto sua materia. Ma la bontà di una cosa non deriva dalla sua materia, bensì dalla forma, che è un atto. Pertanto, il bene e il male nelle azioni non derivano dal loro oggetto.
+
+Obiezione 3: Inoltre, l’oggetto di una forza attiva viene paragonato all’azione stessa come effetto rispetto alla causa. Tuttavia, la bontà di una causa non dipende dal suo effetto; anzi, è il contrario. Pertanto, ciò che è buono o cattivo nelle azioni non deriva dall’oggetto stesso di tali azioni.
+
+Al contrario, è scritto (Osea 9:10): “Diventarono abominabili proprio a causa di quelle cose che amavano”. L’uomo diventa quindi abominabile agli occhi di Dio a causa della malvagità delle sue azioni. Pertanto, la malvagità delle sue azioni corrisponde agli oggetti malvagi che l’uomo ama; lo stesso vale per la bontà delle sue azioni.
+
+Rispondo che, come già detto sopra (A[1]), il bene o il male di un’azione, come di qualsiasi altra cosa, dipende dalla sua pienezza di essere o dalla mancanza di tale pienezza. La prima caratteristica legata alla pienezza di essere sembra essere quella che conferisce a una cosa la sua specie. Proprio come una cosa naturale riceve la propria specie dalla sua forma, così un’azione riceve la propria specie dal suo oggetto, proprio come il movimento riceve la propria specificità dal suo termine finale. Pertanto, proprio come il bene primario di una cosa naturale deriva dalla sua forma, che le conferisce la sua specie, così il bene primario di un’azione morale deriva dal suo oggetto appropriato; per questo motivo alcune persone definiscono un’azione del genere “buona nella sua specie”: ad esempio, “utilizzare ciò che appartiene a se stessi”. E proprio come, nelle cose naturali, il male primario si verifica quando una cosa generata non realizza la propria forma specifica (ad esempio, se al posto di un uomo viene generato qualcos’altro), così nel caso delle azioni morali il male primario deriva dall’oggetto stesso dell’azione, ad esempio “prendere ciò che appartiene a un altro”. Si dice che un’azione del genere sia “cattiva nella sua specie”, dove “specie” indica qui la categoria o la classe a cui l’azione appartiene, proprio come usiamo il termine “umanità” per indicare l’intera specie umana.
+
+Risposta all’Obiezione 1: Sebbene le cose esterne siano buone di per sé, non sempre possiedono una proporzione adeguata rispetto a questa o quella azione. Pertanto, in quanto considerate oggetti di tali azioni, esse non possiedono la qualità della bontà.
+
+Risposta all’Obiezione 2: L’oggetto in questione non è la materia “di cui” qualcosa è fatto, ma la materia “su cui” viene compiuto un certo atto; essa si relaziona all’atto come sua forma, per così dire, poiché gli conferisce la sua specifica natura.
+
+Risposta all’Obiezione 3: L’oggetto dell’azione umana non è sempre l’oggetto di una forza attiva. Infatti, la forza appetitiva è, in un certo senso, passiva; nel momento in cui viene mossa dall’oggetto desiderato; eppure rappresenta il principio stesso delle azioni umane. Inoltre, gli oggetti delle forze attive non hanno sempre la natura di un effetto, ma soltanto quando sono già stati trasformati: ad esempio, il cibo, una volta trasformato, diventa l’effetto della forza nutritiva; mentre prima di tale trasformazione, il cibo è considerato la materia su cui questa forza agisce. Poiché l’oggetto dell’azione umana è in qualche modo l’effetto di quella forza, ne consegue che esso costituisce il termine della sua azione e, quindi, le conferisce forma e specie, poiché ogni movimento deriva la propria specie dal proprio termine. Inoltre, sebbene la bontà di un’azione non sia causata dalla bontà del suo effetto, si dice comunque che un’azione sia buona perché è in grado di produrre un effetto positivo. Pertanto, proprio la corrispondenza tra l’azione e il suo effetto costituisce la misura della sua bontà.
+
 <span class="atom-split" data-atom="077" data-title="Whether man's action is good or evil from a circumstance?" data-chapter="Whether man's action is good or evil from a circumstance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an action is not good or evil from a circumstance. For
@@ -3439,6 +4519,24 @@ considered in the doctrine of morals.
 Reply to Objection 3: Since good and being are convertible; according as being is predicated
 of substance and of accident, so is good predicated of a thing both in respect of its essential being,
 and in respect of its accidental being; and this, both in natural things and in moral actions.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un’azione non sia buona o cattiva in base alle circostanze. Infatti, le circostanze si trovano “intorno” all’azione, come elementi esterni ad essa, come già detto sopra (Q[7], A[1]). Ma “il bene e il male risiedono nelle cose stesse”, come affermato nel Metafisico VI, 4. Pertanto, un’azione non trae la propria bontà o cattiveria dalle circostanze.
+
+Obiezione 2: Inoltre, la bontà o la malvagità di un’azione vengono considerate principalmente nella dottrina morale. Ma poiché le circostanze sono elementi accidentali delle azioni, sembra che esse esulino dall’ambito dell’arte, poiché “nessuna arte tiene conto di ciò che è accidentale” (Metafisica VI, 2). Pertanto, la bontà o la malvagità di un’azione non deriva dalle circostanze.
+
+Obiezione 3: Inoltre, ciò che appartiene a una cosa in termini di sua sostanza non viene attribuito ad essa in termini di accidente. Tuttavia, il bene e il male appartengono a un’azione in termini di sua sostanza; poiché un’azione può essere buona o cattiva nel suo genere, come detto sopra (A[2]). Pertanto, un’azione non è buona o cattiva a causa di circostanze particolari.
+
+Al contrario, il Filosofo afferma (Etica ii, 3) che un uomo virtuoso agisce nel modo in cui dovrebbe, e nel momento in cui dovrebbe, e così via, in relazione alle altre circostanze. Pertanto, d’altra parte, l’uomo malvagio, per quanto riguarda ogni vizio, agisce quando non dovrebbe, o nel luogo dove non dovrebbe, e così via, in base ad altre circostanze. Ne consegue che le azioni umane sono buone o cattive a seconda delle circostanze.
+
+Rispondo che, nelle cose naturali, si deve notare che l’intera pienezza della perfezione di una cosa non deriva soltanto dalla sua [forma sostanziale](/concepts/forma_substantialis), che le conferisce la sua specie; poiché una cosa riceve molto anche da accidenti successivi, così come l’uomo riceve qualcosa dalla forma, dal colore e simili. E se uno di questi accidenti è sproporzionato, ne consegue il male. Lo stesso vale per le azioni umane: la pienezza della loro bontà non consiste interamente nella loro specie, ma anche in determinati elementi aggiuntivi che derivano da particolari circostanze. Pertanto, se manca qualcosa di essenziale tra queste circostanze, l’azione risultante sarà cattiva.
+
+Risposta all’Obiezione 1: Le circostanze sono al di fuori di un’azione, poiché non fanno parte della sua essenza; tuttavia, esse appartengono all’azione come suoi accidenti. Allo stesso modo, gli accidenti nelle sostanze naturali sono anch’essi al di fuori dell’essenza stessa di tali sostanze.
+
+Risposta all’Obiezione 2: Non ogni accidente è “accidentalmente” presente nel suo soggetto; alcuni, infatti, sono accidenti propri, e di questi ognuna disciplina artistica prende atto. Ed è proprio per questo che le circostanze delle azioni vengono prese in considerazione nella dottrina della morale.
+
+Risposta all’Obiezione 3: Poiché il bene e l’essere sono concettualmente interconvertibili; così come l’essere viene attribuito alla sostanza e agli accidenti, anche il bene può essere attribuito a una cosa sia in relazione al suo essere essenziale che a quello accidentale; e ciò vale sia per le cose naturali che per le azioni morali.
 
 <span class="atom-split" data-atom="078" data-title="Whether a human action is good or evil from its end?" data-chapter="Whether a human action is good or evil from its end?" data-kind="atom" data-srclang="en"></span>
 
@@ -3485,6 +4583,24 @@ above, from lacking goodness in another way. And thus it may happen that an acti
 in its species or in its circumstances is ordained to an evil end, or vice versa. However, an action
 is not good simply, unless it is good in all those ways: since "evil results from any single defect,
 but good from the complete cause," as Dionysius says (Div. Nom. iv).
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il bene e il male nelle azioni umane non derivino dal loro fine. Infatti Dionigi afferma (Div. Nom. iv) che “nulla agisce con l’intento di causare il male”. Se quindi un’azione fosse buona o cattiva in base al suo fine, nessuna azione sarebbe considerata cattiva. Il che è chiaramente falso.
+
+Obiezione 2: Inoltre, la bontà di un’azione è qualcosa che appartiene intrinsecamente all’azione stessa. Ma il fine rappresenta una causa esterna. Pertanto, non si può affermare che un’azione sia buona o cattiva in base al suo fine.
+
+Obiezione 3: Inoltre, un’azione buona può risultare destinata a uno scopo malvagio, come quando una persona dona del denaro per vanità; al contrario, un’azione cattiva può rivelarsi utile per uno scopo positivo, come quando si commette un furto al fine di aiutare i poveri. Pertanto, un’azione non è buona o cattiva in base al suo risultato finale.
+
+Al contrario, Boezio afferma (in *De Differentiis Topicis*, ii) che “se la fine è buona, allora anche l’azione è buona; se la fine è cattiva, allora anche l’azione è cattiva”.
+
+Rispondo che la natura delle cose riguardo al bene è identica alla loro natura riguardo all’essere stesso. In alcune cose, l’essere non dipende da nulla altro; in tali casi basta considerare l’essere di quelle cose in modo assoluto. Tuttavia, ci sono altre cose il cui essere dipende da qualcos’altro; pertanto, in questi casi dobbiamo considerare il loro essere nella relazione con la causa da cui dipendono. Proprio come l’essere di una cosa dipende dall’agente che la genera e dalla sua forma, così anche il bene di una cosa dipende dal suo fine. Ne consegue che nelle Persone Divine, il cui bene non dipende da nulla altro, la misura del bene non si ricava dal loro fine. Al contrario, le azioni umane e altre cose il cui bene dipende da qualcos’altro hanno una misura del bene basata sul fine a cui sono dirette, oltre al bene che possiedono in modo assoluto. Pertanto, un’azione umana può essere considerata sotto quattro aspetti legati al bene: in primo luogo, il bene che essa deriva dal suo genere; poiché quanto più un’azione possiede di caratteristiche proprie dell’azione e dell’essere, tanto più possiede anche di bene, come già detto (A[1]). In secondo luogo, il bene che essa possiede in base alla sua specie, cioè in relazione all’oggetto a cui è rivolta. In terzo luogo, il bene che deriva dalle circostanze in cui si svolge. Infine, il bene che deriva dal suo fine, considerato come la causa del suo stesso bene.
+
+Risposta all’Obiezione 1: Il bene per cui si agisce non è sempre un vero bene; a volte lo è, altre volte invece è solo un bene apparente. In quest’ultimo caso, un atto malvagio deriva dall’obiettivo che si persegue.
+
+Risposta all’Obiezione 2: Sebbene la fine sia una causa esterna, tuttavia la proporzione adeguata rispetto a tale fine, nonché il rapporto che esiste tra l’azione e la fine, sono intrinseci all’azione stessa.
+
+Risposta all’Obiezione 3: Nulla impedisce che un’azione che sia buona in uno dei modi menzionati sopra manchi di bontà in altri modi. Pertanto, può accadere che un’azione che sia buona per la sua natura o nelle sue circostanze sia destinata a un fine malvagio, o viceversa. Tuttavia, un’azione non è considerata buona in senso assoluto se non lo è sotto tutti questi aspetti: poiché “il male deriva da qualsiasi singola imperfezione, mentre il bene deriva dalla causa completa”, come afferma Dionigi (Div. Nom. iv).
 
 <span class="atom-split" data-atom="079" data-title="Whether a human action is good or evil in its species?" data-chapter="Whether a human action is good or evil in its species?" data-kind="atom" data-srclang="en"></span>
 
@@ -3548,6 +4664,28 @@ object, as compared to reason; and then it can specify a moral act. And it must 
 a circumstance transforms an action from good to evil; for a circumstance would not make an action
 evil, except through being repugnant to reason.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il bene e il male nelle azioni morali non costituiscano una differenza di specie. Infatti, l’esistenza del bene e del male nelle azioni è in accordo con la loro esistenza nelle cose, come detto sopra (A[1]). Tuttavia, il bene e il male non rappresentano una differenza specifica nelle cose; un uomo buono, infatti, è essenzialmente lo stesso di un uomo cattivo. Pertanto, nemmeno nelle azioni costituiscono una differenza specifica.
+
+Obiezione 2: Inoltre, poiché il male è una privazione, esso rappresenta un “non-essere”. Ma, secondo il Filosofo (Metafisica iii, 3), il “non-essere” non può costituire una differenza. Poiché dunque la differenza è ciò che definisce una specie, sembra che un’azione non possa essere considerata appartenente a una determinata specie soltanto perché è male. Di conseguenza, il bene e il male non diversificano le specie delle azioni umane.
+
+Obiezione 3: Inoltre, azioni che differiscono per specie producono effetti diversi. Tuttavia lo stesso effetto specifico può derivare sia da un’azione buona che da una cattiva: ad esempio, un uomo può nascere da un matrimonio adulterino o da uno legittimo. Pertanto, azioni buone e cattive non differiscono per specie.
+
+Obiezione 4: Inoltre, si dice talvolta che un’azione sia buona o cattiva in base a una determinata circostanza, come già accennato sopra (A[3]). Ma poiché una circostanza è un accidente, essa non conferisce all’azione la sua specifica natura. Pertanto, le azioni umane non differiscono per specie in base alla loro bontà o malvagità.
+
+Al contrario, secondo il Filosofo (“Etica”, II, 1), “le stesse abitudini producono azioni simili”. Ma un’abitudine buona e una cattiva differiscono per specie, così come la generosità e la prodigalità. Pertanto, anche le azioni buone e quelle cattive differiscono per specie.
+
+Rispondo che ogni azione deriva la sua specie dal suo oggetto, come già detto sopra (A[2]). Ne consegue quindi che una differenza nell’oggetto determini una differenza nella specie delle azioni stesse. Ora, è necessario osservare che tale differenza nell’oggetto produce una diversità nelle azioni a seconda che queste siano riferite a un certo principio attivo o a un altro. Poiché soltanto ciò che è essenziale costituisce la specie di un’azione, e poiché una differenza nell’oggetto può essere essenziale rispetto a un principio attivo e accidentale rispetto a un altro, si evince che conoscere il colore e conoscere il suono differiscono essenzialmente in relazione ai sensi, ma non in relazione all’intelletto. Nelle azioni umane, il bene e il male vengono definiti in base alla ragione; infatti, come afferma Dionigi nel “Divino Nomenclatore” IV, “il bene dell’uomo consiste nell’essere in armonia con la ragione”, mentre il male è “ciò che è contrario alla ragione”. Poiché ciò che è conforme all’ordine naturale di una cosa è considerato buono, e ciò che ne viola tale ordine è considerato male. È quindi evidente che la differenza tra bene e male, considerata in relazione all’oggetto delle azioni, rappresenti una differenza essenziale dal punto di vista della ragione, cioè a seconda che l’oggetto sia adatto o inadatto a essa. Alcune azioni vengono definite “umane” o “morali” proprio perché derivano dalla ragione; ne consegue quindi che il bene e il male diversifichino effettivamente le specie delle azioni umane, poiché le differenze essenziali determinano inevitabilmente variazioni nella loro natura.
+
+Risposta all’Obiezione 1: Anche nelle cose naturali, il bene e il male, nella misura in cui qualcosa è conforme alla natura o contrario ad essa, diversificano le specie naturali; infatti un cadavere e un corpo vivente non appartengono alla stessa specie. Allo stesso modo, il bene, nella misura in cui è in accordo con la ragione, e il male, nella misura in cui è contrario alla ragione, diversificano le specie morali.
+
+Risposta all’Obiezione 2: Il male implica una privazione, non assoluta, ma che riguarda alcuna [potenzialità](/concepts/act_potency) specifica. Si dice infatti che un’azione sia malvagia per sua natura non perché non abbia affatto un oggetto; ma perché il suo oggetto è in contrasto con la ragione, ad esempio quando si appropriano le proprietà altrui. Pertanto, nella misura in cui l’oggetto di un atto malvagio è qualcosa di concreto e positivo, esso può costituire effettivamente la “specie” di quell’atto malvagio.
+
+Risposta all’Obiezione 3: L’atto coniugale e l’adulterio, rispetto alla ragione, differiscono in modo specifico e producono effetti specificamente diversi; poiché il primo merita lode e ricompensa, mentre il secondo merita biasimo e punizione. Tuttavia, se considerati dal punto di vista della capacità generativa, non differiscono per specie; pertanto producono lo stesso effetto specifico.
+
+Risposta all’Obiezione 4: A volte una circostanza viene considerata la differenza essenziale di un oggetto rispetto alla ragione; in tal caso, essa può determinare il carattere morale di un atto. E ciò deve necessariamente accadere ogni volta che una circostanza trasforma un atto da buono in cattivo, poiché una circostanza non renderebbe un atto cattivo se non fosse contraria alla ragione.
+
 <span class="atom-split" data-atom="080" data-title="Whether an action has the species of good or evil from its end?" data-chapter="Whether an action has the species of good or evil from its end?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the good and evil which are from the end do not diversify the
@@ -3590,6 +4728,25 @@ act, as form to matter.
 Reply to Objection 3: When many actions, differing in species, are ordained to the same end,
 there is indeed a diversity of species on the part of the external actions; but unity of species on the
 part of the internal action.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il bene e il male, che derivano dall’fine di un’azione, non diversifichino la specie stessa dell’azione. Infatti, la specie di un’azione deriva dal suo oggetto; ma l’fine è del tutto separato dall’oggetto stesso. Pertanto, il bene e il male legati all’fine di un’azione non influenzano in alcun modo la specie di quell’azione.
+
+Obiezione 2: Inoltre, ciò che è accidentale non costituisce la specie di un’azione, come già detto in precedenza ([A[5). Tuttavia, è accidentale per un’azione essere destinata a uno scopo particolare; ad esempio, donare l’elemosina per vanità. Pertanto, le azioni non si diversificano in base alla loro specie, secondo il bene o il male che ne derivano come scopo finale.
+
+Obiezione 3: Inoltre, azioni che differiscono per specie possono essere indirizzate allo stesso fine; pertanto, anche azioni derivanti da diverse virtù o vizi possono essere volte al raggiungimento della vanità. Quindi, il bene e il male, intesi in relazione a tale fine, non diversificano la natura stessa dell’azione.
+
+Al contrario, come è stato dimostrato sopra (Q[1], A[3]), le azioni umane derivano la loro “specie” dal fine per cui vengono compiute. Pertanto, il bene e il male, in relazione a tale fine, diversificano le “specie” di azioni umane.
+
+Rispondo che alcune azioni vengono definite “umane” in quanto sono volontarie, come già detto sopra (Q[1], A[1]). Ora, in un’azione volontaria vi sono due aspetti: l’atto interno della volontà e l’atto esterno; ciascuno di questi ha il proprio oggetto. Lo scopo, propriamente parlando, è l’oggetto dell’atto interno della volontà, mentre l’oggetto dell’atto esterno è ciò su cui tale azione viene esercitata. Pertanto, così come l’atto esterno riceve la sua specifica dall’oggetto su cui si esercita, allo stesso modo l’atto interno della volontà riceve la sua specifica dallo scopo, ovvero dal proprio oggetto propriamente detto.  
+Quello che riguarda la volontà ha un carattere formale rispetto a ciò che riguarda l’atto esterno; infatti la volontà utilizza i membri del corpo come strumenti per agire. Inoltre, le azioni esterne non hanno alcuna misura di moralità, se non nella misura in cui sono volontarie. Di conseguenza, la specifica di un atto umano viene considerata in termini formali rispetto allo scopo, ma in termini materiali rispetto all’oggetto dell’atto esterno. Per questo motivo il Filosofo afferma (Etica, v, 2) che “colui che ruba al fine di commettere adulterio è, in senso stretto, un adultero più grave di un ladro”.
+
+Risposta all’Obiezione 1: Come già detto in precedenza, anche la fine presenta le caratteristiche di un oggetto.
+
+Risposta all’Obiezione 2: Sebbene l’azione esterna sia accidentale in quanto destinata a un fine particolare, ciò non vale per l’atto interno della volontà, che, rispetto all’azione esterna, può essere paragonato alla forma rispetto alla materia.
+
+Risposta all’Obiezione 3: Quando molte azioni, diverse per specie, sono destinate allo stesso fine, esiste effettivamente una diversità di specie nelle azioni esterne; ma unità di specie nell’azione interna.
 
 <span class="atom-split" data-atom="081" data-title="Whether the species derived from the end is contained under the species derived from the object, as under its genus, or conversely?" data-chapter="Whether the species derived from the end is contained under the species derived from the object, as under its genus, or conversely?" data-kind="atom" data-srclang="en"></span>
 
@@ -3663,6 +4820,24 @@ inasmuch as it is something more absolute and less contracted. Wherefore also th
 definition are reduced to the genus of [formal cause](/concepts/four_causes), as is stated in Phys. ii, 3. And in this sense the
 genus is the formal cause of the species; and so much the more formal, as it is more universal.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la specie di bontà derivante dall’fine sia inclusa nella specie di bontà derivante dall’oggetto, proprio come una specie è inclusa nel suo genere; ad esempio, quando un uomo commette un furto al fine di donare denaro in beneficenza. Infatti, un’azione riceve la sua specie dal suo oggetto, come già detto (AA[2],6). Tuttavia, è impossibile che una cosa sia inclusa in un’altra specie se questa seconda specie non è a sua volta inclusa nella specie propria di quella prima; poiché la stessa cosa non può appartenere a diverse specie che non siano subordinate l’una all’altra. Pertanto, la specie derivante dall’fine è effettivamente inclusa nella specie derivante dall’oggetto.
+
+Obiezione 2: Inoltre, la differenza ultima costituisce sempre la specie più specifica. Tuttavia, la differenza derivante dall’oggetto sembra precedere quella derivante dal fine, poiché il fine è qualcosa che viene dopo nell’ordine logico. Pertanto, la specie derivante dal fine è contenuta all’interno della specie derivante dall’oggetto, come sua specie più specifica.
+
+Obiezione 3: Inoltre, una differenza di natura più formale rispetto al genere è, analogamente, come la forma rispetto alla materia. Tuttavia, la specie derivante dall’“fine” è più formale di quella che deriva dall’“oggetto”, come già affermato sopra (A[6]). Pertanto, la specie derivante dall’“fine” è contenuta all’interno della specie derivante dall’“oggetto”, proprio come la specie più specifica è contenuta all’interno del genere subordinato.
+
+Al contrario, ogni genere presenta differenze specifiche e ben definite. Tuttavia, un’azione di una stessa specie sul proprio oggetto può essere indirizzata verso un numero infinito di scopi: ad esempio, il furto può essere utilizzato per ottenere un numero infinito di risultati positivi o negativi. Pertanto, la specie derivante da uno specifico scopo non è inclusa all’interno della specie derivante dall’oggetto stesso, così come non lo è all’interno del proprio genere.
+
+Rispondo che l’oggetto dell’atto esterno può trovarsi in una doppia relazione rispetto allo scopo della volontà: in primo luogo, come qualcosa che di per sé è destinato a quel fine; ad esempio, combattere bene è di per sé destinato alla vittoria. In secondo luogo, come qualcosa che è destinato a quel fine in modo accidentale; ad esempio, prendere ciò che appartiene ad altri è destinato, in modo accidentale, al compimento di un atto di carità. Ora, le differenze che dividono un genere e ne costituiscono le specie devono, come afferma il Filosofo (Metafisica vii, 12), dividere quel genere in modo essenziale; se invece queste differenze lo dividessero in modo accidentale, la divisione sarebbe errata. Ad esempio, dire che “gli animali sono divisi in razionali e irrazionali; e gli irrazionali in animali alati e animali senza ali” sarebbe errato, poiché “alato” e “senza ali” non sono determinazioni essenziali degli animali irrazionali. Una divisione corretta sarebbe invece: “Alcuni animali hanno zampe, altri no; tra quelli che hanno zampe, alcuni ne hanno due, altri quattro, altri molte”: questa divisione rappresenta infatti una determinazione essenziale degli animali in questione. Pertanto, quando l’oggetto di un atto non è di per sé destinato allo scopo della volontà, la differenza specifica derivante da quell’oggetto non costituisce una determinazione essenziale della specie corrispondente; e viceversa. Di conseguenza, una di queste specie non è contenuta nell’altra; in questo caso, l’atto morale rientra in due specie diverse. Per esempio, colui che commette furto al fine di commettere adulterio è colpevole di due tipi diversi di malizia nello stesso atto. D’altro canto, se l’oggetto dell’atto è di per sé destinato allo scopo della volontà, una di queste differenze costituisce effettivamente una determinazione essenziale dell’altra; in questo caso, una delle due specie è contenuta nell’altra. Resta da stabilire quale delle due sia contenuta nell’altra. Per chiarire questo punto, dobbiamo osservare innanzitutto che più particolare è la forma da cui deriva una differenza, più specifica sarà quella differenza stessa; in secondo luogo, più universale è l’agente che compie un atto, più universale sarà anche la forma che esso genera. Infine, più remoto è lo scopo di un atto, più universale sarà l’agente che lo realizza: ad esempio, la vittoria, che rappresenta lo scopo finale dell’esercito, è lo scopo inteso dal comandante in capo; mentre l’organizzazione corretta di questo o quel reggimento è lo scopo inteso da un ufficiale subalterno. Da tutto ciò si deduce che la differenza specifica derivante da uno scopo è di natura più universale, mentre la differenza derivante da un oggetto che di per sé è destinato a quel scopo rappresenta una determinazione specifica relativa a tale oggetto. La volontà, infatti, il cui vero oggetto è lo scopo stesso, è l’agente universale che guida tutte le facoltà dell’anima; gli oggetti propri di queste facoltà sono invece i risultati concreti degli atti compiuti da esse.
+
+Risposta all’Obiezione 1: La stessa cosa, considerata nella sua essenza, non può appartenere a due specie diverse, una delle quali non sia subordinata all’altra. Tuttavia, per quanto riguarda quelle caratteristiche che vengono aggiunte all’essenza stessa di una cosa, essa può essere inclusa in diverse specie. Ad esempio, lo stesso frutto, considerato dal punto di vista del suo colore, appartiene alla specie delle cose bianche; considerato invece dal punto di vista del suo profumo, appartiene alla specie delle cose dolci e profumate. Allo stesso modo, un’azione che, nella sua essenza, appartiene a una sola specie naturale, può, in base alle condizioni morali che le vengono aggiunte, appartenere a due diverse specie, come già detto sopra (Q[1], A[3], ad 3).
+
+Risposta all’Obiezione 2: La fine viene dopo nell’esecuzione; ma prima, nella intenzione della ragione, in relazione alla quale le azioni morali ricevono la loro specifica natura.
+
+Risposta all’Obiezione 3: La differenza viene paragonata al genere come la forma alla materia, poiché essa realizza il genere stesso. D’altra parte, il genere è considerato più formale della specie, in quanto rappresenta qualcosa di più assoluto e meno limitato. Per questo motivo anche le parti di una definizione possono essere ridotte al genere come causa formale, come affermato nella Physica ii, 3. In questo senso, il genere è effettivamente la causa formale della specie; ed è tanto più formale quanto più universale.
+
 <span class="atom-split" data-atom="082" data-title="Whether any action is indifferent in its species?" data-chapter="Whether any action is indifferent in its species?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no action is indifferent in its species. For evil is the privation
@@ -3711,6 +4886,24 @@ Reply to Objection 3: Not everything belonging to an action belongs also to its 
 Wherefore although an action's specific nature may not contain all that belongs to the full
 complement of its goodness, it is not therefore an action specifically bad; nor is it specifically good.
 Thus a man in regard to his species is neither virtuous nor wicked.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nessuna azione sia indifferente per sua natura. Poiché il male è la privazione del bene, secondo [Agostino](/figures/augustine) (Enchiridion xi), e poiché privazione ed [abitudine](/concepts/custom) sono contrari immediati, secondo il Filosofo (Categorie viii), non esiste quindi alcuna azione che sia indifferente per sua natura, come se si trovasse tra bene e male.
+
+Obiezione 2: Inoltre, le azioni umane derivano la loro “specie” dal loro fine o scopo, come detto sopra (A[6]; Q[1], A[3]). Ma ogni fine e ogni scopo è o buono o cattivo. Pertanto, ogni azione umana è buona o cattiva in base alla sua “specie”. Nessuna, quindi, è indifferente in termini di natura o finalità.
+
+Obiezione 3: Inoltre, come già detto sopra (A[1]), un’azione è considerata buona quando possiede nella misura dovuta tutto ciò che la rende tale; è considerata cattiva, invece, quando ne manca. Ma ogni azione deve necessariamente o possedere tutta la pienezza della sua bontà, oppure mancarne in qualche aspetto. Pertanto, ogni azione deve necessariamente essere buona o cattiva per natura; nessuna è indifferente.
+
+Al contrario, Agostino afferma (De Serm. Dom. in Monte ii, 18) che “esistono certi atti di natura intermedia, che possono essere compiuti con intenzioni buone o cattive; è però imprudente formulare giudizi al riguardo”. Pertanto, alcune azioni risultano indifferenti in base alla loro natura stessa.
+
+Rispondo che, come già detto sopra (AA[2],5), ogni azione riceve la sua specifica dal suo oggetto; mentre l’azione umana, chiamata morale, riceve la sua specifica dall’oggetto in relazione al principio delle azioni umane, ovvero alla ragione. Pertanto, se l’oggetto di un’azione contiene qualcosa che è in accordo con l’ordine della ragione, essa sarà un’azione buona secondo la sua specifica; ad esempio, dare l’elemosina a una persona in difficoltà. D’altra parte, se l’oggetto contiene qualcosa che è in contrasto con l’ordine della ragione, essa sarà un’azione cattiva secondo la sua specifica; ad esempio, rubare, che significa appropriarsi di ciò che appartiene ad altri. Tuttavia, può accadere che l’oggetto di un’azione non contenga nulla che riguardi l’ordine della ragione; ad esempio, raccogliere una paglia dal terreno, camminare nei campi, e simili: azioni del genere sono indifferenti secondo la loro specifica.
+
+Risposta all’Obiezione 1: La privazione è di due tipi. Il primo tipo è la privazione “come risultato” di un certo stato; in questo caso, nulla viene conservato, tutto viene tolto: ad esempio, la cecità toglie completamente la vista, l’oscurità la luce, e la morte la vita. Tra questa forma di privazione e lo stato opposto non può esserci alcun intermediario riguardo al soggetto interessato. Il secondo tipo di privazione è quella che avviene “in corso”; ad esempio, la malattia rappresenta una privazione della salute: non significa che tolga completamente la salute, ma indica piuttosto un percorso che conduce alla sua totale perdita, eventualmente causata dalla morte. Poiché questo tipo di privazione lascia qualcosa intatto, non è sempre l’opposto diretto dello stato opposto; in questo senso, il male rappresenta una privazione del bene, come afferma Simplicio nel suo commento alle “Categorie”: il male, infatti, non toglie completamente tutto il bene, ma ne lascia ancora qualcosa. Pertanto, può esistere qualcosa tra il bene e il male.
+
+Risposta all’Obiezione 2: Ogni oggetto o scopo possiede una qualche forma di bontà o malevolenza, almeno quella naturale ad esso; tuttavia ciò non implica necessariamente una bontà o malevolenza morale, che viene considerata in relazione alla ragione, come già detto sopra. Ed è proprio di questo che stiamo discutendo qui.
+
+Risposta all’Obiezione 3: Non tutto ciò che appartiene a un’azione appartiene anche alla sua specie. Pertanto, anche se la natura specifica di un’azione potrebbe non contenere tutto ciò che è necessario per comporre il suo pieno compimento di bontà, essa non è necessariamente cattiva in senso specifico; né lo è in senso positivo. Così, un uomo, considerato nella sua specie, non è né virtuoso né malvagio.
 
 <span class="atom-split" data-atom="083" data-title="Whether an individual action can be indifferent?" data-chapter="Whether an individual action can be indifferent?" data-kind="atom" data-srclang="en"></span>
 
@@ -3773,6 +4966,24 @@ the good of some virtue, or to the evil of some vice. Thus, if a man's action is
 or repose of his body, it is also directed to the good of virtue, provided he direct his body itself to
 the good of virtue. The same clearly applies to other actions.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un’azione individuale possa essere indifferente. Infatti, non esiste alcuna specie che non contenga, o non possa contenere, un individuo. Tuttavia, un’azione può essere indifferente per quanto riguarda la sua specie, come è stato affermato sopra (A[8]). Pertanto, un’azione individuale può essere indifferente.
+
+Obiezione 2: Inoltre, le azioni individuali generano abitudini simili, come affermato nell’Etica ii, 1. Ma un’[abitudine](/concepts/custom) può essere indifferente: infatti il Filosofo dice (Etica iv, 1) che coloro che hanno un temperamento equilibrato e una disposizione prodiga non sono cattivi; tuttavia è evidente che non siano nemmeno buoni, poiché si allontanano dalla virtù; quindi, in questo senso, le loro abitudini sono indifferenti. Pertanto, alcune azioni individuali sono anch’esse indifferenti.
+
+Obiezione 3: Inoltre, il bene morale appartiene alla virtù, mentre il male morale appartiene al vizio. Tuttavia, a volte accade che un uomo utilizzi un’azione specificamente indifferente per uno scopo malvagio o virtuoso. Pertanto, un’azione individuale può rivelarsi essere indifferente.
+
+Al contrario, Gregorio afferma in un sermone: “Una parola vana è quella che manca sia dell’utilità derivante dalla rettitudine, sia del motivo legato alla necessità giusta o all’utilità pia”. Ma una parola vana è qualcosa di malevolo, perché “gli uomini dovranno renderne conto nel giorno del giudizio” (Matteo 12:36); mentre se non manca il motivo della necessità giusta o dell’utilità pia, allora è buona. Pertanto, ogni parola è o buona o cattiva; per lo stesso motivo, ogni altra azione è anch’essa o buona o cattiva. Quindi, nessuna singola azione può essere considerata indifferente.
+
+Rispondo che talvolta accade che un’azione sia indifferente nella sua specie, ma che, considerata nel suo contesto individuale, possa rivelarsi buona o cattiva. La ragione di ciò è che un’azione morale, come già detto (A[3]), deriva la propria bontà non solo dal proprio oggetto – da cui riceve la propria specie – ma anche dalle circostanze in cui si svolge, che potrebbero essere considerate suoi “accidenti”. Proprio come alcune caratteristiche appartengono a un individuo in base alle sue particolari condizioni individuali, e non in base alla sua specie. Ogni azione umana, pertanto, deve necessariamente avere delle circostanze che la rendano buona o cattiva, almeno in relazione all’intenzione che l’ha motivata. Poiché spetta alla ragione guidare le nostre azioni, se un’azione che deriva da una riflessione deliberata non è diretta verso un fine appropriato, essa è, di per sé, contraria alla ragione e ha quindi il carattere del male; al contrario, se è diretta verso un fine giusto, allora è in armonia con la ragione e ha quindi il carattere del bene. Ora, ogni azione umana che deriva da una riflessione deliberata deve necessariamente essere diretta o meno verso un fine appropriato; pertanto, ogni azione umana che procede da una riflessione consapevole, se considerata nel suo contesto individuale, deve essere buona o cattiva. Tuttavia, se un’azione non deriva da una riflessione deliberata, ma da un semplice atto dell’immaginazione – come quando una persona si accarezza la barba o muove una mano o un piede – allora tale azione, in senso stretto, non è né morale né umana; poiché ciò che è morale dipende dalla ragione. Pertanto, un’azione del genere è indifferente, essendo al di fuori della categoria delle azioni morali.
+
+Risposta all’Obiezione 1: Il fatto che un’azione sia “indifferente” per sua natura può essere inteso in diversi modi. In primo luogo, si può intendere che la stessa natura di quell’azione richieda che essa rimanga indifferente; ed è proprio su questa linea che si basa l’obiezione. Tuttavia, nessuna azione può essere specificamente “indifferente” in questo senso: poiché nessun oggetto dell’azione umana è tale da non poter essere orientato verso il bene o il male, sia attraverso il suo fine che attraverso alcune circostanze. In secondo luogo, l’“indifferenza specifica” di un’azione può derivare dal fatto che, per quanto riguarda la sua natura intrinseca, essa non è né buona né cattiva; pertanto può essere resa buona o cattiva da altri fattori. Così pure l’uomo, per quanto riguarda la sua essenza specifica, non è né bianco né nero; e non è nemmeno una condizione intrinseca della sua natura il fatto di non poter essere bianco o nero; piuttosto, il colore bianco o nero gli viene attribuito da fattori diversi da quelli legati alla sua essenza stessa.
+
+Risposta all’Obiezione 2: Il filosofo afferma che un uomo è cattivo, nel senso proprio del termine, se è dannoso per gli altri; pertanto, poiché non danneggia nessuno se non sé stesso, lo stesso vale per tutte le altre persone che non sono dannose verso gli altri. Tuttavia noi sosteniamo che il male, in generale, sia tutto ciò che è in contrasto con la ragione retta; e in questo senso, ogni singola azione è o buona o cattiva, come già detto in precedenza.
+
+Risposta all’Obiezione 3: Ogni volta che un fine viene intenzionalmente perseguito attraverso il ragionamento deliberato, esso appartiene o al bene di qualche virtù o al male di qualche vizio. Pertanto, se l’azione di una persona è diretta al sostegno o al riposo del proprio corpo, essa è anche volta al bene di una virtù, a condizione che la stessa persona indirizzi il proprio corpo verso il perseguimento del bene. Lo stesso vale chiaramente per altre azioni.
+
 <span class="atom-split" data-atom="084" data-title="Whether a circumstance places a moral action in the species of good or evil?" data-chapter="Whether a circumstance places a moral action in the species of good or evil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a circumstance cannot place a moral action in the species of
@@ -3822,6 +5033,24 @@ of good or evil; since not every circumstance implies accord or disaccord with r
 although one action may have many circumstances, it does not follow that it is in many species.
 Nevertheless there is no reason why one action should not be in several, even disparate, moral
 species, as said above (A[7], ad 1; Q[1], A[3], ad 3).
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che una circostanza non possa attribuire a un’azione morale la natura di bene o male. Infatti, la natura di un’azione deriva dal suo oggetto; ma le circostanze sono diverse dall’oggetto stesso. Pertanto, le circostanze non determinano la natura dell’azione.
+
+Obiezione 2: Inoltre, le circostanze sono, rispetto all’azione morale, ciò che è definito “accidente”, come già detto sopra (Q[7], A[1]). Ma un accidente non costituisce una specie specifica; pertanto, nemmeno una circostanza costituisce una specie di bene o male.
+
+Obiezione 3: Inoltre, una cosa non appartiene a più specie contemporaneamente; invece, un’azione può presentare diverse circostanze. Pertanto, una singola circostanza non è in grado di classificare un’azione morale come buona o cattiva.
+
+Al contrario, il luogo è soltanto una circostanza. Tuttavia, il luogo può rendere un atto morale di un certo tipo di male; infatti, rubare qualcosa in un luogo sacro costituisce un sacrilegio. Pertanto, una circostanza può rendere un atto morale specificamente buono o cattivo.
+
+Rispondo che, proprio come le specie delle cose naturali sono determinate dalle loro forme naturali, così anche le specie degli atti morali sono determinate da forme concepite dalla ragione, come è evidente da quanto detto in precedenza (A[5]). Ma poiché la natura è vincolata a un certo limite e nessun processo naturale può proseguire all’[infinito](/concepts/infinity), deve esistere necessariamente una forma ultima che conferisca una differenza specifica; al di là di essa, non è più possibile alcuna differenza specifica ulteriore. Pertanto, nelle cose naturali, ciò che è accidentale a un oggetto non può essere considerato come una caratteristica costitutiva della sua specie. Al contrario, il processo razionale non è vincolato a termini particolari, poiché può proseguire indefinitamente; quindi ciò che, in un atto, viene considerato semplicemente una circostanza aggiuntiva all’oggetto che ne specifica la natura, può essere ritenuto dalla ragione come condizione principale di quell’oggetto stesso. Ad esempio, appropriarsi della proprietà altrui è definito come furto proprio perché tale azione riguarda una proprietà “altrui”; in questo senso, tale atto appartiene alla specie del furto. Se consideriamo anche l’aspetto spaziale o temporale di tale atto, essi rappresentano semplicemente circostanze aggiuntive. Tuttavia, poiché la ragione può orientarsi anche in base a criteri spaziali e temporali, può accadere che una condizione legata allo spazio o al tempo venga ritenuta contraria alla logica razionale; ad esempio, la ragione vieta di danneggiare un luogo sacro. Pertanto, rubare in un luogo sacro rappresenta un atto particolarmente ripugnante rispetto all’ordine della ragione. In questo modo, ciò che inizialmente veniva considerato semplicemente una circostanza diventa la condizione principale dell’atto e, di conseguenza, contraria alla ragione stessa. E così, ogni volta che una circostanza ha un rapporto particolare con la ragione – sia a favore che contro di essa – essa deve necessariamente determinare la natura morale dell’atto, sia essa buona o cattiva.
+
+Risposta all’Obiezione 1: Una circostanza, nella misura in cui specifica un’azione, viene considerata come una condizione dell’oggetto, come già detto in precedenza, e come una sorta di differenza specifica dello stesso.
+
+Risposta all’Obiezione 2: Una circostanza, finché rimane tale, non specifica un’azione, poiché in tal caso rappresenta soltanto un semplice accidente; ma quando diventa una condizione essenziale dell’oggetto in questione, allora essa specifica effettivamente l’azione da compiere.
+
+Risposta all’Obiezione 3: Non è ogni circostanza a far rientrare un atto morale nella categoria del bene o del male; infatti, non tutte le circostanze implicano accordo o disaccordo con la ragione. Pertanto, anche se un atto può presentare molte circostanze, ciò non significa necessariamente che appartenga a diverse categorie morali. Tuttavia, non esiste alcun motivo per cui un atto non possa rientrare in più categorie morali, persino diverse tra loro, come già detto sopra (A[7], ad 1; Q[1], A[3], ad 3).
 
 <span class="atom-split" data-atom="085" data-title="Whether every circumstance that makes an action better or worse, places a moral action in a species of good or evil?" data-chapter="Whether every circumstance that makes an action better or worse, places a moral action in a species of good or evil?" data-kind="atom" data-srclang="en"></span>
 
@@ -3893,6 +5122,35 @@ in the intention?
 (10) Whether it is necessary for the human will, in order to be good, to be conformed to the
 Divine Will, as regards the thing willed?
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che ogni circostanza relativa al bene o al male specifici un’azione. Infatti, il bene e il male rappresentano differenze specifiche tra le azioni morali. Pertanto, ciò che causa una differenza nella bontà o nel male di un’azione morale determina anche una differenza specifica, che equivale a far sì che l’azione cambi “specie”. Ora, poiché ciò che rende un’azione migliore o peggiore la fa differire in termini di bontà e male, ne consegue che tale circostanza determina effettivamente un cambiamento nella sua “specie”. Quindi, ogni circostanza che rende un’azione migliore o peggiore costituisce effettivamente una diversa “specie” di azione morale.
+
+Obiezione 2: Inoltre, una qualsiasi circostanza aggiuntiva o possiede di per sé il carattere del bene o del male, oppure non lo possiede affatto. Se non lo possiede, non può rendere un’azione migliore o peggiore; infatti ciò che non è buono non può generare un bene maggiore, e ciò che non è malvagio non può generare un male maggiore. Ma se una circostanza possiede di per sé il carattere del bene o del male, proprio per questo motivo essa rappresenta una specifica forma di bene o di male. Pertanto, ogni circostanza che rende un’azione migliore o peggiore costituisce una nuova specie di bene o di male.
+
+Obiezione 3: Inoltre, secondo Dionisio (Div. Nom. iv), “il male è causato da ogni singolo difetto”. Ora, ogni circostanza che aumenta la malvagità possiede un difetto specifico; pertanto, ogni tale circostanza aggiunge una nuova specie di peccato. Per lo stesso motivo, ogni circostanza che aumenta la bontà sembra aggiungere una nuova specie di bontà: proprio come ogni unità aggiunta a un numero ne crea una nuova specie; poiché il bene consiste in “numero, peso e misura” (FP, Q[5], A[5]).
+
+Al contrario, “di più” e “di meno” non modificano la natura di una specie morale. Tuttavia, “di più” o “di meno” rappresentano circostanze che possono aumentare o diminuire il grado di bontà o malvagità di un’azione. Pertanto, non tutte le circostanze che rendono un’azione morale migliore o peggiore la collocano necessariamente in una categoria di bene o male.
+
+Rispondo che, come già detto sopra (A[10]), una circostanza conferisce a un’azione morale il carattere di buona o cattiva nella misura in cui essa rientra in un particolare ordine della ragione. Tuttavia, a volte una circostanza non riguarda direttamente tale ordine del razionale in termini di bene e male, se non sulla base di un’altra circostanza precedente da cui l’azione trae il proprio carattere positivo o negativo. Ad esempio, prendere qualcosa in quantità maggiore o minore non ha in sé alcun riferimento all’ordine della ragione per quanto riguarda il bene e il male, se non si presuppone un’altra condizione che conferisca all’azione tale carattere; per esempio, se ciò che viene preso appartiene a qualcun altro, il che rende l’azione contraria alla ragione. Pertanto, prendere qualcosa che appartiene ad altri in quantità maggiore o minore non modifica la natura stessa del peccato; tuttavia, può aggravarlo o attenuarlo. Lo stesso vale per altre azioni buone o cattive. Di conseguenza, non ogni circostanza che rende un’azione morale migliore o peggiore ne cambia effettivamente la natura.
+
+Risposta all’Obiezione 1: Nei casi in cui qualcosa può essere più o meno intenso, la differenza di intensità non modifica la sua specie; così, anche se un oggetto varia nel grado di bianchezza, ciò non altera la sua specie di colore. Allo stesso modo, ciò che rende un’azione più o meno buona o cattiva non fa sì che l’azione stessa cambi di specie.
+
+Risposta all’Obiezione 2: Una circostanza che aggrava un peccato, o che aumenta la bontà di un’azione, a volte non possiede in sé alcuna bontà o malvagità, ma lo possiede in relazione ad un’altra condizione dell’azione, come già detto sopra. Pertanto, essa non aggiunge una nuova “specie” di bontà o malvagità, ma aumenta soltanto quella derivante da tale altra condizione dell’azione.
+
+Risposta all’Obiezione 3: Una circostanza non comporta sempre di per sé un difetto specifico; a volte causa un difetto in relazione a qualcos’altro. Allo stesso modo, una circostanza non aggiunge sempre ulteriore perfezione, se non in relazione a qualcos’altro. E anche quando lo fa, pur potendo aumentare la bontà o la malvagità di un atto, non modifica necessariamente la natura stessa di quel bene o male. **Della bontà e della malvagità dell’atto interno della volontà (dieci articoli)**  
+Ora dobbiamo considerare la bontà dell’atto interno della volontà; in questo ambito vi sono dieci punti da esaminare:  
+(1) Dipende forse la bontà della volontà dal soggetto che la compie?  
+(2) Dipende soltanto dall’oggetto su cui si concentra?  
+(3) Dipende dalla ragione?  
+(4) Dipende dalla [legge eterna](/concepts/eternal_law)?  
+(5) Una ragione errata obbliga necessariamente a compiere un atto malvagio?  
+(6) È malvagia la volontà che segue una ragione errata, contraria alla legge di Dio?  
+(7) La bontà della volontà, in relazione ai mezzi utilizzati, dipende dall’intenzione finale dell’atto?  
+(8) Il grado di bontà o malvagità della volontà è determinato dal grado di bontà o malvagità dell’intenzione stessa?  
+(9) Dipende forse la bontà della volontà dalla sua conformità alla Volontà Divina?  
+(10) È necessario che la volontà umana, per essere buona, sia conforme alla Volontà Divina riguardo all’oggetto desiderato?
+
 <span class="atom-split" data-atom="086" data-title="Whether the goodness of the will depends on the object?" data-chapter="Whether the goodness of the will depends on the object?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the goodness of the will does not depend on the object. For
@@ -3932,6 +5190,24 @@ such action is not an act of the will, as stated above (Q[1], A[1], ad 2).
 Reply to Objection 3: Good is presented to the will as its object by the reason: and in so far
 as it is in accord with reason, it enters the moral order, and causes moral goodness in the act of the
 will: because the reason is the principle of human and moral acts, as stated above (Q[18], A[5]).
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la bontà della volontà non dipenda dall’oggetto verso cui essa è diretta. Infatti, la volontà non può essere indirizzata se non verso ciò che è buono; poiché “il male è al di fuori dell’ambito della volontà”, come afferma Dionisio (Div. Nom. iv). Se quindi la bontà della volontà dipendesse dall’oggetto, ne conterrebbe che ogni atto della volontà sia buono e nessuno cattivo.
+
+Obiezione 2: Inoltre, il bene è innanzitutto considerato in relazione al fine che esso persegue; pertanto la bontà di tale fine, in sé stessa, non dipende da nulla altro. Tuttavia, secondo il Filosofo (Etica VI, 5), “la bontà dell’azione è il fine stesso, mentre la bontà del fare non è mai considerata un fine”: poiché quest’ultima è sempre finalizzata all’oggetto che viene creato, come al suo scopo ultimo. Quindi la bontà dell’atto volontario non dipende da alcun oggetto esterno.
+
+Obiezione 3: Inoltre, una cosa è ciò che essa effettivamente è. Ma l’oggetto della volontà è il bene, in virtù della bontà intrinseca alla natura stessa. Pertanto, la volontà non può conferire valore morale all’oggetto stesso. Quindi, il valore morale della volontà non dipende dall’oggetto su cui si concentra.
+
+Al contrario, il Filosofo afferma (Etica v, 1) che la giustizia è quella abitudine “per mezzo della quale gli uomini desiderano cose giuste”; di conseguenza, la virtù è un’abitudine attraverso la quale gli uomini desiderano cose buone. Ma una volontà buona è quella che è in accordo con la virtù. Pertanto, la bontà della volontà deriva dal fatto che un uomo vuole ciò che è buono.
+
+Rispondo che il bene e il male sono differenze essenziali dell’atto della volontà. Poiché il bene e il male riguardano in sé la volontà, proprio come la verità e la falsità riguardano la ragione; l’atto della volontà è essenzialmente diviso dalla differenza tra verità e falsità, poiché un’opinione viene definita vera o falsa proprio in base a questo criterio. Di conseguenza, il bene e il male sono atti che differiscono per specie. Ora, la differenza specifica negli atti dipende dagli oggetti, come già detto sopra (Q[18], A[5]). Pertanto, il bene e il male negli atti della volontà derivano propriamente dagli oggetti su cui tali atti si rivolgono.
+
+Risposta all’Obiezione 1: La volontà non è sempre diretta verso ciò che è veramente buono, ma talvolta verso il bene apparente; quest’ultimo possiede certamente un certo grado di bontà, ma non quella sorta di bontà che sia realmente degna di desiderio. Per questo motivo, l’atto della volontà non è sempre buono, ma a volte cattivo.
+
+Risposta all’Obiezione 2: Sebbene un’azione possa, in un certo senso, essere lo scopo finale dell’uomo; tuttavia, tale azione non costituisce un atto della volontà, come già affermato sopra (Q[1], A[1], ad 2).
+
+Risposta all’Obiezione 3: Il bene viene presentato alla volontà come suo oggetto attraverso la ragione; e nella misura in cui è in accordo con la ragione, entra nell’ordine morale e genera bontà morale nell’atto della volontà, poiché la ragione è il principio degli atti umani e morali, come già detto sopra (Q[18], A[5]).
 
 <span class="atom-split" data-atom="087" data-title="Whether the goodness of the will depends on the object alone?" data-chapter="Whether the goodness of the will depends on the object alone?" data-kind="atom" data-srclang="en"></span>
 
@@ -3990,6 +5266,24 @@ Reply to Objection 3: Ignorance of circumstances excuses malice of the will, in 
 circumstance affects the thing willed: that is to say, in so far as a man ignores the circumstances
 of the act which he wills.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la bontà della volontà non dipenda soltanto dall’oggetto su cui essa si dirige. Infatti, lo scopo ha un legame più stretto con la volontà rispetto a qualsiasi altra facoltà umana; tuttavia, anche gli atti delle altre facoltà traggono la loro bontà non solo dall’oggetto, ma anche dallo scopo per cui vengono compiuti, come abbiamo dimostrato in precedenza (Q[18], A[4]). Pertanto, anche l’atto della volontà trae la sua bontà non soltanto dall’oggetto, ma anche dallo scopo che si prefigge.
+
+Obiezione 2: Inoltre, la bontà di un’azione deriva non solo dall’oggetto, ma anche dalle circostanze, come già affermato in precedenza (Q[18], A[3]). Tuttavia, a causa della diversità delle circostanze, può esserci anche diversità nella bontà o nel male di un atto volontario: ad esempio, se una persona desidera fare qualcosa nel momento giusto, nel luogo giusto, nella misura giusta e nel modo giusto, oppure se desidera farlo in modo errato. Pertanto, la bontà della volontà dipende non solo dall’oggetto, ma anche dalle circostanze.
+
+Obiezione 3: Inoltre, l’ignoranza delle circostanze scusa la malizia della volontà, come già affermato sopra (Q[6], A[8]). Ma ciò non sarebbe vero se la bontà o la malvagità della volontà dipendessero dalle circostanze. Pertanto, la bontà e la malvagità della volontà dipendono dalle circostanze, e non soltanto dall’oggetto di tale volontà.
+
+Al contrario, un’azione non riceve la propria “specie” dalle circostanze stesse, come detto sopra (Q[18], A[10], ad 2). Ma il bene e il male sono differenze specifiche dell’atto della volontà, come affermato in precedenza (A[1]). Pertanto, la bontà o la malvagità della volontà dipendono non dalle circostanze, ma unicamente dall’oggetto dell’azione stessa.
+
+Rispondo che, in ogni genere, più una cosa è “prima” (ossia fondamentale o essenziale), più essa è semplice e meno sono i principi di cui è composta; pertanto, gli elementi primari sono sempre semplici. È quindi evidente che le cose più fondamentali di ogni genere siano, in qualche modo, semplici e costituite da un solo principio. Ora, il principio della bontà o del male nelle azioni umane deriva dall’atto della volontà; pertanto, la bontà o il male dell’atto della volontà dipendono da un unico elemento, mentre la bontà o il male di altre azioni possono dipendere da diversi fattori. Poiché quel principio essenziale non è qualcosa di accidentale rispetto al genere in questione, ma ne costituisce l’essenza stessa – poiché tutto ciò che è accidentale può essere ridotto a qualcosa di essenziale, in termini di principio – ne consegue che la bontà dell’atto della volontà dipende esclusivamente da quel singolo elemento, che di per sé genera bontà nell’atto stesso. Quell’elemento è l’oggetto dell’atto, e non le circostanze, che sono soltanto fattori accidentali dell’azione stessa.
+
+Risposta all’Obiezione 1: La fine è l’oggetto della volontà, ma non degli altri poteri. Pertanto, riguardo all’atto della volontà, la bontà derivante dall’oggetto non differisce da quella che deriva dalla fine, così come queste due cose differiscono negli atti degli altri poteri; forse solo occasionalmente, nel caso in cui una fine dipenda da un’altra, e un atto della volontà da un altro.
+
+Risposta all’Obiezione 2: Poiché l’atto della volontà è rivolto verso un bene, nessuna circostanza può rendere tale atto cattivo. Pertanto, quando si afferma che una persona desideri qualcosa di buono quando non dovrebbe farlo, o in un contesto in cui non dovrebbe farlo, ciò può essere inteso in due modi. Primo: la circostanza in questione riguarda l’oggetto del desiderio; in questo caso, l’atto della volontà non è rivolto verso qualcosa di buono, poiché voler fare qualcosa quando non si dovrebbe farlo non significa volere qualcosa di buono. Secondo: la circostanza riguarda l’atto stesso del volere; in questo caso, è impossibile volere qualcosa di buono quando non si dovrebbe farlo, poiché si dovrebbe sempre volere ciò che è buono, tranne forse, occasionalmente, nel caso in cui una persona, desiderando un certo bene, venga impedita dal desiderare contemporaneamente un altro bene che invece dovrebbe desiderare. In tal caso, il male deriva non dal suo desiderio per quel particolare bene, ma dal fatto che non ha desiderato l’altro bene. Lo stesso vale per le altre circostanze.
+
+Risposta all’Obiezione 3: L’ignoranza delle circostanze scusa la malizia della volontà, nella misura in cui tali circostanze influenzano l’atto che si intende compiere; in altre parole, nella misura in cui una persona ignora le condizioni specifiche dell’azione che desidera attuare.
+
 <span class="atom-split" data-atom="088" data-title="Whether the goodness of the will depends on reason?" data-chapter="Whether the goodness of the will depends on reason?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the goodness of the will does not depend on reason. For what
@@ -4029,6 +5323,24 @@ of the end.
 
 Reply to Objection 3: The will moves the reason in one way: the reason moves the will in
 another, viz. on the part of the object, as stated above (Q[9], A[1]).
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la bontà della volontà non dipenda dalla ragione. Infatti ciò che precede non dipende da ciò che segue. Tuttavia, il bene appartiene alla volontà prima ancora che alla ragione, come è chiaro da quanto detto in precedenza (Q[9], A[1]). Pertanto, la bontà della volontà non dipende dalla ragione.
+
+Obiezione 2: Inoltre, il Filosofo afferma (Etica VI, 2) che la bontà dell’intelletto pratico sia “una verità in conformità con un desiderio retto”. Ma un desiderio retto è una buona volontà. Pertanto, la bontà della ragione pratica dipende dalla bontà della volontà, e non il contrario.
+
+Obiezione 3: Inoltre, il motore non dipende da ciò che viene mosso, ma viceversa. Tuttavia, la volontà muove la ragione e le altre facoltà, come detto sopra (Q[9], A[1]). Pertanto, la bontà della volontà non dipende dalla ragione.
+
+Al contrario, Hilary afferma (De Trin. x): “È una volontà indisciplinata quella che persiste nei propri desideri in opposizione alla ragione”. Ma la bontà della volontà consiste proprio nel non essere indisciplinata. Pertanto, la bontà della volontà dipende dal fatto che essa sia sottomessa alla ragione.
+
+Rispondo che, come già detto sopra (AA[1],2), la bontà della volontà dipende propriamente dall’oggetto a cui essa si rivolge. Ora, l’oggetto della volontà le viene proposto attraverso la ragione: il bene, infatti, è considerato l’oggetto appropriato per la volontà; mentre il bene sensibile o immaginario non è appropriato alla volontà, ma piuttosto al desiderio sensibile. Poiché la volontà può tendere verso il bene universale, che la ragione comprende, mentre il desiderio sensibile tende soltanto verso il bene particolare, percepito dai sensi. Pertanto, la bontà della volontà dipende dalla ragione, nello stesso modo in cui dipende dall’oggetto a cui si rivolge.
+
+Risposta all’Obiezione 1: Il bene, considerato in sé stesso, cioè come qualcosa che suscita desiderio, riguarda prima la volontà che la ragione. Ma se considerato come vero, riguarda la ragione; sotto l’aspetto della verità, il bene riguarda ancora la volontà, ma solo dopo essere stato compreso dalla ragione: poiché la volontà non può desiderare un bene che non sia prima stato percepito o inteso dalla ragione.
+
+Risposta all’Obiezione 2: Il filosofo parla qui dell’intelletto pratico, nel senso in cui esso consiglia e ragiona sui mezzi necessari per raggiungere un fine desiderato; in questo ambito, infatti, l’intelletto pratico viene perfezionato dalla prudenza. Per quanto riguarda i mezzi stessi, la rettitudine del ragionamento dipende dal loro accordo con il desiderio di un fine legittimo; tuttavia, il desiderio stesso di tale fine presuppone, da parte dell’intelletto, una corretta comprensione di quel fine.
+
+Risposta all’Obiezione 3: La volontà muove la ragione in un certo modo; la ragione, a sua volta, muove la volontà in un altro modo, cioè riguardo all’oggetto, come già detto sopra (Q[9], A[1]).
 
 <span class="atom-split" data-atom="089" data-title="Whether the goodness of the will depends on the eternal law?" data-chapter="Whether the goodness of the will depends on the eternal law?" data-kind="atom" data-srclang="en"></span>
 
@@ -4150,6 +5462,26 @@ Reply to Objection 3: Whenever reason apprehends something as evil, it apprehend
 some species of evil; for instance, as being something contrary to a divine precept, or as giving
 scandal, or for some such like reason. And then that evil is reduced to that species of malice.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la volontà non sia cattiva quando è in disaccordo con una ragione errata. Poiché la ragione è la regola della volontà umana, nella misura in cui deriva dalla [legge eterna](/concepts/eternal_law), come detto sopra (A[4]). Ma una ragione errata non deriva dalla legge eterna; pertanto, una ragione errata non può essere considerata la regola della volontà umana. Quindi, la volontà non è cattiva quando è in disaccordo con una ragione errata.
+
+Obiezione 2: Inoltre, secondo [Agostino](/figures/augustine), l’ordine di un’autorità inferiore non è obbligatorio se è in contrasto con l’ordine di un’autorità superiore; ad esempio, se un governatore provinciale ordina qualcosa che è proibito dall’imperatore. Tuttavia, la ragione errata a volte propone ciò che è contrario all’ordine di una potenza suprema, ovvero di Dio, la cui autorità è assoluta. Pertanto, la decisione presa da una ragione errata non è obbligatoria. Di conseguenza, la volontà non è cattiva se è in disaccordo con una ragione errata.
+
+Obiezione 3: Inoltre, ogni volontà malvagia può essere ricondotta a qualche forma di malizia. Ma la volontà che è in disaccordo con una ragione errata non può essere ricondotta a nessuna forma di malizia. Ad esempio, se la ragione di un uomo gli ordina di commettere adulterio, e la sua volontà si rifiuta di farlo, questa volontà non può essere considerata malvagia. Pertanto, la volontà non è malvagia quando è in disaccordo con una ragione errata.
+
+Al contrario, come affermato nelle FP, Q[79], A[13], la coscienza non è altro che l’applicazione della conoscenza a un’azione specifica. Ora, la conoscenza risiede nella ragione; pertanto, quando la volontà è in disaccordo con una ragione errata, essa va contro la coscienza. Ma ogni volontà del genere è malvagia; infatti è scritto (Romani 14:23): “Tutto ciò che non proviene dalla fede” – cioè tutto ciò che è contrario alla coscienza – “è peccato”. Pertanto, la volontà è malvagia quando è in disaccordo con una ragione errata.
+
+Rispondo che, poiché la coscienza è una sorta di comando della ragione (essendo essa un’applicazione della conoscenza all’azione, come detto nel FP, Q[19], A[13]), indagare se la volontà sia malvagia quando è in disaccordo con una ragione errata equivale a chiedersi “se una coscienza errata possa vincolare”. In merito a questo punto, alcuni hanno distinto tre tipi di azioni: alcune sono buone in senso generale; altre sono indifferenti; altre ancora sono malvagie in senso generale. Essi affermano che se la ragione o la coscienza ci dicono di fare qualcosa che è buono in senso generale, non vi è errore; allo stesso modo, se ci dicono di non fare qualcosa che è malvagio in senso generale, non vi è errore, poiché è la stessa ragione a prescrivere ciò che è buono e a proibire ciò che è male. D’altra parte, se la ragione o la coscienza di una persona le dicono che è obbligata a fare qualcosa che in sé è malvagio, o che qualcosa che in sé è buono è proibito, allora la sua ragione o la sua coscienza errano. Allo stesso modo, se la ragione o la coscienza le dicono che qualcosa che in sé è indifferente – ad esempio raccogliere una paglia dal suolo – sia proibito o comandato, allora la sua ragione o la sua coscienza errano. Pertanto, essi affermano che quando la ragione o la coscienza errano in questioni indifferenti, sia imponendo che vietando tali azioni, esse vincolano; quindi la volontà che è in disaccordo con una tale ragione errata è malvagia e peccaminosa. Tuttavia, sostengono che quando la ragione o la coscienza errano nel comandare qualcosa che in sé è malvagio, o nel vietare qualcosa che in sé è buono e necessario per la salvezza, esse non vincolano; pertanto, in tali casi, la volontà che è in disaccordo con una ragione o una coscienza errata non è malvagia.  
+Ma ciò è irragionevole. Poiché, nelle questioni indifferenti, la volontà che è in disaccordo con una ragione o una coscienza errata è malvagia in qualche modo a causa dell’oggetto su cui dipende il bene o il male della volontà; non certo a causa dell’oggetto in sé, secondo la sua natura intrinseca, ma perché la ragione lo percepisce accidentalmente come qualcosa di male da fare o da evitare. E poiché l’oggetto della volontà è ciò che viene proposto dalla ragione, come detto sopra (A[3]), il semplice fatto che una cosa venga proposta dalla ragione come malvagia fa sì che la volontà, tendendo verso di essa, diventi malvagia. E questo vale non solo per le questioni indifferenti, ma anche per quelle che sono buone o malvagie in sé. Poiché non solo le questioni indifferenti possono assumere il carattere di bene o di male in modo accidentale, ma anche ciò che è buono può assumere il carattere di male, o ciò che è male può assumere il carattere di bene, a seconda del modo in cui la ragione lo percepisce. Ad esempio, astenersi dalla fornicazione è un atto buono; tuttavia, la volontà non tende verso questo bene se non nella misura in cui viene proposto dalla ragione. Pertanto, se una ragione errata lo propone come qualcosa di male, la volontà tenderà verso di esso come verso qualcosa di malvagio. Di conseguenza, la volontà è malvagia, perché desidera il male, non certo ciò che è effettivamente male.
+In sé, ciò che è male non è tale in modo intrinseco, ma lo diventa accidentalmente, a causa della percezione che ne ha la ragione. Allo stesso modo, credere in Cristo è buono in sé e necessario per la salvezza; tuttavia, la volontà non tende spontaneamente verso questo scopo, se non nella misura in cui viene guidata dalla ragione. Pertanto, se la ragione presenta questa fede come qualcosa di male, anche la volontà tenderà ad essa come a qualcosa di male: non perché essa sia davvero malvagia in sé, ma perché lo diventa in modo accidentale, a causa della valutazione errata fornita dalla ragione. Per questo motivo il Filosofo afferma (Etica, vii, 9) che “in senso proprio, l’uomo incontrollato è colui che non segue la retta ragione; ma in senso accidentale, è anche colui che non segue una ragione errata”. Dobbiamo quindi concludere che, in termini assoluti, ogni volontà che si discosta dalla ragione, sia essa corretta o errata, è sempre considerabile male.
+
+Risposta all’Obiezione 1: Sebbene il giudizio di una ragione errata non derivi da Dio, tuttavia quella ragione errata presenta il proprio giudizio come vero e, di conseguenza, come proveniente da Dio, da Colui dal quale proviene toda la verità.
+
+Risposta all’Obiezione 2: Il detto di Agostino è valido quando si sa che un’autorità inferiore prescrive qualcosa di contrario al comando di un’autorità superiore. Tuttavia, se una persona ritenesse che il comando del proconsole fosse lo stesso dell’imperatore, disprezzando il comando del proconsole disprezzerrebbe anche quello dell’imperatore. Allo stesso modo, se una persona sapesse che la ragione umana prescrive qualcosa di contrario al comandamento di Dio, non sarebbe obbligata ad attenersi a tale ragionamento; ma in tal caso la ragione stessa non sarebbe del tutto errata. Tuttavia, quando una ragione errata propone qualcosa come se fosse un comando divino, allora disprezzare i dettami di tale ragione equivale a disprezzare il comandamento stesso di Dio.
+
+Risposta all’Obiezione 3: Ogni volta che la ragione percepisce qualcosa come male, lo percepisce in relazione a una determinata specie di male; ad esempio, come qualcosa che è contrario a un precetto divino, o che provoca scandalo, o per motivi simili. In questo modo, quel male viene ricondotto a quella specifica specie di malevolezza.
+
 <span class="atom-split" data-atom="091" data-title="Whether the will is good when it abides by erring reason?" data-chapter="Whether the will is good when it abides by erring reason?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the will is good when it abides by erring reason. For just as
@@ -4210,6 +5542,24 @@ do it. Nor is he in a dilemma about the matter: because he can put aside his evi
 manner, suppose a man's reason or conscience to err through inexcusable ignorance, then evil must
 needs result in the will. Nor is this man in a dilemma: because he can lay aside his error, since his
 ignorance is vincible and voluntary.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la volontà sia buona quando segue una ragione errata. Poiché, proprio come la volontà, quando è in disaccordo con la ragione, tende verso ciò che la ragione considera male; allo stesso modo, quando è in accordo con la ragione, tende verso ciò che la ragione considera bene. Tuttavia, la volontà è cattiva quando è in disaccordo con la ragione, anche quando questa si sbaglia. Pertanto, anche quando segue una ragione errata, la volontà è comunque buona.
+
+Obiezione 2: Inoltre, la volontà è sempre buona quando segue il comandamento di Dio e la [legge eterna](/concepts/eternal_law). Ma la legge eterna e il comandamento di Dio ci vengono presentati attraverso l’intuizione della ragione, anche quando questa si sbaglia. Pertanto, la volontà è buona anche quando segue una ragione errata.
+
+Obiezione 3: Inoltre, la volontà è cattiva quando è in contrasto con una ragione errata. Se quindi la volontà è cattiva anche quando segue una ragione errata, sembra che sia sempre cattiva quando è associata a una ragione errata; in tal caso, un uomo si troverebbe in difficoltà e, necessariamente, commetterebbe peccato: il che è assurdo. Pertanto, la volontà è buona quando segue una ragione errata.
+
+Al contrario, la volontà di coloro che uccisero gli apostoli era malvagia. Eppure essa era in accordo con la ragione errata, secondo Giovanni 16:2: “Verrà l’ora in cui chiunque vi ucciderà penserà di rendere un servizio a Dio”. Pertanto, la volontà può essere malvagia quando segue una ragione errata.
+
+Rispondo che, poiché la domanda precedente equivale a chiedere “se una coscienza in errore vincoli l’individuo”; questa domanda equivale invece a chiedere “se una coscienza in errore possa scusare un atto compiuto su tale base”. Ora, questa domanda dipende da quanto detto in precedenza riguardo all’ignoranza. È stato infatti affermato (Q[6], A[8]) che l’ignoranza talvolta rende un atto involontario e altre volte no; poiché il bene e il male morali derivano dall’atto nella misura in cui esso è volontario, come detto sopra (A[2]), è evidente che quando l’ignoranza rende un atto involontario, essa toglie a tale atto il carattere di bene o male morale; al contrario, se l’ignoranza non rende l’atto involontario, allora tale ignoranza non scusa l’atto stesso. Inoltre, è stato ancora affermato che quando l’ignoranza è volontaria, sia direttamente che indirettamente, essa non rende l’atto involontario. Defino “volontaria in modo diretto” quell’ignoranza che corrisponde a una scelta deliberata della volontà; mentre definisco “volontaria in modo indiretto” quell’ignoranza dovuta alla negligenza, ovvero al desiderio di non conoscere ciò che si dovrebbe sapere. Se quindi la ragione o la coscienza commettono un errore involontario, sia direttamente che a causa di negligenza, e tale errore riguarda ciò che si dovrebbe sapere, allora tale errore non scusa la volontà che segue tale ragione errata dal considerarsi cattiva. Ma se l’errore deriva dall’ignoranza di una determinata circostanza, senza alcuna negligenza, e rende l’atto involontario, allora tale errore scusa la volontà che segue tale ragione errata dal considerarsi cattiva. Ad esempio, se una ragione errata suggerisce a qualcuno di approcciare la moglie di un altro uomo, la volontà che segue tale ragione è certamente cattiva; poiché questo errore deriva dall’ignoranza della [Legge Divina](/concepts/divine_law), che tale persona è obbligata a conoscere. Ma se una persona confonde qualcuno con sua moglie per errore, e desidera restituire ciò che le spetta quando lei lo chiede, la sua volontà non può essere considerata cattiva; poiché questo errore deriva dall’ignoranza di una circostanza specifica, ignoranza che può essere scusata, e che rende l’atto involontario.
+
+Risposta all’Obiezione 1: Come afferma Dionigi (Div. Nom. iv), “i buoni risultati derivano dall’intera causa; i cattivi risultati, invece, da ogni singolo difetto”. Pertanto, affinché ciò verso cui tende la volontà venga considerato male, è sufficiente che sia malvagio in sé stesso o che venga percepito come tale. Ma affinché possa essere considerato bene, deve esserlo in entrambi i sensi.
+
+Risposta all’Obiezione 2: La legge eterna non può sbagliare, ma la ragione umana sì. Pertanto, la volontà che si attiene alla ragione umana non è sempre giusta, né sempre in armonia con la legge eterna.
+
+Risposta all’Obiezione 3: Proprio come negli argomenti sillogistici, se si ammette un’assurdità, ne devono necessariamente derivarne altre; allo stesso modo, in materia morale, se si accetta un’assurdità, ne conseguiranno inevitabilmente altre. Supponiamo ad esempio che un uomo cerchi la vanità: commetterà peccato, sia che compia il proprio dovere per motivi di vanità sia che lo ometta. Non si trova in alcun dilemma al riguardo, poiché può abbandonare quella sua intenzione malvagia. Allo stesso modo, se la ragione o la coscienza di un uomo errano a causa di una ignoranza inescusabile, allora il male dovrà necessariamente manifestarsi nella sua volontà. Nemmeno in questo caso si trova in difficoltà, poiché può eliminare quell’errore, dato che la sua ignoranza è superabile e volontaria.
 
 <span class="atom-split" data-atom="092" data-title="Whether the goodness of the will, as regards the means, depends on the intention of the end?" data-chapter="Whether the goodness of the will, as regards the means, depends on the intention of the end?" data-kind="atom" data-srclang="en"></span>
 
@@ -4325,6 +5675,29 @@ Hence the argument does not prove.
 Reply to Objection 3: The mere malice of the intention suffices to make the will evil: and
 therefore too, the will is as evil as the intention is evil. But the same reasoning does not apply to
 goodness, as stated above (ad 2).
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il grado di bontà nella volontà dipenda dal grado di bontà dell’intenzione. Poiché in Matteo 12:35 si legge: “L’uomo buono, dal tesoro buono del suo cuore, produce ciò che è buono”, un commento afferma: “Un uomo compie tanto bene quanta ne intende”. Tuttavia, l’intenzione conferisce bontà non solo all’azione esterna, ma anche all’atto stesso della volontà, come già detto in precedenza (A[7]). Pertanto, la bontà della volontà di un uomo è proporzionale alla bontà delle sue intenzioni.
+
+Obiezione 2: Inoltre, se si aggiunge qualcosa alla causa, si aumenta anche l’effetto. Ma la bontà dell’intenzione è proprio la causa della buona volontà. Pertanto, la volontà di un uomo è buona nella misura in cui la sua intenzione è buona.
+
+Obiezione 3: Inoltre, nelle azioni malvagie, un uomo pecca in proporzione alla sua intenzione; infatti, se qualcuno lanciasse una pietra con l’intenzione di uccidere, sarebbe colpevole di omicidio. Pertanto, per lo stesso motivo, nelle azioni buone, la volontà è buona in proporzione al bene che si intende realizzare.
+
+Al contrario, l’intenzione può essere buona, mentre la volontà è cattiva. Pertanto, per lo stesso motivo, l’intenzione può essere ancora migliore, e la volontà meno buona.
+
+Rispondo che, sia riguardo all’atto che all’intenzione finalistica, possiamo considerare due tipi di “quantità”: una relativa all’oggetto dell’azione, in base al fatto che un uomo desideri o compia un bene di maggiore entità; l’altra legata all’intensità stessa dell’atto, in base al modo in cui quell’uomo intenda e agisca con determinazione; questa seconda quantità riguarda soprattutto l’agente stesso.  
+Se consideriamo queste “quantità” dal punto di vista dell’oggetto, è evidente che l’intensità dell’atto non dipende necessariamente dall’intensità dell’intenzione. Per quanto riguarda l’azione esterna, ciò può accadere in due modi: primo, quando l’oggetto scelto per raggiungere un certo scopo non è proporzionato a tale scopo; ad esempio, se una persona volesse donare dieci sterline, non riuscirebbe a realizzare il suo intento se intendesse acquistare qualcosa che costa cento sterline. Secondo, possono sorgere ostacoli nell’attuazione concreta dell’azione esterna, ostacoli che non possiamo eliminare; ad esempio, una persona desidera andare a Roma, ma incontra impedimenti che leelo impediscono.  
+Per quanto riguarda invece l’atto interno della volontà, ciò accade in un solo modo: poiché gli atti interni della volontà sono sotto il nostro controllo, mentre quelli esterni no. Tuttavia, la volontà può volere un oggetto che non sia proporzionato allo scopo finale; quindi, una volontà orientata verso un tale obiettivo, in sé considerata, non è necessariamente buona quanto l’intenzione che la guida. Tuttavia, poiché anche l’intenzione fa parte dell’atto della volontà – in quanto ne rappresenta il motivo – si può dire che l’intensità dell’intenzione influisce sull’atto stesso; cioè, nella misura in cui la volontà desidera un bene grande per raggiungere uno scopo, anche se il mezzo utilizzato per ottenere tale bene non è proporzionato a esso.  
+Se consideriamo invece l’intensità sia dell’intenzione che dell’atto, in base alla loro rispettiva intensità, allora l’intensità dell’intenzione influisce sia sull’atto interno che su quello esterno della volontà; poiché l’intenzione, come si è detto sopra, rappresenta una sorta di “forma” guida per tali atti. Tuttavia, se consideriamo l’intensità in termini materiali, anche quando l’intenzione è intensa, l’atto interno o esterno potrebbe non esserlo allo stesso modo; ad esempio, quando una persona non desidera assumere medicine con la stessa intensità con cui desidera guarire. Nonostante ciò, il semplice fatto di voler fortemente guarire influisce, come principio formale, sull’intenzione concreta di assumere le medicine necessarie.  
+Bisogna però osservare che l’intensità dell’atto interno o esterno può essere considerata come un oggetto dell’intenzione; ad esempio, quando una persona intende agire con intensità. Tuttavia, ciò non significa necessariamente che agirà con intensità; poiché l’intensità dell’atto stesso non dipende dall’intensità del bene desiderato, come è stato dimostrato sopra.
+Ed è per questo che un uomo non merita quanto intende di meritare: poiché la quantità del merito viene misurata dall’intensità dell’atto, come mostreremo in seguito (Q[20], A[4]; Q[114], A[4]).
+
+Risposta all’Obiezione 1: Questo commento parla del bene nel senso con cui Dio lo considera, Lui che valuta principalmente l’intenzione che sta alla base di un’azione. Per questo motivo, un altro commento sullo stesso passaggio afferma che “il tesoro del cuore è l’intenzione, in base alla quale Dio giudica le nostre opere”. Poiché la bontà dell’intenzione, come detto sopra, si riflette, per così dire, nella bontà della volontà, che rende anche l’atto esterno meritevole agli occhi di Dio.
+
+Risposta all’Obiezione 2: La bontà dell’intenzione non costituisce l’unica causa di una buona volontà. Pertanto, questo argomento non è convincente.
+
+Risposta all’Obiezione 3: La semplice malvagità dell’intenzione è sufficiente per rendere il volere malvagio; pertanto, il volere è altrettanto malvagio quanto lo è l’intenzione. Tuttavia, lo stesso ragionamento non si applica alla bontà, come già detto sopra (ad 2).
 
 <span class="atom-split" data-atom="094" data-title="Whether the goodness of the will depends on its conformity to the Divine will?" data-chapter="Whether the goodness of the will depends on its conformity to the Divine will?" data-kind="atom" data-srclang="en"></span>
 
@@ -4457,6 +5830,30 @@ different things, but not under the same aspect: but there is opposition of will
 and the same aspect, one man wills a thing which another wills not. But there is no question of this
 here.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la volontà umana non debba sempre conformarsi alla volontà divina riguardo all’oggetto della volontà stessa. Infatti, non possiamo volere ciò che non conosciamo; poiché il bene percepito è l’oggetto della volontà. Tuttavia, in molte circostanze non sappiamo ciò che Dio vuole. Pertanto, la volontà umana non può conformarsi alla volontà divina riguardo all’oggetto specifico della volontà stessa.
+
+Obiezione 2: Inoltre, Dio vuole condannare l’uomo che prevede morirà in peccato mortale. Pertanto, se l’uomo fosse obbligato a conformare la propria volontà alla volontà divina riguardo all’oggetto di tale volontà, ne conseguirebbe che l’uomo sia costretto a desiderare la propria condanna. Il che è inaccettabile.
+
+Obiezione 3: Inoltre, nessuno è obbligato a volere ciò che è contrario alla pietà filiale. Ma se l’uomo volesse ciò che Dio vuole, questo talvolta sarebbe contrario alla pietà filiale: ad esempio, quando Dio vuole la morte di un padre; se anche suo figlio la volesse, ciò sarebbe contrario alla pietà filiale. Pertanto, l’uomo non è obbligato a conformare la propria volontà alla volontà divina, né riguardo al contenuto di tale volontà, né riguardo all’atto stesso di volerla.
+
+Al contrario:  
+(1) Riguardo al Salmo 32:1, “Lode sia al giusto”, un commento afferma: “È giusto colui il cui cuore è retto, colui che desidera ciò che Dio desidera”. Ma tutti sono tenuti ad avere un cuore retto; pertanto, tutti sono tenuti a desiderare ciò che Dio desidera.  
+(2) Inoltre, la volontà prende forma dall’oggetto al quale si rivolge, proprio come ogni atto umano. Se dunque l’uomo è tenuto ad adeguare la propria volontà alla volontà divina, ne consegue che deve conformarla esattamente a ciò che Dio vuole.  
+(3) Infine, l’opposizione tra le volontà umane sorge quando queste desiderano cose diverse da quelle volute da Dio. Chiunque abbia una volontà in contrasto con quella divina possiede una volontà malvagia; pertanto, chi non conforma la propria volontà a quella divina ha necessariamente una volontà malvagia.
+
+Rispondo che, come è evidente da quanto detto in precedenza (AA[3],5), la volontà tende verso il proprio oggetto, nella misura in cui questo viene concepito dalla ragione. Ora, una cosa può essere considerata in modi diversi dalla ragione; quindi può apparire buona da un punto di vista e non buona da un altro. Pertanto, se la volontà di un uomo desidera che una cosa esista, poiché essa appare buona, allora questa volontà è buona; allo stesso modo, la volontà di un altro uomo che desidera che quella stessa cosa non esista, poiché essa appare cattiva, è anch’essa buona. Ad esempio, un giudice ha una volontà “buona” quando desidera che un ladro venga messo a morte, poiché ciò è giusto; mentre la volontà di qualcun altro – ad esempio, della moglie o del figlio del ladro – che desidera che il ladro non venga messo a morte, poiché uccidere rappresenta un male naturale, è anch’essa “buona”. Poiché la volontà segue le concezioni fornite dalla ragione, più universale è l’aspetto del bene considerato, più universale sarà il bene verso cui tende la volontà. Questo è evidente nell’esempio precedente: il giudice tiene conto del bene comune, che è la giustizia, e quindi desidera la morte del ladro, poiché questa rappresenta un bene per lo stato sociale; mentre la moglie del ladro, considerando il bene della famiglia, desidera che suo marito non venga messo a morte. Ora, il bene dell’intero universo è ciò che Dio comprende, poiché Egli è il Creatore e il Governatore di tutte le cose; quindi tutto ciò che Egli desidera lo fa nel nome del bene comune; questa è la Sua Bontà, che corrisponde al bene dell’intero universo. D’altra parte, la comprensione di una creatura, in base alla sua natura, riguarda un bene particolare, proporzionato a quella natura stessa. Una cosa può essere considerata buona da un certo punto di vista e non da un altro, come già detto. Pertanto, alcune volontà umane possono essere “buone” quando riguardano cose opposte, poiché, sotto diversi aspetti, desiderano che una certa cosa esista o non esista. Tuttavia, la volontà di un uomo non è giusta se mira a un bene particolare senza riferirsi al bene comune come fine ultimo; infatti anche i desideri naturali delle singole parti sono orientati verso il bene comune dell’intero. Il fine ultimo fornisce, in qualche modo, la ragione formale per volere ciò che è diretto verso quel fine. Pertanto, affinché un uomo voglia un bene particolare in modo giusto, deve volerlo materialmente come bene concreto e formalmente come bene divino e universale. Di conseguenza, la volontà umana deve essere conforme a quella divina, nel senso del bene formale che essa desidera; ma non nel senso del bene concreto, per le ragioni già espresse in precedenza.
+Nello stesso tempo, sotto entrambi questi aspetti, la volontà umana è conforme a quella Divina, in una certa misura. Poiché, nella misura in cui si conforma alla volontà Divina nell’aspetto comune dell’oggetto voluto, lo fa anche riguardo al fine ultimo perseguito; mentre, nella misura in cui non si conforma a quella volontà nell’aspetto materiale dell’oggetto stesso, si conforma invece a essa considerata come causa efficiente. Infatti, l’inclinazione naturale o derivante da una particolare comprensione di un certo oggetto proviene da Dio come sua causa efficiente. Per questo motivo si dice comunemente che la volontà umana, in questo senso, sia conforme a quella Divina, poiché desidera ciò che Dio vuole che desideri.  
+Esiste ancora un altro tipo di conformità, relativa alla causa formale: essa consiste nel fatto che l’uomo desidera qualcosa per carità, esattamente come Dio lo desidera. Anche questa conformità si riduce, in definitiva, a quella relativa al fine ultimo, che è l’oggetto specifico della carità stessa.
+
+Risposta all’Obiezione 1: Possiamo conoscere in modo generale ciò che Dio vuole. Poiché sappiamo che tutto ciò che Dio vuole lo vuole nell’aspetto del bene. Pertanto, chiunque voglia qualcosa nell’ambito di qualsiasi aspetto del bene, ha una volontà conforme alla volontà divina, in quanto essa corrisponde alla ragione stessa di quella cosa voluta. Tuttavia, non sappiamo ciò che Dio vuole in modo specifico; e in questo senso non siamo obbligati a conformare la nostra volontà a quella divina. Ma nello [stato](/concepts/state) della gloria, ognuno vedrà in ogni cosa che desidera la relazione di quella cosa con ciò che Dio vuole in quella specifica materia. Di conseguenza, conformerà la propria volontà a quella di Dio in tutte le cose, non solo formalmente, ma anche materialmente.
+
+Risposta all’Obiezione 2: Dio non desidera la dannazione di un uomo, intesa proprio come tale, né la morte di un uomo, intesa proprio come morte; infatti, “Dio vuole che tutti gli uomini siano salvati” (1 Timoteo 2:4); ma Egli desidera queste cose dal punto di vista della giustizia. Pertanto, per quanto riguarda tali cose, è sufficiente che l’uomo desideri il mantenimento della giustizia di Dio e dell’ordine naturale. Quindi la risposta all’Terza Obiezione è evidente.  
+Rispetto al primo argomento presentato in senso contrario, si deve affermare che un uomo che conforma la propria volontà a quella di Dio, dal punto di vista della ragione dell’atto voluto, desidera ciò che Dio desidera; più di quanto lo faccia un altro uomo che conforma anch’egli la propria volontà a quella di Dio, ma riguardo al contenuto specifico di quell’atto. Infatti, la volontà tende maggiormente verso il fine che verso ciò che serve a realizzare quel fine.  
+Rispetto al secondo argomento, si deve osservare che la specie e la forma di un atto derivano dall’oggetto considerato in termini formali, e non da quello considerato in termini materiali.  
+Rispetto al terzo argomento, si deve affermare che non esiste opposizione tra le volontà quando diverse persone desiderano cose diverse, ma non sotto lo stesso aspetto; invece, sussiste opposizione tra le volontà quando, sotto lo stesso aspetto, una persona desidera qualcosa che un’altra non desidera. Ma in questo caso non si tratta di tale situazione.
+
 <span class="atom-split" data-atom="096" data-title="OF GOODNESS AND MALICE IN EXTERNAL HUMAN AFFAIRS (SIX ARTICLES)" data-chapter="OF GOODNESS AND MALICE IN EXTERNAL HUMAN AFFAIRS (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider goodness and malice as to external actions: under which head there are
@@ -4469,6 +5866,16 @@ action?
 (4) Whether the external action adds any goodness or malice to that of the interior act?
 (5) Whether the consequences of an external action increase its goodness or malice?
 (6) Whether one and the same external action can be both good and evil?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la bontà e la malvagità in relazione agli atti esterni: in questa categoria esistono sei punti di indagine:  
+(1) Se la bontà e la malvagità risiedano prima nell’atto della volontà o nell’atto esterno stesso?  
+(2) Se l’intera bontà o malvagità di un atto esterno dipenda dalla bontà della volontà che lo ha compiuto?  
+(3) Se la bontà e la malvagità dell’atto interno siano le stesse di quelle dell’atto esterno?  
+(4) Se l’atto esterno aggiunga qualche elemento di bontà o malvagità a quello interno?  
+(5) Se le conseguenze di un atto esterno aumentino la sua bontà o malvagità?  
+(6) Se lo stesso atto esterno possa essere sia buono che cattivo?
 
 <span class="atom-split" data-atom="097" data-title="Whether goodness or malice is first in the action of the will, or in the external action?" data-chapter="Whether goodness or malice is first in the action of the will, or in the external action?" data-kind="atom" data-srclang="en"></span>
 
@@ -4560,6 +5967,24 @@ Reply to Objection 3: Voluntariness applies not only to the interior act of the 
 external actions, inasmuch as they proceed from the will and the reason. Consequently the difference
 of good and evil is applicable to both the interior and external act.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che tutta la bontà o la malvagità dell’azione esterna dipendano dalla bontà della volontà. Infatti è scritto (Matteo 7:18): “Un albero buono non può produrre frutti cattivi, né un albero cattivo può produrre frutti buoni”. Ma, secondo l’interpretazione allegorica, l’albero rappresenta la volontà e il frutto le azioni. Pertanto è impossibile che un atto interno della volontà sia buono e un atto esterno cattivo, o viceversa.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (Retractationes, i, 9) che non esiste peccato senza la volontà. Pertanto, se non vi è peccato nella volontà, non ne esisterà nemmeno nell’azione esterna. E così, tutta la bontà o la malvagità dell’azione esterna dipende dalla volontà.
+
+Obiezione 3: Inoltre, il bene e il male di cui stiamo parlando ora sono differenze che riguardano l’atto morale. Secondo il Filosofo (Metafisica vii, 12), le differenze costituiscono una divisione essenziale all’interno di un genere. Poiché quindi un atto è morale in quanto volontario, sembra che il bene e il male in un atto derivino esclusivamente dalla volontà.
+
+Al contrario, Agostino afferma (In difesa della verità contro i mendaci, VII) che “esistono alcune azioni le quali né un fine nobile né una volontà buona possono rendere virtuose”.
+
+Rispondo che, come già detto sopra (A[1]), possiamo considerare due tipi di bontà o malvagità nell’azione esterna: una relativa alla materia e alle circostanze appropriate; l’altra relativa all’ordine rispetto allo scopo finale. Quella che riguarda l’ordine rispetto allo scopo dipende interamente dalla volontà, mentre quella legata alla materia e alle circostanze appropriate dipende dalla ragione. Ed è proprio di questa bontà che dipende la bontà della volontà, nella misura in cui essa tende verso tale scopo. Ora, come osservato in precedenza (Q[19], A[6], ad 1), affinché una cosa sia considerata cattiva è sufficiente un solo difetto; al contrario, affinché sia considerata buona, non basta che lo sia in un solo aspetto: deve esserlo sotto ogni riguardo. Pertanto, se la volontà è buona sia per il suo oggetto naturale che per lo scopo finale, ne consegue che anche l’azione esterna è buona. Ma se la volontà è buona soltanto in relazione allo scopo finale, ciò non è sufficiente affinché l’azione esterna sia considerata buona; al contrario, se la volontà è cattiva, sia per motivi legati allo scopo finale che all’atto stesso voluto, ne consegue che anche l’azione esterna è cattiva.
+
+Risposta all’Obiezione 1: Se l’albero buono viene inteso come simbolo della buona volontà, ciò deve valere nella misura in cui la volontà trae la bontà dall’atto voluto e dal fine perseguito.
+
+Risposta all’Obiezione 2: Un uomo pecca per sua volontà, non solo quando desidera un risultato malvagio, ma anche quando compie un atto malvagio per sua volontà.
+
+Risposta all’Obiezione 3: La volontarietà si applica non solo all’atto interno della volontà, ma anche alle azioni esterne, nella misura in cui queste derivano dalla volontà e dalla ragione. Pertanto, la distinzione tra bene e male è applicabile sia agli atti interni che a quelli esterni.
+
 <span class="atom-split" data-atom="099" data-title="Whether the goodness and malice of the external action are the same as those of the interior act?" data-chapter="Whether the goodness and malice of the external action are the same as those of the interior act?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the goodness and malice of the interior act of the will are not
@@ -4625,6 +6050,25 @@ the body of an animal, of which health medicine is the cause, and urine the sign
 that the goodness of the external action is derived from the goodness of the will, and vice versa;
 viz. according to the order of one to the other.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la bontà e la malvagità dell’atto interno della volontà non siano le stesse di quelle dell’atto esterno. Infatti, il principio dell’atto interno è la facoltà conoscitiva o desiderativa dell’anima; mentre il principio dell’atto esterno è la forza che realizza quel movimento. Ora, dove i principi degli atti sono diversi, anche gli atti stessi sono diversi. Inoltre, è l’atto stesso a essere soggetto di bontà o malvagità; e lo stesso attributo non può appartenere a soggetti diversi. Pertanto, la bontà dell’atto interno non può essere la stessa di quella dell’atto esterno.
+
+Obiezione 2: Inoltre, “Una virtù rende buono colui che la possiede e rende anche buona l’azione che compie” (Etica, ii, 6). Tuttavia, la virtù intellettiva, nella sua funzione di comandare, è distinta dalla virtù morale, nella funzione sottoposta a quel comando, come si afferma nell’Etica, i, 13. Pertanto, la bontà dell’azione interna, che appartiene alla funzione di comandare, è diversa dalla bontà dell’azione esterna, che appartiene alla funzione sottoposta a quel comando.
+
+Obiezione 3: Inoltre, la stessa cosa non può essere allo stesso tempo causa ed effetto; poiché nulla è la propria causa.  
+Ma la bontà dell’atto interno è la causa della bontà dell’atto esterno, o viceversa, come già affermato in precedenza (AA[1],2). Pertanto, non si tratta della stessa bontà in entrambi i casi.
+
+Al contrario, come è stato dimostrato in precedenza (Q[18], A[6]), l’atto della volontà rappresenta, per così dire, la forma dell’azione esterna. Ora, ciò che deriva dagli elementi materiale e formale costituisce una sola entità. Pertanto, esiste soltanto un’unica bontà nell’atto sia interno che esterno.
+
+Rispondo che, come già detto sopra (Q[17], A[4]), l’atto interno della volontà e l’atto esterno, considerati dal punto di vista morale, sono un unico atto. Tuttavia, a volte lo stesso atto individuale presenta diversi aspetti di bontà o malvagità, altre volte ne presenta soltanto uno. Pertanto dobbiamo dire che, a volte, la bontà o la malvagità dell’atto interno è identica a quella dell’atto esterno, e altre volte no. Poiché, come abbiamo già affermato (AA[1],2), queste due forme di bontà o malvagità sono tra loro correlate. In alcuni casi, ciò che è subordinato ad altro può essere considerato buono semplicemente per il fatto di essere subordinato; ad esempio, una bevanda amara è buona perché favorisce la salute. Quindi non esistono due forme distinte di bontà: una legata alla salute e l’altra legata alla bevanda stessa, ma una sola e unica forma di bontà. D’altro canto, a volte ciò che è subordinato presenta in sé stesso aspetti di bontà, oltre al fatto di essere subordinato ad altro; ad esempio, un farmaco gradevole può essere considerato buono sia per il suo effetto benefico sulla salute sia per il piacere che procura nell’assumerlo. Pertanto dobbiamo dire che, quando l’atto esterno riceve la sua bontà o malvagità soltanto in relazione al fine per cui è compiuto, allora esiste una sola e unica forma di bontà: quella dell’atto della volontà che mira direttamente a quel fine e quella dell’atto esterno che raggiunge tale fine attraverso l’atto della volontà. Tuttavia, quando l’atto esterno possiede in sé stesso una propria bontà, cioè in relazione alla sua materia e alle sue circostanze, allora la bontà dell’atto esterno è distinta dalla bontà della volontà; tuttavia questa bontà del fine si trasferisce nell’atto esterno, così come la bontà della materia e delle circostanze si trasferisce nell’atto della volontà, come già affermato sopra (AA[1],2).
+
+Risposta all’Obiezione 1: Questo argomento dimostra che le azioni interne ed esterne sono diverse nell’ordine fisico; tuttavia, nonostante la loro diversità in questo senso, si combinano per formare un’unica entità nell’ordine morale, come già affermato sopra (Q[17], A[4]).
+
+Risposta all’Obiezione 2: Come affermato nell’Etica VI, 12, una virtù morale è destinata all’atto che essa stessa realizza, poiché tale atto rappresenta, per così dire, lo scopo stesso della virtù; mentre la prudenza, che opera nella ragione, è destinata alle azioni volte a raggiungere quel fine. Per questo motivo sono necessarie varie virtù. Tuttavia, la retta ragione, in relazione allo scopo stesso di una virtù, non possiede altra bontà se non quella della virtù stessa, nella misura in cui la bontà della ragione è presente in ogni virtù.
+
+Risposta all’Obiezione 3: Quando una cosa deriva da un’altra, come nel caso di una causa efficiente univoca, allora le due cose non sono identiche; ad esempio, il calore emesso da un oggetto riscaldante è diverso dal calore dell’oggetto stesso, anche se sono la stessa cosa in termini specifici. Tuttavia, quando una cosa deriva da un’altra attraverso analogia o proporzione, allora le due cose sono identiche; ad esempio, la “salute” presente nella medicina o nell’urina deriva dalla salute del corpo animale. Inoltre, il concetto di salute applicato all’urina e alla medicina non è diverso da quello di salute applicato al corpo dell’animale: in questo caso, la medicina è la causa della salute, mentre l’urina ne è un segno. È proprio in questo modo che la bontà dell’azione esterna deriva dalla bontà della volontà, e viceversa; cioè secondo l’ordine logico che esiste tra di esse.
+
 <span class="atom-split" data-atom="100" data-title="Whether the external action adds any goodness or malice to that of the interior act?" data-chapter="Whether the external action adds any goodness or malice to that of the interior act?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the external action does not add any goodness or malice to
@@ -4680,6 +6124,22 @@ and circumstances, is distinct from that which it derives from the end; but it i
 that which it has from the very act willed, to which it stands in the relation of measure and cause,
 as stated above (AA[1],2).
 From this the reply to the Third Objection is evident.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’azione esterna non aggiunga alcuna bontà o malvagità all’azione interna. Infatti Crisostomo afferma (Hom. xix in Mat.): “È la volontà che viene premiata per il bene compiuto o punita per il male commesso”. Ora, le azioni sono i testimoni della volontà; pertanto Dio cerca le azioni non per sé stesso, affinché possa giudicare correttamente, ma per il bene degli altri, affinché tutti comprendano quanto sia giusto. Ma il bene e il male devono essere valutati secondo il giudizio di Dio, e non secondo quello dell’uomo. Quindi l’azione esterna non aggiunge alcuna bontà o malvagità all’azione interna.
+
+Obiezione 2: Inoltre, la bontà e la malvagità degli atti interni ed esterni sono la stessa cosa, come già affermato sopra (A[3]). Ma l’aumento consiste nell’aggiungere qualcosa a qualcos’altro. Pertanto, l’atto esterno non aggiunge nulla alla bontà o alla malvagità dell’atto interno.
+
+Obiezione 3: Inoltre, l’intera bontà delle cose create non contribuisce alla Bontà Divina, poiché essa deriva interamente da quest’ultima. Tuttavia, a volte l’intera bontà di un atto esterno deriva dalla bontà di un atto interno, e altre volte viceversa, come già accennato sopra (AA[1],2). Pertanto, nessuno dei due elementi contribuisce alla bontà o al male dell’altro.
+
+Al contrario, ogni agente intende realizzare il bene e evitare il male. Pertanto, se con le proprie azioni esterne non si aggiunge alcun ulteriore bene o male, è inutile che colui che ha la volontà di fare del bene o del male compia un atto buono o si astenga da un atto malvagio. Il che è assurdo.
+
+Rispondo che, se parliamo della bontà che l’azione esterna deriva dalla volontà orientata verso un fine specifico, allora tale azione non aggiunge nulla a questa bontà, a meno che la volontà stessa non venga migliorata in cose buone o peggiorata in cose cattive. Ciò può avvenire in tre modi: innanzitutto, in termini di numero; ad esempio, se una persona desidera compiere un’azione con uno scopo buono o cattivo, ma non la compie subito, e poi lo fa successivamente, l’atto della sua volontà diventa doppio, e di conseguenza ne deriva un doppio bene o un doppio male. In secondo luogo, in termini di intensità: quando una persona desidera compiere un’azione per uno scopo buono o cattivo ma incontra degli ostacoli, mentre un’altra persevera fino a realizzarla effettivamente, è evidente che la volontà della seconda persona sia più determinata nel perseguire quel fine, e quindi migliore o peggiore a seconda del caso. Infine, in termini di estensione: alcune azioni esterne, per il loro carattere piacevole o doloroso, tendono naturalmente a rendere la volontà più intensa o meno debole; è evidente che più intensamente la volontà si orienta verso il bene o il male, migliore o peggiore sarà. D’altra parte, se parliamo della bontà che l’azione esterna deriva dalla sua materia e dalle circostanze in cui avviene, allora tale azione agisce sulla volontà come suo fine e suo obiettivo. In questo senso, essa contribuisce alla bontà o al male della volontà stessa; infatti, ogni inclinazione o movimento si perfeziona quando raggiunge il proprio scopo. Pertanto, la volontà non è perfetta se non è in grado di realizzare quel fine, qualora ne abbia l’opportunità. Tuttavia, anche nel caso in cui ciò sia impossibile, purché la volontà sia sufficientemente forte da poterlo comunque realizzare, la mancanza di successo derivante dall’azione esterna non costituisce una vera e propria imperfezione della volontà stessa. Proprio come un atto compiuto involontariamente non merita né punizione né ricompensa nel perseguimento di azioni buone o cattive, allo stesso modo tale involontarietà non riduce né aumenta la ricompensa o la punizione che una persona potrebbe ricevere per aver compiuto tali azioni.
+
+Risposta all’Obiezione 1: Crisostomo si riferisce al caso in cui la volontà di un uomo è completa e non si astiene dall’agire se non a causa dell’impossibilità di realizzarlo.
+
+Risposta all’Obiezione 2: Questo argomento si riferisce alla bontà che l’azione esterna deriva dalla volontà, in quanto tendente verso un fine specifico. Tuttavia, la bontà che l’azione esterna riceve dalla sua materia e dalle sue circostanze è distinta da quella che deriva dal fine stesso; non è però diversa da quella che derivante dall’atto stesso voluto, in relazione di misura e causa, come già detto sopra (AA[1],2). Da ciò consegue chiaramente la risposta alla Terza Obiezione.
 
 <span class="atom-split" data-atom="101" data-title="Whether the consequences of the external action increase its goodness or malice?" data-chapter="Whether the consequences of the external action increase its goodness or malice?" data-kind="atom" data-srclang="en"></span>
 
@@ -4739,6 +6199,30 @@ reckoned as punishable.
 Reply to Objection 4: This argument would prove if irregularity were the result of the fault.
 But it is not the result of the fault, but of the fact, and of the obstacle to the reception of a [sacrament](/concepts/sacrament).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le conseguenze di un’azione esterna aumentino la sua bontà o malvagità. Infatti, l’effetto preesiste virtualmente nella causa stessa; ma le conseguenze derivano dall’azione come effetto della sua causa. Pertanto, anche esse esistono virtualmente fin dalla fase iniziale dell’azione. Ora, una cosa viene giudicata buona o cattiva in base alla sua virtù, poiché una virtù “fa sì che ciò che la possiede sia buono” (Etica, ii, 6). Quindi, le conseguenze aumentano effettivamente la bontà o malvagità di un’azione.
+
+Obiezione 2: Inoltre, le buone azioni dei suoi ascoltatori sono conseguenze derivanti dalle parole di un predicatore. Ma tali beni vanno a vantaggio del predicatore stesso, come è evidente in Filippi 4:1: “Carissimi fratelli miei, mia gioia e mia corona”. Pertanto, le conseguenze di un’azione aumentano la sua bontà o malvagità.
+
+Obiezione 3: Inoltre, la punizione non aumenta se non aumenta anche il peccato; per questo è scritto (Deuteroeronimo 25:2): “Secondo la misura del peccato sarà anche la misura della punizione”. Ma la punizione aumenta a causa delle conseguenze; infatti è scritto (Esodo 21:29): “Se l’bue aveva già il vizio di spingere con le corna ieri e il giorno prima, e se qualcuno aveva avvertito il suo padrone ma questi non lo aveva rinchiuso, e poi l’bue uccidesse un uomo o una donna, allora l’bue dovrà essere lapidato e anche il suo proprietario dovrà essere messo a morte”. Tuttavia, il proprietario non sarebbe stato messo a morte se l’bue, pur non essendo stato rinchiuso, non avesse ucciso nessuno. Pertanto, sono le conseguenze ad aumentare la bontà o la malvagità di un atto.
+
+Obiezione 4: Inoltre, se una persona compie un atto che potrebbe causare la morte, sia attraverso un colpo fisico che attraverso una sentenza, e se la morte non si verifica, essa non commette alcun errore o irregolarità; al contrario, lo commetterebbe se la morte dovesse verificarsi. Pertanto, le conseguenze di un atto influenzano positivamente o negativamente la sua bontà o malvagità.
+
+Al contrario, le conseguenze di un’azione non rendono cattiva un’azione che era già tale in sé; né buona un’azione che era invece buona. Ad esempio, se una persona dona del denaro a un povero che ne fa cattivo uso commettendo un peccato, ciò non annulla il bene compiuto dal donatore; e allo stesso modo, se una persona sopporta pazientemente un torto subito, ciò non scusa il colpevole. Pertanto, le conseguenze di un’azione non aumentano la sua bontà o malvagità intrinseche.
+
+Rispondo che le conseguenze di un’azione sono o previste o no. Se sono previste, è evidente che esse aumentino la bontà o la malvagità di quell’azione. Infatti, quando una persona prevede che dalla sua azione possano derivare molti mali e tuttavia non si astiene da compierla, ciò dimostra quanto la sua volontà sia irragionevole.  
+Ma se le conseguenze non sono previste, dobbiamo fare una distinzione: se queste derivano dalla natura stessa dell’azione e, nella maggior parte dei casi, aumentano effettivamente la bontà o la malvagità di quell’azione, allora essa è senz’altro migliore o peggiore a seconda dei risultati che ne derivano. D’altra parte, se le conseguenze si verificano per caso e raramente, allora esse non influenzano in alcun modo la bontà o la malvagità dell’azione stessa; infatti, giudichiamo una cosa soltanto in base a ciò che le è intrinseco, e non in base a ciò che le accade casualmente.
+
+Risposta all’Obiezione 1: La virtù di una causa viene misurata dall’effetto che deriva dalla natura stessa della causa, e non da ciò che ne risulta per caso.
+
+Risposta all’Obiezione 2: Le buone azioni compiute dagli ascoltatori derivano dalle parole del predicatore, come un effetto che scaturisce dalla loro stessa natura. Pertanto, tali azioni vanno riconosciute come merito del predicatore, soprattutto quando tale è la sua intenzione.
+
+Risposta all’Obiezione 3: Le conseguenze per le quali quell’uomo viene ordinato di essere punito derivano sia dalla natura della causa stessa che si presuppone siano state previste. Per questo motivo vengono considerate punibili.
+
+Risposta all’Obiezione 4: Questo argomento dimostrerebbe che l’irregolarità derivi dal difetto stesso.  
+Ma in realtà non deriva dal difetto, bensì dal fatto stesso e dall’ostacolo che impedisce la ricezione di un [sacramento](/concepts/sacrament).
+
 <span class="atom-split" data-atom="102" data-title="Whether one and the same external action can be both good and evil?" data-chapter="Whether one and the same external action can be both good and evil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one and the same external action can be both good and evil.
@@ -4784,6 +6268,27 @@ Reply to Objection 3: The action of the servant, in so far as it proceeds from t
 servant, is not the master's action: but only in so far as it proceeds from the master's command.
 Wherefore the evil will of the servant does not make the action evil in this respect.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che lo stesso atto esterno possa essere sia buono che cattivo.  
+Infatti, “il movimento, se continuo, è uno e lo stesso” (Physica, v, 4). Ma un movimento continuo può essere sia positivo che negativo: ad esempio, una persona potrebbe recarsi in chiesa in modo continuo, con l’intenzione iniziale di cercare la vanità, e successivamente di servire Dio. Pertanto, lo stesso atto può rivelarsi sia buono che cattivo.
+
+Obiezione 2: Inoltre, secondo il Filosofo (Fisica iii, 3), azione e passione costituiscono un unico atto. Tuttavia, la passione può essere buona, come quella di Cristo; l’azione, invece, può essere cattiva, come quella degli Ebrei. Pertanto, lo stesso atto può essere sia buono che cattivo.
+
+Obiezione 3: Inoltre, poiché un servo è, per così dire, uno strumento del suo padrone, l’azione del servo è, in realtà, l’azione del suo padrone, proprio come l’azione di uno strumento è l’azione dell’artigiano che lo utilizza. Tuttavia può accadere che un’azione del servo derivi dalla buona volontà del suo padrone e quindi sia buona; oppure che derivi dalla cattiva volontà del servo e quindi sia cattiva. Pertanto, la stessa azione può essere sia buona che cattiva.
+
+Al contrario, la stessa cosa non può essere oggetto di contrari. Ma il bene e il male sono contrari; pertanto, lo stesso atto non può essere allo stesso tempo buono e cattivo.
+
+Al contrario, la stessa cosa non può essere oggetto di contrari. Ma il bene e il male sono contrari; pertanto, lo stesso atto non può essere allo stesso tempo buono e cattivo.
+
+Rispondo che nulla impedisce a una cosa di essere considerata “una” nel senso in cui appartiene a un certo genere, e “molteplice” nel senso in cui appartiene a un altro genere. Ad esempio, una superficie continua è “una” se considerata nel genere della quantità; ma è “molteplice” se considerata nel genere del colore, qualora sia in parte bianca e in parte nera. Allo stesso modo, nulla impedisce a un’azione di essere considerata “una” nel senso dell’ordine naturale; tuttavia, non lo è nel senso dell’ordine morale; e viceversa, come abbiamo già detto (A[3], ad 1; Q[18], A[7], ad 1). Camminare continuamente rappresenta un’unica azione nell’ordine naturale; ma può essere considerata come molteplici azioni nell’ordine morale, qualora avvenga un cambiamento nella volontà di chi cammina, poiché la volontà è il principio delle azioni morali. Pertanto, se consideriamo un’azione nel senso dell’ordine morale, è impossibile che sia al contempo buona e cattiva; mentre, se la consideriamo soltanto nell’ambito della unità naturale e non morale, può essere sia buona che cattiva.
+
+Risposta all’Obiezione 1: Questo movimento continuo che deriva da diverse intenzioni, sebbene sia unitario nell’ordine naturale, non lo è dal punto di vista dell’unità morale.
+
+Risposta all’Obiezione 2: Azione e passione appartengono all’ordine morale nella misura in cui sono volontarie. Pertanto, nella misura in cui sono volontarie riguardo a volontà diverse, costituiscono due entità distinte; il bene può esistere in una di esse, mentre il male nell’altra.
+
+Risposta all’Obiezione 3: L’azione del servo, nella misura in cui deriva dalla volontà stessa del servo, non è un’azione del padrone; ma lo è soltanto nella misura in cui deriva dall’ordine del padrone. Pertanto, la cattiva volontà del servo non rende tale azione cattiva, in questo senso.
+
 <span class="atom-split" data-atom="103" data-title="OF THE CONSEQUENCES OF HUMAN ACTIONS BY REASON OF THEIR GOODNESS AND MALICE (FOUR ARTICLES)" data-chapter="OF THE CONSEQUENCES OF HUMAN ACTIONS BY REASON OF THEIR GOODNESS AND MALICE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the consequences of human actions by reason of their goodness and
@@ -4792,6 +6297,14 @@ malice: and under this head there are four points of inquiry:
 (2) Whether it thereby deserves praise or blame?
 (3) Whether accordingly, it is meritorious or demeritorious?
 (4) Whether it is accordingly meritorious or demeritorious before God?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare le conseguenze delle azioni umane in base alla loro bontà o malvagità; e in questo ambito vi sono quattro punti di indagine:  
+(1) Se un’azione umana sia giusta o peccaminosa in quanto buona o cattiva;  
+(2) Se essa meriti lode o biasimo;  
+(3) Se, di conseguenza, sia meritoria o demeritosa;  
+(4) Se, allo stesso modo, sia meritoria o demeritosa davanti a Dio.
 
 <span class="atom-split" data-atom="104" data-title="Whether a human action is right or sinful, in so far as it is good or evil?" data-chapter="Whether a human action is right or sinful, in so far as it is good or evil?" data-kind="atom" data-srclang="en"></span>
 
@@ -4846,6 +6359,24 @@ the very intention of this end is ordained to the last end, this same intention 
 Reply to Objection 3: Each thing is ordained to its end by its action: and therefore sin, which
 consists in straying from the order to the end, consists properly in an action. On the other hand,
 punishment regards the person of the sinner, as was stated in the FP, Q[48], A[5], ad 4; A[6], ad
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un’azione umana non sia giusta o peccaminosa soltanto perché è buona o cattiva. Infatti si dice “i mostri sono i peccati della natura” (Fisica, ii, 8). Ma i mostri non sono azioni, bensì entità generate al di fuori dell’ordine naturale. Ora, le cose prodotte secondo l’arte e la ragione imitano quelle che vengono create secondo la natura (Fisica, ii, 8). Pertanto, un’azione non è peccaminosa soltanto perché è disordinata o cattiva.
+
+Obiezione 2: Inoltre, il peccato, come affermato nella Physica ii, 8, si verifica sia nella natura che nell’arte quando lo scopo inteso dalla natura o dall’arte non viene raggiunto. Tuttavia, la bontà o la malvagità di un atto umano dipendono, prima di tutto, dall’intenzione che ne guida l’esecuzione e dal suo successo nel raggiungere lo scopo prefissato. Pertanto, sembra che la malvagità di un atto non lo renda necessariamente peccaminoso.
+
+Obiezione 3: Inoltre, se la malvagità di un’azione la rende peccaminosa, ne consegue che ovunque vi sia male, vi è peccato. Ma questo è falso: poiché la punizione non è un peccato, anche se rappresenta un male. Pertanto, un’azione non è peccaminosa soltanto perché è malvagia.
+
+Al contrario, come mostrato sopra (Q[19], A[4]), la bontà di un’azione umana dipende principalmente dalla [Legge Eterna](/concepts/eternal_law); pertanto la sua malvagità consiste nel fatto che essa è in disaccordo con tale Legge. Ed è proprio questa la natura stessa del peccato, poiché [Agostino](/figures/augustine) afferma (Contra Faustus, xxii, 27) che “il peccato è una parola, un atto o un desiderio in opposizione alla Legge Eterna”. Quindi, un’azione umana è peccaminosa proprio perché è malvagia.
+
+Rispondo che il Male è più ampio del Peccato, così come il Bene è più vasto della Giustizia. Infatti, ogni privazione di Bene, in qualsiasi ambito, rappresenta un Male; mentre il Peccato consiste propriamente in un’azione compiuta con uno scopo specifico, ma priva dell’ordine adeguato a tale scopo. L’ordine appropriato per raggiungere uno scopo viene determinato da una regola: nelle cose che agiscono secondo la natura, questa regola è la forza naturale che le spinge verso quel fine. Pertanto, quando un’azione deriva da una forza naturale e segue l’inclinazione naturale verso lo scopo prefissato, si dice che sia giusta, poiché non oltrepassa i suoi limiti, cioè non devia dall’ordine del principio attivo che la guida verso quel fine. Ma quando un’azione si allontana da questa rettitudine, entra nel concetto di Peccato. Nelle azioni compiute volontariamente, la regola immediata è la ragione umana, mentre la regola suprema è la Legge Eterna. Quindi, quando un’azione umana tende verso lo scopo prefissato, seguendo l’ordine della ragione e della Legge Eterna, si dice che sia giusta; al contrario, se si allontana da questa rettitudine, è considerata un Peccato. È evidente, dunque, da quanto detto (Q[19], AA[3],4), che ogni azione volontaria che si discosta dall’ordine della ragione e della Legge Eterna è malvagia, mentre ogni azione buona è in accordo con la ragione e la Legge Eterna. Ne consegue che un’azione umana sia giusta o peccaminosa in base al fatto che sia buona o malvagia.
+
+Risposta all’Obiezione 1: I mostri vengono definiti “peccati” perché derivano da un errore nell’azione della natura stessa.
+
+Risposta all’Obiezione 2: Lo scopo finale è duplice: lo scopo ultimo e lo scopo immediato. Nel peccato commesso per natura, l’azione fallisce effettivamente riguardo allo scopo ultimo, che è la perfezione della cosa creata; ma non fallisce certo riguardo a alcuno scopo immediato, poiché quando la natura agisce, essa produce qualcosa. Allo stesso modo, il peccato commesso con la volontà fallisce sempre in relazione allo scopo finale inteso, poiché nessun atto malvagio compiuto volontariamente può essere diretto verso la felicità, che è lo scopo ultimo; tuttavia, non fallisce certo riguardo a uno scopo immediato, quello voluto e realizzato dalla volontà stessa. Pertanto, poiché anche l’intenzione di raggiungere tale scopo immediato è diretta verso lo scopo finale, questa stessa intenzione può essere giusta o peccaminosa.
+
+Risposta all’Obiezione 3: Ogni cosa è destinata al proprio fine attraverso le proprie azioni; pertanto il peccato, che consiste nel deviare da tale ordine e scopo, si riferisce propriamente a un atto concreto. D’altra parte, la punizione riguarda la persona del peccatore, come è stato affermato nella FP, Q[48], A[5], ad 4; A[6], ad.
 
 <span class="atom-split" data-atom="105" data-title="Whether a human action deserves praise or blame, by reason of its being good or evil?" data-chapter="Whether a human action deserves praise or blame, by reason of its being good or evil?" data-kind="atom" data-srclang="en"></span>
 
@@ -4902,6 +6433,24 @@ is preferable; but in prudence, as in the moral virtues," which prudence directs
 Reply to Objection 3: Weakness that occurs in voluntary evils, is subject to man's power:
 wherefore it neither takes away nor diminishes guilt.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un’azione umana non meriti lode o biasimo in base al fatto che sia buona o cattiva. Infatti “il peccato si verifica anche nelle azioni compiute per natura” (Fisica, ii, 8). Eppure le cose naturali non meritano né lode né biasimo (Etica, iii, 5). Pertanto, un’azione umana non merita biasimo in quanto cattiva o peccaminosa; e di conseguenza, neanche lode in quanto buona.
+
+Obiezione 2: Inoltre, proprio come il peccato si verifica nelle azioni morali, avviene anche nelle opere d’arte; poiché, come affermato nella Physica ii, 8, “è un errore da parte di un grammatico scrivere male, e da parte di un medico prescrivere il farmaco sbagliato”. Tuttavia, l’artista non viene biasimato per aver creato qualcosa di brutto: poiché l’opera dell’artista è tale che può produrre sia cose buone che cattive. Pertanto, sembra non esserci alcun motivo per biasimare un’azione morale soltanto perché è malvagia.
+
+Obiezione 3: Inoltre, Dionisio afferma (Div. Nom. iv) che il male è “debole e incapace”. Ma la debolezza o l’incapacità eliminano o riducono la colpevolezza. Pertanto, un atto umano non genera colpa solo perché è malvagio.
+
+Al contrario, il Filosofo afferma nel “De Virtute et Vita” che “le azioni virtuose meritano lode, mentre quelle contrarie alla virtù meritano rimprovero e biasimo”. Ma le buone azioni sono virtuose; infatti “la virtù rende buono colui che la possiede e rende buona anche l’azione che compie” (Etica ii, 6): pertanto, le azioni contrarie alla virtù sono malvagie. Quindi un’azione umana merita lode o biasimo in base al fatto che sia buona o cattiva.
+
+Rispondo che, proprio come il male è più ampio del peccato, così anche il peccato è più ampio della colpa. Un’azione, infatti, viene considerata degna di lode o biasimo in base al fatto che venga attribuita all’autore di essa: lodare o biasimare significa, in altre parole, attribuire a qualcuno la malvagità o la bontà delle sue azioni. Un’azione viene attribuita a un individuo quando è sotto il suo controllo, quando egli ha il potere su di essa; infatti è attraverso la sua volontà che l’uomo esercita dominio sulle proprie azioni, come è stato chiarito in precedenza (Q[1], AA[1],2). Ne consegue quindi che il bene o il male, soltanto nelle azioni volontarie, rendono queste degne di lode o biasimo; e in tali azioni, il male, il peccato e la colpa sono la stessa cosa.
+
+Risposta all’Obiezione 1: Le azioni naturali non sono sotto il controllo dell’agente naturale, poiché l’azione della natura è determinata. Pertanto, anche se nelle azioni naturali possa esserci peccato, non vi è alcuna colpa.
+
+Risposta all’Obiezione 2: La ragione si rapporta in modi diversi alle opere d’arte e alle azioni morali. Nel campo dell’arte, la ragione è orientata verso un fine specifico, frutto della stessa riflessione umana; mentre nel campo morale, essa è rivolta al fine generale di tutta la vita umana. Poiché un fine specifico è subordinato a quello generale, il peccato può manifestarsi in due modi: innanzitutto, attraverso una deviazione dal fine inteso dall’artista stesso; in questo caso il peccato riguarda direttamente l’atto artistico. Ad esempio, un artista che realizza un’opera cattiva pur intendendo crearne una buona, o viceversa. In secondo luogo, attraverso una deviazione dal fine generale della vita umana; in questo caso il peccato riguarda l’intera esistenza dell’individuo. Tuttavia, questo tipo di peccato non riguarda l’artista come tale, ma soltanto come essere umano. Pertanto, nel primo caso l’artista viene biasimato nella sua veste di artista; nel secondo caso, come essere umano. Nel campo morale, invece, il peccato deriva sempre da una deviazione dall’ordine razionale volto al fine generale della vita umana; perciò l’uomo viene biasimato sia come individuo che come essere morale. Come afferma il Filosofo nell’Etica (VI, 5): “Nell’arte, colui che pecca volontariamente è preferibile; ma nella prudenza, così come nelle virtù morali – che sono guidate dalla ragione – la situazione è inversa”.
+
+Risposta all’Obiezione 3: La debolezza che si manifesta nei malevoli atti volontari è soggetta al potere dell’uomo; pertanto non sottrae né riduce la colpa.
+
 <span class="atom-split" data-atom="106" data-title="Whether a human action is meritorious or demeritorious in so far as it is good or evil?" data-chapter="Whether a human action is meritorious or demeritorious in so far as it is good or evil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a human action is not meritorious or demeritorious on account
@@ -4952,6 +6501,24 @@ which he is bound to serve the community.
 
 Reply to Objection 3: This very good or evil, which a man does to himself by his action,
 redounds to the community, as stated above.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un’azione umana non sia meritevole o deprecabile in base alla sua bontà o malvagità. Infatti, parliamo di merito o demerito in relazione alla ricompensa, la quale esiste soltanto in contesti legati a un’altra persona. Tuttavia, non tutte le azioni buone o cattive sono correlate a un’altra persona; alcune lo sono direttamente rispetto alla persona che le compie. Pertanto, non ogni azione umana buona o cattiva è necessariamente meritevole o deprecabile.
+
+Obiezione 2: Inoltre, nessuno merita punizione o ricompensa per agire come preferisce riguardo a ciò che gli appartiene: quindi, se un uomo distrugge ciò che è suo, non viene punito, come se avesse distrutto qualcosa che appartiene ad altri. Ma l’uomo è padrone delle proprie azioni; pertanto, non merita punizione o ricompensa per aver indirizzato le proprie azioni verso scopi buoni o cattivi.
+
+Obiezione 3: Inoltre, se un uomo ottiene qualche vantaggio per sé, ciò non gli dà il diritto di essere aiutato da un altro uomo; lo stesso vale per il male. Ora, un’azione buona è in sé stessa una forma di bene e una perfezione dell’agente; mentre un’azione cattiva rappresenta il male di quell’agente. Pertanto, un uomo non merita né subisce conseguenze positive o negative semplicemente perché compie un atto buono o cattivo.
+
+Al contrario, è scritto (Isaia 3:10,11): “Dite all’uomo giusto che tutto andrà bene per lui, perché mangerà i frutti delle sue azioni buone. Maledetto invece l’empio, poiché riceverà la punizione dei suoi malvagi atti.”
+
+Rispondo che parliamo di merito e demerito in relazione alla ricompensa che viene concessa secondo la giustizia. Ora, la ricompensa secondo la giustizia viene data a una persona in base a ciò che ha fatto per il bene o per il danno di un’altra. Inoltre, è da osservare che ogni singolo membro di una società è, in qualche modo, parte dell’intera società; pertanto, qualsiasi bene o male compiuto nei confronti di un membro della società influisce sull’intera comunità: chi danneggia una mano danneggia l’uomo intero. Quando quindi qualcuno compie un atto buono o cattivo verso un altro individuo, il merito o il demerito del suo agire si misura in due modi: innanzitutto, rispetto alla ricompensa che gli spetta da parte di quella persona a cui ha fatto del bene o del male; in secondo luogo, rispetto alla ricompensa che gli spetta da parte dell’intera società. Quando invece un uomo agisce direttamente per il bene o per il danno dell’intera società, la ricompensa che gli spetta viene prima di tutto dall’intera comunità; in secondo luogo, da tutte le sue componenti. Al contrario, quando un uomo compie qualcosa che riguarda soltanto il proprio interesse personale, anche in questo caso esiste una ricompensa, nella misura in cui tale azione influisce sulla società, poiché l’uomo stesso ne fa parte; tuttavia, questa ricompensa non è dovuta a lui nel caso in cui tale azione porti beneficio o danno a un individuo identico a lui stesso. A meno che, forse, non si debba considerare che l’uomo debba una sorta di “ricompensa” a se stesso, secondo il principio per cui si dice che l’uomo debba essere giusto verso se stesso. È quindi evidente che un atto buono o cattivo merita lode o biasimo nella misura in cui è frutto della volontà; è giusto o peccaminoso a seconda dello scopo per cui viene compiuto; e il suo merito o demerito dipende dalla ricompensa che ne deriva, sia essa dovuta alla giustizia o all’ingiustizia verso un altro.
+
+Risposta all’Obiezione 1: Le azioni buone o cattive di un uomo, anche se non destinate al bene o al male di un altro individuo, sono comunque dirette al bene o al male della collettività, ovvero della comunità stessa.
+
+Risposta all’Obiezione 2: L’uomo è padrone delle proprie azioni; eppure, nella misura in cui appartiene a un altro, cioè alla comunità di cui fa parte, merita o demerita a seconda che gestisca le proprie azioni bene o male: proprio come se gestisse al meglio o al peggio altre proprietà sue, per le quali è tenuto a servire la comunità.
+
+Risposta all’Obiezione 3: Questo stesso bene o male che un uomo compie nei confronti di se stesso attraverso le proprie azioni, ha ripercussioni sulla comunità, come già detto in precedenza.
 
 <span class="atom-split" data-atom="107" data-title="Whether a human action is meritorious or demeritorious before God, according as it is good or evil?" data-chapter="Whether a human action is meritorious or demeritorious before God, according as it is good or evil?" data-kind="atom" data-srclang="en"></span>
 
@@ -5004,3 +6571,21 @@ has; and so it does not follow that every action of his acquires merit or demeri
 body politic. But all that man is, and can, and has, must be referred to God: and therefore every
 action of man, whether good or bad, acquires merit or demerit in the sight of God, as far as the
 action itself is concerned.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le azioni dell’uomo, buone o cattive, non siano meritevoli né demeritevoli agli occhi di Dio. Poiché, come detto sopra (A[3]), il merito e il demerito implicano una relazione con la ricompensa per il bene o il male arrecati ad altri. Ma un’azione umana, buona o cattiva, non arreca né bene né male a Dio; infatti è scritto (Job 35:6,7): “Se pechi, che danno potrai recargli?. E se fai il bene, che gli darai in cambio?” Pertanto, un’azione umana, buona o cattiva, non è meritevole né demeritevole agli occhi di Dio.
+
+Obiezione 2: Inoltre, uno strumento non acquisisce alcun merito o demerito agli occhi di colui che lo utilizza; poiché l’intera azione compiuta con quell’strumento appartiene all’utente stesso. Ora, quando l’uomo agisce, egli è in realtà uno strumento del potere divino, che costituisce la causa principale delle sue azioni; per questo si legge (Isaia 10:15): “Potrà forse l’ascia vantarsi di ciò che taglia con essa? O la sega esaltarsi di colui che la usa?” Qui, chiaramente, l’uomo viene paragonato a uno strumento. Pertanto, agli occhi di Dio, l’uomo non merita né demeriti per le sue azioni buone o cattive.
+
+Obiezione 3: Inoltre, un’azione umana acquista merito o demerito nel momento in cui è destinata a qualcun altro. Ma non tutte le azioni umane sono destinate a Dio. Pertanto, non ogni azione buona o cattiva acquisisce merito o demerito ai suoi occhi.
+
+Al contrario, è scritto (Ecclesiaste 12:14): “Tutte le cose che vengono fatte, Dio le porterà davanti al giudizio, sia che siano buone o cattive.” Ora, il giudizio implica una ricompensa, e in questo contesto parliamo di meriti e demeriti. Pertanto, ogni azione umana, sia buona che cattiva, acquisisce meriti o demeriti agli occhi di Dio.
+
+Rispondo che un’azione umana, come detto sopra (A[3]), acquisisce merito o demerito nel momento in cui viene rivolta a qualcun altro, sia per motivi legati a tale persona stessa sia in relazione alla comunità nella quale si svolge: in entrambi i casi, le nostre azioni, buone o cattive, acquisiscono merito o demerito agli occhi di Dio. Da parte di Dio stesso, poiché Egli rappresenta lo scopo finale dell’uomo; ed è nostro dovere riferire tutte le nostre azioni a questo scopo finale, come indicato sopra (Q[19], A[10]). Pertanto, chi compie un atto malvagio che non sia rivolto a Dio, non rende onore a Dio nel suo ruolo di fine ultimo dell’uomo. Da parte della comunità universale nel suo insieme, poiché in ogni comunità colui che ne governa ha come priorità il bene comune; pertanto spetta a lui infliggere ricompense o punizioni per le azioni compiute, buone o cattive, all’interno di quella comunità. Ora, Dio è il governante e il sovrano di tutto l’universo, come affermato nell’FP, Q[103], A[5]; in particolare delle creature razionali. Ne consegue che le azioni umane acquisiscono merito o demerito in relazione a Lui; altrimenti significherebbe che tali azioni non rientrino affatto nella Sua competenza.
+
+Risposta all’Obiezione 1: Dio, in sé stesso, non guadagna né perde nulla a causa delle azioni dell’uomo; ma l’uomo, da parte sua, riceve qualcosa da Dio o Gli offre qualcosa quando osserva o non osserva l’ordine stabilito da Dio.
+
+Risposta all’Obiezione 2: L’uomo è così mosso da Dio, come strumento suo, che al contempo si muove con la propria volontà libera, come è stato spiegato sopra (Q[9], A[6], ad 3). Di conseguenza, con le proprie azioni, l’uomo acquisisce meriti o demeriti agli occhi di Dio.
+
+Risposta all’Obiezione 3: L’uomo, considerato per tutto ciò che è e possiede, non è destinato al [corpo politico](/concepts/commonwealth); pertanto non segue affatto che ogni sua azione acquisisca merito o demerito in relazione a tale corpo politico. Tuttavia, tutto ciò che l’uomo è, può e possiede deve essere riferito a Dio; quindi ogni azione umana, sia buona che cattiva, acquisisce merito o demerito agli occhi di Dio, in relazione alla stessa azione considerata nel suo insieme.

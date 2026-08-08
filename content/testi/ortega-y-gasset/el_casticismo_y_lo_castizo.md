@@ -65,3 +65,99 @@ Tal es la emoción de lo castizo por la cual nos sorprendemos repercutidos en el
 Ahora bien, ésta es la única manera de justificar lo viejo. Con obligarnos a que nos traslademos a él no se consigue nada: por muy cerca que le lleguemos será siempre un pasado y nosotros un presente. Así no podemos intimar. Es menester que nos sintamos nosotros mismos pasado.
 
 Algunas páginas de Azorín consiguen disolver nuestra conciencia actual en el ambiente secular de lo castizo como nuestra carne después de la muerte habrá de desvanecerse en la atmósfera.
+
+<span class="qlang-split" data-lang="en"></span>
+
+The same distinction established between the poet of the costumbrista and the writer of customs we have to make between the casticista writer and the poet of the castizo. This distinction interests me because, calling Azorín a poet of the castizo, I should like to confer on him a high honor, and casticista writer means in my lexicon a form of literary dishonor, I mean, one of the many ways, of the infinite ways among which a poet can choose in order not to be one.
+
+I do not believe that anywhere it has been made, as in Spain, to weigh upon artistic inspiration the imperative of casticism. I know not what excessive solicitude to keep intact the national spirituality has aroused in all the epochs of our literary history certain critical Viriatos, half almogavars, half mandarins, who piled works upon works around the Spanish consciousness, not so much that they might be read as to form with them a high wall in the style of that existing in China. This obsession that we are going to lose our peculiarity is more than suspicious. In the hysterical woman, the very eagerness to lose innocence is wont to become an excessive suspiciousness and unjustified precaution.
+
+A powerful self does not waste time in fears of being absorbed by another; on the contrary, it is sure of being itself the absorbent. Endowed with a strong appetite, it runs wherever there is some assimilable [matter](/positions/materialism). In this way it increases without ceasing, transforms itself and enriches itself. A deep connoisseur of Greece recently came to point out, as the spring of that culture the most original, the most intense, the most personal that has so far been, its enormous capacity for assimilation. And he adds that Greece was only original, intense and personal while it had sensibility for the foreign.
+
+What shall we say of a self always fearful that another may supplant it? That it is a merely defensive self, a personality constituted by the simple negation of the others, and, for that very reason, more than any other in need of them. The least that So-and-so can be is not to be Such-and-such: if we suppress the latter, what remains of the former?
+
+The uninterrupted tradition of the casticist imperative reveals precisely that in the depth of the Spanish consciousness there persisted disquiet and discontent with regard to itself.
+
+To worry so much about one's own personality amounts to recognizing that it is not sufficient, that it does not suffice to itself, at least that it needs guardianship. But casticism is the swaggering gesture that weakness makes in order not to be known.
+
+One could almost say that half of the Spanish books published in the last centuries is dedicated to demonstrating that the other half is admirable. Not to analyzing, potentiating and assaying the latter, but to exalting it. History and criticism have not, until recently, come out of the panegyric genre.
+
+It turns out that other races, to have their personality, had only to have it. Our personality, on the other hand, seems not to consist in being had, but in being demonstrated.
+
+When will this innocent panegyric mania end in Spain? Let us note that true patriotism demands of us that we put an end to that ridiculous spectacle of a people that dedicates its existence to demonstrating scientifically that it exists. Provincialism! Parochialism!
+
+The castizo, precisely because it signifies the spontaneous, the deep and inappreciable substance of a race, cannot be turned into a [norm](/concepts/law). Norms are always abstractions, rigid provisional formulas that cannot aspire to include the unlimited possibilities of being. For love of the Spain of today and tomorrow, let no one wish to reduce us to the Spain of a century or of two centuries that have passed! The psychology of a race has to be understood as a dynamic fluence, always variable, never concluded. Who would have told Shakespeare's contemporaries, all excess and incontinence, that in time to come they were to teach us the art of self-control?
+
+I well know that yonder in secret workshops of myself, in industrious cellars of the heart and the marrow, whatever reaches me from the universe is subjected to a Spanish deformation. I well know that the freedom of my thought and of my emotions, with which it seems to me I gallop whither my will solicits, is only virtual. The shaft that flies through the air trembling with impetus perhaps thinks that it moves itself and can choose in the width of the horizon the white target where to plant itself. And, nevertheless, an arm threw it and certain eyes prefixed its parabolic route. This I am, a shaft cleaving the wind that was hurled by the secular arm of my race.
+
+Each of us proceeds from an original shove that the caste [gave](/axes/god) him, and our life explains, unfolds, manifests the intention that our race had in producing us. But neither a man, nor a century, nor an epoch exhausts the vein of ethnic intentions. Hence it lacks meaning to project, as a norm of what is to come, what a people was in the past. To believe that it depends on our will to be or not to be castizos is to concede too little to the [determinism](/positions/determinism) of the race. Whether we want or not, we are Spaniards, and it is superfluous, therefore, that on top of this we be commanded that we must be so.
+
+A casticista writer is, then, a writer who holds to the forms of poetry invented by other artists of his country; this means that he is an imitator, not a poet. «Poetry —Valera used to say— is all aspiration and vaticination». Let him who does not dare to innovate not dare to write.
+
+Nothing less casticista than Azorín. It will be difficult to find in the literary pantheon of our country a similar writer. Not he, his theme, is the castizo. Therein lies his discernment and his greatest merit.
+
+Azorín has submerged himself in the Spanish past, without drowning in it. He has made of the castizo his object, his matter, but not his work. The castiza or casticista work reproduces the sensibility of a past epoch and could only interest the men of that epoch. Azorín's work is actual; it employs the sentimental organs of the contemporary soul to make it perceive, under the species of the present, the past.
+
+But no, not thus well expressed is the subtle emotion that the brief pictures of Azorín are wont to awaken in us. How to tell it? It is not a question of a historical restoration, as it is not —as we already indicated— a description of customs. Historical restoration is always a fiction: in it the past facts are covered with a varnish that gives them that apparent brilliance, proper to actual things. Moreover, in historical restoration what matters is the past and its approximation to us. All this is external, artificial, superficial, in comparison with the art of which I speak now.
+
+In Azorín —we shall see if thus I make myself clear— it is not the past that feigns presence and actuality, but the present that surprises itself as having already passed, as being a having been.
+
+Ordinarily, we only take note of what constitutes our superficial consciousness; the more habitual, the older our ideas and our emotions are, the less we become aware of them. The deepest layers of our self lie plunged in psychic inertia, in deep slumber. We do not know that this self contains them.
+
+But behold, a word, a certain image wounds those underlying layers and awakens them and makes them enter into activity. With astonishment we perceive that all those past things have not, strictly, passed, that they are our self, this same self of now.
+
+The excellent myth of the transmigration of souls suggests something analogous. Imagine that it were true and that suddenly we found those past lives forming part of ourselves, that we could say like Empedocles: «I have been a boy, a maiden, an eagle, a mute fish in the sea».
+
+Such is the emotion of the castizo by which we surprise ourselves reverberated in the past, seeing ourselves float in the times that were. The casticista ignores modernity: the poet of the castizo, like Azorín, makes modernity be reabsorbed by the past whence it came out.
+
+Now, this is the only way of justifying the old. By obliging us to transport ourselves to it nothing is achieved: however close we come to it, it will always be a past and we a present. Thus we cannot become intimate. It is necessary that we feel ourselves past.
+
+Some pages of Azorín succeed in dissolving our current consciousness in the secular atmosphere of the castizo as our flesh after death will have to dissolve in the atmosphere.
+
+<span class="qlang-split" data-lang="it"></span>
+
+La stessa distinzione stabilita tra poeta del costumbrismo e scrittore di costumi dobbiamo fare tra scrittore casticista e poeta del castizo. Mi interessa questa distinzione perché, chiamando Azorín poeta del castizo, vorrei conferirgli un alto onore, e scrittore casticista significa nel mio lessico una forma del disonore letterario, voglio dire, una delle molte maniere, delle infinite maniere tra cui un poeta può scegliere per non esserlo.
+
+Non credo che in alcuna parte si sia fatto, come in Spagna, pesare sull'ispirazione artistica l'imperativo del casticismo. Io non so quale eccessiva sollecitudine per mantenere intatta la spiritualità nazionale abbia suscitato in tutte le epoche della nostra storia letteraria certi Viriati critici, mezzo almogavari, mezzo mandarini, i quali ammucchiavano opere su opere attorno alla coscienza spagnola, non tanto perché fossero lette quanto per formare con esse un'alta muraglia allo stile di quella esistente in Cina. È più che sospettosa questa ossessione che andiamo a perdere la nostra peculiarità. Nella donna isterica suole convertirsi l'affanno stesso di perdere l'innocenza in un'eccessiva suscettibilità e ingiustificata precauzione.
+
+Un io potente non perde tempo in timori di essere assorbito da un altro; anzi al contrario, è sicuro di essere lui l'assorbente. Dotato di forte appetito, accorre dovunque si trovi qualche [materia](/positions/materialism) assimilabile. In questa maniera aumenta senza cessare, si trasforma e si arricchisce. Un profondo conoscitore della Grecia giungeva recentemente a segnalare come la molla di quella cultura la più originale, la più intensa, la più personale finora sita, la sua enorme capacità di assimilazione. E aggiunge che la Grecia fu soltanto originale, intensa e personale finché ebbe sensibilità per lo straniero.
+
+Che diremo di un io sempre timoroso che un altro lo soppianti? Che è un io meramente difensivo, una personalità costituita dalla semplice negazione delle altre, e, per lo stesso motivo, più di nessuna bisognosa di queste. Il meno che può essere Fulano è non essere Zutano: se sopprimiamo quest'ultimo, che ci resta di quello?
+
+La ininterrotta tradizione dell'imperativo casticista rivela giustamente che nel fondo della coscienza spagnola perduravano inquietudine e scontento riguardo a sé stessa.
+
+Tanto preoccuparsi della propria personalità equivale a riconoscere che questa non è sufficiente, che non basta a sé stessa, per lo meno che ha bisogno di tutela. Ma il casticismo è il gesto spavaldo che la debolezza fa per non essere conosciuta.
+
+Quasi potrebbe dirsi che la metà dei libri spagnoli pubblicati negli ultimi secoli è dedicata a dimostrare che l'altra metà è ammirabile. Non ad analizzare, potenziare e raffinare quest'ultima, ma a esaltarla. Storia e critica non sono uscite fino a poco fa dal genere panegirico.
+
+Risulta che ad altre razze, per avere la loro personalità, bastava averla. La nostra personalità, in cambio, sembra che non consista nell'essere avuta, ma nell'essere dimostrata.
+
+Quando finirà in Spagna questa innocente mania panegirica? Guardiamo che il vero patriottismo ci esige di finire con quel ridicolo spettacolo di un popolo che dedica la sua esistenza a dimostrare scientificamente che esiste. Provincialismo! Campanilismo!
+
+Lo castizo, precisamente perché significa lo spontaneo, la profonda e inapprezzabile sostanza di una razza, non può convertirsi in una [norma](/concepts/law). Le norme sono sempre astrazioni, rigide formule provvisorie che non possono aspirare a includere le illimitate possibilità dell'essere. Per amore alla Spagna di oggi e di domani non ci si voglia ridurre alla Spagna di un secolo o di due secoli che passarono! La psicologia di una razza ha da intendersi come una fluenza dinamica, sempre variabile, mai conclusa. Chi direbbe agli inglesi contemporanei di Shakespeare, tutto eccesso e incontinenza, che tempo avanti avrebbero dovuto insegnarci l'arte del self-control?
+
+Io so bene che laggiù in segrete officine di me stesso, in industriosi sotterranei del cuore e della midolla è sottoposto quanto a me giunge dall'universo a una deformazione spagnola. Io so bene che la libertà del mio pensiero e delle mie emozioni, con la quale mi sembra di cavalcare dove il mio arbitrio sollecita, è soltanto virtuale. L'asta che va per l'aria tremando d'impeto forse pensa di muoversi da sé stessa e di poter scegliere nell'ampio dell'orizzonte il bianco dove conficcarsi. E, tuttavia, un braccio la lanciò e certi occhi prefissarono la sua rotta parabolica. Questo sono io, un'asta che fende il vento, che fu lanciata dal braccio secolare della mia razza.
+
+Ciascuno di noi procede da un empellone originario che la casta gli [diede](/axes/god), e la nostra vita spiega, svolge, manifesta l'intenzione che la nostra razza ebbe nel produrci. Ma né un uomo, né un secolo, né un'epoca esauriscono la vena delle intenzioni etniche. Di qui che manchi di senso proiettare come norma del futuro ciò che un popolo fu nel passato. Credere che dipenda dalla nostra volontà essere o non essere castizos, è concedere troppo poco al [determinismo](/positions/determinism) della razza. Vogliamo o no, siamo spagnoli, e superfluo, quindi, che al di sopra di questo ci si imperi che dobbiamo esserlo.
+
+Uno scrittore casticista è, dunque, uno scrittore che si attiene alle forme di poesia inventate da altri artisti del suo paese; questo vuol dire che è un imitatore, non un poeta. «La poesia —diceva Valera— è tutta aspirazione e vaticinio». Chi non osi innovare, che non osi scrivere.
+
+Niente di meno casticista di Azorín. Difficile sarà trovare nel pantheon letterario del nostro paese uno scrittore simile. Non lui, il suo tema, è lo castizo. Ecco il suo acume e il suo maggior merito.
+
+Azorín si è immerso nel passato spagnolo, senza annegarci. Ha fatto dello castizo il suo oggetto, la sua materia, ma non la sua opera. L'opera castiza o casticista riproduce la sensibilità di un'epoca passata e soltanto potrebbe interessare gli uomini di quell'epoca. L'opera di Azorín è attuale; impiega gli organi sentimentali dell'anima contemporanea per farle percepire, sotto la specie del presente, il passato.
+
+Ma no, non è così ben espressa la sottile emozione che sogliono destare in noi i brevi quadri di Azorín. Come dirla? Non si tratta di una restaurazione storica, come non si tratta —secondo già indicammo— di una descrizione di costumi. La restaurazione storica è sempre una finzione: in essa si coprono i fatti passati di una vernice che dà loro quella brillantezza apparente, propria delle cose attuali. Inoltre, nella restaurazione storica ciò che importa è il passato e la sua approssimazione a noi. Tutto questo è esterno, artificioso, superficiale, in confronto con l'arte di cui parlo ora.
+
+In Azorín —vedremo se così mi spiego— non è il passato che finge presenza e attualità, ma il presente che si sorprende a sé stesso come essendo già passato, come essendo un essere stato.
+
+Di ordinario, soltanto ci accorgiamo di ciò che costituisce la nostra coscienza superficiale; quanto più abituali, più vecchie siano le nostre idee e le nostre emozioni, meno ce ne rendiamo conto. Giacono sommerse in inerzia psichica, in profondo sopore, gli strati più profondi del nostro io. Non sappiamo che questo io le contiene.
+
+Ma ecco che una parola, un'immagine sicura ferisce quegli strati sottostanti e li sveglia e li fa entrare in attività. Con stupore percepiamo che tutte quelle cose passate non sono passate in rigore, che sono il nostro io, questo stesso io di adesso.
+
+L'eccellente mito della trasmigrazione delle anime suggerisce qualcosa di analogo. Si immagini che fosse vero e che improvvisamente trovassimo formanti parte di noi quelle vite passate, che potessimo dire come Empedocle: «Io sono stato un ragazzo, una fanciulla, un'aquila, un pesce muto nel mare».
+
+Tale è l'emozione dello castizo per la quale ci sorprendiamo ripercossi nel passato, vedendoci noi stessi fluttuare nei tempi che furono. Il casticista ignora la modernità: il poeta dello castizo, come Azorín, fa sì che la modernità sia riassorbita dal passato donde uscì.
+
+Ora, questa è l'unica maniera di giustificare il vecchio. Con l'obbligarci a trasferirci ad esso non si consegue nulla: per quanto vicino gli arriviamo sarà sempre un passato e noi un presente. Così non possiamo familiarizzare. È necessario che ci sentiamo noi stessi passato.
+
+Alcune pagine di Azorín riescono a dissolvere la nostra coscienza attuale nell'ambiente secolare dello castizo come la nostra carne dopo la morte dovrà svanire nell'atmosfera.

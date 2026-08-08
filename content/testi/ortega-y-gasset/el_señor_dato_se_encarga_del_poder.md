@@ -31,3 +31,31 @@ Le aguardan al paso las sentencias de muerte que se han dictado en Barcelona, la
 Que los soles del verano alumbren la marcha de este audaz vencedor, digno de Píndaro, y que el otoño le corone de pámpanos cuando acaben, sin decreto de disolución, los días de su política de interinidad.
 
 Publicado sin firma, El Sol, 4 de mayo de 1920
+
+<span class="qlang-split" data-lang="en"></span>
+
+Mr. Dato has accepted Power. With this he wins before the Spaniards the championship of heroism. Who could suspect that this mellifluous doctor would launch himself into the strange adventure of governing without conservative concentration and without a decree of dissolution? That is to say, to constitute an interim Government, like the last of the Allendesalazars, Mr. Dato seemed the least suitable politician of all the suitable politicians. What has happened, then, during this last week of mysterious political calm? We do not know. Let us limit ourselves to wishing Mr. Dato a delicious interim.
+
+The old disorder of Spanish politics has not been interrupted, and it seems that it will not be interrupted unless very brusquely, very violently. We continue to live among buffooneries. Moreover: the fact that in moments like the present the old politics insists on governing Spain with the same men who were long ago challenged by public opinion, and with the same ideals that fall apart from sheer raggedness, indicates that the gods wish to ruin it, and for that they begin by feeding it with dementias.
+
+We are tired of demonstrating the necessity of very profound political and social transformations. We shall not fall into the naivety of clamouring today intemperately before the incomprehensible advent to Power of a valetudinarian politics. We know that we enter another stage of interim solutions and transitory commands. We know that the crisis has not been resolved, that crisis which opened in 1917, precisely when he who today will preside over the Council of ministers occupied Power. Some people, inclined to despair, will take as a sad motive for pessimism the fact that a politics against which military and workers' revolutions arose still has efficacy for monopolizing the smiles of the King. For us, this disordered, frantic, disoriented coming and going of Spanish politics indicates nothing more than a profound restlessness of the highest powers, desirous of testing to the last breath the known possibilities; but desperate because every experiment is frustrated and any trial fails with a crash of laughter throughout the country. That is to say; in our judgement, what happens today accentuates the previous disruptions. We have resolved, then, not to show ourselves indignant. Quite the contrary, we shall greet with a certain sporting jubilation the new champion Don Eduardo Dato.
+
+The death sentences that have been passed in Barcelona await him on the way, the hostility of those who days ago promised to be his best friends, the problem of railway tariffs and a whole violent social fermentation that from day to day is felt more strongly.
+
+May the summer suns light the march of this bold victor, worthy of Pindar, and may autumn crown him with vine leaves when, without a decree of dissolution, the days of his interim politics come to an end.
+
+Published without signature, El Sol, 4 May 1920
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il signor Dato ha accettato il Potere. Con ciò guadagna davanti agli spagnoli il campionato dell'eroismo. Chi poteva sospettare che questo medico mieloso si sarebbe lanciato nella strana avventura di governare senza concentrazione conservatrice e senza decreto di scioglimento? Cioè, per costituire un Governo interinale, come l'ultimo degli Allendesalazar, il signor Dato sembrava il politico meno idoneo di tutti i politici idonei. Che cosa è accaduto, dunque, durante quest'ultima settimana di misteriosa calma politica? Non lo sappiamo. Limitiamoci a desiderare al signor Dato una deliziosa interinalità.
+
+Non si è interrotto, e pare che non si interromperà se non molto bruscamente, molto violentemente, il vecchio disbarazzo della politica spagnola. Continuiamo a vivere tra buffonate. Di più: il fatto che in trances come gli attuali la vecchia politica insista a governare la Spagna con gli stessi uomini che tempo fa furono ricusati dall'opinione pubblica, e con gli stessi ideali che crollano per quanto sono laceri, indica che gli dèi vogliono perderla, e perciò cominciano col nutrirla di demenze.
+
+Sazi siamo di dimostrare la necessità di trasformazioni politiche e sociali molto profonde. Non cadremo nell'ingenuità di gridare oggi smisuratamente dinanzi all'incomprensibile avvento al Potere di una politica valetudinaria. Sappiamo che entriamo in un'altra tappa di soluzioni interinali e comandi transitori. Sappiamo che la crisi non si è risolta, quella crisi che si aprì nel 1917, proprio quando occupava il Potere colui che oggi presiederà il Consiglio dei ministri. Alcune genti, inclinate alla disperazione, prenderanno per triste motivo di pessimismo il fatto che una politica contro la quale sorsero rivoluzioni militari e operaie abbia ancora efficacia per accaparrare i sorrisi del Re. Per noi, questo andare e venire disordinato, frenetico, disorientato, della politica spagnola non indica più che una profonda inquietudine dei poteri più alti, desiderosi di provare fino all'ultimo respiro le possibilità note; ma disperati perché ogni esperimento si frustra e ogni prova fallisce con strepito di risate in tutto il paese. Cioè; a nostro giudizio, ciò che oggi accade accentua gli sconquassi anteriori. Abbiamo risolto, dunque, di non mostrarci indignati. Tutto al contrario, saluteremo con certo giubilo sportivo il nuovo campione don Eduardo Dato.
+
+Lo attendono al varco le sentenze di morte che sono state dettate a Barcellona, l'ostilità di coloro che giorni fa promettevano di essere i suoi migliori amici, il problema delle tariffe ferroviarie e tutta una violenta fermentazione sociale che di giorno in giorno va facendosi più forte.
+
+Che i soli dell'estate illuminino la marcia di questo audace vincitore, degno di Pindaro, e che l'autunno lo incoroni di pampini quando finiranno, senza decreto di scioglimento, i giorni della sua politica di interinalità.
+
+Pubblicato senza firma, El Sol, 4 maggio 1920

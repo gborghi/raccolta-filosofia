@@ -23,3 +23,9 @@ tags:
 Non creda donna Berta e ser Martino…
 
 DIVINA COMMEDIA.— PARADISO XIII
+
+<span class="qlang-split" data-lang="en"></span>
+
+Let not dame Berta and ser Martino believe…
+
+DIVINE COMEDY.— PARADISE XIII

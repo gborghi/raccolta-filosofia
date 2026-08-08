@@ -35,3 +35,39 @@ vidas como arqueros que
 tienen un blanco.
 
 ARISTÓTELES.– Ética a Nicómaco, lib. I, cap. 2.
+
+<span class="qlang-split" data-lang="en"></span>
+
+(1917)
+
+πρòς τòν βίον…
+
+καθάπερ τοξόται σκοπòν
+
+ἔχοντες.
+
+Let us be with our
+
+lives like archers who
+
+have a target.
+
+ARISTOTLE.– Nicomachean Ethics, bk. I, ch. 2.
+
+<span class="qlang-split" data-lang="it"></span>
+
+(1917)
+
+πρòς τòν βίον…
+
+καθάπερ τοξόται σκοπòν
+
+ἔχοντες.
+
+Siamo con le nostre
+
+vite come arcieri che
+
+hanno un bersaglio.
+
+ARISTOTELE.– Etica a Nicomaco, lib. I, cap. 2.

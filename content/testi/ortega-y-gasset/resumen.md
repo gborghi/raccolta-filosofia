@@ -25,3 +25,19 @@ No podía el Gobierno hacer cosa distinta de lo que ha hecho. Pero, a pesar de e
 Créense los organismos necesarios para que intervengan en los grandes debates políticos y sociales; quede el Ejército limitado a su única misión, aquélla para que fue creado.
 
 Publicado sin firma, El Sol, 19 de marzo de 1919
+
+<span class="qlang-split" data-lang="en"></span>
+
+The Government could not do anything different from what it has done. But, despite this, or rather, precisely for this reason, let it hasten to organize the rest of the Spanish forces, because it is most dangerous to let one member of the body develop while the others remain atrophied. Let us not fall into monstrosity.
+
+Let the necessary organisms be created so that they intervene in the great political and social debates; let the Army remain limited to its unique mission, the one for which it was created.
+
+Publicado sin firma, El Sol, 19 de marzo de 1919
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non poteva il Governo fare cosa diversa da ciò che ha fatto. Ma, nonostante questo, o meglio, proprio per questo, si affretti a organizzare il resto delle forze spagnole, perché è pericolosissimo lasciare che un membro del corpo si sviluppi mentre gli altri restano atrofizzati. Non cadiamo nella mostruosità.
+
+Si creino gli organismi necessari affinché intervengano nei grandi dibattiti politici e sociali; resti l'Esercito limitato alla sua unica missione, quella per cui fu creato.
+
+Publicado sin firma, El Sol, 19 de marzo de 1919

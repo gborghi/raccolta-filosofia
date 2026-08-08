@@ -24,6 +24,10 @@ tags:
 
 TREATISE ON THE DISTINCTION OF THINGS IN GENERAL (Q[47])
 
+<span class="qlang-split" data-lang="it"></span>
+
+Trattato sulla distinzione delle cose in generale (Q[47])
+
 <span class="atom-split" data-atom="002" data-title="OF THE DISTINCTION OF THINGS IN GENERAL (THREE ARTICLES)" data-chapter="OF THE DISTINCTION OF THINGS IN GENERAL (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After considering the production of creatures, we come to the consideration of the distinction
@@ -33,6 +37,13 @@ Under the first head, there are three points of inquiry:
 (1) The multitude or distinction of things.
 (2) Their inequality.
 (3) The unity of the world.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo aver considerato la creazione delle creature, passiamo all’esame della distinzione tra le cose. Questo esame si articolerà in tre parti: innanzitutto, la distinzione tra le cose in generale; in secondo luogo, la distinzione tra bene e male; infine, la distinzione tra creature spirituali e corporee. All’interno della prima categoria di considerazioni, vi sono tre punti principali da analizzare:  
+(1) La molteplicità o la diversità delle cose.  
+(2) La loro disuguaglianza.  
+(3) L’unità del mondo.
 
 <span class="atom-split" data-atom="003" data-title="Whether the multitude and distinction of things come from God?" data-chapter="Whether the multitude and distinction of things come from God?" data-kind="atom" data-srclang="en"></span>
 
@@ -107,6 +118,25 @@ operation is concerned, if the means be equal, so to speak, to the end, one only
 the creature is not such a means to its end, which is God; and hence the multiplication of creatures
 is necessary.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la molteplicità e la distinzione delle cose non derivino da Dio. Infatti, l’uomo, in modo naturale, crea sempre qualcosa di nuovo. Ma Dio è supremamente uno, come risulta da quanto precede (Q[11], A[4]). Pertanto, Lui produce soltanto un effetto.
+
+Obiezione 2: Inoltre, la [rappresentazione](/concepts/idea) viene assimilata al proprio esempio. Ma Dio è l’esempio stesso della propria opera, come è stato detto in precedenza (Q[44], A[3]). Pertanto, poiché Dio è uno, anche la sua opera è unica e non diversificata.
+
+Obiezione 3: Inoltre, i mezzi sono proporzionali al fine. Ma il fine della creazione è uno solo, ovvero la bontà divina, come è stato dimostrato sopra (Q[44], A[4]). Pertanto, l’effetto di Dio è anch’esso uno solo.
+
+Al contrario, si dice (Genesi 1:4,7) che Dio “abbia separato la luce dalle tenebre” e “abbia diviso le acque dalle altre acque”. Pertanto, la distinzione e la molteplicità delle cose derivano da Dio.
+
+Rispondo che la distinzione tra le cose è stata attribuita a molte cause. Alcuni hanno attribuito questa distinzione alla materia, sia essa considerata in sé stessa che unita all’agente causale. Ad esempio, Democrito e tutti gli antichi filosofi naturalisti, i quali non ammettevano alcuna causa al di fuori della materia, ne attribuivano l’origine unicamente alla materia; secondo loro, la distinzione tra le cose derivava dalla [casualità](/concepts/fortune), dovuta al movimento della materia stessa. Anaxagora, invece, attribuiva sia alla materia che all’agente causale la distinzione e la molteplicità delle cose; sosteneva inoltre che l’intelletto distinguesse le cose estraendo ciò che è mescolato nella materia stessa. Tuttavia, questa spiegazione non regge per due motivi: innanzitutto, perché, come già dimostrato in precedenza (Q[44], A[2]), anche la materia stessa fu creata da Dio; pertanto, qualsiasi distinzione derivante dalla materia deve essere ricondotta a una causa più alta. In secondo luogo, poiché la materia esiste al fine di ricevere una forma, e non viceversa, la distinzione tra le cose deriva dalle loro forme proprie; quindi, tale distinzione non è dovuta alla materia stessa, ma piuttosto al fatto che la materia creata è priva di forma, in modo da poter accogliere diverse forme. Altri hanno attribuito la distinzione tra le cose ad agenti secondari; ad esempio, Avicenna sosteneva che Dio, comprendendosi stesso, avesse creato l’intelligenza primaria; poiché questa non possedeva un’essenza propria, ne derivava necessariamente una composizione di [potenzialità](/concepts/act_potency) e attività, come verrà spiegato in seguito (Q[50], A[3]). L’intelligenza primaria, comprendendo la causa prima, avrebbe prodotto l’intelligenza secondaria; comprendendosi stessa come potenziale, avrebbe creato il corpo celeste che genera il movimento; comprendendosi come attuale, avrebbe prodotto l’anima del cielo. Tuttavia, anche questa opinione non regge per due motivi: innanzitutto, perché è stato dimostrato che solo Dio ha il potere di creare; pertanto, ciò che può essere prodotto soltanto attraverso la creazione viene creato da Dio stesso – cioè tutte quelle cose che non sono soggette a generazione e corruzione. In secondo luogo, secondo questa visione, l’universalità delle cose non deriverebbe dall’intenzione dell’agente primo, ma dalla concorrenza di molteplici cause attive; un effetto del genere potrebbe essere descritto soltanto come frutto della casualità. Pertanto, la perfezione dell’universo, che consiste nella diversità delle cose, sarebbe qualcosa di casuale, il che è impossibile. Quindi dobbiamo affermare che la distinzione e la molteplicità delle cose derivano dall’intenzione dell’agente primo, cioè di Dio. Egli ha creato le cose affinché la Sua bontà potesse essere comunicata alle creature e rappresentata da esse; poiché la Sua bontà non poteva essere adeguatamente rappresentata da una sola creatura, ne ha prodotte molte e diverse, in modo che ciò che mancava a una nella rappresentazione della divina bontà potesse essere compensato da un’altra.
+La bontà, che in Dio è semplice e uniforme, nelle creature è molteplice e divisa; per questo l’intero universo, nel suo insieme, partecipa in modo più perfetto alla bontà divina e la rappresenta meglio di qualsiasi singola creatura. Poiché la saggezza divina è la causa della distinzione tra le cose, Mosè disse che queste vengono rese distinte per mezzo della parola di Dio, che è il concetto stesso della Sua saggezza; ed è ciò che leggiamo in Genesi 1:3-4: “Dio disse: ‘Sia fatta la luce, ’ E separò la luce dalle tenebre.”
+
+Risposta all’Obiezione 1: L’agente naturale agisce attraverso quella forma che lo rende ciò che è, e tale forma esiste soltanto in una singola entità; pertanto il suo effetto è anch’esso unico. Ma l’agente volontario, come Dio, agisce attraverso una forma intellettuale. Poiché, come dimostrato in precedenza (Q[19], A[4]), non vi è nulla che contraddica l’unità e la semplicità di Dio nel comprendere molteplici realtà, ne consegue che, pur essendo uno, Egli può creare molte cose.
+
+Risposta all’Obiezione 2: Questo ragionamento si applicherebbe alla rappresentazione che riflette perfettamente l’esempio originale e che viene moltiplicata soltanto a causa della materia; pertanto, l’immagine non creata, essendo perfetta, è unica. Tuttavia, nessuna creatura riesce a rappresentare perfettamente l’esempio originale, ovvero l’essenza divina; per questo motivo, essa può essere rappresentata da molte cose. Ciononostante, poiché le idee vengono definite esempi, la pluralità delle idee corrisponde, nella mente divina, alla pluralità delle cose.
+
+Risposta all’Obiezione 3: Nelle questioni speculative, il mezzo di dimostrazione che stabilisce perfettamente la conclusione è unico; mentre i mezzi probabili di prova sono molti. Allo stesso modo, quando si tratta di azioni pratiche, se i mezzi sono, per così dire, adeguati all’obiettivo da raggiungere, uno solo basta. Tuttavia, la creatura non è un mezzo efficace per realizzare il proprio fine, che è Dio; pertanto, la moltiplicazione delle creature è necessaria.
+
 <span class="atom-split" data-atom="004" data-title="Whether the inequality of things is from God?" data-chapter="Whether the inequality of things is from God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the inequality of things is not from God. For it belongs to the
@@ -178,6 +208,25 @@ disposition of the matter; but inequality comes from the perfection of the whole
 in works done by art; for the roof of a house differs from the foundation, not because it is made of
 other material; but in order that the house may be made perfect of different parts, the artificer seeks
 different material; indeed, he would make such material if he could.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’ineguaglianza tra le cose non derivi da Dio. Infatti, spetta a colui che è il migliore produrre ciò che è migliore. Ma tra le cose migliori, nessuna è superiore alle altre. Pertanto, spetta a Dio, che è il Migliore, rendere tutte le cose uguali.
+
+Obiezione 2: Inoltre, l’uguaglianza è il risultato dell’unità (Metafisica V, testo 20). Ma Dio è uno; pertanto, ha reso tutte le cose uguali.
+
+Obiezione 3: Inoltre, è proprio della giustizia dare ciò che non è uguale alle cose che non sono uguali. Ma Dio è giusto in tutte le Sue opere. Poiché, dunque, nessuna disuguaglianza tra le cose viene presupposta nel processo attraverso il quale Egli dà essere alle cose, sembra che Egli abbia creato tutte le cose uguali.
+
+Al contrario, si dice nell’Ecclesiaste (33:7): “Perché un giorno è diverso dall’altro, una luce dalla successiva, un anno dall’anno precedente, un sole dal sole seguente? [Vulgata: ‘quando tutti i soli sorgono’]. Essi furono distinti per la conoscenza del Signore”.
+
+Rispondo che quando Origene volle confutare coloro che sostenevano che la distinzione tra le cose derivasse dai principi opposti del bene e del male, affermò che all’inizio tutte le cose fossero state create uguali da Dio. Egli sosteneva infatti che Dio avesse creato inizialmente soltanto creature razionali, tutte uguali tra loro; l’ineguaglianza sarebbe poi emersa a causa della libertà di volontà: alcune di queste creature si erano rivolte maggiormente verso Dio, altre meno, e così via. Le creature razionali che si erano rivolte verso Dio grazie alla loro libera volontà venivano elevate al rango degli angeli, in base alla diversità dei loro meriti; quelle invece che si erano allontanate da Dio venivano legate a corpi fisici, in relazione alla gravità dei loro peccati. Origene riteneva che questa fosse la causa della creazione e della diversità dei corpi. Tuttavia, secondo questa visione, l’esistenza di tante creature corporee non sarebbe dovuta alla bontà di Dio, ma piuttosto al bisogno di punire il peccato, il che è in contraddizione con quanto si legge nella Genesi: “Dio vide tutte le cose che aveva create e furono molto buone” (Gen. 1:31). Come afferma Agostino nel De Civitate Dei II, 3: “Che cosa c’è di più sciocco del dire che l’Architetto divino abbia creato un solo sole per un solo mondo, non affinché fosse un ornamento della sua bellezza né per il beneficio delle cose corporee, ma a causa del peccato di una singola anima. Così, se cento anime avessero peccato, ci sarebbero stati cento soli nel mondo”. Pertanto, si deve dire che proprio la saggezza divina è la causa sia della distinzione tra le cose sia della loro ineguaglianza. Questo può essere spiegato nel seguente modo: esistono due tipi di distinzioni nelle cose: una riguarda la differenza specifica tra le varie specie, l’altra riguarda la diversità numerica tra gli individui della stessa specie. Poiché la materia esiste in funzione della forma, la distinzione materiale ha lo scopo di realizzare quella formale. Ne consegue che nelle cose incorruttibili esiste soltanto un singolo esemplare di ogni specie, poiché la specie stessa è pienamente conservata in quell’unico individuo; nelle cose generate e corruttibili, invece, esistono molti individui della stessa specie al fine di preservarne l’esistenza. Quindi la distinzione formale ha una rilevanza maggiore di quella materiale. Ora, poiché la distinzione formale richiede necessariamente l’ineguaglianza, come afferma il Filosofo nel Metafisica VIII, 10, le forme delle cose sono simili ai numeri, nei quali le specie cambiano attraverso l’addizione o la sottrazione dell’unità. Ne consegue che nelle cose naturali le specie sono disposte in gradi di perfezione: le cose composite sono più perfette degli elementi, le piante dei minerali, gli animali delle piante e gli esseri umani di altri animali; e all’interno di ciascuna categoria una specie è più perfetta di un’altra. Pertanto, poiché la saggezza divina è la causa della distinzione tra le cose al fine di realizzare la perfezione dell’universo, essa è anche la causa della loro ineguaglianza.
+Le cose non sarebbero perfette se nelle stesse si trovasse soltanto un unico grado di bontà.
+
+Risposta all’Obiezione 1: È proprio della natura del miglior agente produrre un effetto che sia ottimale nel suo insieme; tuttavia ciò non significa che Egli renda ogni singola parte dell’intero sistema assolutamente perfetta, ma soltanto in proporzione all’insieme. Ad esempio, in caso di un animale, la sua “bontà” verrebbe meno se ogni sua parte possedesse le caratteristiche di un occhio. Pertanto, anche Dio ha creato l’universo nel suo insieme come qualcosa di ottimale, secondo le leggi specifiche delle creature; tuttavia non ha reso ciascuna singola creatura perfetta in sé stessa, ma alcune migliori di altre. Ecco perché si dice di ogni creatura: “Dio vide che la luce era buona” (Genesi 1:4); lo stesso vale per tutte le altre creature. Ma riguardo all’universo nel suo insieme, si legge: “Dio vide tutte le cose che aveva create, e videro che erano molto buone” (Genesi 1:31).
+
+Risposta all’Obiezione 2: Il primo effetto dell’unità è l’uguaglianza; successivamente sorge la molteplicità. Pertanto, dal Padre – a Quello, secondo Agostino (De Doctrina Christiana I, 5), appartiene l’unità – deriva il Figlio, a Quello appartiene l’uguaglianza; e da Lui derivano le creature, a cui appartiene la disuguaglianza. Tuttavia, anche le creature condividono una certa forma di uguaglianza: quella proporzionale.
+
+Risposta all’Obiezione 3: Questo è l’argomento che convinse Origene; tuttavia esso vale soltanto per quanto riguarda la distribuzione dei premi, la cui disuguaglianza deriva da meriti diversi. Ma nella struttura stessa delle cose non esiste alcuna disuguaglianza tra le parti a causa di una precedente disparità, né nei meriti né nella disposizione materiale; l’ineguaglianza deriva piuttosto dalla perfezione del tutto. Ciò si osserva anche nelle opere realizzate dall’arte: il tetto di una casa è diverso dalle fondamenta non perché sia fatto di materiali diversi, ma affinché l’intera struttura possa risultare perfetta attraverso parti distinte; l’artigiano cerca quindi materiali appropriati, e se possibile ne utilizzerebbe altri ancora.
 
 <span class="atom-split" data-atom="005" data-title="Whether there is only one world?" data-chapter="Whether there is only one world?" data-kind="atom" data-srclang="en"></span>
 

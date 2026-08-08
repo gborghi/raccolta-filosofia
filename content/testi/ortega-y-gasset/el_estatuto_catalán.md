@@ -25,3 +25,19 @@ Cortes Constituyentes
 Presidencia del Excelentísimo Señor don Julián Besteiro Fernández
 
 Extracto oficial de la sesión celebrada el día 13 de mayo de 1932
+
+<span class="qlang-split" data-lang="en"></span>
+
+Constituent Cortes
+
+Presidency of the Most Excellent Señor Don Julián Besteiro Fernández
+
+Official extract of the session held on 13 May 1932
+
+<span class="qlang-split" data-lang="it"></span>
+
+Cortes Costituenti
+
+Presidenza dell'Eccellentissimo Signor don Julián Besteiro Fernández
+
+Estratto ufficiale della seduta tenuta il giorno 13 maggio 1932

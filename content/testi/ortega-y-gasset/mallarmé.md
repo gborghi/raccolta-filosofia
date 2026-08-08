@@ -63,3 +63,95 @@ Pur com’uom fa dell’orribili cose?
 Calculo que todo esto ocurrió dentro de mí durante el trascurso de dos minutos. En leerlo se tarda mucho más. ¿Por qué? Esto nos llevaría a interesantes elucubraciones psicológicas sobre el pensar informulado y el formulado, sobre las abreviaturas mentales, sobre ese extraño fenómeno en que tenemos la clara impresión de «saber» una teoría compleja, toda entera, sin tener actualmente en la conciencia desarrollados sus miembros —lo que se ha llamado «saber potencial», etcétera, etcétera…
 
 Revista de Occidente, noviembre, 1923
+
+<span class="qlang-split" data-lang="en"></span>
+
+On 11 September 1923, Spanish friends of Mallarmé gathered in the Botanical Garden of Madrid to commemorate with a five-minute silence the twenty-fifth anniversary of his death. Those gathered were: José Ortega y Gasset, Eugenio d'Ors, Enrique Díez-Canedo, José Moreno Villa, José María Chacón, Antonio Marichalar, José Bergamín, Mauricio Bacarisse and Alfonso Reyes.
+
+The silence in memoriam is a ceremony of these times: it is not superfluous to know the inner content of this mute ritual. For that reason, the secretary of the Revista de Occidente asked those gathered:
+
+—What have you thought in the five minutes devoted to Mallarmé?
+
+The reply of José Ortega y Gasset was the following:
+
+—Our secretary of the Revista asks those of us who keep silent for Mallarmé to render that silence useless by communicating in these pages what we then thought. Were it not for much pedantry, I would have asked him: Secretary Vela, I do not know what you are asking me. What do you think thinking is? Would you call this image of the leaning tower of Pisa that by chance now leaps over the area of my consciousness thought? Or rather the associative flux in which representations pass jostling one another like sheep along the drove road? But in this [case](/concepts/fortune) thought would not be the only thing that most accurately ought to be called thus: the ordered and plan-conforming mental process in which we deliberately pursue a problem and avoid mere associations. In association the soul drifts, inert and sliding, as if abandoned to the casual trade wind of the psyche. In intellection, on the contrary, we exercise genuine activities: we compare, analyze, attribute, gather, infer, abstract, classify, etcetera, etcetera. For many centuries it has been believed that thinking and the association of ideas were one and the same thing. But now we know that pure association of ideas occurs only in certain madmen: it is the phenomenon called «flight of ideas». I do not, then, well know what you are asking of me. In doubt, and in order not to leave out what perhaps you prefer, I shall limit myself to reproducing by means of a retrospection whatever occurred on my mental stage during part of those tacit minutes: to reproduce the five would demand many pages. Thus my communication will have the character of the «protocols» used in the «experimental psychology of thought».
+
+«Five minutes is much silence. Terror of crossing it in mute swimming. To be distracted and to speak would be a shipwreck… “The masts that lean toward the shipwrecks” (Mallarmé)… It is like crossing a great empty square under the sun: agoraphobia… The idea of this silence is Alfonso Reyes's… None of us Spaniards would have thought of this. We Spaniards are ashamed of all solemnity, it makes us blush. Why? Old people. We have in our souls centuries of solemnities; these have already lost the freshness of their meaning and we have grown accustomed to thinking that they are false and denatured. Alfonso Reyes is an American. Alfonso… Reyes… Alfonso, name of kings…, he is an American. Young people… Youth is, wherever it is found, in a man, in a people, a system of tense springs that function well and discharge with full energy… The young man feels everything heroically, mythologically, with fullness and without reserve… Child peoples live in perpetual premiere, like children. They premiere everything… Synthetic recollection of my theory about the way Argentine men dress… In this theory there intervenes as term of comparison the famous doublet of amaranth satin that Leonardo da Vinci wore… Very lively visual image of this garment… Must I think of Mallarmé? Do I defraud these friends by thinking of everything but him? Probably only young peoples —Alfonso Reyes (Mexican) and Chacón (Cuban)— think now of Mallarmé… The others… I suspect that, like me, they think they are abashed… Why does it abash us to keep silence together? Synthetic recollection of the theory of embarrassment[28]. At what height shall we be in this navigation over a sea of silence?… Mallarmé speaks of silence… Where?… Describing the dancer Loie Fuller, he says: “it is a silence palpitated with China crape”… And comparing dance and pantomime, he suggests that “both are jealous of their respective silences”… He must speak of silence in some other places too, but I do not recall them… In what sense Mallarmé's poetry is a kind of eloquent silence… It consists in keeping silent the direct names of things, making their quest a delicious enigma… Poetry is this and nothing more than this, and when it is something else, it is neither poetry nor anything. The direct name denominates a reality, and poetry is, above all, a valorous flight, an arduous avoidance of realities… The circus cyclist who rides among bottles avoiding touching them. In the epochs of totemist and magic culture, the individual had two names: one used socially, another secret —the true one—, known only to the mother and the father… Mallarmé is a linguist of this language composed only of arcane and magic denominations. Dante was the same. Recollection of Dantean verses in which the proper name of things is eluded and they are made to be born anew, presented in status nascens by virtue of an original denomination… Instead of Mediterranean, he will say:
+
+La maggior valle in che l'acqua si spanda…
+
+»Instead of Beatrice,
+
+Quel sol che pria d'amor mi scaldò il petto…
+
+»Instead of saying that he is to the left of Virgil, he will say that he finds himself
+
+Da quella parte onde il [heart](/positions/fideism) ha la gente.
+
+»Spain is not called Spain, but
+
+Quella parte ove surge ad aprire,
+
+Zeffiro dolce le novelle fronde
+
+Di che si vede Europa rivestire[29].
+
+»Dante is aware of this procedure, and once in the Purgatorio he resists naming his native shore and saying “the Arno”, he makes an antipoetic shade grow irritated and ask:
+
+Perchè nascose
+
+Questi il vocabol di quella riviera,
+
+Pur com'uom fa dell'orribili cose?
+
+»Here is all of poetics: words must be hidden because thus things are concealed, are avoided, which, as such, are always horrible… Once Mallarmé finds himself before the horrendous ordeal of having to say “I, Mallarmé”, as in a notarial act, he prefers to avoid himself, and says: “The gentleman whom my friends are accustomed to call by my name”… Vague impression of virtuous fatigue, as of having fulfilled a duty; in this case, the duty of thinking of Mallarmé… Has the time already passed?… Canedo, our timekeeper, moves a hand. Is he going to take out his watch?… A passer-by approaches. Will he pass among us? What must we do? Warn him to stop so as not to cross our silence and break it like a crystal?… Vague anguish… And a ferocious desire to speak, to say that Mallarmé was a failure, a bird without wings, a genius poet without any gifts of a poet, meager, clumsy, stammering… Poetry?… For a long time I have been convinced that poetry has been exhausted… Whatever is done today is mere hiccup of agonic art… Suddenly there opens in me a mental void: I find nothing within myself; no idea, no image…, save this perception of spiritual emptiness… Then come to the foreground the intracorporeal and eternal sensations: the beating of the blood in the veins, the shoe of Moreno Villa who is seated at my side and the wrinkled trunk of a Japanese pagoda tree that rises in front of me»…
+
+I calculate that all this occurred within me during the course of two minutes. In reading it one takes much longer. Why? This would lead us to interesting psychological lucubrations about unformulated and formulated thinking, about mental abbreviations, about that strange phenomenon in which we have the clear impression of «knowing» a complex theory, whole and entire, without actually having developed in consciousness its members —what has been called «potential knowledge», etcetera, etcetera…
+
+Revista de Occidente, November, 1923
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'11 settembre 1923, amici spagnoli di Mallarmé si riunivano nel Giardino Botanico di Madrid per commemorare con un silenzio di cinque minuti il XXV anniversario della sua morte. I riuniti furono: José Ortega y Gasset, Eugenio d'Ors, Enrique Díez-Canedo, José Moreno Villa, José María Chacón, Antonio Marichalar, José Bergamín, Mauricio Bacarisse e Alfonso Reyes.
+
+Il silenzio in memoriam è una cerimonia di questi tempi: non è superfluo conoscere il contenuto interiore di questo muto rituale. Perciò, il segretario della Revista de Occidente domandò ai riuniti:
+
+—Che cosa ha pensato lei nei cinque minuti dedicati a Mallarmé?
+
+La risposta di José Ortega y Gasset fu la seguente:
+
+—Il nostro segretario della Rivista chiede a noi che tacciamo per Mallarmé di rendere inutile quel silenzio comunicando in queste pagine ciò che allora pensammo. Se non fosse molta pedanteria, gli avrei domandato: Segretario Vela, non so che cosa mi chiede. Che cosa pensa lei che sia pensare? Chiamerebbe pensiero questa immagine della torre di Pisa che per caso salta ora sull'area della mia coscienza? O piuttosto al flusso associativo in cui passano spingendosi come pecore per la mulattiera le rappresentazioni? Ma in questo [caso](/concepts/fortune) non sarebbe pensiero ciò che più esattamente dovrebbe chiamarsi così: il processo mentale ordinato e conforme a piano in cui perseguiamo deliberatamente un problema ed evitiamo le mere associazioni. Nell'associazione va l'anima alla deriva, inerte e scivolante, come abbandonata all'aliseo casuale della psiche. Nell'intelezione, al contrario, esercitiamo vere attività: confrontiamo, analizziamo, attribuiamo, deduciamo, inferiamo, astraiamo, classifichiamo, eccetera, eccetera. Durante molti secoli si è creduto che pensare e associazione di idee fossero una stessa cosa. Ma ora sappiamo che la pura associazione di idee non si dà più che in certi dementi: è il fenomeno chiamato «fuga di idee». Non so, dunque, bene che cosa mi chiede. Nel dubbio, e al fine di non lasciare fuori ciò che forse lei preferisce, mi limiterò a riprodurre mediante una retrospettiva quanto accadde nel mio scenario mentale durante parte di quei taciti minuti: riprodurre i cinque esigerebbe molte pagine. Così la mia comunicazione avrà il carattere dei «protocolli» usati nella «psicologia sperimentale del pensiero».
+
+«È molto silenzio quello di cinque minuti. Terrore di attraversarlo a nuoto muto. Distrarsi e parlare sarebbe un naufragio… “Gli alberi maestri che si inclinano verso i naufragi” (Mallarmé)… È come attraversare una piazza grande e vuota sotto il sole: agorafobia… L'idea di questo silenzio è di Alfonso Reyes… A nessuno spagnolo sarebbe venuto in mente questo. Agli spagnoli ogni solennità ci fa vergognare, ci fa arrossire. Perché? Popolo vecchio. Abbiamo nell'anima secoli di solennità; queste hanno ormai perso la freschezza del loro senso e ci siamo abituati a pensare che sono false e snaturate. Alfonso Reyes è americano. Alfonso… Reyes… Alfonso, nome di re…, è americano. Popolo giovane… La gioventù è, dovunque la si trovi, in un uomo, in un popolo, un sistema di molle tese che funzionano bene e si scattano con tutta energia… Il giovane sente tutto eroicamente, mitologicamente, con pienezza e senza riserve… I popoli bambini vivono in perpetua novità, come i bambini. Inaugurano tutto… Ricordo sintetico della mia teoria sul modo di vestire degli uomini argentini… In questa teoria interviene come termine di comparazione il famoso farsetto di raso amaranto che usava Leonardo da Vinci… Immagine visiva molto vivace di questo indumento… Devo pensare a Mallarmé? Deludo questi amici pensando a tutto meno che a lui? Probabilmente solo i popoli giovani —Alfonso Reyes (messicano) e Chacón (cubano)— pensano ora a Mallarmé… Gli altri… Sospetto che, come me, pensino di essere imbarazzati… Perché ci imbarazza tacere insieme? Ricordo sintetico della teoria dell'imbarazzo[28]. A che altezza saremo di questa navigazione per un mare di silenzio?… Mallarmé parla di silenzio… Dove?… Descrivendo la ballerina Loie Fuller, dice: “è un silenzio palpitato di cresponi di Cina”… E comparando la danza e la pantomima, suggerisce che “sono entrambe gelose dei loro rispettivi silenzi”… Deve parlare del silenzio in alcuni altri luoghi ancora, ma non li ricordo… In che senso la poesia di Mallarmé è una specie di silenzio eloquente… Consiste nel tacere i nomi diretti delle cose, facendo sì che la loro ricerca sia un delizioso enigma… La poesia è questo e niente più che questo, e quando è altra cosa, non è poesia né nulla. Il nome diretto denomina una realtà, e la poesia è, anzitutto, una coraggiosa fuga, un'ardua evitazione di realtà… Il ciclista di circo che corre tra bottiglie evitando di toccarle. Nelle epoche di cultura totemista e magica, l'individuo aveva due nomi: uno usato socialmente, un altro segreto —il vero—, conosciuto solo dalla madre e dal padre… Mallarmé è un linguista di questo linguaggio composto solo di denominazioni arcane e magiche. Lo stesso fu Dante. Ricordo di versi danteschi in cui si elude il nome proprio delle cose e le si fa nascere di nuovo, le si presenta in status nascens mercé una denominazione originale… Invece di Mediterraneo, dirà:
+
+La maggior valle in che l'acqua si spanda…
+
+»Invece di Beatrice,
+
+Quel sol che pria d'amor mi scaldò il petto…
+
+»Invece di dire che si trova a sinistra di Virgilio, dirà che si trova
+
+Da quella parte onde il [cuore](/positions/fideism) ha la gente.
+
+»La Spagna non si chiama Spagna, bensì
+
+Quella parte ove surge ad aprire,
+
+Zeffiro dolce le novelle fronde
+
+Di che si vede Europa rivestire[29].
+
+»Dante si rende conto di questo procedimento, e una volta che nel Purgatorio si rifiuta di nominare la sua riva nativa e dire «l'Arno», fa sì che un'ombra antipoetica si irriti e domandi:
+
+Perchè nascose
+
+Questi il vocabol di quella riviera,
+
+Pur com'uom fa dell'orribili cose?
+
+»Ecco tutta la poetica: bisogna nascondere i vocaboli perché così si occultano, si evitano le cose, che, come tali, sono sempre orribili… Una volta che Mallarmé si trova dinanzi all'orrendo transe di dover dire “io, Mallarmé”, come in un atto notarile, preferisce evitare se stesso, e dice: “Il signore che i miei amici hanno la consuetudine di chiamare per il mio nome”… Vaga impressione di fatica virtuosa, come di aver compiuto un dovere; in questo caso, il dovere di pensare a Mallarmé… Sarà già passato il tempo?… Canedo, il nostro cronometrista, muove una mano. Tirerà fuori l'orologio?… Un passante si avvicina. Passerà tra noi? Che cosa dobbiamo fare? Avvertirlo che si fermi per non attraversare il nostro silenzio e romperlo come un cristallo?… Vaga angoscia… E una feroce voglia di parlare, di dire che Mallarmé fu un fallito, un uccello senza ali, un poeta geniale senza alcuna dote di poeta, scarso, maldestro, balbettante… La poesia?… Da tempo sono convinto che la poesia si è esaurita… Quanto oggi si fa è mero singhiozzo di arte agonica… D'un tratto si apre in me un vuoto mentale: non trovo nulla dentro di me; nessuna idea, nessuna immagine…, salvo questa percezione di vuoto spirituale… Passano allora in primo piano le sensazioni intracorporee ed eterne: il battito del sangue nelle vene, la scarpa di Moreno Villa che è seduto accanto a me e il tronco rugoso di una sofora giapponese che si erge di fronte a me»…
+
+Calcolo che tutto questo accadde dentro di me durante il trascorso di due minuti. Nel leggerlo si impiega molto di più. Perché? Questo ci porterebbe a interessanti elucubrazioni psicologiche sul pensare informulato e il formulato, sulle abbreviazioni mentali, su quel fenomeno strano in cui abbiamo la chiara impressione di «sapere» una teoria complessa, tutta intera, senza avere attualmente nella coscienza sviluppate le sue membra —ciò che è stato chiamato «sapere potenziale», eccetera, eccetera…
+
+Revista de Occidente, novembre, 1923

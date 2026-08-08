@@ -35,3 +35,39 @@ He tomado la mano de mi mocedad como la de un amigo fiel. He mirado al fondo de 
 El premio único, el premio suficiente, el premio máximo a que cabe aspirar es éste: poder irse tranquilo.
 
 El Escorial, enero, 1916
+
+<span class="qlang-split" data-lang="en"></span>
+
+Gathered in this volume are the least imperfect works among those I have published in the course of nine years. The first of them —Las ermitas de Córdoba— is perhaps the first that I addressed to the public from a notable newspaper. It was in 1904: I was twenty years old and full of countless restlessness. The most recent of the articles collected here is from 1912.
+
+In giving this volume to the press it has seemed to me, then, that I was taking leave of my youth. And in that pathetic hour there has been a dangerous instant: all my youth has stepped forward turbulent in my [memory](/concepts/memory), like the legionaries of Rome on the day of their discharge. I have needed some effort so that this prologue might not fall into the temptation of giving solemnity to the farewell, thereby granting unjustified importance to this vulgar scene of the man who says 'goodbye' to his first fervors and sorrows.
+
+There was, however, a motive that could make the prosopopoeia tolerable: my youth has not been mine, it has been of my race. My youth has burned itself entirely, like the Mosaic broom, at the edge of the road that Spain follows through history. Today I can say it with pride and with truth. Those ten young years of mine are mystic granaries filled only with Spanish anxieties and hopes.
+
+In all essentials I can today make myself solidary with the thoughts this volume carries. I find only one grave exception, to which respond two or three warnings I have slipped at the foot of as many pages: I refer to the value of the individual and the subjective. Today more than ever I have the conviction that subjectivism has been the disease of the nineteenth century, and in a superlative degree, the disease of Spain. But polemical ardor has frequently made me commit a tactical error, which is at once a substantial error. In order to wage war on subjectivism I denied the subject, the personal, the individual all their rights. Today it would seem to me more adjusted to the truth and even to tactics to recognize them to him in all their amplitude and to endow the subjective with a place and a task in the universal hive.
+
+And nothing more.
+
+I have taken the hand of my youth as that of a faithful friend. I have looked into the depths of its eyes, and I have seen that it did not trouble itself. I have pushed its back toward the past, and I have said: 'Goodbye, you may go in peace.'
+
+The only prize, the sufficient prize, the maximum prize to which one can aspire is this: to be able to go in peace.
+
+El Escorial, January 1916
+
+<span class="qlang-split" data-lang="it"></span>
+
+Vanno in questo volume riuniti i lavori meno imperfetti tra quelli che ho pubblicato nel corso di nove anni. Il primo di essi —Las ermitas de Córdoba— è forse il primo che ho indirizzato al pubblico da un giornale noto. Era nel 1904: avevo io vent'anni e innumerevoli inquietudini. Il più recente degli articoli qui raccolti è del 1912.
+
+Nel dare questo tomo alla stampa mi è parso, dunque, di congedarmi dalla mia giovinezza. E in quell'ora patetica c'è stato un istante pericoloso: tutta la mia gioventù si è fatta avanti turbolenta nella mia [memoria](/concepts/memory), come i legionari di Roma nel giorno del loro congedo. Ho avuto bisogno di qualche sforzo perché questo prologo non cadesse nella tentazione di dare solennità al commiato, concedendo così ingiustificata importanza a questa scena volgare dell'uomo che dice «addio» ai suoi primi fervori e dolori.
+
+C'era, tuttavia, un motivo che poteva rendere tollerabile la prosopopea: la mia giovinezza non è stata mia, è stata della mia razza. La mia gioventù si è bruciata intera, come la ginestra mosaica, al bordo del cammino che la Spagna percorre nella storia. Oggi posso dirlo con orgoglio e con verità. Quei miei dieci anni giovani sono mistici granai colmi soltanto di angosce e speranze spagnole.
+
+In tutto l'essenziale posso attualmente farmi solidale dei pensieri che questo volume trasporta. Trovo solo una grave eccezione, a cui rispondono due o tre avvertenze da me lasciate cadere a piè di altrettante pagine: mi riferisco al valore dell'individuale e del soggettivo. Oggi più che mai ho la convinzione che il soggettivismo sia stato la malattia del secolo XIX, e in grado superlativo, la malattia della Spagna. Ma l'ardore polemico mi ha fatto commettere frequentemente un errore di tattica, che è a un tempo un errore sostanziale. Per muovere guerra al soggettivismo negavo al soggetto, al personale, all'individuale tutti i suoi diritti. Oggi mi parrebbe più adeguato alla verità e anche alla tattica riconoscerglieli in tutta la loro ampiezza e dotare il soggettivo di un posto e di un compito nell'alveare universale.
+
+E nulla più.
+
+Ho preso la mano della mia giovinezza come quella di un amico fedele. Ho guardato in fondo ai suoi occhi, e ho visto che non si turbava. Ho spinto la sua schiena verso il passato, e ho detto: «Addio, puoi andartene tranquilla».
+
+Il premio unico, il premio sufficiente, il premio massimo a cui si può aspirare è questo: poter andarsene tranquilli.
+
+El Escorial, gennaio 1916

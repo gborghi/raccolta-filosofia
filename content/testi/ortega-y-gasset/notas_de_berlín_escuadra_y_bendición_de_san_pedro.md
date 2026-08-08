@@ -35,3 +35,39 @@ Todos los súbditos imperiales se han alzado como un solo Bismarck a estas palab
 ¡Así, pues, deprisa! ¡El cielo político está negro!»
 
 Y a continuación sigue una copia de la lista de barcos nuevos proyectados; luego una moción, para que se firme en unos libros de petición que se destinan al Parlamento. En fin, termina el rojo papelón con la siguiente.
+
+<span class="qlang-split" data-lang="en"></span>
+
+It is an apophthegm of money-makers that only the first million is hard to earn; this one by itself, or with scant effort on the part of the earner, engenders another million, and so on. This fact, so vulgar, has occupied, as is right, the philosophers, thinkers, psychologists, sociologists, discanters, paradox-mongers, peripatetics, water-diviners and the rest of that rabble of idle men, afflicted by the baleful mania of thinking. And their study of it has interested them because, in effect, not only with money does such fecundation and propagation of a fact by itself occur, but also with moral opinion, with right feeling. Thus a man has performed an honourable action in a certain year, at the beginning of his life; he has written an important book, or staged a drama, or delivered a speech, or rhymed a couple of half-dozens of verses: in the rest of his days that man has done nothing meritorious again, and yet he not only keeps the honour and praise that his single action earned him, but the honour and praise, as they ripen with him, grow and multiply incessantly. How many citizens there are, in a sweet country, above all, situated beyond the Pyrenees and this side of the Atlas, between-mountains, as one might say, who live in opulent honour, if not in economic opulence, because in the year 80 they spent a turn in office in favour of a budget or published an article entitled "Let Us Meditate". All this seems very well; whatever happens must seem very well: "the irresistible force of facts", of which a conspicuous ex-minister is wont to speak, is in truth an irresistible force.
+
+* * *
+
+But all the foregoing runs on the thread that in these days a disguised trembling has been felt throughout Europe, a frightened bracing oneself. And all on account of what? From the desert comes the lion's roar and on all the Tartarins the tassels tremble atop their chechias. The lion has roared through the mouth of Prince von Bülow in the German Reichstag. His words were brief and precise: he spoke of real dangers for the chariot of the German State, of undoubted and menacing hatreds.
+
+All the imperial subjects have risen like a single Bismarck at these words, and without hesitation or delay they are going, shortly, to deliver brimming millions under the species of new taxes for the construction of a fleet. The enthusiasm and unanimity of the German people in this [case](/concepts/fortune) might give rise to delicate sociological observations which perhaps Professor Humbugmann might develop. The discipline of an entire nation has never reached similar perfection. Not only in Parliament does enthusiasm seethe: in the streets, around every corner, they offer the passer-by proclamations inviting him to attend fleetophile meetings; wherever it is lawful to paste a placard, there is a placard pasted that, amid exclamations and red letters, warms the popular spirit. One enters a shop and finds nailed to a wall a big sheet which says:
+
+«Petition to the Reichstag for the hastening of the construction of the German fleet!
+
+»We build too slowly! Germany will never in this way come to possess a powerful fleet! Rather, half will always turn out antiquated! Hence the present circumstances are threatening!
+
+»So, then, quickly! The political sky is black!»
+
+And next follows a copy of the list of new projected ships; then a motion, to be signed in certain petition books that are destined for Parliament. In short, the red sheet ends with the following.
+
+<span class="qlang-split" data-lang="it"></span>
+
+È apotegma dei facitori di denaro che solo il primo milione costi fatica a guadagnarsi; questo da sé solo o con esigua fatica da parte del guadagnatore ne genera un altro milione e così successivamente. Questo fatto così volgare ha occupato, come è giusto, i filosofi, i pensatori, gli psicologi, i sociologi, i discantatori, i paradosisti, i peripatetici, i rabdomanti e l'altra genìa di uomini oziosi, afflitti dalla funesta mania di pensare. E li ha interessati il suo studio perché, in effetti, non solo col denaro avviene simile fecondazione e propagazione di un fatto per sé stesso, ma anche con l'opinione morale, col sentimento retto. Così un uomo ha compiuto un'azione onorevole in un certo anno, al principio della sua vita; ha scritto un libro importante, o messo in scena un dramma, o pronunciato un discorso, o rimato un paio di mezze dozzine di versi: nel resto dei suoi giorni quell'uomo non ha più fatto nulla di meritevole, e tuttavia non solo conserva l'onore e la lode che la sua unica azione gli valse, ma l'onore e la lode, andando con lui facendosi mature, crescono, si moltiplicano incessantemente. Quanti cittadini ci sono, in un dolce paese, soprattutto, situato al di là dei Pirenei e al di qua dell'Atlante, tra-monti, per così dire, che vivono in opulenta onorabilità, se non in opulenza economica, perché nell'anno 80 consumarono un turno a favore di un bilancio o pubblicarono un articolo intitolato «Meditiamo». Tutto ciò sembra molto bene; tutto ciò che accade deve sembrare molto bene: «la forza incontrastabile dei fatti», di cui suole parlare un cospicuo ex ministro, è in verità una forza incontrastabile.
+
+* * *
+
+Ma va tutto il precedente al filo che in questi giorni si è sentito per tutta l'Europa un dissimulato tremore, un'inquieta preparazione. E tutto perché? Dal deserto giunge il ruggito del leone e a tutti i Tartarini tremano le nappe in cima alle loro chechie. Il leone ha ruggito per bocca del principe di Bülow al Reichstag tedesco. Le sue parole furono brevi e precise: parlò di reali pericoli per il carro dello Stato tedesco, di indubitabili e minacciosi odi.
+
+Tutti i sudditi imperiali si sono levati come un solo Bismarck a queste parole, e senza esitazioni né indugi vanno, in breve, a consegnare rigonfi milioni sotto le specie di nuove imposte per la costruzione di una flotta. L'entusiasmo e l'unanimità del popolo tedesco in questo [caso](/concepts/fortune) potrebbero dar margine a delicate osservazioni sociologiche che forse svilupperebbe il professor Humbugmann. La disciplina di un'intera nazione non è mai giunta a simile perfezione. Non solo in Parlamento ribolle l'entusiasmo: per le strade offrono dietro ogni angolo al passante proclami che lo invitano a partecipare a riunioni flottofile; ovunque è lecito attaccare un manifesto, un manifesto c'è attaccato che tra esclamazioni e lettere rosse scalda l'animo popolare. Si entra in un negozio e si trova inchiodato a una parete un cartellone dove dice:
+
+«Petizione al Reichstag per l'affrettamento nella costruzione della flotta tedesca!
+
+»Costruiamo troppo lentamente! Mai giungerà in questo modo la Germania a possedere una flotta potente! Anzi, la metà risulterà sempre antiquata! Di qui che le circostanze attuali siano minacciose!
+
+»Dunque, presto! Il cielo politico è nero!»
+
+E a continuazione segue una copia della lista delle nuove navi progettate; poi una mozione, perché si firmi in alcuni libri di petizione che si destinano al Parlamento. Infine, termina il rosso cartellone con la seguente.

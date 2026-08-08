@@ -24,6 +24,10 @@ tags:
 
 TREATISE ON FORTITUDE AND TEMPERANCE (QQ[123]-170)
 
+<span class="qlang-split" data-lang="it"></span>
+
+Trattato sulla Fortitudine e la Temperanza (QQ[123]-170)
+
 <span class="atom-split" data-atom="002" data-title="OF FORTITUDE (TWELVE ARTICLES)" data-chapter="OF FORTITUDE (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After considering justice we must in due sequence consider fortitude. We must (1) consider the
@@ -44,6 +48,24 @@ Under the first head there are twelve points of inquiry:
 (10) Whether it makes use of [anger](/concepts/anger) in its action?
 (11) Whether it is a cardinal virtue?
 (12) Of its comparison with the other cardinal virtues.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo aver considerato la giustizia, dobbiamo successivamente esaminare la forza d’animo. Dobbiamo: (1) analizzare la virtù stessa della forza d’animo; (2) i suoi componenti; (3) il dono che le corrisponde; (4) i precetti che ad essa sono relativi.  
+Per quanto riguarda la forza d’animo, occorre prendere in considerazione tre aspetti: (1) La forza d’animo stessa; (2) Il suo atto principale, ovvero il martirio; (3) I vizi opposti alla forza d’animo.  
+All’interno del primo ambito di analisi vi sono dodici punti da esaminare:  
+(1) La forza d’animo è davvero una virtù?  
+(2) È una virtù specifica?  
+(3) Riguarda soltanto il timore e il coraggio?  
+(4) Si riferisce esclusivamente al timore della morte?  
+(5) È applicabile soltanto in ambiti bellici?  
+(6) La sopportazione è il suo atto principale?  
+(7) Il suo operare mira al proprio bene?  
+(8) Trova piacere nel proprio agire?  
+(9) Si occupa principalmente di eventi improvvisi?  
+(10) Nella sua azione fa uso della [rabbia](/concepts/anger)?  
+(11) È considerata una virtù cardinale?  
+(12) Qual è il suo rapporto con le altre virtù cardinali?
 
 <span class="atom-split" data-atom="003" data-title="Whether fortitude is a virtue?" data-chapter="Whether fortitude is a virtue?" data-kind="atom" data-srclang="en"></span>
 
@@ -154,6 +176,24 @@ to bear, is prepared, in consequence, to resist those which are less difficult.
 
 Reply to Objection 3: This objection takes fortitude in the first sense.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la forza d’animo non sia una virtù particolare. Infatti, è scritto (Sapienza 7:7): “Insegna temperanza, prudenza, giustizia e forza d’animo”, dove il termine “virtù” viene utilizzato al posto di “forza d’animo”. Poiché il termine “virtù” è comune a tutte le virtù, sembra che la forza d’animo sia una virtù generale.
+
+Obiezione 2: Inoltre, Ambrogio afferma (De Offic. i): “La forza d’animo non è priva di coraggio, poiché è essa soltanto a difendere l’onore delle virtù e a garantire il loro rispetto. È lei che conduce una guerra inesorabile contro ogni vizio, senza mai arrendersi alla fatica, coraggiosa di fronte ai pericoli, indifferente ai piaceri, irremovibile di fronte alle lussurie, e che evita la cupidigia come una deformità che indebolisce la virtù”; e dice lo stesso anche riguardo ad altri vizi. Ora, questo non può applicarsi a nessuna virtù specifica; pertanto, la forza d’animo non è una virtù specifica.
+
+Obiezione 3: Inoltre, sembrerebbe che la forza d’animo derivi il proprio nome dalla fermezza. Ma ogni virtù presupone necessariamente la capacità di rimanere fermi e decisi, come affermato nell’Etica ii. Pertanto, la forza d’animo è una virtù generale.
+
+Al contrario, Gregorio (Morali, xxii) lo considera tra le altre virtù.
+
+Rispondo che, come già detto sopra (FS, Q[61], AA[3],4), il termine “fortezza d’animo” può essere inteso in due modi. In primo luogo, semplicemente come indicazione di una certa fermezza mentale; in questo senso rappresenta una virtù generale, o meglio una condizione essenziale per ogni virtù, poiché, come afferma il Filosofo (Etica ii), è necessario che ogni virtù si manifesti con azioni decise e inamovibili. In secondo luogo, la forza d’animo può essere intesa come quella fermezza specifica nell’affrontare e resistere a quelle situazioni in cui risulta particolarmente difficile mantenere la propria determinazione, cioè in certi pericoli gravi. Pertanto Tullio afferma (Retorica ii) che “la forza d’animo consiste nel fronteggiare consapevolmente i pericoli e nel sopportare le difficoltà”. In questo senso, la forza d’animo è considerata una virtù specifica, poiché riguarda un ambito particolare delle nostre azioni.
+
+Risposta all’Obiezione 1: Secondo il Filosofo (De Coelo i, 116), il termine “virtù” si riferisce al limite estremo di una capacità umana. Una capacità naturale, in un certo senso, è quella di resistere alle corruzioni; in un altro senso, rappresenta un principio d’azione, come affermato nel Metafisico v, 17. Poiché questo secondo significato è il più comune, il termine “virtù”, inteso come il limite estremo di una tale capacità, è un concetto diffuso: in senso generale, la virtù non è altro che un’[abitudine](/concepts/custom) che induce a comportarsi bene. Tuttavia, se intesa nel primo significato – più specifico – il termine si riferisce a una virtù particolare, ovvero la forza d’animo, che consiste nella capacità di resistere con fermezza a ogni tipo di aggressione.
+
+Risposta all’Obiezione 2: Ambrogio intende la forza d’animo in senso lato, come indicante una fermezza di volontà di fronte a ogni sorta di aggressioni. Tuttavia, anche quando considerata come virtù specifica legata a determinati contesti, essa aiuta comunque a resistere alle insidie di tutti i vizi. Chi infatti è in grado di mantenere la propria fermezza di fronte alle cose più difficili da sopportare, sarà inevitabilmente preparato anche a resistere a quelle meno ardue.
+
+Risposta all’Obiezione 3: Questa obiezione considera la forza d’animo nel suo primo significato.
+
 <span class="atom-split" data-atom="005" data-title="Whether fortitude is about fear and dying?" data-chapter="Whether fortitude is about fear and dying?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that fortitude is not about fear and daring. For Gregory says (Moral. vii):
@@ -197,6 +237,25 @@ temporal evils that withdraw one from virtue, as appears from Tully's definition
 Second Objection, it follows that fortitude properly is about fear and daring and not about hope,
 except in so far as it is connected with daring, as stated above (FS, Q[45], A[2]).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la forza d’animo non riguardi il timore né il coraggio. Infatti Gregorio afferma (Moralia, vii):  
+“La forza d’animo dell’uomo giusto consiste nel superare la carne, nel resistere alla autocompiacenza, nel soffocare i desideri della vita presente.” Pertanto, la forza d’animo sembrerebbe riguardare piuttosto i piaceri che il timore e il coraggio.
+
+Obiezione 2: Inoltre, Tullio afferma (De Invent. Rhet. ii) che appartiene alla forza d’animo affrontare i pericoli e sopportare le fatiche. Ma ciò, apparentemente, non ha nulla a che fare con le passioni del timore e del coraggio, bensì con le azioni laboriose di un uomo e i pericoli esterni. Pertanto, la forza d’animo non riguarda il timore e il coraggio.
+
+Obiezione 3: Inoltre, non solo il coraggio, ma anche la speranza sono opposti alla paura, come affermato sopra (FS, Q[45], A[1], ad 2) nel trattato sulle passioni. Pertanto, la forza d’animo dovrebbe riguardare tanto il coraggio quanto la speranza.
+
+Al contrario, il Filosofo afferma (Etica, ii, 7; iii, 9) che la forza d’animo riguarda proprio il timore e il coraggio.
+
+Rispondo che, come già detto sopra (A[1]), appartiene alla virtù della forza d’animo eliminare qualsiasi ostacolo possa impedire alla volontà di seguire la ragione. Ora, il fatto di ritirarsi da qualcosa di difficile rientra nella nozione della paura, che indica l’allontanamento da un male accompagnato da difficoltà, come affermato sopra (FS, Q[42], AA[3],5) nel trattato sulle passioni. Pertanto, la forza d’animo riguarda principalmente la paura delle cose difficili, che potrebbero distogliere la volontà dal seguire la ragione. È quindi necessario non solo sopportare con fermezza gli attacchi di queste difficoltà reprimendo la paura, ma anche resistervi in modo moderato, soprattutto quando è indispensabile eliminarle del tutto per liberarsi definitivamente da esse in futuro; questo aspetto sembra rientrare nella nozione del coraggio. In conclusione, la forza d’animo riguarda sia la paura che il coraggio, nel senso di reprimerne l’uno e moderarne l’altro.
+
+Risposta all’Obiezione 1: Gregory parla quindi della forza d’animo dell’uomo giusto, in relazione alle sue caratteristiche comuni a tutte le virtù. Per questo motivo menziona innanzitutto aspetti legati alla temperanza, come si evince dalle parole citate, e successivamente aggiunge ciò che riguarda specificamente la forza d’animo come virtù distinta, dicendo: “Amare le prove di questa vita per il bene di una ricompensa eterna”.
+
+Risposta all’Obiezione 2: I pericoli e le fatiche non allontanano la volontà dal corso della ragione, se non nella misura in cui rappresentino oggetto di paura. Pertanto, la forza d’animo è necessaria soprattutto in relazione alla paura e al coraggio, e solo indirettamente in relazione ai pericoli e alle fatiche, poiché questi sono gli oggetti di tali passioni.
+
+Risposta all’Obiezione 3: La speranza si oppone alla paura riguardo all’oggetto su cui si riflette, poiché la speranza riguarda il bene, mentre la paura riguarda il male; d’altra parte, il coraggio riguarda lo stesso oggetto e si oppone alla paura attraverso l’avvicinamento o il distacco da esso, come già detto sopra (FS, Q[45], A[1]). Poiché la forza d’animo riguarda propriamente quei mali temporali che allontanano una persona dalla virtù, come emerge dalla definizione di Tullio citata nell’Seconda Obiezione, ne consegue che la forza d’animo riguardi essenzialmente la paura e il coraggio, e non la speranza, se non nella misura in cui questa sia collegata al coraggio, come ancora detto sopra (FS, Q[45], A[2]).
+
 <span class="atom-split" data-atom="006" data-title="Whether fortitude is only about dangers of death?" data-chapter="Whether fortitude is only about dangers of death?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that fortitude is not only about dangers of death. For [Augustine](/figures/augustine) says (De
@@ -239,6 +298,24 @@ special virtue modifying the fear of death.
 
 Reply to Objection 3: In virtues the extreme consists in exceeding right reason: wherefore to
 undergo the greatest dangers in accordance with reason is not contrary to virtue.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la forza d’animo riguardi non solo i pericoli di morte. Infatti, [Agostino](/figures/augustine) afferma (De Morib. Eccl. XV) che “la forza d’animo è l’amore che accetta volentieri ogni cosa per amore dell’oggetto amato”; inoltre, nel libro VI delle sue Opere musicali, dice che la forza d’animo è “l’amore che non teme alcuna sofferenza, nemmeno la morte”. Pertanto, la forza d’animo riguarda non solo i pericoli di morte, ma anche altre forme di afflizione.
+
+Obiezione 2: Inoltre, tutte le passioni dell’anima devono essere ridotte al loro giusto mezzo attraverso qualche virtù. Ora, non esiste alcuna altra virtù in grado di ridurre le paure al loro giusto livello. Pertanto, la forza d’animo riguarda non solo la paura della morte, ma anche altre forme di paura.
+
+Obiezione 3: Inoltre, nessuna virtù riguarda gli estremi. Ma la paura della morte appartiene agli estremi, poiché è la più grande delle paure, come affermato nell’Etica iii. Pertanto, la virtù della forza d’animo non ha nulla a che fare con la paura della morte.
+
+Al contrario, Andronico afferma che “la forza d’animo è una virtù della parte irascibile dell’individuo, che non si lascia facilmente scoraggiare dalla paura di morte”.
+
+Rispondo che, come già detto sopra (A[3]), appartiene alla virtù della forza il proteggere la volontà dal distacco dal bene della ragione a causa della paura del male fisico. Ora è dovere di ogni persona difendere fermamente il bene della ragione contro qualsiasi tipo di male, poiché nessun bene fisico può essere paragonato al bene della ragione. Pertanto, la forza d’animo deve essere quella che lega saldamente la volontà al bene della ragione di fronte ai mali più gravi: chi resiste con fermezza alle cose grandi, infatti, riuscirà a resistere anche a quelle minori, ma non il contrario. Inoltre, è proprio della natura della virtù considerare situazioni estreme; e il male fisico più temibile di tutti è la morte, poiché essa distrugge ogni bene corporeo. Per questo Agostino afferma (De Morib. Eccl. xxii) che “l’anima viene scossa dal proprio corpo, per paura del dolore e delle sofferenze, nel timore che il corpo venga colpito o tormentato dalla morte, che potrebbe distruggerlo completamente”. Quindi, la virtù della forza riguarda proprio la paura dei pericoli legati alla morte.
+
+Risposta all’Obiezione 1: La forza d’animo si manifesta in modo positivo nel sopportare ogni sorta di avversità; tuttavia, un uomo non viene considerato coraggioso semplicemente perché affronta qualsiasi tipo di difficoltà, ma soltanto perché riesce a sopportare anche i mali più gravi in modo eroico; nel caso in cui si tratti di altre forme di sofferenza, si dice che sia coraggioso in senso limitato.
+
+Risposta all’Obiezione 2: Poiché la paura nasce dall’amore, qualsiasi virtù che moderi l’amore per certi beni dovrà necessariamente moderare anche la paura dei mali contrari; così, la generosità, che modera l’amore per il denaro, ne consegue anche la riduzione della paura di perderlo, e lo stesso vale per la temperanza e altre virtù. Tuttavia, amare la propria vita è qualcosa di naturale; da ciò deriva la necessità di una virtù specifica che moduli la paura della morte.
+
+Risposta all’Obiezione 3: Nelle virtù, l’estremo consiste nel trascendere la ragione retta; pertanto, correre i maggiori pericoli seguendo la ragione non è contrario alla virtù.
 
 <span class="atom-split" data-atom="007" data-title="Whether fortitude is properly about dangers of death in battle?" data-chapter="Whether fortitude is properly about dangers of death in battle?" data-kind="atom" data-srclang="en"></span>
 
@@ -295,6 +372,24 @@ certain persons make evil use of it. For there are many others who make good use
 evils prevented by it, such as murders and sacrileges, are much greater than those which are
 occasioned by it, and which belong chiefly to the sins of the flesh.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la forza d’animo non riguardi propriamente i pericoli di morte in battaglia. Infatti, i martiri vengono soprattutto lodati per la loro forza d’animo; tuttavia, i martiri non vengono lodati in relazione alle battaglie. Pertanto, la forza d’animo non riguarda propriamente i pericoli di morte in battaglia.
+
+Obiezione 2: Inoltre, Ambrogio afferma (De Offic. i) che “la forza d’animo è applicabile sia alle questioni militari che a quelle civili”; e Tullio, nel capitolo “Che spetti alla forza d’animo eccellere in battaglia piuttosto che nella vita civile”, dice: “Sebbene molti ritengano che gli affari della guerra siano di maggiore importanza rispetto a quelli della vita civile, questa opinione deve essere moderata: e se vogliamo giudicare la questione con sincerità, ci sono molte cose nella vita civile che sono più importanti e più gloriose di quelle legate alla guerra”. Ora, una maggiore forza d’animo riguarda questioni di maggior rilievo; pertanto, la forza d’animo non è propriamente legata alla morte in battaglia.
+
+Obiezione 3: Inoltre, la guerra ha lo scopo di preservare la pace temporale di un paese; infatti, [Agostino](/figures/augustine) afferma nel “De Civili Dei” xix che “le guerre vengono combattute al fine di garantire la pace”. Non sembra quindi giusto esporsi al pericolo della morte per la pace temporale del proprio paese, poiché proprio questa pace spesso conduce a molte licenze morali. Pertanto, si può ritenere che la virtù della forza d’animo non riguardi necessariamente il pericolo della morte in battaglia.
+
+Al contrario, il Filosofo afferma (Etica, III) che la forza d’animo riguarda principalmente la morte in battaglia.
+
+Rispondo che, come già detto sopra (A[4]), la forza d’animo rafforza lo spirito umano di fronte al più grande pericolo, ovvero quello della morte. Ora, la forza d’animo è una virtù; e poiché ogni virtù tende necessariamente al bene, è proprio nel perseguire il bene che l’uomo non fugge dal pericolo della morte. Tuttavia i pericoli legati alla morte derivanti da malattie, tempeste marine, attacchi di banditi e simili non sembrano derivare dal perseguimento del bene; al contrario, i pericoli della morte che si verificano in battaglia derivano direttamente dal perseguimento di un bene, poiché l’uomo difende il bene comune attraverso uno scontro giusto. Ora, uno scontro giusto può essere di due tipi: primo, quello generale, come avviene nelle battaglie; secondo, quello individuale, quando un giudice o una persona privata non si astiene dal pronunciare una sentenza giusta per paura della spada minacciosa o di altri pericoli che potrebbero portare alla morte. Pertanto, spetta proprio alla forza d’animo rafforzare lo spirito umano di fronte ai pericoli della morte, non solo quelli che si verificano in battaglie generali, ma anche quelli che si presentano in combattimenti individuali, i quali possono essere considerati sotto la stessa categoria delle battaglie. Si deve quindi ammettere che la forza d’animo riguarda specificamente i pericoli della morte che si verificano in battaglia. Inoltre, un uomo coraggioso si comporta bene anche di fronte a pericoli legati ad altri tipi di morte; soprattutto perché l’uomo può trovarsi in pericolo di morte a causa della virtù stessa: così, ad esempio, non si dovrebbe rifiutare di curare un amico malato per paura di contrarre una malattia mortale, né si dovrebbe rinunciare a intraprendere un viaggio con uno scopo nobile per paura di naufragi o attacchi di banditi.
+
+Risposta all’Obiezione 1: I martiri affrontano una lotta che viene condotta contro di loro stessi, e ciò al fine del bene sovrano, che è Dio; per questo motivo la loro forza d’animo viene lodata sopra ogni cosa. Inoltre, tale comportamento rientra senz’altro nel genere della forza d’animo, in quanto riguarda azioni belliche; per questa ragione si dice che siano stati valorosi in battaglia. [*Officio dei Martiri, ex Hebrei xi, 34.]
+
+Risposta all’Obiezione 2: Gli affari personali e civili si distinguono dagli affari legati alla guerra, in particolare dalle guerre generali. Tuttavia, anche gli affari personali e civili possono comportare pericoli di morte derivanti da certi conflitti che rientrano nella categoria delle guerre private; pertanto, anche in questi casi può esistere quella che si definisce coraggio vero e proprio.
+
+Risposta all’Obiezione 3: La pace dello [stato](/concepts/state) è buona in sé stessa, e non diventa cattiva solo perché alcune persone ne fanno un uso malvagio. Infatti, ci sono molte altre persone che ne fanno un uso positivo; inoltre, molti mali che vengono prevenuti grazie a essa – come omicidi e sacrilegi – sono di gran lunga più gravi di quelli che ne derivano, e questi ultimi riguardano principalmente i peccati del corpo.
+
 <span class="atom-split" data-atom="008" data-title="Whether endurance is the chief act of fortitude?" data-chapter="Whether endurance is the chief act of fortitude?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that endurance is not the chief act of fortitude. For virtue "is about the
@@ -339,6 +434,24 @@ threatening passion of the body. Now virtue concerns the soul rather than the bo
 Reply to Objection 3: He that endures fears not, though he is confronted with the cause of
 fear, whereas this cause is not present to the aggressor.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la resistenza non sia l’atto principale della forza d’animo. Infatti, la virtù “riguarda ciò che è difficile e ciò che è buono” (Etica, ii, 3). Ora, attaccare qualcosa è più difficile che resistervi; pertanto, la resistenza non è l’atto principale della forza d’animo.
+
+Obiezione 2: Inoltre, il fatto di essere in grado di agire su un altro sembra indicare una maggiore forza rispetto al non essere modificati dall’azione altrui. Ora, attaccare significa agire su un altro, mentre sopportare significa rimanere immutabili di fronte alle azioni altrui. Poiché la forza d’animo rappresenta la perfezione della capacità di agire, sembra che appartenga proprio alla forza d’animo attaccare piuttosto che sopportare.
+
+Obiezione 3: Inoltre, ciò che è contrario a qualcosa è più lontano da esso di quanto lo sia semplicemente la sua negazione. Sopportare qualcosa significa semplicemente non temerlo, mentre attaccare rappresenta un’azione contraria al sentimento della paura, poiché implica un’azione volta a contrastarla. Poiché dunque la forza d’animo, soprattutto, allontana la mente dalla paura, sembra che essa favorisca l’atto di attaccare piuttosto che quello di sopportare.
+
+Al contrario, il Filosofo afferma (Etica, III, 9) che alcune persone vengono considerate coraggiose soprattutto perché sopportano le sofferenze.
+
+Rispondo che, come già detto sopra (A[3]), e secondo il Filosofo (Etica, iii, 9), “la forza d’animo ha lo scopo principale di placare la paura, piuttosto che moderare l’audacia”. Infatti è molto più difficile placare la paura che moderare l’audacia, poiché il pericolo, oggetto sia dell’una che dell’altra, per sua natura tende a frenare l’audacia e ad aumentare la paura. L’attacco rientra nell’ambito delle azioni della forza d’animo nel senso che essa modera l’audacia, mentre sopportare il pericolo deriva dalla repressione della paura stessa. Pertanto, l’atto principale della forza d’animo è la capacità di resistere immobile di fronte ai pericoli, piuttosto che attaccarli.
+
+Risposta all’Obiezione 1: La resistenza è più difficile dell’aggressione per tre motivi. Primo, perché la resistenza sembra implicare che si subisca un attacco da parte di una persona più forte, mentre l’aggressione indica che si attacca come se si fosse la parte più potente; inoltre, è più difficile affrontare qualcuno più forte che qualcuno più debole. Secondo, perché colui che resiste già percepisce la presenza del pericolo, mentre l’aggressore considera il pericolo come qualcosa che dovrà ancora verificarsi; è quindi più difficile rimanere indifferente di fronte al presente che di fronte al futuro. Terzo, perché la resistenza richiede un lungo periodo di tempo, mentre l’aggressione si manifesta spesso in azioni immediate; è dunque più difficile mantenere la calma per un periodo prolungato, rispetto a essere improvvisamente spinti a compiere qualcosa di arduo. Ecco perché il Filosofo afferma (Etica, iii, 8) che “alcuni si affrettano ad andare incontro al pericolo, ma fuggono non appena esso si presenta; questo non è certo il comportamento di un uomo coraggioso”.
+
+Risposta all’Obiezione 2: La perseveranza indica effettivamente un’emozione del corpo, ma si tratta di un atto dell’anima che si attacca con estrema determinazione al bene, il risultato essere che non cede alle minacciose emozioni del corpo. Ora, la virtù riguarda l’anima, non il corpo.
+
+Risposta all’Obiezione 3: Chi resiste al terrore non ne prova paura, anche se si trova di fronte alla causa che lo provoca; tale causa, però, non è presente nell’aggressore stesso.
+
 <span class="atom-split" data-atom="009" data-title="Whether the brave man acts for the sake of the good of his habit?" data-chapter="Whether the brave man acts for the sake of the good of his habit?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the brave man does not act for the sake of the good of his [habit](/concepts/custom). For
@@ -372,6 +485,18 @@ he intends to act in accordance with his habit: but his remote end is happiness 
 This suffices for the Replies to the Objections: for the First Objection proceeds as though the
 very essence of a habit were its end, instead of the likeness of the habit in act, as stated. The other
 two objections consider the ultimate end.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’uomo coraggioso non agisca al fine di promuovere il bene della propria [abitudine](/concepts/custom). Infatti, in materia di azioni, lo scopo, sebbene previsto inizialmente nell’intenzione, diventa secondario nella fase dell’esecuzione. Ora, l’atto di coraggio, nella sequenza delle fasi esecutive, segue necessariamente l’abitudine alla quale appartiene. Pertanto, è impossibile che l’uomo coraggioso agisca al fine di promuovere il bene della propria abitudine.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (De Trin. xiii): “Amiamo le virtù per amore della felicità, eppure alcuni osano consigliarci di essere virtuosi”, cioè dicendo che dovremmo desiderare la virtù per se stessa, “senza amare la felicità. Se riuscissero nel loro intento, sicuramente smetteremmo di amare la virtù stessa, poiché non la ameremmo più soltanto per il motivo per cui la amiamo”. Ma la forza d’animo è una virtù; pertanto, l’atto di mostrare forza d’animo non è diretto verso la stessa forza d’animo, ma verso la felicità.
+
+Obiezione 3: Inoltre, Agostino afferma (De Morib. Eccl. XV) che “la forza d’animo è un amore pronto a sopportare qualsiasi cosa per amor di Dio”. Ora, Dio non è semplicemente l’oggetto di tale amore, ma qualcosa di ancora più grande; infatti, lo scopo finale deve necessariamente essere migliore di ciò che serve a raggiungerlo. Pertanto, l’uomo coraggioso non agisce per il bene della propria forza d’animo stessa.
+
+Al contrario, il Filosofo afferma (Etica, III, 7) che “per l’uomo coraggioso la stessa forza d’animo è un bene”; ed è proprio questo il suo fine ultimo.
+
+Rispondo che un fine è di duplice natura: immediata e ultima. Ora, il fine immediato di ogni agente consiste nel trasmettere nella realtà esterna la somiglianza con la propria essenza; ad esempio, lo scopo del fuoco è quello di riscaldare, cioè di trasferire il proprio calore su una materia passiva, mentre lo scopo dell’architetto è quello di dare alla materia forma secondo le regole della sua arte. Qualsiasi bene derivi da questo processo, se intenzionalmente perseguito dall’agente, può essere considerato il suo fine ultimo. Proprio come nella creazione di oggetti materiali l’esterna materia viene plasmata dall’arte, così nelle azioni umane le stesse sono guidate dalla prudenza. Pertanto, possiamo concludere che l’uomo coraggioso intenda come proprio fine immediato riprodurre nell’azione la somiglianza con il proprio carattere, poiché desidera agire in conformità con esso; il suo fine ultimo, invece, è la felicità o Dio stesso. Ciò basta per rispondere alle obiezioni: la prima obiezione si basa sull’errata concezione che l’essenza stessa di un carattere costituisca il suo fine, anziché la sua manifestazione concreta nell’azione; le altre due obiezioni riguardano invece il fine ultimo dell’agente.
 
 <span class="atom-split" data-atom="010" data-title="Whether the brave man delights in his act?" data-chapter="Whether the brave man delights in his act?" data-kind="atom" data-srclang="en"></span>
 
@@ -428,6 +553,24 @@ Yet since bodily pain is more sensible, and the sensitive apprehension is more i
 it follows that spiritual pleasure in the end of virtue fades away, so to speak, in the presence of
 great bodily pain.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’uomo coraggioso provi piacere nel proprio atto. Infatti “il piacere è l’azione spontanea di un’abitudine innata” (Etica, x, 4,6,8). Ora, il gesto coraggioso deriva da un’abitudine che agisce secondo la natura stessa; pertanto, l’uomo coraggioso trova piacere nel proprio atto.
+
+Obiezione 2: Inoltre, Ambrogio, commentando Galati 5:22 (“Ma il frutto dello Spirito è carità, gioia, pace”), afferma che le azioni virtuose vengono chiamate “frutti” perché rinfrescano l’anima con una gioia santa e pura. Ora, poiché l’uomo coraggioso compie atti di virtù, ne trae piacere.
+
+Obiezione 3: Inoltre, il debole viene sopraffatto dal forte. Ora, l’uomo coraggioso prova un amore più profondo per il bene e la virtù che per il proprio corpo, che espone al pericolo della morte. Pertanto, la gioia derivante dal bene e dalla virtù cancella il dolore del corpo; e di conseguenza, l’uomo coraggioso compie tutte le cose con piacere.
+
+Al contrario, il Filosofo afferma (Etica, III, 9) che “l’uomo coraggioso non sembra provare alcun piacere nell’atto che compie”.
+
+Rispondo che, come già detto in precedenza (FS, Q[31], AA[3],4,5), quando trattavamo delle passioni, il piacere è di due tipi: uno è corporeo, derivante dal contatto fisico; l’altro è spirituale, nato dall’intuizione della verità. È quest’ultimo che deriva propriamente dalle azioni virtuose, poiché in esse consideriamo il bene razionale. L’atto principale della forza d’animo consiste nel sopportare non solo certe cose sgradevoli per l’anima – ad esempio la perdita della vita fisica, che l’uomo virtuoso ama non solo come bene naturale, ma anche perché necessaria per compiere atti di virtù – ma anche sofferenze legate al contatto corporeo, come ferite e colpi. Pertanto il valoroso, da un lato, prova piacere spirituale nell’atto stesso della virtù e nel suo fine; dall’altro lato, subisce sia dolore spirituale per la paura di perdere la vita, sia sofferenze fisiche. Per questo leggiamo (2 Maccabei 6:30) che Eleazar disse: “Soffro gravi dolori fisici, ma nell’anima sono felice di sopportarli, perché temo Te”. Tuttavia, il dolore corporeo rende l’uomo insensibile al piacere spirituale della virtù, se non vi fosse la potente assistenza della grazia divina, che ha più forza nel elevare l’anima verso le cose divine di quanto i dolori fisici abbiano in capacità di tormentarla. Così il beato Tiburtio, camminando a piedi nudi sui carboni ardenti, disse di sentirsi come se camminasse su rose. La virtù della forza d’animo, inoltre, impedisce che la ragione venga completamente sopraffatta dal dolore fisico; il piacere derivante dalla virtù prevale sul dolore spirituale, poiché l’uomo preferisce il bene della virtù alla vita corporea e a tutto ciò che ad essa è connesso. Per questo il Filosofo afferma (Etica, ii, 3; iii, 9) che “non è necessario che un uomo valoroso provi piacere in modo evidente, basta che non sia triste”.
+
+Risposta all’Obiezione 1: L’intensità dell’azione o della passione di un certo potere ostacola l’azione di un altro potere; pertanto, il dolore percepito dai sensi impedisce alla mente dell’uomo coraggioso di provare piacere nell’esercizio delle proprie funzioni normali.
+
+Risposta all’Obiezione 2: Le azioni virtuose sono piacevoli soprattutto per il loro fine; tuttavia possono essere dolorose per la loro natura, e questo vale soprattutto nel caso della forza d’animo. Pertanto il Filosofo afferma (Etica, iii, 9) che “compiere azioni con piacere non avviene in tutte le virtù, se non nella misura in cui si raggiunge lo scopo prefissato”.
+
+Risposta all’Obiezione 3: Nell’uomo coraggioso, il dolore spirituale viene superato dalla gioia derivante dalla virtù. Tuttavia, poiché il dolore fisico è più percepibile e la percezione sensibile è più evidente per l’uomo, ne consegue che il piacere spirituale derivante dalla virtù, in presenza di un grande dolore fisico, finisce per svanire.
+
 <span class="atom-split" data-atom="011" data-title="Whether fortitude deals chiefly with sudden occurrences?" data-chapter="Whether fortitude deals chiefly with sudden occurrences?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that fortitude does not deal chiefly with sudden occurrences. For it would
@@ -463,6 +606,19 @@ danger, this is a very strong proof that habitual fortitude is firmly seated in 
 Yet is it possible for a person even without the habit of fortitude, to prepare his mind against
 danger by long forethought: in the same way as a brave man prepares himself when necessary. This
 suffices for the Replies to the Objections.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la forza d’animo non riguardi principalmente gli eventi improvvisi. Infatti, si potrebbe pensare che gli eventi siano improvvisi quando sono inaspettati. Ma Tullio afferma (De Invent. Rhet. ii) che “la forza d’animo consiste nel fronteggiare deliberatamente il pericolo e nel sopportare la fatica”. Pertanto, la forza d’animo non riguarda principalmente gli eventi improvvisi.
+
+Obiezione 2: Inoltre, Ambrogio afferma (De Offic. i): “L’uomo coraggioso non ignora ciò che potrebbe accadere; prende misure in anticipo e osserva attentamente, come se si trovasse nella torre di controllo della propria mente, al fine di affrontare il futuro con la sua previdenza, per evitare di dire in seguito: ‘Questo mi è successo perché non pensavo che potesse accadere’”. Tuttavia, non è possibile prepararsi al futuro nel caso di eventi improvvisi. Pertanto, l’esercizio della virtù della forza d’animo non riguarda gli eventi imprevisti.
+
+Obiezione 3: Inoltre, il Filosofo afferma (Etica, iii, 8) che “l’uomo coraggioso nutre grandi speranze”.  
+Ma la speranza guarda verso il futuro, il quale è incompatibile con gli eventi improvvisi. Pertanto, l’azione della forza d’animo non riguarda gli eventi imprevisti.
+
+Al contrario, il Filosofo afferma (Etica, III, 8) che “la forza d’animo riguarda principalmente i pericoli improvvisi di morte”.
+
+Rispondo che, nell’atto di manifestare la forza d’animo, bisogna considerare due aspetti. Il primo riguarda la scelta stessa di agire con coraggio: in questo senso, la forza d’animo non si applica alle situazioni impreviste, poiché un uomo valoroso sceglie consapevolmente di prevedere i pericoli che potrebbero presentarsi, al fine di essere in grado di affrontarli o di sopportarli più facilmente. Come afferma Gregorio nel suo Homilium xxv in Evangelia, “Il colpo che viene previsto colpisce con minore forza, e siamo in grado di sopportare più agevolmente le ingiustizie terrene se siamo preparati con la conoscenza anticipata dei pericoli”. L’altro aspetto riguarda la manifestazione effettiva della virtù: in questo caso, la forza d’animo è particolarmente necessaria di fronte a situazioni impreviste, poiché, secondo il Filosofo nell’Etica iii, 8, l’abitudine al coraggio si manifesta soprattutto nei pericoli improvvisi; infatti, un’abitudine agisce in modo naturale. Pertanto, se una persona, senza alcuna preparazione preventiva, compie atti virtuosi di fronte a un pericolo imprevisto, ciò costituisce una prova evidente che la forza d’animo è radicata profondamente nella sua mente. Tuttavia, anche una persona priva di tale abitudine può prepararsi mentalmente al pericolo attraverso una lunga riflessione anticipata, proprio come un uomo valoroso si prepara quando necessario. Questo basta per rispondere alle obiezioni sollevate.
 
 <span class="atom-split" data-atom="012" data-title="Whether the brave man makes use of anger in his action?" data-chapter="Whether the brave man makes use of anger in his action?" data-kind="atom" data-srclang="en"></span>
 
@@ -523,6 +679,24 @@ dangers rather than lack pleasure. Hence the Philosopher says (Ethic. iii, 5): "
 which fortitude arises from a passion, the most natural is when a man is brave through anger, making
 his choice and acting for a purpose," i.e. for a due end; "this is true fortitude."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’uomo coraggioso non utilizzi la [rabbia](/concepts/anger) nelle proprie azioni. Infatti, nessuno dovrebbe impiegare come strumento delle proprie azioni ciò che non può utilizzare a piacimento. Ora, l’uomo non può controllare la rabbia a proprio volere, né prenderla e metterla da parte quando desidera. Come afferma il Filosofo nel “De Memoria” (ii), quando una passione fisica è in movimento, non si ferma immediatamente come si vorrebbe. Pertanto, un uomo coraggioso non dovrebbe utilizzare la rabbia nelle proprie azioni.
+
+Obiezione 2: Inoltre, se un uomo è in grado di compiere qualcosa da solo, non dovrebbe cercare l’aiuto di qualcosa di più debole e imperfetto. La ragione, infatti, è in grado di realizzare da sola imprese che richiedono coraggio, nelle quali la rabbia è del tutto inefficace. Per questo Seneca afferma nel “De Ira”: “La ragione, da sola, non solo ci prepara all’azione, ma la compie anche. Esiste forse follia maggiore di quella di chiedere alla ragione l’aiuto della rabbia? Il fermo e deciso chiede aiuto al volubile; il fidato, a colui che non è affidabile; il sano, al malato.” Pertanto, un uomo coraggioso non dovrebbe fare uso della rabbia.
+
+Obiezione 3: Inoltre, proprio come le persone sono più determinate a compiere atti di coraggio a causa della rabbia, lo sono altrettanto a causa del dolore o del desiderio; per questo il Filosofo afferma (Etica, iii, 8) che le bestie selvatiche vengono spinte ad affrontare il pericolo dal dolore o dalla sofferenza, e che le persone adultere osano compiere molte cose per motivi di desiderio. Ora, il coraggio non si avvale né del dolore né del desiderio nelle proprie azioni; pertanto, allo stesso modo, non dovrebbe nemmeno fare ricorso alla rabbia.
+
+Al contrario, il Filosofo afferma (Etica, III, 8) che “la rabbia aiuta i coraggiosi”.
+
+Rispondo che, come già detto sopra (FS, Q[24], A[2]), riguardo alla rabbia e alle altre passioni vi era disaccordo tra i [Peripatetici](/schools/lyceum) e gli Stoici. Gli Stoici escludevano la rabbia e tutte le altre passioni dell’anima dalla mente di un uomo saggio o virtuoso; invece i Peripatetici, tra i quali il principale era [Aristotele](/figures/aristotle), attribuivano sia alla rabbia che alle altre passioni dell’anima gli uomini virtuosi, anche se modificate dalla ragione. Forse non vi era differenza reale tra loro, ma solo nel modo in cui esprimevano i propri concetti. I Peripatetici, infatti, definivano “passioni” tutti i movimenti dell’appetito sensibile, indipendentemente dal loro carattere; poiché l’appetito sensibile veniva guidato dalla ragione al fine di rendere l’azione più pronta, ritenevano che anche le persone virtuose potessero utilizzare la rabbia e le altre passioni, purché modificate dai dettami della ragione. Gli Stoici, invece, consideravano “passioni” soltanto alcune emozioni eccessive dell’appetito sensibile; per questo motivo le escludevano completamente dalla nozione di virtù. Di conseguenza, l’uomo coraggioso utilizza una rabbia moderata nelle proprie azioni, ma non quella eccessiva.
+
+Risposta all’Obiezione 1: L’ira che viene moderata secondo la ragione è soggetta al suo dominio; in questo modo l’uomo può utilizzarla a piacimento, il che non sarebbe possibile se fosse smisurata.
+
+Risposta all’Obiezione 2: La ragione utilizza la rabbia nel suo operare, non per chiederne l’aiuto, ma perché impiega il desiderio sensibile come strumento, proprio come utilizza i vari membri del corpo. Non è certo indecoroso che lo strumento sia più imperfetto dell’agente principale, proprio come il martello è più imperfetto dello scaldaio. Inoltre, Seneca era un seguace degli Stoici, e le parole sopra riportate erano indirizzate direttamente ad Aristotele.
+
+Risposta all’Obiezione 3: Poiché la forza d’animo, come detto sopra (A[6]), comprende due azioni, ovvero la resistenza e l’aggressione, essa utilizza la rabbia non per l’azione di resistenza – poiché questa è compiuta dalla ragione stessa – ma per l’azione di aggressione. In questo caso, la rabbia viene preferita ad altre passioni, poiché appartiene proprio alla natura della rabbia attaccare la causa del dolore, cooperando così direttamente con la forza d’animo nell’atto offensivo. D’altra parte, il dolore, per sua stessa natura, tende a farsi spazio di fronte a ciò che causa sofferenza; sebbene occasionalmente possa aiutare nell’aggressione – sia come causa della rabbia, come detto sopra (FS, Q[47], A[3]), sia facendo sì che una persona si esponga al pericolo pur di sfuggire al dolore – la volontà, anch’essa per sua natura orientata verso il bene piacevole, è in diretta opposizione al rischio: tuttavia, a volte aiuta nell’aggressione, quando si preferisce correre dei rischi piuttosto che privarsi di piacere. Per questo motivo il Filosofo afferma (Etica, iii, 5): “Di tutte le situazioni in cui la forza d’animo deriva da una passione, quella più naturale è quando un uomo è coraggioso per via della rabbia, prendendo decisioni e agendo con uno scopo preciso, ovvero per un fine legittimo; questa è davvero la vera forza d’animo.”
+
 <span class="atom-split" data-atom="013" data-title="Whether fortitude is a cardinal virtue?" data-chapter="Whether fortitude is a cardinal virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that fortitude is not a cardinal virtue. For, as stated above (A[10]), [anger](/concepts/anger)
@@ -564,6 +738,24 @@ withstands, and to the good of reason, as the end, which it intends to safeguard
 Reply to Objection 3: Though dangers of death are of rare occurrence, yet the occasions of
 those dangers occur frequently, since on account of justice which he pursues, and also on account
 of other good deeds, man encounters mortal adversaries.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la forza d’animo non sia una virtù cardinale. Infatti, come detto sopra (A[10]), l’[ira](/concepts/anger) è strettamente legata alla forza d’animo. Ora, l’ira non è considerata una passione principale; né lo stesso vale per il coraggio, che appartiene alla forza d’animo. Pertanto, nemmeno la forza d’animo dovrebbe essere considerata una virtù cardinale.
+
+Obiezione 2: Inoltre, l’oggetto della virtù è il bene. Ma l’oggetto diretto della forza d’animo non è il bene, bensì il male, poiché si tratta di sopportare il male e le difficoltà, come afferma Tullio (De Invent. Rhet. ii). Pertanto, la forza d’animo non è una virtù cardinale.
+
+Obiezione 3: Inoltre, le virtù cardinali riguardano quelle cose su cui la vita umana si concentra principalmente, proprio come una porta ruota attorno a un cardine. Ma la forza d’animo riguarda pericoli di morte che sono rari nella vita umana; pertanto, la forza d’animo non dovrebbe essere considerata una virtù cardinale o principale.
+
+Al contrario, Gregorio nel suo trattato “Morale” XXII, Ambrogio nel suo commento su Luca 6:20, e [Agostino](/figures/augustine) nel “De Moribus Ecclesiae” XV considerano la forza d’animo tra le quattro virtù cardinali o principali.
+
+Rispondo che, come già detto sopra (FS, Q[61], AA[3],4), si definiscono virtù cardinali o principali quelle che hanno il diritto prioritario su ciò che è comune a tutte le virtù. Tra le altre condizioni essenziali di una virtù in generale, vi è quella della “costanza nell’agire”, come affermato nell’Etica ii, 4. Ora, la forza d’animo è proprio quella virtù che maggiormente si distingue per la sua costanza: colui che rimane fermo e inamovibile merita infatti un’enorme lode, poiché viene spinto con maggiore intensità a cedere o arretrare. L’uomo, infatti, è spinto ad allontanarsi da ciò che è in accordo con la ragione sia dal piacere che dal dolore; tuttavia, il dolore fisico lo spinge con maggiore forza del piacere stesso. Come afferma Agostino (QQ[83], q. 36): “Non esiste nessuno che non eviti il dolore più di quanto desideri il piacere; infatti anche gli animali più selvaggi vengono dissuasi dai maggiori piaceri dal timore del dolore”. Tra i dolori mentali e i pericoli, quelli che suscitano maggiore paura sono soprattutto quelli che portano alla morte, ed è proprio contro di essi che l’uomo coraggioso si mantiene fermo. Pertanto, la forza d’animo è senz’altro una virtù cardinale.
+
+Risposta all’Obiezione 1: Il coraggio e la rabbia non collaborano con la forza d’animo nell’atto di sopportazione, nell’ambito del quale questa qualità viene soprattutto lodata; infatti è proprio attraverso tale atto che l’uomo valoroso riesce a dominare la paura, che rappresenta una delle passioni principali, come già detto in precedenza (FS, Q[25], A[4]).
+
+Risposta all’Obiezione 2: La virtù è rivolta al bene della ragione, che deve essere protetta dall’assalto del male. La forza d’animo, invece, è rivolta ai mali del corpo, che essa resiste, e al bene della ragione, che costituisce lo scopo da cui essa deriva il proprio significato.
+
+Risposta all’Obiezione 3: Sebbene i pericoli mortali siano rari, le occasioni in cui si presentano sono frequenti; infatti, a causa della giustizia che l’uomo persegue e anche a causa di altre azioni buone, egli incontra avversari mortali.
 
 <span class="atom-split" data-atom="014" data-title="Whether fortitude excels among all other virtues?" data-chapter="Whether fortitude excels among all other virtues?" data-kind="atom" data-srclang="en"></span>
 
@@ -628,6 +820,15 @@ We must now consider martyrdom, under which head there are five points of inquir
 (4) The pain of martyrdom;
 (5) Its cause.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il martirio, e in questo ambito vi sono cinque punti da esaminare:  
+(1) Se il martirio sia un atto di virtù;  
+(2) Di quale virtù si tratti;  
+(3) In merito alla perfezione di questo atto;  
+(4) Il dolore legato al martirio;  
+(5) La sua causa.
+
 <span class="atom-split" data-atom="016" data-title="Whether martyrdom is an act of virtue?" data-chapter="Whether martyrdom is an act of virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that martyrdom is not an act of virtue. For all acts of virtue are voluntary.
@@ -680,6 +881,24 @@ regards the preparation of the mind, so that in such and such a case a man shoul
 reason. And this observation would seem very much to the point in the case of martyrdom, which
 consists in the right endurance of sufferings unjustly inflicted. Nor ought a man to give another an
 occasion of acting unjustly: yet if anyone act unjustly, one ought to endure it in moderation.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il martirio non sia un atto di virtù, poiché tutti gli atti di virtù sono volontari. Ma il martirio a volte non è volontario, come nel caso degli Innocenti uccisi per amore di Cristo; Hillary, nel “Super Matthaei” I, afferma che “essi raggiunsero l’età matura dell’[eternità](/positions/eternity) attraverso la gloria del martirio”. Pertanto, il martirio non è un atto di virtù.
+
+Obiezione 2: Inoltre, nulla di illecito può essere considerato un atto di virtù. Ora, come detto sopra (Q[64], A[5]), uccidersi è un atto illecito; tuttavia il martirio si realizza proprio attraverso questo atto: infatti [Agostino](/figures/augustine) afferma nel “De Civitate Dei” che “durante le persecuzioni, alcune donne sante, per sfuggire a coloro che minacciavano la loro castità, si gettarono in un fiume e così misero fine alla propria vita; il loro martirio è onorato nella Chiesa Cattolica con la massima venerazione”. Pertanto, il martirio non può essere considerato un atto di virtù.
+
+Obiezione 3: Inoltre, è lodevole offrirsi volontariamente per compiere un atto di virtù. Ma non lo è cercare deliberatamente la morte in martirio; anzi, sembrerebbe piuttosto presuntuoso e imprudente. Pertanto, il martirio non costituisce un atto di virtù.
+
+Al contrario, la ricompensa della [beatazza](/positions/beatitude) è dovuta esclusivamente agli atti di virtù. Ora, essa è dovuta anche al martirio, poiché è scritto (Matteo 5:10): “Beati coloro che soffrono per la giustizia, perché a loro appartiene il regno dei cieli”. Pertanto, il martirio è un atto di virtù.
+
+Rispondo che, come già detto sopra (Q[123], AA[1],3), appartiene alla virtù proteggere l’uomo nel perseguimento del bene della ragione. Ora, il bene della ragione consiste nella verità come suo oggetto proprio e nella giustizia come suo effetto naturale, come dimostrato in precedenza (Q[109], AA[1],2; Q[123], A[12]). Il martirio, invece, consiste essenzialmente nel rimanere fermamente fedeli alla verità e alla giustizia di fronte alle persecuzioni. Pertanto, è evidente che il martirio rappresenti un atto di virtù.
+
+Risposta all’Obiezione 1: Alcuni hanno affermato che, nel caso dei Bambini Innocenti, l’esercizio della loro volontà fosse miracolosamente accelerato, tanto da far sì che soffrissero il martirio anche di propria volontà. Tuttavia, poiché la [Scrittura](/concepts/revelation) non contiene alcuna prova a sostegno di questa tesi, è più corretto dire che questi bambini, uccisi per grazia di Dio, ottennero la gloria del martirio in modo simile a quanto altri possano ottenerla attraverso la propria volontà. Infatti, versare il proprio sangue per Cristo ha lo stesso significato del Battesimo. Pertanto, così come nel caso dei bambini battezzati il merito di Cristo contribuisce all’acquisizione della gloria grazie alla grazia battesimale, allo stesso modo coloro che furono uccisi per Cristo ottennero la palma del martire attraverso il merito del suo martirio. Per questo motivo Agostino, in un sermone sull’Epifania (De Diversis lxvi), dice, come se si rivolgesse a loro: “Chi non crede che i bambini traggano beneficio dal battesimo di Cristo dubiterà anche del fatto che voi foste incoronati nel soffrire per Cristo. Non eravate abbastanza grandi da credere nelle future sofferenze di Cristo, ma avevate un corpo attraverso il quale poteste sopportare le sue sofferenze”.
+
+Risposta all’Obiezione 2: Agostino afferma (De Civ. Dei i) che “è possibile che la Chiesa sia stata indotta da certi testimoni credibili dell’autorità divina ad onorare la memoria di quelle sante donne [*Cfr. Q[64], A[1], ad 2.*].
+
+Risposta all’Obiezione 3: I precetti della Legge riguardano gli atti di virtù. È stato infatti affermato (FS, Q[108], A[1], ad 4) che alcuni dei precetti della [Legge Divina](/concepts/divine_law) devono essere intesi in relazione alla preparazione dell’animo, nel senso che l’uomo dovrebbe essere pronto a compiere determinati atti ogni volta che ciò sia opportuno. Allo stesso modo, alcune cose fanno parte di un atto di virtù per quanto riguarda la preparazione dell’animo; quindi, in determinate circostanze, l’uomo dovrebbe agire secondo la ragione. Questo ragionamento sembra particolarmente pertinente nel caso del martirio, che consiste nella sopportazione corretta di sofferenze inflitte ingiustamente. Inoltre, nessuno dovrebbe fornire a un altro l’occasione di agire in modo ingiusto; tuttavia, se qualcuno agisce ingiustamente, si dovrebbe sopportare tale comportamento con moderazione.
 
 <span class="atom-split" data-atom="017" data-title="Whether martyrdom is an act of fortitude?" data-chapter="Whether martyrdom is an act of fortitude?" data-kind="atom" data-srclang="en"></span>
 
@@ -738,6 +957,24 @@ to this and not to its secondary act, which is aggression, martyrdom belongs. An
 serves fortitude on the part of its chief act, viz. endurance, hence it is that martyrs are also praised
 for their patience.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il martirio non sia un atto di forza d’animo. Infatti, la parola greca “martire” indica una persona che testimonia; ora, il testimone rende testimonianza della fede di Cristo, come si legge in Atti 1:8: “Voi sarete miei testimoni”, ecc. E Massimo, in un sermone, afferma: “La madre dei martiri è la fede cattolica, che quei gloriosi guerrieri hanno sigillato con il loro sangue”. Pertanto, il martirio è un atto di fede piuttosto che di forza d’animo.
+
+Obiezione 2: Inoltre, un atto lodevole appartiene principalmente alla virtù che lo spinge a compiersi, viene manifestato attraverso di esso e, senza di essa, tale atto non ha alcun valore. Ora, la carità è il principale stimolo al martirio: così dice Massimo in un sermone: “La carità di Cristo trionfa nei suoi martiri”. Ancora, la più grande prova della carità risiede nell’atto del martirio, secondo Giovanni 15:13: “Nessuno ha un amore maggiore di questo: che uno dia la propria vita per i propri amici”. Inoltre, senza carità il martirio non ha alcun significato, secondo 1 Corinzi 13:3: “Anche se dovessi offrire il mio corpo al rogo, senza carità tutto ciò non mi sarebbe di alcuna utilità”. Pertanto, il martirio è un atto di carità, piuttosto che di forza d’animo.
+
+Obiezione 3: Inoltre, [Agostino](/figures/augustine) afferma in un sermone su San Cipriano: “È facile onorare un martire cantando le sue lodi, ma è davvero grande imitare la sua fede e la sua pazienza”. Ciò che merita soprattutto lode in un atto virtuoso è proprio la virtù stessa di cui quell’atto è espressione. Pertanto, il martirio è un atto di pazienza, piuttosto che di forza d’animo.
+
+Al contrario, Cipriano afferma (Epistola ad Martirum et Confessione ii): “Beati martiri, con quale lode dovrei esaltarvi? Valorosi guerrieri, come posso trovare le parole giuste per celebrare la forza del vostro coraggio?” Infatti, una persona viene lodata in base alla virtù che manifesta attraverso i propri atti. Pertanto, il martirio è un atto di forza d’animo.
+
+Rispondo che, come già detto sopra (Q[123], A[1], ecc.), appartiene alla virtù della forza il rafforzare l’uomo nel perseguimento del bene, soprattutto di fronte ai pericoli, e in particolare a quelli legati alla morte, soprattutto a quelli che si verificano in battaglia. Ora è evidente che nel martirio l’uomo viene effettivamente rafforzato nel perseguimento del bene, poiché rimane fedele alla fede e alla giustizia nonostante il pericolo mortale che lo minaccia; tale pericolo, inoltre, è dovuto a una sorta di conflitto diretto con i suoi persecutori. Per questo motivo Cipriano dice in un sermone: “La folla dei testimoni rimase stupita nel vedere una battaglia straordinaria: i servitori di Cristo combattevano con coraggio, senza paura, con animi immobili e con forza divina”. È quindi evidente che il martirio è un atto di forza; per questa ragione la Chiesa legge nell’ufficio dei Martiri: “Diventarono valorosi in battaglia” (*Ebrei 11:34*).
+
+Risposta all’Obiezione 1: Nell’atto di virtù eroica bisogna considerare due elementi. Il primo è il bene per cui l’uomo coraggioso si impegna, ed è proprio questo il fine ultimo della virtù eroica; il secondo è la fermezza stessa, che permette all’uomo di non cedere di fronte a quelle ostacoli che gli impediscono di realizzare quel bene, e in questa consiste l’essenza vera della virtù eroica. Proprio come la virtù civile rafforza lo spirito umano nella giustizia terrena, per la cui difesa l’uomo affronta il pericolo della morte, così la virtù eroica gratuita rafforza l’anima nell’ambito della giustizia divina, che consiste “nella fede in Cristo Gesù”, secondo Romani 3:22. Pertanto, il martirio è legato alla fede come al fine ultimo attraverso cui si realizza la forza interiore dell’anima, ma alla virtù eroica come all’atto che suscita tale forza.
+
+Risposta all’Obiezione 2: La carità spinge alla pratica del martirio, poiché essa ne è la motivazione principale e primaria, essendo la virtù che la prescrive; mentre la forza d’animo vi spinge in quanto ne è la motivazione propria, essendo la virtù che la suscita. Pertanto, il martirio è un atto di carità nel senso della sua natura prescrittiva, e di forza d’animo nel senso della sua funzione suscitatrice. Per questa stessa ragione, il martirio manifesta entrambe queste virtù: è grazie alla carità che tale atto risulta meritevole, come qualsiasi altro atto di virtù; e per questo motivo non può essere compiuto senza la carità.
+
+Risposta all’Obiezione 3: Come già detto sopra (Q[123], A[6]), l’atto principale della forza d’animo è la resistenza; è a questo atto, e non al suo atto secondario che è l’aggressione, che appartiene il martirio. Poiché la pazienza sostiene la forza d’animo nel suo atto principale, ovvero nella resistenza, è per questa ragione che anche i martiri vengono lodati per la loro pazienza.
+
 <span class="atom-split" data-atom="018" data-title="Whether martyrdom is an act of the greatest perfection?" data-chapter="Whether martyrdom is an act of the greatest perfection?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that martyrdom is not an act of the greatest perfection. For seemingly
@@ -795,6 +1032,24 @@ Hence it is evident that martyrdom is of itself more perfect than obedience cons
 Reply to Objection 3: This argument considers martyrdom according to the proper species of
 its act, whence it derives no excellence over all other virtuous acts; thus neither is fortitude more
 excellent than all virtues.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il martirio non sia un atto di massima perfezione. Infatti, ciò che riguarda la scelta personale e non un precetto divino sembrerebbe appartenere alla sfera della perfezione, poiché non è necessario per la salvezza. Tuttavia, il martirio sembra essere necessario per la salvezza, poiché l’Apostolo dice (Romani 10:10): “Con il cuore crediamo nella giustizia, ma con la bocca confessiamo la fede per la salvezza”, e è scritto (1 Giovanni 3:16) che “dovremmo dare la vita per i nostri fratelli”. Pertanto, il martirio non appartiene alla sfera della perfezione.
+
+Obiezione 2: Inoltre, sembra indicare una maggiore perfezione il fatto che un uomo doni la propria anima a Dio, cosa che avviene attraverso l’obbedienza, rispetto al fatto che doni il proprio corpo a Dio, cosa che avviene attraverso il martirio; pertanto Gregorio afferma (Moralia, xxxv) che “l’obbedienza è preferibile a tutti i sacrifici”. Quindi il martirio non rappresenta un atto di massima perfezione.
+
+Obiezione 3: Inoltre, sembrerebbe più giusto compiere atti di bene verso gli altri piuttosto che semplicemente preservare il proprio benessere, poiché “il bene della nazione è superiore al bene dell’individuo”, secondo quanto affermato dal Filosofo (Etica, i, 2). Chi subisce il martirio trae beneficio soltanto per sé stesso, mentre chi insegna compie atti di bene verso molti. Pertanto, l’atto di insegnare e guidare gli altri è più nobile dell’atto del martirio.
+
+Al contrario, [Agostino](/figures/augustine) (De Sancta Virginitate, XLVI) preferisce il martirio alla verginità, che rappresenta la perfezione. Pertanto, il martirio sembra appartenere al grado più alto di perfezione.
+
+Rispondo che un atto di virtù può essere considerato in due modi. Primo, in relazione al genere stesso di quell’atto, rispetto alla virtù che lo induce direttamente. In questo senso, il martirio – che consiste nella sopportazione coraggiosa della morte – non può essere considerato l’atto di virtù più perfetto, poiché la sopportazione della morte in sé non è degna di lode, ma solo nel momento in cui è diretta verso un bene legato a una qualche azione virtuosa, come la fede o l’amore di Dio; è proprio questo scopo virtuoso che rende tale atto meritevole di apprezzamento. Un atto di virtù può essere considerato anche in relazione alla sua causa motrice primaria, ovvero all’amore della carità; ed è in questo senso che un atto può essere ritenuto parte integrante della perfezione della vita, poiché, come afferma l’Apostolo (Colossesi 3:14), “la carità è il legame della perfezione”. Tra tutti gli atti di virtù, il martirio rappresenta la più grande dimostrazione della perfezione della carità: infatti, l’amore di un uomo per qualcosa si manifesta in modo ancora più evidente quando ciò che egli disprezza a causa di quella cosa diventa per lui ancora più prezioso, o quando è disposto a soffrire per essa. Ora, è ovvio che tra tutti i beni della vita presente, l’uomo ami soprattutto la vita stessa; d’altra parte, odia la morte più di ogni altra cosa, specialmente quando questa è accompagnata da dolori fisici – “dai quali persino gli animali silenziosi si astengono dai piaceri più grandi”, come osserva Agostino (QQ[83], q. 36). Da questo punto di vista, risulta chiaro che il martirio sia l’atto umano più perfetto in relazione al suo genere, poiché rappresenta il segno della massima carità, secondo quanto detto in Giovanni 15:13: “Nessuno ha un amore maggiore di questo: che uno dia la propria vita per i suoi amici”.
+
+Risposta all’Obiezione 1: Non esiste alcun atto di perfezione che sia semplicemente un consiglio, ma che in alcuni casi costituisca invece un precetto, poiché necessario per la salvezza. Così afferma Agostino (De Adult. Conjug. xiii): un uomo è obbligato a osservare la continenza anche quando sua moglie è assente o malata. Pertanto, non è contrario alla perfezione del martirio il fatto che in alcuni casi esso sia necessario per la salvezza; esistono infatti situazioni in cui soffrire il martirio non è indispensabile per essa. Ne troviamo molti esempi nei santi martiri, i quali, spinti dal zelo per la fede o dall’amore fraterno, si offrirono volontariamente al martirio. Questi precetti vanno intesi come riferiti alla preparazione interiore dell’animo.
+
+Risposta all’Obiezione 2: Il martirio rappresenta il grado più alto di obbedienza possibile, ovvero l’obbedienza fino alla morte; è per questo che leggiamo di Cristo (Filippesi 2:8) che divenne “obbediente fino alla morte”. Ne consegue quindi che il martirio sia, in sé stesso, più perfetto dell’obbedienza considerata in modo assoluto.
+
+Risposta all’Obiezione 3: Questo argomento considera il martirio in base alla sua specifica natura come atto, e da ciò non ne deriva alcuna superiorità rispetto ad altri atti virtuosi; pertanto, nemmeno la forza d’animo è più eccellente di tutte le altre virtù.
 
 <span class="atom-split" data-atom="019" data-title="Whether death is essential to martyrdom?" data-chapter="Whether death is essential to martyrdom?" data-kind="atom" data-srclang="en"></span>
 
@@ -859,6 +1114,28 @@ however, that a man lives for some time after being mortally wounded for Christ'
 suffering for the faith of Christ any other kind of hardship inflicted by persecution and continued
 until death ensues. The act of martyrdom is meritorious while a man is in this state, and at the very
 time that he is suffering these hardships.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la morte non sia essenziale per il martirio. Infatti Gerolamo afferma in un sermone sull’Assunzione (“Epistola a Paolo ed Eustochio”): “Si potrebbe dire con certezza che la Madre di Dio fu sia vergine che martire, anche se trascorse i suoi ultimi giorni in pace”; e Gregorio dice (“Omelia III sull’Evangelo”): “Anche se le persecuzioni non offrono più l’opportunità di soffrire per la fede, la pace che godiamo non è priva di aspetti legati al martirio, poiché anche se non consegniamo più la nostra vita fisica alla spada del nemico, continuiamo comunque a “uccidere” i desideri carnali con la spada dello spirito”. Pertanto, può esistere il martirio senza che si subisca la morte.
+
+Obiezione 2: Inoltre, leggiamo di alcune donne che sono state lodate per aver disprezzato la vita al fine di preservare l’integrità del proprio corpo; ciò sembra indicare che l’integrità della castità sia preferibile alla vita stessa. Tuttavia, a volte l’integrità del corpo è stata perduta o minacciata nel corso della confessione della fede cristiana, come nel caso di Agnes e Lucy. Pertanto, sembrerebbe che il titolo di martire debba essere concesso a una donna che sacrifica l’integrità del proprio corpo per la fede di Cristo, piuttosto che se dovesse perdere anche la vita stessa; infatti, Lucy disse: “Se mi costringerai ad essere violata contro la mia volontà, la mia castità mi guadagnerà una doppia corona”.
+
+Obiezione 3: Inoltre, il martirio è un atto di forza d’animo. Ma appartenere alla categoria della forza d’animo significa affrontare non solo la morte ma anche altre sofferenze, come afferma [Agostino](/figures/augustine) (Musica, VI). Esistono molte altre forme di sofferenza, oltre alla morte, che si possono subire per la fede in Cristo: prigionia, esilio, privazione dei propri beni, come menzionato in Eb 10:34. Per questo motivo celebriamo il martirio di Papa San Marcello, nonostante sia morto in prigione. Pertanto, non è essenziale per il martirio subire la sofferenza della morte stessa.
+
+Obiezione 4: Inoltre, il martirio è un atto meritevole, come già detto sopra (A[2], ad 1; A[3]). Ora, non può essere considerato un atto meritevole dopo la morte; pertanto deve esserlo prima della morte. Di conseguenza, la morte non è essenziale per il martirio.
+
+Al contrario, Massimo afferma in un sermone sui martiri che “morendo per la fede, egli sconfigge coloro che sarebbero stati sconfitti vivendo senza fede”.
+
+Rispondo che, come detto sopra (A[2]), un martire è chiamato tale perché testimonia della fede cristiana, la quale ci insegna a disprezzare le cose visibili per amore di quelle invisibili, come si legge in Eb 11. Pertanto, il martirio consiste nel testimoniare questa fede con i fatti, dimostrando di disprezzare tutte le cose terrene al fine di ottenere beni invisibili futuri. Finché un uomo mantiene la vita del corpo, non dimostra con i fatti di disprezzare tutto ciò che riguarda il corpo stesso; infatti gli uomini sono soliti disprezzare i propri parenti e tutte le cose che possiedono, e persino sopportare dolori fisici piuttosto che perdere la vita. Per questo motivo Satana testimoniò contro Giobbe (Giob 2:4): “Pelle per pelle, e tutto ciò che un uomo ha lo darà per la sua anima”, cioè per la vita del suo corpo. Pertanto, il concetto perfetto di martirio richiede che un uomo soffra la morte per amore di Cristo.
+
+Risposta all’Obiezione 1: Le autorità citate, e simili, utilizzano metafore per parlare di martirio.
+
+Risposta all’Obiezione 2: Quando una donna perde l’integrità del proprio corpo, o viene condannata a perderla in nome della fede cristiana, non è evidente agli uomini se soffra per amore della fede cristiana, o piuttosto per disprezzo verso la castità. Pertanto, agli occhi degli uomini, il suo comportamento non viene considerato sufficiente come prova di martirio. Tuttavia, davanti a Dio, che esamina i cuori, questo può essere ritenuto degno di ricompensa, proprio come disse Lucia.
+
+Risposta all’Obiezione 3: Come già detto sopra (Q[123], AA[4],5), la forza d’animo riguarda principalmente il pericolo di morte e, di conseguenza, anche altri tipi di pericoli; pertanto, una persona non viene definita martire solo perché subisce prigione, esilio o perdita dei propri beni, se non nel caso in cui tali eventi portino alla morte.
+
+Risposta all’Obiezione 4: Il merito del martirio non risiede dopo la morte, ma nella sopportazione volontaria della morte stessa, cioè nel fatto che una persona subisce volontariamente la condanna a morte. Tuttavia, capita talvolta che un uomo viva per un certo periodo di tempo dopo essere stato gravemente ferito a causa di Cristo, o dopo aver sopportato altre forme di sofferenza dovute alle persecuzioni legate alla fede in Cristo, fino al momento della sua morte. L’atto del martirio è quindi meritevole proprio nel momento in cui la persona subisce tali sofferenze.
 
 <span class="atom-split" data-atom="020" data-title="Whether faith alone is the cause of martyrdom?" data-chapter="Whether faith alone is the cause of martyrdom?" data-kind="atom" data-srclang="en"></span>
 
@@ -930,6 +1207,32 @@ Under the first head there are four points of inquiry:
 (3) Whether it is a mortal sin?
 (4) Whether it excuses from sin, or diminishes it?
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che solo la fede sia la causa del martirio. Infatti è scritto (1 Pietro 4:15,16):  
+“Nessuno di voi soffra come assassino, ladro, calunniatore o desideroso delle cose altrui; ma se lo fa in qualità di cristiano, non si vergogni, bensì glorifichi Dio in questo nome”. Si dice che un uomo sia cristiano perché possiede la fede di Cristo. Pertanto, solo la fede in Cristo conferisce la gloria del martirio a coloro che soffrono.
+
+Obiezione 2: Inoltre, un martire è un tipo di testimone. Ma il testimone depone soltanto sulla verità. Ora, nessuno viene chiamato martire per aver testimoniato su una qualsiasi verità, ma solo per aver testimoniato sulla Verità Divina; altrimenti, un uomo sarebbe considerato un martire se morisse per aver confessato una verità della geometria o di qualche altra scienza speculativa, il che sembrerebbe assurdo. Pertanto, è soltanto la fede a costituire la causa del martirio.
+
+Obiezione 3: Inoltre, sembrerebbero essere i più importanti quegli atti virtuosi che sono diretti al bene comune, poiché “il bene della nazione è superiore al bene dell’individuo”, secondo il Filosofo (Etica, I, 2). Se quindi qualche altro bene fosse la causa del martirio, sembrerebbe che i primi a morire come martiri fossero coloro che muoiono per la difesa della loro patria. Tuttavia, ciò non è in accordo con le pratiche della Chiesa, poiché non celebriamo il martirio di coloro che muoiono in una guerra giusta. Pertanto, solo la fede può essere considerata la causa del martirio.
+
+Al contrario, è scritto (Matteo 5:10): “Beati coloro che soffrono per causa della giustizia”, il che, secondo un commento e anche il commento di Gerolamo su questo passaggio, si riferisce al martirio. Ora, non solo la fede ma anche le altre virtù appartengono alla giustizia; pertanto, anche queste altre virtù possono essere la causa del martirio.
+
+Rispondo che, come già detto sopra (A[4]), i martiri vengono chiamati così perché sono testimoni: soffrendo fisicamente fino alla morte, essi testimoniano la verità; non certo qualsiasi verità, ma quella che è in accordo con la pietà e che ci è stata rivelata da Cristo. Pertanto, i martiri di Cristo sono i suoi testimoni. Questa verità è appunto la verità della fede; quindi, la causa di ogni martirio è la verità della fede.  
+Ma la verità della fede non include soltanto la credenza interiore, ma anche la sua manifestazione esterna: non solo attraverso le parole con cui si confessa la fede, ma anche attraverso le azioni con cui si dimostra di possederla, secondo quanto affermato in Giacomo 2:18: “Ti mostrerò con le mie opere la mia fede”. Per questo motivo, di alcune persone si dice (Tito 1:16): “Si professano conoscitori di Dio, ma nelle loro azioni Lo negano”. Pertanto, tutte le azioni virtuose, in quanto rivolte a Dio, sono manifestazioni della fede; attraverso di esse comprendiamo che Dio richiede queste azioni da noi e ci ricompensa per esse; ed è proprio in questo modo che possono diventare motivo di martirio. Per questa ragione, la Chiesa celebra il martirio del beato Giovanni Battista, che morì non perché si fosse rifiutato di negare la fede, ma perché aveva denunciato l’adulterio.
+
+Risposta all’Obiezione 1: Un cristiano è colui che appartiene a Cristo. Ora, si dice che una persona appartenga a Cristo non solo perché crede in Lui, ma anche perché è spinta ad compiere atti virtuosi dallo Spirito di Cristo, come recita Romani 8:9: “Se qualcuno non ha lo Spirito di Cristo, non è di Lui”; inoltre, imitando Cristo, tale persona diventa “morta” ai peccati, secondo Galati 5:24: “Coloro che appartengono a Cristo hanno crocifisso la loro carne insieme ai vizi e alle concupiscenze”. Pertanto, soffrire come cristiano significa non solo soffrire in segno di confessione della fede – cosa che avviene attraverso le parole – ma anche soffrire per compiere opere buone o per evitare peccati, a nome di Cristo; tutto ciò rientra infatti nell’ambito del testimoniare la fede.
+
+Risposta all’Obiezione 2: La verità delle altre scienze non ha alcuna connessione con l’[adorazione](/concepts/religion) della Divinità; pertanto non viene definita “verità secondo la pietà”, e di conseguenza la sua affermazione non può essere considerata la causa diretta del martirio. Tuttavia, poiché ogni menzogna è un peccato, come già detto sopra (Q[110], AA[3],4), evitare una menzogna, per quanto vera possa essere la verità a cui contraddice, può costituire motivo di martirio, poiché una menzogna rappresenta un peccato contro la [Legge Divina](/concepts/divine_law).
+
+Risposta all’Obiezione 3: Il bene del proprio paese è di primaria importanza tra tutti i beni umani; tuttavia il bene divino, che costituisce la vera causa del martirio, ha un valore ancora maggiore rispetto al bene umano. Ciononostante, poiché il bene umano può diventare divino – ad esempio quando viene rivolto a Dio – ne consegue che qualsiasi bene umano, nella misura in cui sia rivolto a Dio, possa costituire motivo di martirio. **SULLA PAURA* (QUATTRO ARTICOLI) [*San Tommaso definisce questo vizio indifferentemente “paura” o “timidezza”. La traduzione richiede l’uso di questi termini in relazione alla passione della paura; altrimenti “viltà” sarebbe una traduzione più appropriata.]*  
+Ora dobbiamo esaminare i vizi opposti alla forza d’animo: (1) la paura; (2) l’audacia; (3) la temerarietà.  
+All’interno della prima categoria vi sono quattro punti da considerare:  
+(1) La paura è un peccato?  
+(2) È opposta alla forza d’animo?  
+(3) È un peccato mortale?  
+(4) Scusa il peccato, o lo attenua?
+
 <span class="atom-split" data-atom="021" data-title="Whether fear is a sin?" data-chapter="Whether fear is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that fear is not a sin. For fear is a passion, as stated above (FS, Q[23],
@@ -972,6 +1275,24 @@ namely that servants should fear lest they be lacking in the service they owe th
 
 Reply to Objection 3: Reason dictates that we should shun the evils that we cannot withstand,
 and the endurance of which profits us nothing. Hence there is no sin in fearing them.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la paura non sia un peccato. Infatti, la paura è una passione, come detto sopra (FS, Q[23], A[4]; Q[42]). Ora, per le passioni non veniamo né lodati né rimproverati, come affermato nell’Etica ii. Poiché quindi ogni peccato è degno di rimprovero, sembra che la paura non sia un peccato.
+
+Obiezione 2: Inoltre, nulla di ciò che è comandato nella [Legge Divina](/concepts/divine_law) costituisce un peccato; poiché “la legge del Signore è senza macchia” (Salmo 18:8). Eppure, nella legge di Dio viene comandata la paura, poiché si legge (Efesini 6:5): “Servitori, sottomettetevi con timore e tremore a coloro che sono i vostri padroni secondo la carne”. Pertanto, la paura non è un peccato.
+
+Obiezione 3: Inoltre, nulla di ciò che è naturale nell’uomo può essere considerato un peccato, poiché il peccato è contrario alla natura, secondo Damasceno (De Fide Orth. iii). Ora, la paura è qualcosa di naturale nell’uomo; pertanto il Filosofo afferma (Etica, III, 7) che “un uomo sarebbe pazzo o insensibile al dolore, se nulla – nemmeno terremoti o inondazioni – potesse suscitare in lui la paura”. Quindi, la paura non è un peccato.
+
+Al contrario, il nostro Signore disse (Matteo 10:28): “Non temete coloro che uccidono il corpo”, e è scritto (Ezechiele 2:6): “Non temete, né vi spaventate delle loro parole”.
+
+Rispondo che un atto umano viene considerato peccato perché è disordinato; infatti, il bene di un atto umano consiste nell’ordine, come già detto sopra (Q[109], A[2]; Q[114], A[1]). Ora, questo ordine richiede che il desiderio sia sottomesso al dominio della ragione. La ragione infatti prescrive di evitare alcune cose e di cercarne altre; tra queste ultime, alcune devono essere ricercate più di altre, e allo stesso modo, tra quelle da evitare, alcune meritano un rifiuto ancora maggiore. Inoltre, più un bene è degno di essere perseguito, più il suo opposto, cioè il male, deve essere evitato. Di conseguenza, quando il desiderio si allontana da ciò che la ragione ordina di cercare e si avvicina a ciò che essa prescrive di evitare, tale comportamento è disordinato e peccaminoso. D’altra parte, quando il desiderio teme e quindi evita ciò che la ragione richiede di evitare, esso non è né disordinato né peccaminoso.
+
+Risposta all’Obiezione 1: Il termine “paura”, nel suo significato generico, indica semplicemente l’atto di evitare qualcosa. Pertanto, in questo senso, non include il concetto di bene o male; lo stesso vale per qualsiasi altra passione. Per questo motivo, il Filosofo afferma che le passioni non meritino né lode né biasimo, poiché non lodiamo né biasimiamo coloro che sono arrabbiati o spaventati, ma soltanto coloro che si comportano in modo ordinato o disordinato.
+
+Risposta all’Obiezione 2: La paura che l’Apostolo incita è conforme alla ragione, ovvero che i servitori debbano temere di non adempiere ai doveri che hanno nei confronti dei loro padroni.
+
+Risposta all’Obiezione 3: La ragione ci impone di evitare i mali che non possiamo sopportare e la cui tolleranza non ci porta alcun beneficio. Pertanto, non c’è alcun peccato nel temerli.
 
 <span class="atom-split" data-atom="022" data-title="Whether the sin of fear is contrary to fortitude?" data-chapter="Whether the sin of fear is contrary to fortitude?" data-kind="atom" data-srclang="en"></span>
 
@@ -1026,6 +1347,24 @@ kind. Now the despair that is opposed to hope is referred to another kind, namel
 whereas the fear that is opposed to fortitude regards dangers of death. Hence the argument does
 not prove.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il peccato della paura non sia contrario alla forza d’animo: poiché la forza d’animo riguarda proprio i pericoli di morte, come detto sopra (Q[123], AA[4],5). Tuttavia, il peccato della paura non è sempre legato ai pericoli di morte; un commento al Salmo 127:1, “Beati tutti quelli che temono il Signore”, afferma che “è la paura umana quella che ci spinge ad evitare i pericoli fisici o la perdita dei beni terreni”. Un altro commento a Matteo 27:44, “Pregò per la terza volta, dicendo le stesse parole”, sostiene che “esistono tre tipi di paura: la paura della morte, la paura del dolore e la paura dell’umiliazione”. Pertanto, il peccato della paura non è contrario alla forza d’animo.
+
+Obiezione 2: Inoltre, il motivo principale per cui un uomo viene lodato per la sua forza d’animo è proprio perché si espone al pericolo della morte. Tuttavia, a volte un uomo si espone alla morte per paura di diventare schiavo o per timore del disonore. Così, come racconta [Agostino](/figures/augustine) nel “De Civitate Dei” I, Catone, per non diventare schiavo di Cesare, si consegnò volontariamente alla morte. Pertanto, il peccato della paura presenta alcune somiglianze con la forza d’animo, piuttosto che essere in contraddizione con essa.
+
+Obiezione 3: Inoltre, ogni disperazione deriva dalla paura. Ma la disperazione non è contrapposta alla forza d’animo, bensì alla speranza, come già detto sopra (Q[20], A[1]; FS, Q[40], A[4]). Pertanto, nemmeno il peccato della paura è contrapposto alla forza d’animo.
+
+Al contrario, il Filosofo (Etica, ii, 7; iii, 7) afferma che la timidezza è opposta alla forza d’animo.
+
+Rispondo che, come già detto sopra (Q[19], A[3]; FS, Q[43], A[1]), ogni paura deriva dall’amore; infatti nessuno teme ciò che è contrario a ciò che ama. Ora, l’amore non si limita a un particolare tipo di virtù o vizio: l’amore ordinato è presente in ogni virtù, poiché ogni uomo virtuoso ama ciò che è proprio della sua virtù; mentre l’amore disordinato è presente in ogni peccato, poiché porta alla nascita di desideri eccessivi. Pertanto, allo stesso modo, la paura disordinata è presente in ogni peccato: l’uomo avaro teme la perdita del denaro, l’uomo intemperante teme la perdita dei piaceri, e così via. Ma la paura più grande di tutte è quella che ha come oggetto il pericolo di morte, come dimostrato nell’Etica, III, 6. Per questo motivo, la disordinata natura di questa paura si oppone alla forza d’animo, che affronta con coraggio i pericoli della morte. Per tale ragione, la timidezza viene considerata, in senso antonomastico*, l’opposto della forza d’animo. [*L’antonomasia è una figura retorica mediante cui si sostituisce il termine individuale con quello generale; ad esempio: “il Filosofo” al posto di “Aristotele”. Così, la timidezza, che rappresenta una paura disordinata di qualsiasi male, viene utilizzata per indicare la paura eccessiva del pericolo di morte.]*
+
+Risposta all’Obiezione 1: I passaggi citati si riferiscono alla paura eccessiva nel suo significato generico, che può essere contrapposta a diverse virtù.
+
+Risposta all’Obiezione 2: Gli atti umani vengono valutati principalmente in relazione al loro fine, come già detto sopra (FS, Q[1], A[3]; FS, Q[18], A[6]): infatti spetta a un uomo coraggioso esporsi al pericolo di morte per il bene. Ma colui che si esponga al pericolo di morte soltanto per sfuggire alla schiavitù o alle difficoltà è dominato dalla paura, il quale sentimento è contrario alla forza d’animo. Pertanto il Filosofo afferma (Etica, iii, 7) che “morire per evitare povertà, desideri o altre cose sgradevoli non è un atto di forza d’animo, ma di codardia: infatti evitare le difficoltà è segno di debolezza”.
+
+Risposta all’Obiezione 3: Come già detto sopra (FS, Q[45], A[2]), la paura è l’inizio della disperazione, proprio come la speranza è l’inizio del coraggio. Pertanto, così come il coraggio che impiega il coraggio in misura moderata presuppone la speranza, allo stesso modo la disperazione deriva da un certo tipo di paura. Tuttavia, ciò non significa che qualsiasi tipo di disperazione derivi da qualsiasi tipo di paura, ma soltanto da una paura dello stesso genere. Ora, la disperazione che si oppone alla speranza riguarda un altro tipo di cose, ovvero le realtà divine; mentre la paura che si oppone al coraggio riguarda i pericoli legati alla morte. Pertanto, l’argomentazione non è convincente.
+
 <span class="atom-split" data-atom="023" data-title="Whether fear is a mortal sin?" data-chapter="Whether fear is a mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that fear is not a mortal sin. For, as stated above (FS, Q[23], A[1]), fear
@@ -1071,6 +1410,24 @@ Reply to Objection 3: This gloss speaks of the fear that turns man aside from a 
 necessary, not for the fulfilment of a precept, but for the perfection of a counsel. Such like fear is
 not a mortal sin, but is sometimes venial: and sometimes it is not a sin, for instance when one has
 a reasonable cause for fear.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la paura non sia un peccato mortale. Infatti, come detto sopra (FS, Q[23], A[1]), la paura appartiene alla facoltà irascibile, che è parte della sensibilità. Ora, nella sensibilità esistono soltanto peccati veniali, come affermato anch’esso sopra (FS, Q[74], A[4]). Pertanto, la paura non è un peccato mortale.
+
+Obiezione 2: Inoltre, ogni peccato mortale allontana completamente il cuore da Dio. Ma la paura non fa lo stesso, poiché un commento su Giudici 7:3 afferma che “un uomo prova paura quando trema solo al pensiero di uno scontro; tuttavia non è così completamente terrorizzato nel suo cuore da non riuscire a riprendersi e a trovare il coraggio”. Pertanto, la paura non è un peccato mortale.
+
+Obiezione 3: Inoltre, il peccato mortale rappresenta non solo una deviazione dalla perfezione, ma anche un’infrazione di un precetto. Tuttavia, la paura non induce alcuna infrazione di precetti, ma soltanto della perfezione; come afferma un commento su Deuteronomio 20:8: “Chi è dunque quel timido e debole di cuore? Da ciò si deduce che nessuno può intraprendere la via della contemplazione o della lotta spirituale se teme di perdere le ricchezze terrene”. Pertanto, la paura non costituisce un peccato mortale.
+
+Al contrario, è soltanto il peccato mortale a meritare il dolore dell’inferno; eppure questo castigo spetta proprio ai timidi, secondo l’Apocalisse 21:8: “Ma i timidi, gli increduli e gli abominevoli riceveranno la loro parte nel lago che arde di fuoco e zolfo, che è la seconda morte”. Pertanto, il timore stesso rappresenta un peccato mortale.
+
+Rispondo che, come già detto sopra (A[1]), la paura è un peccato in quanto eccessiva, cioè perché si evita ciò che secondo la ragione non dovrebbe essere evitato. A volte tale eccesso della paura si limita agli appetiti sensibili, senza coinvolgere il consenso dell’appetito razionale; in tal caso non può trattarsi di un peccato mortale, ma solo veniale. Tuttavia, altre volte questo eccesso della paura riguarda anche l’appetito razionale, ovvero la volontà, che deliberatamente evita qualcosa contro il dettato della ragione; in questi casi, tale paura può essere sia mortale che veniale. Infatti, se una persona, per paura del pericolo di morte o di qualche altro male temporale, si comporta in modo da compiere ciò che è proibito o trascurare ciò che è comandato dalla [Legge divina](/concepts/divine_law), allora tale paura è un peccato mortale; altrimenti, è un peccato veniale.
+
+Risposta all’Obiezione 1: Questo argomento considera la paura come qualcosa che riguarda esclusivamente il mondo sensoriale.
+
+Risposta all’Obiezione 2: Questo commento può anche essere inteso come riferito al timore che è confinato nell’ambito della sensibilità. O ancora meglio, si potrebbe affermare che un uomo venga terrorizzato nel profondo del suo cuore quando il terrore annienta del tutto il suo coraggio, rendendolo impossibile da recuperare. Anche quando il timore rappresenta un peccato mortale, può comunque accadere che una persona non sia così completamente sopraffatta dal terrore da non poter essere persuasa a metterlo da parte; così, a volte, un uomo commette un peccato mortale acconsentendo alla concupiscenza e viene quindi trattenuto dal compiere ciò che aveva intenzione di fare.
+
+Risposta all’Obiezione 3: Questo commento si riferisce al timore che spinge l’uomo a deviare da un bene necessario, non per il rispetto di un precetto, ma per la realizzazione di un fine più elevato. Un tale timore non costituisce un peccato mortale, ma talvolta è veniale; in altri casi, non è nemmeno considerato un peccato, soprattutto quando vi sono motivi ragionevoli per temere.
 
 <span class="atom-split" data-atom="024" data-title="Whether fear excuses from sin?" data-chapter="Whether fear excuses from sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -1129,6 +1486,12 @@ We must now consider the vice of fearlessness: under which head there are two po
 (1) Whether it is a sin to be fearless?
 (2) Whether it is opposed to fortitude?
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora esaminare il vizio dell’indifferenza al pericolo: in questo ambito vi sono due aspetti da considerare:
+(1) Se sia un peccato essere indifferenti al pericolo;
+(2) Se tale atteggiamento sia contrario alla virtù della forza d’animo.
+
 <span class="atom-split" data-atom="026" data-title="Whether fearlessness is a sin?" data-chapter="Whether fearlessness is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that fearlessness is not a sin. For that which is reckoned to the praise of
@@ -1186,6 +1549,24 @@ serving God, and on the same score they are not to be feared; wherefore it is wr
 so far as they are helping us instrumentally to attain those things that pertain to Divine fear and
 love.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’indomabilità non sia un peccato. Infatti, ciò che viene considerato una virtù di un uomo giusto non può essere considerato un peccato. Ebbene, è scritto a lode dell’uomo giusto (Proverbi 28:1): “L’uomo giusto, coraggioso come un leone, non temerà nulla”. Pertanto, non essere spaventati non è considerato un peccato.
+
+Obiezione 2: Inoltre, nulla è più temibile della morte, secondo il Filosofo (Etica, iii, 6). Tuttavia non si dovrebbe temere nemmeno la morte, secondo Matteo 10:28: “Non temete coloro che uccidono il corpo”, ecc.; né nulla di ciò che l’uomo possa infliggere, secondo Isaia 51:12: “Chi sei tu, da dover temere un uomo mortale?”. Pertanto, non è peccato essere senza paura.
+
+Obiezione 3: Inoltre, la paura nasce dall’amore, come detto sopra (Q[125], A[2]). Ora, appartiene alla perfezione della virtù non amare nulla di terreno; poiché, secondo [Agostino](/figures/augustine) (De Civ. Dei xiv), “l’amore di Dio e l’umiltà ci rendono cittadini della città celeste”. Pertanto, sembrerebbe che non sia un peccato non temere nulla di terreno.
+
+Al contrario, si dice del giudice ingiusto (Lc. 18:2) che “non temeva Dio né rispettava l’uomo”.
+
+Rispondo che, poiché la paura nasce dall’amore, dobbiamo apparentemente giudicare allo stesso modo sia l’amore che la paura. Qui si tratta della paura che spinge una persona a temere i mali temporali, e che deriva dall’amore per i beni materiali. Ogni uomo, per natura, ama la propria vita e tutto ciò che vi contribuisce; e lo fa in misura moderata, cioè non considerando tali cose come lo scopo finale della sua esistenza, ma come strumenti utili per raggiungere il proprio fine ultimo. Pertanto, è contrario alla natura umana non amarle nella giusta misura; tale comportamento costituisce quindi un peccato. Tuttavia, nessuno cade mai completamente in questa negligenza: ciò che è naturale non può essere del tutto perduto. Per questo motivo l’Apostolo dice (Efesini 5:29): “Nessuno odia mai la propria carne”. Anche coloro che si suicidano lo fanno per amore della propria vita, desiderando liberarla dalle sofferenze presenti. Può quindi accadere che una persona tema meno la morte e altri mali temporali di quanto dovrebbe, perché li ama in modo insufficiente. Ma il fatto che non tema alcuno di questi mali non deriva necessariamente da una totale assenza di amore, bensì dal convincimento che tali sofferenze siano impossibili per lei. A volte ciò accade a causa dell’orgoglio o del disprezzo per gli altri, come si legge in Giobbe 41:24-25: “Colui che non temeva nessuno, ora teme ogni cosa”. Altre volte, il motivo è una mancanza di ragionevolezza; come afferma il Filosofo nell’Etica (III, 7): “I Celti, per la loro ignoranza, non temono nulla”. È quindi evidente che l’indifferenza verso i mali temporali rappresenta un vizio, sia che derivi dalla mancanza di amore, dall’orgoglio o da una scarsa capacità di comprendere la realtà. Tuttavia, questa indifferenza non è considerata un peccato se è davvero insuperabile.
+
+Risposta all’Obiezione 1: L’uomo giusto viene lodato per la sua mancanza di paura che lo allontana dal bene; non perché sia del tutto privo di timore, poiché è scritto (Ecclesiaste 1:28): “Colui che è senza paura non può essere giustificato”.
+
+Risposta all’Obiezione 2: La morte e qualsiasi altra cosa possa essere inflitta dall’uomo mortale non devono essere temute al punto di farci abbandonare la giustizia; ma devono essere considerate come ostacoli agli atti di virtù, sia per quanto riguarda l’individuo stesso, che per quanto riguarda il [progresso](/positions/progress) che può promuovere negli altri. Ecco perché si legge (Proverbi 14:16): “Il saggio teme il male e lo evita”.
+
+Risposta all’Obiezione 3: I beni temporali devono essere disprezzati poiché ci ostacolano nell’amare e nel servire Dio; allo stesso modo, non vanno nemmeno temuti. Per questo si legge (Ecclesiaste 34:16): “Chi teme il Signore non temerà nulla”. Tuttavia, i beni temporali non devono essere disprezzati nella misura in cui ci aiutano, in modo strumentale, ad ottenere quelle cose che riguardano la vera paura di Dio e l’amore per Lui.
+
 <span class="atom-split" data-atom="027" data-title="Whether fearlessness is opposed to fortitude?" data-chapter="Whether fearlessness is opposed to fortitude?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that fearlessness is not opposed to fortitude. For we judge of habits by
@@ -1221,11 +1602,35 @@ Reply to Objection 3: The vice of daring is opposed to fortitude by excess of da
 fearlessness by deficiency of fear. Fortitude imposes the mean on each passion. Hence there is
 nothing unreasonable in its having different extremes in different respects.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’indomabilità non sia in contraddizione con la forza d’animo. Infatti giudichiamo le abitudini in base ai loro atti, e nessun atto di forza d’animo viene ostacolato dall’essere indomabili: poiché, se la paura scompare, una persona diventa sia coraggiosa nel sopportare le difficoltà che audace nell’attaccare. Pertanto, l’indomabilità non è in contraddizione con la forza d’animo.
+
+Obiezione 2: Inoltre, l’audacia è un vizio, sia a causa della mancanza di un amore adeguato, sia per via dell’orgoglio, sia per la follia. Ora, la mancanza di un amore adeguato è contraria alla carità, l’orgoglio è opposto all’umiltà, e la follia alla prudenza o alla saggezza. Pertanto, il vizio dell’audacia non è contrario alla forza d’animo.
+
+Obiezione 3: Inoltre, i vizi sono contrapposti alla virtù e gli estremi al mezzo. Ma un singolo mezzo presenta soltanto un estremo su un lato. Poiché la forza d’animo ha il timore come opposto da un lato e il coraggio dall’altro, sembra che l’indifferenza verso il pericolo non sia considerata un opposto della forza d’animo.
+
+Al contrario, il Filosofo (Etica, III) ritiene che l’indomabilità sia opposta alla forza d’animo.
+
+Rispondo che, come già detto sopra (Q[123], A[3]), la forza d’animo riguarda il timore e il coraggio. Ogni virtù morale osserva infatti la misura razionale in ciò di cui si occupa; pertanto spetta alla forza d’animo che l’uomo moderi il proprio timore secondo la ragione, cioè che tema ciò che deve temere e nel momento in cui deve temerlo. Questo modo di agire può tuttavia essere corrotto sia dall’eccesso che dalla mancanza di timore: così come la codardia si oppone alla forza d’animo per eccesso di paura – quando un uomo teme ciò che non dovrebbe temere e nel momento in cui non dovrebbe temerlo – allo stesso modo l’indifferenza verso il pericolo si oppone ad essa per mancanza di timore, quando un uomo non teme ciò che invece dovrebbe temere.
+
+Risposta all’Obiezione 1: L’atto di forza d’animo consiste nel sopportare la morte senza paura e nell’agire in modo aggressivo, ma secondo la ragione; queste cose l’uomo senza paura non le fa.
+
+Risposta all’Obiezione 2: La spavalderia, per la sua natura specifica, corrompe il significato stesso della virtù della forza d’animo; pertanto è direttamente contraria a essa. Tuttavia, in termini delle sue cause, nulla impedisce che sia contraria anche ad altre virtù.
+
+Risposta all’Obiezione 3: Il vizio della temerarietà si oppone alla forza d’animo per eccesso di audacia, mentre l’indifferenza al pericolo lo si oppone per mancanza di paura. La forza d’animo impone un limite a ciascuna passione; pertanto non vi è nulla di irragionevole nel fatto che essa presenti estremi diversi in ambiti diversi.
+
 <span class="atom-split" data-atom="028" data-title="OF DARING [*Excessive daring or foolhardiness] (TWO ARTICLES)" data-chapter="OF DARING [*Excessive daring or foolhardiness] (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider daring; and under this head there are two points of inquiry:
 (1) Whether daring is a sin?
 (2) Whether it is opposed to fortitude?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’audacia; e in questo ambito ci sono due questioni da esaminare:  
+(1) Se l’audacia sia un peccato;  
+(2) Se sia contraria alla forza d’animo.
 
 <span class="atom-split" data-atom="029" data-title="Whether daring is a sin?" data-chapter="Whether daring is a sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -1265,6 +1670,24 @@ remarks (Ethic. ii, 7; iv, 4,5,6). Hence the names of certain passions have to b
 vices and virtues: and in order to designate vices we employ especially the names of those passions
 the object of which is an evil, as in the case of hatred, fear, anger and daring. But hope and love
 have a good for this object, and so we use them rather to designate virtues.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’audacia non sia un peccato. Infatti è scritto (Job 39:21) a proposito del cavallo, con il quale, secondo Gregorio (Moralia, xxxi), si indica il predicatore pio: “Esce coraggiosamente ad affrontare gli uomini armati”. Tuttavia nessun vizio può essere motivo di lode per una persona. Pertanto, non è un peccato essere audaci.
+
+Obiezione 2: Inoltre, secondo il Filosofo (Etica, VI, 9), “si dovrebbe consultarsi nella propria mente e poi agire rapidamente secondo quanto deciso”. Ma il coraggio aiuta a essere rapidi nell’agire. Pertanto, il coraggio non è peccaminoso, ma meritevole di lode.
+
+Obiezione 3: Inoltre, il coraggio è una passione causata dalla speranza, come detto sopra (FS, Q[45], A[2]) quando trattavamo delle passioni. Ma la speranza non viene considerata un peccato, bensì una virtù; pertanto, nemmeno il coraggio dovrebbe essere considerato un peccato.
+
+Al contrario, è scritto (Ecclesiaste 8:18): “Non seguire la strada di un uomo audace, affinché non ti carichi dei suoi mali”. Ora, l’amicizia con nessuno dovrebbe essere evitata se non a causa del peccato. Pertanto, l’audacia è un peccato.
+
+Rispondo che la temerarietà, come già detto sopra (FS, Q[23], A[1]; Q[55]), è una passione. Ora, una passione talvolta viene moderata dalla ragione, altre volte invece manca di moderazione, sia per eccesso che per difetto; ed è proprio in questi casi che la passione diventa peccaminosa. Inoltre, i nomi delle passioni vengono a volte utilizzati nel senso di eccesso: parliamo ad esempio di “ira” quando ci riferiamo all’ira eccessiva, che è certamente peccaminosa; allo stesso modo, la temerarietà, quando intesa come eccesso, viene considerata un peccato.
+
+Risposta all’Obiezione 1: Quel coraggio di cui si parla è quello moderato dalla ragione; in questo senso, appartiene alla virtù della forza d’animo.
+
+Risposta all’Obiezione 2: È lodevole agire rapidamente dopo aver consultato la ragione, poiché ciò rappresenta un atto di razionalità. Tuttavia, desiderare di agire in fretta prima di consultarsi non è lodevole, ma peccaminoso; tale comportamento costituirebbe infatti un’azione avventata, vizio contrario alla prudenza, come già affermato sopra (Q[58], A[3]). Pertanto, il coraggio che spinge ad agire rapidamente è lodevole soltanto quando guidato dalla ragione.
+
+Risposta all’Obiezione 3: Alcuni vizi non sono nominati esplicitamente, e lo stesso vale per alcune virtù, come osserva il Filosofo (Etica, ii, 7; iv, 4, 5, 6). Pertanto, i nomi di certe passioni vengono utilizzati anche per indicare determinati vizi e virtù. In particolare, per designare i vizi si ricorrono ai nomi di quelle passioni il cui oggetto è il male, come nell’odio, nella paura, nell’ira e nel coraggio. Tuttavia, la speranza e l’amore hanno un bene come oggetto; per questo motivo vengono utilizzati piuttosto per indicare le virtù.
 
 <span class="atom-split" data-atom="030" data-title="Whether daring is opposed to fortitude?" data-chapter="Whether daring is opposed to fortitude?" data-kind="atom" data-srclang="en"></span>
 
@@ -1309,10 +1732,32 @@ in daring has no contrary deficiency, save only timidity. Yet daring does not al
 so great a lack of timidity, for as the Philosopher says (Ethic. iii, 7), "the daring are precipitate and
 eager to meet danger, yet fail when the danger is present," namely through fear.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’audacia non sia contraria alla forza d’animo. Infatti, un eccesso di audacia sembra derivare da presunzione; ma la presunzione è legata all’orgoglio, il quale è opposto all’umiltà. Pertanto, l’audacia è contraria all’umiltà piuttosto che alla forza d’animo.
+
+Obiezione 2: Inoltre, l’audacia non sembra meritevole di biasimo, se non nel caso in cui comporti danno sia per la persona che si espone in modo eccessivo al pericolo, sia per coloro che vengono attaccati o esposti al rischio a causa dell’audacia stessa. Ma ciò sembrerebbe riguardare l’ingiustizia. Pertanto, l’audacia, intesa come un peccato, è contraria non alla forza d’animo, ma alla giustizia.
+
+Obiezione 3: Inoltre, la forza d’animo riguarda sia la paura che il coraggio, come detto sopra (Q[123], A[3]). Poiché la timidezza è opposta alla forza d’animo in relazione a un eccesso di paura, esiste anche un vizio opposto alla timidezza in relazione a una mancanza di paura. Se quindi il coraggio è opposto alla forza d’animo per quanto riguarda l’eccesso di coraggio, dovrebbe esistere anch’esso un vizio opposto al coraggio per quanto riguarda la sua mancanza. Ma tale vizio non esiste. Pertanto, nemmeno il coraggio dovrebbe essere considerato un vizio opposto alla forza d’animo.
+
+Al contrario, nel Secondo e nel Terzo Libro dell’Etica, il Filosofo osa opporsi alla virtù della forza d’animo.
+
+Rispondo che, come già detto sopra (Q[126], A[2]), osservare la misura razionale in ciò di cui si tratta costituisce un attributo di una virtù morale. Pertanto, ogni vizio che indica una mancanza di moderazione riguardo a una virtù morale è opposto a tale virtù, poiché rappresenta un eccesso rispetto alla misura appropriata. Ora, l’audacia, in quanto vizio, implica un’eccessiva intensità delle passioni, e questo eccesso viene definito proprio audacia. È quindi evidente che l’audacia sia opposta alla virtù della forza d’animo, la quale riguarda il rapporto tra paura e coraggio, come già affermato sopra (Q[122], A[3]).
+
+Risposta all’Obiezione 1: L’opposizione tra vizio e virtù non dipende principalmente dalla causa del vizio, ma dalla natura stessa del vizio stesso. Pertanto, non è necessario che l’audacia sia opposta alla stessa virtù di cui l’arroganza è la causa.
+
+Risposta all’Obiezione 2: Proprio come l’opposizione diretta di un vizio non dipende dalla sua causa, così non dipende nemmeno dal suo effetto. Ora, il danno causato dall’audacia è proprio il suo effetto; pertanto, neanche l’opposizione all’audacia dipende da questo aspetto.
+
+Risposta all’Obiezione 3: L’atto di osare consiste nel prendere l’iniziativa contro ciò che è in opposizione a noi; la natura ci spinge a farlo, salvo nei casi in cui tale inclinazione viene ostacolata dalla paura di subire danni da quella fonte. Pertanto, il vizio che si caratterizza per un eccesso di audacia non presenta alcun contrario specifico, se non la timidezza. Tuttavia, l’audacia non accompagna sempre una totale assenza di timore; come afferma il Filosofo (Etica, iii, 7), “coloro che sono audaci sono precipitosi e desiderosi di affrontare il pericolo, ma falliscono quando esso si presenta realmente”, proprio a causa della paura.
+
 <span class="atom-split" data-atom="031" data-title="OF THE PARTS OF FORTITUDE (ONE ARTICLE)" data-chapter="OF THE PARTS OF FORTITUDE (ONE ARTICLE)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the parts of fortitude; first we shall consider what are the parts of fortitude;
 and secondly we shall treat of each part.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora esaminare le componenti della forza d’animo; innanzitutto analizzeremo quali siano queste componenti, e in seguito ne tratteremo ciascuna separatamente.
 
 <span class="atom-split" data-atom="032" data-title="Whether the parts of fortitude are suitably assigned? (1/2)" data-chapter="Whether the parts of fortitude are suitably assigned?" data-kind="atom" data-srclang="en"></span>
 
@@ -1409,6 +1854,35 @@ Reply to Objection 5: Perseverance as denoting persistence in a good deed unto t
 be a circumstance of every virtue, but it is reckoned a part of fortitude in the sense stated in the
 body of the Article.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le parti della forza d’animo siano state attribuite in modo inappropriato. Infatti Tullio, nel suo “De Inventione Rhetorica” II, ne individua quattro componenti: “magnanimità”, “fiducia in sé”, “pazienza” e “perseveranza”. Tuttavia, la magnanimità sembrerebbe rientrare nella categoria della liberalità; entrambe, infatti, riguardano l’uso del denaro, e come osserva il Filosofo nell’“Etica” IV, 2, “un uomo magnanimo deve necessariamente essere generoso”. Ma la liberalità fa parte della giustizia, come già accennato in precedenza (Q[117], A[5]). Pertanto, la magnanimità non dovrebbe essere considerata una componente della forza d’animo.
+
+Obiezione 2: Inoltre, la fiducia sembra essere la stessa cosa che la speranza. Ma la speranza non pare rientrare nella categoria delle virtù della forza d’animo; piuttosto, è una virtù a sé stante. Pertanto, la fiducia non dovrebbe essere considerata parte della forza d’animo.
+
+Obiezione 3: Inoltre, la forza d’animo induce una persona ad agire correttamente di fronte al pericolo. Ma la magnanimità e la fiducia in sé non implicano necessariamente alcun legame con il pericolo. Pertanto, non possono essere considerate adeguatamente parti integranti della forza d’animo.
+
+Obiezione 4: Inoltre, secondo Tullio (De Invent. Rhet. ii), la pazienza indica la capacità di sopportare le difficoltà, e lo stesso viene attribuito anche alla forza d’animo. Pertanto, la pazienza è identica alla forza d’animo, e non ne costituisce una parte.
+
+Obiezione 5: Inoltre, ciò che è necessario per ogni virtù non dovrebbe essere considerato parte di una virtù specifica. Tuttavia la perseveranza è indispensabile in ogni virtù; infatti è scritto (Matteo 24:13): “Chi persevererà fino alla fine sarà salvato”. Pertanto, la perseveranza non dovrebbe essere considerata parte della forza d’animo.
+
+Obiezione 6: Inoltre, Macrobio (De Somn. Scip. i) enumera sette componenti della forza d’animo, ovvero “magnanimità, fiducia in sé, serenità, magnificenza, costanza, pazienza, stabilità”. Andronicus menziona anch’egli sette virtù collegate alla forza d’animo, e queste sono “coraggio, forza di volontà, magnanimità, virilità, perseveranza, magnificenza”. Pertanto, sembra che la classificazione delle componenti della forza d’animo proposta da Tullio sia incompleta.
+
+Obiezione 7: Inoltre, [Aristotele](/figures/aristotle) (Etica iii) distingue cinque tipi di virtù militare. Il primo è la “virtù civica”, che induce comportamenti coraggiosi a causa della paura di disonore o punizione; il secondo è la “virtù militare propriamente detta”, che deriva dall’arte bellica o dall’esperienza; il terzo è la virtù che scaturisce dalle passioni, in particolare dall’[ira](/concepts/anger); il quarto è la virtù che permette a una persona di agire coraggiosamente perché abituata a superare le difficoltà; il quinto è la virtù che spinge una persona ad agire coraggiosamente anche quando non è abituata al pericolo. Ora, questi tipi di virtù militare non sono inclusi in nessuna delle enumerazioni soprafatte. Pertanto, tali enumerazioni risultano inadeguate.
+
+Rispondo che, come già detto sopra (Q[48]), una virtù può avere tre tipi di componenti: soggettive, integrali e potenziali. Tuttavia, la forza d’animo, in quanto virtù specifica, non può avere componenti soggettivi, poiché non si suddivide in altre virtù distinte; riguarda infatti una questione molto particolare. Esistono tuttavia componenti quasi-integrali e potenziali che le sono attribuiti: componenti integrali, relative a quelle cose la cui concorrenza è necessaria per compiere un atto di forza d’animo; componenti potenziali, poiché ciò che la forza d’animo pratica di fronte alle più grandi difficoltà – cioè ai pericoli di morte – viene praticato da altre virtù in situazioni meno gravi; queste altre virtù sono considerate subordinate alla forza d’animo. Come già detto sopra (Q[123], AA[3],6), l’atto di forza d’animo è duplice: aggressione e resistenza. Per compiere un atto di aggressione sono necessarie due cose: la prima riguarda la preparazione mentale, ovvero essere pronti ad agire; in questo senso Tullio menziona la “fiducia”, definendola “ciò che rende l’animo molto sicuro e pieno di speranza nelle imprese grandi e onorevoli”. La seconda riguarda l’attuazione concreta dell’atto, ovvero non fallire nell’eseguire ciò che si è deciso di fare con fiducia; in questo senso Tullio menziona la “magnanimità”, descrivendola come “la capacità di affrontare e realizzare imprese grandi e nobili, con uno scopo elevato e nobile, al fine di combinare l’azione con una grande ambizione”. Se queste due componenti vengono riferite esclusivamente alle difficoltà legate alla morte, costituiranno componenti quasi-integrali della forza d’animo; altrimenti, se vengono applicate a situazioni meno gravi, diventeranno virtù distinte dalla forza d’animo, ma subordinate ad essa. Ad esempio, la “magnanimità” viene associata da Filosofo alle spese ingenti, mentre la “fiducia” sembra essere collegata agli onori grandi. Per quanto riguarda l’altro aspetto della forza d’animo, ovvero la resistenza, sono necessarie due cose: innanzitutto che l’animo non venga spezzato dal dolore o dalla paura; in questo senso Tullio menziona la “pazienza”, definita come “la capacità di sopportare volontariamente e per un lungo periodo situazioni difficili e ardue, a fin di perseguire una virtù o un vantaggio”. In secondo luogo, che l’uomo non si stanchi troppo a causa delle sofferenze, perdendo così il coraggio; in questo senso Tullio menziona la “perseveranza”, descritta come “la persistenza costante e decisa in un obiettivo ben ponderato”. Se queste due componenti vengono riferite esclusivamente alle difficoltà legate alla forza d’animo, costituiranno componenti quasi-integrali di essa; altrimenti, se vengono applicate a situazioni meno gravi, diventeranno virtù distinte dalla forza d’animo.
+Distinto dalla forza d’animo, ma ad esso collegato come elemento secondario rispetto al principale.
+
+Risposta all’Obiezione 1: La magnificenza nell’atto della generosità aggiunge una certa grandezza; ciò è legato al concetto di difficoltà, che rappresenta l’oggetto della facoltà irascibile, la quale viene perfezionata soprattutto attraverso la forza d’animo. In questo senso, tale magnificenza appartiene proprio a questa virtù.
+
+Risposta all’Obiezione 2: La speranza, attraverso la quale si confida in Dio, è considerata una [virtù teologica](/concepts/theological_virtues), come già detto sopra (Q[17], A[5]; FS, Q[62], A[3]). Tuttavia, la fiducia che qui viene considerata parte della forza d’animo fa sì che l’uomo speri in se stesso, ma sempre sotto la guida di Dio.
+
+Risposta all’Obiezione 3: Avventurarsi in qualcosa di grande sembra comportare pericoli, poiché fallire in tali imprese può avere conseguenze disastrose. Pertanto, anche se la magnanimità e la fiducia sono associate al compimento o all’affrontamento di altre grandi imprese, esse presentano una certa connessione con il coraggio, proprio a causa dei pericoli imminenti che tali iniziative comportano.
+
+Risposta all’Obiezione 4: La pazienza non solo sopporta i pericoli di morte, di cui tratta la forza d’animo, senza provare un dolore eccessivo, ma anche qualsiasi altra difficoltà o pericolo. In questo senso viene considerata una virtù connessa alla forza d’animo; ma quando si riferisce ai pericoli di morte, ne costituisce parte integrante.
+
+Risposta all’Obiezione 5: La perseveranza, intesa come persistenza in un’azione buona fino alla fine, può essere una caratteristica di ogni virtù; tuttavia, nel senso indicato nel corpo dell’articolo, viene considerata parte integrante della forza d’animo.
+
 <span class="atom-split" data-atom="033" data-title="Whether the parts of fortitude are suitably assigned? (2/2)" data-chapter="Whether the parts of fortitude are suitably assigned?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 6: Macrobius reckons the four aforesaid mentioned by Tully, namely
@@ -1463,6 +1937,22 @@ Magnificence; (3) Patience; (4) Perseverance. As regards the first we shall trea
 (7) Of its relation to assurance;
 (8) Of its relation to goods of fortune.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 6: Macrobius elenca i quattro elementi menzionati da Tullio, ovvero “fiducia”, “magnanimità”, “pazienza” e “fermezza”. Egli sostituisce la pazienza con la magnanimità e la perseveranza con la fermezza. Aggiunge inoltre altri tre elementi; due di questi, ovvero “generosità” e “sicurezza”, sono già inclusi da Tullio nella categoria della fiducia. Tuttavia Macrobius è più specifico nella sua enumerazione: la fiducia indica l’aspirazione di un uomo a realizzare grandi cose; tale aspirazione presuppone un desiderio di raggiungere obiettivi elevati, e questo appartiene alla natura della magnanimità. Come già detto in precedenza (FS, Q[40], A[2]), l’aspirazione presupone amore e desiderio per ciò che si spera di ottenere. Una risposta ancora più convincente è che la fiducia riguarda la certezza nell’ottenere ciò che si spera, mentre la magnanimità si riferisce all’entità stessa degli obiettivi desiderati. L’aspirazione non può essere concreta se non viene eliminato l’ostacolo rappresentato dalla paura; talvolta si desidera qualcosa, ma ci si astiene dall’agire a causa della paura, che è in qualche modo contraria all’aspirazione stessa. Per questo motivo Macrobius aggiunge la “sicurezza”, che elimina la paura, e un terzo elemento: la “costanza”, che può essere considerata parte della magnanimità, poiché per compiere azioni nobili è necessario mantenere una mente ferma e costante. Per questa ragione Tullio afferma che la magnanimità consiste non solo nel realizzare grandi imprese, ma anche nel discuterle con generosità nella propria mente. La costanza può essere considerata anche un aspetto della perseveranza: si è perseveranti quando non ci si arrende di fronte ai ritardi o ad altri ostacoli. Gli elementi menzionati da Andronico sembrano rientrare nello stesso ambito degli elementi elencati da Macrobius e Tullio: “perseveranza”, “magnanimità” e, in aggiunta, “generosità” e “sicurezza”. La “forza di volontà” è sinonimo di pazienza o tolleranza; Macrobius la definisce come “un’abitudine che rende una persona pronta ad affrontare ciò che deve essere fatto e a sopportare ciò che la ragione consiglia di sopportare”. La “coraggiosezza” sembra equivalere alla fiducia, poiché Macrobius la definisce come “un’abitudine di autosufficienza in materia di virtù”. Oltre alla magnanimità, menziona anche l’“andragathia”, ovvero una forma di bontà virile che può essere interpretata come “impegno e diligenza” nell’attuare azioni nobili. La magnanimità consiste infatti non solo nella costanza nell’affrontare grandi imprese, ma anche nel dimostrare una certa prudenza e attenzione nell’eseguirle; queste caratteristiche rientrano nell’ambito dell’“andragathia”. È evidente quindi che tutti questi elementi possono essere ricondotti ai quattro principali menzionati da Tullio.
+
+Risposta all’Obiezione 7: I cinque elementi menzionati da [Aristotele](/figures/aristotle) non corrispondono alla vera nozione di virtù, poiché, sebbene concordino nell’atto stesso della forza d’animo, differiscono per motivazione, come già detto sopra (Q[123], A[1], ad 2); pertanto non vanno considerati parti essenziali della forza d’animo, ma soltanto modi di manifestarla.  
+**DELLA MAGNANIMITÀ* (OTTO ARTICOLI) [*Non nel senso comune, ma secondo l’interpretazione dell’autore]**  
+Ora dobbiamo esaminare ciascuna delle componenti della forza d’animo, includendo anche le altre parti menzionate da Tullio, ad eccezione della fiducia in sé stessi, che sostituiremo con la magnanimità, di cui parla Aristotele. Pertanto considereremo: (1) La magnanimità; (2) La magnificenza; (3) La pazienza; (4) La perseveranza. Per quanto riguarda la prima, tratteremo: (1) La natura della magnanimità; (2) I vizi contrari ad essa. All’interno di questa categoria esistono otto punti da analizzare:  
+(1) Se la magnanimità riguardi soltanto gli onori;  
+(2) Se si riferisca esclusivamente agli onori maggiori;  
+(3) Se sia effettivamente una virtù;  
+(4) Se sia una virtù specifica;  
+(5) Se faccia parte integrante della forza d’animo;  
+(6) La sua relazione con la fiducia in sé stessi;  
+(7) La sua relazione con l’assoluta sicurezza di sé;  
+(8) Il suo legame con i beni materiali.
+
 <span class="atom-split" data-atom="034" data-title="Whether magnanimity is about honors?" data-chapter="Whether magnanimity is about honors?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that magnanimity is not about honors. For magnanimity is in the irascible
@@ -1514,6 +2004,24 @@ nothing unbecoming in order to obtain them, nor have too great a desire for them
 were to despise honors so as not to care to do what is worthy of honor, this would be deserving of
 blame. Accordingly magnanimity is about honors in the sense that a man strives to do what is
 deserving of honor, yet not so as to think much of the honor accorded by man.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la magnanimità non abbia nulla a che fare con gli onori. Infatti, la magnanimità appartiene alla parte irascibile dell’anima, come indica proprio il suo nome; “magnanimità” significa infatti grandezza d’animo, e “animo” si riferisce appunto alla parte irascibile, come affermato nel De Anima iii, 42, dove il Filosofo dice che “nella parte sensitiva dell’anima vi sono desiderio e mente”, cioè la parte concupiscibile e quella irascibile. Tuttavia, l’onore è un bene di natura concupiscibile, poiché rappresenta la ricompensa della virtù. Pertanto, sembra che la magnanimità non abbia nulla a che fare con gli onori.
+
+Obiezione 2: Inoltre, poiché la magnanimità è una virtù morale, deve necessariamente riguardare delle passioni o delle azioni. Ora, non riguarda le azioni, poiché in tal caso sarebbe considerata una parte della giustizia; ne consegue quindi che riguarda le passioni. Ma l’onore non è una passione. Pertanto, la magnanimità non riguarda gli onori.
+
+Obiezione 3: Inoltre, la natura della magnanimità sembra essere orientata verso la ricerca delle cose grandi piuttosto che verso il loro evitamento; si dice infatti che un uomo sia magnanimo perché tende verso obiettivi elevati. Tuttavia, i virtuosi vengono lodati non per desiderare onori, ma per evitarli. Pertanto, la magnanimità non ha nulla a che fare con gli onori.
+
+Al contrario, il Filosofo afferma (Etica, IV, 3) che “la magnanimità riguarda onore e disonore”.
+
+Rispondo che, per definizione stessa, la magnanimità indica lo sforzo dell’animo di tendere verso cose grandi e nobili. La virtù, d’altra parte, è legata a due aspetti: innanzitutto al campo in cui si manifesta la sua attività, e in secondo luogo all’atto stesso che ne costituisce l’espressione concreta, ovvero all’uso corretto di tali elementi. Poiché un’abitudine virtuosa viene definita principalmente in base al suo atto, si dice che una persona sia magnanima soprattutto perché è disposta a compiere atti grandi e significativi. Un atto può essere considerato grande in due modi: in modo relativo, se utilizza elementi piccoli o ordinari ma con grande abilità; in modo assoluto, se consiste nell’uso ottimale di ciò che è più importante. Gli oggetti che vengono utilizzati dall’uomo sono di natura esterna, e tra questi l’onore rappresenta senza dubbio il valore più alto: innanzitutto perché è strettamente legato alla virtù, essendo una testimonianza concreta delle sue qualità; in secondo luogo perché viene offerto a Dio e alle persone migliori; infine, perché gli uomini sono disposti a sacrificare qualsiasi cosa pur di ottenerlo o evitare la vergogna. Si dice quindi che una persona sia magnanima quando si comporta in modo degno di onore, proprio come si dice che sia coraggiosa quando affronta situazioni difficili. Ne consegue che la magnanimità riguardi essenzialmente questioni legate all’onore.
+
+Risposta all’Obiezione 1: Il bene e il male, considerati in modo assoluto, riguardano la facoltà concupiscibile; tuttavia, nella misura in cui vengono associati ad elementi di difficoltà o grandezza, appartengono anche alla facoltà irascibile. È proprio per questo che la magnanimità riguarda l’onore, nel senso in cui quest’ultimo presenta aspetti legati alla grandezza o alla difficoltà.
+
+Risposta all’Obiezione 2: Sebbene l’onore non sia né una passione né un atto concreto, esso è comunque l’oggetto di una passione, ovvero della speranza, che tende verso un bene difficile da ottenere. Pertanto, la magnanimità riguarda direttamente le passioni legate alla speranza e, indirettamente, l’onore come oggetto di tale passione; allo stesso modo, abbiamo affermato (Q[123], AA[4],5) che la forza d’animo riguarda i pericoli di morte nella misura in cui questi sono oggetto della paura e del coraggio.
+
+Risposta all’Obiezione 3: Sono degni di lode coloro che disprezzano le ricchezze al punto da non compiere nulla di indegno per ottenerle, né di desiderarle eccessivamente. Tuttavia, se qualcuno disprezzasse anche gli onori al punto di non voler compiere ciò che è degno di onore, questo sarebbe degno di biasimo. Pertanto, la magnanimità riguarda gli onori nel senso che una persona si sforza di compiere azioni degne di onore, ma senza attribuire troppa importanza agli onori conferiti dagli altri.
 
 <span class="atom-split" data-atom="035" data-title="Whether magnanimity is essentially about great honors?" data-chapter="Whether magnanimity is essentially about great honors?" data-kind="atom" data-srclang="en"></span>
 
@@ -1581,6 +2089,25 @@ honor virtue which deserves to be honored by God. Hence he is not uplifted by gr
 he does not deem them above him; rather does he despise them, and much more such as are ordinary
 or little. In like manner he is not cast down by dishonor, but despises it, since he recognizes that
 he does not deserve it.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la magnanimità non riguardi essenzialmente onori di grande rilievo. Infatti, l’oggetto proprio della magnanimità è l’onore, come già detto sopra (A[1]). Tuttavia, ciò che è grande o piccolo riguardo all’onore è soltanto accidentale; pertanto, non è essenziale per la magnanimità che essa riguardi onori di grande importanza.
+
+Obiezione 2: Inoltre, proprio come la magnanimità riguarda l’onore, così anche la umiltà riguarda l’[ira](/concepts/anger). Tuttavia, non è essenziale che l’umiltà sia legata a un’ira grande o piccola; pertanto, né lo è che la magnanimità sia legata a un onore grande.
+
+Obiezione 3: Inoltre, onori di piccola entità sono meno lontani da onori grandi di quanto lo sia la disonorevolezza. Ma la magnanimità è ben organizzata in relazione alla disonorevolezza, e quindi anche in relazione agli onori di piccola entità. Pertanto, non riguarda soltanto gli onori grandi.
+
+Al contrario, il Filosofo afferma (Etica, ii, 7) che la magnanimità riguarda le grandi onorificenze.
+
+Rispondo che, secondo il Filosofo (Phys. vii, 17, 18), la virtù è una perfezione; con ciò intendiamo la perfezione di un potere, e precisamente il suo limite estremo, come affermato in De Coelo i, 116. Ora, la perfezione di un potere non si manifesta in ogni sua operazione, ma soltanto in quelle che sono grandi o difficili: infatti, qualsiasi potere, per quanto imperfetto, può essere utilizzato anche in operazioni ordinarie e banali. Pertanto, è essenziale che una virtù riguardi ciò che è difficile e ciò che è buono, come indicato nell’Etica ii, 3. Ciò che è difficile e buono, nell’atto di una virtù, può essere considerato da due punti di vista. Primo, dal punto di vista della ragione: in quanto sia arduo individuare e applicare i mezzi razionali in determinate situazioni; tale difficoltà si riscontra soprattutto nelle virtù intellettuali e nella giustizia. Un altro tipo di difficoltà riguarda l’oggetto stesso dell’azione, che può opporsi alla moderazione della ragione; questa difficoltà è tipica delle altre virtù morali, quelle relative alle passioni, poiché queste resistono alla ragione, come afferma Dionisio (Div. Nom. iv, 4). Per quanto riguarda le passioni, si deve notare che la loro capacità di resistere alla ragione deriva principalmente da due fattori: talvolta dalle passioni stesse, altre volte dagli oggetti su cui queste si concentrano. Le passioni in sé non possiedono una grande forza di resistenza, a meno che non siano violente; infatti, l’appetito sensibile, sede delle passioni, è naturalmente soggetto alla ragione. Pertanto, le virtù che contrastano queste passioni si rivolgono soprattutto a quelle situazioni in cui tali passioni sono particolarmente intense: ad esempio, la forza d’animo riguarda paure o audacie estreme; la temperanza, i desideri legati ai piaceri più intensi; e la umiltà, l’ira più violenta. D’altra parte, alcune passioni presentano una forte capacità di resistere alla ragione a causa degli oggetti esterni su cui si concentrano; è il caso dell’amore o del desiderio per denaro o onore. Per queste situazioni, è necessario possedere virtù non solo riguardo a ciò che è più importante in tali passioni, ma anche a ciò che è ordinario o meno significativo; infatti, gli oggetti esterni, pur essendo di poco conto, possono essere molto desiderabili poiché necessari per la vita umana. Per esempio, riguardo al desiderio di denaro, esistono due virtù: una relativa a somme ordinarie, ovvero la generosità, e un’altra relativa a somme ingenti, ovvero la magnanimità. Allo stesso modo, esistono due virtù riguardo all’onore: una relativa agli onori ordinari. Questa virtù non ha un nome specifico, ma viene definita in base ai suoi estremi: l’amore per l’onore e la mancanza di tale amore; infatti, a volte una persona viene lodata per amare l’onore, altre volte per non curarsene, poiché entrambe queste azioni sono possibili.
+La moderazione. Ma quando si tratta di grandi onori, entra in gioco la “magnanimità”. Pertanto dobbiamo concludere che l’oggetto principale della magnanimità siano proprio i grandi onori, e che un uomo magnanimo tenda verso ciò che merita onore.
+
+Risposta all’Obiezione 1: Ciò che è grande e ciò che è piccolo sono entrambi accidentali rispetto all’onore considerato in sé; tuttavia, essi producono una grande differenza nel loro rapporto con la ragione, e questo aspetto deve essere tenuto presente nell’uso dell’onore. Infatti, è molto più difficile osservare tale relazione nei casi di onori grandi rispetto a quelli piccoli.
+
+Risposta all’Obiezione 2: Nella rabbia e in altre situazioni, solo ciò che è di maggior entità rappresenta una vera difficoltà; ed è proprio in questi casi che sorge la necessità di una virtù. È diverso per le ricchezze e gli onori, che sono cose esistenti al di fuori dell’anima.
+
+Risposta all’Obiezione 3: Chi sa sfruttare al meglio le cose grandi è molto più in grado di utilizzare bene anche quelle piccole. Pertanto, l’uomo nobile considera grandi onori come qualcosa di cui è degno, e persino piccoli onori come qualcosa che si merita; infatti, l’uomo non può onorare a sufficienza la virtù che merita di essere onorata da Dio. Per questo motivo, non viene elevato dalle grandi onori, poiché non le ritiene superiori a sé; anzi le disprezza, soprattutto quelle ordinarie o di poco conto. Allo stesso modo, non viene abbassato dall’umiliazione, ma la disprezza, poiché riconosce di non meritarla.
 
 <span class="atom-split" data-atom="036" data-title="Whether magnanimity is a virtue?" data-chapter="Whether magnanimity is a virtue?" data-kind="atom" data-srclang="en"></span>
 
@@ -1681,6 +2208,33 @@ have barren things, not indeed any, but good, i.e. virtuous; for in all things h
 to the useful, as being greater: since the useful is sought in order to supply a defect which is
 inconsistent with magnanimity.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la magnanimità non sia una virtù. Infatti, ogni virtù morale si attiene al mezzo; ma la magnanimità non segue il mezzo, bensì l’estremo opposto: poiché “l’uomo magnanimo si ritiene degno delle cose più grandi” (Etica, iv, 3). Pertanto, la magnanimità non è una virtù.
+
+Obiezione 2: Inoltre, colui che possiede una virtù ne possiede tutte, come detto sopra (FS, Q[65], A[1]).  
+Ma si può possedere una virtù senza avere la magnanimità: poiché il Filosofo afferma (Etica iv, 3) che “chi è degno di piccole cose e si ritiene tale, è moderato, ma non è magnanimo”. Pertanto, la magnanimità non è una virtù.
+
+Obiezione 3: Inoltre, “La virtù è una buona qualità dell’animo”, come detto sopra (FS, Q[55], A[4]). Ma la magnanimità implica certe caratteristiche fisiche: infatti il Filosofo afferma (Etica iv, 3) che “un uomo magnanimo ha un passo lento, una voce profonda e un modo di esprimersi calmo”. Pertanto, la magnanimità non è una virtù.
+
+Obiezione 4: Inoltre, nessuna virtù è contraria un’altra virtù. Tuttavia la magnanimità è contraria all’umiltà, poiché “il magnanimo si ritiene degno di grandi cose e disprezza gli altri”, secondo l’Etica iv, 3. Pertanto la magnanimità non è una virtù.
+
+Obiezione 5: Inoltre, le proprietà di ogni virtù sono degne di lode. Ma la magnanimità presenta alcune caratteristiche che meritano biasimo. Infatti, in primo luogo, il magnanimo non tiene conto dei favori ricevuti; in secondo luogo, è negligente e lento nell’agire; in terzo luogo, utilizza l’ironia nei confronti di molte persone; in quarto luogo, non riesce a relazionarsi con gli altri; in quinto luogo, preferisce le cose sterili a quelle fruttuose. Pertanto, la magnanimità non è una virtù.
+
+Al contrario, si legge qualcosa di lodevole riguardo ad alcuni uomini (2 Maccabei 15:18): “Nicanore, avendo sentito parlare del coraggio dei compagni di Giuda e della grande determinazione con cui combattevano per la loro patria, temette di affrontarli in battaglia”. Ora, soltanto le azioni virtuose meritano lode. Pertanto, la magnanimità, che consiste nella grande forza d’animo e nel coraggio, è senz’altro una virtù.
+
+Rispondo che l’essenza della virtù umana consiste nel proteggere il bene della ragione nelle affari umani, poiché questo è il vero bene dell’uomo. Ora, tra le cose esterne umane, gli onori hanno la precedenza su tutte le altre, come già detto sopra (A[1]; FS, Q[11], A[2], OBJ[3]). Pertanto, la magnanimità, che segue il modo della ragione nelle grandi occasioni di onore, è una virtù.
+
+Risposta all’Obiezione 1: Come afferma nuovamente il Filosofo (Etica, IV, 3), “colui che è nobile in termini di quantità tende agli estremi”, poiché si dirige verso ciò che è più grande; “ma in materia di comportamento segue la via della media”, poiché mira alle cose maggiori secondo la ragione, poiché “si ritiene degno di ciò che merita” (Etica, IV, 3), e i suoi obiettivi non superano mai le sue reali capacità.
+
+Risposta all’Obiezione 2: Il legame reciproco tra le virtù non si applica ai loro atti, poiché non è possibile che ogni persona sia in grado di compiere gli atti caratteristici di tutte le virtù. Pertanto, l’atto di magnanimità non è appropriato a ogni uomo virtuoso, ma soltanto a coloro che sono di grande statura morale. D’altra parte, per quanto riguarda i principi fondamentali delle virtù – ovvero la prudenza e la grazia – tutte le virtù sono tra loro collegate, poiché i loro atteggiamenti mentali risiedono nell’anima, sia attraverso azioni concrethe che attraverso disposizioni psicologiche correlate. È quindi possibile che una persona a cui non è possibile compiere l’atto di magnanimità possieda comunque l’“abitudine” alla magnanimità; in tal caso, sarebbe disposta a compiere tale atto se le circostanze lo permettessero, in base al proprio stato personale.
+
+Risposta all’Obiezione 3: I movimenti del corpo sono diversificati in base alle diverse percezioni ed emozioni dell’anima. È quindi naturale che la magnanimità sia associata a determinati movimenti corporei specifici: la rapidità nei movimenti deriva dal fatto che una persona si concentri su molte cose da realizzare in fretta, mentre il magnanimo si concentra soltanto su cose grandi e importanti, che sono poche e richiedono grande attenzione; per questo motivo i suoi movimenti sono lenti. Allo stesso modo, un modo di parlare acuto e rapido è tipico di coloro che tendono a litigare facilmente per qualsiasi motivo, mentre non lo è affatto del magnanimo, il quale si dedica esclusivamente a questioni importanti. E proprio come questi movimenti corporei sono adatti al carattere del magnanimo in base alle sue emozioni, allo stesso modo queste caratteristiche fisiche sono naturalmente presenti nelle persone che sono per natura incline alla magnanimità.
+
+Risposta all’Obiezione 4: Nell’uomo esiste qualcosa di grande che egli possiede per dono di Dio; e qualcosa di difettoso che deriva dalla debolezza della natura umana. Pertanto, la magnanimità induce l’uomo a ritenersi degno di grandi cose, in considerazione dei doni ricevuti da Dio; se dunque la sua anima è dotata di grandi virtù, la magnanimità lo spinge a compiere opere sempre più virtuose. Lo stesso si può dire riguardo all’uso di qualsiasi altra forma di bene, come la scienza o la fortuna materiale. D’altra parte, l’umiltà induce l’uomo a sottovalutare se stesso in considerazione dei propri difetti; la magnanimità, invece, lo spinge a disprezzare coloro che si allontanano dai doni di Dio, poiché non giunge al punto di compiere azioni ingiuste per loro. Tuttavia, l’umiltà ci induce ad onorare gli altri e a considerarli migliori di noi stessi, nella misura in cui riconosciamo in loro alcuni dei doni di Dio. Per questo motivo si dice del giusto (Salmo 14:4): “Nel suo sguardo il malvagio è disprezzato”, il che indica il disprezzo derivante dalla magnanimità; “ma onora coloro che temono il Signore”, il che evidenzia l’atteggiamento di rispetto caratteristico dell’umiltà. È quindi evidente che magnanimità e umiltà non sono in contraddizione tra loro, anche se sembrano mirare in direzioni opposte, poiché si basano su considerazioni diverse.
+
+Risposta all’Obiezione 5: Queste qualità, nella misura in cui appartengono a un uomo nobile e generoso, non meritano biasimo, ma anzi grande lode. Innanzitutto, quando si dice che un uomo nobile non tiene conto di coloro da cui ha ricevuto favori, ciò indica che egli non trova piacere nell’accettare aiuti altrui se non per ricambiarli con favori ancora maggiori; questo rappresenta una manifestazione della perfezione della gratitudine, virtù nella quale egli desidera eccellere, proprio come nelle altre virtù. In secondo luogo, si dice che sia lento e ritardato nell’agire, non perché manchi di compiere ciò che è dovuto, ma perché si dedica soltanto a imprese grandi e degne della sua natura, evitando invece attività di minor rilievo. In terzo luogo, si dice che utilizzi l’ironia, non per contraddire la verità o per dire di sé cose vili che non sono vere, né per negare di sé qualità grandi e reali, ma perché non rivela tutta la sua grandezza, soprattutto davanti a persone di rango inferiore; come afferma il Filosofo nell’Etica (IV, 3): “È proprio delle caratteristiche di un uomo nobile essere magnanimo verso coloro che possiedono dignità e ricchezza, e umile verso la classe media”. In quarto luogo, si dice che non sia in grado di socializzare con gli altri: ciò significa che non si trova a suo agio se non tra i suoi amici, poiché evita completamente l’adulazione e l’ipocrisia, comportamenti tipici di una mentalità meschina. Tuttavia, si associa con tutti, sia con i grandi che con i piccoli, nel modo appropriato, come già detto in precedenza. Infine, si dice che preferisca possedere cose “sterili”, ovvero cose buone e virtuose, piuttosto che utili; poiché in ogni ambito dà priorità alla virtù rispetto all’utilità, considerando la prima qualcosa di più prezioso: l’utilità, infatti, viene cercata soltanto per colmare delle carenze che sono incompatibili con la magnanimità stessa.
+
 <span class="atom-split" data-atom="037" data-title="Whether magnanimity is a special virtue?" data-chapter="Whether magnanimity is a special virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that magnanimity is not a special virtue. For no special virtue is operative
@@ -1728,6 +2282,24 @@ or greatness.
 Reply to Objection 3: Every virtue derives from its species a certain luster or adornment which
 is proper to each virtue: but further adornment results from the very greatness of a virtuous deed,
 through magnanimity which makes all virtues greater as stated in Ethic. iv, 3.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la magnanimità non sia una virtù speciale. Infatti, nessuna virtù speciale è presente in tutte le altre virtù. Tuttavia, il Filosofo afferma (Etica, iv, 3) che “quanto è grande in ciascuna virtù appartiene al magnanimo”. Pertanto, la magnanimità non è una virtù speciale.
+
+Obiezione 2: Inoltre, gli atti legati a diverse virtù non vengono attribuiti a nessuna virtù specifica. Tuttavia, gli atti caratteristici di diverse virtù vengono attribuiti all’uomo nobile d’animo. Infatti, nell’Etica IV, 3 si afferma che “appartiene all’uomo nobile non evitare le rimproveri” (che è un atto di prudenza), “né agire ingiustamente” (che è un atto di giustizia), “essere disposto ad aiutare gli altri” (che è un atto di carità), “offrire il proprio aiuto con disponibilità” (che è un atto di liberalità), “essere sincero” (che è un atto di veridicità) e “non essere incline a lamentarsi” (che è un atto di pazienza). Pertanto, la magnanimità non rappresenta una virtù specifica.
+
+Obiezione 3: Inoltre, ogni virtù rappresenta un ornamento specifico dell’anima, come si legge in Isai 61:10: “Mi ha vestito con gli abiti della salvezza” e successivamente aggiunge: “Come una sposa adornata con i suoi gioielli”. Ma la magnanimità è l’ornamento di tutte le virtù, come affermato nell’Etica IV. Pertanto, la magnanimità è una virtù generale.
+
+Al contrario, il Filosofo (Etica, ii, 7) lo distingue dalle altre virtù.
+
+Rispondo che, come già detto sopra (Q[123], A[2]), stabilire il modo di ragionare in una determinata materia appartiene a una virtù particolare. Ora, la magnanimità proprio stabilisce tale modo di ragionare in relazione agli onori, come indicato sopra (AA[1],2): e l’onore, considerato in sé stesso, è un bene particolare; pertanto anche la magnanimità, considerata in sé stessa, è una virtù particolare. Poiché, tuttavia, l’onore rappresenta la ricompensa di ogni virtù, come affermato sopra (Q[103], A[1], ad 2), ne consegue che, per via del suo oggetto, la magnanimità riguarda tutte le virtù.
+
+Risposta all’Obiezione 1: La magnanimità non riguarda alcun tipo di onore, ma un’onore particolarmente grande. Ora, poiché l’onore è dovuto alla virtù, anche un’onore eccezionalmente grande è dovuto a un atto eccezionale di virtù. Ecco perché il magnanimo si impegna a compiere atti grandi in ogni ambito della virtù, nel preciso senso che tende verso ciò che merita onori grandiosi.
+
+Risposta all’Obiezione 2: Poiché il nobile tende verso le cose grandi e nobili, ne consegue che si orienta principalmente verso ciò che comporta un certo livello di eccellenza e evita ciò che implica difetti o debolezze. È infatti segno di eccellenza essere benefattivi, generosi e grati; per questo motivo il nobile è disposto a compiere azioni di questo tipo, ma non quelle legate ad altre virtù. D’altra parte, il fatto che una persona dia troppa importanza a certi beni o mali esterni al punto da abbandonare la giustizia o qualsiasi altra virtù è un segno di difetto. Inoltre, ogni tentativo di nascondere la verità indica una mancanza di integrità, poiché sembra derivare dalla paura; altrettanto, l’abitudine di lamentarsi denota debolezza, poiché ciò significa lasciarsi influenzare negativamente dai fattori esterni. Pertanto, il nobile evita queste e simili cose, in quanto sono contrarie alla sua natura nobile ed eccellente.
+
+Risposta all’Obiezione 3: Ogni virtù trae dalla propria natura specifica un certo splendore o ornamento che le è proprio; ma un ulteriore ornamento deriva dalla stessa grandezza dell’atto virtuoso, grazie alla magnanimità che rende tutte le virtù ancora più grandi, come affermato nell’Etica iv, 3.
 
 <span class="atom-split" data-atom="038" data-title="Whether magnanimity is a part of fortitude?" data-chapter="Whether magnanimity is a part of fortitude?" data-kind="atom" data-srclang="en"></span>
 
@@ -1790,6 +2362,24 @@ that which is so accidentally. Wherefore the difficult in evil things is always 
 firmness of mind than the difficult in good things. Hence the virtue of fortitude takes precedence
 of the virtue of magnanimity. For though good is simply of more import than evil, evil is of more
 import in this particular respect.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la magnanimità non faccia parte della forza d’animo. Infatti, una cosa non può essere considerata parte di sé stessa. Ma la magnanimità sembra proprio identica alla forza d’animo. Seneca, infatti, afferma nel “De Quat. Virtut.”: “Se nella tua anima c’è la magnanimità, che è anche chiamata forza d’animo, vivrai con grande sicurezza”; e Tullio, nel “De Offic.” I, aggiunge: “Se un uomo è coraggioso, ci aspettiamo che sia anche magnanimo, amante della verità e lontano da qualsiasi forma di inganno”. Pertanto, la magnanimità non fa parte della forza d’animo.
+
+Obiezione 2: Inoltre, il Filosofo (Etica iv, 3) afferma che un uomo nobile non sia necessariamente {philokindynos}, cioè un amante del pericolo. Tuttavia, è proprio delle persone coraggiose esporre se stesse al pericolo. Pertanto, la nobiltà non ha nulla in comune con il coraggio al punto da poter essere considerata una sua componente.
+
+Obiezione 3: Inoltre, la magnanimità considera ciò che è grande come qualcosa di cui ci si può augurare il bene, mentre la forza d’animo lo considera come qualcosa da temere o da affrontare con coraggio. Ma il bene è più importante del male; pertanto la magnanimità è una virtù più preziosa della forza d’animo. Di conseguenza, non ne fa parte.
+
+Al contrario, Macrobio (De Somn. Scip. i) e Andronico considerano la magnanimità come una componente della forza d’animo.
+
+Rispondo che, come già detto sopra (FS, Q[61], A[3]), una virtù principale è quella che permette di stabilire un modello generale di comportamento virtuoso in una determinata materia. Uno dei modelli generali di virtù è la fermezza d’animo, poiché “una posizione salda è necessaria in ogni virtù”, secondo l’Etica ii. Questa virtù viene particolarmente lodata nelle azioni che richiedono coraggio di fronte a difficoltà, dove è più arduo mantenere la fermezza. Pertanto, più difficile è rimanere fermi di fronte a un pericolo mortale – in cui il coraggio rafforza l’animo – rispetto al caso in cui si tratti di sperare o ottenere i beni maggiori, dove la magnanimità svolge lo stesso ruolo. Poiché l’uomo ama la propria vita più di ogni altra cosa, fugge dai pericoli mortali con maggiore determinazione che da qualsiasi altro pericolo. È quindi evidente che la magnanimità concorda con il coraggio nel rafforzare l’animo di fronte a difficoltà; tuttavia, essa ne è inferiore, poiché agisce in situazioni in cui è più facile mantenere la fermezza. Per questo motivo, la magnanimità viene considerata una parte del coraggio, essendo ad esso subordinata come virtù secondaria rispetto alla principale.
+
+Risposta all’Obiezione 1: Come afferma il Filosofo (Etica v, 1,3), “la mancanza di male è considerata un bene”; pertanto, non essere sopraffatti da un male grave, come il pericolo di morte, viene visto come se si ottenesse un grande bene. La prima qualità appartiene alla forza d’animo, la seconda alla magnanimità; in questo senso, forza d’animo e magnanimità possono essere considerate identiche. Tuttavia, poiché esiste una differenza riguardo alla difficoltà che ciascuna di queste qualità comporta, si può affermare che, secondo il Filosofo (Etica ii, 7), la magnanimità sia una virtù distinta dalla forza d’animo.
+
+Risposta all’Obiezione 2: Si dice che un uomo ami il pericolo quando si esponga a ogni sorta di pericoli, il che sembra essere segno di chi consideri “molto” equivalente a “grande”. Ciò è contrario alla natura di un uomo nobile e magnanimo, poiché nessuno si esporrebbe al pericolo per qualcosa che non ritiene importante o grande. Tuttavia, per cose veramente grandi, un uomo nobile è sempre pronto a correre rischi, poiché compie atti di coraggio nell’atto stesso di praticare altre virtù. Per questo il Filosofo afferma (Etica, ii, 7) che l’uomo nobile non è colui che si mette in pericolo per cose insignificanti, ma colui che lo fa per cose grandi e importanti. E Seneca dice (De Quat. Virtut.): “Sei nobile se né cerchi il pericolo come un imprudente, né ne hai paura come un codardo; infatti, nulla rende l’anima codarda se non la consapevolezza di una vita malvagia”.
+
+Risposta all’Obiezione 3: Il male, in quanto tale, deve essere evitato; il fatto che si debba resistervi è soltanto occasionale, nel senso che per proteggere il bene è necessario subire il male. Il bene, invece, deve essere desiderato; il fatto che si eviti è anch’esso occasionale, perché spesso si ritiene che superi le capacità di colui che lo desidera. Ora, ciò che è essenzialmente tale ha sempre maggiore importanza di ciò che è soltanto occasionale. Pertanto, ciò che rappresenta una difficoltà nel contesto del male è sempre più contrario alla fermezza d’animo rispetto a ciò che rappresenta una difficoltà nel contesto del bene. Da qui deriva la priorità della virtù della forza d’animo su quella della magnanimità: sebbene il bene sia in sé di maggiore importanza del male, in questo particolare aspetto il male ha un’importanza maggiore.
 
 <span class="atom-split" data-atom="039" data-title="Whether confidence belongs to magnanimity?" data-chapter="Whether confidence belongs to magnanimity?" data-kind="atom" data-srclang="en"></span>
 
@@ -1854,6 +2444,25 @@ it may denote the conditions of a virtue. For this reason it is reckoned among t
 not as an annexed virtue, except as identified with magnanimity by Tully (De Suv. Rhet. ii), but as
 an integral part, as stated in the preceding Question.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la fiducia non faccia parte della magnanimità. Infatti, un uomo può provare fiducia non solo in se stesso, ma anche in un altro, come si legge in 2 Corinzi 3:4-5: “Tale fiducia abbiamo noi in Dio per mezzo di Cristo; non perché siamo sufficienti a giudicare qualcosa di noi stessi”. Tuttavia, ciò sembra contraddire l’idea di magnanimità. Pertanto, la fiducia non appartiene alla magnanimità.
+
+Obiezione 2: Inoltre, la fiducia sembra essere in contraddizione con la paura, secondo Isaia 12:2: “Agirò con fiducia e non temerò”. Ma essere privi di paura sembra più affine alla forza d’animo. Pertanto, anche la fiducia appartiene alla forza d’animo piuttosto che alla magnanimità.
+
+Obiezione 3: Inoltre, la ricompensa è dovuta soltanto alla virtù. Ma una ricompensa è dovuta anche alla fiducia, secondo l’Epistola agli Ebrei 3:6, dove si dice che noi siamo la “casa di Cristo”, “se teniamo salda la fiducia e la gloria della speranza fino alla fine”. Pertanto, la fiducia è una virtù distinta dalla magnanimità; ciò viene confermato dal fatto che Macrobius la elenca insieme alla magnanimità nel suo “In Somnium Scipionis” (I).
+
+Al contrario, Tullio (De Suv. Rhet. ii) sembra sostituire la magnanimità con la fiducia, come è stato affermato nella domanda precedente (ad 6) e nel prologo di quest’opera.
+
+Rispondo che la “fiducia” prende il nome da “[fede](/concepts/faith)”: infatti appartiene alla fede credere in qualcosa o in qualcuno. Tuttavia, secondo Giobbe 11:18 (“Avrai fiducia, poiché la speranza ti è stata data”), la fiducia appartiene anche alla speranza. Pertanto, la fiducia indica principalmente il fatto che una persona trae speranza credendo nelle parole di qualcuno che promette di aiutarla. Poiché, tuttavia, la fede significa anche un’opinione ferma, e poiché si può giungere a un’opinione ferma su qualcosa non solo sulla base delle dichiarazioni altrui, ma anche osservando qualcosa in quella persona, ne consegue che la fiducia possa indicare la speranza di ottenere qualcosa, una speranza che nasce dall’osservare certe caratteristiche in sé stessi – ad esempio, osservando di essere sani, si può avere fiducia di vivere a lungo – o in un’altra persona, osservando che questa è amichevole e potente, si può avere fiducia di ricevere il suo aiuto.  
+Come già detto in precedenza (A[1], ad 2), la “magnanimità” riguarda principalmente la speranza di ottenere qualcosa di difficile. Pertanto, poiché la fiducia indica una certa forza nella speranza che deriva da osservazioni che ci fanno credere con certezza di ottenere un certo bene, ne consegue che la fiducia appartiene alla magnanimità.
+
+Risposta all’Obiezione 1: Come afferma il Filosofo (Etica, iv, 3), appartiene al “nobile” non aver bisogno di nulla, poiché la necessità è un segno della mancanza. Tuttavia, ciò va inteso in relazione alle capacità umane: quindi egli aggiunge “o quasi nulla”. Infatti, superare completamente il bisogno umano è qualcosa che trascende le possibilità dell’uomo stesso. Ogni uomo ha infatti bisogno, innanzitutto, dell’aiuto divino e, in secondo luogo, anche di quello altrui, poiché l’uomo è per natura un [animale sociale](/positions/social_animal); tuttavia, è sufficiente a se stesso per provvedere alle proprie esigenze. Pertanto, nella misura in cui ha bisogno degli altri, appartiene al nobile avere fiducia in loro, poiché anche questo rappresenta un tratto di eccellenza umana: disporre di persone capaci di essergli d’aiuto. E nella misura in cui le sue proprie forze sono sufficienti, appartiene al nobile avere fiducia in se stesso.
+
+Risposta all’Obiezione 2: Come già detto sopra (FS, Q[23], A[2]; FS, Q[40], A[4]), quando trattavamo delle passioni, la speranza è direttamente opposta alla disperazione, poiché quest’ultima riguarda lo stesso oggetto, ovvero il bene. Per quanto riguarda l’opposizione tra oggetti, la speranza è contraria alla paura, poiché l’oggetto della paura è il male. Ora, la fiducia rappresenta una certa intensità di speranza; pertanto, è opposta alla paura, proprio come lo è la speranza stessa. Tuttavia, poiché la forza d’animo rafforza l’uomo nel fronteggiare il male, e la magnanimità nell’ottenere il bene, ne consegue che la fiducia appartiene più propriamente alla magnanimità che alla forza d’animo. Ciononostante, poiché la speranza induce il coraggio, che rientra nella sfera della forza d’animo, si può affermare che anche la fiducia abbia un legame con questa virtù.
+
+Risposta all’Obiezione 3: La fiducia, come detto sopra, indica un certo tipo di speranza; infatti, la fiducia è una speranza rafforzata da un’opinione ferma e convinta. Ora, il modo in cui questa qualità si applica a un determinato affetto può rendere l’atto meritevole di lode, ma non è questo che la trasforma in una vera e propria virtù, bensì il contenuto stesso di quell’affetto. Pertanto, in senso stretto, la fiducia non può essere considerata una virtù, sebbene possa indicare le condizioni necessarie per la sua manifestazione. Per questo motivo viene annoverata tra le componenti della forza d’animo, non come una virtù a sé stante, ma come parte integrante di essa – come affermato nella domanda precedente. Inoltre, Tullio la associa alla magnanimità nel suo trattato sulla retorica (De Suv. Rhet. ii), considerandola un elemento fondamentale della forza d’animo stessa.
+
 <span class="atom-split" data-atom="040" data-title="Whether security belongs to magnanimity?" data-chapter="Whether security belongs to magnanimity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that security does not belong to magnanimity. For security, as stated
@@ -1898,6 +2507,25 @@ Reply to Objection 3: There is in the virtues a certain likeness to, and partici
 happiness, as stated above (FS, Q[5], AA[3],7). Hence nothing hinders a certain security from being
 a condition of a virtue, although perfect security belongs to virtue's reward.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la sicurezza non appartenga alla magnanimità. Infatti, come detto sopra (Q[128], ad 6), la sicurezza indica l’assenza di disturbi causati dalla paura; e questa condizione viene realizzata più efficacemente dalla forza d’animo. Pertanto, la sicurezza sembrerebbe essere lo stesso che la forza d’animo. Ma la forza d’animo non appartiene alla magnanimità; anzi, è il contrario. Ne consegue che nemmeno la sicurezza appartiene alla magnanimità.
+
+Obiezione 2: Inoltre, Isidoro afferma (Etym. x) che un uomo “si dice essere al sicuro perché è privo di preoccupazioni”. Ma ciò sembra contraddire la virtù, la quale è caratterizzata da un interesse per le cose onorevoli, come si legge in 2 Timoteo 2:15: “Studia con diligenza per presentarti approvato davanti a Dio”. Pertanto, la sicurezza non appartiene alla magnanimità, che è caratterizzata dall’attuazione di grandi imprese all’interno di tutte le virtù.
+
+Obiezione 3: Inoltre, la virtù non è essa stessa una ricompensa. Ma la sicurezza viene considerata la ricompensa della virtù, secondo Giobbe 11:14,18: “Se eliminerai dalla tua vita l’iniquità che possiedi, riposerai in pace e senza pericoli”. Pertanto, la sicurezza non appartiene alla magnanimità né ad alcuna altra virtù, come sua parte integrante.
+
+Al contrario, Tully afferma (De Offic. i), nell’ambito della discussione intitolata “La magnanimità consiste in due cose”, che “è proprio della magnanimità non cedere né alle preoccupazioni mentali, né all’influenza degli uomini, né ai colpi del destino”. Ma la sicurezza di un uomo dipende proprio da questo; pertanto, anche la sicurezza rientra tra le caratteristiche della magnanimità.
+
+Rispondo che, come afferma il Filosofo (Retorica ii, 5), “la paura spinge l’uomo a prendere precauzioni”, poiché ciò significa che si cerca di evitare ciò che si teme. Ora, la sicurezza deriva proprio dalla rimozione di questa preoccupazione, la cui causa è appunto la paura; pertanto, la sicurezza indica una completa libertà dell’animo dalla paura, così come la fiducia indica una forte speranza. Poiché la speranza appartiene direttamente alla magnanimità, allo stesso modo la paura riguarda direttamente la forza d’animo; quindi, proprio come la fiducia è strettamente legata alla magnanimità, così anche la sicurezza è strettamente legata alla forza d’animo.  
+Tuttavia, va osservato che, così come la speranza è causa di coraggio, allo stesso modo la paura è causa di disperazione, come già accennato quando trattavamo di questa passione (FS, Q[45], A[2]). Pertanto, sebbene la fiducia sia strettamente legata alla forza d’animo nella misura in cui essa si basa sul coraggio, allo stesso modo la sicurezza è strettamente legata alla magnanimità nella misura in cui essa elimina la disperazione.
+
+Risposta all’Obiezione 1: La forza d’animo viene lodata soprattutto non perché elimina la paura – che appartiene alla sicurezza – ma perché rappresenta una fermezza di volontà di fronte alle passioni. Pertanto, la sicurezza non è la stessa cosa della forza d’animo, bensì ne costituisce una condizione necessaria.
+
+Risposta all’Obiezione 2: Non tutta la sicurezza merita lode, ma soltanto quando si mette da parte la cautela, come è dovuto fare, e nelle situazioni in cui non ci si dovrebbe temere nulla; in questo modo, essa rappresenta una condizione di forza d’animo e magnanimità.
+
+Risposta all’Obiezione 3: Nelle virtù esiste una certa somiglianza e partecipazione alla futura felicità, come già detto sopra (FS, Q[5], AA[3],7). Pertanto, nulla impedisce che una certa sicurezza costituisca una condizione essenziale di una virtù, anche se la sicurezza perfetta appartiene alla ricompensa della virtù stessa.
+
 <span class="atom-split" data-atom="041" data-title="Whether goods of fortune conduce to magnanimity?" data-chapter="Whether goods of fortune conduce to magnanimity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that goods of fortune do not conduce to magnanimity. For according to
@@ -1938,6 +2566,24 @@ obtaining it, nor very grieved at losing it. Wherefore, since the magnanimous ma
 much of external goods, that is goods of fortune, he is neither much uplifted by them if he has them,
 nor much cast down by their loss.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le ricchezze non portino alla magnanimità. Infatti, secondo Seneca ([De Ira](/concepts/anger) i: De vita beata xvi]): “La virtù è sufficiente in sé stessa”. Ora, la magnanimità considera tutte le virtù come grandi, come detto sopra (A[4], ad 3). Pertanto, le ricchezze non portano alla magnanimità.
+
+Obiezione 2: Inoltre, nessun uomo virtuoso disprezza ciò che gli è utile. Ma l’uomo nobile disprezza tutto ciò che riguarda i beni materiali; infatti Tullio, nel libro I dei “De Officiis”, afferma che “la magnanimità consiste in due cose” e che “un’anima nobile viene lodata per il suo disprezzo verso le cose esterne”. Pertanto, un uomo nobile non trae alcun beneficio dai beni materiali.
+
+Obiezione 3: Inoltre, Tully aggiunge (De Offic. i) che “spetta a un’anima nobile sopportare ciò che sembra difficile, senza mai allontanarsi dal proprio stato naturale o dalla dignità di una persona saggia”. E [Aristotele](/figures/aristotle) afferma (Etica iv, 3) che “un uomo nobile non si addolora per le sfortune”. Ora, i problemi e le disgrazie sono contrari ai beni materiali, poiché tutti si addolorano per la perdita di ciò che è utile per loro. Pertanto, i beni esterni della fortuna non contribuiscono alla nobilezza d’animo.
+
+Al contrario, il Filosofo afferma (Etica, IV, 3) che “la buona fortuna sembra portare alla magnanimità”.
+
+Rispondo che, come già detto sopra (A[1]), la magnanimità riguarda due aspetti: l’onore come sua materia e la realizzazione di cose grandi come suo fine. Ora, i beni materiali contribuiscono a entrambi questi aspetti. Poiché l’onore viene conferito ai virtuosi non solo dai saggi, ma anche dalla moltitudine che attribuisce grande valore a tali beni, ne consegue che queste persone riservano un onore maggiore a coloro che possiedono ricchezze e potere. Inoltre, i beni materiali costituiscono strumenti utili per compiere azioni virtuose: poiché grazie a essi possiamo facilmente realizzare i nostri obiettivi attraverso ricchezza, potere e amici. Pertanto, è evidente che i beni materiali contribuiscono alla formazione della magnanimità.
+
+Risposta all’Obiezione 1: Si dice che la virtù sia sufficiente a se stessa, poiché può esistere anche senza questi beni esterni; tuttavia, ha bisogno di essi per agire in modo più efficace.
+
+Risposta all’Obiezione 2: L’uomo nobile disprezza i beni esterni, poiché non li ritiene così importanti da essere costretto a compiere azioni indegne al loro fine. Tuttavia, non li disprezza affatto, ma li considera utili per la realizzazione di atti virtuosi.
+
+Risposta all’Obiezione 3: Se una persona non dà grande importanza a qualcosa, né si rallegra molto nel ottenerla né si addolora troppo nella sua perdita. Pertanto, poiché l’uomo nobile non attribuisce grande valore ai beni esteriori, cioè ai beni materiali, né si sente particolarmente sollevato quando li possiede, né particolarmente abbattuto quando li perde.
+
 <span class="atom-split" data-atom="042" data-title="OF PRESUMPTION (TWO ARTICLES)" data-chapter="OF PRESUMPTION (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the vices opposed to magnanimity; and in the first place, those that are
@@ -1946,6 +2592,12 @@ we shall consider pusillanimity which is opposed to it by way of deficiency. Und
 there are two points of inquiry:
 (1) Whether presumption is a sin?
 (2) Whether it is opposed to magnanimity by excess?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare i vizi che si oppongono alla magnanimità; in primo luogo, quelli che le sono contrari per eccesso. Ne sono tre: l’arroganza, l’ambizione e la vanità. In secondo luogo, esamineremo la pusillanimia, che le è contraria per difetto. All’interno di questa categoria vi sono due questioni da considerare:
+(1) L’arroganza è un peccato?
+(2) È contraria alla magnanimità per eccesso?
 
 <span class="atom-split" data-atom="043" data-title="Whether presumption is a sin?" data-chapter="Whether presumption is a sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -1999,6 +2651,24 @@ others we can do by ourselves in a sense." Hence since we can think and do good 
 God, this is not altogether above our ability. Hence it is not presumptuous for a man to attempt the
 accomplishment of a virtuous deed: but it would be presumptuous if one were to make the attempt
 without confidence in God's assistance.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’arroganza non sia un peccato. Infatti, l’Apostolo dice: “Dimenticando ciò che è passato, mi dirigo verso ciò che è davanti a me”. Tuttavia, tendere verso ciò che è al di sopra di sé sembra proprio un atto di arroganza. Pertanto, l’arroganza non è un peccato.
+
+Obiezione 2: Inoltre, il Filosofo afferma (Etica i, 7) “non dovremmo ascoltare coloro che ci persuadono ad apprezzare le cose umane perché siamo uomini, o le cose mortali perché siamo mortali, ma piuttosto quelle che ci rendono immortali”; e inoltre (Metafisica i) “che l’uomo debba perseguire le cose divine nella misura del possibile”. Ora, le cose divine e immortali sembrano essere decisamente al di sopra dell’uomo. Poiché la presunzione consiste essenzialmente nel tendere verso ciò che è al di sopra di sé, sembra quindi che la presunzione sia qualcosa di lodevole, piuttosto che un peccato.
+
+Obiezione 3: Inoltre, l’Apostolo dice (2 Corinzi 3:5): “Non è che siamo sufficienti da poter pensare di noi stessi qualcosa di buono”. Se quindi l’arroganza, che spinge una persona a cercare ciò per cui non è sufficiente, fosse un peccato, sembrerebbe che l’uomo non potesse nemmeno legittimamente pensare a nulla di buono: il che è assurdo. Pertanto, l’arroganza non è un peccato.
+
+Al contrario, è scritto (Ecclesiaste 37:3): “Oh malvagia presunzione, da dove sei nata?” E un commento risponde: “Dalla cattiva volontà di una creatura.” Ora, tutto ciò che deriva dalla radice di una cattiva volontà è un peccato. Pertanto, la presunzione è un peccato.
+
+Rispondo che, poiché tutto ciò che è conforme alla natura è ordinato dalla Ragione Divina, che la ragione umana dovrebbe imitare, qualsiasi azione compiuta in conformità con la ragione umana ma in opposizione all’ordine stabilito naturalmente nelle cose è viziosa e peccaminosa. Ora, è certo che in tutte le cose naturali ogni azione sia proporzionata alle capacità dell’agente; inoltre, nessun agente naturale si sforza di compiere ciò che va oltre le sue possibilità. Pertanto, è vizioso e peccaminoso, poiché contrario all’ordine naturale, che qualcuno si assuma il compito di fare ciò che è al di sopra delle sue forze: ed è proprio questo che si intende per presunzione, come indica il suo stesso nome. Ne consegue quindi chiaramente che la presunzione è un peccato.
+
+Risposta all’Obiezione 1: Niente impedisce ciò che è al di sopra della potenza attiva di una cosa naturale, ma non al di sopra della sua potenza passiva; così l’aria possiede una potenza passiva grazie alla quale può essere modificata in modo da acquisire le proprietà e il movimento del fuoco, che superano la potenza attiva dell’aria stessa. Allo stesso modo, sarebbe peccaminoso e presuntuoso per un uomo che si trovi in uno stato di virtù imperfetta tentare di realizzare immediatamente ciò che appartiene alla virtù perfetta; tuttavia, non è affatto presuntuoso né peccaminoso sforzarsi di avanzare verso la virtù perfetta. In questo modo, l’Apostolo cercava costantemente di progredire verso gli obiettivi che aveva davanti a sé.
+
+Risposta all’Obiezione 2: Le cose divine e immortali superano l’uomo secondo l’ordine della natura. Tuttavia, l’uomo possiede un potere naturale, ovvero l’intelletto, grazie al quale può essere unito a queste cose divine e immortali. In questo senso, il Filosofo afferma che “l’uomo debba perseguire le cose divine e immortali”, non nel senso di dover compiere ciò che spetta a Dio, ma nel senso di potersi unire a Lui attraverso l’intelletto e la volontà.
+
+Risposta all’Obiezione 3: Come afferma il Filosofo (Etica, iii, 3), “quello che possiamo fare con l’aiuto degli altri lo possiamo anche fare da soli, in un certo senso”. Pertanto, poiché possiamo pensare e compiere azioni buone con l’aiuto di Dio, ciò non è del tutto al di fuori delle nostre possibilità. Quindi non è presuntuoso che un uomo tenti di compiere un atto virtuoso; tuttavia sarebbe presuntuoso farlo senza fiducia nell’aiuto di Dio.
 
 <span class="atom-split" data-atom="044" data-title="Whether presumption is opposed to magnanimity by excess?" data-chapter="Whether presumption is opposed to magnanimity by excess?" data-kind="atom" data-srclang="en"></span>
 
@@ -2057,11 +2727,36 @@ and bent on excelling in all things, whether in words or in deeds, without any c
 virtue." Thus it is evident that the presumptuous man sometimes falls short of the magnanimous
 in reality, although in appearance he surpasses him.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’arroganza non sia in contraddizione con la magnanimità, né in modo eccessivo né in alcun altro modo. Infatti, l’arroganza è considerata una forma di peccato contro lo Spirito Santo, come detto sopra (Q[14], A[2]; Q[21], A[1]). Ma il peccato contro lo Spirito Santo non è in contraddizione con la magnanimità, bensì con la carità. Pertanto, nemmeno l’arroganza è in contraddizione con la magnanimità.
+
+Obiezione 2: Inoltre, è proprio della magnanimità ritenersi degni di grandi cose. Ma si dice che un uomo sia presuntuoso anche se si ritiene degno di piccole cose, purché queste superino le sue capacità. Pertanto, la presunzione non è direttamente contraria alla magnanimità.
+
+Obiezione 3: Inoltre, l’uomo nobile considera i beni esterni come cose di poco valore. Ora, secondo il Filosofo (Etica, iv, 3), “a causa della fortuna esterna, le persone presuntuose disprezzano gli altri e li trattano ingiustamente, poiché ritengono che i beni esterni siano qualcosa di molto importante”. Pertanto, la presunzione è contraria alla magnanimità, non per eccesso, ma soltanto per mancanza.
+
+Al contrario, il Filosofo afferma (Etica, ii, 7; iv, 3) che l’“uomo vano”, ovvero colui che si vanta senza fondamento o che è pieno di presunzione, “si contrappone all’uomo nobile per eccesso”.
+
+Rispondo che, come già detto sopra (Q[129], A[3], ad 1), la magnanimità considera i mezzi non in base alla quantità di ciò a cui tende, ma in proporzione alle nostre proprie capacità; infatti, essa non mira mai a qualcosa che sia superiore a ciò che è appropriato per noi. L’uomo presuntuoso, invece, riguardo a ciò a cui tende, non supera il magnanimo, ma a volte rimane ben al di sotto di lui; tuttavia, in termini di proporzionalità rispetto alle proprie capacità, egli lo supera, mentre il magnanimo non supera mai le proprie. È proprio in questo modo che la presunzione si contrappone alla magnanimità, attraverso un eccesso.
+
+Risposta all’Obiezione 1: Non ogni presunzione può essere considerata un peccato contro lo Spirito Santo; soltanto quella che comporti il disprezzo per la giustizia divina a causa di una fiducia eccessiva nella misericordia divina. Questo tipo di presunzione, in quanto implica il disprezzo per qualcosa di divino, è contraria alla carità, o meglio al dono della paura, che ci fa riverire Dio. Tuttavia, nella misura in cui tale disprezzo supera i limiti delle nostre capacità, può essere considerato contrario anche alla magnanimità.
+
+Risposta all’Obiezione 2: La presunzione, proprio come la magnanimità, sembra tendere verso qualcosa di grande. Infatti, di solito non definiamo una persona presuntuosa perché va oltre le proprie capacità in cose di poco conto. Tuttavia, se tale persona viene definita presuntuosa, questo tipo di presunzione non è contraria alla magnanimità, ma piuttosto a quella virtù legata all’onore ordinario, come già detto sopra (Q[129], A[2]).
+
+Risposta all’Obiezione 3: Nessuno tenta ciò che va al di là delle sue capacità, se non nel caso in cui ritenga tali capacità maggiori di quanto siano in realtà. In questo senso si può sbagliare in due modi: innanzitutto, riguardo alla quantità – ad esempio quando una persona crede di possedere più virtù, conoscenza o qualcosa del genere di quanto effettivamente abbia; in secondo luogo, riguardo al tipo di cosa che si cerca di ottenere – ad esempio quando si ritiene di essere grandi e degni di grandi cose sulla base di elementi che in realtà non lo rendono tale, come la ricchezza o i beni materiali. Come afferma il Filosofo nell’Etica (IV, 3): “Coloro che possiedono queste cose senza virtù né si considerano giustamente degni di grandi cose, né vengono correttamente definiti magnanimi”.  
+Inoltre, ciò verso cui una persona tende a volte, al di là delle sue capacità, può talvolta essere davvero qualcosa di grande, come nel caso di Pietro, il quale intendeva soffrire per Cristo, un compito che andava oltre le sue forze; altre volte, invece, si tratta di cose considerate grandi soltanto dall’opinione degli sciocchi, come indossare abiti costosi o disprezzare e ingiustamente trattare gli altri. Questo tipo di comportamento rappresenta un eccesso di magnanimità, non nella realtà, ma nell’opinione altrui. Per questo Seneca afferma nel De Quat. Virtut.: “Quando la magnanimità supera i suoi limiti, rende una persona arrogante, presuntuosa, irrequieta e desiderosa di eccellere in tutto, sia nelle parole che nelle azioni, senza alcun riguardo per i principi della virtù”. È evidente quindi che la persona presuntuosa a volte fallisce nella pratica della vera magnanimità, anche se in apparenza la supera.
+
 <span class="atom-split" data-atom="045" data-title="OF AMBITION (TWO ARTICLES)" data-chapter="OF AMBITION (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider ambition: and under this head there are two points of inquiry:
 (1) Whether it is a sin?
 (2) Whether it is opposed to magnanimity by excess?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’ambizione; in questo ambito ci sono due questioni da esaminare:  
+(1) Se sia un peccato;  
+(2) Se, nel suo eccesso, sia contraria alla magnanimità.
 
 <span class="atom-split" data-atom="046" data-title="Whether ambition is a sin?" data-chapter="Whether ambition is a sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -2116,6 +2811,24 @@ the wicked, "through lack of the good arts, make use of deceit and falsehood." Y
 for the sake of honor, either do good or avoid evil, are not virtuous, according to the Philosopher
 (Ethic. iii, 8), where he says that they who do brave things for the sake of honor are not truly brave.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’ambizione non sia un peccato. Infatti, l’ambizione indica il desiderio di onore, e l’onore è di per sé una cosa buona, anzi il più grande dei beni esterni; pertanto coloro che non si curano dell’onore vengono rimproverati. Quindi l’ambizione non è un peccato; al contrario, merita lode, poiché desiderare qualcosa di buono è degno di elogio.
+
+Obiezione 2: Inoltre, chiunque può desiderare, senza peccare, ciò che gli spetta come ricompensa. Ora, onore è la ricompensa della virtù, come afferma il Filosofo (Etica, i, 12; iv, 3; viii, 14). Pertanto, l’ambizione per l’onore non è un peccato.
+
+Obiezione 3: Inoltre, ciò che incoraggia un uomo a compiere il bene e lo dissuade dal commettere il male non è un peccato. L’onore, infatti, incoraggia le persone a fare del bene e ad evitare il male; per questo il Filosofo afferma (Etica, iii, 8) che “nei più coraggiosi, i codardi sono considerati disonoriabili, mentre i coraggiosi sono onorati”; inoltre Tullio sostiene (De Tusc. Quaest., i) che “l’onore favorisce lo sviluppo delle arti”. Pertanto, l’ambizione non è un peccato.
+
+Al contrario, è scritto (1 Corinzi 13:5) che “la carità non è ambiziosa, non cerca ciò che le appartiene”. Ora, nulla è contrario alla carità, tranne il peccato; pertanto, l’ambizione è un peccato.
+
+Rispondo che, come già detto sopra (Q[103], AA[1],2), l’onore rappresenta il rispetto dimostrato verso una persona in testimonianza della sua eccellenza. Ora, riguardo all’onore umano, bisogna considerare due aspetti principali. Il primo è che l’eccellenza di un uomo non deriva da lui stesso, poiché essa rappresenta, per così dire, qualcosa di divino in lui; pertanto, in questo senso, l’onore spetta principalmente a Dio, e non all’uomo stesso. Il secondo aspetto da considerare è che l’eccellenza umana viene data da Dio affinché possa essere utilizzata al beneficio degli altri; quindi, un uomo dovrebbe essere felice quando gli altri riconoscono la sua eccellenza, poiché ciò gli permette di aiutare gli altri. Tuttavia, il desiderio di onore può diventare eccessivo in tre modi: primo, quando un uomo desidera che venga riconosciuta un’eccellenza che in realtà non possiede; questo significa desiderare più onore di quanto gli spetti. Secondo, quando un uomo cerca onore per sé stesso senza riferirlo a Dio. Terzo, quando il desiderio di onore si basa esclusivamente sul proprio interesse personale, senza considerare il beneficio altrui. Poiché l’ambizione rappresenta un desiderio eccessivo di onore, è evidente che sia sempre un peccato.
+
+Risposta all’Obiezione 1: Il desiderio del bene deve essere regolato dalla ragione; se supera tale regola, diventa peccaminoso. In questo senso, è peccaminoso desiderare onore in modo contrario all’ordine stabilito dalla ragione. Coloro che non prestano attenzione all’onore secondo i dettami della ragione, e quindi evitano ciò che è contrario all’onore stesso, vengono rimproverati.
+
+Risposta all’Obiezione 2: L’onore non è la ricompensa della virtù, per quanto riguarda l’uomo virtuoso; quest’ultimo, infatti, non la cerca come tale ricompensa, poiché ciò che desidera è la felicità, che costituisce lo scopo stesso della virtù. Tuttavia, si dice che l’onore sia la ricompensa della virtù per quanto riguarda gli altri, i quali non dispongono di nulla di più prezioso dell’onore per premiare chi agisce virtuosamente; tale onore acquisisce il proprio valore proprio perché testimonia la virtù stessa. Pertanto, è evidente che non costituisca una ricompensa adeguata, come affermato nell’Etica IV, 3.
+
+Risposta all’Obiezione 3: Proprio come alcune persone sono incoraggiate a compiere il bene e scoraggiate dal commettere il male per desiderio di onore, se tale desiderio è moderato; allo stesso modo, se esso è eccessivo, può diventare per l’uomo un motivo per compiere molte azioni malvagie, soprattutto quando una persona non si preoccupa dei mezzi con cui ottenere onore. Per questo Sallustio afferma (nei “Catilina”) che “sia i buoni che i cattivi desiderano l’onore per sé stessi, ma i primi lo perseguono con i giusti metodi, mentre i secondi, a causa della mancanza di virtù, ricorrono alla frode e alla menzogna”. Tuttavia, coloro che compiono il bene o evitano il male soltanto per motivi legati all’onore non sono considerati virtuosi, secondo quanto afferma il Filosofo (Etica, iii, 8), il quale sostiene che coloro che compiono azioni coraggiose per amore dell’onore non siano veramente coraggiosi.
+
 <span class="atom-split" data-atom="047" data-title="Whether ambition is opposed to magnanimity by excess?" data-chapter="Whether ambition is opposed to magnanimity by excess?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that ambition is not opposed to magnanimity by excess. For one mean
@@ -2160,6 +2873,24 @@ shall come into your assembly a man having a golden ring, in fine apparel . . . 
 say to him: Sit thou here well," etc. Wherefore ambition does not regard outward worship, except
 in so far as this is a kind of honor.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’ambizione non sia contraria alla magnanimità quando esagerata. Infatti, ogni mezzo ha soltanto un estremo opposto a esso su un certo versante. Ora, come detto sopra (Q[130], A[2]), l’arroganza è contraria alla magnanimità quando esagerata; pertanto anche l’ambizione non dovrebbe essere contraria alla magnanimità quando esagerata.
+
+Obiezione 2: Inoltre, la magnanimità riguarda gli onori; mentre l’ambizione sembra essere orientata verso posizioni di dignità: infatti è scritto (2 Maccabei 4:7) che “Giacomo cercò con ambizione il sommo sacerdozio”. Pertanto, l’ambizione non è in contraddizione con la magnanimità.
+
+Obiezione 3: Inoltre, l’ambizione sembra essere legata alle apparenze esterne; infatti è scritto (Atti 25:27) che “Agrippa e Berenice, con grande pompa entrarono nel pretorio”, e anche (2 Par. 16:14) che quando Asa morì “bruciarono spezie e unguenti sul suo corpo” con estrema magnificenza. Tuttavia, la magnanimità non riguarda le apparenze esterne; pertanto l’ambizione non è in contraddizione con la magnanimità.
+
+Al contrario, Tullio afferma nel “De Officiis” che “quanto più un uomo eccelle in magnanimità, tanto di più desidera dominare gli altri soltanto per sé”. Ma ciò riguarda l’ambizione; pertanto, l’ambizione indica un eccesso di magnanimità.
+
+Rispondo che, come già detto sopra (A[1]), l’ambizione indica un amore eccessivo per l’onore. Ora, la magnanimità riguarda proprio gli onori e li utilizza in modo appropriato. Pertanto è evidente che l’ambizione sia opposta alla magnanimità, così come ciò che è eccessivo è opposto a ciò che è ben ordinato.
+
+Risposta all’Obiezione 1: La magnanimità riguarda due aspetti. Da un lato, considera qualcosa come proprio fine, nel senso che si tratta di imprese grandi che una persona magnanima cerca di compiere in proporzione alle proprie capacità. In questo caso, la presunzione contrasta con la magnanimità quando va oltre i limiti delle possibilità umane; infatti, la persona presuntuosa tenta imprese troppo grandi per le sue forze. Dall’altro lato, la magnanimità riguarda anche il “materiale” su cui si fonda: l’onore, che viene utilizzato in modo corretto e appropriato. In questo caso, l’ambizione contrasta con la magnanimità quando diventa eccessiva. Non è nemmeno impossibile che un certo comportamento vada oltre i limiti desiderati sotto diversi aspetti.
+
+Risposta all’Obiezione 2: L’onore è dovuto a coloro che si trovano in una posizione di dignità, a causa di una certa eccellenza della loro condizione; pertanto, un desiderio eccessivo di raggiungere posizioni di dignità rientra nell’ambito dell’ambizione. Infatti, se un uomo provasse un desiderio smisurato per una posizione di dignità non per motivi legati all’onore, ma al desiderio di utilizzare tale dignità in modo che superi le sue capacità, non sarebbe ambizioso, ma presuntuoso.
+
+Risposta all’Obiezione 3: La stessa solennità dell’[adorazione](/concepts/religion) esteriore rappresenta una forma di onore; pertanto, in tali casi è consuetudine dimostrare rispetto. Ciò è evidenziato dalle parole di Giacomo 2:2-3: “Se nella vostra assemblea entrasse un uomo con un anello d’oro e vestiti lussuosi, e voi gli diceste: ‘Siedi qui, in posizione d’onore’, ecc.” Pertanto, l’ambizione non riguarda l’adorazione esteriore, se non nella misura in cui essa costituisce una forma di onore.
+
 <span class="atom-split" data-atom="048" data-title="OF VAINGLORY (FIVE ARTICLES)" data-chapter="OF VAINGLORY (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider vainglory: under which head there are five points of inquiry:
@@ -2168,6 +2899,15 @@ We must now consider vainglory: under which head there are five points of inquir
 (3) Whether it is a mortal sin?
 (4) Whether it is a capital vice?
 (5) Of its daughters.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’orgoglio: in questo ambito vi sono cinque punti da esaminare:
+(1) Se il desiderio di gloria sia un peccato;
+(2) Se sia contrario alla magnanimità;
+(3) Se sia un peccato mortale;
+(4) Se sia un vizio capitale;
+(5) E, infine, le sue “figlie”.
 
 <span class="atom-split" data-atom="049" data-title="Whether the desire of glory is a sin?" data-chapter="Whether the desire of glory is a sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -2243,6 +2983,24 @@ persevere therein and to become better. In this sense it is praiseworthy that a 
 of his good name," and that he should "provide good things in the sight of God and men": but not
 that he should take an empty pleasure in human praise.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il desiderio di gloria non sia un peccato. Infatti, nessuno pecca quando viene paragonato a Dio; anzi, ci viene comandato (Efesini 5:1): “Siate, seguaci di Dio, come figli molto amati”. Nel cercare la gloria, l’uomo sembra imitare Dio, che cerca la gloria dagli uomini; per questo si legge (Isaia 43:6-7): “Portate i miei figli da lontano, le mie figlie dai confini della terra; chiunque chiami il mio nome, io l’ho creato per la mia gloria”. Pertanto, il desiderio di gloria non è un peccato.
+
+Obiezione 2: Inoltre, ciò che spinge una persona a compiere il bene non è evidentemente un peccato. Il desiderio di gloria, infatti, induce le persone a fare del bene. Tullio, nel suo “De Tusc. Quaest.” I, afferma che “la gloria incita ogni uomo a sforzarsi al massimo”; inoltre, le Scritture promettono la gloria per le buone azioni, come si legge in Romani 2:7: “A coloro che, con pazienza, compiono opere buone, sarà data gloria e onore”. Pertanto, il desiderio di gloria non è un peccato.
+
+Obiezione 3: Inoltre, Tullio afferma (De Invent. Rhet. ii) che la gloria sia “una buona reputazione riguardo a una persona, unita alla lode”; ciò equivale a quanto dice [Agostino](/figures/augustine) (Contra Maximin. iii), ovvero che la gloria sia “come una conoscenza chiara accompagnata dalla lode”. Desiderare una reputazione lodevole non è certo un peccato; anzi, sembra proprio richiedere lode, secondo Ecclesiaste 41:15 (“Prenditi cura di una buona reputazione”) e Romani 12:17 (“Fai del bene non solo agli occhi di Dio, ma anche agli occhi di tutti gli uomini”). Pertanto, il desiderio di gloria non è un peccato.
+
+Al contrario, Agostino afferma nel “De Civitate Dei” V: “È più saggio colui che riconosce che anche l’amore per la lode è peccaminoso”.
+
+Rispondo che la gloria indica una certa chiarezza; per questo Agostino afferma (Trattato lxxxii, c, cxiv in Giovanni) che “essere glorificati significa essere resi chiari”. Ora, la chiarezza e la bellezza implicano una sorta di manifestazione: pertanto il termine “gloria” indica propriamente la manifestazione di qualcosa che appare bello agli occhi degli uomini, sia esso un bene fisico che uno spirituale. Poiché ciò che è chiaro può essere visto da molti, anche da coloro che si trovano lontani, ne consegue che il termine “gloria” indica propriamente che il bene di qualcuno sia conosciuto e approvato da molti, come afferma Sallustio (Catalina): “Non devo vantarmi mentre parlo con una sola persona”. Ma se consideriamo il termine “gloria” in senso più ampio, esso non consiste soltanto nella conoscenza di molti, ma anche in quella di pochi, o di uno solo, o addirittura di sé stesso, quando si ritiene che il proprio bene meriti lode. Non è peccato conoscere e approvare il proprio bene: infatti è scritto (1 Corinzi 2:12): “Non abbiamo ricevuto lo spirito di questo mondo, ma lo Spirito di Dio, affinché possiamo conoscere ciò che ci è stato dato da Dio”. Altrettanto non è peccato essere disposti ad approvare le proprie buone azioni: poiché è scritto (Matteo 5:16): “Lasciate che la vostra luce brilli davanti agli uomini”. Pertanto, il desiderio di gloria in sé non indica necessariamente un peccato; ma il desiderio di una gloria vuota o vana sì, poiché è peccaminoso desiderare qualcosa di vano, come dice il Salmo 4:3: “Perché ami la vanità e cerchi le menzogne?”. La gloria può essere considerata vana in tre modi: primo, riguardo all’oggetto per cui si cerca la gloria; ad esempio, quando si cerca gloria per qualcosa che non la merita, come per qualcosa di fragile e effimero. Secondo, riguardo alla persona da cui si cerca la gloria, soprattutto se il suo giudizio è incerto. Terzo, riguardo alla persona stessa che cerca la gloria, quando tale desiderio non è indirizzato verso uno scopo legittimo, come l’onore di Dio o il bene spirituale del prossimo.
+
+Risposta all’Obiezione 1: Come afferma Agostino riguardo a Giovanni 13:13, “Mi chiamate Maestro e Signore; ed è bene che lo facciate” (Trattato lviii su Giovanni): “L’autocompiacimento è pieno di pericoli, soprattutto per chi deve stare attento alla vanità. Ma Colui che è al di sopra di tutto, per quanto possa lodarsi, non si eleva mai da solo. La conoscenza di Dio è infatti una nostra necessità, non Sua; nessun uomo può conoscerLo se non viene istruito da Colui che Lo conosce”. È quindi evidente che Dio cerca la gloria, non per sé stesso, ma per noi. Allo stesso modo, un uomo può legittimamente cercare la propria gloria a beneficio degli altri, secondo Matteo 5:16: “Affinché vedano le vostre buone opere e glorifichino il Vostro Padre che è in cielo”.
+
+Risposta all’Obiezione 2: Quello che riceviamo da Dio non è una gloria vana, ma vera; è proprio questa gloria che viene promessa come ricompensa per le buone opere, e di cui si legge (2 Corinzi 10:17-18): “Chi si vanta, si vanti nel Signore; infatti non colui che si loda da sé stesso è approvato, ma colui che viene lodato da Dio”. È vero che alcuni sono spinti a compiere opere virtuose per desiderio di gloria umana, così come per il desiderio di altri beni terreni. Tuttavia, colui che compie atti virtuosi al solo scopo di ottenere gloria umana non è veramente virtuoso, come dimostra Agostino nel “De Civitate Dei” V.
+
+Risposta all’Obiezione 3: È necessario per la perfezione dell’uomo che egli conosca se stesso; ma non è necessario che altri lo conoscano, pertanto ciò non deve essere desiderato in sé stesso. Tuttavia, può essere desiderato in quanto utile a qualcosa: sia affinché Dio venga glorificato dagli uomini, sia affinché gli uomini possano migliorare grazie al bene che riconoscono nell’altro, sia ancora affinché l’uomo, conoscendo attraverso le lodi altrui il bene che è in lui, si sforzi di perseverarvi e di migliorare. In questo senso, è lodevole che un uomo “si prenda cura della propria buona reputazione” e che “procuri cose buone agli occhi di Dio e degli uomini”; ma non è lodevole che egli tragga piacere vuoto dalle lodi umane.
+
 <span class="atom-split" data-atom="050" data-title="Whether vainglory is opposed to magnanimity?" data-chapter="Whether vainglory is opposed to magnanimity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that vainglory is not opposed to magnanimity. For, as stated above (A[1]),
@@ -2291,6 +3049,24 @@ Reply to Objection 3: As stated above (Q[127], A[2], ad 2), the opposition of vi
 depend on their effects. Nevertheless contention, if done intentionally, is opposed to magnanimity:
 since no one contends save for what he deems great. Wherefore the Philosopher says (Ethic. iv, 3)
 that the magnanimous man is not contentious, because nothing is great in his estimation.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la vanità non sia contraria alla magnanimità. Infatti, come detto sopra (A[1]), la vanità consiste nel gloriarsi di cose che non esistono, il che riguarda la falsità; oppure in cose terrene e effimere, il che riguarda l’avidità; o nel giudizio degli uomini, il cui valore è incerto, il che riguarda l’imprudenza. Ora questi vizi non sono contrari alla magnanimità. Pertanto, la vanità non è contraria alla magnanimità.
+
+Obiezione 2: Inoltre, la vanità non è contrapposta alla magnanimità in termini di difetto, poiché ciò sembrerebbe incompatibile con la natura stessa della vanità; né è contrapposta ad essa in termini di eccesso, poiché in questo caso l’arroganza e l’ambizione costituirebbero le vere opposizioni alla magnanimità, come già detto sopra (Q[130], A[2]; Q[131], A[2]); e queste caratteristiche differiscono nettamente dalla vanità. Pertanto, la vanità non è contrapposta alla magnanimità.
+
+Obiezione 3: Inoltre, un commento a Filosofi 2:3, “Che nulla venga fatto attraverso contese né per vanità”, afferma: “Alcuni di loro erano inclini alla discordia e all’irrequietezza, litigando tra loro per motivi di vanità”. Ma la contesa [*Cfr. Q[38 non è contraria alla magnanimità; né lo è la vanità stessa.
+
+Al contrario, Tully afferma (De Offic. i), nell’ambito della discussione intitolata “La magnanimità consiste in due cose”: “Dovremmo stare attenti al desiderio di gloria, poiché esso schiavizza la mente, che un uomo magnanimo dovrebbe sempre sforzarsi di mantenere libera”. Pertanto, tale desiderio è contrario alla natura della magnanimità.
+
+Rispondo che, come già detto sopra (Q[103], A[1], ad 3), la gloria è un effetto dell’onore e della lode: poiché, quando un uomo viene lodato o gli viene dimostrata qualche forma di rispetto, acquisisce stima negli occhi degli altri. E poiché la magnanimità riguarda l’onore, come affermato sopra (Q[129], AA[1],2), ne consegue che riguarda anche la gloria; infatti, quando un uomo utilizza l’onore in modo moderato, allo stesso modo utilizza anche la gloria in modo moderato. Pertanto, un desiderio eccessivo di gloria è direttamente opposto alla magnanimità.
+
+Risposta all’Obiezione 1: Considerare le cose piccole con tale importanza da gloriarsene è in sé contrario alla magnanimità. Per questo motivo, del uomo magnanimo si dice (Etica iv) che l’onore non abbia per lui grande valore; allo stesso modo, egli dà poca importanza ad altre cose ricercate al fine di ottenere onore, come potere e ricchezza. Inoltre, gloriarsi di ciò che non esiste è incompatibile con la magnanimità; per questo motivo, del uomo magnanimo si dice che prenda più cura della verità che dell’opinione altrui. Infine, è incompatibile con la magnanimità gloriarsi dei complimenti umani, come se questi rappresentassero qualcosa di davvero importante; per questo motivo, del uomo magnanimo si dice che non gli importi essere lodato. Quindi, quando un uomo considera le cose piccole come grandi, nulla impedisce che ciò sia contrario alla magnanimità, così come ad altre virtù.
+
+Risposta all’Obiezione 2: Chi desidera la gloria non è davvero nobile, poiché si vanta di ciò che un uomo nobile considera insignificante, come già detto nella risposta precedente. Tuttavia, se consideriamo il suo modo di valutare le cose, egli si contrappone all’uomo nobile per eccesso: la gloria che cerca, secondo lui, è qualcosa di molto importante, e tende ad ottenerla in misura superiore ai suoi meriti.
+
+Risposta all’Obiezione 3: Come già detto sopra (Q[127], A[2], ad 2), l’opposizione tra vizi non dipende dai loro effetti. Tuttavia, il contendere, se fatto intenzionalmente, è contrario alla magnanimità: infatti nessuno contende se non per ciò che ritiene grande. Per questo motivo il Filosofo afferma (Etica iv, 3) che l’uomo magnanimo non è incline al contendere, poiché nulla gli sembra degno di considerazione come qualcosa di grande.
 
 <span class="atom-split" data-atom="051" data-title="Whether vainglory is a mortal sin?" data-chapter="Whether vainglory is a mortal sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -2354,6 +3130,24 @@ Reply to Objection 3: Vainglory is stated to be a dangerous sin, not only on acc
 gravity, but also because it is a disposition to grave sins, in so far as it renders man presumptuous
 and too self-confident: and so it gradually disposes a man to lose his inward goods.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’orgoglio sia un peccato mortale. Infatti, nulla può impedire la ricompensa eterna se non un peccato mortale. Ora, l’orgoglio impedisce proprio la ricompensa eterna; poiché è scritto (Matteo 6:1): “State attenti a non giudicare con giustizia davanti agli uomini per essere visti da loro; altrimenti non riceverete alcuna ricompensa dal Padre vostro che è in cielo”. Pertanto, l’orgoglio è un peccato mortale.
+
+Obiezione 2: Inoltre, chi si appropria di ciò che appartiene a Dio commette un peccato mortale. Desiderando la vanità, infatti, l’uomo si appropria di ciò che è destinato a Dio. È scritto infatti (Isaia 42:8): “Non darò la mia gloria ad altri”, e (1 Timoteo 1:17): “All’unico Dio appartengano onore e gloria”. Pertanto, la vanità è un peccato mortale.
+
+Obiezione 3: Inoltre, apparentemente un peccato è mortale se è particolarmente pericoloso e dannoso. Ora, l’orgoglio appartiene a questo tipo di peccati, poiché una spiegazione di [Agostino](/figures/augustine) su 1 Tessalonicesi 2:4, “Dio, che mette alla prova i nostri cuori”, afferma: “Se un uomo non lotta contro l’amore per la gloria umana, non comprenderà mai il suo potere dannoso; infatti, anche se è facile non desiderare lodi finché non si ricevono, è difficile non provare piacere quando queste vengono offerte”. Anche Crisostomo dice (Hom. xix in Matth.) che “l’orgoglio entra di nascosto e ci priva, senza che ce ne accorgiamo, di tutte le nostre qualità interiori”. Pertanto, l’orgoglio è un peccato mortale.
+
+Al contrario, Crisostomo afferma nell’[*Homilia XIII dell’“Opus Imperfectum” falsamente attribuito a San Giovanni Crisostomo*] che “mentre altri vizi hanno la loro dimora nei servitori di Satana, l’orgoglio trova spazio persino tra i servitori di Cristo”. Tuttavia, tra questi ultimi non esiste alcun peccato mortale; pertanto, l’orgoglio non è un peccato mortale.
+
+Rispondo che, come già detto sopra (Q[24], A[12]; Q[110], A[4]; Q[112], A[2]), il peccato è mortale in quanto contrario alla carità. Ora, il peccato dell’orgoglio, considerato in sé stesso, non sembra essere contrario alla carità riguardo all’amore per il prossimo; tuttavia, riguardo all’amore per Dio, può esserlo in due modi. In primo luogo, a causa dell’oggetto di cui ci si vanta: ad esempio, quando si vanta di qualcosa di falso che è contrario al rispetto che dobbiamo a Dio, come dice Ezechiele 28:2: “Il tuo cuore si è elevato e dici: ‘Io sono Dio’”, e 1 Corinzi 4:7: “Che cosa hai tu che non sia stato dato? E se l’hai ricevuto, perché ti vanti come se non l’avessi ricevuto?” Oppure quando una persona dà preferenza ai beni temporali di cui si vanta rispetto a Dio; questo è proibito (Geremia 9:23-24): “Non si vanti il saggio della sua sapienza, né il forte della sua forza, né il ricco delle sue ricchezze. Ma colui che si vanta si vanti di comprendere e conoscere Me”. Inoltre, quando una persona dà preferenza al giudizio umano rispetto a quello di Dio; così è scritto per rimproverare alcune persone (Giovanni 12:43): “Perché amavano la gloria degli uomini più della gloria di Dio”. In secondo luogo, l’orgoglio può essere contrario alla carità anche da parte di colui che si vanta, se considera lo scopo finale del proprio agire la ricerca della lode umana; in questo caso, indirizza anche le azioni virtuose verso tale scopo e, pur di ottenerla, non esita a compiere anche ciò che è contrario a Dio. In questo modo, si tratta di un peccato mortale. Per questo Agostino dice (De Civ. Dei V, 14) che “questo vizio”, cioè l’amore per la lode umana, “è così ostile alla fede pia, se il cuore desidera la gloria più di quanto tema o ami Dio, che il nostro Signore disse (Giovanni 5:44): ‘Come potete credere voi che ricevete la gloria gli uni dagli altri, mentre non cercate quella gloria che viene soltanto da Dio?’”. Tuttavia, se l’amore per la lode umana, pur essendo vano, non è incompatibile con la carità, né riguardo all’oggetto della sua venerazione né riguardo allo scopo per cui si cerca, allora non si tratta di un peccato mortale, ma di un peccato veniale.
+
+Risposta all’Obiezione 1: Nessun uomo, peccando, merita la vita eterna; pertanto anche un atto virtuoso perde la sua capacità di meritare la vita eterna se compiuto per vanità, anche quando tale vanità non costituisce un peccato mortale. D’altra parte, quando un uomo perde la ricompensa eterna soltanto a causa della vanità, e non solo in relazione a un singolo atto, allora la vanità è considerata un peccato mortale.
+
+Risposta all’Obiezione 2: Non ogni uomo che desidera la gloria desidera l’eccellenza che appartiene esclusivamente a Dio. Infatti, la gloria dovuta a Dio è diversa dalla gloria dovuta a un uomo virtuoso o ricco.
+
+Risposta all’Obiezione 3: Si afferma che l’orgoglio sia un peccato pericoloso, non solo a causa della sua gravità, ma anche perché rappresenta una disposizione verso peccati gravi, poiché rende l’uomo presuntuoso e troppo sicuro di sé; in questo modo, gradualmente conduce l’uomo alla perdita dei suoi beni interiori.
+
 <span class="atom-split" data-atom="052" data-title="Whether vainglory is a capital vice?" data-chapter="Whether vainglory is a capital vice?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that vainglory is not a capital vice. For a vice that always arises from
@@ -2400,6 +3194,24 @@ Reply to Objection 3: Vainglory stands prominent under the aspect of desirabilit
 reason given above, and this suffices for it to be reckoned a capital vice. Nor is it always necessary
 for a capital vice to be a mortal sin; for mortal sin can arise from venial sin, inasmuch as venial sin
 can dispose man thereto.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la vanità non sia un vizio capitale. Infatti, un vizio che derivi sempre da un altro vizio non dovrebbe essere considerato capitale. Ma la vanità deriva sempre dall’orgoglio; pertanto, la vanità non è un vizio capitale.
+
+Obiezione 2: Inoltre, l’onore sembrerebbe avere la precedenza sulla gloria, poiché questa ne è l’effetto diretto. Ora, l’ambizione – che rappresenta un desiderio eccessivo di onore – non costituisce un vizio grave; pertanto, nemmeno il desiderio di vanagloria lo è.
+
+Obiezione 3: Inoltre, un vizio capitale possiede una certa rilevanza. Ma l’orgoglio sembra non avere alcuna rilevanza, né come peccato – poiché non è sempre un peccato mortale – né come bene desiderabile, dato che la gloria umana appare essere qualcosa di fragile e esterno all’uomo stesso. Pertanto, l’orgoglio non è considerato un vizio capitale.
+
+Al contrario, Gregorio (Morali, xxxi) considera la vanità tra i sette vizi capitali.
+
+Rispondo che i vizi capitali vengono elencati in due modi diversi. Alcuni considerano l’orgoglio tra di essi; tuttavia, Gregorio (Moralia, xxxi) ritiene che l’orgoglio sia la regina di tutti i vizi e che la vanità, sua diretta conseguenza, sia anch’essa un vizio capitale: e non senza motivo. L’orgoglio, come vedremo più avanti (Q[152], AA[1],2), indica infatti un desiderio eccessivo di eccellenza. Ogni bene che si desideri comporta necessariamente una certa perfezione ed eccellenza; pertanto lo scopo di ogni vizio è in qualche modo legato all’orgoglio, il quale sembra esercitare una sorta di influenza causale sugli altri vizi. Non dovrebbe quindi essere considerato tra le fonti principali dei vizi, ovvero i vizi capitali. Tra i beni che permettono all’uomo di ottenere onore, la gloria sembra essere il più efficace mezzo per raggiungere questo scopo, poiché rappresenta la manifestazione della bontà umana; e la bontà, naturalmente, è amata e rispettata da tutti. Pertanto, proprio come attraverso la gloria agli occhi di Dio l’uomo ottiene onore nelle cose divine, così attraverso la gloria agli occhi degli uomini ottiene eccellenza nelle cose umane. Data questa stretta connessione con l’eccellenza, che gli uomini desiderano più di ogni altra cosa, ne consegue che la gloria sia il bene più desiderabile. E poiché molti vizi derivano da un desiderio eccessivo di essa, si può affermare che la vanità sia effettivamente un vizio capitale.
+
+Risposta all’Obiezione 1: Non è impossibile che un vizio capitale derivi dall’orgoglio, poiché, come detto in precedenza (nel corpo dell’articolo e nella FS, Q[84], A[2]), l’orgoglio è la regina e la madre di tutti i vizi.
+
+Risposta all’Obiezione 2: La lode e l’onore, come detto sopra (A[2]), hanno una relazione con la gloria nel senso di essere le cause da cui essa deriva; pertanto la gloria viene considerata il loro fine. Il motivo per cui un uomo desidera essere onorato e lodato è che ritiene di poter così acquisire una certa reputazione agli occhi degli altri.
+
+Risposta all’Obiezione 3: La vanità emerge in modo evidente dal punto di vista della desiderabilità, per le ragioni sopra indicate, e questo basta affinché venga considerata un vizio capitale. Inoltre, non è sempre necessario che un vizio capitale sia anche un peccato mortale; infatti, il peccato mortale può derivare da un peccato veniale, poiché quest’ultimo può predisporre l’uomo a commetterlo.
 
 <span class="atom-split" data-atom="053" data-title="Whether the daughters of vainglory are suitably reckoned to be disobedience, boastfulness, hypocrisy, contention, obstinacy, discord, and love of novelties?" data-chapter="Whether the daughters of vainglory are suitably reckoned to be disobedience, boastfulness, hypocrisy, contention, obstinacy, discord, and love of novelties?" data-kind="atom" data-srclang="en"></span>
 
@@ -2449,11 +3261,35 @@ lack of charity apparent in one who prefers vainglory to the good of his neighbo
 does the latter for the sake of the former. But a man is not reproved for presuming to give alms as
 though this were something novel.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le “figlie della vanità” vengano in modo improprio considerate come “disobbedienza, presunzione, ipocrisia, contesa, ostinazione, discordia ed eccentricità”. Infatti, secondo Gregorio (Morale, xxiii), la presunzione rientra tra le forme di orgoglio; ma l’orgoglio non deriva dalla vanità, bensì il contrario, come afferma lo stesso Gregorio (Morale, xxxi). Pertanto, la presunzione non dovrebbe essere considerata una delle “figlie della vanità”.
+
+Obiezione 2: Inoltre, sembra che contese e dissidi siano principalmente il risultato dell’[ira](/concepts/anger). Ma l’ira è un vizio grave condiviso anche dall’orgoglio. Pertanto, pare che tali fenomeni non derivino direttamente dall’orgoglio stesso.
+
+Obiezione 3: Inoltre, Crisostomo afferma (Hom. xix in Matth.) che l’orgoglio è sempre malvagio, soprattutto nell’ambito della filantropia, cioè della misericordia. Eppure ciò non rappresenta nulla di nuovo, poiché si tratta di una consolidata [consuetudine](/concepts/custom) tra gli uomini. Pertanto, l’eccentricità non dovrebbe essere considerata in modo particolare come un’espressione dell’orgoglio.
+
+Al contrario, vi è l’autorità di Gregorio (Morale, xxxi), il quale assegna le suddette figlie della vanità.
+
+Rispondo che, come già detto sopra (Q[34], A[5]; Q[35], A[4]; FS, Q[84], AA[3],4), i vizi che per loro natura mirano a realizzare un certo vizio principale sono chiamati suoi “figli”. Ora, lo scopo della vanità è la manifestazione della propria eccellenza, come indicato in precedenza (AA[1],4); e verso questo scopo un uomo può tendere in due modi. In uno modo diretto: sia attraverso le parole – il che costituisce l’arroganza – sia attraverso i fatti; se questi sono veri e suscitano ammirazione, si tratta dell’amore per la novità, che è ciò che gli uomini ammirano di più; se invece sono falsi, allora si tratta di ipocrisia. In un altro modo, un uomo cerca di far conoscere la propria eccellenza dimostrando di non essere inferiore agli altri, e questo avviene in quattro modi: primo, riguardo all’intelletto – e qui abbiamo l’“ostinazione”, ovvero l’eccessiva attaccamento alle proprie opinioni, riluttanza a credere in quelle migliori; secondo, riguardo alla volontà – e qui abbiamo il “disaccordo”, ovvero la riluttanza ad abbandonare le proprie idee per concordare con gli altri; terzo, riguardo al linguaggio – e qui abbiamo il “litigio”, ovvero l’abitudine di discutere rumorosamente con gli altri; quarto, riguardo ai fatti – e qui abbiamo la “disobbedienza”, ovvero il rifiuto di seguire gli ordini dei superiori.
+
+Risposta all’Obiezione 1: Come già detto sopra (Q[112], A[1], ad 2), la vanteria è considerata un tipo di orgoglio, in quanto derivante dall’arroganza; ma la vanteria esteriore, secondo l’Etica iv, ha spesso lo scopo di ottenere qualcosa, ma più frequentemente quello di gloria e onore, ed è quindi il risultato dell’ambizione.
+
+Risposta all’Obiezione 2: L’ira non è la causa di dissidi e contese, se non in combinazione con l’orgoglio, quando un uomo ritiene che sia glorioso non cedere alla volontà e alle parole altrui.
+
+Risposta all’Obiezione 3: La vanità viene rimproverata in relazione alle opere di carità, poiché si nota la mancanza di carità in colui che preferisce la vanità al bene del proprio prossimo, visto che compie queste azioni soltanto per ottenere lodi. Tuttavia, un uomo non viene rimproverato se si permette di fare opere di carità, anche se ciò potrebbe essere considerato qualcosa di nuovo o insolito.
+
 <span class="atom-split" data-atom="054" data-title="OF PUSILLANIMITY (TWO ARTICLES)" data-chapter="OF PUSILLANIMITY (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider pusillanimity. Under this head there are two points of inquiry:
 (1) Whether pusillanimity is a sin?
 (2) To what virtue is it opposed?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la codardia. In questo ambito ci sono due questioni da esaminare:  
+(1) Se la codardia sia un peccato;  
+(2) A quale virtù sia opposta.
 
 <span class="atom-split" data-atom="055" data-title="Whether pusillanimity is a sin?" data-chapter="Whether pusillanimity is a sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -2517,6 +3353,29 @@ Reply to Objection 4: Moses and Jeremias were worthy of the office to which they
 appointed by God, but their worthiness was of Divine grace: yet they, considering the insufficiency
 of their own weakness, demurred; though not obstinately lest they should fall into pride.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la codardia non sia un peccato. Infatti, ogni peccato rende l’uomo malvagio, proprio come ogni virtù lo rende buono. Ma una persona debole di carattere non è malvagia, come afferma il Filosofo (Etica, iv, 3). Pertanto, la codardia non è un peccato.
+
+Obiezione 2: Inoltre, il Filosofo afferma (Etica, IV, 3) che “un uomo debole di volontà è proprio colui che merita grandi beni, ma non si ritiene degno di essi”. Ora, nessuno è degno di grandi beni se non il virtuoso, poiché, come il Filosofo ribadisce (Etica, IV, 3), “solo i virtuosi sono veramente degni di onore”. Pertanto, gli uomini deboli di volontà sono virtuosi; e di conseguenza, la pusillanimità non è un peccato.
+
+Obiezione 3: Inoltre, “L’orgoglio è l’inizio di tutti i peccati” (Ecclesiaste 10:15). Ma la codardia non deriva dall’orgoglio, poiché l’uomo orgoglioso si eleva al di sopra di ciò che realmente è, mentre l’uomo timido si allontana da ciò che merita di essere. Pertanto, la codardia non è un peccato.
+
+Obiezione 4: Inoltre, il Filosofo afferma (Etica iv, 3) che “colui che si ritiene meno degno di ciò che è in realtà, viene considerato debole di volontà”. Ora, a volte anche gli uomini santi si ritengono meno degni di ciò che sono; ad esempio Mosè e Geremia, che erano degni dell’incarico per cui Dio li aveva scelti, ma lo rifiutarono umilmente (Esodo 3:11; Geremia 1:6). Pertanto, la pusillanimità non è un peccato.
+
+Al contrario, nell’agire umano non c’è nulla che debba essere evitato, tranne il peccato. Ora, la codardia deve essere evitata: poiché è scritto (Colossesi 3:21): “Padri, non irritate i vostri figli, affinché non perdano la speranza”. Pertanto, la codardia è un peccato.
+
+Rispondo che tutto ciò che è contrario a un’inclinazione naturale è un peccato, poiché va contro una legge della natura. Ora, ogni cosa possiede un’innata tendenza ad compiere azioni proporzionali alle sue capacità: come è evidente in tutte le cose naturali, sia animate che inanimate. Così come l’arroganza spinge un uomo a superare ciò che è in proporzione con le sue forze, cercando di fare di più di quanto possa, allo stesso modo la codardia lo spinge a non raggiungere ciò che è in proporzione con le sue capacità, rifiutandosi di tendere verso ciò che gli è conforme. Pertanto, poiché l’arroganza è un peccato, lo è anche la codardia. Ecco perché il servo che seppellì nella terra i soldi ricevuti dal suo padrone, per timore e debolezza di cuore, fu punito dal suo padrone (Matteo 25; Luca 19).
+
+Risposta all’Obiezione 1: Il Filosofo definisce malvagi coloro che fanno del male al loro prossimo; pertanto si dice che il timido non sia malvagio, poiché non fa del male a nessuno, se non accidentalmente, evitando di compiere azioni che potrebbero essere utili agli altri. Infatti Gregorio afferma (Pastorale I) che “se coloro che esitano nel fare del bene al proprio prossimo fossero giudicati con severità, senza dubbio la loro colpa sarebbe proporzionale al bene che avrebbero potuto compiere se non fossero stati così ritrosi”.
+
+Risposta all’Obiezione 2: Nulla impedisce a una persona che possiede un vizio virtuoso di peccare in modo veniale, senza perdere tale vizio; allo stesso modo, non vi è nulla che impedisca a una persona di peccare in modo mortale, con la conseguente perdita del proprio vizio virtuoso. Pertanto, è possibile che una persona, grazie alla virtù che possiede, sia degna di compiere azioni grandi e meritevoli di grande onore; tuttavia, se non cerca di sfruttare tale virtù, a volte pecca in modo veniale, altre volte in modo mortale.  
+Inoltre, si può ribattere che una persona debole o timida sia degna di grandi cose nella misura in cui ne ha la capacità, capacità che deriva o da una buona disposizione naturale, o dalla conoscenza, o dalla fortuna esterna; se non sfrutta queste risorse a fini virtuosi, commette colpe di pusillanimia.
+
+Risposta all’Obiezione 3: Anche la pusillanimità può, in qualche modo, essere il risultato dell’orgoglio: quando, cioè, una persona si attacca troppo alla propria opinione, ritenendosi incompetente per quelle cose di cui invece è davvero capace. Per questo si legge (Proverbi 26:16): “Il pigro è più saggio nella sua stessa presunzione di sette uomini che parlano molte parole”. Infatti, nulla gli impedisce di sottovalutarsi in alcune cose e di considerarsi molto importante in altre. Per questo Gregorio, nel suo “Pastorale”, afferma che “forse Mosè sarebbe stato orgoglioso se avesse assunto la guida di un popolo numeroso senza esitazioni; e allo stesso modo sarebbe stato orgoglioso se si fosse rifiutato di obbedire all’ordine del proprio Creatore”.
+
+Risposta all’Obiezione 4: Mosè e Geremia erano degni della carica loro affidata da Dio, ma la loro idoneità derivava dalla grazia divina; tuttavia, considerando l’inadeguatezza della propria debolezza, esitarono ad accettarla; sebbene non in modo ostinato, per evitare di cadere nella vanità.
+
 <span class="atom-split" data-atom="056" data-title="Whether pusillanimity is opposed to magnanimity?" data-chapter="Whether pusillanimity is opposed to magnanimity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that pusillanimity is not opposed to magnanimity. For the Philosopher
@@ -2577,6 +3436,28 @@ Reply to Objection 4: According to its proper species pusillanimity is a graver 
 presumption, since thereby a man withdraws from good things, which is a very great evil according
 to Ethic. iv. Presumption, however, is stated to be "wicked" on account of pride whence it proceeds.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la viltà non sia in contraddizione con la magnanimità. Infatti il Filosofo afferma (Etica, 3) che “l’uomo debole di volontà non conosce se stesso; poiché desidererebbe le cose buone di cui è degno, se solo si conoscesse”. Ora, l’ignoranza di sé sembra essere in contraddizione con la prudenza. Pertanto, la viltà dovrebbe essere in contraddizione con la prudenza.
+
+Obiezione 2: Inoltre, il nostro Signore definisce malvagio e pigro colui che, per mancanza di coraggio, rifiuta di utilizzare i soldi a disposizione. In più, il Filosofo afferma (Etica, iv, 3) che le persone timide appaiono pigre. Ora, la pigrizia è opposta alla diligenza, che rappresenta un atto di prudenza, come già detto in precedenza (Q[47], A[9]). Pertanto, la mancanza di coraggio non è opposta alla magnanimità.
+
+Obiezione 3: Inoltre, la codardia sembra derivare da un timore eccessivo; per questo si legge (Isaia 35:4): “Dite ai timidi: ‘Raccogliete coraggio e non temete’”. Sembra inoltre derivare da un’ira eccessiva, secondo Colossesi 3:21: “Padri, non irritate i vostri figli, affinché non perdano la fiducia”. Ora, il timore eccessivo è opposto alla forza d’animo, e l’ira eccessiva alla umiltà; pertanto, la codardia non è opposta alla magnanimità.
+
+Obiezione 4: Inoltre, il vizio che è in opposizione a una particolare virtù è più grave quanto più si discosta da quella virtù. Ora, la pusillanimità si discosta dalla magnanimità molto di più della presunzione. Pertanto, se la pusillanimità è opposta alla magnanimità, ne consegue che sia un peccato più grave della presunzione; tuttavia ciò è in contraddizione con quanto affermato nell’Ecclesiaste 37:3: “O malvagia presunzione, da dove sei venuta?”. Quindi la pusillanimità non è opposta alla magnanimità.
+
+Al contrario, la pusillanimità e la magnanimità si differenziano per la grandezza o la piccolezza dell’animo, come indicano appunto i loro nomi. Ora, la grandezza e la piccolezza sono concetti opposti; pertanto, la pusillanimità è l’opposto della magnanimità.
+
+Rispondo che la pusillanimità può essere considerata in tre modi. Primo, in sé stessa: è evidente che, per sua natura, sia opposta alla magnanimità, dalla quale differisce tanto quanto ciò che è grande e ciò che è piccolo differiscono riguardo allo stesso soggetto. Infatti, mentre l’uomo magnanimo tende verso le grandi imprese a causa della grandezza del suo animo, l’uomo pusillanimo si ritrae dalle grandi cose a causa della meschinità del proprio carattere. Secondo, la pusillanimità può essere considerata in relazione alla sua causa: da un punto di vista intellettuale, essa deriva dall’ignoranza delle proprie capacità; da un punto di vista emotivo, dalla paura di fallire in ciò che si ritiene erroneamente al di sopra delle proprie possibilità. Terzo, la pusillanimità può essere considerata in relazione al suo effetto: essa consiste nel ritrarsi dalle grandi cose di cui si è degni. Tuttavia, come già detto (Q[132], A[2], ad 3), l’opposizione tra vizio e virtù dipende piuttosto dalle loro rispettive nature che dalla loro causa o dal loro effetto. Pertanto, la pusillanimità è direttamente opposta alla magnanimità.
+
+Risposta all’Obiezione 1: Questo argomento considera la pusillanimità come derivante da una causa situata nell’intelletto. Tuttavia non si può affermare correttamente che essa sia contraria alla prudenza, nemmeno in relazione alla sua causa stessa; infatti, questo tipo di ignoranza non deriva dall’imprudenza, ma dalla pigrizia nel valutare le proprie capacità, come indicato nell’Etica iv, 3, o nell’adempiere a ciò che è entro i propri poteri.
+
+Risposta all’Obiezione 2: Questo argomento considera la codardia dal punto di vista dei suoi effetti.
+
+Risposta all’Obiezione 3: Questo argomento considera il punto di vista della causa. Inoltre, la paura che provoca la viltà non è sempre una paura dei pericoli della morte; pertanto, da questo punto di vista non segue necessariamente che la viltà sia contraria alla forza d’animo. Per quanto riguarda la rabbia, se la consideriamo dal punto di vista del suo movimento naturale, che spinge un uomo a cercare vendetta, essa non provoca la viltà, che scoraggia l’anima; al contrario, la elimina. Tuttavia, se consideriamo le cause della rabbia, ovvero gli offensi subiti che scoraggiano l’anima di colui che li subisce, allora essa conduce alla viltà.
+
+Risposta all’Obiezione 4: Secondo la sua vera natura, la pusillanimità è un peccato più grave della presunzione, poiché con essa l’uomo si allontana dalle cose buone, il che rappresenta un vero e proprio male, secondo l’Etica iv. Tuttavia, la presunzione viene considerata “malvagia” a causa dell’orgoglio da cui deriva.
+
 <span class="atom-split" data-atom="057" data-title="OF MAGNIFICENCE (FOUR ARTICLES)" data-chapter="OF MAGNIFICENCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider magnificence and the vices opposed to it. With regard to magnificence
@@ -2585,6 +3466,14 @@ there are four points of inquiry:
 (2) Whether it is a special virtue?
 (3) What is its matter?
 (4) Whether it is a part of fortitude?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la magnificenza e i vizi che le sono opposti. Per quanto riguarda la magnificenza, ci sono quattro punti da esaminare:  
+(1) Se la magnificenza sia una virtù;  
+(2) Se sia una virtù specifica;  
+(3) Qual ne sia l’oggetto;  
+(4) Se faccia parte della forza d’animo.
 
 <span class="atom-split" data-atom="058" data-title="Whether magnificence is a virtue?" data-chapter="Whether magnificence is a virtue?" data-kind="atom" data-srclang="en"></span>
 
@@ -2639,6 +3528,28 @@ dwelling, as stated in Ethic. iv.
 Reply to Objection 4: As the Philosopher says (Ethic. vi, 5) "there must needs be a virtue of
 act," i.e. a moral virtue, whereby the appetite is inclined to make good use of the rule of act: and
 this is what magnificence does. Hence it is not an act but a virtue.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la magnanimità non sia una virtù. Infatti, chi possiede una sola virtù ne possiede tutte, come è stato detto sopra (FS, Q[65], A[1]). Tuttavia, si può possedere le altre virtù senza avere la magnanimità: poiché il Filosofo afferma (Etica iv, 2) che “non tutti gli uomini liberali sono magnanimi”. Pertanto, la magnanimità non è una virtù.
+
+Obiezione 2: Inoltre, la virtù morale segue la via di mezzo, come affermato nell’Etica ii, 6. Ma la magnanimità, apparentemente, non segue la via di mezzo, poiché supera la liberalità in termini di grandezza. Ora “grande” e “piccolo” sono concetti opposti tra loro, e il loro punto medio è “uguale”, come indicato nella Metafisica x. Pertanto, la magnanimità segue non il punto medio, ma l’estremo. Quindi non costituisce una virtù.
+
+Obiezione 3: Inoltre, nessuna virtù si oppone a un’inclinazione naturale, ma al contrario la perfeziona, come già detto sopra (Q[108], A[2]; Q[117], A[1], OBJ[1]). Ora, secondo il Filosofo (Etica, iv, 2), “l’uomo nobile non è prodigo con se stesso”: e questo si contrappone all’inclinazione naturale di prendersi cura di sé. Pertanto, la nobiltà non è una virtù.
+
+Obiezione 4: Inoltre, secondo il Filosofo (Etica, VI, 4), “l’azione è la giusta ragione riguardo alle cose da realizzare”. Ora, la magnificenza riguarda proprio le cose da realizzare, come indica chiaramente il suo nome stesso (*Magnificenza = magna facere*, cioè “fare cose grandi”). Pertanto, la magnificenza è un’azione e non una virtù.
+
+Al contrario, la virtù umana è una partecipazione del potere divino. Ma la maestosità appartiene al potere divino, come si legge nel Salmo 47:35: “La sua maestosità e il suo potere sono tra le nuvole”. Pertanto, la maestosità è anch’essa una virtù.
+
+Rispondo che, secondo il De Coelo I, 16, “parliamo di virtù in relazione al limite estremo del potere di una cosa”, non riguardo al limite della mancanza, ma rispetto al limite dell’eccesso; proprio la natura di tale eccesso indica qualcosa di grande. Pertanto, compiere un atto grande – da cui deriva il nome stesso di “magnificenza” – appartiene propriamente alla nozione stessa di virtù. Da ciò si evince che la magnificenza rappresenta una forma di virtù.
+
+Risposta all’Obiezione 1: Non ogni uomo liberale si distingue per le sue azioni, poiché gli mancano i mezzi necessari per compiere imprese grandiose. Tuttavia, ogni uomo liberale possiede la [abitudine](/concepts/custom) della magnanimità, sia effettivamente che in termini di disposizione mentale propensa a essa, come spiegato sopra (Q[129], A[3], ad 2), così come nel contesto delle discussioni sulla connessione tra le virtù (FS, Q[65], A[1]).
+
+Risposta all’Obiezione 2: È vero che la magnificenza si attiene agli estremi, se consideriamo la quantità di ciò che viene compiuto; tuttavia, essa rispetta anche il mezzo, se consideriamo la regola della ragione, alla quale né manca né la supera, come abbiamo già detto a proposito della magnanimità (Q[129], A[3], ad 1).
+
+Risposta all’Obiezione 3: La magnificenza consiste nel compiere azioni grandi. Tuttavia, ciò che riguarda la persona umana è di poco conto rispetto a ciò che riguarda le cose divine o gli affari della comunità nel suo insieme. Pertanto, l’uomo magnifico non ha come scopo principale essere generoso con se stesso; non perché non desideri il proprio bene, ma perché farlo non costituisce un atto di grande valore. Tuttavia, se qualcosa che riguarda la persona umana può essere considerato “grande”, l’uomo magnifico lo realizza in modo degno di tale nome: ad esempio, atti che avvengono una sola volta, come un matrimonio, o cose di natura duratura. È quindi proprio dell’uomo magnifico provvedersi di un’abitazione appropriata, come si afferma nell’Etica IV.
+
+Risposta all’Obiezione 4: Come afferma il Filosofo (Etica, VI, 5), “deve necessariamente esistere una virtù d’azione”, cioè una virtù morale che induca l’appetito ad utilizzare correttamente le regole dell’agire; ed è proprio questo ciò che fa la magnanimità. Pertanto, la magnanimità non è un atto, ma una virtù.
 
 <span class="atom-split" data-atom="059" data-title="Whether magnificence is a special virtue?" data-chapter="Whether magnificence is a special virtue?" data-kind="atom" data-srclang="en"></span>
 
@@ -2699,6 +3610,29 @@ God: wherefore magnificence does a great work especially in reference to the Div
 Wherefore the Philosopher says (Ethic. iv, 2) that "the most commendable expenditure is that which
 is directed to Divine sacrifices": and this is the chief object of magnificence. For this reason
 magnificence is connected with holiness, since its chief effect is directed to religion or holiness.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la magnanimità non sia una virtù particolare. Infatti, la magnanimità dovrebbe consistere nel compiere azioni grandi; ma qualsiasi virtù può comportare l’atto di compiere qualcosa di grande, se tale virtù è davvero grande: ad esempio, una persona che possiede una grande virtù di temperanza compie sicuramente atti significativi in questo senso. Pertanto, la magnanimità non è una virtù specifica, ma indica piuttosto il grado più elevato di qualsiasi virtù.
+
+Obiezione 2: Inoltre, sembrerebbe che ciò che tende verso qualcosa sia lo stesso che quella cosa realizza effettivamente.
+Ma appartiene alla magnanimità tendere verso qualcosa di grande, come è stato detto sopra (Q[129], AA[1],2).
+Pertanto, appartiene anch’essa alla magnanimità compiere azioni grandi. Quindi la magnificenza non è una virtù distinta dalla magnanimità.
+
+Obiezione 3: Inoltre, la maestosità sembra appartenere alla santità, poiché è scritto (Esodo 15:11): “Maestosa nella sua santità”, e (Salmo 95:6): “Santità e maestosità nel suo santuario”. Ora, la santità è la stessa cosa che la religione, come detto sopra (Q[81], A[8]). Pertanto, la maestosità sembra essere la stessa cosa che la religione; quindi non rappresenta una virtù particolare, distinta dalle altre.
+
+Al contrario, il Filosofo lo considera insieme ad altre virtù particolari (Etica, ii, 7; iv, 2).
+
+Rispondo che appartiene alla magnanimità compiere azioni grandi, come suggerisce il suo stesso nome: “magnanimità” significa infatti “fare cose grandi”. Ora, il verbo “fare” può essere inteso in due modi: in senso stretto e in senso lato. In senso stretto, “fare” indica l’attività che si concretizza nell’alterazione della materia esterna, come costruire una casa o qualcosa del genere; in senso lato, “fare” designa qualsiasi azione, sia quella che ha effetti concreti sulla materia esterna – come bruciare o tagliare – sia quella che rimane nell’agente stesso, come comprendere o volere.  
+Pertanto, se si intende per magnanimità l’atto di compiere cose grandi nel senso stretto del termine, allora essa rappresenta una virtù specifica: l’opera realizzata attraverso tale azione è qualcosa di grande in termini di quantità, valore o dignità, ed è proprio questo che la magnanimità mira a realizzare. In questo senso, la magnanimità è davvero una virtù particolare.  
+D’altra parte, se si considera che il nome “magnanimità” derivi semplicemente dal fatto di compiere azioni grandi, nel senso lato del termine, allora essa non costituisce una virtù specifica.
+
+Risposta all’Obiezione 1: Ogni virtù perfetta presuppone la capacità di compiere azioni grandi nel genere specifico di quella virtù, purché il termine “compiere” venga inteso in senso lato; tuttavia, se inteso in senso stretto, ciò non è caratteristico della stessa virtù, bensì dell’ambito della magnanimità.
+
+Risposta all’Obiezione 2: Appartiene alla magnanimità non solo tendere verso qualcosa di grande, ma anche compiere opere grandi in tutte le virtù, sia attraverso l’azione concreta, sia con qualsiasi altro mezzo, come affermato nell’Etica iv, 3. Tuttavia, in questo senso, la magnanimità considera soltanto l’aspetto della grandezza, mentre le altre virtù, se perfezionate, mirano non alla grandezza in sé, ma a ciò che è proprio di ciascuna di esse; la grandezza dell’azione compiuta deriva talvolta dalla grandezza della virtù stessa.  
+D’altra parte, appartiene alla magnificenza non solo compiere azioni grandi nel senso stretto del termine, ma anche tendere con l’intelletto verso la realizzazione di imprese elevate e significative. Per questo Tullio afferma (De Invent. Rhet. ii) che “la magnificenza consiste nella riflessione e nell’organizzazione di grandi e nobile imprese, con uno scopo elevato e nobile nel cuore”; il termine “riflessione” si riferisce all’intenzione interiore, mentre “organizzazione” indica l’attuazione concreta di tali progetti. Pertanto, proprio come la magnanimità mira sempre a qualcosa di grande in ogni ambito, anche la magnificenza si manifesta nella realizzazione di opere grandi in ogni campo che possa essere oggetto di azione concreta.
+
+Risposta all’Obiezione 3: L’intento della magnificenza consiste nella realizzazione di opere grandiose. Ora, le opere compiute dagli uomini sono sempre dirette verso un fine; e nessun fine delle opere umane è più grande dell’onore di Dio. Pertanto, la magnificenza si manifesta soprattutto nel perseguimento dell’onore divino. Per questo motivo il Filosofo afferma (Etica, IV, 2) che “la spesa più lodevole è quella destinata ai sacrifici divini”: ed è proprio questo lo scopo principale della magnificenza. Per questa ragione, la magnificenza è strettamente legata alla santità, poiché il suo effetto principale si rivolge alla religione o alla santità stessa.
 
 <span class="atom-split" data-atom="060" data-title="Whether the matter of magnificence is great expenditure?" data-chapter="Whether the matter of magnificence is great expenditure?" data-kind="atom" data-srclang="en"></span>
 
@@ -2762,6 +3696,28 @@ to do so in things that are great by comparison to some particular work; which, 
 itself, can nevertheless be done magnificently in proportion to its genus: for little and great are
 relative terms, as the Philosopher says (De Praedic. Cap. Ad aliquid.).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la questione della magnanimità non riguardi necessariamente grandi spese. Infatti, per lo stesso argomento non esistono due virtù diverse. Ma la liberalità riguarda proprio le spese, come è stato detto sopra (Q[117], A[2]). Pertanto, la magnanimità non ha a che fare con le spese.
+
+Obiezione 2: Inoltre, “ogni uomo nobile e generoso è anche liberal” (Etica, IV, 2). Ma la liberalità riguarda i doni, non le spese. Pertanto, la nobiltà e la generosità non consistono principalmente nelle spese, ma nei doni.
+
+Obiezione 3: Inoltre, appartiene alla grandezza produrre opere esterne. Tuttavia, nemmeno una grande spesa rappresenta sempre il mezzo per realizzare opere esterne; ad esempio, quando si spende molto per inviare regali. Pertanto, la spesa non costituisce l’elemento essenziale della grandezza.
+
+Obiezione 4: Inoltre, solo i ricchi sono in grado di effettuare grandi spese. Ma i poveri possono possedere tutte le virtù, poiché “le virtù non richiedono necessariamente una fortuna esterna, ma sono sufficienti per sé stesse”, come afferma Seneca nel [De Ira](/concepts/anger) i: De vita beata xvi. Pertanto, la magnanimità non ha nulla a che fare con grandi spese.
+
+Al contrario, il Filosofo afferma (Etica, iv, 2) che “la magnanimità, a differenza della liberalità, non si estende a tutte le transazioni finanziarie, ma soltanto a quelle di notevole entità, nelle quali supera la liberalità per dimensioni”. Pertanto, riguarda esclusivamente spese considerevoli.
+
+Rispondo che, come già detto sopra (A[2]), appartiene alla magnificenza il voler compiere opere grandi. Ora, per realizzare un’opera grande è necessario un dispendio proporzionato, poiché le opere grandi non possono essere realizzate senza ingenti spese. Pertanto, appartiene anch’esso alla magnificenza spendere molto denaro al fine di compiere un’opera grande in modo degno e appropriato. Il Filosofo afferma infatti (Etica, iv, 2) che “un uomo nobile realizzerà un’opera ancora più nobile con uno stesso dispendio, cioè proporzionato”. Lo speso rappresenta l’uso di una somma di denaro; tuttavia, un uomo potrebbe essere ostacolato nel compiere tale spesa se ama troppo il denaro. Pertanto, si può dire che la questione della magnificenza includa sia lo stesso dispendio effettuato dall’uomo nobile per realizzare un’opera grande, sia il denaro impiegato in tali spese, sia ancora l’amore per il denaro che tale uomo modera, affinché non venga ostacolato nel spendere molto.
+
+Risposta all’Obiezione 1: Come già detto sopra (Q[129], A[2]), quelle virtù che riguardano cose esterne incontrano una certa difficoltà derivante dal genere stesso di tali cose, e un’altra difficoltà derivante dalla loro grandezza. Per questo motivo sono necessarie due virtù specifiche relative al denaro e al suo utilizzo: la liberalità, che riguarda l’uso del denaro in generale, e la magnanimità, che si riferisce a ciò che è particolarmente significativo nell’utilizzo del denaro.
+
+Risposta all’Obiezione 2: L’uso del denaro riguarda in modo diverso l’uomo liberale e l’uomo magnanimo. Per quanto riguarda l’uomo liberale, esso deriva da un sentimento ordinato nei confronti del denaro; pertanto, ogni uso appropriato del denaro (come i doni o le spese) – gli ostacoli ai quali si può rimuovere grazie a un amore moderato per il denaro – rientra nella sfera della liberalità. Tuttavia, l’uso del denaro nell’ambito dell’uomo magnanimo è legato a compiti importanti che richiedono investimenti o spese considerevoli; tale uso diventa quindi inevitabile in assenza di tali risorse finanziarie.
+
+Risposta all’Obiezione 3: L’uomo nobile dona anche regali, come affermato nell’Etica, IV, 2; tuttavia non nel senso di un dono in sé, ma piuttosto nel senso di una spesa finalizzata alla realizzazione di un certo compito, ad esempio al fine onorare qualcuno o compiere un atto che porti onore all’intera comunità: come quando realizza ciò per cui l’intera comunità si sforza.
+
+Risposta all’Obiezione 4: L’atto principale della virtù è la scelta interiore; una virtù può quindi esistere anche senza ricchezze esterne: in questo modo, persino un uomo povero può dimostrarsi nobile. Tuttavia, le ricchezze sono necessarie come strumenti per realizzare gli atti esteriori della virtù; per questo motivo, un uomo povero non è in grado di compiere atti di nobiltà riguardo a cose di grande valore in sé. Forse, tuttavia, può riuscirci riguardo a cose che, sebbene di piccolo valore intrinseco, possono essere realizzate con magnanimità in base al loro genere: infatti, “piccolo” e “grande” sono termini relativi, come afferma il Filosofo nel De Praedicatis (Capitolo “Ad aliquid”).
+
 <span class="atom-split" data-atom="061" data-title="Whether magnificence is a part of fortitude?" data-chapter="Whether magnificence is a part of fortitude?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that magnificence is not a part of fortitude. For magnificence agrees in
@@ -2816,6 +3772,29 @@ We must now consider the vices opposed to magnificence: under which head there a
 points of inquiry:
 (1) Whether meanness is a vice?
 (2) Of the vice opposed to it.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la magnanimità non faccia parte della virtù della forza d’animo. Infatti, come detto sopra (A[3]), la magnanimità concorda con la liberalità in termini di contenuto; ma la liberalità appartiene alla giustizia, non alla forza d’animo. Pertanto, la magnanimità non è una componente della virtù della forza d’animo.
+
+Obiezione 2: Inoltre, la forza d’animo riguarda il timore e le azioni coraggiose. Ma la maestosità sembra non avere nulla a che fare con il timore, bensì soltanto con l’impegno, che è un tipo di azione. Pertanto, la maestosità sembrerebbe appartenere alla giustizia, che riguarda le azioni, piuttosto che alla forza d’animo.
+
+Obiezione 3: Inoltre, il Filosofo afferma (Etica, iv, 2) che “l’uomo nobile è simile all’uomo di scienza”. Ora, la scienza ha più in comune con la prudenza che con la forza d’animo; pertanto, la nobiltà non dovrebbe essere considerata una componente della forza d’animo.
+
+Al contrario, Tullio (De Invent. Rhet. ii), Macrobio (De Somn. Scip. i) e Andronico considerano la maestosità come una componente della forza d’animo.
+
+Rispondo che, Magnificenza, in quanto virtù specifica, non può essere considerata una componente soggettiva della forza d’animo, poiché non concorda con questa virtù per materia; tuttavia viene ritenuta parte di essa, in quanto le è annessa come virtù secondaria rispetto a quella principale.  
+Affinché una virtù possa essere considerata annessa a un’altra virtù principale, sono necessarie due condizioni, come già detto (Q[80]): la prima è che la virtù secondaria concordi con quella principale; la seconda è che, in qualche aspetto, essa venga superata da quest’ultima. Ora, la magnificenza concorda con la forza d’animo nel fatto che entrambe tendono verso qualcosa di arduo e difficile; pertanto sembrerebbe che anche la magnificenza appartenesse alla categoria delle virtù irascibili, proprio come la forza d’animo. Tuttavia, la magnificenza è inferiore alla forza d’animo: l’impresa ardua verso cui tende la forza d’animo presenta una difficoltà legata a un pericolo che minaccia la persona stessa, mentre l’impresa ardua verso cui tende la magnificanza deriva dalla perdita di proprietà, il che rappresenta una minaccia molto meno grave rispetto al pericolo per la vita. Per queste ragioni, la magnificenza viene considerata parte della forza d’animo.
+
+Risposta all’Obiezione 1: La giustizia considera le spese in sé stesse, nel loro aspetto di qualcosa che è dovuto; invece la liberalità e la magnanimità considerano le spese in relazione alle passioni dell’anima, sebbene in modi diversi. La liberalità riguarda le spese in relazione all’amore e al desiderio per il denaro, che sono passioni della facoltà concupiscibile, e non impediscono alla persona liberale di donare e spendere; quindi questa virtù appartiene alla parte concupiscibile dell’anima. D’altra parte, la magnanimità riguarda le spese in relazione alla speranza, nel senso di voler raggiungere obiettivi difficili, non semplicemente per il gusto della sfida, ma in ambiti specifici, ovvero nell’ambito delle spese; pertanto anche la magnanimità appartiene apparentemente alla parte irascibile dell’anima.
+
+Risposta all’Obiezione 2: Sebbene la magnificenza non coincida con la forza d’animo per quanto riguarda l’oggetto specifico, coincide con essa in quanto condizione necessaria per la realizzazione di tale oggetto: poiché entrambe tendono verso qualcosa di difficile, sia la magnificenza nell’ambito delle spese, sia la forza d’animo nell’ambito della paura.
+
+Risposta all’Obiezione 3: La magnificenza orienta l’uso dell’arte verso qualcosa di grande, come già detto sopra e nell’articolo precedente. Ora, l’arte risiede nella ragione; pertanto spetta all’uomo nobile utilizzare la propria ragione osservando una corrispondenza tra le risorse impiegate e il compito da svolgere. Ciò è particolarmente necessario considerando la grandezza sia delle risorse che del compito stesso, poiché, in assenza di un’attenta valutazione, si correrebbe il rischio di subire gravi perdite.  
+**DELLA PARVIFICENZA* (DUE ARTICOLI) – La parvificenza consiste nel compiere azioni meschine, proprio come la magnificenza consiste nel compiere azioni grandi.  
+Ora dobbiamo esaminare i vizi contrapposti alla magnificenza; in questo ambito vi sono due questioni principali da considerare:  
+(1) Se la parvificenza sia davvero un vizio;  
+(2) Qual è il vizio che le è opposto.
 
 <span class="atom-split" data-atom="062" data-title="Whether meanness is a vice?" data-chapter="Whether meanness is a vice?" data-kind="atom" data-srclang="en"></span>
 
@@ -2872,6 +3851,24 @@ accomplishment: wherefore meanness is less sinful than illiberality. Hence the P
 (Ethic. iv, 2) that "although meanness and its contrary vice are sinful, they do not bring shame on
 a man, since neither do they harm one's neighbor, nor are they very disgraceful."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la meschinità non sia un vizio. Poiché, proprio come i vizi moderano le cose grandi, così anche moderano quelle piccole; perciò sia coloro che sono generosi che quelli che sono magnanimi compiono spesso azioni di poco conto. Ma la magnanimità è una virtù. Pertanto, anche la meschinità dovrebbe essere considerata una virtù, e non un vizio.
+
+Obiezione 2: Inoltre, il Filosofo afferma nell’Etica IV, 2 che “il calcolo accurato è meschino”. Tuttavia, il calcolo accurato sembra meritare lode, poiché il bene dell’uomo consiste nel conformarsi alla ragione, come dichiara Dionisio nel De Divinitate Nominalibus IV, 4. Pertanto, la meschinità non è un vizio.
+
+Obiezione 3: Inoltre, il Filosofo afferma (Etica, iv, 2) che “un uomo meschino è riluttante a spendere denaro”. Ma ciò riguarda l’avidità o la mancanza di generosità. Pertanto, la meschinità non rappresenta un vizio distinto dagli altri.
+
+Al contrario, nel “Etica” II, il Filosofo definisce la meschinità un vizio specifico, opposto alla magnanimità.
+
+Rispondo che, come già detto (FS, Q[1], A[3]; FS, Q[18], A[6]), gli atti morali ricevono la loro specifica definizione dal loro fine; per questo motivo, in molti casi vengono denominati in base a tale fine. Ad esempio, si dice che un uomo sia meschino perché intende compiere qualcosa di insignificante. Ora, secondo il Filosofo (De Praedicat., Cap. Ad aliquid.), i concetti di “grande” e “piccolo” sono termini relativi: quando diciamo che un uomo meschino intenda fare qualcosa di piccolo, ciò va inteso in relazione al tipo di azione che compie. Un’azione può essere considerata piccola o grande in due modi: da un lato, in base alla natura stessa dell’azione; dall’altro, in base alle risorse impiegate per realizzarla. Pertanto, un uomo magnanimo mira principalmente alla grandezza dell’opera che compie e, in secondo luogo, al costo elevato che è disposto a sostenere affinché possa produrre qualcosa di davvero significativo; il Filosofo afferma infatti che “un uomo magnanimo, spendendo le stesse risorse, otterrà risultati ancora più grandi”. Dall’altro lato, un uomo meschino mira soprattutto a spendere poco; per questo motivo il Filosofo dice che “cerca sempre modi per ridurre al minimo le spese”. Di conseguenza, un uomo meschino tende a compiere azioni di scarso rilievo, purché ciò non comporti un eccessivo dispendio. Il Filosofo conclude quindi che l’essenza del vizio consista proprio nel non rispettare la proporzione tra spese e risultati che la ragione richiede; poiché la meschinità si manifesta appunto in questo mancato rispetto alla ragione, è evidente che essa rappresenti effettivamente un vizio.
+
+Risposta all’Obiezione 1: La virtù modera le piccole cose, secondo la regola della ragione; ma l’uomo mediocre si allontana da questa regola, come indicato nell’articolo in questione. Viene infatti chiamato “medio” non perché moderi le piccole cose, ma perché si discosta dalla regola della ragione sia nel moderare le grandi che quelle piccole; ed è proprio per questo che la mediocrità rappresenta un vizio.
+
+Risposta all’Obiezione 2: Come afferma il Filosofo (Retorica ii, 5), “la paura ci spinge a prendere decisioni con cautela”; per questo motivo un uomo mediocre è molto attento nei suoi calcoli, poiché teme eccessivamente di spendere i propri beni, anche per le cose più insignificanti. Tuttavia, questa condotta non è degna di lode, ma piuttosto peccaminosa e deprecabile: in tal caso, infatti, l’uomo non regola le proprie azioni secondo la ragione, bensì utilizza la ragione al servizio delle proprie passioni eccessive.
+
+Risposta all’Obiezione 3: Proprio come l’uomo nobile ha in comune con l’uomo liberale il fatto di spendere facilmente e con piacere i propri soldi, allo stesso modo l’uomo meschino ha in comune con l’uomo illiberale o avaro la riluttanza e la lentezza nel spendere. Tuttavia, essi differiscono in questo: l’illiberalità riguarda le spese ordinarie, mentre la meschinità riguarda le spese ingenti, che rappresentano un compito più difficile da realizzare; per questa ragione, la meschinità è meno peccaminosa dell’illiberalità. Ecco perché il Filosofo afferma (Etica, iv, 2) che “sebbene la meschinità e il vizio opposto siano peccaminosi, non portano vergogna all’uomo, poiché né danneggiano il prossimo né sono particolarmente disonorevoli”.
+
 <span class="atom-split" data-atom="063" data-title="Whether there is a vice opposed to meanness?" data-chapter="Whether there is a vice opposed to meanness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that there is no vice opposed to meanness. For great is opposed to little.
@@ -2915,6 +3912,24 @@ Reply to Objection 3: Wastefulness is opposed to meanness by the very species of
 it exceeds the rule of reason, whereas meanness falls short of it. Yet nothing hinders this from being
 directed to the end of another vice, such as vainglory or any other.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non esista alcun vizio opposto alla meschinità. Infatti, il grande è l’opposto del piccolo. Ora, la magnanimità non è un vizio, ma una virtù; pertanto, non esiste alcun vizio opposto alla meschinità.
+
+Obiezione 2: Inoltre, poiché la meschinità è un vizio dovuto a una carenza, come detto sopra (A[1]), sembrerebbe che, se esiste qualche vizio opposto alla meschinità, esso consisterebbe semplicemente nel spendere eccessivamente. Ma coloro che spendono molto dove dovrebbero spendere poco, e viceversa, secondo l’Etica iv, 2, presentano in sé tratti di meschinità. Pertanto, non esiste alcun vizio opposto alla meschinità.
+
+Obiezione 3: Inoltre, gli atti morali ricevono la loro specifica natura dal loro fine, come detto sopra (A[1]). Chi spende eccessivamente lo fa al fine di ostentare la propria ricchezza, come affermato nell’Etica iv, 2. Ma ciò rientra nella categoria dell’orgoglio, che è opposta alla magnanimità, come detto sopra (Q[131], A[2]). Pertanto, nessun vizio è opposto alla meschinità.
+
+Al contrario, c’è l’autorità del Filosofo che (Etica, ii, 8; iv, 2) considera la magnanimità un mezzo tra due vizi opposti.
+
+Rispondo che “grande” è l’opposto di “piccolo”. Inoltre, “piccolo” e “grande” sono termini relativi, come già detto sopra (A[1]). Proprio come le spese possono essere considerate piccole rispetto al lavoro svolto, possono anche essere ritenute grandi se superano la proporzione che la ragione richiede tra spese e lavoro. È quindi evidente che esiste un vizio opposto a quello della meschinità – ovvero il tentativo di spendere meno di quanto il proprio lavoro valga, violando così la giusta proporzione tra spese e impegni –, e cioè il vizio di spendere più di quanto sia proporzionato al proprio lavoro. Questo vizio viene chiamato in greco “banausia”, dal termine “baunos”; esso, infatti, come il fuoco in una fucina, consuma tutto ciò che incontra sul suo cammino, ma non per uno scopo positivo. In latino può essere definito “consumptio”.
+
+Risposta all’Obiezione 1: La magnificenza deriva dal grande lavoro compiuto, e non dal fatto che le spese siano superiori al lavoro stesso; poiché ciò appartiene al vizio opposto alla meschinità.
+
+Risposta all’Obiezione 2: Al medesimo vizio si contrappone la virtù che osserva la misura giusta, nonché un vizio opposto. Pertanto, il vizio dello sperpero si contrappone alla meschinità nel senso che comporta spese eccessive rispetto al valore del lavoro svolto, spendendo molto dove sarebbe opportuno spendere poco. Tuttavia, si contrappone anche alla magnificenza, in quanto quando è necessario spendere molto, chi agisce con spreco spende poco o nulla.
+
+Risposta all’Obiezione 3: La dissipatezza si contrappone alla meschinità proprio per il tipo di azione che compie; essa infatti supera le regole della ragione, mentre la meschinità le manca. Tuttavia, nulla impedisce che tale dissipatezza venga utilizzata al fine di combattere un altro vizio, come l’orgoglio o qualsiasi altro.
+
 <span class="atom-split" data-atom="064" data-title="OF PATIENCE (FIVE ARTICLES)" data-chapter="OF PATIENCE (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider patience. Under this head there are five points of inquiry:
@@ -2923,6 +3938,15 @@ We must now consider patience. Under this head there are five points of inquiry:
 (3) Whether it can be had without grace?
 (4) Whether it is a part of fortitude?
 (5) Whether it is the same as longanimity?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la pazienza. In questo ambito ci sono cinque punti da esaminare:  
+(1) Se la pazienza sia una virtù;  
+(2) Se sia la più grande delle virtù;  
+(3) Se possa essere posseduta senza grazia;  
+(4) Se faccia parte della forza d’animo;  
+(5) Se sia la stessa cosa che la longanimità.
 
 <span class="atom-split" data-atom="065" data-title="Whether patience is a virtue?" data-chapter="Whether patience is a virtue?" data-kind="atom" data-srclang="en"></span>
 
@@ -2975,6 +3999,24 @@ of the virtues are wont to be applied to their acts. Wherefore patience as a [ha
 to the pleasure which its act affords, it is reckoned a fruit, especially in this, that patience safeguards
 the mind from being overcome by sorrow.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la pazienza non sia una virtù. Infatti, le virtù sono al loro massimo livello in cielo, come afferma [Agostino](/figures/augustine) (De Trin. xiv). Tuttavia, la pazienza non esiste lì, poiché lì non vi sono mali da sopportare, secondo Isaia 49:10 e Apocalisse 7:16: “Non avranno fame né sete; né il caldo né il sole li colpirà”. Pertanto, la pazienza non è una virtù.
+
+Obiezione 2: Inoltre, non si può riconoscere alcuna virtù nei malvagi, poiché la virtù è proprio ciò che rende il suo possessore buono. Eppure la pazienza talvolta si riscontra nelle persone malvagie; ad esempio, nei gelosi, i quali sopportano con pazienza molti mali al fine di accumulare denaro, come affermato in Ecclesiaste 5:16: “Per tutti i giorni della sua vita mangia nell’oscurità, tra molte preoccupazioni, miseria e dolore”. Pertanto, la pazienza non è una virtù.
+
+Obiezione 3: Inoltre, i frutti sono diversi dalle virtù, come detto sopra (FS, Q[70], A[1], ad 3). Ma la pazienza è considerata tra i frutti (Galati 5:22). Pertanto, la pazienza non è una virtù.
+
+Al contrario, Agostino afferma nel “De Patientia i”: “La virtù dell’anima chiamata pazienza è un dono così grande di Dio, che noi predichiamo persino la pazienza di Colui che ce la concede.”
+
+Rispondo che, come già detto sopra (Q[123], A[1]), le virtù morali sono dirette al bene, in quanto proteggono il bene della ragione dagli impulsi delle passioni. Tra queste passioni, il dolore è particolarmente pericoloso poiché ostacola il funzionamento corretto della ragione; come affermato in 2 Corinzi 7:10 (“Il dolore del mondo porta alla morte”) e in Ecclesiaste 30:25 (“La tristezza ha ucciso molti, e non vi è alcun vantaggio in essa”). Pertanto è necessaria una virtù che difenda il bene della ragione dal dolore, affinché questa non ceda al suo dominio; ed è proprio la pazienza a svolgere questo compito. Per questo Agostino afferma nel De Patientia ii: “È per mezzo della pazienza che un uomo sopporta il male con mente equilibrata, cioè senza essere turbato dal dolore, affinché non abbandoni, con una mente inquieta, i beni che gli permetterebbero di progredire verso cose migliori”. È quindi evidente che la pazienza sia davvero una virtù.
+
+Risposta all’Obiezione 1: Le virtù morali non rimangono in cielo per lo stesso atto che hanno sulla terra, in relazione cioè ai beni della vita presente, i quali non rimarranno in cielo; ma rimangono nella loro relazione con lo scopo finale, che è il cielo. Pertanto, la giustizia in cielo non consiste nel fare acquisti e vendite o in altre attività legate alla vita presente, ma nel sottomettersi a Dio. Allo stesso modo, l’atto di pazienza in cielo non consiste nel sopportare sofferenze, ma nel godere dei beni per i quali abbiamo sofferto. Per questo Agostino afferma (De Civ. Dei xiv) che “la stessa pazienza non sarà presente in cielo, poiché non è necessaria se non laddove sia necessario sopportare il male; tuttavia ciò che otterremo attraverso la pazienza sarà eterno”.
+
+Risposta all’Obiezione 2: Come afferma Agostino (De Patientia ii; v), “in senso proprio, pazienti sono coloro che preferirebbero sopportare i mali piuttosto che infliggerli, piuttosto che infliggerli senza subirli. Quanto a coloro che sopportano i mali al fine di poterli poi infliggere ad altri, la loro ‘pazienza’ non è né meravigliosa né degna di lode, poiché in realtà non si tratta affatto di pazienza: possiamo meravigliarci della loro durezza di cuore, ma dobbiamo rifiutare di definirli pazienti.”
+
+Risposta all’Obiezione 3: Come già detto sopra (FS, Q[11], A[1]), il concetto stesso di “frutto” indica piacere. E le azioni virtuose procurano piacere in sé stesse, come affermato nell’Etica, I, 8. Ora, i nomi delle virtù vengono solitamente applicati alle loro azioni. Pertanto, la pazienza, in quanto [abitudine](/concepts/custom), è considerata una virtù; ma per quanto riguarda il piacere che la sua azione procura, essa viene considerata un “frutto”, soprattutto perché la pazienza protegge l’animo dal dominio del dolore.
+
 <span class="atom-split" data-atom="066" data-title="Whether patience is the greatest of the virtues?" data-chapter="Whether patience is the greatest of the virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that patience is the greatest of the virtues. For in every genus that which
@@ -3018,6 +4060,24 @@ hardships and disturb the soul.
 
 Reply to Objection 3: Patience is said to be the root and safeguard of all the virtues, not as
 though it caused and preserved them directly, but merely because it removes their obstacles.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la pazienza sia la più grande delle virtù. Infatti, in ogni genere, ciò che è perfetto è considerato il più grande. Ora, “la pazienza ha un compito perfetto” (Giacomo 1:4). Pertanto, la pazienza è davvero la più grande delle virtù.
+
+Obiezione 2: Inoltre, tutte le virtù sono dirette al bene dell’anima. Ora questo sembra appartenere principalmente alla pazienza; infatti è scritto (Lc. 21:19): “Con la vostra pazienza possederete le vostre anime”. Pertanto, la pazienza è la più grande delle virtù.
+
+Obiezione 3: Inoltre, sembra che ciò che rappresenta la salvaguardia e la causa di altre cose sia più grande di queste stesse. Ma secondo Gregorio (“Homilia xxxv in Evangelium”), “la pazienza è la radice e la salvaguardia di tutte le virtù”. Pertanto, la pazienza è la più grande delle virtù.
+
+Al contrario, non è considerata tra le quattro virtù che Gregorio (Morale, xxii) e [Agostino](/figures/augustine) (De Morib. Eccl., xv) definiscono principali.
+
+Rispondo che le virtù, per loro natura, sono dirette al bene. Infatti è proprio la virtù a “rendere il suo possessore buono e a rendere buone anche le sue azioni” (Etica, ii, 6). Ne consegue quindi che la superiorità e l’ prevalenza di una virtù rispetto ad altre sono maggiori quanto più essa spinge l’uomo verso il bene in modo efficace e diretto. Ora, quelle virtù che contribuiscono effettivamente al bene spingono l’uomo verso il bene in modo più diretto di quelle che ostacolano ciò che lo allontana dal bene; e proprio come, tra le virtù benefiche, quella più importante è quella che consente all’uomo di raggiungere un bene maggiore (così la [fede](/concepts/theological_virtues), la speranza e la carità sono superiori alla prudenza e alla giustizia), allo stesso modo, tra quelle virtù che ostacolano il male, quella più efficace è quella che contrasta gli ostacoli più gravi al bene. Ma i pericoli di morte, contro cui si esercita la forza d’animo, e i piaceri sensuali, di cui si occupa la temperanza, allontanano l’uomo dal bene più di qualsiasi tipo di sofferenza, oggetto della pazienza. Pertanto, la pazienza non è la virtù più grande; rimane indietro non solo rispetto alle virtù teologali, alla prudenza e alla giustizia che portano direttamente al bene, ma anche rispetto alla forza d’animo e alla temperanza che aiutano ad eliminare gli ostacoli più gravi al bene.
+
+Risposta all’Obiezione 1: Si dice che la pazienza abbia un effetto perfetto nel sopportare le difficoltà: queste infatti generano prima il dolore, che viene mitigato dalla pazienza; poi l’[ira](/concepts/anger), che viene placata dalla umiltà; in seguito l’odio, che viene eliminato dalla carità; infine gli atti ingiusti, che vengono proibiti dalla giustizia. Ora, ciò che elimina la causa delle difficoltà è sicuramente il mezzo più perfetto per affrontarle. Tuttavia, questo non significa che la pazienza sia necessariamente più perfetta in senso assoluto.
+
+Risposta all’Obiezione 2: La possesso indica un diritto di proprietà incondizionato; pertanto si dice che l’uomo possieda la propria anima attraverso la pazienza, poiché questa elimina radicalmente quelle passioni che vengono suscitate dalle difficoltà e disturbano l’anima stessa.
+
+Risposta all’Obiezione 3: Si dice che la pazienza sia la radice e la salvaguardia di tutte le virtù, non perché le causi o le preservi direttamente, ma semplicemente perché elimina gli ostacoli che potrebbero impedirne lo sviluppo.
 
 <span class="atom-split" data-atom="067" data-title="Whether it is possible to have patience without grace?" data-chapter="Whether it is possible to have patience without grace?" data-kind="atom" data-srclang="en"></span>
 
@@ -3185,6 +4245,45 @@ they persist a long time in evil, wherefore it is said that they are borne with 
 the very fact of sinning through pride seems to be unendurable; for which reason those who sin
 through pride are stated to be borne with patience.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la pazienza non faccia parte della forza d’animo. Infatti, una cosa non può essere considerata parte di sé stessa.  
+Ora, la pazienza appare chiaramente identica alla forza d’animo: poiché, come detto sopra (Q[123], A[6]), l’atto specifico della forza d’animo consiste nel sopportare; e questo stesso comportamento rientra anche nella definizione di pazienza. Infatti, nel Liber Sententiarum Prosperi si afferma che “la pazienza consiste nel sopportare i mali inflitti dagli altri”. Pertanto, la pazienza non è una parte della forza d’animo.
+
+Obiezione 2: Inoltre, la forza d’animo riguarda il timore e il coraggio, come detto sopra (Q[123], A[3]); pertanto appartiene all’indole irascibile. Ma la pazienza sembra riguardare il dolore, e quindi dovrebbe appartenere all’indole concupiscibile. Pertanto, la pazienza non fa parte della forza d’animo, ma della temperanza.
+
+Obiezione 3: Inoltre, il tutto non può esistere senza la sua parte. Pertanto, se la pazienza è una componente della forza d’animo, non può esserci forza d’animo senza pazienza. Tuttavia, a volte un uomo coraggioso non sopporta con pazienza le avversità, ma anzi attacca chi le infligge. Quindi la pazienza non è una componente della forza d’animo.
+
+Al contrario, Tullio (De Invent. Rhet. ii) considera tale atteggiamento parte della forza d’animo.
+
+Rispondo che la pazienza è una sorta di componente “quasi potenziale” della virtù della forza d’animo, poiché vi è collegata in qualità di virtù secondaria rispetto a quella principale. Infatti, secondo quanto afferma Gregorio in un’omelia (xxxv in Evang.), alla pazienza appartiene il “sopportare con equanimità i mali inflitti dagli altri”. Tra questi mali, quelli legati al pericolo di morte sono senz’altro i più gravi e difficili da tollerare, ed è proprio a questi che si riferisce la virtù della forza d’animo. È quindi evidente che in questa materia sia la forza d’animo ad occupare il ruolo principale, rivendicando ciò che è essenziale per affrontarli. Per questo motivo la pazienza viene considerata una virtù secondaria rispetto alla forza d’animo; proprio per tale ragione Prospero definisce la pazienza “coraggiosa” (Sentenze 811).
+
+Risposta all’Obiezione 1: La forza d’animo consiste nel sopportare ciò che è veramente più difficile da tollerare, ovvero i pericoli di morte; mentre la pazienza può riguardare il sopportare qualsiasi tipo di male.
+
+Risposta all’Obiezione 2: L’atto di forza d’animo consiste non solo nel rimanere fedeli al bene nonostante la paura di futuri pericoli, ma anche nel non cedere alla tristezza o al dolore causati da situazioni presenti; ed è proprio in questo ultimo aspetto che la pazienza è simile alla forza d’animo. Tuttavia, la forza d’animo riguarda principalmente la paura, che di per sé induce all’fuga, mentre la pazienza riguarda soprattutto il dolore: si dice infatti che un uomo sia paziente non perché non fugge, ma perché affronta in modo lodevole le sofferenze presenti, senza lasciarsi travolgere eccessivamente da esse. Pertanto, la forza d’animo appartiene principalmente alla facoltà irascibile, mentre la pazienza appartiene alla facoltà concupiscibile.  
+Ciò non impedisce tuttavia che la pazienza sia considerata una parte della forza d’animo: l’aggiunta di una virtù a un’altra non riguarda il soggetto, ma l’oggetto o la forma di quella virtù. Tuttavia, la pazienza non deve essere considerata una parte della temperanza, anche se entrambe appartengono alla facoltà concupiscibile: la temperanza riguarda infatti soltanto quelle sofferenze che si oppongono ai piaceri sensoriali, come quelli derivanti dall’astinenza da cibo e sesso; mentre la pazienza riguarda principalmente le sofferenze causate da altre persone. Inoltre, appartiene alla temperanza controllare tali sofferenze insieme ai loro contrari piaceri; mentre appartiene alla pazienza il fatto che un uomo non rinunci al bene rappresentato dalle virtù a causa di simili sofferenze, per quanto grandi possano essere.
+
+Risposta all’Obiezione 3: Si può ammettere che la pazienza, in un certo senso, sia parte integrante della giustizia, se consideriamo il fatto che una persona possa sopportare con pazienza i mali legati a pericoli di morte; ed è proprio da questo punto di vista che si basa l’obiezione. Inoltre, non vi è alcuna contraddizione tra la pazienza e l’atto di ribellarsi, quando necessario, contro colui che ci infligge del male; infatti Crisostomo, nell’[*Omelia V dell’Opus Imperfectum*, falsamente attribuita a San Giovanni Crisostomo], a proposito di Matteo 4:10 (“Vattene, Satana!”), afferma che “è lodevole essere pazienti di fronte ai propri torti, ma sopportare con pazienza i torti di Dio è estremamente malvagio”; inoltre Agostino, in una lettera a Marcellino (Ep. cxxxviii), scrive che “i precetti della pazienza non sono contrari al bene della comunità, poiché per garantire tale bene combattiamo contro i nostri nemici”. Tuttavia, quando la pazienza riguarda tutti i tipi di mali, essa è considerata una virtù secondaria rispetto alla forza d’animo.
+
+La pazienza è la stessa cosa che la lunganimità? [*La sopportazione. È necessario mantenere questa parola latina, a causa del confronto con il concetto di magnanimità.*]
+
+Obiezione 1: Sembra che la pazienza sia sinonimo di lunganimità. Infatti Agostino afferma nel “De Patientia” che “parliamo di pazienza in Dio non perché qualche male L’abbia costretto a soffrire, ma perché Egli attende i malvagi affinché possano convertirsi”. Ecco quindi scritto nell’Ecclesiastico 5:4: “Il SIGNORE è un Giudice paziente e misericordioso”. Pertanto sembra che la pazienza sia effettivamente sinonimo di lunganimità.
+
+Obiezione 2: Inoltre, la stessa cosa non può essere contraria a due cose diverse. Ma l’impazienza è contraria alla lunganimità, che consiste nell’attendere con pazienza un ritardo; si dice infatti che una persona sia impaziente di fronte ai ritardi, così come di fronte ad altri mali. Pertanto, sembrerebbe che la pazienza e la lunganimità siano la stessa cosa.
+
+Obiezione 3: Inoltre, proprio come il tempo è una circostanza legata ai torti subiti, lo stesso vale per il luogo. Ma nessuna virtù si distingue dalla pazienza in relazione al luogo. Pertanto, allo stesso modo, la longanimità che tiene conto del tempo – nel senso in cui una persona attende per un periodo prolungato – non si distingue dalla pazienza.
+
+Obiezione 4:
+
+Al contrario, un commento di Origene, Commento sull’Epistola ai Romani ii su Romani 2:4 afferma: “Forse l’indulgenza si distingue dalla pazienza: coloro che offendono per debolezza e non per intenzione deliberata vengono considerati oggetto di indulgenza; mentre coloro che traggono piacere consapevole dai propri crimini vengono definiti pazienti”.
+
+Rispondo che, proprio come la magnanimità spinge un uomo a tendere verso cose grandi, così anche la lunganimità lo spinge a puntare verso obiettivi lontani nel tempo. Pertanto, proprio come la magnanimità si rivolge alla speranza, che mira al bene, piuttosto che al coraggio, alla paura o al dolore, che hanno il male come oggetto, allo stesso modo fa anche la lunganimità. Da ciò deriva che la lunganimità ha più in comune con la magnanimità che con la pazienza.  
+Tuttavia, può anche avere alcuni punti in comune con la pazienza per due motivi: innanzitutto, perché la pazienza, come la forza d’animo, sopporta certi mali in vista di un bene; se questo bene si realizza rapidamente, la sopportazione è più facile, mentre se viene ritardata a lungo, diventa più ardua. In secondo luogo, il semplice ritardo del bene che speriamo può causare dolore, come afferma il Proverbo 13:12: “La speranza ritardata affligge l’anima”. Pertanto, è possibile mostrare pazienza nel sopportare tale prova, così come in qualsiasi altro tipo di sofferenza. Di conseguenza, sia la lunganimità che la costanza rientrano nella categoria della pazienza, poiché sia il ritardo del bene desiderato (che riguarda la lunganimità) che lo sforzo necessario per realizzare un bene (che riguarda la costanza) possono essere considerati aspetti di sofferenze difficili da sopportare.  
+Per questo motivo, Tullio (De Inventione Rhetorica ii), definendo la pazienza, afferma che “la pazienza è la sopportazione volontaria e prolungata di cose ardue e difficili in vista della virtù o del vantaggio”. Con “arduo” si intende la costanza nel perseguire il bene; con “difficile” si indica la sofferenza causata dal male, che è l’oggetto principale della pazienza; aggiungendo “prolungata”, si fa riferimento alla lunganimità, poiché anch’essa ha alcuni punti in comune con la pazienza.  
+Questo basta per rispondere alle Prima e Seconda Obiezioni.
+
+Risposta all’Obiezione 3: Ciò che è lontano in termini di posizione, sebbene distante da noi, non è necessariamente distante anche dalle cose della natura, al contrario di ciò che è lontano nel tempo; pertanto il paragone non regge. Inoltre, ciò che è remoto in termini di posizione non presenta difficoltà se non in termini di tempo, poiché ciò che si trova lontano da noi arriverà a noi soltanto dopo molto tempo. Ammettiamo il quarto argomento; tuttavia dobbiamo osservare che la ragione della differenza indicata da questo commento risiede nel fatto che è difficile tollerare coloro che peccano per debolezza, semplicemente perché persistono a lungo nell’errore; per questo motivo si dice che vengano trattati con longanimità. Al contrario, il fatto stesso di peccare per orgoglio sembra insopportabile; ed è proprio per questa ragione che coloro che peccano per orgoglio vengono descritti come oggetto di pazienza da parte altrui.
+
 <span class="atom-split" data-atom="069" data-title="OF PERSEVERANCE (FOUR ARTICLES)" data-chapter="OF PERSEVERANCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider perseverance and the vices opposed to it. Under the head of perseverance
@@ -3193,6 +4292,14 @@ there are four points of inquiry:
 (2) Whether it is a part of fortitude?
 (3) Of its relation to constancy;
 (4) Whether it needs the help of grace?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la perseveranza e i vizi che le sono opposti. All’interno della categoria della perseveranza, vi sono quattro aspetti da esaminare:  
+(1) Se la perseveranza sia una virtù;  
+(2) Se faccia parte della forza d’animo;  
+(3) La sua relazione con la costanza;  
+(4) Se abbia bisogno dell’aiuto della grazia divina.
 
 <span class="atom-split" data-atom="070" data-title="Whether perseverance is a virtue?" data-chapter="Whether perseverance is a virtue?" data-kind="atom" data-srclang="en"></span>
 
@@ -3267,6 +4374,24 @@ until the end, belongs to a special virtue called perseverance, which intends th
 Secondly, by reason of the relation of the habit to its subject: and thus unchangeable persistence is
 consequent upon every virtue, inasmuch as virtue is a "quality difficult to change."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la perseveranza non sia una virtù. Infatti, secondo il Filosofo (Etica, vii, 7), la continenza è più importante della perseveranza. Ma la continenza non è considerata una virtù, come affermato nell’Etica, iv, 9. Pertanto, anche la perseveranza non è una virtù.
+
+Obiezione 2: Inoltre, “è per virtù che l’uomo vive rettamente”, secondo [Agostino](/figures/augustine) (De Lib. Arb. ii, 19). Ora, sempre secondo lo stesso autore (De Persever. i), non si può dire che qualcuno possieda la perseveranza mentre è in vita, a meno che non la mantenga fino alla morte. Pertanto, la perseveranza non è una virtù.
+
+Obiezione 3: Inoltre, è requisito di ogni virtù che si persista in modo invariabile nell’adempimento di tale virtù, come affermato nell’Etica ii, 4. Ma proprio questo intendiamo per perseveranza: infatti Tullio dice (De Invent. Rhet. ii) che “la perseveranza è la costante e continua attuazione di un proposito ben ponderato”. Pertanto, la perseveranza non è una virtù a sé stante, ma una condizione essenziale di ogni virtù.
+
+Al contrario, Andronicus [*Chrysippo: in De Affectibus*] afferma che “la perseveranza è un’[abitudine](/concepts/custom) relativa a ciò che dobbiamo fare, a ciò che non dobbiamo fare, e anche a ciò che è indifferente”. Ora, un’abitudine che ci guida a fare qualcosa bene, o a ometterlo, è una virtù. Pertanto, la perseveranza è una virtù.
+
+Rispondo che, secondo il Filosofo (Etica, ii, 3), “la virtù riguarda ciò che è difficile e ciò che è buono”; pertanto, dove esiste un particolare tipo di difficoltà o di bontà, esiste anche una virtù specifica. Ora, un atto virtuoso può implicare bontà o difficoltà in due modi: innanzitutto, a livello della specie stessa dell’atto, considerata in relazione all’oggetto proprio di tale atto; in secondo luogo, a livello del tempo necessario per compiere quell’atto, poiché perseverare a lungo in qualcosa di difficile richiede uno sforzo particolare. Pertanto, persistere a lungo in un’azione buona fino al suo completamento rientra nella categoria delle virtù specifiche. Così come la temperanza e la forza d’animo sono virtù specifiche – poiché la prima modera i piaceri sensoriali (che di per sé rappresentano qualcosa di difficile), mentre la seconda modera la paura e il coraggio di fronte ai pericoli della morte (anch’essi aspetti difficili) – allo stesso modo la perseveranza è una virtù specifica, poiché consiste nel sopportare ritardi o ostacoli nell’esecuzione di atti virtuosi, nella misura in cui ciò sia necessario.
+
+Risposta all’Obiezione 1: Il filosofo intende con “perseveranza” quella capacità di sopportare a lungo ciò che è più difficile da tollerare. Ora, ciò che è difficile da sopportare non è necessariamente qualcosa di buono, ma spesso di malevolo; inoltre, i mali che comportano il rischio di morte di solito non vengono tollerati per lunghi periodi, poiché spesso svaniscono rapidamente. Pertanto, non è proprio in questo senso che la perseveranza merita lode principale. Tra i mali più difficili da sopportare vi sono quelli che contrastano con i piaceri sensoriali, poiché riguardano le necessità essenziali della vita – come la mancanza di cibo e simili – e spesso richiedono una grande capacità di resistenza. Tuttavia, per chi non prova grandi dolori né grandi gioie legate a tali cose, sopportarle a lungo non è così difficile; questo vale soprattutto per le persone moderate, in cui queste passioni non sono intense. Per coloro invece che ne sono profondamente influenzati, poiché manca loro la virtù perfetta che possa moderarle, sopportare tali cose diventa molto più arduo. Pertanto, se si intende per perseveranza questa capacità di tollerare a lungo ciò che è difficile, essa non rappresenta una virtù perfetta, ma piuttosto qualcosa di imperfetto all’interno del genere delle virtù. D’altra parte, se si considera la perseveranza come una persistenza prolungata in qualsiasi tipo di azione buona e difficile, essa è certamente presente anche nelle persone dotate di virtù perfetta: anche se per loro non rappresenta un vero sforzo, esse continuano comunque a perseguire il bene più elevato. Pertanto, una tale perseveranza può essere considerata una virtù, poiché la virtù deriva dalla sua natura positiva, piuttosto che dal grado di difficoltà che comporta.
+
+Risposta all’Obiezione 2: A volte una virtù e il suo atto portano lo stesso nome; ad esempio Agostino afferma nel “Trattato su Giovanni” (lxxix): “La fede consiste nel credere senza vedere”. Tuttavia è possibile possedere l’abitudine di una virtù senza compiere effettivamente l’atto corrispondente: un povero, ad esempio, può avere l’abitudine della magnanimità senza metterla in pratica. Altre volte, una persona che possiede tale abitudine inizia a compiere l’atto, ma non lo completa; per esempio, un costruttore inizia a edificare una casa, ma non la termina. Pertanto, si deve riconoscere che il termine “perseveranza” viene talvolta utilizzato per indicare l’abitudine di perseverare, altre volte l’atto stesso di perseverare; e a volte una persona che possiede questa abitudine sceglie effettivamente di perseverare, inizia ad attuarla, ma non la completa perché non continua fino alla fine. Ora, il “fine” può essere inteso in due modi: da un lato, il completamento dell’opera stessa; dall’altro, la fine della vita umana. In senso stretto, la perseveranza consiste nel portare a termine un’azione virtuosa, ad esempio un soldato che continua a combattere fino alla fine dello scontro, o una persona magnanima che prosegue nel compiere le proprie azioni fino al completamento dell’opera. Tuttavia, ci sono alcune virtù il cui atto deve essere mantenuto per tutta la durata della vita, come la fede, la speranza e la carità, poiché riguardano l’obiettivo finale dell’esistenza umana. Pertanto, per queste virtù principali, l’atto di perseveranza non viene compiuto fino alla fine della vita stessa. È in questo senso che Agostino parla della perseveranza come dell’atto perfetto di perseveranza.
+
+Risposta all’Obiezione 3: L’ostinazione immutabile può appartenere a una virtù in due modi. Primo, in relazione allo scopo specifico che tale virtù si propone; pertanto, perseverare nel bene per un lungo periodo fino al raggiungimento di quell’obiettivo costituisce una virtù particolare chiamata “perseveranza”, la quale ha proprio questo scopo come fine specifico. Secondo, in relazione al rapporto che esiste tra l’abitudine e il soggetto che la possiede: in questo senso, l’ostinazione immutabile è conseguenza di ogni virtù, poiché una virtù è essenzialmente una “qualità difficile da modificare”.
+
 <span class="atom-split" data-atom="071" data-title="Whether perseverance is a part of fortitude?" data-chapter="Whether perseverance is a part of fortitude?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that perseverance is not a part of fortitude. For, according to the
@@ -3311,6 +4436,24 @@ Reply to Objection 3: Augustine speaks there of perseverance, as denoting, not a
 [habit](/concepts/custom), but a virtuous act sustained to the end, according to Mat. 24:13, "He that shall persevere to
 the end, he shall be saved." Hence it is incompatible with such like perseverance for it to be lost,
 since it would no longer endure to the end.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la perseveranza non faccia parte della forza d’animo. Infatti, secondo il Filosofo (Etica viii, 7), “la perseveranza riguarda i dolori fisici”. Ma tali dolori appartengono alla temperanza. Pertanto, la perseveranza è una caratteristica della temperanza piuttosto che della forza d’animo.
+
+Obiezione 2: Inoltre, ogni aspetto di una virtù morale riguarda passioni specifiche che tale virtù modera. Ora, la perseveranza non implica necessariamente la moderazione delle passioni: anzi, più le passioni sono violente, più è lodevole perseverare in conformità con la ragione. Pertanto, sembra che la perseveranza non faccia parte di una virtù morale, bensì della prudenza, che perfeziona il funzionamento della ragione.
+
+Obiezione 3: Inoltre, [Agostino](/figures/augustine) afferma (De Persev. i) che nessuno può perdere la perseveranza; mentre le altre virtù possono essere perse. Pertanto, la perseveranza è più grande di tutte le altre virtù. Ora, una virtù principale è più grande della sua parte; quindi la perseveranza non è una parte di un’altra virtù, ma è essa stessa una virtù principale.
+
+Al contrario, Tullio (in “De Invent. Rhet.”, II) considera la perseveranza come una componente della forza d’animo.
+
+Rispondo che, come già detto sopra (Q[123], A[2]; FS, Q[61], AA[3],4), una virtù principale è quella a cui viene attribuito in modo specifico qualcosa che merita lode, nel senso che essa si manifesta in situazioni in cui è particolarmente difficile mantenerla. In base a ciò, è stato affermato (Q[123], A[2]) che la forza d’animo sia una virtù principale, poiché dimostra fermezza proprio nelle circostanze più pericolose, ovvero nei rischi di morte. Pertanto, è inevitabile che qualsiasi altra virtù che meriti lode per la tenace sopportazione di difficoltà venga considerata secondaria rispetto alla forza d’animo. Inoltre, la capacità di perseverare nell’adempimento di un compito difficile conferisce alla costanza lo stesso diritto alla lode; tale perseveranza non è certo meno ardua della resistenza ai pericoli di morte. Ecco perché la costanza viene considerata una virtù secondaria rispetto alla forza d’animo.
+
+Risposta all’Obiezione 1: L’annessione delle virtù secondarie a quelle principali dipende non solo dalla materia [*Cfr. Q[136], A[4], ad 2*], ma anche dal modo in cui tali virtù vengono realizzate, poiché in ogni caso la forma è più importante della materia. Pertanto, sebbene, in termini di materia, la perseveranza abbia maggiori punti in comune con la temperanza che con la forza d’animo, in termini di modalità di attuazione, essa presenta invece maggiori somiglianze con la forza d’animo, soprattutto per quanto riguarda la capacità di resistere alle difficoltà derivanti dalla durata nel tempo.
+
+Risposta all’Obiezione 2: La perseveranza di cui parla il Filosofo (Etica vii, 4,7) non modera alcuna passione, ma consiste semplicemente in una certa fermezza della ragione e della volontà. Tuttavia, la perseveranza, considerata come virtù, modera alcune passioni, in particolare la paura di stanchezza o di fallimento a causa dei ritardi. Pertanto, questa virtù, proprio come la forza d’animo, appartiene al settore delle passioni irascibili.
+
+Risposta all’Obiezione 3: Agostino parla lì di perseveranza, intesa non come una virtuosa [abitudine](/concepts/custom), ma come un atto virtuoso portato a termine, secondo Matteo 24:13: “Chi persevererà fino alla fine sarà salvato”. Pertanto, è incompatibile con tale concetto di perseveranza che essa venga meno, poiché in tal caso non verrebbe più portata a termine.
 
 <span class="atom-split" data-atom="072" data-title="Whether constancy pertains to perseverance?" data-chapter="Whether constancy pertains to perseverance?" data-kind="atom" data-srclang="en"></span>
 
@@ -3408,6 +4551,12 @@ points of inquiry:
 (1) Of effeminacy;
 (2) Of pertinacity.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare i vizi contrari alla perseveranza; in questa categoria vi sono due aspetti da esaminare:  
+(1) L’effeminatezza;  
+(2) La testardaggine.
+
 <span class="atom-split" data-atom="074" data-title="Whether effeminacy* is opposed to perseverance? [*Mollities, literally 'softness']" data-chapter="Whether effeminacy* is opposed to perseverance? [*Mollities, literally 'softness']" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that effeminacy is not opposed to perseverance. For a gloss on 1 Cor.
@@ -3464,6 +4613,25 @@ the relaxation or rest which is opposed to toil. Accordingly just as it belongs 
 unable to endure toilsome things, so too it belongs thereto to desire play or any other relaxation
 inordinately.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’effemminazione non sia in contraddizione con la perseveranza. Infatti, un commento su 1 Corinzi 6:9,10 – “Né adulteri, né effeminati, né mentitori” – interpreta il testo nel seguente modo: “Gli effeminati, cioè coloro che si dedicano a vizi innaturali”. Ma ciò è in contraddizione con la castità. Pertanto, l’effemminazione non rappresenta un vizio che sia in opposizione alla perseveranza.
+
+Obiezione 2: Inoltre, il Filosofo afferma (Etica vii, 7) che “la delicatezza è una sorta di effeminatezza”.  
+Ma essere delicati sembra simile all’intemperanza; pertanto, l’effeminatezza non si oppone alla perseveranza, ma alla temperanza.
+
+Obiezione 3: Inoltre, il Filosofo afferma (Etica vii, 7) che “l’uomo che ama divertirsi è effemminato”. Ora, un’eccessiva passione per i divertimenti è contraria alla {eutrapelia}, ovvero alla virtù relativa ai piaceri legati al gioco, come indicato nell’Etica iv, 8. Pertanto, l’effeminatezza non è in contrasto con la perseveranza.
+
+Al contrario, il Filosofo afferma (Etica, VII, 7) che “l’uomo perseverante è in opposizione all’effeminato”.
+
+Rispondo che, come già detto sopra (Q[137], AA[1],2), la perseveranza merita lode, poiché permette a un uomo di non abbandonare il bene nonostante le difficoltà e le fatiche che deve affrontare; al contrario, sembrerebbe contraddittorio se un uomo fosse disposto ad abbandonare il bene a causa di difficoltà insormontabili. Questo è ciò che intendiamo per debolezza: si dice infatti che qualcosa sia “debole” quando cede facilmente al contatto; tuttavia, un muro non viene definito debole perché cede sotto i colpi di un ariete. Pertanto, un uomo non può essere considerato debole se resiste ai colpi violenti. Per questo motivo il Filosofo afferma (Etica vii, 7): “Non è sorprendente che una persona venga sopraffatta da piaceri o dolori intensi e irresistibili; tuttavia merita perdono se cerca di resistervi”. È evidente inoltre che la paura del pericolo ha un impatto più forte del desiderio di piacere; per questo Tullio scrive (De Officiis i): “La vera magnanimità consiste in due cose. Non è coerente che una persona, che non si lascia abbattere dalla paura, venga sconfitta dal desiderio, o che, avendo dimostrato di essere indomabile di fronte alle fatiche, ceda al piacere”. Inoltre, il piacere stesso rappresenta un motivo di attrazione più forte del dolore, poiché la mancanza di piacere induce alla ritirata. Pertanto, secondo il Filosofo (Etica vii, 7), un uomo veramente debole è colui che si allontana dal bene a causa del dolore causato dalla privazione del piacere, cedendo così a una sorta di debolezza interiore.
+
+Risposta all’Obiezione 1: Questa effeminazione si verifica in due modi. In primo luogo, a causa della [CONSUETUDINE](/concepts/custom): quando un uomo è abituato ad godere di piaceri, gli diventa più difficile sopportarne la mancanza. In secondo luogo, per disposizione naturale, poiché la sua mente, a causa della debolezza del suo temperamento, è meno perseverante. È così che le donne vengono paragonate agli uomini, come afferma il Filosofo (Etica vii, 7): per questo motivo coloro che praticano attivamente l’omosessualità sono considerati effeminati, poiché si comportano in modo quasi femminile.
+
+Risposta all’Obiezione 2: Il lavoro duro è in contrasto con i piaceri fisici; pertanto sono soltanto le attività faticose a rappresentare un ostacolo ai piaceri. I delicati, dunque, sono coloro che non riescono a sopportare il lavoro duro né qualsiasi cosa possa ridurre i loro piaceri. Ecco perché si legge (Deuteronomio 28:56): “La donna tenera e delicata, che non può camminare sul terreno né posare il piede su nulla, per via della sua delicatezza”. Così la delicatezza rappresenta una sorta di effeminatezza. Tuttavia, in senso stretto, l’effeminatezza riguarda la mancanza di piaceri, mentre la delicatezza si riferisce alle cause che ostacolano il godimento dei piaceri, come ad esempio il lavoro duro o simili fattori.
+
+Risposta all’Obiezione 3: Nel caso del gioco, si possono considerare due aspetti. In primo luogo, c’è il piacere derivante dal gioco stesso; pertanto, un’eccessiva passione per esso è contraria al concetto di {eutrapelia}. In secondo luogo, si può considerare l’aspetto del rilassamento o del riposo che il gioco fornisce, in opposizione allo sforzo e alla fatica. Così come appartiene alla debolezza non essere in grado di sopportare attività faticose, allo stesso modo appartiene alla debolezza desiderare eccessivamente il gioco o qualsiasi altro mezzo di rilassamento.
+
 <span class="atom-split" data-atom="075" data-title="Whether pertinacity is opposed to perseverance?" data-chapter="Whether pertinacity is opposed to perseverance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that pertinacity is not opposed to perseverance. For Gregory says (Moral.
@@ -3509,12 +4677,36 @@ they are not commended for persisting in the same way as perseverance is. As to 
 claim to praise seems to lie rather in overcoming pleasures. Hence pertinacity is directly opposed
 to perseverance.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la testardaggine non sia contraria alla perseveranza. Infatti Gregorio afferma (Moralia, xxxi) che la testardaggine derivi dall’orgoglio. Ma l’orgoglio non è contrario alla perseveranza, bensì alla magnanimità, come già detto sopra (Q[132], A[2]). Pertanto, la testardaggine non è contraria alla perseveranza.
+
+Obiezione 2: Inoltre, se la perseveranza fosse contraria alla tenacia, ciò accadrebbe sia per eccesso che per difetto. Ora, non è contraria per eccesso: infatti anche coloro che sono ostinati cedono di fronte a certi piaceri o dolori, poiché, secondo il Filosofo (Etica, vii, 9), “si rallegrano quando hanno la meglio e si addolorano quando le loro opinioni vengono respinte”. E se fosse contraria per difetto, sarebbe equivalente alla debolezza, il che è chiaramente falso. Pertanto, la tenacia non è in alcun modo contraria alla perseveranza.
+
+Obiezione 3: Inoltre, proprio come l’uomo perseverante continua a compiere il bene nonostante la tristezza, allo stesso modo il temperante resiste ai piaceri, il coraggioso affronta la paura e il mite si scontra con l’[ira](/concepts/anger). Ma la tenacia è una sorta di eccessiva perseveranza in qualcosa; pertanto, la tenacia non è opposta alla perseveranza più di quanto lo sia ad altre virtù.
+
+Al contrario, Tullio afferma (De Invent. Rhet. ii) che la testardaggine è alla perseveranza ciò che la superstizione è alla religione. Ma la superstizione è contraria alla religione, come già detto sopra (Q[92], A[1]). Pertanto, anche la testardaggine è contraria alla perseveranza.
+
+Rispondo che, come afferma Isidoro nell’“Etymologia” x, “si dice che una persona sia testarda quando si attacca con insistenza e senza vergogna, dimostrando di essere estremamente ostinata”. Anche il termine “persecutiva” ha lo stesso significato: indica infatti una persona che persevera nella propria determinazione fino a ottenere la vittoria, poiché gli antichi chiamavano “vittoria” ciò che noi oggi definiamo successo. Il Filosofo (Etica vii, 9) definisce queste persone “ischirognomones”, cioè testarde e ostinate, oppure “idiognomones”, cioè presuntuose e autocompiaciute, poiché si attengono alle proprie opinioni più di quanto sia opportuno; al contrario, la persona debole lo fa meno di quanto dovrebbe, mentre quella perseverante lo fa esattamente come è necessario. È quindi evidente che la perseveranza venga lodata quando si mantiene un equilibrio giusto, mentre l’ostinazione viene biasimata quando si va oltre tale equilibrio, e la debolezza viene criticata quando se ne manca.
+
+Risposta all’Obiezione 1: Il motivo per cui un uomo è troppo ostinato nella propria opinione è che desidera in questo modo mettere in evidenza la propria eccellenza; pertanto, ciò deriva dall’orgoglio, che ne costituisce la causa. Come già detto in precedenza (Q[127], A[2], ad 1; Q[133], A[2]), l’opposizione tra vizi e virtù dipende non dalla loro causa, ma dalla loro natura specifica.
+
+Risposta all’Obiezione 2: L’uomo ostinato supera molte difficoltà persistendo in modo eccessivo in qualcosa; tuttavia, alla fine prova un certo piacere, proprio come l’uomo coraggioso e perseverante. Poiché questo piacere è peccaminoso – poiché lo desidera troppo e evita il dolore opposto – quest’uomo è simile all’uomo incontinente o effeminato.
+
+Risposta all’Obiezione 3: Sebbene le altre virtù resistano all’assalto delle passioni, non vengono lodate per la loro capacità di persistere nello stesso modo in cui lo è la perseveranza. Per quanto riguarda la continenza, il suo merito sembra risiedere piuttosto nella capacità di superare i piaceri. Pertanto, l’ostinazione è direttamente opposta alla perseveranza.
+
 <span class="atom-split" data-atom="076" data-title="OF THE GIFT OF FORTITUDE (TWO ARTICLES)" data-chapter="OF THE GIFT OF FORTITUDE (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider the gift corresponding to fortitude, and this is the gift of fortitude. Under
 this head there are two points of inquiry:
 (1) Whether fortitude is a gift?
 (2) Which among the beatitudes and fruits correspond to it?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il dono che corrisponde alla forza d’animo, e questo è proprio il dono della forza d’animo. In questa categoria esistono due questioni da indagare:  
+(1) Se la forza d’animo sia davvero un dono;  
+(2) Quali tra le beatitudini e i frutti spirituali vi corrispondano.
 
 <span class="atom-split" data-atom="077" data-title="Whether fortitude is a gift?" data-chapter="Whether fortitude is a gift?" data-kind="atom" data-srclang="en"></span>
 
@@ -3560,6 +4752,24 @@ Reply to Objection 3: The gift of fortitude regards the virtue of fortitude not 
 consists in enduring dangers, but also inasmuch as it consists in accomplishing any difficult work.
 Wherefore the gift of fortitude is directed by the gift of counsel, which seems to be concerned
 chiefly with the greater goods.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la forza d’animo non sia un dono. Infatti, le virtù si distinguono dai doni; e la forza d’animo è una virtù. Pertanto, non dovrebbe essere considerata un dono.
+
+Obiezione 2: Inoltre, gli atti legati ai doni divini rimangono in cielo, come detto sopra (FS, Q[68], A[6]). Ma l’atto di forza d’animo non rimane in cielo: infatti Gregorio afferma (Moralia i) che “la forza d’animo incoraggia coloro che sono deboli di fronte alle difficoltà, le quali, in cielo, saranno del tutto assenti”. Pertanto, la forza d’animo non è un dono divino.
+
+Obiezione 3: Inoltre, [Agostino](/figures/augustine) afferma (De Doctrina Christiana ii) che “tagliarsi fuori da tutti i piaceri mortali di questo mondo effimero è un segno di forza d’animo”. Ora, i piaceri e le delizie nocive rientrano nell’ambito della temperanza, non della forza d’animo. Pertanto, sembra che la forza d’animo non sia il dono corrispondente alla virtù stessa della forza d’animo.
+
+Al contrario, la Forza è considerata tra gli altri doni dello Spirito Santo (Isaia 11:2).
+
+Rispondo che la forza d’animo indica una certa fermezza di volontà, come già detto sopra (Q[123], A[2]; FS, Q[61], A[3]): e questa fermezza è necessaria sia nel compiere il bene che nel sopportare il male, soprattutto quando si tratta di azioni difficili o di sofferenze gravi. L’uomo, secondo la sua natura propria e innata, è in grado di possedere questa fermezza in entrambi i casi, affinché non abbandoni il bene a causa delle difficoltà, sia nel compiere un’impresa ardua che nel sopportare sofferenze ingiuste. In questo senso, la forza d’animo rappresenta una virtù speciale o generale, come già menzionato (Q[123], A[2]). Tuttavia, lo Spirito Santo muove anche la mente umana affinché l’uomo possa portare a termine ogni impresa intrapresa e evitare tutti i pericoli che potrebbero minacciarlo. Questo va oltre le possibilità della natura umana: talvolta, infatti, non è in nostro potere raggiungere l’obiettivo delle nostre azioni o sfuggire ai mali e ai pericoli, poiché questi possono sopraffarci anche con la morte. Ma lo Spirito Santo opera in noi, portandoci alla vita eterna, che è il compimento di ogni bene e la liberazione da tutti i pericoli. Una certa fiducia in ciò viene infusa nella nostra mente dallo Spirito Santo stesso, che scaccia ogni timore del contrario. È in questo senso che la forza d’animo viene considerata un dono dello Spirito Santo. Come già detto sopra (FS, Q[68], AA[1],2), i doni dello Spirito Santo riguardano proprio l’influenza che Egli esercita sulla nostra mente.
+
+Risposta all’Obiezione 1: La forza d’animo, come virtù, perfeziona l’intelligenza nel sopportare ogni sorta di pericolo; tuttavia, non arriva al punto di dare la certezza di poter superare tutti i pericoli: ciò appartiene alla forza d’animo che è un dono dello Spirito Santo.
+
+Risposta all’Obiezione 2: I doni celesti non hanno gli stessi effetti o azioni nel cielo che sulla terra; infatti, essi si manifestano nell’ambito del godimento dello scopo finale per cui sono stati concessi. Pertanto, l’atto di forza d’animo in cielo ha lo scopo di garantire una piena sicurezza dal dolore e dal male.
+
+Risposta all’Obiezione 3: Il dono della forza d’animo riguarda la virtù della forza stessa non solo perché consiste nel sopportare pericoli, ma anche perché comporta l’attuazione di compiti difficili. Pertanto, il dono della forza d’animo è guidato dal dono del consiglio, che sembra essere principalmente interessato ai beni più importanti.
 
 <span class="atom-split" data-atom="078" data-title="Whether the fourth beatitude: \&quot;Blessed are they that hunger and thirst after justice,\&quot; corresponds to the gift of fortitude?" data-chapter="Whether the fourth beatitude: \&quot;Blessed are they that hunger and thirst after justice,\&quot; corresponds to the gift of fortitude?" data-kind="atom" data-srclang="en"></span>
 
@@ -3610,6 +4820,12 @@ We must next consider the precepts of fortitude:
 (1) The precepts of fortitude itself;
 (2) The precepts of its parts.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora esaminare i precetti della forza d’animo:  
+(1) I precetti legati alla forza d’animo in sé;  
+(2) I precetti relativi alle sue componenti.
+
 <span class="atom-split" data-atom="080" data-title="Whether the precepts of fortitude are suitably given in the Divine Law?" data-chapter="Whether the precepts of fortitude are suitably given in the Divine Law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the precepts of fortitude are not suitably given in the [Divine Law](/concepts/divine_law).
@@ -3659,6 +4875,25 @@ of the decalogue had to be chiefly about those acts of justice in which the noti
 and not about acts of fortitude, because it is not so evident that it is a duty for a person not to fear
 dangers of death.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i precetti di forza d’animo non siano stati adeguatamente enunciati nella [Legge Divina](/concepts/divine_law).  
+Infatti, la Nuova Legge è più perfetta della Vecchia Legge; tuttavia quest’ultima contiene precetti di forza d’animo (Deuteronomio 20). Pertanto, anche i precetti di forza d’animo avrebbero dovuto essere inclusi nella Nuova Legge.
+
+Obiezione 2: Inoltre, i precetti affermativi sono di maggiore rilevanza rispetto ai precetti negativi, poiché quelli affermativi includono necessariamente anche quelli negativi, ma non il contrario. Pertanto, non sarebbe appropriato che la Legge Divina contenesse soltanto precetti negativi volti ad eliminare la paura.
+
+Obiezione 3: Inoltre, la forza d’animo è una delle virtù principali, come già affermato sopra (Q[123], A[2]; FS, Q[61], A[2]). Ora, i precetti sono rivolti alle virtù in relazione al loro fine; pertanto dovrebbero essere proporzionati ad esse. Di conseguenza, i precetti relativi alla forza d’animo avrebbero dovuto essere inclusi tra i precetti del Decalogo, che rappresentano i principali comandamenti della Legge.
+
+Al contrario, esistono le Sacre Scritture che contengono questi precetti.
+
+Rispondo che i precetti della legge sono volti al fine inteso dal legislatore. Pertanto, tali precetti devono necessariamente essere formulati in modi diversi, in base ai vari scopi perseguiti dai legislatori; così, anche nelle questioni umane esistono leggi per le democrazie, altre per i regni e ancora altre per i governi tirannici. Ora, lo scopo della Legge Divina è che l’uomo si attenga a Dio; per questo motivo, la Legge Divina contiene precetti sia di forza d’animo che di altre virtù, al fine di indirizzare l’intelletto verso Dio. Per questa ragione si legge (Deuteronomio 20:3-4): “Non temeteli, perché il Signore vostro Dio è in mezzo a voi e combatterà per voi contro i vostri nemici”. Quanto alle leggi umane, esse sono volte a determinati beni terreni; tra di esse si trovano precetti di forza d’animo, in linea con le esigenze di tali beni.
+
+Risposta all’Obiezione 1: L’Antico Testamento conteneva promesse legate al tempo, mentre le promesse del Nuovo Testamento sono spirituali ed eterne, secondo [Agostino](/figures/augustine) (Contra Faustus, iv). Pertanto, nell’Antico Testamento era necessario insegnare al popolo come combattere, anche in contesti fisici, al fine di ottenere possedimenti terreni. Nel Nuovo Testamento, invece, gli uomini dovevano essere guidati a conquistare la vita eterna attraverso una lotta spirituale; come afferma Matteo 11:12: “Il regno dei cieli subisce violenza, e coloro che usano la violenza lo prenderanno con la forza”. Per questo motivo Pietro esorta (1 Pietro 5:8-9): “Resistete al diavolo, che come leone ruggente va in giro cercando chi possa divorare; voi, però, rimanete saldi nella fede”. Anche Giacomo scrive nel versetto 4:7: “Resistete al diavolo e lui se ne andrà da voi”. Tuttavia, poiché gli uomini, nell’inseguire i beni spirituali, possono essere ostacolati da pericoli fisici, anche nel Nuovo Testamento furono dati precetti di forza e coraggio, affinché potessero sopportare con valore le avversità temporali; come afferma Matteo 10:28: “Non temete coloro che uccidono il corpo”.
+
+Risposta all’Obiezione 2: La legge fornisce indicazioni generali nei suoi precetti. Tuttavia, le azioni da compiere in caso di pericolo non possono essere ridotte, a differenza di quelle da evitare, a qualcosa di comune e universale. Pertanto, i precetti relativi alla fortitudine sono di natura negativa piuttosto che positiva.
+
+Risposta all’Obiezione 3: Come già detto sopra (Q[122], A[1]), i precetti del decalogo sono inseriti nella Legge come principi fondamentali che devono essere conosciuti da tutti fin dall’inizio. Pertanto, i precetti del decalogo riguardano principalmente quegli atti di giustizia in cui il concetto di dovere è evidente, e non gli atti di forza d’animo, poiché non è così ovvio che sia un dovere per una persona non temere i pericoli della morte.
+
 <span class="atom-split" data-atom="081" data-title="Whether the precepts of the parts of fortitude are suitably given in the Divine Law?" data-chapter="Whether the precepts of the parts of fortitude are suitably given in the Divine Law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the precept of the parts of fortitude are unsuitably given in the Divine
@@ -3703,6 +4938,22 @@ in particular. On the other hand, patience and perseverance are about minor hard
 wherefore there is less danger in determining, especially in general, what is to be done in such
 cases.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i precetti relativi alle componenti della forza d’animo siano formulati in modo inadeguato nella Legge Divina. Poiché sia la pazienza che la perseveranza fanno parte della forza d’animo, allo stesso modo lo sono anche la magnanimità e la fiducia in sé, come già detto sopra (Q[128]). Ora troviamo precetti sulla pazienza nella Legge Divina, così come su quella della perseveranza; pertanto dovrebbero esserci anche precetti sulla magnanimità e sulla fiducia in sé.
+
+Obiezione 2: Inoltre, la pazienza è una virtù assolutamente necessaria, poiché rappresenta il custode delle altre virtù, come afferma Gregorio (Hom. in Evang. xxxv). Ora, le altre virtù vengono comandate in modo assoluto; pertanto anche la pazienza non dovrebbe essere stata comandata solo in modo relativo alla preparazione mentale, come sostiene Agostino (De Serm. Dom. in Monte i).
+
+Obiezione 3: Inoltre, la pazienza e la perseveranza fanno parte della virtù della forza d’animo, come detto sopra (Q[128]; Q[136], A[4]; Q[137], A[2]). Ora, i precetti legati alla forza d’animo non sono positivi, ma soltanto negativi, come affermato in precedenza (A[1], ad 2). Pertanto, anche i precetti relativi alla pazienza e alla perseveranza dovrebbero essere negativi e non positivi. Tuttavia, il contrario risulta dalla maniera in cui tali precetti sono espressi nelle Scritture Sacre.
+
+Rispondo che la Legge Divina insegna all’uomo in modo perfetto ciò che è necessario per vivere rettamente. Ora, affinché si possa vivere rettamente, non è sufficiente disporre soltanto delle virtù principali, ma anche di quelle secondarie e accessorie. Pertanto, la Legge Divina contiene precetti non solo riguardanti gli atti legati alle virtù principali, ma anche quelli relativi alle virtù secondarie e accessorie.
+
+Risposta all’Obiezione 1: La magnificenza e la magnanimità non appartengono al genere della forza d’animo, se non per via di una certa eccellenza legata alla grandezza che esse presentano nei rispettivi ambiti. Ora, le cose relative all’eccellenza rientrano tra i consigli volti al perfezionamento piuttosto che tra i precetti imposti come obblighi. Pertanto, riguardo alla magnificenza e alla magnanimità erano necessari consigli, non precetti. D’altra parte, le difficoltà e le fatiche della vita presente rientrano nella sfera della pazienza e della perseveranza; ciò non avviene per via di una qualche grandezza intrinseca a tali virtù, ma proprio a causa della loro natura stessa. Ecco perché sono necessari precetti riguardo alla pazienza e alla perseveranza.
+
+Risposta all’Obiezione 2: Come già detto sopra (Q[3], A[2]), sebbene i precetti affermativi siano sempre vincolanti, essi non lo sono in modo assoluto, ma in relazione al luogo e al tempo. Pertanto, proprio come i precetti relativi alle altre virtù vanno intesi nel senso della preparazione mentale dell’uomo ad attuarli quando necessario, allo stesso modo vanno interpretati anche i precetti della pazienza.
+
+Risposta all’Obiezione 3: La forza d’animo, a differenza della pazienza e della perseveranza, riguarda i pericoli più gravi nei quali è necessario agire con cautela; inoltre, non è indispensabile stabilire con precisione cosa sia da fare in ogni singolo caso. D’altra parte, la pazienza e la perseveranza si riferiscono a difficoltà e fatiche minori, per cui è meno rischioso determinare, anche in modo generale, quali siano le azioni da intraprendere in tali situazioni.
+
 <span class="atom-split" data-atom="082" data-title="OF TEMPERANCE (EIGHT ARTICLES)" data-chapter="OF TEMPERANCE (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 In the next place we must consider temperance: (1) Temperance itself; (2) its parts; (3) its
@@ -3716,6 +4967,18 @@ Under the first head there are eight points of inquiry:
 (6) What is the rule of temperance?
 (7) Whether it is a cardinal, or principal, virtue?
 (8) Whether it is the greatest of virtues ?
+
+<span class="qlang-split" data-lang="it"></span>
+
+In seguito dobbiamo considerare la temperanza: (1) La temperanza stessa; (2) Le sue componenti; (3) I suoi precetti. Per quanto riguarda la temperanza, dobbiamo esaminare: (1) La temperanza stessa; (2) I vizi contrari ad essa. All’interno di questa prima categoria vi sono otto punti da analizzare:  
+(1) Se la temperanza sia una virtù;  
+(2) Se sia una virtù specifica;  
+(3) Se riguardi soltanto desideri e piaceri;  
+(4) Se riguardi esclusivamente i piaceri tattili;  
+(5) Se riguardi i piaceri del gusto, in sé stessi, o solo come una forma di piacere tattile;  
+(6) Qual è la regola della temperanza;  
+(7) Se sia una virtù fondamentale o principale;  
+(8) Se sia la più grande delle virtù.
 
 <span class="atom-split" data-atom="083" data-title="Whether temperance is a virtue?" data-chapter="Whether temperance is a virtue?" data-kind="atom" data-srclang="en"></span>
 
@@ -3763,6 +5026,24 @@ respect it corresponds to the virtue of hope, as stated above (Q[19], A[9], ad 1
 for its secondary object whatever a man shuns in order to avoid offending God. Now man stands
 in the greatest need of the fear of God in order to shun those things which are most seductive, and
 these are the matter of temperance: wherefore the gift of fear corresponds to temperance also.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la moderazione non sia una virtù. Infatti, nessuna virtù va contro l’istinto naturale, poiché “in noi esiste un’inclinazione naturale verso le virtù”, come affermato nell’Etica ii, 1. Ora, la moderazione ci allontana dai piaceri verso i quali la natura ci spinge, secondo l’Etica ii, 3,8. Pertanto, la moderazione non è una virtù.
+
+Obiezione 2: Inoltre, le virtù sono tra loro collegate, come detto sopra (FS, Q[65], A[1]). Tuttavia alcune persone possiedono la temperanza senza avere le altre virtù; infatti troviamo molte persone moderate, ma al contempo avarie o timide. Pertanto, la temperanza non è una vera virtù.
+
+Obiezione 3: Inoltre, per ogni virtù esiste un dono corrispondente, come risulta da quanto abbiamo detto in precedenza (FS, Q[68], A[4]). Ma sembra che nessun dono corrisponda alla temperanza, poiché tutti i doni sono già stati attribuiti alle altre virtù (QQ[8],9,19,45,52, 71,139). Pertanto, la temperanza non è una virtù.
+
+Al contrario, [Agostino](/figures/augustine) afferma (Musica, VI, 15): “La temperanza è il nome di una virtù”.
+
+Rispondo che, come già detto sopra (FS, Q[55], A[3]), è essenziale per la virtù che essa spinga l’uomo verso il bene. Ora, il bene dell’uomo consiste nel conformarsi alla ragione, come afferma Dionigi (Div. Nom. iv). Pertanto, la virtù umana è quella che induce l’uomo ad agire in modo conforme alla ragione. La temperanza, chiaramente, spinge l’uomo verso questo scopo, poiché il suo stesso nome indica moderazione e equilibrio, valori che sono indotti dalla ragione. Quindi la temperanza è una virtù.
+
+Risposta all’Obiezione 1: La natura spinge ogni cosa verso ciò che le è conforme. Pertanto, l’uomo desidera naturalmente piaceri che siano in armonia con la sua natura umana. Tuttavia, poiché l’uomo è essenzialmente un essere razionale, è evidente che i piaceri veramente conformi alla ragione sono quelli che non contraddicono il suo intelletto. Da tali piaceri la temperanza non lo allontana; al contrario, si oppone a quelli che sono in contrasto con la ragione. È quindi chiaro che la temperanza non è contraria alla natura umana, ma ne è in accordo. Al contrario, è contraria alle inclinazioni della natura animale, quella che non è soggetta alla ragione.
+
+Risposta all’Obiezione 2: La temperanza che soddisfa le condizioni della virtù perfetta non è priva di prudenza, mentre questa manca in coloro che sono in peccato. Pertanto, coloro che sono privi di altre virtù, essendo soggetti ai vizi opposti, non possiedono quella temperanza che costituisce una vera e propria virtù; tuttavia compiono atti di temperanza per via di una certa disposizione naturale. Infatti, alcune virtù imperfette sono o naturali all’uomo, come detto sopra (FS, Q[63], A[1]), oppure acquisite attraverso l’abitudine; queste virtù, a causa della mancanza di prudenza, non vengono perfezionate dalla ragione, sempre secondo quanto detto sopra (FS, Q[65], A[1]).
+
+Risposta all’Obiezione 3: La temperanza possiede anch’essa un dono corrispondente, ovvero la paura, che impedisce all’uomo di indulgere nei piaceri della carne, come si legge nel Salmo 118:120: “Pugnalami con la tua paura”. Il dono della paura ha come oggetto principale Dio, al quale si mira a non offendere; in questo senso corrisponde alla virtù della speranza, come già detto sopra (Q[19], A[9], ad 1). Tuttavia può anche avere come oggetto secondario qualsiasi cosa l’uomo eviti al fine di non offendere Dio. L’uomo ha infatti un’estrema necessità della paura di Dio per astenersi da ciò che è più seducente, e proprio queste cose rientrano nell’ambito della temperanza; pertanto anche il dono della paura corrisponde alla temperanza.
 
 <span class="atom-split" data-atom="084" data-title="Whether temperance is a special virtue?" data-chapter="Whether temperance is a special virtue?" data-kind="atom" data-srclang="en"></span>
 
@@ -3819,6 +5100,24 @@ synonymous with moral goodness, from the point of view of decorum] is a special 
 temperance: for Isidore says (Etym. x): "An honest man is one who has no defilement, for honesty
 means an honorable state." This is most applicable to temperance, which withstands the vices that
 bring most dishonor on man, as we shall state further on (Q[142], A[4]).
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la temperanza non sia una virtù particolare. Infatti, [Agostino](/figures/augustine) afferma (De Morib. Eccl. XV) che “appartiene alla temperanza preservare la propria integrità e libertà dalla corruzione per amore di Dio”. Ma ciò è comune a tutte le virtù. Pertanto, la temperanza non è una virtù particolare.
+
+Obiezione 2: Inoltre, Ambrogio afferma (De Offic. i, 42) che “quello che più cerchiamo e osserviamo nella temperanza è la tranquillità dell’anima”. Ma questa caratteristica è comune a tutte le virtù. Pertanto, la temperanza non è una virtù particolare.
+
+Obiezione 3: Inoltre, Tullio afferma (De Offic. i, 27) che “non possiamo separare il bello dal virtuoso” e che “quello che è giusto è anche bello”. Ora, il bello viene considerato qualcosa che appartiene intrinsecamente alla temperanza, secondo lo stesso autore (Tullio, De Offic. i, 27). Pertanto, la temperanza non è una virtù particolare.
+
+Al contrario, il Filosofo (Etica, ii, 7; iii, 10) la considera una virtù particolare.
+
+Rispondo che, nel linguaggio umano, è consuetudine utilizzare un termine comune in senso ristretto per designare le cose principali alle quali tale termine si applica; ad esempio, la parola “città” viene usata in modo antonomastico per indicare Roma. L’antonomasia è una figura retorica che consiste nel sostituire il termine generale con quello individuale; per esempio, “il Filosofo” al posto di “Aristotele”. Pertanto, la parola “temperanza” ha due significati diversi. In primo luogo, secondo il suo significato comune, la temperanza è una virtù generale: indica infatti un certo grado di moderazione o misura nelle azioni e nelle passioni umane, caratteristica comune a tutte le virtù morali. Tuttavia, esiste una differenza logica tra temperanza e forza d’animo, anche se entrambe vengono considerate virtù generali: la temperanza allontana l’uomo da quelle cose che inducono il desiderio ad ignorare la ragione, mentre la forza d’animo lo incoraggia a sopportare o resistere a tali cose pur di perseguire il bene razionale. D’altra parte, se si intende la temperanza in senso antonomastico – cioè come la capacità di astenersi da ciò che è più seducente per l’uomo – allora essa diventa una virtù specifica, simile alla forza d’animo, poiché riguarda un ambito concreto delle nostre azioni.
+
+Risposta all’Obiezione 1: L’appetito umano viene corrotto principalmente da quelle cose che lo inducono a abbandonare la guida della ragione e la [Legge Divina](/concepts/divine_law). Pertanto, l’integrità, che Agostino attribuisce alla temperanza, può essere intesa in due modi: innanzitutto in senso generale, e in secondo luogo in senso di eccellenza.
+
+Risposta all’Obiezione 2: Le cose di cui tratta la temperanza hanno un effetto estremamente perturbante sull’anima, poiché sono naturali all’uomo, come spiegheremo più avanti (AA[4],5). Pertanto, la tranquillità dell’anima viene attribuita alla temperanza come sua caratteristica distintiva, sebbene essa sia una proprietà comune a tutte le virtù.
+
+Risposta all’Obiezione 3: Sebbene la [bellezza](/concepts/beauty) sia connessa a ogni virtù, essa viene attribuita alla temperanza in quanto sua caratteristica distintiva, per due motivi. Primo, in relazione al concetto generico di temperanza, che consiste in una certa proporzione moderata e appropriata; ed è proprio questo ciò che intendiamo per bellezza, come afferma Dionisio nel “Divine Nomi” iv. Secondo, perché le cose dalle quali la temperanza ci preserva sono quelle che occupano il rango più basso nell’essere umano e che lo riguardano soltanto dal punto di vista della sua natura animale; come spiegheremo ulteriormente (AA[4],5; Q[142], A[4]). Pertanto, è naturale che tali cose possano contaminare l’uomo. Di conseguenza, la bellezza rappresenta un attributo fondamentale della temperanza, poiché essa impedisce soprattutto all’uomo di essere corrotto. Allo stesso modo, l’onestà – intesa in senso lato come sinonimo di bontà morale, dal punto di vista del decoro – è un altro attributo specifico della temperanza; infatti Isidoro afferma nell’“Etimologia” x: “Un uomo onesto è colui che non presenta alcuna macchia, poiché l’onestà significa uno stato nobile”. Ciò si applica particolarmente alla temperanza, che resiste ai vizi che causano la maggiore disonore all’uomo, come illustreremo ulteriormente (Q[142], A[4]).
 
 <span class="atom-split" data-atom="085" data-title="Whether temperance is only about desires and pleasures?" data-chapter="Whether temperance is only about desires and pleasures?" data-kind="atom" data-srclang="en"></span>
 
@@ -3962,6 +5261,32 @@ greater and more binding.
 Reply to Objection 5: Not all pleasures of touch regard the preservation of nature, and
 consequently it does not follow that temperance is about all pleasures of touch.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la temperanza riguardi non solo i desideri e i piaceri legati ai sensi tattili. Infatti, [Agostino](/figures/augustine) afferma nel “De Morib. Eccl.” xix che “la funzione della temperanza è quella di controllare e reprimere i desideri che ci spingono verso cose che ci allontanano dalle leggi di Dio e dai frutti della Sua bontà”; inoltre aggiunge che “è dovere della temperanza respingere ogni tentazione fisica e ogni lode popolare”. Ora, siamo allontanati dalle leggi di Dio non solo a causa del desiderio per i piaceri tattili, ma anche per quelli legati agli altri sensi, poiché anch’essi rientrano tra le tentazioni fisiche; inoltre, siamo allontanati anche dal desiderio di ricchezze o di gloria mondana. Per questo motivo è scritto (1 Timoteo 6:10): “La cupidigia è la radice di tutti i mali”. Pertanto, la temperanza riguarda non solo i desideri legati ai piaceri tattili.
+
+Obiezione 2: Inoltre, il Filosofo afferma (Etica iv, 3) che “colui che è degno di piccole cose e si ritiene tale è moderato, ma non nobile”. Ora, le onori, sia piccole che grandi, di cui parla qui, sono oggetto di piacere, non del senso del tatto, bensì dell’intuizione dell’anima. Pertanto, la moderazione riguarda non solo i desideri legati ai piaceri sensoriali.
+
+Obiezione 3: Inoltre, le cose che appartengono allo stesso genere sembrerebbero riferirsi, sotto lo stesso aspetto, alla materia di una particolare virtù. Ora, tutti i piaceri sensuali appaiono appartenere allo stesso genere; pertanto, tutti quanti appartengono ugualmente alla materia della temperanza.
+
+Obiezione 4: Inoltre, i piaceri spirituali sono superiori ai piaceri del corpo, come affermato sopra (FS, Q[31], A[5]) nel trattato sulle passioni. Talvolta gli uomini però abbandonano le leggi di Dio e lo [stato](/concepts/state) di virtù a causa della ricerca dei piaceri spirituali, ad esempio a causa della curiosità riguardo alle questioni del sapere; è proprio per questo che il diavolo promise all’uomo la conoscenza, dicendo (Genesi 3:5): “Diventerete come Dio, conoscendo il bene e il male”. Pertanto, la temperanza non riguarda soltanto i piaceri sensoriali.
+
+Obiezione 5: Inoltre, se i piaceri tattili fossero l’oggetto specifico della temperanza, ne conterrebbe che la temperanza riguardi tutti i piaceri tattili. Ma non è così: ad esempio, essa non riguarda quei piaceri che derivano dai giochi. Pertanto, i piaceri tattili non sono l’oggetto specifico della temperanza.
+
+Al contrario, il Filosofo afferma (Etica, III, 10) che “la temperanza riguarda propriamente i desideri legati ai piaceri tattili”.
+
+Rispondo che, come già detto sopra (A[3]), la temperanza riguarda i desideri e i piaceri nello stesso modo in cui la forza d’animo riguarda la paura e il coraggio. La forza d’animo, infatti, si riferisce alla paura e al coraggio nei confronti dei mali più gravi che potrebbero distruggere la stessa natura umana; tali mali sono i pericoli legati alla morte. Allo stesso modo, la temperanza deve riguardare i desideri legati ai piaceri più grandi. Poiché il piacere deriva da processi naturali, esso è tanto maggiore quanto più questi processi sono spontanei e naturali. Per gli animali, i processi naturali più importanti sono quelli che permettono di preservare la natura individuale attraverso il cibo e la bevanda, nonché la natura della specie attraverso l’unione dei sessi. Pertanto, la temperanza riguarda propriamente i piaceri derivanti dal cibo, dalla bevanda e dagli atti sessuali; questi piaceri, a loro volta, sono legati al senso del tatto. Ne consegue che la temperanza si occupi proprio dei piaceri sensoriali.
+
+Risposta all’Obiezione 1: Nel passaggio citato, Agostino considera la temperanza non come una virtù speciale avente un oggetto specifico, ma come qualcosa che riguarda la moderazione della ragione in qualsiasi ambito; e questa è una condizione generale di ogni virtù. Tuttavia, si può anche osservare che se un uomo è in grado di controllare i piaceri più intensi, tanto più potrà controllarne anche quelli meno forti. Pertanto, spetta principalmente e propriamente alla temperanza moderare i desideri e i piaceri legati ai sensi, e in secondo luogo anche altri tipi di piacere.
+
+Risposta all’Obiezione 2: Il filosofo intende la temperanza come un segno di moderazione nelle cose esterne, ovvero quando una persona tende verso ciò che è proporzionato a lei; ma non la considera come un segno di moderazione nelle emozioni dell’anima, il che riguarderebbe invece la virtù della temperanza stessa.
+
+Risposta all’Obiezione 3: I piaceri degli altri sensi svolgono un ruolo diverso nell’uomo e negli altri animali. Negli altri animali, infatti, i piaceri derivano dagli altri sensi soltanto in relazione agli oggetti tangibili; ad esempio, il leone prova piacere nel vedere la preda o nell’udire il suo richiamo, poiché questi elementi rappresentano una fonte di cibo per lui. Dall’altro lato, nell’uomo i piaceri derivanti dagli altri sensi sono legati non solo a questo aspetto, ma anche alla bellezza e all’armonia degli oggetti percettibili. Per tale motivo, la temperanza riguarda soprattutto i piaceri derivanti dagli altri sensi, in relazione a quelli del tatto; tuttavia, quando gli oggetti percepiti attraverso gli altri sensi sono piacevoli per via della loro bellezza o armonia, questo tipo di piacere non ha nulla a che fare con la conservazione della natura umana. Pertanto, queste passioni non sono così importanti da poter essere considerate l’oggetto principale della temperanza.
+
+Risposta all’Obiezione 4: Sebbene i piaceri spirituali siano per natura superiori ai piaceri corporei, non sono così percettibili dai sensi e, di conseguenza, non influenzano con tanta forza l’appetito sensibile, contro il cui impulso il bene della ragione viene protetto dalla virtù morale. Possiamo anche osservare che i piaceri spirituali, in senso stretto, sono in armonia con la ragione; pertanto non necessitano di alcun controllo, se non occasionalmente, quando un piacere spirituale rappresenta un ostacolo per un altro più grande e più importante.
+
+Risposta all’Obiezione 5: Non tutti i piaceri tattili riguardano la conservazione della natura; pertanto non si può concludere che la moderazione sia applicabile a tutti i piaceri tattili.
+
 <span class="atom-split" data-atom="087" data-title="Whether temperance is about the pleasures proper to the taste?" data-chapter="Whether temperance is about the pleasures proper to the taste?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that temperance is about pleasures proper to the taste. For pleasures
@@ -4008,6 +5333,24 @@ the pleasure of touch results essentially from the use of food and drink.
 
 Reply to Objection 3: Delicacy regards principally the substance of the food, but secondarily
 it regards its delicious savor and the way in which it is served.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la temperanza riguardi i piaceri propri del gusto. Infatti, i piaceri del gusto derivano dal cibo e dalla bevanda, che sono più necessari alla vita umana dei piaceri sessuali, che riguardano il tatto. Ma, secondo quanto detto in precedenza (A[4]), la temperanza riguarda i piaceri legati alle cose necessarie per la vita umana. Pertanto, la temperanza riguarda i piaceri propri del gusto e non quelli propri del tatto.
+
+Obiezione 2: Inoltre, la moderazione riguarda le passioni e non le cose stesse. Secondo il De [Anima](/concepts/soul) ii, 3, “il tatto è il senso legato al cibo”, in riferimento alla sostanza stessa del cibo; invece, il “sapore”, oggetto proprio del gusto, rappresenta “la qualità piacevole del cibo”. Pertanto, la moderazione riguarda il gusto e non il tatto.
+
+Obiezione 3: Inoltre, secondo l’Etica vii, 4,7: “La moderazione e l’intemperanza riguardano le stesse cose, così come la continenza e l’incontinenza, la perseveranza e la debolezza”, e questa delicatezza riguarda appunto i piaceri derivanti dai sapori che sono oggetto del gusto. Pertanto, la moderazione riguarda i piaceri propri del gusto stesso.
+
+Al contrario, il Filosofo afferma (Etica, III, 10) che “la moderazione e l’intemperanza, apparentemente, hanno poco o nulla a che fare con il gusto”.
+
+Rispondo che, come già detto sopra (A[4]), la moderazione riguarda soprattutto i piaceri più grandi, quelli che hanno principalmente a che fare con la conservazione della vita umana, sia a livello della specie che dell’individuo. In questi casi, alcune cose vanno considerate principali e altre secondarie: ciò che è essenziale è l’uso stesso dei mezzi necessari – come la donna indispensabile per la riproduzione della specie, o il cibo e la bevanda necessari per la sopravvivenza dell’individuo – poiché anche l’atto stesso di utilizzare queste cose necessarie comporta un piacere intrinseco. Per quanto riguarda tale uso, ciò che lo rende più gradevole viene considerato secondario: ad esempio, la [bellezza](/concepts/beauty) e gli ornamenti della donna, o il sapore e l’odore del cibo. Pertanto, la moderazione riguarda principalmente il piacere derivante dall’uso di queste cose necessarie, un piacere che in ogni caso si realizza attraverso il senso del tatto. In secondo luogo, tuttavia, sia la moderazione che l’intemperanza riguardano anche i piaceri legati ai sensi del gusto, dell’olfatto o della vista, poiché gli oggetti percepiti da questi sensi contribuiscono all’uso gradevole delle cose necessarie. Ma poiché il gusto è più strettamente collegato al tatto rispetto agli altri sensi, ne consegue che la moderazione riguarda soprattutto il gusto piuttosto che gli altri sensi.
+
+Risposta all’Obiezione 1: L’uso del cibo e il piacere che ne deriva appartengono essenzialmente al senso del tatto. Pertanto il Filosofo afferma (De Anima ii, 3) che “il tatto è il senso legato al cibo, poiché il cibo è caldo o freddo, umido o secco”. Al senso del gusto appartiene invece la capacità di distinguere i sapori che rendono il cibo piacevole da mangiare, nella misura in cui questi rappresentano segni della sua idoneità al nutrimento.
+
+Risposta all’Obiezione 2: Il piacere derivante dal gusto è, per così dire, aggiuntivo, mentre il piacere del tatto deriva essenzialmente dall’uso di cibo e bevande.
+
+Risposta all’Obiezione 3: La delicatezza riguarda principalmente la sostanza del cibo, ma in secondo luogo anche il suo sapore delizioso e il modo in cui viene servito.
 
 <span class="atom-split" data-atom="088" data-title="Whether the rule of temperance depends on the need of the present life?" data-chapter="Whether the rule of temperance depends on the need of the present life?" data-kind="atom" data-srclang="en"></span>
 
@@ -4113,6 +5456,24 @@ is accounted the principal passion in the irascible. But the objects of desires 
 move the appetite with greater force, since they are more natural. Therefore temperance, which
 appoints the mean in such things, is a principal virtue.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la temperanza non sia una virtù cardinale. Infatti, il bene delle virtù morali dipende dalla ragione. Ma la temperanza riguarda proprio quelle cose che sono più lontane dalla ragione, ovvero i piaceri comuni a noi e agli animali inferiori, come affermato nell’Etica, III, 10. Pertanto, la temperanza non sembra essere una virtù principale.
+
+Obiezione 2: Inoltre, maggiore è l’impeto, più difficile diventa controllarlo. Ora, l’[ira](/concepts/anger), che viene controllata dalla umiltà, sembra essere più impetuosa del desiderio, che invece viene regolato dalla temperanza. Infatti è scritto (Proverbi 27:4): “L’ira non conosce pietà, né moderazione quando esplode; chi può sopportare la violenza di colui che è stato provocato?” Pertanto, l’umiltà è una virtù fondamentale, piuttosto che la temperanza.
+
+Obiezione 3: Inoltre, la speranza, in quanto movimento dell’anima, ha la precedenza sul desiderio e sulla concupiscenza, come già detto sopra (FS, Q[25], A[4]). Ma l’umiltà controlla l’eccesso di speranza. Pertanto, sembrerebbe che l’umiltà sia una virtù principale, piuttosto che la temperanza, che controlla la concupiscenza.
+
+Al contrario, Gregorio considera la moderazione tra le principali virtù (Morale, ii, 49).
+
+Rispondo che, come già detto sopra (Q[123], A[11]; Q[61], A[3]), una virtù principale o cardinale è così chiamata perché merita in modo particolare lode per uno di quei requisiti essenziali alla nozione stessa di virtù. Ora, la moderazione, che è necessaria in ogni virtù, merita soprattutto lode nei piaceri tattili, di cui riguarda il controllo; ciò sia perché questi piaceri sono i più naturali per noi, rendendo quindi più difficile astenersene e controllarne il desiderio, sia perché i loro oggetti sono particolarmente necessari alla vita presente, come già affermato sopra (A[4]). Per queste ragioni, la moderazione è considerata una virtù principale o cardinale.
+
+Risposta all’Obiezione 1: Più lungo è l’ambito delle sue azioni, maggiore è la virtù dimostrata dall’agente; pertanto, il semplice fatto che la ragione sia in grado di moderare desideri e piaceri che le sono estremamente lontani dimostra la grandezza del suo potere. Ed è proprio per questo che la temperanza rappresenta una virtù fondamentale.
+
+Risposta all’Obiezione 2: L’impulsività della rabbia è causata da un evento accidentale, ad esempio un dolore intenso; per questo motivo scompare rapidamente, anche se la sua forza è grande. Dall’altra parte, l’impulsività del desiderio di piaceri legati al contatto fisico deriva da una causa naturale; per questo motivo è più duratura e più diffusa, e quindi il suo controllo rappresenta un aspetto fondamentale della virtù.
+
+Risposta all’Obiezione 3: L’oggetto della speranza è più nobile di quello del desiderio; per questo motivo la speranza viene considerata la passione principale nell’uomo irascibile. Tuttavia, gli oggetti dei desideri e dei piaceri legati al senso del tatto stimolano il desiderio con maggiore forza, poiché sono più naturali. Pertanto, la temperanza, che stabilisce un equilibrio in tali ambiti, rappresenta una virtù fondamentale.
+
 <span class="atom-split" data-atom="090" data-title="Whether temperance is the greatest of the virtues?" data-chapter="Whether temperance is the greatest of the virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that temperance is the greatest of the virtues. For Ambrose says
@@ -4154,6 +5515,24 @@ the excellence of goodness than that which is general because it occurs frequent
 in the former way, temperance in the latter. Hence fortitude is greater simply, although in some
 respects temperance may be described as greater not only than fortitude but also than justice.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la temperanza sia la più grande delle virtù. Infatti Ambrogio afferma (De Offic. i, 43) che “quello che nella temperanza osserviamo e cerchiamo soprattutto è la salvaguardia di ciò che è onorevole e il rispetto per ciò che è bello”. Ora, una virtù merita lode proprio perché è onorevole e bella. Pertanto, la temperanza è davvero la più grande delle virtù.
+
+Obiezione 2: Inoltre, più difficile è l’atto, maggiore è la virtù che esso richiede. Ora, controllare i desideri e i piaceri legati al tatto è molto più difficile che regolare le azioni esterne; il primo aspetto riguarda la temperanza, mentre il secondo la giustizia. Pertanto, la temperanza rappresenta una virtù più grande della giustizia.
+
+Obiezione 3: Inoltre, sembra che più una cosa sia generale, più essa sia necessaria e migliore. Ora, la forza d’animo riguarda pericoli legati alla morte che si verificano meno frequentemente rispetto ai piaceri sensoriali, poiché questi ultimi si manifestano ogni giorno; pertanto, la temperanza viene utilizzata più di frequente della forza d’animo. Quindi, la temperanza è una virtù più eccellente della forza d’animo.
+
+Al contrario, il Filosofo afferma (Retorica I, 9) che “le più grandi virtù sono quelle che portano il maggior beneficio agli altri; per questo motivo rendiamo il massimo onore ai coraggiosi e ai giusti”.
+
+Rispondo che, come afferma il Filosofo (Etica, i, 2), “il bene del maggior numero è più conforme alla natura divina di quanto non lo sia il bene dell’individuo”; pertanto, più una virtù riguarda il bene del maggior numero, migliore è. Ora, la giustizia e la forza d’animo tengono conto del bene del maggior numero in misura maggiore della temperanza, poiché la giustizia riguarda le relazioni tra gli individui, mentre la forza d’animo affronta i pericoli della battaglia sopportati a beneficio del bene comune; la temperanza, invece, limita soltanto i desideri e i piaceri che riguardano l’individuo stesso. È quindi evidente che giustizia e forza d’animo siano virtù più eccellenti della temperanza; mentre la prudenza e le [virtù teologiche](/concepts/theological_virtues) sono ancora più eccellenti.
+
+Risposta all’Obiezione 1: Onore e [bellezza](/concepts/beauty) vengono particolarmente attribuiti alla temperanza, non in virtù dell’eccellenza del bene proprio della temperanza stessa, ma a causa dello scandalo rappresentato dal male opposto, da cui tale virtù ci protegge, moderando i piaceri comuni sia a noi che agli animali inferiori.
+
+Risposta all’Obiezione 2: Poiché la virtù riguarda ciò che è difficile e ciò che è buono, l’eccellenza di una virtù viene considerata soprattutto dal punto di vista del bene, in cui la giustizia eccelle, piuttosto che dal punto di vista della difficoltà, in cui la temperanza eccelle.
+
+Risposta all’Obiezione 3: Ciò che è universale perché riguarda molti individui conduce maggiormente all’eccellenza del bene di ciò che è universale perché si verifica frequentemente: la forza d’animo prevale nel primo caso, la temperanza nel secondo. Pertanto, la forza d’animo è in sé più grande; sebbene, in alcuni aspetti, la temperanza possa essere considerata non solo superiore alla forza d’animo, ma anche alla giustizia.
+
 <span class="atom-split" data-atom="091" data-title="OF THE VICES OPPOSED TO TEMPERANCE (FOUR ARTICLES)" data-chapter="OF THE VICES OPPOSED TO TEMPERANCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the vices opposed to temperance. Under this head there are four points
@@ -4162,6 +5541,14 @@ of inquiry:
 (2) Whether intemperance is a childish sin?
 (3) Of the comparison between intemperance and timidity;
 (4) Whether intemperance is the most disgraceful of vices?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare i vizi opposti alla temperanza. In questa categoria vi sono quattro punti da esaminare:  
+(1) Se l’insensibilità sia un peccato;  
+(2) Se l’intemperanza sia un peccato tipico dei bambini o degli immaturi;  
+(3) Il confronto tra intemperanza e timidezza;  
+(4) Se l’intemperanza sia il vizio più disonorevole di tutti.
 
 <span class="atom-split" data-atom="092" data-title="Whether insensibility is a vice?" data-chapter="Whether insensibility is a vice?" data-kind="atom" data-srclang="en"></span>
 
@@ -4218,6 +5605,24 @@ in duty bound to bodily occupations and carnal procreation.
 
 Reply to Objection 3: In order to avoid sin, pleasure must be shunned, not altogether, but so
 that it is not sought more than necessity requires.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’insensibilità non sia un vizio. Infatti, coloro che sono privi dei piaceri tattili vengono definiti insensibili. Ora, pare che sia lodevole e virtuoso essere completamente privi di tali piaceri: infatti è scritto (Daniele 10:2-3): “In quei giorni Daniele digiunò per tre settimane; non mangiò pane né carne, non bevve vino, e non si unse con olio.” Pertanto, l’insensibilità non è un peccato.
+
+Obiezione 2: Inoltre, “il bene dell’uomo consiste nel conformarsi alla ragione”, secondo Dionigi (Div. Nom. iv). Ora, astenersi da tutti i piaceri tattili è ciò che più contribuisce al [progresso](/positions/progress) dell’uomo verso il bene della ragione; infatti è scritto (Dan. 1:17) che “ai bambini” che si nutrivano di cibo preparato secondo determinate regole (“prendevano il polso per stabilire se il cibo fosse adatto”), “Dio diede conoscenza, intelligenza e saggezza in ogni libro”. Pertanto, l’insensibilità, che rifiuta completamente questi piaceri, non è peccaminosa.
+
+Obiezione 3: Inoltre, ciò che rappresenta un mezzo estremamente efficace per evitare il peccato sembrerebbe non essere peccaminoso. Ora, il rimedio più efficace per evitare il peccato consiste nel rinunciare ai piaceri, e questo comportamento è legato all’insensibilità. Infatti, il Filosofo afferma (Etica, ii, 9) che “se ci priviamo dei piaceri, siamo meno soggetti al peccato”. Pertanto, non c’è nulla di male nell’insensibilità.
+
+Al contrario, solo il vizio è in opposizione alla virtù. Ora, secondo il Filosofo (Etica, ii, 7; iii, 11), l’insensibilità è in contrasto con la virtù della temperanza; pertanto, l’insensibilità è un vizio.
+
+Rispondo che tutto ciò che è contrario all’ordine naturale è vizioso. La natura, infatti, ha introdotto il piacere nelle azioni necessarie per la vita umana; pertanto, l’ordine naturale richiede che l’uomo ne faccia uso nella misura in cui esse siano utili al suo benessere, sia per la conservazione dell’individuo che della specie. Quindi, se qualcuno rifiutasse il piacere al punto di trascurare ciò che è necessario alla sopravvivenza umana, commetterebbe un peccato, agendo contro l’ordine naturale. Ciò riguarda appunto il vizio dell’insensibilità. Tuttavia, va osservato che a volte è lodevole, e persino necessario per raggiungere uno scopo specifico, astenersi da tali piaceri. Ad esempio, per la salute del corpo, alcune persone rinunciano al cibo, alla bevanda e ai rapporti sessuali; allo stesso modo, atleti e soldati devono privarsi di molti piaceri per adempiere ai loro doveri. Allo stesso modo, i penitenti, nel tentativo di recuperare la salute dell’anima, ricorrono all’astinenza come mezzo per purificarsi; coloro che desiderano dedicarsi alla contemplazione e alle cose divine devono necessariamente rinunciare a ciò che è carnale. Nessuna di queste pratiche rientra nel vizio dell’insensibilità, poiché sono in armonia con la ragione retta.
+
+Risposta all’Obiezione 1: Daniel si asteneva dai piaceri non per alcun orrore nei loro confronti, come se fossero in sé malvagi, ma per un fine lodevole, ovvero per adattarsi alle altezze della contemplazione rinunciando ai piaceri del corpo. Da qui il testo prosegue raccontando la [rivelazione](/concepts/revelation) che ricevette subito dopo.
+
+Risposta all’Obiezione 2: Poiché l’uomo non può utilizzare la propria ragione senza le facoltà sensitive, le quali richiedono organi fisici, come affermato nel FP, Q[84], AA[7],8, è necessario che l’uomo mantenga il proprio corpo in buone condizioni affinché possa esercitare la ragione. Ora, il corpo viene mantenuto attraverso attività che procurano piacere; pertanto, il bene legato all’esercizio della ragione non può risiedere in un uomo che si astenga da ogni forma di piacere. Tuttavia, questa necessità di godere dei piaceri fisici varia a seconda del grado in cui l’uomo abbia bisogno delle facoltà corporee per compiere attività razionali. Per questo motivo, è lodevole che coloro i quali si dedicano alla contemplazione e al trasmettere un bene spirituale agli altri si astengano da molti piaceri fisici; ciò non vale invece per coloro che sono impegnati in attività corporee o nella procreazione carnale.
+
+Risposta all’Obiezione 3: Per evitare il peccato, il piacere deve essere evitato, non del tutto, ma in modo che non venga cercato oltre quanto sia necessario.
 
 <span class="atom-split" data-atom="093" data-title="Whether intemperance is a childish sin? (1/2)" data-chapter="Whether intemperance is a childish sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -4307,6 +5712,34 @@ of death, which pertains to cowardice. Therefore cowardice is a more grievous si
 On the contrary, The Philosopher says (Ethic. iii, 12) that "intemperance seems more akin to
 voluntary action than cowardice." Therefore it is more sinful.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’intemperanza non sia un peccato tipico dei bambini. Infatti, Gerolamo, commentando Matteo 18:3, afferma che “se non vi convertite e non diventate come i bambini”, questi “non si lasciano trascinare dall’[ira](/concepts/anger), non tengono conto degli offesi e non provano piacere nel vedere una donna bella”; tutte queste caratteristiche sono in contraddizione con l’intemperanza. Pertanto, l’intemperanza non è un peccato tipico dei bambini.
+
+Obiezione 2: Inoltre, i bambini hanno soltanto desideri naturali. Ora, “in relazione ai desideri naturali, pochi commettono peccati a causa di eccessi”, secondo il Filosofo (Etica, iii, 11). Pertanto, l’eccesso non rappresenta un peccato tipico dei bambini.
+
+Obiezione 3: Inoltre, i bambini devono essere allevati e nutriti; mentre la concupiscenza e il piacere, di cui tratta l’intemperanza, devono sempre essere ostacolati e sradicati, secondo Colossesi 3:5: “Umiliate, i vostri membri terreni, che sono, la concupiscenza” [*Vulgata: ‘i vostri membri terreni, cioè la fornicazione, la concupiscenza’], ecc. Pertanto, l’intemperanza non è un peccato tipico dei bambini.
+
+Al contrario, il Filosofo afferma (Etica, iii, 12) che “usiamo il termine intemperanza per indicare errori infantili”. L’[Aristotele](/figures/aristotle) parla di [akolasia](/figures/aristotle), un comportamento da punire; quindi il suo significato originale sarebbe “impunità” o “mancanza di moderazione”.
+
+Rispondo che una cosa viene definita infantile per due motivi. Primo, perché è adatta ai bambini; il Filosofo non intende con questo dire che il peccato di intemperanza sia “infantile” in questo senso. Secondo, per analogia: è proprio in questo senso che i peccati di intemperanza vengono considerati infantili. Il peccato di intemperanza, infatti, rappresenta una concupiscenza incontrollata, e questa viene paragonata a un bambino per tre motivi. Primo: entrambi desiderano cose disoneste; la concupiscione, come un bambino, anela a ciò che è vergognoso, poiché nelle faccende umane qualcosa è bello se armonizza con la ragione. Come afferma Tullio nel “De Officiis” (I, 27), “Il bello è ciò che si addice all’eccellenza umana, nella misura in cui questa differisce dagli altri animali”. Un bambino, però, non segue l’ordine della ragione; allo stesso modo, la concupiscione non ascolta la ragione. Secondo motivo: entrambi hanno lo stesso risultato negativo. Un bambino, se lasciato a se stesso, diventa sempre più capriccioso; così anche la concupiscione, se indulgata, acquisisce forza. Per questo Agostino afferma nel “Confessione” (VIII, 5): “La lussuria, una volta praticata costantemente, diventa un’abitudine; e un’abitudine, se non si resiste, diventa necessità”. Terzo motivo: entrambi richiedono lo stesso rimedio. Un bambino viene corretto attraverso la repressione; così anche la concupiscione può essere moderata seguendo i principi della virtù. Agostino lo indica quando scrive nel “Musica” (VI, 11) che se l’anima si eleva verso le cose spirituali e vi rimane fissata, “l’impulso della concupiscenza viene spezzato e gradualmente indebolito; poiché era più forte quando lo seguivamo”. Pertanto il Filosofo afferma nell’“Etica” (III, 12): “Come un bambino deve vivere sotto la guida del suo tutore, così anche la concupiscenza deve essere guidata dalla ragione”.
+
+Risposta all’Obiezione 1: Questo argomento utilizza il termine “infantile” nel senso di ciò che si osserva nei bambini. Non è in questo senso che il peccato di intemperanza viene definito infantile, ma piuttosto per analogia, come già detto sopra.
+
+Risposta all’Obiezione 2: Un desiderio può essere considerato naturale in due modi. In primo luogo, in relazione al suo genere; in questo senso, la temperanza e l’intemperanza riguardano appunto i desideri naturali, poiché questi sono legati al bisogno di cibo e sesso, necessari per la conservazione della natura umana. In secondo luogo, un desiderio può essere definito naturale anche in relazione alla specie di cosa che la natura stessa richiede per il proprio sostentamento; in questo caso, non è frequente commettere peccati legati a tali desideri, poiché la natura richiede soltanto ciò che è necessario per soddisfare i suoi bisogni, e non vi è alcun peccato nel desiderare queste cose, a meno che non venga desiderato in quantità eccessiva. Questo è l’unico modo in cui può verificarsi un peccato legato ai desideri naturali, secondo il Filosofo (Etica, iii, 11). Esistono però altre situazioni in cui i peccati sono frequenti: si tratta di stimoli creati dalla curiosità umana, come la raffinata preparazione del cibo o l’abbellimento delle donne. Sebbene i bambini non mostrino un grande interesse per queste cose, l’intemperanza viene comunque considerata un peccato “infantile”, per le ragioni sopra indicate.
+
+Risposta all’Obiezione 3: Ciò che riguarda la natura umana dovrebbe essere nutrito e coltivato nei bambini, ma ciò che è legato alla loro mancanza di ragionevolezza non dovrebbe essere favorito, bensì corretto, come già detto in precedenza.
+
+Se la codardia sia un vizio più grave dell’indisciplina. [*Cfr. Q[125
+
+Obiezione 1: Sembra che la codardia sia un vizio più grave dell’intemperanza. Infatti, un vizio merita rimprovero perché si oppone al bene e alla virtù; ora, la codardia si oppone alla forza d’animo, che è una virtù ancora più eccellente dell’intemperanza, come detto sopra (A[2]; Q[141], A[8]). Pertanto, la codardia è un vizio più grave dell’intemperanza.
+
+Obiezione 2: Inoltre, maggiore è la difficoltà da superare, minore è il biasimo che si può rivolgere a una persona nel caso di fallimento; per questo motivo il Filosofo afferma (Etica, vii, 7) che “non c’è da meravigliarsi, anzi è perdonabile, se una persona viene sopraffatta da piaceri o dolori intensi e irresistibili”. Apparentemente, sembra più difficile controllare i piaceri rispetto ad altre passioni; per questo motivo si legge nell’Etica, ii, 3, che “è più arduo combattere contro il piacere che contro la rabbia, la quale sembrerebbe essere più forte della paura”. Pertanto, l’intemperanza, che viene vinta dai piaceri, è un peccato meno grave della codardia, che viene vinta dalla paura.
+
+Obiezione 3: Inoltre, è essenziale che il peccato sia volontario. Ora, la codardia è più volontaria dell’indisciplina, poiché nessuno desidera essere indisciplinato, mentre alcuni cercano di evitare i pericoli mortali, che sono legati alla codardia. Pertanto, la codardia è un peccato più grave dell’indisciplina.
+
+Al contrario, il Filosofo afferma (Etica, III, 12) che “l’indisciplina sembra essere più vicina all’azione volontaria che la codardia”; pertanto è anche più peccaminosa.
+
 <span class="atom-split" data-atom="094" data-title="Whether intemperance is a childish sin? (2/2)" data-chapter="Whether intemperance is a childish sin?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, one may be compared with another in two ways. First, with regard to the matter
@@ -4360,6 +5793,16 @@ Reply to Objection 3: The voluntary, in cowardice, depends rather on a general t
 particular consideration: wherefore in such cases we have the voluntary not simply but in a restricted
 sense.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Rispondo che si può paragonare una persona all’altra in due modi: innanzitutto riguardo al soggetto o all’oggetto del peccato; in secondo luogo, riguardo alla persona stessa che commette il peccato. In entrambi i casi, l’intemperanza è un peccato più grave della codardia. Innanzitutto, dal punto di vista dell’oggetto del peccato. La codardia evita i pericoli mortali, e il motivo principale che la spinge a farlo è la necessità di preservare la vita. L’intemperanza, invece, riguarda i piaceri; il desiderio di tali piaceri non è così essenziale per la sopravvivenza dell’uomo, poiché, come già detto (A[2], ad 2), l’intemperanza si riferisce più a piaceri o desideri secondari che a quelli naturali. Ora, più il motivo del peccato è necessario, meno grave è il peccato stesso; pertanto l’intemperanza è un vizio più grave della codardia, soprattutto in termini di oggetto o motivo del peccato. Allo stesso modo, anche dal punto di vista della persona che commette il peccato: ci sono tre motivi per cui l’intemperanza è considerata un vizio più grave. Primo, perché più una persona è sana di mente, più grave è il suo peccato; i pazzi, infatti, non vengono ritenuti responsabili dei loro atti. Il terrore e la tristezza, soprattutto di fronte ai pericoli mortali, possono paralizzare la mente umana, ma non così i piaceri che sono alla base dell’intemperanza. Secondo, più un peccato è volontario, più grave è; l’intemperanza contiene elementi di volontarietà maggiore rispetto alla codardia, e questo per due motivi: le azioni compiute per paura derivano dalla coercizione di agenti esterni, quindi non sono completamente volontarie; mentre le azioni compiute per il piacere lo sono. Inoltre, le azioni di una persona intemperante sono più volontarie a livello individuale che generale, poiché nessuno desidera davvero essere intemperante, ma i singoli piaceri lo spingono a farlo. Pertanto, il rimedio più efficace contro l’intemperanza non consiste nel riflettere su questi singoli aspetti, bensì in un approccio diverso quando si tratta di combattere la codardia: l’azione specifica che spinge una persona a commettere un atto di codardia è meno volontaria, mentre lo scopo generale per cui tale azione viene compiuta lo è di più. Ora, ciò che è più volontario nelle circostanze particolari in cui si verifica un’azione, è semplicemente più volontario; quindi l’intemperanza, essendo più volontaria della codardia, è un vizio più grave. Terzo, perché è più facile trovare rimedi all’intemperanza che alla codardia: i piaceri legati al cibo e al sesso, oggetto dell’intemperanza, sono presenti nella vita quotidiana, e è possibile diventare moderati attraverso una pratica frequente senza correre rischi; mentre i pericoli mortali sono rari, e affrontarli spesso può rivelarsi molto pericoloso se si vuole smettere di essere codardi.
+
+Risposta all’Obiezione 1: L’eccellenza della forza d’animo rispetto alla temperanza può essere considerata da due punti di vista. Primo, in relazione allo scopo, che presenta un aspetto positivo: poiché la forza d’animo è orientata verso il bene comune in misura maggiore rispetto alla temperanza. Da questo punto di vista, la codardia ha una certa priorità sull’intemperanza, poiché attraverso la codardia alcune persone rinunciano a difendere il bene comune. Secondo, in relazione alla difficoltà: poiché è più arduo sopportare pericoli mortali che astenersi da qualsiasi piacere; ma da questo punto di vista non c’è motivo perché la codardia abbia la precedenza sull’intemperanza. Infatti, proprio come rappresenta una maggiore forza colui che non cede di fronte a una forza più potente, allo stesso modo essere sopraffatti da una forza più forte costituisce prova di un vizio minore, mentre cedere di fronte a una forza più debole è segno di un vizio maggiore.
+
+Risposta all’Obiezione 2: L’amore per la propria autodifesa, che spinge a evitare i pericoli della morte, è molto più innato di qualsiasi piacere legato al cibo e al sesso, i quali hanno lo scopo stesso di preservare la vita. Pertanto, è più difficile superare la paura dei pericoli mortali rispetto al desiderio di godere di tali piaceri; sebbene quest’ultimo sia più difficile da resistere dell’[ira](/concepts/anger), del dolore e della paura causati da altri tipi di mali.
+
+Risposta all’Obiezione 3: Nel caso della codardia, l’atto volontario dipende piuttosto da considerazioni di carattere generale che da quelle particolari; per questo motivo, in tali situazioni, il comportamento volontario esiste soltanto in senso limitato.
+
 <span class="atom-split" data-atom="095" data-title="Whether intemperance is the most disgraceful of sins?" data-chapter="Whether intemperance is the most disgraceful of sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that intemperance is not the most disgraceful of sins. As honor is
@@ -4405,10 +5848,33 @@ human nature are still more disgraceful. Nevertheless such vices are apparently 
 genus of intemperance, by way of excess: for instance, if a man delight in eating human flesh, or
 in committing the unnatural vice.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’indisciplina non sia il peccato più vergognoso. Proprio come onore è dovuto alla virtù, così vergogna è dovuta al peccato. Ora, alcuni peccati sono più gravi dell’indisciplina: ad esempio l’omicidio, la blasfemia e simili. Pertanto, l’indisciplina non è il peccato più vergognoso.
+
+Obiezione 2: Inoltre, quei peccati che sono più comuni sembrano essere meno vergognosi, poiché le persone si vergognano meno di loro. Ora, i peccati di intemperanza sono i più comuni, poiché riguardano aspetti legati all’uso quotidiano della vita umana e in cui molte persone commettono errori. Pertanto, i peccati di intemperanza non sembrano essere i più vergognosi.
+
+Obiezione 3: Inoltre, il Filosofo afferma (Etica, VII, 6) che la temperanza e l’intemperanza riguardano i desideri e i piaceri umani. Ora, alcuni desideri e piaceri sono più vergognosi di altri; ne sono esempi i piaceri brutali e quelli causati dalle malattie, come indica il Filosofo stesso (Etica, VII, 5). Pertanto, l’intemperanza non è il peccato più disonorevole.
+
+Al contrario, il Filosofo afferma (Etica, III, 10) che “l’indisciplina merita giustamente più rimproveri di altri vizi”.
+
+Rispondo che la disonore sembra essere l’opposto dell’onore e della gloria. Ora, l’onore è dovuto all’eccellenza, come detto sopra (Q[103], A[1]), e la gloria indica chiarezza di pensiero (Q[103], A[1], ad 3). Pertanto, l’intemperanza è particolarmente disonorevole per due motivi: in primo luogo, perché è profondamente contraria all’eccellenza umana, essendo legata a piaceri comuni sia agli esseri umani che agli animali inferiori, come detto sopra (Q[141], AA[2],3); per questo motivo si legge nel Salmo 48:21: “L’uomo, quando era onorato, non lo comprendeva; è stato paragonato a bestie prive di intelletto e reso simile a loro”. In secondo luogo, perché l’intemperanza è contraria alla chiarezza di pensiero e alla bellezza umana: i piaceri che ne derivano infatti offuscano la luce della ragione, da cui nasce tutta la chiarezza e la bellezza della virtù; per questo motivo tali piaceri vengono descritti come particolarmente servili.
+
+Risposta all’Obiezione 1: Come afferma Gregorio nel [*Moralia xxxiii. 12*], “i peccati della carne”, che rientrano nella categoria dell’intemperanza, sebbene meno colpevoli, sono più disonorevoli. Il motivo è che la colpevolezza si misura in base all’eccesso rispetto allo scopo per cui il peccato viene compiuto, mentre la disonorevolezza dipende principalmente dall’indegnità del peccato stesso rispetto al peccatore.
+
+Risposta all’Obiezione 2: La frequenza con cui un peccato viene commesso riduce, agli occhi degli uomini, la vergogna e l’umiliazione che esso comporta, ma non influisce in alcun modo sulla natura stessa dei vizi.
+
+Risposta all’Obiezione 3: Quando affermiamo che l’intemperanza sia la più vergognosa tra i vizi umani, intendiamo riferirci, a paragone con gli altri vizi, a quelli che sono legati alle passioni umane e che, in una certa misura, sono in armonia con la [natura umana](/axes/human_nature). Tuttavia, quei vizi che superano i limiti della natura umana sono ancora più degradanti. Nonostante ciò, tali vizi possono essere ricondotti, in linea di principio, al genere dell’intemperanza, nel caso in cui si manifestino sotto forma di eccesso: ad esempio, quando un uomo trova piacere nel mangiare carne umana o nell’commettere atti contrari alla natura umana.
+
 <span class="atom-split" data-atom="096" data-title="OF THE PARTS OF TEMPERANCE, IN GENERAL (ONE ARTICLE)" data-chapter="OF THE PARTS OF TEMPERANCE, IN GENERAL (ONE ARTICLE)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the parts of temperance: we shall consider these same parts (1) in general;
 (2) each of them in particular.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora esaminare le componenti della moderazione: le considereremo (1) in generale;  
+(2) ciascuna di esse in particolare.
 
 <span class="atom-split" data-atom="097" data-title="Whether the parts of temperance are rightly assigned?" data-chapter="Whether the parts of temperance are rightly assigned?" data-kind="atom" data-srclang="en"></span>
 
@@ -4491,6 +5957,27 @@ Reply to Objection 4: Under modesty Tully includes whatever pertains to the mode
 bodily movements and external things, as well as the moderation of hope which we reckoned as
 pertaining to humility.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Tully (De Invent. Rhet. ii, 54) assegni in modo improprio le componenti della temperanza, quando le definisce “continenza, mitezza e modestia”. Infatti, la continenza è considerata qualcosa di distinto dalla virtù (Etica vii, 1); mentre la temperanza rientra appunto nella categoria delle virtù. Pertanto, la continenza non può essere considerata una componente della temperanza stessa.
+
+Obiezione 2: Inoltre, la dolcezza sembrerebbe attenuare l’odio o la [ira](/concepts/anger). Ma la moderazione non riguarda queste cose, bensì i piaceri legati al contatto fisico, come già detto sopra (Q[141], A[4]). Pertanto, la dolcezza non fa parte della moderazione.
+
+Obiezione 3: Inoltre, la modestia riguarda le azioni esterne; per questo l’Apostolo dice (Filippesi 4:5): “Che la vostra modestia sia nota a tutti”. Ora, le azioni esterne rientrano nell’ambito della giustizia, come già detto sopra (Q[58], A[8]). Pertanto, la modestia fa parte della giustizia e non della temperanza.
+
+Obiezione 4: Inoltre, Macrobio (In Somn. Scip. i, 8) enumera molte altre componenti della temperanza; afferma infatti che “la temperanza porta alla modestia, alla vergogna, all’astinenza, alla castità, all’onestà, alla moderazione, all’umiltà, alla sobrietà, alla purezza”. Anche Andronicus, nel suo [*De Affectibus*, paragrafo “De Per-se-sufficientiam” – che potrebbe essere tradotto come “autosufficienza”, ma con il rischio di un significato negativo; si veda Q[169], A[1] – sostiene che “i compagni della temperanza siano la gravità, la continenza, l’umiltà, la semplicità, la raffinatezza e la [moderazione]”. Pertanto, sembra che Tullio abbia sottovalutato le componenti essenziali della temperanza.
+
+Rispondo che, come già detto sopra (QQ[48],128), una virtù cardinale può avere tre tipi di componenti: integrali, soggettive e potenziali. I componenti integrali di una virtù sono le condizioni la cui concomitanza è necessaria affinché essa si manifesti; in questo senso, la temperanza presenta due componenti integrali: “la vergogna”, che induce a evitare ciò che è contrario alla temperanza, e “l’onestà”, che fa amare la “bellezza” stessa della temperanza. Infatti, come già osservato (Q[141], A[2], ad 3), la temperanza, più di qualsiasi altra virtù, possiede una certa grazia estetica, mentre i vizi contrari alla temperanza sono particolarmente degradanti. I componenti soggettivi di una virtù sono le sue specie; queste specie devono essere distinte in base alle differenze nella materia o nell’oggetto su cui la virtù si applica. La temperanza riguarda i piaceri del tatto, che possono essere di due tipi: alcuni sono legati alla nutrizione (come il cibo e la bevanda, rispettivamente “astinenza” e “sobrietà”); altri riguardano la capacità procreativa (come l’atto sessuale stesso o i piaceri che ne derivano, come baciare o accarezzare; in questi casi si parla di “castità” e “purezza”). I componenti potenziali di una virtù principale vengono definiti virtù secondarie; queste ultime, pur applicandosi a materie diverse da quella della virtù principale, contribuiscono anch’esse al mantenimento della moderazione. Poiché la temperanza riguarda i piaceri del tatto, che sono i più difficili da controllare, qualsiasi altra virtù che favorisca la moderazione in ambiti diversi può essere considerata una sua parte. Ciò avviene in tre modi: primo, attraverso gli atteggiamenti interiori dell’anima; secondo, attraverso i movimenti e le azioni del corpo; terzo, attraverso oggetti esterni. Oltre al desiderio sessuale che la temperanza modera, nell’anima esistono altri tre tipi di tendenze: quella della volontà, che viene frenata dalla “continenza”; quella dell’aspirazione, regolata dall’“umiltà”; e quella della rabbia, contenuta dalla “mitezza”. Per quanto riguarda i movimenti del corpo, la moderazione è il risultato della “modestia”, che, secondo Andronico, ha tre componenti: la capacità di discernere ciò che è giusto da fare e ciò che non lo è, il rispetto dell’ordine appropriato e la perseveranza nelle azioni intraprese.
+Il primo di questi principi riguarda l’“metodo”. Il secondo consiste nel mantenere la decorum nelle proprie azioni, e questo viene definito “raffinatezza”. Il terzo concerne le conversazioni o qualsiasi altro tipo di rapporto tra una persona e i suoi amici; questo aspetto viene chiamato “serietà”. Per quanto riguarda le cose esterne, è necessario osservare una doppia moderazione: innanzitutto, non dobbiamo desiderare troppo, e a questo scopo Macrobius attribuisce il concetto di “umiltà”, mentre Andronicus parla di “soddisfazione”; in secondo luogo, non dobbiamo essere troppo esigenti nelle nostre richieste; a questo proposito, Macrobius utilizza il termine “moderazione”, mentre Andronicus parla di “semplicità”.
+
+Risposta all’Obiezione 1: È vero che la continenza differisce dalla virtù, proprio come ciò che è imperfetto differisce da ciò che è perfetto, come chiariremo più avanti (Q[165], A[1]); e in questo senso la continenza condivide alcune caratteristiche della virtù. Tuttavia, presenta anche somiglianze con la temperanza, sia per quanto riguarda l’oggetto – poiché riguarda i piaceri sensoriali – sia per il modo in cui si manifesta – essendo essa stessa una forma di moderazione. Pertanto, è giusto considerarla parte della temperanza.
+
+Risposta all’Obiezione 2: La dolcezza o la umiltà vengono considerate parte della moderazione non per una somiglianza sostanziale, ma perché condividono lo stesso modo di comportamento basato sulla repressione e sulla misura, come descritto sopra.
+
+Risposta all’Obiezione 3: Per quanto riguarda l’azione esterna, la giustizia tiene conto di ciò che è dovuto ad altri. La modestia, invece, non considera questo aspetto, ma soltanto una certa moderazione. Pertanto, viene ritenuta parte non della giustizia, ma della temperanza.
+
+Risposta all’Obiezione 4: Con il termine “modestia”, Tullio include tutto ciò che riguarda la moderazione dei movimenti fisici e delle cose esterne, nonché la moderazione della speranza, che consideravamo parte dell’umiltà.
+
 <span class="atom-split" data-atom="098" data-title="OF SHAMEFACEDNESS (FOUR ARTICLES)" data-chapter="OF SHAMEFACEDNESS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the parts of temperance in particular: and in the first place the integral
@@ -4500,6 +5987,14 @@ of inquiry:
 (2) What is its object?
 (3) Who are the cause of a man being ashamed?
 (4) What kind of people are ashamed?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare in particolare le componenti della temperanza; innanzitutto quelle fondamentali, ovvero la vergogna e l’onestà. Per quanto riguarda la vergogna, vi sono quattro punti da esaminare:  
+(1) La vergogna è una virtù?  
+(2) Qual è il suo oggetto?  
+(3) Chi determina che un uomo provi vergogna?  
+(4) Che tipo di persone provano vergogna?
 
 <span class="atom-split" data-atom="099" data-title="Whether shamefacedness is a virtue?" data-chapter="Whether shamefacedness is a virtue?" data-kind="atom" data-srclang="en"></span>
 
@@ -4574,6 +6069,32 @@ one avoids disgraceful things which are the object of shamefacedness, without co
 ashamed in their regard: although as a consequence of this acquired virtue, a man would be more
 ashamed, if confronted with the matter of shamefacedness.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’imbarazzo sia una virtù. Infatti, è proprio delle virtù “osservare la misura stabilita dalla ragione”; ciò risulta chiaro dalla definizione di virtù data nell’Etica ii, 6. Ora, l’imbarazzo osserva effettivamente questa misura, come afferma il Filosofo nell’Etica ii, 7. Pertanto, l’imbarazzo è una virtù.
+
+Obiezione 2: Inoltre, tutto ciò che è degno di lode è o una virtù o qualcosa legato alle virtù. Ora, la vergogna è qualcosa di degno di lode; tuttavia non fa parte di alcuna virtù. Non appartiene né alla prudenza, poiché si basa sull’appetito e non sulla ragione; né alla giustizia, poiché la vergogna implica certe emozioni, mentre la giustizia riguarda le azioni e non i sentimenti; né alla forza d’animo, poiché quest’ultima consiste nella perseveranza e nell’aggressività, mentre la vergogna comporta piuttosto un atteggiamento di ritiro; infine, non appartiene nemmeno alla temperanza, poiché questa riguarda i desideri, mentre la vergogna è una forma di paura, come affermano il Filosofo (Etica, IV, 9) e Damasceno (De Fide Orth., II, 15). Pertanto, si conclude che la vergogna non sia affatto una virtù.
+
+Obiezione 3: Inoltre, secondo Tullio (De Officii, i, 27), gli onesti e i virtuosi sono suscettibili di cambiamento. Ora, la vergogna fa parte dell’onestà: infatti Ambrogio afferma (De Officii, i, 43) che “la vergogna è l’accompagnatrice e l’amica di una mente serena, avversaria della dissolutezza, estranea a qualsiasi forma di eccesso, amica della sobrietà e sostegno di ciò che è onesto, alla ricerca del bello”. Pertanto, la vergogna è una virtù.
+
+Obiezione 4: Inoltre, ogni vizio è opposto a una virtù. Ora, alcuni vizi sono contrari alla vergogna, e precisamente all’impudenza e alla prudenza eccessiva. Pertanto, la vergogna è una virtù.
+
+Obiezione 5: Inoltre, “atti simili generano abitudini simili”, secondo l’Etica ii, 1. Ora, l’imbarazzo implica un atto lodevole; pertanto, da molti atti del genere deriva una [abitudine](/concepts/custom). Ma un’abitudine di comportamenti lodevoli è una virtù, secondo il Filosofo (Etica i, 12). Quindi, l’imbarazzo è una virtù.
+
+Al contrario, il Filosofo afferma (Etica, ii, 7; iv, 9) che l’imbarazzo non sia una virtù.
+
+Rispondo che la virtù può essere intesa in due modi: in senso stretto e in senso lato. Intesa in senso stretto, la virtù è una perfezione, come affermato nella Physica vii, 17,18. Pertanto, qualsiasi cosa sia incompatibile con questa perfezione, anche se buona, non rientra nella definizione di virtù. Ora, l’imbarazzo è qualcosa che è incompatibile con la perfezione, poiché rappresenta la paura di azioni vili o disoneste. Per questo motivo Damasceno afferma (De Fide Orthodossa ii, 15) che “l’imbarazzo è la paura di un atto vile”. Proprio come la speranza riguarda un bene possibile ma difficile da realizzare, così la paura riguarda un male possibile ma arduo da evitare, come già detto in precedenza quando trattavamo delle passioni. Tuttavia, una persona che è perfetta sotto il profilo di un certo vizio virtuoso non considera azioni disoneste o vili come possibili o difficili da evitare; inoltre, non compie mai tali azioni, quindi non prova paura della vergogna. Pertanto, l’imbarazzo, nel senso stretto del termine, non è una virtù, poiché non raggiunge il livello di perfezione che essa rappresenta. Intesa invece in senso lato, la virtù indica qualsiasi cosa sia buona e meritevole nei comportamenti umani o nelle passioni; in questo contesto, l’imbarazzo può talvolta essere considerato una virtù, poiché si tratta di una passione lodevole.
+
+Risposta all’Obiezione 1: Osservare la media non è sufficiente per comprendere il concetto di virtù, anche se rappresenta una delle condizioni incluse nella sua definizione; tuttavia, oltre a ciò, è necessario che tale comportamento sia “un’abitudine volontaria”, cioè derivante da scelta consapevole. La vergogna, invece, non indica un’abitudine ma un sentimento passionale; inoltre, il suo manifestarsi non deriva dalla scelta, bensì da un impulso emotivo. Pertanto, la vergogna non soddisfa i requisiti del concetto di virtù.
+
+Risposta all’Obiezione 2: Come detto sopra, la vergogna è il timore della bassezza e della disonore. Ora è stato affermato (Q[142], A[4]) che il vizio dell’intemperanza sia il più spregevole e disonoroso. Pertanto, la vergogna riguarda in modo particolare l’astinenza più di qualsiasi altra virtù, a causa della sua causa motivale: un atto spregevole, anche se non conforme alla natura stessa della passione in questione, ovvero il timore. Tuttavia, poiché anche gli altri vizi contrapposti ad altre virtù sono spregevoli e disonorosi, la vergogna può riguardare anche queste ultime.
+
+Risposta all’Obiezione 3: L’imbarazzo favorisce l’onestà, eliminando ciò che vi è contrario, ma non al punto di raggiungere la perfezione dell’onestà stessa.
+
+Risposta all’Obiezione 4: Ogni difetto genera un vizio, ma non ogni bene è sufficiente per definire una virtù. Pertanto, non si può concludere che tutto ciò che è direttamente opposto a un vizio sia necessariamente una virtù; sebbene ogni vizio, in termini di origine, sia contrapposto a una virtù. Così, l’impudenza, nella misura in cui deriva da un’eccessiva passione per cose disoneste, è opposta alla temperanza.
+
+Risposta all’Obiezione 5: Provare vergogna frequentemente genera l’abitudine di una virtù acquisita, grazie alla quale si evitano azioni disonorevoli che sono oggetto di vergogna, senza però continuare a provare vergogna al loro riguardo; tuttavia, come conseguenza di questa virtù acquisita, un uomo proverebbe maggiore vergogna se si trovasse di fronte a situazioni che suscitano vergogna.
+
 <span class="atom-split" data-atom="100" data-title="Whether shamefacedness is about a disgraceful action?" data-chapter="Whether shamefacedness is about a disgraceful action?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that shamefacedness is not about a disgraceful action. For the
@@ -4647,6 +6168,30 @@ a certain abundance of some temporal good; thus a man is more ashamed of cowardi
 daring, of theft than of robbery, on account of a semblance of power. The same applies to other
 sins.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il senso di vergogna non riguardi necessariamente un atto disonorevole. Il Filosofo, infatti, afferma nell’Etica iv, 9 che “il senso di vergogna è la paura della disonore”. Tuttavia, a volte anche coloro che non compiono alcun atto sbagliato subiscono umiliazioni; come si legge nel Salmo 67:8: “Per amor tuo ho sopportato oltraggi, la vergogna mi ha coperto il volto”. Pertanto, il senso di vergogna non riguarda necessariamente un atto disonorevole.
+
+Obiezione 2: Inoltre, nulla sembra essere disonorevole se non ciò che è peccaminoso. Eppure l’uomo si vergogna di cose che non sono peccati, ad esempio quando svolge un lavoro umile. Pertanto, sembra che la vergogna non riguardi propriamente un atto disonorevole.
+
+Obiezione 3: Inoltre, secondo l’Etica, le azioni virtuose non sono disonorevoli, ma anzi molto belle. Tuttavia, a volte le persone provano vergogna nel compiere atti virtuosi; come si legge in Luca 9:26: “Chi si vergognerà di Me e delle mie parole, di lui si vergognerà il Figlio dell’Uomo”, ecc. Pertanto, la vergogna non riguarda necessariamente un atto disonorevole.
+
+Obiezione 4: Inoltre, se la vergogna riguardasse davvero un’azione disonorevole, ne conseguirebbe che più l’azione è disonorevole, maggiormente si dovrebbe provare vergogna. Tuttavia, a volte una persona prova maggiore vergogna per peccati minori, mentre si vanta di quelli più gravi, come si legge in Salmo 51:3: “Perché ti vanti della malvagità?” Pertanto, la vergogna non riguarda propriamente un’azione disonorevole.
+
+Al contrario, Damasceno ([De Fide Orth. ii, 15]) e Gregorio di Nissa ([Nemesio, (De Nat. Hom. xx)]) affermano che “la vergogna è la paura di compiere un atto disonorevole o di subire un atto disonorevole”.
+
+Rispondo che, come già detto sopra (FS, Q[41], A[2]; FS, Q[42], A[3]), quando trattavamo delle passioni, la paura riguarda propriamente un male arduo, cioè uno difficile da evitare. Ora, la vergogna è di due tipi: c’è quella intrinseca al vizio, che consiste nella deformità di un atto volontario; questa, in senso stretto, non ha il carattere di un male arduo, poiché ciò che dipende esclusivamente dalla volontà non sembra essere difficile o al di sopra delle capacità umane; per questo motivo non viene considerato temibile. Per quest’ultima ragione, il Filosofo afferma (Rhet. ii, 5) che tali mali non sono oggetto di paura.  
+L’altro tipo di vergogna è, per così dire, punitiva; essa consiste nella disonore che colpisce una persona, proprio come la gloria consiste nell’onore ricevuto. Poiché questa disonore ha il carattere di un male arduo, proprio come l’onore ha quello di un bene arduo, la vergogna – che è paura della disonore – riguarda innanzitutto quella disonore intrinseca al vizio. Poiché la disonore è dovuta propriamente al vizio, così come l’onore alla virtù, ne consegue che anche la vergogna riguarda la disonore legata al vizio stesso. Per questo motivo il Filosofo afferma (Rhet. ii, 5) che “un uomo si vergogna meno di quei difetti che non derivano da alcuna sua colpa”.  
+La vergogna riguarda i difetti in due modi: in un caso, una persona evita gli atti vili per paura della disonore; nell’altro caso, mentre compie un atto vergognoso, si allontana dagli occhi del pubblico per lo stesso motivo. Nel primo caso, secondo Gregorio di Nissa (Nemesio, De Nat. Hom. xx), si parla di una persona che “si imbarazza”; nel secondo caso, si dice che si “vergogna”. Da qui il detto: “L’uomo che si vergogna agisce in segreto, mentre colui che si imbarazza teme di essere disonorato”.
+
+Risposta all’Obiezione 1: Il senso di vergogna riguarda propriamente la disonore dovuta al peccato, che è un difetto volontario. Pertanto il Filosofo afferma (Retorica ii, 6) che “un uomo si vergogna maggiormente di quelle cose delle quali è lui stesso la causa”. Ora, l’uomo virtuoso disprezza la disonore a cui è soggetto a causa della sua virtù, perché non la merita; come dice il Filosofo a proposito del magnanimo (Etica iv, 3). Così si legge degli apostoli (Atti 5:41): “Essi uscirono dalla presenza del consiglio, rallegrandosi di essere stati considerati degni di subire oltraggi per il nome di Gesù”. È a causa dell’imperfezione della virtù che un uomo a volte si vergogna degli oltraggi che subisce in nome della virtù; infatti, più un uomo è virtuoso, più disprezza le cose esterne, sia buone che cattive. Per questo si legge (Isaia 51:7): “Non temete l’oltraggio degli uomini”.
+
+Risposta all’Obiezione 2: Come già detto sopra (Q[63], A[3]), sebbene l’onore non sia realmente dovuto se non alla virtù stessa, riguarda comunque una certa eccellenza; lo stesso vale per la vergogna, poiché, sebbene sia propriamente dovuta al peccato soltanto, almeno secondo l’opinione umana, riguarda qualsiasi tipo di difetto. Per questo motivo un uomo si vergogna della povertà, della disonorevolezza, della schiavitù e simili cose.
+
+Risposta all’Obiezione 3: Il senso di vergogna non riguarda direttamente le azioni virtuose in sé. Tuttavia, capita spesso che una persona si vergogni di esse, o perché le considera viziose secondo l’opinione umana, o perché teme di essere giudicata presuntuosa o ipocrita per averle compiute.
+
+Risposta all’Obiezione 4: A volte peccati più gravi sono meno vergognosi, o perché sono meno disonorevoli – come i peccati spirituali rispetto ai peccati carnali – oppure perché comportano una certa quantità di bene temporale; per questo motivo un uomo si vergogna di più della codardia che del coraggio, del furto che del rapina, a causa dell’apparenza di potere che questi comportamenti possono dare. Lo stesso vale per altri peccati.
+
 <span class="atom-split" data-atom="101" data-title="Whether man is more shamefaced of those who are more closely connected with him?" data-chapter="Whether man is more shamefaced of those who are more closely connected with him?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man is not more shamefaced of those who are more closely
@@ -4714,6 +6259,28 @@ he apprehends it as being the more disgraceful. The reason why we are made more 
 those of whom we ask something for the first time, or whose friends we wish to be, is that we fear
 to suffer some injury, by being disappointed in our request, or by failing to become their friends.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’uomo non provi maggiore imbarazzo nei confronti di coloro che sono più strettamente legati a lui. Infatti, nel Rhetorica ii, 6 si afferma che “gli uomini provano maggior imbarazzo nei confronti di coloro da cui desiderano l’approvazione”. Ora, gli uomini desiderano particolarmente quest’approvazione dalle persone di buona qualità, anche se talvolta non sono strettamente legate a loro. Pertanto, l’uomo non prova maggiore imbarazzo nei confronti di coloro che sono più strettamente legati a lui.
+
+Obiezione 2: Inoltre, sembra che coloro che compiono azioni simili siano più strettamente legati tra loro. L’uomo, infatti, non si vergogna del proprio peccato di fronte a persone che sa essere colpevoli dello stesso peccato, poiché, secondo la Retorica ii, 6, “un uomo non vieta al proprio vicino ciò che fa lui stesso”. Pertanto, non prova maggiore vergogna nei confronti di coloro che sono più strettamente legati a lui.
+
+Obiezione 3: Inoltre, il Filosofo afferma (Rhetorica ii, 6) che “gli uomini provano maggiore vergogna di fronte a coloro che diffondono le informazioni altrui su larga scala, come i buffoni e i narratori di storie”. Ma coloro che sono più strettamente legati a una persona non diffondono i suoi vizi; pertanto, non si dovrebbe provare vergogna principalmente nei loro confronti.
+
+Obiezione 4: Inoltre, il Filosofo afferma (Rhetorica ii, 6) che “gli uomini sono più suscettibili di provare vergogna davanti a coloro tra cui non hanno commesso alcun errore; davanti a coloro da cui chiedono qualcosa per la prima volta; davanti a coloro con i quali desiderano entrare in relazione amichevole”. Ora, queste persone non sono strettamente legate a noi. Pertanto, l’uomo non prova maggior vergogna davanti a coloro che sono più intimamente connessi a lui.
+
+Al contrario, si afferma nella Retorica II, 6 che “l’uomo prova la più grande vergogna di fronte a coloro che sono costantemente al suo fianco”.
+
+Rispondo che, poiché il disprezzo è l’opposto dell’onore – proprio come l’onore rappresenta una testimonianza dell’eccellenza di una persona, soprattutto di quella derivante dalla virtù – allo stesso modo il disprezzo, la cui paura si manifesta nel vergogno, rappresenta una testimonianza dei difetti di una persona, in particolare di quelli causati dal peccato. Pertanto, più importante riteniamo essere questa testimonianza, maggiormente essa induce un’altra persona a provare vergogna. Ora, la testimonianza di una persona può essere considerata più significativa sia perché si basa su certezze riguardo alla verità, sia per l’effetto che ne deriva. La certezza della verità conferisce valore alle testimonianze di una persona per due motivi: innanzitutto, a causa della rettitudine del suo giudizio – come nel caso di persone sagge e virtuose, le quali suscitano in noi il desiderio di essere onorate e ci inducono a provare maggiore vergogna; al contrario, bambini e animali inferiori non suscitano alcun senso di vergogna, poiché mancano di giudizio. In secondo luogo, a causa della loro conoscenza del fatto in questione, poiché “ognuno giudica bene ciò che conosce” (*Etica*, I, 3). Per questo motivo siamo più suscettibili di provare vergogna davanti a persone che ci sono vicine, poiché conoscono meglio le nostre azioni; al contrario, estranei e persone completamente sconosciute, ignari di ciò che facciamo, non suscitano in noi alcun senso di vergogna. La testimonianza acquisisce valore anche in base all’effetto che ne deriva: le persone desiderano essere onorate da coloro che possono esserci d’aiuto, mentre sono più propense a provare vergogna davanti a coloro che possono arrecarci danno. E proprio per questo motivo, in un certo senso, le persone che ci sono vicine ci fanno provare maggior vergogna, poiché siamo costantemente in loro compagnia, come se ciò comportasse un danno continuo; al contrario, il danno causato da estranei e passanti scompare quasi immediatamente.
+
+Risposta all’Obiezione 1: Le persone di buona indole ci fanno sentire in imbarazzo per lo stesso motivo di coloro che sono più strettamente legati a noi; poiché, proprio come la testimonianza delle persone migliori ha maggiore peso, dato il loro conoscimento più universale delle cose e il fatto che nelle loro valutazioni si attengono sempre alla verità, allo stesso modo anche la testimonianza di coloro tra cui viviamo è più convincente, poiché conoscono in dettaglio le nostre preoccupazioni.
+
+Risposta all’Obiezione 2: Non temiamo la testimonianza di coloro che sono legati a noi per una stessa colpa, perché non riteniamo che considerino il nostro difetto come qualcosa di vergognoso.
+
+Risposta all’Obiezione 3: Coloro che diffondono tali voci ci fanno sentire in imbarazzo a causa del danno che causano, facendo sì che molte persone pensino male di noi.
+
+Risposta all’Obiezione 4: Anche coloro tra cui non abbiamo commesso alcun errore ci fanno provare maggiore vergogna, a causa del danno che ne deriverebbe; infatti, perdremmo l’ottima opinione che hanno di noi. Inoltre, quando le cose opposte vengono messe a confronto, la loro contrapposizione appare ancora più evidente; quindi, quando una persona nota qualcosa di vergognoso in qualcuno che riteneva buono, percepisce tale comportamento come ancora più disonorevole. Il motivo per cui ci sentiamo maggiormente imbarazzati quando chiediamo qualcosa per la prima volta a persone che stimiamo, o desideriamo diventare loro amici, è il timore di subire un danno, sia a causa del rifiuto della nostra richiesta sia perché non riusciremmo ad ottenere l’amicizia desiderata.
+
 <span class="atom-split" data-atom="102" data-title="Whether even virtuous men can be ashamed?" data-chapter="Whether even virtuous men can be ashamed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that even virtuous men can be ashamed. For contraries have contrary
@@ -4770,6 +6337,33 @@ We must now consider honesty, under which head there are four points of inquiry:
 for moral beauty];
 (3) Its relation with the useful and the pleasant;
 (4) Whether honesty is a part of temperance?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che anche gli uomini virtuosi possano provare vergogna. Infatti, le cose opposte hanno effetti opposti. Ora, coloro che eccellono nel male non provano vergogna, come afferma Geremia 3:3: “Avevi la fronte di una prostituta, non arrossivi affatto”. Pertanto, gli uomini virtuosi dovrebbero essere più propensi a provare vergogna.
+
+Obiezione 2: Inoltre, il Filosofo afferma (Retorica ii, 6) che “gli uomini si vergognano non solo del vizio, ma anche dei segni del male”; e ciò accade anche nei virtuosi. Pertanto, i virtuosi possono provare vergogna.
+
+Obiezione 3: Inoltre, il senso di vergogna è “paura della disonore” [*Etica, iv, 9]. Ora, le persone virtuose possono trovarsi in situazioni umilianti, ad esempio se vengono diffamate o subiscono rimproveri ingiustificati. Pertanto, una persona virtuosa può provare vergogna.
+
+Obiezione 4: Inoltre, l’imbarazzo è una componente della temperanza, come già detto sopra (Q[143]). Ora, una parte non può essere separata dal suo tutto. Poiché la temperanza appartiene a un uomo virtuoso, ne consegue che anche l’imbarazzo sia presente in lui.
+
+Al contrario, il Filosofo afferma (Etica, IV, 9) che “un uomo virtuoso non prova vergogna”.
+
+Rispondo che, come già detto sopra (AA[1],2), la vergogna è il timore di subire qualche disonore. Ora, può accadere in due modi che un male non venga temuto: primo, perché non viene considerato tale; secondo, perché si ritiene impossibile che possa accadere a sé stessi, o facile da evitare. Di conseguenza, la vergogna può mancare in una persona per due motivi: primo, perché le cose che dovrebbero farla vergognare non vengono considerate disonorevoli; e in questo modo coloro che sono immersi nel peccato sono privi di vergogna, poiché invece di disapprovare i propri peccati, ne vanno fieri. Secondo, perché ritengono che il disonore sia impossibile per loro o facile da evitare; in questo modo gli anziani e i virtuosi non provano vergogna. Tuttavia, sono predisposti a provare vergogna se ci fosse qualcosa di disonorevole in loro. Per questo motivo il Filosofo afferma (Etica, iv, 9) che “la vergogna esiste ipoteticamente nei virtuosi”.
+
+Risposta all’Obiezione 1: La mancanza di vergogna si manifesta sia nei migliori che nei peggiori uomini per cause diverse, come indicato nell’articolo stesso. Nei individui medi, tale fenomeno si riscontra nel momento in cui essi provano un certo amore per il bene, pur non essendo del tutto liberi dal male.
+
+Risposta all’Obiezione 2: Spetta all’uomo virtuoso evitare non solo il vizio, ma anche tutto ciò che ha l’apparenza del vizio, secondo 1 Tessalonicesi 5:22: “Allontanatevi da ogni sorta di male”. Anche il Filosofo afferma (Etica, iv, 9) che l’uomo virtuoso debba evitare “non solo ciò che è veramente malvagio, ma anche quelle cose che sono considerate tali”.
+
+Risposta all’Obiezione 3: Come detto sopra (A[1], ad 1), l’uomo virtuoso disprezza l’ignominia e il rimprovero, poiché li considera cose che non merita; per questo motivo non ne prova grande vergogna. Tuttavia, in una certa misura, la vergogna, come le altre passioni, può sovvertire la ragione.
+
+Risposta all’Obiezione 4: L’imbarazzo è parte della temperanza, non nel senso che ne costituisca l’essenza, ma come una disposizione ad essa correlata; per questo Ambrogio afferma (De Offic. i, 43) che “l’imbarazzo getta le basi della temperanza”, ispirando nell’uomo il disgusto per tutto ciò che è vergognoso.  
+**SULL’ONESTÀ* (QUATTRO ARTICOLI) **L’onestà va intesa in senso lato, come sinonimo di bontà morale dal punto di vista del decoro.** Ora dobbiamo esaminare l’onestà, e sotto questo titolo vi sono quattro argomenti da considerare:  
+(1) Il rapporto tra onestà e virtù;  
+(2) Il suo legame con la bellezza (*Poiché qui l’onestà indica la bontà morale, così anche la **bellezza** rappresenta la bellezza morale*);  
+(3) Il suo rapporto con ciò che è utile e piacevole;  
+(4) Se l’onestà sia parte della temperanza.
 
 <span class="atom-split" data-atom="103" data-title="Whether honesty is the same as virtue?" data-chapter="Whether honesty is the same as virtue?" data-kind="atom" data-srclang="en"></span>
 
@@ -4828,6 +6422,28 @@ reason honesty consists radically in the internal choice, but its expression lie
 
 Reply to Objection 4: It is because the excellence of wealth is commonly regarded as making
 a man deserving of honor, that sometimes the name of honesty is given to external prosperity.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che onestà e virtù non siano la stessa cosa. Infatti Tullio afferma (De Invent. Rhet. ii, 53) che “l’onesto è ciò che viene desiderato per se stesso”. Ora, la virtù viene desiderata non per sé stessa, ma per il bene della felicità; infatti il Filosofo dice (Etica i, 9) che “la felicità è la ricompensa e lo scopo finale della virtù”. Pertanto, onestà e virtù non sono la stessa cosa.
+
+Obiezione 2: Inoltre, secondo Isidoro (Etym. x), “onestà significa uno stato onorevole”. Ora, l’onore è dovuto a molte cose, non solo alla virtù, poiché “è la lode ciò che spetta propriamente alla virtù” (Etica, i, 12). Pertanto, l’onestà non è la stessa cosa della virtù.
+
+Obiezione 3: Inoltre, “la parte principale della virtù è la scelta interiore”, come afferma il Filosofo (Etica viii, 13). Tuttavia, l’onestà sembra riguardare piuttosto il comportamento esteriore, secondo 1 Corinzi 14:40: “Che tutto venga fatto in modo decoroso e secondo ordine” tra di voi. Pertanto, l’onestà non è la stessa cosa della virtù.
+
+Obiezione 4: Inoltre, l’onestà sembra consistere nella ricchezza esterna. Secondo Ecclesiaste 11:14, “le cose buone e quelle cattive, la vita e la morte, la povertà e la ricchezza provengono da Dio” (*Le parole tra parentesi sono omesse nell’edizione Leonina; nella Vulgata, al posto di “ricchezza” si legge “onestas”). Ma la virtù non consiste nella ricchezza esterna. Pertanto, l’onestà non è la stessa cosa della virtù.
+
+Al contrario, Tullio (De Officii i, 5; Rhetorica ii, 53) divide l’onestà in quattro virtù principali; anche queste ultime sono a loro volta suddivise in altre virtù. Pertanto, l’onestà è sinonimo di virtù.
+
+Rispondo che, come afferma Isidoro nell’“Etymologia” x, “onestà significa uno stato onorevole”; pertanto, si può dire che una cosa sia onesta perché merita onore. Ora, l’onore, come già detto sopra (Q[144], A[2], ad 2), è dovuto all’eccellenza; e l’eccellenza di un uomo viene misurata principalmente in base alla sua virtù, come si legge nel “Physica” vii, 17. Pertanto, in senso proprio, onestà indica la stessa cosa che virtù.
+
+Risposta all’Obiezione 1: Secondo il Filosofo (Etica i, 7), tra le cose desiderate per se stesse, alcune lo sono esclusivamente per il loro valore intrinseco, e mai al fine di ottenere qualche altro bene, come ad esempio la felicità che rappresenta lo scopo ultimo; altre invece lo sono sia per il loro valore intrinseco – poiché possiedono in sé un aspetto di bontà – sia perché contribuiscono a realizzare beni più perfetti. È proprio per questo motivo che le virtù sono desiderabili per se stesse; da qui deriva l’affermazione di Tullio (De Inventione Rhetorica ii, 52): “Alcune cose ci attirano per la loro stessa forza, per il loro valore intrinseco, come le virtù, la verità, la conoscenza”. E questo basta affinché una cosa possa essere considerata autenticamente nobile.
+
+Risposta all’Obiezione 2: Alcune delle cose che vengono onorate insieme alla virtù sono addirittura più eccellenti della virtù stessa, come Dio e la felicità; tali cose, tuttavia, non ci sono così familiari attraverso l’esperienza quanto la virtù che praticiamo quotidianamente. Pertanto, la virtù ha maggior diritto di essere chiamata “onestà”. Altre cose, inferiori alla virtù, vengono onorate nella misura in cui contribuiscono alla sua pratica, come il rango sociale, il potere e le ricchezze (*Etica, i, 8). Come afferma il Filosofo (*Etica, iv, 3*), queste cose “vengono onorate da alcune persone, ma in realtà solo l’uomo buono è degno di onore”. Ora, un uomo è considerato buono in relazione alla virtù; pertanto, la lode spetta alla virtù nella misura in cui essa è desiderabile per qualche altro scopo, mentre l’onore le spetta per se stessa: ed è proprio per questo che la virtù possiede i tratti dell’onestà.
+
+Risposta all’Obiezione 3: Come abbiamo affermato, “onestà” indica ciò che merita onore. Ora, l’onore rappresenta una testimonianza dell’eccellenza di qualcuno, come detto sopra (Q[103], AA[1],2). Ma si testimonia soltanto di ciò che si conosce; inoltre, la scelta interiore non diventa nota se non attraverso azioni esterne. Pertanto, il comportamento esterno possiede i tratti dell’onestà, nella misura in cui riflette una rettitudine interna. Per questo motivo, l’onestà ha radici nella scelta interiore, ma la sua espressione si manifesta nel comportamento esterno.
+
+Risposta all’Obiezione 4: È proprio perché l’eccellenza della ricchezza è comunemente considerata qualcosa che rende un uomo degno di onore, che a volte il nome di “onestà” viene attribuito alla prosperità esteriore.
 
 <span class="atom-split" data-atom="104" data-title="Whether the honest is the same as the beautiful?" data-chapter="Whether the honest is the same as the beautiful?" data-kind="atom" data-srclang="en"></span>
 
@@ -4970,6 +6586,24 @@ to be ascribed to temperance according to the rule given by the Apostle (1 Cor. 
 says that "our uncomely parts have more abundant comeliness," which, namely, destroys whatever
 is uncomely.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’onestà non debba essere considerata una parte della temperanza. Infatti, non è possibile che una cosa sia al contempo parte e intero rispetto alla stessa cosa. Ora, secondo Tullio (De Invent. Rhet. ii, 53), “la temperanza è una parte dell’onestà”. Pertanto, l’onestà non è una parte della temperanza.
+
+Obiezione 2: Inoltre, si afferma (3 Esdra 3:21) che “il vino, rende oneste tutte le pensieri”. Tuttavia, l’uso del vino, soprattutto in eccesso – nel senso in cui sembra dover essere inteso il passaggio citato – riguarda l’intemperanza piuttosto che la moderazione. Pertanto, l’onestà non fa parte della temperanza.
+
+Obiezione 3: Inoltre, ciò che è onesto è ciò che merita onore. Ora, “sono i giusti e i coraggiosi a ricevere il maggior onore”, secondo il Filosofo (Retorica I, 9). Pertanto, l’onestà non riguarda la temperanza, ma piuttosto la giustizia e il coraggio; per questo motivo Eleazar disse, come riportato in 2 Maccabei 6:28: “Subisco una morte onorevole, a causa delle leggi più venerabili e sacre”.
+
+Al contrario, Macrobio nel *In Somn. Scip. i* considera l’onestà parte della temperanza, e Ambrogio (*De Offic. i, 43*) attribuisce all’onestà un ruolo particolarmente legato alla temperanza.
+
+Rispondo che, come già detto sopra (A[2]), l’onestà è un tipo di [bellezza](/concepts/beauty) spirituale. Ora, ciò che è vergognoso è opposto a ciò che è bello; e gli opposti si manifestano più chiaramente l’uno rispetto all’altro. Pertanto, sembra che l’onestà appartenga in modo particolare alla temperanza, poiché quest’ultima respinge ciò che è più vergognoso e indegno di un uomo, ovvero i desideri animali. Per questo motivo, il nome stesso di “temperanza” indica chiaramente il bene della ragione: essa infatti ha lo scopo di moderare e controllare i cattivi desideri. Di conseguenza, l’onestà, essendo attribuita per un motivo specifico alla temperanza, è considerata una sua parte integrante, non come una virtù aggiuntiva o separata, ma come una condizione essenziale ad essa collegata.
+
+Risposta all’Obiezione 1: La temperanza è considerata una componente soggettiva dell’onestà, intesa in senso lato; tuttavia, l’onestà non viene considerata a sua volta una componente della temperanza.
+
+Risposta all’Obiezione 2: Quando un uomo è ubriaco, “il vino rende i suoi pensieri onesti”, secondo le sue stesse valutazioni, poiché si ritiene grande e degno di onore [*Cfr. Q[148], A[6*.
+
+Risposta all’Obiezione 3: Maggiore onore spetta alla giustizia e alla forza d’animo che alla temperanza, poiché queste ultime eccellono nel perseguire un bene più grande; tuttavia, maggiore onore spetta ancora alla temperanza, poiché i vizi che essa controlla sono quelli che meritano maggiormente il biasimo, come già detto in precedenza. Pertanto, l’onestà va attribuita soprattutto alla temperanza, secondo la regola enunciata dall’Apostolo (1 Corinzi 12:23), quando afferma che “le nostre parti meno belle possiedono una bellezza più abbondante”, ovvero quelle parti che distruggono ciò che è brutto o disonorevole.
+
 <span class="atom-split" data-atom="107" data-title="OF ABSTINENCE (TWO ARTICLES)" data-chapter="OF ABSTINENCE (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the subjective parts of temperance: first, those which are about pleasures
@@ -4980,6 +6614,12 @@ which is fasting; (3) its opposite vice which is gluttony. Under the first head 
 of inquiry:
 (1) Whether abstinence is a virtue?
 (2) Whether it is a special virtue?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare le componenti soggettive della temperanza: in primo luogo, quelle relative ai piaceri legati al cibo; in secondo luogo, quelle relative ai piaceri sessuali. La prima categoria include l’astinenza, che riguarda il cibo e la bevanda, nonché la sobrietà, che riguarda specificamente la bevanda. Per quanto riguarda l’astinenza, sono da considerare tre aspetti: (1) L’astinenza stessa; (2) L’atto concreto dell’astinenza, ovvero il digiuno; (3) Il vizio opposto all’astinenza, ovvero la gola. All’interno della prima categoria vi sono due questioni principali da esaminare:  
+(1) Se l’astinenza sia una virtù;  
+(2) Se sia una virtù specifica.
 
 <span class="atom-split" data-atom="108" data-title="Whether abstinence is a virtue?" data-chapter="Whether abstinence is a virtue?" data-kind="atom" data-srclang="en"></span>
 
@@ -5041,6 +6681,28 @@ Reply to Objection 4: Those vices result from abstinence in so far as it is not 
 right reason. For right reason makes one abstain as one ought, i.e. with gladness of heart, and for
 the due end, i.e. for God's glory and not one's own.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’astinenza non sia una virtù. Infatti l’Apostolo dice (1 Corinzi 4:20): “Il regno di Dio non consiste nella parola, ma nel potere [virtù]”. Ora, il regno di Dio non si fonda sull’astinenza, poiché l’Apostolo afferma anche (Romani 14:17): “Il regno di Dio non è nel cibo né nella bevanda”. Un commento [*Cfr. San Agostino, QQ. Evangelii ii, q. 11*] osserva che “la giustizia non consiste né nell’astinenza né nel consumo di tali cose”. Pertanto, l’astinenza non è una virtù.
+
+Obiezione 2: Inoltre, Agostino afferma (Confessioni, x, 11) rivolgendosi a Dio: “È Tu che mi hai insegnato che devo assumere cibo come medicina”. Ora, regolare l’assunzione di medicine appartiene all’arte medica, non alla virtù; pertanto, allo stesso modo, regolare il proprio regime alimentare, che rientra nell’ambito dell’astinenza, è un atto legato all’arte e non alla virtù.
+
+Obiezione 3: Inoltre, ogni virtù “segue la via di mezzo”, come affermato nell’Etica ii, 6,7. Ma l’astinenza sembra tendere non verso il mezzo ma verso la mancanza, poiché indica un ritiro o una rinuncia. Pertanto, l’astinenza non è una virtù.
+
+Obiezione 4: Inoltre, nessuna virtù esclude un’altra virtù. Tuttavia l’astinenza esclude la pazienza: infatti Gregorio afferma (Pastore iii, 19) che “l’impazienza spesso allontana la mente dell’astenente dalla sua tranquilla solitudine”. Allo stesso modo, egli dice (Pastore iii, 19) che “a volte il peccato dell’orgoglio influisce negativamente sulle riflessioni dell’astenente”, quindi l’astinenza esclude anche l’umiltà. Pertanto, l’astinenza non è una virtù.
+
+Al contrario, è scritto (2 Pietro 1:5-6): “Unite la vostra fede alla virtù, e la virtù alla conoscenza; e la conoscenza all’astinenza”; dove l’astinenza è annoverata tra le altre virtù. Pertanto, l’astinenza è una virtù.
+
+Rispondo che, per definizione stessa, l’astinenza indica il ridimensionamento del consumo di cibo. Pertanto, il termine “astinenza” può essere interpretato in due modi: in primo luogo, come indicazione di un ridotto consumo alimentare in modo assoluto; in questo caso, non rappresenta né una virtù né un atto virtuoso, ma qualcosa di neutro. In secondo luogo, può essere inteso come un comportamento regolato dalla ragione; in questo caso, indica o un’abitudine virtuosa o un atto virtuoso. Questo è il significato delle parole di Pietro citate sopra: egli afferma che dovremmo “coniugare l’astinenza con la saggezza”, cioè che nell’astenersi dal cibo si debba agire tenendo conto delle persone con cui si vive, della propria salute e delle esigenze del proprio corpo.
+
+Risposta all’Obiezione 1: L’uso e la astinenza dal cibo, considerati in sé stessi, non appartengono al regno di Dio, poiché l’Apostolo dice (1 Corinzi 8:8): “Il cibo non ci rende degni di Dio; infatti, né mangiando né astenendoci ne trarremo alcun vantaggio spirituale”. Tuttavia, entrambi rientrano nel regno di Dio nella misura in cui vengono praticati in modo ragionevole, attraverso la fede e l’amore per Dio.
+
+Risposta all’Obiezione 2: La regolamentazione del cibo, in termini di quantità e qualità, rientra nell’ambito dell’arte medica, nel contesto della salute del corpo; ma in relazione alle affezioni interne e al bene della ragione, appartiene all’etica della moderazione. Per questo motivo Agostino afferma (QQ. Evang. ii, q. 11): “Non fa alcuna differenza per la virtù ciò che un uomo mangia o quanto ne consumi, purché lo faccia tenendo conto delle persone tra cui vive, di sé stesso e delle esigenze della propria salute; ciò che conta invece è quanto facilmente e senza lamenti possa rinunciare al cibo quando costretto a farlo per dovere o necessità.”
+
+Risposta all’Obiezione 3: La temperanza consiste nel frenare i piaceri che sono troppo allettanti per l’anima, proprio come la forza d’animo consiste nel rafforzare l’anima contro le paure che la impediscano di perseguire il bene razionale. Pertanto, così come la forza d’animo viene lodata per un certo eccesso da cui derivano tutti i suoi aspetti, anche la temperanza viene lodata per una sorta di mancanza da cui prendono nome tutte le sue componenti. Quindi l’astinenza, essendo parte della temperanza, è denominata proprio in base a questa mancanza; tuttavia essa mantiene il giusto mezzo, nella misura in cui è in accordo con la ragione retta.
+
+Risposta all’Obiezione 4: Quei vizi derivano dall’astinenza nel momento in cui essa non è in accordo con la ragione retta. Infatti, la ragione retta induce l’uomo ad astenersi nel modo dovuto, cioè con gioia nel cuore e per lo scopo giusto, ovvero per la gloria di Dio e non per il proprio interesse personale.
+
 <span class="atom-split" data-atom="109" data-title="Whether abstinence is a special virtue?" data-chapter="Whether abstinence is a special virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that abstinence is not a special virtue. For every virtue is
@@ -5083,6 +6745,24 @@ Reply to Objection 3: The use of clothing was devised by art, whereas the use of
 nature. Hence it is more necessary to have a special virtue for the moderation of food than for the
 moderation of clothing.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’astinenza non sia una virtù particolare. Infatti, ogni virtù è degna di lode in sé stessa. Ma l’astinenza non lo è; poiché Gregorio afferma (Pastorale iii, 19) che “la virtù dell’astinenza viene lodata soltanto in relazione alle altre virtù”. Pertanto, l’astinenza non è una virtù particolare.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) [*Fulgenzio*] afferma (De Fide ad Petrum, xlii) che “i santi si astengono da carne e bevande non perché alcuna creatura di Dio sia cattiva, ma semplicemente al fine di castigare il corpo”. Ora, ciò rientra nella categoria della castità, come indica proprio il suo nome. Pertanto, l’astinenza non rappresenta una virtù particolare distinta dalla castità stessa.
+
+Obiezione 3: Inoltre, poiché l’uomo dovrebbe accontentarsi di una quantità moderata di carne, allo stesso modo dovrebbe essere soddisfatto anche di abiti modesti, secondo quanto affermato in 1 Timoteo 6:8: “Avendo cibo e vestiti, con queste cose dobbiamo essere [Vulgata: ‘siamo’] soddisfatti”. Ora, non esiste alcuna virtù particolare nell’accontentarsi di abiti modesti; allo stesso modo, non esiste nemmeno alcuna virtù nella moderazione nel consumo di cibo.
+
+Al contrario, Macrobio, nel *In Somn. Scip. i, 8*, considera l’astinenza come una parte specifica della temperanza.
+
+Rispondo che, come già detto sopra (Q[136], A[1]; Q[141], A[3]), la virtù morale protegge il bene della ragione dall’assalto delle passioni; pertanto, ogni volta che si trova un motivo particolare per cui una passione si allontana dal bene della ragione, è necessaria una virtù specifica. Ora, i piaceri legati al cibo hanno la natura di allontanare l’uomo dal bene della ragione: sia perché sono molto intensi, sia perché il cibo è essenziale per la sopravvivenza dell’uomo, che lo desidera più di ogni altra cosa. Pertanto, l’astinenza rappresenta una virtù specifica in questo contesto.
+
+Risposta all’Obiezione 1: Le virtù sono necessariamente collegate tra loro, come già detto sopra (FS, Q[65], A[1]). Pertanto, una virtù riceve aiuto e lode da un’altra; ad esempio, la giustizia riceve sostegno dalla forza d’animo. In questo modo, anche la virtù dell’astinenza riceve lode grazie alle altre virtù.
+
+Risposta all’Obiezione 2: Il corpo viene punito attraverso l’astinenza, non solo per resistere alle tentazioni della lussuria, ma anche a quelle dell’ingordigia; infatti, astenendosi, un uomo acquisisce la forza necessaria per superare gli assalti dell’ingordigia, i quali diventano sempre più intensi quanto più ci si arrende ad essi. Tuttavia, l’astinenza non perde il suo carattere di virtù specifica solo perché aiuta nella pratica della castità, poiché una virtù può sempre essere d’aiuto un’altra.
+
+Risposta all’Obiezione 3: L’uso degli abiti è frutto dell’ingegno umano, mentre l’uso del cibo deriva dalla natura. Pertanto, è più necessario disporre di una virtù specifica per moderare il consumo di cibo rispetto a quella necessaria per moderare l’uso degli abiti.
+
 <span class="atom-split" data-atom="110" data-title="OF FASTING (EIGHT ARTICLES)" data-chapter="OF FASTING (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider fasting: under which head there are eight points of inquiry:
@@ -5094,6 +6774,18 @@ We must now consider fasting: under which head there are eight points of inquiry
 (6) Whether it is requisite for fasting to eat but once?
 (7) The hour of eating for those who fast;
 (8) The meats from which it is necessary to abstain.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il digiuno: in questo ambito vi sono otto punti da esaminare:  
+(1) Il digiuno è un atto di virtù?  
+(2) Di quale virtù si tratta?  
+(3) Rientra tra gli atti prescritti dalle norme religiose?  
+(4) Esistono persone che possono essere esentate dall’adempire a questo precetto?  
+(5) Il periodo appropriato per il digiuno;  
+(6) È necessario mangiare soltanto una volta durante il digiuno?  
+(7) L’orario in cui è consentito mangiare a coloro che digiunano;  
+(8) I tipi di cibo da cui è necessario astenersi.
 
 <span class="atom-split" data-atom="111" data-title="Whether fasting is an act of virtue?" data-chapter="Whether fasting is an act of virtue?" data-kind="atom" data-srclang="en"></span>
 
@@ -5157,6 +6849,24 @@ act. Such is only the fasting of one who abstains in some measure from food for 
 purpose. Hence the former is called natural fasting [jejunium jejunii] [*Literally the 'fast of fasting']:
 while the latter is called the faster's fast, because he fasts for a purpose.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il digiuno non sia un atto di virtù. Infatti, ogni atto di virtù è accettabile da Dio. Ma il digiuno non è sempre accettabile da Dio, secondo Isaia 58:3: “Perché abbiamo digiunato e Tu non l’hai considerato?”. Pertanto, il digiuno non è un atto di virtù.
+
+Obiezione 2: Inoltre, nessun atto di virtù abbandona il “mezzo” stesso della virtù. Ora, il digiuno abbandona proprio quel “mezzo”, poiché nella virtù dell’astinenza si tiene conto della necessità di soddisfare i bisogni naturali, mentre con il digiuno qualcosa viene proprio negato; altrimenti coloro che non digiunano non possederebbero affatto la virtù dell’astinenza. Pertanto, il digiuno non è un atto di virtù.
+
+Obiezione 3: Inoltre, ciò che è accessibile a tutti, sia al bene che al male, non costituisce un atto di virtù. Il digiuno, ad esempio, è qualcosa che tutti compiono prima di mangiare; pertanto il digiuno non è un atto di virtù.
+
+Al contrario, viene considerato insieme ad altri atti virtuosi (2 Corinzi 6:5,6), dove l’Apostolo afferma: “Nel digiuno, nella conoscenza, nella castità, ecc.”
+
+Rispondo che un atto è virtuoso quando è guidato dalla ragione verso qualche bene virtuoso. Ora, questo è coerente con il digiuno, poiché il digiuno viene praticato per tre scopi principali: in primo luogo, al fine di domare i desideri carnali; per questo l’Apostolo dice (2 Corinzi 6:5-6): “Nel digiuno e nella castità, ”, poiché il digiuno è il custode della castità. Secondo Girolamo, infatti, “Venera diventa fredda quando Cere e Bacco non sono presenti”, cioè i desideri carnali vengono placati attraverso l’astinenza dal cibo e dalla bevanda. In secondo luogo, il digiuno permette alla mente di elevarsi più liberamente alla contemplazione delle cose celesti; per questo si narra che Daniele ricevette una rivelazione da Dio dopo aver digiunato per tre settimane (Daniele 10). Terzo, il digiuno serve a espiare i peccati; per questo è scritto (Gioele 2:12): “convertitevi a Me con tutto il vostro cuore, nel digiuno, nel pianto e nel lutto”. Lo stesso viene affermato da Agostino in un sermone (“De orat. et Jejun.”, Serm. lxxii): “Il digiuno purifica l’anima, eleva la mente, sottomette il corpo allo spirito, rende il cuore contrito e umile, disperde le nuvole della concupiscenza, spegne il fuoco del desiderio e accende la vera luce della castità”.
+
+Risposta all’Obiezione 1: Un atto che in sé è virtuoso può diventare viziose a causa del suo legame con determinate circostanze. Ecco perché il testo prosegue dicendo: “Ecco, nel giorno del tuo digiuno la tua volontà trova fondamento”, e poco più avanti (Isaia 58:4): “Digiuni per dispute e lotte, e colpisci con il pugno in modo malvagio”. Queste parole vengono spiegate da Gregorio Magno (Pastorale iii, 19) nel seguente modo: “La volontà indica gioia, mentre il pugno rappresenta la [ira](/concepts/anger). È quindi vano restringere il corpo se la mente viene lasciata libera di indulgere in comportamenti eccessivi, che portano al vizio”. Agostino afferma (nello stesso sermone) che “il digiuno non ama le molte parole, ritiene la ricchezza superflua, disprezza l’orgoglio, esalta l’umiltà e aiuta l’uomo a comprendere ciò che è effimero e insignificante”.
+
+Risposta all’Obiezione 2: Il mezzo della virtù non viene misurato in base alla quantità, ma in base alla ragione retta, come affermato nell’Etica ii, 6. La ragione, infatti, giudica opportuno che un uomo assuma meno cibo di quanto sarebbe appropriato nelle circostanze ordinarie, ad esempio per evitare malattie o per svolgere determinate attività fisiche con maggiore facilità; inoltre, la ragione indica ancora più chiaramente come evitare i mali spirituali e perseguire i beni spirituali. Tuttavia, la ragione non impedisce all’uomo di assumere il cibo necessario per il proprio sostentamento: così dice Gerolamo: “Non importa se si distrugge la propria salute in tempi brevi o lunghi, poiché affliggere il corpo in modo eccessivo – sia attraverso una carenza alimentare grave, sia mangiando o dormendo troppo poco – equivale a offrire un sacrificio fatto con beni rubati”. Questa citazione proviene dal Corpus iuris canonici (Cap. Non mediocriter, De Consecrationibus, dist. 5); Gratiano attribuisce questa frase a San Gerolamo, ma in realtà essa non si trova nelle opere dello stesso santo. Allo stesso modo, la ragione retta non impedisce all’uomo di assumere il cibo necessario per adempiere ai propri doveri. Per questo motivo Gerolamo afferma: “L’uomo razionale perde la propria dignità se pone il digiuno al di sopra della castità, o le veglie notturne al di sopra del benessere dei propri sensi”.
+
+Risposta all’Obiezione 3: Il digiuno naturale, per il quale si dice che un uomo sia in digiuno finché non consuma cibo, consiste semplicemente in una negazione pura; pertanto non può essere considerato un atto virtuoso. Solo il digiuno di colui che astiene dal cibo, in misura moderata e per uno scopo ragionevole, può essere considerato tale. Per questo motivo, il primo tipo di digiuno viene chiamato “digiuno naturale” [jejunium jejunii]; mentre il secondo viene definito “digiuno intenzionale”, poiché viene praticato per uno scopo specifico.
+
 <span class="atom-split" data-atom="112" data-title="Whether fasting is an act of abstinence?" data-chapter="Whether fasting is an act of abstinence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that fasting is not an act of abstinence. For Jerome [*The quotation
@@ -5194,6 +6904,24 @@ Reply to Objection 3: It belongs to fortitude as a special virtue, to endure, no
 hardship, but only those connected with the danger of death. To endure hardships resulting from
 privation of pleasure of touch, belongs to temperance and its parts: and such are the hardships of
 fasting.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il digiuno non sia un atto di astinenza. Infatti, Gerolamo, commentando Matteo 17:20 (“Questo genere di demonio” dice: “Digiunare significa astenersi non solo dal cibo ma anche da ogni sorta di desideri lussuriosi”), afferma nel *Glossario Ordinario* che il digiuno riguarda non soltanto il cibo, ma anche tutti i tipi di desideri. Ora, questi desideri appartengono a ogni virtù; pertanto, il digiuno non è esclusivamente un atto di astinenza.
+
+Obiezione 2: Inoltre, Gregorio afferma in un’omelia di Quaresima (xvi in Evang.) che “il digiuno di Quaresima rappresenta un decimo del tutto l’anno”. Ora, pagare le decime è un atto di religione, come già detto sopra (Q[87], A[1]). Pertanto, il digiuno è un atto di religione e non di astinenza.
+
+Obiezione 3: Inoltre, l’astinenza fa parte della temperanza, come già affermato sopra (QQ[143], 146, A[1], ad 3). Ora la temperanza condivide alcune caratteristiche con la forza d’animo, che consiste nel sopportare le difficoltà; ciò sembra particolarmente applicabile al digiuno. Pertanto, il digiuno non è un atto di astinenza.
+
+Al contrario, Isidoro afferma (Etym. VI, 19) che “il digiuno consiste nella frugalità nel cibo e nell’astinenza dal mangiare”.
+
+Rispondo che l’[ABITUDINE](/concepts/custom) e l’azione hanno lo stesso oggetto. Pertanto, ogni atto virtuoso relativo a un determinato oggetto appartiene alla virtù che indica il mezzo appropriato per quel particolare oggetto. Ora, il digiuno riguarda il cibo, e il mezzo appropriato in questo caso è rappresentato dall’astinenza. È quindi evidente che il digiuno sia un atto di astinenza.
+
+Risposta all’Obiezione 1: In senso stretto, il digiuno consiste nell’astenersi dal cibo; ma in senso metaforico, indica l’astensione da qualsiasi cosa dannosa, e soprattutto il peccato rientra in questa categoria. Possiamo anche osservare che, anche in senso stretto, il digiuno significa astenersi da ogni sorta di desiderio lussurioso, poiché, come già detto (A[1], ad 1), un atto perde la sua virtù non appena vi si associa qualche vizio.
+
+Risposta all’Obiezione 2: Nulla impedisce che un atto di una virtù appartenga anche ad un’altra virtù, nella misura in cui sia diretto verso lo scopo di quella virtù, come spiegato sopra (Q[32], A[1], ad 2; Q[85], A[3]). Pertanto, non c’è motivo per cui il digiuno non possa essere considerato un atto di religione, di castità o di qualsiasi altra virtù.
+
+Risposta all’Obiezione 3: Appartiene alla forza d’animo, come virtù specifica, sopportare non qualsiasi tipo di sofferenza, ma soltanto quelle legate al pericolo di morte. Sopportare le difficoltà derivanti dalla privazione dei piaceri sensoriali rientra invece nella temperanza e nelle sue manifestazioni; tra queste figurano appunto le sofferenze causate dal digiuno.
 
 <span class="atom-split" data-atom="113" data-title="Whether fasting is a matter of precept?" data-chapter="Whether fasting is a matter of precept?" data-kind="atom" data-srclang="en"></span>
 
@@ -5254,6 +6982,24 @@ are appointed by the councils of bishops and are sanctioned by the custom of the
 Nor are they opposed to the freedom of the faithful, rather are they of use in hindering the slavery
 of sin, which is opposed to spiritual freedom, of which it is written (Gal. 5:13): "You, brethren,
 have been called unto liberty; only make not liberty an occasion to the flesh."
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il digiuno non rientri tra le questioni regolate da precetti. Infatti, i precetti non riguardano azioni di carattere volontario, che sono invece soggette a consigli personali. Ora, il digiuno è proprio un’azione di questo tipo; altrimenti dovrebbe essere osservato in modo uniforme in ogni luogo e in ogni momento. Pertanto, il digiuno non rientra tra le questioni regolate da precetti.
+
+Obiezione 2: Inoltre, chiunque violi un precetto commette un peccato mortale. Pertanto, se il digiuno fosse considerato un precetto, tutti coloro che non lo praticassero commetterebbero un peccato mortale, e ciò significherebbe che verrebbe tesa una trappola molto diffusa per gli uomini.
+
+Obiezione 3: Inoltre, [Agostino](/figures/augustine) afferma (De Vera Relig. 17) che “la Saggezza di Dio, avendo assunto la [natura umana](/axes/human_nature) e chiamandoci a uno stato di libertà, istituì alcuni sacramenti estremamente utili, attraverso i quali la comunità del popolo cristiano, cioè quella della moltitudine libera, potesse essere unita sotto il dominio di un solo Dio”. Ora, sembra che la libertà del popolo cristiano venga ostacolata da un gran numero di pratiche e di sacramenti. Infatti, Agostino dice (Ad inquis. Januar., Ep. lv) che “mentre Dio, nella Sua misericordia, desiderava che la nostra religione si distinguesse per la sua libertà, nonché per l’essenzialità e il numero ridotto dei suoi sacramenti solenni, alcune persone la rendono opprimente con oneri servili”. Pertanto, sembrerebbe che la Chiesa non avrebbe dovuto rendere il digiuno un precetto obbligatorio.
+
+Al contrario, Gerome (Ad Lucin., Ep. lxxi), parlando del digiuno, afferma: “Che ciascuna regione mantenga le proprie usanze e consideri gli ordini degli anziani come se fossero leggi degli apostoli.” Pertanto, il digiuno rientra tra i precetti.
+
+Rispondo che, proprio come spetta all’autorità secolare stabilire precetti legali che applichino la [legge naturale](/positions/natural_law) alle questioni relative al bene comune in ambito temporale, così spetta ai superiori ecclesiastici prescrivere per legge quelle norme che riguardano il bene comune dei fedeli in ambito spirituale. Come già detto in precedenza (A[1]), il digiuno è utile sia come mezzo di espiazione e prevenzione del peccato, sia perché aiuta a elevare l’animo verso le cose spirituali. Ogni persona è infatti obbligata, per dictato della ragione naturale, a praticare il digiuno nella misura in cui ciò sia necessario per questi scopi. Pertanto, il digiuno in sé rappresenta un precetto della legge naturale; mentre la determinazione del momento e del modo in cui praticarlo, in modo appropriato e proficuo per il popolo cristiano, costituisce un precetto di diritto positivo stabilito dall’autorità ecclesiastica: il secondo riguarda il digiuno imposto dalla Chiesa, il primo quello prescritto dalla natura stessa.
+
+Risposta all’Obiezione 1: Il digiuno, considerato in sé stesso, indica qualcosa che non è considerato un dovere legittimo ma piuttosto una punizione; tuttavia diventa legittimo nella misura in cui è utile per raggiungere uno scopo specifico. Pertanto, considerato in modo assoluto, non costituisce un obbligo imposto da precetti religiosi; ma diventa tale per chiunque abbia bisogno di tale rimedio. Poiché la maggior parte delle persone ha effettivamente bisogno di questo rimedio – sia perché “in molte cose tutti noi pecciamo” (Giacomo 3:2), sia perché “la carne desidera ciò che è contrario allo spirito” (Galati 5:17) – è stato appropriato che la Chiesa stabilisse determinati digiuni da osservare collettivamente da tutti. Facendo ciò, la Chiesa non trasforma in obbligo legittimo qualcosa che originariamente non lo era, ma specifica in modo dettagliato ciò che rappresenta un dovere generale per tutti i credenti.
+
+Risposta all’Obiezione 2: Quei comandamenti che vengono dati sotto forma di precetti generali non vincolano tutte le persone nello stesso modo, ma in base alle esigenze dello scopo inteso dal legislatore. È un peccato mortale disobbedire a un comandamento per disprezzo dell’autorità del legislatore, o disobbedirvi in modo tale da vanificare lo scopo che egli aveva in mente; tuttavia, non è un peccato mortale se si manca di osservare un comandamento quando esiste una motivazione ragionevole, soprattutto se il legislatore stesso non insisterebbe sull’adempimento di tale comandamento se fosse presente. Ecco perché non tutti coloro che non osservano i digiuni stabiliti dalla Chiesa commettono un peccato mortale.
+
+Risposta all’Obiezione 3: Agostino si riferisce in questo passaggio a quelle pratiche “che non sono contenute negli scritti sacri, né previste tra le ordinanze dei vescovi nei concili, né approvate dalla consuetudine della Chiesa universale”. D’altra parte, i digiuni obbligatori sono stabiliti dai concili dei vescovi e approvati dalla consuetudine della Chiesa universale; inoltre, non contrastano con la libertà dei fedeli, anzi sono utili per contrastare la schiavitù del peccato, che è opposta alla libertà spirituale. Come si legge in Galati 5:13: “Voi, fratelli, siete stati chiamati alla libertà; solo non fate che questa libertà diventi un’occasione per il corpo”.
 
 <span class="atom-split" data-atom="114" data-title="Whether all are bound to keep the fasts of the Church?" data-chapter="Whether all are bound to keep the fasts of the Church?" data-kind="atom" data-srclang="en"></span>
 
@@ -5346,6 +7092,30 @@ of the bridegroom"; hence when we read in Luke: "The children of the bridegroom 
 [*Vulg.: 'Can the children of the bridegroom mourn?']." The other pertains to the mind that rejoices
 in adhering to spiritual things: and this fasting is befitting the perfect.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che tutti siano obbligati a rispettare i digiuni stabiliti dalla Chiesa. Infatti, i comandamenti della Chiesa sono vincolanti proprio come quelli di Dio, secondo quanto detto in Luca 10:16: “Chi vi ascolta, ascolta Me”. Poiché tutti sono obbligati a rispettare i comandamenti di Dio, allo stesso modo tutti devono osservare i digiuni prescritti dalla Chiesa.
+
+Obiezione 2: Inoltre, sembra che anche i bambini non siano esenti dal digiuno, a causa della loro età; infatti è scritto (Gioele 2:15): “Consacrate un digiuno”, e ancora più avanti (Gioele 2:16): “Radunate i piccoli e coloro che allattano al seno”. Pertanto, tutti gli altri sono ancora di più obbligati a osservare il digiuno.
+
+Obiezione 3: Inoltre, le cose spirituali dovrebbero essere preferite a quelle temporali, e le cose necessarie a quelle che non lo sono. Ora, le opere corporee mirano al guadagno temporale; e i pellegrinaggi, sebbene rivolti verso cose spirituali, non sono considerati necessari. Pertanto, poiché il digiuno è finalizzato a un beneficio spirituale ed è reso obbligatorio dal comando della Chiesa, sembra che i digiuni prescritti dalla Chiesa non dovrebbero essere trascurati a causa di pellegrinaggi o altre opere corporee.
+
+Obiezione 4: Inoltre, è meglio fare qualcosa volontariamente piuttosto che per necessità, come affermato in 2 Corinzi 9:7. Ora i poveri sono costretti a digiunare per necessità, a causa della mancanza di cibo; pertanto dovrebbero ancora di più digiunare volontariamente.
+
+Al contrario, sembra che nessun uomo giusto sia obbligato a digiunare. Poiché i comandamenti della Chiesa non sono vincolanti in contraddizione con l’insegnamento di Cristo. Ma il nostro Signore disse (Lc 5:34): “I figli dello sposo non possono digiunare, finché lo sposo è con loro”. Ora Egli è con tutti i giusti, dimorando in loro in modo particolare [*Cfr. FP, Q[8], A[3; per questo il Signore disse anche (Matteo 28:20): “Ecco, io sono con voi, fino alla fine del mondo”. Pertanto, i giusti non sono obbligati dal comandamento della Chiesa a digiunare.
+
+Rispondo che, come già detto sopra (FS, Q[90], A[2]; FS, Q[98], AA[2],6), i precetti generali vengono formulati in base alle esigenze della maggioranza delle persone. Pertanto, nel stabilire tali precetti, il legislatore tiene conto di ciò che avviene in modo generale e nella stragrande maggioranza dei casi; non intende che tale precetto sia obbligatorio per coloro nei quali, per qualche motivo particolare, esistano impedimenti alla sua osservanza. Tuttavia, è necessario applicare la discrezionalità in tali situazioni: se il motivo che impedisce l’osservanza del precetto è evidente, è legittimo utilizzare la propria giudizio per ometterne l’esecuzione, soprattutto se la [consuetudine](/concepts/custom) è a favore di tale comportamento o se risulta difficile ricorrere all’autorità superiore. D’altra parte, se il motivo è dubbia, si deve rivolgersi a chi ha il potere di concedere dispensazioni in tali casi. Ciò vale anche per i digiuni stabiliti dalla Chiesa, ai quali tutti sono generalmente tenuti, salvo che non esistano ostacoli particolari all’osservanza di tali precetti.
+
+Risposta all’Obiezione 1: I comandamenti di Dio sono precetti della [legge naturale](/positions/natural_law), che, di per sé, sono necessari per la salvezza. Ma i comandamenti della Chiesa riguardano questioni che sono necessarie per la salvezza, non in sé stesse, ma soltanto attraverso l’ordinanza della Chiesa. Pertanto, possono esistere determinati ostacoli a causa dei quali alcune persone non sono obbligate a rispettare tali precetti.
+
+Risposta all’Obiezione 2: Nei bambini esiste una ragione molto evidente per cui non è necessario digiunare: da un lato, a causa della loro debolezza naturale, hanno bisogno di assumere cibo frequentemente e in piccole quantità; dall’altro, il loro corpo richiede molte sostanze nutritive per soddisfare le esigenze della crescita. Pertanto, finché dura questa fase di sviluppo – che generalmente si estende fino al completamento del terzo periodo di sette anni – non è obbligatorio che osservino i digiuni stabiliti dalla Chiesa; tuttavia è opportuno che, anche in quel periodo, pratichino il digiuno, in misura diversa a seconda dell’età. Tuttavia, quando minaccia una grande calamità, anche i bambini vengono esortati a digiunare, come segno di penitenza più severa; ciò è indicato nel libro di Giona (3:7): “Né uomini né animali, debbano assaggiare nulla, né bere acqua”.
+
+Risposta all’Obiezione 3: A quanto pare, si dovrebbe fare una distinzione tra i pellegrini e le persone che svolgono attività lavorative. Infatti, se il pellegrinaggio o il lavoro arduo possono essere rinviati o ridotti senza danneggiare la salute fisica o quelle condizioni esterne necessarie al mantenimento della vita corporea o spirituale, non vi è motivo per trascurare i digiuni prescritti dalla Chiesa. Tuttavia, se si è costretti ad iniziare il pellegrinaggio immediatamente, a percorrere lunghe distanze o a svolgere un lavoro intenso, sia per necessità materiali che spirituali, e allo stesso tempo risulti impossibile osservare i digiuni prescritti dalla Chiesa, non si è obbligati a farlo: poiché, stabilendo tali digiuni, la Chiesa probabilmente non intendeva impedire altre attività pie e più necessarie. In ogni caso, in tali situazioni sembrerebbe opportuno chiedere l’autorizzazione dei superiori; salvo forse quando tale pratica sia già consolidata dalla consuetudine, poiché il silenzio dei superiori potrebbe essere interpretato come un loro consenso.
+
+Risposta all’Obiezione 4: Coloro che sono poveri ma riescono a procurarsi abbastanza cibo per un pasto non sono scusati, in base alla povertà, dal rispettare i digiuni imposti dalla Chiesa. D’altra parte, sembrerebbero esentati coloro che mendicano il cibo poco a poco, poiché in nessun momento riescono ad avere abbastanza da mangiare.
+
+Risposta all’Obiezione 5: Questa dichiarazione del nostro Signore può essere interpretata in tre modi. Primo, secondo Crisostomo (Homilia xxx su Matteo), che afferma che “i discepoli, chiamati figli dello sposo, erano ancora di natura debole; per questo vengono paragonati a un abito vecchio”. Pertanto, mentre Cristo era con loro in carne e ossa, dovevano essere educati con gentilezza piuttosto che con la durezza dei digiuni. Secondo questa interpretazione, è giusto concedere deroghe a coloro che sono imperfetti o principianti, piuttosto che agli anziani e ai perfetti, come si legge in un commento al Salmo 130:2: “Come un bambino allattato cerca la madre”. Secondo, possiamo dire, con Gerolamo (*Bede, Commento su Luca v*), che il nostro Signore si riferisce qui ai digiuni previsti dall’[Antico Testamento](/concepts/divine_law). Il Signore intende quindi dire che gli apostoli non dovevano essere vincolati dalle antiche pratiche, poiché dovevano essere colmati dalla novità della grazia. Terzo, secondo [Agostino](/figures/augustine) (De Consensu Evangeliorum ii, 27), il digiuno può essere di due tipi: uno riguarda coloro che si umiliano a causa dell’angoscia, e questo non è adatto ai perfetti, poiché questi sono chiamati “figli dello sposo”; quindi, quando leggiamo in Luca: “I figli dello sposo non possono digiunare”, troviamo in Matteo 9:15: “I figli dello sposo non possono piangere”. L’altro tipo di digiuno riguarda coloro che si rallegrano nel seguire le cose spirituali; e questo tipo di digiuno è adatto ai perfetti.
+
 <span class="atom-split" data-atom="115" data-title="Whether the times for the Church fast are fittingly ascribed?" data-chapter="Whether the times for the Church fast are fittingly ascribed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the times for the Church fast are unfittingly appointed. For we
@@ -5429,6 +7199,25 @@ fasting to be of obligation)---he would not be free from sin. Nevertheless fasti
 is commendable at all times; thus Jerome wrote (Ad Lucin., Ep. lxxi): "Would that we might fast
 always."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i tempi stabiliti per il digiuno nella Chiesa siano inappropriati. Infatti leggiamo (Matteo 4) che Cristo iniziò a digiunare immediatamente dopo essere stato battezzato. Ora dovremmo imitare Cristo, secondo 1 Corinzi 4:16: “Siate miei seguaci, così come io lo sono di Cristo”. Pertanto dovremmo digiunare immediatamente dopo l’Epifania, quando si celebra il battesimo di Cristo.
+
+Obiezione 2: Inoltre, secondo la [Nuova Legge](/concepts/divine_law), è vietato osservare le cerimonie della Vecchia Legge. Le solennità della Vecchia Legge prevedevano infatti il digiuno in determinati mesi; come si legge in Zaccaria 8:19: “Il digiuno del quarto mese, del quinto mese, del settimo mese e del decimo mese saranno per la casa di Giuda motivo di gioia, di letizia e di grandi solennità”. Pertanto, il digiuno praticato in questi mesi non è appropriato essere osservato nella Chiesa.
+
+Obiezione 3: Inoltre, secondo [Agostino](/figures/augustine) (De Consensu Evang. ii, 27), proprio come esiste un digiuno “di dolore”, esiste anche un digiuno “di gioia”. È del tutto appropriato che i fedeli si rallegri spiritualmente per la Resurrezione di Cristo. Pertanto, durante le cinque settimane che la Chiesa celebra in onore della Resurrezione di Cristo, e nei giorni domenicali che ne commemorano l’evento, dovrebbero essere stabiliti digiuni.
+
+Al contrario, c’è la consuetudine generale della Chiesa.
+
+Rispondo che, come già detto in precedenza (AA[1],3), il digiuno ha lo scopo di eliminare i peccati e di elevare l’anima verso le cose celesti. Pertanto, il digiuno dovrebbe essere praticato soprattutto in quei periodi in cui è necessario purificarsi dai peccati e elevare la mente dei fedeli verso Dio attraverso la devozione; queste cose sono particolarmente importanti prima della festa di Pasqua, quando i peccati vengono perdonati tramite il battesimo, che viene celebrato solennemente nella vigilia di Pasqua, giorno in cui si commemora la sepoltura del nostro Signore, poiché “con il battesimo veniamo sepolti insieme a Cristo fino alla morte” (Romani 6:4). Inoltre, durante la festa di Pasqua, l’anima dell’uomo dovrebbe essere devotamente elevata alla gloria dell’[eternità](/positions/eternity), che Cristo ha ristabilito risorgendo dai morti; per questo motivo la Chiesa ha stabilito che si osservasse un digiuno immediatamente prima della festa pasquale, e per lo stesso motivo anche nella vigilia delle principali feste, poiché è in quel momento che si deve prepararsi a celebrarle con devozione. È inoltre consuetudine nella Chiesa conferire i sacramenti ogni quarto di anno (un simbolo di ciò che il nostro Signore fece quando nutrì quattromila persone con sette pani, un segno dell’anno del Nuovo Testamento, come afferma Girolamo nel suo [*Commento su Marco viii*]); in quei momenti sia il conferitore dei sacramenti che i candidati all’ordinazione, nonché l’intera comunità per la quale vengono celebrati i sacramenti, devono digiunare per prepararsi adeguatamente. Per questo motivo si racconta che prima di scegliere i suoi discepoli il nostro Signore “andò in montagna a pregare” (Luca 6:12); Ambrogio, commentando queste parole, dice: “Che cosa dovresti fare se desideri intraprendere un’azione pia, visto che Cristo pregò prima di inviare i suoi apostoli?” Per quanto riguarda il digiuno di quaranta giorni, secondo Gregorio (Hom. xvi in Evang.), ci sono tre motivazioni alla scelta di questo numero: innanzitutto, “poiché il potere del Decalogo si realizza nei quattro Vangeli; quaranta, infatti, è il prodotto di dieci moltiplicato per quattro”. Oppure, “poiché noi siamo composti da quattro elementi in questo corpo mortale, e attraverso i desideri di questi elementi trasgrediamo ai comandamenti del Signore contenuti nel Decalogo; pertanto è appropriato che puniamo quel corpo per quaranta giorni”. Inoltre, “poiché, proprio come sotto la Legge era imposto di pagare il decimo delle cose, così noi cerchiamo di offrire a Dio un ‘decimo dei giorni’: poiché un anno è composto da trecentosessantasei giorni, punendoci per trentasei giorni (ossia durante i sei settimane del digiuno quaresimale) offriamo a Dio un ‘decimo’ dell’anno”. Secondo Agostino (De Doctr. Christ. ii, 16), si può aggiungere anche una quarta ragione: il Creatore è la “Trinità”, Padre, Figlio e Spirito Santo; il numero “tre” si riferisce alla creazione invisibile, poiché ci viene comandato di amare Dio con tutto il cuore, con tutta l’anima e con tutta la mente; il numero “quattro” si riferisce alla creazione visibile, in relazione ai quattro elementi (caldo, freddo, umido, secco). Il numero “dieci”, quindi, rappresenta l’intera realtà creativa di Dio.
+La somma di tre, tre e quattro rappresenta tutte le cose; se questa cifra viene moltiplicata per quattro – che simboleggia il corpo attraverso il quale utilizziamo queste cose – otteniamo il numero quaranta. Ogni digiuno dei giorni di Quaresima è composto da tre giorni, sia in relazione al numero di mesi presenti in ogni stagione, sia in relazione al numero degli ordini sacri conferiti in questi periodi.
+
+Risposta all’Obiezione 1: Cristo non aveva bisogno del battesimo per sé stesso, ma al fine di raccomandarcelo. Pertanto, era opportuno che digiunasse dopo il suo battesimo, e non prima, affinché ci invitasse a digiunare prima del nostro battesimo.
+
+Risposta all’Obiezione 2: La Chiesa osserva i digiuni legati alle feste del Fuoco Sacro, né nello stesso periodo dei Giudei, né per le stesse ragioni. I Giudei digiunavano a luglio, il quarto mese a partire da aprile (che consideravano il primo mese dell’anno), perché fu in quel momento che Mosè, scendendo dal Monte Sinai, distrusse le Tavole della Legge (Esodo 32); inoltre, secondo Geremia 39:2, “furono proprio allora distrutti i muri della città”. Nel quinto mese, che noi chiamiamo agosto, digiunavano perché era stato loro ordinato di non salire sul Monte Sinai, dopo che il popolo si era ribellato a causa degli spie (Numeri 14); in quel stesso mese il Tempio di Gerusalemme fu distrutto da Nabucodonosor (Geremia 52) e successivamente da Tito. Nel settimo mese, che noi chiamiamo ottobre, Godolia fu ucciso e i resti del popolo dispersi (Geremia 51). Nel decimo mese, che noi chiamiamo gennaio, il popolo che si trovava in esilio con Ezechiele apprese della distruzione del Tempio (Ezechiele 4).
+
+Risposta all’Obiezione 3: Il “digiuno di gioia” deriva dall’istigazione dello Spirito Santo, che è lo Spirito della libertà; pertanto tale digiuno non dovrebbe essere considerato un dovere imposto. Di conseguenza, i digiuni prescritti dall’ordine della Chiesa sono piuttosto “digiuni di dolore”, incompatibili con giorni di gioia. Per questo motivo, la Chiesa non prescrive il digiuno durante l’intera stagione pasquale, né nei domenici; e se qualcuno praticasse tale digiuno in contraddizione con la consuetudine dei cristiani – che, come afferma Agostino nell’Epistola xxxvi, “deve essere considerata legge” – o per qualche opinione errata (come fanno i Manichei, che ritengono tale digiuno obbligatorio), non sarebbe esente dal peccato. Tuttavia, il digiuno in sé è sempre lodevole; come scrive Girolamo nell’Epistola ad Lucino lxxi: “Ah, se potessimo digiunare sempre, ”
+
 <span class="atom-split" data-atom="116" data-title="Whether it is requisite for fasting that one eat but once?" data-chapter="Whether it is requisite for fasting that one eat but once?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not requisite for fasting that one eat but once. For, as stated
@@ -5469,6 +7258,24 @@ Reply to Objection 3: Although digestives nourish somewhat they are not taken ch
 nourishment, but for digestion. Hence one does not break one's fast by taking them or any other
 medicines, unless one were to take digestives, with a fraudulent intention, in great quantity and by
 way of food.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia necessario, per digiunare, mangiare soltanto una volta al giorno. Infatti, come detto in precedenza (A[2]), il digiuno è un atto legato alla virtù dell’astinenza, e tale virtù prevede l’assunzione di una quantità adeguata di cibo, non inferiore al numero delle pasti. Ora, la quantità di cibo assunta durante il digiuno non è limitata; pertanto, nemmeno il numero dei pasti dovrebbe essere limitato.
+
+Obiezione 2: Inoltre, proprio come l’uomo è nutrito dalla carne, lo è anche dal liquido; pertanto il consumo di bevande rompe il digiuno, e per questo motivo non possiamo ricevere l’Eucaristia dopo aver bevuto. Ora non ci è vietato bere in diverse ore della giornata; quindi a coloro che digiunano non dovrebbe essere proibito mangiare più volte nel corso della stessa giornata.
+
+Obiezione 3: Inoltre, i digestivi sono un tipo di cibo; eppure molte persone li assumono nei giorni di digiuno, dopo aver mangiato. Pertanto, non è necessario durante il digiuno assumere soltanto un pasto.
+
+Al contrario, c’è la comune [ABITUDINE](/concepts/custom) del popolo cristiano.
+
+Rispondo che il digiuno è istituito dalla Chiesa al fine di domare la concupiscenza, pur preservando al contempo le leggi naturali dell’uomo. A tal scopo sembra sufficiente un solo pasto, poiché in questo modo l’uomo riesce a soddisfare i propri bisogni naturali; tuttavia riducendo il numero dei pasti si limita ulteriormente l’effetto della concupiscenza. Pertanto, la Chiesa, con moderazione, prescrive che coloro che digiunano consumino un solo pasto al giorno.
+
+Risposta all’Obiezione 1: Non era possibile fornire la stessa quantità di cibo a tutti, a causa delle diverse caratteristiche fisiche individuali; di conseguenza, alcune persone avevano bisogno di più cibo, altre di meno, mentre nella maggior parte dei casi tutti erano in grado di soddisfare i propri bisogni con un solo pasto.
+
+Risposta all’Obiezione 2: Il digiuno è di due tipi [*Cfr. A[1], ad 3*. Uno è il digiuno naturale, necessario per ricevere l’Eucaristia; tale digiuno viene interrotto da qualsiasi tipo di bevanda, anche semplicemente dall’acqua, dopo di che non è più lecito ricevere l’Eucaristia. Il digiuno stabilito dalla Chiesa appartiene a un altro tipo e viene chiamato “digiuno del digiunante”; questo digiuno non può essere interrotto se non da ciò che la Chiesa stessa ha inteso proibire al momento della sua istituzione. Ora, la Chiesa non intende comandare l’astinenza dalle bevande, poiché queste vengono considerate principalmente utili per il rinfrescamento del corpo e la digestione del cibo ingerito, anche se forniscono un certo nutrimento. Tuttavia, è possibile peccare e perdere i meriti derivanti dal digiuno consumando troppe bevande, così come mangiare in modo eccessivo in una sola volta.
+
+Risposta all’Obiezione 3: Sebbene i digestivi apportino un certo nutrimento, non vengono assunti principalmente per questo scopo, ma per facilitare la digestione. Pertanto, assumere dei digestivi o qualsiasi altro farmaco non costituisce una rottura del digiuno, a meno che non si faccia ciò con intenti fraudolenti, in grandi quantità e come parte di un pasto.
 
 <span class="atom-split" data-atom="117" data-title="Whether the ninth hour is suitably fixed for the faster's meal?" data-chapter="Whether the ninth hour is suitably fixed for the faster's meal?" data-kind="atom" data-srclang="en"></span>
 
@@ -5520,6 +7327,24 @@ hour, which is fixed for those who fast. Wherefore the fixing of such a time can
 to anyone, whatever his circumstances may be. If however this were to prove a heavy burden to a
 man on account of sickness, age, or some similar reason, he should be dispensed from fasting, or
 be allowed to forestall the hour by a little.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’ora nona non sia adatta per il pasto del pellegrino che viaggia velocemente. Infatti, lo [Nuovo Testamento](/concepts/divine_law) rappresenta uno stadio più perfetto rispetto all’[Vecchio Testamento](/concepts/state). Nel Vecchio Testamento si digiunava fino al tramonto, poiché è scritto (Levitico 23:32): “È sabato, dovete astenervi da ogni lavoro”, e il testo prosegue dicendo: “Dall’imbrunire all’imbrunire celebrerete i vostri sabati”. Pertanto, sotto il Nuovo Testamento il digiuno dovrebbe essere imposto fino al tramonto ancora di più.
+
+Obiezione 2: Inoltre, il digiuno prescritto dalla Chiesa è obbligatorio per tutti. Tuttavia, non tutti sono in grado di conoscere con precisione l’ora nona. Pertanto, sembra che la determinazione dell’ora nona non dovrebbe far parte del precetto del digiuno.
+
+Obiezione 3: Inoltre, il digiuno è un atto legato alla virtù dell’astinenza, come già affermato sopra (A[2]). Ora, il mezzo per realizzare una virtù morale non si applica nello stesso modo a tutti, poiché ciò che è molto importante per uno può essere poco significativo per un altro, come indicato nell’Etica ii, 6. Pertanto, l’ora nona del digiuno non dovrebbe essere fissata per coloro che lo praticano.
+
+Al contrario, il Concilio di Chalons [*La citazione è tratta dai Capitulari (Cap. 39) di Teodulo, vescovo di Orléans (760-821), e si ritiene che sia presente nel Corpus Juris, Cap. Solent, dist. 1, De Consecratione*] afferma: “Durante la Quaresima, coloro che mangiano prima della celebrazione dell’ufficio vespertino non devono assolutamente essere considerati in stato di digiuno”, poiché l’ufficio vespertino durante la Quaresima si tiene dopo la nona ora. Pertanto, dovremmo digiunare fino alla nona ora.
+
+Rispondo che, come già detto in precedenza (AA[1],3,5), il digiuno ha lo scopo di eliminare e prevenire i peccati. Pertanto dovrebbe aggiungere qualcosa alle abitudini comuni degli esseri umani, ma senza rappresentare un onere eccessivo per la natura stessa. L’abitudine consolidata vuole che le persone mangino intorno all’ora sesta: sia perché il processo digestivo sembra essere completato (il calore naturale del corpo si ritira verso l’interno durante la notte a causa del freddo circostante), sia perché i liquidi corporei vengono distribuiti equamente nei vari organi (un effetto che avviene quando il sole raggiunge lo zenit). Inoltre, in quell’ora il corpo umano ha particolarmente bisogno di protezione contro il calore esterno presente nell’aria, altrimenti i liquidi interni potrebbero essiccarsi. Pertanto, affinché coloro che digiunano possano sentire un certo dolore come punizione dei loro peccati, l’ora nona è ritenuta appropriata per il pasto. Inoltre, questa ora coincide con il mistero della Passione di Cristo, che ebbe luogo proprio all’ora nona, quando “si inchinò e spirò” (Giovanni 19:30): poiché coloro che digiunano, punendo il proprio corpo, imitano in qualche modo la Passione di Cristo, secondo quanto detto in Galati 5:24: “Coloro che appartengono a Cristo hanno crocifisso il loro corpo con i vizi e le concupiscenze”.
+
+Risposta all’Obiezione 1: Lo stato dell’Antico Testamento viene paragonato alla notte, mentre lo stato del Nuovo Testamento viene paragonato al giorno, secondo Romani 13:12: “La notte è trascorsa e il giorno è vicino”. Pertanto, nell’Antico Testamento si digiunava fino a notte fonda, ma non nel Nuovo Testamento.
+
+Risposta all’Obiezione 2: Il digiuno richiede un orario fisso, determinato non attraverso calcoli rigorosi, ma tramite una stima approssimativa; basta che sia intorno all’ora nona del giorno, e chiunque può facilmente verificarlo.
+
+Risposta all’Obiezione 3: Un po’ di più o un po’ di meno non può causare grandi danni. Dopo tutto, il lasso di tempo che intercorre tra la sesta ora, in cui la maggior parte delle persone ha l’abitudine di mangiare, e la nona ora, fissata per coloro che digiunano, non è molto lungo. Pertanto, stabilire un orario del genere non può arrecare alcun danno a nessuno, indipendentemente dalle sue condizioni personali. Tuttavia, se questa regola dovesse rappresentare un onere eccessivo per qualcuno a causa di malattia, età o altri motivi simili, tale persona dovrebbe essere esentata dal digiuno o le dovrebbe essere permesso anticipare leggermente l’orario stabilito.
 
 <span class="atom-split" data-atom="118" data-title="Whether it is fitting that those who fast should be bidden to abstain from flesh meat, eggs, and milk foods?" data-chapter="Whether it is fitting that those who fast should be bidden to abstain from flesh meat, eggs, and milk foods?" data-kind="atom" data-srclang="en"></span>
 
@@ -5586,6 +7411,16 @@ We must now consider gluttony. Under this head there are six points of inquiry:
 (5) Whether it is a capital sin?
 (6) Its daughters.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la gola. In questo ambito vi sono sei punti da esaminare:  
+(1) Se la gola sia un peccato;  
+(2) Se sia un peccato mortale;  
+(3) Se sia il più grave dei peccati;  
+(4) Le sue forme specifiche;  
+(5) Se sia considerato un peccato capitale;  
+(6) I suoi “figli”, ovvero i peccati che ne derivano.
+
 <span class="atom-split" data-atom="120" data-title="Whether gluttony is a sin?" data-chapter="Whether gluttony is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that gluttony is not a sin. For our Lord said (Mat. 15:11): "Not that
@@ -5629,6 +7464,24 @@ digestion, and excretion, and to it hunger and thirst are to be referred. Beside
 the sensitive appetite, and it is in the concupiscence of this appetite that the vice of gluttony consists.
 Hence the first movement of gluttony denotes inordinateness in the sensitive appetite, and this is
 not without sin.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la gola non sia un peccato. Infatti il nostro Signore disse (Matteo 15:11): “Non è ciò che entra nella bocca a contaminare l’uomo”. Ora, la gola riguarda proprio il cibo che entra nell’uomo. Pertanto, poiché ogni peccato contamina l’uomo, sembrerebbe che la gola non sia un peccato.
+
+Obiezione 2: Inoltre, “Nessuno pecca in ciò che non può evitare” (*Epistola lxxi, ad Lucinio*). Ora, la gola è un eccesso nel consumo di cibo; e l’uomo non può evitarlo, poiché Gregorio afferma (Moralia, xxx, 18): “Poiché nel mangiare convivono piacere e necessità, non riusciamo a distinguere tra il richiamo della necessità e la seduzione del piacere”, e Agostino dice (Confessioni, x, 31): “Chi, Signore, non mangia un po’ più di quanto sia necessario?” Pertanto, la gola non è un peccato.
+
+Obiezione 3: Inoltre, in ogni tipo di peccato, il primo atto che viene compiuto è già considerato un peccato. Ma il primo atto legato al consumo di cibo non è considerato un peccato; altrimenti fame e sete sarebbero considerate azioni peccaminose. Pertanto, la gola non è un peccato.
+
+Al contrario, Gregorio afferma (Moralia, xxx, 18) che “se prima non domiamo il nemico che vive dentro di noi, cioè il nostro appetito goloso, non abbiamo nemmeno iniziato a combattere la battaglia spirituale”. Ma il nemico interno dell’uomo è il peccato; pertanto, l’ingordigia è un peccato.
+
+Rispondo che la gola non indica alcun desiderio di mangiare e bere, ma un desiderio eccessivo. Si dice infatti che un desiderio sia eccessivo quando si discosta dall’ordine della ragione, nel quale risiede il bene delle virtù morali; inoltre, una cosa è considerata un peccato quando è contraria alla virtù. Pertanto, è evidente che la gola sia un peccato.
+
+Risposta all’Obiezione 1: Ciò che entra nell’uomo attraverso il cibo, per via della sua sostanza e natura, non lo contamina spiritualmente. Tuttavia i Giudei, di cui parla il nostro Signore, e i Manichei ritenevano che certi alimenti rendessero l’uomo impuro, non a causa del loro significato, ma per via della loro natura [*Cfr. FS, Q[102], A[6], ad 1]. È il desiderio eccessivo di cibo ciò che contamina spiritualmente l’uomo.
+
+Risposta all’Obiezione 2: Come già detto, il vizio della gola non riguarda la sostanza del cibo, ma il fatto che il desiderio di esso non sia regolato dalla ragione. Pertanto, se un uomo consuma una quantità eccessiva di cibo non per desiderio effettivo, ma perché lo ritiene necessario, ciò non costituisce gola, bensì una forma di inesperienza. La vera gola si manifesta soltanto quando un uomo, consapevolmente, supera i limiti nella consumazione di cibo per il piacere che esso procura al palato.
+
+Risposta all’Obiezione 3: L’appetito è di due tipi. C’è l’appetito naturale, che appartiene alle facoltà dell’anima vegetativa. In queste facoltà virtù e vizio sono impossibili, poiché non possono essere soggette alla ragione; perciò la facoltà appetitiva si distingue dalle facoltà di secrezione, digestione ed eliminazione, e ad essa vanno ricondotti la fame e la sete. Inoltre esiste un altro tipo di appetito, l’appetito sensibile; è nella concupiscenza di questo appetito che consiste il vizio della gola. Pertanto, il primo atto di gola indica un’eccessiva intensità dell’appetito sensibile, e ciò non è privo di peccato.
 
 <span class="atom-split" data-atom="121" data-title="Whether gluttony is a mortal sin?" data-chapter="Whether gluttony is a mortal sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -5681,6 +7534,28 @@ Reply to Objection 4: Gluttony is said to bring virtue to naught, not so much on
 as on account of the vices which arise from it. For Gregory says (Pastor. iii, 19): "When the belly
 is distended by gluttony, the virtues of the soul are destroyed by lust."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la gola non sia un peccato mortale. Infatti, ogni peccato mortale è contrario a qualche precetto del Decalogo; ma questo, apparentemente, non vale per la gola. Pertanto, la gola non è un peccato mortale.
+
+Obiezione 2: Inoltre, ogni peccato mortale è contrario alla carità, come detto sopra (Q[132], A[3]). Ma la gola non è contraria alla carità, né per quanto riguarda l’amore di Dio, né per quanto riguarda l’amore del prossimo. Pertanto, la gola non è mai un peccato mortale.
+
+Obiezione 3: Inoltre, [Agostino](/figures/augustine) afferma in un sermone sul Purgatorio [*Cfr. Appendice alle opere di Sant’Agostino: Serm. civ (xli, de sanctis)]: “Ogni volta che una persona consuma più cibo e bevande del necessario, deve sapere che questo rientra tra i peccati minori”. Ma ciò riguarda la gola; pertanto, la gola è considerata tra i peccati minori, ovvero veniali.
+
+Obiezione 4:
+
+Al contrario, Gregorio afferma (Moralia, xxx, 18): “Finché il vizio della gola ha presa su un uomo, tutto ciò che egli ha compiuto con coraggio viene vanificato; e finché lo stomaco non è controllato, ogni virtù diventa inutile.” Ma la virtù può essere distrutta soltanto dal peccato mortale. Pertanto, la gola è un peccato mortale.
+
+Rispondo che, come già detto sopra (A[1]), il vizio della gola consiste propriamente in una concupiscenza eccessiva. Ora, l’ordine della ragione nel regolare questa concupiscenza può essere considerato da due punti di vista: innanzitutto, riguardo alle cose dirette verso lo scopo finale, nella misura in cui queste possano risultare sproporzionate rispetto a tale scopo; in secondo luogo, riguardo allo stesso scopo finale, poiché la concupiscenza può allontanare l’uomo dal suo vero fine. Pertanto, se si dimostri che una concupiscenza eccessiva nella gola allontana effettivamente l’uomo dal suo scopo ultimo, allora la gola è un peccato mortale. Ciò avviene quando una persona considera il piacere derivante dalla gola come lo scopo principale della propria vita, al punto di disprezzare Dio e essere pronta a disobbedire ai suoi comandamenti pur di ottenere tali piaceri. D’altra parte, se la concupiscenza eccessiva nella gola riguarda soltanto cose dirette verso lo scopo finale, ad esempio quando una persona desidera ardentemente i piaceri del gusto senza però essere disposta a compiere atti contrari alla legge di Dio, allora si tratta di un peccato veniale.
+
+Risposta all’Obiezione 1: Il vizio della gola diventa un peccato mortale perché allontana l’uomo dal suo fine ultimo; pertanto, in un certo senso, è contrario al precetto che comanda di santificare il sabato, il quale ci ordina di riposare nel nostro fine ultimo. Infatti, non tutti i peccati mortali sono direttamente contrari ai precetti del Decalogo, ma soltanto quelli che contengono ingiustizia; poiché i precetti del Decalogo riguardano specificamente la giustizia e le sue manifestazioni, come già detto in precedenza (Q[122], A[1]).
+
+Risposta all’Obiezione 2: In quanto allontana l’uomo dal suo fine ultimo, la gola è contraria all’amore di Dio, che deve essere amato come nostro fine supremo e più importante di ogni altra cosa; ed è solo in questo senso che la gola rappresenta un peccato mortale.
+
+Risposta all’Obiezione 3: Questa affermazione di Agostino si riferisce alla gola come espressione di una concupiscenza eccessiva, ma soltanto in relazione a cose destinate a un determinato fine.
+
+Risposta all’Obiezione 4: Si dice che la gola distrugga tutte le virtù, non tanto in sé stessa, quanto a causa dei vizi che ne derivano. Infatti Gregorio afferma (Pastorale iii, 19): “Quando lo stomaco viene riempito dalla gola, le virtù dell’anima vengono distrutte dal desiderio.”
+
 <span class="atom-split" data-atom="122" data-title="Whether gluttony is the greatest of sins?" data-chapter="Whether gluttony is the greatest of sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that gluttony is the greatest of sins. For the grievousness of a sin
@@ -5725,6 +7600,24 @@ Reply to Objection 3: The glutton intends, not the harm to his body, but the ple
 and if injury results to his body, this is accidental. Hence this does not directly affect the gravity
 of gluttony, the guilt of which is nevertheless aggravated, if a man incur some bodily injury through
 taking too much food.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la gola sia il più grave dei peccati. Infatti, la gravità di un peccato si misura dalla severità della punizione che ne consegue. Ora, il peccato della gola è punito con la massima severità, poiché Crisostomo afferma nell’[*Homilia xiii in Matthaeum*]: “La gola fece uscire Adamo dal Paradiso; fu la gola ad causare il diluvio ai tempi di Noè”. Secondo Ezechiele 16:49, “Questa era l’iniquità di Sodoma, tua sorella, abbondanza di cibo”, ecc. Pertanto, il peccato della gola è davvero il più grave di tutti.
+
+Obiezione 2: Inoltre, in ogni genere la causa è quella più potente. Ora, l’ingordigia appare chiaramente essere la causa di altri peccati; infatti, un commento al Salmo 135:10 (“Chi colpì l’Egitto con i suoi primogeniti”) afferma: “Lussuria, [concupiscenza](/concepts/concupiscence), orgoglio sono i ‘primogeniti’ dell’ingordigia”. Pertanto, l’ingordigia è il più grave dei peccati.
+
+Obiezione 3: Inoltre, l’uomo dovrebbe amare se stesso prima di ogni altra cosa, dopo Dio, come già affermato sopra (Q[25], A[4]). Ora, però, con il vizio della gola, l’uomo si infligge del danno: infatti è scritto (Ecclesiaste 37:34): “Molti sono periti a causa dell’eccesso nel mangiare”. Pertanto la gola è il più grave dei peccati, almeno ad eccezione di quelli che sono contro Dio.
+
+Al contrario, i peccati della carne, tra cui rientra l’ingordigia, sono meno colpevoli, secondo Gregorio (Morale, xxxiii).
+
+Rispondo che la gravità di un peccato può essere misurata in tre modi. Prima di tutto, dipende dall’oggetto con cui il peccato viene commesso: in questo senso, i peccati compiuti in relazione a cose divine sono i più gravi. Da questo punto di vista, la gola non è considerata il peccato più grave, poiché riguarda questioni legate al nutrimento del corpo. In secondo luogo, la gravità di un peccato dipende dalla persona che lo commette; in questo caso, il peccato della gola appare meno grave piuttosto che più grave, sia a causa della necessità di mangiare, sia per le difficoltà legate all’esercitare una giusta discrezione e moderazione in tali questioni. Terzo, dal punto di vista dei risultati che ne derivano, anche la gola ha una certa gravità, poiché può provocare altri peccati.
+
+Risposta all’Obiezione 1: Queste punizioni riguardano i vizi derivanti dalla gola, o la radice da cui tale vizio ha origine, e non la gola stessa. Il primo uomo fu infatti espulso dal Paradiso a causa dell’orgoglio, il quale lo portò ad compiere un atto di gola; inoltre, il diluvio e la punizione del popolo di Sodoma furono inflitte per peccati causati dalla gola.
+
+Risposta all’Obiezione 2: Questa obiezione si basa sul punto di vista dei peccati che derivano dalla gola. Inoltre, una causa non è necessariamente più potente solo perché è diretta; la gola, infatti, non è una causa diretta, ma piuttosto un fattore occasionale, se così si può dire, e una motivazione per altri vizi.
+
+Risposta all’Obiezione 3: Il goloso mira non al danno per il proprio corpo, ma al piacere di mangiare; e se ne deriva un danno fisico, ciò avviene in modo accidentale. Pertanto, questo aspetto non influisce direttamente sulla gravità del vizio della gola, la cui colpevolezza, tuttavia, aumenta se una persona subisce danni fisici a causa di un consumo eccessivo di cibo.
 
 <span class="atom-split" data-atom="123" data-title="Whether the species of gluttony are fittingly distinguished?" data-chapter="Whether the species of gluttony are fittingly distinguished?" data-kind="atom" data-srclang="en"></span>
 
@@ -5774,6 +7667,24 @@ Reply to Objection 3: In all other vices, whenever different circumstances corre
 different motives, the difference of circumstances argues a specific difference of vice: but this does
 not apply to all circumstances, as stated above (FS, Q[72], A[9]).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le varietà di gola siano distinte in modo improprio da Gregorio, il quale afferma (Moralia, xxx, 18): “Il vizio della gola ci tenta in cinque modi: a volte anticipa l’ora del bisogno; a volte cerca cibi costosi; a volte richiede che il cibo sia preparato con cura; a volte supera i limiti del necessario ingerendo troppo; a volte pecciamo proprio a causa dell’intensità di un appetito smisurato”. Queste distinzioni si basano su diverse circostanze, ma poiché le circostanze sono soltanto elementi accidentali di un atto, esse non possono distinguere le sue varietà essenziali. Pertanto, le specie di gola non dovrebbero essere distinte in base a tali fattori.
+
+Obiezione 2: Inoltre, così come il tempo è una circostanza, lo stesso vale per il luogo. Se quindi la gola si manifesta in una determinata forma riguardo al tempo, sembra che dovrebbero esistere anche altre forme relative al luogo e ad altre circostanze.
+
+Obiezione 3: Inoltre, proprio come la temperanza tiene conto di diverse circostanze, lo fanno anche le altre virtù morali. Ora, i tipi di vizi contrapposti alle altre virtù morali non vengono distinti in base a varie circostanze; pertanto, nemmeno i tipi di gola vengono distinti in questo modo.
+
+Al contrario, c’è l’autorità di Gregorio citata sopra.
+
+Rispondo che, come già detto sopra (A[1]), la gola indica una concupiscenza eccessiva nel mangiare. Ora, riguardo al consumo di cibo, bisogna considerare due aspetti: il cibo stesso e il modo in cui viene consumato. La concupiscenza eccessiva può quindi essere analizzata sotto due prospettive. Prima di tutto, in relazione al tipo di cibo ingerito: si può parlare di un desiderio di cibi “lussuosi” (costosi) o di una qualità eccessivamente raffinata; inoltre, il consumo può essere eccessivo per quantità. In secondo luogo, l’eccessiva concupiscenza riguarda anche il modo in cui si mangia: si può mangiare “frettolosamente”, anticipando i tempi appropriati, oppure “avidamente”, senza rispettare le regole corrette di consumo. Isidoro nel [*De Summo Bon. ii, 42] raggruppa questi due aspetti sotto un’unica categoria, affermando che il goloso eccede sia nel “cosa” che mangia, sia nella quantità, sia nel modo e nel momento in cui lo fa.
+
+Risposta all’Obiezione 1: La corruzione delle varie circostanze determina le diverse forme di gola, a causa dei diversi motivi per cui si distinguono i vari tipi di comportamenti morali. Infatti, in colui che cerca cibi lussuosi, la concupiscenza viene stimolata dal tipo stesso di quel cibo; in colui che rinuncia ad attendere il momento opportuno, la concupiscenza viene disturbata dall’impazienza, e così via.
+
+Risposta all’Obiezione 2: Il luogo e altre circostanze non includono motivi particolari legati al consumo di cibo che possano generare un tipo diverso di gola.
+
+Risposta all’Obiezione 3: In tutti gli altri vizi, ogni volta che circostanze diverse corrispondono a motivi diversi, la differenza nelle circostanze dimostra una differenza specifica nel vizio stesso; tuttavia ciò non vale per tutte le circostanze, come già detto sopra (FS, Q[72], A[9]).
+
 <span class="atom-split" data-atom="124" data-title="Whether gluttony is a capital vice?" data-chapter="Whether gluttony is a capital vice?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that gluttony is not a capital vice. For capital vices denote those
@@ -5820,6 +7731,25 @@ corresponding to its diversity there are two capital vices, namely gluttony and 
 hand, that which is useful is desirable, not in itself, but as directed to something else: wherefore
 seemingly in all useful things there is one aspect of desirability. Hence there is but one capital vice,
 in respect of such things.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la gola non sia un vizio capitale. Infatti, i vizi capitali sono quelli da cui, dal punto di vista della [causa finale](/concepts/four_causes), derivano altri vizi. Ora, il cibo, che è l’oggetto della gola, non ha il carattere di fine ultimo; esso viene cercato non per se stesso, ma per nutrire il corpo. Pertanto, la gola non è un vizio capitale.
+
+Obiezione 2: Inoltre, sembrerebbe che un vizio capitale possieda una certa preminenza nel grado di malvagità.  
+Ma ciò non vale per la gola, che, considerata nel suo genere, appare chiaramente il minore dei peccati, poiché è quella che più si avvicina a ciò che rappresenta il concetto stesso di gola. Pertanto, la gola non è un vizio capitale.
+
+Obiezione 3: Inoltre, il peccato deriva dal fatto che un uomo abbandoni il “cibo della virtù” per qualcosa di utile nella vita presente o di piacevole ai sensi. Ora, riguardo ai beni che presentano un aspetto di [utilità](/positions/utility_pleasure), esiste soltanto un vizio capitale: l’avidità. Pertanto, sembrerebbe che esistesse anche un solo vizio capitale in relazione ai piaceri: e questo è la lussuria, che è un vizio più grave della gola e riguarda piaceri di maggior rilievo. Di conseguenza, la gola non è considerata un vizio capitale.
+
+Al contrario, Gregorio (Morali, xxxi, 45) considera la gola tra i vizi capitali.
+
+Rispondo che, come già detto sopra (FS, Q[84], A[3]), un vizio capitale è quello da cui, considerato come causa finale, cioè come qualcosa che ha uno scopo particolarmente desiderabile, derivano altri vizi; perciò, nel desiderare tale scopo, gli uomini sono spinti a peccare in molti modi. Ora, uno scopo diventa particolarmente desiderabile quando possiede una delle condizioni necessarie alla felicità, che è essa stessa desiderabile per sua natura; e il piacere è essenziale per la felicità, secondo l’Etica, i, 8; x, 3,7,8. Pertanto, il vizio della gola, essendo legato ai piaceri tattili che occupano un posto di primo piano tra tutti gli altri piaceri, è giustamente considerato tra i vizi capitali.
+
+Risposta all’Obiezione 1: È vero che il cibo stesso è destinato a qualcosa come suo fine; ma poiché tale fine, ovvero il sostentamento della vita, è di estrema importanza e poiché la vita non può essere mantenuta senza cibo, ne consegue che anche il cibo sia di grande valore. Infatti, quasi tutto lo sforzo umano nella vita è diretto verso questo scopo, come afferma l’Ecclesiaste 6:7: “Tutto il lavoro dell’uomo serve alla sua bocca”. Tuttavia, la gola sembra essere motivata piuttosto dai piaceri legati al cibo che dal cibo stesso; per questo, come dice sant’Agostino nel De vera religione, “con un cibo che è utile per il corpo inutile, gli uomini desiderano essere nutriti”, ovvero cercano il piacere derivante dal mangiare, e non semplicemente saziarsi; poiché lo scopo finale di tale desiderio è proprio quello di non soffrire la sete o la fame.
+
+Risposta all’Obiezione 2: Nel peccato, l’effetto finale è determinato in relazione alla conversione del peccatore, mentre la gravità del peccato viene valutata in base all’orrore che esso provoca. Pertanto, non si può concludere che il peccato più grave, quello che comporta l’effetto finale più desiderabile, sia anche il più grave in termini di gravità intrinseca.
+
+Risposta all’Obiezione 3: Ciò che procura piacere è desiderabile di per sé; pertanto, in relazione alla sua natura, esistono due vizi principali, ovvero la gola e la lussuria. D’altra parte, ciò che è utile è desiderabile non in sé stesso, ma in quanto mira a qualcos’altro; per questo motivo, apparentemente in tutte le cose utili esiste un aspetto di desiderabilità. Di conseguenza, riguardo a tali cose, esiste soltanto un vizio principale.
 
 <span class="atom-split" data-atom="125" data-title="Whether six daughters are fittingly assigned to gluttony?" data-chapter="Whether six daughters are fittingly assigned to gluttony?" data-kind="atom" data-srclang="en"></span>
 
@@ -5881,6 +7811,29 @@ vomiting as a remedy for sickness if the physician prescribes it.
 Reply to Objection 3: Scurrility proceeds from the act of gluttony, and not from the lustful
 act, but from the lustful will: wherefore it may be referred to either vice.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che sei figlie siano inappropriatamente associate alla gola, cioè all’“allegria indecente”, alla “volgarità”, all“impurità”, alla “chiacchericcia” e alla “stupidità mentale”. Infatti, un’allegria indecente deriva da ogni peccato, come affermato in Proverbi 2:14: “Coloro che si rallegrano quando compiono il male e gioiscono delle cose più malvagie, ”. Allo stesso modo, la stupidità mentale è legata a ogni peccato, secondo Proverbi 14:22: “Essi errano perché compiono il male”. Pertanto, queste sei figlie vengono inappropriatamente considerate figlie della gola.
+
+Obiezione 2: Inoltre, l’impurità che deriva particolarmente dalla gola sembrerebbe essere collegata al vomito, secondo Isaia 28:8: “Tutti i tavoli erano pieni di vomito e sporcizia”. Ma ciò sembra non essere un peccato, bensì una punizione; o addirittura qualcosa di utile, su cui vale la pena riflettere, secondo l’Ecclesiaste 31:25: “Se sei stato costretto a mangiare troppo, alzati, vai fuori e vomita; ti sentirai così rinfrescato”. Pertanto, non dovrebbe essere considerato tra i “figli” della gola.
+
+Obiezione 3: Inoltre, Isidoro (QQ., in Deut. xvi) considera la volgarità una “figlia della lussuria”; pertanto non dovrebbe essere annoverata tra le “figlie dell’ingordigia”.
+
+Al contrario, Gregorio (Morali, xxxi, 45) attribuisce queste figlie alla gola.
+
+Rispondo che, come già detto (AA[1],2,3), la gola consiste propriamente in un piacere eccessivo nel mangiare e nel bere. Pertanto, quei vizi sono considerati figli della gola, poiché derivano da un consumo smodato di cibo e bevande. Tali vizi possono essere spiegati sia dal punto di vista dell’anima che da quello del corpo. Dal punto di vista dell’anima, questi effetti negativi si manifestano in quattro modi:  
+In primo luogo, riguardo alla ragione, la cui acutezza viene offuscata dal consumo eccessivo di cibo e bevande; in questo senso, si considera figlio della gola “la torpidezza dell’intelletto”, causata dai vapori prodotti dagli alimenti che disturbano il cervello. D’altra parte, l’astinenza contribuisce a sviluppare una mente più perspicace, come si legge in Ecclesiaste 2:3: “Ho deciso nel mio cuore di astenermi dal vino, affinché la mia mente possa dedicarsi alla saggezza”.  
+In secondo luogo, riguardo all’appetito, che viene disordinato da un consumo eccessivo di cibo e bevande; in questo caso si considera figlio della gola “una gioia indecente”, poiché tutte le altre passioni eccessive tendono a portare alla gioia o al dolore. A questo proposito, si può fare riferimento all’affermazione di 3 Esdra 3:20, secondo cui “il vino dona a tutti un animo fiducioso e gioioso”.  
+In terzo luogo, riguardo alle parole eccessive; in questo senso si considera figlio della gola la “loquacità”, poiché, come afferma Gregorio (Pastore III, 19), “se i golosi non fossero spinti da un linguaggio smodato, quel ricco che si diceva mangiasse sontuosamente ogni giorno non soffrirebbe tanto per via della sua lingua”.  
+In quarto luogo, riguardo ai comportamenti eccessivi; in questo senso si considera figlio della gola la “volgarità”, ovvero una sorta di leggerezza derivante dalla mancanza di ragione, che non è in grado né di controllare il linguaggio né di moderare il comportamento esteriore.  
+Dal punto di vista del corpo, si menziona l“impurità”, che può riferirsi sia all’emissione eccessiva di qualsiasi tipo di sostanza superflua sia, in particolare, all’emissione di sperma. A questo proposito, una spiegazione di Efesini 5:3 (“Ma fornicazione e ogni sorta di impurità, ”) afferma che si tratta di “ogni forma di incontinenza legata alla lussuria”.
+
+Risposta all’Obiezione 1: La gioia derivante dall’atto o dal risultato di un peccato è presente in ogni tipo di peccato, soprattutto in quello che scaturisce da una [abitudine](/concepts/custom) consolidata; tuttavia, quella gioia eccessiva e sfrenata, descritta come “inappropriata”, deriva principalmente dal consumo smodato di cibo o bevande. Allo stesso modo, si può affermare che la torpidezza dei sensi riguardo alle questioni legate ai piaceri materiali è comune a tutti i peccati, mentre la torpidezza nei confronti delle questioni speculative deriva principalmente dalla gola, per le ragioni già espresse.
+
+Risposta all’Obiezione 2: Sebbene vomitare dopo aver mangiato troppo possa essere utile in alcuni casi, è peccaminoso esporre se stessi alla necessità di farlo a causa di un consumo eccessivo di cibo o bevande. Tuttavia, non è peccato provocare il vomito come rimedio per una malattia, se questo viene prescritto dal medico.
+
+Risposta all’Obiezione 3: La volgarità deriva dall’atto di gola, e non dall’atto lussurioso in sé, ma dalla volontà lussuriosa; pertanto può essere riferita a entrambi i vizi.
+
 <span class="atom-split" data-atom="126" data-title="OF SOBRIETY (FOUR ARTICLES)" data-chapter="OF SOBRIETY (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider sobriety and the contrary vice, namely drunkenness. As regards sobriety
@@ -5889,6 +7842,14 @@ there are four points of inquiry:
 (2) Whether it is a special virtue?
 (3) Whether the use of wine is lawful?
 (4) To whom especially is sobriety becoming?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la sobrietà e il vizio opposto, ovvero l’ubriachezza. Per quanto riguarda la sobrietà, ci sono quattro punti da esaminare:  
+(1) Qual è la natura della sobrietà?  
+(2) È una virtù particolare?  
+(3) È lecito consumare vino?  
+(4) A chi, in particolare, conviene essere sobri?
 
 <span class="atom-split" data-atom="127" data-title="Whether drink is the matter of sobriety?" data-chapter="Whether drink is the matter of sobriety?" data-kind="atom" data-srclang="en"></span>
 
@@ -5941,6 +7902,24 @@ concerned with drink.
 Reply to Objection 3: Although a measure is needful in all things, sobriety is not properly
 employed in connection with all things, but only in those wherein there is most need for a measure.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il bere non sia l’elemento fondamentale legato alla sobrietà. Infatti è scritto in (Romani 12:3): “Non essere più saggi di quanto sia necessario per la saggezza, ma essere saggi nella misura che basta per vivere con sobrietà”. Pertanto, la sobrietà riguarda anche la saggezza, e non soltanto il bere.
+
+Obiezione 2: Inoltre, riguardo alla saggezza di Dio, è scritto (Sapienza 8:7) che “essa insegna sobrietà [Douay: ‘temperanza’], prudenza, giustizia e forza d’animo”; dove la sobrietà indica appunto la temperanza. Ora, la temperanza riguarda non solo il consumo di alcol, ma anche il cibo e le questioni sessuali. Pertanto, la sobrietà non si limita affatto al consumo di alcol.
+
+Obiezione 3: Inoltre, sembrerebbe che la sobrietà derivi il proprio nome da “misura” [*‘Bria’, una misura, una coppa; cfr. il lessico di Facciolati e Forcellini*]. Ora dovremmo essere guidati dalla misura in tutte le cose che ci riguardano: infatti è scritto (Tito 2:12): “Dobbiamo vivere sobriamente, giustamente e pietosamente”, dove un commento afferma: “Sobriamente, nei nostri comportamenti personali”; e (1 Timoteo 2:9): “Le donne, debbano vestirsi in modo decoroso, adornandosi di modestia e sobrietà”. Pertanto, sembrerebbe che la sobrietà riguardi non solo l’uomo interiore, ma anche gli aspetti legati all’abbigliamento esteriore. Di conseguenza, il bere non rientra propriamente nell’ambito della sobrietà.
+
+Al contrario, è scritto nell’Ecclesiaste (31:32): “Il vino, bevuto con moderazione, dona la vita agli uomini; se lo si beve con misura, si rimane sobri.”
+
+Rispondo che, quando una virtù prende il nome da una condizione comune a tutte le virtù, l’aspetto specifico che le appartiene è proprio quello in cui risulta più difficile e al contempo più meritevole soddisfare tale condizione: ad esempio, la forza d’animo riguarda i pericoli della morte, mentre la temperanza riguarda i piaceri sensuali. La sobrietà, invece, prende il nome da “misura”, poiché si dice che un uomo sia sobrio quando osserva tale misura. Pertanto, la sobrietà riveste particolare importanza in quegli ambiti in cui il rispetto di questa misura merita maggiormente lode; tale ambito è rappresentato dall’uso dei bevani alcolici, poiché un loro consumo moderato è estremamente benefico, mentre un eccesso immoderato ne rende gli effetti dannosi, ostacolando ancora di più l’uso della ragione rispetto a un’eccessiva alimentazione. Per questo motivo si legge nell’Ecclesiaste (31:37-38): “Il bere con moderazione è salutare per l’anima e il corpo; invece, il vino bevuto in eccesso provoca litigi, ira e molti mali”. Per questa ragione, la sobrietà riguarda specificamente i bevani alcolici, non qualsiasi tipo di bevanda, ma quelle che, a causa della loro natura volatile, possono disturbare il cervello, come il vino e tutti gli altri alcolici. Tuttavia, il concetto di sobrietà può essere applicato in senso generale, riguardando qualsiasi ambito, come già accennato in precedenza (Q[123], A[2]; Q[141], A[2]) per quanto riguarda la forza d’animo e la temperanza.
+
+Risposta all’Obiezione 1: Proprio come il vino materiale inebria l’uomo nel suo corpo, allo stesso modo, in senso figurato, si dice che la riflessione sulla saggezza sia un “bevanda inebriante”, poiché attira l’intelletto con la sua dolcezza, come recita il Salmo 22:5: “Il mio calice che mi inebria, quanto è bello!” Per questo motivo, si parla di “sobrietà” quando si allude alla contemplazione della saggezza, utilizzando una sorta di metafora.
+
+Risposta all’Obiezione 2: Tutte le cose che appartengono propriamente alla moderazione sono necessarie per la vita presente, e il loro eccesso è dannoso. Pertanto, è dovere di ognuno applicare misura in tutte queste cose. Questa è appunto la funzione della sobrietà; ed è per questo motivo che la sobrietà viene utilizzata per indicare la moderazione. Tuttavia, un lieve eccesso nell’assunzione di alcol è più dannoso che in altre situazioni, e per questa ragione la sobrietà riguarda particolarmente l’uso dell’alcol.
+
+Risposta all’Obiezione 3: Sebbene la misura sia necessaria in tutte le cose, la sobrietà non viene applicata correttamente in relazione a tutte le situazioni, ma soltanto in quelle in cui è maggiormente necessaria.
+
 <span class="atom-split" data-atom="128" data-title="Whether sobriety is by itself a special virtue?" data-chapter="Whether sobriety is by itself a special virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sobriety is not by itself a special virtue. For abstinence is
@@ -5977,6 +7956,24 @@ to different kinds of food.
 Reply to Objection 3: In all intoxicating drinks there is one kind of hindrance to the use of
 reason: so that the difference of drinks bears an accidental relation to virtue. Hence this difference
 does not call for a difference of virtue. The same applies to the difference of meats.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la sobrietà, di per sé, non sia una virtù particolare. Infatti, l’astinenza riguarda sia il cibo che la bevanda; e poiché il cibo non è considerato una virtù particolare, ne consegue che nemmeno la sobrietà, che riguarda la bevanda, lo sia.
+
+Obiezione 2: Inoltre, l’astinenza e la gola riguardano piaceri legati al senso del tatto, in particolare quelli derivanti dal cibo. La carne e il liquido, infatti, si combinano per formare il cibo stesso, poiché un animale ha bisogno di una combinazione di sostanze umide e secche. Pertanto, la sobrietà, che riguarda il consumo di liquidi, non costituisce una virtù particolare.
+
+Obiezione 3: Inoltre, proprio come nelle cose relative al nutrimento, il bere si distingue dalla carne, così esistono anche diversi tipi di carne e di bevande. Pertanto, se la sobrietà è di per sé una virtù specifica, sembrerebbe che esistesse una virtù specifica corrispondente a ciascun tipo diverso di carne o bevanda, il che è irragionevole. Quindi, sembrerebbe che la sobrietà non sia una virtù specifica.
+
+Al contrario, Macrobio, nel *In Somno Scip. i, 8*, considera la sobrietà una componente specifica della temperanza.
+
+Rispondo che, come già detto sopra (Q[146], A[2]), appartiene alla virtù morale proteggere il bene della ragione da quelle cose che potrebbero ostacolarla. Pertanto, ovunque si riscontri un ostacolo specifico al funzionamento della ragione, deve necessariamente esistere una virtù particolare per eliminarlo. Ora, i bevani inebrianti rappresentano proprio un tipo di ostacolo alla capacità razionale, poiché alterano il funzionamento del cervello attraverso i loro effetti negativi. Pertanto, affinché tale ostacolo possa essere eliminato, è necessaria una virtù specifica: la sobrietà.
+
+Risposta all’Obiezione 1: Cibo e bevande sono entrambi in grado di ostacolare il funzionamento corretto della ragione, coinvolgendola in piaceri eccessivi; in questo senso, l’astinenza riguarda sia il cibo che le bevande. Tuttavia, le bevande alcoliche rappresentano un tipo particolare di ostacolo, come già detto, e per questo richiedono una virtù specifica.
+
+Risposta all’Obiezione 2: La virtù dell’astinenza riguarda il cibo e la bevanda, considerati non come alimenti, ma come ostacoli alla ragione. Pertanto, non segue necessariamente che tipi specifici di virtù corrispondano a diversi tipi di cibo.
+
+Risposta all’Obiezione 3: In tutti i drink inebrianti esiste un certo ostacolo all’uso della ragione; pertanto, la differenza tra questi drink ha una relazione accidentale con la virtù. Di conseguenza, tale differenza non richiede una diversa manifestazione della virtù. Lo stesso vale per le differenze tra i tipi di carne.
 
 <span class="atom-split" data-atom="129" data-title="Whether the use of wine is altogether unlawful?" data-chapter="Whether the use of wine is altogether unlawful?" data-kind="atom" data-srclang="en"></span>
 
@@ -6022,6 +8019,24 @@ Reply to Objection 3: Christ withdraws us from some things as being altogether u
 from others as being obstacles to perfection. It is in the latter way that he withdraws some from the
 use of wine, that they may aim at perfection, even as from riches and the like.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’uso del vino sia del tutto illecito. Poiché senza saggezza un uomo non può trovarsi nello [stato](/concepts/state) di salvezza; infatti è scritto (Sapienza 7:28): “Dio non ama nessuno se non colui che vive nella saggezza”, e ancora più avanti (Sapienza 9:19): “Con la saggezza furono guariti coloro che ti hanno gradito, o Signore, fin dall’inizio”. Ora, l’uso del vino rappresenta un ostacolo alla saggezza, poiché è scritto (Ecclesiaste 2:3): “Ho deciso nel mio cuore di astenermi dal vino, affinché potessi dedicarmi alla saggezza”. Pertanto, bere vino è del tutto illecito.
+
+Obiezione 2: Inoltre, l’Apostolo afferma (Romani 14:21): “È buono non mangiare carne, né bere vino, né fare nulla che possa offendere, scandalizzare o indebolire i propri fratelli”. Ora, abbandonare le virtù è peccaminoso, così come scandalizzare i propri fratelli. Pertanto, è illegale utilizzare il vino.
+
+Obiezione 3: Inoltre, Gerome afferma in [*Contra Jovin. i*] che “dopo il diluvio vino e carne furono considerati legittimi; ma Cristo venne nell’epoca finale dei tempi e riportò la fine in armonia con l’inizio”. Pertanto, sembrerebbe illegale consumare vino secondo la legge cristiana.
+
+Al contrario, l’Apostolo dice (1 Timoteo 5:23): “Non bevete più acqua, ma usate un po’ di vino per il bene del vostro stomaco e per le vostre frequenti malattie”; e si legge anche (Ecclesiaste 31:36): “Il vino bevuto con moderazione è la gioia dell’anima e del cuore”.
+
+Rispondo che, di per sé, né la carne né il vino sono considerati cose illecite, secondo quanto affermato in Matteo 15:11: “Non ciò che entra nella bocca rende l’uomo impuro”. Pertanto, bere vino in sé non è considerato un atto illegale. Tuttavia, può diventarlo accidentalmente: a volte a causa delle circostanze legate al bevitore stesso – ad esempio, perché il vino lo danneggia facilmente o perché è vincolato da un voto che gli vieta di berlo – altre volte a causa del modo in cui viene bevuto, soprattutto se si eccede nella quantità; e ancora altre volte per motivi legati ad altre persone che potrebbero essere offese da tale comportamento.
+
+Risposta all’Obiezione 1: Un uomo può possedere saggezza in due modi. In primo luogo, in modo generale, nel senso in cui essa sia sufficiente per la salvezza; in questo caso non è necessario che un uomo si astenga del tutto dal vino, ma che ne eviti l’uso eccessivo. In secondo luogo, un uomo può possedere saggezza in forma più perfetta; in questo caso, affinché possa raggiungere una saggezza completa, per alcune persone è necessario astenersi del tutto dal vino, e ciò dipende dalle circostanze specifiche di ciascuna persona e luogo.
+
+Risposta all’Obiezione 2: L’Apostolo non afferma semplicemente che sia buono astenersi dal vino, ma che tale astinenza sia opportuna nei casi in cui essa potrebbe causare scandalo ad alcune persone.
+
+Risposta all’Obiezione 3: Cristo ci allontana da alcune cose perché completamente illecite, e da altre perché ostacoli alla perfezione. È in questo secondo modo che ci distoglie dall’uso del vino, affinché possiamo tendere verso la perfezione, così come ci allontana dalle ricchezze e simili cose.
+
 <span class="atom-split" data-atom="130" data-title="Whether sobriety is more requisite in persons of greater standing?" data-chapter="Whether sobriety is more requisite in persons of greater standing?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sobriety is more requisite in persons of greater standing. For
@@ -6057,6 +8072,18 @@ vigorous in instructing others: to bishops and all ministers of the Church, who 
 spiritual duties with a devout mind; and to kings, who should rule their subjects with wisdom.
 This suffices for the Replies to the Objections.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la sobrietà sia particolarmente necessaria nelle persone di rango più elevato. Infatti, l’età avanzata conferisce a un uomo una certa posizione sociale; pertanto onore e rispetto sono dovuti agli anziani, come recita Levitico 19:32: “Alzati davanti alla testa canuta e onora l’uomo anziano”. Ora, l’Apostolo afferma che proprio gli anziani debbano essere esortati in modo particolare alla sobrietà, come si legge in Tito 2:2: “Che l’anziano sia sobrio”. Pertanto, la sobrietà è davvero indispensabile nelle persone di rango elevato.
+
+Obiezione 2: Inoltre, un vescovo occupa il grado più elevato nella Chiesa; l’Apostolo gli ordina di essere sobrio, come si legge in 1 Timoteo 3:2: “È necessario che il vescovo sia irreprensibile, marito di una sola moglie, sobrio e prudente”, ecc. Pertanto, la sobrietà è particolarmente richiesta nelle persone di alto rango nella Chiesa.
+
+Obiezione 3: Inoltre, la sobrietà indica l’astinenza dal vino. Ora il vino è proibito ai re, che occupano la posizione più elevata negli affari umani; mentre è permesso a coloro che si trovano in stato di sofferenza, secondo il Proverbo 31:4: “Non dare vino ai re”, e ancora più avanti (Proverbo 31:6): “Dà da bere forte a chi è triste, e vino a chi è angosciato”. Pertanto, la sobrietà è ancora più necessaria nelle persone di rango elevato.
+
+Al contrario, l’Apostolo afferma (1 Timoteo 3:11): “Analogamente anche le donne, che siano caste, sobrie”, ecc.; e inoltre (Tito 2:6): “Esorto anch’io i giovani ad essere sobri”.
+
+Rispondo che la Virtù include due aspetti fondamentali: da un lato, i vizi contrari che essa elimina; dall’altro, lo scopo verso cui conduce le persone. Pertanto, una determinata virtù è particolarmente necessaria in alcune categorie di individui per due motivi. Primo, perché tali persone sono più propense alle concupiscenze che la Virtù ha il compito di reprimere, nonché ai vizi che essa elimina. In questo senso, la sobrietà è particolarmente indispensabile nei giovani e nelle donne: nei primi, a causa della natura ardente della loro età; nelle seconde, poiché non dispongono di una sufficiente forza mentale per resistere alle tentazioni. Per questo motivo, secondo Valerio Massimo (*Dict. Fact. Memor. ii, 1*), gli antichi Romani vietavano alle donne di bere vino. In secondo luogo, la sobrietà è necessaria in alcune persone perché rappresenta un elemento fondamentale per svolgere correttamente le loro funzioni specifiche. L’uso eccessivo del vino, infatti, costituisce un ostacolo significativo all’esercizio della ragione; per questo motivo la sobrietà viene raccomandata in modo particolare agli anziani, i quali devono possedere una mente lucida per guidare gli altri; ai vescovi e a tutti i ministri della Chiesa, che devono svolgere i loro doveri spirituali con devozione; e ai re, i quali devono governare i loro sudditi con saggezza. Questo basta per rispondere alle obiezioni sollevate.
+
 <span class="atom-split" data-atom="131" data-title="OF DRUNKENNESS (FOUR ARTICLES)" data-chapter="OF DRUNKENNESS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider drunkenness. Under this head there are four points of inquiry:
@@ -6064,6 +8091,14 @@ We must now consider drunkenness. Under this head there are four points of inqui
 (2) Whether it is a mortal sin?
 (3) Whether it is the most grievous sin?
 (4) Whether it excuses from sin?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’ubriachezza. In questo ambito ci sono quattro punti da esaminare:  
+(1) Se l’ubriachezza sia un peccato;  
+(2) Se sia un peccato mortale;  
+(3) Se sia il peccato più grave;  
+(4) Se possa scusare la commissione di altri peccati.
 
 <span class="atom-split" data-atom="132" data-title="Whether drunkenness is a sin?" data-chapter="Whether drunkenness is a sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -6177,6 +8212,25 @@ he is not to be deemed to have taken excessive meat or drink. There is, however,
 intoxicating drink in order to procure vomiting, since this is caused by drinking lukewarm water:
 wherefore this is no sufficient cause for excusing a man from drunkenness.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’ubriachezza non sia un peccato mortale. Infatti, [Agostino](/figures/augustine) dice in un sermone sul Purgatorio (*Serm. civ. nell’Appendice alle opere di Sant’Agostino*) che “l’ubriachezza, se praticata con assiduità, è un peccato mortale”. Ora, l’assiduità indica una circostanza che non modifica la natura stessa di un peccato; pertanto non può aggravarlo in modo infinito, né trasformare un peccato veniale in uno mortale, come già dimostrato in precedenza (FS, Q[88], A[5]). Quindi, se l’ubriachezza non è considerata un peccato mortale per qualche altra ragione, allora non lo è nemmeno per questa.
+
+Obiezione 2: Inoltre, Agostino afferma nel [*Sermone civile*, nell’Appendice alle opere di Sant’Agostino]:  
+“Ogni volta che un uomo consuma più cibo e bevande del necessario, deve sapere che questo è uno dei peccati minori.” Ora i peccati minori vengono chiamati veniali. Pertanto, l’ubriachezza, causata dal consumo eccessivo di alcol, è un peccato veniale.
+
+Obiezione 3: Inoltre, nessun peccato mortale dovrebbe essere commesso in nome della medicina. Alcuni, infatti, bevono eccessivamente su consiglio del medico al fine di purgarsi attraverso il vomito; da questo consumo eccessivo deriva l’ubriachezza. Pertanto, l’ubriachezza non è considerata un peccato mortale.
+
+Al contrario, leggiamo nei Canoni degli apostoli (Can. xli, xlii): “Un vescovo, un sacerdote o un diacono che si dedica alla ubriachezza o al gioco d’azzardo, o che incoraggia gli altri a farlo, deve cessare tali comportamenti oppure essere deposto; un vicediacono, un lettore o un cantore che compie simili atti deve abbandonarli immediatamente oppure essere scomunicato; lo stesso vale per i laici.” Ora, tali punizioni vengono inflitte soltanto in caso di peccati mortali. Pertanto, l’ubriachezza è considerata un peccato mortale.
+
+Rispondo che il peccato dell’ubriachezza, come detto nell’articolo precedente, consiste nell’uso immoderato e nella concupiscenza per il vino. Ora ciò può accadere in tre modi: primo, quando una persona non è consapevole che quel liquido sia immoderato e in grado di provocare intossicazione; in questo caso l’ubriachezza può non essere un peccato, come già detto (A[1]). Secondo, quando una persona riconosce che il liquido è immoderato, ma non sa che sia in grado di causare intossicazione; in questo caso l’ubriachezza può rappresentare un peccato veniale. Terzo, quando una persona è pienamente consapevole che il liquido è immoderato e in grado di provocare intossicazione, ma preferisce ubriacarsi piuttosto che astenersi dal bere; tale persona è propriamente detta un alcolizzato, poiché i concetti morali derivano da ciò che viene intenzionalmente compiuto, e non da azioni avvenute casualmente o al di fuori della volontà. In questo caso l’ubriachezza è un peccato mortale, poiché la persona si priva volontariamente e consapevolmente dell’uso della ragione, strumento fondamentale per compiere atti virtuosi ed evitare il peccato; quindi commette un peccato mortale, correndo il rischio di cadere in errore. Come afferma Ambrogio nel “De Patriarchis” (*De Abraham i*): “Impariamo che dobbiamo evitare l’ubriachezza, poiché essa ci impedisce di sfuggire ai peccati gravi; quelle cose che evitiamo quando siamo sobri, le commettiamo involontariamente quando siamo ubriachi”. Pertanto, l’ubriachezza è propriamente detta un peccato mortale.
+
+Risposta all’Obiezione 1: L’assiduità rende l’ubriachezza un peccato mortale, non semplicemente a causa della ripetizione continua di tale atto, ma perché è impossibile per una persona ubriacarsi sistematicamente senza esporrsi volontariamente e consapevolmente all’alcol, dato che ha già sperimentato più volte l’effetto dell’alcol e la propria predisposizione all’ubriachezza.
+
+Risposta all’Obiezione 2: Consumare più carne o bevande del necessario rientra nel vizio della gola, che non è sempre un peccato mortale; tuttavia, bere consapevolmente in quantità eccessive fino a raggiungere lo stato di ubriachezza costituisce un peccato mortale. Per questo Agostino afferma (Confessioni, x, 31): “L’ubriachezza è lontana da me; Tu abbi pietà affinché non si avvicini a me. Ma talvolta il cibo in eccesso ha invaso il mio corpo.”
+
+Risposta all’Obiezione 3: Come già detto sopra (Q[141], A[6]), il cibo e la bevanda devono essere consumati in misura moderata, in base alle esigenze della salute del corpo. Pertanto, proprio come a volte ciò che è moderato per una persona sana può risultare eccessivo per una malata, allo stesso modo ciò che è eccessivo per un individuo sano può rivelarsi moderato per uno che soffre di problemi di salute. In questo senso, quando una persona mangia o beve in quantità abbondanti su consiglio del medico al fine di indurre il vomito, non si deve considerare che abbia consumato cibo o bevande in eccesso. Tuttavia, non è necessario ricorrere a bevande alcoliche per provocare il vomito, poiché ciò può essere ottenuto anche bevendo acqua tiepida; pertanto, questo non costituisce una scusa sufficiente per giustificare l’abuso di alcol.
+
 <span class="atom-split" data-atom="134" data-title="Whether drunkenness is the gravest of sins?" data-chapter="Whether drunkenness is the gravest of sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that drunkenness is the gravest of sins. For Chrysostom says (Hom.
@@ -6215,6 +8269,24 @@ good.
 Reply to Objection 3: Drunkenness was the occasional cause of slavery, in so far as Cham
 brought the curse of slavery on to his descendants, for having laughed at his father when the latter
 was made drunk. But slavery was not the direct punishment of drunkenness.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’ubriachezza sia il peccato più grave. Infatti Crisostomo afferma (Hom. lviii in Matth.) che “nulla attira maggiormente la simpatia del diavolo dell’ubriachezza e della lussuria, madre di tutti i vizi”. E nei Decretali si legge (Dist. xxxv, can. Ante omnia): “L’ubriachezza, più di qualsiasi altra cosa, deve essere evitata dal clero, poiché alimenta e promuove tutti i vizi”.
+
+Obiezione 2: Inoltre, il semplice fatto che qualcosa escluda il bene della ragione costituisce già un peccato. Questo effetto è particolarmente evidente nell’ubriachezza; pertanto l’ubriachezza rappresenta il più grave dei peccati.
+
+Obiezione 3: Inoltre, la gravità di un peccato si manifesta nella severità della sua punizione. Ora, apparentemente l’ubriachezza è punita con la massima severità; infatti Ambrogio afferma in [*De Elia et de Jejunio v*] che “non ci sarebbe schiavitù se non ci fossero ubriaconi”. Pertanto, l’ubriachezza è il più grave dei peccati.
+
+Al contrario, secondo Gregorio (Morali, xxxiii, 12), i vizi spirituali sono più gravi dei vizi carnali. Ora, l’ubriachezza è uno dei vizi carnali; pertanto non può essere considerata il peccato più grave.
+
+Rispondo che una cosa viene considerata male perché elimina un bene. Pertanto, più grande è il bene eliminato da un male, più grave è quel male stesso. Ora è evidente che un bene divino è superiore a un bene umano; quindi i peccati che sono direttamente contrari a Dio sono più gravi del peccato dell’ubriachezza, che è direttamente contrario al bene della ragione umana.
+
+Risposta all’Obiezione 1: L’uomo è particolarmente incline ai peccati di intemperanza, poiché concupiscenze e piaceri del genere sono connaturali a noi; per questo motivo si dice che tali peccati godano della massima simpatia da parte del diavolo, non perché siano più gravi degli altri, ma perché si verificano con maggiore frequenza tra gli uomini.
+
+Risposta all’Obiezione 2: Il bene della ragione viene ostacolato in due modi: da ciò che è contrario alla ragione, e da ciò che ne impedisce l’uso per un certo periodo di tempo. Ora, ciò che è contrario alla ragione ha più il carattere di un male, rispetto a ciò che ne impedisce temporaneamente l’uso; infatti, l’uso della ragione, ostacolato dall’ubriachezza, può essere sia positivo che negativo, mentre i benefici derivanti dalla virtù, quando ostacolati da cose contrarie alla ragione, sono sempre positivi.
+
+Risposta all’Obiezione 3: L’ubriachezza fu talvolta la causa della schiavitù, poiché Cam portò la maledizione della schiavitù sui suoi discendenti per aver riso di suo padre quando questi si ubriacò. Tuttavia, la schiavitù non rappresentava una punizione diretta per l’ubriachezza.
 
 <span class="atom-split" data-atom="135" data-title="Whether drunkenness excuses from sin?" data-chapter="Whether drunkenness excuses from sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -6259,6 +8331,24 @@ Reply to Objection 3: Concupiscence does not altogether fetter the reason, as dr
 does, unless perchance it be so vehement as to make a man insane. Yet the passion of concupiscence
 diminishes sin, because it is less grievous to sin through weakness than through malice.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’ubriachezza non scusi dal peccato. Infatti il Filosofo afferma (Etica, iii, 5) che “l’ubriaco meriti un doppio castigo”. Pertanto, l’ubriachezza aggrava un peccato piuttosto che scusarlo.
+
+Obiezione 2: Inoltre, un peccato non scusa un altro, ma lo aggrava. Ora, l’ubriachezza è un peccato; pertanto, non può costituire una scusa per altri peccati.
+
+Obiezione 3: Inoltre, il Filosofo afferma (Etica vii, 3) che proprio come la ragione umana viene ostacolata dall’ubriachezza, lo stesso accade per la concupiscenza. Tuttavia, la concupiscenza non costituisce una scusa per peccare; allo stesso modo, nemmeno l’ubriachezza lo è.
+
+Al contrario, secondo [Agostino](/figures/augustine) (Contra Faustus, xxii, 43), Lot doveva essere scusato per l’incesto a causa dell’ubriachezza.
+
+Rispondo che, come già detto sopra (A[1]), nella ubriachezza si devono considerare due aspetti: il difetto derivante dall’ubriachezza stessa e l’atto precedente che l’ha causata. Per quanto riguarda il difetto derivante, poiché l’uso della ragione viene ostacolato dall’ubriachezza, questa può costituire una scusa per il peccato, nella misura in cui rende l’atto successivo involontario a causa dell’ignoranza. Tuttavia, per quanto riguarda l’atto precedente, sembra necessario fare una distinzione: se l’ubriachezza che ne deriva non è peccaminosa, il peccato successivo non può essere considerato colpevole, come forse nel caso di Lot. Se invece l’atto precedente era peccaminoso, la persona non è del tutto scusata per il peccato successivo, poiché quest’ultimo diventa volontario a causa della volontarietà dell’atto precedente; in altre parole, è proprio commettendo un atto illegale che si è giunti al peccato successivo. Tuttavia, il peccato derivante dall’ubriachezza viene ridotto, così come la sua natura di atto volontario. Per questo motivo Agostino afferma (Contra Faustus, xxii, 44) che “la colpa di Lot deve essere misurata non dall’incesto, ma dalla sua ubriachezza”.
+
+Risposta all’Obiezione 1: Il filosofo non afferma che il ubriaco meriti una punizione più severa, ma che meriti una punizione doppia per il suo doppio peccato. Oppure si potrebbe rispondere che egli si riferisce alla legge di un certo Pittaco, il quale, come riportato nella Politica ii, 9, ordinava “che coloro che commettono atti violenti in stato di ebbrezza fossero puniti più severamente rispetto a quando erano sobri, poiché compiono il male in modi diversi”. Come osserva [Aristotele](/figures/aristotle) nella Politica ii, 9, “Pittaco sembra aver tenuto conto soprattutto del vantaggio derivante dalla prevenzione del male, piuttosto che della clemenza che si dovrebbe dimostrare verso gli ubriachi, considerando che essi non sono in possesso delle loro facoltà mentali”.
+
+Risposta all’Obiezione 2: L’ubriachezza può costituire una scusa per peccare, non nel senso che essa stessa sia un peccato, ma nel senso del difetto che ne deriva, come già detto in precedenza.
+
+Risposta all’Obiezione 3: La concupiscenza non incatena del tutto la ragione, come invece avviene con l’ubriachezza, a meno che non sia così intensa da rendere una persona folle. Tuttavia, la passione della concupiscenza riduce il peccato, poiché commettere un peccato per debolezza è meno grave che farlo per malizia.
+
 <span class="atom-split" data-atom="136" data-title="OF CHASTITY (FOUR ARTICLES)" data-chapter="OF CHASTITY (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider chastity: (1) The virtue itself of chastity: (2) virginity, which is a part
@@ -6267,6 +8357,10 @@ of chastity: (3) lust, which is the contrary vice. Under the first head there ar
 (2) Whether it is a general virtue?
 (3) Whether it is a virtue distinct from abstinence?
 (4) Of its relation to purity.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la castità: (1) La virtù stessa della castità; (2) La verginità, che ne è una parte; (3) Il desiderio lussurioso, che ne rappresenta il vizio opposto. Nel primo ambito di indagine vi sono quattro punti da esaminare: (1) Se la castità sia davvero una virtù; (2) Se si tratti di una virtù universale; (3) Se sia distinta dalla semplice astinenza; (4) La sua relazione con la purezza.
 
 <span class="atom-split" data-atom="137" data-title="Whether chastity is a virtue?" data-chapter="Whether chastity is a virtue?" data-kind="atom" data-srclang="en"></span>
 
@@ -6312,6 +8406,28 @@ from vices not by their functions," i.e. their acts, "but by their ends."
 
 Reply to Objection 4: Chastity is a virtue in so far as it works in accordance with reason, but
 in so far as it delights in its act, it is reckoned among the fruits.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la castità non sia una virtù. Infatti, qui stiamo parlando di virtù dell’anima; ma la castità, apparentemente, riguarda il corpo: si dice infatti che una persona sia casta quando si comporta in un certo modo riguardo all’uso di alcune parti del proprio corpo. Pertanto, la castità non è una virtù.
+
+Obiezione 2: Inoltre, la virtù è “un’abitudine volontaria”, come affermato nell’Etica ii, 6. Ma la castità, apparentemente, non è volontaria, poiché può essere imposta con la forza a una donna che subisce violenza. Pertanto, sembra che la castità non sia una virtù.
+
+Obiezione 3: Inoltre, negli increduli non esiste alcuna virtù. Eppure alcuni di loro sono casti. Pertanto, la castità non è una virtù.
+
+Obiezione 4: Inoltre, i frutti sono distinti dalle virtù. Ma la castità è considerata tra i frutti (Galati 5:23). Pertanto, la castità non è una virtù.
+
+Al contrario, [Agostino](/figures/augustine) afferma (De Decem Chord. [*Serm. ix de Tempore*]): “Sebbene tu debba eccellere tua moglie in virtù – poiché la castità è una virtù – tu cedi alla prima tentazione della lussuria, mentre desideri che tua moglie sia vittoriosa”.
+
+Rispondo che la castità prende il proprio nome dal fatto che la ragione “castiga” la concupiscenza, la quale, come un bambino, ha bisogno di essere moderata, come afferma il Filosofo (Etica, iii, 12). Ora, l’essenza della virtù umana consiste nel fatto che essa sia qualcosa che è moderato dalla ragione, come dimostrato sopra (FS, Q[64], A[1]). Pertanto, è evidente che la castità sia una virtù.
+
+Risposta all’Obiezione 1: La castità risiede effettivamente nell’anima, che ne è il soggetto, sebbene la sua materia sia nel corpo. Infatti, appartiene alla castità che un uomo utilizzi in modo moderato i propri membri corporei in conformità con il giudizio della propria ragione e la scelta della propria volontà.
+
+Risposta all’Obiezione 2: Come afferma Agostino (De Civ. Dei i, 18), “finché la sua mente mantiene lo scopo per il quale ha meritato di essere santa anche nel corpo, nemmeno la violenza della lussuria altrui può privare il suo corpo della sua santità, che è protetta dalla sua costante castità”. Agostino aggiunge inoltre (De Civ. Dei i, 18) che “nella mente esiste una virtù che accompagna la forza d’animo; essa consiste nella determinazione di sopportare qualsiasi male piuttosto che acconsentire ad esso”.
+
+Risposta all’Obiezione 3: Come afferma Agostino (Contra Iuliano, IV, 3), “è impossibile possedere alcuna vera virtù se non si è veramente giusti; né è possibile essere giusti se non si vive nella fede”. Da ciò egli conclude che negli infedeli non esistono né vera castità né altre virtù, poiché essi non sono orientati verso lo scopo finale previsto dalla natura umana. Inoltre, come aggiunge (Contra Iuliano, IV, 3), “le virtù si distinguono dai vizi non in base alle loro azioni, ma in base ai loro scopi”.
+
+Risposta all’Obiezione 4: La castità è una virtù nella misura in cui si attua in conformità con la ragione; ma nella misura in cui trova piacere nell’atto stesso che compie, viene considerata tra i frutti di tale virtù.
 
 <span class="atom-split" data-atom="138" data-title="Whether chastity is a general virtue?" data-chapter="Whether chastity is a general virtue?" data-kind="atom" data-srclang="en"></span>
 
@@ -6359,6 +8475,24 @@ of strength of mind.
 
 Reply to Objection 3: This argument considers spiritual fornication metaphorically so called,
 which is opposed to spiritual chastity, as stated.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la castità sia una virtù generale. Infatti, [Agostino](/figures/augustine) afferma (De Mendacio xx) che “la castità dell’animo è il movimento ordinato di quest’ultimo che non preferisce le cose minori a quelle maggiori”. Ma ciò appartiene a ogni virtù; pertanto la castità è una virtù generale.
+
+Obiezione 2: Inoltre, il termine “castità” deriva da “punizione” [*Cfr. A[1]*]. Ora, ogni movimento della parte appetitiva dovrebbe essere punito dalla ragione. Poiché ogni virtù morale inibisce qualche movimento dell’appetito, sembrerebbe che ogni virtù morale sia, di fatto, una forma di castità.
+
+Obiezione 3: Inoltre, la castità è opposta alla fornicazione. Ma la fornicazione sembra appartenere a ogni tipo di peccato; infatti è scritto (Salmo 72:27): “Distruggerai tutti coloro che ti sono infedeli”. Pertanto, la castità è una virtù universale.
+
+Al contrario, Macrobio, nel *In Somn. Scip. i, 8*, considera tale atteggiamento parte della moderazione.
+
+Rispondo che la parola “castità” viene utilizzata in due modi. Primo, nel senso proprio: in questo caso rappresenta una virtù specifica, il cui oggetto principale sono le concupiscenze legate ai piaceri sessuali. Secondo, la parola “castità” può essere usata in modo metaforico: così come l’unione fisica tra corpi conduce al piacere sessuale – che costituisce l’oggetto della castità e dell’invidia, rispettivamente i suoi vizi opposti – allo stesso modo l’unione spirituale dell’anima con certe realtà spirituali può generare un piacere che, in senso metaforico, rappresenta l’essenza di una “castità spirituale”, così come ciò che viene chiamato in modo analogo “adulterio spirituale”. Infatti, se l’anima umana si delizia nell’unione spirituale con Dio – l’oggetto a cui è destinata – e si astiene dal godere di un’unione con altre realtà contraria all’ordine stabilito da Dio, ciò può essere definito “castità spirituale”, secondo quanto detto in 2 Corinzi 11:2: “Ti ho data in sposa a un solo marito, affinché tu fossi presentata a Cristo come vergine casta”. Al contrario, se l’anima si unisce a altre realtà contro le prescrizioni dell’ordine divino, ciò viene definito “adulterio spirituale”, secondo Geremia 3:1: “Ma ti sei prostituita con molti amanti”. Intesa in questo senso, la castità è una virtù generale, poiché ogni virtù tende a allontanare l’anima umana dal godere di un’unione con ciò che è illegittimo. Tuttavia, l’essenza di questa virtù risiede principalmente nella carità e nelle altre virtù teologali, attraverso le quali l’anima umana si unisce a Dio.
+
+Risposta all’Obiezione 1: Questo argomento considera la castità nel senso metaforico.
+
+Risposta all’Obiezione 2: Come già detto sopra (A[1]; Q[142], A[2]), la concupiscenza di ciò che procura piacere viene particolarmente paragonata a quella di un bambino, poiché il desiderio di piacere è connaturale a noi, soprattutto per quanto riguarda i piaceri legati al contatto fisico che servono al mantenimento della nostra natura. Pertanto, se tale concupiscenza viene alimentata permettendole di esprimersi liberamente, diventa molto forte, proprio come in un bambino lasciato a se stesso. È per questa ragione che la concupiscenza di tali piaceri ha estrema necessità di essere moderata; per questo motivo, la castità viene utilizzata in senso figurato per indicare proprio queste forme di concupiscenza, così come la forza d’animo viene impiegata in situazioni in cui abbiamo maggiormente bisogno di coraggio mentale.
+
+Risposta all’Obiezione 3: Questo argomento considera la cosiddetta “fornicazione spirituale” in senso metaforico, come opposta alla castità spirituale, come già affermato.
 
 <span class="atom-split" data-atom="139" data-title="Whether chastity is a distinct virtue from abstinence?" data-chapter="Whether chastity is a distinct virtue from abstinence?" data-kind="atom" data-srclang="en"></span>
 
@@ -6412,6 +8546,24 @@ though directed somewhat to venereal pleasures, are essentially directed to the 
 man's life: wherefore by their very nature they have a special virtue, although this virtue which is
 called abstinence directs its act to chastity as its end.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la castità non sia una virtù distinta dall’astinenza. Poiché, quando si tratta dello stesso oggetto, basta una sola virtù. Ora, poiché le cose relative allo stesso senso appartengono allo stesso genere, e poiché i piaceri del palato, che sono l’oggetto dell’astinenza, e i piaceri sessuali, che sono l’oggetto della castità, riguardano entrambi il senso del tatto, sembra quindi che la castità non sia una virtù distinta dall’astinenza.
+
+Obiezione 2: Inoltre, il Filosofo (Etica, iii, 12) paragona tutti i vizi legati all’intemperanza a peccati infantili che richiedono punizione. Ora, la “castità” prende il proprio nome dal “castigo” dei vizi contrari. Poiché alcuni vizi possono essere controllati attraverso l’astinenza, sembra quindi che l’astinenza stessa sia una forma di castità.
+
+Obiezione 3: Inoltre, i piaceri degli altri sensi rientrano nell’ambito della temperanza nella misura in cui riguardano i piaceri tattili, che sono proprio l’oggetto della moderazione. I piaceri del palato, invece, che sono oggetto dell’astinenza, sono diretti verso i piaceri sessuali, che rientrano nell’ambito della castità. Per questo motivo Gerolamo afferma, nel suo scritto [*Epistola cxlvii ad Amando. Cfr. Graziano, Distinzioni xliv.*], commentando il versetto di Tito 1:7 (“Chi non indulge nel vino non commette atti immorali”), che “lo stomaco e gli organi genitali sono vicini tra loro; questa vicinanza indica la loro complicità nel vizio”. Pertanto, astinenza e castità non sono virtù distinte.
+
+Al contrario, l’Apostolo (2 Corinzi 6:5,6) considera la “castità”, insieme ai “digiuni”, come esempi di astinenza.
+
+Rispondo che, come già detto sopra (Q[141], A[4]), la temperanza riguarda propriamente le concupiscenze legate ai piaceri tattili; pertanto, dove esistono diversi tipi di piacere, esistono anche diverse virtù che rientrano nella categoria della temperanza. Ora, i piaceri sono proporzionali alle azioni dalle quali derivano, come affermato nell’Etica, IX, 4,5: è evidente infatti che le azioni legate all’uso del cibo, attraverso cui viene mantenuta la natura individuale, differiscono in natura da quelle legate all’uso di sostanze sessuali, attraverso cui viene preservata la natura della specie. Pertanto, la castità, che riguarda i piaceri sessuali, è una virtù distinta dall’astinenza, che riguarda i piaceri del gusto.
+
+Risposta all’Obiezione 1: La temperanza riguarda principalmente i piaceri legati al senso del tatto, e non il giudizio di tale senso riguardo agli oggetti che vengono percepiti attraverso di esso; tale giudizio è infatti di carattere uniforme per tutti gli oggetti tattili. Si tratta invece del modo in cui questi oggetti vengono utilizzati, come esplicitato nell’Etica, III, 10. Ora, l’utilizzo di cibi, bevande e pratiche legate ai rapporti sessuali presenta caratteristiche diverse; pertanto devono necessariamente esistere virtù diverse anche in questi casi, sebbene si tratti dello stesso senso.
+
+Risposta all’Obiezione 2: I piaceri venerei sono più impetuosi e più opprimenti per la ragione rispetto ai piaceri del palato; pertanto hanno maggior bisogno di castigo e moderazione. Infatti, se si cede ad essi, ciò aumenta la forza della concupiscenza e indebolisce la forza dell’animo. Ecco perché [Agostino](/figures/augustine) afferma (Soliloquio i, 10): “Ritengo che nulla abbassi tanto l’animo virile dalle sue vette quanto il contatto con le donne e quei rapporti fisici propri dello stato coniugale”.
+
+Risposta all’Obiezione 3: I piaceri degli altri sensi non contribuiscono al mantenimento della natura umana, se non nella misura in cui sono diretti verso i piaceri tattili. Pertanto, per quanto riguarda tali piaceri, non esiste alcuna altra virtù che rientri nella categoria della temperanza. Ma i piaceri del palato, sebbene siano in parte legati ai piaceri sessuali, sono essenzialmente finalizzati al mantenimento della vita umana; per questo motivo, per la loro stessa natura, possiedono una virtù specifica, anche se questa virtù – chiamata astinenza – ha come fine ultimo la castità.
+
 <span class="atom-split" data-atom="140" data-title="Whether purity belongs especially to chastity?" data-chapter="Whether purity belongs especially to chastity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that purity does not belong especially to chastity. For [Augustine](/figures/augustine)
@@ -6453,6 +8605,24 @@ Reply to Objection 3: Among the vices of intemperance, venereal sins are most de
 reproach, both on account of the insubordination of the genital organs, and because by these sins
 especially, the reason is absorbed.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la purezza non appartenga in modo specifico alla castità. Infatti, [Agostino](/figures/augustine) afferma (De Civ. Dei i, 18) che “la purezza è una virtù dell’anima”. Pertanto, essa non costituisce un elemento essenziale della castità, ma rappresenta una virtù distinta da essa.
+
+Obiezione 2: Inoltre, la “pudicità” deriva da “pudore”, che equivale alla vergogna. Ora, secondo Damasceno (*De Fide Orth. ii, 15*), la vergogna riguarda un atto disonorevole, e questo è comune a tutti gli atti peccaminosi. Pertanto, la purezza non appartiene esclusivamente alla castità, ma anche alle altre virtù.
+
+Obiezione 3: Inoltre, il Filosofo afferma (Etica, iii, 12) che “ogni tipo di intemperanza merita particolarmente la riprovazione”. Ora sembrerebbe che l’astinenza debba consistere proprio nel evitare tutto ciò che merita rimprovero. Pertanto, l’astinenza dovrebbe riguardare tutte le componenti della temperanza, e non soltanto la castità.
+
+Al contrario, Agostino afferma (De Perseverantia xx): “Dobbiamo lodare la purezza, affinché colui che ha orecchie per ascoltare possa utilizzare esclusivamente a fini legittimi gli organi destinati alla procreazione”. Ora, l’uso di questi organi costituisce proprio l’essenza della castità; pertanto, la purezza appartiene intrinsecamente alla castità.
+
+Rispondo che, come già detto in precedenza ([OBJ[2), la “pudicità” prende il proprio nome da “pudore”, termine che indica vergogna. Pertanto, la purezza riguarda necessariamente quelle cose di cui l’uomo prova maggior vergogna. Gli uomini provano infatti maggiore vergogna per gli atti sessuali, come osserva Agostino (De Civ. Dei xiv, 18); tanto è vero che anche l’atto coniugale, pur avvolto nell’onestà del matrimonio, non è privo di vergogna: ciò perché i movimenti degli organi genitali non sono soggetti al controllo della ragione, a differenza dei movimenti degli altri membri del corpo. L’uomo si vergogna non solo di questo atto sessuale, ma anche di tutti i suoi segni esteriori, come osserva il Filosofo (Rhetorica ii, 6). Di conseguenza, la purezza riguarda appunto queste questioni sessuali e, in particolare, i loro segni esteriori, come sguardi impuri, baci e contatti. Poiché questi ultimi sono più frequentemente osservati, la purezza si concentra soprattutto su di essi, mentre la castità riguarda principalmente l’atto sessuale stesso. Pertanto, la purezza è direttamente legata alla castità, non come virtù distinta da essa, ma come sua manifestazione concreta; tuttavia, talvolta i due termini vengono utilizzati in modo intercambiabile.
+
+Risposta all’Obiezione 1: Qui Agostino parla di purezza nel senso di castità.
+
+Risposta all’Obiezione 2: Sebbene ogni vizio comporti una certa disonore, i vizi legati all’intemperanza sono particolarmente vergognosi, come già affermato in precedenza (Q[142], A[4]).
+
+Risposta all’Obiezione 3: Tra i vizi legati all’intemperanza, i peccati venerei sono quelli che meritano maggiormente la riprovazione, sia per l’insubordinazione degli organi genitali, sia perché proprio attraverso questi peccati la ragione umana viene particolarmente compromessa.
+
 <span class="atom-split" data-atom="141" data-title="OF VIRGINITY (FIVE ARTICLES)" data-chapter="OF VIRGINITY (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider virginity: and under this head there are five points of inquiry:
@@ -6461,6 +8631,15 @@ We must now consider virginity: and under this head there are five points of inq
 (3) Whether it is a virtue?
 (4) Of its excellence in comparison with marriage;
 (5) Of its excellence in comparison with the other virtues.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la verginità: e sotto questo argomento vi sono cinque punti da esaminare:
+(1) In cosa consiste la verginità?
+(2) È legittima o meno?
+(3) È una virtù?
+(4) Qual è il suo pregio rispetto al matrimonio?
+(5) Qual è il suo pregio rispetto alle altre virtù?
 
 <span class="atom-split" data-atom="142" data-title="Whether virginity consists in integrity of the flesh?" data-chapter="Whether virginity consists in integrity of the flesh?" data-kind="atom" data-srclang="en"></span>
 
@@ -6532,6 +8711,28 @@ or through violence and without the mind's consent, although the flesh derives p
 again through weakness of nature, as in the case of those who are subject to a flow of semen. In
 such cases virginity is not forfeit, because such like pollution is not the result of impurity which
 excludes virginity.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la verginità non consista nell’integrità del corpo fisico. Infatti, [Agostino](/figures/augustine) afferma (in *De Nup. et Concup.* [*Citazione tratta da *De Sancta Virgin. xiii*]) che “la verginità è la continua meditazione sull’incorruzione in un corpo corruttibile”. Ma la meditazione non riguarda il corpo fisico; pertanto, la verginità non ha origine nel corpo stesso.
+
+Obiezione 2: Inoltre, la verginità rappresenta un certo tipo di purezza. Ora Agostino afferma (De Civ. Dei i, 18) che “la purezza risiede nell’anima”. Pertanto, la verginità non è necessariamente legata all’integrità fisica del corpo.
+
+Obiezione 3: Inoltre, l’integrità della carne sembrerebbe dipendere dal sigillo della purezza verginale. Tuttavia, a volte tale sigillo viene violato senza che venga persa la verginità stessa. Infatti Agostino afferma (De Civ. Dei i, 18) che “quegli organi possono essere danneggiati a causa di incidenti; anche i medici, talvolta, per motivi di salute compiono azioni che suscitano orrore: è stato addirittura registrato il caso di una levatrice che, con il proprio tocco, distrusse il segno della verginità che stava cercando”. Aggiunge inoltre: “Penso che nessuno sia così sciocco da ritenere che una ragazza abbia perso anche la santità del proprio corpo, pur avendo perso l’integrità di quell’organo”. Pertanto, la verginità non dipende necessariamente dall’incorruzione della carne.
+
+Obiezione 4: Inoltre, la corruzione del corpo umano consiste principalmente nella dissoluzione dello sperma; e ciò può avvenire senza coito, sia che si sia addormentati che svegli. Tuttavia, apparentemente la verginità non viene perduta senza coito: infatti Agostino afferma (De Virgin. xiii) che “l’integrità virginale e la castità sacra che si astengono da ogni rapporto sessuale appartengono agli angeli”. Pertanto, la verginità non dipende dall’incorruzione del corpo umano.
+
+Al contrario, Agostino afferma (De Virginitate viiii) che “la verginità è una forma di castità attraverso la quale l’integrità del corpo viene promessa, consacrata e rispettata in onore del Creatore sia dell’anima che del corpo”.
+
+Rispondo che la verginità prende il proprio nome evidentemente da “viror”, ovvero dalla “freschezza”. Proprio come un oggetto viene descritto come fresco e che mantiene tale qualità finché non viene danneggiato dal calore eccessivo, allo stesso modo la verginità indica che la persona che la possiede è rimasta intatta dal calore della concupiscenza, quella passione che si manifesta nell’atto sessuale e che porta al massimo piacere fisico. Pertanto Ambrogio afferma (De Virginitate, I, 5) che “la castità verginale è integrità priva di contaminazione”. Ora, i piaceri sessuali presentano tre aspetti da considerare: il primo riguarda il corpo, ovvero la violazione del sigillo della verginità; il secondo riguarda il legame tra ciò che concerne l’anima e ciò che concerne il corpo, cioè la fuoriuscita dello sperma e il piacere sensibile che ne deriva; il terzo riguarda esclusivamente l’anima, ovvero lo scopo per cui si cerca tale piacere. Di questi tre aspetti, il primo è accidentale rispetto all’atto morale in sé, che deve essere considerato in relazione all’anima; il secondo rappresenta la materia dell’atto morale, poiché le passioni sensibili ne costituiscono l’oggetto; il terzo, invece, ha una funzione formale e complementare, poiché l’essenza della moralità si perfeziona nell’aspetto razionale. Poiché la verginità consiste nella libertà da tale corruzione, ne consegue che l’integrità dell’organo fisico è soltanto accidentale rispetto alla verginità stessa; mentre la libertà dal piacere derivante dalla fuoriuscita dello sperma ne rappresenta il legame materiale; lo scopo di astenersi permanentemente da tale piacere costituisce, invece, l’elemento formale e completivo della verginità.
+
+Risposta all’Obiezione 1: Questa definizione di Agostino esprime direttamente ciò che è essenziale nella verginità. Infatti, “meditazione” indica lo scopo della ragione; l’aggiunta “perpetua” non significa che una vergine debba sempre mantenere effettivamente questa meditazione, ma che debba ricordarsi costantemente dello scopo di perseverare in essa. L’elemento materiale viene espresso indirettamente dalle parole “sull’incorruzione in un corpo corruttibile”: questo viene aggiunto per evidenziare la difficoltà intrinseca alla verginità; infatti, se il corpo fosse incorruttibile, non sarebbe affatto difficile mantenere una meditazione perpetua sull’incorruzione.
+
+Risposta all’Obiezione 2: È vero che la purezza, per essenza sua, risiede nell’anima; ma per quanto riguarda la sua materia, si trova nel corpo; lo stesso vale per la verginità. Per questo motivo Agostino afferma (De Virginitate, VIII) che “sebbene la verginità risieda nella carne” e quindi sia una qualità corporea, “tuttavia è una realtà spirituale, che una sana continenza favorisce e preserva”.
+
+Risposta all’Obiezione 3: Come già detto, l’integrità di un organo corporeo è qualcosa che riguarda casualmente la verginità; infatti, una persona che si astiene intenzionalmente dal piacere sessuale mantiene l’integrità di tale organo. Pertanto, se quest’organo perdesse la sua integrità per qualche altro motivo casuale, ciò non sarebbe più dannoso per la verginità di quanto lo sia la perdita di una mano o di un piede.
+
+Risposta all’Obiezione 4: Il piacere derivante dall’emissione di sperma può manifestarsi in due modi. Se tale fenomeno è il risultato di una volontà deliberata, esso distrugge la verginità, indipendentemente dal fatto che si verifichi o meno un rapporto sessuale. Agostino, tuttavia, menziona esplicitamente il rapporto sessuale, poiché tale tipo di emissione di sperma ne rappresenta normalmente e naturalmente il risultato. In altri casi, questo fenomeno può verificarsi al di fuori della volontà umana: durante il sonno, attraverso la violenza o senza il consenso della persona, anche se il corpo ne trae piacere; oppure a causa di una debolezza naturale, come nel caso di coloro che soffrono di incontinenza. In tali situazioni, la verginità non viene compromessa, poiché tale tipo di contaminazione non deriva da un’impurità che possa escludere la condizione di verginità stessa.
 
 <span class="atom-split" data-atom="143" data-title="Whether virginity is unlawful?" data-chapter="Whether virginity is unlawful?" data-kind="atom" data-srclang="en"></span>
 
@@ -6606,6 +8807,24 @@ seldom happened in olden times that anyone refrained from all venereal pleasure 
 the contemplation of truth: as Plato alone is related to have done. Hence it was not through thinking
 this a sin, that he offered sacrifice, but "because he yielded to the false opinion of his fellow
 countrymen," as Augustine remarks (De Vera Relig. iii).
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la verginità sia contraria alla legge naturale. Infatti, tutto ciò che è in contrasto con un precetto della legge naturale è considerato illegale. Proprio come le parole di Genesi 2:16, “Di ogni albero del paradiso potrai mangiare”, indicano un precetto della legge naturale finalizzato alla conservazione dell’individuo, così anche le parole di Genesi 1:28, “Crescite e moltiplicatevi e riempite la terra”, esprimono un precetto della legge naturale volto al mantenimento della specie. Pertanto, proprio come sarebbe peccato astenersi completamente da ogni cibo, poiché ciò andrebbe contro il bene dell’individuo, allo stesso modo è peccato astenersi del tutto dall’atto di procreazione, poiché ciò va contro il bene della specie.
+
+Obiezione 2: Inoltre, qualsiasi cosa si discosti dal livello medio della virtù è chiaramente peccaminosa. Ora, la verginità si discosta dal livello medio della virtù, poiché si astiene da ogni piacere sessuale; infatti il Filosofo afferma (Etica ii, 2) che “colui che si abbandona a tutti i piaceri e non si astiene nemmeno da uno solo è intemperante; ma colui che si astiene da tutti è rozzo e insensibile”. Pertanto, la verginità è qualcosa di peccaminoso.
+
+Obiezione 3: Inoltre, la punizione è dovuta soltanto per un vizio. Nell’antichità venivano puniti coloro che conducevano una vita di celibato, come afferma Valerio Massimo nel *Dict. Fact. Mem. ii, 9*. Pertanto, secondo [Agostino](/figures/augustine) (*De Vera Relig. iii*), si dice che Platone abbia offerto sacrifici alla natura al fine di espiare la sua perpetua continenza, come se essa fosse un peccato. Quindi la verginità è considerata un peccato.
+
+Al contrario, nessun peccato riguarda questioni su cui si possa ricevere un consiglio diretto. Ma la verginità è senz’altro un argomento per il quale si può chiedere un parere esplicito: infatti è scritto (1 Corinzi 7:25): “Per quanto riguarda le vergini, non ho alcun comando da parte del Signore; ma do io stesso un consiglio”. Pertanto, la verginità non è considerata una pratica illecita.
+
+Rispondo che, negli atti umani, quelli che sono peccaminosi sono quelli che contraddicono la retta ragione. Ora, la retta ragione richiede che le cose destinate a un fine vengano utilizzate in misura proporzionale a tale fine. Inoltre, il bene dell’uomo è triplice, come affermato nell’Etica, I, 8: uno consiste nelle cose esterne, ad esempio la ricchezza; un altro nei beni corporei; il terzo nei beni dell’anima, tra i quali quelli legati alla vita contemplativa hanno priorità rispetto a quelli legati alla vita attiva, come dimostra il Filosofo (Etica, X, 7) e come dichiarò nostro Signore (Lc 10:42): “Maria ha scelto la parte migliore”. Di questi beni, quelli esterni sono rivolti a ciò che appartiene al corpo, e ciò che appartiene al corpo è rivolto a ciò che appartiene all’anima; inoltre, ciò che appartiene alla vita attiva è rivolto a ciò che appartiene alla vita contemplativa. Pertanto, la retta ragione prescrive di utilizzare i beni esterni in misura proporzionale al corpo, e allo stesso modo per quanto riguarda gli altri beni. Quindi, se un uomo si astiene dal possedere certe cose – che altrimenti sarebbero utili per il suo bene fisico o per la contemplazione della verità – questo non è peccaminoso, ma è in accordo con la retta ragione. Allo stesso modo, se un uomo si astiene dai piaceri corporei per potersi dedicare più liberamente alla contemplazione della verità, ciò è in linea con la rettitudine della ragione. Ora, la santa verginità si astiene da ogni piacere sessuale per potersi dedicare più liberamente alla contemplazione divina; infatti l’Apostolo dice (1 Corinzi, 7:34): “La donna nubile e la vergine pensano alle cose del Signore, affinché siano pure sia nel corpo che nell’anima; ma la donna sposata pensa alle cose di questo mondo, per compiacere suo marito”. Pertanto, si evince che la verginità, invece di essere peccaminosa, è degna di lode.
+
+Risposta all’Obiezione 1: Un precetto implica un dovere, come già detto sopra (Q[122], A[1]). Esistono ora due tipi di doveri: da un lato, ci sono i doveri che devono essere adempiuti da un singolo individuo; l’inadempimento di tale tipo di dovere comporta necessariamente il peccato. Dall’altro lato, ci sono i doveri che devono essere adempiuti dal gruppo umano nel suo complesso; l’adempimento di questo tipo di dovere non è obbligatorio per ogni singolo membro del gruppo. Infatti, il gruppo umano ha molte responsabilità che non possono essere assunte individualmente, ma vengono svolte da diversi individui in modo coordinato. Pertanto, il precetto della legge naturale che impone all’uomo di mangiare deve necessariamente essere adempiuto da ogni singolo individuo, altrimenti quest’ultimo non potrebbe sopravvivere. D’altra parte, il precetto relativo alla procreazione riguarda l’intero genere umano; esso richiede non solo la riproduzione fisica, ma anche lo sviluppo spirituale della specie. Pertanto, se alcuni si dedicano alla procreazione carnale, mentre altri si dedicano alla contemplazione delle cose divine, ciò è sufficiente per il bene e la prosperità dell’intera umanità. Allo stesso modo, in un esercito, alcuni svolgono il compito di sentinella, altri quello di portabandiera, altri ancora combattono con la spada; tuttavia, tutte queste attività sono necessarie per il funzionamento dell’esercito, anche se non possono essere svolte da un singolo individuo.
+
+Risposta all’Obiezione 2: La persona che, al di là dei dettami della ragione retta, si astiene da ogni piacere per avversione verso il piacere stesso è insensibile, simile a un ignorante o a un bruto. Ma una vergine non si astiene da tutti i piaceri, bensì soltanto da quelli di natura sessuale; e si astiene da essi seguendo la ragione retta, come già detto in precedenza. Ora, il mezzo della virtù è determinato non in base alla quantità, ma in base alla ragione retta, come affermato nell’Etica, II, 6: per questo si dice del nobile (Etica, IV, 3) che “in termini di quantità egli raggiunge l’estremo, ma in termini di moderazione segue il mezzo”.
+
+Risposta all’Obiezione 3: Le leggi vengono formulate in base a ciò che accade più frequentemente. Nell’antichità, era raro che qualcuno si astenesse da ogni piacere sessuale per amore della contemplazione della verità; Platono è l’unico di cui si dice abbia fatto questo. Pertanto, non fu perché considerava tale comportamento un peccato che offrì sacrifici, ma “perché cedette all’errata opinione dei suoi connazionali”, come osserva Agostino (De Vera Relig. iii).
 
 <span class="atom-split" data-atom="144" data-title="Whether virginity is a virtue?" data-chapter="Whether virginity is a virtue?" data-kind="atom" data-srclang="en"></span>
 
@@ -6746,6 +8965,24 @@ is consecrated to God is preferable to carnal fruitfulness. Hence Augustine says
 seek naught else from marriage but children in order to make them servants of Christ, cannot
 compensate for lost virginity."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la verginità non sia più nobile del matrimonio. Infatti, [Agostino](/figures/augustine) afferma (De Bono Conjug. xxi): “La continenza è altrettanto meritevole in Giovanni, che rimase celibe, quanto in Abramo, che ebbe figli”. Ora, una virtù maggiore comporta un merito maggiore; pertanto la verginità non è una virtù più nobile della castità coniugale.
+
+Obiezione 2: Inoltre, la lode riservata a un uomo virtuoso dipende dalla sua stessa virtù. Se quindi la verginità fosse preferibile alla continenza coniugale, sembrerebbe logico che ogni donna vergine debba essere lodata più di qualsiasi donna sposata. Ma ciò non è vero. Pertanto, la verginità non è preferibile al matrimonio.
+
+Obiezione 3: Inoltre, il bene comune ha la precedenza sul bene privato, secondo quanto afferma il Filosofo (Etica, i, 2). Ora, il matrimonio è rivolto al bene comune; infatti Agostino dice (De Bono Conjugii, xvi): “Quello che il cibo è per il benessere dell’uomo, lo stesso è l’atto sessuale per il benessere della specie umana”. D’altra parte, la verginità è volta al bene individuale, ovvero al fine di evitare ciò che l’Apostolo definisce “la tribolazione della carne”, a cui sono soggetti i coniugi (1 Corinzi, 7:28). Pertanto, la verginità non è superiore alla continenza coniugale.
+
+Al contrario, Agostino afferma (De Virgin. xix): “Sia la ragione logica che l’autorità delle Scritture sacre dimostrano che il matrimonio non è peccaminoso, né deve essere paragonato al bene della castità verginale o persino a quello del vedovato.”
+
+Rispondo che, secondo Geromeo (Contra Jovinianum, i), l’errore di Gioviniano consisteva nel ritenere che la verginità non fosse preferibile al matrimonio. Questo errore viene confutato soprattutto dall’esempio di Cristo, il quale scelse una vergine come madre e rimase egli stesso vergine, nonché dall’insegnamento dell’Apostolo, il quale (1 Corinzi 7) raccomanda la verginità come bene più grande. Viene inoltre confutato anche per ragionamenti logici: innanzitutto, perché un bene divino ha priorità rispetto a un bene umano; in secondo luogo, perché il bene dell’anima è preferibile a quello del corpo; e infine, perché il bene della vita contemplativa è superiore a quello della vita attiva. La verginità, infatti, mira al bene dell’anima attraverso la vita contemplativa, che consiste nel riflettere “su le cose di Dio”, mentre il matrimonio mira al bene del corpo, cioè alla riproduzione della specie umana, e appartiene quindi alla vita attiva. Poiché l’uomo e la donna che intraprendono la vita coniugale devono dedicarsi alle “cose del mondo”, come afferma l’Apostolo (1 Corinzi 7:34), è senza dubbio preferibile la verginità alla continenza coniugale.
+
+Risposta all’Obiezione 1: Il merito non viene misurato soltanto dal tipo di azione compiuta, ma ancora di più dall’intenzione dell’agente. Abramo aveva un’anima così predisposta che era pronto a osservare la castità, se ciò fosse stato conforme ai tempi in cui viveva. Pertanto, per quanto riguarda la ricompensa essenziale, la continenza coniugale di Abramo era altrettanto meritevole della castità virginale di Giovanni; tuttavia, per quanto riguarda le ricompense accidentali, non lo era. Per questo motivo Agostino afferma (De Bono Conjug. xxi) che “sia la castità di Giovanni che il matrimonio di Abramo combatterono la battaglia di Cristo in base alle differenze dei tempi: ma Giovanni fu continente anche nei fatti, mentre Abramo lo fu soltanto nell’abitudine”.
+
+Risposta all’Obiezione 2: Sebbene la verginità sia preferibile alla continenza coniugale, una persona sposata può essere considerata migliore di una vergine per due motivi. Primo, riguardo alla stessa castità: una persona sposata è probabilmente più predisposta a osservare la verginità, se ciò fosse opportuno, rispetto a chi effettivamente è vergine. Per questo motivo Agostino (De Bono Conjugii, xxii) esorta la vergine a dire: “Non sono migliore di Abramo, anche se la castità del celibato è superiore a quella del matrimonio”. Inoltre, Agostino fornisce la ragione di ciò: “Ciò che io faccio ora, lui lo avrebbe fatto meglio se fosse stato opportuno per lui farlo allora; e ciò che loro fecero, lo farei anch’io ora, se fosse necessario”. Secondo motivo: forse una persona non vergine possiede virtù ancora più eccellenti. Per questo Agostino afferma (De Virginibus, xliv): “Da dove una vergine può conoscere quelle cose che appartengono al Signore, per quanto si impegni in esse? Forse, a causa di qualche difetto mentale, non è ancora pronta al martirio; mentre questa donna, alla quale ho preferito me stesso, è già in grado di bere il calice del Signore”.
+
+Risposta all’Obiezione 3: Il bene comune ha la precedenza sul bene privato, se appartengono allo stesso genere; tuttavia può darsi che il bene privato sia, in termini generici, più prezioso. È proprio per questo motivo che la verginità consacrata a Dio è ritenuta preferibile alla fecondità carnale. Ecco quanto afferma Agostino nel “De Virginitate” IX: “È necessario ammettere che la fecondità della carne, anche da parte di quelle donne che in questi tempi non cercano altro dal matrimonio se non figli al fine di farne servitori di Cristo, non può compensare la perdita della verginità”.
+
 <span class="atom-split" data-atom="146" data-title="Whether virginity is the greatest of virtues?" data-chapter="Whether virginity is the greatest of virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that virginity is the greatest of virtues. For Cyprian says (De Virgin.
@@ -6800,6 +9037,24 @@ Wherefore they follow the Lamb in more ways, but this does not imply that they f
 closely, because other virtues make us cleave to God more closely by imitation of the mind. The
 "new hymn" which virgins alone sing, is their joy at having preserved integrity of the flesh.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la verginità sia la più grande delle virtù. Infatti Cipriano afferma nel “De Virgin.” (“Sull’abitudine della vergine”): “Ci rivolgiamo ora alle vergini. La loro gloria è [sublime](/concepts/sublime), ma non meno elevata è la loro vocazione. Sono il fiore del seme della Chiesa, l’orgoglio e l’ornamento della grazia spirituale, la parte più onorata del gregge di Cristo.”
+
+Obiezione 2: Inoltre, una ricompensa maggiore è dovuta alla virtù più grande. Ora, la ricompensa più grande spetta alla verginità, ovvero al “frutto centuplicato”, secondo un commento su Matteo 13:23. Pertanto, la verginità è la più grande tra tutte le virtù.
+
+Obiezione 3: Inoltre, più una virtù ci conforma a Cristo, maggiore è. Ora, la verginità ci conforma soprattutto a Cristo; infatti, nell’Apocalisse (14:4) si dice che le vergini “seguono l’Agnello ovunque Egli vada”, e (14:3) che cantano un “nuovo inno” che “nessun altro uomo” potrebbe cantare. Pertanto, la verginità è la più grande delle virtù.
+
+Al contrario, [Agostino](/figures/augustine) afferma (De Virgin. xlvi): “Nessuno, credo, oserebbe preferire la verginità al martirio”, e (De Virgin. xlv): “L’autorità della Chiesa informa i fedeli in modo inequivocabile, affinché sappiano in quale luogo i martiri e le sante vergini che hanno lasciato questa vita vengono commemorati nel [Sacramento](/concepts/sacrament) dell’Altare”. Da ciò possiamo comprendere che il martirio, così come lo stato monastico, sono preferibili alla verginità.
+
+Rispondo che una cosa può eccellere su tutte le altre in due modi. Primo, in un determinato genere: ed è così che la verginità è la più eccellente nel genere della castità, poiché supera sia la castità coniugale che quella vedovile. Poiché alla castità viene attribuita antonomasticamente anche la bellezza, ne consegue che anche l’superare la bellezza stessa venga riconosciuto come una caratteristica della castità. Per questo Ambrogio afferma (De Virgin. i, 7): “Chi potrebbe considerare qualche forma di bellezza più grande di quella di una vergine, poiché essa è amata dal suo Re, approvata dal suo Giudice, dedicata al suo Signore e consacrata al suo Dio?” Secondo, una cosa può essere eccellente in sé stessa; in questo caso, la verginità non è la più grande delle virtù. Poiché lo scopo finale di qualsiasi azione è sempre superiore a ciò che serve ad alcanzarlo, e più efficacemente un’azione mira al proprio fine, migliore essa è. Ora, lo scopo per cui la verginità merita lode è quello di permettere alla persona di dedicarsi liberamente alle cose divine, come già detto in precedenza. Pertanto, le virtù teologiche e quelle legate alla religione, le cui azioni consistono appunto nel dedicarsi alle cose divine, sono preferibili alla verginità. Inoltre, i martiri compiono imprese ancora più grandi nel loro sforzo di unirsi a Dio: poiché per questo scopo disprezzano la propria vita; e coloro che vivono in monastero, poiché per questo rinunciano alla propria volontà e a tutto ciò che possiedono. Pertanto, la verginità non è semplicemente la più grande delle virtù.
+
+Risposta all’Obiezione 1: Le vergini sono “la parte più onorata del gregge di Cristo”, e la loro “gloria è più sublime” rispetto a quelle delle vedove e delle donne sposate.
+
+Risposta all’Obiezione 2: Il frutto centuplo viene attribuito alla verginità, secondo Gerolamo nell’[*Epistola cxxiii ad Ageruch*], in quanto essa rappresenta un livello di superiorità rispetto alla vedovanza, a cui viene attribuito il frutto sessantuplo, e rispetto al matrimonio, a cui viene attribuito il frutto trentuplo. Tuttavia, secondo Agostino (*De Quodlibet Evangelioum i, 9*), “il frutto centuplo è concesso ai martiri, quello sessantuplo alle vergini e quello trentuplo alle persone sposate”. Pertanto, non si può concludere che la verginità sia semplicemente la virtù più grande, ma soltanto in confronto ad altri gradi di castità.
+
+Risposta all’Obiezione 3: Le vergini “seguono l’Agnello ovunque Egli vada”, perché imitano Cristo, non solo con integrità dell’anima ma anche del corpo, come afferma Agostino (De Virginibus, xxvii). Pertanto le vergini seguono l’Agnello in molti modi, ma ciò non significa che lo seguano più strettamente; altre virtù, infatti, ci fanno legare più intimamente a Dio attraverso l’imitazione dell’anima. Il “nuovo inno” che cantano soltanto le vergini rappresenta la loro gioia per aver conservato l’integrità del proprio corpo.
+
 <span class="atom-split" data-atom="147" data-title="OF LUST (FIVE ARTICLES)" data-chapter="OF LUST (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider the vice of lust which is opposed to chastity: (1) Lust in general; (2) its
@@ -6809,6 +9064,15 @@ species. Under the first head there are five points of inquiry:
 (3) Whether lust is a mortal sin?
 (4) Whether lust is a capital vice?
 (5) Concerning its daughters.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il vizio della lussuria, che è opposto alla castità: (1) La lussuria in generale; (2) Le sue specie. Nel primo ambito vi sono cinque punti da esaminare:  
+(1) Qual è l’essenza della lussuria?  
+(2) Tutti i rapporti sessuali sono illegali?  
+(3) La lussuria è un peccato mortale?  
+(4) La lussuria è un vizio capitale?  
+(5) Riguardo alle sue conseguenze negative.
 
 <span class="atom-split" data-atom="148" data-title="Whether the matter of lust is only venereal desires and pleasures?" data-chapter="Whether the matter of lust is only venereal desires and pleasures?" data-kind="atom" data-srclang="en"></span>
 
@@ -6846,6 +9110,24 @@ pleasure.
 Reply to Objection 3: Although wanton pleasure applies to other matters, the name of lust has
 a special application to venereal pleasures, to which also wantonness is specially applicable, as
 Augustine remarks (De Civ. xiv, 15,16).
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la questione della lussuria non riguardi soltanto desideri e piaceri di natura sessuale. Infatti, [Agostino](/figures/augustine) afferma (Confessioni, ii, 6) che “la lussuria può essere considerata un’eccessiva ricchezza o un’abbondanza”. Ma l’eccesso riguarda il cibo e la bevanda, mentre l’abbondanza si riferisce alle ricchezze materiali. Pertanto, la lussuria non riguarda esclusivamente desideri e piaceri di natura sessuale.
+
+Obiezione 2: Inoltre, è scritto (Proverbi 20:1): “Il vino è una cosa che suscita desideri lussuriosi.” Ora, il vino è legato al piacere derivante dal cibo e dalla bevanda; pertanto, sembrerebbe che questi siano gli oggetti dei desideri lussuriosi.
+
+Obiezione 3: Inoltre, la lussuria è definita “come il desiderio di piaceri dissoluti” [*Alexander of Hales, Summ. Theol. ii, cxvli]. Ma i piaceri dissoluti riguardano non solo le questioni legate ai rapporti sessuali, ma anche molte altre cose. Pertanto, la lussuria non si riferisce soltanto ai desideri e ai piaceri di natura sessuale.
+
+Al contrario, si dice ai lussuriosi (in “De Vera Religione”, libro III, scritto da Sant’Agostino): “Colui che semina nella carne, della carne raccoglierà corruzione”. Ora, il “seminare nella carne” si riferisce ai piaceri sessuali. Pertanto, questi appartengono alla lussuria.
+
+Rispondo che, come afferma Isidoro nell’“Etymologia” X, “un uomo lussurioso è colui che si abbandona ai piaceri sensuali”. Ora, i piaceri sessuali sono quelli che più di ogni altro corrompono la mente umana; pertanto, la lussuria riguarda in modo particolare proprio questi tipi di piaceri.
+
+Risposta all’Obiezione 1: Proprio come la temperanza si riferisce principalmente e in modo appropriato ai piaceri tattili, così anche il desiderio sessuale riguarda principalmente i piaceri legati alle relazioni sessuali, che più di ogni altra cosa causano grandi distruzioni nella mente umana; tuttavia, in secondo luogo, si applica anche ad altre situazioni caratterizzate da eccesso. Da ciò deriva l’interpretazione di Galati 5:19, secondo cui “il desiderio sessuale è ogni forma di eccesso”.
+
+Risposta all’Obiezione 2: Si dice che il vino sia una cosa lussuriosa, sia nel senso in cui ogni eccesso viene attribuito alla lussuria, sia perché il consumo eccessivo di vino incoraggia i piaceri sessuali.
+
+Risposta all’Obiezione 3: Sebbene il piacere sfrenato si applichi anche ad altre cose, il nome di “lussuria” ha un significato specifico in riferimento ai piaceri sessuali, ai quali anch’essi il comportamento sfrenato è particolarmente legato, come osserva Agostino (De Civ. xiv, 15,16).
 
 <span class="atom-split" data-atom="149" data-title="Whether no venereal act can be without sin?" data-chapter="Whether no venereal act can be without sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -6955,6 +9237,24 @@ Reply to Objection 3: The opposite of lust is not found in many, since men are m
 to pleasure. Yet the contrary vice is comprised under insensibility, and occurs in one who has such
 a dislike for sexual intercourse as not to pay the marriage debt.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il desiderio legato agli atti sessuali non possa essere considerato un peccato. Infatti, l’atto sessuale consiste nell’emissione di sperma, che rappresenta soltanto un eccesso di sostanze alimentari, secondo quanto affermato dal Filosofo nel “De Generati Animae” i, 18. Ma non esiste alcun peccato legato all’emissione di altri tipi di eccessi; pertanto, nemmeno negli atti sessuali può esserci alcun peccato.
+
+Obiezione 2: Inoltre, ognuno può legittimamente utilizzare a piacimento ciò che gli appartiene. Ma nell’atto sessuale un uomo utilizza soltanto ciò che è suo, salvo forse nel caso di adulterio o violenza. Pertanto non può esserci alcun peccato negli atti sessuali, e di conseguenza la lussuria non è un peccato.
+
+Obiezione 3: Inoltre, ogni peccato ha un vizio opposto. Tuttavia, apparentemente, non esiste alcun vizio opposto alla lussuria. Pertanto, la lussuria non è un peccato.
+
+Al contrario, la causa è più potente dell’effetto. Ora il vino è proibito a causa della lussuria, secondo le parole dell’Apostolo (Efesini 5:18): “Non inebriarvi di vino che suscita desideri lussuriosi”. Pertanto, la lussuria è proibita. Inoltre, essa è annoverata tra le opere della carne: Galati 5:19.
+
+Rispondo che, più una cosa è necessaria, più è dovere osservare l’ordine della ragione al suo riguardo; pertanto, abbandonare tale ordine diventa ancora più peccaminoso. Ora, l’uso degli atti sessuali, come detto nell’articolo precedente, è estremamente necessario per il bene comune, ovvero per la conservazione della specie umana. Pertanto, in questa materia è assolutamente indispensabile rispettare l’ordine della ragione; altrimenti, qualsiasi azione contraria a tale ordine costituirà un peccato. La lussuria, infatti, consiste essenzialmente nel superare i limiti imposti dall’ordine e dal modo razionale nell’ambito degli atti sessuali. Pertanto, senza alcun dubbio, la lussuria è un peccato.
+
+Risposta all’Obiezione 1: Come afferma il Filosofo nello stesso libro (De Gener. Anim. i, 18), “il seme è un eccesso che, tuttavia, è necessario”. Viene definito superfluo perché rappresenta il residuo dell’azione della forza nutritiva, ma è indispensabile per il funzionamento della forza generativa. Le altre sostanze superflue del corpo umano, invece, non sono necessarie; pertanto non importa in che modo vengano eliminate, purché si rispettino le norme della vita sociale. Il caso del seme è diverso: la sua emissione deve avvenire in modo conforme allo scopo per cui è necessario.
+
+Risposta all’Obiezione 2: Come afferma l’Apostolo (1 Corinzi 6:20) parlando contro la lussuria, “Siete stati comprati a un prezzo altissimo; glorificate dunque Dio nel vostro corpo”. Pertanto, utilizzando in modo indebito il proprio corpo per soddisfare desideri lussuriosi, l’uomo offende Dio, che è il Sovrano Signore del nostro corpo. Ecco perché [Agostino](/figures/augustine) dice (De Decem Chordis 10, Sermone IX [xcvi de Temp.]): “Dio, che governa i suoi servitori per il loro bene e non per il proprio, ha stabilito quest’ordine e questo comandamento, affinché piaceri illeciti non distruggessero il tempio che tu hai iniziato a costruire”.
+
+Risposta all’Obiezione 3: L’opposto della lussuria non si riscontra in molte persone, poiché gli uomini tendono maggiormente verso il piacere. Tuttavia, questo vizio opposto rientra nella categoria dell’insensibilità e si manifesta in coloro che provano un tale disgusto per i rapporti sessuali da non essere disposti nemmeno a adempiere ai doveri coniugali.
+
 <span class="atom-split" data-atom="151" data-title="Whether lust is a capital vice?" data-chapter="Whether lust is a capital vice?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that lust is not a capital vice. For lust is apparently the same as
@@ -6991,6 +9291,24 @@ pride is accounted the common mother of all sins, so that even the capital vices
 Reply to Objection 3: Certain persons refrain from lustful pleasures chiefly through hope of
 the glory to come, which hope is removed by despair, so that the latter is a cause of lust, as removing
 an obstacle thereto, not as its direct cause; whereas this is seemingly necessary for a capital vice.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la lussuria non sia un vizio capitale. Infatti, secondo una spiegazione di Efesini 5:3, la lussuria è evidentemente sinonimo di “impurità” (cfr. 2 Corinzi 12:21). Ma l’impurità, secondo Gregorio (Moralia, xxxi, 45), è una conseguenza della gola. Pertanto, la lussuria non può essere considerata un vizio capitale.
+
+Obiezione 2: Inoltre, Isidoro afferma (De Summo Bono ii, 39) che “così come l’orgoglio porta alla corruzione della lussuria, così anche l’umiltà protegge la castità del corpo”. Tuttavia, sembrerebbe contrario alla natura di un vizio capitale che uno di essi derivi da un altro vizio. Pertanto, la lussuria non può essere considerato un vizio capitale.
+
+Obiezione 3: Inoltre, secondo Efesini 4:19, “Coloro che sono disperati si sono abbandonati alla lussuria”, la lussuria è causata dalla disperazione. Ma la disperazione non è un vizio capitale; anzi, come già detto in precedenza (Q[35], A[4], ad 2), è considerata una conseguenza della pigrizia. Pertanto, ancora meno la lussuria può essere considerata un vizio capitale.
+
+Al contrario, Gregorio (Morali, xxxi, 45) considera la lussuria tra i vizi capitali.
+
+Rispondo che, come già detto sopra (Q[148], A[5]; FS, Q[84], AA[3],4), un vizio capitale è quello che ha uno scopo molto desiderabile; perciò, nella ricerca di tale scopo, una persona può commettere molti peccati, tutti considerati derivanti da quel vizio stesso come da una causa principale. Ora, lo scopo della lussuria è il piacere sessuale, che è di grande intensità. Pertanto, questo piacere è molto desiderabile per quanto riguarda gli appetiti sensuali, sia per l’intensità stessa del piacere ricevuto, sia perché tale desiderio è intrinseco alla natura umana. È evidente quindi che la lussuria sia un vizio capitale.
+
+Risposta all’Obiezione 1: Come già detto sopra (Q[148], A[6]), secondo alcuni, l’impurità considerata una conseguenza della gola è un’impurità effettiva del corpo; pertanto, questa obiezione non è pertinente. Tuttavia, se con “impurità” si intende l’impurità derivante dalla lussuria, dobbiamo rispondere che essa è causata materialmente dalla gola – nel senso che la gola fornisce il substrato fisico necessario per la manifestazione della lussuria – e non sotto l’aspetto della [causa finale](/concepts/four_causes), in relazione alla quale si sostiene che i vizi capitali siano principalmente la causa degli altri mali.
+
+Risposta all’Obiezione 2: Come già detto sopra (Q[132], A[4], ad 1), quando trattavamo della vanità, l’orgoglio è considerato la madre comune di tutti i peccati; quindi anche i vizi più gravi hanno origine da esso.
+
+Risposta all’Obiezione 3: Alcune persone si astengono dai piaceri lussuriosi principalmente nella speranza della gloria futura, ma questa speranza viene distrutta dal dispero; pertanto il dispero diventa una causa di lussuria, poiché elimina un ostacolo al suo compimento, e non ne è la causa diretta. Tuttavia, questo sembrerebbe necessario per considerare il vizio in questione come un vizio capitale.
 
 <span class="atom-split" data-atom="152" data-title="Whether the daughters of lust are fittingly described?" data-chapter="Whether the daughters of lust are fittingly described?" data-kind="atom" data-srclang="en"></span>
 
@@ -7071,6 +9389,28 @@ account of the sentiments expressed by his words, for through causing blindness 
 perverts a man's sentiments, and so he gives way "to foolish talking," for instance, by expressing
 a preference for the pleasures he desires to anything else.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra ingiusto considerare le “figlie della lussuria” come esempio di “cecità mentale, imprudenza, incostanza, impulsività, egoismo, odio per Dio, amore per questo mondo e disprezzo o disperazione per il mondo futuro”. Infatti, cecità mentale, imprudenza e impulsività sono caratteristiche dell’imprudenza stessa, che si trova in ogni peccato, così come la prudenza è presente in ogni virtù. Pertanto, non dovrebbero essere considerate specificamente “figlie della lussuria”.
+
+Obiezione 2: Inoltre, la costanza è considerata una componente della forza d’animo, come detto sopra (Q[128], ad 6; Q[137], A[3]). Ma il desiderio contrario non è alla forza d’animo, bensì alla temperanza. Pertanto, l’incostanza non è certo un “figlio” del desiderio.
+
+Obiezione 3: Inoltre, “l’amore di sé che si estende fino al disprezzo per Dio” è l’origine di ogni peccato, come afferma [Agostino](/figures/augustine) (De Civ. Dei xiv, 28). Pertanto non dovrebbe essere considerato un derivato della lussuria.
+
+Obiezione 4: Inoltre, Isidoro [*QQ. in Deut., qu. xvi*] menziona quattro tipi di discorsi, ovvero “osceni”, “volgari”, “sconsiderati” e “stupidi”. In quel contesto, l’elenco sopra citato sembrerebbe superfluo.
+
+Al contrario, vi è l’autorità di Gregorio (Morali, xxxi, 45).
+
+Rispondo che quando le facoltà inferiori sono fortemente spinte verso i loro oggetti, ne consegue che le facoltà superiori vengono ostacolate e disordinate nel loro operare. L’effetto del vizio della lussuria è che il desiderio inferiore, cioè quello concupiscente, si concentra con estrema intensità sul proprio oggetto, ovvero sul piacere; a causa dell’intensità di tale piacere, le facoltà superiori, vale a dire la ragione e la volontà, vengono gravemente disturbate dalla lussuria. La ragione, in materia di azioni, ha quattro funzioni principali: innanzitutto, la comprensione semplice, che riconosce un fine come buono; questa funzione viene ostacolata dalla lussuria, come si legge in Daniele 13:56: “La bellezza ti ha ingannato, e la lussuria ha corrotto il tuo cuore”. In questo caso si parla di “cecità mentale”. La seconda funzione è quella del consiglio riguardo a ciò che deve essere fatto per raggiungere quel fine; anche questa funzione viene ostacolata dalla concupiscenza. Per questo Terenzio, nel suo “Eunuchus”, dice: “Questo tipo di desiderio non ammette né consiglio né moderazione; non si può controllare con il ragionamento”. In questo contesto si parla di “imprudenza”, ovvero dell’assenza di riflessione. La terza funzione è quella del giudizio riguardo alle azioni da intraprendere; anche questa viene ostacolata dalla lussuria, poiché gli uomini lussuriosi perdono la capacità di giudicare rettamente. Si legge infatti in Daniele 13:9: “Si sono corrotti il cuore, per non ricordare più ciò che è giusto”. In questo caso si parla di “improntidigione”. La quarta funzione è l’ordine dato dalla ragione riguardo alle azioni da compiere; anche questa viene ostacolata dalla lussuria, poiché chi è dominato dal desiderio carnale non riesce a seguire le indicazioni della propria ragione. A questo si riferisce il concetto di “incoerenza”. Per quanto riguarda la volontà, ne derivano due comportamenti eccessivi: da un lato, il desiderio smisurato del piacere, che si definisce “amore di sé”; dall’altro lato, l’odio verso Dio, dovuto al divieto impostogli da quest’ultimo riguardo a tali piaceri. Inoltre, c’è il desiderio per le cose utili al raggiungimento di quei piaceri; in questo caso si parla di “amore per questo mondo”, che spinge l’uomo a cercare i piaceri terreni, e di “disperazione riguardo al futuro”, poiché chi è trattenuto dai piaceri carnali non si preoccupa di ottenere quelli spirituali.
+
+Risposta all’Obiezione 1: Secondo il Filosofo (Etica, VI, 5), l’intemperanza è la principale causa di corruzione della prudenza; pertanto i vizi contrari alla prudenza derivano principalmente dalla lussuria, che rappresenta il tipo più comune di intemperanza.
+
+Risposta all’Obiezione 2: La costanza, che fa parte della forza d’animo, riguarda le difficoltà e gli oggetti di paura; mentre la costanza nel rinunciare ai piaceri appartiene alla continenza, che è una componente della temperanza, come già detto sopra (Q[143]). Pertanto, l’incostanza contrapposta a queste virtù deve essere considerata una conseguenza del desiderio. Tuttavia anche quella forma di incostanza menzionata per prima deriva dal desiderio stesso, poiché quest’ultimo indebolisce il cuore dell’uomo e lo rende effeminato, come si legge in Osea 4:11: “La fornicazione, il vino e la ubriachezza privano l’uomo della sua capacità di comprendere”. Anche Vegetio afferma (De Re Militari iii) che “quanto meno un uomo conosce i piaceri della vita, tanto meno teme la morte”. Inoltre, come abbiamo ripetutamente sottolineato, non è affatto necessario che le conseguenze di un vizio grave coincidano in tutto con il vizio stesso (cfr. Q[35], A[4], ad 2; Q[118], A[8], ad 1; Q[148], A[6]).
+
+Risposta all’Obiezione 3: L’amore di sé stesso riguardo a qualsiasi bene che un uomo desideri per se stesso è l’origine comune di tutti i peccati; ma nel caso specifico del desiderio di piaceri carnali, viene considerato una manifestazione della lussuria.
+
+Risposta all’Obiezione 4: I peccati menzionati da Isidoro sono atti esterni inappropriati, che riguardano principalmente il linguaggio; in questi casi si riscontra una quattrofold inappropriateness. Primo, per quanto riguarda l’oggetto di tali atti: ci riferiamo qui alle “parole oscene”, poiché “dalla abbondanza del cuore la bocca parla” (Matteo 12:34); quindi, un uomo lussurioso, il cui cuore è pieno di desideri impuri, pronuncia facilmente parole volgari. Secondo, per quanto riguarda la causa: poiché la lussuria genera imprudenza e precipitazione, ne consegue che spinge una persona a parlare senza riflettere sulle proprie parole, le quali vengono quindi definite “volgari”. Terzo, per quanto riguarda lo scopo: poiché l’uomo lussurioso cerca piacere, indirizza il proprio linguaggio verso tale scopo, esprimendo così “parole sconsiderate”. Quarto, per quanto riguarda i sentimenti che tali parole esprimono: poiché la lussuria offusca la mente, distorce i sentimenti di una persona, spingendola a pronunciare frasi sciocche o irragionevoli, ad esempio manifestando un preferenza per i piaceri desiderati rispetto a qualsiasi altra cosa.
+
 <span class="atom-split" data-atom="153" data-title="OF THE PARTS OF LUST (TWELVE ARTICLES)" data-chapter="OF THE PARTS OF LUST (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the parts of lust, under which head there are twelve points of inquiry:
@@ -7086,6 +9426,22 @@ We must now consider the parts of lust, under which head there are twelve points
 (10) Of sacrilege;
 (11) Of the sin against nature;
 (12) Of the order of gravity in the aforesaid sins.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare le componenti della lussuria; sotto questa categoria esistono dodici punti di indagine:  
+(1) In quali parti si divide la lussuria?  
+(2) La semplice fornicazione è un peccato mortale?  
+(3) È il più grave dei peccati?  
+(4) Esiste un peccato mortale nei contatti fisici, nei baci e simili atti di seduzione?  
+(5) L’adulterio notturno è un peccato mortale?  
+(6) Riguardo alla seduzione.
+(7) Riguardo allo stupro.
+(8) Riguardo all’adulterio.
+(9) Riguardo all’incesto.
+(10) Riguardo al sacrilegio.
+(11) Riguardo al peccato contro la natura.
+(12) Riguardo all’ordine di gravità dei suddetti peccati.
 
 <span class="atom-split" data-atom="154" data-title="Whether six species are fittingly assigned to lust?" data-chapter="Whether six species are fittingly assigned to lust?" data-kind="atom" data-srclang="en"></span>
 
@@ -7170,6 +9526,36 @@ venereal act, for instance kisses, touches, and so forth.
 
 Reply to Objection 6: According to a gloss on this passage "lust" there signifies any kind of
 excess.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che sei tipi di comportamenti sessuali siano inappropriatamente attribuiti alla lussuria, ovvero “la semplice fornicazione, l’adulterio, l’incesto, la seduzione, lo stupro e il vizio innaturale”. Infatti, la diversità della materia non influisce sulla classificazione dei tipi di comportamenti sessuali. Ora, tale divisione viene effettuata proprio in base alla diversità della materia, considerando se la donna con cui un uomo ha rapporti sessuali sia sposata, vergine o appartenga a qualche altra condizione sociale. Pertanto, sembra che i tipi di comportamenti legati alla lussuria vengano effettivamente differenziati in questo modo.
+
+Obiezione 2: Inoltre, sembra che le diverse forme di un vizio non siano distinte da elementi che appartengono ad altro vizio. L’adulterio, infatti, non si differenzia dalla semplice fornicazione se non per il fatto che l’uomo ha rapporti con una persona che appartiene a un altro, commettendo così un atto ingiusto. Pertanto, sembrerebbe che l’adulterio non debba essere considerato una forma di lussuria.
+
+Obiezione 3: Inoltre, proprio come un uomo può avere rapporti con una donna che è legata a un altro uomo per matrimonio, allo stesso modo può accadere che un uomo abbia rapporti con una donna che è legata a Dio per voto. Pertanto, il sacrilegio dovrebbe essere considerato una forma di lussuria, proprio come l’adulterio.
+
+Obiezione 4: Inoltre, un uomo sposato pecca non solo se si trova con un’altra donna, ma anche se utilizza in modo improprio la propria moglie. Tuttavia, questo secondo tipo di peccato rientra nella categoria della lussuria; pertanto dovrebbe essere considerato una sua specie particolare.
+
+Obiezione 5: Inoltre, l’Apostolo afferma (2 Corinzi 12:21): “Perché non accada che, quando tornerò, Dio mi umili davanti a voi e io debba piangere per molti di loro che hanno peccato in passato e non si sono pentiti delle impurità, della fornicazione e delle pratiche lussuriose che hanno commesso”. Pertanto, sembra che anche le impurità e le pratiche lussuriose debbano essere considerate specie di lussuria, proprio come la fornicazione.
+
+Obiezione 6: Inoltre, la cosa divisa non deve essere considerata tra le sue parti. Ma la lussuria viene considerata insieme alle cose menzionate in precedenza; infatti è scritto (Galati 5:19): “I lavori della carne sono evidenti: fornicazione, impurità, dissolutezza, lussuria”. Pertanto, sembra che la fornicazione venga in modo improprio considerata una specie di lussuria.
+
+Al contrario, la suddetta suddivisione è indicata nei Decretali 36, qu. i [*Appendice di Graziano al canone [Lex](/concepts/law) illa*].
+
+Rispondo che, come già detto sopra (Q[153], A[3]), il peccato di lussuria consiste nel cercare piacere sessuale in modo non conforme alla retta ragione. Ciò può avvenire in due modi: innanzitutto, riguardo al soggetto su cui si cerca tale piacere; in secondo luogo, quando, pur essendo disponibile il soggetto appropriato, non vengono rispettate le circostanze necessarie. Poiché una singola circostanza, di per sé, non determina la natura di un atto morale – la cui specie deriva dall’oggetto dell’atto stesso – ne consegue che la specie del peccato di lussuria debba essere definita in relazione all’oggetto o al soggetto coinvolto. Ora, questo stesso oggetto può essere incompatibile con la retta ragione in due modi: innanzitutto, perché contrario allo scopo legittimo dell’atto sessuale; in tal caso, se tale atto impedisce la procreazione, si tratta di un “vizio contro natura”; se invece ostacola l’educazione e lo sviluppo del bambino nato, si parla di “adulterio” o di altre forme di rapporto sessuale illecito. In secondo luogo, l’oggetto dell’atto sessuale può essere incompatibile con la retta ragione anche in relazione ad altre persone: per quanto riguarda la donna coinvolta, ciò può accadere se non viene rispettata la dovuta dignità; in questo caso si parla di “incesto”. Per quanto riguarda l’altra parte del rapporto, se la donna è sotto la giurisdizione di un marito, si tratta di “adulterio”; se invece è sotto la giurisdizione di suo padre, si parla di “seduzione” (se senza violenza) o di “rapimento” (se vi è violenza). Queste distinzioni vengono fatte in relazione alla donna e non al uomo, poiché nell’atto sessuale la donna svolge un ruolo passivo e rappresenta l’oggetto dell’atto, mentre l’uomo ne è l’agente. Come già accennato sopra (OBJ[1]), tali distinzioni si basano su differenze legate all’oggetto dell’atto stesso.
+
+Risposta all’Obiezione 1: La suddetta diversità della materia è legata a una differenza formale dell’oggetto, differenza che deriva da modi diversi di opposizione alla ragione retta, come già detto in precedenza.
+
+Risposta all’Obiezione 2: Come già detto sopra (FS, Q[18], A[7]), nulla impedisce che le deformità dei diversi vizi concorrano nello stesso atto; in questo modo, l’adulterio rientra sia nella categoria della lussuria che in quella dell’ingiustizia. Inoltre, questa “deformità” dell’ingiustizia non è affatto casuale rispetto alla lussuria: poiché la lussuria che cede alla concupiscenza al punto di portare all’ingiustizia si rivela in tal modo ancora più grave.
+
+Risposta all’Obiezione 3: Poiché una donna, con il voto di castità, conclude un matrimonio spirituale con Dio, lo sacrilegio commesso violando tale voto costituisce un adulterio spirituale. Allo stesso modo, gli altri tipi di sacrilegio legati a desideri lussuriosi possono essere considerati forme diverse di lussuria.
+
+Risposta all’Obiezione 4: Il peccato di un marito con sua moglie non è legato a elementi materiali inappropriati, ma ad altre circostanze che, come già detto, non costituiscono la specifica di un atto morale (FS, Q[18], A[2]).
+
+Risposta all’Obiezione 5: Come afferma un commento su questo passaggio, “impurità” indica la lussuria contraria alla natura, mentre “lascivia” rappresenta l’abuso che un uomo compie nei confronti dei ragazzi, il che sembrerebbe indicare atti di seduzione. Possiamo anche osservare che “lascivia” si riferisce a determinati atti legati all’atto sessuale, come baci, contatti fisici e simili.
+
+Risposta all’Obiezione 6: Secondo un commento su questo passaggio, “lussuria” indica qualsiasi tipo di eccesso.
 
 <span class="atom-split" data-atom="155" data-title="Whether simple fornication is a mortal sin? (1/2)" data-chapter="Whether simple fornication is a mortal sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -7277,6 +9663,30 @@ Reply to Objection 3: Abraham and Jacob went in to their handmaidens with no pur
 fornication, as we shall show further on when we treat of matrimony (XP, Q[65], A[5], ad 2). As
 to Juda there is no need to excuse him, for he also caused Joseph to be sold.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la semplice fornicazione non sia un peccato mortale. Infatti, ciò che rientra nella stessa categoria dovrebbe essere considerato allo stesso livello degli altri elementi della stessa categoria. La fornicazione, però, è inclusa nella stessa categoria di cose che non sono peccati mortali; infatti è scritto (Atti 15:29): “Astenetevi da ciò che è offerto agli idoli, dal sangue, dalle cose soffocate e dalla fornicazione”. Ma, secondo 1 Timoteo 4:4, “Niente di ciò che viene accettato con gratitudine è ritenuto riprovevole”. Pertanto, la fornicazione non è un peccato mortale.
+
+Obiezione 2: Inoltre, nessun peccato mortale riguarda i precetti divini. Tuttavia il Signore comandò (Osea 1:2): “Vai e prenditi una moglie che commetta adulterio, e avrai da lei figli nati dall’adulterio”. Pertanto, l’adulterio non è un peccato mortale.
+
+Obiezione 3: Inoltre, nessun peccato mortale viene menzionato nelle Scritture Sacre senza che venga espresso disapprovamento. Eppure la semplice fornicazione viene menzionata senza disapprovazione nelle Scritture, in relazione ai patriarchi. Leggiamo infatti (Genesi 16:4) che Abramo ebbe rapporti con la sua serva Agar; e successivamente (Genesi 30:5,9) che Giacobbe ebbe rapporti con Bala e Zelfa, le serve delle sue mogli; ancora (Genesi 38:18) che Giuda ebbe rapporti con Tamar, che egli riteneva fosse una prostituta. Pertanto, la semplice fornicazione non è considerata un peccato mortale.
+
+Obiezione 4: Inoltre, ogni peccato mortale è contrario alla carità. Ma la semplice fornicazione non è contraria alla carità, né in relazione all’amore di Dio – poiché non si tratta di un peccato diretto contro Dio – né in relazione all’amore del prossimo, poiché con essa nessuno viene danneggiato. Pertanto, la semplice fornicazione non è un peccato mortale.
+
+Obiezione 5: Inoltre, ogni peccato mortale conduce alla perdizione eterna. Ma la semplice fornicazione non ha tale conseguenza: infatti, un commento di Ambrogio – che in realtà appartiene a Pietro Lombardo, il quale lo cita come detto di Sant’Ambrogio – relativo al versetto 1 Timoteo 4:8 (“La pietà è utile in ogni cosa”) afferma: “L’intera dottrina cristiana si riassume nella misericordia e nella pietà: se un uomo si attiene a queste virtù, anche se cede alle debolezze della carne, senza dubbio sarà punito, ma non perirà.” Pertanto, la semplice fornicazione non è considerata un peccato mortale.
+
+Obiezione 6: Inoltre, [Agostino](/figures/augustine) afferma (De Bono Conjug. xvi) che “quello che il cibo è per il benessere del corpo, lo stesso è l’atto sessuale per il bene della specie umana”. Tuttavia, un uso eccessivo del cibo non costituisce sempre un peccato mortale; pertanto, nemmeno tutti gli atti sessuali eccessivi lo sono. Ciò sembrerebbe valere in particolare per la semplice fornicazione, che rappresenta il caso meno grave tra quelli menzionati.
+
+Al contrario, è scritto (Tob. 4:13): “Stai in guardia e tieniti lontano da ogni adulterio. E non tollerare mai di compiere alcun crimine al di fuori della tua moglie”. Ora, il termine “crimine” indica un peccato mortale. Pertanto, l’adulterio e qualsiasi rapporto sessuale con qualcuno diverso dalla propria moglie costituiscono un peccato mortale. Inoltre, solo i peccati mortali escludono una persona dal regno di Dio; l’adulterio, come dimostrano le parole dell’Apostolo (Gal. 5:21), è uno di questi peccati. Quindi, l’adulterio semplice è senz’altro un peccato mortale. Inoltre, si legge nei Decretali (XXII, q. i, can. Praedicandum): “Si debba sapere che lo stesso pentimento deve essere imposto sia per il falso testimonio che per l’adulterio, l’adulterio stesso, l’omicidio volontario e altri reati criminali”. Pertanto, l’adulterio semplice è senz’altro un peccato criminoso o mortale.
+
+Rispondo che, senza alcun dubbio, dobbiamo considerare la semplice fornicazione un peccato mortale, nonostante una glossa di Sant’Agostino (*QQ. in Deut., qu. 37*) su Deuteronomio 23:17 affermi: “Si tratta di un divieto di rapportarsi con prostitute, la cui malvagità è veniale”. Tuttavia, dovrebbe essere detto “malvagia”, poiché tale è proprio lo scopo della condotta di una prostituta. Per rendere ciò evidente, dobbiamo ricordare che ogni peccato commesso direttamente contro la vita umana è un peccato mortale. La semplice fornicazione comporta infatti un’irregolarità che tende a danneggiare la vita del figlio nato da tale unione. Infatti, in tutti gli animali per cui l’educazione della prole richiede la cura sia del maschio che della femmina, questi si uniscono non in modo casuale, ma il maschio a una determinata femmina, sia essa una sola o più; lo stesso vale per tutti gli uccelli. Al contrario, negli animali in cui solo la femmina è sufficiente per l’educazione della prole, l’unione è casuale, come nel caso dei cani e di altri simili animali. È evidente quindi che l’educazione di un bambino umano richiede non solo le cure materne per il suo nutrimento, ma anche quelle del padre, che funge da guida e protettore, e sotto la cui influenza il bambino può svilupparsi sia moralmente che fisicamente. Pertanto, la [natura umana](/axes/human_nature) si ribella contro un’unione casuale tra i sessi e richiede che un uomo si unisca a una donna specifica e rimanga con lei per un lungo periodo di tempo, o addirittura per tutta la vita. Ecco perché, nella specie umana, il maschio prova una naturale cura per la certezza della nascita di un figlio, poiché a lui spetta l’educazione del bambino; questa cura sicuramente scomparirebbe se l’unione tra i sessi fosse casuale. Questa unione con una donna specifica viene chiamata matrimonio; per le ragioni sopra esposte, si dice che appartenga alla [-legge naturale](/positions/natural_law). Tuttavia, poiché l’unione tra i sessi è finalizzata al bene comune di tutta la specie umana, e i beni comuni dipendono dalla legge per essere definiti, come detto in precedenza (FS, Q[90], A[2]), ne consegue che questa unione tra uomo e donna, chiamata matrimonio, è regolamentata da una legge. In cosa consista tale regolamentazione verrà spiegato nella Terza Parte di quest’opera (XP, Q[50], seguenti), dove tratteremo del [sacramento](/concepts/sacrament) del matrimonio. Pertanto, poiché la fornicazione è un’unione casuale tra i sessi, e quindi incompatibile con il matrimonio, essa va contro il bene dell’educazione del figlio e, di conseguenza, è un peccato mortale. Non importa nemmeno se un uomo, dopo aver avuto rapporti sessuali con una donna in modo illegittimo, provveda adeguatamente all’educazione del figlio: poiché ciò che è regolamentato dalla legge viene giudicato in base a quanto accade in generale, e non in base a eventualità particolari.
+
+Risposta all’Obiezione 1: La fornicazione viene considerata in relazione a queste altre pratiche, non perché sia paragonabile ad esse per gravità peccaminosa, ma perché anche queste pratiche erano ugualmente suscettibili di causare dissidi tra Ebrei e Gentili, impedendo loro di raggiungere un accordo unanime. Infatti, tra i Gentili la fornicazione non era ritenuta illegale a causa della corruzione della ragione naturale; gli Ebrei, invece, istruiti dalla [Legge Divina](/concepts/divine_law), la consideravano illegale. Le altre pratiche menzionate erano ripugnanti agli occhi degli Ebrei a causa delle [consuetudini](/concepts/custom) introdotte dalla Legge nella loro vita quotidiana. Per questo motivo gli Apostoli le proibirono ai Gentili, non perché fossero in sé illegali, ma perché erano ripugnanti agli occhi degli Ebrei, come già detto (FS, Q[103], A[4], ad 3).
+
+Risposta all’Obiezione 2: Si afferma che la fornicazione sia un peccato perché è contraria alla retta ragione. Ora, la ragione umana è retta nella misura in cui è guidata dalla Volontà Divina, che rappresenta la regola primaria e suprema. Pertanto, ciò che un uomo compie per volontà di Dio e in obbedienza ai Suoi comandamenti non è contrario alla retta ragione, anche se può sembrarlo rispetto all’ordine generale della ragione umana; allo stesso modo, ciò che avviene miracolosamente per potere divino non è contrario alla natura, anche se contraddice il normale corso delle cose. Quindi, proprio come Abramo non peccò nel voler uccidere suo figlio innocente, poiché obbedì a Dio – anche se in sé tale atto era contrario alla retta ragione umana – allo stesso modo Osea non peccò commettendo fornicazione per ordine di Dio. Inoltre, un simile atto non dovrebbe essere considerato rigorosamente fornicazione, anche se così viene definito rispetto al normale corso delle cose. Per questo Agostino afferma (Confessioni, III, 8): “Quando Dio comanda qualcosa che va contro le usanze o l’accordo di un popolo, anche se prima mai è stato fatto da loro, tale cosa deve essere compiuta”; e aggiunge: “Poiché tra le autorità della società umana quella maggiore deve essere rispettata più della minore, allo stesso modo Dio deve essere considerato superiore a tutte le altre autorità”.
+
+Risposta all’Obiezione 3: Abramo e Giacobbe si avvicinarono alle loro ancelle senza alcuna intenzione di commettere adulterio, come dimostreremo più avanti quando tratteremo del matrimonio (XP, Q[65], A[5], ad 2). Per quanto riguarda Giuda, non c’è bisogno di scusarlo, poiché anche lui fu la causa della vendita di Giuseppe.
+
 <span class="atom-split" data-atom="156" data-title="Whether simple fornication is a mortal sin? (2/2)" data-chapter="Whether simple fornication is a mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: Simple fornication is contrary to the love of our neighbor, because it is
@@ -7296,6 +9706,14 @@ of its genus. It would, however, be a mortal sin, if a man were knowingly to par
 would alter the whole condition of his life, as was the case with Adam.
 Nor is it true that fornication is the least of the sins comprised under lust, for the marriage act
 that is done out of sensuous pleasure is a lesser sin.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 4: La semplice fornicazione è contraria all’amore per il prossimo, poiché è opposta al bene del bambino che nascerà; come abbiamo dimostrato, si tratta di un atto di generazione compiuto in modo dannoso per il futuro bambino stesso.
+
+Risposta all’Obiezione 5: Una persona che, pur dedicandosi ad atti di pietà, cede alla volubilità della carne, è liberata dalla perdita eterna, nella misura in cui tali atti la predispongono ad accettare la grazia del pentimento e perché, con essi, compie una sorta di espiazione per la propria passata incostanza; tuttavia, non è comunque liberata dalla condanna eterna se persiste nella sua volubilità carnale fino alla morte.
+
+Risposta all’Obiezione 6: Un’unica copulazione può portare alla nascita di un uomo; pertanto una copulazione eccessiva, che ostacola il bene del futuro figlio, è un peccato mortale per il genere stesso dell’atto, e non soltanto a causa della sua irregolarità. D’altra parte, un pasto singolo non influisce negativamente sulla vita di una persona; quindi l’atto di gola non è considerato un peccato mortale in sé. Tuttavia, sarebbe un peccato mortale se una persona consumasse consapevolmente cibo che potesse alterare completamente la sua condizione di vita, come avvenne ad Adamo. Inoltre, non è vero che il fornicio sia il peccato meno grave tra quelli legati alla lussuria: l’atto coniugale compiuto soltanto per piacere sensuale rappresenta infatti un peccato minore.
 
 <span class="atom-split" data-atom="157" data-title="Whether fornication is the most grievous of sins?" data-chapter="Whether fornication is the most grievous of sins?" data-kind="atom" data-srclang="en"></span>
 
@@ -7356,6 +9774,24 @@ just as the members of our body are Christ's members, so too, our spirit is one 
 to 1 Cor. 6:17, "He who is joined to the Lord is one spirit." Wherefore also spiritual sins are more
 against Christ than fornication is.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la fornicazione sia il peccato più grave. Infatti, un peccato appare più grave quanto deriva da una maggiore piacere sensuale; e il massimo piacere sensuale si trova nella fornicazione, poiché un commento a 1 Corinzi 7:9 afferma che “la fiamma del piacere sensuale è più intensa nel desiderio sessuale”. Pertanto, sembrerebbe che la fornicazione sia il peccato più grave.
+
+Obiezione 2: Inoltre, un peccato è tanto più grave quanto viene compiuto contro una persona strettamente legata al peccatore stesso; quindi chi colpisce il proprio padre commette un peccato più grave di chi colpisce uno sconosciuto. Ora, secondo 1 Corinzi 6:18, “Chi commette adulterio pecca contro il proprio corpo”, che è la parte della persona strettamente legata a essa. Pertanto, sembrerebbe che l’adulterio sia il peccato più grave di tutti.
+
+Obiezione 3: Inoltre, più grande è un bene, sembra anche più grave il peccato commesso contro di esso. Ora, il peccato della fornicazione appare contrapposto al bene dell’intera umanità, come si è detto nell’articolo precedente; è inoltre contrario a Cristo, secondo 1 Corinzi 6:15: “Dovrei forse prendere i membri di Cristo e farne i membri di una prostituta?” Pertanto, la fornicazione è il peccato più grave di tutti.
+
+Al contrario, Gregorio afferma (Moralia, xxxiii, 12) che i peccati carnali sono meno gravi dei peccati spirituali.
+
+Rispondo che la gravità di un peccato può essere misurata in due modi: innanzitutto in relazione al peccato stesso, e in secondo luogo in relazione a qualche conseguenza o effetto derivante da esso. La gravità di un peccato viene valutata in base al suo genere, che è determinato dal bene contro cui quel peccato si oppone. Ora, la fornicazione è contraria al bene del bambino che nascerà; pertanto, in termini di genere, è un peccato più grave di quelli che sono contrari a beni esterni, come il furto e simili; tuttavia, è meno grave di quei peccati che colpiscono direttamente Dio o che danneggiano la vita di una persona già nata, come l’omicidio.
+
+Risposta all’Obiezione 1: Il piacere sensuale che aggrava un peccato è quello che risiede nell’inclinazione della volontà. Ma il piacere sensuale che deriva dall’appetito sensitivo riduce la gravità del peccato, poiché un peccato diventa meno grave quanto più viene commesso sotto l’impulso di una passione più intensa. È proprio in questo senso che il piacere sensuale più intenso si trova nella fornicazione. Per questo motivo [Agostino](/figures/augustine) afferma (De Agone Christiano, Sermoni ccxciii; ccl de Temp.; vedi Appendice alle opere di Sant’Agostino) che, tra tutte le lotte di un cristiano, quelle per la castità sono le più difficili: si tratta di battaglie quotidiane, ma la vittoria è rara. Inoltre Isidoro dichiara (De Summo Bono ii, 39) che “l’uomo è sottomesso al diavolo dal desiderio carnale più di qualsiasi altra cosa”, poiché l’intensità di questa passione è particolarmente difficile da superare.
+
+Risposta all’Obiezione 2: Si dice che il fornicatore pechi contro il proprio corpo, non soltanto perché il piacere della fornicazione si realizza nel corpo stesso, come avviene anche nell’ingordigia, ma anche perché agisce contro il bene del proprio corpo attraverso decisioni inadeguate e la sua contaminazione, nonché attraverso un rapporto indebito con un altro individuo. Tuttavia, ciò non significa che la fornicazione sia il peccato più grave; infatti, nell’uomo la ragione ha un valore maggiore del corpo, e quindi, se esiste un peccato che si oppone maggiormente alla ragione, esso sarà certamente più grave.
+
+Risposta all’Obiezione 3: Il peccato di fornicazione è contrario al bene della specie umana, in quanto dannoso alla possibilità che un singolo individuo venga concepito e nasca. Ora, colui che è già un membro effettivo della specie umana raggiunge una perfezione maggiore di quella di chi è ancora potenzialmente tale; da questo punto di vista, l’omicidio rappresenta un peccato più grave della fornicazione e di ogni altro tipo di lussuria, poiché si oppone in modo più diretto al bene della specie umana. Inoltre, il bene divino è superiore al bene della specie umana; pertanto anche quei peccati che sono contro Dio sono ancora più gravi. Infine, la fornicazione è un peccato contro Dio, non direttamente – poiché chi la commette non intende offendere Dio – ma indirettamente, nello stesso modo in cui lo sono tutti i peccati mortali. E proprio come i membri del nostro corpo appartengono a Cristo, così anche lo spirito nostro è uno con Cristo, secondo 1 Corinzi 6:17: “Chi è unito al Signore è un solo spirito”. Pertanto anche i peccati spirituali sono più gravi della fornicazione.
+
 <span class="atom-split" data-atom="158" data-title="Whether there can be mortal sin in touches and kisses?" data-chapter="Whether there can be mortal sin in touches and kisses?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is no mortal sin in touches and kisses. For the Apostle
@@ -7403,6 +9839,24 @@ of the human offspring, they proceed from lust, which is the source of this hind
 account they are mortally sinful.
 
 Reply to Objection 3: This argument proves that such things are not mortal sins in their species.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non esistano peccati mortali nei contatti fisici e nei baci. Infatti l’Apostolo dice (Efesini 5:3): “Che la fornicazione, ogni impurità e ogni avarizia non siano nemmeno menzionate tra di voi, come si addice ai santi”; in seguito aggiunge: “Né oscenità” (a cui un commento biblico fa riferimento come “baci e carezze”), “né parole sciocche” (intese come “parole dolci o affettuose”), “né volgarità” (che alcuni chiamano “umorismo”); inoltre prosegue (Efesini 5:5): “Poiché sapete bene che nessun fornicatore, nessuno impuro, nessuno avaro – che è colui che serve gli idoli – avrà eredità nel regno di Cristo e di Dio”. Pertanto non si fa più menzione di oscenità, né di parole sciocche o volgarità. Quindi questi comportamenti non sono considerati peccati mortali.
+
+Obiezione 2: Inoltre, si afferma che la fornicazione sia un peccato mortale poiché dannosa per il bene della procreazione e dell’educazione del futuro bambino. Ma queste cose non vengono influenzate da baci, contatti o lusinghe. Pertanto, in questi casi non esiste alcun peccato mortale.
+
+Obiezione 3: Inoltre, cose che di per sé costituiscono peccati mortali non possono mai essere considerate azioni buone. Tuttavia, baci, contatti fisici e simili possono talvolta essere compiuti senza commettere peccato. Pertanto, essi non sono peccati mortali di per sé.
+
+Al contrario, uno sguardo lussurioso è meno grave di un tocco, di una carezza o di un bacio. Tuttavia, secondo Matteo 5:28, “Chi guarda una donna con desiderio già commette adulterio nei suoi pensieri”. Pertanto, baci lussuriosi e simili atti rappresentano certamente peccati mortali. Inoltre, Cipriano afferma (Ad Pomponem, de Virginibus, Epistola lxii): “Attraverso il loro stesso contatto, le loro lusinghe, i loro dialoghi, i loro abbracci, coloro che partecipano a rapporti privi di onore e vergogna riconoscono apertamente la propria disonorevolezza e il proprio peccato”. Quindi, compiendo tali atti, un uomo commette un crimine, cioè un peccato mortale.
+
+Rispondo che una cosa viene definita peccato mortale in due modi. Primo, in base alla sua stessa natura: un bacio, una carezza o un contatto di questo tipo non implicano per loro stessi un peccato mortale, poiché è possibile compierli senza desiderio lussurioso, sia perché costituiscono la [consuetudine](/concepts/custom) del proprio paese, sia per qualche obbligo o motivo legittimo. Secondo, una cosa viene definita peccato mortale in base alla sua causa: ad esempio, colui che dona l’elemosina allo scopo di indurre qualcuno nell’eresia commette un peccato mortale a causa della sua intenzione corrotta. Come già detto in precedenza (FS, Q[74], A[8]), è un peccato mortale non solo consentire all’atto stesso, ma anche godere del piacere derivante da tale atto. Poiché la fornicazione è un peccato mortale, e ancora di più altre forme di lussuria, ne consegue che anche nel caso di tali peccati, non solo il consenso all’atto stesso, ma anche il godimento del piacere ad esso associato costituiscono un peccato mortale. Pertanto, quando questi baci e carezze vengono compiuti con tale scopo, si tratta effettivamente di peccati mortali; ed è solo in questo senso che possono essere considerati lussuriosi. Quindi, nella misura in cui sono lussuriosi, essi sono anche peccati mortali.
+
+Risposta all’Obiezione 1: L’Apostolo non menziona più queste tre cose perché esse non costituiscono peccati, se non nel contesto relativo a coloro di cui aveva già parlato in precedenza.
+
+Risposta all’Obiezione 2: Sebbene baci e contatti non ostacolino per loro natura il bene della prole umana, derivano dalla lussuria, che è la fonte di tale ostacolo; per questo motivo sono mortalmente peccaminosi.
+
+Risposta all’Obiezione 3: Questo argomento dimostra che tali atti non costituiscono peccati mortali per la loro natura stessa.
 
 <span class="atom-split" data-atom="159" data-title="Whether nocturnal pollution is a mortal sin?" data-chapter="Whether nocturnal pollution is a mortal sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -7549,6 +10003,24 @@ give to the father of the maid fifty sicles of silver, and shall have her to wif
 humbled her, he may not put her away all the days of his life": and this, lest he should prove to
 have married her in mockery, as [Augustine](/figures/augustine) observes. [*QQ. in Dt., qu. xxxiv.]
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la seduzione non debba essere considerata una specie di lussuria. Infatti, secondo i Decretali (XXXVI, qu. 1) [*Appendice Gratiana al canone [Lex illa](/concepts/law)], la seduzione indica la violazione illegale di una vergine. Ma ciò può verificarsi anche tra un uomo non sposato e una donna non sposata, il che rientra nella categoria della fornicazione. Pertanto, la seduzione non dovrebbe essere considerata una specie di lussuria distinta dalla fornicazione.
+
+Obiezione 2: Inoltre, Ambrogio afferma (De Patriarchis, *De Abraham i, 4*): “Che nessuno si lasci ingannare dalle leggi umane: ogni forma di seduzione è adulterio.” Ora, una specie non può essere inclusa in un’altra che sia diversa da essa per opposizione. Pertanto, poiché l’adulterio è una specie di lussuria, sembrerebbe che la seduzione non dovrebbe essere considerata a sua volta una specie di lussuria.
+
+Obiezione 3: Inoltre, infliggere un danno a qualcuno sembrerebbe rientrare nell’ambito dell’ingiustizia piuttosto che della lussuria. Il seduttore, infatti, arreca danno a un altro individuo, cioè al padre della ragazza violata, il quale “può considerare tale danno come rivolto personalmente contro di sé” [*Gratiano, ad can. Lex illa], e può quindi citare in giudizio il seduttore per ottenere un risarcimento. Pertanto, la seduzione non dovrebbe essere considerata una forma di lussuria.
+
+Al contrario, la seduzione consiste propriamente nell’atto sessuale attraverso il quale una vergine viene violata. Pertanto, poiché la lussuria riguarda appunto tali atti, sembrerebbe che la seduzione sia una specie di lussuria.
+
+Rispondo che, quando il vizio presenta una particolare deformità, dobbiamo considerarlo una specie specifica di quel vizio stesso. Ora, la lussuria è un peccato legato alle relazioni sessuali, come già detto sopra (Q[153], A[1]). Una particolare deformità caratterizza inoltre il caso della violazione di una vergine sotto la custodia del padre: da parte della ragazza stessa, che, essendo violata senza alcun precedente accordo matrimoniale, non solo viene impedita di contrarre un matrimonio legittimo, ma viene anche indirizzata verso una vita dissoluta, dalla quale era stata protetta affinché non perdesse il sigillo della sua verginità; e da parte del padre, che ne è il tutore, secondo quanto affermato in Ecclesiaste 42:11: “Guarda attentamente tua figlia dissoluta, affinché non ti faccia diventare oggetto di derisione dei tuoi nemici”. Pertanto, è evidente che la seduzione, che rappresenta la violazione illegale di una vergine mentre ancora sotto la custodia dei suoi genitori, costituisce una specie specifica di lussuria.
+
+Risposta all’Obiezione 1: Sebbene una vergine sia libera dal vincolo del matrimonio, non lo è dalla potestà di suo padre. Inoltre, il sigillo della verginità rappresenta un ostacolo particolare al rapporto sessuale illegittimo, poiché può essere rimosso soltanto attraverso il matrimonio. Pertanto, la seduzione non equivale semplicemente a fornicazione, poiché quest’ultima si riferisce ai rapporti con prostitute, ovvero donne che non sono più vergini, come osserva un commento a 2 Corinzi 12: “E non hanno compiuto penitenza per la loro impurità e la loro fornicazione”, ecc.
+
+Risposta all’Obiezione 2: Qui Ambrogio intende “seduzione” in un altro senso, come termine applicabile in modo generale a qualsiasi peccato di lussuria. Pertanto, con il termine “seduzione”, nelle parole citate, si indica l’atto sessuale tra un uomo sposato e una donna diversa dalla sua moglie. Ciò è chiaro dal fatto che Ambrogio aggiunge: “Né è lecito per l’uomo fare ciò che la moglie non può fare”. Anche in questo senso dobbiamo interpretare le parole del Numeri 5:13: “Se l’adulterio avviene in segreto e non è possibile trovare testimoni, perché la donna non è stata sorpresa nell’atto adulterino, ”.
+
+Risposta all’Obiezione 3: Nulla impedisce che un peccato acquisisca una maggiore deformità quando si unisce a un altro peccato. Il peccato della lussuria, ad esempio, assume una forma ancora più distorta quando si combina con il peccato dell’ingiustizia: in questo caso, la concupiscenza sembra diventare ancora più sfrenata, poiché non si limita a rinunciare all’oggetto del desiderio al solo scopo di evitare un atto ingiusto. In realtà, a tale comportamento sono legati due tipi di ingiustizia: la prima riguarda la vergine, che, pur non essendo violata con la forza, viene comunque sedotta; pertanto il seduttore è tenuto a risarcirla. È per questo scritto (Esodo 22:16-17): “Se un uomo seduce una vergine che non è ancora promessa in sposa e giace con lei, dovrà darle in moglie; se il padre della ragazza rifiuta di concederla, dovrà pagare una dote conforme a quella che le vergini di solito ricevono”. La seconda ingiustizia riguarda il padre della ragazza, verso il quale il seduttore è tenuto a rispondere legalmente. È scritto infatti (Deuteronomio 22:28-29): “Se un uomo trova una vergine che non è promessa in sposa, giace con lei e poi la cosa viene portata davanti al tribunale, colui che ha commesso il peccato dovrà pagare al padre della ragazza cinquanta sicli d’argento e prenderla in moglie; poiché l’ha umiliata, non potrà più lasciarla per tutta la vita”. Questo provvedimento serve a evitare che il matrimonio venga celebrato soltanto a scopo di scherno, come osserva sant’Agostino ([QQ. in Deuteronomio, q. xxxiv.]).
+
 <span class="atom-split" data-atom="161" data-title="Whether rape is a species of lust, distinct from seduction?" data-chapter="Whether rape is a species of lust, distinct from seduction?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that rape is not a species of lust, distinct from seduction. For Isidore
@@ -7621,6 +10093,28 @@ Hence Pope Gelasius says [*Can. Lex illa, xxvii, qu. 2; xxxvi, qu. 1]: "This law
 stated that rape was committed when a maiden, with regard to whose marriage nothing had so far
 been decided, was taken away by force."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che lo stupro non sia una specie di lussuria, distinta dalla seduzione. Infatti Isidoro afferma (Etym. v, 26) che “la seduzione, o lo stupro, in senso proprio, è un rapporto sessuale illecito; prende il suo nome dal fatto che causa corruzione; pertanto colui che commette stupro è considerato un seduttore”. Pertanto, sembrerebbe che lo stupro non debba essere considerato una specie di lussuria distinta dalla seduzione.
+
+Obiezione 2: Inoltre, il rapimento implica chiaramente violenza. Infatti, nei Decretali (XXXVI, q. 1 [*Append. Grat. ad can. [Lex](/concepts/law) illa]) si afferma che “il rapimento avviene quando una fanciulla viene portata via con la forza dalla casa di suo padre, al fine che, dopo essere stata violata, possa essere presa in sposa”. Tuttavia, l’uso della forza è soltanto accidentale rispetto alla lussuria, poiché questa si riferisce essenzialmente al piacere derivante dall’intimità sessuale. Pertanto, sembrerebbe che il rapimento non debba essere considerato una specie specifica di lussuria.
+
+Obiezione 3: Inoltre, il peccato di lussuria viene contenuto dal matrimonio; infatti è scritto (1 Corinzi 7:2): “Per timore della fornicazione, cada ciascuno nella propria moglie”. Ora, lo stupro rappresenta un ostacolo al matrimonio successivo, poiché fu stabilito nel concilio di Meaux: “Decidiamo che coloro che sono colpevoli di stupro, o di rapire o sedurre donne, non debbano sposarle, anche se in seguito lo avessero fatto con il consenso dei loro genitori”. Pertanto, lo stupro non costituisce una specie specifica di lussuria, distinta dalla seduzione.
+
+Obiezione 4: Inoltre, un uomo può conoscere la propria moglie appena sposata senza commettere il peccato di lussuria. Tuttavia, potrebbe commettere violenza sessuale se la portasse via con la forza dalla casa dei suoi genitori e avesse rapporti sessuali con lei. Pertanto, la violenza sessuale non dovrebbe essere considerata una specie specifica di lussuria.
+
+Al contrario, lo stupro è un rapporto sessuale illecito, come afferma Isidoro (Etym. V, 26). Tuttavia, ciò riguarda il peccato della lussuria; pertanto lo stupro rappresenta una forma di lussuria.
+
+Rispondo che il rapimento, nel senso in cui oggi ne parliamo, è una forma di lussuria; a volte coincide con la seduzione, altre volte si verifica rapimento senza seduzione, e ancora altre volte seduzione senza rapimento. Si verifica quando un uomo utilizza la forza per violare illegalmente una vergine. Questa forza può essere impiegata sia contro la vergine che contro suo padre; oppure solo contro il padre, senza interessare la vergine, ad esempio se questa permette di essere portata via con la forza dalla casa del padre. Inoltre, la forza utilizzata nel rapimento può manifestarsi in modi diversi: a volte una ragazza viene portata via con la forza dalla casa dei genitori e violata; altre volte, pur essendo portata via con la forza, non viene violata, ma lo fa di sua volontà, sia attraverso atti di adulterio che attraverso il matrimonio. Le condizioni per definire un rapimento rimangono invariate, indipendentemente dal modo in cui viene utilizzata la forza. Esiste rapimento senza seduzione quando un uomo rapisce una vedova o una donna non vergine; per questo Papa Simmaco afferma nell’[*Epistola v ad Caesarium*; cfr. canone *Raptores xxxvi, qu. 2*]: “Odiamo coloro che rapiscono vedove o vergini, a causa dell’orrendità del loro crimine”. Esiste anche seduzione senza rapimento quando un uomo, senza utilizzare la forza, viola illegalmente una vergine.
+
+Risposta all’Obiezione 1: Poiché lo stupro coincide spesso con la seduzione, talvolta uno dei due termini viene utilizzato per indicare l’altro.
+
+Risposta all’Obiezione 2: L’uso della forza sembrerebbe derivare dall’intensità della concupiscenza; di conseguenza, una persona non esita a mettersi in pericolo utilizzando la violenza.
+
+Risposta all’Obiezione 3: La violenza su una fanciulla promessa in matrimonio deve essere giudicata in modo diverso rispetto a quella commessa su una fanciulla che non è stata promessa. Infatti, la fanciulla promessa in matrimonio deve essere restituita al suo fidanzato, il quale ha diritto su di lei in virtù della promessa: mentre quella che non è stata promessa deve prima essere affidata alle cure del padre, e solo successivamente l’aggressore può sposarla legalmente con il consenso dei genitori. Altrimenti il matrimonio sarebbe illegittimo, poiché chi ruba qualcosa è obbligato a restituirlo. Tuttavia, la violenza non annulla un matrimonio già contratto, anche se rappresenta un ostacolo alla sua validità. Per quanto riguarda il decreto in questione, esso fu emesso per condannare questo crimine ed è stato successivamente abrogato. Pertanto, Gerolamo afferma il contrario: “Nella Sacra Scrittura sono menzionate tre tipi di matrimoni legittimi”, dice, “il primo è quello di una fanciulla casta che viene legalmente data in sposa a un uomo durante la sua verginità; il secondo è quando un uomo trova una fanciulla in città e, con la forza, ha rapporti carnali con lei; se il padre è d’accordo, l’uomo deve dotarla secondo quanto stabilito dal padre e pagare il prezzo della sua purezza [Cfr. Deuteronomio 22:23-29]; il terzo tipo di matrimonio si verifica quando la fanciulla viene presa da un uomo e data a un altro su volontà del padre.” Si può anche interpretare questo decreto come riferito a coloro che sono promessi in matrimonio, soprattutto se la promessa è espressa con parole al presente.
+
+Risposta all’Obiezione 4: L’uomo che è appena sposato possiede, in virtù del fidanzamento, un certo diritto su di lei; pertanto, anche se commette un errore utilizzando la violenza, non è colpevole del reato di stupro. Ecco perché Papa Gelasio afferma nel [*Canone Lex illa*, xxvii, qu. 2; xxxvi, qu. 1]: “Questo diritto stabilito dagli antichi sovrani definiva stupro l’atto con cui una fanciulla la cui unione matrimoniale non era ancora stata decisa veniva rapita con la forza.”
+
 <span class="atom-split" data-atom="162" data-title="Whether adultery is determinate species of lust, distinct from the other species?" data-chapter="Whether adultery is determinate species of lust, distinct from the other species?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that adultery is not a determinate species of lust, distinct from the
@@ -7682,6 +10176,24 @@ whereas the maid is under her father's authority, as one who is to be married by
 Hence the sin of adultery is contrary to the good of marriage in one way, and the sin of seduction
 in another; wherefore they are reckoned to differ specifically. Of other matters concerning adultery
 we shall speak in the Third Part [*XP, Q[59], A[3]; XP, QQ[60],62], when we treat of matrimony.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’adulterio non sia una specie specifica di lussuria, distinta dalle altre. Infatti, l’adulterio prende il proprio nome dal fatto che un uomo ha rapporti sessuali “con una donna che non è sua”, secondo un commento di San Agostino nel Sermone 13, n. 13, sui diversi tipi di lussuria, basato sull’esempio del Vangelo di Matteo 20:14. Ora, una donna che non è “sua” può trovarsi in diverse condizioni: essere vergine, sotto la custodia del padre, prostituta, o altro ancora. Pertanto, sembra che l’adulterio non sia una specie di lussuria distinta dalle altre.
+
+Obiezione 2: Inoltre, Girolamo afferma in [*Contra Jovin. i*: “Non importa per quale motivo un uomo si comporti come se fosse pazzo. Pertanto Sisto il Pitagorico scrive nelle sue Massime: ‘Colui che è insaziabile riguardo alla propria moglie è un adultero’, e allo stesso modo colui che è eccessivamente innamorato di qualsiasi donna’. Ora, ogni tipo di lussuria comporta un amore troppo ardente; pertanto l’adulterio rientra in ogni categoria di lussuria. E quindi non dovrebbe essere considerato una specie particolare di lussuria.”
+
+Obiezione 3: Inoltre, dove esiste lo stesso tipo di deformità, sembrerebbe che esista anche lo stesso tipo di peccato. Ora, evidentemente, nella seduzione e nell’adulterio esiste lo stesso tipo di “deformità”: in entrambi i casi, infatti, una donna viene violata mentre si trova sotto l’autorità di un’altra persona. Pertanto, l’adulterio non rappresenta una specie specifica di lussuria, distinta dalle altre forme di tale peccato.
+
+Al contrario, Papa Leone [*San Agostino, De Bono Conjug. iv; Cfr. Append. Gratiani ad can. Ille autem. xxxii, q. 5] afferma che “l’adulterio è un rapporto sessuale con un altro uomo o donna in violazione del patto matrimoniale, sia per impulso della propria lussuria, sia con il consenso dell’altra parte”. Ciò implica una particolare deformità della lussuria; pertanto, l’adulterio rappresenta una specie specifica di lussuria.
+
+Rispondo che l’adulterio, come il suo nome stesso indica, “consiste nell’approcciarsi al letto coniugale di un’altra persona” [*Cfr. Appendice di Graziano, al canone Ille autem, xxxii, q. 1*]. Commettendo questo atto, un uomo compie due gravi offese contro la castità e contro il bene della procreazione umana. Primo, approcciandosi a una donna che non è sua moglie, ciò è contrario al bene dell’educazione dei propri figli; secondo, approcciandosi a una donna già sposata con un altro uomo, ostacola così il benessere dei figli di quest’ultimo. Lo stesso vale per la donna sposata che viene corrotta dall’adulterio. Per questo motivo si legge nell’Ecclesiastico 23:32-33: “Ogni donna che abbandona il proprio marito commette peccato; innanzitutto, è infedele alla legge del SIGNORE” (poiché vi si comanda: “Non commettere adulterio”); “in secondo luogo, offende il proprio marito, rendendo incerta l’identità dei propri figli”; “in terzo luogo, commette atti di lussuria e dà alla luce figli di un altro uomo, il che è contrario al bene dei suoi stessi figli”. Il primo di questi motivi è comune a tutti i peccati mortali, mentre gli altri due sono specificamente legati alla natura distorta dell’adulterio. È quindi evidente che l’adulterio rappresenti una forma particolare di lussuria, caratterizzata da una distorsione specifica negli atti sessuali.
+
+Risposta all’Obiezione 1: Se un uomo sposato ha rapporti con un’altra donna, il suo peccato può essere definito in due modi: da un lato, in relazione a lui stesso, e in questo caso si tratta sempre di adulterio, poiché il suo comportamento è contrario alla fedeltà coniugale; dall’altro lato, in relazione alla donna con cui ha rapporti; e in questo caso, a seconda delle circostanze, può trattarsi talvolta di adulterio (ad esempio quando un uomo sposato ha rapporti con la moglie di un altro), oppure di seduzione o di qualche altro peccato. Come già accennato in precedenza (A[1]), il tipo di lussuria dipende dalle varie condizioni delle donne coinvolte.
+
+Risposta all’Obiezione 2: Il matrimonio è stato istituito appositamente per il bene della prole umana, come già detto sopra (A[2]). Tuttavia l’adulterio è esattamente ciò che si oppone al matrimonio, in quanto viola la fede coniugale che dovrebbe sussistere tra marito e moglie. Poiché un uomo che ama troppo appassionatamente sua moglie agisce contro il bene stesso del matrimonio se la tratta in modo indecente, anche se non è infedele, si può in qualche senso considerarlo un adultero; e ciò vale ancora di più per colui che ama troppo appassionatamente un’altra donna.
+
+Risposta all’Obiezione 3: La moglie è soggetta all’autorità del marito, poiché unita a lui attraverso il matrimonio; mentre la fanciulla è soggetta all’autorità del padre, in quanto destinata a sposarsi per sua volontà. Pertanto, il peccato di adulterio è contrario al bene stesso del matrimonio in un certo senso, mentre il peccato di seduzione lo è in un altro; per questo motivo vengono considerati distinti tra loro. Di altre questioni relative all’adulterio parleremo nella Terza Parte [*XP, Q[59], A[3]; XP, QQ[60],62], quando tratteremo del matrimonio.
 
 <span class="atom-split" data-atom="163" data-title="Whether incest is a determinate species of lust?" data-chapter="Whether incest is a determinate species of lust?" data-kind="atom" data-srclang="en"></span>
 
@@ -7755,6 +10267,26 @@ to the common good, is subject to law. Wherefore, as Augustine says (De Civ. Dei
 the union of brothers and sisters goes back to olden times, it became all the more worthy of
 condemnation when religion forbade it.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’incesto non sia una specie specifica di lussuria. Infatti, il termine “incesto” deriva dal concetto di privazione della castità; ma tutte le forme di lussuria sono contrarie alla castità. Pertanto, sembrerebbe che l’incesto non sia una particolare forma di lussuria, bensì la lussuria stessa in generale.
+
+Obiezione 2: Inoltre, si afferma nei Decretali (XXXVI, qu. 1 [*Cfr. Append. Grat. ad can. [Lex](/concepts/law) illa]) che “l’incesto è l’atto sessuale tra un uomo e una donna imparentati per consanguineità o affinità”. Ora, l’affinità differisce dalla consanguineità; pertanto non si tratta di una sola, ma di diverse specie di lussuria.
+
+Obiezione 3: Inoltre, ciò che di per sé non implica alcuna deformità non costituisce una specie specifica di vizio. Tuttavia, gli rapporti tra persone legate da consanguineità o affinità non contengono di per sé alcuna deformità; altrimenti tali rapporti non sarebbero mai stati considerati legali. Pertanto, l’incesto non rappresenta una specie specifica di lussuria.
+
+Al contrario, i diversi tipi di lussuria si distinguono in base alle varie condizioni delle donne con le quali un uomo ha rapporti illeciti. L’incesto, in particolare, implica una condizione specifica da parte della donna, poiché si tratta di rapporti illeciti con una donna con cui esiste un legame di consanguineità o affinità, come indicato nell’OBJ[2]. Pertanto, l’incesto rappresenta un tipo determinato di lussuria.
+
+Rispondo che, come già detto sopra (AA[1],6), ovunque si riscontri qualcosa di incompatibile con l’uso corretto delle attività sessuali, deve necessariamente esistere un certo tipo di desiderio sessuale. Ora, il rapporto sessuale con donne imparentate per sangue o affinità è inappropriato per le relazioni sessuali per tre motivi. Primo, perché l’uomo naturalmente deve rispettare i propri genitori e quindi anche gli altri parenti stretti, che discendono dagli stessi genitori; tanto è vero che, come racconta Valerio Massimo nel *Dict. Fact. Memor. ii, 1*, agli antichi non era considerato appropriato che un figlio si bagnasse con suo padre, per evitare che vedessero entrambi nudi. Da quanto detto (Q[142], A[4]: Q[151], A[4]), è evidente che nelle attività sessuali esiste una certa vergogna incompatibile con il rispetto, e proprio per questo gli uomini ne provano imbarazzo; pertanto non è appropriato che tali persone intrattengano rapporti sessuali. Questo motivo sembra essere indicato anche nel Levitico 18:7, dove si legge: “Lei è tua madre, non devi scoprirne la nudità”; lo stesso principio viene ribadito per altre parentele strette.  
+Il secondo motivo è che i parenti per sangue dovrebbero vivere in stretto contatto l’uno con l’altro; se non fossero vietati rapporti sessuali, tali occasioni sarebbero molto frequenti e questo indebolirebbe la mente degli uomini a causa del desiderio sessuale. Per questo motivo, nella Legge Antica (Levitico 18) il divieto era rivolto specificamente a queste persone che vivevano insieme.  
+Il terzo motivo è che ciò impedirebbe a un uomo di avere molti “amici”: infatti, quando un uomo sposa una donna appartenente alla sua stessa famiglia, tutte le sue parenti vengono considerate come suoi amici, quasi fossero dello stesso sangue; per questo motivo Agostino afferma (De Civ. Dei XV, 16): “I requisiti dell’amore fraterno vengono soddisfatti al meglio quando gli uomini si uniscono attraverso i legami di amicizia, in modo da vivere insieme in armonia e rispetto reciproco; non dovrebbe quindi un uomo avere molteplici relazioni con una sola persona, ma ognuno dovrebbe averne una soltanto.” Aristotele aggiunge un altro motivo (Politica II, 2): poiché è naturale che un uomo provi attrazione per una donna della sua stessa famiglia, se a questo si aggiunge l’amore derivante dalle relazioni sessuali, tale desiderio diventerebbe eccessivo e incoraggerebbe il lussurio, il che è contrario alla castità. È quindi evidente che l’incesto rappresenta un tipo specifico di desiderio sessuale inappropriato.
+
+Risposta all’Obiezione 1: Un rapporto illegale tra persone imparentate tra loro sarebbe estremamente dannoso per la castità, sia a causa delle opportunità che tale rapporto offre, sia a causa dell’eccessivo ardore amoroso, come indicato nell’articolo stesso. Per questo motivo, il rapporto illegale tra tali persone viene chiamato “incesto”.
+
+Risposta all’Obiezione 2: Le persone sono collegate da affinità attraverso qualcuno che è legato da consanguineità; pertanto, poiché l’una dipende dall’altra, sia la consanguineità che l’affinità comportano lo stesso tipo di inappropriatità.
+
+Risposta all’Obiezione 3: Esiste qualcosa di essenzialmente inappropriato e contrario alla ragione naturale nell’atto sessuale tra persone legate da vincoli di sangue, ad esempio tra genitori e figli che sono direttamente imparentati tra loro; infatti, i figli naturalmente devono rispetto ai propri genitori. Per questo motivo il Filosofo cita l’esempio di un cavallo (De Animalibus, IX, 47) che, per errore, coprì la propria madre e si gettò giù da un precipizio, come se fosse stato spaventato da ciò che aveva fatto, poiché alcune specie animali possiedono addirittura un rispetto naturale verso coloro che le hanno generate. Non esiste lo stesso grado di inappropriatezza nell’atto sessuale tra persone legate non direttamente da vincoli di sangue, ma attraverso i loro genitori; inoltre, ciò che è appropriato o inappropriato in questo ambito varia a seconda delle [consuetudini](/concepts/custom) e delle leggi umane o divine. Come già detto (A[2]), l’atto sessuale, essendo orientato al bene comune, è soggetto alla legge; pertanto, come afferma Agostino (De Civitate Dei, XV, 16), sebbene l’unione tra fratelli e sorelle risalga ai tempi antichi, divenne ancora più degna di condanna quando la religione la proibì.
+
 <span class="atom-split" data-atom="164" data-title="Whether sacrilege can be a species of lust?" data-chapter="Whether sacrilege can be a species of lust?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sacrilege cannot be a species of lust. For the same species is
@@ -7806,6 +10338,24 @@ may commit a sacrilege by partaking gluttonously of sacred food. Nevertheless, s
 more specially to lust which is opposed to chastity for the observance of which certain persons are
 specially consecrated.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il sacrilegio non possa essere considerato una specie di lussuria. Infatti, la stessa specie non può rientrare sotto generi diversi che non siano tra loro subordinati. Ora, come detto sopra (Q[99], A[2]), il sacrilegio è una specie di irreligione; pertanto, non può essere considerato una specie di lussuria.
+
+Obiezione 2: Inoltre, i Decretali (XXXVI, qu. 1 [*Append. Grat. ad can. [Lex](/concepts/law) illa]) non includono il sacrilegio tra gli altri peccati considerati specie di lussuria. Pertanto, sembrerebbe che il sacrilegio non sia una specie di lussuria.
+
+Obiezione 3: Inoltre, ciò che è offensivo verso una cosa sacra può essere compiuto anche attraverso altri tipi di vizio, oltre che attraverso la lussuria. Tuttavia, il sacrilegio non viene considerato un tipo di gola o di alcun altro vizio simile. Pertanto, nemmeno dovrebbe essere considerato un tipo di lussuria.
+
+Al contrario, [Agostino](/figures/augustine) afferma (De Civ. Dei XV, 16) che “se è malvagio, per avidità, oltrepassare i limiti terreni di uno, quanto più malvagio non è, per desiderio sessuale, trasgredire i confini della morale!” Oltrepassare i limiti terreni in questioni sacre costituisce un peccato di sacrilegio; pertanto, anche sovvertire i confini della morale a causa del desiderio sessuale in ambito sacro è considerato un peccato di sacrilegio. Ma il desiderio sessuale rientra nella categoria dei desideri lussuriosi; quindi, il sacrilegio rappresenta una forma di lussuria.
+
+Rispondo che, come già detto sopra (FS, Q[18], AA[6],7), l’atto di una virtù o di un vizio che è diretto verso lo scopo di un’altra virtù o di un altro vizio assume la specie di quest’ultima; pertanto, il furto commesso al fine dell’adulterio rientra nella specie dell’adulterio stesso. Ora è evidente che, come afferma Agostino (De Virginibus 8), il rispetto della castità, essendo diretto verso la [adorazione](/concepts/religion) di Dio, diventa un atto di religione, proprio come nel caso di coloro che giurano e mantengono la castità. Ne consegue quindi che anche la lussuria, violando qualcosa che riguarda l’adorazione di Dio, appartiene alla specie del sacrilegio; e in questo senso il sacrilegio può essere considerato una forma di lussuria.
+
+Risposta all’Obiezione 1: La lussuria, essendo diretta verso un altro vizio come suo fine, diventa una specie di quel vizio; pertanto, una specie di lussuria può anche essere considerata una specie di irreligione, appartenente a un genere più ampio.
+
+Risposta all’Obiezione 2: L’elenco menzionato include quei peccati che, per loro natura stessa, rientrano tra le specie di lussuria; mentre il sacrilegio è una specie di lussuria nel senso in cui mira a un altro vizio come suo fine e può coincidere con le varie forme di lussuria. L’interazione illegale tra persone unite da un legame spirituale costituisce, infatti, un sacrilegio simile all’incesto; l’interazione con una vergine consacrata a Dio, in quanto sposa di Cristo, rappresenta invece un sacrilegio analogo all’adulterio. Se la fanciulla si trovi sotto l’autorità del padre, il comportamento in questione costituirà seduzione spirituale; se venga impiegata la forza, si tratterà di stupro spirituale, un reato che persino il diritto civile punisce con maggiore severità rispetto agli altri. Come afferma l’Imperatore Giustiniano nel [*Codice i, iii de Episc. et Cler. 5*]: “Se qualcuno osasse tentare una vergine consacrata allo scopo di sposarla, non userò il termine ‘stupro’, ma lo definirò un atto di seduzione; tale individuo sarà punito con la pena di morte”.
+
+Risposta all’Obiezione 3: Il sacrilegio si commette su qualcosa che è stato consacrato. Ora, una cosa consacrata può essere una persona consacrata, desiderata per rapporti sessuali; in questo caso si tratta di un tipo di lussuria. Oppure può essere desiderata per essere posseduta, e in tal caso si tratta di un tipo di ingiustizia. Il sacrilegio può anche rientrare nella categoria dell’[ira](/concepts/anger), ad esempio, se attraverso l’ira viene inflitto danno a una persona consacrata. Inoltre, si può commettere sacrilegio consumando avidamente cibi sacri. Tuttavia, il sacrilegio viene comunemente associato alla lussuria, che è in opposizione alla castità; proprio per la conservazione della castità alcune persone vengono appositamente consacrate.
+
 <span class="atom-split" data-atom="165" data-title="Whether the unnatural vice is a species of lust?" data-chapter="Whether the unnatural vice is a species of lust?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the unnatural vice is not a species of lust. For no mention of
@@ -7845,6 +10395,24 @@ a certain excess in the same matter as the virtue, and therefore is reducible to
 Reply to Objection 3: The lustful man intends not human generation but venereal pleasures.
 It is possible to have this without those acts from which human generation follows: and it is that
 which is sought in the unnatural vice.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il vizio contro natura non sia una specie di lussuria. Infatti, nella lista sopra fornita (A[1], OBJ[1]) non vi è alcuna menzione di questo vizio. Pertanto, non può essere considerato una specie di lussuria.
+
+Obiezione 2: Inoltre, la lussuria è contraria alla virtù; pertanto rientra tra i vizi. Ma il vizio innaturale non viene considerato un vizio, bensì una forma di bestialità, secondo quanto afferma il Filosofo (Etica, vii, 5). Quindi il vizio innaturale non è una specie di lussuria.
+
+Obiezione 3: Inoltre, la lussuria riguarda atti diretti alla generazione umana, come detto sopra (Q[153], A[2]); mentre il vizio innaturale riguarda atti dai quali non può derivare alcuna generazione. Pertanto, il vizio innaturale non è una specie di lussuria.
+
+Al contrario, viene considerata insieme ad altre forme di lussuria (2 Corinzi 12:21), dove leggiamo: “E non avete compiuto penitenza per l’impurità, la fornicazione e la lussuria”; un commento afferma: “La lussuria, cioè il desiderio innaturale”.
+
+Rispondo che, come già detto in precedenza (AA[6],9), ovunque si verifichi un tipo particolare di deformità che renda l’atto sessuale indecoroso, esiste necessariamente un certo tipo di desiderio sessuale. Ciò può accadere in due modi: innanzitutto, quando tale comportamento è contrario alla ragione; questo è caratteristico di tutti i vizi lussuriosi. In secondo luogo, quando tale comportamento va contro l’ordine naturale dell’atto sessuale, come richiesto dalla natura umana; in questo caso si parla di “vizio innaturale”. Ciò può verificarsi in diversi modi: innanzitutto, attraverso atti che causano contaminazione senza alcun rapporto sessuale, al solo scopo di procurare piacere; ciò rientra nel peccato di “impurità”, talvolta definito anche “effemminilità”. In secondo luogo, attraverso rapporti sessuali con individui di specie diversa dall’uomo; questo si chiama “bestialità”. Terzo, attraverso rapporti sessuali tra persone dello stesso sesso; come afferma l’Apostolo (Romani 1:27), ciò è definito “vizio sodomita”. Quarto, attraverso pratiche sessuali che violano il modo naturale di accoppiarsi, sia per quanto riguarda i metodi utilizzati sia per le modalità stesse dell’atto.
+
+Risposta all’Obiezione 1: Lì abbiamo elencato i tipi di lussuria che non sono contrari alla natura umana; pertanto, il vizio innaturale è stato omesso.
+
+Risposta all’Obiezione 2: La bestialità si distingue dal vizio, poiché quest’ultimo è opposto alla virtù umana per un certo eccesso nella stessa materia della virtù stessa; pertanto può essere ricondotto allo stesso genere.
+
+Risposta all’Obiezione 3: L’uomo lussurioso non ha come scopo la procreazione umana, ma i piaceri sessuali. È possibile soddisfare tale desiderio senza compiere quegli atti che portano alla procreazione; ed è proprio questo ciò che viene cercato nella vizio innaturale.
 
 <span class="atom-split" data-atom="166" data-title="Whether the unnatural vice is the greatest sin among the species of lust?" data-chapter="Whether the unnatural vice is the greatest sin among the species of lust?" data-kind="atom" data-srclang="en"></span>
 
@@ -7930,6 +10498,14 @@ continence there are four points of inquiry:
 (3) What is its subject?
 (4) Of its comparison with temperance.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora esaminare i componenti fondamentali della temperanza: (1) la continenza; (2) la clemenza; (3) la modestia. Per quanto riguarda la prima di queste categorie, dobbiamo considerare sia la continenza che l’incontinenza. In merito alla continenza, vi sono quattro punti da analizzare:  
+(1) Se la continenza sia una virtù;  
+(2) Qual ne sia l’oggetto;  
+(3) Chi ne sia il soggetto;  
+(4) Il suo rapporto con la temperanza stessa.
+
 <span class="atom-split" data-atom="168" data-title="Whether continence is a virtue?" data-chapter="Whether continence is a virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that continence is not a virtue. For species and genus are not
@@ -7981,6 +10557,24 @@ Reply to Objection 3: The gloss quoted takes continence in the first sense, as d
 virtue, which refrains not merely from unlawful goods, but also from certain lawful things that are
 lesser goods, in order to give its whole attention to the more perfect goods.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la continenza non sia una virtù. Infatti, specie e genere non sono membri coordinati della stessa classificazione. Ma la continenza è considerata coordinata alla virtù, secondo il Filosofo (Etica, vii, 1,9). Pertanto, la continenza non è una virtù.
+
+Obiezione 2: Inoltre, nessuno pecca utilizzando una virtù, poiché, secondo [Agostino](/figures/augustine) (De Lib. Arb. ii, 18,19), “una virtù è qualcosa che nessuno può utilizzare in modo errato”. Tuttavia, si può peccare anche trattenendosi dal compiere un atto buono: ad esempio, se si desidera fare del bene ma si si trattiene dal farlo. Pertanto, la continenza non è una virtù.
+
+Obiezione 3: Inoltre, nessuna virtù allontana l’uomo da ciò che è legale, ma soltanto da ciò che è illegale; infatti, un commento su Galati 5:23 (“Fede, modestia”, ecc.) afferma che la continenza induce l’uomo a astenersi anche da cose che sono legali. Pertanto, la continenza non è una virtù.
+
+Al contrario, ogni abitudine lodevole sembrerebbe essere una virtù. La continenza, ad esempio, è proprio un tale caso: Andronico, nel suo *De Affectibus*, afferma che “la continenza è un’abitudine che non viene sopraffatta dal piacere”. Pertanto, la continenza è senz’altro una virtù.
+
+Rispondo che la parola “continenza” viene interpretata in modi diversi da diverse persone. Alcuni considerano la continenza come l’astinenza da ogni piacere sessuale; per questo motivo l’Apostolo associa la continenza alla castità (Galati 5:23). In questo senso, la perfetta continenza coincide con la verginità o con la vedovanza. Ciò vale anche per la continenza intesa in questo modo, così come la verginità è considerata una virtù, come abbiamo già affermato (Q[152], A[3]). Altri, invece, intendono la continenza come l’atto di resistere a desideri malvagi che sono forti e intensi in un individuo. In questo senso, il Filosofo parla della continenza nell’Etica (VII, 7), e così essa viene anche utilizzata nelle Concordanze dei Padri della Chiesa (Collat. XII, 10, 11). In questo modo, la continenza ha qualcosa della natura di una virtù, nel senso che la ragione si oppone con fermezza alle passioni per evitare di essere deviata da esse; tuttavia, non raggiunge la perfetta natura di una virtù morale, quella per cui anche i desideri sensuali sono sottomessi alla ragione, in modo che passioni violente e contrarie alla ragione non possano nascere. Per questo motivo il Filosofo afferma (Etica IV, 9) che “la continenza non è una virtù, ma un misto di virtù e difetti”. Tuttavia, se consideriamo la virtù in senso lato, come qualsiasi principio che guidi ad azioni lodevoli, allora possiamo dire che anche la continenza è una virtù.
+
+Risposta all’Obiezione 1: Il Filosofo include la continenza nella stessa categoria della virtù, nel senso che la prima rappresenta una forma di virtù meno completa o meno perfetta.
+
+Risposta all’Obiezione 2: In senso proprio, l’uomo è ciò che è in accordo con la ragione. Pertanto, solo perché un uomo si attiene a ciò che è conforme alla ragione, si può dire che sia moderato nei suoi comportamenti. Ora, tutto ciò che riguarda la distorsione della ragione non è conforme ad essa; quindi, soltanto colui che si attiene a ciò che è in accordo con la retta ragione può essere veramente definito moderato, e non colui che segue una ragione distorta. I desideri malvagi sono infatti contrari alla retta ragione, così come i desideri buoni sono contrari a quella distorta. Pertanto, è propriamente e veramente moderato chi si attiene alla retta ragione, astenendosi dai desideri malvagi; non colui che segue una ragione errata, astenendosi dai desideri buoni: anzi, quest’ultimo dovrebbe piuttosto essere definito ostinato nel male.
+
+Risposta all’Obiezione 3: La spiegazione citata intende la continenza nel primo senso, cioè come una virtù perfetta che si astiene non solo da beni illeciti, ma anche da alcune cose legittime che rappresentano beni di minor valore, al fine di dedicare tutta la propria attenzione ai beni più importanti.
+
 <span class="atom-split" data-atom="169" data-title="Whether desires for pleasures of touch are the matter of continence?" data-chapter="Whether desires for pleasures of touch are the matter of continence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that desires for pleasures of touch are not the matter of continence.
@@ -8007,6 +10601,19 @@ pleasures of touch is not its proper matter.
 Objection 5: Further, among pleasures of touch some are not human but bestial, both as regards
 food---for instance, the pleasure of eating human flesh; and as regards venereal matters---for instance
 the abuse of animals or boys. But continence is not about such like things, as stated in Ethic. vii,
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i desideri legati ai piaceri tattili non rientrino nell’ambito della continenza.  
+Infatti, Ambrogio afferma nel De Officium i, 46: “Il decoro generale, con la sua forma coerente e la perfezione di ciò che è virtuoso, si manifesta in ogni azione attraverso la moderazione”. [*“Continentem”, secondo la lettura di San Tommaso; Sant’Ambrogio scriveva “concinentem = armonioso”*.
+
+Obiezione 2: Inoltre, la continenza prende il proprio nome da un atteggiamento che rappresenta il bene della ragione retta, come detto sopra (A[1], ad 2). Ora, altre passioni allontanano gli uomini dalla ragione retta con maggiore violenza di quanto faccia il desiderio dei piaceri tattili: ad esempio, la paura dei pericoli mortali, che paralizza l’uomo, e la [ira](/concepts/anger), che lo fa comportare come un pazzo, come osserva Seneca in [*De Ira i, 1*. Pertanto, la continenza non riguarda propriamente i desideri dei piaceri tattili.
+
+Obiezione 3: Inoltre, Tully afferma (De Invent. Rhet. ii, 54): “È la temperanza a frenare l’avidità, guidandola con il consiglio della ragione”. Ora, l’avidità viene generalmente intesa come desiderio di ricchezze e non come desiderio di piaceri sensuali; infatti, secondo 1 Timoteo 6:10, “L’avidità è la radice di tutti i mali”. Pertanto, la temperanza non riguarda propriamente i desideri legati ai piaceri sensuali.
+
+Obiezione 4: Inoltre, esistono piaceri legati al tatto non solo nelle pratiche sessuali, ma anche nel mangiare. Tuttavia, la continenza viene solitamente applicata esclusivamente all’uso delle pratiche sessuali. Pertanto, il desiderio di tali piaceri non rientra nella sua vera e propria ambito.
+
+Obiezione 5: Inoltre, tra i piaceri legati al tatto, alcuni non sono umani ma bestiali, sia per quanto riguarda il cibo – ad esempio, il piacere di mangiare carne umana – sia per quanto riguarda le pratiche sessuali – ad esempio, l’abuso di animali o ragazzi. Ma la continenza non ha a che fare con simili cose, come è stato affermato nell’Etica VII.
 
 <span class="atom-split" data-atom="170" data-title="5. Therefore desires for pleasures of touch are not the proper matter of continence." data-chapter="5. Therefore desires for pleasures of touch are not the proper matter of continence." data-kind="atom" data-srclang="en"></span>
 
@@ -8057,6 +10664,22 @@ passions which can be connatural to man. Hence the Philosopher says (Ethic. vii,
 were to lay hold of a child with desire of eating him or of satisfying an unnatural passion whether
 he follow up his desire or not, he is said to be continent [*See A[4]], not absolutely, but relatively."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Al contrario, il Filosofo afferma (Etica vii, 4) che “la continenza e l’incontinenza riguardano le stesse cose della temperanza e dell’intemperanza”. Ora, la temperanza e l’intemperanza riguardano i desideri legati ai piaceri tattili, come detto sopra (Q[141], A[4]). Pertanto, anche la continenza e l’incontinenza riguardano esattamente lo stesso ambito.
+
+Rispondo che la Castità indica, proprio per il suo nome, un certo controllo da parte dell’uomo nel frenare le proprie passioni. Pertanto, si parla propriamente di castità in riferimento a quelle passioni che spingono l’uomo verso la ricerca di qualcosa che, secondo la ragione, dovrebbe essere evitato; mentre non si applica alle passioni come la paura e simili, che rappresentano piuttosto un tipo di ritiro o astinenza. In questi casi, infatti, è lodevole rimanere fedeli a ciò che la ragione prescrive, come già detto in precedenza (Q[123], AA[3],4). È da notare inoltre che le inclinazioni naturali costituiscono le basi di tutte le altre inclinazioni successive, come affermato sopra (FP, Q[60], A[2]). Quindi, più queste inclinazioni naturali vengono seguite, più intensamente le passioni spingono l’uomo verso la realizzazione dei propri desideri. La natura, infatti, tende principalmente verso ciò che è necessario per il proprio mantenimento, sia a livello individuale – come il cibo – che a livello della specie – come gli atti sessuali, i cui piaceri riguardano il senso del tatto. Pertanto, la castità e l’incontinenza si riferiscono propriamente ai desideri legati ai piaceri tattili.
+
+Risposta all’Obiezione 1: Proprio come la temperanza può essere utilizzata in senso generale in relazione a qualsiasi ambito; ma viene applicata in modo appropriato a quei casi in cui è più vantaggioso per l’uomo moderarsi; allo stesso modo, la continenza, nel senso proprio del termine, riguarda quei contesti in cui è più difficile e al contempo più importante trattenersi, ovvero i desideri legati ai piaceri sensoriali. Tuttavia, in senso generale e in modo relativo, può essere applicata anche ad altri ambiti; ed è in questo senso che Ambrogio parla di continenza.
+
+Risposta all’Obiezione 2: In senso proprio, non parliamo di continenza in relazione alla paura, ma piuttosto di fermezza d’animo che la forza d’animo implica. Per quanto riguarda l’[ira](/concepts/anger), è vero che essa genera un impulso a perseguire qualcosa, ma questo impulso deriva da una percezione dell’anima – nel senso in cui un uomo percepisce di essere stato offeso da qualcuno – piuttosto che da un’innata tendenza naturale. Pertanto, si può dire che un uomo sia “continente nell’ira”, ma solo in modo relativo, e non in senso assoluto.
+
+Risposta all’Obiezione 3: I beni esterni, come onori, ricchezze e simili, come afferma il Filosofo (Etica vii, 4), sembrano effettivamente essere oggetti di scelta in sé stessi, ma non perché siano necessari per il mantenimento della natura umana. Pertanto, riguardo a tali cose, parliamo di una persona come moderata o incontrollata non in senso assoluto, ma relativo, aggiungendo che essa è moderata o incontrollata in rapporto alla ricchezza, all’onore e così via. Di conseguenza, Tullio intendeva la moderazione in senso generale, includendovi anche la moderazione relativa; oppure intendeva l’avidità in senso ristretto, come desiderio di piaceri sensuali.
+
+Risposta all’Obiezione 4: I piaceri sessuali sono più intensi dei piaceri legati al gusto; per questo motivo si parla di continenza e incontinenza in riferimento alle questioni sessuali, piuttosto che ai cibi; sebbene, secondo il Filosofo, tali concetti siano applicabili anche in entrambi i casi.
+
+Risposta all’Obiezione 5: La continenza è un bene legato alla ragione umana; pertanto riguarda quelle passioni che possono essere naturali all’uomo. Per questo motivo il Filosofo afferma (Etica, vii, 5) che “se un uomo desiderasse mangiare un bambino o soddisfare una passione innaturale e decidesse di agire secondo tale desiderio, si direbbe che sia continente, non in senso assoluto, ma relativo”.
+
 <span class="atom-split" data-atom="171" data-title="Whether the subject of continence is the concupiscible power?" data-chapter="Whether the subject of continence is the concupiscible power?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the subject of continence is the concupiscible power. For the
@@ -8106,6 +10729,24 @@ subject.
 
 Reply to Objection 3: Although the passions are not in the will as their subject, yet it is in the
 power of the will to resist them: thus it is that the will of the continent man resists desires.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’oggetto della continenza sia la potenza concupiscente. Infatti, l’oggetto di una virtù dovrebbe essere proporzionale alla materia di tale virtù. Ora, come affermato in (A[2]), la materia della continenza sono i desideri per i piaceri tattili, che appartengono appunto alla potenza concupiscente. Pertanto, la continenza risiede nella potenza concupiscente.
+
+Obiezione 2: Inoltre, “Gli opposti si riferiscono alla stessa cosa” (*Categ. viii*). Ma l’incontinenza appartiene al concupiscibile, il cui potere sovrasta la ragione; infatti Andronico afferma nel *De Affectibus* che “l’incontinenza è l’indole malvagia del concupiscibile, attraverso la quale quest’ultimo sceglie piaceri malvagi in disobbedienza alla ragione”. Pertanto anche la continenza appartiene al concupiscibile.
+
+Obiezione 3: Inoltre, l’oggetto di una virtù umana è o la ragione, oppure la potenza appetitiva, che si divide nella volontà, nel concupiscente e nell’irascibile. Ora, la continenza non appartiene alla ragione, poiché in tal caso sarebbe considerata una virtù intellettuale; né appartiene alla volontà, dato che riguarda passioni che non sono sotto il controllo della volontà stessa; né appartiene all’irascibile, perché non riguarda propriamente le passioni appartenenti a questa parte dell’anima, come già detto sopra (A[2], ad 2). Pertanto, si conclude che la continenza appartiene al concupiscente.
+
+Al contrario, ogni virtù che risiede in una determinata facoltà umana elimina l’atto malvagio legato a quella stessa facoltà. Tuttavia, la continenza non elimina l’atto malvagio derivante dalla concupiscenza; infatti, secondo il Filosofo (“Etica”, vii, 9), “l’uomo continente possiede desideri malvagi”. Pertanto, la continenza non appartiene alla facoltà della concupiscenza.
+
+Rispondo che ogni virtù, quando risiede in un soggetto, fa sì che tale soggetto abbia una disposizione diversa da quella che ha quando è soggetto al vizio opposto. Ora, il concupiscibile presenta la stessa disposizione sia nell’uomo continente che in quello incontinente, poiché in entrambi scatena desideri malvagi e intensi. È quindi evidente che la continenza non risieda nel concupiscibile stesso come suo soggetto. Allo stesso modo, anche la ragione presenta la stessa disposizione in entrambi: sia l’uomo continente che quello incontinente possiedono una ragione retta e, quando non sono disturbati dalle passioni, intendono non seguire i propri desideri illeciti. La differenza principale tra loro risiede quindi nella loro scelta: l’uomo continente, pur essendo soggetto a desideri intensi, sceglie di non seguirli grazie alla propria ragione; l’uomo incontinente, invece, sceglie di farlo nonostante la ragione glielo vieti. Pertanto, la continenza deve necessariamente risiedere in quella facoltà dell’anima che ha il compito di scegliere, ovvero nella volontà, come già detto (FS, Q[13], A[1]).
+
+Risposta all’Obiezione 1: La continenza ha per oggetto i desideri legati ai piaceri tattili; non ha il compito di moderarli (questo spetta alla temperanza, che agisce sul concupiscibile), ma quello di resistere a essi. Per questo motivo, la continenza deve appartenere a un’altra facoltà dell’anima, poiché la resistenza implica l’azione di una forza contro un’altra.
+
+Risposta all’Obiezione 2: La volontà si trova tra la ragione e il desiderio; può essere influenzata da entrambi. Nell’uomo continentale è guidata dalla ragione, nell’uomo incontinente dal desiderio. Pertanto, la continenza può essere attribuita alla ragione come alla sua forza motrice principale, mentre l’incontinenza può essere attribuita al potere del desiderio; sebbene entrambi appartengano direttamente alla volontà come loro soggetto proprio.
+
+Risposta all’Obiezione 3: Sebbene le passioni non siano nella volontà come suo soggetto, tuttavia è nel potere della volontà resistervi; ed è proprio per questo che la volontà di un uomo equilibrato riesce a contrastare i desideri.
 
 <span class="atom-split" data-atom="172" data-title="Whether continence is better than temperance?" data-chapter="Whether continence is better than temperance?" data-kind="atom" data-srclang="en"></span>
 
@@ -8161,6 +10802,24 @@ Wherefore the good of reason---on account of which virtue is praised by the very
 not only to the will but also to the concupiscible power, as happens in the temperate man---is shown
 to be greater than if it reach only to the will, as in the case of one who is continent.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la continenza sia migliore della moderazione. Infatti è scritto nell’Ecclesiaste (26:20): “Nessun prezzo è degno di un’anima casta”. Pertanto, nessuna altra virtù può essere paragonata alla continenza.
+
+Obiezione 2: Inoltre, maggiore è la ricompensa che una virtù merita, maggiore è essa stessa. Ora, la castità sembra meritare una ricompensa particolarmente grande; infatti si legge in (2 Timoteo 2:5): “Colui che non lotta con tutte le sue forze per vivere secondo la legge di Dio non riceverà la corona della vita eterna”. L’uomo casto, essendo soggetto a forti desideri malvagi, si sforza molto di più dell’uomo moderato, in cui tali desideri non sono così intensi. Pertanto, la castità è una virtù più grande della moderazione.
+
+Obiezione 3: Inoltre, la volontà è una forza più nobile della concupiscenza. Ma la continenza appartiene alla volontà, mentre la moderazione appartiene alla concupiscenza, come già detto sopra (A[3]). Pertanto, la continenza è una virtù maggiore della moderazione.
+
+Al contrario, Tullio (De Invent. Rhet. ii, 54) e Andronico nel suo *De Affectibus* considerano la continenza come una virtù principale, strettamente legata alla temperanza.
+
+Rispondo che, come già detto sopra (A[1]), la continenza ha un duplice significato. In un senso, indica il rifiuto di ogni piacere sessuale; e se si intende la continenza in questo senso, essa è più preziosa della temperanza considerata in sé stessa, come si può evincere da quanto detto in precedenza (Q[152], A[5]) riguardo alla superiorità della verginità rispetto alla castità considerata in modo assoluto. In un altro senso, la continenza può essere intesa come la resistenza della ragione ai desideri malvagi quando questi sono intensi in una persona; e in questo caso la temperanza è di gran lunga superiore alla continenza, poiché il valore di una virtù deriva da ciò che è in armonia con la ragione. Ora, il bene della ragione si manifesta più pienamente nel uomo temperato che in quello continentale, perché nel primo anche il desiderio sensuale obbedisce alla ragione, essendo in un certo senso domato da essa; mentre nel secondo il desiderio sensuale resiste con forza alla ragione attraverso i suoi impulsi malvagi. Pertanto, la continenza viene paragonata alla temperanza, come ciò che è imperfetto a ciò che è perfetto.
+
+Risposta all’Obiezione 1: Il passaggio citato può essere interpretato in due modi. In primo luogo, nel senso in cui la continenza indica l’astinenza da ogni attività sessuale; in questo caso significa che “nessun prezzo è degno di un’anima casta”, poiché nella categoria della castità, la fecondità fisica ha lo stesso valore della continenza virginale o vedovile, come già affermato sopra (Q[152], AA[4],5). In secondo luogo, può essere inteso nel senso generale in cui la continenza indica qualsiasi astinenza da cose illecite; in questo caso significa che “nessun prezzo è degno di un’anima casta”, poiché il suo valore non può essere misurato in oro o argento, che hanno un valore determinato dal loro peso.
+
+Risposta all’Obiezione 2: La forza o la debolezza della [concupiscenza](/concepts/concupiscence) può derivare da due cause. A volte è dovuta a motivi fisici: alcune persone, per natura, sono più propense alla concupiscenza rispetto ad altre; inoltre, le opportunità di piacere che la alimentano sono più accessibili per alcuni che per altri. Una tale debolezza della concupiscenza riduce il merito, mentre una sua forza lo aumenta. D’altra parte, la debolezza o la forza della concupiscenza possono anche derivare da motivi spirituali lodevoli, come l’intensità della carità o la forza della ragione, nel caso di una persona equilibrata. In questo caso, la debolezza della concupiscenza, a causa del motivo che la determina, aumenta il merito, mentre la sua forza lo riduce.
+
+Risposta all’Obiezione 3: La volontà è più simile alla ragione di quanto lo sia il potere concupiscibile. Pertanto, il bene della ragione – per il quale la virtù viene lodata proprio perché essa influisce non solo sulla volontà ma anche sul potere concupiscibile, come avviene nell’uomo moderato – si rivela essere maggiore di quanto non fosse se influenzasse soltanto sulla volontà, come nel caso di colui che è casto.
+
 <span class="atom-split" data-atom="173" data-title="OF INCONTINENCE (FOUR ARTICLES)" data-chapter="OF INCONTINENCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider incontinence: and under this head there are four points of inquiry:
@@ -8168,6 +10827,14 @@ We must now consider incontinence: and under this head there are four points of 
 (2) Whether incontinence is a sin?
 (3) The comparison between incontinence and intemperance;
 (4) Which is the worse, incontinence in [anger](/concepts/anger), or incontinence in desire?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’incontinenza: e sotto questo aspetto ci sono quattro punti da esaminare:
+(1) Se l’incontinenza riguardi l’anima o il corpo;
+(2) Se l’incontinenza sia un peccato;
+(3) Il confronto tra incontinenza e intemperanza;
+(4) Qual è peggiore, l’incontinenza nell’[ira](/concepts/anger) o quella nel desiderio?
 
 <span class="atom-split" data-atom="174" data-title="Whether incontinence pertains to the soul or to the body?" data-chapter="Whether incontinence pertains to the soul or to the body?" data-kind="atom" data-srclang="en"></span>
 
@@ -8231,6 +10898,24 @@ incontinence, as stated above.
 
 Reply to Objection 3: In the incontinent man concupiscence of the flesh overcomes the spirit,
 not necessarily, but through a certain negligence of the spirit in not resisting strongly.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’incontinenza riguardi non l’anima ma il corpo. Infatti, la diversità sessuale non deriva dall’anima ma dal corpo; e poiché questa diversità sessuale comporta anche una diversità di forme di incontinenza, come afferma il Filosofo nell’Etica vii, 5 (dove si dice che le donne non vengono descritte né come continenti né come incontinenti), ne consegue che l’incontinenza appartiene al corpo e non all’anima.
+
+Obiezione 2: Inoltre, ciò che riguarda l’anima non deriva dal temperamento del corpo. Ma l’incontinenza deriva proprio dal temperamento fisico: infatti il Filosofo afferma (Etica, vii, 7) che “soprattutto le persone di temperamento irascibile o bilioso sono soggette all’incontinenza, ovvero a desideri incontrollati”. Pertanto, l’incontinenza riguarda il corpo.
+
+Obiezione 3: Inoltre, la vittoria riguarda il vincitore e non il vinto. Ora si dice che un uomo sia incontrollato perché “la carne desidera ciò che è contrario allo spirito” e lo sopraffà; pertanto, l’incontinenza riguarda la carne e non l’anima.
+
+Al contrario, l’Uomo si distingue dall’animale soprattutto per quanto riguarda l’anima. Essi differiscono infatti in termini di continenza e incontinenza, poiché non attribuiamo né continenza né incontinenza agli animali, come afferma il Filosofo (Etica, vii, 3). Pertanto, l’incontinenza riguarda principalmente l’anima.
+
+Rispondo che le cose vengono attribuite alle loro cause dirette, e non a quelle che le semplicemente provocano. Ora, ciò che riguarda il corpo è soltanto una causa occasionale di incontinenza; infatti, sono le disposizioni fisiche a permettere che passioni violente sorgano nell’appetito sensibile, che costituisce un potere del corpo organico. Tuttavia, per quanto queste passioni possano essere violente, non costituiscono la causa sufficiente dell’incontinenza, ma soltanto l’occasione di essa; poiché, finché rimane la capacità di utilizzare la ragione, l’uomo è sempre in grado di resistere alle proprie passioni. Se invece queste passioni acquisiscono tale forza da privare completamente l’uomo della capacità di ragionare – come avviene nei casi di persone che perdono la ragione a causa dell’intensità delle loro emozioni – allora le condizioni essenziali per la continenza o per l’incontinenza cessano di esistere, poiché tali individui non sono più in grado di seguire il giudizio della ragione. Da ciò si deduce che la causa diretta dell’incontinenza risiede nell’anima, la quale non riesce a resistere alle passioni attraverso la ragione. Ciò avviene in due modi, secondo il Filosofo (Etica, vii, 7): primo, quando l’anima cede alle passioni prima che la ragione abbia fornito i propri consigli; questo tipo di incontinenza viene chiamato “incontinenza sfrenata” o “impetuosità”. Secondo, quando un uomo non segue i consigli della ragione, a causa di una debole fede nel suo giudizio; in questo caso, tale forma di incontinenza viene definita “debolezza”. È quindi evidente che l’incontinenza riguarda principalmente l’anima.
+
+Risposta all’Obiezione 1: L’anima umana è la forma del corpo e possiede determinate facoltà che utilizzano gli organi fisici. Le funzioni di questi organi contribuiscono, in qualche misura, alle attività dell’anima che si compiono senza l’ausilio di strumenti corporei, ovvero agli atti dell’intelletto e della volontà; infatti, l’intelletto riceve informazioni dai sensi, mentre la volontà è influenzata dalle passioni. Poiché la donna, per quanto riguarda il corpo, presenta un temperamento debole, di conseguenza, nella maggior parte dei casi, ciò a cui si attacca lo fa in modo incerto e debole; sebbene in rari casi possa accadere il contrario, come si legge nel Proverbo 31:10 (“Chi troverà una donna valorosa?”). Inoltre, poiché le cose piccole e deboli vengono spesso considerate “come se non esistessero” ([*Aristotele*, Fisica ii, 5]), il Filosofo parla delle donne come se non possedessero un giudizio razionale fermo; tuttavia, in alcune donne ciò è effettivamente vero. Per queste ragioni, si afferma che “non si può considerare la donna una persona equilibrata e moderata, poiché il suo giudizio è incerto” e che “è facilmente influenzata dalle sue passioni”.
+
+Risposta all’Obiezione 2: È proprio per l’impulso della passione che un uomo agisce immediatamente seguendo i propri desideri, prima ancora che la ragione gli suggerisca di farlo diversamente. Ora, questo impulso può derivare sia dalla sua rapidità, come nelle persone biliose [*Cfr. FS, Q[46], A[5), sia dalla sua intensità, come nei malinconici, i quali, a causa del loro temperamento terrestre, sono particolarmente suscettibili di tali impulsi. D’altra parte, un uomo non riesce ad attenersi a ciò che la ragione gli consiglia, poiché lo fa in modo debole e incerto, a causa della dolcezza del proprio temperamento; questo è quanto abbiamo già osservato riguardo alle donne (ad 1). Lo stesso vale per i temperamenti flemmatici, per le stesse ragioni. Tutti questi fenomeni derivano dal fatto che il temperamento fisico rappresenta una causa occasionale, ma non sufficiente, dell’incontinenza, come già accennato in precedenza.
+
+Risposta all’Obiezione 3: Nell’uomo incontinente, la concupiscenza della carne sopraffà lo spirito, non necessariamente, ma a causa di una certa negligenza da parte dello spirito nel non resistere con forza.
 
 <span class="atom-split" data-atom="175" data-title="Whether incontinence is a sin?" data-chapter="Whether incontinence is a sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -8362,6 +11047,24 @@ concupiscence and sometimes forestalls it. Hence the Philosopher says (Ethic. vi
 more the intemperate man, "because he pursues pleasure without desiring it or with calm," i.e.
 slight desire. "For what would he have done if he had desired it with passion?"
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’uomo incontinente pecchi in modo più grave dell’uomo intemperante. Infatti, a quanto pare, più un uomo agisce contro la propria coscienza, più gravi sono i suoi peccati, secondo Luca 12:47: “Il servo che conosceva la volontà del suo padrone, e non l’ha eseguita, sarà punito con molte frustate”. Ora, l’uomo incontinente sembrerebbe agire contro la propria coscienza in modo più grave dell’uomo intemperante, perché, secondo l’Etica vii, 3, l’uomo incontinente, pur conoscendo quanto siano malvagi i desideri che prova, agisce comunque spinto dalle passioni, mentre l’uomo intemperante ritiene buoni ciò che desidera. Pertanto, l’uomo incontinente pecca in modo più grave dell’uomo intemperante.
+
+Obiezione 2: Inoltre, sembra evidente che più grave è un peccato, più incurabile esso sia; pertanto i peccati contro lo Spirito Santo, essendo i più gravi, vengono dichiarati irperdonabili. Ora, il peccato di incontinenza sembrerebbe essere più incurabile del peccato di intemperanza. Infatti, il peccato di una persona può essere corretto attraverso l’ammonizione e la correzione, elementi che apparentemente non sono efficaci per colui che è incontinente, poiché egli sa di commettere errori eppure continua a farlo; al contrario, per il colpevole di intemperanza sembra invece che ciò che fa sia giusto, quindi anche l’ammonizione potrebbe rivelarsi utile. Pertanto, si potrebbe dedurre che il peccatore incontinente commetta peccati ancora più gravi rispetto a colui che è intemperante.
+
+Obiezione 3: Inoltre, più avidamente l’uomo pecca, più grave è il suo peccato. Ora, colui che è privo di controllo sui propri impulsi pecca con maggiore fervore rispetto a colui che è solo immoderato, poiché la persona incontrollata possiede passioni e desideri intensi che l’immoderato non sempre ha. Pertanto, la persona incontrollata pecca in modo più grave dell’immoderato.
+
+Al contrario, l’impenitenza aggrava ogni peccato; per questo motivo [Agostino](/figures/augustine) afferma (De Verbo Domini, sermone xi, 12,13) che “l’impenitenza è un peccato contro lo Spirito Santo”. Ora, secondo il Filosofo ([Etica], vii, 8), “l’uomo intemperante non ha la tendenza a pentirsi, poiché si attacca alle proprie scelte; invece ogni uomo incontinente è incline al pentimento”. Pertanto, l’uomo intemperante commette peccati più gravi di quello incontinente.
+
+Rispondo che, secondo Agostino nel *De Duab. Anim. x, xi*, il peccato è principalmente un atto della volontà, poiché “è per mezzo della volontà che pecciamo e viviamo rettamente” (*Retract. i, 9*). Pertanto, dove c’è una maggiore inclinazione della volontà al peccato, il peccato stesso è più grave. Nell’uomo intemperante, la volontà tende al peccato per scelta propria, derivante da un’abitudine acquisita attraverso la consuetudine; nell’uomo incontinente, invece, la volontà è spinta al peccato da una passione. Poiché la passione svanisce rapidamente, mentre l’abitudine è “una disposizione difficile da eliminare”, ne consegue che l’uomo incontinente si penta immediatamente dopo che la passione è passata; l’uomo intemperante, invece, non solo non si pente, ma addirittura si rallegra di aver peccato, poiché l’atto peccaminoso è diventato per lui naturale a causa della sua abitudine. Per questo motivo, riguardo a tali persone, si legge nel *Proverbi* 2:14 che “si rallegrano quando compiono il male e gioiscono delle cose più malvagie”. Da ciò consegue che “l’uomo intemperante è molto peggiore dell’uomo incontinente”, come afferma anche il Filosofo nell’*Etica* vii, 7.
+
+Risposta all’Obiezione 1: L’ignoranza nell’intelletto a volte precede l’inclinazione del desiderio e la ne causa; in tal caso, maggiore è l’ignoranza, più essa riduce o addirittura scusa il peccato, poiché lo rende involontario. D’altra parte, l’ignoranza nella ragione a volte segue l’inclinazione del desiderio; in questo caso, maggiore è tale ignoranza, più grave è il peccato, poiché ciò dimostra che l’inclinazione del desiderio è ancora più forte. Sia nell’uomo incontrollato che in quello intemperante, l’ignoranza deriva dal fatto che il desiderio è spinto verso qualcosa, sia da passioni nel primo caso, sia dall’abitudine nel secondo. Tuttavia, nell’intemperante l’ignoranza risulta maggiore rispetto all’incontrollato. Da un punto di vista della durata, nell’incontrollato questa ignoranza persiste soltanto finché dura la passione, proprio come un attacco di febbre intermittente dura finché lo stato umorale è alterato; nell’intemperante, invece, l’ignoranza permane costantemente a causa dell’abitudine consolidata, e per questo viene paragonata a una malattia cronica, come afferma il Filosofo (Etica, vii, 8). Da un altro punto di vista, l’ignoranza dell’intemperante è più profonda riguardo all’oggetto stesso ignorato: nell’incontrollato si tratta di una specifica scelta da compiere in quel momento; nell’intemperante, invece, l’ignoranza riguarda il fine stesso del comportamento, poiché tale persona ritiene che quell’azione sia buona e quindi la segue senza alcun rimorso. Per questo motivo il Filosofo afferma (Etica, vii, 7-8) che “l’incontrollato è migliore dell’intemperante, poiché mantiene il principio più importante, ovvero la corretta valutazione del fine”.
+
+Risposta all’Obiezione 2: La semplice conoscenza non è sufficiente per curare l’uomo incontinente, poiché egli ha bisogno dell’aiuto interiore della grazia, che estingue la concupiscenza, oltre all’applicazione di mezzi esterni come gli avvertimenti e le correzioni, che lo inducono a iniziare a resistere ai propri desideri, affinché la concupiscenza venga indebolita, come detto sopra (Q[142], A[2]). Con gli stessi mezzi si può curare anche l’uomo intemperante; tuttavia, la sua guarigione è più difficile per due ragioni. La prima riguarda la ragione stessa, che è corrotta nella valutazione dell’ultimo fine, e questa corruzione rende più arduo ricondurre l’uomo in errore alla verità; lo stesso vale nelle questioni pratiche, quando si tratta di persone che sbagliano riguardo all’obiettivo da raggiungere. La seconda ragione riguarda l’inclinazione dei desideri: nell’uomo intemperante tale inclinazione deriva da un’abitudine difficile da eliminare, mentre nell’uomo incontinente essa proviene da una passione che, invece, può essere più facilmente repressa.
+
+Risposta all’Obiezione 3: L’ardore della volontà, che aumenta la gravità di un peccato, è maggiore nell’uomo intemperante rispetto a quello incontinente, come spiegato sopra. Tuttavia, l’ardore della concupiscenza nell’appetito sensibile può talvolta essere più intenso nell’uomo incontinente, poiché egli pecca soltanto quando la concupiscenza è violenta; mentre l’uomo intemperante pecca anche di fronte a una concupiscenza lieve e, a volte, la provoca deliberatamente. Per questo il Filosofo afferma (Etica, vii, 7) che si biasima maggiormente l’uomo intemperante, “poiché cerca il piacere senza desiderarlo con passione, cioè con un desiderio lieve”. “Infatti, cosa avrebbe fatto se lo avesse desiderato con intensità?”
+
 <span class="atom-split" data-atom="177" data-title="Whether the incontinent in anger is worse than the incontinent in desire?" data-chapter="Whether the incontinent in anger is worse than the incontinent in desire?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the incontinent in [anger](/concepts/anger) is worse than the incontinent in desire.
@@ -8417,6 +11120,24 @@ for this reason it is more disgraceful.
 
 Reply to Objection 3: This argument considers incontinence with regard to its result.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che colui che è incontrollabile nell’[ira](/concepts/anger) sia peggiore di colui che lo è nel desiderio. Infatti, più difficile è resistere a una passione, meno grave appare l’incontinenza; per questo il Filosofo afferma (Etica vii, 7): “Non è sorprendente, anzi è perdonabile, se una persona viene sopraffatta da piaceri o dolori intensi e irresistibili”. Ora, “come dice Eraclito, è più difficile resistere al desiderio che all’ira” (*Etica ii, 3*). Pertanto, l’incontinenza nel desiderio è meno grave di quella nell’ira.
+
+Obiezione 2: Inoltre, si è del tutto scusati dal peccato quando la passione è così intensa da privare una persona della capacità di giudicare con la ragione, come nel caso di chi perde la ragione a causa di un’emozione violenta. Chi, dunque, è incontrollabile nell’ira mantiene una maggiore capacità di giudizio rispetto a colui che è incontrollabile nei desideri; infatti, “l’ira ascolta in qualche misura la ragione, mentre il desiderio no”, come afferma il Filosofo (Etica, vii, 6). Pertanto, chi è incontrollabile nell’ira è peggiore di colui che è incontrollabile nei desideri.
+
+Obiezione 3: Inoltre, più pericoloso è un peccato, più grave esso è. Ora, l’indisciplina nell’ira sembrerebbe essere ancora più pericolosa, poiché conduce un uomo a un peccato più grave, ovvero all’omicidio; infatti, l’omicidio è un peccato più grave dell’adulterio, verso cui conduce invece l’indisciplina nel desiderio. Pertanto, l’indisciplina nell’ira è più grave dell’indisciplina nel desiderio.
+
+Al contrario, il Filosofo afferma (Etica, VII, 6) che “l’indisciplina nell’ira è meno vergognosa dell’indisciplina nel desiderio”.
+
+Rispondo che il peccato di incontinenza può essere considerato in due modi. Primo, dal punto di vista della passione che porta alla distruzione della ragione: in questo senso, l’incontinenza desiderativa è peggiore dell’incontinenza irascibile, poiché il movimento del desiderio è più sfrenato di quello dell’ira. Ci sono quattro motivi a sostegno di questa tesi, e il Filosofo li indica nell’Etica, VII, 6: innanzitutto, perché il movimento dell’ira contiene in sé un certo elemento razionale, poiché la persona arrabbiata tende a vendicarsi del danno subito, e la ragione indica in questo senso; tuttavia, essa non agisce perfettamente, poiché non sceglie il modo più appropriato per vendicarsi. D’altra parte, il movimento del desiderio è completamente guidato dai sensi e non dalla ragione. In secondo luogo, il movimento dell’ira deriva in gran parte dal temperamento fisico, dovuto alla rapidità dei processi digestivi che inducono l’ira; pertanto, una persona con un temperamento propenso all’ira diventa più facilmente irascibile di una persona con un temperamento incline al desiderio. Di conseguenza, è più comune che i figli di persone irascibili siano anch’essi inclini all’ira, rispetto ai figli di persone inclini al desiderio. Poiché ciò che deriva dal temperamento naturale del corpo può essere considerato meno grave da perdonare. In terzo luogo, l’ira tende ad agire apertamente, mentre il desiderio preferisce nascondersi e insinuarsi di nascosto. Infine, chi è soggetto al desiderio agisce con piacere, mentre la persona arrabbiata agisce come se fosse costretta da un certo dispiacere preesistente. In secondo luogo, il peccato di incontinenza può essere considerato anche in relazione al male che si commette abbandonando la ragione; e in questo senso, l’incontinenza irascibile è generalmente più grave, poiché conduce a comportamenti dannosi per il prossimo.
+
+Risposta all’Obiezione 1: È più difficile resistere costantemente al piacere che alla rabbia, poiché la concupiscenza è un sentimento duraturo. Tuttavia, in quel momento specifico, è ancora più arduo resistere alla rabbia, a causa della sua impulsività.
+
+Risposta all’Obiezione 2: Si afferma che la concupiscenza sia priva di ragione, non nel senso che distrugga completamente il giudizio della ragione, ma perché in nessun modo segue i principi del giudizio razionale; ed è proprio per questo motivo che essa rappresenta una fonte di maggiore disonore.
+
+Risposta all’Obiezione 3: Questo argomento considera l’incontinenza in relazione ai suoi risultati.
+
 <span class="atom-split" data-atom="178" data-title="OF CLEMENCY AND MEEKNESS (FOUR ARTICLES)" data-chapter="OF CLEMENCY AND MEEKNESS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider clemency and meekness, and the contrary vices. Concerning the virtues
@@ -8425,6 +11146,14 @@ themselves there are four points of inquiry:
 (2) Whether each of them is a virtue?
 (3) Whether each is a part of temperance?
 (4) Of their comparison with the other virtues.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la clemenza e la umiltà, nonché i vizi contrari. Per quanto riguarda le virtù stesse, ci sono quattro punti da esaminare:  
+(1) Se la clemenza e l’umiltà siano del tutto identiche;  
+(2) Se ciascuna di esse sia effettivamente una virtù;  
+(3) Se ciascuna faccia parte della temperanza;  
+(4) Il loro confronto con le altre virtù.
 
 <span class="atom-split" data-atom="179" data-title="Whether clemency and meekness are absolutely the same?" data-chapter="Whether clemency and meekness are absolutely the same?" data-kind="atom" data-srclang="en"></span>
 
@@ -8479,6 +11208,24 @@ cruel who have reason for punishing, but lack moderation in punishing." Those wh
 man's punishment for its own sake may be called savage or brutal, as though lacking the human
 feeling that leads one man to love another.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che clemenza e umiltà siano esattamente la stessa cosa. Infatti, secondo il Filosofo (Etica iv, 5), l’umiltà modera la [ira](/concepts/anger). Ora, l’ira è “desiderio di vendetta” (*[Aristotele](/figures/aristotle), Retorica ii, 2]). Poiché la clemenza, come afferma Seneca (De Clementia ii, 3), consiste nella misericordia da parte di chi ha potere nel infliggere punizioni, e poiché la vendetta si realizza attraverso le punizioni, sembrerebbe che clemenza e umiltà siano identiche.
+
+Obiezione 2: Inoltre, Tullio afferma (De Invent. Rhet. ii, 54) che “la clemenza è una virtù mediante la quale l’animo viene moderato dalla gentilezza quando viene irragionevolmente spinto ad odiare qualcuno”, il che sembrerebbe indicare che la clemenza possa attenuare l’odio. Ora, secondo Agostino ([*Epistola ccxi*]), l’odio è causato dall’ira; e proprio questa è l’essenza della umiltà e della clemenza. Pertanto, sembrerebbe che umiltà e clemenza siano esattamente la stessa cosa.
+
+Obiezione 3: Inoltre, lo stesso vizio non si oppone a virtù diverse. Ma lo stesso vizio, ovvero la crudeltà, si oppone alla umiltà e alla clemenza. Pertanto sembrerebbe che umiltà e clemenza siano assolutamente la stessa cosa.
+
+Al contrario, secondo la definizione di Seneca sopra menzionata (“La clemenza è la misericordia da parte di chi ha un rango superiore verso chi ne ha uno inferiore”), la mitezza non riguarda soltanto il rapporto tra chi ha un rango superiore e chi ne ha uno inferiore, ma esiste in ogni relazione tra individui. Pertanto, mitezza e clemenza non sono assolutamente la stessa cosa.
+
+Rispondo che, come affermato nell’Etica ii, 3, una virtù morale riguarda le passioni e le azioni. Le passioni interne, infatti, sono i principi che guidano le azioni esterne, ma possono anche rappresentare ostacoli al loro compimento. Pertanto, le virtù che moderano le passioni contribuiscono, in qualche misura, allo stesso scopo delle virtù che moderano le azioni, sebbene differiscano tra loro per natura. Ad esempio, la giustizia ha il compito di impedire al uomo di commettere furti; tale tendenza è ostacolata dalla liberalità, che limita l’avidità e il desiderio di denaro. In questo caso, la liberalità collabora con la giustizia nel raggiungere lo stesso risultato: l’astinenza dal furto. Lo stesso vale per la rabbia: questa passione spinge talvolta una persona a infliggere punizioni eccessivamente severe; la clemenza, invece, ha il compito di mitigarle, e questo può essere ostacolato da un’ira eccessiva. Quindi, la mansuetudine, nella misura in cui limita l’impeto della rabbia, collabora con la clemenza nello stesso scopo; tuttavia, le due virtù differiscono tra loro: mentre la clemenza modera le punizioni esterne, la mansuetudine attenua direttamente la passione stessa della rabbia.
+
+Risposta all’Obiezione 1: La umiltà riguarda propriamente il desiderio stesso di vendetta; mentre la clemenza riguarda la punizione stessa che viene applicata esteriormente allo scopo di vendicarsi.
+
+Risposta all’Obiezione 2: Le affezioni umane tendono a mitigare ciò che di per sé è sgradevole all’uomo. Quando un uomo ama un altro, non prova piacere nella punizione di quest’ultimo in sé stessa, ma soltanto se essa serve a uno scopo più nobile, come la giustizia o la correzione della persona punita. Pertanto l’amore spinge ad attenuare le punizioni – e questo costituisce un esempio di clemenza – mentre l’odio rappresenta un ostacolo a tale mitigazione. Per questa ragione Tullio afferma che “la mente suscitata dall’odio”, che tende a infliggere punizioni troppo severe, viene “trattenuta dalla clemenza” dal commettere eccessi; in altre parole, la clemenza modera direttamente non l’odio, ma le punizioni stesse.
+
+Risposta all’Obiezione 3: Il vizio della rabbia, che indica un eccesso nella passione dell’ira, è propriamente opposto alla dolcezza, che riguarda direttamente questa stessa passione; mentre la crudeltà indica un eccesso nel punire. Per questo Seneca afferma (De Clementia ii, 4) che “si chiamano crudeli coloro che hanno motivo di punire, ma mancano di moderazione nel farlo”. Coloro che provano piacere nel punire una persona per il semplice gusto di farlo possono essere definiti selvaggi o brutali, come se mancassero del sentimento umano che spinge un individuo ad amare un altro.
+
 <span class="atom-split" data-atom="180" data-title="Whether both clemency and meekness are virtues?" data-chapter="Whether both clemency and meekness are virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that neither clemency nor meekness is a virtue. For no virtue is
@@ -8529,6 +11276,24 @@ clemency differs from equity, as we shall state further on (A[3], ad 1).
 
 Reply to Objection 3: The beatitudes are acts of virtue: while the fruits are delights in virtuous
 acts. Wherefore nothing hinders meekness being reckoned both virtue, and [beatitude](/positions/beatitude) and fruit.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che né la clemenza né l’umiltà siano virtù. Infatti, nessuna virtù si oppone un’altra virtù; tuttavia, sia la clemenza che l’umiltà sembrano contrapporsi alla severità, che è una virtù. Pertanto, né la clemenza né l’umiltà sono virtù.
+
+Obiezione 2: Inoltre, “La virtù viene distrutta sia dall’eccesso che dal difetto” (*Etica, ii, 2*). Ma sia la clemenza che la umiltà consistono in una sorta di riduzione: la clemenza riduce la punizione, mentre l’umiltà riduce l’[ira](/concepts/anger). Pertanto, né la clemenza né l’umiltà sono virtù.
+
+Obiezione 3: Inoltre, la umiltà o la mitezza sono incluse (Matteo 5:4) tra le beatitudini e (Galati 5:23) tra i frutti della virtù. Ora, le virtù differiscono dalle beatitudini e dai frutti della virtù; pertanto, queste ultime non sono incluse tra le virtù stesse.
+
+Al contrario, Seneca afferma (De Clementia ii, 5): “Ogni uomo buono si distingue per la sua clemenza e umiltà.” La virtù, infatti, appartiene propriamente a un uomo buono, poiché “è proprio la virtù che rende il suo possessore buono e anche le sue azioni buone” (Etica ii, 6). Pertanto, clemenza e umiltà sono virtù.
+
+Rispondo che la natura della virtù morale consiste nel sottomettere i desideri alla ragione, come afferma il Filosofo (Etica, I, 13). Ciò si verifica sia nella clemenza che nella umiltà: la clemenza, infatti, nell’attenuare le punizioni, “è guidata dalla ragione”, secondo Seneca (De Clementia, II, 5); l’umiltà, altrettanto, modera la rabbia in base alla ragione retta, come indicato nell’Etica, IV, 5. Pertanto è evidente che sia la clemenza che l’umiltà siano virtù.
+
+Risposta all’Obiezione 1: La umiltà non è direttamente opposta alla severità; infatti, l’umiltà riguarda l’aspetto dell’ira, mentre la severità si riferisce all’applicazione esterna della punizione. Pertanto, sembrerebbe che la severità sia piuttosto opposta alla clemenza, anch’essa legata all’applicazione esterna della punizione, come già detto in precedenza (A[1]). Tuttavia, queste due qualità non sono realmente contrapposte tra loro, poiché entrambe si basano sulla ragione retta. La severità è infatti inflessibile nell’applicare la punizione quando questa è richiesta dalla ragione retta; la clemenza, invece, attenua la punizione sempre secondo la ragione retta, quando e dove ciò sia necessario. Pertanto, non sono contrapposte tra loro, poiché riguardano cose diverse.
+
+Risposta all’Obiezione 2: Secondo il Filosofo (Etica iv, 5), “l’abitudine che limita la rabbia non ha un nome specifico; pertanto questa virtù viene definita in base alla riduzione della rabbia stessa e viene chiamata ‘umiltà’. Infatti, questa virtù è più vicina alla moderazione che all’eccesso, poiché è naturale per l’uomo desiderare vendetta per gli ingiustizie subite, piuttosto che essere privo di tale desiderio; come osserva Sallustio (*Cfr. Q[120]*). Per quanto riguarda la clemenza, essa attenua la punizione non in relazione a ciò che è conforme alla ragione giusta, ma rispetto a ciò che rientra nella legge comune, oggetto della giustizia legale; tuttavia, per motivi particolari, decide di non infliggere ulteriori punizioni. Per questo Seneca afferma (De Clementia ii, 1): ‘La clemenza stabilisce innanzitutto che coloro che vengono liberati siano esentati da ogni ulteriore punizione; la riduzione della pena equivale quindi a un perdono.’ È evidente quindi che la clemenza è correlata alla severità, proprio come l’equità lo è rispetto alla giustizia legale, di cui la severità rappresenta una parte, in quanto riguarda l’applicazione delle punizioni secondo le leggi. Tuttavia, la clemenza si distingue dall’equità, come spiegheremo più avanti (A[3], ad 1)”.
+
+Risposta all’Obiezione 3: Le beatitudini sono atti di virtù; i loro frutti, invece, sono le gioie derivanti da tali atti virtuosi. Pertanto, nulla impedisce che la umiltà venga considerata sia una virtù, sia una [beatitudine](/positions/beatitude), sia il frutto di essa.
 
 <span class="atom-split" data-atom="181" data-title="Whether the aforesaid virtues are parts of temperance?" data-chapter="Whether the aforesaid virtues are parts of temperance?" data-kind="atom" data-srclang="en"></span>
 
@@ -8583,6 +11348,24 @@ all other men" (Ethic. viii, 1). The unsoundness of mind that excludes the use o
 to prudence. But that a man who takes pleasure in the punishment of others is said to be of unsound
 mind, is because he seems on this account to be devoid of the humane feeling which gives rise to
 clemency.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le suddette virtù non facciano parte della temperanza. Infatti, la clemenza attenua la punizione, come detto sopra (A[2]). Tuttavia il Filosofo (Etica v, 10) attribuisce questa caratteristica all’equità, che rientra nella giustizia, come indicato in precedenza (Q[120], A[2]). Pertanto, sembrerebbe che la clemenza non sia una componente della temperanza.
+
+Obiezione 2: Inoltre, la temperanza riguarda le concupiscenze; mentre l’umiltà e la clemenza non si riferiscono alle concupiscenze, ma all’[ira](/concepts/anger) e alla vendetta. Pertanto, non dovrebbero essere considerate parti della temperanza.
+
+Obiezione 3: Inoltre, Seneca afferma (De Clementia ii, 4): “Si può dire che un uomo abbia una mente malata quando trova piacere nella crudeltà”. Questo è in contraddizione con la clemenza e la umiltà. Poiché una mente malata è in contrasto con la prudenza, sembra che la clemenza e l’umiltà siano componenti della prudenza, piuttosto che della temperanza.
+
+Al contrario, Seneca afferma (De Clementia ii, 3) che “la clemenza è la moderazione dell’anima nell’esercitare il potere di vendicarsi”. Anche Tullio considera la clemenza parte della moderazione (De Invent. Rhet. ii, 54).
+
+Rispondo che le parti vengono attribuite alle virtù principali nella misura in cui queste ultime vengono imitate in alcuni aspetti secondari, riguardo al modo attraverso il quale la virtù riceve la sua lode e, di conseguenza, anche il suo nome. Così, il modo e il nome della giustizia consistono in una certa “uguaglianza”, quelli della forza d’animo in una certa “resistenza mentale”, quelli della temperanza in una certa “moderazione”, poiché questa virtù reprime le concupiscenze più violente legate ai piaceri sensoriali. Allo stesso modo, la clemenza e l’umiltà consistono anch’esse in una certa moderazione: la clemenza attenua le punizioni, mentre l’umiltà reprime la rabbia, come già detto (AA[1],2). Pertanto, sia la clemenza che l’umiltà sono considerate parti della temperanza, essendo quest’ultima la virtù principale.
+
+Risposta all’Obiezione 1: Per mitigare la punizione, è necessario considerare due aspetti. Il primo riguarda il fatto che la punizione debba essere ridotta in conformità con l’intenzione del legislatore, anche se non necessariamente secondo la lettera della legge; in questo senso, tale misura rientra nell’ambito dell’equità. L’altro aspetto riguarda una certa moderazione nel comportamento interiore di una persona, affinché essa non eserciti eccessivamente il proprio potere di infliggere punizioni; questa moderazione appartiene propriamente alla clemenza. Seneca, infatti, afferma nel “De Clementia” ii, 3 che “la clemenza è la temperanza dell’anima nell’esercitare il potere di vendicarsi”. Questa moderazione deriva da una certa dolcezza d’animo, che spinge una persona a evitare tutto ciò che possa causare dolore agli altri. Per questo motivo Seneca aggiunge che “la clemenza è una sorta di morbidezza dell’anima”; al contrario, sembrerebbe esistere una certa durezza d’animo in chi non teme di causare sofferenza agli altri.
+
+Risposta all’Obiezione 2: L’annessione delle virtù secondarie a quelle principali dipende dal modo in cui tali virtù si manifestano, il quale, per così dire, rappresenta una sorta di “forma” della virtù stessa, e non dalla materia su cui essa si basa. La umiltà e la clemenza, come già detto, condividono lo stesso modo di manifestarsi con la temperanza, anche se non coincidono nella loro materia.
+
+Risposta all’Obiezione 3: “L’insanità” è la corruzione della “sanità”. Proprio come la sanità del corpo viene compromessa quando questo si allontana dalla condizione naturale propria della specie umana, così l’insanità dell’animo deriva dal suo allontanarsi dalla disposizione naturale tipica dell’essere umano. Ciò avviene sia riguardo alla ragione – quando un uomo perde la capacità di pensare razionalmente – che riguardo alle facoltà appetitive, quando una persona perde quel sentimento umano che fa sì che “ogni uomo sia naturalmente amichevole verso tutti gli altri” (Etica, viii, 1). L’insanità dell’animo che impedisce l’uso della ragione è contraria alla prudenza. Ma si dice che una persona che trovi piacere nel punire gli altri abbia un’anima malata, perché in questo modo sembra priva di quel sentimento umano che porta alla clemenza.
 
 <span class="atom-split" data-atom="182" data-title="Whether clemency and meekness are the greatest virtues?" data-chapter="Whether clemency and meekness are the greatest virtues?" data-kind="atom" data-srclang="en"></span>
 
@@ -8650,6 +11433,25 @@ as one looks upon it as affecting oneself, as stated above (Q[30], A[2]): and th
 removing anger that urges to vengeance, and clemency does this through leniency of soul, in so far
 as it judges equitable that a person be no further punished.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la clemenza e la umiltà siano le virtù più grandi. Infatti, una virtù merita lode soprattutto perché conduce l’uomo alla felicità, che consiste nella conoscenza di Dio. Ora, l’umiltà, in particolare, conduce l’uomo verso la conoscenza di Dio: infatti è scritto (Giacomo 1:21): “Con umiltà accettate la parola piantata in voi”, e (Ecclesiaste 5:13): “Siate umili nell’ascoltare la parola” di Dio. Inoltre, Dionigi afferma (Epistola viii a Demofilo) che “Mosè fu ritenuto degno dell’apparizione divina grazie alla sua grande umiltà”. Pertanto, l’umiltà è la più grande delle virtù.
+
+Obiezione 2: Inoltre, sembra che una virtù sia tanto più grande quanto più è accettabile sia per Dio che per gli uomini. Ora, la umiltà pare essere particolarmente accettabile a Dio; infatti è scritto nell’Ecclesiaste (1:34-35): “Ciò che è gradito a Dio sono la fede e l’umiltà”; per questo motivo Cristo ci invita esplicitamente ad essere umili come Lui stesso (Matteo 11:29), dicendo: “Imparate da Me, poiché Sono umile di cuore”; inoltre, Ilario afferma nel suo [*Commento su Matteo 4:3*] che “Cristo dimora in noi attraverso la nostra umiltà d’animo”. Inoltre, l’umiltà è particolarmente accettabile anche dagli uomini; per questo motivo è scritto nell’Ecclesiaste (3:19): “Figlio mio, compi le tue opere con umiltà, e sarai amato più di ogni altra gloria umana”; per questa stessa ragione si afferma anche nel Proverbi (20:28) che il “trono del re è rafforzato dalla clemenza”. Pertanto, l’umiltà e la clemenza sono le virtù più grandi.
+
+Obiezione 3: Inoltre, [Agostino](/figures/augustine) afferma (De Serm. Dom. in Monte i, 2) che “sono umili coloro che si sottomettono alle rimproverazioni e non resistono al male, ma lo superano con il bene”. Ora questo sembra riferirsi alla misericordia o alla pietà, che potrebbero essere considerate le virtù più grandi: infatti, un commento di Ambrogio su 1 Timoteo 4:8 (“La pietà è utile in tutte le cose”) osserva che “la pietà rappresenta l’essenza stessa della religione cristiana”. Pertanto, l’umiltà e la clemenza sono senz’altro le virtù più elevate.
+
+Al contrario, non vengono considerate virtù principali, ma sono associate a un’altra virtù principale.
+
+Rispondo che nulla impedisce a certe virtù di essere le più grandi, non certo in modo assoluto o sotto ogni aspetto, ma in un determinato ambito. È impossibile che la clemenza o la umiltà siano assolutamente le virtù maggiori, poiché il loro valore deriva dal fatto che allontanano l’uomo dal male, mitigando la [ira](/concepts/anger) o le punizioni. Ora, è certamente meglio compiere il bene che evitare il male; pertanto quelle virtù come la fede, la speranza, la carità, nonché la prudenza e la giustizia, che guidano l’uomo verso il bene in modo diretto, sono assolutamente più grandi della clemenza e dell’umiltà.  
+Tuttavia, nulla impedisce a queste ultime di possedere una certa eccellenza tra le virtù che contrastano le inclinazioni malvagie. L’ira, infatti, mitigata dall’umiltà, rappresenta un ostacolo molto grave al giudizio libero dell’uomo sulla verità; per questo motivo l’umiltà rende soprattutto l’uomo padrone di sé. Ecco perché si legge nell’Ecclesiaste (10:31): “Figlio mio, conserva la tua anima nella umiltà”. Tuttavia, i desideri legati ai piaceri sensuali sono più vergognosi e tormentano l’uomo in modo incessante; per questo motivo la temperanza è considerata con maggiore giustizia una virtù principale, come già accennato sopra (Q[141], A[7], ad 2). Per quanto riguarda la clemenza, poiché attenua le punizioni, sembra avvicinarsi di più alla carità, la più grande delle virtù, poiché permette di compiere il bene verso il prossimo e di impedire che commetta il male.
+
+Risposta all’Obiezione 1: La umiltà dispone l’uomo alla conoscenza di Dio, eliminando un ostacolo; e ciò avviene in due modi. Primo, perché rende l’uomo più padrone di sé stesso, mitigando la sua ira, come già detto; secondo, perché l’umiltà impedisce all’uomo di contraddire le parole della verità, cosa che molti fanno a causa dell’ira. Per questo Agostino afferma (De Doctr. Christ. ii, 7): “Essere umili non significa contraddire la Sacra Scrittura, sia che la comprendiamo e essa condanni i nostri cattivi comportamenti, sia che non la comprendiamo, come se potessimo conoscere meglio e avere una visione più chiara della verità”.
+
+Risposta all’Obiezione 2: La umiltà e la clemenza ci rendono accettabili sia a Dio che agli uomini, nella misura in cui concorrono con la carità, la più grande delle virtù, nell’attuare lo stesso scopo, ovvero il mitigare i mali altrui.
+
+Risposta all’Obiezione 3: La misericordia e la pietà concordano effettivamente con l’umiltà e la clemenza, poiché mirano entrambe allo stesso scopo, ovvero al mitigare i mali del nostro prossimo. Tuttavia, differiscono per il loro movente: la pietà allevia il male altrui attraverso il rispetto verso un’autorità superiore, come Dio o i genitori; la misericordia, invece, agisce perché quel male è spiacevole a colui che lo osserva, in quanto lo ritiene potenzialmente dannoso per sé stesso (come indicato nella domanda Q[30], risposta A[2]); tale atteggiamento deriva dall’[amicizia](/concepts/friendship), che spinge gli amici a gioire o a soffrire per le stesse cose. L’umiltà raggiunge lo stesso scopo eliminando l’ira che spinge alla vendetta, mentre la clemenza lo fa attraverso una mentalità tollerante, ritenendo giusto non punire ulteriormente una persona.
+
 <span class="atom-split" data-atom="183" data-title="OF ANGER (EIGHT ARTICLES)" data-chapter="OF ANGER (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider the contrary vices: (1) [Anger](/concepts/anger) that is opposed to meekness; (2) Cruelty
@@ -8662,6 +11464,18 @@ that is opposed to clemency. Concerning anger there are eight points of inquiry:
 (6) Whether anger is a capital vice?
 (7) Of its daughters;
 (8) Whether it has a contrary vice?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare i vizi contrari: (1) l’[Rabbia](/concepts/anger), che è opposta alla umiltà; (2) la crudeltà, che è opposta alla clemenza. Per quanto riguarda la rabbia, ci sono otto punti da esaminare:  
+(1) È lecito essere arrabbiati?  
+(2) La rabbia è un peccato?  
+(3) È un peccato mortale?  
+(4) È il più grave dei peccati?  
+(5) Quali ne sono i tipi?  
+(6) La rabbia è un vizio capitale?  
+(7) Quali ne sono le conseguenze negative?  
+(8) Esiste un vizio contrario alla rabbia?
 
 <span class="atom-split" data-atom="184" data-title="Whether it is lawful to be angry?" data-chapter="Whether it is lawful to be angry?" data-kind="atom" data-srclang="en"></span>
 
@@ -8736,6 +11550,28 @@ be altogether likened to Him in the mode of our desire, since in God there is no
 as in us, the movement of which has to obey reason. Wherefore Gregory says (Moral. v, 45) that
 "anger is more firmly erect in withstanding vice, when it bows to the command of reason."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia lecito arrabbiarsi. Infatti, Gerome, nella sua spiegazione di Matteo 5:22 (“Chi si arrabbia con suo fratello”, ecc.), afferma: “Alcuni codici aggiungono ‘senza motivo’. Tuttavia, nei codici autentici la frase è formulata in modo assoluto, e l’[arrabbiarsi](/concepts/anger) viene completamente proibito”. Pertanto, non è affatto lecito arrabbiarsi.
+
+Obiezione 2: Inoltre, secondo Dionigi di Alessandria (Divinum Nomina iv), “il male dell’anima consiste nel mancare di ragione”. Ora, l’ira è sempre priva di ragione: il Filosofo afferma infatti (Etica vii, 6) che “l’ira non ascolta perfettamente la ragione”; Gregorio Naziano aggiunge (Morali v, 45) che “quando l’ira perturba la tranquillità dell’anima, la distrugge e la devasta con la sua violenza”; Cassiano di Sinope conclude (De Institutione Caenobiticae viii, 6): “Qualunque ne sia la causa, la passione irata trabocca e offusca la ‘vista’ della mente”. Pertanto, essere arrabbiati è sempre un male.
+
+Obiezione 3: Inoltre, l’ira è “desiderio di vendetta” secondo un commento a Levitico 19:17 (“Non odiare il tuo fratello nel tuo cuore”). Sembra quindi illegittimo desiderare la vendetta, poiché tale compito dovrebbe essere lasciato a Dio, come affermato in Deuteronomio 32:35 (“La vendetta è mia”). Pertanto, sembrerebbe che essere arrabbiati sia sempre un male.
+
+Obiezione 4: Inoltre, tutto ciò che ci allontana dall’assomiglianza a Dio è male. L’ira, infatti, ci allontana sempre dall’assomiglianza a Dio, poiché Dio giudica con tranquillità, secondo il Proverbi 12:18. Pertanto, arrabbiarsi è sempre un male.
+
+Al contrario, Crisostomo [*Hom. xi nell’Opus Imperfectum, falsamente attribuito a San Giovanni Crisostomo*] afferma: “Colui che si arrabbia senza motivo è in pericolo; ma colui che si arrabbia per un motivo valido non è in pericolo: infatti, senza rabbia, l’insegnamento sarebbe inutile, i giudizi incerti e i crimini impuniti.” Pertanto, arrabbiarsi non è sempre un male.
+
+Rispondo che, per definizione, la rabbia è un’emozione legata all’appetito sensibile e da essa deriva il nome della disposizione irascibile, come già accennato in precedenza (FS, Q[46], A[1]) quando trattavamo delle emozioni. Ora, riguardo alle emozioni dell’anima, si deve osservare che il male può manifestarsi in esse in due modi: innanzitutto a causa della stessa natura dell’emozione, che deriva dall’oggetto su cui essa si concentra. Ad esempio, l’invidia, per la sua essenza stessa, rappresenta un male, poiché consiste in un dispiacere per il bene altrui, e tale dispiacere è in sé contrario alla ragione; come afferma il Filosofo (Etica, ii, 6): “Il solo menzionare l’invidia indica già qualcosa di male”. Questo, tuttavia, non vale per la rabbia, che rappresenta il desiderio di vendetta: la vendetta può essere desiderata sia in modo giusto che in modo errato. In secondo luogo, il male può manifestarsi anche nella quantità dell’emozione, cioè nel suo eccesso o nella sua mancanza; quindi la rabbia può essere considerata un male quando si esprime in misura maggiore o minore di quanto richieda la ragione. Ma se la rabbia è espressa in conformità con la ragione, allora merita lode.
+
+Risposta all’Obiezione 1: Gli Stoici definivano la rabbia e tutte le altre passioni emozioni contrarie all’ordine della ragione; per questo motivo ritenevano che la rabbia e le altre passioni fossero cattive, come già accennato in precedenza (FS, Q[24], A[2]) quando trattavamo delle passioni. È in questo senso che Girolamo considera la rabbia: parla infatti della rabbia che spinge una persona a infuriarsi contro il proprio prossimo con l’intenzione di fargli del male. Tuttavia, secondo i Peripatetici – il cui punto di vista tende ad essere condiviso da Agostino (De Civ. Dei ix, 4) – la rabbia e le altre passioni dell’anima sono movimenti dell’appetito sensibile, che siano moderati o meno, e in questo senso non sono sempre cattive.
+
+Risposta all’Obiezione 2: L’ira può avere due tipi di relazione con la ragione. In primo luogo, in modo antecedente: in questo caso, l’ira distoglie la ragione dalla sua rettitudine e quindi possiede il carattere del male. In secondo luogo, in modo consequenziale: poiché l’impulso dell’appetito sensibile è diretto contro il vizio e in accordo con la ragione, tale ira è buona e viene chiamata “ira zelosa”. Per questo motivo Gregorio afferma (Moralia, V, 45): “Dobbiamo fare attenzione affinché, quando utilizziamo l’ira come strumento di virtù, essa non prevarrà la mente e non agisca come sua padrona, ma segua invece le indicazioni della ragione, pronta sempre ad obbedire come sua serva”. Quest’ultima forma di ira, sebbene ostacoli in qualche modo il giudizio della ragione nell’esecuzione dell’atto, non distrugge la rettitudine stessa della ragione. Pertanto Gregorio aggiunge (Moralia, V, 45) che “l’ira zelosa disturba ‘l’occhio’ della ragione, mentre l’ira peccaminosa la acceca”. Inoltre, non è incompatibile con la virtù il fatto che la riflessione della ragione venga interrotta nell’esecuzione di ciò che essa stessa ha deciso: infatti anche un’arte verrebbe ostacolata nel suo compito se dovesse continuare a riflettere su ciò che deve fare mentre deve già agire.
+
+Risposta all’Obiezione 3: È illegale desiderare la vendetta quando essa è considerata un male per colui che deve essere punito; tuttavia, è lodevole desiderarla come mezzo per correggere i vizi e a beneficio della giustizia. A questo scopo, il desiderio umano può orientarsi, nella misura in cui viene guidato dalla ragione; inoltre, quando la vendetta viene attuata secondo l’ordine della giustizia, essa diventa un atto di Dio, poiché colui che ha il potere di punire “è ministro di Dio”, come affermato in Romani 13:4.
+
+Risposta all’Obiezione 4: Possiamo e dobbiamo essere simili a Dio nel desiderio del bene; ma non possiamo essere completamente paragonati a Lui nel modo in cui esprimiamo tale desiderio, poiché in Dio non esiste un appetito sensibile, come nel nostro caso, il cui agire deve obbedire alla ragione. Per questo motivo Gregorio afferma (Moralia, v, 45) che “l’ira si oppone con maggiore determinazione al vizio quando si sottomette all’ordine della ragione”.
+
 <span class="atom-split" data-atom="185" data-title="Whether anger is a sin?" data-chapter="Whether anger is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) is not a sin. For we demerit by sinning. But "we do not
@@ -8798,6 +11634,30 @@ Reply to Objection 4: The irascible power in man is naturally subject to his rea
 its act is natural to man, in so far as it is in accord with reason, and in so far as it is against reason,
 it is contrary to man's nature.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’[ira](/concepts/anger) non sia un peccato. Infatti, noi accumuliamo demeriti commettendo peccati; ma “non accumuliamo demeriti a causa delle passioni, né subiamo conseguenze negative a causa di esse”, come affermato nell’Etica ii, 5. Pertanto, nessuna passione è un peccato. Ora, l’ira è una passione, come detto sopra (FS, Q[46], A[1]) nel trattato sulle passioni. Quindi, l’ira non è un peccato.
+
+Obiezione 2: Inoltre, in ogni peccato c’è una trasformazione verso qualche bene mutabile. Ma nell’ira non si verifica tale trasformazione verso un bene mutabile, bensì verso il male di una persona. Pertanto, l’ira non è un peccato.
+
+Obiezione 3: Inoltre, “Nessuno pecca in ciò che non può evitare”, come afferma [Agostino](/figures/augustine) in [*De Lib. Arb. iii, 18*]. Ma l’uomo non può evitare la rabbia; infatti, un commento al Salmo 4:5 (“Siate arrabbiati, ma non peccate”) dice: “Il moto della rabbia non è sotto il nostro controllo”. Inoltre, il Filosofo afferma (Etica vii, 6) che “l’uomo arrabbiato agisce con dispiacere”, e il dispiacere è contrario alla volontà. Pertanto, la rabbia non è un peccato.
+
+Obiezione 4: Inoltre, il peccato è contrario alla natura, secondo Damasceno (*De Fide Orth. ii, 4,30*). Ma non è contrario alla natura umana arrabbiarsi, e l’arrabbiarsi rappresenta un atto naturale di una determinata facoltà, ovvero quella irascibile; per questo Girolamo afferma in una lettera (*Ep. xii ad Anton. Monach.*) che “l’essere arrabbiati è una caratteristica propria dell’uomo”. Pertanto, non è un peccato arrabbiarsi.
+
+Al contrario, l’Apostolo dice (Efesini 4:31): “Lasciate che ogni ira e furia, vengano eliminate da voi”.
+
+Rispondo che la Rabbia, come già detto in precedenza (A[1]), è propriamente il nome di una passione. Una passione dell’appetito sensibile è buona nella misura in cui è regolata dalla ragione; al contrario, diventa cattiva quando sovverte l’ordine della ragione. Ora, l’ordine della ragione riguardo alla rabbia può essere considerato in relazione a due aspetti:  
+In primo luogo, in relazione all’oggetto verso cui la rabbia si dirige, ovvero la vendetta. Se il desiderio di vendetta segue l’ordine della ragione, tale desiderio è lodevole e viene chiamato “rabbia giusta” [*Cfr. Gregorio Magno, Morali v, 45*]. Al contrario, se si desidera la vendetta in modo contrario all’ordine della ragione – ad esempio, punendo qualcuno che non l’ha meritata, o oltre i suoi meriti, oppure contravvenendo alle leggi stabilite o al fine legittimo di mantenere la giustizia e correggere gli errori – allora tale desiderio è peccaminoso e viene chiamato “rabbia peccaminosa”.  
+In secondo luogo, l’ordine della ragione riguardo alla rabbia può essere considerato anche in relazione al modo in cui essa deve manifestarsi: il moto della rabbia non dovrebbe essere eccessivamente violento, né interiormente né esteriormente. Se questa condizione viene trasgredita, la rabbia rimarrà comunque peccaminosa, anche se si desidera una vendetta giusta.
+
+Risposta all’Obiezione 1: Poiché una passione può essere regolata o non regolata dalla ragione, ne consegue che, considerata in sé stessa, essa non include il concetto di merito o demerito, né quello di lode o biasimo. Tuttavia, quando è regolata dalla ragione, può rivelarsi meritevole e degna di lode; al contrario, se non è regolata dalla ragione, può essere considerata indegna e meritevole di biasimo. Per questo motivo il Filosofo afferma (Etica, ii, 5) che “è colui che si arrabbia in un certo modo ad essere lodato o biasimato”.
+
+Risposta all’Obiezione 2: L’uomo arrabbiato desidera il male altrui non per il male stesso, ma per motivi di vendetta; in questo caso, il suo desiderio si orienta verso qualcosa che considera un “bene” mutabile.
+
+Risposta all’Obiezione 3: L’uomo è padrone delle proprie azioni grazie al giudizio della sua ragione; pertanto, per quanto riguarda quei movimenti che precedono tale giudizio, non è in potere dell’uomo impedirli completamente, cioè far sì che nessuno di essi si verifichi. Sebbene la ragione possa frenare ogni singolo di questi movimenti qualora si manifestino, il moto dell’ira, in quanto tale, non è interamente sotto il controllo dell’uomo, nel senso che non è possibile impedirne del tutto l’insorgere. Tuttavia, poiché questo moto è in parte sotto il suo controllo, non è necessariamente peccaminoso se esce dai limiti della moderazione. L’affermazione del Filosofo secondo cui “l’uomo arrabbiato agisce con dispiacere” significa che egli prova dispiacere non per il fatto di essere arrabbiato, ma per il danno che ritiene di aver subito; ed è proprio questo dispiacere a spingerlo alla ricerca della vendetta.
+
+Risposta all’Obiezione 4: La forza irascibile nell’uomo è naturalmente soggetta alla sua ragione; pertanto, il suo operare è conforme alla natura umana quando è in accordo con la ragione, mentre è contrario alla natura umana quando va contro di essa.
+
 <span class="atom-split" data-atom="186" data-title="Whether all anger is a mortal sin?" data-chapter="Whether all anger is a mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all [anger](/concepts/anger) is a mortal sin. For it is written (Job 5:2): "Anger
@@ -8845,6 +11705,24 @@ mortal sin.
 
 Reply to Objection 3: In the case where anger is contrary to charity, it is a mortal sin, but it is
 not always so, as appears from what we have said.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che ogni forma di [rabbia](/concepts/anger) sia un peccato mortale. Infatti è scritto (Giobbe 5:2): “La rabbia uccide l’uomo stolto”, e qui si parla dell’uccisione spirituale, da cui il peccato mortale prende il suo nome. Pertanto, ogni forma di rabbia è un peccato mortale.
+
+Obiezione 2: Inoltre, solo il peccato mortale merita una condanna eterna. Ora, l’ira merita senz’altro una condanna eterna; poiché il nostro Signore disse (Matteo 5:22): “Chi si adira contro suo fratello è esposto al pericolo del giudizio”; e un commento su questo passaggio afferma che “le tre cose menzionate, ovvero il giudizio, il consiglio e l’inferno, indicano in modo preciso diversi destini nell’eterno castigo, corrispondenti ai vari peccati”. Pertanto, l’ira è un peccato mortale.
+
+Obiezione 3: Inoltre, tutto ciò che è contrario alla carità è un peccato mortale. Ora, l’ira è di per sé contraria alla carità, come dichiara Gerolamo nel suo commento su Matteo 5:22: “Chi si arrabbia con suo fratello”, ecc., dove afferma che ciò sia contrario all’amore del prossimo. Pertanto, l’ira è un peccato mortale.
+
+Al contrario, un commento al Salmo 4:5, “Siate arrabbiati, ma non peccate”, afferma: “L’ira è un peccato minore se non si traduce in azioni concrete”.
+
+Rispondo che l’impulso dell’ira può essere eccessivo e peccaminoso in due modi, come già detto sopra (A[2]). Primo, riguardo all’oggetto desiderato: ad esempio, quando si desidera una vendetta ingiusta; in questo caso l’ira è un peccato mortale per natura, poiché è contraria alla carità e alla giustizia. Tuttavia, tale impulso può rivelarsi un peccato veniale a causa dell’imperfezione dell’atto compiuto: questa imperfezione può derivare sia dal soggetto che desidera vendicarsi – ad esempio, quando l’ira ostacola il giudizio della ragione – sia dall’oggetto stesso della vendetta, come nel caso in cui si desidera vendicarsi per una questione insignificante. In tal caso, anche se si passasse all’azione, non si tratterebbe di un peccato mortale; ad esempio, tirare leggermente i capelli a un bambino o compiere un atto simile. Secondo, l’impulso dell’ira può essere eccessivo anche nel modo in cui viene manifestato: ad esempio, se una persona si arrabbia con troppa violenza interiormente o se esagera nei segni esteriori della rabbia. In questo caso, l’ira non è necessariamente un peccato mortale per natura; tuttavia, può diventarlo se, a causa di tale violenza, una persona si allontana dall’amore di Dio e del prossimo.
+
+Risposta all’Obiezione 1: Non deriva dal passaggio citato che ogni forma di rabbia sia un peccato mortale, ma che le persone stolte vengano “uccise spiritualmente” dalla rabbia, poiché, non controllandone l’espressione con la ragione, commettono peccati mortali, come ad esempio blasfemare Dio o fare del male al proprio prossimo.
+
+Risposta all’Obiezione 2: Nostro Signore disse queste parole riguardo alla rabbia, come aggiunta alle prescrizioni della Legge: “Chi ucciderà sarà esposto al giudizio” (Matteo 5:21). Pertanto, qui Nostro Signore si riferisce a quel sentimento di rabbia che spinge un uomo a desiderare la morte o un grave danno del proprio prossimo; e se a questo desiderio venisse data l’approvazione della ragione, senza dubbio si tratterebbe di un peccato mortale.
+
+Risposta all’Obiezione 3: Nel caso in cui la rabbia sia contraria alla carità, essa costituisce un peccato mortale; tuttavia non è sempre così, come emerge da quanto abbiamo detto.
 
 <span class="atom-split" data-atom="187" data-title="Whether anger is the most grievous sin?" data-chapter="Whether anger is the most grievous sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -8899,6 +11777,24 @@ from its impetuousness, as stated above.
 
 Reply to Objection 3: Murder results from hatred and envy no less than from anger: yet anger
 is less grievous, inasmuch as it considers the aspect of justice, as stated above.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’[ira](/concepts/anger) sia il peccato più grave. Infatti Crisostomo afferma nell’[*Homilia XLVIII in Giovanni*] che “nulla è più ripugnante del volto di un uomo arrabbiato, nulla è più brutto di un viso spietato, e soprattutto nulla è più orribile di un’anima crudele”. Pertanto, l’ira è il peccato più grave.
+
+Obiezione 2: Inoltre, più nocivo è un peccato, più grave sembra essere; poiché, secondo [Agostino](/figures/augustine) (Enchiridion xii), “si dice che qualcosa sia male perché fa del male”. L’ira è senz’altro la più dannosa, poiché priva l’uomo della sua ragione, che è ciò che lo rende padrone di sé; come afferma Crisostomo (Hom. xlviii in Joan.), “l’ira non differisce in alcun modo dalla follia; è un demone finché dura, anzi ancora più pericolosa di colui che è tormentato da un demone”. Pertanto, l’ira è il peccato più grave.
+
+Obiezione 3: Inoltre, i movimenti interiori vengono giudicati in base ai loro effetti esteriori. Ora, l’effetto della rabbia è l’omicidio, che rappresenta un peccato estremamente grave. Pertanto, la rabbia è un peccato estremamente grave.
+
+Al contrario, l’ira viene paragonata all’odio come il granello di polvere alla trave principale; infatti Agostino afferma nella sua Regola (Epistola ccxi): “Affinché l’ira non si trasformi in odio e un piccolo errore non diventi una grave colpa”. Pertanto, l’ira non è il peccato più grave.
+
+Rispondo che, come già detto (AA[1],2), l’eccesso di rabbia viene considerato sotto due aspetti: da un lato, riguardo all’oggetto verso cui essa si dirige; dall’altro, riguardo al modo in cui si manifesta. Per quanto riguarda l’oggetto desiderato dalla rabbia, sembrerebbe che questa rappresenti il peccato meno grave, poiché mira all’uso legittimo della punizione come mezzo di vendetta, ossia a un bene considerato “giusto”. Pertanto, in questo senso, il peccato della rabbia coincide con quelli che desiderano il male altrui, come l’invidia e l’odio; tuttavia, mentre l’odio desidera assolutamente il male dell’altro per se stesso, l’invidioso lo desidera nell’intento di aumentare la propria gloria, il furibondo invece lo desidera sotto l’aspetto della giusta vendetta. È evidente quindi che l’odio sia più grave dell’invidia, e quest’ultima a sua volta della rabbia: infatti è peggiore desiderare il male come tale piuttosto che come bene; inoltre, desiderare il male come un bene esterno, come onore o gloria, è ancora peggio che farlo sotto l’aspetto della giustizia. Dal punto di vista del “bene” per cui la rabbia si manifesta, essa coincide con il peccato di concupiscenza, che tende verso un bene; tuttavia, in questo caso, il peccato della rabbia appare meno grave rispetto a quello della concupiscenza, poiché il bene della giustizia desiderato dal furibondo è considerato più nobile del bene piacevole o utile che caratterizza la concupiscenza. Per questo motivo il Filosofo afferma (Etica vii, 4) che “colui che è incontrollabile nel desiderio è più disonorevole di colui che lo è nella rabbia”. D’altra parte, per quanto riguarda l’eccesso nel modo in cui la rabbia si manifesta, essa sembra avere una certa superiorità a causa della sua intensità e rapidità; come dice il Proverbo 27:4: “La rabbia non conosce pietà, né misericordia quando esplode; chi può sopportare la violenza di colui che è stato provocato?” Pertanto Gregorio dice (Moralia v, 45): “Il cuore stimolato dalla rabbia si agita convulsivamente, il corpo trema, la lingua non riesce a parlare chiaramente, il viso si arrossisce, gli occhi diventano furiosi e non riescono nemmeno a riconoscere le persone che conosciamo; la lingua emette suoni, ma non hanno alcun senso”.
+
+Risposta all’Obiezione 1: Crisostomo si riferisce alla ripugnanza che derivano dai gesti esteriori causati dall’impulsività della rabbia.
+
+Risposta all’Obiezione 2: Questo argomento considera il movimento eccessivo della rabbia, che ne deriva a causa della sua impulsività, come descritto sopra.
+
+Risposta all’Obiezione 3: L’omicidio deriva dall’odio e dall’invidia tanto quanto dall’ira; tuttavia l’ira è meno grave, poiché tiene conto dell’aspetto della giustizia, come detto sopra.
 
 <span class="atom-split" data-atom="188" data-title="Whether the Philosopher suitably assigns the species of anger?" data-chapter="Whether the Philosopher suitably assigns the species of anger?" data-kind="atom" data-srclang="en"></span>
 
@@ -8972,6 +11868,25 @@ delivered, there is an opportunity for defense": in the second case "council" is
 the judges deliberate together on the punishment to be inflicted": to the third case is assigned
 "hell-fire," i.e. "decisive condemnation."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il Filosofo abbia assegnato in modo inappropriato le diverse tipologie di [ira](/concepts/anger) (Etica, IV, 5), quando afferma che alcune persone irate siano “coleriche”, altre “malinconiche” e altre ancora “di cattivo umore” o “dure”. Secondo lui, una persona è definita “malinconica” quando la sua rabbia si placa con difficoltà e dura a lungo. Tuttavia, ciò sembra riguardare soltanto il fattore temporale. Pertanto, pare che l’ira possa essere differenziata anche in base ad altri aspetti circostanziali.
+
+Obiezione 2: Inoltre, egli afferma (Etica, iv, 5) che le persone “di cattivo temperamento” o “rigide” sono quelle il cui odio non si placa se non attraverso la vendetta o la punizione. Anche questo riguarda l’indomabilità dell’ira. Pertanto, sembrerebbe che una persona di cattivo temperamento sia esattamente la stessa cosa di una persona amara o rancorosa.
+
+Obiezione 3: Inoltre, il nostro Signore menziona tre gradi di rabbia quando dice (Matteo 5:22):  
+“Chi si arrabbia con suo fratello è esposto al pericolo del giudizio; chi gli dice ‘Raca’ è esposto al pericolo dell’assemblea dei sacerdoti; e chi gli dice ‘Stupido’ è esposto al pericolo delle pene più severe”. Tuttavia, questi gradi non si riferiscono alle specie di rabbia menzionate in precedenza. Pertanto, sembra che questa classificazione della rabbia non sia appropriata.
+
+Al contrario, Gregorio di Nissa [*Nemesio, De Nat. Hom. xxi] afferma che esistono “tre tipi di irascibilità”: cioè “l’ira chiamata ‘furia’”, “la malvoglia”, che è una patologia dell’animo, e “l’odio”. Queste tre categorie sembrano coincidere con quelle precedentemente menzionate. Gregorio definisce la “furia” come qualcosa che ha inizio e si sviluppa nel tempo; il Filosofo (Etica iv, 5) attribuisce questa caratteristica alle persone di temperamento collerico. La “malvoglia”, invece, è descritta come un’ira che dura a lungo e si intensifica con il tempo; anche in questo caso il Filosofo la associa alle persone di indole cupa. L’“odio” viene definito come il desiderio di vendetta nel momento giusto; questa definizione corrisponde alla descrizione del Filosofo riguardo alle persone di cattivo temperamento. Anche Damasceno adotta la stessa classificazione ([De Fide Orth. ii, 16]). Pertanto, la divisione proposta dal Filosofo non è affatto inappropriata.
+
+Rispondo che la suddetta distinzione può essere applicata sia alla passione stessa dell’ira, sia al peccato stesso dell’ira. Abbiamo già detto, quando trattavamo delle passioni (FS, Q[46], A[8]), come essa debba essere applicata alla passione dell’ira; sembra che sia proprio questo ciò che Gregorio di Nissa e Damasceno avevano in mente. Tuttavia, qui dobbiamo considerare questa distinzione nel suo contesto relativo al peccato dell’ira, così come definita dal Filosofo. L’eccessività dell’ira può essere considerata in relazione a due aspetti: innanzitutto, in relazione alla sua origine; ciò riguarda le persone “coleriche”, che si arrabbiano troppo facilmente e per motivi insignificanti. In secondo luogo, in relazione alla durata dell’ira; essa può protrarsi troppo a lungo, e questo può accadere in due modi: da un lato, perché la causa dell’ira – cioè il danno subito – rimane a lungo nella memoria della persona, generando un dispiacere duraturo; di conseguenza, essa si comporta in modo “truce” e “ostile” verso se stessa. Dall’altro lato, l’eccessività dell’ira può derivare dal desiderio ostinato di vendetta; ciò riguarda le persone “irascibili” o “spietate”, che non smettono di essere arrabbiate finché non hanno inflitto la punizione desiderata.
+
+Risposta all’Obiezione 1: Non è il momento stesso, ma la propensione di un uomo ad arrabbiarsi o la sua ostinazione nell’essere arrabbiato, che rappresentano il punto principale da considerare nel caso sopra menzionato.
+
+Risposta all’Obiezione 2: Sia le persone “scorbutiche” che quelle “di cattivo temperamento” provano un’ira duratura, ma per motivi diversi. Le persone “scorbutiche” mantengono un’ira costante a causa di un dispiacere persistente che tengono chiuso nel proprio cuore; poiché non manifestano apertamente i segni esteriori dell’ira, gli altri non riescono a farle cambiare idea, e nemmeno esse stesse sono disposte ad abbandonarla, se non quando quel dispiacere si attenua col tempo e di conseguenza anche la loro rabbia svanisce. D’altra parte, l’ira delle persone “di cattivo temperamento” è duratura a causa del loro intenso desiderio di vendetta; per questo motivo non si placa con il passare del tempo e può essere placata soltanto attraverso la vendetta stessa.
+
+Risposta all’Obiezione 3: I gradi di rabbia menzionati dal nostro Signore non si riferiscono alle diverse specie di rabbia, ma corrispondono al corso stesso dell’atto umano [*Cfr. FS, Q[46], A[8], OBJ[3. Il primo grado rappresenta una concezione interiore della rabbia; a questo proposito il Signore dice: “Chiunque si arrabbi contro suo fratello, ”. Il secondo grado si verifica quando la rabbia si manifesta attraverso segni esteriori, anche prima che esploda concretamente; in questo caso il Signore dice: “Chiunque dica a suo fratello ‘Raca!’, ”, ovvero un’esclamazione piena di rabbia. Il terzo grado è quello in cui il peccato concepito interiormente si concretizza in azioni dannose verso l’altro; l’effetto principale della rabbia consiste nel causare dolore all’altra persona, e il danno minore può già derivare da semplici parole; per questo il Signore dice: “Chiunque dica a suo fratello ‘Stupido!’, ”. È quindi evidente che il secondo grado rappresenta un’estensione del primo, mentre il terzo grado va ben oltre entrambi; se il primo grado è considerato un peccato mortale, nel caso menzionato dal Signore (A[3], ad 2), allora gli altri gradi lo sono ancora di più. Pertanto, a ciascuno di questi gradi viene attribuita una forma specifica di condanna: al primo grado “il giudizio”, che è la pena meno severa; al secondo grado “un consiglio”, attraverso il quale i giudici decidono insieme la punizione da infliggere; al terzo grado “l’inferno”, ovvero una condanna definitiva e irreversibile.
+
 <span class="atom-split" data-atom="189" data-title="Whether anger should be reckoned among the capital vices?" data-chapter="Whether anger should be reckoned among the capital vices?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) should not be reckoned among the capital sins. For anger
@@ -9010,6 +11925,24 @@ anger is more a capital vice than hatred is.
 Reply to Objection 3: Anger is stated to be the door to the vices accidentally, that is by removing
 obstacles, to wit by hindering the judgment of reason, whereby man is withdrawn from evil. It is,
 however, directly the cause of certain special sins, which are called its daughters.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’[ira](/concepts/anger) non dovrebbe essere considerata tra i peccati capitali. Infatti, l’ira nasce dal dolore, e il dolore è un vizio capitale conosciuto con il nome di pigrizia. Pertanto, l’ira non dovrebbe essere considerata un vizio capitale.
+
+Obiezione 2: Inoltre, l’odio è un peccato più grave dell’ira. Pertanto dovrebbe essere considerato un vizio capitale, e non semplicemente ira.
+
+Obiezione 3: Inoltre, un commento a Proverbi 29:22, che recita “L’uomo irato provoca liti”, afferma: “L’ira è la porta di tutti i vizi: se viene chiusa, la pace e le virtù sono garantite; se viene aperta, l’anima diventa pronta a commettere ogni crimine”. Ora, nessun vizio capitale è all’origine di tutti i peccati, ma soltanto di alcuni specifici. Pertanto, l’ira non dovrebbe essere considerata tra i vizi capitali.
+
+Al contrario, Gregorio (Morali, xxxi, 45) considera la rabbia tra i vizi capitali.
+
+Rispondo che, come già detto sopra (FS, Q[84], A[3],4), un vizio capitale è definito come quello da cui derivano molti altri vizi. Ora, ci sono due motivi per cui l’ira può generare numerosi vizi: il primo riguarda l’oggetto dell’ira stesso, che presenta spesso aspetti desiderabili; la vendetta, ad esempio, è considerata giusta o onesta, e quindi attraente per la sua bontà intrinseca, come già affermato sopra (A[4]). L’onestà, in questo contesto, deve essere intesa nel suo senso più ampio, come sinonimo di bontà morale dal punto di vista del decoro; si veda anche Q[145], A[1]. Il secondo motivo riguarda l’impetuosità dell’ira, che spinge l’individuo a compiere azioni sconsiderate. Pertanto, è evidente che l’ira sia un vizio capitale.
+
+Risposta all’Obiezione 1: Il dolore da cui deriva la rabbia non è, nella maggior parte dei casi, il vizio della pigrizia, ma la passione del dolore stessa, che scaturisce da un danno subito.
+
+Risposta all’Obiezione 2: Come già detto sopra (Q[118], A[7]; Q[148], A[5]; Q[153], A[4]; FS, Q[84], A[4]), appartiene alla nozione di un vizio capitale il fatto che abbia uno scopo particolarmente desiderabile; per questo motivo molti peccati vengono commessi spinti dal desiderio di raggiungere tale scopo. L’ira, ad esempio, desidera il male sotto l’apparenza del bene, e quindi ha uno scopo più desiderabile dell’odio, che desidera il male sotto l’apparenza del male stesso; per questo motivo l’ira è considerata un vizio capitale più grave dell’odio.
+
+Risposta all’Obiezione 3: Si afferma che la rabbia sia, in modo accidentale, la via verso i vizi; più precisamente, essa elimina gli ostacoli che impediscono il giudizio della ragione, permettendo così all’uomo di allontanarsi dal male. Tuttavia, essa è direttamente la causa di alcuni peccati specifici, che vengono definiti “figlie” della rabbia stessa.
 
 <span class="atom-split" data-atom="190" data-title="Whether six daughters are fittingly assigned to anger?" data-chapter="Whether six daughters are fittingly assigned to anger?" data-kind="atom" data-srclang="en"></span>
 
@@ -9054,6 +11987,26 @@ Wherefore it was fitting to reckon that hatred arises from sloth rather than fro
 
 Reply to Objection 3: Swelling of the mind is not taken here as identical with pride, but for a
 certain effort or daring attempt to take vengeance; and daring is a vice opposed to fortitude.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che sei figlie siano inappropriatamente associate all’[ira](/concepts/anger), ovvero “liti, ira repressa, disprezzo, clamore, indignazione e blasfemia”. Infatti, secondo Isidoro [*QQ. in Deut., qu. xvi*], la blasfemia è considerata una manifestazione dell’orgoglio; pertanto non dovrebbe essere considerata una conseguenza dell’ira.
+
+Obiezione 2: Inoltre, l’odio nasce dall’ira, come afferma [Agostino](/figures/augustine) nella sua regola (Epistola ccxi). Pertanto, dovrebbe essere considerato tra i “figli” dell’ira.
+
+Obiezione 3: Inoltre, “un intelletto gonfio” sembrerebbe essere lo stesso che l’orgoglio. Ora, l’orgoglio non è la figlia di un vizio, ma “la madre di tutti i vizi”, come afferma Gregorio (Moralia, xxxi, 45). Pertanto, il gonfiore dell’intelletto non dovrebbe essere considerato tra le conseguenze dell’ira.
+
+Al contrario, Gregorio (Morali, xxxi, 45) attribuisce queste figlie all’ira.
+
+Rispondo che l’ira può essere considerata in tre modi. Primo, come un sentimento espresso attraverso il pensiero; da questo punto di vista, dall’ira derivano due vizi. Il primo riguarda la persona verso cui si prova rabbia, quando si ritiene che non sia degna di tale trattamento; questo vizio viene chiamato “indignazione”. Il secondo vizio riguarda la persona stessa che prova rabbia, quando inizia a concepire vari modi per vendicarsi e a riempire la propria mente di pensieri offensivi; come si legge in Giobbe 15:2: “Un uomo saggio, si riempirà lo stomaco di ardore”? In questo caso, si parla di “ira repressa”.  
+Secondo, l’ira può essere considerata anche come un sentimento espresso attraverso le parole; da questo punto di vista, ne derivano altre due forme di disordine. La prima si verifica quando una persona manifesta la propria rabbia nel modo in cui parla, come descritto sopra (A[5], ad 3), ad esempio quando si dice a qualcuno “Raca”; questo comportamento rappresenta un linguaggio disordinato e confuso. La seconda forma di disordine si verifica quando una persona pronuncia parole offensive; se queste sono rivolte a Dio, si tratta di “blasfemia”; se invece sono rivolte al proprio prossimo, si tratta di “insulto”.  
+Terzo, l’ira può essere considerata anche come un sentimento che porta alle azioni; in questo caso, dall’ira derivano i “litigi”, ovvero ogni tipo di offesa arrecata al proprio prossimo a causa della rabbia.
+
+Risposta all’Obiezione 1: La bestemmia che un uomo compie deliberatamente deriva dall’orgoglio, che lo spinge a ergersi contro Dio; infatti, secondo l’Ecclesiaste 10:14, “l’inizio dell’orgoglio umano consiste nel allontanarsi da Dio”, cioè nel perdere il rispetto per Lui – e questo rappresenta la prima fase dell’orgoglio [*Cfr. Q[162], A[7], ad 2]; tale atteggiamento dà origine alla bestemmia. Tuttavia, la bestemmia che un uomo pronuncia a causa di un turbamento mentale deriva dall’ira.
+
+Risposta all’Obiezione 2: Sebbene l’odio nasca talvolta dall’ira, esso ha una causa precedente, da cui deriva in modo più diretto, ovvero dal dispiacere; allo stesso modo, l’amore nasce dal piacere. Il dispiacere, infatti, spinge talvolta un uomo all’ira, altre volte all’odio. Pertanto, era appropriato ritenere che l’odio derivi dalla pigrizia piuttosto che dall’ira.
+
+Risposta all’Obiezione 3: In questo contesto, l’“ingrandimento dell’animo” non viene considerato sinonimo di orgoglio, ma piuttosto come un certo sforzo o un tentativo audace di vendicarsi; e l’audacia è un vizio opposto alla forza d’animo.
 
 <span class="atom-split" data-atom="191" data-title="Whether there is a vice opposed to anger resulting from lack of anger?" data-chapter="Whether there is a vice opposed to anger resulting from lack of anger?" data-kind="atom" data-srclang="en"></span>
 
@@ -9102,11 +12055,35 @@ only of the simple movement of the will but also of the passion in the sensitive
 above. Wherefore just as the removal of the effect is a sign that the cause is removed, so the lack
 of anger is a sign that the judgment of reason is lacking.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non esista alcun vizio opposto alla [ira](/concepts/anger), derivante dalla mancanza di ira stessa. Infatti, nessun vizio ci rende simili a Dio. Ora, essendo completamente privo di ira, un uomo diventa simile a Dio, che giudica “con tranquillità” (Sapienza 12:18). Pertanto, sembrerebbe che non sia un vizio essere del tutto privo di ira.
+
+Obiezione 2: Inoltre, non è un vizio mancare di ciò che è del tutto inutile. Ma l’emozione della rabbia non serve a nessuno scopo utile, come dimostra Seneca nel libro che ha scritto sull’ira (De Ira i, 9 e seguenti). Pertanto, sembra che la mancanza di rabbia non sia un vizio.
+
+Obiezione 3: Inoltre, secondo Dionigi di Alessandria (Div. Nom. iv), “il male dell’uomo consiste nel mancare di ragione”. Ora, se venisse eliminato ogni impulso di rabbia, il giudizio della ragione rimarrebbe intatto. Pertanto, la mancanza di rabbia non costituisce un vizio.
+
+Al contrario, Crisostomo [*Hom. xi in Matth. nell’Opus Imperfectum, falsamente attribuito a San Giovanni Crisostomo*] afferma: “Colui che non si arrabbia, pur avendo motivo di farlo, pecca. Poiché una pazienza irragionevole è il terreno fertile di molti vizi: favorisce la negligenza e incita non solo i malvagi ma anche i buoni a commettere errori.”
+
+Rispondo che la rabbia può essere intesa in due modi. In un senso, come un semplice movimento della volontà attraverso il quale si infligge una punizione, non per passione, ma sulla base di un giudizio della ragione; e in questo caso, senza dubbio, la mancanza di rabbia costituisce un vizio. Questo è il significato che viene attribuito alla rabbia nell’affermazione di Crisostomo, il quale dice (Hom. xi in Matth., nell’Opus Imperfectum, falsamente attribuito a San Giovanni Crisostomo): “La rabbia, quando ha una causa, non è vera rabbia, ma un giudizio; infatti la rabbia, nel senso proprio del termine, indica un movimento della passione”. Quando un uomo si arrabbia per motivi razionali, la sua rabbia non deriva più dalla passione; pertanto si può dire che egli agisca in base a un giudizio, e non che sia semplicemente arrabbiato. In un altro senso, la rabbia può essere considerata un movimento dell’appetito sensibile, derivante da una trasformazione fisica del corpo; questo movimento è inevitabile nell’uomo, poiché l’appetito inferiore segue necessariamente il movimento di quello superiore, a meno che non vi siano ostacoli. Pertanto, la mancanza totale di rabbia nell’appetito sensibile è impossibile, a meno che non vi sia anche una completa assenza o debolezza del movimento della volontà. Di conseguenza, anche la mancanza di questa passione costituisce un vizio, proprio come l’assenza di qualsiasi atto volitivo diretto verso la punizione, basato su un giudizio razionale.
+
+Risposta all’Obiezione 1: Colui che non prova affatto rabbia quando dovrebbe farlo, imita Dio per quanto riguarda la mancanza di passione, ma non per quanto riguarda il modo in cui Dio punisce attraverso il giudizio.
+
+Risposta all’Obiezione 2: La passione della rabbia, come tutte le altre manifestazioni dell’appetito sensibile, è utile, poiché contribuisce all’esecuzione più rapida dei dettami della ragione [*Cfr. FS, Q[24], A[3; altrimenti, l’appetito sensibile nell’uomo sarebbe del tutto inutile, mentre “la natura non fa nulla senza uno scopo” [*[Aristotele](/figures/aristotle), De Coelo i, 4].
+
+Risposta all’Obiezione 3: Quando un uomo agisce in modo irregolare, il giudizio della sua ragione non è causa soltanto del semplice movimento della volontà, ma anche dell’emozione suscitata nell’appetito sensibile, come già detto. Pertanto, proprio come la scomparsa dell’effetto indica la scomparsa della causa, l’assenza di rabbia è un segno che il giudizio della ragione manca.
+
 <span class="atom-split" data-atom="192" data-title="OF CRUELTY (TWO ARTICLES)" data-chapter="OF CRUELTY (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider cruelty, under which head there are two points of inquiry:
 (1) Whether cruelty is opposed to clemency?
 (2) Of its comparison with savagery or brutality.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la crudeltà; in questo ambito vi sono due aspetti da esaminare:  
+(1) Se la crudeltà sia opposta alla clemenza;  
+(2) Il suo confronto con la selvaggiazza o la brutalità.
 
 <span class="atom-split" data-atom="193" data-title="Whether cruelty is opposed to clemency?" data-chapter="Whether cruelty is opposed to clemency?" data-kind="atom" data-srclang="en"></span>
 
@@ -9146,6 +12123,24 @@ likeness of these virtues, cruelty is sometimes taken for mercilessness.
 
 Reply to Objection 3: Cruelty is there taken for mercilessness, which is lack of beneficence.
 We may also reply that withdrawal of beneficence is in itself a punishment.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la crudeltà non sia contraria alla clemenza. Infatti Seneca afferma (De Clementia ii, 4) che “si definiscono crudeli coloro che eccedono nel punire”, il che è contrario alla giustizia. Ora la clemenza viene considerata parte non della giustizia, ma della temperanza. Pertanto, apparentemente, la crudeltà non è contraria alla clemenza.
+
+Obiezione 2: Inoltre, è scritto (Ger. 6:23): “Sono crudeli e non avranno pietà”; quindi la crudeltà sembrerebbe essere in opposizione alla pietà. Ora, la pietà non è la stessa cosa che la clemenza, come già detto sopra (Q[157], A[4], ad 3). Pertanto, la crudeltà non è in opposizione alla clemenza.
+
+Obiezione 3: Inoltre, la clemenza riguarda l’imposizione di punizioni, come detto sopra (Q[157], A[1]); mentre la crudeltà si riferisce alla revoca di benefici, secondo il Proverbo 11:17: “Ma colui che è crudele scarta persino i propri parenti”. Pertanto, la crudeltà non è contraria alla clemenza.
+
+Al contrario, Seneca afferma (De Clementia ii, 4) che “l’opposto della clemenza è la crudeltà, che non è altro che durezza di cuore nell’esigere punizioni”.
+
+Rispondo che la crudeltà, apparentemente, deriva dal termine “cruditas”, ovvero dalla qualità di essere crudo. Proprio come le cose, una volta cotte e preparate, assumono un sapore gradevole e dolce, allo stesso modo, quando sono crude, hanno un sapore sgradevole e amaro. Come già detto in precedenza (Q[157], A[3], ad 1; A[4], ad 3), la clemenza rappresenta una certa dolcezza d’animo che spinge a mitigare le punizioni; pertanto, la crudeltà è direttamente opposta alla clemenza.
+
+Risposta all’Obiezione 1: Proprio come spetta alla giustizia mitigare la punizione in modo ragionevole, mentre la bontà d’animo che spinge a farlo appartiene alla clemenza; allo stesso modo, l’eccesso nella punizione, riguardo all’azione esterna, rientra nell’ingiustizia; ma la durezza di cuore, che porta a intensificare la punizione, è un segno di crudeltà.
+
+Risposta all’Obiezione 2: Misericordia e clemenza concordano in questo aspetto: entrambe evitano e si allontanano dalla sfortuna altrui, ma in modi diversi. Infatti, spetta alla misericordia alleviare la sfortuna altrui attraverso un atto di benevolenza, mentre spetta alla clemenza mitigarla sospendendo la punizione. Poiché la crudeltà rappresenta un eccesso nell’esigere punizioni, è più direttamente contraria alla clemenza che alla misericordia; tuttavia, a causa della loro somiglianza reciproca, la crudeltà viene talvolta scambiata per spietatezza.
+
+Risposta all’Obiezione 3: La crudeltà viene spesso scambiata per spietatezza, che in realtà rappresenta semplicemente la mancanza di benevolenza. Possiamo anche osservare che il ritiro della benevolenza costituisce di per sé una forma di punizione.
 
 <span class="atom-split" data-atom="194" data-title="Whether cruelty differs from savagery or brutality?" data-chapter="Whether cruelty differs from savagery or brutality?" data-kind="atom" data-srclang="en"></span>
 
@@ -9196,12 +12191,36 @@ justice, which requires a man to be punished on account of his offense, and whic
 On the other hand, cruelty disregards this order altogether. Wherefore remission of punishment is
 opposed to cruelty, but not to savagery.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la crudeltà non differisca dalla barbarie o dalla brutalità. Infatti, un vizio sembrerebbe opporsi in un certo modo a una virtù. Ora sia la barbarie che la crudeltà sono entrambe opposte alla clemenza nel senso di essere eccessive. Pertanto, sembrerebbe che barbarie e crudeltà siano la stessa cosa.
+
+Obiezione 2: Inoltre, Isidoro afferma (Etym. x) che “la severità è, in qualche modo, una sorta di barbarie applicata alla verità, poiché si attiene rigorosamente alla giustizia senza tenere conto della pietà”; quindi la barbarie sembrerebbe escludere quella mitigazione nella punizione che la pietà richiede. Ora, questa caratteristica è stata definita appartenente alla crudeltà (A[1], ad 1). Pertanto, la crudeltà è la stessa cosa della barbarie.
+
+Obiezione 3: Inoltre, proprio come esiste un vizio opposto a una virtù per eccesso, esiste anche un vizio opposto ad essa per difetto; questo secondo tipo di vizio è contrario sia alla virtù moderata che al vizio estremo. Ora, lo stesso vizio legato al difetto è opposto sia alla crudeltà che alla selvaggiazza, e cioè alla tolleranza o alla lassità. Infatti Gregorio afferma (Moralia, xx, 5): “Che ci sia amore, ma non un amore che indebolisca; che ci sia severità, ma senza furia; che ci sia zelo, ma senza una selvaggiazza indegna; che ci sia pietà, ma senza una clemenza eccessiva.” Pertanto, la selvaggiazza è lo stesso che la crudeltà.
+
+Al contrario, Seneca afferma (De Clementia ii, 4) che “un uomo che si arrabbia senza essere stato offeso, o nei confronti di qualcuno che non lo ha offeso, non viene considerato crudele, ma brutale o selvaggio”.
+
+Rispondo che “savagezza” e “brutalità” prendono il loro nome dal loro somigliare a bestie selvatiche, anch’esse descritte come feroci. Infatti, questi animali attaccano l’uomo soltanto per nutrirsi del suo corpo, e non per alcun motivo legato alla giustizia, che è un concetto esclusivamente razionale. Pertanto, in senso proprio, brutalità o selvaggezza si riferiscono a coloro che, nell’infliggere punizioni, non hanno come scopo il reato commesso dalla persona punita, ma soltanto il piacere derivante dalla sua tortura. È evidente quindi che tali comportamenti rientrano nella categoria della bestialità: un tale piacere, infatti, non è umano, ma animale; deriva sia da cattive abitudini che da una natura corrotta, proprio come altre emozioni bestiali. D’altra parte, la crudeltà tiene conto non solo del reato commesso, ma anche del modo in cui viene punita; per questo motivo la crudeltà si distingue dalla selvaggezza o dalla brutalità, così come la malvagità umana si differenzia dalla bestialità, come affermato nell’Etica, VII, 5.
+
+Risposta all’Obiezione 1: La clemenza è una virtù umana; pertanto, ciò che le è direttamente opposto è la crudeltà, che rappresenta una forma di malvagità umana. Tuttavia, la selvaggiazza o la brutalità rientrano nella categoria della bestialità; quindi, non sono direttamente contrarie alla clemenza, bensì a una virtù ancora più eccellente, che il Filosofo (Etica vii, 5) definisce “eroica” o “divina”. Secondo noi, tale virtù sembrerebbe essere legata ai doni dello Spirito Santo. Pertanto, possiamo affermare che la selvaggiazza è direttamente contraria al dono della pietà.
+
+Risposta all’Obiezione 2: Non si dice che un uomo severo sia semplicemente selvaggio, poiché ciò implicherebbe una colpa; ma si dice che sia “selvaggio riguardo alla verità”, a causa di una certa somiglianza con la barbarie, caratterizzata dall’indifferenza verso le conseguenze delle proprie azioni.
+
+Risposta all’Obiezione 3: La remissione della punizione non è un vizio, a meno che non venga ignorata l’ordine della giustizia, che richiede che una persona venga punita in base al proprio reato; in tal caso, la crudeltà va oltre i limiti consentiti. D’altra parte, la crudeltà ignora completamente tale ordine. Pertanto, la remissione della punizione è contraria alla crudeltà, ma non alla barbarie.
+
 <span class="atom-split" data-atom="195" data-title="OF MODESTY (TWO ARTICLES)" data-chapter="OF MODESTY (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider modesty: and (1) Modesty in general; (2) Each of its species. Under the
 first head there are two points of inquiry:
 (1) Whether modesty is a part of temperance?
 (2) What is the matter of modesty?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la modestia: e (1) la modestia in generale; (2) ciascuna delle sue specie. Nel primo ambito vi sono due questioni da esaminare:  
+(1) Se la modestia faccia parte della temperanza;  
+(2) Qual è l’essenza della modestia.
 
 <span class="atom-split" data-atom="196" data-title="Whether modesty is a part of temperance?" data-chapter="Whether modesty is a part of temperance?" data-kind="atom" data-srclang="en"></span>
 
@@ -9293,6 +12312,22 @@ actions and passions that present no great difficulty on the part of the matter,
 of moderation, there is but one virtue, one namely for each kind of moderation.
 Wherefore the Reply to the Third Objection also is clear.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la modestia riguardi soltanto le azioni esterne. Infatti, i movimenti interiori delle passioni non possono essere conosciuti dagli altri. Eppure l’Apostolo ordina (Filippesi 4:5): “Che la vostra modestia sia nota a tutti”. Pertanto, la modestia riguarda soltanto le azioni esterne.
+
+Obiezione 2: Inoltre, le virtù che riguardano le passioni si distinguono dalla giustizia, che riguarda invece le azioni compiute. Ora, la modestia sembra essere una di queste virtù. Pertanto, se riguardasse le azioni esterne, non dovrebbe avere a che fare con le passioni interne.
+
+Obiezione 3: Inoltre, nessuna singola virtù riguarda allo stesso tempo le cose relative all’appetito – che sono proprie delle virtù morali – e le cose relative alla conoscenza – che sono proprie delle virtù intellettuali – né ancora le cose relative alle facoltà irascibile e concupiscibile. Pertanto, se la modestia è una virtù, non può riguardare tutte queste cose.
+
+Al contrario, in tutte queste cose è necessario osservare quel “modo” da cui deriva il nome di “modestia”. Pertanto, la modestia riguarda tutte queste cose.
+
+Rispondo che, come già detto sopra (A[1]), la modestia si distingue dalla temperanza in quanto quest’ultima modera quelle situazioni in cui il controllo è particolarmente difficile, mentre la modestia modera quelle che presentano minori ostacoli. Le autorità antiche sembravano avere opinioni diverse riguardo alla modestia: ove individuavano un tipo specifico di bene o una difficoltà particolare nella sua applicazione, ne escludevano l’ambito dalla nozione stessa di modestia, limitandola a questioni meno importanti. È evidente, infatti, che la repressione dei piaceri sensuali rappresenta una difficoltà specifica; per questo motivo si distingue chiaramente la temperanza dalla modestia. Inoltre, Tullio (De Invent. Rhet. ii, 54) riteneva che esistesse un bene particolare nella moderazione delle punizioni; per questo motivo separò anche la clemenza dalla modestia, considerando quest’ultima riferita soltanto alle questioni ordinarie che richiedono moderazione. Queste questioni sembrano essere di quattro tipi: il primo riguarda l’aspirazione dell’animo verso forme di eccellenza, e questa viene moderata dall’“umiltà”; il secondo riguarda il desiderio di cose legate alla conoscenza, e questo viene moderato dalla “studiosità”, che contrasta con la curiosità; il terzo riguarda i movimenti fisici e le azioni che devono essere compiute in modo appropriato ed onesto, sia nel contesto serio che nel gioco; il quarto riguarda l’aspetto esteriore, come l’abbigliamento. Tuttavia, per alcune di queste questioni altre autorità hanno individuato virtù specifiche: ad esempio, Andronico menziona “umiltà, semplicità, modestia” e altre virtù simili, di cui abbiamo già parlato sopra (Q[143]); mentre Aristotele (Etica ii, 7) attribuiva la “eutrapelia” ai piaceri legati ai giochi, come già detto prima (FS, Q[60], A[5]). Tutte queste vengono incluse nella nozione di modestia così intesa da Tullio; in questo modo, la modestia riguarda non solo le azioni esterne ma anche quelle interne.
+
+Risposta all’Obiezione 1: L’Apostolo parla di modestia in relazione agli aspetti esteriori; tuttavia, la moderazione dell’animo interiore può essere manifestata attraverso alcuni segni esterni.
+
+Risposta all’Obiezione 2: Le varie virtù attribuite da diverse autorità rientrano tutte nella categoria della modestia. Pertanto, nulla impedisce alla modestia di riguardare anche quelle situazioni che richiedono l’applicazione di altre virtù. Tuttavia, non esiste una differenza così marcata tra le varie componenti della modestia come ce n’è tra la giustizia, che riguarda le azioni, e la temperanza, che riguarda le passioni: in casi in cui non sussistono grandi difficoltà legate alla natura stessa dell’azione o della passione, ma soltanto alla necessità di moderarle, esiste una sola virtù per ciascun tipo di moderazione. Pertanto, anche la Risposta alla Terza Obiezione risulta chiara.
+
 <span class="atom-split" data-atom="198" data-title="OF HUMILITY (SIX ARTICLES)" data-chapter="OF HUMILITY (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must consider next the species of modesty: (1) Humility, and pride which is opposed to it;
@@ -9305,6 +12340,19 @@ Concerning humility there are six points of inquiry:
 (4) Whether it is a part of modesty or temperance?
 (5) Of its comparison with the other virtues;
 (6) Of the degrees of humility.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare i diversi tipi di modestia: (1) L’umiltà, e l’orgoglio che le è opposto;  
+(2) La diligenza nello studio, e il suo contrario, la curiosità;  
+(3) La modestia riguardo alle parole o ai fatti compiuti;  
+(4) La modestia riguardo all’abbigliamento esteriore. Per quanto riguarda l’umiltà, ci sono sei punti da esaminare:  
+(1) Se l’umiltà sia una virtù;  
+(2) Se risieda nell’appetito umano o nel giudizio della ragione;  
+(3) Se con l’umiltà si debba sottomettersi a tutti gli uomini;  
+(4) Se faccia parte della modestia o della temperanza;  
+(5) Il suo confronto con le altre virtù;  
+(6) I diversi gradi di umiltà.
 
 <span class="atom-split" data-atom="199" data-title="Whether humility is a virtue?" data-chapter="Whether humility is a virtue?" data-kind="atom" data-srclang="en"></span>
 
@@ -9381,6 +12429,32 @@ wherein the subjection of one man to another is defined according to the ordinan
 consequently is a matter of legal justice. But humility, considered as a special virtue, regards chiefly
 the subjection of man to God, for Whose sake he humbles himself by subjecting himself to others.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’umiltà non sia una virtù. Infatti, la nozione di virtù implica quella di un male punitivo, come si legge nel Salmo 104:18: “Gli hanno umiliato i piedi con le catene”. Pertanto, l’umiltà non è una virtù.
+
+Obiezione 2: Inoltre, virtù e vizio sono reciprocamente opposti. Ora, l’umiltà sembra indicare un vizio, poiché è scritto (Ecclesiaste 19:23): “C’è chi si umilia in modo malvagio”. Pertanto, l’umiltà non è una virtù.
+
+Obiezione 3: Inoltre, nessuna virtù è in opposizione un’altra virtù. Tuttavia, l’umiltà sembra essere in contrasto con la virtù della magnanimità, che mira a realizzare cose grandi, mentre l’umiltà le evita. Pertanto, si potrebbe pensare che l’umiltà non sia una vera virtù.
+
+Obiezione 4: Inoltre, la virtù è “la disposizione di ciò che è perfetto” (Phys. vii, testo 17). Ma l’umiltà sembra appartenere piuttosto al non perfetto; pertanto, non sarebbe appropriato per Dio essere umile, poiché Egli non può sottoporsi a nessuno. Quindi, sembrerebbe che l’umiltà non sia una virtù.
+
+Obiezione 5: Inoltre, secondo l’Etica II, 3, ogni virtù morale riguarda azioni e passioni. Tuttavia, il Filosofo non considera l’umiltà tra le virtù relative alle passioni, né la include nella categoria della giustizia, che riguarda le azioni. Pertanto, sembrerebbe che l’umiltà non sia affatto una virtù.
+
+Al contrario, Origene, commentando Luca 1:48 (“Ha considerato l’umiltà della Sua serva”), afferma nell’Homilia VIII su Luca: “L’umiltà è una delle virtù particolarmente lodate nelle Scritture Sacre; infatti il nostro Salvatore disse: ‘Imparate da Me, poiché Sono umile e di cuore umile’.”
+
+Rispondo che, come già detto in precedenza (FS, Q[23], A[2]) quando trattavamo delle passioni, il bene difficile possiede qualcosa di attraente per l’appetito, ovvero l’aspetto stesso del bene; al contempo, possiede anche qualcosa di repellente per l’appetito, ovvero la difficoltà di ottenerlo. Per quanto riguarda il primo aspetto, sorge il sentimento della speranza; per quanto riguarda il secondo, sorge il sentimento della disperazione. È stato inoltre affermato in precedenza (FS, Q[61], A[2]) che, per quei movimenti dell’appetito che rappresentano una sorta di impulso verso un oggetto, è necessaria una virtù morale moderatrice e restrittiva; mentre per quei movimenti che rappresentano una sorta di ritiro o resistenza, è necessaria una virtù morale che li rafforzi e li spinga avanti. Pertanto, riguardo al bene difficile sono necessarie due tipi di virtù: una per temperare e restringere l’animo, affinché non tenda in modo eccessivo verso cose elevate; questa virtù appartiene alla umiltà. L’altra virtù è quella che rafforza l’animo contro la disperazione e lo spinge a perseguire grandi obiettivi seguendo la retta ragione; questa virtù è la magnanimità. È quindi evidente che l’umiltà sia una vera e propria virtù.
+
+Risposta all’Obiezione 1: Come osserva Isidoro nell’“Etymologia” x, “un uomo umile è così chiamato perché è, per così dire, ‘inclinato verso il basso’”, cioè incline al luogo più inferiore. Ciò può avvenire in due modi: innanzitutto, per un motivo esterno, ad esempio quando qualcuno viene costretto a posizionarsi in una condizione di sottomissione; in questo caso l’umiltà rappresenta una sorta di punizione. In secondo luogo, per un motivo intrinseco: talvolta questa atteggiamento può essere compiuto in modo positivo, quando una persona, considerando le proprie debolezze, si colloca volontariamente in una posizione di inferiorità; è il caso, ad esempio, di Abramo che disse al Signore (Genesi 18:27): “Parlerò al mio Signore, anche se sono solo polvere e cenere”. In questo senso l’umiltà è una virtù. Tuttavia, a volte questa pratica può essere compiuta in modo errato, quando una persona, “non comprendendo il proprio valore, si paragona a bestie prive di intelletto e diventa simile a loro” (Salmo 48:13).
+
+Risposta all’Obiezione 2: Come già detto (ad 1), l’umiltà, in quanto virtù, esprime l’idea di un autodeprecamento meritevole, che porta l’individuo al riconoscimento della propria inferiorità. Tuttavia, a volte questo atteggiamento viene manifestato soltanto come segno esteriore o finzione: in tal caso si tratta di “umiltà falsa”, di cui [Agostino](/figures/augustine) parla in una lettera (Ep. cxlix) definendola “orgoglio grave”, poiché sembra mirare in realtà all’ottenimento di gloria. Altre volte, invece, l’umiltà deriva da un movimento interiore dell’anima; in questo senso, essa può essere considerata davvero una virtù, poiché le virtù non consistono negli aspetti esteriori, ma soprattutto nella scelta interna della mente, come afferma il Filosofo nell’Etica (ii, 5).
+
+Risposta all’Obiezione 3: L’umiltà limita il desiderio di puntare a cose grandi contro la retta ragione; mentre la magnanimità spinge l’animo verso cose grandi in accordo con la retta ragione. È quindi evidente che la magnanimità non è contraria all’umiltà: anzi, entrambe si concordano nel rispettare i principi della retta ragione.
+
+Risposta all’Obiezione 4: Si dice che una cosa sia perfetta in due modi. Primo, in senso assoluto: tale cosa non contiene alcun difetto, né nella sua natura né in relazione a qualsiasi altra cosa; pertanto solo Dio è perfetto. Per Lui l’umiltà è appropriata, non riguardo alla Sua natura divina, ma soltanto rispetto alla Sua natura umana assunta. Secondo, si può dire che una cosa sia perfetta in senso limitato, ad esempio in relazione alla sua natura, allo stato o al tempo in cui si trova. Un uomo virtuoso, ad esempio, è considerato perfetto; tuttavia, rispetto a Dio, la sua perfezione appare incompleta, come affermato nella parola di Isaia 40:17: “Tutte le nazioni sono davanti a Lui come se non esistessero affatto”. In questo senso, l’umiltà può essere appropriata a ogni uomo.
+
+Risposta all’Obiezione 5: Il filosofo intendeva trattare le virtù in relazione alla vita civica, nella quale la sottomissione di un uomo a un altro è definita secondo gli ordinamenti della legge e, pertanto, rientra nell’ambito della giustizia legale. Tuttavia, l’umiltà, considerata come una virtù specifica, riguarda principalmente la sottomissione dell’uomo a Dio, per il cui amore egli si umilia sottomettendosi agli altri.
+
 <span class="atom-split" data-atom="200" data-title="Whether humility has to do with the appetite?" data-chapter="Whether humility has to do with the appetite?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that humility concerns, not the appetite but the judgment of reason.
@@ -9451,6 +12525,28 @@ Reply to Objection 4: Excess in outward expenditure and parade is wont to be don
 view of boasting, which is suppressed by humility. Accordingly humility has to do, in a secondary
 way, with externals, as signs of the inward movement of the appetite.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’umiltà riguardi non il desiderio, ma il giudizio della ragione. Infatti, l’umiltà è l’opposto dell’orgoglio; e l’orgoglio riguarda cose legate alla conoscenza. Gregorio afferma (Moralia, xxxiv, 22) che “l’orgoglio, quando si estende verso l’esterno, verso il corpo, si manifesta prima di tutto negli occhi”; per questo è scritto nel Salmo 130:1: “Signore, il mio cuore non è orgoglioso, né i miei occhi sono altivi”. Gli occhi, infatti, sono i principali strumenti della conoscenza. Pertanto, sembrerebbe che l’umiltà riguardi principalmente la conoscenza, attraverso la quale si tende a sottovalutare se stessi.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (De Virginit. xxxi) che “quasi tutta l’insegnamento cristiano consiste nell’umiltà”. Pertanto, nulla di ciò che è contenuto nell’insegnamento cristiano è incompatibile con l’umiltà. Ora, l’insegnamento cristiano ci esorta a cercare le cose migliori, secondo 1 Corinzi 12:31: “Sforzatevi di ottenere i doni più preziosi”. Pertanto, rientra nell’ambito dell’umiltà non reprimere il desiderio di cose difficili, ma moderarne la valutazione.
+
+Obiezione 3: Inoltre, appartiene alla stessa virtù sia contenere i movimenti eccessivi, sia rafforzare l’anima contro un’eccessiva ritirata dal mondo esterno; pertanto la forza d’animo limita tanto l’audacia quanto rafforza l’anima contro la paura. Ora, è proprio la magnanimità a rafforzare l’anima di fronte alle difficoltà che si presentano nella ricerca di grandi obiettivi. Pertanto, se l’umiltà dovesse limitare il desiderio di cose grandi, ne conterrebbe che l’umiltà non sia una virtù distinta dalla magnanimità, il che è chiaramente falso. Quindi, l’umiltà riguarda non il desiderio stesso di cose grandi, ma la valutazione che ne facciamo.
+
+Obiezione 4: Inoltre, Andronico nel suo *De Affectibus* attribuisce l’umiltà alle manifestazioni esterne; afferma infatti che l’umiltà sia “l’abitudine di evitare spese eccessive e ostentazioni”. Pertanto, essa non riguarda il funzionamento dei desideri o degli appetiti umani.
+
+Al contrario, Agostino afferma (De Poenit., *Serm. cccli*) che “l’uomo umile è colui che sceglie di essere povero e umiliato nella casa del Signore, piuttosto che abitare nelle tende dei peccatori”. Ma la scelta riguarda l’appetito; pertanto l’umiltà ha a che fare con l’appetito, e non con la facoltà di giudizio.
+
+Rispondo che, come già detto sopra (A[1]), appartiene propriamente all’umiltà il fatto che un uomo si astenga dal desiderare ciò che è al di sopra delle sue possibilità. A tale scopo, deve essere consapevole della propria inferiorità rispetto a ciò che va oltre le sue capacità. Pertanto, la conoscenza delle proprie carenze rientra nell’ambito dell’umiltà, come regola guida per il proprio desiderio. Tuttavia, l’umiltà è essenzialmente insita nel desiderio stesso; quindi si può dire che, in senso stretto, l’umiltà moderi l’espressione di tale desiderio.
+
+Risposta all’Obiezione 1: Gli occhi alzati verso l’alto sono un segno di orgoglio, poiché escludono rispetto e timore; infatti, le persone timide e rispettose tendono a tenere gli occhi bassi, come se non osassero confrontarsi con gli altri. Tuttavia, ciò non significa che l’umiltà sia essenzialmente legata alla conoscenza.
+
+Risposta all’Obiezione 2: È contrario all’umiltà puntare a cose più grandi confidando nelle proprie forze; ma puntare a cose più grandi confidando nell’aiuto di Dio non è contrario all’umiltà, soprattutto perché più ci sottomettiamo a Dio, più siamo elevati ai suoi occhi. Pertanto Agostino dice (De Virginitate, xxxi): “È una cosa elevarsi verso Dio, un’altra elevarsi contro di Lui. Chi si umilia davanti a Lui, viene elevato da Lui; chi si eleva contro di Lui, viene abbassato da Lui.”
+
+Risposta all’Obiezione 3: Nella forza d’animo esiste lo stesso motivo che spinge a reprimere l’audacia e a rafforzare l’anima contro la paura: poiché in entrambi i casi il fine è che l’uomo ponga il bene razionale al di sopra dei pericoli della morte. Tuttavia, il motivo che spinge a reprimere una speranza presuntuosa – e questo aspetto riguarda l’umiltà – non è lo stesso che quello che serve a rafforzare l’anima contro la disperazione. Il motivo per rafforzare l’anima contro la disperazione consiste nell’acquisire ciò che è veramente giusto e appropriato all’uomo, affinché quest’ultimo non si renda indegno di un bene che gli è comunque accessibile; mentre il motivo principale per reprimere una speranza presuntuosa deriva dalla reverenza divina, che insegna all’uomo a non attribuirsi più di quanto gli sia concesso secondo la posizione che Dio gli ha assegnato. Pertanto, l’umiltà sembrerebbe indicare innanzitutto la sottomissione dell’uomo a Dio; e per questo motivo Agostino (De Serm. Dom. in Monte i, 4) attribuisce all’umiltà – intesa come povertà di spirito – il dono della paura, che permette all’uomo di riverire Dio. Ne consegue quindi che il rapporto tra forza d’animo e audacia è diverso da quello tra umiltà e speranza: la forza d’animo utilizza l’audacia piuttosto che reprimerla; perciò un eccesso di audacia è più vicino alla forza d’animo di quanto ne sia l’assenza. Dall’altra parte, l’umiltà reprime la speranza o la fiducia in sé stessi piuttosto che utilizzarle; per questo motivo un’eccessiva fiducia in sé è più contraria all’umiltà di quanto ne sia la mancanza.
+
+Risposta all’Obiezione 4: L’eccesso nelle spese esterne e nei gesti di ostentazione è solitamente motivato dal desiderio di vantarsi, un sentimento che viene represso dall’umiltà. Pertanto, l’umiltà ha, in modo secondario, a che fare con gli aspetti esteriori, considerati segni del movimento interiore degli appetiti umani.
+
 <span class="atom-split" data-atom="201" data-title="Whether one ought, by humility, to subject oneself to all men?" data-chapter="Whether one ought, by humility, to subject oneself to all men?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one ought not, by humility, to subject oneself to all men. For,
@@ -9513,6 +12609,24 @@ as of other virtues, lest they conduce to the detriment of others. If, however, 
 and others take therefrom an occasion of sin, this is not imputed to the man who acts with humility;
 since he does not give scandal, although others take it.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che, per umiltà, non si dovrebbe sottomettersi a tutti gli uomini. Infatti, come detto sopra (A[2], ad 3), l’umiltà consiste principalmente nella sottomissione dell’uomo a Dio. Ora, non si dovrebbe offrire a un uomo ciò che è dovuto a Dio, come avviene in tutti gli atti di [culto](/concepts/religion) religioso. Pertanto, per umiltà, non si dovrebbe sottomettersi agli uomini.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (De Nat. et [Gratia](/concepts/grace) xxxiv): “L’umiltà dovrebbe assumere il ruolo della verità, non della menzogna”. Ora, alcuni uomini appartengono alle classi sociali più elevate e non possono, senza mentire, sottomettersi ai loro inferiori. Pertanto, non si dovrebbe, attraverso l’umiltà, sottomettersi a tutti gli uomini.
+
+Obiezione 3: Inoltre, nessuno dovrebbe compiere atti che possano recare danno al benessere spirituale di un altro. Tuttavia, se una persona si sottomette a un’altra con umiltà, ciò può essere dannoso per colui verso il quale si sottomette; infatti, quest’ultimo potrebbe diventare orgoglioso o disprezzare la prima. Per questo motivo Agostino afferma nella sua Regola (Epistola ccxi): “Affinché l’autorità di chi ha un ruolo superiore non venga meno a causa di un’eccessiva umiltà”. Pertanto, una persona non dovrebbe sottomettersi con umiltà a tutti.
+
+Al contrario, è scritto (Filippi 2:3): “Con umiltà, ciascuno debba stimare gli altri più di se stesso.”
+
+Rispondo che nell’uomo si possono considerare due aspetti: quello che appartiene a Dio e quello che appartiene all’uomo stesso. Quanto riguarda i difetti, tutto appartiene all’uomo; ma quanto riguarda il suo benessere e la sua perfezione, tutto appartiene a Dio, come si legge in Osea 13:9: “La distruzione è tua, o Israele; la tua salvezza sta soltanto in Me”. L’umiltà, come già detto (A[1], ad 5; A[2], ad 3), consiste nella reverenza con cui l’uomo si sottomette a Dio. Pertanto, ognuno dovrebbe sottomettersi al proprio prossimo riguardo a ciò che questi possiede di divino; tuttavia l’umiltà non richiede che si ponga ciò che si ha da Dio al di sotto di ciò che sembra essere divino in un altro. Chi possiede doni divini sa infatti di averli, come si legge in 1 Corinzi 2:12: “Affinché conosciamo ciò che ci è stato dato da Dio”. Pertanto, senza pregiudicare l’umiltà, si può considerare i propri doni divini superiori a quelli che altri sembrano aver ricevuto; come dice l’Apostolo in Efesini 3:5: “Il mistero di Cristo non era noto ai figli degli uomini così com’è ora rivelato ai suoi santi apostoli”. Allo stesso modo, l’umiltà non richiede che si ponga ciò che si possiede in termini umani al di sotto di ciò che il prossimo possiede; altrimenti ognuno dovrebbe considerarsi un peccatore più grave degli altri; mentre l’Apostolo dice, senza pregiudicare l’umiltà (Galati 2:15): “Noi per natura siamo Ebrei, e non Gentili, peccatori”. Tuttavia, si può riconoscere nel prossimo qualcosa di buono che a noi manca, o in se stessi qualcosa di male che l’altro non ha; ed è proprio per questo motivo che si dovrebbe sottomettersi al prossimo con umiltà.
+
+Risposta all’Obiezione 1: Dobbiamo non solo riverire Dio in Sé Stesso, ma anche ciò che è Suo in ciascuno di noi, sebbene non con lo stesso grado di reverenza che riserviamo a Dio stesso. Pertanto, dovremmo sottometterci umilmente a tutti i nostri simili per amore di Dio, secondo 1 Pietro 2:13: “Siate sottomessi, a ogni creatura umana per amore di Dio”; ma solo a Dio dobbiamo rendere l’adorazione che è propria della latria.
+
+Risposta all’Obiezione 2: Se consideriamo ciò che il nostro vicino possiede di Dio come superiore a ciò che noi possediamo, non possiamo commettere errori o falsità. Per questo motivo, una spiegazione di Sant’Agostino (*QQ. lxxxiii, qu. 71*) riguardo al versetto Filosofi 2:3 (“Valutate gli altri più di voi stessi”) afferma: “Non dobbiamo valutarli fingendo di stimarli; piuttosto, dobbiamo riconoscere che è possibile che un altro possieda qualcosa che ci è nascosto e grazie a cui sia superiore a noi, anche se il nostro stesso bene, che apparentemente ci rende migliori di lui, non è nascosto”.
+
+Risposta all’Obiezione 3: L’umiltà, come le altre virtù, risiede principalmente nell’anima stessa. Pertanto, un uomo può sottomettersi a un altro attraverso un atto interiore dell’anima, senza fornire all’altro l’occasione di nuocere al suo benessere spirituale. È ciò che Agostino intende nella sua Regola (Ep. ccxi): “Con timore, il superiore dovrebbe prostrarsi ai tuoi piedi davanti a Dio.” D’altra parte, è necessario osservare una moderazione anche negli atti esteriori di umiltà, così come in quelli delle altre virtù, affinché non portino danno agli altri. Tuttavia, se un uomo agisce secondo quanto è dovuto e gli altri ne traggono l’occasione per peccare, ciò non può essere attribuito a colui che ha agito con umiltà; poiché egli non ha causato scandalo, anche se gli altri lo hanno fatto.
+
 <span class="atom-split" data-atom="202" data-title="Whether humility is a part of modesty or temperance?" data-chapter="Whether humility is a part of modesty or temperance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that humility is not a part of modesty or temperance. For humility
@@ -9559,6 +12673,24 @@ or temperance by reason of its mode.
 Reply to Objection 3: Although humility and magnanimity agree as to matter, they differ as
 to mode, by reason of which magnanimity is reckoned a part of fortitude, and humility a part of
 temperance.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’umiltà non faccia parte della modestia o della temperanza. Infatti, l’umiltà riguarda principalmente la reverenza con cui si è sottomessi a Dio, come detto sopra (A[3]). Ora, poiché avere Dio come oggetto appartiene a una [virtù teologica](/concepts/theological_virtues), l’umiltà dovrebbe essere considerata una virtù teologica piuttosto che una componente della modestia o della temperanza.
+
+Obiezione 2: Inoltre, la temperanza riguarda l’ambito dei desideri sensuali, mentre l’umiltà sembrerebbe appartenere all’ambito dell’irascibilità, proprio come l’orgoglio, che le è opposto e il cui oggetto sono cose difficili da ottenere. Pertanto, apparentemente l’umiltà non fa parte della temperanza o della modestia.
+
+Obiezione 3: Inoltre, umiltà e magnanimità riguardano lo stesso oggetto, come già detto sopra (A[1], ad 3). Tuttavia, la magnanimità è considerata parte della forza d’animo, non della temperanza, come affermato in precedenza (Q[129], A[5]). Pertanto, sembrerebbe che l’umiltà non sia una componente né della temperanza né della modestia.
+
+Al contrario, Origene afferma (Hom. viii super Luc.: “Se vuoi conoscere il nome di questa virtù e come venisse chiamata dai filosofi, sappi che l’umiltà che Dio considera tale è la stessa cosa che loro chiamavano ‘metriotes’, cioè misura o moderazione”. Ora, questo riguarda chiaramente la modestia o la temperanza. Pertanto, l’umiltà fa parte della modestia o della temperanza.
+
+Rispondo che, come già detto sopra (Q[137], A[2], ad 1; Q[157], A[3], ad 2), nell’attribuire componenti a una virtù consideriamo principalmente la somiglianza derivante dal modo in cui essa si manifesta. Ora, il modo specifico della temperanza, da cui essa trae principalmente la sua lode, consiste nel contenere o reprimere l’impetuosità delle passioni. Pertanto, tutte le virtù che limitano o soffocano tali impulsi, nonché le azioni che moderano l’intensità delle emozioni, vengono considerate parti integranti della temperanza. Proprio come la umiltà reprime il moto dell’ira, così anche la modestia reprime il moto della speranza, cioè di uno spirito orientato verso grandi obiettivi. Per questo motivo, proprio come l’umiltà, anche la modestia è considerata una componente fondamentale della temperanza. Per questa stessa ragione, il Filosofo (Etica, iv, 3) afferma che un uomo che si dedica a cose di piccola entità, in linea con il proprio modo di essere, non è nobile, ma “temperante”; e tale persona può essere definita umile. Inoltre, per i motivi già espressi sopra (Q[160], A[2]), tra le varie componenti della temperanza, quella sotto cui rientra l’umiltà è la modestia, intesa nel senso indicato da Tullio nel De Inventione Rhetorica (ii, 54): l’umiltà, infatti, non è altro che una forma di moderazione dello spirito. Ecco perché si legge nella Prima Lettera ai Petri (3:4): “Nell’integrità di uno spirito mite e pacato”.
+
+Risposta all’Obiezione 1: Le virtù teologali, il cui oggetto è il nostro fine ultimo – che rappresenta il principio fondamentale in materia di desideri e appetiti – sono le cause di tutte le altre virtù. Pertanto, il fatto che l’umiltà derivi dalla reverenza per Dio non impedisce che essa faccia parte delle virtù della modestia o della temperanza.
+
+Risposta all’Obiezione 2: Le parti di una virtù principale vengono attribuite in base a una somiglianza, non per quanto riguarda il soggetto o l’oggetto, ma in relazione al modo formale, come già detto sopra (Q[137], A[2], ad 1; Q[157], A[3], ad 2). Pertanto, sebbene l’umiltà appartenga all’irascibile in quanto soggetto, viene considerata una parte della modestia o della temperanza in base al suo modo formale.
+
+Risposta all’Obiezione 3: Sebbene umiltà e magnanimità concordino in merito al contenuto, differiscono per il modo in cui si manifestano; per questo motivo la magnanimità viene considerata una forma di forza d’animo, mentre l’umiltà è ritenuta un aspetto della temperanza.
 
 <span class="atom-split" data-atom="203" data-title="Whether humility is the greatest of the virtues?" data-chapter="Whether humility is the greatest of the virtues?" data-kind="atom" data-srclang="en"></span>
 
@@ -9637,6 +12769,28 @@ humility, that outward exaltation is to be despised. Thus humility is, as it wer
 man's untrammeled access to spiritual and divine goods. Accordingly as perfection is greater than
 disposition, so charity, and other virtues whereby man approaches God directly, are greater than
 humility.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’umiltà sia la più grande delle virtù. Infatti Crisostomo, spiegando la storia del fariseo e del pubblicano (Lc 18), afferma nell’[*Ecloga hom. vii de Humil. Animi.*] che “se l’umiltà è così veloce da superare persino la giustizia, che è l’accompagnatrice dell’orgoglio, a quale altezza non potrà arrivare se unita alla giustizia? Resterà tra gli angeli presso il trono di Dio”. È quindi evidente che l’umiltà sia considerata superiore alla giustizia. Ora, la giustizia è o la più nobile di tutte le virtù, oppure include tutte le virtù, secondo il Filosofo (Etica V, 1). Pertanto, l’umiltà è davvero la più grande delle virtù.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (De Verb. Dom., Serm. [*S. 10, C[1): “Pensate forse di edificare un grande edificio spirituale? Prima di tutto, curate le fondamenta dell’umiltà.” Ciò sembrerebbe implicare che l’umiltà sia la base di tutte le virtù; pertanto, appare chiaramente che essa sia più importante delle altre virtù.
+
+Obiezione 3: Inoltre, la virtù più grande merita la ricompensa più grande. Ora, la ricompensa più grande spetta all’umiltà, poiché “colui che si umilia sarà esaltato” (Lc 14:11). Pertanto, l’umiltà è la virtù più grande di tutte.
+
+Obiezione 4: Inoltre, secondo Agostino (De Vera Relig. 16), “tutta la vita di Cristo sulla terra fu un esempio di comportamento morale, offerto attraverso la [natura umana](/axes/human_nature) che Egli stesso assunse”. In particolare, Egli propose la Sua umiltà come modello per noi, dicendo (Matteo 11:29): “Imparate da Me, perché Io sono mite e umile di cuore”. Inoltre, Gregorio dice (Pastor. iii, 1) che “la lezione che ci viene offerta nel mistero della nostra redenzione è l’umiltà di Dio”. Pertanto, l’umiltà sembrerebbe essere la più grande delle virtù.
+
+Al contrario, la Carità è considerata superiore a tutte le altre virtù, secondo il Colossesi 3:14: “Di tutte le cose, la carità è la più importante”. Pertanto, l’umiltà non è la più grande delle virtù.
+
+Rispondo che il bene delle virtù umane riguarda l’ordine della ragione; tale ordine viene considerato principalmente in relazione allo scopo finale, e per questo le [virtù teologiche](/concepts/theological_virtues) sono le più grandi, poiché hanno lo scopo ultimo come loro oggetto. In secondo luogo, l’ordine della ragione viene considerato anche in relazione alla disposizione dei mezzi al fine stesso. Questa disposizione, per sua essenza, risiede nella ragione stessa da cui deriva; ma, attraverso la partecipazione delle facoltà umane, si realizza nell’appetito regolato dalla ragione; e questa disposizione è l’effetto della giustizia, in particolare della giustizia legale. Ora, l’umiltà rende un uomo un buon soggetto alle varie forme di ordine e in tutte le questioni; mentre le altre virtù hanno questo effetto soltanto in ambiti specifici. Pertanto, dopo le virtù teologiche, dopo le virtù intellettuali che riguardano la ragione stessa, e dopo la giustizia, soprattutto quella legale, l’umiltà si colloca al di sopra di tutte le altre virtù.
+
+Risposta all’Obiezione 1: L’umiltà non viene posta prima della giustizia, ma prima di quella giustizia che è unita all’orgoglio e che quindi non è più una virtù; tuttavia, d’altra parte, il peccato viene perdonato attraverso l’umiltà: infatti si dice del pubblicano (Lc 18:14) che, grazie al merito della sua umiltà, “se ne andò a casa giustificato”. Per questo motivo Crisostomo afferma nel [*De incompr. Nat. Dei, Hom. v*]: “Portatemi una coppia di carri a due cavalli: in uno attaccate l’orgoglio alla giustizia, nell’altro il peccato all’umiltà; vedrete che il peccato, superando la giustizia, non vince per la propria forza, ma per quella dell’umiltà; mentre l’altra coppia sarà sconfitta, non a causa della debolezza della giustizia, ma a causa del peso e delle dimensioni dell’orgoglio”.
+
+Risposta all’Obiezione 2: Proprio come l’ordinata disposizione delle virtù può essere paragonata a un edificio, in base a una certa somiglianza, allo stesso modo ciò che rappresenta il primo passo nell’acquisizione delle virtù può essere considerato la fondazione, che viene posata prima di tutto il resto dell’edificio. Le virtù, infatti, sono state realmente donate da Dio. Pertanto, il primo passo nell’acquisizione delle virtù può essere inteso in due modi: innanzitutto, come un atto volto ad eliminare gli ostacoli; in questo senso, l’umiltà occupa il primo posto, poiché scaccia l’orgoglio – che “Dio resiste” – e rende l’uomo sottomesso e sempre aperto all’influsso della grazia divina. Per questo motivo si legge (Giacomo 4:6): “Dio resiste agli orgogliosi, ma dona la sua grazia agli umili”. In questo senso, l’umiltà è considerata la fondazione dell’edificio spirituale. In secondo luogo, una virtù può essere considerata la prima tra tutte perché rappresenta il primo passo verso Dio; in questo caso, il primo passo verso Dio è la fede, come affermato in Ebrei 11:6: “Chi vuole venire a Dio deve credere”. In questo senso, la fede costituisce una fondazione ancora più preziosa dell’umiltà.
+
+Risposta all’Obiezione 3: A colui che disprezza le cose terrene, vengono promesse le cose celesti; così, i tesori celesti sono promessi a coloro che disprezzano le ricchezze terrene, secondo Matteo 6:19-20: “Non accumulate tesori sulla terra, ma accumulate tesori nel cielo”. Allo stesso modo, consolazioni celesti vengono promesse a coloro che disprezzano i piaceri mondani, secondo Matteo 4:5: “Beati quelli che piangono, perché saranno consolati”. In modo analogo, un’ascesa spirituale viene promessa all’umiltà, non perché l’umiltà stessa la meriti in sé, ma perché è proprio dell’umiltà disprezzare le cose terrene che possono portare ad una simile ascesa. Per questo Agostino afferma nel “De Poenitentia” (*Serm. cccli*): “Non pensate che colui che si umilia rimanga per sempre abbassato, perché è scritto: ‘Sarà esaltato’. E non immaginate che la sua elevazione agli occhi degli uomini sia dovuta ad una qualche ascesa fisica”.
+
+Risposta all’Obiezione 4: Il motivo per cui Cristo ci ha proposto soprattutto l’umiltà è che essa elimina in modo particolare l’ostacolo al benessere spirituale dell’uomo, ostacolo rappresentato dal desiderio di raggiungere cose celesti e spirituali, desiderio che viene intralciato dall’aspirazione ad essere grandi in cose terrene. Pertanto, il nostro Signore, al fine di eliminare questo ostacolo, ha dimostrato con l’esempio dell’umiltà che l’elevamento esteriore deve essere disprezzato. In questo senso, l’umiltà rappresenta, per così dire, una disposizione che permette all’uomo di accedere liberamente ai beni spirituali e divini. Così come la perfezione è superiore alla semplice disposizione, anche la carità e altre virtù attraverso le quali l’uomo si avvicina direttamente a Dio sono superiori all’umiltà.
 
 <span class="atom-split" data-atom="204" data-title="Whether twelve degrees of humility are fittingly distinguished in the Rule of the Blessed Benedict?" data-chapter="Whether twelve degrees of humility are fittingly distinguished in the Rule of the Blessed Benedict?" data-kind="atom" data-srclang="en"></span>
 
@@ -9742,6 +12896,30 @@ Reply to Objection 5: This argument also considers the degrees of humility not a
 the nature of the thing, in respect of which the aforesaid degrees are assigned, but according to the
 various conditions of men.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i dodici gradi di umiltà indicati nella Regola del Beato Benedetto siano disposti in modo inappropriato. Il primo grado consiste nel “essere umili non solo nel cuore, ma anche nell’esprimerlo con il proprio comportamento, tenendo lo sguardo basso”; il secondo è “parlare poco e con parole sensate, senza alzare la voce”; il terzo è “non essere facilmente commossi o inclini a ridere”; il quarto è “mantenere il silenzio fino a quando non si viene interpellati”; il quinto è “non fare altro se non ciò che prescrive la regola comune del monastero”; il sesto è “riconoscere di essere più spregevoli di tutti gli uomini”; il settimo è “considerarsi inutili e privi di valore per qualsiasi scopo”; l’ottavo è “confessare i propri peccati”; il nono è “adottare la pazienza obbedendo anche in circostanze difficili e contrarie”; il decimo è “sottomettersi a un superiore”; l’undicesimo è “non godere nel soddisfare i propri desideri”; il dodicesimo è “temere Dio e ricordarsi sempre di tutto ciò che Egli ha comandato”. Tuttavia, alcuni di questi gradi riguardano anche altre virtù, come l’obbedienza e la pazienza; inoltre, alcuni sembrano implicare un’opinione errata – e questo è contrario a qualsiasi virtù – ovvero considerarsi più spregevoli di tutti gli uomini e riconoscere di essere totalmente inutili e privi di valore. Pertanto, questi gradi sono disposti in modo inappropriato tra i dodici gradi di umiltà indicati nella Regola del Beato Benedetto.
+
+Obiezione 2: Inoltre, l’umiltà, come anche le altre virtù, nasce dall’interno e si estende all’esterno. Pertanto, nei gradi menzionati in precedenza, quelle virtù che riguardano le azioni esterne vengono collocate in modo inappropriato prima di quelle che riguardano le azioni interiori.
+
+Obiezione 3: Inoltre, Anselmo (De Simil. ci, seqq.) individua sette gradi di umiltà; il primo consiste nel “riconoscere se stessi come insignificanti”; il secondo, nel “rammaricarsene”; il terzo, nel “confessarlo apertamente”; il quarto, nel “convincere gli altri della propria insignificanza, desiderando cioè che anch’essi ci credano”; il quinto, nel “sopportare pazientemente che si dica questo di noi”; il sesto, nel “lasciarsi trattare con disprezzo”; il settimo, nell “desiderare essere trattati in questo modo”. Pertanto, questi gradi sembrerebbero eccessivamente numerosi.
+
+Obiezione 4: Inoltre, un commento su Matteo 3:15 afferma: “L’umiltà perfetta si compone di tre gradi. Il primo consiste nel sottometterci a coloro che sono al di sopra di noi, senza porci al di sopra dei nostri pari; questo è sufficiente. Il secondo grado consiste nel sottometterci ai nostri pari, senza metterci al di sopra di coloro che sono al di sotto di noi; questo viene chiamato umiltà abbondante. Il terzo grado consiste nel sottometterci a coloro che sono al di sotto di noi, e in questo risiede la giustizia perfetta.” Pertanto, questi gradi sembrerebbero essere troppi.
+
+Obiezione 5: Inoltre, [Agostino](/figures/augustine) afferma (De Virginit. xxxi): “La misura dell’umiltà viene assegnata a ciascuno in base al suo rango. Essa rischia di essere compromessa dall’orgoglio, poiché più grande è una persona, maggiore è la sua propensione ad essere ingannata”. Ora, la misura della grandezza di una persona non può essere determinata attraverso un numero preciso di gradi. Pertanto, sembrerebbe impossibile assegnare tali gradi all’umiltà.
+
+Rispondo che, come già detto sopra (A[2]), l’umiltà riguarda essenzialmente il desiderio umano; infatti, quando un uomo modera l’impetuosità della propria anima e evita di aspirare in modo eccessivo a cose grandi, allora agisce con umiltà. Tuttavia, il principio fondamentale dell’umiltà risiede nella facoltà cognitiva: non dobbiamo considerarci superiori a ciò che realmente siamo. Inoltre, sia il principio che l’origine di queste qualità derivano dalla reverenza che portiamo verso Dio. La disposizione interiore dell’umiltà si manifesta esteriormente attraverso parole, azioni e gesti, che rivelano ciò che è nascosto dentro di noi, proprio come avviene per le altre virtù. “Un uomo si riconosce dal suo aspetto; il saggio, quando lo incontri, si riconosce dal suo volto” (Ecclesiaste 19:26). Pertanto, i diversi gradi di umiltà includono aspetti legati alla radice stessa di questa virtù, come ad esempio il dodicesimo grado: “che un uomo tema Dio e tenga sempre a mente tutti i suoi comandamenti”. Inoltre, tali gradi comprendono misure volte a impedire che l’uomo aspiri in modo eccessivo alla propria perfezione; ciò avviene in tre modi: primo, non seguendo la propria volontà (undicesimo grado); secondo, regolando tale volontà in base al giudizio superiore (decimo grado); terzo, non arrendendosi di fronte alle difficoltà e ai sacrifici che si presentano lungo il cammino (nono grado). Alcuni aspetti riguardano anche la valutazione che un uomo fa delle proprie carenze: primo, riconoscendo e ammettendo apertamente i propri difetti (ottavo grado); secondo, considerandosi incapace di realizzare grandi cose (settimo grado); terzo, dando priorità agli altri rispetto a sé stesso in questo ambito (sesto grado). Infine, ci sono aspetti legati ai segni esteriori dell’umiltà: primo, non deviare dal comportamento normale nel proprio lavoro (quinto grado); secondo, non parlare troppo in fretta e non esprimersi in modo eccessivo (quarto grado); terzo, controllare i propri gesti, evitando atteggiamenti arroganti o risate insensate (terzo grado).
+
+Risposta all’Obiezione 1: È possibile, senza mentire, riconoscere e affermare di essere le persone più spregevoli tra gli uomini, in relazione ai difetti nascosti che possediamo e ai doni divini che altri hanno ricevuto. Per questo Agostino dice (De Virginitate, lii): “Pensa che alcune persone siano, in qualche modo nascosto, migliori di te, anche se esteriormente tu sei migliore di loro.” Inoltre, senza mentire, si può affermare e credere di essere in ogni senso inutile e privo di valore rispetto alle proprie capacità, riconoscendo che tutta la propria sufficienza deriva da Dio, secondo quanto detto in 2 Corinzi 3:5: “Non è che siamo sufficienti a considerarci degni di lode; ma la nostra sufficienza proviene da Dio.” Non c’è nulla di indecoroso nell’attribuire alla umiltà quelle qualità che appartengono ad altre virtù, poiché, proprio come un vizio deriva da un altro, allo stesso modo l’atto di una virtù scaturisce naturalmente dall’atto di un’altra.
+
+Risposta all’Obiezione 2: L’uomo raggiunge l’umiltà in due modi. Il primo e principale è attraverso un dono della grazia; in questo caso, l’aspetto interiore dell’uomo precede quello esteriore. Il secondo modo consiste nello sforzo umano: innanzitutto l’uomo si impegna a controllare il proprio aspetto esteriore, e successivamente riesce ad eliminare le radici interiori che portano all’arroganza. È seguendo questo ordine che vengono elencati qui i diversi gradi di umiltà.
+
+Risposta all’Obiezione 3: Tutti i gradi menzionati da Anselmo sono riducibili a conoscenza, ammissione e desiderio di propria umiltà. Il primo grado riguarda la conoscenza delle proprie mancanze; ma poiché sarebbe sbagliato amare tali mancanze, questo aspetto viene escluso dal secondo grado. I terzo e quarto grado riguardano l’ammissione aperta delle proprie debolezze: non si tratta semplicemente di affermarle, ma anche di convincere gli altri della loro esistenza. Gli ultimi tre gradi riguardano il desiderio di umiltà, che non mira all’eccellenza esteriore, ma piuttosto alla sottomissione o al sopportamento sereno di essa, sia attraverso parole che azioni. Come afferma Gregorio (Registri ii, 10, Epistola 36): “Non c’è nulla di grande nell’essere umili verso coloro che ci trattano con rispetto, poiché anche le persone comuni fanno lo stesso; ma dobbiamo essere particolarmente umili verso coloro che ci fanno soffrire”. Questo aspetto rientra nei quinto e sesto grado. Il desiderio di umiltà può persino spingersi fino ad abbracciare con amore la propria sottomissione esteriore; questo costituisce il settimo grado. In definitiva, tutti questi gradi sono compresi nei sei o sette menzionati in precedenza.
+
+Risposta all’Obiezione 4: Questi gradi non si riferiscono alla cosa stessa, cioè alla natura dell’umiltà, ma ai diversi livelli di umiltà tra le persone, che possono essere più elevati, più bassi o uguali.
+
+Risposta all’Obiezione 5: Questo argomento considera i gradi di umiltà non in base alla natura della cosa rispetto alla quale tali gradi vengono attribuiti, ma in base alle diverse condizioni delle persone.
+
 <span class="atom-split" data-atom="205" data-title="OF PRIDE (EIGHT ARTICLES)" data-chapter="OF PRIDE (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider pride, and (1) pride in general; (2) the first man's sin, which we hold to
@@ -9754,6 +12932,18 @@ have been pride. Under the first head there are eight points of inquiry:
 (6) Whether it is the most grievous of all sins?
 (7) Of its relation to other sins;
 (8) Whether it should be reckoned a capital vice?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’orgoglio, e in particolare: (1) l’orgoglio in generale; (2) il peccato del primo uomo, che riteniamo sia stato proprio l’orgoglio. Relativamente al primo punto, vi sono otto questioni da esaminare:  
+(1) L’orgoglio è davvero un peccato?  
+(2) È un vizio specifico?  
+(3) In che cosa risiede, in termini del soggetto che lo manifesta?  
+(4) Qual è la sua natura?  
+(5) È un peccato mortale?  
+(6) È il più grave di tutti i peccati?  
+(7) Qual è la sua relazione con gli altri peccati?  
+(8) Dovrebbe essere considerato un vizio capitale?
 
 <span class="atom-split" data-atom="206" data-title="Whether pride is a sin?" data-chapter="Whether pride is a sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -9814,6 +13004,24 @@ magnanimity and humility, from different points of view: to humility, inasmuch a
 subjection, to magnanimity, inasmuch as it tends to great things inordinately. Since, however, pride
 implies a certain elation, it is more directly opposed to humility, even as pusillanimity, which
 denotes littleness of soul in tending towards great things, is more directly opposed to magnanimity.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’orgoglio non sia un peccato. Infatti, nessun peccato è oggetto della promessa di Dio. Le promesse di Dio riguardano ciò che Egli farà; e Lui non è l’autore del peccato. Ora, l’orgoglio è annoverato tra le promesse divine: infatti si legge (Isaia 60:15): “Ti renderò una gloria eterna, una gioia di generazione in generazione”. Pertanto, l’orgoglio non è un peccato.
+
+Obiezione 2: Inoltre, non è un peccato desiderare di essere simili a Dio: poiché ogni creatura possiede un desiderio naturale in questo senso; e ciò vale soprattutto per la creatura razionale, creata a immagine e somiglianza di Dio. Si legge infatti nel Libro delle Sentenze di Prospero, al capitolo 294, che “l’orgoglio è l’amore per la propria eccellenza, attraverso il quale si viene a somigliare a Dio, che è supremamente eccellente”. Pertanto, [Agostino](/figures/augustine) afferma nel Confessione II, 6: “L’orgoglio imita l’elevatezza; mentre Tu solo sei Dio, elevato sopra ogni cosa”. Quindi l’orgoglio non è un peccato.
+
+Obiezione 3: Inoltre, un peccato si oppone non solo a una virtù, ma anche a un vizio contrario, come afferma il Filosofo (Etica, ii, 8). Tuttavia, nessun vizio sembra opporsi all’orgoglio. Pertanto, l’orgoglio non è un peccato.
+
+Al contrario, è scritto (Tobia 4:14): “Non permettere mai che l’orgoglio domini nel tuo cuore o nelle tue parole”.
+
+Rispondo che la superbia è chiamata così perché un uomo, con essa, si propone di raggiungere obiettivi superiori a quelli che realmente possiede; per questo Isidoro afferma (Etym. x): “Si dice che un uomo sia orgoglioso quando desidera apparire migliore di ciò che realmente è”; infatti, colui che cerca di superare i limiti delle proprie possibilità è orgoglioso. Ora, la ragione retta richiede che la volontà di ogni uomo tenda verso ciò che è in proporzione con le sue capacità. Pertanto, è evidente che la superbia rappresenti qualcosa di opposto alla ragione retta, il che dimostra che possiede i tratti di un peccato; infatti, secondo Dionigi (Div. Nom. iv, 4), “il male dell’anima consiste nel contrastare con la ragione”. Quindi, è chiaro che la superbia sia un peccato.
+
+Risposta all’Obiezione 1: La superbia può essere intesa in due modi. In primo luogo, come una condizione che sovrasta le regole della ragione; in questo senso si dice che sia un peccato. In secondo luogo, può semplicemente indicare “eccessiva abbondanza”; in questo caso qualsiasi cosa che sia eccessivamente abbondante può essere definita superbia; ed è proprio in questo senso che Dio promette la superbia come segno di una grande bontà. Pertanto, un commento di Gerolamo su quel passaggio (Isaia 61:6) afferma che esista “una superbia buona e una superbia cattiva”; o meglio, “una superbia peccaminosa che Dio contrasta, e una superbia che indica la gloria che Lui dona”. Si può anche osservare che, in quel contesto, la superbia indica semplicemente l’abbondanza di quelle cose per le quali gli uomini possono provare orgoglio.
+
+Risposta all’Obiezione 2: La ragione indica quelle cose per le quali l’uomo ha un desiderio naturale; pertanto, se tale desiderio si allontana dal dominio della ragione, sia per eccesso che per mancanza, diventa peccaminoso, proprio come avviene nel caso del desiderio di cibo, che l’uomo prova naturalmente. Ora, l’orgoglio rappresenta quel desiderio di eccellenza che va oltre i limiti della ragione retta. Per questo Agostino afferma (De Civ. Dei xiv, 13) che l’orgoglio è “il desiderio di un’elevazione smisurata”; ed è proprio per questa ragione che, come egli sostiene (De Civ. Dei xiv, 13; xix, 12), “l’orgoglio imita Dio in modo eccessivo: poiché ha lo stesso status di comunione con Lui, desidera tuttavia usurpare il Suo dominio sui nostri simili”.
+
+Risposta all’Obiezione 3: L’orgoglio è direttamente opposto alla virtù dell’umiltà, la quale, in un certo senso, tratta dello stesso argomento della magnanimità, come già detto sopra (Q[161], A[1], ad 3). Pertanto, il vizio opposto all’orgoglio per definizione è simile al vizio della pusillanimità, che a sua volta è opposto per definizione alla magnanimità. Infatti, proprio come spetta alla magnanimità spingere l’animo verso grandi imprese contro il dispero, così spetta all’umiltà allontanare l’animo dal desiderio eccessivo di cose grandi contro la presunzione. Ora, se consideriamo la pusillanimità come una mancanza nel perseguire grandi obiettivi, essa è effettivamente opposta per definizione alla magnanimità; ma se la consideriamo come un attaccamento dell’animo a cose inferiori a ciò che è degno di un uomo, allora è opposta per definizione all’umiltà, poiché entrambe derivano da una mentalità meschina. Allo stesso modo, l’orgoglio può essere considerato come un eccesso, sia rispetto alla magnanimità che all’umiltà, ma da prospettive diverse: rispetto all’umiltà, in quanto disprezza la sottomissione; rispetto alla magnanimità, in quanto tende verso grandi imprese in modo eccessivo. Tuttavia, poiché l’orgoglio implica una certa esaltazione, è più direttamente opposto all’umiltà, proprio come la pusillanimità, che indica una piccolezza d’animo nel perseguire grandi obiettivi, è più direttamente opposta alla magnanimità.
 
 <span class="atom-split" data-atom="207" data-title="Whether pride is a special sin?" data-chapter="Whether pride is a special sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -9883,6 +13091,28 @@ does not follow that it is a general sin.
 Reply to Objection 4: Pride regards a special aspect in its object, which aspect may be found
 in various matters: for it is inordinate love of one's excellence, and excellence may be found in
 various things.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’orgoglio non sia un peccato particolare. Infatti, [Agostino](/figures/augustine) afferma (De Nat. et Grat. xxix) che “non esiste alcun peccato che non possa essere definito orgoglio”; inoltre, Prospero sostiene (De Vita Contempl. iii, 2) che “senza orgoglio nessun peccato sarebbe possibile, né lo è stato, né lo sarà mai”. Pertanto, l’orgoglio è un peccato generale.
+
+Obiezione 2: Inoltre, un commento su Giobbe 33:17 – “Affinché l’uomo si allontani dal male / [Vulgata: ‘Dai comportamenti malvagi e sia liberato dall’orgoglio]” – afferma che “un uomo si vanta quando trasgredisce i Suoi comandamenti peccando”. Ora, secondo Ambrogio nel *De Paradiso* viii, “ogni peccato è una trasgressione della [Legge divina](/concepts/divine_law) e un’ disobbedienza ai comandamenti celesti”. Pertanto, ogni peccato rappresenta un atto di orgoglio.
+
+Obiezione 3: Inoltre, ogni peccato specifico è opposto a una virtù specifica. Ma l’orgoglio è opposto a tutte le virtù, poiché Gregorio afferma (Moralia, xxxiv, 23): “L’orgoglio non si accontenta affatto della distruzione di una sola virtù; si solleva contro tutte le forze dell’anima e, come una malattia pervasiva e velenosa, corrompe l’intero essere umano”; inoltre Isidoro sostiene (Etymologia, De Summo Bono ii, 38) che sia “la rovina di tutte le virtù”. Pertanto, l’orgoglio non è un peccato specifico.
+
+Obiezione 4: Inoltre, ogni peccato specifico ha una causa particolare che lo caratterizza. Ora, l’orgoglio presenta una causa generale, poiché Gregorio afferma (Moralia, xxxiv, 23) che “uno è orgoglioso del proprio oro, un altro della propria eloquenza; uno si compiace di cose volgari e terrene, un altro di virtù [sublimi](/concepts/sublime) e celesti”. Pertanto, l’orgoglio non è un peccato specifico, ma generale.
+
+Al contrario, Agostino afferma (De Nat. et Grat. xxix): “Se si esamina attentamente la questione, si scoprirà che, secondo la legge di Dio, l’orgoglio è un peccato molto diverso dagli altri vizi.” Ora, il genere non è diverso dalla sua specie; pertanto, l’orgoglio non è un peccato generale, ma specifico.
+
+Rispondo che il peccato dell’orgoglio può essere considerato in due modi. Primo, riguardo alla sua specie propria, ossia al suo oggetto specifico: in questo senso, l’orgoglio è un peccato particolare, poiché ha come oggetto la propria eccellenza, desiderata in modo eccessivo, come affermato in (A[1], ad 2). Secondo, può essere considerato anche come una causa che contribuisce allo scaturire di altri peccati: in questo caso assume un carattere generico, poiché tutti i peccati possono derivare dall’orgoglio, sia direttamente – quando altri peccati sono volti al raggiungimento dell’eccellenza personale – sia indirettamente, eliminando ostacoli che potrebbero impedire di peccare. Come afferma Geremia 2:20: “Hai spezzato il mio giogo, hai rotto le mie catene e dici: ‘Non servirò’”. Tuttavia, questo carattere generico non implica necessariamente che tutti i vizi derivino sempre dall’orgoglio; infatti, sebbene si possano violare i comandamenti della Legge attraverso qualsiasi tipo di peccato – legati all’odio o all’ignoranza, ad esempio – non è sempre l’orgoglio la causa principale. Per questo motivo Agostino afferma nel De Nat. et Grat. xxix: “Molte cose vengono fatte male, ma non sempre per orgoglio”.
+
+Risposta all’Obiezione 1: Queste parole sono introdotte da Agostino nel suo libro “De Nat. et Grat.” non come sue proprie, ma come quelle di qualcuno con il quale sta discutendo. Pertanto, in seguito egli confuta tale affermazione e dimostra che non tutti i peccati vengono commessi per orgoglio. Tuttavia, si potrebbe ribattere che queste citazioni debbano essere intese come riferite all’effetto esteriore dell’orgoglio, ovvero alla violazione dei comandamenti – un aspetto che riguarda ogni peccato – e non all’atto interno dell’orgoglio stesso, cioè al disprezzo per i comandamenti. Infatti, il peccato viene commesso non sempre per disprezzo, ma a volte per ignoranza, altre volte per debolezza, come già accennato in precedenza.
+
+Risposta all’Obiezione 2: Un uomo può talvolta commettere un peccato in modo effettivo, ma non affettivamente; pertanto colui che, per ignoranza, uccide suo padre è un parricida in modo effettivo, ma non affettivamente, poiché non lo intendeva. Allo stesso modo, si dice che colui che viola il comandamento di Dio si vanti contro Dio, sempre in modo effettivo, ma non sempre affettivamente.
+
+Risposta all’Obiezione 3: Un peccato può distruggere una virtù in due modi. In un modo, attraverso una contrarietà diretta con quella virtù; pertanto l’orgoglio non corrompe tutte le virtù, ma soltanto l’umiltà, proprio come ogni peccato specifico distrugge la virtù specifica a cui si oppone, agendo contro di essa. In un altro modo, un peccato distrugge una virtù utilizzandola in modo errato; ed è così che l’orgoglio distrugge tutte le virtù, poiché trova sempre occasioni per manifestarsi in ogni ambito legato all’eccellenza. Tuttavia, ciò non significa che si tratti di un peccato generale.
+
+Risposta all’Obiezione 4: L’orgoglio riguarda un aspetto particolare del proprio oggetto; tale aspetto può essere riscontrato in diverse situazioni, poiché l’orgoglio rappresenta un amore eccessivo per la propria eccellenza, e l’eccellenza, a sua volta, può esistere in molteplici ambiti.
 
 <span class="atom-split" data-atom="208" data-title="Whether the subject of pride is the irascible faculty?" data-chapter="Whether the subject of pride is the irascible faculty?" data-kind="atom" data-srclang="en"></span>
 
@@ -9957,6 +13187,28 @@ Reply to Objection 4: According to [Augustine](/figures/augustine) (De Civ. Dei 
 emotions of the soul, and is their cause," wherefore it may be employed to denote any of the other
 emotions. It is in this sense that pride is said to be "love of one's own excellence," inasmuch as love
 makes a man presume inordinately on his superiority over others, and this belongs properly to pride.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’oggetto dell’orgoglio non sia la facoltà irascibile. Infatti Gregorio afferma (Moralia, xxiii, 17): “Un’anima gonfia di orgoglio rappresenta un ostacolo alla verità, poiché tale condizione impedisce l’accesso alla luce della ragione”. Ora, la conoscenza della verità riguarda non la facoltà irascibile, ma quella razionale. Pertanto, l’orgoglio non ha origine nella facoltà irascibile.
+
+Obiezione 2: Inoltre, Gregorio afferma (Moralia, xxiv, 8) che “i vanitosi osservano il comportamento altrui non per umiliarsi di fronte a loro, ma per elevarsi al loro di sopra con orgoglio”; da ciò sembrerebbe che l’orgoglio abbia origine nell’osservazione eccessiva. Ora, l’osservazione riguarda la facoltà razionale, non quella irascibile.
+
+Obiezione 3: Inoltre, l’orgoglio cerca la preminenza non solo nelle cose sensibili, ma anche in quelle spirituali e intellegibili; poiché esso consiste essenzialmente nel disprezzo per Dio, secondo Ecclesiaste 10:14 (“L’inizio dell’orgoglio umano è allontanarsi da Dio”), l’irascibilità, essendo una parte del desiderio sensibile, non può estendersi a Dio e alle cose intellegibili. Pertanto, l’orgoglio non può esistere nell’irascibilità.
+
+Obiezione 4: Inoltre, come affermato nel Liber Sententiarum di Prospero, sentenza 294, “L’orgoglio è l’amore per la propria eccellenza”. Ma l’amore appartiene al settore concupiscibile, non a quello irascibile. Pertanto, anche l’orgoglio appartiene al settore concupiscibile, non a quello irascibile.
+
+Al contrario, Gregorio (Morali, ii, 49) oppone l’orgoglio al dono della paura. La paura, infatti, appartiene all’irascibile; pertanto anche l’orgoglio appartiene all’irascibile.
+
+Rispondo che l’oggetto di qualsiasi virtù o vizio deve essere determinato in base al suo vero scopo: infatti, l’oggetto di un’[abitudine](/concepts/custom) o di un atto non può essere altro che l’oggetto della capacità umana che li rende possibili, cioè del soggetto stesso di tali atti. Ora, l’oggetto specifico dell’orgoglio è qualcosa di difficile da realizzare, poiché l’orgoglio consiste nel desiderio di eccellere, come già detto in precedenza (AA[1],2). Pertanto, l’orgoglio deve necessariamente riguardare in qualche modo la facoltà irascibile. La facoltà irascibile può essere intesa in due modi: in senso stretto, come parte dell’appetito sensibile, proprio come l’[ira](/concepts/anger), che è una passione dell’appetito sensibile; in senso più ampio, come appartenente anche all’appetito intellettivo, al quale talvolta viene attribuita anche l’ira. È così che attribuiamo l’ira a Dio e agli angeli, non come passione, ma come simbolo della sentenza di giustizia che emette un verdetto. Tuttavia, la facoltà irascibile intesa in questo senso ampio non è distinta dalla facoltà concupiscente, come già affermato in precedenza nel FP, Q[59], A[4]; FS, Q[82], A[5], ad 1 e 2. Pertanto, se l’oggetto dell’orgoglio fosse semplicemente qualcosa di sensibile verso cui l’appetito sensibile potesse tendere, l’orgoglio dovrebbe risiedere nella facoltà irascibile, che è parte dell’appetito sensibile. Ma poiché l’oggetto dell’orgoglio riguarda sia le cose sensibili che quelle spirituali, dobbiamo concludere che il soggetto dell’orgoglio sia la facoltà irascibile, non solo nel senso stretto di parte dell’appetito sensibile, ma anche in senso più ampio, come applicabile anche all’appetito intellettivo. Per questo motivo, l’orgoglio viene attribuito anche ai demoni.
+
+Risposta all’Obiezione 1: La conoscenza della verità è di due tipi. Uno è puramente speculativo, e l’orgoglio ne ostacola lo sviluppo in modo indiretto, eliminandone la causa stessa. L’uomo orgoglioso, infatti, non sottomette il proprio intelletto a Dio affinché possa ricevere dalla Sua parte la conoscenza della verità; come dice Matteo 11:25: “Queste cose le hai nascoste ai saggi e agli intelligenti, cioè agli orgogliosi che si ritengono tali, e le hai rivelate ai piccoli, cioè agli umili”. Non si degnano nemmeno di imparare nulla dagli altri, mentre è scritto nell’Ecclesiaste 6:34: “Se vuoi prestare orecchio, riceverai insegnamenti”. L’altro tipo di conoscenza della verità è affettiva, e anche questo viene ostacolato direttamente dall’orgoglio: l’uomo orgoglioso, infatti, essendo compiaciuto della propria eccellenza, disprezza l’eccellenza stessa della verità; come afferma Gregorio nel suo “Morale” (xxiii, 17): “Gli orgogliosi, anche se alcune verità nascoste vengono loro rivelate, non riescono a comprenderne la dolcezza; e anche se ne sono a conoscenza, non riescono ad apprezzarle”. Per questo è scritto nel Proverbi 11:2: “Dove c’è umiltà, c’è anche saggezza”.
+
+Risposta all’Obiezione 2: Come già detto sopra (Q[161], AA[2], 6), l’umiltà segue le regole della retta ragione, grazie alle quali un uomo può avere un vero senso di autostima. Il orgoglio, invece, non segue queste regole: colui che è orgoglioso si considera più grande di quanto sia in realtà; ciò deriva da un desiderio eccessivo della propria eccellenza, poiché l’uomo è disposto a credere in ciò che desidera ardentemente. Di conseguenza, tutto ciò che conduce a un’autostima eccessiva conduce anche all’orgoglio; tra questi fattori rientra senz’altro l’osservare i difetti altrui. Al contrario, come afferma Gregorio (Moralia, xxiii, 17), “gli uomini santi, osservando le virtù altrui, li considerano superiori a sé stessi”. Pertanto, la conclusione non è che l’orgoglio appartenga alla facoltà razionale, ma che una delle sue cause risieda nella ragione stessa.
+
+Risposta all’Obiezione 3: L’orgoglio appartiene all’indole irascibile, non solo in quanto parte del desiderio sensuale, ma anche perché possiede un significato più generale, come già detto sopra.
+
+Risposta all’Obiezione 4: Secondo [Agostino](/figures/augustine) (De Civ. Dei xiv, 7,9), “l’amore precede tutte le altre emozioni dell’anima e ne è la causa”; pertanto può essere utilizzato per indicare qualsiasi altra emozione. È in questo senso che l’orgoglio viene definito “amore della propria eccellenza”, poiché l’amore spinge un uomo a presumere in modo eccessivo sulla propria superiorità rispetto agli altri, e ciò appartiene appunto all’essenza dell’orgoglio.
 
 <span class="atom-split" data-atom="209" data-title="Whether the four species of pride are fittingly assigned by Gregory?" data-chapter="Whether the four species of pride are fittingly assigned by Gregory?" data-kind="atom" data-srclang="en"></span>
 
@@ -10057,6 +13309,33 @@ implies contempt of God.
 In these twelve degrees not only are the species of pride indicated, but also certain things that
 precede and follow them, as we have stated above with regard to humility (Q[161], A[6]).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le quattro specie di orgoglio siano state attribuite in modo improprio da Gregorio, il quale afferma (Moralia, xxiii, 6): “Esistono quattro segni attraverso i quali ogni tipo di orgoglio si rivela; sia quando le persone ritengono che il loro bene provenga da sé stesse, sia quando credono che derivi dall’alto, ma pensano comunque che sia dovuto ai propri meriti; sia quando si vanta di possedere ciò che in realtà non ha, sia quando disprezza gli altri e desidera apparire l’unica persona a possederlo.” Poiché l’orgoglio è un vizio distinto dall’incredulità, proprio come l’umiltà è una virtù distinta dalla fede. Ora, se una persona ritiene di non aver ricevuto il proprio bene da Dio, o che il dono della grazia derivi dai propri meriti, ciò riguarda l’incredulità e quindi non dovrebbe essere considerato un tipo di orgoglio.
+
+Obiezione 2: Inoltre, la stessa cosa non dovrebbe essere considerata una specie appartenente a generi diversi. Ora, come detto sopra (Q[110], A[2]; Q[112]), l’orgoglio viene considerato una forma di menzogna; pertanto non dovrebbe essere considerato una specie dell’arroganza.
+
+Obiezione 3: Inoltre, ci sono altre cose che apparentemente riguardano l’orgoglio, ma che qui non vengono menzionate. Infatti, Gerolamo afferma che “niente indica maggiormente l’orgoglio di quanto mostrare di essere ingrati”; inoltre, Agostino scrive (De Civ. Dei xiv, 14) che “appartiene all’orgoglio scusarsi di un peccato commesso”. Inoltre, l’arroganza, che consiste nel cercare di ottenere ciò che è al di sopra delle proprie possibilità, sembrerebbe avere molto a che fare con l’orgoglio. Pertanto, la suddetta classificazione non spiega in modo sufficiente le diverse forme dell’orgoglio.
+
+Obiezione 4: Inoltre, esistono altre forme di orgoglio. Infatti, Anselmo [*Eadmer, De Similitudinibus xxii, seqq.] distingue diversi tipi di orgoglio, definendoli “orgoglio della volontà, orgoglio del linguaggio, orgoglio delle azioni”. Anche Bernardo [*De Gradibus Humilis et Superbius x, seqq.] enumera dodici gradi di orgoglio: “curiosità, frivolezza d’intelletto, risate insensate, vanterie, eccentricità, arroganza, presunzione, difesa dei propri peccati, confessioni mendaci, ribellione, licenziosità, abitudini peccaminose”. Ora, queste forme di orgoglio apparentemente non rientrano nella categoria menzionata da Gregorio. Pertanto, sembrerebbe che quest’ultima sia stata definita in modo improprio.
+
+Al contrario, l’autorità di Gregorio è sufficiente.
+
+Rispondo che, come già detto sopra (AA[1],2,3), l’orgoglio indica un desiderio smodato della propria eccellenza, un desiderio cioè che non è in armonia con la ragione retta. Ora bisogna osservare che ogni forma di eccellenza deriva da un bene posseduto. Tale bene può essere considerato in tre modi:  
+In primo luogo, in sé stesso. È evidente infatti che maggiore è il bene che una persona possiede, maggiore è l’eccellenza che ne deriva. Pertanto, quando un uomo attribuisce a se stesso un bene superiore a quello che realmente possiede, il suo desiderio di eccellenza diventa smodato rispetto alle sue reali capacità; da ciò deriva la terza forma di orgoglio: “la vanteria per qualcosa che non si possiede”.  
+In secondo luogo, il bene può essere considerato in relazione alla sua causa: possedere qualcosa di proprio è infatti più eccellente che possederlo attraverso altri. Quando un uomo valuta come proprio quel bene che ha ricevuto dagli altri, il suo desiderio di eccellenza diventa ancora più smodato. La causa del proprio bene può essere considerata in due modi: in modo efficace o meritevole; da ciò derivano le prime due forme di orgoglio: “quando un uomo pensa di possedere ciò che in realtà ha ricevuto da Dio” o “quando ritiene che ciò che ha ottenuto dall’alto sia dovuto ai propri meriti”.  
+In terzo luogo, il bene può essere considerato in relazione al modo in cui viene posseduto: quando una persona ottiene un’eccellenza maggiore possedendo un certo bene in modo più efficace di altri, il suo desiderio di eccellenza diventa ancora più smodato; da ciò deriva la quarta forma di orgoglio: “quando un uomo disprezza gli altri e desidera essere particolarmente noto”.
+
+Risposta all’Obiezione 1: Un vero giudizio può essere distrutto in due modi. Primo, in modo universale: e quindi, in materia di fede, un vero giudizio viene distrutto dall’incredulità. Secondo, in merito a una particolare scelta o decisione; in questo caso, l’incredulità non ha alcun effetto negativo sul giudizio stesso. Ad esempio, un uomo che commette adulterio ritiene, per il momento, che tale comportamento sia vantaggioso per lui; tuttavia, non si può considerare un incredulo, a meno che non affermi universalmente che l’adulterio sia una cosa buona. Nel caso in esame, quindi, l’incredulità riguarda soltanto l’affermazione universale che esista qualcosa di buono che non proviene da Dio, o che la grazia venga concessa agli uomini in base ai loro meriti; mentre, propriamente parlando, tale atteggiamento appartiene all’orgoglio, e non all’incredulità, quando si tratta di un desiderio eccessivo della propria eccellenza, o di vantarsi dei propri beni o meriti come se fossero frutto delle proprie sole forze.
+
+Risposta all’Obiezione 2: La vanteria è considerata una forma di menzogna, in relazione all’atto esteriore con cui un uomo attribuisce falsamente a se stesso ciò che non possiede; ma in relazione all’arroganza interiore del cuore, Gregorio la considera una forma di orgoglio.
+
+Risposta all’Obiezione 3: L’uomo ingrato attribuisce a sé ciò che ha ricevuto da un altro; pertanto le prime due specie di orgoglio riguardano proprio l’ingratitudine. Scusarsi di un peccato commesso appartiene alla terza specie, poiché in questo modo un uomo si attribuisce il bene dell’innocenza che in realtà non possiede. Tentare presuntuosamente di raggiungere qualcosa che ci è al di sopra sembrerebbe appartenere principalmente alla quarta specie di orgoglio, quella che consiste nel desiderio di essere preferiti agli altri.
+
+Risposta all’Obiezione 4: I tre stadi menzionati da Anselmo corrispondono al [progresso](/positions/progress) di qualsiasi peccato particolare: esso inizia con il suo concepimento nel pensiero, poi si manifesta a parole e infine si realizza nell’azione.  
+I dodici gradi menzionati da Bernardo vengono considerati in contrapposizione ai dodici gradi di umiltà di cui abbiamo parlato in precedenza (Q[161], A[6]). Il primo grado di umiltà consiste nel “essere umili nel cuore e mostrarlo con il proprio comportamento, tenendo lo sguardo basso”; a questo si oppone la “curiosità”, che consiste nel guardarsi intorno in modo eccessivo e irragionevole. Il secondo grado di umiltà è “parlare poco e in modo sensato, senza alzare troppo la voce”; a questo si contrappone la “frivolezza d’animo”, che porta una persona ad essere orgogliosa delle proprie parole. Il terzo grado di umiltà è “non lasciarsi facilmente trascinare dal riso”; a questo si oppone la “risata insensata”. Il quarto grado di umiltà è “mantenere il silenzio fino a quando non ci si viene chiesti di parlare”; a questo si contrappone la “vanteria”. Il quinto grado di umiltà è “non fare altro se non ciò che viene prescritto dalle regole comuni del monastero”; a questo si oppone la “singolarità”, che spinge una persona a voler apparire più santa degli altri. Il sesto grado di umiltà è “riconoscere di essere peggiore di tutti”; a questo si contrappone l’“arroganza”, che porta una persona a considerarsi superiore agli altri. Il settimo grado di umiltà è “pensare di sé come di qualcuno senza valore e inutile per qualsiasi scopo”; a questo si oppone la “presunzione”, che fa credere a una persona di essere capace di cose al di sopra delle sue possibilità. L’ottavo grado di umiltà è “confessare i propri peccati”; a questo si contrappone la “difesa dei propri peccati”. Il nono grado è “adottare la pazienza, obbedendo anche in circostanze difficili e contrarie”; a questo si oppone la “confessione ingannevole”, che avviene quando una persona, riluttante ad essere punita per i propri peccati, li confessa in modo falso. Il decimo grado di umiltà è l’“obbedienza”; a questo si contrappone la “ribellione”. L’undicesimo grado di umiltà è “non godere nel soddisfare i propri desideri”; a questo si oppone la “licenziosità”, che porta una persona a fare liberamente ciò che vuole. L’ultimo grado di umiltà è la “paura di Dio”; a questo si contrappone l’“abitudine al peccato”, che implica disprezzo per Dio.  
+In questi dodici gradi non sono indicate soltanto le diverse forme di orgoglio, ma anche alcune cose che precedono e seguono tali stati d’animo, come abbiamo già spiegato riguardo all’umiltà (Q[161], A[6]).
+
 <span class="atom-split" data-atom="210" data-title="Whether pride is a mortal sin?" data-chapter="Whether pride is a mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that pride is not a mortal sin. For a gloss on Ps. 7:4, "O Lord my
@@ -10105,6 +13384,24 @@ Reply to Objection 3: Pride arises from virtue, not as from its direct cause, bu
 accidental cause, in so far as a man makes a virtue an occasion for pride. And nothing prevents one
 contrary from being the accidental cause of another, as stated in Phys. viii, 1. Hence some are even
 proud of their humility.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’orgoglio non sia un peccato mortale. Infatti, una spiegazione del Salmo 7:4 recita: “O Signore mio Dio, se ho compiuto questo, ”; e si aggiunge: “Cioè, il peccato universale che è l’orgoglio”. Pertanto, se l’orgoglio fosse un peccato mortale, lo sarebbe anche ogni altro peccato.
+
+Obiezione 2: Inoltre, ogni peccato mortale è contrario alla carità. Ma l’orgoglio, apparentemente, non è contrario alla carità, né per quanto riguarda l’amore di Dio, né per quanto riguarda l’amore del prossimo; infatti, la superiorità che l’orgoglio induce a desiderare in modo eccessivo non è sempre contraria all’onore di Dio o al bene del prossimo. Pertanto, l’orgoglio non è un peccato mortale.
+
+Obiezione 3: Inoltre, ogni peccato mortale è in opposizione alla virtù. Ma l’orgoglio non è in opposizione alla virtù; al contrario, ne deriva, poiché, come afferma Gregorio (Moralia, xxxiv, 23), “a volte un uomo è esaltato da virtù sublimi e celesti”. Pertanto, l’orgoglio non è un peccato mortale.
+
+Al contrario, Gregorio afferma (Moralia, xxxiv, 23) che “l’orgoglio è un segno evidente dei reprobi, mentre l’umiltà è caratteristica degli eletti”. Tuttavia, le persone non diventano reprobi a causa di peccati veniali; pertanto, l’orgoglio non è un peccato veniale, ma mortale.
+
+Rispondo che l’orgoglio è opposto all’umiltà. L’umiltà, infatti, riguarda propriamente la sottomissione dell’uomo a Dio, come detto sopra (Q[161], A[1], ad 5). Pertanto, l’orgoglio rappresenta proprio la mancanza di questa sottomissione, quando un uomo si eleva al di sopra di ciò che gli è stato destinato secondo la legge o la misura divina, contrariamente alle parole dell’Apostolo (2 Corinzi 10:13): “Non ci glorificheremo oltre la misura che Dio ci ha stabilito”. Per questo si legge nell’Ecclesiaste (10:14): “L’inizio dell’orgoglio umano è allontanarsi da Dio”, poiché radice dell’orgoglio è proprio il rifiuto di sottomettersi a Dio e alla sua volontà. È evidente che non sottoporsi a Dio costituisce di per sé stesso un peccato mortale, poiché questo comportamento significa allontanarsi da Dio; pertanto l’orgoglio, in quanto tale, è un peccato mortale. Tuttavia, proprio come in altri peccati che sono mortali per loro natura (ad esempio la fornicazione e l’adulterio), esistono comportamenti che, a causa della loro imperfezione o dell’aver luogo senza il consenso della ragione, risultano veniali; allo stesso modo, anche nell’ambito dell’orgoglio possono esserci atteggiamenti considerati peccati veniali quando la ragione non li approva.
+
+Risposta all’Obiezione 1: Come già detto sopra (A[2]), l’orgoglio è un peccato generale, non per la sua essenza stessa, ma per una sorta di influenza che esso esercita; infatti tutti i peccati possono avere origine nell’orgoglio. Pertanto, non ne consegue che tutti i peccati siano mortali, ma soltanto quelli che derivano da un orgoglio estremo, che abbiamo definito un peccato mortale.
+
+Risposta all’Obiezione 2: L’orgoglio è sempre contrario all’amore di Dio, poiché l’uomo orgoglioso non si sottomette al dominio divino come dovrebbe. A volte è anche contrario all’amore del prossimo; quando, cioè, un uomo si pone in modo eccessivamente sopra il proprio prossimo: e questo rappresenta a sua volta una trasgressione della legge divina, che ha stabilito un ordine tra gli uomini, secondo cui uno dovrebbe sottomettersi all’altro.
+
+Risposta all’Obiezione 3: L’orgoglio sorge dalla virtù, non come sua causa diretta, ma come una causa accidentale, nel senso in cui un uomo utilizza una virtù come pretesto per provare orgoglio. E nulla impedisce che ciò che è contrario all’orgoglio possa a sua volta essere la causa accidentale di esso, come si afferma nella Physica viii, 1. Per questo motivo, alcuni sono persino orgogliosi della propria umiltà.
 
 <span class="atom-split" data-atom="211" data-title="Whether pride is the most grievous of sins?" data-chapter="Whether pride is the most grievous of sins?" data-kind="atom" data-srclang="en"></span>
 
@@ -10182,6 +13479,25 @@ From this indeed the gravity of pride is made manifest. For just as a wise physi
 to cure a worse disease, allows the patient to contract one that is less dangerous, so the sin of pride
 is shown to be more grievous by the very fact that, as a remedy, God allows men to fall into other
 sins.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’orgoglio non sia il peccato più grave. Infatti, più difficile è evitare un peccato, meno grave sembra essere. Ora, l’orgoglio è proprio ciò che è più difficile da evitare; poiché [Agostino](/figures/augustine) afferma nella sua Regola (Ep. ccxi): “Gli altri peccati si manifestano nell’attuazione di azioni malvagie, mentre l’orgoglio attende proprio le azioni buone per distruggerle”. Pertanto, l’orgoglio non è il peccato più grave.
+
+Obiezione 2: Inoltre, “il male maggiore è opposto al bene maggiore”, come afferma il Filosofo (Etica viii, 10). Ora, l’umiltà – che è opposta all’orgoglio – non è la virtù più grande, come già detto sopra (Q[61], A[5]). Pertanto, i vizi che sono opposti alle virtù maggiori, come l’incredulità, la disperazione, l’odio per Dio, l’omicidio e simili, sono peccati più gravi dell’orgoglio.
+
+Obiezione 3: Inoltre, il male maggiore non viene punito con un male minore. Tuttavia l’orgoglio talvolta viene punito con altri peccati, come affermato in Romani 1:28, dove si dice che a causa del loro orgoglio gli uomini di scienza sono stati condotti “a una condotta riprovevole, a compiere azioni inappropriate”. Pertanto l’orgoglio non è il peccato più grave.
+
+Al contrario, un commento a Salmo 118:51, “I superbi hanno compiuto azioni ingiuste”, afferma: “Il più grande peccato nell’uomo è l’orgoglio”.
+
+Rispondo che, riguardo al peccato, si devono considerare due aspetti: da un lato, la conversione verso un bene mutevole, che costituisce la parte materiale del peccato; dall’altro, l’avversione verso un bene immutabile, che conferisce al peccato il suo aspetto formale e il suo completamento. Per quanto riguarda la conversione, non vi è motivo per ritenere che l’orgoglio sia il più grave dei peccati, poiché ciò che l’orgoglio desidera in modo eccessivo non è essenzialmente incompatibile con il bene della virtù. Tuttavia, nell’ambito dell’avversione, l’orgoglio presenta una gravità estrema: negli altri peccati l’uomo si allontana da Dio per ignoranza, debolezza o desiderio di qualche altro bene; mentre l’orgoglio rappresenta un rifiuto diretto di sottomettersi a Dio e alla Sua legge. Per questo motivo Boezio (*Cfr. Cassiano, De Caenob. Inst. xii, 7*) afferma che “mentre tutti i vizi fuggono da Dio, solo l’orgoglio lo resiste”; ed è proprio per questa ragione che si dice esplicitamente (Giovanni 4:6) che “Dio resiste ai superbi”. L’avversione verso Dio e i Suoi comandamenti, che in altri peccati rappresenta una conseguenza, appartiene per natura all’orgoglio stesso, poiché il suo atto consiste nel disprezzo per Dio. E poiché ciò che appartiene a qualcosa per sua natura ha sempre maggiore importanza di ciò che gli è concesso da altri fattori, ne consegue che l’orgoglio sia il più grave dei peccati in quanto tale, poiché eccede nell’avversione stessa, che costituisce il complemento formale del peccato.
+
+Risposta all’Obiezione 1: È difficile evitare un peccato in due modi. Primo, a causa della violenza con cui si manifesta; ad esempio, l’[ira](/concepts/anger) è particolarmente violenta nella sua azione, data la sua impetuosità; e “ancora più difficile è resistere alla concupiscenza, a causa della sua natura intrinseca”, come affermato nell’Etica ii, 3,9. Una difficoltà di questo tipo nel tentativo di evitare il peccato ne riduce la gravità; infatti, un uomo pecca in modo più grave quanto meno resiste a una tentazione impetuosa, come dice Agostino (De Civitate Dei xiv, 12,15).  
+Secondo, è difficile evitare un peccato anche perché spesso rimane nascosto. In questo senso, è difficile sfuggire all’orgoglio, poiché può insorgere persino dalle azioni buone, come affermato in diversi testi (ad esempio, A[5], ad 3). Agostino lo definisce esplicitamente “un nemico che attende nell’ombra le azioni buone”; e si legge nel Salmo 141:4: “Nel cammino che ho percorso, gli orgogliosi mi hanno teso insidie”. Pertanto, quando l’orgoglio si manifesta in modo subdolo, prima ancora di essere riconosciuto dalla ragione, non ha una gravità particolare; ma una volta scoperto, può essere facilmente evitato riflettendo sulla propria debolezza, come dice l’Ecclesiastico 10:9 (“Perché la terra e la cenere dovrebbero essere orgogliose?”), sulla grandezza di Dio (Job 15:13) e sull’imperfezione delle cose di cui l’uomo si vanta (Isaia 40:6). Inoltre, come si legge in Isaia 64:6, “tutta la nostra giustizia diventa come il panno sporco di una donna mestruante”.
+
+Risposta all’Obiezione 2: L’opposizione tra un vizio e una virtù deriva dall’oggetto di tali concetti, considerato dal punto di vista della loro natura intrinseca. In questo senso, l’orgoglio non può essere considerato il più grave dei peccati, così come l’umiltà non può essere considerata la più grande delle virtù. Tuttavia, l’orgoglio rappresenta il vizio più grave dal punto di vista dell’avversione che suscita; infatti, rende gli altri peccati ancora più gravi. Lo stesso vale per la disperazione e simili sentimenti.
+
+Risposta all’Obiezione 3: Proprio come nei sillogismi che portano a una conclusione impossibile si viene talvolta convinti di fronte a un’assurdità più evidente, allo stesso modo, per superare il loro orgoglio, Dio punisce alcuni uomini permettendo loro di cadere in peccati carnali; tali peccati, sebbene meno gravi, sono certamente più vergognosi. Per questo Isidoro afferma (De Summo Bono ii, 38) che “l’orgoglio è il peggiore di tutti i vizi: sia perché appartiene a coloro che occupano le posizioni più elevate e importanti, sia perché origina da azioni giuste e virtuose, rendendone così il peccato meno evidente. Dall’altra parte, la lussuria carnale è chiaramente visibile a tutti, poiché è di natura vergognosa fin dal suo stesso inizio; eppure, per disposizione divina, è meno grave dell’orgoglio. Chi infatti è prigioniero dell’orgoglio e non se ne rende conto, cade nei peccati carnali, affinché, umiliandosi così, possa risollevarsi dalla sua degradazione”. Da ciò emerge chiaramente la gravità dell’orgoglio: proprio come un saggio medico, per curare una malattia più grave, permette al paziente di contrarne una meno pericolosa, anche il peccato d’orgoglio appare più grave proprio perché Dio, come rimedio, permette agli uomini di cadere in altri peccati.
 
 <span class="atom-split" data-atom="212" data-title="Whether pride is the first sin of all?" data-chapter="Whether pride is the first sin of all?" data-kind="atom" data-srclang="en"></span>
 
@@ -10271,6 +13587,23 @@ covets excellence inordinately: while vainglory covets the outward show of excel
 Reply to Objection 3: The fact that envy, which is a capital vice, arises from pride, does not
 prove that pride is a capital vice, but that it is still more principal than the capital vices themselves.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’orgoglio debba essere considerato un vizio capitale, poiché Isidoro nel suo [*Commento al Deuteronomio xvi*] e Cassiano nel [*De Institutione Caenobitica v, 1; Collatio v, 2*] lo annoverano tra i vizi capitali.
+
+Obiezione 2: Inoltre, l’orgoglio sembra essere lo stesso che la vanità, poiché entrambi anelano all’eccellenza. Ora, la vanità è considerata un vizio capitale; pertanto anche l’orgoglio dovrebbe essere considerato un vizio capitale.
+
+Obiezione 3: Inoltre, [Agostino](/figures/augustine) afferma (De Virginit. xxxi) che “l’orgoglio genera invidia e non esiste mai senza di essa”. Ora, l’invidia è considerata un vizio capitale, come già detto sopra (Q[36], A[4]); pertanto, molto più ancora, l’orgoglio è un vizio capitale.
+
+Al contrario, Gregorio (Morali, xxxi, 45) non include l’orgoglio tra i vizi capitali.
+
+Rispondo che, come già detto sopra (AA[2],5, ad 1), l’orgoglio può essere considerato in due modi: da un lato, in sé stesso, come un peccato specifico; dall’altro, per la sua influenza generale su tutti i peccati. Si dice infatti che i vizi capitali siano dei peccati specifici da cui derivano molti altri tipi di peccato. Pertanto alcuni, considerando l’orgoglio come un peccato specifico, lo hanno incluso tra gli altri vizi capitali. Ma Gregorio, tenendo conto della sua influenza generale su tutti i vizi, come spiegato sopra (A[2], OBJ[3]), non lo ha inserito tra i vizi capitali, ma lo ha definito “la regina e la madre di tutti i vizi”. Per questo motivo afferma (Moralia, xxxi, 45): “L’orgoglio, regina dei vizi, una volta che ha sconfitto e conquistato il cuore dell’uomo, lo consegna immediatamente ai suoi luogotenenti, i sette principali vizi, affinché possano depredarlo e generare ogni sorta di peccato.”  
+Questo basta per rispondere alla prima obiezione.
+
+Risposta all’Obiezione 2: L’orgoglio non è la stessa cosa che la vanità, ma ne è la causa: l’orgoglio anela disordinatamente all’eccellenza; mentre la vanità anela alla manifestazione esteriore dell’eccellenza.
+
+Risposta all’Obiezione 3: Il fatto che l’invidia, che è un vizio capitale, derivi dall’orgoglio non dimostra che l’orgoglio sia anch’esso un vizio capitale, ma piuttosto che esso sia ancora più importante dei vizi capitali stessi.
+
 <span class="atom-split" data-atom="214" data-title="OF THE FIRST MAN'S SIN (FOUR ARTICLES)" data-chapter="OF THE FIRST MAN'S SIN (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the first man's sin which was pride: and (1) his sin; (2) its punishment;
@@ -10280,6 +13613,15 @@ Under the first head there are four points of inquiry:
 (2) What the first man coveted by sinning?
 (3) Whether his sin was more grievous than all other sins?
 (4) Which sinned more grievously, the man or the woman?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il peccato del primo uomo, che fu l’orgoglio: e (1) il suo stesso peccato; (2) la sua punizione; (3) la tentazione che lo spinse a commetterlo.  
+Sotto questo primo aspetto vi sono quattro punti da esaminare:  
+(1) Se l’orgoglio fosse stato il primo peccato del primo uomo;  
+(2) Ciò che il primo uomo desiderava ottenere commettendo quel peccato;  
+(3) Se il suo peccato fosse stato più grave di tutti gli altri;  
+(4) Chi abbia peccato in modo più grave, l’uomo o la donna.
 
 <span class="atom-split" data-atom="215" data-title="Whether pride was the first man's first sin?" data-chapter="Whether pride was the first man's first sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -10350,6 +13692,28 @@ not mean that pride preceded the promptings of the serpent, but that as soon as 
 spoken his words of persuasion, her mind was puffed up, the result being that she believed the
 demon to have spoken truly.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’orgoglio non sia stato il primo peccato dell’uomo primordiale. Infatti l’Apostolo afferma (Romani 5:19) che “per la disobbedienza di un uomo molti divennero peccatori”. Ora, il primo peccato dell’uomo primordiale è quello attraverso cui tutti gli uomini sono diventati peccatori in termini di [peccato originale](/positions/original_sin). Pertanto, l’obbedienza, e non l’orgoglio, fu il primo peccato dell’uomo primordiale.
+
+Obiezione 2: Inoltre, Ambrogio afferma, commentando Luca 4:3, che “il diavolo Gli disse, ”; il diavolo, tentando Cristo, seguì lo stesso ordine utilizzato per sconfiggere l’uomo primogenito. Cristo fu infatti tentato prima dalla gola, come si legge in Matteo 4:3, dove Gli fu detto: “Se sei Figlio di Dio, comanda che queste pietre diventino pane”. Pertanto, il primo peccato dell’uomo primogenito non fu l’orgoglio, ma la gola.
+
+Obiezione 3: Inoltre, l’uomo peccò su suggerimento del diavolo. Ora, il diavolo, tentando l’uomo, gli promise la conoscenza (Genesi 3:5). Pertanto, l’anomalia nell’uomo derivò dal desiderio di conoscenza, che appartiene alla curiosità. Quindi la curiosità, e non l’orgoglio, fu il primo peccato.
+
+Obiezione 4: Inoltre, una spiegazione di Sant’Agostino nel *Genesi ad litteram* XI riguardo al versetto 1 Timoteo 2:14 (“La donna, essendo stata sedotta, commise peccato”), afferma: “L’Apostolo definisce correttamente questo atto di seduzione, poiché le persone furono convinte ad accettare una falsità come vera; cioè che Dio aveva loro proibito di toccare quell’albero, perché sapeva che se lo avessero fatto, sarebbero diventate come dèi, come se Colui che le aveva create come esseri umani le invidiasse la divinità, ”. Ora, credere una cosa del genere costituisce proprio mancanza di fede. Pertanto, il primo peccato dell’uomo fu la mancanza di fede, e non l’orgoglio.
+
+Al contrario, è scritto (Ecclesiaste 10:15): “L’orgoglio è l’inizio di ogni peccato”. Ora, il primo peccato dell’uomo è proprio l’inizio di tutti i peccati, secondo Romani 5:12: “Per mezzo di un uomo il peccato è entrato nel mondo”. Pertanto, il primo peccato dell’uomo fu l’orgoglio.
+
+Rispondo che molti atti possono concorrere verso un unico peccato, e il carattere di peccato si attribuisce a quello in cui l’irregolarità viene per prima volta manifestata. È evidente infatti che l’irregolarità esiste innanzitutto nel movimento interiore dell’anima, prima ancora di manifestarsi nell’atto esteriore del corpo; come afferma Agostino (De Civ. Dei i, 18), la santità del corpo non viene perduta finché rimane intatta quella dell’anima. Inoltre, tra i movimenti interiori, il desiderio umano è spinto prima verso l’oggetto finale che verso ciò che viene desiderato al fine di raggiungere tale scopo; pertanto, il primo peccato dell’uomo fu proprio quello in cui il suo desiderio fu indirizzato verso un fine irregolare. L’uomo, infatti, era stato creato nello [stato](/concepts/state) dell’innocenza, senza alcuna ribellione della carne contro lo spirito; quindi non era possibile che il primo atto di irregolarità derivasse dal suo desiderio di un bene sensibile, verso cui tende la concupiscenza carnale contro l’ordine della ragione. Resta dunque chiaro che il primo errore umano fu dovuto al desiderio irragionevole di qualche bene spirituale; e poiché tale desiderio derivava da un eccesso di orgoglio, è evidente che il primo peccato dell’uomo fu proprio l’orgoglio.
+
+Risposta all’Obiezione 1: L’ disobbedienza dell’uomo al comandamento divino non fu voluta dall’uomo per proprio interesse, poiché ciò sarebbe stato possibile soltanto se si presupponesse un’anomalia nella sua volontà. Pertanto, l’uomo la volle per qualche altro motivo. La prima cosa che desiderava in modo eccessivo era la propria eccellenza; di conseguenza, la sua disobbedienza fu il risultato del suo orgoglio. Ciò concorda con quanto afferma Agostino, il quale dice (Ad Oros, Dial. QQ. lxv, qu. 4) che “l’uomo, gonfio d’orgoglio, obbedì alla tentazione del serpente e disprezzò i comandamenti di Dio”.
+
+Risposta all’Obiezione 2: L’ingordigia ebbe anch’essa un ruolo nel peccato dei nostri primi genitori. Infatti è scritto (Genesi 3:6): “La donna vide che l’albero era buono da mangiare, gradevole agli occhi e delizioso da vedere; ne prese il frutto e lo mangiò”. Tuttavia, proprio la bontà e la [bellezza](/concepts/beauty) del frutto non furono il loro vero motivo per peccare, ma le parole persuasive del serpente, che disse (Genesi 3:5): “I vostri occhi saranno aperti e diventerete come Dio”. Fu proprio desiderando questo che la donna cadde nella vanità. Pertanto, il peccato dell’ingordigia derivò dal peccato della vanità.
+
+Risposta all’Obiezione 3: Il desiderio di conoscenza derivò dal desiderio eccessivo dei nostri primi genitori di raggiungere l’eccellenza. Ecco perché il serpente iniziò dicendo: “Diventerete come dèi”, aggiungendo poi: “Conoscendo il bene e il male”.
+
+Risposta all’Obiezione 4: Secondo Agostino (Genesi ad litteram xi, 30), “la donna non aveva creduto alle parole del serpente, secondo cui Dio li avrebbe vietato di accedere a qualcosa di buono e utile; il suo cuore era già pieno d’amore per la propria forza e di una certa orgogliosa presunzione”. Ciò non significa che l’orgoglio sia preceduto alle insinuazioni del serpente, ma che, non appena queste parole ebbero avuto effetto, il suo spirito si gonfiò d’arroganza, portandola a credere che il demone avesse detto la verità.
+
 <span class="atom-split" data-atom="216" data-title="Whether the first man's pride consisted in his coveting God's likeness?" data-chapter="Whether the first man's pride consisted in his coveting God's likeness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the first man's pride did not consist in his coveting the Divine
@@ -10418,6 +13782,25 @@ as God is of no one, wishes wickedly to be like God. Thus did the devil, who was
 subject to Him, and man who refused to be, as a servant, bound by His command."
 
 Reply to Objection 3: This argument considers the likeness of equality.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’orgoglio del primo uomo non consistesse nel desiderare di assomigliare a Dio. Infatti, nessuno pecca desiderando ciò che è in suo potere secondo la sua natura. Ora, assomigliare a Dio è certamente in potere dell’uomo secondo la sua natura; infatti è scritto (Genesi 1:26): “Facciamo l’uomo a nostra immagine e somiglianza”. Pertanto, il primo uomo non peccò desiderando di assomigliare a Dio.
+
+Obiezione 2: Inoltre, sembrerebbe che l’uomo desiderasse assomigliare a Dio al fine di ottenere la conoscenza del bene e del male; infatti, questa fu proprio la tentazione del serpente: “Diventerete come Dio, conoscendo il bene e il male”. Ora, il desiderio di conoscenza è naturale nell’uomo, secondo quanto afferma il Filosofo all’inizio della sua Metafisica i, 1: “Tutti gli uomini desiderano naturalmente la conoscenza”. Pertanto, l’uomo non peccò desiderando assomigliare a Dio.
+
+Obiezione 3: Inoltre, nessun uomo saggio sceglie ciò che è impossibile. Ora, il primo uomo era dotato di saggezza, secondo l’Ecclesiaste 17:5: “Li riempì della conoscenza della sapienza”. Poiché ogni peccato consiste in un atto deliberato dell’appetito, ovvero in una scelta, sembrerebbe che il primo uomo non abbia peccato desiderando qualcosa di impossibile. Tuttavia, è impossibile per l’uomo essere simile a Dio, secondo quanto detto nell’Esodo 15:11: “Chi è come Te tra i potenti, o Signore?” Pertanto, il primo uomo non ha peccato desiderando di assomigliare a Dio.
+
+Al contrario, [Agostino](/figures/augustine), commentando il Salmo 68:5 nell’[Commento al Salmo 68](/figures/augustine), afferma: “Allora ripagai ciò che non avevo preso”, e aggiunge: “Adamo ed Eva vollero derubare la Divinità e persero la felicità”.
+
+Rispondo che la somiglianza è di due tipi. Uno è una somiglianza di assoluta uguaglianza [*Cfr. FP, Q[93], A[1; e tale somiglianza con Dio i nostri primi genitori non desideravano, poiché essa è incomprensibile per la mente umana, soprattutto per quella di un uomo saggio. L’altro tipo di somiglianza è quella derivante dall’imitazione: una creatura può infatti partecipare, nella misura delle sue possibilità, alla somiglianza divina. Come afferma Dionigi nel “Divino Nome” IX: “Le stesse cose sono simili e dissimili a Dio; simili perché lo imitano, nella misura in cui Egli può essere imitato; dissimili perché un effetto è inferiore alla sua causa”. Ogni bene esistente in una creatura rappresenta dunque una somiglianza partecipata del primo bene. Pertanto, poiché l’uomo desiderava un bene spirituale al di sopra delle sue possibilità, come detto nell’articolo precedente, ne consegue che bramava in modo eccessivo la somiglianza divina. Tuttavia va osservato che l’oggetto del desiderio umano è qualcosa che non si possiede ancora; il bene spirituale, nella misura in cui la creatura razionale partecipa alla somiglianza divina, può essere considerato in relazione a tre aspetti: primo, in termini di essenza naturale; questa somiglianza fu impressa fin dall’inizio della creazione, sia nell’uomo – di cui si dice nel Genesi 1:26 che Dio lo creò “a Sua immagine e somiglianza” – sia nell’angelo. Secondo, in termini di conoscenza; questa somiglianza fu concessa all’angelo al momento della sua creazione, come dimostra il passaggio “Tu sei il sigillo della somiglianza”. Il primo uomo, invece, non ricevette questa somiglianza in modo concreto, ma solo in potenziale. Terzo, in termini di capacità operativa; né l’angelo né l’uomo la possedevano pienamente all’inizio della loro creazione, poiché entrambi avevano ancora qualcosa da compiere per raggiungere la felicità. Pertanto, sebbene sia il diavolo che il primo uomo desiderassero in modo eccessivo la somiglianza divina, nessuno dei due peccò desiderando una somiglianza naturale; il primo uomo invece peccò soprattutto desiderando la somiglianza divina in termini di conoscenza del bene e del male, spinto dall’istigazione del serpente – cioè sperando di poter decidere da solo ciò che era giusto o sbagliato per lui, o di prevedere ciò che gli sarebbe accaduto. Inoltre, peccò desiderando di poter agire con le proprie forze naturali al fine di ottenere la felicità. Per questo Agostino afferma nel “Genesi ad litteram” XI, 30 che “la mente della donna era piena dell’amore per le proprie capacità”. Il diavolo, invece, peccò desiderando la somiglianza divina in termini di potere; per questo Agostino dice nel “De vera religione” 13 che “desiderava godere delle proprie forze piuttosto che di quelle di Dio”. In ogni caso, entrambi bramavano qualcosa che non apparteneva loro.
+In un certo senso, desideravano essere uguali a Dio, nel momento in cui ognuno di loro voleva affidarsi soltanto a se stesso, disprezzando l’ordine del governo divino.
+
+Risposta all’Obiezione 1: Questo argomento considera la somiglianza della natura umana; e l’uomo non ha peccato desiderando ciò che è proprio della sua natura, come già affermato.
+
+Risposta all’Obiezione 2: Non è peccato desiderare assolutamente di assomigliare a Dio in termini di conoscenza; ma desiderarlo in modo eccessivo, cioè al di là delle proprie possibilità, sì che lo è. Per questo Agostino, commentando il Salmo 70:18 (“O Dio, tu che sei simile a te stesso, ”), afferma: “Chi desidera essere come Dio, quando invece Dio non è simile a nessuno, vuole malvagiamente assomigliare a Lui. Così fece il diavolo, che rifiutò di sottomettersi a Lui, e l’uomo, che si rifiutò di essere, come servo, vincolato dai Suoi comandamenti”.
+
+Risposta all’Obiezione 3: Questo argomento considera la somiglianza tra le nozioni di uguaglianza.
 
 <span class="atom-split" data-atom="217" data-title="Whether the sin of our first parents was more grievous than other sins?" data-chapter="Whether the sin of our first parents was more grievous than other sins?" data-kind="atom" data-srclang="en"></span>
 
@@ -10521,11 +13904,33 @@ justice, wherein consists the sin against the Holy Ghost, but as Augustine says 
 Civ. Dei xiv, 11]), it was due to the fact that, "having had no experience of God's severity, he
 thought the sin to be venial," i.e. easily forgiven [*Cf. FS, Q[89], A[3], ad 1].
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il peccato di Adamo fosse più grave di quello di Eva. Infatti è scritto (1 Timoteo 2:14): “Adamo non fu sedotto, ma la donna, essendo stata sedotta, commise il peccato”; quindi sembrerebbe che la donna abbia peccato per ignoranza, mentre l’uomo per conoscenza certa. Ora, secondo Luca 12:47-48, quest’ultimo caso rappresenti un peccato più grave: “Il servo che conosce la volontà del suo padrone e non la attua verrà punito con molte frustate; ma colui che non la conosce e compie comunque azioni degne di punizione verrà punito con poche frustate”. Pertanto, il peccato di Adamo fu più grave di quello di Eva.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (De Decem Chordis 3, *Serm. ix; xcvi de Temp.*): “Se l’uomo è la testa, dovrebbe vivere meglio e dare un esempio di buone azioni alla propria moglie, affinché possa imitarlo.” Ora, colui che dovrebbe comportarsi in modo migliore pecca più gravemente se commette un errore. Pertanto, Adamo ha peccato più gravemente di Eva.
+
+Obiezione 3: Inoltre, il peccato contro lo Spirito Santo sembrerebbe essere il più grave. Ora, Adamo, apparentemente, ha peccato contro lo Spirito Santo, poiché, commettendo il peccato, si è affidato alla misericordia di Dio [*Cfr. Q[21], A[2], OBJ[3]. San Tommaso allude chiaramente alle parole di Pietro Lombardo citate in quel passaggio; ciò riguarda il peccato di presunzione*. Pertanto, sembra che Adamo abbia peccato in modo più grave di Eva.
+
+Al contrario, la punizione corrisponde al peccato. Ora, la donna fu punita in modo più severo dell’uomo, come risulta dal Genesi 3. Pertanto, ella aveva commesso un peccato più grave di lui.
+
+Rispondo che, come affermato in (A[3]), la gravità di un peccato dipende dalla sua specie e non da alcuna circostanza particolare legata a quel peccato. Pertanto dobbiamo riconoscere che, se consideriamo le condizioni specifiche di queste persone, il peccato dell’uomo è più grave, poiché egli era più perfetto della donna. Per quanto riguarda la specie stessa del peccato, si può affermare che entrambi abbiano commesso lo stesso errore: hanno peccato per orgoglio. Come dice Agostino in (Gen. ad lit. xi, 35): “Eva, nel cercare di giustificarsi, rivela la disparità dei sessi, nonostante l’uguaglianza nell’orgoglio”. Tuttavia, per quanto riguarda la specifica forma di orgoglio, il peccato della donna è più grave per tre motivi: in primo luogo, perché era più piena di presunzione dell’uomo; credette infatti alle parole seducenti del serpente, secondo cui Dio aveva proibito loro di mangiare quel frutto per evitare che diventassero simili a Lui. Nel desiderare di raggiungere la somiglianza con Dio attraverso il consumo del frutto proibito, il suo orgoglio raggiunse l’apice, volendo ottenere qualcosa contro la volontà stessa di Dio. D’altra parte, l’uomo non credeva in queste parole; pertanto non desiderava affatto raggiungere quella somiglianza contro la volontà divina; il suo orgoglio consisteva piuttosto nel volerlo fare con le proprie forze. In secondo luogo, la donna non solo commise il peccato lei stessa, ma lo suggerì anche all’uomo; quindi peccò sia contro Dio che contro il proprio prossimo. Infine, il peccato dell’uomo fu mitigato dal fatto che, come afferma Agostino in (Gen. ad lit. xi, 42), “acconsentì al peccato mosso da una sorta di benevola volontà; talvolta infatti un uomo preferisce offendere Dio piuttosto che diventare nemico del proprio amico. Il fatto che non avrebbe dovuto farlo è dimostrato dall’esito giusto della sentenza divina”. È quindi evidente che il peccato della donna sia stato più grave di quello dell’uomo.
+
+Risposta all’Obiezione 1: La donna fu ingannata perché, prima di tutto, era piena di orgoglio. Pertanto, la sua ignoranza non scusò il suo peccato, ma lo aggravò, poiché fu proprio quella ignoranza a farle provare un orgoglio ancora maggiore.
+
+Risposta all’Obiezione 2: Questo argomento prende in considerazione la condizione personale che, nel caso specifico, rendeva il peccato dell’uomo più grave di quello della donna.
+
+Risposta all’Obiezione 3: La fiducia dell’uomo nella misericordia di Dio non arrivò mai al punto di disprezzare la giustizia di Dio, che costituisce il peccato contro lo Spirito Santo; bensì, come afferma Agostino (Genesi ad litteram xi, De Civitate Dei xiv, 11), ciò derivava dal fatto che “non avendo mai sperimentato la severità di Dio, egli riteneva quel peccato veniale”, cioè facilmente perdonabile [*Cfr. FS, Q[89], A[3], ad 1].
+
 <span class="atom-split" data-atom="219" data-title="OF THE PUNISHMENTS OF THE FIRST MAN'S SIN (TWO ARTICLES)" data-chapter="OF THE PUNISHMENTS OF THE FIRST MAN'S SIN (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the punishments of the first sin; and under this head there are two points
 of inquiry: (1) Death, which is the common punishment; (2) the other particular punishments
 mentioned in Genesis.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare le punizioni per il primo peccato; e in questo ambito ci sono due aspetti da esaminare: (1) La morte, che rappresenta la punizione comune; (2) Le altre punizioni specifiche menzionate nel Genesi.
 
 <span class="atom-split" data-atom="220" data-title="Whether death is the punishment of our first parents' sin? (1/2)" data-chapter="Whether death is the punishment of our first parents' sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -10635,6 +14040,38 @@ and thus it is not of God, but is a defect befalling man through his fault. Seco
 aspect of good, namely as being a just punishment, and thus it is from God. Wherefore [Augustine](/figures/augustine)
 says (Retract. i, 21) that God is not the author of death, except in so far as it is a punishment.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la morte non sia una punizione per il peccato dei nostri primi genitori. Infatti, ciò che è naturale all’uomo non può essere considerato una punizione per un peccato, poiché il peccato non perfeziona la natura umana, ma la corrompe. Ora, la morte è qualcosa di naturale nell’uomo: ciò risulta evidente sia dal fatto che il suo corpo è composto da elementi contrari tra loro, sia perché il termine “mortale” è incluso nella definizione stessa dell’uomo. Pertanto, la morte non può essere considerata una punizione per il peccato dei nostri primi genitori.
+
+Obiezione 2: Inoltre, la morte e altri difetti fisici si riscontrano sia nell’uomo che negli altri animali, come afferma l’Ecclesiaste 3:19: “La morte dell’uomo e quella degli animali sono uguali”. Tuttavia, negli animali privi di parola la morte non rappresenta una punizione per il peccato; pertanto lo stesso vale anche per gli uomini.
+
+Obiezione 3: Inoltre, il peccato dei nostri primi genitori fu un peccato di individui specifici; mentre la morte colpisce l’intera [natura umana](/axes/human_nature). Pertanto, sembrerebbe che non si tratti di una punizione per il peccato dei nostri primi genitori.
+
+Obiezione 4: Inoltre, tutti discendono ugualmente dai nostri primi genitori. Pertanto, se la morte fosse la punizione del peccato dei nostri primi genitori, ne conseguirebbe che tutti gli uomini dovrebbero soffrire la morte in misura uguale. Ma questo è chiaramente falso, poiché alcuni muoiono prima e altri in modo più doloroso di altri. Pertanto, la morte non è la punizione del primo peccato.
+
+Obiezione 5: Inoltre, il male della punizione proviene da Dio, come detto sopra (FP, Q[48], A[6]; FP, Q[49], A[2]). Ma la morte, apparentemente, non proviene da Dio; infatti è scritto (Sapienza 1:13): “Dio non ha creato la morte”. Pertanto, la morte non può essere considerata la punizione del primo peccato.
+
+Obiezione 6: Inoltre, sembra che le punizioni non siano meritevoli, poiché il merito rientra nella categoria del bene, mentre la punizione nella categoria del male. Ora, la morte talvolta è considerata meritevole, come nel caso della morte di un martire. Pertanto, sembrerebbe che la morte non sia una punizione.
+
+Obiezione 7: Inoltre, la punizione sembrerebbe essere qualcosa di doloroso. Ma la morte, apparentemente, non può essere dolorosa, poiché l’uomo non la percepisce quando è morto, e non può percepirla nemmeno quando non sta morendo. Pertanto, la morte non rappresenta una punizione per il peccato.
+
+Obiezione 8: Inoltre, se la morte fosse una punizione per il peccato, essa seguirebbe immediatamente il peccato stesso. Ma ciò non è vero, poiché i nostri primi genitori vissero a lungo dopo aver commesso il loro peccato (Genesi 5:5). Pertanto, apparentemente, la morte non è una punizione per il peccato.
+
+Al contrario, l’Apostolo dice (Roma 5:12): “Attraverso un uomo il peccato è entrato nel mondo, e attraverso il peccato è venuta la morte”.
+
+Rispondo che, se qualcuno, a causa del proprio errore, viene privato di un favore che gli era stato concesso, tale privazione costituisce una punizione per quell’errore. Come abbiamo affermato nelle opere precedenti, Dio concesse all’uomo, nello stato primordiale, questo favore affinché, finché la sua mente fosse sottomessa a Dio, anche le facoltà inferiori della sua anima e il suo corpo fossero soggetti alla sua ragione. Tuttavia, a causa del peccato, la mente umana si allontanò dalla sottomissione a Dio; di conseguenza, né le facoltà inferiori furono completamente subordinate alla ragione, né il corpo fu interamente sottomesso all’anima: da ciò derivarono la morte e altri mali fisici. La vita e la salute del corpo, infatti, dipendono dal fatto che il corpo sia soggetto all’anima, così come ciò che è imperfetto deve essere sottoposto alla propria perfezione. Pertanto, la morte, le malattie e tutti i mali fisici derivano proprio dalla mancanza di questa sottomissione del corpo all’anima. È evidente quindi che, così come la ribellione della natura carnale contro lo spirito rappresenta una punizione per il peccato dei nostri primi genitori, allo stesso modo la morte e tutti i mali fisici sono conseguenze di tale peccato.
+
+Risposta all’Obiezione 1: Si dice che una cosa sia naturale quando deriva dai principi stessi della natura. I principi essenziali della natura sono la forma e la materia. La forma dell’uomo è la sua anima razionale, che di per sé è immortale; pertanto, la morte non è naturale per l’uomo in quanto riguarda la sua forma. La materia dell’uomo è un corpo composto da contrari, e la corruibilità ne è una conseguenza necessaria; in questo senso, la morte è naturale per l’uomo. Questa condizione, legata alla natura del corpo umano, deriva da una necessità naturale: infatti, era indispensabile che il corpo umano fosse l’organo del tatto e quindi un mezzo per interagire con gli oggetti tattili; ciò sarebbe stato impossibile se il corpo non fosse stato composto da contrari, come afferma il Filosofo nel “De Anima” ii, 11. D’altra parte, questa condizione non deriva dall’adattabilità della materia alla forma, poiché, se tale adattabilità fosse possibile, data l’immortalità della forma, anche la materia dovrebbe essere immortale. Così come una sega deve essere fatta di ferro, poiché questo materiale è adatto alla sua funzione tagliente; tuttavia, il fatto che il ferro possa arrugginire è una conseguenza necessaria della sua natura e non dipende dalla volontà del creatore; infatti, se lo scultore potesse farlo, creerebbe una sega che non si arrugginisce. Dio, che è l’autore dell’uomo, è onnipotente; pertanto, quando creò l’uomo per la prima volta, gli concesse il dono di essere esentato da questa necessità naturale; tuttavia, questo dono fu revocato a causa del peccato dei nostri primi genitori. Di conseguenza, la morte è sia naturale, in quanto legata alla natura della materia umana, sia punitiva, in quanto derivante dalla perdita di quel favore divino che avrebbe potuto preservare l’uomo dalla morte [*Cfr. FS, Q[85], A[6*.
+
+Risposta all’Obiezione 2: Questa somiglianza dell’uomo con gli altri animali riguarda una condizione legata alla materia, ovvero il fatto che il corpo umano sia composto da elementi contrari tra loro. Tuttavia, tale somiglianza non riguarda la forma, poiché l’anima umana è immortale, mentre le anime degli animali sono mortali.
+
+Risposta all’Obiezione 3: I nostri primi genitori furono creati da Dio non solo come individui particolari, ma anche come esempi della natura umana nel suo complesso, affinché potessero trasmetterla alla loro discendenza, insieme al favore divino che li preservava dalla morte. Pertanto, a causa del loro peccato, l’intera natura umana, privata di tale favore nella sua discendenza, divenne soggetta alla morte.
+
+Risposta all’Obiezione 4: Dal peccato derivano due tipi di difetti. Il primo è rappresentato da una punizione stabilita da un giudice; tale punizione dovrebbe essere proporzionata a chi ha commesso il peccato. Il secondo difetto deriva accidentalmente da questa stessa punizione; ad esempio, colui che perde la vista a causa di un peccato commesso potrebbe inciampare e cadere per strada. Un simile danno non è proporzionato al peccato commesso, né viene preso in considerazione da un giudice umano, poiché quest’ultimo non può prevedere gli eventi casuali. Pertanto, la punizione stabilita per il primo tipo di peccato e proporzionata ad esso era la perdita della grazia divina, che permetteva alla natura umana di mantenere la sua rettitudine e integrità. Tuttavia, i danni derivanti da questa perdita sono rappresentati dalla morte e da altre punizioni nella vita presente; quindi queste punizioni non devono necessariamente essere uguali per tutti coloro che hanno commesso lo stesso peccato. Nonostante ciò, poiché Dio conosce in anticipo tutti gli eventi futuri, la sua provvidenza ha disposto che tali punizioni venissero distribuite in modi diversi a persone diverse. Ciò non avviene in base a meriti o demeriti acquisiti in questa vita, come sosteneva Origene (*Peri Archon ii, 9*); tale ipotesi sarebbe contraria alle parole di Romani 9:11 (“Poiché essi non avevano compiuto alcun bene né alcun male”) e anche alle affermazioni contenute nei testi della Fede Primitiva (FP, Q[90], A[4]; FP, Q[118], A[3]), secondo cui l’anima non viene creata prima del corpo. Le punizioni possono essere inflitte sia come conseguenza dei peccati commessi dai genitori (poiché il figlio appartiene al padre e quindi i genitori vengono spesso puniti attraverso i loro figli), sia al fine di aiutare la persona che le subisce a pentirsi dei propri errori, a non vantarsi delle proprie virtù e ad essere premiata per la sua pazienza.
+
+Risposta all’Obiezione 5: La morte può essere considerata in due modi. In primo luogo, come un male insito nella natura umana; in questo senso non è opera di Dio, ma un difetto che colpisce l’uomo a causa dei suoi errori. In secondo luogo, come qualcosa che presenta anche aspetti positivi, ovvero come una punizione giusta; in questo caso la morte deriva da Dio. Per questo motivo [Agostino](/figures/augustine) afferma (Retractationes, I, 21) che Dio non è l’autore della morte, se non nel senso in cui essa rappresenta una punizione.
+
 <span class="atom-split" data-atom="221" data-title="Whether death is the punishment of our first parents' sin? (2/2)" data-chapter="Whether death is the punishment of our first parents' sin?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 6: As [Augustine](/figures/augustine) says (De Civ. Dei xiii, 5), "just as the wicked abuse not
@@ -10656,6 +14093,14 @@ and thus death may be painful.
 Reply to Objection 8: According to Augustine (Gen. ad lit. [*De Pecc. Mer. et Rem. i, 16. Cf.
 Gen. ad lit. ii. 32]), "although our first parents lived thereafter many years, they began to die on
 the day when they heard the death-decree, condemning them to decline to old age."
+
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 6: Come afferma [Agostino](/figures/augustine) (De Civ. Dei xiii, 5), “così come i malvagi abusano non solo delle cose cattive ma anche di quelle buone, allo stesso modo i giusti fanno un buon uso non solo delle cose buone ma anche di quelle cattive. Per questo motivo, sia gli uomini malvagi che abusano della legge – sebbene la legge sia buona – sia gli uomini buoni che muoiono in modo “giusto”, sebbene la morte sia una cosa cattiva”. Pertanto, poiché gli uomini santi fanno un buon uso anche della morte, la loro morte è per loro meritoria.
+
+Risposta all’Obiezione 7: La morte può essere considerata in due modi. In primo luogo, come privazione di vita; pertanto la morte non può essere percepita, poiché rappresenta la scomparsa dei sensi e della vita stessa. In questo senso, essa non comporta dolore fisico, ma piuttosto il dolore legato alla perdita di ciò che si possedeva in vita. In secondo luogo, la morte può essere intesa come il processo di corruzione che conduce alla suddetta privazione. Ora, anche il concetto di corruzione può essere analizzato in due modi: da un lato, come termine finale di un cambiamento; in questo caso, già nel momento in cui la vita finisce, si può parlare di morte. Anche in questo contesto, la morte non comporta dolore fisico. Dall’altro lato, il concetto di corruzione può includere anche i processi precedenti a tale cambiamento; in questo caso, si dice che una persona “muore” quando è nel processo di trasformarsi in qualcos’altro; allo stesso modo, si dice che una cosa “nasce” quando è nel processo di passare allo stato di essere stata generata. In questo secondo senso, la morte può essere accompagnata da dolore.
+
+Risposta all’Obiezione 8: Secondo Agostino (Genesi ad litteram, De Peccato Merito et Remediis, i, 16; cfr. Genesi ad litteram, ii, 32), “sebbene i nostri primi genitori abbiano vissuto ancora molti anni dopo, iniziarono a morire nel giorno stesso in cui udirono la sentenza di morte che li condannava al declino dell’età”.
 
 <span class="atom-split" data-atom="222" data-title="Whether the particular punishments of our first parents are suitably appointed in Scripture? (1/2)" data-chapter="Whether the particular punishments of our first parents are suitably appointed in Scripture?" data-kind="atom" data-srclang="en"></span>
 
@@ -10765,6 +14210,35 @@ before sin, but on account of the numerous sufferings to which the woman is subj
 carrying her offspring after conception. Hence it is expressly stated: "I will multiply thy sorrows,
 and thy conceptions."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le punizioni specifiche inflitte ai nostri primi genitori siano inappropriatamente descritte nella [Scrittura](/concepts/revelation). Infatti, ciò che sarebbe accaduto comunque anche senza il peccato non dovrebbe essere considerato una punizione per esso. Apparentemente, ci sarebbe stata “dolore nel partorire” anche in assenza di peccato: la natura del sesso femminile infatti rende impossibile la nascita dei figli senza dolore per la madre. Allo stesso modo, la “sottomissione della donna all’uomo” deriva dalla perfezione del sesso maschile e dall’imperfezione di quello femminile. Inoltre, è insito nella natura stessa della terra “produrre spine e rovi”, e ciò sarebbe avvenuto comunque anche senza il peccato. Pertanto, queste punizioni non sembrano adatte a rappresentare il castigo del primo peccato.
+
+Obiezione 2: Inoltre, ciò che riguarda la dignità di una persona non sembra avere alcuna relazione con la sua punizione. Tuttavia, l’“accrescimento delle concezioni” riguarda proprio la dignità di una donna; pertanto, non dovrebbe essere considerato una forma di punizione per lei.
+
+Obiezione 3: Inoltre, la punizione per il peccato dei nostri primi genitori viene trasmessa a tutti, come abbiamo già affermato riguardo alla morte (A[1]). Tuttavia, non tutte le “concezioni femminili” avvengono effettivamente, né ogni uomo vive di ciò che produce con il proprio lavoro. Pertanto, queste punizioni non sembrano adatte a rappresentare la conseguenza del primo peccato.
+
+Obiezione 4: Inoltre, il paradiso è stato creato apposta per l’uomo. Ora, nulla nell’ordine delle cose dovrebbe essere privo di scopo. Pertanto, sembrerebbe che l’esclusione dell’uomo dal paradiso non costituisca una punizione adeguata per lui.
+
+Obiezione 5: Inoltre, si afferma che questo luogo del paradiso terrestre sia naturalmente inaccessibile. Pertanto, sarebbe stato inutile porre altri ostacoli sul suo cammino, come i cherubini o la “spada fiammeggiante che ruota in tutte le direzioni”, al fine di impedire all’uomo di tornarvi.
+
+Obiezione 6: Inoltre, immediatamente dopo il suo peccato, l’uomo divenne soggetto alla necessità di morire, quindi non poteva essere restituito all’immortalità attraverso l’albero della vita. Pertanto, era inutile proibirgli di mangiare dell’albero della vita, come indicato dalle parole del Genesi 3:22: “Ecco, per timore che forse ne mangi e viva per sempre”.
+
+Obiezione 7: Inoltre, prendere in giro coloro che sono sfortunati sembra essere incompatibile con la misericordia e la clemenza, qualità che nella Scrittura vengono soprattutto attribuite a Dio, come si legge nel Salmo 144:9: “Le sue tenere misericordie si estendono su tutte le sue opere”. Pertanto, descrivere Dio come colui che prende in giro i nostri primi genitori, già ridotti attraverso il peccato a condizioni di sfortuna, secondo quanto detto nel Genesi 3:22 (“Ecco, Adamo è diventato uno di noi, conoscendo il bene e il male”), sembra indecoroso.
+
+Obiezione 8: Inoltre, i vestiti sono necessari all’uomo, proprio come il cibo, secondo 1 Timoteo 6:8: “Avendo cibo e indumenti con cui coprirci, di questi ci accontentiamo”. Pertanto, proprio come il cibo fu fornito ai nostri primi genitori prima del loro peccato, così anche i vestiti avrebbero dovuto essere loro concessi. Quindi, dopo il loro peccato, non era appropriato affermare che Dio li avesse forniti di abiti di pelle.
+
+Obiezione 9: Inoltre, la punizione inflitta per un peccato dovrebbe superare in male il guadagno ottenuto attraverso quel peccato; altrimenti, la punizione non impedirebbe affatto di commettere peccati. Ora, attraverso il peccato, i nostri primi genitori ottennero qualcosa di positivo: i loro occhi furono aperti, secondo Genesi 3:7. Ma questo guadagno supera di gran lunga in bene tutti i mali punitivi che si dice siano derivati dal peccato. Pertanto, le punizioni derivanti dal peccato dei nostri primi genitori vengono descritte in modo inappropriato.
+
+Al contrario, queste punizioni sono state stabilite da Dio, che fa tutte le cose “in numero, peso e misura” (Sapienza 11:21).
+
+Rispondo che, come indicato nell’articolo precedente, a causa del loro peccato i nostri primi genitori furono privati della grazia divina, grazie alla quale l’integrità della [natura umana](/axes/human_nature) veniva mantenuta in loro; con la scomparsa di questa grazia, la natura umana acquisì difetti penalizzanti. Pertanto furono puniti in due modi: innanzitutto, vennero privati di ciò che era conforme allo [stato](/concepts/state) di integrità, ovvero del luogo del paradiso terrestre; questo è indicato nel testo biblico (Genesi 3:23), dove si legge “Dio lo scacciò dal paradiso del piacere”. Poiché non erano in grado di tornare da soli a quello stato di innocenza originale, era giusto che venissero poste ostacoli al loro recupero di ciò che era adatto alla loro condizione primordiale: cibo (affinché non mangiassero dall’albero della vita) e dimora; infatti “Dio pose davanti al paradiso Cherubini e una spada fiammeggiante”. In secondo luogo, furono puniti con cose adatte a una natura privata di quella grazia divina, sia per il corpo che per l’anima. Per quanto riguarda il corpo – che include la distinzione tra i sessi – alla donna fu inflitta una punizione diversa da quella dell’uomo: riguardo alla procreazione e alle attività domestiche, lei subì sofferenze sia durante la gravidanza che durante il parto. Per quanto riguarda la vita familiare, fu sottoposta all’autorità del marito, come indicato in Genesi 3:16. Proprio come spetta alla donna sottomettersi al marito nelle questioni domestiche, spetta all’uomo provvedere alle necessità della famiglia; in questo senso, anche lui fu punito in tre modi: innanzitutto con la sterilità della terra (Genesi 3:17); in secondo luogo con le fatiche e i rischi legati al lavoro agricolo (Genesi 3:17); infine con gli ostacoli che si incontrano nell’agricoltura stessa (Genesi 3:18). Anche per l’anima loro fu inflitta una triplice punizione: innanzitutto a causa della confusione derivante dalla ribellione del corpo contro lo spirito (Genesi 3:7); in secondo luogo.
+Per il rimprovero legato al loro peccato, espresso nelle parole di Genesi 3:22: “Ecco, Adamo è diventato uno di noi”. In terzo luogo, per il ricordo della loro morte imminente, quando fu detto ad Adamo (Genesi 3:19): “Tu sei polvere e in polvere tornerai”. A ciò si riferisce anche il fatto che Dio li fornì di vestiti di pelle, come segno della loro mortalità.
+
+Risposta all’Obiezione 1: Nello stato di innocenza, il parto sarebbe stato privo di dolore; infatti, come afferma [Agostino](/figures/augustine) (De Civ. Dei xiv, 26): “Così come nel momento del parto la madre non proverebbe dolore, ma piuttosto un senso di sollievo dovuto alla maturità, allo stesso modo l’unione tra i due sessi avverrebbe per una scelta consapevole e non per desiderio lussurioso”. La sottomissione della donna al marito deve essere intesa come una punizione inflitta a lei, e non come un riconoscimento del suo ruolo di guida (poiché anche prima del peccato l’uomo era già considerato “capo” e governante della donna), ma piuttosto come un dovere di obbedire alla volontà del marito, anche a scapito delle proprie preferenze. Se l’uomo non avesse peccato, la terra avrebbe prodotto solo erbe e frutti commestibili per gli animali, ma non piante nocive destinate a punire l’uomo; infatti, il loro crescere non avrebbe causato alcun lavoro o sofferenza a chi le coltivava, come afferma Agostino (Genesi ad litteram iii, 18). Tuttavia, Alcuino sostiene che, prima del peccato, la terra non producesse alcuna pianta nociva; ma l’opinione precedente è più corretta.
+
+Risposta all’Obiezione 2: La moltiplicazione delle concezioni femminili è stata stabilita come punizione per la donna, non a causa della procreazione stessa – poiché questa sarebbe stata ugualmente presente anche prima del peccato – ma a causa dei numerosi dolori a cui la donna è sottoposta nel portare avanti i propri figli dopo la concezione. Pertanto si afferma esplicitamente: “Moltiplicherò i tuoi dolori e le tue concezioni”.
+
 <span class="atom-split" data-atom="223" data-title="Whether the particular punishments of our first parents are suitably appointed in Scripture? (2/2)" data-chapter="Whether the particular punishments of our first parents are suitably appointed in Scripture?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: These punishments affect all somewhat. For any woman who conceives
@@ -10818,12 +14292,34 @@ that the tree was fair, and good to eat. Accordingly the eyes of both were opene
 and thought on things which had not occurred to their minds before, this was a mutual concupiscence
 such as they had not hitherto."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 3: Queste punizioni colpiscono tutti, in qualche misura. Infatti, qualsiasi donna che concepisca deve necessariamente soffrire e partorire con dolore; tranne la Beata Vergine, che “concepì senza corruzione e partorì senza dolore” (*San Bernardo, Sermone sull’Assunzione della B.V.M.*), poiché la sua concezione non seguiva le leggi della natura tramandate dai nostri primi genitori. E se una donna né concepisce né partorisce, soffre a causa dell’infertilità, un male che supera di gran lunga le suddette punizioni. Allo stesso modo, chi coltiva la terra deve necessariamente guadagnarsi da vivere con il sudore della propria fronte; mentre coloro che non lavorano direttamente la terra si dedicano ad altri compiti, poiché “l’uomo è nato per lavorare” (Giobbe 5:7): e così essi mangiano il pane che altri hanno ottenuto con il loro duro lavoro.
+
+Risposta all’Obiezione 4: Sebbene il luogo del paradiso terrestre non sia utile all’uomo per i suoi scopi pratici, esso gli serve comunque come insegnamento; poiché l’uomo sa di essere privato di quel luogo a causa del peccato, e attraverso le cose che hanno un’esistenza corporea in quel paradiso, viene istruito su ciò che riguarda il paradiso celeste, verso il quale Cristo ha preparato la strada per l’uomo.
+
+Risposta all’Obiezione 5: Oltre ai misteri dell’interpretazione spirituale, questo luogo sembrerebbe inaccessibile, soprattutto a causa del calore estremo presente nella zona centrale, dovuto alla vicinanza del sole. Ciò è indicato dalla “spada fiammeggiante”, descritta come “che si muove in tutte le direzioni”, poiché tale movimento corrisponde al movimento circolare che genera quel calore. E poiché i movimenti delle creature corporee sono regolati dall’azione degli angeli, secondo [Agostino](/figures/augustine) (De Trinitate iii, 4), era appropriato che, oltre alla spada che si muove in tutte le direzioni, ci fossero anche cherubini “a custodire la via dell’albero della vita”. Pertanto Agostino afferma (Genesi ad litteram xi, 40): “Si deve credere che anche nel paradiso visibile tutto ciò fosse effettivamente realizzato per mezzo di poteri celesti; quindi vi era una guardia infuocata, istituita dall’azione degli angeli”.
+
+Risposta all’Obiezione 6: Dopo il peccato, se l’uomo avesse mangiato dell’albero della vita, non avrebbe recuperato l’immortalità, ma attraverso quel cibo benefico avrebbe potuto prolungare la sua vita. Pertanto, nelle parole “e vivere per sempre”, “per sempre” significa “per un lungo periodo di tempo”. Infatti, non era conveniente che l’uomo rimanesse più a lungo nell’infelicità di questa vita.
+
+Risposta all’Obiezione 7: Secondo Agostino (Genesi ad litteram xi, 39), “queste parole di Dio non sono tanto una derisione dei nostri primi genitori, quanto un monito per gli altri, a beneficio dei quali queste cose sono state scritte, affinché anch’essi non diventino orgogliosi; infatti Adamo non solo non riuscì a diventare ciò che desiderava essere, ma non mantenne nemmeno ciò per cui era stato creato”.
+
+Risposta all’Obiezione 8: Il vestito è necessario per l’uomo nello stato attuale di scontentezza per due motivi. Primo, per compensare le danni esterni causati da fattori come il caldo o il freddo eccessivi. Secondo, per nascondere l’ignominia e coprire la vergogna di quegli organi in cui la ribellione della carne contro lo spirito è più evidente. Ora, questi due motivi non si applicano allo stato primordiale: allora il corpo umano non poteva essere danneggiato da nulla esterno, come affermato nel FP, Q[97], A[2]; inoltre, nel corpo umano non esisteva nulla di vergognoso che potesse causargli imbarazzo. Per questo motivo si legge (Genesi 2:23): “Erano entrambi nudi, Adamo e sua moglie, e non provavano vergogna”. Lo stesso non si può dire del cibo, che è necessario per mantenere il calore naturale del corpo e assicurarne il sostentamento.
+
+Risposta all’Obiezione 9: Come afferma Agostino (Genesi ad litteram xi, 31), “Non dobbiamo immaginare che i nostri primi genitori siano stati creati con gli occhi chiusi, soprattutto considerando che si dice che la donna abbia visto che l’albero era bello e commestibile. Pertanto, gli occhi di entrambi furono aperti affinché potessero vedere e riflettere su cose che prima non avevano mai concepito; questa fu una concupiscenza reciproca, del tutto nuova per loro”.
+
 <span class="atom-split" data-atom="224" data-title="OF OUR FIRST PARENTS' TEMPTATION (TWO ARTICLES)" data-chapter="OF OUR FIRST PARENTS' TEMPTATION (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider our first parents' temptation, concerning which there are two points of
 inquiry:
 (1) Whether it was fitting for man to be tempted by the devil?
 (2) Of the manner and order of that temptation.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la tentazione dei nostri primi genitori; su di essa vi sono due aspetti da indagare:  
+(1) Se fosse appropriato che l’uomo venisse tentato dal diavolo;  
+(2) Il modo e l’ordine con cui quella tentazione si è verificata.
 
 <span class="atom-split" data-atom="225" data-title="Whether it was fitting for man to be tempted by the devil?" data-chapter="Whether it was fitting for man to be tempted by the devil?" data-kind="atom" data-srclang="en"></span>
 
@@ -10872,6 +14368,24 @@ power, and in his power he had the will, not to consent to the persuader."
 Reply to Objection 3: An assault is penal if it be difficult to resist it: but, in the state of
 innocence, man was able, without any difficulty, to resist temptation. Consequently the tempter's
 assault was not a punishment to man.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia appropriato che l’uomo venga tentato dal diavolo. Infatti, secondo Matteo 25:41, la stessa punizione eterna è prevista sia per il peccato degli angeli che per quello dell’uomo: “Andate via da Me, voi maledetti, nel fuoco eterno preparato per il diavolo e i suoi angeli”. Ora, il primo peccato degli angeli non derivò da una tentazione esterna; pertanto, nemmeno il primo peccato dell’uomo dovrebbe essere stato causato da una tentazione esteriore.
+
+Obiezione 2: Inoltre, Dio, che conosce in anticipo il futuro, sapeva che attraverso la tentazione del demone l’uomo sarebbe caduto nel peccato; quindi era perfettamente consapevole che non fosse opportuno che l’uomo venisse tentato. Pertanto, sembrerebbe inappropriato da parte di Dio permettergli di essere tentato.
+
+Obiezione 3: Inoltre, sembra che il fatto che qualcuno debba affrontare un aggressore abbia il sapore di una punizione, proprio come, d’altra parte, la cessazione di un attacco possa essere considerata una ricompensa. Ora, però, la punizione non dovrebbe precedere il peccato. Pertanto, non era appropriato che l’uomo fosse tentato prima di commettere un errore.
+
+Al contrario, è scritto (Ecclesiaste 34:11): “Chi non è stato messo alla prova, che cosa può conoscere?”
+
+Rispondo che la saggezza di Dio “disposizione tutte le cose in modo armonioso” (Sapienza 8:1), poiché la Sua provvidenza assegna a ciascuna creatura ciò che è conforme alla sua natura. Come dice Dionigi nel “De Divinis Nominibus” IV, “appartiene alla provvidenza non distruggere, ma mantenere la natura stessa”. Ora, una caratteristica intrinseca della [natura umana](/axes/human_nature) è che un essere possa essere aiutato o ostacolato da un altro. Pertanto, era appropriato che Dio permettesse all’uomo, nello [stato](/concepts/state) dell’innocenza, di essere tentato dagli angeli malvagi e allo stesso tempo gli concedesse l’aiuto degli angeli buoni. Inoltre, per una particolare grazia divina, fu concesso all’uomo che nessuna creatura esterna potesse fargli del male contro la sua volontà, permettendogli così anche di resistere alle tentazioni del demonio.
+
+Risposta all’Obiezione 1: Al di sopra della natura umana esiste un’altra natura che ammette la possibilità del male; ma non esiste nulla al di sopra della natura angelica. Solo uno spirito che sia già diventato malvagio a causa del peccato può tentare un altro ad agire male. Pertanto è stato appropriato che fosse uno spirito malvagio ad indurre l’uomo al peccato, proprio come, secondo l’ordine naturale, è uno spirito buono a guidarlo verso la perfezione. Un angelo potrebbe essere perfezionato nel bene da qualcosa che gli sia superiore, cioè da Dio; ma non potrebbe essere indotto al peccato, poiché, secondo Giacomo 1:13, “Dio non è un tentatore di malvagità”.
+
+Risposta all’Obiezione 2: Proprio come Dio sapeva che l’uomo, attraverso le tentazioni, sarebbe caduto nel peccato, così sapeva anche che l’uomo era in grado, con la sua [libera volontà](/positions/free_will), di resistere al tentatore. La natura stessa dell’uomo richiedeva infatti che fosse lasciato alla propria volontà; come afferma l’Ecclesiaste 15:14: “Dio lasciò l’uomo nelle mani della sua stessa volontà”. Pertanto, [Agostino](/figures/augustine) dice (Genesi ad litteram xi, 4): “Mi sembra che l’uomo non avrebbe avuto alcuna possibilità di ricevere lodi particolari se fosse stato in grado di condurre una vita buona semplicemente perché nessuno lo avrebbe persuaso a condurne una cattiva; poiché, per natura, possedeva la forza necessaria e, con quella forza, anche la volontà di non ascoltare tali persuasioni”.
+
+Risposta all’Obiezione 3: Un attacco è punitivo se è difficile resistergli; ma nello stato di innocenza, l’uomo era in grado di resistere alla tentazione senza alcuna difficoltà. Pertanto, l’“attacco” del tentatore non costituiva una punizione per l’uomo.
 
 <span class="atom-split" data-atom="226" data-title="Whether the manner and order of the first temptation was fitting?" data-chapter="Whether the manner and order of the first temptation was fitting?" data-kind="atom" data-srclang="en"></span>
 
@@ -10970,6 +14484,12 @@ are two points of inquiry:
 (1) What is the matter of studiousness?
 (2) Whether it is a part of temperance?
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare lo studio e il suo opposto, la curiosità. Per quanto riguarda lo studio, ci sono due aspetti da esaminare:  
+(1) Qual è l’essenza dello studio stesso?  
+(2) Rientra forse nella categoria della temperanza?
+
 <span class="atom-split" data-atom="228" data-title="Whether the proper matter of studiousness is knowledge?" data-chapter="Whether the proper matter of studiousness is knowledge?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that knowledge is not the proper matter of studiousness. For a
@@ -11015,6 +14535,24 @@ body by reason of things pertaining to knowledge.
 Reply to Objection 3: Covetousness craves the acquisition of gain, and for this it is very
 necessary to be skilled in earthly things. Accordingly studiousness is ascribed to things pertaining
 to covetousness.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la conoscenza non sia l’oggetto specifico dello studio. Infatti, si dice che una persona sia studiosa quando dedica il proprio impegno allo studio di determinate cose. Ora, un uomo dovrebbe dedicare lo studio a ogni ambito, al fine di compiere correttamente ciò che deve essere fatto. Pertanto, sembrerebbe che la conoscenza non costituisca l’oggetto specifico dello studio.
+
+Obiezione 2: Inoltre, lo studio è in contrasto con la curiosità. Ora, la curiosità, che deriva dalla parola “cura”, può anche riferirsi all’eleganza dell’abbigliamento e ad altre cose del genere che riguardano il corpo; per questo motivo l’Apostolo dice (Romani 13:14): “Non preparate provviste per la carne secondo le sue concupiscenze”.
+
+Obiezione 3: Inoltre, è scritto (Geremia 6:13): “Dall’ultimo all’ultimo, tutti sono dediti all’avidità.” Ora, l’avidità non riguarda propriamente la conoscenza, ma piuttosto la possesso di ricchezze, come già detto sopra (Q[118], A[2]). Pertanto, lo studio, che deriva da “apprendimento”, non riguarda propriamente la conoscenza.
+
+Al contrario, è scritto (Proverbi 27:11): “Studia la saggezza, figliolo mio, e rendi felice il mio cuore, affinché tu possa rispondere a colui che ti rimprovera”. Ora, lo studio, lodato come virtù, è lo stesso di ciò verso cui il Legge esorta. Pertanto, la diligenza nello studio riguarda propriamente la “conoscenza”.
+
+Rispondo che, in senso proprio, lo studio indica un’intensa applicazione dell’intelligenza verso qualcosa. Ora, l’intelligenza non viene applicata a una cosa se non dopo averne conosciuto i contenuti. Pertanto, l’applicazione dell’intelligenza alla conoscenza precede quella alle cose verso cui l’uomo è indirizzato attraverso tale conoscenza. Di conseguenza, lo studio riguarda innanzitutto la conoscenza stessa e, di conseguenza, qualsiasi altra attività che richieda una guida basata sulla conoscenza. Le virtù, infatti, si riferiscono sempre a quegli aspetti della realtà su cui si concentrano in primo luogo; ad esempio, la forza d’animo riguarda i pericoli legati alla morte, mentre la temperanza riguarda i piaceri sensoriali. Pertanto, lo studio può essere considerato propriamente un’attività legata alla conoscenza.
+
+Risposta all’Obiezione 1: Nulla può essere fatto correttamente in merito ad altre questioni, se non nella misura in cui sia previamente guidato dalla ragione consapevole. Pertanto, lo studio, indipendentemente dal campo a cui si applichi, ha sempre come scopo principale l’acquisizione della conoscenza.
+
+Risposta all’Obiezione 2: A causa delle proprie affezioni, la mente umana è attratta verso quelle cose per le quali prova tale affetto; come afferma Matteo 6:21: “Dove è il tuo tesoro, lì sarà anche il tuo cuore”. Poiché l’uomo nutre un particolare affetto per quelle cose che favoriscono il corpo fisico, ne consegue che i suoi pensieri sono rivolti verso ciò che serve a sostenerlo, e quindi cerca di conoscere quale sia il modo migliore per preservare il proprio corpo. Per questo motivo, la curiosità viene considerata una caratteristica legata alle cose relative al corpo, in quanto derivante dal desiderio di conoscenza.
+
+Risposta all’Obiezione 3: L’avidità desidera ardentemente l’acquisizione di guadagni, e per questo è assolutamente necessario essere abili nelle cose terrene. Pertanto, lo studio viene considerato qualcosa che riguarda direttamente l’avidità.
 
 <span class="atom-split" data-atom="229" data-title="Whether studiousness is a part of temperance?" data-chapter="Whether studiousness is a part of temperance?" data-kind="atom" data-srclang="en"></span>
 
@@ -11079,11 +14617,35 @@ more essential to this virtue than the latter: since the desire to know directly
 to which studiousness is directed, whereas the trouble of learning is an obstacle to knowledge,
 wherefore it is regarded by this virtue indirectly, as by that which removes an obstacle.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che lo studio non faccia parte della temperanza. Infatti, un uomo viene definito studioso proprio in base alla sua attitudine allo studio. Ora, secondo il Filosofo, tutte le persone virtuose vengono senza eccezione definite studiose; egli utilizza frequentemente il termine “studioso” in questo senso (Etica, IX, 4, 8, 9). Nello stesso senso, [Aristotele](/figures/aristotle) afferma nell’Etica, III, 2, che “ogni persona viziosa ignora ciò che dovrebbe fare”. Pertanto, lo studio è una virtù generale, e non una componente della temperanza.
+
+Obiezione 2: Inoltre, come dichiarato in (A[1]), lo studio riguarda la conoscenza. Ma la conoscenza non ha alcuna connessione con le virtù morali, che appartengono alla parte appetitiva dell’anima, bensì con le virtù intellettuali, che appartengono alla parte cognitiva; pertanto, l’impegno nello studio rappresenta un atto di prudenza, come già affermato in (Q[47], A[9]). Di conseguenza, lo studio non fa parte della temperanza.
+
+Obiezione 3: Inoltre, una virtù che viene considerata parte di un’altra virtù principale le assomiglia per modalità. Ora, lo studio non assomiglia alla temperanza per modalità, poiché la temperanza prende il proprio nome dal fatto di essere una sorta di moderazione; pertanto è più contrapposta al vizio che consiste nell’eccesso. Lo studio, invece, deriva dal fatto di essere l’applicazione dell’intelligenza verso qualcosa; quindi sembrerebbe essere contrapposto al vizio che consiste nella mancanza di impegno nello studio, piuttosto che al vizio dell’eccesso, ovvero della curiosità eccessiva. Per questo motivo, a causa della sua somiglianza con quest’ultimo vizio, Isidoro afferma (Etym. x) che “un uomo studioso è colui che ha una forte curiosità di studiare”. Pertanto, lo studio non è considerabile una parte della temperanza.
+
+Al contrario, [Agostino](/figures/augustine) afferma (De Morib. Eccl. 21): “Ci è vietato essere curiosi; ed è un grande dono che la moderazione ci concede”. Ora, la curiosità viene frenata da uno studio moderato e diligente. Pertanto, lo studio costituisce una parte della moderazione.
+
+Rispondo che, come già detto sopra (Q[141], AA[3],4,5), appartiene alla temperanza moderare l’attività del desiderio, affinché non tenda eccessivamente verso ciò che è naturalmente desiderabile. Proprio come nell’ambito della sua natura corporea l’uomo desidera naturalmente i piaceri legati al cibo e al sesso, così, nell’ambito della sua anima, desidera naturalmente conoscere qualcosa; di ciò parla il Filosofo all’inizio della sua Metafisica I, 1: “Tutti gli uomini hanno un desiderio naturale per la conoscenza”. La moderazione di questo desiderio rientra nella virtù dello studio; pertanto lo studio può essere considerato una parte potenziale della temperanza, come virtù subordinata ad essa. Inoltre, esso è incluso anche nella categoria della modestia, per le ragioni già esposte sopra (Q[160], A[2]).
+
+Risposta all’Obiezione 1: La prudenza è il complemento di tutte le virtù morali, come affermato nell’Etica, VI, 13. Pertanto, in quanto la conoscenza della prudenza riguarda tutte le virtù, il termine “studio”, che propriamente si riferisce alla conoscenza, viene applicato anche a tutte le virtù.
+
+Risposta all’Obiezione 2: L’atto di una potenza cognitiva è guidato dalla potenza appetitiva, la quale muove tutte le altre potenze, come già detto (FS, Q[9], A[1]). Pertanto, la conoscenza riguarda due tipi di bene. Uno è legato all’atto stesso della conoscenza; questo bene appartiene alle virtù intellettuali e consiste nel fatto che l’uomo possieda una vera comprensione di ogni cosa. L’altro bene riguarda l’atto della potenza appetitiva e consiste nel fatto che il desiderio umano sia indirizzato correttamente nell’utilizzare la potenza cognitiva in questo o quel modo, per questa o quella cosa. Questo aspetto appartiene alla virtù della serietà; pertanto, viene considerato tra le virtù morali.
+
+Risposta all’Obiezione 3: Come afferma il Filosofo (Etica, ii, 93), per essere virtuosi dobbiamo evitare quelle cose verso le quali siamo naturalmente inclini. Poiché la natura ci spinge soprattutto ad temere i pericoli della morte e a cercare i piaceri del corpo, la forza d’animo viene lodata principalmente per la sua ferma determinazione nel resistere a tali pericoli, mentre la temperanza viene apprezzata per il suo controllo sui piaceri corporei. Per quanto riguarda la conoscenza, invece, l’uomo presenta inclinazioni opposte: da un lato, l’anima è spinta al desiderio di conoscere le cose; pertanto è necessario esercitare un controllo lodabile su questo desiderio, per evitare che si cerchi conoscenza in modo eccessivo. Dall’altro lato, la natura fisica dell’uomo tende ad evitare gli sforzi richiesti per acquisire conoscenza. Pertanto, riguardo alla prima di queste inclinazioni, lo studio rappresenta una forma di controllo e, in questo senso, può essere considerato parte della temperanza. Per quanto riguarda la seconda inclinazione, questa virtù trae il proprio valore da un certo interesse appassionato per la ricerca della conoscenza; è proprio da questo interesse che deriva il suo nome. La prima di queste inclinazioni è più essenziale per la virtù della temperanza rispetto alla seconda: infatti, il desiderio di conoscere riguarda direttamente l’atto stesso di apprendere, verso cui si dirige lo studio; mentre gli sforzi necessari per imparare rappresentano un ostacolo alla conoscenza stessa, e quindi vengono considerati, in questo senso, come qualcosa che elimina tali ostacoli.
+
 <span class="atom-split" data-atom="230" data-title="OF CURIOSITY (TWO ARTICLES)" data-chapter="OF CURIOSITY (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider curiosity, under which head there are two points of inquiry:
 (1) Whether the vice of curiosity can regard intellective knowledge?
 (2) Whether it is about sensitive knowledge?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la curiosità; in questo ambito vi sono due aspetti da esaminare:  
+(1) Se il vizio della curiosità possa riguardare la conoscenza intellettuale;  
+(2) Se esso riguardi invece la conoscenza sensibile.
 
 <span class="atom-split" data-atom="231" data-title="Whether curiosity can be about intellective knowledge?" data-chapter="Whether curiosity can be about intellective knowledge?" data-kind="atom" data-srclang="en"></span>
 
@@ -11172,6 +14734,25 @@ tradition of men . . . and not according to Christ": and Dionysius says (Ep. vii
 certain philosophers that "they make an unholy use of divine things against that which is divine,
 and by divine wisdom strive to destroy the [worship](/concepts/religion) of God."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la curiosità non possa riguardare il sapere intellettivo. Infatti, secondo il Filosofo (Etica ii, 6), non possono esistere mezzi termini né estremi nelle cose che sono essenzialmente buone. Ora, il sapere intellettivo è essenzialmente buono: la perfezione dell’uomo sembra infatti consistere nel portare il proprio intelletto dalla [potenzialità](/concepts/act_potency) all’atto, e ciò avviene attraverso la conoscenza della verità. Come afferma Dionigi di Atene (Divini Nomi iv), “il bene dell’anima umana consiste nell’essere in armonia con la ragione”, la cui perfezione si realizza nella conoscenza della verità. Pertanto, il vizio della curiosità non può riguardare il sapere intellettivo.
+
+Obiezione 2: Inoltre, ciò che rende l’uomo simile a Dio e che egli riceve da Dio non può essere nulla di malevolo. Ora, ogni forma di abbondanza di conoscenza proviene da Dio; come affermato in Ecclesiaste 1:1 (“Tutta la sapienza proviene dal Signore Dio”) e in Sapienza 7:17 (“Mi ha dato la vera conoscenza delle cose esistenti, affinché possa comprendere la struttura del mondo intero e le virtù degli elementi”), ecc. Inoltre, conoscendo la verità, l’uomo diventa simile a Dio, poiché “tutte le cose sono nude e aperte ai suoi occhi” (Ebrei 4:13) e “il Signore è un Dio di ogni conoscenza” (1 Re 2:3). Pertanto, per quanto abbondante possa essere la conoscenza della verità, essa non è malevola ma buona. Ora, il desiderio del bene non è peccaminoso; quindi, il vizio della curiosità non può riguardare la conoscenza intellettuale della verità.
+
+Obiezione 3: Inoltre, se il vizio della curiosità potesse riguardare qualsiasi tipo di conoscenza intellettuale, riguarderebbe soprattutto le scienze filosofiche. Tuttavia, a quanto pare, non vi è alcun peccato nell’occuparsi di esse: infatti Gerolamo afferma (Super Daniel 1:8): “Coloro che rifiutarono di partecipare al cibo e al vino del re per non contaminarsi, se avessero considerato la saggezza e l’insegnamento dei Babilonesi come peccaminosi, non avrebbero mai acconsentito ad apprendere ciò che era proibito”; inoltre Agostino dice (De Doctr. Christ. ii, 40) che “se i filosofi hanno formulato affermazioni vere, dobbiamo considerarle nostre per il nostro uso, come se provenissero da possessori ingiusti”. Pertanto, la curiosità riguardo alla conoscenza intellettuale non può essere considerata peccaminosa.
+
+Al contrario, Gerome nel suo [*Commento all’Epistola agli Efesini iv, 17*] afferma: “Non è forse evidente che un uomo che giorno e notte si dedica allo studio dell’arte dialettica, che lo studente di scienze naturali il cui sguardo penetra nei cieli, vive nella vanità della comprensione e nell’oscurità della mente?” Ora, la vanità della comprensione e l’oscurità della mente sono peccaminose. Pertanto, anche la curiosità verso le scienze intellettuali può essere considerata peccaminosa.
+
+Rispondo che, come già detto sopra (Q[166], A[2], ad 2), lo studio non riguarda direttamente la conoscenza in sé, ma piuttosto il desiderio e lo sforzo compiuti nella ricerca della verità. Ora dobbiamo giudicare in modo diverso sia la conoscenza stessa della verità sia il desiderio e lo sforzo messi al suo perseguimento. La conoscenza della verità, in senso stretto, è buona; tuttavia può rivelarsi dannosa, a causa di alcuni effetti negativi che ne derivano: ad esempio, quando una persona si vanta della propria conoscenza della verità, come si legge in 1 Corinzi 8:1 (“La conoscenza inorgoglisce”), oppure quando la utilizza per commettere peccati. D’altra parte, il desiderio o lo sforzo di cercare la verità possono essere giusti o sbagliati a seconda dei motivi che li guidano. In primo luogo, quando uno si dedica allo studio con l’intento di ottenere una conoscenza della verità che comporti effetti negativi, come nel caso di coloro che studiano per vantarsi delle proprie conoscenze. Come afferma Agostino in “De Morib. Eccl. 21”: “Alcuni, abbandonando la virtù e ignorando ciò che Dio è e la maestosità della sua natura immutabile, pensano di compiere qualcosa di grande esplorando con curiosità e intensità tutto ciò che chiamiamo mondo. Nasce così un orgoglio tale da far credere loro di vivere nei cieli stessi di cui discutono”. Allo stesso modo, coloro che studiano per commettere peccati si dedicano a uno studio peccaminoso, come si legge in Geremia 9:5 (“Hanno insegnato alla loro lingua a pronunciare menzogne e si sono sforzati di compiere ingiustizie”). In secondo luogo, il desiderio o lo studio rivolti alla conoscenza della verità possono essere peccaminosi se guidati da motivi sbagliati; ciò può accadere in quattro modi. Primo, quando uno si allontana da uno studio che rappresenta un dovere morale per dedicarsi a uno meno utile; come dice Gerolamo nell’“Epistola xxxi a Damaso”: “Vediamo sacerdoti abbandonare gli evangeli e i profeti per leggere commedie e cantare canzoni d’amore”. Secondo, quando si cerca di apprendere da persone le cui conoscenze sono proibite dalla legge, come coloro che cercano di conoscere il futuro attraverso i demoni; questa è una curiosità superstiziosa, di cui parla Agostino in “De Vera Relig. 4”: “Forse i filosofi furono allontanati dalla fede a causa della loro curiosità peccaminosa nel cercare conoscenze dai demoni”. Terzo, quando si desidera conoscere le cose create senza rivolgere tale conoscenza al suo scopo finale, ovvero la conoscenza di Dio; come afferma Agostino in “De Vera Relig. 29”: “Nello studio delle creature non dobbiamo essere guidati da una curiosità vuota e effimera, ma dobbiamo sempre tendere verso cose immortali e durature”. Quarto, quando si cerca di conoscere la verità al di là delle capacità della propria intelligenza, poiché ciò porta facilmente all’errore; come scrive l’Ecclesiaste 3:22: “Non cercare ciò che è troppo alto per te e non indagare su cose al di sopra delle tue possibilità, ”.
+“I suoi scritti non sono degni di interesse”, e ancora più avanti (Ecclesiaste 3:26): “Perché, il sospetto nei loro confronti ha ingannato molti e ha trattenuto le loro menti nella vanità”.
+
+Risposta all’Obiezione 1: Il bene dell’uomo consiste nella conoscenza della verità; tuttavia, il bene supremo dell’uomo non risiede nella conoscenza di alcuna verità particolare, ma nella conoscenza perfetta della verità suprema, come afferma il Filosofo (Etica, x, 7,8). Pertanto, può esserci peccato nella conoscenza di alcune verità, nella misura in cui il desiderio di tali conoscenze non sia indirizzato nel modo appropriato verso la conoscenza della verità suprema, nella quale risiede la felicità suprema.
+
+Risposta all’Obiezione 2: Sebbene questo argomento dimostri che la conoscenza della verità sia buona di per sé, ciò non impedisce a una persona di abusarne a scopi malvagi, né di desiderarla in modo eccessivo, poiché anche il desiderio di bene deve essere regolato in modo appropriato.
+
+Risposta all’Obiezione 3: Lo studio della filosofia è in sé legittimo e lodevole, poiché le verità che i filosofi hanno acquisito sono state rivelate loro da Dio, come si afferma in Romani 1:19. Tuttavia, poiché alcuni filosofi abusano di queste verità al fine di attaccare la fede, l’Apostolo dice (Colossesi 2:8): “State in guardia che nessuno vi inganni con la filosofia o con vani inganni, secondo le tradizioni umane, e non secondo Cristo”; inoltre Dionigi dice (Epistola VII a Policarpo) di alcuni filosofi che “fanno un uso profano delle cose divine contro ciò che è divino, e con la saggezza divina cercano di distruggere il [culto](/concepts/religion) di Dio”.
+
 <span class="atom-split" data-atom="232" data-title="Whether the vice of curiosity is about sensitive knowledge?" data-chapter="Whether the vice of curiosity is about sensitive knowledge?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the vice of curiosity is not about sensitive knowledge. For just
@@ -11238,6 +14819,24 @@ neighbor's faults with the intention of looking down upon them, or of detracting
 no further purpose than that of disturbing them, is sinful: hence it is written (Prov. 24:15), "Lie not
 in wait, nor seek after wickedness in the house of the just, nor spoil his rest."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il vizio della curiosità non riguardi le conoscenze acquisite attraverso i sensi. Poiché alcune cose vengono conosciute tramite la vista, altre lo sono attraverso il tatto e il gusto. Ora, il vizio relativo agli oggetti percepiti dal tatto e dal gusto non è la curiosità, ma la lussuria o la gola. Pertanto, sembra che nemmeno il vizio della curiosità riguardi le cose conosciute attraverso la vista.
+
+Obiezione 2: Inoltre, la curiosità sembrerebbe riferirsi alla visione di spettacoli sportivi; per questo motivo [Agostino](/figures/augustine) afferma (Confessioni, VI, 8) che quando “durante lo scontro si verificò una caduta, un forte grido dell’intera folla lo colpì profondamente, e sopraffatto dalla curiosità Alypio aprì gli occhi”. Tuttavia non sembra peccaminoso assistere a tali spettacoli, poiché procurano piacere grazie alla [rappresentazione](/concepts/idea), di cui l’uomo trae un naturale godimento, come sostiene il Filosofo (Poetica, VI). Pertanto, il vizio della curiosità non riguarda la conoscenza degli oggetti sensibili.
+
+Obiezione 3: Inoltre, sembrerebbe che indagare sulle azioni del nostro prossimo rientri nella sfera della curiosità, come osserva Bede nel [*Commento su 1 Giovanni 2:16*]. Ora, apparentemente, non è un peccato indagare sulle azioni altrui, poiché secondo l’Ecclesiastico 17:12, Dio “ha dato a ciascuno di loro dei comandamenti riguardanti il proprio prossimo”. Pertanto, il vizio della curiosità non riguarda la conoscenza di oggetti sensibili o particolari.
+
+Al contrario, Agostino afferma (De Vera Relig. 38) che “la concupiscenza degli occhi rende gli uomini curiosi”. Secondo Beda (Commento su 1 Giovanni 2:16), “la concupiscenza degli occhi non si riferisce soltanto all’apprendimento delle arti magiche, ma anche alle escursioni, nonché alla scoperta e al biasimo dei difetti del prossimo”; tutte queste attività riguardano oggetti sensibili. Pertanto, poiché la concupiscenza degli occhi è un peccato, così come la concupiscenza della carne e l’orgoglio di vita – che appartengono alla stessa categoria (1 Giovanni 2:16) – sembra che il vizio della curiosità riguardi proprio la conoscenza delle cose sensibili.
+
+Rispondo che la conoscenza delle cose sensibili è rivolta a due scopi principali. In primo luogo, sia nell’uomo che negli altri animali, essa ha lo scopo di preservare il corpo: attraverso tale conoscenza, infatti, l’uomo e gli animali evitano ciò che può nuocere loro e cercano ciò che è necessario per il loro sostentamento. In secondo luogo, nella specie umana questa conoscenza si dirige verso la ricerca della verità intellettuale, sia essa speculativa che pratica. Pertanto, dedicarsi allo studio delle cose sensibili può rivelarsi peccaminoso in due modi: primo, quando tale studio non è finalizzato a scopi utili, ma distoglie l’uomo da considerazioni più importanti; come afferma Agostino nel “Confessione” (x, 35): “Non vado più a vedere un cane che insegue una lepre al circo; se per caso mi trovo in campagna mentre avviene questa caccia, essa potrebbe distrarmi da pensieri importanti. E se Tu, dopo avermi fatto rendere conto della mia debolezza, non mi avessi subito ammonito, sarei diventato stupidamente ottuso”. Secondo, quando la conoscenza delle cose sensibili è orientata verso scopi dannosi, come l’osservazione di una donna che può suscitare desiderio; allo stesso modo, un’eccessiva curiosità riguardo alle azioni altrui può portare alla diffamazione. D’altra parte, se uno si dedica con diligenza allo studio delle cose sensibili per necessità legate al proprio sostentamento o per il perseguimento della verità intellettuale, tale attività è considerata virtuosa.
+
+Risposta all’Obiezione 1: La lussuria e la gola riguardano piaceri derivanti dall’uso di oggetti tattili, mentre la curiosità riguarda piaceri derivanti dalla conoscenza acquisita attraverso tutti i sensi. Secondo Agostino (Confessioni, x, 35), “si chiama concupiscenza degli occhi” perché “la vista è il senso principale utilizzato per l’acquisizione della conoscenza; pertanto si dice che tutte le cose sensibili siano ‘viste’”. Aggiunge inoltre: “In questo modo si può comprendere più chiaramente in cosa consistano i piaceri e in cosa consista l’oggetto della curiosità per i sensi: i piaceri cercano oggetti belli, melodiosi, profumati, saporiti, morbidi; mentre la curiosità, per il gusto dell’esperimento e della conoscenza, cerca anche le cose opposte a questi”.
+
+Risposta all’Obiezione 2: La visita turistica diventa peccaminosa quando rende una persona propensa ai vizi della lussuria e della crudeltà a causa di ciò che viene rappresentato attraverso le immagini. Pertanto Crisostomo afferma nell’[*Hom. vi in Matth.*] che tali spettacoli rendono gli uomini adulteri e senza vergogna.
+
+Risposta all’Obiezione 3: Si può osservare o indagare sulle azioni altrui con buone intenzioni, sia per il proprio bene – cioè al fine di essere incoraggiati a compiere azioni migliori attraverso le azioni del proprio prossimo – sia per il bene del proprio prossimo, cioè al fine di correggerlo qualora commetta errori, in conformità con i principi della carità e i doveri derivanti dalla propria posizione sociale. Questo comportamento è lodevole, come affermato in Ebrei 10:24: “Consideratevi a vicenda, al fine di stimolarvi alla carità e alle buone opere”. Tuttavia, osservare i difetti del proprio prossimo con l’intenzione di disprezzarli, di diffamarli o semplicemente di disturbarli è peccaminoso; per questo si legge in Proverbi 24:15: “Non tendete insidie, non cercate il male nella casa del giusto, né turbate il suo riposo”.
+
 <span class="atom-split" data-atom="233" data-title="OF MODESTY AS CONSISTING IN THE OUTWARD MOVEMENTS OF THE BODY (FOUR ARTICLES)" data-chapter="OF MODESTY AS CONSISTING IN THE OUTWARD MOVEMENTS OF THE BODY (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider modesty as consisting in the outward movements of the body, and under
@@ -11247,6 +14846,14 @@ seriously?
 (2) Whether there can be a virtue about playful actions?
 (3) Of the sin consisting in excess of play;
 (4) Of the sin consisting in lack of play.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la modestia come qualcosa che riguarda i movimenti esteriori del corpo; in questo ambito vi sono quattro punti da esaminare:  
+(1) Se nei movimenti esteriori del corpo compiuti con serietà possano esistere virtù o vizi;  
+(2) Se nelle azioni ludiche possa esserci qualcosa di virtuoso;  
+(3) Il peccato derivante dall’eccesso nel comportamento giocoso;  
+(4) Il peccato derivante dalla mancanza di comportamenti ludici.
 
 <span class="atom-split" data-atom="234" data-title="Whether any virtue regards the outward movements of the body?" data-chapter="Whether any virtue regards the outward movements of the body?" data-kind="atom" data-srclang="en"></span>
 
@@ -11325,6 +14932,28 @@ Reply to Objection 4: It is censurable to study the style of one's outward movem
 recourse to pretense in them, so that they do not agree with one's inward disposition. Nevertheless
 it behooves one to study them, so that if they be in any way inordinate, this may be corrected. Hence
 Ambrose says (De Offic. i, 18): "Let them be without artifice, but not without correction."
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nessuna virtù riguardi i movimenti esterni del corpo. Infatti, ogni virtù concerne la [bellezza](/concepts/beauty) spirituale dell’anima, come afferma il Salmo 44:14: “Tutta la gloria della figlia del re è dentro”; un commento aggiunge: “Cioè, nella coscienza”. Ora, i movimenti del corpo non si trovano “dentro”, ma “fuori”; pertanto non può esserci alcuna virtù legata a essi.
+
+Obiezione 2: Inoltre, “Le virtù non sono in noi per natura”, come afferma il Filosofo (Etica, ii, 1). Ma i movimenti fisici esterni sono invece presenti nell’uomo per natura; infatti, alcuni di questi movimenti sono naturalmente veloci, altri lenti, e lo stesso vale per altre differenze nei movimenti esterni. Pertanto, non esistono virtù legate a questo tipo di movimenti.
+
+Obiezione 3: Inoltre, ogni virtù morale riguarda o azioni dirette verso un’altra persona, come la giustizia, oppure passioni, come la temperanza e la forza d’animo. Ora, i movimenti fisici esterni non sono diretti verso un’altra persona, né possono essere considerati passioni. Pertanto, nessuna virtù è legata a essi.
+
+Obiezione 4: Inoltre, lo studio dovrebbe essere applicato a tutte le azioni virtuose, come già detto sopra (Q[166], A[1], OBJ[1]; A[2], ad 1). Tuttavia, è biasimabile applicare lo studio all’organizzazione dei propri movimenti esteriori: Ambrogio infatti afferma nel “De Officium” i, 18: “Un passo appropriato deve riflettere l’autorità di chi lo esegue, avere un andamento solenne e una grazia tranquilla; ma senza alcuna affettazione o studiata calcolatezza, bensì movimenti naturali e spontanei.” Pertanto, sembrerebbe che lo stile dei movimenti esteriori non rientri nella sfera delle virtù.
+
+Al contrario, la bellezza dell’onestà [*Cfr. Q[145], A[1 appartiene alla virtù. Ora, lo stile dei movimenti esteriori rientra nella bellezza dell’onestà. Infatti Ambrogio afferma (De Offic. i, 18): “Il suono della voce e il gesto del corpo mi risultano sgradevoli, sia che siano eccessivamente morbidi e privi di vigore, sia che siano ruvidi e rozzi. Lasciamo che la natura sia il nostro modello; la sua manifestazione è rappresentata dalla grazia nel comportamento e dalla bellezza nell’onestà.” Pertanto, esiste effettivamente una virtù legata allo stile dei movimenti esteriori.
+
+Rispondo che la virtù morale consiste nel fatto che le azioni umane siano guidate dalla ragione. È evidente infatti che i movimenti esteriori dell’uomo possano essere regolati dalla ragione, poiché i membri del corpo vengono messi in movimento su suo comando. Pertanto, esiste senz’altro una virtù morale legata a questa guida dei movimenti umani. La direzione di tali movimenti può essere considerata da due punti di vista: innanzitutto, in relazione alla loro appropriatenza rispetto alla persona stessa; in secondo luogo, in relazione alla loro convenienza rispetto agli elementi esterni, che siano altre persone, le circostanze o il contesto. Per questo Ambrogio afferma nel *De Officium* i, 18: “La bellezza del comportamento consiste nel comportarsi correttamente verso gli altri, in base al loro sesso e alla loro persona”, ciò riguarda il primo aspetto; per quanto riguarda il secondo, aggiunge: “Questo è il modo migliore per organizzare il proprio comportamento; questa è la cura che si addice a ogni azione”. Pertanto, Andronico nel suo *De Affectibus* attribuisce a questi movimenti esteriori due aspetti fondamentali: da un lato, l’“ornamento” [ornatus], che riguarda ciò che è appropriato alla persona stessa; dall’altro, la “buona organizzazione” [bona ordinatio], che riguarda ciò che è conveniente rispetto alle circostanze e agli obiettivi specifici.
+
+Risposta all’Obiezione 1: I movimenti esteriori sono segni delle disposizioni interiori, secondo l’Ecclesiaste 19:27: “L’abbigliamento del corpo, il sorriso dei denti e il modo di camminare dell’uomo rivelano chi egli sia”; inoltre Ambrogio afferma (De Offic. i, 18) che “l’abitudine mentale si manifesta nei gesti del corpo” e che “il movimento del corpo è un indicatore dell’anima”.
+
+Risposta all’Obiezione 2: Sebbene sia una disposizione naturale che un uomo tenda verso questo o quel tipo di movimento esteriore, ciò che manca alla natura può essere compensato con gli sforzi della ragione. Pertanto Ambrogio afferma (De Offic. i, 18): “Lasciate che sia la natura a guidare il movimento; e se in qualche ambito la natura fallisce, certamente lo sforzo umano potrà colmare tale lacuna.”
+
+Risposta all’Obiezione 3: Come già detto (ad 1), i movimenti esteriori sono indicazioni della disposizione interiore dell’uomo, e ciò riguarda soprattutto le passioni dell’anima. Per questo Ambrogio afferma (De Officii, I, 18) che “da questi movimenti esteriori si può giudicare se l’uomo nascosto nei nostri cuori sia frivolo, vanitoso, impuro, oppure tranquillo, stabile, puro e privo di difetti”. Inoltre, è proprio dai nostri movimenti esteriori che gli altri formano un giudizio su di noi, come si legge in Ecclesiaste 19:26: “L’uomo è riconoscibile dal suo aspetto; il saggio, quando lo incontri, è riconoscibile dal suo volto”. Pertanto, la moderazione nei movimenti esteriori ha in qualche modo lo scopo di non offendere gli altri, secondo quanto afferma Agostino nella sua Regola (Ep. ccxi): “In tutti i tuoi comportamenti, non fare nulla che possa offendere lo sguardo altrui, ma solo ciò che è degno della santità del tuo stato”. La moderazione nei movimenti esteriori può quindi essere ridotta a due virtù menzionate dal Filosofo nell’Etica IV, 6-7: da un lato, la “cordialità o affabilità” – che riguarda i piaceri o i dolori derivanti dalle parole o dai fatti nei confronti delle altre persone – dall’altro, la “veridicità”, che consiste nel mostrare con parole e azioni ciò che si è veramente dentro.
+
+Risposta all’Obiezione 4: È biasimabile studiare lo stile dei propri movimenti esteriori ricorrendo a finzioni, in modo che tali movimenti non siano in accordo con la propria natura interiore. Tuttavia, è opportuno studiarli affinché, qualora siano in qualche modo irregolari, possano essere corretti. Per questo motivo Ambrogio afferma (De Offic. i, 18): “Che tali movimenti siano privi di artifici, ma non senza correzione”.
 
 <span class="atom-split" data-atom="235" data-title="Whether there can be a virtue about games?" data-chapter="Whether there can be a virtue about games?" data-kind="atom" data-srclang="en"></span>
 
@@ -11416,6 +15045,25 @@ says (De Offic. i, 29): "It is indeed lawful to make use of play and fun, but in
 have recourse to sleep and other kinds of rest, then only when we have done our duty by grave and
 serious matters."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra impossibile che ci possa essere una virtù legata ai giochi. Infatti Ambrogio afferma (De Offic. i, 23): “Nostro Signore disse: ‘Guai a voi che ridete, perché piangerete’. Pertanto ritengo che tutti i giochi, e non solo quelli eccessivi, debbano essere evitati”. Ora, ciò che può essere compiuto in modo virtuoso non dovrebbe essere del tutto evitato. Quindi non può esistere alcuna virtù legata ai giochi.
+
+Obiezione 2: Inoltre, “La virtù è ciò che Dio forma in noi, senza il nostro intervento”, come detto sopra (FS, Q[55], A[4]). Ora Crisostomo afferma nell’[*Hom. vi in Matth.*]: “Non è Dio, ma il diavolo, l’autore del divertimento. Ascoltate ciò che accadde a coloro che giocavano: ‘La gente si sedette a mangiare e bere, poi si alzò per giocare’”. Pertanto, non può esserci alcuna virtù nei giochi.
+
+Obiezione 3: Inoltre, il Filosofo afferma (Etica, x, 6) che “le azioni ludiche non sono dirette verso qualcos’altro”. Tuttavia, una condizione essenziale della virtù è che l’agente, nel compiere una scelta, debba “dirigere la propria azione verso qualcos’altro”, come sostiene il Filosofo stesso (Etica, ii, 4). Pertanto, non può esistere alcuna virtù legata ai giochi.
+
+Al contrario, [Agostino](/figures/augustine) afferma (Musica, ii, 15): “Ti prego, concediti talvolta dei momenti di riposo: infatti, per un uomo saggio è spesso opportuno allentare la forte pressione esercitata dalla propria attenzione sul lavoro.” Questo rilassamento della mente si manifesta attraverso parole o azioni leggere e divertenti; pertanto, è giusto che un uomo saggio e virtuoso ricorra talvolta a tali cose. Inoltre, il Filosofo ([*Etica*, ii, 7; iv, 8]) attribuisce ai giochi la virtù della **eutrapelia**, che potremmo definire “piacere”.
+
+Rispondo che, proprio come l’uomo ha bisogno di riposo fisico per rinnovare il proprio corpo, poiché non può sempre lavorare – essendo le sue forze finite e uguali a una determinata quantità di lavoro – lo stesso vale per la sua anima, la cui forza è anch’essa limitata e corrispondente a un certo volume di attività. Pertanto, quando l’anima si impegna oltre i suoi limiti in un compito specifico, si sente oppressa e stanca; soprattutto perché, quando l’anima lavora, anche il corpo è coinvolto, poiché l’intelletto utilizza forze che agiscono attraverso gli organi fisici. Ora, i beni sensibili sono naturali all’uomo; quindi, quando l’anima si eleva al di sopra di essi, concentrandosi sulle operazioni della ragione, ne consegue inevitabilmente una certa stanchezza, sia che tali operazioni riguardino la ragione pratica che quella speculativa. Tuttavia, questa stanchezza è maggiore quando l’anima si dedica alla contemplazione, poiché in questo modo si eleva ulteriormente al di sopra delle cose sensibili; anche se alcune attività pratiche possono richiedere uno sforzo fisico maggiore. In ogni caso, un uomo può sentirsi più stanco dell’altro a seconda dell’intensità con cui si impegna nelle attività razionali. Proprio come la stanchezza fisica si allevia con il riposo, anche quella dell’anima deve essere lenita con il riposo stesso; e il riposo dell’anima è il piacere, come già detto (FS, Q[25], A[2]; FS, Q[31], A[1], ad 2). Pertanto, il rimedio alla stanchezza dell’anima consiste nell’apportare piacere, allentando la tensione derivante dagli sforzi razionali. Nelle “Conferenze dei Padri” xxiv, 21, si racconta che il Beato Giovanni Evangelista, quando alcune persone lo videro giocare con i suoi discepoli e ne furono scandalizzate, disse a uno di loro che portava un arco di tirare una freccia; dopo che quest’ultimo l’ebbe fatto più volte, Giovanni gli chiese se potesse continuare all’infinito, e l’uomo rispose che l’arco si sarebbe rotto se avesse continuato. Da ciò Giovanni concluse che lo stesso accadrebbe alla mente umana se la sua tensione non venisse mai allentata. Parole o azioni del genere, le quali hanno lo scopo esclusivo di procurare piacere all’anima, vengono definite scherzose o umoristiche; quindi a volte è necessario utilizzarle per dare riposo all’anima stessa. Ciò è in accordo con quanto afferma il Filosofo nell’“Etica” iv, 8: “Nelle relazioni di questa vita esiste un tipo di riposo legato ai giochi”. Tuttavia, in questo ambito ci sono tre aspetti che richiedono particolare attenzione: innanzitutto, il piacere in questione non deve derivare da azioni o parole indecenti o offensive; per questo Tullio afferma (De Offic. i, 29) che “certi scherzi sono scortesi, insolenti, scandalosi o osceni”. Un altro aspetto importante è evitare di perdere.
+L’equilibrio della mente umana è di fondamentale importanza. Ecco perché Ambrogio afferma (De Offic. i, 20): “Dobbiamo fare attenzione affinché, nel cercare il rilassamento mentale, non distruggiamo quell’armonia che rappresenta l’unione delle buone azioni”; e Tullio aggiunge (De Offic. i, 29): “Proprio come non permettiamo ai bambini di godere di una libertà assoluta nei loro giochi, ma solo di quella che sia compatibile con un comportamento corretto, allo stesso modo anche il nostro divertimento dovrebbe riflettere qualcosa di nobile e retto”. Inoltre, come in tutte le altre azioni umane, dobbiamo adattarci alle circostanze specifiche – persone, tempo, luogo – tenendo conto di ogni dettaglio, affinché il nostro divertimento “si addatti all’occasione e alla persona”, come dice ancora Tullio. Tutti questi aspetti sono guidati dalla ragione; un’abitudine che segue le regole della ragione è virtù. Pertanto, anche i giochi possono essere considerati fonte di virtù. Il filosofo li definisce “eutrapelia”, ovvero capacità di rendere gioiosi i propri gesti e parole attraverso un atteggiamento sereno e felice. Poiché questa virtù impedisce che il divertimento diventi eccessivo, essa rientra nella categoria della modestia. Il termine “eutrapelia” deriva dalla parola greca “trepein”, che significa “orientare verso il bene”.
+
+Risposta all’Obiezione 1: Come già detto, il divertimento deve essere in armonia con gli affari e le persone; per questo motivo Tullio afferma (De Invent. Rhet. i, 17) che “quando l’uditorio è stanco, può essere utile al oratore provare qualcosa di nuovo o divertente, purché scherzi non siano incompatibili con la gravità dell’argomento”. Ora, la dottrina sacra tratta di questioni di estrema importanza, come si legge nel Proverbo 8:6: “Ascoltate, perché parlerò di cose grandi”. Pertanto Ambrogio non esclude del tutto il divertimento dal linguaggio umano, ma soltanto dalla dottrina sacra; ecco perché inizia dicendo: “Anche se gli scherzi a volte sono appropriati e piacevoli, tuttavia sono incompatibili con le regole ecclesiastiche; infatti, come possiamo ricorrere a cose che non si trovano nelle Scritture Sacre?”
+
+Risposta all’Obiezione 2: Questa affermazione di Crisostomo si riferisce all’uso eccessivo del divertimento, soprattutto da parte di coloro che fanno della gioia offerta dai giochi lo scopo principale della loro vita; di questi si legge (Sapienza 15:12): “Hanno considerato la nostra vita come un semplice passatempo”. Contro di loro Tullio afferma (De Officiis i, 29): “Siamo stati creati dalla natura in modo tale da non sembrare fatti per il gioco e il divertimento, ma piuttosto per le difficoltà e per occupazioni di maggiore gravità e importanza”.
+
+Risposta all’Obiezione 3: Le azioni ludiche, considerate per se stesse nella loro specie, non sono dirette verso un fine specifico; tuttavia, il piacere derivante da tali azioni è finalizzato al riposo e al divertimento dell’anima. Pertanto, se vengono svolte in modo moderato, è legittimo ricorrere al gioco e al divertimento. Ecco perché Tullio afferma (De Officium i, 29): “È davvero legittimo utilizzare il gioco e il divertimento, ma solo nel modo stesso in cui ricorriamo al sonno e ad altri tipi di riposo, cioè soltanto dopo aver adempiuto ai nostri doveri nei confronti delle questioni serie e importanti”.
+
 <span class="atom-split" data-atom="236" data-title="Whether there can be sin in the excess of play?" data-chapter="Whether there can be sin in the excess of play?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there cannot be sin in the excess of play. For that which is an
@@ -11483,6 +15131,24 @@ extreme need, in which case one would have to assist him, for Ambrose says (De O
 in Canon Pasce, dist. 86]): "Feed him that dies of hunger; for whenever thou canst save a man by
 feeding him, if thou hast not fed him, thou hast slain him."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non possa esistere peccato nell’eccesso di gioco. Infatti, ciò che può essere considerato una scusa per commettere un peccato non viene a sua volta ritenuto peccaminoso. Ora, il gioco a volte rappresenta proprio una scusa per peccare: molte azioni che diventerebbero gravi peccati se compiute seriamente, non lo sono affatto o lo sono solo in misura minima se eseguite con spirito di divertimento. Pertanto, sembra che non vi sia alcun peccato nell’eccesso di gioco.
+
+Obiezione 2: Inoltre, tutti gli altri vizi possono essere ridotti ai sette vizi capitali, come afferma Gregorio (Moralia, xxxi, 17). Tuttavia, l’eccesso nel giocare non sembra poter essere ricondotto ad alcuno di questi vizi capitali. Pertanto, pare che non costituisca un peccato.
+
+Obiezione 3: Inoltre, sembrerebbe che proprio i comici eccellano particolarmente nell’arte dell’interpretazione teatrale, poiché dedicano tutta la loro vita a questo scopo. Pertanto, se l’eccesso nell’attività teatrale fosse un peccato, tutti gli attori si troverebbero in uno stato di peccato; inoltre, anche coloro che li impiegano e chiunque paga loro per i loro servizi commetterebbero peccato, essendo considerati complici dei loro errori. Ma ciò sembrerebbe falso: nelle “Vite dei Padri” (ii. 16; viii. 63) si racconta infatti che al beato Pafnuto fu rivelato che un certo buffone lo avrebbe accompagnato nella vita futura.
+
+Al contrario, un commento su Proverbi 14:13 – “Il riso si mescola con il dolore; la gioia finisce nel lutto” – afferma: “Un lutto che dura per sempre”. Esiste infatti riso eccessivo e gioia smisurata nei giochi eccessivi; pertanto vi è in questo comportamento un peccato mortale, poiché solo il peccato mortale merita un lutto eterno.
+
+Rispondo che, in tutte le attività regolate dalla ragione, ciò che è eccessivo è ciò che va oltre i limiti stabiliti da tale ragione, mentre ciò che è insufficiente è ciò che non ne rispetta i principi. È stato già affermato che parole o azioni scherzose o giocose sono compatibili con la ragione; pertanto, un eccesso di scherzi rappresenta una violazione dei limiti della ragione, e ciò può accadere in due modi. In primo luogo, l’eccesso deriva dalla natura stessa delle azioni utilizzate a scopo ludico: secondo Tullio (De Officium i, 29), questo tipo di scherzo è considerato “scortese, insolente, scandaloso e osceno” quando si utilizzano parole o comportamenti indecenti o dannosi per il prossimo, atti che di per sé costituiscono peccati mortali. È evidente quindi che un eccesso di scherzi rappresenta un peccato mortale. In secondo luogo, l’eccesso può derivare anche dalla mancanza delle circostanze appropriate: ad esempio, quando gli scherzi vengono fatti in momenti o luoghi inappropriati, o non in linea con l’argomento o le persone coinvolte. In alcuni casi, questo può costituire un peccato veniale, soprattutto se la passione per il divertimento è tale da far preferire tale piacere all’amore di Dio, al punto di essere disposti a disobbedire ai suoi comandamenti o a quelli della Chiesa pur di continuare a divertirsi. Tuttavia, in altri casi, si tratta ancora di un peccato mortale.
+
+Risposta all’Obiezione 1: Alcuni atti sono peccaminosi soltanto a causa dell’intenzione che li motiva, poiché vengono compiuti al fine di nuocere a qualcuno. Un tale intento viene escluso quando tali atti vengono compiuti per divertimento, il cui scopo è piacere e non causare danno: in questi casi, il divertimento scusa o riduce la gravità del peccato. Altri atti, invece, sono peccaminosi per loro stessa natura, come l’omicidio, la fornicazione e simili; in questi casi, il divertimento non costituisce alcuna scusa: anzi, rende tali atti scandalosi e osceni.
+
+Risposta all’Obiezione 2: Il gioco eccessivo riguarda una gioia insensata, che Gregorio (Moralia, xxxi, 17) definisce “figlia della gola”. Per questo motivo è scritto (Esodo 32:6): “Il popolo si sedette a mangiare e bere, poi si alzò per giocare”.
+
+Risposta all’Obiezione 3: Come già affermato (A[2]), il gioco è necessario per gli scambi umani. Ora, tutto ciò che è utile agli scambi umani può essere utilizzato in modo legittimo. Pertanto, l’attività degli attori comici, il cui scopo è rallegrare l’anima umana, non è di per sé illegittima; né si trovano in uno stato di peccato, a condizione che la loro attività sia moderata: cioè che non utilizzino parole o azioni illegali al fine di divertire, e che non introducano il gioco in contesti o momenti inappropriati. E sebbene, per quanto riguarda gli altri uomini, non abbiano altre occupazioni, tuttavia, per quanto riguarda se stessi e Dio, compiono altre azioni serie e virtuose, come la preghiera e il controllo delle proprie passioni; talvolta anche donano ai poveri. Pertanto, coloro che li sostengono in modo moderato non peccano, ma agiscono giustamente, ricompensandoli per i loro servizi. D’altra parte, se una persona spende troppo denaro per simili individui, o mantiene attori comici che praticano divertimenti illegali, commette un peccato, incoraggiandoli nel loro errore. Per questo motivo, [Agostino](/figures/augustine) afferma (Trattato c. in Joan.) che “dare la propria proprietà agli attori comici è un grande peccato, non una virtù”; salvo il caso in cui un attore comico si trovi in estrema necessità, nel qual caso sarebbe giusto aiutarlo, poiché Ambrogio dice (De Offic., citato in Canon Pasce, dist. 86): “Nutri colui che muore di fame; poiché ogni volta che puoi salvare una persona nutrendola, se non lo fai, l’hai uccisa”.
+
 <span class="atom-split" data-atom="237" data-title="Whether there is a sin in lack of mirth?" data-chapter="Whether there is a sin in lack of mirth?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is no sin in lack of mirth. For no sin is prescribed to a
@@ -11529,12 +15195,36 @@ are excessive and inordinate; wherefore it would seem to pertain to affability, 
 (Ethic. iv, 6) calls "friendliness," or {eutrapelia}, otherwise wittiness. Nevertheless he [names](/positions/nominalism) and
 defines it thus in respect of its agreement with temperance, to which it belongs to restrain pleasure.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non vi sia alcun peccato nella mancanza di gioia. Infatti, nessun peccato viene prescritto a un penitente. Ma [Agostino](/figures/augustine), parlando di un penitente, dice (De Vera et Falsa Poenit. 15): “Che si astenga dai giochi e dalle distrazioni del mondo, se desidera ottenere la grazia di una piena remissione.” Pertanto, non vi è alcun peccato nella mancanza di gioia.
+
+Obiezione 2: Inoltre, nessun peccato è incluso nella lode rivolta alle persone sante. Tuttavia alcune persone vengono lodate per essersi astenute dal ridere; infatti è scritto (Geremia 15:17): “Non mi sono mai seduto tra i buffoni”, e (Tobia 3:17): “Non mi sono mai unito a coloro che si divertono con scherzi, né ho mai partecipato alle loro attività frivole”. Pertanto, non può esserci alcun peccato nell’astenersi dal ridere.
+
+Obiezione 3: Inoltre, Andronico considera l’austerità una delle virtù e la descrive come un’[abitudine](/concepts/custom) attraverso la quale un uomo né dona né riceve i piaceri della conversazione. Ora, ciò riguarda proprio la mancanza di gioia; pertanto, la mancanza di gioia è considerata una virtù, e non un peccato.
+
+Al contrario, il Filosofo (Etica, ii, 7; iv, 8) considera la mancanza di gioia un vizio.
+
+Rispondo che, nelle questioni umane, tutto ciò che è contrario alla ragione è un peccato. Ora, è contrario alla ragione che un uomo sia un onere per gli altri, non procurando loro alcun piacere e ostacolando il loro godimento. Per questo motivo Seneca (*Martino di Braga, Formula Vitae Honestae: cap. De Continentia*) afferma (De Quat. Virt., cap. De Continentia): “Lasciate che il vostro comportamento sia guidato dalla saggezza, affinché nessuno vi consideri scortesi o vi disprezzi come individui volgari”. Un uomo privo di allegria non solo manca di parole scherzose, ma è anche un onere per gli altri, poiché è insensibile alla loro moderata gioia. Pertanto, tale comportamento è considerato vizioso e scortese, come afferma il Filosofo (Etica iv, 8). Tuttavia, poiché l’allegria è utile per il benessere degli altri e per i piaceri che offre; e poiché, nella vita umana, piacere e riposo non vengono cercati per loro stessi, ma al fine di facilitare le attività quotidiane, come si legge in Etica x, 6, ne consegue che “la mancanza di allegria è meno peccaminosa del suo eccesso”. Per questo motivo il Filosofo dice (Etica ix, 10): “Dovremmo fare pochi amici per motivi legati al piacere, poiché solo una piccola dose di dolcezza è sufficiente a rendere la vita più gradevole, proprio come un pizzico di sale basta per insaporire il cibo”.
+
+Risposta all’Obiezione 1: La gioia è proibita al pentito, poiché egli è chiamato a piangere i propri peccati. Ciò non implica però l’esistenza di un vizio; anzi, questa stessa riduzione della gioia da parte del pentito è in linea con la ragione.
+
+Risposta all’Obiezione 2: Geremia parla lì in conformità con i tempi, lo [stato](/concepts/state) dei quali richiedeva che l’uomo piangesse; per questo aggiunge: “Siedo solo, perché mi hai riempito di minacce”. Le parole di Tobia 3 si riferiscono a una gioia eccessiva; ciò è evidente dal fatto che Tobia aggiunge: “Non ho nemmeno condiviso la loro allegria”.
+
+Risposta all’Obiezione 3: L’austerità, in quanto virtù, non esclude tutti i piaceri, ma soltanto quelli eccessivi e smisurati; perciò sembrerebbe rientrare nella categoria delle qualità affabili, che il Filosofo (Etica iv, 6) definisce “amichevolezza” o {eutrapelia}, ovvero arguzia. Tuttavia egli la denomina e la definisce in questo modo proprio in relazione alla sua armonia con la temperanza, di cui fa parte il compito di moderare i piaceri.
+
 <span class="atom-split" data-atom="238" data-title="OF MODESTY IN THE OUTWARD APPAREL (TWO ARTICLES)" data-chapter="OF MODESTY IN THE OUTWARD APPAREL (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider modesty as connected with the outward apparel, and under this head
 there are two points of inquiry:
 (1) Whether there can be virtue and vice in connection with outward apparel?
 (2) Whether women sin mortally by excessive adornment?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la modestia in relazione all’abbigliamento esteriore; in questo ambito ci sono due questioni da esaminare:  
+(1) È possibile che l’abbigliamento esteriore sia legato a virtù o vizi?  
+(2) Le donne commettono peccati gravi attraverso un eccessivo abbigliamento?
 
 <span class="atom-split" data-atom="239" data-title="Whether there can be virtue and vice in connection with outward apparel?" data-chapter="Whether there can be virtue and vice in connection with outward apparel?" data-kind="atom" data-srclang="en"></span>
 
@@ -11630,6 +15320,25 @@ Reply to Objection 3: This outward apparel is an indication of man's estate; whe
 deficiency, and mean therein, are referable to the virtue of truthfulness, which the Philosopher
 (Ethic. ii, 7) assigns to deeds and words, which are indications of something connected with man's
 estate.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non possa esistere virtù o vizio in relazione agli abiti esteriori. Infatti, l’abbigliamento esteriore non ci appartiene per natura, e pertanto varia a seconda dei tempi e dei luoghi. Per questo motivo [Agostino](/figures/augustine) afferma (De Doctrina Christiana iii, 12) che “agli antichi Romani era scandaloso che qualcuno indossasse un mantello con maniche che arrivavano fino ai polpacci, mentre oggi è scandaloso che una persona proveniente da ambienti rispettabili non ne indossi”. Ora, secondo il Filosofo (Etica ii, 1), in noi esiste una predisposizione naturale alle virtù; pertanto, non può esserci alcuna virtù o vizio legata a tali cose.
+
+Obiezione 2: Inoltre, se esistessero virtù e vizio in relazione all’abbigliamento esteriore, l’eccesso in questo ambito sarebbe peccaminoso. Ora, però, l’eccesso nell’abbigliamento esteriore non sembra essere peccaminoso, poiché anche i ministri dell’altare utilizzano vestimenti molto preziosi durante le cerimonie sacre. Allo stesso modo, sembrerebbe anche non essere peccaminoso essere carenti in questo ambito; infatti, di alcune persone si dice, a loro lode (Ebrei 11:37): “Vagavano avvolti in pelli di pecora e di capra”. Pertanto, sembra che non possa esistere virtù o vizio in questa materia.
+
+Obiezione 3: Inoltre, ogni virtù è o teologica, o morale, o intellettuale. Ora, una virtù intellettuale non riguarda questioni di questo tipo, poiché si tratta di una perfezione relativa alla conoscenza della verità; né esiste alcuna virtù teologica collegata ad essa, poiché quest’ultima ha Dio come oggetto; né alcuna delle virtù morali elencate dal Filosofo (Etica ii, 7) è in relazione con essa. Pertanto, sembra che non possa esistere alcuna virtù o vizio in relazione a questo tipo di abbigliamento.
+
+Al contrario, l’onestà [*Cfr. Q[145 appartiene alla virtù. Esiste infatti un certo tipo di onestà che si manifesta nell’abbigliamento esteriore; Ambrogio afferma infatti (De Offic. i, 19): “Il corpo deve essere adornato in modo naturale e senza affettazione, con semplicità, piuttosto che con cura eccessiva; non con abiti costosi e sgargianti, ma con indumenti ordinari, in modo che nulla manchi a quanto è necessario per l’onestà, ma nemmeno nulla venga aggiunto al fine di aumentarne la [bellezza](/concepts/beauty)”. Pertanto, nell’abbigliamento esteriore possono esistere sia virtù che vizio.
+
+Rispondo che il vizio non risiede nelle cose esterne stesse che l’uomo utilizza, ma nell’uso immoderato da parte di colui che le impiega. Questo eccesso si manifesta in due modi: innanzitutto, in relazione alle abitudini della società in cui si vive; per questo Agostino afferma (Confessioni, III, 8): “Quegli atti contrari alle usanze comuni devono essere evitati, affinché ciò che è stato concordato e confermato dalle abitudini o dalla legge di una città o nazione non venga violato a piacimento di alcuno, sia cittadino che straniero. Infatti, ogni elemento che non si armonizza con il tutto è considerato offensivo”. In secondo luogo, l’eccesso nell’uso di tali cose può derivare da un attaccamento eccessivo da parte dell’utente, il che porta talvolta a trarre troppo piacere dall’utilizzarle, sia in conformità con le abitudini del proprio ambiente che al contrario. Per questo Agostino aggiunge (De Doctrina Christi, III, 12): “Dobbiamo evitare un eccessivo godimento nell’uso delle cose, poiché ciò non solo conduce all’abuso delle usanze altrui, ma spesso anche a superarne i limiti, facendo emergere in modo illegittimo ciò che prima era nascosto sotto il controllo della morale convenzionale”. Per quanto riguarda l’eccesso, questo attaccamento eccessivo si manifesta in tre modi: innanzitutto, quando un uomo cerca gloria attraverso un’attenzione eccessiva all’abbigliamento, poiché quest’ultimo rappresenta una sorta di ornamento; per questo Gregorio dice (Omelia XL sull’Evangelo): “Alcuni ritengono che l’interesse per gli abiti costosi non sia peccato. Ma se così fosse, la Parola di Dio non direbbe chiaramente che il ricco tormentato all’inferno era vestito di porpora e lino fine. Nessuno, infatti, cerca abiti costosi se non per vanità”. In secondo luogo, quando un uomo cerca piaceri sensuali attraverso un’attenzione eccessiva all’abbigliamento, poiché quest’ultimo serve al comfort del corpo. Infine, quando un uomo dedica troppa cura all’aspetto esteriore; in questo senso Andronico, nel suo trattato sugli affetti, individua tre virtù legate all’abbigliamento: la “umiltà”, che esclude la ricerca della gloria (“l’abitudine di evitare spese e ostentazioni eccessive”); la “soddisfazione”, che esclude la ricerca di piaceri sensuali (“l’abitudine di accontentarsi di ciò che è appropriato e di stabilire ciò che è conveniente nel proprio stile di vita”, secondo quanto afferma l’Apostolo in 1 Timoteo 6:8); e la “sincerità”, che esclude un’eccessiva preoccupazione per tali cose (“l’abitudine di essere soddisfatti di ciò che si possiede”).
+Per quanto riguarda le carenze, può esistere un attaccamento eccessivo in due modi diversi. Primo, quando una persona trascura di dedicare l’attenzione e lo sforzo necessari all’uso dell’abbigliamento esteriore; per questo motivo il Filosofo afferma (Etica, vii, 7) che “è un segno di effeminatezza lasciare che il proprio mantello strascichi per terra per evitare la fatica di rialzarlo”. Secondo, quando si cerca gloria proprio attraverso la mancanza di cura nell’aspetto esteriore; da qui Agostino osserva (De Serm. Dom. in Monte, ii, 12) che “non solo lo sfarzo e la pompa delle cose esterne, ma anche la sporcizia e i simboli del lutto possono diventare oggetto di vanità, tanto più pericolosi poiché si presentano sotto il pretesto del servizio a Dio”; inoltre il Filosofo aggiunge (Etica, iv, 7) che “sia l’eccesso che la carenza eccessiva sono fonte di ostentazione”.
+
+Risposta all’Obiezione 1: Sebbene l’abbigliamento esteriore non derivi dalla natura, spetta alla ragione naturale regolarlo; pertanto siamo naturalmente inclini ad essere coloro che ricevono la virtù che modera l’abbigliamento esteriore.
+
+Risposta all’Obiezione 2: Coloro che sono posti in una posizione di dignità, o i ministri dell’altare, indossano abiti più costosi rispetto agli altri, non per la propria gloria, ma per indicare l’eccellenza del loro ufficio o della Divina [adorazione](/concepts/religion); pertanto ciò non costituisce un peccato da parte loro. Così afferma Agostino (De Doctr. Christ. iii, 12): “Chi utilizza le cose esterne in modo tale da superare i limiti osservati dalle persone buone tra cui vive, o sta cercando di comunicare qualcosa con questo comportamento, oppure commette peccato, poiché usa tali cose per il piacere sensuale o per l’ostentazione.” Allo stesso modo, può esserci peccato anche nel caso di un uso eccessivo: sebbene non sia sempre considerato un peccato indossare abiti più rozzi rispetto agli altri. Infatti, se ciò avviene per ostentazione o orgoglio, al fine di mettersi sopra gli altri, si tratta di un peccato di superstizione; mentre, se lo si fa per domare la carne o umiliare lo spirito, rientra nella virtù della temperanza. Ancora Agostino afferma (De Doctr. Christ. iii, 12): “Chi utilizza le cose transitorie con maggiore moderazione rispetto alla consuetudine del proprio ambiente, è o temperante o superstizioso.” In particolare, l’uso di abiti rozzi è appropriato a coloro che, con parole e esempi, incoraggiano gli altri al pentimento, come facevano i profeti di cui parla l’Apostolo nel passaggio citato. Pertanto, un commento su Matteo 3:4 recita: “Chi predica il pentimento, indossa gli abiti del pentimento.”
+
+Risposta all’Obiezione 3: Questo abbigliamento esteriore rappresenta un indicatore dello stato sociale dell’uomo; pertanto, eventuali eccessi, carenze o mediocrità in esso rispecchiano la virtù della veridicità, che il Filosofo (Etica ii, 7) attribuisce alle azioni e alle parole, considerate indicatori di aspetti legati allo stato sociale dell’uomo.
 
 <span class="atom-split" data-atom="240" data-title="Whether the adornment of women is devoid of mortal sin?" data-chapter="Whether the adornment of women is devoid of mortal sin?" data-kind="atom" data-srclang="en"></span>
 
@@ -11730,11 +15439,39 @@ that are superfluous and fantastic. Hence Chrysostom says (Super Matth.) that "e
 and clothiers' arts stand in need of restraint, for they have lent their art to lust, by abusing its needs,
 and debasing art by art."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’abbigliamento femminile non sia privo di peccato mortale. Infatti, tutto ciò che è contrario a un precetto della [Legge divina](/concepts/divine_law) costituisce un peccato mortale. Ora, l’abbigliamento femminile è contrario a un precetto della Legge divina; infatti si legge in (1 Pietro 3:3): “Che il loro abbigliamento non consista nel pettinare i capelli all’esterno, nell’indossare oro o altri ornamenti”. Pertanto, una spiegazione di Cipriano afferma: “Coloro che sono vestiti di seta e porpora non possono realmente aderire a Cristo; coloro che si adornano con oro, perle e oggetti preziosi hanno rinunciato agli ornamenti dello spirito e del corpo”. Ora, tutto ciò avviene senza commettere un peccato mortale. Pertanto, l’abbigliamento femminile non può essere privo di peccato mortale.
+
+Obiezione 2: Inoltre, Cipriano afferma (De [Habito](/concepts/custom) Virg.): “Ritengo che non solo le vergini e le vedove, ma anche le mogli e tutte le donne, senza eccezione, debbano essere esortate a non deturpare mai l’opera di Dio, la creta da Lui plasmata, utilizzando pigmenti gialli, polveri nere o rossetti, né applicando alcun colorante che alteri i tratti naturali del corpo”. In seguito aggiunge: “Quando cercano di modificare ciò che Dio ha creato, esse toccano Dio stesso; questo rappresenta un attacco alla Sua opera divina e una distorsione della verità. Non potrete più vedere Dio, poiché non avrete più gli occhi che Lui stesso vi ha dato, ma quelli che il diavolo ha distrutto; brucerete insieme a colui per cui vi adornate”. Ma ciò accade soltanto in caso di peccato mortale. Pertanto, l’abbigliamento femminile non è privo di implicazioni legate al peccato mortale.
+
+Obiezione 3: Inoltre, proprio come non è appropriato che una donna indossi abiti da uomo, allo stesso modo non è appropriato che si adorni in modo eccessivo. Il primo comportamento costituisce un peccato, poiché è scritto (Deuteronomio 22:5): “Una donna non dovrà vestirsi con abiti da uomo, né un uomo dovrà indossare abiti da donna”. Pertanto, sembra che anche l’eccessivo adornamento delle donne costituisca un peccato mortale.
+
+Obiezione 4:
+
+Al contrario, se ciò fosse vero, sembrerebbe che coloro che creano questi mezzi di ornamento peccassero gravemente.
+
+Rispondo che, per quanto riguarda l’abbigliamento delle donne, dobbiamo tenere presente quanto detto in precedenza riguardo all’abbigliamento esteriore, nonché un aspetto particolare: cioè che l’abbigliamento di una donna può incoraggiare gli uomini alla lussuria, come si legge in Proverbi 7:10: “Ecco una donna che lo incontra vestita da prostituta, pronta a sedurre le anime”. Tuttavia, una donna può utilizzare mezzi per compiacere il proprio marito, affinché egli non cada nell’adulterio a causa del disprezzo per lei. Per questo motivo si legge in 1 Corinzi 7:34 che la moglie “deve pensare alle cose di questo mondo, al modo in cui possa compiacere il proprio marito”. Pertanto, se una donna sposata si abbellisce allo scopo di compiacere il proprio marito, può farlo senza peccare. Ma quelle donne che non hanno marito o non desiderano averne, o che vivono in uno stato di vita incompatibile con il matrimonio, non possono senza peccare desiderare di suscitare desideri lussuriosi negli uomini che le vedono, poiché ciò significherebbe incoraggiarli al peccato. E se si abbelliscono con tale intenzione di provocare in altri desideri lussuriosi, commettono un peccato mortale; mentre se lo fanno per frivolezza o vanità, allo scopo di ostentazione, il peccato non è sempre mortale, ma a volte veniale. Lo stesso vale per gli uomini in questo senso. Pertanto sant’Agostino dice nell’Epistola ccxlv ad Possidone: “Non desidero che si proibisca affrettatamente l’uso dell’oro o di abiti costosi, tranne nel caso di coloro che non sono sposati né desiderano sposarsi e che dovrebbero pensare a come compiacere Dio; mentre gli altri pensano alle cose di questo mondo: i mariti cercano di compiacere le loro mogli, e le mogli cercano di compiacere i loro mariti, ad eccezione del fatto che non è appropriato per le donne sposate scoprirsi i capelli, poiché l’Apostolo ordina loro di coprirseli”. Tuttavia, in alcuni casi si potrebbe scusare il peccato commesso da coloro che lo fanno non per vanità, ma a causa di una consuetudine contraria; anche se tale consuetudine non è certo da lodare.
+
+Risposta all’Obiezione 1: Come afferma un commento su questo passaggio, “Le mogli di coloro che erano in difficoltà disprezzavano i loro mariti e si adornavano affinché potessero piacere ad altri uomini”; l’Apostolo vieta questa pratica. Cipriano parla nello stesso senso; tuttavia non proibisce alle donne sposate di adornarsi al fine di compiacere i loro mariti, per evitare che questi abbiano l’occasione di peccare con altre donne. Ecco perché l’Apostolo dice (1 Timoteo 2:9): “Le donne, si vestano in modo decoroso, adornandosi con modestia e sobrietà, e non con acconciature elaborate, oro, perle o abiti costosi”: da ciò possiamo comprendere che alle donne non è vietato adornarsi in modo sobrio e moderato, ma solo di farlo in modo eccessivo, senza vergogna e in modo indecente.
+
+Risposta all’Obiezione 2: Cipriano parla di donne che si dipingono il viso; questo rappresenta un tipo di falsificazione che non può essere priva di peccato. Per questo motivo Agostino afferma (Epistola ccxlv ad Possidone): “Tingersi il viso con coloranti al fine di ottenere una carnagione più rossa o più pallida è una menzogna e una falsificazione. Dubito persino che i loro mariti siano disposti a essere ingannati da questo comportamento; infatti, sono proprio i mariti quelli a cui è permesso, ma non imposto, di adornarsi in questo modo”. Tuttavia, tale pratica non comporta sempre un peccato mortale, ma soltanto quando viene compiuta al fine di procurarsi piacere sensuale o con disprezzo per Dio; sono proprio a questi casi che Cipriano si riferisce. È necessario osservare, inoltre, che c’è una differenza tra falsificare una bellezza che non si possiede e nascondere un difetto dovuto a cause naturali come la malattia; quest’ultimo comportamento è legittimo, poiché, secondo l’Apostolo (1 Corinzi 12:23), “per i membri del corpo che riteniamo meno onorevoli, dedichiamo maggiore cura”.
+
+Risposta all’Obiezione 3: Come affermato nell’articolo precedente, l’abbigliamento esteriore deve essere in armonia con lo stato sociale della persona, secondo le consuetudini generali. Pertanto, è di per sé peccaminoso che una donna indossi abiti da uomo, o viceversa; soprattutto perché ciò può generare piacere sensuale, e tale pratica è esplicitamente proibita dalla Legge (Deuteronomio 22), poiché i gentili la utilizzavano per scopi legati a superstizioni idolatriche. Tuttavia, talvolta questa pratica può essere compiuta senza peccato, in caso di necessità: ad esempio, per nascondersi dagli nemici, per mancanza di altri abiti, o per motivi simili.
+
+Risposta all’Obiezione 4: Nel caso di un’arte finalizzata alla produzione di beni che gli uomini non possono utilizzare senza commettere peccato, ne consegue che i lavoratori che li realizzano peccano, poiché tali oggetti offrono direttamente ad altri l’occasione di peccare; ad esempio, se qualcuno fabbricasse idoli o qualsiasi cosa relativa al culto idolatrico. Tuttavia, nel caso di un’arte i cui prodotti possano essere utilizzati sia a fini buoni che cattivi – come spade, frecce e simili – la pratica di tale arte non è peccaminosa. Solo queste arti dovrebbero essere considerate tali; per questo motivo Crisostomo afferma nell’[*Hom. xlix super Matth.*]: “Il nome di arte deve essere attribuito soltanto a quelle che contribuiscono alla produzione di beni necessari e fondamentali per la vita”. Nel caso di un’arte che produce oggetti che, nella maggior parte dei casi, vengono utilizzati a scopi malvagi, anche se tali arti non sono in sé illegali, secondo l’insegnamento di Platone dovrebbero essere estirpate dallo [Stato](/concepts/state) dall’autorità governativa. Pertanto, poiché le donne possono adornarsi legalmente, sia per mantenere la propria dignità che per compiacere i propri mariti, ne consegue che coloro che producono tali oggetti di ornamento non peccano nell’esercitare la loro arte, a meno che non inventino mezzi superflui e fantasiosi. Per questo motivo Crisostomo aggiunge (nello stesso scritto): “Anche le arti dei calzolai e dei sarti richiedono moderazione, poiché hanno reso la propria tecnica strumento del lusso, abusandone allo scopo di soddisfare desideri peccaminosi e degradando così lo stesso concetto di arte”.
+
 <span class="atom-split" data-atom="241" data-title="OF THE PRECEPTS OF TEMPERANCE (TWO ARTICLES)" data-chapter="OF THE PRECEPTS OF TEMPERANCE (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider the precepts of temperance:
 (1) The precepts of temperance itself;
 (2) The precepts of its parts.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora esaminare i precetti della moderazione:  
+(1) I precetti della moderazione in sé;  
+(2) I precetti delle sue componenti.
 
 <span class="atom-split" data-atom="242" data-title="Whether the precepts of temperance are suitably given in the Divine law?" data-chapter="Whether the precepts of temperance are suitably given in the Divine law?" data-kind="atom" data-srclang="en"></span>
 
@@ -11782,6 +15519,24 @@ universal principles of the Divine law; hence they need to be common precepts. N
 possible to give any common affirmative precepts of temperance, because the practice of temperance
 varies according to different times, as [Augustine](/figures/augustine) remarks (De Bono Conjug. xv, 7), and according
 to different human laws and customs.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i precetti di temperanza siano inappropriatamente inclusi nella Legge Divina. Poiché la forza d’animo è una virtù più grande della temperanza, come detto sopra (Q[123], A[12]; Q[141], A[8]; FS, Q[66], A[4]). Ora, tra i precetti del Decalogo – che sono i più importanti tra tutti i precetti della Legge – non vi è alcun precetto relativo alla forza d’animo. Pertanto, sarebbe stato inappropriato includere tra i precetti del Decalogo il divieto di adulterio, che è contrario ai principi della temperanza, come affermato sopra (Q[154], AA[1],8).
+
+Obiezione 2: Inoltre, la temperanza riguarda non solo le questioni legate ai rapporti sessuali, ma anche i piaceri derivanti dal cibo e dalla bevanda. Ora, i precetti del Decalogo non contengono alcuna proibizione relativa ai piaceri legati al cibo e alla bevanda, né ad altre forme di lussuria. Pertanto, nemmeno dovrebbero contenere un precetto che vieti l’adulterio, il quale riguarda appunto i piaceri sessuali.
+
+Obiezione 3: Inoltre, nell’intenzione del legislatore, l’esortazione alla virtù precede il divieto del vizio, poiché i vizi vengono proibiti proprio al fine di eliminare gli ostacoli che si frappongono alla virtù. Ora, i precetti del Decalogo sono i più importanti nel [Diritto Divino](/concepts/divine_law). Pertanto, i precetti del Decalogo avrebbero dovuto includere un precetto positivo che prescrivesse direttamente la virtù della temperanza, piuttosto che un precetto negativo che proibisse l’adulterio, il quale è in diretta opposizione ad essa.
+
+Al contrario, c’è l’autorità della [Scrittura](/concepts/revelation) nel Decalogo (Esodo 20:14,17).
+
+Rispondo che, come dice l’Apostolo (1 Timoteo 1:5), “lo scopo ultimo del comando divino è la carità”, che ci viene imposta attraverso i due precetti relativi all’amore di Dio e del prossimo. Pertanto, il Decalogo contiene quei precetti che mirano più direttamente all’amore di Dio e del prossimo. Tra i vizi contrari alla temperanza, l’adulterio sembra essere quello che più si oppone all’amore per il prossimo, poiché con esso un uomo si appropria della proprietà altrui a proprio uso, abusando della moglie del proprio vicino. Per questo motivo, i precetti del Decalogo includono un divieto specifico contro l’adulterio, non solo quando viene commesso concretamente, ma anche quando ne viene desiderato il compimento nel pensiero.
+
+Risposta all’Obiezione 1: Tra i tipi di vizi contrari alla fortitudine, non ce n’è uno che sia così direttamente opposto all’amore per il prossimo quanto l’adulterio, che rappresenta un tipo di lussuria contraria alla temperanza. Eppure il vizio della temerarietà, che è contrario alla fortitudine, a volte diventa causa di omicidio, un atto vietato da uno dei precetti del Decalogo; infatti si legge nell’Ecclesiaste (8:18): “Non seguire la strada dell’uomo audace, affinché non ti carichi dei suoi mali”.
+
+Risposta all’Obiezione 2: La gola non è direttamente contraria all’amore per il prossimo, come lo è l’adulterio. Lo stesso vale per qualsiasi altra forma di lussuria: un padre, infatti, non viene offeso in modo così grave dall’seduzione di una vergine su cui non ha alcun diritto coniugale, quanto lo sia un marito dall’adulterio della propria moglie, poiché è lui, e non la moglie stessa, ad avere il potere sul suo corpo [*1 Corinzi 7:4].
+
+Risposta all’Obiezione 3: Come già detto sopra (Q[122], AA[1],4), i precetti del decalogo sono principi universali della legge divina; pertanto devono essere considerati precetti comuni a tutti. Ora, non era possibile enunciare alcun precetto comune e positivo riguardante la temperanza, poiché la sua pratica varia in base ai diversi tempi, come osserva [Agostino](/figures/augustine) (De Bono Conjug. xv, 7), nonché in base alle diverse leggi e usanze umane.
 
 <span class="atom-split" data-atom="243" data-title="Whether the precepts of the virtues annexed to temperance are suitably given in the Divine law?" data-chapter="Whether the precepts of the virtues annexed to temperance are suitably given in the Divine law?" data-kind="atom" data-srclang="en"></span>
 
@@ -11831,3 +15586,21 @@ Reply to Objection 3: Inordinate outward movement is not injurious to one's neig
 consider the species of the act, as are murder, adultery, and theft, which are forbidden in the
 decalogue; but only as being signs of an inward inordinateness, as stated above (Q[168], A[1], ad
 1,3).
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i precetti delle virtù legate alla temperanza siano inadeguatamente contenuti nella [Legge divina](/concepts/divine_law). Infatti, i precetti del Decalogo, come già detto (A[1], ad 3), rappresentano principi universali e fondamentali dell’intera Legge divina. Ora, “l’orgoglio è l’inizio di ogni peccato”, secondo l’Ecclesiaste 10:15; pertanto, tra i precetti del Decalogo avrebbe dovuto esserci uno che proibisse l’orgoglio.
+
+Obiezione 2: Inoltre, nel Decalogo avrebbero dovuto essere inclusi per primi quei precetti che spingono particolarmente l’uomo a osservare la Legge, poiché sembrano essere i più importanti. Poiché l’umiltà sottomette l’uomo a Dio, essa dovrebbe essere considerata il mezzo principale per indurlo ad adempiere alla legge divina; per questo motivo l’obbedienza è ritenuta uno dei gradi dell’umiltà, come già accennato in precedenza (Q[161], A[6]); lo stesso vale, a quanto pare, anche per la mansuetudine, il cui effetto consiste nel fatto che un uomo non contraddica le Scritture divine, come osserva [Agostino](/figures/augustine) (De Doctr. Christ. ii, 7). Pertanto, sembrerebbe logico che il Decalogo contenesse precetti sull’umiltà e sulla mansuetudine.
+
+Obiezione 3: Inoltre, è stato detto nell’articolo precedente che l’adulterio è proibito nel Decalogo perché contrario all’amore verso il prossimo. Ma anche le azioni esteriori inappropriatamente audaci, che sono contrarie alla modestia, sono opposte all’amore fraterno; per questo Agostino afferma nella sua Regola (Ep. ccxii): “In tutte le tue azioni, non permettere che nulla possa offendere lo sguardo di alcuna persona”. Pertanto, sembrerebbe che anche questo tipo di comportamento inappropriato dovesse essere proibito da un precetto del Decalogo.
+
+Al contrario, basta l’autorità della [Scrittura](/concepts/revelation) per confermare questa convinzione.
+
+Rispondo che le virtù legate alla temperanza possono essere considerate in due modi: innanzitutto, in se stesse; in secondo luogo, nei loro effetti. Considerate in sé stesse, non hanno alcun legame diretto con l’amore di Dio o del prossimo; piuttosto, riguardano una certa moderazione nelle cose relative all’uomo stesso. Ma considerate nei loro effetti, possono essere associate all’amore di Dio o del prossimo: in questo senso, il Decalogo contiene precetti che riguardano proprio la proibizione degli effetti dei vizi contrari alle virtù della temperanza. Ad esempio, l’effetto dell’[ira](/concepts/anger), che è opposta alla mansuetudine, può portare talvolta a commettere omicidio (cosa vietata dal Decalogo), o a rifiutare il dovuto rispetto ai genitori, il che spesso deriva dall’orgoglio, un vizio che induce molte persone a trasgredire i precetti del primo comandamento.
+
+Risposta all’Obiezione 1: L’orgoglio è l’inizio del peccato, ma si nasconde nel cuore; la sua eccessività non viene percepita da tutti in modo uniforme. Pertanto, non c’era posto per il suo divieto tra i precetti del Decalogo, che rappresentano principi autoevidenti e fondamentali.
+
+Risposta all’Obiezione 2: Quei precetti che costituiscono essenzialmente un incoraggiamento al rispetto della Legge presuppongono che essa sia già esistente; pertanto non possono essere considerati precetti fondamentali della Legge, e quindi non hanno alcun posto nel Decalogo.
+
+Risposta all’Obiezione 3: Un movimento esterno eccessivo non è dannoso per il proprio prossimo, se consideriamo la natura stessa dell’atto in questione – come nel caso di omicidio, adulterio e furto, che sono vietati dal Decalogo – ma soltanto se tale movimento rappresenta un segno di disordine interiore, come già detto sopra (Q[168], A[1], ad 1,3).

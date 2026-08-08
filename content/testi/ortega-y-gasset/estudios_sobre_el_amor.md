@@ -21,3 +21,11 @@ tags:
 <span class="atom-split" data-atom="001" data-title="ESTUDIOS SOBRE EL AMOR" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Los capítulos de «Estudios sobre el amor» fueron publicados primeramente como folletones en el diario El Sol, de Madrid, en los años 1926 y 1927, y después reunidos en un libro del que apareció en 1933 la traducción alemana, antes de la primera edición española, que no fue puesta a la venta hasta 1941.
+
+<span class="qlang-split" data-lang="en"></span>
+
+The chapters of "Studies on Love" were published first as serialized feuilletons in the daily El Sol, of Madrid, in the years 1926 and 1927, and afterwards gathered into a book of which the German translation appeared in 1933, before the first Spanish edition, which was not put on sale until 1941.
+
+<span class="qlang-split" data-lang="it"></span>
+
+I capitoli degli «Studi sull'amore» furono pubblicati dapprima come romanzi d'appendice nel quotidiano El Sol, di Madrid, negli anni 1926 e 1927, e dopo riuniti in un libro del quale apparve nel 1933 la traduzione tedesca, prima della prima edizione spagnola, che non fu messa in vendita fino al 1941.

@@ -23,3 +23,15 @@ tags:
 Desde la fundación de este periódico, en 1917, escribo en él, y en España sólo en él he escrito. Sus páginas han soportado casi entera mi obra. Ahora es preciso peregrinar en busca de otro hogar intelectual. Ya se encontrará. ¡Adiós, lectores míos!
 
 El Sol, 25 de marzo de 1931
+
+<span class="qlang-split" data-lang="en"></span>
+
+Since the founding of this newspaper, in 1917, I have written in it, and in Spain only in it have I written. Its pages have borne almost the whole of my work. Now it is necessary to go on pilgrimage in search of another intellectual home. It will be found. Farewell, my readers!
+
+El Sol, 25 March 1931
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dalla fondazione di questo giornale, nel 1917, scrivo in esso, e in Spagna soltanto in esso ho scritto. Le sue pagine hanno sopportato quasi intera la mia opera. Ora è necessario peregrinare in cerca di un'altra dimora intellettuale. Già si troverà. Addio, miei lettori!
+
+El Sol, 25 marzo 1931

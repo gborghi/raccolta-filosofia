@@ -21,3 +21,11 @@ tags:
 <span class="atom-split" data-atom="001" data-title="Egipcios" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Estas notas han sido premeditadas como introducción a una antología de cantos y cuentos del Antiguo Egipto[175]. No se proponen otra cosa que destacar en un somero esquema los rasgos del alma egipcia que más importan a quien desee comprender en su diferencial peculiaridad aquella viejísima civilización.
+
+<span class="qlang-split" data-lang="en"></span>
+
+These notes have been premeditated as an introduction to an anthology of songs and tales of Ancient Egypt[175]. They propose nothing other than to set out in a summary outline the traits of the Egyptian soul that matter most to whoever wishes to understand in its differential peculiarity that most ancient civilization.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Queste note sono state premeditate come introduzione a un'antologia di canti e racconti dell'Antico Egitto[175]. Non si propongono altro che di mettere in rilievo, in un sommario schema, i tratti dell'anima egizia che più importano a chi desideri comprendere nella sua peculiare differenza quella antichissima civiltà.

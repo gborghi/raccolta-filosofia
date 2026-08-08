@@ -47,3 +47,63 @@ Seamos con nuestras vidas
 como arqueros que tienen un blanco.
 
 ARISTÓTELES.— Ética a Nicómaco, Libro I, cap. 2.
+
+<span class="qlang-split" data-lang="en"></span>
+
+(1921)
+
+ὀυ ξυνιᾶσιν ὅκως διαϕερόμενον ἑωυτῶ
+
+ὁμολογέει· παλίντροπος ἁρμονίη ὅκωσπερ
+
+τόξου καὶ λύρης.
+
+I do not understand how reality,
+
+disagreeing with itself, agrees
+
+with itself: harmony of the
+
+antagonistic, like the bow and the lyre.
+
+HERACLITUS THE OBSCURE.— Fragment 51.
+
+πρὸς τὸν βίον… καθάπερ
+
+τοξόται σκοπὸν ἔχοντες.
+
+Let us be with our lives
+
+like archers who have a target.
+
+ARISTOTLE.— Nicomachean Ethics, Book I, ch. 2.
+
+<span class="qlang-split" data-lang="it"></span>
+
+(1921)
+
+ὀυ ξυνιᾶσιν ὅκως διαϕερόμενον ἑωυτῶ
+
+ὁμολογέει· παλίντροπος ἁρμονίη ὅκωσπερ
+
+τόξου καὶ λύρης.
+
+Non comprendo come la realtà
+
+discordando da sé stessa, concorda
+
+con sé stessa: armonia dello
+
+antagonistico come l'arco e la lira.
+
+ERACLITO L'OSCURO.— Frammento 51.
+
+πρὸς τὸν βίον… καθάπερ
+
+τοξόται σκοπὸν ἔχοντες.
+
+Siamo con le nostre vite
+
+come arcieri che hanno un bersaglio.
+
+ARISTOTELE.— Etica a Nicomaco, Libro I, cap. 2.

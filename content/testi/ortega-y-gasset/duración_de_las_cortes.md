@@ -27,3 +27,23 @@ Madrid, 29 de enero de 1932
 Por la minoría parlamentaria de la Agrupación al Servicio de la República,
 
 J. Azcárate, Secretario
+
+<span class="qlang-split" data-lang="en"></span>
+
+No one who reflects a little can take upon himself the responsibility of asking, at these dates, for the dissolution of the Chamber, but neither can anyone deceive himself about the length of its life. Hence the most important thing for Spain and for the Republic is to prepare in the country the future Cortes by creating a powerful movement that gathers the most prestigious personal forces under a political doctrine, under a homogeneous discipline. Only this can resurrect the republican enthusiasm of the whole Nation and make possible new elections capable of fully building the new Spanish State.
+
+Madrid, 29 January 1932
+
+By the parliamentary minority of the Agrupación al Servicio de la República,
+
+J. Azcárate, Secretary
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nessuno che rifletta un poco può prendere su di sé la responsabilità di chiedere in queste date la dissoluzione della Camera, ma nessuno può nemmeno farsi illusioni sulla lunghezza della sua vita. Di qui che la cosa più importante per la Spagna e per la Repubblica sia preparare nel paese le Cortes future creando un potente movimento che riunisca le forze personali più prestigiose sotto una dottrina politica, sotto una disciplina omogenea. Soltanto questo può risuscitare l'entusiasmo repubblicano dell'intera Nazione e rendere possibili delle nuove elezioni capaci di edificare pienamente il nuovo Stato spagnolo.
+
+Madrid, 29 gennaio 1932
+
+Per la minoranza parlamentare dell'Agrupación al Servicio de la República,
+
+J. Azcárate, Segretario

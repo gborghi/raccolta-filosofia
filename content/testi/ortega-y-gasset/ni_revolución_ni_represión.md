@@ -57,3 +57,83 @@ Los de abajo, recuerden esa magnífica actitud de los jefes del obrerismo inglé
 Pero, además… es imprescindible que unos y otros, todos por igual, sientan llegar una hora nacional de amplia justicia, de gran comprensión y de equitativa coparticipación en el placer y en la dicha de la vida. Todo menos este caminar hacia convulsiones revolucionarias que España, fatigada y desangrada por tantos años de peleas de todo orden, no es capaz de resistir. Y conste que nos parece igualmente revolucionaria la masa alzada en rebeldía, que el Poder erigido en violento aniquilador de movimientos ciudadanos por medio de represiones sangrientas.
 
 Publicado sin firma, El Sol, 26 de marzo de 1919
+
+<span class="qlang-split" data-lang="en"></span>
+
+For lack of competent, effective and adequate organisms, the greater part of the social conflicts that occur in Spain go rapidly drifting toward revolutionary channels. Are we now in a moment immediately prior to the revolution? We do not know: but yesterday the president of the Council of Ministers himself assured it. In Spain, every social conflict, even when it is based strictly on motives of economic order, is inevitably transformed into a political problem. What is the [cause](/concepts/cause) of this phenomenon?
+
+A few days ago, examining with all possible serenity the growing force of Catalan syndicalism, we said that the syndicalists represented the only organized force within Spanish territory. Hence in their struggles with the patronal classes and with the public Power, the syndicalists find themselves in a condition to win. No one will be able to deny it. Is it possible to continue in that way if we aspire to endow Spain with a normal life?
+
+What elements of action appear in the face of the syndicalist organizations when these inaugurate a policy of a revolutionary type?
+
+There we have the public Power. What does it represent? What are its forces? All of it is nothing but a conglomeration of diverse elements, ancient and out of circulation, of current aspirations and wills; all of it represents nothing more than a fiction, an artifice raised at the margin of Spanish life. It neither has the capacity to gather and organize the forces, the great forces of Spain, nor does it live with the people, nor understand current problems, nor show interest in understanding and studying them with the respect and seriousness they demand.
+
+Behind the public Power, so disorganized, broken and shattered that it serves for nothing when it comes to avoiding torments and anguish for Spain, we find the great multitude of «neutral» Spaniards, with the worst of «neutralities», which is that of inaction, of laziness, or of a senseless cowardice mixed with a grotesque frivolity. And among that mass of «neutrals» we could discover those Spaniards who have the most sacred obligation to intervene in all conflicts of national order.
+
+For that reason we cried out days ago in favor of a strong and vigorous ORGANIZATION of all the forces that live dispersed in Spain, as the only means of channeling and clothing with efficacy the action of the worker multitudes.
+
+Things in Spain have come to such a point that it is already difficult to focus the solutions of social questions through a political formula. Political action, whether of Government or of Parliament, must necessarily turn out belated for guaranteeing peace in Spanish life. Then —it will be asked—, is there no other remedy than to await the terrible clash, to expect the assault at firm foot, and to admit in advance all the consequences of a revolutionary period? No!!
+
+Unfortunately, the struggle is engaged in the present moments between an ultra-advanced power and another (the Government) excessively old and decrepit. There are lacking the elements that in every modern country act grouped in intermediate, moderating organisms, elements that serve as agents of liaison between the radicalisms on one side and the conservative reactions on the other.
+
+And in Spain, all public life is so arch-disorganized that people do not even attempt to get into conversation, to discuss, to attend serene and reasoned debates, to defend their points of view, to weigh and counterweigh advantages and drawbacks. Here, each one acts on his own account; each group of Spaniards constitutes itself into an autonomous regime. Thus it results that everything goes dispersed, separated by rancors, violences and incomprehensions; thus it happens that every conflict —as we said before— drifts toward revolutionary channels, and what is worse, toward anarchic and merely destructive movements.
+
+How many times have we raised our voice to warn the responsible men and those who might suffer in a convulsion of the extreme forces! How many times have we written that a great social work should be carried out to prevent the multitude from throwing itself into revolutionary procedures!
+
+The Government will be able to answer us: «there are my decrees; there my dispositions of a social character». And what then? What is their efficacy? All that, has it achieved anything more than grazing the epidermis of the Spanish people? To what plan do those initiatives respond? What guarantees of fulfillment are given to capital and to labor? None, absolutely none.
+
+The European peoples have needed to pass through the most atrocious of wars to know that only a regime of JUSTICE could put an end to the bloody fights that have ravaged more than half of Europe. Shall we also need here to see ourselves subjected to a profound commotion to achieve the establishment of a regime of social and political coexistence based on JUSTICE? Both the one and the other, masters and workers, capital and labor, distrust today everything that proceeds from politics and from politicians. There is in Spanish politics neither organisms nor formulas that can inspire respect in people, nor be capable of surrounding themselves with the necessary prestige. Therefore, one must resort to other procedures. What are these?
+
+In our judgment, it is already time for the public Powers to hasten to set face to face the diverse elements that fight on the ground of social conflicts. Let them come to know one another, let them listen to one another mutually, let each one set forth his thought and present his demands, let this disorganized, anarchic political and social regime be succeeded by another more modern and more cordial, more national and more human.
+
+Today, upon the horizon of Spain, two phantoms appear: that of the revolution, agitated by some, and that of the repression, upheld by those of the opposite side. Will there be nothing more than that in the immediate future of Spain? Will one not know how to choose a wide and clean road?
+
+Let all the men who in these moments intervene in one way or another in the social problems think; let them think and meditate upon the enormous responsibility that weighs upon them.
+
+The elements from above (Government, capitalism, bourgeoisie, conservative classes), let them turn their eyes toward all the countries of Europe, let them learn to weigh, measure and value the profound transformation that the war has operated in the world.
+
+Those from below, let them recall that magnificent attitude of the chiefs of English laborism when, in the midst of the negotiations that the Government presided over a week ago, they addressed the worker multitudes in an admirable manifesto, recommending to all calm, serenity, prudence and patriotism. It is not possible that Spain be the only country in which worker conflicts are ignorant of normal solutions. Whether in an industrial Parliament, whether in a national Assembly of capitalists and workers, whether in an organization of regional Assemblies, it is necessary that adversaries meet, lay down their swords and discuss serenely.
+
+But, moreover… it is indispensable that both the one and the other, all equally, feel an hour arrive of ample justice, of great comprehension and of equitable co-participation in the pleasure and in the happiness of life. Anything but this walking toward revolutionary convulsions, which Spain, fatigued and drained of blood by so many years of fights of every order, is not capable of resisting. And let it be noted that the mass raised in rebellion seems to us equally revolutionary as the Power erected into a violent annihilator of citizen movements by means of bloody repressions.
+
+Published unsigned, El Sol, 26 March 1919
+
+<span class="qlang-split" data-lang="it"></span>
+
+Per mancanza di organismi competenti, efficaci e adeguati, la maggior parte dei conflitti sociali che in Spagna si producono vanno derivando rapidamente verso canali rivoluzionari. Ci troviamo ora in un momento immediatamente anteriore alla rivoluzione? Noi non lo sappiamo: ma ieri lo assicurava lo stesso presidente del Consiglio dei ministri. In Spagna, ogni conflitto sociale, anche quando si basi strettamente su motivi di ordine economico, si trasforma inevitabilmente in un problema politico. Qual è la [causa](/concepts/cause) di questo fenomeno?
+
+Alcuni giorni fa, esaminando con tutta la serenità possibile la forza crescente del sindacalismo catalano, dicevamo che i sindacalisti rappresentavano l'unica forza organizzata entro il territorio spagnolo. Di qui che nelle loro lotte con le classi padronali e con il Potere pubblico, i sindacalisti si trovino in condizioni di vincere. Nessuno potrà negarlo. È possibile continuare in quel modo se aspiriamo a dotare la Spagna di una vita normale?
+
+Quali elementi di azione appaiono di fronte alle organizzazioni sindacaliste quando queste inaugurano una politica di tipo rivoluzionario?
+
+Ecco il Potere pubblico. Che rappresenta? Quali sono le sue forze? Tutto quanto esso non è che un conglomerato di elementi diversi, antichi e fuori circolazione di aspirazioni e volontà attuali; tutto quanto esso non rappresenta che una finzione, un artificio innalzato al margine della vita spagnola. Né ha capacità di riunire e organizzare le forze, le grandi forze della Spagna, né convive con il popolo, né intende i problemi attuali, né mostra interesse a comprenderli e studiarli con il rispetto e la serietà che esigono.
+
+Dietro il Potere pubblico, così disorganizzato, rotto e sfranto che a nulla serve quando si tratti di evitare tormenti e angosce alla Spagna, troviamo la gran moltitudine di spagnoli «neutri», con la peggiore delle «neutralità», che è quella dell'inazione, della pigrizia o di un'insensata viltà mescolata a una grottesca frivolità. E in quella massa di «neutri» potremmo scoprire gli spagnoli che hanno il più sacro obbligo di intervenire in tutti i conflitti di ordine nazionale.
+
+Per questo gridavamo giorni fa in favore di una forte e vigorosa ORGANIZZAZIONE di tutte le forze che vivono disperse in Spagna, come unico mezzo di incanalare e rivestire di efficacia l'azione delle moltitudini operaie.
+
+A tal punto sono arrivate le cose in Spagna, che è difficile ormai inquadrare le soluzioni delle questioni sociali attraverso una formula politica. L'azione politica, sia di Governo, sia di Parlamento, dovrà risultare necessariamente tardiva per garantire la pace nella vita spagnola. Allora —ci si domanderà—, non c'è altro rimedio che attendere l'urto terribile, aspettare a piè fermo l'assalto e ammettere in anticipo tutte le conseguenze di un periodo rivoluzionario? No!!
+
+Per disgrazia, la lotta è ingaggiata nei momenti attuali tra un potere ultra-avanzato e un altro (il Governo) eccessivamente vecchio e caduco. Mancano gli elementi che in ogni paese moderno agiscono raggruppati in organismi intermedi, moderatori, elementi che servono da agenti di collegamento tra i radicalismi da un lato e le reazioni conservatrici dall'altro.
+
+E in Spagna, tutta la vita pubblica è così archidisorganizzata, che le genti non tentano neppure di mettersi in contatto, di discutere, di accorrere a dibattiti sereni e ragionati, di difendere i propri punti di vista, di pesare e contrappesare vantaggi e inconvenienti. Qui, ciascuno opera per conto proprio; ogni gruppo di spagnoli si costituisce in regime autonomico. Così risulta che tutto vada disperso, separato da livori, violenze e incomprensioni; così accade che ogni conflitto —come dicevamo prima— derivi verso canali rivoluzionari, e, ciò che è peggio, verso movimenti anarchici e soltanto distruttori.
+
+Quante volte abbiamo alzato la nostra voce per prevenire gli uomini responsabili e coloro che potevano soffrire in una convulsione delle forze estreme! Quante volte abbiamo scritto che si doveva realizzare una grande opera sociale per evitare che la moltitudine si lanciasse in procedimenti rivoluzionari!
+
+Il Governo potrà risponderci: «ecco i miei decreti; ecco le mie disposizioni di carattere sociale». E allora? Qual è la loro efficacia? Tutto ciò, ha ottenuto qualcosa più che sfiorare l'epidermide del popolo spagnolo? A quale piano rispondono quelle iniziative? Quali garanzie di adempimento si danno al capitale e al lavoro? Nessuna, assolutamente nessuna.
+
+I popoli europei hanno avuto bisogno di passare attraverso la più atroce delle guerre per sapere che soltanto un regime di GIUSTIZIA poteva porre fine alle sanguinose lotte che hanno devastato più di mezza Europa. Anche qui avremo bisogno di vederci sottoposti a una profonda commozione per ottenere l'instaurazione di un regime di convivenza sociale e politica basata sulla GIUSTIZIA? Gli uni e gli altri, padroni e operai, capitale e lavoro, diffidano oggi di tutto quanto proceda dalla politica e dai politici. Non c'è nella politica spagnola né organismi né formule che possano ispirare alle genti rispetto, né siano capaci di circondarsi del prestigio necessario. Perciò, bisogna ricorrere ad altri procedimenti. Quali sono questi?
+
+A nostro giudizio, è già ora che i Poteri pubblici si affrettino a mettere faccia a faccia i diversi elementi che combattono nel terreno dei conflitti sociali. Che si conoscano, che si ascoltino reciprocamente, che ciascuno esponga il suo pensiero e presenti le sue domande, che a questo regime politico e sociale disorganizzato, anarchico, ne succeda un altro più moderno e più cordiale, più nazionale e più umano.
+
+Oggi, sull'orizzonte della Spagna, appaiono due fantasmi: quello della rivoluzione, agitato da alcuni, e quello della repressione, sostenuto da quelli del bando opposto. Non ci sarà niente più di questo nell'immediato avvenire della Spagna? Non si saprà scegliere un cammino largo e pulito?
+
+Pensino tutti gli uomini che in questi momenti intervengono in un modo o nell'altro nei problemi sociali; pensino e meditino sull'enorme responsabilità che pesa su di loro.
+
+Gli elementi di sopra (Governo, capitalismo, borghesia, classi conservatrici), volgano gli occhi verso tutti i paesi d'Europa, imparino a pesare, misurare e valutare la profonda trasformazione che la guerra ha operato nel mondo.
+
+Quelli di sotto, ricordino quella magnifica attitudine dei capi dell'operismo inglese quando, in mezzo alle negoziazioni che il Governo presiedeva una settimana fa, si dirigevano alle moltitudini operaie in un manifesto ammirevole, raccomandando a tutti calma, serenità, prudenza e patriottismo. Non è possibile che la Spagna sia l'unico paese in cui i conflitti operai ignorino le soluzioni normali. Sia in un Parlamento industriale, sia in un'Assemblea nazionale di capitalisti e lavoratori, sia in un'organizzazione di Assemblee regionali, è necessario che gli avversari si incontrino, depongano le spade e discutano serenamente.
+
+Ma, inoltre… è imprescindibile che gli uni e gli altri, tutti egualmente, sentano giungere un'ora nazionale di ampia giustizia, di grande comprensione e di equa compartecipazione nel piacere e nella gioia della vita. Tutto meno questo camminare verso convulsioni rivoluzionarie che la Spagna, stanca e dissanguata da tanti anni di lotte di ogni ordine, non è capace di sopportare. E consti che a noi sembra ugualmente rivoluzionaria la massa levata in ribellione, quanto il Potere eretto in violento annientatore di movimenti cittadini per mezzo di repressioni sanguinose.
+
+Pubblicato senza firma, El Sol, 26 marzo 1919

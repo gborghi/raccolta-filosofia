@@ -25,6 +25,10 @@ tags:
 TREATISE ON THE CONSERVATION AND GOVERNMENT OF
 CREATURES (QQ[103]-119)
 
+<span class="qlang-split" data-lang="it"></span>
+
+Trattato sulla conservazione e sul governo delle creature (QQ[103]-119)
+
 <span class="atom-split" data-atom="002" data-title="OF THE GOVERNMENT OF THINGS IN GENERAL (EIGHT ARTICLES)" data-chapter="OF THE GOVERNMENT OF THINGS IN GENERAL (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Having considered the creation of things and their distinction, we now consider in the third
@@ -38,6 +42,18 @@ effects of this government. Under the first head there are eight points of inqui
 (6) Whether all things are immediately governed by God?
 (7) Whether the Divine government is frustrated in anything?
 (8) Whether anything is contrary to the Divine Providence?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo aver considerato la creazione delle cose e le loro distinzioni, ora esaminiamo, in terzo luogo, il modo in cui queste vengono governate: (1) il governo delle cose in generale; (2) in particolare, gli effetti di tale governo. All’interno della prima categoria di indagini vi sono otto punti da analizzare:  
+(1) Il mondo è forse governato da qualcuno?  
+(2) Qual è lo scopo di questo governo?  
+(3) Il mondo è governato da una sola entità?  
+(4) Quali sono gli effetti di questo governo?  
+(5) Tutte le cose sono sottoposte al governo divino?  
+(6) Tutte le cose sono immediatamente governate da Dio?  
+(7) Il governo divino incontra qualche ostacolo nel suo operare?  
+(8) Esiste qualcosa che sia contrario alla provvidenza divina?
 
 <span class="atom-split" data-atom="003" data-title="Whether the world is governed by anyone?" data-chapter="Whether the world is governed by anyone?" data-kind="atom" data-srclang="en"></span>
 
@@ -94,6 +110,24 @@ God is their nature, while that which natural things receive from man in additio
 somewhat violent. Wherefore, as the violent necessity in the movement of the arrow shows the
 action of the archer, so the natural necessity of things shows the government of Divine Providence.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il mondo non sia governato da nessuno. Infatti, ciò che è soggetto a governo è ciò che si muove o agisce in vista di un fine. Ma le cose naturali, che costituiscono la maggior parte del mondo, non si muovono né agiscono in modo mirato, poiché non hanno alcuna consapevolezza del proprio scopo. Pertanto, il mondo non è governato da nessuno.
+
+Obiezione 2: Inoltre, ciò che è mosso verso un oggetto è governato da qualcosa. Ma il mondo non sembra essere diretto in questo modo; anzi, possiede una stabilità intrinseca. Pertanto, non è governato da alcuna forza esterna.
+
+Obiezione 3: Inoltre, ciò che è necessariamente determinato dalla propria natura a essere qualcosa di specifico non richiede alcun principio esterno di governo. Tuttavia, le parti principali del mondo sono, per una certa necessità, destinate a compiere azioni e movimenti specifici. Pertanto, il mondo stesso non ha bisogno di essere governato.
+
+Al contrario, è scritto (Sapienza 14:3): “Ma Tu, o Padre, governi tutte le cose con la Tua Provvidenza”. E Boezio afferma (De Consolatione iii): “Tu che governi questo universo per mandato eterno”.
+
+Rispondo che alcuni antichi filosofi negavano l’esistenza di un governo del mondo, affermando che tutte le cose avvenissero per [caso](/concepts/fortune). Tuttavia, tale opinione può essere confutata in due modi: innanzitutto, osservando le cose stesse; infatti notiamo che nella natura le cose accadono sempre o quasi sempre nel modo migliore possibile. Ciò non sarebbe possibile se non esistesse una sorta di provvidenza che guidasse la natura verso il bene come fine ultimo, cioè verso un governo ordinato delle cose. Pertanto, l’ordine infallibile che osserviamo nella natura è un segno evidente dell’esistenza di tale governo. In secondo luogo, ciò risulta chiaro anche considerando la bontà divina: come abbiamo già detto in precedenza, essa fu la causa della creazione delle cose. Poiché “spetta al migliore produrre il meglio”, non è appropriato che la suprema bontà di Dio creasse le cose senza donare loro la perfezione. Ora, la perfezione ultima di una cosa consiste nell’attuazione del suo scopo; pertanto spetta alla bontà divina, che ha portato le cose all’esistenza, guidarle verso il loro fine ultimo: e questo è proprio ciò che si intende per governo.
+
+Risposta all’Obiezione 1: Una cosa si muove o agisce in vista di uno scopo in due modi. In primo luogo, quando si dirige verso tale scopo da sola, come l’uomo e altre creature razionali; tali esseri possiedono conoscenza del proprio fine nonché dei mezzi necessari per raggiungerlo. In secondo luogo, si dice che una cosa si muova o agisca in vista di uno scopo quando viene spinta o guidata da un’altra entità, come una freccia guidata verso il bersaglio dall’arciere, il quale conosce lo scopo ignorato dalla freccia stessa. Pertanto, così come il movimento della freccia verso un fine preciso dimostra chiaramente che è guidato da qualcuno dotato di conoscenza, anche il corso invariabile delle cose naturali, prive di tale capacità, evidenzia chiaramente che il mondo è governato da una qualche ragione.
+
+Risposta all’Obiezione 2: In tutte le cose create esiste un elemento stabile, almeno la materia primaria; inoltre, vi è qualcosa che appartiene al movimento, se per movimento intendiamo l’azione o l’operazione. E sia gli elementi stabili che quelli soggetti al movimento hanno bisogno di una guida o di un controllo: infatti anche ciò che è stabile, poiché è stato creato dal nulla, tornerebbe al nulla se non fosse sostenuto da una forza regolatrice, come verrà spiegato in seguito (Q[104], A[1]).
+
+Risposta all’Obiezione 3: La necessità naturale insita in quegli esseri che sono determinati a compiere un certo atto è una sorta di “impressione” proveniente da Dio, che li dirige verso il loro fine; così come la necessità che fa muovere una freccia verso un punto preciso deriva dall’arciere, e non dalla freccia stessa. Tuttavia esiste una differenza: ciò che le creature ricevono da Dio è la loro natura, mentre ciò che le cose naturali ricevono dall’uomo, in aggiunta alla loro natura, ha un carattere “violento” o forzato. Pertanto, proprio come la necessità violenta nel movimento della freccia evidenzia l’azione dell’arciere, così la necessità naturale delle cose dimostra l’intervento della Provvidenza Divina.
+
 <span class="atom-split" data-atom="004" data-title="Whether the end of the government of the world is something outside the world?" data-chapter="Whether the end of the government of the world is something outside the world?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the end of the government of the world is not something
@@ -146,6 +180,24 @@ Reply to Objection 3: A good existing in the universe, namely, the order of the 
 an end thereof; this. however, is not its ultimate end, but is ordered to the extrinsic good as to the
 end: thus the order in an army is ordered to the general, as stated in Metaph. xii, Did. xi, 10.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la fine del governo del mondo non sia qualcosa che esista al di fuori del mondo stesso. Infatti, la fine del governo di una cosa è ciò verso cui quella cosa viene portata; ma ciò verso cui una cosa viene portata rappresenta un bene insito in essa stessa: ad esempio, un uomo malato viene riportato alla salute, il che costituisce un bene per lui. Pertanto, la fine del governo delle cose è un bene che non si trova al di fuori di esse, ma all’interno delle stesse.
+
+Obiezione 2: Inoltre, il Filosofo afferma (Etica, i, 1): “Alcuni fini sono operazioni; altri sono risultati di operazioni”. Ma nulla può essere prodotto dall’intero universo al di fuori di sé stesso; inoltre, l’operazione ha luogo nell’agente che la compie. Pertanto, nulla di esterno all’universo può costituire lo scopo della sua azione governativa sulle cose.
+
+Obiezione 3: Inoltre, il bene della moltitudine sembra consistere nell’ordine e nella pace, che sono la “tranquillità dell’ordine”, come afferma [Agostino](/figures/augustine) (De Civ. Dei xix, 13). Ma il mondo è composto da molte cose; pertanto lo scopo del governo del mondo è l’ordine pacifico delle stesse cose. Quindi lo scopo del governo del mondo non è un bene esterno.
+
+Al contrario, è scritto (Proverbi 16:4): “Il Signore ha creato tutte le cose per sé stesso”. Ma Dio si trova al di fuori dell’intero ordine dell’universo; pertanto la fine di tutte le cose è qualcosa che vi è esterno.
+
+Rispondo che, poiché la fine di una cosa corrisponde al suo inizio, non è possibile ignorare la fine delle cose se conosciamo il loro inizio. Pertanto, poiché l’inizio di tutte le cose è qualcosa che si trova al di fuori dell’universo, cioè Dio, è evidente, da quanto detto sopra (Q[44], AA[1],2), che dobbiamo concludere che la fine di tutte le cose sia un bene esterno all’universo. Ciò può essere dimostrato razionalmente: infatti, è chiaro che il bene ha per natura una finalità; pertanto, la fine specifica di qualcosa consiste in un bene particolare, mentre la fine universale di tutte le cose è il Bene Universale, che è buono in sé stesso per via della sua Essenza, che è appunto l’essenza stessa del bene; un bene particolare, invece, è buono soltanto in quanto partecipa a quel Bene Universale. Ora è evidente che, nell’intero universo creato, non esiste alcun bene che non sia tale in modo “partecipativo”. Pertanto, quel bene che rappresenta la fine dell’universo intero deve necessariamente essere un bene esterno all’universo stesso.
+
+Risposta all’Obiezione 1: Possiamo acquisire alcuni beni in molti modi: innanzitutto, come qualcosa che esiste già in noi, come la salute o la conoscenza; in secondo luogo, come qualcosa che compiamo noi stessi, così come un costruttore raggiunge il suo scopo costruendo una casa; infine, come qualcosa di buono che possediamo o acquisiamo, come il compratore di un campo che raggiunge il suo obiettivo quando ne entra in possesso. Pertanto, nulla impedisce che ciò che esiste al di fuori dell’universo sia considerato il bene verso cui è diretto.
+
+Risposta all’Obiezione 2: Il filosofo si riferisce agli scopi delle varie arti; infatti, lo scopo di alcune arti consiste nell’atto stesso di eseguirle, come lo scopo di un arpista sia suonare l’arpa; mentre lo scopo di altre arti riguarda qualcosa che viene prodotto, come lo scopo di un costruttore non sia l’atto stesso di costruire, ma la casa che realizza. Può darsi che qualcosa di esterno a tali processi costituisca lo scopo non solo nel momento in cui viene creato, ma anche quando viene posseduto, acquisito o persino rappresentato; ad esempio, si potrebbe dire che Ercole sia lo scopo della statua realizzata per raffigurarlo. Pertanto, si può affermare che un bene esterno all’intero universo costituisca lo scopo del suo governo, nel senso di qualcosa che viene posseduto e rappresentato; infatti, ogni cosa tende a partecipare a tale bene e ad assimilarvisi, nella misura in cui ciò sia possibile.
+
+Risposta all’Obiezione 3: Un bene esistente nell’universo, ovvero l’ordine stesso dell’universo, ne rappresenta uno scopo; tuttavia, questo non è il suo fine ultimo, poiché tale ordine è orientato verso un bene esterno come scopo finale. Così, ad esempio, l’ordine all’interno di un esercito è subordinato al generale, come affermato nella Metafisica XII, Didoxi, 10.
+
 <span class="atom-split" data-atom="005" data-title="Whether the world is governed by one?" data-chapter="Whether the world is governed by one?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the world is not governed by one. For we judge the cause by
@@ -194,6 +246,24 @@ universe.
 Reply to Objection 3: If we consider individual goods, then two are better than one. But if we
 consider the essential good, then no addition is possible.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il mondo non sia governato da una sola forza. Infatti giudichiamo la causa in base all’effetto. Ora, osservando il funzionamento dell’universo, vediamo che le cose non si muovono e non operano in modo uniforme: alcune lo fanno in modo casuale, altre per necessità, e in modi del tutto diversi. Pertanto, il mondo non è governato da una sola forza.
+
+Obiezione 2: Inoltre, le cose che sono governate da un unico principio non agiscono l’una contro l’altra, se non a causa dell’incompetenza o della mancanza di abilità del reggitore; il che non può essere applicato a Dio. Tuttavia, le cose create non agiscono in armonia tra loro, ma spesso si contraddicono a vicenda; come è evidente nel caso dei contrari. Pertanto, il mondo non è governato da un unico principio.
+
+Obiezione 3: Inoltre, nella natura troviamo sempre ciò che è migliore. Ma “è meglio che due siano insieme piuttosto che uno” (Ecclesiaste 4:9). Pertanto, il mondo non è governato da uno solo, ma da molti.
+
+Al contrario, confessiamo la nostra fede in un solo Dio e un solo Signore, secondo le parole dell’Apostolo (1 Corinzi 8:6): “Per noi c’è un solo Dio, il Padre, e un solo Signore”; entrambi questi concetti riguardano l’autorità. Infatti, al Signore appartiene il dominio sui suoi sudditi; inoltre, il nome di Dio deriva dalla Provvidenza, come già detto sopra (Q[13], A[8]). Pertanto, il mondo è governato da un solo Dio.
+
+Rispondo che dobbiamo necessariamente affermare che il mondo sia governato da uno solo. Poiché lo scopo del governo del mondo è ciò che è essenzialmente buono, ovvero il bene supremo, il governo del mondo deve essere il tipo di governo migliore in assoluto. Ora, il miglior governo è quello esercitato da uno solo. Il motivo è che il governo non è altro che la direzione delle cose governate verso un fine, e tale fine consiste necessariamente nel bene. La unità, infatti, appartiene all’idea stessa del bene, come dimostra Boezio (De Consolatio Philosophiae, iii, 11): poiché tutte le cose desiderano il bene, desiderano anche l’unità; senza di essa, cesserebbero di esistere. Una cosa esiste soltanto nella misura in cui è unitaria. Per questo motivo, le cose resistono alla divisione ogni volta che è possibile, e la dissoluzione di una cosa deriva proprio da una mancanza di unità. Pertanto, l’intento di chi governa un popolo è proprio quello di realizzare l’unità o la pace. La causa vera dell’unità è uno solo; infatti, più cose non possono essere la causa dell’unità o dell’armonia se non nella misura in cui sono unite tra loro. Inoltre, ciò che è per sé stesso unitario rappresenta una causa di unità più adatta e efficace rispetto a molteplici elementi uniti insieme. Pertanto, un popolo è meglio governato da uno solo che da più persone. Da queste considerazioni si deduce che il governo del mondo, essendo la forma migliore di governo, debba essere esercitato da uno solo. Ciò viene espresso anche dal Filosofo (Metafisica, xii, Didascalia xi, 10): “Le cose rifiutano di essere governate male; inoltre, la molteplicità di autorità rappresenta qualcosa di negativo, quindi deve esserci un solo sovrano.”
+
+Risposta all’Obiezione 1: Il movimento è “l’atto di una cosa che si muove, causato da ciò che la muove”. Pertanto, la diversità dei movimenti deriva dalla diversità delle cose che si muovono, e tale diversità è essenziale per la perfezione dell’universo (Q[47], AA[1],2; Q[48], A[2]); non derivante invece da una diversità dei “agenti che causano il movimento”.
+
+Risposta all’Obiezione 2: Sebbene i contrari non siano concordi nei loro fini immediati, tuttavia sono concordi nel fine ultimo, nella misura in cui rientrano nello stesso ordine dell’universo.
+
+Risposta all’Obiezione 3: Se consideriamo i beni individuali, due sono certamente migliori di uno. Ma se consideriamo il bene essenziale, allora nessun aggiunta è possibile.
+
 <span class="atom-split" data-atom="006" data-title="Whether the effect of government is one or many?" data-chapter="Whether the effect of government is one or many?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is but one effect of the government of the world and not
@@ -230,6 +300,20 @@ Reply to Objection 1: The order of the universe includes both the preservation o
 by God and their movement. As regards these two things we find order among them, inasmuch as
 one is better than another; and one is moved by another.
 From what has been said above, we can gather the replies to the other two objections.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il governo del mondo abbia soltanto un effetto, e non molti. L’effetto del governo, infatti, è ciò che viene prodotto nelle cose su cui esso esercita la sua influenza; tale effetto è uno solo, ovvero il bene, che consiste nell’ordine e nella regolarità; come si può vedere nell’esempio di un esercito. Pertanto, il governo del mondo ha soltanto un effetto.
+
+Obiezione 2: Inoltre, da una singola causa ne deriva naturalmente solo un effetto. Ma il mondo è governato da una sola causa, come abbiamo dimostrato (A[3]). Pertanto, anche l’effetto di questo governo è uno solo.
+
+Obiezione 3: Inoltre, se l’effetto del governo non derivasse dalla unità del governante, dovrebbe derivare invece dalle molteplici cose che vengono governate. Ma queste sono troppo numerose per poter essere contate. Pertanto, non possiamo attribuire alcun numero definito agli effetti del governo.
+
+Al contrario, Dionigi afferma (Div. Nom. XII): “Dio contiene tutto e riempie tutto con la Sua provvidenza e la Sua perfeita bontà”. Ma il governo appartiene alla provvidenza; pertanto esistono effetti definiti e concreti del governo divino.
+
+Rispondo che l’effetto di qualsiasi azione può essere giudicato in base al suo fine; infatti è attraverso l’azione che si realizza l’attuazione di tale fine. Ora, il fine della guida del mondo è il bene essenziale, verso la partecipazione e la somiglianza con il quale tutte le cose tendono. Pertanto, l’effetto della guida del mondo può essere considerato in tre modi: innanzitutto, dal punto di vista del fine stesso; in questo caso esiste un solo effetto, ovvero l’assimilazione al bene supremo. In secondo luogo, l’effetto della guida del mondo può essere analizzato in relazione a quelle cose attraverso le quali la creatura viene resa simile a Dio. In generale, quindi, ci sono due effetti principali della guida del mondo: da un lato, l’assimilazione della creatura a Dio, sia riguardo al fatto che Dio è buono – e così la creatura diventa buona come Lui – sia riguardo al fatto che Dio è la causa della bontà negli altri; e dall’altro lato, il ruolo di Dio nel spingere gli altri ad essere buoni. Esistono quindi due effetti fondamentali della guida del mondo: la conservazione delle cose nella loro bontà e la promozione della bontà nelle altre. In terzo luogo, si possono considerare anche gli effetti individuali della guida del mondo; in questo caso tali effetti sono innumerevoli.
+
+Risposta all’Obiezione 1: L’ordine dell’universo include sia la conservazione delle cose create da Dio che il loro movimento. Per quanto riguarda queste due aspetti, riscontriamo un ordine tra di essi, poiché una cosa è migliore dell’altra e una viene mossa dall’altra. Da quanto detto finora, possiamo trarre le risposte anche alle altre due obiezioni.
 
 <span class="atom-split" data-atom="007" data-title="Whether all things are subject to the Divine government?" data-chapter="Whether all things are subject to the Divine government?" data-kind="atom" data-srclang="en"></span>
 
@@ -391,6 +475,24 @@ causes, which may fail in their effects; and not as though anything could happen
 the order of Divine government. The very fact that something occurs outside the order of some
 proximate cause, is owing to some other cause, itself subject to the Divine government.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra possibile che possa accadere qualcosa al di fuori dell’ordine del governo divino. Infatti Boezio afferma nel “De Consolatione” (III) che “Dio dispone tutto per il bene”. Pertanto, se nulla accadesse al di fuori dell’ordine del governo divino, ne conterrebbe che non esistesse alcun male.
+
+Obiezione 2: Inoltre, nulla che sia in accordo con la preordinazione di un sovrano avviene per [caso](/concepts/fortune). Pertanto, se nulla accade al di fuori dell’ordine del governo divino, ne consegue che non esiste nulla di fortuito o casuale.
+
+Obiezione 3: Inoltre, l’ordine della Provvidenza Divina è certo e immutabile, poiché corrisponde al disegno eterno di Dio. Pertanto, se nulla accade al di fuori di questo ordine, ne consegue che tutte le cose avvengono per necessità e nulla è casuale; il che è falso. Quindi è possibile che qualcosa accada al di fuori dell’ordine della Provvidenza Divina.
+
+Al contrario, è scritto (Ester 13:9): “O Signore, Signore, Re onnipotente, tutto è nelle Tue mani e non c’è nessuno che possa opporsi alla Tua volontà”.
+
+Rispondo che è possibile che un effetto si verifichi al di fuori dell’ordine di una causa particolare; ma non al di fuori dell’ordine della causa universale. Il motivo è che nessun effetto può verificarsi al di fuori dell’ordine di una causa particolare, se non attraverso un’altra causa ostacolante; e questa seconda causa deve a sua volta essere ricondotta alla prima causa universale. Ad esempio, l’intestino indigesto può verificarsi a causa della grossolanità del cibo, che a sua volta è dovuta a qualche altra causa, e così via, fino ad arrivare alla prima causa universale. Pertanto, poiché Dio è la prima causa universale, non solo di un certo genere, ma di tutta l’esistenza in generale, è impossibile che qualcosa accada al di fuori dell’ordine del governo divino. Tuttavia, anche se da un certo punto di vista qualcosa sembra sfuggire all’ordine della provvidenza divina riguardo a una causa particolare, necessariamente deve rientrare in quell’ordine riguardo a un’altra causa.
+
+Risposta all’Obiezione 1: Non esiste nulla di completamente malvagio nel mondo, poiché il male si fonda sempre sul bene, come dimostrato sopra (Q[48], A[3]). Pertanto, qualcosa viene definito malvagio perché si allontana dall’ordine di un certo bene specifico. Se si allontanasse completamente dall’ordine del governo divino, cesserebbe del tutto di esistere.
+
+Risposta all’Obiezione 2: Si dice che le cose siano fortuite in relazione a una causa particolare da cui sfuggono per caso. Ma riguardo all’ordine della provvidenza divina, “nulla nel mondo accade per caso”, come afferma [Agostino](/figures/augustine) (QQ. 83, qu. 24).
+
+Risposta all’Obiezione 3: Si afferma che alcuni effetti siano contingenti rispetto alle loro cause immediate, le quali potrebbero non produrre il risultato previsto; ma ciò non significa affatto che possa accadere qualcosa al di fuori dell’ordine del governo divino. Il fatto stesso che qualcosa si verifichi al di fuori dell’ordine di una causa immediata è dovuto a un’altra causa, anch’essa soggetta al governo divino.
+
 <span class="atom-split" data-atom="010" data-title="Whether anything can resist the order of the Divine government?" data-chapter="Whether anything can resist the order of the Divine government?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem possible that some resistance can be made to the order of the Divine
@@ -429,6 +531,23 @@ Reply to Objection 3: From the fact that one thing opposes another, it follows t
 thing can resist the order of a particular cause; but not that order which depends on the universal
 cause of all things.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra possibile opporre una certa resistenza all’ordine del governo divino. Infatti, è scritto (Isaia 3:8): “La loro lingua e le loro macchinazioni sono contro il Signore”.
+
+Obiezione 2: Inoltre, un re non punisce giustamente coloro che non si ribellano ai suoi ordini. Pertanto, se nessuno si ribellasse agli ordini di Dio, nessuno verrebbe punito giustamente da Lui.
+
+Obiezione 3: Inoltre, tutto è soggetto all’ordine del governo divino. Tuttavia alcune cose si oppongono ad altre; pertanto alcune cose si ribellano contro l’ordine del governo divino.
+
+Al contrario, Boezio afferma nel “De Consolatione” III: “Non esiste nulla che possa desiderare o resistere a questo bene supremo. È proprio questo bene supremo che governa tutto con potenza e ordina tutto in modo armonioso”, come si dice nell’“Sapienza” 8 riguardo alla saggezza divina.
+
+Rispondo che l’ordine della provvidenza divina può essere considerato in due modi: in generale, in quanto deriva dalla causa regolatrice di tutto; e in particolare, in quanto derivante da una causa specifica che attua tale ordine. Considerato nel primo modo, nulla può opporsi all’ordine della provvidenza divina. Ciò può essere dimostrato in due modi: innanzitutto, poiché l’ordine della provvidenza divina è interamente orientato al bene, e ogni cosa, per sua natura, tende soltanto al bene (“nessuno agisce infatti con l’intenzione di fare del male”, afferma Dionigi nel “Divino Nomino” iv); in secondo luogo, poiché, come abbiamo detto sopra, ogni inclinazione, sia naturale che volontaria, non è altro che un’impressione ricevuta dal primo motore; così come l’inclinazione della freccia verso un punto fisso non è altro che una spinta proveniente dall’arciere. Pertanto, ogni agente, sia naturale che libero, raggiunge lo scopo divinamente stabilito per lui, quasi di sua spontanea volontà. Per questo motivo si dice che Dio “disponga tutte le cose in modo armonioso”.
+
+Risposta all’Obiezione 1: Si dice che alcuni pensino, parlino o agiscano contro Dio; non perché resistano completamente all’ordine del governo divino, poiché anche il peccatore intende raggiungere un certo bene, ma perché resistono a un particolare bene che appartiene alla loro natura o al loro stato. Pertanto vengono giustamente puniti da Dio.  
+La risposta all’Obiezione 2 è chiara a partire da quanto detto sopra.
+
+Risposta all’Obiezione 3: Dal fatto che una cosa si oppone un’altra, ne consegue che qualcosa può resistere all’ordine di una causa particolare; ma non a quell’ordine che dipende dalla causa universale di tutte le cose.
+
 <span class="atom-split" data-atom="011" data-title="THE SPECIAL EFFECTS OF THE DIVINE GOVERNMENT (FOUR ARTICLES)" data-chapter="THE SPECIAL EFFECTS OF THE DIVINE GOVERNMENT (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider the effects of the Divine government in particular; concerning which four
@@ -437,6 +556,14 @@ points of inquiry arise:
 (2) Whether they are immediately preserved by God?
 (3) Whether God can reduce anything to nothingness?
 (4) Whether anything is reduced to nothingness?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Esaminiamo ora gli effetti del governo divino in particolare; a questo proposito sorgono quattro questioni fondamentali:  
+(1) È necessario che Dio mantenga le creature nell’esistenza?  
+(2) Vengono esse immediatamente preservate da Dio?  
+(3) Può Dio ridurre qualcosa al nulla?  
+(4) Esiste qualcosa che possa essere ridotto al nulla?
 
 <span class="atom-split" data-atom="012" data-title="Whether creatures need to be kept in being by God? (1/2)" data-chapter="Whether creatures need to be kept in being by God?" data-kind="atom" data-srclang="en"></span>
 
@@ -476,6 +603,19 @@ continually, or He would be continually adding something new to the creature; ei
 unreasonable. Therefore creatures are not kept in being by God.
 
 On the contrary, It is written (Heb. 1:3): "Upholding all things by the word of His power."
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le creature non abbiano bisogno che Dio le mantenga nell’essere. Infatti, ciò che non può “non essere” non ha bisogno di essere mantenuto nell’essere; allo stesso modo, ciò che non può allontanarsi da esso non ha bisogno di essere impedito di farlo. Tuttavia, alcune creature, per la loro stessa natura, non possono “non essere”. Pertanto, non tutte le creature hanno bisogno che Dio le mantenga nell’essere. La proposizione intermedia viene dimostrata così: ciò che è incluso nella natura di una cosa è necessariamente presente in essa, e il suo contrario non può esserci; quindi un multiplo di due deve necessariamente essere pari e non può assolutamente essere dispari. Ora, la forma conferisce l’essere a ciò che la possiede, poiché tutto esiste effettivamente nella misura in cui possiede una forma. Ma alcune creature sono forme sostanziali, come abbiamo detto degli angeli (Q[50], AA[2],5); pertanto, per esse essere è già insito nella loro natura stessa. Lo stesso ragionamento si applica a quelle creature la cui materia è “in potenzialità” di assumere una sola forma, come spiegato in precedenza per i corpi celesti (Q[66], A[2]). Quindi, queste creature hanno nella loro natura il bisogno intrinseco di esistere; non possono “non essere”, poiché non può esistere alcuna potenzialità di non-essere, né nella forma che possiede già l’essere, né nella materia che è sottoposta a una forma che non può perdere, poiché non è in potenzialità rispetto ad alcuna altra forma.
+
+Obiezione 2: Inoltre, Dio è più potente di qualsiasi agente creato. Ma un agente creato, anche dopo aver smesso di agire, può far sì che l’effetto del suo operato venga conservato nell’esistenza; così la casa continua a stare in piedi anche dopo che il costruttore ha smesso di lavorarci; e l’acqua rimane calda per un certo periodo anche dopo che il fuoco ha smesso di riscaldarla. Pertanto, Dio può ancora di più far sì che la sua creazione venga mantenuta nell’esistenza, anche dopo aver smesso di crearla.
+
+Obiezione 3: Inoltre, nulla di violento può verificarsi se non esiste una causa attiva che lo provochi.  
+Ma la tendenza verso il non-essere è innaturale e violenta per qualsiasi creatura, poiché tutte le creature desiderano naturalmente essere. Pertanto, nessuna creatura può tendere verso il non-essere se non attraverso una causa attiva di corruzione. Ora, esistono creature la cui natura è tale che nulla può causarne la corruzione; queste sono le sostanze spirituali e i corpi celesti. Pertanto, tali creature non possono tendere verso il non-essere, nemmeno se Dio ritirasse la Sua azione su di esse.
+
+Obiezione 4: Inoltre, se Dio mantiene le creature nell’essere, ciò avviene attraverso un’azione specifica. Ora, ogni azione di un agente, se efficace, produce qualcosa nel suo effetto. Pertanto, il potere conservativo di Dio dovrebbe produrre qualcosa nella creatura. Ma questo non è vero: tale azione non dà essere alla creatura, poiché l’essere non può essere conferito a ciò che già esiste; né aggiunge nulla di nuovo alla creatura, poiché o Dio non la mantenerebbe continuamente nell’essere, oppure continuerebbe ad aggiungerle qualcosa di nuovo, il che è entrambi irragionevole. Pertanto, le creature non sono mantenute nell’essere da Dio.
+
+Al contrario, è scritto (Ebrei 1:3): “Tutto viene mantenuto in essere per mezzo della parola del Suo potere”.
 
 <span class="atom-split" data-atom="013" data-title="Whether creatures need to be kept in being by God? (2/2)" data-chapter="Whether creatures need to be kept in being by God?" data-kind="atom" data-srclang="en"></span>
 
@@ -606,6 +746,24 @@ any fresh change in the effect, the cause preserves that form or disposition; as
 lit up anew, we must allow some change to have taken place, while the preservation of the light is
 without any further change in the air due to the presence of the source of light.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio conservi ogni creatura immediatamente. Infatti, Dio crea e conserva le cose con la stessa azione, come detto sopra (A[1], ad 4). Ma Dio ha creato tutte le cose immediatamente; pertanto, le conserva anche immediatamente.
+
+Obiezione 2: Inoltre, una cosa è più vicina a se stessa che a un’altra. Ma non è possibile dare a una creatura la capacità di preservare se stessa; tanto meno quindi può essere data a una creatura la capacità di preservare un’altra. Pertanto, Dio preserva tutte le cose senza alcuna causa intermedia che ne sia responsabile.
+
+Obiezione 3: Inoltre, un effetto rimane in essere grazie alla causa, non solo a causa del suo “diventare”, ma anche a causa della sua stessa esistenza. Tuttavia, tutte le cause create sembrano causare i loro effetti soltanto nel momento in cui “diventano” tali effetti, poiché causano soltanto attraverso il movimento, come già detto (Q[45], A[3]). Pertanto, non causano in modo tale da mantenere i loro effetti nell’esistenza.
+
+Al contrario, una cosa viene mantenuta nell’essere da ciò che le conferisce l’esistenza. Ma Dio conferisce l’esistenza attraverso determinate cause intermedie; pertanto, anche Lui mantiene le cose nell’essere tramite tali cause.
+
+Rispondo che, come già detto sopra (A[1]), una cosa mantiene un’altra in essere in due modi: innanzitutto, in modo indiretto e accidentale, eliminando o ostacolando l’azione di cause corrottrici; in secondo luogo, in modo diretto e “per sé”, poiché proprio da essa dipende l’esistenza dell’altra cosa, così come l’esistenza di un effetto dipende dalla sua causa. In entrambi i casi, una creatura mantiene un’altra in essere. È infatti evidente che anche nelle cose corporee esistono molte cause che ostacolano l’azione dei fattori corrottori; per questo motivo vengono definite “conservanti”: proprio come il sale preserva la carne dalla putrefazione, così molte altre sostanze svolgono lo stesso ruolo. Inoltre, un effetto dipende da una creatura anche per quanto riguarda la sua stessa esistenza: quando si ha una serie di cause che si influenzano a vicenda, è inevitabile che l’effetto dipenda sia in modo principale dalla causa primaria, sia in modo secondario da tutte le cause intermedie. Pertanto, la causa primaria rappresenta il fattore fondamentale per la conservazione dell’effetto; le cause intermedie, invece, svolgono un ruolo secondario, soprattutto se sono di livello più elevato e più vicine alla causa primaria. Per questo motivo, anche nelle cose corporee, la conservazione e la continuità delle cose vengono attribuite alle cause più elevate; come afferma il Filosofo (Metafisica XII, Didaskalia XI, 6): il movimento quotidiano è la causa della continuazione delle cose generate, mentre il movimento zodiacale è la causa della diversità dovuta alla generazione e alla corruzione. Allo stesso modo, gli astrologi attribuiscono a Saturno, il pianeta più elevato, quelle caratteristiche che sono permanenti e stabili. Concludiamo quindi che Dio mantiene alcune cose in essere attraverso determinate cause.
+
+Risposta all’Obiezione 1: Dio ha creato tutte le cose immediatamente, ma nell’atto stesso della creazione ha stabilito un ordine tra di esse, in modo che alcune dipendano da altre e grazie a questa dipendenza siano conservate nell’esistenza, sebbene Egli rimanga la causa principale della loro conservazione.
+
+Risposta all’Obiezione 2: Poiché un effetto viene conservato dalla sua causa propria da cui dipende; proprio come nessun effetto può essere la propria causa, ma può soltanto produrre un altro effetto, allo stesso modo nessun effetto può essere dotato del potere di autoconservazione, ma solo del potere di conservare un altro effetto.
+
+Risposta all’Obiezione 3: Nessuna natura creata può essere la causa di un’altra, per quanto riguarda l’acquisizione da parte di quest’ultima di una nuova forma o disposizione, se non attraverso qualche cambiamento; infatti, la natura creata agisce sempre su qualcosa che è già presupposto. Tuttavia, dopo aver causato nella conseguenza quella forma o disposizione, senza alcun ulteriore cambiamento in essa, la causa mantiene tale forma o disposizione; come nell’aria, quando viene nuovamente illuminata, dobbiamo ammettere che sia avvenuto qualche cambiamento, mentre il mantenimento della luce avviene senza ulteriori modifiche nell’aria a causa della presenza della fonte di luce.
+
 <span class="atom-split" data-atom="015" data-title="Whether God can annihilate anything?" data-chapter="Whether God can annihilate anything?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that God cannot annihilate anything. For [Augustine](/figures/augustine) says (QQ. 83,
@@ -648,6 +806,24 @@ prejudice to His goodness, He might not preserve things in existence.
 
 Reply to Objection 3: If God were to annihilate anything, this would not imply an action on
 God's part; but a mere cessation of His action.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non possa annientare nulla. Infatti, [Agostino](/figures/augustine) afferma (QQ. 83, qu. 21) che “Dio non è la causa di nulla che tenda alla non-esistenza”. Ma lo sarebbe se annientasse qualcosa; pertanto, non può annientare nulla.
+
+Obiezione 2: Inoltre, per la Sua bontà, Dio è la causa dell’esistenza delle cose, poiché, come afferma Agostino (De Doctrina Christiana, I, 32): “Poiché Dio è buono, noi esistiamo”. Ma Dio non può smettere di essere buono; pertanto non può far sì che le cose cessino di esistere, il che accadrebbe se annientasse qualcosa.
+
+Obiezione 3: Inoltre, se Dio dovesse annientare qualcosa, lo farebbe attraverso la Sua azione. Ma ciò è impossibile, poiché l’effetto di ogni azione è necessariamente l’esistenza. Pertanto anche l’azione di una causa corrottrice ha come risultato la generazione di qualcos’altro; infatti, quando una cosa viene generata, un’altra subisce la corruzione. Quindi Dio non può annientare nulla.
+
+Al contrario, è scritto (Geremia 10:24): “Correggimi, o Signore, ma con giustizia; e non nella tua ira, affinché non mi distrugga completamente”.
+
+Rispondo che alcuni hanno sostenuto che Dio, nel dare esistenza alle creature, abbia agito per necessità naturale. Se ciò fosse vero, Dio non potrebbe annientare nulla, poiché la Sua natura non può cambiare. Tuttavia, come abbiamo detto in precedenza (Q[19], A[4]), tale opinione è completamente falsa e assolutamente contraria alla fede cattolica, che confessa che Dio abbia creato le cose per il proprio libero arbitrio, secondo quanto dice il Salmo 134:6: “Quello che il Signore ha voluto, l’ha fatto”. Pertanto, il fatto che Dio dia esistenza a una creatura dipende dalla Sua volontà; inoltre, Egli non mantiene le cose nell’esistenza se non continuando a donare loro esistenza, come abbiamo già spiegato. Quindi, proprio come prima che le cose esistessero, Dio era libero di non dar loro esistenza o di non crearle; allo stesso modo, anche dopo che sono state create, Egli è libero di non farle continuare ad esistere; in tal caso, esse cesserebbero di esistere, il che equivalgerebbe ad annientarle.
+
+Risposta all’Obiezione 1: L’inesistenza non ha alcuna causa diretta; infatti nulla può essere considerato una causa se non nella misura in cui possiede esistenza, e un essere per sua essenza è causa dell’esistenza di qualcos’altro. Pertanto, Dio non può far sì che una cosa tenda verso l’inesistenza, mentre una creatura possiede questa tendenza intrinseca, poiché viene prodotta dal nulla. Tuttavia, in modo indiretto, Dio può essere la causa per cui le cose vengono ridotte all’inesistenza, ritirando la propria azione su di esse.
+
+Risposta all’Obiezione 2: La bontà di Dio è la causa delle cose, non per necessità naturale – poiché la divina bontà non dipende dalle creature – ma per il Suo libero arbitrio. Pertanto, così come senza pregiudicare la Sua bontà Egli avrebbe potuto non creare le cose, allo stesso modo, senza pregiudicare la Sua bontà, Egli avrebbe potuto non mantenerle nell’esistenza.
+
+Risposta all’Obiezione 3: Se Dio dovesse annientare qualcosa, ciò non significherebbe un atto da parte Sua, ma soltanto la cessazione del Suo agire.
 
 <span class="atom-split" data-atom="016" data-title="Whether anything is annihilated?" data-chapter="Whether anything is annihilated?" data-kind="atom" data-srclang="en"></span>
 
@@ -700,6 +876,25 @@ Yet so far as their mode of existence is concerned, they are not entirely reduce
 not that any part of them survives, but that they remain in the potentiality of the matter, or of the
 subject.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che qualcosa venga annientato. Infatti, la fine corrisponde all’inizio; ma all’inizio non esisteva nulla se non Dio. Pertanto, tutte le cose devono tendere verso questa fine, cioè verso l’esistenza di nulla altro che Dio. Di conseguenza, le creature verrebbero ridotte a nulla.
+
+Obiezione 2: Inoltre, ogni creatura possiede un potere finito. Ma nessun potere finito si estende all’infinito. Pertanto il Filosofo dimostra (Phys. viii, 10) che “un potere finito non può agire nel corso di un tempo infinito”. Quindi una creatura non può esistere per un periodo di tempo infinito; e quindi, in qualche momento, verrà ridotta a nulla.
+
+Obiezione 3: Inoltre, le forme e gli accidenti non possiedono alcuna sostanza come parte di sé stessi. Ma in un certo momento cessano di esistere. Pertanto, vengono ridotti a nulla.
+
+Al contrario, è scritto (Ecclesiaste 3:14): “Ho imparato che tutte le opere che Dio ha creato durano per sempre”.
+
+Rispondo che alcune delle cose che Dio compie nelle creature avvengono secondo il corso naturale delle cose; altre, invece, si verificano in modo miracoloso, non in conformità con l’ordine naturale, come verrà spiegato più avanti (Q[105], A[6]). Ora, tutto ciò che Dio vuole compiere secondo l’ordine naturale delle cose può essere osservato dalla loro stessa natura; ma quelle cose che avvengono in modo miracoloso sono destinate alla manifestazione della grazia, come afferma l’Apostolo: “A ciascuno è data la manifestazione dello Spirito, per il suo beneficio” (1 Cor. 12:7); e successivamente egli menziona, tra le altre cose, anche l’operare di miracoli.  
+La natura delle creature dimostra che nessuna di esse può essere annientata. Infatti, o sono immateriali e quindi non possiedono alcuna “potenzialità” di non esistere; oppure sono materiali, e in tal caso continuano ad esistere, almeno nella materia stessa, che è incorruttibile, poiché è l’oggetto della generazione e della corruzione. Inoltre, l’annientamento delle cose non rientra nella manifestazione della grazia; anzi, il potere e la bontà di Dio si manifestano proprio nel mantenimento delle cose nell’esistenza. Pertanto, dobbiamo concludere negando assolutamente che qualcosa possa essere annientato.
+
+Risposta all’Obiezione 1: Il fatto che le cose vengano portate all’esistenza da uno stato di non-esistenza dimostra chiaramente il potere Di Colui che le ha create; ma il fatto che queste cose dovessero essere ridotte a nulla non ostacolerebbe affatto tale manifestazione del Suo potere, poiché la forza di Dio si rivela in modo evidente nel mantenere tutte le cose nell’esistenza, come afferma l’Apostolo: “Tutte le cose vengono sostenute dalla parola del suo potere” (Ebrei 1:3).
+
+Risposta all’Obiezione 2: La potenzialità di esistenza di una creatura è soltanto ricevente; il potere attivo appartiene direttamente a Dio, da Lui deriva l’esistenza stessa. Pertanto, la durata infinita delle cose è conseguenza dell’[infinità](/concepts/infinity) del potere divino. Tuttavia, ad alcune cose viene concesso un potere di durata determinato per un periodo specifico; queste possono essere ostacolate da agenti contrari nel ricevere l’afflusso di esistenza che proviene da Colui al quale il potere finito non può resistere – ma soltanto per un tempo limitato. Quindi, le cose che non incontrano ostacoli, pur avendo un potere finito, continuano ad esistere per l’eternità.
+
+Risposta all’Obiezione 3: Le forme e gli accidenti non sono esseri completi, poiché non esistono in modo autonomo; tuttavia ciascuno di essi rappresenta qualcosa che “appartiene” a un essere, poiché viene definito “essere” proprio perché qualcos’altro esiste grazie a esso. Tuttavia, per quanto riguarda il loro modo di esistenza, non vengono completamente ridotti al nulla; non significa che alcuna parte di essi sopravviva, ma che rimangono nella potenzialità della materia o del soggetto su cui si fondano.
+
 <span class="atom-split" data-atom="017" data-title="OF THE CHANGE OF CREATURES BY GOD (EIGHT ARTICLES)" data-chapter="OF THE CHANGE OF CREATURES BY GOD (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now consider the second effect of the Divine government, i.e. the change of creatures; and
@@ -713,6 +908,18 @@ Under the first head there are eight points of inquiry:
 (6) Whether He can do anything outside the order imposed on things?
 (7) Whether all that God does is miraculous?
 (8) Of the diversity of miracles.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora consideriamo il secondo effetto del governo divino, ovvero il cambiamento delle creature; e in particolare: primo, il cambiamento delle creature operato da Dio stesso; secondo, il cambiamento di una creatura da parte di un’altra. All’interno della prima categoria di riflessione vi sono otto punti da esaminare:  
+(1) Se Dio possa immediatamente trasformare la materia nella forma desiderata;  
+(2) Se Egli possa immediatamente muovere un corpo;  
+(3) Se Egli possa influenzare l’intelletto delle creature;  
+(4) Se Egli possa modificare la volontà umana;  
+(5) Se Dio operi in ogni essere che agisce;  
+(6) Se Egli possa compiere qualcosa al di fuori dell’ordine stabilito per le cose;  
+(7) Se tutto ciò che Dio fa sia considerato un miracolo;  
+(8) La diversità dei miracoli stessi.
 
 <span class="atom-split" data-atom="018" data-title="Whether God can move the matter immediately to the form?" data-chapter="Whether God can move the matter immediately to the form?" data-kind="atom" data-srclang="en"></span>
 
@@ -760,6 +967,25 @@ of all forms, it follows that He can determinately imprint this or that form on 
 Reply to Objection 3: The fact that secondary causes are ordered to determinate effects is due
 to God; wherefore since God ordains other causes to certain effects He can also produce certain
 effects by Himself without any other cause.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non possa far sì che la materia riceva immediatamente una forma.  
+Infatti, come dimostra il Filosofo (Metafisica vii, Didoxiologia vi, 8), nulla può introdurre una forma in una data materia, se non quella forma che già esiste nella materia stessa; poiché ciò che è simile genera ciò che è simile. Ma Dio non è una forma contenuta all’interno della materia. Pertanto, Egli non può far sì che la materia riceva una forma.
+
+Obiezione 2: Inoltre, qualsiasi agente incline verso diversi effetti non ne produrrà alcuno, a meno che non sia determinato verso uno specifico da qualche altra causa; infatti, come afferma il Filosofo nel “De Anima” iii, 11, un’affermazione generale non commuove l’intelletto se non attraverso una comprensione particolare. Ma il potere divino è la causa universale di tutte le cose; pertanto, esso non può produrre alcuna forma specifica se non tramite un agente particolare.
+
+Obiezione 3: Poiché l’essere universale dipende dalla prima causa universale, così anche l’essere determinato dipende da cause particolari e determinate; come abbiamo visto sopra (Q[104], A[2]). Tuttavia, l’essere determinato di una cosa particolare deriva dalla sua stessa forma. Pertanto, le forme delle cose sono prodotte da Dio, ma soltanto attraverso cause particolari e determinate.
+
+Al contrario, è scritto (Genesi 2:7): “Dio creò l’uomo dal fango della terra”.
+
+Rispondo che Dio può muovere la materia immediatamente per darle una forma; poiché tutto ciò che si trova in uno stato di [potenzialità](/concepts/act_potency) passiva può essere portato all’atto dalla potenza attiva che si estende su tale potenzialità. Pertanto, poiché il potere divino si estende sulla materia, così come prodotta da Dio, essa può essere portata all’atto dal potere divino stesso: ed è proprio questo ciò che si intende quando si dice che la materia viene messa in una determinata forma; infatti, una forma non è altro che l’atto della materia stessa.
+
+Risposta all’Obiezione 1: Un effetto è assimilato alla sua causa attiva in due modi. Primo, per specie: ad esempio, l’uomo viene generato dall’uomo e il fuoco dal fuoco. Secondo, perché l’effetto è virtualmente contenuto nella sua causa; la forma dell’effetto, infatti, è “virtualmente” insita nella causa stessa. Così gli animali prodotti dalla putrefazione, le piante e i minerali sono simili al sole e alle stelle da cui derivano. In questo senso, l’effetto è analogo alla sua causa attiva in tutto ciò che rientra nell’ambito del suo potere. Ora, il potere di Dio si estende sia sulla materia che sulla forma; come abbiamo detto sopra (Q[14], A[2]; Q[44], A[2]). Pertanto, se viene prodotta una cosa composta, essa può essere paragonata a Dio per via di questa “virtuale inclusione” nella sua essenza, oppure al suo creatore per somiglianza di specie. Quindi, proprio come il creatore umano può dare forma alla materia generando una cosa simile a sé stesso, lo stesso può fare anche Dio. Nessun’altra entità, tuttavia, che non esista nella materia, può compiere questo atto; poiché nessun’altra sostanza separata possiede un potere che si estenda sulla materia stessa. Per questo motivo, angeli e demoni agiscono sulla materia visibile: non imprimendo forme direttamente in essa, ma utilizzando “semi” corporei.
+
+Risposta all’Obiezione 2: Questo argomento sarebbe valido se Dio agisse per necessità naturale. Ma poiché agisce secondo la sua volontà e il suo intelletto, che conosce le proprietà particolari e non solo quelle universali di tutte le forme, ne consegue che Egli può imprimere in modo determinato questa o quell’altra forma nella materia.
+
+Risposta all’Obiezione 3: Il fatto che le cause secondarie siano disposte in modo da produrre effetti specifici è dovuto a Dio; pertanto, poiché Dio dispone altre cause affinché producano determinati effetti, può anche produrre tali effetti da solo, senza alcuna altra causa.
 
 <span class="atom-split" data-atom="019" data-title="Whether God can move a body immediately?" data-chapter="Whether God can move a body immediately?" data-kind="atom" data-srclang="en"></span>
 
@@ -823,6 +1049,24 @@ other hand, a power which is not in bulk is the power of an intelligent being, w
 effects according to what is fitting to them; and therefore, since it cannot be fitting for a body to
 be moved without time, it does not follow that it moves without time.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non possa muovere un corpo immediatamente. Poiché, come afferma il Filosofo (Phys. vii, 2), il motore e il mosso devono esistere contemporaneamente, ne consegue che deve esserci qualche tipo di contatto tra i due. Tuttavia non può esserci alcun contatto tra Dio e un corpo; infatti Dionisio dice (Div. Nom. 1): “Non esiste alcun contatto con Dio”. Pertanto, Dio non può muovere un corpo immediatamente.
+
+Obiezione 2: Inoltre, Dio è il motore che non viene mosso da nulla; ma lo stesso vale per l’oggetto desiderabile quando viene percepito o compreso intellettualmente. Pertanto, Dio agisce come oggetto di desiderio e comprensione. Tuttavia, Lui stesso può essere compreso soltanto dall’intelletto, il quale non è né un corpo né una forza corporea. Quindi, Dio non può muovere direttamente un corpo.
+
+Obiezione 3: Inoltre, il Filosofo dimostra (Phys. viii, 10) che un potere infinito può muovere qualcosa in modo istantaneo. Tuttavia è impossibile che un corpo venga mosso in un istante; poiché ogni movimento avviene tra opposti, ne consegue che due opposti dovrebbero esistere contemporaneamente nello stesso soggetto, il che è impossibile. Pertanto, un corpo non può essere mosso immediatamente da un potere infinito. Ma il potere di Dio è infinito, come abbiamo spiegato (Q[25], A[2]). Quindi Dio non può muovere un corpo in modo istantaneo.
+
+Al contrario, Dio ha creato immediatamente le opere di quei sei giorni, tra cui rientrano anche i movimenti dei corpi, come è chiaro da Genesi 1:9: “Raccogliete le acque in un luogo solo”. Pertanto, soltanto Dio può muovere un corpo in modo immediato.
+
+Rispondo che è errato affermare che Dio non possa da sé produrre tutti gli effetti determinati che vengono generati da qualsiasi causa creata. Poiché i corpi vengono mossi immediatamente da cause create, non possiamo dubitare affatto che Dio possa muovere immediatamente qualsiasi corpo. Ciò deriva infatti da quanto detto in precedenza (A[1]). Infatti, ogni movimento di un corpo può derivare o da una forma specifica – come i movimenti dei corpi pesanti e leggeri derivano dalla forma che essi ricevono dalla loro causa generatrice, motivo per cui tale causa viene chiamata “motoressa” – oppure tende verso una determinata forma, come il riscaldamento tende verso la forma del calore. Ora, appartiene alla stessa causa imprimere una forma a un corpo, predisporlo a quella forma e fornire il movimento che ne deriva; poiché il fuoco non solo genera altro fuoco, ma anche riscalda e spinge gli oggetti verso l’alto. Pertanto, poiché Dio può imprimere direttamente una forma nella materia, ne consegue che Egli possa muovere qualsiasi corpo, in relazione a qualsiasi tipo di movimento.
+
+Risposta all’Obiezione 1: Esistono due tipi di contatto: il contatto corporeo, quando due corpi si toccano a vicenda; e il contatto virtuale, nel senso in cui la causa della tristezza viene considerata qualcosa che “tocca” colui che è reso triste. Secondo il primo tipo di contatto, Dio, essendo incorporeo, né tocca né viene toccato; ma secondo il secondo tipo di contatto, Egli influisce sulle creature muovendole, senza però essere a sua volta toccato, poiché nessuna forza naturale delle creature può raggiungerLo. È così che Dionigi interpretò le parole “Non c’è alcun contatto con Dio”: intendendo dire che Dio stesso non può essere “toccato” da nulla.
+
+Risposta all’Obiezione 2: Dio agisce come oggetto di desiderio e comprensione; ma ciò non significa che agisca sempre perché desiderato e compreso da ciò che viene influenzato dalle sue azioni; bensì perché desiderato e conosciuto da Lui stesso, poiché Egli fa tutte le cose per la propria bontà.
+
+Risposta all’Obiezione 3: Il Filosofo (Phys. viii, 10) intende dimostrare che il potere del primo motore non è un potere “di natura corporea”, utilizzando il seguente ragionamento. Il potere del primo motore è infinito (ciò viene dimostrato dal fatto che il primo motore può agire in un lasso di tempo infinito). Ora, un potere infinito, se fosse di natura corporea, agirebbe senza alcun tempo, il che è impossibile; pertanto, il potere infinito del primo motore deve essere legato a qualcosa che non può essere misurato in termini di “dimensione fisica”. Ne consegue chiaramente che per un corpo possa verificarsi un movimento senza tempo, tale movimento può derivare soltanto da un potere infinito. Il motivo è che ogni potere di natura corporea agisce nell’intero suo ambito, poiché tale azione deriva dalla necessità stessa della sua natura; ma un potere infinito supera di gran lunga qualsiasi potere finito. Ora, più grande è il potere del motore, maggiore sarà la velocità del movimento che esso induce. Pertanto, poiché un potere finito agisce in un lasso di tempo determinato, ne consegue che un potere infinito non agisce affatto in alcun tempo; infatti, tra due momenti qualsiasi esiste sempre una relazione di proporzione. D’altra parte, un potere che non è di natura corporea è il potere di un essere intelligente, il quale agisce secondo ciò che è appropriato alle sue finalità; quindi, poiché non è possibile che un corpo venga mosso senza tempo, ne consegue che tale movimento non può verificarsi.
+
 <span class="atom-split" data-atom="020" data-title="Whether God moves the created intellect immediately?" data-chapter="Whether God moves the created intellect immediately?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that God does not immediately move the created intellect. For the
@@ -878,6 +1122,24 @@ intellect to understand Him through His Essence, as we have seen above (Q[12], A
 Hence He moves the created intellect, and yet He cannot be intelligible to it, as we have explained
 (Q[12], A[4]).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non muova immediatamente l’intelletto creato. Infatti, l’azione dell’intelletto è governata dal suo stesso soggetto; poiché esso non si estende alla materia esterna, come affermato nella Metafisica IX, Didoxi VIII, 8. Ma l’azione di ciò che viene mosso da un altro non deriva da ciò in cui è contenuto, ma dal motore stesso. Pertanto, l’intelletto non viene mosso da alcun altro; e quindi, apparentemente, Dio non può muovere l’intelletto creato.
+
+Obiezione 2: Inoltre, qualsiasi cosa che in sé sia un principio sufficiente di movimento non può essere mossa da altro. Ma il movimento dell’intelletto è proprio l’atto di comprendere; in questo senso si può dire che comprendere o percepire rappresenti una sorta di movimento, come afferma il Filosofo nel De [Anima](/concepts/soul) iii, 7. Tuttavia, la luce intellettuale, che è naturale dell’anima, costituisce un principio sufficiente per comprendere; pertanto non può essere mossa da altro.
+
+Obiezione 3: Inoltre, così come i sensi sono mossi dai fenomeni sensibili, allo stesso modo l’intelletto è mosso dagli oggetti intellegibili. Ma Dio non è un oggetto intellegibile per noi e supera la capacità del nostro intelletto. Pertanto, Dio non può muovere il nostro intelletto.
+
+Al contrario, è l’insegnante a stimolare l’intelligenza di colui che viene istruito. Tuttavia è scritto (Salmo 93:10) che Dio “insegna all’uomo la conoscenza”. Pertanto, è Dio stesso ad agire sulle facoltà intellettive umane.
+
+Rispondo che, così come nel movimento corporeo esiste un “motore” che conferisce la forma e costituisce il principio del movimento, allo stesso modo esiste qualcosa che muove l’intelletto, il quale è la causa della formazione delle idee e quindi il principio dell’operazione intellettiva. Nell’essere intelligente esistono dunque due principi fondamentali dell’operazione intellettiva: uno è la stessa facoltà intellettiva, che esiste nell’intelligente in forma potenziale; l’altro è il principio della comprensione effettiva, ovvero la somiglianza tra l’oggetto compreso e chi lo comprende. Si dice quindi che qualcosa muove l’intelletto quando gli conferisce la capacità di comprendere o quando gli imprime nella mente l’immagine dell’oggetto compreso. Dio muove l’intelletto creato in entrambi i modi: poiché Egli è il Primo Essere immateriale, e poiché l’intelligenza deriva dall’immaterialità, segue che Egli è il Primo Essere intelligente. Pertanto, poiché nel corso di ogni gerarchia il primo elemento è la causa di tutto ciò che ne deriva, dobbiamo concludere che da Lui proviene tutta la facoltà intellettiva. Allo stesso modo, poiché Egli è l’Essere Primordiale e tutti gli altri esseri esistono in Lui come nella loro Causa Prima, ne consegue che essi esistono in modo intelligibile all’interno di Lui, secondo le leggi della Sua stessa natura. Poiché i modelli intellettuali di ogni cosa esistono prima di tutto in Dio e vengono trasmessi ad altri intelletti affinché questi possano comprenderli effettivamente, allo stesso modo tali modelli vengono trasmessi anche alle creature affinché queste possano esistere. Pertanto, Dio muove l’intelletto creato conferendogli la facoltà intellettiva – sia essa naturale che acquisita – e imprime nella sua mente le idee intelligibili, mantenendo così in essere sia questa facoltà che tali idee stesse.
+
+Risposta all’Obiezione 1: L’operazione intellettuale viene compiuta dall’intelletto stesso in cui esiste, come da una causa secondaria; ma ha origine in Dio, come dalla sua causa prima. Infatti, è attraverso Lui che a colui che comprende viene data la capacità di comprendere.
+
+Risposta all’Obiezione 2: La luce intellettuale, insieme alla somiglianza della cosa compresa, costituisce un principio sufficiente per la comprensione; tuttavia è un principio secondario, che dipende dal Primo Principio.
+
+Risposta all’Obiezione 3: L’oggetto intelligibile muove il nostro intelletto umano, nella misura in cui imprime su di esso la propria somiglianza, grazie alla quale l’intelletto è in grado di comprenderlo. Tuttavia, le somiglianze che Dio imprime sull’intelletto creato non sono sufficienti per permettergli di comprendere Lui attraverso la Sua Essenza, come abbiamo visto sopra (Q[12], A[2]; Q[56], A[3]). Pertanto, Dio muove l’intelletto creato, ma allo stesso tempo non può essere compreso da esso, come abbiamo spiegato (Q[12], A[4]).
+
 <span class="atom-split" data-atom="021" data-title="Whether God can move the created will?" data-chapter="Whether God can move the created will?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that God cannot move the created will. For whatever is moved
@@ -925,6 +1187,24 @@ Reply to Objection 3: If the will were so moved by another as in no way to be mo
 within itself, the act of the will would not be imputed for reward or blame. But since its being
 moved by another does not prevent its being moved from within itself, as we have stated (ad 2), it
 does not thereby forfeit the motive for merit or demerit.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non possa muovere la volontà creata. Infatti, ciò che viene mosso dall’esterno è costretto a farlo; ma la volontà non può essere costretta. Pertanto, non può essere mossa dall’esterno e, di conseguenza, nemmeno da Dio.
+
+Obiezione 2: Inoltre, Dio non può rendere due contraddizioni vere contemporaneamente. Tuttavia ciò accadrebbe se Egli influenzasse la volontà umana; infatti essere influenzati volontariamente significa essere spinti dall’interno, e non da un altro fattore esterno. Pertanto, Dio non può influenzare la volontà umana.
+
+Obiezione 3: Inoltre, il movimento viene attribuito a colui che muove e non a ciò che viene mosso; pertanto l’omicidio non viene attribuito alla pietra, ma al colpevole che la lancia. Quindi, se Dio muove la volontà umana, ne consegue che le azioni volontarie non vanno imputate all’uomo per motivi di ricompensa o biasimo. Ma ciò è falso. Pertanto, Dio non muove la volontà umana.
+
+Al contrario, è scritto (Filippi 2:13): “È Dio che opera in noi, sia per voler sia per compiere”.
+
+Rispondo che, così come l’intelletto è mosso dall’oggetto e da Colui che dona la capacità di comprendere, come detto sopra (A[3]), allo stesso modo la volontà è mossa dal suo oggetto, che è il bene, e da Colui che crea la capacità di voler. Ora, la volontà può essere mossa dal bene come suo oggetto, ma solo da Dio in modo sufficiente ed efficace. Infatti, nulla può muovere veramente qualcosa se la forza attiva del motore non supera o almeno è pari alla [potenzialità](/concepts/act_potency) di ciò che viene mosso. La potenzialità della volontà si estende al bene universale; il suo oggetto, infatti, è proprio il bene universale, così come l’oggetto dell’intelletto è l’esistenza universale. Tuttavia, ogni bene creato è un bene particolare; solo Dio è il bene universale. Solo Lui riempie appieno la capacità della volontà e la muove in modo sufficiente come suo oggetto. Allo stesso modo, la capacità di voler è causata esclusivamente da Dio. Volere, infatti, significa essere inclini verso l’oggetto della volontà, che è il bene universale; ma essere inclini verso il bene universale appartiene al Primo Motore, a Colui il cui fine ultimo è proporzionato a tale bene; proprio come, nelle questioni umane, colui che guida la comunità ha il compito di dirigere i suoi sudditi verso il bene comune. Pertanto, in entrambi i casi spetta a Dio muovere la volontà; ma soprattutto nel secondo modo, attraverso un’inclinazione interna della stessa volontà.
+
+Risposta all’Obiezione 1: Una cosa che viene mossa da un’altra è costretta se viene spinta contro la sua inclinazione naturale; ma se viene mossa da qualcosa che le conferisce proprio quella inclinazione naturale, non è costretta; come quando un corpo pesante viene fatto muoversi verso il basso da ciò che lo ha creato: in quel caso non è costretto. Allo stesso modo, Dio, nel muovere la volontà umana, non la costringe, perché le conferisce proprio quella inclinazione naturale.
+
+Risposta all’Obiezione 2: Essere mossi volontariamente significa essere mossi dall’interno, cioè da un principio interno; tuttavia questo principio interno può essere determinato da un principio esterno; quindi essere mossi dall’interno non è in contraddizione con il fatto di essere mossi da qualcos’altro.
+
+Risposta all’Obiezione 3: Se la volontà fosse influenzata da un altro in modo tale da non poter essere mai influenzata dal proprio interno, l’atto compiuto con quella volontà non verrebbe attribuito né come merito né come demerito. Tuttavia, poiché il fatto che la volontà venga influenzata da un altro non impedisce che venga anche influenzata dal proprio interno, come abbiamo affermato (al punto 2), essa non perde quindi il motivo che possa renderla meritevole o degna di biasimo.
 
 <span class="atom-split" data-atom="022" data-title="Whether God works in every agent?" data-chapter="Whether God works in every agent?" data-kind="atom" data-srclang="en"></span>
 
@@ -995,6 +1275,25 @@ nothing hinders the same action from proceeding from a primary and a secondary a
 Reply to Objection 3: God not only gives things their form, but He also preserves them in
 existence, and applies them to act, and is moreover the end of every action, as above explained.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non agisca in ogni essere vivente. Infatti, non dobbiamo attribuire a Dio alcuna insufficienza. Se quindi Dio agisce in ogni essere vivente, lo fa in modo sufficiente in ciascuno di essi. Pertanto, sarebbe del tutto superfluo che gli esseri creati agissero loro stessi.
+
+Obiezione 2: Inoltre, lo stesso processo non può avvenire contemporaneamente da due fonti; allo stesso modo, un unico movimento non può appartenere a due oggetti mobili. Pertanto, se l’azione di una creatura deriva dall’intervento di Dio in essa, tale azione non può contemporaneamente provenire dalla stessa creatura; e quindi nessuna creatura agisce affatto.
+
+Obiezione 3: Inoltre, il creatore è la causa dell’operazione delle cose da Lui create, poiché Le conferisce la forma che le permette di agire. Pertanto, se Dio è la causa dell’operazione delle cose da Lui create, ciò avviene nel momento in cui Le dona la capacità di agire. Ma questo accade soltanto all’inizio, quando Le crea. Sembra quindi che Dio non intervienga ulteriormente nell’operazione delle creature da Lui create.
+
+Al contrario, è scritto (Isaia 26:12): “Signore, tu hai compiuto tutte le nostre opere per nostro beneficio”.
+
+Rispondo che alcuni hanno inteso che Dio agisca in ogni ente creato in modo tale che nessuna forza creata abbia effettivamente alcun ruolo nelle cose, ma che solo Dio sia la causa ultima di tutto ciò che avviene; ad esempio, che non è il fuoco a produrre calore, ma Dio presente nel fuoco, e così via. Tuttavia, questa interpretazione è impossibile. Primo perché l’ordine di causa ed effetto verrebbe distrutto nelle cose create, il che implicherebbe una mancanza di potenza da parte del Creatore; infatti, è proprio la potenza della causa a conferire alla sua conseguenza capacità di agire. In secondo luogo, le forze attive che si riscontrano nelle cose create non avrebbero alcun senso se queste stesse non fossero in grado di produrre effetti concreti; in tal caso, tutte le cose create sembrerebbero prive di scopo, poiché lo scopo di ogni cosa è la sua funzione specifica. Infatti, ciò che è meno perfetto esiste sempre al fine di realizzare ciò che è più perfetto; e così come la materia esiste per servire alla forma, anche la forma, in quanto primo atto creativo, esiste al fine della propria funzione, che rappresenta il secondo atto. Pertanto, la funzione è lo scopo finale di ogni creatura. Dobbiamo quindi comprendere che Dio agisce nelle cose in modo tale che queste possano svolgere la propria funzione naturale. Per chiarire meglio questo punto, osserviamo che, poiché esistono poche tipologie di cause, la materia non è un principio attivo, ma piuttosto il soggetto che riceve l’effetto dell’azione. D’altra parte, lo scopo, l’agente e la forma sono i veri principi attivi, ma in un certo ordine: il primo principio attivo è lo scopo che spinge l’agente ad agire; il secondo è l’agente stesso; il terzo è la forma di ciò che l’agente applica all’azione (sebbene anche l’agente stesso agisca attraverso la propria forma). Questo si può vedere chiaramente nelle cose create dall’uomo: l’artigiano è spinto ad agire dallo scopo, cioè dall’oggetto da realizzare (ad esempio, un armadio o un letto), e utilizza lo strumento necessario per compiere il proprio lavoro. Allo stesso modo, Dio agisce in ogni ente creatore seguendo questi tre principi: innanzitutto come scopo finale; poiché ogni azione ha luogo al fine di realizzare qualche bene, reale o apparente, e nulla è veramente buono se non nella misura in cui partecipa alla somiglianza con il Bene Supremo, che è Dio stesso. Pertanto, Dio è la causa ultima di ogni azione. In secondo luogo, quando ci sono più agenti coinvolti in un processo, il secondo agisce sempre in virtù del primo; l’agente principale spinge infatti il secondo ad agire. E così tutti gli agenti agiscono in virtù di Dio stesso; quindi Egli è la causa dell’azione in ogni ente creato. Infine, Dio non solo spinge le cose a svolgere la propria funzione, conferendo loro forma e capacità di agire, ma anche dona alle creature stesse la loro forma e le mantiene nell’esistenza. Pertanto, Egli è davvero la causa dell’azione in ogni ente creato.
+Dando forma a ciò che costituisce il principio dell’azione – poiché si dice che il generatore sia la causa del movimento, sia nelle cose pesanti che in quelle leggere – ma anche preservando le forme e i poteri delle cose; proprio come si dice che il sole sia la causa della manifestazione dei colori, poiché fornisce e mantiene la luce senza la quale i colori non potrebbero essere visibili. E poiché la forma di una cosa è intrinseca ad essa stessa, e ancora di più quando si avvicina alla Causa Prima e Universale; e poiché in tutte le cose Dio stesso è effettivamente la causa dell’essere universale, che è il più profondo elemento presente in ogni cosa; ne consegue che in tutte le cose Dio agisce in modo diretto e intimo. Per questo motivo, nella Sacra [Scrittura](/concepts/revelation) le operazioni della natura vengono attribuite a Dio, come se Egli stesso intervenisse direttamente nel corso delle leggi naturali; come si legge in Giobbe 10:11: “Mi hai rivestito di pelle e carne; mi hai formato con ossa e tendini”.
+
+Risposta all’Obiezione 1: Dio agisce in modo sufficiente nelle cose nel suo ruolo di Agente Primario, ma ciò non significa affatto che l’azione degli agenti secondari sia superflua.
+
+Risposta all’Obiezione 2: Un’unica azione non può derivare da due agenti dello stesso ordine. Tuttavia, nulla impedisce che un’unica azione derivi da un agente primario e uno secondario.
+
+Risposta all’Obiezione 3: Dio non solo dà alle cose la loro forma, ma le mantiene anche nell’esistenza, le orienta verso l’azione e rappresenta inoltre lo scopo di ogni azione, come è stato spiegato in precedenza.
+
 <span class="atom-split" data-atom="023" data-title="Whether God can do anything outside the established order of nature?" data-chapter="Whether God can do anything outside the established order of nature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that God cannot do anything outside the established order of nature.
@@ -1050,6 +1349,25 @@ Reply to Objection 3: God fixed a certain order in things in such a way that at 
 He reserved to Himself whatever he intended to do otherwise than by a particular cause. So when
 He acts outside this order, He does not change.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non possa fare nulla al di fuori dell’ordine stabilito dalla natura. Infatti, [Agostino](/figures/augustine) (Contra Faustus, xxvi, 3) afferma: “Dio, Creatore di ogni forma di natura, non fa mai nulla contro la natura stessa”. Tuttavia, ciò che è al di fuori dell’ordine naturale sembrerebbe contraddire tale ordine. Pertanto, Dio non potrebbe fare nulla al di fuori di esso.
+
+Obiezione 2: Inoltre, poiché l’ordine della giustizia proviene da Dio, lo stesso vale per l’ordine della natura. Ma Dio non può compiere nulla al di fuori dell’ordine della giustizia; altrimenti commetterebbe un atto ingiusto. Pertanto, non può nemmeno compiere nulla al di fuori dell’ordine della natura.
+
+Obiezione 3: Inoltre, Dio ha stabilito l’ordine della natura. Pertanto, se Dio facesse qualcosa al di fuori di quell’ordine, sembrerebbe che fosse capace di cambiare; il che è impossibile.
+
+Al contrario, Agostino afferma (Contra Faustus, xxvi, 3): “Dio talvolta compie azioni che sono contrarie al normale corso della natura”.
+
+Rispondo che da ciascuna causa deriva un certo ordine nei suoi effetti, poiché ogni causa è un principio; e quindi, in base alla molteplicità delle cause, ne consegue una molteplicità di ordinamenti, i quali sono tra loro subordinati, proprio come una causa è subordinata ad altre cause. Pertanto, una causa superiore non è soggetta a una causa di ordine inferiore; al contrario. Un esempio di ciò si può vedere nelle questioni umane: dall’uomo che guida una famiglia dipende l’ordine domestico; tale ordine è contenuto nell’ordine della città; e quest’ultimo, a sua volta, dipende dal sovrano della città; mentre anche questo ordine ultimogenito dipende da quello del re, attraverso il quale intero il regno è governato.  
+Se quindi consideriamo l’ordine delle cose che deriva dalla causa primaria, Dio non può compiere nulla contro tale ordine; poiché, se lo facesse, agirebbe contro la sua prescienza, la sua volontà o la sua bontà. Ma se consideriamo l’ordine delle cose che deriva da cause secondarie, allora Dio può agire al di fuori di tale ordine; poiché non è soggetto agli ordinamenti delle cause secondarie; anzi, questi ordinamenti sono soggetti a Lui, poiché derivano da Lui, non per necessità naturale, ma per scelta della Sua volontà; infatti, Dio avrebbe potuto creare un altro ordine delle cose. Pertanto, Dio può agire al di fuori di questo ordine da Lui stesso creato, quando lo desidera: ad esempio, producendo gli effetti delle cause secondarie senza che queste intervengano, o generando certi effetti che le cause secondarie non sono in grado di produrre. Come afferma Agostino (Contra Faustus, xxvi, 3): “Dio agisce contro il corso naturale abituale, ma in nessun modo contro la legge suprema; poiché non agisce contro Sé stesso”.
+
+Risposta all’Obiezione 1: Nelle cose naturali, qualcosa può accadere al di fuori di questo ordine naturale in due modi. Può accadere per l’azione di un agente che non ha conferito alle cose quella loro inclinazione naturale; ad esempio, quando un uomo solleva un corpo pesante verso l’alto, il quale non possiede naturalmente la tendenza a muoversi verso il basso; in questo caso, ciò sarebbe contrario alla natura. Può anche accadere per l’azione di quell’agente dal quale dipende l’inclinazione naturale delle cose; e questo non è contrario alla natura, come è evidente nel fenomeno della marea, che non contraddice la tendenza naturale dell’acqua a scorrere verso il basso, poiché tale movimento è dovuto all’influenza di un corpo celeste. Poiché quindi l’ordine della natura è stato imposto alle cose da Dio, se Egli compie qualcosa al di fuori di questo ordine, ciò non è contrario alla natura. Per questo motivo Agostino afferma (Contra Faustus, xxvi, 3): “È naturale per ogni cosa ciò che viene causato da Colui dal quale derivano tutta la forma, il numero e l’ordine nella natura”.
+
+Risposta all’Obiezione 2: L’ordine della giustizia sorge in relazione alla Prima Causa, che è la regola di tutta la giustizia; pertanto Dio non può fare nulla contro tale ordine.
+
+Risposta all’Obiezione 3: Dio ha stabilito un certo ordine nelle cose in modo tale che, allo stesso tempo, si è riservato tutto ciò che intendeva compiere senza l’intervento di una causa specifica. Pertanto, quando agisce al di fuori di questo ordine, non sta cambiando nulla.
+
 <span class="atom-split" data-atom="024" data-title="Whether whatever God does outside the natural order is miraculous?" data-chapter="Whether whatever God does outside the natural order is miraculous?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that not everything which God does outside the natural order of
@@ -1099,6 +1417,24 @@ hope comes from faith, whereby we believe in the future resurrection.
 Reply to Objection 3: The knowledge of the Apostles, although not manifest in itself, yet was
 made manifest in its effect, from which it was shown to be wonderful.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non tutto ciò che Dio compie al di fuori dell’ordine naturale delle cose sia considerato un miracolo. Infatti, la creazione del mondo e delle anime, così come la giustificazione degli ingiusti, avvengono al di fuori di tale ordine; non essendo operazioni realizzate attraverso cause naturali. Eppure queste azioni non vengono definite miracoli. Pertanto, non tutto ciò che Dio fa al di fuori dell’ordine naturale è un [miracolo](/concepts/miracle).
+
+Obiezione 2: Inoltre, un miracolo è “qualcosa di difficile, che si verifica raramente, che supera le capacità della natura e che va ben oltre le nostre aspettative, al punto di suscitare in noi stupore” [*San Agostino*, *De utilitate credendi* xvi]. Tuttavia, alcune cose che esulano dall’ordine naturale non sono affatto difficili; infatti si verificano anche in situazioni banali, come la guarigione dei malati. Non sono nemmeno rare, poiché accadono spesso; ad esempio, quando i malati venivano messi per strada affinché fossero guariti dall’ombra di Pietro (Atti 5:15). Inoltre, non superano le capacità della natura; basta pensare al caso in cui le persone vengono curate da una febbre. Infine, non sono nemmeno al di là delle nostre aspettative, poiché tutti speriamo nella risurrezione dei morti, anche se questa rappresenterebbe comunque un’eccezione all’ordine naturale. Pertanto, non tutte le cose che esulano dall’ordine della [natura](/concepts/nature) sono miracolose.
+
+Obiezione 3: Inoltre, la parola “miracolo” deriva dall’ammirazione. L’ammirazione riguarda cose che sono manifeste ai sensi. Tuttavia, a volte accadono eventi al di fuori dell’ordine naturale, eventi che non sono percepibili dai sensi; come quando gli Apostoli ricevettero conoscenze senza studiare o essere insegnati. Pertanto, non tutto ciò che accade al di fuori dell’ordine naturale è considerabile un miracolo.
+
+Al contrario, Agostino afferma (Contra Faustus, xxvi, 3): “Quando Dio compie qualcosa che contraddice quell’ordine della natura che conosciamo e siamo abituati a osservare, lo chiamiamo miracolo.”
+
+Rispondo che la parola “miracolo” deriva dall’ammirazione che sorge quando un effetto si manifesta mentre la sua causa rimane nascosta; come quando una persona osserva un’eclissi senza conoscerne la causa, come afferma il Filosofo all’inizio della sua Metafisica. Ora, la causa di un effetto manifesto può essere conosciuta da alcuni e ignorata da altri; perciò una cosa può sembrare meravigliosa a uno e del tutto banale ad altro: così un’eclissi può apparire straordinaria a un contadino, ma non a un astronomo. Un miracolo, dunque, è qualcosa che suscita ammirazione, perché la sua causa è completamente nascosta da tutti; e questa causa è Dio. Pertanto, quelle cose che Dio compie al di fuori delle cause conosciute da noi vengono chiamate miracoli.
+
+Risposta all’Obiezione 1: La creazione e la giustificazione degli ingiusti, anche se compiute da Dio solo, non sono, in senso proprio, miracoli, poiché non hanno una natura tale da poter derivare da alcuna altra causa; pertanto non avvengono al di fuori dell’ordine della natura, poiché non appartengono a tale ordine.
+
+Risposta all’Obiezione 2: Una cosa difficile viene chiamata miracolo non per l’eccellenza della stessa, ma perché supera le capacità della natura; allo stesso modo, una cosa è considerata insolita non perché non accada spesso, ma perché si discosta dal normale corso naturale delle cose. Inoltre, si dice che una cosa sia al di sopra delle capacità della natura non solo in base alla sostanza stessa di ciò che viene compiuto, ma anche in relazione al modo e all’ordine con cui avviene. Infine, si afferma che un miracolo vada oltre le “speranze” della natura, ma non oltre le “speranze” della grazia, che derivano dalla fede, attraverso la quale crediamo nella futura risurrezione.
+
+Risposta all’Obiezione 3: La conoscenza degli Apostoli, sebbene non fosse evidente di per sé, divenne evidente nei suoi effetti, dai quali si dimostrò essere straordinaria.
+
 <span class="atom-split" data-atom="025" data-title="Whether one miracle is greater than another?" data-chapter="Whether one miracle is greater than another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one [miracle](/concepts/miracle) is not greater than another. For [Augustine](/figures/augustine) says
@@ -1131,6 +1467,21 @@ these kinds has various degrees, according to the different ways in which the po
 surpassed.
 From this is clear how to reply to the objections, arguing as they do from the Divine power.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un [miracolo](/concepts/miracle) non sia più grande di un altro. Infatti, l’[Agostino](/figures/augustine) afferma (Epistola ad Volusianum, cxxxvii): “Nei fatti miracolosi, la misura stessa del fatto corrisponde alla potenza di colui che lo compie.” Ma poiché tutti i miracoli sono operati dalla stessa potenza di Dio, un miracolo non è certo più grande di un altro.
+
+Obiezione 2: Inoltre, il potere di Dio è infinito. Ma l’infinito supera di gran lunga il finito; pertanto non esiste alcuna ragione per meravigliarsi di un suo effetto più di un altro. Quindi, un miracolo non è certo più grande di un altro.
+
+Al contrario, il Signore dice, parlando delle opere miracolose (Giovanni 14:12): “Le opere che io faccio, anche lui le farà, e anzi ne farà di maggiori”.
+
+Rispondo che nulla viene definito miracolo se paragonato al Potere Divino; infatti, nessuna azione umana ha alcun significato rispetto alla potenza di Dio, come afferma Isaia 40:15: “Ecco, i popoli stranieri sono come una goccia nell’oceano, come il granello più piccolo su una bilancia”. Tuttavia, qualcosa viene considerato miracolo quando supera la potenza della natura stessa. Quanto maggiore è l’superamento di tale potenza, tanto più grande è il miracolo. La potenza della natura viene infatti superata in tre modi:  
+1. Nella sostanza stessa dell’atto compiuto; ad esempio, quando due corpi occupano lo stesso spazio, quando il sole sembra retrocedere nel cielo, o quando un corpo umano viene reso glorioso: queste cose sono assolutamente impossibili per la natura e rappresentano i miracoli di più alto rango.  
+2. Non nell’atto in sé, ma nel mezzo attraverso cui tale atto viene compiuto; ad esempio, risuscitare i morti o restituire la vista ai ciechi: la natura può dare vita, ma non ai morti, e questi miracoli occupano il secondo rango.  
+3. Nella misura e nell’ordine con cui l’atto viene compiuto; ad esempio, quando una persona guarisce improvvisamente da una febbre, senza alcun trattamento o seguendo processi naturali normali; oppure quando l’aria si condensa all’improvviso in pioggia per intervento divino, senza cause naturali, come avvenne per le preghiere di Samuele ed Elia: questi miracoli occupano il terzo rango.  
+Ogni di questi tipi di miracoli presenta inoltre diversi gradi di intensità, a seconda del modo in cui la potenza della natura viene superata.  
+Da tutto ciò risulta chiaramente come rispondere alle obiezioni avanzate da coloro che si basano sul Potere Divino per confutare i miracoli.
+
 <span class="atom-split" data-atom="026" data-title="HOW ONE CREATURE MOVES ANOTHER (FOUR ARTICLES)" data-chapter="HOW ONE CREATURE MOVES ANOTHER (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider how one creature moves another. This consideration will be threefold: (1)
@@ -1145,6 +1496,12 @@ Concerning their enlightenment there are four points of inquiry:
 (2) Whether one angel moves the will of another?
 (3) Whether an inferior angel can enlighten a superior angel?
 (4) Whether a superior angel enlightens an inferior angel in all that he knows himself?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Esaminiamo ora come una creatura possa muovere un’altra. Questo studio sarà articolato in tre parti: (1) Come si muovono gli angeli, che sono creature puramente spirituali; (2) Come si muovono i corpi fisici; (3) Come si muove l’uomo, che è composto da una natura spirituale e una corporea.  
+Per quanto riguarda il primo punto, vi sono tre aspetti da considerare: (1) Come un angelo agisce su un altro angelo; (2) Come un angelo agisce su una natura corporea; (3) Come un angelo agisce sull’uomo. Il primo di questi aspetti solleva la questione dell’[illuminazione](/schools/enlightenment) e del modo in cui gli angeli comunicano tra loro, nonché della loro coordinazione reciproca, sia tra angeli buoni che cattivi.  
+Per quanto riguarda l’illuminazione degli angeli, vi sono quattro questioni fondamentali: (1) Un angelo può illuminare l’intelletto di un altro angelo? (2) Un angelo può influenzare la volontà di un altro angelo? (3) Un angelo inferiore può illuminare uno superiore? (4) Uno angelo superiore può trasmettere la propria conoscenza a uno inferiore?
 
 <span class="atom-split" data-atom="027" data-title="Whether one angel enlightens another?" data-chapter="Whether one angel enlightens another?" data-kind="atom" data-srclang="en"></span>
 
@@ -1211,6 +1568,24 @@ ultimate perfecting form: for the created mind is always considered to be unform
 to the first truth; while the other kinds of [enlightenment](/schools/enlightenment) that proceed from man or angel, are, as it
 were, dispositions to this ultimate form.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un angelo non illumini un altro. Infatti gli angeli possiedono già la stessa [beatazza](/positions/beatitude) che noi speriamo di ottenere. Ma allora, secondo Geremia 31:34 – “Nessuno insegnerà più al proprio vicino o al proprio fratello” – nemmeno un uomo illumina un altro. Pertanto, neanche ora un angelo illumina un altro.
+
+Obiezione 2: Inoltre, la luce negli angeli è di tre tipi: quella naturale, quella della grazia e quella della gloria. Un angelo, tuttavia, viene illuminato dalla luce naturale dal Creatore; dalla luce della grazia dal Giustificatore; dalla luce della gloria dal Beatiore; tutte queste luci provengono da Dio. Pertanto, un angelo non illumina un altro angelo.
+
+Obiezione 3: Inoltre, la luce è una forma che esiste nella mente umana. Ma la mente razionale viene “illuminata unicamente da Dio, senza alcun intervento creato”, come afferma [Agostino](/figures/augustine) (QQ. 83, qu. 51). Pertanto, un angelo non illumina la mente di un altro angelo.
+
+Al contrario, Dionigi afferma (Coel. Hier. viiii) che “gli angeli del secondo ordine vengono purificati, illuminati e perfezionati dagli angeli del primo ordine”.
+
+Rispondo che un angelo illumina un altro. Per chiarire questo punto, dobbiamo osservare che la luce intellettuale non è altro che una manifestazione della verità, secondo Efesini 5:13: “Tutto ciò che viene reso manifesto è luce”. Pertanto, illuminare significa semplicemente comunicare ad altri la manifestazione di una verità conosciuta; come afferma l’Apostolo (Efesini 3:8): “A me, che sono il minore tra tutti i santi, è stata data questa grazia, di illuminare tutti gli uomini, affinché possano comprendere quale sia la rivelazione del mistero nascosto da [L01|eternità] in Dio”. Pertanto, si dice che un angelo illumini un altro manifestando la verità che egli stesso conosce. Per questo motivo Dionigi afferma (Coel. Hier. vii): “I teologi dimostrano chiaramente che gli ordini degli esseri celesti vengono insegnati attraverso la scienza divina, da parte delle intelligenze più elevate”. Ora, poiché nell’operazione intellettuale concorrono due elementi, come abbiamo detto (Q[105], A[3]), ovvero la potenza intellettiva e la somiglianza dell’oggetto compreso; in entrambi questi aspetti, un angelo può comunicare la verità conosciuta a un altro. Prima di tutto, rafforzando la potenza intellettiva dell’altro angelo: poiché, proprio come la forza di un corpo imperfetto viene potenziata dalla vicinanza di un corpo più perfetto – ad esempio, ciò che è meno caldo diventa più caldo in presenza di qualcosa di più caldo – così anche la potenza intellettiva di un angelo inferiore viene rafforzata dall’interazione con un angelo superiore; poiché, nelle cose spirituali, il fatto che una cosa si rivolga verso un’altra corrisponde, in termini metaforici, alla vicinanza fisica tra oggetti corporei. In secondo luogo, un angelo manifesta la verità all’altro in base alla somiglianza dell’oggetto compreso: l’angelo superiore riceve la conoscenza della verità attraverso una sorta di concezione universale, mentre l’intelligenza dell’angelo inferiore non è sufficientemente potente per comprenderla in modo altrettanto generale; pertanto, l’angelo superiore distingue, in qualche modo, quella verità che ha concepito in termini universali, affinché possa essere compresa dall’angelo inferiore, e così la propone alla sua conoscenza. Lo stesso avviene tra noi: l’insegnante, al fine di adattarsi agli altri, suddivide in parti più semplici la conoscenza che possiede in modo universale. Questo viene espresso anche da Dionigi (Coel. Hier. xv): “Ogni sostanza intellettuale dotata di potere provvidenziale divide e amplia la conoscenza unica che le è stata conferita da qualcuno più vicino a Dio, al fine di guidare coloro che sono inferiori a lei verso la verità attraverso l’analogia”.
+
+Risposta all’Obiezione 1: Tutti gli angeli, sia inferiori che superiori, vedono immediatamente l’Essenza di Dio; in questo senso, nessuno insegna agli altri. È proprio di questa verità che parla il profeta, il quale aggiunge: “Non insegneranno più ciascuno al proprio fratello dicendo: ‘Conosci il Signore’, perché tutti Mi conosceranno, dal più piccolo al più grande”. Tuttavia, tutti i simboli e gli esempi delle opere divine, che sono noti a Dio come tali nella loro realtà ultima, sono conosciuti da Dio stesso, poiché Egli comprende se stesso; quanto agli altri esseri che vedono Dio, ciascuno conosce più simboli e esempi, tanto più perfettamente riesce a comprenderLo. Pertanto, un angelo superiore conosce meglio degli angeli inferiori questi simboli e esempi; è proprio su di essi che il primo illumina il secondo. A questo proposito, Dionigi dice (Div. Nom. iv) che gli angeli “sono illuminati dai simboli delle cose esistenti”.
+
+Risposta all’Obiezione 2: Un angelo non illumina un altro fornendogli la luce naturale, la grazia o la gloria; ma rafforzando quella luce naturale e rivelandogli la verità riguardo allo [stato di natura](/arguments/state_of_nature), alla grazia e alla gloria, così come spiegate sopra.
+
+Risposta all’Obiezione 3: La mente razionale viene formata immediatamente da Dio, o come immagine tratta dall’esempio, poiché è creata esclusivamente a somiglianza di Dio; oppure come soggetto dotato della forma ultima e perfetta: infatti la mente creata è sempre considerata “imperfetta”, salvo quando si attacca alla prima verità; mentre le altre forme di [illuminazione](/schools/enlightenment) che derivano dall’uomo o dall’angelo rappresentano, in qualche modo, disposizioni verso questa forma ultima e perfetta.
+
 <span class="atom-split" data-atom="028" data-title="Whether one angel moves another angel's will?" data-chapter="Whether one angel moves another angel's will?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one angel can move another angel's will. Because, according
@@ -1267,6 +1642,24 @@ Reply to Objection 3: The Philosopher speaks of the lower sensitive appetite whi
 moved by the superior intellectual appetite, because it belongs to the same nature of the soul, and
 because the inferior appetite is a power in a corporeal organ. But this does not apply to the angels.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un angelo possa influenzare la volontà di un altro angelo. Infatti, secondo quanto affermato da Dionisio citato sopra (A[1]), così come un angelo illumina un altro, allo stesso modo lo purifica e lo perfeziona. Ma il purificare e il perfezionare sembrano riguardare proprio la volontà: il primo, infatti, pare riferirsi al peccato, che appartiene alla volontà; mentre essere perfezionati significa raggiungere un fine, che è l’oggetto della volontà. Pertanto, un angelo può influenzare la volontà di un altro angelo.
+
+Obiezione 2: Inoltre, come afferma Dionisio (Coel. Hier. vii): “I [nomi](/positions/nominalism) degli angeli indicano le loro proprietà”. I Serafini sono chiamati così perché “infuocano” o “danno calore”; e ciò avviene attraverso l’amore, che appartiene alla volontà. Pertanto, un angelo influisce sulla volontà di un altro angelo.
+
+Obiezione 3: Inoltre, il Filosofo afferma (De [Anima](/concepts/soul) iii, 11) che l’appetito superiore determina quello inferiore. Poiché l’intelletto dell’angelo superiore è più elevato, lo è anche la sua volontà. Pertanto, sembra che l’angelo superiore possa modificare la volontà di un altro angelo.
+
+Al contrario, a Dio spetta il compito di cambiare la volontà degli angeli, poiché è Lui a donare la giustizia; infatti, la giustizia rappresenta proprio l’armonia e la rettitudine della volontà. Tuttavia, solo Dio può conferire la giustizia agli angeli. Pertanto, nessun angelo può modificare la volontà di un altro angelo.
+
+Rispondo che, come detto in precedenza (Q[105], A[4]), la volontà può essere modificata in due modi: da un lato riguardo all’oggetto della volontà, dall’altro riguardo alla capacità stessa di volere. Per quanto riguarda l’oggetto, sia il bene stesso che costituisce l’oggetto della volontà può muoverla, proprio come ciò che è desiderabile può stimolare il desiderio; inoltre, coloro che indicano tale oggetto – ad esempio coloro che dimostrano che qualcosa è buono – possono anch’essi influenzare la volontà. Tuttavia, come abbiamo già affermato (Q[105], A[4]), altri beni possono in qualche misura inclinare la volontà, ma nulla può muoverla efficacemente se non il bene universale, cioè Dio stesso. Solo Lui può far vedere questo bene, affinché possa essere percepito dai beati; quando Mosè chiese: “Mostrami la tua gloria”, Egli rispose: “Ti mostrerò tutto il bene” (Esodo 33:18-19). Pertanto, un angelo non può muovere efficacemente la volontà, né come oggetto desiderato, né come fonte di informazioni su tale oggetto. Può tuttavia inclinare la volontà verso ciò che è amabile, o verso qualche bene creato che sia in armonia con la bontà divina; in questo modo può indurre l’essere umano ad amare le creature o Dio stesso. Per quanto riguarda invece la capacità di volere, essa non può essere modificata se non da Dio stesso. L’atto di volere, infatti, rappresenta un’inclinazione del soggetto verso ciò che desidera; e solo Dio può cambiare questa inclinazione, poiché è Lui l’autore della natura intellettuale dell’uomo. Pertanto, nemmeno un angelo può modificare la volontà di un altro angelo.
+
+Risposta all’Obiezione 1: Il “purificare” e il “perfezionare” devono essere intesi secondo il modo dell’[illuminazione](/schools/enlightenment). Poiché Dio illumina modificando l’intelletto e la volontà, Egli purifica eliminando i difetti presenti in questi organi mentali e li perfeziona fino al loro massimo potenziale. Tuttavia, l’illuminazione causata da un angelo riguarda esclusivamente l’intelletto, come spiegato sopra (A[1]); pertanto un angelo può essere considerato uno strumento che elimina i difetti legati all’ignoranza nell’intelletto e lo perfeziona fino al raggiungimento della conoscenza assoluta della verità. Così afferma Dionigi (Eccl. Hier. vi): “Nella gerarchia celeste, la correzione delle essenze inferiori rappresenta un processo di illuminazione riguardo alle cose sconosciute, che le conduce verso una conoscenza sempre più perfetta”. Ad esempio, la vista corporea può essere considerata “purificata” dall’eliminazione dell’oscurità, “illuminata” dalla diffusione della luce e “perfezionata” quando permette di percepire gli oggetti colorati.
+
+Risposta all’Obiezione 2: Un angelo può indurre un altro ad amare Dio attraverso la persuasione, come spiegato sopra.
+
+Risposta all’Obiezione 3: Il filosofo parla dell’appetito sensibile inferiore, che può essere mosso dall’appetito intellettuale superiore, perché appartiene alla stessa natura dell’anima e perché l’appetito inferiore è una facoltà insita in un organo corporeo. Tuttavia, ciò non vale per gli angeli.
+
 <span class="atom-split" data-atom="029" data-title="Whether an inferior angel can enlighten a superior angel?" data-chapter="Whether an inferior angel can enlighten a superior angel?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an inferior angel can enlighten a superior angel. For the
@@ -1316,6 +1709,24 @@ hold.
 
 Reply to Objection 3: An angel turns voluntarily to enlighten another angel, but the angel's
 will is ever regulated by the [Divine law](/concepts/divine_law) which made the order in the angels.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un angelo inferiore possa illuminare un angelo superiore. Infatti, la gerarchia ecclesiastica deriva dalla gerarchia celeste e ne rappresenta l’ordine; per questo motivo Gerusalemme celeste viene chiamata “nostra madre” (Galati 4:26). Tuttavia, anche nella Chiesa i superiori vengono illuminati e insegnati dai loro inferiori, come afferma l’Apostolo (1 Corinzi 14:31): “Potete tutti profetizzare uno dopo l’altro, affinché tutti possano imparare e essere esortati”. Pertanto, anche nella gerarchia celeste i superiori possono ricevere illuminazione dagli inferiori.
+
+Obiezione 2: Inoltre, poiché l’ordine delle sostanze corporee dipende dalla volontà di Dio, lo stesso vale per l’ordine delle sostanze spirituali. Tuttavia, come è stato detto in precedenza (Q[105], A[6]), Dio a volte agisce al di fuori dell’ordine delle sostanze corporee; pertanto può anche agire al di fuori dell’ordine delle sostanze spirituali, illuminando quelle inferiori non attraverso i loro superiori. Di conseguenza, in questo modo le sostanze inferiori illuminate da Dio possono a loro volta illuminare quelle superiori.
+
+Obiezione 3: Inoltre, un angelo illumina l’altro a cui si rivolge, come è stato spiegato in precedenza (A[1]). Ma poiché questa rivoluzione verso un altro è volontaria, l’angelo più alto può rivolgersi all’angelo più basso, ignorando gli altri. Pertanto, può illuminarlo immediatamente; e così anche quest’ultimo può illuminare i suoi superiori.
+
+Al contrario, Dionigi afferma che “questa è la legge divina e immutabile: le cose inferiori sono guidate verso Dio da quelle superiori” (Coel. Hier. iv; Eccl. Hier. v).
+
+Rispondo che gli angeli inferiori non illuminano mai quelli superiori, ma sono sempre loro ad essere illuminati. Il motivo è che, come spiegato in precedenza (Q[105], A[6]), un ordine è subordinato a un altro, proprio come una causa è subordinata a un’altra causa; pertanto, poiché la causa è ordinata rispetto a un’altra causa, anche l’ordine è ordinato rispetto a un altro ordine. Non vi è quindi alcuna incongruenza nel fatto che talvolta qualcosa venga compiuto al di fuori dell’ordine della causa inferiore, affinché possa essere subordinato alla causa superiore; proprio come, nelle questioni umane, l’ordine del presidente può essere trasferito dall’obbedienza verso il principe. Così avviene anche che Dio compia miracoli al di fuori dell’ordine della natura corporea, affinché gli uomini possano essere guidati alla conoscenza di Lui. Tuttavia, tale trasgressione dell’ordine proprio delle sostanze spirituali non ha alcuna rilevanza per il processo attraverso cui gli uomini vengono guidati verso Dio; poiché le operazioni degli angeli non ci sono note, così come quelle dei corpi sensibili. Pertanto, l’ordine che appartiene alle sostanze spirituali non viene mai trasgredito da Dio; in questo modo, i soggetti inferiori sono sempre mossi da quelli superiori, e non viceversa.
+
+Risposta all’Obiezione 1: La gerarchia ecclesiastica imita, in qualche misura, quella celeste, ma con una somiglianza perfetta. Nella gerarchia celeste, la perfezione dell’ordine è proporzionale alla vicinanza a Dio; pertanto coloro che sono più vicini a Dio occupano gradi più [sublimi](/concepts/sublime) e possiedono conoscenze più profonde. Per questo motivo, i superiori non vengono mai illuminati dai inferiori. Nella gerarchia ecclesiastica, invece, talvolta coloro che sono più vicini a Dio per santità occupano i gradi più bassi e non si distinguono particolarmente per la loro scienza; inoltre, alcuni possono essere eccezionali in un campo specifico della conoscenza, ma carenti in altri. Per queste ragioni, è possibile che i superiori vengano istruiti dagli inferiori.
+
+Risposta all’Obiezione 2: Come spiegato in precedenza, non esiste alcuna somiglianza tra ciò che Dio fa al di fuori dell’ordine della natura corporea e ciò che fa nell’ambito della natura spirituale. Pertanto, questo argomento non è valido.
+
+Risposta all’Obiezione 3: Un angelo si volge volontariamente per illuminare un altro angelo, ma la volontà di quell’angelo è sempre regolata dalla [Legge Divina](/concepts/divine_law), che ha stabilito l’ordine tra gli angeli.
 
 <span class="atom-split" data-atom="030" data-title="Whether the superior angel enlightens the inferior as regards all he himself knows?" data-chapter="Whether the superior angel enlightens the inferior as regards all he himself knows?" data-kind="atom" data-srclang="en"></span>
 
@@ -1367,6 +1778,24 @@ Reply to Objection 3: Till the Judgment Day some new things are always being rev
 God to the highest angels, concerning the course of the world, and especially the salvation of the
 elect. Hence there is always something for the superior angels to make known to the inferior.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’angelo superiore non illumini l’angelo inferiore riguardo a tutto ciò che egli stesso conosce. Infatti Dionisio afferma (Coel. Hier. xii) che gli angeli superiori possiedono una conoscenza più universale, mentre quelli inferiori ne hanno una più particolare e individuale. Tuttavia, ciò che è contenuto in una conoscenza universale è di certo più ampio di ciò che è incluso in una conoscenza particolare. Pertanto, non tutto ciò che gli angeli superiori sanno viene conosciuto anche dagli angeli inferiori, poiché questi ultimi vengono illuminati soltanto da quanto gli angeli superiori conoscono.
+
+Obiezione 2: Inoltre, il Maestro delle Sentenze (ii, D, 11) afferma che gli angeli superiori conoscevano da tempo il Mistero dell’Incarnazione, mentre gli angeli inferiori non lo conobbero se non dopo che esso si fu compiuto. Pertanto, troviamo che alcuni angeli, come se fossero ignari, chiedevano: “Chi è questo Re di gloria?”, mentre altri angeli, che ne erano a conoscenza, rispondevano: “Il Signore delle Schiere, egli è il Re di gloria”, come spiega Dionigi (Coel. Hier. vii). Ma ciò non sarebbe vero se gli angeli superiori avessero illuminato quelli inferiori su tutto ciò che essi stessi conoscevano. Pertanto, non lo fanno.
+
+Obiezione 3: Inoltre, se gli angeli superiori illuminano quelli inferiori su tutto ciò che sanno, nulla di ciò che gli angeli superiori conoscono potrebbe rimanere sconosciuto agli angeli inferiori. Pertanto, gli angeli superiori non potrebbero comunicare loro nulla di nuovo; il che sembra suscettibile di obiezioni. Quindi, gli angeli superiori illuminano quelli inferiori su ogni cosa.
+
+Al contrario, Gregorio [*Pietro Lombardo, Sentenze, ii, D, ix; cfr. Gregorio, Omelia xxxiv, sull’Evangelo*] afferma: “In quel regno celeste, sebbene vi siano doni eccellenti, nulla viene posseduto in modo individuale”. E Dionigi dice: “Ogni essenza celeste trasmette al inferiore il dono derivante da quella superiore” (Coel. Hierarchicus, xv), come citato sopra (A[1]).
+
+Rispondo che ogni creatura partecipa della bontà divina al fine di diffondere il bene che possiede agli altri; infatti è proprio della natura del bene comunicarsi con gli altri. Per lo stesso motivo, anche gli agenti corporei trasmettono la propria somiglianza ad altri nella misura in cui ne sono capaci. Quindi, più un essere è immerso nella partecipazione alla bontà divina, più si sforza di trasmettere le proprie perfezioni agli altri nel modo possibile. Ecco perché il beato Pietro esorta coloro che, per grazia, partecipano della bontà divina, dicendo: “Poiché ogni uomo ha ricevuto la grazia, cada ciascuno in aiuto degli altri; come buoni amministratori della multiforme grazia di Dio” (1 Pietro 4:10). Ancora di più, gli angeli santi, che godono della pienezza di questa partecipazione alla bontà divina, la trasmettono a coloro che sono al loro di sotto. Tuttavia, questo dono non viene ricevuto in modo altrettanto eccellente dagli angeli inferiori rispetto a quelli superiori; perciò questi ultimi rimangono sempre in un ordine più elevato e possiedono una conoscenza più perfetta, proprio come il maestro comprende meglio la stessa cosa del discepolo che impara da lui.
+
+Risposta all’Obiezione 1: Si dice che la conoscenza degli angeli superiori sia più universale, in quanto riguarda un modo di conoscere più elevato.
+
+Risposta all’Obiezione 2: Le parole del Maestro non devono essere intese nel senso che gli angeli inferiori fossero completamente ignari del Mistero dell’Incarnazione, ma semplicemente che non lo conoscevano nella stessa misura degli angeli superiori; inoltre, essi progredirono nella comprensione di tale Mistero successivamente, quando esso si realizzò.
+
+Risposta all’Obiezione 3: Fino al Giorno del Giudizio, Dio rivela sempre nuove verità agli angeli più elevati riguardo al corso del mondo e, in particolare, alla salvezza degli eletti. Pertanto, c’è sempre qualcosa che gli angeli superiori possono comunicare a quelli inferiori.
+
 <span class="atom-split" data-atom="031" data-title="THE SPEECH OF THE ANGELS (FIVE ARTICLES)" data-chapter="THE SPEECH OF THE ANGELS (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider the speech of the angels. Here there are five points of inquiry:
@@ -1375,6 +1804,15 @@ We next consider the speech of the angels. Here there are five points of inquiry
 (3) Whether an angel speaks to God?
 (4) Whether the angelic speech is subject to local distance?
 (5) Whether all the speech of one angel to another is known to all?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Esaminiamo ora il discorso degli angeli. Qui ci sono cinque punti da considerare:  
+(1) Un angelo parla con un altro?  
+(2) Il più inferiore parla con il più superiore?  
+(3) Un angelo parla con Dio?  
+(4) Il discorso angelico è soggetto alla distanza geografica?  
+(5) Tutti i dialoghi tra angeli sono noti a tutti?
 
 <span class="atom-split" data-atom="032" data-title="Whether one angel speaks to another?" data-chapter="Whether one angel speaks to another?" data-kind="atom" data-srclang="en"></span>
 
@@ -1437,6 +1875,24 @@ the bad angels speak to each other, we must say that the intellect is moved by t
 just as sense is affected by the sensible object. Therefore, as sense is aroused by the sensible object,
 so the mind of an angel can be aroused to attention by some intelligible power.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un angelo non parli con un altro. Infatti Gregorio afferma (Moralia, XVIII) che, nello [stato](/concepts/state) della risurrezione, “il corpo di ciascuno non nasconderà i propri pensieri ai compagni”. Pertanto, è ancora meno possibile che i pensieri di un angelo siano nascosti ad un altro. Ma il parlare permette di manifestare ciò che è nascosto nei pensieri; quindi non è necessario che un angelo parli con un altro.
+
+Obiezione 2: Inoltre, il linguaggio è di due tipi: uno interno, con cui si parla a se stessi; e uno esterno, con cui si parla agli altri. Ma il linguaggio esterno avviene attraverso segni sensibili, come la voce, i gesti o alcune parti del corpo, come la lingua o le dita; e questo non può valere per gli angeli. Pertanto, un angelo non parla con un altro angelo.
+
+Obiezione 3: Inoltre, il parlante incoraggia l’ascoltatore a prestargli attenzione. Tuttavia non sembra che un angelo incoraggi un altro ad ascoltare; infatti, tra di noi ciò avviene attraverso segni sensibili. Pertanto, un angelo non parla con un altro.
+
+Al contrario, l’Apostolo dice (1 Corinzi 13:1): “Anche se parlassi con le lingue degli uomini e degli angeli, ”
+
+Rispondo che gli angeli parlano in un certo modo. Ma, come afferma Gregorio (Moralia, ii): “È appropriato che la nostra mente, elevandosi al di sopra delle caratteristiche del linguaggio corporeo, si diriga verso i metodi sublimi e sconosciuti del linguaggio interiore”. Per comprendere come un angelo parli con un altro, dobbiamo considerare che, come abbiamo spiegato in precedenza (Q[82], A[4]), quando si trattano delle azioni e dei poteri dell’anima, la volontà dirige l’intelletto verso il suo operare. Un oggetto intelligibile si presenta all’intelletto in tre modi: primo, in modo abituale, cioè nella memoria, come afferma Agostino (De Trinitate, xiv, 6,7); secondo, come effettivamente considerato o concepito; terzo, in relazione a qualcos’altro. È evidente che l’oggetto intelligibile passa dal primo al secondo stadio per comando della volontà; pertanto, nella definizione di “abitudine” compaiono queste parole: “quelle che chiunque utilizza quando lo desidera”. Allo stesso modo, l’oggetto intelligibile passa dal secondo al terzo stadio grazie alla volontà; infatti, è la volontà a indirizzare il concetto della mente verso qualcos’altro, ad esempio verso l’esecuzione di un’azione o verso la sua comunicazione a un altro. Quando la mente si concentra sulla considerazione effettiva di una conoscenza abituale, allora una persona parla con se stessa; il concetto della mente viene infatti definito “parola interiore”. Poiché il concetto della mente angelica è indirizzato dalla volontà dell’angelo stesso a essere comunicato a un altro, il concetto di un angelo può essere reso noto a un altro; ed è in questo modo che un angelo parla con un altro: parlare, infatti, significa semplicemente rendere noto un concetto mentale a qualcun altro.
+
+Risposta all’Obiezione 1: Il nostro concetto mentale è ostacolato da due fattori principali. Il primo riguarda la volontà, che può trattenere tale concetto all’interno di sé o dirigerlo verso l’esterno. In questo senso, solo Dio può comprendere veramente ciò che si trova nella mente di un altro, come afferma 1 Corinzi 2:11: “Chi conosce le cose dell’uomo se non lo spirito che è in lui?” L’altro ostacolo deriva dal corpo stesso; per questo motivo, anche quando la volontà dirige il concetto mentale verso l’esterno affinché venga compreso da un altro, ciò non avviene immediatamente, ma è necessario l’uso di segni sensibili. Gregorio Magno allude a questo fenomeno nel suo scritto Moralia ii: “Agli occhi degli altri sembriamo trovarci al di là del muro del corpo; quando vogliamo farci conoscere, usiamo la lingua come strumento per rivelare ciò che veramente siamo.” Un angelo, invece, non è soggetto a tali ostacoli e può quindi comunicare immediatamente il proprio concetto mentale a un altro.
+
+Risposta all’Obiezione 2: Il discorso esterno, espresso attraverso la voce, è necessario per noi a causa degli ostacoli imposti dal corpo. Pertanto non è adatto agli angeli; soltanto il discorso interno appartiene loro, e questo include non solo il pensiero espresso mentalmente, ma anche la sua comunicazione al conoscere di un altro attraverso la volontà. Per questo motivo, la lingua dell’angelo viene metaforicamente definita “il potere dell’angelo”, con cui egli manifesta i propri pensieri.
+
+Risposta all’Obiezione 3: Non c’è bisogno di attirare l’attenzione degli angeli buoni, poiché essi si vedono sempre nel Verbo; infatti, così come uno vede l’altro, vede anche ciò che è stato ordinato a lui. Ma poiché per loro natura possono comunicare tra loro, e persino ora gli angeli cattivi comunicano tra loro, dobbiamo dire che l’intelletto viene mosso dall’oggetto intelligibile, proprio come i sensi vengono influenzati dagli oggetti sensibili. Pertanto, così come i sensi sono stimolati dagli oggetti sensibili, anche la mente di un angelo può essere destata all’attenzione da qualche forza intelligibile.
+
 <span class="atom-split" data-atom="033" data-title="Whether the inferior angel speaks to the superior?" data-chapter="Whether the inferior angel speaks to the superior?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the inferior angel does not speak to the superior. For on the
@@ -1486,6 +1942,20 @@ will of God is the rule of truth, it belongs to the perfection and enlightenment
 to know even what God wills. But the same does not apply to the will of the angels, as was explained
 above.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’angelo inferiore non parli con quello superiore. Infatti, nel testo di 1 Corinzi 13:1, dove si legge “Se parlassi anche con le lingue degli uomini e degli angeli”, un commento afferma che il linguaggio degli angeli rappresenti una forma di [illuminazione](/schools/enlightenment) attraverso la quale l’angelo superiore illumina quello inferiore. Tuttavia, come già spiegato in precedenza (Q[106], A[3]), l’angelo inferiore non illumina mai quello superiore; pertanto, nemmeno parla con lui.
+
+Obiezione 2: Inoltre, come è stato detto sopra (Q[106], A[1]), illuminare significa semplicemente far conoscere a una persona ciò che è noto un’altra; e questo consiste nel parlare. Pertanto, parlare ed illuminare sono la stessa cosa; ne consegue quindi lo stesso conclusione.
+
+Obiezione 3: Inoltre, Gregorio afferma (Moralia, ii): “Dio parla agli angeli semplicemente mostrando loro le cose nascoste e invisibili del suo essere”. Ma questo avviene al fine di illuminarli. Pertanto, ogni volta che Dio parla, illumina; allo stesso modo, ogni discorso angelico ha lo scopo di illuminare. Quindi, un angelo inferiore non può in alcun modo parlare con un angelo superiore.
+
+Al contrario, secondo la spiegazione di Dionisio (Coel. Hier. vii), gli angeli inferiori chiesero agli angeli superiori: “Chi è questo Re della Gloria?”
+
+Rispondo che gli angeli inferiori possono parlare con quelli superiori. Per chiarire questo punto, dobbiamo considerare che ogni comunicazione angelica rappresenta un discorso angelico; tuttavia, non tutti i discorsi sono di natura illuminativa, poiché, come abbiamo già detto, quando un angelo parla con un altro, ciò significa semplicemente che, per sua volontà, dirige il proprio concetto mentale in modo che venga compreso dall’altro. Ciò che la mente concepisce può essere ricondotto a due principi fondamentali: Dio stesso, che è la verità primordiale, e la volontà di colui che comprende, attraverso cui effettivamente consideriamo qualsiasi cosa. Poiché la verità è la luce dell’intelletto e Dio stesso è la regola di tutta la verità, la manifestazione di ciò che viene concepito dalla mente, in quanto dipende dalla verità primordiale, può essere sia un discorso che un’illuminazione. Ad esempio, quando una persona dice all’altra: “Il cielo è stato creato da Dio” o “L’uomo è un animale”. Tuttavia, la manifestazione di ciò che dipende dalla volontà di colui che comprende non può essere definita un’illuminazione, ma soltanto un discorso; ad esempio, quando si dice: “Desidero imparare questa cosa; desidero fare questo o quell’altro”. Il motivo è che la volontà umana creata non è una luce, né una regola della verità, ma ne partecipa. Pertanto, comunicare ciò che deriva dalla volontà umana creata non costituisce, in sé, un’illuminazione. Infatti, conoscere ciò che si desidera o ciò che si comprende non rientra nella perfezione dell’intelletto, ma soltanto nella conoscenza effettiva della verità stessa. È evidente quindi che gli angeli vengono definiti superiori o inferiori in relazione a questo principio fondamentale, Dio; pertanto, l’illuminazione, che dipende dal principio divino, può essere trasmessa soltanto dagli angeli superiori a quelli inferiori. Per quanto riguarda la volontà come principio, colui che vuole è primo e supremo; quindi, la manifestazione di ciò che appartiene alla volontà viene trasmessa agli altri da colui stesso che la esprime. In questo modo, sia gli angeli superiori che quelli inferiori possono comunicare tra loro. Da queste considerazioni derivano chiaramente le risposte alle prime due obiezioni sollevate.
+
+Risposta all’Obiezione 3: Ogni discorso di Dio agli angeli è un atto di illuminazione; poiché la volontà di Dio rappresenta la regola della verità, conoscere ciò che Dio vuole costituisce parte della perfezione e dell’illuminazione dell’intelletto creato. Tuttavia, lo stesso non vale per la volontà degli angeli, come è stato spiegato in precedenza.
+
 <span class="atom-split" data-atom="034" data-title="Whether an angel speaks to God?" data-chapter="Whether an angel speaks to God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an angel does not speak to God. For speech makes known
@@ -1520,6 +1990,20 @@ Reply to Objection 2: The angels are ever speaking to God in the sense of praisi
 Him and His works; but they speak to Him by consulting Him about what ought to be done whenever
 they have to perform any new work, concerning which they desire [enlightenment](/schools/enlightenment).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un angelo non parli con Dio. Infatti, parlare significa comunicare qualcosa a un altro. Ma un angelo non può comunicare nulla a Dio, che sa già tutto. Pertanto, un angelo non parla con Dio.
+
+Obiezione 2: Inoltre, parlare significa ordinare il proprio concetto mentale in relazione a un altro, come è stato dimostrato sopra (A[1]). Ma un angelo ordina sempre il proprio concetto mentale a Dio. Pertanto, se un angelo parla con Dio, allora sta sempre parlando con Dio; il che, in alcuni modi, sembra irragionevole, poiché un angelo a volte parla con un altro angelo. Quindi sembrerebbe che un angelo non parlasse mai con Dio.
+
+Al contrario, è scritto (Zaccaria 1:12): “L’angelo del Signore rispose e disse: ‘O Signore degli eserciti, fino a quando non avrai pietà di Gerusalemme?’”. Pertanto, un angelo parla a Dio.
+
+Rispondo che, come detto in precedenza (AA[1],2), l’angelo parla ordinando il proprio concetto mentale verso qualcos’altro. Ora, una cosa può essere ordinata a un’altra in due modi diversi: da un lato, allo scopo di trasmettere qualcosa a un’altra, come nelle cose naturali, dove l’agente è ordinato al soggetto passivo, o nel linguaggio umano, dove l’insegnante è ordinato all’allievo; in questo senso, un angelo non parla mai a Dio riguardo alla verità o a ciò che dipende dalla volontà creata, poiché Dio è la fonte e il principio di tutta la verità e di ogni volontà. Dall’altro lato, una cosa può essere ordinata a un’altra al fine di ricevere qualcosa, come nelle cose naturali, dove il soggetto passivo è ordinato all’agente, o nel linguaggio umano, dove l’allievo è ordinato al maestro; in questo modo, un angelo parla a Dio, sia consultando la volontà divina riguardo a ciò che deve essere fatto, sia ammirando la perfezione divina che non può mai comprendere appieno; così dice Gregorio (Moralia, ii): “Gli angeli parlano a Dio quando, contemplando ciò che è al di sopra di loro, provano sentimenti di ammirazione”.
+
+Risposta all’Obiezione 1: Il parlare non ha sempre lo scopo di comunicare qualcosa a un altro; a volte, invece, ha lo scopo di rendere evidente qualcosa al parlante stesso, come quando i discepoli chiedono istruzioni al maestro.
+
+Risposta all’Obiezione 2: Gli angeli parlano sempre a Dio nel senso di lodarlo e ammirarlo Lui e le Sue opere; tuttavia, Lo consultano per sapere cosa debba essere fatto ogni volta che devono compiere un’azione nuova, riguardo alla quale desiderano ricevere [illuminazione](/schools/enlightenment).
+
 <span class="atom-split" data-atom="035" data-title="Whether local distance influences the angelic speech?" data-chapter="Whether local distance influences the angelic speech?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that local distance affects the angelic speech. For as Damascene
@@ -1552,6 +2036,20 @@ Reply to Objection 2: The cry mentioned is not a bodily voice raised by reason o
 distance; but is taken to signify the magnitude of what is said, or the intensity of the affection,
 according to what Gregory says (Moral. ii): "The less one desires, the less one cries out."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la distanza locale influisca sul discorso angelico. Infatti, come afferma Damasceno (De Fide Orthodossa i, 13): “Un angelo agisce nel luogo in cui si trova”. Ma il discorso rappresenta senz’altro un’operazione angelica. Pertanto, poiché un angelo si trova in un luogo determinato, sembra che anche il suo discorso sia limitato ai confini di quel luogo.
+
+Obiezione 2: Inoltre, un oratore grida a causa della distanza dell’ascoltatore. Ma si dice dei Serafini che “si gridavano l’un l’altro” (Isaia 6:3). Pertanto, nel linguaggio angelico la distanza geografica ha una certa rilevanza.
+
+Al contrario, si dice che il ricco all’inferno abbia parlato ad Abramo, nonostante la distanza geografica (Lc. 16:24). Quindi, ancora meno la distanza può ostacolare il dialogo tra due angeli.
+
+Rispondo che il discorso angelico consiste in un’operazione intellettuale, come spiegato sopra (AA[1],2,3). L’operazione intellettuale di un angelo avviene attraverso l’astrazione dal “qui e ora”; infatti anche la nostra stessa operazione intellettuale si svolge mediante astrazione dal “qui e ora”, salvo che in alcuni casi ciò possa accadere accidentalmente nei confronti dei fantasmi, che negli angeli non esistono affatto. Tuttavia, per quanto riguarda ciò che viene estratto dal “qui e ora”, né la differenza di tempo né la distanza geografica hanno alcun influenza su tale processo. Pertanto, nel discorso angelico, la distanza geografica non rappresenta alcun ostacolo.
+
+Risposta all’Obiezione 1: Il discorso angelico, come spiegato sopra (A[1], ad 2), è di natura interiore; tuttavia viene percepito da un altro angelo; pertanto esiste nell’angelo che parla e, di conseguenza, là dove si trova quell’angelo. Ma poiché la distanza spaziale non impedisce a un angelo di vedere un altro, allo stesso modo non impedisce a un angelo di percepire ciò che gli viene comunicato da un altro; e questo include anche la percezione del suo discorso.
+
+Risposta all’Obiezione 2: Il grido menzionato non è un suono emesso dal corpo a causa della distanza geografica; piuttosto, esso indica l’entità di ciò che viene detto o l’intensità dell’emozione provata, come afferma Gregorio nel suo “Moralium” (ii): “Più una persona desidera qualcosa, meno grida”.
+
 <span class="atom-split" data-atom="036" data-title="Whether all the angels know what one speaks to another?" data-chapter="Whether all the angels know what one speaks to another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all the angels know what one speaks to another. For unequal
@@ -1583,6 +2081,20 @@ which is the principle common to all the angels; and in that way all enlightenme
 to all. But speech may be of something ordered to the principle of the created will, which is proper
 to each angel; and in this way it is not necessary that these speeches should be common to all.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che tutti gli angeli sappiano ciò che uno dice all’altro. Infatti, la distanza spaziale è la ragione per cui gli uomini non conoscono ciò che un individuo dice a un altro. Ma nel linguaggio angelico la distanza spaziale non ha alcun effetto, come già spiegato (A[4]). Pertanto, tutti gli angeli sanno ciò che uno dice all’altro.
+
+Obiezione 2: Inoltre, tutti gli angeli condividono la stessa capacità intellettiva. Pertanto, se un concetto mentale relativo all’ordine tra due entità è noto a uno di loro, lo è per lo stesso motivo anche a tutti gli altri angeli.
+
+Obiezione 3: Inoltre, l’[illuminazione](/schools/enlightenment) è un tipo di discorso. Ma l’illuminazione di un angelo da parte di un altro si estende a tutti gli angeli, poiché, come afferma Dionisio (Coel. Hier. XV): “Ogni essere celeste comunica ciò che ha appreso agli altri”. Pertanto, il discorso di un angelo verso un altro si estende a tutti.
+
+Al contrario, un uomo può parlare da solo con un altro; ancora di più ciò è possibile tra gli angeli.
+
+Rispondo che, come spiegato in precedenza (AA[1],2), il concetto mentale di un angelo può essere percepito da un altro quando l’angelo che possiede quel concetto lo invia volontariamente all’altro. Ora, una cosa può essere indirizzata verso uno scopo attraverso una determinata causa e non verso un altro; pertanto il concetto di un angelo può essere conosciuto da uno e non da un altro; ed è per questo che un angelo può percepire il discorso di un altro angelo, mentre altri no, non a causa dell’ostacolo della distanza spaziale, ma per via della volontà che dirige tale comunicazione, come già spiegato. Da ciò derivano le risposte alle prime due obiezioni.
+
+Risposta all’Obiezione 3: L’illuminazione riguarda quelle verità che derivano dalla prima regola della verità, ovvero dal principio comune a tutti gli angeli; per questo motivo, tutte le forme di illuminazione sono comuni a tutti. Tuttavia, il linguaggio può riguardare cose ordinate al principio della volontà creata, che è specifico di ciascun angelo; in questo caso, non è necessario che tali espressioni linguistiche siano comuni a tutti.
+
 <span class="atom-split" data-atom="037" data-title="OF THE ANGELIC DEGREES OF HIERARCHIES AND ORDERS (EIGHT ARTICLES)" data-chapter="OF THE ANGELIC DEGREES OF HIERARCHIES AND ORDERS (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider the degrees of the angels in their hierarchies and orders; for it was said above
@@ -1596,6 +2108,18 @@ Under this head there are eight points of inquiry:
 (6) Of the comparison of the orders to one another.
 (7) Whether the orders will outlast the Day of Judgment?
 (8) Whether men are taken up into the angelic orders?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Esaminiamo ora i gradi degli angeli nelle loro gerarchie e ordini; poiché è stato detto in precedenza (Q[106], A[3]) che gli angeli superiori illuminano quelli inferiori, e non il contrario. In merito a questo argomento vi sono otto punti da considerare:  
+(1) Se tutti gli angeli appartengono alla stessa gerarchia;  
+(2) Se in una singola gerarchia esiste un solo ordine;  
+(3) Se in un singolo ordine vi siano molti angeli;  
+(4) Se la distinzione tra gerarchie e ordini sia naturale;  
+(5) Riguardo ai [nomi](/positions/nominalism) e alle proprietà di ciascun ordine;  
+(6) Il confronto tra i diversi ordini;  
+(7) Se gli ordini esisteranno anche dopo il Giorno del Giudizio;  
+(8) Se gli esseri umani possano essere elevati agli ordini angelici.
 
 <span class="atom-split" data-atom="038" data-title="Whether all the angels are of one hierarchy?" data-chapter="Whether all the angels are of one hierarchy?" data-kind="atom" data-srclang="en"></span>
 
@@ -1656,6 +2180,24 @@ Reply to Objection 3: All men are of one species, and have one connatural mode o
 understanding; which is not the case in the angels: and hence the same argument does not apply to
 both.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che tutti gli angeli appartengano a una sola gerarchia. Poiché gli angeli sono i più elevati tra tutte le creature, è evidente che siano disposti secondo un ordine volto al meglio. Ma il miglior ordine per un insieme di esseri consiste nel fatto che vengano governati da un’unica autorità, come dimostra il Filosofo (Metafisica XII, Didascalia XI, 10; Politica III, 4). Pertanto, poiché una gerarchia non è altro che un principato sacro, sembra che tutti gli angeli appartengano a una sola gerarchia.
+
+Obiezione 2: Inoltre, Dionigi afferma (Coel. Hier. iii) che “l’ordinamento gerarchico rappresenta ordine, conoscenza e azione”. Ma tutti gli angeli condividono lo stesso ordinamento rispetto a Dio, che conoscono e al cui comando obbediscono nelle loro azioni. Pertanto, tutti gli angeli appartengono allo stesso ordinamento gerarchico.
+
+Obiezione 3: Inoltre, il sacro ordinamento chiamato gerarchia si trova sia tra gli uomini che tra gli angeli. Ma tutti gli uomini appartengono alla stessa gerarchia; pertanto, allo stesso modo, anche tutti gli angeli appartengono alla stessa gerarchia.
+
+Al contrario, Dionigi (Coel. Hier. VI) distingue tre gerarchie di angeli.
+
+Rispondo che “gerarchia” indica un principato “sacro”, come spiegato in precedenza. Ora, un principato comprende due elementi: il principe stesso e la moltitudine sottoposta al suo governo. Pertanto, poiché esiste un solo Dio – il Principe non solo di tutti gli angeli, ma anche degli uomini e di tutte le creature – esiste anche una sola gerarchia, non solo tra gli angeli, ma anche tra tutte le creature razionali che possono partecipare alle cose sacre. Secondo [Agostino](/figures/augustine) (De Civ. Dei xii, 1): “Esistono due città, cioè due società: una composta dagli angeli buoni e dagli uomini, l’altra da quelli malvagi”. Tuttavia, se consideriamo il rapporto tra la moltitudine e il principe che la governa, si può dire che tale gerarchia sia “unica”, poiché la moltitudine può essere sottomessa al governo del principe in modo uniforme. Coloro che non possono essere governati nello stesso modo appartengono a diverse gerarchie: sotto un unico re esistono infatti città diverse, regolate da leggi e amministratori diversi. È evidente che gli uomini ricevono le illuminazioni divine in modo diverso dagli angeli: questi le ricevono nella loro purezza intellettiva, mentre gli uomini le ricevono attraverso segni sensibili, come afferma Dionisio (Coel. Hier. i). Pertanto deve esserci una distinzione tra la gerarchia umana e quella angelica. Allo stesso modo, si distinguono tre gerarchie angeliche: gli angeli superiori possiedono una conoscenza più universale della verità rispetto a quelli inferiori; questa conoscenza universale presenta tre gradi tra gli angeli stessi. Infatti, i modelli delle cose su cui gli angeli ricevono l’illuminazione possono essere considerati in tre modi diversi: primo, come derivanti da Dio come principio universale; questo modo di conoscenza appartiene alla prima gerarchia, immediatamente collegata a Dio. Secondo, poiché questi modelli dipendono dalle cause create, che in qualche modo sono già “moltiplicate”; questo modo di conoscenza appartiene alla seconda gerarchia. Terzo, poiché questi modelli si applicano alle cose particolari in base alle loro cause; questo modo di conoscenza appartiene alla terza gerarchia. Tutti questi aspetti diventeranno più chiari quando tratteremo ciascuna delle gerarchie angeliche (A[6]). In questo modo vengono distinte le gerarchie tra i sottoposti. È quindi evidente che coloro che sostengono l’esistenza di una gerarchia nelle Persone Divine, definendola “supercelestiale”, sbagliano: nelle Persone Divine esiste infatti un ordine naturale, ma non una gerarchia nel senso tradizionale, poiché, come afferma Dionisio (Coel. Hier. iii): “L’ordine gerarchico ha lo scopo di purificare, illuminare e perfezionare alcuni; mentre altri hanno il compito di purificare, illuminare e perfezionare altri”; questo concetto non può assolutamente essere applicato alle Persone Divine.
+
+Risposta all’Obiezione 1: Questa obiezione considera il ruolo del sovrano nel governo, nel senso che un popolo sia meglio governato da un solo sovrano, come afferma il Filosofo in quei passaggi.
+
+Risposta all’Obiezione 2: Per quanto riguarda la conoscenza di Dio stesso, che tutti percepiscono in un modo unico – cioè nella Sua essenza – non esiste alcuna distinzione gerarchica tra gli angeli; tuttavia esiste una tale distinzione per quanto riguarda i tipi di cose create, come spiegato sopra.
+
+Risposta all’Obiezione 3: Tutti gli uomini appartengono alla stessa specie e possiedono lo stesso modo naturale di comprendere le cose; ciò non vale per gli angeli; pertanto, lo stesso argomento non può essere applicato a entrambi.
+
 <span class="atom-split" data-atom="039" data-title="Whether there are several orders in one hierarchy?" data-chapter="Whether there are several orders in one hierarchy?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in the one hierarchy there are not several orders. For when a
@@ -1712,6 +2254,27 @@ John the Baptist, than whom "there hath not risen a greater among them that are 
 enlighten and perfect, and in a higher way than can the orders of our hierarchy. Thus the heavenly
 orders are not distinguished by reason of these, but by reason of other different acts.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che in una singola gerarchia non possano esistere più ordini. Infatti, quando una definizione viene moltiplicata, anche la cosa definita viene moltiplicata. Ma la gerarchia è un ordine, come afferma Dionisio (Coel. Hier. iii). Pertanto, se ci fossero molti ordini, non esisterebbe una sola gerarchia, ma molte.
+
+Obiezione 2: Inoltre, diversi ordini corrispondono a diversi gradi, e questi gradi tra gli spiriti sono determinati da doni spirituali diversi. Tuttavia, tra gli angeli tutti i doni spirituali sono comuni a tutti, poiché “nulla è posseduto individualmente” (Sentenze, ii, D, ix). Pertanto non esistono ordini diversi tra gli angeli.
+
+Obiezione 3: Inoltre, nella gerarchia ecclesiastica i diversi ordini sono distinti in base alle azioni di “purificazione”, “illuminazione” e “perfezionamento”. L’ordine dei diaconi è legato all’azione della purificazione, quello dei sacerdoti all’illuminazione, mentre quello degli vescovi al perfezionamento, come afferma Dionigi (Eccl. Hier. V). Tuttavia, anche ogni angelo svolge queste stesse funzioni: purifica, illumina e perfeziona. Pertanto, non esiste alcuna distinzione di ordini tra gli angeli.
+
+Al contrario, l’Apostolo afferma (Ef. 1:20,21) che “Dio ha posto l’Uomo Cristo al di sopra di ogni principato, potere, virtù e dominio”: questi sono i vari ordini degli angeli, e alcuni di essi appartengono alla stessa gerarchia, come verrà spiegato in seguito (A[6]).
+
+Rispondo che, come spiegato sopra, un’organizzazione gerarchica rappresenta un principato, cioè un insieme di persone ordinate in modo specifico sotto il dominio di un principe. Ora, tale insieme non sarebbe ordinato, ma confuso, se non esistessero diverse forme di organizzazione all’interno di esso. Pertanto, la natura stessa di una gerarchia richiede questa diversità nelle strutture organizzative.  
+Questa diversità deriva dalla varietà dei ruoli e delle funzioni svolte dalle persone; si osserva ad esempio in una città, dove esistono diverse categorie sociali a seconda delle attività svolte: ci sono coloro che giudicano, coloro che combattono, coloro che lavorano nei campi, e così via.  
+Tuttavia, sebbene una città includa diverse categorie sociali, queste possono essere ridotte a tre fondamentali, quando si considera che ogni insieme di persone presenta un inizio, un centro e una fine. In ogni città, quindi, si riscontra una struttura gerarchica tripartita: alcuni individui occupano posizioni di supremazia, come i nobili; altri sono al livello più basso, come la gente comune; altri ancora occupano una posizione intermedia, come la classe media [populus honorabilis].  
+Allo stesso modo, in ogni gerarchia angelica si riscontrano diverse categorie di angeli distinte in base alle loro funzioni e ai loro ruoli; tutta questa diversità può essere ridotta a tre elementi fondamentali: la vetta, il centro e la base. Ed è proprio per questo che Dionigi menziona tre ordini nella sua classificazione gerarchica (Coel. Hier. vi).
+
+Risposta all’Obiezione 1: L’ordine è di duplice natura. Da un lato, viene inteso come un insieme che comprende in sé diversi gradi; in questo senso, una gerarchia viene definita ordine. Dall’altro lato, un singolo grado può essere considerato ordine; in questo caso, i vari gradi all’interno di una stessa gerarchia vengono anch’essi definiti ordini.
+
+Risposta all’Obiezione 2: Tutte le cose sono possedute in comune dalla società angelica; tuttavia, alcune di esse vengono possedute in modo più perfetto da alcuni angeli rispetto ad altri. Ogni dono viene posseduto in modo più completo da colui che è in grado di trasmetterlo, piuttosto che da colui che non ne è capace; così come la cosa calda, che può trasmettere calore, è più perfetta di quella che non è in grado di rilasciarlo. E più completamente qualcuno è in grado di trasmettere un dono, maggiore è il rango che occupa, poiché possiede un livello più elevato di maestria e può insegnare scienze più avanzate. Attraverso questo paragone possiamo comprendere la diversità dei gradi o degli ordini tra gli angeli, in base alle loro diverse funzioni e azioni.
+
+Risposta all’Obiezione 3: L’angelo inferiore è superiore all’uomo più elevato della nostra gerarchia, secondo le parole: “Colui che è minore nel regno dei cieli è maggiore di lui” – cioè Giovanni Battista, di cui “non si è levato alcuno di maggior valore tra quelli nati da donna” (Matteo 11:11). Pertanto, l’angelo inferiore della gerarchia celeste può non solo purificare, ma anche illuminare e perfezionare, in modo più efficace rispetto alle ordini della nostra gerarchia. Quindi, le diverse classi dell’ordine celeste non si distinguono in base a queste funzioni, ma su base di altri aspetti diversi.
+
 <span class="atom-split" data-atom="040" data-title="Whether there are many angels in one order?" data-chapter="Whether there are many angels in one order?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that there are not many angels in one order. For it was shown above
@@ -1759,6 +2322,25 @@ the borders of white and black are more akin as regards their position than any 
 parts, but are less akin in quality; so two angels who are on the boundary of two orders are more
 akin in propinquity of nature than one of them is akin to the others of its own order, but less akin
 in their fitness for similar offices, which fitness, indeed, extends to a definite limit.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non ci siano molti angeli appartenenti allo stesso ordine. Poiché è stato dimostrato sopra (Q[50], A[4]) che tutti gli angeli sono disuguali tra loro, e i soggetti uguali appartengono necessariamente allo stesso ordine, ne consegue che non ci siano molti angeli appartenenti allo stesso ordine.
+
+Obiezione 2: Inoltre, è superfluo che una cosa venga compiuta da molti, quando può essere sufficientemente eseguita da uno solo. Ma ciò che appartiene al ruolo o all’ufficio di un angelo può essere adeguatamente svolto da un singolo angelo; tanto più ciò che compete al ruolo del sole può essere compiuto efficacemente dal sole stesso, poiché l’angelo è più perfetto di un corpo celeste. Pertanto, se le gerarchie angeliche sono distinte in base ai loro rispettivi uffici, come detto sopra (A[2]), allora sarebbe superfluo che diversi angeli facessero parte della stessa gerarchia.
+
+Obiezione 3: Inoltre, è stato detto in precedenza (OBIEZIONE 1) che tutti gli angeli sono disuguali tra loro. Pertanto, se diversi angeli (ad esempio, tre o quattro) appartengono allo stesso ordine, quello di grado più basso dell’ordine superiore sarà più simile a quello di grado più alto dell’ordine inferiore che a quello di grado più alto del proprio ordine; e quindi non sembra essere veramente dello stesso ordine con quest’ultimo quanto lo sia con il primo. Di conseguenza, non esistono molti angeli che appartengano allo stesso ordine.
+
+Al contrario, è scritto: “I Serafini si gridavano l’uno all’altro” (Isaia 6:3). Pertanto, esistono molti angeli appartenenti allo stesso ordine dei Serafini.
+
+Rispondo che colui che conosce qualcosa in modo perfetto è in grado di distinguere i suoi atti, le sue funzioni e la sua natura fino ai dettagli più minuti; al contrario, chi conosce qualcosa in modo imperfetto può distinguerla soltanto in modo generale, e solo riguardo a pochi aspetti. Pertanto, colui che conosce le cose naturali in modo imperfetto può distinguere i loro ordini in modo generale: colloca i corpi celesti in un certo ordine, gli esseri inanimati in un altro, le piante in un terzo e gli animali in un quarto; mentre colui che conosce le cose naturali in modo perfetto è in grado di distinguere distintamente gli ordini all’interno dei corpi celesti stessi, nonché all’interno di ciascuno degli altri ordini.  
+Ora, la nostra conoscenza degli angeli è imperfetta, come afferma Dionigi (Coel. Hier. vi); pertanto possiamo distinguere soltanto in modo generale le funzioni e gli ordini angelici, collocando molti angeli nello stesso ordine. Ma se conoscessimo perfettamente le funzioni e le distinzioni degli angeli, sapremmo con certezza che ciascun angelo ha la propria funzione e il proprio ordine tra tutte le cose, e questo ancora più chiaramente di quanto avvenga per qualsiasi stella, anche se ciò ci sia nascosto.
+
+Risposta all’Obiezione 1: Tutti gli angeli di uno stesso ordine sono, in qualche modo, uguali per via di una somiglianza comune che li colloca in quel determinato ordine; tuttavia, in senso assoluto, non lo sono. Per questo motivo Dionigi afferma (Coel. Hier. x) che, all’interno dello stesso ordine angelico, esistono angeli che occupano posizioni di primo piano, intermedi e ultime.
+
+Risposta all’Obiezione 2: Quella distinzione specifica tra ordini e ruoli, secondo cui ogni angelo ha il proprio compito e la propria posizione, ci è nascosta.
+
+Risposta all’Obiezione 3: Così come su una superficie che è parzialmente bianca e parzialmente nera, le due parti situate ai confini tra il bianco e il nero sono più simili per posizione di qualsiasi altra coppia di parti bianche, ma meno simili in termini di qualità; allo stesso modo, due angeli che si trovano ai confini tra due ordini diversi sono più simili per affinità naturale rispetto a quanto uno di loro possa essere simile agli altri dello stesso ordine, ma meno simili per la loro idoneità ad assumere incarichi simili, un’idoneità che, in realtà, presenta dei limiti precisi.
 
 <span class="atom-split" data-atom="041" data-title="Whether the distinction of hierarchies and orders comes from the angelic nature?" data-chapter="Whether the distinction of hierarchies and orders comes from the angelic nature?" data-kind="atom" data-srclang="en"></span>
 
@@ -1908,6 +2490,32 @@ they are called "Archangels," because they preside over the one order of the "An
 announcing greater things: and the "Principalities" are so called as presiding over all the heavenly
 "Virtues" who fulfil the Divine commands.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i nomi delle gerarchie angeliche non siano appropriati. Infatti, tutti gli spiriti celesti vengono chiamati angeli e le loro virtù sono definite virtù celesti. Tuttavia, i nomi comuni non dovrebbero essere attribuiti individualmente; pertanto, i nomi delle gerarchie angeliche e delle virtù sono inadeguati.
+
+Obiezione 2: Inoltre, solo a Dio spetta il titolo di Signore, come si legge nelle parole: “Riconoscete che il Signore è Dio” (Salmo 99:3). Pertanto, un certo ordine degli spiriti celesti non può essere propriamente chiamato “Dominazioni”.
+
+Obiezione 3: Inoltre, il nome “Dominazione” sembra implicare il concetto di governo, così come i nomi “Principati” e “Poteri”. Pertanto, questi tre termini non sembrano essere appropriatamente applicabili a tre diversi ordini sociali.
+
+Obiezione 4: Inoltre, gli arcangeli sono, per così dire, principi angeli; pertanto questo nome non dovrebbe essere attribuito ad alcun altro ordine se non a quello dei “Principati”.
+
+Obiezione 5: Inoltre, il nome “Serafini” deriva dall’ardore, che è legato alla carità; il nome “Cherubini”, invece, deriva dalla conoscenza. Ma la carità e la conoscenza sono doni comuni a tutti gli angeli. Pertanto, non dovrebbero essere considerati nomi specifici di ordini angelici particolari.
+
+Obiezione 6: Inoltre, i “Troni” sono seggi. Ma poiché Dio conosce e ama la creatura razionale, si dice che Egli “sieda” al suo interno. Pertanto non dovrebbe esistere alcun ordine di “Troni” diverso da quello dei “Cherubini” e dei “Serafini”. Quindi sembra che i ranghi degli angeli non siano denominati correttamente.
+
+Al contrario, è proprio l’autorità della Sacra [Scrittura](/concepts/revelation) a confermare che tali nomi siano effettivamente utilizzati nel testo sacro. Il nome “Serafini” si trova in Isaia 6:2; il nome “Cherubini” in Ezechiele 1 (cfr. anche 10:15,20); i termini “Troni”, “Dominazioni”, “Virtù”, “Poteri” e “Principati” vengono menzionati in Efesini 1:21; il nome “Arcangeli” compare nell’epistola canonica di San Giuda (9), mentre il termine “Angeli” si trova in molte altre parti della Scrittura.
+
+Rispondo che, come afferma Dionigi (Coel. Hier. vii), nei nomi delle ordini angelici è necessario osservare che il nome proprio di ciascun ordine esprime la sua specifica perfezione. Per comprendere quale sia questa perfezione, dobbiamo considerare che nelle cose spirituali essa può manifestarsi in tre modi: come proprietà intrinseca, come eccesso rispetto a quella stessa perfezione, o come partecipazione ad essa. Si dice che una cosa appartenga ad un’altra in quanto ne possieda la proprietà intrinseca, quando è adeguata e proporzionata alla sua natura; in quanto suo eccesso, quando un attributo è minore di quello a cui viene attribuito, ma lo possiede in modo eccezionale, come abbiamo già detto riguardo ai nomi attribuiti a Dio; in quanto sua partecipazione, quando un attributo è posseduto da qualcosa in modo parziale e non totale; così i santi vengono chiamati “dèi” per partecipazione alla divinità. Pertanto, se una cosa deve essere denominata con un nome che ne esprima la proprietà intrinseca, non dovrebbe essere chiamata in base a ciò di cui partecipa in modo imperfetto, né in base a ciò che possiede in eccesso, ma in base a ciò che le è propriamente proprio. Ad esempio, quando vogliamo denominare correttamente un uomo, dovremmo chiamarlo “sostanza razionale”, e non “sostanza intellettuale”, poiché quest’ultimo è il nome proprio di un angelo; l’intelligenza appartiene agli angeli come loro proprietà intrinseca, mentre all’uomo solo in modo parziale. Non lo chiameremmo nemmeno “sostanza sensibile”, poiché il senso rappresenta qualcosa di inferiore rispetto alle perfezioni umane e appartiene all’uomo in modo più elevato rispetto agli altri animali. Dunque, nelle ordini angelici tutte le perfezioni spirituali sono comuni a tutti gli angeli, ma sono più elevate negli angeli superiori che in quelli inferiori. Inoltre, poiché queste perfezioni presentano gradi diversi, la perfezione superiore appartiene all’ordine superiore come sua proprietà intrinseca, mentre nell’ordine inferiore essa esiste solo in forma di partecipazione; al contrario, la perfezione inferiore appartiene all’ordine inferiore come sua proprietà intrinseca, mentre nell’ordine superiore esiste soltanto come eccesso rispetto a quella stessa perfezione. È proprio per questo che l’ordine superiore prende il nome dalla propria perfezione più elevata. In questo modo Dionigi (Coel. Hier. vii) spiega i nomi degli ordini angelici in base alle perfezioni spirituali che essi rappresentano. Gregorio, invece, nell’interpretare questi nomi (Hom. xxxiv in Evang.), sembra considerare soprattutto le funzioni esterne svolte dagli angeli; egli afferma infatti che “gli angeli sono chiamati così perché annunciano le cose più semplici; gli arcangeli, quelle più importanti; con le loro virtù vengono operati miracoli; con i loro poteri vengono respinte le forze ostili; e i principati guidano gli stessi spiriti buoni”.
+
+Risposta all’Obiezione 1: “Angelo” significa “messaggero”. Pertanto, tutti gli spiriti celesti che rivelano le cose divine vengono chiamati “angeli”. Tuttavia, gli angeli di ordine superiore possiedono una certa eccellenza riguardo a questa funzione di comunicazione divina; è proprio da questa caratteristica che derivano i loro nomi specifici. Gli angeli di ordine inferiore, invece, non possiedono alcuna particolare eccellenza in questo senso; perciò vengono chiamati semplicemente “angeli”, come afferma Dionisio nel suo “Coelum Hierarchicum” (v). Si potrebbe anche dire che gli angeli di ordine inferiore siano specificamente denominati “angeli”, poiché sono quelli che ci comunicano direttamente le cose divine. “Virtù” può essere intesa in due modi: in senso generale, come il mezzo tra l’essenza e l’azione; in questo caso, tutti gli spiriti celesti vengono definiti “virtù celesti”, così come “essenze celesti”. In secondo luogo, “virtù” può indicare una certa forza o eccellenza morale; in questo senso, è il nome proprio degli angeli di ordine superiore. Come afferma ancora Dionisio nel suo stesso testo (viii), “il nome ‘virtù’ indica una forza virile e immutabile”: da un lato, riguardo alle azioni divine che sono proprie loro; dall’altro, riguardo alla capacità di ricevere doni divini. Ciò significa che gli angeli affrontano senza paura i compiti che Dio loro ha affidato, e questa capacità sembra riflettere una vera forza mentale.
+
+Risposta all’Obiezione 2: Come afferma Dionigi (Div. Nom. xii): “Il dominio viene attribuito a Dio in modo particolare, attraverso un elemento di eccesso; ma la Parola Divina conferisce il nome di ‘Signore’ ai principi celesti più illustri, per partecipazione: attraverso di loro gli angeli inferiori ricevono i doni divini.” Pertanto Dionigi afferma anche (Coel. Hier. viii) che il nome “Dominio” indica, in primo luogo, “una certa libertà, libera da condizioni servili e da sottomissione comune – come quella dei plebei – nonché da oppressioni tiranniche; una libertà che talvolta è stata riservata anche ai grandi”. In secondo luogo, esso indica “un’autorità rigida e inflessibile, che non si piega ad alcuna azione servile né a quelle compiute da coloro che sono sottomessi o oppressi dai tiranni”. Infine, il nome “Dominio” rappresenta “il desiderio e la partecipazione al vero dominio che appartiene a Dio”. Allo stesso modo, il nome di ogni ordine celeste indica la partecipazione a ciò che è proprio di Dio; ad esempio, il nome “Virtù” indica la partecipazione alla virtù divina. Lo stesso principio si applica alle altre categorie.
+
+Risposta all’Obiezione 3: I nomi “Dominazione”, “Potere” e “Principato” indicano aspetti diversi del governo. Il ruolo di un signore consiste esclusivamente nel prescrivere ciò che deve essere fatto; per questo Gregorio afferma (Homilia xxiv in Evangelia) che “alcune schiere di angeli, poiché altre sono sottomesse al loro comando, vengono chiamate ‘dominazioni’”. Il nome “Potere” indica un certo tipo di ordine: come dice l’Apostolo, “Chi resiste al potere resiste all’ordinamento di Dio” (Romani 13:2). Dionisio aggiunge (Coelum Hierarchicum viii) che il termine “Potere” designa un ordine sia nella ricezione delle cose divine, sia nelle azioni che i superiori compiono nei confronti dei inferiori, guidandoli verso ciò che è superiore. Pertanto, spetta all’ordine del “Potere” regolare ciò che deve essere fatto da coloro che ne sono sottomessi; mentre “presiedere”, come dice Gregorio (Homilia xxiv in Evangelia), significa “essere il primo tra gli altri”, nel senso di essere il primo ad attuare ciò che è stato ordinato. Anche Dionisio afferma (Coelum Hierarchicum ix) che il nome “Principato” indica “colui che guida in un ordine sacro”; coloro che guidano gli altri, essendo i primi tra loro, vengono giustamente chiamati “principi”, come si legge nel Salmo 67:26: “I principi andavano avanti insieme ai cantori”.
+
+Risposta all’Obiezione 4: Gli “Arcangeli”, secondo Dionigi (Coel. Hier. IX), si trovano tra le “Potestà” e gli “Angeli”. Un intermediario, rispetto a uno degli estremi, sembra simile all’altro, poiché partecipa alla natura di entrambi; così il tepido appare freddo rispetto al caldo, e il caldo rispetto al freddo. Pertanto gli “Arcangeli” vengono chiamati “principi degli angeli”, poiché sono principi rispetto agli “Angeli” e angeli rispetto alle “Potestà”. Ma secondo Gregorio (Hom. xxiv in Ev.), vengono definiti “Arcangeli” perché presiedono all’ordine degli “Angeli”; in qualche modo, annunciano cose più grandi; le “Potestà”, invece, sono chiamate così perché presiedono a tutte le “Virtù” celesti che adempiono ai comandi divini.
+
 <span class="atom-split" data-atom="043" data-title="Whether the orders of the angels are properly named? (2/2)" data-chapter="Whether the orders of the angels are properly named?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 5: The name "Seraphim" does not come from charity only, but from the
@@ -1942,6 +2550,13 @@ firm by God. Thirdly, because the seat receives him who sits thereon, and he can
 thereupon; and so the angels receive God in themselves, and in a certain way bear Him to the
 inferior creatures. Fourthly, because in its shape, a seat is open on one side to receive the sitter;
 and thus are the angels promptly open to receive God and to serve Him.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 5: Il nome “Serafini” non deriva soltanto dalla carità, ma dall’eccesso di carità, espresso dalle parole “ardore” o “fuoco”. Pertanto Dionigi (Coel. Hier. vii) spiega il nome “Serafini” in base alle proprietà del fuoco, che contiene un eccesso di calore. Nel fuoco possiamo considerare tre aspetti: innanzitutto, il movimento ascendente e continuo, che simboleggia il loro slancio inarrestabile verso Dio; in secondo luogo, la forza attiva rappresentata dal calore, che nel fuoco non è semplicemente presente, ma esiste con una certa intensità, essendo estremamente penetrante e capace di raggiungere anche le cose più piccole, con un fervore sovrabbondante; questo aspetto simboleggia l’azione di questi angeli, che esercitano una forte influenza su coloro che sono soggetti a loro, suscitando in loro lo stesso fervore e purificandoli completamente con il loro calore. Infine, nel fuoco si trova anche la qualità della chiarezza o della luminosità; ciò indica che questi angeli possiedono una luce inestinguibile e che sono in grado di illuminare perfettamente gli altri.  
+Allo stesso modo, il nome “Cherubini” deriva da un certo eccesso di conoscenza; per questo motivo viene interpretato come “pienezza di conoscenza”. Dionigi (Coel. Hier. vii) ne spiega i quattro aspetti principali: la visione perfetta di Dio, l’assorbimento completo della Luce Divina, la contemplazione, da parte loro, della [bellezza](/concepts/beauty) dell’ordine divino, e il fatto che, possedendo questa conoscenza in modo totale, la riversano abbondantemente sugli altri.
+
+Risposta all’Obiezione 6: L’ordine dei “Troni” è superiore agli ordini inferiori poiché possiede una conoscenza immediata dei modelli delle opere divine; i “Cherubini”, invece, hanno la superiorità nella conoscenza, mentre i “Serafini” quella nell’ardore. Sebbene questi due attributi eccellenti includano anche il terzo, il dono proprio dei “Troni” non comprende gli altri due; pertanto l’ordine dei “Troni” si distingue da quello dei “Cherubini” e dei “Serafini”. Infatti, è una regola comune in tutte le cose che la superiorità di ciò che è inferiore sia contenuta in ciò che è superiore, ma non il contrario. Tuttavia Dionigi (Coel. Hier. vii) spiega il nome “Troni” in relazione a sedili materiali, e in questo contesto si possono considerare quattro aspetti: primo, la posizione del sedile stesso, poiché i sedili sono elevati rispetto al suolo; gli angeli chiamati “Troni” sono elevati alla conoscenza immediata dei modelli delle cose in Dio. Secondo, nei sedili materiali si manifesta forza, poiché una persona vi siede saldamente; qui, invece, è l’angelo stesso a essere reso forte da Dio. Terzo, il sedile accoglie colui che vi siede e lo sostiene; così gli angeli accolgono Dio in sé stessi e, in un certo senso, Lo portano alle creature inferiori. Quarto, nella loro forma, i sedili sono aperti su un lato per accogliere chi vi siede; allo stesso modo, gli angeli sono pronti ad accogliere Dio e a servirLo.
 
 <span class="atom-split" data-atom="044" data-title="Whether the grades of the orders are properly assigned? (1/2)" data-chapter="Whether the grades of the orders are properly assigned?" data-kind="atom" data-srclang="en"></span>
 
@@ -2049,6 +2664,26 @@ and relation to God.
 Reply to Objection 2: The nearness to God designated by the name of the "Thrones," belongs
 also to the "Cherubim" and "Seraphim," and in a more excellent way, as above explained.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i gradi delle varie gerarchie non siano stati assegnati correttamente. Infatti, la gerarchia dei prelati è quella di più alto rango. Tuttavia, i nomi stessi di “Dominazioni”, “Principati” e “Poteri” implicano già un ruolo prelatico; pertanto queste gerarchie non dovrebbero essere considerate supreme.
+
+Obiezione 2: Inoltre, più un ordine è vicino a Dio, più alto è. Ma l’ordine dei “Troni” è il più vicino a Dio; infatti nulla è più vicino a colui che vi siede di quel seggio stesso. Pertanto, l’ordine dei “Troni” è il più alto.
+
+Obiezione 3: Inoltre, la conoscenza precede l’amore, e l’intelletto è superiore alla volontà. Pertanto, l’ordine dei “Cherubini” sembra essere più elevato di quello dei “Serafini”.
+
+Obiezione 4: Inoltre, Gregorio (Hom. xxiv in Evang.) colloca le “Principati” al di sopra delle “Potenze”. Pertanto, queste non sono posizionate immediatamente dopo gli Arcangeli, come afferma Dionigi (Coel. Hier. ix).
+
+Al contrario, Dionigi (Coel. Hier. vii) colloca nella gerarchia più elevata i “Serafini” al primo posto, i “Cherubini” al secondo, e gli “Troni” all’ultimo; nella gerarchia intermedia pone i “Dominazioni” al primo posto, le “Virtù” al centro, e le “Potenze” all’ultimo; nella gerarchia più bassa colloca prima i “Principati”, poi gli “Arcangeli”, e infine gli “Angeli”.
+
+Rispondo che i gradi delle ordini angelici sono stati definiti da Gregorio (Homilia xxiv in Evangeli) e da Dionigi (Coelum Hierarchicum vii), i quali concordano su tutti gli aspetti tranne che per quanto riguarda le “Principati” e le “Virtù”. Dionigi colloca le “Virtù” al di sotto delle “Dominazioni” e al di sopra delle “Potenze”; le “Principati”, invece, al di sotto delle “Potenze” e al di sopra degli “Arcangeli”. Gregorio, però, posiziona le “Principati” tra le “Dominazioni” e le “Potenze”, mentre le “Virtù” tra le “Potenze” e gli “Arcangeli”. Ognuna di queste classificazioni può trovare fondamento nelle parole dell’Apostolo, il quale (Efesini 1:20-21) elenca gli ordini angelici, iniziando dal più basso e affermando che “Dio lo ha posto alla sua destra nei cieli, al di sopra di ogni Principato, Potenza, Virtù e Dominazione”. Qui le “Virtù” sono collocate tra le “Potenze” e le “Dominazioni”, secondo la classificazione di Dionigi; tuttavia, scrivendo ai Colossesi (1:16), enumerando gli stessi ordini partendo dal più alto, afferma: “Che si tratti di Troni, Dominazioni, Principati o Potenze, tutto è stato creato da Lui e in Lui”. Qui le “Principati” sono collocate tra le “Dominazioni” e le “Potenze”, proprio come fa anche Gregorio. Esaminiamo ora il motivo della classificazione di Dionigi: come detto sopra, la gerarchia più alta riflette le idee delle cose in Dio stesso; quella intermedia considera le cause universali; quella finale applica queste cause agli effetti concreti. Poiché Dio è non solo lo scopo delle attività angeliche, ma anche di tutta la creazione, spetta alla prima gerarchia considerare lo scopo finale; alla seconda, disporre in modo universale ciò che deve essere realizzato; alla terza, applicare questa disposizione agli effetti concreti. Pertanto, Dionigi, basandosi sul significato dei nomi degli ordini angelici, colloca nella prima gerarchia quelli i cui nomi indicano una relazione diretta con Dio: “Serafini”, “Cherubini” e “Troni”; nella seconda gerarchia quelli i cui nomi simboleggiano un certo tipo di governo o disposizione comune: “Dominazioni”, “Virtù” e “Potenze”; nella terza gerarchia, infine, quelli i cui nomi indicano l’esecuzione concreta delle funzioni angeliche: “Principati”, “Angeli” e “Arcangeli”. Per quanto riguarda lo scopo finale, si possono considerare tre aspetti: innanzitutto, conoscere tale scopo; in secondo luogo, acquisire una comprensione perfetta di esso; infine, rivolgere la propria intenzione verso quel fine. Il secondo aspetto rappresenta un’aggiunta al primo, mentre il terzo ne è un’estensione sia del primo che del secondo. Poiché Dio è lo scopo delle creature – proprio come un comandante è lo scopo di un esercito, come afferma il Filosofo (Metafisica xii, Didaskalia xi, 10) – si può osservare una struttura simile anche nelle questioni umane. Esistono infatti persone che godono della dignità di poter.
+L’approccio al re o al leader avviene con familiarità; altri, inoltre, hanno il privilegio di conoscere i suoi segreti; e ci sono ancora coloro che, al di sopra di tutti, stanno sempre al suo fianco, in una stretta unione. Secondo questa analogia, possiamo comprendere la struttura delle prime gerarchie celesti: i “Troni” sono infatti destinati ad essere i riceventi diretti delle manifestazioni divine, nel senso di conoscere immediatamente le realtà nascoste in Dio stesso; questo caratterizza l’intera prima gerarchia. I “Cherubini” conoscono in modo supremo i segreti divini; i “Serafini”, invece, eccellono nella massima espressione di questa unione, essendo uniti direttamente a Dio stesso; e tutta questa struttura può essere definita “Troni”, poiché tutti gli angeli sono chiamati così in base alla loro funzione comune. Per quanto riguarda la governance celeste, essa comprende tre aspetti: il primo consiste nell’indicare ciò che deve essere fatto, e questo compito spetta alle “Dominazioni”; il secondo è quello di conferire la capacità di attuare tali indicazioni, e questo ruolo appartiene alle “Virtù”; il terzo consiste nell’organizzare il modo in cui gli altri possano eseguire ciò che è stato comandato, e questo compito rientra nelle “Potenze”. L’esecuzione dei compiti angelici si manifesta nella proclamazione delle verità divine. Ogni azione richiede infatti iniziatori e guide; così come nel canto ci sono i direttori, e in guerra i generali e gli ufficiali: questi ruoli appartengono alle “Principalità”. Alcuni angeli semplicemente eseguono ciò che è stato ordinato; altri occupano una posizione intermedia, ed ecco perché vengono chiamati “Arcangeli”. Questa spiegazione della struttura delle gerarchie celesti è del tutto ragionevole. Poiché il più alto livello di una gerarchia inferiore ha sempre un legame con il più basso livello di una gerarchia superiore, così come gli animali inferiori sono vicini alle piante. La prima gerarchia celeste è quella delle Persone Divine, che culmina nello Spirito Santo, l’Amore stesso; la parte inferiore di questa gerarchia è rappresentata dai “Troni”, i quali, secondo Gregorio (Hom. xxiv in Ev.), sono chiamati così perché attraverso di loro Dio compie i suoi giudizi, poiché vengono illuminati da Lui in modo adatto all’illuminazione immediata della seconda gerarchia, quella dei “Cherubini” e dei “Serafini”. La gerarchia delle “Potenze” è simile a quella delle “Principalità”: poiché spetta alle “Potenze” imporre ordine a coloro che sono soggetti a loro, questo ruolo è chiaramente evidenziato nel nome stesso di “Principalità”, poiché queste guide governano popoli e regni, occupando quindi una posizione fondamentale nell’esecuzione dei compiti divini. “Il bene di una nazione è infatti qualcosa di molto divino, ”
+“Il bene di un uomo” (Etica, i, 2); ed è per questo che si scrive: “Il principe del regno dei Persiani mi resistette” (Daniele, 10:13). Anche l’ordine delle gerarchie menzionato da Gregorio appare ragionevole. Poiché le “Dominazioni” stabiliscono e organizzano ciò che appartiene alle funzioni divine, anche le gerarchie sottoposte a esse sono disposte in base alla struttura stessa di quelle funzioni divine. Come afferma però [Agostino](/figures/augustine) (De Trinitate, iii), “I corpi sono governati secondo un certo ordine: i inferiori da quelli superiori; e tutti da quella creatura spirituale che rappresenta il principio supremo; lo spirito malvagio, invece, è soggetto allo spirito buono”. Pertanto, la prima gerarchia dopo le “Dominazioni” è quella dei “Principati”, i quali governano anche gli spiriti buoni; poi seguono le “Potenze”, che costringono gli spiriti malvagi, proprio come i malviventi sono soggetti alle forze terrene, come si legge in (Romani, 13:3-4). Dopo queste vengono le “Virtù”, che hanno il potere di influenzare la natura corporea attraverso i miracoli; infine ci sono gli “Angeli” e gli “Arcangeli”, i quali annunciano agli uomini eventi grandi, al di là della ragione umana, o cose semplici, entro i limiti della comprensione umana.
+
+Risposta all’Obiezione 1: La sottomissione degli angeli a Dio è maggiore rispetto al loro ruolo di governare le cose inferiori; e quest’ultimo deriva dalla prima. Pertanto, gli ordini che prendono il loro nome dal fatto di governare non sono i primi né i più elevati; bensì quelli che derivano dalla loro vicinanza e relazione con Dio.
+
+Risposta all’Obiezione 2: La vicinanza a Dio, indicata dal nome dei “Troni”, appartiene anche ai “Cerubini” e ai “Serafini”, e in modo ancora più eccellente, come è stato spiegato sopra.
+
 <span class="atom-split" data-atom="045" data-title="Whether the grades of the orders are properly assigned? (2/2)" data-chapter="Whether the grades of the orders are properly assigned?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: As above explained (Q[27], A[3]), knowledge takes place accordingly
@@ -2065,6 +2700,12 @@ spirits in the execution of the Divine ministrations. Again, according to Gregor
 seem to be the same as "Principalities" of Dionysius. For to work miracles holds the first place in
 the Divine ministrations; since thereby the way is prepared for the announcements of the
 "Archangels" and the "Angels."
+
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 3: Come spiegato sopra (Q[27], A[3]), la conoscenza ha luogo nel momento in cui la cosa conosciuta è presente nel conoscitore; mentre l’amore ha luogo quando l’amante si unisce all’oggetto amato. Ora, le cose superiori sono di per sé più nobili delle cose inferiori; al contrario, le cose inferiori, all’interno delle cose superiori, assumono una forma ancora più nobile rispetto a quella che hanno in se stesse. Pertanto, conoscere le cose inferiori è preferibile ad amarle; mentre amare le cose superiori, soprattutto Dio, è ancora più prezioso che conoscerle.
+
+Risposta all’Obiezione 4: Un confronto attento dimostrerà che, nella realtà, esistono poche o nessuna differenza tra le concezioni delle “Principali Potenze” secondo Dionigi e quelle di Gregorio. Infatti, Gregorio interpreta il termine “Principali Potenze” nel senso del loro ruolo di “guida degli spiriti buoni”, concetto che coincide anche con l’idea delle “Virtù”: entrambi questi termini indicano infatti una sorta di forza capace di dare efficacia agli spiriti inferiori nell’esecuzione dei compiti divini. Inoltre, secondo Gregorio, le “Virtù” sembrano essere sinonimi delle “Principali Potenze” di Dionigi; infatti, compiere miracoli occupa il primo posto tra questi compiti divini, poiché proprio attraverso di essi si prepara il terreno per le rivelazioni degli “Arcangeli” e degli “Angeli”.
 
 <span class="atom-split" data-atom="046" data-title="Whether the orders will outlast the Day of Judgment?" data-chapter="Whether the orders will outlast the Day of Judgment?" data-kind="atom" data-srclang="en"></span>
 
@@ -2120,6 +2761,24 @@ of some things, still this will not prevent their being enlightened by the super
 Reply to Objection 3: Although after the Day of Judgment men will not be led any more to
 salvation by the ministry of the angels, still those who are already saved will be enlightened through
 the angelic ministry.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli ordini degli angeli non sopravvivano al Giorno del Giudizio. Poiché l’Apostolo dice (1 Corinzi 15:24) che Cristo “annulerà ogni potere e dominio quando avrà consegnato il regno a Dio e al Padre”, e ciò avverrà nella consumazione finale. Pertanto, per lo stesso motivo, anche tutti gli altri ordini saranno aboliti in quel momento.
+
+Obiezione 2: Inoltre, il compito delle ordini angeliache consiste nel purificare, illuminare e perfezionare. Ma dopo il Giorno del Giudizio, nessun angelo potrà più purificare, illuminare o perfezionare un altro, poiché questi non progrediranno più nella conoscenza. Pertanto, le ordine angeliache rimarrebbero inutili.
+
+Obiezione 3: Inoltre, l’Apostolo parla degli angeli (Ebrei 1:14) dicendo che “sono tutti spiriti ministeriali, inviati a servire coloro che riceveranno l’eredità della salvezza”; da ciò si evince che le funzioni angeliche hanno lo scopo di guidare gli uomini verso la salvezza. Tuttavia, tutti i prescelti sono in cerca della salvezza fino al Giorno del Giudizio. Pertanto, le funzioni e gli ordini angelici non sopravviveranno al Giorno del Giudizio.
+
+Al contrario, è scritto (Giudici 5:20): “Le stelle rimangono nelle loro posizioni e nei loro percorsi”, il che si riferisce agli angeli. Pertanto, gli angeli rimarranno per sempre nelle loro posizioni stabilite.
+
+Rispondo che, negli ordini angelici, possiamo considerare due aspetti: la distinzione dei gradi e l’esecuzione delle loro funzioni. La distinzione dei gradi tra gli angeli avviene in base alle differenze di grazia e natura, come spiegato in precedenza (A[4]); queste differenze rimarranno sempre presenti negli angeli, poiché non possono essere eliminate se non attraverso una loro corruzione. Anche la differenza di gloria continuerà ad esistere, in base alle diverse merite acquisite. Per quanto riguarda l’esecuzione delle funzioni angeliche, essa continuerà in parte anche dopo il Giorno del Giudizio e in parte cesserà; cesserà nella misura in cui tali funzioni mirano a guidare gli altri verso il loro fine ultimo, ma rimarranno nella misura in cui contribuiscono al raggiungimento di tale scopo. Allo stesso modo, i diversi ranghi dei soldati hanno compiti diversi da svolgere in battaglia e nel trionfo.
+
+Risposta all’Obiezione 1: I principati e le potenze termineranno nella loro funzione di guidare gli altri verso la loro destinazione finale; infatti, quando tale destinazione sarà raggiunta, non sarà più necessario tendere verso di essa. Ciò è chiaro dalle parole dell’Apostolo: “Quando avrà consegnato il regno di Dio e del Padre”, cioè quando avrà guidato i fedeli alla fruizione stessa di Dio.
+
+Risposta all’Obiezione 2: Le azioni degli angeli nei confronti degli altri angeli devono essere considerate in base a una somiglianza con le nostre stesse azioni intellettuali. In noi stessi troviamo molte azioni intellettuali che seguono l’ordine di causa ed effetto; ad esempio, quando giungiamo gradualmente a una conclusione attraverso numerosi passaggi intermedi. È evidente che la conoscenza di una conclusione dipende da tutti i passaggi intermedi precedenti, non solo nel momento dell’acquisizione della conoscenza stessa, ma anche per il suo mantenimento. Una prova di ciò è che quando qualcuno dimentica uno dei passaggi intermedi, può avere un’opinione o una credenza riguardo alla conclusione, ma non vera conoscenza, poiché ignora l’ordine delle cause. Pertanto, poiché gli angeli inferiori conoscono i modelli delle opere divine grazie alla luce degli angeli superiori, la loro conoscenza dipende da questa luce sia per l’acquisizione che per il mantenimento delle informazioni possedute. Quindi, anche se dopo il Giudizio gli angeli inferiori non progrediranno nella conoscenza di alcune cose, ciò non impedirà loro di essere illuminati dagli angeli superiori.
+
+Risposta all’Obiezione 3: Anche se, dopo il Giorno del Giudizio, gli uomini non saranno più guidati verso la salvezza attraverso l’intervento degli angeli, coloro che sono già stati salvati riceveranno comunque l’illuminazione grazie al loro intervento.
 
 <span class="atom-split" data-atom="047" data-title="Whether men are taken up into the angelic orders?" data-chapter="Whether men are taken up into the angelic orders?" data-kind="atom" data-srclang="en"></span>
 
@@ -2182,6 +2841,14 @@ inquiry:
 (3) Whether one enlightens another?
 (4) Whether they are subject to the precedence of the good angels?
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ora consideriamo l’ordine in cui sono disposti gli “angeli malvagi”; su questo argomento vi sono quattro punti da indagare:  
+(1) Esistono ordini tra i demoni?  
+(2) Tra di loro c’è una gerarchia?  
+(3) Uno di loro illumina o guida gli altri?  
+(4) Sono soggetti alla supremazia degli “angeli buoni”?
+
 <span class="atom-split" data-atom="049" data-title="Whether there are orders among the demons?" data-chapter="Whether there are orders among the demons?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there are no orders among the demons. For order belongs to
@@ -2222,6 +2889,24 @@ a sacred thing, because they abuse their nature for evil.
 Reply to Objection 3: The name "Seraphim" is given from the ardor of charity; and the name
 "Thrones" from the Divine indwelling; and the name "Dominations" imports a certain liberty; all
 of which are opposed to sin; and therefore these names are not given to the angels who sinned.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non esistano ordini tra i demoni. Infatti, l’ordine appartiene al bene, così come la modalità e la specie, come afferma [Agostino](/figures/augustine) nel De Nat. Boni iii; al contrario, il disordine appartiene al male. Ma nei angeli buoni non c’è nulla di disordinato. Pertanto, negli angeli malvagi non esistono ordini.
+
+Obiezione 2: Inoltre, gli ordini angeliici sono organizzati secondo una gerarchia. Ma i demoni non seguono alcuna gerarchia, poiché questa viene definita come un “principato sacro”; essendo privi di ogni forma di santità, tra i demoni non esistono quindi ordini gerarchici.
+
+Obiezione 3: Inoltre, i demoni provenivano da ciascuno degli ordini angelici, come comunemente si ritiene. Pertanto, se alcuni demoni vengono considerati appartenenti a un certo ordine, poiché sono “caduti” da quel medesimo ordine, sembrerebbe necessario attribuire loro i [nomi](/positions/nominalism) di ciascuno di quegli ordini. Tuttavia non si riscontra mai che vengano chiamati “Serafini”, “Troni” o “Dominazioni”. Pertanto, per lo stesso motivo, non dovrebbero essere inseriti in alcun altro ordine angelico.
+
+Al contrario, l’Apostolo dice (Efesini 6:12): “La nostra lotta, è contro i principati e le potenze, contro i dominatori di questo mondo oscuro”.
+
+Rispondo che, come spiegato sopra (Q[108], AA[4],7,8), l’ordine degli angeli viene considerato sia in base al grado della loro natura sia in base a quello della grazia divina. La grazia, infatti, presenta due stati: lo stato imperfetto, legato ai meriti, e lo stato perfetto, caratterizzato dalla gloria piena. Se quindi consideriamo gli ordini angelici alla luce della perfezione della gloria, i demoni non fanno parte di tali ordini, né lo sono mai stati. Tuttavia, se li consideriamo in relazione alla grazia imperfetta, allora i demoni appartenevano un tempo agli ordini angeliici, ma ne sono caduti, come detto sopra (Q[62], A[3]), poiché tutti gli angeli furono creati nella grazia. Ma se li consideriamo in base alla loro natura, allora essi continuano a far parte di quegli ordini, poiché non hanno perso i doni naturali che possiedono; come afferma Dionigi (Div. Nom. iv).
+
+Risposta all’Obiezione 1: Il bene può esistere senza il male; mentre il male non può esistere senza il bene (Q[49], A[3]); pertanto anche tra i demoni esiste un ordine, poiché possiedono una natura “buona”.
+
+Risposta all’Obiezione 2: Se consideriamo l’ordinamento dei demoni da parte di Dio che li comanda, esso è sacro; infatti Egli utilizza i demoni a proprio vantaggio. Tuttavia, se consideriamo tale ordinamento dal punto di vista della volontà stessa dei demoni, non si tratta di un atto sacro, poiché essi abusano della propria natura per compiere il male.
+
+Risposta all’Obiezione 3: Il nome “Serafini” deriva dall’intensità della carità; il nome “Troni” indica la presenza divina all’interno di tali angeli; il nome “Dominazioni” suggerisce una certa libertà nell’esercizio delle loro funzioni; tutte queste caratteristiche sono in contrasto con il peccato; pertanto, questi nomi non vengono attribuiti agli angeli che hanno peccato.
 
 <span class="atom-split" data-atom="050" data-title="Whether among the demons there is precedence?" data-chapter="Whether among the demons there is precedence?" data-kind="atom" data-srclang="en"></span>
 
@@ -2267,6 +2952,24 @@ subject to the superior, is not for the benefit of the superior, but rather to t
 since to do evil belongs in a pre-eminent degree to unhappiness, it follows that to preside in evil is
 to be more unhappy.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non esista alcuna gerarchia tra i demoni. Infatti, ogni gerarchia si basa su un qualche ordine di giustizia; ma i demoni sono completamente caduti dalla giustizia. Pertanto, non esiste alcuna gerarchia tra loro.
+
+Obiezione 2: Inoltre, non esiste alcun precedente in cui obbedienza e sottomissione non siano presenti. Ma queste due cose non possono esistere senza armonia; una tale armonia, secondo il testo, non si riscontra tra i demoni, poiché “tra gli orgogliosi ci sono sempre contese” (Proverbi 13:10). Pertanto, non esiste alcun precedente relativo all’esistenza di obbedienza e sottomissione tra i demoni.
+
+Obiezione 3: Se esiste una gerarchia tra di loro, essa deve basarsi o sulla natura stessa, o sui loro peccati o sulle loro punizioni. Ma non può basarsi sulla loro natura, poiché sottomissione e servizio non derivano dalla natura, bensì da peccati successivi; né può basarsi sui loro peccati o punizioni, perché in tal caso i demoni più colpevoli sarebbero soggetti a quelli meno colpevoli. Pertanto, non esiste alcuna gerarchia tra i demoni.
+
+Al contrario, nel versetto 1 Corinzi 15:24 si legge: “Finché durerà il mondo, gli angeli governeranno sugli angeli, gli uomini sugli uomini e i demoni sui demoni”.
+
+Rispondo che, poiché l’azione segue la natura di una cosa, e poiché le nature sono subordinate l’una all’altra, anche le azioni devono essere subordinate tra loro. Ciò vale soprattutto per le cose corporee: poiché i corpi inferiori, secondo l’ordine naturale, sono posti al di sotto dei corpi celesti, le loro azioni e i loro movimenti sono soggetti a quelli dei corpi celesti. È evidente, dunque, che i demoni, secondo l’ordine naturale, sono soggetti ad altri; pertanto le loro azioni sono subordinate a quelle di coloro che stanno al di sopra di loro. Con “precedenza” intendiamo proprio questo: che l’azione del sottoposto debba essere subordinata all’azione di colui che ha autorità su di esso. Quindi, la stessa natura dei demoni richiede che esista un’autorità tra di loro. Ciò concorda anche con la saggezza divina, che non lascia nulla fuori dall’ordine, e che “raggiunge da un’estremità all’altra con potenza e dispone tutte le cose in modo armonioso” (Sapienza 8:1).
+
+Risposta all’Obiezione 1: L’autorità dei demoni non si fonda sulla loro giustizia, ma sulla giustizia di Dio che ordina tutte le cose.
+
+Risposta all’Obiezione 2: L’armonia tra i demoni, attraverso la quale alcuni obbediscono ad altri, non deriva da amicizie reciproche, ma dalla loro comune malvagità: essi odiano gli uomini e lottano contro la giustizia di Dio. Infatti, è proprio dei malvagi unirsi e sottomettersi a coloro che ritengono più forti, al fine di poter compiere le proprie azioni malvagie.
+
+Risposta all’Obiezione 3: I demoni non sono uguali per natura; pertanto tra di loro esiste una precedenza naturale, cosa che non vale per gli uomini, i quali sono naturalmente uguali. Il fatto che quelli inferiori siano soggetti a quelli superiori non rappresenta un vantaggio per questi ultimi, ma piuttosto un svantaggio; poiché compiere il male è in grado di causare una grande sofferenza, ne consegue che dominare nel male significa essere ancora più infelici.
+
 <span class="atom-split" data-atom="051" data-title="Whether there is enlightenment in the demons?" data-chapter="Whether there is enlightenment in the demons?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [enlightenment](/schools/enlightenment) is in the demons. For enlightenment means the
@@ -2297,6 +3000,20 @@ manifestation of the truth either in the angels, or in the demons, because, as a
 A[2]; Q[58], A[2]; Q[79], A[2]), they know from the first all that belongs to their natural knowledge.
 So the greater fulness of natural light in the superior demons does not prove that they can enlighten
 others.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’[illuminazione](/schools/enlightenment) esista anche nei demoni. Infatti, illuminazione significa la manifestazione della verità. Un demone può quindi rivelare la verità a un altro, poiché i demoni più evoluti possiedono una conoscenza naturale superiore. Pertanto, i demoni più potenti possono illuminare quelli meno evoluti.
+
+Obiezione 2: Inoltre, un essere ricco di luce può illuminare un essere privo di luce, proprio come il sole illumina la luna. Ma i demoni superiori possiedono in misura maggiore questa capacità di partecipare alla luce naturale; pertanto sembra che i demoni superiori possano illuminare quelli inferiori.
+
+Al contrario, l’Illuminismo non è privo di elementi capaci di purificare e perfezionare, come già affermato sopra (Q[106], A[1]). Tuttavia, il compito della purificazione non spetta ai demoni, secondo le parole: “Cosa può essere reso puro da ciò che è impuro?” (Ecclesiaste 34:4). Pertanto, nemmeno loro sono in grado di illuminare.
+
+Rispondo che, propriamente parlando, non può esserci alcuna illuminazione tra i demoni. Poiché, come spiegato in precedenza (Q[107], A[2]), l’illuminazione propriamente detta è la manifestazione della verità in relazione a Dio, Colui che illumina ogni intelletto. Un altro tipo di manifestazione della verità è il linguaggio, quando un angelo comunica i propri concetti a un altro. Ora, la perversità dei demoni non li spinge ad orientare gli altri verso Dio, ma piuttosto a allontanarli dall’ordine divino; pertanto, un demone non illumina un altro; tuttavia può comunicare i propri concetti mentali ad un altro attraverso il linguaggio.
+
+Risposta all’Obiezione 1: Non ogni forma di manifestazione della verità è illuminazione; solo quella descritta sopra lo è.
+
+Risposta all’Obiezione 2: Secondo quanto rientra nella conoscenza naturale, non esiste alcuna manifestazione necessaria della verità né negli angeli né nei demoni, poiché, come spiegato in precedenza (Q[55], A[2]; Q[58], A[2]; Q[79], A[2]), essi conoscono fin dall’inizio tutto ciò che rientra nella loro conoscenza naturale. Pertanto, la maggiore ricchezza della luce naturale nei demoni superiori non dimostra affatto che siano in grado di illuminare gli altri.
 
 <span class="atom-split" data-atom="052" data-title="Whether the good angels have precedence over the bad angels?" data-chapter="Whether the good angels have precedence over the bad angels?" data-kind="atom" data-srclang="en"></span>
 
@@ -2342,6 +3059,24 @@ angels cleave, is stronger than the natural power of the angels. Hence likewise 
 spiritual man judgeth all things" (1 Cor. 2:15), and the Philosopher says (Ethic. iii, 4; x, 5) that "the
 virtuous man is the rule and measure of all human acts."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli buoni non abbiano alcun vantaggio sugli angeli cattivi. Infatti, il primato degli angeli è strettamente legato alla [illuminazione](/schools/enlightenment). Ma gli angeli cattivi, essendo rappresentanti dell’oscurità, non vengono illuminati dagli angeli buoni. Pertanto, gli angeli buoni non governano sugli angeli cattivi.
+
+Obiezione 2: Inoltre, i superiori sono responsabili, in termini di negligenza, per le azioni malvagie dei loro sottoposti. Ma i demoni compiono molte azioni malvagie; pertanto, se sono soggetti agli angeli buoni, sembrerebbe che la negligenza debba essere attribuita agli angeli buoni, il che è inaccettabile.
+
+Obiezione 3: Inoltre, la precedenza degli angeli deriva dall’ordine naturale, come spiegato sopra (A[2]). Ma se i demoni fossero caduti da ogni ordine, come comunemente si dice, molti di loro sarebbero superiori a molti angeli buoni nell’ordine naturale. Pertanto, gli angeli buoni non avrebbero alcuna precedenza su tutti i demoni cattivi.
+
+Al contrario, [Agostino](/figures/augustine) afferma (De Trin. iii) che “lo spirito della vita traditore e peccaminoso è governato da uno spirito della vita razionale, pio e giusto”; e Gregorio dice (Hom. xxxiv) che “le Potenze sono gli angeli a cui sono sottoposte le forze ostili”.
+
+Rispondo che l’intero ordine di precedenza esiste innanzitutto e originariamente in Dio; esso viene condiviso dalle creature in misura in cui queste sono più vicine a Dio. Infatti, quelle creature che sono più perfette e più vicine a Dio possiedono il potere di agire sulle altre. La massima perfezione, quella che le avvicina maggiormente a Dio, appartiene alle creature che godono della presenza di Dio, come gli angeli santi; dei demoni, invece, questa perfezione è priva; pertanto gli angeli buoni hanno la precedenza sugli angeli cattivi, e questi ultimi sono governati da loro.
+
+Risposta all’Obiezione 1: Molte cose riguardanti i misteri divini vengono rivelate dagli angeli santi agli angeli malvagi, ogni volta che la giustizia divina richiede ai demoni di compiere qualcosa al fine di punire il male o di mettere alla prova il bene; proprio come, nelle questioni umane, gli assistenti del giudice comunicano la sua sentenza agli esecutori. Questa [rivelazione](/concepts/revelation), se paragonata a quelle provenienti dagli angeli stessi, può essere considerata un’illuminazione, poiché è indirizzata verso Dio; ma non rappresenta certo un atto di illuminazione da parte dei demoni, poiché questi non la utilizzano per rivolgersi a Dio, bensì per realizzare i propri scopi malvagi.
+
+Risposta all’Obiezione 2: Gli angeli santi sono i ministri della Saggezza Divina. Pertanto, così come la Saggezza Divina permette che alcuni mali vengano compiuti da angeli o uomini malvagi, al fine del bene che ne deriva; allo stesso modo, gli angeli buoni non impediscono completamente ai malvagi di causare danno.
+
+Risposta all’Obiezione 3: Un angelo che è inferiore nell’ordine naturale presiede sui demoni, anche se questi potrebbero essere naturalmente superiori; poiché il potere della giustizia divina, a cui si attengono gli angeli buoni, è più forte del potere naturale degli angeli stessi. Allo stesso modo, tra gli uomini, “l’uomo spirituale giudica tutte le cose” (1 Corinzi 2:15), e il Filosofo afferma (Etica, iii, 4; x, 5) che “l’uomo virtuoso è la regola e la misura di tutti gli atti umani”.
+
 <span class="atom-split" data-atom="053" data-title="HOW ANGELS ACT ON BODIES (FOUR ARTICLES)" data-chapter="HOW ANGELS ACT ON BODIES (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now consider how the angels preside over the corporeal creatures. Under this head there
@@ -2350,6 +3085,14 @@ are four points of inquiry:
 (2) Whether the corporeal creature obeys the mere will of the angels?
 (3) Whether the angels by their own power can immediately move bodies locally?
 (4) Whether the good or bad angels can work miracles?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora esaminiamo in che modo gli angeli governino le creature corporee. In questo ambito vi sono quattro punti da indagare:  
+(1) Se le creature corporee siano governate dagli angeli;  
+(2) Se le creature corporee obbediscano soltanto alla volontà degli angeli;  
+(3) Se gli angeli, con la loro stessa forza, possano muovere immediatamente i corpi in modo locale;  
+(4) Se gli angeli buoni o cattivi possano compiere miracoli.
 
 <span class="atom-split" data-atom="054" data-title="Whether the corporeal creature is governed by the angels?" data-chapter="Whether the corporeal creature is governed by the angels?" data-kind="atom" data-srclang="en"></span>
 
@@ -2487,6 +3230,24 @@ according to the prescription of his art he produces a dish that the fire could 
 itself); since to reduce matter to the act of the substantial form does not exceed the power of a
 corporeal agent; for it is natural for like to make like.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la materia corporea obbedisca soltanto alla volontà di un angelo, poiché il potere di un angelo è superiore a quello dell’anima. Tuttavia, la materia corporea obbedisce alle concezioni dell’anima; infatti, il corpo umano subisce modifiche a causa delle concezioni dell’anima, sia in termini di caldo e freddo, che talvolta anche di salute e malattia. Pertanto, molto di più la materia corporea dovrebbe essere influenzata dalle concezioni di un angelo.
+
+Obiezione 2: Inoltre, tutto ciò che può essere fatto da un potere inferiore può essere fatto anche da un potere superiore. Ora, il potere di un angelo è superiore al potere corporeo; e un corpo, con il proprio potere, è in grado di trasformare la materia corporea, come dimostra il fatto che il fuoco genera altro fuoco. Pertanto, molto più efficacemente un angelo può trasformare la materia corporea con il proprio potere.
+
+Obiezione 3: Inoltre, tutta la natura corporea è sotto l’amministrazione degli angeli, come risulta chiaramente da quanto detto sopra (A[1]); pertanto sembra che i corpi siano strumenti utilizzati dagli angeli, poiché uno strumento è essenzialmente un “motore” che viene mosso da altri. Ne consegue che, negli effetti prodotti, vi sono aspetti che dipendono dalla potenza degli agenti principali – gli angeli – e non dalla potenza dello strumento stesso; tali aspetti occupano quindi un ruolo fondamentale nell’ottenimento di quegli effetti. Ad esempio, la digestione è dovuta alla forza del calore naturale, che funge da “strumento” dell’anima nutritiva; ma il fatto che la carne venga generata è dovuto alla potenza dell’anima stessa. Allo stesso modo, la segatura di legno avviene grazie alla sega; tuttavia, il legno assume la forma desiderata soltanto in base alle conoscenze e alle tecniche del falegname. Pertanto, la [forma sostanziale](/concepts/forma_substantialis) che svolge un ruolo fondamentale negli effetti corporei è dovuta alla potenza degli angeli; di conseguenza, la materia obbedisce agli angeli nel ricevere tale forma.
+
+Al contrario, [Agostino](/figures/augustine) afferma: “Non si deve pensare che questa materia visibile obbedisca a questi angeli ribelli; poiché essa obbedisce soltanto a Dio.”
+
+Rispondo che i Platonici ([*Fedone*, xlix: Tim. (Did.), vol. ii, p. 218]) affermavano che le forme presenti nella materia fossero causate da forme immateriali, poiché sostenevano che le forme materiali fossero semplicemente partecipazioni di forme immateriali. Avicenna seguì in parte questa opinione, dicendo che tutte le forme presenti nella materia derivassero dal concetto dell’“intelletto” e che gli agenti corporei si limitassero a predisporre la materia affinché potesse ricevere tali forme. Sembra tuttavia che questi filosofi siano stati ingannati nel ritenere che una forma fosse qualcosa di “creato in sé”, tale da essere effetto di un principio formale. Ma, come dimostra il Filosofo ([*Metafisica*, vii, Did., vi, 8]), ciò che viene veramente creato è il “composito”, poiché quest’ultimo rappresenta ciò che esiste realmente; mentre la forma, in sé stessa, non è qualcosa di creato, poiché essere significa semplicemente esistere. Ora è evidente che ciò che viene creato assomiglia al suo creatore, poiché ogni agente crea qualcosa di simile a se stesso. Pertanto, ciò che dà forma alle cose naturali deve avere una somiglianza con il “composito”: o perché esso stesso è un composto (come quando il fuoco genera altro fuoco), oppure perché l’intero “composito”, sia nella materia che nella forma, rientra nel suo potere; e questo attributo appartiene esclusivamente a Dio. Quindi, ogni processo di formazione della materia avviene o direttamente da Dio, o tramite un agente corporeo; ma mai direttamente da un angelo.
+
+Risposta all’Obiezione 1: La nostra anima è unita al corpo come sua forma; pertanto non sorprende che il corpo venga modificato formalmente dall’azione dell’anima, soprattutto considerando che i movimenti degli appetiti sensibili, che sono accompagnati da determinate alterazioni fisiche, sono soggetti al controllo della ragione. Un angelo, invece, non ha lo stesso legame con i corpi naturali; per questo motivo l’argomentazione non è valida.
+
+Risposta all’Obiezione 2: Quello che una potenza inferiore è in grado di fare, anche una potenza superiore può farlo, ma non nello stesso modo, bensì in modo più eccellente; ad esempio, l’intelletto conosce le cose sensibili in modo più eccellente rispetto ai sensi stessi. Pertanto, un angelo può modificare la materia corporea in modo più efficace di quanto possano fare gli agenti corporei, cioè muovendo direttamente tali agenti stessi, in qualità di causa superiore.
+
+Risposta all’Obiezione 3: Non esiste nulla che impedisca che un certo effetto naturale avvenga grazie al potere angelico, quando il potere degli agenti corporei non sarebbe sufficiente per realizzarlo. Tuttavia, ciò non significa che tale azione debba obbedire alla volontà di un angelo (così come la materia non obbedisce semplicemente alla volontà di un cuoco, quando quest’ultimo regola il fuoco secondo le regole della sua arte per produrre un piatto che il fuoco da solo non sarebbe in grado di creare); infatti, ridurre la materia all’azione della forma sostanziale non oltrepassa i limiti del potere di un agente corporeo; è naturale, infatti, che ciò che è simile produca ciò che è simile.
+
 <span class="atom-split" data-atom="056" data-title="Whether bodies obey the angels as regards local motion?" data-chapter="Whether bodies obey the angels as regards local motion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that bodies do not obey the angels in local motion. For the local
@@ -2587,6 +3348,28 @@ Reply to Objection 4: Although the angels can do something which is outside the 
 corporeal nature, yet they cannot do anything outside the whole created order, which is essential
 to a miracle, as above explained.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli possano compiere miracoli. Infatti Gregorio afferma nell’Omelia xxxiv sull’Evangelo: “Quegli spiriti, grazie ai quali vengono solitamente operati segni e miracoli, sono chiamati virtù”.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (QQ. 83, qu. 79) che “i maghi compiono miracoli attraverso accordi segreti; i buoni cristiani attraverso la giustizia pubblica, i cattivi cristiani attraverso i simboli della giustizia pubblica”. Ma i maghi compiono miracoli perché vengono “ascoltati dai demoni”, come egli stesso afferma in un altro passaggio dello stesso lavoro [*Cfr. Liber xxi, Sentent., sent. 4: tra le opere supposte di Sant’Agostino]. Pertanto anche i demoni possono compiere miracoli; quindi tanto più possono farlo gli angeli buoni.
+
+Obiezione 3: Inoltre, Agostino afferma nello stesso lavoro [*Cfr. Liber xxi, Sentent., sent. 4: tra le opere supposte di Sant’Agostino] che “non è assurdo credere che tutte le cose che vediamo accadere possano essere causate dalle forze inferiori che risiedono nella nostra atmosfera”. Tuttavia, quando un effetto prodotto da cause naturali si verifica al di fuori dell’ordine naturale stesso, lo chiamiamo [miracolo](/concepts/miracle), come ad esempio quando qualcuno guarisce dalla febbre senza l’intervento delle leggi naturali. Pertanto, angeli e demoni possono compiere miracoli.
+
+Obiezione 4: Inoltre, il potere superiore non è soggetto all’ordine di una causa inferiore. Ma la natura corporea è inferiore a un angelo. Pertanto, un angelo può agire al di fuori dell’ordine degli agenti corporei; cioè compiere miracoli.
+
+Al contrario, di Dio si dice nel Salmo 135:4: “Lui solo compie grandi meraviglie”.
+
+Rispondo che un miracolo, nel vero senso della parola, è qualcosa che avviene al di fuori dell’ordine della natura. Tuttavia, non basta che qualcosa accada al di fuori dell’ordine di una determinata natura: in tal caso, chiunque potrebbe compiere un “miracolo” semplicemente lanciando una pietra verso l’alto, poiché tale azione è contraria all’ordine della natura stessa della pietra. Pertanto, per essere considerato un miracolo, è necessario che ciò che avviene vada contro l’ordine dell’intera natura creata. Ma solo Dio può farlo, poiché tutto ciò che un angelo o qualsiasi altra creatura compie con le proprie forze segue sempre l’ordine della natura; quindi non si tratta di miracoli. Ecco perché soltanto Dio può operare miracoli.
+
+Risposta all’Obiezione 1: Si dice che alcuni angeli compiano miracoli; o perché Dio compie miracoli su loro richiesta, allo stesso modo in cui si dice che gli uomini santi compiano miracoli; oppure perché essi svolgono un ruolo nel realizzarsi di tali miracoli, ad esempio raccogliendo la polvere durante la risurrezione universale o compiendo azioni simili.
+
+Risposta all’Obiezione 2: Per usare il termine correttamente, come detto in precedenza, i miracoli sono quelle cose che avvengono al di fuori dell’ordine della natura creata nel suo insieme. Tuttavia, poiché non conosciamo tutta la potenza della natura creata, quando qualcosa viene compiuto al di fuori di tale ordine da una forza a noi sconosciuta, questo evento viene definito miracolo per quanto ci riguarda. Pertanto, quando i demoni compiono azioni grazie alla loro propria potenza naturale, queste vengono chiamate “miracoli”, ma non in senso assoluto, bensì rispetto a noi umani. In questo modo, i maghi riescono a compiere miracoli attraverso i demoni; tali azioni vengono considerate effettuate tramite “patti privati”, poiché ogni potenza della creatura nell’universo può essere paragonata alla potenza di una persona privata all’interno di una città. Quindi, quando un mago compie qualcosa attraverso un patto con il diavolo, ciò avviene come se fosse frutto di un accordo privato. D’altra parte, la giustizia divina è onnipresente nell’universo, proprio come la legge pubblica in una città; pertanto, i buoni cristiani, nel momento in cui compiono miracoli attraverso la giustizia divina, vengono considerati coloro che operano con “giustizia pubblica”; mentre i cattivi cristiani lo fanno utilizzando “segni di giustizia pubblica”, come l’invocazione del nome di Cristo o l’uso di altri simboli sacri.
+
+Risposta all’Obiezione 3: Le forze spirituali sono in grado di produrre qualsiasi evento avvenga in questo mondo visibile, utilizzando semi materiali e movimenti locali.
+
+Risposta all’Obiezione 4: Sebbene gli angeli possano compiere atti che esulano dall’ordine della natura corporea, non possono tuttavia compiere nulla che vada al di fuori dell’intero ordine creato, elemento essenziale per definire un miracolo, come spiegato in precedenza.
+
 <span class="atom-split" data-atom="058" data-title="THE ACTION OF THE ANGELS ON MAN (FOUR ARTICLES)" data-chapter="THE ACTION OF THE ANGELS ON MAN (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now consider the action of the angels on man, and inquire: (1) How far they can change
@@ -2597,6 +3380,15 @@ Under the first head there are four points of inquiry:
 (2) Whether he can change man's will?
 (3) Whether he can change man's imagination?
 (4) Whether he can change man's senses?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora esaminiamo l’azione degli angeli sull’uomo e indaghiamo: (1) In che misura essi possano modificarlo con il loro potere naturale; (2) Come vengono inviati da Dio al servizio dell’uomo; (3) Come lo proteggono e lo difendono.  
+Per quanto riguarda il primo punto, vi sono quattro questioni da considerare:  
+(1) Un angelo può illuminare l’intelletto umano?  
+(2) Può modificare la volontà dell’uomo?  
+(3) Può alterare l’immaginazione umana?  
+(4) Può influenzare i sensi umani?
 
 <span class="atom-split" data-atom="059" data-title="Whether an angel can enlighten man?" data-chapter="Whether an angel can enlighten man?" data-kind="atom" data-srclang="en"></span>
 
@@ -2658,6 +3450,26 @@ on the part of the principle; and thus it does not follow that whoever understan
 what the intellect is, which is the principle of the intellectual operation. In like manner not everyone
 who is enlightened by an angel, knows that he is enlightened by him.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un angelo non possa illuminare l’uomo. Infatti, l’uomo viene illuminato dalla fede; per questo Dionigi di Atene (Ecclesiastica Hierarchica III) attribuisce l’illuminazione al battesimo, definendolo “il sacramento della fede”. Ma la fede proviene direttamente da Dio, secondo Efesini 2:8: “Per grazia siete salvati mediante la fede, e non per meriti vostri; poiché essa è un dono di Dio”. Pertanto, l’uomo non viene illuminato da un angelo, ma direttamente da Dio.
+
+Obiezione 2: Inoltre, riguardo alle parole “Dio gliel’ha manifestato” (Romani 1:19), la glossa osserva che “non solo la ragione naturale è stata sufficiente per la manifestazione delle verità divine agli uomini, ma Dio le ha anche rivelate attraverso la Sua opera”, cioè attraverso la Sua creazione. Tuttavia, sia la ragione naturale che la creazione derivano direttamente da Dio. Pertanto, è Dio stesso a illuminare l’uomo.
+
+Obiezione 3: Inoltre, chiunque sia illuminato è consapevole di esserlo. Ma l’uomo non è consapevole di essere illuminato dagli angeli. Pertanto, non viene illuminato da loro.
+
+Al contrario, Dionigi afferma (Coel. Hier. iv) che la [rivelazione](/concepts/revelation) delle cose divine raggiunge gli uomini attraverso l’intermediazione degli angeli. Ma tale rivelazione rappresenta un’illuminazione, come abbiamo già detto (Q[106], A[1]; Q[107], A[2]). Pertanto, gli uomini vengono illuminati dagli angeli.
+
+Rispondo che, poiché l’ordine della Provvidenza Divina dispone affinché le cose inferiori siano soggette alle azioni di quelle superiori, come spiegato sopra (Q[109], A[2]); così come gli angeli inferiori sono illuminati da quelli superiori, anche gli uomini, essendo inferiori agli angeli, vengono illuminati da loro. I modi in cui avviene questa illuminazione sono, in un certo senso, simili e, in altro senso, diversi. Infatti, come dimostrato sopra (Q[106], A[1]), l’illuminazione che consiste nel rendere nota la verità divina ha due funzioni: da un lato, rafforza l’intelletto inferiore attraverso l’azione di quello superiore; dall’altro, presenta alle facoltà intellettive inferiori le idee intelligibili contenute nell’intelletto superiore affinché possano essere comprese. Questo processo avviene negli angeli quando l’angelo superiore suddivide la propria concezione universale della verità in modo appropriato alla capacità dell’angelo inferiore, come spiegato sopra (Q[106], A[1]). L’intelletto umano, invece, non è in grado di comprendere direttamente la verità divina nella sua essenza; la sua natura infatti richiede che essa venga compresa attraverso le immagini sensibili, come spiegato sopra (Q[84], A[7]). Pertanto, gli angeli presentano l’ideale verità agli uomini sotto forma di similitudini con cose sensibili, secondo quanto afferma Dionigi di Atene (Coel. Hier. i): “È impossibile che il raggio divino illumini direttamente noi umani, se non attraverso la varietà dei veli sacri”. D’altra parte, l’intelletto umano, essendo inferiore, viene rafforzato dall’azione dell’intelletto angelico; ed è in questi due modi che l’uomo viene illuminato da un angelo.
+
+Risposta all’Obiezione 1: Due elementi concorrono nella virtù della fede; innanzitutto, l’[abitudine](/concepts/custom) dell’intelletto che lo dispone ad obbedire alla volontà orientata verso la verità divina. L’intelletto, infatti, acconsente alla verità della fede non per convincimento razionale, ma su comando della volontà; da qui l’affermazione di [Agostino](/figures/augustine): “Nessuno crede se non volentieri”. In questo senso, la fede proviene esclusivamente da Dio. In secondo luogo, la fede richiede che ciò in cui si deve credere venga presentato al credente; ciò avviene per mezzo dell’uomo, come affermato in Romani 10:17 (“La fede viene dall’ascolto”); tuttavia, soprattutto attraverso gli angeli, i quali rivelano le cose divine agli uomini. Pertanto, gli angeli svolgono un ruolo nell’illuminazione della fede. Inoltre, gli uomini vengono illuminati dagli angeli non solo riguardo a ciò in cui devono credere, ma anche in merito a ciò che devono fare.
+
+Risposta all’Obiezione 2: La ragione naturale, che proviene direttamente da Dio, può essere rafforzata da un angelo, come abbiamo detto in precedenza. Inoltre, più l’intelletto umano viene potenziato, maggiormente una verità intelligibile può essere ricavata dalle caratteristiche delle creature. Pertanto, l’uomo è assistito da un angelo affinché possa ottenere, attraverso le creature, una conoscenza più perfetta di Dio.
+
+Risposta all’Obiezione 3: L’operazione intellettuale e la luce della ragione possono essere comprese in due modi.  
+In primo luogo, dal punto di vista dell’oggetto compreso; quindi chi comprende o riceve la luce della ragione sa di comprendere o di riceverla, perché è consapevole che l’oggetto gli è stato rivelato.  
+In secondo luogo, dal punto di vista del principio alla base di tale operazione intellettuale; pertanto non segue necessariamente che chi comprende una verità sappia cosa sia l’intelletto stesso, cioè il principio su cui si fonda tale operazione. Allo stesso modo, non tutti coloro che vengono illuminati da un angelo sanno di essere stati illuminati da lui.
+
 <span class="atom-split" data-atom="060" data-title="Whether the angels can change the will of man?" data-chapter="Whether the angels can change the will of man?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the angels can change the will of man. For, upon the text,
@@ -2707,6 +3519,26 @@ namely, God, though they may be procured by the ministry of the angels.
 Reply to Objection 3: The human intellect in its present state can understand only by turning
 to the phantasms; but the human will can will something following the judgment of reason rather
 than the passion of the sensitive appetite. Hence the comparison does not hold.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli possano cambiare la volontà dell’uomo. Infatti, sul testo “Coloro che fanno dei propri angeli spiriti e dei propri ministri una fiamma di fuoco” (Ebrei 1:7), le note spiegative affermano che “essi sono fuoco, poiché spiritualmente ferventi e capaci di distruggere i nostri vizi”. Tuttavia, ciò non sarebbe possibile se gli angeli non potessero cambiare la volontà umana. Pertanto, gli angeli possono cambiare la volontà dell’uomo.
+
+Obiezione 2: Inoltre, Beda afferma (Super Matth. XV, 11) che “il diavolo non invia pensieri malvagi, ma li accende”. Tuttavia, Damasceno sostiene che anche il diavolo li invii; egli infatti osserva che “ogni atto malvagio e passione impura sono ideati dai demoni e introdotti negli uomini” (De Fide Orth. II, 4); allo stesso modo, gli angeli buoni introducono e suscitano pensieri positivi. Ma ciò sarebbe possibile soltanto se essi modificassero la volontà umana. Pertanto, è evidente che la volontà viene modificata da loro.
+
+Obiezione 3: Inoltre, l’angelo, come spiegato in precedenza, illumina l’intelletto umano attraverso i fantasmi. Ma poiché l’immaginazione, che serve l’intelletto, può essere modificata dall’angelo, allo stesso modo può esserlo anche il desiderio sensibile, che serve la volontà, poiché anch’esso è una facoltà che utilizza un organo corporeo. Pertanto, così come l’angelo illumina la mente, può anche modificare la volontà.
+
+Al contrario, cambiare la volontà spetta esclusivamente a Dio, come recita il Proverbi 21:1: “Il cuore del re è nelle mani del Signore; egli lo dirige dove vuole”.
+
+Rispondo che la volontà può essere modificata in due modi. Primo, dall’interno: poiché il movimento della volontà non è altro che l’inclinazione della stessa verso ciò che desidera, solo Dio può modificare efficacemente la volontà, poiché è Lui a conferire alla natura intellettuale la capacità di tale inclinazione. Infatti, così come l’inclinazione naturale deriva unicamente da Dio, che ha creato quella natura, allo stesso modo anche l’inclinazione della volontà proviene da Dio, che ne è la fonte originaria.  
+Secondo, la volontà può essere influenzata dall’esterno. Per quanto riguarda gli angeli, ciò avviene in un solo modo: attraverso il bene compreso dall’intelletto. Pertanto, chiunque possa far sì che qualcosa venga considerato un bene desiderabile, può influenzare la volontà altrui. Anche in questo caso, solo Dio può agire efficacemente su di essa; angeli e uomini, invece, possono esercitare una tale influenza soltanto attraverso la persuasione, come spiegato in precedenza (Q[106], A[2]).  
+Oltre a questi modi, la volontà umana può essere influenzata dall’esterno anche in un altro modo: attraverso le passioni presenti nell’appetito sensibile. Ad esempio, la concupiscenza o l’ira possono spingere la volontà verso determinati desideri. Anche in questo caso, gli angeli, essendo in grado di suscitare tali passioni, possono influenzare la volontà umana; tuttavia, questa influenza non è inevitabile, poiché la volontà rimane sempre libera di accettare o resistere a tali stimoli.
+
+Risposta all’Obiezione 1: Coloro che agiscono come ministri di Dio, sia esseri umani che angeli, sono considerati coloro che distruggono i vizi e incoraggiano la virtù attraverso il persuasione.
+
+Risposta all’Obiezione 2: Il demone non può immettere pensieri nella nostra mente provocandoli dall’interno, poiché l’atto della facoltà cognitiva è soggetto alla volontà; tuttavia il diavolo viene chiamato “colui che suscita i pensieri”, in quanto incita alla riflessione attraverso il desiderio delle cose su cui si pensa, mediante la persuasione o stimolando le passioni. Damasceno definisce questo processo “un’immissione di pensieri” perché tale azione avviene all’interno della mente umana. Tuttavia, i pensieri buoni vengono attribuiti a una fonte superiore, ovvero Dio, anche se possono essere suscitati tramite l’intervento degli angeli.
+
+Risposta all’Obiezione 3: L’intelligenza umana, nello stato attuale in cui si trova, può comprendere soltanto ricorrendo ai fantasmi; ma la volontà umana è in grado di volere qualcosa seguendo il giudizio della ragione, piuttosto che le passioni dell’appetito sensibile. Pertanto, tale confronto non regge.
 
 <span class="atom-split" data-atom="061" data-title="Whether an angel can change man's imagination?" data-chapter="Whether an angel can change man's imagination?" data-kind="atom" data-srclang="en"></span>
 
@@ -2769,6 +3601,28 @@ but neither then is deception caused by the angel, but by the defect in the inte
 things appear. Thus neither was Christ a cause of deception when He spoke many things to the
 people in parables, which He did not explain to them.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un angelo non possa modificare l’immaginazione umana. Poiché, come si afferma nel De [Anima](/concepts/soul) iii, la fantasia è “un movimento causato dai sensi in azione”. Ma se questo movimento fosse causato da un angelo, non deriverebbe più dai sensi in azione. Pertanto, sarebbe contrario alla natura stessa della fantasia – che rappresenta l’atto della facoltà immaginativa – essere modificata da un angelo.
+
+Obiezione 2: Inoltre, poiché le forme presenti nell’immaginazione sono di natura spirituale, esse sono più nobili delle forme esistenti nella materia sensibile. Ma un angelo non può imprimere queste forme sulla materia sensibile (Q[110], A[2]); pertanto, non può nemmeno influenzare l’immaginazione e, di conseguenza, non può modificarla.
+
+Obiezione 3: Inoltre, [Agostino](/figures/augustine) afferma (Genesi ad litteram xii, 12): “Uno spirito, mescolandosi con un altro, può trasmettergli la propria conoscenza attraverso queste immagini, in modo che l’altro spirito possa o comprenderla da solo, o accettarla come compresa dall’altro.” Tuttavia, non sembra possibile che un angelo si mescoli con l’immaginazione umana, né che l’immaginazione possa ricevere la conoscenza di un angelo. Pertanto, sembra improbabile che un angelo possa modificare l’immaginazione umana.
+
+Obiezione 4: Inoltre, nella visione immaginativa l’uomo si attacca alle somiglianze delle cose come se fossero le cose stesse. Ma in questo c’è inganno. Poiché un angelo buono non può essere la causa di inganni, sembra che non possa nemmeno provocare una visione immaginaria modificando l’immaginazione stessa.
+
+Al contrario, quelle cose che si vedono nei sogni vengono percepite attraverso una visione immaginativa. Tuttavia gli angeli rivelano certe verità attraverso i sogni, come emerge da Matteo 1:20; [2]:13,[19], riguardo all’angelo che apparve in sogno a Giuseppe. Pertanto, un angelo può influenzare l’immaginazione umana.
+
+Rispondo che sia un angelo buono che uno cattivo, con la loro forza naturale, possono influenzare l’immaginazione umana. Ciò può essere spiegato nel seguente modo: come è stato detto in precedenza (Q[110], A[3]), la natura corporea obbedisce agli angeli per quanto riguarda i movimenti fisici; pertanto, tutto ciò che può essere causato da tali movimenti è soggetto al potere naturale degli angeli. È evidente che alcune apparizioni immaginarie vengono talvolta generate in noi dai movimenti dei spiriti animali e degli umori corporei. Per questo motivo, [Aristotele](/figures/aristotle) afferma nel “De Somnii et Vigil.” (*De Insomniis iii*), spiegando la causa delle visioni nei sogni, che “quando un animale dorme, il sangue si dirama in abbondanza verso i principi sensoriali, e con esso anche i movimenti corporei; tali impressioni vengono conservate negli spiriti animali e influenzano i principi sensoriali, generando così determinate apparizioni, come se questi fossero modificati direttamente dagli oggetti esterni”. Infatti, la perturbazione degli spiriti e degli umori può essere tale da provocare simili effetti anche in persone sveglie, come avviene nei malati di mente. Pertanto, poiché ciò può accadere a causa di disturbi naturali degli umori o per volontà umana che richiama ricordi precedenti, lo stesso può avvenire anche con il potere di un angelo buono o cattivo: a volte attraverso una distorsione dei sensi fisici, altre volte senza tale distorsione.
+
+Risposta all’Obiezione 1: Il primo principio dell’immaginazione deriva dagli stimoli sensoriali percepiti effettivamente. Non possiamo infatti immaginare ciò che non abbiamo mai percepito con i sensi, né completamente né parzialmente; così come un uomo nato cieco non può immaginare il colore. Tuttavia, a volte l’immaginazione viene stimolata in modo tale che l’atto stesso di immaginare derivi dalle impressioni conservate nella memoria.
+
+Risposta all’Obiezione 2: Un angelo modifica l’immaginazione, non certo imprimendo nella mente una forma immaginaria mai ricevuta prima dai sensi (poiché non può far sì che un uomo nato cieco immagini i colori), ma attraverso il movimento locale degli spiriti e dei umori, come spiegato in precedenza.
+
+Risposta all’Obiezione 3: L’unione dello spirito angelico con l’immaginazione umana non rappresenta un’integrazione di essenze, bensì il risultato di un effetto che lo spirito angelico produce nell’immaginazione umana, nel modo sopra descritto; in questo modo, lo spirito angelico mostra all’uomo ciò che egli stesso conosce, ma non nel modo in cui lui stesso conosce.
+
+Risposta all’Obiezione 4: Un angelo che provoca una visione immaginaria illumina talvolta anche l’intelletto, permettendogli di comprendere il significato di tali immagini; in questo caso non vi è inganno. Tuttavia, a volte le rappresentazioni delle cose appaiono soltanto nell’immaginazione; anche in questi casi, l’inganno non deriva dall’angelo, ma dal difetto dell’intelletto che percepisce tali immagini. Così pure Cristo non fu causa di inganno quando parlò al popolo attraverso parabole, senza spiegarle loro.
+
 <span class="atom-split" data-atom="062" data-title="Whether an angel can change the human senses?" data-chapter="Whether an angel can change the human senses?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that an angel cannot change the human senses. For the sensitive operation
@@ -2811,6 +3665,24 @@ Reply to Objection 3: An angel can do nothing outside the entire order of creatu
 can outside some particular order of nature, since he is not subject to that order; thus in some special
 way an angel can work a change in the senses outside the common mode of nature.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un angelo non possa modificare i sensi umani, poiché l’attività sensoriale è un’operazione vitale. Tuttavia, un’operazione del genere non deriva da principi esterni; pertanto, non può essere causata da un angelo.
+
+Obiezione 2: Inoltre, l’operazione sensitiva è più nobile di quella nutritiva. Ma l’angelo non può modificare la capacità nutritiva, né altre forme naturali. Pertanto, nemmeno può modificare la capacità sensitiva.
+
+Obiezione 3: Inoltre, i sensi vengono naturalmente stimolati dagli oggetti percepibili. Ma un angelo non può modificare l’ordine della natura (Q[110], A[4]). Pertanto, un angelo non può alterare il funzionamento dei sensi; e questi, invece, vengono sempre stimolati dagli oggetti percepibili.
+
+Al contrario, gli angeli che distrussero Sodoma “colpirono la gente di Sodoma con cecità o {aorasia}, affinché non riuscissero a trovare la porta” (Genesi 19:11). [*Vale la pena notare che questi sono gli unici due passaggi nella versione greca in cui appare la parola {aorasia}. Essa esprime, infatti, l’effetto prodotto sulla gente di Sodoma: ovvero una condizione di accecamento (versione francese: “eblouissement”), che il termine latino “caecitas” non implica necessariamente. Lo stesso si registra per i Siri che Eliseo portò in Samaria (4 Re 6:18).*]
+
+Rispondo che i sensi possono essere modificati in due modi: dall’esterno, quando vengono influenzati da oggetti percepibili; e dall’interno, poiché osserviamo che i sensi cambiano quando gli spiriti e i umori sono disturbati. Ad esempio, la lingua di una persona malata, carica di umore collerico, percepisce tutto come amaro; lo stesso vale per gli altri sensi. Ora, un angelo, con il suo potere naturale, può modificare i sensi in entrambi i modi: può presentare agli esseri umani oggetti percepibili dall’esterno, creati dalla natura o dallo stesso angelo stesso (come quando assume un corpo, come abbiamo detto sopra [Q[51], A[2); oppure può influenzare gli spiriti e i umori dall’interno, modificando così i sensi in vari modi.
+
+Risposta all’Obiezione 1: Il principio dell’operazione sensitiva non può esistere senza il principio interno che rappresenta la capacità sensitiva stessa; tuttavia, questo principio interno può essere influenzato in molti modi dal principio esterno, come spiegato in precedenza.
+
+Risposta all’Obiezione 2: Attraverso il movimento interno degli spiriti e degli umori, un angelo può intervenire per modificare l’azione della forza nutritiva, così come quella delle forze appetitive, sensitive e di qualsiasi altra forza che utilizzi un organo corporeo.
+
+Risposta all’Obiezione 3: Un angelo non può compiere nulla al di fuori dell’intero ordine delle creature; tuttavia, può agire al di fuori di un particolare ordine naturale, poiché non è soggetto a tale ordine; pertanto, in modo specifico, un angelo può produrre cambiamenti nei sensi al di fuori del normale funzionamento della natura.
+
 <span class="atom-split" data-atom="063" data-title="THE MISSION OF THE ANGELS (FOUR ARTICLES)" data-chapter="THE MISSION OF THE ANGELS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider the mission of the angels. Under this head arise four points of inquiry:
@@ -2818,6 +3690,14 @@ We next consider the mission of the angels. Under this head arise four points of
 (2) Whether all are sent?
 (3) Whether those who are sent, assist?
 (4) From what orders they are sent.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Esaminiamo ora la missione degli angeli. In questo ambito sorgono quattro questioni da considerare:  
+(1) Se alcuni angeli vengano inviati ad eseguire compiti di servizio;  
+(2) Se tutti gli angeli vengano inviati;  
+(3) Se coloro che vengono inviati prestino effettivamente aiuto;  
+(4) Da quali ordini vengano inviati.
 
 <span class="atom-split" data-atom="064" data-title="Whether the angels are sent on works of ministry?" data-chapter="Whether the angels are sent on works of ministry?" data-kind="atom" data-srclang="en"></span>
 
@@ -2890,6 +3770,28 @@ secondarily to us; not because we are superior to them, absolutely speaking, but
 every man or angel by cleaving to God is made one spirit with God, he is thereby superior to every
 creature. Hence the Apostle says (Phil. 2:3): "Esteeming others better than themselves."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli non vengano inviati ad eseguire compiti specifici. Infatti, ogni missione ha luogo in un luogo determinato; ma le azioni intellettuali non sono legate a un luogo concreto, poiché l’intelletto si astrae dal “qui” e dal “ora”. Pertanto, poiché le azioni degli angeli sono di natura intellettiva, sembra che essi non vengano inviati ad eseguire azioni specifiche.
+
+Obiezione 2: Inoltre, il cielo empiereo è il luogo che si addice alla dignità angelica. Pertanto, se gli angeli venissero inviati tra noi per servirci, sembrerebbe che una parte della loro dignità andasse persa; il che sarebbe inappropriato.
+
+Obiezione 3: Inoltre, le attività esterne ostacolano la contemplazione della saggezza; per questo si dice: “Colui che agisce meno riceverà saggezza” (Ecclesiaste 38:25). Quindi, se alcuni angeli venissero inviati ad svolgere compiti esterni, sembrerebbe che ciò li ostacolasse nella loro contemplazione. Ma l’intera loro [beatitudine](/positions/beatitude) consiste proprio nella contemplazione di Dio; pertanto, se venissero inviati, la loro beatitudine diminuirebbe, il che è incompatibile con la loro natura.
+
+Obiezione 4: Inoltre, il compito di servire appartiene alla parte inferiore; per questo è scritto (Lc. 22:27): “Chi è più grande, colui che siede a tavola o colui che serve? Non è forse colui che siede a tavola?” Ma gli angeli sono naturalmente superiori a noi; pertanto non vengono inviati per servirci.
+
+Al contrario, è scritto (Esodo 23:20): “Ecco, manderò i Miei angeli che ti precederanno”.
+
+Rispondo che, da quanto detto sopra (Q[108], A[6]), si può dimostrare che alcuni angeli vengono inviati da Dio per compiere determinate missioni. Infatti, come abbiamo già affermato (Q[43], A[1]) riguardo alla missione delle Persone Divine, si dice che qualcuno viene “inviato” quando procede in qualche modo da un altro essere, in modo da cominciare ad esistere dove prima non esisteva, o ad agire in modo diverso rispetto a quanto faceva prima. Così il Figlio, o lo Spirito Santo, vengono detti “inviati” perché procedono dal Padre per origine; e cominciano ad esistere in un nuovo modo, grazie alla grazia o attraverso la natura assunta, mentre prima esistevano già nella presenza della loro divinità; poiché appartiene a Dio essere presente ovunque, essendo Lui l’agente universale il cui potere raggiunge ogni essere, e quindi Egli esiste in tutte le cose (Q[8], A[1]). Tuttavia, il potere di un angelo, essendo un agente particolare, non si estende all’intero universo, ma riguarda soltanto una determinata cosa, senza influenzare altre; per questo un angelo è “qui” in un modo che non lo rende “lì”. Ma è chiaro da quanto detto sopra (Q[110], A[1]) che le creature corporee sono governate dagli angeli. Pertanto, ogni volta che un angelo deve compiere un’azione riguardante una creatura corporea, si applica nuovamente a quel corpo con il proprio potere; e in questo modo “comincia ad esistere” lì di nuovo. Tutto ciò avviene per ordine divino; quindi ne consegue che un angelo viene inviato da Dio. L’azione compiuta dall’angelo inviato, tuttavia, ha origine in Dio stesso, poiché è sotto il Suo controllo e agisce per Sua autorità; e ritorna a Dio come suo fine ultimo. Ed è proprio questo che si intende quando si parla di “missione” degli angeli: un angelo, infatti, è uno strumento intelligente utilizzato da Dio per compiere determinate azioni.
+
+Risposta all’Obiezione 1: Un’operazione può essere considerata intellettuale in due modi. In un primo senso, quando essa risiede nell’intelletto stesso e consiste in una contemplazione; in questo caso, tale operazione non richiede di occupare uno spazio fisico. Come afferma infatti [Agostino](/figures/augustine) (De Trinitate, iv, 20): “Anche noi, quando mentalmente assaporiamo qualcosa di eterno, non ci troviamo in questo mondo”. In un secondo senso, un’azione è definita intellettuale perché è regolata e guidata da un’intelligenza; in questo contesto, le operazioni intellettuali hanno chiaramente una sede specifica.
+
+Risposta all’Obiezione 2: Il cielo empiereo appartiene alla dignità angelica per ragioni di congruenza; infatti è logico attribuire un corpo più elevato a una natura che occupa un rango superiore ai corpi terreni. Tuttavia, un angelo non trae la sua dignità dal cielo empiereo; pertanto, quando non si trova effettivamente in quel luogo, nessuna parte della sua dignità viene meno, proprio come un re non perde la propria dignità anche quando non siede sul suo trono regale, che è il simbolo di tale dignità.
+
+Risposta all’Obiezione 3: In noi stessi, la purezza della contemplazione viene oscurata dalle occupazioni esterne; poiché ci dedichiamo alle azioni attraverso le facoltà sensibili, e l’attività di queste ultime, quando intensa, ostacola il funzionamento delle facoltà intellettive. Un angelo, al contrario, regola le proprie azioni esterne esclusivamente attraverso l’operazione intellettuale; pertanto le sue occupazioni esterne non ostacolano in alcun modo la sua contemplazione. Poiché, quando ci sono due azioni, una delle quali è la guida e la ragione dell’altra, queste non si ostacolano a vicenda, ma si aiutano reciprocamente. Per questo motivo Gregorio afferma (Moralia, ii) che “gli angeli non escono nel mondo esterno in modo da perdere i piaceri della contemplazione interiore”.
+
+Risposta all’Obiezione 4: Nelle loro azioni esterne, gli angeli servono principalmente Dio e, in secondo luogo, noi; non perché siamo, in senso assoluto, superiori a loro, ma perché, poiché ogni uomo o angelo, unendosi a Dio, diventa uno spirito con Lui, acquista così una posizione superiore rispetto a tutte le altre creature. Ecco perché l’Apostolo dice (Filippesi 2:3): “Considerate gli altri come migliori di voi stessi”.
+
 <span class="atom-split" data-atom="065" data-title="Whether all the angels are sent in ministry?" data-chapter="Whether all the angels are sent in ministry?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all the angels are sent in ministry. For the Apostle says (Heb.
@@ -2943,6 +3845,26 @@ Reply to Objection 4: A manifold grade exists in the Divine ministries. Hence th
 to prevent angels though unequal from being sent immediately in ministry, in such a manner however
 that the superior are sent to the higher ministries, and the lower to the inferior ministries.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che tutti gli angeli siano inviati per svolgere un compito servile. Infatti l’Apostolo dice (Ebrei 1:14): “Tutti sono spiriti ministeriali, inviati per servire”.
+
+Obiezione 2: Inoltre, tra tutti gli ordini angelici, il più elevato è quello dei Serafini, come già detto sopra (Q[108], A[6]). Tuttavia, un Serafino fu inviato per purificare le labbra del profeta (Isaia 6:6,7). Pertanto, gli ordini angelici inferiori vengono certamente inviati ancora più spesso.
+
+Obiezione 3: Inoltre, le Persone Divine superano infinitamente tutte le ordini angeliache. Ma le Persone Divine vengono inviate; pertanto, ancora di più gli angeli più elevati vengono inviati.
+
+Obiezione 4: Inoltre, se gli angeli superiori non vengono inviati ad svolgere compiti esterni, ciò può significare soltanto che essi eseguono i compiti divini attraverso gli angeli inferiori. Ma poiché tutti gli angeli sono disuguali tra loro, come già detto sopra (Q[50], A[4]), ogni angelo ha un angelo inferiore a sé, tranne l’ultimo. Pertanto, soltanto l’ultimo angelo verrebbe inviato ad svolgere compiti; il che contraddice le parole “Migliaia di migliaia Lo servivano” (Dan. 7:10).
+
+Al contrario, Gregorio afferma (Hom. xxxiv in Evang.), citando le parole di Dionigi (Coel. Hier. xiii), che “le classi più elevate non svolgono alcun compito esteriore”.
+
+Rispondo che, come emerge da quanto detto sopra (Q[106], A[3]; Q[110], A[1]), l’ordine della Provvidenza Divina ha disposto non solo tra gli angeli, ma in tutto l’universo, affinché le cose inferiori siano governate da quelle superiori. Tuttavia, questa disposizione divina viene talvolta deviata riguardo alle cose corporee, al fine di realizzare un ordine più elevato, ovvero per favorire la manifestazione della grazia divina. Il fatto che l’uomo nato cieco abbia ricevuto la vista, o che Lazzaro sia stato risuscitato dai morti, è avvenuto immediatamente per intervento di Dio, senza l’azione dei corpi celesti. Inoltre, sia gli angeli buoni che quelli cattivi possono agire su questi corpi indipendentemente dagli elementi naturali, provocando fenomeni come la formazione della pioggia attraverso la condensazione delle nuvole. Nessuno può dubitare che Dio possa rivelare direttamente le cose agli uomini senza l’aiuto degli angeli, né che gli angeli superiori possano agire senza quelli inferiori. Da questo punto di vista, alcuni hanno affermato che, secondo la legge generale, siano inviati soltanto gli angeli inferiori; tuttavia, talvolta, per disposizione divina, vengono inviati anche quelli superiori. Si può inoltre ritenere che l’Apostolo voglia dimostrare che Cristo sia superiore agli angeli scelti come messaggeri della legge, affinché possa evidenziare l’eccellenza della nuova legge rispetto a quella antica. Pertanto, non è necessario applicare questa considerazione ad altri angeli se non a quelli inviati per proclamare la legge stessa.
+
+Risposta all’Obiezione 2: Secondo Dionigi di Alessandria (Coel. Hier. xiii), l’angelo inviato a purificare le labbra del profeta apparteneva al rango inferiore; tuttavia fu chiamato “Serafino”, cioè “colui che accende”, in senso equivoco, poiché il suo compito era proprio quello di “accendere” le labbra del profeta. Si può anche affermare che gli angeli superiori trasmettono attraverso gli angeli inferiori i doni propri che li caratterizzano; è per questo che uno dei Serafini viene descritto come colui che purifica con il fuoco le labbra del profeta, non nel senso che lo faccia direttamente, ma perché un angelo inferiore agisce sotto la sua influenza; allo stesso modo, si dice che il Papa assolve una persona quando lo fa tramite un altro.
+
+Risposta all’Obiezione 3: Le Persone Divine non vengono inviate ad esercitare un ministero, ma si dice che siano inviate in senso equivoco, come risulta da quanto è stato detto precedentemente (Q[43], A[1]).
+
+Risposta all’Obiezione 4: Esistono diversi gradi nelle funzioni divine. Pertanto non vi è nulla che impedisca agli angeli, anche se disuguali tra loro, di essere inviati immediatamente ad adempiere a tali funzioni; tuttavia, gli angeli di rango superiore vengono inviati a compiti più elevati, mentre quelli di rango inferiore a compiti meno importanti.
+
 <span class="atom-split" data-atom="066" data-title="Whether all the angels who are sent, assist?" data-chapter="Whether all the angels who are sent, assist?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the angels who are sent also assist. For Gregory says (Hom.
@@ -2991,6 +3913,26 @@ Essence; and so it may be said that it is the prerogative of the whole of the hi
 immediately enlightened by God; while the higher ones among them see more than is seen by the
 inferior; some of whom enlighten others: as also among those who assist the king, one knows more
 of the king's secrets than another.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che anche gli angeli inviati possano prestare aiuto. Infatti Gregorio afferma (Homilia xxxiv in Evangelia): “Gli angeli vengono inviati e prestano assistenza; poiché, sebbene lo spirito angelico sia limitato, lo Spirito supremo, Dio, non lo è.”
+
+Obiezione 2: Inoltre, l’angelo fu inviato per assistere Tobia. Eppure egli disse: “Io sono l’angelo Raffaele, uno dei sette che stanno davanti al Signore” (Tob. 12:15). Pertanto, gli angeli che vengono inviati hanno il compito di assistere.
+
+Obiezione 3: Inoltre, ogni angelo santo è più vicino a Dio di Satana. Eppure Satana ha aiutato Dio, come si legge in Giobbe 1:6: “Quando i figli di Dio vennero ad presentarsi davanti al Signore, anche Satana era tra loro”. Pertanto, con ancora maggiore motivo, gli angeli, che sono inviati a servire Dio, Lo aiutano.
+
+Obiezione 4: Inoltre, se gli angeli inferiori non assistono, la ragione è che ricevono la Divina [illuminazione](/schools/enlightenment) non immediatamente, ma attraverso gli angeli superiori. Tuttavia, ogni angelo riceve l’illuminazione divina da un angelo superiore, tranne colui che è il più alto di tutti. Pertanto, solo l’angelo più alto potrebbe assistere; il che è in contraddizione con il testo di Daniele 7:10: “Diecimila volte centomila si misero davanti a Lui”. Quindi anche gli angeli inviati ad aiutare partecipano all’azione comune.
+
+Al contrario, afferma Gregorio, riguardo al versetto 25:3 del Libro di Giobbe: “Esiste forse un modo per contare i suoi soldati?” (Moralia, XVII): “Quei poteri aiutano coloro che non vanno tra gli uomini come messaggeri”. Pertanto, coloro che vengono inviati ad esercitare una funzione di servizio non offrono alcun aiuto.
+
+Rispondo che gli angeli vengono descritti come “aiutanti” e “amministratori”, in analogia a coloro che servono un re: alcuni di loro lo assistono costantemente e ricevono immediatamente i suoi ordini, mentre altri vengono informati dei comandi reali tramite coloro che sono al suo fianco – ad esempio, coloro incaricati della gestione delle varie città; questi ultimi vengono definiti “amministratori”, non “aiutanti”.  
+Dobbiamo quindi osservare che tutti gli angeli contemplano direttamente l’Essenza Divina; per questo motivo, anche coloro che svolgono compiti di servizio sono considerati aiutanti dell’Essenza stessa. Pertanto Gregorio afferma (Moralia, ii) che “coloro che sono incaricati dei compiti esterni legati alla nostra salvezza possono sempre assistere e contemplare il volto del Padre”. Tuttavia, non tutti gli angeli riescono a comprendere i segreti dei misteri divini con la stessa chiarezza con cui percepiscono l’Essenza Divina; solo gli angeli più elevati possono trasmetterli a quelli inferiori. In questo senso, soltanto gli angeli appartenenti alla gerarchia più alta sono considerati veramente “aiutanti”, poiché hanno il privilegio speciale di essere immediatamente illuminati da Dio.  
+Da ciò si può trarre la risposta alle prime due obiezioni, basate proprio su questo primo tipo di funzione assistenziale degli angeli.
+
+Risposta all’Obiezione 3: Satana non viene descritto come colui che ha fornito assistenza, ma come uno tra coloro che l’hanno prestata; infatti, come afferma Gregorio (Moralia, ii), “sebbene abbia perso la [beatitude](/positions/beatitude), ha comunque conservato una natura simile a quella degli angeli”.
+
+Risposta all’Obiezione 4: Tutti gli assistenti percepiscono immediatamente alcune realtà nella gloria dell’Essenza Divina; pertanto si può affermare che sia prerogativa di tutta la gerarchia più elevata essere immediatamente illuminata da Dio. Tra coloro che appartengono a questa gerarchia, i più alti vedono cose che gli inferiori non percepiscono; alcuni di loro, inoltre, illuminano gli altri, proprio come tra coloro che assistono il re c’è chi conosce meglio dei suoi segreti.
 
 <span class="atom-split" data-atom="067" data-title="Whether all the angels of the second hierarchy are sent?" data-chapter="Whether all the angels of the second hierarchy are sent?" data-kind="atom" data-srclang="en"></span>
 
@@ -3045,6 +3987,20 @@ but rather that it is much greater, in that it exceeds all material multitude. T
 multiplication together of all the greatest numbers, namely ten, a hundred, and a thousand, as
 Dionysius remarks in the same passage.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che tutti gli angeli della seconda gerarchia siano inviati a compiere missioni. Infatti, secondo Daniele 7:10, tutti gli angeli o assistono o servono gli altri. Tuttavia, gli angeli della seconda gerarchia non assistono; essi vengono illuminati dagli angeli della prima gerarchia, come afferma Dionigi (Coel. Hier. viii). Pertanto, tutti gli angeli della seconda gerarchia sono inviati a svolgere compiti di servizio.
+
+Obiezione 2: Inoltre, Gregorio afferma (Moralia, XVII) che “ci sono più angeli che svolgono compiti di servizio rispetto a quelli che semplicemente assistono”. Questo non sarebbe vero se gli angeli della seconda gerarchia non fossero inviati ad esercitare compiti di servizio. Pertanto, tutti gli angeli della seconda gerarchia vengono inviati per svolgere compiti di servizio.
+
+Al contrario, Dionisio afferma (Coel. Hier. viiii) che le “dominazioni sono, prima di tutto, sottomissione”. Ma essere inviati implica necessariamente sottomissione; pertanto, le dominazioni non vengono inviate al fine di servire o di assistere gli altri.
+
+Rispondo che, come già detto (A[1]), il compito di svolgere attività ministeriali esterne spetta esclusivamente agli angeli, poiché essi agiscono per ordine divino riguardo a qualsiasi creatura corporea, e tale azione rientra nell’ambito dell’esecuzione del ministero divino. Le proprietà angeliche si manifestano attraverso i loro [nomi](/positions/nominalism), come afferma Dionigi (Coel. Hier. vii); pertanto, gli angeli delle ordini inferiori vengono inviati ad svolgere compiti ministeriali esterni, poiché i loro nomi indicano una sorta di funzione amministrativa. Al contrario, il nome “Dominazioni” non indica alcuna attività amministrativa, ma soltanto il potere e l’autorità necessari per esercitare un comando. I nomi degli ordini superiori, invece, suggeriscono chiaramente una funzione amministrativa: gli “Angeli” e gli “Arcangeli” sono così chiamati perché hanno il compito di “annunciare”; le “Virtù” e i “Poteri” derivano da azioni specifiche che svolgono; ed è giusto, secondo quanto afferma Gregorio (Hom. xxxiv in Evang.), che il “Principe degli Angeli” sia il primo tra coloro che svolgono tali compiti. Pertanto, spetta proprio a questi cinque ordini svolgere attività ministeriali esterne, e non ai quattro ordini superiori.
+
+Risposta all’Obiezione 1: Le Dominazioni sono considerate tra gli angeli ministeriali, non perché svolgano direttamente le attività necessarie, ma perché organizzano e comandano ciò che deve essere fatto da altri; in questo senso, un architetto non si impegna personalmente nella realizzazione della sua opera d’arte, ma solo organizza e impartisce istruzioni su ciò che devono fare gli altri.
+
+Risposta all’Obiezione 2: Si possono addurre due motivi per spiegare il numero degli angeli che assistono e servono. Gregorio afferma infatti che coloro che servono siano più numerosi di quelli che assistono; interpreta infatti le parole di Daniele 7:10 (“Migliaia di migliaia Lo servivano”) non in senso di multiplicità, ma in senso di parte, intendendo con esse “migliaia tra le migliaia”; pertanto il numero di coloro che servono è indefinito e indica un’abbondanza. Il numero degli assistenti, invece, è finito, come indicato dalle parole successive (“e diecimila volte centomila Lo assistevano”). Questa spiegazione si basa sull’opinione dei Platonici, i quali sostenevano che le entità più vicine al principio primordiale fossero numericamente minori; inoltre, un numero più vicino all’unità è considerato minore rispetto a una moltitudine. Questa teoria trova conferma nel caso delle gerarchie angeliche: sei ordini di angeli servono, mentre tre assistono. Tuttavia Dionigi (Coel. Hier. xiv) afferma che il numero degli angeli superi ogni altro tipo di molteplicità materiale; poiché gli esseri superiori sono di gran lunga più grandi dei inferiori in termini di dimensioni, anche le nature incorporee superiori sono molto più numerose delle corporee. Ciò deriva dal fatto che ciò che è migliore è destinato a essere creato e moltiplicato da Dio in misura maggiore. Pertanto, poiché gli assistenti sono di rango superiore rispetto ai servitori, il loro numero sarà sicuramente maggiore. Le parole “migliaia di migliaia” vanno intese quindi come un’espressione di moltiplicazione, ovvero “mille volte mille”. Poiché dieci volte cento fa mille, se si scrivesse “diecimila volte centomila”, ciò significherebbe che il numero degli assistenti è uguale a quello dei servitori; ma poiché si legge “diecimila volte centomila”, ne consegue che gli assistenti sono di gran lunga più numerosi. Ciò non significa però che questo sia esattamente il numero totale degli angeli, bensì che esso è molto maggiore, poiché supera ogni possibile molteplicità materiale. Questo concetto viene ulteriormente chiarito dalla moltiplicazione dei numeri più grandi – dieci, cento e mille – come osserva Dionigi nello stesso passaggio.
+
 <span class="atom-split" data-atom="068" data-title="OF THE GUARDIANSHIP OF THE GOOD ANGELS (EIGHT ARTICLES)" data-chapter="OF THE GUARDIANSHIP OF THE GOOD ANGELS (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider the guardianship exercised by the good angels; and their warfare against the
@@ -3057,6 +4013,18 @@ bad angels. Under the first head eight points of inquiry arise:
 (6) Whether the angel guardians always watch over men?
 (7) Whether the angel grieves over the loss of the one guarded?
 (8) Whether rivalry exists among the angels as regards their guardianship?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Esaminiamo ora la tutela esercitata dagli angeli buoni e la loro lotta contro gli angeli cattivi. In merito a questo argomento sorgono otto questioni principali:  
+(1) Gli uomini sono forse protetti dagli angeli?  
+(2) A ogni uomo viene assegnato un angelo custode specifico?  
+(3) La tutela spetta esclusivamente agli angeli di ordine inferiore?  
+(4) È appropriato che ogni uomo abbia un angelo custode?  
+(5) In quale momento inizia la tutela di un angelo su un uomo?  
+(6) Gli angeli custodi vegliano sempre sugli uomini?  
+(7) Gli angeli soffrono per la perdita di colui che hanno protetto?  
+(8) Esiste rivalità tra gli angeli riguardo al loro ruolo di guardiani?
 
 <span class="atom-split" data-atom="069" data-title="Whether men are guarded by the angels?" data-chapter="Whether men are guarded by the angels?" data-kind="atom" data-srclang="en"></span>
 
@@ -3109,6 +4077,24 @@ when they enlighten man that he may do what is right. Hence that men perish is n
 to the negligence of the angels but to the malice of men. That they sometimes appear to men visibly
 outside the ordinary course of nature comes from a special grace of God, as likewise that miracles
 occur outside the order of nature.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli uomini non siano protetti dagli angeli. Infatti, i guardiani vengono incaricati di proteggere alcune persone perché queste, come i bambini e i malati, o non sanno come difendersi da sole, o non ne sono in grado. Ma l’uomo è in grado di proteggersi grazie alla sua libera volontà; inoltre, conosce i mezzi necessari attraverso la sua conoscenza naturale della [legge naturale](/positions/natural_law). Pertanto, l’uomo non è protetto da un angelo.
+
+Obiezione 2: Inoltre, una forte protezione rende superflua quella più debole. Ma gli uomini sono protetti da Dio, come recita il Salmo 120:4: “Lui non si addormenta né dorme colui che custodisce Israele”. Pertanto, l’uomo non ha bisogno di essere protetto da un angelo.
+
+Obiezione 3: Inoltre, la perdita di colui che è sotto la custodia degli angeli deriva dalla negligenza stessa dei guardiani; per questo si disse a qualcuno: “Tieni quest’uomo sotto la tua protezione; se dovesse fuggire, la tua vita sarà in cambio della sua” (3 Re 20:39). Ogni giorno, molti uomini periscono a causa del peccato; gli angeli potrebbero aiutarli con apparizioni visibili, miracoli o in qualche altro modo simile. Pertanto, gli angeli sarebbero negligenti se fossero incaricati della custodia degli uomini. Ma ciò è chiaramente falso. Quindi, gli angeli non sono i guardiani degli uomini.
+
+Al contrario, è scritto (Salmo 90:11): “Ha incaricato i suoi angeli di vegliare su di te, affinché ti proteggano in tutti i tuoi percorsi”.
+
+Rispondo che, secondo il disegno della Provvidenza Divina, osserviamo che in tutte le cose ciò che è mobile e variabile viene mosso e regolato da ciò che è immobile e invariabile; così come tutte le cose corporee sono governate da sostanze spirituali immobili, e i corpi inferiori da quelli superiori, i quali sono invariabili nella loro essenza. Anche noi stessi veniamo regolati, per quanto riguarda le conclusioni a cui possiamo giungere, dalle principie che consideriamo in modo invariabile. È inoltre evidente che, per quanto riguarda le azioni da compiere, la conoscenza umana e i suoi sentimenti possono variare e allontanarsi dal bene in molti modi; per questo era necessario che gli angeli fossero incaricati della protezione degli uomini, al fine di regolarli e spingerli verso il bene.
+
+Risposta all’Obiezione 1: Grazie alla libertà volontaria, l’uomo può evitare il male in una certa misura, ma non in modo sufficiente; poiché è debole nell’affetto verso il bene a causa delle molteplici passioni dell’anima. Allo stesso modo, la conoscenza naturale universale della legge, che per sua natura appartiene all’uomo, lo guida in una certa misura verso il bene, ma non in modo sufficiente; poiché nell’applicazione dei principi universali della legge alle azioni particolari, l’uomo presenta molte carenze. Per questo motivo si legge (Sapienza 9:14): “I pensieri degli uomini mortali sono pieni di timore e i loro consigli incerti”. Pertanto, l’uomo ha bisogno della protezione degli angeli.
+
+Risposta all’Obiezione 2: Per che un’azione sia considerata buona, sono necessarie due condizioni: in primo luogo, che l’intenzione sia orientata verso il bene, cosa che avviene in noi attraverso la [abitudine](/concepts/custom) delle virtù morali. In secondo luogo, che la ragione individui i metodi appropriati per perfezionare tali virtù; questo compito, secondo il Filosofo (Etica VI), spetta alla prudenza. Per quanto riguarda la prima condizione, Dio protegge l’uomo infondendogli grazia e virtù; per quanto riguarda la seconda, Dio agisce come insegnante universale, i cui precetti raggiungono l’uomo attraverso gli angeli, come già detto in precedenza (Q[111], A[1]).
+
+Risposta all’Obiezione 3: Così come gli uomini si allontanano dall’istinto naturale del bene a causa di passioni peccaminose, allo stesso modo si allontanano anche dall’influenza positiva degli angeli buoni, che agiscono in modo invisibile quando illuminano l’uomo affinché compia il giusto. Pertanto, il fatto che gli uomini periscano non deve essere attribuito alla negligenza degli angeli, ma alla malvagità umana. Il fatto che talvolta gli angeli appaiano visibilmente agli occhi degli uomini, al di fuori del normale corso della natura, deriva da una grazia speciale di Dio; allo stesso modo, i miracoli avvengono anche al di fuori dell’ordine naturale.
 
 <span class="atom-split" data-atom="070" data-title="Whether each man is guarded by an angel?" data-chapter="Whether each man is guarded by an angel?" data-kind="atom" data-srclang="en"></span>
 
@@ -3166,6 +4152,24 @@ to Ecclus. 33:11,12: "With much knowledge the Lord hath divided them, and divers
 some of them hath He blessed and exalted, and some of them hath He cursed and brought low."
 Thus it is a greater office to guard one man than another.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che ogni uomo non sia protetto da un angelo, poiché un angelo è più forte di un uomo. Tuttavia, un solo uomo è sufficiente per proteggere molti uomini; quindi, molto di più, un solo angelo potrebbe proteggere molti uomini.
+
+Obiezione 2: Inoltre, le cose inferiori vengono portate a Dio attraverso il mezzo di quelle superiori, come afferma Dionigi (Coel. Hier. iv, xiii). Ma poiché tutti gli angeli sono disuguali (Q[50], A[4]), esiste soltanto un angelo tra cui e gli uomini non vi sia alcun intermediario. Pertanto, c’è solo un angelo che è direttamente in contatto con gli uomini.
+
+Obiezione 3: Inoltre, gli angeli più potenti sono incaricati di compiti più importanti. Tuttavia, non è certo un compito più importante custodire uno uomo piuttosto che un altro, poiché tutti gli uomini sono naturalmente uguali. Poiché quindi, tra tutti gli angeli, alcuni sono più potenti di altri, come afferma Dionigi (Coel. Hier. x), sembra che diversi uomini non siano protetti da angeli diversi.
+
+Al contrario, riguardo al testo “I loro angeli in cielo”, ecc. (Matteo 8:10), Gerolamo afferma: “Grande è la dignità delle anime, poiché ognuna di esse ha un angelo incaricato di proteggerla fin dal suo nascere”.
+
+Rispondo che ogni uomo ha un angelo custode assegnatogli. Ciò deriva dal fatto che la funzione di custodia degli angeli rientra nell’ambito dell’attuazione della provvidenza divina riguardo agli uomini. Tuttavia, la provvidenza di Dio agisce in modo diverso nei confronti degli uomini e delle altre creature corruttibili, poiché queste ultime sono collegate alla nozione di incorruttibilità in modo diverso dagli esseri umani. Gli uomini, infatti, sono incorruttibili non solo nella specie comune, ma anche nelle forme specifiche di ciascun individuo, ovvero nelle loro anime razionali; ciò non si può dire per altre cose incorruttibili. È evidente che la provvidenza di Dio si esercita principalmente su ciò che rimane per sempre; mentre riguardo alle cose effimere, essa agisce in modo da ordinare la loro esistenza a ciò che è eterno. Pertanto, la provvidenza di Dio è relativa a ogni uomo, così come lo è a ogni genere o specie di cose corruttibili. Tuttavia, secondo Gregorio (Hom. xxxiv in Evang.), le diverse funzioni sono affidate a diversi “generi” di esseri: ad esempio, alle “Potenze” spetta costringere i demoni, alle “Virtù” compiere miracoli nelle cose corporee; è probabile inoltre che diverse specie siano presiedute da angeli appartenenti allo stesso ordine. Da ciò deriva anche la ragionevole ipotesi che diversi angeli siano incaricati della custodia di uomini diversi.
+
+Risposta all’Obiezione 1: Un custode può essere designato per un uomo per due motivi: innanzitutto, poiché l’uomo è un individuo, a ciascun uomo spetta un solo custode; talvolta, tuttavia, vengono nominati più custodi per vegliare su di lui. In secondo luogo, poiché l’uomo fa parte di una comunità, viene designato un custode per tutta la comunità stessa; spetta a questo custode provvedere a ciò che riguarda l’individuo nella sua relazione con l’intera comunità, come ad esempio le azioni esterne che possono rafforzare o indebolire gli altri. Tuttavia, agli angeli vengono anche affidati compiti legati a cose invisibili e misteriose, riguardanti la salvezza di ciascun individuo nel suo contesto personale. Per questo motivo, angeli specifici vengono designati per proteggere singoli uomini.
+
+Risposta all’Obiezione 2: Come già detto (Q[112], A[3], ad 4), tutti gli angeli della prima gerarchia sono, per alcune cose, illuminati direttamente da Dio; ma per altre cose, soltanto quelli di rango più elevato lo sono direttamente, e questi a loro volta ne rivelano il contenuto agli angeli di rango inferiore. Lo stesso vale anche per le gerarchie inferiori: un angelo di livello più basso viene illuminato, in alcuni aspetti, da uno degli angeli più alti, e in altri aspetti da quello immediatamente sopra di lui. Pertanto è possibile che un certo angelo illumini direttamente un uomo, pur avendo sotto di sé altri angeli che a loro volta egli illumina.
+
+Risposta all’Obiezione 3: Sebbene gli uomini siano uguali per natura, esiste comunque disuguaglianza tra di loro, poiché la Provvidenza Divina destina alcuni alle cose più importanti e altri a quelle meno importanti, come si legge in Ecclesiaste 33:11-12: “Con grande saggezza il Signore li ha divisi e ha diversificato i loro percorsi: alcuni li ha benedetti e elevati, altri invece maledetti e umiliati.” Pertanto, custodire un uomo rispetto a un altro rappresenta una responsabilità più importante.
+
 <span class="atom-split" data-atom="071" data-title="Whether to guard men belongs only to the lowest order of angels?" data-chapter="Whether to guard men belongs only to the lowest order of angels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the guardianship of men does not belong only to the lowest
@@ -3208,6 +4212,24 @@ but some orders have a universal guardianship, greater or less, as above explain
 Reply to Objection 3: Even inferior angels exercise the office of the superior, as they share in
 their gifts, and they are executors of the superiors' power; and in this way all the angels of the lowest
 order can coerce the demons, and work miracles.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la custodia degli uomini non appartenga soltanto all’ordine più basso degli angeli. Infatti Crisostomo afferma che il testo (Matteo 18:10), “I loro angeli in cielo”, ecc., debba essere inteso non di angeli qualsiasi, ma degli angeli più elevati. Pertanto, sono gli angeli superiori a custodire gli uomini.
+
+Obiezione 2: Inoltre, l’Apostolo afferma che gli angeli “vengono inviati a servire coloro che riceveranno l’eredità della salvezza” (Ebrei 1:14); quindi sembra che la missione degli angeli sia rivolta alla protezione degli uomini. Tuttavia, per il servizio esterno vengono inviate cinque ordini di angeli (Q[112], A[4]). Pertanto, tutti gli angeli appartenenti a questi cinque ordini sono incaricati della protezione degli uomini.
+
+Obiezione 3: Inoltre, per la tutela degli uomini sembra particolarmente necessario costringere i demoni, compito che appartiene soprattutto alle Potenze, secondo Gregorio (Hom. xxxiv in Evang.); e compiere miracoli, attività che rientra nelle competenze delle Virtù. Pertanto anche queste funzioni sono delegate al ruolo di tutore degli uomini, e non soltanto la funzione più bassa tra queste.
+
+Al contrario, nel Salmo 90 la custodia degli uomini viene attribuita agli angeli, che secondo Dionigi di Alessandria appartengono all’ordine più basso.
+
+Rispondo che, come già detto (A[2]), l’uomo è protetto in due modi: da un lato attraverso una protezione specifica, poiché a ciascun uomo è assegnato un angelo per vegliare su di lui; tale protezione appartiene all’ordine più basso degli angeli, i quali, secondo Gregorio, hanno il compito di annunciare le “cose minori”; sembra infatti che sia il compito meno importante tra quelli angelici procurare ciò che riguarda la salvezza di un solo uomo. L’altro tipo di protezione è universale e si articola secondo gli diversi ordini angelici: più un agente è universale, più alto è il suo rango. Pertanto, la protezione della razza umana appartiene all’ordine dei “Principati”, o forse degli “Arcangeli”, che vengono chiamati i principi angeli. Ecco perché Michele, che viene definito arcangelo, è anche chiamato “uno dei principi” (Daniele 10:13). Inoltre, tutte le creature corporee sono protette dalle “Virtù”; allo stesso modo, i demoni dalle “Potenze”, e gli spiriti buoni dai “Principati”, secondo l’opinione di Gregorio (Hom. xxxiv in Ev.).
+
+Risposta all’Obiezione 1: Si può intendere da Crisostomo che gli angeli di ordine più basso siano quelli di rango più elevato; infatti, come afferma Dionigi (Coel. Hier. x), in ogni ordine esistono individui di primo, secondo e terzo livello. Tuttavia, è probabile che gli angeli di maggior rango siano incaricati di custodire coloro che Dio ha scelto per un grado più alto di gloria.
+
+Risposta all’Obiezione 2: Non tutti gli angeli inviati hanno la responsabilità della protezione di singoli individui; alcune categorie di angeli, come spiegato in precedenza, svolgono invece una funzione di protezione universale, con gradi diversi di intensità.
+
+Risposta all’Obiezione 3: Anche gli angeli di rango inferiore svolgono la funzione degli angeli di rango superiore, poiché condividono i loro doni e sono esecutori del potere dei primi; in questo modo, tutti gli angeli dell’ordine più basso possono costringere i demoni e compiere miracoli.
 
 <span class="atom-split" data-atom="072" data-title="Whether angels are appointed to the guardianship of all men?" data-chapter="Whether angels are appointed to the guardianship of all men?" data-kind="atom" data-srclang="en"></span>
 
@@ -3259,6 +4281,24 @@ nevertheless conduce to their being protected from certain evils which would hur
 and others. For even the demons are held off by the good angels, lest they hurt as much as they
 would. In like manner Antichrist will not do as much harm as he would wish.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli non siano destinati a vegliare su tutti gli uomini. Infatti, di Cristo si legge (Filippesi 2:7) che “è stato formato alla somiglianza degli uomini e vestito come un uomo”. Se quindi gli angeli fossero incaricati della protezione di tutti gli uomini, anche Cristo avrebbe avuto un angelo custode. Ma ciò sarebbe inappropriato, poiché Cristo è superiore a tutti gli angeli. Pertanto, gli angeli non sono destinati a vegliare su tutti gli uomini.
+
+Obiezione 2: Inoltre, Adamo fu il primo di tutti gli uomini. Ma non era appropriato che avesse un angelo custode, almeno nello [stato](/concepts/state) di innocenza: poiché in quel momento non era esposto a alcun pericolo. Pertanto, gli angeli non sono destinati alla protezione di tutti gli uomini.
+
+Obiezione 3: Inoltre, gli angeli sono incaricati della protezione degli uomini, affinché possano guidarli verso la vita eterna, incoraggiarli a compiere opere buone e difenderli dagli attacchi dei demoni. Ma coloro che sono destinati alla dannazione non raggiungeranno mai la vita eterna. Anche gli infedeli, sebbene talvolta compiano opere buone, non le compiono con sincerità, poiché non ne hanno l’intenzione giusta; come afferma [Agostino](/figures/augustine) (“Enarrationes in Psalmo 31”), “la fede dirige l’intenzione”. Inoltre, la venuta dell’Anticristo avverrà “secondo le operazioni di Satana”, come è scritto in (2 Tessalonicesi 2:9). Pertanto, gli angeli non sono incaricati della protezione di tutti gli uomini.
+
+Al contrario, è proprio l’autorità di Gerome citata sopra (A[2]) a sostenere che “ogni anima ha un angelo incaricato di proteggerla”.
+
+Rispondo che l’uomo, mentre si trova in questo stato di vita, è, per così dire, su un cammino che lo conduce verso il cielo. Su questo cammino l’uomo è minacciato da molti pericoli, sia interni che esterni; come recita il Salmo 159:4: “Nel sentiero che ho percorso, mi hanno teso insidie”. Pertanto, così come vengono nominati guardiani coloro che devono attraversare un percorso pericoloso, a ogni uomo viene assegnato un angelo custode finché è in viaggio. Tuttavia, quando arriva alla fine della sua vita, non ha più un angelo custode; nel regno dei cieli avrà un angelo che regnerà insieme a lui, mentre all’inferno avrà un demone che lo punirà.
+
+Risposta all’Obiezione 1: Cristo, in quanto uomo, era guidato direttamente dalla Parola di Dio; pertanto non aveva bisogno di essere protetto da un angelo. Per quanto riguarda la Sua anima, Egli era colui che comprendeva tutte le verità divine; tuttavia, in relazione al Suo corpo mortale, Egli era soltanto un viaggiatore nel cammino della vita terrena. In questo ultimo senso, era giusto che non avesse un angelo custode superiore a Lui, ma un angelo ministrante inferiore a Lui. Da qui deriva la scrittura di Matteo 4:11, secondo cui “gli angeli vennero a servirLo”.
+
+Risposta all’Obiezione 2: Nello stato di innocenza, l’uomo non era minacciato da alcun pericolo interno; poiché, come abbiamo detto sopra (Q[95], AA[1],3), tutto in lui era in perfetto ordine. Tuttavia, esistevano pericoli esterni, dovuti alle insidie dei demoni; ciò fu dimostrato dagli eventi concreti. Per questo motivo, l’uomo aveva bisogno di un angelo custode.
+
+Risposta all’Obiezione 3: Proprio come coloro che sono stati preveduti in anticipo, gli infedeli e persino l’Anticristo non vengono privati dell’aiuto interno fornito dalla ragione naturale; allo stesso modo, non vengono nemmeno privati di quell’aiuto esterno concesso da Dio a tutta l’umanità, ovvero la protezione degli angeli. E sebbene l’aiuto che ricevono da questi ultimi non li renda meritevoli della vita eterna attraverso le buone opere, esso li protegge comunque da alcuni mali che potrebbero danneggiare sia loro stessi che gli altri. Infatti, anche i demoni vengono trattenuti dai buoni angeli, affinché non possano causare tanto danno quanto vorrebbero. Allo stesso modo, l’Anticristo non riuscirà a causare tutto il male che desidera.
+
 <span class="atom-split" data-atom="073" data-title="Whether an angel is appointed to guard a man from his birth?" data-chapter="Whether an angel is appointed to guard a man from his birth?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an angel is not appointed to guard a man from his birth. For
@@ -3303,6 +4343,24 @@ is part of the tree. And therefore it can be said with some degree of probabilit
 guards the mother guards the child while in the womb. But at its birth, when it becomes separate
 from the mother, an angel guardian is appointed to it; as Jerome, above quoted, says.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un angelo non sia incaricato di proteggere un uomo fin dalla sua nascita. Infatti, gli angeli sono “inviati a servire coloro che riceveranno l’eredità della salvezza”, come afferma l’Apostolo (Ebrei 1:14). Ma gli uomini iniziano a ricevere l’eredità della salvezza soltanto quando vengono battezzati. Pertanto, un angelo è incaricato di proteggere un uomo a partire dal momento del suo battesimo, e non dalla sua nascita.
+
+Obiezione 2: Inoltre, gli uomini sono protetti dagli angeli nella misura in cui questi li illuminano e li istruiscono. Ma i bambini, non appena nascono, non sono in grado di ricevere istruzioni, poiché non possiedono ancora la capacità di ragionare. Pertanto, gli angeli non sono incaricati di proteggere i bambini fin dal loro nascere.
+
+Obiezione 3: Inoltre, un bambino possiede un’anima razionale già per un certo periodo prima della nascita, così come dopo di essa. Tuttavia non sembra che venga designato un angelo a proteggere un bambino prima della sua nascita, poiché in quel momento esso non viene ancora ammesso ai sacramenti della Chiesa. Pertanto, gli angeli non sono incaricati di proteggere gli uomini fin dal momento della loro nascita.
+
+Al contrario, Girolamo afferma (vedi A, 4) che “ogni anima ha un angelo incaricato di proteggerla fin dal suo nascere”.
+
+Rispondo che, come osserva Origene nel “Trattato V, sul Vangelo di Matteo”, esistono due opinioni al riguardo. Alcuni ritengono che l’angelo custode venga designato al momento del battesimo, altri invece che ciò avvenga alla nascita. Quest’ultima opinione è condivisa da Girolamo (vedi A, 4), e con ragione: i benefici che Dio conferisce all’uomo come cristiano iniziano infatti con il battesimo – come la ricezione dell’Eucaristia e simili. Quelli invece che Dio concede all’uomo in quanto essere razionale vengono concessi alla nascita, poiché è proprio in quel momento che l’uomo riceve quella natura umana. Tra questi benefici figurano certamente anche la protezione degli angeli, come abbiamo già detto (AA[1], 4). Pertanto, fin dal momento della sua nascita, l’uomo ha un angelo custode designato per lui.
+
+Risposta all’Obiezione 1: Gli angeli vengono inviati per prestare servizio, e lo fanno effettivamente in modo efficace, per coloro che riceveranno l’eredità della salvezza, se consideriamo l’effetto finale della loro protezione, che consiste nella realizzazione di tale eredità. Tuttavia, anche se le loro azioni non sono così efficaci da portare gli altri alla salvezza, esse non vengono comunque meno utili, poiché riescono a impedire molti mali.
+
+Risposta all’Obiezione 2: La tutela è istituita esclusivamente al fine di [illuminare](/schools/enlightenment) l’individuo, attraverso specifiche istruzioni; tale scopo rappresenta il suo effetto finale e principale. Tuttavia, essa ha anche molti altri effetti positivi legati alla fase infantile: ad esempio, proteggere l’individuo dai demoni e prevenire danni sia fisici che spirituali.
+
+Risposta all’Obiezione 3: Finché il bambino si trova nell’utero della madre, non è del tutto separato da lei, ma, a causa di un legame stretto e intimo, ne fa ancora parte: proprio come il frutto, mentre pende dall’albero, ne fa parte. Pertanto si può affermare, con una certa probabilità, che l’angelo che veglia sulla madre veglia anche sul bambino durante la sua permanenza nell’utero. Tuttavia, al momento della nascita, quando il bambino diventa separato dalla madre, gli viene assegnato un angelo custode; come afferma Gerolamo, citato sopra.
+
 <span class="atom-split" data-atom="074" data-title="Whether the angel guardian ever forsakes a man?" data-chapter="Whether the angel guardian ever forsakes a man?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the angel guardian sometimes forsakes the man whom he is
@@ -3338,6 +4396,20 @@ Reply to Objection 3: Although an angel may forsake a man sometimes locally, he 
 for that reason forsake him as to the effect of his guardianship: for even when he is in heaven he
 knows what is happening to man; nor does he need time for his local motion, for he can be with
 man in an instant.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’angelo custode a volte abbandoni l’uomo che è stato incaricato di proteggere. Infatti si dice (Ger. 51:9), parlando degli angeli: “Avremmo potuto guarire Babilonia, ma essa non è stata curata; lasciamo che cada”. E in (Isa. 5:5) è scritto: “Rimuoverò la difesa” – cioè “la protezione degli angeli” [nota] – “e essa sarà distrutta”.
+
+Obiezione 2: Inoltre, la protezione di Dio è superiore a quella degli angeli. Tuttavia, Dio a volte abbandona l’uomo, come si legge nel Salmo 21:2: “O Dio, mio Dio, guarda a me: perché mi hai abbandonato?”. Pertanto, è molto più probabile che un angelo custode abbandoni l’uomo.
+
+Obiezione 3: Inoltre, secondo Damasceno (De Fide Orthodossa ii, 3), “Quando gli angeli sono con noi, non si trovano in cielo”. Ma a volte si trovano in cielo; pertanto, a volte ci abbandonano.
+
+Al contrario, i demoni ci assalgono costantemente, come recita 1 Pietro 5:8: “Il vostro avversario, il diavolo, va in giro come un leone ruggente, cercando chi possa divorare”. Perciò ancora di più gli angeli buoni ci proteggono sempre.
+
+Rispondo che, come appare sopra (A[2]), la tutela degli angeli rappresenta un effetto della provvidenza divina riguardo all’uomo. È evidente infatti che né l’uomo, né alcuna altra creatura sia del tutto esclusa dalla provvidenza di Dio: poiché in quanto una cosa partecipa all’esistenza, è soggetta alla provvidenza che si estende su tutta la realtà. Si dice infatti che Dio abbandoni l’uomo secondo i disegni della sua provvidenza, ma solo nel senso in cui permette all’uomo di subire alcune punizioni o errori. Allo stesso modo, si può affermare che l’angelo custode non abbandoni mai completamente un uomo; talvolta lo lascia esposto a determinate difficoltà o persino al peccato, secondo i disegni della giustizia divina. In questo senso, si dice che Babilonia e la Casa di Israele siano state abbandonate dagli angeli, poiché i loro angeli custodi non li hanno salvati dalle tribolazioni a cui erano soggetti. Da ciò derivano risposte chiare alle prime due obiezioni sollevate.
+
+Risposta all’Obiezione 3: Anche se un angelo possa talvolta abbandonare un uomo in termini spaziali, ciò non significa che lo abbandoni nel compimento del proprio ruolo di custode; infatti, anche quando si trova in cielo, sa ciò che accade all’uomo; inoltre, non ha bisogno di tempo per spostarsi, poiché può essere immediatamente al fianco dell’uomo.
 
 <span class="atom-split" data-atom="075" data-title="Whether angels grieve for the ills of those whom they guard?" data-chapter="Whether angels grieve for the ills of those whom they guard?" data-kind="atom" data-srclang="en"></span>
 
@@ -3392,6 +4464,27 @@ angel's joy, namely the fulfilment of the ordering of the Divine Providence.
 Reply to Objection 4: The angels are brought into judgment for the sins of men, not as guilty,
 but as witnesses to convict man of weakness.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli angeli soffrano per i mali di coloro che custodiscono. Infatti è scritto (Isaia 33:7): “Gli angeli della pace piangeranno amaramente”. Ma il pianto è un segno di dolore e tristezza. Pertanto, gli angeli soffrono per i mali di coloro che custodiscono.
+
+Obiezione 2: Inoltre, secondo [Agostino](/figures/augustine) (De Civ. Dei xiv, 15), “il dolore è legato a quelle cose che avvengono contro la nostra volontà”. Ma la perdita dell’uomo che l’angelo custode ha protetto avviene contro la volontà di quell’angelo stesso; pertanto gli angeli soffrono per la perdita degli uomini.
+
+Obiezione 3: Inoltre, così come il dolore è contrario alla gioia, allo stesso modo la penitenza è contraria al peccato. Ma gli angeli si rallegrano quando un peccatore compie penitenza, come ci viene detto in Luca 15:7. Pertanto, essi soffrono per l’uomo giusto che cade nel peccato.
+
+Obiezione 4: Inoltre, riguardo al versetto Numeri 18:12 (“Tutti i primi frutti che offrono”, ecc.), il commento di Origene afferma: “Gli angeli vengono giudicati per verificare se gli uomini siano caduti a causa della loro negligenza o delle proprie colpe”. Tuttavia, è del tutto naturale che chiunque si addolori per i mali che lo hanno portato davanti al giudizio; pertanto anche gli angeli si addolorano per i peccati degli uomini.
+
+Al contrario, dove c’è dolore e tristezza, non può esserci vera felicità; per questo è scritto (Apocalisse 21:4): “Non ci sarà più morte, né lutto, né pianto, né dolore”. Gli angeli, invece, sono perfettamente felici; pertanto non hanno motivo di soffrire.
+
+Rispondo che gli angeli non provano dolore, né per i peccati né per le sofferenze inflitte agli uomini. Poiché il dolore e la tristezza, secondo Agostino (De Civ. Dei xiv, 15), sono legati a cose che avvengono contro la nostra volontà. Ma nulla nel mondo accade contro la volontà degli angeli e degli altri beati, poiché essi si attengono completamente all’ordine della giustizia divina; inoltre, nulla nel mondo accade se non ciò che è voluto o permesso dalla giustizia divina. Pertanto, in termini semplici, nulla nel mondo avviene contro la volontà dei beati. Come afferma il Filosofo (Etica iii, 1), si dice “volontario” ciò che un uomo desidera in una determinata circostanza e in un preciso momento, dopo aver valutato tutte le condizioni; tuttavia, in termini universali, tale azione non sarebbe volontaria. Ad esempio, il marinaio non desidera che il proprio carico venga gettato in mare in modo generale e assoluto, ma lo fa per evitare un pericolo per la propria vita; quindi questa azione è volontaria, e non involontaria. Pertanto, in termini universali e assoluti, gli angeli non desiderano il peccato né le sofferenze che ne derivano; ma desiderano invece che l’ordine della giustizia divina venga rispettato, anche se questo comporta che alcuni subiscano dolore o commettano peccati.
+
+Risposta all’Obiezione 1: Queste parole di Isaia possono essere intese riferendosi agli angeli, cioè ai messaggeri di Ezechia, che piansero a causa delle parole di Rabsaceo, come descritto in Isaià 37:2 e seguenti: questo sarebbe il senso letterale. Secondo il senso allegorico, gli “angeli della pace” sono gli apostoli e i predicatori che piangono per i peccati degli uomini. Se invece si interpretasse questo passaggio in senso anagogico, riferendosi agli angeli beati, allora l’espressione sarebbe metaforica e significherebbe che, in senso universale, sono gli angeli a portare la salvezza dell’umanità; infatti, in questo contesto attribuiamo emozioni anche a Dio e agli angeli.  
+La risposta alla seconda obiezione deriva da quanto è stato detto finora.
+
+Risposta all’Obiezione 3: Sia nel pentimento dell’uomo che nel suo peccato, c’è una sola ragione per la gioia dell’angelo, ovvero l’adempimento dell’ordine della Provvidenza Divina.
+
+Risposta all’Obiezione 4: Gli angeli vengono portati davanti al giudizio per i peccati degli uomini, non perché siano colpevoli, ma perché possano testimoniare della debolezza umana e condannarla.
+
 <span class="atom-split" data-atom="076" data-title="Whether there can be strife or discord among the angels?" data-chapter="Whether there can be strife or discord among the angels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there can be strife or discord among the angels. For it is written
@@ -3430,6 +4523,20 @@ since they are all of one mind as to the fulfilment of the Divine decree; but th
 which they seek knowledge are in opposition.
 From this the answers to the objections are clear.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra possibile che possa esserci conflitto o discordia tra gli angeli. Infatti è scritto nel [Libro di Giobbe 25:2]: “Chi stabilisce la pace nei luoghi alti”. Ma il conflitto è l’opposto della pace; pertanto, tra gli angeli più elevati non può esserci alcun conflitto.
+
+Obiezione 2: Inoltre, dove esiste una carità perfetta e un’autorità giusta, non può esserci alcun conflitto. Ma tutto ciò esiste tra gli angeli; pertanto, non vi sono conflitti tra gli angeli.
+
+Obiezione 3: Inoltre, se affermiamo che gli angeli si sforzano di aiutare coloro che custodiscono, è necessario che uno angelo prenda una certa posizione e un altro l’opposta. Ma se una parte ha ragione, l’altra ha torto; ne consegue quindi che un angelo buono possa compiere atti errati, il che è inappropriato. Pertanto, non esiste alcuna conflittualità tra gli angeli buoni.
+
+Al contrario, è scritto (Dan. 10:13): “Il principe del regno di Persia mi ha resistito per ventuno giorni”. Ma questo principe di Persia era l’angelo incaricato della protezione del regno di Persia. Pertanto, un angelo buono resiste agli altri; ed è così che sorge conflitto tra loro.
+
+Rispondo che la sollevazione di questa questione è motivata da questo passo del Libro di Daniele. Gerolamo lo spiega dicendo che il “principe del regno di Persia” è l’angelo che si oppose alla liberazione del popolo d’Israele, per il quale Daniele pregava; le sue preghiere venivano presentate a Dio tramite Gabriele. Questa resistenza da parte dell’angelo potrebbe essere stata causata dal fatto che qualche principe dei demoni avesse indotto i prigionieri ebrei in Persia al peccato, un peccato che ostacolava l’efficacia delle preghiere di Daniele per quel popolo.  
+Ma secondo Gregorio (Moralia, XVII), il “principe del regno di Persia” era un angelo buono incaricato della protezione di quel regno. Per comprendere quindi come si possa dire che un angelo resista a un altro, dobbiamo notare che i giudizi divini riguardanti vari regni e persone vengono attuati dagli angeli stessi. Nelle loro azioni, gli angeli sono guidati dal decreto divino; tuttavia, in alcuni casi, nei diversi regni o tra le diverse persone esistono meriti o demeriti contrapposti, tanto che uno di essi finisce per essere sottoposto all’altro. Quanto alla logica della saggezza divina in tali questioni, gli angeli non possono conoscerla se Dio non la rivela loro; pertanto devono consultare la saggezza divina al riguardo. Poiché consultano la volontà divina riguardo a questi meriti e demeriti contrapposti, si dice che gli angeli “si resistano” a vicenda: non perché le loro volontà siano in opposizione, poiché tutti sono d’accordo nel rispettare il decreto divino; ma perché gli argomenti su cui cercano di comprendere la volontà divina sono effettivamente contrapposti.  
+Da ciò derivano chiaramente le risposte alle obiezioni sollevate.
+
 <span class="atom-split" data-atom="077" data-title="OF THE ASSAULTS OF THE DEMONS (FIVE ARTICLES)" data-chapter="OF THE ASSAULTS OF THE DEMONS (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now consider the assaults of the demons. Under this head there are five points of inquiry:
@@ -3438,6 +4545,15 @@ We now consider the assaults of the demons. Under this head there are five point
 (3) Whether all the sins of men are to be set down to the assaults or temptations of the demons?
 (4) Whether they can work real miracles for the purpose of leading men astray?
 (5) Whether the demons who are overcome by men, are hindered from making further assaults?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora esaminiamo gli attacchi dei demoni. In questo ambito vi sono cinque punti da indagare:  
+(1) Gli uomini vengono effettivamente assaliti dai demoni?  
+(2) È proprio del diavolo tentare le persone?  
+(3) Tutti i peccati degli uomini possono essere attribuiti agli attacchi o alle tentazioni dei demoni?  
+(4) I demoni sono in grado di compiere veri miracoli al fine di traviare gli uomini?  
+(5) I demoni che vengono sconfitti dagli uomini sono impediti di proseguire con i loro attacchi?
 
 <span class="atom-split" data-atom="078" data-title="Whether men are assailed by the demons?" data-chapter="Whether men are assailed by the demons?" data-kind="atom" data-srclang="en"></span>
 
@@ -3482,6 +4598,24 @@ not, for there are more with us than with them."
 Reply to Objection 3: The assault of the flesh and the world would suffice for the exercise of
 human weakness: but it does not suffice for the demon's malice, which makes use of both the above
 in assailing men. But by the Divine ordinance this tends to the glory of the elect.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli uomini non siano assaliti dai demoni. Infatti, gli angeli vengono inviati da Dio per proteggere l’uomo; ma i demoni non sono inviati da Dio, poiché lo scopo dei demoni è la perdita delle anime, mentre lo scopo di Dio è la salvezza delle anime. Pertanto, i demoni non sono incaricati di assalire gli uomini.
+
+Obiezione 2: Inoltre, non si tratta di una lotta equa, quando i deboli vengono messi contro i forti e gli ignoranti contro gli astuti. Ma gli uomini sono deboli e ignoranti, mentre i demoni sono forti e astuti. Pertanto, non può essere permesso da Dio, autore di ogni giustizia, che gli uomini siano attaccati dai demoni.
+
+Obiezione 3: Inoltre, le tentazioni della carne e del mondo sono sufficienti per mettere alla prova l’uomo. Ma Dio permette che i suoi eletti siano soggetti a tali tentazioni affinché possano essere temprati. Pertanto, non c’è alcun bisogno che vengano attaccati anche dai demoni.
+
+Al contrario, l’Apostolo dice (Efesini 6:12): “La nostra lotta non è contro la carne e il sangue, ma contro i principati e le potenze, contro i dominatori di questo mondo oscuro, contro gli spiriti del male che operano nel regno delle tenebre”.
+
+Rispondo che, nell’attacco dei demoni, si possono considerare due aspetti: l’atto stesso dell’attacco e il modo in cui esso viene organizzato. L’atto stesso dell’attacco deriva dalla malvagità dei demoni, i quali, per invidia, cercano di ostacolare il [progresso](/positions/progress) dell’uomo; inoltre, per orgoglio, usurpano una sorta di potere divino, incaricando alcuni “ministri” di attaccare l’uomo, proprio come gli angeli di Dio, nei loro diversi ruoli, servono alla salvezza dell’uomo. Tuttavia, l’organizzazione stessa di questi attacchi proviene da Dio, il quale sa come utilizzare il male al fine del bene. Per quanto riguarda gli angeli, sia la loro funzione di guardiani che il modo in cui essa viene svolta devono essere attribuiti a Dio come loro autore principale.
+
+Risposta all’Obiezione 1: Gli angeli malvagi attaccano gli uomini in due modi. Prima di tutto, istigandoli al peccato; e in questo caso non sono inviati da Dio per attaccarci, ma a volte sono permessi di farlo secondo i giusti giudizi di Dio. Tuttavia, a volte il loro attacco rappresenta una punizione per l’uomo: ed è allora che sono inviati da Dio; come lo spirito bugiardo inviato per punire Achab, re d’Israele, come raccontato in 3 Re 22:20. Poiché la punizione viene attribuita a Dio come suo primo autore. Nonostante ciò, i demoni che vengono inviati a punire lo fanno con un intento diverso da quello per cui sono stati mandati; infatti li castigano per odio o invidia, mentre invece sono inviati da Dio per motivi di giustizia.
+
+Risposta all’Obiezione 2: Affinché le condizioni della battaglia non siano diseguali, per l’uomo esiste la ricompensa promessa, da ottenere principalmente attraverso la grazia di Dio e, in secondo luogo, attraverso la protezione degli angeli. Per questo motivo (4 Re 6:16), Eliseo disse al suo servo: “Non temere, perché noi siamo più numerosi di loro”.
+
+Risposta all’Obiezione 3: L’attacco del corpo e del mondo sarebbe sufficiente per esercitare la debolezza umana; ma non è sufficiente per la malvagità del demone, che utilizza entrambi questi mezzi per attaccare gli uomini. Tuttavia, per disposizione divina, tutto ciò tende alla gloria degli eletti.
 
 <span class="atom-split" data-atom="079" data-title="Whether to tempt is proper to the devil?" data-chapter="Whether to tempt is proper to the devil?" data-kind="atom" data-srclang="en"></span>
 
@@ -3531,6 +4665,25 @@ Reply to Objection 3: Although a demon cannot change the will, yet, as stated ab
 A[3]), he can change the inferior powers of man, in a certain degree: by which powers, though the
 will cannot be forced, it can nevertheless be inclined.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che tentare non sia una caratteristica propria del diavolo. Infatti, si dice che Dio tenti, come riportato in Genesi 22:1: “Dio tentò Abramo”. Inoltre, l’uomo viene tentato dalla carne e dal mondo. In più, si dice che anche l’uomo possa tentare Dio e gli altri uomini. Pertanto, non sembra appropriato che il diavolo tenti.
+
+Obiezione 2: Inoltre, tentare è un segno di ignoranza. Ma i demoni sanno ciò che accade tra gli uomini. Pertanto, i demoni non tentano.
+
+Obiezione 3: Inoltre, la tentazione è il cammino verso il peccato. Ora, il peccato risiede nella volontà umana. Poiché quindi i demoni non possono cambiare la volontà dell’uomo, come emerge da quanto detto in precedenza (Q[111], A[2]), sembra che non spetti a loro il compito di tentare le persone.
+
+Al contrario, è scritto (1 Tessalonicesi 3:5): “Perché forse colui che vi tenta abbia avuto successo nel farlo”; e la glossa aggiunge: “Cioè il diavolo, il cui compito è proprio tentare le persone”.
+
+Rispondo che, per definizione, tentare significa mettere alla prova qualcosa. Noi mettiamo alla prova qualcosa al fine di conoscere meglio quella cosa; pertanto lo scopo immediato di ogni tentatore è la conoscenza. Tuttavia, a volte si cerca di ottenere attraverso tale conoscenza un altro risultato, sia positivo che negativo: uno scopo positivo, ad esempio, quando si desidera conoscere qualcuno per valutarne le capacità intellettuali o la virtù al fine di promuoverlo; uno scopo negativo, invece, quando quella conoscenza viene utilizzata allo scopo di ingannarlo o distruggerlo.  
+Da questo possiamo comprendere perché si dice che diversi esseri tentino in modi diversi. L’uomo, ad esempio, a volte tenta semplicemente per conoscere meglio qualcosa; ed è proprio per questa ragione che tentare Dio è considerato un peccato: l’uomo, essendo incerto, osa mettere alla prova il potere di Dio. A volte tenta per aiutare, altre volte per nuocere; il diavolo, invece, tenta sempre allo scopo di far compiere all’uomo atti peccaminosi. In questo senso, si dice che il tentare sia la sua vera funzione: spesso l’uomo è indotto a peccare dal diavolo stesso. Si dice anche che Dio tenti al fine di conoscere meglio le persone; allo stesso modo in cui si dice che la conoscenza stessa possa portare gli altri alla conoscenza. Ecco perché è scritto (Deuteronomio 13:3): “Il Signore tuo Dio ti mette alla prova, per vedere se lo ami davvero”.  
+La carne e il mondo vengono considerati strumenti di tentazione; infatti, si può capire che tipo di persona sia qualcuno in base al modo in cui segue o resiste ai desideri della carne, nonché in base al modo in cui disprezza i vantaggi e le avversità mondane: cose di cui anche il diavolo fa uso per tentare le persone.  
+Ecco quindi una risposta chiara alla prima obiezione.
+
+Risposta all’Obiezione 2: I demoni conoscono ciò che accade esteriormente tra gli uomini; ma la vera natura interiore dell’uomo è conosciuta soltanto da Dio, che è il “pesatore degli spiriti” (Proverbi 16:2). È proprio questa natura interna a rendere l’uomo più propenso a un vizio piuttosto che a un altro; per questo il diavolo tenta, al fine di esplorare tale natura interiore, per poi indurlo a commettere il vizio a cui è più incline.
+
+Risposta all’Obiezione 3: Sebbene un demone non possa cambiare la volontà umana, come già detto sopra (Q[111], A[3]), può tuttavia modificare, in una certa misura, le facoltà inferiori dell’uomo. Attraverso queste facoltà, anche se la volontà non può essere costretta, può comunque essere influenzata.
+
 <span class="atom-split" data-atom="080" data-title="Whether all sins are due to the temptation of the devil?" data-chapter="Whether all sins are due to the temptation of the devil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all sins are due to the temptation of the devil. For Dionysius
@@ -3576,6 +4729,25 @@ Reply to Objection 3: Man can of his own accord fall into sin: but he cannot adv
 without the Divine assistance, which is borne to man by the ministry of the angels. For this reason
 the angels take part in all our good works: whereas all our sins are not due to the demons' instigation.
 Nevertheless there is no kind of sin which is not sometimes due to the demons' suggestion.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che tutti i peccati siano dovuti alla tentazione del diavolo. Infatti Dionigi afferma (Div. Nom. iv) che “la moltitudine dei demoni è la causa di tutti i mali, sia per loro stessi che per gli altri”. E Damasceno sostiene (De Fide Orth. ii, 4) che “tutta la malvagità e tutta l’impurità siano state ideate dal diavolo”.
+
+Obiezione 2: Inoltre, di ogni peccatore si può dire ciò che il Signore disse dei Giudei (Giovanni 8:44): “Voi siete del vostro padre il Diavolo”. Ma ciò valeva nel senso che essi peccavano per l’istigazione del Diavolo. Pertanto, ogni peccato è dovuto all’istigazione del Diavolo.
+
+Obiezione 3: Inoltre, così come gli angeli sono incaricati di proteggere gli uomini, allo stesso modo i demoni sono incaricati di attaccare gli uomini. Ma ogni cosa buona che facciamo è dovuta all’influenza degli angeli buoni; infatti, i doni divini ci vengono concessi dagli angeli. Pertanto, tutto il male che compiamo è dovuto alle instigazioni del diavolo.
+
+Al contrario, si legge in (“De Eccl. Dogmat. xlix”): “Non tutti i nostri pensieri malvagi sono suscitati dal diavolo, ma a volte sorgono dal movimento della nostra libera volontà”.
+
+Rispondo che una cosa può essere causa di un’altra in due modi: direttamente o indirettamente.  
+In modo indiretto, quando un agente è causa di una disposizione verso un certo effetto, si dice che sia la causa occasionale e indiretta di tale effetto; ad esempio, si potrebbe affermare che colui che asciuga il legno sia la causa dell’incendio del legno stesso. In questo senso, dobbiamo ammettere che il diavolo sia la causa di tutti i nostri peccati: è stato lui infatti ad istigare l’uomo primogenito a peccare, e da quel peccato derivò una tendenza al peccato in tutta l’umanità; in questo senso dobbiamo prendere sul serio le parole di Damasceno e Dionigi.  
+Ma si dice che una cosa sia la causa diretta di un’altra quando il suo agire tende direttamente verso quel risultato. In questo modo, il diavolo non è la causa di tutti i peccati: infatti, non tutti i peccati vengono commessi su istigazione del diavolo; alcuni derivano dalla libera volontà umana e dalla corruzione della natura umana. Come afferma Origene (Peri Archon iii), anche senza il diavolo, gli uomini avrebbero desiderio di cibo, amore e altri piaceri; tali desideri, se non controllati dalla ragione, possono causare molti disordini, soprattutto considerando la corruzione della nostra natura. La libera volontà umana, però, ha il potere di contenere questi desideri e mantenerli sotto controllo; pertanto, non è necessario che tutti i peccati derivino dall’istigazione del diavolo. Ma quei peccati che effettivamente derivano da tale istigazione vengono commessi “quando l’uomo viene ingannato dagli stessi seducenti mezzi utilizzati dai nostri primi genitori”, come afferma Isidoro (De Summo Bono ii).  
+Ecco quindi una risposta chiara alla prima obiezione.
+
+Risposta all’Obiezione 2: Quando l’uomo commette peccato senza essere istigato dal diavolo, diventa comunque un “figlio del diavolo”, nella misura in cui lo imita, poiché egli è colui che per primo ha commesso il peccato.
+
+Risposta all’Obiezione 3: L’uomo può, di sua volontà, cadere in peccato; ma non può progredire nel merito senza l’aiuto divino, che viene concesso all’uomo attraverso l’intervento degli angeli. Per questo motivo gli angeli partecipano a tutte le nostre opere buone; mentre tutti i nostri peccati non sono dovuti alle instigazioni dei demoni. Tuttavia, non esiste alcun tipo di peccato che, talvolta, non sia dovuto alle suggestioni dei demoni.
 
 <span class="atom-split" data-atom="081" data-title="Whether demons can lead men astray by means of real miracles?" data-chapter="Whether demons can lead men astray by means of real miracles?" data-kind="atom" data-srclang="en"></span>
 
@@ -3651,6 +4823,27 @@ men do, they do it for a different end and by a different right. The former do i
 the latter, for the glory of God: the former, by certain private compacts; the latter by the evident
 assistance and command of God, to Whom every creature is subject."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i demoni non possano traviare gli uomini attraverso miracoli veri e propri. Infatti, l’attività dei demoni si manifesterà soprattutto nelle opere dell’Anticristo. Ma come afferma l’Apostolo (2 Tessalonicesi 2:9), la sua “venuta avverrà attraverso le operazioni di Satana, con ogni sorta di poteri, segni e miracoli falsi”. Quindi, molto più spesso ancora i demoni compiono miracoli ingannevoli in altri momenti.
+
+Obiezione 2: Inoltre, i veri miracoli avvengono attraverso qualche cambiamento corporeo. Ma i demoni non sono in grado di modificare la natura di un corpo; infatti, [Agostino](/figures/augustine) afferma (De Civ. Dei XVIII, 18): “Non posso credere che il corpo umano possa ricevere gli arti di una bestia grazie all’arte o al potere di un demone”. Pertanto, i demoni non possono compiere veri miracoli.
+
+Obiezione 3: Inoltre, un argomento è inutile se può essere dimostrato in entrambi i sensi. Pertanto, se i veri miracoli potessero essere compiuti dai demoni, per convincere qualcuno di ciò che è falso, tali miracoli sarebbero inutili per confermare l’insegnamento della fede. Ciò è inappropriato; infatti è scritto (Marco 16:20): “Il Signore, operando così e confermando la parola con i segni che seguirono”.
+
+Al contrario, Agostino afferma (Q[83]; *Libro XXI, Sentenze, Sentenza 4, tra le opere supposte di Sant’Agostino): “Spesso, con l’ausilio dell’arte magica, vengono compiuti miracoli simili a quelli operati dai servitori di Dio”.
+
+Rispondo che, come è chiaro da quanto detto sopra (Q[110], A[4]), se consideriamo un [miracolo](/concepts/miracle) nel senso stretto, i demoni non possono compiere miracoli, né alcuna altra creatura, se non Dio stesso: poiché, in senso stretto, un miracolo è qualcosa che avviene al di fuori dell’ordine della natura creata, nell’ambito del quale ogni potere delle creature è contenuto. Tuttavia, a volte il termine “miracolo” può essere inteso in senso più ampio, per indicare qualsiasi cosa superi la capacità e l’esperienza umana. Ed è così che i demoni possono compiere “miracoli”, cioè azioni che suscitano lo stupore umano, poiché vanno al di là delle nostre possibilità e della nostra conoscenza. Infatti, anche un uomo, compiendo qualcosa che va oltre le capacità e la conoscenza di un altro, può indurlo a meravigliarsi di ciò che ha fatto; in un certo senso, allora quell’uomo sembra aver compiuto lui stesso un miracolo.  
+Va tuttavia notato che, sebbene queste azioni dei demoni che ci appaiono meravigliose non siano veri miracoli, a volte sono comunque reali. Così i maghi di Faraone, con il potere dei demoni, produssero serpenti e rane reali; e “quando il fuoco discese dal cielo e distrusse in un istante i servi e le pecore di Giobbe; quando la tempesta abbatté la sua casa insieme ai suoi figli, queste furono opere di Satana, non illusioni”; come afferma Agostino (De Civ. Dei xx, 19).
+
+Risposta all’Obiezione 1: Come afferma Agostino nello stesso passo, le opere dell’Anticristo possono essere definite “miracoli mendaci”: “oppure perché egli ingannerà i sensi degli uomini attraverso illusioni, in modo che non faccia realmente ciò che sembra di fare; oppure perché, anche se compie veri e propri miracoli, questi porteranno coloro che credono in lui verso l’errore”.
+
+Risposta all’Obiezione 2: Come abbiamo detto in precedenza (Q[110], A[2]), la materia corporea non obbedisce né agli angeli buoni né a quelli cattivi secondo il loro volere; pertanto i demoni possono, con il loro potere, trasformare la materia da una forma all’altra. Tuttavia, essi possono utilizzare determinati “semi” presenti negli elementi del mondo per ottenere questi effetti, come afferma Agostino (De Trinitate, iii, 8,9). Pertanto, bisogna ammettere che tutte le trasformazioni della materia corporea che possono essere prodotte da forze naturali – e alle quali si devono attribuire i suddetti “semi” – possono ugualmente essere realizzate anche dall’azione dei demoni, attraverso l’utilizzo di tali “semi”. Ad esempio, la trasformazione di certe cose in serpenti o rane può avvenire per effetto della decomposizione.
+
+Al contrario, quelle trasformazioni che non possono essere prodotte dal potere della natura non possono affatto essere realizzate dall’azione dei demoni; ad esempio, il cambiamento del corpo umano in quello di un animale, o la resurrezione di un morto. E se talvolta sembra che qualcosa del genere avvenga per l’intervento dei demoni, ciò non è reale, ma soltanto un’apparenza di realtà. Ciò può accadere in due modi: innanzitutto, dall’interno; in questo modo un demone può influenzare l’immaginazione umana e persino i suoi sensi fisici, facendo sì che qualcosa appaia diverso da ciò che realmente è, come spiegato sopra (Q[111], AA[3],4). Si dice infatti che talvolta ciò possa essere realizzato con il potere di certi corpi. In secondo luogo, dall’esterno: proprio come un demone può creare dal nulla un corpo di qualsiasi forma e assumervelo per apparire visibilmente in esso, allo stesso modo può conferire a qualsiasi cosa fisica una determinata forma, facendola sembrare tale. È quanto afferma Agostino nel De Civitate Dei XVIII, 18: “L’immaginazione umana, che sia nel pensiero che nel sogno assume le forme di un numero innumerevole di cose, appare ai sensi altrui come se fosse incarnata nella sembianza di qualche animale”. Questo non deve essere inteso nel senso che l’immaginazione stessa o le immagini che vi si formano siano identiche a ciò che appare ai sensi di un altro uomo, ma piuttosto che il demone, creando tali immagini nell’immaginazione umana, possa farle apparire ai sensi di un altro individuo.
+
+Risposta all’Obiezione 3: Come afferma Agostino (QQ. 83, qu. 79): “Quando i maghi fanno ciò che fanno gli uomini santi, lo fanno per uno scopo diverso e con un metodo diverso. I primi lo fanno per la propria gloria; gli ultimi, per la gloria di Dio. I primi lo fanno attraverso certi accordi privati; gli ultimi, grazie all’aiuto e al comando evidenti di Dio, a cui ogni creatura è soggetta.”
+
 <span class="atom-split" data-atom="082" data-title="Whether a demon who is overcome by man, is for this reason hindered from making further assaults?" data-chapter="Whether a demon who is overcome by man, is for this reason hindered from making further assaults?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a demon who is overcome by a man, is not for that reason
@@ -3678,6 +4871,16 @@ nevertheless sometimes return to the assault, is apparent from Mat. 12:44: "I wi
 house from whence I came out."
 From what has been said, the objections can easily be solved.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un demone sconfitto da un uomo non venga per questo impedito di lanciare ulteriori attacchi. Infatti, Cristo sconfisse efficacemente il tentatore; tuttavia in seguito il demone lo attaccò ancora, incitando i Giudei a ucciderlo. Pertanto, non è vero che il diavolo, una volta sconfitto, smetta di attaccare.
+
+Obiezione 2: Inoltre, infliggere punizione a colui che è stato sconfitto in una lotta significa incoraggiarlo ad attaccare ancora più duramente. Ma ciò non è conforme alla misericordia di Dio. Pertanto, ai demoni sconfitti non viene impedito di lanciare ulteriori attacchi.
+
+Al contrario, è scritto (Matteo 4:11): “Allora il diavolo Lo lasciò”, cioè Cristo che ebbe la vittoria su di Lui.
+
+Rispondo che alcuni affermano che, una volta sconfitto, un demone non possa più tentare alcun uomo, né verso lo stesso peccato né verso altri. Altri sostengono invece che possa continuare a tentare, ma non la stessa persona. Quest’ultima ipotesi sembra più plausibile se si intende che ciò avvenga per un periodo di tempo determinato; infatti, in Luca 4:13 si legge: “Dopo aver terminato tutte le sue tentazioni, il diavolo se ne andò da Lui per un po’”. Ci sono due motivi a sostegno di questa tesi. Il primo riguarda la clemenza di Dio: come afferma Crisostomo nel suo commento su Matteo, “il diavolo non tenta l’uomo per tutto il tempo che desidera, ma solo per quanto Dio lo permette; poiché, sebbene gli conceda di tentare per un breve periodo, lo allontana a causa della nostra debolezza”. Il secondo motivo deriva dall’astuzia del diavolo stesso. Ambrogio commenta Luca 4:13 dicendo che “il diavolo teme di perseverare nelle sue tentazioni, poiché si ritrae davanti alle continue sconfitte”. Tuttavia, è evidente che il diavolo a volte torni all’attacco; ne è un esempio Matteo 12:44: “Tornerò nella casa da cui sono uscito”. Da quanto detto, le obiezioni possono essere facilmente risolte.
+
 <span class="atom-split" data-atom="083" data-title="OF THE ACTION OF THE CORPOREAL CREATURE (SIX ARTICLES)" data-chapter="OF THE ACTION OF THE CORPOREAL CREATURE (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the action of the corporeal creature; and fate, which is ascribed to
@@ -3689,6 +4892,16 @@ certain bodies. Concerning corporeal actions there are six points of inquiry:
 (5) Whether demons are subject to their influence?
 (6) Whether the heavenly bodies impose necessity on those things which are subject to their
 influence?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’azione delle creature corporee, nonché il destino attribuito a determinati corpi. Per quanto riguarda le azioni corporee, esistono sei punti da indagare:  
+(1) Se un corpo possa essere attivo;  
+(2) Se nei corpi esistano alcune virtù essenziali;  
+(3) Se i corpi celesti siano la causa di ciò che avviene qui sulla Terra dai corpi inferiori;  
+(4) Se siano la causa degli atti umani;  
+(5) Se i demoni siano soggetti al loro influsso;  
+(6) Se i corpi celesti impongano necessariamente ciò che avviene sotto il loro dominio.
 
 <span class="atom-split" data-atom="084" data-title="Whether a body can be active?" data-chapter="Whether a body can be active?" data-kind="atom" data-srclang="en"></span>
 
@@ -3793,6 +5006,36 @@ its subject in acting, but it is to surpass it in being; unless indeed one were 
 transfers its identical self from the agent to the patient; thus Democritus explained action by an
 issue of atoms.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nessun corpo sia attivo. Infatti, [Agostino](/figures/augustine) afferma (De Civ. Dei V, 9):  
+“Ci sono cose che subiscono azioni senza agire; tali sono i corpi. C’è qualcuno che agisce senza essere soggetto ad azioni altrui; questo è Dio. Ci sono poi cose che agiscono e allo stesso tempo subiscono azioni; queste sono le sostanze spirituali.”
+
+Obiezione 2: Inoltre, ogni agente, tranne il primo, richiede nel proprio operare un soggetto suscettibile alle proprie azioni. Tuttavia non esiste alcuna sostanza al di sotto della sostanza corporea che possa essere suscettibile alle azioni di quest’ultima; poiché tale sostanza appartiene al grado più basso degli esseri. Pertanto, la sostanza corporea non è attiva.
+
+Obiezione 3: Inoltre, ogni sostanza corporea è limitata nella quantità. Ma la quantità ostacola il movimento e l’azione della sostanza, poiché la circonda e la penetra; proprio come una nuvola impedisce all’aria di ricevere la luce. Una prova di ciò è che più aumenta la quantità di un corpo, più diventa pesante e più difficile da muovere. Pertanto, nessuna sostanza corporea è attiva.
+
+Obiezione 4: Inoltre, il potere d’azione di ogni agente dipende dalla sua prossimità alla prima causa attiva. Ma i corpi, essendo i più composti, sono i più lontani dalla prima causa attiva, che è quella più semplice. Pertanto, nessun corpo è attivo.
+
+Obiezione 5: Inoltre, se un corpo è un agente, l’oggetto della sua azione è o una forma sostanziale o una forma accidentale. Ma non può trattarsi di una forma sostanziale; infatti non è possibile trovare in un corpo alcun principio di azione diverso da una qualità attiva, che è per definizione un accidente; e un accidente non può essere la causa di una forma sostanziale, poiché la causa è sempre più perfetta dell’effetto. Né può trattarsi di una forma accidentale, poiché, come afferma Agostino (De Trinitate, IX, 4), “un accidente non si estende oltre il suo soggetto”. Pertanto, nessun corpo è attivo.
+
+Al contrario, Dionisio afferma (Coel. Hier. XV) che, tra le altre qualità del fuoco corporeo, “esso dimostra la sua grandezza attraverso l’azione e il potere che esercita su ciò che afferra”.
+
+Rispondo che è evidente ai sensi che alcuni corpi sono attivi. Tuttavia riguardo all’azione dei corpi si sono verificate tre errori principali: alcuni hanno negato del tutto l’esistenza di qualsiasi azione da parte dei corpi; questa è l’opinione di Avicebron nel suo libro “La Fonte della Vita”, dove, attraverso gli argomenti menzionati, cerca di dimostrare che nessun corpo agisce realmente, ma che tutte le azioni che sembrano essere opera dei corpi sono in realtà frutto di una qualche forza spirituale che penetra in tutti i corpi; secondo lui, quindi, non è il fuoco a riscaldare, ma una forza spirituale che, attraverso il fuoco, esercita la sua azione. Questa opinione sembra derivare da quella di Platone: Platone sosteneva infatti che tutte le forme esistenti nella materia corporea siano in qualche modo partecipate da essa e da essa determinate e limitate; al contrario, le forme separate sarebbero assolute e, per così dire, universali; per questo motivo egli affermava che queste forme separate fossero le cause delle forme che esistono nella materia. Poiché la forma che si trova nella materia corporea è determinata da questa materia stessa e limitata dalla quantità, Avicebron riteneva che tale forma fosse “trattenuta” e “incatenata” dalla quantità, come principio di individualità, e quindi incapace di agire su altre materie; soltanto la forma spirituale e immateriale, non vincolata dalla quantità, potrebbe agire su altri oggetti.  
+Tuttavia, ciò non dimostra che la forma corporea non sia un’agente, ma solo che non è un’agente universale: infatti, in proporzione alla misura in cui una cosa è partecipata da una certa forma, anche ciò che ne deriva necessariamente deve essere considerato parte di essa; così, ad esempio, la capacità di vedere deriva dalla partecipazione alla forma della luce. Ma agire, che non è altro che far sì che qualcosa entri in azione, appartiene essenzialmente alla natura stessa dell’azione; pertanto ogni agente produce qualcosa di simile a sé stesso. Quindi, il fatto che una forma non sia determinata dalla materia e dalla quantità le conferisce la capacità di essere un agente indeterminato e universale; ma il fatto che sia determinata da una particolare materia la rende un agente limitato e specifico. Se quindi la forma del fuoco fosse separata, come sostenevano i platonici, essa sarebbe in qualche modo la causa di ogni processo di combustione; ma la forma del fuoco che esiste nella materia corporea è soltanto la causa di quel particolare processo di combustione che avviene tra due corpi.  
+Tuttavia, l’opinione di Avicebron va oltre quella di Platone: Platone riteneva infatti che solo le forme sostanziali fossero separate; mentre Avicebron considerava anche gli accidenti come parte delle strutture materiali, definite da concetti come “grande” e “piccolo”, o “raro” e “denso”. Pertanto sia Platone che Avicenna ritenevano che gli agenti corporei agissero attraverso le loro forme accidentali, predisponendo la materia affinché ricevesse la forma sostanziale; ma che la perfezione ultima di un oggetto derivasse soltanto dall’introduzione della forma sostanziale stessa.
+Un principio immateriale. E questa è la seconda opinione riguardo all’azione dei corpi; di cui abbiamo parlato in precedenza quando trattavamo della creazione (Q[45], A[8]).  
+La terza opinione è quella di Democrito, il quale sosteneva che l’azione avvenga attraverso la emissione di [atomi](/positions/atomism) dall’agente corporeo, mentre la passività consiste nell’assorbimento degli atomi nei pori del corpo passivo. Questa opinione viene confutata da [Aristotele](/figures/aristotle) (De Generati i, 8,9). Infatti, ne deriverebbe che un corpo non potrebbe essere considerato passivo nel suo insieme, e che la quantità di atomi attivi presente in quel corpo diminuirebbe durante l’azione; cose chiaramente false.  
+Dobbiamo quindi affermare che un corpo agisce nella misura in cui è in atto, e che agisce su un altro corpo nella misura in cui quest’ultimo si trova in [potenzialità](/concepts/act_potency).
+
+Risposta all’Obiezione 1: Questo passaggio di Agostino va inteso riferendosi all’intera natura corporea considerata nel suo insieme, poiché essa non possiede alcuna natura inferiore su cui agire; proprio come la natura spirituale agisce sulla natura corporea e la natura increata agisce su quella creata. Tuttavia, un corpo è inferiore a un altro in quanto possiede solo la potenzialità di ciò che l’altro ha già realizzato concretamente. Da questo deriva la soluzione anche alla seconda obiezione. Va però osservato che, quando Avicebron sostiene che “esiste un motore che non viene mosso, ovvero il primo creatore di tutto; pertanto esiste qualcosa che viene mosso e che è puramente passivo”, questa affermazione va accettata. Tuttavia, ciò che viene definito “qualcosa che viene mosso” rappresenta la materia primordiale, una pura potenzialità, proprio come Dio è un [atto puro](/concepts/actus_purus). Ora, un corpo è composto da potenzialità e atto; pertanto è sia attivo che passivo.
+
+Risposta all’Obiezione 3: La quantità non ostacola del tutto l’azione della forma corporea, come già detto; tuttavia impedisce che essa agisca in modo universale, poiché una forma diventa individuata quando è concretizzata in materia soggetta alla quantità. La prova basata sul peso dei corpi non è pertinente al discorso: innanzitutto, perché l’aggiunta di quantità non determina necessariamente un aumento del peso, come dimostrato nel “De Coelo et Mundo” iv, 2; in secondo luogo, è falso affermare che il peso rallenti il movimento: al contrario, più un oggetto è pesante, maggiore sarà il suo movimento, se si considera il tipo di movimento specifico ad esso proprio; infine, l’azione non avviene attraverso il movimento locale, come sosteneva Democrito, ma piuttosto attraverso il passaggio di qualcosa da uno stato potenziale a uno stato attivo.
+
+Risposta all’Obiezione 4: Un corpo non è ciò che è più lontano da Dio; poiché partecipa in qualche modo alla somiglianza con l’Essere Divino, in quanto possiede una forma. Ciò che è invece più lontano da Dio è la materia primordiale; essa non è affatto attiva, poiché rappresenta soltanto una pura potenzialità.
+
+Risposta all’Obiezione 5: Il termine dell’azione di un corpo è sia una forma accidentale che una forma sostanziale. La qualità attiva, come il calore – sebbene essa stessa sia un accidente – agisce comunque grazie alla forma sostanziale, che ne funge da strumento; pertanto la sua azione può terminare in una forma sostanziale. Ad esempio, il calore naturale, in quanto strumento dell’anima, ha un’azione che si concreta nella generazione della carne. Tuttavia, per propria natura, il calore produce soltanto accidenti. Non è nemmeno contrario alla natura di un accidente superare il proprio soggetto nell’agire; ciò che è contrario, invece, è che esso lo superi nel “essere”; a meno che non si possa immaginare che un accidente trasferisca la propria identità dal soggetto agente al soggetto passivo. È proprio in questo modo che Democrito spiegava l’azione come il risultato dell’emissione di atomi.
+
 <span class="atom-split" data-atom="085" data-title="Whether there are any seminal virtues in corporeal matter?" data-chapter="Whether there are any seminal virtues in corporeal matter?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there are no seminal virtues in corporeal matter. For virtue
@@ -3858,6 +5101,29 @@ outside the scope of the passive virtues so implanted in the creature, that the 
 any purpose that God commands. But miracles are said to be wrought outside the scope of the
 natural active virtues, and the passive potentialities which are ordered to such active virtues, and
 this is what is meant when we say that they are wrought outside the scope of seminal virtues.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nella materia corporea non esistano virtù “seminali”. Infatti, la virtù implica qualcosa di ordine spirituale; ma nella materia corporea non esiste nulla di natura spirituale, ma soltanto di natura materiale, cioè secondo il modo in cui essa è costituita. Pertanto, nella materia corporea non vi sono virtù “seminali”.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) (De Trin. iii, 8,9) afferma che i demoni producono determinati effetti utilizzando, con un movimento nascosto, certe “semi” che sanno esistere nella materia. Ma sono i corpi, e non le virtù, quelli che possono essere messi in movimento in modo locale. Pertanto, è irragionevole sostenere l’esistenza di “virtù seminali” nella materia corporea.
+
+Obiezione 3: Inoltre, i semi sono principi attivi. Ma nella materia corporea non esistono principi attivi; poiché, come abbiamo detto sopra, la materia non è in grado di agire (A[1], ad 2,4). Pertanto, nella materia corporea non esistono virtù seminali.
+
+Obiezione 4: Inoltre, si afferma che esistano determinate “virtù causali” (Agostino, De Genesi ad Literam V, 4) che sembrerebbero sufficienti per la generazione delle cose. Tuttavia, le virtù seminali non sono virtù causali: i miracoli, infatti, rientrano nell’ambito delle virtù seminali, ma non in quello delle virtù causali. Pertanto, è irragionevole sostenere l’esistenza di virtù seminali nella materia corporea.
+
+Al contrario, Agostino afferma (De Trinitate, III, 8): “Di tutte le cose che vengono generate in modo corporeo e visibile, alcune semine sono nascoste all’interno delle cose materiali di questo mondo.”
+
+Rispondo che è consuetudine denominare le cose in base a ciò che è più perfetto, come afferma il Filosofo (De [Anima](/concepts/soul) ii, 4). Ora, nell’intera natura corporea, gli esseri viventi sono i più perfetti; per questo motivo il termine “natura” è stato esteso da questi ultimi a tutte le cose naturali. Il termine stesso, “natura”, come dice il Filosofo (Metaph. v, Did. iv, 4), fu inizialmente usato per indicare la generazione degli esseri viventi, processo chiamato “nascita”. Poiché gli esseri viventi si generano da un principio che è unito a loro, come il frutto dall’albero o il discendente dalla madre, il termine “natura” è stato quindi esteso a qualsiasi principio di movimento esistente nelle cose soggette a movimento. È evidente che i principi attivi e passivi della generazione degli esseri viventi sono proprio i semi da cui questi ultimi derivano. Pertanto Agostino, con grande acume, definì “virtù seminali” tutte quelle virtù attive e passive che costituiscono i principi della generazione e del movimento naturale.  
+Queste virtù attive e passive possono essere considerate in diversi ordini. Innanzitutto, come afferma Agostino (Gen. ad lit. vi, 10), esse esistono principalmente nel Verbo di Dio, sotto forma di “idee tipiche”. In secondo luogo, si trovano negli elementi del mondo, dove sono state generate fin dall’inizio, come “cause universali”. In terzo luogo, sono presenti in quelle cose che, nel corso del tempo, vengono prodotte da cause universali; ad esempio, in questa pianta o in quell’animale, come “cause particolari”. Infine, si trovano nei “semi” prodotti da piante e animali; questi semi, a loro volta, possono essere considerati come effetti particolari derivanti da cause universali primordiali.
+
+Risposta all’Obiezione 1: Queste virtù attive e passive delle cose naturali, sebbene non vengano chiamate “virtù” per il fatto di risiedere nella materia corporea, possono comunque essere definite tali in relazione alla loro origine, poiché sono effetto delle idee tipiche [rationes ideales].
+
+Risposta all’Obiezione 2: Queste virtù attive e passive si trovano in alcune parti delle cose materiali; quando vengono utilizzate per produrre determinati risultati attraverso movimenti locali, parliamo di demoni che “utilizzano semi” per realizzare tali effetti.
+
+Risposta all’Obiezione 3: Il seme maschile rappresenta il principio attivo nella generazione di un animale. Tuttavia, si può definire “seme” anche ciò che la femmina contribuisce come principio passivo. Pertanto, il termine “seme” include sia i principi attivi che quelli passivi.
+
+Risposta all’Obiezione 4: Dalle parole di Agostino quando parla di queste virtù “seminali”, è facile dedurre che siano anche virtù “cauzali”, proprio come il seme rappresenta una sorta di causa; egli infatti afferma (De Trinitate, iii, 9) che “così come una madre è incinta del figlio non ancora nato, allo stesso modo il mondo stesso è ‘incinto’ delle cause di tutte le cose future”. Tuttavia, le “idee tipiche” possono essere definite “virtù causali”, ma non, in senso stretto, “virtù seminali”, poiché il seme non costituisce un principio separato; inoltre, i miracoli non avvengono al di fuori dell’ambito delle virtù causali. Allo stesso modo, i miracoli non si verificano nemmeno al di fuori dell’ambito delle virtù passive insite nella creatura, le quali possono essere utilizzate per qualsiasi scopo Dio comandi. I miracoli, invece, avvengono al di fuori dell’ambito delle virtù attive naturali e delle potenzialità passive ordinate a tali virtù; ed è proprio questo che si intende quando si dice che i miracoli si verificano al di fuori dell’ambito delle virtù seminali.
 
 <span class="atom-split" data-atom="086" data-title="Whether the heavenly bodies are the cause of what is produced in bodies here below?" data-chapter="Whether the heavenly bodies are the cause of what is produced in bodies here below?" data-kind="atom" data-srclang="en"></span>
 
@@ -3929,6 +5195,31 @@ sometimes into a female. Augustine quotes this as an argument against divination
 the effects of the stars are varied even in corporeal things, according to the various dispositions of
 matter.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i corpi celesti non siano la causa di ciò che avviene nei corpi terreni. Infatti, Damasceno afferma (De Fide Orthodossa ii, 7): “Diciamo che essi” – cioè i corpi celesti – “non siano la causa della generazione o della corruzione; piuttosto, sono segni di tempeste e cambiamenti atmosferici”.
+
+Obiezione 2: Inoltre, per la produzione di qualsiasi cosa, sono sufficienti un agente e una materia. Ma nelle cose terrene esiste materia passiva, nonché agenti opposti – calore e freddo, e simili. Pertanto, per la produzione delle cose terrene, non è necessario attribuire una causalità ai corpi celesti.
+
+Obiezione 3: Inoltre, l’agente che produce qualcosa genera sempre qualcosa di simile a ciò che ha prodotto. È da osservare che tutto ciò che viene prodotto qui sulla Terra avviene attraverso l’azione del caldo e del freddo, dell’umidità e della secchezza, nonché di altre qualità del genere che non esistono nei corpi celesti. Pertanto, i corpi celesti non possono essere considerati la causa di ciò che viene prodotto qui sulla Terra.
+
+Obiezione 4: Inoltre, [Agostino](/figures/augustine) afferma (De Civ. Dei V, 6): “Niente è più corporeo del sesso.”  
+Ma il sesso non è causato dai corpi celesti; un segno di ciò sono i gemelli nati sotto la stessa costellazione: uno può essere maschio e l’altro femmina. Pertanto, i corpi celesti non possono essere considerati la causa delle cose che vengono generate nei corpi terreni.
+
+Al contrario, Agostino afferma (De Trinitate iii, 4): “I corpi di natura più grossolana e inferiore sono regolati, in un certo ordine, da quelli di natura più sottile e potente”. E Dionigi (Divinum Nomina iv) sostiene che “la luce del sole contribuisce alla formazione dei corpi sensibili, li anima, fornisce loro nutrimento, crescita e perfezione”.
+
+Rispondo che, poiché ogni molteplicità deriva dall’unità; e poiché ciò che è immobile si trova sempre nello stesso stato di essere, mentre ciò che è mobile può assumere molti stati diversi, bisogna riconoscere che, in tutta la natura, ogni movimento ha origine dall’immobile. Pertanto, più certe cose sono immobili, più diventano la causa di quelle che sono più soggette al movimento. Ora, i corpi celesti sono tra tutti i corpi quelli più immobili, poiché non vengono mossi se non in modo locale. Ne consegue che i movimenti dei corpi terreni, che sono vari e multiformi, debbano essere considerati come derivanti dal movimento dei corpi celesti, cioè come la loro causa principale.
+
+Risposta all’Obiezione 1: Queste parole di Damaseno devono essere intese come una negazione del fatto che i corpi celesti siano la causa primaria della generazione e della corruzione in questo mondo; infatti, ciò era affermato da coloro che ritenevano i corpi celesti dei dèi.
+
+Risposta all’Obiezione 2: I principi attivi dei corpi terreni non sono altro che le qualità attive degli elementi – come il caldo e il freddo – e simili. Pertanto, se le forme sostanziali dei corpi inferiori non si diversificassero se non in base a tali accidenti, per i quali gli antichi filosofi naturalisti ritenevano esistessero principi “rari” e “densi”, non ci sarebbe bisogno di ipotizzare l’esistenza di qualche principio superiore a questi corpi, poiché essi stessi sarebbero sufficienti per agire. Ma chi considera la questione con attenzione comprende facilmente che tali accidenti non sono altro che disposizioni materiali relative alle forme sostanziali dei corpi naturali. Ora, la materia di per sé non è sufficiente ad agire; pertanto è necessario ipotizzare l’esistenza di qualche principio attivo al di sopra di queste disposizioni materiali.  
+È per questo che i platonici sostenevano l’esistenza di specie separate, attraverso la partecipazione delle quali i corpi inferiori ricevevano le loro forme sostanziali. Ma ciò non sembra sufficiente: poiché queste specie, essendo considerate immobili, avrebbero sempre lo stesso modo di essere; di conseguenza non ci sarebbe alcuna varietà nella generazione e nella corruzione dei corpi inferiori, il che è chiaramente falso.  
+Pertanto, come afferma il Filosofo (De Generatione, ii, 10), è necessario ipotizzare l’esistenza di un principio mobile, il cui essere o assenza determina la varietà nella generazione e nella corruzione dei corpi inferiori. Tali principi sono i corpi celesti. Quindi, ciò che genera qui sulla Terra agisce come strumento di tali corpi celesti; per questo il Filosofo dice (Physica, ii, 2) che “l’uomo e il sole generano l’uomo”.
+
+Risposta all’Obiezione 3: I corpi celesti non presentano una somiglianza specifica con i corpi terrestri. La loro somiglianza risiede nel fatto che, grazie alla loro potenza universale, tutto ciò che viene generato nei corpi inferiori è contenuto al loro interno. In questo modo diciamo anche che tutte le cose sono simili a Dio.
+
+Risposta all’Obiezione 4: Le azioni dei corpi celesti vengono recepite in modo diverso nei corpi inferiori, a seconda delle varie disposizioni della materia. A volte, infatti, la materia presente nell’embrione umano non è del tutto predisposta al sesso maschile; per questo motivo l’embrione può svilupparsi sia come maschio che come femmina. Agostino cita questo fenomeno come argomento contro la divinazione attraverso le stelle: poiché gli effetti delle stelle sono variati anche nelle cose corporee, a seconda delle diverse disposizioni della materia.
+
 <span class="atom-split" data-atom="087" data-title="Whether the heavenly bodies are the cause of human actions?" data-chapter="Whether the heavenly bodies are the cause of human actions?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the heavenly bodies are the cause of human actions. For since
@@ -3993,6 +5284,24 @@ his passions by his free-will. Wherefore the astrologers themselves are wont to 
 man is stronger than the stars" [*Ptolemy, Centiloquium, prop. 5], forasmuch as, to wit, he conquers
 his passions.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i corpi celesti siano la causa delle azioni umane. Poiché i corpi celesti vengono mossi da sostanze spirituali, come detto sopra (Q[110], A[3]), essi agiscono attraverso queste sostanze come loro strumenti. Ma tali sostanze spirituali sono superiori alle nostre anime; pertanto sembra che possano influenzare le nostre anime e, di conseguenza, determinare le azioni umane.
+
+Obiezione 2: Inoltre, ogni fenomeno multiforme può essere ridotto a un principio unico e uniforme. Ma le azioni umane sono varie e multiformi; pertanto sembra che possano anch’esse essere ricondotte ai movimenti uniformi dei corpi celesti, come ai loro principi fondamentali.
+
+Obiezione 3: Inoltre, gli astrologi spesso predicono con precisione l’esito delle guerre e di altre azioni umane, le quali sono guidate dall’intelletto e dalla volontà. Ma non potrebbero riuscirci attraverso i corpi celesti, a meno che questi non fossero la causa effettiva delle azioni umane. Pertanto, i corpi celesti devono essere considerati la causa delle azioni umane.
+
+Al contrario, Damasceno afferma (De Fide Orth. ii, 7) che “i corpi celesti non sono in alcun modo la causa delle azioni umane”.
+
+Rispondo che i corpi celesti possono agire direttamente e di per sé sui corpi terreni, come già detto sopra (A[3]). Essi possono effettivamente influenzare direttamente quelle facoltà dell’anima che sono legate agli organi corporei, ma in modo indiretto: poiché l’azione di tali facoltà è inevitabilmente ostacolata dagli impedimenti presenti negli stessi organi; ad esempio, un occhio disturbato non può vedere chiaramente. Pertanto, se intelletto e volontà fossero facoltà legate agli organi corporei, come alcuni sostengono, ritenendo che l’intelletto non differisca dai sensi, ne conseguirebbe necessariamente che i corpi celesti siano la causa delle scelte e delle azioni umane. Ciò significherebbe anche che l’uomo sia guidato dagli istinti naturali nelle sue azioni, proprio come gli altri animali, nei quali esistono facoltà diverse da quelle legate agli organi corporei; infatti, tutto ciò che avviene qui sulla terra grazie all’influenza dei corpi celesti avviene in modo naturale. Ne concluderebbe quindi che l’uomo non abbia libero arbitrio e che le sue azioni siano determinate, proprio come quelle delle altre cose naturali. Tutto ciò è chiaramente falso e contrario alle abitudini umane. Si deve tuttavia riconoscere che, in modo indiretto e accidentale, le influenze dei corpi celesti possono raggiungere intelletto e volontà, poiché entrambi ricevono informazioni dalle facoltà inferiori legate agli organi corporei. Tuttavia, in questo caso, intelletto e volontà svolgono ruoli diversi: l’intelletto riceve necessariamente queste informazioni dalle facoltà percettive inferiori; pertanto, se tali facoltà sono disturbate, anche l’attività dell’intelletto ne risente inevitabilmente. La volontà, invece, non è necessariamente guidata dagli impulsi dei desideri fisici; poiché, sebbene le passioni abbiano una certa forza nel determinare la volontà, essa mantiene comunque la capacità di seguirle o reprimerle. Pertanto, le influenze dei corpi celesti, che possono modificare queste facoltà inferiori, hanno un impatto minore sulla volontà – che è la causa diretta delle azioni umane – rispetto all’intelletto. Sostenere quindi che i corpi celesti siano la causa delle azioni umane è tipico di coloro che ritengono che l’intelletto non differisca dai sensi; per questo alcuni hanno affermato: “Così è la volontà degli uomini, come è il giorno che il padre degli uomini e dei dèi porta con sé” (Odissea XVIII, 135). Poiché è evidente che intelletto e volontà non sono facoltà legate agli organi corporei, è impossibile che i corpi celesti siano la causa delle azioni umane.
+
+Risposta all’Obiezione 1: Le sostanze spirituali che muovono i corpi celesti agiscono effettivamente sulle cose corporee attraverso questi stessi corpi celesti; tuttavia, agiscono direttamente sull’intelletto umano illuminandolo. D’altra parte, non possono costringere la volontà, come già affermato in precedenza (Q[111], A[2]).
+
+Risposta all’Obiezione 2: Proprio come la molteplicità dei movimenti corporei può essere ridotta all’uniformità del movimento celeste in termini di causa, così anche la molteplicità delle azioni che derivano dall’intelletto e dalla volontà può essere ricondotta a un principio unico, ovvero l’intelletto e la volontà divine.
+
+Risposta all’Obiezione 3: La maggior parte degli uomini segue le proprie passioni, che sono movimenti dell’appetito sensibile; in tali movimenti, i corpi celesti possono esercitare un’influenza positiva. Tuttavia, pochi sono abbastanza saggi da resistere a queste passioni. Di conseguenza, gli astrologhi riescono a prevedere la verità nella maggior parte dei casi, soprattutto in modo generale. Non però nei casi particolari; infatti nulla impedisce all’uomo di opporsi alle proprie passioni con la sua volontà libera. Per questo motivo, gli stessi astrologhi affermano che “l’uomo saggio è più potente delle stelle” [*Tolomeo, Centiloquium, proposizione 5], poiché egli riesce a dominare le proprie passioni.
+
 <span class="atom-split" data-atom="088" data-title="Whether heavenly bodies can act on the demons?" data-chapter="Whether heavenly bodies can act on the demons?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that heavenly bodies can act on the demons. For the demons,
@@ -4050,6 +5359,24 @@ Reply to Objection 3: As Augustine says (De Civ. Dei xxi, 6), the "demons are en
 various kinds of stones, herbs, trees, animals, songs, rites, not as an animal is enticed by food, but
 as a spirit by signs"; that is to say, forasmuch as these things are offered to them in token of the
 honor due to God, of which they are covetous.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i corpi celesti possano agire sui demoni. Infatti, secondo alcune fasi della luna, i demoni possono tormentare gli uomini, i quali per questo vengono chiamati pazzi, come si legge in Matteo 4:24 e 17:14. Ma ciò non sarebbe possibile se i demoni non fossero soggetti ai corpi celesti. Pertanto, i demoni sono soggetti a essi.
+
+Obiezione 2: Inoltre, i negromanti osservano determinate costellazioni al fine di evocare i demoni. Ma tali demoni non verrebbero evocati attraverso i corpi celesti se questi non fossero soggetti ad essi. Pertanto, i corpi celesti devono essere soggetti ai demoni.
+
+Obiezione 3: Inoltre, i corpi celesti sono più potenti dei corpi inferiori. Ma i demoni sono confinati in certi corpi inferiori, cioè “erbe, pietre, animali, nonché in determinati suoni, parole, forme e figure”, come afferma Porfirio, citato da [Agostino](/figures/augustine) (De Civ. Dei x, 11). Pertanto, i demoni sono ancora di più soggetti all’azione dei corpi celesti.
+
+Al contrario, nei termini dell’ordine naturale, i demoni sono superiori ai corpi celesti. Ma, come afferma Agostino (Genesi ad litteram XII, 16), “l’agente è superiore al soggetto su cui agisce”. Pertanto, i demoni non sono soggetti all’influenza dei corpi celesti.
+
+Rispondo che sull’esistenza dei demoni sono state avanzate tre opinioni diverse. In primo luogo, i [Peripatetici](/schools/lyceum) negavano l’esistenza dei demoni, sostenendo che ciò che viene attribuito loro attraverso le pratiche necromantiche fosse in realtà il risultato del potere dei corpi celesti. È quanto afferma Agostino nel “De Civitate Dei” x, 11, riferendosi alle opinioni di Porfirio: che “sulla terra gli uomini creano determinati strumenti capaci di produrre effetti legati all’azione delle stelle”. Tuttavia questa opinione è chiaramente falsa. Infatti, sappiamo per esperienza che molti fenomeni sono causati dai demoni, e il potere dei corpi celesti non sarebbe in alcun modo sufficiente a spiegarli: ad esempio, che una persona in stato di delirio possa parlare lingue sconosciute, recitare poesie o citare autori di cui non ha alcuna conoscenza pregressa; oppure che i negromanti riescano a far parlare e muoversi delle statue. Per queste ragioni, i Platonici ritenevano che i demoni fossero “animali con un corpo celeste e un’anima passiva”, come afferma Apuleio citato da Agostino nel “De Civitate Dei” viii, 16. Questa è la seconda delle opinioni menzionate: secondo essa, i demoni sarebbero soggetti ai corpi celesti nello stesso modo in cui lo siamo noi. Tuttavia questa opinione risulta falsa, come abbiamo già dimostrato (Q[51], A[1]): poiché riteniamo che i demoni siano sostanze spirituali non unite a corpi fisici. Pertanto è evidente che non siano soggetti all’azione dei corpi celesti né essenzialmente né accidentalmente, né direttamente né indirettamente.
+
+Risposta all’Obiezione 1: Il fatto che i demoni tormentino gli uomini, in base a determinate fasi della luna, avviene in due modi. Primo, lo fanno al fine di “diffamare la creazione di Dio”, ovvero la luna; come affermano Gerolamo (In Matt. iv, 24) e Crisostomo (Hom. lvii in Matt.). Secondo, poiché non sono in grado di compiere nulla se non attraverso le forze naturali – come già detto sopra (Q[114], A[4], ad 2) – tengono conto della capacità dei corpi di ottenere il risultato desiderato. È evidente che “il cervello è la parte più umida di tutto il corpo”, come afferma [Aristotele](/figures/aristotle) in [*De Part. Animal. ii, 7: De Sens. et Sensato ii: De Somn. et Vigil. iii*]; per questo motivo è particolarmente suscettibile all’azione della luna, la cui proprietà consiste nel muovere ciò che è umido. Ed è proprio nel cervello che le forze vitali raggiungono il loro apice; pertanto i demoni, in base a determinate fasi della luna, disturbano l’immaginazione umana, quando notano che il cervello è predisposto a ricevere tali influenze.
+
+Risposta all’Obiezione 2: I demoni, quando vengono evocati attraverso determinate costellazioni, lo fanno per due motivi. In primo luogo, al fine di indurre l’uomo nell’errore di credere che nelle stelle esista qualche potere divino. In secondo luogo, perché ritengono che, sotto certe costellazioni, la materia corporea sia più predisposta a ottenere il risultato per cui vengono evocati.
+
+Risposta all’Obiezione 3: Come afferma Agostino (De Civ. Dei xxi, 6), i “demoni vengono sedotti con vari tipi di pietre, erbe, alberi, animali, canti, riti; non come un animale viene attirato dal cibo, ma come uno spirito da simboli”; in altre parole, poiché queste cose vengono offerte loro come segno dell’onore dovuto a Dio, di cui essi sono avidi.
 
 <span class="atom-split" data-atom="089" data-title="Whether heavenly bodies impose necessity on things subject to their action?" data-chapter="Whether heavenly bodies impose necessity on things subject to their action?" data-kind="atom" data-srclang="en"></span>
 
@@ -4119,6 +5446,24 @@ Reply to Objection 3: Although the cause that hinders the effect of another caus
 reduced to a heavenly body as its cause; nevertheless the clashing of two causes, being accidental,
 is not reduced to the causality of a heavenly body, as stated above.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i corpi celesti impongano necessità alle cose soggette al loro influsso. Infatti, data una causa sufficiente, l’effetto segue necessariamente. Ma i corpi celesti sono proprio una causa sufficiente dei loro effetti. Pertanto, poiché i corpi celesti, con i loro movimenti e le loro proprietà, sono esseri necessari, sembra che anche i loro effetti siano necessari.
+
+Obiezione 2: Inoltre, l’effetto di un agente si verifica necessariamente sulla materia, quando il potere di quell’agente è tale da poter sottomettere completamente la materia al proprio dominio. Tuttavia, l’intera materia dei corpi inferiori è soggetta al potere dei corpi celesti, poiché questo rappresenta un potere superiore al loro. Pertanto, l’effetto dei corpi celesti viene necessariamente ricevuto nella materia corporea.
+
+Obiezione 3: Inoltre, se l’effetto di un corpo celeste non deriva necessariamente da esso stesso, ciò è dovuto a qualche causa ostacolante. Ma qualsiasi causa corporea che possa ostacolare l’effetto di un corpo celeste deve necessariamente essere riducibile a qualche principio celeste; poiché i corpi celesti sono le cause di tutto ciò che avviene qui sotto. Pertanto, poiché anche quel principio celeste è necessario, ne consegue che l’effetto del corpo celeste viene necessariamente ostacolato. Di conseguenza, si dovrebbe dedurre che tutto ciò che avviene qui sotto accade necessariamente.
+
+Al contrario, il Filosofo afferma (in *De Somn. et Vigil.* [*De Divin. per Somn. ii*]): “Non è incongruente che molti dei segni osservati nei corpi o delle fenomenologie celesti, come la pioggia e il vento, non si realizzino effettivamente”. Pertanto, non tutti gli effetti prodotti dai corpi celesti avvengono necessariamente.
+
+Rispondo che questa domanda viene in parte risolta da quanto detto sopra (A[4]); in parte, tuttavia, presenta alcune difficoltà. Infatti, è stato dimostrato che, sebbene l’azione dei corpi celesti produca determinate inclinazioni nella natura corporea, la volontà non segue necessariamente queste inclinazioni. Pertanto, nulla impedisce che l’effetto dei corpi celesti venga ostacolato dall’azione della volontà, non solo nell’uomo stesso, ma anche in altre cose su cui si estende l’azione umana. Tuttavia, nelle cose naturali non esiste alcun principio dotato di libertà di seguire o meno le impressioni prodotte dai corpi celesti. Pertanto, sembra che almeno in tali casi tutto avvenga necessariamente; secondo il ragionamento di alcuni antichi, i quali supponevano che tutto ciò che esiste abbia una causa e che, data questa causa, l’effetto segua necessariamente, concludevano che tutte le cose accadessero per necessità. Questa opinione viene confutata da [Aristotele](/figures/aristotle) (Metafisica VI, Didoxiologia V, 3) riguardo a queste due ipotesi. Innanzitutto, non è vero che, data qualsiasi causa, l’effetto debba seguire necessariamente; alcune cause sono infatti disposte nei loro effetti in modo tale da produrli nella maggior parte dei casi, ma meno spesso falliscono nel farlo. Il fatto che tali casi avvengano meno frequentemente è dovuto a qualche causa ostacolante; pertanto, la difficoltà menzionata sembra non essere superabile, poiché la causa in questione viene necessariamente ostacolata. Pertanto, dobbiamo dire che tutto ciò che esiste “in sé” ha una causa; ma ciò che esiste in modo accidentale non ha causa, perché non è veramente un essere. Ad esempio, il fatto che qualcosa sia “bianco” ha una causa; al contrario, il fatto che un uomo sia “musicalmente dotato” non ha causa; mentre il fatto che qualcosa sia “bianco e musicalmente dotato” non ha causa, perché tale cosa non è veramente un essere. Ora è evidente che una causa che ostacola l’azione di un’altra causa disposta a produrre un effetto nella maggior parte dei casi può talvolta scontrarsi con questa seconda causa in modo accidentale; e questo scontro, essendo accidentale, non ha alcuna causa. Pertanto, ciò che ne deriva non può essere ridotto a una causa preesistente da cui derivi necessariamente. Ad esempio, il fatto che alcuni corpi terrestri prendano fuoco nelle regioni superiori dell’aria e cadano sulla terra è causato da qualche forza celeste; al contrario, il fatto che sulla superficie della terra esista materiale combustibile può essere spiegato da qualche principio celeste. Ma il fatto che il corpo in fiamme atterri su questo materiale e lo incendi non è causato da un corpo celeste, ma è un evento accidentale. Pertanto, non tutti gli effetti dei corpi celesti derivano necessariamente.
+
+Risposta all’Obiezione 1: I corpi celesti sono cause di effetti che si verificano quaggiù, attraverso mezzi rappresentati da cause inferiori e particolari; queste cause, tuttavia, possono fallire nel produrre i loro effetti in alcuni casi rari.
+
+Risposta all’Obiezione 2: Il potere di un corpo celeste non è infinito. Pertanto, affinché possa produrre il proprio effetto, è necessario che esista una determinata disposizione della materia, sia in termini di distanza locale che di altre condizioni. Così come la distanza locale può ostacolare l’effetto di un corpo celeste (il sole, ad esempio, non ha lo stesso effetto termico in Dacia che in Etiopia), anche la densità della materia, la sua temperatura elevata o bassa, o altre simili caratteristiche, possono influenzare negativamente l’azione di un corpo celeste.
+
+Risposta all’Obiezione 3: Sebbene la causa che ostacola l’effetto di un’altra causa possa essere ridotta a un corpo celeste come sua causa; tuttavia lo scontro tra due cause, essendo accidentale, non può essere ricondotto alla causalità di un corpo celeste, come detto sopra.
+
 <span class="atom-split" data-atom="090" data-title="ON FATE (FOUR ARTICLES)" data-chapter="ON FATE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We come now to the consideration of fate. Under this head there are four points of inquiry:
@@ -4126,6 +5471,14 @@ We come now to the consideration of fate. Under this head there are four points 
 (2) Where is it?
 (3) Is it unchangeable?
 (4) Are all things subject to fate?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora passiamo alla considerazione del destino. In questo ambito vi sono quattro punti da esaminare:  
+(1) Esiste davvero una cosa chiamata destino?  
+(2) Dove si trova?  
+(3) È immutabile?  
+(4) Tutte le cose sono soggette al destino?
 
 <span class="atom-split" data-atom="091" data-title="Whether there be such a thing as fate?" data-chapter="Whether there be such a thing as fate?" data-kind="atom" data-srclang="en"></span>
 
@@ -4188,6 +5541,19 @@ Reply to Objection 2: Nothing hinders certain things happening by luck or by cha
 compared to their proximate causes: but not if compared to Divine Providence, whereby "nothing
 happens at random in the world," as Augustine says (QQ. 83, qu. 24).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il destino non sia nulla. Infatti Gregorio, in un’omelia per l’Epifania (Hom. x in Evang.), afferma: “Che non entri mai nella mente dei fedeli l’idea che il destino sia qualcosa di reale”.
+
+Obiezione 2: Inoltre, ciò che avviene per destino non è imprevedibile, poiché come afferma [Agostino](/figures/augustine) (De Civ. Dei V, 4), “il destino si intende come derivante dal verbo ‘fari’, che significa ‘dire’”; come se le cose venissero realmente “dette” da qualcuno che ne decide l’avverarsi. Ora, ciò che è previsto non può essere considerato né fortunato né casuale. Pertanto, se le cose avvengono per destino, nel mondo non esisterebbero né fortuna né [casualità](/concepts/fortune).
+
+Al contrario, ciò che non esiste non può essere definito. Tuttavia Boezio, nel “De Consolatione” IV, definisce il fato in questo modo: “Il fato è una disposizione intrinseca alle cose mutevoli, mediante la quale la Provvidenza collega ciascuna di esse al proprio ordine naturale.”
+
+Rispondo che, in questo mondo, alcune cose sembrano accadere per caso o fortuna. A volte, infatti, un evento appare casuale o dovuto a cause inferiori, mentre, se considerato in relazione a una causa superiore, risulta invece voluto direttamente da essa. Ad esempio, se due servitori vengono inviati dal loro padrone nello stesso luogo, l’incontro tra di loro è puramente casuale; ma, rispetto al padrone che ha impartito l’ordine, tale incontro rappresenta invece un effetto voluto. Alcuni si sono rifiutati di attribuire a cause superiori gli eventi che avvengono per caso; hanno negato dunque l’esistenza del [fato e della Provvidenza](/positions/fate_providence), come riporta Agostino riguardo a Tullio (De Civ. Dei V, 9). Questo, tuttavia, è in contraddizione con quanto abbiamo detto sopra sulla Provvidenza (Q[22], A[2]). D’altra parte, alcuni ritengono che tutto ciò che accade qui sotto per caso, sia nelle cose naturali che negli affari umani, debba essere ricondotto a una causa superiore, ovvero ai corpi celesti. Secondo questi, il fato non è altro che “l’ordine stabilito dalle stelle secondo cui ogni cosa viene generata o nata” (*Cfr. Sant’Agostino, De Civ. Dei V, 1,8,9*). Tuttavia, questa tesi non regge: innanzitutto, per quanto riguarda gli affari umani, abbiamo dimostrato che le azioni umane non sono soggette all’influenza dei corpi celesti, se non in modo accidentale e indiretto; inoltre, la causa del fato, essendo quella che determina ciò che accade per caso, deve necessariamente essere essa stessa la causa diretta di tali eventi. In secondo luogo, tutto ciò che avviene accidentalmente non può essere considerato un effetto reale di una causa naturale, poiché l’evento accidentale, in senso proprio, non è né un essere né una unità; ogni azione naturale, invece, ha sempre un effetto concreto. Pertanto, è impossibile che una causa naturale possa produrre come effetto diretto qualcosa che accade per caso, come ad esempio che una persona che intende scavare una tomba trovi un tesoro. Dobbiamo quindi riconoscere che ciò che avviene qui sotto per caso, sia nelle cose naturali che negli affari umani, è dovuto a una causa preordinata: la Provvidenza Divina. Infatti, nulla impedisce che un evento casuale venga considerato come qualcosa di unitario da parte dell’intelletto; altrimenti, l’intelletto non potrebbe formulare proposizioni del tipo “Colui che scavava una tomba ha trovato un tesoro”. E proprio perché l’intelletto può comprendere un evento casuale, esso può anche indurlo ad accadere: ad esempio, qualcuno che conosce il luogo in cui è nascosto un tesoro potrebbe incoraggiare una persona ignorante a scavare lì. Pertanto, nulla impedisce che ciò che avviene per caso venga ricondotto a una causa ordinatrice, ovvero alla Provvidenza Divina.
+Gli atti umani sono determinati dall’intelletto, in particolare dall’intelletto divino. Solo Dio infatti può modificare la volontà dell’uomo, come dimostrato sopra (Q[105], A[4]). Pertanto, l’ordinamento delle azioni umane, il cui principio è proprio la volontà, deve essere attribuito esclusivamente a Dio. Poiché tutto ciò che accade qui sulla terra è soggetto alla Provvidenza divina, essendo predestinato e, in qualche modo, “preannunciato”, possiamo ammettere l’esistenza del destino; sebbene i saggi teologi abbiano evitato di utilizzare questo termine, a causa di coloro che ne hanno distorto il significato, riferendolo a una sorta di forza legata alla posizione delle stelle. Pertanto Agostino afferma (De Civ. Dei v, 1): “Se qualcuno attribuisce gli affari umani al destino, intendendo con ciò la volontà o il potere di Dio, che tenga pure la sua opinione, ma si astenga dal parlarne”. Per questa ragione Gregorio nega l’esistenza del destino; e così si risolve anche la prima obiezione sollevata.
+
+Risposta all’Obiezione 2: Nulla impedisce che certe cose accadano per fortuna o caso, se si considerano le loro cause immediate; ma non se si tiene conto della Provvidenza Divina, secondo la quale “niente nel mondo avviene in modo casuale”, come afferma Agostino (QQ. 83, qu. 24).
+
 <span class="atom-split" data-atom="092" data-title="Whether fate is in created things?" data-chapter="Whether fate is in created things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that fate is not in created things. For [Augustine](/figures/augustine) says (De Civ. Dei
@@ -4231,6 +5597,24 @@ this order be considered in relation to its principle, it is one; and thus fate 
 considered in relation to its effects, or to the mediate causes, this fate is multiple. In this sense the
 poet wrote: "Thy fate draws thee."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il destino non risieda nelle cose create. Infatti, [Agostino](/figures/augustine) afferma (De Civ. Dei, v, 1) che “la volontà o il potere divino sono chiamati destino”. Ma la volontà o il potere divino non risiedono nelle creature, bensì in Dio. Pertanto, il destino non si trova nelle cose create, ma in Dio.
+
+Obiezione 2: Inoltre, il destino viene paragonato a quelle cose che avvengono per caso, considerandole la loro causa; come dimostra proprio l’uso stesso di questo termine. Ma la causa universale che, di per sé, determina ciò che accade casualmente qui sotto è soltanto Dio, come già detto sopra (A[1]). Pertanto, il destino risiede in Dio, e non nelle creature.
+
+Obiezione 3: Inoltre, se il fato esiste nelle creature, allora esso è o una sostanza o un accidente; e in ogni caso deve essere considerato come multiplificato in base al numero delle creature stesse. Poiché, quindi, il fato sembra essere una sola entità, ne consegue che non si trovi nelle creature, ma in Dio.
+
+Al contrario, Boezio afferma (De Consol. iv): “Il fato è una disposizione intrinseca alle cose mutevoli”.
+
+Rispondo che, come è chiaro da quanto detto sopra (Q[22], A[3]; Q[103], A[6]), la Provvidenza Divina produce effetti attraverso cause mediate. Pertanto possiamo considerare l’ordine di questi effetti in due modi: innanzitutto, come qualcosa che esiste direttamente in Dio stesso; in questo caso, tale ordine viene chiamato “Provvidenza”. Tuttavia, se consideriamo quest’ordine come derivante dalle cause mediate, disposte da Dio al fine di produrre determinati effetti, allora esso assume la natura del “fato”. È ciò che afferma Boezio nel De Consolatio: “Il fato si realizza quando la Provvidenza Divina viene aiutata da certi spiriti: sia dall’anima stessa, sia da tutta la natura che le obbedisce, sia dai movimenti celesti delle stelle, sia dal potere angelico, sia dall’ingegnosità dei demoni; sia da alcuni di questi fattori, sia da tutti quanti insieme, viene così forgiata la catena del fato”. Di ciascuno di questi aspetti abbiamo già parlato in precedenza (A[1]; Q[104], A[2]; Q[110], A[1]; Q[113]; Q[114]). È quindi evidente che il fato risiede nelle cause create, così come disposte da Dio al fine di produrre i loro effetti.
+
+Risposta all’Obiezione 1: L’ordine stesso delle cause secundarie, che Agostino (De Civ. Dei V, 8) definisce “serie di cause”, non ha la natura del fato, se non in quanto dipende da Dio. Pertanto, il potere o la volontà divina possono essere considerati come il “fato”, poiché ne sono la causa. Ma essenzialmente, il fato è proprio quella disposizione o quella “serie”, cioè quell’ordine, delle cause secundarie.
+
+Risposta all’Obiezione 2: Il destino ha la natura di una causa, proprio come le seconde cause stesse, il cui ordinamento viene definito destino.
+
+Risposta all’Obiezione 3: Il destino viene definito “disposizione”, non nel senso di una qualità specifica, ma in quello in cui indica un ordine – il quale non è una sostanza, bensì una relazione. Se questo ordine viene considerato in relazione al suo principio, allora esso è unitario; e quindi anche il destino è unitario. Tuttavia, se viene considerato in relazione ai suoi effetti o alle cause intermedie, allora il destino diventa molteplice. In questo senso, il poeta scrisse: “Il tuo destino ti attira verso di sé”.
+
 <span class="atom-split" data-atom="093" data-title="Whether fate is unchangeable?" data-chapter="Whether fate is unchangeable?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that fate is not unchangeable. For Boethius says (De Consol. iv): "As
@@ -4264,6 +5648,18 @@ this would happen, it will happen." Wherefore Boethius, having said that the cha
 shortly afterwards adds---"which, since it is derived from an unchangeable Providence must also
 itself be unchangeable."
 From this the answers to the objections are clear.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il destino non sia immutabile. Infatti Boezio afferma nel “De Consolatione” IV: “Come il ragionamento è relativo all’intelletto, come ciò che è generato è relativo a ciò che esiste, come il tempo è relativo all’[eternità](/positions/eternity), come il cerchio è relativo al suo centro; così anche la mutevole catena del destino è relativa alla fermezza e alla semplicità della Provvidenza.”
+
+Obiezione 2: Inoltre, il Filosofo afferma (Topic. ii, 7): “Se veniamo mossi, ciò che è in noi viene mosso.” Ma il destino è una “disposizione intrinseca alle cose mutevoli”, come dice Boezio (De Consol. iv). Pertanto, il destino è mutabile.
+
+Obiezione 3: Inoltre, se il fato è immutabile, ciò che è soggetto al fato avviene necessariamente e senza possibilità di cambiamento. Tuttavia, le cose attribuite al fato sembrano essenzialmente essere eventi contingenti. Pertanto, nel mondo non esisterebbero più eventi contingenti; tutto accadrebbe necessariamente.
+
+Al contrario, Boezio afferma (in “De Consolatione” IV) che il fato è una disposizione immutabile.
+
+Rispondo che la disposizione delle cause secondarie, che chiamiamo destino, può essere considerata in due modi: innanzitutto, in relazione alle stesse cause secondarie, che sono così disposte o ordinate; in secondo luogo, in relazione al principio primo, cioè a Dio, da cui tali disposizioni derivano. Alcuni hanno quindi sostenuto che la serie stessa delle cause sia di per sé necessaria, tanto che tutte le cose accadrebbero inevitabilmente; questo perché ogni effetto ha una causa e, data una causa, l’effetto deve necessariamente seguire. Ma ciò è falso, come dimostrato in precedenza (Q[115], A[6]). Altri, invece, hanno ritenuto che il destino fosse modificabile, anche se dipendesse dalla Provvidenza Divina; per questo gli Egizi affermavano che il destino potesse essere cambiato attraverso determinati sacrifici, come dice Gregorio di Nissa (Nemesio, De Homine). Anche questa tesi è stata confutata in precedenza, poiché contraddice la natura della Provvidenza Divina. Dobbiamo quindi affermare che il destino, considerato in relazione alle cause secondarie, sia modificabile; ma, essendo soggetto alla Provvidenza Divina, acquista una certa immutabilità, non di tipo assoluto, bensì condizionata dalla necessità divina. In questo senso si può dire che ciò che è “condizionatamente necessario” sia effettivamente vero e inevitabile: “Se Dio sapeva che ciò sarebbe accaduto, allora ciò accadrà”. Per questo motivo Boezio, dopo aver affermato che la catena del destino fosse incerta o mutevole, aggiunge subito dopo: “Ma poiché questa catena deriva da una Provvidenza immutabile, anche essa deve essere immutabile”. Da queste considerazioni derivano chiaramente le risposte alle obiezioni sollevate.
 
 <span class="atom-split" data-atom="094" data-title="Whether all things are subject to fate?" data-chapter="Whether all things are subject to fate?" data-kind="atom" data-srclang="en"></span>
 
@@ -4304,6 +5700,25 @@ Reply to Objection 3: Although all creatures are in some way changeable, yet som
 do not proceed from changeable created causes. And these, therefore, are not subject to fate, as
 stated above.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che tutte le cose siano soggette al fato. Infatti Boezio afferma (De Consolatio, iv):  
+“La catena del fato muove il cielo e le stelle, regola gli elementi tra loro e li modella attraverso una trasformazione reciproca. Per mezzo del fato, tutte le cose che nascono nel mondo e periscono vengono rinnovate in un processo uniforme di successione e riproduzione.” Pertanto, nulla sembra essere escluso dal dominio del fato.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (De Civ. Dei v, 1) che il fato è qualcosa di reale, inteso come espressione della volontà e del potere divini. Ma la volontà divina è la causa di tutte le cose che accadono, come sostiene Agostino stesso (De Trin. iii, 1 e seguenti). Pertanto, tutte le cose sono soggette al fato.
+
+Obiezione 3: Inoltre, Boezio afferma nel “De Consolatione” IV che il fato “è una disposizione intrinseca alle cose mutevoli”. Ma tutte le creature sono mutevoli, e solo Dio è veramente immutabile, come già detto sopra (Q[9], A[2]). Pertanto, il fato esiste in tutte le cose.
+
+Al contrario, Boezio afferma nel “De Consolatione” IV che “alcune cose soggette alla Provvidenza sono al di sopra dell’ordine del fato”.
+
+Rispondo che, come detto sopra (A[2]), il fato rappresenta l’ordinamento delle cause seconde verso gli effetti previsti da Dio. Pertanto, tutto ciò che è soggetto a cause seconde è anche soggetto al fato; ma ciò che viene compiuto direttamente da Dio, poiché non è soggetto a cause seconde, non è nemmeno soggetto al fato: sono casi come la creazione, la glorificazione delle sostanze spirituali e simili. Ed è proprio quanto afferma Boezio nel “De Consolatione” (IV): “Le cose che sono vicine a Dio godono di uno stato di immobilità e superano l’ordine mutevole del fato”. Ne consegue chiaramente che “più una cosa è lontana dalla Mente Prima, più è coinvolta nella catena del fato”, poiché in tal caso è maggiormente legata a cause seconde.
+
+Risposta all’Obiezione 1: Tutte le cose menzionate in questo passaggio vengono compiute da Dio attraverso cause secondarie; per questa ragione fanno parte dell’ordine del destino. Ma non è lo stesso per tutte le altre cose, come già detto in precedenza.
+
+Risposta all’Obiezione 2: Il Fato va considerato come il risultato della volontà e del potere divini, in quanto suo principio fondamentale. Pertanto, non segue affatto che tutto ciò che è soggetto alla volontà o al potere divino sia anche soggetto al Fato, come già detto in precedenza.
+
+Risposta all’Obiezione 3: Sebbene tutte le creature siano in qualche modo soggette al cambiamento, alcune di esse non derivano da cause create e quindi soggette al cambiamento. Pertanto, queste non sono soggette al fato, come è stato detto sopra.
+
 <span class="atom-split" data-atom="095" data-title="OF THINGS PERTAINING TO THE ACTION OF MAN (FOUR ARTICLES)" data-chapter="OF THINGS PERTAINING TO THE ACTION OF MAN (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have next to consider those things which pertain to the action of man, who is composed of
@@ -4314,6 +5729,14 @@ of inquiry:
 (2) Whether man can teach an angel?
 (3) Whether by the power of his soul man can change corporeal matter?
 (4) Whether the separate soul of man can move bodies by local movement?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare quelle cose che riguardano l’azione dell’uomo, il quale è composto da una natura corporea e da una natura spirituale create. In primo luogo esamineremo tale azione in generale; in secondo luogo, considereremo il processo di riproduzione dell’uomo stesso. Per quanto riguarda il primo aspetto, ci sono quattro punti da analizzare:  
+(1) Se un uomo possa insegnare un altro, essendo lui la causa della sua conoscenza;  
+(2) Se l’uomo possa insegnare un angelo;  
+(3) Se, con il potere della propria anima, l’uomo possa modificare la materia corporea;  
+(4) Se l’anima umana, in quanto entità separata, possa muovere i corpi attraverso movimenti locali.
 
 <span class="atom-split" data-atom="096" data-title="Whether one man can teach another? (1/2)" data-chapter="Whether one man can teach another?" data-kind="atom" data-srclang="en"></span>
 
@@ -4417,12 +5840,39 @@ he cause the intelligible species directly: but he moves the disciple by teachin
 by the power of his intellect, forms intelligible concepts, the signs of which are proposed to him
 from without.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un uomo non possa insegnare un altro. Infatti il Signore dice (Matteo 22:8): “Non vi chiamate maestri”; e la spiegazione di Gerolamo afferma: “Perché non date agli uomini l’onore dovuto a Dio”. Pertanto, essere maestro rappresenta propriamente un onore dovuto a Dio. Ma insegnare è una funzione propria dei maestri. Quindi l’uomo non può insegnare; questa attività appartiene esclusivamente a Dio.
+
+Obiezione 2: Inoltre, se un uomo insegna un altro, lo fa soltanto perché agisce sulla base delle proprie conoscenze, al fine di trasmetterle all’altro. Ma una qualità attraverso la quale qualcuno agisce per produrre qualcosa di simile a ciò che possiede, è necessariamente una qualità attiva. Pertanto, si deduce che anche la conoscenza sia una qualità attiva, proprio come il calore.
+
+Obiezione 3: Inoltre, per acquisire conoscenza è necessaria l’illuminazione intellettuale e la comprensione delle caratteristiche della cosa in questione. Ma un uomo non può procurare né l’una né l’altra di queste cose in un altro essere umano. Pertanto, un uomo non può trasmettere conoscenza ad altri attraverso l’insegnamento.
+
+Obiezione 4: Inoltre, l’insegnante non fa nulla di più che proporre al discepolo determinati segni, al fine di comunicargli qualcosa attraverso parole o gesti. Tuttavia non è possibile insegnare a nessuno in modo da far sì che acquisisca conoscenza semplicemente presentandogli dei segni. Questi segni, infatti, riguardano o cose che il discepolo già conosce, oppure cose che non conosce. Se riguardano cose che il discepolo conosce, allora egli le possiede già e non le acquisisce dall’insegnante. Se invece riguardano cose che non conosce, non può imparare nulla da essi: ad esempio, parlare greco a una persona che conosce solo il latino non le permetterebbe di apprendere nulla. Pertanto, in nessun modo è possibile far sì che qualcuno acquisisca conoscenza attraverso l’insegnamento.
+
+Al contrario, l’Apostolo dice (1 Timoteo 2:7): “Per questo sono stato designato come predicatore e apostolo, per insegnare ai gentili la fede e la verità”.
+
+Rispondo che su questa questione sono state avanzate varie opinioni. Per Averroè, commentando il De Anima III, sostiene che tutti gli uomini possiedano un intelletto passivo in comune, come già detto sopra (Q[76], A[2]). Da ciò consegue che le stesse specie intelligibili appartengano a tutti gli uomini. Pertanto, riteneva che un uomo non potesse far sì che un altro acquisisse una conoscenza diversa da quella che egli stesso possiede; ma che comunicasse all’altro la stessa conoscenza, inducendolo ad ordinare correttamente le immagini nella sua anima, affinché queste fossero disposte in modo appropriato per l’intellezione. Questa opinione è vera nel senso che la conoscenza sia identica sia nel discepolo che nell’insegnante, se consideriamo l’identità dell’oggetto conosciuto: infatti entrambi comprendono la stessa verità oggettiva. Tuttavia, poiché Averroè sosteneva che tutti gli uomini avessero un solo intelletto passivo e le stesse specie intelligibili, differenziate soltanto per le diverse immagini mentali, la sua opinione è errata, come già detto sopra (Q[76], A[2]). Inoltre, vi è l’opinione dei Platonici, i quali ritenevano che le nostre anime possedessero conoscenza fin dall’inizio, attraverso la partecipazione a forme specifiche, come già detto sopra (Q[84], AA[3],4); ma che l’anima fosse ostacolata, a causa della sua unione con il corpo, nel considerare liberamente quelle cose che conosceva. Secondo questa visione, il discepolo non acquisisce nuove conoscenze dall’insegnante, ma viene soltanto stimolato da quest’ultimo a riflettere su ciò che già sa; quindi imparare sarebbe semplicemente ricordare. I Platonici sostenevano inoltre che gli agenti naturali si limitassero a predisporre la materia ad accogliere forme, le quali venivano poi acquisite attraverso la partecipazione di sostanze specifiche. Tuttavia, abbiamo già dimostrato sopra (Q[79], A[2]; Q[84], A[3]) che l’intelletto passivo dell’anima umana è in pura potenzialità rispetto alle specie intelligibili, come afferma Aristotele nel De Anima III, 4. Pertanto, dobbiamo affrontare questa questione in modo diverso: l’insegnante provoca la conoscenza nello studente, portandolo dalla potenzialità all’atto, come dice il Filosofo (Physica VIII, 4). Per chiarire questo punto, osserviamo che tra gli effetti derivanti da un principio esterno, alcuni sono causati esclusivamente da tale principio; ad esempio, la forma di una casa viene conferita alla materia soltanto dall’architettura. Altri effetti, invece, derivano sia da un principio esterno che da uno interno: ad esempio, la guarigione di un malato può avvenire sia per l’intervento di un medico sia per forze naturali. In questi ultimi casi, è necessario notare due aspetti: primo, che l’arte imita la natura nel suo operare, poiché anch’essa guarisce modificando, digerendo o eliminando le cause della malattia; secondo, che il principio esterno, in questo caso l’arte, agisce non come agente principale, ma come ausiliario dell’agente principale, ovvero dell’anima stessa.
+Rafforzandola e fornendola di strumenti e aiuti di cui il principio interno fa uso per ottenere l’effetto desiderato, il medico sostiene la natura stessa dell’uomo, utilizzando cibo e medicine che essa stessa impiega per raggiungere lo scopo prefissato.  
+L’acquisizione della conoscenza nell’uomo avviene sia attraverso un principio interno – come è evidente in coloro che cercano di ottenere la conoscenza attraverso la propria ricerca personale – sia attraverso un principio esterno, come avviene negli individui che imparano tramite l’insegnamento altrui. Infatti, in ogni essere umano esiste un certo principio di conoscenza, ovvero la “luce dell’intelletto attivo”, grazie alla quale alcuni principi universali di tutte le scienze vengono naturalmente compresi non appena presentati all’intelligenza stessa. Quando queste idee universali vengono applicate a situazioni particolari, basate sulla memoria o sull’esperienza acquisita attraverso i sensi, l’individuo, procedendo dalla conoscenza nota verso quella ignota attraverso la propria ricerca, ottiene nuove informazioni. Pertanto, chi insegna conduce lo studente da ciò che è già noto a ciò che prima non lo era; come afferma il Filosofo (Posteriora Analitica I, 1): “Tutta l’insegnanza e tutto l’apprendimento derivano da una conoscenza preesistente”.  
+Il maestro guida lo studente verso la conoscenza dell’ignoto in due modi principali: innanzitutto, fornendogli strumenti e metodi di insegnamento che possano essere utilizzati per acquisire nuove conoscenze; ad esempio, presentando proposizioni meno universali dalle quali lo studente può trarre conclusioni sulla base di ciò che già sa; oppure fornendo esempi concreti, attraverso somiglianze o contrasti, che guidino l’intelligenza dello studente verso la verità prima sconosciuta. In secondo luogo, rafforzando l’intelligenza dello studente stesso; non certo attraverso poteri particolari di natura superiore, come quelli descritti nell’ambito dell’illuminazione angelica (Q[106], A[1]; Q[111], A[1]), poiché tutti gli intelletti umani appartengono allo stesso livello nella gerarchia naturale; ma fornendo allo studente un ordine logico tra i principi e le conclusioni, poiché quest’ultimo talvolta non possiede abbastanza capacità di ragionamento per trarre da solo tali conclusioni. Per questo motivo il Filosofo afferma (Posteriora Analitica I, 2) che “una dimostrazione è un sillogismo che porta alla conoscenza”. In questo modo, colui che insegna permette all’ascoltatore di acquisire nuove conoscenze.
+
+Risposta all’Obiezione 1: Come detto sopra, l’insegnante fornisce soltanto un aiuto esterno, proprio come il medico che guarisce; ma così come la natura interiore è la causa principale della guarigione, allo stesso modo la luce interna dell’intelletto è la causa principale della conoscenza. Tuttavia entrambe queste cose provengono da Dio. Pertanto, proprio di Lui si dice: “Colui che guarisce tutte le tue malattie” (Salmo 102:3); e ancora di Lui si dice: “Colui che insegna all’uomo la conoscenza” (Salmo 93:10), poiché “la luce del suo volto è impressa su di noi” (Salmo 4:7), attraverso questa luce tutte le cose ci vengono rivelate.
+
+Risposta all’Obiezione 2: Come sostiene Averroè, l’insegnante non provoca la conoscenza nel discepolo nel modo di una causa attiva naturale. Pertanto, la conoscenza non deve necessariamente essere considerata una qualità attiva; essa rappresenta piuttosto il principio che guida l’individuo nell’apprendimento, proprio come l’arte è il principio che guida l’individuo nel compiere un’azione.
+
+Risposta all’Obiezione 3: Il maestro non provoca direttamente nella discepolo quella luce intellettuale, né quelle nozioni comprensibili; piuttosto, stimola la discepolo attraverso l’insegnamento, affinché quest’ultimo, con il potere del proprio intelletto, possa formare concetti comprensibili, i cui segni gli vengono presentati dall’esterno.
+
 <span class="atom-split" data-atom="097" data-title="Whether one man can teach another? (2/2)" data-chapter="Whether one man can teach another?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: The signs proposed by the master to the disciple are of things known
 in a general and confused manner; but not known in detail and distinctly. Therefore when anyone
 acquires knowledge by himself, he cannot be called self-taught, or be said to have his own master
 because perfect knowledge did not precede in him, such as is required in a master.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 4: I segni proposti dal maestro al discepolo riguardano cose conosciute in modo generale e confuso, ma non in dettaglio e chiaramente. Pertanto, quando qualcuno acquisisce la conoscenza da solo, non può essere definito autodidatta, né si può dire che abbia un proprio maestro, poiché in lui non esiste una conoscenza perfetta, come quella richiesta in un vero maestro.
 
 <span class="atom-split" data-atom="098" data-title="Whether man can teach the angels?" data-chapter="Whether man can teach the angels?" data-kind="atom" data-srclang="en"></span>
 
@@ -4478,6 +5928,23 @@ Reply to Objection 3: Certain men in this state of life are greater than certain
 actually, but virtually; forasmuch as they have such great charity that they can merit a higher degree
 of [beatitude](/positions/beatitude) than that possessed by certain angels. In the same way we might say that the seed of
 a great tree is virtually greater than a small tree, though actually it is much smaller.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che siano gli uomini a insegnare agli angeli. Infatti l’Apostolo dice (Efesini 3:10): “Affinché la multiforme saggezza di Dio sia rivelata ai principati e alle potenze celesti attraverso la Chiesa”. Ma la Chiesa è l’unione di tutti i fedeli. Pertanto, alcune cose vengono rivelate agli angeli tramite gli uomini.
+
+Obiezione 2: Inoltre, gli angeli superiori, che sono immediatamente illuminati riguardo alle cose divine da Dio, possono istruire gli angeli inferiori, come detto sopra (Q[116], A[1]; Q[112], A[3]). Ma alcuni uomini vengono anch’essi immediatamente illuminati riguardo alle cose divine dalla Parola di Dio; ciò risulta particolarmente evidente per gli apostoli, come si legge in Eb 1:1-2: “Infine, in questi giorni, Dio ci ha parlato attraverso suo Figlio”. Pertanto, alcuni uomini sono stati in grado di insegnare agli angeli.
+
+Obiezione 3: Inoltre, gli angeli inferiori ricevono istruzioni dagli angeli superiori. Ma alcuni uomini sono di rango superiore ad alcuni angeli; poiché alcuni uomini vengono elevati alle più alte gerarchie angeliche, come afferma Gregorio in un’omelia (Hom. xxxiv in Evang.), è quindi possibile che alcuni degli angeli inferiori ricevano istruzioni dagli uomini riguardo alle cose divine.
+
+Al contrario, Dionigi afferma (Div. Nom. iv) che ogni forma di [illuminazione](/schools/enlightenment) divina rivolta agli angeli superiori consiste nel rendere loro noti i propri pensieri; tuttavia, riguardo alle questioni divine, gli angeli superiori non vengono mai illuminati dagli angeli inferiori. È evidente che, proprio come gli angeli inferiori sono soggetti a quelli superiori, anche gli esseri umani più elevati sono sottomessi agli angeli più umili. Ciò risulta chiaro dalle parole del Signore (Matteo 11:11): “Non è sorto tra i figli delle donne nessuno maggiore di Giovanni Battista; tuttavia colui che è minore nel regno dei cieli è più grande di lui”. Pertanto, gli angeli non vengono mai illuminati dagli uomini riguardo alle questioni divine. Tuttavia, gli esseri umani possono, attraverso il linguaggio, rivelare agli angeli i propri pensieri; poiché solo a Dio appartiene la conoscenza dei segreti del cuore umano.
+
+Risposta all’Obiezione 1: [Agostino](/figures/augustine) (Genesi ad litteram v, 19) spiega così questo passo dell’Apostolo, il quale nelle versetti precedenti afferma: “A me, che sono il minore di tutti i santi, è stata data questa grazia, per illuminare tutti gli uomini affinché possano comprendere quale sia la rivelazione di questo mistero nascosto da [eternità](/positions/eternity) in Dio. Nascosto, sì, ma in modo che la multiforme saggezza di Dio potesse essere conosciuta dalle potenze celesti, cioè attraverso la Chiesa”. Come se volesse dire: questo mistero era nascosto agli uomini, ma non alla Chiesa celeste, che è compresa tra quelle potenze che lo conoscevano “da tempi immemorabili, ma non prima di tutti i tempi: perché la Chiesa esisteva già allora, mentre in seguito, dopo la risurrezione, questa Chiesa composta dagli uomini sarà riunita insieme”.  
+Si può anche interpretare in un altro modo: “Ciò che è nascosto è conosciuto dagli angeli, non solo in Dio, ma anche qui sulla terra, quando quel mistero si realizza e diventa pubblico”, come afferma ulteriormente Agostino (Genesi ad litteram v, 19). Quindi, quando i misteri di Cristo e della Chiesa furono realizzati attraverso l’opera degli apostoli, alcune verità riguardanti questi misteri divennero note agli angeli, che prima non le conoscevano. In questo modo possiamo comprendere ciò che afferma Girolamo nel suo Commento all’Epistola ai Efesini: che dagli insegnamenti degli apostoli gli angeli appresero certi misteri; in altre parole, attraverso la predicazione degli apostoli quei misteri si realizzarono concretamente nelle cose stesse. È proprio di questo mistero che parla l’Apostolo nel passaggio citato.
+
+Risposta all’Obiezione 2: Gli apostoli ricevettero istruzioni immediatamente dalla Parola di Dio, non in base alla Sua divinità, ma nel modo in cui parlò nella sua [natura umana](/axes/human_nature). Pertanto, questo argomento non è convincente.
+
+Risposta all’Obiezione 3: Alcuni uomini in questo stato di vita sono “maggiore” di alcuni angeli, non in senso reale, ma in senso virtuale; poiché possiedono una carità così grande da meritare un grado più elevato di [beatazza](/positions/beatitude) rispetto a quello posseduto da alcuni angeli. Allo stesso modo si potrebbe dire che il seme di un albero grande è, in senso virtuale, “maggiore” di quello di un albero piccolo, anche se in realtà è molto più piccolo.
 
 <span class="atom-split" data-atom="099" data-title="Whether man by the power of his soul can change corporeal matter?" data-chapter="Whether man by the power of his soul can change corporeal matter?" data-kind="atom" data-srclang="en"></span>
 
@@ -4568,6 +6035,20 @@ Matt.) say, the demons often pretend to be the souls of the dead, in order to co
 heathen superstition. It is therefore credible that Simon Magus was deceived by some demon who
 pretended to be the soul of the child whom the magician had slain.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’anima umana, in quanto entità spirituale, possa muovere i corpi, almeno su un piano locale. Infatti, un corpo obbedisce naturalmente a una sostanza spirituale riguardo ai movimenti locali, come già affermato sopra (Q[110], A[5]). Poiché l’anima è essa stessa una sostanza spirituale, ne consegue che possa muovere i corpi esterni attraverso il proprio potere.
+
+Obiezione 2: Inoltre, nell’Itinerario di Clemente, nella narrazione di Niceta su Pietro, si afferma che Simone Mago, con l’ausilio della magia, manteneva il controllo sull’anima di un bambino che aveva ucciso e che, attraverso quell’anima, compiva miracoli magici. Ma ciò non sarebbe stato possibile senza alcun cambiamento corporeo, almeno in termini di posizione spaziale. Pertanto, l’anima separata possiede il potere di muovere i corpi nello spazio.
+
+Al contrario, il Filosofo afferma (in De [Anima](/concepts/soul) i, 3) che l’anima non può muovere alcun altro corpo se non il proprio.
+
+Rispondo che l’anima separata, con le sue forze naturali, non può muovere un corpo. È infatti evidente che, anche quando l’anima è unita al corpo, essa non lo muove se non perché esso è dotato di vita; quindi, se uno dei suoi membri diventa privo di vita, non obbedisce più all’anima in termini di movimento. È altresì evidente che nessun corpo può essere reso attivo o animato dall’anima separata. Pertanto, entro i limiti delle sue forze naturali, l’anima separata non può comandare l’obbedienza di un corpo; tuttavia, con il potere di Dio, essa può superare tali limiti.
+
+Risposta all’Obiezione 1: Esistono certe sostanze spirituali le cui facoltà non sono destinate a muovere specifici corpi; ne sono esempi gli angeli, che per natura non sono vincolati da alcun corpo fisico; pertanto, diversi corpi possono essere mossi da tali sostanze. Tuttavia, se la forza motrice di una sostanza è naturalmente destinata a muovere un certo corpo, tale sostanza non sarà in grado di muovere un corpo di grado superiore, ma soltanto uno di grado inferiore; secondo i filosofi, quindi, colui che muove il cielo inferiore non può muovere quello superiore. Poiché l’anima, per sua natura, è destinata a muovere il corpo del quale è la forma, essa non può, con le sue forze naturali, muovere alcun altro corpo.
+
+Risposta all’Obiezione 2: Come affermano [Agostino](/figures/augustine) (De Civ. Dei x, 11) e Crisostomo (Hom. xxviii in Matt.), i demoni spesso fingono di essere le anime dei morti al fine di confermare l’errore delle superstizioni pagane. È quindi credibile che Simone Mago sia stato ingannato da un demone che si era finto l’anima del bambino che lo stregone aveva ucciso.
+
 <span class="atom-split" data-atom="101" data-title="OF THE PRODUCTION OF MAN FROM MAN AS TO THE SOUL (THREE ARTICLES)" data-chapter="OF THE PRODUCTION OF MAN FROM MAN AS TO THE SOUL (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider the production of man from man: first, as to the soul; secondly, as to the body.
@@ -4575,6 +6056,14 @@ Under the first head there are three points of inquiry:
 (1) Whether the sensitive soul is transmitted with the semen?
 (2) Whether the intellectual soul is thus transmitted?
 (3) Whether all souls were created at the same time?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Esaminiamo ora la generazione dell’uomo dall’uomo: innanzitutto, in relazione all’anima; in secondo luogo, in relazione al corpo.  
+Sotto questo primo aspetto vi sono tre punti da indagare:  
+(1) Se l’anima sensitiva venga trasmessa insieme allo sperma;  
+(2) Se anche l’anima intellettiva venga trasmessa in questo modo;  
+(3) Se tutte le anime siano state create nello stesso momento.
 
 <span class="atom-split" data-atom="102" data-title="Whether the sensitive soul is transmitted with the semen?" data-chapter="Whether the sensitive soul is transmitted with the semen?" data-kind="atom" data-srclang="en"></span>
 
@@ -4674,6 +6163,31 @@ nourishment and growth. As to the active power which was in the semen, it ceases
 the semen is dissolved and the (vital) spirit thereof vanishes. Nor is there anything unreasonable
 in this, because this force is not the principal but the instrumental agent; and the movement of an
 instrument ceases when once the effect has been produced.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’anima sensitiva non venga trasmessa con lo sperma, ma sia creata da Dio. Infatti, ogni sostanza perfetta, che non è composta da materia e forma, acquisisce l’esistenza non attraverso la generazione, ma attraverso la creazione; poiché nulla viene generato se non a partire dalla materia. Ma l’anima sensitiva è una sostanza perfetta; altrimenti non potrebbe muovere il corpo. E poiché è la forma di un corpo, non è composta da materia e forma. Pertanto, inizia ad esistere non attraverso la generazione, ma attraverso la creazione.
+
+Obiezione 2: Inoltre, negli esseri viventi il principio di generazione rappresenta la forza che dà origine alla vita; poiché tale forza appartiene alle facoltà dell’anima vegetativa, essa è di ordine inferiore rispetto all’anima sensitiva. Ora, nulla agisce al di fuori della propria specie; pertanto, l’anima sensitiva non può essere causata dalla forza generatrice dell’animale stesso.
+
+Obiezione 3: Inoltre, il generatore genera ciò che è simile a sé; pertanto, la forma del generatore deve necessariamente trovarsi nella causa stessa della generazione. Tuttavia, né l’anima sensitiva in sé né alcuna sua parte si trovano effettivamente nel seme, poiché nessuna parte dell’anima sensitiva esiste al di fuori di qualche parte del corpo; mentre nel seme non c’è nemmeno una particella del corpo, poiché non esiste alcuna particella del corpo che non sia stata formata dal seme e per mezzo della sua forza. Pertanto, l’anima sensitiva non viene prodotta attraverso il seme.
+
+Obiezione 4: Inoltre, se nel seme esistesse qualche principio capace di generare l’anima sensitiva, tale principio o rimarrebbe dopo la nascita dell’animale, oppure no. Ora, non può rimanere. Infatti, o verrebbe identificato con l’anima sensitiva dell’animale nato; il che è impossibile, poiché ciò significherebbe un’identità tra generatore e generato, tra creatore e creatura; oppure sarebbe distinto da essa; ma anche questo è impossibile, poiché è stato dimostrato in precedenza (Q[76], A[4]) che in un singolo animale esiste soltanto un principio formale, ovvero l’anima stessa. D’altra parte, se il suddetto principio non rimanesse dopo la nascita dell’animale, ciò sembrerebbe anch’esso impossibile: infatti, in tal caso un agente agirebbe contro se stesso, il che è assurdo. Pertanto, l’anima sensitiva non può essere generata dal seme.
+
+Al contrario, il potere contenuto nel seme è ciò che dà origine agli animali generati per via sessuale, così come il potere presente negli elementi del mondo è ciò che genera gli animali derivanti da tali elementi – ad esempio attraverso la decomposizione. Tuttavia, negli ultimi casi, l’anima viene prodotta dal potere degli elementi, secondo quanto detto in Genesi 1:20: “Che le acque producano creature che strisciano e abbiano vita”. Pertanto, anche le anime degli animali generati per via sessuale vengono formate dal potere contenuto nel seme.
+
+Rispondo che alcuni hanno sostenuto che le anime sensibili degli animali siano create da Dio (Q[65], A[4]). Questa opinione sarebbe valida se l’anima sensibile possedesse un’esistenza e una funzionalità autonome; in tal caso, essere creata sarebbe proprio di essa. Poiché una entità semplice ed autonoma può esistere soltanto attraverso la creazione, ne consegue che anche l’anima sensibile venga alla vita per mezzo della creazione.  
+Ma questo principio è falso: non è vero che l’esistenza e la funzionalità siano propri dell’anima sensibile, come è stato chiarito in precedenza (Q[75], A[3]); infatti, l’anima sensibile non cesserebbe di esistere nemmeno quando il corpo perisse. Poiché quindi non si tratta di una forma autonoma, la sua relazione con l’esistenza è simile a quella delle forme corporee: queste ultime non possiedono l’esistenza in modo intrinseco, ma esistono soltanto perché i composti autonomi sono formati attraverso di esse.  
+Pertanto, essere creati è proprio dei composti. Poiché il generatore è simile a ciò che viene generato, ne consegue necessariamente che sia l’anima sensibile che tutte le altre forme simili vengano naturalmente portate all’esistenza da agenti corporei che trasformano la materia dalla [potenzialità](/concepts/act_potency) all’atto, grazie a una forza corporea di cui tali agenti sono dotati.  
+Ora, più potente è un agente, maggiore è l’ambito della sua azione: ad esempio, più caldo è un corpo, maggiore è la distanza che il suo calore può raggiungere. Pertanto, i corpi privi di vita, che occupano il livello più basso nell’ordine naturale, generano ciò che è simile a loro senza l’intervento di alcun mezzo; ad esempio, il fuoco genera altro fuoco da solo. I corpi viventi, essendo più potenti, agiscono in modo da generare ciò che è simile a loro sia senza che con l’ausilio di mezzi esterni: nella nutrizione, per esempio, la carne genera altra carne; nell’atto della procreazione, il seme dell’animale o della pianta riceve una certa forza attiva dall’anima del generatore, proprio come uno strumento riceve una forza motrice dall’agente principale. E poiché non ha importanza dire se qualcosa viene mosso dall’strumento o dall’agente principale, allo stesso modo non ha importanza dire se l’anima di ciò che viene generato è causata dall’anima del generatore o da una qualche forza seminale derivante da essa.
+
+Risposta all’Obiezione 1: L’anima sensitiva non è una sostanza perfettamente autosufficiente. Abbiamo già detto abbastanza su questo punto (Q[25], A[3]); non c’è bisogno di ripeterlo qui.
+
+Risposta all’Obiezione 2: La forza generatrice non agisce soltanto per la propria natura, ma anche grazie alla natura dell’intera anima di cui fa parte. Pertanto, la forza generatrice di una pianta produce una pianta, e quella di un animale genera un animale. Più perfetta è l’anima, più perfetto sarà il risultato prodotto dalla sua forza generatrice.
+
+Risposta all’Obiezione 3: Questa forza attiva che si trova nel seme e che deriva dall’anima del generatore è, in qualche modo, un certo movimento stesso di quell’anima; non è l’anima stessa né una sua parte, se non in senso virtuale. Pertanto, la “forma” di un oggetto non risiede nella sega o nell’ascia, ma in un certo movimento che conduce a quella forma. Di conseguenza, non è necessario che questa forza attiva disponga di un organo fisico concreto; essa si basa sullo “spirito vitale” contenuto nel seme, il quale presenta caratteristiche schiumose, come dimostra il suo colore bianco. In questo spirito vitale esiste inoltre una certa “calore”, derivante dal potere dei corpi celesti; grazie a tale calore, anche i corpi inferiori contribuiscono alla formazione delle specie, come descritto sopra (Q[115], A[3], ad 2). Poiché nello spirito vitale il potere dell’anima si unisce al potere di un corpo celeste, si è detto che “l’uomo e il sole generano l’uomo”. Inoltre, il calore elementare viene utilizzato, in modo strumentale, dal potere dell’anima, così come dal potere nutritivo, come affermato nel testo De Anima ii, 4.
+
+Risposta all’Obiezione 4: Negli animali perfetti, generati attraverso l’accoppiamento, la forza attiva risiede nel seme maschile, come afferma il Filosofo (De Generatione Animalium, ii, 3); tuttavia, la materia fetale è fornita dalla femmina. In questa materia, l’anima vegetativa esiste fin dall’inizio, non riguardo al secondo stadio dello sviluppo, ma già al primo; analogamente all’anima sensitiva presente in una persona addormentata. Tuttavia, non appena tale materia inizia ad assorbire i nutrimenti necessari per il proprio sviluppo, essa entra effettivamente in azione. Questa materia viene quindi trasformata dalla forza contenuta nel seme maschile, fino a quando non viene realmente “informata” dall’anima sensitiva; non si tratta certo di una trasformazione tale da rendere la stessa forza del seme l’anima sensitiva stessa, poiché in tal caso generatore e generato sarebbero identici. Inoltre, questo processo assomiglierebbe più a un processo di nutrimento e crescita che a una vera e propria generazione, come osserva il Filosofo. Una volta che l’anima sensitiva è stata prodotta all’interno delle parti principali dell’organismo nato, essa inizia a lavorare al perfezionamento del proprio corpo attraverso i processi di nutrimento e crescita. Quanto alla forza attiva contenuta nel seme, essa cessa di esistere non appena il seme si dissolve e lo “spirito vitale” che vi era contenuto scompare. Non c’è nulla di irragionevole in tutto ciò, poiché questa forza non è l’agente principale, ma soltanto uno strumento; e il movimento di uno strumento si interrompe non appena l’effetto desiderato viene ottenuto.
 
 <span class="atom-split" data-atom="103" data-title="Whether the intellectual soul is produced from the semen?" data-chapter="Whether the intellectual soul is produced from the semen?" data-kind="atom" data-srclang="en"></span>
 
@@ -4776,6 +6290,35 @@ disposed for the reception of a certain species of form.
 Reply to Objection 5: In the action of the adulterer, what is of nature is good; in this God
 concurs. But what there is of inordinate lust is evil; in this God does not concur.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’anima intellettuale venga prodotta dal seme. Infatti è scritto (Genesi 46:26): “Tutte le anime nate dalla coscia di Giacobbe furono sessantasei”. Ma nulla viene prodotto dalla coscia di un uomo, se non dal seme. Pertanto, l’anima intellettuale viene prodotta dal seme.
+
+Obiezione 2: Inoltre, come dimostrato sopra (Q[76], A[3]), l’anima intellettiva, l’anima sensitiva e l’anima nutritiva costituiscono, in sostanza, un’unica anima nell’uomo. Tuttavia, l’anima sensitiva nell’uomo viene generata dal seme, proprio come negli altri animali; per questo il Filosofo afferma (De Generatione Animalium ii, 3) che l’animale e l’uomo non vengono creati contemporaneamente, ma prima viene creato l’animale, dotato di anima sensitiva. Pertanto, anche l’anima intellettiva deve essere prodotta dal seme.
+
+Obiezione 3: Inoltre, è lo stesso agente il cui operare si dirige sia verso la materia che verso la forma; altrimenti dalla materia e dalla forma non deriverebbe qualcosa di unitario e coerente. Ma l’anima intellettiva è la forma del corpo umano, il quale viene prodotto dal potere dello sperma. Pertanto anche l’anima intellettiva viene prodotta dal potere dello sperma.
+
+Obiezione 4: Inoltre, l’uomo genera individui della sua stessa specie. Ma la specie umana è costituita dall’anima razionale. Pertanto, l’anima razionale deriva dal genitore stesso.
+
+Obiezione 5: Inoltre, non si può affermare che Dio concorra al peccato. Ma se l’anima razionale è creata da Dio, allora talvolta Dio concorre al peccato di adulterio, poiché talvolta i figli nascono da rapporti illeciti. Pertanto, l’anima razionale non è creata da Dio.
+
+Al contrario, nel “De Eccl. Dogmat.” XIV si afferma che “l’anima razionale non viene generata attraverso il rapporto sessuale”.
+
+Rispondo che è impossibile per una forza attiva esistente nella materia estendere la propria azione alla produzione di un effetto immateriale. Ora è evidente che il principio intellettivo nell’uomo trascende la materia, poiché svolge funzioni in cui il corpo non ha alcun ruolo. Pertanto, è impossibile che la forza seminale possa produrre tale principio intellettivo.  
+Inoltre, la forza seminale agisce grazie all’anima del generatore; l’anima del generatore, a sua volta, è l’atto stesso del corpo, che utilizza il corpo nel proprio funzionamento. Ora, il corpo non ha alcuna parte da svolgere nell’operazione dell’intelletto. Quindi, la forza del principio intellettivo, in quanto tale, non può influenzare il seme. Ecco perché il Filosofo afferma (De Gener. Animal., ii, 3): “Ne consegue che soltanto l’intelletto proviene dall’esterno.”  
+Inoltre, poiché l’anima intellettiva svolge funzioni indipendenti dal corpo, essa è sostanziale, come dimostrato in precedenza (Q[75], A[2]); pertanto, essere e essere creati sono proprietà intrinseche ad essa. Inoltre, essendo una sostanza immateriale, non può essere generata, ma soltanto creata da Dio. Pertanto, sostenere che l’anima intellettiva sia causata dal generatore equivale a ritenere che tale anima non sia sostanziale e quindi che perisca insieme al corpo. È quindi eretico affermare che l’anima intellettiva venga trasmessa con il seme.
+
+Risposta all’Obiezione 1: Nel passaggio citato, viene utilizzata la figura retorica della sinecdoche, in cui una parte viene sostituita con l’intero; in questo caso, l’anima viene usata al posto dell’uomo intero.
+
+Risposta all’Obiezione 2: Alcuni affermano che le funzioni vitali osservate nell’embrione non derivino dalla sua anima, ma dall’anima della madre o dal potere formativo del seme. Entrambe queste spiegazioni sono errate; infatti, funzioni vitali come la sensazione, l’alimentazione e la crescita non possono provenire da un principio esterno all’embrione stesso. Pertanto, si deve ammettere che l’anima è presente nell’embrione: innanzitutto l’anima nutritiva, poi l’anima sensitiva e infine l’anima intellettuale. Alcuni sostengono quindi che, oltre all’anima vegetativa che esiste fin dall’inizio, ne seguano altre, ovvero l’anima sensitiva e poi l’anima intellettuale; in questo modo nell’uomo ci sarebbero tre anime, di cui una sarebbe “potenzialmente” diversa dalle altre. Questa ipotesi è stata confutata sopra (Q[76], A[3]). Altri ritengono che la stessa anima, inizialmente solo vegetativa, diventi successivamente sensitiva attraverso l’azione del potere formativo del seme, e infine intellettuale, non però grazie a questo stesso potere, ma tramite l’intervento di un agente superiore, ovvero Dio che illumina l’anima dall’esterno. Per questa ragione il Filosofo afferma che l’intelletto provenga dall’esterno; tuttavia questa tesi non regge. Primo perché nessuna “forma sostanziale” può subire aumenti o diminuzioni di perfezione: l’aggiunta di una maggiore perfezione costituisce infatti un’altra specie, proprio come l’aggiunta dell’unità costituisce un’altra specie di numero. È impossibile quindi che la stessa forma appartenga a diverse specie. In secondo luogo, ciò significherebbe che la generazione di un animale fosse un processo continuo e graduale, che passasse dall’imperfetto al perfetto, proprio come avviene nella trasformazione delle cose. Terzo, ciò implicherebbe che la generazione di un uomo o di un animale non fosse semplicemente un atto di creazione, ma che il soggetto di tale generazione fosse già un essere attivo. Se infatti l’anima vegetativa esistesse fin dall’inizio nel materiale genetico e venisse gradualmente perfezionata, ciò significherebbe che venissero aggiunte ulteriori perfezioni senza che quelle precedenti venissero corrotte; ma questo è contrario alla natura stessa della generazione. Quarto, se ciò che viene creato dall’azione di Dio fosse qualcosa di sostanziale, esso dovrebbe essere essenzialmente diverso dalla forma preesistente, non sostanziale; in tal caso si tornerebbe all’ipotesi dell’esistenza di più anime nel corpo. Oppure ciò che viene creato non è sostanziale, ma una semplice perfezione dell’anima preesistente; in questo caso l’anima intellettuale dovrebbe perire insieme al corpo, il che è assolutamente inaccettabile. Esiste ancora un’altra spiegazione, proposta da coloro che ritengono che tutti gli uomini abbiano un solo intelletto in comune; ma anche questa ipotesi è stata confutata sopra (Q[76], A[2]). Pertanto, si deve affermare che poiché la generazione di una cosa comporta necessariamente la corruzione di un’altra.
+È necessario concludere che sia negli uomini che negli altri animali, quando si manifesta una forma più perfetta, quella precedente venga corrotta; tuttavia, la nuova forma contiene non solo la perfezione della forma precedente, ma anche qualcosa in più. È così che, attraverso molte generazioni e processi di corruzione, arriviamo alla forma sostanziale definitiva, sia negli uomini che negli altri animali. Questo è certamente evidente ai sensi negli animali nati dalla putrefazione. Pertanto, si può concludere che l’anima intellettuale venga creata da Dio alla fine del processo di generazione umana; tale anima è allo stesso tempo sensitiva e nutritiva, poiché le forme preesistenti sono state corrotte.
+
+Risposta all’Obiezione 3: Questo argomento è valido nel caso di agenti diversi che non siano ordinati l’uno rispetto all’altro. Tuttavia, quando esistono molti agenti ordinati tra loro, nulla ostacola il potere dell’agente superiore dal raggiungere la forma ultima; mentre i poteri degli agenti inferiori si estendono soltanto a determinate disposizioni della materia. Ad esempio, nella generazione di un animale, il potere seminale dispone la materia, ma è il potere dell’anima a conferire la forma definitiva. È evidente, da quanto detto in precedenza (Q[105], A[5]; Q[110], A[1]), che l’intera natura corporea agisce come strumento di un potere spirituale, soprattutto di Dio. Pertanto, nulla impedisce che la formazione del corpo sia dovuta a un potere corporeo, mentre l’anima intellettuale proviene esclusivamente da Dio.
+
+Risposta all’Obiezione 4: L’uomo genera individui simili a sé, poiché con la sua capacità procreativa il materiale biologico viene predisposto ad accogliere una determinata forma vitale.
+
+Risposta all’Obiezione 5: Nell’atto dell’adultero, ciò che è di natura buona è incluso; in questo Dio concorda. Tuttavia, ciò che rappresenta una lussuria eccessiva è male; in questo Dio non concorda.
+
 <span class="atom-split" data-atom="104" data-title="Whether human souls were created together at the beginning of the world?" data-chapter="Whether human souls were created together at the beginning of the world?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that human souls were created together at the beginning of the
@@ -4840,6 +6383,27 @@ body, which was a result of sin. Consequently it was not fitting that God should
 without the body from the beginning: for as it is written (Wis. 1:13,16): "God made not death . . .
 but the wicked with works and words have called it to them."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le anime umane siano state create tutte insieme all’inizio del mondo. Infatti è scritto (Genesi 2:2): “Dio si riposò da tutto il lavoro che aveva compiuto”. Questo non sarebbe vero se Dio creasse nuove anime ogni giorno; pertanto, tutte le anime sono state create nello stesso momento.
+
+Obiezione 2: Inoltre, le sostanze spirituali, più di ogni altra, contribuiscono alla perfezione dell’universo. Se quindi le anime fossero state create insieme ai corpi, ogni giorno innumerevoli sostanze spirituali verrebbero aggiunte alla perfezione dell’universo; di conseguenza, all’inizio l’universo sarebbe stato imperfetto. Ciò è contrario a Genesi 2:2, dove si dice che “Dio completò” tutta la “sua opera”.
+
+Obiezione 3: Inoltre, la fine di una cosa corrisponde al suo inizio. Ma l’anima intellettuale sopravvive alla morte del corpo. Pertanto, deve aver iniziato a esistere prima del corpo.
+
+Al contrario, si afferma (in De Eccl. Dogmat. xiv, xviii) che “l’anima viene creata insieme al corpo”.
+
+Rispondo che alcuni hanno sostenuto che sia casuale per l’anima intellettuale essere unita al corpo, affermando che l’anima abbia la stessa natura di quelle sostanze spirituali che non sono unite a un corpo. Pertanto, questi hanno dichiarato che le anime umane fossero state create insieme agli angeli all’inizio. Ma questa affermazione è falsa. Primo perché si basa su un principio errato: se fosse casuale per l’anima essere unita al corpo, ne conterrebbe che l’uomo, risultante da questa unione, sia un essere “casuale”; oppure che l’anima stessa sia un uomo, il che è falso, come dimostrato in precedenza (Q[75], A[4]). Inoltre, il fatto che l’anima umana non abbia la stessa natura degli angeli è dimostrato dal diverso modo di comprendere le cose, come spiegato sopra (Q[55], A[2]; Q[85], A[1]): l’uomo infatti comprende attraverso i sensi e le immagini che ne derivano, come detto in precedenza (Q[84], AA[6],7; Q[85], A[1]). Per questo motivo, l’anima ha bisogno di essere unita al corpo, il quale è necessario per il funzionamento della sua parte sensibile; ciò non vale invece per gli angeli.  
+In secondo luogo, questa affermazione può essere dimostrata falsa in sé stessa: se fosse naturale per l’anima essere unita al corpo, allora sarebbe innaturale che essa ne fosse priva; e finché è priva di corpo, le manca la sua perfezione naturale. Non era dunque appropriato che Dio iniziasse il suo lavoro con cose imperfette e innaturali: non ha creato l’uomo senza mani o piedi, che sono parti naturali dell’uomo; tanto meno ha creato l’anima senza un corpo.  
+Ma se qualcuno afferma che non sia naturale per l’anima essere unita al corpo, deve fornire una ragione per cui ciò avvenga. La ragione può essere soltanto che l’anima lo desideri, oppure qualche altro motivo. Se la ragione fosse il desiderio stesso dell’anima, ciò sembrerebbe contraddittorio: innanzitutto, sarebbe irragionevole che l’anima desiderasse unirsi al corpo se non ne avesse bisogno; in secondo luogo, non ci sarebbe motivo per cui, essendo stata creata fin dall’inizio del mondo, l’anima decidesse in seguito di unirsi al corpo. Una sostanza spirituale, infatti, è al di sopra del tempo e delle leggi naturali. Inoltre, sembrerebbe che questo corpo sia stato unito a quest’anima per caso: perché per realizzare questa unione sarebbero necessarie due volontà concordanti, quella dell’anima e quella di colui che l’ha generata. Se invece questa unione non è né volontaria né naturale da parte dell’anima, allora deve essere il risultato di cause violente, e per l’anima avrebbe un carattere punitivo e doloroso. Questo concorda con l’opinione di Origene, secondo cui le anime vengono incarnate come punizione del peccato. Poiché quindi tutte queste opinioni sono irragionevoli, dobbiamo semplicemente ammettere che le anime non furono create prima.
+Corpi, ma vengono creati nello stesso istante in cui vengono infusi in essi.
+
+Risposta all’Obiezione 1: Si dice che Dio si sia riposato il settimo giorno, non da ogni lavoro, poiché leggiamo (Giovanni 5:17): “Mio Padre opera ancora oggi”; ma soltanto dalla creazione di nuovi generi e specie, che forse non esistevano già nelle prime opere creative. Infatti, in questo senso, le anime create ora esistevano già, per quanto riguarda la loro appartenenza alle stesse specie, nelle prime opere creative, le quali includevano anche la creazione dell’anima di Adamo.
+
+Risposta all’Obiezione 2: Ogni giorno è possibile aggiungere qualcosa alla perfezione dell’universo, così come al numero degli individui, ma non al numero delle specie.
+
+Risposta all’Obiezione 3: Il fatto che l’anima rimanga senza il corpo è dovuto alla corruzione del corpo, che è risultato del peccato. Pertanto non sarebbe stato appropriato che Dio creasse l’anima senza il corpo fin dall’inizio; poiché come è scritto (Sapienza 1:13,16): “Dio non ha creato la morte, ma i malvagi, con le loro azioni e parole, se l’sono attirata addosso”.
+
 <span class="atom-split" data-atom="105" data-title="OF THE PROPAGATION OF MAN AS TO THE BODY (TWO ARTICLES)" data-chapter="OF THE PROPAGATION OF MAN AS TO THE BODY (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now consider the propagation of man, as to the body. Concerning this there are two points
@@ -4847,6 +6411,12 @@ of inquiry:
 (1) Whether any part of the food is changed into true [human nature](/axes/human_nature)?
 (2) Whether the semen, which is the principle of human generation, is produced from the surplus
 food?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora consideriamo la propagazione dell’uomo, in termini fisici. A questo proposito ci sono due questioni da indagare:  
+(1) Se una parte qualsiasi del cibo si trasformi effettivamente nella vera [natura umana](/axes/human_nature);  
+(2) Se lo sperma, che è il principio della generazione umana, venga prodotto dal surplus di cibo.
 
 <span class="atom-split" data-atom="106" data-title="Whether some part of the food is changed into true human nature? (1/3)" data-chapter="Whether some part of the food is changed into true human nature?" data-kind="atom" data-srclang="en"></span>
 
@@ -4962,6 +6532,14 @@ but "all"---because something from every kind of food is cast out into the privy
 that whatever is generated from food, can be dissolved by natural heat, and be cast aside through
 the pores, as Jerome expounds the passage.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Rispondo che, secondo il Filosofo (Metafisica ii), “la relazione di una cosa con la verità è la stessa della sua relazione con l’essere”. Pertanto, ciò che appartiene alla vera natura di qualsiasi cosa fa parte costitutiva di quella natura. Ma la natura può essere considerata in due modi: innanzitutto, in modo generale, secondo le specie; in secondo luogo, nel suo aspetto individuale. La forma e la materia comune appartengono alla vera natura di una cosa considerata in modo generale; la materia individuale e la forma specificata da quella materia appartengono invece alla vera natura della cosa in quanto individuo concreto. Così, l’anima e il corpo appartengono alla vera [natura umana](/axes/human_nature) in senso generale, ma l’anima e il corpo di Pietro e Martino appartengono specificamente alla vera natura umana di quegli individui. Esistono però certe cose la cui forma può esistere soltanto in una determinata materia individuale: ad esempio, la forma del sole può esistere solo nella materia in cui si trova effettivamente. In questo senso, alcuni hanno affermato che anche la forma umana possa esistere soltanto in una specifica materia individuale, quella data all’uomo primordiale all’inizio dei tempi. Quindi, tutto ciò che è stato aggiunto successivamente alla natura umana originale non fa parte della sua vera essenza, poiché non riceve realmente la forma propria della natura umana. Tuttavia, si sostiene che quella materia che, nell’uomo primordiale, costituiva il soggetto della forma umana si sia moltiplicata; da questa moltiplicazione deriverebbero tutti i corpi umani. Secondo questi argomenti, il cibo non verrebbe trasformato in vera natura umana: lo assumiamo soltanto per aiutare la natura umana a resistere all’azione del calore interno e per impedire che venga consumato il “umore radicale”; proprio come il piombo o il stagno vengono mescolati con l’argento per evitare che vengano distrutti dal fuoco. Ma questo punto di vista è in molti modi irragionevole. Innanzitutto, significherebbe che una forma possa essere generata in un’altra materia, o che possa cessare di esistere nella sua materia originale; ciò renderebbe tutte le cose generate corruttibili. Il che è ovviamente falso. Inoltre, la forma umana può certamente cessare di esistere nella materia specifica in cui si trova; altrimenti il corpo umano non sarebbe corruttibile. Quindi potrebbe cominciare a esistere in un’altra materia, permettendo così che qualcos’altro venga trasformato in vera natura umana. Inoltre, in tutti gli esseri la cui intera materia è contenuta in un singolo individuo, esiste soltanto un unico esemplare della specie; quindi ci sarebbe soltanto un unico essere umano. Infine, la moltiplicazione della materia può avvenire soltanto in termini di quantità (come nelle sostanze rarefatte) o riguardo alla sostanza stessa della materia. Ma se si preserva soltanto la sostanza della materia, non si può parlare di sua moltiplicazione; poiché la “moltitudine” non può derivare dall’aggiunta di una cosa a sé stessa.
+L’unico modo per ottenere un aumento della materia è attraverso la trasformazione di altri elementi in essa. Pertanto, deve esserci qualche altra sostanza che venga aggiunta alla materia, sia tramite la creazione, sia attraverso la trasformazione di altre sostanze. Di conseguenza, la materia non può moltiplicarsi se non mediante rarefazione – come avviene quando l’acqua si trasforma in aria – oppure attraverso la trasformazione di altre sostanze, come quando il legno viene utilizzato per produrre fuoco; infine, tramite la creazione. È evidente che la moltiplicazione della materia nel corpo umano non avviene per rarefazione: altrimenti il corpo di un uomo adulto sarebbe più imperfetto di quello di un bambino. Né avviene attraverso la creazione di nuova materia: secondo Gregorio (“Moralia”, xxxii), “tutte le cose sono state create insieme in termini di sostanza materiale, ma non in termini di forma specifica”. Pertanto, la moltiplicazione del corpo umano può avvenire soltanto attraverso la trasformazione del cibo nella vera natura umana. Inoltre, poiché l’uomo non differisce dagli animali e dalle piante per quanto riguarda l’anima vegetativa, ne consegue che i corpi di animali e piante non aumentano di dimensioni attraverso la trasformazione del nutrimento in quel corpo stesso, ma tramite un processo di moltiplicazione. Questo processo, tuttavia, non può essere naturale: poiché la materia non può naturalmente aumentare oltre una certa quantità stabilita; inoltre, nulla può aumentare naturalmente se non attraverso rarefazione o trasformazione di altre sostanze. Di conseguenza, l’intero processo di generazione e nutrimento, definito “forza naturale”, sarebbe in realtà un fenomeno miracoloso, il che è assolutamente inaccettabile. Alcuni hanno quindi affermato che la forma umana possa effettivamente nascere da altre sostanze, se considerata in termini generali; ma non nel caso di un individuo specifico. Nel caso dell’individuo, infatti, la forma umana rimane legata a una determinata materia su cui viene impressa al momento della nascita e dalla quale non si separa mai fino alla morte di quell’individuo. Questa materia, secondo questi autori, appartiene essenzialmente alla vera natura umana; tuttavia, poiché essa da sola non è sufficiente per formare un corpo umano completo, deve essere aggiunta altra materia, attraverso la trasformazione del cibo nella sostanza necessaria. Questa seconda materia, secondo loro, appartiene in modo secondario alla vera natura umana: poiché non è indispensabile per l’esistenza stessa dell’individuo, ma soltanto per il raggiungimento della quantità necessaria per la sua crescita. Qualsiasi altra sostanza che possa derivare dal cibo, in realtà, non appartiene propriamente alla vera natura umana. Tuttavia anche questa ipotesi è inaccettabile: innanzitutto, perché considera i corpi viventi come entità inanimate; in questi ultimi, infatti, sebbene esista la capacità di generare individui simili nella stessa specie, non esiste la capacità di generarli nell’ambito di un singolo individuo, una capacità che nei corpi viventi è rappresentata dalla funzione nutritiva. Pertanto, nulla verrebbe aggiunto ai corpi viventi attraverso il loro processo nutritivo.
+Il potere generativo, se il cibo non venisse trasformato nella vera natura umana. In secondo luogo, perché tale potere deriva da un’impressione specifica proveniente dall’anima del genitore, come già detto sopra (Q[118], A[1]). Pertanto, non può avere un potere maggiore nell’agire rispetto all’anima da cui proviene. Se dunque il potere generativo è in grado di far assumere al cibo la vera forma umana, tanto più l’anima, con il proprio potere nutritivo, può imprimere su quel cibo assimilato la vera natura umana. In terzo luogo, il cibo è necessario non solo per la crescita – altrimenti, una volta raggiunta la maturità, non sarebbe più necessario – ma anche per rinnovare ciò che viene perso a causa dell’azione del calore naturale. Ma questo rinnovo non avverrebbe se ciò che si forma dal cibo non sostituisse ciò che è andato perduto. Pertanto, proprio come ciò che esisteva in precedenza apparteneva alla vera natura umana, allo stesso modo ciò che si forma dal cibo ne condivide le caratteristiche essenziali. Secondo altri studiosi, quindi, si può affermare che il cibo venga effettivamente trasformato nella vera natura umana quando assume la forma specifica di carne, ossa e altre parti del corpo umano. È quanto afferma il Filosofo nel De Anima ii, 4: “Il cibo nutre in quanto contiene in potenza le componenti essenziali del corpo umano”.
+
+Risposta all’Obiezione 1: Nostro Signore non dice che “tutto” ciò che entra nella bocca, ma “qualsiasi cosa” – perché una parte di ogni tipo di cibo viene eliminata attraverso gli organi escretori. Si può anche affermare che tutto ciò che deriva dal cibo può essere sciolto dal calore naturale e eliminato attraverso i pori, come spiega Gerolamo in questa interpretazione del passaggio.
+
 <span class="atom-split" data-atom="108" data-title="Whether some part of the food is changed into true human nature? (3/3)" data-chapter="Whether some part of the food is changed into true human nature?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 2: By flesh belonging to the species, some have understood that which
@@ -5007,6 +6585,16 @@ while one piece of wood is burning, other wood is laid on, and so on until the f
 consumed, the same identical fire will remain all the time: because that which is added passes into
 what pre-existed. It is the same with living bodies, in which by means of nourishment that is renewed
 which was consumed by natural heat.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 2: Alcuni hanno inteso con “carne appartenente alla specie” ciò che prima di tutto costituisce l’essenza della specie umana, cioè ciò che deriva dal generatore; sostengono che tale elemento duri per tutta la durata dell’esistenza dell’individuo. Con “carne appartenente alla materia”, invece, intendono ciò che viene generato dal cibo; affermano che questo elemento non rimanga sempre, ma venga distrutto e rinnovato continuamente. Tuttavia, questa interpretazione è contraria al pensiero di [Aristotele](/figures/aristotle), il quale afferma che “così come nelle cose la cui specie risiede nella materia – ad esempio nel legno o nella pietra – anche nella carne esistono due componenti: uno appartenente alla specie e l’altro alla materia”. È evidente che questa distinzione non ha alcun senso nelle cose inanimate, le quali non vengono generate per via seminale né nutrite. Inoltre, ciò che viene generato dal cibo si unisce al corpo attraverso il processo di assimilazione, proprio come l’acqua si mescola con il vino; secondo il Filosofo, ciò che viene aggiunto e ciò a cui viene aggiunto non possono avere natura diversa, poiché vengono immediatamente fusi insieme. Pertanto, non esiste motivo di ritenere che uno di questi elementi venga distrutto dal calore naturale, mentre l’altro rimanga intatto. Bisogna quindi affermare che la distinzione proposta dal Filosofo riguarda non diversi tipi di carne, ma lo stesso tipo di carne considerato da punti di vista diversi: se consideriamo la carne in termini di specie, essa rimane sempre immutata, poiché la sua natura e le sue caratteristiche fondamentali restano invariate; se invece la consideriamo in termini di materia, essa viene distrutta e rinnovata continuamente.
+
+Risposta all’Obiezione 3: Si afferma che l’“umore radicale” comprenda tutto ciò su cui si fonda la virtù della specie. Se tale elemento viene eliminato, essa non può più essere rinnovata; è come quando una mano o un piede umano vengono amputati. L’“umore nutritivo”, invece, è quello che non ha ancora assunto perfettamente la natura specifica della specie, ma è in via di raggiungerla; esempi di questo tipo sono il sangue e simili sostanze. Pertanto, anche se tale umore viene rimosso, la virtù della specie rimane intatta nella sua essenza fondamentale, che non viene distrutta.
+
+Risposta all’Obiezione 4: Ogni virtù di un corpo soggetto a cambiamenti viene indebolita dall’azione continua, poiché tali agenti sono anche soggetti a modificazioni. Pertanto, la virtù trasformante è inizialmente potente abbastanza da essere in grado non solo di ripristinare ciò che è andato perduto, ma anche di favorire la crescita. In seguito, diventa sufficiente soltanto per il ripristino delle perdite, e la crescita cessa; infine, non riesce nemmeno più a svolgere questa funzione, e allora inizia il declino. Alla fine, quando questa virtù si esaurisce completamente, l’animale muore. Così pure, la virtù del vino, che trasforma l’acqua che vi viene aggiunta, viene indebolita da ulteriori aggiunte d’acqua, fino a diventare, alla fine, totalmente acquosa, come afferma il Filosofo a titolo esemplificativo (De Generati i, 5).
+
+Risposta all’Obiezione 5: Come afferma il Filosofo (De Generati i, 5), quando una determinata materia viene direttamente trasformata in fuoco, si dice che il fuoco venga generato ex novo; ma quando la materia viene trasformata in un fuoco già esistente, si dice che il fuoco venga alimentato. Pertanto, se l’intera massa di materia perde completamente la sua forma di fuoco e un’altra materia viene trasformata in fuoco, ne risulterà un altro fuoco distinto. Tuttavia, se, mentre un pezzo di legno sta bruciando, viene aggiunto altro legno, e così via fino a quando il primo pezzo non è completamente consumato, rimarrà sempre lo stesso fuoco: poiché ciò che viene aggiunto si fonde con ciò che esisteva già. Lo stesso vale per gli organismi viventi, i quali, grazie al nutrimento che viene rinnovato, riescono a sostituire ciò che è stato consumato dal calore naturale.
 
 <span class="atom-split" data-atom="109" data-title="Whether the semen is produced from surplus food?" data-chapter="Whether the semen is produced from surplus food?" data-kind="atom" data-srclang="en"></span>
 
@@ -5086,3 +6674,24 @@ by the Virgin Mother, was derived from Adam; whereas the active virtue was not d
 Adam, because His Body was not formed by the seminal virtue of a man, but by the operation of
 the Holy Ghost. For "such a birth was becoming to Him," [*Hymn for Vespers at Christmas;
 Breviary, O. P.], WHO IS ABOVE ALL GOD FOR EVER BLESSED. Amen.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che lo sperma non venga prodotto dal cibo in eccesso, ma dalla sostanza del genitore. Infatti Damasceno afferma (De Fide Orthodossa i, 8) che “la generazione è un’operazione della natura che, partendo dalla sostanza del genitore, produce ciò che viene generato”. Ma ciò che viene generato deriva proprio dall’ sperma. Pertanto, lo sperma deve essere prodotto dalla sostanza del genitore stesso.
+
+Obiezione 2: Inoltre, il figlio è simile a suo padre per quanto riguarda ciò che riceve da lui. Ma se lo sperma da cui qualcosa viene generato derivasse dal cibo in eccesso, un uomo non riceverebbe nulla da suo nonno o dai suoi antenati, nei quali tale cibo non è mai esistito. Pertanto, un uomo non sarebbe più simile a suo nonno o ai suoi antenati di quanto lo sia ad altri uomini.
+
+Obiezione 3: Inoltre, il cibo utilizzato dal generatore è talvolta carne di mucche, maiali e simili. Pertanto, se lo sperma fosse prodotto da cibo in eccesso, l’uomo nato da tale sperma sarebbe più simile a una mucca o a un maiale che a suo padre o ad altri parenti.
+
+Obiezione 4: Inoltre, [Agostino](/figures/augustine) afferma (Genesi ad litteram x, 20) che noi eravamo in Adamo “non solo attraverso la virtù seminale, ma anche nella stessa sostanza del corpo”. Ma ciò non sarebbe vero se il seme fosse prodotto da cibo in eccesso. Pertanto, il seme non deriva da tale cibo.
+
+Al contrario, il Filosofo dimostra in molti modi (De Generatione Animalium, I, 18) che “il seme rappresenta un tipo di cibo in eccesso”.
+
+Rispondo che questa domanda dipende in qualche modo da quanto è stato detto sopra (A[1]; Q[118], A[1]). Poiché la [natura umana](/axes/human_nature) possiede una virtù che le permette di trasmettere la propria forma a materia estranea, non solo in un altro essere, ma anche nel proprio soggetto; è evidente che il cibo, inizialmente diverso, diventa gradualmente simile grazie alla forma trasmessa. Ora, secondo l’ordine naturale, una cosa deve passare gradualmente dalla [potenzialità](/concepts/act_potency) all’atto: pertanto osserviamo che nelle cose generate ciascuna è inizialmente imperfetta e successivamente diventa perfetta. Ma ciò che è comune appartiene a ciò che è specifico e determinato, così come l’imperfetto appartiene al perfetto; quindi, nella generazione di un animale, prima si genera l’animale stesso, e poi l’uomo o il cavallo. Allo stesso modo, il cibo riceve inizialmente una virtù comune relativa a tutte le parti del corpo, e successivamente questa virtù si specifica per una parte o un’altra. Ora, non è possibile che lo sperma sia una sorta di soluzione derivante da materie già trasformate nella sostanza dei membri. Poiché, se tale soluzione non conservasse la natura del membro da cui proviene, non sarebbe più della natura del generatore, ma risulterebbe da un processo di corruzione; e quindi non avrebbe il potere di trasformare qualcos’altro nella stessa natura. Ma se lo sperma conservasse la natura del membro da cui proviene, essendo limitato a una determinata parte del corpo, non avrebbe il potere di produrre l’intera natura dell’essere vivente, ma soltanto quella della parte specifica. A meno che non si possa dire che lo sperma derivi da tutte le parti del corpo e conservi la natura di ciascuna di esse. In tal caso, lo sperma sarebbe un piccolo essere vivente già in atto; e la generazione di un animale da un altro animale sarebbe semplicemente una divisione, come avviene quando il fango si divide in altri frammenti, o quando gli animali continuano a vivere anche dopo essere stati divisi in due: il che è assolutamente inaccettabile. Resta quindi da dire che lo sperma non è qualcosa di separato da ciò che esisteva prima come entità completa; piuttosto, esso rappresenta l’intera entità, sebbene in potenzialità, e possiede il potere, derivante dall’anima del generatore, di produrre l’intero corpo, come già detto sopra (A[1]; Q[108], A[1]). Ciò che è in potenzialità per diventare un intero essere vivente è ciò che viene formato dal cibo prima che quest’ultimo venga trasformato nella sostanza dei membri. Pertanto, lo sperma deriva proprio da questo processo. In questo senso, si può dire che il potere nutritivo serve al potere generativo: poiché ciò che viene trasformato dal potere nutritivo viene poi utilizzato come sperma dal potere generativo. Un segno di ciò, secondo il Filosofo, è che gli animali di grandi dimensioni, che richiedono molta alimentazione, hanno poco sperma in proporzione alle loro dimensioni corporee e quindi si riproducono raramente; lo stesso vale per gli uomini grassi, per le stesse ragioni.
+
+Risposta all’Obiezione 1: La generazione avviene a partire dalla sostanza del genitore, sia negli animali che nelle piante; infatti, lo sperma deve la sua proprietà alla forma del genitore e, allo stesso tempo, è in potenza rispetto a quella sostanza.
+
+Risposta all’Obiezione 2: La somiglianza tra il generatore e ciò che viene generato deriva non dalla materia, ma dalla forma dell’agente che produce qualcosa di simile a sé. Pertanto, affinché un uomo sia simile a suo nonno, non è necessario che la materia seminale corporea del nonno abbia partecipato al processo di generazione; basta che nel seme vi sia una virtù trasmessa dalla anima del nonno attraverso il padre. Allo stesso modo si può rispondere anche alla terza obiezione: il legame di parentela, infatti, non riguarda la materia, ma piuttosto l’origine delle forme.
+
+Risposta all’Obiezione 4: Queste parole di Agostino non devono essere intese nel senso che la virtù seminale immediata, o la sostanza corporea da cui questo individuo è stato formato, fossero effettivamente presenti in Adamo; ma piuttosto nel senso che entrambe esistessero in Adamo in termini di principio. Anche la materia corporea, fornita dalla madre e chiamata da Agostino “sostanza corporea”, deriva originariamente da Adamo; allo stesso modo, anche la forza seminale attiva del padre, che costituisce la virtù seminale immediata nella formazione di questo uomo.  
+Tuttavia, si dice che Cristo fosse in Adamo “secondo la sostanza corporea”, non secondo la virtù seminale. Poiché la materia da cui il Suo corpo è stato formato, fornita dalla Vergine Maria, derivava da Adamo; mentre la forza seminale attiva non proveniva da Adamo, poiché il Suo corpo non è stato formato attraverso la virtù seminale di un uomo, ma per l’opera dello Spirito Santo. “Un tale parto era infatti degno Di Lui”, dice il Canto Vespertino di Natale; Amen.
