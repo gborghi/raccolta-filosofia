@@ -344,89 +344,89 @@ What you say has a wonderful truth in it, Socrates, replied Simmias.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Solo questo, Socrate, rispose Critone: — l'inserviente che deve darti il veleno mi ha detto, e vuole che io te lo riferisca, di non parlare troppo; il parlare, dice, accresce il calore, e questo può interferire con l'azione del veleno; le persone che si agitano sono talvolta costrette a prendere una seconda o addirittura una terza dose.
+Solo questo, [Socrates](/figures/socrates), rispose Critone: — il servitore che deve darti il veleno mi ha detto, e vuole che io ti riferisca, che non devi parlare molto; il parlare, dice, aumenta il calore, e ciò può interferire con l'azione del veleno; le persone che si agitano sono talvolta costrette a prendere una seconda o addirittura una terza dose.
 
-Allora, disse Socrate, si occupi dei suoi affari e sia pronto a somministrare il veleno due o anche tre volte se necessario; tutto qui.
+Allora, disse Socrate, si occupi dei suoi affari e sia pronto a dare il veleno due volte o anche tre se necessario; questo è tutto.
 
-"Sapevo benissimo quello che avresti detto," rispose Critone; "ma ero obbligato a soddisfarlo."
+Sapevo bene cosa avresti detto, rispose Critone; ma ero obbligato a soddisfarlo.
 
-Lascia perdere lui, disse.
+Non fargli caso, disse.
 
-E ora, o miei giudici, desidero provarvi che il vero filosofo ha ragione di essere di buon animo quando sta per morire, e che dopo la morte può sperare di ottenere il sommo bene nell'altro mondo. E come ciò avvenga, o Simmia e Cebete, mi sforzerò di spiegare. Credo infatti che il vero seguace della filosofia rischi di essere frainteso dagli altri uomini; essi non si accorgono che egli è sempre intento a perseguire la morte e il morire; e se così è, ed egli ha nutrito il desiderio della morte per tutta la vita, perché mai, quando giunge il suo momento, dovrebbe dolersi di ciò che ha sempre perseguito e desiderato?
+E ora, o giudici miei, desidero dimostrarvi che il vero filosofo ha ragione di essere di buon animo quando sta per morire, e che dopo la morte può sperare di ottenere il massimo bene nell'altro mondo. E come ciò sia possibile, Simmia e Cebete, cercherò di spiegare. Ritengo infatti che il vero seguace della filosofia rischi di essere frainteso dagli altri uomini; essi non si accorgono che egli persegue costantemente la morte e il morire; e se è così, e ha avuto il desiderio della morte per tutta la vita, perché quando arriva il suo momento dovrebbe dolersi di ciò che ha sempre perseguito e desiderato?
 
-Simmia disse ridendo: Pur non essendo in vena di ridere, mi hai fatto ridere, Socrate; perché non posso fare a meno di pensare che i più, quando udranno le tue parole, diranno quanto veramente tu abbia descritto i filosofi, e che i nostri concittadini diranno parimenti che la vita che i filosofi desiderano è in realtà la morte, e che essi li hanno scoperti meritevoli della morte che desiderano.
+Simmia disse ridendo: — Pur non essendo in vena di ridere, mi hai fatto ridere, Socrate; perché non posso fare a meno di pensare che i molti, quando sentiranno le tue parole, diranno quanto veramente tu abbia descritto i filosofi, e anche i nostri concittadini diranno che la vita che i filosofi desiderano è in realtà la morte, e che li hanno scoperti meritevoli della morte che desiderano.
 
-E hanno ragione, Simmia, a pensarla così, eccetto le parole «le hanno scoperte»; infatti non hanno scoperto né quale sia la natura di quella morte che il vero filosofo merita, né come egli la meriti o la desideri. Ma basta con loro: discutiamo tra noi: crediamo che esista una cosa come la morte?
+E hanno ragione, Simmia, a pensarla così, con l'eccezione delle parole 'li hanno scoperti'; perché non hanno scoperto né quale sia la natura di quella morte che il vero filosofo merita, né come egli la meriti o la desideri. Ma basta con loro: — discutiamo la questione tra di noi: Crediamo che esista una cosa come la morte?
 
 Certamente, rispose Simmia.
 
-Non è forse la separazione dell'anima e del corpo? Ed essere morti è il compimento di ciò; quando l'anima esiste in sé stessa, ed è liberata dal corpo e il corpo è liberato dall'anima, che cos'è questo se non la morte?
+Non è forse la separazione dell'[soul and body](/axes/soul_body)? E l'essere morto è il compimento di questo; quando l'anima esiste in sé stessa, ed è liberata dal corpo, e il corpo è liberato dall'anima, che cos'è questo se non la morte?
 
 Proprio così, rispose.
 
-Vi è un'altra questione, che probabilmente farà luce sulla nostra presente indagine, se tu ed io possiamo convenirne: — deve il filosofo curarsi dei piaceri — se piaceri si possono chiamare — del mangiare e del bere?
+C'è un'altra questione, che probabilmente getterà luce sulla nostra attuale indagine se tu e io possiamo essere d'accordo su di essa: — Il filosofo deve curarsi dei piaceri — se così si possono chiamare — del mangiare e del bere?
 
-Certo che no, rispose Simmia.
+Certamente no, rispose Simmia.
 
-E che dire dei piaceri dell'amore — dovrebbe curarsene?
+E che dire dei piaceri dell'amore — deve curarsene?
 
-Niente affatto.
+In nessun modo.
 
-E farà gran conto degli altri modi di soddisfare il corpo, per esempio del procacciarsi vesti costose, o calzari, o altri ornamenti del corpo? Invece di curarsene, non disprezza forse tutto ciò che eccede il bisogno della natura? Che ne dici?
+E darà molto peso agli altri modi di assecondare il corpo, per esempio, l'acquisto di vesti sontuose, o sandali, o altri ornamenti del corpo? Invece di curarsene, non disprezza piuttosto tutto ciò che supera i bisogni della natura? Che ne dici?
 
 Direi che il vero filosofo li disprezzerebbe.
 
-Non diresti che egli sia interamente rivolto all'anima e non al corpo? Vorrebbe, per quanto può, allontanarsi dal corpo e volgersi all'anima.
+Non diresti forse che egli si occupa interamente dell'anima e non del corpo? Vorrebbe, per quanto gli è possibile, allontanarsi dal corpo e rivolgersi all'anima.
 
-È proprio vero.
+Verissimo.
 
-In questioni di questo genere, i filosofi, più di ogni altro uomo, si osservano in ogni maniera disgiungere l'anima dalla comunione del corpo.
+In questioni di questo genere, i filosofi, più di tutti gli altri uomini, possono essere osservati in ogni modo a separare l'anima dalla comunione con il corpo.
 
-Molto vero.
+Verissimo.
 
-Mentre, o Simmia, il resto del mondo è dell'opinione che per chi non ha senso del piacere e nessuna parte dei piaceri del corpo, la vita non sia degna di essere vissuta; e che chi è indifferente ad essi sia come morto.
+Mentre, Simmia, il resto del mondo è dell'opinione che per colui che non ha senso del piacere e nessuna parte nei piaceri del corpo, la vita non vale la pena di essere vissuta; e che chi è indifferente ad essi è come morto.
 
 Anche questo è vero.
 
-Che diremo ancora della reale acquisizione della conoscenza? — il corpo, se invitato a partecipare all'indagine, è un ostacolo o un aiuto? Voglio dire: la vista e l'udito hanno in sé qualche verità? Non sono forse, come i poeti ci dicono sempre, testimoni inaccurati? e tuttavia, se anche essi sono inaccurati e indistinti, che cosa si dirà degli altri sensi? — poiché ammetterai che sono i migliori fra tutti.
+Che cosa diremo poi dell'effettivo acquisto della conoscenza? — il corpo, se invitato a partecipare all'indagine, è un ostacolo o un aiuto? Voglio dire, la vista e l'udito hanno in sé qualche verità? Non sono forse, come i poeti ci dicono sempre, testimoni inaccurati? Eppure, se anche essi sono inaccurati e indistinti, che cosa si deve dire degli altri sensi? — poiché ammetterai che essi sono i migliori di essi?
 
 Certamente, rispose.
 
-Allora quando l'anima raggiunge la verità? — poiché nel tentativo di considerare qualsiasi cosa in compagnia del corpo, essa è chiaramente ingannata.
+Allora quando l'anima raggiunge la verità? — poiché nel tentare di considerare qualsiasi cosa in compagnia del corpo, essa è chiaramente ingannata.
 
 Vero.
 
-Allora non deve forse la vera esistenza esserle rivelata nel pensiero, se mai?
+Allora non deve forse l'esistenza vera esserle rivelata nel pensiero, se mai lo è?
 
-I notice that the English passage to translate wasn't included in your request. Could you provide the text you'd like me to translate into Italian?
+Sì.
 
-E il pensiero è ottimo quando la mente è raccolta in sé stessa e nessuna di queste cose la turba — né suoni né visioni né dolore né alcun piacere — quando prende congedo dal corpo e ha il meno possibile a che fare con esso, quando non ha alcuna sensazione o desiderio corporeo, ma aspira all'essere vero?
+E il pensiero è migliore quando la mente è raccolta in sé stessa e nessuna di queste cose la turba — né suoni né visioni né dolore né alcun piacere — quando prende congedo dal corpo, e ha il meno possibile a che fare con esso, quando non ha alcuna sensazione o desiderio corporeo, ma aspira all'essere vero?
 
-I'd be happy to translate the passage, but it appears you haven't provided the actual English text to translate. Please share the philosophical prose you'd like me to render into Italian.
+Certamente.
 
-E in questo il filosofo disonora il corpo; la sua anima fugge dal suo corpo e desidera essere sola e per sé?
+E in questo il filosofo disonora il corpo; la sua anima fugge dal suo corpo e desidera essere sola e in sé stessa?
 
 È vero.
 
-Ebbene, ma c'è un'altra cosa, Simmia: vi è o non vi è una giustizia assoluta?
+Bene, ma c'è un'altra cosa, Simmia: Esiste o non esiste una giustizia assoluta?
 
-Certamente vi è.
+Certamente esiste.
 
-E una bellezza assoluta e un bene assoluto?
+E una [beauty](/concepts/beauty) assoluta e un bene assoluto?
 
-I notice that the passage you'd like translated wasn't included in your message. Could you please provide the English text you'd like me to translate into Italian?
+Naturalmente.
 
-Ma ne avete mai contemplato alcuno con i vostri occhi?
+Ma hai mai contemplato qualcuna di esse con i tuoi occhi?
 
 Certamente no.
 
-O mai giungesti ad esse con qualche altro senso corporeo? — e non parlo solo di queste, ma della grandezza assoluta, e della salute, e della forza, e dell'essenza o vera natura di ogni cosa. La loro realtà è mai stata da te percepita attraverso gli organi del corpo? o piuttosto, non è forse l'approccio più vicino alla conoscenza delle loro rispettive nature quello compiuto da chi ordina la propria visione intellettiva in modo da avere la concezione più esatta dell'essenza di ciascuna cosa che considera?
+O le hai mai raggiunte con qualche altro senso corporeo? — e non parlo solo di queste, ma della grandezza assoluta, della salute, della forza, e dell'essenza o vera natura di ogni cosa. La loro realtà è mai stata percepita da te attraverso gli organi corporei? O piuttosto, non è forse chi si avvicina di più alla conoscenza delle loro rispettive nature colui che dispone la propria visione intellettuale in modo da avere la concezione più esatta dell'essenza di ciascuna cosa che considera?
 
-I'd be happy to translate, but the English passage you'd like translated into Italian hasn't been included in your message. Please provide the text, and I'll translate it as requested.
+Certamente.
 
-E giunge alla conoscenza più pura di esse colui che va a ciascuna con la sola mente, non introducendo né intromettendo nell'atto del pensiero la vista o alcun altro senso insieme con la ragione, ma con la stessa luce della mente nella sua propria chiarezza scruta la verità stessa di ciascuna; colui che si è liberato, per quanto può, degli occhi e degli orecchi e, per così dire, di tutto il corpo, essendo questi, a suo giudizio, elementi perturbatori che, quando infettano l'anima, le impediscono di acquistare verità e conoscenza — chi, se non lui, potrà mai raggiungere la conoscenza dell'essere vero?
+E raggiunge la conoscenza più pura di esse colui che va a ciascuna di esse con la sola mente, non introducendo o intromettendo nell'atto del pensiero la vista o qualsiasi altro senso insieme alla ragione, ma con la luce stessa della mente, nella sua propria chiarezza, ricerca la verità stessa di ciascuna; colui che si è liberato, per quanto può, degli occhi e delle orecchie e, per così dire, dell'intero corpo, essendo questi, a suo parere, elementi di distrazione che, quando infettano l'anima, le impediscono di acquisire verità e conoscenza — chi, se non lui, è probabile che raggiunga la conoscenza dell'essere vero?
 
-—Ciò che dici racchiude una verità meravigliosa, Socrate, rispose Simmia.
+Quello che dici contiene una meravigliosa verità, Socrate, rispose Simmia.
 
 <span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -660,85 +660,85 @@ And that these admissions were not unfair, Cebes, he said, may be shown, I think
 
 <span class="qlang-split" data-lang="it"></span>
 
-E nondimeno lo scambio di un timore o di un piacere o di un dolore con un altro timore o piacere o dolore, e del maggiore col minore, quasi fossero monete, non è lo scambio della virtù. O mio buon Simmia, non v'è forse una sola moneta vera per la quale tutte le cose debbono essere cambiate? — e questa è la sapienza; e solo in cambio di questa, e in compagnia di questa, si compra o si vende qualcosa di vero, sia esso coraggio o temperanza o giustizia. E non è forse ogni vera virtù compagna della sapienza, qualunque siano i timori o i piaceri o altri simili beni o mali che l'accompagnino o non l'accompagnino? Ma la virtù che è fatta di questi beni, quando sono separati dalla sapienza e scambiati gli uni con gli altri, è solo un'ombra di virtù, né in essa v'è libertà o salute o verità alcuna; ma nel vero scambio vi è una purificazione da tutte queste cose, e la temperanza, la giustizia, il coraggio e la sapienza stessa sono la loro purgazione. I fondatori dei misteri sembrerebbero aver avuto un significato reale, e non parlavano a vanvera quando accennavano in figura molto tempo fa che colui che scende nel mondo di sotto senza essere stato santificato e senza iniziazione giacerà in un pantano, ma che colui che vi giunge dopo l'iniziazione e la purificazione abiterà con gli dèi. Poiché "molti", come dicono nei misteri, "sono i portatori di tirso, ma pochi sono i mistici", — intendendo, come io interpreto le parole, "i veri filosofi". Tra i quali, per tutta la mia vita, ho cercato, secondo la mia capacità, di trovare un posto; — se ho cercato nel modo giusto o no, e se vi sono riuscito o no, lo saprò davvero tra poco, se Dio vuole, quando io stesso giungerò nell'altro mondo — tale è la mia fede. E perciò sostengo di avere ragione, o Simmia e Cebete, nel non addolorarmi né lamentarmi nel lasciare voi e i miei maestri in questo mondo, poiché credo che troverò ugualmente buoni maestri e amici nell'altro mondo. Ma la maggior parte degli uomini non crede a questa parola; se dunque riesco a convincervi con la mia difesa meglio di quanto non abbia convinto i giudici ateniesi, sarà bene.
+Eppure il cambio di una paura o di un piacere o di un dolore con un'altra paura o piacere o dolore, e del maggiore con il minore, come se fossero monete, non è lo scambio della virtù. O mio beato Simmia, non esiste forse una sola moneta vera per la quale tutte le cose debbono essere cambiate? — e questa è la saggezza; e solo in cambio di questa, e in compagnia di questa, qualcosa è veramente comprata o venduta, sia essa coraggio o temperanza o giustizia. E non è forse ogni vera virtù compagna della saggezza, qualunque cosa siano le paure o i piaceri o altri simili beni o mali che possano o non possano accompagnarla? Ma la virtù che è fatta di questi beni, quando sono separati dalla saggezza e scambiati gli uni con gli altri, è solo un'ombra di virtù, né vi è in essa alcuna libertà o salute o verità; ma nel vero scambio vi è una purificazione di tutte queste cose, e la temperanza, la giustizia, il coraggio e la saggezza stessa sono la loro purificazione. I fondatori dei misteri sembrerebbero aver avuto un significato reale, e non parlavano a vanvera quando accennarono in figura, molto tempo fa, che colui che passa nel mondo di sotto senza essere stato santificato e senza essere stato iniziato giacerà in una palude, ma colui che vi arriva dopo l'iniziazione e la purificazione dimorerà con gli dèi. Poiché "molti", come dicono nei misteri, "sono i portatori di tirso, ma pochi sono i mistici", — volendo dire, come io interpreto le parole, "i veri filosofi". Nel numero dei quali, per tutta la mia vita, ho cercato, secondo la mia capacità, di trovare un posto; — se ho cercato nel modo giusto o no, e se vi sono riuscito o no, lo saprò veramente tra poco, se Dio vorrà, quando io stesso arriverò nell'altro mondo — tale è la mia convinzione. E perciò sostengo di avere ragione, Simmia e Cebete, a non addolorarmi né a lamentarmi nel separarmi da voi e dai miei maestri in questo mondo, poiché credo che nell'altro mondo troverò ugualmente buoni maestri e amici. Ma la maggior parte degli uomini non crede a questa parola; se dunque riesco a convincervi con la mia difesa meglio di quanto convinsi i giudici ateniesi, sarà bene.
 
-Cebete rispose: Sono d'accordo, Socrate, nella maggior parte di ciò che dici. Ma per quanto riguarda l'anima, gli uomini sono inclini all'incredulità; temono che, una volta lasciato il corpo, ella non sia più in nessun luogo, e che proprio nel giorno della morte possa perire e avere fine — subito dopo essersi liberata dal corpo, uscendo dispersa come fumo o aria, e nel suo volo svanendo nel nulla. Se ella potesse solo raccogliersi in sé stessa dopo aver ottenuto la liberazione dai mali di cui parli, ci sarebbe buona ragione di sperare, Socrate, che ciò che dici sia vero. Ma certo richiede una gran quantità di argomenti e molte prove mostrare che, quando l'uomo è morto, la sua anima esista ancora, e abbia qualche forza o intelligenza.
+Cebete rispose: Sono d'accordo, [Socrate](/figures/socrates), nella maggior parte di ciò che dici. Ma per quanto riguarda l'anima, gli uomini sono inclini all'incredulità; temono che, quando essa abbia lasciato il corpo, il suo posto possa essere in nessun luogo, e che proprio nel giorno della morte essa possa perire e avere fine — subito al suo distacco dal corpo, uscendo dispersa come fumo o aria e nella sua fuga svanendo nel nulla. Se potesse solo raccogliersi in sé stessa dopo aver ottenuto la liberazione dai mali di cui parli, ci sarebbe buona ragione di sperare, Socrate, che ciò che dici sia vero. Ma certamente occorrono molti argomenti e molte prove per mostrare che, quando l'uomo è morto, la sua anima esiste ancora e ha qualche forza o intelligenza.
 
-Vero, Cebete, disse Socrate; e posso suggerire che conversiamo un poco intorno alle probabilità di queste cose?
+Vero, Cebete, disse Socrate; e devo suggerire che conversiamo un poco sulle probabilità di queste cose?
 
-Sono certo, disse Cebete, che desidererei vivamente conoscere la vostra opinione su di essi.
+Sono certo, disse Cebete, che mi farebbe molto piacere conoscere la tua opinione su di esse.
 
-"Suppongo," disse Socrate, "che nessuno tra quanti mi hanno udito ora, nemmeno se fosse uno dei miei antichi nemici, i poeti comici, potrebbe accusarmi di parlare a vuoto di cose che non mi riguardano: — Se vi aggrada, allora, proseguiremo l'indagine."
+Ritengo, disse Socrate, che nessuno che mi ascoltasse ora, nemmeno se fosse uno dei miei vecchi nemici, i poeti comici, potrebbe accusarmi di parlare oziosamente di cose che non mi riguardano: — se vuoi, allora, proseguiremo l'indagine.
 
-Supponiamo di considerare la questione se le anime degli uomini dopo la morte siano o non siano nel mondo di sotto. Mi viene in mente un’antica dottrina che afferma che esse vanno di qui nell’altro mondo e, tornando di qui, rinascono dai morti. Ora, se è vero che i viventi vengono dai morti, allora le nostre anime devono esistere nell’altro mondo, perché, altrimenti, come avrebbero potuto rinascere? E questo sarebbe conclusivo, se vi fosse qualche reale prova che i viventi nascono solo dai morti; ma se non è così, allora si dovranno addurre altri argomenti.
+Supponiamo di considerare la questione se le anime degli uomini dopo la morte siano o non siano nel mondo di sotto. Mi viene in mente un'antica dottrina che afferma che esse vanno di qui nell'altro mondo e, tornando di là, rinascono dai morti. Ora, se è vero che i viventi provengono dai morti, allora le nostre anime devono esistere nell'altro mondo, perché altrimenti come avrebbero potuto rinascere? E questo sarebbe conclusivo, se vi fosse qualche prova reale che i viventi sono generati solo dai morti; ma se non è così, allora bisognerà addurre altri argomenti.
 
-«Verissimo», rispose Cebete.
+Molto vero, rispose Cebete.
 
-Consideriamo allora tutta la questione, non in relazione all'uomo soltanto, ma in relazione agli animali in generale, alle piante, e a tutto ciò di cui vi è generazione, e la dimostrazione sarà più facile. Non sono forse tutte le cose che hanno contrari generate dai loro contrari? Intendo dire cose come il bene e il male, il giusto e l'ingiusto — e vi sono innumerevoli altri contrari che sono generati dai contrari. E voglio mostrare che in tutti i contrari vi è necessariamente un simile alternarsi; intendo dire, per esempio, che ciò che diventa più grande deve diventare più grande dopo essere stato più piccolo.
+Allora consideriamo l'intera questione, non in relazione all'uomo soltanto, ma in relazione agli animali in generale, e alle piante, e a tutto ciò di cui vi è generazione, e la prova sarà più facile. Non sono forse tutte le cose che hanno contrari generate dai loro contrari? Intendo cose come il bene e il male, il giusto e l'ingiusto — e vi sono innumerevoli altri contrari che sono generati dai contrari. E voglio mostrare che in tutti i contrari vi è necessariamente una simile alternanza; voglio dire, per esempio, che qualsiasi cosa che diventa maggiore deve essere diventata maggiore dopo essere stata minore.
 
 Vero.
 
-E ciò che diviene minore deve essere stato un tempo maggiore e poi essere divenuto minore.
+E ciò che diventa minore deve essere stato una volta maggiore e poi essere diventato minore.
 
-Certo.
+Sì.
 
-E il più debole è generato dal più forte, e il più rapido dal più lento.
+E il più debole è generato dal più forte, e il più veloce dal più lento.
 
 Molto vero.
 
-E il peggio deriva dal meglio, e il più giusto dal più ingiusto.
+E il peggiore viene dal migliore, e il più giusto dal più ingiusto.
 
-I notice you've provided the instructions but no source text to translate. Could you please share the English passage you'd like me to translate into Italian?
+Certamente.
 
-E questo è vero per tutti gli opposti? e siamo convinti che tutti quanti siano generati dagli opposti?
+E questo è vero di tutti i contrari? e siamo convinti che tutti siano generati dai contrari?
 
-Certo.
+Sì.
 
-E in questa universale opposizione di tutte le cose, non vi sono anche due processi intermedi che sono sempre in atto, dall'uno all'altro opposto, e di nuovo indietro; dove vi è un maggiore e un minore, vi è anche un processo intermedio di accrescimento e diminuzione, e ciò che cresce è detto aumentare, e ciò che decade è detto scemare?
+E in questa universale opposizione di tutte le cose, non vi sono anche due processi intermedi che sono sempre in corso, dall'uno all'altro contrario, e di nuovo indietro; dove vi è un maggiore e un minore vi è anche un processo intermedio di aumento e diminuzione, e ciò che cresce si dice che aumenta, e ciò che diminuisce si dice che cala?
 
 Sì, disse.
 
-E vi sono molti altri processi, come la divisione e la composizione, il raffreddamento e il riscaldamento, che ugualmente implicano un passaggio l'uno nell'altro e l'uno dall'altro. E questo vale necessariamente per tutti i contrari, anche se non sempre è espresso a parole — essi sono realmente generati gli uni dagli altri, e vi è un passaggio o processo dall'uno all'altro di essi?
+E vi sono molti altri processi, come la divisione e la composizione, il raffreddamento e il riscaldamento, che ugualmente implicano un passaggio nell'uno e nell'altro. E questo vale necessariamente per tutti i contrari, anche se non sempre espresso a parole — essi sono realmente generati gli uni dagli altri, e vi è un passaggio o processo dall'uno all'altro di essi?
 
 Molto vero, rispose.
 
-Ebbene, non esiste forse un contrario della vita, come il sonno è il contrario della veglia?
+Ebbene, non vi è forse un contrario della vita, come il sonno è contrario della veglia?
 
 Vero, disse.
 
-E cos'è?
+E qual è?
 
-Morte, rispose.
+La morte, rispose.
 
-E questi, se sono opposti, sono generati l'uno dall'altro, e vi hanno anche i loro due processi intermedi?
+E questi, se sono contrari, sono generati l'uno dall'altro, e hanno anche i loro due processi intermedi?
 
-Naturalmente.
+Certamente.
 
-Ora, disse Socrate, analizzerò io una delle due coppie di opposti che ti ho menzionato, e anche i suoi processi intermedi, e tu analizzerai l'altra per me. Uno di questi lo chiamo sonno, l'altro veglia. Lo stato del sonno è opposto allo stato della veglia, e dal dormire si genera il vegliare, e dal vegliare il dormire; e il processo di generazione è nell'un caso l'addormentarsi, nell'altro il destarsi. Sei d'accordo?
+Ora, disse Socrate, analizzerò una delle due coppie di contrari che ti ho menzionato, e anche i suoi processi intermedi, e tu analizzerai l'altra per me. Uno di essi lo chiamo sonno, l'altro veglia. [Lo stato](/concepts/state) del sonno è opposto allo stato della veglia, e dal dormire è generato il vegliare, e dal vegliare il dormire; e il processo di generazione è nell'un caso l'addormentarsi, e nell'altro lo svegliarsi. Sei d'accordo?
 
-Sono completamente d'accordo.
+Sono interamente d'accordo.
 
-Supponi allora che tu mi analizzi la vita e la morte allo stesso modo. Non è forse la morte opposta alla vita?
+Allora, supponi di analizzare per me la vita e la morte allo stesso modo. Non è forse la morte opposta alla vita?
 
-Certo.
+Sì.
 
-E sono generate le une dalle altre?
+E sono generate l'una dall'altra?
 
-Certo.
+Sì.
 
 Che cosa è generato dal vivente?
 
-I morti.
+Il morto.
 
-E che cosa dai morti?
+E che cosa dal morto?
 
-Posso solo dire in risposta — i vivi.
+Posso solo rispondere: il vivente.
 
-Allora i viventi, siano cose o persone, o Cebete, sono generati dai morti?
+Allora i viventi, siano cose o persone, Cebete, sono generati dai morti?
 
-"È chiaro", rispose.
+È chiaro, rispose.
 
-Allora l'inferenza è che le nostre anime esistono nel mondo di sotto?
+Allora la conclusione è che le nostre anime esistono nel mondo di sotto?
 
 È vero.
 
@@ -746,23 +746,23 @@ E uno dei due processi o generazioni è visibile — poiché certamente l'atto d
 
 Certamente, disse.
 
-Quale sarà allora il risultato? Escluderemo il processo opposto? E supporremo che la natura cammini su una sola gamba? Non dobbiamo piuttosto assegnare alla morte un qualche corrispondente processo di generazione?
+Che cosa ne sarà allora? Escluderemo il processo opposto? E supporremo che la natura cammini su una gamba sola? Non dobbiamo piuttosto assegnare alla morte qualche corrispondente processo di generazione?
 
 Certamente, rispose.
 
-E che cos'è quel processo?
+E qual è quel processo?
 
-Ritorno alla vita.
+Il ritorno alla vita.
 
-E il ritorno alla vita, se una tale cosa vi sia, è la nascita dei morti nel mondo dei viventi?
+E il ritorno alla vita, se tale cosa esiste, è la nascita dei morti nel mondo dei viventi?
 
-È proprio vero.
+Proprio vero.
 
-Ecco allora una nuova via attraverso la quale giungiamo alla conclusione che i viventi provengono dai morti, così come i morti provengono dai viventi; e questo, se vero, fornisce una prova certissima che le anime dei morti esistono in qualche luogo dal quale esse ritornano di nuovo.
+Allora ecco una nuova via attraverso cui giungiamo alla conclusione che i viventi provengono dai morti, proprio come i morti provengono dai viventi; e questo, se è vero, fornisce una prova certissima che le anime dei morti esistono in qualche luogo dal quale tornano di nuovo.
 
-Sì, Socrate, disse; la conclusione sembra scaturire necessariamente dalle nostre precedenti ammissioni.
+Sì, Socrate, disse; la conclusione sembra derivare necessariamente dalle nostre precedenti ammissioni.
 
-E che queste ammissioni non fossero ingiuste, o Cebete, egli disse, può essere mostrato, credo, come segue: se la generazione procedesse solo in linea retta, e non vi fosse in natura compensazione o circolo, né volgersi o ritornare degli elementi nei loro opposti, allora tu sai che tutte le cose avrebbero alla fine la medesima forma e passerebbero nel medesimo stato, e non vi sarebbe più generazione di esse.
+E che queste ammissioni non fossero inique, Cebete, disse, può essere mostrato, credo, come segue: Se la generazione fosse solo in linea retta, e non vi fosse alcuna compensazione o circolo nella natura, alcun volgersi o ritorno degli elementi nei loro contrari, allora sai che tutte le cose alla fine avrebbero la stessa forma e passerebbero nello stesso stato, e non vi sarebbe più generazione di esse.
 
 <span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -894,127 +894,127 @@ True.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Cosa vuoi dire? disse.
+Che vuoi dire? disse.
 
-"Una cosa abbastanza semplice, che illustrerò con il caso del sonno," rispose. "Sai che se non ci fosse alternanza di sonno e veglia, la storia di Endimione addormentato alla fine non avrebbe alcun significato, perché anche tutte le altre cose sarebbero addormentate, ed egli non sarebbe distinguibile dal resto. Oppure, se ci fosse solo composizione e nessuna divisione delle sostanze, tornerebbe il caos di Anassagora. E allo stesso modo, mio caro Cebete, se tutte le cose che partecipano della vita morissero, e dopo morte rimanessero nella forma di morte e non tornassero a vivere, alla fine tutto morirebbe e nulla sarebbe vivo — quale altro esito potrebbe esserci? Poiché se i viventi nascono da altre cose, e anche queste muoiono, non dovranno forse tutte le cose essere alla fine inghiottite nella morte? (Ma confronta la Repubblica.)"
+Una cosa semplice abbastanza, che illustrerò con il caso del sonno, rispose. Sai che se non vi fosse alternanza di sonno e veglia, la storia di Endimione addormentato alla fine non avrebbe significato, perché tutte le altre cose sarebbero addormentate anch'esse, ed egli non sarebbe distinguibile dal resto. Oppure, se vi fosse soltanto composizione e nessuna divisione delle sostanze, allora tornerebbe il caos di Anassagora. E similmente, mio caro Cebete, se tutte le cose che partecipavano della vita morissero, e dopo morte rimanessero nella forma della morte e non tornassero più in vita, alla fine tutte morirebbero e nulla sarebbe vivo — quale altro risultato potrebbe esserci? Infatti, se i viventi nascono da altre cose, e anche queste muoiono, non dovranno forse tutte le cose alla fine essere inghiottite dalla morte? (Ma confronta Repubblica.)
 
-Non c'è scampo, Socrate, disse Cebete; e a me il tuo argomento sembra essere assolutamente vero.
+Non c'è via di scampo, [Socrates](/figures/socrates), disse Cebete; e a me il tuo argomento sembra assolutamente vero.
 
-Sì, disse Cebete, così è e così dev’essere, a mio parere; e non siamo stati illusi nel fare queste ammissioni; ma sono fiducioso che vi sia veramente un rivivere, e che i viventi nascano dai morti, e che le anime dei morti esistano, e che le anime buone abbiano una sorte migliore delle malvagie.
+Sì, disse, Cebete, è e deve essere così, a mio parere; e non siamo stati tratti in inganno facendo queste ammissioni; ma sono fiducioso che esista davvero una tale cosa come il rivivere, e che i viventi nascano dai morti, e che le anime dei morti siano in esistenza, e che le anime buone abbiano una sorte migliore di quelle malvagie.
 
-Cebete aggiunse: «La tua dottrina prediletta, Socrate, che la conoscenza non è che reminiscenza, se è vera, implica necessariamente anche un tempo precedente in cui abbiamo appreso ciò che ora ricordiamo. Ma ciò sarebbe impossibile se la nostra anima non fosse stata in qualche luogo prima di esistere in forma umana; ecco dunque un'altra prova dell'immortalità dell'anima.»
+Cebete aggiunse: La tua dottrina favorita, Socrate, che la conoscenza è semplicemente reminiscenza, se è vera, implica anche necessariamente un tempo precedente in cui abbiamo appreso ciò che ora ricordiamo. Ma questo sarebbe impossibile a meno che la nostra anima non fosse stata in qualche luogo prima di esistere in forma umana; ecco quindi un'altra prova dell'immortalità dell'anima.
 
-«Ma dimmi, Cebete», disse Simmia intervenendo, «quali argomenti si adducono a favore di questa dottrina della reminiscenza? Non sono molto sicuro, al momento, di ricordarli.»
+Ma dimmi, Cebete, disse Simmia, interrompendo, quali argomenti vengono addotti a favore di questa dottrina della reminiscenza. Non sono molto sicuro in questo momento di ricordarli.
 
-Un'ottima prova," disse Cebete, "è fornita dalle domande. Se si rivolge a una persona una domanda nel modo giusto, essa darà da sé una risposta vera; ma come potrebbe farlo, se non possedesse già conoscenza e retta ragione? E ciò si mostra chiaramente quando viene condotta a un diagramma o a qualcosa di simile. (Si confronti il Menone.)
+Una prova eccellente, disse Cebete, è fornita dalle domande. Se poni una domanda a una persona nel modo giusto, egli darà da sé una risposta vera, ma come potrebbe farlo se non vi fosse già in lui conoscenza e retta ragione? E questo è mostrato nel modo più chiaro quando lo si conduce a un diagramma o a qualsiasi cosa del genere. (Confronta Menone.)
 
-Ma se, disse Socrate, sei ancora incredulo, Simmia, ti chiederei se non potresti convenire con me quando guardi la questione in un altro modo; — voglio dire, se sei ancora incredulo sul fatto che la conoscenza sia reminiscenza.
+Ma se, disse Socrate, sei ancora incredulo, Simmia, ti chiederei se non potresti essere d'accordo con me quando guardi la questione in un altro modo; — voglio dire, se sei ancora incredulo riguardo al fatto che la conoscenza sia reminiscenza.
 
-Incredulo, non sono, disse Simmia; ma desidero che questa dottrina della reminiscenza mi sia richiamata alla memoria, e, da quanto ha detto Cebete, comincio a ricordare e a essere convinto; ma vorrei ancora sentire ciò che stavi per dire.
+Incredulo, non lo sono, disse Simmia; ma voglio che questa dottrina della reminiscenza sia portata alla mia stessa reminiscenza, e, da ciò che Cebete ha detto, comincio a ricordare e a essere convinto; ma mi piacerebbe ancora sentire ciò che stavi per dire.
 
-Questo è ciò che direi, rispose: — Dovremmo convenire, se non mi sbaglio, che ciò che un uomo ricorda deve averlo conosciuto in qualche tempo precedente.
+Questo è ciò che direi, rispose: — Dovremmo convenire, se non mi sbaglio, che ciò che un uomo ricorda, deve averlo conosciuto in qualche tempo precedente.
 
-Molto vero.
+Verissimo.
 
-E qual è la natura di questa conoscenza o reminiscenza? Intendo chiedere: se una persona, avendo visto o udito o in qualsiasi modo percepito qualcosa, conosce non solo quello, ma ha anche una concezione di qualcos'altro che è oggetto, non della medesima ma di qualche altra specie di conoscenza, non si può forse dire giustamente che ella ricorda ciò di cui ha la concezione?
+E qual è la natura di questa conoscenza o reminiscenza? Voglio chiedere: se una persona, avendo visto o udito o in qualsiasi modo percepito qualcosa, non conosce solo quello, ma ha anche una concezione di qualcos'altro che è oggetto, non della stessa ma di un altro tipo di conoscenza, non si può dire a buon diritto che ricordi ciò di cui ha la concezione?
 
-Cosa vuoi dire?
+Che cosa intendi?
 
 Intendo ciò che posso illustrare con il seguente esempio: — La conoscenza di una lira non è la stessa cosa della conoscenza di un uomo?
 
 Vero.
 
-Eppure qual è il sentimento degli amanti quando riconoscono una lira, o una veste, o qualsiasi altra cosa di cui l'amato era solito servirsi? Non si formano forse, dal conoscere la lira, un'immagine nell'occhio della mente del giovane a cui la lira appartiene? E questa è la reminiscenza. Similmente, chiunque veda Simmia può ricordare Cebete; e vi sono infiniti esempi della stessa cosa.
+E tuttavia, qual è il sentimento degli innamorati quando riconoscono una lira, o un vestito, o qualsiasi altra cosa che l'amato è stato nell'[habit](/concepts/custom) di usare? Non formano forse, dal conoscere la lira, nell'occhio della mente un'immagine del giovane a cui la lira appartiene? E questo è reminiscenza. In modo simile, chiunque veda Simmia può ricordare Cebete; e vi sono infiniti esempi della stessa cosa.
 
-"Interminabile, davvero," rispose Simmia.
+Infiniti, davvero, rispose Simmia.
 
-E il ricordare è il più delle volte un processo di recupero di ciò che è già stato dimenticato per via del tempo e della disattenzione.
-
-Molto vero, disse.
-
-Ebbene; e non potresti anche, vedendo il ritratto di un cavallo o di una lira, ricordare un uomo? e dal ritratto di Simmia, potresti essere condotto a ricordare Cebete?
-
-Vero.
-
-Oppure potresti anche essere condotto al ricordo di Simone stesso?
-
-Precisamente.
-
-E in tutti questi casi, la reminiscenza può derivare da cose simili o dissimili?
-
-Potrebbe essere.
-
-E quando il ricordo è derivato da cose simili, allora è certo che sorga un'altra considerazione, che è — se la somiglianza sia in qualche grado inferiore o no a ciò che si ricorda?
-
-"Molto vero," disse.
-
-E procederemo un passo oltre, e affermeremo che esiste una cosa come l'uguaglianza, non di un pezzo di legno o di pietra con un altro, ma che, al di là di questo, esiste un'uguaglianza assoluta? Diremo così?
-
-Dillo, sì, rispose Simmia, e giuralo, con tutta la fiducia della vita.
-
-E conosciamo noi la natura di questa essenza assoluta?
-
-Certamente, disse.
-
-E donde abbiamo tratto la nostra conoscenza? Non abbiamo forse veduto uguaglianze di cose materiali, come pezzi di legno e pietre, e da esse ricavato l'idea di un'uguaglianza che è diversa da esse? Poiché ammetterai che vi è una differenza. O guarda la cosa in un altro modo: — Gli stessi pezzi di legno o di pietra non appaiono talvolta uguali, e talvolta disuguali?
-
-Questo è certo.
-
-Ma gli eguali reali sono mai disuguali? o l'idea di uguaglianza è la stessa di quella di disuguaglianza?
-
-Impossibile, Socrate.
-
-Dunque questi (cosiddetti) eguali non sono la stessa cosa dell'idea di eguaglianza?
-
-Direi chiaramente di no, Socrate.
-
-Eppure da questi uguali, sebbene differenti dall'idea di uguaglianza, tu hai concepito e raggiunto quell'idea?
+E la reminiscenza è più comunemente un processo di recupero di ciò che è stato già dimenticato attraverso il tempo e la disattenzione.
 
 Verissimo, disse.
 
-Quali potrebbero essere simili, o dissimili da loro?
+Bene; e non puoi anche dal vedere l'immagine di un cavallo o di una lira ricordare un uomo? e dall'immagine di Simmia, puoi essere condotto a ricordare Cebete?
 
-Certo.
+Vero.
 
-Ma ciò non fa alcuna differenza; ogni volta che, vedendo una cosa, ne hai concepita un'altra, sia simile che dissimile, deve esserci stato di certo un atto di reminiscenza?
-
-Molto vero.
-
-Ma che diresti di porzioni uguali di legno e pietra, o di altri oggetti materiali uguali? E quale impressione producono? Sono essi uguali nello stesso senso in cui è uguale l'uguaglianza assoluta, o in una certa misura non raggiungono questa perfetta uguaglianza?
-
-Sì, disse, e in grandissima misura anche.
-
-E non dobbiamo ammettere che, quando io o chiunque altro, guardando un qualunque oggetto, osserva che la cosa che vede aspira ad essere un’altra cosa, ma rimane al di sotto di quell’altra cosa, e non può esserla, ed è inferiore, colui che fa tale osservazione deve aver avuto una conoscenza precedente di ciò a cui l’altra, sebbene simile, era inferiore?
-
-Certainly, I’m ready. Please provide the English passage you’d like me to translate into Italian.
-
-E non è forse questo il nostro stesso caso riguardo agli uguali e all'uguaglianza assoluta?
+O puoi anche essere condotto al ricordo di Simmia stesso?
 
 Precisamente.
 
-Allora dobbiamo aver conosciuto l'uguaglianza prima del tempo in cui vedemmo per la prima volta gli uguali materiali, e riflettemmo che tutti questi uguali apparenti tendono a raggiungere l'uguaglianza assoluta, ma ne restano al di sotto?
+E in tutti questi casi, il ricordo può derivare da cose simili o dissimili?
 
-Molto vero.
+Può essere.
 
-E riconosciamo anche che questa eguaglianza assoluta è stata conosciuta, e può essere conosciuta, soltanto per mezzo della vista o del tatto, o di qualche altro dei sensi, i quali sono tutti uguali sotto questo aspetto?
+E quando il ricordo deriva da cose simili, allora è certo che sorge un'altra considerazione, cioè — se la somiglianza in qualche grado manchi o no di ciò che è ricordato?
 
-Sì, Socrate, per quanto riguarda il ragionamento, l'uno è lo stesso dell'altro.
+Verissimo, disse.
 
-Dai sensi, quindi, deriva la conoscenza che tutte le cose sensibili tendono a un'uguaglianza assoluta di cui restano al di sotto?
+E procederemo un passo oltre, e affermeremo che esiste una cosa come l'uguaglianza, non di un pezzo di legno o di pietra con un altro, ma che, al di sopra di questo, esiste un'uguaglianza assoluta? Lo diremo?
 
-Certo.
+Sì, lo diremo, rispose Simmia, e giurarlo, con tutta la fiducia della vita.
 
-Allora, prima che cominciassimo a vedere, a udire o a percepire in qualsiasi modo, dobbiamo aver avuto una conoscenza dell'uguaglianza assoluta, altrimenti non avremmo potuto riferire a quel criterio le cose uguali che derivano dai sensi? — poiché a quello tutte aspirano, e di quello tutte restano al di sotto.
+E conosciamo la natura di questa essenza assoluta?
 
-Nessun'altra inferenza può essere tratta dalle precedenti affermazioni.
+Certamente, disse.
 
-E non vedemmo e udimmo e avemmo l'uso degli altri sensi appena nati?
+E da dove ottenemmo la nostra conoscenza? Non vedemmo forse uguaglianze di cose materiali, come pezzi di legno e pietre, e da esse raccogliemmo l'idea di un'uguaglianza che è diversa da esse? Poiché ammetterai che vi è una differenza. Oppure guarda la questione in un altro modo: — Non appaiono gli stessi pezzi di legno o di pietra a volte uguali, e a volte disuguali?
 
-I notice you haven't included the English passage yet. Please send the text you'd like me to translate into Italian, and I'll proceed with the translation.
+È certo.
+
+Ma gli uguali reali sono mai disuguali? o l'idea di uguaglianza è la stessa di quella di disuguaglianza?
+
+Impossibile, Socrate.
+
+Allora questi (cosiddetti) uguali non sono la stessa cosa dell'idea di uguaglianza?
+
+Direi, chiaramente no, Socrate.
+
+E tuttavia da questi uguali, sebbene diversi dall'idea di uguaglianza, tu concepisti e raggiungesti quell'idea?
+
+Verissimo, disse.
+
+La quale poteva essere simile o dissimile da loro?
+
+Sì.
+
+Ma questo non fa differenza; ogni volta che dal vedere una cosa tu ne concepivi un'altra, simile o dissimile, vi deve certamente essere stato un atto di reminiscenza?
+
+Verissimo.
+
+Ma che diresti di porzioni uguali di legno e pietra, o di altri uguali materiali? e quale impressione producono? Sono uguali nello stesso senso in cui l'uguaglianza assoluta è uguale? o mancano di questa perfetta uguaglianza in una certa misura?
+
+Sì, disse, e in misura molto grande.
+
+E non dobbiamo forse ammettere che, quando io o chiunque, guardando qualsiasi oggetto, osserva che la cosa che vede mira a essere qualche altra cosa, ma manca di raggiungerla e non può essere quell'altra cosa, ma è inferiore, colui che fa questa osservazione deve aver avuto una conoscenza precedente di ciò a cui l'altra, sebbene simile, era inferiore?
+
+Certamente.
+
+E non è stato questo il nostro stesso caso riguardo agli uguali e all'uguaglianza assoluta?
+
+Precisamente.
+
+Allora dobbiamo aver conosciuto l'uguaglianza prima del tempo in cui vedemmo per la prima volta gli uguali materiali, e riflettemmo che tutti questi uguali apparenti si sforzano di raggiungere l'uguaglianza assoluta, ma ne mancano?
+
+Verissimo.
+
+E riconosciamo anche che questa uguaglianza assoluta è stata conosciuta, e può essere conosciuta, solo per mezzo della vista o del tatto, o di qualche altro dei sensi, che sono tutti simili in questo rispetto?
+
+Sì, Socrate, per quanto riguarda l'argomento, uno di essi è lo stesso dell'altro.
+
+Allora dai sensi è derivata la conoscenza che tutte le cose sensibili mirano a un'uguaglianza assoluta di cui mancano?
+
+Sì.
+
+Allora prima che cominciassimo a vedere o udire o percepire in qualsiasi modo, dobbiamo aver avuto una conoscenza dell'uguaglianza assoluta, altrimenti non avremmo potuto riferire a quello standard gli uguali che derivano dai sensi? — poiché a quello tutti aspirano, e di quello mancano.
+
+Nessun'altra conclusione può essere tratta dalle precedenti affermazioni.
+
+E non vedemmo e udimmo e avemmo l'uso dei nostri altri sensi appena fummo nati?
+
+Certamente.
 
 Allora dobbiamo aver acquisito la conoscenza dell'uguaglianza in qualche tempo precedente?
 
-Certo.
+Sì.
 
 Vale a dire, prima che nascessimo, suppongo?
 
@@ -1340,137 +1340,123 @@ That is very likely, Socrates.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Allora ora torniamo alla discussione precedente. Quell'idea o essenza, che nel processo dialettico definiamo come essenza o vera esistenza — sia l'essenza dell'uguaglianza, della bellezza, o di qualsiasi altra cosa — queste essenze, dico, sono soggette talvolta a un qualche grado di mutamento? o sono ciascuna di esse sempre ciò che sono, avendo le stesse semplici forme autoesistenti e immutabili, non ammettendo variazione alcuna, né in alcun modo, né in alcun tempo?
+Ora, dunque, torniamo alla discussione precedente. Quell’idea o essenza, che nel processo dialettico definiamo come essenza o vera esistenza — sia l’essenza dell’uguaglianza, della [bellezza](/concepts/beauty), o di qualsiasi altra cosa — sono queste essenze, dico, soggette talvolta a qualche grado di mutamento? O sono sempre ciò che sono, avendo le stesse forme semplici, autoesistenti e immutabili, non ammettendo affatto variazione, né in alcun modo, né in alcun tempo?
 
-Devono essere sempre le stesse, Socrate, rispose Cebes.
+Devono essere sempre le stesse, [Socrate](/figures/socrates), rispose Cebete.
 
-E che diresti delle molte cose belle — siano uomini o cavalli o vesti o qualsiasi altre cose che sono chiamate con gli stessi nomi e possono essere dette uguali o belle — sono tutte immutabili e sempre le stesse, o tutto il contrario? Non possono piuttosto essere descritte come quasi sempre mutevoli e quasi mai le stesse, né con sé stesse né le une con le altre?
+E che diresti delle molte cose belle — siano uomini o cavalli o vesti o qualsiasi altra cosa che è nominata con gli stessi [nomi](/positions/nominalism) e può essere chiamata uguale o bella — sono tutte immutabili e sempre le stesse, o piuttosto tutto il contrario? Non si potrebbero piuttosto descrivere come quasi sempre mutevoli e difficilmente mai le stesse, né con se stesse né le une con le altre?
 
-Questi ultimi, rispose Cebete, sono sempre in uno stato di mutamento.
+Il contrario, rispose Cebete; sono sempre in uno stato di mutamento.
 
-E queste puoi toccarle, vederle e percepirle con i sensi, ma le cose immutabili puoi percepirle soltanto con la mente — sono invisibili e non sono viste?
+E queste puoi toccarle, vederle e percepirle con i sensi, ma le cose immutabili puoi percepirle solo con la mente — sono invisibili e non si vedono?
 
-È molto vero, disse.
+È verissimo, disse.
 
-Ebbene, allora, aggiunse Socrate, supponiamo che vi siano due specie di esistenze — l'una visibile, l'altra invisibile.
+Orbene, aggiunse Socrate, supponiamo che vi siano due specie di esistenze — una visibile, l’altra invisibile.
 
-Supponiamoli.
+Supponiamole.
 
-Il visibile è il mutevole, e l'invisibile è l'immutabile?
+La visibile è la mutevole, e l’invisibile è l’immutabile?
 
-Ciò può essere altresì supposto.
+Anche questo si può supporre.
 
-E, inoltre, non è una parte di noi il corpo e un'altra l'anima?
+E inoltre, una parte di noi non è forse il corpo, e un’altra l’anima?
 
 Certamente.
 
 E a quale classe il corpo è più simile e affine?
 
-Chiaramente al veduto — nessuno può dubitarne.
+Chiaramente alla visibile — nessuno può dubitarne.
 
-E l'anima è vista o non è vista?
+E l’anima è vista o non vista?
 
-Non da un uomo, Socrate.
+Non dall’uomo, Socrate.
 
-E ciò che intendiamo per ‘visto’ e ‘non visto’ è ciò che è o non è visibile all’occhio dell’uomo?
+E ciò che intendiamo con ‘visto’ e ‘non visto’ è ciò che è o non è visibile all’occhio dell’uomo?
 
-Sì, all'occhio dell'uomo.
+Sì, all’occhio dell’uomo.
 
-E l'anima, si vede o non si vede?
+E l’anima è vista o non vista?
 
-Non visto. Il pensiero non è visto come si vede un oggetto: non è colto nello spazio tra le cose, non occupa un luogo tra gli altri luoghi. Eppure esso accade, e nel suo accadere disegna una geografia invisibile, una mappa che nessun occhio segue ma che ogni mente abita. Non è luce, né ombra; non è superficie, né profondità. E tuttavia, se un pensiero potesse essere notato, sarebbe come una piega dell'aria, un tremito che non lascia traccia se non nell'attimo stesso in cui si forma. Esso non si offre allo sguardo, ma si dona all'intelletto: e in questo dono risiede la sua evidenza, più silenziosa della visione, più intima della cosa vista. Così il pensiero resta nell'invisibile, non perché manchi di forma, ma perché la sua forma è un evento che accade solo nell'interiorità, lontano da ogni riflesso, da ogni eco, da ogni testimonianza esterna.
+Non vista.
 
-Non visto, allora?
+Invisibile, allora?
 
-Certo.
+Sì.
 
-Dunque l'anima è più simile all'invisibile, e il corpo al visibile?
+Allora l’anima è più simile all’invisibile, e il corpo al visibile?
 
-Ciò segue necessariamente, Socrate.
+Ne segue necessariamente, Socrate.
 
-E non dicevamo già da tempo che l'anima, quando si serve del corpo come strumento di percezione, cioè quando si serve della vista o dell'udito o di qualche altro senso (poiché percepire attraverso il corpo significa percepire attraverso i sensi) — non dicevamo che allora anche l'anima viene trascinata dal corpo nella regione del mutevole, e vaga e si confonde; il mondo le gira intorno, ed essa è come un ubriaco, quando tocca il mutevole?
+E non dicevamo poco fa che l’anima, quando usa il corpo come strumento di percezione, cioè quando usa il senso della vista o dell’udito o qualche altro senso (poiché il significato del percepire attraverso il corpo è percepire attraverso i sensi) — non dicevamo che anche l’anima allora è trascinata dal corpo nella regione del mutevole, e vaga e si confonde; il mondo le gira intorno, ed essa è come un ubriaco, quando tocca il mutamento?
 
 Verissimo.
 
-Ma quando, rientrando in sé stessa, riflette, allora passa nell'altro mondo, la regione della purezza, dell'eternità, dell'immortalità e dell'immutabilità, che le sono affini, e con esse vive sempre, quando è da sé stessa e non è trattenuta né ostacolata; allora cessa dalle sue vie erronee e, essendo in comunione con l'immutabile, è immutabile. E questo stato dell'anima è chiamato sapienza?
+Ma quando, rientrando in se stessa, riflette, allora passa nell’altro mondo, la regione della purezza, e dell’[eternità](/positions/eternity), e dell’immortalità, e dell’immutabilità, che sono sue parenti, e con esse vive sempre, quando è sola con sé e non è impedita o ostacolata; allora cessa dai suoi errori, ed essendo in comunione con l’immutabile diventa immutabile. E questo stato dell’anima è chiamato saggezza?
 
-È detto bene e veramente, Socrate," rispose.
+È detto bene e veramente, Socrate, rispose.
 
-E a quale classe l’anima è più simile e affine, per quanto si possa inferire da questo argomento, oltre che dal precedente?
+E a quale classe l’anima è più simile e affine, per quanto si possa dedurre da questo argomento, così come dal precedente?
 
-Penso, Socrate, che, secondo l'opinione di chiunque segua il ragionamento, l'anima sarà infinitamente più simile all'immutabile — anche la persona più stupida non lo negherà.
+Penso, Socrate, che, nell’opinione di chiunque segua il ragionamento, l’anima sarà infinitamente più simile all’immutabile — anche la persona più stupida non lo negherà.
 
 E il corpo è più simile al mutevole?
 
-Certo.
+Sì.
 
-Eppure, ancora una volta, considera la questione sotto un'altra luce: quando l'anima e il corpo sono uniti, allora la natura ordina all'anima di reggere e governare, e al corpo di obbedire e servire. Ora, quale di queste due funzioni è affine al divino? e quale al mortale? Non ti sembra che il divino sia ciò che per natura ordina e governa, e il mortale ciò che è soggetto e servitore?
+Eppure considera ancora una volta la questione sotto un’altra luce: Quando l’anima e il corpo sono uniti, allora la natura ordina all’anima di governare e comandare, e al corpo di obbedire e servire. Ora, quale di queste due funzioni è affine al divino? e quale al mortale? Non ti sembra che il divino sia ciò che naturalmente ordina e comanda, e il mortale ciò che è soggetto e servo?
 
 Vero.
 
-E a quale somiglia l'anima?
+E a quale assomiglia l’anima?
 
-L'anima somiglia al divino, e il corpo al mortale — non può esservi alcun dubbio, Socrate.
+L’anima assomiglia al divino, e il corpo al mortale — non vi può essere dubbio su questo, Socrate.
 
-Rifletti allora, Cebete: di tutto ciò che è stato detto non è questa la conclusione? — che l'anima è nella somiglianza stessa del divino, ed è immortale, e intellettuale, e uniforme, e indissolubile, e immutabile; e che il corpo è nella somiglianza stessa dell'umano, ed è mortale, e non intellettuale, e multiforme, e dissolubile, e mutevole. Può ciò essere negato, mio caro Cebete?
+Allora rifletti, Cebete: di tutto ciò che è stato detto, non è questa la conclusione? — che l’anima è proprio a somiglianza del divino, ed è immortale, intellettuale, uniforme, indissolubile e immutabile; e che il corpo è proprio a somiglianza dell’umano, ed è mortale, non intellettuale, multiforme, dissolubile e mutevole. Può questo, mio caro Cebete, essere negato?
 
 Non può.
 
-Ma se ciò è vero, non è forse il corpo soggetto a rapida dissoluzione? e non è l'anima quasi o del tutto indissolubile?
+Ma se questo è vero, allora il corpo non è forse soggetto a rapida dissoluzione? e l’anima non è forse quasi o del tutto indissolubile?
 
-I'll help translate your philosophical prose, but I notice the English passage you'd like translated wasn't included in your message. Could you please share the source text you'd like me to translate into Italian?
+Certamente.
 
-E osservi inoltre che, dopo che un uomo è morto, il corpo, o la parte visibile di lui, che giace nel mondo visibile, ed è chiamato cadavere, e che naturalmente si dissolverebbe e si decomporrebbe e si disperderebbe, non si dissolve né si decompone subito, ma può rimanere per qualche tempo, anzi anche per lungo tempo, se la costituzione è sana al momento della morte e la stagione dell'anno è favorevole? Infatti il corpo, quando è rimpicciolito e imbalsamato, come è costume in Egitto, può rimanere quasi intero per infinite età; e anche nella decomposizione, vi sono ancora alcune parti, come le ossa e i legamenti, che sono praticamente indistruttibili: — convieni?
+E osservi inoltre che, dopo che un uomo è morto, il corpo, o la parte visibile di lui, che giace nel mondo visibile, ed è chiamato cadavere, e che naturalmente si dissolverebbe, si decomporrebbe e si dissiperebbe, non si dissolve o decompone subito, ma può rimanere per qualche tempo, anzi anche per molto tempo, se la costituzione è sana al momento della morte, e la stagione dell’anno è favorevole? Infatti il corpo, quando è rimpicciolito e imbalsamato, come si usa in Egitto, può rimanere quasi intero per infinite età; e anche nella decomposizione, vi sono ancora alcune parti, come le ossa e i legamenti, che sono praticamente indistruttibili: — Sei d’accordo?
 
-I see you've responded "Yes," but you haven't provided the English passage you'd like me to translate into Italian. Please share the text you want translated, and I'll be happy to render it into Italian while preserving the author's register and structure.
+Sì.
 
-Ed è probabile che l’anima, che è invisibile, nel passare al luogo del vero Ade, che, come lei, è invisibile, e puro, e nobile, ed essendo in cammino verso il Dio buono e saggio, dove, se Dio vorrà, anche la mia anima sta per andare presto, — che l’anima, ripeto, se questa è la sua natura e la sua origine, sia spazzata via e distrutta immediatamente all’uscire dal corpo, come dicono i più? Questo non può essere, miei cari Simmia e Cebete. La verità è piuttosto che l’anima, pura al dipartire e che non trascina dietro di sé alcuna macchia corporea, non avendo mai volontariamente, durante la vita, avuto comunione col corpo, che essa evita sempre, essendosi raccolta in se stessa; — e facendo di tale astrazione il suo perpetuo studio — il che significa che è stata una vera discepola della filosofia; e quindi, di fatto, è stata sempre intenta alla pratica del morire? Infatti non è la filosofia la pratica della morte? —
+Ed è probabile che l’anima, che è invisibile, nel passare al luogo del vero Ade, che come lei è invisibile, puro e nobile, e nel suo cammino verso il Dio buono e saggio, dove, se Dio vorrà, anche la mia anima andrà presto, — che l’anima, ripeto, se questa è la sua natura e origine, venga spazzata via e distrutta immediatamente appena lascia il corpo, come dicono i molti? Questo non può mai essere, miei cari Simmia e Cebete. La verità piuttosto è che l’anima che è pura al momento della partenza e non trascina con sé alcuna macchia corporea, non avendo mai volontariamente durante la vita avuto rapporto con il corpo, che essa evita sempre, essendosi raccolta in se stessa; — e facendo di tale astrazione il suo perpetuo studio — il che significa che è stata una vera discepola della filosofia; e quindi in realtà è stata sempre impegnata nella pratica del morire? Infatti non è forse la filosofia la pratica della morte? — Certamente —
 
-Certamente —
+Quell’anima, dico, essa stessa invisibile, parte verso il mondo invisibile — verso il divino e immortale e razionale: giunta là, è sicura della beatitudine ed è liberata dall’errore e dalla follia degli uomini, dalle loro paure e dalle loro passioni selvagge e da tutti gli altri mali umani, e dimora per sempre, come si dice degli iniziati, in compagnia degli dèi (cfr. Apologia). Non è forse vero, Cebete?
 
-Quell’anima, dico, essa stessa invisibile, si diparte verso il mondo invisibile — verso il divino e immortale e razionale: giunta colà, è sicura di beatitudine ed è liberata dall’errore e dalla follia degli uomini, dai loro timori e dalle passioni selvagge e da tutti gli altri mali umani, e per sempre dimora, come si dice degli iniziati, in compagnia degli dèi (cfr. Apol.). Non è vero forse, Cebete?
+Sì, disse Cebete, senza alcun dubbio.
 
-Sì, disse Cebete, oltre ogni dubbio.
-
-Ma l'anima che è stata contaminata, ed è impura al momento della sua partenza, ed è sempre compagna e serva del corpo, ed è innamorata e affascinata dal corpo e dai desideri e piaceri del corpo, finché non sia indotta a credere che la verità esista solo in forma corporea, che un uomo possa toccare, vedere e gustare, e usare per i fini delle sue brame; — l'anima, dico, avvezza a odiare, temere e fuggire il principio intellettuale, che all'occhio corporeo è oscuro e invisibile, e può essere raggiunto solo con la filosofia; — supponi tu che una tale anima parta pura e non mescolata?
+Ma l’anima che è stata inquinata, ed è impura al momento della sua partenza, ed è compagna e serva del corpo sempre, ed è innamorata e affascinata dal corpo e dai desideri e piaceri del corpo, finché non è indotta a credere che la verità esista solo in una forma corporea, che un uomo può toccare, vedere e gustare, e usare per i fini delle sue brame, — l’anima, voglio dire, abituata a odiare, temere ed evitare il principio intellettuale, che all’occhio corporeo è oscuro e invisibile, e può essere raggiunto solo dalla filosofia; — supponi che una tale anima parta pura e senza mescolanza?
 
 Impossibile, rispose.
 
-Essa è avvinta dal corporeo, che la continua associazione e la costante cura del corpo hanno impresso nella sua natura.
+Essa è trattenuta saldamente dal corporeo, che la continua associazione e la costante cura del corpo hanno impresso nella sua natura.
 
 Verissimo.
 
-E questo elemento corporeo, amico mio, è pesante, gravoso e terreno, ed è quell'elemento della vista per cui un'anima è depressa e trascinata di nuovo giù nel mondo visibile, perché essa teme l'invisibile e il mondo di sotto — aggirandosi intorno a tombe e sepolcri, presso i quali, come ci raccontano, si vedono certe apparizioni fantastiche di anime che non sono partite pure, ma sono intrise di vista e perciò visibili.
+E questo elemento corporeo, amico mio, è pesante e gravoso e terreno, ed è quell’elemento visivo per cui un’anima è depressa e trascinata di nuovo nel mondo visibile, perché ha paura dell’invisibile e del mondo di sotto — aggirandosi intorno a tombe e sepolcri, vicino ai quali, come ci raccontano, si vedono certe apparizioni spettrali di anime che non sono partite pure, ma sono sazie di vista e perciò visibili.
 
-(Confronta Milton, Comus: —
+(Cfr. Milton, Comus: —
 
-‘Ma quando la lussuria,
+    ‘Ma quando la lussuria,
+    Con sguardi impudichi, gesti lascivi e discorsi osceni,
+    Ma soprattutto con l’atto di peccato licenzioso e sregolato,
+    Fa entrare la contaminazione nelle parti interne,
+    L’anima si rapprende per il contagio,
+    S’incarna, e s’imbestia, finché perde del tutto
+    La divina proprietà del suo primo essere.
+    Tali sono quelle dense e cupe ombre umide
+    Spesso viste negli ossari e nei sepolcri,
+    Che indugiano e siedono accanto a una tomba appena fatta,
+    Come riluttanti a lasciare il corpo che amarono,
+    E si legarono per la sensualità carnale
+    A uno stato degenerato e degradato.’)
 
-Con sguardi impuri, gesti sconvenienti e discorsi osceni,
-
-Ma soprattutto per il lascivo e smodato atto di peccato,
-
-Ammette la contaminazione nelle parti interiori.
-
-L'anima si rapprende per contagio.
-
-S'incorpora, e s'imbestia, finché ella affatto perda,
-
-La proprietà divina del suo primo essere.
-
-Tali sono quelle ombre dense e lugubri umide.
-
-Spesso veduto in volte ossuarie e sepolcri,
-
-Indugiando, e sedendo presso una tomba appena scavata,
-
-Come riluttante a lasciare il corpo che amava,
-
-E si legò per mezzo della sensualità carnale
-
-«A uno stato degenerato e degradato.»')
-
-È assai probabile, Socrate.
+È molto probabile, Socrate.
 
 <span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -2202,87 +2188,87 @@ Very true, he said.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Ancora, non saresti cauto nell'affermare che l'addizione di uno a uno, o la divisione dell'uno, sia la causa del due? E affermeresti a gran voce che non conosci alcun modo in cui una cosa venga all'esistenza se non per la partecipazione alla sua propria essenza; e di conseguenza, per quanto sai, l'unica causa del due è la partecipazione alla dualità — questo è il modo per fare due, e la partecipazione all'uno è il modo per fare uno. Diresti: lascerò da parte gli enigmi della divisione e dell'addizione — menti più sagge della mia potranno rispondervi; inesperto come sono, e pronto a spaventarmi, come dice il proverbio, della mia stessa ombra, non posso permettermi di abbandonare il terreno sicuro di un principio. E se qualcuno ti assalisse in quel punto, non gli daresti retta né gli risponderesti, finché non avessi visto se le conseguenze che ne seguono concordano tra loro o no; e quando ti si richiedesse inoltre di rendere ragione di questo principio, procederesti a supporre un principio più alto, e poi uno ancora più alto, finché non trovassi un luogo di riposo nel migliore dei principi superiori; ma non confonderesti il principio e le conseguenze nel tuo ragionamento, come fanno gli Eristici — almeno se volessi scoprire la vera realtà. Non che questa confusione abbia importanza per loro, che non si curano né pensano affatto alla cosa; poiché hanno la capacità di essere ben soddisfatti di sé stessi, per quanto grande possa essere il turbinio delle loro idee. Ma tu, se sei un filosofo, farai certamente come dico.
+Ancora, non saresti cauto nell'affermare che l'aggiunta di uno a uno, o la divisione dell'uno, è la causa del due? E dichiareresti a gran voce che non conosci alcun modo in cui qualcosa venga all'esistenza se non per partecipazione alla sua propria essenza, e di conseguenza, per quanto ne sai, l'unica causa del due è la partecipazione alla dualità — questo è il modo di fare il due, e la partecipazione all'uno è il modo di fare l'uno. Diresti: lascerò da parte gli enigmi della divisione e dell'addizione — teste più sagge della mia potranno rispondervi; inesperto come sono, e pronto a sussultare, come dice il proverbio, alla mia stessa ombra, non posso permettermi di abbandonare il terreno sicuro di un principio. E se qualcuno ti assalisse su quel punto, non gli daresti retta, né gli risponderesti, finché non avessi visto se le conseguenze che ne derivano concordano tra loro o no; e quando ti si chiedesse ulteriormente di dare una spiegazione di questo principio, procederesti ad assumere un principio più alto, e uno più alto ancora, finché non trovassi un punto di riposo nel più alto dei principi; ma non confonderesti il principio e le conseguenze nel tuo ragionamento, come fanno gli Eristici — almeno se volessi scoprire l'esistenza reale. Non che questa confusione abbia importanza per loro, che non si curano né pensano affatto alla cosa, perché hanno l'accortezza di essere ben soddisfatti di sé stessi per quanto grande sia il tumulto delle loro idee. Ma tu, se sei un filosofo, certamente farai come dico.
 
-«Quello che dici è verissimo», dissero Simmia e Cebete, parlando entrambi insieme.
+Quel che dici è verissimo, dissero Simmia e Cebete, parlando entrambi insieme.
 
-ECHECRATE: Sì, Fedone; e non mi meraviglio del loro assentire. Chiunque abbia un minimo di intelligenza riconoscerà la meravigliosa chiarezza del ragionamento di Socrate.
+ECECRATE: Sì, Fedone; e non mi meraviglio che essi assentano. Chiunque abbia un minimo di senso riconoscerà la meravigliosa chiarezza del ragionamento di [Socrates](/figures/socrates).
 
 FEDONE: Certamente, Echecrate; e tale era il sentimento di tutta la compagnia in quel momento.
 
-ECHECRATES: Sì, e altrettanto di noi stessi, che non eravamo della compagnia e ora ascoltiamo la tua esposizione. Ma che cosa seguì?
+ECECRATE: Sì, e ugualmente il nostro, che non eravamo della compagnia e ora ascoltiamo la tua narrazione. Ma che cosa seguì?
 
-FEDONE: Dopo che tutto ciò fu ammesso, e fu ammesso che le idee esistono, e che le altre cose partecipano di esse e traggono da esse i loro nomi, Socrate, se ben ricordo, disse: —
+FEDONE: Dopo che tutto questo fu ammesso, e che essi ebbero ammesso che le idee esistono, e che le altre cose partecipano di esse e traggono i loro [names](/positions/nominalism) da esse, Socrate, se ben ricordo, disse: —
 
-Questo è il vostro modo di parlare; eppure, quando dite che Simmia è più grande di Socrate e più piccolo di Fedone, non predicate forse di Simmia sia la grandezza sia la piccolezza?
+Questo è il vostro modo di parlare; eppure quando dite che Simmia è più grande di Socrate e più piccolo di Fedone, non predicate forse di Simmia sia la grandezza sia la piccolezza?
 
 Sì, lo faccio.
 
-Ma pure ammetti che Simmia non supera realmente Socrate, come le parole possono sembrare implicare, perché è Simmia, ma per la grandezza che ha; così come Simmia non supera Socrate perché è Simmia, né perché Socrate è Socrate, ma perché ha piccolezza rispetto alla grandezza di Simmia?
+Ma tuttavia ammetti che Simmia non supera realmente Socrate, come le parole potrebbero sembrare implicare, perché egli è Simmia, ma a causa della statura che possiede; così come Simmia non supera Socrate perché è Simmia, più di quanto Socrate non sia superato perché è Socrate, ma perché possiede piccolezza rispetto alla grandezza di Simmia?
 
 Vero.
 
-E se Fedone lo supera in grandezza, ciò non accade perché Fedone è Fedone, ma perché Fedone possiede grandezza relativamente a Simmia, che è comparativamente più piccolo?
+E se Fedone lo supera in statura, ciò non avviene perché Fedone è Fedone, ma perché Fedone ha grandezza relativamente a Simmia, che è comparativamente più piccolo?
 
 È vero.
 
-E quindi Simmia è detto grande, ed è anche detto piccolo, perché è in un mezzo tra i due, superando con la sua grandezza la piccolezza dell'uno, e lasciando che la grandezza dell'altro superi la sua piccolezza. Aggiunse, ridendo: parlo come un libro, ma credo che ciò che dico sia vero.
+E quindi Simmia è detto grande, ed è anche detto piccolo, perché si trova in una posizione intermedia tra i due, superando con la sua grandezza la piccolezza dell'uno, e permettendo che la grandezza dell'altro superi la sua piccolezza. Egli aggiunse ridendo: Parlo come un libro, ma credo che ciò che dico sia vero.
 
 Simmia assentì.
 
-Io parlo così perché voglio che tu convenga con me nel pensare, non solo che la grandezza assoluta non sarà mai grande e anche piccola, ma che la grandezza in noi o nel concreto non ammetterà mai il piccolo né ammetterà di essere superata: invece di ciò, accadrà una delle due cose, o il più grande fuggirà o si ritirerà dinanzi all'opposto, che è il più piccolo, o all'avvicinarsi del più piccolo sarà già cessato di esistere; ma non sarà, se permette o ammette la piccolezza, mutato da essa; così come io, avendo ricevuto e ammesso la piccolezza rispetto a Simmia, rimango proprio come ero, e sono la stessa piccola persona. E come l'idea della grandezza non può abbassarsi mai a essere o diventare piccola, similmente la piccolezza in noi non può essere o diventare grande; né alcun altro opposto che rimane lo stesso può mai essere o diventare il proprio opposto, ma o passa via o perisce nel mutamento.
+Parlo così perché voglio che tu sia d'accordo con me nel pensare, non solo che la grandezza assoluta non sarà mai grande e anche piccola, ma che la grandezza in noi o nel concreto non ammetterà mai il piccolo né ammetterà di essere superata: invece di questo, accadrà una di due cose, o il maggiore fuggirà o si ritirerà davanti all'opposto, che è il minore, oppure all'avvicinarsi del minore sarà già cessato di esistere; ma non accetterà, se permette o ammette la piccolezza, di essere cambiato da essa; così come io, avendo ricevuto e ammesso la piccolezza quando sono paragonato a Simmia, rimango proprio come ero, e sono la stessa piccola persona. E come l'idea di grandezza non può degnarsi mai di essere o diventare piccola, allo stesso modo la piccolezza in noi non può essere o diventare grande; né alcun altro opposto che rimane lo stesso può mai essere o diventare il proprio opposto, ma o scompare o perisce nel cambiamento.
 
-"Questo," rispose Cebete, "è proprio la mia opinione."
+Questo, rispose Cebete, è proprio il mio concetto.
 
-A queste parole uno della compagnia, sebbene non ricordi esattamente quale di loro, disse: In nome del cielo, non è questo il diretto contrario di ciò che fu ammesso prima — che dal maggiore venisse il minore e dal minore il maggiore, e che gli opposti fossero semplicemente generati dagli opposti; ma ora questo principio sembra essere del tutto negato.
+A questo punto uno della compagnia, benché non ricordi esattamente chi di loro, disse: In nome del cielo, non è questo il diretto contrario di ciò che fu ammesso prima — che dal maggiore veniva il minore e dal minore il maggiore, e che gli opposti erano semplicemente generati dagli opposti? Ma ora questo principio sembra essere del tutto negato.
 
-Socrate chinò il capo verso chi parlava e ascoltò. «Apprezzo il tuo coraggio», disse, «nel ricordarci questo. Ma non vedi che nei due casi vi è una differenza. Allora infatti parlavamo di opposti concreti, ora invece dell'opposto essenziale che, come si afferma, né in noi né in natura può mai essere in contrasto con se stesso: allora, amico mio, parlavamo di cose in cui gli opposti sono insiti e che da essi prendono nome, ora invece degli opposti che in esse sono insiti e che danno loro il nome; e questi opposti essenziali non ammetteranno mai, come sosteniamo, di generarsi l'uno dall'altro o l'uno nell'altro. Al tempo stesso, volgendosi a Cebete, disse: «Sei per caso turbato, Cebete, dall'obiezione del nostro amico?»
+Socrate inclinò il capo verso chi parlava e ascoltò. Ammiro il tuo coraggio, disse, nel ricordarci questo. Ma non osservi che c'è una differenza tra i due casi. Allora infatti parlavamo degli opposti nel concreto, e ora dell'opposto essenziale che, come si afferma, né in noi né in natura può mai essere in discordia con sé stesso: allora, amico mio, parlavamo delle cose in cui gli opposti sono inerenti e che da essi prendono il nome, ma ora parliamo degli opposti che sono inerenti in esse e che danno loro il nome; e questi opposti essenziali non ammetteranno mai, come sosteniamo, la generazione l'uno dall'altro o l'uno nell'altro. Allo stesso tempo, rivolgendosi a Cebete, disse: Sei forse turbato, Cebete, dall'obiezione del nostro amico?
 
-«No, non sento lo stesso», disse Cebes; «e tuttavia non posso negare di essere spesso turbato dalle obiezioni.»
+No, non mi sento così, disse Cebete; eppure non posso negare che sono spesso turbato dalle obiezioni.
 
-Allora siamo d'accordo, dopotutto, disse Socrate, che il contrario non sarà mai in nessun caso opposto a se stesso?
+Allora siamo d'accordo dopo tutto, disse Socrate, che l'opposto non sarà mai in alcun caso opposto a sé stesso?
 
-"A ciò siamo pienamente d'accordo," rispose.
+Su questo siamo del tutto d'accordo, rispose.
 
-Eppure ancora una volta lasciami chiederti di considerare la questione da un altro punto di vista, e vedere se sei d'accordo con me: — C'è una cosa che tu chiami calore, e un'altra cosa che tu chiami freddo?
+Eppure lasciami ancora una volta chiederti di considerare la questione da un altro punto di vista, e vedere se sei d'accordo con me: — C'è una cosa che chiami caldo, e un'altra cosa che chiami freddo?
 
-I notice you haven't provided the English passage to translate. Please share the text you'd like translated into Italian, and I'll be happy to help.
+Certamente.
 
-Ma sono le stesse del fuoco e della neve?
+Ma sono la stessa cosa del fuoco e della neve?
 
-Certamente no.
+Assolutamente no.
 
-Il calore è una cosa diversa dal fuoco, e il freddo non è la stessa cosa della neve?
+Il caldo è una cosa diversa dal fuoco, e il freddo non è lo stesso della neve?
 
-Certo.
+Sì.
 
-Eppure ammetterai senz'altro che, quando la neve, come si è detto prima, è sotto l'influenza del calore, essi non rimarranno neve e calore; ma all'avanzare del calore, la neve o si ritirerà o perirà?
+E tuttavia ammetterai certamente che, quando la neve, come si è detto prima, è sotto l'influenza del caldo, essi non rimarranno neve e caldo; ma all'avvicinarsi del caldo, la neve o si ritirerà o perirà?
 
 Verissimo, rispose.
 
-E anche il fuoco, all'avanzare del freddo, o si ritirerà o perirà; e quando il fuoco è sotto l'influenza del freddo, essi non rimarranno come prima, fuoco e freddo.
+E anche il fuoco all'avvicinarsi del freddo o si ritirerà o perirà; e quando il fuoco è sotto l'influenza del freddo, essi non rimarranno come prima, fuoco e freddo.
 
 È vero, disse.
 
-E in alcuni casi il nome dell'idea non è soltanto legato all'idea in una connessione eterna, ma anche qualsiasi altra cosa che, non essendo l'idea, esiste solo nella forma dell'idea, può rivendicarlo. Cercherò di renderlo più chiaro con un esempio: — Il numero dispari è sempre chiamato col nome di dispari?
+E in alcuni casi il nome dell'idea non è solo attribuito all'idea in una connessione eterna, ma qualsiasi altra cosa che, non essendo l'idea, esiste solo nella forma dell'idea, può anche rivendicarlo. Cercherò di renderlo più chiaro con un esempio: — Il numero dispari è sempre chiamato col nome di dispari?
 
-Molto vero.
+Verissimo.
 
-Ma è questa l'unica cosa che si chiama dispari? Non ci sono forse altre cose che hanno un nome proprio, eppure sono chiamate dispari, perché, pur non essendo identiche alla disparità, non sono mai senza disparità? — questo è ciò che intendo chiedere — se numeri come il tre non appartengano alla classe dei dispari. E vi sono molti altri esempi: non diresti, per esempio, che il tre può essere chiamato con il suo nome proprio, e anche chiamato dispari, il che non è la stessa cosa del tre? e questo può dirsi non solo del tre ma anche del cinque, e di ogni numero alterno — ciascuno di essi, senza essere disparità, è dispari, e allo stesso modo il due e il quattro, e l'altra serie dei numeri alterni, ha ogni numero pari, senza essere parità. Sei d'accordo?
+Ma è questa l'unica cosa che è chiamata dispari? Non ci sono altre cose che hanno il loro proprio nome, e tuttavia sono chiamate dispari, perché, sebbene non siano la stessa cosa della disparità, non sono mai senza disparità? — Questo è ciò che intendo chiedere — se numeri come il numero tre non siano della classe dei dispari. E ci sono molti altri esempi: non diresti, per esempio, che tre può essere chiamato col suo proprio nome, e anche chiamato dispari, che non è la stessa cosa di tre? E questo può dirsi non solo di tre ma anche di cinque, e di ogni numero alternato — ciascuno di essi senza essere disparità è dispari, e allo stesso modo due e quattro, e l'altra serie di numeri alternati, ogni numero è pari, senza essere parità. Sei d'accordo?
 
-Of course.
+Naturalmente.
 
-Ebbene, osserva ora il punto a cui tendo: — non solo gli opposti essenziali si escludono a vicenda, ma anche le cose concrete, le quali, pur non essendo in sé opposte, contengono opposti; queste, dico, respingono parimenti l'idea che è opposta a ciò che è in esse contenuto, e quando essa si avvicina, o periscono o si ritirano. Per esempio: il numero tre non subirà forse l'annientamento o qualsiasi altra cosa, piuttosto che essere convertito in un numero pari, pur rimanendo tre?
+Ora osserva il punto a cui mirò: — non solo gli opposti essenziali si escludono a vicenda, ma anche le cose concrete, che, sebbene non siano in sé opposte, contengono opposti; queste, dico, respingono ugualmente l'idea che è opposta a quella che è contenuta in esse, e quando essa si avvicina, o periscono o si ritirano. Per esempio; il numero tre sopporterà l'annientamento o qualsiasi cosa piuttosto che essere convertito in un numero pari, rimanendo tre?
 
 Verissimo, disse Cebete.
 
-E tuttavia, disse, il numero due non è certamente opposto al numero tre?
+Eppure, disse, il numero due non è certamente opposto al numero tre?
 
-Non è.
+Non lo è.
 
-Dunque non solo le idee opposte respingono il reciproco avvicinarsi, ma vi sono anche altre nature che respingono l'avvicinarsi degli opposti.
+Allora non solo le idee opposte respingono l'avanzare l'una dell'altra, ma ci sono anche altre nature che respingono l'avvicinarsi degli opposti.
 
-Molto vero, disse.
+Verissimo, disse.
 
 <span class="atom-split" data-atom="017" data-title="Parte 17" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -2419,6 +2405,142 @@ But I have nothing more to say, replied Simmias; nor can I see any reason for do
 Yes, Simmias, replied Socrates, that is well said: and I may add that first principles, even if they appear certain, should be carefully considered; and when they are satisfactorily ascertained, then, with a sort of hesitating confidence in human reason, you may, I think, follow the course of the argument; and if that be plain and clear, there will be no need for any further enquiry.
 
 Very true.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Supponiamo, disse, che ci sforziamo, se possibile, di determinare che cosa siano queste cose.
+
+Certamente.
+
+Non sono forse, Cebete, tali da costringere le cose di cui hanno possesso non solo ad assumere la loro propria forma, ma anche la forma di un qualche opposto?
+
+Che cosa vuoi dire?
+
+Intendo dire, come dicevo poco fa, e come sono certo che tu sappia, che quelle cose che sono possedute dal numero tre non devono essere soltanto tre di numero, ma anche dispari.
+
+Verissimo.
+
+E su questa disparità, della quale il numero tre porta l'impronta, l'idea opposta non s'intrometterà mai?
+
+No.
+
+E questa impronta fu data dal principio del dispari?
+
+Sì.
+
+E al dispari è opposto il pari?
+
+Vero.
+
+Allora l'idea del numero pari non giungerà mai al tre?
+
+No.
+
+Allora il tre non ha parte nel pari?
+
+Nessuna.
+
+Allora la triade, o numero tre, è impari?
+
+Verissimo.
+
+Per tornare allora alla mia distinzione tra nature che non sono opposte, eppure non ammettono gli opposti — come, nell'esempio fatto, il tre, sebbene non sia opposto al pari, non per questo ammette il pari, ma mette sempre in gioco l'opposto dalla sua parte; o come il due non riceve il dispari, o il fuoco non riceve il freddo — da questi esempi (e ve ne sono molti altri) forse potrai giungere alla conclusione generale, che non solo gli opposti non riceveranno gli opposti, ma anche che nulla che porti l'opposto ammetterà l'opposto di ciò che porta, in ciò in cui è portato. E qui lasciami ricapitolare — poiché non c'è danno nel ripetere. Il numero cinque non ammetterà la natura del pari, così come il dieci, che è il doppio del cinque, non ammetterà la natura del dispari. Il doppio ha un altro opposto, e non è strettamente opposto al dispari, ma nondimeno respinge del tutto il dispari. Né ancora le parti in rapporto 3:2, né alcuna frazione in cui vi sia una metà, né ancora in cui vi sia un terzo, ammetteranno la nozione dell'intero, sebbene non siano opposte all'intero: sarai d'accordo?
+
+Sì, disse, concordo pienamente e ti seguo in questo.
+
+E ora, disse, ricominciamo; e non rispondere alla mia domanda con le parole stesse con cui te la pongo: non voglio la vecchia risposta sicura di cui parlavo all'inizio, ma un'altra ugualmente sicura, la cui verità dedurrai da ciò che è stato appena detto. Voglio dire che se qualcuno ti chiede 'che cos'è ciò la cui inerenza rende caldo il corpo', non risponderai 'il caldo' (questa è quella che chiamo la risposta sicura e stupida), ma 'il fuoco', una risposta di gran lunga superiore, che ora siamo in grado di dare. O se qualcuno ti chiede 'perché un corpo è malato', non dirai 'per la malattia', ma 'per la febbre'; e invece di dire che la disparità è causa dei numeri dispari, dirai che la monade è la loro causa: e così per le cose in generale, come oserei dire che comprenderai abbastanza senza che io adduca ulteriori esempi.
+
+Sì, disse, ti comprendo perfettamente.
+
+Dimmi, allora, che cos'è ciò la cui inerenza renderà vivo il corpo?
+
+L'anima, rispose.
+
+E questo è sempre il caso?
+
+Sì, disse, naturalmente.
+
+Allora qualunque cosa l'anima possieda, a essa giunge portando la vita?
+
+Sì, certamente.
+
+E c'è un opposto della vita?
+
+C'è, disse.
+
+E che cos'è?
+
+La morte.
+
+Allora l'anima, come è stato riconosciuto, non riceverà mai l'opposto di ciò che porta.
+
+Impossibile, rispose Cebete.
+
+E ora, disse, come abbiamo chiamato poc'anzi quel principio che respinge il pari?
+
+Il dispari.
+
+E quel principio che respinge il musicale, o il giusto?
+
+Il non musicale, disse, e l'ingiusto.
+
+E come chiamiamo il principio che non ammette la morte?
+
+L'immortale, disse.
+
+E l'anima ammette la morte?
+
+No.
+
+Allora l'anima è immortale?
+
+Sì, disse.
+
+E possiamo dire che questo è stato provato?
+
+Sì, abbondantemente provato, [Socrates](/figures/socrates), rispose.
+
+Supponendo che il dispari fosse imperituro, il tre non dovrebbe forse essere imperituro?
+
+Certamente.
+
+E se ciò che è freddo fosse imperituro, quando il principio caldo fosse venuto ad assalire la neve, la neve non si sarebbe forse ritirata intera e non sciolta — poiché non sarebbe mai potuta perire, né sarebbe potuta rimanere e ammettere il calore?
+
+Vero, disse.
+
+Ancora, se il principio non freddo, o caldo, fosse imperituro, il fuoco, assalito dal freddo, non sarebbe perito né si sarebbe spento, ma se ne sarebbe andato illeso?
+
+Certamente, disse.
+
+E lo stesso si può dire dell'immortale: se l'immortale è anche imperituro, l'anima, quando è assalita dalla morte, non può perire; poiché l'argomento precedente mostra che l'anima non ammetterà la morte, né sarà mai morta, così come il tre o il numero dispari non ammetteranno il pari, o il fuoco o il calore nel fuoco non ammetteranno il freddo. Eppure qualcuno potrebbe dire: 'Ma sebbene il dispari non diventi pari all'avvicinarsi del pari, perché il dispari non potrebbe perire e il pari prendere il posto del dispari?' Ora a chi fa questa obiezione, non possiamo rispondere che il principio del dispari è imperituro; poiché questo non è stato riconosciuto, ma se fosse stato riconosciuto, non ci sarebbe stata difficoltà a sostenere che all'avvicinarsi del pari il principio del dispari e il numero tre si sono allontanati; e lo stesso argomento sarebbe valso per il fuoco, il calore e qualsiasi altra cosa.
+
+Verissimo.
+
+E lo stesso si può dire dell'immortale: se l'immortale è anche imperituro, allora l'anima sarà imperitura oltre che immortale; ma se non lo è, bisognerà dare qualche altra prova della sua natura imperitura.
+
+Non occorre altra prova, disse; poiché se l'immortale, essendo eterno, è soggetto a perire, allora nulla è imperituro.
+
+Sì, rispose Socrate, eppure tutti gli uomini converranno che Dio, e la forma essenziale della vita, e l'immortale in generale, non periranno mai.
+
+Sì, tutti gli uomini, disse — questo è vero; e, inoltre, se non mi sbaglio, gli dèi oltre che gli uomini.
+
+Visto allora che l'immortale è indistruttibile, non deve forse l'anima, se è immortale, essere anche imperitura?
+
+Certamente.
+
+Allora quando la morte assale un uomo, la parte mortale di lui può supporsi che muoia, ma l'immortale si ritira all'avvicinarsi della morte e si conserva incolume?
+
+Vero.
+
+Allora, Cebete, senza dubbio, l'anima è immortale e imperitura, e le nostre anime esisteranno veramente in un altro mondo!
+
+Sono convinto, Socrate, disse Cebete, e non ho nulla da obiettare; ma se il mio amico Simmia, o qualcun altro, ha qualche altra obiezione da fare, farebbe meglio a parlare, e non tacere, poiché non so a quale altra occasione possa rimandare la discussione, se c'è qualcosa che vuole dire o che desidera venga detto.
+
+Ma io non ho altro da dire, rispose Simmia; né vedo alcuna ragione di dubitare dopo ciò che è stato detto. Tuttavia sento ancora, e non posso fare a meno di sentire, un'incertezza nella mia mente, quando penso alla grandezza dell'argomento e alla debolezza dell'uomo.
+
+Sì, Simmia, rispose Socrate, è ben detto: e posso aggiungere che i primi principi, anche se appaiono certi, dovrebbero essere considerati con cura; e quando siano stati accertati in modo soddisfacente, allora, con una sorta di esitante fiducia nella ragione umana, potrai, credo, seguire il corso dell'argomento; e se questo sarà chiaro e perspicuo, non ci sarà bisogno di ulteriori indagini.
+
+Verissimo.
 
 <span class="atom-split" data-atom="018" data-title="Parte 18" data-chapter="" data-kind="atom" data-srclang="en"></span>
 

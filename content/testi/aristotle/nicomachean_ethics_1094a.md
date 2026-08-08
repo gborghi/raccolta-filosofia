@@ -26523,6 +26523,128 @@ should allow somewhat on the score of previous Friendship, whenever the
 
 cause of severance is not excessive depravity on their part.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Si solleva altresì la questione circa l'opportunità di sciogliere o meno.
+
+Dissolvendo quelle Amicizie le parti delle quali non rimangono ciò che
+
+erano quando la connessione si formò.
+
+Ora certamente, riguardo a coloro il cui movente verso [Amicizia](/concepts/friendship) è [utilità](/positions/utility_pleasure) o
+
+piacere non ci può essere niente di male nel rompere la connessione quando
+
+non hanno più quelle qualità; perché erano amici [non di
+
+l'un l'altro, ma] di quelle qualità: e, essendo queste venute meno, è
+
+solo ragionevole aspettarsi che essi cessino di intrattenere il
+
+sentimento.
+
+Ma un uomo ha motivo di trovare da ridire se l'altra parte, essendo realmente
+
+attaccati a lui per interesse o piacere, fingevano di esserlo.
+
+a causa del suo carattere morale: infatti, come abbiamo detto al
+
+Inizio, la fonte più comune di litigi tra amici è
+
+il loro non essere amici per le stesse ragioni per cui si suppongono tali
+
+essere.
+
+Ora, quando un uomo è stato ingannato nell'aver supposto di eccitare
+
+il sentimento di Amicizia in ragione del suo carattere morale, l'altro
+
+parte non facendo nulla per indicare che non ha che sé stesso da incolpare: ma quando
+
+È stato ingannato dalla pretesa dell’altro alla quale ha diritto.
+
+trovare da ridire sull'uomo che lo ha così ingannato, anzi, ancora più di
+
+con gli spacciatori di moneta falsa, in proporzione alla maggiore preziosità
+
+di ciò che è l’oggetto della scelleratezza.
+
+Ma supponiamo che un uomo prenda un altro come uomo buono, il quale poi si rivela,
+
+e, essendo egli da lui trovato essere un furfante, è questi ancora tenuto a intratenerlo?
+
+Amicizia per lui? o non possiamo dire subito che è impossibile? poiché
+
+Non è tutto ciò che è l'oggetto dell'Amicizia, ma solo
+
+ciò che è buono; e quindi non vi è obbligo di essere di un uomo cattivo
+
+amico, né, in effetti, si dovrebbe esserlo: poiché non si dovrebbe essere un
+
+amante del male, né essere assimilato a ciò che è vile; il che sarebbe
+
+È implicito, perché abbiamo detto prima che il simile è amico del simile.
+
+Dobbiamo quindi rompere con lui all'istante? non in tutti i casi; solo dove
+
+i nostri amici sono irrimediabilmente depravati; quando c'è una [possibilità](/concepts/fortune) di emendamento
+
+Siamo tenuti ad aiutare a riparare il carattere morale dei nostri amici.
+
+anche più che la loro sostanza, in proporzione a quanto è migliore e più
+
+Strettamente affine all'Amicizia. Cionondimeno, colui che dovesse troncare il
+
+Il connesso non è da giudicarsi come colui che agisce male, poiché non è mai stato un
+
+amico di un tale carattere quale l'altro ora è, e quindi, poiché
+
+l'uomo è mutato e non può ridurlo al suo stato originario, egli
+
+si ritira dalla connessione.
+
+Per fare un altro caso: supponiamo che una parte rimanga ciò che era quando
+
+l'Amicizia fu formata, mentre l'altro diventa moralmente migliore e
+
+molto diverso dal suo amico in bontà; è il carattere migliorato.
+
+Trattare l’altro come un amico?
+
+Non possiamo forse dire che è impossibile? Il caso, naturalmente, è più chiaro dove
+
+Vi è una grande differenza, come nelle amicizie dei fanciulli: ché si supponga.
+
+quello di due amici fanciulleschi, l'uno continui ancora a essere un ragazzo nell'animo e
+
+l'altro diventa un uomo di altissimo carattere, come possono essere
+
+amici? poiché non provano piacere per gli stessi oggetti né amano
+
+e non amano le stesse cose: infatti questi punti non apparterranno loro.
+
+Per quanto riguarda l'un l'altro, e senza di essi si presumeva che non potessero essere.
+
+amici perché non possono vivere nell'intimità: e del caso di coloro
+
+Di coloro che non possono farlo abbiamo già parlato.
+
+Ebbene, il migliorato deve comportarsi verso il suo precedente?
+
+amico in nessun modo diversamente da quello che avrebbe fatto se il
+
+la connessione non è mai esistita?
+
+Certo, dovrebbe tenere a mente l’intimità dei tempi passati, e proprio come
+
+ci riteniamo obbligati a fare favori ai nostri amici in preferenza a
+
+Estranei siamo, così a coloro che sono stati amici e non lo sono più.
+
+dovrebbe concedere qualcosa in considerazione della precedente amicizia, ogni volta che il
+
+la causa della separazione non è un'eccessiva depravazione da parte loro.
+
 <span class="atom-split" data-atom="132" data-title="Chapter IV. (parte 10)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
 
 Now the friendly feelings which are exhibited towards our friends, and

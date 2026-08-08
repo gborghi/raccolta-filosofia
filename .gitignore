@@ -22,3 +22,11 @@ data/ortega_translate_cache.jsonl
 data/ortega_pending*.json
 data/ortega_batches*/
 data/ortega_corrupted.json
+
+# DS generico (Plato/Aristotle/...) + output rigenerabili del preprocess.
+data/ds_batches/
+data/ds_translate_cache_*.jsonl
+data/atom_search.json.gz
+run_logs/
+# Indice search TF-IDF: intermedio di build, rigenerabile, non pubblicato.
+data/search-full-index.json

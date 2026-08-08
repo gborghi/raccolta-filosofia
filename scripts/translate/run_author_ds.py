@@ -222,6 +222,8 @@ def _system_prompt(tgt_lang, src_lang, has_links):
         "Preserve the author's register: do not modernise, do not soften, "
         "do not explain. Add no notes, no preface, no commentary. "
         "Keep every sentence whole and return exactly ONE paragraph with no blank lines. "
+        "IMPORTANT: preserve the paragraph structure of the source. "
+        "Never merge two source paragraphs into one, never split one into two. "
         "Output ONLY the %s translation, nothing else."
     ) % (src_name, tgt_name, tgt_name)
     if has_links:

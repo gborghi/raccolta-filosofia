@@ -120,97 +120,97 @@ That is not easy to determine, I said; but if you will bring your love to me, an
 
 PERSONAGGI DEL DIALOGO:
 
-Socrate, che è il narratore, Menesseno, Ippotale, Liside, Ctesippo.
+[Socrate](/figures/socrates), che è il narratore, Menesseno, Ippotale, Liside, Ctesippo.
 
-SCENA: Una palestra appena eretta fuori dalle mura di Atene.
+SCENA: Una palestra di nuova costruzione fuori dalle mura di Atene.
 
-Me ne andavo direttamente dall'Accademia al Liceo, con l'intenzione di prendere la strada esterna, che corre proprio lungo le mura. Giunto alla porta secondaria della città, quella presso la fonte di Panope, incontrai Ippotale, figlio di Ieronimo, e Ctesippo del demo di Peania, insieme a un gruppo di giovani che stavano con loro. Ippotale, vedendomi avvicinare, mi chiese di dove venissi e dove fossi diretto.
+Me ne andavo dall'Accademia direttamente al [Liceo](/schools/lyceum), con l'intenzione di prendere la strada esterna, che corre proprio sotto le mura. Quando giunsi alla posterla della città, che è presso la fonte di Panops, mi imbattei in Ippotale, figlio di Ieronimo, e in Ctesippo del demo di Peania, e in una compagnia di giovani che stavano con loro. Ippotale, vedendomi avvicinare, mi chiese donde venissi e dove andassi.
 
 Vado, risposi, dall'Accademia direttamente al Liceo.
 
-Allora vieni direttamente da noi, disse, e attracca qui; tanto vale.
+Allora vieni dritto da noi, disse, ed entra qui; puoi ben farlo.
 
-Chi sei, dissi; e dove devo venire?
+Chi siete? dissi; e dove devo venire?
 
-Mi mostrò uno spazio chiuso e una porta aperta di contro al muro. E là, disse, è l'edificio nel quale tutti ci incontriamo: e buona compagnia siamo.
+Mi mostrò uno spazio recintato e una porta aperta di fronte al muro. E là, disse, è l'edificio in cui ci incontriamo tutti; e siamo una bella compagnia.
 
-E che edificio è questo, chiesi; e che sorta di intrattenimento offrite?
+E che edificio è questo? chiesi; e che tipo di svago avete?
 
-L'edificio, rispose, è una palestra di fresco eretta; e il trattenimento è generalmente conversazione, a cui siete i benvenuti.
+L'edificio, rispose, è una palestra di nuova costruzione; e lo svago è di solito la conversazione, alla quale sei il benvenuto.
 
-«Grazie», dissi; «e c'è qualche maestro lì?»
+Ti ringrazio, dissi; e c'è qualche maestro lì?
 
-Sì, disse, il tuo vecchio amico e ammiratore, Miccus.
+Sì, disse, il tuo vecchio amico e ammiratore, Micco.
 
-Infatti, risposi; è un professore molto eminente.
+Davvero, risposi; è un professore molto illustre.
 
-«Sei disposto», disse, «a venire con me a vederli?»
+Sei disposto, disse, a venire con me a vederli?
 
-Sì, dissi; ma vorrei sapere prima che cosa ci si aspetta da me, e chi è il favorito tra di voi?
+Sì, dissi; ma vorrei sapere prima che cosa ci si aspetta da me, e chi è il favorito tra voi?
 
-"Alcune persone hanno un preferito, Socrate, e altre un altro," disse.
+Alcuni hanno un favorito, Socrate, e altri un altro, disse.
 
-E chi è il tuo? chiesi: dimmi questo, Ippotale.
+E qual è il tuo? chiesi: dimmi questo, Ippotale.
 
-A questo egli arrossì; e io gli dissi: O Ippotale, figlio di Geronimo! non dire che sei, o che non sei, innamorato; la confessione è troppo tarda; poiché vedo che non solo sei innamorato, ma sei già molto innanzi nel tuo amore. Semplice e stolto come sono, gli dèi mi hanno dato il potere di comprendere affezioni di questo genere.
+Alla quale arrossì; e gli dissi: O Ippotale, figlio di Ieronimo! non dire che sei innamorato, né che non lo sei; la confessione è troppo tarda; perché vedo che non solo sei innamorato, ma sei già andato ben oltre nel tuo amore. Per quanto io sia semplice e sciocco, gli dèi mi hanno dato il potere di comprendere affezioni di questo genere.
 
-Al che egli arrossì sempre di più.
+Al che arrossì sempre più.
 
-Ctesippo disse: Mi piace vederti arrossire, Ippotale, e esitare a dire a Socrate il nome; quando, se egli fosse stato con te solo per brevissimo tempo, lo avresti tormentato a morte parlando d'altro non facevi. In verità, Socrate, egli letteralmente ci ha assordati, e ci ha tappato le orecchie con le lodi di Liside; e se è un po' ubriaco, c'è ogni probabilità che il nostro sonno venga assassinato da un grido di Liside. Le sue prose sono già abbastanza brutte, ma nulla in confronto ai suoi versi; e quando ci inonda con le sue poesie e altre composizioni, è davvero troppo; e peggio ancora è il suo modo di cantarle al suo amato; ha una voce davvero spaventosa, e non possiamo fare a meno di sentirlo: e ora, avendoti posto una domanda, ecco che arrossisce.
+Ctesippo disse: Mi piace vederti arrossire, Ippotale, ed esitare a dire a Socrate il nome; mentre, se egli fosse rimasto con te anche solo pochissimo tempo, lo avresti tormentato a morte parlando di null'altro. Davvero, Socrate, egli ci ha letteralmente assordati, e ci ha tappato le orecchie con le lodi di Liside; e se è un po' ubriaco, c'è ogni probabilità che il nostro sonno venga assassinato da un grido di Liside. Le sue esibizioni in prosa sono già abbastanza brutte, ma non sono nulla in confronto ai suoi versi; e quando ci inonda con le sue poesie e altre composizioni, è davvero troppo; e peggiore ancora è il suo modo di cantarle al suo amato; ha una voce davvero spaventosa, e non possiamo fare a meno di sentirlo: e ora, dopo che gli hai posto una domanda, eccolo che arrossisce.
 
-Chi è Liside? dissi: suppongo che debba essere giovane; poiché il nome non mi richiama nessuno.
+Chi è Liside? dissi: suppongo che debba essere giovane; perché il nome non mi richiama nessuno.
 
-"Ebbene," disse, "essendo suo padre un uomo molto noto, conserva il patronimico, e non è ancora comunemente chiamato col proprio nome; ma, sebbene tu non conosca il suo nome, sono certo che devi conoscere il suo volto, perché quello basta a distinguerlo."
+Certo, disse, essendo suo padre un uomo molto noto, egli conserva il patronimico, e non è ancora comunemente chiamato col suo proprio nome; ma, sebbene tu non conosca il suo nome, sono sicuro che devi conoscere il suo volto, perché quello è già abbastanza per distinguerlo.
 
-«Ma dimmi di chi è figlio», dissi.
+Ma dimmi di chi è figlio, dissi.
 
-Egli è il figlio primogenito di Democrate, del demo di Exone.
+È il figlio maggiore di Democrate, del demo di Aexone.
 
-Ah, Ippotale, dissi, che nobile e veramente perfetto amore hai trovato! Vorrei che tu mi favorissi dell'esibizione che hai fatto al resto della compagnia, e così potrò giudicare se sai ciò che un amante deve dire del suo amore, sia al giovane stesso, sia agli altri.
+Ah, Ippotale, dissi; che nobile e davvero perfetto amore hai trovato! Vorrei che tu mi favorissi con l'esibizione che hai fatto agli altri della compagnia, e allora potrò giudicare se sai ciò che un amante dovrebbe dire del suo amore, sia al giovane stesso, sia ad altri.
 
-Anzi, Socrate, disse; di certo non dai alcuna importanza a ciò che dice.
+No, Socrate, disse; tu certamente non dai alcuna importanza a ciò che egli dice.
 
-Intendi dire, dissi, che tu sconfessi l'amore della persona che egli dice che tu ami?
+Intendi dire, dissi, che sconfessi l'amore per la persona che egli dice che tu ami?
 
 No; ma nego di fare versi o di rivolgergli composizioni.
 
-Non è nel suo giusto senno, disse Ctesippo; sta dicendo sciocchezze, ed è completamente pazzo.
+Non è sano di mente, disse Ctesippo; dice sciocchezze, ed è completamente pazzo.
 
-"O Ippotale," dissi, "se hai mai composto versi o canti in onore del tuo amato, non voglio udirli; ma voglio conoscerne l'intento, così da poter giudicare il tuo modo di accostarti al tuo diletto."
+O Ippotale, dissi, se hai mai fatto versi o canti in onore del tuo favorito, non voglio sentirli; ma voglio conoscerne il contenuto, affinché io possa giudicare il tuo modo di avvicinare il tuo bello.
 
-Ctesippo potrà dirtelo, disse; poiché se, come egli sostiene, il suono delle mie parole gli rintrona sempre nelle orecchie, deve averne una conoscenza e un ricordo molto accurati.
+Ctesippo potrà dirtelo, disse; perché se, come egli afferma, il suono delle mie parole gli risuona sempre nelle orecchie, deve averne una conoscenza e una memoria molto accurate.
 
-Sì, davvero, disse Ctesippo; lo so fin troppo bene; ed è molto ridicolo il racconto: poiché, sebbene sia un amante, e molto devotamente innamorato, non ha nulla di particolare da dire al suo amato che un bambino non potrebbe dire. Non è forse ridicolo? Egli sa soltanto parlare della ricchezza di Democrate, che tutta la città celebra, e del nonno Liside, e degli altri antenati del giovane, e della loro scuderia di cavalli, e della loro vittoria ai giochi Pitici, e all'Istmo, e a Nemea, con la quadriga e col cavallo da sella — questi sono i racconti che egli compone e ripete. E c'è ancora una fandonia più grossa. Solo l'altro ieri ha composto un poema in cui descriveva l'ospitalità offerta a Eracle, che era un congiunto della famiglia, esponendo come, in virtù di questa parentela, fu accolto ospitalmente da un antenato di Liside; questo antenato era nato da Zeus e dalla figlia del fondatore del demo. E questi sono il genere di favole da vecchie comari che egli canta e recita a noi, e siamo costretti ad ascoltarlo.
+Sì, davvero, disse Ctesippo; lo so fin troppo bene; ed è molto ridicolo il racconto: perché sebbene sia un amante, e molto devotamente innamorato, non ha nulla di particolare da dire al suo amato che un bambino non saprebbe dire. Non è forse ridicolo? Egli sa parlare solo della ricchezza di Democrate, che tutta la città celebra, e del nonno Liside, e degli altri antenati del giovane, e della loro scuderia di cavalli, e della loro vittoria ai giochi pitici, e all'Istmo, e a Nemea, con quattro cavalli e con cavalli singoli — questi sono i racconti che compone e ripete. E c'è una stupidaggine ancora più grande. Solo l'altro ieri ha composto una poesia in cui descriveva il banchetto di Eracle, che era un parente della famiglia, esponendo come, in virtù di questa parentela, fu accolto ospitalmente da un antenato di Liside; questo antenato era stato generato da Zeus per mezzo della figlia del fondatore del demo. E queste sono le sorta di favole da vecchie che egli canta e recita a noi, e siamo obbligati ad ascoltarlo.
 
-Quando udii questo, dissi: O ridicolo Ippotale! come puoi comporre e cantare inni in onore di te stesso prima di aver vinto?
+Quando udii questo, dissi: O ridicolo Ippotale! come puoi fare e cantare inni in onore di te stesso prima di aver vinto?
 
 Ma i miei canti e i miei versi, disse, non sono in onore di me stesso, Socrate.
 
-Credi di no? dissi.
+Non credi? dissi.
 
-Anzi, ma tu che ne pensi? rispose lui.
+No, ma tu che cosa pensi? rispose.
 
-Certo, diss'io, questi canti sono tutti in tuo onore; poiché se vinci il tuo bello amore, i tuoi discorsi e i tuoi canti ti saranno di gloria, e potranno a buon diritto considerarsi inni composti in lode di te, che hai vinto e conquistato un tale amore; ma se egli ti sfugge, quanto più lo avrai lodato, tanto più ridicolo appariresti per aver perduto questo dono bellissimo ed eccellentissimo; e perciò il sapiente amatore non loda il suo diletto prima di averlo conquistato, perché teme gli accidenti. V'è anche un altro pericolo: i belli, quando alcuno li loda e li esalta, si riempiono di spirito d'orgoglio e di vanagloria. Non convieni tu meco?
+Certissimamente, dissi, quei canti sono tutti in tuo onore; perché se vinci il tuo bellissimo amore, i tuoi discorsi e i tuoi canti saranno una gloria per te, e potranno essere davvero considerati inni di lode composti in onore di te che hai conquistato e vinto un tale amore; ma se egli ti sfugge, quanto più lo avrai lodato, tanto più ridicolo sembrerai per aver perso questo bellissimo e ottimo dei beni; perciò il saggio amante non loda il suo amato finché non lo ha vinto, perché teme gli imprevisti. C'è anche un altro pericolo; i belli, quando qualcuno li loda o li esalta, si riempiono di spirito di orgoglio e vanagloria. Non sei d'accordo con me?
 
 Sì, disse.
 
-E quanto più sono vanagloriosi, tanto più difficile è la loro cattura?
+E quanto più sono vanagloriosi, tanto più difficile è catturarli?
 
 Ti credo.
 
-Che cosa dovresti dire di un cacciatore che ha spaventato la sua preda e ha reso più difficile la cattura degli animali che sta cacciando?
+Cosa diresti di un cacciatore che spaventasse la sua preda, e rendesse più difficile la cattura degli animali che sta cacciando?
 
 Sarebbe un cattivo cacciatore, senza dubbio.
 
-Sì; e se, invece di calmarli, egli li facesse infuriare con parole e canti, ciò mostrerebbe una grande mancanza d'ingegno: non sei d'accordo?
+Sì; e se, invece di calmarli, li facesse infuriare con parole e canti, ciò rivelerebbe una grande mancanza di ingegno: non sei d'accordo.
 
-Certo.
+Sì.
 
-E ora rifletti, Ippotale, e osserva se tu non sia colpevole di tutti questi errori nel comporre poesie. Poiché difficilmente posso supporre che affermerai che un uomo sia un buon poeta se reca danno a sé stesso con la propria poesia.
+E ora rifletti, Ippotale, e osserva se non sei colpevole di tutti questi errori nello scrivere poesia. Perché difficilmente suppongo che tu affermerai che un uomo è un buon poeta se danneggia se stesso con la sua poesia.
 
-Certamente no, disse; un tale poeta sarebbe uno stolto. Ed è per questo che ti rendo partecipe dei miei consigli, Socrate, e sarò lieto di qualsiasi ulteriore suggerimento tu possa offrirmi. Vorresti dirmi con quali parole o azioni io possa rendermi caro al mio amato?
+Certamente no, disse; un tale poeta sarebbe uno sciocco. E questa è la ragione per cui ti prendo come consigliere, Socrate, e sarò lieto di qualsiasi ulteriore consiglio tu possa offrire. Mi dirai con quali parole o azioni posso rendermi caro al mio amato?
 
-Non è facile determinarlo, dissi; ma se vorrai condurre da me il tuo amato e mi concederai di parlare con lui, forse potrò mostrarti come conversare con lui, invece di cantare e recitare nella maniera di cui sei accusato.
+Non è facile determinarlo, dissi; ma se vorrai condurre da me il tuo amato, e mi permetterai di parlare con lui, forse potrò mostrarti come conversare con lui, invece di cantare e recitare alla maniera di cui sei accusato.
 
 <span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 

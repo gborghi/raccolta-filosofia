@@ -6053,6 +6053,33 @@ We must now consider the irascible passions: (1) Hope and despair; (2) Fear and 
 (7) Concerning the order of hope to love;
 (8) Whether love conduces to action?
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il dolore sia il più grande male. Poiché “il peggiore è contrario al migliore” (Etica, viii, 10). Ma un certo piacere rappresenta il più grande bene, ovvero il piacere della beatitudine. Pertanto, anche un certo dolore deve essere considerato il più grande male.
+
+Obiezione 2: Inoltre, la felicità è il massimo bene dell’uomo, poiché rappresenta il suo fine ultimo. Ma la felicità umana consiste nel “poter avere tutto ciò che desidera e nel non volere nulla di errato”, come affermato sopra (Q[3], A[4], OBJ[5]; Q[5], A[8], OBJ[3]). Pertanto, il massimo bene dell’uomo risiede nell’appagamento della sua volontà. Ora, il dolore deriva da eventi che si svolgono contro la volontà umana, come dichiara [Agostino](/figures/augustine) (De Civ. Dei xiv, 6,15). Quindi, il dolore è il massimo male dell’uomo.
+
+Obiezione 3: Inoltre, Agostino argomenta così (Soliloquio i, 12): “Siamo composti da due parti, cioè da un’anima e da un corpo, di cui il corpo è la parte inferiore. Ora, il bene supremo è il più grande bene della parte migliore; mentre il male supremo è il più grande male della parte inferiore. Ma la saggezza è il più grande bene dell’anima; mentre il male peggiore nel corpo è il dolore. Pertanto, il più grande bene dell’uomo è essere saggio; mentre il suo più grande male è soffrire dolore.”
+
+Al contrario, il peccato è un male più grave della punizione, come affermato nell’FP, Q[48], A[6]. Tuttavia, il dolore o la sofferenza fanno parte della punizione del peccato, proprio come il godimento di cose effimere rappresenta un male legato al peccato stesso. Infatti Agostino dice (De Vera Relig. xii): “Che cos’è il dolore dell’anima, se non la privazione di ciò che essa era abituata a godere o sperava di godere? E questo è tutto ciò che viene definito male: cioè il peccato e la punizione del peccato.” Pertanto, il dolore o la sofferenza non rappresentano il male più grande per l’uomo.
+
+Rispondo che è impossibile che alcuna tristezza o dolore possa essere il più grande male dell’uomo. Infatti, ogni tristezza o dolore riguarda qualcosa che è veramente malvagio, oppure qualcosa che appare malvagio ma in realtà è buono. Ora, il dolore legato a ciò che è veramente malvagio non può essere considerato il più grande male: esiste infatti qualcosa di ancora peggiore, ovvero non riconoscere come malvagio ciò che lo è realmente, o non respingerlo affatto. Inoltre, il dolore legato a ciò che appare malvagio ma in realtà è buono non può essere considerato il più grande male, poiché sarebbe ancora peggiore essere completamente separati da ciò che è veramente buono. Pertanto, è impossibile che alcuna tristezza o dolore possa essere il più grande male dell’uomo.
+
+Risposta all’Obiezione 1: Piacere e dolore hanno due aspetti positivi in comune: ovvero, un giudizio corretto riguardo al bene e al male; e un ordine appropriato della volontà nel lodare il bene e rifiutare il male. È quindi evidente che nel dolore esista qualcosa di positivo, la eliminazione del quale renderebbe il dolore ancora peggiore; al contrario, non tutti i piaceri comportano elementi negativi, la rimozione dei quali migliorerebbe il piacere stesso. Pertanto, un piacere può rappresentare il bene più alto per l’uomo, nel modo sopra descritto (Q[34], A[3]); mentre il dolore non può essere considerato il male più grande per l’uomo.
+
+Risposta all’Obiezione 2: Il semplice fatto che la volontà si opponga al male è già di per sé un bene. Per questo motivo, il dolore o la sofferenza non possono essere considerati il male più grande; poiché contengono in sé anche elementi positivi.
+
+Risposta all’Obiezione 3: Ciò che danneggia la cosa migliore è peggiore di ciò che danneggia la cosa peggiore. Ora, una cosa viene definita “male” perché “danneggia”, come afferma Agostino (Enchiridion xii). Pertanto, ciò che rappresenta un male per l’anima è un male più grave di ciò che rappresenta un male per il corpo. Quindi questo argomento non dimostra nulla; inoltre, Agostino non lo considera proprio, ma lo cita come tratto da un altro autore, il [*Cornelio Celso*]. DEI PASSIONI IRASCIBILI, E PRIMA DI TUTTO, DELL’SPERANZA E DEL DISPERAZIO (OTTO ARTICOLI)  
+Ora dobbiamo considerare le passioni irascibili: (1) Speranza e disperazione; (2) Paura e coraggio; (3) [Rabbia](/concepts/anger). All’interno di questa prima categoria vi sono otto punti da esaminare:  
+(1) Se l’ speranza sia la stessa cosa desiderio o avidità;  
+(2) Se l’ speranza appartenga alla facoltà conoscitiva o a quella appetitiva;  
+(3) Se gli animali muti possano provare speranza;  
+(4) Se il disperazione sia l’opposto dell’ speranza;  
+(5) Se l’esperienza possa essere una causa di speranza;  
+(6) Se gli giovani e i bevitori abbondino in speranza;  
+(7) Qual è l’ordine tra speranza e amore;  
+(8) Se l’amore porti all’azione.
+
 <span class="atom-split" data-atom="107" data-title="Whether hope is the same as desire of cupidity?" data-chapter="Whether hope is the same as desire of cupidity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that hope is the same as desire or cupidity. Because hope is reckoned
@@ -6101,6 +6128,24 @@ not altogether accidental to the object of the appetitive power: because the app
 of movement; and nothing is moved to anything except under the aspect of being possible; for no
 one is moved to that which he reckons impossible to get. Consequently hope differs from despair
 according to the difference of possible and impossible.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la speranza sia la stessa cosa desiderio o avidità. Poiché la speranza è considerata una delle quattro passioni principali. Tuttavia, [Agostino](/figures/augustine), nell’elencare le quattro passioni principali, pone l’avidità al posto della speranza (De Civ. Dei xiv, 3,7). Pertanto, la speranza è la stessa cosa dell’avidità o del desiderio.
+
+Obiezione 2: Inoltre, le passioni differiscono in base ai loro oggetti. Ma l’oggetto della speranza è lo stesso di quello dell’avidità o del desiderio, ovvero il bene futuro. Pertanto, la speranza è identica all’avidità o al desiderio.
+
+Obiezione 3: Se si afferma che la speranza, oltre al desiderio, indica anche la possibilità di ottenere il bene futuro; al contrario, tutto ciò che è accidentale rispetto all’oggetto non costituisce una diversa specie di passione. Tuttavia, la possibilità di ottenimento è qualcosa di accidentale rispetto a un bene futuro, che è l’oggetto sia della cupidigia o del desiderio, sia della speranza. Pertanto, la speranza non differisce specificamente dal desiderio o dalla cupidigia.
+
+Al contrario, a diverse facoltà mentali appartengono diversi tipi di passioni. La speranza, infatti, rientra nella sfera della facoltà irascibile; mentre il desiderio o la cupidigia appartengono alla sfera della facoltà concupiscibile. Pertanto, la speranza si distingue specificamente dal desiderio o dalla cupidigia.
+
+Rispondo che il genere di una passione deriva dall’oggetto su cui si concentra. Ora, nell’oggetto della speranza, possiamo individuare quattro condizioni essenziali: in primo luogo, che si tratti di qualcosa di buono; infatti, la speranza riguarda esclusivamente il bene, e in questo senso differisce dalla paura, che riguarda il male. In secondo luogo, che ciò su cui si basa la speranza sia qualcosa di futuro; la speranza non riguarda ciò che è già presente e posseduto, e in questo aspetto si distingue dalla gioia, che riguarda un bene attuale. In terzo luogo, che tale oggetto della speranza sia qualcosa di arduo e difficile da ottenere; non parliamo infatti di persone che sperano in cose banali o facilmente accessibili in qualsiasi momento: in questo senso la speranza si differenzia dal desiderio o dalla cupidigia, che considerano il bene futuro in modo assoluto; per questa ragione, il desiderio appartiene alla facoltà concupiscibile, mentre la speranza appartiene alla facoltà irascibile. Infine, che ciò che costituisce l’oggetto della speranza sia qualcosa di effettivamente possibile da ottenere; non si spera infatti in ciò che è impossibile da raggiungere, e in questo senso la speranza si distingue dalla disperazione. È quindi evidente che la speranza differisce dal desiderio, così come le passioni irascibili differiscono da quelle concupiscibili. Per questa stessa ragione, inoltre, la speranza presuppone il desiderio: proprio come tutte le passioni irascibili presuppongono le passioni della facoltà concupiscibile, come già detto sopra (Q[25], A[1]).
+
+Risposta all’Obiezione 1: Agostino menziona il desiderio anziché la speranza, perché entrambi riguardano il bene futuro; inoltre, poiché il bene che non richiede sforzi viene considerato nullo, si deduce che il desiderio sembri tendere principalmente verso quel bene difficile da ottenere, verso cui anche la speranza è diretta.
+
+Risposta all’Obiezione 1: L’oggetto della speranza è il bene futuro considerato non in modo assoluto, ma come qualcosa di arduo e difficile da realizzare, come detto sopra.
+
+Risposta all’Obiezione 3: L’oggetto della speranza non aggiunge soltanto possibilità all’oggetto del desiderio, ma anche difficoltà; ed è proprio questo che rende la speranza appartenente a un’altra facoltà umana, ovvero quella irascibile, la quale considera qualcosa come difficile, come indicato nel FP, Q[81], A[2]. Inoltre, possibilità e impossibilità non sono affatto accidentali rispetto all’oggetto della facoltà appetitiva: poiché l’appetito è un principio di movimento, e nulla viene mosso verso qualcosa se non sotto l’aspetto della possibilità; infatti, nessuno si muove verso ciò che ritiene impossibile da ottenere. Di conseguenza, la speranza differisce dal dispero in base alla distinzione tra possibile e impossibile.
 
 <span class="atom-split" data-atom="108" data-title="Whether hope is in the apprehensive or in the appetitive power?" data-chapter="Whether hope is in the apprehensive or in the appetitive power?" data-kind="atom" data-srclang="en"></span>
 
@@ -6154,6 +6199,24 @@ also of the natural appetite; thus we say that a stone is certain to tend downwa
 the inerrancy which the movement of the sensitive or even natural appetite derives from the certainty
 of the knowledge that precedes it.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la speranza appartenga alla facoltà cognitiva. Infatti, la speranza è una sorta di attesa; l’Apostolo dice infatti (Romani 8:25): “Se speriamo in ciò che non vediamo, lo aspettiamo con pazienza”. Ma l’attesa sembra appartenere alla facoltà cognitiva, che esercitiamo attraverso il “guardare”. Pertanto, la speranza appartiene alla facoltà cognitiva.
+
+Obiezione 2: Inoltre, sembra che la speranza sia lo stesso che la fiducia; pertanto, quando un uomo spera, si dice che abbia fiducia, come se sperare e avere fiducia fossero la stessa cosa. Ma la fiducia, proprio come la fede, sembra appartenere alla facoltà cognitiva. Quindi anche la speranza appartiene alla facoltà cognitiva.
+
+Obiezione 3: Inoltre, la certezza è una proprietà del potere cognitivo. Ma la certezza viene attribuita anche alla speranza. Pertanto, la speranza appartiene al potere cognitivo.
+
+Al contrario, la Speranza considera il bene, come detto sopra (A[1]). Ora, il bene in sé non è l’oggetto della facoltà cognitiva, ma di quella appetitiva. Pertanto, la Speranza appartiene non alla facoltà cognitiva, ma a quella appetitiva.
+
+Rispondo che, poiché la speranza indica una certa tendenza dell’appetito verso il bene, essa appartiene evidentemente al potere appetitivo; poiché il movimento verso le cose rientra propriamente nell’ambito dell’appetito, mentre l’azione del potere cognitivo non avviene attraverso il movimento del conoscitore verso le cose, ma piuttosto in base alla presenza delle cose conosciute nel conoscitore stesso. Poiché il potere cognitivo influisce sull’appetito presentandogli il proprio oggetto, ne derivano nel appetito diversi movimenti, a seconda dei vari aspetti di quell’oggetto. L’intuizione del bene infatti provoca un certo tipo di movimento nell’appetito, mentre l’intuizione del male ne provoca un altro; allo stesso modo, diversi movimenti sorgono dall’intuizione di qualcosa che è presente o futuro, di qualcosa considerato assolutamente o come difficile da ottenere, di qualcosa che è possibile o impossibile. Pertanto, la speranza rappresenta un movimento del potere appetitivo che deriva dall’intuizione di un bene futuro, difficile ma possibile da realizzare; in altre parole, si tratta di una tendenza dell’appetito verso tale bene.
+
+Risposta all’Obiezione 1: Poiché la speranza riguarda un bene possibile, nell’uomo sorge una duplice dinamica di speranza; infatti, qualcosa può essere possibile per lui in due modi: sia con le proprie forze, sia con l’aiuto altrui. Pertanto, quando un uomo spera di ottenere qualcosa con le proprie forze, non si dice che lo aspetti, ma semplicemente che ne abbia speranza. Tuttavia, in senso stretto, si dice che attenda ciò che spera di ottenere con l’aiuto altrui, come se lo stesse aspettando attivamente, ossia tenendo d’occhio la persona o la cosa che può aiutarlo a raggiungere quel bene; secondo l’Ecclesiaste 51:10: “Ho cercato il soccorso degli uomini”. Per questo motivo, la dinamica della speranza viene talvolta definita “attesa”, in riferimento a questa attenta considerazione da parte della capacità cognitiva dell’uomo.
+
+Risposta all’Obiezione 2: Quando un uomo desidera qualcosa e ritiene di poterla ottenere, crede davvero di poterla ottenere, crede che la otterrà; ed è questa credenza, che precede nell’attività cognitiva, a determinare l’azione successiva dell’appetito, che viene chiamata “fiducia”. Poiché l’azione dell’appetito prende il proprio nome dalla conoscenza che la precede, come un effetto derivante da una causa più chiaramente conosciuta; infatti, la facoltà cognitiva conosce meglio il proprio operare di quanto non conosca l’operare dell’appetito stesso.
+
+Risposta all’Obiezione 3: La certezza viene attribuita non solo al movimento dei sensi, ma anche a quello dell’appetito naturale; per questo diciamo che una pietra tende inevitabilmente verso il basso. Ciò è dovuto all’inerrabilità del movimento dei sensi o addirittura dell’appetito naturale, derivante dalla certezza della conoscenza che lo precede.
+
 <span class="atom-split" data-atom="109" data-title="Whether hope is in dumb animals?" data-chapter="Whether hope is in dumb animals?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is no hope in dumb animals. Because hope is for some
@@ -6198,6 +6261,24 @@ Reply to Objection 3: Although the thing which is future does not come under the
 sight; nevertheless through seeing something present, an animal's appetite is moved to seek or avoid
 something future.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che negli animali muti non ci sia alcuna speranza. Poiché la speranza riguarda qualche bene futuro, come afferma Damasceno (De Fide Orthodossa ii, 12). Ma la conoscenza del futuro non rientra nelle capacità degli animali muti, la cui conoscenza è limitata ai sensi e non si estende al futuro. Pertanto, negli animali muti non c’è alcuna speranza.
+
+Obiezione 2: Inoltre, l’oggetto della speranza è un bene futuro, possibile da realizzare. Ma “possibile” e “impossibile” sono differenze tra il vero e il falso, che esistono soltanto nella mente, come afferma il Filosofo (Metafisica VI, 4). Pertanto, non vi è speranza negli animali muti, poiché essi non possiedono una mente.
+
+Obiezione 3: Inoltre, [Agostino](/figures/augustine) afferma (Genesi ad litteram IX, 14) che “gli animali sono mossi dalle cose che vedono”. Ma la speranza riguarda cose invisibili: “Dopotutto, per ciò che un uomo vede, perché dovrebbe sperare?” (Romani 8:24). Pertanto, negli animali muti non esiste speranza.
+
+Al contrario, la Speranza è una passione irascibile. Ma tale facoltà irascibile esiste anche negli animali privi di linguaggio. Pertanto, anche la Speranza appartiene a questa categoria.
+
+Rispondo che le passioni interne degli animali possono essere dedotte dai loro movimenti esterni; da ciò risulta chiaramente che anche gli animali muti provano speranza. Infatti, se un cane vede una lepre o un falco un uccello troppo lontano, non compie alcun movimento verso di esso, poiché non ha la speranza di catturarlo; mentre, se l’animale è vicino, si muove verso di esso, nella convinzione di poterlo catturare. Come già detto in precedenza (Q[1], A[2]; Q[26], A[1]; Q[35], A[1]), l’appetito sensibile degli animali muti, così come l’appetito naturale delle cose insensibili, derivano dall’intuizione dell’intelletto; allo stesso modo avviene per l’appetito della natura intellettiva, che viene chiamata volontà. Tuttavia esiste una differenza: la volontà è mossa dall’intuizione dell’intelletto presente nello stesso soggetto; mentre il movimento dell’appetito naturale deriva dall’intuizione di un Intelletto separato, che è l’Autore della natura; lo stesso vale per l’appetito sensibile degli animali muti, i quali agiscono guidati da un certo istinto naturale. Pertanto, nelle azioni degli animali irrazionali e di altre cose naturali, osserviamo un procedimento simile a quello che riscontriamo nelle azioni umane create dall’arte; ed è proprio in questo modo che gli animali muti provano speranza e disperazione.
+
+Risposta all’Obiezione 1: Sebbene gli animali privi di linguaggio non conoscano il futuro, essi sono comunque spinti dal proprio istinto naturale verso qualcosa che riguarda il futuro, come se potessero prevederlo. Questo istinto è infatti insito in loro grazie all’Intelligenza Divina, che prevede il futuro stesso.
+
+Risposta all’Obiezione 2: L’oggetto della speranza non è il possibile inteso come ciò che distingue il vero, poiché in questo caso il possibile deriva dalla relazione tra un predicato e un soggetto. L’oggetto della speranza è il possibile considerato in relazione a una determinata capacità o potenza umana. Questa è infatti la divisione del possibile che viene proposta nel “Metafisica”, V, 12, cioè nelle due categorie di cui abbiamo appena parlato.
+
+Risposta all’Obiezione 3: Sebbene ciò che è futuro non rientri nell’ambito dell’oggetto della vista, tuttavia, osservando qualcosa di presente, l’appetito di un animale viene stimolato a cercare o evitare qualcosa che sarà nel futuro.
+
 <span class="atom-split" data-atom="110" data-title="Whether despair is contrary to hope?" data-chapter="Whether despair is contrary to hope?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that despair is not contrary to hope. Because "to one thing there is
@@ -6240,6 +6321,24 @@ Reply to Objection 3: Despair implies not only privation of hope, but also a rec
 thing desired, by reason of its being esteemed impossible to get. Hence despair, like hope,
 presupposes desire; because we neither hope for nor despair of that which we do not desire to have.
 For this reason, too, each of them regards the good, which is the object of desire.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la disperazione non sia contraria alla speranza. Poiché “a ogni cosa corrisponde una contraria” (Metafisica, X, 5). Ma la paura è contraria alla speranza; pertanto, la disperazione non è contraria alla speranza.
+
+Obiezione 2: Inoltre, sembra che gli opposti riguardino la stessa cosa. Ma speranza e disperazione non riguardano la stessa cosa: poiché la speranza si riferisce al bene, mentre la disperazione sorge da qualche male che ostacola l’ottenimento del bene. Pertanto, la speranza non è contraria alla disperazione.
+
+Obiezione 3: Inoltre, il movimento è contrario a se stesso: mentre la quiete è in opposizione al movimento, essendo una sua privazione. Tuttavia, la disperazione sembra implicare immobilità piuttosto che movimento. Pertanto, non è contraria alla speranza, che implica un movimento verso il bene desiderato.
+
+Al contrario, il nome stesso di disperazione [desperatio] implica che sia opposto alla speranza [spes].
+
+Rispondo che, come già detto sopra (Q[23], A[2]), esistono due tipi diversi di contrarietà nei movimenti umani. Il primo riguarda l’avvicinamento a termini opposti; tale contrarietà si riscontra esclusivamente nelle passioni concupiscenti, ad esempio tra amore e odio. Il secondo tipo di contrarietà riguarda invece l’avvicinamento o il allontanamento da lo stesso termine opposto; questo si osserva nelle passioni irascibili, come indicato nella stessa fonte (Q[23], A[2]). L’oggetto della speranza, ovvero il bene difficile da ottenere, presenta caratteristiche di attrazione quando considerato come qualcosa che può essere raggiunto; per questo la speranza tende verso di esso, poiché rappresenta un movimento di avvicinamento. Tuttavia, se l’oggetto della speranza viene considerato irraggiungibile, assume caratteristiche di repulsione, poiché, come affermato nell’Etica iii, 3, “quando le persone si trovano di fronte a un’impossibilità, tendono ad allontanarsi da essa”. Ed è proprio in questo senso che il disperazione si contrappone alla speranza: il disperare implica infatti un movimento di allontanamento, e quindi è opposto all’avvicinamento rappresentato dalla speranza.
+
+Risposta all’Obiezione 1: La paura è contraria alla speranza, poiché i loro oggetti, cioè il bene e il male, sono opposti tra loro; tale opposizione si riscontra nelle passioni irascibili, che derivano dalle passioni concupiscibili. Tuttavia, la disperazione è contraria alla speranza soltanto per via dell’opposizione nei metodi o negli approcci adottati per raggiungere i propri obiettivi.
+
+Risposta all’Obiezione 2: Il disperazione non considera il male in sé; talvolta, tuttavia, lo considera in modo accidentale, come qualcosa che rende impossibile ottenere il bene, che altrimenti sarebbe possibile. Ma il disperazione può anche nascere semplicemente dall’eccesso di bene.
+
+Risposta all’Obiezione 3: La disperazione implica non solo la privazione della speranza, ma anche un ritiro da ciò che si desidera, poiché si ritiene impossibile ottenerlo. Pertanto, la disperazione, come la speranza, presuppone il desiderio; infatti, non speriamo né ci disperiamo per ciò che non desideriamo affatto avere. Per questo motivo, sia la speranza che la disperazione riguardano entrambe il bene, che è l’oggetto del desiderio.
 
 <span class="atom-split" data-atom="111" data-title="Whether experience is a cause of hope?" data-chapter="Whether experience is a cause of hope?" data-kind="atom" data-srclang="en"></span>
 
@@ -6290,6 +6389,24 @@ Reply to Objection 3: Folly and inexperience can be a cause of hope accidentally
 by removing the knowledge which would help one to judge truly a thing to be impossible. Wherefore
 inexperience is a cause of hope, for the same reason as experience causes lack of hope.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’esperienza non sia una causa di speranza. Poiché l’esperienza appartiene alla facoltà cognitiva, il Filosofo afferma (Etica ii, 1) che “la virtù intellettuale ha bisogno di esperienza e tempo”. Ma la speranza non risiede nella facoltà cognitiva, bensì nell’appetito, come già detto in precedenza (A[2]). Pertanto, l’esperienza non può essere considerata una causa di speranza.
+
+Obiezione 2: Inoltre, il Filosofo afferma (Rhetorica ii, 13) che “i vecchi sono lenti ad avere speranza, a causa della loro esperienza”; da ciò sembrerebbe che l’esperienza causi la mancanza di speranza. Tuttavia, lo stesso motivo non può produrre risultati opposti; pertanto, l’esperienza non è una causa di speranza.
+
+Obiezione 3: Inoltre, il Filosofo afferma (De Coel. ii, 5) che “avere qualcosa da dire su tutto, senza tralasciare nulla, a volte è un segno di follia”. Tuttavia, tentare di affrontare ogni cosa sembra indicare grandi speranze; mentre la follia deriva dall’inesperienza. Pertanto, l’inesperienza, piuttosto che l’esperienza, sembra essere la causa delle speranze.
+
+Al contrario, il Filosofo afferma (Etica, III, 8) che “alcuni sono pieni di speranza perché sono spesso riusciti a vincere contro molti avversari”; ciò sembra riguardare l’esperienza. Pertanto, l’esperienza è una causa di speranza.
+
+Rispondo che, come già detto sopra (A[1]), l’oggetto della speranza è un bene futuro, difficile ma possibile da ottenere. Pertanto, una cosa può essere causa di speranza sia perché rende qualcosa possibile per l’uomo, sia perché lo induce a ritenere qualcosa possibile. Nel primo caso, la speranza è suscitata da tutto ciò che aumenta le capacità dell’uomo: ricchezze, forza, esperienza, ad esempio; poiché attraverso l’esperienza l’uomo acquisisce la capacità di compiere qualcosa con facilità, e il risultato di ciò è proprio la speranza. Per questo motivo Vegetio afferma nel “De Re Militari” (I): “Nessuno teme di fare ciò di cui è certo di aver imparato bene”. Nel secondo caso, la speranza è suscitata da tutto ciò che induce l’uomo a ritenere possibile l’ottenimento di qualcosa; quindi sia l’insegnamento che la persuasione possono essere cause di speranza. Ancora una volta, l’esperienza è causa di speranza, nella misura in cui rende possibile ciò che prima sembrava impossibile; tuttavia, allo stesso modo, l’esperienza può anche generare disperazione, poiché fa considerare impossibile ciò che prima era ritenuto possibile. Pertanto, l’esperienza causa speranza in due modi e disperazione in uno: ed è proprio per questo motivo che si potrebbe dire che essa, in realtà, genera soprattutto speranza.
+
+Risposta all’Obiezione 1: L’esperienza in ambiti legati alle azioni non solo produce conoscenza, ma genera anche una certa [abitudine](/concepts/custom), dovuta alla consuetudine, che rende l’azione più facile da compiere. Inoltre, la stessa virtù intellettuale aumenta la capacità di agire con facilità: poiché dimostra che qualcosa è possibile, essa costituisce quindi una fonte di speranza.
+
+Risposta all’Obiezione 2: Gli anziani sono privi di speranza a causa della loro esperienza, poiché questa li spinge a ritenere alcune cose impossibili. Per questo motivo egli aggiunge (Retorica ii, 13) che “molti mali sono accaduti loro”.
+
+Risposta all’Obiezione 3: La follia e l’inesperienza possono, per così dire, essere causa di speranza, poiché eliminano quella conoscenza che permetterebbe di giudicare veramente qualcosa come impossibile. Pertanto, l’inesperienza è una causa di speranza, per lo stesso motivo per cui l’esperienza ne è una causa inversa.
+
 <span class="atom-split" data-atom="112" data-title="Whether hope abounds in young men and drunkards?" data-chapter="Whether hope abounds in young men and drunkards?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that youth and drunkenness are not causes of hope. Because hope
@@ -6331,6 +6448,22 @@ not their shortcomings.
 Reply to Objection 3: Not only experience, but also lack of experience, is, in some way, a
 cause of hope, as explained above (A[5], ad 3).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la giovinezza e l’ubriachezza non siano cause di speranza. Poiché la speranza implica certezza e stabilità; tanto è vero che viene paragonata a un’ancora (Ebrei 6:19). Ma i giovani e gli ubriaconi mancano di stabilità, poiché le loro menti cambiano facilmente. Pertanto, la giovinezza e l’ubriachezza non sono cause di speranza.
+
+Obiezione 2: Inoltre, come già detto sopra (A[5]), la causa della speranza è principalmente ciò che aumenta il potere di una persona. Tuttavia, la giovinezza e l’ubriachezza sono legate alla debolezza; pertanto non possono essere considerate cause di speranza.
+
+Obiezione 3: Inoltre, l’esperienza è una causa di speranza, come detto sopra (A[5]). Ma la giovinezza manca di esperienza. Pertanto, non può essere considerata una causa di speranza.
+
+Al contrario, il Filosofo afferma (Etica, III, 8) che “gli uomini ubriachi sono pieni di speranza”; e (Retorica, II, 12) che “i giovani sono colmi di speranza”.
+
+Rispondo che la gioventù è una fonte di speranza per tre motivi, come afferma il Filosofo nel Rhetorica ii, 12: questi tre motivi si possono ricavare dalle tre caratteristiche del bene, oggetto della speranza, ovvero che esso sia futuro, arduo e possibile, come già detto. La gioventù, infatti, ha molto del futuro davanti a sé e poco del passato; poiché la memoria riguarda il passato mentre la speranza è rivolta al futuro, i giovani hanno poco da ricordare e vivono principalmente nella speranza. Inoltre, per via della loro natura appassionata, i giovani sono pieni di energia e di entusiasmo; proprio per questo tendono verso ciò che è arduo, ed è per questa ragione che sono pieni di spirito e di speranza. Allo stesso modo, coloro che non hanno mai subito sconfitte né incontrato ostacoli nei loro sforzi tendono a ritenere qualcosa possibile; quindi, a causa della mancanza di esperienza con gli ostacoli e delle proprie debolezze, i giovani ritengono facilmente le cose possibili e, di conseguenza, sono pieni di speranza. Due di questi motivi si riscontrano anche nelle persone ubriache: l’energia e l’euforia derivanti dall’alcol, unite a una mancanza di attenzione verso i pericoli e le proprie debolezze. Per lo stesso motivo, tutte le persone sciocche e imprudenti tentano qualsiasi cosa e sono piene di speranza.
+
+Risposta all’Obiezione 1: Sebbene i giovani e gli uomini ubriachi manchino di stabilità nella realtà, tuttavia si considerano stabili, poiché pensano di riuscire a ottenere ciò che sperano. Allo stesso modo, per rispondere alla Seconda Obiezione, dobbiamo osservare che i giovani e gli uomini ubriachi sono effettivamente instabili nella realtà; ma, secondo la loro stessa valutazione di sé, ritengono di essere capaci di raggiungere i propri obiettivi, poiché non conoscono i propri difetti.
+
+Risposta all’Obiezione 3: Non solo l’esperienza, ma anche la mancanza di esperienza rappresentano, in qualche modo, una causa di speranza, come spiegato sopra (A[5], ad 3).
+
 <span class="atom-split" data-atom="113" data-title="Whether hope is a cause of love?" data-chapter="Whether hope is a cause of love?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that hope is not a cause of love. Because, according to [Augustine](/figures/augustine)
@@ -6360,6 +6493,18 @@ not hope in him, except accidentally, that is, in so far as we think that he ret
 the fact of being loved by another makes us hope in him; but our love for him is caused by the hope
 we have in him.
 Wherefore the Replies to the Objections are evident.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la speranza non sia una causa dell’amore. Infatti, secondo [Agostino](/figures/augustine) (De Civ. Dei xiv, 7,9), l’amore è la prima delle emozioni dell’anima. Ma la speranza è anch’essa un’emozione dell’anima. Pertanto, l’amore precede la speranza; di conseguenza, la speranza non può essere considerata una causa dell’amore.
+
+Obiezione 2: Inoltre, il desiderio precede la speranza. Ma il desiderio è causato dall’amore, come detto sopra (Q[25], A[2]). Pertanto anche la speranza deriva dall’amore e, di conseguenza, non ne è la causa.
+
+Obiezione 3: Inoltre, la speranza provoca piacere, come detto sopra (Q[32], A[3]). Ma il piacere riguarda soltanto ciò che è considerato buono e amato. Pertanto, l’amore precede la speranza.
+
+Al contrario, il commento che accompagna Matteo 1:2 (“Abramo generò Isacco, e Isacco generò Giacobbe”) afferma che “la fede genera la speranza, e la speranza genera la carità”. Ma la carità è amore; pertanto, l’amore è causato dalla speranza.
+
+Rispondo che la speranza può riguardare due aspetti: da un lato, essa ha come oggetto il bene che si desidera; dall’altro, poiché il bene che speriamo di ottenere è qualcosa di difficile ma possibile, e spesso ciò che sembra difficile diventa possibile grazie ad altri e non per nostre forze, la speranza include anche ciò che rende possibile tale realtà. Quindi, nella misura in cui la speranza riguarda il bene che desideriamo ottenere, essa è motivata dall’amore, poiché non speriamo se non in ciò che desideriamo e amiamo. Tuttavia, quando la speranza riguarda qualcuno attraverso il quale qualcosa diventa possibile per noi, allora è l’amore a essere motivato dalla speranza, e non viceversa: poiché proprio il fatto di sperare che quel bene ci venga concesso attraverso quella persona ci spinge verso di lei come verso un bene nostro, e così iniziamo ad amarla. Al contrario, dal semplice fatto di amare qualcuno non derivi necessariamente la speranza che egli ricambi il nostro amore, se non occasionalmente, cioè nel caso in cui riteniamo che lo faccia. Pertanto, essere amati da un altro ci spinge a sperare in lui; ma il nostro amore per lui è causato dalla speranza che abbiamo in lui stesso. Ecco quindi chiaramente risolte le obiezioni sollevate.
 
 <span class="atom-split" data-atom="114" data-title="Whether hope is a help or a hindrance to action?" data-chapter="Whether hope is a help or a hindrance to action?" data-kind="atom" data-srclang="en"></span>
 
@@ -6398,6 +6543,24 @@ Reply to Objection 3: Despair threatens danger in war, on account of a certain h
 attaches to it. For they who despair of flight, strive less to fly, but hope to avenge their death: and
 therefore in this hope they fight the more bravely, and consequently prove dangerous to the foe.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la speranza non sia un aiuto, ma un ostacolo all’azione. Poiché la speranza implica sicurezza, e la sicurezza genera negligenza, che a sua volta ostacola l’azione. Pertanto, la speranza rappresenta un ostacolo all’azione stessa.
+
+Obiezione 2: Inoltre, il dolore ostacola l’azione, come già detto sopra (Q[37], A[3]). Ma la speranza a volte causa dolore: infatti è scritto (Proverbi 13:12): “La speranza che si ritarda affligge l’anima”. Pertanto anche la speranza ostacola l’azione.
+
+Obiezione 3: Inoltre, la disperazione è contraria alla speranza, come già detto sopra (A[4]). Ma la disperazione, soprattutto in questioni di guerra, conduce all’azione; infatti è scritto (2 Re 2:26) che “è pericoloso spingere le persone nella disperazione”. Pertanto, la speranza ha un effetto opposto, ovvero ostacola l’azione.
+
+Al contrario, è scritto (1 Corinzi 9:10) che “colui che ara deve farlo con speranza, affinché possa raccogliere il frutto”; e lo stesso vale per tutte le altre azioni.
+
+Rispondo che, per sua stessa natura, la speranza è un aiuto all’azione, poiché ne intensifica lo slancio: e ciò per due motivi. Primo, a causa del suo oggetto, che è un bene difficile ma possibile. Il pensiero che tale obiettivo sia difficile attira la nostra attenzione; mentre il pensiero che sia possibile non ostacola affatto i nostri sforzi. Pertanto, grazie alla speranza, l’uomo si concentra con maggiore determinazione sul proprio agire. Secondo, a causa del suo effetto: poiché la speranza, come già detto (Q[32], A[3]), provoca piacere, e il piacere, come sottolineato in precedenza (Q[33], A[4]), è un aiuto all’azione. Quindi, la speranza è effettivamente favorevole all’azione stessa.
+
+Risposta all’Obiezione 1: La speranza riguarda un bene da ottenere; la sicurezza riguarda un male da evitare. Pertanto, la sicurezza sembrerebbe essere contraria alla paura piuttosto che far parte della speranza. Tuttavia, la sicurezza non genera negligenza, se non nella misura in cui riduce l’idea di difficoltà; e questo, a sua volta, attenua anche il carattere stesso della speranza: infatti, le cose per cui un uomo non teme ostacoli non vengono più considerate difficili.
+
+Risposta all’Obiezione 2: La speranza, in sé, provoca piacere; è solo per caso che può causare dolore, come già detto sopra (Q[32], A[3], ad 2).
+
+Risposta all’Obiezione 3: Il dispero rappresenta un pericolo in guerra, poiché è legato a una certa speranza. Coloro che perdono ogni speranza di fuggire si sforzano meno di scappare e invece sperano di vendicare la propria morte; per questo motivo combattono con maggiore coraggio e diventano quindi pericolosi per il nemico.
+
 <span class="atom-split" data-atom="115" data-title="OF FEAR, IN ITSELF (FOUR ARTICLES)" data-chapter="OF FEAR, IN ITSELF (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider, in the first place, fear; and, secondly, daring. With regard to fear, four
@@ -6407,6 +6570,14 @@ first head there are four points of inquiry:
 (2) Whether fear is a special passion?
 (3) Whether there is a natural fear?
 (4) Of the species of fear.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare, in primo luogo, la paura; e, in secondo luogo, il coraggio. Per quanto riguarda la paura, è necessario prendere in esame quattro aspetti: (1) La paura in sé; (2) Il suo oggetto; (3) La sua causa; (4) Il suo effetto. All’interno di questo primo ambito di analisi vi sono quattro punti da esaminare:  
+(1) Se la paura sia una passione dell’anima;  
+(2) Se la paura sia una passione specifica;  
+(3) Se esista una paura naturale;  
+(4) Le diverse tipologie di paura.
 
 <span class="atom-split" data-atom="116" data-title="Whether fear is a passion of the soul?" data-chapter="Whether fear is a passion of the soul?" data-kind="atom" data-srclang="en"></span>
 
@@ -6544,6 +6715,18 @@ evil; both of which are contrary to the inclination of nature. Wherefore such li
 way ascribed to inanimate beings.
 Thus the Replies to the Objections are evident.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra esistere una paura naturale. Infatti Damasceno afferma (De Fide Orthodossa iii, 23) che “esiste una paura naturale, dovuta al rifiuto dell’anima di essere separata dal corpo”.
+
+Obiezione 2: Inoltre, la paura deriva dall’amore, come è stato detto sopra (A[2], ad 1). Ma esiste un amore naturale, come afferma Dionigi (Div. Nom. iv). Pertanto, esiste anche una paura naturale.
+
+Obiezione 3: Inoltre, la paura è opposta alla speranza, come detto sopra (Q[40], A[4], ad 1). Ma esiste anche una speranza legata alle leggi naturali, come risulta evidente da Romani 4:18, dove si dice di Abramo che, “nonostante la speranza” derivante dalle leggi naturali, “credette nella speranza” della grazia divina. Pertanto, esiste anche una paura legata alle leggi naturali.
+
+Al contrario, ciò che è naturale è comune sia alle cose animate che a quelle inanimate. Tuttavia, la paura non esiste nelle cose inanimate; pertanto, non esiste una paura naturale.
+
+Rispondo che un movimento si dice naturale perché la natura lo incoraggia. Ciò avviene in due modi: innanzitutto, quando tale movimento viene compiuto interamente dalla natura, senza alcun intervento della facoltà intellettiva; ad esempio, il movimento verso l’alto è naturale per il fuoco, e la crescita è il movimento naturale di animali e piante. In secondo luogo, un movimento si dice naturale anche quando viene compiuto interamente dalla facoltà intellettiva, purché tale facoltà sia guidata da inclinazioni innate; poiché, come già detto (Q[10], A[1]), i movimenti delle facoltà cognitive e appetitive possono essere ricondotti alla natura come al loro principio originario. In questo senso, anche gli atti della facoltà intellettiva – come il comprendere, il sentire e il ricordare – nonché i movimenti dell’appetito animale, a volte vengono considerati naturali. In questo stesso senso possiamo dire che esiste una paura naturale; essa si distingue dalla paura non naturale per la diversità del suo oggetto. Come afferma il Filosofo (Rhet. ii, 5), esiste una paura del “male corrottivo”, da cui la natura si allontana in base al proprio desiderio innato di esistere; tale paura è quindi considerata naturale. Al contrario, esiste anche una paura del “male doloroso”, che non è contraria alla natura stessa, ma piuttosto al desiderio dell’appetito; pertanto tale paura non è naturale. In questo senso abbiamo già affermato (Q[26], A[1]; Q[30], A[3]; Q[31], A[7]) che amore, desiderio e piacere possono essere divisi in naturali e non naturali. Tuttavia, nel primo significato della parola “naturale”, dobbiamo osservare che alcune passioni dell’anima vengono talvolta considerate naturali – come amore, desiderio e speranza – mentre altre non possono essere definite tali. Il motivo è che sentimenti come amore e odio, desiderio e evitamento implicano un’innata tendenza a cercare il bene o a evitare il male; tale inclinazione esiste anche nell’appetito naturale. Pertanto, l’amore è considerato un sentimento naturale; mentre desiderio e speranza possono esistere anche in cose prive di conoscenza. D’altra parte, altre passioni dell’anima indicano movimenti per i quali l’inclinazione naturale non è sufficiente: ciò può essere dovuto al fatto che la percezione o la conoscenza siano essenziali per tali sentimenti (come abbiamo detto in Q[31], AA[1],3; Q[35], A[1]), quindi cose prive di conoscenza non possono provare piacere o dolore; oppure perché tali movimenti sono contrari alla natura stessa delle inclinazioni umane – ad esempio, il disperazione ci spinge a evitare il bene a causa di difficoltà insormontabili, e la paura ci fa allontanare dal male; entrambi questi sentimenti sono in contrasto con l’inclinazione naturale. Pertanto, passioni del genere non possono essere attribuite agli esseri inanimati. Ecco quindi chiari le risposte alle obiezioni sollevate.
+
 <span class="atom-split" data-atom="119" data-title="Whether the species of fear is suitably assigned?" data-chapter="Whether the species of fear is suitably assigned?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that six species of fear are unsuitably assigned by Damascene (De
@@ -6609,6 +6792,33 @@ which amazes him, fearing to fall short of the truth, but inquires afterwards: w
 overcome by stupor fears both to judge at present, and to inquire afterwards. Wherefore amazement
 is a beginning of philosophical research: whereas stupor is a hindrance thereto.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Damasceno assegni in modo inappropriato sei tipi di paura; nello specifico: “pigrizia, imbarazzo, vergogna, stupore e ansia”. Poiché, come afferma il Filosofo (Retorica ii, 5), “la paura riguarda un male doloroso”; pertanto i tipi di paura dovrebbero corrispondere ai tipi di dolore. Ora, come già detto sopra (Q[35], A[8]), esistono quattro tipi di dolore; quindi dovrebbero esserci soltanto quattro tipi di paura che ne corrispondano.
+
+Obiezione 2: Inoltre, ciò che consiste in un’azione nostra è sotto il nostro controllo. Ma la paura riguarda un male che va al di là delle nostre possibilità, come detto sopra (A[2]). Pertanto, la pigrizia, l’imbarazzo e la vergogna, che riguardano le nostre stesse azioni, non dovrebbero essere considerati tipi di paura.
+
+Obiezione 3: Inoltre, la paura riguarda il futuro, come detto sopra (AA[1], 2). Ma la “vergogna” riguarda un atto disonorevole già compiuto, come afferma Gregorio di Nissa in [*Nemesio, De Nat. Hom. xx.*]. Pertanto, la vergogna non è una specie di paura.
+
+Obiezione 4: Inoltre, la paura riguarda soltanto il male. Ma meraviglia e stupore si riferiscono a cose grandi e inaspettate, sia buone che cattive. Pertanto, meraviglia e stupore non sono tipi di paura.
+
+Obiezione 5: Inoltre, i filosofi sono stati spinti dalla meraviglia a cercare la verità, come si afferma all’inizio della “Metafisica”. Ma la paura induce alla fuga, non alla ricerca. Pertanto, la meraviglia non è una forma di paura.
+
+Al contrario, basta l’autorità di Damaseno e di Gregorio di Nissa (*Nemesio*) (cfr. OBJ 1,3).
+
+Rispondo che, come già detto sopra (A[2]), la paura riguarda un male futuro che supera le capacità di colui che la prova, rendendola quindi irresistibile. Ora, il male umano, così come il bene, può essere considerato sia nelle azioni dell’uomo stesso sia nelle cose esterne. Nelle azioni umane esistono due tipi di mali da temere: in primo luogo, lo sforzo eccessivo che opprime la natura umana; da ciò deriva il “lassismo”, quando una persona evita il lavoro per paura di un eccessivo impegno. In secondo luogo, la vergogna che danneggia la reputazione di una persona agli occhi degli altri; se questa vergogna riguarda un atto ancora da compiere, si parla di “imbarazzo”; se invece l’atto è già stato compiuto, si parla di “disgusto”.  
+Dall’altro lato, il male derivante dalle cose esterne può superare la capacità umana di resistenza in tre modi: innanzitutto per la sua entità; quando, cioè, una persona ritiene che un male grave possa avere conseguenze imprevedibili, e allora sorge lo “stupore”. In secondo luogo, per il suo carattere improvviso e inaspettato; quando un male insospettato si presenta davanti a noi, esso appare particolarmente terribile, e questo genera il “terrore”. Infine, per la sua imprevedibilità futura; le sfortune future suscitano appunto questa sorta di paura, che viene definita “angoscia”.
+
+Risposta all’Obiezione 1: Le suddette specie di dolore non derivano dalla diversità degli oggetti, ma dalla diversità degli effetti, e per motivi particolari. Pertanto, non è necessario che queste specie di dolore corrispondano a quelle specie di paura, le quali derivano invece dalla divisione stessa dell’oggetto della paura stesso.
+
+Risposta all’Obiezione 2: Un atto considerato effettivamente compiuto è sotto il controllo di colui che lo ha eseguito. Tuttavia, è possibile prendere in considerazione elementi collegati a quell’atto che trascendono le capacità del soggetto che l’ha compiuto; per questo motivo, quest’ultimo può rifiutarsi di agire. È in questo senso che la pigrizia, la vergogna e l’imbarazzo vengono considerati tipi di paura.
+
+Risposta all’Obiezione 3: L’atto compiuto in passato può costituire motivo di paura per eventuali rimproveri o disonori futuri; in questo senso, la vergogna rappresenta una forma di paura.
+
+Risposta all’Obiezione 4: Non ogni meraviglia e stupore sono forme di paura, ma soltanto quella meraviglia causata da un male grave, e quel stupore che deriva da un male inaspettato. In altre parole, proprio come la pigrizia si allontana dallo sforzo del lavoro esterno, così anche la meraviglia e lo stupore si allontanano dalla difficoltà di comprendere qualcosa di grande e inaspettato, sia esso bene che male; quindi meraviglia e stupore hanno una relazione con l’attività dell’intelletto, proprio come la pigrizia ha una relazione con il lavoro esterno.
+
+Risposta all’Obiezione 5: Chi è colpito dallo stupore esita inizialmente ad formulare un giudizio su ciò che lo ha sorpreso, temendo di non raggiungere la verità; successivamente, però, cerca di indagare. Al contrario, chi è sopraffatto dallo stupore teme sia di giudicare in quel momento sia di cercare una spiegazione in seguito. Pertanto, lo stupore rappresenta un ostacolo alla ricerca filosofica, mentre la sorpresa può essere l’inizio di essa.
+
 <span class="atom-split" data-atom="120" data-title="OF THE OBJECT OF FEAR (SIX ARTICLES)" data-chapter="OF THE OBJECT OF FEAR (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the object of fear: under which head there are six points of inquiry:
@@ -6618,6 +6828,16 @@ We must now consider the object of fear: under which head there are six points o
 (4) Whether fear itself can be feared?
 (5) Whether sudden things are especially feared?
 (6) Whether those things are more feared against which there is no remedy?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’oggetto della paura: in questa categoria esistono sei punti di indagine:
+(1) Se l’oggetto della paura sia il bene o il male.
+(2) Se l’oggetto della paura sia il male per sua natura.
+(3) Se il male derivante dal peccato sia un oggetto di paura.
+(4) Se la paura stessa possa essere temuta.
+(5) Se le cose impreviste siano particolarmente temute.
+(6) Se queste cose siano ancora più temute quando non esistono rimedi per evitarle.
 
 <span class="atom-split" data-atom="121" data-title="Whether the object of fear is good or evil?" data-chapter="Whether the object of fear is good or evil?" data-kind="atom" data-srclang="en"></span>
 
@@ -6707,6 +6927,27 @@ and yet the individual nature rebels against them as far as it can. Accordingly,
 of the individual nature arise pain and sorrow for such like evils, when present; fear when threatening
 in the future.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il male di natura non sia oggetto di paura. Infatti, il Filosofo afferma (Retorica ii, 5) che “la paura ci spinge a prendere decisioni”. Tuttavia, non prendiamo decisioni riguardo a cose che avvengono naturalmente, come si legge nell’Etica iii, 3. Pertanto, il male di natura non è oggetto di paura.
+
+Obiezione 2: Inoltre, difetti naturali come la morte e simili minacciano costantemente l’uomo. Se quindi tali mali fossero oggetto di paura, l’uomo sarebbe sempre in preda al terrore.
+
+Obiezione 3: Inoltre, la natura non tende verso il contrario. Ma il male che appartiene alla natura è pur sempre un effetto della stessa natura. Pertanto, se un uomo si allontana da simili mali per paura di essi, ciò non costituisce un effetto della natura. Quindi la paura naturale non dovrebbe riguardare il male insito nella natura; eppure sembrerebbe che dovesse farlo.
+
+Al contrario, il Filosofo afferma (Etica, III, 6) che “la cosa più terribile di tutte è la morte”, un male intrinseco alla natura umana.
+
+Rispondo che, come afferma il Filosofo (Retorica ii, 5), la paura è causata dall’“immaginazione di un male futuro che sia dannoso o doloroso”. Ora, proprio come un male doloroso è ciò che è contrario alla volontà, così un male dannoso è ciò che è contrario alla natura; e questo è il male intrinseco alla natura stessa. Pertanto, il male naturale può essere oggetto di paura.  
+Tuttavia, bisogna osservare che il male naturale a volte deriva da cause naturali; in tal caso viene definito “male naturale” non soltanto perché rappresenta una privazione del bene naturale, ma anche perché è un effetto diretto della stessa natura: ne sono esempi la morte naturale e altri difetti simili. Altre volte, invece, il male naturale ha cause non naturali; ad esempio, la morte violenta causata da un aggressore. In entrambi i casi, il male naturale suscita paura in misura diversa: poiché la paura deriva proprio dall’immaginazione di un male futuro, tutto ciò che elimina tale immaginazione elimina anche la paura stessa.  
+Può accadere che un male non appaia come imminente in due modi: primo, perché è lontano e distante; a causa della distanza, tale cosa viene considerata come se non dovesse mai verificarsi. Pertanto, o non la temiamo affatto, o la temiamo molto poco; come dice il Filosofo (Retorica ii, 5): “Non temiamo le cose che sono molto lontane; poiché tutti sanno di dover morire, ma poiché la morte non è imminente, non vi prestiamo attenzione”. In secondo luogo, un male futuro può essere considerato come se non dovesse mai verificarsi anche perché si ritiene inevitabile; in tal caso lo vediamo già come qualcosa che è accaduto. Per questo il Filosofo afferma (Retorica ii, 5) che “coloro che sono già sul patibolo non hanno paura”, poiché si trovano nel momento stesso di una morte dalla quale non c’è scampo; “ma affinché un uomo abbia paura, deve esserci almeno una speranza di poter sfuggire”.  
+In conclusione, il male naturale non viene temuto se non viene considerato come qualcosa che accadrà in futuro; ma se il male naturale, cioè quello dannoso, viene percepito come imminente, pur essendo possibile sfuggirvi, allora suscita paura.
+
+Risposta all’Obiezione 1: Il male insito nella natura a volte non è un effetto della stessa natura, come già detto sopra. Tuttavia, nella misura in cui tale male sia effettivamente un prodotto della natura, anche se possa essere impossibile evitarlo del tutto, è comunque possibile ritardarne l’insorgenza. Ed è con questa speranza che si può cercare di prendere misure per evitarlo.
+
+Risposta all’Obiezione 2: Sebbene il male di natura rappresenti sempre una minaccia, essa non è sempre imminente; pertanto, non viene sempre temuto.
+
+Risposta all’Obiezione 3: La morte e altri difetti della natura sono effetti della natura comune; eppure la natura individuale si ribella contro di essi nel limite delle sue possibilità. Pertanto, dall’inclinazione della natura individuale derivano dolore e sofferenza di fronte a tali mali, quando sono presenti; paura, invece, quando questi minacciano in futuro.
+
 <span class="atom-split" data-atom="123" data-title="Whether the evil of sin is an object of fear?" data-chapter="Whether the evil of sin is an object of fear?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the evil of sin can be an object of fear. For [Augustine](/figures/augustine) says on
@@ -6761,6 +7002,29 @@ both from an intrinsic and from an extrinsic cause.
 Reply to Objection 4: As stated above (Q[41], A[4], ad 2,3), shame is not fear of the very act
 of sin, but of the disgrace or ignominy which arises therefrom, and which is due to an extrinsic
 cause.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il male del peccato possa essere oggetto di paura. Infatti, [Agostino](/figures/augustine) afferma nell’Epistola canonica di Giovanni (Trattato IX) che “con una paura casta l’uomo teme di essere separato da Dio”. Ora, nulla altro che il peccato ci separa da Dio; secondo Isaia 59:2: “Le vostre iniquità hanno creato distacco tra voi e il vostro Dio”. Pertanto, il male del peccato può essere oggetto di paura.
+
+Obiezione 2: Inoltre, [Cicerone](/figures/cicero) afferma (Quaest. Tusc. iv, 4,6) che “temiamo quelle cose che ci causano dolore quando sono ancora future”. Ma è possibile provare dolore o tristezza a causa del male del peccato; pertanto, si può anche temere il male del peccato.
+
+Obiezione 3: Inoltre, la speranza è contraria alla paura. Tuttavia, il bene della virtù può essere oggetto di speranza, come afferma il Filosofo (Etica, IX, 4); e l’Apostolo dice (Galati 5:10): “Ho fiducia in voi nel Signore, che non cambierete idea”. Pertanto, la paura può riguardare il male del peccato.
+
+Obiezione 4: Inoltre, la vergogna è un tipo di paura, come già detto sopra (Q[41], A[4]). Ma la vergogna riguarda un atto disonorevole, che rappresenta un male, un peccato. Pertanto, anche la paura funziona allo stesso modo.
+
+Al contrario, il Filosofo afferma (Retorica ii, 5) che “non tutti i mali suscitano paura; ad esempio, non si teme che qualcuno sia ingiusto o lento”.
+
+Rispondo che, come già detto sopra (Q[40], A[1]; Q[41], A[2]), poiché l’oggetto della speranza è un bene futuro difficile ma possibile da ottenere, così l’oggetto della paura è un male futuro arduo e non facilmente evitabile. Da ciò possiamo concludere che tutto ciò che è interamente soggetto al nostro potere e alla nostra volontà non costituisce oggetto di paura; e che nulla suscita paura se non ciò che deriva da cause esterne. Ora, la volontà umana è la causa effettiva del male del peccato; pertanto, il male del peccato, in senso proprio, non è oggetto di paura.  
+Tuttavia, poiché la volontà umana può essere incline al peccato a causa di cause esterne, se tali cause esercitano una forte influenza, allora un uomo può temere il male del peccato nella misura in cui esso deriva da quelle cause esterne; ad esempio, quando teme di trovarsi in compagnia di persone malvagie per non essere indotto al peccato. Ma, in senso proprio, un uomo così predisposto teme piuttosto di essere traviato che il peccato considerato nella sua natura essenziale, cioè come atto volontario; poiché, visto in questo modo, il peccato non costituisce oggetto di paura per lui.
+
+Risposta all’Obiezione 1: La separazione da Dio è una punizione derivante dal peccato; e ogni punizione, in qualche modo, è dovuta a una causa esterna.
+
+Risposta all’Obiezione 2: Dolore e paura concordano su un punto, poiché entrambi riguardano il male; tuttavia differiscono in due aspetti. Primo, perché il dolore riguarda il male presente, mentre la paura riguarda il male futuro. Secondo, perché il dolore, essendo legato alla facoltà concupiscibile, considera il male in modo assoluto; perciò può riguardare qualsiasi tipo di male, grande o piccolo; mentre la paura, essendo legata alla facoltà irascibile, considera il male aggiungendovi un certo grado di difficoltà o arduità; tale difficoltà scompare non appena una cosa è soggetta alla volontà umana. Di conseguenza, non tutte le cose che ci causano dolore quando sono presenti ci fanno temere che possano accadere in futuro, ma solo alcune di esse, cioè quelle che presentano un certo grado di difficoltà.
+
+Risposta all’Obiezione 3: La speranza riguarda un bene che è ottenibile. Ora, si può ottenere un bene sia da sé stessi che attraverso altri; pertanto, la speranza può riguardare un atto di virtù che rientra nelle nostre possibilità. D’altra parte, la paura riguarda un male che non è sotto il nostro controllo; quindi, il male temuto deriva sempre da cause esterne, mentre il bene per cui si spera può derivare sia da cause interne che esterne.
+
+Risposta all’Obiezione 4: Come già detto sopra (Q[41], A[4], ad 2,3), la vergogna non è paura dell’atto stesso di peccare, ma della disonore o dell’umiliazione che ne derivano e che sono causate da fattori esterni.
 
 <span class="atom-split" data-atom="124" data-title="Whether fear itself can be feared?" data-chapter="Whether fear itself can be feared?" data-kind="atom" data-srclang="en"></span>
 
@@ -6894,11 +7158,35 @@ Reply to Objection 3: The Philosopher is speaking there of things that are good 
 i.e. good specifically. And such like good is no better for lasting long or for ever: its goodness
 depends on its very nature.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che quelle cose non debbano essere temute, poiché non esiste alcun rimedio per esse. Infatti, come detto sopra (A[2]), una delle condizioni fondamentali della paura è l’esistenza di una qualche speranza di salvezza. Ma un male che non può essere eliminato non lascia alcuna possibilità di scampo; pertanto, tali cose non vanno affatto temute.
+
+Obiezione 2: Inoltre, non esiste alcun rimedio al male della morte; poiché, nel corso naturale delle cose, non è possibile tornare dalla morte alla vita. Eppure la morte non è considerata la cosa più temuta di tutte, come afferma il Filosofo (Retorica ii, 5). Pertanto, quelle cose che non sono accompagnate da alcun rimedio non sono certo quelle che suscitano il maggior timore.
+
+Obiezione 3: Inoltre, il Filosofo afferma (Etica, i, 6) che “una cosa che dura a lungo non è migliore di quella che dura solo un giorno; né quella che dura per sempre è migliore di quella che non è eterna”; lo stesso vale per il male. Tuttavia, le cose che non possono essere corrette sembrano differire dalle altre soltanto in base al fatto che durino a lungo o per sempre. Pertanto, non sono necessariamente peggiori né più temibili delle altre.
+
+Al contrario, il Filosofo afferma (Retorica ii, 5) che “le cose da temere soprattutto sono quelle che, se compiute in modo errato, non possono essere corrette, o per le quali non esiste alcun rimedio, o che non sono semplici da realizzare”.
+
+Rispondo che l’oggetto della paura è il male; pertanto, qualsiasi cosa tenda ad aumentare il male conduce necessariamente all’aumento della paura stessa. Ora, il male non aumenta soltanto nella sua essenza, ma anche in relazione alle circostanze che lo accompagnano, come già detto sopra (Q[18], A[3]). Tra tutte queste circostanze, la durata prolungata, o addirittura l’eternità, sembra avere il maggiore impatto sull’aumento del male. Poiché le cose che esistono nel tempo vengono in qualche modo misurate in base alla loro durata; quindi, se soffrire qualcosa per un certo periodo di tempo rappresenta un male, si può considerare quel male raddoppiato se il dolore viene sopportato per il doppio di quel lasso di tempo. E di conseguenza, sopportare la stessa sofferenza per un periodo infinito, cioè per sempre, significa, in qualche modo, subire un aumento infinito del male stesso. Ora, quei mali che, una volta verificatisi, non possono essere affatto rimediati, o almeno non facilmente, vengono considerati come duraturi per sempre o per un periodo molto lungo; proprio per questo motivo suscitano la paura più grande.
+
+Risposta all’Obiezione 1: Il rimedio contro un male può essere di due tipi. Il primo consiste nel prevenire che un male futuro si verifichi; se tale rimedio viene eliminato, scompare sia la speranza che la paura; per questo motivo non parliamo ora di questo tipo di rimedi. L’altro tipo di rimedio consiste nell’eliminare un male già esistente; ed è proprio di questo tipo di rimedi che stiamo discutendo ora.
+
+Risposta all’Obiezione 2: Sebbene la morte sia un male senza rimedio, poiché non minaccia in modo imminente, non viene temuta, come già detto sopra (A[2]).
+
+Risposta all’Obiezione 3: Il filosofo parla lì di cose che sono buone in sé stesse, cioè buone per loro natura specifica. E un bene del genere non diventa migliore se dura a lungo o per sempre: la sua bontà dipende proprio dalla sua essenza intrinseca.
+
 <span class="atom-split" data-atom="127" data-title="OF THE CAUSE OF FEAR (TWO ARTICLES)" data-chapter="OF THE CAUSE OF FEAR (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the cause of fear: under which head there are two points of inquiry:
 (1) Whether love is the cause of fear?
 (2) Whether defect is the cause of fear?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora esaminare la causa della paura: in questo ambito vi sono due aspetti da indagare:
+(1) Se l’amore sia la causa della paura;
+(2) Se il difetto sia la causa della paura.
 
 <span class="atom-split" data-atom="128" data-title="Whether love is the cause of fear?" data-chapter="Whether love is the cause of fear?" data-kind="atom" data-srclang="en"></span>
 
@@ -6951,6 +7239,25 @@ evil of which is feared, was loved from the beginning.
 Reply to Objection 3: This argument is true of that which is the efficient cause of the evil to
 be feared: whereas love causes fear by way of material disposition, as stated above.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’amore non sia la causa della paura. Infatti, ciò che conduce a qualcosa ne è la causa. Ma “la paura porta all’amore della carità”, come afferma [Agostino](/figures/augustine) nell’epistola canonica di Giovanni (Trattato IX). Pertanto, la paura è la causa dell’amore, e non il contrario.
+
+Obiezione 2: Inoltre, il Filosofo afferma (Rhetorica ii, 5) che “quelli di cui temiamo l’arrivo di qualche male sono quelli che più temiamo”. Ma la paura del male, essendo causata da qualcuno, ci spinge ad odiare piuttosto che amare quella persona. Pertanto, la paura è causata dall’odio e non dall’amore.
+
+Obiezione 3: Inoltre, è stato detto sopra (Q[42], A[3]) che quelle cose che avvengono per nostra stessa volontà non suscitano paura. Ma ciò che facciamo per amore viene dal profondo del nostro cuore. Pertanto, l’amore non può generare paura.
+
+Al contrario, Agostino afferma (QQ. 83, qu. 33): “Non vi può essere dubbio che l’unica causa della paura sia la perdita di ciò che amiamo, quando lo possediamo, o il fallimento nell’ottenere ciò che speriamo”. Pertanto, ogni paura deriva dal nostro amore per qualcosa; e di conseguenza, l’amore è la causa della paura.
+
+Rispondo che gli oggetti delle passioni dell’anima stanno in relazione ad esse come le forme rispetto alle cose naturali o artificiali: poiché le passioni dell’anima traggono la loro specie dai loro oggetti, proprio come tali cose traggono la loro forma dalle loro strutture. Pertanto, così come ciò che è causa della forma è anche causa della cosa costituita da quella forma, allo stesso modo ciò che è causa, in qualsiasi modo sia, dell’oggetto di una passione è causa di quella stessa passione. Ora, una cosa può essere causa dell’oggetto di una passione, o in quanto causa efficiente, o in quanto disposizione materiale. L’oggetto del piacere, ad esempio, è il bene considerato appropriato e congiunto; la sua causa efficiente è ciò che determina tale congiunzione, appropriatenza o bontà; mentre la sua causa in termini di disposizione materiale è un’abitudine o qualsiasi altra condizione grazie alla quale quel bene congiunto diventa effettivamente apprezzato o percepito come tale.  
+Quindi, riguardo al problema in esame, l’oggetto della paura è qualcosa considerato un male futuro, imminente e difficile da evitare; ciò che può infliggere tale male è quindi la causa efficiente dell’oggetto della paura, e di conseguenza anche della paura stessa. Allo stesso modo, ciò che rende una persona particolarmente suscettibile a quel male costituisce una causa della paura e del suo oggetto, in termini di disposizione materiale. Ed è proprio per questo che l’amore può generare paura: poiché, attraverso il desiderio di un certo bene, ciò che priva una persona di tale bene diventa per essa un male, e quindi essa lo teme come tale.
+
+Risposta all’Obiezione 1: Come già detto sopra (Q[42], A[1]), la paura, in sé stessa e per prima cosa, considera il male dal quale si ritira come contrario a qualche bene amato; pertanto, la paura nasce dalla stessa amore. Tuttavia, in secondo luogo, essa riguarda anche la causa da cui quel male deriva; quindi, a volte, casualmente, la paura può generare amore: ad esempio, quando, per timore delle punizioni di Dio, l’uomo osserva i Suoi comandamenti e così inizia a sperare, e la speranza, come già detto (Q[40], A[7]), conduce all’amore.
+
+Risposta all’Obiezione 2: Colui da cui ci si aspetta il male viene effettivamente odiato all’inizio; ma in seguito, quando cominciamo a sperare nel bene da lui, iniziamo ad amarlo. Il bene, invece – l’opposto del male che ci spaventa – è stato amato fin dall’inizio.
+
+Risposta all’Obiezione 3: Questo argomento è valido per ciò che rappresenta la causa effettiva del male da temere; mentre l’amore provoca paura attraverso una disposizione emotiva concreta, come già detto in precedenza.
+
 <span class="atom-split" data-atom="129" data-title="Whether defect is the cause of fear?" data-chapter="Whether defect is the cause of fear?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that defect is not a cause of fear. Because those who are in power
@@ -6989,6 +7296,24 @@ Reply to Objection 3: Those who contend with one another are afraid, not on acco
 power which enables them to contend: but on account of the lack of power, owing to which they
 are not confident of victory.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il difetto non sia una causa di paura. Infatti, coloro che sono al potere sono molto temuti. Ma il difetto è contrario al potere; pertanto, il difetto non può essere considerato una causa di paura.
+
+Obiezione 2: Inoltre, il difetto di coloro che vengono già giustiziati è estremo. Ma tali persone non provano paura, come affermato nella Retorica II, 5. Pertanto, il difetto non può essere considerato una causa della paura.
+
+Obiezione 3: Inoltre, le contese sorgono dalla forza, non dal difetto. Ma “coloro che combattono temono coloro che si oppongono loro” (Retorica ii, 5). Pertanto, il difetto non è una causa di paura.
+
+Al contrario, le contrarietà derivano da cause opposte. Tuttavia “ricchezza, forza, molti amici e potere allontanano la paura” (Retorica ii, 5). Pertanto, la paura è causata dalla mancanza di queste cose.
+
+Rispondo che, come già detto sopra (A[1]), la paura può essere attribuita a due cause principali: una riguarda una disposizione materiale da parte di colui che teme; l’altra riguarda una causa effettiva, legata alla persona temuta. Per quanto riguarda la prima causa, un certo difetto, di per sé, può generare paura: infatti, è proprio a causa di una mancanza di forza che si è incapaci di respingere facilmente un male minaccioso. Tuttavia, affinché tale difetto possa provocare paura, deve essere presente in una certa misura; il difetto che genera timore per un male futuro, infatti, è inferiore a quello causato da un male presente, che invece suscita dolore. Un difetto ancora maggiore si verificherebbe se la percezione del male, o l’amore per il bene di cui si teme l’opposto, fossero completamente assenti. Per quanto riguarda la seconda causa, forza e potenza, di per sé, possono generare paura: è proprio perché si ritiene che la causa temuta sia efficace nel causare danno che il suo effetto diventa insormontabile. Tuttavia, in alcuni casi, un certo difetto può indirettamente provocare paura, quando, ad esempio, a causa di tale difetto, qualcuno desidera fare del male a un altro: per motivi di ingiustizia, magari perché l’altra persona gli ha già fatto del male in passato, o perché si teme di essere danneggiati da essa.
+
+Risposta all’Obiezione 1: Questo argomento è valido per la causa della paura, da parte della causa effettiva che la provoca.
+
+Risposta all’Obiezione 2: Coloro che vengono già giustiziati soffrono effettivamente di un male presente; pertanto il loro dolore supera ogni limite di paura.
+
+Risposta all’Obiezione 3: Coloro che si scontrano tra loro temono non a causa del potere che li rende in grado di combattere, ma a causa della mancanza di tale potere, che li priva della fiducia nella vittoria.
+
 <span class="atom-split" data-atom="130" data-title="OF THE EFFECTS OF FEAR (FOUR ARTICLES)" data-chapter="OF THE EFFECTS OF FEAR (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the effects of fear: under which head there are four points of inquiry:
@@ -6996,6 +7321,14 @@ We must now consider the effects of fear: under which head there are four points
 (2) Whether it makes men suitable for counsel?
 (3) Whether it makes one tremble?
 (4) Whether it hinders action?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare gli effetti della paura: in questa categoria vi sono quattro punti da esaminare:
+(1) Se la paura provoca contrazioni muscolari;
+(2) Se rende le persone adatte a ricevere consigli o suggerimenti;
+(3) Se induce tremori;
+(4) Se ostacola l’azione.
 
 <span class="atom-split" data-atom="131" data-title="Whether fear causes contraction?" data-chapter="Whether fear causes contraction?" data-kind="atom" data-srclang="en"></span>
 
@@ -7066,6 +7399,24 @@ results a contraction in this appetite, but not in the corporeal nature; in fact
 contracted in itself, is free to set the vital spirits and heat in movement, so that they spread to the
 outward parts of the body: the result being that those who are ashamed blush.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la paura non causi contrazione. Infatti, quando avviene la contrazione, il calore e gli spiriti vitali vengono ritirati verso l’interno del corpo. Ma l’accumulo di calore e spiriti vitali nelle parti interne del corpo dilata il cuore, spingendolo a comportamenti audaci, come si può osservare in coloro che sono arrabbiati; al contrario, accade il contrario in coloro che hanno paura. Pertanto, la paura non causa contrazione.
+
+Obiezione 2: Inoltre, quando, a causa della contrazione, gli spiriti vitali e il calore si accumulano nelle parti interne del corpo, l’uomo grida, come si può osservare in coloro che soffrono. Ma coloro che hanno paura non emettono alcun suono: al contrario, perdono la capacità di parlare. Pertanto, la paura non causa la contrazione.
+
+Obiezione 3: Inoltre, la vergogna è un tipo di paura, come già affermato sopra (Q[41], A[4]). Ma “coloro che provano vergogna arrossiscono”, come osservano [Cicerone](/figures/cicero) (De Quaest. Tusc. iv, 8) e il Filosofo (Etica iv, 9). Tuttavia, l’arrossimento indica piuttosto un’emozione opposta alla paura; pertanto, la paura non è la causa dell’arrossimento.
+
+Al contrario, Damasceno afferma (De Fide Orth. ii, 23) che “la paura è un potere legato alla {sistole}, cioè alla contrazione”.
+
+Rispondo che, come già detto sopra (Q[28], A[5]), nelle passioni dell’anima l’elemento formale è rappresentato dal movimento della potenza appetitiva, mentre la trasformazione corporea costituisce l’elemento materiale. Entrambi questi elementi sono reciprocamente proporzionali; pertanto, la trasformazione corporea assume una somiglianza e addirittura la stessa natura del movimento appetitivo. Ora, riguardo al movimento appetitivo dell’anima, la paura comporta una certa contrazione: il motivo di ciò è che la paura sorge dall’immaginazione di un male minaccioso e difficile da respingere, come già affermato sopra (Q[41], A[2]). Ma il fatto che qualcosa sia difficile da respingere dipende dalla mancanza di forza, come ancora detto sopra (Q[43], A[2]); e più debole è questa forza, meno cose riesce a influenzare. Pertanto, già dall’immaginazione stessa che provoca la paura, si verifica una certa contrazione nell’appetito. Così osserviamo in una persona che sta morendo: a causa della mancanza di forza, la natura umana si ritira verso l’interno del corpo; allo stesso modo, quando gli abitanti di una città vengono colti dal terrore, lasciano le periferie e si dirigono il più possibile verso le zone interne della città. È proprio in analogia a questa contrazione dell’appetito dell’anima che, nella paura, avviene anche nel corpo una simile contrazione del calore e degli spiriti vitali verso le parti interne.
+
+Risposta all’Obiezione 1: Come afferma il Filosofo (De Problematibus, xxvii, 3), sebbene nei soggetti che temono gli spiriti vitali si spostino dalle parti esterne verso quelle interne del corpo, tale movimento non è lo stesso nei soggetti arrabbiati e in quelli spaventati. Nei primi, a causa del calore e della delicatezza degli spiriti vitali derivanti dal desiderio di vendetta, il movimento verso l’interno ha una direzione ascendente; di conseguenza, gli spiriti vitali e il calore si concentrano attorno al cuore, rendendo l’uomo arrabbiato veloce e coraggioso nell’attaccare. Nei secondi, invece, a causa della condensazione causata dal freddo – derivante dall’immaginare di non avere abbastanza forza – gli spiriti vitali si muovono verso il basso; di conseguenza, il calore e gli spiriti vitali abbandonano il cuore invece di concentrarsi attorno ad esso, rendendo l’uomo spaventato lento nell’attaccare e più propenso a fuggire.
+
+Risposta all’Obiezione 2: Per chiunque soffra, sia uomo che animale, è naturale utilizzare tutti i mezzi possibili per allontanare ciò che causa dolore; pertanto osserviamo che gli animali, quando soffrono, attaccano con le loro mascelle o con le loro corna. Ora, il maggior aiuto, in tutti i casi, per gli animali è rappresentato dal calore e dagli spiriti vitali: per questo motivo, quando soffrono, la loro natura accumula questi elementi al proprio interno al fine di utilizzarli per respingere ciò che è dannoso. Il Filosofo afferma (De Problematibus, xxvii, 9) che quando gli spiriti vitali e il calore si concentrano all’interno del corpo, questi devono trovare un modo per essere espulsi; per questa ragione coloro che soffrono faticano a trattenersi dal gridare ad alta voce. D’altra parte, nelle persone spaventate, il calore interno e gli spiriti vitali si spostano dal cuore verso il basso, come già detto (ad 1); per questo motivo la paura impedisce la parola, poiché l’emissione degli spiriti vitali avviene in direzione opposta, attraverso la bocca; di conseguenza, la paura rende la persona muta. Anche per questa ragione, la paura “fa tremare chi ne è affetto”, come afferma il Filosofo (De Problematibus, xxvii, 1,6,7).
+
+Risposta all’Obiezione 3: I pericoli mortali sono contrari non solo al desiderio dell’anima, ma anche alla sua natura stessa. Pertanto, in simili casi di paura, si verifica una contrazione non soltanto del desiderio, ma anche della natura corporea; infatti, quando un animale viene colpito dall’immaginazione della morte, sperimenta un raccoglimento del calore verso le parti interne del corpo, come se fosse minacciato da una morte naturale. Ecco perché “coloro che temono la morte impallidiscono” (Etica, iv, 9). Tuttavia, il male che provoca la vergogna è contrario non alla natura dell’anima, ma soltanto al suo desiderio; di conseguenza, si verifica una contrazione soltanto di questo desiderio, e non della natura corporea. Anzi, l’anima, pur essendo “raccoglita” in sé stessa, è libera di far muovere gli spiriti vitali e il calore, permettendo loro di diffondersi nelle parti esterne del corpo; di conseguenza, coloro che provano vergogna arrossiscono.
+
 <span class="atom-split" data-atom="132" data-title="Whether fear makes one suitable for counsel?" data-chapter="Whether fear makes one suitable for counsel?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that fear does not make one suitable for counsel. For the same
@@ -7109,6 +7460,24 @@ things, as being possible of attainment; whereas fear is of evil things, as bein
 that fear regards the aspect of difficulty more than hope does. And it is in matters of difficulty,
 especially when we distrust ourselves, that we take counsel, as stated above.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la paura non renda una persona adatta al consiglio. Infatti, la stessa cosa non può essere allo stesso tempo vantaggiosa per il consiglio e un ostacolo ad esso. Ma la paura ostacola il consiglio: poiché ogni passione disturba la tranquillità mentale, necessaria per un uso efficace della ragione. Pertanto, la paura non rende una persona adatta al consiglio.
+
+Obiezione 2: Inoltre, il consiglio rappresenta un atto di ragione, basato sul pensiero e sulla riflessione riguardo al futuro. Tuttavia, una certa paura “scaccia ogni forma di pensiero e perturba la mente”, come osserva [Cicerone](/figures/cicero) nel De Quaest. Tusc. iv, 8. Pertanto, la paura non conduce al consiglio, ma lo ostacola.
+
+Obiezione 3: Inoltre, proprio come ricorriamo al consiglio per evitare il male, allo stesso modo lo utilizziamo anche per ottenere cose buone. Tuttavia, se la paura riguarda il male da evitare, la speranza riguarda invece le cose buone da realizzare. Pertanto, la paura non è più utile del consiglio di quanto lo sia la speranza.
+
+Al contrario, il Filosofo afferma (Retorica ii, 5) che “la paura rende le persone sagge e consigliere”.
+
+Rispondo che un uomo capace di dare buoni consigli può essere considerato in due modi. Primo, in base al suo desiderio o alla sua propensione a chiedere consiglio; è proprio la paura, infatti, a spingere le persone a cercare aiuto. Come afferma il Filosofo (Etica, III, 3): “Chiediamo consiglio su questioni importanti perché in tali casi non ci fidiamo di noi stessi”. Ora, quelle cose che ci fanno paura non sono necessariamente cattive, ma hanno una certa gravità: sembrano difficili da superare e ci appaiono vicine, come già detto (Q[42], A[2]). Per questo motivo le persone cercano consiglio soprattutto quando hanno paura.  
+In secondo luogo, un uomo capace di dare buoni consigli è colui che possiede la capacità di fornire suggerimenti utili; in questo senso, né la paura né alcuna altra passione possono rendere una persona idonea a offrire consigli validi. Quando infatti una persona è influenzata da una passione, le cose le sembrano più grandi o più piccole di quanto siano realmente; per esempio, a chi ama ciò che ama sembra migliore, mentre a chi teme ciò che teme appare ancora più terribile. Di conseguenza, a causa della mancanza di giudizio oggettivo, qualsiasi passione, in sé considerata, ostacola la capacità di fornire consigli utili.  
+Questo basta per rispondere alla prima obiezione.
+
+Risposta all’Obiezione 2: Più intensa è una passione, maggiore diventa l’ostacolo che rappresenta per colui che ne è influenzato. Pertanto, quando la paura è intensa, l’uomo desidera certamente consultarsi con qualcuno, ma i suoi pensieri sono così sconvolti che non riesce a trovare una soluzione efficace. Tuttavia, se la paura è meno intensa, tanto da spingere l’uomo a cercare consiglio senza disturbare gravemente il suo ragionamento, questa stessa paura può persino facilitargli la ricerca di un buon suggerimento, grazie alla sua maggiore attenzione e prudenza.
+
+Risposta all’Obiezione 3: La speranza rende anche l’uomo un buon consigliere; infatti, come afferma il Filosofo (Retorica ii, 5), “nessuno chiede consiglio su cose di cui dispera”, né riguardo a cose impossibili, come dice nell’Etica iii, 3. Tuttavia, la paura spinge più della speranza a cercare consigli. La speranza riguarda infatti cose buone, considerate possibili da realizzare; la paura, invece, riguarda cose cattive, ritenute difficili da evitare, quindi la paura si concentra maggiormente sull’aspetto della difficoltà rispetto alla speranza. Ed è proprio in situazioni di difficoltà, soprattutto quando non ci fidiamo di noi stessi, che cerchiamo consiglio, come già detto sopra.
+
 <span class="atom-split" data-atom="133" data-title="Whether fear makes one tremble?" data-chapter="Whether fear makes one tremble?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that trembling is not an effect of fear. Because trembling is
@@ -7151,6 +7520,22 @@ reason the arms and hands tremble. Or else because the aforesaid members are mor
 which reason the knees tremble in those who are afraid, according to Is. 35:3: "Strengthen ye the
 feeble hands, and confirm the trembling [Vulg.: 'weak'] knees."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il tremore non sia un effetto della paura. Infatti, il tremore è causato dal freddo; osserviamo quindi che una persona fredda trema. La paura, invece, non sembra raffreddare la persona, ma piuttosto provocarle un calore intenso: ne è un segno il fatto che coloro che hanno paura provano sete, soprattutto se la loro paura è molto grande, come nel caso di coloro che vengono portati al patibolo. Pertanto, la paura non causa il tremore.
+
+Obiezione 2: Inoltre, l’evacuazione delle feci è provocata dal calore; pertanto i medicinali lassativi sono generalmente di natura calda. Tuttavia, queste evacuazioni sono spesso causate dalla paura. Quindi, la paura sembra produrre calore; e di conseguenza non provoca tremori.
+
+Obiezione 3: Inoltre, nel momento della paura, il calore viene ritirato dalle parti esterne del corpo verso quelle interne. Pertanto, se l’uomo trema nelle sue parti esterne a causa di questo ritiro del calore, sembrerebbe che la paura dovrebbe provocare tale tremore in tutti i membri esterni del corpo. Ma non è così. Quindi, il tremore del corpo non è causato dalla paura.
+
+Al contrario, [Cicerone](/figures/cicero) afferma (De Quaest. Tusc. iv, 8) che “la paura è seguita da tremore, pallore e battito dei denti”.
+
+Rispondo che, come già detto sopra (A[1]), nel timore si verifica una certa contrazione delle parti esterne verso quelle interne del corpo; di conseguenza, le parti esterne diventano fredde. Per questa ragione in tali parti si verifica il tremore, causato dalla mancanza di forza nel controllare i muscoli; tale mancanza di forza deriva dalla carenza di calore, che è lo strumento attraverso cui l’anima muove quei muscoli, come affermato in “De Anima” ii, 4.
+
+Risposta all’Obiezione 1: Quando il calore si sposta dalle parti esterne verso quelle interne, il calore presente nelle parti interne aumenta, soprattutto in quelle inferiori o destinate al processo nutritivo. Di conseguenza, con l’esaurimento dell’elemento umido, sorge la sete; a volte, invece, si verifica un rilassamento degli intestini, nonché evacuazioni urinarie o addirittura seminali. Altre volte, tali evacuazioni sono dovute alla contrazione dell’addome e dei testicoli, come afferma il Filosofo (De Problematibus, xxii, 11). Ciò basta per rispondere alla Seconda Obiezione.
+
+Risposta all’Obiezione 3: Nel momento della paura, il calore abbandona il cuore e si dirige verso il basso; per questo motivo, nelle persone spaventate, il cuore trema in modo particolare, così come gli organi collegati al petto dove si trova il cuore. Di conseguenza, coloro che hanno paura tremano soprattutto nel parlare, poiché l’arteria tracheale si trova vicino al cuore. Anche il labbro inferiore e la mandibola tremano a causa della loro connessione con il cuore; questo spiega il fenomeno del battere dei denti. Per lo stesso motivo, anche braccia e mani tremano; oppure perché tali membri sono più mobili. Per questa ragione, anche le ginocchia tremano nelle persone spaventate, come si legge in Isaia 35:3: “Rafforzate le mani deboli e stabilizzate le ginocchia tremanti”.
+
 <span class="atom-split" data-atom="134" data-title="Whether fear hinders action?" data-chapter="Whether fear hinders action?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that fear hinders action. For action is hindered chiefly by a
@@ -7186,6 +7571,22 @@ is a fear of work itself as being toilsome, it hinders work by withdrawing the w
 of other things conduces to action, in so far as it inclines the will to do that whereby a man escapes
 from what he fears.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la paura ostacoli l’azione. Infatti, l’azione viene principalmente ostacolata da un turbamento della ragione, che è quella che guida l’azione stessa. Ma la paura disturba la ragione, come già detto sopra (A[2]). Pertanto, la paura ostacola l’azione.
+
+Obiezione 2: Inoltre, coloro che provano paura mentre compiono qualsiasi azione sono più propensi a fallire: ad esempio, una persona che cammini su una tavola sospesa in alto cadrebbe facilmente per paura; invece, se camminasse sulla stessa tavola posta più in basso, non cadrebbe, poiché non avrebbe paura. Pertanto, la paura ostacola l’azione.
+
+Obiezione 3: Inoltre, la pigrizia o la lassitudine rappresentano un tipo di paura. Ma la pigrizia ostacola l’azione; pertanto anche la paura lo fa.
+
+Al contrario, l’Apostolo dice (Filippesi 2:12): “Lavorate con timore e tremore alla vostra salvezza”; e non avrebbe detto questo se il timore rappresentasse un ostacolo ad un buon operato. Pertanto, il timore non ostacola un’azione virtuosa.
+
+Rispondo che le azioni esterne dell’uomo sono causate dall’anima come motore principale, ma attraverso gli organi del corpo come strumenti. Ora, un’azione può essere ostacolata sia a causa di un difetto negli strumenti fisici, sia a causa di un difetto nel motore principale. Per quanto riguarda gli organi corporei, la paura, in sé considerata, è sempre propensa ad ostacolare le azioni esterne, poiché gli organi esterni vengono privati, a causa della paura, del loro “calore vitale”. Ma per quanto riguarda l’anima, se la paura è moderata e non disturba eccessivamente la ragione, essa contribuisce al corretto svolgimento delle azioni, poiché suscita una certa premura e spinge l’uomo a prendere decisioni con maggiore attenzione. Tuttavia, se la paura aumenta al punto di disturbare la ragione, essa ostacola anche le azioni dell’anima stessa. Ma di una tale paura l’Apostolo non parla affatto. Ciò basta per rispondere alla Prima Obiezione.
+
+Risposta all’Obiezione 2: Chi cade da una piattaforma posta in alto subisce un turbamento della propria immaginazione, a causa del terrore della caduta che viene rappresentata nella sua mente.
+
+Risposta all’Obiezione 3: Chiunque abbia paura evita ciò che teme; pertanto, poiché la pigrizia rappresenta una paura del lavoro stesso, considerato faticoso, essa ostacola il lavoro allontanando la volontà da esso. Ma la paura di altre cose, invece, conduce all’azione, in quanto spinge la volontà a compiere ciò che permette all’uomo di sfuggire a ciò che teme.
+
 <span class="atom-split" data-atom="135" data-title="OF DARING (FOUR ARTICLES)" data-chapter="OF DARING (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider daring: under which head there are four points of inquiry:
@@ -7193,6 +7594,14 @@ We must now consider daring: under which head there are four points of inquiry:
 (2) How is daring related to hope?
 (3) Of the cause of daring;
 (4) Of its effect.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il coraggio: in questo ambito vi sono quattro punti da esaminare:  
+(1) Se il coraggio sia contrario alla paura;  
+(2) In che modo il coraggio sia collegato alla speranza;  
+(3) Qual ne sia la causa;  
+(4) Qual ne sia l’effetto.
 
 <span class="atom-split" data-atom="136" data-title="Whether daring is contrary to fear?" data-chapter="Whether daring is contrary to fear?" data-kind="atom" data-srclang="en"></span>
 
@@ -7232,6 +7641,24 @@ Reply to Objection 3: Safety does not denote something contrary to fear, but mer
 exclusion of fear: for he is said to be safe, who fears not. Wherefore safety is opposed to fear, as a
 privation: while daring is opposed thereto as a contrary. And as contrariety implies privation, so
 daring implies safety.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il coraggio non sia contrario alla paura. Infatti, [Agostino](/figures/augustine) afferma (QQ. 83, qu. 31) che “il coraggio è un vizio”. Ora, un vizio è contrario alla virtù. Poiché la paura non è una virtù ma un’emozione, sembra quindi che il coraggio non sia contrario alla paura.
+
+Obiezione 2: Inoltre, a ogni cosa corrisponde una contraria. Ma la speranza è contraria alla paura. Pertanto, l’audacia non è contraria alla paura.
+
+Obiezione 3: Inoltre, ogni passione esclude il suo opposto. Ma la paura esclude la sicurezza; infatti Agostino afferma (Confessioni, ii, 6) che “la paura comporta l’attenzione alla sicurezza”. Pertanto, la sicurezza è contraria alla paura. Quindi, l’audacia non è contraria alla paura.
+
+Al contrario, il Filosofo afferma (Retorica ii, 5) che “il coraggio è l’opposto della paura”.
+
+Rispondo che è proprio dell’essenza dei contrari essere “molto lontani l’uno dall’altro”, come affermato nella Metafisica, X, 4. Ora, ciò che è più lontano dalla paura è la temerarietà: poiché la paura si allontana dal pericolo futuro, in seguito alla propria vittoria su colui che la teme; mentre la temerarietà si dirige verso il pericolo minaccioso, grazie alla propria vittoria su di esso. Pertanto, è evidente che la temerarietà sia contraria alla paura.
+
+Risposta all’Obiezione 1: [La rabbia](/concepts/anger), l’audacia e tutti gli altri [nomi](/positions/nominalism) delle passioni possono essere intesi in due modi. In primo luogo, come designanti assolutamente i movimenti dell’appetito sensibile riguardo a un certo oggetto, buono o cattivo; ed è in questo senso che sono considerati nomi di passioni. In secondo luogo, come designanti, oltre a questi movimenti, anche un allontanamento dall’ordine della ragione; ed è in questo senso che vengono considerati nomi di vizi. È in questo secondo senso che Agostino parla di audacia; ma noi ne parliamo nel primo senso.
+
+Risposta all’Obiezione 2: Da un lato, nello stesso contesto, non esistono diversi contrari di una stessa cosa; ma da altri punti di vista nulla impedisce che una cosa abbia più contrari. Pertanto, come già detto in precedenza (Q[23], A[2]; Q[40], A[4]), le passioni irascibili presentano due tipi di contrarietà: una, basata sull’opposizione tra bene e male, quindi la paura è contraria alla speranza; l’altra, basata sull’opposizione tra avvicinamento e allontanamento, quindi il coraggio è contrario alla paura, e la disperazione è contraria alla speranza.
+
+Risposta all’Obiezione 3: La sicurezza non indica qualcosa di contrario alla paura, ma semplicemente l’esclusione della paura; si dice infatti che una persona sia al sicuro quando non teme nulla. Pertanto, la sicurezza è opposta alla paura come forma di privazione, mentre il coraggio ne è l’opposto diretto. E poiché la contrarietà implica sempre una privazione, anche il coraggio comporta necessariamente sicurezza.
 
 <span class="atom-split" data-atom="137" data-title="Whether daring ensues from hope?" data-chapter="Whether daring ensues from hope?" data-kind="atom" data-srclang="en"></span>
 
@@ -7281,6 +7708,24 @@ conjoined good. In like manner despair regards directly the good which it turns 
 fear regards the conjoined evil. Hence, properly speaking, daring is not a part of hope, but its effect:
 just as despair is an effect, not a part, of fear. For this reason, too, daring cannot be a principal
 passion.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il coraggio non derivi dalla speranza. Infatti, il coraggio riguarda cose cattive e temibili, come affermato nell’Etica iii, 7; mentre la speranza riguarda cose buone, come detto sopra (Q[40], A[1]). Pertanto, hanno oggetti diversi e non seguono lo stesso ordine logico. Quindi il coraggio non deriva dalla speranza.
+
+Obiezione 2: Inoltre, proprio come il coraggio è l’opposto della paura, così lo sconforto è l’opposto della speranza. Ma la paura non deriva dall’sconforto: anzi, lo sconforto esclude la paura, come afferma il Filosofo (Retorica ii, 5). Pertanto, il coraggio non deriva dalla speranza.
+
+Obiezione 3: Inoltre, il coraggio è diretto verso qualcosa di buono, cioè la vittoria. Ma spetta alla speranza tendere verso ciò che è buono e difficile. Pertanto, il coraggio è lo stesso della speranza; e quindi non ne deriva.
+
+Al contrario, il Filosofo afferma (Etica, III, 8) che “coloro che sono pieni di speranza sono anche pieni di coraggio”. Pertanto, sembra che il coraggio derivi dalla speranza.
+
+Rispondo che, come abbiamo spesso affermato (Q[22], A[2]; Q[35], A[1]; Q[41], A[1]), tutte queste passioni appartengono alla potenza appetitiva. Ora, ogni movimento della potenza appetitiva può essere ridotto a un atto di ricerca o di evitamento. Inoltre, la ricerca o l’evitamento riguardano qualcosa, sia in base a quella cosa stessa che in base ad altro. In base a se stessa, il bene è oggetto di ricerca e il male oggetto di evitamento; ma in base ad altro, il male può diventare oggetto di ricerca se vi è qualche bene associato a esso, e il bene può diventare oggetto di evitamento se vi è qualche male associato a esso. Poiché ciò che deriva da un motivo ulteriore segue ciò che deriva dal motivo intrinseco, ne consegue che la ricerca del male segue la ricerca del bene, e l’evitamento del bene segue l’evitamento del male. Queste quattro azioni corrispondono a quattro passioni: la ricerca del bene appartiene alla speranza, l’evitamento del male al timore, la ricerca di un male temuto appartiene al coraggio, e l’evitamento del bene al dispero. Pertanto, il coraggio deriva dalla speranza, poiché si attacca con audacia ciò che rappresenta una minaccia per il timore; mentre il disperio deriva dal timore, poiché la ragione per cui un uomo dispera è proprio la paura delle difficoltà legate al bene che dovrebbe sperare di ottenere.
+
+Risposta all’Obiezione 1: Questo argomento sarebbe valido se il bene e il male non fossero oggetti coordinati tra loro. Ma poiché il male ha una certa relazione con il bene – essendo successivo al bene, proprio come la privazione segue l’[abitudine](/concepts/custom) – di conseguenza anche l’audacia, che mira al male, segue la speranza, che mira al bene.
+
+Risposta all’Obiezione 2: Sebbene il bene, in senso assoluto, sia precedente al male, tuttavia l’evitamento del male precede l’evitamento del bene; proprio come la ricerca del bene precede la ricerca del male. Pertanto, così come la speranza precede il coraggio, così anche la paura precede la disperazione. E proprio come la paura non conduce sempre alla disperazione, ma solo quando è intensa; allo stesso modo, la speranza non conduce sempre al coraggio, se non quando è forte.
+
+Risposta all’Obiezione 3: Sebbene l’oggetto del coraggio sia un male al quale, secondo la valutazione di colui che osa, è connesso il bene della vittoria; tuttavia il coraggio riguarda direttamente quel male, mentre la speranza riguarda il bene connesso a esso. Allo stesso modo, la disperazione riguarda direttamente il bene dal quale si allontana, mentre la paura riguarda il male connesso a esso. Pertanto, in senso proprio, il coraggio non è una parte della speranza, ma ne è l’effetto; così come la disperazione è un effetto, e non una parte, della paura. Per questa stessa ragione, il coraggio non può essere considerato una passione principale.
 
 <span class="atom-split" data-atom="138" data-title="Whether some defect is a cause of daring?" data-chapter="Whether some defect is a cause of daring?" data-kind="atom" data-srclang="en"></span>
 
@@ -7340,6 +7785,24 @@ courageous, because they think that God comes to the assistance of those who suf
 Hence it is evident that no defect causes daring except accidentally, i.e. in so far as some
 excellence attaches thereto, real or imaginary, either in oneself or in another.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che alcuni difetti possano essere la causa della temerarietà. Infatti, il Filosofo afferma (De Problematibus, xxvii, 4) che “coloro che amano il vino sono forti e temerari”. Tuttavia, dal vino deriva l’effetto dell’ubriachezza; pertanto, la temerarietà è causata da un difetto.
+
+Obiezione 2: Inoltre, il Filosofo afferma (Retorica ii, 5) che “coloro che non hanno esperienza del pericolo sono audaci”. Ma la mancanza di esperienza è un difetto. Pertanto, l’audacia è causata da un difetto.
+
+Obiezione 3: Inoltre, coloro che hanno subito ingiustizie di solito non sono audaci; “come gli animali quando vengono picchiati”, come affermato nell’Etica iii, 5. Ma la [sofferenza](/concepts/suffering) derivante da ingiustizie riguarda un difetto. Pertanto, l’audacia è causata da un difetto.
+
+Al contrario, il Filosofo afferma (Rhetorica ii, 5) che la causa del coraggio “è la presenza nell’immaginazione della speranza che i mezzi di sicurezza siano vicini, e che le cose da temere siano o inesistenti o lontane”. Tuttavia, qualsiasi elemento legato a un difetto implica o la rimozione dei mezzi di sicurezza o la prossimità di qualcosa da temere. Pertanto, nulla che riguardi un difetto può essere considerato una causa del coraggio.
+
+Rispondo che, come già detto sopra (AA[1],2), il coraggio deriva dalla speranza e è contrario alla paura; pertanto, qualsiasi cosa sia naturalmente in grado di suscitare speranza o allontanare la paura, costituisce una causa di coraggio. Poiché, tuttavia, paura, speranza e coraggio sono passioni che derivano da movimenti dell’appetito e da determinate trasformazioni fisiche, un elemento può essere considerato causa di coraggio in due modi: sia stimolando la speranza, sia allontanando la paura. Nel primo caso, riguarda il lato legato ai movimenti dell’appetito; nel secondo caso, il lato delle trasformazioni fisiche. Per quanto riguarda i movimenti dell’appetito che seguono un’analisi della situazione, la speranza che conduce al coraggio viene suscitata da quelle cose che ci fanno ritenere possibile la vittoria. Tali fattori possono riguardare sia le nostre proprie forze – come la forza fisica, l’esperienza nei pericoli, l’abbondanza di ricchezze, ecc. – sia le capacità altrui, come il possedere molti amici o altri mezzi di aiuto; in particolare, quando una persona confida nell’aiuto divino. “Coloro che dispongono di tali risorse sono più coraggiosi”, afferma il Filosofo (Rhet. ii, 5). La paura viene allontanata, in questo modo, eliminando le cause minacciose; ad esempio, quando una persona non ha nemici, poiché non ha mai fatto del male a nessuno, e quindi non è consapevole di alcun pericolo imminente. Sembra infatti che coloro che hanno fatto del male agli altri siano particolarmente esposti al pericolo. Per quanto riguarda le trasformazioni fisiche, il coraggio viene stimolato dalla speranza e dall’allontanamento della paura, attraverso elementi in grado di aumentare la temperatura del cuore. Il Filosofo afferma infatti (De Part. Animal. iii, 4) che “coloro i cui cuori sono di dimensioni ridotte sono più coraggiosi; al contrario, gli animali con cuori grandi sono timidi”, poiché il calore naturale non è in grado di produrre lo stesso effetto su un cuore grande rispetto a uno piccolo, proprio come un fuoco non riscalda una casa grande altrettanto bene di una piccola. Aggiunge anche (De Problem. xxvii, 4) che “coloro i cui polmoni contengono molta sangue sono più coraggiosi, grazie al calore prodotto nel cuore”. Nello stesso passaggio, afferma inoltre che “gli amanti del vino sono più coraggiosi, a causa del calore che il vino provoca”; da qui deriva anche l’affermazione precedente (Q[40], A[6]) secondo cui l’ebrezza induce speranza, poiché il calore nel cuore allontana la paura e stimola la speranza, a causa della dilatazione del cuore stesso.
+
+Risposta all’Obiezione 1: L’ubriachezza induce audacia, non perché sia un difetto, ma perché dilata il cuore e fa sì che una persona si consideri con maggiore importanza di quanto in realtà sia.
+
+Risposta all’Obiezione 2: Coloro che non hanno esperienza dei pericoli sono più audaci, non a causa di una qualche debolezza, ma per caso, cioè perché, essendo inesperti, non conoscono i propri difetti né i pericoli che li minacciano. È proprio per questo che la rimozione della causa della paura genera coraggio e audacia.
+
+Risposta all’Obiezione 3: Come afferma il Filosofo (Retorica ii, 5), “coloro che sono stati ingiustamente trattati sono coraggiosi, perché ritengono che Dio venga in aiuto di coloro che soffrono ingiustizia”. È quindi evidente che nessun difetto, per sé, genera audacia, se non in modo accidentale; cioè soltanto quando a quel difetto è associata qualche forma di eccellenza, reale o immaginaria, sia in sé stessi che negli altri.
+
 <span class="atom-split" data-atom="139" data-title="Whether the brave are more eager at first than in the midst of danger?" data-chapter="Whether the brave are more eager at first than in the midst of danger?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the daring are not more eager at first than in the midst of
@@ -7391,6 +7854,25 @@ we shall see later on (Q[46], A[1]). Consequently if the danger be so great as t
 victory, anger does not ensue. It is true, however, that if anger does ensue, there will be greater
 daring.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che coloro che sono coraggiosi non siano più desiderosi di affrontare il pericolo all’inizio che nel bel mezzo di esso. Poiché il tremore è causato dalla paura, e la paura è contraria al coraggio, come detto sopra (A[1]; Q[44], A[3]). Tuttavia, a volte i coraggiosi tremano anche all’inizio, come afferma il Filosofo nel De Problemata xxvii, 3. Pertanto, non sono più desiderosi di affrontare il pericolo all’inizio che nel bel mezzo di esso.
+
+Obiezione 2: Inoltre, la passione si intensifica con l’aumentare dell’oggetto su cui si concentra; poiché il bene è amabile, ciò che è ancora migliore lo è ancora di più. Ma l’oggetto del coraggio è qualcosa di difficile da affrontare. Pertanto, maggiore è la difficoltà, maggiore deve essere il coraggio necessario per superarla. E poiché il pericolo è particolarmente arduo quando si presenta, è proprio in quei momenti che il coraggio raggiunge il suo apice.
+
+Obiezione 3: Inoltre, l’[ira](/concepts/anger) viene suscitata dall’infliggere ferite. Ma l’ira induce coraggio; infatti il Filosofo afferma (Retorica ii, 5) che “l’ira rende l’uomo audace”. Pertanto, quando un uomo si trova in pericolo e viene aggredito, è proprio allora che diventa più coraggioso.
+
+Al contrario, si afferma nell’Etica, III, 7 che “i temerari sono impazienti e pieni di fretta di fronte al pericolo, ma nel mezzo dei pericoli rimangono distaccati”.
+
+Rispondo che il coraggio, essendo un atto derivante dall’appetito sensibile, segue una percezione effettuata da tale facoltà. Tuttavia, la facoltà sensibile non è in grado di effettuare confronti né di esaminare attentamente le circostanze; il suo giudizio è istantaneo. A volte, dunque, è impossibile per una persona cogliere immediatamente tutte le difficoltà presenti in una determinata situazione; da ciò sorge il desiderio di affrontare il pericolo con coraggio. Quando poi si trova davvero di fronte al pericolo, scopre che la difficoltà è maggiore di quanto previsto e quindi cede.  
+D’altra parte, la ragione analizza attentamente tutte le difficoltà di una situazione. Pertanto, coloro che affrontano il pericolo seguendo i principi della ragione sembrano all’inizio esitanti, poiché lo fanno non guidati dall’emozione ma dopo un’adeguata riflessione. Tuttavia, quando si trovano realmente nel bel mezzo del pericolo, non incontrano nulla di inaspettato; a volte la difficoltà si rivela inferiore a quanto previsto, e quindi riescono a perseverare. Inoltre, è probabile che affrontino il pericolo per il bene della virtù, che rappresenta l’obiettivo costante della loro volontà, indipendentemente dalla gravità del pericolo stesso; mentre coloro che agiscono con coraggio lo fanno soltanto spinti da un pensiero che genera speranza e allontana la paura, come già detto in precedenza (A[3]).
+
+Risposta all’Obiezione 1: Il tremore si verifica effettivamente nelle persone coraggiose, a causa del ritiro del calore dalle parti esterne verso quelle interne del corpo, proprio come avviene in coloro che hanno paura. Tuttavia, nelle persone coraggiose il calore si dirige verso il cuore; mentre in coloro che hanno paura, si sposta verso le parti inferiori del corpo.
+
+Risposta all’Obiezione 2: L’oggetto dell’amore è semplicemente il bene; pertanto, se esso aumenta, anche l’amore aumenta. Ma l’oggetto del coraggio è un composto di bene e male; inoltre, l’atto di osare qualcosa che comporti il male presuppone sempre una speranza nel bene. Se quindi al pericolo venga aggiunta tanta difficoltà da sopraffare questa speranza, l’atto di coraggio non avverrà, ma fallirà. Ma se l’atto di coraggio si verifica comunque, maggiore sarà il pericolo e maggiore sarà considerato il coraggio dimostrato.
+
+Risposta all’Obiezione 3: Il dolore non genera rabbia a meno che non esista qualche speranza, come vedremo in seguito (Q[46], A[1]). Pertanto, se il pericolo fosse tale da eliminare ogni possibilità di vittoria, la rabbia non sorgerebbe. Tuttavia, è vero che, qualora la rabbia dovesse manifestarsi, ciò comporterebbe un maggiore coraggio.
+
 <span class="atom-split" data-atom="140" data-title="OF ANGER, IN ITSELF (EIGHT ARTICLES)" data-chapter="OF ANGER, IN ITSELF (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider [anger](/concepts/anger): and (1) anger in itself; (2) the cause of anger and its remedy; (3)
@@ -7404,6 +7886,19 @@ Under the first head there are eight points of inquiry:
 (6) Whether anger is more grievous than hatred?
 (7) Whether anger is only towards those with whom we have a relation of justice?
 (8) Of the species of anger.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’[ira](/concepts/anger): (1) l’ira in sé; (2) la causa dell’ira e il suo rimedio; (3) gli effetti dell’ira.  
+All’interno di questa prima categoria vi sono otto punti da esaminare:  
+(1) Se l’ira sia una passione specifica;  
+(2) Se l’oggetto dell’ira sia buono o cattivo;  
+(3) Se l’ira appartenga alla facoltà concupiscibile;  
+(4) Se l’ira sia accompagnata da un atto di ragionamento;  
+(5) Se l’ira sia più naturale del desiderio;  
+(6) Se l’ira sia più grave dell’odio;  
+(7) Se l’ira si manifesti soltanto nei confronti di coloro con i quali abbiamo un rapporto basato sulla giustizia;  
+(8) Le diverse specie di ira.
 
 <span class="atom-split" data-atom="141" data-title="Whether anger is a special passion?" data-chapter="Whether anger is a special passion?" data-kind="atom" data-srclang="en"></span>
 
@@ -7453,6 +7948,24 @@ except that of the simple colors from which they are made.
 Reply to Objection 3: Anger includes several passions, not indeed as a genus includes several
 species; but rather according to the inclusion of cause and effect.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’[rabbia](/concepts/anger) non sia una passione particolare. Infatti, il potere irascibile prende il proprio nome proprio dalla rabbia [ira]. Ma in questo potere esistono diverse passioni, non soltanto una; pertanto, la rabbia non è una passione specifica.
+
+Obiezione 2: Inoltre, per ogni passione particolare esiste una passione contraria; come è evidente analizzandole una per una. Ma nessuna passione è contraria alla rabbia, come già detto sopra (Q[23], A[3]). Pertanto, la rabbia non è considerata una passione particolare.
+
+Obiezione 3: Inoltre, una passione particolare non include un’altra. Ma la rabbia comprende diverse passioni: poiché accompagna il dolore, il piacere e la speranza, come afferma il Filosofo (Retorica ii, 2). Pertanto, la rabbia non è una passione particolare.
+
+Al contrario, Damasceno (De Fide Orth. ii, 16) definisce la rabbia una passione particolare; lo stesso fa anche [Cicerone](/figures/cicero) (De Quaest. Tusc. iv, 7).
+
+Rispondo che una cosa viene considerata generale in due modi. Primo, attraverso la predicazione; ad esempio, “animale” è un termine generico che riguarda tutti gli animali. Secondo, attraverso la causalità; ad esempio, il sole può essere considerato la causa generale di tutte le cose generate in questo mondo, secondo Dionigi di Alessandria (Divinum Nomina, iv). Poiché un genere contiene potenzialmente molte differenze, a causa della somiglianza nella materia; allo stesso modo, una causa efficiente produce molti effetti grazie alla sua forza attiva. Ora, un effetto viene prodotto dalla concomitanza di diverse cause; e poiché ogni causa rimane in qualche modo presente nel proprio effetto, possiamo dire che, in un terzo modo, un effetto derivante dalla combinazione di più cause presenta una certa generalità, poiché quelle cause esistono effettivamente all’interno di quell’effetto. Pertanto, nel primo modo, la rabbia non è considerata una passione generale, ma condivisa con le altre passioni, come già detto (Q[23], A[4]). Allo stesso modo, non lo è nemmeno nel secondo modo: poiché non costituisce una causa delle altre passioni. Ma nel terzo modo, l’amore può essere considerato una passione generale, come afferma Agostino (De Civitate Dei, xiv, 7,9), poiché è la radice primaria di tutte le altre passioni. Tuttavia, anche la rabbia può essere considerata una passione generale, in quanto deriva dalla concomitanza di diverse cause; infatti, l’insorgere della rabbia è legato a un certo dolore subito e al desiderio o alla speranza di vendetta. Come dice il Filosofo (Rhetorica, ii, 2): “L’uomo arrabbiato spera di punire; poiché desidera la vendetta come qualcosa di possibile”. Pertanto, se colui che ha inflitto il danno è particolarmente eccezionale, non sorge rabbia, ma solo tristezza, come afferma Avicenna (De Anima, iv, 6).
+
+Risposta all’Obiezione 1: Il potere irascibile prende il suo nome da “ira”, non perché ogni sua manifestazione sia un atto di rabbia; ma perché tutte le sue manifestazioni portano alla rabbia; e perché, tra queste manifestazioni, la rabbia è quella più evidente.
+
+Risposta all’Obiezione 2: Dal semplice fatto che la rabbia sia causata da passioni opposte, cioè dalla speranza, che è qualcosa di positivo, e dal dolore, che è qualcosa di negativo, essa contiene in sé stessa contrarietà; pertanto non possiede alcuna contrarietà al di fuori di sé. Allo stesso modo, nei colori misti non esiste contrarietà, se non quella dei colori semplici da cui sono composti.
+
+Risposta all’Obiezione 3: La rabbia comprende diverse passioni, non certo nel senso in cui un genere include diverse specie, ma piuttosto in base alla relazione di causa ed effetto che esiste tra queste passioni.
+
 <span class="atom-split" data-atom="142" data-title="Whether the object of anger is good or evil?" data-chapter="Whether the object of anger is good or evil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the object of [anger](/concepts/anger) is evil. For Gregory of Nyssa says
@@ -7500,6 +8013,18 @@ person, on whom it seeks to be avenged. Consequently it is a passion somewhat ma
 passions.
 This suffices for the Replies to the Objections.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’oggetto dell’[ira](/concepts/anger) sia il male. Infatti Gregorio di Nissa afferma nel *Nemesio, De Nat. Hom. xxi.* che l’ira è “il portatore di spada del desiderio”, nel senso che attacca qualsiasi ostacolo si frapponga al cammino del desiderio. Ma un ostacolo ha per natura il male; pertanto, l’ira considera il male come proprio oggetto.
+
+Obiezione 2: Inoltre, rabbia e odio condividono lo stesso effetto, poiché entrambi mirano a infliggere danno all’altro. Tuttavia, l’odio prende come oggetto il male, come già detto sopra (Q[29], A[1]). Pertanto, lo stesso vale anche per la rabbia.
+
+Obiezione 3: Inoltre, la rabbia sorge dalla tristezza; per questo il Filosofo afferma (Etica, viii, 6) che “la rabbia agisce accompagnata dalla tristezza”. Ma il male è l’oggetto della tristezza; pertanto lo è anche dell’ira.
+
+Al contrario, [Agostino](/figures/augustine) afferma (Confessioni, II, 6) che “la rabbia anela alla vendetta”. Ma il desiderio di vendetta è un desiderio di qualcosa di buono, poiché la vendetta appartiene alla giustizia. Pertanto, l’oggetto della rabbia è buono. Inoltre, la rabbia è sempre accompagnata dalla speranza, e quindi provoca piacere, come dice il Filosofo (Retorica, II, 2). Ma l’oggetto della speranza e del piacere è buono. Quindi anche la rabbia ha come oggetto il bene.
+
+Rispondo che il movimento della potenza appetitiva segue un atto della potenza apprensiva. Ora, la potenza apprensiva comprende una cosa in due modi: innanzitutto, come oggetto semplice e non complesso, quando capiamo cos’è un uomo; in secondo luogo, come oggetto complesso, quando comprendiamo che la bianchezza è presente in un uomo. Di conseguenza, in entrambi i casi, la potenza appetitiva può tendere sia verso il bene che verso il male: nel primo caso, quando l’appetito segue semplicemente ciò che è buono o si allontana da ciò che è male; movimenti di questo tipo sono desiderio, speranza, piacere, dolore, e così via. Nel secondo caso, quando l’appetito riguarda un bene o un male presente in qualcuno o compiuto su di lui, cercando di ottenerlo o di evitarlo; questo è evidente nel caso dell’amore e dell’odio: amiamo qualcuno perché desideriamo che in lui ci sia del bene; odiamo qualcuno perché desideriamo che in lui ci sia del male. Lo stesso vale per la rabbia: quando siamo arrabbiati, desideriamo vendicarci di qualcuno. Pertanto, il movimento della rabbia ha una doppia tendenza: da un lato, verso la vendetta stessa, che consideriamo un bene e per cui proviamo piacere; dall’altro lato, verso la persona contro cui cerchiamo vendetta, che rappresenta qualcosa di negativo e dannoso, quindi di male. Tuttavia, dobbiamo osservare due differenze principali tra la rabbia da un lato, e l’amore e l’odio dall’altro: la prima è che la rabbia riguarda sempre due oggetti, mentre l’amore e l’odio a volte ne riguardano uno solo; la seconda è che gli oggetti dell’amore sono sempre positivi, poiché chi ama desidera il bene per l’altra persona; gli oggetti dell’odio, invece, sono sempre negativi, poiché chi odia desidera il male per l’altra persona. La rabbia, dunque, considera un oggetto sotto l’aspetto del male, ovvero la persona che odiamo, e per questo tende verso di essa con intenti vendicativi. Questo basta per rispondere alle obiezioni sollevate.
+
 <span class="atom-split" data-atom="143" data-title="Whether anger is in the concupiscible faculty?" data-chapter="Whether anger is in the concupiscible faculty?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) is in the concupiscible faculty. For [Cicero](/figures/cicero) says (De
@@ -7540,6 +8065,24 @@ Reply to Objection 3: Anger is said to be composed of sorrow and desire, not as 
 were its parts, but because they are its causes: and it has been said above (Q[25], A[2]) that the
 concupiscible passions are the causes of the irascible passions.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’[ira](/concepts/anger) appartenga alla facoltà concupiscente. Infatti, [Cicerone](/figures/cicero) afferma (De Quaest. Tusc. iv, 9) che l’ira sia un tipo di “desiderio”, e poiché il desiderio appartiene alla facoltà concupiscente, ne consegue che anche l’ira appartenga a questa stessa facoltà.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma nella sua Regola che “l’ira si trasforma in odio”; e Cicerone dice (De Quaest. Tusc. iv, 9) che “l’odio è un’ira persistente”. Ma l’odio, come l’amore, è una passione concupiscente. Pertanto, anche l’ira appartiene alla facoltà concupiscente dell’anima.
+
+Obiezione 3: Inoltre, Damasceno (De Fide Orth. ii, 16) e Gregorio di Nissa [*Nemesio, De Nat. Hom. xxi.] affermano che “la rabbia è composta da dolore e desiderio”. Entrambi questi elementi appartengono alla facoltà concupiscibile. Pertanto, la rabbia è una passione concupiscibile.
+
+Al contrario, la facoltà concupiscente è distinta dalla facoltà irascibile. Pertanto, se la rabbia appartenesse alla facoltà concupiscente, questa non prenderebbe il proprio nome da essa.
+
+Rispondo che, come già detto sopra (Q[23], A[1]), le passioni appartenenti alla parte irascibile differiscono dalle passioni della facoltà concupiscibile: gli oggetti delle passioni concupiscibili sono il bene e il male considerati in sé stessi, mentre gli oggetti delle passioni irascibili sono il bene e il male nella loro qualità di essere difficili o ardui da ottenere. È stato inoltre affermato (A[2]) che la rabbia riguarda due oggetti: la vendetta che cerca e la persona verso cui essa è diretta; e in entrambi i casi, la rabbia richiede una certa difficoltà o arduità per manifestarsi, poiché il sentimento di rabbia non sorge se questi oggetti non presentano alcuna caratteristica particolarmente difficile da raggiungere. Come osserva il Filosofo (Rhetorica ii, 2), “non ci preoccupiamo delle cose che sono nulle o estremamente insignificanti”. È quindi evidente che la rabbia appartiene non alla facoltà concupiscibile, ma a quella irascibile.
+
+Risposta all’Obiezione 1: Cicerone attribuisce il nome di “desiderio” a qualsiasi tipo di brama per un bene futuro, senza fare distinzioni tra ciò che è arduo e ciò che non lo è. Pertanto considera la rabbia come un tipo di desiderio, in quanto essa rappresenta il desiderio di vendetta. In questo senso, tuttavia, il desiderio è comune sia alle facoltà irascibili che a quelle concupiscenti.
+
+Risposta all’Obiezione 2: Si dice che la rabbia si trasformi in odio, non nel senso che la stessa passione, che inizialmente era rabbia, diventi odio in seguito per essersi intensificata; bensì attraverso un processo causale. Infatti, quando la rabbia dura a lungo, genera odio.
+
+Risposta all’Obiezione 3: Si dice che la rabbia sia composta da tristezza e desiderio, non nel senso che queste siano le sue parti, ma perché sono le sue cause; inoltre, come già detto in precedenza (Q[25], A[2]), si afferma che le passioni concupiscenti siano le cause delle passioni irascibili.
+
 <span class="atom-split" data-atom="144" data-title="Whether anger requires an act of reason?" data-chapter="Whether anger requires an act of reason?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) does not require an act of reason. For, since anger is a
@@ -7579,6 +8122,24 @@ proves a hindrance to reason. Wherefore the Philosopher says (De Problem. iii, 2
 who are very drunk, so as to be incapable of the use of reason, do not get angry: but those who are
 slightly drunk, do get angry, through being still able, though hampered, to form a judgment of
 reason.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’[ira](/concepts/anger) non richieda un atto di ragione. Poiché l’ira è una passione, appartiene all’appetito sensibile. Ma l’appetito sensibile segue un’intuizione, non derivante dalla ragione, bensì dalle facoltà sensorie. Pertanto, l’ira non richiede un atto di ragione.
+
+Obiezione 2: Inoltre, gli animali privi di ragione manifestano segni di rabbia; pertanto, la rabbia non richiede l’intervento della ragione.
+
+Obiezione 3: Inoltre, l’ubriachezza paralizza la ragione; mentre contribuisce all’ira. Pertanto, l’ira non richiede alcun intervento della ragione.
+
+Al contrario, il Filosofo afferma (Etica, VII, 6) che “l’ira ascolta in qualche misura la ragione”.
+
+Rispondo che, come già detto sopra (A[2]), la rabbia è un desiderio di vendetta. Ora, la vendetta implica un confronto tra la punizione da infliggere e il danno arrecato; perciò il Filosofo afferma (Etica vii, 6) che “la rabbia, come se avesse tratto la conclusione di dover litigare con tale persona, si infuria immediatamente”. Ora, confrontare e trarre conclusioni è un atto della ragione. Pertanto, in qualche modo, la rabbia richiede un atto di ragione.
+
+Risposta all’Obiezione 1: Il movimento della potenza appetitiva può seguire un atto di ragione in due modi. Nel primo modo, esso segue la ragione nella misura in cui questa comanda; e quindi la volontà segue la ragione, per questo motivo viene chiamata “appetito razionale”. Nel secondo modo, esso segue la ragione nella misura in cui questa denuncia qualcosa di negativo; e quindi l’ira segue la ragione. Il Filosofo, infatti, afferma (De Problematicis, xxviii, 3) che “l’ira segue la ragione, non per obbedire al suo comando, ma perché la ragione denuncia un danno”. Poiché l’appetito sensibile è soggetto alla ragione, non direttamente, ma attraverso la volontà.
+
+Risposta all’Obiezione 2: Gli animali stupidi possiedono un istinto naturale conferito loro dalla Ragione Divina; grazie a esso sono dotati di movimenti, sia interni che esterni, simili ai movimenti razionali, come già detto sopra (Q[40], A[3]).
+
+Risposta all’Obiezione 3: Come affermato nell’Etica vii, 6, “la rabbia ascolta in parte la ragione” nel senso che questa denuncia il danno arrecato; “ma non l’ascolta completamente”, poiché non segue le regole della ragione riguardo alla misura della vendetta. Pertanto, la rabbia richiede un intervento razionale; eppure rappresenta un ostacolo allo stesso processo razionale. Per questo motivo il Filosofo afferma (De Problematis iii, 2,27) che coloro che sono completamente ubriachi, al punto di non essere in grado di utilizzare la ragione, non si arrabbiano; mentre quelli che sono leggermente ubriachi sì, poiché sono ancora in grado, sebbene con difficoltà, di formulare giudizi razionali.
 
 <span class="atom-split" data-atom="145" data-title="Whether anger is more natural than desire?" data-chapter="Whether anger is more natural than desire?" data-kind="atom" data-srclang="en"></span>
 
@@ -7640,6 +8201,24 @@ Reply to Objection 2: Reason itself belongs to the nature of man: wherefore from
 fact that anger requires an act of reason, it follows that it is, in a manner, natural to man.
 
 Reply to Objection 3: This argument regards anger and desire on the part of the object.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’[ira](/concepts/anger) non sia più naturale del desiderio. Poiché è proprio dell’uomo essere per natura un animale mite. Ma “la dolcezza è contraria all’ira”, come afferma il Filosofo (Retorica ii, 3). Pertanto, l’ira non è più naturale del desiderio; anzi, sembra addirittura del tutto innaturale per l’uomo.
+
+Obiezione 2: Inoltre, la ragione viene contrapposta alla natura: poiché quelle cose che agiscono secondo la ragione non vengono considerate come agiscano secondo la natura. Ora, “la rabbia richiede un atto di ragione, mentre il desiderio no”, come affermato nell’Etica vii, 6. Pertanto, il desiderio è più naturale della rabbia.
+
+Obiezione 3: Inoltre, la rabbia rappresenta un desiderio di vendetta; mentre il desiderio è un anelito verso quelle cose che sono particolarmente piacevoli al tatto, ovvero verso i piaceri legati al cibo e ai rapporti sessuali. Ma queste cose sono più naturali per l’uomo della vendetta. Pertanto, il desiderio è più naturale della rabbia.
+
+Al contrario, il Filosofo afferma (Etica, VII, 6) che “la rabbia è più naturale del desiderio”.
+
+Rispondo che per “naturale” intendiamo ciò che è causato dalla natura, come affermato nella Fisica ii, 1. Pertanto, la questione di sapere se una determinata passione sia più o meno naturale non può essere risolta senza considerare la sua causa. Ora, la causa di una passione, come detto sopra (Q[36], A[2]), può essere analizzata in due modi: da un lato, in relazione all’oggetto della passione; dall’altro, in relazione al soggetto che la prova. Se consideriamo la causa dell’ira e del desiderio in relazione all’oggetto, allora il desiderio, soprattutto per quanto riguarda i piaceri alimentari e quelli sessuali, è più naturale dell’ira; poiché tali piaceri sono più intrinsecamente umani della vendetta. Tuttavia, se consideriamo la causa dell’ira dal punto di vista del soggetto, allora in un certo senso l’ira è più naturale, mentre in altri contesti il desiderio lo è. La natura di un individuo può infatti essere analizzata sia in termini generici che specifici, o ancora in relazione al suo temperamento particolare. Se consideriamo la natura generica dell’uomo come essere animale, allora il desiderio è più naturale dell’ira; poiché è proprio da questa natura generica che l’uomo tende a desiderare ciò che contribuisce alla conservazione della sua vita, sia come specie che come individuo. Se invece consideriamo la natura specifica dell’uomo come essere razionale, allora l’ira è più naturale del desiderio, poiché l’ira segue più facilmente la ragione di quanto il desiderio lo faccia. Per questo motivo il Filosofo afferma nell’Etica iv, 5 che “la vendetta”, legata all’ira, “è più naturale nell’uomo della mansuetudine”: poiché è naturale per ogni essere opporsi a ciò che è contrario e dannoso. Se poi consideriamo il temperamento particolare di un individuo, allora l’ira è ancora più naturale del desiderio; poiché l’ira deriva facilmente da una tendenza innata ad arrabbiarsi, mentre il desiderio, o qualsiasi altra passione, derivano spesso da una tendenza innata a desiderare, e queste tendenze sono legate al temperamento specifico di ciascun individuo. La propensione all’ira infatti è dovuta a un temperamento bilioso; e tra tutti i umori, il bilo si muove più rapidamente, poiché è simile al fuoco. Pertanto, colui che ha un temperamento incline all’ira si arrabbia più facilmente di colui che ha un temperamento incline al desiderio; ed è per questa ragione che il Filosofo afferma nell’Etica vii, 6 che la propensione all’ira è più facile da trasmettersi dai genitori ai figli rispetto alla propensione al desiderio.
+
+Risposta all’Obiezione 1: Nell’uomo possiamo considerare sia il temperamento naturale del corpo che la ragione. Per quanto riguarda il temperamento fisico, un individuo, in sé considerato, non eccelle naturalmente sugli altri né nell’ira né in alcuna altra passione, a causa della moderazione del proprio temperamento. Tuttavia, altri animali, poiché il loro temperamento si allontana da questa moderazione e tende verso estremi, sono naturalmente portati ad eccessi di passione: il leone nell’audacia, il cane nell’ira, la lepre nella paura, e così via. Per quanto riguarda la ragione, invece, è naturale per l’uomo essere sia irato che gentile: da un lato, la ragione può provocare l’ira denunciando il danno che la causa; dall’altro, può placarla, poiché una persona arrabbiata “non ascolta perfettamente i comandi della ragione”, come già detto sopra (A[4], ad 3).
+
+Risposta all’Obiezione 2: La ragione stessa appartiene alla natura umana; pertanto, dal semplice fatto che la rabbia richieda un atto di ragionamento, ne consegue che essa sia, in qualche modo, naturale per l’uomo.
+
+Risposta all’Obiezione 3: Questo argomento riguarda la rabbia e il desiderio da parte dell’oggetto in questione.
 
 <span class="atom-split" data-atom="146" data-title="Whether anger is more grievous than hatred?" data-chapter="Whether anger is more grievous than hatred?" data-kind="atom" data-srclang="en"></span>
 
@@ -7705,6 +8284,25 @@ transitory than disposition or habit, so anger is less lasting than hatred; alth
 passion ensuing from this disposition. Hence the Philosopher says (Rhet. ii, 4) that "hatred is more
 incurable than anger."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’[ira](/concepts/anger) sia più grave dell’odio. Infatti è scritto (Proverbi 27:4) che “l’ira non ha pietà, né si placa quando esplode”. Ma l’odio a volte mostra pietà. Pertanto, l’ira è più grave dell’odio.
+
+Obiezione 2: Inoltre, è peggiore soffrire il male e dolersene, piuttosto che semplicemente soffrirlo. Ma quando un uomo odia, si accontenta se l’oggetto del suo odio subisce del male; invece, l’uomo arrabbiato non si ritiene soddisfatto finché l’oggetto della sua rabbia non ne è a conoscenza e ne soffre, come afferma il Filosofo (Retorica ii, 4). Pertanto, la rabbia è più grave dell’odio.
+
+Obiezione 3: Inoltre, una cosa sembra essere tanto più stabile quanto più elementi concorrono a stabilirla; così, un’[abitudine](/concepts/custom) diventa tanto più radicata quanto più è il risultato di numerosi atti ripetuti. Ma la rabbia è causata dalla concomitanza di diverse passioni, come detto sopra (A[1]); invece l’odio non lo è. Pertanto, la rabbia è più radicata e più grave dell’odio.
+
+Al contrario, [Agostino](/figures/augustine), nel suo “Regolamento”, paragona l’odio a “un raggio di luce” e la rabbia a “una particella di polvere”.
+
+Rispondo che la specie e la natura di una passione derivano dal suo oggetto. Ora, l’oggetto dell’ira è sostanzialmente lo stesso dell’oggetto dell’odio; infatti, proprio come colui che odia desidera il male per chi odia, così anche l’uomo arrabbiato desidera il male per colui contro cui è arrabbiato. Tuttavia esiste una differenza nell’approccio: colui che odia desidera il male come tale, mentre l’uomo arrabbiato lo desidera non in quanto male, ma nella misura in cui esso presenta aspetti positivi, cioè nella misura in cui lo considera giusto, poiché rappresenta un mezzo di vendetta. Per questo motivo è stato detto in precedenza che l’odio implica l’applicazione del male al male stesso, mentre l’ira indica l’applicazione del bene al male. È evidente quindi che cercare il male sotto l’aspetto della giustizia rappresenta un male minore rispetto al semplice desiderio di infliggere dolore a qualcuno. Infatti, desiderare il male sotto l’aspetto della giustizia può essere conforme alla virtù stessa della giustizia, se tale desiderio è in linea con l’ordine della ragione; l’ira, invece, fallisce proprio nel non seguire i precetti della ragione quando si tratta di vendicarsi. Pertanto, è chiaro che l’odio sia molto più grave e pericoloso dell’ira.
+
+Risposta all’Obiezione 1: Nella rabbia e nell’odio si possono considerare due aspetti: l’oggetto desiderato e l’intensità di quel desiderio. Per quanto riguarda l’oggetto desiderato, la rabbia mostra maggiore misericordia dell’odio. Poiché l’odio desidera il male altrui soltanto per il male stesso, non si accontenta di alcuna misura specifica di male; infatti, ciò che viene desiderato per il suo valore intrinseco è desiderato senza limiti, come afferma il Filosofo (Politica I, 3), facendo l’esempio di un avaro nei confronti della ricchezza. Per questo si legge nell’Ecclesiaste (12:16): “Un nemico, se ne trova l’occasione, non si accontenterà di versare sangue”. La rabbia, invece, cerca il male soltanto come mezzo giusto di vendetta; pertanto, quando il male inflitto supera i limiti della giustizia secondo la valutazione dell’uomo arrabbiato, allora egli mostra misericordia. Per questo il Filosofo dice (Retorica II, 4) che “l’uomo arrabbiato si placa se accadono molti mali, mentre l’odiatore non si placa mai”.  
+Per quanto riguarda l’intensità del desiderio, la rabbia esclude la misericordia in modo più radicale dell’odio; infatti, il movimento della rabbia è più impetuoso, a causa dell’infiammazione della bile. Da qui deriva anche la frase citata: “Chi può sopportare la violenza di chi viene provocato?”
+
+Risposta all’Obiezione 2: Come già detto, un uomo arrabbiato desidera il male per qualcuno, nella misura in cui tale male rappresenti un mezzo di giusta vendetta. Ora, la vendetta si realizza attraverso l’inflizione di una punizione; e la natura della punizione consiste nel essere contraria alla volontà della persona colpita, dolorosa e inflitta a causa di un errore commesso. Pertanto, un uomo arrabbiato desidera che la persona che sta ferendo provi dolore e sappia che ciò le è accaduto a causa del male che ha causato. D’altra parte, colui che odia non si cura di tutto questo, poiché desidera il male dell’altro in sé stesso. Tuttavia, non è vero che il male diventi peggiore quando provoca dolore: perché “l’ingiustizia e l’imprudenza, sebbene malvagie, essendo volontarie, non causano sofferenza a coloro contro cui si manifestano”, come osserva il Filosofo (Retorica ii, 4).
+
+Risposta all’Obiezione 3: Ciò che deriva da diverse cause appare più stabile quando queste cause sono dello stesso tipo; tuttavia può accadere che una singola causa prevarrà sulle altre. L’odio, ad esempio, nasce da una causa più duratura dell’ira: l’ira infatti scaturisce da un’emozione dell’anima dovuta a un torto subito, mentre l’odio deriva da una disposizione interiore per cui si ritiene che ciò che si odia sia contrario e dannoso. Pertanto, poiché le passioni sono più transitorie delle disposizioni o degli abiti, anche l’ira è meno duratura dell’odio; sebbene l’odio stesso sia una passione che deriva da tale disposizione. Ecco perché il Filosofo afferma (Rhetorica ii, 4) che “l’odio è più incurabile dell’ira”.
+
 <span class="atom-split" data-atom="147" data-title="Whether anger is only towards those to whom one has an obligation of justice?" data-chapter="Whether anger is only towards those to whom one has an obligation of justice?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) is not only towards those to whom one has an obligation
@@ -7754,6 +8352,22 @@ a quality as disagreeing with our disposition; and this may refer to a thing in 
 Anger, on the other hand, ensues from someone having injured us by his action. Now all actions
 are the deeds of individuals: and consequently anger is always pointed at an individual. When the
 whole state hurts us, the whole state is reckoned as one individual [*Cf. Q[29], A[6]].
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’[ira](/concepts/anger) non si diriga soltanto verso coloro nei confronti dei quali si ha un obbligo di giustizia. Infatti, non esiste alcuna giustizia tra l’uomo e gli esseri irrazionali; eppure a volte ci si arrabbia anche con questi ultimi. Per esempio, per rabbia, uno scrittore può gettare via la penna o un cavaliere può colpire il proprio cavallo. Pertanto, l’ira non riguarda soltanto coloro nei confronti dei quali si ha un obbligo di giustizia.
+
+Obiezione 2: Inoltre, “non esiste giustizia verso se stessi, né verso i propri simili” (Etica, v, 6). Tuttavia, a volte un uomo si arrabbia con se stesso; ad esempio, un pentito a causa del proprio peccato. Per questo è scritto (Salmo 4:5): “Arrabbiati, ma non pecca”. Pertanto, l’ira non riguarda soltanto coloro con i quali si ha una relazione basata sulla giustizia.
+
+Obiezione 3: Inoltre, giustizia e ingiustizia possono riguardare un singolo individuo nei confronti di un’intera classe o comunità; ad esempio, quando lo [stato](/concepts/state) danneggia un individuo. Tuttavia, l’ira non è diretta verso una classe, ma soltanto verso un individuo, come afferma il Filosofo (Retorica ii, 4). Pertanto, in senso stretto, l’ira non si rivolge verso coloro con i quali si ha un rapporto basato su giustizia o ingiustizia. Al contrario, ciò che afferma il Filosofo in questi passaggi potrebbe essere interpretato in modo opposto (Retorica ii, 2,3).
+
+Rispondo che, come già detto sopra (A[6]), la rabbia desidera il male come mezzo di giusta vendetta. Pertanto, la rabbia si rivolge verso coloro nei confronti dei quali si è giusti o ingiusti: poiché la vendetta è un atto di giustizia, e l’ingiustizia è un atto di ingiustizia. Quindi, sia dal punto di vista della causa – ovvero del danno arrecato da altri – sia da quello dell’atto di vendetta cercato dalla persona arrabbiata, è evidente che la rabbia riguarda proprio coloro nei confronti dei quali si è giusti o ingiusti.
+
+Risposta all’Obiezione 1: Come già detto sopra (A[4], ad 2), la rabbia, sebbene derivi da un atto di ragione, può comunque esistere anche negli animali privi di ragione, poiché attraverso i loro istinti naturali vengono spinti dall’immaginazione a compiere azioni simili a quelle razionali. Poiché nell’uomo coesistono sia la ragione che l’immaginazione, l’emozione della rabbia può essere suscitata in due modi: innanzitutto, quando soltanto l’immaginazione condanna l’offesa; in questo caso, l’uomo può provare rabbia anche verso esseri irrazionali o inanimati, proprio come avviene negli animali di fronte a ciò che li offende. In secondo luogo, quando è la ragione stessa a condannare l’offesa; secondo il Filosofo (Retorica ii, 3), “è impossibile arrabbiarsi contro cose insensibili o i morti”: sia perché tali esseri non provano dolore – che è proprio ciò che cerca l’uomo quando si arrabbia – sia perché non esiste alcuna possibilità di vendetta nei loro confronti, poiché non possono causarci alcun danno.
+
+Risposta all’Obiezione 2: Come afferma il Filosofo (Etica, v, 11), “in senso metaforico esistono una certa giustizia e ingiustizia tra un uomo e se stesso”, nel momento in cui la ragione governa le parti irascibili e concupiscenti dell’anima. In questo senso si dice che un uomo si vendichi su se stesso, e quindi si arrabbi con se stesso. Ma in realtà, e secondo la natura delle cose, un uomo non si arrabbia mai con se stesso.
+
+Risposta all’Obiezione 3: Il Filosofo (Retorica ii, 4) indica come una differenza tra odio e rabbia il fatto che “l’odio possa essere provato verso un intero gruppo di persone, come quando odiamo l’intera categoria dei ladri; mentre la rabbia è diretta soltanto verso un individuo”. La ragione sta nel fatto che l’odio sorge dal considerare una qualità come incompatibile con la nostra natura o disposizione interiore; ciò può riguardare sia un gruppo generale che un singolo individuo. La rabbia, invece, nasce quando qualcuno ci ha ferito con le sue azioni. Ora, poiché tutte le azioni sono compiute da individui, anche la rabbia è sempre rivolta verso un individuo specifico. Quando l’intera comunità ci danneggia, l’intera comunità viene considerata come un unico individuo [*Cfr. Q[29], A[6*.
 
 <span class="atom-split" data-atom="148" data-title="Whether the species of anger are suitably assigned?" data-chapter="Whether the species of anger are suitably assigned?" data-kind="atom" data-srclang="en"></span>
 
@@ -7813,6 +8427,31 @@ are four points of inquiry:
 (3) Of the cause of anger on the part of the angry person;
 (4) Of the cause of anger on the part of the person with whom one is angry.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Damasceno (De Fide Orth. ii, 16) assegni in modo improprio tre specie di rabbia: “ira”, “ostilità” e “rancore”. Infatti, nessun genere deriva le sue differenze specifiche da accidenti. Tuttavia, queste tre categorie si distinguono proprio in base ad accidenti: l’inizio del movimento della rabbia viene chiamato “ira”; se la rabbia persiste, viene definita “ostilità”; mentre il “rancore” è una forma di rabbia che attende l’occasione per vendicarsi. Pertanto, queste non sono vere e proprie specie distinte di rabbia.
+
+Obiezione 2: Inoltre, [Cicerone](/figures/cicero) afferma (De Quaest. Tusc. iv, 9) che “l’irascibilità è ciò che i Greci chiamano {thymosis} e rappresenta un tipo di rabbia che sorge e svanisce in modo intermittente”; mentre secondo Damasceno {thymosis} equivale al greco {kotos} [rancore]. Pertanto, {kotos} non attende il momento giusto per vendicarsi, ma si esprime nel corso del tempo.
+
+Obiezione 3: Inoltre, Gregorio (Moralia, xxi, 4) distingue tre gradi di rabbia: “rabbia senza parole”, “rabbia accompagnata da parole” e “rabbia espressa con parole complete”, corrispondenti ai tre gradi menzionati dal Signore (Matteo 5:22): “Chi si arrabbia contro suo fratello” [ciò indica la rabbia senza parole], poi “chi dice a suo fratello ‘Raca’” [ciò indica la rabbia espressa con parole, ma non completamente], e infine “chi dice ‘Stupido’” [ciò indica la rabbia espressa con parole complete]. Pertanto, la classificazione di Damasceno è imperfetta, poiché non tiene conto dell’espressione verbale.
+
+Al contrario, vi sono le affermazioni di Damaseno (*De Fide Orthodossa* ii, 16) e di Gregorio di Nissa (*Nemesio, *De Natura Homini* xxi*).
+
+Rispondo che i tipi di rabbia descritti da Damasceno e Gregorio di Nissa derivano da quelle circostanze che ne aumentano l’intensità. Ciò avviene in tre modi: innanzitutto, a causa della facilità con cui si manifesta il comportamento aggressivo; questo tipo di rabbia viene definito “cholos”, poiché si scatena rapidamente. In secondo luogo, a causa del dolore che provoca la rabbia e che rimane a lungo nella memoria; questo tipo appartiene alla categoria dei sentimenti negativi derivanti dall’ostinazione nel mantenere un atteggiamento ostile. Infine, a causa dell’obiettivo perseguito dal soggetto arrabbiato, ovvero la vendetta; questo tipo di rabbia è definito “kotos”, poiché non si placa finché non viene realizzata la rivalsa [*Cfr. Efesini 4:31: “Lasciate che ogni amarezza, ira e indignazione, scompaiano da voi”]. Per queste ragioni il Filosofo (Etica, iv, 5) definisce alcune persone arrabbiate “akrocholoi”, poiché si irritano facilmente; altre “pikroi”, poiché conservano la loro rabbia per lunghi periodi; e altre ancora “chalepoi”, poiché non trovano pace finché non hanno ottenuto soddisfazione [*Cfr. SS, Q[158], A[5.
+
+Risposta all’Obiezione 1: Tutti quegli elementi che conferiscono alla rabbia una sorta di perfezione non sono affatto casuali rispetto ad essa; pertanto, nulla impedisce loro di generare una determinata differenza specifica al suo interno.
+
+Risposta all’Obiezione 2: L’irascibilità, di cui parla Cicerone, sembra riferirsi alla prima specie di ira, quella che consiste in una certa prontezza d’indole, piuttosto che al risentimento o alla furia. Non vi è alcun motivo per cui il termine greco “thymosis”, indicato in latino con “furor”, non possa significare sia la prontezza nell’irascersi sia la determinazione a vendicarsi.
+
+Risposta all’Obiezione 3: Questi gradi vengono distinti in base ai diversi effetti dell’ira, e non in base ai livelli di perfezione nel proprio stesso manifestarsi dell’ira stessa.  
+SULLA CAUSA CHE PROVOCA L’IRA E SUI MEZZI PER CONTROLLARLA  
+(QUATTRO ARTICOLI) [*Nel testo non si fa ulteriore menzione di questi mezzi, se non nell’Articolo A[4].]  
+Ora dobbiamo considerare la causa che provoca l’ira e i modi per contrastarla. In questo ambito esistono quattro punti da analizzare:  
+(1) Il motivo dell’ira è sempre qualcosa che viene fatto contro la persona che si arrabbia?  
+(2) Il disprezzo o il rifiuto rappresentano l’unico motivo dell’ira?  
+(3) Qual è la causa dell’ira da parte della persona stessa che si arrabbia?  
+(4) Qual è la causa dell’ira da parte di quella con cui ci si scontra?
+
 <span class="atom-split" data-atom="149" data-title="Whether the motive of anger is always something done against the one who is angry?" data-chapter="Whether the motive of anger is always something done against the one who is angry?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the motive of [anger](/concepts/anger) is not always something done against the
@@ -7861,6 +8500,28 @@ own good; so that if anyone despise it, it seems as though we ourselves were des
 
 Reply to Objection 4: Silence provokes the insulter to anger when he thinks it is due to
 contempt, as though his anger were slighted: and a slight is an action.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il motivo dell’[ira](/concepts/anger) non sia sempre qualcosa che è stato fatto contro colui che si arrabbia. Infatti, l’uomo, peccando, non può fare nulla contro Dio; come recita il Libro di Giobbe (35:6): “Se i tuoi peccati aumentano, cosa potrai fare contro Lui?” Eppure Dio viene descritto come arrabbiato con l’uomo a causa del peccato, secondo il Salmo 105:40: “Il Signore era estremamente arrabbiato con il suo popolo”. Pertanto, non è sempre a causa di qualcosa che è stato fatto contro di Lui che un uomo si arrabbia.
+
+Obiezione 2: Inoltre, la rabbia è un desiderio di vendetta. Tuttavia, si può desiderare vendetta per azioni compiute contro altri. Pertanto, non siamo sempre arrabbiati a causa di qualcosa che ci è stato fatto.
+
+Obiezione 3: Inoltre, come afferma il Filosofo (Retorica ii, 2), l’uomo si arrabbia soprattutto con coloro che disprezzano ciò di cui egli nutre grande interesse; pertanto, coloro che studiano la filosofia si arrabbiano con chi disprezza la filosofia, e così via. Tuttavia, il disprezzo per la filosofia non danneggia il filosofo stesso. Quindi, non è sempre il danno arrecatoci a farci arrabbiare.
+
+Obiezione 4: Inoltre, colui che tace quando un altro lo offende, lo provoca a una rabbia ancora maggiore, come osserva Crisostomo (Hom. xxii, in Ep. ad Rom.). Tuttavia, tenendo la bocca chiusa non arreca alcun danno all’altro. Pertanto, una persona non viene sempre provocata alla rabbia da qualcosa che le viene fatto contro.
+
+Al contrario, il Filosofo afferma (Retorica ii, 4) che “l’ira deriva sempre da qualcosa che ci è stato fatto; invece l’odio può nascere anche senza che nulla ci venga fatto, poiché odiamo una persona semplicemente perché la consideriamo tale”.
+
+Rispondo che, come già detto sopra (Q[46], A[6]), la rabbia è il desiderio di ferire un altro allo scopo di una vendetta giusta. Ora, se non è stata inflitta alcuna offesa, non esiste nemmeno il problema della vendetta; inoltre, nessuna offesa induce qualcuno a cercare vendetta, se non quella che viene arrecata alla persona che desidera vendicarsi: poiché, proprio come tutto naturalmente tende al proprio bene, allo stesso modo respinge il proprio male. Tuttavia, un’offesa compiuta da chiunque non influisce su una persona a meno che non sia rivolta direttamente contro di lei. Pertanto, il motivo della rabbia di una persona è sempre qualcosa che le è stato fatto contro.
+
+Risposta all’Obiezione 1: Parliamo di ira in Dio non come di una passione dell’anima, ma come di un atto di giustizia, poiché Egli vuole vendicarsi del peccato. Poiché il peccatore, con il suo peccato, non può infliggere a Dio alcun danno reale; tuttavia, per quanto riguarda lui stesso, agisce contro Dio in due modi: innanzitutto, disprezzando i comandamenti di Dio; in secondo luogo, danneggiando se stesso o un altro, il che rappresenta un danno anche per Dio, poiché la persona danneggiata è oggetto della sua provvidenza e protezione.
+
+Risposta all’Obiezione 2: Se ci arrabbiamo con coloro che fanno del male agli altri e cerchiamo di vendicarci, è perché le persone che subiscono danno appartengono in qualche modo a noi: sia per via di legami di parentela o di [amicizia](/concepts/friendship), oppure almeno a causa della natura che abbiamo in comune.
+
+Risposta all’Obiezione 3: Quando proviamo un grande interesse per qualcosa, la consideriamo come nostro bene personale; quindi, se qualcuno la disprezza, sembra che sia noi stessi a essere disprezzati e offesi.
+
+Risposta all’Obiezione 4: Il silenzio induce l’insultatore ad arrabbiarsi quando egli ritiene che esso derivi dal disprezzo, come se la sua rabbia fosse stata offesa; e un insulto è, in fondo, un atto.
 
 <span class="atom-split" data-atom="150" data-title="Whether the sole motive of anger is slight or contempt?" data-chapter="Whether the sole motive of anger is slight or contempt?" data-kind="atom" data-srclang="en"></span>
 
@@ -7920,6 +8581,24 @@ to care little about his good or evil. Again he that hinders another from carryi
 deriving thereby any profit to himself, seems not to care much for his [friendship](/concepts/friendship). Consequently all
 those things, in so far as they are signs of contempt, provoke anger.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il disprezzo o l’insulto non siano gli unici motivi dell’[ira](/concepts/anger). Infatti, Damasceno afferma (De Fide Orth. ii, 16) che siamo arrabbiati “quando subiamo, o pensiamo di subire, un danno”. Tuttavia, è possibile subire un danno senza essere disprezzati o insultati. Pertanto, l’insulto non è l’unico motivo dell’ira.
+
+Obiezione 2: Inoltre, il desiderio di onore e il dolore provato per un insulto appartengono allo stesso soggetto. Tuttavia, gli animali muti non desiderano onore; pertanto non provano dolore quando vengono offesi. Eppure, “si infuriano quando vengono feriti”, come afferma il Filosofo (Etica, iii, 8). Quindi, un insulto non è l’unico motivo di rabbia.
+
+Obiezione 3: Inoltre, il Filosofo (Rhetorica ii, 2) enumera molte altre cause di rabbia, ad esempio: “essere dimenticati dagli altri; che gli altri gioiscano delle nostre sfortune; che vengano divulgati i nostri difetti; essere ostacolati nel fare ciò che desideriamo”. Pertanto, essere trascurati non è l’unica motivazione per provare rabbia.
+
+Al contrario, il Filosofo afferma (Retorica ii, 2) che la rabbia è “un desiderio, accompagnato dal dolore, di vendetta a causa di una presunta offesa commessa in modo indecoroso”.
+
+Rispondo che tutte le cause dell’ira si riducono alle offese. Le offese, infatti, sono di tre tipi, come indicato nella Retorica ii, 2: “disprezzo”, “trattamento sprezzante” – cioè quelli che impediscono a qualcuno di agire secondo la propria volontà – e “insolenza”. Tutti i motivi dell’ira possono essere ricondotti a questi tre tipi. Si possono addurre due ragioni a sostegno di questa tesi. Prima di tutto, perché l’ira cerca di causare danno all’altro come mezzo di vendetta giusta; pertanto, essa si manifesta quando il danno sembra giusto. Ora, la vendetta giusta viene inflitta soltanto per ciò che è stato fatto ingiustamente; quindi ciò che provoca l’ira è sempre qualcosa considerato in termini di ingiustizia. Per questo motivo il Filosofo afferma (Retorica ii, 3) che “le persone non si arrabbiano se ritengono di aver offeso qualcuno e di subire quindi una punizione meritata; poiché non c’è rabbia per ciò che è giusto”. L’offesa viene infatti inflitta in tre modi: attraverso l’ignoranza, attraverso le passioni o intenzionalmente. In particolare, si commette un’ingiustizia quando si causa danno a qualcuno con intento deliberato o malizia premeditata, come indicato nell’Etica v, 8. Per questo motivo ci arrabbiamo soprattutto con coloro che, a nostro parere, ci hanno fatto del male intenzionalmente. Se riteniamo che qualcuno ci abbia offeso per ignoranza o passione, o non ci arrabbiamo affatto, oppure lo facciamo molto meno; poiché agire per ignoranza o passione toglie alla cosa il carattere di ingiustizia e, in qualche modo, merita pietà e perdono. Al contrario, coloro che causano danno intenzionalmente sembrano peccare per disprezzo; quindi ci arrabbiamo soprattutto con loro. Per questo motivo il Filosofo afferma ancora (Retorica ii, 3) che “non ci arrabbiamo affatto, o molto poco, con coloro che agiscono per ira, poiché non sembra che abbiano agito in modo sprezzante”. La seconda ragione è che un’offesa contraddice l’eccellenza di una persona; infatti “le persone sottovalutano ciò che non merita grande attenzione” (Retorica ii, 2). Noi cerchiamo sempre qualche forma di eccellenza in tutto ciò che possediamo; pertanto, qualsiasi offesa che venga inflitta a noi e che riduca la nostra eccellenza sembra rappresentare un atto di disprezzo.
+
+Risposta all’Obiezione 1: Qualsiasi altra causa, oltre al disprezzo, attraverso la quale un uomo subisce un danno, toglie significato stesso al concetto di danno; soltanto il disprezzo o l’insulto aggiungono motivazione alla rabbia e, pertanto, costituiscono di per sé la causa della rabbia.
+
+Risposta all’Obiezione 2: Sebbene un animale muto non cerchi l’onore in sé stesso, cerca naturalmente una certa superiorità e si arrabbia di fronte a tutto ciò che potrebbe minacciarla.
+
+Risposta all’Obiezione 3: Ognuna di queste cause equivale a una sorta di disprezzo. Pertanto, l’oblio è un chiaro segno di scarsa stima per qualcuno: più pensiamo a qualcosa, più essa si imprime nella nostra memoria. Inoltre, se una persona non esita a causare dolore ad altri con le proprie parole, ciò sembra indicare che li consideri poco importanti; allo stesso modo, coloro che mostrano segni di ilarità quando un’altra persona è in difficoltà, sembrano non curarsi affatto del suo bene o del suo male. Inoltre, chi ostacola qualcuno nel realizzare i suoi desideri, senza trarne alcun vantaggio personale, probabilmente non tiene molto alla sua [amicizia](/concepts/friendship). Di conseguenza, tutte queste cose, in quanto segni di disprezzo, suscitano rabbia.
+
 <span class="atom-split" data-atom="151" data-title="Whether a man's excellence is the cause of his being angry?" data-chapter="Whether a man's excellence is the cause of his being angry?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man's excellence is not the cause of his being more easily
@@ -7963,6 +8642,22 @@ Reply to Objection 3: All these things hinder anger in so far as they hinder sor
 another respect they are naturally apt to provoke anger, because they make it more unseemly to
 insult anyone.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’eccellenza di una persona non sia la causa del fatto che si arrabbi più facilmente. Infatti, il Filosofo afferma (Retorica ii, 2) che “alcuni si arrabbiano soprattutto quando soffrono, ad esempio i malati, i poveri e coloro che sono delusi”. Ma queste caratteristiche sembrano riguardare dei difetti. Pertanto, è il difetto, piuttosto che l’eccellenza, a rendere una persona propensa all’[ira](/concepts/anger).
+
+Obiezione 2: Inoltre, il Filosofo afferma (Rhetorica ii, 2) che “alcuni sono molto propensi ad arrabbiarsi quando vengono disprezzati a causa di qualche difetto o debolezza della loro natura per cui esistono motivi di sospetto; ma se ritengono di eccellere in tali aspetti, non si arrabbiano”. Tuttavia, un sospetto del genere deriva da qualche difetto. Pertanto, è il difetto, e non l’eccellenza, a essere la causa dell’ira umana.
+
+Obiezione 3: Inoltre, tutto ciò che possiede tratti di eccellenza rende un uomo gradevole e pieno di speranza. Ma il Filosofo afferma (Retorica ii, 3) che “gli uomini non si arrabbiano quando giocano, fanno scherzi o partecipano a banchetti, né quando sono prosperi o hanno successo, né nei piaceri moderati e nelle speranze fondate”. Pertanto, l’eccellenza non è una causa di rabbia.
+
+Al contrario, il Filosofo afferma (Retorica ii, 9) che l’eccellenza rende gli uomini propensi all’ira.
+
+Rispondo che la causa dell’ira, nell’uomo che si arrabbia, può essere considerata in due modi. Primo, in relazione al motivo che scatena l’ira: in questo senso, l’eccellenza stessa è spesso motivo di irritabilità, poiché il motivo dell’ira consiste in un insulto ingiusto, come già detto (A[2]). È evidente infatti che più un uomo è eccezionale in una determinata area, più ingiusta deve essere l offesa ricevuta in quella stessa materia; per esempio, un uomo ricco a causa della sua ricchezza, o un oratore a causa del suo eloquio, e così via. Secondo, la causa dell’ira può essere considerata anche in relazione alla disposizione emotiva che il suddetto motivo provoca nell’uomo: è chiaro infatti che nulla induce l’ira se non un danno che causa dolore, e tutto ciò che ha caratteristiche negative rappresenta inevitabilmente una fonte di sofferenza; poiché le persone affette da difetti sono più facilmente ferite. Ecco perché gli uomini deboli o soggetti ad altri difetti si arrabbiano più facilmente, essendo più suscettibili al dolore. Questo basta per rispondere alla prima obiezione.
+
+Risposta all’Obiezione 2: Se un uomo viene disprezzato in una materia in cui ovviamente eccelle molto, non si considera perdente a causa di ciò e quindi non prova dolore; in questo senso è meno arrabbiato. Ma da un altro punto di vista, nella misura in cui viene disprezzato in modo ingiustificato, ha maggior motivo di essere arrabbiato. A meno che forse non ritenga che l’invidia o l’insulto derivino non dal disprezzo, ma dall’ignoranza o da qualche altra causa simile.
+
+Risposta all’Obiezione 3: Tutti questi fattori ostacolano l’ira nella misura in cui impediscono il dolore. Tuttavia, da un altro punto di vista, sono naturalmente propensi a provocare rabbia, poiché rendono ancora più indecoroso insultare qualcuno.
+
 <span class="atom-split" data-atom="152" data-title="Whether a person's defect is a reason for being more easily angry with him?" data-chapter="Whether a person's defect is a reason for being more easily angry with him?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a person's defect is not a reason for being more easily angry
@@ -8005,6 +8700,24 @@ Reply to Objection 3: To be despised by one's friends seems also a greater indig
 Consequently if they despise us by hurting or by failing to help, we are angry with them for the
 same reason for which we are angry with those who are beneath us.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un difetto di una persona non costituisca motivo per arrabbiarsi più facilmente con essa. Infatti, il Filosofo afferma (Retorica ii, 3) che “non ci arrabbiamo con coloro che confessano i propri errori, si pentono e si umiliano; anzi, siamo gentili con loro. Così come i cani non mordono coloro che si siedono”. Ma queste cose hanno un carattere di meschinità e difetto. Pertanto, la meschinità di una persona dovrebbe essere motivo per arrabbiarsi meno con essa.
+
+Obiezione 2: Inoltre, non esiste difetto più grave della morte. Tuttavia, l’[ira](/concepts/anger) si placa alla vista della morte. Pertanto, il difetto di una persona non suscita rabbia nei suoi confronti.
+
+Obiezione 3: Inoltre, nessuno considera un uomo in modo negativo solo perché è gentile con noi. Tuttavia ci arrabbiamo di più con gli amici se ci offendono o rifiutano di aiutarci; per questo si legge nel Salmo 54:13: “Se il mio nemico mi avesse insultato, davvero l’avrei sopportato”. Pertanto, un difetto di una persona non costituisce motivo per arrabbiarsi maggiormente con lei.
+
+Al contrario, il Filosofo afferma (Retorica ii, 2) che “l’uomo ricco si arrabbia con l’uomo povero se quest’ultimo lo disprezza; e allo stesso modo il principe si arrabbia con i suoi sudditi”.
+
+Rispondo che, come già detto in precedenza (AA[2],3), l’insulto ingiustificato è soprattutto ciò che provoca la rabbia. Pertanto, la mediocrità o la debolezza della persona verso cui proviamo rabbia tendono ad aumentarla, poiché contribuiscono ulteriormente all’ingiustizia dell’insulto stesso. Infatti, quanto più elevata è la posizione di una persona, tanto più ingiustamente può essere disprezzata; quanto più bassa è quella posizione, tanto meno ha motivi per disprezzare gli altri. Un nobile si arrabbia se insultato da un contadino; un uomo saggio, se insultato da uno sciocco; un padrone, se insultato da un servo.  
+Tuttavia, se la mediocrità o la debolezza della persona offesa riducono l’ingiustizia dell’insulto, allora non aumentano la rabbia, ma la attenuano. In questo modo, coloro che si pentono dei propri errori, confessano di aver commesso torti, si umiliano e chiedono scusa riescono a placare la rabbia, come recita il Proverbo 15:1: “Una risposta mite placa l’ira”, poiché sembrano non disprezzare la persona di fronte alla quale si umiliano, ma anzi stimarla molto.  
+Questo basta per rispondere alla prima obiezione.
+
+Risposta all’Obiezione 2: Ci sono due motivi per cui la rabbia scompare alla vista della morte. Il primo è che i morti sono incapaci di provare dolore o sensazioni; ed è proprio questo che le persone arrabbiate cercano nelle persone verso cui sono furiose. Il secondo motivo è che i morti sembrano aver raggiunto il limite dei mali possibili. Pertanto, la rabbia scompare nei confronti di tutte quelle persone gravemente offese, nella misura in cui tale offesa supera i limiti di una giusta rappresaglia.
+
+Risposta all’Obiezione 3: Essere disprezzati dai propri amici sembra rappresentare un’offesa ancora più grave. Pertanto, se ci disprezzano ferendoci o rifiutandosi di aiutarci, siamo arrabbiati con loro per lo stesso motivo per cui siamo arrabbiati con coloro che sono al nostro livello inferiore.
+
 <span class="atom-split" data-atom="153" data-title="OF THE EFFECTS OF ANGER (FOUR ARTICLES)" data-chapter="OF THE EFFECTS OF ANGER (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the effects of [anger](/concepts/anger): under which head there are four points of inquiry:
@@ -8012,6 +8725,14 @@ We must now consider the effects of [anger](/concepts/anger): under which head t
 (2) Whether above all it causes heat in the heart?
 (3) Whether above all it hinders the use of reason?
 (4) Whether it causes taciturnity?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare gli effetti della [rabbia](/concepts/anger): in questo ambito vi sono quattro punti da esaminare:
+(1) Se la rabbia provochi piacere;
+(2) Se, soprattutto, causi calore nel cuore;
+(3) Se, soprattutto, ostacoli l’uso della ragione;
+(4) Se induca la taciturnità.
 
 <span class="atom-split" data-atom="154" data-title="Whether anger causes pleasure?" data-chapter="Whether anger causes pleasure?" data-kind="atom" data-srclang="en"></span>
 
@@ -8054,6 +8775,24 @@ of vengeance, which banishes anger altogether.
 
 Reply to Objection 3: Pleasure that precedes hinders sorrow from ensuing, and consequently
 is a hindrance to anger. But pleasure felt in taking vengeance follows from anger.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’[rabbia](/concepts/anger) non provochi piacere, poiché il dolore esclude il piacere. Tuttavia, l’ira è sempre accompagnata dal dolore, come affermato nell’Etica vii, 6: “Chi agisce per rabbia lo fa con sofferenza”. Pertanto, l’ira non provoca piacere.
+
+Obiezione 2: Inoltre, il Filosofo afferma (Etica, iv, 5) che “la vendetta fa cessare la rabbia, poiché sostituisce il dolore con piacere”; da ciò possiamo dedurre che l’uomo arrabbiato trae piacere dalla vendetta e che questa stessa vendetta placa la sua rabbia. Pertanto, con l’avvento del piacere, la rabbia scompare; conseguentemente, la rabbia non è un effetto legato al piacere.
+
+Obiezione 3: Inoltre, nessun effetto ostacola la sua causa, poiché essa è conforme alla propria causa. Ma il piacere ostacola l’ira, come affermato nella Retorica ii, 3. Pertanto, il piacere non è un effetto dell’ira.
+
+Al contrario, il Filosofo (Etica, IV, 5) cita la frase secondo cui la rabbia è “dolce per l’anima come il miele per il palato” (Iliade, XVIII, 109 [trad. di Papa]).
+
+Rispondo che, come afferma il Filosofo (Etica, vii, 14), i piaceri, soprattutto quelli sensibili e corporei, sono rimedi contro la tristezza; pertanto, maggiore è la tristezza o l’angoscia, maggiore sarà la percezione del piacere che la guarisce, come è evidente nel caso della sete, che aumenta il piacere di bere. È chiaro, da quanto detto (Q[47], AA[1], 3), che l’ira scaturisce da un torto commesso che provoca tristezza, e per tale tristezza si cerca la vendetta come rimedio. Di conseguenza, non appena la vendetta diventa realtà, segue il piacere, e tale piacere è tanto più intenso quanto maggiore era stata la tristezza. Pertanto, se la vendetta è effettivamente presente, ne consegue un piacere perfetto che esclude completamente la tristezza, facendo cessare l’ira stessa. Tuttavia, prima che la vendetta diventi realmente realtà, essa si presenta all’uomo arrabbiato in due modi: da un lato, attraverso la speranza; poiché nessuno è arrabbiato se non spera nella vendetta, come già detto (Q[46], A[1]); dall’altro lato, attraverso il continuo pensiero ad essa, poiché per chi desidera qualcosa è piacevole soffermarsi sulle immagini di ciò che desidera; per questo motivo anche i sogni sono piacevoli. Pertanto, un uomo arrabbiato trova piacere nel pensare continuamente alla vendetta. Tuttavia, questo piacere non è perfetto, al punto da eliminare completamente la tristezza e quindi l’ira.
+
+Risposta all’Obiezione 1: L’uomo arrabbiato non prova dolore e gioia per la stessa cosa; soffre per l’ingiustizia subita, mentre trova piacere nel pensiero e nella speranza di vendetta. Pertanto, il dolore è l’inizio dell’ira; mentre il piacere ne è l’effetto o la conseguenza.
+
+Risposta all’Obiezione 2: Questo argomento è valido per il piacere derivante dalla reale attuazione della vendetta, che elimina completamente la rabbia.
+
+Risposta all’Obiezione 3: Il piacere che precede impedisce che segua il dolore, e di conseguenza rappresenta un ostacolo alla rabbia. Tuttavia, il piacere provato nell’esercitare la vendetta deriva dalla rabbia stessa.
 
 <span class="atom-split" data-atom="155" data-title="Whether anger above all causes fervor in the heart?" data-chapter="Whether anger above all causes fervor in the heart?" data-kind="atom" data-srclang="en"></span>
 
@@ -8125,6 +8864,24 @@ the former is weakened. Especially is this so if his anger in the second case be
 wrong done which aroused his former anger, will, in comparison with the second wrong, which is
 reckoned greater, seem to be of little or no account.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il calore non sia altro che l’effetto principale dell’[ira](/concepts/anger). Infatti, la passione ardente, come detto in precedenza (Q[28], A[5]; Q[37], A[2]), appartiene all’amore. Ma l’amore, come già affermato, è l’inizio e la causa di tutte le passioni. Poiché quindi la causa è più potente dell’effetto, sembra che l’ira non sia la principale causa della passione ardente.
+
+Obiezione 2: Inoltre, quelle cose che di per sé suscitano fervore aumentano con il passare del tempo; quindi l’amore diventa più forte quanto più dura. Ma col tempo la rabbia si indebolisce, poiché il Filosofo afferma (Retorica ii, 3) che “il tempo pone fine alla rabbia”. Pertanto, il fervore non è l’effetto naturale della rabbia.
+
+Obiezione 3: Inoltre, l’aggiunta di ulteriore fervore genera ancora più fervore. Tuttavia, “l’aggiunta di un’ira maggiore elimina l’ira già esistente”, come afferma il Filosofo (Retorica ii, 3). Pertanto, l’ira non causa il fervore.
+
+Al contrario, Damasceno afferma (De Fide Orth. ii, 16) che “la rabbia è un’agitazione del sangue intorno al cuore, causata dall’espulsione della bile”.
+
+Rispondo che, come già detto sopra (Q[44], A[1]), la trasformazione fisica che avviene nelle passioni dell’anima è proporzionale al movimento dell’appetito. Ora è evidente che ogni appetito, anche quello naturale, tende con maggiore forza a respingere ciò che gli è contrario, se tale cosa è presente; per questo vediamo che l’acqua calda congela più facilmente, come se il freddo agisse con maggiore intensità sull’oggetto caldo. Poiché quindi il movimento dell’appetito legato all’ira è causato da qualche offesa subita, ovvero da qualcosa di contrario che è presente, ne consegue che l’appetito tende con grande forza a respingere tale offesa attraverso il desiderio di vendetta; da ciò deriva una grande intensità e impetuosità nel movimento dell’ira. Inoltre, poiché il movimento dell’ira non è di tipo “ritirativo”, come avviene con l’azione del freddo, ma di tipo “offensivo”, come avviene con l’azione del calore, ne risulta che tale movimento provoca un riscaldamento del sangue e degli spiriti vitali intorno al cuore, che è l’organo attraverso il quale si manifestano le passioni dell’anima. Ecco perché, a causa di questo turbamento causato dall’ira nel cuore, coloro che sono particolarmente arrabbiati ne mostrano i segni nei loro membri esterni: come dice Gregorio (Moralia, v, 30), “il cuore infiammato dall’ira batte rapidamente, il corpo trema, la lingua balbetta, il volto si arroventa, gli occhi diventano feroci; le persone conosciute non vengono più riconosciute. Infatti, con la bocca si emettono suoni, ma l’intelletto non sa cosa si stia dicendo”.
+
+Risposta all’Obiezione 1: “L’amore stesso non viene percepito con tanta intensità quando l’amato è assente”, come osserva [Agostino](/figures/augustine) (De Trinitate, x, 12). Pertanto, quando un uomo soffre a causa di un danno arrecato all’eccellenza che ama, il suo amore per essa aumenta ancora di più; di conseguenza, il suo cuore si muove con maggiore fervore nel tentativo di eliminare gli ostacoli che impediscono di raggiungere l’oggetto del proprio amore. In questo modo, la rabbia intensifica la passione amorosa e ne aumenta la percezione. Tuttavia, il fervore derivante dalla rabbia differisce a seconda che si riferisca all’amore o alla rabbia stessa. Il fervore dell’amore presenta infatti una certa dolcezza e gentilezza, poiché tende verso il bene amato; per questo viene paragonato al calore dell’aria e del sangue. Per questa ragione, i temperamenti sanguigni sono più propensi all’amore; da qui l’espressione “l’amore nasce dal fegato”, poiché è proprio in quel organo che il sangue si forma. D’altra parte, il fervore della rabbia presenta una certa amarezza e tendenza distruttiva, poiché mira a vendicarsi del male subito; per questo viene paragonato al calore del fuoco e della bile. Per questa ragione, Damasceno afferma (De Fide Orthodossa, ii, 16) che tale fervore “deriva da un’espulsione della bile, da cui prende il nome ‘colea’”.
+
+Risposta all’Obiezione 2: Il tempo, necessariamente, indebolisce tutte quelle cose le cui cause vengono compromesse dal tempo stesso. È evidente che la memoria viene indebolita con il passare del tempo; infatti, gli eventi accaduti molto tempo fa tendono facilmente a sfumare dalla nostra memoria. Tuttavia, l’ira è scatenata dal ricordo di un torto subito; pertanto, la causa dell’ira si indebolisce gradualmente nel corso del tempo, fino a scomparire completamente. Inoltre, un torto sembra più grave quando viene percepito per la prima volta; la nostra valutazione di esso diminuisce progressivamente man mano che il ricordo di quel torto si allontana nel passato. Lo stesso vale per l’amore, purché la sua causa risieda esclusivamente nella memoria; per questo motivo il Filosofo afferma (Etica viii, 5) che “se l’assenza di un amico dura a lungo, sembra far dimenticare agli uomini la loro [amicizia](/concepts/friendship)”. Tuttavia, in presenza di un amico, la causa dell’amicizia viene continuamente rafforzata dal tempo; di conseguenza, l’amicizia cresce. Lo stesso vale per l’ira, se solo la sua causa venisse costantemente alimentata nel corso del tempo. Nonostante ciò, il fatto stesso che l’ira si esaurisca rapidamente dimostra la sua intensità: proprio come un grande fuoco si spegne in fretta una volta bruciato tutto il combustibile, anche l’ira, a causa della sua violenza, svanisce rapidamente.
+
+Risposta all’Obiezione 3: Ogni potere che è diviso in sé stesso si indebolisce. Pertanto, se un uomo, essendo già arrabbiato con una persona, si arrabbia anche con un’altra, proprio questo fatto indebolisce la sua rabbia verso la prima persona. Ciò vale soprattutto nel caso in cui la sua rabbia nella seconda situazione sia maggiore: infatti, l’offesa che ha scatenato la sua prima rabbia sembrerà di poca o nessuna importanza rispetto alla seconda offesa, considerata più grave.
+
 <span class="atom-split" data-atom="156" data-title="Whether anger above all hinders the use of reason?" data-chapter="Whether anger above all hinders the use of reason?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) does not hinder the use of reason. Because that which
@@ -8179,6 +8936,25 @@ unforeseen. Consequently it causes greater grief: just as a great good, through 
 unexpectedly, causes greater delight. And in proportion to the increase of the grief that precedes,
 anger is increased also.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’[ira](/concepts/anger) non ostacoli l’uso della ragione. Poiché ciò che presuppone un atto di ragione non sembra certo impedirne l’esercizio. Tuttavia, “l’ira ascolta la ragione”, come affermato nell’Etica vii, 6. Pertanto, l’ira non ostacola la ragione.
+
+Obiezione 2: Inoltre, più il ragionamento viene ostacolato, meno una persona riesce a manifestare chiaramente i propri pensieri.  
+Ma il Filosofo afferma (Etica, VII, 6) che “un uomo arrabbiato non è astuto, ma piuttosto aperto e trasparente”. Pertanto, l’ira sembra non ostacolare l’uso della ragione, a differenza del desiderio; infatti il desiderio è caratterizzato da astuzia, come egli stesso precisa (Etica, VII, 6).
+
+Obiezione 3: Inoltre, il giudizio della ragione diventa più evidente attraverso la contrapposizione dei contrari: poiché i contrari emergono in modo più chiaro quando vengono posti uno accanto all’altro. Tuttavia, ciò aumenta anche la rabbia; infatti il Filosofo afferma (Retorica ii, 2) che “le persone si arrabbiano di più quando subiscono trattamenti inaspettati; ad esempio, gli uomini onesti si arrabbiano se vengono umiliati”, e così via. Pertanto, la stessa causa che aumenta la rabbia facilita anche il giudizio della ragione. Quindi, la rabbia non ostacola il giudizio della ragione.
+
+Al contrario, Gregorio afferma (Moralia, v, 30) che la rabbia “toglie la luce della comprensione e, agitando l’intelletto, lo perturba”.
+
+Rispondo che, sebbene la mente o la ragione non utilizzino alcun organo corporeo nel proprio operare, poiché tuttavia ha bisogno di determinate facoltà sensorie per svolgere le proprie funzioni, e tali facoltà vengono ostacolate quando il corpo è disturbato, ne consegue necessariamente che qualsiasi perturbazione del corpo ostacoli anche il giudizio della ragione; come è evidente nei casi di ubriachezza o sonno. È stato inoltre affermato che la rabbia, soprattutto, provoca disturbi fisici nella regione del cuore, tali da influenzare persino gli organi esterni del corpo. Pertanto, tra tutte le passioni, la rabbia rappresenta l’ostacolo più evidente al giudizio della ragione, come si legge nel Salmo 30:10: “Il mio occhio è offuscato dalla collera”.
+
+Risposta all’Obiezione 1: L’inizio dell’ira risiede nella ragione, in relazione al movimento appetitivo che costituisce l’elemento formale dell’ira. Tuttavia, la passione dell’ira ostacola il giudizio perfetto della ragione, come se questa ascoltasse la ragione in modo imperfetto, a causa del tumulto provocato dall’impulso alla azione immediata, che rappresenta l’elemento materiale dell’ira. In questo senso, tale passione impedisce il corretto funzionamento della ragione.
+
+Risposta all’Obiezione 2: Si dice che un uomo arrabbiato agisca apertamente, non perché abbia chiara consapevolezza di ciò che dovrebbe fare, ma perché si comporta senza alcun tentativo di nascondersi. Ciò deriva in parte dal fatto che la sua capacità di ragionare è ostacolata, impedendogli di discernere cosa debba essere nascosto e cosa invece possa essere espresso apertamente, né di trovare i mezzi per celarsi; in parte, invece, si deve alla dilatazione del cuore, caratteristica della magnanimità che deriva dall’ira: per questo il Filosofo afferma, nell’Etica IV, 3, che “l’uomo magnanimo manifesta apertamente i propri odii e le proprie amicizie, parla e agisce senza riserve”. Dall’altra parte, il desiderio è considerato qualcosa di nascosto e astuto, perché in molti casi le cose desiderate sono associate a vergogna o lussuria, e quindi l’uomo non vuole essere visto mentre le persegue. Tuttavia, in quelle cose che rappresentano valori di virilità ed eccellenza, come le questioni legate alla vendetta, l’uomo preferisce agire apertamente.
+
+Risposta all’Obiezione 3: Come già detto sopra (al punto 1), il processo che porta all’ira ha inizio nella ragione; pertanto, la contrapposizione di un contrario a un altro facilita il giudizio della ragione, proprio come tale contrapposizione aumenta l’intensità dell’ira stessa. Quando una persona che possiede onore o ricchezza subisce una perdita in questi ambiti, tale perdita appare ancora più grave, sia a causa del contrasto tra ciò che si aveva e ciò che si è perso, sia perché essa era imprevista. Di conseguenza, provoca un dolore maggiore; allo stesso modo, un grande bene, ricevuto inaspettatamente, genera una gioia ancora più intensa. E proporzionalmente all’aumento del dolore che precede l’ira, anche quest’ultima si intensifica.
+
 <span class="atom-split" data-atom="157" data-title="Whether anger above all causes taciturnity?" data-chapter="Whether anger above all causes taciturnity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) does not cause taciturnity. Because taciturnity is opposed
@@ -8220,3 +8996,19 @@ that the movements of the outward members are hindered by the inordinate movemen
 Thence ensue taciturnity and immobility of the outward members; and sometimes even death. If,
 however, the disturbance be not so great, then "out of the abundance of the heart" thus disturbed,
 the mouth proceeds to speak.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’[ira](/concepts/anger) non causi la taciturnità, poiché questa è contraria al parlare. Tuttavia, un aumento dell’ira porta spesso al discorso; come è evidente dai gradi di ira indicati dal Signore (Matteo 5:22): “Chi si adira contro suo fratello”; “Chi dice a suo fratello ‘Raca’”; “Chi dice a suo fratello ‘Stupido’”. Pertanto, l’ira non induce alla taciturnità.
+
+Obiezione 2: Inoltre, non obbedendo alla ragione, l’uomo a volte pronuncia parole inadeguate; per questo si legge (Proverbi 25:28): “Come una città aperta e priva di mura, così è l’uomo che non riesce a trattenere le proprie parole”. Ma soprattutto la rabbia ostacola il giudizio della ragione, come già detto in precedenza (A[3]). Pertanto, essa induce proprio all’uso di parole inappropriate. Di conseguenza, non porta alla reticenza o al silenzio.
+
+Obiezione 3: Inoltre, è scritto (Matteo 12:34): “Dalla abbondanza del cuore la bocca parla”. Ma l’ira, soprattutto, provoca turbamenti nel cuore, come già detto in precedenza (A[2]). Pertanto, è proprio l’ira a portare alla parola; quindi non causa il silenzio.
+
+Al contrario, Gregorio afferma (Moralia, v, 30) che “quando la rabbia non si sfoga all’esterno attraverso le parole, brucia ancora più intensamente all’interno”.
+
+Rispondo che, come già detto sopra (A[3]; Q[46], A[4]), la rabbia segue sia un atto di ragione sia ostacola il funzionamento della ragione stessa; in entrambi i casi può causare la taciturnità. Da un lato, quando il giudizio razionale prevale, anche se non reprime del tutto il desiderio eccessivo di vendetta, almeno impedisce che si esprimano parole incontrollate. Per questo Gregorio afferma (Moralia, v, 30): “A volte, quando l’animo è turbato, la rabbia, come se fosse un giudizio, comanda il silenzio”. Dall’altro lato, la rabbia ostacola il ragionamento perché, come già detto sopra (A[2]), provoca disturbi nei membri esterni del corpo, soprattutto in quelli che riflettono più chiaramente le emozioni interne: occhi, volto e lingua. Per questo motivo, “la lingua balbetta, il viso si arroventa, gli occhi diventano minacciosi”. Di conseguenza, la rabbia può causare tale turbamento da privare completamente la persona della capacità di parlare; ed è proprio questa la causa della taciturnità.
+
+Risposta all’Obiezione 1: L’ira a volte arriva al punto di impedire alla ragione di controllare la lingua; ma altre volte va ancora oltre, paralizzando sia la lingua che gli altri organi esterni del corpo. E questo basta per rispondere anche alla Seconda Obiezione.
+
+Risposta all’Obiezione 3: Il disturbo del cuore può talvolta essere così intenso da ostacolare il normale funzionamento degli organi esterni a causa dei movimenti eccessivi del cuore stesso. Di conseguenza, si verificano silenzio, immobilità degli organi esterni; e in alcuni casi, persino la morte. Tuttavia, se il disturbo non è così grave, allora, “a causa dell’abbondanza di sentimenti che derivano da quel cuore disturbato”, la bocca prosegue a parlare.

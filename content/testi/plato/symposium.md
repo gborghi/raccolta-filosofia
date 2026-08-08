@@ -500,21 +500,21 @@ Say rather, beloved Agathon, that you cannot refute the truth; for Socrates is e
 
 <span class="qlang-split" data-lang="it"></span>
 
-Ma, mio caro amico, disse Socrate, non devo io, o chiunque altro, essere in imbarazzo, dovendo parlare dopo aver udito un discorso così ricco e vario? Sono soprattutto colpito dalla bellezza delle parole finali — chi potrebbe ascoltarle senza stupore? Quando riflettevo sulla smisurata inferiorità delle mie forze, ero pronto a fuggire per la vergogna, se vi fosse stata una possibilità di scampo. Poiché mi venne in mente Gorgia, e alla fine del suo discorso mi parve che Agatone brandisse contro di me il capo gorgiano o gorgoneo del grande maestro di retorica, che serviva semplicemente a mutare me e il mio discorso in pietra, come dice Omero (Odissea), e a rendermi muto. E allora mi accorsi quanto ero stato stolto ad acconsentire a prendere il mio turno con voi nel lodare l’Amore, e a dire che anch’io ero maestro nell’arte, quando in realtà non avevo alcuna idea di come si dovesse lodare qualcosa. Poiché nella mia semplicità immaginavo che gli argomenti della lode dovessero essere veri, e che, presupposto questo, l’oratore dovesse scegliere le cose migliori tra quelle vere ed esporle nel modo migliore. E mi sentivo molto orgoglioso, pensando di conoscere la natura della vera lode e che avrei parlato bene. Mentre ora vedo che l’intenzione era di attribuire ad Amore ogni specie di grandezza e gloria, gli appartenesse realmente o no, senza riguardo alla verità o alla falsità — questo non importava; poiché la proposta originaria sembra essere stata non che ciascuno di voi lodasse realmente Amore, ma solo che sembrasse lodarlo. E così attribuite ad Amore ogni forma immaginabile di lode che si possa raccogliere ovunque; e dite che “egli è tutto questo” e “la causa di tutto quello”, facendolo apparire il più bello e il migliore di tutti a coloro che non lo conoscono, perché non potete ingannare coloro che lo conoscono. E un nobile e solenne inno di lode avete intonato. Ma poiché fraintesi la natura della lode quando dissi che avrei preso il mio turno, devo pregare di essere sciolto dalla promessa fatta per ignoranza, e che (come direbbe Euripide nell’Ippolito) fu una promessa delle labbra e non della mente. Addio, allora, a un tal canto: poiché io non lodo così; no, davvero, non posso. Ma se vi piace ascoltare la verità sull’amore, sono pronto a parlare a mio modo, anche se non mi renderò ridicolo entrando in gara con voi. Di’ allora, Fedro, se vorresti avere la verità sull’amore, detta con qualsiasi parole e in qualsiasi ordine mi vengano in mente sul momento. Ti sarà gradito?
+Perché, mio caro amico, disse [Socrates](/figures/socrates), non dovrò forse io, o chiunque altro, essere in difficoltà, dovendo parlare dopo aver ascoltato un discorso così ricco e vario? Sono particolarmente colpito dalla [beauty](/concepts/beauty) delle parole conclusive — chi potrebbe ascoltarle senza stupore? Quando ho riflettuto sull’incommensurabile inferiorità delle mie forze, ero pronto a fuggire per la vergogna, se ci fosse stata una possibilità di scampo. Poiché mi venne in mente Gorgia, e alla fine del suo discorso mi parve che Agatone agitasse verso di me la testa gorgiana o gorgonea del grande maestro di retorica, che serviva semplicemente a trasformare in pietra me e il mio discorso, come dice Omero (Odissea), e a rendermi muto. E poi mi accorsi di quanto ero stolto nell’acconsentire a prendere il mio turno con voi nel lodare l’amore, e nel dire che anch’io ero maestro nell’arte, quando in realtà non avevo alcuna idea di come si dovesse lodare qualcosa. Nella mia semplicità, infatti, immaginavo che gli argomenti della lode dovessero essere veri, e che, presupposto questo, tra le cose vere l’oratore dovesse scegliere le migliori ed esporle nel modo migliore. E mi sentivo piuttosto orgoglioso, pensando che conoscevo la natura della vera lode e che avrei parlato bene. Mentre ora vedo che l’intenzione era di attribuire ad Amore ogni sorta di grandezza e di gloria, gli appartenesse davvero o no, senza riguardo alla verità o alla falsità — poco importava; poiché la proposta originaria sembra essere stata non che ciascuno di voi lodasse realmente Amore, ma solo che sembraste lodarlo. E così attribuite ad Amore ogni immaginabile forma di lode che si possa raccogliere ovunque; e dite che ‘egli è tutto questo’ e ‘la causa di tutto quello’, facendolo apparire il più bello e il migliore di tutti a coloro che non lo conoscono, poiché non potete ingannare coloro che lo conoscono. E un nobile e solenne inno di lode avete recitato. Ma poiché ho frainteso la natura della lode quando dissi che avrei preso il mio turno, devo chiedere di essere prosciolto dalla promessa che feci per ignoranza, e che (come direbbe Euripide (Eurip. Hyppolytus)) fu una promessa delle labbra e non della mente. Addio, quindi, a un tale stile: poiché io non lodo in quel modo; no, davvero, non posso. Ma se vi piace ascoltare la verità sull’amore, sono pronto a parlare a modo mio, sebbene non mi renderò ridicolo entrando in gara con voi. Di’ allora, Fedro, se ti piacerebbe avere la verità sull’amore, detta in qualsiasi parole e in qualsiasi ordine mi vengano in mente in quel momento. Ti sarà gradito?
 
-Aristodemo disse che Fedro e la compagnia lo invitarono a parlare nel modo che egli ritenesse migliore. Poi, aggiunse, permettetemi prima di rivolgere ad Agatone qualche altra domanda, affinché io possa prendere le sue ammissioni come premesse del mio discorso.
+Aristodemo disse che Fedro e la compagnia lo invitarono a parlare nel modo che riteneva migliore. Allora, aggiunse, concedetemi prima il permesso di fare ad Agatone qualche altra domanda, affinché io possa prendere le sue ammissioni come premesse del mio discorso.
 
-Concedo il permesso, disse Fedro: poni le tue domande. Socrate allora proseguì così: —
+Concedo il permesso, disse Fedro: fai le tue domande. Socrate allora proseguì così: —
 
-Nella magnifica orazione che hai appena pronunciato, credo che tu abbia avuto ragione, mio caro Agatone, nel proporre di parlare prima della natura di Amore e poi delle sue opere — è un modo di cominciare che approvo moltissimo. E poiché hai parlato così eloquentemente della sua natura, posso chiederti inoltre se l'amore è amore di qualcosa o di nulla? E qui devo spiegarmi: non voglio che tu dica che l'amore è amore di un padre o amore di una madre — ciò sarebbe ridicolo; ma che tu risponda come risponderesti, se ti chiedessi se un padre è padre di qualcosa? A questo non avresti difficoltà a rispondere: di un figlio o di una figlia: e la risposta sarebbe giusta.
+Nel magnifico discorso che hai appena pronunciato, penso che tu abbia avuto ragione, mio caro Agatone, nel proporre di parlare prima della natura di Amore e poi delle sue opere — è un modo di cominciare che approvo moltissimo. E poiché hai parlato così eloquentemente della sua natura, posso chiederti ancora se l’amore è amore di qualcosa o di nulla? E qui devo spiegarmi: non voglio che tu dica che l’amore è amore di un padre o amore di una madre — sarebbe ridicolo; ma che risponda come faresti se ti chiedessi: un padre è padre di qualcosa? a cui non avresti difficoltà a rispondere: di un figlio o di una figlia: e la risposta sarebbe giusta.
 
 Verissimo, disse Agatone.
 
 E diresti lo stesso di una madre?
 
-Acconsentì.
+Assentì.
 
-Eppure lasciate che vi faccia un'altra domanda per illustrare il mio pensiero: non è forse un fratello da considerare essenzialmente come fratello di qualcosa?
+Eppure lascia che ti faccia un’altra domanda per illustrare il mio pensiero: un fratello non è forse da considerare essenzialmente come fratello di qualcosa?
 
 Certamente, rispose.
 
@@ -522,79 +522,79 @@ Cioè, di un fratello o di una sorella?
 
 Sì, disse.
 
-E ora, disse Socrate, chiederò intorno all'Amore: — l'Amore è amore di qualcosa o di nulla?
+E ora, disse Socrate, chiederò riguardo ad Amore: — Amore è amore di qualcosa o di nulla?
 
 Di qualcosa, certamente, rispose.
 
-Tieni a mente che cosa sia questo, e dimmi ciò che voglio sapere — se l'Amore desidera ciò di cui è amore.
+Tieni a mente che cos’è questo, e dimmi ciò che voglio sapere — se Amore desidera ciò di cui è amore.
 
 Sì, certamente.
 
-E possiede egli, o non possiede, ciò che ama e desidera?
+E possiede, o non possiede, ciò che ama e desidera?
 
 Probabilmente no, direi.
 
-"Anzi," rispose Socrate, "vorrei che considerassi se 'necessariamente' non sia piuttosto la parola giusta. L'inferenza che chi desidera qualcosa manca di qualcosa, e che chi non desidera nulla non manca di nulla, è, a mio giudizio, Agatone, assolutamente e necessariamente vera. Che ne pensi?"
+Anzi, rispose Socrate, vorrei che considerassi se ‘necessariamente’ non sia piuttosto la parola giusta. L’inferenza che chi desidera qualcosa manca di qualcosa, e che chi non desidera nulla non manca di nulla, è a mio giudizio, Agatone, assolutamente e necessariamente vera. Che ne pensi?
 
-Sono d'accordo con te, disse Agatone.
+Sono d’accordo con te, disse Agatone.
 
-Molto bene. Colui che è grande, desidererebbe di essere grande, o colui che è forte, desidererebbe di essere forte?
+Benissimo. Colui che è grande desidererebbe essere grande, o colui che è forte desidererebbe essere forte?
 
-Ciò sarebbe incoerente con le nostre precedenti ammissioni.
+Ciò sarebbe in contrasto con le nostre precedenti ammissioni.
 
-Vero. Poiché chi è qualcosa non può voler essere ciò che è?
+Vero. Poiché chi è qualcosa non può volere essere ciò che è?
 
-Molto vero.
+Verissimo.
 
-Eppure, aggiunse Socrate, se un uomo, essendo forte, desiderasse essere forte, o essendo veloce desiderasse essere veloce, o essendo sano desiderasse essere sano, in quel caso si potrebbe pensare che desideri qualcosa che già possiede o è. Faccio questo esempio affinché evitiamo un equivoco. Poiché i possessori di queste qualità, Agatone, si deve supporre che abbiano i rispettivi vantaggi in quel momento, che lo vogliano o no; e chi può desiderare ciò che ha? Pertanto, quando una persona dice: “Sto bene e desidero stare bene”, oppure “Sono ricco e desidero essere ricco, e desidero semplicemente avere ciò che ho” — a costui risponderemo: “Tu, amico mio, che hai ricchezza, salute e forza, vuoi che esse continuino; poiché in questo momento, che tu lo voglia o no, le hai. E quando dici: ‘Desidero ciò che ho e nient’altro’, non intendi forse che vuoi avere in futuro ciò che ora possiedi?” Deve convenire con noi — non è vero?
+E tuttavia, aggiunse Socrate, se un uomo, essendo forte, desiderasse essere forte, o essendo veloce desiderasse essere veloce, o essendo sano desiderasse essere sano, in quel caso si potrebbe pensare che desideri qualcosa che già possiede o è. Faccio l’esempio affinché possiamo evitare un equivoco. Poiché i possessori di queste qualità, Agatone, si deve supporre che abbiano i rispettivi vantaggi in quel momento, che lo vogliano o no; e chi può desiderare ciò che ha? Perciò, quando una persona dice: sto bene e desidero stare bene, o sono ricco e desidero essere ricco, e desidero semplicemente avere ciò che ho — a costui risponderemo: ‘Tu, amico mio, avendo ricchezza e salute e forza, vuoi che esse continuino; poiché in questo momento, che tu lo voglia o no, le hai. E quando dici: desidero ciò che ho e nient’altro, non intendi forse dire che vuoi avere in futuro ciò che ora hai?’ Deve essere d’accordo con noi — non è vero?
 
 Deve, rispose Agatone.
 
-Allora, disse Socrate, egli desidera che ciò che ha al presente gli sia conservato in futuro, il che equivale a dire che desidera qualcosa che per lui è inesistente, e che ancora non possiede:
-
-Molto vero, disse.
-
-Allora lui e chiunque desidera desidera ciò che non ha già, e che è futuro e non presente, e che non ha, e non è, e di cui è privo; — queste sono le cose che l’amore e il desiderio cercano?
+Allora, disse Socrate, egli desidera che ciò che ha al presente gli sia conservato in futuro, il che equivale a dire che desidera qualcosa che per lui non esiste, e che ancora non ha:
 
 Verissimo, disse.
 
-Ora, disse Socrate, ricapitoliamo il ragionamento. Prima di tutto, non è forse l'amore amore di qualche cosa, e di qualche cosa che manca a un uomo?
+Allora egli e chiunque desidera, desidera ciò che non ha già, e che è futuro e non presente, e che non ha, e non è, e di cui manca; — questi sono il genere di cose che amore e desiderio cercano?
+
+Verissimo, disse.
+
+Ora, disse Socrate, ricapitoliamo l’argomento. Primo, non è forse amore di qualcosa, e anche di qualcosa che manca a un uomo?
 
 Sì, rispose.
 
-Ricorda inoltre ciò che dicesti nel tuo discorso, o se non lo ricordi te lo rammenterò io: dicesti che l'amore del bello pose in ordine l'impero degli dei, poiché delle cose deformi non vi è amore — non dicesti qualcosa di simile?
+Ricorda inoltre ciò che dicesti nel tuo discorso, o se non ricordi te lo ricorderò io: dicesti che l’amore del bello ordinò l’impero degli dèi, poiché delle cose brutte non vi è amore — non dicesti qualcosa del genere?
 
 Sì, disse Agatone.
 
-Sì, amico mio, e l'osservazione era giusta. E se questo è vero, Amore è amore della bellezza e non della deformità?
+Sì, amico mio, e l’osservazione era giusta. E se questo è vero, Amore è amore della bellezza e non della bruttezza?
 
-Acconsentì.
+Assentì.
 
-E l'ammissione è già stata fatta che l'Amore è amore di qualcosa che un uomo desidera e non possiede?
+E l’ammissione è già stata fatta che Amore è di qualcosa che un uomo desidera e non ha?
 
 Vero, disse.
 
-Dunque Amore desidera e non ha la bellezza?
+Allora Amore desidera la bellezza e non la possiede?
 
-Certamente, rispose lui.
+Certamente, rispose.
 
-E chiameresti bello ciò che manca di bellezza e non la possiede?
+E chiameresti bello ciò che desidera e non possiede la bellezza?
 
 Certamente no.
 
-Allora diresti ancora che l'amore è bello?
+Allora diresti ancora che Amore è bello?
 
-Agatone rispose: «Temo di non aver capito ciò che stavo dicendo.»
+Agatone rispose: Temo di non aver capito ciò che stavo dicendo.
 
-"Hai tenuto un eccellente discorso, Agatone," rispose Socrate, "ma c'è ancora una piccola domanda che vorrei volentieri rivolgerti: — il bene non è anche il bello?"
+Hai tenuto un ottimo discorso, Agatone, rispose Socrate; ma c’è ancora una piccola domanda che vorrei chiedere: — Il bene non è anche il bello?
 
-Certo.
+Sì.
 
-Allora, nel desiderare il bello, l'amore desidera anche il bene?
+Allora, desiderando il bello, Amore desidera anche il bene?
 
-Non posso confutarti, Socrate, disse Agatone: — Ammettiamo che ciò che dici sia vero.
+Non posso confutarti, Socrate, disse Agatone: — Supponiamo che ciò che dici sia vero.
 
-Di' piuttosto, amato Agatone, che non puoi confutare la verità; poiché Socrate è facilmente confutabile.
+Di’ piuttosto, amato Agatone, che non puoi confutare la verità; poiché Socrate è facile da confutare.
 
 <span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="en"></span>
 

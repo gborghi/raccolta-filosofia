@@ -1104,6 +1104,270 @@ And do not ‘will be,’ ‘will become,’ ‘will have become,’ signify a p
 
 Yes.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Forse sì, se si muove affatto.
+
+E non abbiamo già dimostrato che non può essere in nulla?
+
+Certo.
+
+Allora il suo venire all'essere in qualsiasi cosa è ancora più impossibile; non è così?
+
+Non vedo perché.
+
+Perché, infatti, ciò che viene all'essere in qualcosa, mentre ancora viene all'essere, non può trovarsi in quell'altra cosa, né essere del tutto fuori di essa, se già viene all'essere in essa.
+
+Certamente no.
+
+E quindi tutto ciò che viene ad essere in un'altra cosa deve avere parti, e allora una parte può essere dentro, e un'altra parte fuori da quell'altra; ma ciò che non ha parti non può mai, nello stesso tempo, essere né interamente dentro né interamente fuori di alcunché.
+
+Vero.
+
+E non vi è forse un'impossibilità ancora maggiore nel fatto che ciò che non ha parti e non è un tutto venga ad essere in qualche luogo, dal momento che non può venire ad essere né come parte né come tutto?
+
+Chiaramente.
+
+Allora non muta luogo ruotando nel medesimo punto, né andando da qualche parte e venendo ad essere in qualcosa; né ancora, per un mutamento in sé stesso?
+
+Molto vero.
+
+Quanto a qualsiasi specie di movimento, l'uno non è forse immobile?
+
+Immovibile. La parola implica una condizione di non-cambiamento, il congelamento del movimento nel tempo e nello spazio. Eppure, il concetto di immobilità non è così semplice come potrebbe sembrare a prima vista. Ciò che resta fermo non è necessariamente privo di movimento interiore; il silenzio di una pietra può nascondere un fermento invisibile, un'incessante attività molecolare che sfida l'apparenza della quiete. Nel regno della filosofia, l'immobilità è stata a lungo associata all'idea di una verità stabile, di un fondamento incrollabile su cui edificare il pensiero. Da Parmenide a Hegel, la ricerca di un punto fisso ha guidato le menti più grandi, spinte dal desiderio di trovare un ancoraggio in un mondo che, al contrario, sembra scorrere senza sosta. Ma è proprio questa ricerca a rivelare il paradosso: ogni tentativo di immobilizzare il reale finisce per tradirne la natura essenzialmente dinamica, fluida, incontenibile. L'immobilità, allora, non è forse una finzione necessaria? Un dispositivo concettuale che ci permette di dare forma al caos, di tracciare confini in un territorio che non li possiede? E se la verità non fosse mai stata immobile, ma solo percorsa da correnti più lente, da movimenti così impercettibili da sembrarci fermi? In verità, l'immobilità è un'illusione dello sguardo, una prospettiva che confonde la lentezza con l'assenza. Il mondo non si ferma mai; cambia solo velocità, trasformando il rapido scorrere del tempo in una presenza quasi solida, quasi eterna. E in questa presenza, l'uomo cerca rifugio, dimenticando che anche la roccia più antica è in viaggio, trascinata dalla deriva dei continenti, scolpita dal vento e dall'acqua in un processo senza fine. Così, l'immobile non è che una maschera indossata dal movimento per sfuggire alla nostra percezione limitata. È il respiro trattenuto dell'universo, l'istante in cui il tutto sembra sospeso, prima di riprendere il suo cammino. E noi, che osserviamo questa scena, non siamo che testimoni di un perpetuo divenire che solo la nostra mente riduce a staticità, per trovare conforto in ciò che sembra non mutare mai. Immovibile, quindi, non è una proprietà del mondo, ma una qualità dell'occhio che lo guarda. È il nostro bisogno di certezze proiettato sulla superficie delle cose, una mappa disegnata su un territorio che si muove continuamente sotto i nostri piedi. E forse, solo accettando questa mobilità fondamentale, possiamo finalmente comprendere che non vi è nulla di veramente fermo, e che anche l'immobilità è solo un'altra forma del viaggio.
+
+Ma nemmeno l'uno può essere in alcunché, come affermiamo?
+
+Sì, lo abbiamo detto.
+
+Allora non è mai nello stesso?
+
+Perché no?
+
+Perché se fosse nel medesimo sarebbe in qualcosa.
+
+I'm ready to translate your passage. Please provide the English text you'd like me to translate into Italian.
+
+E abbiamo detto che non poteva essere in sé, e non poteva essere in altro?
+
+Vero.
+
+Allora non si è mai nello stesso posto?
+
+Sembrerebbe di no.
+
+Ma ciò che non è mai nello stesso luogo non è mai quieto o in riposo?
+
+Mai.
+
+L'Uno, allora, come sembrerebbe, non è né in quiete né in movimento?
+
+Certamente appare che sia così.
+
+Né sarà lo stesso con sé o con l'altro; né, ancora, altro da sé o dall'altro.
+
+Come può essere?
+
+Se fosse altro da sé, sarebbe altro dall'uno, e non sarebbe uno.
+
+Vero.
+
+E se fosse lo stesso dell'altro, sarebbe quell'altro, e non sé stesso; cosicché anche su questa supposizione, non avrebbe la natura dell'uno, ma sarebbe altro dall'uno?
+
+Sarebbe.
+
+Allora non sarà lo stesso con l'altro, o altro da sé?
+
+Non sarà.
+
+Né sarà altro dall'altro, finché rimane uno; poiché non l'uno, ma solo l'altro, può essere altro dall'altro, e nient'altro.
+
+Vero.
+
+Dunque non sarà altro in virtù di essere uno?
+
+Certamente no.
+
+Ma se non in virtù dell'essere uno, non in virtù di sé; e se non in virtù di sé, non sé, e non essendo sé stesso affatto altro, non sarà altro da nulla?
+
+I'm ready. Please provide the English passage you'd like me to translate into Italian.
+
+Né l'uno sarà identico a se stesso.
+
+Come no?
+
+Certamente la natura dell'uno non è la natura del medesimo.
+
+Perché no?
+
+Non è quando una cosa diventa identica a un'altra che diventa una.
+
+E con ciò?
+
+Ciò che diventa lo stesso con i molti, necessariamente diventa molti e non uno.
+
+Vero.
+
+Ma, se non ci fosse differenza tra l'uno e lo stesso, quando una cosa divenisse la stessa, diventerebbe sempre una; e quando diventasse una, la stessa?
+
+I'm ready to translate the passage. Please provide the English text you'd like me to render in Italian.
+
+E, quindi, se l'uno è identico a se stesso, non è uno con se stesso, e sarà pertanto uno e anche non uno.
+
+Certo che è impossibile.
+
+E perciò l'uno non può essere né altro dall'altro, né identico a se stesso.
+
+Impossibile.
+
+E così l'uno non può essere né identico né diverso, né in relazione a sé né in relazione all'altro?
+
+No.
+
+Né l'uno sarà simile a qualcosa, né dissimile da sé o da altro.
+
+Perché no?
+
+Poiché la somiglianza è identità di affezioni.
+
+Certo.
+
+E si è mostrato che il medesimo è di natura distinta dall'uno?
+
+Questo è stato dimostrato.
+
+Ma se l'uno avesse qualche altra affezione oltre a quella di essere uno, sarebbe affetto in modo da essere più di uno; il che è impossibile.
+
+Vero.
+
+Allora l'uno non può mai essere affetto in modo da essere identico a un altro o a se stesso?
+
+Chiaramente no.
+
+Allora non può essere simile a un altro, né simile a se stesso?
+
+No.
+
+Né può essere affetto in modo da essere altro, perché allora sarebbe affetto in modo tale da essere più di uno.
+
+Lo sarebbe.
+
+Ciò che è affetto in modo diverso da sé o da un altro, sarà dissimile da sé o da un altro, poiché la medesimezza delle affezioni è somiglianza.
+
+Vero.
+
+Ma l'uno, come appare, non essendo mai affetto diversamente, non è mai dissimile da sé o da altro?
+
+Mai.
+
+Allora l'uno non sarà mai né simile né dissimile a sé stesso o ad altro?
+
+Evidentemente no.
+
+Inoltre, essendo di questa natura, non può essere né uguale né disuguale né a sé stesso né ad altro.
+
+Come mai?
+
+Perché mai? Perché l'uno, se è uguale, deve avere le stesse misure di ciò a cui è uguale.
+
+Vero.
+
+E se è maggiore o minore di cose che sono commensurabili con esso, l'uno avrà più misure di ciò che è minore, e meno di ciò che è maggiore?
+
+Certo.
+
+E così, delle cose che non sono commensurabili con esso, l'uno avrà misure maggiori di ciò che è minore e minori di ciò che è maggiore.
+
+I'd be happy to translate the passage, but it seems the English text you'd like translated wasn't included in your message. Could you please provide the passage you'd like me to translate into Italian?
+
+Ma come può ciò che non partecipa del medesimo avere o le medesime misure o qualcos'altro di medesimo?
+
+Impossibile.
+
+E non avendo le stesse misure, l'uno non può essere uguale né a sé stesso né ad un altro?
+
+Così pare.
+
+Ma, di nuovo, che esso abbia meno o più misure, avrà tante parti quante misure ha; e così di nuovo l'uno non sarà più uno, ma avrà tante parti quante misure.
+
+Right.
+
+E se fosse di una sola misura, sarebbe uguale a quella misura; tuttavia è stato dimostrato che è incapace di eguaglianza.
+
+Certo.
+
+Allora non parteciperà né di una misura, né di molte, né di poche, né del medesimo in alcun modo, né sarà uguale a sé stesso o ad altro; né sarà maggiore o minore di sé stesso, o di altro?
+
+I need the English passage to translate. Please provide it.
+
+Ebbene, e supponiamo che si possa essere più vecchi, o più giovani, di qualsiasi cosa, o della stessa età di essa?
+
+Perché no?
+
+Perché, ciò che è della stessa età con sé o con altro, deve partecipare dell'uguaglianza o della somiglianza di tempo; e noi dicemmo che l'uno non partecipava né di uguaglianza né di somiglianza?
+
+L'abbiamo detto.
+
+E dicemmo anche che esso non partecipava di disuguaglianza o dissimiglianza.
+
+Molto vero.
+
+Come può allora uno, essendo di questa natura, essere più vecchio o più giovane di qualsiasi cosa, o avere la stessa età di essa?
+
+In nessun modo.
+
+Allora l'uno non può essere né più vecchio né più giovane, né della stessa età, né con sé stesso né con un altro?
+
+Chiaramente no.
+
+Allora l’uno, essendo di questa natura, non può essere affatto nel tempo; infatti ciò che è nel tempo non deve forse invecchiare sempre più di sé stesso?
+
+Traduci il seguente brano inglese in italiano.
+
+E ciò che è più vecchio, deve essere sempre più vecchio di qualcosa che è più giovane?
+
+Vero.
+
+Allora, ciò che diviene più vecchio di se stesso, diviene anche allo stesso tempo più giovane di se stesso, se deve avere qualcosa rispetto a cui divenire più vecchio.
+
+Cosa vuoi dire?
+
+Voglio dire questo: — Una cosa non ha bisogno di diventare differente da un'altra cosa che è già differente; essa È differente, e se il suo differente è divenuto, è divenuta differente; se il suo differente sarà, sarà differente; ma di ciò che sta divenendo differente, non può esserci stato, né stare per esserci, né ancora esserci, un differente — l'unico differente possibile è quello che sta divenendo.
+
+Questo è inevitabile.
+
+Ma, certamente, il più vecchio è una differenza relativa al più giovane, e a nient'altro.
+
+Vero.
+
+Allora ciò che diventa più vecchio di sé stesso deve anche, allo stesso tempo, diventare più giovane di sé stesso?
+
+Certo.
+
+Ma, di nuovo, è vero che non può divenire per un tempo più lungo o più breve di sé stesso, ma deve divenire, ed essere, ed essere divenuto, e stare per essere, per lo stesso tempo con sé stesso?
+
+Anche questo è inevitabile.
+
+Allora le cose che sono nel tempo, e che partecipano del tempo, devono in ogni caso, suppongo, essere della stessa età di sé medesime; e devono anche divenire a un tempo più vecchie e più giovani di sé medesime?
+
+Certo.
+
+Ma quello non partecipava di quelle affezioni?
+
+Niente affatto.
+
+Allora non partecipa del tempo, e non è in alcun tempo?
+
+Così l'argomento mostra.
+
+Ebbene, ma le espressioni ‘era’, ‘è divenuto’ e ‘stava divenendo’ non significano forse una partecipazione del tempo passato?
+
+I'm ready to translate the passage, but I notice you haven't included the English text to translate. Please provide the passage you'd like me to translate into Italian.
+
+E non significano 'sarà', 'diventerà', 'sarà divenuto' una partecipazione del tempo futuro?
+
+Certo.
+
 <span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 And ’is,’ or ‘becomes,’ signifies a participation of present time?
@@ -1850,6 +2114,260 @@ Then when we say that the others are other than the one, and the one other than 
 
 Quite true.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Inoltre, in quanto le parti sono parti di un tutto, l'uno, in quanto tutto, sarà limitato; infatti non sono forse le parti contenute dal tutto?
+
+Certamente.
+
+E ciò che contiene è un limite?
+
+Naturalmente.
+
+Allora l'uno, se ha essere, è uno e molti, tutto e parti, avente limiti e tuttavia illimitato in numero?
+
+Chiaramente.
+
+E poiché ha limiti, ha anche estremi?
+
+Certamente.
+
+E se è un tutto, ha principio, mezzo e fine. Può infatti qualcosa essere un tutto senza questi tre? E se uno qualsiasi di essi manca a qualcosa, quella sarà ancora un tutto?
+
+No.
+
+Allora l'uno, a quanto pare, avrà principio, mezzo e fine.
+
+Lo avrà.
+
+Ma, ancora, il mezzo sarà equidistante dagli estremi; altrimenti non sarebbe nel mezzo?
+
+Sì.
+
+Allora l'uno parteciperà di figura, o rettilinea o rotonda, o un'unione delle due?
+
+Vero.
+
+E se questo è il caso, sarà sia in sé sia anche in altro.
+
+Come?
+
+Ogni parte è nel tutto, e nessuna è fuori dal tutto.
+
+Vero.
+
+E tutte le parti sono contenute dal tutto?
+
+Sì.
+
+E l'uno è tutte le sue parti, e né più né meno di tutte?
+
+No.
+
+E l'uno è il tutto?
+
+Naturalmente.
+
+Ma se tutte le parti sono nel tutto, e l'uno è tutte loro e il tutto, e sono tutte contenute dal tutto, l'uno sarà contenuto dall'uno; e così l'uno sarà in sé stesso.
+
+Questo è vero.
+
+Ma poi, ancora, il tutto non è nelle parti — né in tutte le parti, né in alcuna di esse. Infatti se è in tutte, deve essere in una; perché se ve ne fosse una in cui non è, non potrebbe essere in tutte le parti; poiché la parte in cui manca è una di tutte, e se il tutto non è in questa, come può essere in tutte?
+
+Non può.
+
+Né il tutto può essere in alcune delle parti; perché se il tutto fosse in alcune delle parti, il maggiore sarebbe nel minore, il che è impossibile.
+
+Sì, impossibile.
+
+Ma se il tutto non è né in una, né in più di una, né in tutte le parti, deve essere in qualcos'altro, o cessare di essere in alcun luogo?
+
+Certamente.
+
+Se non fosse in alcun luogo, sarebbe nulla; ma essendo un tutto, e non essendo in sé, deve essere in altro.
+
+Verissimo.
+
+L'uno allora, considerato come tutto, è in altro, ma considerato come tutte le sue parti, è in sé; e quindi l'uno deve essere esso stesso in sé stesso e anche in altro.
+
+Certamente.
+
+L'uno allora, essendo di questa natura, è necessariamente sia in riposo sia in moto?
+
+Come?
+
+L'uno è in riposo poiché è in sé stesso, perché, essendo nell'uno e non uscendo da questo, è nel medesimo, che è sé stesso.
+
+Vero.
+
+E ciò che è sempre nel medesimo, deve essere sempre in riposo?
+
+Certamente.
+
+Ebbene, e ciò che, al contrario, è sempre in altro, non deve forse mai essere nel medesimo; e se non è mai nel medesimo, mai in riposo, e se non in riposo, in moto?
+
+Vero.
+
+Allora l'uno, essendo sempre sé stesso in sé stesso e in altro, deve essere sempre sia in riposo sia in moto?
+
+Chiaramente.
+
+E deve essere il medesimo con sé stesso, e altro da sé stesso; e anche il medesimo con gli altri, e altro dagli altri; questo segue dalle sue affezioni precedenti.
+
+Come?
+
+Ogni cosa in relazione a ogni altra cosa, o è la medesima o è altra; o se non è né la medesima né altra, allora è nel rapporto di parte a tutto, o di tutto a parte.
+
+Chiaramente.
+
+E l'uno è parte di sé stesso?
+
+Certamente no.
+
+Poiché non è una parte in relazione a sé stesso, non può essere in relazione a sé stesso come tutto a parte?
+
+Non può.
+
+Ma l'uno è altro dall'uno?
+
+No.
+
+E quindi non altro da sé stesso?
+
+Certamente no.
+
+Se allora non è né altro, né un tutto, né una parte in relazione a sé stesso, non deve forse essere il medesimo con sé stesso?
+
+Certamente.
+
+Ma, ancora, una cosa che è in un altro luogo da 'sé stessa', se questo 'sé stessa' rimane nel medesimo luogo con sé stessa, deve essere altro da 'sé stessa', perché sarà in un altro luogo?
+
+Vero.
+
+Allora è stato mostrato che l'uno è insieme in sé stesso e in altro?
+
+Sì.
+
+Così, allora, a quanto pare, l'uno sarà altro da sé stesso?
+
+Vero.
+
+Ebbene, allora, se qualcosa è altro da qualcosa, non sarà forse altro da ciò che è altro?
+
+Certamente.
+
+E tutte le cose che non sono uno non saranno forse altro dall'uno, e l'uno altro dal non-uno?
+
+Naturalmente.
+
+Allora l'uno sarà altro dagli altri?
+
+Vero.
+
+Ma considera: — Il medesimo assoluto e l'altro assoluto non sono forse opposti l'uno all'altro?
+
+Naturalmente.
+
+Allora il medesimo sarà mai nell'altro, o l'altro nel medesimo?
+
+Non lo saranno.
+
+Se allora l'altro non è mai nel medesimo, non c'è nulla in cui l'altro sia durante un qualsiasi spazio di tempo; perché durante quello spazio di tempo, per quanto piccolo, l'altro sarebbe nel medesimo. Non è vero?
+
+Sì.
+
+E poiché l'altro non è mai nel medesimo, non può mai essere in alcuna cosa che è.
+
+Vero.
+
+Allora l'altro non sarà mai né nel non-uno, né nell'uno?
+
+Certamente no.
+
+Allora non per ragione di alterità l'uno è altro dal non-uno, o il non-uno altro dall'uno.
+
+No.
+
+Né per ragione di sé stessi saranno altro l'uno dall'altro, se non partecipano dell'altro.
+
+Come potrebbero essere?
+
+Ma se non sono altro, né per ragione di sé stessi né per ragione dell'altro, non sfuggiranno forse del tutto all'essere altro l'uno dall'altro?
+
+Sì.
+
+Ancora, il non-uno non può partecipare dell'uno; altrimenti non sarebbe stato non-uno, ma sarebbe stato in qualche modo uno.
+
+Vero.
+
+Né il non-uno può essere numero; perché avendo numero, non sarebbe stato affatto non-uno.
+
+Non lo sarebbe.
+
+Ancora, il non-uno è parte dell'uno; o piuttosto, non parteciperebbe in tal caso dell'uno?
+
+Lo farebbe.
+
+Se allora, da ogni punto di vista, l'uno e il non-uno sono distinti, allora né l'uno è parte o tutto del non-uno, né il non-uno è parte o tutto dell'uno?
+
+No.
+
+Ma abbiamo detto che le cose che non sono né parti né tutti l'una dell'altra, né altre l'una dall'altra, saranno la medesima l'una con l'altra: — così abbiamo detto?
+
+Sì.
+
+Allora diremo che l'uno, essendo in questa relazione con il non-uno, è il medesimo con esso?
+
+Diciamo così.
+
+Allora è il medesimo con sé stesso e con gli altri, e anche altro da sé stesso e dagli altri.
+
+Questa sembra essere l'inferenza.
+
+E sarà anche simile e dissimile da sé stesso e dagli altri?
+
+Forse.
+
+Poiché è stato mostrato che l'uno è altro dagli altri, anche gli altri saranno altro dall'uno.
+
+Sì.
+
+E l'uno è altro dagli altri nello stesso grado in cui gli altri sono altro da esso, e né più né meno?
+
+Vero.
+
+E se né più né meno, allora in un grado simile?
+
+Sì.
+
+In virtù dell'affezione per cui l'uno è altro dagli altri e gli altri in ugual modo altro da esso, l'uno sarà affetto come gli altri e gli altri come l'uno.
+
+Come vuoi dire?
+
+Posso prendere come illustrazione il caso di [names](/positions/nominalism): tu dai un nome a una cosa?
+
+Sì.
+
+E puoi dire il nome una volta o più volte?
+
+Sì.
+
+E quando lo dici una volta, menzioni ciò di cui è il nome? e quando più di una volta, è qualcos'altro che menzioni? o deve essere sempre la stessa cosa di cui parli, sia che tu pronunci il nome una volta sia più di una volta?
+
+Naturalmente è la stessa.
+
+E 'altro' non è forse un nome dato a una cosa?
+
+Certamente.
+
+Ogni volta, allora, che usi la parola 'altro', sia una volta sia più spesso, nomini ciò di cui è il nome, e a nessun'altra cosa dai il nome?
+
+Vero.
+
+Allora quando diciamo che gli altri sono altro dall'uno, e l'uno altro dagli altri, ripetendo la parola 'altro' parliamo di quella natura a cui il nome è applicato, e di nessun'altra?
+
+Verissimo.
+
 <span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Then the one which is other than others, and the other which is other than the one, in that the word ‘other’ is applied to both, will be in the same condition; and that which is in the same condition is like?
@@ -2080,6 +2598,236 @@ But, surely, that which is must always be somewhere?
 
 Yes.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Allora l'uno che è altro dagli altri, e l'altro che è altro dall'uno, in quanto la parola «altro» si applica a entrambi, saranno nella stessa condizione; e ciò che è nella stessa condizione è simile?
+
+Sì.
+
+Allora, in virtù dell'affezione per cui l'uno è altro dagli altri, ogni cosa sarà simile a ogni cosa, poiché ogni cosa è altra da ogni cosa.
+
+Vero.
+
+Ancora, il simile è opposto al dissimile?
+
+Sì.
+
+E l'altro al medesimo?
+
+Ancora vero.
+
+E l'uno è stato anche mostrato essere il medesimo degli altri?
+
+Sì.
+
+Ed essere il medesimo degli altri è l'opposto dell'essere altro dagli altri?
+
+Certamente.
+
+E in quanto era altro, fu mostrato essere simile?
+
+Sì.
+
+Ma in quanto era il medesimo, sarà dissimile in virtù dell'affezione opposta a quella che lo rendeva simile; e questa era l'affezione dell'alterità.
+
+Sì.
+
+Il medesimo, dunque, lo renderà dissimile; altrimenti non sarà l'opposto dell'altro.
+
+Vero.
+
+Allora l'uno sarà sia simile sia dissimile agli altri; simile in quanto è altro, e dissimile in quanto è il medesimo.
+
+Sì, questo argomento può essere usato.
+
+E c'è un altro argomento.
+
+Quale?
+
+In quanto è affetto nello stesso modo, non è affetto diversamente; e non essere affetto diversamente non è dissimile, e non essendo dissimile, è simile; ma in quanto è affetto dall'altro, è diversamente, ed essere affetto diversamente è dissimile.
+
+Vero.
+
+Allora, poiché l'uno è il medesimo degli altri e altro dagli altri, per l'una o l'altra di queste due ragioni, o per entrambe, sarà sia simile sia dissimile agli altri?
+
+Certamente.
+
+E allo stesso modo, essendo altro da sé e medesimo con sé, per l'una o l'altra di queste due ragioni e per entrambe, sarà simile e dissimile a sé stesso?
+
+Naturalmente.
+
+Ancora, fino a che punto l'uno può toccare o non toccare sé stesso e gli altri? — considera.
+
+Sto considerando.
+
+L'uno è stato mostrato essere in sé stesso, che era un tutto?
+
+Vero.
+
+E anche in altre cose?
+
+Sì.
+
+In quanto è nelle altre cose, toccherebbe le altre cose, ma in quanto è in sé stesso, sarebbe impedito dal toccarle, e toccherebbe solo sé stesso.
+
+Chiaramente.
+
+Allora la conclusione è che toccherebbe entrambi?
+
+Sì, lo farebbe.
+
+Ma che dici di un nuovo punto di vista? Ciò che deve toccare un altro non deve forse essere vicino a ciò che deve toccare, e occupare il luogo più prossimo a quello in cui si trova la cosa che tocca?
+
+Vero.
+
+Allora l'uno, se deve toccare sé stesso, dovrebbe essere situato vicino a sé stesso, e occupare il luogo prossimo a quello in cui esso stesso si trova?
+
+Dovrebbe.
+
+E ciò richiederebbe che l'uno fosse due, e fosse in due luoghi allo stesso tempo; e questo, mentre è uno, non accadrà mai.
+
+No.
+
+Allora l'uno non può toccare sé stesso più di quanto possa essere due?
+
+Non può.
+
+Né può toccare gli altri.
+
+Perché no?
+
+La ragione è che ciò che deve toccare un altro deve essere separato da, e vicino a, ciò che deve toccare, e nessuna terza cosa può trovarsi tra loro.
+
+Vero.
+
+Due cose, dunque, sono quanto meno necessarie per rendere possibile il contatto?
+
+Lo sono.
+
+E se alle due se ne aggiunge una terza nell'ordine dovuto, il numero dei termini sarà tre, e i contatti due?
+
+Sì.
+
+E ogni termine aggiuntivo produce un contatto aggiuntivo, da cui segue che i contatti sono di numero inferiore di uno rispetto ai termini; i primi due termini superavano il numero dei contatti di uno, e il numero totale dei termini supera il numero totale dei contatti di uno in ugual modo; e per ogni termine che viene successivamente aggiunto al numero dei termini, un contatto viene aggiunto ai contatti.
+
+Vero.
+
+Qualunque sia il numero totale delle cose, i contatti saranno sempre uno in meno.
+
+Vero.
+
+Ma se c'è solo uno, e non due, non ci sarà contatto?
+
+Come potrebbe esserci?
+
+E non diciamo forse che gli altri, essendo altro dall'uno, non sono uno e non hanno parte nell'uno?
+
+Vero.
+
+Allora non hanno numero, se non hanno in sé l'uno?
+
+Certo che no.
+
+Allora gli altri non sono né uno né due, né sono chiamati con il nome di alcun numero?
+
+No.
+
+L'uno, allora, solo è uno, e due non esistono?
+
+Chiaramente no.
+
+E se non ci sono due, non c'è contatto?
+
+Non c'è.
+
+Allora né l'uno tocca gli altri, né gli altri toccano l'uno, se non c'è contatto?
+
+Certo no.
+
+Per tutte queste ragioni l'uno tocca e non tocca sé stesso e gli altri?
+
+Vero.
+
+Inoltre, l'uno è uguale e disuguale a sé stesso e agli altri?
+
+Che intendi dire?
+
+Se l'uno fosse maggiore o minore degli altri, o gli altri maggiori o minori dell'uno, essi non sarebbero maggiori o minori gli uni degli altri in virtù dell'essere l'uno e gli altri; ma, se oltre ad essere ciò che sono avessero l'uguaglianza, sarebbero uguali gli uni agli altri, oppure se l'uno avesse la piccolezza e gli altri la grandezza, o se l'uno avesse la grandezza e gli altri la piccolezza — quello dei due che avesse la grandezza sarebbe maggiore, e quello che avesse la piccolezza sarebbe minore?
+
+Certamente.
+
+Allora esistono due tali idee come la grandezza e la piccolezza; infatti, se non esistessero, non potrebbero essere opposte l'una all'altra ed essere presenti in ciò che è.
+
+Come potrebbero?
+
+Se, dunque, la piccolezza è presente nell'uno, sarà presente o nel tutto o in una parte del tutto?
+
+Certamente.
+
+Supponi il primo caso; essa sarà o uguale e coestensiva con l'uno intero, o conterrà l'uno?
+
+Chiaramente.
+
+Se è coestensiva con l'uno, sarà uguale all'uno, oppure, se contiene l'uno, sarà maggiore dell'uno?
+
+Naturalmente.
+
+Ma può la piccolezza essere uguale a qualcosa o maggiore di qualcosa, e avere le funzioni della grandezza e dell'uguaglianza e non le proprie funzioni?
+
+Impossibile.
+
+Allora la piccolezza non può essere nell'intero dell'uno, ma, se mai, solo in una parte?
+
+Sì.
+
+E certamente non in tutta una parte, perché allora si ripresenterà la difficoltà del tutto; essa sarà uguale o maggiore di qualsiasi parte in cui si trovi.
+
+Certamente.
+
+Allora la piccolezza non sarà in alcuna cosa, né in un tutto né in una parte; né vi sarà alcunché di piccolo se non la piccolezza stessa.
+
+Vero.
+
+Né la grandezza sarà nell'uno, perché se la grandezza è in qualcosa, vi sarà qualcosa di maggiore, altro e oltre la grandezza stessa, cioè ciò in cui la grandezza si trova; e questo anche quando il piccolo stesso non è presente, che l'uno, se è grande, deve superare; questo, tuttavia, è impossibile, visto che la piccolezza è del tutto assente.
+
+Vero.
+
+Ma la grandezza assoluta è maggiore solo della piccolezza assoluta, e la piccolezza è minore solo della grandezza assoluta.
+
+Verissimo.
+
+Allora le altre cose non sono maggiori o minori dell'uno, se non hanno né grandezza né piccolezza; né la grandezza o la piccolezza hanno alcun potere di superare o essere superate in relazione all'uno, ma solo in relazione l'una con l'altra; né l'uno sarà maggiore o minore di esse o degli altri, se non ha né grandezza né piccolezza.
+
+Chiaramente no.
+
+Allora se l'uno non è né maggiore né minore degli altri, non può né superarli né essere superato da essi?
+
+Certo no.
+
+E ciò che non supera né è superato, deve essere in condizione di uguaglianza; ed essendo in condizione di uguaglianza, deve essere uguale.
+
+Naturalmente.
+
+E questo sarà vero anche della relazione dell'uno con sé stesso; non avendo in sé né grandezza né piccolezza, non supererà né sarà superato da sé stesso, ma sarà in condizione di uguaglianza con sé stesso e uguale a sé stesso.
+
+Certamente.
+
+Allora l'uno sarà uguale sia a sé stesso sia agli altri?
+
+Chiaramente sì.
+
+Eppure l'uno, essendo esso stesso in sé stesso, circonderà anche sé stesso e sarà fuori di sé; e, in quanto contiene sé stesso, sarà maggiore di sé stesso; e, in quanto è contenuto in sé stesso, sarà minore; e così sarà maggiore e minore di sé stesso.
+
+Lo sarà.
+
+Ora, non può esserci alcunché che non sia incluso nell'uno e negli altri?
+
+Certo che no.
+
+Ma, certamente, ciò che è deve sempre essere in qualche luogo?
+
+Sì.
+
 <span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 But that which is in anything will be less, and that in which it is will be greater; in no other way can one thing be in another.
@@ -2278,6 +3026,204 @@ Then the one is of the same age with all the others, so that if the one itself d
 
 Certainly.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ma ciò che è in qualcosa sarà minore, e ciò in cui è sarà maggiore; in nessun altro modo una cosa può essere in un’altra.
+
+Vero.
+
+E poiché non c’è nient’altro oltre all’uno e agli altri, ed essi devono essere in qualcosa, non devono forse essere l’uno nell’altro, l’uno negli altri e gli altri nell’uno, se devono essere da qualche parte?
+
+È chiaro.
+
+Ma in quanto l’uno è negli altri, gli altri saranno più grandi dell’uno, perché contengono l’uno, che sarà minore degli altri, perché è contenuto in essi; e in quanto gli altri sono nell’uno, l’uno per lo stesso principio sarà più grande degli altri, e gli altri minori dell’uno.
+
+Vero.
+
+L’uno, dunque, sarà uguale, più grande e più piccolo di sé stesso e degli altri?
+
+Chiaramente.
+
+E se è più grande, più piccolo e uguale, avrà misure o divisioni uguali, più numerose e meno numerose di sé stesso e degli altri; e se misure, anche parti?
+
+Certamente.
+
+E se ha misure o divisioni uguali, più numerose e meno numerose, sarà per numero più o meno di sé stesso e degli altri, e ugualmente uguale per numero a sé stesso e agli altri?
+
+Come?
+
+Avrà più misure di quelle cose che supera, e tante parti quante misure; e così rispetto a ciò a cui è uguale, e a ciò di cui è minore.
+
+Vero.
+
+Ed essendo più grande e più piccolo di sé stesso, e uguale a sé stesso, avrà misure uguali a sé stesso e più e meno misure di sé stesso; e se misure, allora anche parti?
+
+Lo avrà.
+
+Ed essendo di parti uguali a sé stesso, sarà numericamente uguale a sé stesso; ed essendo di più parti, più grande, ed essendo di meno parti, più piccolo di sé stesso?
+
+Certamente.
+
+E lo stesso varrà per il suo rapporto con le altre cose: in quanto è più grande di esse, sarà più numeroso di esse; in quanto è più piccolo, sarà meno numeroso; e in quanto è uguale in grandezza alle altre cose, sarà uguale a esse per numero.
+
+Certamente.
+
+Ancora una volta, quindi, come sembrerebbe, l’uno sarà per numero tanto uguale quanto più e meno di sé stesso e di tutte le altre cose.
+
+Lo sarà.
+
+L’uno partecipa anche del tempo? Ed è e diventa più vecchio e più giovane di sé stesso e degli altri, e di nuovo, né più giovane né più vecchio di sé stesso e degli altri, in virtù della partecipazione al tempo?
+
+Come intendi?
+
+Se l’uno è, l’essere deve essere predicato di esso?
+
+Sì.
+
+Ma l’essere (einai) è solo partecipazione all’essere nel tempo presente, e l’essere stato è partecipazione all’essere in un tempo passato, e l’essere per essere è partecipazione all’essere in un tempo futuro?
+
+Verissimo.
+
+Allora l’uno, poiché partecipa dell’essere, partecipa del tempo?
+
+Certamente.
+
+E il tempo non avanza sempre?
+
+Sì.
+
+Allora l’uno diventa sempre più vecchio di sé stesso, poiché avanza nel tempo?
+
+Certamente.
+
+E ricordi che il più vecchio diventa più vecchio di ciò che diventa più giovane?
+
+Ricordo.
+
+Allora, poiché l’uno diventa più vecchio di sé stesso, diventa più giovane allo stesso tempo?
+
+Certamente.
+
+Così, dunque, l’uno diventa più vecchio e anche più giovane di sé stesso?
+
+Sì.
+
+Ed è più vecchio (non è vero?) quando, nel divenire, arriva al punto del tempo tra ‘era’ e ‘sarà’, che è ‘ora’: poiché certamente andando dal passato al futuro, non può saltare il presente?
+
+No.
+
+E quando arriva al presente cessa di diventare più vecchio, e non diventa più, ma è più vecchio, perché se continuasse non sarebbe mai raggiunto dal presente, poiché è natura di ciò che avanza toccare sia il presente che il futuro, lasciando il presente e afferrando il futuro, mentre è nel processo del divenire tra di essi.
+
+Vero.
+
+Ma ciò che diventa non può saltare il presente; quando raggiunge il presente cessa di diventare, ed è allora qualunque cosa stia per diventare.
+
+Chiaramente.
+
+E così l’uno, quando nel diventare più vecchio raggiunge il presente, cessa di diventare, ed è allora più vecchio.
+
+Certamente.
+
+Ed è più vecchio di ciò di cui stava diventando più vecchio, e stava diventando più vecchio di sé stesso.
+
+Sì.
+
+E ciò che è più vecchio è più vecchio di ciò che è più giovane?
+
+Vero.
+
+Allora l’uno è più giovane di sé stesso, quando nel diventare più vecchio raggiunge il presente?
+
+Certamente.
+
+Ma il presente è sempre presente con l’uno durante tutto il suo essere; poiché ogni volta che è, è sempre ora.
+
+Certamente.
+
+Allora l’uno è sempre e diventa più vecchio e più giovane di sé stesso?
+
+Veramente.
+
+Ed è o diventa per un tempo più lungo di sé stesso o per un tempo uguale a sé stesso?
+
+Un tempo uguale.
+
+Ma se diventa o è per un tempo uguale a sé stesso, è della stessa età di sé stesso?
+
+Certamente.
+
+E ciò che è della stessa età non è né più vecchio né più giovane?
+
+No.
+
+L’uno, dunque, diventando ed essendo nello stesso tempo di sé stesso, non è né diventa più vecchio o più giovane di sé stesso?
+
+Direi di no.
+
+E quali sono i suoi rapporti con le altre cose? È o diventa più vecchio o più giovane di esse?
+
+Non posso dirtelo.
+
+Puoi almeno dirmi che gli altri oltre all’uno sono più dell’uno — altro sarebbe stato uno, ma gli altri hanno moltitudine, e sono più di uno?
+
+Avranno moltitudine.
+
+E una moltitudine implica un numero più grande di uno?
+
+Certamente.
+
+E diremo che il minore o il maggiore è il primo a venire o a essere venuto all’esistenza?
+
+Il minore.
+
+Allora il minimo è il primo? E quello è l’uno?
+
+Sì.
+
+Allora l’uno, tra tutte le cose che hanno numero, è il primo a venire all’essere; ma tutte le altre cose hanno anche numero, essendo plurali e non singolari.
+
+Lo hanno.
+
+E poiché è venuto all’essere per primo, si deve supporre che sia venuto all’essere prima degli altri, e gli altri dopo; e le cose che sono venute all’essere dopo sono più giovani di ciò che le ha precedute? E così le altre cose saranno più giovani dell’uno, e l’uno più vecchio delle altre cose?
+
+Vero.
+
+Che diresti di un’altra questione? L’uno può essere venuto all’essere contro la propria natura, o è impossibile?
+
+Impossibile.
+
+Eppure, certamente, si è mostrato che l’uno ha parti; e se ha parti, allora un principio, un mezzo e una fine?
+
+Sì.
+
+E un principio, sia dell’uno stesso che di tutte le altre cose, viene all’essere prima di tutto; e dopo il principio, le altre cose seguono, finché non si giunge alla fine?
+
+Certamente.
+
+E tutte queste altre cose affermeremo che sono parti del tutto e dell’uno, il quale, non appena si è raggiunta la fine, è diventato tutto e uno?
+
+Sì; è quello che diremo.
+
+Ma la fine viene per ultima, e l’uno è di tale natura da venire all’essere con l’ultima; e, poiché l’uno non può venire all’essere se non secondo la propria natura, la sua natura richiederà che venga all’essere dopo gli altri, simultaneamente alla fine.
+
+Chiaramente.
+
+Allora l’uno è più giovane degli altri e gli altri più vecchi dell’uno.
+
+Anche questo è chiaro a mio giudizio.
+
+Ebbene, un principio o qualsiasi altra parte dell’uno o di qualsiasi cosa, se è una parte e non parti, essendo una parte, non deve anche essere necessariamente uno?
+
+Certamente.
+
+E l’uno non verrà all’essere insieme a ciascuna parte — insieme alla prima parte quando essa viene all’essere, e insieme alla seconda parte e a tutte le altre, e non mancherà a nessuna parte che si aggiunge a qualsiasi altra parte finché non ha raggiunto l’ultima e non è diventato un tutto uno; non mancherà né al mezzo, né al principio, né alla fine, né a nessuna di esse, mentre il processo del divenire è in corso?
+
+Vero.
+
+Allora l’uno è della stessa età di tutti gli altri, così che, se l’uno stesso non contraddice la propria natura, non sarà né anteriore né posteriore agli altri, ma simultaneo; e secondo questo argomento l’uno non sarà né più vecchio né più giovane degli altri, né gli altri dell’uno; ma secondo l’argomento precedente l’uno sarà più vecchio e più giovane degli altri, e gli altri dell’uno.
+
+Certamente.
+
 <span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 After this manner then the one is and has become. But as to its becoming older and younger than the others, and the others than the one, and neither older nor younger, what shall we say? Shall we say as of being so also of becoming, or otherwise?
@@ -2441,6 +3387,170 @@ And on the same principle, in the passage from one to many and from many to one,
 True.
 
 All these, then, are the affections of the one, if the one has being.
+
+<span class="qlang-split" data-lang="it"></span>
+
+In questo modo, dunque, l'uno è ed è divenuto. Ma quanto al suo divenire più vecchio e più giovane degli altri, e degli altri rispetto all'uno, e né più vecchio né più giovane, che cosa diremo? Diremo come dell'essere così anche del divenire, o altrimenti?
+
+Non posso rispondere.
+
+Ma posso osare dire che, anche se una cosa fosse più vecchia o più giovane di un'altra, non potrebbe divenire più vecchia o più giovane in grado maggiore di quanto non fosse all'inizio; infatti gli eguali aggiunti agli ineguali, sia a periodi di tempo sia a qualsiasi altra cosa, lasciano la differenza tra loro la stessa di prima.
+
+Certo.
+
+Allora ciò che è non può divenire più vecchio o più giovane di ciò che è, poiché la differenza di età è sempre la stessa; l'uno è ed è divenuto più vecchio, e l'altro più giovane; ma non stanno più divenendo tali.
+
+Vero.
+
+E l'uno che è non diviene pertanto né più vecchio né più giovane degli altri che sono.
+
+No.
+
+Ma considera se essi non possano divenire più vecchi e più giovani in un altro modo.
+
+In che modo?
+
+Proprio come fu dimostrato che l'uno era più vecchio degli altri e gli altri più vecchi dell'uno.
+
+E che cosa segue da ciò?
+
+Se l'uno è più vecchio degli altri, è venuto all'essere da più tempo degli altri.
+
+Sì.
+
+Ma considera di nuovo; se aggiungiamo tempo eguale a un tempo maggiore e a un tempo minore, il maggiore differirà dal minore per una porzione eguale o per una porzione più piccola di prima?
+
+Per una porzione più piccola.
+
+Allora la differenza tra l'età dell'uno e l'età degli altri non sarà in seguito così grande come all'inizio, ma se si aggiunge a entrambi un tempo eguale, differiranno sempre meno per età?
+
+Sì.
+
+E ciò che differisce per età da un altro meno di prima, da più vecchio che era diventerà più giovane in relazione a quell'altro rispetto al quale era più vecchio?
+
+Sì, più giovane.
+
+E se l'uno diventa più giovane, gli altri suddetti diventeranno più vecchi di quanto non fossero prima, in relazione all'uno.
+
+Certamente.
+
+Allora ciò che era divenuto più giovane diventa più vecchio relativamente a ciò che prima era divenuto ed era più vecchio; non è mai realmente più vecchio, ma sta sempre divenendo, poiché l'uno cresce sempre dal lato della giovinezza e l'altro dal lato della vecchiaia. E similmente il più vecchio è sempre in processo di divenire più giovane del più giovane; poiché, andando sempre in direzioni opposte, divengono in modi opposti l'uno all'altro, il più giovane più vecchio del più vecchio, e il più vecchio più giovane del più giovane. Non possono tuttavia essere divenuti; infatti, se fossero già divenuti, sarebbero, e non semplicemente divenirebbero. Ma ciò è impossibile; poiché essi stanno sempre divenendo entrambi più vecchi e più giovani l'uno dell'altro: l'uno diventa più giovane degli altri perché fu visto essere più vecchio e anteriore, e gli altri diventano più vecchi dell'uno perché vennero all'essere più tardi; e allo stesso modo gli altri stanno nella stessa relazione rispetto all'uno, perché furono visti essere più vecchi e anteriori all'uno.
+
+Ciò è chiaro.
+
+Poiché, quindi, una cosa non diventa più vecchia o più giovane di un'altra, in quanto esse differiscono sempre l'una dall'altra di una quantità eguale, l'uno non può diventare più vecchio o più giovane degli altri, né gli altri dell'uno; ma in quanto ciò che venne all'essere prima e ciò che venne all'essere dopo devono continuamente differire l'uno dall'altro per una porzione diversa — da questo punto di vista gli altri devono diventare più vecchi e più giovani dell'uno, e l'uno degli altri.
+
+Certamente.
+
+Per tutte queste ragioni, allora, l'uno è e diventa più vecchio e più giovane di se stesso e degli altri, e né è né diventa più vecchio o più giovane di se stesso o degli altri.
+
+Certamente.
+
+Ma poiché l'uno partecipa del tempo, e partecipa del divenire più vecchio e più giovane, non deve forse partecipare anche del passato, del presente e del futuro?
+
+Certo che deve.
+
+Allora l'uno era, è e sarà; e diveniva, diviene e diverrà.
+
+Certamente.
+
+E vi è, vi era e vi sarà qualcosa che è in relazione con esso e gli appartiene?
+
+Vero.
+
+E poiché in questo momento abbiamo opinione, conoscenza e percezione dell'uno, vi è opinione, conoscenza e percezione di esso?
+
+Proprio così.
+
+Allora vi sono nome ed espressione per esso, ed esso è nominato ed espresso, e ogni cosa di questo genere che appartiene alle altre cose appartiene all'uno.
+
+Certamente, è vero.
+
+Ancora una volta, e per la terza volta, consideriamo: se l'uno è insieme uno e molti, come abbiamo descritto, e non è né uno né molti, e partecipa del tempo, non deve forse, in quanto è uno, partecipare talvolta dell'essere, e in quanto non è uno, talvolta non partecipare dell'essere?
+
+Certamente.
+
+Ma può partecipare dell'essere quando non ne partecipa, o non partecipare dell'essere quando ne partecipa?
+
+Impossibile.
+
+Allora l'uno partecipa e non partecipa dell'essere in tempi diversi, poiché questo è l'unico modo in cui può partecipare e non partecipare della stessa cosa.
+
+Vero.
+
+E non vi è anche un tempo in cui esso assume l'essere e abbandona l'essere — poiché come può avere e non avere la stessa cosa, se non la riceve e anche la cede in qualche tempo?
+
+Impossibile.
+
+E l'assumere l'essere è ciò che chiameresti divenire?
+
+Lo chiamerei.
+
+E l'abbandonare l'essere lo chiameresti distruzione?
+
+Lo chiamerei.
+
+L'uno allora, come sembrerebbe, diviene ed è distrutto prendendo e cedendo l'essere.
+
+Certamente.
+
+Ed essendo uno e molti, e in processo di divenire e di essere distrutto, quando diventa uno cessa di essere molti, e quando diventa molti cessa di essere uno?
+
+Certamente.
+
+E mentre diventa uno e molti, non deve forse inevitabilmente subire separazione e aggregazione?
+
+Inevitabilmente.
+
+E ogni volta che diventa simile e dissimile, deve essere assimilato e dissimilato?
+
+Sì.
+
+E quando diventa maggiore o minore o uguale, deve crescere o diminuire o essere eguagliato?
+
+Vero.
+
+E quando, essendo in movimento, si mette in quiete, e quando, essendo in quiete, passa al movimento, non può certo essere in nessun tempo?
+
+Come potrebbe?
+
+Ma che una cosa che è prima in quiete sia poi in movimento, o prima in movimento e poi in quiete, senza subire un cambiamento, è impossibile.
+
+Impossibile.
+
+E certamente non può esservi un tempo in cui una cosa possa essere insieme né in movimento né in quiete?
+
+Non può.
+
+Ma neppure può cambiare senza cambiare.
+
+Vero.
+
+Quando allora cambia? Poiché non può cambiare né quando è in quiete, né quando è in movimento, né quando è nel tempo.
+
+Non può.
+
+E questa strana cosa in cui esso si trova nel momento in cui cambia esiste realmente?
+
+Quale cosa?
+
+Il momento. Poiché il momento sembra implicare un qualcosa da cui il cambiamento ha luogo verso l'uno o l'altro di due stati; infatti il cambiamento non proviene da [the state](/concepts/state) di quiete in quanto tale, né dallo stato di movimento in quanto tale; ma vi è questa curiosa natura che chiamiamo momento, che giace tra la quiete e il movimento, non essendo in nessun tempo; e in questo e da questo ciò che è in movimento muta in quiete, e ciò che è in quiete muta in movimento.
+
+Così sembra.
+
+E l'uno allora, poiché è in quiete e anche in movimento, muterà verso l'uno o l'altro, poiché solo in questo modo può essere in entrambi. E nel mutare, muta in un momento, e quando sta mutando non sarà in nessun tempo, e non sarà allora né in movimento né in quiete.
+
+Non lo sarà.
+
+E sarà nella stessa condizione rispetto agli altri cambiamenti, quando passa dall'essere alla cessazione dell'essere, o dal non-essere al divenire — allora passa tra certi stati di movimento e di quiete, e né è né non è, né diviene né è distrutto.
+
+Verissimo.
+
+E per lo stesso principio, nel passaggio dall'uno ai molti e dai molti all'uno, l'uno non è né uno né molti, né separato né aggregato; e nel passaggio dal simile al dissimile, e dal dissimile al simile, non è né simile né dissimile, né in uno stato di assimilazione né di dissimilazione; e nel passaggio dal piccolo al grande e all'uguale e di nuovo indietro, non sarà né piccolo né grande, né uguale, né in uno stato di aumento, o di diminuzione, o di eguagliamento.
+
+Vero.
+
+Tutte queste, allora, sono le affezioni dell'uno, se l'uno ha l'essere.
 
 <span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -3076,6 +4186,240 @@ And, further, if not moved in any way, it will not be altered in any way?
 
 No.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dunque, se l'uno è, l'uno è tutte le cose, e anche nulla, sia in relazione a sé stesso sia in relazione alle altre cose.
+
+Certamente.
+
+2.a. Bene, e non dobbiamo forse considerare poi quale sarà la conseguenza se l'uno non è?
+
+Sì; dobbiamo.
+
+Qual è il significato dell'ipotesi — Se l'uno non è; c'è differenza tra questa e l'ipotesi — Se il non uno non è?
+
+C'è una differenza, certamente.
+
+C'è solo una differenza, o piuttosto le due espressioni — se l'uno non è, e se il non uno non è — non sono del tutto opposte?
+
+Sono del tutto opposte.
+
+E supponiamo che uno dica: — Se la grandezza non è, se la piccolezza non è, o qualcosa di simile, non intende forse, ogni volta che usa tale espressione, che 'ciò che non è' è altro dalle altre cose?
+
+Certamente.
+
+E così quando dice 'Se l'uno non è' intende chiaramente che ciò che 'non è' è altro da tutti gli altri; sappiamo cosa intende — non è vero?
+
+Sì, lo sappiamo.
+
+Quando dice 'uno', dice qualcosa che è noto; e in secondo luogo qualcosa che è altro da tutte le altre cose; non fa differenza se egli predica dell'uno l'essere o il non essere, poiché ciò che si dice 'non essere' è noto che è comunque qualcosa, ed è distinto dalle altre cose.
+
+Certamente.
+
+Allora ricomincerò e chiederò: Se l'uno non è, quali sono le conseguenze? In primo luogo, come sembrerebbe, vi è una conoscenza di esso, altrimenti il significato stesso delle parole 'se l'uno non è' non sarebbe noto.
+
+Vero.
+
+In secondo luogo, le altre cose differiscono da esso, o esso non potrebbe essere descritto come differente dalle altre?
+
+Certamente.
+
+La differenza, dunque, appartiene ad esso così come la conoscenza; poiché nel parlare dell'uno come differente dalle altre, non parliamo di una differenza nelle altre, ma nell'uno.
+
+Chiaramente.
+
+Inoltre, l'uno che non è è qualcosa e partecipa della relazione a 'quello', e 'questo', e 'questi', e simili, ed è un [attribute](/concepts/attribute) di 'questo'; poiché l'uno, o le altre cose oltre l'uno, non avrebbero potuto essere menzionati, né alcun attributo o relativo dell'uno che non è sarebbe potuto essere o essere stato menzionato, né sarebbe potuto essere detto essere qualcosa, se non partecipasse di 'qualche', o delle altre relazioni appena menzionate.
+
+Vero.
+
+L'essere, allora, non può essere ascritto all'uno, poiché esso non è; ma l'uno che non è può o piuttosto deve partecipare di molte cose, se esso e nient'altro non è; se, tuttavia, né l'uno né l'uno che non è si suppone che non sia, e parliamo di qualcosa di natura differente, non possiamo predicare nulla di esso. Ma supponendo che l'uno che non è e nient'altro non sia, allora deve partecipare del predicato 'quello', e di molti altri.
+
+Certamente.
+
+E avrà dissomiglianza in relazione alle altre cose, poiché le altre cose, essendo differenti dall'uno, saranno di genere differente.
+
+Certamente.
+
+E le cose di genere differente non sono anche altre nel genere?
+
+Naturalmente.
+
+E le cose altre nel genere non sono dissimili?
+
+Sono dissimili.
+
+E se sono dissimili dall'uno, ciò di cui sono dissimili sarà chiaramente dissimile da loro?
+
+Chiaramente.
+
+Allora l'uno avrà dissomiglianza rispetto alla quale le altre cose sono dissimili da esso?
+
+Questo sembrerebbe vero.
+
+E se la dissomiglianza dalle altre cose è attribuita ad esso, deve avere somiglianza con sé stesso.
+
+Come?
+
+Se l'uno ha dissomiglianza dall'uno, si deve intendere qualcos'altro; né l'ipotesi si riferirà all'uno; ma si riferirà a qualcosa di altro dall'uno?
+
+Proprio così.
+
+Ma ciò non può essere.
+
+No.
+
+Allora l'uno deve avere somiglianza con sé stesso?
+
+Deve.
+
+Ancora, esso non è uguale alle altre cose; poiché se fosse uguale, allora sarebbe subito ed essere come loro in virtù dell'uguaglianza; ma se l'uno non ha essere, allora non può né essere né essere simile?
+
+Non può.
+
+Ma poiché non è uguale alle altre, nemmeno le altre possono essere uguali ad esso?
+
+Certamente no.
+
+E le cose che non sono uguali sono disuguali?
+
+Vero.
+
+E sono disuguali rispetto a un disuguale?
+
+Naturalmente.
+
+Allora l'uno partecipa dell'ineguaglianza, e rispetto a questo le altre cose sono disuguali ad esso?
+
+Verissimo.
+
+E l'ineguaglianza implica grandezza e piccolezza?
+
+Sì.
+
+Allora l'uno, se di tale natura, ha grandezza e piccolezza?
+
+Questo sembra vero.
+
+E grandezza e piccolezza stanno sempre separate?
+
+Vero.
+
+Allora c'è sempre qualcosa tra di loro?
+
+C'è.
+
+E puoi pensare a qualcos'altro che sia tra di loro oltre all'uguaglianza?
+
+No, è l'uguaglianza che sta tra di loro.
+
+Allora ciò che ha grandezza e piccolezza ha anche uguaglianza, che sta tra di loro?
+
+È chiaro.
+
+Allora l'uno, che non è, partecipa, come sembrerebbe, di grandezza, piccolezza e uguaglianza?
+
+Chiaramente.
+
+Inoltre, deve certamente in qualche modo partecipare dell'essere?
+
+Come?
+
+Deve essere così, perché altrimenti non diremmo il vero nell'affermare che l'uno non è. Ma se diciamo il vero, chiaramente dobbiamo dire ciò che è. Non ho ragione?
+
+Sì.
+
+E poiché affermiamo di dire il vero, dobbiamo anche affermare che diciamo ciò che è?
+
+Certamente.
+
+Allora, come sembrerebbe, l'uno, quando non è, è; poiché se non dovesse essere quando non è, ma (Oppure, 'rimettere qualcosa dell'esistenza in relazione al non essere.') dovesse abbandonare qualcosa dell'essere, così da diventare non essere, sarebbe subito.
+
+Verissimo.
+
+Allora l'uno che non è, se deve mantenersi, deve avere l'essere del non essere come legame del non essere, così come l'essere deve avere come legame il non essere del non essere per perfezionare il proprio essere; poiché l'affermazione più vera dell'essere dell'essere e del non essere del non essere è quando l'essere partecipa dell'essere dell'essere, e non dell'essere del non essere — questa è la perfezione dell'essere; e quando il non essere non partecipa del non essere del non essere ma dell'essere del non essere — questa è la perfezione del non essere.
+
+Verissimo.
+
+Dal momento che ciò che è partecipa del non essere, e ciò che non è dell'essere, non deve anche l'uno partecipare dell'essere per non essere?
+
+Certamente.
+
+Allora l'uno, se non è, ha chiaramente essere?
+
+Chiaramente.
+
+E ha anche non essere, se non è?
+
+Naturalmente.
+
+Ma può qualcosa che è in un certo stato non essere in quello stato senza cambiare?
+
+Impossibile.
+
+Allora tutto ciò che è e non è in un certo stato implica cambiamento?
+
+Certamente.
+
+E il cambiamento è movimento — possiamo dire questo?
+
+Sì, movimento.
+
+E l'uno è stato dimostrato sia essere che non essere?
+
+Sì.
+
+E quindi è e non è nello stesso stato?
+
+Sì.
+
+Così l'uno che non è è stato dimostrato avere anche movimento, perché cambia dall'essere al non essere?
+
+Questo sembra vero.
+
+Ma certamente se non è in nessun luogo tra le cose che sono, come è il fatto, poiché non è, non può cambiare da un luogo a un altro?
+
+Impossibile.
+
+Allora non può muoversi cambiando luogo?
+
+No.
+
+Né può girarsi nello stesso punto, poiché non tocca mai il medesimo, poiché il medesimo è, e ciò che non è non può essere annoverato tra le cose che sono?
+
+Non può.
+
+Allora l'uno, se non è, non può girarsi in ciò in cui non è?
+
+No.
+
+Né l'uno, sia che sia sia che non sia, può essere alterato in altro da sé, poiché se si alterasse e diventasse differente da sé, allora non potremmo ancora parlare dell'uno, ma di qualcos'altro?
+
+Vero.
+
+Ma se l'uno non subisce alterazione, né si gira nello stesso luogo, né cambia luogo, può essere ancora capace di movimento?
+
+Impossibile.
+
+Ora ciò che è immobile deve certamente essere in quiete, e ciò che è in quiete deve stare fermo?
+
+Certamente.
+
+Allora l'uno che non è sta fermo, ed è anche in movimento?
+
+Questo sembra vero.
+
+Ma se è in movimento deve necessariamente subire alterazione, poiché qualsiasi cosa che è mossa, in quanto è mossa, non è più nello stesso stato, ma in un altro?
+
+Sì.
+
+Allora l'uno, essendo mosso, è alterato?
+
+Sì.
+
+E, inoltre, se non è mosso in alcun modo, non sarà alterato in alcun modo?
+
+No.
+
 <span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Then, in so far as the one that is not is moved, it is altered, but in so far as it is not moved, it is not altered?
@@ -3307,6 +4651,240 @@ Then if one is not, the others neither are, nor can be conceived to be either on
 It would seem not.
 
 Nor as like or unlike?
+
+No.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Allora, in quanto l’uno che non è è mosso, è alterato, ma in quanto non è mosso, non è alterato?
+
+Giusto.
+
+Dunque l’uno che non è è alterato e non è alterato?
+
+È chiaro.
+
+E ciò che è alterato non deve forse divenire altro da ciò che era prima, perdere il suo stato precedente ed essere distrutto; mentre ciò che non è alterato non può né venire all’essere né essere distrutto?
+
+Verissimo.
+
+E l’uno che non è, essendo alterato, diviene ed è distrutto; e non essendo alterato, né diviene né è distrutto; e così l’uno che non è diviene ed è distrutto, e né diviene né è distrutto?
+
+Vero.
+
+2.b. E ora, torniamo ancora una volta all’inizio, e vediamo se seguiranno queste o altre conseguenze.
+
+Facciamo come dici.
+
+Se l’uno non è, chiediamo che cosa accadrà rispetto all’uno? Questo è il problema.
+
+Sì.
+
+Le parole ’non è’ non significano forse assenza di essere in ciò a cui le applichiamo?
+
+Appunto.
+
+E quando diciamo che una cosa non è, intendiamo forse che non è in un modo ma è in un altro? O intendiamo, assolutamente, che ciò che non è non ha in nessun modo, maniera o genere partecipazione all’essere?
+
+Del tutto assolutamente.
+
+Dunque, ciò che non è non può essere, né partecipare in alcun modo all’essere?
+
+Non può.
+
+E con il divenire e l’essere distrutto non intendevamo forse l’assunzione dell’essere e la perdita dell’essere?
+
+Nient’altro.
+
+E ciò che non ha partecipazione all’essere può assumere o perdere l’essere?
+
+Impossibile.
+
+L’uno allora, poiché in nessun modo è, non può avere, perdere o assumere l’essere in alcun modo?
+
+Vero.
+
+Dunque l’uno che non è, poiché in nessun modo partecipa dell’essere, né perisce né diviene?
+
+No.
+
+Allora non è affatto alterato; perché se lo fosse, diverrebbe e sarebbe distrutto?
+
+Vero.
+
+Ma se non è alterato, non può essere mosso?
+
+Certamente no.
+
+Né possiamo dire che stia fermo, se non è in nessun luogo; poiché ciò che sta fermo deve essere sempre in uno stesso luogo?
+
+Certo.
+
+Allora dobbiamo dire che l’uno che non è non sta mai fermo e non si muove mai?
+
+Né l’uno né l’altro.
+
+E non c’è alcuna cosa esistente che possa essergli attribuita; perché se ci fosse, parteciperebbe dell’essere?
+
+È chiaro.
+
+E quindi né piccolezza, né grandezza, né uguaglianza possono essergli attribuite?
+
+No.
+
+Né ancora somiglianza né differenza, né in relazione a se stesso né in relazione agli altri?
+
+Chiaramente no.
+
+Ebbene, e se nulla deve essergli attribuito, altre cose possono essergli attribuite?
+
+Certamente no.
+
+E quindi le altre cose non possono essere né simili né dissimili, né identiche, né differenti in relazione ad esso?
+
+Non possono.
+
+Né ciò che non è può essere qualcosa, o essere questa cosa, o essere in relazione a o l'[attribute](/concepts/attribute) di questo o quello o altro, o essere passato, presente o futuro. Né la conoscenza, o l’opinione, o la percezione, o l’espressione, o il nome, o qualsiasi altra cosa che è, può avere qualche rapporto con esso?
+
+No.
+
+Allora l’uno che non è non ha alcuna condizione di sorta?
+
+Tale sembra essere la conclusione.
+
+2.aa. Eppure ancora una volta; se l’uno non è, che cosa diviene degli altri? Stabiliamolo.
+
+Sì; stabiliamolo.
+
+Gli altri devono certamente essere; perché se anch’essi, come l’uno, non fossero, non potremmo ora parlare di loro.
+
+Vero.
+
+Ma parlare degli altri implica differenza — i termini ‘altro’ e ‘differente’ sono sinonimi?
+
+Vero.
+
+Altro significa altro dall’altro, e differente, differente dal differente?
+
+Sì.
+
+Allora, se vi devono essere altri, c’è qualcosa rispetto a cui saranno altri?
+
+Certamente.
+
+E che cosa può essere? — perché se l’uno non è, non saranno altro dall’uno.
+
+Non lo saranno.
+
+Allora saranno altri l’uno dall’altro; poiché l’unica alternativa rimanente è che siano altri dal nulla.
+
+Vero.
+
+E sono ciascuno altro dall’altro, essendo plurali e non singolari; perché se l’uno non è, non possono essere singolari, ma ogni loro particella è infinita di numero; e anche se uno prende quella che appare la più piccola frazione, questa, che sembrava una, in un attimo svanisce in molte, come in un sogno, e dall’essere la più piccola diventa grandissima, in confronto alle frazioni in cui è divisa?
+
+Verissimo.
+
+E in tali particelle gli altri saranno altri l’uno dall’altro, se gli altri sono e l’uno non è?
+
+Esattamente.
+
+E non vi saranno molte particelle, ciascuna apparentemente una, ma non essendo una, se l’uno non è?
+
+Vero.
+
+E sembrerebbe che il numero possa essere predicato di esse, se ciascuna appare essere una, sebbene in realtà sia molte?
+
+Può.
+
+E tra esse sembrerà esserci il dispari e il pari, che però non avranno realtà, se l’uno non è?
+
+Sì.
+
+E vi apparirà un minimo tra esse; e anche questo sembrerà grande e molteplice in confronto alle molte piccole frazioni che sono contenute in esso?
+
+Certamente.
+
+E ciascuna particella sarà immaginata uguale alle molte e piccole; poiché non avrebbe potuto apparire passare dal più grande al più piccolo senza essere apparsa giungere al mezzo; e così sorgerebbe l’apparenza dell’uguaglianza.
+
+Sì.
+
+E pur non avendo né principio, né mezzo, né fine, ciascuna particella separata appare tuttavia avere un limite in relazione a se stessa e all’altro.
+
+Come mai?
+
+Perché, quando uno concepisce una qualsiasi di queste come tale, prima del principio appare un altro principio, e c’è un’altra fine, che rimane dopo la fine, e nel mezzo dei mezzi più veri, interni ma più piccoli, poiché di nessuna di esse può essere concepita un’unità, dal momento che l’uno non è.
+
+Verissimo.
+
+E così tutto l’essere, qualunque cosa pensiamo, deve essere spezzato in frazioni, poiché una particella dovrà essere concepita senza unità?
+
+Certamente.
+
+E tale essere, quando è visto indistintamente e da lontano, appare essere uno; ma quando è visto da vicino e con intelletto acuto, ogni singola cosa appare infinita, poiché è privata dell’uno, che non è?
+
+Nulla di più certo.
+
+Allora ciascuno degli altri deve apparire infinito e finito, e uno e molti, se esistono altri dall’uno e non l’uno.
+
+Devono.
+
+Allora non appariranno simili e dissimili?
+
+In che modo?
+
+Proprio come in un dipinto le cose appaiono tutte una a chi sta a distanza, e sembrano essere nello stesso stato e simili?
+
+Vero.
+
+Ma quando ti avvicini, esse appaiono molte e differenti; e a causa dell’apparenza della differenza, differenti per genere da se stesse e dissimili da sé?
+
+Vero.
+
+E così le particelle devono apparire simili e dissimili a se stesse e le une alle altre.
+
+Certamente.
+
+E non devono forse essere le stesse e tuttavia differenti l’una dall’altra, e in contatto con se stesse, sebbene siano separate, e avere ogni sorta di movimento, e ogni sorta di quiete, e divenire ed essere distrutte, e non essere in nessuno dei due stati, e simili cose, tutte le quali possono essere facilmente enumerate, se l’uno non è e i molti sono?
+
+Verissimo.
+
+2.bb. Ancora una volta, torniamo all’inizio, e chiediamo se l’uno non è, e gli altri dell’uno sono, che cosa ne seguirà.
+
+Poniamo questa domanda.
+
+In primo luogo, gli altri non saranno uno?
+
+Impossibile.
+
+Né saranno molti; perché se fossero molti, l’uno sarebbe contenuto in essi. Ma se nessuno di essi è uno, tutti sono nulla, e quindi non saranno molti.
+
+Vero.
+
+Se non c’è alcun uno negli altri, gli altri non sono né molti né uno.
+
+Non sono.
+
+Né appaiono né come uno né come molti.
+
+Perché no?
+
+Perché gli altri non hanno alcun genere, maniera o modo di comunione con alcun genere di non-essere, né ciò che non è può essere connesso con alcuno degli altri; poiché ciò che non è non ha parti.
+
+Vero.
+
+Né vi è un’opinione o alcuna apparenza di non-essere in relazione agli altri, né il non-essere è mai in alcun modo attribuito agli altri.
+
+No.
+
+Allora se l’uno non è, non vi è concezione di alcuno degli altri né come uno né come molti; poiché non puoi concepire i molti senza l’uno.
+
+Non puoi.
+
+Allora se l’uno non è, gli altri non sono, né possono essere concepiti come uno o come molti?
+
+Sembrerebbe di no.
+
+Né come simili o dissimili?
 
 No.
 

@@ -642,78 +642,75 @@ PHAEDRUS: Very true.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Così grandi sono le benedizioni celesti che l'amicizia di un amante ti conferirà, o giovinetto mio. Mentre l'attaccamento del non amante, che è commisto a una prudenza mondana e ha modi mondani e spilorci di dispensare benefici, genererà nella tua anima quelle qualità volgari che il volgo applaude, ti farà ruzzolare attorno alla terra per lo spazio di novemila anni, e ti lascerà stolto nel mondo sotterraneo.
+Tanto grandi sono le benedizioni celesti che l'[amicizia](/concepts/friendship) di un amante ti conferirà, o giovane. Mentre l'attaccamento del non amante, che è mescolato a una prudenza mondana e ha modi mondani e avari di distribuire benefici, genererà nella tua anima quelle qualità volgari che il popolo applaude, ti farà rotolare intorno alla terra per un periodo di novemila anni, e ti lascerà stolto nel mondo di sotto.
 
-E così, caro Eros, ho fatta e pagata la mia ritrattazione, così bene e così onestamente come ho potuto; soprattutto in materia di figure poetiche che fui costretto a usare, perché Fedro le voleva. E ora perdona il passato e accetta il presente, sii benevolo e misericordioso con me, e non nella tua [ira](/concepts/anger) privarmi della vista, né togliermi l'arte dell'amore che tu mi hai data, ma concedi che io sia ancora più stimato agli occhi dei belli. E se Fedro o io stesso dissi qualcosa di rozzo nei nostri primi discorsi, incolpa Lisia, che è il padre del marmocchio, e non abbiamo più alcuna sua progenie; ordinagli di studiare filosofia, come suo fratello Polemarco; e allora il suo amante Fedro non vacillerà più tra due opinioni, ma si consacrerà interamente all'amore e ai discorsi filosofici.
+E così, caro Eros, ho fatto e pagato la mia ritrattazione, nel modo migliore e più onesto che potevo; specialmente per quanto riguarda le figure poetiche che sono stato costretto a usare, perché Fedro le voleva. E ora perdona il passato e accetta il presente, e sii benevolo e misericordioso verso di me, e non privarmi della vista nella tua [ira](/concepts/anger), né togliermi l'arte dell'amore che mi hai dato, ma concedi che io sia ancora più stimato agli occhi dei belli. E se Fedro o io stesso abbiamo detto qualcosa di rude nei nostri primi discorsi, incolpa Lisia, che è il padre del marmocchio, e non vi sia più altra sua progenie; digli di studiare filosofia, come suo fratello Polemarco; e allora il suo amante Fedro non vacillerà più tra due opinioni, ma si dedicherà interamente all'amore e ai discorsi filosofici.
 
-FEDRO: Mi unisco alla preghiera, [Socrate](/figures/socrates), e dico con te: se questo è per il mio bene, possano le tue parole avverarsi. Ma perché hai fatto la tua seconda orazione tanto più bella della prima? Mi chiedo perché. E comincio a temere di perdere la stima di Lisia, e che egli apparirà fiacco in confronto, anche se fosse disposto a mettere in campo un'altra orazione altrettanto bella e altrettanto lunga della tua, cosa di cui dubito. Proprio di recente uno dei tuoi uomini politici lo biasimava per questo stesso motivo; e lo chiamava ‘scrittore di discorsi’ ripetutamente. Cosicché un sentimento di orgoglio può probabilmente indurlo a rinunciare a scrivere discorsi.
+FEDRO: Mi unisco alla preghiera, [Socrate](/figures/socrates), e dico con te: se questo è per il mio bene, possano le tue parole avverarsi. Ma perché hai reso la tua seconda orazione così tanto più bella della prima? Mi chiedo perché. E comincio a temere di perdere la stima per Lisia, e che egli appaia insipido in confronto, anche se fosse disposto a mettere in campo un'altra orazione altrettanto bella e lunga quanto la tua, cosa di cui dubito. Proprio recentemente uno dei tuoi politici lo insultava proprio per questo motivo; e lo chiamava 'scrittore di discorsi' ripetutamente. Così un sentimento di orgoglio potrebbe probabilmente indurlo a rinunciare a scrivere discorsi.
 
-SOCRATE: Che idea molto divertente! Ma io penso, mio giovane amico, che tu ti sbagli assai riguardo al tuo amico, se immagini che egli sia spaventato da un piccolo rumore; e, forse, pensi che il suo aggressore facesse sul serio?
+SOCRATE: Che idea molto divertente! Ma credo, mio giovane amico, che tu ti sbagli di molto sul tuo amico se immagini che egli si spaventi per un po' di rumore; e, forse, pensi che il suo assalitore parlasse sul serio?
 
-FEDRO: Credevo, Socrate, che lo fosse. E sai che i più grandi e più influenti statisti si vergognano di scrivere discorsi e di lasciarli in forma scritta, per timore di essere chiamati sofisti dai posteri.
+FEDRO: Pensavo, Socrate, che lo fosse. E sai bene che gli statisti più grandi e influenti si vergognano di scrivere discorsi e di lasciarli in forma scritta, per timore di essere chiamati Sofisti dai posteri.
 
-SOCRATE: Sembri non accorgerti, Fedro, che il ‘dolce gomito’ (Proverbio, come ‘l’uva è acerba,’ applicato ai piaceri che non si possono ottenere, a significare le cose dolci che, come il gomito, sono fuori della portata della bocca. Il piacere promesso si rivela una faccenda lunga e noiosa.) del proverbio è veramente il lungo braccio del Nilo. E sembri ugualmente ignaro del fatto che questo loro dolce gomito è anche un lungo braccio. Poiché non v’è nulla di cui i nostri grandi politici si compiacciano tanto quanto dello scrivere discorsi e del lasciarli in eredità ai posteri. Ed essi aggiungono i [nomi](/positions/nominalism) dei loro ammiratori in cima allo scritto, per gratitudine verso di loro.
+SOCRATE: Sembri essere inconsapevole, Fedro, che il 'dolce gomito' (Un proverbio, come 'l'uva è acerba,' applicato ai piaceri che non si possono avere, che significa cose dolci che, come il gomito, sono fuori dalla portata della bocca. Il piacere promesso si rivela una faccenda lunga e noiosa.) del proverbio è in realtà il lungo braccio del Nilo. E sembri ugualmente inconsapevole del fatto che questo loro dolce gomito è anche un lungo braccio. Poiché non c'è nulla di cui i nostri grandi politici siano così affezionati quanto scrivere discorsi e lasciarli in eredità ai posteri. E aggiungono i [nomi](/positions/nominalism) dei loro ammiratori in cima allo scritto, per gratitudine verso di loro.
 
 FEDRO: Che vuoi dire? Non capisco.
 
-Come, non sai che quando un politico scrive, comincia con i nomi dei suoi approvatori?
+SOCRATE: Ma come, non sai che quando un politico scrive, comincia con i nomi di coloro che lo approvano?
 
-PHAEDRUS: Come sarebbe?
+FEDRO: In che modo?
 
-SOCRATE: Come? egli comincia in questo modo: «Sia decretato dal senato, dal popolo, o da entrambi, su proposta di una certa persona», che è il nostro autore; e così, assumendo un'aria seria, procede a mostrare la propria sapienza ai suoi ammiratori in una composizione spesso lunga e tediosa. Ora che cos'è mai codesta cosa se non un regolare pezzo di autorialità?
+SOCRATE: Ebbene, comincia in questo modo: 'Sia decretato dal senato, dal popolo, o da entrambi, su mozione di una certa persona,' che è il nostro autore; e così, assumendo un'aria seria, procede a mostrare la propria saggezza ai suoi ammiratori in ciò che è spesso una composizione lunga e noiosa. Ora, che cos'è questa roba se non un vero e proprio pezzo di scrittura?
 
-PHAEDRUS: Vero.
+FEDRO: Vero.
 
-SOCRATE: E se la legge è infine approvata, allora l'autore lascia il teatro in grande letizia; ma se la legge è respinta ed egli è defraudato del suo componimento, e non è stimato degno di scrivere, allora egli e la sua compagnia sono in lutto.
+SOCRATE: E se la legge viene infine approvata, allora l'autore lascia il teatro in grande gioia; ma se la legge viene respinta ed egli è privato del suo fare discorsi, e non ritenuto abbastanza degno di scrivere, allora lui e il suo partito sono in lutto.
 
-PHAEDRUS: Verissimo.
-SOCRATE: Ritorniamo all'argomento di cui stavamo discutendo.
+FEDRO: Verissimo.
 
-SOCRATE: Tanto sono lontani dal disprezzare, o piuttosto tanto apprezzano la pratica della scrittura.
+SOCRATE: Tanto sono lontani dal disprezzare, anzi tanto alta è la stima che hanno per la pratica della scrittura.
 
 FEDRO: Senza dubbio.
 
-SOCRATE: E quando il re o l'oratore ha il potere, come lo ebbero Licurgo o Solone o Dario, di conseguire in uno stato l'immortalità o l'essere autore, non è egli reputato dai posteri, quando vedono le sue composizioni, e non si reputa egli stesso, mentre è ancora vivo, un dio?
+SOCRATE: E quando il re o l'oratore ha il potere, come lo ebbero Licurgo o Solone o Dario, di raggiungere un'immortalità o una paternità letteraria in uno stato, non è forse considerato dai posteri, quando vedono le sue composizioni, e non si considera forse, mentre è ancora in vita, un dio?
 
-PHAEDRUS: Verissimo.
-SOCRATE: Ritorniamo all'argomento di cui stavamo discutendo.
+FEDRO: Verissimo.
 
-SOCRATE: Dunque pensi che qualcuno di questa classe, per quanto mal disposto, rimprovererebbe a Lisia di essere un autore?
+SOCRATE: Allora pensi che qualcuno di questa classe, per quanto mal disposto, rimprovererebbe a Lisia di essere un autore?
 
-Non secondo la tua opinione; poiché, secondo te, egli getterebbe discredito sulla propria occupazione prediletta.
+FEDRO: Non secondo la tua visione; poiché secondo te getterebbe discredito sulla propria occupazione prediletta.
 
-SOCRATE: Chiunque può vedere che non c'è disonore nel mero fatto di scrivere.
+SOCRATE: Chiunque può vedere che non c'è disonore nel semplice fatto di scrivere.
 
-PHAEDRUS: Certamente no.
+FEDRO: Certamente no.
 
-SOCRATE: Il disonore comincia quando un uomo scrive non bene, ma male.
+SOCRATE: Il disonore comincia quando uno scrive non bene, ma male.
 
 FEDRO: Chiaramente.
 
-E che cosa è fatto bene e che cosa è fatto male — dobbiamo forse chiedere a Lisia, o a qualsiasi altro poeta od oratore, che abbia mai scritto o che mai scriverà un'opera politica o di qualsiasi altro genere, in versi o in prosa, poeta o prosatore, di insegnarci questo?
+SOCRATE: E che cosa sia bene e che cosa sia male — dobbiamo forse chiedere a Lisia, o a qualsiasi altro poeta o oratore, che abbia mai scritto o che mai scriverà un'opera politica o qualsiasi altra opera, in metro o fuori metro, poeta o prosatore, di insegnarcelo?
 
-FEDRO: Ne abbiamo bisogno? Infatti a che scopo dovrebbe vivere un uomo, se non per i piaceri del discorso? Certo non per i piaceri del corpo, i quali quasi sempre hanno come condizione un dolore precedente, e perciò sono giustamente chiamati servili.
+FEDRO: Dobbiamo? A che scopo vivrebbe un uomo se non per i piaceri del discorso? Certamente non per i piaceri del corpo, che hanno quasi sempre un dolore precedente come condizione, e perciò sono giustamente chiamati servili.
 
-SOCRATE: C'è tempo a sufficienza. E credo che le cicale, cantando a lor modo nel calore del sole sopra il nostro capo, parlino tra loro e ci guardino dall'alto. Che direbbero mai se vedessero che noi, come i più, non conversiamo, ma sonnecchiamo a mezzogiorno, cullati dalle loro voci, troppo indolenti per pensare? Non avrebbero forse ragione di riderci dietro? Potrebbero immaginare che noi fossimo schiavi, i quali, venuti a riposare in un loro luogo di ritrovo, come pecore giacciono addormentati a mezzogiorno intorno al pozzo. Ma se ci vedessero discorrere e, come Odisseo, navigare oltre loro, sordi alle loro voci di sirena, forse, per rispetto, ci darebbero dei doni che ricevono dagli dèi, affinché li impartiscano agli uomini.
+SOCRATE: C'è tempo abbastanza. E credo che le cicale che friniscono a modo loro nel calore del sole sopra le nostre teste stiano parlando tra loro e guardando giù verso di noi. Che direbbero se vedessero che noi, come i più, non conversiamo, ma sonnecchiamo a mezzogiorno, cullati dalle loro voci, troppo pigri per pensare? Non avrebbero forse il diritto di ridere di noi? Potrebbero immaginare che siamo schiavi che, venuti a riposare in un loro luogo di ritrovo, come pecore giacciono addormentate a mezzogiorno intorno al pozzo. Ma se ci vedono discorrere, e come Odisseo navigare oltre loro, sordi alle loro voci di sirena, forse, per rispetto, ci daranno dei doni che ricevono dagli dei per impartirli agli uomini.
 
 FEDRO: Quali doni intendi? Non ne ho mai sentito parlare.
 
-SOCRATE: Un amante della musica come te dovrebbe certo aver udito la storia delle cicale, le quali si dice che furono uomini in un'epoca anteriore alle Muse. E quando vennero le Muse e apparve il canto, esse ne furono rapite di diletto; e cantando sempre, mai non pensarono a mangiare né a bere, finché alla fine, per la loro dimenticanza, morirono. E ora rivivono nelle cicale; e questo è il contraccambio che le Muse rendono loro — esse non sentono né fame né sete, ma dall'ora della loro nascita cantano sempre, e mai non mangiano né bevono; e quando muoiono, vanno e informano le Muse in cielo di chi le onora in terra. Esse ottengono l'amore di Tersicore per i danzatori, per la loro testimonianza su di essi; di Erato per gli amanti, e delle altre Muse per coloro che le onorano, secondo i vari modi di onorarle — di Calliope, la più anziana delle Muse, e di Urania, che le è prossima, per i filosofi, della cui musica le cicale fanno loro rapporto; poiché queste sono le Muse che principalmente presiedono al cielo e al pensiero, divino e umano insieme, e hanno il più dolce eloquio. Per molte ragioni, dunque, dobbiamo sempre parlare e non dormire nel mezzo del giorno.
+SOCRATE: Un amante della musica come te dovrebbe certamente aver sentito la storia delle cicale, che si dice siano state esseri umani in un'epoca prima delle Muse. E quando le Muse giunsero e il canto apparve, esse furono rapite dalla gioia; e cantando sempre, non pensarono mai a mangiare o bere, finché alla fine, nella loro dimenticanza, morirono. E ora rivivono nelle cicale; e questa è la ricompensa che le Muse danno loro — non soffrono né la fame né la sete, ma dall'ora della loro nascita cantano sempre, e non mangiano né bevono mai; e quando muoiono vanno a informare le Muse in cielo di chi le onora sulla terra. Esse conquistano l'amore di Tersicore per i danzatori con il loro resoconto; quello di Erato per gli amanti, e delle altre Muse per coloro che le onorano, secondo i vari modi di onorarle; — di Calliope, la più anziana delle Muse, e di Urania, che le viene subito dopo, per i filosofi, della cui musica le cicale fanno rapporto loro; poiché queste sono le Muse che si occupano principalmente del cielo e del pensiero, divino e umano, e hanno la più dolce voce. Per molte ragioni, quindi, dovremmo sempre parlare e non dormire a mezzogiorno.
 
 FEDRO: Parliamo.
 
-SOCRATE: Vogliamo discutere delle regole della scrittura e del discorso come proponevamo?
+SOCRATE: Discutiamo delle regole della scrittura e del discorso come ci eravamo proposti?
 
-PHAEDRUS: Molto bene.
+FEDRO: Benissimo.
 
-SOCRATE: Nel parlare bene, non deve forse la mente di chi parla conoscere la verità della cosa di cui sta per parlare?
+SOCRATE: Nel buon parlare, la mente dell'oratore non deve forse conoscere la verità della materia sulla quale sta per parlare?
 
-FEDRO: Eppure, Socrate, ho udito che colui che vuole essere oratore non ha nulla a che fare con la vera giustizia, ma solo con ciò che probabilmente sarà approvato dai molti che siedono in giudizio; né con ciò che è veramente buono od onorevole, ma solo con l'opinione che se ne ha, e che dall'opinione viene la persuasione, e non dalla verità.
+FEDRO: Eppure, Socrate, ho sentito che chi vuole essere oratore non ha nulla a che fare con la vera giustizia, ma solo con ciò che è probabile che sia approvato dai molti che siedono in giudizio; né con ciò che è veramente buono o onorevole, ma solo con l'opinione su di essi, e che dall'opinione viene la persuasione, e non dalla verità.
 
-SOCRATE: Le parole dei saggi non sono da mettere da parte; poiché probabilmente c'è qualcosa in esse; e perciò il significato di questo detto non è da respingere frettolosamente.
+SOCRATE: Le parole dei saggi non vanno messe da parte; poiché probabilmente c'è qualcosa in esse; e quindi il significato di questo detto non va respinto frettolosamente.
 
-PHAEDRUS: Verissimo.
-SOCRATE: Ritorniamo all'argomento di cui stavamo discutendo.
+FEDRO: Verissimo.
 
 <span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="en"></span>
 

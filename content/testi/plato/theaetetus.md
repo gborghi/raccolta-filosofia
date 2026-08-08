@@ -3918,139 +3918,139 @@ SOCRATES: And what we fancied to be a perfect definition of knowledge is a dream
 
 <span class="qlang-split" data-lang="it"></span>
 
-[SOCRATE](/figures/socrates): Ma non dicevamo che quando una cosa ha parti, tutte le parti saranno un tutto e il tutto?
+[SOCRATES](/figures/socrates): Ma non dicevamo che, quando una cosa ha parti, tutte le parti saranno il tutto, e il tutto sarà tutte le parti?
 
-THEAETETUS: Certamente.
+TEETETO: Certamente.
 
-Socrate: Allora, come dicevo prima, non deve forse essere l'alternativa che o la sillaba non è le lettere, e allora le lettere non sono parti della sillaba, oppure che la sillaba sarà identica alle lettere, e sarà quindi conosciuta al pari di esse?
+SOCRATE: Allora, come dicevo prima, non deve forse valere l’alternativa che o la sillaba non è le lettere, e in questo caso le lettere non sono parti della sillaba, oppure che la sillaba sarà la stessa cosa delle lettere, e quindi sarà conosciuta allo stesso modo di esse?
 
 TEETETO: Hai ragione.
 
-SOCRATE: E, per evitare questo, supponiamo che sia diverso da essi?
+SOCRATE: E, per evitare questo, supponiamo che essa sia diversa da esse?
 
-THEAETETUS: Sì.
+TEETETO: Sì.
 
-Ma se le lettere non sono parti delle sillabe, puoi dirmi se vi siano altre parti delle sillabe che non siano lettere?
+SOCRATE: Ma se le lettere non sono parti delle sillabe, puoi dirmi qualche altra parte delle sillabe che non sia lettera?
 
-TEETETO: No, in verità, Socrate; poiché se ammetto l'esistenza di parti in una sillaba, sarebbe ridicolo per me rinunciare alle lettere e cercare altre parti.
+TEETETO: No, davvero, Socrate; perché se ammetto che una sillaba abbia delle parti, sarebbe ridicolo da parte mia abbandonare le lettere e cercarne altre.
 
-SOCRATE: Verissimo, Teeteto, e perciò, secondo la nostra attuale opinione, una sillaba dev'essere certamente una qualche forma indivisibile?
+SOCRATE: Verissimo, Teeteto; e quindi, secondo la nostra attuale opinione, una sillaba deve pur essere una qualche forma indivisibile?
 
 TEETETO: Vero.
 
-SOCRATE: Ma ti ricordi, amico mio, che solo poco fa abbiamo ammesso e approvato l'affermazione che dei primi elementi da cui sono composte tutte le altre cose non vi può essere definizione, perché ciascuno di essi, preso di per sé, è non composto; né si possono giustamente attribuire loro le parole 'essere' o 'questo', perché sono parole estranee e inadeguate, e per questo motivo le lettere o gli elementi erano indefinibili e sconosciuti?
+SOCRATE: Ma ricordi, amico mio, che solo poco fa ammettevamo e approvavamo l’affermazione che dei primi elementi da cui sono composte tutte le altre cose non può esserci definizione, perché ciascuno di essi, preso per sé, non è composto; né si possono giustamente attribuire loro le parole “essere” o “questo”, perché sono parole estranee e inappropriate, e per questa ragione le lettere o gli elementi erano indefinibili e inconoscibili?
 
 TEETETO: Ricordo.
 
 SOCRATE: E non è anche questa la ragione per cui sono semplici e indivisibili? Non ne vedo alcun’altra.
 
-THEAETETUS: Non si può addurre altra ragione.
+TEETETO: Non si può addurre nessun’altra ragione.
 
-Socrate: Dunque non è forse la sillaba nella stessa condizione degli elementi o lettere, se non ha parti ed è un'unica forma?
+SOCRATE: Allora la sillaba non è forse nella stessa condizione degli elementi o delle lettere, se non ha parti ed è una forma sola?
 
 TEETETO: Certamente.
 
-SOCRATE: Se, allora, una sillaba è un tutto, e ha molte parti o lettere, le lettere così come la sillaba debbono essere intelligibili ed esprimibili, poiché tutte le parti sono riconosciute essere identiche al tutto?
+SOCRATE: Se, quindi, una sillaba è un tutto, e ha molte parti o lettere, le lettere come pure la sillaba devono essere intelligibili ed esprimibili, dal momento che tutte le parti sono riconosciute essere la stessa cosa del tutto?
 
 TEETETO: Vero.
 
-SOCRATE: Ma se sia uno e indivisibile, allora le sillabe e le lettere sono ugualmente indefinite e ignote, e per la stessa ragione?
+SOCRATE: Ma se essa è una e indivisibile, allora le sillabe e le lettere sono ugualmente indefinibili e inconoscibili, e per la stessa ragione?
 
-THEAETETUS: I cannot deny that.
+TEETETO: Non posso negarlo.
 
-SOCRATE: Non possiamo, quindi, convenire nell’opinione di chi dice che la sillaba può essere conosciuta ed espressa, ma non le lettere.
+SOCRATE: Non possiamo, quindi, concordare con l’opinione di chi dice che la sillaba può essere conosciuta ed espressa, ma non le lettere.
 
-TEETETO: Certamente no; se possiamo fidarci dell'argomento.
+TEETETO: Certamente no; se possiamo fidarci dell’argomento.
 
-SOCRATE: Ebbene, ma non sarai ugualmente incline a dissentire da lui, quando ricordi la tua propria esperienza nell'imparare a leggere?
+SOCRATE: Ebbene, non sarai altrettanto propenso a dissentire da lui, quando ricordi la tua esperienza nell’imparare a leggere?
 
-TEETETO: Che esperienza?
+TEETETO: Quale esperienza?
 
-SOCRATE: Perché, nell'imparare, vi si faceva continuamente distinguere le singole lettere sia con l'occhio sia con l'orecchio, affinché, quando le udivate pronunciate o le vedevate scritte, non foste confusi dalla loro posizione.
+SOCRATE: Che, imparando, cercavi continuamente di distinguere le singole lettere sia con la vista sia con l’udito, affinché, quando le sentivi pronunciare o le vedevi scritte, non fossi confuso dalla loro posizione.
 
-TEETETO: Molto vero.
+TEETETO: Verissimo.
 
-SOCRATE: E l'educazione del suonatore di arpa è completa a meno che non possa dire quale corda risponde a una particolare nota; le note, come tutti ammetterebbero, sono gli elementi o le lettere della musica?
+SOCRATE: E l’[education](/concepts/education) del citarista è completa se egli non sa dire quale corda risponda a una particolare nota? Le note, come tutti ammetterebbero, sono gli elementi o le lettere della musica.
 
-THEAETETUS: Esattamente.
+TEETETO: Esattamente.
 
-SOCRATE: Allora, se argomentiamo dalle lettere e dalle sillabe che conosciamo ad altri semplici e composti, diremo che le lettere, o elementi semplici, come classe, sono conosciute con molta più certezza delle sillabe, e molto più indispensabili a una perfetta conoscenza di qualsiasi soggetto; e se qualcuno dice che la sillaba è nota e la lettera ignota, considereremo che, o intenzionalmente o involontariamente, stia dicendo sciocchezze?
+SOCRATE: Allora, se ragioniamo dalle lettere e dalle sillabe che conosciamo alle altre cose semplici e composte, diremo che le lettere, o gli elementi semplici come classe, sono molto più certamente conosciute delle sillabe, e molto più indispensabili alla perfetta conoscenza di qualsiasi oggetto; e se qualcuno dice che la sillaba è conosciuta e la lettera sconosciuta, riterremo che, intenzionalmente o no, stia dicendo sciocchezze.
 
-THEAETETUS: Esattamente.
+TEETETO: Esattamente.
 
-SOCRATE: E si potrebbero addurre altre prove di questa credenza, se non m'inganno. Ma non perdiamo di vista, mentre le cerchiamo, la questione che ci sta dinanzi, cioè il significato dell'affermazione che l'opinione retta con definizione o spiegazione razionale è la forma più perfetta di conoscenza.
+SOCRATE: E si potrebbero addurre altre prove di questa convinzione, se non m’inganno. Ma, nel cercarle, non perdiamo di vista la questione che ci sta davanti, cioè il significato dell’affermazione che l’opinione retta con definizione o spiegazione razionale è la forma più perfetta di conoscenza.
 
-THEAETETUS: Non dobbiamo.
+TEETETO: Non dobbiamo.
 
-SOCRATE: Ebbene, e che cosa significa il termine «spiegazione»? Penso che abbiamo una scelta fra tre significati.
+SOCRATE: Ebbene, e qual è il significato del termine “spiegazione”? Penso che abbiamo una scelta fra tre significati.
 
-TEETETO: E quali sono?
+TEETETO: Quali sono?
 
-In primo luogo, il significato può essere il manifestare il proprio pensiero con la voce mediante verbi e nomi, rappresentando un'opinione nel flusso che scorre dalle labbra, come in uno specchio o nell'acqua. Non sembra che la spiegazione sia di questa natura?
+SOCRATE: In primo luogo, il significato può essere: manifestare il proprio pensiero con la voce, per mezzo di verbi e nomi, raffigurare un’opinione nella corrente che fluisce dalle labbra, come in uno specchio o nell’acqua. Non pare che la spiegazione sia di questa natura?
 
-TEETETO: Certamente; colui che così manifesta il suo pensiero, si dice che spieghi sé stesso.
+TEETETO: Certamente; chi manifesta così il proprio pensiero si dice che si spieghi.
 
-SOCRATE: E chiunque non sia nato sordo o muto è in grado, prima o poi, di manifestare ciò che pensa di qualsiasi cosa; e se è così, tutti coloro che hanno un'opinione retta intorno a qualsiasi cosa avranno anche una retta spiegazione; né l'opinione retta si troverà in alcun luogo ad esistere separatamente dalla conoscenza.
+SOCRATE: E chiunque non sia nato sordo o muto è in grado, prima o poi, di manifestare ciò che pensa di qualsiasi cosa; e se è così, tutti coloro che hanno un’opinione retta su qualsiasi cosa avranno anche una retta spiegazione; né l’opinione retta si troverà mai a esistere separatamente dalla conoscenza.
 
 TEETETO: Vero.
 
-Non accusiamo, pertanto, con troppa fretta colui che diede questa spiegazione della conoscenza di aver proferito una parola priva di senso; poiché forse intendeva soltanto dire che, quando a uno si chiedesse quale fosse la natura di qualsivoglia cosa, egli dovesse essere in grado di rispondere a chi lo interrogava dando gli elementi della cosa stessa.
+SOCRATE: Non accusiamo, quindi, frettolosamente chi ha dato questa definizione della conoscenza di proferire una parola priva di significato; perché forse intendeva soltanto dire che, quando a uno si chiedeva quale fosse la natura di una cosa, egli dovesse essere in grado di rispondere al suo interlocutore dando gli elementi della cosa.
 
-TEETETO: Per esempio, Socrate,?
+TEETETO: Per esempio, Socrate...?
 
-SOCRATE: Come, per esempio, quando Esiodo dice che un carro è composto di cento assi. Ora, né tu né io potremmo descriverle tutte singolarmente; ma se alcuno domandasse che cosa è un carro, ci contenteremmo di rispondere, che un carro consiste di ruote, asse, cassa, cerchioni, giogo.
+SOCRATE: Come, per esempio, quando Esiodo dice che un carro è fatto di cento assi. Ora, né tu né io sapremmo descriverle tutte singolarmente; ma se qualcuno chiedesse che cos’è un carro, ci accontenteremmo di rispondere che un carro consiste di ruote, asse, cassa, cerchioni, giogo.
 
-THEAETETUS: Certamente.
+TEETETO: Certamente.
 
-E il nostro avversario probabilmente riderà di noi, proprio come farebbe se professassimo di essere grammatici e di dare una spiegazione grammaticale del nome di Teeteto, e tuttavia sapessimo dire solo le sillabe e non le lettere del tuo nome — questo sarebbe vera opinione, e non conoscenza; poiché la conoscenza, come è stato già osservato, non si raggiunge finché, unita alla vera opinione, non vi sia un'enumerazione degli elementi di cui qualsiasi cosa è composta.
+SOCRATE: E il nostro avversario probabilmente riderà di noi, proprio come riderebbe se pretendessimo di essere grammatici e di dare una spiegazione grammaticale del nome di Teeteto, e poi sapessimo dire soltanto le sillabe e non le lettere del tuo nome — quella sarebbe opinione vera, e non conoscenza; poiché la conoscenza, come è già stato osservato, non si raggiunge finché non vi sia un’enumerazione degli elementi di cui qualsiasi cosa è composta, unita all’opinione vera.
 
-THEAETETUS: Sì.
+TEETETO: Sì.
 
-SOCRATE: Nello stesso modo generale, potremmo avere anche un'opinione vera intorno a un carro; ma chi può descriverne l'essenza mediante l'enumerazione delle cento assi, aggiunge la spiegazione razionale all'opinione vera, e invece dell'opinione possiede arte e conoscenza della natura del carro, in quanto giunge al tutto attraverso gli elementi.
+SOCRATE: Nello stesso modo generale, potremmo avere anche un’opinione vera su un carro; ma chi può descriverne l’essenza mediante l’enumerazione delle cento assi, aggiunge la spiegazione razionale all’opinione vera, e invece dell’opinione possiede arte e conoscenza della natura del carro, in quanto raggiunge il tutto attraverso gli elementi.
 
-E non sei d'accordo con questa opinione, Socrate?
+TEETETO: E non condividi questa opinione, Socrate?
 
-SOCRATE: Se lo fai, amico mio; ma voglio prima sapere se ammetti che la risoluzione di tutte le cose nei loro elementi sia una spiegazione razionale di esse, e che la considerazione di esse in sillabe o in loro combinazioni più ampie sia irrazionale — è questa la tua opinione?
+SOCRATE: Se tu condividi, amico mio; ma voglio prima sapere se ammetti che la risoluzione di tutte le cose nei loro elementi sia una spiegazione razionale di esse, e che la considerazione di esse in sillabe o in combinazioni più ampie sia irrazionale — è questa la tua opinione?
 
-THEAETETUS: Precisamente.
+TEETETO: Precisamente.
 
-Ebbene, e concepisci che un uomo abbia conoscenza di alcun elemento, il quale in un tempo afferma e in un altro nega quell'elemento di qualcosa, o pensi che la medesima cosa sia composta di diversi elementi in diversi tempi?
+SOCRATE: Ebbene, credi che un uomo abbia conoscenza di un elemento se ora afferma e ora nega quell’elemento di qualcosa, o se pensa che la stessa cosa sia composta di elementi diversi in momenti diversi?
 
 TEETETO: Certamente no.
 
-SOCRATE: E non ricordi che nel tuo caso e in quello di altri ciò accadde spesso nel processo dell'imparare a leggere?
+SOCRATE: E non ricordi che nel tuo caso e in quello di altri questo accadeva spesso mentre si imparava a leggere?
 
-TEETETO: Intendi dire che io scambiai le lettere e compitai male le sillabe?
+TEETETO: Vuoi dire che confondevo le lettere e compitavo male le sillabe?
 
 SOCRATE: Sì.
 
-TEETETO: Certamente; ricordo perfettamente, e sono ben lungi dal supporre che coloro i quali si trovano in questa condizione abbiano conoscenza.
+TEETETO: Certo; ricordo perfettamente, e sono ben lungi dal supporre che coloro che sono in questa condizione abbiano conoscenza.
 
-SOCRATE: Quando uno, nell'atto di imparare, scrive il nome di Teeteto, e crede di dover scrivere e scrive Th ed e; ma, di nuovo, volendo scrivere il nome di Teododoro, crede di dover scrivere e scrive T ed e — possiamo noi supporre che egli conosca le prime sillabe dei vostri due [nomi](/positions/nominalism)?
+SOCRATE: Quando uno, nell’atto di imparare, scrive il nome di Teeteto, e pensa di dover scrivere e scrive Th ed e; ma poi, volendo scrivere il nome di Teodoro, pensa di dover scrivere e scrive T ed e — possiamo supporre che egli conosca le prime sillabe dei vostri due [names](/positions/nominalism)?
 
 TEETETO: Abbiamo già ammesso che un tale non ha ancora conseguito la conoscenza.
 
-E parimenti può enumerare senza conoscerle la seconda, la terza e la quarta sillaba del tuo nome?
+SOCRATE: E allo stesso modo può enumerare, senza conoscerle, la seconda, la terza e la quarta sillaba del tuo nome?
 
 TEETETO: Può.
 
-SOCRATE: E in tal caso, quando conosce l'ordine delle lettere e può scriverle correttamente, ha retta opinione?
+SOCRATE: E in tal caso, quando conosce l’ordine delle lettere e sa scriverle correttamente, ha un’opinione retta?
 
 TEETETO: Chiaramente.
 
-Ma sebbene ammettiamo che egli abbia retta opinione, sarà egli tuttavia senza conoscenza?
+SOCRATE: Ma sebbene ammettiamo che egli abbia un’opinione retta, sarà ancora senza conoscenza?
 
-THEAETETUS: Sì.
+TEETETO: Sì.
 
-SOCRATE: E tuttavia egli avrà la spiegazione, oltre all'opinione retta, poiché conosceva l'ordine delle lettere quando scriveva; e questo ammettiamo che sia spiegazione.
+SOCRATE: E tuttavia avrà una spiegazione, oltre all’opinione retta, perché conosceva l’ordine delle lettere quando scriveva; e questo ammettiamo che sia una spiegazione.
 
 TEETETO: Vero.
 
-Allora, amico mio, vi è una tal cosa come l'opinione retta unita a definizione o spiegazione, che non raggiunge ancora l'esattezza della conoscenza.
+SOCRATE: Allora, amico mio, esiste un’opinione retta unita a definizione o spiegazione, che non raggiunge ancora l’esattezza della conoscenza.
 
-THEAETETUS: Sembrerebbe di sì.
+TEETETO: Così sembrerebbe.
 
-SOCRATE: E ciò che immaginammo essere una perfetta definizione della conoscenza è soltanto un sogno. Ma forse è meglio non dirlo ancora, poiché non vi erano forse tre spiegazioni della conoscenza, una delle quali, come dicevamo, deve essere adottata da colui che sostiene che la conoscenza è opinione vera accompagnata da spiegazione razionale? E molto probabilmente potrà trovarsi qualcuno che non preferirà ciò, ma la terza.
+SOCRATE: E ciò che immaginavamo essere una definizione perfetta della conoscenza è soltanto un sogno. Ma forse faremmo meglio a non dirlo ancora, poiché non vi erano forse tre spiegazioni della conoscenza, una delle quali, come dicevamo, deve essere adottata da chi sostiene che la conoscenza è opinione vera combinata con spiegazione razionale? E molto probabilmente si troverà qualcuno che non preferirà questa, ma la terza.
 
 <span class="atom-split" data-atom="022" data-title="Parte 22" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
