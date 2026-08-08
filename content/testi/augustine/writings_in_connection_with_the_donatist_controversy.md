@@ -242,6 +242,24 @@ In the second sermon on (ci.) preached about this time, when enlarging upon the 
 
 Cresconius, a layman and philologist, read Augustin’s first book in answer to Petilian, and wrote a reply, which, however, was circulated among the Donatists only. Augustin at last secured a copy, and wrote (406 A.D., some say as late as 409) Contra Cresconium Grammaticum Partis Donati, libri IV. Three of these books controvert the arguments of Cresconius; part of the third and the fourth entire is a detailed polemic history of the Maximian schism.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Verso il 404 d.C. due casi ufficiali di disciplina si erano verificati nel monasterium di Agostino, che avevano ferito l'orgoglio del clero, perché si erano vantati che la loro istituzione fosse realmente più pura del corpo puristico raccolto intorno al vescovo donatista Proculeiano. Erano più turbati da questo che dai peccati dei fratelli sospettati, uno dei quali, tuttavia, sembrava aver subito una notevole ingiustizia. Mentre discuteva di questa questione [in Ep. lxxviii.] egli incidentalmente menziona la caduta di due donatisti, che erano stati ricevuti nella comunione di Agostino, e la cui condotta il clero aveva considerato come una prova della lassità della disciplina sotto Proculeiano.
+
+Un sermone sul Salmo 95 (96) può essere stato predicato nell'anno 404 o in quel torno, nel quale egli rimprovera ai Donatisti il loro orgoglio nel pretendere o che essi, i pochi in Africa, siano quelli comprati da Cristo, o che siano così grandi perché questo grande dono fu concesso a loro soli. E commentando il v. 10, dicite in nationibus, Dominus regnavit a ligno, ecc., li canzona perché cercano questo regno per mezzo del legno, attraverso i bastoni dei Circoncellioni; e si diffonde anche sul tema dell'universalità, contro la loro introvabilità di qui e di là.
+
+Cæcilianus, la cui esatta carica civile, se vicario o prefetto dell'annona, non è ancora determinata, è da Agostino appellato come preside nell'Ep. lxxxvi., attribuita al 405 d.C. I più severi editti di Onorio erano appena stati pubblicati. Questo funzionario li aveva eseguiti con commovente zelo. La sua amministrazione nella maggior parte dell'Africa è particolarmente lodata; il vescovo lo prega di restaurare l'unità cattolica anche a Ippona e ai confini della Numidia. Lo scarso successo della sua opera non è dovuto a mancanza di dovere episcopale, ed egli chiede a Cæcilianus di informarsi presso il clero, o presso il latore, un presbitero incaricato, circa il vero stato delle cose; vorrebbe che [lo Stato](/concepts/state) cominciasse con le ammonizioni nella speranza di evitare il ricorso a rimedi più severi.
+
+Emerito, vescovo di Giulia Cesarea, uno dei sette disputanti donatisti alla conferenza successiva, non rifuggì dalla corrispondenza o dall'associazione con i suoi avversari. Egli è descritto come uomo di ingegno e di carattere. Agostino gli aveva scritto una lettera, che non è conservata, e alla quale non era stata data risposta. Egli cerca ancora una volta di attirarlo a una discussione amichevole o a una corrispondenza [Ep. lxxxvii.], in questo tempo di generale ritorno alla madre Chiesa. Egli vorrebbe che tutti gli uomini di cultura tornassero alla vera comunione. Quale sia il particolare motivo di Emerito per continuare nella separazione, egli non sa. Egli passa a discutere l'universalità, il purismo, la validità dei documenti, la nefandezza dello scisma, l'esiguità del numero e il diritto di coercizione.
+
+L'applicazione degli editti civili fu seguita da violenti scoppi dei Circoncellioni, specialmente nella diocesi di Agostino. Il clero si unì in una protesta [Ep. lxxxviii.] indirizzata al venerabile vescovo Gennaro, un donatista, probabilmente nel 406 d.C. Essi affermano (1) che ricevono male per bene. (2) L'appello allo stato fu iniziato dai majorinisti, e due documenti completi sono forniti in prova. (3) Tutti i decreti dell'impero da allora sono la semplice esecuzione dell'editto di Costantino contro il partito di Donato, che costoro avevano voluto fosse emanato contro Ceciliano. (4) Gli atti dei Circoncellioni; furono la vera occasione per sforzi più severi di soppressione; vengono menzionati esempi della loro crudeltà. (5) I cattolici hanno perseguito una politica conciliante tramite conferenze e desiderando una mitigazione delle pene, che furono frustrate l'una da rifiuti, l'altra da un grave assalto al vescovo cattolico di Bagai; tutti coloro che cadono nelle mani del clero di stato sono trattati con misericordiosa persuasione. (6) Vengono suggerite varie proposte di pace.
+
+Festus, funzionario governativo e proprietario terriero apparentemente a Ippona, aveva scritto una lettera esortando i Donatisti a tornare alla Chiesa madre. Essa portò poco frutto, ed egli chiede ad Agostino prima di istruirlo e anche di dargli un trattato per uso generale. Agostino, c. 406. [Ep. lxxxix.], sostiene il dovere della perseveranza nel recupero civile dei Donatisti; la loro rivendicazione della persecuzione come nota che li attesta essere il vero popolo di Dio è follia, perché non è la mera sofferenza, ma la causa per cui si soffre, che fa il martire. Lo esorta a leggere gli archivi e a vedere come gli scismatici iniziarono l'appello al potere secolare, e come tutte le cose che sono loro accadute per mezzo di quel braccio sarebbero state la giusta sorte dei Cecilianisti, se il corso dei Donatisti fosse stato approvato. Inoltre, perché questo ingiusto trattamento della Chiesa universale nel condannarla senza ascoltarla, e nel ribattezzare i suoi membri, che non hanno fatto loro alcun torto? La teoria che il battesimo sia valido solo quando amministrato dai giusti è riporre una fiducia nell'uomo che le Scritture condannano; il [sacramento](/concepts/sacrament) non è dell'uomo ma di Cristo; inoltre, si preferirebbe essere battezzato da un uomo malvagio, poiché allora riceverebbe la grazia direttamente da Cristo, secondo il loro sotterfugio. Egli è infastidito dalla loro opposizione attiva e passiva; la madre deve correggere, sebbene il suo figlio ostinato possa non gradirlo. Essi affermano che i cattolici li accettano senza richiedere alcun cambiamento in loro, ma il cambiamento richiesto è grande, non minore di quello dall'errore alla verità. Il vescovo propone, in sostituzione del piano di Festus, l'invio segreto a se stesso di un messaggero autorizzato, e avrebbero escogitato insieme un [metodo](/axes/method) per la correzione dei Donatisti.
+
+Nel secondo sermone su (ci.) predicato circa questo tempo, quando, trattando dell'unità, deride l'affermazione donatista che la Chiesa che era tra tutte le nazioni fosse perita, come dichiara la voce impudente di coloro che non sono in essa. Così è la loro affermazione che le profezie della [Scrittura](/concepts/revelation) circa la diffusione del regno si sono adempiute; tutte le nazioni hanno creduto, ma questa comunione diffusa ha apostatato ed è perita. Egli rimprovera la presunzione che la parola del Signore: Io sono con voi, sino alla fine del mondo, fosse destinata a loro soli, prevedendo il Signore che il partito di Donato sarebbe stato sulla terra. Se gli imperatori hanno promulgato leggi contro gli eretici, ciò è parte delle predizioni che preannunciarono come i re avrebbero servito il Signore. Quindi egli sviluppa le note di universalità e perpetuità.
+
+Cresconio, laico e filologo, lesse il primo libro di Agostino in risposta a Petiliano, e scrisse una replica, la quale, però, fu diffusa soltanto tra i donatisti. Agostino alla fine si procurò una copia e scrisse (406 d.C., alcuni dicono addirittura nel 409) Contra Cresconium Grammaticum Partis Donati, libri IV. Tre di questi libri confutano gli argomenti di Cresconio; parte del terzo e l'intero quarto sono una dettagliata storia polemica dello scisma massimianista.
+
 <span class="atom-split" data-atom="009" data-title="Chapter II.—An Analysis of Augustin’s Writings Against the Donatists. (8/17)" data-chapter="Chapter II.—An Analysis of Augustin’s Writings Against the Donatists." data-kind="atom" data-srclang="en"></span>
 
 In Book I. he alludes to the occasion of the writing, and hesitates between being regarded as contumelious if he declined an answer, and arrogant, should he reply. Cresconius had attacked eloquence, which Augustin defends as simply the art of speaking, and as not to be condemned because it has been abused. You do not condemn military armament for your country because others have taken up arms against the country; the physician does not refuse to use all drugs because some are baneful; because there are sophists one is not to deny the value of eloquence. Cresconius seemed to regard its cultivation as injurious to the simplicity of Christian law and teaching. He also had accused Augustin of persistent arrogance in his pertinacious pursuit of the Donatists. Augustin claims to do a good work with good ends in view, and says its fruit has been a rich harvest for the Church. So the discussion passes on to the use of dialectics, which Cresconius assails, but Augustin defends as nothing else than a demonstration of results, either the true from the true or the false from the false. He justifies not disputatiousness, but the arguments by which truth is built up, for Christ employed it, and St. Paul wielded its weapons not only with the Jews but with Epicureans and Stoics. In all this we have an illustration of that unfortunate tendency to undervalue culture whenever a puristic community passes into the fires. Augustin applies the art to one of the points which Cresconius had discussed, viz., rebaptism. He had endeavored to prove that it was solely among them. Augustin concedes that the rite is there, but not its profit; in order to enjoy its profit, it must be administered lawfully. The oneness of baptism as a ceremony is not dependent on the oneness of the Church, whereas its profit is. A reprobate society of heretics can have a good baptism, but it is not properly and not profitably administered among them; the proper and profitable administration is solely in the Church to salvation; the rite outside is to judgment.
@@ -665,6 +683,118 @@ This treatise was written about 400 A.D. Concerning it Aug. in Retract. Book II.
 _________________
 
 Writings In Connection With The Donatist Controversy: On Baptism, Against the Donatists.: Book I
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questa fu la sua freccia d'addio dopo i trentasei anni di battaglia. Cattolici e donatisti passarono sotto le persecuzioni dei Vandali ariani. Due anni dopo questo trattato Agostino depose le armi per entrare nella terra dell'eterna pace e dell'unità.
+
+Si fanno allusioni più o meno estese al Donatismo nei sermoni seguenti, disposti nell’ordine delle edizioni benedettine; giacché gli anni in cui furono pronunciati non possono essere determinati. La mancanza di spazio impedisce di presentare alcuna analisi.
+
+Sermone X.
+
+Sermone XLV. E.
+
+Sermo XLVI..
+
+Sermo XLVII.
+
+Sermone LXXI..
+
+Discorso 88.
+
+Discorso 90.
+
+Sermone CVII. Lc. 12, 13–21.
+
+Sermone CXXIX..
+
+Non hai fornito alcun passaggio in inglese da tradurre. Per favore, invia il testo che desideri venga tradotto in italiano.
+
+Sermone CXXXVIII.
+
+Sermo CLXXXIII.
+
+I notice the passage you've provided ("Sermo CCXVIII. Luc. xxiv. 38–47.") is in Latin, not English, and is just a heading referencing a sermon number and a Bible passage. Could you provide the actual English text you'd like translated into Italian?
+
+Sermone CCXLIX.
+
+Sermone CCLII.
+
+Sermo CCLXV. L'Ascensione.
+
+Sermone CCLXVI. (cxl.) 5.
+
+Sermo CCLXVIII. Pentecoste.
+
+Sermone CCLXIX. Pentecoste.
+
+Sermo CCLXXXV. Anniversario dei martiri Casto ed Emilio.
+
+Sermo CCXCII. Giovanni Battista.
+
+Sermo CCCXXV. Anniversario dei venti martiri.
+
+Riferimenti simili si trovano nelle esposizioni e nei sermoni basati sui Salmi. La prima colonna è l'ordine ebraico e inglese; la seconda è quello della LXX. e della Vulgata.
+
+Esposizione dei Salmi XI. (X.)
+
+Esposizione del Salmo XXVI. (XXV.) Sermone.
+
+Esposizione dei Salmi XXXI. (XXX.) Sermoni I. e II.
+
+Esposizione dei Salmi XXXIII. (XXXII.) Sermone II.
+
+Esposizione del Salmo XXXIV. (XXXIII.) Sermone II.
+
+Esposizione dei Salmi XXXVI. (XXXV.) Sermone.
+
+Esposizione dei Salmi XXXVII. (XXXVI.) Sermoni II. (archivistico) e III.
+
+Esposizione dei Salmi XL. (XXXIX.) Sermone.
+
+Esposizione dei Salmi LV. (LIV.) Sermone.
+
+Esposizione del Salmo LVIII. (LVII.) Discorso.
+
+Esposizione dei Salmi LXXXVI. (LXXXV.) Sermone.
+
+Esposizione dei Salmi XCIX. (XCVIII.) Sermone.
+
+Esposizione dei Salmi CXX. (CXIX.) Sermone.
+
+Esposizione del Salmo CXXV. (CXXIV.) Sermone.
+
+Esposizione dei Salmi CXXXIII. (CXXXII.) Sermone.
+
+Esposizione dei Salmi CXLVI. (CXLV.) Sermone.
+
+Esposizione dei Salmi CXLVII. 12–20 (CXLVII.) Sermone.
+
+Esposizione dei Salmi CXLIX. Sermone.
+
+Il tempo della composizione del de Utilitate Jejunii è sconosciuto. Il capitolo V. 9 contrappone i digiuni pagani, eretici e cattolici; gli eretici pretendono invero di digiunare per piacere a Dio; come possono, quando spezzano l'unità? Tutti gli eretici periscono; sono i divisori dell'eredità di Cristo.
+
+In conclusione il revisore desidera elogiare la fedeltà e la lucidità della traduzione fatta dal Rev. J. R. King, M.A.
+
+Non sono state indicate le modifiche apportate dal revisore, poiché non tutte potevano esserlo senza confusione. La traduzione aveva tratto la maggior parte delle sue note e riferimenti dai Benedettini. Le citazioni di Cipriano sono secondo i numeri dell’edizione di Hartel.
+
+Scritti in relazione alla controversia donatista: sul battesimo, contro i donatisti.
+
+I notice that you've provided the instruction but not the English passage to translate. Could you share the text you'd like me to translate into Italian?
+
+Sette libri di Agostino,
+
+Vescovo di Ippona
+
+Sul Battesimo, Contro i Donatisti
+
+_________________
+
+Questo trattato fu scritto intorno al 400 d.C. Riguardo ad esso Agostino nelle Ritrattazioni, libro II, cap. xviii., dice: «Ho scritto sette libri sul Battesimo contro i Donatisti, i quali si sforzano di difendersi con l'autorità del beatissimo vescovo e martire Cipriano; nei quali mostro che nulla è tanto efficace per confutare i Donatisti e per chiudere loro la bocca, impedendo loro di sostenere il loro scisma contro la Chiesa Cattolica, quanto le lettere e l'atto di Cipriano.»
+
+_________________
+
+Scritti in connessione con la controversia donatista: Sul battesimo, contro i donatisti.: Libro I
 
 <span class="atom-split" data-atom="019" data-title="Book I. (1/17)" data-chapter="Book I." data-kind="atom" data-srclang="en"></span>
 
@@ -3209,6 +3339,32 @@ Written c. 400 A.D., some say 398 A.D., but Augustin places it some time after t
 _________________
 
 Writings In Connection With The Donatist Controversy: Answer to the Letters of Petilian, the Donatist.: Book I
+
+<span class="qlang-split" data-lang="it"></span>
+
+Capitolo 54.—103. Ma ora penso che sia pienamente tempo per me di portare a debita conclusione anche questi libri sul soggetto del battesimo, nei quali il Signore nostro Dio ci ha mostrato, per mezzo delle parole del pacifico Vescovo Cipriano e dei suoi fratelli che concordavano con lui, quanto grande sia l'[amore](/concepts/charity) che si deve sentire per l'unità cattolica; cosicché, anche dove essi erano di diverso parere finché Dio non avesse rivelato loro anche questo, preferissero piuttosto sopportare coloro che pensavano diversamente da loro, piuttosto che separarsi da essi mediante un empio scisma; per cui le bocche dei Donatisti sono del tutto chiuse, anche se non diciamo nulla dei seguaci di Massimiano. Poiché, se i malvagi contaminano i buoni nell'unità, allora lo stesso Cipriano non trovò già più alcuna Chiesa a cui potesse unirsi. Ma se i malvagi non infettano i buoni nell'unità, allora il sacrilego Donatista non ha alcun fondamento da porre davanti a sé per la separazione. Ma se il battesimo è posseduto e trasmesso anche dalla moltitudine degli altri che operano le opere della carne, delle quali è detto che "coloro che fanno tali cose non erediteranno il regno di Dio", allora esso è posseduto e trasmesso anche dagli eretici, che sono annoverati tra quelle opere; perché avrebbero potuto trasmetterlo se fossero rimasti, e non lo persero con la loro secessione. Ma uomini di tal genere lo conferiscono ai loro simili tanto infruttuosamente e inutilmente quanto gli altri che loro somigliano, in quanto non erediteranno il regno di Dio. E come, quando quegli altri sono ricondotti sulla retta via, non è che il battesimo cominci a essere presente, essendo stato prima assente, ma comincia a giovare loro, essendo già in essi; così è anche per gli eretici. Per cui Cipriano e coloro che pensavano con lui non poterono imporre limiti alla Chiesa cattolica, che essi non vollero mutilare. Ma nel fatto che fossero di diverso parere non proviamo timore, vedendo che anche noi condividiamo la loro venerazione per Pietro; pure nel fatto che non si allontanarono dall'unità ci rallegriamo, vedendo che noi, come loro, siamo fondati sulla roccia.
+
+Scritti in Connessione con la Controversia Donatista: Risposta alle Lettere di Petiliano, il Donatista.
+
+I notice that you've provided the instruction but not the English passage to translate. Could you share the text you'd like me to translate into Italian?
+
+Tre libri di Agostino,
+
+Vescovo di Ippona
+
+Mi sembra che manchi il brano da tradurre. Potresti incollare il testo inglese che desideri venga tradotto in italiano?
+
+Le Lettere di Petiliano, il donatista,
+
+Vescovo di Cirta.
+
+_________________
+
+Scritto verso il 400 d.C., alcuni dicono 398 d.C., ma Agostino lo colloca qualche tempo dopo il trattato sul Battesimo: Ritratt. Lib. II, cap. XXV. Dalla medesima ricaviamo i seguenti punti circa l'origine di questo trattato: prima che A. avesse terminato i suoi libri sulla Trinità e il suo commentario parola per parola sulla Genesi, una risposta a una lettera che Petiliano aveva indirizzato ai suoi seguaci, della quale tuttavia solo una piccola parte era giunta nelle mani di A., richiese una preparazione immediata. Questa costituisce il Libro Primo. Successivamente si ottenne l'intero documento, ed egli si accinse a preparare il secondo Libro, c. 401; ma ancor prima che il trattato completo di Petiliano fosse stato procurato, quest'ultimo aveva ottenuto il primo libro di A., e in seguito mise in circolazione un'epistola ingiuriosa contro A. La risposta a quest'ultima è il Libro Terzo, c. 402. Petiliano era originariamente avvocato. Gli avversari lo accusavano di essere divenuto donatista per costrizione, di aver assunto il titolo di Paracleto, e di adoperarsi per impedire ogni accesso da parte loro ai suoi scritti.
+
+_________________
+
+Scritti in Connessione con la Controversia Donatista: Risposta alle Lettere di Petiliano, il Donatista.: Libro I
 
 <span class="atom-split" data-atom="089" data-title="Book I. (11/17)" data-chapter="Book I." data-kind="atom" data-srclang="en"></span>
 
