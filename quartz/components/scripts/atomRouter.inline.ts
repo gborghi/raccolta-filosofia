@@ -145,7 +145,17 @@ function leafLabel(a: Atom): string {
   if (a.chapter && s.startsWith(a.chapter)) {
     s = s.slice(a.chapter.length).replace(/^[\s—–-]+/, "").trim() || s
   }
-  return s.replace(/^\((?:part|parte)\s*(\d+)\)$/i, "Parte $1")
+  // "(parte 2)", "(part 2)" → "Parte 2"
+  if (/^\((?:part|parte)\s*\d+\)$/i.test(s)) {
+    return s.replace(/^\((?:part|parte)\s*(\d+)\)$/i, "Parte $1")
+  }
+  // "(2/5)" → "Parte 2"
+  const m = s.match(/^\((\d+)\/\d+\)$/)
+  if (m) return `Parte ${m[1]}`
+  // "(2)" → "Parte 2"
+  const m2 = s.match(/^\((\d+)\)$/)
+  if (m2) return `Parte ${m2[1]}`
+  return s
 }
 
 function build(reader: HTMLElement) {

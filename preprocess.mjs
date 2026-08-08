@@ -587,7 +587,7 @@ async function main() {
       let label
       if (isIntro) label = title
       else if (isFlat) label = `Parte ${atomN}`
-      else if (group.length > 1) label = `${atomTitleRaw} (${group.indexOf(a) + 1}/${group.length})`
+      else if (group.length > 1) label = `${atomTitleRaw} (parte ${group.indexOf(a) + 1})`
       else label = atomTitleRaw
 
       const H1_RE = /^([ \t]*\r?\n)*[ \t]*#[ \t]+(.+?)[ \t]*\r?\n/
