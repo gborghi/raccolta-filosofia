@@ -90,6 +90,11 @@ function wireOnce(): void {
   toggleBtn.type = "button"
   toggleBtn.className = "site-nav-toggle"
   toggleBtn.setAttribute("aria-label", "Apri o chiudi il menu laterale")
+  // The button is JS-only (never present in fetched HTML), so spa.inline.ts's
+  // micromorph(document.body, html.body) would remove it on the next client-side
+  // navigation as an unmatched body child. data-persist protects it, mirroring
+  // route-announcer; init() below also defensively re-appends it as belt-and-suspenders.
+  toggleBtn.dataset.persist = ""
   toggleBtn.addEventListener("click", (e) => {
     e.stopPropagation()
     setOpen(!isOpen())
@@ -129,6 +134,9 @@ function wireOnce(): void {
 
 function init(): void {
   wireOnce()
+  // Belt-and-suspenders: if micromorph ever dropped the persisted button anyway,
+  // re-append it (mirrors spa.inline.ts's loadingBar defensive re-append).
+  if (toggleBtn && !document.body.contains(toggleBtn)) body().appendChild(toggleBtn)
   // Each navigation may change page type (atomRouter sets body.reading-page). Reset the
   // transient open-states to each mode's default so the toggle starts predictable.
   body().classList.remove("explorer-open")
