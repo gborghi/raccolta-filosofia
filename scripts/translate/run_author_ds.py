@@ -274,7 +274,7 @@ def translate_block(src_block, tgt_lang, src_lang, cache, tries=3):
             {"role": "system", "content": _system_prompt(tgt_lang, src_lang, False)},
             {"role": "user", "content": src_block},
         ]
-        budget = 16384
+        budget = max(16384, min(65536, len(src_block) * 16))
         for _ in range(tries):
             out = call_deepseek(msgs, budget)
             out = repair_mask_codes(out)
@@ -294,7 +294,7 @@ def translate_block(src_block, tgt_lang, src_lang, cache, tries=3):
                 {"role": "system", "content": _system_prompt(tgt_lang, src_lang, True)},
                 {"role": "user", "content": masked},
             ]
-            budget = 16384
+            budget = max(16384, min(65536, len(src_block) * 16))
             out = call_deepseek(msgs, budget)
             out = repair_mask_codes(out)
             out = _clean_output(out)

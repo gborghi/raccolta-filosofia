@@ -33,6 +33,20 @@ gospel according to st. John.
 
 Tractate I.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Trattato I
+
+lezioni o trattati
+
+sul
+
+vangelo secondo san Giovanni.
+
+————————————
+
+Trattato I.
+
 <span class="atom-split" data-atom="002" data-title="Chapter I. 1–5 (1/5)" data-chapter="Chapter I. 1–5" data-kind="atom" data-srclang="en"></span>
 
 1. When I give heed to what we have just read from the apostolic lesson, that “the natural man perceiveth not the things which are of the Spirit of God,” and consider that in the present assembly, my beloved, there must of necessity be among you many natural men, who know only according to the flesh, and cannot yet raise themselves to spiritual understanding, I am in great difficulty how, as the Lord shall grant, I may be able to express, or in my small measure to explain, what has been read from the Gospel, “In the beginning was the Word, and the Word was with God, and the Word was God;” for this the natural man does not perceive. What then, brethren? Shall we be silent for this cause? Why then is it read, if we are to be silent regarding it? Or why is it heard, if it be not explained? And why is it explained, if it be not understood? And so, on the other hand, since I do not doubt that there are among your number some who can not only receive it when explained, but even understand it before it is explained, I shall not defraud those who are able to receive it, from fear of my words being wasted on the ears of those who are not able to receive it. Finally, there will be present with us the [compassion](/concepts/compassion) of God, so that perchance there may be enough for all, and each receive what he is able, while he who speaks says what he is able. For to speak of the matter as it is, who is able? I venture to say, my brethren, perhaps not John himself spoke of the matter as it is, but even he only as he was able; for it was man that spoke of God, inspired indeed by God, but still man. Because he was inspired he said something; if he had not been inspired, he would have said nothing; but because a man inspired, he spoke not the whole, but what a man could he spoke.
