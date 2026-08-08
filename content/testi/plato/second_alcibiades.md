@@ -180,6 +180,166 @@ SOCRATES: And would you accept them if you were likely to use them to a bad and 
 
 ALCIBIADES: I would not.
 
+<span class="qlang-split" data-lang="it"></span>
+
+PERSONAGGI DEL DIALOGO:
+
+[Socrate](/figures/socrates)
+
+Alcibiade
+
+SOCRATE: Hai intenzione, Alcibiade, di offrire una preghiera a Zeus?
+
+ALCIBIADES: Sì, Socrate, lo sono.
+
+SOCRATE: Sembri essere turbato e volgere gli occhi a terra, come se tu stessi pensando a qualche cosa.
+
+ALCIBIADE: Di che cosa supponi che io stia pensando?
+
+SOCRATE: Delle cose più grandi, come io credo. Dimmi, non supponi che gli Dei talvolta in parte concedano e in parte respingano le richieste che facciamo in pubblico e in privato, e favoriscano alcune persone e non altre?
+
+Certamente.
+
+SOCRATE: Non credi, allora, che un uomo debba essere molto cauto, per timore che, senza saperlo, implori per sé grandi mali, credendo di chiedere beni, soprattutto se gli Dei sono disposti a concedere qualunque cosa egli richieda? Vi è, per esempio, la storia di Edipo, il quale pregò che i suoi figli dividessero tra loro l'eredità con la spada: egli non implorò, come avrebbe potuto, che i mali presenti gli fossero allontanati, ma chiamò su di sé mali nuovi. E la sua preghiera non fu forse esaudita, e non sorsero da ciò molti e terribili mali, sui quali non occorre che mi dilunghi?
+
+ALCIBIADE: Sì, Socrate, ma tu parli di un pazzo: certamente non credi che chiunque sia sano di mente oserebbe fare una tale preghiera?
+
+SOCRATE: La follia, adunque, consideri essere l’opposto della discrezione?
+
+ALCIBIADE: Certamente.
+
+SOCRATE: E alcuni uomini ti sembrano essere discreti, e altri il contrario?
+
+ALCIBIADE: Lo fanno.
+
+SOCRATE: Bene, allora discutiamo chi siano costoro. Riconosciamo che alcuni sono prudenti, alcuni stolti, e che alcuni sono pazzi?
+
+ALCIBIADE: Sì.
+
+SOCRATE: E ancora, vi sono alcuni che sono in salute?
+
+ALCIBIADE: Ci sono.
+
+Mentre gli altri sono malati?
+
+ALCIBIADE: Sì.
+
+SOCRATE: E non sono le stesse?
+
+ALCIBIADE: Certamente no.
+
+SOCRATE: Né vi sono alcuni che non siano in nessuno dei due stati?
+
+ALCIBIADE: No.
+
+SOCRATE: Un uomo deve essere o malato o sano?
+
+ALCIBIADES: Questa è la mia opinione.
+
+SOCRATE: Molto bene: e pensi lo stesso riguardo alla discrezione e alla mancanza di discrezione?
+
+ALCIBIADE: Come intendi?
+
+SOCRATE: Credi che un uomo debba essere o in sé o fuori di sé; o vi è una qualche terza o intermedia condizione, in cui non è né l'uno né l'altro?
+
+ALCIBIADE: Decisamente no.
+
+SOCRATE: Deve essere o sano o pazzo?
+
+ALCIBIADE: Così suppongo.
+
+SOCRATE: Non riconoscesti che la follia era l'opposto della discrezione?
+
+ALCIBIADE: Sì.
+
+SOCRATE: E che non v'è un terzo o medio termine tra discrezione e indiscrezione?
+
+ALCIBIADE: Vero.
+
+SOCRATES: And there cannot be two opposites to one thing?
+
+ALCIBIADE: Non può.
+
+SOCRATE: Allora la pazzia e la mancanza di senno sono la stessa cosa?
+
+ALCIBIADE: Sembra che sia così.
+
+SOCRATE: Avremo quindi ragione, Alcibiade, se diciamo che tutti gli insensati sono pazzi. Per esempio, se tra persone della tua età o più anziane di te vi sono alcuni insensati — come certamente ce ne sono — essi sono pazzi. Dimmi, infatti, per il cielo, non pensi che in città i saggi siano pochi, mentre gli stolti, che tu chiami pazzi, siano molti?
+
+ALCIBIADES: Lo faccio.
+
+SOCRATE: Ma come potremmo vivere al sicuro con così tante persone pazze? Non avremmo dovuto già da lungo tempo pagare il fio per mano loro, ed essere stati colpiti e percossi e aver sopportato ogni altra forma di maltrattamento che i pazzi sogliono infliggere? Considera, mio caro amico: non potrebbe essere ben altrimenti?
+
+ALCIBIADE: Perché, Socrate, come è possibile? Devo essermi sbagliato.
+
+SOCRATE: Così mi sembra. Ma forse possiamo considerare la questione in questo modo: —
+
+ALCIBIADE: Come?
+
+SOCRATE: Te lo dirò. Noi pensiamo che alcuni siano malati; non è vero?
+
+ALCIBIADE: Sì.
+
+SOCRATE: E ogni ammalato deve avere o la gotta, o la febbre, o soffrire d'oftalmia? O credi che un uomo possa [soffrire](/concepts/labour) di qualche altra malattia, anche se non ha nessuno di questi disturbi? Certo, non sono queste le sole malattie che esistono?
+
+ALCIBIADE: Certamente no.
+
+SOCRATE: E ogni specie di oftalmia è una malattia?
+
+ALCIBIADE: Sì.
+
+SOCRATE: E ogni malattia è oftalmia?
+
+ALCIBIADE: Non certo. Ma a stento comprendo io stesso ciò che intendo.
+
+SOCRATE: Forse, se mi presterai la tua massima attenzione, ‘noi due’ cercando insieme, potremmo trovare ciò che cerchiamo.
+
+ALCIBIADE: Attendo, Socrate, per quanto è in mio potere.
+
+SOCRATE: Siamo quindi d'accordo che ogni forma di oftalmia è una malattia, ma non ogni malattia è oftalmia?
+
+ALCIBIADES: Lo siamo.
+
+SOCRATE: E fin qui pare che abbiamo ragione. Poiché chiunque soffre di febbre è malato; ma i malati, io credo, non hanno tutti febbre o gotta o oftalmia, sebbene ciascuna di queste sia una malattia, la quale, secondo coloro che chiamiamo medici, può richiedere un diverso trattamento. Esse non sono tutte uguali, né producono il medesimo effetto, ma ciascuna ha il proprio effetto, e tuttavia sono tutte malattie. Non possiamo forse trarre un'illustrazione dagli artigiani?
+
+Certamente.
+
+SOCRATE: Vi sono calzolai, falegnami, scultori e altri di ogni sorta e genere, che non occorre fermarsi a enumerare. Tutti hanno i loro distinti impieghi e tutti sono lavoratori, sebbene non tutti siano calzolai, falegnami o scultori.
+
+ALCIBIADE: No, invero.
+
+SOCRATE: E similmente gli uomini differiscono riguardo alla mancanza di senno. Quelli che sono i più fuori di senno li chiamiamo ‘pazzi’, mentre chiamiamo ‘stupidi’ o ‘idioti’ coloro che lo sono meno; o, se preferiamo un linguaggio più gentile, li descriviamo come ‘romantici’ o ‘semplici’, o, ancora, come ‘innocenti’ o ‘inesperti’ o ‘sciocchi’. Potresti anche trovare altri [nomi](/positions/nominalism), se li cerchi; ma con tutti questi si intende mancanza di senno. Essi differiscono solo come un'arte ci parve differire da un'altra o una malattia da un'altra. O qual è la tua opinione?
+
+ALCIBIADE: Sono d'accordo con te.
+
+SOCRATE: Ritorniamo allora al punto dal quale siamo digrediti. Dicevamo in primo luogo che avremmo dovuto considerare chi fossero i sapienti e chi gli stolti. Poiché ammettemmo che vi sono queste due classi? Non è così?
+
+ALCIBIADES: Certamente.
+
+E consideri assennati coloro che sanno quel che si deve fare o dire?
+
+ALCIBIADE: Sì.
+
+SOCRATE: Gli insensati sono coloro che non sanno questo?
+
+ALCIBIADE: Vero.
+
+SOCRATE: Costoro diranno o faranno ciò che non dovrebbero senza loro propria consapevolezza?
+
+ALCIBIADES: Esattamente.
+
+SOCRATE: Edipo, come dicevo, o Alcibiade, era un uomo di tal sorta. E anche oggigiorno troverai molti i quali (hanno offerto preghiere infauste), sebbene, a differenza di lui, non fossero in [ira](/concepts/anger) né pensassero di chiedere alcun male. Egli non cercò il bene, né suppose di cercarlo, ma altri hanno avuto un'opinione del tutto contraria. Io credo che se il Dio che stai per consultare ti apparisse, e, prevenendo la tua richiesta, ti domandasse se saresti stato contento di diventare tiranno di Atene, e se questo ti sembrasse cosa piccola e vile, vi aggiungesse il dominio di tutta l'Ellade; e vedendo che neppure allora saresti soddisfatto se non fossi signore di tutta l'Europa, ti promettesse non solo quello, ma, se tu così desiderassi, proclamasse a tutti gli uomini in un medesimo giorno che Alcibiade, figlio di Clinia, era tiranno: — in tal caso, immagino, te ne andresti pieno di gioia, come uno che avesse ottenuto il più grande dei beni.
+
+E non solo io, Socrate, ma chiunque altro che incontrasse tale fortuna.
+
+SOCRATE: Eppure non accetteresti il dominio e la signoria di tutti gli Elleni e di tutti i barbari in cambio della tua vita?
+
+ALCIBIADE: Certamente no: ché allora che uso potrei farne?
+
+SOCRATE: E li accetteresti se fossi incline a servirti di essi per un fine cattivo e malvagio?
+
+ALCIBIADE: Io non vorrei.
+
 <span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): You see that it is not safe for a man either rashly to accept whatever is offered him, or himself to request a thing, if he is likely to suffer thereby or immediately to lose his life. And yet we could tell of many who, having long desired and diligently laboured to obtain a tyranny, thinking that thus they would procure an advantage, have nevertheless fallen victims to designing enemies. You must have heard of what happened only the other day, how Archelaus of Macedonia was slain by his beloved (compare [Aristotle](/figures/aristotle), Pol.), whose love for the tyranny was not less than that of Archelaus for him. The tyrannicide expected by his crime to become tyrant and afterwards to have a happy life; but when he had held the tyranny three or four days, he was in his turn conspired against and slain. Or look at certain of our own citizens, — and of their actions we have been not hearers, but eyewitnesses, — who have desired to obtain military command: of those who have gained their object, some are even to this day exiles from the city, while others have lost their lives. And even they who seem to have fared best, have not only gone through many perils and terrors during their office, but after their return home they have been beset by informers worse than they once were by their foes, insomuch that several of them have wished that they had remained in a private station rather than have had the glories of command. If, indeed, such perils and terrors were of profit to the commonwealth, there would be reason in undergoing them; but the very contrary is the case. Again, you will find persons who have prayed for offspring, and when their prayers were heard, have fallen into the greatest pains and sufferings. For some have begotten children who were utterly bad, and have therefore passed all their days in misery, while the parents of good children have undergone the misfortune of losing them, and have been so little happier than the others that they would have preferred never to have had children rather than to have had them and lost them. And yet, although these and the like examples are manifest and known of all, it is rare to find any one who has refused what has been offered him, or, if he were likely to gain aught by prayer, has refrained from making his petition. The mass of mankind would not decline to accept a tyranny, or the command of an army, or any of the numerous things which cause more harm than good: but rather, if they had them not, would have prayed to obtain them. And often in a short space of time they change their tone, and wish their old prayers unsaid. Wherefore also I suspect that men are entirely wrong when they blame the gods as the authors of the ills which befall them (compare Republic): ‘their own presumption,’ or folly (whichever is the right word) —
@@ -282,6 +442,108 @@ SOCRATES: Would you call a person wise who can give advice, but does not know wh
 
 ALCIBIADES: Decidedly not.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Vedi che non è sicuro per un uomo né accettare avventatamente ciò che gli è offerto, né chiedere egli stesso una cosa, se è probabile che perciò debba soffrire o perdere subito la vita. Eppure potremmo raccontare di molti che, avendo lungamente desiderato e diligentemente operato per ottenere una tirannide, pensando che così si sarebbero procacciati un vantaggio, sono nondimeno caduti vittime di nemici insidiosi. Avrete certamente udito ciò che accadde proprio l'altro giorno, come Archelao di Macedonia fu ucciso dal suo diletto (confronta [Aristotele](/figures/aristotle), Pol.), il cui amore per la tirannide non era minore di quello che Archelao nutriva per lui. Il tirannicida si attendeva, col suo delitto, di divenire tiranno e di avere poi una vita felice; ma quando ebbe tenuto la tirannide tre o quattro giorni, fu a sua volta vittima di una congiura e ucciso. O osservate alcuni dei nostri concittadini — e delle loro azioni siamo stati non uditori, ma testimoni oculari — i quali desiderarono di ottenere un comando militare: di quelli che raggiunsero lo scopo, alcuni sono ancora oggi esuli dalla città, altri hanno perduto la vita. E anche coloro che sembrano essere stati più fortunati, non solo hanno attraversato molti pericoli e terrori durante la loro carica, ma dopo il ritorno in patria sono stati assillati da delatori peggio di quanto prima non fossero stati dai nemici, tanto che parecchi di loro hanno desiderato di essere rimasti in condizione privata piuttosto che avere avuto le glorie del comando. Se, davvero, tali pericoli e terrori fossero di giovamento allo stato, vi sarebbe ragione di sopportarli; ma accade proprio il contrario. Di nuovo, troverete persone che hanno pregato per la prole, e quando le loro preghiere furono esaudite, sono cadute nei più grandi dolori e sofferenze. Poiché alcuni hanno generato figli del tutto malvagi, e hanno quindi trascorso tutti i loro giorni nella miseria, mentre i genitori di figli buoni hanno subito la sventura di perderli, e sono stati così poco più felici degli altri che avrebbero preferito non aver mai avuto figli piuttosto che averli avuti e perduti. Eppure, sebbene questi e simili esempi siano manifesti e noti a tutti, è raro trovare alcuno che abbia rifiutato ciò che gli era offerto, o che, se fosse probabile che con la preghiera potesse ottenere alcunché, si sia astenuto dal fare la sua richiesta. La massa degli uomini non rifiuterebbe di accettare una tirannide, o il comando di un esercito, o alcuna delle numerose cose che recano più danno che bene: ma piuttosto, se non le avesse, avrebbe pregato per ottenerle. E spesso in breve volgere di tempo mutano linguaggio e desiderano che le loro antiche preghiere non fossero mai state dette. Ond'anche sospetto che gli uomini sbaglino del tutto quando incolpano gli dèi come autori dei mali che loro accadono (confronta Repubblica): ‘la loro stessa presunzione,’ o follia (qualunque sia la parola giusta) —
+
+'Ha recato sovra loro questi mali smisurati.' (Omero. Odissea.)
+
+Dev'essere stato un saggio poeta, Alcibiade, colui che, vedendo, come io credo, i suoi amici stoltamente pregare e fare cose che non sarebbero loro state di vero profitto, offrì una preghiera comune in favore di tutti loro: —
+
+‘Re Zeus, concedici il bene, sia invocato che non cercato da noi; ma ciò che chiediamo a torto, tu allontana.’ (L’autore di questi versi, che sono probabilmente di origine pitagorica, è sconosciuto. Si trovano anche nell’Antologia (Ant. Pal.).)
+
+A mio parere, dico, il poeta parlò sia bene che prudentemente; ma se hai qualcosa da rispondergli, parla.
+
+ALCIBIADE: È difficile, Socrate, opporsi a ciò che è stato ben detto. E io percepisco quanti siano i mali di cui l'ignoranza è causa, poiché, come sembrerebbe, per ignoranza non solo facciamo, ma, ciò che è peggio, preghiamo per i mali più grandi. Nessun uomo immaginerebbe di fare così; crederebbe piuttosto di essere del tutto capace di pregare per ciò che è meglio: invocare mali sembra più una maledizione che una preghiera.
+
+SOCrate: Ma forse, mio buon amico, alcuno più saggio di te e di me dirà che non abbiamo il diritto di biasimare così avventatamente l'ignoranza, a meno che non possiamo aggiungere quale ignoranza intendiamo e di che cosa, e anche per chi e in che modo essa sia rispettivamente un bene o un male?
+
+ALCIBIADE: In che senso? Può mai l'ignoranza essere migliore della conoscenza per alcuna persona in alcun caso concepibile?
+
+SOCRATE: Così credo: — non pensi così?
+
+ALCIBIADE: Certamente no.
+
+SOCRATE: Eppure, certamente, non posso supporre che tu vorresti mai agire verso tua madre come si dice che Oreste e Alcmeone e altri abbiano fatto verso il loro genitore.
+
+ALCIBIADE: Buone parole, Socrate, ti priego.
+
+SOCRATE: Non devi ingiungere di usare fauste parole a colui che dice che tu non saresti disposto a commettere un'azione tanto orrenda, ma piuttosto a colui che afferma il contrario, se l'azione ti paia non degna neppure di essere menzionata. O forse pensi che Oreste, se fosse stato in sé e avesse saputo ciò che era meglio per lui fare, avrebbe mai osato avventurarsi in un simile delitto?
+
+ALCIBIADE: Certamente no.
+
+SOCRATE: Né alcun altro, suppongo?
+
+ALCIBIADE: No.
+
+SOCRATE: Quella ignoranza è allora cattiva, a quanto pare, che è del meglio e non conosce ciò che è meglio?
+
+ALCIBIADE: Così almeno credo.
+
+SOCRATE: E sia a colui che è ignorante che a tutti gli altri?
+
+ALCIBIADE: Sì.
+
+SOCRATE: Prendiamo un altro caso. Supponiamo che all'improvviso vi saltasse in testa che sarebbe cosa buona uccidere Pericle, vostro parente e tutore, e che, impugnata una spada, recandovi alla porta della sua casa, chiedeste se egli sia in casa, con l'intenzione di uccidere soltanto lui e nessun altro: — i servi rispondono: «Sì»: (Badate, non intendo dire che voi fareste davvero una cosa simile; ma non c'è nulla, credete, che impedisca a un uomo ignaro del meglio di avere talvolta il capriccio che il peggio sia il meglio?)
+
+ALCIBIADE: No.)
+
+SOCRATE: — Se, allora, entrato in casa e vedendolo, tu non lo riconoscessi, ma credessi che fosse un altro, oseresti ucciderlo?
+
+ALCIBIADE: Decisamente no (mi sembra). (Queste parole sono omesse in diversi MSS.)
+
+SOCRATES: Poiché intendevi uccidere, non il primo che si offrì, ma Pericle stesso?
+
+Certamente.
+
+SOCRATE: E se tu facessi molti tentativi, e ogni volta non riuscissi a riconoscere Pericle, non lo attaccheresti mai?
+
+ALCIBIADE: Mai.
+
+SOCRATE: Ebbene, ma se Oreste similmente non avesse conosciuto sua madre, credi che avrebbe mai messo le mani su di lei?
+
+ALCIBIADE: No.
+
+SOCRATE: Egli non intendeva uccidere la prima donna che incontrò, né la madre di alcun altro, ma soltanto la propria?
+
+ALCIBIADE: Vero.
+
+SOCRATE: L'ignoranza, dunque, è migliore per coloro che sono in tale stato d'animo e hanno tali idee?
+
+ALCIBIADE: Ovviamente.
+
+SOCRATE: Riconosci che per alcune persone, in certi casi, l'ignoranza di alcune cose è un bene e non un male, come supponevi prima?
+
+ALCIBIADES: Lo faccio.
+
+SOCRATE: E vi è ancora un altro caso che forse ti apparirà anche strano, se vorrai considerarlo? (La lezione è qui incerta.)
+
+ALCIBIADE: Che cos'è quello, Socrate?
+
+SOCRATE: Può darsi, in breve, che il possesso di tutte le scienze, se non accompagnato dalla conoscenza del meglio, più spesso che no nuoccia a chi lo possiede. Considera la cosa così: — Non dobbiamo forse, quando intendiamo fare o dire alcunché, supporre di sapere o di dover sapere ciò che così confidentemente ci proponiamo di fare o dire?
+
+ALCIBIADE: Sì, a mio parere.
+
+SOCRATE: Possiamo prendere ad esempio gli oratori, i quali di quando in quando ci consigliano intorno alla guerra e alla pace, o alla costruzione di mura e di porti, sia che comprendano l'affare che hanno per le mani, sia che credano soltanto di comprenderlo. Tutto ciò che la città, in una parola, fa verso un'altra città, o nell'amministrazione dei propri affari, avviene per consiglio degli oratori.
+
+ALCIBIADE: Vero.
+
+SOCRATE: Ma ora vedi ciò che segue, se posso (rendertelo chiaro). (Alcune parole sembrano mancare qui.) Distingueresti il saggio dallo stolto?
+
+ALCIBIADE: Sì.
+
+SOCRATE: I molti sono stolti, i pochi saggi?
+
+Certamente.
+
+E usi entrambi i termini, ‘saggio’ e ‘stolto’, in riferimento a qualcosa?
+
+ALCIBIADES: Lo faccio.
+
+SOCRATE: Chiameresti saggio colui che sa dare consigli, ma non sa se o quando sia meglio metterli in pratica?
+
+ALCIBIADE: Decisamente no.
+
 <span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Nor again, I suppose, a person who knows the art of war, but does not know whether it is better to go to war or for how long?
@@ -376,6 +638,100 @@ SOCRATES: And was not the poet whose words I originally quoted wiser than we are
 
 ALCIBIADES: I believe that you are right.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Né, ancora, suppongo, una persona che conosce l'arte della guerra, ma non sa se sia meglio andare in guerra o per quanto tempo?
+
+ALCIBIADE: No.
+
+SOCRATE: Né, ancora, chi sa uccidere un altro o togliergli i suoi beni o scacciarlo dalla sua patria, ma non sa quando sia meglio farlo o per chi sia meglio?
+
+ALCIBIADE: Certamente no.
+
+SOCRATE: Ma colui che intende alcunché di tal genere e ha al contempo la conoscenza della migliore condotta: — e il meglio e l'utile non sono forse la stessa cosa? —
+
+ALCIBIADE: Sì.
+
+SOCRATE: — Un tale, dico io, dovremmo chiamarlo saggio e utile consigliere, sia di sé stesso che della città. Che ne pensi?
+
+ALCIBIADE: Sono d'accordo.
+
+SOCRATE: E se alcuno sa cavalcare o tirare con l'arco o fare a pugni o lottare, o dedicarsi a qualsiasi altra sorta di agone, o fare qualsivoglia cosa che sia nella natura di un'arte, — come chiami colui che sa ciò che è meglio secondo quell'arte? Non chiami forse buon cavaliere chi sa ciò che è meglio nel cavalcare?
+
+ALCIBIADE: Sì.
+
+SOCRATE: E in modo simile parli di un buon pugile o di un buon suonatore di flauto o di un buon esecutore in qualsivoglia altra arte?
+
+ALCIBIADE: Vero.
+
+Ma è necessario che l'uomo che è abile in una di queste arti sia anche saggio in generale? O c'è differenza tra l'abile artista e l'uomo saggio?
+
+ALCIBIADE: Tutta la differenza del mondo.
+
+SOCRATE: E quale Stato credi che sarebbe quello che fosse composto di buoni arcieri e suonatori di flauto e atleti e maestri nelle altre arti, e oltre a questi di quegli altri di cui parlavamo, i quali sapessero andare in guerra e uccidere, e anche di oratori gonfi di orgoglio politico, ma nel quale nessuno di tutti costoro avesse questa conoscenza del meglio, e non vi fosse alcuno che sapesse dire quando fosse meglio applicare ciascuna di queste arti o rispetto a chi?
+
+Io chiamerei tale stato cattivo, Socrate.
+
+SOCRATE: Certamente lo faresti, quando vedessi ciascuno di essi gareggiare con l'altro e stimare che ciò sia della massima importanza nello [stato](/concepts/state),
+
+«Nel che egli stesso eccelleva massimamente.» (Euripide, Antiope.) — Intendo dire ciò che era il meglio in qualsivoglia arte, mentre egli era del tutto ignaro di ciò che era il meglio per sé e per lo stato, perché, come io penso, egli si affida all'opinione che è priva d'intelletto. In tal caso, non avremmo forse ragione a dire che lo stato sarebbe pieno d'anarchia e di illegalità?
+
+ALCIBIADE: Decisamente.
+
+SOCRATE: Ma non dovremmo allora, credi, o immaginare di sapere o sapere davvero ciò che con fiducia ci proponiamo di fare o dire?
+
+ALCIBIADE: Sì.
+
+SOCRATE: E se una persona fa ciò che sa o suppone di sapere, e il risultato è benefico, egli agirà vantaggiosamente sia per sé sia per lo stato?
+
+ALCIBIADE: Vero.
+
+SOCRATE: E se egli faccia il contrario, sia lui che lo stato soffriranno?
+
+ALCIBIADE: Sì.
+
+SOCRATE: Ebbene, e sei tu dello stesso avviso, come prima?
+
+ALCIBIADE: Lo sono.
+
+SOCRATE: Ma non stavi dicendo che avresti chiamato i molti non saggi e i pochi saggi?
+
+ALCIBIADE: Ero.
+
+SOCRATE: E non siamo forse tornati alla nostra antica affermazione che i molti non riescono a conseguire il meglio, perché si affidano all'opinione che è priva di intelligenza?
+
+ALCIBIADE: È così.
+
+SOCRATE: È bene, allora, per i molti, se essi desiderano particolarmente di fare ciò che sanno o suppongono di sapere, né sapere né supporre di sapere, nei casi in cui, se mettono in atto le loro idee, saranno perdenti piuttosto che vantaggiati?
+
+ALCIBIADE: Ciò che dici è molto vero.
+
+SOCRATE: Non vedi che dicevo il vero quando affermavo che il possesso di qualsiasi altra specie di conoscenza era più atto a nuocere che a giovare al possessore, a meno che non avesse anche la conoscenza del meglio?
+
+Lo faccio ora, se non lo facevo prima, Socrate.
+
+SOCRATE: Lo stato o l'anima, quindi, che desidera avere una retta esistenza deve tenersi fermamente a questa conoscenza, come il malato si aggrappa al medico, o il passeggero dipende per la sicurezza dal pilota. E se l'anima non salpa finché non abbia ottenuto questa, sarà tanto più sicura nel viaggio della vita. Ma quando essa si precipita all'inseguimento della ricchezza o della forza corporea o di qualsiasi altra cosa, non avendo la conoscenza del meglio, tanto più è probabile che incontri la sventura. E colui che ha l'amore del sapere (Oppure, leggendo polumatheian, 'abbondante sapere'), ed è abile in molte arti, e non possiede la conoscenza del meglio, ma è sotto qualche altra guida, farà, come merita, un infelice viaggio: — egli, credo, si affretterà attraverso il breve spazio della vita umana, senza pilota in mezzo all'oceano, e a lui si applicheranno le parole con cui il poeta biasimò il suo nemico: —
+
+«, Ben molte cose egli sapeva; Ma le sapeva tutte male.» (Un frammento dal poema pseudo-omerico 'Margite.')
+
+ALCIBIADE: Come mai, Socrate, le parole del poeta si applicano a lui? A me sembrano non avere alcuna attinenza con il punto in questione.
+
+SOCRATE: Tutt'al contrario, mio dolce amico: solo il poeta parla per enigmi secondo il costume della sua stirpe. Poiché ogni poesia ha per natura un carattere enigmatico, e non è certo da tutti interpretarla. E se inoltre accade che lo spirito della poesia si impadronisca di un uomo d'indole avara, il quale non si curi di manifestare la propria sapienza, ma la serbi per sé per quanto può, occorre davvero una sapienza quasi sovrumana per scoprire a che cosa il poeta miri. Certo non supponi che Omero, il più saggio e il più divino dei poeti, ignorasse l'impossibilità di sapere una cosa male: poiché non fu altri che lui a dire di Margite che 'sapeva molte cose, ma le sapeva tutte male'. La soluzione dell'enigma è questa, immagino: — Con 'male' Omero intendeva 'il male', e 'sapeva' sta per 'sapere'. Metti insieme le parole; — il metro ne avrà a soffrire, ma il senso del poeta è chiaro; — 'Margite sapeva tutte queste cose, ma era male per lui saperle'. E, evidentemente, se era male per lui sapere tante cose, doveva essere un buono a nulla, a meno che il ragionamento non ci abbia tratti in inganno.
+
+ALCIBIADE: Ma non credo che lo abbia, Socrate: almeno, se l'argomento è fallace, mi sarebbe difficile trovarne un altro di cui potessi fidarmi.
+
+SOCRATE: E hai ragione a pensarlo.
+
+ALCIBIADES: Ebbene, questa è la mia opinione.
+
+SOCRATE: Ma dimmi, per il cielo: — ora devi vedere la natura e la grandezza della difficoltà in cui tu, come gli altri, hai la tua parte. Poiché ti volgi da ogni parte e non trovi mai riposo in alcun luogo: ciò che una volta eri più fortemente incline a supporre, lo metti di nuovo da parte e muti del tutto parere. Se il Dio al cui santuario ti rechi apparisse in questo momento, e ti chiedesse, prima che tu abbia fatto la tua preghiera, 'Se desidereresti avere una delle cose che abbiamo menzionate da principio, o se egli dovrebbe lasciarti fare la tua propria richiesta:' — che cosa, in entrambi i casi, pensi, sarebbe il modo migliore per trarre partito dall'occasione?
+
+ALCIBIADES: In verità, Socrate, non potrei risponderti senza riflessione. Mi sembra cosa selvaggia (Si dice che la parola omerica *margos* sia qui impiegata in allusione alla citazione dal ‘Margite’ che Socrate ha appena fatto; ma non è usata nel senso che ha in Omero.) fare una tale richiesta; bisogna essere molto guardinghi, affinché non si preghi per il male credendo di chiedere il bene, quando poco dopo si possa dover richiamare la propria preghiera e, come dicevi tu, domandare l’opposto di ciò che si era richiesto da principio.
+
+SOCRATE: E non era più saggio di noi il poeta di cui ho citato dapprima le parole, quando ci ingiunse (prego Dio) di difenderci dal male anche se lo chiedemmo?
+
+ALCIBIADES: Credo che tu abbia ragione.
+
 <span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): The Lacedaemonians, too, whether from admiration of the poet or because they have discovered the idea for themselves, are wont to offer the prayer alike in public and private, that the Gods will give unto them the beautiful as well as the good: — no one is likely to hear them make any further petition. And yet up to the present time they have not been less fortunate than other men; or if they have sometimes met with misfortune, the fault has not been due to their prayer. For surely, as I conceive, the Gods have power either to grant our requests, or to send us the contrary of what we ask.
@@ -425,3 +781,53 @@ SOCRATES: I accept your gift, and shall be ready and willing to receive whatever
 ‘An auspicious omen I deem thy victor’s wreath: For well thou knowest that wave and storm oppress us.’
 
 And so I count your gift to be a token of good-fortune; for I am in no less stress than Creon, and would fain carry off the victory over your lovers.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Anche i Lacedemoni, sia per ammirazione del poeta, sia perché hanno scoperto da sé quest'idea, sogliono offrire la preghiera tanto in pubblico quanto in privato, che gli Dei diano loro il bello insieme col bene: — non è probabile che alcuno li oda fare ulteriore richiesta. Eppure fino al tempo presente non sono stati meno fortunati degli altri uomini; o se talvolta hanno incontrato sventura, la colpa non è stata della loro preghiera. Poiché certo, per come io concepisco, gli Dei hanno il potere o di concedere le nostre richieste, o di mandarci il contrario di ciò che chiediamo.
+
+E ora vi racconterò una storia che ho udito da alcuni dei nostri anziani. Avvenne che, mentre gli Ateniesi e i Lacedemoni erano in guerra, la nostra città perse ogni battaglia per terra e per mare e non riportò mai una vittoria. Gli Ateniesi, irritati e perplessi su come trovare un rimedio ai loro mali, decisero di mandare a interrogare il santuario di Ammone. I loro inviati dovevano anche chiedere: 'Perché gli dei concedevano sempre la vittoria ai Lacedemoni?' 'Noi,' (dovevano dire,) 'offriamo loro sacrifici più numerosi e più belli di qualunque altro stato ellenico, e adorniamo i loro templi con doni come nessun altro fa; inoltre, celebriamo ogni anno in loro onore le processioni più solenni e costose, e spendiamo più denaro nel loro servizio di tutti gli altri Elleni messi insieme. Ma i Lacedemoni non si curano di tali cose, e mostrano così poco rispetto verso gli dei che hanno l'[abitudine](/concepts/custom) di sacrificare loro animali difettosi, e in vari modi sono meno zelanti di noi, sebbene la loro ricchezza sia del tutto uguale alla nostra.' Quando ebbero così parlato e chiesto quale rimedio potessero trovare contro i mali che li affliggevano, il profeta non diede risposta diretta, — chiaramente perché non gli era permesso dal dio di farlo; — ma li chiamò a sé e disse: 'Così dice Ammone agli Ateniesi: "La silenziosa [adorazione](/concepts/religion) dei Lacedemoni mi è più gradita di tutte le offerte degli altri Elleni."' Tali furono le parole del dio, e null'altro. Egli sembra aver inteso con 'silenziosa adorazione' la preghiera dei Lacedemoni, la quale è davvero assai diversa dalle solite richieste degli Elleni. Infatti essi o conducono all'altare tori dalle corna dorate o fanno offerte agli dei, e implorano a caso le cose di cui hanno bisogno, buone o cattive. Quando, quindi, gli dei li odono usare parole di cattivo augurio, respingono queste loro costose processioni e sacrifici. E noi dovremmo, credo, essere molto attenti e considerare bene ciò che dobbiamo dire e ciò che dobbiamo lasciare non detto. Anche Omero ci fornirà simili racconti. Egli infatti ci narra come i Troiani, nel fare il loro accampamento,
+
+‘Offrì intere ecatombi agli immortali,’
+
+e come il ‘soave odore’ fu portato ‘ai cieli dai venti;
+
+    Ma i beati dèi furono avversi e non l’accolsero.
+
+    Imperocché oltremodo odiavano il sacro Ilio,
+
+    E Priamo e il popolo del re esperto di lancia.
+
+Sicché era inutile per loro sacrificare e offrire doni, visto che erano in odio agli Dei, i quali non sono, come i vili usurai, da corrompere con i doni. Ed è stolto per noi vantarci di essere superiori ai Lacedemoni per il nostro molto culto. È inconcepibile l'idea che gli Dei tengano conto, non della giustizia e della purezza delle nostre anime, ma delle costose processioni e dei sacrifici, che gli uomini possono celebrare anno dopo anno, sebbene abbiano commesso innumerevoli crimini contro gli Dei o contro i loro simili o [lo stato](/concepts/state). Poiché gli Dei, come Ammone e il suo profeta dichiarano, non sono ricevitori di doni, e disdegnano tale indegno servizio. Per cui anche sembrerebbe che la saggezza e la giustizia siano particolarmente onorate sia dagli Dei che dagli uomini di senno; e i più saggi e i più giusti sono coloro che sanno parlare e agire verso gli Dei e verso gli uomini. Ma vorrei sentire quale sia la tua opinione su queste questioni.
+
+ALCIBIADE: Concordo, Socrate, con te e con il Dio, al quale, invero, sarebbe sconveniente per me oppormi.
+
+SOCRATE: Non rammenti di aver detto che eri in gran perplessità, per timore che per avventura chiedessi il male, supponendo di chiedere il bene?
+
+ALCIBIADES: Lo faccio.
+
+SOCRATE: Vedi, dunque, che vi è rischio nel tuo accostarti al Dio in preghiera, ché mai egli rifiuti il tuo sacrificio udendo la bestemmia che proferisci, e ti faccia partecipe altresì di altri mali. Il partito più saggio, pertanto, mi sembra che tu debba tacere; ché la tua 'grandezza d'animo' — per usare il termine più mite che gli uomini applicano alla stoltezza — ben verisimilmente ti impedirà di usare la preghiera dei Lacedemoni. Meglio attendere finché non si scopra come ci si debba comportare verso gli Dei e verso gli uomini.
+
+ALCIBIADE: E quanto tempo dovrò aspettare, Socrate, e chi sarà il mio maestro? Sarei molto lieto di vedere l'uomo.
+
+SOCRATE: È lui che prende un particolare interesse per te. Ma prima di tutto, io penso, la tenebra deve essere rimossa in cui la tua anima è ora avvolta, come Atena in Omero rimuove la nebbia dagli occhi di Diomede che
+
+Egli può distinguere tra Dio e l’uomo mortale.
+
+In seguito potranno esservi dati i mezzi con cui possiate distinguere tra il bene e il male. Al presente, temo, ciò è oltre il vostro potere.
+
+ALCIBIADE: Purché il mio maestro tolga l'impedimento, sia che gli piaccia chiamarlo nebbia o qualsivoglia altra cosa! Non mi curo di chi egli sia; ma sono risoluto a non disubbidire ad alcuno dei suoi comandi, se è verosimile che ne divenga migliore.
+
+SOCRATE: E certamente egli ha una meravigliosa cura per te.
+
+ALCIBIADE: Sembra essere del tutto consigliabile differire il sacrificio finché egli non sia trovato.
+
+SOCRATE: Hai ragione: ciò sarà più sicuro che correre un rischio così tremendo.
+
+Ma come ci regoleremo, Socrate? — In ogni caso porrò questa mia corona sul tuo capo, poiché mi hai dato un così eccellente consiglio, e agli dèi offriremo corone e compiremo gli altri riti consueti quando vedrò avvicinarsi quel giorno: né sarà lontano, se essi lo vorranno.
+
+SOCRATE: Accetto il tuo dono, e sarò pronto e disposto a ricevere qualunque altra cosa tu possa offrire. Euripide fa dire a Creonte nella tragedia, quando vede Tiresia con la corona e sente che l'ha ottenuta con la sua abilità come primizie del bottino: —
+
+Fausto auspicio stimo il tuo serto di vittoria: poiché ben sai che l'onda e la tempesta ci opprimono.
+
+E così reputo il tuo dono un presagio di buona fortuna; poiché mi trovo in affanno non minore di Creonte, e vorrei volentieri riportare la vittoria sui tuoi amanti.

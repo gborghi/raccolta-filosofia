@@ -47,7 +47,7 @@ Gegen logische Gesetze denken oder schließen wird so leicht Keiner: falsche Urt
 
 Aristoteles bestimmt den Zweck der Dialektik nicht so scharf, wie ich gethan; er giebt zwar als Hauptzweck das Disputiren an, aber zugleich auch das Auffinden der Wahrheit ( Top. I, 2). Später sagt er wieder: man behandle die Sätze philosophisch nach der Wahrheit, dialektisch nach dem Schein oder Beifall, Meinung Anderer (äïîá), Top. I, 12. Er ist sich der Unterscheidung und Trennung der objektiven Wahrheit eines Satzes von dem Geltendmachen desselben oder dem Erlangen der Approbation zwar bewußt: allein er hält sie nicht scharf genug auseinander, um der Dialektik bloß letztere anzuweisen. Seinen Regeln zu letzterem Zweck sind daher oft welche zum erstern eingemengt. Daher es mir scheint, daß er seine Aufgabe nicht rein gelöst hat.
 
-<span class="atom-split" data-atom="002" data-title="(apertura) (2/4)" data-chapter="(apertura)" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="002" data-title="(apertura) (parte 2)" data-chapter="(apertura)" data-kind="atom" data-srclang="de"></span>
 
 Man muß allemal den Gegenstand einer Disciplin von dem jeder andern rein sondern. Um die Dialektik rein aufzustellen, muß man, unbekümmert um die objektive Wahrheit, (welche Sache der Logik ist) sie bloß betrachten als die Kunst Recht zu behalten, welches freilich um so leichter seyn wird, wenn man in der Sache selbst Recht hat. Aber die Dialektik als solche muß bloß lehren, wie man sich gegen Angriffe aller Art, besonders gegen unredliche, vertheidigt, und ebenso, wie man selbst angreifen kann was der Andere behauptet, ohne sich selbst zu widersprechen, und überhaupt ohne widerlegt zu werden. Man muß die Auffindung der objektiven Wahrheit rein trennen von der Kunst, seine Sätze als wahr geltend zu machen: jenes ist eine ganz andere ðñáãìáôåéá, es ist das Werk der Urteilskraft, des Nachdenkens, der [Erfahrung](/concepts/experience), und giebt es dazu keine eigene Kunst: das zweite aber ist der Zweck der Dialektik.
 
@@ -89,7 +89,7 @@ Exempel 2. A sagt: »Der Friede von 1814 gab sogar allen deutschen Hansestädten
 
 Diesen Kunstgriff lehrt schon Aristoteles ( Top. Lib. VIII, c. 12, 11.)
 
-<span class="atom-split" data-atom="003" data-title="(apertura) (3/4)" data-chapter="(apertura)" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="003" data-title="(apertura) (parte 3)" data-chapter="(apertura)" data-kind="atom" data-srclang="de"></span>
 
 Exempel 3. Lamark ( Philosophie zoologique, vol. I, p. 203) spricht den Polypen alle Empfindung ab, weil sie keine Nerven haben. Nun aber ist es gewiß, daß sie wahrnehmen: denn sie gehn dem Lichte nach, indem sie sich künstlich von Zweig zu Zweig fortbewegen, und sie haschen ihren Raub. Daher hat man angenommen, daß bei ihnen die Nervenmasse in der Masse des ganzen Körpers gleichmässig verbreitet, gleichsam verschmolzen ist: denn sie haben offenbar Wahrnehmung ohne gesonderte Sinnesorgane. Weil Das dem Lamark seine Annahme umstößt, argumentirt er dialektisch so: »Dann müßten alle Theile des Körpers der Polypen jeder Art der Empfindung fähig seyn, und auch der Bewegung, des Willens, der Gedanken: dann hätte der Polyp in jedem Punkt seines Körpers alle Organe des vollkommensten Thieres: jeder Punkt könnte sehen, riechen, schmecken, hören u. s. w., ja denken, urtheilen, schliessen: jede Partikel seines Körpers wäre ein vollkommenes Thier, und der Polyp selbst stände höher als der Mensch, da jedes Theilchen von ihm alle Fähigkeiten hätte, die der Mensch nur im Ganzen hat. – Es gäbe ferner keinen Grund, um, was man vom Polypen behauptet, nicht auch auf die [Monade](/concepts/monad), das unvollkommenste aller Wesen, auszudehnen, und endlich auch auf die Pflanzen, die doch auch leben u. s. w. –« – Durch Gebrauch solcher dialektischen Kunstgriffe verräth ein Schriftsteller, daß er sich im Stillen bewußt ist, Unrecht zu haben. Weil man sagte: »ihr ganzer Leib hat Empfindung für das Licht, ist also nervenartig«: macht er daraus, daß der ganze Leib denkt.
 
@@ -139,7 +139,7 @@ Ueber die Uebung zur Dialektik enthält gute Regeln das letzte Kapitel der Topic
 
 Kunstgriff 7. Wenn die Disputation etwas streng und formell geführt wird und man sich recht deutlich verständigen will, so verfährt Der, welcher die Behauptung aufgestellt hat und sie beweisen soll, gegen seinen Gegner fragend, um aus seinen eignen Zugeständnissen die Wahrheit der Behauptung zu schliessen. Diese erotematische Methode war besonders bei den Alten im Gebrauch (heißt auch die sokratische): auf dieselbe bezieht sich der gegenwärtige Kunstgriff und einige später folgende. (Sämmtlich frei bearbeitet nach des Aristoteles Liber de elenchis sophisticis, c. 15.)
 
-<span class="atom-split" data-atom="004" data-title="(apertura) (4/4)" data-chapter="(apertura)" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="004" data-title="(apertura) (parte 4)" data-chapter="(apertura)" data-kind="atom" data-srclang="de"></span>
 
 Viel auf ein Mal und weitläuftig fragen, um Das was man eigentlich zugestanden haben will zu verbergen. – Dagegen seine Argumentation aus dem Zugestandenen schnell vortragen: denn Die, welche langsam von Verständniß sind, können nicht genau folgen und übersehn die etwanigen Fehler und Lücken in der Beweisführung.
 
@@ -161,7 +161,7 @@ Kunstgriff 14. Ein unverschämter Streich ist es, wenn man nach mehreren Fragen,
 
 Kunstgriff 15. Wenn wir einen paradoxen Satz aufgestellt haben, um dessen Beweis wir verlegen sind; so legen wir dem Gegner irgend einen richtigen, aber doch nicht ganz handgreiflich richtigen Satz zur Annahme oder Verwerfung vor, als wollten wir daraus den Beweis schöpfen: verwirft er ihn aus Argwohn, so führen wir ihn ad absurdum und triumphiren: nimmt er ihn aber an, – so haben wir vor der Hand etwas Vernünftiges gesagt und müssen nun weiter sehn. Oder wir fügen nun den vorhergehenden Kunstgriff hinzu und behaupten nun, daraus sei unser Paradoxon bewiesen. Hiezu gehört die äusserste Unverschämtheit: aber es kommt in der [Erfahrung](/concepts/experience) vor, und es giebt Leute, die dies Alles instinktmässig ausüben.
 
-<span class="atom-split" data-atom="005" data-title="Kunstgriff 16.Argumenta ad hominem oder ex concessis. (1/6)" data-chapter="Kunstgriff 16.Argumenta ad hominem oder ex concessis." data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="005" data-title="Kunstgriff 16.Argumenta ad hominem oder ex concessis. (parte 1)" data-chapter="Kunstgriff 16.Argumenta ad hominem oder ex concessis." data-kind="atom" data-srclang="de"></span>
 
 Bei einer Behauptung des Gegners müssen wir suchen, ob sie nicht etwa irgendwie, nötigenfalls auch nur scheinbar, im Widerspruch steht mit irgend etwas, das er früher gesagt oder zugegeben hat, oder mit den Satzungen einer Schule oder Sekte, die er gelobt und gebilligt hat, oder mit dem Thun der Anhänger dieser Sekte, oder auch nur der unächten und scheinbaren Anhänger, oder mit seinem eigenen Thun und Lassen. Vertheidigt er z. B. den Selbstmord, so schreit man gleich: »Warum hängst du dich nicht auf?« Oder er behauptet z. B., Berlin sei ein unangenehmer Aufenthalt, gleich schreit man: »Warum fährst Du nicht gleich mit der ersten Schnellpost ab?« – Es wird sich doch irgendwie eine Schikane herausklauben lassen.
 
@@ -201,7 +201,7 @@ Z. B. ich lobte, daß in China kein Geburtsadel sei und die Aemter nur in Folge 
 
 Unverschämt ist die Diversion, wenn sie die Sache quaestionis ganz und gar verläßt und etwan anhebt: »ja, und so behaupteten Sie neulich ebenfalls etc.« Denn da gehört sie gewissermaassen zum »Persönlichwerden«, davon in dem letzten Kunstgriff die Rede seyn wird. Sie ist genau genommen eine Mittelstufe zwischen dem daselbst zu erörternden argumentum ad personam und dem argumentum ad hominem. –
 
-<span class="atom-split" data-atom="006" data-title="Kunstgriff 16.Argumenta ad hominem oder ex concessis. (2/6)" data-chapter="Kunstgriff 16.Argumenta ad hominem oder ex concessis." data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="006" data-title="Kunstgriff 16.Argumenta ad hominem oder ex concessis. (parte 2)" data-chapter="Kunstgriff 16.Argumenta ad hominem oder ex concessis." data-kind="atom" data-srclang="de"></span>
 
 Wie sehr gleichsam angeboren dieser Kunstgriff sei, zeigt jeder Zank zwischen gemeinen Leuten: wenn nämlich Einer dem Andern persönliche Vorwürfe macht; so antwortet dieser nicht etwa durch Widerlegung derselben, sondern durch persönliche Vorwürfe, die er dem Ersten macht, die ihm selbst gemachten stehn lassend, also gleichsam zugebend. Er macht es, wie Scipio, der die Karthager nicht in Italien, sondern in Afrika angriff. Im Kriege mag solche [Diversion](/arguments/divertissement) zu Zeiten taugen. Im Zanken ist sie schlecht, weil man die empfangenen Vorwürfe stehen läßt, und der Zuhörer alles Schlechte von beiden Parteien erfährt. Im Disputiren ist sie faute de mieux gebräuchlich.
 
@@ -229,7 +229,7 @@ Man darf diesen Kunstgriff nur da brauchen, wo man sicher ist, bei den Zuhörern
 
 Eigentlich gehört dies zum vorigen Kunstgriff und ist ein Geltendmachen der eigenen Autorität, statt der Gründe, auf besonders maliciöse Weise. – Der Gegenstreich ist: »Erlauben Sie, bei Ihrer grossen Penetration muß es Ihnen ein Leichtes seyn, es zu verstehn, und kann nur meine schlechte Darstellung Schuld seyn«, – und nun ihm die Sache so in's Maul schmieren, daß er sie nolens volens verstehn muß und klar wird, daß er sie vorhin wirklich nur nicht verstand. – So ist's retorquirt: er wollte uns »Unsinn« insinuiren: wir haben ihm »Unverstand« bewiesen. Beides mit schönster Höflichkeit.
 
-<span class="atom-split" data-atom="007" data-title="Kunstgriff 16.Argumenta ad hominem oder ex concessis. (3/6)" data-chapter="Kunstgriff 16.Argumenta ad hominem oder ex concessis." data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="007" data-title="Kunstgriff 16.Argumenta ad hominem oder ex concessis. (parte 3)" data-chapter="Kunstgriff 16.Argumenta ad hominem oder ex concessis." data-kind="atom" data-srclang="de"></span>
 
 Kunstgriff 32. Eine uns entgegenstehende Behauptung des Gegners können wir auf eine kurze Weise dadurch beseitigen oder wenigstens verdächtig machen, daß wir sie unter eine verhaßte Kategorie bringen, wenn sie auch nur durch eine Ähnlichkeit oder sonst lose mit ihr zusammenhängt; z. B.: »Das ist Manichäismus; das ist Arianismus; das ist Pelagianismus; das ist Idealismus; das ist Spinozismus; das ist Pantheismus; das ist Brownianismus; das ist Naturalismus; das ist Atheismus; das ist Rationalismus; das ist Spiritualismus; das ist Mysticismus u. s. w.« – Wir nehmen dabei zweierlei an: 1) daß jene Behauptung wirklich identisch oder wenigstens enthalten sei in jener Kategorie, rufen also aus: oh, das kennen wir schon! – 2) daß diese Kategorie schon ganz widerlegt sei und kein wahres Wort enthalten könne. –
 
@@ -255,7 +255,7 @@ Man würde sich sehr irren, wenn man meinte, es sei hinreichend, selbst nicht pe
 
 Die einzig sichere Gegenregel ist daher die, welche schon Aristoteles im letzten Kapitel der Topica. giebt: Nicht mit dem Ersten dem Besten zu disputiren, sondern allein mit Solchen, die man kennt, und von denen man weiß, daß sie Verstand genug haben, nicht gar zu Absurdes vorzubringen und dadurch beschämt werden zu müssen; und um mit Gründen zu disputiren, und nicht mit Machtsprüchen, und um auf Gründe zu hören und darauf einzugehn; und endlich, daß sie die Wahrheit schätzen, gute Gründe gern hören, auch aus dem Munde des Gegners, und Billigkeit genug haben, um es ertragen zu können, Unrecht zu behalten, wenn die Wahrheit auf der andern Seite liegt. Daraus folgt, daß unter 100 kaum Einer ist, der werth ist, daß man mit ihm disputirt. Die Uebrigen lasse man reden, was sie wollen, denn desipere est juris gentium, und man bedenke, was Voltaire sagt: La paix vaut encore mieux que la véritè, und ein arabischer Spruch ist: »Am Baume des Schweigens hängt seine Frucht, der Friede.«
 
-<span class="atom-split" data-atom="008" data-title="Kunstgriff 16.Argumenta ad hominem oder ex concessis. (4/6)" data-chapter="Kunstgriff 16.Argumenta ad hominem oder ex concessis." data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="008" data-title="Kunstgriff 16.Argumenta ad hominem oder ex concessis. (parte 4)" data-chapter="Kunstgriff 16.Argumenta ad hominem oder ex concessis." data-kind="atom" data-srclang="de"></span>
 
 Das Disputiren ist als Reibung der Köpfe allerdings oft von gegenseitigem Nutzen, zur Berichtigung der eignen Gedanken und auch zur Erzeugung neuer Ansichten. Allein beide Disputanten müssen an Gelehrsamkeit und an [Geist](/positions/idealism) ziemlich gleich stehn. Fehlt es dem Einen an der ersten, so versteht er nicht Alles, ist nicht au niveau. Fehlt es ihm am zweiten, so wird die dadurch herbeigeführte Erbitterung ihn zu Unredlichkeiten und Kniffen, endlich zur Grobheit verleiten.
 
@@ -275,7 +275,7 @@ Zuvörderst: Das Interessante findet sich allein bei Werken der Dichtkunst ein, 
 
 Weil das Interessante nur dadurch entsteht, daß unser Antheil an der poetischen Darstellung gleich dem an einem Wirklichen wird; so ist es offenbar dadurch bedingt, daß die Darstellung für den Augenblick täuscht; und dieses kann sie nur durch ihre Wahrheit. Wahrheit aber gehört zur Kunstvollendung. Das Bild, die Dichtung soll wahr seyn, wie die [Natur](/concepts/nature) selbst; zugleich aber auch durch Hervorhebung des Wesentlichen und Karakteristischen, durch Zusammendrängung aller wesentlichen Aeusserungen des Darzustellenden und durch Aussonderung alles Unwesentlichen und Zufälligen die Idee desselben rein hervortreten lassen und dadurch zur idealen Wahrheit werden, die sich über die Natur erhebt. Mittelst der Wahrheit also hängt das Interessante zusammen mit dem Schönen, indem die Wahrheit die Täuschung herbeiführt. Aber das Ideale der Wahrheit könnte schon der Täuschung Eintrag thun, indem solches einen durchgängigen Unterschied zwischen Dichtung und Wirklichkeit herbeiführt. Weil aber auch das Wirkliche mit dem Idealen möglicherweise zusammentreffen kann, so hebt dieser Unterschied nicht geradezu nothwendig alle Täuschung auf. Bei den bildenden Künsten liegt im Umfang der Mittel der Kunst eine Grenze, welche die Täuschung ausschließt: nämlich die Skulptur giebt blosse Form ohne Farbe, ohne Augen und ohne Bewegung; die Malerei blosse Ansicht von einem Punkte aus, eingeschlossen durch scharfe Gränzen, die das Bild von der ringsum hart anliegenden Wirklichkeit trennen: daher hier die Täuschung und dadurch der Antheil gleich dem an einem Wirklichen oder das Interessante ausgeschlossen, hiedurch wieder der Wille sofort aus dem Spiele gesetzt und das Objekt allein der reinen antheilslosen Betrachtung überliefert wird. Nun ist es höchst merkwürdig, daß eine Afterart der bildenden Künste diese Gränzen überspringt, die Täuschung des Wirklichen und damit das Interessante herbeiführt, sofort aber die Wirkung der ächten Künste verwirkt und nicht mehr als Mittel zur Darstellung des Schönen, d. h. zur Mittheilung der Erkenntniß der Ideen brauchbar ist. Es ist die Kunst der Wachsfiguren. Und hiemit möchte wohl die Gränze bezeichnet seyn, welche sie ausschließt vom Gebiet der schönen Künste. Sie täuscht, wenn meisterhaft ausgeführt, vollkommen, eben dadurch aber stehn wir ihrem Werke gleich einem wirklichen Menschen gegenüber, der als solcher schon vorläufig ein Objekt für den Willen, d. h. interessant ist, also den Willen erweckt und dadurch das reine Erkennen aufhebt: wir treten vor die Wachsfigur mit der Scheu und Behutsamkeit, wie vor einen wirklichen Menschen, unser Wille ist aufgeregt und erwartet, ob er lieben oder hassen, fliehen oder angreifen soll; erwartet eine Handlung. Weil die Figur dann aber doch leblos ist, so bringt sie den Eindruck einer Leiche hervor und macht so einen mißfälligen Eindruck. Hier ist das Interessante vollkommen erreicht, und doch gar kein Kunstwerk geliefert: also ist das Interessante an sich gar nicht Kunstzweck. – Dies geht auch daraus hervor, daß selbst in der Poesie bloß die dramatische und die erzählende Gattung des Interessanten fähig sind: wäre es neben dem Schönen Zweck der Kunst; so stände die lyrische Poesie schon an sich dadurch um die Hälfte tiefer, als jene beiden andern Gattungen.
 
-<span class="atom-split" data-atom="009" data-title="Kunstgriff 16.Argumenta ad hominem oder ex concessis. (5/6)" data-chapter="Kunstgriff 16.Argumenta ad hominem oder ex concessis." data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="009" data-title="Kunstgriff 16.Argumenta ad hominem oder ex concessis. (parte 5)" data-chapter="Kunstgriff 16.Argumenta ad hominem oder ex concessis." data-kind="atom" data-srclang="de"></span>
 
 Jetzt zur zweiten Frage. Nämlich: Wäre das Interessante ein Mittel zur Erreichung des Schönen; so müßte jede interessante Dichtung auch schön seyn. Das ist aber keineswegs. Oft fesselt uns ein Drama oder Roman durch das Interessante und ist dabei so leer an allem Schönen, daß wir uns hinterher schämen, dabei geweilt zu haben. Dies ist der Fall bei manchem Drama, welches durchaus kein reines Bild vom Wesen der Menschheit und des Lebens giebt, Karaktere zeigt, die ganz stach geschildert oder gar verzeichnet und eigentlich Monstrositäten sind, dem Wesen der [Natur](/concepts/nature) entgegen: aber der Lauf der Begebenheiten, die Verflechtungen der Handlung sind so intrikat, der Held ist unserm Herzen durch seine Lage so empfohlen, daß wir uns nicht zufrieden geben können, bis wir das Gewirre entwickelt und den Helden in Sicherheit wissen; der Gang der Handlung ist dabei so klüglich beherrscht und gelenkt, daß wir stets auf die weitere Entwickelung gespannt werden und sie doch keineswegs errathen können, so daß zwischen Anspannung und Ueberraschung unser Antheil stets lebhaft bleibt und wir, sehr kurzweilig unterhalten, den Lauf der [Zeit](/concepts/time) nicht spüren. Dieser Art sind die meisten Stücke von Kotzebue. Für den großen Haufen ist Dies das Rechte: denn er sucht Unterhaltung, Zeitvertreib, nicht Erkenntniß, und das Schöne ist Sache der Erkenntniß, daher die Empfänglichkeit dafür so verschieden ist, wie die intellektuellen Fähigkeiten. Für die innere Wahrheit des Dargestellten, ob es dem Wesen der Menschheit entspricht oder ihm entgegen ist, hat der große Haufe keinen Sinn. Das Flache ist ihm zugänglich: die Tiefen des menschlichen Wesens schließt man vergeblich vor ihm auf.
 
@@ -293,7 +293,7 @@ Auch die erzählenden Meisterwerke haben selten die Eigenschaft des Interessante
 
 Andererseits dürfen wir nicht behaupten, daß das Interessante nie in Meisterwerken anzutreffen sei. Wir finden es in Schiller's Dramen schon in merklichem Grade, daher sie auch die Menge ansprechen: der König Oedipus des Sophokles hat es auch: unter den erzählenden Meisterwerken hat es der Roland des Ariosto: ja, als ein Beispiel des Interessanten im höchsten Grade, wo es mit dem Schönen zusammengeht, haben wir einen vortrefflichen Roman von Walter Scott, The tales of my Landlord series. Es ist das interessanteste Dichterwerk, das ich kenne, und an ihm kann man am Deutlichsten alle vorhin im Allgemeinen angegebenen Wirkungen des Interessanten wahrnehmen; zugleich aber ist dieser Roman durchweg sehr schön, zeigt uns die mannichfaltigsten Bilder des Lebens, mit frappanter Wahrheit gezeichnet, und stellt höchst verschiedene Karaktere mit großer Richtigkeit und Treue auf.
 
-<span class="atom-split" data-atom="010" data-title="Kunstgriff 16.Argumenta ad hominem oder ex concessis. (6/6)" data-chapter="Kunstgriff 16.Argumenta ad hominem oder ex concessis." data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="010" data-title="Kunstgriff 16.Argumenta ad hominem oder ex concessis. (parte 6)" data-chapter="Kunstgriff 16.Argumenta ad hominem oder ex concessis." data-kind="atom" data-srclang="de"></span>
 
 Vereinbar mit dem Schönen ist also das Interessante allerdings: – und Dies war die dritte Frage: jedoch möchte wohl der schwächere Grad der Beimischung des Interessanten dem Schönen am Dienlichsten befunden werden, und das Schöne ist ja und bleibt der Zweck der Kunst. Das Schöne steht dem Interessanten in doppelter Hinsicht entgegen, erstlich sofern das Schöne in der Erkenntniß der Idee liegt, welche Erkenntniß ihr Objekt ganz heraushebt aus den Formen, die der Satz vom Grund ausspricht; hingegen liegt das Interessante hauptsächlich in den Begebenheiten, und die Verflechtungen dieser entstehn eben am Leitfaden des Satzes vom Grunde. Zweitens wirkt das Interessante durch Aufregung unsers Willens; hingegen das Schöne ist bloß da für die reine und willenlose Erkenntniß. Dennoch ist bei dramatischen und erzählenden Werken eine Beimischung des Interessanten nothwendig (wie flüchtige, bloß gasartige Substanzen einer materiellen Basis bedürfen, um aufbewahrt und mitgetheilt zu werden): theils weil es schon von selbst aus den Begebenheiten hervorgeht, welche erfunden werden müssen, um die Karaktere in Aktion zu setzen; theils weil das Gemüth ermüden würde, mit ganz antheilslosem Erkennen von Scene zu Scene, von einem bedeutsamen Bilde zu einem neuen überzugehen, wenn es nicht durch einen verborgenen Faden dahin gezogen würde: dieser eben ist das Interessante: es ist der Antheil, den uns die Begebenheit als solche abnöthigt, und welcher als Bindemittel der Aufmerksamkeit das Gemüth lenksam macht, dem Dichter zu allen Theilen seiner Darstellung zu folgen. Wenn das Interessante eben hinreicht, Dieses zu leisten, so ist ihm vollkommen Genüge geschehn: denn es soll zur Verbindung der Bilder, durch welche der Dichter uns die Idee zur Erkenntniß bringen will, nur so dienen, wie eine Schnur, auf welche Perlen gereiht sind, sie zusammenhält und zum Ganzen einer Perlenschnur macht. Aber das Interessante wird dem Schönen nachtheilig, sobald es dieses Maaß überschreitet: dies ist der Fall, wenn es uns zu so lebhaftem Antheil hinreißt, daß wir bei jeder ausführlichen Schilderung, die der erzählende Dichter von einzelnen Gegenständen macht, oder bei jeder längern Betrachtung, die der dramatische Dichter seine Personen anstellen läßt, ungeduldig werden, den Dichter anspornen möchten, um nur rascher die Entwickelung der Begebenheiten zu verfolgen. Denn in epischen und dramatischen Werken, wo das Schöne und das Interessante gleich sehr vorhanden sind, ist das Interessante der Feder in der Uhr zu vergleichen, welche das Ganze in Bewegung setzt, aber, wenn sie ungehindert wirkte, das ganze Werk in wenig Minuten abrollen würde: hingegen das Schöne, indem es uns bei der ausführlichen Betrachtung und Schilderung jedes Gegenstandes festhält, ist hier was in der Uhr die Trommel, welche die Entwickelung der Feder hemmt.
 
@@ -313,7 +313,7 @@ III. Die Dritte ist die Konstruktion regelwidriger, geschrobner, verdrehter, hol
 
 Wir wollen diese Kunstmittel jetzt einzeln in Betrachtung nehmen.
 
-<span class="atom-split" data-atom="011" data-title="§ 1. Vorbemerkungen. Orthographie (1/3)" data-chapter="§ 1. Vorbemerkungen. Orthographie" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="011" data-title="§ 1. Vorbemerkungen. Orthographie (parte 1)" data-chapter="§ 1. Vorbemerkungen. Orthographie" data-kind="atom" data-srclang="de"></span>
 
 So soll die orthographische Nacht
 
@@ -367,7 +367,7 @@ Die deutsche Sprache wird jetzt von dem Federvieh (wie kürzlich ein Litterat se
 
 Und nirgends (in Deutschland) ist ein wenig Besinnung, ein wenig Urtheil, ein wenig Geschmack, dem Unwesen entgegenzutreten; sondern alle die Skribler, einmüthig und Eines Sinnes, stürmen auf die Sprache los, sie zu verhunzen. Keiner, der eine Spur von Selbstständigkeit zeigte, indem er sich dem Unwesen widersetzte: sondern sobald irgend ein Buchhändlerlöhnling einen neuen Sprachschnitzer in die Welt gesetzt hat, wird dieser zum allgemeinen und stehenden Sprachgebrauch.
 
-<span class="atom-split" data-atom="012" data-title="§ 1. Vorbemerkungen. Orthographie (2/3)" data-chapter="§ 1. Vorbemerkungen. Orthographie" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="012" data-title="§ 1. Vorbemerkungen. Orthographie (parte 2)" data-chapter="§ 1. Vorbemerkungen. Orthographie" data-kind="atom" data-srclang="de"></span>
 
 Ein impotentes Zeitalter, welches nicht Einen Schriftsteller aufzuweisen hat, dessen Werke sich irgend eine Dauer über dasselbe hinaus versprechen könnten, will die Sprache der klassischen [Zeit](/concepts/time) reformiren, und zwar dadurch, daß es das Imperfekt alle andern Präterita vertreten läßt und alle den Sinn modulirende Präfixe und Affixe wegschneidet; bei welchem Verfahren die Sprache zuletzt auf ihre Wurzelworte zurückgeführt würde. –
 
@@ -424,11 +424,11 @@ Schon lange war, auf Anlaß der so beliebten »Hilfe« und »Giltig«, – ein s
 
 now I have touched the lowest cord etc. (sic fere).
 
-<span class="atom-split" data-atom="013" data-title="§ 1. Vorbemerkungen. Orthographie (3/3)" data-chapter="§ 1. Vorbemerkungen. Orthographie" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="013" data-title="§ 1. Vorbemerkungen. Orthographie (parte 3)" data-chapter="§ 1. Vorbemerkungen. Orthographie" data-kind="atom" data-srclang="de"></span>
 
 Man soll bedenken, daß eine Jugend heranwächst, welche die Zeitungen aller Art und überhaupt das Neueste liest und sonst nichts, folglich denkt, das wäre Deutsch und es gäbe kein anderes Deutsch, als diesen infamen Litteraten- und Buchmacher-Gesellen-Jargon, demnach »Gescheidt« und » Giltig« und »Hilfe« und überhaupt alle oben aufgezählten Sprachschnitzer ihr Leben-lang schreibt. – Es wäre gewissenlos dazu zu schweigen.
 
-<span class="atom-split" data-atom="014" data-title="§ 2. Präfixa und Affixa (1/2)" data-chapter="§ 2. Präfixa und Affixa" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="014" data-title="§ 2. Präfixa und Affixa (parte 1)" data-chapter="§ 2. Präfixa und Affixa" data-kind="atom" data-srclang="de"></span>
 
 Durchgängig wird statt » beistimmen« gesetzt » zustimmen«, obgleich beides nicht genau identisch ist; aber um einen Buchstaben zu ersparen: Dies ist eine Kleinigkeit, aber es charakterisirt den [Geist](/positions/idealism) dieses schmutzigen Treibens. Dem entsprechend werden, um 3 Buchstaben zu lukriren, von allen den vielen Verben, welche durch die verschiedenen Präfixa die Nüancirung des Grundbegriffs durchführen und dadurch diejenige Modulation der Sprache hervorbringen, welche sie befähigt, jeden Gedanken treffend, genau, fein und prägnant auszudrücken, – weggeschnitten und überall statt ihrer bloß das Wurzel-Verbum gesetzt; und hierdurch emsig an der Verarmung und Lähmung der Sprache gearbeitet.
 
@@ -468,7 +468,7 @@ Einer (Wilhelmi) in den Heidelberger Jahrbüchern schreibt: »Ich trat in den Te
 
 »Ueben« statt Ausüben und auch statt Einüben. – Der Schüler übt die Kunst oder sich in derselben: der Meister übt sie aus: Der Virtuose übt ein Stück, der Schauspieler eine Rolle ein.
 
-<span class="atom-split" data-atom="015" data-title="§ 2. Präfixa und Affixa (2/2)" data-chapter="§ 2. Präfixa und Affixa" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="015" data-title="§ 2. Präfixa und Affixa (parte 2)" data-chapter="§ 2. Präfixa und Affixa" data-kind="atom" data-srclang="de"></span>
 
 Aber ohne alles Verständniß des Werthes der Silben, sind sie ganz allein auf Zählen und Auswerfen der Buchstaben bedacht. Wenn die unfähigen und urtheilslosen Köpfe, aus denen die große Mehrheit des Menschengeschlechts, folglich auch der Gelehrten, besteht, tagtäglich schlechte Bücher in die Welt setzen; so ist davon kein ernstlicher Nachtheil zu befürchten: ein Thor ist wer sie liest, und ihr Einfluß geht nie weit. Ein Anderes aber ist es, wenn solche Köpfe sich an die Sprache machen und diese, nach irgend einer Flause, umformen und verbessern wollen. Da wird die Sache bedenklich: denn sie können ihre Tatzen so tief in die Sprache eindrücken, daß die Spur bleibend wird; weil sie den grossen Troß von ihres Gleichen hinter sich haben, welche, wie das gemeine Volk, in allen Dingen stets nur durch Beispiel und Nachahmung geleitet werden und jetzt sich beeilen, der Narrheit nachzueifern. –
 
@@ -876,7 +876,7 @@ Widerliche Gallicismen: »in der Straße«. Straße ist via strata, also das Pfl
 
 Andrer Gallicismus: »Diese Leute, sie sind. – Die Sammlung besteht in« statt aus ( en). – »Italiänisch wissen« statt können. – Ich habe gefunden: »sie hatten Furcht«. Was würde man in Frankreich sagen, wenn Einer schriebe: ils se peuroient.
 
-<span class="atom-split" data-atom="029" data-title="§ 16. Stil und Perioden (1/2)" data-chapter="§ 16. Stil und Perioden" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="029" data-title="§ 16. Stil und Perioden (parte 1)" data-chapter="§ 16. Stil und Perioden" data-kind="atom" data-srclang="de"></span>
 
 Ich habe hier bloß die Sprachfehler berücksichtigt und rede nicht von den bloßen Stilfehlern, welche die allgemeine Monomanie der Sprachabkürzung herbeiführt: da werden, wenn es gilt, 2 Worte zu ersparen, die verschränktesten, verrenktesten, peinlichsten und unverständlichsten Perioden zusammengesetzt, über deren Sinn nachmals der Leser brüten mag.
 
@@ -920,7 +920,7 @@ Die Wurzel des Uebels ist, daß die meisten Schriftsteller Litteraten, d. h. Sch
 
 Habe gefunden ein neues Substantiv »Gröbungen« für Grobheiten, und »handliche Uebersicht« (Centralblatt); ein neues Verbum »heeren«: scheint bedeuten zu sollen »ein Land mit einer Armee besetzt halten«; » Aufbesserung der Gehalte«, »Verliederung einer Provinz« – qu'est-ce? – »heiklich«, – »behäbig«? Sobald nämlich ein Ausdruck nur albern genug ist, darf er Beifall und Adoption hoffen. Jeder geringste Skribler und Sudler hält sich berufen, die Sprache zu verbessern und zu bereichern, nimmt daher keinen Anstand, ein Wort hinzuschreiben, das ihm eben durch den Kopf fährt und nie auf der Welt gehört worden. »Uebermögen« statt überwinden, schreibt Graul, Kural p. 8 u. 69; wie unverschämt!
 
-<span class="atom-split" data-atom="030" data-title="§ 16. Stil und Perioden (2/2)" data-chapter="§ 16. Stil und Perioden" data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="030" data-title="§ 16. Stil und Perioden (parte 2)" data-chapter="§ 16. Stil und Perioden" data-kind="atom" data-srclang="de"></span>
 
 »Von einer Sache die Sprache (Rede) seyn! (Postzeit.). – Es giebt keine muthwillige Verhunzung der Sprache, die sich heute nicht der niedrigste Schmierax ohne Umstände erlaubte; – weil er weiß, daß keine Prügel darauf gesetzt sind. Das litterarische Gesindel will originell seyn und kennt keinen andern Weg, als Worte in unerhörtem Sinn zu gebrauchen, oder sie zu verhunzen, oder neue einzuführen.–
 
@@ -964,7 +964,7 @@ Einleitung in die Philosophie
 
 Unter dieser von mir gewählten Gesammtüberschrift habe ich die doppelte Einleitung zu Schopenhauers Vorlesung über »die gesammte Philosophie d. i. Lehre vom Wesen der Welt und von dem menschlichen Geiste«, sowie die einleitenden Abschnitte zu den vier Theilen der Vorlesung zusammengefaßt.
 
-<span class="atom-split" data-atom="031" data-title="I. (1/2)" data-chapter="I." data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="031" data-title="I. (parte 1)" data-chapter="I." data-kind="atom" data-srclang="de"></span>
 
 S. 9–17: »Exordium über meinen Vortrag und dessen Methode«
 
@@ -1004,7 +1004,7 @@ c) S. 40 bis S. 50 Z. 8 v. o. (ungenau, mit willkürlichen Aenderungen und mit A
 
 Mehr als 5 Seiten der »Einleitung« erscheinen also in unserm Texte zum ersten Mal im Druck.
 
-<span class="atom-split" data-atom="033" data-title="III. (1/2)" data-chapter="III." data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="033" data-title="III. (parte 1)" data-chapter="III." data-kind="atom" data-srclang="de"></span>
 
 [Schopenhauer](/figures/schopenhauer)'s Manuskript seiner Vorlesungen besteht aus 4 starken Konvoluten in Quarto: Schopenhauer's Nachlaß Nr. 24. 25. 26. 27; das »Exordium« zur Dianoiologie befindet sich in einem besonderen Hefte: Schopenhauers Nachlaß Nr. 29,13. Dies »Exordium«, (also die Einleitung zum 1. Theil der Vorlesung, welchen er für das Wintersemester 1826/27 als separates Kolleg angekündigt hatte) hat Schopenhauer dreimal bearbeitet:
 
@@ -1112,7 +1112,7 @@ Und S. 118:
 
 Eigenes Kapitel »Ueber die allgemein und allseitig mit Wetteifer betriebene methodische Verhunzung der Deutschen Sprache.«
 
-<span class="atom-split" data-atom="034" data-title="III. (2/2)" data-chapter="III." data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="034" data-title="III. (parte 2)" data-chapter="III." data-kind="atom" data-srclang="de"></span>
 
 S. 124 endlich findet sich die endgültige Bearbeitung des » Initium capitis ad hoc« unter der definitiven Überschrift: Ueber die, seit einigen Jahren, methodisch betriebene Verhunzung der Deutschen Sprache.
 
@@ -1255,7 +1255,7 @@ H.
 
 Hilfe (statt Hülfe) 131. hindern und verhindern 141. Hingabe und Hingebung 139. 142. »Hinsichts« 158. hinzufügen und beifügen 136. »Hochschule« 149. Hörer und Zuhörer 135.
 
-<span class="atom-split" data-atom="035" data-title="I. (2/2)" data-chapter="I." data-kind="atom" data-srclang="de"></span>
+<span class="atom-split" data-atom="035" data-title="I. (parte 2)" data-chapter="I." data-kind="atom" data-srclang="de"></span>
 
 in der Straße (statt auf der Straße) 172. »indeß« 156. italienisch (statt italiänisch) 130.
 

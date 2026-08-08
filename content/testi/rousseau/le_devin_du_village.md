@@ -490,7 +490,7 @@ Mon coeur n'a point changé ; mon erreur trop cruelle
 
 Venait d'un sort jeté par quelque esprit malin :
 
-<span class="atom-split" data-atom="002" data-title="(apertura) (2/2)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="002" data-title="(apertura) (parte 2)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Le Devin l'a détruit ; je suis, malgré l'envie,
 

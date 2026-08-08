@@ -3020,7 +3020,7 @@ In the next place we must consider the impediments of marriage: (1) In general; 
 
 In seguito, dobbiamo esaminare gli ostacoli al matrimonio: (1) in generale; (2) in particolare.
 
-<span class="atom-split" data-atom="046" data-title="Whether it is fitting that impediments should be assigned to marriage? (1/2)" data-chapter="Whether it is fitting that impediments should be assigned to marriage?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="046" data-title="Whether it is fitting that impediments should be assigned to marriage? (parte 1)" data-chapter="Whether it is fitting that impediments should be assigned to marriage?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem unfitting for impediments to be assigned to marriage. For marriage
 is a [sacrament](/concepts/sacrament) condivided with the others. But no impediments are assigned to the others. Neither
@@ -3169,7 +3169,7 @@ Risposta all’Obiezione 3: Questo argomento sarebbe valido se non esistessero a
 
 Risposta all’Obiezione 4: Si afferma che le persone siano soggetti illeciti al matrimonio quando sono in contrasto con la legge che lo stabilisce. Ora, il matrimonio, in quanto adempie a una funzione naturale, è stabilito dalla legge naturale; in quanto sacramento, dalla [Legge Divina](/concepts/divine_law); in quanto adempie a una funzione sociale, dalla legge civile. Pertanto, una persona può essere resa soggetto illecito al matrimonio da qualsiasi delle suddette leggi. Inoltre, il paragone con gli altri sacramenti non è pertinente, poiché questi sono soltanto sacramenti. E poiché la legge naturale si specifica in modi diversi a seconda dei vari stati dell’umanità, e poiché anche la legge positiva varia in base alle diverse condizioni umane, il Maestro (Sentenze, iv, D, 34) afferma che, in tempi diversi, diverse persone siano state considerate soggetti illeciti al matrimonio.
 
-<span class="atom-split" data-atom="047" data-title="Whether it is fitting that impediments should be assigned to marriage? (2/2)" data-chapter="Whether it is fitting that impediments should be assigned to marriage?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="047" data-title="Whether it is fitting that impediments should be assigned to marriage? (parte 2)" data-chapter="Whether it is fitting that impediments should be assigned to marriage?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 5: The law may forbid a thing either altogether, or in part and in certain
 cases. Hence between that which is altogether according to the law and that which is altogether
@@ -4348,7 +4348,7 @@ Risposta all’Obiezione 4: È il sangue che, in modo diretto, si trasforma nel 
 
 Risposta all’Obiezione 5: Alcuni affermano che il motivo per cui il legame di consanguineità si instaura tra gli uomini attraverso la procreazione carnale, e non tra altri animali, risieda nel fatto che tutto ciò che appartiene alla verità della [natura umana](/axes/human_nature) in tutti gli esseri umani esisteva già nel nostro primo antenato; questo, invece, non vale per gli altri animali. Tuttavia, secondo questa teoria, il legame di consanguineità matrimoniale non potrebbe mai terminare. Ma tale ipotesi è stata confutata nel Secondo Libro (Sentenze, ii, D, 30: FP, Q[119], A[1]). Pertanto, dobbiamo rispondere che il motivo reale risiede nel fatto che gli animali non si uniscono attraverso il legame dell’amicizia e la procreazione di molti individui da un unico antenato, come avviene negli esseri umani.
 
-<span class="atom-split" data-atom="063" data-title="Whether consanguinity is fittingly distinguished by degrees and lines? (1/2)" data-chapter="Whether consanguinity is fittingly distinguished by degrees and lines?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="063" data-title="Whether consanguinity is fittingly distinguished by degrees and lines? (parte 1)" data-chapter="Whether consanguinity is fittingly distinguished by degrees and lines?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that consanguinity is unfittingly distinguished by degrees and lines.
 For a line of consanguinity is described as "the ordered series of persons related by blood, and
@@ -4482,7 +4482,7 @@ Risposta all’Obiezione 3: Una linea può essere interpretata in due modi diver
 
 Risposta all’Obiezione 4: Proprio come non può esserci somiglianza senza differenza, così non esiste prossimità senza distanza. Pertanto, non ogni distanza è contraria alla consanguineità, ma soltanto quelle che escludono la prossimità legata ai rapporti di sangue.
 
-<span class="atom-split" data-atom="064" data-title="Whether consanguinity is fittingly distinguished by degrees and lines? (2/2)" data-chapter="Whether consanguinity is fittingly distinguished by degrees and lines?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="064" data-title="Whether consanguinity is fittingly distinguished by degrees and lines? (parte 2)" data-chapter="Whether consanguinity is fittingly distinguished by degrees and lines?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 5: Even as whiteness is said to be greater in two ways, in one way through
 intensity of the quality itself, in another way through the quantity of the surface, so consanguinity
@@ -4642,7 +4642,7 @@ Risposta all’Obiezione 4: È stato dimostrato come la consanguineità tra pers
 
 Risposta all’Obiezione 5: Non è irragionevole che una delle due forme di unione venga ostacolata dall’altra, proprio come quando c’è identità non c’è somiglianza. Allo stesso modo, il legame di consanguineità può ostacolare l’unione coniugale.
 
-<span class="atom-split" data-atom="066" data-title="Whether the degrees of consanguinity that are an impediment to marriage could be fixed by the Church? (1/2)" data-chapter="Whether the degrees of consanguinity that are an impediment to marriage could be fixed by the Church?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="066" data-title="Whether the degrees of consanguinity that are an impediment to marriage could be fixed by the Church? (parte 1)" data-chapter="Whether the degrees of consanguinity that are an impediment to marriage could be fixed by the Church?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the degrees of consanguinity that are an impediment to marriage
 could not be fixed by the Church so as to reach to the fourth degree. For it is written (Mat. 19:6):
@@ -4771,7 +4771,7 @@ Risposta all’Obiezione 1: Proprio come Dio non unisce coloro che si uniscono c
 
 Risposta all’Obiezione 2: Il matrimonio non è soltanto un sacramento, ma svolge anche una funzione specifica; pertanto è soggetto al controllo dei ministri della Chiesa in misura maggiore rispetto al battesimo, che è considerato semplicemente un sacramento. Infatti, proprio come i contratti e le funzioni umane sono regolati dalle leggi umane, allo stesso modo anche i contratti e le funzioni spirituali sono governati dalla legge della Chiesa.
 
-<span class="atom-split" data-atom="067" data-title="Whether the degrees of consanguinity that are an impediment to marriage could be fixed by the Church? (2/2)" data-chapter="Whether the degrees of consanguinity that are an impediment to marriage could be fixed by the Church?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="067" data-title="Whether the degrees of consanguinity that are an impediment to marriage could be fixed by the Church? (parte 2)" data-chapter="Whether the degrees of consanguinity that are an impediment to marriage could be fixed by the Church?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: Although the tie of consanguinity is natural, it is not natural that
 consanguinity forbid carnal intercourse, except as regards certain degrees, as stated above (A[3]).
@@ -8576,7 +8576,7 @@ Risposta all’Obiezione 3: Se il marito diventa incapace di pagare il debito a 
 
 Risposta all’Obiezione 4: La lebbra annulla un fidanzamento, ma non un matrimonio. Pertanto, la moglie è obbligata a pagare i debiti anche verso un marito lebbroso; tuttavia, non è tenuta a convivere con lui, poiché non corre lo stesso rischio di contrarre l’infezione attraverso il rapporto coniugale quanto attraverso una convivenza continua. E anche se il figlio nato da loro fosse malato, sarebbe comunque meglio averlo che non averne affatto.
 
-<span class="atom-split" data-atom="122" data-title="Whether a husband is bound to pay the debt if his wife does not ask for it? (1/2)" data-chapter="Whether a husband is bound to pay the debt if his wife does not ask for it?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="122" data-title="Whether a husband is bound to pay the debt if his wife does not ask for it? (parte 1)" data-chapter="Whether a husband is bound to pay the debt if his wife does not ask for it?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the husband is not bound to pay the marriage debt if his wife
 does not ask for it. For an affirmative precept is binding only at a certain time. But the time fixed
@@ -8747,7 +8747,7 @@ Obiezione 3: Inoltre, a un pazzo non deve essere restituita la spada, per evitar
 
 Al contrario, “La moglie non ha potere sul proprio corpo, ma appartiene al marito” (1 Corinzi 7:4). Pertanto, su richiesta del marito, la moglie deve pagare il debito anche durante le sue mestruazioni. Inoltre, una donna in periodo mestruale non dovrebbe costituire un’occasione di peccato per il proprio marito; tuttavia, se non gli pagasse il debito su sua richiesta, potrebbe fornirgli l’opportunità di commettere peccato, poiché lui potrebbe incorrere in adulterio. Pertanto, eccetera.
 
-<span class="atom-split" data-atom="123" data-title="Whether a husband is bound to pay the debt if his wife does not ask for it? (2/2)" data-chapter="Whether a husband is bound to pay the debt if his wife does not ask for it?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="123" data-title="Whether a husband is bound to pay the debt if his wife does not ask for it? (parte 2)" data-chapter="Whether a husband is bound to pay the debt if his wife does not ask for it?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, In this regard some have asserted that a menstruous woman may not pay the
 debt even as she may not ask for it. For just as she would not be bound to pay it if she had some
@@ -9149,7 +9149,7 @@ Dobbiamo ora considerare la questione delle molteplici mogli. In questo ambito v
 (4) Rappresenta un peccato mortale avere rapporti con una concubina?  
 (5) È mai stato legittimo avere una concubina in passato?
 
-<span class="atom-split" data-atom="131" data-title="Whether it is against the natural law to have several wives? (1/2)" data-chapter="Whether it is against the natural law to have several wives?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="131" data-title="Whether it is against the natural law to have several wives? (parte 1)" data-chapter="Whether it is against the natural law to have several wives?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not against the [natural law](/positions/natural_law) to have several wives. For
 [custom](/concepts/custom) does not prejudice the law of nature. But "it was not a sin" to have several wives "when
@@ -9276,7 +9276,7 @@ Obiezione 9: Inoltre, tutto ciò che è contrario al desiderio naturale è contr
 Rispondo che tutte le cose naturali sono dotate di determinati principi grazie ai quali non solo sono in grado di compiere le azioni proprie, ma anche di rendere tali azioni proporzionali al loro scopo, sia che queste azioni derivino dalla loro natura generica sia da quella specifica. Ad esempio, è proprio della natura di un magnete attrarre il ferro; allo stesso modo, è nella sua natura specifica che un animale come il cane percepisce e reagisce agli stimoli esterni. Proprio come in quegli esseri che agiscono per necessità naturale il principio dell’azione risiede nella loro stessa forma, così nelle creature dotate di intelletto i principi-guida delle loro azioni sono la conoscenza e il desiderio. Pertanto, nel potere cognitivo è necessario un concetto naturale, mentre nel potere appetitivo esiste una tendenza innata che permette di compiere azioni proporzionali al proprio scopo. Poiché l’uomo, più di qualsiasi altro animale, conosce il fine per cui agisce e la proporzione tra l’azione e tale fine, è evidente che possiede un concetto naturale che lo guida a comportarsi in modo appropriato; questo concetto viene chiamato “legge naturale” o “diritto naturale”, mentre negli altri animali si manifesta come istinto naturale. Gli esseri inferiori, infatti, sono spinti dalla forza della natura ad agire in modo appropriato, piuttosto che guidati dal proprio giudizio. Quindi, la legge naturale non è altro che un concetto insito nell’uomo che lo orienta verso comportamenti adeguati, sia nelle azioni derivanti dalla sua natura generica (come procreare, mangiare, ecc.), sia in quelle legate alla sua natura specifica (come ragionare). Qualsiasi azione che renda tali comportamenti inadeguati al fine perseguito dalla natura è considerata contraria alla legge naturale. Un’azione può essere inadeguata sia rispetto allo scopo principale che a quello secondario, e in entrambi i casi ciò può accadere in due modi: primo, a causa di fattori che ostacolano completamente il raggiungimento dello scopo; ad esempio, un eccesso o una carenza eccessiva nell’alimentazione possono danneggiare sia la salute del corpo che la capacità di svolgere le proprie funzioni. Secondo, a causa di fattori che rendono più difficile o meno efficace l’attuazione dello scopo; ad esempio, mangiare in modo eccessivo o in momenti inappropriati può compromettere sia la salute che le capacità cognitive. Pertanto, un’azione che ostacoli direttamente il raggiungimento dello scopo principale è vietata dai primi principi della legge naturale; analogamente, un’azione che lo renda meno efficace è vietata dai secondi principi della stessa legge.
 Deriva dalla prima finalità del matrimonio, così come le conclusioni in materia speculativa ricevono il nostro assenso sulla base di principi ovvi e noti; per questo motivo si dice che l’atto in questione sia contrario alla legge naturale. Il matrimonio ha infatti come scopo principale la procreazione e l’educazione dei figli, un compito che spetta all’uomo in quanto essere di genere umano, e quindi è comune anche ad altri animali (Etica, VIII, 12); per questo motivo i “figli” vengono considerati un bene essenziale del matrimonio. Tuttavia, come afferma il Filosofo (Etica, VIII, 12), in quanto tale il matrimonio ha anche uno scopo secondario, specifico degli esseri umani: la condivisione delle attività necessarie alla vita quotidiana, menzionate sopra (Q[41], A[1]). In relazione a questo scopo, i coniugi si devono reciprocamente “fedeltà”, che rappresenta uno dei beni fondamentali del matrimonio. Esiste inoltre un altro scopo, particolarmente rilevante nel caso di matrimoni tra credenti: la rappresentazione simbolica di Cristo e della Chiesa; per questo motivo si dice che il “sacramento” sia un bene essenziale del matrimonio. Pertanto, il primo scopo del matrimonio corrisponde alla natura umana dell’uomo come essere animale; il secondo, alla sua natura di essere razionale; il terzo, alla sua fede cristiana. Di conseguenza, la poligamia non distrugge completamente né ostacola in alcun modo il primo scopo del matrimonio, poiché un uomo è sufficiente per avere figli da più mogli e per educarli. Tuttavia, sebbene non distrugga completamente il secondo scopo, lo ostacola notevolmente: infatti, in una famiglia con più mogli è difficile mantenere la pace, poiché un solo marito non può soddisfare le esigenze di tutte; inoltre, la condivisione delle stesse responsabilità familiari può generare conflitti. Il terzo scopo del matrimonio viene invece completamente compromesso dalla poligamia, poiché Cristo è uno e anche la Chiesa è una. Da quanto detto, risulta evidente che la poligamia sia in qualche modo contraria alla legge naturale, ma in altri aspetti non lo sia affatto.
 
-<span class="atom-split" data-atom="132" data-title="Whether it is against the natural law to have several wives? (2/2)" data-chapter="Whether it is against the natural law to have several wives?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="132" data-title="Whether it is against the natural law to have several wives? (parte 2)" data-chapter="Whether it is against the natural law to have several wives?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 1: [Custom](/concepts/custom) does not prejudice the law of nature as regards the first precepts
 of the latter, which are like the general concepts of the mind in speculative matters. But those which

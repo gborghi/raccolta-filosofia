@@ -2034,7 +2034,7 @@ points of inquiry:
 (3) Their mutual comparison;
 (4) Whether all the sacraments are necessary for salvation?
 
-<span class="atom-split" data-atom="041" data-title="Whether there should be seven sacraments? (1/2)" data-chapter="Whether there should be seven sacraments?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="041" data-title="Whether there should be seven sacraments? (parte 1)" data-chapter="Whether there should be seven sacraments?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that there ought not to be seven sacraments. For the sacraments derive
 their efficacy from the Divine power, and the power of Christ's Passion. But the Divine power is
@@ -2150,7 +2150,7 @@ Reply to Objection 5: There was need for a special sacrament to be applied as a 
 venereal concupiscence: first because by this concupiscence, not only the person but also the nature
 is defiled: secondly, by reason of its vehemence whereby it clouds the reason.
 
-<span class="atom-split" data-atom="042" data-title="Whether there should be seven sacraments? (2/2)" data-chapter="Whether there should be seven sacraments?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="042" data-title="Whether there should be seven sacraments? (parte 2)" data-chapter="Whether there should be seven sacraments?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 6: Holy Water and other consecrated things are not called sacraments,
 because they do not produce the sacramental effect, which is the receiving of grace. They are,
@@ -7367,7 +7367,7 @@ the pronouncing of the words. for then the meaning of the words is finished, whi
 efficacious in the forms of the sacraments. And therefore it does not follow that this change is
 successive.
 
-<span class="atom-split" data-atom="139" data-title="Whether this proposition is false: \&quot;The body of Christ is made out of bread\&quot;? (1/2)" data-chapter="Whether this proposition is false: \&quot;The body of Christ is made out of bread\&quot;?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="139" data-title="Whether this proposition is false: \&quot;The body of Christ is made out of bread\&quot;? (parte 1)" data-chapter="Whether this proposition is false: \&quot;The body of Christ is made out of bread\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this proposition is false: "The body of Christ is made out of bread"?
 
@@ -7464,7 +7464,7 @@ Reply to Objection 2: That out of which another is made, will sometimes be that 
 of the subject which is implied. And therefore, since there is no subject of this change, the comparison
 does not hold.
 
-<span class="atom-split" data-atom="140" data-title="Whether this proposition is false: \&quot;The body of Christ is made out of bread\&quot;? (2/2)" data-chapter="Whether this proposition is false: \&quot;The body of Christ is made out of bread\&quot;?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="140" data-title="Whether this proposition is false: \&quot;The body of Christ is made out of bread\&quot;? (parte 2)" data-chapter="Whether this proposition is false: \&quot;The body of Christ is made out of bread\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this proposition is false: "The body of Christ is made out of bread"?
 
@@ -8581,7 +8581,7 @@ inquiry:
 (5) Of the truth of the expression?
 (6) Of the comparison of the one form with the other?
 
-<span class="atom-split" data-atom="160" data-title="Whether this is the form of this sacrament: \&quot;This is My body,\&quot; and \&quot;This is the chalice of My blood\&quot;? (1/2)" data-chapter="Whether this is the form of this sacrament: \&quot;This is My body,\&quot; and \&quot;This is the chalice of My blood\&quot;?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="160" data-title="Whether this is the form of this sacrament: \&quot;This is My body,\&quot; and \&quot;This is the chalice of My blood\&quot;? (parte 1)" data-chapter="Whether this is the form of this sacrament: \&quot;This is My body,\&quot; and \&quot;This is the chalice of My blood\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this is the form of this sacrament: "This is My body," and "This is the chalice of My blood"?
 
@@ -8678,7 +8678,7 @@ Reply to Objection 3: In the sacrament of Baptism the minister exercises an act 
 use of the matter, which is of the essence of the sacrament: such is not the case in this sacrament;
 hence there is no parallel.
 
-<span class="atom-split" data-atom="161" data-title="Whether this is the form of this sacrament: \&quot;This is My body,\&quot; and \&quot;This is the chalice of My blood\&quot;? (2/2)" data-chapter="Whether this is the form of this sacrament: \&quot;This is My body,\&quot; and \&quot;This is the chalice of My blood\&quot;?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="161" data-title="Whether this is the form of this sacrament: \&quot;This is My body,\&quot; and \&quot;This is the chalice of My blood\&quot;? (parte 2)" data-chapter="Whether this is the form of this sacrament: \&quot;This is My body,\&quot; and \&quot;This is the chalice of My blood\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this is the form of this sacrament: "This is My body," and "This is the chalice of My blood"?
 
@@ -8775,7 +8775,7 @@ Roman Church, who derived it from Peter the Apostle; and this on account of the 
 the words preceding: and therefore it is not part of the form, just as the words preceding the form
 are not.
 
-<span class="atom-split" data-atom="163" data-title="Whether this is the proper form for the consecration of the wine: \&quot;This is the chalice of My blood,\&quot; etc.? (1/2)" data-chapter="Whether this is the proper form for the consecration of the wine: \&quot;This is the chalice of My blood,\&quot; etc.?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="163" data-title="Whether this is the proper form for the consecration of the wine: \&quot;This is the chalice of My blood,\&quot; etc.? (parte 1)" data-chapter="Whether this is the proper form for the consecration of the wine: \&quot;This is the chalice of My blood,\&quot; etc.?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this is the proper form for the consecration of the wine: "This is the chalice of My blood," etc.?
 
@@ -8876,7 +8876,7 @@ the consecration of the blood rather than in that of the body, since the body is
 Passion. This is also pointed out in our Lord's saying, "which shall be delivered up for you," as if
 to say, "which shall undergo the Passion for you."
 
-<span class="atom-split" data-atom="164" data-title="Whether this is the proper form for the consecration of the wine: \&quot;This is the chalice of My blood,\&quot; etc.? (2/2)" data-chapter="Whether this is the proper form for the consecration of the wine: \&quot;This is the chalice of My blood,\&quot; etc.?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="164" data-title="Whether this is the proper form for the consecration of the wine: \&quot;This is the chalice of My blood,\&quot; etc.? (parte 2)" data-chapter="Whether this is the proper form for the consecration of the wine: \&quot;This is the chalice of My blood,\&quot; etc.?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this is the proper form for the consecration of the wine: "This is the chalice of My blood," etc.?
 
@@ -10037,7 +10037,7 @@ cannot be done without sin. And it would seem graver still if anyone were to inc
 death through this sacrament, which was instituted as a means of salvation. Consequently, the body
 of Christ should never be given to anyone suspected of crime, as by way of examination.
 
-<span class="atom-split" data-atom="183" data-title="Whether the seminal loss that occurs during sleep hinders anyone from receiving this sacrament? (1/2)" data-chapter="Whether the seminal loss that occurs during sleep hinders anyone from receiving this sacrament?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="183" data-title="Whether the seminal loss that occurs during sleep hinders anyone from receiving this sacrament? (parte 1)" data-chapter="Whether the seminal loss that occurs during sleep hinders anyone from receiving this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that seminal loss does not hinder anyone from receiving the body of
 Christ: because no one is prevented from receiving the body of Christ except on account of sin.
@@ -10132,7 +10132,7 @@ Reply to Objection 1: A person is hindered necessarily, only by mortal sin, from
 this sacrament: but from a sense of decency one may be hindered through other causes, as stated
 above.
 
-<span class="atom-split" data-atom="184" data-title="Whether the seminal loss that occurs during sleep hinders anyone from receiving this sacrament? (2/2)" data-chapter="Whether the seminal loss that occurs during sleep hinders anyone from receiving this sacrament?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="184" data-title="Whether the seminal loss that occurs during sleep hinders anyone from receiving this sacrament? (parte 2)" data-chapter="Whether the seminal loss that occurs during sleep hinders anyone from receiving this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 2: Conjugal intercourse, if it be without sin, (for instance, if it be done for
 the sake of begetting offspring, or of paying the marriage debt), does not prevent the receiving of
@@ -11375,7 +11375,7 @@ image, in Whose person and by Whose power he pronounces the words of consecratio
 from what was said above (Q[82], AA[1],3). And so, in a measure, the priest and victim are one
 and the same.
 
-<span class="atom-split" data-atom="208" data-title="Whether the time for celebrating this mystery has been properly determined? (1/2)" data-chapter="Whether the time for celebrating this mystery has been properly determined?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="208" data-title="Whether the time for celebrating this mystery has been properly determined? (parte 1)" data-chapter="Whether the time for celebrating this mystery has been properly determined?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the time for celebrating this mystery has not been properly determined.
 For as was observed above (A[1]), this [sacrament](/concepts/sacrament) is representative of our Lord's Passion. But the
@@ -11479,7 +11479,7 @@ was born in the night (De Consecr., dist. 1). And in like manner it is celebrate
 towards the beginning of the night, since our Lord rose in the night, that is, "when it was yet dark,
 before the sun's rising was manifest."
 
-<span class="atom-split" data-atom="209" data-title="Whether the time for celebrating this mystery has been properly determined? (2/2)" data-chapter="Whether the time for celebrating this mystery has been properly determined?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="209" data-title="Whether the time for celebrating this mystery has been properly determined? (parte 2)" data-chapter="Whether the time for celebrating this mystery has been properly determined?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 5: As is set down in the decree (De Consecr., dist. 1), in virtue of a decree
 of Pope Alexander II, "it is enough for a priest to celebrate one mass each day, because Christ
@@ -11490,7 +11490,7 @@ for the sake of money, or to gain flattery from the laity." And Pope Innocent II
 Celebr. Miss., chap. Consuluisti) that "except on the day of our Lord's birth, unless necessity urges,
 it suffices for a priest to celebrate only one mass each day."
 
-<span class="atom-split" data-atom="210" data-title="Whether this sacrament ought to be celebrated in a house and with sacred vessels? (1/2)" data-chapter="Whether this sacrament ought to be celebrated in a house and with sacred vessels?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="210" data-title="Whether this sacrament ought to be celebrated in a house and with sacred vessels? (parte 1)" data-chapter="Whether this sacrament ought to be celebrated in a house and with sacred vessels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that this [sacrament](/concepts/sacrament) ought not to be celebrated in a house and with sacred
 vessels. For this sacrament is a [representation](/concepts/idea) of our Lord's Passion. But Christ did not suffer in a
@@ -11592,7 +11592,7 @@ are hidden with Christ in God" (Col. 3:3). Accordingly under the same distinctio
 our pleasure that altars, in which no relics of saints are found enclosed, be thrown down, if possible,
 by the bishops presiding over such places."
 
-<span class="atom-split" data-atom="211" data-title="Whether this sacrament ought to be celebrated in a house and with sacred vessels? (2/2)" data-chapter="Whether this sacrament ought to be celebrated in a house and with sacred vessels?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="211" data-title="Whether this sacrament ought to be celebrated in a house and with sacred vessels? (parte 2)" data-chapter="Whether this sacrament ought to be celebrated in a house and with sacred vessels?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: The church, altar, and other like inanimate things are consecrated, not
 because they are capable of receiving grace, but because they acquire special spiritual virtue from
@@ -11671,7 +11671,7 @@ consecrating, then, without every one of the things mentioned above---namely, wi
 altar, consecrated chalice and corporal, and the other things instituted by the Church---he consecrates
 Christ's body in very truth; yet he is guilty of grave sin, in not following the rite of the Church.
 
-<span class="atom-split" data-atom="212" data-title="Whether the words spoken in this sacrament are properly framed? (1/3)" data-chapter="Whether the words spoken in this sacrament are properly framed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="212" data-title="Whether the words spoken in this sacrament are properly framed? (parte 1)" data-chapter="Whether the words spoken in this sacrament are properly framed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the words spoken in this [sacrament](/concepts/sacrament) are not properly framed. For, as
 Ambrose says (De Sacram. iv), this sacrament is consecrated with Christ's own words. Therefore
@@ -11719,7 +11719,7 @@ according to the flesh, and Basil, bishop of Caesarea, edited the rite of celebr
 from their authority it is manifest that whatever words are employed in this matter, are chosen
 becomingly.
 
-<span class="atom-split" data-atom="213" data-title="Whether the words spoken in this sacrament are properly framed? (2/3)" data-chapter="Whether the words spoken in this sacrament are properly framed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="213" data-title="Whether the words spoken in this sacrament are properly framed? (parte 2)" data-chapter="Whether the words spoken in this sacrament are properly framed?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, Since the whole mystery of our salvation is comprised in this [sacrament](/concepts/sacrament), therefore
 is it performed with greater solemnity than the other sacraments. And since it is written (Eccles.
@@ -11817,7 +11817,7 @@ Reply to Objection 3: The Eucharist is the sacrament of the unity of the whole C
 therefore in this sacrament, more than in the others, mention ought to be made of all that belongs
 to the salvation of the entire Church.
 
-<span class="atom-split" data-atom="214" data-title="Whether the words spoken in this sacrament are properly framed? (3/3)" data-chapter="Whether the words spoken in this sacrament are properly framed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="214" data-title="Whether the words spoken in this sacrament are properly framed? (parte 3)" data-chapter="Whether the words spoken in this sacrament are properly framed?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: There is a twofold instruction in the Faith: the first is for those receiving
 it for the first time, that is to say, for catechumens, and such instruction is given in connection with
@@ -11888,7 +11888,7 @@ sent [missa] to us: accordingly the deacon on festival days "dismisses" the peop
 mass, by saying: "Ite, missa est," that is, the victim has been sent [missa est] to God through the
 angel, so that it may be accepted by God.
 
-<span class="atom-split" data-atom="215" data-title="Whether the actions performed in celebrating this sacrament are becoming? (1/2)" data-chapter="Whether the actions performed in celebrating this sacrament are becoming?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="215" data-title="Whether the actions performed in celebrating this sacrament are becoming? (parte 1)" data-chapter="Whether the actions performed in celebrating this sacrament are becoming?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the actions performed in celebrating this mystery are not becoming.
 For, as is evident from its form, this [sacrament](/concepts/sacrament) belongs to the New Testament. But under the New
@@ -11985,7 +11985,7 @@ to the faithful by the work of His ministers, according to 2 Cor. 2:14: "He mani
 his knowledge by us in every place"; and therefore when the altar which represents Christ, has been
 incensed on every side, then all are incensed in their proper order.
 
-<span class="atom-split" data-atom="216" data-title="Whether the actions performed in celebrating this sacrament are becoming? (2/2)" data-chapter="Whether the actions performed in celebrating this sacrament are becoming?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="216" data-title="Whether the actions performed in celebrating this sacrament are becoming? (parte 2)" data-chapter="Whether the actions performed in celebrating this sacrament are becoming?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: The priest, in celebrating the mass, makes use of the sign of the cross
 to signify Christ's Passion which was ended upon the cross. Now, Christ's Passion was accomplished
@@ -12107,7 +12107,7 @@ of greater solemnity that we find it decreed (De Consecr. dist. 1) that a bishop
 with several assistants. Nevertheless, in private masses it suffices to have one server, who takes
 the place of the whole Catholic people, on whose behalf he makes answer in the plural to the priest.
 
-<span class="atom-split" data-atom="218" data-title="Whether the defects occurring during the celebration of this sacrament can be sufficiently met by observing the Church's statutes? (1/2)" data-chapter="Whether the defects occurring during the celebration of this sacrament can be sufficiently met by observing the Church's statutes?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="218" data-title="Whether the defects occurring during the celebration of this sacrament can be sufficiently met by observing the Church's statutes? (parte 1)" data-chapter="Whether the defects occurring during the celebration of this sacrament can be sufficiently met by observing the Church's statutes?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the defects occurring during the celebration of this [sacrament](/concepts/sacrament) cannot
 be sufficiently met by observing the statutes of the Church. For it sometimes happens that before
@@ -12199,7 +12199,7 @@ life-giving chalice become one of death, but it ought to be kept in a suitable v
 and in order that the sacrament may not remain incomplete, he ought to put other wine into the
 chalice, resume the mass from the consecration of the blood, and complete the sacrifice.
 
-<span class="atom-split" data-atom="219" data-title="Whether the defects occurring during the celebration of this sacrament can be sufficiently met by observing the Church's statutes? (2/2)" data-chapter="Whether the defects occurring during the celebration of this sacrament can be sufficiently met by observing the Church's statutes?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="219" data-title="Whether the defects occurring during the celebration of this sacrament can be sufficiently met by observing the Church's statutes? (parte 2)" data-chapter="Whether the defects occurring during the celebration of this sacrament can be sufficiently met by observing the Church's statutes?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: If before the consecration of the blood, and after the consecration of the
 body the priest detect that either the wine or the water is absent, then he ought at once to add them
@@ -12395,7 +12395,7 @@ will, except in so far as Adam's will is looked upon as ours, in which sense the
 take it in a wide sense for any detestation of something past: in which sense Augustine uses the
 term in his book De Poenitentia (Serm. cccli).
 
-<span class="atom-split" data-atom="223" data-title="Whether the form of this sacrament is: \&quot;I absolve thee\&quot;? (1/2)" data-chapter="Whether the form of this sacrament is: \&quot;I absolve thee\&quot;?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="223" data-title="Whether the form of this sacrament is: \&quot;I absolve thee\&quot;? (parte 1)" data-chapter="Whether the form of this sacrament is: \&quot;I absolve thee\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether the form of this sacrament is: "I absolve thee"?
 
@@ -12489,7 +12489,7 @@ in the latter case they did not always use the deprecatory form, but sometimes e
 indicative or imperative: thus we read (Acts 3:6) that Peter said to the lame man: "What I have, I
 give thee: In the name of Jesus Christ of Nazareth, arise and walk."
 
-<span class="atom-split" data-atom="224" data-title="Whether the form of this sacrament is: \&quot;I absolve thee\&quot;? (2/2)" data-chapter="Whether the form of this sacrament is: \&quot;I absolve thee\&quot;?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="224" data-title="Whether the form of this sacrament is: \&quot;I absolve thee\&quot;? (parte 2)" data-chapter="Whether the form of this sacrament is: \&quot;I absolve thee\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether the form of this sacrament is: "I absolve thee"?
 

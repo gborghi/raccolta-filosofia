@@ -24,7 +24,11 @@ tags:
 
 THIS curious collection of “marvels” reads like the jottings from a diary. All authorities are agreed that it is not the work of [Aristotle](/figures/aristotle), but it is included in this volume as it forms part of the “Corpus” which has come down to us; most Aristotelian scholars believe that it emanated from the [Peripatetic School](/schools/lyceum). Some of the notes are puerile, but some on the other hand are evidently the fruit of direct and accurate observation.
 
-<span class="atom-split" data-atom="002" data-title="ON MARVELLOUS THINGS HEARD (1/9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Questa curiosa raccolta di “meraviglie” si legge come gli appunti di un diario. Tutte le autorità sono concordi che non sia opera di [Aristotele](/figures/aristotle), ma è inclusa in questo volume poiché fa parte del “Corpus” che ci è pervenuto; la maggior parte degli studiosi aristotelici ritiene che provenga dalla [Scuola Peripatetica](/schools/lyceum). Alcune note sono puerili, ma altre, d’altra parte, sono evidentemente il frutto di un’osservazione diretta e accurata.
+
+<span class="atom-split" data-atom="002" data-title="ON MARVELLOUS THINGS HEARD (parte 1)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom" data-srclang="en"></span>
 
 In Paeonia they say that in the mountain called Hesaenus, which divides Paeonia from Maedice, there is a wild beast called “bolinthus,” which the Paeonians call “monaepus.” They say that the beast is in general character like an ox, but that it is larger and stronger, and also more hairy; for it has a mane on its neck like a horse, stretching down very thickly, and spreading from its brow to its eyes. Its horns are not like those of oxen, but are turned downwards, and come to a sharp point by the ears; each of these holds more than three pints and is pitch black, but they shine as though they were peeled. But when the hide is skinned it covers the space of eight couches. But when the beast is hit it flees, and even if incapacitated continues to do so; its flesh is sweet. It protects itself by kicking and voiding excrement over a distance of forty feet; it easily and often employs this form of defence, which scorches so fiercely that it will scrape off a dog’s hair. They say that it has this effect when the animal is disturbed, but that it does not scorch when it is undisturbed. When they bring forth their voting they meet in large numbers, and collecting in a herd all the biggest bring forth young and void excrement in a circle. For the beast voids a great deal of such excrement.
 
@@ -84,7 +88,67 @@ In Cyrene they say that there is not one kind of mouse but many, differing in sh
 
 In Cilicia they say that there is a whirlpool; when birds and other creatures which have been drowned are put into it, they come to life again.
 
-<span class="atom-split" data-atom="003" data-title="ON MARVELLOUS THINGS HEARD (2/9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+In Peonia dicono che nel monte chiamato Esaeno, il quale divide la Peonia dalla Maedica, vi sia una bestia selvatica chiamata “bolinto”, che i Peoni chiamano “monapo”. Dicono che la bestia sia nel complesso simile a un bue, ma più grande e più forte, e anche più pelosa; porta infatti sul collo una criniera come quella di un cavallo, che scende molto folta e si estende dalla fronte agli occhi. Le sue corna non sono come quelle dei buoi, ma sono rivolte all’ingiù e terminano a punta presso le orecchie; contengono ciascuna più di tre pinte, sono nere come la pece, e risplendono come se fossero state scorticate. Ma quando la bestia viene scuoiata, la sua pelle ricopre lo spazio di otto letti. Ma quando la bestia è colpita, fugge e, anche se resa inabile, continua a fuggire; la sua carne è dolce. Si protegge scalciando ed espellendo escrementi fino a quaranta piedi di distanza; usa facilmente e spesso questa forma di difesa, che brucia così violentemente da raschiare via il pelo a un cane. Dicono che abbia questo effetto quando l’animale è agitato, ma che non bruci quando è tranquillo. Quando devono partorire, si riuniscono in gran numero e, raccoltesi in branco, tutte le più grandi partoriscono ed espellono escrementi in cerchio. La bestia, infatti, espelle una gran quantità di tali escrementi.
+
+Dicono che i cammelli in Arabia non si accoppiano con le loro madri, e non lo faranno neppure se si usa la forza. Si narra che una volta, non essendovi alcuno stallone, l'uomo incaricato introdusse di nascosto un puledro. Il puledro, a quanto pare, compì l'accoppiamento, ma poco dopo morse a morte il cammelliere.
+
+Dicono che i cuculi in Elice, quando stanno per deporre le uova, non fanno nido, ma le depongono nei nidi delle colombe o dei piccioni, e non covano, né fanno schiudere, né allevano i loro piccoli; ma quando il giovane uccello è nato e cresciuto, scaccia dal nido quelli con cui ha finora vissuto. Diventa, a quanto pare, un uccello bello e forte, sì che può facilmente avere il sopravvento sugli altri. Dicono che i colombacci si compiacciano tanto di ciò, che si uniscono a scacciare i loro propri piccoli.
+
+Le capre in Creta, quando sono ferite da una freccia, paiono cercare il dittamo, che vi cresce. Quando lo hanno mangiato, subito estraggono le frecce.
+
+Si dice che alcuni cervi in Acaia, quando perdono le corna, vadano in luoghi tali da non poter essere facilmente trovati. Lo fanno perché non hanno nulla con cui difendersi, e perché i punti dai quali hanno perduto le corna sono dolorosi. Al posto delle corna si può spesso vedere che è cresciuta su di loro l'edera.
+
+In Armenia dicono che cresca una pianta chiamata erba del leopardo. Quando un leopardo è stato visto, ne ungono una vittima, e la lasciano libera. Quando il leopardo l'ha toccata, a quanto pare cerca escrementi umani. Perciò i cacciatori, mettendo questi in un vaso, lo appendono a un albero, affinché egli si stanchi di saltare per prenderlo, e così possa essere catturato.
+
+In Egitto si dice che i piovanelli volano nella bocca dei coccodrilli, e nettano loro i denti, traendo col becco i piccoli frammenti di carne che vi aderiscono; ciò piace ai coccodrilli, e non fanno loro alcun male.
+
+Dicono che a Bisanzio i ricci sappiano distinguere quando il vento soffia da settentrione e da mezzogiorno, e mutino prontamente le loro tane; quando soffia il vento di mezzogiorno, fanno le aperture in basso, e quando il vento di settentrione, dai lati.
+
+Le capre di Cefalonia apparentemente non bevono come gli altri quadrupedi, ma ogni giorno rivolgono il muso verso il mare, aprono la bocca e inalano l'aria.
+
+Dicono che in Siria vi sia sempre un capo di un branco di asini selvatici. Quando uno degli animali più giovani desidera accoppiarsi con una femmina, il capo si adira e insegue il giovane finché non lo cattura, e poi, chinandosi tra le sue zampe posteriori, gli strappa via gli organi.
+
+Si dice che le tartarughe, quando hanno mangiato un serpente, mangino poi della maggiorana, e che se non ne trovano muoiano rapidamente. Molti pastori hanno sperimentato per vedere se ciò sia vero, e quando vedono una tartaruga mangiare un serpente strappano via la maggiorana; ogni volta che fanno ciò vedono la tartaruga morire in breve tempo.
+
+Si dice che l'organo della martora sia diverso da quello degli altri animali, essendo duro come un osso, in qualunque condizione si trovi. Dicono che sia un eccellente rimedio per la stranguria e venga somministrato in polvere.
+
+Dicono che il picchio si arrampichi sugli alberi come una lucertola, capovolto e sul ventre. Si dice che si nutra degli insetti degli alberi, e che scavi così a fondo negli alberi in cerca di vermi, da abbatterli davvero.
+
+Dicono che i pellicani dissotterrino le cozze che vivono nei fiumi e le inghiottiscano; poi, quando ne hanno prese in quantità, vomitano, e così mangiano la carne delle cozze senza curarsi dei loro gusci.
+
+Dicono che in Cillene in Arcadia i merli sono bianchi, ma non in alcun altro luogo, e che hanno voci armoniose ed escono al chiaro di luna; e che se uno provasse di giorno, sono molto difficili a prendere.
+
+Si dice che il miele chiamato miele di fiori a Melo e a Cnido sia profumato, ma che duri solo per poco tempo, e che in esso vi sia pane d'api.
+
+In certe parti della Cappadocia si dice che il miele si faccia senza cera e che sia della consistenza dell'olio.
+
+A Trapezus nel Ponto il miele di bosso ha un odore grave; e dicono che gli uomini sani impazziscono, ma che gli epilettici ne sono subito guariti.
+
+Si dice che in Lidia si raccolga molto miele dagli alberi, e che gli abitanti ne facciano piccole palline senza cera, che ne taglino pezzi con violenta frizione, e li usino. Lo stesso si fa in Tracia, ma non è così duro, sebbene piuttosto sabbioso. Dicono che tutto il miele che si rapprende conservi lo stesso volume, non come l'acqua e gli altri liquidi.
+
+L'erba calcidica e il mandorlo sono utilissimi per fare il miele; ché dicono che da essi se ne produca la maggior quantità.
+
+Dicono che le api siano stordite dalla mirra e non ne possano sopportare l'odore; alcuni dicono che le api pungono violentemente coloro che sono cosparsi di mirra.
+
+Presso gli Illiri dicono che il popolo chiamato Taulantii faccia vino dal miele. Quando hanno spremuta la cera, versano acqua e fanno bollire in un calderone, finché non rimane che metà del liquido; poi lo versano in vasi di terracotta; dicono che in questi fermenti a lungo, e che diventi vinoso, dolce e forte. Dicono che ciò sia avvenuto anche presso alcuni popoli della Grecia, così che non mostri alcuna differenza dal vino vecchio; ma che quando in seguito cercarono la mescolanza, non poterono trovarla.
+
+In Tessaglia tramandano che i serpenti nascono vivi in così gran numero che, se non fossero divorati dalle cicogne, la gente abbandonerebbe il paese. Perciò onorano le cicogne, ed è illecito ucciderle; se qualcuno lo fa, è soggetto alle stesse pene di un omicida.
+
+Allo stesso modo in certi tempi a Sparta, si dice che vi sia una tale moltitudine di serpenti, che in tempi di carestia gli Spartani se ne cibano; perciò dicono che l'oracolo pitico li chiamò “colli di serpente.”
+
+A Cipro si dice che i topi mangino il ferro.
+
+E dicono che i Calibi, in una delle isole che giacciono sopra di loro, raccolgono oro da molti di questi animali. Per questa ragione, a quanto pare, tagliano i topi che catturano nelle miniere.
+
+Si dice che quando si va da Susa in Media, nella seconda tappa, vi sia una grande quantità di scorpioni. Di conseguenza il re dei Persiani, ogni volta che attraversava quella regione, vi si tratteneva tre giorni, ordinando a tutti i suoi uomini di dare la caccia; e dava un premio a chi ne catturava di più.
+
+A Cirene dicono che non vi è una sola specie di topo, ma molte, differenti per forma e colore; alcuni infatti hanno la testa piatta come le puzzole, altri hanno la forma di ricci, che chiamano “echines.”
+
+In Cilicia si dice che vi sia un gorgo; quando vi si pongono uccelli e altre creature annegati, rivivono.
+
+<span class="atom-split" data-atom="003" data-title="ON MARVELLOUS THINGS HEARD (parte 2)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom" data-srclang="en"></span>
 
 Among the Scythians called Geloni they say that there is a beast, excessively rare, which is called “tarandos”; they say that it changes the colour of its hair according to the place it is in. For this reason it is difficult to catch; for it becomes the same colour as the trees and the ground, and generally of the place in which it is. But the changing of the colour of the hair is most remarkable; other creatures change their skin like the chameleon and polypus.
 
@@ -144,7 +208,67 @@ Also on the road to Syracuse there is a spring in a meadow neither large nor wit
 
 There is a spring among the Palici in Sicily, covering the space of ten couches; this throws up water to the height of six cubits, so that the whole place is thought by observers to be inundated; and it falls back again to the same spot. There is an oath which is regarded as very sacred there; for a man writes down the oath he takes on a small tablet and casts it into the water. If he swears truly, the tablet floats. If he swears falsely, the tablet is said to grow heavy and disappear, and the man is burned. So the priest takes security from him that someone shall purify the temple.
 
-<span class="atom-split" data-atom="004" data-title="ON MARVELLOUS THINGS HEARD (3/9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Tra gli Sciti chiamati Geloni dicono che vi sia una bestia, assai rara, che è chiamata "tarandos"; dicono che essa muti il colore del pelo secondo il luogo in cui si trova. Per questo è difficile a prendersi; poiché diventa del medesimo colore degli alberi e del suolo, e generalmente del luogo in cui è. Ma il mutamento del colore del pelo è cosa mirabilissima; altre creature mutano la pelle, come il camaleonte e il polipo.
+
+Ma questo animale è della grandezza di un bue. Ma la sua testa è della stessa specie di quella di un cervo.
+
+Si racconta che ad Abido un uomo, il quale era fuori di senno, entrasse in teatro e per molti giorni stesse a guardare, come se vi fossero persone che recitassero, e desse segno di approvazione; e quando guarì dalla pazzia, disse di aver goduto del miglior tempo della sua vita.
+
+A Taranto dicono che un venditore di vino impazziva di notte, ma vendeva vino di giorno. Teneva infatti la chiave della sua stanza alla cintola, e, benché molti cercassero di togliergliela e prenderla, non la perdette mai.
+
+Nell'isola di Tenos dicono che vi sia una coppa contenente una miscela, dalla quale accendono molto facilmente un fuoco. E presso i Bitini in Tracia vi è nelle miniere una pietra chiamata “spinos”, dalla quale dicono che il fuoco venga acceso.
+
+Nell'isola di Lipara dicono che vi è un luogo con una corrente discendente, nel quale se nascondono una pignatta, qualunque cosa vi mettano dentro bolle.
+
+In Media e nel distretto di Psittaco in Persia vi sono fuochi ardenti, uno piccolo in Media, ma uno grande in Psittaco con fiamma chiara. Per la qual cosa il re persiano edificò vicino ad esso la sua cucina. Entrambi sono in piano e non in luoghi elevati. Questi si possono vedere e di notte e di giorno, ma quelli in Panfilia solo di notte.
+
+Dicono anche che in Atitania, presso i confini dell'Apolloniatis, vi è una roccia dalla quale non si vede il fuoco che sale, ma quando vi si versa sopra dell'olio, essa divampa.
+
+Si dice anche che il territorio al di là delle Colonne d'Ercole bruci, in parte continuamente, in parte solo di notte, come viene narrato nel Viaggio di Annone. Il fuoco di Lipara si vede fiammeggiare non di giorno, ma solo di notte. In Pitecusa dicono che sia infuocato e caldo, ma non ardente.
+
+Senofane dice che quello di Lipara si spense per sedici anni, ma riapparve nel diciassettesimo.
+
+Si dice che la colata di lava dell'Etna non sia né fiammeggiante né continua, ma che appaia dopo un intervallo di molti anni.
+
+In Lidia si dice che il fuoco sia molto forte e bruci per sette giorni di seguito.
+
+Si racconta una storia straordinaria riguardo al flusso di lava in Sicilia; la larghezza della fiamma bollente è infatti di quaranta stadi, e l'altezza a cui giunge è di tre.
+
+Dicono che la pietra in Tracia chiamata “spinos” brucia quando viene spaccata in due, e si ricongiunge, come i carboni accesi, e che questa, ricongiunta e cosparsa d’acqua, brucia; e che la “marieus” fa lo stesso. Presso Filippi in Macedonia dicono che vi siano miniere, le cui scorie, quando vengono gettate fuori, crescono e producono oro, e che ciò può vedersi.
+
+Dicono anche che a Cipro, nel distretto chiamato Tyrrias, il bronzo si comporta in modo simile: infatti, a quanto pare, lo tagliano in piccoli pezzi e lo seminano; poi, quando arriva la pioggia, cresce, emette germogli e così viene raccolto.
+
+Dicono anche che nell'isola di Melo i luoghi che vengono scavati si riempiono di nuovo da sé.
+
+Dicono che in Peonia, quando piogge continue cadono, mentre il terreno si scioglie, si trovi oro chiamato oro non fuso. Dicono che in Peonia il suolo sia così ricco d'oro che molti vi hanno trovato più di una mina di peso. Dicono che un uomo trovò due pepite e le portò al re, una del peso di tre mine e l'altra di cinque; queste furono da lui poste sulla tavola, e, se mangiava qualcosa, prima versava una libagione su di esse.
+
+Dicono anche che presso i Battri il fiume Ossus porti giù zolle d'oro in gran copia, e che in Iberia il fiume detto Teodoro depositi alla foce quantità d'oro, e similmente lo trascini.
+
+Si dice che in Pieria, in Macedonia, l'oro non coniato fosse sotterrato dagli antichi re in quattro buche, e che da una di esse crescesse oro alto un palmo.
+
+Si dice che l'origine del ferro calibio e amisenio sia assai straordinaria. Esso infatti, come dicono, nasce dalla sabbia che i fiumi trascinano con sé. Alcuni affermano che la lavano semplicemente e la scaldano in una fornace; altri dicono che lavano ripetutamente il residuo che rimane dopo il primo lavaggio e lo scaldano, e che vi mettono dentro una pietra che chiamano refrattaria; e ve n'è molta in quella regione. Questo ferro è di gran lunga superiore a tutte le altre qualità. Se non fosse bruciato in una fornace, non sembrerebbe di molto diverso dall'argento. Dicono che esso solo non sia soggetto a ruggine, ma che non ve ne sia in grande quantità.
+
+Dicono che presso gli Indiani il rame sia tanto lucente, puro e immune da ruggine, che nell'aspetto non si distingue dall'oro, ma che tra le coppe di Dario ve ne siano in numero considerevole che non si potrebbero riconoscere come rame od oro se non dall'odore.
+
+Dicono che lo stagno celtico si scioglie molto più facilmente del piombo. Una prova della sua solubilità si può vedere dal fatto che sembra sciogliersi anche in acqua; per esempio, evidentemente si macchia molto rapidamente. Si scioglie anche nel freddo, quando vi è gelo, a causa, come dicono, del calore raccolto e compresso con esso per la sua debolezza.
+
+C'è un olivo selvatico a Pantheion chiamato olivo "bella corona". Tutte le sue foglie hanno caratteristiche contrarie a quelle degli altri olivi; infatti hanno il colore grigio sulla parte superiore e non su quella inferiore. L'olivo mette fuori rami simili a quelli del mirto, adatti a corone. Prendendo una talea da questo, Eracle lo piantò a Olimpia, e da esso vengono date corone agli atleti vincitori. Questo si trova presso il fiume Ilisso, a circa sessanta stadi dal fiume; ha un muro attorno e vi è una grave pena per chiunque lo tocchi. Prendendo una talea da questo, gli Elei lo piantarono a Olimpia, e da esso diedero corone.
+
+Nelle miniere in Lidia presso Pergamo, che Creso lavorò, quando scoppiò la guerra, gli operai vi si rifugiarono, e chiusa la bocca, furono soffocati; molto tempo dopo, quando le miniere furono ripulite, i vasi che usavano per il loro lavoro furono trovati pietrificati, come anfore e vasi simili. Questi, essendo pieni di qualche liquido, furono pietrificati, e così pure le ossa degli uomini.
+
+Nel lago Ascania l'acqua è così piena di soda che i vestiti non hanno bisogno di ulteriore pulizia, e se li si lascia a lungo nell'acqua, si riducono in pezzi.
+
+Presso il lago Ascania vi è un villaggio chiamato Pitopoli, a circa centoventi stadi da Cio, nel quale tutti i pozzi si prosciugano in inverno, tanto che è impossibile immergervi un vaso, ma in estate sono colmi.
+
+Lo stretto tra la Sicilia e l'Italia cresce e diminuisce secondo la luna.
+
+Anche sulla strada per Siracusa vi è una sorgente in un prato, né grande né con molta acqua; ma quando una gran folla si radunò in quel luogo, essa fornì acqua in abbondanza.
+
+Nella Sicilia, tra i Palici, vi è una fonte che copre lo spazio di dieci letti; questa getta acqua all'altezza di sei cubiti, sì che tutto il luogo è giudicato dagli osservatori come inondato; e ricade di nuovo nel medesimo punto. Ivi è un giuramento che è tenuto in grandissima venerazione; imperocché l'uomo scrive sopra una piccola tavoletta il giuramento che fa, e la getta nell'acqua. Se giura il vero, la tavoletta galleggia. Se giura il falso, dicesi che la tavoletta divenga pesante e sparisce, e l'uomo è arso. Onde il sacerdote prende da lui malleveria che alcuno purificherà il tempio.
+
+<span class="atom-split" data-atom="004" data-title="ON MARVELLOUS THINGS HEARD (parte 3)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom" data-srclang="en"></span>
 
 Demonesus, the Chalcedonian island, took its name from Demonesus who first worked there: the place has a mine of cyanus and malachite. The best of this fetches a price comparable with gold; for it is a drug used for the eyes. There is also copper to be dived for in two fathoms of sea; from this is made the statue in Sicyon in the ancient temple of Apollo, and also those in Pheneus called yellow-copper. On them is inscribed “Heracles, son of Amphitryon, dedicated these on capturing Elis.” He captured Elis under the guidance of a woman, in accordance with the oracle, whose father Augeas he had killed. Those who dig for copper become very keen-sighted, and those who have no eyelashes grow them; hence doctors also use the flower of copper and Phrygian ash for the eyes.
 
@@ -198,7 +322,61 @@ In Sicily in the district called Enna there is said to be a cave, around which i
 
 They say that there are no wolves, bears or snakes in Crete, and, generally speaking, no beasts of the kind, because Zeus was born there.
 
-<span class="atom-split" data-atom="005" data-title="ON MARVELLOUS THINGS HEARD (4/9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Demoneso, l'isola calcedonica, prese il nome da Demoneso che per primo vi lavorò: il luogo ha una miniera di cyanus e malachite. Il meglio di questo ottiene un prezzo paragonabile all'oro; poiché è una medicina per gli occhi. Vi è anche rame da cavare tuffandosi in due braccia di mare; da questo è fatta la statua in Sicione nell'antico tempio di Apollo, e anche quelle in Feneo chiamate rame giallo. Su di esse è inciso: "Eracle, figlio di Anfitrione, dedicò queste dopo aver preso Elide." Egli prese Elide sotto la guida di una donna, secondo l'oracolo, il cui padre Augia egli aveva ucciso. Coloro che scavano il rame diventano di vista molto acuta, e a quelli che non hanno ciglia ne crescono; perciò anche i medici usano il fiore di rame e la cenere frigia per gli occhi.
+
+C’è una grotta chiamata «grotta cava»; in essa vi sono pilastri fatti di stalagmiti; questi si vedono uniti al pavimento, perché là è molto stretto.
+
+Da una coppia di aquile uno dei piccoli è a turno un’aquila di mare, finché esse sono accoppiate. Dalle aquile di mare nasce il falco pescatore, e da questi nascono falchi e avvoltoi; questi non si fermano come avvoltoi, ma generano grandi avvoltoi; questi non hanno prole. Ciò è provato dal fatto che nessuno ha mai visto un nido di grandi avvoltoi.
+
+Fra gli Indiani si racconta un fatto straordinario del piombo che si trova colà; poiché quando è fuso e versato in acqua fredda, salta fuori dall’acqua.
+
+Si dice che il rame dei Mossineci sia molto lucente e bianco, non perché vi sia mescolato stagno, ma perché una certa terra è combinata e fusa con esso. Ma dicono che l'uomo che scoprì la mescolanza non la insegnò mai a nessuno: così i vasi di rame che furono fatti nei tempi precedenti hanno questa distinzione, ma quelli successivi non l'hanno.
+
+Dicono che nel Ponto certi uccelli si ritirino d’inverno entro buchi e non evacua, né sentono quando vengono spennate le ali, né quando vengono messi su un piccolo spiedo, ma sentono quando sono arrostiti al fuoco. Dicono anche che molti pesci non sentono quando vengono tagliati e affettati, ma sentono quando sono riscaldati al fuoco.
+
+L'ape pare annunziare il solstizio d'inverno camminando al suo lavoro, segno del quale si valgono gli apicoltori; ché quello è il loro tempo di quiete. La cicala sembra cantare dopo il solstizio.
+
+Si dice che il riccio possa stare senza cibo per un anno.
+
+Lo stellione, quando ha mutato la pelle come un serpente, si dice che si giri e la divori; poiché esso è spiato dai medici per il suo valore per gli epilettici.
+
+Dicono che il grasso dell'orsa, quando si rapprende in inverno, nel tempo in cui l'orsa vive in una grotta, cresce e trabocca dai vasi in cui è riposto.
+
+A Cirene dicono che le rane siano del tutto mute; e in Macedonia, nel paese degli Ematioti, che i porci abbiano lo zoccolo solido.
+
+In Cappadocia dicono che le mule figliano e in Creta che i pioppi fruttificano.
+
+Dicono che a Serifo le rane non gracidano, ma se sono portate in un altro luogo gracidano.
+
+Tra gli Indiani nella parte chiamata Keras, dicono che vi sono piccoli pesci che vagano sulla terra asciutta, e poi corrono di nuovo al fiume.
+
+Alcuni dicono che in Babilonia certi pesci rimangono in buchi che trattengono l'umidità quando il fiume si prosciuga; questi escono sull'aia per nutrirsi, e camminano sulle pinne e agitano le code; quando sono inseguiti fuggono, e tuffandosi si fermano a fronteggiare l'inseguitore. Infatti gli uomini spesso si avvicinano, e perfino li tormentano. Essi hanno la testa simile a una rana marina, ma il resto del corpo è simile a un gobio, ma hanno le branchie come gli altri pesci.
+
+In Eraclea del Ponto e in Reggio dicono che alcuni pesci si catturino scavando, e che questi si trovano soprattutto nei luoghi presso i fiumi e acquitrinosi. Dove questi luoghi si inaridiscono, possono essere catturati in certi luoghi sulla terra; quindi, quando il suolo si prosciuga ancora di più, si addentrano nel fango in cerca di umidità; poi, quando anche questo si secca, rimangono nell'umidità, come quelli che sopravvivono nelle buche. Ma quando vengono dissotterrati prima che l'acqua arrivi, si muovono.
+
+E dicono che in Paflagonia quei pesci che si dissotterrano sono generati in profondità, e che sono di buona qualità; sebbene non si veda acqua vicino, né alcun fiume che scorra, ma la terra stessa propaga le creature.
+
+Dicono che i cervi in Epiro scavino e sotterrino il corno destro quando lo perdono, e che ciò sia prezioso per molti usi.
+
+Dicono che la lince nasconda la sua urina perché è usata per molti scopi, specialmente per fare sigilli.
+
+Dicono che la foca, quando è catturata, vomiti il colostro; questo ha proprietà curative, ed è buono per gli epilettici.
+
+Si dice che in Italia presso il monte Circe cresca un’erba mortale, la quale ha questa proprietà, che, sparsa sopra alcuno, lo fa subito cadere e gli fa cadere i capelli; tutte le membra del suo corpo si indeboliscono, sì che l’aspetto del corpo di quelli che muoiono è miserando. Dicono che Aulo il Peucezio e Gaio, i quali stavano per darla a Cleonimo lo Spartano, fossero scoperti e, dopo l’interrogatorio, messi a morte dai Tarantini.
+
+Dicono che nell'isola di Diomedea nell'Adriatico vi sia un insigne e venerato santuario di Diomede, e che uccelli di smisurata grandezza siedano in cerchio intorno a questo santuario, con grandi e duri becchi. Dicono inoltre che, se mai dei Greci sbarcano in quel luogo, essi tacciono; ma se alcuno dei barbari che abitano all'intorno vi approda, quelli si levano e, volteggiando in cerchio, assalgono le loro teste, e ferendoli coi loro becchi li uccidono. La leggenda vuole che questi uccelli discendano dai compagni di Diomede, i quali fecero naufragio presso l'isola, quando Diomede fu proditoriamente assassinato da Enea, che era allora re di quelle contrade.
+
+Presso gli Umbri dicono che le bestie figliano tre volte all'anno, e la terra produce frutti molte volte più di quanto sia seminato; che altresì le donne hanno molti figli e di rado ne partoriscono uno solo, ma la maggior parte due o tre.
+
+Nelle Isole Elettridi, che giacciono nel golfo dell'Adriatico, dicono che due statue siano state dedicate, una di stagno e una di rame, lavorate in stile antiquato. Si dice che queste siano opere di Dedalo, un ricordo dei tempi antichi, quando, fuggendo da Minosse, egli giunse in questa regione dalla Sicilia e da Creta. Dicono che il fiume Eridano abbia insabbiato queste isole. Vi è un lago, a quanto pare, vicino al fiume, che contiene acqua calda. Da esso emana un odore greve e sgradevole, e nessun animale ne beve mai, né uccello alcuno vi vola sopra senza cadere e morire. La sua circonferenza è di duecento stadi, e la sua larghezza di dieci. Gli abitanti del luogo dicono che Fetonte cadde in questo lago quando fu colpito da un fulmine. Vi sono molti pioppi, dai quali trasuda il cosiddetto elettro. Dicono che questo sia come gomma, e indurisca come una pietra; viene raccolto dagli abitanti e portato ai Greci. Dicono che Dedalo giunse a queste isole, e approdandovi eresse in una di esse la propria immagine, e nell'altra quella di suo figlio Icaro. In seguito, quando i Pelasgi, che erano stati espulsi da Argo, vi navigarono, Dedalo fuggì e salpò verso l'isola di Icaro.
+
+In Sicilia, nel distretto chiamato Enna, si dice che vi sia una grotta, intorno alla quale vi è abbondanza di fiori in ogni stagione dell'anno, e in particolare che un vasto spazio sia colmo di viole, le quali riempiono i dintorni di dolce profumo, così che i cacciatori non possono inseguire le lepri, perché i cani sono sopraffatti dall'odore. Attraverso questa grotta vi è un passaggio sotterraneo invisibile, per mezzo del quale si dice che Plutone abbia compiuto il ratto di Core. Dicono che in questo luogo si trovi grano diverso da quello locale, che essi usano, e da qualsiasi grano importato, ma con grandi peculiarità. Dicono che questo fu il primo luogo in cui il grano apparve presso di loro. Rivendicano anche Demetra, affermando che la dea nacque tra loro.
+
+Dicono che a Creta non vi siano né lupi, né orsi, né serpenti, e, in generale, nessuna bestia di quel genere, perché Zeus vi nacque.
+
+<span class="atom-split" data-atom="005" data-title="ON MARVELLOUS THINGS HEARD (parte 4)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom" data-srclang="en"></span>
 
 In the sea outside the Pillars of Heracles they say that a desert island was found by the Carthaginians, having woods of all kinds and navigable rivers, remarkable for all other kinds of fruits, and a few days’ voyage away; as the Carthaginians frequented it often owing to its prosperity, and some even lived there, the chief of the Carthaginians announced that they would punish with death any who proposed to sail there, and that they massacred all the inhabitants, that they might not tell the story, and that a crowd might not resort to the island, and get possession of it, and take away the prosperity of the Carthaginians.
 
@@ -234,7 +412,43 @@ In the city of Orchomenus in Boeotia they say that a fox was seen, which, when p
 
 In the island of Sardinia they say that there are many fine buildings arranged in the ancient Greek style, and among others domed buildings, carved with many shapes; these are said to have been built by Iolaus the son of Iphicles, when he took the Thespians, descended from Heracles, and sailed to those parts to colonize them, on the grounds that they belonged to him by his kinship with Heracles, because Heracles was master of all the country towards the west. Apparently the island was originally called Ichnussa, because its circumference made a shape like a man’s footstep (Greek ichnos), and it is said before this time to have been prosperous and fruitful; for the legend was that Aristaeus, who, they say, was the most efficient husbandman in ancient times, ruled them, in a district previously full of many great birds. Now the island no longer bears anything, because the Carthaginians who got possession of it cut down all the fruits useful for food, and prescribed the penalty of death to the inhabitants, if any of them replanted them.
 
-<span class="atom-split" data-atom="006" data-title="ON MARVELLOUS THINGS HEARD (5/9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Nel mare al di là delle Colonne d’Ercole dicono che fu trovata dai Cartaginesi un’isola deserta, avente selve d’ogni sorta e fiumi navigabili, ragguardevole per ogni altra specie di frutti, e a poche giornate di navigazione; e poiché i Cartaginesi la frequentavano spesso per la sua prosperità, e alcuni anche vi abitavano, il capo dei Cartaginesi annunciò che avrebbero punito con la morte chiunque proponesse di navigarvi, e che massacrarono tutti gli abitanti, affinché non raccontassero la vicenda, e una moltitudine non si recasse sull’isola, non se ne impadronisse, e non togliesse ai Cartaginesi la prosperità.
+
+Dicono che vi sia una strada chiamata “Eraclea” dall’Italia fino ai Celti, ai Celtoligi e agli Iberi, attraverso la quale, se un Greco o un indigeno viaggia, egli è guardato dagli abitanti, onde nessun male gli accada; e che essi esigono punizione da coloro per opera dei quali tale male accade.
+
+Dicono che presso i Celti vi sia un veleno da loro chiamato “veleno delle frecce”; questo produce una morte tanto rapida che i cacciatori Celti, quando hanno scoccato una freccia contro un cervo o altra bestia, corrono in fretta e recidono la parte ferita della carne prima che il veleno penetri, sia per servirsene, sia per impedire che l’animale imputridisca. Dicono che la corteccia della quercia sia stata scoperta come antidoto a questo; altri però parlano di un’altra foglia che chiamano ‘corvo’, perché un corvo è stato visto da loro, dopo aver assaggiato il veleno ed essersi ammalato, correre a questa foglia e, dopo averla inghiottita, cessare dal suo dolore.
+
+In Iberia dicono che, quando la macchia è stata bruciata dai pastori e la terra riscaldata dal legno, si veda il suolo scorrere d'argento, e che, dopo qualche tempo, quando vi siano stati terremoti e il terreno si sia spaccato, molto argento sia stato raccolto, il che fornì ai Massalioti una considerevole rendita.
+
+Nelle isole Gimnesie, che sono al largo dell'Iberia, le quali dicono essere le maggiori dopo le cosiddette "sette," si dice che l'olio non provenga dalle olive, ma dal terebinto, il quale corrisponde in ogni aspetto all'olio d'oliva. Dicono anche che gli Iberi che vi abitano sono così dediti alle donne che daranno quattro o cinque maschi in cambio di una femmina. Al servizio dei Cartaginesi, quando ricevono la paga, a quanto pare non comprano altro che donne. A nessuno di loro è permesso possedere alcun oggetto d'oro o d'argento. Si aggiunge che ciò è fatto al fine di impedire loro di introdurre oro, perché Eracle fece una spedizione contro l'Iberia a causa della ricchezza degli abitanti.
+
+Nel paese dei Massalioti, intorno alla Liguria, dicono che vi sia un lago, il quale ribolle e trabocca, e getta fuori una incredibile quantità di pesci. Ma quando spirano i venti etesii, essi accumulano terra sopra di esso, e tanta polvere vi si solleva, che la superficie del lago sparisce e diviene come terra solida. Allora gli abitanti traggono facilmente i pesci dal lago, colpendoli con una fiocina a tre punte.
+
+Si dice che alcuni dei Liguri usino la frombola così bene che, quando vedono un certo numero di uccelli, discutono tra loro quale ciascuno di essi si prepari a colpire, nella convinzione che li prenderanno facilmente tutti.
+
+Raccontano anche di un'altra particolarità tra loro: le donne partoriscono mentre lavorano; dopo aver lavato il neonato nell'acqua, subito vangano, e zappano, e fanno tutti i lavori domestici che devono fare quando non partoriscono.
+
+Questo è un'altra meraviglia tra i Liguri: dicono che vi sia un fiume tra loro il cui corso s'innalza così alto che è impossibile vedere le persone sull'altra riva.
+
+In Tirrenia si dice che vi sia un'isola chiamata Aethaleia, nella quale nei tempi antichi si cavava rame da una miniera, da cui provengono tutti i loro vasi di rame; dopo di che non se ne trovò più, ma, trascorso un notevole lasso di tempo, apparve ferro dalla stessa miniera, che i Tirreni che abitano nel distretto chiamato Poplonium usano ancora.
+
+Anche in Tirrenia vi è una città chiamata Oenaria, che dicono essere straordinariamente forte: nel mezzo di essa infatti sorge un ampio colle, elevantesi fino all’altezza di trenta stadi, e sotto vi sono boschi di ogni sorta e acqua. Raccontano che gli abitanti, temendo che sorgesse un tiranno, posero a capo di sé quei servi domestici che erano stati liberati, e questi li governano, e ogni anno ne costituiscono altri della medesima condizione.
+
+In Cuma in Italia si mostra una camera sotterranea, secondo che si dice, della Sibilla, la recitatrice degli oracoli, la quale dicono essere stata longeva e rimasta vergine, nativa di Eritre; ma da alcuni di coloro che abitano in Italia è detta originaria di Cuma, e da altri è chiamata Melancraera. Questo luogo è detto essere dominato dai Lucani. E dicono che in quei luoghi intorno a Cuma vi è un fiume chiamato Ceto, nel quale ciò che vi è gettato, a lungo andare, prima si riveste di uno strato, e poi si pietrifica.
+
+Si dice che per Alcimene, il sibarita, fu confezionato un mantello così costoso che fu esposto a Lacinio alla festa di Era, alla quale concorrono tutti gli Italioti, e fu ammirato più di ogni altra cosa ivi esposta; si dice che Dionisio il Vecchio lo acquistò e lo vendette ai Cartaginesi per centoventi talenti. Era di porpora, di quindici cubiti, e su ciascun lato era ornato di figure ricamate, di Susa sopra e dei Persiani sotto; nel centro erano Zeus, Era, Temi, Atena, Apollo e Afrodite. A una estremità era Alcimene, e ai due lati Sibari.
+
+Presso il promontorio della Iapigia si trova un luogo, nel quale si dice, così narra la leggenda, che ebbe luogo la battaglia tra Ercole e i giganti; di qui scorre un tale flusso di icore che in quel punto il mare non può essere navigato per la pesantezza dell'odore. Dicono che in molte parti d'Italia vi siano molti memoriali di Ercole sulle strade per le quali egli viaggiò. Ma presso Pandosia nella Iapigia si mostrano le impronte del dio, sulle quali nessuno può camminare.
+
+Vi è inoltre, presso il promontorio di Iapigia, una pietra tanto grande da caricare un carro, la quale dicono essere stata da lui sollevata e mossa, e ciò con un solo dito.
+
+Nella città di Orcomeno in Beozia raccontano che fu vista una volpe, la quale, inseguita da un cane, si tuffò in un passaggio sotterraneo, e che il cane vi si tuffò dietro, e fece un gran rumore di latrati, come se avesse trovato un vasto spazio aperto; i cacciatori, supponendo qualche intervento soprannaturale, sfondarono l'ingresso e vi entrarono anch'essi a forza; ma vedendo che da alcune aperture entrava la luce, ebbero una visione completa dell'insieme, e andarono a riferirlo ai magistrati.
+
+Nell'isola di Sardegna dicono che vi siano molti begli edifici costruiti nell'antico stile greco, e tra gli altri, edifici a cupola, scolpiti con molte forme; si dice che questi siano stati costruiti da Iolao figlio di Ificle, quando prese con sé i Tespi, discendenti di Eracle, e salpò verso quelle parti per fondarvi una colonia, perché gli appartenevano per la sua parentela con Eracle, essendo Eracle signore di tutto il paese verso occidente. A quanto pare, l'isola fu originariamente chiamata Ichnussa, perché la sua circonferenza formava una figura simile all'impronta di un piede umano (in greco ichnos), e si dice che in precedenza fosse stata prospera e fertile; la leggenda narrava infatti che Aristeo, il quale, dicono, fu il più valente agricoltore dell'antichità, vi regnò, in una regione un tempo piena di molti grandi uccelli. Ora l'isola non produce più nulla, perché i Cartaginesi che se ne impadronirono tagliarono tutti gli alberi da frutto utili al nutrimento, e comminarono agli abitanti la pena di morte, se qualcuno di essi li avesse ripiantati.
+
+<span class="atom-split" data-atom="006" data-title="ON MARVELLOUS THINGS HEARD (parte 5)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom" data-srclang="en"></span>
 
 In one of the seven islands called those of Aeolus, which is known as Lipara, runs a legend that there is a tomb, concerning which they tell many marvels; among other things they agree that it is not safe to approach the place by night, for the sound of drums and cymbals can be heard, and distinct laughter, with noise and the clapping of castanets. There is a still more remarkable story about the cave; for someone once slept here drunk before dawn, and was sought for by his servants for three days, and on the fourth was found, and taken away for dead by the servants and put into his own tomb; after receiving all the usual rites he suddenly arose and told all that had happened to him. This strikes us as more like legend; but at the same time one must not pass over it without record, when making a catalogue of events on the spot.
 
@@ -262,7 +476,35 @@ Among the Peucetini they say that there is a temple of Artemis, in which is dedi
 
 On the promontory in Sicily called Pelorias there is said to be a crocus which grows so large that among some of the inhabitants of the district the Greeks do not know what kind of flower it is, but at Pelorias any who wish bring large wagons, and in the season of spring make beds and platforms out of the crocus.
 
-<span class="atom-split" data-atom="007" data-title="ON MARVELLOUS THINGS HEARD (6/9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+In una delle sette isole dette quelle di Eolo, nota come Lipara, corre una leggenda che vi sia una tomba, intorno alla quale raccontano molte meraviglie; tra le altre cose convengono che non sia cosa sicura avvicinarsi al luogo di notte, poiché si ode suono di tamburi e cembali, e risa distinte, con rumore e battito di nacchere. Vi è poi una storia ancor più notevole circa la grotta; ché un tale vi dormì una volta ubriaco prima dell'alba, e fu cercato dai suoi servi per tre giorni, e al quarto fu trovato, e portato via per morto dai servi e deposto nella sua propria tomba; dopo aver ricevuto tutti i riti consueti, sorse improvvisamente e narrò tutto ciò che gli era accaduto. Questo ci pare più simile a leggenda; ma nondimeno non si deve passarlo sotto silenzio, facendo un catalogo delle cose avvenute sul luogo.
+
+Presso Cuma, in Italia, vi è un lago chiamato Aornos; di per sé non ha proprietà notevoli; ma dicono che intorno ad esso stiano in cerchio colline alte non meno di tre stadi, e che il lago stesso sia di forma circolare, con una profondità incredibile. Ma ciò sembra notevole; poiché, sebbene folti alberi vi crescano sopra, e alcuni addirittura si curvino fino ad esso, non si può mai vedere una foglia giacere sull'acqua, ma l'acqua è così chiara che coloro che vi guardano dentro ne sono stupiti. Ma sulla terra non lontana da esso sgorgano acque calde in molti luoghi, e tutta la regione è chiamata Piriflegetonte. Non è vero che nessun uccello voli sopra di esso; poiché coloro che vi sono stati affermano che vi sono molti cigni su di esso.
+
+Dicono che le isole Seirenusae giacciono presso l'Italia, al largo del promontorio stesso, vicino allo stretto, che giace dinanzi al luogo, e separa lo stretto che circonda Cuma, e quello che taglia il promontorio chiamato Poseidonia; sul quale sorge un tempio delle Sirene, ed esse sono onorate grandemente dagli abitanti con sacrifici puntuali. In memoria dei loro [nomi](/positions/nominalism) chiamano una Partenope, una Leuconia, e una terza Ligeia.
+
+Si dice che vi sia un monte tra Mentorice e Istriane chiamato Delphium, con un'alta cima. Quando i Mentori che abitano presso l'Adriatico salgono su questa cima, possono, a quanto sembra, scorgere navi che solcano il Ponto. Vi è nel varco di mezzo un luogo nel quale, quando si tiene un mercato comune, merci lesbie, chie e tasie sono acquistate dai mercanti che risalgono dal Ponto, e anfore corciresi da coloro che vengono dall'Adriatico.
+
+Dicono che l'Istro, scorrendo dalle foreste dette Ercinie, si divide, e una parte sfocia nel Ponto, l'altra nell'Adriatico. Possiamo vedere la prova, non solo nel tempo presente ma ancor più nei tempi antichi, che il fiume in questi punti non è navigabile; infatti dicono che Giasone fece il suo ingresso nel Ponto attraverso le rocce Cianee, ma la sua uscita attraverso l'Istro; e adducono un numero considerevole di altre prove, e in particolare mostrano altari nella regione consacrati da Giasone, e in una delle isole dell'Adriatico un tempio di Artemide costruito da Medea. Dicono anche che egli non avrebbe potuto navigare oltre le cosiddette Piancte, se non fosse venuto da lì. Anche nell'isola di Etalia, che giace nel Mar Tirreno, mostrano altri memoriali degli eroi, e uno che è chiamato il memoriale 'Ciottolo'; infatti, lungo la riva del mare, dicono che ci sono ciottoli dipinti, e i Greci che abitano l'isola dicono che questi traggono il loro colore dallo sporco rimosso dalle strigili quando si ungevano; dicono che questi ciottoli erano visibili da quella data e non prima, né se ne trovarono in seguito. Ma citano una prova ancora più convincente di questa, che il viaggio d'uscita non avvenne attraverso le Simplegadi, servendosi del poeta stesso in quel punto come testimone. Poiché, spiegando la gravità del pericolo, egli dice che è impossibile navigare oltre quel luogo.
+
+Le onde del mare trasportano insieme il legname delle navi e i corpi degli uomini, e così fanno le tempeste del fuoco distruttore.
+
+Or non si dice che il fuoco esca intorno alle Cianee, ma intorno allo stretto che divide la Sicilia (dall'Italia), dove vi sono eruzioni di fuoco su entrambi i lati dello stretto, e l'isola brucia continuamente, e la lava intorno all'Etna frequentemente scorre sopra la regione.
+
+A Taranto si dice che in certi tempi si offrano sacrifici agli spiriti degli Atridi, Tididi, Eacidi e Laertiadi, ma che offrano separatamente un sacrificio agli Agamennonidi in un altro giorno speciale, nel quale è [costume](/concepts/custom) che le donne non gustino le vittime a loro sacrificate. Possiedono anche il tempio di Achille. Si dice anche che, dopo che i Tarentini presero il luogo in cui ora vivono, esso era chiamato Eraclea, ma in tempi più antichi, quando gli Ioni lo tenevano, era chiamato Pleion; ancor prima di questa data era chiamato Sigeo dai Troiani, che lo possedevano.
+
+Si dice che Filottete sia onorato presso i Sibariti. Infatti, quando fu ricondotto da Troia, visse in un luogo chiamato Macalla nella regione di Crotone, che dicono distare centoventi stadi, e narrano che consacrò l'arco e le frecce di Eracle nel tempio di Apollo marino. Là dicono che i Crotoniati, durante la loro supremazia, li consacrarono nell'Apollonio del loro territorio. Si dice anche che, quando morì, fu sepolto là presso il fiume Sibari, dopo aver aiutato i Rodii, i quali erano sbarcati in quel luogo con Tlepolemo, e ingaggiato battaglia con i barbari che dimoravano in quella parte del paese.
+
+In Italia, nella contrada detta Gargaria, presso Metaponto, dicono che vi sia un tempio dell'Atena Ellenia, dove sono dedicati gli attrezzi di Epeo, che egli fabbricò per il cavallo di legno, dando alla dea questo nome. Dicono infatti che Atena gli apparve in sogno e gli ingiunse di dedicarle gli attrezzi, e che, avendo per questo differito la sua partenza, fu rinchiuso in quel luogo e non poté partire; donde il tempio dell'Atena Ellenia trasse il nome.
+
+Nella regione chiamata Daunia si dice che vi sia un tempio di Atena detta Achea, nel quale sono dedicate le asce di bronzo e le armi del compagno di Diomede e le sue proprie. In questo luogo raccontano che vi sono cani che non fanno alcun male ai Greci che vi giungono, ma li accarezzano come se fossero i loro amici più cari. Tutti i Dauni e i loro vicini vestono di nero, sia gli uomini sia le donne, apparentemente per la seguente ragione. Le donne troiane che erano state fatte prigioniere e giunsero in quella contrada, nell’ansia di evitare l’amara schiavitù per mano delle donne che prima appartenevano ai Greci nella loro patria, bruciarono le loro navi, secondo il racconto, per sfuggire insieme alla schiavitù che si aspettavano, e perché, congiunte con loro come spose, essendo costrette a rimanere, potessero tenerli. Il poeta ne dà una bellissima descrizione; si vede infatti che erano “dalle lunghe vesti” e “dal profondo seno”.
+
+Presso i Peucetini dicono che vi sia un tempio di Artemide, nel quale è dedicato il cosiddetto collare di bronzo, recante l’iscrizione «Diomede ad Artemide». La storia racconta che egli lo appese al collo di un cervo, e che vi crebbe; e, essendo stato poi ritrovato in questo modo da Agatocle, re dei Sicelioti, dicono che fu dedicato nel tempio di Zeus.
+
+Sul promontorio in Sicilia chiamato Pelorias si dice che vi sia un croco che cresce così grande che tra alcuni degli abitanti del distretto i Greci non sanno che tipo di fiore sia, ma a Pelorias coloro che vogliono portano grandi carri, e nella stagione della primavera fanno letti e piattaforme di croco.
+
+<span class="atom-split" data-atom="007" data-title="ON MARVELLOUS THINGS HEARD (parte 6)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom" data-srclang="en"></span>
 
 Polycritus, who wrote the Sicilian history, says in his story that in a certain part of the interior there is a little lake having a circumference of a shield, and this has water which is transparent, but the surface is somewhat ruffled. If anyone goes into it needing to wash, it increases in width, and if a second man goes in, it grows still broader. But the limit of its expansion is reached when it has received fifty men. But when it has received this number, it swells up from the bottom and casts up the bodies of the bathers high and dry on the land; when this has occurred it reverts again to its original size in circumference. This does not occur merely in the case of men, but if a quadruped goes into it the same thing happens.
 
@@ -300,7 +542,45 @@ Cattle in Illyria are said to breed twice during the year, and most commonly of 
 
 It is also said in Paeonia that the wild bulls are bigger than in any of the other races, and that their horns will hold two gallons, and some of them even more.
 
-<span class="atom-split" data-atom="008" data-title="ON MARVELLOUS THINGS HEARD (7/9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Policrito, che scrisse la storia di Sicilia, dice nel suo racconto che in una certa parte dell'interno vi è un laghetto che ha la circonferenza di uno scudo, e questo ha acqua trasparente, ma la superficie è alquanto increspata. Se uno vi entra per bisogno di lavarsi, esso si allarga in larghezza, e se un secondo uomo vi entra, diventa ancora più ampio. Ma il limite della sua espansione è raggiunto quando abbia ricevuto cinquanta uomini. Ma quando ne ha ricevuti tanti, si gonfia dal fondo e getta i corpi dei bagnanti in secco sulla terra; quando ciò è avvenuto, ritorna di nuovo alla sua primitiva circonferenza. Questo non accade soltanto nel caso degli uomini, ma se un quadrupede vi entra, la stessa cosa avviene.
+
+Nell'impero dei Cartaginesi dicono che vi è un monte chiamato Uranio, pieno di ogni sorta di legname, e reso bello da fiori dai molti colori, cosicché una successione di luoghi, partecipi del dolce profumo per un ampio tratto, offre ai viaggiatori un'aria deliziosissima. In questo luogo dicono che vi è una sorgente d'olio, che ha un profumo simile ai tagli di cedro. Ma colui che vi si avvicina deve essere puro, e quando è così l'olio zampilla più abbondantemente di prima, sì che se ne possa attingere con sicurezza.
+
+Dicono che vicino a questa sorgente vi sia una roccia naturale, di vasta grandezza. Quando è estate, essa emette una fiamma di fuoco, ma in inverno una sorgente d'acqua scaturisce dalla medesima origine, così fredda che, confrontata con la neve, la sua temperatura è la stessa. Dicono che ciò non è affatto nascosto, né avviene per breve tempo, ma che il fuoco sale per tutto il tempo estivo, e l'acqua per tutto l'inverno.
+
+Si racconta che nel distretto della Tracia chiamato Sintio e Medo vi è un fiume chiamato Ponto, il quale rotola giù pietre che bruciano e si comportano in modo contrario ai tizzoni di legno; infatti, quando la fiamma viene attizzata, queste pietre si spengono rapidamente, ma quando vengono immerse nell'acqua si accendono e si infiammano finemente. Quando bruciano hanno un odore simile alla pece, altrettanto sgradevole e acre, sì che nessun rettile può rimanere in quel luogo mentre ardono.
+
+Dicono anche che vi è là un distretto, non molto grande, ma all'incirca di venti stadi, che produce l'orzo che gli uomini usano; ma i cavalli e il bestiame non lo mangeranno, né alcun altro animale; né porci né cani oseranno toccare gli escrementi degli uomini che evacuano dopo aver mangiato farina o pane fatto con questo orzo, perché ne segue la morte.
+
+A Scotussa in Tessaglia dicono che vi sia una piccola sorgente, dalla quale scorre una sorta d'acqua, che guarisce rapidamente ferite e contusioni sia degli uomini che delle bestie, ma se vi si mette un tronco di legno senza schiacciarlo del tutto, ma solo spezzandolo a metà, esso ricresce e ritorna al suo stato originale.
+
+In Tracia, sopra Anfipoli, si dice che vi sia un fatto notevole, incredibile per chi non lo ha veduto. I fanciulli, uscendo dai villaggi e dai luoghi circostanti per cacciare piccoli uccelli, portano seco dei falchi, e si comportano così: quando sono giunti in un luogo adatto, chiamano i falchi per nome; e quelli, udendo la voce dei fanciulli, si avventano sugli uccelli. Gli uccelli, atterriti, fuggono tra i cespugli, dove i fanciulli li catturano abbattendoli con bastoni. Ma in ciò vi è una caratteristica assai notevole: quando i falchi stessi prendono qualcuno degli uccelli, lo gettano a terra ai cacciatori, e i fanciulli, dopo aver dato ai falchi una parte di tutto ciò che è stato catturato, se ne tornano a casa.
+
+Raccontano un fatto straordinario tra gli Eneti; infatti innumerevoli migliaia di taccole giungono nel loro paese e consumano il grano, dopo che lo hanno seminato; prima che stiano per volare laggiù, gli Eneti pongono doni per gli uccelli sui loro confini, deponendo semi di ogni specie di frutti; se le taccole assaggiano questi, non oltrepassano il confine entrando nel loro paese, e gli Eneti sanno che saranno in pace; ma se non li assaggiano, si aspettano come un'invasione del nemico.
+
+Nella Calcidica Tracia, presso Olinto, dicono che vi sia un luogo chiamato Cantharolethros, poco più grande di un'aia; quando qualsiasi altro animale vi giunge, subito si ritira, ma nessuno dei coleotteri cantharus fa altrettanto, ma girando in tondo intorno al luogo muoiono di fame.
+
+Tra i Ciclopi in Tracia v'è una piccola fonte con acqua chiara e trasparente a vedersi, e proprio come ogni altra acqua, ma, quando un qualsiasi animale ne beve, muore immediatamente.
+
+Dicono che in Crastonia, presso il paese dei Bisalti, le lepri che vengono prese abbiano due fegati, e che ivi sia un luogo di circa un acro, nel quale, se alcun animale entra, muore. Vi è anche là un bel grande tempio di Dioniso, nel quale, quando ha luogo un sacrificio e una festa, se il dio intende concedere una buona stagione, si dice che appaia un’immensa fiamma di fuoco e che tutti coloro che si recano al recinto sacro vedano questo; ma quando la stagione è per essere molto cattiva, questa luce non appare, ma l’oscurità copre il luogo, come nelle altre notti.
+
+In Elide dicono che vi è un edificio a circa otto stadi dalla città, nel quale durante le Dionisie pongono tre calderoni di bronzo vuoti. Fatto ciò, invitano qualsivoglia dei Greci di passaggio che voglia esaminare i vasi, e sigillano le porte della casa. Quando stanno per aprirla, mostrano i sigilli ai cittadini e agli stranieri, e poi la aprono. Coloro che entrano trovano i calderoni pieni di vino, ma il soffitto e le pareti intatti, così che non vi è sospetto che lo compiano con alcun artificio. Dicono anche che vi sono tra loro dei nibbi i quali strappano pezzi di carne a coloro che la portano attraverso il mercato, ma non toccano quelle che sono offerte agli dèi.
+
+In Coronea, in Beozia, si dice che le talpe non possano vivere, né scavare nella terra, benché il resto della Beozia ne abbia molte.
+
+A Lusi in Arcadia dicono che vi sia una fonte in cui si trovano topi di terra; essi si tuffano e vi vivono. La stessa cosa si dice accada a Lampsaco.
+
+A Crannone in Tessaglia si dice che nella città vi siano soltanto due corvi. Dopo aver nidificato, apparentemente migrano, e lasciano indietro esattamente lo stesso numero di piccoli che schiudono.
+
+Ad Apollonia, che giace vicino al paese degli Atlantini, dicono che il bitume e la pece siano sepolti e scaturiscano dalla terra allo stesso modo dell'acqua, per nulla diversi da quelli di Macedonia, se non che sono più neri e più densi. Non lontano da questo luogo vi è un fuoco che arde perpetuamente, come attestano coloro che abitano nella regione. Il luogo ardente non è grande, a quanto pare, ma quanto basta per dar posto a cinque letti. Odora di zolfo e di vetriolo, e intorno cresce erba folta, cosa assai sorprendente, e vi sono alberi enormi a non più di quattro cubiti dal fuoco. Vi è anche un continuo ardere in Licia e presso Megalopoli nel Peloponneso.
+
+Si dice che il bestiame in Illiria figli due volte durante l'anno, e il più comunemente di tutto abbia gemelli, e che le capre spesso figlino tre o quattro, e alcune cinque o anche più; e che diano volentieri un gallone di latte. Dicono anche che le galline non depongano una volta al giorno, come fanno altrove, ma due o tre volte.
+
+Si dice anche in Peonia che i tori selvatici siano più grandi che in qualsiasi altra razza, e che le loro corna tengano due galloni, e alcune anche di più.
+
+<span class="atom-split" data-atom="008" data-title="ON MARVELLOUS THINGS HEARD (parte 7)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom" data-srclang="en"></span>
 
 About the Sicilian strait many others have written, and this author says that a marvellous thing happens. For the waves from the Tyrrhenian Sea are borne with much surge to both the promontories, the one on the Sicilian side and the other on the Italian side called Rhegium, and being carried from the great sea into a narrow one are compressed. When this happens the wave is carried high in the air with a loud noise over a wide space upwards, so that, when hurled high in the air, it can be seen by those who are a long way off, not like the high travel of the sea but white and foamy, and like the tracks which are made by violent storms. Sometimes the waves crash against each other on both promontories and come together with a crash impossible to describe, and unbearable to look at; and sometimes, when they have parted after dashing against each other, so deep and terrifying is the appearance to those who are forced to see it that many cannot control themselves, but grow dizzy and fall down from fear. But when the wave falling on either of the spots, and flung as high as the promontories, dashes back again into the sea flowing below, with a vast roar and with huge swift eddies the sea boils up and is hurled high, seething from the depths and changing to every kind of colour; sometimes it appears black and sometimes blue, and then again purple. No beast can bear either to hear or to see the race and length of it, and in addition to this the upward flow, but all flee to the foot of the mountain. When the wave ceases, the eddies are carried up into the air and make such varied whirlings that the movements look like the coils of sea-serpents, or some other huge snakes.
 
@@ -338,7 +618,45 @@ They say that there is a kind of snake in Curium in Cyprus which has the same po
 
 They say that there is a kind of prickly pear in Ceos, and that, if one is pricked by a thorn, one dies.
 
-<span class="atom-split" data-atom="009" data-title="ON MARVELLOUS THINGS HEARD (8/9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Sullo stretto di Sicilia molti altri hanno scritto, e questo autore dice che una cosa mirabile avviene. Imperocché i flutti del mar Tirreno sono portati con grande impeto verso l'uno e l'altro promontorio, l'uno dal lato di Sicilia e l'altro dal lato d'Italia chiamato Reggio, ed essendo portati dal gran mare in uno stretto, sono compressi. Quando ciò avviene, l'onda è sollevata in alto con gran fragore per ampio spazio verso l'aria, sì che, scagliata in alto, può esser veduta da coloro che sono molto lontani, non come l'alto corso del mare ma bianca e spumosa, e simile alle tracce che fanno le tempeste violente. Talvolta i flutti cozzano l'uno contro l'altro sopra entrambi i promontori e si scontrano con un fragore impossibile a descriversi, e insopportabile a vedersi; e talvolta, quando si sono separati dopo essersi urtati, tanto profonda e terribile è l'apparenza a coloro che son costretti a vederla, che molti non possono contenersi, ma si sentono mancare e cadono per la paura. Ma quando l'onda, cadendo sopra l'uno o l'altro di quei luoghi, e scagliata in alto quanto i promontori, si riversa di nuovo nel mare che scorre di sotto, con immenso ruggito e con enormi vortici rapidissimi il mare ribolle e si solleva in alto, bollendo dalle profondità e mutandosi in ogni sorta di colore; talvolta appare nero e talvolta azzurro, e poi di nuovo purpureo. Nessuna bestia può sopportare né di udire né di vedere il corso e la lunghezza di esso, e oltre a ciò il flusso che sale in alto, ma tutte fuggono ai piedi del monte. Quando l'onda cessa, i vortici sono portati in aria e fanno sì vari gorghi che quei movimenti sembrano le spire di serpenti marini, o di altri immensi serpenti.
+
+Dicono che mentre gli Ateniesi costruivano il tempio di Demetra ad Eleusi, fu trovata una colonna di bronzo circondata da pietre, sulla quale era inciso: «Questa è la tomba di Deiope», che alcuni dicono fosse la moglie di Museo, e altri la madre di Trittolemo.
+
+In una delle isole chiamate Eolie dicono che vi siano un certo numero di palme da dattero, onde essa è chiamata "Phoenicodes". Non può essere vera l'affermazione di Callistene, che la pianta prese il nome dai Fenici di Siria, i quali abitano la costa del mare. Ma alcuni dicono che i Fenici fossero chiamati così dai Greci perché per primi navigarono il mare, e uccisero e trucidarono tutti nel punto in cui sbarcavano: poiché nella lingua dei Perrhachi versare sangue è "phoenixai".
+
+Nel paese chiamato Eniaco, in quella parte chiamata Ipate, si dice che sia stata trovata un’antica colonna; recando essa un’iscrizione in caratteri arcaici di cui gli Eniani volevano conoscere l’origine, mandarono messaggeri ad Atene per portarla colà. Ma mentre viaggiavano attraverso la Beozia, e discorrendo del loro viaggio dalla patria con alcuni stranieri, si dice che furono scortati nel cosiddetto Ismenio a Tebe. Poiché fu loro detto che l’iscrizione sarebbe stata con ogni probabilità decifrata colà, in quanto ivi si possedevano certe offerte aventi lettere antiche di forma simile. Avendo ivi scoperto ciò che cercavano dalle lettere conosciute, trascrissero i seguenti versi:
+
+Eracle consacrò un bosco sacro a Citera Persefassa, mentre io conducevo i greggi di Gerione e di Eritia.
+
+La dea Persephassa mi soggiogò con il desiderio per lei.
+
+Qui la mia novella sposa Erithe partorì un figlio Eritone; poi le diedi la pianura in [memoria](/concepts/memory) del nostro amore sotto un faggio ombroso.
+
+Il luogo detto Erythus corrispondeva a questa iscrizione, e così pure il fatto che egli condusse di là le vacche, e non da Erytheia; giacché dicono che il nome Erytheia non ricorre nelle contrade della Libia e dell’Iberia.
+
+In quella parte della Libia chiamata Itice, la quale giace, come dicono, nel golfo tra i promontori Ermeo e Ippo, di fronte a Cartagine, a una distanza di circa duecento stadi (che si dice sia stata fondata dai Fenici duecentottantasette anni prima di Cartagine stessa, come è registrato nelle storie fenicie), dicono che vi sia sale sepolto a tre tese di profondità, bianco d'aspetto ma non duro, bensì simile a vischiosissima gomma; quando è portato al sole, indurisce e diventa come marmo pario. Dicono che da esso si scolpiscano piccole figure e altri oggetti.
+
+Si dice che i primi Fenici che navigarono a Tartesso portassero via tanto argento come carico, recandovi olio d'oliva e altre merci di poco pregio, che nessuno poteva custodire o ricevere l'argento, ma che, allontanandosi dalla regione, dovettero fare d'argento tutti i loro altri vasi, e perfino tutte le ancore.
+
+Dicono che i Fenici che abitano in quella che è chiamata Gades, navigando fuori delle Colonne d'Ercole con vento di levante per quattro giorni, giunsero a certe terre deserte, piene di giunchi e di alghe, le quali non erano sommerse quando la marea si ritirava, ma erano coperte quando la marea era piena; sopra queste si trovò una quantità di tonni, di incredibile grandezza e peso quando venivano portati a riva; salandoli e riponendoli in vasi, li portarono a Cartagine. Soltanto questi i Cartaginesi non esportano, ma, per il loro valore come alimento, li consumano essi stessi.
+
+In Pedasia in Caria si offrono sacrifici a Zeus, nei quali conducono in processione una capra, della quale si narra un prodigio. Infatti, mentre percorre settanta stadi dalla città dei Pedasi attraverso una grande folla di spettatori, non viene turbata nel suo cammino, né esce dalla via, ma legata con una corda cammina davanti all'uomo che conduce il sacrificio. Vi è anche un prodigio, in quanto vi sono sempre due corvi presso il tempio di Zeus, e nessun altro si avvicina a quel luogo, e uno di essi ha una macchia bianca nella parte anteriore del collo.
+
+Tra gli Illiri che sono chiamati Ardiei lungo il confine tra loro e gli Autariati, dicono che vi sia un alto monte, e vicino ad esso una valle dalla quale sgorga l'acqua, non in tutte le stagioni ma in primavera, in quantità considerevole, che essi prendono e tengono al coperto di giorno, ma mettono all'aperto di notte. Dopo aver fatto ciò per cinque o sei giorni, l'acqua si indurisce e diventa sale finissimo, che essi conservano soprattutto per il bestiame; poiché il sale non viene importato presso di loro, perché vivono lontani dal mare e non hanno rapporti con altri. Di conseguenza ne hanno grande bisogno per il bestiame; infatti danno loro il sale due volte all'anno. Se non fanno ciò, si trova che la maggior parte del bestiame muore.
+
+Dicono che in Argo vi sia una specie di locusta chiamata “combattente di scorpioni.” Appena vede uno scorpione, lo assale, e lo scorpione fa esattamente la stessa cosa. Essa vola in cerchio attorno allo scorpione e stride; lo scorpione solleva il pungiglione e lo gira sul medesimo posto, poi a poco a poco lo innalza e lo distende per tutta la sua lunghezza, mentre la locusta gira in cerchio. Alla fine la locusta si avvicina e lo divora. Dicono che sia buona cosa mangiare una locusta come protezione contro il pungiglione dello scorpione.
+
+Dicono che le vespe in Nasso, quando abbiano mangiato carne di vipera (e a quanto pare ne sono molto ghiotte), ove pungessero alcuno, rechino tanto dolore, che la puntura è peggiore del morso della vipera.
+
+Dicono che facciano il veleno scitico, con cui ungono le frecce, dal serpente. A quanto pare gli Sciti stanno in attesa di quelli che hanno appena partorito e, prendendoli, li lasciano marcire per alcuni giorni. Quando credono che siano completamente decomposti, versano il sangue di un uomo in un piccolo vaso, lo sotterrano in un letamaio e lo ricoprono. Quando anche questo si è decomposto, mescolano la parte che sta sul sangue, la quale è acquosa, con il succo del serpente, e così fanno un veleno mortale.
+
+Dicono che a Curio, in Cipro, vi sia una specie di serpente che ha lo stesso potere dell'aspide d'Egitto, tranne che, se morde d'inverno, non produce alcun effetto, o per qualche altra ragione, o perché l'animale, intorpidito dal freddo, non si muove facilmente, ed è del tutto impotente, a meno che non venga riscaldato.
+
+Dicono che a Ceo vi è una sorta di fico d'India, e che, se uno viene punto da una spina, muore.
+
+<span class="atom-split" data-atom="009" data-title="ON MARVELLOUS THINGS HEARD (parte 8)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom" data-srclang="en"></span>
 
 In Mysia they say that there is a species of white bear which lets out so foul a breath when it is hunted that it causes the flesh of the dogs to decompose: it has the same effect upon all other kinds of animals, and makes them uneatable. But if one forces one’s way close to them, they let out of their mouths a quantity of phlegm, which apparently blows at the faces of dogs and men alike, so as to choke and blind them.
 
@@ -402,7 +720,71 @@ On the mountain Berecynthus there is said to be a stone called “Dagger.” If 
 
 On Mount Tmolus they say that, there is a stone like ivy which changes its colour four times a day; it is seen by girls who have not reached the age of discretion.
 
-<span class="atom-split" data-atom="010" data-title="ON MARVELLOUS THINGS HEARD (9/9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+In Misia dicono che vi è una specie di orso bianco il quale, quando è cacciato, manda fuori un alito così fetido che fa imputridire le carni dei cani: esso produce il medesimo effetto su tutti gli altri animali e li rende immangiabili. Ma se alcuno si spinge vicino ad essi, emettono dalla bocca una quantità di flemma che, a quanto pare, soffia sul viso di cani e uomini ugualmente, sì da soffocarli e accecarli.
+
+In Arabia si dice esservi una specie di iena, la quale, quando vede una fiera dinanzi, o viene nell'ombra di un uomo, produce mutismo, e tale paralisi che è impossibile muovere il corpo. Ha il medesimo effetto sopra i cani.
+
+In Siria dicono che vi è una bestia chiamata uccisore di leoni; poiché il leone, a quanto pare, muore quando ne mangia. Il leone non fa questo deliberatamente, ma evita l'animale; ma quando i cacciatori catturano l'animale e vi spargono sopra farina bianca per cuocerlo, come farebbero con un altro animale, assaggiatolo, si dice che muoiano all'istante. Questa bestia nuoce a un leone se anche solo vi fa acqua sopra.
+
+Si dice che gli avvoltoi muoiano per l'odore della mirra, se qualcuno gliela spalma addosso, o dà loro qualcosa intriso di mirra da mangiare. Allo stesso modo si dice che gli scarabei muoiano per l'odore delle rose.
+
+In Sicilia e in Italia dicono che il morso della lucertola maculata è mortale, e non innocuo e lieve come da noi. Vi è anche una specie di topo che quando morde, causa la morte.
+
+In Mesopotamia in Siria, e in Istrus, si dice che vi sia un piccolo serpente, che non morde gli indigeni, ma reca gravissimo danno agli stranieri.
+
+Dicono che ciò accada specialmente presso l'Eufrate. Dicono che a quanto pare essi nuotino spesso presso le foci del fiume, e verso una delle rive, sì che, sebbene ivi veduti la sera, all'alba appaiano dall'altra parte, e non mordano i Siri che vi riposano, ma non si astengano dai Greci.
+
+In Tessaglia dicono che il serpente sacro distrugga tutti, non solo se morde, ma anche se li tocca. Perciò, quando appare e se ne ode il suono (appare di rado), serpenti, vipere e tutte le altre bestie selvagge lo evitano. Non è di grande taglia, ma solo moderata. Dicono che una volta a Tenos, città della Tessaglia, uno fu ucciso da una donna, e che questa fu la maniera della sua morte. Una donna disegnò un cerchio per terra e, poste delle droghe nel cerchio, vi entrarono lei e suo figlio; poi imitò il grido della creatura; il serpente rispose e si avvicinò. Mentre rispondeva, la donna fu presa dal sonno, e mentre quello si avvicinava sempre più, ella non poté trattenere la sonnolenza. Ma suo figlio, sedutole accanto, la svegliava percuotendola, come ella gli aveva comandato, e diceva che, se ella si fosse addormentata, sarebbero morti entrambi; ma che, se si fosse trattenuta e avesse attirato la creatura, sarebbero stati salvi. Ma quando il serpente si avvicinò al cerchio, fu subito inaridito.
+
+Si dice di Tiana che vi è un'acqua sacra a Zeus, dio dei giuramenti (la chiamano Asbamaeum), dalla quale sgorga una corrente molto fredda e gorgoglia come fanno i calderoni. Per gli uomini che mantengono i giuramenti quest'acqua è dolce e benigna, ma per gli spergiuri il castigo è alle calcagna. Poiché l'acqua salta loro agli occhi, alle mani e ai piedi, e sono colti da idropisia e tisi; ed è impossibile per loro allontanarsi prima che ciò accada, ma sono radicati al suolo a lamentarsi presso l'acqua, e a confessare i loro spergiuri.
+
+Ad Atene si dice che il sacro ramo d'ulivo germogliò in un sol giorno, e divenne più grande, e poi rapidamente si restrinse di nuovo.
+
+Quando il cratere dell'Etna eruttò, e la lava fu trasportata qua e là per la terra come un torrente in piena, tutti i pii resero onore al dio. Alcuni giovani furono circondati dalla corrente, perché portavano sulle spalle i loro genitori anziani, e li salvavano; ma la corrente ardente si divise in due, e parte della fiamma andò da un lato e parte dall'altro, e preservò i giovani illesi insieme ai loro genitori.
+
+Si dice che lo scultore Fidia, mentre modellava la statua di Atena sull'Acropoli, scolpì la propria testa al centro dello scudo e la fissò alla statua con un qualche misterioso artificio, così che chiunque volesse rimuoverla non potesse farlo se non spezzando e rovinando l'intera statua.
+
+Si dice che la statua di Bitys in Argo abbia ucciso l'uomo responsabile della morte di Bitys cadendogli addosso mentre la guardava. Si potrebbe supporre che questo genere di cose non accada per caso.
+
+Dicono che i cani inseguano le fiere soltanto fin sulle vette dei cosiddetti Monti Neri, e che, quando le hanno seguite fin lì, tornino indietro.
+
+Presso il fiume Fasi dicono che cresce una verga chiamata “foglia bianca”, che i mariti gelosi colgono e pongono intorno alla camera nuziale, e così preservano il loro matrimonio inviolato.
+
+Presso il Tigri si dice che vi sia una pietra, chiamata in lingua straniera “Modon,” di colore molto bianco; chiunque la tenga non riceve alcun danno dalle fiere.
+
+Presso lo Scamandro è detto esservi un'erba selvatica chiamata sistrus, molto simile al cece, e ha semi che si scuotono, donde trae il nome. Coloro che la possiedono non debbono temere alcunché di soprannaturale né alcuna apparizione.
+
+In Libia vi è una vite che alcuni chiamano pazza, la quale matura parte dei suoi frutti, ma ne serba il resto acerbo, e alcuni persino in fiore per breve tempo.
+
+Presso il monte Sipilo dicono che vi sia una pietra a forma di cilindro, la quale, quando i figli pii la ritrovano, la pongono nel santuario della madre degli dei, e non errano mai in materia di empietà, ma sono sempre affezionati ai loro padri.
+
+Sul monte Taigeto dicono che ci sia un’erba selvatica chiamata “charisia” che le donne si appendono al collo all’inizio della primavera, e sono amate più affettuosamente dai loro mariti.
+
+Otri è una montagna della Tessaglia, che genera serpenti chiamati Sepes, che non hanno un solo colore, ma sono sempre come il terreno su cui vivono. Alcuni di essi hanno il colore delle lumache di terra. In altri le squame sono verdi. Ma quelli che vivono in luoghi sabbiosi sono per colore simili alla sabbia. Quando mordono producono sete. Il loro morso non è feroce e ardente, ma è sgradevole.
+
+Quando il maschio della vipera si accompagna alla femmina, la femmina gli mozza il capo. E così i piccoli, quasi vendicando la morte del padre, mordono attraverso il ventre della madre.
+
+Nel fiume Nilo dicono che vi sia una pietra a guisa di fava: se i cani la vedono, non abbaiano. Ma questa giova a coloro che sono posseduti da uno spirito maligno; poiché, come il loro naso vi è accostato, lo spirito maligno li abbandona.
+
+Nel fiume Meandro si dice che vi sia una pietra chiamata "saggia" per contraddizione; poiché, se uno la mette in grembo a qualcuno, costui impazzisce e uccide uno dei suoi parenti.
+
+I fiumi Rhenus e Ister scorrono verso settentrione, l'uno presso i Germani, l'altro presso i Peoni. In estate il loro corso è navigabile, ma in inverno, quando è congelato dal ghiaccio, vi cavalcano sopra, come se fosse terraferma.
+
+Presso la città di Turio si dice che vi siano due fiumi, Sibari e Crati. Il Sibari rende timorosi coloro che ne bevono, ma il Crati fa sì che gli uomini che vi si bagnano abbiano capelli d’oro.
+
+In Eubea ci sono due fiumi; il bestiame che beve dall'uno diventa bianco; è chiamato Cerbes; l'altro è chiamato Neleus, che li rende neri.
+
+Presso il fiume Licorma cresce un'erba selvatica a forma di lancia, che è assai preziosa come rimedio contro la cecità.
+
+Dicono che la sorgente a Siracusa in Sicilia chiamata Aretusa si muove solo ogni cinque anni.
+
+Sul monte Berecinto si dice che vi sia una pietra chiamata “Pugnale”. Se qualcuno la trova mentre si celebrano i misteri di Ecate, diventa pazzo, come dice Eudosso.
+
+Sul monte Tmolo dicono che vi è una pietra simile all'edera che cambia colore quattro volte al giorno; essa è vista da fanciulle che non hanno raggiunto l'età della discrezione.
+
+<span class="atom-split" data-atom="010" data-title="ON MARVELLOUS THINGS HEARD (parte 9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom" data-srclang="en"></span>
 
 At the altar of Artemis Orthosia a golden bull is set up, which bellows when hunters come in.
 
@@ -411,3 +793,13 @@ Among the Aetolians they say that moles can see indistinctly, and do not eat ear
 They say that elephants go two years with young, but others say eighteen months; they have much difficulty in producing their young.
 
 They say that Demaratus, a disciple of Timaeus the Locrian, fell ill, and became dumb for ten days; on the eleventh, having recovered slowly from his affliction, he said that he had had the happiest time of his life.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Presso l'altare di Artemide Orthosia è posto un toro d'oro, che muggisce quando i cacciatori entrano.
+
+Presso gli Etoli dicono che le talpe possono vedere indistintamente, e non mangiano terra ma locuste.
+
+Dicono che gli elefanti stanno due anni gravidi, ma altri dicono diciotto mesi; hanno molta difficoltà nel partorire i loro piccoli.
+
+Si dice che Demarato, discepolo di Timeo il Locrese, si ammalasse e divenisse muto per dieci giorni; l'undicesimo, essendosi lentamente ripreso dal suo male, dicesse che aveva avuto il tempo più felice della sua vita.

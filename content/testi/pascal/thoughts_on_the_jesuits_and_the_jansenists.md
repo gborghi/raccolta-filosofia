@@ -42,7 +42,7 @@ We must not, however, forget that these accessories to a great work are not to b
 
 It is from the insufficient cultivation of these higher qualities of excellence, that mediocrity so much pervades the literature of a period, when all are readers, and almost all writers. It is not that gross defects prevail, — for this the diffusion of taste and intelligence precludes; but eminence is not aimed at. The surface spreads widely, but the depth is lost. The urgency of demand causes eagerness and haste in the supply. Men write for the day; and rarely look forward to the longevity of years, — never of centuries. The standard of taste is debased; and literature — from the loftiest of arts — tends downward to a mechanical craft, and a sordid speculation. There is, I well know, little of novelty, and there may be thought to be somewhat of querulousness, in such remarks as these.
 
-<span class="atom-split" data-atom="002" data-title="(apertura) (2/3)" data-chapter="(apertura)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="(apertura) (parte 2)" data-chapter="(apertura)" data-kind="atom" data-srclang="en"></span>
 
 And I am not forgetful of that caution which wisdom directs, against an exaggeration of the merits of the past, in a depreciating comparison of the present. Many circumstances, also, incident to a highly artificial state of society, almost necessitate the evils complained of. A fast increasing population, the importunity of physical wants, wide extending [education](/concepts/education), and the ceaseless opening up of fresh topics of investigation, and new sources of intelligence; all these things keep the press in continual requisition, and multiply without limit ephemeral productions. But it is not to be denied, that it is by such means that the higher classes of literature become depressed. The works, which consume years in toil, and a life in meditation, meet with little encouragement. Statistics and calculations oppress the minds of men, wrestling to preserve a standing in life, or wrapt in the inextricable coil of speculation, or ambition: in their few moments of leisure, they resort with morbid eagerness (as the over-tasked body to fatal stimulants) to the pages of an unwholesome or unprincipled fiction: and thus, from this concurrence of causes, the purer efforts of imagination lose their interest; literary enthusiasm excites a smile; eloquence droops; and poetry dies!
 
@@ -94,7 +94,7 @@ IV. + If they do not renounce the doctrine of probability, their good maxims hav
 
 — + I fear not your personal censures, if they axe not supported by the authority of tradition.
 
-<span class="atom-split" data-atom="003" data-title="(apertura) (3/3)" data-chapter="(apertura)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="(apertura) (parte 3)" data-chapter="(apertura)" data-kind="atom" data-srclang="en"></span>
 
 — + Will you censure everything? What! even my respect for yourselves? No. Say then what is it? You do nothing, unless you designate what is objectionable, and why it is so; and nothing could have been easier than to do this.
 

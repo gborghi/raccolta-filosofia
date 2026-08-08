@@ -582,7 +582,7 @@ Risposta all’Obiezione 2: È necessario un buon consiglio affinché le cose po
 
 Risposta all’Obiezione 3: Il semplice desiderio di muoversi appartiene alla volontà; ma un comando implica non solo il desiderio di muoversi, ma anche una sorta di ordinamento, e quindi rappresenta un atto della ragione, come già detto sopra (FS, Q[17], A[1]).
 
-<span class="atom-split" data-atom="011" data-title="Whether solicitude belongs to prudence? (1/2)" data-chapter="Whether solicitude belongs to prudence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="Whether solicitude belongs to prudence? (parte 1)" data-chapter="Whether solicitude belongs to prudence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that solicitude does not belong to prudence. For solicitude implies
 disquiet, wherefore Isidore says (Etym. x) that "a solicitous man is a restless man." Now motion
@@ -645,7 +645,7 @@ Risposta all’Obiezione 2: Secondo il Filosofo (Etica, i, 3), “non si dovrebb
 
 Risposta all’Obiezione 3: Si dice che l’uomo nobile sia “lento e tranquillo” non perché non si preoccupi di nulla, ma perché non si preoccupa eccessivamente di molte cose; inoltre, è fiducioso nelle situazioni in cui dovrebbe esserlo, senza esagerare nella sua fiducia. Infatti, un’eccessiva paura e diffidenza sono le cause dell’ansia eccessiva, poiché la paura ci spinge a prendere precauzioni, come già detto sopra (FS, Q[44], A[2]) quando trattavamo della passione della paura.
 
-<span class="atom-split" data-atom="012" data-title="Whether solicitude belongs to prudence? (2/2)" data-chapter="Whether solicitude belongs to prudence?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Whether solicitude belongs to prudence? (parte 2)" data-chapter="Whether solicitude belongs to prudence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that prudence does not extend to the governing of many, but only
 to the government of oneself. For the Philosopher says (Ethic. v, 1) that virtue directed to the
@@ -11597,7 +11597,7 @@ Dobbiamo ora considerare il peccato dell’usura, che si commette attraverso i p
 (3) Un uomo è obbligato a restituire i profitti ottenuti illegalmente attraverso l’usura?  
 (4) È legittimo prendere in prestito denaro sotto condizioni che comportino l’applicazione dell’usura?
 
-<span class="atom-split" data-atom="192" data-title="Whether it is a sin to take usury for money lent? (1/2)" data-chapter="Whether it is a sin to take usury for money lent?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="192" data-title="Whether it is a sin to take usury for money lent? (parte 1)" data-chapter="Whether it is a sin to take usury for money lent?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not a sin to take usury for money lent. For no man sins
 through following the example of Christ. But Our Lord said of Himself (Lk. 19:23): "At My coming
@@ -11730,7 +11730,7 @@ Risposta all’Obiezione 4: Un uomo non è sempre obbligato a prestare denaro; p
 
 Risposta all’Obiezione 5: Chi non è obbligato a prestare può accettare il rimborso di ciò che ha dato, ma non deve chiedere di più. Se viene rimborsato esattamente quanto ha prestato, allora il rimborso avviene secondo i principi dell’equità giudiziaria. Pertanto, se si pretende di più per l’utilizzo di qualcosa che non ha altro scopo se non quello di consumarne la sostanza, si sta chiedendo un prezzo per qualcosa che in realtà non esiste; quindi tale richiesta è ingiusta.
 
-<span class="atom-split" data-atom="193" data-title="Whether it is a sin to take usury for money lent? (2/2)" data-chapter="Whether it is a sin to take usury for money lent?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="193" data-title="Whether it is a sin to take usury for money lent? (parte 2)" data-chapter="Whether it is a sin to take usury for money lent?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 6: The principal use of a silver vessel is not its consumption, and so one
 may lawfully sell its use while retaining one's ownership of it. On the other hand the principal use
@@ -11750,7 +11750,7 @@ Risposta all’Obiezione 6: L’uso principale di un vaso d’argento non è la 
 
 Risposta all’Obiezione 7: Chi pratica l’usura non lo fa volontariamente, ma per una certa necessità; ha bisogno di prendere in prestito denaro che il proprietario è riluttante a prestare senza applicare l’usura.
 
-<span class="atom-split" data-atom="194" data-title="Whether it is lawful to ask for any other kind of consideration for money lent? (1/2)" data-chapter="Whether it is lawful to ask for any other kind of consideration for money lent?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="194" data-title="Whether it is lawful to ask for any other kind of consideration for money lent? (parte 1)" data-chapter="Whether it is lawful to ask for any other kind of consideration for money lent?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one may ask for some other kind of consideration for money
 lent. For everyone may lawfully seek to indemnify himself. Now sometimes a man suffers loss
@@ -11883,7 +11883,7 @@ Risposta all’Obiezione 5: Chi presta denaro trasferisce la proprietà di tale 
 
 Risposta all’Obiezione 6: Se una persona, in cambio del denaro che le viene prestato, promette di utilizzare qualcosa che può essere valutato in termini di prezzo, il prestatore deve permetterle di farlo per ripagare il debito. Altrimenti, se desidera che quell’oggetto venga utilizzato gratuitamente oltre al pagamento del debito, è come se avesse chiesto denaro in cambio della prestazione, il che costituirebbe usura. A meno che non si tratti di qualcosa che gli amici sono soliti prestarsi gratuitamente, come nel caso della cessione di un libro.
 
-<span class="atom-split" data-atom="195" data-title="Whether it is lawful to ask for any other kind of consideration for money lent? (2/2)" data-chapter="Whether it is lawful to ask for any other kind of consideration for money lent?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="195" data-title="Whether it is lawful to ask for any other kind of consideration for money lent? (parte 2)" data-chapter="Whether it is lawful to ask for any other kind of consideration for money lent?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 7: If a man wish to sell his goods at a higher price than that which is just,
 so that he may wait for the buyer to pay, it is manifestly a case of usury: because this waiting for
@@ -12337,7 +12337,7 @@ Dobbiamo ora esaminare le componenti potenziali della giustizia, ovvero le virt�
 (1) Quali virtù sono associate alla giustizia?  
 (2) Le singole virtù che fanno parte della giustizia.
 
-<span class="atom-split" data-atom="204" data-title="Whether the virtues annexed to justice are suitably enumerated? (1/2)" data-chapter="Whether the virtues annexed to justice are suitably enumerated?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="204" data-title="Whether the virtues annexed to justice are suitably enumerated? (parte 1)" data-chapter="Whether the virtues annexed to justice are suitably enumerated?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the virtues annexed to justice are unsuitably enumerated Tully
 [*De Invent. ii, 53] reckons six, viz. "religion, piety, gratitude, revenge, observance, truth." Now
@@ -12457,7 +12457,7 @@ Risposta all’Obiezione 2: Macrobio sembra aver considerato le due parti integr
 
 Risposta all’Obiezione 3: “Obedienza” è inclusa nell’osservanza delle regole, di cui parla Tullio, poiché sia il rispetto reverenziale che l’obbedienza sono dovuti alle persone che si distinguono per qualità superiori. “Fedeltà”, ovvero l’adeguamento delle azioni alle parole di una persona, è contenuta nel concetto di “veridicità” riguardo al rispetto delle promesse fatte; tuttavia “veridicità” abbraccia un ambito più ampio, come vedremo in seguito (Q[109], AA[1],3). “Disciplina”, invece, non è considerata un dovere necessario, poiché nessuno ha obbligo verso una persona di rango inferiore; tuttavia un superiore può essere tenuto a prendersi cura dei suoi subordinati, come indicato in Matteo 24:45: “Un servo fedele e saggio, che il suo padrone abbia incaricato della sua famiglia”. Per questo motivo Tullio non la menziona. Tuttavia, essa può essere inclusa nel concetto di umanità descritto da Macrobio, così come nella nozione di equità o di “amicizia”.
 
-<span class="atom-split" data-atom="205" data-title="Whether the virtues annexed to justice are suitably enumerated? (2/2)" data-chapter="Whether the virtues annexed to justice are suitably enumerated?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="205" data-title="Whether the virtues annexed to justice are suitably enumerated? (parte 2)" data-chapter="Whether the virtues annexed to justice are suitably enumerated?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: This enumeration contains some belonging to true justice. To particular
 justice belongs "justice of exchange," which he describes as "the [habit](/concepts/custom) of observing equality in
@@ -15543,7 +15543,7 @@ In seguito dobbiamo considerare le decime; in questa categoria vi sono quattro p
 (3) A chi debbano essere pagate;  
 (4) Chi deve pagare le decime.
 
-<span class="atom-split" data-atom="253" data-title="Whether men are bound to pay tithes under a necessity of precept? (1/2)" data-chapter="Whether men are bound to pay tithes under a necessity of precept?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="253" data-title="Whether men are bound to pay tithes under a necessity of precept? (parte 1)" data-chapter="Whether men are bound to pay tithes under a necessity of precept?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that men are not bound by precept to pay tithes. The commandment
 to pay tithes is contained in the [Old Law](/concepts/divine_law) (Lev. 27:30), "All tithes of the land, whether of corn or
@@ -15658,7 +15658,7 @@ Rispondo che, nella Legge Antica, i decimi venivano pagati al fine di sostenere 
 Esiste questa differenza tra i precetti cerimoniali e quelli giudiziari della Legge, come abbiamo affermato in precedenza (FS, Q[104], A[3]): ossia è illegale osservare i precetti cerimoniali al momento.
 La nuova legge stabilisce che non vi sia alcun peccato nel rispettare i precetti giudiziari durante il periodo di grazia, anche se tali precetti non sono obbligatori. Tuttavia, alcuni sono tenuti ad osservarli se questi sono stabiliti dall’autorità di coloro che hanno il potere di legiferare. Ad esempio, nel Vecchio Testamento era un precetto giudiziario che chi rubasse una pecora dovesse restituire quattro pecore (Esodo 22:1); se un re avesse ordinato questo, i suoi sudditi sarebbero stati obbligati ad obbedire. Allo stesso modo, nel Nuovo Testamento l’autorità della Chiesa ha stabilito il pagamento del decimo, dimostrando così una certa considerazione per le esigenze delle persone, affinché i fedeli del Nuovo Testamento non dessero ai ministri del Nuovo Testamento meno di quanto facessero i fedeli del Vecchio Testamento ai ministri di quest’ultimo; infatti, i fedeli del Nuovo Testamento hanno obblighi più gravosi, secondo Matteo 5:20: “Se la vostra giustizia non supererà quella degli scribi e dei farisei, non entrerete nel regno dei cieli”. Inoltre, i ministri del Nuovo Testamento possiedono una dignità maggiore rispetto a quelli del Vecchio Testamento, come dimostra l’Apostolo in 2 Corinzi 3:7-8. È evidente quindi che l’obbligo di pagare il decimo deriva in parte dalla legge naturale e in parte dall’instituzione della Chiesa; tuttavia, a seconda delle esigenze del tempo e delle circostanze, la Chiesa potrebbe stabilire anche un altro importo da pagare. Ciò basta per rispondere alla prima obiezione.
 
-<span class="atom-split" data-atom="254" data-title="Whether men are bound to pay tithes under a necessity of precept? (2/2)" data-chapter="Whether men are bound to pay tithes under a necessity of precept?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="254" data-title="Whether men are bound to pay tithes under a necessity of precept? (parte 2)" data-chapter="Whether men are bound to pay tithes under a necessity of precept?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 2: The precept about paying tithes, in so far as it was a moral precept, was
 given in the Gospel by our Lord when He said (Mat. 10:10) [*The words as quoted are from Lk.
@@ -16783,7 +16783,7 @@ Risposta all’Obiezione 2: Proprio come l’uomo è obbligato dalla legge natur
 
 Risposta all’Obiezione 3: La fedeltà che dobbiamo a Dio non richiede che adempiamo a promesse che sarebbe sbagliato o inutile mantenere, o che potrebbero rappresentare un ostacolo al bene maggiore verso cui porterebbe il rilascio da tali promesse. Pertanto, il rilascio da una promessa non è contrario alla fedeltà dovuta a Dio.
 
-<span class="atom-split" data-atom="269" data-title="Whether it is possible to be dispensed from a solemn vow of continency? (1/2)" data-chapter="Whether it is possible to be dispensed from a solemn vow of continency?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="269" data-title="Whether it is possible to be dispensed from a solemn vow of continency? (parte 1)" data-chapter="Whether it is possible to be dispensed from a solemn vow of continency?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is possible to be dispensed from a solemn vow of continency.
 As stated above, one reason for granting a dispensation from a vow is if it be an obstacle to a greater
@@ -16905,7 +16905,7 @@ Risposta all’Obiezione 2: Un voto di continenza temporanea può essere oggetto
 
 Risposta all’Obiezione 3: Il cibo è direttamente necessario per il mantenimento della persona; pertanto, astenersi dal mangiare può rappresentare una fonte diretta di pericolo per la stessa. Per questo motivo, un voto di astinenza rientra nella categoria delle questioni su cui si può decidere in base alle circostanze particolari. D’altra parte, il rapporto sessuale è direttamente finalizzato al mantenimento non della singola persona, ma della specie; pertanto astenersi da tale rapporto attraverso la continenza non comporta alcun pericolo per l’individuo. E se, per caso, ciò dovesse rappresentare un rischio per la persona, questo può essere eliminato con altri mezzi, ad esempio attraverso l’astinenza o altre cure fisiche.
 
-<span class="atom-split" data-atom="270" data-title="Whether it is possible to be dispensed from a solemn vow of continency? (2/2)" data-chapter="Whether it is possible to be dispensed from a solemn vow of continency?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="270" data-title="Whether it is possible to be dispensed from a solemn vow of continency? (parte 2)" data-chapter="Whether it is possible to be dispensed from a solemn vow of continency?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: A religious who is made a bishop is no more absolved from his vow of
 poverty than from his vow of continency, since he must have nothing of his own and must hold
@@ -21332,7 +21332,7 @@ Risposta all’Obiezione 3: La remunerazione orale indica o un elogio legato al 
 
 Risposta all’Obiezione 4: L’ipocrita non dona qualcosa di spirituale al fine di essere lodato; si limita a far mostra di esso e, sotto false pretese, ruba segretamente piuttosto che acquistare la lode umana. In questo modo, apparentemente, l’ipocrita non commette simonia.
 
-<span class="atom-split" data-atom="335" data-title="Whether those who are guilty of simony are fittingly punished by being deprived of what they have acquired by simony? (1/2)" data-chapter="Whether those who are guilty of simony are fittingly punished by being deprived of what they have acquired by simony?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="335" data-title="Whether those who are guilty of simony are fittingly punished by being deprived of what they have acquired by simony? (parte 1)" data-chapter="Whether those who are guilty of simony are fittingly punished by being deprived of what they have acquired by simony?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that those who are guilty of simony are not fittingly punished by
 being deprived of what they have acquired by simony. Simony is committed by acquiring spiritual
@@ -21468,7 +21468,7 @@ Risposta all’Obiezione 3: Essere privati di ciò che si è ricevuto non rappre
 
 Risposta all’Obiezione 4: Il denaro, la proprietà o i frutti ottenuti in modo simoniaco devono essere restituiti alla Chiesa che ha subito perdite a causa della loro cessione, indipendentemente dal fatto che il prelato o un membro del capitolo di quella chiesa siano stati colpevoli; infatti, nessun altro dovrebbe subire le conseguenze dei suoi peccati. Tuttavia, si deve fare in modo che, per quanto possibile, le parti colpevoli non traggano vantaggio da questa restituzione. Se invece sia il prelato che l’intero capitolo siano responsabili della colpa, la restituzione deve avvenire, con il consenso delle autorità superiori, a beneficio dei poveri o di un’altra chiesa.
 
-<span class="atom-split" data-atom="336" data-title="Whether those who are guilty of simony are fittingly punished by being deprived of what they have acquired by simony? (2/2)" data-chapter="Whether those who are guilty of simony are fittingly punished by being deprived of what they have acquired by simony?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="336" data-title="Whether those who are guilty of simony are fittingly punished by being deprived of what they have acquired by simony? (parte 2)" data-chapter="Whether those who are guilty of simony are fittingly punished by being deprived of what they have acquired by simony?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 5: If there are any persons who have been simoniacally admitted into a
 monastery, they must quit: and if the simony was committed with their knowledge since the holding
@@ -23996,7 +23996,7 @@ Risposta all’Obiezione 2: Tutti coloro che commettono peccati mortali meritano
 
 Risposta all’Obiezione 3: Il semplice fatto che la punizione, sia essa di morte o di qualsiasi altra forma temibile per l’uomo, venga comunicata contemporaneamente al peccato, fa sì che la volontà umana si astenga dal peccare; infatti, la paura della punizione è più forte dell’attrattiva esercitata dall’esempio del peccato stesso.
 
-<span class="atom-split" data-atom="377" data-title="Whether vengeance should be taken on those who have sinned involuntarily? (1/2)" data-chapter="Whether vengeance should be taken on those who have sinned involuntarily?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="377" data-title="Whether vengeance should be taken on those who have sinned involuntarily? (parte 1)" data-chapter="Whether vengeance should be taken on those who have sinned involuntarily?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that vengeance should be taken on those who have sinned involuntarily.
 For the will of one man does not follow from the will of another. Yet one man is punished for
@@ -24127,7 +24127,7 @@ Risposta all’Obiezione 3: Secondo la volontà di Dio, i bambini vengono puniti
 
 Risposta all’Obiezione 4: Un atto compiuto per costrizione dovuta alla paura non è necessariamente involontario; contiene infatti un elemento di volontarietà, come già affermato in precedenza (FS, Q[6], AA[5],6).
 
-<span class="atom-split" data-atom="378" data-title="Whether vengeance should be taken on those who have sinned involuntarily? (2/2)" data-chapter="Whether vengeance should be taken on those who have sinned involuntarily?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="378" data-title="Whether vengeance should be taken on those who have sinned involuntarily? (parte 2)" data-chapter="Whether vengeance should be taken on those who have sinned involuntarily?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 5: The other apostles were distressed about the sin of Judas, in the same
 way as the multitude is punished for the sin of one, in commendation of unity, as state above (Reply
@@ -24618,7 +24618,7 @@ Al contrario, un commento al Salmo 5:7, “Distruggerai tutti coloro che mentono
 Rispondo che le menzogne possono essere divise in tre modi. Primo, in base alla loro natura stessa: questa è la divisione essenziale e appropriata del comportamento mendace. Secondo il Filosofo (Etica, iv, 7), esistono due tipi di menzogne: quella che va oltre la verità, appartenente al genere della “vanteria”, e quella che si ferma prima della verità, rientrante nella categoria dell’“ironia”. Questa divisione è fondamentale, poiché il mentire in sé è opposto alla verità, come già affermato; e la verità rappresenta una sorta di “uguaglianza”, contro cui tutto ciò che è più o meno diverso si trova in opposizione essenziale. In secondo luogo, le menzogne possono essere classificate anche in base alla loro natura di peccato, nonché in relazione a quegli elementi che aumentano o diminuiscono la gravità di tale peccato, a seconda dell’intento con cui vengono pronunciate. Il peccato del mentire diventa più grave quando lo scopo della menzogna è nuocere ad altri; in questo caso si parla di “menzogna maliziosa”. Al contrario, il peccato del mentire si riduce se la menzogna ha uno scopo positivo: sia per divertimento (“menzogna scherzosa”), sia per aiutare qualcuno o evitarne dei danni (“menzogna utile”). In questo modo le menzogne possono essere suddivise nei tre tipi sopra menzionati. In terzo luogo, si può ancora dividere le menzogne in base alla loro relazione con uno scopo specifico, indipendentemente dal fatto che tale scopo aumenti o diminuisca la loro gravità. In questo modo si ottengono otto tipi di menzogne, come indicato nella Seconda Obiezione. I primi tre tipi rientrano nella categoria delle “menzogne maliziose”: quelle rivolte contro Dio (“menzogna nelle dottrine religiose”) o contro gli altri (“mentenze che nuociono senza alcun beneficio”); oppure quelle che, pur nuocendo a qualcuno, portano anche a un qualche vantaggio per un altro (“mentenze che procurano benefici a uno e danni a un altro”). Tra queste, la prima categoria è senz’altro la più grave, poiché i peccati contro Dio sono sempre più gravi, come già affermato (FS, Q[73], A[3]). La seconda categoria è più grave della terza, poiché l’intento di procurare un vantaggio ad altri riduce in qualche misura la gravità del peccato. Dopo queste tre categorie che aumentano la gravità del peccato del mentire, esiste una quarta categoria di menzogne la cui gravità è fissa, senza alcun aumento o diminuzione; si tratta delle menzogne pronunciate semplicemente per il piacere di mentire e ingannare. Questo tipo di comportamento deriva da un’abitudine; per questo il Filosofo afferma che “il mentitore, quando mente per abitudine, trova piacere nel farlo”. Le ultime quattro categorie riducono invece la gravità del peccato del mentire. Il quinto tipo è la “menzogna scherzosa”, pronunciata con l’intento di compiacere qualcuno; i restanti tre tipi rientrano nella categoria delle “mentogne utili”, cioè quelle che hanno uno scopo positivo per qualcun altro, sia in termini materiali (“menzogna utile per salvare denaro”) che in termini morali o pratici.
 Il corpo umano, e questa è la settima categoria di menzogne, quelle che “salvano un uomo dalla morte”; oppure la moralità della virtù stessa, e questa è l’ottava categoria, quelle che “lo salvano da contaminazioni illecite del suo corpo”. È evidente che più grande è il bene inteso, minore diventa la gravità del peccato di mentire. Pertanto, un attento esame della questione mostra che queste diverse categorie di menzogne sono elencate in ordine di gravità: poiché il bene utile è superiore al bene piacevole, la vita del corpo è più preziosa del denaro, e la virtù è ancora più importante della vita stessa. Ciò basta per rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="387" data-title="Whether every lie is a sin? (1/2)" data-chapter="Whether every lie is a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="387" data-title="Whether every lie is a sin? (parte 1)" data-chapter="Whether every lie is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that not every lie is a sin. For it is evident that the evangelists did not sin
 in the writing of the Gospel. Yet they seem to have told something false: since their accounts of
@@ -24746,7 +24746,7 @@ Risposta all’Obiezione 4: Una menzogna è peccaminosa non solo perché dannegg
 
 Risposta all’Obiezione 5: Un uomo non mente, purché abbia la intenzione di mantenere ciò che ha promesso, poiché non parla contro ciò che ha in mente; tuttavia, se non mantiene la sua promessa, sembra agire senza fiducia nella possibilità di cambiare idea. Tuttavia, può essere scusato per due motivi: primo, se ha promesso qualcosa chiaramente illecito, poiché in tal caso avrebbe peccato nel fare quella promessa, e sarebbe stato giusto che cambiasse idea; secondo, se le circostanze relative alle persone o all’affare in questione sono cambiate. Come afferma Seneca (De Beneficiis iv), affinché un uomo sia obbligato a mantenere una promessa, è necessario che tutto rimanga immutato; altrimenti, né avrebbe mentito nel farla – poiché aveva promesso ciò che aveva in mente, presupponendo che le circostanze fossero tali da rendere la promessa possibile – né sarebbe stato infedele nell’non mantenerla, poiché le circostanze ora sono diverse. Pertanto, l’Apostolo, pur non essendo andato a Corinto, dove aveva promesso di recarsi (2 Corinzi 1), non ha mentito, poiché erano sorti ostacoli che glielo impedivano.
 
-<span class="atom-split" data-atom="388" data-title="Whether every lie is a sin? (2/2)" data-chapter="Whether every lie is a sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="388" data-title="Whether every lie is a sin? (parte 2)" data-chapter="Whether every lie is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 6: An action may be considered in two ways. First, in itself, secondly, with
 regard to the agent. Accordingly a jocose lie, from the very genus of the action, is of a nature to
@@ -27815,7 +27815,7 @@ Risposta all’Obiezione 4: Proprio come quando insegniamo a qualcuno una determ
 
 Risposta all’Obiezione 5: La reverenza dovuta ai nomi divini deve essere resa da ciò che quei nomi designano, che è uno solo, e non dalle parole che li esprimono, che sono molteplici. Per questo motivo tale reverenza viene espressa al singolare: “Non pronuncerai il nome del tuo Dio invano”; infatti non importa con quale dei nomi di Dio si compia il perjurio.
 
-<span class="atom-split" data-atom="439" data-title="Whether the third precept of the decalogue, concerning the hallowing of the Sabbath, is fittingly expressed? (1/2)" data-chapter="Whether the third precept of the decalogue, concerning the hallowing of the Sabbath, is fittingly expressed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="439" data-title="Whether the third precept of the decalogue, concerning the hallowing of the Sabbath, is fittingly expressed? (parte 1)" data-chapter="Whether the third precept of the decalogue, concerning the hallowing of the Sabbath, is fittingly expressed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the third precept of the decalogue, concerning the hallowing of the
 Sabbath, is unfittingly expressed. For this, understood spiritually, is a general precept: since Bede
@@ -27901,7 +27901,7 @@ Risposta all’Obiezione 1: Il precetto relativo al rispetto del Sabato, inteso 
 
 Risposta all’Obiezione 2: Le altre cerimonie della Legge sono segni di determinati atti divini specifici; ma il rispetto del Sabato rappresenta un dono universale, ovvero la creazione di tutte le creature. Pertanto, era appropriato che fosse incluso tra i precetti generali del Decalogo, piuttosto che tra qualsiasi altro precetto cerimoniale della Legge.
 
-<span class="atom-split" data-atom="440" data-title="Whether the third precept of the decalogue, concerning the hallowing of the Sabbath, is fittingly expressed? (2/2)" data-chapter="Whether the third precept of the decalogue, concerning the hallowing of the Sabbath, is fittingly expressed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="440" data-title="Whether the third precept of the decalogue, concerning the hallowing of the Sabbath, is fittingly expressed? (parte 2)" data-chapter="Whether the third precept of the decalogue, concerning the hallowing of the Sabbath, is fittingly expressed?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: Two things are to be observed in the hallowing of the Sabbath. One of
 these is the end: and this is that man occupy himself with Divine things, and is signified in the

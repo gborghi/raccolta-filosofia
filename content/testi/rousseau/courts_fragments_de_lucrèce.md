@@ -190,7 +190,7 @@ Ami, prends pitié de mes égarements, et pardonne mes discours insensés ; mais
 
 SULPITIUS.
 
-<span class="atom-split" data-atom="002" data-title="(apertura) (2/10)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="002" data-title="(apertura) (parte 2)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Songez que nous avons ici plus d'une sorte de précautions à prendre, et que l'arrivée du père de Lucrèce doit nous rendre encore plus circonspects. Je vous l'ai dit, seigneur, je soupçonne ce voyage avec Brutus de renfermer quelque mystère : j'ai cru voir, à l'air dont ils nous observaient, qu'ils craignaient d'être observés eux-mêmes ; j'ignore ce qui se trame en secret, mais Lucrétius nous regarde de mauvais œil. Je vous avoue que ce Brutus m'a toujours déplu[65].
 
@@ -532,7 +532,7 @@ Toujours à sa parole il sait être fidèle ;
 
 Et, pour tout dire enfin, garant de ses bontés,
 
-<span class="atom-split" data-atom="003" data-title="(apertura) (3/10)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="003" data-title="(apertura) (parte 3)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Votre [coeur](/positions/fideism) vous répond que vous les méritez.
 
@@ -964,7 +964,7 @@ L’haleine m’abandonne, et je renonce au prix.
 
 Bordes, daigne juger de toutes mes alarmes ;
 
-<span class="atom-split" data-atom="004" data-title="(apertura) (4/10)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="004" data-title="(apertura) (parte 4)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Vois quels sont les combats, et quelles sont les armes.
 
@@ -1336,7 +1336,7 @@ L’art n’est point le soutien de notre république :
 
 Être juste est chez nous l’unique politique ;
 
-<span class="atom-split" data-atom="005" data-title="(apertura) (5/10)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="005" data-title="(apertura) (parte 5)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Tous les ordres divers, sans inégalité,
 
@@ -1704,7 +1704,7 @@ Des mensonges du fat, et du sot qui les croit.
 
 Non, je ne puis forcer mon esprit, né sincère,
 
-<span class="atom-split" data-atom="006" data-title="(apertura) (6/10)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="006" data-title="(apertura) (parte 6)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 A déguiser ainsi mon propre caractère ;
 
@@ -2190,7 +2190,7 @@ Où le savant, bas parasite,
 
 Chez Aspasie ou chez Phryné,
 
-<span class="atom-split" data-atom="007" data-title="(apertura) (7/10)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="007" data-title="(apertura) (parte 7)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Vend de l'esprit pour un dîné :
 
@@ -2718,7 +2718,7 @@ Qui le punis quand il te brave ;
 
 Toi, dont le front doux et serein
 
-<span class="atom-split" data-atom="008" data-title="(apertura) (8/10)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="008" data-title="(apertura) (parte 8)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Porte le plaisir dans nos fêtes ;
 
@@ -2852,7 +2852,7 @@ FIN des MÉLANGES EN VERS
 
 [36] * Les notes qu'on vient de lire ont toutes pour objet de combattre la proposition principale qui sert de base à l'ouvrage d'Helvétius, et Dutens observe avec raison que cet ouvrage n'étant composé que de chapitres sans liaison, d'idées décousues, de petits contes, et de bons mots, les notes qui suivent ne sont aussi que des sorties sur des sentiments particuliers.
 
-<span class="atom-split" data-atom="009" data-title="(apertura) (9/10)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="009" data-title="(apertura) (parte 9)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 [37] Helvétius a dit : « Tout devient légitime, et même vertueux, pour le salut public. » Rousseau a mis en note, à côté : Le salut public n'est rien, si tous les particuliers ne sont en sûreté. — Cette note de Rousseau ne fait point partie de celles que Dutens a publiées ; nous la devons à l'éditeur de 1801, qui l'a trouvée sans doute dans l'exemplaire que nous avons dit plus haut être encore en la possession de M. de Bure. Dutens a pu la juger digne de peu d'attention, et l'omettre comme telle dans sa brochure ; mais les événements survenus depuis donnent à cette note un prix inestimable et qui sera senti par tous les lecteurs.
 
@@ -2890,7 +2890,7 @@ FIN des MÉLANGES EN VERS
 
 [54] Je me plains de ce que la philosophie relâche les liens de la société, qui sont formés par l'estime et la bienveillance mutuelle ; et je me plains de ce que les sciences, les arts et tous les autres objets de commerce resserrent les liens de la société par l'intérêt personnel. C'est qu'en effet on ne peut resserrer un de ces liens que l'autre ne se relâche d'autant. Il n'y a donc point en ceci de contradiction.
 
-<span class="atom-split" data-atom="010" data-title="(apertura) (10/10)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="010" data-title="(apertura) (parte 10)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 [55] Je remarque qu'il règne actuellemet dans le monde une multitude de petites maximes qui séduisent les simples par un faux air de philosophie, et qui, outre cela, sont très commodes pour terminer les disputes d'un ton important et décisif, sans avoir besoin d'examiner la question. Telle est celle-ci : « Les hommes ont partout les mêmes passions ; partout l'[amour-propre](/concepts/amour_propre) et l'intérêt les conduisent ; donc ils sont partout les mêmes.» Quand les géomètres ont fait une supposition qui, de raisonnement en raisonnement, les conduit à une absurdité, ils reviennent sur leurs pas, et démontrent ainsi la supposition fausse. La même méthode, appliquée à la maxime en question, en montrerait aisément l'absurdité. Mais raisonnons autrement. Un sauvage est un homme, et un Européen est un homme. Le demi-philosophe conclut aussitôt que l'un ne vaut pas mieux que l'autre ; mais le philosophe dit : En Europe, le gouvernement les lois, les coutumes, l'intérêt, tout met les particuliers dans la nécessité de se tromper mutuellement et sans cesse ; tout leur fait un devoir du vice ; il faut qu'ils soient méchants pour être sages, car il n'y a point de plus grande folie que de faire le bonheur des fripons aux dépens du sien. Parmi les sauvages, l'intérêt personnel parle aussi fortement que parmi nous, mais il ne dit pas les mêmes choses : l'amour de la société et le soin de leur commune défense sont les seuls liens qui les unissent : ce mot de propriété, qui coûte tant de crimes à nos honnêtes gens, n'a presque aucun sens parmi eux : ils n'ont entre eux nulle discussion d'intérêt qui les divise ; rien ne les porte à se tromper l'un l'autre ; l'estime publique est le seul bien auquel chacun aspire, et qu'ils méritent tous. Il est très possible qu'un sauvage fasse une mauvaise action, mais il n'est pas possible qu'il prenne l'hahitude de mal faire, car cela ne lui serait bon à rien. Je crois qu'on peut faire une très juste estimation des mœurs des hommes sur la multitude des affaires qu'ils ont entre eux : plus ils commercent ensemble, plus ils admirent leurs talents et leur industrie, plus ils se friponnent décemment et adroitement, et plus ils sont dignes de mépris. Je le dis à regret, l'homme de bien est celui qui n'a besoin de tromper personne, et le sauvage est cet homme-là :
 

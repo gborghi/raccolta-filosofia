@@ -24,6 +24,10 @@ tags:
 
 THE heading of this short summary of the winds in the manuscript shows it to be an extract from a work called De Signis, not by [Aristotle](/figures/aristotle) but by some member of the [Peripatetic School](/schools/lyceum). Bekker’s text has been used for the translation, but it has been extensively corrected by that of Apelt, whose edition of 1888 shows a marked advance on the previous German text.
 
+<span class="qlang-split" data-lang="it"></span>
+
+L'intestazione di questo breve sommario dei venti nel manoscritto mostra che si tratta di un estratto da un'opera chiamata De Signis, non di [Aristotele](/figures/aristotle) ma di qualche membro della [scuola peripatetica](/schools/lyceum). Il testo di Bekker è stato usato per la traduzione, ma è stato ampiamente corretto da quello di Apelt, la cui edizione del 1888 mostra un notevole progresso rispetto al precedente testo tedesco.
+
 <span class="atom-split" data-atom="002" data-title="THE SITUATIONS AND NAMES OF WINDS" data-chapter="THE SITUATIONS AND NAMES OF WINDS" data-kind="atom" data-srclang="en"></span>
 
 From [Aristotle](/figures/aristotle)’s Treatise of Meteorological Signs
@@ -35,3 +39,15 @@ Eurus. At Aegae in Syria it is called Scopelus from the Rhosian crag (skopelos),
 Orthonotus. Some add the title Eurus and some Amneus. Notus has the same name everywhere. Its name is due to its bringing disease (nosos), apart from its being showery (notios), so there are two reasons for its name. Similarly with Leuconotus; its name is due to an accidental property; for it bleaches... Lips. This name is derived from Libya whence it blows. Zephyrus. This derives its name from the fact that it blows from the west.... Iapyx. At Tarentum this is called Scylletinus from a place Scylletium. At Dorylaeum it is called Phrygias, and by some Pharangites, for it blows from a certain gorge at Pangaeus. Among many it is known as Argestes. Thracias, called Strymonias in Thrace, because it blows from the river Strymon, and in the Megarid Scirron from the Scirronides rocks, and in Italy and in Sicily Circias because it blows from Circaeum. In Euboea and Lesbos it is called Olympias, and its name comes from Pierian Olympus; it gives trouble to the Pyrrhaei.
 
 I have written down for you also the situation of the winds, where they are situate and whence they blow, drawing in a chart the earth’s circumference, in order that these things may be set before your eyes.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dal Trattato dei segni meteorologici di [Aristotele](/figures/aristotle).
+
+BORRAS. A Mallo questo è chiamato Pagreo, poiché spira da alte rupi e dalle catene parallele di due monti, che sono detti Pagrici. A Cauno è chiamato Meses; e a Rodi Caunias, poiché spira da Cauno e agita il porto dei Cauni. A Olbia presso Magydum in Panfilia è chiamato Idyreo; poiché spira dall'isola detta Idyris. Alcuni colà, come i Lirnantei a Faselide, lo chiamano Borras. Caecias. A Lesbo questo è chiamato Tebano, poiché spira dalle pianure di Tebe sopra il golfo Eleatico in Misia, e agita il porto dei Mitilenei, e specialmente il Malio, ma presso alcuni il vento è chiamato Caunias, che altri nominano Borras. Apeliote. A Tripoli in Fenicia questo è chiamato Potameo, e spira da una pianura simile a una grande aia, che è circondata dai monti Libano e Bapyro; di qui è chiamato Potameo. Esso agita il porto di Poseidonio. Nel golfo Issico e intorno a Rhoso è chiamato Siriandro; spira dalle porte Siriache, che il Tauro e i monti Rosii dividono. Nel golfo di Tripoli è chiamato Marseo da un villaggio Marso. A Proconneso, Teo, Creta, Eubea e Cirene è chiamato Ellespontias. Esso agita specialmente il porto di Cafere in Eubea e il porto di Cirene, che è chiamato Apollonia; spira dall'Ellesponto. A Sinope è chiamato Berecintias, spirando da parti della Frigia. In Sicilia è chiamato Cataportmias, spirando dallo stretto. Alcuni inoltre lo chiamano Caecias, aggiungendo il titolo Tebano.
+
+Eurus. Ad Aegae in Siria è chiamato Scopelus dalla rupe rhosia (skopelos), e a Cirene Carbas dai Carbani che abitano in Fenicia; perciò alcuni lo chiamano Phoenicias. Alcuni credono anche che sia l'Apeliote.
+
+Orthonotus. Alcuni aggiungono il titolo di Eurus e alcuni di Amneus. Notus ha lo stesso nome ovunque. Il suo nome è dovuto al fatto che porta malattia (nosos), oltre al fatto che è piovoso (notios), sicché vi sono due ragioni per il suo nome. Similmente per Leuconotus; il suo nome è dovuto a una proprietà accidentale; poiché sbianca. Lips. Questo nome è derivato dalla Libia, donde spira. Zephyrus. Questo deriva il suo nome dal fatto che spira da occidente. Iapyx. A Tarentum questo è chiamato Scylletinus da un luogo Scylletium. A Dorylaeum è chiamato Phrygias, e da alcuni Pharangites, poiché spira da una certa gola presso Pangaeus. Presso molti è noto come Argestes. Thracias, chiamato Strymonias in Tracia, perché spira dal fiume Strymon, e nella Megaride Scirron dalle rocce Scirronidi, e in Italia e in Sicilia Circias perché spira da Circaeum. In Eubea e in Lesbo è chiamato Olympias, e il suo nome viene dall'Olimpo Pierio; dà fastidio ai Pyrrhaei.
+
+Vi ho scritto anche la situazione dei venti, dove sono situati e donde spirano, disegnando in una carta la circonferenza della terra, affinché queste cose siano poste dinanzi ai vostri occhi.

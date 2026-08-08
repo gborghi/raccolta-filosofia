@@ -32,7 +32,19 @@ All indivisible lines are points.
 
 [Aristotle](/figures/aristotle) then demonstrates the absurdity of this conclusion, thus demolishing the major premiss.
 
-<span class="atom-split" data-atom="002" data-title="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS) (1/4)" data-chapter="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS)" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+QUESTO è un trattato assai interessante ed estremamente difficile, scritto da un qualche autore della [Scuola peripatetica](/schools/lyceum). Esso si riferisce direttamente agli Elementi di Euclide, Libro X, ed è incomprensibile senza una certa conoscenza delle definizioni di Euclide. Purtroppo lo stato dei manoscritti è assai insoddisfacente. Per gentile concessione dei Signori Teubner, il testo di Apelt è stato usato per questo volume. Questo, unitamente ai suoi commenti nell'Introduzione, ha chiarito numerose difficoltà, ma, anche così, il pensiero, così come la terminologia, è intricato. Il trattato si occupa principalmente di una confutazione della teoria secondo cui ogni linea contiene un'unità che è una linea indivisibile. Senza la concezione moderna dell'[infinito](/concepts/infinity), vi è molto che è matematicamente brillante, e nei suoi stessi termini l'autore sembra dimostrare la sua tesi. L'argomento principale è un sillogismo:
+
+Tutte le linee consistono di linee indivisibili (Zenone).
+
+Tutte le linee indivisibili sono punti.
+
+.-. tutte le linee consistono di punti.
+
+[Aristotele](/figures/aristotle) dimostra poi l'assurdità di questa conclusione, demolendo così la premessa maggiore.
+
+<span class="atom-split" data-atom="002" data-title="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS) (parte 1)" data-chapter="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS)" data-kind="atom" data-srclang="en"></span>
 
 Are there such things as indivisible lines, and must there be in all magnitudes some unit which has no parts, as some say?
 
@@ -74,7 +86,49 @@ So their position is absurd; after professing that they are going to demonstrate
 
 Moreover it is unreasonable for them to be led astray on the one hand by the reasoning of Zeno, and presume the existence of indivisible lines merely because they cannot disprove their existence; and on the other to be unimpressed by the arguments both from the movement of a straight line in a semicircle, which must clearly touch all the infinite points of the circumference and its divisions, and again to neglect the convincing fact about a circle that there must be movement of some such kind, if the radius moves in a semicircle,” and all the other theorems demonstrated about lines showing that movement is impossible of such a kind that it does not fall upon all the intervening points in turn; for these theorems are far more universally admitted than the others.
 
-<span class="atom-split" data-atom="003" data-title="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS) (2/4)" data-chapter="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS)" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Vi sono cose siffatte come le linee indivisibili, e deve esservi in tutte le grandezze qualche unità che non ha parti, come alcuni affermano?
+
+Se “molto” e “grande”, e i loro opposti “poco” e “piccolo”, sono costituiti similmente, e se ciò che ha quasi infinite divisioni non è piccolo, ma grande, è evidente che “poco” e “piccolo” avranno un numero limitato di divisioni; se, quindi, le divisioni sono limitate, vi deve essere una qualche grandezza che non ha parti, cosicché in tutte le grandezze vi sarà una qualche unità indivisibile, poiché in tutte vi è un “poco” e un “piccolo”.
+
+Inoltre, se vi è un'idea della linea, e l'Idea è la prima delle quantità così chiamate, e se le parti sono logicamente anteriori al tutto, questa linea unitaria deve essere indivisibile, e lo stesso argomento si applicherà al quadrato, al triangolo e alle altre figure, e in generale a una figura piana o a qualsiasi altro corpo; poiché anche nel loro caso vi deve essere qualche unità anteriore.
+
+Inoltre, se vi sono elementi in un corpo, e nulla è anteriore agli elementi, e se le parti sono anteriori al tutto, il fuoco e, generalmente parlando, ciascuno degli elementi del corpo sarebbe indivisibile, cosicché deve esserci un'unità senza parti, non solo nel mondo del pensiero, ma anche nel mondo della percezione.
+
+Di nuovo, secondo l'argomento di Zenone, deve esserci una grandezza senza parti, poiché è impossibile toccare un numero infinito di cose in un tempo finito, quando si tocchi ciascuna di esse, e ciò che si muove deve prima raggiungere la metà, e la metà appartiene chiaramente a ciò che non è senza parti. Ma se qualcosa che percorre una linea tocca una serie infinita in un tempo finito, in secondo luogo se quanto più velocemente si muove tanto maggiore è lo spazio che percorre nello stesso tempo, e in ultimo se il movimento del pensiero è il movimento più veloce, allora anche il pensiero deve toccare una serie infinita una a una in un tempo finito. Se, allora, il pensiero che tocca la serie una a una è contare, allora deve essere possibile contare una serie infinita in un tempo finito. Se questo è impossibile, allora deve esistere una linea indivisibile.
+
+Il prossimo argomento, ci viene detto, è usato dai matematici per provare che la linea indivisibile deve esistere, se ammettiamo che le linee “commensurabili” sono quelle che sono misurate dalla stessa unità, e che tutte le linee misurate sono “commensurabili.” Poiché deve esserci una qualche lunghezza dalla quale sono tutte misurate. E questa deve essere incapace di divisione. Poiché se è divisibile, allora le sue parti possono anche essere espresse nei termini di qualche unità. Poiché sono commensurabili con il tutto. Cosicché la misura di ciascuna parte sarebbe doppia della sua metà; poiché ciò è impossibile, l’unità di misura deve essa stessa essere indivisibile.
+
+Di nuovo, come le linee composte dall'unità di misura sono tutte formate di unità senza parti, così pure debbono essere quelle che sono una volta misurate da essa. Lo stesso accadrà anche nelle figure piane; poiché tutti i quadrati costruiti su linee razionali sono commensurabili tra loro, così anche la loro unità di misura sarà senza parti. Inoltre, se una di esse è tagliata (su una qualsiasi unità) da una linea fissa e finita, questa linea non sarà né razionale né irrazionale, né apparterrà ad alcuna delle categorie a cui appartengono le funzioni razionali, come "apotome" o "di due termini"; ma in sé stesse non hanno caratteristiche naturali, benché siano razionali o irrazionali l'una rispetto all'altra.
+
+Ora, in primo luogo, non segue che ciò che ammette divisione infinita non sia né «piccolo» né «poco»; poiché possiamo applicare il termine «piccolo» allo spazio, e alla grandezza, e in generale a tutto ciò che è continuo, e similmente applichiamo il termine «poco» dove è applicabile, non che non ammettiamo che essi abbiano divisioni infinite.
+
+In secondo luogo, se tra i commensurabili vi sono linee, possiamo applicare il termine “piccolo” a queste unità indivisibili, ed esse stesse contengono un numero infinito di punti. Ma in quanto è una linea, ammette divisione in un punto, e similmente in qualsiasi altro punto; di conseguenza ogni linea che non sia indivisibile deve avere un numero infinito di divisioni.
+
+Ora alcune di queste divisioni sono piccole; e i possibili rapporti tra le divisioni sono infiniti. È possibile che ogni linea che non è indivisibile sia tagliata secondo un qualsiasi rapporto dato.
+
+Inoltre, se il “grande” è composto di un numero di “piccoli,” o il “grande” non ha alcun significato, oppure il “grande” sarà ciò che ha divisioni finite. Poiché il tutto deve essere suscettibile delle stesse divisioni delle sue parti. Ma è illogico supporre che il piccolo abbia divisioni finite e il grande infinite; eppure è questo ciò che essi affermano.
+
+Così è chiaro che i termini «grande» e «piccolo» non sono applicati perché l'uno ha divisioni finite e l'altro infinite. E ancora, se alcuno afferma che, poiché nei numeri il «piccolo» ha divisioni finite, anche il «piccolo» nelle linee deve comportarsi allo stesso modo, il suo ragionamento è stolto. Infatti nel caso dei numeri il tutto è costruito da unità che non hanno parti, e vi è una qualche unità che è il fondamento di tutti i numeri, e ogni numero che non è infinito ha divisioni finite; ma lo stesso non vale per le grandezze.
+
+Ma coloro che costruiscono la loro teoria delle linee indivisibili sulle Idee hanno, a mio avviso, una base troppo esile per la sovrastruttura, la supposizione che vi siano Idee di queste linee indivisibili; e in un certo senso distruggono il loro stesso argomento con la loro dimostrazione. Poiché l'intera teoria delle Idee è distrutta dai loro argomenti.
+
+Ancora, nel caso degli elementi corporei è stolto sostenere che essi siano senza parti. Infatti, se alcuni dimostrano effettivamente ciò, essi, ai fini dell'argomento in discussione, assumono la premessa maggiore dell'argomento. E quanto più questa premessa maggiore è assunta, tanto più appare che il corpo e la lunghezza siano divisibili sia in due dimensioni sia in una.
+
+Ancora, il ragionamento di Zenone non dimostra che ciò che si muove lungo una linea tocchi una serie infinita in un tempo finito su questo stesso piano. Poiché "tempo" e "lunghezza" devono essere chiamati entrambi infiniti e finiti, e ammettono le stesse divisioni.
+
+Inoltre, il processo della mente che tocca ad uno ad uno una serie infinita non è il processo del contare, se pure qualcuno suppone che la mente tocchi in questo modo una serie infinita. Forse questa supposizione è in sé stessa impossibile; poiché il movimento della mente non avviene come il movimento dei corpi viaggianti in una materia continua.
+
+Ma per riprendere — anche se il suo movimento può essere di questo genere, questo non è contare. Infatti il contare implica una serie di pause. Ma è forse del tutto irragionevole che coloro che non sono riusciti a risolvere l'enigma debbano essere asserviti alla propria debolezza, e debbano ingannare se stessi ancora di più nello sforzo di rafforzare la propria incapacità.
+
+Quanto all’argomento delle linee commensurate, cioè che tutte le linee si misurano con una medesima unità di misura, ciò è meramente cavillosità, e non si accorda con le supposizioni matematiche; imperocché il matematico non lo pone, e se lo ponesse, non gli gioverebbe. In realtà le due proposizioni sono contraddittorie — che tutte le linee siano commensurabili, e che vi sia una comune misura di tutte le linee commensurabili.
+
+Dunque la loro posizione è assurda; dopo aver professato che dimostreranno le opinioni stesse dei matematici, e che argomenteranno dalle loro affermazioni, essi meramente ricadono in un argomento contenzioso e casuistico, e per di più debole. Infatti è debole da molti punti di vista, e in ogni modo non riesce a sfuggire tanto alla contraddittorietà quanto alla confutazione.
+
+Inoltre è irragionevole che essi, da un lato, siano fuorviati dal ragionamento di Zenone e presumano l'esistenza di linee indivisibili solo perché non possono dimostrarne l'inesistenza; e che, dall'altro lato, non siano colpiti dagli argomenti sia dal movimento di una linea retta in un semicerchio, che deve chiaramente toccare tutti gli infiniti punti della circonferenza e le sue divisioni, e di nuovo trascurare il fatto convincente riguardo al cerchio, che ci debba essere un movimento di tal genere, se il raggio si muove in un semicerchio”, e tutti gli altri teoremi dimostrati intorno alle linee, i quali mostrano che è impossibile un movimento di tal genere che non cada su tutti i punti intermedi di volta in volta; poiché questi teoremi sono di gran lunga più universalmente ammessi degli altri.
+
+<span class="atom-split" data-atom="003" data-title="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS) (parte 2)" data-chapter="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS)" data-kind="atom" data-srclang="en"></span>
 
 It is, then, clear from the arguments we have adduced that it is not inevitable nor even plausible that indivisible lines should exist. But from what follows it will become still more obvious. First of all from theorems demonstrated and laid down as axiomatic in mathematics, which must either be accepted or removed by more convincing arguments.
 
@@ -126,7 +180,59 @@ Also, one line would have to be greater than another by a point; and it will the
 
 But perhaps time consists of a succession of “nows,” and both ideas belong to the same theory.
 
-<span class="atom-split" data-atom="004" data-title="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS) (3/4)" data-chapter="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS)" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+È quindi chiaro dagli argomenti che abbiamo addotto che non è inevitabile né anche plausibile che linee indivisibili esistano. Ma da ciò che segue diventerà ancora più evidente. In primo luogo dai teoremi dimostrati e posti come assiomatici nella matematica, i quali devono essere o accettati o rimossi da argomenti più convincenti.
+
+Infatti né la definizione di “linea” né quella di “linea retta” si adatterà alla “linea indivisibile”, perché essa non giace tra i punti né ha un punto medio.
+
+In secondo luogo, tutte le linee saranno commensurabili nell'assunzione delle linee indivisibili. Tutte le linee saranno infatti misurate da linee indivisibili, sia quelle commensurabili in lunghezza sia nei loro quadrati. Ma le linee indivisibili sono commensurabili in lunghezza; poiché sono tutte uguali; quindi devono essere commensurabili anche nei loro quadrati. Se ciò è vero, allora ogni quadrato sarà razionale.
+
+Inoltre, vedendo che la linea applicata al lato più lungo determina la larghezza di un rettangolo, il rettangolo che è uguale in area al quadrato sulla linea indivisibile (supponiamo che sia lunga un piede) avrà, quando applicato a una linea lunga il doppio, una larghezza minore della linea indivisibile (il che è [a priori](/positions/transcendental_criticism) impossibile); poiché la sua larghezza sarà minore di quella del quadrato sulla linea indivisibile. (Vedi nota a (1).)
+
+Di nuovo, poiché un triangolo può essere formato da tre rette date, sarà formato anche da tre linee indivisibili. Ora in ogni triangolo equilatero la perpendicolare condotta da un angolo qualsiasi divide in due parti uguali la base, e quindi deve dividere la linea indivisibile. (Vedi nota a (2).)
+
+(2) — ABC è un triangolo equilatero, e AD la perpendicolare abbassata da A su BC. Questa figura produce esattamente la stessa impossibilità della precedente.
+
+(3) — ABCD è un quadrato, di cui AC è la diagonale. Una perpendicolare è abbassata da D sulla diagonale. Anche qui abbiamo la stessa impossibilità.
+
+Inoltre, se un quadrato può essere composto di linee indivisibili, allora, tracciata una diagonale e abbassata una perpendicolare da un angolo su di essa, il lato del quadrato sarà uguale alla perpendicolare più la metà della diagonale, cosicché non sarà la linea minima. (Vedi nota a (3).)
+
+Né l'area del quadrato sulla diagonale sarà doppia del quadrato sulla linea indivisibile. Poiché, tolta la parte uguale, il resto sarà minore della linea indivisibile; ma se fosse uguale, allora il quadrato sulla diagonale sarebbe quattro volte quello del quadrato originale; si potrebbero certo raccogliere altri esempi; poiché essi si oppongono praticamente a tutti i principi matematici.
+
+Di nuovo, c'è un solo modo di congiungere ciò che non ha parti a qualsiasi altra cosa, ma due modi nel caso di una linea; infatti due linee possono essere congiunte per lungo, o, d'altra parte, estremità a estremità.
+
+Ancora, una linea accostata a un'altra lato a lato non renderà il tutto più grande; poiché linee senza parti, messe insieme, non le renderanno più lunghe.
+
+Inoltre, nessuna lunghezza continua può essere composta di due linee senza parti, poiché ogni lunghezza continua può essere divisa in più di una parte, e se ogni linea è continua in contrasto con una linea indivisibile, allora non può esserci alcuna cosa come una linea indivisibile.
+
+Di nuovo, se a differenza della linea indivisibile ogni linea può essere divisa in parti uguali e disuguali, anche se è composta di tre linee indivisibili o, in generale, di un numero dispari qualsiasi, la linea indivisibile sarà capace di divisione. Ugualmente ogni linea può essere tagliata a metà; poiché ogni linea composta di numeri dispari comporterà la bisezione della linea indivisibile. Ma se nessuna di tali linee può essere bisecata, a meno che non siano composte di un numero pari di linee, anche in questo caso deve essere possibile dividere una linea bisecata un numero qualsiasi di volte, e così la linea indivisibile sarà divisa, ogniqualvolta la linea composta di un numero pari di parti è divisa in parti disuguali.
+
+E ancora, se il mobile percorre metà della linea in metà del tempo impiegato a percorrere l’intera linea, percorrerà anche meno di metà in meno di metà del tempo; cosicché, se l’intera lunghezza è composta di un numero dispari di linee indivisibili, si vedrà di nuovo la bisezione delle linee indivisibili, qualora esso percorra metà della lunghezza in metà del tempo; infatti il tempo e la linea saranno divisi in divisioni proporzionali. Sicché nessuna delle linee componenti ammetterà divisioni uguali e disuguali; se sono divise proporzionalmente al tempo, non saranno linee indivisibili. Eppure, come si è detto, costruire tutte queste cose da linee senza parti appartiene allo stesso ragionamento.
+
+Ancora, tutto ciò che non è illimitato ha due limiti; poiché per questi la linea è definita. Ma la linea indivisibile non è illimitata, e quindi possederà un limite. Perciò è divisibile: poiché il limite non è lo stesso di ciò di cui è limite. Oppure vi sarà una linea che non è né illimitata né limitata, al di là di queste due categorie.
+
+Inoltre, non vi sarà un punto in ogni linea; poiché non vi sarà punto nella linea indivisibile; poiché se ve ne fosse uno e uno solo, una linea sarebbe un punto; se ve ne sono più di uno, allora la linea è divisibile.
+
+Ma se non vi è alcun punto nella linea indivisibile, allora non ve n'è in generale in nessuna linea; poiché le altre linee sono composte di linee indivisibili.
+
+Di nuovo, (se tali punti esistono in una linea) vi sarà o nulla tra di essi, o una linea; se vi è una linea in mezzo, e più di un punto in tutte le linee, allora la linea non sarà indivisibile.
+
+Di nuovo, non sarà possibile costruire un quadrato su ogni linea; poiché un quadrato avrà lunghezza e larghezza, così da essere divisibile, essendo sia la sua lunghezza sia la sua larghezza quantità. Ma se il quadrato è divisibile, divisibile è anche la linea su cui è costruito.
+
+Di nuovo, il limite di una linea sarà una linea, e non un punto. Poiché il limite è l'ultimo, e la linea indivisibile è ultima. Infatti, se un punto è il limite, il punto sarà il limite di una linea indivisibile, e una linea sarà allora maggiore di un'altra linea di un punto. Ma se il punto limite è interno alla linea indivisibile, poiché due linee congiunte hanno lo stesso limite, vi sarà un limite della linea senza parti. In generale, allora, quale differenza vi sarà tra un punto e una linea? Poiché in confronto al punto la linea indivisibile non avrà alcuna proprietà ad essa peculiare, eccetto il nome.
+
+Ancora, nel medesimo senso, la figura piana e il solido saranno indivisibili. Poiché se l'uno è indivisibile, ne conseguirà che anche gli altri lo sono, giacché l'uno si divide per mezzo dell'altro. Ma il solido non è indivisibile, perché contiene insieme profondità e larghezza; allora una linea non può essere indivisibile; poiché un solido si forma mediante l'addizione di una linea a una superficie piana, e una superficie piana mediante l'addizione di una linea a una linea.
+
+Ma poiché gli argomenti con cui tentano di provare la loro tesi non sono soltanto deboli, ma addirittura falsi, e le loro opinioni sono contrarie a tutte quelle che portano convincimento, è evidente che non può esserci una linea indivisibile. Infatti quasi tutti gli stessi argomenti si applicheranno.
+
+Per esempio, deve essere possibile dividere il punto, quando una linea composta di un numero dispari di punti è divisa in parti uguali, o una composta di un numero pari in parti disuguali; inoltre, la parte di una linea non sarebbe una linea, né la parte di una figura piana una figura piana.
+
+Inoltre, una linea dovrebbe essere maggiore di un'altra di un punto; e sarà allora maggiore degli elementi di cui è composta. Che ciò sia impossibile è evidente dai principi della matematica, e un'ulteriore conseguenza sarà che un oggetto in movimento passerà sopra un punto in un tempo determinato, poiché percorre una distanza maggiore in un tempo più lungo, e una distanza uguale in un tempo uguale, ma l'eccesso di un tempo su un altro è in sé stesso un tempo.
+
+Ma forse il tempo consiste in una successione di “adesso,” e entrambe le idee appartengono alla stessa teoria.
+
+<span class="atom-split" data-atom="004" data-title="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS) (parte 3)" data-chapter="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS)" data-kind="atom" data-srclang="en"></span>
 
 But if a “now” is the beginning and the limit of time, and a point is in a similar relation to a line, the beginning and the end cannot be in themselves continuous, but there must be something in between, so that neither the “nows” (in time), nor the points (in a line) could by themselves form a continuous whole.
 
@@ -160,8 +266,48 @@ Further, the term greater can only be applied to the following things in space �
 
 Again, since the phrase “the smallest of the things in the house” is used without any reference to the size of the house, so also in other cases, nor will the smallest thing in a line have any reference to the line, so that the phrase smallest does not apply to the line.
 
-<span class="atom-split" data-atom="005" data-title="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS) (4/4)" data-chapter="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS)" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ma se un “ora” è principio e limite del tempo, e un punto sta in rapporto simile alla linea, il principio e la fine non possono essere continui per sé stessi, ma vi deve essere qualcosa in mezzo, cosicché né gli “ora” (nel tempo), né i punti (in una linea) potrebbero da sé soli formare un tutto continuo.
+
+Inoltre, la linea è una certa grandezza, ma un aggregato di punti non produce alcuna grandezza, perché tale aggregato non riempie uno spazio maggiore. Infatti, quando una linea è aggiunta a una linea e accostata ad essa, la larghezza non aumenta.” Se, quindi, i punti costituiscono le linee, i punti, per quanto numerosi, occuperebbero uno spazio non maggiore, così che non potrebbero produrre una grandezza.
+
+Inoltre, se tutti toccassero ogni punto, sia che il tutto fosse in contatto col tutto, o una parte con una parte, o il tutto con una parte, e poiché il punto è indivisibile, il contatto sarebbe il tutto col tutto. Ma il tutto in contatto col tutto deve produrre un’unità. Poiché se alcuna cosa appartiene all’uno, la quale non appartiene all’altro, allora il tutto non è in contatto col tutto. Ma se le parti indivisibili sono tutte in un medesimo luogo, allora più cose occupano lo stesso spazio che era prima occupato da un’unità; poiché nel caso di due cose, le quali stanno insieme e tuttavia non hanno alcun potere di estensione, lo stesso spazio deve servire per entrambe. Ma poiché ciò che non ha parti non può avere dimensioni, nulla composto di unità senza parti può produrre una grandezza continua. Onde segue che una linea non può essere fatta di una serie di punti, né un tempo di una serie di “ora”.
+
+Inoltre, se una linea fosse composta di punti, un punto sarebbe in contatto con un punto. Si supponga che da K siano tracciate due linee AB e TA, tanto il punto che termina ΔK quanto il punto che termina KΔ si incontreranno in K, così che i due punti saranno in contatto A l'uno con l'altro; poiché l'indivisibile tocca l'indivisibile, come un intero tocca un intero. Cosicché occuperà lo stesso spazio di K, e i punti saranno in contatto gli uni con gli altri nello stesso luogo. Al contrario, se sono nello stesso luogo, devono essere in contatto; poiché in primo luogo le cose che sono nello stesso spazio devono toccarsi, e, se è così, la linea retta tocca una linea retta in due punti. Poiché il punto in AK tocca entrambi i punti in KΓ, e anche un altro (cioè, il punto successivo in AΓ che occupa lo stesso luogo di K). Cosicché AK tocca TA in più di un punto. E lo stesso argomento si applica non soltanto a due linee in contatto, ma a un numero qualsiasi.
+
+Di nuovo, la circonferenza di un cerchio toccherebbe la tangente in più punti di uno. Poiché sia il punto sulla circonferenza sia il punto sulla tangente toccano il punto di contatto, e l'un l'altro. Se questo è impossibile, allora un punto non può toccare un punto; ma se non può, allora una linea non può consistere di punti; altrimenti sarebbe in contatto.
+
+Di nuovo, in che modo ciò influirà sulla questione delle linee rette e delle curve? Poiché non può esservi alcuna differenza tra il contatto dei punti nella linea retta e nella linea curva. Infatti la linea senza parti tocca una linea simile per tutta la sua lunghezza, e non può toccarla in nessun altro modo. Se, dunque, vi sono linee di generi diversi e nessun genere diverso di contatto, una linea non dipenderà dagli elementi della sua costruzione, e quindi non dipende dai punti.
+
+Di nuovo, i punti devono o essere in contatto tra loro o non esserlo. Se sono in contatto in serie, l'argomento è lo stesso; se è possibile che la serie sia continua senza contatto, tuttavia per continuo non intendiamo altro se non qualcosa le cui parti componenti sono in contatto, cosicché anche in questa supposizione i punti devono toccarsi, o anche la linea non può essere descritta come continua.
+
+Inoltre, se è assurdo porre un punto su un punto per produrre una linea, e una linea su un punto per produrre una superficie piana, ciò che essi dicono non può essere vero. Poiché se uno dei due punti è continuo, la linea non sarà tagliata in alcuno dei punti, ma in mezzo ad essi; se, d'altra parte, si toccano, la linea sarà nel luogo di un punto, e questo è impossibile.
+
+Inoltre, tutte le figure geometriche potrebbero essere divise e risolte in punti, e un punto sarebbe parte di un solido (cioè avrebbe tre dimensioni), poiché il solido è costruito a partire dalla figura piana, la figura piana dalle linee, e le linee dai punti. Ma se ogni cosa consiste dei suoi elementi originari, allora i punti sarebbero gli elementi dei corpi solidi. Sicché gli elementi avrebbero lo stesso nome, e non sarebbero differenti per genere.
+
+È quindi chiaro da quanto abbiamo già detto che la linea non è composta di punti. Né il punto può essere separato dalla linea. Infatti, se può essere così separato, può anche essere aggiunto. Ma, quando qualcosa viene aggiunto, ciò a cui viene aggiunto sarà maggiore di quanto non fosse all'inizio, se l'aggiunta è di tal genere da formare un'unità completa. Allora una linea sarà maggiore di un'altra di un punto. Ma questo è impossibile. È impossibile, cioè, in sé, ma incidentalmente è possibile togliere un punto da una linea, per il fatto che esso esiste nella linea tolta. Infatti, se si toglie il tutto, si devono togliere anche il principio e la fine, e il principio e la fine di una linea sono un punto. Se, dunque, è possibile togliere una linea da una linea, deve essere possibile togliere un punto. Ma questo togliere un punto è soltanto incidentale. Ma se la fine tocca la linea di cui è la fine — cioè o tocca la linea stessa, o una qualsiasi parte di essa — e il punto la tocca anch'esso in virtù del fatto di essere la fine di una linea, — allora una linea sarà maggiore di un'altra di un punto, e un punto consisterà di punti; poiché non può esserci nulla in mezzo a due cose che si toccano.
+
+Lo stesso argomento si applicherà alla divisione, se la divisione è di un punto e se la divisione tocca qualcosa, tanto nella figura solida quanto nella piana; proprio nello stesso modo il solido è composto di figure piane, e la figura piana di linee.
+
+Né, ancora, è vero dire di un punto che esso è la più piccola componente di una linea.
+
+Poiché se essa è la minima parte di una linea, il “minimo” deve essere minore di quelle cose di cui è il minimo, ma nella linea non vi è nulla se non punti e linee, e una linea non è maggiore di un punto (non più di quanto una figura piana possa dirsi maggiore di una linea), sicché la minima parte di una linea non sarà un punto.
+
+Anche se il punto potesse essere paragonato alla linea, la parola "minimo" può essere usata solo di tre termini, cosicché il punto non potrebbe essere il minimo componente di una linea. Inoltre, nella lunghezza deve esserci un terzo elemento oltre ai punti e alle linee; poiché essa non è composta di punti. Ma se tutto ciò che è nello spazio è o un punto o una lunghezza o una figura piana o un solido, o è composto di questi, e se i componenti di una linea sono nello spazio (poiché una linea lo è), e se in una linea non c'è né un solido né una figura piana né alcuna cosa siffatta, non ci sarà nulla in una data lunghezza oltre a punti e linee.
+
+Inoltre, il termine 'maggiore' può essere applicato soltanto alle seguenti cose nello spazio — una lunghezza, una superficie o un solido; e un punto è nello spazio, ma ciò che è in una lunghezza, oltre a punti e linee, non è nessuna delle suddette cose, cosicché il punto non può essere la più piccola componente di una linea.
+
+Inoltre, poiché l'espressione "la più piccola delle cose in casa" è usata senza alcun riferimento alla grandezza della casa, così anche in altri casi, né la cosa più piccola in una linea avrà alcun riferimento alla linea, cosicché l'espressione "più piccolo" non si applica alla linea.
+
+<span class="atom-split" data-atom="005" data-title="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS) (parte 4)" data-chapter="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS)" data-kind="atom" data-srclang="en"></span>
 
 Further, if that which is not” in the house cannot be the smallest of the things in the house, just in the same way in other cases (for a point can exist by itself) it will not be true to say of the point that it is the smallest thing in the line.
 
 Again, the point is not an indivisible joint; for the joint is the limit of two things, but the point is the limit of a single line. Again, the point is an end, but the joint is more a division. Again, the line and plane figure are joints; for they have some analogy with it. Again, the joint is in a sense connected with movement, wherefore Empedocles wrote the line “A joint binds two things”; but a point is among the immovable things. Again, no one has an infinite number of joints in the body, or in the hand, but they have an infinite number of points. Again, there can be no joints in a stone, nor has it any, but it has points.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Inoltre, se ciò che non è nella casa non può essere la minima delle cose nella casa, così anche negli altri casi (infatti un punto può esistere da sé) non sarà vero dire del punto che esso è la minima cosa nella linea.
+
+Inoltre, il punto non è una giuntura indivisibile; poiché la giuntura è il limite di due cose, ma il punto è il limite di una sola linea. Inoltre, il punto è un termine, ma la giuntura è piuttosto una divisione. Inoltre, la linea e la figura piana sono giunture; poiché hanno qualche analogia con essa. Inoltre, la giuntura è in un certo senso connessa con il movimento, perciò Empedocle scrisse il verso: “Una giuntura lega due cose”; ma il punto è tra le cose immobili. Inoltre, nessuno ha un numero infinito di giunture nel corpo, o nella mano, ma si ha un numero infinito di punti. Inoltre, non possono esserci giunture in una pietra, né essa ne ha, ma ha punti.

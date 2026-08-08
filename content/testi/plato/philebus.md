@@ -126,6 +126,112 @@ PROTARCHUS: Speak plainer.
 
 SOCRATES: The principle which has just turned up, which is a marvel of nature; for that one should be many or many one, are wonderful propositions; and he who affirms either is very open to attack.
 
+<span class="qlang-split" data-lang="it"></span>
+
+PERSONAGGI DEL DIALOGO:
+
+[Socrate](/figures/socrates), Protarco, Filebo.
+
+Osserva, Protarco, la natura della posizione che ora stai per prendere da Filebo, e quale sia l'altra posizione che io sostengo, e che, se non la approvi, deve essere da te confutata. Riassumeremo tu ed io i due lati?
+
+PROTARCO: Senz'altro.
+
+SOCRATE: Filebo diceva che il godimento, il piacere e il diletto, e la classe di affezioni affini a essi, sono un bene per ogni essere vivente, mentre io sostengo che non queste, ma la sapienza, l'intelligenza e la memoria, e le loro affini, la retta opinione e il vero ragionamento, sono migliori e più desiderabili del piacere per tutti coloro che ne possono partecipare, e che per tutti costoro, che sono o saranno mai, sono le più vantaggiose di tutte le cose. Non ho forse, Filebo, esposto giustamente i due lati dell'argomento?
+
+FILEBO: Nulla potrebbe essere più giusto, Socrate.
+
+SOCRATE: E tu, Protarco, accetti la posizione che ti è assegnata?
+
+Non posso fare altrimenti, dal momento che il nostro eccellente Filebo ha lasciato il campo.
+
+SOCRATE: Certamente la verità su queste questioni deve, con ogni mezzo, essere accertata.
+
+PROTARCHUS: Certamente.
+
+SOCRATE: Dovremo inoltre convenire —
+
+PROTARCHUS: A che cosa?
+
+SOCRATE: Che noi dobbiamo ora tentare di indicare qualche stato e disposizione dell'anima, il quale abbia la proprietà di rendere felici tutti gli uomini.
+
+PROTARCHUS: Sì, senz'altro.
+
+SOCRATE: E tu dici che il piacere, e io dico che la sapienza, è tale stato?
+
+PROTARCHUS: Vero.
+
+SOCRATE: E se vi fosse un terzo stato, che sia migliore di entrambi? Allora siamo vinti entrambi — non è vero? Ma se questa vita, che ha realmente il potere di rendere felici gli uomini, risultasse essere più affine al piacere che alla saggezza, la vita di piacere potrebbe ancora avere il vantaggio sulla vita di saggezza.
+
+PROTARCHUS: Vero.
+
+SOCRATE: O supponiamo che la vita migliore sia più affine alla saggezza, allora la saggezza vince, e il piacere è sconfitto; — sei d'accordo?
+
+PROTARCHUS: Certamente.
+
+SOCRATE: E che dici, Filebo?
+
+FILEBO: Dico, e dirò sempre, che il piacere è facilmente il vincitore; ma devi decidere tu stesso, Protarco.
+
+PROTARCO: Tu, o Filebo, hai consegnato a me il discorso, e non hai più voce in questa disputa?
+
+Vero. Nondimeno vorrei discolparmi e liberare l'anima mia da voi; e chiamo la dea stessa a testimone che ora lo faccio.
+
+Protarco: Puoi appellarti a noi; anche noi saremo testimoni delle tue parole. E ora, Socrate, che Filebo sia contento o scontento, proseguiremo con l'argomento.
+
+SOCRATE: Cominciamo dunque dalla dea stessa, della quale Filebo dice che è chiamata Afrodite, ma che il suo vero nome è Piacere.
+
+PROTARCO: Molto bene.
+
+SOCRATE: Il timore che provo sempre, Protarco, riguardo ai [nomi](/positions/nominalism) degli dèi è più che umano — supera ogni altra paura. E ora non vorrei peccare contro Afrodite nominandola erroneamente; sia chiamata come le aggrada. Ma so che il Piacere è molteplice, e da esso, come dicevo poc'anzi, dobbiamo cominciare, e considerare quale sia la sua natura. Esso ha un solo nome, e perciò tu immagineresti che sia uno solo; e tuttavia esso prende le forme più varie e perfino dissimili. Non diciamo forse che l'intemperante prova piacere, e che il temperante prova piacere nella sua stessa temperanza, — che lo stolto è lieto quando è pieno di stolte fantasie e speranze, e che il saggio prova piacere nella sua saggezza? e quanto stolto sarebbe chiunque affermasse che tutti questi piaceri opposti sono simili tra loro!
+
+Protarco: Ma, Socrate, essi sono opposti in quanto derivano da fonti opposte, ma non sono opposti in se stessi. Infatti, non deve forse il piacere essere, fra tutte le cose, assolutamente simile al piacere, cioè a se stesso?
+
+SOCRATE: Sì, mio buon amico, proprio come il colore è simile al colore; — in quanto i colori sono colori, non v'è differenza tra loro; eppure tutti sappiamo che il nero non è solo dissimile, ma addirittura assolutamente opposto al bianco: o ancora, come la figura è simile alla figura, poiché tutte le figure sono comprese sotto una sola classe; e tuttavia particolari figure possono essere assolutamente opposte l'una all'altra, e vi è un'infinita diversità di esse. E potremmo trovare esempi simili in molte altre cose; pertanto non fare affidamento su questo argomento, che andrebbe a provare l'unità degli opposti più estremi. E sospetto che troveremo una simile opposizione tra i piaceri.
+
+PROTARCO: Assai probabile; ma come potrà ciò invalidare l'argomento?
+
+Ebbene, risponderò che, per quanto dissimili, applichi loro un nuovo predicato, poiché dici che tutte le cose piacevoli sono buone; ora, sebbene nessuno possa sostenere che il piacere non sia piacere, si può sostenere, come stiamo facendo noi, che i piaceri sono più sovente cattivi che buoni; ma tu li chiami tutti buoni, e allo stesso tempo, se sei pressato, sei costretto a riconoscere che sono dissimili. E quindi devi dirci quale sia la qualità identica che esiste ugualmente nei piaceri buoni e cattivi, che ti induce a designarli tutti come buoni.
+
+PROTARCO: Che cosa intendi, Socrate? Pensi che chiunque affermi che il piacere sia il bene tollererà la nozione che alcuni piaceri siano buoni e altri cattivi?
+
+SOCRATE: Eppure ammetterai che sono diversi l'uno dall'altro, e talvolta opposti?
+
+PROTARCHUS: Non in quanto siano piaceri.
+
+Socrate: Questo è un ritorno all'antica posizione, Protarco, e così dobbiamo dire (dobbiamo?) che non vi è differenza tra i piaceri, ma che sono tutti simili; e gli esempi che sono stati appena citati non penetrano le nostre menti ottuse, ma continuiamo a disputare allo stesso modo, come i ragionatori più deboli e più inesperti?
+
+PROTARCO: Che vuoi dire?
+
+SOCRATE: Ebbene, intendo dire che, per mia difesa, posso, se mi piace, seguire il tuo esempio e affermare arditamente che le due cose più dissimili sono le più assolutamente simili; e il risultato sarà che tu ed io ci dimostreremo dei veri principianti nell'arte del disputare; e l'argomento sarà dissipato e perduto. Supponiamo che ci ritiriamo e torniamo all'antica posizione; allora forse potremo giungere a un'intesa con l'un l'altro.
+
+PROTARCO: Come intendi?
+
+SOCRATE: Dovrò io, Protarco, sentirmi porre da te la mia stessa domanda?
+
+Protarco: Quale domanda?
+
+SOCRATE: Chiedimi se la sapienza, la scienza e l'intelletto, e quelle altre qualità che io, quando tu mi domandasti da principio quale sia la natura del bene, affermai essere buone, non si trovino nel medesimo caso dei piaceri di cui parlasti.
+
+PROTARCO: Che vuoi dire?
+
+SOCRATE: Le scienze sono una classe numerosa, e si troverà che presentano grandi differenze. Ma anche ammettendo che, come i piaceri, esse siano opposte oltre che differenti, sarei degno del nome di dialettico se, per evitare questa difficoltà, dicessi (come tu stai dicendo del piacere) che non vi è alcuna differenza tra una scienza e un'altra; — non naufragherebbe forse l'argomento e scomparirebbe come un racconto vano, sebbene noi stessi potremmo sfuggire all'annegamento aggrappandoci a un sofisma?
+
+Non ci avvenga nulla di tutto ciò, eccetto la liberazione! Eppure mi piace la giustizia equanime che si applica a entrambi i nostri ragionamenti. Ammettiamo, allora, che vi siano molti e diversi piaceri, e molte e differenti scienze.
+
+SOCRATE: E non nascondiamo, Protarco, le differenze tra il mio bene e il tuo; ma portiamole alla luce, nella speranza che, nel metterle alla prova, esse mostrino se il piacere debba essere chiamato il bene, o la saggezza, o qualche terza qualità; poiché certamente non stiamo ora semplicemente contendendo affinché prevalga la mia opinione o la tua, ma presumo che entrambi dobbiamo combattere per la verità.
+
+PROTARCO: Certamente dobbiamo.
+
+SOCRATE: Allora abbiamo una comprensione più definita e stabiliamo il principio su cui poggia l'argomento.
+
+PROTARCO: Quale principio?
+
+SOCRATE: Un principio sul quale tutti gli uomini sono sempre in difficoltà, e alcuni uomini talvolta contro la loro volontà.
+
+PROTARCHUS: Parla più chiaramente.
+
+SOCRATE: Il principio che è appena emerso, che è una meraviglia della natura; infatti che l'uno sia molti o che i molti siano uno sono proposizioni meravigliose; e colui che afferma l'una o l'altra è molto esposto all'attacco.
+
 <span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 PROTARCHUS: Do you mean, when a person says that I, Protarchus, am by nature one and also many, dividing the single ‘me’ into many ‘me’s,’ and even opposing them as great and small, light and heavy, and in ten thousand other ways?
@@ -193,6 +299,74 @@ PROTARCHUS: Yes.
 SOCRATES: But you would not be a real musician if this was all that you knew; though if you did not know this you would know almost nothing of music.
 
 PROTARCHUS: Nothing.
+
+<span class="qlang-split" data-lang="it"></span>
+
+PROTARCO: Intendi dire, quando uno afferma che io, Protarco, sono per natura uno e anche molti, dividendo l’unico “me” in molti “me”, e persino contrapponendoli come grande e piccolo, leggero e pesante, e in diecimila altri modi?
+
+[SOCRATE](/figures/socrates): Quelli, Protarco, sono i paradossi comuni e riconosciuti circa l'uno e i molti, che, oserei dire, tutti hanno ormai convenuto di liquidare come puerili e ovvii e dannosi al vero corso del pensiero; e non maggiore favore è mostrato a quell'altro rompicapo, in cui uno dimostra che i membri e le parti di qualsiasi cosa sono divisi, e poi, confessando che sono tutti uno, dice ridendo in confutazione delle proprie parole: Ecco, qui è un [miracolo](/concepts/miracle), l'uno è molti e infiniti, e i molti sono solo uno.
+
+PROTARCO: Ma che cosa, o Socrate, sono quelle altre meraviglie congiunte con questo soggetto, le quali, come tu accenni, non sono ancora divenute comuni e riconosciute?
+
+SOCRATE: Quando, ragazzo mio, l'uno non appartiene alla classe delle cose che nascono e periscono, come negli esempi che andavamo adducendo, poiché in quei casi, e quando l'unità è di questa natura concreta, vi è, come dicevo, un consenso universale che non è necessaria alcuna confutazione; ma quando si afferma che l'uomo è uno, o il bue è uno, o la [bellezza](/concepts/beauty) è una, o il bene è uno, allora l'interesse che si annette a queste e simili unità e il tentativo che si fa di dividerle dà origine a una controversia.
+
+PROTARCO: Di quale natura?
+
+SOCRATE: In primo luogo, quanto al fatto se queste unità abbiano una reale esistenza; e poi come ciascuna unità individuale, essendo sempre la stessa, e incapace tanto di generazione quanto di distruzione, ma conservando una permanente individualità, possa essere concepita o come dispersa e moltiplicata nell'[infinità](/concepts/infinity) del mondo della generazione, o come ancora intera e tuttavia divisa da se stessa, la qual cosa ultima sembrerebbe essere la più grande impossibilità di tutte, poiché come può una stessa cosa essere al tempo stesso in una e in molte cose? Queste, Protarco, sono le vere difficoltà, e questo è l'uno e i molti a cui si riferiscono; esse sono fonte di grande perplessità se mal decise, e la loro retta determinazione è molto utile.
+
+PROTARCO: Allora, Socrate, cominciamo col chiarire queste questioni.
+
+Questo è ciò che vorrei.
+
+E son certo che tutti i miei altri amici saranno lieti di udirne discutere; Filebo, fortunatamente per noi, non è disposto a muoversi, e faremo meglio a non stuzzicarlo con domande.
+
+SOCRATE: Bene; e da dove cominceremo questa grande e multiforme battaglia, in cui tanti e così vari punti sono in questione? Cominceremo così?
+
+PROTARCHUS: Come?
+
+SOCRATE: Noi diciamo che l'uno e i molti si identificano per mezzo del pensiero, e che ora, come già nel passato, corrono insieme dentro e fuori d'ogni parola proferita, e che questa loro unione non cesserà mai, né ora comincia, ma è, come io credo, qualità eterna del pensiero stesso, che non invecchia mai. Ogni giovane, quando assaggia per la prima volta queste sottigliezze, si diletta, e s'immagina di aver trovato un tesoro di sapienza; nel primo entusiasmo della sua gioia non lascia pietra, o piuttosto pensiero, intentato, ora avvolgendo i molti nell'uno e impastandoli insieme, ora spiegandoli e dividendoli; egli confonde se stesso prima e sopra tutto, e poi si accinge a confondere i suoi vicini, siano più vecchi o più giovani o della sua stessa età — non fa differenza; non risparmia né padre né madre; nessun essere umano che abbia orecchi è al sicuro da lui, a stento persino il suo cane, e un barbaro non avrebbe [possibilità](/concepts/fortune) di sfuggirgli, se solo si potesse trovare un interprete.
+
+PROTARCO: Considerando, Socrate, quanti siamo, e che tutti siamo giovani, non v'è pericolo che noi e Filebo ti assaliamo tutti, se ci maltratti? Capiamo ciò che intendi; ma non v'è incantesimo con cui possiamo dissipare tutta questa confusione, né via più eccellente per giungere alla verità? Se v'è, speriamo che tu ci guidi su quella via, e noi faremo del nostro meglio per seguirti, poiché l'indagine in cui siamo impegnati, Socrate, non è di poca importanza.
+
+Tutt'altro che di poca importanza, miei giovani, come vi chiama Filebo, e non v'è né vi sarà mai una via migliore della mia prediletta, la quale nondimeno già spesso mi ha abbandonato e lasciato inerme nell'ora del bisogno.
+
+PROTARCO: Dicci che cos'è.
+
+SOCRATE: Quella che può essere facilmente indicata, ma non è affatto facile da applicare; essa è la madre di tutte le scoperte nelle arti.
+
+PROTARCHUS: Dicci che cosa sia.
+
+SOCRATE: Un dono del cielo, che, come io credo, gli dèi gettarono tra gli uomini per le mani di un nuovo Prometeo, e con esso un bagliore di luce; e gli antichi, che erano migliori di noi e più vicini agli dèi di quanto non siamo noi, ci tramandarono la tradizione, che tutte le cose che si dicono essere sono composte di uno e di molti, e hanno in sé impiantati il finito e l'infinito: vedendo, dunque, che tale è l'ordine del mondo, anche noi dobbiamo in ogni ricerca cominciare col porre una sola idea di ciò che forma l'oggetto della ricerca; questa unità la troveremo in ogni cosa. Trovatala, possiamo poi procedere a cercarne due, se ve ne sono due, o, altrimenti, tre o qualche altro numero, suddividendo ciascuna di queste unità, finché alla fine l'unità da cui siamo partiti non si mostri non solo una e molteplice e infinita, ma anche un numero definito; non si deve permettere all'infinito di accostarsi al molteplice, finché non sia stato scoperto l'intero numero delle specie intermedie tra l'unità e l'infinito — allora, e solo allora, possiamo riposarci dalla divisione, e, senza più preoccuparci degli innumerevoli individui, lasciarli cadere nell'infinito. Questo, come dicevo, è il modo di considerare e apprendere e insegnare gli uni agli altri, che gli dèi ci hanno tramandato. Ma i saggi del nostro tempo sono o troppo rapidi o troppo lenti nel concepire la pluralità nell'unità. Non avendo [metodo](/axes/method), fanno il loro uno e molti alla ventura, e dall'unità passano subito all'infinito; i passi intermedi non vengono mai loro in mente. E questo, ripeto, è ciò che fa la differenza tra la mera arte della disputa e la vera [dialettica](/positions/dialectic).
+
+PROTARCO: Credo di comprenderti in parte, Socrate, ma desidererei avere una nozione più chiara di ciò che vai dicendo.
+
+Posso illustrare il mio significato con le lettere dell'alfabeto, Protarco, che fosti costretto a imparare da fanciullo.
+
+PROTARCO: In che modo essi forniscono un'illustrazione?
+
+SOCRATE: Il suono che passa attraverso le labbra, sia di un individuo sia di tutti gli uomini, è uno e tuttavia infinito.
+
+PROTARCO: Verissimo.
+
+Eppure non è conoscendo né che il suono è uno né che il suono è infinito che siamo perfetti nell'arte del discorso, ma la conoscenza del numero e della natura dei suoni è ciò che rende un uomo grammatico.
+
+PROTARCO: Verissimo.
+
+SOCRATE: E la conoscenza che rende un uomo musicista è dello stesso genere.
+
+PROTARCO: Come sarebbe?
+
+SOCRATE: Il suono è uno nella musica come nella grammatica?
+
+PROTARCHUS: Certamente.
+
+SOCRATE: E vi è una nota più alta e una nota più bassa, e una nota di uguale altezza: — possiamo affermare tanto?
+
+PROTARCHUS: Sì.
+
+SOCRATE: Ma non saresti un vero musicista se questo fosse tutto ciò che sapessi; tuttavia, se non sapessi questo, non sapresti quasi nulla di musica.
+
+PROTARCHUS: Nulla.
 
 <span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -289,6 +463,102 @@ PROTARCHUS: Ask.
 SOCRATES: Would you choose, Protarchus, to live all your life long in the enjoyment of the greatest pleasures?
 
 PROTARCHUS: Certainly I should.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Ma quando avrai imparato quali suoni sono acuti e quali gravi, e il numero e la natura degli intervalli e i loro limiti o proporzioni, e i sistemi composti di essi, che i nostri padri scoprirono e hanno tramandato a noi loro discendenti sotto il nome di armonie; e le affezioni che ad essi corrispondono nei movimenti del corpo umano, le quali, misurate coi numeri, dovrebbero, come essi dicono, esser chiamate ritmi e misure; ed essi ci dicono che lo stesso principio si deve applicare a ogni uno e a molti; — quando, dico, avrai imparato tutto questo, allora, mio caro amico, sei perfetto; e si può dire che tu intenda ogni altro soggetto, quando ne avrai una simile comprensione. Ma l'[infinità](/concepts/infinity) dei generi e l'infinità degli individui che vi è in ciascuno di essi, quando non sia classificata, crea in ciascuno di noi uno stato d'infinita ignoranza; e chi non cerca mai il numero in alcuna cosa, non sarà egli stesso cercato nel numero degli uomini illustri.
+
+Protarco: Penso che ciò che Socrate sta ora dicendo sia eccellente, Filebo.
+
+Anch'io la penso così, ma in che modo le sue parole ci riguardano e riguardano il ragionamento?
+
+Socrate: Filebo ha ragione a farci quella domanda, Protarco.
+
+PROTARCO: In verità lo è, e devi rispondergli.
+
+SOCRATE: Lo farò; ma devi concedermi di fare prima una piccola osservazione su queste cose; dicevo che chi comincia da una qualsivoglia unità individuale deve procedere da quella, non all'infinito, ma a un numero definito, e ora dico inversamente che chi deve cominciare dall'infinito non deve saltare all'unità, ma deve cercare un qualche numero che rappresenti una certa quantità, e così da tutte terminare in uno. E ora torniamo, per illustrare il nostro principio, al caso delle lettere.
+
+PROTARCO: Che vuoi dire?
+
+SOCRATE: Un qualche dio o uomo divino, che nella leggenda egiziana si dice sia stato Theuth, osservando che la voce umana era infinita, distinse per primo in questa infinità un certo numero di vocali, e poi altre lettere che avevano suono, ma non erano vocali pure (cioè le semivocali); anche queste esistono in numero definito; e infine distinse una terza classe di lettere che ora chiamiamo mute, senza voce e senza suono, e divise queste, e similmente le altre due classi di vocali e semivocali, nei singoli suoni, e ne disse il numero, e diede a ciascuna e a tutte il nome di lettere; e osservando che nessuno di noi poteva apprenderne una sola senza apprenderle tutte, e in considerazione di questo comune legame che in certo modo le univa, assegnò a tutte loro un'unica arte, e questa la chiamò arte della grammatica o delle lettere.
+
+L'illustrazione, Protarco, mi è stata d'aiuto per comprendere l'enunciato originario, ma avverto ancora il difetto di cui or ora mi lamentavo.
+
+SOCRATE: Intendi chiedere, Filebo, che cosa questo abbia a che fare con l'argomento?
+
+Filebo: Sì, è una domanda che Protarco ed io ci chiediamo da lungo tempo.
+
+SOCRATE: Certamente sei già pervenuto alla risposta alla domanda che, come dici, vai chiedendo da così lungo tempo?
+
+FILEBO: Come sarebbe?
+
+SOCRATE: Non cominciammo forse col ricercare quale dei due, piacere e saggezza, fosse da preferire?
+
+FILEBO: Certamente.
+
+SOCRATE: E affermiamo che ciascuno di essi è uno?
+
+FILEBO: Vero.
+
+SOCRATE: E la questione precisa a cui la discussione precedente desidera una risposta è come essi siano uno e anche molti (cioè, come abbiano un solo genere e molte specie), e non siano insieme infiniti, e quale numero di specie si debba assegnare a ciascuno di essi prima che passino nell'infinito (cioè nel numero infinito degli individui).
+
+Protarco: Questa è una questione molto seria, Filebo, alla quale Socrate ci ha ingegnosamente ricondotti, e ti prego di considerare quale di noi debba rispondergli; potrebbe esservi qualcosa di ridicolo nel fatto che io non sappia rispondere, e imponga quindi il compito a te, pur avendo assunto l'intero carico dell'argomento; ma se nessuno dei due fosse in grado di rispondere, il risultato, mi sembra, sarebbe ancora più ridicolo. Consideriamo, allora, che cosa dobbiamo fare: — Socrate, se l'ho inteso bene, domanda se non vi siano specie di piacere, e quale sia il loro numero e la loro natura, e lo stesso per la saggezza.
+
+Verissimo, o figlio di Callia; e il ragionamento precedente mostrò che, se non siamo capaci di distinguere i generi di tutto ciò che ha unità, somiglianza, identità o i loro contrari, nessuno di noi sarà della minima utilità in alcuna ricerca.
+
+Protarco: Questo mi sembra assai vicino alla verità, Socrate. Felice sarebbe il sapiente se conoscesse tutte le cose, e la seconda cosa migliore per lui è che conosca se stesso. Perché dico questo in questo momento? Te lo dirò. Tu, Socrate, ci hai concesso questa opportunità di conversare con te, e sei pronto ad aiutarci a determinare quale sia il migliore dei beni umani. Quando Filebo disse che il piacere e la delizia e il godimento e simili erano il sommo bene, tu rispondesti — No, non quelli, ma un'altra classe di beni; e noi continuamente ci ricordiamo di ciò che dicesti, e molto opportunamente, affinché non dimentichiamo di esaminare e confrontare i due. E questi beni, che a tuo parere devono essere designati come superiori al piacere, e sono i veri oggetti di ricerca, sono la mente e la conoscenza e l'intelletto e l'arte, e simili. Vi fu una disputa su quali fossero i migliori, e noi scherzosamente minacciammo che non ti sarebbe stato concesso di tornare a casa finché la questione non fosse risolta; e tu accettasti, e ti ponesti a nostra disposizione. E ora, come dicono i bambini, ciò che è stato lealmente dato non può essere ripreso; cessa dunque di combattere contro di noi in questo modo.
+
+SOCRATE: In che modo?
+
+Non ci sconcertare, e non continuare a rivolgerci domande alle quali non abbiamo ancora risposta sufficiente; non immaginiamo che uno sconcerto generale di tutti noi debba essere la fine della nostra discussione; ma se non siamo in grado di rispondere, rispondi tu, come hai promesso. Considera, quindi, se vorrai dividere il piacere e la conoscenza secondo le loro specie; oppure puoi lasciar cadere la questione, se sei in grado e disposto a trovare qualche altro modo di chiarire la nostra controversia.
+
+SOCRATE: Se dici questo, non ho nulla da temere, poiché le parole «se vuoi» dissipano ogni mio timore; e inoltre un dio sembra avermi richiamato alla mente qualcosa.
+
+FILEBO: Cos'è quello?
+
+SOCRATE: Ricordo di aver udito gran tempo fa certi discorsi intorno al piacere e alla sapienza, non so dire se desto o in sogno; in essi si sosteneva che né l'uno né l'altro di essi era il bene, ma una terza cosa, diversa da entrambi e migliore di ciascuno dei due. Se ciò sarà chiaramente stabilito, allora il piacere perderà la vittoria, poiché il bene cesserà di essere identificato con lei: — non ho forse ragione?
+
+PROTARCHUS: Sì.
+
+SOCRATE: E cesserà di esservi alcun bisogno di distinguere le specie dei piaceri, come sono incline a credere, ma questo apparirà più chiaramente man mano che procediamo.
+
+Eccellente, Socrate; ti prego di procedere come proponi.
+
+SOCRATE: Ma concordiamo prima su alcuni piccoli punti.
+
+PROTARCO: Che cosa sono?
+
+SOCRATE: Il bene è perfetto o imperfetto?
+
+PROTARCO: La più perfetta, Socrate, di tutte le cose.
+
+SOCRATE: E il bene è sufficiente?
+
+PROTARCHUS: Sì, certamente, e in un grado che supera tutte le altre cose.
+
+SOCRATE: E nessuno può negare che tutti gli esseri percipienti desiderano e ricercano il bene, e sono ansiosi di afferrarlo e di averlo presso di sé, e non si curano di conseguire alcunché che non sia accompagnato dal bene.
+
+PROTARCO: Ciò è innegabile.
+
+SOCRATE: Ora separiamo la vita del piacere dalla vita della saggezza, e passiamole in rassegna.
+
+PROTARCO: Come intendi?
+
+Non vi sia sapienza nella vita del piacere, né piacere nella vita della sapienza, poiché se uno dei due è il sommo bene, non può supporsi che manchi di alcunché; ma se si mostra che uno dei due manca di alcunché, allora non può essere realmente il sommo bene.
+
+PROTARCHUS: Impossibile.
+
+SOCRATE: E ci aiuterai a mettere alla prova queste due vite?
+
+PROTARCHUS: Certamente.
+
+SOCRATES: Allora rispondi.
+
+PROTARCO: Chiedi.
+
+SOCRATE: Vorresti scegliere, Protarco, di vivere per tutta la tua vita nel godimento dei più grandi piaceri?
+
+PROTARCO: Certamente dovrei.
 
 <span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -411,6 +681,128 @@ PROTARCHUS: Yes.
 SOCRATES: Then, says the argument, there is never any end of them, and being endless they must also be infinite.
 
 PROTARCHUS: Yes, Socrates, that is exceedingly true.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Riteresti che ti mancasse ancora qualcosa, se avessi un piacere perfetto?
+
+PROTARCHUS: Certamente no.
+
+SOCRATE: Rifletti; non vorresti la saggezza, l'intelligenza e la previdenza, e simili qualità? non vorresti almeno la vista?
+
+PROTARCHUS: Perché dovrei? Avendo il piacere, avrei tutte le cose.
+
+SOCRATE: Vivendo così, godresti sempre, per tutta la vita, dei più grandi piaceri?
+
+PROTARCO: Dovrei.
+
+Ma se tu non avessi né mente, né memoria, né conoscenza, né opinione vera, in primo luogo saresti del tutto ignaro se provassi piacere o no, perché saresti interamente privo di intelligenza.
+
+PROTARCHUS: Certamente.
+
+SOCRATE: E similmente, se non avessi memoria, non ricorderesti di essere mai stato lieto, né ti rimarrebbe il minimo ricordo del piacere che provi in qualsiasi momento; e se non avessi opinione vera, non penseresti di essere lieto quando lo sei; e se non avessi il potere di calcolare, non saresti in grado di calcolare il piacere futuro, e la tua vita sarebbe la vita, non di un uomo, ma di un'ostrica o 'pulmo marinus'. Potrebbe essere altrimenti?
+
+PROTARCO: No.
+
+SOCRATE: Ma è tale vita eligibile?
+
+Protarco: Non posso risponderti, Socrate; l'argomento mi ha tolto il potere della parola.
+
+SOCRATE: Dobbiamo tenerci di buon animo; — volgiamoci ora alla vita della mente ed esaminiamola a nostra volta.
+
+E che cos'è questa vita della mente?
+
+SOCRATE: Voglio sapere se qualcuno di noi acconsentirebbe a vivere, avendo sapienza e mente e conoscenza e memoria di tutte le cose, ma non avendo alcuna sensazione di piacere o dolore, ed essendo del tutto insensibile a questi e a simili sentimenti?
+
+PROTARCO: Né l'una né l'altra vita, o Socrate, mi sembra degna di scelta, né potrà, per quanto io possa immaginare, essere prescelta da alcun altro.
+
+Che diresti, Protarco, di entrambe queste cose in una sola, o di una che fosse formata dall'unione delle due?
+
+Protarco: Dall'unione, cioè, del piacere con la mente e la sapienza?
+
+SOCRATE: Sì, è quella la vita che intendo.
+
+PROTARCO: Non può esserci divergenza di opinione; non alcuni, ma tutti sceglierebbero certamente questa terza piuttosto che l'una o l'altra delle altre due, e in aggiunta a esse.
+
+SOCRATE: Ma vedi la conseguenza?
+
+Sì, certamente. La conseguenza è che due delle tre vite che sono state proposte non sono né sufficienti né eligibili per l'uomo o per l'animale.
+
+SOCRATE: Dunque ora non può esservi dubbio che nessuno dei due abbia il bene; poiché quello che lo avesse sarebbe certamente stato sufficiente e perfetto e preferibile per ogni creatura vivente o cosa che fosse capace di vivere una tale vita; e se alcuno di noi avesse scelto un'altra cosa, avrebbe scelto contro la natura del veramente preferibile, e non di sua propria [libera volontà](/positions/free_will), ma o per ignoranza o per qualche infelice necessità.
+
+Certamente, ciò sembra essere vero.
+
+SOCRATE: E non ho forse mostrato a sufficienza che la dèa di Filebo non è da considerarsi identica al bene?
+
+Nemmeno la tua ‘mente’ è il bene, Socrate, poiché essa sarà esposta alle stesse obiezioni.
+
+SOCRATE: Forse, Filebo, hai ragione a dire così della mia ‘mente’; ma della vera, che è anche la mente divina, ben altrimenti. Tuttavia, non pretenderò al momento il primo posto per la mente contro la vita mista; ma dobbiamo giungere a qualche accordo circa il secondo posto. Infatti potresti affermare tu il piacere, e io la mente, essere la causa della vita mista; e in tal caso, sebbene nessuno dei due sarebbe il bene, uno di essi potrebbe essere immaginato come causa del bene. E potrei procedere oltre ad argomentare in opposizione a Filebo, che l'elemento che rende questa vita mista eleggibile e buona è più affine e più simile alla mente che al piacere. E se questo è vero, non si può dire che il piacere partecipi veramente né del primo né del secondo posto, e non raggiunge, se posso fidarmi della mia mente, nemmeno il terzo.
+
+Veramente, o Socrate, il piacere mi sembra che abbia avuto una caduta; combattendo per la palma, è stato colpito dal ragionamento ed è prostrato. Devo dire che anche la mente sarebbe caduta, e può quindi credersi che mostri prudenza non avanzando una simile pretesa. E se il piacere fosse privato non solo del primo, ma anche del secondo posto, sarebbe terribilmente danneggiato agli occhi dei suoi ammiratori, ché neppure a loro apparirebbe ancora così bello come prima.
+
+SOCRATE: Ebbene, ma non faremmo meglio a lasciarla ora, e non addolorarla applicando la prova cruciale, e infine smascherandola?
+
+PROTARCO: Sciocchezze, Socrate.
+
+SOCRATE: Perché? perché dissi che faremmo meglio a non affliggere il piacere, il che è un'impossibilità?
+
+Protarco: Sì, e più di questo, perché non sembri essere consapevole che nessuno di noi ti lascerà andare a casa finché tu non abbia terminato il ragionamento.
+
+Socrate: Per gli dèi! Protarco, quella sarà una faccenda noiosa, e in questo momento per nulla facile. Perché, andando in guerra per la causa della mente, io che aspiro al secondo premio, dovrei avere armi di altra specie da quelle che adoperai prima; alcune, però, delle vecchie potrebbero ancora servire. E devo allora concludere il ragionamento?
+
+PROTARCHUS: Certamente devi.
+
+Socrate: Siamo molto accurati nel porre le fondamenta.
+
+PROTARCO: Che vuoi dire?
+
+Dividiamo tutte le cose esistenti in due, o piuttosto, se non hai obiezioni, in tre classi.
+
+PROTARCHUS: In base a quale principio faresti la divisione?
+
+SOCRATE: Prendiamo alcune delle nostre nozioni appena trovate.
+
+PROTARCO: Quale di essi?
+
+SOCRATE: Non dicevamo forse che Dio rivelò un elemento finito dell’esistenza, e anche un elemento infinito?
+
+PROTARCHUS: Certamente.
+
+SOCRATE: Assumiamo questi due principi, e anche un terzo, che è composto da essi; ma temo di essere ridicolmente goffo in questi processi di divisione ed enumerazione.
+
+Protarco: Che intendi dire, mio buon amico?
+
+Io dico che una quarta classe è ancora necessaria.
+
+PROTARCHUS: Che cosa sarà?
+
+SOCRATE: Trova la causa del terzo o composto, e aggiungi questa come quarta classe alle tre precedenti.
+
+PROTARCO: E vorresti avere una quinta classe o causa di risoluzione oltre a una causa di composizione?
+
+SOCRATE: No, credo, per ora; ma se in futuro vorrò un quinto, mi permetterai di averlo.
+
+PROTARCHUS: Certamente.
+
+SOCRATE: Cominciamo dai primi tre; e poiché troviamo due dei tre grandemente divisi e dispersi, sforziamoci di riunirli, e vediamo come in ciascuno di essi vi sia un uno e molti.
+
+Protarco: Se volessi spiegarmene un poco di più, forse potrei riuscire a seguirti.
+
+SOCRATE: Ebbene, le due classi sono le stesse che ho menzionato prima, l'una il finito, e l'altra l'infinito; mostrerò dapprima che l'infinito è in certo senso molteplice, e il finito potrà essere discusso in seguito.
+
+PROTARCO: Concordo.
+
+SOCRATE: E ora considera bene; poiché la questione alla quale invito la tua attenzione è difficile e controversa. Quando parli del più caldo e del più freddo, puoi concepire alcun limite in quelle qualità? Non è forse il più e il meno, che dimora nella loro stessa natura, a impedire che abbiano un termine? Poiché se avessero un termine, il più e il meno avrebbero anch'essi un termine.
+
+PROTARCHUS: Ciò è verissimo.
+
+SOCRATE: Sempre, come diciamo, nel più caldo e nel più freddo entra un più e un meno.
+
+PROTARCHUS: Sì.
+
+SOCRATE: Allora, dice il ragionamento, non vi è mai fine ad essi, ed essendo senza fine devono anche essere infiniti.
+
+PROTARCHUS: Sì, Socrate, ciò è sommamente vero.
 
 <span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -562,6 +954,156 @@ SOCRATES: This is evidently comprehended in the third or mixed class; which is n
 
 PROTARCHUS: Most true.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Sì, mio caro Protarco, e la tua risposta mi ricorda che un'espressione come 'eccessivamente', che hai appena pronunciato, e anche il termine 'dolcemente', hanno lo stesso significato di più o meno; poiché ogni volta che compaiono non ammettono l'esistenza della quantità — essi introducono sempre gradi nelle azioni, istituendo un confronto di un più o meno eccessivo o di un più o meno dolce, e a ogni creazione del più o del meno, la quantità scompare. Infatti, come dicevo or ora, se quantità e misura non scomparissero, ma fosse loro permesso di intromettersi nella sfera del più e del meno e degli altri comparativi, questi ultimi sarebbero scacciati dal loro proprio dominio. Una volta ammessa la quantità determinata, non può più esserci un 'più caldo' o un 'più freddo' (poiché questi progrediscono sempre e non sono mai in uno stato stabile); ma la quantità determinata è in quiete, e ha cessato di [progredire](/positions/progress). Il che prova che i comparativi, come il più caldo e il più freddo, devono essere annoverati nella classe dell'infinito.
+
+PROTARCHUS: La tua osservazione ha certamente l'aspetto della verità, Socrate; ma questi argomenti, come dicevi, sono difficili a seguire da principio. Penso tuttavia che, se potessi udire il ragionamento ripetuto da te una o due volte, vi sarebbe tra noi un accordo sostanziale.
+
+SOCRATE: Sì, e cercherò di soddisfare il tuo desiderio; ma, poiché preferirei non perdere tempo nell'enumerazione di infiniti particolari, fammi sapere se non mi è lecito assumere come nota dell'infinito —
+
+PROTARCO: Che?
+
+SOCRATE: Voglio sapere se le cose che a noi appaiono ammettere il più e il meno, o che sono designate dalle parole ‘eccessivamente,’ ‘dolcemente,’ ‘estremamente’ e simili, non possano essere riferite alla classe dell’infinito, che è la loro unità, poiché, come fu asserito nell’argomento precedente, tutte le cose che erano state divise e disperse dovrebbero essere ricondotte insieme, e avere il segno o sigillo di una qualche natura unica, se possibile, posto su di esse — ricordi?
+
+PROTARCHUS: Sì.
+
+SOCRATE: E tutte le cose che non ammettono il più e il meno, ma ammettono i loro contrari, vale a dire, in primo luogo, l'uguaglianza e l'uguale, o ancora il doppio, o qualsiasi altro rapporto di numero e misura — tutte queste, io penso, possono essere da noi giustamente annoverate nella classe del limitato o finito; che ne dici?
+
+PROTARCO: Eccellente, Socrate.
+
+E ora quale natura attribuiremo al terzo, o composto, genere?
+
+PROTARCO: Tu, credo, dovrai dirmelo.
+
+SOCRATE: Piuttosto Dio ti dirà, se vi sia alcun Dio che ascolti le mie preghiere.
+
+PROTARCHUS: Innalza una preghiera, dunque, e pensa.
+
+SOCRATE: Sto pensando, Protarco, e credo che qualche Dio ci sia stato amico.
+
+Che vuoi dire, e quale prova hai da offrire di ciò che dici?
+
+SOCRATE: Io te lo dirò, e tu ascolta le mie parole.
+
+PROTARCO: Procedi.
+
+SOCRATE: Non parlavamo poco fa del più caldo e del più freddo?
+
+PROTARCHUS: Vero.
+
+SOCRATE: Aggiungi a questi il più secco, il più umido, il più, il meno, il più veloce, il più lento, il più grande, il più piccolo, e tutto ciò che nel ragionamento precedente abbiamo posto sotto l'unità del più e del meno.
+
+PROTARCHUS: Nella classe dell'infinito, vuoi dire?
+
+SOCRATE: Sì; e ora mescola questo con l'altro.
+
+PROTARCO: Che cos'è l'altro.
+
+SOCRATE: Il genere del finito che avremmo dovuto riunire come facemmo con l'infinito; ma, forse, sarà lo stesso se lo facciamo ora; — quando i due sono combinati, apparirà un terzo.
+
+PROTARCO: Che cosa intendi per la classe del finito?
+
+SOCRATE: La classe dell'eguale e del doppio, e ogni classe che pone fine alla differenza e all'opposizione, e che introducendo il numero crea armonia e proporzione tra gli elementi diversi.
+
+Comprendo; mi sembra che tu voglia dire che i vari contrari, quando tu mescoli con essi la classe del finito, assumono certe forme.
+
+Sì, è questo il mio intendimento.
+
+PROTARCO: Procedi.
+
+Non procura forse la salute la retta partecipazione al finito — nella malattia, per esempio?
+
+PROTARCHUS: Certamente.
+
+SOCRATE: E mentre l'acuto e il grave, il veloce e il lento sono infiniti o illimitati, non introduce forse l'aggiunta dei principi suddetti un limite, e non perfeziona l'intera compagine della musica?
+
+PROTARCHUS: Sì, certamente.
+
+SOCRATE: O ancora, quando il freddo e il caldo prevalgono, l'introduzione di essi non toglie forse l'eccesso e l'indefinitezza, e non infonde moderazione e armonia?
+
+PROTARCHUS: Certamente.
+
+SOCRATES: E da una simile mescolanza del finito e dell'infinito derivano le stagioni, e tutti i diletti della vita?
+
+Protarco: Verissimo.
+
+SOCRATE: Tralascio diecimila altre cose, come [bellezza](/concepts/beauty) e salute e forza, e le molte bellezze e alte perfezioni dell'anima: O mio bel Filebo, la dea, mi pare, vedendo la universale dissolutezza e malvagità di tutte le cose, e che in esse non vi era alcun limite ai piaceri e all'intemperanza, escogitò il limite della legge e dell'ordine, per cui, come tu dici, Filebo, tormenta, o come io sostengo, libera l'anima. — Che ne pensi, Protarco?
+
+PROTARCO: I suoi modi mi sono assai graditi, Socrate.
+
+SOCRATE: Osserverai che ho parlato di tre classi?
+
+PROTARCO: Sì, credo di comprenderti: vuoi dire che l'infinito è una classe, e che il finito è una seconda classe degli esseri; ma ciò che faresti essere il terzo non ne sono così certo.
+
+SOCRATE: Ciò è perché la straordinaria varietà della terza classe è troppo per te, mio caro amico; ma con l'infinito non c'era questa difficoltà, che anch'esso comprendeva molte classi, poiché tutte erano contrassegnate dalla nota del più e del meno, e perciò apparivano una.
+
+PROTARCHUS: Vero.
+
+SOCRATE: E il finito o il limite non aveva molte divisioni, e noi riconoscemmo prontamente che per natura era uno?
+
+PROTARCHUS: Sì.
+
+SOCRATE: Sì, certamente; e quando parlo della terza classe, intendimi riferirmi a qualunque progenie di queste, essendo una nascita nel vero essere, operata dalla misura che il limite introduce.
+
+PROTARCO: Comprendo.
+
+SOCRATE: Ancora v'era, come dicevamo, una quarta classe da investigare, e tu devi assistere nell'investigazione; poiché non è forse vero che tutto ciò che viene all'essere, di necessità viene all'essere attraverso una causa?
+
+Protarco: Sì, certamente; poiché come può esserci qualcosa che non ha causa?
+
+E non è forse l'agente lo stesso che la causa in tutto fuorché nel nome; l'agente e la causa possono a ragione chiamarsi uno?
+
+PROTARCO: Verissimo.
+
+SOCRATE: E lo stesso si può dire del paziente, o effetto; troveremo che anch'essi, come dicevo, differiscono solo di nome — non è vero?
+
+PROTARCO: Lo faremo.
+
+SOCRATE: L'agente o la causa conduce sempre naturalmente, e il paziente o l'effetto lo segue naturalmente?
+
+PROTARCHUS: Certamente.
+
+SOCRATE: Dunque la causa e ciò che le è subordinato nella generazione non sono la stessa cosa, ma differenti?
+
+PROTARCHUS: Vero.
+
+SOCRATE: Le cose generate e le cose dalle quali erano generate non fornivano forse tutte e tre le classi?
+
+PROTARCHUS: Sì.
+
+SOCRATE: E il creatore o causa di essi è stato dimostrato in modo soddisfacente essere distinto da essi, — e può pertanto essere chiamato un quarto principio?
+
+PROTARCO: Chiamiamola così.
+
+SOCRATE: Giustissimo; ma ora, avendo distinto i quattro, credo che sia meglio rinfrescarci la memoria ricapitolando ciascuno di essi in ordine.
+
+PROTARCO: Senz'altro.
+
+SOCRATE: Allora, la prima la chiamerò infinito o illimitato, e la seconda finito o limitato; quindi segue la terza, un'essenza composta e generata; e non credo di errare di molto nel considerare la quarta la causa della mescolanza e della generazione.
+
+PROTARCHUS: Certamente no.
+
+SOCRATE: E ora qual è la prossima domanda, e come giungemmo qui? Non stavamo forse indagando se il secondo posto appartenesse al piacere o alla saggezza?
+
+PROTARCHUS: Eravamo.
+
+SOCRATE: E ora, avendo determinato questi punti, non saremo forse meglio in grado di decidere circa il primo e il secondo posto, che era l'oggetto originario della disputa?
+
+PROTARCO: Oserei dire.
+
+SOCRATE: Dicevamo, se ricordi, che la vita mista di piacere e sapienza era la vincitrice — non è vero?
+
+PROTARCHUS: Vero.
+
+SOCRATE: E vediamo quale sia il luogo e la natura di questa vita, e a quale classe essa debba essere assegnata?
+
+PROTARCO: Oltre ogni dubbio.
+
+SOCRATE: Ciò è evidentemente compreso nella terza o mista classe; la quale non è composta di due particolari ingredienti, ma di tutti gli elementi dell'[infinito](/concepts/infinity), legati dal finito, e può quindi essere veramente detta comprendere la vita vincitrice.
+
+Protarco: Verissimo.
+
 <span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): And what shall we say, Philebus, of your life which is all sweetness; and in which of the aforesaid classes is that to be placed? Perhaps you will allow me to ask you a question before you answer?
@@ -695,6 +1237,140 @@ PROTARCHUS: Yes.
 SOCRATES: And let us remember, too, of both of them, (1) that mind was akin to the cause and of this family; and (2) that pleasure is infinite and belongs to the class which neither has, nor ever will have in itself, a beginning, middle, or end of its own.
 
 PROTARCHUS: I shall be sure to remember.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): E che diremo, Filebo, della tua vita che è tutta dolcezza; e in quale delle suddette classi è da porre quella? Forse mi permetterai di farti una domanda prima che tu risponda?
+
+Fammi sentire.
+
+SOCRATE: Hanno un limite il piacere e il dolore, o appartengono alla classe che ammette il più e il meno?
+
+FILEBO: Essi appartengono alla classe che ammette il più, Socrate; imperocché la voluttà non sarebbe perfettamente buona, se ella non fosse infinita in quantità e grado.
+
+SOCRATE: Né il dolore, Filebo, sarebbe perfettamente male. E quindi l'infinito non può essere quell'elemento che conferisce al piacere un certo grado di bene. Ma ora — ammettendo, se vuoi, che il piacere sia della natura dell'infinito — in quale delle suddette classi, o Protarco e Filebo, possiamo senza irriverenza porre la sapienza, la conoscenza e la mente? E siamo cauti, ché io penso che il pericolo sarà gravissimo se erriamo su questo punto.
+
+Filebo: Tu magnifichi, Socrate, l'importanza del tuo dio prediletto.
+
+SOCRATE: E anche tu, amico mio, stai magnificando la tua dea prediletta; ma nondimeno devo pregarti di rispondere alla domanda.
+
+Protarco: Socrate ha perfettamente ragione, Filebo, e dobbiamo sottometterci a lui.
+
+E non eri forse tu, Protarco, che ti proponesti di rispondere in mia vece?
+
+Certamente lo dissi; ma ora mi trovo in grande difficoltà, e devo supplicarvi, o Socrate, di essere nostro portavoce, affinché non diciamo nulla di errato o di irriverente riguardo al vostro prediletto.
+
+SOCRATE: Debbo ubbidirti, Protarco; né è difficile il compito che m'imponi; ma ti ho io davvero, come Filebo insinua, sconcertato con la mia scherzosa solennità, quando ti domandai a quale classe appartengano la mente e la conoscenza?
+
+PROTARCO: L'hai fatto, in verità, Socrate.
+
+SOCRATE: Tuttavia la risposta è facile, poiché tutti i filosofi affermano a una voce che la mente è il re del cielo e della terra — in realtà essi magnificano se stessi. E forse hanno ragione. Ma nondimeno vorrei considerare la specie della mente, se non hai obiezioni, un po' più compiutamente.
+
+Segui il tuo corso, Socrate, e non ti curare della lunghezza; non ci stancheremo di te.
+
+SOCRATE: Molto bene; cominciamo allora, Protarco, ponendo una domanda.
+
+Protarco: Quale domanda?
+
+SOCRATE: Se tutto questo che essi chiamano universo è abbandonato alla guida dell'irragionevolezza e del [fortuito](/concepts/fortune) miscuglio, o, al contrario, come i nostri padri hanno dichiarato, ordinato e governato da una meravigliosa intelligenza e saggezza.
+
+Protarco: Lontane quanto mai sono le due affermazioni, illustre Socrate: infatti quella che poco fa mi dicevi mi sembra empietà; ma l'altra affermazione, che la mente ordina tutte le cose, è degna dell'aspetto del mondo, e del sole, e della luna, e delle stelle e dell'intero giro dei cieli; né mai dirò o penserò altrimenti.
+
+Concorderemo noi adunque con gli antichi nel mantenere questa dottrina, — non già riaffermando semplicemente le nozioni altrui, senza rischio per noi stessi, — ma prenderemo parte al pericolo e assumeremo la nostra parte del biasimo che ci attenderà, quando un individuo ingegnoso dichiara che tutto è disordine?
+
+PROTARCO: Questo sarebbe certamente il mio desiderio.
+
+SOCRATE: Allora, ora ti prego di considerare il passo successivo dell'argomento.
+
+PROTARCHUS: Fammi sentire.
+
+SOCRATE: Vediamo che gli elementi che entrano nella natura dei corpi di tutti gli animali, fuoco, acqua, aria e, come esclama il marinaio sballottato dalla tempesta, 'terra' (cioè la terra), riappaiono nella costituzione del mondo.
+
+Il proverbio può applicarsi a noi; ché davvero la tempesta si addensa sopra di noi, e siamo allo stremo dell’ingegno.
+
+SOCRATE: C'è qualcosa da osservare riguardo a ciascuno di questi elementi.
+
+PROTARCO: Che cos'è?
+
+SOCRATE: Solo una piccola frazione di ciascuno di essi esiste in noi, e di qualità meschina, e non in alcun modo pura, né avente alcuna potenza degna della sua natura. Un esempio basterà a provarlo per tutti; vi è fuoco in noi, e nell'universo.
+
+PROTARCHUS: Vero.
+
+SOCRATE: E non è il nostro fuoco piccolo e debole e meschino? Ma il fuoco nell'universo è meraviglioso per quantità e [bellezza](/concepts/beauty), e in ogni potere che il fuoco ha.
+
+Protarco: Verissimo.
+
+SOCRATE: E il fuoco nell'universo è nutrito, generato e retto dal fuoco in noi, o il fuoco in te e in me, e negli altri animali, è dipendente dal fuoco universale?
+
+PROTARCHUS: Questa è una domanda che non merita risposta.
+
+SOCRATE: Giusto; e diresti lo stesso, se non m'inganno, della terra che è negli animali e della terra che è nell'universo, e daresti una risposta simile riguardo a tutti gli altri elementi?
+
+E come potrebbe un uomo che desse qualsivoglia altra risposta essere reputato in sé?
+
+SOCRATE: Non penso che egli potesse — ma ora passa al punto successivo. Quando vedemmo quegli elementi dei quali abbiamo parlato raccolti in uno, non li chiamammo forse un corpo?
+
+PROTARCO: Lo facemmo.
+
+E lo stesso può dirsi del cosmo, che per la stessa ragione può essere considerato un corpo, perché composto degli stessi elementi.
+
+PROTARCO: Verissimo.
+
+SOCRATE: Ma il nostro corpo è nutrito interamente da questo corpo, o questo corpo è nutrito dal nostro corpo, derivando quindi e avendo le qualità di cui poc'anzi parlavamo?
+
+Questa, di nuovo, Socrate, è una domanda che non merita di essere posta.
+
+SOCRATES: Ebbene, dimmi, vale la pena di porre questa domanda?
+
+Protarco: Quale domanda?
+
+SOCRATE: Può dirsi che il nostro corpo abbia un'anima?
+
+PROTARCO: Chiaramente.
+
+SOCRATE: E donde viene quell’anima, mio caro Protarco, a meno che il corpo dell’universo, che contiene elementi simili a quelli dei nostri corpi ma in tutto più belli, non avesse anch’esso un’anima? Può esservi un’altra origine?
+
+Chiaramente, Socrate, quella è l'unica fonte.
+
+SOCRATE: Certamente, o Protarco; perché non possiamo certo immaginare che delle quattro classi, il finito, l'infinito, la composizione dei due, e la causa, la quarta, che entra in tutte le cose, dando ai nostri corpi le anime, e l'arte del governarsi, e del curare le malattie, e operando in altri modi per sanare e organizzare, possedendo altresì tutti gli attributi della sapienza; — non possiamo, dico, immaginare che mentre i medesimi elementi esistono, sia nell'intero cielo sia nelle grandi province del cielo, solo più belli e più puri, questa ultima non abbia anche in quella sfera più alta disegnato le cose più nobili e più belle?
+
+PROTARCO: Una tale supposizione è del tutto irragionevole.
+
+SOCRATE: Se questo fosse negato, non saremmo forse saggi nell'adottare l'altra opinione e nel sostenere che nell'universo vi è un infinito possente e un limite adeguato, di cui abbiamo spesso parlato, nonché una causa presiedente di non piccolo potere, che ordina e dispone anni, stagioni e mesi, e può essere giustamente chiamata sapienza e mente?
+
+PROTARCO: Giustissimamente.
+
+SOCRATES: And wisdom and mind cannot exist without soul?
+
+PROTARCHUS: Certamente no.
+
+SOCRATE: E nella natura divina di Zeus non diresti che vi è l'anima e la mente di un re, perché in lui vi è la potenza della causa? E altri dèi hanno altri attributi, per i quali si compiacciono di essere chiamati.
+
+PROTARCO: Verissimo.
+
+SOCRATE: Non supporre dunque che queste parole siano state da noi dette avventatamente, o Protarco, poiché esse sono in armonia con la testimonianza di coloro che anticamente dissero che la mente governa l'universo.
+
+PROTARCHUS: Vero.
+
+SOCRATE: Ed essi forniscono una risposta alla mia indagine; poiché implicano che la mente è il genitore di quella classe dei quattro che abbiamo chiamato la causa di tutto; e penso che ora tu abbia la mia risposta.
+
+Protarco: Io ho invero, e tuttavia non osservai che tu avessi risposto.
+
+SOCRATE: Uno scherzo talvolta rinfresca, Protarco, quando interrompe le cose serie.
+
+PROTARCO: Verissimo.
+
+SOCRATE: Io penso, o amico, che ora abbiamo esposto assai chiaramente a quale genere appartenga la mente e quale sia la potenza della mente.
+
+PROTARCHUS: Vero.
+
+SOCRATE: E la classe a cui appartiene il piacere è stata anch'essa scoperta da lungo tempo?
+
+PROTARCHUS: Sì.
+
+E ricordiamo anche, di entrambi, (1) che la mente era affine alla causa e di questa famiglia; e (2) che il piacere è infinito e appartiene alla classe che non ha, né mai avrà in sé, un principio, un mezzo o una fine propri.
+
+PROTARCO: Sarò certo di ricordare.
 
 <span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -867,6 +1543,178 @@ SOCRATES: And yet they are very different; what common nature have we in view wh
 PROTARCHUS: By heavens, Socrates, that is a question which is not easily answered; but it must be answered.
 
 SOCRATES: Then let us go back to our examples.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates) Dobbiamo ora esaminare quale sia il loro luogo e in quali condizioni vengano generati. E cominceremo dal piacere, poiché la sua specie fu esaminata per prima; e tuttavia il piacere non può essere rettamente provato senza il dolore.
+
+PROTARCO: Se questa è la strada, prendiamola.
+
+SOCRATE: Mi domando se saresti d'accordo con me circa l'origine del piacere e del dolore.
+
+PROTARCO: Che vuoi dire?
+
+SOCRATE: Intendo dire che la loro sede naturale è nella classe mista.
+
+E vorresti dirmi di nuovo, dolce Socrate, quale delle suddette classi è quella mista?
+
+SOCRATE: Lo farò, mio buon uomo, al meglio delle mie forze.
+
+PROTARCO: Molto bene.
+
+SOCRATE: Intendiamo allora la classe mista come quella che abbiamo posto al terzo posto nella lista dei quattro.
+
+Ciò che seguiva l'infinito e il finito; e in cui annoveravi la salute e, se non erro, l'armonia.
+
+SOCRATE: Magnifico; e ora vorreste prestarmi la vostra migliore attenzione?
+
+PROTARCO: Procedi; ti ascolto.
+
+Io dico che quando l'armonia negli animali è dissolta, vi è anche una dissoluzione della natura e una generazione del dolore.
+
+PROTARCO: Ciò è molto probabile.
+
+SOCRATE: E il ristabilimento dell'armonia e il ritorno alla natura è la fonte del piacere, se mi è concesso dire in pochissime e brevissime parole intorno a questioni della massima importanza.
+
+Protarco: Credo che tu abbia ragione, Socrate; ma vuoi cercare di essere un po' più chiaro?
+
+SOCRATE: Non sono forse i fenomeni ovvii e quotidiani a fornire l'illustrazione più semplice?
+
+Quali fenomeni intendi?
+
+SOCRATE: La fame, per esempio, è una dissoluzione e un dolore.
+
+PROTARCHUS: Vero.
+
+SOCRATE: Mentre il mangiare è un riempimento e un piacere?
+
+PROTARCHUS: Sì.
+
+SOCRATE: La sete, di nuovo, è una distruzione e un dolore, ma l'effetto dell'umidità che riempie la parte asciutta è un piacere: ancora una volta, l'innaturale separazione e dissoluzione causata dal calore è dolorosa, e la naturale reintegrazione e refrigerazione è piacevole.
+
+PROTARCO: Verissimo.
+
+SOCRATE: E il congelamento innaturale dell'umidità in un animale è dolore, e il processo naturale di risoluzione e ritorno degli elementi al loro stato originario è piacere. E non ti sembrerebbe che valga la proposizione generale, che la distruzione dell'unione naturale del finito e dell'infinito, i quali, come osservavo prima, compongono la classe degli esseri viventi, sia dolore, e che il processo di ritorno di tutte le cose alla loro propria natura sia piacere?
+
+PROTARCO: Concesso; ciò che dici ha una verità generale.
+
+SOCRATE: Ecco allora una specie di piaceri e di dolori che hanno origine rispettivamente nei due processi che abbiamo descritto?
+
+Protarco: Bene.
+
+SOCRATE: Assumiamo inoltre che nell'anima stessa vi sia una speranza antecedente di piacere, dolce e ristoratrice, e un'attesa di dolore, timorosa e ansiosa.
+
+Sì; questa è un'altra classe di piaceri e dolori, che è dell'anima soltanto, separata dal corpo, ed è prodotta dall'aspettazione.
+
+SOCRATE: Giusto; poiché nell'analisi di questi, puri come io suppongo che siano, essendo i piaceri non mescolati con dolore e i dolori con piacere, mi sembra che vedremo chiaramente se l'intera classe del piacere sia da desiderare, o se piuttosto questa qualità di totale desiderabilità non sia da attribuire a un'altra delle classi che sono state menzionate; e se il piacere e il dolore, come il caldo e il freddo e altre cose del medesimo genere, non siano talvolta da desiderare e talvolta da non desiderare, come non essendo di per sé buoni, ma solo talvolta e in alcuni casi ammettendo la natura del bene.
+
+PROTARCO: Dici verissimamente che questa è la via che l'indagine dovrebbe seguire.
+
+SOCRATE: Orbene, posto che il dolore consegua alla dissoluzione, e il piacere al ristabilimento dell'armonia, chiediamoci ora quale sarà la condizione degli esseri animati che non sono né in processo di ristabilimento né di dissoluzione. E bada a quel che dici: io domando se un qualsiasi animale che si trovi in tale condizione possa avere alcun sentimento di piacere o di dolore, grande o piccolo che sia.
+
+PROTARCHUS: Certamente no.
+
+SOCRATE: Allora abbiamo qui un terzo stato, oltre a quello del piacere e del dolore?
+
+PROTARCO: Verissimo.
+
+SOCRATE: E non dimenticare che esiste un tale stato; farà una grande differenza nel nostro giudizio del piacere, sia che ricordiamo ciò o no. E vorrei dire qualche parola al riguardo.
+
+PROTARCHUS: Che cosa hai da dire?
+
+Orbene, tu sai che se un uomo sceglie la vita della sapienza, non v'è ragione per cui non debba vivere in questo stato neutrale.
+
+Vuoi dire che egli possa vivere né gioendo né addolorandosi?
+
+SOCRATE: Sì; e se ben ricordo, quando le vite si confrontarono, nessun grado di piacere, grande o piccolo che fosse, fu ritenuto necessario a colui che scelse la vita del pensiero e della sapienza.
+
+PROTARCO: Sì, certamente, così dicemmo.
+
+SOCRATES: Allora vivrà senza piacere; e chi sa se questa non sia forse la più divina di tutte le vite?
+
+PROTARCO: Se è così, gli dèi, in ogni caso, non si può supporre che abbiano né gioia né dolore.
+
+Certo no — vi sarebbe una grande sconvenienza nell'assumere l'una o l'altra alternativa. Ma se gli dèi siano o non siano indifferenti al piacere è questione che potrà essere considerata in seguito, se in qualche modo pertinente all'argomento, e qualunque sia la conclusione, la porremo sul conto della mente nella sua contesa per il secondo posto, nel caso dovesse rinunciare al primo.
+
+Protarco: Appunto.
+
+SOCRATE: L'altra classe di piaceri, che, come dicevamo, è puramente mentale, deriva interamente dalla memoria.
+
+PROTARCO: Che vuoi dire?
+
+SOCRATE: Devo innanzitutto analizzare la memoria, o piuttosto la percezione, che è anteriore alla memoria, se mai il soggetto della nostra discussione deve essere debitamente chiarito.
+
+PROTARCO: Come procederai?
+
+SOCRATE: Immaginiamo delle affezioni del corpo che si estinguono prima di giungere all'anima, e la lasciano immutata; e ancora, altre affezioni che vibrano attraverso entrambi [anima e corpo](/axes/soul_body), e impartiscono una scossa a entrambi e a ciascuno di essi.
+
+PROTARCO: Concesso.
+
+SOCRATE: E l'anima può dirsi veramente obliosa della prima, ma non della seconda?
+
+PROTARCO: Verissimo.
+
+SOCRATE: Quando dico oblio, non supporre che intenda la dimenticanza in senso letterale; poiché la dimenticanza è l'uscita della memoria, la quale in questo caso non è ancora entrata; e parlare della perdita di ciò che non è ancora in esistenza, e non è mai stato, è una contraddizione; vedi?
+
+PROTARCHUS: Sì.
+
+SOCRATE: Allora abbi la bontà di cambiare i termini.
+
+PROTARCO: Come li cambierò?
+
+SOCRATE: Invece dell'oblio dell'anima, quando descrivi [lo stato](/concepts/state) in cui essa non è toccata dagli urti del corpo, di' incoscienza.
+
+PROTARCHUS: Capisco.
+
+SOCRATE: E l'unione o comunione dell'anima e del corpo in un unico sentire e movimento sarebbe propriamente chiamata coscienza?
+
+Protarco: Verissimo.
+
+SOCRATE: Dunque ora sappiamo il significato della parola?
+
+PROTARCHUS: Sì.
+
+SOCRATE: E la memoria può, credo, essere giustamente descritta come la conservazione della coscienza?
+
+PROTARCHUS: Giusto.
+
+Ma non distinguiamo la memoria dalla reminiscenza?
+
+PROTARCO: Credo di sì.
+
+E non intendiamo forse per reminiscenza la facoltà che ha l'anima di recuperare, quando è da sé, qualche affezione che essa provò quando era in compagnia del corpo?
+
+PROTARCHUS: Certamente.
+
+E quando ella da sé recupera la smarrita rimembranza di qualche coscienza o conoscenza, tale recupero è chiamato reminiscenza e rammemorazione?
+
+PROTARCO: Verissimo.
+
+C'è una ragione per cui dico tutto questo.
+
+PROTARCO: Che cos'è?
+
+SOCRATE: Voglio conseguire la nozione più chiara possibile del piacere e del desiderio, come essi esistono soltanto nella mente, separati dal corpo; e l'analisi precedente aiuta a mostrare la natura di entrambi.
+
+PROTARCO: Allora, ora, Socrate, procediamo al punto successivo.
+
+SOCRATE: Vi sono certamente molte cose da considerare nel discutere la generazione e l'intera complessione del piacere. All'inizio dobbiamo determinare la natura e la sede del desiderio.
+
+PROTARCO: Già; indaghiamo su questo, ché non perderemo nulla.
+
+SOCRATE: Non già, Protarco, certamente perderemo l'enigma se troveremo la risposta.
+
+PROTARCO: Una giusta replica; ma procediamo.
+
+SOCRATE: Non ponemmo forse la fame, la sete e simili nella classe dei desideri?
+
+PROTARCHUS: Certamente.
+
+SOCRATE: Eppure sono molto differenti; quale natura comune abbiamo in vista quando le chiamiamo con un solo nome?
+
+Per il cielo, Socrate, questa è una domanda a cui non è facile rispondere; ma bisogna rispondere.
+
+SOCRATE: Allora torniamo ai nostri esempi.
 
 <span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -1104,6 +1952,242 @@ SOCRATES: And do not opinion and the endeavour to form an opinion always spring 
 
 PROTARCHUS: Certainly.
 
+<span class="qlang-split" data-lang="it"></span>
+
+PROTARCO: Dove cominceremo?
+
+[SOCRATE](/figures/socrates): Intendiamo forse qualcosa quando diciamo ‘un uomo ha sete’?
+
+PROTARCHUS: Sì.
+
+SOCRATE: Intendiamo dire che egli «è vuoto»?
+
+PROTARCO: Certo.
+
+SOCRATE: E non è la sete un desiderio?
+
+PROTARCO: Sì, del bere.
+
+SOCRATE: Diresti della bevanda, o del riempimento con la bevanda?
+
+PROTARCO: Direi, del riempimento con la bevanda.
+
+SOCRATE: Dunque chi è vuoto desidera, come sembrerebbe, il contrario di ciò che prova; poiché è vuoto e desidera essere pieno?
+
+PROTARCO: Chiaramente sì.
+
+SOCRATE: Ma come può un uomo che è vuoto per la prima volta giungere, sia per percezione che per memoria, ad alcuna apprensione del riempimento, di cui non ha esperienza né presente né passata?
+
+PROTARCHUS: Impossibile.
+
+SOCRATE: Eppure colui che desidera, desidera certamente qualcosa?
+
+PROTARCO: Certo.
+
+Egli non desidera ciò che esperisce, poiché esperisce la sete, e la sete è vuoto; ma desidera il ristoro?
+
+PROTARCHUS: Vero.
+
+SOCRATE: Allora deve esservi nell'uomo assetato qualcosa che in qualche modo afferri il ristoro?
+
+Protarco: Deve esserci.
+
+SOCRATE: E che ciò non può essere il corpo, poiché il corpo è supposto essere svuotato?
+
+PROTARCHUS: Sì.
+
+SOCRATE: L'unica alternativa rimasta è che l'anima apprenda il riempimento con l'aiuto della memoria; com'è ovvio, poiché quale altra via può esserci?
+
+PROTARCHUS: I cannot imagine any other.
+
+SOCRATE: Ma vedi la conseguenza?
+
+PROTARCO: Che cos'è?
+
+SOCRATE: Non v'è alcuna cosa come il desiderio del corpo.
+
+PROTARCO: Perché mai?
+
+Ebbene, perché il ragionamento mostra che lo sforzo di ogni animale è rivolto al contrario del suo stato corporeo.
+
+PROTARCHUS: Sì.
+
+SOCRATE: E l'impulso che lo conduce all'opposto di ciò che sta provando prova che egli ha memoria dello stato opposto.
+
+PROTARCHUS: Vero.
+
+E il ragionamento, avendo dimostrato che la memoria ci attrae verso gli oggetti del desiderio, prova anche che gli impulsi e i desideri e il principio motore in ogni essere vivente hanno la loro origine nell'anima.
+
+Protarco: Verissimo.
+
+SOCRATE: L'argomento non ammetterà che il nostro corpo abbia fame o sete o alcuna simile esperienza.
+
+PROTARCO: Giusto.
+
+SOCRATE: Permettetemi un'ulteriore osservazione; l'argomento mi pare implicare che vi sia un genere di vita che consiste in queste affezioni.
+
+PROTARCHUS: Di quali affezioni, e di quale genere di vita, stai parlando?
+
+SOCRATE: Parlo dell'essere svuotato e riempito, e di tutto ciò che riguarda la conservazione e la distruzione degli esseri viventi, nonché del dolore che si prova in uno di questi stati e del piacere che gli succede.
+
+PROTARCHUS: Vero.
+
+SOCRATE: E che diresti dello stato intermedio?
+
+PROTARCO: Che cosa intendi per «intermedio»?
+
+Socrate: Intendo dire quando una persona è in una sofferenza attuale e tuttavia ricorda piaceri passati che, se solo tornassero, lo solleverebbero; ma non li ha ancora. Non possiamo dire di lui che si trova in uno stato intermedio?
+
+PROTARCHUS: Certamente.
+
+SOCRATE: Diresti che egli fosse interamente afflitto o interamente lieto?
+
+PROTARCO: Anzi, direi che egli ha due dolori; nel corpo vi è l'esperienza attuale del dolore, e nell'anima il desiderio e l'attesa.
+
+SOCRATE: Che vuoi dire, Protarco, con i due dolori? Non può un uomo che è vuoto avere talvolta una sicura speranza di essere riempito, e altre volte essere del tutto in preda alla disperazione?
+
+PROTARCO: Verissimo.
+
+SOCRATE: E non ha egli il piacere della memoria quando spera di essere riempito, e tuttavia, in quanto è vuoto, non è egli al contempo in dolore?
+
+PROTARCHUS: Certamente.
+
+SOCRATE: Allora l'uomo e gli altri animali hanno allo stesso tempo sia piacere che dolore?
+
+Protarco: Suppongo di sì.
+
+SOCRATE: Ma quando un uomo è vuoto e non ha speranza di essere riempito, ci sarà la doppia esperienza del dolore. Tu osservasti questo e deducesti che la doppia esperienza era l'unico caso possibile.
+
+PROTARCHUS: È proprio vero, Socrate.
+
+SOCRATE: Sarà l’indagine intorno a questi stati d’animo resa occasione di sollevare una questione?
+
+Protarco: Quale domanda?
+
+SOCRATE: Dobbiamo dire che i piaceri e i dolori di cui parliamo sono veri o falsi? O alcuni veri e alcuni falsi?
+
+PROTARCO: Ma come, Socrate, possono esserci falsi piaceri e falsi dolori?
+
+SOCRATE: E come, Protarco, possono esservi paure vere e false, o aspettative vere e false, o opinioni vere e false?
+
+PROTARCO: Ammetto che le opinioni possano essere vere o false, ma non i piaceri.
+
+SOCRATE: Che vuoi dire? Temo che stiamo sollevando una questione molto seria.
+
+Protarco: In ciò concordo.
+
+SOCRATE: Eppure, ragazzo mio, giacché sei uno dei giovani di Filebo, il punto da considerare è se l'indagine sia pertinente all'argomento.
+
+PROTARCO: Certamente.
+
+Non può essere permessa alcuna discussione noiosa e irrilevante; ciò che si dice deve essere pertinente.
+
+PROTARCHUS: Giusto.
+
+SOCRATE: Sempre mi meraviglio della questione che ora è stata sollevata.
+
+PROTARCO: Come sarebbe?
+
+SOCRATE: Nieghi che alcuni piaceri siano falsi, e altri veri?
+
+PROTARCHUS: Certo che lo faccio.
+
+SOCRATE: Diresti che nessuno mai parve gioire e tuttavia non gioì, o parve sentire dolore e tuttavia non sentì dolore, dormendo o vegliando, pazzo o lunatico?
+
+PROTARCO: Così abbiamo sempre sostenuto, Socrate.
+
+SOCRATE: Ma avevi ragione? Dovremmo indagare sulla verità della tua opinione?
+
+PROTARCHUS: Penso che dovremmo.
+
+SOCRATE: Mettiamo allora in termini più precisi la questione che è sorta intorno al piacere e all'opinione. Esiste forse qualcosa come l'opinione?
+
+PROTARCHUS: Sì.
+
+SOCRATE: E una cosa come il piacere?
+
+PROTARCHUS: Sì.
+
+SOCRATE: E un'opinione deve essere di qualcosa?
+
+PROTARCHUS: Vero.
+
+SOCRATE: E un uomo deve essere compiaciuto da qualcosa?
+
+PROTARCO: Perfettamente corretto.
+
+E che l'opinione sia giusta o sbagliata, non fa differenza; sarà comunque un'opinione?
+
+PROTARCHUS: Certamente.
+
+SOCRATE: E colui che prova piacere, sia che lo provi a ragione o a torto, avrà sempre un sentimento reale di piacere?
+
+Sì; anche questo è del tutto vero.
+
+SOCRATE: Allora, come può l'opinione essere sia vera che falsa, e il piacere solo vero, sebbene piacere e opinione siano entrambi ugualmente reali?
+
+PROTARCO: Sì; questa è la questione.
+
+SOCRATE: Vuoi dire che l'opinione ammette verità e falsità, e quindi diviene non semplicemente opinione, ma opinione di una certa qualità; e questo è ciò che ritieni debba essere esaminato?
+
+PROTARCHUS: Sì.
+
+SOCRATE: E inoltre, anche se ammettiamo l'esistenza di qualità in altri oggetti, non potrebbero il piacere e il dolore essere semplici e privi di qualità?
+
+PROTARCO: Chiaramente.
+
+SOCRATE: Ma non c'è difficoltà a vedere che il piacere e il dolore, così come l'opinione, hanno qualità, poiché sono grandi o piccoli, e hanno vari gradi di intensità; come fu appunto detto da noi molto tempo fa.
+
+PROTARCO: Verissimo.
+
+SOCRATE: E se la malvagità si attacca a qualcuna di esse, Protarco, allora dovremmo parlare di un'opinione cattiva o di un piacere cattivo?
+
+PROTARCHUS: È proprio vero, Socrate.
+
+SOCRATE: E se la rettitudine si accompagna a qualcuna di esse, non dovremmo parlare di una retta opinione o di un retto piacere; e similmente del contrario della rettitudine?
+
+PROTARCHUS: Certamente.
+
+SOCRATE: E se la cosa opinata fosse erronea, non potremmo forse dire che l'opinione, essendo erronea, non è retta o non è rettamente opinata?
+
+PROTARCHUS: Certamente.
+
+E se vediamo un piacere o un dolore che erra rispetto al suo oggetto, lo chiameremo giusto o buono, o con qualche nome onorevole?
+
+Non se il piacere è falso; come potremmo?
+
+SOCRATE: E certamente il piacere spesso appare accompagnare un'opinione che non è vera, ma falsa?
+
+PROTARCO: Certamente sì; e in tal caso, Socrate, come dicevamo, l'opinione è falsa, ma nessuno potrebbe chiamare falso il piacere stesso.
+
+Con quanta prontezza, Protarco, accorri in difesa del piacere!
+
+PROTARCO: No, Socrate, io non faccio che ripetere ciò che odo.
+
+SOCRATE: E non vi è forse differenza, amico mio, tra quel piacere che è congiunto a retta opinione e scienza, e quello che in tutti noi si trova spesso congiunto a falsità e ignoranza?
+
+PROTARCO: Ci deve essere una grandissima differenza, tra loro.
+
+Orsù, ora procediamo a contemplare questa differenza.
+
+PROTARCHUS: Guida, e ti seguirò.
+
+SOCRATE: Ebbene, allora, il mio parere è —
+
+PROTARCO: Che cos'è?
+
+SOCRATE: Siamo d'accordo — non è vero? — che esiste una cosa come la falsa opinione, e anche una cosa come la vera opinione?
+
+PROTARCHUS: Sì.
+
+SOCRATE: E il piacere e il dolore, come dicevo or ora, spesso conseguono a queste — all'opinione vera e falsa, voglio dire.
+
+PROTARCO: Verissimo.
+
+SOCRATES: E l'opinione e lo sforzo di formare un'opinione non scaturiscono sempre dalla memoria e dalla percezione?
+
+PROTARCHUS: Certamente.
+
 <span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Might we imagine the process to be something of this nature?
@@ -1310,6 +2394,212 @@ SOCRATES: Then the opinions were true and false, and infected the pleasures and 
 
 PROTARCHUS: Very true.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Socrate](/figures/socrates): Potremmo immaginare che il processo sia qualcosa di questa natura?
+
+PROTARCO: Di quale natura?
+
+SOCRATE: Un oggetto può essere spesso visto a distanza non molto chiaramente, e colui che vede può voler determinare che cosa sia ciò che vede.
+
+PROTARCO: Molto probabile.
+
+SOCRATE: Presto comincia a interrogare se stesso.
+
+PROTARCO: In che modo?
+
+SOCRATE: Si chiede— ‘Che cos’è ciò che appare stare presso la roccia sotto l’albero?’ Questa è la domanda che si può supporre egli ponga a se stesso quando vede una tale apparenza.
+
+PROTARCHUS: Vero.
+
+SOCRATE: A cui egli può indovinare la risposta giusta, dicendo come in un sussurro tra sé e sé— «È un uomo.»
+
+PROTARCO: Molto bene.
+
+SOCRATE: O anche può esserne tratto in inganno, e allora dirà: «No, è una figura fatta dai pastori.»
+
+PROTARCHUS: Sì.
+
+SOCRATE: E se ha un compagno, gli ripete il suo pensiero con suoni articolati, e ciò che prima era un'opinione, ora è divenuto una proposizione.
+
+PROTARCHUS: Certamente.
+
+SOCRATE: Ma se gli avvenga di camminare solo quando questi pensieri gli occorrono, non di rado può tenerli nella mente per un tempo considerevole.
+
+PROTARCO: Verissimo.
+
+SOCRATE: Ebbene, ora, mi domando se tu vorresti convenire nella mia spiegazione di questo fenomeno.
+
+PROTARCHUS: Qual è la tua spiegazione?
+
+SOCRATE: Penso che l'anima in tali momenti sia come un libro.
+
+PROTARCO: Come sarebbe?
+
+SOCRATE: La memoria e la percezione s'incontrano, ed esse con i sentimenti che le accompagnano sembrano quasi scrivere parole nell'anima; e quando il sentimento che incide scrive il vero, allora l'opinione vera e le proposizioni vere, che sono espressioni dell'opinione, entrano nelle nostre anime — ma quando lo scriba dentro di noi scrive il falso, il risultato è falso.
+
+PROTARCO: Acconsento e concordo pienamente con quanto asserisci.
+
+SOCRATE: Devo chiedere il vostro favore anche per un altro artista, che è occupato allo stesso tempo nelle stanze dell'anima.
+
+PROTARCHUS: Chi è lui?
+
+SOCRATE: Il pittore, che, dopo che lo scriba ha compiuto il suo lavoro, dipinge nell'anima immagini delle cose che ha descritto.
+
+PROTARCO: Ma quando e come fa questo?
+
+SOCRATE: Quando un uomo, oltre a ricevere dalla vista o da qualche altro senso certe opinioni o affermazioni, vede nella sua mente le immagini dei loro soggetti; — non è questo un fenomeno mentale molto comune?
+
+PROTARCHUS: Certamente.
+
+SOCRATE: E le immagini che rispondono a opinioni e parole vere sono vere, e quelle che rispondono a opinioni e parole false sono false; non è vero?
+
+Protarco: Essi sono.
+
+SOCRATE: Se fin qui abbiamo ragione, sorge un'ulteriore questione.
+
+PROTARCO: Che cos'è?
+
+Se noi proviamo il sentimento di cui parlo solo in relazione al presente e al passato, o anche in relazione al futuro?
+
+PROTARCO: Io direi in relazione a tutti i tempi ugualmente.
+
+SOCRATE: Non sono già stati descritti i piaceri e i dolori puramente mentali come in alcuni casi anticipazioni di quelli corporei; da cui possiamo inferire che i piaceri e i dolori anticipatori hanno a che fare con il futuro?
+
+Protarco: Verissimo.
+
+SOCRATE: E tutti quegli scritti e quei dipinti che, come dicevamo poc'anzi, sono prodotti in noi, si riferiscono soltanto al passato e al presente, e non al futuro?
+
+PROTARCO: Al futuro, moltissimo.
+
+SOCRATE: Quando dici «Moltissimo», intendi dire che tutte queste rappresentazioni sono speranze circa il futuro, e che gli uomini sono colmi di speranze in ogni stadio dell'esistenza?
+
+PROTARCHUS: Esattamente.
+
+SOCRATE: Rispondimi a un'altra domanda.
+
+Protarco: Quale domanda?
+
+SOCRATE: Un uomo giusto e pio e buono è amico degli dèi; non è vero?
+
+PROTARCO: Certamente lo è.
+
+SOCRATE: E l'uomo ingiusto e del tutto malvagio è il contrario?
+
+PROTARCHUS: Vero.
+
+SOCRATE: E tutti gli uomini, come dicevamo poc'anzi, sono sempre pieni di speranze?
+
+PROTARCHUS: Certamente.
+
+SOCRATE: E queste speranze, come sono denominate, sono proposizioni che esistono nelle menti di ciascuno di noi?
+
+PROTARCHUS: Sì.
+
+SOCRATE: E le fantasie della speranza sono pure raffigurate in noi; un uomo può sovente avere la visione di un mucchio d'oro, e dei piaceri che ne conseguono, e in quella immagine vi può essere una somiglianza di sé stesso che gioisce grandemente della sua buona fortuna.
+
+PROTARCHUS: Vero.
+
+SOCRATE: E non possiamo dire che i buoni, essendo amici degli dei, abbiano generalmente immagini vere presentate loro, e i cattivi immagini false?
+
+PROTARCHUS: Certamente.
+
+SOCRATES: I cattivi, anch'essi, hanno piaceri dipinti nella loro fantasia al pari dei buoni; ma presumo che siano falsi piaceri.
+
+Protarco: Essi sono.
+
+I malvagi quindi per lo più si dilettano di falsi piaceri, e i buoni di quelli veri?
+
+PROTARCHUS: Senza dubbio.
+
+SOCRATE: Dunque, secondo questa visione, vi sono piaceri falsi nelle anime degli uomini, che sono una ridicola imitazione dei veri, e vi sono dolori di simile carattere?
+
+PROTARCHUS: Ci sono.
+
+SOCRATE: E non abbiamo forse ammesso che chi aveva una qualche opinione aveva un'opinione reale, ma spesso intorno a cose che non avevano esistenza né nel passato, né nel presente, né nel futuro?
+
+PROTARCO: Verissimo.
+
+SOCRATE: E questa era la fonte della falsa opinione e del falso opinare; non ho ragione?
+
+PROTARCHUS: Sì.
+
+SOCRATE: E non dobbiamo attribuire al piacere e al dolore un carattere simile, reale ma illusorio?
+
+PROTARCO: Come intendi?
+
+SOCRATE: Intendo dire che si deve ammettere che un uomo abbia un piacere reale, se è compiaciuto di qualsiasi cosa o in qualsiasi modo; e può compiacersi di cose che non hanno né hanno mai avuto alcuna esistenza reale e che, il più delle volte, non è probabile che mai esisteranno.
+
+Sì, Socrate, anche questo è innegabile.
+
+SOCRATE: E non si potrebbe dire lo stesso della paura e dell'[ira](/concepts/anger) e simili; non sono forse spesso false?
+
+PROTARCO: Proprio così.
+
+SOCRATE: E possono le opinioni essere buone o cattive se non in quanto sono vere o false?
+
+Protarco: In nessun altro modo.
+
+SOCRATE: Né i piaceri possono essere concepiti come cattivi se non in quanto sono falsi.
+
+Anzi, o Socrate, ciò è l'esatto contrario della verità; poiché nessuno chiamerebbe i piaceri e i dolori cattivi perché sono falsi, ma a causa di qualche altra grande corruzione a cui vanno soggetti.
+
+SOCRATE: Orbene, dei piaceri che sono corrotti e causati dalla corruzione parleremo in seguito, se ci preme di continuare l'indagine; per il momento preferirei mostrare con un altro argomento che molti falsi piaceri esistono o sorgono in noi, perché ciò può giovare alla nostra decisione finale.
+
+Verissimo; vale a dire, se vi sono tali piaceri.
+
+SOCRATE: Io credo che ve ne siano, Protarco; ma questa è un'opinione che dovrebbe essere ben sicura, e non poggiare su una mera affermazione.
+
+PROTARCO: Molto bene.
+
+SOCRATE: Dunque ora, come lottatori, avviciniamoci e afferriamo questo nuovo argomento.
+
+PROTARCO: Procedi.
+
+SOCRATE: Sostenevamo poc'anzi che quando i desideri, come sono chiamati, esistono in noi, il corpo allora ha affezioni separate dall'anima — te ne rammenti?
+
+PROTARCHUS: Sì, ricordo che dicesti così.
+
+SOCRATE: E si supponeva che l'anima desiderasse l'opposto dello stato corporeo, mentre il corpo era la fonte di ogni piacere o dolore che si provava.
+
+PROTARCHUS: Vero.
+
+SOCRATE: Dunque ora puoi inferire ciò che accade in tali casi.
+
+PROTARCO: Che cosa debbo inferire?
+
+Che in tali casi piaceri e dolori sorgono simultaneamente; e vi è una giustapposizione delle sensazioni opposte che corrispondono ad essi, come è già stato mostrato.
+
+PROTARCO: Chiaramente.
+
+SOCRATE: E vi è un altro punto sul quale abbiamo convenuto.
+
+PROTARCO: Che cos'è?
+
+SOCRATE: Che il piacere e il dolore ammettono entrambi il più e il meno, e che essi sono della classe degli infiniti.
+
+PROTARCO: Certamente, lo abbiamo detto.
+
+SOCRATE: Ma come possiamo giudicare rettamente di essi?
+
+PROTARCO: Come possiamo?
+
+È nostra intenzione giudicare della loro importanza e intensità comparate, misurando il piacere col dolore, e il dolore col dolore, e il piacere col piacere?
+
+Sì, tale è la nostra intenzione, e di esse giudicheremo di conseguenza.
+
+Ebbene, prendi il caso della vista. La vicinanza o la distanza delle grandezze non oscura forse le loro vere proporzioni, e non ci fa opinare falsamente; e non troviamo che la stessa illusione accada nel caso dei piaceri e dei dolori?
+
+Sì, Socrate, e in misura di gran lunga maggiore.
+
+SOCRATE: Allora ciò che stiamo dicendo ora è l'opposto di ciò che dicevamo prima.
+
+Che cosa hai detto?
+
+SOCRATE: Dunque le opinioni erano vere e false, e infettarono i piaceri e i dolori con la loro propria falsità.
+
+PROTARCO: Verissimo.
+
 <span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): But now it is the pleasures which are said to be true and false because they are seen at various distances, and subjected to comparison; the pleasures appear to be greater and more vehement when placed side by side with the pains, and the pains when placed side by side with the pleasures.
@@ -1474,6 +2764,170 @@ PROTARCHUS: That is obvious as soon as it is said.
 
 SOCRATES: Well, then, shall we not be right in saying, that if a person would wish to see the greatest pleasures he ought to go and look, not at health, but at disease? And here you must distinguish: — do not imagine that I mean to ask whether those who are very ill have more pleasures than those who are well, but understand that I am speaking of the magnitude of pleasure; I want to know where pleasures are found to be most intense. For, as I say, we have to discover what is pleasure, and what they mean by pleasure who deny her very existence.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Socrate](/figures/socrates): Ma ora sono i piaceri che si dicono veri e falsi perché sono visti a diverse distanze, e sottoposti a confronto; i piaceri appaiono maggiori e più veementi quando sono posti accanto ai dolori, e i dolori quando sono posti accanto ai piaceri.
+
+PROTARCO: Certamente, e per la ragione che tu menzioni.
+
+SOCRATE: E supponi che tu separi dai piaceri e dai dolori l'elemento che li fa apparire maggiori o minori di quello che sono realmente: riconoscerai che questo elemento è illusorio, e non dirai mai che il corrispondente eccesso o difetto di piacere o di dolore è reale o vero.
+
+PROTARCHUS: Certamente no.
+
+SOCRATE: Ora vediamo se in un'altra direzione non possiamo trovare piaceri e dolori che esistono e appaiono negli esseri viventi, e che sono ancora più falsi di questi.
+
+PROTARCO: Che cosa sono, e come li troveremo?
+
+SOCRATE: Se non erro, ho spesso ripetuto che i dolori, e le pene, e le sofferenze, e le inquietudini di ogni sorta nascono da una corruzione della natura causata da concrezioni, e dissoluzioni, e replezioni, e evacuazioni, e anche da crescita e decadimento?
+
+PROTARCO: Sì, questo è stato detto spesso.
+
+SOCRATE: E abbiamo anche convenuto che il ristabilimento dello stato naturale è piacere?
+
+PROTARCHUS: Giusto.
+
+SOCRATE: Ma ora supponiamo un intervallo di tempo in cui il corpo non subisce nessuno di questi cambiamenti.
+
+Protarco: Quando può essere, Socrate?
+
+SOCRATE: La tua domanda, Protarco, non giova all'argomento.
+
+PROTARCO: Perché no, Socrate?
+
+SOCRATE: Perché non mi impedisce di ripetere la mia.
+
+PROTARCHUS: E che cos'era quello?
+
+SOCRATE: Ebbene, Protarco, ammettendo che non vi sia tale intervallo, posso domandare quale sarebbe la conseguenza necessaria se vi fosse?
+
+PROTARCHUS: Vuoi dire che cosa accadrebbe se il corpo non fosse mutato né in meglio né in peggio?
+
+SOCRATE: Sì.
+
+Perché allora, Socrate, dovrei supporre che non vi sarebbe né piacere né dolore.
+
+SOCRATE: Benissimo; ma tuttavia, se non m'inganno, tu asserisci che dobbiamo sempre provare l'una di esse; è questo che ci insegnano i saggi; poiché, dicono, tutte le cose scorrono sempre in su e in giù.
+
+PROTARCO: Sì, e le loro parole sono di non poca autorità.
+
+SOCRATE: Certamente, poiché essi stessi non sono autorità di poco conto; e vorrei evitare l'urto del loro argomento. Vuoi che ti dica come intendo sfuggire loro? E tu sarai il compagno della mia fuga.
+
+PROTARCHUS: Come?
+
+SOCRATE: A loro diremo: «Ebbene, siamo noi, o gli esseri viventi in generale, sempre consapevoli di ciò che ci accade — per esempio, della nostra crescita, o di cose simili? Non siamo invece, al contrario, quasi del tutto inconsapevoli di questo e di fenomeni analoghi?» Tu devi rispondere per loro.
+
+PROTARCO: Quest'ultima alternativa è quella vera.
+
+SOCRATE: Allora non avevamo ragione, poco fa, nel dire che i moti in su e in giù causano piaceri e dolori?
+
+PROTARCHUS: Vero.
+
+SOCRATE: Un modo di parlare migliore e più ineccepibile sarà —
+
+PROTARCO: Che?
+
+Se diciamo che i grandi cambiamenti producono piaceri e dolori, ma che quelli moderati e minori non producono né gli uni né gli altri.
+
+Protarco: Questo, Socrate, è il modo più corretto di parlare.
+
+Ma se questo è vero, la vita alla quale poc'anzi mi riferivo riappare.
+
+PROTARCO: Quale vita?
+
+SOCRATE: La vita che abbiamo affermato essere priva sia di dolore che di gioia.
+
+PROTARCO: Verissimo.
+
+Possiamo allora supporre che vi siano tre vite: una piacevole, una dolorosa, e la terza che non è né l'una né l'altra; che ne dici?
+
+PROTARCO: Direi come te che ce ne sono tre.
+
+SOCRATE: Ma se è così, la negazione del dolore non sarà la stessa cosa del piacere.
+
+PROTARCHUS: Certamente no.
+
+SOCRATE: Allora, quando senti una persona dire che vivere sempre senza dolore è la più piacevole di tutte le cose, che cosa intenderesti che egli voglia dire con questa affermazione?
+
+Protarco: Penso che per piacere egli debba intendere il negativo del dolore.
+
+SOCRATE: Prendiamo tre cose qualsiasi; o supponiamo che, abbellendo un poco, chiamiamo la prima oro, la seconda argento, e ve ne sia una terza che non è né l'una né l'altra.
+
+PROTARCO: Molto bene.
+
+SOCRATE: Ora, può ciò che non è né l'uno né l'altro essere o oro o argento?
+
+PROTARCHUS: Impossibile.
+
+SOCRATE: Né più può quella vita neutrale o media essere giustamente o ragionevolmente detta o pensata come piacevole o dolorosa.
+
+PROTARCHUS: Certamente no.
+
+SOCRATE: Eppure, amico mio, ci sono, come sappiamo, persone che lo dicono e lo pensano.
+
+PROTARCHUS: Certamente.
+
+SOCRATE: E credono essi di provare piacere quando sono liberi dal dolore?
+
+PROTARCO: Così dicono.
+
+SOCRATE: E debbono pensare, o non direbbero che hanno piacere.
+
+PROTARCO: Suppongo di no.
+
+SOCRATE: Eppure se il piacere e la negazione del dolore sono di nature distinte, si sbagliano.
+
+PROTARCHUS: Ma essi sono senza dubbio di nature distinte.
+
+SOCRATE: Allora riterremo che siano tre, come dicevamo or ora, o che siano solo due — l'uno essendo uno stato di dolore, che è un male, e l'altro una cessazione del dolore, che di per sé è un bene, ed è chiamato piacevole?
+
+Ma perché mai, Socrate, poniamo la domanda? Non ne vedo la ragione.
+
+SOCRATE: Tu, Protarco, evidentemente non hai mai sentito parlare di certi nemici del nostro amico Filebo.
+
+PROTARCO: E chi possono essere?
+
+SOCRATE: Certe persone reputate maestri nella filosofia naturale, che negano l'esistenza stessa del piacere.
+
+PROTARCO: Invero!
+
+SOCRATE: Dicono che quelli che la scuola di Filebo chiama piaceri siano tutti quanti soltanto evitamenti del dolore.
+
+PROTARCO: E vorresti, Socrate, che fossimo d'accordo con loro?
+
+SOCRATE: Anzi no, preferirei servirmene come di una sorta di indovini, i quali divinano il vero non per regole d’arte, ma per un’istintiva ripugnanza ed un estremo aborrimento che una natura nobile ha per la potenza del piacere, nella quale pensano che non vi sia alcunché di sano, e la sua influenza seduttrice è da essi dichiarata malìa, e non piacere. Questo è l’uso che puoi farne. E quando avrai considerato le varie ragioni della loro avversione, udrai da me quali io ritenga essere i veri piaceri. Avendo così esaminata la natura del piacere da entrambi i punti di vista, la sottoporremo a giudizio.
+
+Protarco: Ben detto.
+
+SOCRATE: Stringiamo allora un'alleanza con questi filosofi e seguiamo la traccia della loro avversione. Immagino che direbbero qualcosa di questo genere; comincerebbero dal principio, e domanderebbero se, volendo conoscere la natura di una qualsiasi qualità, come la durezza, saremmo più propensi a scoprirla guardando le cose più dure, piuttosto che le meno dure? Tu, Protarco, risponderai a questi severi signori come rispondi a me.
+
+Certamente, e rispondo loro che dovresti guardare agli esempi più grandi.
+
+SOCRATE: Allora, se vogliamo vedere la vera natura dei piaceri come classe, non dovremmo guardare ai piaceri più diluiti, ma a quelli più estremi e più veementi?
+
+PROTARCHUS: In ciò ognuno sarà d'accordo.
+
+SOCRATE: E gli esempi evidenti dei piaceri più grandi, come abbiamo sovente detto, sono i piaceri del corpo?
+
+PROTARCHUS: Certamente.
+
+SOCRATE: E questi sono da noi sentiti essere o divenire maggiori, quando siamo ammalati o quando siamo sani? E qui dobbiamo essere cauti nella nostra risposta, o andremo in rovina.
+
+PROTARCO: Come sarà?
+
+Ebbene, perché potremmo essere tentati di rispondere, ‘Quando siamo in salute.’
+
+PROTARCO: Sì, questa è la risposta naturale.
+
+SOCRATE: Bene, ma non sono forse quei piaceri i più grandi di cui gli uomini hanno i più grandi desideri?
+
+PROTARCHUS: Vero.
+
+SOCRATE: E non sentono forse quelli che hanno la febbre, o qualche simile malattia, il freddo o la sete o altre affezioni corporee più intensamente? Non ho forse ragione nel dire che essi hanno un bisogno più profondo e un piacere maggiore nel soddisfacimento del loro bisogno?
+
+PROTARCO: Ciò è evidente appena detto.
+
+SOCRATE: Orbene, non avremo forse ragione nel dire che, se uno volesse vedere i massimi piaceri, dovrebbe andare a guardare non la salute, ma la malattia? E qui devi distinguere: — non immaginare che io intenda chiedere se coloro che sono molto malati abbiano più piaceri di coloro che sono sani, ma comprendi che io parlo della grandezza del piacere; voglio sapere dove i piaceri si trovano più intensi. Poiché, come dico, dobbiamo scoprire che cosa sia il piacere, e che cosa intendano per piacere coloro che negano la sua stessa esistenza.
+
 <span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 PROTARCHUS: I think I follow you.
@@ -1634,6 +3088,166 @@ SOCRATES: But we must pursue the division a step further, Protarchus, if we woul
 
 PROTARCHUS: How can we make the further division which you suggest?
 
+<span class="qlang-split" data-lang="it"></span>
+
+PROTARCO: Credo di seguirti.
+
+[SOCRATE](/figures/socrates): Avrai presto una migliore occasione di mostrare se lo fai o no, Protarco. Rispondi ora, e dimmi se vedi, non dirò più, ma più intensi ed eccessivi piaceri nella dissolutezza che nella temperanza? Rifletti prima di parlare.
+
+Ti comprendo, e vedo che c’è una grande differenza tra loro; i temperanti sono frenati dall’aforisma del saggio ‘Mai troppo’, che è la loro regola, ma l’eccesso di piacere, possedendo le menti degli stolti e dei dissoluti, diventa follia e li fa gridare di gioia.
+
+SOCRATES: Benissimo, e se questo è vero, allora i più grandi piaceri e dolori si troveranno chiaramente in qualche stato vizioso di [anima e corpo](/axes/soul_body), e non in uno stato virtuoso.
+
+PROTARCO: Certamente.
+
+SOCRATE: E non dovremmo sceglierne alcune per esaminarle, e vedere che cosa le rende le più grandi?
+
+PROTARCO: Per certo dobbiamo.
+
+SOCRATE: Prendi il caso dei piaceri che sorgono da certi disturbi.
+
+Protarco: Quali disordini?
+
+SOCRATE: I piaceri dei disordini sconvenienti, che i nostri severi amici detestano del tutto.
+
+PROTARCO: Quali piaceri?
+
+SOCRATE: Tali, per esempio, come il sollievo dal prurito e da altri mali col grattarsi, che è l'unico rimedio necessario. Poiché, in nome del cielo, come si deve chiamare la sensazione che così si produce in noi? — Piacere o dolore?
+
+PROTARCO: Una mistura scellerata di qualche sorta, Socrate, direi.
+
+Non ho introdotto l'argomento, o Protarco, con alcun riferimento personale a Filebo, ma perché, senza la considerazione di questi e simili piaceri, non saremo in grado di determinare il punto in questione.
+
+Allora faremmo meglio a procedere all'analisi di questa famiglia di piaceri.
+
+SOCRATE: Intendi i piaceri che sono mescolati al dolore?
+
+PROTARCO: Esattamente.
+
+SOCRATE: Vi sono alcune mescolanze che appartengono al corpo, e soltanto al corpo, e altre che appartengono all'anima, e soltanto all'anima; mentre vi sono altre mescolanze di piaceri con dolori, comuni insieme all'anima e al corpo, le quali nel loro stato composto sono chiamate talora piaceri e talora dolori.
+
+PROTARCHUS: Come sarebbe?
+
+SOCRATE: Ogni volta che, nel ristabilimento o nello sconvolgimento della natura, un uomo prova due sentimenti opposti; per esempio, quando ha freddo e si sta scaldando, o anche quando ha caldo e si sta raffreddando, e vuole avere l'uno e liberarsi dell'altro; — il dolce ha un amaro, come dice il proverbio, ed entrambi insieme si attaccano a lui e generano irritazione e col tempo lo spingono alla follia.
+
+PROTARCO: Quella descrizione è molto fedele alla natura.
+
+SOCRATE: E in queste specie di mescolanze i piaceri e i dolori sono talvolta uguali, e talvolta l'uno o l'altro di essi predomina?
+
+Protarco: Vero.
+
+SOCRATE: Di casi in cui il dolore supera il piacere, un esempio è offerto dal prurito, di cui ora parlavamo, e dal formicolio che sentiamo quando l'elemento bollente e infuocato è dentro, e il frizionare e il muovere allevia solo la superficie, e non raggiunge le parti affette; allora se le avvicini al fuoco, e come ultimo rimedio applichi loro del freddo, puoi spesso produrre il piacere o il dolore più intensi nelle parti interne, che contrasta e si mescola col dolore o col piacere, a seconda dei casi, delle parti esterne; e ciò è dovuto alla separazione forzata di ciò che è unito, o all'unione di ciò che è separato, e alla giustapposizione di piacere e dolore.
+
+PROTARCO: Appunto.
+
+SOCRATE: Talvolta l'elemento del piacere prevale in un uomo, e il lieve sottofondo di dolore lo fa fremere e gli cagiona una dolce irritazione; oppure, l'eccessiva infusione di piacere crea in lui un'eccitazione — egli salta perfino di gioia, assume ogni sorta di atteggiamenti, si fa di tutti i colori, ansima, ed è del tutto stupito, e proferisce le più irrazionali esclamazioni.
+
+PROTARCHUS: Sì, davvero.
+
+SOCRATE: Dirà di sé, e gli altri diranno di lui, che muore di questi piaceri; e quanto più è dissoluto e buono a nulla, tanto più veementemente li persegue in ogni modo; di tutti i piaceri li dichiara i più grandi; e ritiene colui che vive nel più costante godimento di essi il più felice degli uomini.
+
+Protarco: Questa, Socrate, è una descrizione molto vera delle opinioni della maggioranza circa i piaceri.
+
+Sì, Protarco, è ben vero quanto dici dei piaceri misti, che sorgono dalla comunione delle sensazioni esterne e interne nel corpo; vi sono anche casi in cui la mente apporta al corpo un elemento opposto, sia di piacere sia di dolore, e i due si uniscono e formano un'unica mescolanza. Riguardo a questi ho già osservato che, quando un uomo è vuoto, desidera essere pieno, e prova piacere nella speranza e dolore nella vacuità. Ma ora devo aggiungere ciò che ho omesso prima, che in tutte queste e simili emozioni in cui corpo e mente sono opposti (e sono innumerevoli), piacere e dolore si fondono in uno.
+
+PROTARCO: Credo che ciò sia del tutto vero.
+
+SOCRATE: Resta ancora un'altra specie di mescolanza di piaceri e dolori.
+
+PROTARCO: Che cos'è?
+
+Socrate: L'unione di affezioni puramente mentali che, come dicevamo, la mente spesso prova.
+
+PROTARCO: Che vuoi dire?
+
+SOCRATE: Perché, non parliamo forse di [ira](/concepts/anger), paura, desiderio, dolore, amore, emulazione, invidia e simili, come di pene che appartengono solo all'anima?
+
+PROTARCO: Sì.
+
+SOCRATE: E non li troveremo anche pieni dei piaceri più meravigliosi? Devo forse ricordarvi l'ira?
+
+‘Che muove anche il saggio alla violenza, Ed è più dolce del miele e del favo?’
+
+E ricordi come i piaceri si mescolano ai dolori nel lamento e nel lutto?
+
+PROTARCO: Sì, c'è una naturale connessione tra loro.
+
+SOCRATE: E ricordi anche come, alla vista delle tragedie, gli spettatori sorridono tra le lacrime?
+
+PROTARCO: Certamente sì.
+
+SOCRATE: E sei consapevole che anche in una commedia l'anima prova un sentimento misto di dolore e piacere?
+
+PROTARCO: Non ti comprendo bene.
+
+SOCRATE: Ammetto, Protarco, che vi è qualche difficoltà nel riconoscere questa mescolanza di sentimenti a una commedia.
+
+PROTARCHUS: C'è, credo.
+
+SOCRATE: E quanto maggiore è l'oscurità del caso, tanto più desiderabile è l'esame di esso, perché la difficoltà nello scoprire altri casi di piaceri e dolori misti sarà minore.
+
+PROTARCO: Procedi.
+
+SOCRATE: Ho appena menzionato l'invidia; non la chiameresti un dolore dell'anima?
+
+PROTARCO: Sì.
+
+SOCRATE: E tuttavia l'invidioso trova nelle sfortune dei suoi vicini qualcosa di cui si compiace?
+
+PROTARCO: Certamente.
+
+SOCRATE: E l'ignoranza, e ciò che si chiama rozzezza, non sono forse un male?
+
+PROTARCO: Certamente.
+
+SOCRATE: Da queste considerazioni impara a conoscere la natura del ridicolo.
+
+PROTARCHUS: Spiega.
+
+SOCRATE: Il ridicolo è in breve il nome specifico che si usa per descrivere la forma viziosa di un certo [abito](/concepts/custom); e del vizio in generale è quella specie che è più in contrasto con l'iscrizione di Delfi.
+
+PROTARCO: Vuoi dire, Socrate, ‘Conosci te stesso.’
+
+SOCRATE: Io sì; e l'opposto sarebbe, 'Non conoscere te stesso.'
+
+PROTARCO: Certamente.
+
+SOCRATE: E ora, o Protarco, prova a dividere questo in tre.
+
+In verità temo di non poterlo.
+
+Socrate: Intendi dire che io debba fare la divisione per te?
+
+Protarco: Sì, e per di più, ti prego di farlo.
+
+SOCRATE: Non vi sono forse tre modi in cui l'ignoranza di sé può manifestarsi?
+
+PROTARCHUS: Che cosa sono?
+
+In primo luogo, riguardo al denaro; l'ignorante può immaginarsi più ricco di quanto non sia.
+
+Sì, questo è un errore molto comune.
+
+SOCRATE: E ancor più spesso si figurerà di essere più alto o più bello di quanto non sia, o di avere qualche altro pregio fisico che realmente non ha.
+
+PROTARCHUS: Certo.
+
+SOCRATE: E tuttavia, senza dubbio, di gran lunga il maggior numero erra intorno ai beni dell'anima; si immaginano di essere molto migliori uomini di quanto non siano.
+
+Protarco: Sì, quella è di gran lunga l'illusione più comune.
+
+SOCRATE: E di tutte le virtù, non è forse la sapienza quella che la massa degli uomini si attribuisce sempre, e che maggiormente suscita in loro uno spirito di contesa e una menzognera presunzione di sapienza?
+
+PROTARCO: Certamente.
+
+E non può tutto ciò esser veramente chiamato una condizione malvagia?
+
+PROTARCO: Molto male.
+
+SOCRATE: Ma dobbiamo proseguire la divisione un passo più avanti, Protarco, se vogliamo vedere nell'invidia di sorta fanciullesca una singolare mescolanza di piacere e di dolore.
+
+PROTARCHUS: Come possiamo fare l'ulteriore divisione che tu suggerisci?
+
 <span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): All who are silly enough to entertain this lying conceit of themselves may of course be divided, like the rest of mankind, into two classes — one having power and might; and the other the reverse.
@@ -1767,6 +3381,140 @@ PROTARCHUS: What instance shall we select?
 SOCRATES: Suppose that we first of all take whiteness.
 
 PROTARCHUS: Very good.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Tutti coloro che sono abbastanza sciocchi da intrattenere questa menzognera presunzione di sé possono naturalmente essere divisi, come il resto dell'umanità, in due classi — una avente potere e forza; e l'altra il contrario.
+
+PROTARCO: Certamente.
+
+SOCRATE: Sia dunque questo il principio della divisione; quelli tra loro che sono deboli e incapaci di vendicarsi, quando vengono derisi, possono essere a buon diritto chiamati ridicoli, ma quelli che possono difendersi possono essere più propriamente descritti come forti e formidabili; poiché l'ignoranza nei potenti è odiosa e orribile, perché dannosa agli altri sia nella realtà sia nella finzione, ma l'ignoranza impotente può essere considerata, e in verità è, ridicola.
+
+Ciò è verissimo, ma non vedo ancora dove sia la mescolanza di piaceri e dolori.
+
+SOCRATE: Ebbene, allora esaminiamo la natura dell'invidia.
+
+PROTARCO: Procedi.
+
+SOCRATE: Non è forse l'invidia un piacere ingiusto, e anche un dolore ingiusto?
+
+Protarco: Verissimo.
+
+SOCRATE: Non v'è nulla di invidioso o di sbagliato nel rallegrarsi delle sfortune dei nemici?
+
+PROTARCO: Certamente no.
+
+Ma provare gioia invece di dolore alla vista delle sventure dei nostri amici — non è forse sbagliato?
+
+Senza dubbio.
+
+SOCRATE: Non abbiamo detto che l'ignoranza era sempre un male?
+
+Protarco: Vero.
+
+SOCRATE: E le tre specie di vana presunzione nei nostri amici che abbiamo enumerate — la vana presunzione della [bellezza](/concepts/beauty), della sapienza e della ricchezza — sono ridicole se sono deboli, e detestabili quando sono potenti: non possiamo forse dire, come dicevo prima, che i nostri amici che sono in questo stato d'animo, quando sono innocui verso gli altri, siano semplicemente ridicoli?
+
+PROTARCO: Sono ridicoli.
+
+SOCRATE: E non riconosciamo questa loro ignoranza essere una disgrazia?
+
+PROTARCO: Certamente.
+
+SOCRATE: E proviamo dolore o piacere nel riderne?
+
+PROTARCHUS: Chiaramente proviamo piacere.
+
+SOCRATE: E non era l'invidia la fonte di questo piacere che proviamo nelle disgrazie degli amici?
+
+PROTARCO: Certamente.
+
+SOCRATE: Dunque l'argomento mostra che quando ridiamo della follia dei nostri amici, il piacere, mescolandosi con l'invidia, si mescola con il dolore, poiché l'invidia è stata da noi riconosciuta come dolore mentale, e il ridere è piacevole; e così invidiamo e ridiamo nello stesso istante.
+
+Protarco: Vero.
+
+E il ragionamento implica che vi siano mescolanze di piacere e dolore nei lamenti, e nella tragedia e nella commedia, non solo sulla scena, ma sul più grande teatro della vita umana; e così in infiniti altri casi.
+
+PROTARCO: Non vedo come alcuno possa negare ciò che tu dici, Socrate, per quanto desideroso egli sia di sostenere l'opinione contraria.
+
+SOCRATE: Ho menzionato [l'ira](/concepts/anger), il desiderio, il dolore, il timore, l'amore, l'emulazione, l'invidia e simili affezioni, come esempi nei quali dovremmo trovare un misto dei due elementi così spesso nominati; non è vero?
+
+PROTARCO: Sì.
+
+SOCRATE: Possiamo osservare che le nostre conclusioni finora hanno avuto riferimento soltanto al dolore, all'invidia e all'ira.
+
+PROTARCO: Capisco.
+
+Allora restano ancora molti altri casi?
+
+PROTARCO: Certamente.
+
+SOCRATE: E perché supponete che vi abbia indicato la mescolanza che ha luogo nella commedia? Se non per convincervi che non vi era alcuna difficoltà nel mostrare la natura mista del timore e dell'amore e di simili affezioni; e pensavo che, dopo avervi dato l'illustrazione, mi avreste lasciato andare, e avreste riconosciuto come verità generale che il corpo senza l'anima, e l'anima senza il corpo, come pure i due uniti, sono suscettibili di ogni sorta di mescolanze di piaceri e di dolori; e così un'ulteriore discussione sarebbe stata superflua. E ora voglio sapere se posso andarmene; o mi tratterrete qui fino a mezzanotte? Immagino di poter ottenere la mia liberazione senza molte parole; — se prometto che domani vi darò un resoconto di tutti questi casi. Ma per il momento preferirei navigare in un'altra direzione, e passare ad altre questioni che restano da definire, prima che possa essere dato il giudizio che Filebo richiede.
+
+PROTARCO: Molto bene, Socrate; in ciò che resta, segui la tua via.
+
+SOCRATE: Allora, dopo i piaceri misti, tocca a quelli non misti; questo è l’ordine naturale e necessario.
+
+PROTARCO: Eccellente.
+
+SOCRATE: Queste, a loro volta, ora mi sforzerò di indicare; ché con i sostenitori dell'opinione che tutti i piaceri siano una cessazione del dolore non concordo, ma, come dicevo, mi servo di costoro come testimoni, che vi sono piaceri che paiono soltanto e non sono, e ve ne sono altri ancora che hanno grande potenza e appaiono in molte forme, tuttavia sono commisti a dolori, e sono in parte alleviamenti di angosce e affanni, tanto del corpo quanto dell'animo.
+
+PROTARCO: Dunque, Socrate, quali piaceri avremmo ragione a concepire come veri?
+
+SOCRATE: I veri piaceri sono quelli che sono dati dalla bellezza del colore e della forma, e la maggior parte di quelli che nascono dagli odori; quelli del suono, ancora, e in generale quelli di cui la mancanza è senza dolore e non avvertita, e di cui la fruizione è percepibile ai sensi, piacevole e non mescolata a dolore.
+
+PROTARCHUS: Ancora una volta, Socrate, devo chiederti che cosa intendi.
+
+SOCRATE: Il mio significato non è certamente ovvio, e mi sforzerò di essere più chiaro. Con bellezza di forma non intendo quella bellezza che è propria degli animali o dei quadri, che i più supporrebbero essere il mio significato; ma, dice l'argomento, intendi che io voglia dire le linee rette e i cerchi, e le figure piane o solide che da esse si formano per mezzo di torni e di regoli e di misuratori di angoli; poiché queste io affermo che non sono soltanto relativamente belle, come le altre cose, ma sono eternamente e assolutamente belle, e hanno piaceri peculiari, del tutto diversi dai piaceri del grattarsi. E vi sono colori che hanno lo stesso carattere, e simili piaceri; ora intendi il mio significato?
+
+PROTARCO: Cerco di comprendere, Socrate, e spero che anche tu voglia sforzarti di rendere più chiaro il tuo pensiero.
+
+SOCRATE: Quando i suoni sono soavi e chiari, e hanno un unico tono puro, allora intendo dire che non sono relativamente ma assolutamente belli, e hanno piaceri naturali a essi associati.
+
+Protarco: Sì, esistono tali piaceri.
+
+SOCRATE: I piaceri dell'olfatto sono di un genere meno etereo, ma non hanno alcuna necessaria mescolanza di dolore; e tutti i piaceri, comunque e ovunque provati, che non sono accompagnati da dolori, li ascrivo a una classe analoga. Ecco quindi due specie di piaceri.
+
+PROTARCO: Comprendo.
+
+SOCRATE: A questi si possono aggiungere i piaceri della conoscenza, se nessuna fame di conoscenza e nessun dolore causato da tale fame li precedono.
+
+PROTARCO: E questo è il caso.
+
+Ebbene, ma se un uomo colmo di conoscenza perde la sua conoscenza, non vi sono forse dolori del dimenticare?
+
+Non necessariamente, ma possono esservi momenti di riflessione, in cui egli prova dolore per la perdita della sua conoscenza.
+
+SOCRATE: Sì, amico mio, ma al presente enumeriamo soltanto le percezioni naturali, e non abbiamo nulla a che fare con la riflessione.
+
+PROTARCO: In tal caso hai ragione nel dire che la perdita della conoscenza non è accompagnata da dolore.
+
+SOCRATE: Questi piaceri della conoscenza, dunque, sono non mescolati al dolore; e non sono i piaceri dei molti ma di pochissimi.
+
+PROTARCO: Verissimo.
+
+SOCRATE: E ora, avendo giustamente separato i piaceri puri e quelli che a ragione possono dirsi impuri, aggiungiamo inoltre alla nostra descrizione di essi, che i piaceri che sono in eccesso non hanno misura, ma che quelli che non sono in eccesso hanno misura; il grande, l'eccessivo, sia esso più o meno frequente, faremo bene a riferirlo alla classe dell'infinito, e del più e del meno, che scorre attraverso il corpo e l'anima ugualmente; e gli altri li riferiremo alla classe che ha misura.
+
+PROTARCO: Hai perfettamente ragione, Socrate.
+
+SOCRATE: Nondimeno vi è qualcosa di più da considerare intorno ai piaceri.
+
+PROTARCO: Che cos'è?
+
+SOCRATE: Quando parli di purezza e chiarezza, o di eccesso, abbondanza, grandezza e sufficienza, in che rapporto stanno questi termini con la verità?
+
+PROTARCO: Perché domandi, Socrate?
+
+SOCRATE: Perché, Protarco, vorrei mettere alla prova il piacere e la conoscenza in ogni modo possibile, affinché, se in entrambi vi è un elemento puro e uno impuro, io possa presentare al giudizio l'elemento puro, e allora essi potranno essere giudicati più facilmente da te e da me e da tutti noi.
+
+Protarco: Verissimo.
+
+ESAMINIAMO tutti i generi puri; scegliendo dapprima a considerazione un solo esempio.
+
+PROTARCO: Quale esempio dovremo scegliere?
+
+SOCRATE: Supponiamo che prima di tutto prendiamo la bianchezza.
+
+PROTARCO: Molto bene.
 
 <span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -1938,6 +3686,176 @@ SOCRATES: Certainly, Protarchus; but are not these also distinguishable into two
 
 PROTARCHUS: What are the two kinds?
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Come può esserci purezza nel bianco, e quale purezza? È il più puro quello che è maggiore o massimo in quantità, o quello che è il più incontaminato e il più libero da ogni mescolanza di altri colori?
+
+Protarco: Chiaramente ciò che è purissimo.
+
+SOCRATE: Vero, Protarco; e così il bianco più puro, e non il più grande o il più abbondante in quantità, è da ritenere il più vero e il più bello?
+
+PROTARCO: Giusto.
+
+SOCRATE: E avremo perfettamente ragione nel dire che un po' di bianco puro è più bianco, più bello e più vero di una grande quantità di bianco mescolato.
+
+PROTARCO: Perfettamente giusto.
+
+SOCRATE: Non v'è bisogno di addurre molti simili esempi a illustrazione del ragionamento sul piacere; uno solo è sufficiente a dimostrarci che un piccolo piacere o una piccola quantità di piacere, se puro o non mescolato con dolore, è sempre più piacevole e più vero e più bello di un grande piacere o di una grande quantità di piacere di altra specie.
+
+Protarco: Certamente; e l'esempio che hai addotto è del tutto sufficiente.
+
+SOCRATE: Ma che dici di un'altra questione: non abbiamo forse udito che il piacere è sempre una generazione, e non ha vero essere? Non insegnano questa dottrina certi filosofi ingegnosi, e non dovremmo esser loro grati?
+
+PROTARCO: Cosa intendono?
+
+SOCRATE: Ti spiegherò, mio caro Protarco, che cosa intendono, ponendo una domanda.
+
+PROTARCO: Chiedi, e risponderò.
+
+Suppongo che vi siano due nature, l'una esistente per sé, e l'altra sempre bisognosa di qualcosa.
+
+PROTARCO: Che genere di nature sono?
+
+SOCRATE: L'uno maestoso sempre, l'altro inferiore.
+
+PROTARCO: Parli per enigmi.
+
+SOCRATE: Hai veduto amori buoni e belli, e anche valorosi amanti di essi.
+
+PROTARCO: Lo credo bene.
+
+SOCRATE: Cerca nell'universo due termini che siano simili a questi due e che siano presenti ovunque.
+
+PROTARCO: Eppure per la terza volta devo dire: sii un poco più chiaro, Socrate.
+
+SOCRATE: Non v'è difficoltà, Protarco; l'argomento è solo in gioco, e insinua che alcune cose sono in vista di qualcos'altro (relative), e che altre cose sono i fini a cui la prima classe serve (assolute).
+
+PROTARCHUS: Le tue molte ripetizioni mi rendono tardo a comprendere.
+
+SOCRATE: Man mano che l’argomentazione procede, ragazzo mio, oserei dire che il significato diventerà più chiaro.
+
+PROTARCO: Molto probabilmente.
+
+SOCRATE: Ecco due nuovi principi.
+
+PROTARCHUS: Che cosa sono?
+
+SOCRATES: L'uno è la generazione di tutte le cose, e l'altro è l'essenza.
+
+PROTARCO: Accetto volentieri da entrambi sia la generazione che l'essenza.
+
+SOCRATE: Giustissimo; e diresti che la generazione è in vista dell'essenza, o l'essenza in vista della generazione?
+
+Vuoi tu sapere se ciò che è chiamato essenza sia, propriamente parlando, in vista della generazione?
+
+SOCRATE: Sì.
+
+PROTARCO: Per gli dèi, vorrei che tu ripetessi la tua domanda.
+
+SOCRATE: Intendo, o mio Protarco, chiedere se mi diresti che la costruzione di navi è in vista delle navi, o le navi in vista della costruzione di navi? e in tutti i casi simili porrei la stessa domanda.
+
+PROTARCO: Perché non rispondi tu stesso, o Socrate?
+
+SOCRATE: Non ho obiezioni, ma devi fare la tua parte.
+
+PROTARCO: Certamente.
+
+Socrate: La mia risposta è che tutte le cose strumentali, rimediali, materiali ci sono date in vista della generazione, e che ogni generazione è relativa a, o in vista di, qualche essere o essenza, e che tutta la generazione è relativa a tutta l'essenza.
+
+PROTARCO: Certamente.
+
+SOCRATE: Allora il piacere, essendo una generazione, deve certamente essere in vista di qualche essenza?
+
+Protarco: Vero.
+
+SOCRATE: E [ciò in vista di cui](/concepts/four_causes) si fa qualcos'altro deve essere posto nella classe del bene, e ciò che è fatto in vista di qualcos'altro, in un'altra classe, mio buon amico.
+
+PROTARCHUS: Certamente.
+
+SOCRATE: Allora il piacere, essendo una generazione, sarà giustamente collocato in qualche altra classe diversa da quella del bene?
+
+Protarco: Proprio così.
+
+SOCRATES: Allora, come ho detto all'inizio, dovremmo essere molto grati a colui che per primo indicò che il piacere fosse solo una generazione, e non avesse alcun vero essere; poiché egli è chiaramente uno che ride dell'idea che il piacere sia un bene.
+
+PROTARCO: Certamente.
+
+SOCRATE: E certamente riderebbe anche di coloro che pongono la generazione come loro fine supremo.
+
+PROTARCHUS: Di chi parli, e che cosa intendono?
+
+SOCRATE: Io parlo di coloro i quali, quando sono sanati dalla fame o dalla sete o da qualsiasi altra mancanza per mezzo di qualche processo di generazione, si rallegrano del processo come se fosse piacere; e dicono che non vorrebbero vivere senza queste e altre affezioni di tal genere che si potrebbero menzionare.
+
+PROTARCHUS: Quello è certamente ciò che essi sembrano pensare.
+
+SOCRATE: E non è forse universalmente ammesso che la distruzione sia l'opposto della generazione?
+
+PROTARCO: Certamente.
+
+SOCRATE: Dunque chi sceglie così sceglierebbe la generazione e la distruzione piuttosto che quel terzo genere di vita, nel quale, come dicevamo, non vi era né piacere né dolore, ma solo il più puro pensiero possibile.
+
+PROTARCO: Colui che vorrebbe farci credere che il piacere sia un bene è coinvolto in grandi assurdità, Socrate.
+
+SOCRATE: Grande, davvero; e ce n'è ancora un altro.
+
+PROTARCO: Che cos'è?
+
+SOCRATE: Non v'è forse un'assurdità nel sostenere che nel corpo, o in qualsiasi altra cosa, non vi è nulla di buono o di nobile, ma che il bene è solo nell'anima, e che l'unico bene dell'anima è il piacere; e che il coraggio, o la temperanza, o l'intendimento, o qualsiasi altro bene dell'anima, non è realmente un bene? — e non v'è forse un'ulteriore assurdità nell'essere costretti a dire che colui che prova dolore e non piacere è cattivo nel momento in cui soffre, anche se fosse il migliore degli uomini; e di nuovo, che colui che prova piacere, nella misura in cui è lieto nel momento in cui è lieto, in quel grado eccelle in virtù?
+
+Nulla, Socrate, può essere più irrazionale di tutto questo.
+
+SOCRATE: E ora, dopo aver sottoposto il piacere ad ogni sorta di prova, non sembriamo troppo parchi verso la mente e la conoscenza: facciamone risuonare arditamente il metallo, e vediamo se in alcuna parte vi sia difetto, finché non abbiamo scoperto ciò che in essi è di natura purissima; e allora gli elementi più veri sia del piacere sia della conoscenza potranno essere portati dinanzi al giudizio.
+
+PROTARCO: Giusto.
+
+SOCRATE: La conoscenza ha due parti, — l'una produttiva, e l'altra educativa?
+
+Protarco: Vero.
+
+E nelle arti produttive o manuali, non è forse una parte più affine alla conoscenza e l'altra meno; e non si può forse considerare l'una come pura e l'altra come impura?
+
+PROTARCO: Certamente.
+
+SOCRATES: Separiamo gli elementi superiori o dominanti in ciascuno di essi.
+
+Che cosa sono, e come li separi?
+
+SOCRATE: Intendo dire che, se l'aritmetica, la misurazione e la pesatura siano tolte da qualsiasi arte, ciò che rimane non sarà molto.
+
+PROTARCO: Non molto, certamente.
+
+SOCRATE: Il resto sarà soltanto congettura, e il miglior uso dei sensi che è dato dall'esperienza e dalla pratica, oltre a una certa facoltà di indovinare, che comunemente si chiama arte, e che si perfeziona con l'attenzione e con la fatica.
+
+PROTARCO: Nient'altro, certamente.
+
+SOCRATE: La musica, per esempio, è piena di questo [empirismo](/positions/empiricism); infatti i suoni sono armonizzati non mediante misura, ma mediante abile congettura; la musica del flauto cerca sempre di indovinare l'altezza di ciascuna nota vibrante, ed è perciò mescolata con molto che è dubbio e ha poco che è certo.
+
+Protarco: Verissimo.
+
+SOCRATE: E lo stesso si troverà valere per la medicina, l'agricoltura, la navigazione e l'arte del generale.
+
+PROTARCO: Verissimo.
+
+SOCRATE: L'arte del costruttore, d'altra parte, che si serve di un gran numero di misure e strumenti, per mezzo di questi raggiunge un grado di accuratezza maggiore rispetto alle altre arti.
+
+PROTARCHUS: Come sarebbe?
+
+SOCRATE: Nella costruzione di navi e di case, e negli altri rami dell'arte del carpentiere, il costruttore ha la sua regola, il suo tornio, il suo compasso, la sua linea e una macchina ingegnosissima per raddrizzare il legno.
+
+PROTARCO: Verissimo, Socrate.
+
+SOCRATE: Dividiamo dunque ora le arti di cui parlavamo in due specie: le arti che, come la musica, sono meno esatte nei loro risultati, e quelle che, come la falegnameria, sono più esatte.
+
+PROTARCO: Facciamo quella divisione.
+
+SOCRATE: Di quest'ultima classe, le più esatte di tutte sono quelle che or ora abbiamo chiamato primarie.
+
+PROTARCO: Vedo che intendi l'aritmetica, e le arti affini del pesare e del misurare.
+
+SOCRATE: Certamente, Protarco; ma non sono anche queste distinguibili in due generi?
+
+PROTARCO: Quali sono i due generi?
+
 <span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): In the first place, arithmetic is of two kinds, one of which is popular, and the other philosophical.
@@ -2084,6 +4002,152 @@ SOCRATES: That the good differs from all other things.
 
 PROTARCHUS: In what respect?
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): In primo luogo, l'aritmetica è di due specie, una delle quali è popolare, e l'altra filosofica.
+
+PROTARCO: Come li distingueresti?
+
+SOCRATE: C'è una grande differenza tra loro, Protarco; alcuni aritmetici contano unità ineguali; come, per esempio, due eserciti, due buoi, due cose grandissime o due cose piccolissime. Coloro che sono loro avversari insistono che ogni unità in diecimila debba essere uguale a ogni altra unità.
+
+PROTARCO: Senza dubbio vi è, come tu dici, una grande differenza tra i seguaci della scienza; e può ragionevolmente supporsi che vi siano due specie di aritmetica.
+
+SOCRATE: E quando paragoniamo l'arte della misurazione adoperata nell'edilizia con la geometria filosofica, o l'arte del calcolo adoperata nel commercio con l'esatta aritmetica, diremo di ciascuna di queste coppie che essa è una o due?
+
+PROTARCHUS: Sull'analogia di quanto precede, sarei dell'opinione che essi fossero rispettivamente due.
+
+SOCRATE: Giusto; ma capisci perché ho discusso l'argomento?
+
+PROTARCO: Credo di sì, ma vorrei che me lo dicessi tu.
+
+SOCRATE: L'argomento ha cercato per tutto il tempo un parallelo al piacere e, fedele a quel disegno originario, è giunto a chiedersi se una specie di conoscenza sia più pura di un'altra, come un piacere è più puro di un altro.
+
+Chiaramente; era quella l'intenzione.
+
+SOCRATE: E non ha forse già mostrato il ragionamento, in ciò che precede, che le arti hanno differenti province, e variano nei loro gradi di certezza?
+
+PROTARCO: Verissimo.
+
+E or ora non ha forse il ragionamento designato dapprima un’arte particolare con un termine comune, facendoci così credere nell’unità di quell’arte; e poi di nuovo, quasi parlando di due cose diverse, procedette a indagare se l’arte, come è perseguita dai filosofi, o come è perseguita dai non filosofi, abbia più certezza e purezza?
+
+Protarco: È appunto questa la questione che l'argomento si pone.
+
+SOCRATE: E come, Protarco, risponderemo all'indagine?
+
+PROTARCO: O Socrate, siamo giunti a un punto in cui la differenza di chiarezza nei diversi generi di conoscenza è enorme.
+
+SOCRATE: Allora la risposta sarà più facile.
+
+PROTARCO: Certamente; e diciamo in risposta, che quelle arti in cui entrano l'aritmetica e la misurazione superano di gran lunga tutte le altre; e che di queste, le arti o scienze che sono animate dal puro impulso filosofico sono infinitamente superiori in accuratezza e verità.
+
+SOCRATE: Dunque questo è il tuo giudizio; e questa è la risposta che, sulla tua autorità, daremo a tutti i maestri dell'arte del fraintendimento?
+
+PROTARCHUS: Quale risposta?
+
+SOCRATE: Che vi sono due arti dell'aritmetica, e due della misurazione; e anche parecchie altre arti che in ugual modo hanno questa doppia natura, e tuttavia un solo nome.
+
+PROTARCO: Restituiamo arditamente questa risposta ai maestri di cui parli, Socrate, e speriamo nella buona sorte.
+
+SOCRATES: Abbiamo spiegato ciò che chiamiamo le arti o scienze più esatte.
+
+PROTARCO: Molto bene.
+
+SOCRATE: Eppure, Protarco, [dialettica](/positions/dialectic) si rifiuterà di riconoscerci, se non le assegneremo il primo posto.
+
+PROTARCO: E di grazia, che cos'è la dialettica?
+
+SOCRATE: Chiaramente la scienza che ha a che fare con tutta quella conoscenza di cui ora parliamo; poiché sono certo che tutti gli uomini che abbiano un granello d'intelligenza ammetteranno che la conoscenza che ha a che fare con l'essere e la realtà, e con la medesimezza e l'immutabilità, è di gran lunga la più vera di tutte. Ma come decideresti tu questa questione, Protarco?
+
+Protarco: Ho spesso udito Gorgia sostenere, o Socrate, che l'arte della persuasione superasse di gran lunga ogni altra; questa, come egli dice, è di gran lunga la migliore di tutte, giacché ad essa ogni cosa si sottomette, non per forza, ma di propria [libera volontà](/positions/free_will). Ora, non vorrei contendere né con te né con lui.
+
+SOCRATE: Vuoi dire che ti piacerebbe disertare, se non ti vergognassi?
+
+PROTARCHUS: Come vuoi.
+
+SOCRATE: Possibile che io ti abbia tratto in errore?
+
+PROTARCO: Come?
+
+SOCRATE: Caro Protarco, io non ho mai domandato quale fosse la più grande o la migliore o la più utile delle arti o delle scienze, ma quale avesse chiarezza e accuratezza, e la maggior quantità di verità, per quanto umile e poco utile fosse un'arte. E quanto a Gorgia, se tu non neghi che la sua arte abbia il vantaggio dell'utilità agli uomini, egli non contenderà con te per il fatto che tu dica che lo studio di cui parlo è superiore in questo particolare di verità essenziale; come nel confronto dei colori bianchi, un po' di bianchezza, se quel poco sia soltanto puro, si diceva essere superiore in verità a una grande massa che è impura. E ora prestiamo la nostra migliore attenzione e consideriamo bene, non l'uso relativo o la reputazione delle scienze, ma la potenza o facoltà, se ve n'è alcuna, che l'anima ha di amare la verità, e di fare ogni cosa per amor di essa; investiguiamo l'elemento puro della mente e dell'intelligenza, e allora potremo dire se la scienza di cui ho parlato sia quella che ha maggiori probabilità di possedere la facoltà, o se ve ne sia qualche altra che abbia maggiori titoli.
+
+Ebbene, ho riflettuto, e a stento posso pensare che alcun'altra scienza o arte abbia una presa più salda della verità di questa.
+
+SOCRATE: Lo dici forse perché osservi che le arti in generale e coloro che le praticano fanno uso dell'opinione, e sono risolutamente impegnati nell'indagine delle cose che sono materia di opinione? Anche colui che si crede occupato della natura è in realtà occupato delle cose di questo mondo, come siano create, come agiscano o patiscano. Non è forse in questo genere di ricerca che egli trascorre la vita?
+
+Protarco: Vero.
+
+Egli si affatica, non dietro l’essere eterno, ma intorno alle cose che divengono, o che diverranno o che sono divenute.
+
+PROTARCO: Verissimo.
+
+E possiamo dire che alcuna di queste cose, le quali non sono, non sono state, né saranno immutabili, quando siano giudicate secondo la stretta regola della verità, diventi mai certa?
+
+PROTARCO: Impossibile.
+
+SOCRATE: Come può qualcosa di fisso essere in rapporto con ciò che non ha fissità?
+
+PROTARCO: Come no?
+
+SOCRATE: Dunque la mente e la scienza, quando sono impiegate intorno a cose così mutevoli, non conseguono la verità suprema?
+
+PROTARCO: Non lo immaginerei.
+
+SOCRATE: E ora diciamo addio, un lungo addio, a te o a me o a Filebo o a Gorgia, e peroriamo a favore del ragionamento un solo punto.
+
+PROTARCO: Che punto?
+
+SOCRATE: Diciamo che lo stabile e il puro e il vero e il non mescolato riguarda le cose che sono eterne e immutabili e non miste, o se non altro, comunque, ciò che è loro più affine; e che tutte le altre cose vanno collocate in una classe seconda o inferiore.
+
+PROTARCO: Verissimo.
+
+SOCRATE: E dei [nomi](/positions/nominalism) che esprimono conoscenza, non si devono forse dare i più belli alle cose più belle?
+
+PROTARCO: Ciò è naturale.
+
+SOCRATE: E non sono la mente e la sapienza i nomi che si debbono onorare maggiormente?
+
+PROTARCO: Sì.
+
+SOCRATE: E si può dire che questi nomi abbiano la loro applicazione più vera e più esatta quando la mente è impegnata nella contemplazione dell'essere vero?
+
+PROTARCO: Certamente.
+
+SOCRATE: E questi erano i nomi che addussi dei rivali del piacere?
+
+PROTARCO: Verissimo, Socrate.
+
+SOCRATE: In secondo luogo, quanto alla mescolanza, ecco gli ingredienti, il piacere e la saggezza, e possiamo essere paragonati ad artisti che hanno i loro materiali pronti tra le mani.
+
+PROTARCO: Sì.
+
+SOCRATE: E ora dobbiamo cominciare a mescolarli?
+
+PROTARCO: Senz'altro.
+
+SOCRATE: Ma non sarebbe meglio che premettenessimo una parola e rinfrescassimo le nostre memorie?
+
+PROTARCO: Di che cosa?
+
+Socrate: Di ciò che ho già menzionato. Ben dice il proverbio che si deve ripetere due e anche tre volte ciò che è buono.
+
+PROTARCO: Certamente.
+
+SOCRATE: Ebbene, per Zeus, procediamo, e farò ciò che ritengo essere un giusto riassunto dell’argomento.
+
+PROTARCO: Fammi sentire.
+
+SOCRATE: Filebo dice che il piacere è il vero fine di tutti gli esseri viventi, al quale tutti devono mirare, e inoltre che è il sommo bene di tutti, e che i due nomi ‘bene’ e ‘piacevole’ sono correttamente attribuiti a una sola cosa e a una sola natura; Socrate, d’altra parte, comincia col negare questo, e dice inoltre che in natura come in nome sono due, e che la sapienza partecipa del bene più del piacere. Non è e non era questo ciò che dicevamo, Protarco?
+
+PROTARCO: Certamente.
+
+SOCRATE: E non vi è, e non vi era, un altro punto che fu ammesso tra noi?
+
+PROTARCO: Che cos'era?
+
+SOCRATE: Che il bene differisce da tutte le altre cose.
+
+PROTARCO: Sotto quale aspetto?
+
 <span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): In that the being who possesses good always everywhere and in all things has the most perfect sufficiency, and is never in need of anything else.
@@ -2209,6 +4273,132 @@ PROTARCHUS: And our answer will be: — In that ye have spoken well.
 SOCRATES: Very true. And now let us go back and interrogate wisdom and mind: Would you like to have any pleasures in the mixture? And they will reply:— ‘What pleasures do you mean?’
 
 PROTARCHUS: Likely enough.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): In quanto l'essere che possiede il bene sempre, dovunque e in tutte le cose ha la più perfetta sufficienza, e non ha mai bisogno di null'altro.
+
+PROTARCO: Esattamente.
+
+SOCRATE: E non tentammo noi di fare una separazione immaginaria della sapienza e del piacere, assegnando a ciascuno una vita distinta, cosicché il piacere fosse del tutto escluso dalla sapienza, e la sapienza, parimenti, non avesse parte alcuna nel piacere?
+
+PROTARCHUS: Lo facemmo.
+
+SOCRATE: E ritenevamo che uno dei due, da solo, sarebbe stato sufficiente?
+
+PROTARCO: Certamente no.
+
+SOCRATE: E se errammo in qualche punto, chiunque voglia riprenda l'indagine e ci corregga; e supponendo che memoria, sapienza, conoscenza e vera opinione appartengano alla stessa classe, consideri se desidererebbe possedere o acquistare, — non dico il piacere, per quanto abbondante o intenso, se non ha reale percezione di essere lieto, né alcuna coscienza di ciò che sente, né alcun ricordo, per quanto momentaneo, del sentimento, — ma desidererebbe possedere alcunché, se queste facoltà gli mancassero? E circa la sapienza pongo la stessa domanda; puoi concepire che qualcuno sceglierebbe di avere tutta la sapienza assolutamente priva di piacere, piuttosto che con un certo grado di piacere, o tutto il piacere privo di sapienza, piuttosto che con un certo grado di sapienza?
+
+Certo che no, Socrate; ma perché ripetere ancora tali domande?
+
+SOCRATE: Dunque il perfetto e l'universalmente eleggibile e l'interamente buono non possono essere né l'uno né l'altro dei due?
+
+PROTARCO: Impossibile.
+
+SOCRATE: Allora ora dobbiamo determinare la natura del bene con più o meno accuratezza, affinché, come dicevamo, possa essere debitamente assegnato il secondo posto.
+
+PROTARCO: Giusto.
+
+SOCRATE: Non abbiamo forse trovato una strada che conduce verso il bene?
+
+PROTARCO: Quale via?
+
+SOCRATE: Supponendo che si dovesse trovare un uomo, e si potesse scoprire in quale casa abitava, non sarebbe questo un grande passo verso la scoperta dell'uomo stesso?
+
+PROTARCO: Certamente.
+
+SOCRATE: E ora la ragione ci suggerisce, come al nostro primo principio, che dobbiamo cercare il bene, non nella vita non mescolata ma nella mescolata.
+
+Protarco: Vero.
+
+SOCRATE: Vi è maggiore speranza di trovare ciò che cerchiamo nella vita che è ben mescolata che in quella che non lo è?
+
+PROTARCO: Di gran lunga maggiore.
+
+Orbene, Protarco, mescoliamo ora, innalzando al tempo stesso una preghiera a Dioniso o a Efesto, o a qualunque dio sia colui che presiede alla cerimonia del mescolare.
+
+PROTARCO: Senz'altro.
+
+SOCRATE: Non siamo noi i coppieri? e qui vi sono due fontane che scorrono al nostro fianco: l'una, che è il piacere, può essere paragonata a una fontana di miele; l'altra, la sapienza, una sobria bevanda in cui non si mescola vino, è di acqua sgradevole ma salubre; da queste dobbiamo cercare di fare la più bella di tutte le possibili miscele.
+
+PROTARCO: Certamente.
+
+SOCRATE: Dimmi prima; — riusciremmo meglio se mescolassimo ogni sorta di piacere con ogni sorta di saggezza?
+
+PROTARCO: Forse potremmo.
+
+SOCRATE: Ma avrei paura del rischio, e penso di poter mostrare un piano più sicuro.
+
+PROTARCO: Che cos'è?
+
+SOCRATE: Un piacere era supposto da noi più vero di un altro, e un'arte più esatta di un'altra.
+
+PROTARCO: Certamente.
+
+Vi era anche, come si supponeva, una differenza tra le scienze: alcune riguardavano soltanto ciò che è transitorio e perituro, altre ciò che è permanente, incorruttibile, eterno e immutabile; e, giudicate secondo il criterio della verità, queste ultime, come pensavamo, erano più vere delle prime.
+
+Protarco: Molto bene e giusto.
+
+SOCRATE: Se, dunque, cominciassimo col mescolare le sezioni di ciascuna classe che hanno più verità, non basterà l'unione a darci la più bella delle vite, o ci mancheranno ancora alcuni elementi di un'altra specie?
+
+PROTARCO: Penso che dovremmo fare ciò che suggerisci.
+
+SOCRATES: Supponiamo un uomo che comprenda la giustizia, e abbia ragione nonché comprensione circa la vera natura di questa e di tutte le altre cose.
+
+PROTARCO: Supporremo un tale uomo.
+
+SOCRATE: Avrà egli abbastanza della conoscenza se conosce soltanto il cerchio e la sfera divini, e non sa nulla delle nostre sfere e cerchi umani, ma usa solo cerchi e misure divini nella costruzione di una casa?
+
+La conoscenza che è soltanto sovrumana, Socrate, è ridicola nell'uomo.
+
+SOCRATE: Che intendi dire? Intendi forse che tu debba gettare nella coppa e mescolare quell'arte impura e incerta che si serve della falsa misura e del falso cerchio?
+
+PROTARCHUS: Sì, dobbiamo, se qualcuno di noi deve mai ritrovare la via di casa.
+
+SOCRATE: E devo includere la musica, la quale, come dicevo poc'anzi, è piena di congetture e d'imitazione, e difetta di purezza?
+
+Sì, penso che tu debba farlo, se la vita umana dev'essere vita in qualche modo.
+
+SOCRATE: Ebbene, allora, supponiamo che io ceda e, come un portinaio che è spinto e sopraffatto dalla folla, spalanchi la porta e lasci che ogni sorta di conoscenza entri a fiotti, e che il puro si mescoli con l'impuro?
+
+Non so, Socrate, che alcun gran danno ne verrebbe dall'averle tutte, purché tu abbia la prima specie.
+
+Ebbene, allora lascerò che tutti confluiscano in ciò che Omero poeticamente chiama 'un convegno delle acque'?
+
+PROTARCO: Senz'altro.
+
+SOCRATE: Ecco — le ho lasciate entrare, e ora devo ritornare alla fonte del piacere. Poiché non ci fu permesso di cominciare col mescolare in un unico flusso le vere porzioni di entrambe secondo la nostra intenzione originaria; ma l'amore di ogni conoscenza ci costrinse a lasciare che tutte le scienze confluissero insieme prima dei piaceri.
+
+PROTARCO: Verissimo.
+
+SOCRATE: E ora è giunto il tempo per noi di considerare anche i piaceri, se dovremo in pari modo lasciarli andare tutti in una volta, o dapprima solo i veri.
+
+PROTARCO: Sarà di gran lunga il partito più sicuro lasciar fluire prima quelle vere.
+
+SOCRATE: Lasciali scorrere, allora; e ora, se vi sono piaceri necessari, come vi erano arti e scienze necessarie, non dobbiamo forse mescolarli?
+
+PROTARCO: Sì; i piaceri necessari dovrebbero certamente essere ammessi a mescolarsi.
+
+SOCRATE: Si è ammesso che la conoscenza delle arti è sempre innocente e utile; e se diciamo dei piaceri allo stesso modo che tutti sono buoni e innocenti per tutti noi in ogni tempo, dobbiamo lasciarli mescolare tutti?
+
+Protarco: Che diremo di loro, e quale via seguiremo?
+
+Socrate: Non domandarmi, Protarco; ma chiedi alle figlie del piacere e della sapienza che rispondano per loro stesse.
+
+PROTARCO: Come?
+
+SOCRATE: Dicci, o diletto — ti chiameremo piaceri o con qualche altro nome? — preferiresti vivere con o senza saggezza? Sono dell'opinione che risponderebbero certamente come segue:
+
+PROTARCO: Come?
+
+SOCRATE: Risponderebbero, come dicevamo prima, che per ogni singola classe lasciata pura e isolata non è bene, né del tutto possibile; e che se dobbiamo fare confronti tra una classe e l'altra e scegliere, non vi è compagno migliore della conoscenza delle cose in generale, e parimenti la perfetta conoscenza, se possibile, di noi stessi sotto ogni aspetto.
+
+PROTARCO: E la nostra risposta sarà: — In quanto avete parlato bene.
+
+SOCRATE: Verissimo. E ora ritorniamo e interroghiamo la sapienza e la mente: Vorreste avere qualche piacere nella mescolanza? E risponderanno:— «Quali piaceri intendi?»
+
+Protarco: Assai probabile.
 
 <span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -2344,6 +4534,140 @@ SOCRATES: And, according to the judgment which has now been given, pleasure will
 
 PROTARCHUS: True.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): E riprenderemo la nostra parabola e diremo: desiderate avere i piaceri più grandi e più veementi per compagni, oltre a quelli veri? ‘Perché, Socrate,’ diranno, ‘come potremmo? visto che sono la fonte di diecimila ostacoli per noi; essi turbano le anime degli uomini, che sono la nostra dimora, con la loro follia; ci impediscono di venire alla luce, e sono comunemente la rovina dei figli che ci nascono, facendo sì che siano dimenticati e trascurati; ma i piaceri veri e puri, di cui hai parlato, sappi che sono della nostra famiglia, e anche quei piaceri che accompagnano la salute e la temperanza, e che ogni Virtù, come una dea, ha al suo seguito per seguirla dovunque vada, — mescola questi e non gli altri; sarebbe una grande mancanza di senno in chiunque desideri vedere una bella e perfetta mescolanza, e trovare in essa ciò che è il bene supremo nell'uomo e nell'universo, e divinare quale sia la vera forma del bene — sarebbe una grande mancanza di senno permettere che i piaceri, che sono sempre in compagnia della follia e del vizio, si mescolino con la mente nella coppa.’ — Non è questa una risposta molto razionale e conveniente, che la mente ha fatto, sia a proprio nome, sia a nome della memoria e della vera opinione?
+
+PROTARCO: Senz'altro.
+
+SOCRATE: E ancora deve esservi aggiunto qualcosa di più, che è un ingrediente necessario in ogni mescolanza.
+
+PROTARCHUS: Che cos'è quello?
+
+SOCRATE: A meno che la verità non entri nella composizione, nulla può veramente essere creato o sussistere.
+
+PROTARCO: Impossibile.
+
+SOCRATE: Assolutamente impossibile; e ora tu e Filebo dovete dirmi se manca ancora alcunché nella mescolanza, poiché, a mio modo di vedere, il ragionamento è ormai compiuto, e può essere paragonato a una legge incorporea, che sta per tenere giusto dominio sopra un corpo vivente.
+
+PROTARCO: Sono d'accordo con te, Socrate.
+
+SOCRATE: E non possiamo dire con ragione che siamo ora nel vestibolo della dimora del bene?
+
+PROTARCO: Penso che lo siamo.
+
+SOCRATE: Che cosa c'è, allora, nel miscuglio che è la cosa più preziosa, e che è la causa principale per cui tale stato è universalmente amato da tutti? Quando l'avremo scoperto, procederemo a chiederci se questa natura onnipresente sia più affine al piacere o all'intelletto.
+
+PROTARCO: Giustissimo; in tal modo saremo in grado di giudicare meglio.
+
+SOCRATE: E non v'è difficoltà a vedere la causa che rende ogni mescolanza o di sommo valore o di nessun valore.
+
+PROTARCO: Che cosa intendi dire?
+
+SOCRATE: Ogni uomo lo sa.
+
+PROTARCHUS: Che cosa?
+
+SOCRATE: Egli sa che ogni mancanza di misura e di simmetria in qualsiasi mescolanza deve sempre, di necessità, essere fatale, sia agli elementi sia alla mescolanza, la quale allora non è una mescolanza, ma solo un confuso miscuglio che reca confusione a colui che la possiede.
+
+PROTARCO: Verissimo.
+
+SOCRATE: Ed ora la potenza del bene si è ritirata nella regione del bello; poiché misura e simmetria sono [bellezza](/concepts/beauty) e virtù in ogni parte del mondo.
+
+PROTARCHUS: Vero.
+
+Dicemmo anche che la verità doveva costituire un elemento nella mescolanza.
+
+PROTARCO: Certamente.
+
+Allora, se non siamo capaci di cacciare il bene con una sola idea, con tre possiamo catturare la nostra preda; Bellezza, Simmetria, Verità sono le tre, e queste, prese insieme, possiamo considerare come l'unica causa della mescolanza, e la mescolanza come buona in ragione dell'infusione di esse.
+
+PROTARCO: Giusto.
+
+SOCRATE: E ora, Protarco, chiunque potrebbe decidere abbastanza bene se il piacere o la saggezza sia più affine al bene supremo, e più onorevole tra gli dèi e gli uomini.
+
+PROTARCO: Chiaramente, e tuttavia forse l'argomento sarebbe meglio proseguirlo fino alla fine.
+
+SOCRATE: Dobbiamo prendere ciascuna di esse separatamente nella loro relazione con il piacere e con la mente, e pronunciarci su di esse; poiché dobbiamo vedere a quale dei due siano singolarmente più affini.
+
+Protarco: Parli di bellezza, verità e misura?
+
+Sì, Protarco, prendi prima la verità, e, dopo aver passato in rassegna mente, verità, piacere, fermati un poco e rispondi a te stesso — se il piacere o la mente sia più affine alla verità.
+
+Protarco: Non c'è bisogno di soffermarsi, poiché la differenza tra loro è palpabile; il piacere è il più vero impostore del mondo; e si dice che nei piaceri dell'amore, che sembrano i più grandi, lo spergiuro sia scusato dagli dèi; poiché i piaceri, come i bambini, non hanno in sé la minima particella di ragione; mentre la mente è o la stessa cosa della verità, o la più simile alla verità, e la più vera.
+
+Dovremmo poi considerare la misura, similmente, e domandare se il piacere ne abbia più della saggezza, o la saggezza più del piacere?
+
+PROTARCO: Ecco un'altra questione alla quale si può facilmente rispondere; giacché immagino che nulla possa mai essere più smodato dei trasporti del piacere, né più conforme alla misura di quanto non siano la mente e la conoscenza.
+
+SOCRATE: Benissimo; ma resta ancora la terza prova: la mente ha una parte maggiore di bellezza del piacere, e la mente o il piacere è la più bella delle due?
+
+PROTARCHUS: Nessuno, Socrate, né desto né sognando, vide mai o immaginò mente o saggezza essere in alcunché di sconveniente, in nessun tempo, passato, presente o futuro.
+
+SOCRATE: Giusto.
+
+PROTARCHUS: Ma quando vediamo qualcuno abbandonarsi ai piaceri, forse ai più grandi piaceri, la natura ridicola o vergognosa dell'azione ci fa arrossire; e così li sottraiamo alla vista, e li consegniamo alle tenebre, nell'idea che non debbano incontrare la luce del giorno.
+
+Allora, Protarco, proclamerai ovunque, a viva voce a questa compagnia, e per mezzo di messaggeri che rechino la notizia in lungo e in largo, che il piacere non è il primo dei beni, né il secondo, ma che nella misura, e nel mezzo, e nel conveniente, e simili, è stata trovata la natura eterna.
+
+PROTARCHUS: Sì, questo sembra essere il risultato di ciò che è stato ora detto.
+
+SOCRATE: Nella seconda classe è contenuto il simmetrico e il bello e il perfetto o sufficiente, e tutto ciò che è di quella famiglia.
+
+PROTARCHUS: Vero.
+
+SOCRATE: E se annoveri nella terza classe la mente e la saggezza, non sarai molto lontano dal vero, se ben divino.
+
+PROTARCO: Oserei dire.
+
+E non metteresti nella quarta classe i beni che affermavamo appartenere particolarmente all'anima — le scienze, le arti e le opinioni vere, come le chiamavamo? Questi vengono dopo la terza classe e formano la quarta, poiché sono certamente più affini al bene di quanto non lo sia il piacere.
+
+PROTARCO: Certamente.
+
+SOCRATE: La quinta classe sono i piaceri che da noi furono definiti come senza dolore, essendo i piaceri puri dell'anima stessa, come li chiamammo, che accompagnano, alcuni le scienze, e alcuni i sensi.
+
+PROTARCHUS: Forse.
+
+SOCRATE: E ora, come dice Orfeo,
+
+     ‘Con la sesta generazione cessi la gloria del mio canto.’
+
+Qui, al sesto premio, facciamo fine; non resta che porre la corona al nostro discorso.
+
+PROTARCHUS: Vero.
+
+SOCRATE: Allora ricapitoliamo e riaffermiamo quanto è stato detto, offrendo così la terza libazione a Zeus salvatore.
+
+PROTARCO: Come?
+
+SOCRATE: Filebo affermò che il piacere era sempre e assolutamente il bene.
+
+PROTARCO: Capisco; questa terza libagione, Socrate, di cui parlavi, significava una ricapitolazione.
+
+SOCRATE: Sì, ma ascolta la continuazione; convinto di ciò che ho appena detto, e sentendomi indignato per la dottrina, che è sostenuta non solo da Filebo, ma da migliaia di altri, affermai che la mente era di gran lunga migliore e di gran lunga più eccellente, come elemento della vita umana, del piacere.
+
+PROTARCHUS: Vero.
+
+SOCRATE: Ma, sospettando che vi fossero altre cose che erano anch'esse migliori, proseguii dicendo che se vi fosse qualcosa di migliore di entrambi, allora avrei rivendicato il secondo posto per la mente sul piacere, e il piacere avrebbe perso il secondo posto oltre al primo.
+
+PROTARCHUS: Lo hai detto.
+
+SOCRATE: Nulla potrebbe essere dimostrato più soddisfacentemente della natura insoddisfacente di entrambi.
+
+PROTARCHUS: Verissimo.
+
+SOCRATE: Le pretese sia del piacere sia della mente di essere il bene assoluto sono state interamente confutate in questo ragionamento, perché entrambi difettano di autosufficienza e anche di adeguatezza e perfezione.
+
+PROTARCO: Verissimo.
+
+SOCRATE: Ma, sebbene entrambi debbano cedere in favore di un altro, la mente è diecimila volte più vicina e più affine alla natura del vincitore che il piacere.
+
+PROTARCO: Certamente.
+
+SOCRATE: E, secondo il giudizio che ora è stato dato, il piacere occuperà il quinto posto.
+
+PROTARCHUS: Vero.
+
 <span class="atom-split" data-atom="017" data-title="Parte 17" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): But not first; no, not even if all the oxen and horses and animals in the world by their pursuit of enjoyment proclaim her to be so; — although the many trusting in them, as diviners trust in birds, determine that pleasures make up the good of life, and deem the lusts of animals to be better witnesses than the inspirations of divine philosophy.
@@ -2353,3 +4677,13 @@ PROTARCHUS: And now, Socrates, we tell you that the truth of what you have been 
 SOCRATES: And will you let me go?
 
 PROTARCHUS: There is a little which yet remains, and I will remind you of it, for I am sure that you will not be the first to go away from an argument.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Ma non prima; no, non nemmeno se tutti i buoi e i cavalli e gli animali del mondo, con la loro ricerca del godimento, la proclamino tale; — benché i molti, fidandosi di essi, come gli indovini si fidano degli uccelli, stabiliscano che i piaceri costituiscano il bene della vita, e stimino le brame degli animali testimoni migliori delle ispirazioni della divina filosofia.
+
+Protarco: Ebbene, Socrate, ti diciamo che la verità di quanto hai detto è approvata dal giudizio di tutti noi.
+
+SOCRATE: E mi lascerete andare?
+
+Protarco: V'è ancora un poco che rimane, e te lo rammenterò, ché son certo che non sarai il primo ad allontanarti da un ragionamento.

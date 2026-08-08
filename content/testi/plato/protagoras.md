@@ -142,6 +142,128 @@ I said: I wonder whether you know what you are doing?
 
 And what am I doing?
 
+<span class="qlang-split" data-lang="it"></span>
+
+PERSONAGGI DEL DIALOGO:
+
+[Socrate](/figures/socrates), che è il narratore del Dialogo al suo Compagno. Ippocrate, Alcibiade e Crizia. Protagora, Ippia e Prodico (Sofisti). Callia, un ricco Ateniese.
+
+SCENA: La casa di Callia.
+
+Donde vieni, Socrate? Eppure non ho quasi bisogno di porti la domanda, poiché so che sei stato all'inseguimento del bell'Alcibiade. L'ho visto l'altro ieri; e aveva una barba come un uomo, — ed è un uomo, come posso dirti all'orecchio. Ma lo credevo ancora assai affascinante.
+
+SOCRATE: E della sua barba? Non sei dell'opinione di Omero, il quale dice
+
+     'La giovinezza è più amabile quando spunta la prima barba'?
+
+E questo è ora il fascino di Alcibiade.
+
+COMPAGNO: Ebbene, e come procedono le cose? Sei stato a visitarlo, e ti è stato cortese?
+
+SOCRATE: Sì, mi parve molto cortese; e specialmente oggi, perché vengo proprio da lui, e mi è stato d'aiuto in una discussione. Ma vuoi che ti dica una cosa strana? Non gli prestai attenzione, e più volte mi dimenticai del tutto che era presente.
+
+Compagno: Che significa questo? È accaduto qualcosa tra te e lui? Poiché di certo non puoi aver trovato un amore più bello di lui; certamente non in questa città di Atene.
+
+SOCRATE: Sì, molto più bello.
+
+COMPAGNO: Che vuoi dire — cittadino o straniero?
+
+SOCRATE: Uno straniero.
+
+COMPAGNO: Di quale paese?
+
+SOCRATE: Di Abdera.
+
+COMPAGNO: E questo straniero è davvero, a tuo parere, un amore più bello del figlio di Clenia?
+
+SOCRATE: E non è il più saggio sempre il più bello, dolce amico?
+
+COMPAGNO: Ma hai davvero incontrato, o Socrate, qualche sapiente?
+
+SOCRATE: Di' piuttosto: con il più saggio di tutti gli uomini viventi, se sei disposto a concedere quel titolo a Protagora.
+
+COMPAGNO: Come! Protagora è ad Atene?
+
+SOCRATE: Sì; è qui da due giorni.
+
+E lei viene proprio ora da un colloquio con lui?
+
+SOCRATE: Sì; e ho udito e detto molte cose.
+
+COMPAGNO: Allora, se non avete alcun impegno, supponete che vi sediate e mi raccontiate ciò che è accaduto, e il mio servitore qui vi cederà il suo posto.
+
+SOCRATE: Certamente; e vi sarò grato per avermi ascoltato.
+
+COMPAGNO: Grazie anche a te per avercelo detto.
+
+SOCRATE: Questo è un grazie doppio. Ascolta allora: —
+
+La notte scorsa, o piuttosto di buon mattino, Ippocrate, figlio di Apollodoro e fratello di Fasone, col suo bastone diede un colpo tremendo alla mia porta; qualcuno gli aprì, ed egli entrò di furia gridando: Socrate, sei sveglio o dormi?
+
+Riconobbi la sua voce, e dissi: Ippocrate, sei tu? e rechi qualche novità?
+
+Buone notizie, disse; nient'altro che bene.
+
+Delizioso, dissi; ma quali novelle? e perché siete venuto qua a quest'ora inaudita?
+
+Egli si avvicinò a me e disse: Protagora è venuto.
+
+Sì, risposi; egli giunse due giorni fa: avete saputo solo ora del suo arrivo?
+
+Sì, per gli dèi, disse; ma non prima di ieri sera.
+
+Nel medesimo tempo egli cercò col tatto il lettuccio, e sedette ai miei piedi, e poi disse: Ieri, molto tardi, al mio ritorno da Enoe, dove ero andato in cerca del mio schiavo fuggitivo Satiro, come avrei voluto raccontarti, se qualche altra cosa non fosse sopraggiunta; — al mio ritorno, quando avemmo finito di cenare ed eravamo sul punto di ritirarci a riposo, mio fratello mi disse: Protagora è venuto. Stavo per venire da te subito, e poi pensai che la notte era già molto avanzata. Ma appena il sonno mi lasciò dopo la fatica, mi alzai e venni qui direttamente.
+
+Io, che conoscevo la coraggiosissima follia dell'uomo, dissi: Che c'è? Protagora ti ha forse derubato di qualcosa?
+
+Egli rispose, ridendo: Sì, in verità ne ha, Socrate, della sapienza che mi tiene nascosta.
+
+Ma, certo, dissi, se gli dai del denaro e fai amicizia con lui, ti renderà saggio quanto lo è egli stesso.
+
+Volesse il cielo, rispose, che le cose stessero così! Potrebbe prendere tutto ciò che possiedo, e tutto ciò che possiedono i miei amici, se così gli piacesse. Ma è appunto per questo che ora sono venuto da te, affinché tu gli parli in mio favore; poiché sono giovane, e inoltre non l'ho mai visto né udito; (quando visitò Atene, prima, io ero appena un fanciullo;) e tutti lo lodano, Socrate; è ritenuto il più compiuto degli oratori. Non v'è ragione per cui non si possa andare da lui subito, e allora lo troveremo in casa. Egli alloggia, come sento dire, presso Callia figlio di Ipponico: partiamo.
+
+Risposi: Non ancora, buon amico mio; l'ora è troppo presto. Ma alziamoci e facciamo un giro nel cortile e attendiamo lì fino allo spuntare del giorno; quando spunterà il giorno, allora andremo. Poiché Protagora è generalmente in casa, e saremo sicuri di trovarlo; non temere.
+
+A questo punto ci alzammo e passeggiammo nel cortile, e pensai che avrei voluto mettere alla prova la fermezza della sua risoluzione. Così lo esaminai e gli rivolsi delle domande. Dimmi, Ippocrate, dissi, poiché stai per andare da Protagora e per pagargli il tuo denaro, che cosa è colui dal quale vai? e che cosa farà di te? Se, per esempio, avessi pensato di andare da Ippocrate di Cos, l'Asclepiade, e stessi per dargli il tuo denaro, e qualcuno ti avesse detto: Tu dai denaro al tuo omonimo Ippocrate, o Ippocrate; dimmi, chi è colui al quale dai denaro? come avresti risposto?
+
+Dovrei dire, rispose, che gli diedi del denaro come medico.
+
+E che idea si farà di te?
+
+Un medico, disse.
+
+E se tu fossi risoluto ad andare da Policleto l'Argivo, o da Fidia l'Ateniese, e fossi intenzionato a dar loro del denaro, e qualcuno ti avesse chiesto: Che cosa sono Policleto e Fidia? e perché dai loro questo denaro? — come avresti risposto?
+
+Avrei dovuto rispondere che erano statuari.
+
+E che idea si faranno di te?
+
+Uno statuario, naturalmente.
+
+Ebbene, dissi, tu ed io stiamo andando da Protagora, e siamo pronti a pagargli del denaro per tuo conto. Se i nostri mezzi sono sufficienti, e con questi possiamo guadagnarcelo, ne saremo fin troppo lieti; ma se non bastano, allora dovremo spendere anche il denaro dei tuoi amici. Ora supponi che, mentre così entusiasticamente perseguiamo il nostro scopo, qualcuno ci dicesse: Dimmi, Socrate, e tu Ippocrate, che cosa è Protagora, e perché andate a pagargli del denaro, — come dovremmo rispondere? Io so che Fidia è scultore, e che Omero è poeta; ma quale appellativo si dà a Protagora? come è designato?
+
+Lo chiamano un sofista, Socrate, rispose.
+
+Allora pagheremo il nostro denaro a lui in veste di sofista?
+
+Certainly. Please provide the English passage you would like me to translate into Italian.
+
+Ma supponiamo che qualcuno ponesse quest'ulteriore domanda: E quanto a te stesso? Che cosa farà Protagora di te, se vai a trovarlo?
+
+Egli rispose, con un rossore sul volto (poiché il giorno cominciava appena a spuntare, cosicché potevo vederlo): A meno che questo non differisca in qualche modo dagli esempi precedenti, suppongo che egli farà di me un Sofista.
+
+Per gli dèi, dissi, e non ti vergogni di doverti presentare dinanzi agli Elleni nelle vesti di un Sofista?
+
+In verità, Socrate, a confessare il vero, lo sono.
+
+Ma non devi supporre, Ippocrate, che l'insegnamento di Protagora sia di questa natura: possa tu non imparare da lui nello stesso modo in cui hai appreso le arti del grammatico, o del musico, o del maestro di ginnastica, non con l'intenzione di farne una professione, ma solo come parte dell'[educazione](/concepts/education), e perché un gentiluomo privato e uomo libero deve conoscerle.
+
+Proprio così, disse; e questo, a mio parere, è un resoconto di gran lunga più vero dell'insegnamento di Protagora.
+
+Dissi: mi chiedo se tu sappia quello che stai facendo?
+
+E che cosa sto facendo?
+
 <span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 You are going to commit your soul to the care of a man whom you call a Sophist. And yet I hardly think that you know what a Sophist is; and if not, then you do not even know to whom you are committing your soul and whether the thing to which you commit yourself be good or evil.
@@ -182,6 +304,46 @@ To this we agreed, and proceeded on our way until we reached the vestibule of th
 
 When we entered, we found Protagoras taking a walk in the cloister; and next to him, on one side, were walking Callias, the son of Hipponicus, and Paralus, the son of Pericles, who, by the mother’s side, is his half-brother, and Charmides, the son of Glaucon. On the other side of him were Xanthippus, the other son of Pericles, Philippides, the son of Philomelus; also Antimoerus of Mende, who of all the disciples of Protagoras is the most famous, and intends to make sophistry his profession. A train of listeners followed him; the greater part of them appeared to be foreigners, whom Protagoras had brought with him out of the various cities visited by him in his journeys, he, like Orpheus, attracting them his voice, and they following (Compare Rep.). I should mention also that there were some Athenians in the company. Nothing delighted me more than the precision of their movements: they never got into his way at all; but when he and those who were with him turned back, then the band of listeners parted regularly on either side; he was always in front, and they wheeled round and took their places behind him in perfect order.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Stai per affidare la tua anima alla cura di un uomo che chiami sofista. Eppure difficilmente credo che tu sappia che cosa sia un sofista; e se non lo sai, allora non sai nemmeno a chi stai affidando la tua anima, né se la cosa a cui ti affidi sia buona o cattiva.
+
+«Certo che penso di sapere», rispose.
+
+Allora dimmi, che cosa immagini che sia?
+
+Lo ritengo uno che conosce cose sagge," rispose, "come implica il suo nome.
+
+E non potresti, dissi, affermarlo anche del pittore e del carpentiere: non conoscono anch'essi cose sapienti? Ma se qualcuno ci chiedesse: In che cosa sono sapienti i pittori? Risponderemmo: In ciò che concerne la fabbricazione di immagini, e similmente per le altre cose. E se ancora domandasse: Qual è la sapienza del Sofista, e qual è la fabbricazione a cui presiede? — come gli risponderemmo?
+
+Come dovremmo rispondergli, Socrate? Quale altra risposta potrebbe esserci se non che egli presiede all'arte che rende eloquenti gli uomini?
+
+Sì, risposi, è molto probabile che sia vero, ma non basta; perché nella risposta è implicita un'ulteriore questione: di che cosa fa parlare eloquentemente il Sofista? Del suonatore di lira si può supporre che faccia parlare un uomo eloquentemente di ciò che gli fa comprendere, cioè del suonare la lira. Non è forse vero?
+
+Certo.
+
+Di che cosa, dunque, il Sofista lo rende eloquente? Non è forse necessario che lo renda eloquente in ciò che egli comprende?
+
+Sì, si può supporre.
+
+E che cos'è ciò che il Sofista conosce e fa conoscere al suo discepolo?
+
+In verità, disse, non so dire.
+
+Poi proseguii dicendo: Ebbene, sei consapevole del pericolo che stai correndo? Se stessi per affidare il tuo corpo a qualcuno che potesse fargli bene o male, non considereresti forse con attenzione e non chiederesti il parere dei tuoi amici e parenti, e non delibereresti per molti giorni se dovessi affidargli la cura del tuo corpo? Ma quando si tratta dell'anima, che ritieni di gran lunga più preziosa del corpo, e dal cui bene o male dipende il benessere di tutto ciò che è tuo — su questo non hai mai consultato né tuo padre né tuo fratello né alcuno di noi che siamo tuoi compagni. Ma appena appare questo straniero, subito affidi la tua anima alla sua custodia. La sera, come dici, senti parlare di lui, e al mattino vai da lui, senza mai deliberare o chiedere il parere di alcuno se tu debba affidarti a lui o no; — hai già deciso del tutto che a ogni costo sarai allievo di Protagora, e sei pronto a spendere tutti i beni tuoi e dei tuoi amici per portare a compimento a qualsiasi prezzo questa determinazione, sebbene, come ammetti, tu non lo conosca e non abbia mai parlato con lui: e lo chiami Sofista, ma sei manifestamente ignaro di ciò che sia un Sofista; eppure stai per affidarti alla sua custodia.
+
+Quando mi sentì dire questo, rispose: Nessun'altra conclusione, Socrate, può essere tratta dalle tue parole.
+
+Proseguii: Non è forse un sofista, Ippocrate, chi tratta all'ingrosso o al minuto il cibo dell'anima? A me sembra che questa sia la sua natura.
+
+E qual è, Socrate, il nutrimento dell'anima?
+
+Certamente, dissi, la conoscenza è il cibo dell'anima; e dobbiamo stare attenti, amico mio, che il Sofista non ci inganni quando loda ciò che vende, come i mercanti all'ingrosso o al minuto che vendono il cibo del corpo; poiché lodano indistintamente tutte le loro merci, senza sapere quali siano veramente benefiche o dannose: né i loro clienti lo sanno, eccetto un allenatore o un medico che capiti di comprare da loro. Allo stesso modo, coloro che portano in giro le merci della conoscenza, e girano di città in città, e le vendono all'ingrosso o al minuto a qualunque cliente che ne abbia bisogno, le lodano tutte allo stesso modo; e non mi meraviglierei, o amico mio, se molti di essi fossero veramente ignoranti del loro effetto sull'anima; e i loro clienti ugualmente ignoranti, a meno che chi compra da loro non capiti di essere un medico dell'anima. Se quindi hai conoscenza di ciò che è buono e di ciò che è cattivo, puoi acquistare tranquillamente la conoscenza da Protagora o da chiunque altro; ma se non la hai, allora, o amico mio, fermati, e non rischiare i tuoi interessi più cari in un gioco del caso. Poiché il pericolo nell'acquistare conoscenza è di gran lunga maggiore che nell'acquistare cibo e bevande: questi li compri dal mercante all'ingrosso o al minuto, e li porti via in altri vasi, e prima di riceverli nel corpo come cibo, puoi depositarli a casa e chiamare in consulto un amico esperto che sappia ciò che è buono da mangiare o da bere, e ciò che non lo è, e quanto, e quando; e così il pericolo dell'acquisto non è poi così grande. Ma non puoi comprare le merci della conoscenza e portarle via in un altro vaso; quando le hai pagate, devi riceverle nell'anima e andartene, o grandemente danneggiato o grandemente avvantaggiato; e perciò dobbiamo deliberare e prendere consiglio dai nostri anziani; poiché siamo ancora giovani — troppo giovani per decidere una questione del genere. E ora andiamo, come avevamo intenzione, e ascoltiamo Protagora; e quando avremo ascoltato ciò che ha da dire, potremo prendere consiglio da altri; poiché non solo Protagora è in casa di Callia, ma vi è anche Ippia di Elide, e, se non mi sbaglio, Prodico di Ceo, e parecchi altri uomini saggi.
+
+Su questo ci accordammo, e proseguimmo il cammino finché giungemmo al vestibolo della casa; e lì ci fermammo per concludere una discussione sorta tra noi lungo la via; e restammo a parlare nel vestibolo finché non avemmo finito e raggiunto un'intesa. E credo che il portinaio, un eunuco, il quale probabilmente era infastidito dal grande afflusso dei Sofisti, ci debba aver sentiti parlare. Sta di fatto che, quando bussammo alla porta, ed egli aprì e ci vide, borbottò: Sono Sofisti — non è in casa; e subito sbatté la porta con entrambe le mani, di buona lena. Bussammo di nuovo, ed egli rispose senza aprire: Non avete udito che vi ho detto che non è in casa, gente? Ma, amico mio, dissi io, non occorre che tu ti allarmi; perché non siamo Sofisti, e non siamo venuti per vedere Callia, ma desideriamo vedere Protagora; e devo pregarTi di annunciarci. Alla fine, dopo non poca difficoltà, l'uomo si lasciò persuadere ad aprire la porta.
+
+Quando entrammo, trovammo Protagora che passeggiava nel portico; e accanto a lui, da un lato, camminavano Callia, figlio di Ipponico, e Paralo, figlio di Pericle, che per parte di madre è suo fratellastro, e Carmide, figlio di Glaucone. Dall’altro lato c’erano Santippo, l’altro figlio di Pericle, Filippide, figlio di Filomelo; inoltre Antimero di Mende, che tra tutti i discepoli di Protagora è il più famoso, e intende fare della sofistica la sua professione. Una schiera di ascoltatori lo seguiva; la maggior parte di essi sembravano forestieri, che Protagora aveva condotto con sé dalle varie città da lui visitate nei suoi viaggi, egli, come Orfeo, attraendoli con la sua voce, ed essi seguendo (cfr. Rep.). Devo anche menzionare che nella comitiva vi erano alcuni Ateniesi. Nulla mi dilettò più della precisione dei loro movimenti: non gli intralciavano mai il cammino; ma quando egli e quelli che erano con lui tornavano indietro, allora la schiera degli ascoltatori si divideva regolarmente da entrambi i lati; egli era sempre davanti, ed essi, girandosi, prendevano posto dietro di lui in perfetto ordine.
+
 <span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 After him, as Homer says (Od.), ‘I lifted up my eyes and saw’ Hippias the Elean sitting in the opposite cloister on a chair of state, and around him were seated on benches Eryximachus, the son of Acumenus, and Phaedrus the Myrrhinusian, and Andron the son of Androtion, and there were strangers whom he had brought with him from his native city of Elis, and some others: they were putting to Hippias certain physical and astronomical questions, and he, ex cathedra, was determining their several questions to them, and discoursing of them.
@@ -216,6 +378,40 @@ Protagoras answered: Young man, if you associate with me, on the very first day 
 
 When I heard this, I said: Protagoras, I do not at all wonder at hearing you say this; even at your age, and with all your wisdom, if any one were to teach you what you did not know before, you would become better no doubt: but please to answer in a different way — I will explain how by an example. Let me suppose that Hippocrates, instead of desiring your acquaintance, wished to become acquainted with the young man Zeuxippus of Heraclea, who has lately been in Athens, and he had come to him as he has come to you, and had heard him say, as he has heard you say, that every day he would grow and become better if he associated with him: and then suppose that he were to ask him, ‘In what shall I become better, and in what shall I grow?’ — Zeuxippus would answer, ‘In painting.’ And suppose that he went to Orthagoras the Theban, and heard him say the same thing, and asked him, ‘In what shall I become better day by day?’ he would reply, ‘In flute-playing.’ Now I want you to make the same sort of answer to this young man and to me, who am asking questions on his account. When you say that on the first day on which he associates with you he will return home a better man, and on every day will grow in like manner, — in what, Protagoras, will he be better? and about what?
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo di lui, come dice Omero (Od.), ‘levai gli occhi e vidi’ Ippia di Elide seduto nel portico di fronte su un trono, e intorno a lui sedevano su panche Erissimaco, figlio di Acumeno, e Fedro di Mirrinunte, e Androne, figlio di Androzione, e vi erano stranieri che egli aveva condotto seco dalla sua città natale di Elide, e alcuni altri: costoro rivolgevano a Ippia certe questioni fisiche e astronomiche, ed egli, ex cathedra, determinava le loro singole questioni e ne discorreva.
+
+Inoltre, "i miei occhi videro Tantalo (Od.)"; infatti Prodico di Ceo era ad Atene: egli era stato alloggiato in una stanza che, ai tempi di Ipponico, era un magazzino; ma, poiché la casa era piena, Callia l'aveva sgombrata e ne aveva fatto una camera per gli ospiti. Ora Prodico era ancora a letto, avvolto in pelli di pecora e coperte, delle quali sembrava esserci un grande mucchio; e vicino a lui, sui lettini appresso, sedeva Pausania del demo di Ceramide, e con Pausania vi era un giovane assai giovane, che è certamente notevole per la sua bellezza e, se non erro, anche di natura bella e gentile. Mi parve di sentirlo chiamare Agatone, e il mio sospetto è che egli sia l'amato di Pausania. C'erano questo giovane, e anche c'erano i due Adimanti, uno figlio di Cepis, l'altro di Leucolofide, e alcuni altri. Ero molto ansioso di udire quel che Prodico diceva, poiché egli mi sembra un uomo sapientissimo e ispirato; ma non potei entrare nel circolo interno, e la sua bella voce profonda faceva eco nella stanza, rendendo le sue parole inaudibili.
+
+Non appena fummo entrati, ci seguirono Alcibiade il bello, come tu dici, e ti credo; e anche Crizia, figlio di Callescro.
+
+Entrando, ci fermammo un poco per guardarci attorno, e poi ci accostammo a Protagora, e dissi: Protagora, il mio amico Ippocrate ed io siamo venuti a vederti.
+
+"Desideri," disse, "parlare con me da solo, o in presenza della compagnia?"
+
+Qualunque cosa vi piaccia," dissi; "voi la determinerete quando avrete udito lo scopo della nostra visita.
+
+E qual è il tuo scopo? disse lui.
+
+Bisogna che io spieghi, dissi, che il mio amico Ippocrate è ateniese di nascita; è figlio di Apollodoro, e di una casa grande e prospera, ed egli stesso, per ingegno naturale, non è secondo a nessuno della sua età. Credo che egli aspiri a eminenza politica; e questo egli pensa che la conversazione con te possa molto probabilmente procurargli. E ora puoi determinare se vorresti parlargli del tuo insegnamento da solo o in presenza della compagnia.
+
+Ti ringrazio, [Socrate](/figures/socrates), per la tua premura nei miei confronti. Poiché certamente uno straniero che si addentri nelle grandi città, e persuada il fiore della gioventù in esse ad abbandonare la compagnia dei loro parenti o di qualsiasi altre conoscenze, vecchie o giovani, e a vivere con lui, nella convinzione che saranno migliorati dalla sua conversazione, deve essere molto cauto; grandi gelosie sono suscitate dalla sua condotta, ed egli è oggetto di molte inimicizie e cospirazioni. Ora l'arte del sofista è, come io credo, di grande antichità; ma nei tempi antichi coloro che la praticavano, temendo questo odio, si velavano e si mascheravano sotto vari [nomi](/positions/nominalism), alcuni sotto quello di poeti, come Omero, Esiodo e Simonide, alcuni sotto quello di ierofanti e profeti, come Orfeo e Museo, e alcuni, come osservo, persino sotto il nome di maestri di ginnastica, come Icco di Taranto, o il più recentemente celebrato Erodico, ora di Selimbria e un tempo di Megara, il quale è un sofista di prim'ordine. Il tuo stesso Agatocle fingeva di essere un musico, ma era in realtà un eminente sofista; anche Pitoclide il Ceo; e vi erano molti altri; e tutti costoro, come dicevo, adottarono queste arti come veli o travestimenti perché temevano l'odio che avrebbero attirato. Ma non è questa la mia via, poiché non credo che essi conseguirono il loro scopo, che era di ingannare il governo, il quale non fu da loro accecato; e quanto al popolo, esso non ha intelletto, e ripete soltanto ciò che i suoi governanti si compiacciono di dirgli. Ora il fuggire, e l'essere colti nel fuggire, è il colmo della follia, e accresce altresì grandemente l'esasperazione degli uomini; giacché essi considerano colui che fugge come un furfante, oltre a qualsiasi altra obiezione che abbiano contro di lui; e perciò io seguo una via del tutto opposta, e riconosco di essere un sofista e maestro degli uomini; tale aperto riconoscimento mi sembra una migliore sorta di cautela che il nascondersi. Né trascuro altre precauzioni, e perciò spero, per così dire, col favore del cielo, che nessun danno deriverà dall'ammissione che io sono un sofista. E sono ormai da molti anni in questa professione — poiché tutti i miei anni, sommati, sono molti: non c'è nessuno qui presente di cui io non possa essere il padre. Perciò preferirei di gran lunga conversare con te, se vuoi parlare con me, alla presenza della compagnia.
+
+Poiché sospettavo che gli sarebbe piaciuto fare un po' di mostra e di gloria dinanzi a Prodico e Ippia, e che volentieri ci avrebbe mostrati a loro come suoi ammiratori, dissi: Ma perché non dovremmo convocare Prodico e Ippia e i loro amici ad ascoltarci?
+
+Molto bene, disse.
+
+Supponiamo, disse Callia, che teniamo un consiglio in cui tu possa sedere e discutere. — Questo fu concordato, e grande fu la gioia alla prospettiva di udire parlare uomini sapienti; noi stessi prendemmo sedie e panche, e le disponemmo presso Ippia, dove le altre panche erano già state collocate. Intanto Callia e Alcibiade trassero Prodico dal letto e condussero lui e i suoi compagni.
+
+Quando fummo tutti seduti, Protagora disse: Ora che la compagnia è riunita, Socrate, parlami del giovane di cui parlavi testé.
+
+Risposi: ricomincerò dallo stesso punto, Protagora, e ti dirò ancora una volta l'intento della mia venuta: questi è il mio amico Ippocrate, il quale è desideroso di fare la tua conoscenza; vorrebbe sapere che cosa gli accadrà se si assocerà a te. Non ho altro da dire.
+
+Protagora rispose: Giovane, se ti associ a me, fin dal primo giorno tornerai a casa migliore di come sei venuto, e il secondo giorno migliore del primo, e ogni giorno migliore di quanto fossi il giorno prima.
+
+Quando udii questo, dissi: Protagora, io non mi meraviglio affatto nell'udirti dire così; anche alla tua età, e con tutta la tua sapienza, se qualcuno ti insegnasse ciò che prima non sapevi, tu ne diventeresti migliore, senza dubbio: ma ti prego di rispondere in un modo diverso — ti spiegherò come con un esempio. Supponiamo che Ippocrate, invece di desiderare la tua conoscenza, volesse conoscere il giovane Zeuxippo di Eraclea, che è stato recentemente ad Atene, e che fosse andato da lui come è andato da te, e gli avesse sentito dire, come ha sentito dire a te, che ogni giorno sarebbe cresciuto e sarebbe diventato migliore se fosse stato in sua compagnia: e poi supponiamo che gli chiedesse: 'In che cosa diventerò migliore, e in che cosa crescerò?' — Zeuxippo risponderebbe: 'Nella pittura.' E supponiamo che andasse da Ortàgora il Tebano, e gli sentisse dire la stessa cosa, e gli chiedesse: 'In che cosa diventerò migliore giorno per giorno?' egli risponderebbe: 'Nel suonare il flauto.' Ora voglio che tu faccia la stessa sorta di risposta a questo giovane e a me, che gli faccio domande per suo conto. Quando dici che nel primo giorno in cui sarà in tua compagnia tornerà a casa uomo migliore, e che ogni giorno crescerà in egual maniera, — in che cosa, Protagora, sarà migliore? e intorno a che cosa?
+
 <span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 When Protagoras heard me say this, he replied: You ask questions fairly, and I like to answer a question which is fairly put. If Hippocrates comes to me he will not experience the sort of drudgery with which other Sophists are in the [habit](/concepts/custom) of insulting their pupils; who, when they have just escaped from the arts, are taken and driven back into them by these teachers, and made to learn calculation, and astronomy, and geometry, and music (he gave a look at Hippias as he said this); but if he comes to me, he will learn that which he comes to learn. And this is prudence in affairs private as well as public; he will learn to order his own house in the best manner, and he will be able to speak and act for the best in the affairs of [the state](/concepts/state).
@@ -234,6 +430,24 @@ Well, then, he said, I think that the myth will be more interesting.
 
 Once upon a time there were gods only, and no mortal creatures. But when the time came that these also should be created, the gods fashioned them out of earth and fire and various mixtures of both elements in the interior of the earth; and when they were about to bring them into the light of day, they ordered Prometheus and Epimetheus to equip them, and to distribute to them severally their proper qualities. Epimetheus said to Prometheus: ‘Let me distribute, and do you inspect.’ This was agreed, and Epimetheus made the distribution. There were some to whom he gave strength without swiftness, while he equipped the weaker with swiftness; some he armed, and others he left unarmed; and devised for the latter some other means of preservation, making some large, and having their size as a protection, and others small, whose nature was to fly in the air or burrow in the ground; this was to be their way of escape. Thus did he compensate them with the view of preventing any race from becoming extinct. And when he had provided against their destruction by one another, he contrived also a means of protecting them against the seasons of heaven; clothing them with close hair and thick skins sufficient to defend them against the winter cold and able to resist the summer heat, so that they might have a natural bed of their own when they wanted to rest; also he furnished them with hoofs and hair and hard and callous skins under their feet. Then he gave them varieties of food, — herb of the soil to some, to others fruits of trees, and to others roots, and to some again he gave other animals as food. And some he made to have few young ones, while those who were their prey were very prolific; and in this manner the race was preserved. Thus did Epimetheus, who, not being very wise, forgot that he had distributed among the brute animals all the qualities which he had to give, — and when he came to man, who was still unprovided, he was terribly perplexed. Now while he was in this perplexity, Prometheus came to inspect the distribution, and he found that the other animals were suitably furnished, but that man alone was naked and shoeless, and had neither bed nor arms of defence. The appointed hour was approaching when man in his turn was to go forth into the light of day; and Prometheus, not knowing how he could devise his salvation, stole the mechanical arts of Hephaestus and Athene, and fire with them (they could neither have been acquired nor used without fire), and gave them to man. Thus man had the wisdom necessary to the support of life, but political wisdom he had not; for that was in the keeping of Zeus, and the power of Prometheus did not extend to entering into the citadel of heaven, where Zeus dwelt, who moreover had terrible sentinels; but he did enter by stealth into the common workshop of Athene and Hephaestus, in which they used to practise their favourite arts, and carried off Hephaestus’ art of working by fire, and also the art of Athene, and gave them to man. And in this way man was supplied with the means of life. But Prometheus is said to have been afterwards prosecuted for theft, owing to the blunder of Epimetheus.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Quando Protagora mi udì dire questo, rispose: Tu fai domande giustamente, e mi piace rispondere a una domanda che sia posta giustamente. Se Ippocrate viene da me, non sperimenterà quella sorta di fatica con cui gli altri Sofisti hanno l'[abitudine](/concepts/custom) di insultare i loro discepoli; i quali, quando sono appena scampati dalle arti, vengono da questi maestri presi e ricondotti in esse, e costretti a imparare il calcolo, e l'astronomia, e la geometria, e la musica (e diede un'occhiata a Ippia mentre diceva ciò); ma se viene da me, imparerà ciò che viene a imparare. E questa è prudenza negli affari privati come pure in quelli pubblici; imparerà a governare la propria casa nel modo migliore, e sarà capace di parlare e agire al meglio negli affari riguardanti [lo stato](/concepts/state).
+
+Ti comprendo, dissi; e intendi dire che insegni l'arte della politica, e che prometti di rendere gli uomini buoni cittadini?
+
+Questa, [Socrate](/figures/socrates), è esattamente la professione che faccio.
+
+Dunque, dissi, voi possedete davvero una nobile arte, se non v'è errore in questo; poiché vi confesso liberamente, Protagora, che ho un dubbio se quest'arte possa essere insegnata, e tuttavia non so come non prestar fede alla vostra affermazione. E debbo dirvi perché sono d'opinione che quest'arte non possa essere insegnata né comunicata da uomo a uomo. Io dico che gli Ateniesi sono un popolo assennato, e invero sono stimati tali dagli altri Elleni. Ora osservo che quando ci riuniamo nell'assemblea, e la questione concerne l'edilizia, si convocano i costruttori come consiglieri; quando la questione è di costruzione navale, allora i carpentieri navali; e similmente per le altre arti che essi ritengono capaci di essere insegnate e apprese. E se qualcuno si offre di consigliarli senza che essi lo ritengano esperto nell'arte, sebbene sia bello, ricco e nobile, non lo ascoltano, ma lo deridono e lo beffano, finché, sopraffatto dalle grida, non si ritiri da sé; o, se persiste, viene trascinato via o cacciato dai custodi per ordine dei pritani. Questo è il loro modo di comportarsi verso coloro che professano le arti. Ma quando la questione è un affare di stato, allora ognuno è libero di dire la sua — falegname, stagnino, ciabattino, marinaio, passeggero; ricchi e poveri, nobili e plebei — chiunque voglia si alza, e nessuno gli rimprovera, come nel caso precedente, di non aver appreso e di non avere maestro, e nondimeno di dare consigli; evidentemente perché sono dell'opinione che questa sorta di conoscenza non possa essere insegnata. E ciò vale non solo per lo stato, ma anche per gli individui; i migliori e più saggi dei nostri cittadini non sono in grado di trasmettere ad altri la loro saggezza politica: come, per esempio, Pericle, il padre di questi giovani, il quale diede loro eccellente istruzione in tutto ciò che poteva essere appreso dai maestri, ma nel proprio campo della politica né li istruì né diede loro maestri; e fu loro permesso di vagare a loro proprio [libero arbitrio](/positions/free_will) con una sorta di speranza che si sarebbero imbattuti nella virtù di loro propria iniziativa. Oppure si consideri un altro esempio: c'era Clinia, il fratello minore del nostro amico Alcibiade, del quale questo stesso Pericle era tutore; e poiché egli aveva realmente il timore che Clinia fosse corrotto da Alcibiade, lo prese e lo pose nella casa di Arifrone per essere educato; ma prima che fossero trascorsi sei mesi, Arifrone lo rimandò indietro, non sapendo che farsene. E potrei citare innumerevoli altri esempi di persone che furono buone di per sé, e non resero mai buono nessun altro, amico o straniero che fosse. Ora io, Protagora, avendo questi esempi davanti a me, sono incline a pensare che la virtù non possa essere insegnata. Ma poi, quando ascolto le vostre parole, vacillo; e sono disposto a credere che ci sia qualcosa in ciò che dite, perché so che avete grande esperienza, dottrina e inventiva. E vorrei che, se possibile, mi mostraste un poco più chiaramente che la virtù può essere insegnata. Vorreste essere così cortese?
+
+Lo farò, Socrate, e volentieri. Ma che cosa desideri? Dovrò io, in quanto più anziano, parlare a voi, che siete più giovani, con un apologo o un mito, oppure dovrò discutere la questione?
+
+A ciò parecchi della compagnia risposero che egli scegliesse per sé.
+
+"Ebbene, allora," disse, "penso che il mito sarà più interessante."
+
+C'erano una volta soltanto gli dèi, e nessuna creatura mortale. Ma quando venne il tempo che anche queste dovessero essere create, gli dèi le plasmarono di terra e di fuoco e di varie mescolanze di entrambi gli elementi nell'interno della terra; e quando stavano per condurle alla luce del giorno, ordinarono a Prometeo e ad Epimeteo di fornirle e di distribuire ad esse singolarmente le loro qualità proprie. Epimeteo disse a Prometeo: «Lascia che io distribuisca, e tu ispeziona.» Ciò fu convenuto, ed Epimeteo fece la distribuzione. Vi erano alcuni a cui diede forza senza velocità, mentre dotò i più deboli di velocità; alcuni armò, altri lasciò disarmati; e per questi ultimi escogitò qualche altro mezzo di preservazione, facendone alcuni grandi, sì che la loro grandezza fosse loro di protezione, e altri piccoli, la cui natura era di volare nell'aria o di scavarsi tane nella terra; questa doveva essere la loro via di fuga. Così li compensò con l'intento di evitare che alcuna stirpe si estinguesse. E quando ebbe provveduto contro la loro reciproca distruzione, escogitò anche un mezzo per proteggerli dalle stagioni del cielo; rivestendoli di pelo folto e di pelli spesse, sufficienti a difenderli dal freddo invernale e a resistere al caldo estivo, così che avessero un letto naturale proprio quando volessero riposare; inoltre li fornì di zoccoli e di peli e di pelli dure e callose sotto i piedi. Poi diede loro varietà di cibo, — a taluni l'erba del suolo, ad altri i frutti degli alberi, ad altri le radici, e ad alcuni ancora diede come cibo altri animali. E alcuni fece sì che avessero pochi piccoli, mentre quelli che erano loro preda erano molto prolifici; e in questo modo la stirpe fu preservata. Così fece Epimeteo, il quale, non essendo molto saggio, dimenticò di aver distribuito tra gli animali bruti tutte le qualità che doveva dare, — e quando giunse all'uomo, che era ancora sfornito, fu terribilmente perplesso. Ora, mentre egli era in questa perplessità, Prometeo venne a ispezionare la distribuzione, e trovò che gli altri animali erano convenientemente forniti, ma che l'uomo solo era nudo e scalzo, e non aveva né letto né armi di difesa. L'ora fissata si avvicinava in cui l'uomo, a sua volta, doveva uscire alla luce del giorno; e Prometeo, non sapendo come escogitare la salvezza dell'uomo, rubò le arti meccaniche di Efesto e di Atena, e con esse il fuoco (poiché senza il fuoco esse non avrebbero potuto essere né acquisite né usate), e le diede all'uomo. Così l'uomo ebbe la sapienza necessaria al sostentamento della vita, ma la sapienza politica non l'ebbe; poiché quella era custodita da Zeus, e la potenza di Prometeo non giungeva a entrare nella rocca del cielo, dove dimorava Zeus, il quale inoltre aveva terribili sentinelle; ma egli entrò di nascosto nella comune officina di Atena e di Efesto, nella quale solevano esercitare le loro arti predilette, e portò via l'arte di Efesto di lavorare col fuoco, e anche l'arte di Atena, e le diede all'uomo. E in questo modo l'uomo fu provvisto dei mezzi di vita. Ma si dice che in seguito Prometeo sia stato processato per furto, a causa dell'errore di Epimeteo.
+
 <span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Now man, having a share of the divine attributes, was at first the only one of the animals who had any gods, because he alone was of their kindred; and he would raise altars and images of them. He was not long in inventing articulate speech and [names](/positions/nominalism); and he also constructed houses and clothes and shoes and beds, and drew sustenance from the earth. Thus provided, mankind at first lived dispersed, and there were no cities. But the consequence was that they were destroyed by the wild beasts, for they were utterly weak in comparison of them, and their art was only sufficient to provide them with the means of life, and did not enable them to carry on war against the animals: food they had, but not as yet the art of government, of which the art of war is a part. After a while the desire of self-preservation gathered them into cities; but when they were gathered together, having no art of government, they evil intreated one another, and were again in process of dispersion and destruction. Zeus feared that the entire race would be exterminated, and so he sent Hermes to them, bearing reverence and justice to be the ordering principles of cities and the bonds of [friendship](/concepts/friendship) and conciliation. Hermes asked Zeus how he should impart justice and reverence among men: — Should he distribute them as the arts are distributed; that is to say, to a favoured few only, one skilled individual having enough of medicine or of any other art for many unskilled ones? ‘Shall this be the manner in which I am to distribute justice and reverence among men, or shall I give them to all?’ ‘To all,’ said Zeus; ‘I should like them all to have a share; for cities cannot exist, if a few only share in the virtues, as in the arts. And further, make a law by my order, that he who has no part in reverence and justice shall be put to death, for he is a plague of [the state](/concepts/state).’
@@ -244,11 +458,27 @@ And that you may not suppose yourself to be deceived in thinking that all men re
 
 I have been showing that they are right in admitting every man as a counsellor about this sort of virtue, as they are of opinion that every man is a partaker of it. And I will now endeavour to show further that they do not conceive this virtue to be given by nature, or to grow spontaneously, but to be a thing which may be taught; and which comes to a man by taking pains. No one would instruct, no one would rebuke, or be angry with those whose calamities they suppose to be due to nature or [chance](/concepts/fortune); they do not try to punish or to prevent them from being what they are; they do but pity them. Who is so foolish as to chastise or instruct the ugly, or the diminutive, or the feeble? And for this reason. Because he knows that good and evil of this kind is the work of nature and of chance; whereas if a man is wanting in those good qualities which are attained by study and exercise and teaching, and has only the contrary evil qualities, other men are angry with him, and punish and reprove him — of these evil qualities one is impiety, another injustice, and they may be described generally as the very opposite of political virtue. In such cases any man will be angry with another, and reprimand him, — clearly because he thinks that by study and learning, the virtue in which the other is deficient may be acquired. If you will think, Socrates, of the nature of punishment, you will see at once that in the opinion of mankind virtue may be acquired; no one punishes the evil-doer under the notion, or for the reason, that he has done wrong, — only the unreasonable fury of a beast acts in that manner. But he who desires to inflict rational punishment does not retaliate for a past wrong which cannot be undone; he has regard to the future, and is desirous that the man who is punished, and he who sees him punished, may be deterred from doing wrong again. He punishes for the sake of prevention, thereby clearly implying that virtue is capable of being taught. This is the notion of all who retaliate upon others either privately or publicly. And the Athenians, too, your own citizens, like other men, punish and take vengeance on all whom they regard as evil doers; and hence, we may infer them to be of the number of those who think that virtue may be acquired and taught. Thus far, Socrates, I have shown you clearly enough, if I am not mistaken, that your countrymen are right in admitting the tinker and the cobbler to advise about politics, and also that they deem virtue to be capable of being taught and acquired.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ora l'uomo, avendo parte degli attributi divini, fu dapprima l'unico tra gli animali ad avere dèi, perché solo egli era della loro stirpe; e innalzava altari e immagini di essi. Non tardò a inventare il linguaggio articolato e [nomi](/positions/nominalism); e costruì anche case, vesti, calzari e letti, e trasse il nutrimento dalla terra. Così provvisto, il genere umano dapprima visse disperso, e non v'erano città. Ma ne conseguì che venivano distrutti dalle bestie selvatiche, poiché erano del tutto deboli in confronto ad esse, e la loro arte era sufficiente solo a procurare loro i mezzi di vita, e non consentiva loro di far guerra agli animali: cibo avevano, ma non ancora l'arte del governo, di cui l'arte della guerra è parte. Dopo un po', il desiderio di conservazione li raccolse in città; ma quando furono riuniti, non avendo arte di governo, si facevano torto gli uni agli altri, ed erano di nuovo sul punto di disperdersi e di perire. Zeus temette che l'intera razza fosse sterminata, e così inviò loro Ermes, recante rispetto e giustizia perché fossero i principi ordinativi delle città e i vincoli di [amicizia](/concepts/friendship) e riconciliazione. Ermes chiese a Zeus in che modo dovesse impartire giustizia e rispetto tra gli uomini: — Doveva distribuirli come sono distribuite le arti; vale a dire, solo a pochi favoriti, bastando un solo abile individuo con abbastanza medicina o qualsiasi altra arte per molti inesperti? «Sarà questo il modo in cui debbo distribuire giustizia e rispetto tra gli uomini, o debbo darli a tutti?» «A tutti», disse Zeus; «vorrei che tutti ne avessero parte; perché le città non possono esistere, se solo pochi partecipano delle virtù, come nelle arti. E inoltre, per mio ordine fa' una legge, che chi non ha parte nel rispetto e nella giustizia sia messo a morte, poiché è una peste per [lo stato](/concepts/state).»
+
+E questa è la ragione, [Socrate](/figures/socrates), per cui gli Ateniesi e il genere umano in generale, quando la questione riguarda il lavoro del falegname o qualsiasi altra arte meccanica, ammettono che solo pochi partecipino alle loro deliberazioni; e quando qualcun altro si intromette, allora, come tu dici, si oppongono, se non è uno dei pochi favoriti; il che, come io rispondo, è molto naturale. Ma quando si riuniscono per deliberare sulla virtù politica, che procede solo per via di giustizia e di saggezza, sono abbastanza pazienti con qualunque uomo ne parli, come è anche naturale, perché credono che ogni uomo debba avere parte in questa specie di virtù, e che gli stati non potrebbero esistere se fosse altrimenti. Ti ho spiegato, Socrate, la ragione di questo fenomeno.
+
+E affinché tu non supponga di essere ingannato nel pensare che tutti gli uomini ritengano ogni uomo partecipe di giustizia o onestà e di ogni altra virtù politica, ti darò un'ulteriore prova, che è questa. Negli altri casi, come sai, se un uomo dice di essere un buon flautista, o abile in qualsiasi altra arte nella quale non ha abilità, la gente o ride di lui o si adira con lui, e i suoi parenti pensano che sia pazzo e vanno ad ammonirlo; ma quando si tratta di onestà, o di qualche altra virtù politica, anche se sanno che egli è disonesto, tuttavia, se l'uomo si fa avanti pubblicamente e dice la verità sulla sua disonestà, allora ciò che nell'altro caso era da loro ritenuto buon senso, ora lo giudicano pazzia. Dicono che tutti gli uomini debbano professare onestà, siano essi onesti o no, e che un uomo è fuori di senno se dice qualcos'altro. La loro opinione è che un uomo debba avere un certo grado di onestà; e che se non ne ha affatto, non dovrebbe essere al mondo.
+
+Ho mostrato che essi fanno bene ad ammettere ogni uomo come consigliere intorno a questa specie di virtù, poiché sono d'opinione che ogni uomo ne sia partecipe. E ora mi sforzerò di mostrare inoltre che essi non concepiscono questa virtù come data dalla natura, né come nascente spontaneamente, ma come una cosa che può essere insegnata, e che viene all'uomo mediante l'impegno. Nessuno istruirebbe, nessuno rimprovererebbe o si adirerebbe con coloro le cui sventure essi suppongono derivare dalla natura o dal [caso](/concepts/fortune); non cercano di punirli né di impedire che siano ciò che sono; non fanno che compiangerli. Chi è così stolto da castigare o istruire il brutto, o il minuscolo, o il debole? E per questa ragione: perché sa che i beni e i mali di questo genere sono opera della natura e del caso; mentre se un uomo manca di quelle buone qualità che si acquisiscono con lo studio, l'esercizio e l'insegnamento, e possiede invece soltanto le qualità cattive contrarie, gli altri uomini si adirano con lui, lo puniscono e lo riprendono — di queste qualità cattive una è l'empietà, un'altra l'ingiustizia, ed esse possono essere descritte in generale come l'esatto contrario della virtù politica. In tali casi ogni uomo si adirerà con un altro e lo rimprovererà — chiaramente perché pensa che con lo studio e l'apprendimento la virtù di cui l'altro è privo possa essere acquisita. Se rifletterai, Socrate, sulla natura della punizione, vedrai subito che, nell'opinione del genere umano, la virtù può essere acquisita; nessuno punisce il malfattore nella convinzione, o per la ragione, che egli abbia commesso il male — solo l'irragionevole furore di una bestia agisce in tal modo. Ma colui che desidera infliggere una punizione razionale non ricambia per un torto passato che non può essere annullato; egli guarda al futuro, e desidera che l'uomo punito, e colui che lo vede punito, siano dissuasi dal fare nuovamente il male. Egli punisce a scopo di prevenzione, implicando così chiaramente che la virtù è capace di essere insegnata. Questa è l'opinione di tutti coloro che si vendicano di altri, sia privatamente sia pubblicamente. E anche gli Ateniesi, i tuoi stessi concittadini, come gli altri uomini, puniscono e si vendicano di tutti coloro che considerano malfattori; e quindi possiamo dedurre che sono nel numero di coloro che pensano che la virtù possa essere acquisita e insegnata. Fin qui, Socrate, ti ho mostrato abbastanza chiaramente, se non mi inganno, che i tuoi concittadini hanno ragione ad ammettere il calderaio e il ciabattino a consigliare sulla politica, e anche che essi ritengono la virtù capace di essere insegnata e acquisita.
+
 <span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 There yet remains one difficulty which has been raised by you about the sons of good men. What is the reason why good men teach their sons the knowledge which is gained from teachers, and make them wise in that, but do nothing towards improving them in the virtues which distinguish themselves? And here, [Socrates](/figures/socrates), I will leave the apologue and resume the argument. Please to consider: Is there or is there not some one quality of which all the citizens must be partakers, if there is to be a city at all? In the answer to this question is contained the only solution of your difficulty; there is no other. For if there be any such quality, and this quality or unity is not the art of the carpenter, or the smith, or the potter, but justice and temperance and holiness and, in a word, manly virtue — if this is the quality of which all men must be partakers, and which is the very condition of their learning or doing anything else, and if he who is wanting in this, whether he be a child only or a grown-up man or woman, must be taught and punished, until by punishment he becomes better, and he who rebels against instruction and punishment is either exiled or condemned to death under the idea that he is incurable — if what I am saying be true, good men have their sons taught other things and not this, do consider how extraordinary their conduct would appear to be. For we have shown that they think virtue capable of being taught and cultivated both in private and public; and, notwithstanding, they have their sons taught lesser matters, ignorance of which does not involve the punishment of death: but greater things, of which the ignorance may cause death and exile to those who have no training or knowledge of them — aye, and confiscation as well as death, and, in a word, may be the ruin of families — those things, I say, they are supposed not to teach them, — not to take the utmost care that they should learn. How improbable is this, Socrates!
 
 [Education](/concepts/education) and admonition commence in the first years of childhood, and last to the very end of life. Mother and nurse and father and tutor are vying with one another about the improvement of the child as soon as ever he is able to understand what is being said to him: he cannot say or do anything without their setting forth to him that this is just and that is unjust; this is honourable, that is dishonourable; this is holy, that is unholy; do this and abstain from that. And if he obeys, well and good; if not, he is straightened by threats and blows, like a piece of bent or warped wood. At a later stage they send him to teachers, and enjoin them to see to his manners even more than to his reading and music; and the teachers do as they are desired. And when the boy has learned his letters and is beginning to understand what is written, as before he understood only what was spoken, they put into his hands the works of great poets, which he reads sitting on a bench at school; in these are contained many admonitions, and many tales, and praises, and encomia of ancient famous men, which he is required to learn by heart, in order that he may imitate or emulate them and desire to become like them. Then, again, the teachers of the lyre take similar care that their young disciple is temperate and gets into no mischief; and when they have taught him the use of the lyre, they introduce him to the poems of other excellent poets, who are the lyric poets; and these they set to music, and make their harmonies and rhythms quite familiar to the children’s souls, in order that they may learn to be more gentle, and harmonious, and rhythmical, and so more fitted for speech and action; for the life of man in every part has need of harmony and rhythm. Then they send them to the master of gymnastic, in order that their bodies may better minister to the virtuous mind, and that they may not be compelled through bodily weakness to play the coward in war or on any other occasion. This is what is done by those who have the means, and those who have the means are the rich; their children begin to go to school soonest and leave off latest. When they have done with masters, [the state](/concepts/state) again compels them to learn the laws, and live after the pattern which they furnish, and not after their own fancies; and just as in learning to write, the writing-master first draws lines with a style for the use of the young beginner, and gives him the tablet and makes him follow the lines, so the city draws the laws, which were the invention of good lawgivers living in the olden time; these are given to the young man, in order to guide him in his conduct whether he is commanding or obeying; and he who transgresses them is to be corrected, or, in other words, called to account, which is a term used not only in your country, but also in many others, seeing that justice calls men to account. Now when there is all this care about virtue private and public, why, Socrates, do you still wonder and doubt whether virtue can be taught? Cease to wonder, for the opposite would be far more surprising.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Resta ancora una difficoltà che è stata sollevata da te riguardo ai figli degli uomini buoni. Qual è la ragione per cui gli uomini buoni insegnano ai loro figli la conoscenza che si ottiene dai maestri, e li rendono saggi in quella, ma non fanno nulla per migliorarli nelle virtù che distinguono loro stessi? E qui, [Socrate](/figures/socrates), lascerò l'apologo e riprenderò il ragionamento. Ti prego di considerare: c'è o non c'è una qualità unica di cui tutti i cittadini devono essere partecipi, se deve esserci una città? In questa risposta è contenuta l'unica soluzione della tua difficoltà; non ce n'è altra. Poiché se vi è una tale qualità, e questa qualità o unità non è l'arte del falegname, o del fabbro, o del vasaio, ma la giustizia, la temperanza, la santità e, in una parola, la virtù virile — se questa è la qualità di cui tutti gli uomini devono essere partecipi, e che è la condizione stessa del loro imparare o fare qualsiasi altra cosa, e se colui che è privo di questa, sia egli soltanto un fanciullo o un uomo o una donna adulti, deve essere istruito e punito, finché con la punizione non diventi migliore, e colui che si ribella all'istruzione e alla punizione viene o esiliato o condannato a morte nell'idea che sia incurabile — se ciò che dico è vero, gli uomini buoni fanno insegnare ai loro figli altre cose e non questa, deh, considera quanto straordinaria apparirebbe la loro condotta. Poiché abbiamo mostrato che essi credono la virtù capace di essere insegnata e coltivata sia in privato sia in pubblico; e, nondimeno, fanno insegnare ai loro figli cose minori, la cui ignoranza non comporta la punizione della morte: ma cose maggiori, la cui ignoranza può causare morte ed esilio a coloro che non hanno addestramento o conoscenza di esse — sì, e la confisca così come la morte, e, in una parola, può essere la rovina delle famiglie — queste cose, dico, si suppone che non le insegnino loro, — che non si prendano la massima cura che le imparino. Quanto è inverosimile questo, Socrate!
+
+[Educazione](/concepts/education) e ammonizione cominciano nei primi anni della fanciullezza e durano fino al termine stesso della vita. Madre e nutrice e padre e precettore gareggiano tra loro per il perfezionamento del fanciullo non appena egli è in grado di comprendere ciò che gli viene detto: egli non può dire o fare alcunché senza che essi gli mostrino che questo è giusto e quello è ingiusto; questo è onorevole, quello è disonorevole; questo è santo, quello è empio; fa' questo e astieniti da quello. E se obbedisce, bene; se non obbedisce, viene raddrizzato con minacce e percosse, come un legno curvo o storto. In seguito lo mandano ai maestri, e ingiungono loro di badare ai suoi costumi ancor più che alla lettura e alla musica; e i maestri fanno come viene loro richiesto. E quando il fanciullo ha imparato le lettere e comincia a comprendere ciò che è scritto, come prima comprendeva solo ciò che veniva detto, gli mettono nelle mani le opere dei grandi poeti, che egli legge seduto su un banco a scuola; in queste sono contenuti molti ammonimenti, molti racconti, lodi ed encomi di antichi uomini illustri, che egli è tenuto a imparare a memoria, affinché li imiti o li emuli e desideri diventare simile a loro. Inoltre, i maestri di lira hanno simil cura che il loro giovane discepolo sia temperante e non commetta cattive azioni; e quando gli hanno insegnato l'uso della lira, lo introducono ai poemi di altri eccellenti poeti, che sono i poeti lirici; e questi li mettono in musica, e rendono le loro armonie e i loro ritmi del tutto familiari alle anime dei fanciulli, affinché imparino a essere più miti, e armoniosi, e ritmici, e così più adatti alla parola e all'azione; poiché la vita dell'uomo in ogni sua parte ha bisogno di armonia e di ritmo. Poi li mandano al maestro di ginnastica, affinché i loro corpi possano servire meglio alla mente virtuosa, e affinché non siano costretti, per debolezza del corpo, a fare i vigliacchi in guerra o in qualsiasi altra occasione. Questo è ciò che fanno coloro che ne hanno i mezzi, e coloro che ne hanno i mezzi sono i ricchi; i loro figli cominciano ad andare a scuola per primi e smettono per ultimi. Quando hanno finito con i maestri, [lo stato](/concepts/state) a sua volta li costringe a imparare le leggi, e a vivere secondo il modello che esse forniscono, e non secondo i loro capricci; e come nell'imparare a scrivere il maestro di scrittura prima traccia linee con lo stilo per l'uso del giovane principiante, e gli dà la tavoletta e gli fa seguire le linee, così la città traccia le leggi, che furono invenzione di buoni legislatori vissuti nei tempi antichi; queste sono date al giovane, per guidarlo nella sua condotta, sia che comandi sia che obbedisca; e colui che le trasgredisce deve essere corretto, o, in altre parole, chiamato a render conto, che è un termine usato non solo nel tuo paese, ma anche in molti altri, poiché la giustizia chiama gli uomini a render conto. Ora, quando vi è tutta questa cura della virtù, privata e pubblica, perché, Socrate, ti meravigli ancora e dubiti che la virtù possa essere insegnata? Cessa di meravigliarti, poiché il contrario sarebbe di gran lunga più sorprendente.
 
 <span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -283,6 +513,40 @@ Yes.
 And has each of them a distinct function like the parts of the face; — the eye, for example, is not like the ear, and has not the same functions; and the other parts are none of them like one another, either in their functions, or in any other way? I want to know whether the comparison holds concerning the parts of virtue. Do they also differ from one another in themselves and in their functions? For that is clearly what the simile would imply.
 
 Yes, Socrates, you are right in supposing that they differ.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ma perché allora i figli di buoni padri spesso riescono malvagi? Non c’è nulla di molto strano in questo; poiché, come ho già detto, l’esistenza di uno stato implica che la virtù non sia possesso privato di nessun uomo. Se è così — e nulla può essere più vero — allora ti chiederò inoltre di immaginare, come illustrazione, qualche altra occupazione o ramo del sapere che si possa supporre ugualmente essere la condizione dell’esistenza di uno stato. Supponi che non possa esserci uno stato a meno che non fossimo tutti suonatori di flauto, per quanto ciascuno ne avesse la capacità, e che tutti insegnassero liberamente a tutti quest’arte, sia in privato sia in pubblico, e rimproverassero il cattivo suonatore con la stessa libertà e apertura con cui ogni uomo ora insegna la giustizia e le leggi, non nascondendole come nasconderebbe le altre arti, ma comunicandole — poiché tutti abbiamo un interesse reciproco nella giustizia e nella virtù gli uni degli altri, e questa è la ragione per cui ciascuno è così pronto a insegnare la giustizia e le leggi; — supponi, dico, che ci fosse la stessa prontezza e liberalità tra noi nell’insegnarci a vicenda il flauto, immagini, Socrate, che i figli dei buoni suonatori di flauto sarebbero più propensi a diventare buoni di quelli dei cattivi? Non lo credo. I loro figli non crescerebbero per diventare distinti o non distinti secondo le loro proprie capacità naturali come suonatori di flauto, e il figlio di un buon suonatore spesso si rivelerebbe cattivo, e il figlio di un cattivo suonatore buono, e tutti i suonatori di flauto sarebbero abbastanza buoni in confronto a coloro che fossero ignoranti e digiuni dell’arte del flauto? Allo stesso modo vorrei che considerassi che colui che ti sembra il peggiore di quelli che sono stati allevati nelle leggi e nella cultura apparirebbe un uomo giusto e un maestro di giustizia se fosse paragonato a uomini che non avessero avuto educazione, né tribunali, né leggi, né alcun freno che li costringesse a praticare la virtù — con i selvaggi, per esempio, che il poeta Ferecrate mise in scena alla festa delle Lenee dell’anno scorso. Se tu vivessi tra uomini come i misantropi del suo coro, saresti fin troppo lieto di incontrare Euribate e Frinonda, e con tristezza desidereresti di rivedere la furfanteria di questa parte del mondo. Tu, Socrate, sei scontento, e perché? Perché tutti gli uomini sono maestri di virtù, ciascuno secondo la propria capacità; e tu dici: Dove sono i maestri? Potresti altrettanto chiedere: Chi insegna il greco? Poiché anche di questo non si troveranno insegnanti. O potresti chiedere: Chi insegnerà ai figli dei nostri artigiani quell’arte che hanno appreso dai loro padri? Egli e i suoi compagni di lavoro gliel’hanno insegnata al meglio delle loro capacità, — ma chi li porterà più avanti nelle loro arti? E tu avresti certamente difficoltà, Socrate, a trovare un maestro per loro; ma non ci sarebbe alcuna difficoltà a trovare un maestro per coloro che sono del tutto ignoranti. E questo è vero per la virtù o per qualsiasi altra cosa; se un uomo è più capace di noi, anche solo di pochissimo, di promuovere la virtù, dobbiamo accontentarci del risultato. Un maestro di questo genere credo di essere io, e di possedere più di ogni altro uomo la conoscenza che rende un uomo nobile e buono; e do ai miei allievi il pieno valore del loro denaro, e anche di più, come essi stessi confessano. E perciò ho introdotto la seguente modalità di pagamento: — Quando un uomo è stato mio allievo, se vuole paga il mio prezzo, ma non vi è alcuna costrizione; e se non vuole, non ha che da recarsi in un tempio e giurare sul valore degli insegnamenti, e non paga più di quanto dichiara essere il loro valore.
+
+Tale è il mio apologo, o Socrate, e tale è l'argomento con cui mi sforzo di mostrare che la virtù può essere insegnata, e che questa è l'opinione degli Ateniesi. E ho anche tentato di mostrare che non devi meravigliarti se buoni padri hanno figli cattivi, o se buoni figli hanno padri cattivi; di ciò gli stessi figli di Policleto offrono un esempio, i quali sono compagni dei nostri amici qui, Paralo e Santippo, ma non sono nulla in confronto al loro padre; e questo è vero anche dei figli di molti altri artisti. Per quanto riguarda Paralo e Santippo stessi, non devo ancora dire lo stesso, poiché sono giovani e vi è ancora speranza per loro.
+
+Protagora finì, e nel mio orecchio
+
+‘Così soave si dipartì la sua voce, che io nel mentre lo credevo ancora parlante; ancora rimasi fisso ad ascoltare (Preso in prestito da Milton, “Paradiso perduto”.).’
+
+Alla fine, quando mi si fece chiaro che egli aveva davvero terminato, non senza difficoltà cominciai a riprendermi e, guardando Ippocrate, gli dissi: O figlio di Apollodoro, quanto ti sono grato di avermi condotto qui; non avrei voluto perdere il discorso di Protagora per nulla al mondo. Solevo infatti immaginare che nessuna cura umana potesse rendere buoni gli uomini; ma ora so meglio. Eppure ho ancora una difficoltà molto piccola, che sono certo Protagora spiegherà facilmente, dopo averne già spiegate tante. Se un uomo andasse a consultare Pericle o uno qualsiasi dei nostri grandi oratori su queste materie, potrebbe forse udire un discorso altrettanto bello; ma poi, quando uno ha una domanda da rivolgere a qualcuno di loro, essi, come libri, non sanno né rispondere né interrogare; e se uno contesta anche il minimo particolare del loro discorso, essi continuano a risuonare in una lunga tirata, come vasi di bronzo che, percossi, non smettono di suonare finché qualcuno non vi mette la mano sopra; mentre il nostro amico Protagora non solo sa pronunciare un buon discorso, come ha già mostrato, ma quando gli si fa una domanda sa rispondere brevemente; e quando domanda lui, sa attendere e ascoltare la risposta; e questo è un dono molto raro. Ora io, Protagora, voglio farti una piccola domanda, alla quale se vorrai soltanto rispondere, sarò del tutto soddisfatto. Tu dicevi che la virtù può essere insegnata; questo lo prendo sulla tua autorità, e non c'è nessuno a cui io sia più pronto a credere. Ma mi meraviglio di una cosa su cui vorrei avere la mente in pace. Tu parlavi di Zeus che inviava agli uomini la giustizia e il rispetto; e più volte, mentre parlavi, la giustizia, e la temperanza, e la santità, e tutte queste qualità sono state da te descritte come se insieme costituissero la virtù. Ora voglio che tu mi dica sinceramente se la virtù è un tutto unico, di cui giustizia e temperanza e santità sono parti; oppure se tutte queste sono soltanto nomi di una medesima cosa: questo è il dubbio che ancora indugia nella mia mente.
+
+Non c'è difficoltà, Socrate, nel rispondere che le qualità di cui parli sono le parti della virtù, che è una.
+
+E sono parti, dissi, nello stesso senso in cui bocca, naso, occhi e orecchie sono parti del volto; o sono come le parti dell'oro, che differiscono dal tutto e l'una dall'altra solo per essere più grandi o più piccole?
+
+Direi che differivano, Socrate, nel primo modo; si rapportano l'una all'altra come le parti di un volto si rapportano all'intero volto.
+
+E gli uomini possiedono forse una parte della virtù e un'altra parte un'altra? O se uno possiede una parte, deve possedere anche tutte le altre?
+
+Niente affatto, disse; poiché molti sono coraggiosi e non giusti, o giusti e non saggi.
+
+Non negheresti, dunque, che il coraggio e la saggezza siano anch'essi parti della virtù?
+
+"Senza dubbio alcuno," rispose, "e la sapienza è la più nobile delle parti."
+
+E sono tutti diversi l'uno dall'altro? dissi.
+
+Certo.
+
+E ha ciascuna di esse una funzione distinta come le parti del volto; — l'occhio, per esempio, non è come l'orecchio, e non ha le stesse funzioni; e le altre parti non sono affatto simili l'una all'altra, né nelle loro funzioni, né in qualsiasi altro modo? Voglio sapere se il confronto regge riguardo alle parti della virtù. Differiscono anch'esse l'una dall'altra in sé stesse e nelle loro funzioni? Poiché è chiaro che questo è ciò che la similitudine implicherebbe.
+
+Sì, Socrate, hai ragione nel supporre che differiscano.
 
 <span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -514,6 +778,68 @@ Here Alcibiades interposed, and said: That, Callias, is not a true statement of 
 
 When Alcibiades had done speaking, some one — Critias, I believe — went on to say: O Prodicus and Hippias, Callias appears to me to be a partisan of Protagoras: and this led Alcibiades, who loves opposition, to take the other side. But we should not be partisans either of Socrates or of Protagoras; let us rather unite in entreating both of them not to break up the discussion.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Protagora dapprima fece mostra di rifiutare, dicendo che l'argomento non era incoraggiante; alla fine acconsentì a rispondere.
+
+Ebbene, dissi, comincia dal principio e rispondimi. Pensi che alcuni uomini siano temperanti, eppure ingiusti?
+
+Sì, disse; sia ammesso.
+
+E la temperanza è buon senso?
+
+I notice you've asked me to translate an English passage into Italian, but you haven't provided the passage itself — only the word "Yes." Please share the full English text you'd like translated, and I'll render it into Italian while preserving the author's register and paragraph structure.
+
+E il buon senso è buon consiglio nel commettere ingiustizia?
+
+Concesso.
+
+Se riescono, dissi, o se non riescono?
+
+Se riescono.
+
+E ammetteresti l'esistenza dei beni?
+
+Certo.
+
+E il bene è ciò che è utile all'uomo?
+
+Sì, davvero, disse: e vi sono alcune cose che possono essere inopportune, e tuttavia le chiamo buone.
+
+Pensai che Protagora si stesse irritando e agitando; sembrava mettersi in atteggiamento di guerra. Vedendo ciò, badai a me stesso, e dissi dolcemente: —
+
+Quando dici, Protagora, che le cose non giovevoli sono buone, intendi dire non giovevoli per l'uomo soltanto, o non giovevoli in assoluto? E queste ultime le chiami buone?
+
+Certo non l'ultimo, rispose; poiché io conosco molte cose — carni, bevande, medicine, e diecimila altre cose, che sono inutili all'uomo, e alcune che sono utili; e alcune che non sono né utili né inutili all'uomo, ma solo ai cavalli; e alcune solo ai buoi, e alcune ai cani; e alcune a nessun animale, ma solo agli alberi; e alcune alle radici degli alberi e non ai loro rami, come per esempio il letame, che è cosa buona quando è posto intorno alle radici di un albero, ma del tutto distruttivo se gettato sui germogli e sui giovani rami; oppure posso citare l'olio d'oliva, che è nocivo a tutte le piante, e generalmente dannosissimo al pelo di ogni animale eccetto l'uomo, ma benefico ai capelli umani e al corpo umano in generale; e anche in questa applicazione (tanto varia e mutevole è la natura del beneficio), ciò che è il massimo bene per le parti esterne dell'uomo, è un grandissimo male per le sue parti interne: e per questa ragione i medici proibiscono sempre ai loro pazienti l'uso dell'olio nel cibo, eccetto che in piccolissime quantità, appena sufficienti a spegnere la sgradevole sensazione d'odore nelle carni e nelle salse.
+
+Quando ebbe data questa risposta, i presenti lo applaudirono. E io dissi: «Protagora, io ho una memoria infelice; e quando qualcuno mi fa un lungo discorso, non ricordo mai di che cosa parla. Come allora, se io fossi sordo e tu volessi conversare con me, saresti costretto ad alzare la voce; così ora, avendo una memoria tanto cattiva, ti chiederò di accorciare le tue risposte, se vuoi che io ti segua».
+
+Che vuoi dire? disse: come posso accorciare le mie risposte? le farò forse troppo corte?
+
+Certo che no, dissi.
+
+Ma abbastanza breve?
+
+Sì, dissi.
+
+Devo rispondere con ciò che a me sembra abbastanza breve, o con ciò che a te sembra abbastanza breve?
+
+Ho sentito dire, dissi, che sai parlare e insegnare ad altri a parlare delle stesse cose con tale lunghezza che le parole non sembrano mai venir meno, o con tale brevità che nessuno potrebbe usarne di meno. Ti prego quindi, se parli con me, di adottare il secondo, o più compendioso, metodo.
+
+«Socrate», rispose, «molte battaglie di parole ho combattuto, e se avessi seguito il metodo di disputa che i miei avversari desideravano, come tu vuoi che io faccia, non sarei stato da più di un altro, e il nome di Protagora sarebbe rimasto nel nulla.»
+
+Vidi che non era soddisfatto delle sue risposte precedenti, e che non avrebbe più sostenuto la parte di colui che risponde, se avesse potuto farne a meno; e considerai che non ero affatto tenuto a continuare la conversazione; così dissi: Protagora, non desidero importi la conversazione se preferisci di no; ma quando sarai disposto a discutere con me in un modo che io possa seguirti, allora discuterò con te. Ora tu, come dicono gli altri di te e come tu stesso dici di te, sei in grado di tenere discorsi sia in forme più brevi che più lunghe, poiché sei maestro di sapienza; ma io non posso gestire questi lunghi discorsi: vorrei solo poterlo fare. Tu, d'altra parte, che sei capace dell'uno e dell'altro, dovresti parlare in modo più breve come ti prego, e allora potremmo conversare. Ma vedo che non sei disposto, e poiché ho un impegno che mi impedirà di restare ad ascoltarti più a lungo (infatti devo recarmi in un altro luogo), me ne andrò; sebbene avrei gradito ascoltarti.
+
+Così parlai, e mi alzavo dal mio posto, quando Callia mi afferrò per la mano destra e con la sinistra afferrò questo mio vecchio mantello. Disse: Non possiamo lasciarti andare, Socrate, perché se ci lasci avranno fine i nostri discorsi: devo quindi pregarti di rimanere, poiché non c'è nulla al mondo che desidererei di più che ascoltare te e Protagora discorrere. Non negare alla compagnia questo piacere.
+
+Ora io mi era alzato, ed ero in atto di partire. "Figlio di Ipponico," risposi, "ho sempre ammirato, e ora di cuore approvo e amo il tuo spirito filosofico, e volentieri compiacerei alla tua richiesta, se potessi. Ma la verità è che non posso. E ciò che chiedi è per me una impossibilità tanto grande, quanto se mi ordinassi di gareggiare nella corsa con Crison di Imera, quando era nel suo pieno vigore, o con qualcuno di quei corridori del lungo o del giorno. A tale richiesta risponderei che volentieri chiederei lo stesso alle mie gambe; ma esse rifiutano di obbedire. E perciò se vuoi vedere me e Crison nello stesso stadio, devi pregarlo di rallentare il suo passo al mio, poiché io non posso correre veloce, ed egli può correre lento. E similmente se vuoi udire me e Protagora discorrere, devi pregarlo di abbreviare le sue risposte, e di attenersi al punto, come fece da principio; se no, come può esservi discussione alcuna? Poiché il discutere è una cosa, e il fare un'orazione è tutt'altra cosa, a mio umile parere."
+
+Ma vedi, Socrate, disse Callia, che Protagora può a buon diritto pretendere di parlare a modo suo, proprio come tu pretendi di parlare a modo tuo.
+
+A questo punto Alcibiade intervenne e disse: «Questa, Callia, non è una giusta esposizione dei fatti. Il nostro amico Socrate ammette di non saper tenere un discorso — in questo cede la palma a Protagora; ma sarei assai sorpreso se cedesse a qualsiasi uomo vivente nella capacità di reggere e afferrare un argomento. Ora, se Protagora farà una simile ammissione e confesserà di essere inferiore a Socrate nell'arte dialettica, questo basterà a Socrate; ma se pretende una superiorità anche nel ragionamento, interroghi e risponda — non, quando gli venga posta una domanda, svicolando dal punto e, invece di rispondere, facendo un discorso così lungo che la maggior parte degli ascoltatori dimentichi la questione in discussione (non che Socrate sia incline a dimenticarla — me ne faccio garante io, sebbene egli possa fingere per scherzo di avere una cattiva memoria). E a me Socrate sembra più nel giusto di Protagora; questo è il mio parere, e ogni uomo deve dire ciò che pensa.»
+
+Quando Alcibiade ebbe finito di parlare, uno — Crizia, credo — prese a dire: O Prodico e Ippia, Callia mi sembra partigiano di Protagora: e ciò indusse Alcibiade, che ama l'opposizione, a prendere l'altra parte. Ma non dobbiamo essere partigiani né di Socrate né di Protagora; uniamoci piuttosto nel pregare entrambi di non troncare la discussione.
+
 <span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Prodicus added: That, Critias, seems to me to be well said, for those who are present at such discussions ought to be impartial hearers of both the speakers; remembering, however, that impartiality is not the same as equality, for both sides should be impartially heard, and yet an equal meed should not be assigned to both of them; but to the wiser a higher meed should be given, and a lower to the less wise. And I as well as Critias would beg you, Protagoras and [Socrates](/figures/socrates), to grant our request, which is, that you will argue with one another and not wrangle; for friends argue with friends out of good-will, but only adversaries and enemies wrangle. And then our meeting will be delightful; for in this way you, who are the speakers, will be most likely to win esteem, and not praise only, among us who are your audience; for esteem is a sincere conviction of the hearers’ souls, but praise is often an insincere expression of men uttering falsehoods contrary to their conviction. And thus we who are the hearers will be gratified and not pleased; for gratification is of the mind when receiving wisdom and knowledge, but pleasure is of the body when eating or experiencing some other bodily delight. Thus spoke Prodicus, and many of the company applauded his words.
@@ -566,6 +892,58 @@ Did not Simonides first set forth, as his own view, that ‘Hardly can a man bec
 
 Quite right, said Prodicus.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Prodico aggiunse: Questo, o Crizia, mi sembra ben detto, poiché coloro che sono presenti a tali discussioni devono essere ascoltatori imparziali di entrambi gli oratori; ricordando, tuttavia, che l'imparzialità non è la stessa cosa dell'uguaglianza: entrambe le parti devono essere ascoltate imparzialmente, eppure non si deve assegnare a entrambe un eguale riconoscimento; ma al più saggio si deve dare un riconoscimento maggiore, e al meno saggio uno minore. E anch'io, come Crizia, vi pregherei, Protagora e Socrate, di concedere la nostra richiesta, cioè che discutiate l'uno con l'altro e non alterchiate; poiché gli amici discutono con gli amici per benevolenza, ma solo gli avversari e i nemici altercano. E così il nostro incontro sarà dilettevole; poiché in questo modo voi, che siete gli oratori, sarete più facilmente in grado di ottenere la stima, e non solo la lode, tra noi che siamo il vostro pubblico; poiché la stima è una sincera convinzione dell'animo degli ascoltatori, mentre la lode è spesso un'espressione insincera di uomini che pronunciano il falso contro la loro convinzione. E così noi, che siamo gli ascoltatori, saremo appagati e non semplicemente compiaciuti; poiché l'appagamento è della mente, quando riceve sapienza e conoscenza, mentre il piacere è del corpo, quando mangia o prova qualche altro diletto corporeo. Così parlò Prodico, e molti dei presenti applaudirono alle sue parole.
+
+Parlò quindi Ippia il saggio. Disse: Tutti voi che siete qui presenti io ritengo parenti, amici e concittadini, per natura e non per legge; poiché per natura il simile è affine al simile, mentre la legge è il tiranno degli uomini, e spesso ci costringe a fare molte cose contro natura. Quanto grande sarebbe allora la vergogna, se noi, che conosciamo la natura delle cose, e siamo i più saggi degli Elleni, e come tali ci siamo riuniti in questa città, che è la metropoli della sapienza, e nella più grande e gloriosa casa di questa città, non avessimo nulla da mostrare degno di questo culmine di dignità, ma solo litigassimo gli uni con gli altri come i più meschini degli uomini! Vi prego e vi consiglio, Protagora e Socrate, di concordare un compromesso. Siamo noi i vostri pacificatori. E tu, Socrate, non mirare a questa precisa ed estrema brevità nel discorso, se Protagora si oppone, ma allenta e lascia andare le redini del discorso, affinché le tue parole siano più grandiose e più degne di te. E tu, Protagora, non spingerti al largo col vento in poppa, con tutte le vele spiegate, fuori dalla vista della terra, in un oceano di parole, ma vi sia una misura osservata da entrambi. Fate come dico. E lasciate anche che io vi persuada a scegliere un arbitro o sorvegliante o presidente; egli veglierà sulle vostre parole e prescriverà la loro giusta lunghezza.
+
+Questa proposta fu accolta dalla compagnia con universale approvazione; Callia disse che non mi avrebbe lasciato andare, e mi pregarono di scegliere un arbitro. Ma io dissi che scegliere un giudice della discussione sarebbe stato sconveniente; perché se la persona scelta fosse inferiore, l'inferiore o il peggiore non dovrebbe presiedere al migliore; o se fosse uguale, nemmeno questo sarebbe bene; poiché chi è nostro uguale farà come facciamo noi, e a che servirebbe sceglierlo? E se dici: "Scegliamone uno migliore" — a questo rispondo che non puoi trovare nessuno più saggio di Protagora. E se ne scegli un altro che non è realmente migliore, ma che tu dici soltanto che è migliore, porre un altro al di sopra di lui, come se fosse una persona inferiore, sarebbe un'indegna riflessione su di lui; non che, per quanto mi riguarda, qualsiasi riflessione abbia molta importanza per me. Vi dirò allora quello che farò affinché la conversazione e la discussione procedano come desiderate. Se Protagora non è disposto a rispondere, domandi lui, e io risponderò; e mi sforzerò di mostrare al tempo stesso come, secondo me, egli dovrebbe rispondere: e quando avrò risposto a quante domande gli piacerà di farmi, egli risponda a me similmente; e se sembrerà non essere molto pronto a rispondere alla precisa domanda che gli viene posta, voi e io ci uniremo nel pregarlo, come voi pregaste me, di non guastare la discussione. E questo non richiederà un arbitro speciale — tutti voi sarete arbitri.
+
+Ciò fu generalmente approvato, e Protagora, benché molto contro la sua volontà, fu obbligato a convenire che egli avrebbe rivolto delle domande; e che, dopo averne rivolte un numero sufficiente, avrebbe risposto a sua volta, con brevi risposte, a quelle che gli sarebbero state rivolte. Cominciò a porre le sue domande come segue: —
+
+Sono del parere, o Socrate, che l'abilità nella poesia sia la parte principale dell'educazione; e questa ritengo sia il potere di conoscere quali composizioni dei poeti siano corrette e quali no, e come vadano distinte, e di spiegare, a chi lo chieda, la ragione della differenza. E mi propongo di trasferire la questione che tu e io abbiamo discusso nel campo della poesia; parleremo come prima della virtù, ma in riferimento a un passo di un poeta. Ora Simonide dice a Scopa, figlio di Creonte il Tessalo:
+
+‘Da un lato, a stento può un uomo divenire veramente buono, fatto quadrato in mani, piedi e mente, opera senza difetto.’
+
+Conosci la poesia? o devo ripeterla per intero?
+
+Non v'è bisogno, dissi; poiché conosco perfettamente l'ode — ne ho fatto uno studio accurato.
+
+Molto bene, disse. E pensi che l'ode sia una buona composizione, e vera?
+
+Sì, dissi, entrambe buone e vere.
+
+Ma se vi è una contraddizione, può la composizione essere buona o vera?
+
+No, non in quel caso, risposi.
+
+E non c'è una contraddizione? chiese. Rifletti.
+
+Ebbene, amico mio, ho riflettuto.
+
+E non prosegue il poeta dicendo: “Non concordo con la parola di Pittaco, sebbene sia un’affermazione di un uomo saggio: difficilmente un uomo può essere buono”? Ora osserverete che questo è detto dallo stesso poeta.
+
+Lo so già.
+
+E ritieni, disse, che i due detti siano coerenti?
+
+Sì, dissi, credo di sì (al tempo stesso non potevo fare a meno di temere che ci fosse del vero in quello che diceva). E tu pensi diversamente?
+
+«Come può», disse, «essere coerente in entrambi? In primo luogo, ponendo come suo proprio pensiero: “A stento un uomo può diventare veramente buono”; e poi poco più avanti nel poema, dimenticandosene, biasimando Pittaco e rifiutando di concordare con lui, quando dice: “A stento un uomo può essere buono”, che è la medesima cosa. Eppure, quando biasima chi dice il suo stesso detto, biasima se stesso; sicché deve errare o nella prima o nella seconda affermazione.»
+
+Molti tra il pubblico applaudirono e acclamarono queste parole. E io dapprima mi sentii stordito e svenire, come se avessi ricevuto un colpo dalla mano di un pugile esperto, quando udii le sue parole e il suono delle acclamazioni; e a dire il vero, volevo prendere tempo per riflettere su quale fosse veramente il significato del poeta. Così mi rivolsi a Prodico e lo chiamai. Prodico, dissi, Simonide è tuo concittadino, e tu dovresti venire in suo aiuto. Devo appellarmi a te, come il fiume Scamandro in Omero, che, quando è assediato da Achille, invoca il Simoenta in suo aiuto, dicendo:
+
+“Fratello caro, entrambi insieme fermiamo la forza dell’eroe (Il.).”
+
+E ti invoco, perché temo che Protagora sarà la fine di Simonide. Ora è il momento di riabilitare Simonide, applicando la tua filosofia dei sinonimi, che ti consente di distinguere «volere» e «desiderare», e di fare altre deliziose distinzioni come quelle che hai appena tracciato. E vorrei sapere se saresti d’accordo con me; poiché sono dell’opinione che non vi sia contraddizione nelle parole di Simonide. E anzitutto vorrei che tu dicessi se, a tuo parere, Prodico, «essere» è la stessa cosa di «divenire».
+
+Non è lo stesso, certamente, replicò Prodico.
+
+Non fu forse Simonide a esporre per primo, come propria opinione, che «a stento un uomo può diventare veramente buono»?
+
+Hai perfettamente ragione, disse Prodico.
+
 <span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 And then he blames Pittacus, not, as Protagoras imagines, for repeating that which he says himself, but for saying something different from himself. Pittacus does not say as Simonides says, that hardly can a man become good, but hardly can a man be good: and our friend Prodicus would maintain that being, Protagoras, is not the same as becoming; and if they are not the same, then Simonides is not inconsistent with himself. I dare say that Prodicus and many others would say, as Hesiod says,
@@ -610,6 +988,50 @@ Then now, I said, I will endeavour to explain to you my opinion about this poem 
 
 Why do I say all this? I am explaining that this Lacedaemonian brevity was the style of primitive philosophy. Now there was a saying of Pittacus which was privately circulated and received the approbation of the wise, ‘Hard is it to be good.’ And Simonides, who was ambitious of the fame of wisdom, was aware that if he could overthrow this saying, then, as if he had won a victory over some famous athlete, he would carry off the palm among his contemporaries. And if I am not mistaken, he composed the entire poem with the secret intention of damaging Pittacus and his saying.
 
+<span class="qlang-split" data-lang="it"></span>
+
+E poi biasima Pittaco, non, come Protagora immagina, per ripetere ciò che egli stesso dice, ma per dire qualcosa di diverso da sé. Pittaco non dice, come dice Simonide, che a stento un uomo può diventare buono, ma a stento un uomo può essere buono: e il nostro amico Prodico sosterrebbe che l'essere, Protagora, non è lo stesso che il divenire; e se non sono la stessa cosa, allora Simonide non è incoerente con se stesso. Oserei dire che Prodico e molti altri direbbero, come dice Esiodo,
+
+     'Da un lato, a stento può un uomo divenire buono,
+
+     Poiché gli dei hanno fatto della virtù la ricompensa della fatica,
+
+     Ma d'altra parte, quando hai scalato la vetta,
+
+     Allora, conservare la virtù, per quanto difficile ne sia l'acquisto, è facile.
+
+ — (Le opere e i giorni).'
+
+Prodico udì e approvò; ma Protagora disse: La tua correzione, [Socrate](/figures/socrates), implica un errore maggiore di quello che è contenuto nella frase che correggi.
+
+Ohimè! dissi, Protagora; allora sono un povero medico, e non faccio che aggravare il male che cerco di curare.
+
+"Tale è il fatto," disse.
+
+Come mai? chiesi.
+
+Il poeta, rispose, non avrebbe mai potuto commettere un errore tale da dire che la virtù, la quale nell'opinione di tutti gli uomini è la più difficile di tutte le cose, può essere facilmente conservata.
+
+Ebbene, dissi, e quanto siamo fortunati ad avere Prodico tra noi, al momento giusto; poiché egli possiede una sapienza, Protagora, che, come immagino, è più che umana e di antichissima data, e può essere antica quanto Simonide o anche più antica. Per quanto tu sia dotto in molte cose, sembri non saperne nulla; ma io lo so, poiché sono suo discepolo. E ora, se non mi sbaglio, tu non comprendi la parola ‘duro’ (chalepon) nel senso in cui l'intendeva Simonide; e devo correggerti, come Prodico mi corregge quando uso la parola ‘terribile’ (deinon) come termine di lode. Se io dico che Protagora o qualunque altro è un uomo ‘terribilmente’ sapiente, egli mi chiede se non mi vergogno di chiamare ‘terribile’ ciò che è buono; e poi mi spiega che il termine ‘terribile’ è sempre preso in senso cattivo, e che nessuno dice di essere ‘terribilmente’ sano o ricco, o di avere una ‘terribile’ pace, ma di una ‘terribile’ malattia, di una ‘terribile’ guerra, di una ‘terribile’ povertà, intendendo con il termine ‘terribile’ il male. E io penso che Simonide e i suoi concittadini, i Cei, quando parlavano di ‘duro’, intendessero ‘male’, o qualcosa che tu non comprendi. Interroghiamo Prodico, poiché dovrebbe essere in grado di rispondere a domande sul dialetto di Simonide. Che cosa intendeva, Prodico, con il termine ‘duro’?
+
+Il male, disse Prodico.
+
+E perciò, dissi, Prodico, egli biasima Pittaco per aver detto: ‘Duro è il bene’, come se ciò fosse equivalente a dire: ‘Il male è il bene’.
+
+Sì, disse, quello era certamente il suo intendimento; ed egli rimprovera a Pittaco l'ignoranza dell'uso dei termini, il che è naturale in un Lesbio, abituato a parlare una lingua barbara.
+
+Senti, Protagora, chiesi, che cosa dice il nostro amico Prodico? E hai una risposta per lui?
+
+Ti sbagli interamente, Prodico, disse Protagora; e so benissimo che Simonide, usando la parola ‘difficile’, intendeva ciò che tutti noi intendiamo, non il male, ma ciò che non è facile — ciò che richiede molta fatica: di questo sono certo.
+
+Dissi: Sono anch'io incline a credere, Protagora, che questo fosse il significato di Simonide, del quale il nostro amico Prodico era benissimo consapevole, ma pensò di burlarsi, e di provare se tu potessi sostenere la tua tesi; che infatti Simonide non abbia mai potuto intendere l'altra cosa è chiaramente dimostrato dal contesto, nel quale egli dice che solo Dio possiede questo dono. Ora egli non può certo voler dire che l'essere buono sia un male, quando poi prosegue dicendo che solo Dio possiede questo dono, e che questo è attributo di lui e di nessun altro. Perché se questo fosse il suo significato, Prodico attribuirebbe a Simonide una sconsideratezza assai poco simile a quella dei suoi concittadini. E vorrei dirti, dissi, quale io immagino essere il vero significato di Simonide in questo poema, se vorrai mettere alla prova ciò che, nel vostro modo di parlare, si chiamerebbe la mia abilità nella poesia; o se preferisci, io sarò l'ascoltatore.
+
+A questa proposta Protagora rispose: Come vuoi; — e Ippia, Prodico e gli altri mi dissero a ogni costo di fare come avevo proposto.
+
+Orbene, dissi, mi sforzerò di spiegarti la mia opinione su questo poema di Simonide. Vi è una filosofia molto antica, che è più coltivata a Creta e a Lacedemone che in qualsiasi altra parte dell’Ellade, e vi sono più filosofi in quei paesi che in ogni altro luogo del mondo. Questo, tuttavia, è un segreto che i Lacedemoni negano; e fingono d’ignorare, appunto perché non vogliono che si pensi che essi governano il mondo con la sapienza, come i Sofisti di cui parlava Protagora, e non con il valore delle armi; considerando che, se la ragione della loro superiorità fosse svelata, tutti gli uomini praticherebbero la loro sapienza. E questo loro segreto non è mai stato scoperto dagli imitatori delle mode lacedemoni nelle altre città, i quali vanno in giro con le orecchie ammaccate a loro imitazione, e hanno il cesto legato alle braccia, e sono sempre in addestramento, e portano corti mantelli; perché immaginano che queste siano le pratiche che hanno permesso ai Lacedemoni di conquistare gli altri Elleni. Ora, quando i Lacedemoni vogliono rilassarsi e tenere libera conversazione con i loro sapienti, e non sono più soddisfatti del semplice commercio segreto, scacciano tutti questi laconizzanti, e qualunque altro forestiero che si trovi nel loro paese, e tengono una seduta filosofica ignota agli estranei; ed essi stessi proibiscono ai loro giovani di recarsi in altre città — in questo sono simili ai Cretesi — affinché non disimparino le lezioni che hanno loro insegnato. E a Lacedemone e a Creta non solo gli uomini ma anche le donne si fanno un vanto della loro alta cultura. E da ciò puoi conoscere che ho ragione nell’attribuire ai Lacedemoni questa eccellenza in filosofia e speculazione: se un uomo conversa con il più ordinario dei Lacedemoni, lo troverà di rado buono a molto nella conversazione generale, ma a qualsiasi punto del discorso egli scaglierà qualche detto notevole, conciso e pieno di significato, con mira infallibile; e la persona con cui sta parlando sembra essere come un fanciullo nelle sue mani. E molti della nostra età e delle età passate hanno notato che il vero carattere lacedemone ha l’amore della filosofia anche più forte dell’amore della ginnastica; sono consapevoli che solo un uomo perfettamente educato è capace di proferire tali espressioni. Tali furono Talete di Mileto, e Pittaco di Mitilene, e Biante di Priene, e il nostro Solone, e Cleobulo il Lindio, e Misone il Chenio; e settimo nel catalogo dei sapienti fu il Lacedemone Chilone. Tutti costoro furono amanti, emulatori e discepoli della cultura dei Lacedemoni, e chiunque può percepire che la loro sapienza era di questo carattere; consistente in brevi sentenze memorabili, che essi proferirono singolarmente. E si riunirono e dedicarono nel tempio di Apollo a Delfi, come primizie della loro sapienza, le celeberrime iscrizioni, che sono sulla bocca di tutti: ‘Conosci te stesso’ e ‘Nulla di troppo’.
+
+Perché dico tutto questo? Spiego che questa brevità lacedemone era lo stile della filosofia primitiva. Ora vi era un detto di Pittaco che circolava in privato e riceveva l'approvazione dei saggi: «È dura cosa essere buono». E Simonide, che ambiva alla fama della sapienza, sapeva che se fosse riuscito a rovesciare questo detto, allora, come se avesse riportato una vittoria su qualche celebre atleta, avrebbe riportato la palma tra i suoi contemporanei. E se non m'inganno, compose l'intero poema con la segreta intenzione di danneggiare Pittaco e il suo detto.
+
 <span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Let us all unite in examining his words, and see whether I am speaking the truth. Simonides must have been a lunatic, if, in the very first words of the poem, wanting to say only that to become good is hard, he inserted (Greek) ‘on the one hand’ (‘on the one hand to become good is hard’); there would be no reason for the introduction of (Greek), unless you suppose him to speak with a hostile reference to the words of Pittacus. Pittacus is saying ‘Hard is it to be good,’ and he, in refutation of this thesis, rejoins that the truly hard thing, Pittacus, is to become good, not joining ‘truly’ with ‘good,’ but with ‘hard.’ Not, that the hard thing is to be truly good, as though there were some truly good men, and there were others who were good but not truly good (this would be a very simple observation, and quite unworthy of Simonides); but you must suppose him to make a trajection of the word ‘truly’ (Greek), construing the saying of Pittacus thus (and let us imagine Pittacus to be speaking and Simonides answering him): ‘O my friends,’ says Pittacus, ‘hard is it to be good,’ and Simonides answers, ‘In that, Pittacus, you are mistaken; the difficulty is not to be good, but on the one hand, to become good, four-square in hands and feet and mind, without a flaw — that is hard truly.’ This way of reading the passage accounts for the insertion of (Greek) ‘on the one hand,’ and for the position at the end of the clause of the word ‘truly,’ and all that follows shows this to be the meaning. A great deal might be said in praise of the details of the poem, which is a charming piece of workmanship, and very finished, but such minutiae would be tedious. I should like, however, to point out the general intention of the poem, which is certainly designed in every part to be a refutation of the saying of Pittacus. For he speaks in what follows a little further on as if he meant to argue that although there is a difficulty in becoming good, yet this is possible for a time, and only for a time. But having become good, to remain in a good state and be good, as you, Pittacus, affirm, is not possible, and is not granted to man; God only has this blessing; ‘but man cannot help being bad when the force of circumstances overpowers him.’ Now whom does the force of circumstance overpower in the command of a vessel? — not the private individual, for he is always overpowered; and as one who is already prostrate cannot be overthrown, and only he who is standing upright but not he who is prostrate can be laid prostrate, so the force of circumstances can only overpower him who, at some time or other, has resources, and not him who is at all times helpless. The descent of a great storm may make the pilot helpless, or the severity of the season the husbandman or the physician; for the good may become bad, as another poet witnesses: —
@@ -647,6 +1069,44 @@ In these latter words he does not mean to say that all things are good which hav
 (and here observe that he uses a Lesbian word, epainemi (approve), because he is addressing Pittacus,
 
    ‘Who love and APPROVE every one VOLUNTARILY, who does no evil:’
+
+<span class="qlang-split" data-lang="it"></span>
+
+Uniamoci tutti nell'esaminare le sue parole, e vediamo se io dico la verità. Simonide deve essere stato un pazzo, se, nelle primissime parole del poema, volendo dire soltanto che diventare buono è difficile, inserì (greco) ‘da un lato’ (‘da un lato diventare buono è difficile’); non vi sarebbe ragione per l'inserimento di (greco), a meno che non si supponga che egli parli con un riferimento ostile alle parole di Pittaco. Pittaco dice: ‘Difficile è essere buono’, ed egli, in confutazione di questa tesi, replica che la cosa veramente difficile, Pittaco, è diventare buono, non congiungendo ‘veramente’ con ‘buono’, ma con ‘difficile’. Non che la cosa difficile sia essere veramente buono, come se vi fossero alcuni uomini veramente buoni, e ve ne fossero altri buoni ma non veramente buoni (questa sarebbe un'osservazione molto semplice, e del tutto indegna di Simonide); ma bisogna supporre che egli faccia una trasposizione della parola ‘veramente’ (greco), interpretando il detto di Pittaco così (e immaginiamo Pittaco che parli e Simonide che gli risponda): ‘O amici miei’, dice Pittaco, ‘difficile è essere buono’, e Simonide risponde: ‘In questo, Pittaco, ti sbagli; la difficoltà non è essere buono, ma da un lato, diventare buono, quadrato in mani e piedi e mente, senza difetto — questo è difficile veramente.’ Questo modo di leggere il passo spiega l'inserimento di (greco) ‘da un lato’, e la posizione alla fine della proposizione della parola ‘veramente’, e tutto ciò che segue mostra che questo è il significato. Si potrebbe dire molto in lode dei dettagli del poema, che è un incantevole pezzo d'artigianato, e molto rifinito, ma tali minuzie sarebbero tediose. Vorrei tuttavia indicare l'intenzione generale del poema, che è certamente concepito in ogni sua parte per essere una confutazione del detto di Pittaco. Poiché egli parla, in ciò che segue poco più avanti, come se intendesse sostenere che, sebbene vi sia una difficoltà nel diventare buono, ciò è tuttavia possibile per un tempo, e solo per un tempo. Ma, dopo essere diventato buono, rimanere in buono stato ed essere buono, come tu, Pittaco, affermi, non è possibile, né è concesso all'uomo; Dio solo ha questa benedizione; ‘ma l'uomo non può fare a meno di essere cattivo quando la forza delle circostanze lo sopraffà.’ Ora, chi la forza delle circostanze sopraffà nel comando di una nave? — non il privato, poiché egli è sempre sopraffatto; e come chi è già prostrato non può essere rovesciato, e solo chi sta ritto in piedi, ma non chi è prostrato, può essere atterrato, così la forza delle circostanze può sopraffare solo colui che, in un momento o nell'altro, ha risorse, e non colui che è in ogni tempo impotente. Il sopraggiungere di una grande tempesta può rendere impotente il pilota, o l'asprezza della stagione il contadino o il medico; poiché il buono può diventare cattivo, come testimonia un altro poeta: —
+
+I buoni sono talvolta buoni e talvolta cattivi.
+
+Ma il cattivo non diventa cattivo; egli è sempre cattivo. Cosicché quando la forza delle circostanze sopraffà l'uomo di risorse, di abilità e di virtù, allora egli non può non essere cattivo. E tu, Pittaco, dici: 'Difficile è essere buono.' Ora vi è una difficoltà nel diventare buono; eppure ciò è possibile: ma essere buono è un'impossibilità —
+
+Poiché colui che agisce bene è l'uomo buono, e colui che agisce male è il cattivo.
+
+Ma quale sorta di fare è buono nelle lettere? e quale sorta di fare rende un uomo buono nelle lettere? Chiaramente il conoscerle. E quale sorta di ben fare rende un uomo buon medico? Chiaramente la conoscenza dell'arte di sanare gli infermi. «Ma colui che fa male è il cattivo.» Ora chi diventa un cattivo medico? Chiaramente colui che in primo luogo è un medico, e in secondo luogo un buon medico; poiché egli può diventare anche cattivo: ma nessuno di noi uomini senza arte può, per quanto faccia male, diventare medico, non più di quanto possiamo diventare falegnami o cose di tal sorta; e colui che facendo male non può diventare affatto medico, chiaramente non può diventare un cattivo medico. Similmente il buono può essere deteriorato dal tempo, o dalla fatica, o dalla malattia, o da altro accidente (l'unico vero far male è essere privato della conoscenza), ma il cattivo non diventerà mai cattivo, poiché egli è sempre cattivo; e se dovesse diventare cattivo, egli deve in precedenza essere stato buono. Così le parole del poema tendono a mostrare che da un lato un uomo non può essere continuamente buono, ma che egli può diventare buono e può anche diventare cattivo; e ancora che
+
+Sono i migliori per il più lungo tempo coloro che gli dèi amano.
+
+Tutto ciò si riferisce a Pittaco, come è ulteriormente provato dal seguito. Poiché egli aggiunge: —
+
+Perciò non getterò via la mia vita senza scopo nel ricercare l'impossibile, sperando invano di trovare un uomo perfettamente senza colpa tra coloro che partecipano del frutto della terra dall'ampio seno: se lo trovo, ti manderò parola.
+
+(questo è il modo veemente in cui egli conduce il suo attacco contro Pittaco per tutto il poema):
+
+Ma colui che non fa il male, volontariamente lo lodo e amo; — nemmeno gli dèi combattono contro la necessità.
+
+Tutto ciò ha una simile tendenza, poiché Simonide non era così ignorante da dire di lodare coloro che non facevano il male volontariamente, come se vi fossero alcuni che lo facevano volontariamente. Nessun uomo saggio, infatti, come credo, ammetterà che un essere umano erri volontariamente, o compia volontariamente azioni malvagie e disonorevoli; ma essi sanno benissimo che tutti coloro che compiono azioni malvagie e disonorevoli le compiono contro la loro volontà. E Simonide non dice mai di lodare colui che non fa il male volontariamente; la parola ‘volontariamente’ si applica a lui stesso. Egli era infatti dell'opinione che un uomo buono potesse spesso costringere se stesso ad amare e lodare un altro, e ad essere amico e sostenitore di un altro; e che potesse esservi un amore involontario, come quello che si può provare per un padre o una madre snaturati, o per la patria, o simili. Ora gli uomini cattivi, quando i loro genitori o la patria hanno qualche difetto, li guardano con gioia maligna, e li criticano e li espongono e li denunciano ad altri, pensando che il resto dell'umanità sarà meno incline a rimproverare loro stessi e ad accusarli di negligenza; e biasimano i loro difetti molto più di quanto meritino, affinché l'odio che necessariamente ne deriva sia accresciuto: ma l'uomo buono dissimula i propri sentimenti, e si costringe a lodarli; e se essi gli hanno fatto torto ed egli è adirato, placa la sua [ira](/concepts/anger) e si riconcilia, e costringe se stesso ad amare e lodare la propria carne e sangue. E Simonide, com'è probabile, riteneva di aver dovuto spesso lodare e magnificare un tiranno o simili, assai contro la sua volontà, e intende anche far capire a Pittaco che non lo censura perché è censore.
+
+“Poiché sono soddisfatto” dice, “quando un uomo non è né cattivo né molto stupido; e quando conosce la giustizia (che è la salute degli stati), ed è di sano intelletto, non troverò da ridire su di lui, poiché non sono incline a trovare da ridire, e vi sono innumerevoli stolti.”
+
+(lasciando intendere che, se si compiaceva della censura, avrebbe avuto abbondante occasione di trovare difetti).
+
+‘Tutte le cose sono buone, con cui il male non è mescolato.’
+
+Con queste ultime parole egli non intende dire che tutte le cose che non hanno in sé alcun male siano buone, come si potrebbe dire: 'Tutte le cose che non hanno in sé alcun nero sono bianche', poiché ciò sarebbe ridicolo; ma intende dire che accetta e non trova da ridire sullo stato moderato o intermedio.
+
+(‘Non spero’ dice, ‘di trovare un uomo del tutto irreprensibile tra coloro che partecipano dei frutti della terra dal largo seno (se lo trovo, ti manderò parola); in questo senso non lodo nessuno. Ma chi è moderatamente buono e non commette il male, è abbastanza buono per me, che amo e approvo ognuno’)
+
+(e qui osserva che egli usa una parola lesbica, epainemi (approvare), perché si rivolge a Pittaco,
+
+   ‘Chi ama e APPROVA ogni uno VOLONTARIAMENTE, che non fa il male:’
 
 <span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -714,6 +1174,72 @@ Then who are the courageous? Are they not the confident?
 
 Yes, he said; to that statement I adhere.
 
+<span class="qlang-split" data-lang="it"></span>
+
+e che il punto si debba porre dopo ‘volontariamente’); ‘ma vi sono alcuni che involontariamente lodo e amo. E te, Pittaco, non avrei mai biasimato, se tu avessi detto ciò che era moderatamente buono e vero; ma ti biasimo perché, assumendo l’apparenza della verità, parli falsamente delle cose più alte.’ — E questo, dissi, Prodico e Protagora, ritengo essere il significato di Simonide in questo poema.
+
+Ippia disse: Credo, [Socrate](/figures/socrates), che tu abbia esposto molto bene il poema; ma ho anch'io un'eccellente interpretazione mia propria che ti esporrò, se me lo permetti.
+
+No, Ippia, disse Alcibiade; non ora, ma in un'altra occasione. Per il momento dobbiamo rispettare il patto stipulato tra Socrate e Protagora, secondo il quale, finché Protagora è disposto a interrogare, Socrate debba rispondere; o che, se preferisse rispondere, allora Socrate debba interrogare.
+
+Io dissi: desidero che Protagora o domandi o risponda come gli aggrada; ma preferirei, se non gli dispiace, lasciare da parte poemi e odi, e tornare alla questione che ti ponevo da principio, Protagora, e con il tuo aiuto porre fine a quella. Il discorso sui poeti mi sembra un intrattenimento volgare a cui ricorre una compagnia volgare; la quale, non essendo capace di conversare o di dilettarsi a vicenda, mentre beve, col suono delle proprie voci e della propria conversazione, per la sua stupidità, fa salire il prezzo delle suonatrici di flauto al mercato, prendendo a nolo per una gran somma la voce di un flauto invece del proprio fiato, come mezzo di comunicazione tra loro; ma dove la compagnia è di veri gentiluomini e uomini di [educazione](/concepts/education), non vedrete né suonatrici di flauto, né danzatrici, né suonatrici di cetra; e non hanno né sciocchezze né giochi, ma si accontentano della conversazione reciproca, di cui le proprie voci sono il mezzo, e che conducono a turno e in modo ordinato, anche se sono molto liberali nelle libagioni. E una compagnia come la nostra, e uomini quali professiamo di essere, non richiedono l'aiuto della voce altrui, né dei poeti che non si possono interrogare sul significato di ciò che dicono; gente che li cita dichiarando, alcuni che il poeta intende una cosa, e altri che ne intende un'altra, e il punto in disputa non può mai essere deciso. Questo genere di intrattenimento essi rifiutano, e preferiscono parlare tra loro, e mettersi alla prova l'un l'altro nella conversazione. E questi sono i modelli che desidero che tu ed io imitiamo. Lasciando da parte i poeti, e restando tra noi, proviamo la tempra l'uno dell'altro e facciamo prova della verità nella conversazione. Se hai voglia di domandare, io sono pronto a rispondere; o se preferisci, rispondi tu, e dammi l'occasione di riprendere e completare il nostro argomento incompiuto.
+
+Feci queste e alcune simili osservazioni; ma Protagora non voleva dire chiaramente quale delle due avrebbe fatto. Allora Alcibiade si rivolse a Callia, e disse: — Credi, Callia, che Protagora sia leale nel rifiutarsi di dire se risponderà o non risponderà? poiché io certo penso che non sia leale; egli deve o proseguire il ragionamento, o rifiutarsi espressamente di proseguire, affinché conosciamo la sua intenzione; e allora Socrate potrà discorrere con qualcun altro, e il resto della compagnia sarà libero di conversare tra loro.
+
+Io credo che Protagora fosse davvero svergognato da queste parole di Alcibiade, e quando le preghiere di Callia e della compagnia si aggiunsero, fu alla fine indotto a disputare, e disse che io potevo domandare e che egli avrebbe risposto.
+
+Dissi dunque: Non immaginare, Protagora, che io abbia altro interesse nel rivolgerti domande se non quello di chiarire le mie difficoltà. Penso infatti che Omero avesse perfettamente ragione nel dire che
+
+     ‘Quando due vanno insieme, uno vede prima dell'altro (Il.),’
+
+poiché tutti gli uomini che hanno un compagno sono più pronti nell'azione, nella parola o nel pensiero; ma se un uomo
+
+     ‘Vede una cosa quando è solo,’
+
+Egli va subito in cerca finché non trova qualcuno a cui mostrare le sue scoperte e che lo confermi in esse. E preferirei discorrere con te piuttosto che con chiunque altro, perché ritengo che nessuno abbia migliore comprensione della maggior parte delle cose che un uomo buono può essere tenuto a intendere, e in particolare della virtù. Poiché chi altri, se non tu? — che non solo pretendi di essere un uomo buono e un gentiluomo, poiché molti sono tali, eppure non hanno il potere di rendere buoni gli altri — mentre tu non solo sei buono tu stesso, ma anche causa di bontà negli altri. Inoltre tale fiducia hai in te stesso, che mentre gli altri Sofisti celano la loro professione, tu proclami al cospetto dell'Ellade di essere un Sofista o maestro di virtù ed educazione, e sei il primo che chiese un compenso in cambio. Come potrei dunque fare altrimenti che invitarti all'esame di questi argomenti, e fare domande e consultarmi con te? Lo devo, in verità. E vorrei che tu ancora una volta mi rinfrescassi la memoria circa le questioni che ti ponevo da principio, e anche avere il tuo aiuto nel considerarle. Se non erro, la questione era questa: sono sapienza e temperanza e coraggio e giustizia e santità cinque [nomi](/positions/nominalism) della medesima cosa? oppure ciascuno dei nomi ha una separata essenza sottostante e una cosa corrispondente avente una funzione peculiare, nessuno di essi essendo simile a nessun altro di essi? E tu rispondesti che i cinque nomi non erano nomi della medesima cosa, ma che ciascuno di essi aveva un oggetto separato, e che tutti questi oggetti erano parti della virtù, non nello stesso modo in cui le parti dell'oro sono simili tra loro e al tutto di cui sono parti, ma come le parti del volto sono dissimili dal tutto di cui sono parti e l'una dall'altra, e hanno ciascuna una funzione distinta. Vorrei sapere se questa è ancora la tua opinione; o se no, ti chiederò di definire il tuo pensiero, e non ti rimprovererò se ora fai una dichiarazione diversa. Poiché oso dire che tu possa aver detto ciò soltanto per mettermi alla prova.
+
+Rispondo, o Socrate, diss'egli, che tutte queste qualità sono parti della virtù, e che quattro delle cinque sono in qualche modo simili, e che la quinta di esse, che è il coraggio, è molto diversa dalle altre quattro, come provo in questo modo: Potete osservare che molti uomini sono del tutto ingiusti, empi, intemperanti, ignoranti, i quali sono nondimeno notevoli per il loro coraggio.
+
+Fermati, dissi; vorrei rifletterci un momento. Quando parli di uomini coraggiosi, intendi i confidenti, o un'altra specie di natura?
+
+Sì, disse; intendo l'impetuoso, pronto ad affrontare ciò che gli altri temono di avvicinare.
+
+In secondo luogo, affermeresti la virtù essere cosa buona, della quale buona cosa ti affermi maestro.
+
+Sì, egli disse; direi la migliore di tutte le cose, se sono nel mio giusto senno.
+
+Ed è in parte buono e in parte cattivo, dissi, o del tutto buono?
+
+Interamente buono, e nel sommo grado.
+
+Dimmi allora; chi sono coloro i quali hanno fiducia quando si tuffano in un pozzo?
+
+Direi, i palombari.
+
+E la ragione di ciò è che essi hanno conoscenza?
+
+Sì, è questa la ragione.
+
+E chi ha fiducia quando combatte a cavallo — il cavaliere esperto o l'inesperto?
+
+Gli abili.
+
+E chi, combattendo con scudi leggeri — i peltasti o i non peltasti?
+
+I peltasti. E questo vale per tutte le altre cose, disse, se è questo il tuo punto: quelli che hanno conoscenza sono più fiduciosi di quelli che non ne hanno, e sono più fiduciosi dopo aver appreso di prima.
+
+E non hai visto, dissi, persone del tutto ignoranti di queste cose, eppure sicure di esse?
+
+Sì, disse, ho visto persone così fin troppo sicure di sé.
+
+E non sono forse coraggiose anche queste persone sicure di sé?
+
+In tal caso, rispose, il coraggio sarebbe una cosa vile, poiché gli uomini di cui parliamo sono sicuramente dei pazzi.
+
+Dunque, chi sono i coraggiosi? Non sono forse i fiduciosi?
+
+Sì, disse; a tale affermazione aderisco.
+
 <span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 And those, I said, who are thus confident without knowledge are really not courageous, but mad; and in that case the wisest are also the most confident, and being the most confident are also the bravest, and upon that view again wisdom will be courage.
@@ -772,6 +1298,64 @@ Well then, I said, let me suppose that they repeat their question, What account 
 
 I believe, said Protagoras, that the world in general would answer as you do.
 
+<span class="qlang-split" data-lang="it"></span>
+
+E quelli, dissi, che sono così fiduciosi senza conoscenza non sono realmente coraggiosi, ma pazzi; e in tal caso i più saggi sono anche i più fiduciosi, ed essendo i più fiduciosi sono anche i più coraggiosi, e in base a ciò la saggezza sarà di nuovo coraggio.
+
+Anzi, [Socrate](/figures/socrates), rispose, tu erri nel ricordare ciò che fu detto da me. Quando mi domandasti, io certo dissi che i coraggiosi sono gli audaci; ma non mi fu mai domandato se gli audaci siano i coraggiosi; se tu me lo avessi domandato, avrei risposto: 'Non tutti'; e ciò che risposi non hai dimostrato essere falso, sebbene tu sia proceduto a mostrare che quelli che hanno scienza sono più coraggiosi di prima di averla, e più coraggiosi di coloro che non hanno scienza, e poi tu sia stato condotto a pensare che il coraggio sia la stessa cosa della sapienza. Ma in questo modo di argomentare tu potresti giungere a immaginare che la forza sia sapienza. Tu potresti cominciare col domandare se i forti siano capaci, e io direi 'Sì'; e poi se coloro che sanno lottare non siano più capaci di lottare di quelli che non sanno lottare, e più capaci dopo aver imparato che prima di aver imparato, e io assentirei. E quando io avessi ammesso ciò, tu potresti usare le mie ammissioni in modo da provare che, a mio avviso, la sapienza è forza; mentre in quel caso io non avrei ammesso, non più che nell'altro, che i capaci sono forti, sebbene io abbia ammesso che i forti sono capaci. Poiché vi è differenza tra capacità e forza; la prima è data dalla scienza, così come dalla follia o dall'ira, ma la forza proviene dalla natura e da una sana condizione del corpo. E parimenti io dico dell'audacia e del coraggio, che non sono la medesima cosa; e argomento che i coraggiosi sono audaci, ma non tutti gli audaci coraggiosi. Poiché l'audacia può essere data agli uomini dall'arte, e anche, come la capacità, dalla follia e dall'ira; ma il coraggio viene loro dalla natura e dalla sana condizione dell'anima.
+
+Dissi: Ammetteresti, Protagora, che alcuni uomini vivono bene e altri male?
+
+Acconsentì.
+
+E pensi tu che viva bene un uomo che vive nel dolore e nell'afflizione?
+
+Egli non lo fa.
+
+Ma se egli vive piacevolmente fino alla fine della sua vita, non avrà in tal caso vissuto bene?
+
+Egli lo farà.
+
+Dunque vivere piacevolmente è un bene, e vivere spiacevolmente un male?
+
+Sì, disse, se il piacere sia buono e onorevole.
+
+E tu, Protagora, come il resto del mondo, chiami alcune cose piacevoli malvage e alcune dolorose buone? — poiché sono piuttosto disposto a dire che le cose sono buone in quanto sono piacevoli, se non hanno conseguenze di altra sorta, e in quanto sono dolorose sono cattive.
+
+Non so, Socrate, disse, se io possa osare di affermare in modo così assoluto che il piacevole è il bene e il doloroso il male. Avendo riguardo non solo alla mia risposta presente, ma anche a tutta la mia vita, sarò più al sicuro, se non mi sbaglio, nel dire che vi sono alcune cose piacevoli che non sono buone, e che vi sono alcune cose dolorose che sono buone, e alcune che non sono buone, e che ve ne sono alcune che non sono né buone né cattive.
+
+E chiameresti piacevoli," dissi, "le cose che partecipano del piacere o che creano piacere?
+
+Certamente, disse.
+
+Allora, voglio dire che, in quanto sono piacevoli, sono buone; e la mia domanda implicherebbe che il piacere è un bene in sé.
+
+Secondo il tuo modo di parlare preferito, Socrate, “Riflettiamo su questo,” egli disse; e se la riflessione è pertinente, e il risultato dimostra che il piacere e il bene sono realmente la stessa cosa, allora concorderemo; ma se non è così, allora disputeremo.
+
+E vorresti iniziare l'indagine? dissi; o inizierò io?
+
+Dovresti prendere l’iniziativa, disse; poiché sei l’autore della discussione.
+
+Posso usare un'illustrazione? dissi. Supponete che uno, facendo ricerca sulla salute o su qualche altra qualità corporea di un altro, — guardi il suo volto e la punta delle sue dita, e poi dica: Scopriti il petto e le spalle, che io possa vedere meglio: — ecco il genere di cosa che io desidero in questa speculazione. Avendo visto qual è la vostra opinione riguardo al bene e al piacere, sono disposto a dirvi: Scopriti la mente, Protagora, e rivela la tua opinione riguardo alla conoscenza, affinché io sappia se sei d'accordo con il resto del mondo. Ora, il resto del mondo è d'opinione che la conoscenza sia un principio non di forza, né di dominio, né di comando: la loro nozione è che un uomo possa avere conoscenza, e tuttavia che la conoscenza che è in lui possa essere sopraffatta dall'[ira](/concepts/anger), o dal piacere, o dal dolore, o dall'amore, o forse dalla paura, — come se la conoscenza fosse una schiava, e potesse essere trascinata qua e là in qualsiasi modo. Ora, è questa la vostra visione? o pensate che la conoscenza sia una cosa nobile e imperiosa, che non può essere vinta, e che non permetterà a un uomo, se egli solo conosce la differenza tra bene e male, di fare alcunché che sia contrario alla conoscenza, ma che la saggezza avrà la forza di aiutarlo?
+
+Sono d'accordo con te, Socrate, disse Protagora; e non solo, ma io, più d'ogni altro uomo, sono tenuto a dire che la sapienza e la conoscenza sono le più alte tra le cose umane.
+
+Bene, dissi, e vero. Ma sei consapevole che la maggior parte del mondo è di altro parere; e che gli uomini comunemente si suppone che conoscano le cose che sono migliori, e non le facciano quando potrebbero? E la maggior parte delle persone a cui ho chiesto la ragione di ciò hanno detto che quando gli uomini agiscono contro la conoscenza, sono vinti dal dolore, o dal piacere, o da qualcuna di quelle affezioni di cui poco fa facevo menzione.
+
+"Sì, Socrate," rispose; e quello non è il solo punto sul quale gli uomini sono in errore.
+
+Supponiamo, dunque, che tu ed io cerchiamo di istruirli e informarli quale sia la natura di questa affezione che essi chiamano ‘essere vinti dal piacere,’ e che affermano essere la ragione per cui non sempre fanno ciò che è meglio. Quando diciamo loro: Amici, voi vi ingannate, e dite cose non vere, essi probabilmente risponderebbero: Socrate e Protagora, se questa affezione dell’anima non è da chiamarsi ‘essere vinti dal piacere,’ di grazia, che cos’è, e con quale nome la designereste?
+
+Ma perché, Socrate, dovremmo preoccuparci dell'opinione dei più, i quali dicono semplicemente tutto ciò che capita loro di dire?
+
+"Credo," dissi, "che possano essere utili per aiutarci a scoprire come il coraggio si rapporti alle altre parti della virtù. Se sei disposto a rispettare il nostro accordo, che io mostri il modo in cui, come penso, è molto probabile che la nostra recente difficoltà venga chiarita, seguimi; ma se non lo sei, non importa."
+
+Avete perfettamente ragione, disse; e vorrei che voi procedeste come avete cominciato.
+
+Ebbene, dissi, supponiamo che essi ripetano la loro domanda: che conto date di ciò che, nel nostro modo di parlare, si chiama essere vinti dal piacere? Risponderei così: Ascoltate, e Protagora ed io tenteremo di mostrarvelo. Quando gli uomini sono vinti dal mangiare e dal bere e dagli altri desideri sensuali che sono piacevoli, ed essi, conoscendoli come mali, pure vi si abbandonano, non direste che sono vinti dal piacere? Essi non lo negheranno. E supponiamo che tu ed io proseguissimo e chiedessimo loro di nuovo: "In che modo dite che essi sono mali, — in quanto sono piacevoli e danno piacere al momento, o perché causano malattia e povertà e altri simili mali in futuro? Sarebbero ancora mali, se non avessero conseguenze malvage che li accompagnano, semplicemente perché danno la coscienza del piacere di qualsiasi natura?" — Non risponderebbero forse che non sono mali a causa del piacere che è immediatamente dato da essi, ma a causa delle conseguenze successive — malattie e simili?
+
+"I believe," said Protagoras, "that the world in general would answer as you do."
+
 <span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 And in causing diseases do they not cause pain? and in causing poverty do they not cause pain; — they would agree to that also, if I am not mistaken?
@@ -817,6 +1401,52 @@ Yes, he said, the art of measurement.
 Suppose, again, the salvation of human life to depend on the choice of odd and even, and on the knowledge of when a man ought to choose the greater or less, either in reference to themselves or to each other, and whether near or at a distance; what would be the saving principle of our lives? Would not knowledge? — a knowledge of measuring, when the question is one of excess and defect, and a knowledge of number, when the question is of odd and even? The world will assent, will they not?
 
 Protagoras himself thought that they would.
+
+<span class="qlang-split" data-lang="it"></span>
+
+E nel causare malattie non causano dolore? e nel causare povertà non causano dolore; — converrebbero anche in questo, se non mi sbaglio?
+
+Protagora acconsentì.
+
+Allora direi loro, a nome mio e vostro: Li giudicate malvagi per qualche altra ragione, se non perché finiscono in dolore e ci privano di altri piaceri: — anche in questo sarebbero d'accordo?
+
+Entrambi noi due pensavamo che l'avrebbero fatto.
+
+E allora prenderei la questione dal punto di vista opposto, e direi: ‘Amici, quando parlate di beni che sono dolorosi, non intendete forse beni curativi, come gli esercizi ginnici, il servizio militare, e l’uso del medico di bruciare, tagliare, somministrare farmaci e far digiunare? Sono queste le cose che sono buone ma dolorose?’ — mi assentirebbero?
+
+Acconsentì.
+
+«E le chiamate buone perché procurano la massima sofferenza e il massimo dolore immediati; o perché, in seguito, arrecano salute e miglioramento della condizione corporea, la salvezza degli stati, il potere sugli altri e la ricchezza?» — concorderebbero con quest’ultima alternativa, se non mi sbaglio.
+
+Acconsentì.
+
+«Queste cose sono buone per qualche altra ragione, oltre al fatto che terminano nel piacere, e tolgono e allontanano il dolore? Guardate forse a qualche altro criterio oltre al piacere e al dolore, quando le chiamate buone?» — riconoscerebbero di no?
+
+Credo di sì, disse Protagora.
+
+‘E non persegui il piacere come un bene, ed eviti il dolore come un male?’
+
+Acconsentì.
+
+‘Pensi dunque che il dolore sia un male e il piacere un bene: e anzi consideri male persino il piacere, quando ti priva di piaceri maggiori di quelli che dà, o cagiona dolori maggiori del piacere. Se poi chiami il piacere male in relazione a qualche altro fine o criterio, potrai mostrarci quel criterio. Ma tu non ne hai alcuno da mostrare.’
+
+Non penso che le abbiano, disse Protagora.
+
+'E non hai forse un modo simile di parlare del dolore? Tu chiami il dolore un bene quando toglie via dolori maggiori di quelli che ha, o procura piaceri maggiori dei dolori: allora, se hai qualche criterio diverso dal piacere e dal dolore a cui ti riferisci quando chiami un dolore reale un bene, puoi mostrare quale sia. Ma non puoi.'
+
+Vero, disse Protagora.
+
+Supponete ancora, dissi, che il mondo mi dica: ‘Perché spendi molte parole e parli in molti modi su questo argomento?’ Scusatemi, amici, dovrei rispondere; ma in primo luogo c'è una difficoltà nello spiegare il significato dell'espressione ‘vinto dal piacere’; e tutto il ragionamento verte su questo. E anche ora, se vedete qualche via possibile in cui il male possa essere spiegato come altro dal dolore, o il bene come altro dal piacere, potete ancora ritrattare. Siete soddisfatti, dunque, di avere una vita di piacere che sia senza dolore? Se lo siete, e se non siete in grado di mostrare alcun bene o male che non finisca in piacere e dolore, ascoltate le conseguenze: — Se ciò che dite è vero, allora è assurdo l'argomento che afferma che un uomo spesso fa il male consapevolmente, quando potrebbe astenersi, perché è sedotto e sopraffatto dal piacere; o ancora, quando dite che un uomo consapevolmente rifiuta di fare ciò che è bene perché è vinto al momento dal piacere. E che ciò sia ridicolo sarà evidente se solo rinunciamo all'uso dei vari [nomi](/positions/nominalism), come piacevole e doloroso, e bene e male. Siccome vi sono due cose, chiamiamole con due nomi — prima, bene e male, e poi piacevole e doloroso. Assunto questo, proseguiamo dicendo che un uomo fa il male sapendo di fare il male. Ma qualcuno chiederà: Perché? Perché è vinto, è la prima risposta. E da che cosa è vinto? procederà a chiedere l'interrogante. E non saremo in grado di rispondere ‘Dal piacere,’ poiché il nome del piacere è stato scambiato con quello del bene. Nella nostra risposta, allora, diremo soltanto che è vinto. ‘Da che cosa?’ replicherà. Dal bene, dovremo rispondere; davvero dovremo. Anzi, ma il nostro interrogante ribatterà ridendo, se è uno della specie spavalda, ‘È troppo ridicolo, che un uomo faccia ciò che sa essere male quando non dovrebbe, perché è vinto dal bene. È questo, chiederà, perché il bene era degno o non degno di vincere il male?’ E in risposta a ciò risponderemo chiaramente: Perché non era degno; perché se fosse stato degno, allora colui che, come diciamo, era vinto dal piacere, non avrebbe avuto torto. ‘Ma come,’ replicherà, ‘può il bene essere indegno del male, o il male del bene?’ Non è forse la vera spiegazione che essi sono sproporzionati l'uno rispetto all'altro, o come più grande e più piccolo, o più e meno? Questo non possiamo negarlo. E quando parlate di essere vinti— ‘che cosa intendete,’ dirà, ‘se non che scegliete il male maggiore in cambio del bene minore?’ Ammesso. E ora sostituite i nomi di piacere e dolore a bene e male, e dite, non come prima, che un uomo fa ciò che è male consapevolmente, ma che fa ciò che è doloroso consapevolmente, e perché è vinto dal piacere, che è indegno di vincere. Quale misura c'è dei rapporti del piacere al dolore oltre l'eccesso e il difetto, il che significa che diventano più grandi e più piccoli, e più e meno, e differiscono in grado? Poiché se qualcuno dice: ‘Sì, [Socrate](/figures/socrates), ma il piacere immediato differisce ampiamente dal piacere e dal dolore futuri’ — A questo dovrei rispondere: E differiscono forse in qualcosa se non nel piacere e nel dolore? Non ci può essere altra misura di essi. E voi, come un abile pesatore, mettete sulla bilancia i piaceri e i dolori, e la loro vicinanza e lontananza, e pesateli, e poi dite quale supera l'altro. Se pesate piaceri contro piaceri, naturalmente prendete i più e i maggiori; o se pesate dolori contro dolori, prendete i meno e i minori; o se piaceri contro dolori, allora scegliete quel corso d'azione in cui il doloroso è superato dal piacevole, sia il lontano dal vicino o il vicino dal lontano; ed evitate quel corso d'azione in cui il piacevole è superato dal doloroso. Non ammettereste, amici miei, che questo è vero? Sono fiducioso che non possano negarlo.
+
+Era d'accordo con me.
+
+Orbene, io dirò, se fin qui siete d'accordo, siate così cortesi da rispondermi a una domanda: Non vi appaiono le stesse grandezze più grandi alla vista quando sono vicine, e più piccole quando sono lontane? Lo riconosceranno. E lo stesso vale per lo spessore e il numero; anche i suoni, che in sé sono eguali, sono più grandi da vicino, e più piccoli da lontano. Lo concederanno anche questo. Ora, supponiamo che la felicità consista nel fare o nello scegliere il maggiore, e nel non fare o nell'evitare il minore, quale sarebbe il principio salvifico della vita umana? Non sarebbe l'arte della misura il principio salvifico; o sarebbe il potere dell'apparenza? Non è quest'ultima quell'arte ingannevole che ci fa errare su e giù e prendere le cose alle volte delle quali ci pentiamo in un altro momento, sia nelle nostre azioni sia nella nostra scelta delle cose grandi e piccole? Ma l'arte della misura eliminerebbe l'effetto delle apparenze, e, mostrando la verità, vorrebbe infine insegnare all'anima a trovare riposo nella verità, e così salverebbe la nostra vita. Non riconoscerebbe forse l'umanità in generale che l'arte che compie questo risultato è l'arte della misura?
+
+Sì, disse, l'arte della misura.
+
+Supponi, ancora, che la salvezza della vita umana dipenda dalla scelta del pari e del dispari, e dalla conoscenza di quando un uomo debba scegliere il maggiore o il minore, o in riferimento a se stessi o l'uno all'altro, e se vicino o a distanza; quale sarebbe il principio salvatore delle nostre vite? Non sarebbe la conoscenza? — una conoscenza del misurare, quando la questione è di eccesso e difetto, e una conoscenza del numero, quando la questione è del pari e del dispari? Il mondo assentirà, non è vero?
+
+Protagora stesso pensava che l'avrebbero fatto.
 
 <span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -932,6 +1562,120 @@ And these base fears and confidences originate in ignorance and uninstructedness
 
 True, he said.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Orbene, amici miei, dico loro; visto che la salvezza della vita umana è risultata consistere nella retta scelta dei piaceri e dei dolori, — nella scelta del più e del meno, e del maggiore e del minore, e del più vicino e del più remoto, non deve forse questa misurazione essere una considerazione del loro eccesso e difetto ed eguaglianza in relazione reciproca?
+
+Ciò è innegabilmente vero.
+
+E questo, in quanto possiede misura, deve innegabilmente essere anche un'arte e una scienza?
+
+Saranno d'accordo, disse.
+
+La natura di quell'arte o scienza sarà oggetto di futura considerazione; ma l'esistenza di tale scienza fornisce una risposta dimostrativa alla domanda che mi ponesti, a me e a Protagora. Nel momento in cui ponesti la domanda, se ricordi, entrambi eravamo d'accordo che nulla vi fosse di più potente della conoscenza, e che la conoscenza, in qualunque cosa esistesse, dovesse avere il sopravvento sul piacere e su tutte le altre cose; e allora dicesti che il piacere spesso aveva il sopravvento persino su un uomo che possiede conoscenza; e noi rifiutammo di ammetterlo, e tu replicasti: O Protagora e Socrate, che significa essere vinti dal piacere se non questo? — diteci come chiamate tale stato: — se avessimo risposto subito e in quel momento "Ignoranza", vi sareste fatti beffe di noi. Ma ora, facendovi beffe di noi, vi farete beffe di voi stessi: poiché anche voi ammetteste che gli uomini errano nella scelta dei piaceri e dei dolori; cioè nella scelta del bene e del male, per difetto di conoscenza; e ammetteste inoltre che errano non solo per difetto di conoscenza in generale, ma di quella particolare conoscenza che è chiamata misurazione. E siete anche consapevoli che l'atto erroneo compiuto senza conoscenza è compiuto nell'ignoranza. Questo, quindi, è il significato dell'essere vinti dal piacere: — ignoranza, e la più grande. E i nostri amici Protagora, Prodico e Ippia dichiarano di essere i medici dell'ignoranza; ma voi, che siete sotto la falsa impressione che l'ignoranza non ne sia la causa, e che l'arte di cui parlo non possa essere insegnata, non andate voi stessi, né mandate i vostri figli, dai Sofisti, che sono i maestri di queste cose — avete cura del vostro denaro e non date loro nulla; e il risultato è che siete in condizioni peggiori sia nella vita pubblica sia in quella privata: — Supponiamo che questa sia la nostra risposta al mondo in generale: E ora vorrei chiedere a te, Ippia, e a te, Prodico, così come a Protagora (poiché l'argomento dev'essere vostro oltre che nostro), se pensate che io dica la verità o no?
+
+Pensavano tutti che ciò che avevo detto fosse del tutto vero.
+
+Allora sei d’accordo, dissi, che il piacevole è il bene, e il doloroso il male. E qui pregherei il mio amico Prodico di non introdurre la sua distinzione di nomi, sia che preferisca dire piacevole, delizioso, gioioso. Tuttavia, con qualunque nome egli preferisca chiamarli, ti chiederò, eccellentissimo Prodico, di rispondere nel senso che do alle parole.
+
+Prodico rise e assentì, come fecero gli altri.
+
+Allora, amici miei, che dite a questo? Non sono forse tutte le azioni onorevoli e utili, quelle la cui tendenza è di rendere la vita senza dolore e piacevole? L'opera onorevole è anche utile e buona?
+
+Questo fu ammesso.
+
+Allora, dissi, se il piacevole è il bene, nessuno fa nulla con l'idea o la convinzione che un'altra cosa sarebbe migliore e anche conseguibile, mentre potrebbe fare la migliore. E questa inferiorità dell'uomo rispetto a sé stesso è mera ignoranza, così come la superiorità dell'uomo rispetto a sé stesso è saggezza.
+
+Tutti assentirono.
+
+E non è l'ignoranza l'avere una falsa opinione ed essere ingannati circa le cose importanti?
+
+Anche a questo assentirono all'unanimità.
+
+Allora, dissi, nessun uomo persegue volontariamente il male, o ciò che ritiene essere male. Preferire il male al bene non è nella natura umana; e quando un uomo è costretto a scegliere tra due mali, nessuno sceglierà il maggiore quando può avere il minore.
+
+Tutti noi concordammo con ogni parola di questo.
+
+Ebbene," dissi, "esiste una certa cosa chiamata paura o terrore; e qui, Prodico, vorrei particolarmente sapere se saresti d'accordo con me nel definire questa paura o terrore come attesa del male.
+
+Protagora e Ippia concordarono, ma Prodico disse che quella era paura e non terrore.
+
+Non importa, Prodico, dissi; ma dimmi: se le nostre precedenti affermazioni sono vere, un uomo perseguirà ciò che teme quando non vi è costretto? Non sarebbe questo in aperta contraddizione con l'ammissione già fatta, che egli ritiene malvage le cose che teme; e nessuno perseguirà o accetterà volontariamente ciò che ritiene malvagio?
+
+Anche questo era universalmente ammesso.
+
+Allora, dissi io, queste, Ippia e Prodico, sono le nostre premesse; e vorrei pregare Protagora di spiegarci come possa aver ragione in ciò che disse all'inizio. Non intendo ciò che disse proprio all'inizio, poiché la sua prima affermazione, come forse ricorderete, fu che mentre vi erano cinque parti della virtù, nessuna di esse era simile a nessun'altra; ciascuna aveva una funzione separata. A questo, tuttavia, non mi riferisco, ma all'asserzione che egli fece in seguito, che cioè delle cinque virtù quattro erano strettamente affini tra loro, ma che la quinta, il coraggio, differiva grandemente dalle altre. E di ciò egli mi diede la seguente prova. Disse: Troverai, Socrate, che alcuni dei più empi, e ingiusti, e intemperanti, e ignoranti degli uomini sono tra i più coraggiosi; il che prova che il coraggio è molto diverso dalle altre parti della virtù. Fui sorpreso da questa sua affermazione al momento, e lo sono ancora di più ora che ho discusso la questione con te. Così gli chiesi se per coraggiosi intendesse i confidenti. Sì, rispose, e gli impetuosi o audaci. (Forse ricorderai, Protagora, che questa fu la tua risposta.)
+
+Acconsentì.
+
+Ebbene, dissi, dicci contro che cosa sono pronti ad andare i coraggiosi — contro gli stessi pericoli dei codardi?
+
+No, rispose.
+
+Poi contro qualcosa di diverso?
+
+Sì, disse.
+
+Allora i codardi vanno dove c'è sicurezza, e i coraggiosi dove c'è pericolo?
+
+Sì, Socrate, così dicono gli uomini.
+
+Verissimo, dissi. Ma voglio sapere contro che cosa dici che i coraggiosi sono pronti ad andare — contro i pericoli, credendo che siano pericoli, o non contro i pericoli?
+
+No, disse egli; il primo caso è stato da te dimostrato impossibile nel ragionamento precedente.
+
+Anche questo, risposi, è del tutto vero. E se ciò è stato giustamente provato, allora nessuno va incontro a ciò che ritiene essere pericoli, poiché la mancanza di autocontrollo, che spinge gli uomini a precipitarsi nei pericoli, è stata dimostrata essere ignoranza.
+
+Lui assentì.
+
+E tuttavia tanto l'uomo coraggioso quanto il codardo vanno incontro a ciò in cui confidano; cosicché, da questo punto di vista, i vili e i coraggiosi vanno incontro alle stesse cose.
+
+Eppure, Socrate, disse Protagora, ciò a cui va il codardo è l'opposto di ciò a cui va il coraggioso; l'uno, per esempio, è pronto ad andare in battaglia, e l'altro non lo è.
+
+E andare in battaglia è onorevole o vergognoso? dissi.
+
+Onorevole, rispose.
+
+E se onesta, allora già da noi ammessa essere buona; poiché tutte le azioni oneste abbiamo ammesso essere buone.
+
+Ciò è vero; e a tale opinione aderirò sempre.
+
+«Vero», dissi. Ma quali dei due sono quelli che, come dici, non vogliono andare in guerra, la quale è una cosa buona e onorevole?
+
+I codardi, rispose.
+
+E ciò che è buono e onorevole, dissi, è anche piacevole?
+
+È stato certamente riconosciuto che è così, rispose.
+
+E i codardi rifiutano consapevolmente di andare al più nobile, e al più piacevole, e al migliore?
+
+L'ammissione di ciò, rispose, smentirebbe le nostre precedenti ammissioni.
+
+Ma l'uomo coraggioso non va forse anche incontro al meglio, al più piacevole e al più nobile?
+
+Ciò deve essere ammesso.
+
+E l'uomo coraggioso non ha né timore vile né audacia vile?
+
+Vero, rispose.
+
+E se non ignobile, allora onorevole?
+
+Ammise questo.
+
+E se onorevole, allora buono?
+
+Certo.
+
+Ma la paura e la fiducia del codardo, del temerario o del folle, al contrario, sono vili?
+
+Acconsentì.
+
+E questi timori e queste fiducie ignobili hanno origine nell'ignoranza e nella mancanza di istruzione?
+
+È vero, disse.
+
 <span class="atom-split" data-atom="017" data-title="Parte 17" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Then as to the motive from which the cowards act, do you call it cowardice or courage?
@@ -983,3 +1727,55 @@ My only object, I said, in continuing the discussion, has been the desire to asc
 Protagoras replied: Socrates, I am not of a base nature, and I am [the last man](/positions/last_man) in the world to be envious. I cannot but applaud your energy and your conduct of an argument. As I have often said, I admire you above all men whom I know, and far above all men of your age; and I believe that you will become very eminent in philosophy. Let us come back to the subject at some future time; at present we had better turn to something else.
 
 By all means, I said, if that is your wish; for I too ought long since to have kept the engagement of which I spoke before, and only tarried because I could not refuse the request of the noble Callias. So the conversation ended, and we went our way.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quanto al motivo per cui i codardi agiscono, lo chiami viltà o coraggio?
+
+Direi codardia, rispose.
+
+E non sono forse stati dimostrati codardi attraverso la loro ignoranza dei pericoli?
+
+Certamente, disse.
+
+E a causa di quella ignoranza sono codardi?
+
+Assentì.
+
+E la ragione per cui sono codardi è da te ammessa come codardia?
+
+Assentì di nuovo.
+
+Dunque l'ignoranza di ciò che è pericoloso e di ciò che non lo è è codardia?
+
+Annuì in segno di assenso.
+
+Ma certamente il coraggio, dissi, è opposto alla viltà?
+
+Certo.
+
+Dunque la saggezza che conosce quali sono i pericoli e quali non lo sono è opposta all'ignoranza di essi?
+
+A ciò di nuovo annuì.
+
+E l'ignoranza di esse è viltà?
+
+A ciò annuì con grande riluttanza.
+
+E la conoscenza di ciò che è pericoloso e di ciò che non lo è è il coraggio, e si oppone all'ignoranza di queste cose?
+
+A questo punto non annuiva più, ma taceva.
+
+E perché, dissi, non assenti né dissenti, Protagora?
+
+"Concludi l'argomento da solo", disse.
+
+Voglio solo fare un'ultima domanda, dissi. Voglio sapere se pensi ancora che ci siano uomini che sono ignorantissimi eppure coraggiosissimi.
+
+Sembri avere una grande ambizione di farmi rispondere, Socrate, e perciò ti accontenterò e dirò che questo mi appare impossibile, coerentemente con l'argomento.
+
+“Il mio solo scopo,” dissi, “nel continuare la discussione, è stato il desiderio di accertare la natura e le relazioni della virtù; poiché, se questo fosse chiaro, sono molto sicuro che anche l’altra controversia, che è stata condotta a lungo da entrambi noi — tu affermando e io negando che la virtù possa essere insegnata — diventerebbe chiara. Il risultato della nostra discussione mi sembra singolare. Poiché, se il ragionamento avesse una voce umana, quella voce si udrebbe ridere di noi e dire: ‘Protagora e Socrate, voi siete esseri strani; ecco te, Socrate, che dicevi che la virtù non può essere insegnata, e ora ti contraddici col tuo tentativo di provare che tutte le cose sono conoscenza, inclusa la giustizia, la temperanza e il coraggio — il che tende a mostrare che la virtù può certamente essere insegnata; poiché se la virtù fosse altro che conoscenza, come Protagora tentava di provare, allora chiaramente la virtù non può essere insegnata; ma se la virtù è interamente conoscenza, come tu cerchi di mostrare, allora non posso che supporre che la virtù sia capace di essere insegnata. Protagora, d’altra parte, che aveva cominciato dicendo che essa poteva essere insegnata, ora è desideroso di provare che essa è tutt’altro che conoscenza; e se questo è vero, deve essere del tutto incapace di essere insegnata.’ Ora io, o Protagora, percependo questa terribile confusione delle nostre idee, ho un grande desiderio che esse vengano chiarite. E vorrei proseguire la discussione finché non accertiamo che cosa sia la virtù, se sia capace di essere insegnata o no, per timore che Epimeteo per avventura ci faccia inciampare e ci inganni nel ragionamento, come ci dimenticò nel racconto; preferisco il tuo Prometeo al tuo Epimeteo, poiché di lui mi servo, ogni volta che sono intento a queste questioni, nella cura prometeica della mia stessa vita. E se non hai obiezioni, come ho detto all’inizio, vorrei avere il tuo aiuto nell’indagine.”
+
+Protagora rispose: Socrate, non ho un'indole meschina, e sono l'ultimo uomo al mondo a essere invidioso. Non posso fare a meno di applaudire la tua energia e la tua condotta di un'argomentazione. Come ho spesso detto, ti ammiro sopra tutti gli uomini che conosco, e di gran lunga sopra tutti quelli della tua età; e credo che diventerai eminentissimo nella filosofia. Ritorniamo all'argomento in qualche tempo futuro; per ora, è meglio volgerci ad altro.
+
+Certamente, dissi, se questo è il tuo desiderio; poiché anch'io avrei dovuto già da tempo mantenere l'impegno di cui parlai prima, e indugiai solo perché non potevo rifiutare la preghiera del nobile Callia. Così terminò la conversazione, e proseguimmo per la nostra via.

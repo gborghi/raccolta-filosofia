@@ -1120,7 +1120,7 @@ Risposta all’Obiezione 2: La divisione degli Ordini non è quella di un tutto 
 
 Risposta all’Obiezione 3: In un regno, sebbene l’interezza del potere risieda nel re, ciò non esclude che i ministri possedano un potere che rappresenti una partecipazione di quel potere regale. Lo stesso vale per l’Ordine sociale. Nella forma aristocratica di governo, invece, l’interezza del potere non risiede in nessuno in particolare, ma in tutti i membri della comunità.
 
-<span class="atom-split" data-atom="020" data-title="Whether there are seven Orders? (1/2)" data-chapter="Whether there are seven Orders?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="020" data-title="Whether there are seven Orders? (parte 1)" data-chapter="Whether there are seven Orders?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there are not seven Orders. For the Orders of the Church are
 directed to the hierarchical acts. But there are only three hierarchical acts, namely "to cleanse, to
@@ -1230,7 +1230,7 @@ Si afferma che il sacramento dell’Ordine sia rivolto al sacramento dell’Euca
 
 Risposta all’Obiezione 1: Dionigi parla degli ordini non come di sacramenti, ma come di istituzioni destinate ad orientare le azioni gerarchiche. Per questo motivo distingue tre ordini, corrispondenti a tali azioni. Il primo di questi ordini, ovvero quello del vescovo, comprende tutte e tre le funzioni; il secondo, ovvero quello del sacerdote, ne include due; mentre il terzo ne comprende una sola, ovvero quella della purificazione: si tratta dell’ordine dei diaconi, chiamati “ministri”. Tutti gli ordini inferiori sono inclusi in questo ultimo. Tuttavia, gli ordini ricevono la loro natura sacramentale dalla loro relazione con il più importante dei sacramenti; di conseguenza, il numero stesso degli ordini dipende da questa relazione.
 
-<span class="atom-split" data-atom="021" data-title="Whether there are seven Orders? (2/2)" data-chapter="Whether there are seven Orders?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="021" data-title="Whether there are seven Orders? (parte 2)" data-chapter="Whether there are seven Orders?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 2: In the early Church, on account of the fewness of ministers, all the lower
 ministries were entrusted to the deacons, as Dionysius says (Eccl. Hier. iii), where he says: "Some
@@ -1306,7 +1306,7 @@ Al contrario, gli ordini sacri rappresentano un ostacolo alla stipula del matrim
 Rispondo che un Ordine viene considerato sacro in due modi. Primo, in sé stesso; pertanto ogni Ordine è sacro, poiché rappresenta un [sacramento](/concepts/sacrament). Secondo, in relazione al soggetto su cui esercita la propria funzione; un Ordine è quindi definito sacro quando tale funzione riguarda qualcosa di consacrato. In questo senso, esistono soltanto tre Ordini sacri: il sacerdozio e il diaconato, che operano su corpo e sangue consacrati di Cristo, e il subdiaconato, che opera sugli oggetti consacrati. Per tale motivo viene loro imposto il dovere della continenza, affinché coloro che manipolano cose sacre possano essi stessi rimanere santi e puri.  
 Ciò basta per rispondere alle obiezioni sollevate.
 
-<span class="atom-split" data-atom="023" data-title="Whether the acts of the Orders are rightly assigned in the text? (1/2)" data-chapter="Whether the acts of the Orders are rightly assigned in the text?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="023" data-title="Whether the acts of the Orders are rightly assigned in the text? (parte 1)" data-chapter="Whether the acts of the Orders are rightly assigned in the text?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the acts of the Orders are not rightly assigned in the text (Sent.
 iv, D, 24). Because a person is prepared by absolution to receive Christ's body. Now the preparation
@@ -1454,7 +1454,7 @@ Risposta all’Obiezione 7: Gli atti fisici dell’accolito sono strettamente le
 
 Risposta all’Obiezione 8: L’atto dell’accolito è strettamente legato agli atti principali dei ministeri superiori, più di quanto lo siano gli atti degli altri ordini minori; ciò è evidente da sé stesso. Inoltre, per quanto riguarda gli atti secondari attraverso i quali questi ministri preparano il popolo con la dottrina, l’accolito, portando una lampada, rappresenta in modo visibile la dottrina del Nuovo Testamento, mentre il lettore la rappresenta in modo diverso; per questo motivo l’accolito occupa un rango più elevato. Lo stesso vale per l’esorcista: poiché l’atto del lettore può essere paragonato all’atto secondario del diacono e del sottodiacono, così anche l’atto dell’esorcista può essere paragonato all’atto secondario del sacerdote, ovvero quello di legare e sciogliere, atto mediante il quale l’uomo viene completamente liberato dalla schiavitù di Satana. Anche questo dimostra quanto i gradi degli ordini religiosi siano ben organizzati: soltanto i tre ordini superiori collaborano con il sacerdote nell’atto principale, che è la consacrazione del corpo di Cristo, mentre sia gli ordini superiori che quelli inferiori collaborano con lui negli atti secondari, ovvero in quelli legati al rilascio e alla vincolazione delle persone.
 
-<span class="atom-split" data-atom="024" data-title="Whether the acts of the Orders are rightly assigned in the text? (2/2)" data-chapter="Whether the acts of the Orders are rightly assigned in the text?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="024" data-title="Whether the acts of the Orders are rightly assigned in the text? (parte 2)" data-chapter="Whether the acts of the Orders are rightly assigned in the text?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 9: Some say that in receiving the Order the doorkeeper is given a Divine
 power to debar others from entering the Church, even as Christ had, when He cast out the sellers
@@ -1598,7 +1598,7 @@ Dobbiamo ora considerare coloro che conferiscono questo [sacramento](/concepts/s
 (1) Se solo un vescovo possa conferire questo sacramento;  
 (2) Se un eretico o qualsiasi altra persona separata dalla Chiesa possa conferirlo.
 
-<span class="atom-split" data-atom="027" data-title="Whether a bishop alone confers the sacrament of Order? (1/2)" data-chapter="Whether a bishop alone confers the sacrament of Order?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="027" data-title="Whether a bishop alone confers the sacrament of Order? (parte 1)" data-chapter="Whether a bishop alone confers the sacrament of Order?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that not only a bishop confers the [sacrament](/concepts/sacrament) of Order. For the
 imposition of hands has something to do with the consecration. Now not only the bishop but also
@@ -1746,7 +1746,7 @@ Obiezione 5: Inoltre, è necessaria una benedizione per conferire gli ordini sac
 
 Al contrario, quando un vescovo che è caduto in eresia viene riconciliato con la Chiesa, non viene ricongiurato; pertanto non perde il potere che aveva di conferire gli ordini sacri. Inoltre, il potere di ordinare è più importante del potere stesso di conferire gli ordini. Ma nemmeno il potere di ordinare viene meno a causa dell’eresia o di simili motivi. Così come colui che battezza svolge un compito esclusivamente esteriore, allo stesso modo colui che ordina svolge una funzione puramente formale, mentre Dio agisce in modo interiore nel cuore delle persone. Tuttavia, chi viene allontanato dalla Chiesa non perde affatto il potere di battezzare; ne consegue che non perde nemmeno il potere di ordinare.
 
-<span class="atom-split" data-atom="028" data-title="Whether a bishop alone confers the sacrament of Order? (2/2)" data-chapter="Whether a bishop alone confers the sacrament of Order?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="028" data-title="Whether a bishop alone confers the sacrament of Order? (parte 2)" data-chapter="Whether a bishop alone confers the sacrament of Order?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, on this question four opinions are mentioned in the text (Sent. iv, D, 25). For
 some said that heretics, so long as they are tolerated by the Church, retain the power to ordain, but

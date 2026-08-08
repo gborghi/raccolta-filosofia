@@ -161,7 +161,7 @@ become singularly simplified, as it had become in the Roman Empire when
 Nero grinned at the discovery that half of the province of Africa was owned
 by six gentlemen.
 
-<span class="atom-split" data-atom="002" data-title="(apertura) (2/3)" data-chapter="(apertura)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="(apertura) (parte 2)" data-chapter="(apertura)" data-kind="atom" data-srclang="en"></span>
 
 We have dwelt so long upon these facts “so astonishing to be almost
 incredible” because England heads the Europe of commerce and industry.
@@ -289,7 +289,7 @@ to have comprehended this, for in England, Germany, Italy, and France,
 there have taken place simultaneous revivals, and simultaneous efforts
 are being made at the political organization of the workingmen’s party.
 
-<span class="atom-split" data-atom="003" data-title="(apertura) (3/3)" data-chapter="(apertura)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="(apertura) (parte 3)" data-chapter="(apertura)" data-kind="atom" data-srclang="en"></span>
 
 One element of success they possess — numbers; but numbers weigh
 in the balance only if united by combination and led by knowledge. Past

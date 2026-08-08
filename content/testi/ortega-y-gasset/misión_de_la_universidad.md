@@ -156,7 +156,7 @@ Allora si vede che l'Università tedesca è, come istituzione, una cosa piuttost
 
 Ma non si tratta di mie apprezzazioni. È un fatto che in Inghilterra la seconda insegnanza e in Germania l'Università sono in crisi. Critica radicale di quest'ultima da parte del primo ministro dell'Istruzione prussiano dopo instaurata la Repubblica: Becker. Discussione che continua da allora.
 
-<span class="atom-split" data-atom="002" data-title="(apertura) (2/4)" data-chapter="(apertura)" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="002" data-title="(apertura) (parte 2)" data-chapter="(apertura)" data-kind="atom" data-srclang="es"></span>
 
 Por contentarse con imitar y eludir el imperativo de pensar o repensar por sí mismos las cuestiones, nuestros profesores mejores viven en todo con un espíritu quince o veinte años retrasado, aunque en el detalle de sus ciencias estén al día. Es el retraso trágico de todo el que quiere evitarse el esfuerzo de ser auténtico, de crear sus propias convicciones. El número de años de este retraso no es casual. Toda creación histórica —ciencia, política— proviene de cierto espíritu o modalidad de la mente humana. Esa modalidad aparece con una pulsación o ritmo fijo —con cada generación. Una generación, emanando de su espíritu, crea ideas, valoraciones, etcétera. El que imita esas creaciones tiene que esperar a que estén hechas, es decir, a que concluya su faena la generación anterior, y adopta sus principios cuando empiezan a decaer y otra nueva generación inicia ya su reforma, el reino de un nuevo espíritu. Cada generación lucha quince años para vencer y tienen vigencia sus modos otros quince años. Inexorable anacronismo de los pueblos imitadores o sin autenticidad.
 
@@ -276,7 +276,7 @@ Ma ciò che oggi chiamano «cultura generale» non lo era per il Medio Evo; non 
 
 La vita è un caos, una selva selvaggia, una confusione. L'uomo si perde in essa. Ma la sua mente reagisce davanti a quella sensazione di naufragio e perdizione: lavora per trovare nella selva «vie», «cammini»[186]; cioè: idee chiare e ferme sull'Universo, convinzioni positive su ciò che sono le cose e il mondo. L'insieme, il sistema di esse, è la cultura nel senso vero della parola; tutto il contrario, dunque, che ornamento. Cultura è ciò che salva dal naufragio vitale, ciò che permette all'uomo vivere senza che la sua vita sia tragedia senza senso o radicale avvilimento.
 
-<span class="atom-split" data-atom="003" data-title="(apertura) (3/4)" data-chapter="(apertura)" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="003" data-title="(apertura) (parte 3)" data-chapter="(apertura)" data-kind="atom" data-srclang="es"></span>
 
 No podemos vivir humanamente sin ideas. De ellas depende lo que hagamos, y vivir no es sino hacer esto o lo otro. Así el viejísimo libro de la India: «Nuestros actos siguen a nuestros pensamientos como la rueda del carro sigue a la pezuña del buey». En tal sentido —que por sí mismo no tiene nada de intelectualista[187]— somos nuestras ideas.
 
@@ -366,7 +366,7 @@ Non si perturbi l'evidenza di questo suscitando ora la questione di come possa u
 
 Non c'è rimedio: per andare con azzeccatezza nella selva della vita bisogna essere colto, bisogna conoscere la sua topografia, le sue rotte o «metodi»; cioè, bisogna avere un'idea dello spazio e del tempo in cui si vive, una cultura attuale. Ora: quella cultura, o si riceve o si inventa. Chi abbia il coraggio di impegnarsi a inventarla lui da solo, a fare da sé ciò che hanno fatto trenta secoli di umanità, è l'unico che avrebbe diritto a negare la necessità che l'Università si incarichi innanzi tutto di insegnare la cultura. Per disgrazia, quell'unico essere che potrebbe con fondamento opporsi alla mia tesi sarebbe… un demente.
 
-<span class="atom-split" data-atom="004" data-title="(apertura) (4/4)" data-chapter="(apertura)" data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="004" data-title="(apertura) (parte 4)" data-chapter="(apertura)" data-kind="atom" data-srclang="es"></span>
 
 Ha sido menester esperar hasta los comienzos del siglo XX para que se presenciase un espectáculo increíble: el de la peculiarísima brutalidad y la agresiva estupidez con que se comporta un hombre cuando sabe mucho de una cosa e ignora de raíz todas las demás[191]. El profesionalismo y el especialismo, al no ser debidamente compensados, han roto en pedazos al hombre europeo, que por lo mismo está ausente de todos los puntos donde pretende y necesita estar. En el ingeniero está la ingeniería, que es sólo un trozo y una dimensión del hombre europeo; pero éste, que es un integrum, no se halla en su fragmento «ingeniero». Y así en todos los demás casos. Cuando, creyendo usar tan sólo una manera de decir barroca y exagerada, se asegura que «Europa está hecha pedazos», se está diciendo mayor verdad que se presume. En efecto: el desmoronamiento de nuestra Europa, visible hoy, es el resultado de la invisible fragmentación que progresivamente ha padecido el hombre europeo[192].
 
@@ -402,7 +402,7 @@ Per questo, fuori della Spagna si annuncia con grande vigore un movimento per il
 
 Con questo abbiamo che l'insegnamento universitario ci appare integrato da queste tre funzioni:
 
-<span class="atom-split" data-atom="005" data-title="III. Investigación científica y educación de nuevos hombres de ciencia. (1/2)" data-chapter="III. Investigación científica y educación de nuevos hombres de ciencia." data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="005" data-title="III. Investigación científica y educación de nuevos hombres de ciencia. (parte 1)" data-chapter="III. Investigación científica y educación de nuevos hombres de ciencia." data-kind="atom" data-srclang="es"></span>
 
 ¿Hemos contestado con esto a nuestra pregunta sobre cuál era la misión de la Universidad?
 
@@ -546,7 +546,7 @@ La cosa, ripeto, è di una semplicità stupefacente, ma innegabile; la scarsità
 
 Ebbene, io trovo che con l'insegnamento ci accade qualcosa di simile. Perché esistono attività docenti? Perché è la Pedagogia un'occupazione e una preoccupazione dell'uomo? A queste domande davano i romantici le risposte più lucide, commoventi e trascendenti, mescolando in esse tutto l'umano e buona porzione del divino. Per loro si trattava sempre di togliere le cose dai cardini, di esorbitarle e infronzirle melodrammaticamente. Ma noi —non è vero, giovani?— ci compiacciamo semplicemente in che le cose siano, per lo pronto, ciò che sono, e nulla di più; amiamo la loro nudità. Non ci importano il freddo, l'intemperie. Sappiamo che la vita è —soprattutto, sarà— dura. Accettiamo il suo rigore; non tentiamo sofisticare il destino. Perché sia dura non lascia di sembrarci magnifica la vita. Al contrario, se è dura, è solida, magra: tendine e nervo; soprattutto, pulita. Vogliamo pulizia nel nostro tratto con le cose. Per questo le spogliamo e, denudate, le laviamo guardandole, vedendo ciò che esse sono in puris naturalibus.
 
-<span class="atom-split" data-atom="006" data-title="III. Investigación científica y educación de nuevos hombres de ciencia. (2/2)" data-chapter="III. Investigación científica y educación de nuevos hombres de ciencia." data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="006" data-title="III. Investigación científica y educación de nuevos hombres de ciencia. (parte 2)" data-chapter="III. Investigación científica y educación de nuevos hombres de ciencia." data-kind="atom" data-srclang="es"></span>
 
 El hombre se ocupa y preocupa de enseñanza por una razón tan simple como seca y tan seca como lamentable: para vivir con firmeza, desahogo y corrección hace falta saber una cantidad enorme de cosas, y el niño, el joven, tienen una capacidad limitadísima de aprender. Ésta es la razón. Si la niñez y la juventud durasen cada una cien años, o el niño y el joven poseyesen memoria, inteligencia y atención en dosis prácticamente ilimitada, no existiría la actividad docente. Todas aquellas razones conmovedoras y trascendentes hubieran sido inoperantes para obligar al hombre a constituir el tipo de existencia humana que se llama «maestro».
 
@@ -684,7 +684,7 @@ B) Bisogna fare dell'uomo medio, innanzi tutto, un uomo [colto](/concepts/religi
 
 Queste sono:
 
-<span class="atom-split" data-atom="007" data-title="5. El plano del Universo (Filosofía). (1/5)" data-chapter="5. El plano del Universo (Filosofía)." data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="007" data-title="5. El plano del Universo (Filosofía). (parte 1)" data-chapter="5. El plano del Universo (Filosofía)." data-kind="atom" data-srclang="es"></span>
 
 C) Hay que hacer del hombre medio un buen profesional. Junto al aprendizaje de la cultura la Universidad le enseñará, por los procedimientos intelectualmente más sobrios, inmediatos y eficaces, a ser un buen médico, un buen juez, un buen profesor de Matemáticas o de Historia en un Instituto. Pero lo específico de la enseñanza profesional no aparecerá claro mientras no discutamos el lema.
 
@@ -762,7 +762,7 @@ Chi ha vocazione di medico e null'altro, che non flirti con la scienza: farà so
 
 È stata disastrosa la tendenza che ha portato al predominio della «ricerca» nell'Università. Essa è stata la [causa](/concepts/cause) che si elimini il principale: la cultura. Inoltre, ha fatto sì che non si coltivasse intensamente il proposito di educare professionisti ad hoc. Nelle Facoltà di Medicina si aspira a che si insegni iperesatta fisiologia o chimica superferolitica; ma forse in nessuna del mondo c'è qualcuno che si occupi seriamente di pensare che cosa sia oggi essere un buon medico, quale debba essere il tipo modello del medico attuale. La professione, che dopo la cultura è la cosa più urgente, si lascia alla buona di Dio. Ma il danno che questa confusione arreca è reciproco. Anche la scienza patisce di questo utopico avvicinamento alle professioni.
 
-<span class="atom-split" data-atom="008" data-title="5. El plano del Universo (Filosofía). (2/5)" data-chapter="5. El plano del Universo (Filosofía)." data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="008" data-title="5. El plano del Universo (Filosofía). (parte 2)" data-chapter="5. El plano del Universo (Filosofía)." data-kind="atom" data-srclang="es"></span>
 
 La pedantería y la falta de reflexión han sido grandes agentes de este vicio de «cientificismo» que la Universidad padece. En España comienzan ambas potencias deplorables a representar un gravísimo estorbo. Cualquier pelafustán que ha estado seis meses en un laboratorio o seminario alemán o norteamericano, cualquier sinsonte que ha hecho un descubrimientillo científico, se repatría convertido en un «nuevo rico» de la ciencia, en un parvenu de la investigación. Y sin pensar un cuarto de hora en la misión de la Universidad, propone las reformas más ridículas y pedantes. En cambio, es incapaz de enseñar su «asignatura», porque ni siquiera conoce íntegra la disciplina.
 
@@ -846,7 +846,7 @@ Nella nostra epoca, il contenuto della cultura viene in gran parte dalla scienza
 
 La cultura, dunque, fa con la scienza lo stesso che faceva la professione. Spuma di quella il vitalmente necessario per interpretare la nostra esistenza. Ci sono pezzi interi della scienza che non sono cultura, ma pura tecnica scientifica. Viceversa: la cultura ha bisogno —per forza, che lo si voglia o no— di possedere un'idea completa del mondo e dell'uomo; non le è dato fermarsi, come la scienza, lì dove i metodi dell'assoluto rigore teorico casualmente terminano. La vita non può aspettare che le scienze spieghino scientificamente l'Universo. Non si può vivere ad kalendas graecas. L'attributo più essenziale dell'esistenza è la sua perentorietà: la vita è sempre urgente. Si vive qui e ora senza possibile dilazione né trasferimento. La vita ci è sparata a bruciapelo. E la cultura, che non è se non la sua interpretazione, non può nemmeno aspettare.
 
-<span class="atom-split" data-atom="009" data-title="5. El plano del Universo (Filosofía). (3/5)" data-chapter="5. El plano del Universo (Filosofía)." data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="009" data-title="5. El plano del Universo (Filosofía). (parte 3)" data-chapter="5. El plano del Universo (Filosofía)." data-kind="atom" data-srclang="es"></span>
 
 Esto confirma su diferencia de las ciencias. De la ciencia no se vive. Si el físico tuviese que vivir de las ideas de su física, estad seguros de que no se andaría con remilgos y no esperaría a que dentro de cien años complete otro investigador las observaciones que él ha iniciado. Renunciaría a una solución total exacta y completaría con anticipaciones aproximadas o verosímiles lo que falta aún —lo que faltará siempre— al rigoroso cuerpo doctrinal de la física.
 
@@ -942,7 +942,7 @@ Ma, in secondo luogo, nego recisamente che le idee fondamentali —principi, mod
 
 A un tempo per fortuna e per disgrazia, la nazione che oggi porta gloriosamente e indisputabilmente la direzione della scienza è la tedesca. Orbene: il tedesco, accanto al suo prodigioso genio e alla sua serietà per la scienza, trascina un difetto congenito e molto difficile da estirpare: è pedante ed ermetico. Lo è a nativitate. Questo porta con sé che non pochi lati e cose della scienza attuale non siano in verità pura ed effettiva scienza, ma ganga pedantesca e… «mancanza di mondo». Una delle faccende che l'Europa ha bisogno di realizzare presto è liberare la scienza contemporanea dalle sue escrescenze, riti e manie esclusivamente tedeschi e lasciare esente la sua porzione essenziale[209].
 
-<span class="atom-split" data-atom="010" data-title="5. El plano del Universo (Filosofía). (4/5)" data-chapter="5. El plano del Universo (Filosofía)." data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="010" data-title="5. El plano del Universo (Filosofía). (parte 4)" data-chapter="5. El plano del Universo (Filosofía)." data-kind="atom" data-srclang="es"></span>
 
 Europa no se salva si no entra de nuevo en caja, y este encaje tiene que ser más rigoroso que los hasta ahora usados y abusados. Nadie deberá escapar a él. Tampoco el hombre de ciencia. Hoy queda en éste no poco de feudalismo, de egoísmo, de indisciplina, engreimiento y gesto hierático.
 
@@ -1074,7 +1074,7 @@ In primo luogo, abbiamo visto che cultura e professione non sono scienza, ma che
 
 L'Europa è l'intelligenza. Facoltà meravigliosa, sì; meravigliosa perché è l'unica che percepisce la propria limitazione, e in questo modo prova fino a che punto l'intelligenza è, in effetto, intelligente! Questa potenza, che è a un tempo freno di sé stessa, si realizza nella scienza.
 
-<span class="atom-split" data-atom="011" data-title="5. El plano del Universo (Filosofía). (5/5)" data-chapter="5. El plano del Universo (Filosofía)." data-kind="atom" data-srclang="es"></span>
+<span class="atom-split" data-atom="011" data-title="5. El plano del Universo (Filosofía). (parte 5)" data-chapter="5. El plano del Universo (Filosofía)." data-kind="atom" data-srclang="es"></span>
 
 Si la cultura y las profesiones quedaran aisladas en la Universidad, sin contacto con la incesante fermentación de la ciencia, de la investigación, se anquilosarían muy pronto en sarmentoso escolasticismo. Es preciso que en torno a la Universidad mínima establezcan sus campamentos las ciencias —laboratorios, seminarios, centros de discusión. Ellas han de constituir el humus donde la enseñanza superior tenga hincadas sus raíces voraces. Ha de estar, pues, abierta a los laboratorios de todo género, y a la vez reobrar sobre ellos. Todos los estudiantes superiores al tipo medio irán y vendrán de esos campamentos a la Universidad, y viceversa. Allí se darán cursos desde un punto de vista exclusivamente científico sobre todo lo humano y lo divino. De los profesores, unos, más ampliamente dotados de capacidad, serán a la vez investigadores, y los otros, los que sólo sean «maestros», vivirán excitados y vigilados por la ciencia, siempre en ácido fermento. Lo que no es admisible es que se confunda el centro de la Universidad con esa zona circular de las investigaciones que debe rodearla. Son ambas cosas —Universidad y laboratorio— órganos distintos y correlativos en una fisiología completa. Sólo que el carácter institucional compete propiamente a la Universidad. La ciencia es una actividad demasiado [sublime](/concepts/sublime) y exquisita para que se pueda hacer de ella una institución. La ciencia es incoercible e irreglamentable. Por eso se dañan mutuamente la enseñanza superior y la investigación cuando se pretende fundirlas, en vez de dejarlas la una a la vera de la otra, en canje de influjos muy intenso, pero muy libre; constante, pero espontáneo.
 

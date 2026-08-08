@@ -116,6 +116,102 @@ Assuredly not, he said; such a poet would be a fool. And this is the reason why 
 
 That is not easy to determine, I said; but if you will bring your love to me, and will let me talk with him, I may perhaps be able to show you how to converse with him, instead of singing and reciting in the fashion of which you are accused.
 
+<span class="qlang-split" data-lang="it"></span>
+
+PERSONAGGI DEL DIALOGO:
+
+Socrate, che è il narratore, Menesseno, Ippotale, Liside, Ctesippo.
+
+SCENA: Una palestra appena eretta fuori dalle mura di Atene.
+
+Me ne andavo direttamente dall'Accademia al Liceo, con l'intenzione di prendere la strada esterna, che corre proprio lungo le mura. Giunto alla porta secondaria della città, quella presso la fonte di Panope, incontrai Ippotale, figlio di Ieronimo, e Ctesippo del demo di Peania, insieme a un gruppo di giovani che stavano con loro. Ippotale, vedendomi avvicinare, mi chiese di dove venissi e dove fossi diretto.
+
+Vado, risposi, dall'Accademia direttamente al Liceo.
+
+Allora vieni direttamente da noi, disse, e attracca qui; tanto vale.
+
+Chi sei, dissi; e dove devo venire?
+
+Mi mostrò uno spazio chiuso e una porta aperta di contro al muro. E là, disse, è l'edificio nel quale tutti ci incontriamo: e buona compagnia siamo.
+
+E che edificio è questo, chiesi; e che sorta di intrattenimento offrite?
+
+L'edificio, rispose, è una palestra di fresco eretta; e il trattenimento è generalmente conversazione, a cui siete i benvenuti.
+
+«Grazie», dissi; «e c'è qualche maestro lì?»
+
+Sì, disse, il tuo vecchio amico e ammiratore, Miccus.
+
+Infatti, risposi; è un professore molto eminente.
+
+«Sei disposto», disse, «a venire con me a vederli?»
+
+Sì, dissi; ma vorrei sapere prima che cosa ci si aspetta da me, e chi è il favorito tra di voi?
+
+"Alcune persone hanno un preferito, Socrate, e altre un altro," disse.
+
+E chi è il tuo? chiesi: dimmi questo, Ippotale.
+
+A questo egli arrossì; e io gli dissi: O Ippotale, figlio di Geronimo! non dire che sei, o che non sei, innamorato; la confessione è troppo tarda; poiché vedo che non solo sei innamorato, ma sei già molto innanzi nel tuo amore. Semplice e stolto come sono, gli dèi mi hanno dato il potere di comprendere affezioni di questo genere.
+
+Al che egli arrossì sempre di più.
+
+Ctesippo disse: Mi piace vederti arrossire, Ippotale, e esitare a dire a Socrate il nome; quando, se egli fosse stato con te solo per brevissimo tempo, lo avresti tormentato a morte parlando d'altro non facevi. In verità, Socrate, egli letteralmente ci ha assordati, e ci ha tappato le orecchie con le lodi di Liside; e se è un po' ubriaco, c'è ogni probabilità che il nostro sonno venga assassinato da un grido di Liside. Le sue prose sono già abbastanza brutte, ma nulla in confronto ai suoi versi; e quando ci inonda con le sue poesie e altre composizioni, è davvero troppo; e peggio ancora è il suo modo di cantarle al suo amato; ha una voce davvero spaventosa, e non possiamo fare a meno di sentirlo: e ora, avendoti posto una domanda, ecco che arrossisce.
+
+Chi è Liside? dissi: suppongo che debba essere giovane; poiché il nome non mi richiama nessuno.
+
+"Ebbene," disse, "essendo suo padre un uomo molto noto, conserva il patronimico, e non è ancora comunemente chiamato col proprio nome; ma, sebbene tu non conosca il suo nome, sono certo che devi conoscere il suo volto, perché quello basta a distinguerlo."
+
+«Ma dimmi di chi è figlio», dissi.
+
+Egli è il figlio primogenito di Democrate, del demo di Exone.
+
+Ah, Ippotale, dissi, che nobile e veramente perfetto amore hai trovato! Vorrei che tu mi favorissi dell'esibizione che hai fatto al resto della compagnia, e così potrò giudicare se sai ciò che un amante deve dire del suo amore, sia al giovane stesso, sia agli altri.
+
+Anzi, Socrate, disse; di certo non dai alcuna importanza a ciò che dice.
+
+Intendi dire, dissi, che tu sconfessi l'amore della persona che egli dice che tu ami?
+
+No; ma nego di fare versi o di rivolgergli composizioni.
+
+Non è nel suo giusto senno, disse Ctesippo; sta dicendo sciocchezze, ed è completamente pazzo.
+
+"O Ippotale," dissi, "se hai mai composto versi o canti in onore del tuo amato, non voglio udirli; ma voglio conoscerne l'intento, così da poter giudicare il tuo modo di accostarti al tuo diletto."
+
+Ctesippo potrà dirtelo, disse; poiché se, come egli sostiene, il suono delle mie parole gli rintrona sempre nelle orecchie, deve averne una conoscenza e un ricordo molto accurati.
+
+Sì, davvero, disse Ctesippo; lo so fin troppo bene; ed è molto ridicolo il racconto: poiché, sebbene sia un amante, e molto devotamente innamorato, non ha nulla di particolare da dire al suo amato che un bambino non potrebbe dire. Non è forse ridicolo? Egli sa soltanto parlare della ricchezza di Democrate, che tutta la città celebra, e del nonno Liside, e degli altri antenati del giovane, e della loro scuderia di cavalli, e della loro vittoria ai giochi Pitici, e all'Istmo, e a Nemea, con la quadriga e col cavallo da sella — questi sono i racconti che egli compone e ripete. E c'è ancora una fandonia più grossa. Solo l'altro ieri ha composto un poema in cui descriveva l'ospitalità offerta a Eracle, che era un congiunto della famiglia, esponendo come, in virtù di questa parentela, fu accolto ospitalmente da un antenato di Liside; questo antenato era nato da Zeus e dalla figlia del fondatore del demo. E questi sono il genere di favole da vecchie comari che egli canta e recita a noi, e siamo costretti ad ascoltarlo.
+
+Quando udii questo, dissi: O ridicolo Ippotale! come puoi comporre e cantare inni in onore di te stesso prima di aver vinto?
+
+Ma i miei canti e i miei versi, disse, non sono in onore di me stesso, Socrate.
+
+Credi di no? dissi.
+
+Anzi, ma tu che ne pensi? rispose lui.
+
+Certo, diss'io, questi canti sono tutti in tuo onore; poiché se vinci il tuo bello amore, i tuoi discorsi e i tuoi canti ti saranno di gloria, e potranno a buon diritto considerarsi inni composti in lode di te, che hai vinto e conquistato un tale amore; ma se egli ti sfugge, quanto più lo avrai lodato, tanto più ridicolo appariresti per aver perduto questo dono bellissimo ed eccellentissimo; e perciò il sapiente amatore non loda il suo diletto prima di averlo conquistato, perché teme gli accidenti. V'è anche un altro pericolo: i belli, quando alcuno li loda e li esalta, si riempiono di spirito d'orgoglio e di vanagloria. Non convieni tu meco?
+
+Sì, disse.
+
+E quanto più sono vanagloriosi, tanto più difficile è la loro cattura?
+
+Ti credo.
+
+Che cosa dovresti dire di un cacciatore che ha spaventato la sua preda e ha reso più difficile la cattura degli animali che sta cacciando?
+
+Sarebbe un cattivo cacciatore, senza dubbio.
+
+Sì; e se, invece di calmarli, egli li facesse infuriare con parole e canti, ciò mostrerebbe una grande mancanza d'ingegno: non sei d'accordo?
+
+Certo.
+
+E ora rifletti, Ippotale, e osserva se tu non sia colpevole di tutti questi errori nel comporre poesie. Poiché difficilmente posso supporre che affermerai che un uomo sia un buon poeta se reca danno a sé stesso con la propria poesia.
+
+Certamente no, disse; un tale poeta sarebbe uno stolto. Ed è per questo che ti rendo partecipe dei miei consigli, Socrate, e sarò lieto di qualsiasi ulteriore suggerimento tu possa offrirmi. Vorresti dirmi con quali parole o azioni io possa rendermi caro al mio amato?
+
+Non è facile determinarlo, dissi; ma se vorrai condurre da me il tuo amato e mi concederai di parlare con lui, forse potrò mostrarti come conversare con lui, invece di cantare e recitare nella maniera di cui sei accusato.
+
 <span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 There will be no difficulty in bringing him, he replied; if you will only go with Ctesippus into the Palaestra, and sit down and talk, I believe that he will come of his own accord; for he is fond of listening, [Socrates](/figures/socrates). And as this is the festival of the Hermaea, the young men and boys are all together, and there is no separation between them. He will be sure to come: but if he does not, Ctesippus with whom he is familiar, and whose relation Menexenus is his great friend, shall call him.
@@ -242,6 +338,132 @@ Will not the Athenian people, too, entrust their affairs to you when they see th
 
 Yes.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Non ci sarà difficoltà a condurlo, rispose; se tu vuoi soltanto andare con Ctesippo nella palestra, e sederti a discorrere, credo che verrà di sua spontanea volontà; perché è amante di ascoltare, [Socrate](/figures/socrates). E poiché questa è la festa delle Ermee, i giovani e i fanciulli sono tutti insieme, e non vi è separazione tra loro. Verrà di certo: ma se non viene, Ctesippo, col quale egli è familiare, e il cui parente Menesseno è suo grande amico, lo chiamerà.
+
+Quella sarà la via, dissi. Indi condussi Ctesippo nella palestra, e gli altri seguirono.
+
+Entrando, trovammo che i fanciulli avevano appena sacrificato; e questa parte della festa era quasi al termine. Tutti erano nelle loro bianche vesti, e tra loro si giocava ai dadi. La maggior parte di essi si divertiva nel cortile esterno; ma alcuni stavano in un angolo dell'Apodyterium giocando a pari e caffo con un numero di dadi, che traevano da piccoli canestri di vimini. Vi era anche un circolo di spettatori; tra essi era Liside. Egli stava con gli altri fanciulli e giovani, avendo una corona sul capo, come una bella visione, e non meno degno di lode per la sua bontà che per la sua [bellezza](/concepts/beauty). Li lasciammo, e andammo dal lato opposto della stanza, dove, trovato un luogo tranquillo, ci sedemmo; e allora cominciammo a parlare. Questo attirò Liside, che continuamente si volgeva a guardarci — evidentemente desiderava venire da noi. Per un po' esitò e non ebbe il coraggio di venire solo; ma prima di tutto, il suo amico Menesseno, lasciando il gioco, entrò nella Palestra dal cortile, e quando vide Ctesippo e me, stava per prendere posto accanto a noi; e allora Liside, vedendolo, lo seguì e sedette al suo fianco; e gli altri fanciulli si unirono. Devo osservare che Ippotale, quando vide la folla, si mise dietro di loro, dove pensava di essere fuori dalla vista di Liside, per timore di [irritare](/concepts/anger) lui; e lì stette ad ascoltare.
+
+Mi volsi a Menesseno e dissi: Figlio di Demofonte, quale di voi due giovani è il maggiore.
+
+Questa è una questione di disputa tra noi, disse.
+
+E quale è il più nobile? È anche questo oggetto di disputa?
+
+Sì, certamente.
+
+E un altro punto controverso è: quale è la più giusta?
+
+I due ragazzi risero.
+
+Non domanderò quale dei due sia il più ricco, dissi; poiché siete amici, non è vero?
+
+Certamente, risposero.
+
+E gli amici hanno tutte le cose in comune, così che uno di voi non possa essere più ricco dell'altro, se dite veramente che siete amici.
+
+Assentirono. Stavo per domandare quale dei due fosse il più giusto e quale il più saggio; ma in quel momento Menesseno fu chiamato da uno che venne a dire che il maestro di ginnastica lo cercava. Supposi che dovesse offrire un sacrificio. Così se ne andò, e io rivolsi a Liside altre domande. Oserei dire, o Liside, dissi, che tuo padre e tua madre ti amano molto.
+
+Certamente, disse egli.
+
+E desidererebbero che tu fossi perfettamente felice.
+
+I'd be happy to translate your passage. However, you haven't provided the English text yet. Please share the passage you'd like translated into Italian, and I'll follow your instructions carefully.
+
+Ma credi tu che sia felice chi si trova nella condizione di schiavo, e che non possa fare ciò che gli piace?
+
+Non credo proprio, invero, disse.
+
+E se tuo padre e tua madre ti amano, e desiderano che tu sia felice, nessuno può dubitare che siano molto pronti a promuovere la tua felicità.
+
+Certamente, rispose.
+
+E allora ti permettono di fare ciò che vuoi, e non ti rimproverano mai né ti impediscono di fare ciò che desideri?
+
+Sì, davvero, Socrate; ci sono moltissime cose che mi impediscono di fare.
+
+Che cosa vuoi dire? dissi. Vogliono che tu sia felice, eppure ti impediscono di fare ciò che ti piace? per esempio, se vuoi montare su uno dei carri di tuo padre e prendere le redini in una corsa, non te lo permetteranno — ti impediranno?
+
+Certamente, disse, non mi permetteranno di fare ciò.
+
+Chi permetteranno dunque?
+
+Vi è un auriga, cui mio padre paga per la guida.
+
+E si fidano di un mercenario più che di te? e può egli fare ciò che vuole dei cavalli? e lo pagano per questo?
+
+Lo fanno.
+
+Ma ardisco dire che possiate prendere la frusta e guidare il carro a muli, se vi aggrada; — lo permetteranno?
+
+Permettetemi! in verità non lo faranno.
+
+Allora, dissi, nessuno può usare la frusta sui muli?
+
+Sì, disse il mulattiere.
+
+Ed egli è uno schiavo o un uomo libero?
+
+Uno schiavo, disse.
+
+E stimano uno schiavo di maggior valore di te, che sei loro figlio? E affidano a lui i loro beni piuttosto che a te? e gli permettono di fare ciò che gli piace, mentre lo vietano a te? Rispondimi ora: sei padrone di te stesso, o non ti permettono neppure questo?
+
+No, disse; naturalmente non lo permettono.
+
+Allora hai un padrone?
+
+Sì, mio tutore; eccolo là.
+
+E lui è uno schiavo?
+
+Certamente; egli è nostro schiavo, rispose.
+
+Certo, dissi, questa è una cosa strana, che un uomo libero debba essere governato da uno schiavo. E che cosa fa con te?
+
+Mi porta dai miei insegnanti.
+
+Non intendi dire che anche i tuoi insegnanti governano su di te?
+
+Certo che lo fanno.
+
+Allora devo dire che tuo padre si compiace di infliggerti molti signori e padroni. Ma in ogni caso, quando tornerai a casa da tua madre, essa ti lascerà fare a modo tuo e non si intrometterà nella tua felicità; la sua lana, o il pezzo di stoffa che sta tessendo, sono a tua disposizione: sono certo che nulla ti impedisce di toccare la sua spatola di legno, o il suo pettine, o qualunque altro dei suoi arnesi da filatura.
+
+No, Socrate, rispose ridendo; non solo ella mi ostacola, ma sarei battuto se toccassi una di esse.
+
+Ebbene, dissi, questo è straordinario. E ti sei mai comportato male verso tuo padre o tua madre?
+
+No, invero, rispose.
+
+Ma perché allora sono così terribilmente ansiosi di impedirti di essere felice e di fare ciò che ti piace? — tenendoti tutto il giorno in soggezione a un altro e, in una parola, non facendo nulla di ciò che desideri; così che tu non trai alcun bene, come sembrerebbe, dalle loro grandi ricchezze, che sono sotto il controllo di chiunque piuttosto che tuo, e non hai alcun uso della tua stessa bella persona, che è accudita e curata da un altro; mentre tu, Liside, non sei padrone di nessuno e non puoi fare nulla?
+
+Perché, disse, Socrate, la ragione è che non sono in età.
+
+«Dubito che quella sia la vera ragione», dissi; «poiché immagino che tuo padre Democrate e tua madre ti permettano già di fare molte cose, e non aspettino che tu sia maggiorenne: per esempio, se vogliono che qualche cosa sia letta o scritta, tu, suppongo, saresti la prima persona in casa che viene convocata da loro.»
+
+Molto vero.
+
+E ti sarebbe permesso scrivere o leggere le lettere in qualunque ordine ti piacesse, o prendere la lira e accordare le note, e suonare con le dita, o percuotere col plettro, esattamente come ti piacesse, e né padre né madre t’importunerebbero.
+
+"È vero", disse.
+
+Allora, che ragione può esservi, o Liside, dissi, per cui ti permettono di fare l'una cosa e non l'altra?
+
+Suppongo, disse, perché comprendo l'uno, e non l'altro.
+
+Sì, mio caro giovane, dissi, la ragione non è alcuna mancanza di anni, ma una mancanza di conoscenza; e ogni volta che tuo padre penserà che tu sia più saggio di lui, subito affiderà a te se stesso e i suoi beni.
+
+Penso di sì.
+
+Sì, dissi; e riguardo al tuo vicino, non vale forse la stessa regola che per tuo padre? Se è convinto che tu sappia più di lui di economia domestica, continuerà ad amministrare da sé i suoi affari, o li affiderà a te?
+
+Penso che li affiderà a me.
+
+Non affideranno anche il popolo ateniese i propri affari a te, quando vedrà che hai abbastanza saggezza da gestirli?
+
+I'd be happy to translate your passage. However, you haven't provided the English text yet. Please share the passage you'd like translated into Italian, and I'll follow your instructions carefully.
+
 <span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 And oh! let me put another case, I said: There is the great king, and he has an eldest son, who is the Prince of Asia; — suppose that you and I go to him and establish to his satisfaction that we are better cooks than his son, will he not entrust to us the prerogative of making soup, and putting in anything that we like while the pot is boiling, rather than to the Prince of Asia, who is his son?
@@ -361,6 +583,126 @@ I do not think that he was wrong.
 You think that he is right?
 
 Yes.
+
+<span class="qlang-split" data-lang="it"></span>
+
+E oh! lasciami proporre un altro caso, dissi: C'è il gran re, ed egli ha un figlio primogenito, che è il Principe d'Asia; — supponiamo che tu ed io andiamo da lui e gli dimostriamo a sua piena soddisfazione che siamo migliori cuochi di suo figlio, non affiderà egli a noi la prerogativa di fare la minestra, e di mettervi qualsiasi cosa ci piaccia mentre la pentola bolle, piuttosto che al Principe d'Asia, che è suo figlio?
+
+A noi, chiaramente.
+
+E a noi sarà permesso gettare il sale a manciate, mentre al figlio non sarà permesso metterne quanto ne può prendere tra le dita?
+
+Naturalmente.
+
+O supponi di nuovo che il figlio abbia gli occhi malati, gli permetterà, o non gli permetterà, di toccare i propri occhi, se pensa che egli non abbia conoscenza della medicina?
+
+Egli non gli permetterà.
+
+Mentre, se egli suppone che noi abbiamo conoscenza della medicina, egli ci permetterà di fare di lui ciò che ci piace — anche di spalancare gli occhi e spargervi cenere, perché suppone che noi sappiamo ciò che è meglio?
+
+È vero.
+
+E tutto ciò in cui gli sembriamo più saggi di lui stesso o di suo figlio, egli lo affiderà a noi?
+
+È molto vero, [Socrate](/figures/socrates), rispose.
+
+Ora dunque, mio caro Liside, dissi, tu vedi che nelle cose che conosciamo tutti si fideranno di noi, — Elleni e barbari, uomini e donne, — e potremo farne ciò che ci piace, e nessuno vorrà intromettersi con noi; saremo liberi e padroni degli altri; e queste cose saranno realmente nostre, perché ne trarremo beneficio. Ma nelle cose di cui non abbiamo cognizione, nessuno si fiderà di noi per fare ciò che ci sembra bene — ci ostacoleranno per quanto potranno; e non solo gli stranieri, ma il padre e la madre, e l'amico, se pure ve n'è uno, che è ancora più caro, ci ostacoleranno anch'essi; e saremo soggetti agli altri; e queste cose non saranno nostre, perché non ne trarremo beneficio. Sei d'accordo?
+
+Egli assentì.
+
+E saremo amici degli altri, e altri ci ameranno, in quanto siamo loro inutili?
+
+Certo che no.
+
+Né tuo padre né tua madre possono amarti, né alcuno può amare alcun altro, nella misura in cui sono loro inutili?
+
+No.
+
+E perciò, ragazzo mio, se sei saggio, tutti gli uomini saranno tuoi amici e parenti, perché sarai utile e buono; ma se non sei saggio, né padre, né madre, né parenti, né alcun altro saranno tuoi amici. E nelle cose di cui non hai ancora conoscenza, puoi avere alcuna presunzione di conoscenza?
+
+È impossibile, rispose.
+
+E tu, Liside, se hai bisogno di un maestro, non hai ancora raggiunto la saggezza.
+
+Vero.
+
+E pertanto non sei presuntuoso, non avendo nulla di cui esser presuntuoso.
+
+In verità, Socrate, non credo.
+
+Quando lo udii dir questo, mi volsi a Ippotale, e fui quasi sul punto di fare uno sbaglio, poiché stavo per dirgli: È così, Ippotale, che dovresti parlare al tuo amato, umiliandolo e abbassandolo, e non come fai tu, gonfiandolo e viziandolo. Ma vidi che egli era in grande agitazione e confusione per ciò che era stato detto, e mi ricordai che, sebbene fosse nelle vicinanze, non voleva essere visto da Liside; così, ripensandoci, mi trattenni.
+
+Nel frattempo Menesseno tornò e si sedette al suo posto accanto a Liside; e Liside, con maniera fanciullesca e affettuosa, mi sussurrò all'orecchio, in modo che Menesseno non udisse: Su, Socrate, di' a Menesseno quello che mi hai detto.
+
+«Supponi di dirglielo tu stesso, Lisi», risposi; «perché sono certo che stavi prestando attenzione».
+
+Certamente, rispose.
+
+Cerca, allora, di ricordare le parole, e sii il più esatto possibile nel ripetergliele, e se hai dimenticato qualcosa, chiedimelo di nuovo la prossima volta che mi vedrai.
+
+Sarò sicuro di farlo, Socrate; ma continua a dirgli qualcosa di nuovo, e fammi sentire, finché mi è permesso rimanere.
+
+Certo non posso rifiutare, dissi, poiché me lo chiedi; ma poi, come sai, Menesseno è molto pugnace, e perciò devi venire in mio soccorso se tenta di sconvolgermi.
+
+Sì, davvero," disse lui; "è molto pugnace, ed è per questo che voglio che tu discuta con lui.
+
+Che io possa rendermi ridicolo?
+
+"No, in verità," disse; "ma voglio che tu lo metta giù."
+
+Non è impresa facile, risposi; perché è un individuo terribile — discepolo di Ctesippo. E c'è Ctesippo stesso: lo vedi?
+
+Non importa, Socrate, tu disputerai con lui.
+
+Beh, suppongo che debba, risposi.
+
+Quindi Ctesippo si lamentò che parlavamo in segreto e tenevamo la festa per noi.
+
+"Sarò felice," dissi, "di fartene partecipe. Ecco Liside, che non comprende qualcosa di ciò che dicevo, e vuole che io interroghi Menesseno, il quale, come egli crede, è probabile che lo sappia."
+
+E perché non glielo chiedi? disse.
+
+Sta bene, dissi, lo farò; e tu, Menesseno, rispondi. Ma prima debbo dirti che io sono uno che fin dalla fanciullezza ho posto il cuore su una certa cosa. Tutti gli uomini hanno le loro inclinazioni; alcuni desiderano cavalli, altri cani; alcuni amano l'oro, altri l'onore. Ora, io non ho desiderio violento di nessuna di queste cose; ma ho una passione per gli amici; e preferirei avere un buon amico piuttosto che il miglior gallo o la miglior quaglia del mondo: anzi, andrei oltre, e direi il miglior cavallo o cane. Sì, per il cane d'Egitto, dovrei grandemente preferire un vero amico a tutto l'oro di Dario, o anche a Dario stesso: tale amatore di amici io sono. E quando vedo te e Liside, nella vostra giovane età, così facilmente possessori di questo tesoro, e così presto, egli di voi, e voi di lui, io sono stupito e rallegrato, vedendo che io stesso, sebbene ormai avanzato negli anni, sono così lontano dall'aver fatto una simile acquisizione, che non so nemmeno in che modo un amico si acquisti. Ma io voglio farti una domanda su questo, poiché voi avete esperienza: dimmi dunque, quando uno ama un altro, è l'amante o l'amato l'amico; o può essere l'uno o l'altro l'amico?
+
+L'uno può, credo, essere amico dell'altro.
+
+Intendi dire, dissi, che se uno solo dei due ama l'altro, essi sono amici reciproci?
+
+Sì, diss'egli; questo è il mio intendimento.
+
+Ma che accade se l'amante non è riamato? il che è un caso molto possibile.
+
+I'd be happy to translate your passage. However, you haven't provided the English text yet. Please share the passage you'd like translated into Italian, and I'll follow your instructions carefully.
+
+O è forse addirittura odiato? che è una fantasia che a volte è nutrita dagli amanti nei confronti della loro amata. Niente può superare il loro amore; eppure immaginano o di non essere riamati, o di essere odiati. Non è forse vero?
+
+Sì, disse, proprio vero.
+
+In tal caso, l'uno ama, e l'altro è amato?
+
+I'd be happy to translate your passage. However, you haven't provided the English text yet. Please share the passage you'd like translated into Italian, and I'll follow your instructions carefully.
+
+Allora chi è amico di chi? È l'amante amico dell'amato, sia che ne sia riamato, sia che ne sia odiato; o è l'amato l'amico; o non v'è alcuna [amicizia](/concepts/friendship) da nessuna parte, a meno che entrambi non si amino l'un l'altro?
+
+Non sembrerebbe essercene affatto.
+
+Dunque questa nozione non è conforme alla nostra precedente. Noi dicevamo che entrambi erano amici, se uno solo amava; ma ora, a meno che entrambi amino, nessuno dei due è amico.
+
+Ciò sembra essere vero.
+
+Dunque nulla che non ami a sua volta è amato da un amante?
+
+Non credo.
+
+Allora non sono amanti dei cavalli coloro che non sono riamati dai cavalli; né amanti delle quaglie, né dei cani, né del vino, né degli esercizi ginnici, che non hanno contraccambio d'amore; no, né della sapienza, a meno che la sapienza non li ami in cambio. O diremo che essi li amano, sebbene non siano riamati da loro; e che il poeta errò quando canta —
+
+'Felice l'uomo a cui sono cari i figli, e i corsieri dallo zoccolo indiviso, e i cani da caccia, e lo straniero d'altra terra'?
+
+Non credo che avesse torto.
+
+Pensi che abbia ragione?
+
+I'd be happy to translate your passage. However, you haven't provided the English text yet. Please share the passage you'd like translated into Italian, and I'll follow your instructions carefully.
 
 <span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -495,6 +837,140 @@ We must.
 They will then proceed to ask whether the enemy is the friend of the friend, or the friend the friend of the enemy?
 
 Neither, he replied.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Allora, Menesseno, la conclusione è che ciò che è amato, sia che ami sia che odi, può essere caro a chi lo ama: per esempio, i fanciulli molto piccoli, troppo piccoli per amare, o anche odiando il padre o la madre quando sono puniti da loro, non sono mai più cari a loro di quanto non lo siano nel momento in cui sono odiati da loro.
+
+Credo che ciò che dici sia vero.
+
+E, se così è, non l'amante, ma l'amato, è l'amico o il caro?
+
+I'd be happy to translate your passage. However, you haven't provided the English text yet. Please share the passage you'd like translated into Italian, and I'll follow your instructions carefully.
+
+E l'odiato, e non colui che odia, è il nemico?
+
+Chiaramente.
+
+Allora molti uomini sono amati dai loro nemici, e odiati dai loro amici, e sono amici dei loro nemici, e nemici dei loro amici. Eppure quanto assurdo, mio caro amico, o anzi impossibile, è questo paradosso di un uomo che sia nemico del suo amico o amico del suo nemico.
+
+Concordo pienamente, [Socrate](/figures/socrates), in ciò che dici.
+
+Ma se questo non può essere, l'amante sarà amico di ciò che è amato?
+
+Vero.
+
+E colui che odia sarà il nemico di ciò che è odiato?
+
+I'm ready to translate the passage, but the source text hasn't been provided yet. Please share the English philosophical prose you'd like me to translate into Italian.
+
+Tuttavia dobbiamo riconoscere in questo, come nel caso precedente, che un uomo può essere amico di chi non è suo amico, o che può essere suo nemico, quando ama ciò che non lo ama o che addirittura lo odia. E può essere nemico di chi non è suo nemico, ed è anzi suo amico: per esempio, quando odia ciò che non lo odia, o che addirittura lo ama.
+
+Ciò sembra essere vero.
+
+Ma se l'amante non è amico, né l'amato è amico, né entrambi insieme, che cosa dovremo dire? Chi dovremo chiamare amici l'uno dell'altro? Ne rimane forse qualcuno?
+
+In verità, Socrate, non ne trovo alcuna.
+
+Ma, o Menèsseno! dissi, non potremmo essere stati del tutto in errore nelle nostre conclusioni?
+
+Sono sicuro che abbiamo sbagliato, Socrate, disse Liside. E arrossì mentre parlava, le parole sembravano uscirgli dalle labbra involontariamente, perché tutta la sua mente era assorbita dall'argomento; non c'era da ingannarsi sul suo sguardo attento mentre ascoltava.
+
+Mi fece piacere l'interesse mostrato da Liside, e volendo dare un po' di riposo a Menesseno, mi volsi a lui e dissi: Credo, o Liside, che ciò che tu dici sia vero, e che, se fossimo stati nel giusto, non ci saremmo mai allontanati tanto dalla verità; non procediamo oltre in questa direzione (poiché la via sembra farsi difficile), ma prendiamo quell'altro sentiero nel quale ci eravamo voltati, e vediamo che cosa abbiano da dire i poeti; poiché essi sono per noi in certo modo padri e autori di sapienza, e parlano degli amici non in modo leggero o frivolo, ma è Dio stesso, come dicono, che li crea e li attira l'uno verso l'altro; e questo essi esprimono, se non m'inganno, nelle seguenti parole: —
+
+‘Dio attira continuamente ciò che è simile verso ciò che è simile, e li rende familiari.’
+
+Oserei dire che avete udito quelle parole.
+
+Sì, disse; l'ho.
+
+E non ti sei anche imbattuto nei trattati dei filosofi che dicono che il simile deve amare il simile? sono essi le persone che disputano e scrivono sulla natura e sull'universo.
+
+"Verissimo", rispose.
+
+Per quanto riguarda il testo dell'autore, la frase è: "E hanno ragione nel dire questo?"
+
+Potrebbero esserlo.
+
+Forse, dissi, hanno ragione per metà, o forse del tutto, se il loro significato fosse rettamente compreso da noi. Poiché quanto più un uomo cattivo ha a che fare con un uomo cattivo, e quanto più strettamente viene portato a contatto con lui, tanto più sarà probabile che lo odii, perché gli arreca danno; e chi arreca danno e chi lo riceve non possono essere amici. Non è forse vero?
+
+Sì, disse.
+
+Allora una metà del detto è falsa, se i malvagi sono simili tra loro?
+
+È vero.
+
+Ma il vero significato del detto, come io immagino, è che i buoni sono simili gli uni agli altri, e amici gli uni degli altri; e che i cattivi, come spesso si dice di loro, non sono mai in unità gli uni con gli altri né con sé stessi; poiché sono passionali e irrequieti, e qualsiasi cosa che è in discordia e inimicizia con sé stessa non è probabile che sia in unione o armonia con qualunque altra cosa. Non sei d'accordo?
+
+Sì, lo credo.
+
+Allora, amico mio, quelli che dicono che il simile è amico del simile intendono significare, se rettamente li comprendo, che solo il buono è amico del buono, e di lui soltanto; ma che il malvagio non giunge mai a vera [amicizia](/concepts/friendship), né col buono né col malvagio. Sei d'accordo?
+
+Fece un cenno di assenso.
+
+Allora ora sappiamo come rispondere alla domanda ‘Chi sono gli amici?’ poiché l’argomento dichiara ‘Che i buoni sono amici.’
+
+Sì, disse, è vero.
+
+Sì, risposi; e tuttavia non sono del tutto soddisfatto di questa risposta. Per il cielo, e ti dirò ciò che sospetto? Lo dirò. Supponendo che il simile, in quanto è simile, sia amico del simile e gli sia utile — o piuttosto lasciami tentare un'altra via di porre la questione: Può il simile fare al simile bene o male che non potrebbe fare a sé stesso, o patire dal suo simile ciò che non patirebbe da sé stesso? E se nessuno dei due può essere di alcuna utilità all'altro, come possono essere amati l'uno dall'altro? Possono, ora?
+
+They cannot.
+
+E colui che non è amato può essere un amico?
+
+Certo che no.
+
+Ma supponi che il simile non sia amico del simile in quanto è simile; tuttavia il buono può essere amico del buono in quanto è buono?
+
+Vero.
+
+Ma poi, non sarà forse il buono, in quanto è buono, sufficiente a sé stesso? Certamente lo sarà. E chi è sufficiente non desidera nulla — questo è implicito nella parola sufficiente.
+
+Certo che no.
+
+E colui che non vuole nulla, non desidererà nulla?
+
+Egli non lo farà.
+
+Né può egli amare ciò che non desidera?
+
+Non può.
+
+E colui che non ama non è un amante o un amico?
+
+Chiaramente no.
+
+Che posto c'è allora per l'amicizia, se, quando sono assenti, gli uomini buoni non hanno bisogno gli uni degli altri (poiché anche soli bastano a sé stessi), e quando sono presenti non traggono utilità gli uni dagli altri? Come potranno mai tali persone essere indotte a stimarsi a vicenda?
+
+They cannot.
+
+And friends they cannot be, unless they value one another?
+
+Molto vero.
+
+Ma vedi ora, Lisis, se non siamo ingannati in tutto questo — non siamo forse del tutto in errore?
+
+Come mai? rispose egli.
+
+Non ho forse udito qualcuno dire, come ora mi sovviene, che il simile è il più grande nemico del simile, il buono del buono? — Sì, e citò l'autorità di Esiodo, il quale dice:
+
+‘Il vasaio è in lite col vasaio, il bardo col bardo, Il mendicante col mendicante;’
+
+E di tutte le altre cose affermava similmente, «che per necessità le cose più simili sono piene di invidia, di contesa e di odio reciproco, e le più dissimili di amicizia. Poiché il povero è costretto a essere amico del ricco, e il debole ha bisogno dell'aiuto del forte, e il malato del medico; e ogni ignorante deve amare e corteggiare chi sa.» E invero proseguiva dicendo con linguaggio ampolloso che l'idea dell'amicizia tra simili non è vera, ma è proprio il contrario della verità, e che i più opposti sono i più amici; poiché ogni cosa desidera non il simile ma ciò che è più dissimile: per esempio, l'arido desidera l'umido, il freddo il caldo, l'amaro il dolce, l'acuto l'ottuso, il vuoto il pieno, il pieno il vuoto, e così di tutte le altre cose; poiché l'opposto è il nutrimento dell'opposto, mentre il simile nulla riceve dal simile. E io pensai che colui che diceva questo fosse un uomo affascinante, e che parlasse bene. Che dite voi altri?
+
+Dovrei dire, a prima udizione, che ha ragione, disse Menesseno.
+
+Allora dobbiamo dire che la più grande amicizia è quella degli opposti?
+
+Esattamente.
+
+Sì, Menèsseno; ma non sarà forse una risposta mostruosa? e non piomberanno su di noi trionfanti i sapientissimi eristici, e domanderanno, abbastanza giustamente, se l'amore non sia proprio l'opposto dell'odio; e che risposta daremo loro — non dobbiamo forse ammettere che dicono il vero?
+
+Dobbiamo.
+
+Procederanno poi a chiedersi se il nemico sia amico dell'amico, o l'amico amico del nemico?
+
+Né l'uno né l'altro, rispose.
 
 <span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -664,6 +1140,174 @@ Then the friend is a friend for the sake of the friend, and because of the enemy
 
 That is to be inferred.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ebbene, ma è l'uomo giusto amico dell'ingiusto, o il temperante dell'intemperante, o il buono del cattivo?
+
+Non vedo come ciò sia possibile.
+
+Eppure, dissi, se l'[amicizia](/concepts/friendship) procede per contrari, i contrari devono essere amici.
+
+Devono.
+
+Allora né il simile col simile né il dissimile col dissimile sono amici.
+
+Suppongo di no.
+
+E tuttavia vi è un'ulteriore considerazione: non potrebbero tutte queste nozioni di amicizia essere erronee? ma non potrebbe ciò che non è né bene né male essere ancora, in alcuni casi, amico del bene?
+
+Come sarebbe? disse.
+
+Ebbene, davvero, dissi, la verità è che non so; ma la mia testa è stordita dal pensare all'argomento, e perciò azzardo la congettura che 'il bello è l'amico', come dice il vecchio proverbio. [Bellezza](/concepts/beauty) è certamente una cosa molle, liscia, sdrucciolevole, e quindi di natura tale che facilmente s'insinua nelle nostre anime e le pervade. Poiché io affermo che il bene è il bello. Sarai d'accordo?
+
+I'd be happy to translate your passage. However, you haven't provided the English text yet. Please share the passage you'd like translated into Italian, and I'll follow your instructions carefully.
+
+Questo lo dico per una sorta di nozione che ciò che non è né buono né cattivo è amico del bello e del buono, e ti dirò perché sono incline a pensarlo: suppongo che vi siano tre principi — il buono, il cattivo, e ciò che non è né buono né cattivo. Non saresti d'accordo — non è vero?
+
+Sono d'accordo.
+
+E neppure il buono è amico del buono, né il cattivo del cattivo, né il buono del cattivo; — queste alternative sono escluse dall'argomento precedente; e perciò, se vi è alcuna cosa come l'amicizia o l'amore, dobbiamo inferire che ciò che non è né buono né cattivo dev'essere amico, o del buono, o di ciò che non è né buono né cattivo, poiché nulla può essere amico del cattivo.
+
+Vero.
+
+Ma neppure il simile può essere amico del simile, come dicevamo poc'anzi.
+
+Vero.
+
+E se è così, ciò che non è né buono né cattivo non può avere amico che non sia né buono né cattivo.
+
+Chiaramente no.
+
+Allora il bene soltanto è l'amico di ciò soltanto che non è né buono né cattivo.
+
+Ciò può essere assunto come certo.
+
+E non sembra questo metterci sulla retta via? Osservate solamente che il corpo, il quale è in salute, non richiede né medico né alcun altro aiuto, ma sta abbastanza bene; e l'uomo sano non ha amore per il medico, perché è in salute.
+
+Non ne ha.
+
+Ma il malato lo ama, perché è malato?
+
+I'm ready to translate the passage, but the source text hasn't been provided yet. Please share the English philosophical prose you'd like me to translate into Italian.
+
+E la malattia è un male, e l'arte della medicina una cosa buona e utile?
+
+I'd be happy to translate your passage. However, you haven't provided the English text yet. Please share the passage you'd like translated into Italian, and I'll follow your instructions carefully.
+
+Ma il corpo umano, considerato come corpo, non è né buono né cattivo?
+
+Vero.
+
+E il corpo è costretto, per cagione della malattia, a corteggiare e a farsi amica l’arte della medicina?
+
+I'd be happy to translate your passage. However, you haven't provided the English text yet. Please share the passage you'd like translated into Italian, and I'll follow your instructions carefully.
+
+Allora ciò che non è né buono né cattivo diventa amico del bene, a causa della presenza del male?
+
+Così possiamo inferire.
+
+E chiaramente questo deve essere accaduto prima che ciò che non era né buono né cattivo fosse del tutto corrotto dall'elemento del male — se fosse divenuto esso stesso malvagio, non desidererebbe e non amerebbe ancora il bene; poiché, come dicevamo, il male non può essere amico del bene.
+
+Impossibile.
+
+Inoltre, devo osservare che alcune sostanze vengono assimilate quando altre sono presenti con esse; e ve ne sono alcune che non vengono assimilate: si prenda, per esempio, il caso di un unguento o di un colore che viene posto su un'altra sostanza.
+
+Molto bene.
+
+In tal caso, la sostanza che è unta è la stessa del colore o dell'unguento?
+
+Cosa vuoi dire? disse.
+
+Questo è ciò che intendo: supponi che io coprissi le tue chiome ramate con biacca, sarebbero esse veramente bianche, o soltanto apparirebbero bianche?
+
+"Sembrerebbero soltanto bianchi", rispose lui.
+
+Eppure la bianchezza sarebbe presente in essi?
+
+Vero.
+
+Ma ciò non li renderebbe affatto più bianchi, nonostante la presenza del bianco in essi — non sarebbero bianchi più di quanto non sarebbero neri?
+
+No.
+
+Ma quando la vecchiaia infonde in loro la bianchezza, allora essi diventano assimilati, e sono bianchi per la presenza del bianco.
+
+I'm ready to translate the passage, but the source text hasn't been provided yet. Please share the English philosophical prose you'd like me to translate into Italian.
+
+Ora voglio sapere se in tutti i casi una sostanza è assimilata per la presenza di un'altra sostanza; o la presenza deve essere secondo un modo particolare?
+
+Quest'ultimo, disse lui.
+
+Allora ciò che non è né buono né cattivo può trovarsi in presenza del male, ma non essere ancora malvagio, e ciò è accaduto prima d'ora?
+
+I'd be happy to translate your passage. However, you haven't provided the English text yet. Please share the passage you'd like translated into Italian, and I'll follow your instructions carefully.
+
+E quando qualcosa è in presenza del male, non essendo ancora malvagio, la presenza del bene suscita in quella cosa il desiderio del bene; ma la presenza del male, che rende malvagia una cosa, toglie il desiderio e l'amicizia del bene; poiché ciò che era una volta sia buono che malvagio ora è diventato solo malvagio, e si supponeva che il bene non avesse amicizia con il male?
+
+I notice you've asked me to translate an English passage into Italian, but the source text appears to be missing — I see only "None." at the end of your message. Could you please provide the English passage you'd like translated? Once you share it, I'll be happy to translate it into Italian following all your specified guidelines.
+
+E perciò diciamo che coloro che sono già sapienti, sia dèi sia uomini, non sono più amanti della sapienza; né possono essere amanti della sapienza coloro che sono ignoranti fino al punto di essere malvagi, poiché nessun malvagio o ignorante è amante della sapienza. Restano coloro che hanno la sventura di essere ignoranti, ma non sono ancora induriti nella loro ignoranza, né privi d'intelletto, e non si immaginano ancora di sapere ciò che non sanno: e perciò coloro che sono amanti della sapienza non sono ancora né buoni né cattivi. Ma i cattivi non amano la sapienza più dei buoni; poiché, come abbiamo già veduto, né il dissimile è amico del dissimile, né il simile del simile. Te ne ricordi?
+
+Sì, dissero entrambi.
+
+E così, Lisi e Menesseno, abbiamo scoperto la natura dell'amicizia — non ve n'è dubbio alcuno: l'amicizia è l'amore che, per la presenza del male, il né buono né cattivo ha per il bene, o nell'anima, o nel corpo, o ovunque.
+
+Entrambi concordarono e assentirono pienamente, e per un momento gioii e fui soddisfatto come un cacciatore che tiene salda la sua preda. Ma poi un sospetto assai inspiegabile mi attraversò, e sentii che la conclusione non era vera. Ne fui afflitto, e dissi: Ahimè! Lisi e Menesseno, temo che abbiamo afferrato solo un'ombra.
+
+Perché dici così? disse Menesseno.
+
+Temo, dissi, che l'argomento sull'amicizia sia falso: gli argomenti, come gli uomini, sono spesso impostori.
+
+Come intendi? chiese.
+
+Ebbene, dissi; guarda la questione in questo modo: un amico è amico di qualcuno; non è vero?
+
+Certamente egli è.
+
+E ha egli un motivo e uno scopo nell'essere amico, o non ha egli alcun motivo e alcuno scopo?
+
+Ha un motivo e uno scopo.
+
+E l'oggetto che lo rende amico, è a lui caro, o né caro né odioso a lui?
+
+Non ti seguo bene, disse.
+
+Non mi meraviglio di ciò," dissi. "Ma forse, se io espongo la cosa in altra guisa, potrai seguirmi, e il mio stesso intendimento mi sarà più chiaro. Il malato, come dicevo dianzi, è amico del medico — non è così?
+
+I'd be happy to translate your passage. However, you haven't provided the English text yet. Please share the passage you'd like translated into Italian, and I'll follow your instructions carefully.
+
+Ed egli è amico del medico a cagione della malattia, e per amor della salute?
+
+I'd be happy to translate your passage. However, you haven't provided the English text yet. Please share the passage you'd like translated into Italian, and I'll follow your instructions carefully.
+
+E la malattia è un male?
+
+I'm ready to translate the passage, but the source text hasn't been provided yet. Please share the English philosophical prose you'd like me to translate into Italian.
+
+E che dire della salute? dissi. È un bene o un male, o né l'uno né l'altro?
+
+Bene, rispose.
+
+E dicevamo, credo, che il corpo, non essendo né buono né cattivo, a causa della malattia, cioè a causa del male, è amico della medicina, e la medicina è un bene: e la medicina è entrata in questa amicizia per amore della salute, e la salute è un bene.
+
+Vero.
+
+E la salute è un'amica, o non è un'amica?
+
+Un amico.
+
+E la malattia è un nemico?
+
+I'd be happy to translate your passage. However, you haven't provided the English text yet. Please share the passage you'd like translated into Italian, and I'll follow your instructions carefully.
+
+Dunque ciò che non è né buono né cattivo è amico del bene a causa del male e dell'odioso, e per amore del bene e dell'amico?
+
+Chiaramente.
+
+Dunque l'amico è amico per amore dell'amico, e a causa del nemico?
+
+Ciò è da inferire.
+
 <span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Then at this point, my boys, let us take heed, and be on our guard against deceptions. I will not again repeat that the friend is the friend of the friend, and the like of the like, which has been declared by us to be an impossibility; but, in order that this new statement may not delude us, let us attentively examine another point, which I will proceed to explain: Medicine, as we were saying, is a friend, or dear to us for the sake of health?
@@ -798,6 +1442,140 @@ Here, intending to revise the argument, I said: Can we point out any difference 
 
 Very true.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Allora a questo punto, figliuoli miei, badiamo e guardiamoci dagli inganni. Non ripeterò di nuovo che l'amico è amico dell'amico, e il simile del simile, il che è stato da noi dichiarato impossibile; ma, affinché questa nuova affermazione non ci inganni, esaminiamo attentamente un altro punto, che ora mi accingo a spiegare: La medicina, come dicevamo, è amica, o cara a noi, in vista della salute?
+
+I'd be happy to translate your passage. However, you haven't provided the English text yet. Please share the passage you'd like translated into Italian, and I'll follow your instructions carefully.
+
+E anche la salute è cara?
+
+I'm ready to translate the passage, but the source text hasn't been provided yet. Please share the English philosophical prose you'd like me to translate into Italian.
+
+E se caro, allora caro per amore di qualcosa?
+
+I'd be happy to translate your passage. However, you haven't provided the English text yet. Please share the passage you'd like translated into Italian, and I'll follow your instructions carefully.
+
+E certamente questo oggetto deve essere anche caro, come è implicito nelle nostre precedenti ammissioni?
+
+I'd be happy to translate your passage. However, you haven't provided the English text yet. Please share the passage you'd like translated into Italian, and I'll follow your instructions carefully.
+
+E quel qualcosa di caro implica qualcos'altro di caro?
+
+I'd be happy to translate your passage. However, you haven't provided the English text yet. Please share the passage you'd like translated into Italian, and I'll follow your instructions carefully.
+
+Ma allora, procedendo in questo modo, non giungeremo a un qualche primo principio di [amicizia](/concepts/friendship) o dilezione che non sia capace di essere riferito ad alcun altro, per amore del quale, come noi sosteniamo, tutte le altre cose sono care, e, essendo là giunti, ci fermeremo?
+
+Vero.
+
+Il mio timore è che tutte quelle altre cose, che, come si dice, sono care in vista di un'altra, siano soltanto illusioni e inganni, ma che là dove è quel primo principio, ivi sia il vero ideale dell'amicizia. Espongo così la questione: Supponiamo il caso di un grande tesoro (e questo può essere un figlio, che è più prezioso per suo padre di tutti gli altri suoi tesori); non stimerebbe forse il padre, che valuta il figlio sopra ogni cosa, anche le altre cose in vista del figlio? Voglio dire, per esempio, se sapesse che suo figlio ha bevuto la cicuta, e il padre ritenesse che il vino lo potesse salvare, non stimerebbe forse il vino?
+
+Lo farebbe.
+
+E inoltre il vaso che contiene il vino?
+
+I'm ready to translate the passage, but the source text hasn't been provided yet. Please share the English philosophical prose you'd like me to translate into Italian.
+
+Ma stima egli perciò le tre misure di vino, o il vaso di creta che le contiene, al pari di suo figlio? Non è questo piuttosto il vero stato delle cose? Ogni sua sollecitudine ha riguardo non ai mezzi che sono forniti in vista di un fine, ma al fine in vista del quale sono forniti. E sebbene spesso possiamo dire che l'oro e l'argento sono da noi grandemente stimati, ciò non è il vero; poiché vi è un fine ulteriore, qualunque esso sia, che noi stimiamo sopra ogni cosa, e in vista del quale l'oro e tutti i nostri altri beni sono da noi acquistati. Non ho io ragione?
+
+Sì, certamente.
+
+E non si può dire lo stesso dell'amico? Ciò che ci è caro solo per amore di qualcos'altro è impropriamente detto caro, ma il veramente caro è ciò in cui tutte queste cosiddette care amicizie terminano.
+
+Quello, disse, sembra essere vero.
+
+E il veramente caro, o principio ultimo, dell'amicizia non è in vista di alcun'altra o ulteriore cosa cara.
+
+Vero.
+
+Dunque abbiamo finito con la nozione che l'amicizia abbia un ulteriore oggetto. Possiamo allora inferire che il bene è l'amico?
+
+Penso di sì.
+
+E il bene è amato per causa del male? Poniamo il caso in questo modo: supponiamo che dei tre principi, bene, male, e ciò che non è né bene né male, rimanessero soltanto il bene e il neutro, e che il male se ne andasse lontano, e in nessun modo toccasse l'anima o il corpo, né mai per nulla quella classe di cose che, come diciamo, non sono in sé né buone né cattive; — il bene sarebbe forse di qualche utilità, o non piuttosto inutile per noi? Giacché se non ci fosse più nulla che ci facesse male, non avremmo più bisogno di alcunché che ci facesse bene. Allora si vedrebbe chiaramente che noi non facevamo che amare e desiderare il bene a causa del male, e come rimedio del male, il quale era la malattia; ma se non vi fosse stata malattia, non vi sarebbe stato bisogno di rimedio. Non è forse questa la natura del bene — di essere amato da noi, che siamo posti tra i due, a causa del male? ma il bene non serve per sé stesso.
+
+Suppongo di no.
+
+Il principio finale dell'amicizia, nel quale tutte le altre amicizie terminavano, quelle, voglio dire, che sono relativamente care e per amore di qualcos'altro, è di natura differente e diversa da esse. Poiché quelle sono chiamate care a causa di un altro caro o amico. Ma col vero amico o caro, il caso è del tutto contrario; poiché quello si dimostra caro a causa dell'odiato, e se l'odiato fosse lontano, non sarebbe più caro.
+
+Verissimo, rispose: almeno non se la nostra attuale opinione regge.
+
+Ma, oh! mi direte, dissi, se il male perisse, avremmo noi più fame, o più sete, o alcun simile desiderio? O possiamo supporre che la fame rimarrà finché gli uomini e gli animali rimangano, ma non così da esser dannosa? E lo stesso della sete e degli altri desideri, — che rimarranno, ma non saranno male perché il male è perito? O piuttosto dirò che chiedere che cosa allora sarà o non sarà è ridicolo, poiché chi lo sa? Questo sappiamo, che nella nostra condizione presente la fame può nuocerci, e può anche giovarci: — non è vero?
+
+I'd be happy to translate your passage. However, you haven't provided the English text yet. Please share the passage you'd like translated into Italian, and I'll follow your instructions carefully.
+
+E similmente la sete o qualsiasi simile desiderio può talvolta essere per noi un bene e talvolta un male, e talvolta né l'uno né l'altro?
+
+Certo.
+
+Ma c'è alcuna ragione per cui, poiché il male perisce, ciò che non è male dovrebbe perire con esso?
+
+I notice you've asked me to translate an English passage into Italian, but the source text appears to be missing — I see only "None." at the end of your message. Could you please provide the English passage you'd like translated? Once you share it, I'll be happy to translate it into Italian following all your specified guidelines.
+
+Allora, anche se il male perisce, i desideri che non sono né buoni né cattivi rimarranno?
+
+Chiaramente lo faranno.
+
+E non deve forse un uomo amare ciò che desidera e predilige?
+
+Deve.
+
+Allora, anche se il male perisce, potrebbero ancora rimanere alcuni elementi di amore o di amicizia?
+
+I'd be happy to translate your passage. However, you haven't provided the English text yet. Please share the passage you'd like translated into Italian, and I'll follow your instructions carefully.
+
+Ma non se il male è la causa dell’amicizia: poiché in tal caso nulla sarà amico di alcun’altra cosa dopo la distruzione del male; poiché l’effetto non può rimanere quando la causa è distrutta.
+
+Vero.
+
+E non abbiamo già ammesso che l'amico ama qualcosa per una ragione? e nel fare l'ammissione eravamo del parere che il né buono né cattivo ama il buono a causa del male?
+
+Molto vero.
+
+Ma ora la nostra visione è cambiata, e concepiamo che debba esserci qualche altra causa dell'amicizia?
+
+Suppongo di sì.
+
+Non potrebbe la verità essere piuttosto, come dicevamo poc'anzi, che il desiderio sia la causa dell'amicizia; poiché ciò che desidera è caro a ciò che è desiderato nel momento in cui lo desidera? e non potrebbe l'altra teoria essere stata soltanto una lunga storia intorno a nulla?
+
+Abbastanza probabile.
+
+Ma certamente, dissi, colui che desidera, desidera ciò di cui è privo?
+
+I'd be happy to translate your passage. However, you haven't provided the English text yet. Please share the passage you'd like translated into Italian, and I'll follow your instructions carefully.
+
+E ciò di cui egli manca gli è caro?
+
+Vero.
+
+Ed egli è bisognoso di ciò di cui è privato?
+
+I'm ready to translate the passage, but the source text hasn't been provided yet. Please share the English philosophical prose you'd like me to translate into Italian.
+
+Dunque l’amore, il desiderio e l’amicizia apparirebbero essere del naturale o dell’affine. Tale è, o Liside e Menesseno, l’inferenza.
+
+Acconsentirono.
+
+Dunque, se siete amici, dovete avere nature affini l'una all'altra?
+
+Certamente, dissero entrambi.
+
+E io dico, ragazzi miei, che nessuno che ami o desideri un altro avrebbe mai amato, desiderato o avuto caro costui, se non gli fosse stato in qualche modo congeniale, o nell'anima, o nel carattere, o nei costumi, o nella forma.
+
+Sì, sì, disse Menesseno. Ma Liside taceva.
+
+Allora, dissi, la conclusione è che ciò che è di natura congeniale deve essere amato.
+
+"Ne consegue," disse.
+
+Allora l'amante, che è vero e non contraffatto, deve di necessità essere amato dal suo amore.
+
+Liside e Menesseno diedero un debole assenso a questo; e Ippotale si fece di tutti i colori per la gioia.
+
+Qui, intendendo rivedere l'argomento, dissi: Possiamo indicare qualche differenza tra il congeniale e il simile? Poiché se ciò è possibile, allora penso, Lisi e Menesseno, ci possa essere qualche senso nel nostro ragionamento sull'amicizia. Ma se il congeniale è soltanto il simile, come eliminerete l'altro argomento, quello dell'inutilità del simile rispetto al simile in quanto sono simili; poiché dire che ciò che è inutile è caro, sarebbe assurdo? Supponiamo, allora, che concordiamo di distinguere tra il congeniale e il simile — nell'ebbrezza del ragionamento, ciò forse può essere concesso.
+
+Molto vero.
+
 <span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 And shall we further say that the good is congenial, and the evil uncongenial to every one? Or again that the evil is congenial to the evil, and the good to the good; and that which is neither good nor evil to that which is neither good nor evil?
@@ -821,3 +1599,27 @@ Then what is to be done? Or rather is there anything to be done? I can only, lik
 Here I was going to invite the opinion of some older person, when suddenly we were interrupted by the tutors of Lysis and Menexenus, who came upon us like an evil apparition with their brothers, and bade them go home, as it was getting late. At first, we and the by-standers drove them off; but afterwards, as they would not mind, and only went on shouting in their barbarous dialect, and got angry, and kept calling the boys — they appeared to us to have been drinking rather too much at the Hermaea, which made them difficult to manage — we fairly gave way and broke up the company.
 
 I said, however, a few words to the boys at parting: O Menexenus and Lysis, how ridiculous that you two boys, and I, an old boy, who would fain be one of you, should imagine ourselves to be friends — this is what the by-standers will go away and say — and as yet we have not been able to discover what is a friend!
+
+<span class="qlang-split" data-lang="it"></span>
+
+E diremo inoltre che il bene è congeniale, e il male non congeniale, a ciascuno? O ancora che il male è congeniale al male, e il bene al bene; e ciò che non è né buono né cattivo a ciò che non è né buono né cattivo?
+
+Acconsentirono a quest'ultima alternativa.
+
+Allora, ragazzi miei, siamo di nuovo caduti nel vecchio errore ormai ripudiato; poiché l'ingiusto sarà amico dell'ingiusto, e il cattivo del cattivo, così come il buono del buono.
+
+Sembra che questo sia il risultato.
+
+Ma di nuovo, se diciamo che l'affine è lo stesso che il bene, in tal caso il buono, e lui solo, sarà amico del buono.
+
+Vero.
+
+Ma anche quella era una posizione nostra la quale, come voi ricorderete, è già stata confutata da noi stessi.
+
+Ricordiamo.
+
+Che si deve fare, allora? O piuttosto c'è qualcosa da fare? Io posso soltanto, come i sapienti che disputano nei tribunali, riassumere le argomentazioni: — Se né l'amato, né l'amante, né il simile, né il dissimile, né il buono, né l'affine, né alcun altro di quelli di cui abbiamo parlato — poiché erano così tanti che non posso ricordarli tutti — se nessuno di questi è amico, non so che altro resti da dire.
+
+Qui stavo per sollecitare il parere di qualche persona più anziana, quando all'improvviso fummo interrotti dai pedagoghi di Liside e di Menesseno, i quali, insieme coi loro fratelli, ci piombarono addosso come una malefica apparizione, e imposero loro di andare a casa, poiché si faceva tardi. Dapprima noi e gli astanti li respingemmo; ma poi, poiché non davano ascolto e continuavano soltanto a gridare nel loro barbaro dialetto, e s'adiravano, e non facevano che chiamare i fanciulli — ci parve che avessero bevuto alquanto troppo alle Ermee, il che li rendeva di difficile governo — cedemmo del tutto e sciogliemmo la compagnia.
+
+Dissi tuttavia poche parole ai fanciulli nel congedarmi: O Menesseno e Liside, quanto è ridicolo che voi due fanciulli, ed io, un vecchio fanciullo, che volentieri sarei uno di voi, c’immaginiamo di essere amici — questo è ciò che gli astanti se ne andranno dicendo — e finora non siamo riusciti a scoprire che cosa sia un amico!

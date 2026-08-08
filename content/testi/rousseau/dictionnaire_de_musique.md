@@ -40,7 +40,7 @@ Si les manoeuvres et les croque-notes relèvent souvent ici des erreurs, j'espè
 
 Après avoir exposé les raisons de la médiocrité de l'ouvrage et celles de l'utilité que j'estime qu'on en peut tirer, j'aurais maintenant à entrer dans le détail de l'ouvrage même, à donner un précis du plan que je me suis tracé et de la manière dont j'ai tâché de le suivre. Mais à mesure que les idées qui s'y rapportent se sont effacées de mon esprit, le plan sur lequel je les arrangeais s'est de même effacé de ma mémoire. Mon premier projet était d'en traiter si relativement les articles, d'en lier si bien les suites par des renvois, que le tout, avec la commodité d'un dictionnaire, eût l'avantage d'un traité suivi : mais pour exécuter ce projet, il eût fallu me rendre sans cesse présentes toutes les parties de l'art, et n'en traiter aucune sans me rappeler les autres ; ce que le défaut de ressources et mon goût attiédi m'ont bientôt rendu impossible, et que j'eusse eu même bien de la peine à faire, au milieu de mes premiers guides, et plein de ma première ferveur. Livré à moi seul, n'ayant plus ni savants ni livres à consulter ; forcé, par conséquent, de traiter chaque article en lui-même, et, sans égard à ceux qui s'y rapportaient, pour éviter des lacunes, j'ai dû faire bien des redites. Mais j'ai cru que dans un livre de l'espèce de celui-ci, c'était encore un moindre mal de commettre des fautes, que de faire des omissions.
 
-<span class="atom-split" data-atom="002" data-title="(apertura) (2/24)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="002" data-title="(apertura) (parte 2)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Je me suis donc attaché surtout à bien complète le vocabulaire, et non seulement à n'omettre aucun terme technique, mais à passer plutôt quelquefois les limites de l'art que de n'y pas toujours atteindre, et cela m'a mis dans la nécessité de parsemer souvent ce dictionnaire de mots italiens et de mots grecs : les uns, tellement consacrés par l'usage, qu'il faut les entendre même dans la pratique ; les autres, adoptés de même par les savants, et auxquels, vu la désuétude de ce qu'ils expriment, on n'a pas donné de synonymes en français. J'ai tâché, cependant, de me renfermer dans ma règle, et d'éviter l'excès de Brossard, qui, donnant un dictionnaire français, en fait le vocabulaire tout italien, et l'enfle de mots absolument étrangers à l'art qu'il traite. Car, qui s'imaginera jamais que la vierge, les apôtres, la messe, les morts, soient des termes de musique, parce qu'il y a des musiques relatives à ce qu'ils expriment ; que ces autres mots, page, feuillet, quatre, cinq, gosier, raison, déjà, soient aussi des termes techniques, parce qu'on s'en sert quelquefois en parlant de l'art ?
 
@@ -80,7 +80,7 @@ On appelle ainsi, selon l'acception la plus générale, toute modification de la
 
 On distingue trois de ces genres dans le simple discours : savoir, l'accent grammatical, qui renferme la règle des accents proprement dits, par lesquels le son des syllabes est grave ou aigu, et celle de la quantité par laquelle chaque syllabe est brève ou longue ; l'accent logique ou rationnel, que plusieurs confondent mal à propos avec le précédent : cette seconde sorte d'accent, indiquant le rapport, la connexion plus ou moins grande que les propositions et les idées ont entre elles, se marque en partie par la ponctuation ; enfin l'accent pathétique ou oratoire, qui, par diverses inflexions de voix, par un ton plus ou moins élevé par un parler plus vif ou plus lent, exprime les sentiments dont celui qui parle est agité et les communique à ceux qui l'écoutent. L'étude de ces divers accents et de leurs effets dans la langue doit être la grande affaire du musicien ; et Denys d'Halycarnasse regarde avec raison l'accent en général comme la semence de toute musique. Aussi devons-nous admettre pour une maxime incontestable que le plus ou moins d'accent est la vraie cause qui rend les langues plus ou moins musicales : car quel serait le rapport de la musique au discours si les tons de la voix chantante n'imitaient les accents de la parole ? D'où il suit que moins une langue a de pareils accents, plus la mélodie y doit être monotone, languissante et fade ; à moins qu'elle ne cherche dans le bruit et la force des sons le charme qu'elle ne peut trouver dans leur variété.
 
-<span class="atom-split" data-atom="003" data-title="(apertura) (3/24)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="003" data-title="(apertura) (parte 3)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Quant à l'accent pathétique et oratoire, qui est l'objet le plus immédiat de la musique imitative du théâtre, on ne doit pas opposer à la maxime que je viens d'établir que tous les hommes étant sujets aux mêmes passions doivent en avoir également le langage : car autre chose est l'accent universel de la nature, qui arrache à tout homme des cris inarticulés, et autre chose l'accent de la langue, qui engendre la mélodie particulière à une nation. La seule différence du plus ou moins d'imagination et de sensibilité qu'on remarque d'un peuple l'autre en doit introduire une infinie dans l'idiome accentué, si j'ose parler ainsi. L'Allemand, par exemple, hausse également et fortement la voix dans la colère ; il crie toujours sur le même ton. L'Italien, que mille mouvements divers agitent rapidement et successivement dans le même cas, modifie sa voix de mille manières : le même fond de passion règne dans son âme ; mais quelle variété d'expressions dans ses accents et dans son langage ! Or, c'est à cette seule variété quand le musicien sait l'imiter, qu'il doit l'énergie et la grâce de son chant.
 
@@ -124,7 +124,7 @@ ACCOMPAGNEMENT :
 
 C'est l'exécution d'une harmonie complète et régulière sur un instrument propre à la rendre, tel que l'orgue, le clavecin, le théorbe, la guitare, etc. Nous prendrons ici le clavecin pour exemple, d'autant plus qu'il est presque le seul instrument qui soit demeuré en usage pour l'accompagnement.
 
-<span class="atom-split" data-atom="004" data-title="(apertura) (4/24)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="004" data-title="(apertura) (parte 4)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 On y a pour guide une des parties de la musique, qui est ordinairement la basse. On touche cette basse de la main gauche, et de la droite l'harmonie indiquée par la marche de la basse, par le chant des autres parties qui marchent en même temps, par la partition qu'on a devant les yeux, ou par les chiffres qu'on trouve ajoutés à la basse. Les Italiens méprisent les chiffres ; la partition même leur est peu nécessaire ; la promptitude et la finesse de leur oreille y supplée, et ils accompagnent fort bien sans tout cet appareil. Mais ce n'est qu'à leur disposition naturelle qu'ils sont redevables de cette facilité et les autres peuples, qui ne sont pas nés comme eux pour la musique, trouvent à la pratique de l'accompagnement des obstacles presque insurmontables : il faut des huit et dix années pour y réussir passablement. Quelles sont donc les causes qui retardent ainsi l'avancement des élèves et embarrassent si longtemps les maures, si la seule difficulté de l'art ne fait point cela ?
 
@@ -164,7 +164,7 @@ Voilà donc trois textures différentes des phrases harmoniques : 1. des tonique
 
 Un seul signe peut aisément indiquer le ton, la tonique, et son accord.
 
-<span class="atom-split" data-atom="005" data-title="(apertura) (5/24)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="005" data-title="(apertura) (parte 5)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 De là se tire la connaissance des dièses et des bémols qui doivent entrer dans la composition des accords d'une tonique à une autre.
 
@@ -198,7 +198,7 @@ VI. Quoique l'accompagnement de l'orgue soit le même que celui du clavecin, le 
 
 M. Rameau, dans ses Erreurs sur la musique, vient d'établir ou du moins d'avancer un nouveau principe dont il me censure fort de n'avoir pas parlé dans l'Encyclopédie ; savoir que l'accompagnement représente le corps sonore. Comme j'examine ce principe dans un autre écrit, je me dispenserai d'en parler dans cet article qui n'est déjà que trop long. Mes disputes avec M. Rameau sont les choses du monde les plus inutiles au progrès de l'art, et par conséquent au but de ce Dictionnaire.
 
-<span class="atom-split" data-atom="006" data-title="(apertura) (6/24)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="006" data-title="(apertura) (parte 6)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 ACCOMPAGNEMENT, est encore toute partie de basse ou d'un autre instrument, qui est composée sous un chant pour y faire harmonie. Ainsi un solo de violon s'accompagne du violoncelle ou du clavecin, et un accompagnement de flûte se marie fort bien avec la voix. L'harmonie de l'accompagnement ajoute à l'agrément du chant, en rendant les sons plus sûrs, leur effet plus doux, la modulation plus sensible, et portant à l'oreille un témoignage de justesse qui la flatte. Il y a même, par rapport aux voix, une forte raison de les faire toujours accompagner de quelque instrument, soit en partie, soit à l'unisson ; car quoique plusieurs prétendent qu'en chantant la voix se modifie naturellement selon les lois du tempérament, (Voyez TEMPÉRAMENT.) cependant l'expérience nous dit que les voix les plus justes et les mieux exercées ont bien de la peine à se maintenir longtemps dans la justesse du ton, quand rien ne les y soutient. À force de chanter on monte ou l'on descend insensiblement ; et il est très rare qu'on se trouve exactement en finissant dans le ton d'où l'on était parti. C'est pour empêcher ces variations que l'harmonie d'un instrument est employée ; elle maintient la voix dans le même diapason, ou l'y rappelle aussitôt, quand elle s'égare. La basse est de toutes les parties la plus propre à l'accompagnement, celle qui soutient le mieux la voix, et satisfait le plus l'oreille, parce qu'il n'y en a point dont les vibrations soient si fortes, si déterminantes, ni qui laisse moins d'équivoque dans le jugement de l'harmonie fondamentale.
 
@@ -278,7 +278,7 @@ Quoique tous les accords soient pleins et complets dans cette table, comme il le
 
 Nous parlerons, aux mots HARMONIE, BASSE-FONDAMENTALE, COMPOSITION, etc., de la manière d'employer tous ces accords pour en former une harmonie régulière. J'ajouterai seulement ici les observations suivantes.
 
-<span class="atom-split" data-atom="007" data-title="(apertura) (7/24)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="007" data-title="(apertura) (parte 7)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 I. C'est une grande erreur de penser que le choix des renversements d'un même accord soit indifférent pour l'harmonie ou pour l'expression. Il n'y a pas un de ces renversements qui n'ait son caractère propre. Tout le monde sent l'opposition qui se trouve entre la douceur de la fausse-quinte et l'aigreur du triton ; et cependant l'un de ces intervalles est renversé de l'autre. Il en est de même de la septième diminuée et de la seconde superflue, de la seconde ordinaire et de la septième. Qui ne sait combien la quinte est plus sonore que la quarte ? L'accord de grand-sixte et celui de petite-sixte mineure sont deux faces du même accord fondamental, mais de combien l'une n'est-elle pas plus harmonieuse que l'autre ? L'accord de petite-sixte majeur, au contraire, n'est-il pas plus brillant que celui de fausse-quinte ? Et, pour ne parler que du plus simple de tous les accords, considérez la majesté de l'accord parfait, la douceur de l'accord de sixte, et la fadeur de celui de sixte-quarte, tous cependant composés des mêmes sons. En général les intervalles superflus, les dièses dans le haut, sont propres par leur dureté à exprimer l'emportement, la colère et les passions aigues : au contraire, les bémols à l'aigu, et les intervalles diminués forment une harmonie plaintive, qui attendrit le [coeur](/positions/fideism). C'est une multitude d'observations semblables qui, lorsqu'un habile musicien sait s'en prévaloir, le rendent maître des affections de ceux qui l'écoutent.
 
@@ -328,7 +328,7 @@ ACTE DE CADENCE, est un mouvement dans une des parties, et surtout dans la basse
 
 ACTEUR, s. m.
 
-<span class="atom-split" data-atom="008" data-title="(apertura) (8/24)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="008" data-title="(apertura) (parte 8)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Chanteur qui fait un rôle dans la représentation d'un opéra. Outre toutes les qualités qui doivent lui être communes avec l'acteur dramatique, il doit en avoir beaucoup de particulières pour réussir dans son art. Ainsi il ne suffit pas qu'il ait un bel organe pour la parole, s'il ne l'a tout aussi beau pour le chant ; car il n'y a pas une telle liaison entre la voix parlante et la voix chantante, que la beauté de l'une suppose toujours celle de l'autre. Si l'on pardonne à un acteur le défaut de quelque qualité qu'il a pu se flatter d'acquérir, on ne peut lui pardonner d'oser se destiner au théâtre, destitué des qualités naturelles qui y sont nécessaires, telles entre autres que la voix dans un chanteur. Mais par ce mot voix, j'entends moins la force du timbre que l'étendue, la justesse et la flexibilité. Je pense qu'un théâtre dont l'objet est d'émouvoir le [coeur](/positions/fideism) par les chants doit être interdit ces voix dures et bruyantes qui ne font qu'étourdir les oreilles ; et que, quelque peu de voix que puisse avoir un acteur, s'il l'a juste, touchante, facile, et suffisamment tendue, il en a tout autant qu'il faut : il saura toujours bien se faire entendre, s'il sait se faire écouter.
 
@@ -398,7 +398,7 @@ La musique moderne à diverses espèces d'airs qui conviennent chacune à quelqu
 
 Les airs de nos opéra sont, pour ainsi dire, la toile ou le fond sur quoi se peignent les tableaux de la musique imitative ; la mélodie est le dessin ; l'harmonie est le coloris ; tous les objets pittoresques de la belle nature, tous les sentiments réfléchis du coeur humain sont les modèles que l'artiste imite ; l'attention, l'intérêt, le charme de l'oreille, et l'émotion du coeur, sont la fin de ces imitations. (Voyez IMITATION.) Un air savant et agréable, un air trouvé par le génie et composé par le goût, est le chef-d'oeuvre de la musique ; c'est là que se développe une belle voix, que brille une belle symphonie ; c'est là que la passion vient insensiblement émouvoir l'âme par le sens. Après un bel air, on est satisfait, l'oreille ne désire plus rien ; il reste dans l'imagination, on l'emporte avec soi, on le répète à volonté ; sans pouvoir en rendre une seule note, on l'exécute dans son cerveau tel qu'on l'entendit au spectacle ; on voit la scène, l'acteur, le théâtre ; on entend l'accompagnement, l'applaudissement ; le véritable amateur ne perd jamais les beaux airs qu'il entendit en sa vie ; il fait recommencer l'opéra quand il veut.
 
-<span class="atom-split" data-atom="009" data-title="(apertura) (9/24)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="009" data-title="(apertura) (parte 9)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Les paroles des airs ne vont point toujours de suite, ne se débitent point comme celles du récitatif, quoique assez courtes pour l'ordinaire ; elles se coupent, se répètent, se transposent au gré du compositeur : elles ne font pas une narration qui passe ; elles peignent ou un tableau qu'il faut voir sous divers points du vue, ou un sentiment dans lequel le [coeur](/positions/fideism) se complaît, duquel il ne peut, pour ainsi dire, se détacher, et les différentes phrases de l'air ne sont qu'autant de manières d'envisager la même image. Voilà pourquoi le sujet doit être un. C'est par ces répétitions bien entendues, c'est par ces coups redoublés qu'une expression qui d'abord n'a pu vous émouvoir, vous ébranle enfin, vous agite, vous transporte hors de vous, et c'est encore par le même principe que les roulades qui, dans les airs pathétiques, paraissent si déplacées, ne le sont pourtant pas toujours : le coeur pressé d'un sentiment très vif, l'exprime souvent par des sons inarticulés plus vivement que par des paroles. (Voyez NEUME.)
 
@@ -508,7 +508,7 @@ APYCNI, adj.plur.
 
 Les anciens appelaient ainsi dans les genres épais trois des huit sons stables de leur système ou diagramme, lesquels ne touchaient d'aucun côté les intervalles serrés : savoir, la proslambanomène, la néte synnéménon, et la néte hyperboléon.
 
-<span class="atom-split" data-atom="010" data-title="(apertura) (10/24)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="010" data-title="(apertura) (parte 10)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Ils appelaient aussi apycnos ou non épais le genre diatonique, parce que dans les tétracordes de ce genre la somme des deux premiers intervalles était plus grande que le troisième. (Voyez ÉPAIS, GENRE, SON, TÉTRACORDE.)
 
@@ -596,7 +596,7 @@ La musique d'un ballet doit avoir encore plus de cadence et d'accent que la musi
 
 Ballet est encore le nom qu'on donne en France à une bizarre sorte d'opéra, où la danse n'est guère mieux placée que dans les autres, et n'y fait pas un meilleur effet. Dans la plupart de ces ballets les actes forment autant de sujets différents liés seulement entre eux par quelques rapports généraux étrangers à l'action, et que le spectateur n'apercevrait jamais si l'auteur n'avait soin de l'en avertir dans le prologue.
 
-<span class="atom-split" data-atom="011" data-title="(apertura) (11/24)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="011" data-title="(apertura) (parte 11)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Ces ballets contiennent d'autres ballets qu'on appelle autrement divertissements ou fêtes. Ce sont des suites de danses qui se succèdent sans sujet ni liaison entre elles, ni avec l'action principale, et où les meilleurs danseurs ne savent vous dire autre chose sinon qu'ils dansent bien. Cette ordonnance, peu théâtrale, suffit pour un bal où chaque acteur a rempli son objet lorsqu'il s'est amusé lui-même, et où l'intérêt que le spectateur prend aux personnes le dispense d'en donner à la chose ; mais ce défaut de sujet et de liaison ne doit jamais être souffert sur la scène, pas même dans la représentation d'un bal, où le tout doit être lié par quelque action secrète qui soutienne l'attention et donne de l'intérêt au spectateur. Cette adresse d'auteur n'est pas sans exemple, même à l'opéra français, et l'on ne peut voir un très agréable dans les Fêtes vénitiennes, acte du bal.
 
@@ -666,7 +666,7 @@ La basse est la plus importante des parties, c'est sur elle que s'établit le co
 
 Il y a plusieurs sortes de basses. Basse-fondamentale, dont nous ferons un article ci-après.
 
-<span class="atom-split" data-atom="012" data-title="(apertura) (12/24)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="012" data-title="(apertura) (parte 12)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Basse-continue : ainsi appelée parce qu'elle dure pendant toute la pièce. Son principal usage, outre celui de régler l'harmonie, est de soutenir la voix et de conserver le ton. On prétend que c'est un Ludovico Viana, dont il en reste un Traité qui vers le commencement du dernier siècle, la mit le premier en usage.
 
@@ -702,7 +702,7 @@ Un mot d'éclaircissement sur la cinquième règle ne sera peut-être pas inutil
 
 Il suit de là que la basse-fondamentale ne peut marcher régulièrement que d'une de ces trois manières. 1. monter ou descendre de tierce ou de sixte. 2. De quarte ou de quinte. 3. Monter diatoniquement au moyen de la dissonance qui [forme](/positions/realism_of_ideas) la liaison, ou par licence sur un accord parfait. Quant à la descente diatonique, c'est une marche absolument interdite à la basse-fondamentale, ou tout au plus tolérée dans le cas de deux accords parfaits consécutifs, séparés par un repos exprimé ou sous-entendu : cette règle n'a point d'autre exception, et c'est pour n'avoir pas démêlé le vrai fondement de certains passages, que M. Rameau a fait descendre diatoniquement la basse-fondamentale sous des accords de septième ; ce qui ne se peut en bonne harmonie. (Voyez CADENCE, DISSONANCE.)
 
-<span class="atom-split" data-atom="013" data-title="(apertura) (13/24)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="013" data-title="(apertura) (parte 13)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 La basse-fondamentale qu'on n'ajoute que pour servir de preuve à l'harmonie, se retranche dans l'exécution, et souvent elle y ferait un fort mauvais effet ; car elle est, comme dit très bien M. Rameau, pour le jugement et non pour l'oreille. Elle produirait tout au moins une monotonie très ennuyeuse par les retours fréquents du même accord qu'on déguise et qu'on varie plus agréablement en le combinant en différentes manières sur la basse-continue ; sans compter que les divers reversements d'harmonie fournissent mille moyens de prêter de nouvelles beautés au chant, et une nouvelle énergie à l'expression. (Voyez ACCORD, RENVERSEMENT.)
 
@@ -754,7 +754,7 @@ BATTEMENTS au pluriel.
 
 Lorsque deux sons forts et soutenus, comme ceux de l'orgue, sont mal d'accord et dissonant entre eux à l'approche d'un intervalle consonant, ils forment, par secousses plus ou moins fréquentes, des renflements de son qui font à peu près à l'oreille l'effet des battements du pouls au toucher ; c'est pourquoi M. Sauveur leur a aussi donné le nom de battements. Ces battements deviennent d'autant plus fréquents que l'intervalle approche plus de la justesse, et lorsqu'il y parvient, ils se confondent avec les vibrations du son.
 
-<span class="atom-split" data-atom="014" data-title="(apertura) (14/24)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="014" data-title="(apertura) (parte 14)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 M. Serre prétend, dans ses Essais sur les principes de l'harmonie, que ces battements produits par la concurrence de deux sons, ne sont qu'une apparence acoustique, occasionnée par les vibrations coïncidentes de ces deux sons. Ces battements, selon lui, n'ont pas moins lieu lorsque l'intervalle est consonant ; mais la rapidité avec laquelle ils se confondent alors ne permettant point à l'oreille de les distinguer, il en doit résulter, non la cessation absolue de ces battements, mais une apparence de son grave et continu, une espèce de faible bourdon, tel précisément que celui qui résulte dans les expériences citées par M. Serre, et depuis détaillées par M. Tartini, du concours de deux sons aigus et consonants. (On peut voir au mot SYSTÈME, que des dissonances les donnent aussi.) Ce qu'il y a de bien certain, continue M. Serre, c'est que ces battements, ces vibrations coïncidentes qui se suivent avec plus ou moins de rapidité sont exactement isochrones aux vibrations que ferait réellement le son fondamental, si, par le moyen d'un troisième corps sonore, on le faisait actuellement résonner.
 
@@ -784,7 +784,7 @@ Il règne là-dessus une erreur populaire qu'un peu de réflexion détruit aisé
 
 Les anciens, dit M. Burette, battaient la mesure en plusieurs façons. La plus ordinaire consistait dans le mouvement du pied qui s'élevait de terre et la frappait alternativement selon la mesure des deux temps égaux ou inégaux. (Voyez RHYTHME.) C'était ordinairement la fonction du maître de musique appelé coryphée,, parce qu'il était placé au milieu du choeur des musiciens, et dans une situation élevée pour être plus facilement vu et entendu de toute la troupe. Ces batteurs de mesure se nommaient en grec , et , à cause du bruit de leurs pieds, , à cause de l'uniformité du geste, et, si l'on peut parler ainsi, de la monotonie du rythme, qu'ils battaient toujours à deux temps. Ils s'appelaient en latin pedarii, podarii, pedicularii. Ils garnissaient ordinairement leurs pieds de certaines chaussures ou sandales de bois ou de fer, destinées à rendre la percussion rythmique plus éclatante, nommées en grec , ; en latin, pedicula, scabella ou scabilla, à cause qu'elles ressemblaient à de petits marchepieds ou de petites escabelles.
 
-<span class="atom-split" data-atom="015" data-title="(apertura) (15/24)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="015" data-title="(apertura) (parte 15)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Ils battaient la mesure, non seulement du pied, mais aussi de la main droite, dont ils réunissaient tous les doigts pour frapper dans le creux de la main gauche, et celui qui marquait ainsi le rythme s'appelait manuductor. Outre ce claquement de mains et le bruit des sandales, les anciens avaient encore, pour battre la mesure, celui des coquilles, des écailles d'huîtres, et des ossements d'animaux qu'on frappait l'un contre l'autre, comme on fait aujourd'hui les castagnettes, le triangle, et autres pareils instruments.
 
@@ -830,7 +830,7 @@ Quelques-uns donnaient un autre sens au bécarre, et lui accordant seulement le 
 
 D'autres, enfin se servaient bien du bécarre pour effacer le bémol, même celui de la clef, mais jamais pour effacer le dièse : c'est le bémol seulement qu'ils employaient dans ce dernier cas.
 
-<span class="atom-split" data-atom="016" data-title="(apertura) (16/24)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="016" data-title="(apertura) (parte 16)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Le premier usage a tout à fait prévalu ; ceux-ci deviennent plus rares et s'abolissent de jour en jour ; mais il est bon d'y faire attention en lisant d'anciennes musiques, sans quoi l'on se tromperait souvent.
 
@@ -894,7 +894,7 @@ Pourquoi le bruit ne serait-il pas du son, puisqu'il en excite ? Car tout bruit 
 
 Mais, me dira-t-on, d'où vient ce changement d'un son excessif en bruit ? C'est que la violence des vibrations rend sensible la résonance d'un si grand sombre d'aliquotes, que le mélange de tant de sons divers fait alors son effet ordinaire et n'est plus que du bruit. Ainsi les aliquotes qui résonnent ne sont pas seulement la moitié le tiers, le quart et toutes les consonances ; mais la septième partie, la neuvième, la centième, et plus encore. Tout cela fait ensemble un effet semblable à celui de toutes les touches d'un clavecin frappées à la fois, et voilà comment le son devient bruit.
 
-<span class="atom-split" data-atom="017" data-title="(apertura) (17/24)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="017" data-title="(apertura) (parte 17)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 On donne aussi, par mépris, le nom de bruit à une musique étourdissante et confuse, où l'on entend plus de fracas que d'harmonie, et plus de clameurs que de chant. Ce n'est que du bruit. Cet opéra fait beaucoup de bruit et peu d'effet.
 
@@ -950,7 +950,7 @@ La cadence imparfaite forme une opposition presque entière à la cadence parfai
 
 Dans la cadence parfaite, le son ajouté se prend au haut de l'intervalle de quarte, auprès de l'octave, formant tierce avec la quinte, et produit une dissonance mineure qui se sauve en descendant, tandis que la basse-fondamentale monte de quarte ou descend de quinte de la dominante à la tonique, pour établir un repos parfait. Dans la cadence imparfaite, le son ajouté se prend au bas de l'intervalle de quarte auprès de la quinte, et, formant tierce avec l'octave, il produit une dissonance majeure qui se sauve en montant, tandis que la basse-fondamentale descend de quarte ou monte de quinte de la tonique à la dominante pour établir un repos imparfait.
 
-<span class="atom-split" data-atom="018" data-title="(apertura) (18/24)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="018" data-title="(apertura) (parte 18)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 M. Rameau, qui a le premier parlé de cette cadence, et qui en admet plusieurs renversements, nous défend, dans son Traité de l'Harmonie, page 117, d'admettre celui où le son ajouté est au grave portant un accord de septième, et cela par une raison peu solide dont j'ai parlé au mot ACCORD. Il a pris cet accord de septième pour fondamental ; de sorte qu'il fait sauver une septième par une autre septième, une dissonance par une dissonance pareille, par un mouvement semblable sur la basse-fondamentale. Si une telle manière de traiter les dissonances pouvait se tolérer, il faudrait se boucher les oreilles et jeter les règles au feu. Mais l'harmonie sous laquelle cet auteur a mis une si étrange basse-fondamentale, est visiblement renversée d'une cadence imparfaite, évitée par une septième ajoutées sur la seconde note. (Voyez Planche A, Figure 4.) Et cela est si vrai, que la basse-continue qui frappe la dissonance est nécessairement obligée de monter diatoniquement pour la sauver, sans quoi le passage ne vaudrait rien. J'avoue que dans le même ouvrage, page 272, M. Rameau donne un exemple semblable avec la vraie basse-fondamentale ; mais puisqu'il improuve en termes formels le reversement qui résulte de cette basse, un tel passage ne sert qu'à monter dans son livre une contradiction de plus ; et, bien que dans un ouvrage postérieur, (Génér. Harmon. page 186), le même auteur semble reconnaître le vrai fondement de ce passage, il en parle si obscurément, et dit encore si nettement que la septième est sauvé par une autre, qu'on voit bien qu'il ne fait ici qu'entrevoir, et qu'au fond il n'a pas changé d'opinion : de sorte qu'on est en droit de rétorquer contre lui le reproche qu'il fait à Masson de n'avoir pas su voir la cadence imparfaite dans un de ses renversements.
 
@@ -980,7 +980,7 @@ Cadence signifie encore la conformité des pas du danseur avec la mesure marqué
 
 CADENCÉ, adj.
 
-<span class="atom-split" data-atom="019" data-title="(apertura) (19/24)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="019" data-title="(apertura) (parte 19)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Une musique bien cadencé est celle où la cadence est sensible, où le rythme et l'harmonie concourent le plus parfaitement qu'il est possible à faire sentir le mouvement. Car le choix des accords n'est pas indifférent pour marquer les temps de la mesure, et l'on ne doit pas pratiquer indifféremment la même harmonie sur le frappé et sur le levé. De même il ne suffit pas de partager les mesures en valeurs égales pour en faire sentir les retours égaux ; mais le rythme ne dépend pas moins de l'accent qu'on donne à la mélodie que des valeurs qu'on donne aux notes ; car on peut avoir des temps très égaux en valeurs, et toutefois très mal cadencés ; ce n'est pas assez que l'égalité y soit, il faut encore qu'on la sente.
 
@@ -1028,7 +1028,7 @@ Adjectif italien, qui signifie chantable, commode à chanter. Il se dit de tous 
 
 CANTATE, s. f.
 
-<span class="atom-split" data-atom="020" data-title="(apertura) (20/24)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="020" data-title="(apertura) (parte 20)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Sorte de petit poème lyrique qui se chante avec des accompagnements, et qui, bien que fait pour la chambre, doit recevoir du musicien la chaleur et les grâces de la musique imitative et théâtrale. Les cantates sont ordinairement composées de trois récitatifs et d'autant d'airs. Celles qui sont en récit, et les airs en maximes, sont toujours froides et mauvaises ; le musicien doit les rebuter. Les meilleures sont celles où, dans une situation vive et touchante, le principal personnage parle lui-même ; car nos cantates sont communément à voix seule. Il y a en a pourtant quelques-unes à deux voix en [forme](/positions/realism_of_ideas) de dialogue, et celles-là sont encore agréables quand on y sait introduire de l'intérêt. Mais comme il faut toujours un peu d'échafaudage pour faire une sorte d'exposition et mettre l'auditeur au fait, ce n'est pas sans raison que les cantates ont passé de mode, et qu'on leur a substitué, même dans les concerts, des scènes d'opéra.
 
@@ -1076,7 +1076,7 @@ Grandes feuilles de peau d'âne préparées, sur lesquelles on entaille les trai
 
 CASTRATO, s. m.
 
-<span class="atom-split" data-atom="021" data-title="(apertura) (21/24)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="021" data-title="(apertura) (parte 21)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Musicien qu'on a privé, dans son enfance, des organes de la génération, pour lui conserver la voix aiguë qui chante la partie appelée dessus ou soprano. Quelque peu de rapport qu'on aperçoive entre deux organes si différents, il est certain que la mutilation de l'un prévient et empêche dans l'autre cette mutation qui survient aux hommes à l'âge nubile, et qui baisse tout à coup leur voix d'une octave. Il se trouve en Italie des pères barbares qui, sacrifiant la nature à la fortune, livrent leurs enfants à cette opération, pour le plaisir des gens voluptueux et cruels qui osent rechercher le chant des malheureux. Laissons aux honnêtes femmes des grandes villes les ris modestes, l'air dédaigneux et les propos plaisants dont ils sont l'éternel objet ; mais faisons entendre, s'il se peut, la voix de la pudeur et de l'humanité qui crie et s'élève contre cet infâme usage, et que les princes qui l'encouragent par leurs recherches, rougissent une fois de nuire en tant de façons à la conservation de l'espèce humaine.
 
@@ -1136,7 +1136,7 @@ Toutes leurs chansons morales n'étaient pas si graves que celle-là. En voici u
 
 « Le premier de tous les biens est la santé, le second la beauté, le troisième les richesses amassées sans fraude, et le quatrième la jeunesse qu'on passe avec ses amis. »
 
-<span class="atom-split" data-atom="022" data-title="(apertura) (22/24)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="022" data-title="(apertura) (parte 22)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Quant aux scolies qui roulent sur l'amour et le vin, on peut en juger par les soixante-dix odes d'Anacréon qui nous restent. Mais dans ces sortes de chansons mêmes, on voyait encore briller cet amour de la patrie et de la liberté dont tous les Grecs étaient transportés.
 
@@ -1168,7 +1168,7 @@ Il est très difficile de déterminer en quoi la voix qui forme la parole diffè
 
 Le chant ne semble pas naturel à l'homme. Quoique les sauvages de l'Amérique chantent, parce qu'ils parlent, le vrai sauvage ne chanta jamais. Les muets ne chantent point ; ils ne forment que des voix sans permanence, des mugissements sourds que le besoin leur arrache. Je douterais que le sieur Pereyre, avec tout son talent, pût jamais tirer d'eux aucun chant musical. Les enfants crient, pleurent, et ne chantent point. Les premières expressions de la nature n'ont rien en eux de mélodieux ni de sonore, et ils apprennent à chanter, comme parler, à notre exemple. Le chant mélodieux et appréciable n'est qu'une imitation paisible et artificielle des accents de la voix parlante ou passionnée ; on crie et l'on se plaint sans chanter : mais on imite en chantant les cris et les plaintes ; et comme de toutes les imitations la plus intéressante est celle des passions humaines, de toutes les manières d'imiter, la plus agréable est le chant.
 
-<span class="atom-split" data-atom="023" data-title="(apertura) (23/24)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="023" data-title="(apertura) (parte 23)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Chant, appliqué plus particulièrement à notre musique, en est la partie mélodieuse, celle qui résulte de la durée et de la succession des sons, celle d'où dépend toute l'expression, et laquelle tout le reste est subordonné. (Voyez MUSIQUE, MÉLODIE.) Les chants agréables frappent d'abord, ils se gravent facilement dans la mémoire ; mais ils sont souvent l'écueil des compositeurs, parce qu'il faut du talent pour imaginer des chants gracieux. Il y a dans chaque nation des tours de chant triviaux et usés, dans lesquels les mauvais musiciens retombent sans cesse ; il y en a de baroques, qu'on n'use jamais, parce que le public les rebute toujours. Inventer des chants nouveaux, appartient à l'homme de génie : trouver de beaux chants, appartient à l'homme de goût.
 
@@ -1238,7 +1238,7 @@ CHIFFRES.
 
 Caractères qu'on place au-dessus ou au-dessous des notes de la basse, pour indiquer les accords qu'elles doivent porter. Quoique parmi ces caractères il y en ait plusieurs qui ne sont pas des chiffres, on leur en a généralement donné le nom, parce que c'est la sorte de signes qui s'y présente le plus fréquemment.
 
-<span class="atom-split" data-atom="024" data-title="(apertura) (24/24)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="024" data-title="(apertura) (parte 24)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Comme chaque accord est composé de plusieurs sons, s'il avait fallu exprimer chacun de ces sons par un chiffre, on aurait tellement multiplié et embrouillé les chiffres, que l'accompagnateur n'aurait jamais eu le temps de les lire au moment de l'exécution. On s'est donc appliqué, autant qu'on a pu, à caractériser chaque accord par un seul chiffre ; de sorte que ce chiffre peut suffire pour indiquer, relativement à la basse, l'espèce de l'accord, et par conséquent tous les sons qui doivent le composer. Il y a même un accord qui se trouve chiffré en ne le chiffrant point ; car selon la précision des chiffres, toute note qui n'est point chiffrée, ou ne porte aucun accord, ou porte l'accord parfait.
 
@@ -1268,7 +1268,7 @@ Tout cela se fait au moyen de sept chiffres seulement. I. Une lettre de la gamme
 
 5. Ces deux chiffres 3/4 relatifs à cette tonique pour l'accord qu'il appelle de tierce-quarte, et qui revient à l'accord de neuvième sur la seconde note.
 
-<span class="atom-split" data-atom="026" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (1/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="026" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 1)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 III. Un accord dissonant est suivi d'un accord parfait ou d'un autre accord dissonant : dans le premier cas, l'accord s'indique par une lettre ; le second se rapporte à la mécanique des doigts. (Voyez DOIGTER.) C'est un doigt qui doit descendre diatoniquement, ou deux, ou trois. On indique cela par autant de points l'un sur l'autre, qu'il faut descendre par préférence sont indiqués par la mécanique ; les dièses ou bémols qu'il doivent faire sont connus par le ton ou substitués dans les chiffres aux points correspondants : ou bien, dans la chromatique et l'enharmonique, on marque une petite ligne inclinée en descendant ou en montant depuis le signe d'une note connue pour marquer qu'elle doit descendre ou monter d'un demi-ton. Ainsi tout est prévu, et ce petit nombre de signes suffit pour exprimer toute bonne harmonie possible.
 
@@ -1334,7 +1334,7 @@ On dit, en ce sens, que les montres, les horloges sont des chronomètres.
 
 Il y a néanmoins quelques instruments qu'on a appelés en particulier chronomètres, et nommément un que M. Sauveur décrit dans ses Principes d'acoustique. C'était un pendule particulier, qu'il destinait à déterminer exactement les mouvements en musique. L'Affilard, dans ses Principes dédiés aux dames religieuses, avait mis à la tête de tous les airs des chiffres qui exprimaient le nombre des vibrations de ce pendule pendant la durée de chaque mesure.
 
-<span class="atom-split" data-atom="027" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (2/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="027" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 2)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 Il y a une trentaine d'années qu'on vit paraître le projet d'un instrument semblable, sous le nom de métromètre, qui battait la mesure tout seul ; mais il n'a réussi ni dans un temps, ni dans l'autre. Plusieurs prétendent, cependant, qu'il serait fort à souhaiter qu'on eût un tel instrument pour fixer avec précision le temps de chaque mesure dans une pièce de musique : on conserverait par ce moyen plus facilement le vrai mouvement des airs, sans lequel ils perdent leur caractère, et qu'on ne peut connaître après la mort des auteurs que par une espèce de tradition fort sujette à s'éteindre ou à s'altérer. On se plaint déjà que nous avons oublié les mouvements d'un grand nombre d'airs, et il est à croire qu'on les a ralentis tous. Si l'on eût pris la précaution dont je parle, et à laquelle on ne voit pas d'inconvénient, on aurait aujourd'hui le plaisir d'entendre ces mêmes airs teks que l'auteur les faisait exécuter.
 
@@ -1372,7 +1372,7 @@ En effet Kircher prétend que si l'on est au fait des anciennes écritures, et q
 
 Nous avons donc trois clefs à la quinte l'une de l'autre. La clef d'F ut fa, ou de fa, qui est la plus basse ; la clef d'ut ou de C sol ut, qui est une quinte au-dessus de la première, et la clef de sol ou de G re sol, qui est une quinte au-dessus de celle d'ut, dans l'ordre marqué pl. A. fg.5. sur quoi l'on doit remarquer que par un reste de l'ancien usage, la clef se pose toujours sur une ligne et jamais dans un espace. On doit savoir aussi que la clef de fa se fait de trois manières différentes ; l'une dans la musique imprimée ; une autre dans la musique écrite ou gravée, et la dernière dans le plain-chant. Voyez ces trois Figures. (Planche M, figure 8.)
 
-<span class="atom-split" data-atom="028" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (3/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="028" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 3)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 En ajoutant quatre lignes au-dessus de la clef de sol, et trois lignes au-dessous de la clef de fa, ce qui donne de part et d'autre la plus grande étendue de lignes stables, on voit que le système total des notes, qu'on peut placer sur les degrés relatifs à ces clefs, se monte à vingt-quatre, c'est-à-dire, trois octaves et une quarte, depuis le fa qui se trouve au-dessous de la première ligne jusqu'au si qui se trouve au-dessus de la dernière, et tout cela [forme](/positions/realism_of_ideas) ensemble ce qu'on appelle le clavier général ; par où l'on peut juger que cette étendue a fait longtemps celle du système. Aujourd'hui qu'il acquiert sans cesse de nouveaux degrés, tant à l'aigu qu'au grave, on marque ces degrés sur des lignes postiches, qu'on ajoute en haut ou en bas selon le besoin.
 
@@ -1414,7 +1414,7 @@ Ayant pris une de ces douze notes pour tonique ou fondamentale, il faut voir d'a
 
 Pour déterminer à présent combien il faut de dièses ou de bémols, soit a le nombre qui exprime l'intervalle d'ut à la note en question. La formule par dièse sera , et le reste donnera le nombre des dièses qu'il faut mettre à la clef. La formule par bémol sera , et le reste sera le nombre des bémols qu'il faut mettre à la clef.
 
-<span class="atom-split" data-atom="029" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (4/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="029" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 4)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 Je veux, par exemple, composer en la mode majeur. Je vois d'abord qu'il faut des dièses, parce que la fait un intervalle majeur avec ut. L'intervalle est une sixte dont le nombre est 6 ; j'en retranche 1 ; je multiplie le reste 5 par 2, et du produit 10 rejetant 7 autant de fois qu'il se peut, j'ai le reste 3 qui manque le nombre de dièses dont il faut armer la clef pour le ton majeur de la.
 
@@ -1482,7 +1482,7 @@ C'est l'art d'inventer et d'écrire des chants, de les accompagner d'une harmoni
 
 La connaissance de l'harmonie et de ses règles est le fondement de la composition. Sans doute il faut savoir remplir des accords, préparer, sauver des dissonances, trouver des basses-fondamentales, et posséder toutes les autres petites connaissances élémentaires ; mais avec les seules règles de l'harmonie, on n'est pas plus près de savoir la composition qu'on ne l'est d'être un orateur avec celles de la grammaire. Je ne dirai point qu'il faut, outre cela, bien connaître la portée et le caractère des voix et des instruments, les chants qui sont de facile ou difficile exécution, ce qui fait de l'effet et ce qui n'en fait pas ; sentir le caractère des différentes mesures, celui des différentes modulations pour appliquer toujours l'une et l'autre à propos ; savoir, toutes les règles particulières établies par convention, par goût, par caprice, ou par pédanterie, comme les fugues, les imitations, les sujets contraints, etc. Toutes ces choses ne sont encore que des préparatifs à la composition : mais il faut trouver en soi-même la source des beaux chants, de la grande harmonie, les tableaux, l'expression ; être enfin capable de saisir ou de former l'ordonnance de tout un ouvrage, d'en suivre les convenances de toute espèce, et de se remplir de l'esprit du poète, sans s'amuser à courir après les mots. C'est avec raison que nos musiciens ont donné le nom de paroles aux poèmes qu'ils mettent en chant. On voit bien, par leur manière de les rendre, que ce ne sont en effet pour eux que des paroles. Il semble, surtout depuis quelques années, que les règles des accords aient fait oublier ou négliger toutes les autres, et que l'harmonie n'ait acquis plus de facilité qu'aux dépens de l'art en général. Tous nos artistes savent le remplissage, à peine en avons-nous qui sachent la composition.
 
-<span class="atom-split" data-atom="030" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (5/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="030" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 5)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 Au reste, quoique les règles fondamentales du contre-point soient toujours les mêmes, elles ont plus ou moins de rigueur selon le nombre des parties ; car à mesure qu'il y a plus de parties, la composition devient plus difficile, et les règles sont moins sévères. La composition à deux parties s'appelle duo, quand les deux parties chantent également, c'est-à-dire quand le sujet se trouve partagé entre elles. Que si le sujet est dans une partie seulement, et que l'autre ne fasse qu'accompagner, on appelle alors la première récit ou solo ; et l'autre, accompagnement ou basse-continue, si c'est une basse. Il en est de même du trio ou de la composition à trois parties, du quatuor, du quinque, etc. (Voyez ces mots.)
 
@@ -1552,7 +1552,7 @@ On distingue les consonances en parfaites ou justes, dont l'intervalle ne varie 
 
 Les consonances se divisent encore en simples et composées. Il n'y a de consonnances simples que la tierce et la quarte : car la quinte, par exemple, est composée de deux tierces ; la sixte est composée de tierce et de quarte, etc.
 
-<span class="atom-split" data-atom="031" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (6/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="031" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 6)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 Le caractère physique des consonances se tire de leur production dans un même son ; ou, si l'on veut, du frémissement des cordes. De deux cordes bien d'accord formant entre elles un intervalle d'octave ou de douzième qui est l'octave de la quinte, ou de dix-septième majeure qui est la double octave de la tierce majeure, si l'on fait sonner la plus grave, l'autre frémit et résonne. À l'égard de la sixte majeure et mineure, de la tierce mineure, de la quinte et de la tierce majeure simples, qui toutes sont des combinaisons et des renversements des précédentes consonances, elles se trouvent non directement, mais entre des diverses cordes qui frémissent au même son.
 
@@ -1578,7 +1578,7 @@ Mais sans disputer sur tant de suppositions, voyons ce qui doit s'ensuivre de ce
 
 Il reste encore à faire attention aux altérations dont une consonance est susceptible sans cesser d'être agréable à l'oreille, quoique ces altérations dérangent entièrement le concours périodique des vibrations, et que ce concours même deviennent plus rare à mesure que l'altération est moindre. Il reste à considérer que l'accord de l'orgue ou du clavecin ne devrait offrir à l'oreille qu'une cacophonie d'autant plus horrible que ces instruments seraient accordés avec plus de soin, puisque excepté l'octave il n'y se trouve aucune consonance dans son rapport exact.
 
-<span class="atom-split" data-atom="032" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (7/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="032" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 7)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 Dira-t-on qu'un rapport rapproché est supposé tout-à-fait exact, qu'il est reçu pour tel par l'oreille, et qu'elle supplée par instinct ce qui manque à la justesse de l'accord ? Je demande alors pourquoi cette inégalité de jugement et d'appréciation par laquelle elle admet des rapports plus ou moins rapprochés, et en rejette d'autres selon la diverse nature des consonances ? Dans l'unisson, par exemple, l'oreille ne supplée rien ; il est juste ou faux, point de milieu. De même encore dans l'octave, si l'intervalle n'est exact, l'oreille est choquée, elle n'admet point d'approximation. Pourquoi en admet-elle plus dans la quinte, et moins dans la tierce majeure ? Une explication vague, sans preuve, et contraire au principe qu'on veut établir, ne rend point raison de ces différences.
 
@@ -1650,7 +1650,7 @@ C'est à peu près la même chose que composition ; si ce n'est que composition 
 
 Ce mot de contre-point vient de ce qu'anciennement les notes ou signes des sons étaient de simples points, et qu'en composant à plusieurs parties, on plaçait ainsi ses point l'un sur l'autre, ou l'un contre l'autre.
 
-<span class="atom-split" data-atom="033" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (8/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="033" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 8)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 Aujourd'hui le nom de contre-point s'applique spécialement aux parties ajoutées sur un sujet donné, pris ordinairement du plain-chant. Le sujet peut être à la taille ou à quelque autre partie supérieure, et l'on dit alors que le contre-point est sous le sujet ; mais il est ordinairement à la basse, ce qui met le sujet sous le contre-point. Quand le contre-point est syllabique ou note sur note, on l'appelle contre-point simple ; contre-point figuré, quand il s'y trouve différentes figures ou valeurs de notes, et qu'on y fait des desseins, des fugues, des imitations : on sent bien que tout cela ne peut se faire qu'à l'aide de la mesure, et que ce plain-chant devient alors de véritable musique. Une composition faite et exécutée ainsi sur le champ, et sans préparation sur un sujet donné, s'appelle chant sur le livre, parce qu'alors chacun compose impromptu sa partie ou son chant sur le livre du choeur. (Voyez CHANT SUR LE LIVRE.)
 
@@ -1678,7 +1678,7 @@ Je suppose d'abord que le copiste est pourvu de toutes les connaissances nécess
 
 Comme la musique écrite, surtout en partition, est faite pour être lue de loin par les concertants, la première chose que doit faire le copiste est d'employer les matériaux les plus convenables pour rendre sa note bien lisible et bien nette. Ainsi il doit choisir de beau papier fort, blanc, médiocrement fin, et qui ne perce point : on préfère celui qui n'a pas besoin de laver, parce que le lavage avec l'alun lui ôte un peu de sa blancheur. L'encre doit être très noire, sans être luisante ni gommée ; la réglure fine, égale et bien marquée, mais non pas noire comme la note ; il faut au contraire que les lignes soient un peu pâles, afin que les croches, doubles-croches, les soupirs, demi-soupirs et autres petits signes ne se confondent pas avec elles, et que la note sorte mieux. Loin que la pâleur des lignes empêche de lire la musique à une certaine distance, elle aide au contraire à la netteté ; et quand même la ligne échapperait un moment à la vue la position des notes l'indiquent que du travail mal fait ; si le copiste veut se faire honneur, il doit régler son papier lui-même.
 
-<span class="atom-split" data-atom="034" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (9/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="034" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 9)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 Il y a deux formats de papier réglé ; l'un pour la musique française, dont la longueur est de bas en haut ; l'autre pour la musique italienne, dont la longueur est dans le sens des lignes. On peut employer pour les deux le même papier en le coupant et réglant en sens contraire : mais quand on l'achète réglé, il faut renverser les noms chez les papetiers de Paris, demander du papier à l'italienne quand on le veut à la française et à la française quand on le veut l'italienne ; ce quiproquo importe peu, dès qu'on en est prévenu.
 
@@ -1698,7 +1698,7 @@ Enfin le devoir du copiste écrivant une partition est de corriger toutes les fa
 
 Avant de finir ce qui regarde les partitions, je dois dire comment on y rassemble des parties séparées ; travail embarrassant pour bien des copistes, mais facile et simple quand on s'y prend avec méthode.
 
-<span class="atom-split" data-atom="035" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (10/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="035" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 10)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 Pour cela, il faut d'abord compter avec soin les mesures dans toutes les parties, pour s'assurer qu'elles sont correctes. Ensuite on pose toutes les parties l'une sur l'autre, en commençant par la basse, et la couvrant successivement des autres parties dans le même ordre qu'elles doivent avoir sur la partition. On fait l'accolade d'autant de portées qu'on a de parties ; on la divise en mesures égales, puis mettant toutes ces parties ainsi rangées devant soi et à sa gauche, on copie d'abord la première ligne de la première partie, que je suppose être le premier violon ; on y fait une légère marque en crayon à l'endroit où l'on s'arrête ; puis on la transporte renversée à sa droite. On copie de même la première ligne du second violon, renvoyant au premier partout où ils marchent à l'unisson ; puis faisant une marque comme ci-devant, on renverse la partie sur la précédente à sa droite, et ainsi de toutes les parties l'une après l'autre. Quand on est à la basse, on parcourt des yeux toute l'accolade pour vérifier si l'harmonie est bonne, si le tout est bien d'accord, et si l'on ne s'est point trompé. Cette première ligne faite, on prend ensemble toutes les parties qu'on a renversées l'une sur l'autre à sa droite, on les renverse derechef à gauche, et elles se retrouvent ainsi dans le même ordre et dans la même situation où elles étaient quand on a commencé ; on recommence la seconde accolade à la petite marque en crayon, l'on fait une autre marque à la fin de la seconde ligne, et l'on poursuit comme ci-devant, jusqu'à ce que le tout soit fait.
 
@@ -1716,7 +1716,7 @@ Toute corde tendue dont on peut tirer du son. De peur de m'égarer dans cet arti
 
 I. Si deux cordes de même matière sont égales en longueur et en grosseur, les nombres de leurs vibrations en temps égaux seront comme les racines des nombres qui expriment le rapport des tensions des cordes.
 
-<span class="atom-split" data-atom="036" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (11/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="036" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 11)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 II. Si les tensions et les longueurs sont égales, les nombres des vibrations et temps égaux seront en raison inverse de grosseur ou du diamètre des cordes.
 
@@ -1790,7 +1790,7 @@ CROCHE, s. f.
 
 Note de musique qui ne vaut en durée que le quart d’une blanche ou la moitié d'une noire. Il faut par conséquent huit croches pour une ronde ou pour une mesure à quatre temps. (Voyez MESURE, VALEUR DES NOTES.)
 
-<span class="atom-split" data-atom="037" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (12/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="037" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 12)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 On peut voir (Planche D, figure 9.) comment se fait la croche, soit seule ou chantée seule sur une syllabe, soit liée avec d'autres croches quand on en passe plusieurs dans un même temps en jouant, ou sur une même syllabe en chantant. Elles se lient ordinairement de quatre en quatre dans les mesures à quatre temps et à deux, de trois en trois dans la mesure à six-huit, selon la division des temps ; et de six en six dans la mesure à trois temps, selon la division des mesures.
 
@@ -1888,7 +1888,7 @@ Caractère de musique qui se fait comme il est marqué dans la fig. 9 de la Plan
 
 DEMI-TEMPS.
 
-<span class="atom-split" data-atom="038" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (13/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="038" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 13)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 Valeur qui dure exactement la moitié d'un temps. Il faut appliquer au demi-temps par rapport au temps, ce que j'ai dit ci-devant de la demi-mesure par rapport à la mesure.
 
@@ -1982,7 +1982,7 @@ Mot barbare employé par Muris et par nos anciens musiciens. (Voyez QUINTER.)
 
 DIAPHONIE, s. f.
 
-<span class="atom-split" data-atom="039" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (14/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="039" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 14)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 Nom donné par les Grecs à tout intervalle ou accord dissonant, parce que les deux sons, se choquant mutuellement, se divisent, pour ainsi dire, et font sentir désagréablement leur différence. Gui Arétin donne aussi le nom de diaphonie à ce qu'on a depuis appelé discant, à cause des deux parties qu'on y distingue.
 
@@ -2048,7 +2048,7 @@ DIÈSE ou DIÉSIS, chez les modernes, n'est pas proprement, comme chez les ancie
 
 3° Le dièse enharmonique majeur ou triple dièse, marqué par une croix triple ,élève, selon les aristoxéniens, la note d'environ trois quarts de ton. Zarlin dit qu'il l'élève d'un demi-ton mineur ; ce qui ne saurait s'entendre de notre demi-ton, puisque alors ce dièse ne différerait en rien de notre dièse chromatique.
 
-<span class="atom-split" data-atom="040" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (15/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="040" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 15)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 De ces trois dièses, dont les intervalles étaient tous pratiqués dans la musique ancienne, il n'y a plus que le chromatique qui soit en usage dans la nôtre ; l'intonation des dièses enharmoniques étant pour nous d'une difficulté presque insurmontable, et leur usage étant d'ailleurs aboli par notre système tempéré.
 
@@ -2108,7 +2108,7 @@ DISDIAPASON, s. m.
 
 Nom que donnaient les Grecs à l'intervalle que nous appelons double octave.
 
-<span class="atom-split" data-atom="041" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (16/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="041" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 16)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 Le disdiapason est à peu près la plus grande étendue que puisse parcourir les voix humaines sans se forcer ; il y en a même assez peu qui l'entonnent bien pleinement. C'est pourquoi les Grecs avaient borné chacun de leurs modes à cette étendue, et lui donnaient le nom de système parfait. (Voyez MODE, GENRE, SYSTÈME.)
 
@@ -2148,7 +2148,7 @@ La dominante sol, en montant au-dessus du générateur, a un accord tout compos�
 
 On voit de plus que l'altération de l'harmonie des deux quintes ne consiste que dans la tierce mineure re fa ou fa re, ajoutée de part et d'autre à l'harmonie de ces deux quintes.
 
-<span class="atom-split" data-atom="042" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (17/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="042" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 17)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 Cette explication est d'autant plus ingénieuse qu'elle montre à la fois l'origine, l'usage, la marche de la dissonance, son rapport intime avec le ton, et le moyen de déterminer réciproquement l'un par l'autre. Le défaut que j'y trouve, mais défaut essentiel qui faut tout crouler, c'est l'emploi d'une corde étrangère au ton, comme corde essentielle du ton, et cela par une fausse analogie qui, servant de base au système de M. Rameau, le détruit en s'évanouissant.
 
@@ -2176,7 +2176,7 @@ Pour réduire toutes les consonances à leur moindre espace, ne sortons point de
 
 Il ne suffit pas de faire entendre la dissonance, il faut la résoudre ; vous ne choquez d'abord l'oreille que pour la flatter ensuite plus agréablement. Voilà deux sons joints ; d'un côté la quinte et la sixte, de l'autre la septième et l'octave ; tant qu'ils feront ainsi la seconde, ils resteront dissonants ; mais que les parties lui les font entendre s'éloignent d'un degré, que l'une monte ou que l'autre descend diatoniquement, votre seconde de part et d'autre sera devenue une tierce ; c'est-à-dire une des plus agréables consonances. Ainsi après sol fa vous aurez sol mi ou fa la, et après re mi, mi ut ou re fa ; c'est ce qu'on appelle sauver la dissonance.
 
-<span class="atom-split" data-atom="043" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (18/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="043" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 18)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 Reste à déterminer lequel des deux sons joints doit monter ou descendre, et lequel doit rester en place : mais le motif de détermination saute aux yeux. Que la quinte ou l'octave restent comme cordes principales, que la sixte monte et que la septième descende, comme sons accessoires, comme dissonances. De plus, si, des deux sons joints, c'est à celui qui a le moins de chemin à faire de marcher par préférence, le fa descendra encore sur le mi après la septième, et le mi de l'accord de sixte-ajoutée montera sur le fa : car il n'y a point d'autre marche plus courte pour sauver la dissonance.
 
@@ -2206,7 +2206,7 @@ Quoique cette manière de concevoir la dissonance en donne une idée du fond de 
 
 Encore une observation avant de finir cet article. Tout intervalle commensurable est réellement consonant : il n'y a de vraiment dissonants que ceux dont les rapports sont irrationnels ; car il n'y a que ceux-là auxquels on ne puisse assigner aucun son fondamental commun. Mais passé le point où les harmoniques naturels sont encore sensibles, cette consonance des intervalles commensurables ne s'admet plus que par induction. Alors ces intervalles font bien partie du système harmonique, puisqu'ils sont dans l'ordre de sa génération naturelle et se rapportent au son fondamental commun ; mais ils ne peuvent être admis comme consonants par l'oreille, parce qu'elle ne les aperçoit point dans l'harmonie naturelle du corps sonore. D'ailleurs, plus l'intervalle se compose, plus il s'élève à l'aigu du son fondamental ; ce qui se prouve par la génération réciproque du son fondamental et des intervalles supérieures. (Voyez le système de M. Tartini.) Or, quand la distance du son fondamental au plus aigu de l'intervalle générateur ou engendré excède l'étendue du système musical ou appréciable, tout ce qui est au-delà de cette étendue devant être censé nul, un tel intervalle n'a point de fondement sensible, et doit être rejeté de la pratique, ou seulement admis comme dissonant. Voilà non le système de M. Rameau, ni celui de M. Tartini, ni le mien, mais le texte de la nature, qu'au reste je n'entreprends pas d'expliquer.
 
-<span class="atom-split" data-atom="044" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (19/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="044" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 19)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 DISSONANCE MAJEURE, est celle qui se sauve en montant. Cette dissonance n'est telle que relativement à la dissonance mineure ; car elle fait tierce ou sixte majeure sur le vrai son fondamental, et n'est autre que la note sensible dans un accord dominant, ou la sixte-ajoutée dans son accord.
 
@@ -2286,7 +2286,7 @@ Souvent on exécute un même roulement avec les deux mains, dont les doigts se s
 
 Dans le genre de musique harmonieux et lié, il est bon de s'accoutumer à substituer un doigt la place d'un autre sans relever la touche ; cette manière donne des facilités pour l'exécution et prolonge la durée des sons.
 
-<span class="atom-split" data-atom="045" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (20/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="045" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 20)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 Pour l'accompagnement, le doigter de la main gauche est le même que pour les pièces, parce qu'il faut toujours que cette main joue les basses qu'on doit accompagner ; ainsi les règles de M.Duphli y servent également pour cette partie, excepté dans les occasions où l'on veut augmenter le bruit au moyen de l'octave, qu'on embrasse du pouce et du petit doigt : car alors, au lieu de doigter, la main entière se transporte d'une touche à l'autre. Quant à la main droite, son doigter consiste dans l'arrangement des doigts, et dans les marches qu'on leur donne pour faire entendre les accords et leur succession ; de sorte que quiconque entend bien la mécanique des doigts en cette partie, possède l'art de l'accompagnement. M. Rameau a fort bien expliqué cette mécanique dans sa Dissertation sur l'accompagnement, et je crois ne pouvoir mieux faire que de donner ici un précis de la partie de cette dissertation qui regarde le doigter.
 
@@ -2340,7 +2340,7 @@ Il s'appelait dorien parce que c'était chez les peuples de ce nom qu'il avait �
 
 DOUBLE, adj.
 
-<span class="atom-split" data-atom="046" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (21/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="046" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 21)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 Intervalles doubles ou redoublés sont tous ceux qui excèdent l'étendue de l'octave. En ce sens, la dixième est double de la tierce et la douzième, double de la quinte. Quelques-uns donnent aussi le nom d'intervalles doubles à ceux qui sont composés de deux intervalles égaux, comme la fausse-quinte qui est composée de deux tierces mineures.
 
@@ -2398,7 +2398,7 @@ DOUBLE-OCTAVE, s. f.
 
 Intervalle composé de deux octaves, qu'on appelle autrement quinzième, et que les Grecs appelaient disdiapason.
 
-<span class="atom-split" data-atom="047" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (22/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="047" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 22)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 La double-octave est en raison doublée de l'octave simple, et c'est le seul intervalle qui ne change pas de nom en se composant avec lui-même.
 
@@ -2436,7 +2436,7 @@ Le premier moyen de sauver cette absurdité est donc de ne placer les duos que d
 
 Voilà quelques-uns des observations qui regardent le poète. À l'égard du musicien, c'est à lui de trouver un chant convenable au sujet, et distribué de telle sorte que, chacun des interlocuteurs parlant à son tour, toute la suite du dialogue ne [forme](/positions/realism_of_ideas) qu'une mélodie, qui, sans changer de sujet, ou du moins sans altérer le mouvement, passe dans son progrès d'une partie à l'autre, sans cesser d'être une et sans enjamber. Les duos qui font le plus d'effet sont ceux des voix égales, parce que l'harmonie en est plus rapprochée ; et entre les voix égales celles qui font le plus d'effet sont les dessus, parce que leur diapason plus aigu se rend plus distinct, et que le son en est plus touchant. Aussi les duos de cette espèce sont-ils les seuls employés par les Italiens dans leurs tragédies ; et je ne doute pas que l'usage des castrati dans les rôles d'hommes ne soit dû en partie à cette observation. Mais quoiqu'il doive y avoir égalité entre les voix, et unité dans la mélodie, ce n'est pas à dire que les deux parties doivent être exactement semblables dans leur tour de chant ; car outre la diversité des styles qui leur convient, il est très rare que la situation des deux acteurs soit si parfaitement la même qu'ils doivent exprimer leurs sentiments de la même manière : ainsi le musicien doit varier leur accent, et donner à chacun des deux la caractère qui peint le mieux l'état de son âme, surtout dans le récit alternatif.
 
-<span class="atom-split" data-atom="048" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (23/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="048" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 23)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 Quand on joint ensemble les deux parties (ce qui doit se faire rarement et durer peu), il faut trouver un chant susceptible d'une marche par tierces ou par sixte, dans lequel la seconde partie fasse son effet sans distraire de la première. (Voyez UNITÉ DE MÉLODIE.) Il faut garder la dureté des dissonances, les sons perçants et renforcés, le fortissiomo de l'orchestre pour des instants de désordre et de transports où les acteurs, semblant s'oublier eux-mêmes, portent leur égarement dans l'âme de tout spectateur sensible, et lui font éprouver le pouvoir de l'harmonie sobrement ménagée ; mais ces instants doivent être rares, courts et amenées avec art. Il faut, par une musique douce et affectueuse, avoir déjà disposé l'oreille et le [coeur](/positions/fideism) l'émotion, pour que l'une et l'autre se prêtent à ces ébranlements violents, et il faut qu'ils passent avec la rapidité qui convient à notre faiblesse ; car quand l'agitation est trop forte, elle ne peut durer, et tout ce qui est au-delà de la nature ne touche plus.
 
@@ -2530,7 +2530,7 @@ Pour faire la preuve de ce calcul, il faut composer tous les rapports, compris e
 
 L'échelle qu'on vient de voir est celle qu'on nomme naturelle ou diatonique ; mais les modernes, divisant ses degrés en d'autres intervalles plus petits, en ont tiré une autre échelle, qu'ils ont appelée échelle demi-tonique ou chromatique, parce qu'elle procède par demi-tons.
 
-<span class="atom-split" data-atom="049" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (24/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="049" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 24)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 Pour former cette échelle on n'a fait que partager en deux intervalles égaux, ou supposés tels, chacun des cinq tons entiers de l'octave, sans distinguer le ton majeur du ton mineur ; ce qui, avec les deux demi-tons majeurs qui s'y trouvaient déjà, fait une succession de douze demi-tons sur treize sons consécutifs d'une octave à l'autre.
 
@@ -2586,7 +2586,7 @@ Espèce d'échelle graduée, ou de règle divisée en plusieurs parties, dont on
 
 Ce mot vient du grec , son, et de , mesure.
 
-<span class="atom-split" data-atom="050" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (25/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="050" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 25)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 Je n'entreprendrai pas la description de cette machine, parce qu'on n'en fera jamais aucun usage, et qu'il n'y a de bon échomètre qu'une oreille sensible et une longue habitude de la musique. Ceux qui voudront en savoir là-dessus davantage peuvent consulter le Mémoire de M. Sauveur, inséré dans ceux de l'Académie des Sciences, année 1701. Ils y trouveront deux échelles de cette espèce ; l'une de M. Sauveur, et l'autre de M. Loulié. (Voyez aussi l'article CHRONOMÈTRE.)
 
@@ -2650,7 +2650,7 @@ Voilà donc quatre manières de sortir d'un accord de septième diminuée, en se
 
 Imaginons maintenant l'accord de septième diminuée sur ut dièse note sensible, si je prends la tierce mi pour fondamentale, elle deviendra note sensible à son tour, et annoncera par conséquent le mode mineur de fa ; or cet ut dièse reste bien dans l'accord de mi note sensible : mais c'est en qualité de re bémol, c'est-à-dire de sixième note du ton, et de septième diminuée de la note sensible : ainsi cet ut dièse qui, comme note sensible, était obligé de monter dans le ton de re, devenu re bémol dans le ton de fa, est obligé de descendre comme septième diminuée : voilà une transition enharmonique. Si au lieu de la tierce, on prend, dans le même accord d'ut dièse, la fausse-quinte sol pour nouvelle note sensible, l'ut dièse deviendra encore re bémol, en qualité de quatrième note : autre passage enharmonique. Enfin si l'on prend pour note sensible la septième diminuée elle-même, au lieu de si bémol, il faudra nécessairement la considérer comme la dièse ; ce qui fait un troisième passage enharmonique sur le même accord.
 
-<span class="atom-split" data-atom="051" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (26/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="051" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 26)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 A la faveur de ces quatre différentes manières d'envisager successivement le même accord, on passe d'un ton à une autre qui en paraît fort éloigné ; on donne aux parties des progrès différents de celui qu'elles auraient dû avoir en premier lieu, et ces passages ménagés à propos sont capables, non seulement de surprendre, mais de ravir l'auditeur, quand ils sont bien rendus.
 
@@ -2676,7 +2676,7 @@ Je ne m'arrêterai pas à l'explication de ce mot pris pour le rapport convenabl
 
 L'ensemble ne dépend pas seulement de l'habileté avec laquelle chacun lit sa partie, mais de l'intelligence avec laquelle il en sent le caractère particulier et la liaison avec le tout ; soit pour phraser avec exactitude, soit pour suivre la précision des mouvements, soir pour saisir le moment et les nuances des fort et des doux, soit enfin pour ajouter aux ornements marqués ceux qui sont si nécessairement supposés par l'auteur, qu'il n'est permis à personne de les omettre. Les musiciens ont beau être habiles, il n'y a d'ensemble qu'autant qu'ils ont l'intelligence de la musique qu'ils exécutent, et qu'ils s'entendent entre eux : car il serait impossible de mettre un parfait ensemble dans un concert de sourds, ni dans une musique dont le style serait parfaitement étranger à ceux qui l'exécutent. Ce sont surtout les maîtres de musique, conducteurs et chefs d'orchestre, qui doivent guider, ou retenir, ou presser les musiciens pour mettre partout l'ensemble ; et c'est ce que fait toujours un bon premier violon par une certaine charge d'exécution qui en imprime fortement le caractère dans toutes les oreilles. La voix récitante est assujettie à la basse et à la mesure ; le premier violon doit écouter et suivre la voix ; la symphonie doit écouter et suivre le premier violon : enfin le clavecin, qu'on suppose tenu par le compositeur, doit être le véritable et premier guide de tout.
 
-<span class="atom-split" data-atom="052" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (27/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="052" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 27)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 En général, plus le style, les périodes, les phrases, la mélodie et l'harmonie ont de caractère, plus l'ensemble est facile à saisir, parce que la même idée imprimée vivement dans tous les esprits préside à toute l'exécution. Au contraire, quand la musique ne dit rien, et qu'on n'y sent qu'une suite de notes sans liaison, il n'y a point de tout auquel chacun rapporte sa partie, et l'exécution va toujours mal. Voilà pourquoi la musique française n'est jamais ensemble.
 
@@ -2728,7 +2728,7 @@ Le nom d' éolien que portait ce mode ne lui venait pas des îles éoliennes, ma
 
 ÉPAIS, adj.
 
-<span class="atom-split" data-atom="053" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (28/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="053" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 28)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 Genre épais, dense, ou serré, , est, selon la définition d'Aristoxène, celui où, dans chaque tétracorde, la somme des deux premiers intervalles est moindre que le troisième. Ainsi le genre enharmonique est épais, parce que les deux premiers intervalles, qui sont chacun d'un quart de ton, ne forment ensemble qu'un demi-ton ; somme beaucoup moindre que le troisième intervalle, qui est une tierce majeure. Le chromatique est aussi un genre épais ; car ses deux premiers intervalles ne forment qu'un ton moindre encore que la tierce mineure qui suit. Mais le genre diatonique n'est point épais, puisque ses deux premiers intervalles forment un ton et demi, somme plus grande que le ton qui suit. (Voyez GENRE, TÉTRACORDE.)
 
@@ -2840,7 +2840,7 @@ L'action d'exécuter une pièce de musique.
 
 Comme la musique est ordinairement composée de plusieurs parties dont le rapport exact, soit pour l'intonation, soit pour la mesure, est extrêmement difficile à observer, et dont l'esprit dépend plus du goût que des signes, rien n'est si rare qu'une bonne exécution. C'est peu de lire la musique exactement sur la note, il faut entrer dans toutes les idées du compositeur, sentir et rendre le feu de l'expression, avoir surtout l'oreille juste et toujours attentive pour écouter et suivre l'ensemble. Il faut, en particulier dans la musique française, que la partie principale sache presser ou ralentir le mouvement selon que l'exigent le goût du chant, le volume de voix, et le développement des bras du chanteur ; il faut, par conséquent, que toutes les autres parties soient, sans relâche, attentives à bien suivre celle-là. Aussi l'ensemble de l'Opéra de Paris, où la musique n'a point d'autre mesure que celle du geste, serait-il, à mon avis, ce qu'il y a de plus admirable en fait d’exécution.
 
-<span class="atom-split" data-atom="054" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (29/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="054" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 29)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 « Si les Français, dit Saint-Évremont, par leur commerce avec les Italiens, sont parvenus composer plus hardiment, les Italiens ont aussi gagné au commerce des Français, en ce qu'ils ont appris d'eux à rendre leur exécution plus agréable, plus touchante et plus parfaite. » Le lecteur se passera bien, je crois, de mon commentaire sur ce passage. Je dirai seulement que les Français croient toute la terre occupée de leur musique, et qu'au contraire, dans les trois quarts de l'Italie, les musiciens ne savent pas même qu'il existe une musique française différente de la leur.
 
@@ -2866,7 +2866,7 @@ Que fera donc l'harmoniste pour concourir à l'expression de la mélodie et lui 
 
 À l'égard du rythme, jadis si puissant pour donner de la force, de la variété, de l'agrément l'harmonie poétique ; si nos langues, moins accentuées et moins prosodiques, ont perdu le charme qui en résultait, notre musique en substitue un autre plus indépendant du discours dans l'égalité de la mesure, et dans les diverses combinaisons de ses temps, soit à la fois dans le tout, soit séparément dans chaque partie. Les quantités de la langue sont presque perdues sous celles des notes ; et la musique, au lieu de parler avec la parole, emprunte en quelque sorte de la mesure un langage à part. La force de l'expression consiste, en cette partie, à réunir ces deux langages le plus qu'il est possible, et à faire que, si la mesure et le rythme ne parlent pas de la même manière, ils disent au moins les mêmes choses.
 
-<span class="atom-split" data-atom="055" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (30/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="055" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 30)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 La gaîté qui donne de la vivacité à tous nos mouvements en doit donner de même à la mesure ; la tristesse resserre le [coeur](/positions/fideism), ralentit les mouvements, et la même langueur se fait sentir dans les chants qu'elle inspire : mais quand la douleur est vive ou qu'il se passe dans l'âme de grands combats, la parole est inégale ; elle marche alternativement avec la lenteur du spondée et avec la rapidité du pyrrhique, et souvent s'arrête tout court comme dans le récitatif obligé : c'est pour cela que les musiques les plus expressives, ou du moins les plus passionnées, sont communément celles où les temps, quoique égaux entre eux, sont le plus inégalement divisés ; au lieu que l'image du sommeil, du repos, de la paix de l'âme, se peint volontiers avec des notes égales, qui ne marchent ni vite, ni lentement.
 
@@ -2910,7 +2910,7 @@ Sorte d'air militaire, pour l'ordinaire court et brillant, qui s'exécute par de
 
 FANTAISIE, s. f.
 
-<span class="atom-split" data-atom="056" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (31/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="056" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 31)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 Pièce de musique instrumentale qu'on exécute en la composant. Il y a cette différence du caprice à la fantaisie, que le caprice est un recueil d'idées singulières et disparates que rassemble une imagination échauffée, et qu'on peut même composer à loisir ; au lieu que la fantaisie peut être une pièce très régulière, qui ne diffère des autres qu'en ce qu'on l'invente en l'exécutant, et qu'elle n'existe plus sitôt qu'elle est achevée. Ainsi le caprice est dans l'espèce et l'assortiment des idées, et la fantaisie dans leur promptitude à se présenter. Il suit de là qu'un caprice peut fort bien s'écrire, mais jamais une fantaisie ; car sitôt qu'elle est écrite ou répétée, ce n'est plus une fantaisie, c'est une pièce ordinaire.
 
@@ -3012,7 +3012,7 @@ Son fondamental est celui qui sert de fondement à l'accord (voyez ACCORD), ou a
 
 FORCE, s. f.
 
-<span class="atom-split" data-atom="057" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (32/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="057" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 32)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 Qualité du son appelée aussi quelquefois intensité, qui le rend plus sensible et le fait entendre de plus loin. Les vibrations plus ou moins fréquentes du corps sonore sont ce qui rend le son aigu ou gave ; leur plus grand ou moindre écart de la ligne de repos est ce qui rend fort ou faible. Quand cet écart est trop grand et qu'on force l'instrument ou la voix, (Voyez FORCER.) le son devient bruit, et cesse d'être appréciable.
 
@@ -3078,7 +3078,7 @@ Il y a encore plusieurs autres manières de fugues ; comme les fugues perpétuel
 
 Fugue, du latin fuga, fuite ; parce que les parties, partant ainsi successivement, semblent se fuir et se poursuivre l'une l'autre.
 
-<span class="atom-split" data-atom="058" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (33/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="058" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 33)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 FUGUE RENVERSÉE. C’est une fugue dont la réponse se fait par mouvement contraire à celui du sujet. (Voyez CONTRE-FUGUE.)
 
@@ -3140,7 +3140,7 @@ Sorte de danse dont l'air est à deux temps, et se coupe en deux reprises, dont 
 
 GÉNIE, s. m.
 
-<span class="atom-split" data-atom="059" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (34/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="059" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 34)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 Ne cherche point, jeune artiste, ce que c'est que le génie. En as-tu, tu le sens en toi-même. N'en as-tu pas, tu ne le connaîtras jamais. Le génie du musicien soumet l'univers entier à son art. Il peint tous les tableaux par des sons ; il fait parler le silence même ; il rend les idées par des sentiments, les sentiments par des accents ; et les passions qu'il exprime, il les excite au fond des coeurs. La volupté, par lui, prend de nouveaux charmes ; la douleur qu'il fait gémir arrache des cris ; il brûle sans cesse et ne se consume jamais. Il exprime avec chaleur les frimats et les glaces ; même en peignant les horreurs de la mort, il porte dans l'âme ce sentiment de vie qui ne l'abandonne point, et qu'il communique aux coeurs faits pour le sentir. Mais hélas ! il ne sait rien dire à ceux où son germe n'est pas, et ses prodiges sont peu sensibles à qui ne les peut imiter. Veux-tu donc savoir si quelque étincelle de ce feu dévorant t'anime ? Cours, vole à Naples écouter les chefs-d'oeuvre de Leo, de Durante, de Jomelli, de Pergolèse. Si tes yeux s'emplissent de larmes, si tu sens ton [coeur](/positions/fideism) palpiter, si des tressaillements t'agitent, si l'oppression te suffoque dans tes transports, prends le Métastase et travaille ; son génie échauffera le tien, tu créeras à son exemple : c'est là ce que fait le génie, et d'autres yeux te rendront bientôt les pleurs que les maîtres t'ont fait verser. Mais si les charmes de ce grand art te laissent tranquille, si tu n'as ni délire ni ravissement, si tu ne trouves que beau ce qui transporte, oses-tu demander ce qu'est le génie ? Homme vulgaire, ne profane point ce nom [sublime](/concepts/sublime). Que t'importerait de le connaître ? tu ne saurais le sentir : fais de la musique française.
 
@@ -3174,7 +3174,7 @@ L'étude des écrits des anciens, plus que le progrès de notre musique, nous a 
 
 Il faut encore observer que, dans notre musique, les genres sont presque toujours mixtes ; c'est-à-dire, que le diatonique entre pour beaucoup dans le chromatique, et que l'un et l'autre sont nécessairement mêlés à l'enharmonique. Une pièce de musique tout entière dans un seul genre serait très difficile à conduire et ne serait pas supportable ; car dans le diatonique, il serait impossible de changer de ton, dans le chromatique, on serait forcé de changer de ton à chaque note, et dans l'enharmonique il n'y aurait absolument aucune sorte de liaison. Tout cela vient encore des règles de l'harmonie, qui assujettissent la succession des accords à certaines règles incompatibles avec une continuelle succession enharmonique ou chromatique, et aussi de celle de la mélodie, qui n'en saurait tirer de beaux chants. Il n'en toit pas de même des genres des anciens. Comme les tétracordes étaient également complets, quoique divisés différemment dans chacun des trois systèmes, si dans la mélodie ordinaire un genre eût emprunté d'un autre d'autres sons que ceux qui se trouvaient nécessairement communs entre eux, le tétracorde aurait eu plus de quatre cordes, et toutes les règles de leur musique auraient été confondues.
 
-<span class="atom-split" data-atom="060" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (35/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="060" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 35)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 M. Serre de Genève a fait la distinction d'un quatrième genre duquel j'ai parlé dans son article. (Voyez DIACOMMATIQUE.)
 
@@ -3244,7 +3244,7 @@ Nom d'un nome dactylique de la musique grecque, inventé par le premier Olympe p
 
 HARMONIE, s. f.
 
-<span class="atom-split" data-atom="061" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (36/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="061" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 36)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 Le sens que donnaient les Grecs à ce mot dans leurs musique est d'autant moins facile à déterminer, qu'étant originairement un nom propre, il n'a point de racine par lesquelles on puisse le décomposer pour en tirer l'étymologie. Dans les anciens traités qui nous restent, l'harmonie paraît être la partie qui a pour objet la succession convenable des sons, en tant qu'ils sont aigus ou graves, par opposition aux deux autres parties appelées rhythmica et metrica, qui se rapportent au temps et à la mesure : ce qui laisse à cette convenance une idée vague et indéterminée qu'on ne peut fixer que par une étude expresse de toutes les règles de l'art ; et encore, après cela, l'harmonie sera-t-elle fort difficile à distinguer de la mélodie, à moins qu'on n'ajoute à cette dernière les idées de rythme et de mesure, sans lesquelles, en effet, nulle mélodie ne peut avoir un caractère déterminé, au lieu que l'harmonie a le sien par elle-même indépendamment de toute autre quantité. (Voyez MÉLODIE.)
 
@@ -3268,7 +3268,7 @@ Quand on supposerait la vérité de cette expérience, cela ne lèverait pas à 
 
 Tout son donne un accord vraiment parfait, puisqu'il est formé de tous ses harmoniques, et que c'est par eux qu'il est un son. Cependant ces harmoniques ne s'entendent pas, et l'on ne distingue qu'un son simple, à moins qu'il ne soit extrêmement fort ; d'où il suit que la seule bonne harmonie est l'unisson, et qu'aussitôt qu'on distingue les consonances, la proportion naturelle étant altérée, l'harmonie a perdu sa pureté.
 
-<span class="atom-split" data-atom="062" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (37/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="062" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 37)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 Cette altération se fait alors de deux manières. Premièrement en faisant sonner certains harmoniques, et non pas les autres, on change le rapport de force qui doit régner entre eux tous, pour produire la sensation d'un son unique, et l'unité de la nature est détruite. On produit, en doublant ces harmoniques, un effet semblable à celui qu'on produirait en étouffant tous les autres ; car alors il ne faut pas douter qu'avec le son générateur on n'entendît ceux des harmoniques qu'on aurait laissés : au lieu qu'en les laissant tous, ils s'entre-détruisent et concourent ensemble à produire et renforcer la sensation unique du son principal. C'est le même effet que donne le plein jeu de l'orgue, lorsque ôtant successivement les registres, on laisse avec le principal la doublette et la quinte : car alors cette quinte et cette tierce, qui restaient confondues, se distinguent séparément et désagréablement.
 
@@ -3328,7 +3328,7 @@ Ce mot signifie la même chose qu'aigu, et ce terme est opposé à bas. C'est ai
 
 Haut s'emploie aussi quelquefois improprement pour fort. Chantez plus haut, on ne vous entend pas.
 
-<span class="atom-split" data-atom="063" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (38/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="063" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 38)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 Les anciens donnaient à l'ordre des sons une dénomination tout opposée à la nôtre ; ils plaçaient en haut les sons graves, et en bas les sons aigus : ce qu'il importe de remarquer pour entendre plusieurs de leurs passages.
 
@@ -3474,7 +3474,7 @@ Le cinquième mode de l'ancienne musique, en commençant par le grave. Euclide l
 
 Euclide distingue deux modes hypo-lydiens ; savoir, l'aigu qui est celui de cet article, et le grave qui est le même que l'hypo-éolien.
 
-<span class="atom-split" data-atom="064" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (39/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="064" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 39)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 Le mode hypo-lydien était propre aux chants funèbres, aux méditations sublimes et divines : quelques-uns en attribuent l'invention à Polymneste de Colophon, d'autres à Damon l'Athénien.
 
@@ -3560,7 +3560,7 @@ Terme générique sous lequel on comprend tous les corps artificiels qui peuvent
 
 Il y a trois manières de rendre des sons sur des instruments ; savoir, par les vibrations des cordes, par celle de certains corps élastiques, et par la collision de l'air enfermé dans des tuyaux. J'ai parlé, au mot musique, de l'invention de ces instruments.
 
-<span class="atom-split" data-atom="065" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (40/40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="065" data-title="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante. (parte 40)" data-chapter="6. Enfin ce chiffre 4 pour l'accord de quarte-et-quinte sur la dominante." data-kind="atom" data-srclang="fr"></span>
 
 Ils se divisent généralement en instruments à cordes, instruments à vent, instruments de percussion. Les instruments à cordes, chez les anciens, étaient en grand nombre ; les plus connu sont les suivants : lyra, psalterium, trigonium, sambuca, cithara, pectis, magas barbiton, testudo, epigonium, simmicium, epandoron, etc. On touchait tous ces instruments avec les doigts, ou avec le plectrum, espèce d'archet.
 
@@ -3604,7 +3604,7 @@ III. Quand les Grecs parlent de leurs diastèmes ou intervalles simples, il ne f
 
 IV. Sur les genres, divisez successivement le même tétracorde selon le genre diatonique, selon le chromatique, et selon l'enharmonique, vous aurez trois accords différents, lesquels, comparés entre eux, au lieu de trois intervalles, vous en donneront neuf, outre les combinaisons et compositions qu'on ne peut faire, et les différences de tous ces intervalles qui en produiront des multitudes d'autres. Si vous comparez, par exemple, le premier intervalle de chaque tétracorde dans l'enharmonique et dans le chromatique mol d'Aristoxène, vous aurez d'un côté un quart ou 3/12 de ton, de l'autre un tiers ou 4/12, et les deux cordes aiguës feront entre elles un intervalle qui sera la différence des deux précédents, ou la douzième partie d'un ton.
 
-<span class="atom-split" data-atom="066" data-title="V. Passant maintenant aux rapports, cet article me mène à une petite digression. (1/7)" data-chapter="V. Passant maintenant aux rapports, cet article me mène à une petite digression." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="066" data-title="V. Passant maintenant aux rapports, cet article me mène à une petite digression. (parte 1)" data-chapter="V. Passant maintenant aux rapports, cet article me mène à une petite digression." data-kind="atom" data-srclang="fr"></span>
 
 Les aristoxéniens prétendaient avoir bien simplifié la musique par leurs divisions égales des intervalles, et se moquaient fort de tous les calculs de Pythagore. Il me semble cependant que cette prétendue simplicité n'était guère que dans les mots, et que si les pythagoriciens avaient un peu mieux entendu leur maître et la musique, ils auraient bientôt fermé la bouche leurs adversaires.
 
@@ -3642,7 +3642,7 @@ On observera aussi que la plupart de ces rapports peuvent se déterminer de plus
 
 Pour composer ou redoubler un de ces intervalles simples, il suffit d'y ajouter l'octave autant de fois que l'on veut, et pour avoir le nom de ce nouvel intervalle, il faut au nom de l'intervalle simple ajouter autant de fois sept qu'il contient d'octaves. Réciproquement, pour connaître le simple d'un intervalle redoublé dont on a le nom, il ne faut qu'en rejeter sept autant de fois qu'on le peut ; le reste donnera le nom de l'intervalle simple qui l'a produit. Voulez-vous une quinte redoublée, c'est-à-dire l'octave de la quinte, ou la quinte de l'octave ? A 5 ajoutez 7, vous aurez 12. La quinte redoublée est donc une douzième. Pour trouver le simple d'une douzième, rejetez 7 du nombre 12 autant de fois que vous le pourrez, le reste 5 vous indique une quinte. À l'égard du rapport, il ne faut que doubler le conséquent, ou prendre la moitié de l'antécédent de la raison simple autant de fois qu'on ajoute d'octaves, et l'on aura la raison de l'intervalle redoublé. Ainsi 2, 3 étant la raison de la quinte, 1, 3 ou 2, 6 sera celle de la douzième, etc. Sur quoi l'on observera qu'en terme de musique, composer ou redoubler un intervalle, ce n'est pas l'ajouter à lui-même, c'est y ajouter une octave ; le tripler, c'est en ajouter deux, etc.
 
-<span class="atom-split" data-atom="067" data-title="V. Passant maintenant aux rapports, cet article me mène à une petite digression. (2/7)" data-chapter="V. Passant maintenant aux rapports, cet article me mène à une petite digression." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="067" data-title="V. Passant maintenant aux rapports, cet article me mène à une petite digression. (parte 2)" data-chapter="V. Passant maintenant aux rapports, cet article me mène à une petite digression." data-kind="atom" data-srclang="fr"></span>
 
 Je dois avertir ici que tous les intervalles exprimés dans ce dictionnaire par les noms des notes doivent toujours se compter du grave à l'aigu ; en sorte que cet intervalle, ut si, n'est pas une seconde, mais une septième ; et si ut n'est pas une septième, mais une seconde.
 
@@ -3752,7 +3752,7 @@ C'était, dans nos anciennes musiques, l'union par un trait de deux ou plusieurs
 
 La valeur des notes qui composaient la ligature variait beaucoup selon qu'elles montaient ou descendaient, selon qu'elles étaient différemment liées, selon qu'elles étaient à queue ou sans queue, selon que ces queues étaient placées à droite ou à gauche, ascendantes ou descendantes, enfin selon un nombre infini de règles si parfaitement oubliées à présent, qu'il n'y a peut-être pas en Europe en seul musicien qui soit en état de déchiffrer des musiques de quelque antiquité.
 
-<span class="atom-split" data-atom="068" data-title="V. Passant maintenant aux rapports, cet article me mène à une petite digression. (3/7)" data-chapter="V. Passant maintenant aux rapports, cet article me mène à une petite digression." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="068" data-title="V. Passant maintenant aux rapports, cet article me mène à une petite digression. (parte 3)" data-chapter="V. Passant maintenant aux rapports, cet article me mène à une petite digression." data-kind="atom" data-srclang="fr"></span>
 
 LIGNE, s. f.
 
@@ -3850,7 +3850,7 @@ Ces intervalles variables sont au nombre de cinq ; savoir, le demi-ton, le ton, 
 
 Les trois autres intervalles, savoir, la tierce, la sixte et la septième, différent toujours d'un demi-ton du majeur au mineur, et ces différences peuvent se noter. Ainsi la tierce mineure a un ton et demi, et la tierce majeure deux tons.
 
-<span class="atom-split" data-atom="069" data-title="V. Passant maintenant aux rapports, cet article me mène à une petite digression. (4/7)" data-chapter="V. Passant maintenant aux rapports, cet article me mène à une petite digression." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="069" data-title="V. Passant maintenant aux rapports, cet article me mène à une petite digression. (parte 4)" data-chapter="V. Passant maintenant aux rapports, cet article me mène à une petite digression." data-kind="atom" data-srclang="fr"></span>
 
 Il y a quelques autres plus petits intervalles, comme le dièse et le comma, qu'on distingue en moindres, mineurs, moyens, majeurs et maximes ; mais comme ces intervalles ne peuvent s'exprimer qu'en nombre, ces distinctions sont inutiles dans la pratique.
 
@@ -3932,7 +3932,7 @@ MÉLODIE, s. f.
 
 Succession de sons tellement ordonnés selon les lois du rythme et de la modulation, qu'elle [forme](/positions/realism_of_ideas) un sens agréable à l'oreille ; la mélodie vocale s'appelle chant, et l'instrumentale, symphonie.
 
-<span class="atom-split" data-atom="070" data-title="V. Passant maintenant aux rapports, cet article me mène à une petite digression. (5/7)" data-chapter="V. Passant maintenant aux rapports, cet article me mène à une petite digression." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="070" data-title="V. Passant maintenant aux rapports, cet article me mène à une petite digression. (parte 5)" data-chapter="V. Passant maintenant aux rapports, cet article me mène à une petite digression." data-kind="atom" data-srclang="fr"></span>
 
 L'idée du rythme entre nécessairement dans celle de la mélodie ; un chant n'est un chant qu'autant qu'il est mesuré ; la même succession de sons peut recevoir autant de caractères, autant de mélodies différentes qu'on peut la scander différemment ; et le seul changement de valeur des notes peut défigurer cette même succession au point de la rendre méconnaissable. Ainsi la mélodie n'est rien par elle-même ; c'est la mesure qui la détermine, et il n'y a point de chant sans le temps. On ne doit donc pas comparer la mélodie avec l'harmonie, abstraction faite de la mesure dans toutes les deux ; car elle est essentielle à l'une et non pas à l'autre.
 
@@ -3980,7 +3980,7 @@ Sorte de mélopée dont les chants roulaient sur les cordes moyennes, lesquelles
 
 MÉSOÏDES.
 
-<span class="atom-split" data-atom="071" data-title="V. Passant maintenant aux rapports, cet article me mène à une petite digression. (6/7)" data-chapter="V. Passant maintenant aux rapports, cet article me mène à une petite digression." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="071" data-title="V. Passant maintenant aux rapports, cet article me mène à une petite digression. (parte 6)" data-chapter="V. Passant maintenant aux rapports, cet article me mène à une petite digression." data-kind="atom" data-srclang="fr"></span>
 
 Sons moyens, ou pris dans le medium du système. (Voyez MÉLOPÉE)
 
@@ -4030,7 +4030,7 @@ Le chiffre inférieur marque un nombre de notes de valeur égale, faisant ensemb
 
 Le chiffre supérieur montre combien il faut de ces mêmes notes pour remplir chaque mesure de l'air qu'on va noter.
 
-<span class="atom-split" data-atom="072" data-title="V. Passant maintenant aux rapports, cet article me mène à une petite digression. (7/7)" data-chapter="V. Passant maintenant aux rapports, cet article me mène à une petite digression." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="072" data-title="V. Passant maintenant aux rapports, cet article me mène à une petite digression. (parte 7)" data-chapter="V. Passant maintenant aux rapports, cet article me mène à une petite digression." data-kind="atom" data-srclang="fr"></span>
 
 Par cette règle on voit qu'il faut trois blanches pour remplir une mesure au signe 2/3 ; deux noires pour celle au signe 2/4 ; trois croches pour celle au signe 3/8, etc. Tout cet embarras de chiffres est mal entendu ; car quoique ce rapport de tant de différentes mesures à celle de quatre temps, qui leur est si peu semblable ? ou pourquoi ce rapport de tant de diverses notes à une ronde, dont la durée est si peu déterminée ? Si tous ces signes sont institués pour marquer autant de différentes sortes de mesures, il y en a beaucoup trop ; et s'ils le sont pour exprimer les divers degrés de mouvement, il n'y en a pas assez, puisque indépendamment de l'espèce de mesure et de la division des temps, on est presque toujours contraint d'ajouter un mot au commencement de l'air pour déterminer le temps.
 
@@ -4050,7 +4050,7 @@ MEZZA-VOCE. (Voyez SOTTO-VOCE)
 
 MEZZO-FORTE. (Voyez SOTTO-VOCE)
 
-<span class="atom-split" data-atom="073" data-title="MI. (1/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="073" data-title="MI. (parte 1)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 La troisième des six syllabes inventés par Gui d'Arétin pour nommer ou solfier les notes, lorsqu'on ne joint pas la parole au chant. (Voyez E SI MI, GAMME)
 
@@ -4122,7 +4122,7 @@ Comme toutes les cordes naturelles de l'octave d'ut donnent relativement à cett
 
 Cette règle n'est point, comme on pourrait le croire ; elle a son fondement dans la génération harmonique, au moins jusqu'à certain point. Si vous donnez l'accord parfait majeur à la tonique, à la dominante et à la sous-dominante, vous aurez tous les sons de l'échelle diatonique pour le mode majeur : pour avoir celle du mode mineur, laissant toujours la tierce majeure à la dominante, donnez la tierce mineure aux deux autres accords ; telle est l'analogie du mode.
 
-<span class="atom-split" data-atom="074" data-title="MI. (2/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="074" data-title="MI. (parte 2)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Comme ce mélange d'accords majeurs et mineurs introduit en mode mineur une fausse relation entre la sixième note et la note sensible, on donne quelquefois, pour éviter cette fausse relation, la tierce majeure à la quatrième note en montant, ou la tierce mineure à la dominante en descendant, surtout par renversement ; mais ce sont alors des exceptions.
 
@@ -4154,7 +4154,7 @@ En combinant ensemble ce deux manières, on n'a encore besoin que de sept modes 
 
 Mais outre ces modes on en peut former plusieurs autres, en prenant dans la même série et sur le même son fondamental différents sons pour les cordes essentielles du mode : par exemple, quand on prend pour dominante la quinte du son principal, le mode est authentique ; il est plagal si l'on choisit la quarte ; et ce sont proprement deux modes différents sur la même fondamentale. Or, comme pour constituer un mode agréable, il faut, disent les Grecs, que la quarte et la quinte soient justes, ou du moins une des deux, il est évident qu'on n'a dans l'étendue de l'octave que cinq sons fondamentaux sur chacun desquels on puisse établir un mode authentique et un plagal. Outre ces dix modes on en trouve encore deux, l'un authentique, qui ne peut fournir de plagal, parce que sa quarte fait le triton ; l'autre plagal, qui ne peut fournir d'authentique, parce que sa quinte est fausse. C'est peut-être ainsi qu'il faut entendre un passage de Plutarque où la musique se plaint que Phrynis l'a corrompue en voulant tirer de cinq cordes, ou plutôt de sept, douze harmonies différentes.
 
-<span class="atom-split" data-atom="075" data-title="MI. (3/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="075" data-title="MI. (parte 3)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Voilà donc douze [modes](/concepts/mode) possibles dans l'étendue d'une octave ou de deux tétracordes disjoints : que si l'on vient à conjoindre les deux tétracordes, c'est-à-dire à donner un bémol la septième en retranchant l'octave ; ou si l'on divise les tons entiers par les intervalles harmoniques, pour y introduire de nouveaux modes intermédiaires ; ou si, ayant seulement égard aux différences du grave à l'aigu, on place d'autres modes à l'octave des précédents : tout cela fournira divers moyens de multiplier le nombre des modes beaucoup au-delà de douze. Et ce sont là les seuls manières d'expliquer les divers nombres de modes admis ou rejetés par les anciens en divers temps.
 
@@ -4218,7 +4218,7 @@ Pour bien moduler dans un même ton, il faut 1° en parcourir tous les sons avec
 
 Mais, pour passer d'un ton à un autre, il faut consulter l'analogie, avoir égard au rapport des toniques et à la quantité des cordes communes aux deux tons.
 
-<span class="atom-split" data-atom="076" data-title="MI. (4/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="076" data-title="MI. (parte 4)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Partons d'abord du mode majeur : soit que l'on considère la quinte de la tonique comme ayant avec elle le plus simple de tous les rapports après celui de l'octave, soit qu'on la considère comme le premier des sons qui entrent dans la résonance de cette même tonique, on trouvera toujours que cette quinte, qui est la dominante du ton, est la corde sur laquelle on peut établir la modulation la plus analogique à celle du ton principal.
 
@@ -4246,7 +4246,7 @@ J'ai rassemblé dans deux exemples fort courts tous les tons dans lesquels on pe
 
 Ces modulations immédiates fournissent les moyens de passer par les mêmes règles dans des tons plus éloignés, et de revenir ensuite au ton principal, qu'il ne faut jamais perdre de vue. Mais il ne suffit pas de connaître les routes qu'on doit suivre, il faut savoir aussi comment y entrer. Voici le sommaire des préceptes qu'on peut donner en cette partie.
 
-<span class="atom-split" data-atom="077" data-title="MI. (5/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="077" data-title="MI. (parte 5)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Dans la mélodie, il ne faut, pour annoncer la modulation qu'on a choisie, que faire entendre les altérations qu'elle produit dans les sons du ton d'où l'on sort, pour les rendre propres au ton où l'on entre. Est-on en ut majeur, il ne faut que sonner un fa dièse pour annoncer le ton de la dominante, ou un si bémol pour annoncer le ton de la sous-dominante. Parcourez ensuite les cordes essentielles du ton où vous entrez ; s'il est bien choisi, votre modulation sera toujours bonne et régulière.
 
@@ -4314,7 +4314,7 @@ MOUVEMENT, s. m.
 
 Degré de vitesse ou de lenteur que donne à la mesure le caractère de la pièce qu'on exécute. Chaque espèce de mesure a un mouvement qui lui est le plus propre, et qu'on désigne en italien par ces mots [tempo](/concepts/time) giusto. Mais outre celui-là il y a cinq principales modifications de mouvement qui, dans l'ordre du lent au vite, s'expriment par les mots largo, adagio, andante, allegro, presto ; et ces mots se rendent en français par les suivants, lent, modéré, gracieux, gai, vite. Il faut cependant observer que, le mouvement ayant toujours beaucoup moins de précision dans la musique française, les mots qui le désignent y ont un sens beaucoup plus vague que dans la musique italienne.
 
-<span class="atom-split" data-atom="078" data-title="MI. (6/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="078" data-title="MI. (parte 6)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Chacun de ces degrés se subdivise et se modifie encore en d'autres, dans lesquels il faut distinguer ceux qui n'indiquent que le degré de vitesse ou de lenteur, comme larghetto, andantino, allegretto, prestissimo, et ceux qui marquent de plus le caractère et l'expression de l'air, comme agitato, vivace, gustoso, con brio, etc. Les premiers peuvent être saisis et rendus par tous les musiciens, mais il n'y a que ceux qui ont du sentiment et du goût qui sentent et rendent les autres.
 
@@ -4374,7 +4374,7 @@ Celle qui répond à la musique harmonique, et que les anciens appelaient mélop
 
 La seconde, qui répond à la musique rythmique, et qu'ils appelaient rythmopée, contient les règles pour l'application des temps, des pieds, des mesures, en un mot, pour la pratique du rythme. (Voyez rythme)
 
-<span class="atom-split" data-atom="079" data-title="MI. (7/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="079" data-title="MI. (parte 7)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Porphyre donne une autre division de la musique, en tant qu'elle a pour objet la mouvement muet ou sonore, et, sans la distinguer en spéculative et pratique, il y trouve les six parties suivantes : la rythmique, pour les mouvements de la danse ; la métrique, pour la cadence et le nombre des vers ; l'organique, pour la pratique des instruments ; la poétique, pour les tons et l'accent de la poésie ; l'hypocritique, pour les attitudes des pantomimes ; et l'harmonique, pour le chant.
 
@@ -4424,7 +4424,7 @@ Comme les anciens auteurs s'expliquent fort obscurément sur les inventeurs des 
 
 La musique était dans la plus grande estime chez divers peuples de l'antiquité, et principalement chez les Grecs, et cette estime était proportionnée à la puissance et aux effets surprenants qu'ils attribuaient à cet art. Leurs auteurs ne croient pas nous en donner une trop grande idée en nous disant qu'elle était en usage dans le ciel, et qu'elle faisait l'amusement principal des dieux et des âmes des bienheureux. Platon ne craint pas de dire qu'on ne peut faire de changement dans la musique qui n'en soit un dans la constitution de l'état, et il prétend qu'on peut assigner les sons capables de faire naître la bassesse de l'âme, l'insolence, et les vertus contraires. Aristote, qui semble n'avoir écrit sa politique que pour opposer ses sentiments à ceux de Platon, est pourtant d'accord avec lui touchant la puissance de la musique sur les moeurs. Le judicieux Polybe nous dit que la musique était nécessaire pour adoucir les moeurs des Arcades, qui habitaient un pays où l'air est triste et froid ; que ceux de Cynete, qui négligèrent la musique, surpassèrent en cruauté tous les Grecs, et qu'il n'y a point de ville où l'on ait tant vu de crimes. Athénée nous assure qu'autrefois toutes les lois divines et humaines, les exhortations à la vertu, la connaissance de ce qui concernait les dieux et les héros, les vies et les actions des hommes illustres étaient écrites en vers et chantées publiquement par des choeurs au son des instruments ; et nous voyons par nos livres sacrés que tels étaient, dès les premiers temps, les usages des Israélites. On n'avait point trouvé de moyen plus efficace pour graver dans l'esprit des hommes les principes de la morale et l'amour de la vertu ; ou plutôt tout cela n'était point l'effet d'un moyen prémédité, mais de la grandeur des sentiments et de l'élévation des idées qui cherchaient, par des accents proportionnés à se faire un langage digne d'elles.
 
-<span class="atom-split" data-atom="080" data-title="MI. (8/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="080" data-title="MI. (parte 8)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 La musique faisait partie de l'étude des anciens pythagoriciens : ils s'en servaient pour exciter le [coeur](/positions/fideism) à des actions louables, et pour s'enflammer de l'amour de la vertu. Selon ces philosophes, notre âme n'était pour ainsi dire formée que d'harmonie, et ils croyaient rétablir, par le moyen de l'harmonie sensuelle, l'harmonie intellectuelle et primitive des facultés de l'âme, c'est-à-dire celle qui, selon eux, existait en elle avant qu'elle animât nos corps, et lorsqu'elle habitait les cieux.
 
@@ -4444,7 +4444,7 @@ Pour mettre le lecteur à portée de juger des divers accents musicaux des peupl
 
 J'ai ajouté dans la même Planche le célèbre rans-des-vaches, cet air si chéri des Suisses qu'il fut défendu, sous peine de mort, de le jouer dans leurs troupes, parce qu'il faisait fondre en larmes, déserter ou mourir ceux qui l'entendaient, tant il excitait en eux l'ardent désir de revoir leurs pays. On cherchait en vain dans cet air les accents énergiques capables de produire de si étonnants effets : ces effets, qui n'ont aucun lieu sur les étrangers, ne viennent que de l'habitude, des souvenirs, de mille circonstances qui, retracées par cet air à ceux qui l'entendent, et leur rappelant leur pays, leurs anciens plaisirs, leur jeunesse et toutes leurs façons de vivre, excitent en eux une douleur amère d'avoir perdu tout cela. La musique alors n'agit point précisément comme musique, mais comme signe mémoratif. Cet air, quoique toujours le même, ne produit plus aujourd'hui les mêmes effets qu'il produisait ci-devant sur les Suisses, parce que, ayant perdu le goût de leur première simplicité, ils ne la regrettent plus quand on la leur rappelle : tant il est vrai que ce n'est pas dans leur action physique qu'il faut chercher les plus grands effets des sons sur le coeur humain.
 
-<span class="atom-split" data-atom="081" data-title="MI. (9/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="081" data-title="MI. (parte 9)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 La manière dont les anciens notaient leur musique était établie sur un fondement très simple, qui était le rapport des chiffres, c'est-à-dire par les lettres de leur alphabet ; mais, au lieu de se borner sur cette idée à un petit nombre de caractères faciles à retenir, ils se perdirent dans des multitudes de signes différents dont ils embrouillèrent gratuitement leur musique ; en sorte qu'ils avaient autant de manières de noter que de genres et de modes. Boëce prit dans l'alphabet latin des caractères correspondants à ceux des Grecs : le pape Grégoire perfectionna sa méthode. En 1024, Gui d'Arezzo, bénédictin, introduisit l'usage des portées ;(voyez PORTÉE) sur les lignes desquelles il marqua les notes en [forme](/positions/realism_of_ideas) de points ; (voyez NOTES) désignant par leur position l'élévation ou l'abaissement de la voix. Kircher cependant prétend que cette invention est antérieure à Gui ; et, en effet, je n'ai pas vu dans les écrits de ce moine qu'il se l'attribue : mais il inventa la gamme, et appliqua aux notes de son hexacorde les noms tirés de l'hymne de saint Jean-Baptiste, qu'elles conservent encore aujourd'hui. (voyez Pl. G, fig. 2) Enfin cet homme né pour la musique inventa différents instruments appelés polyplectra, tels que le clavecin, l'épinette, la vielle, etc. (Voyez GAMME)
 
@@ -4498,7 +4498,7 @@ Terme de plain-chant. La neume est une espèce de courte récapitulation du chan
 
 NEUVIÈME, s. f.
 
-<span class="atom-split" data-atom="082" data-title="MI. (10/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="082" data-title="MI. (parte 10)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Octave de la seconde. Cet intervalle porte le nom de neuvième, parce qu'il faut former neuf sons consécutifs pour arriver diatoniquement d'un de ces deux termes à l'autre. La neuvième est majeure ou mineure, comme la seconde dont elle est la réplique. (Voyez SECONDE.)
 
@@ -4556,7 +4556,7 @@ Les Grecs se servaient des lettres de leur alphabet pour noter leur musique. Or 
 
 Mais il faut remarquer, en premier lieu, que les deux mêmes sons étant tantôt à l'extrémité et tantôt au milieu du troisième tétracorde, selon le lieu où se faisait la disjonction, (voyez ce mot.) on donnait à chacun de ces sons des noms et des signes qui marquaient ces diverses situations ; secondement, que ces seize sons n'étaient pas tous les mêmes dans les trois genres, qu'il y en avait de communs aux trois, et de propre à chacun, et qu'il fallait, par conséquent, des notes pour exprimer ces différences : troisièmement, que la musique se notait pour les instruments autrement que pour les voix, comme nous avons encore aujourd'hui, pour certains instruments à cordes, une tablature qui ne ressemble en rien à celle de la musique ordinaire ; enfin que les anciens ayant jusqu'à quinze modes différents, selon le dénombrement d'Alypius, (voyez MODE.) il fallut approprier des caractères à chaque mode, comme on le voit dans les tables du même auteur. Toutes ces modifications exigeaient des multitudes de signes auxquels les vingt-quatre lettres étaient bien éloignées de suffire. De là la nécessité d'employer les mêmes lettres pour plusieurs sortes de notes ; ce qui les obligea de donner à ces lettres différentes situations, de les accoupler, de les mutiler, de les allonger en divers sens. Par exemple, la lettre pi, écrite de toutes les manières, exprimait cinq différentes notes. En combinant toutes les modifications qu'exigeaient ces diverses circonstances, on trouve jusqu'à 1620 différentes notes : nombre prodigieux, qui devait rendre l'étude de la musique de la plus grande difficulté. Aussi l'était-elle, selon Platon, qui veut que les jeunes gens se contentent de donner deux ou trois ans à la musique, seulement pour en apprendre les rudiments. Ce pendant les Grecs n'avaient pas un si grand nombre de caractères, mais la même note avait quelquefois différentes significations selon les occasions : ainsi le même caractère qui marque la proslambanomène du mode lydien marque la parhypate-meson du mode hypo-ïastien, l'hypate-meson de l'hypo-phrygien, le lychanos-hypaton de l'hypo-lydien, la pathypate-hypaton de l'ïastien, et l'hypate-hypaton du phrygien. Quelquefois aussi la note change, quoique le son reste le même ; comme, par exemple, la proslambanomène de l'hypo-phrygien, laquelle a un même signe dans les modes hyper-phrygien, hyper-dorien, phrygien, dorien, hypo-phrygien, et hypo-dorien, et un autre même signe dans les modes lydien et hypo-lydien.
 
-<span class="atom-split" data-atom="083" data-title="MI. (11/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="083" data-title="MI. (parte 11)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 On trouvera (Pl. H, Fig. 1) la table des notes du genre diatonique dans le mode lydien, qui était le plus usité ; ces notes, ayant été préférées à celles des autres modes par Bacchius, suffisent pour entendre tous les exemples qu'il donne dans son ouvrage ; et la musique des Grecs n'étant plus en usage, cette table suffit aussi pour désabuser le public, qui croit leur manière de noter tellement perdue que cette musique nous serait maintenant impossible à déchiffrer. Nous la pourrions déchiffrer tout aussi exactement que les Grecs mêmes auraient pu faire, mais la phraser, l'accentuer, l'entendre, la juger, voilà ce qui n'est plus possible à personne et qui ne le deviendra jamais. En toute musique, ainsi qu'en toute langue, déchiffrer et lire sont deux choses très différentes.
 
@@ -4586,7 +4586,7 @@ Les caractères de la musique ont un double objet ; savoir, de représenter les 
 
 Pour le premier point, de quelque manière que l'on retourne et combine la musique écrite et régulière, on n'y trouvera jamais que des combinaisons de sept notes de la gamme portées à diverses octaves, ou transposées sur différents degrés selon le ton et le mode qu'on aura choisis. L'auteur exprime ces sept sons par les sept premiers chiffres ; de sorte que le chiffre 1 [forme](/positions/realism_of_ideas) la note ut, le 2 la note re, le 3 la note mi, etc. et il les traverse d'une ligne horizontale.
 
-<span class="atom-split" data-atom="084" data-title="MI. (12/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="084" data-title="MI. (parte 12)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Il écrit au-dessus de la ligne les notes qui, continuant de monter, se trouveraient dans l'octave supérieure : ainsi l'ut qui suivrait immédiatement le si en montant d'un demi-ton, doit être au-dessus de la ligne de cette manière ; et de même, les notes qui appartiennent à l'octave aigue, dont cet ut est le commencement, doivent toutes êtres au-dessus de la même ligne. Si l'on entrait dans une troisième octave à l'aigu, il ne faudrait qu'en traverser les notes par une seconde ligne accidentelle au-dessus de la première. Voulez-vous, au contraire, descendre dans les octaves inférieures à celle de la ligne principale ? Écrivez immédiatement au-dessous de cette ligne les notes de l'octave qui la suit en descendant : si vous descendez encore d'une octave, ajoutez une ligne au-dessous, comme vous en avez mis une au-dessus pour monter, etc. Au moyen de trois lignes seulement vous pouvez parcourir l'étendue de cinq octaves : ce qu'on ne saurait faire dans la musique ordinaire à moins de 18 lignes.
 
@@ -4614,7 +4614,7 @@ Cette partie ainsi remplie, il faut venir au temps ou à la mesure. D'abord l'au
 
 On rapporte dans la musique ordinaire les diverses valeurs des notes à celle d'une note particulière, qui est la ronde ; ce qui fait que la valeur de cette ronde variant continuellement, les notes qu'on lui compare n'ont point de valeur fixe. L'auteur s'y prend autrement : il ne détermine les valeurs des notes que sur la sorte de mesure dans laquelle elles sont employées et sur le temps qu'elles y occupent ; ce qui le dispense d'avoir, pour ces valeurs, aucun signe particulier autre que la place qu'elles tiennent. Une note seule entre deux barres remplit toute une mesure. Dans la mesure à deux temps, deux notes remplissant la mesure forment chacune un temps. Trois notes font la même chose dans la mesure à trois temps. S'il y a quatre notes dans une mesure à deux temps, ou six dans une mesure à trois, c'est que chaque temps est divisé en deux parties égales : on passe deux notes pour un temps ; on en passe trois quand il y a six notes dans l'une et neuf dans l'autre. En un mot, quand il n'y a nul signe d'inégalité, les notes sont égales, leur nombre se distribue dans une mesure, selon le nombre des temps et l’espèce de la mesure : pour rendre cette distribution plus aisée on sépare, si l’on veut, les temps par des virgules ; de sorte qu'en lisant la musique, on voit clairement la valeur des notes, sans qu'il faille pour cela leur donner aucune figure particulière.
 
-<span class="atom-split" data-atom="085" data-title="MI. (13/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="085" data-title="MI. (parte 13)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Les divisions inégales se marquent avec la même facilité. Ces inégalités ne sont jamais que des subdivisions qu'on ramène à l'égalité par un trait dont on couvre deux ou plusieurs notes. Par exemple, si un temps contient une croche et deux doubles-croches, un trait en ligne droite, au-dessus ou au-dessous des deux doubles-croches, montrera qu'elles ne font ensemble qu'une quantité égale à la précédente, et par conséquent qu'une croche. Ainsi le temps entier se retrouve divisé en deux parties égales ; savoir, la note seule et le trait qui en comprend deux. Il y a encore des subdivisions d'inégalité qui peuvent exiger deux traits ; comme si une croche pointée était suivie de deux triples-croches, alors il faudrait premièrement un trait sur les deux notes qui représentent les triples-croches, ce qui les rendrait ensemble égales au point ; puis un second trait qui, couvrant le trait précédent et le point, rendrait tout ce qu'il couvre égal à la croche. Mais quelque vitesse que puissent avoir les notes, ces traits ne sont jamais nécessaires que quand les valeurs sont inégales ; et quelque inégalité qu'il puisse y avoir, on n'aura jamais besoin de plus de deux traits, surtout en séparant les temps par des virgules, comme on verra dans l'exemple ci-après.
 
@@ -4676,7 +4676,7 @@ II. L'octave embrasse encore toutes les consonances et toutes les différences, 
 
 qui revient à celle-ci :
 
-<span class="atom-split" data-atom="086" data-title="MI. (14/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="086" data-title="MI. (parte 14)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Où l'on trouve toutes les consonances dans cet ordre : la tierce mineure, la tierce majeure, la quarte, la quinte, la sixte mineure, la sixte majeure, et enfin l'octave. Par cette table on voit que les consonances simples sont toutes contenues entre l'octave et l'unisson ; elles peuvent même être entendues toutes à la fois dans l'étendue d'une octave sans mélange de dissonances. Frappez à la fois ces quatre sons ut mi sol ut, en montant du premier ut à son octave ; ils formeront entre eux toutes les consonances, excepté la sixte majeure, qui est composée, et ne formeront nul autre intervalle. Prenez deux de ces mêmes sons comme il vous plaira, l'intervalle en sera toujours consonant. C'est de cette union de toutes les consonances que l'accord qui les produit s'appelle accord parfait.
 
@@ -4736,7 +4736,7 @@ Les parties constitutives d'un opéra sont, le poème, la musique, et la décora
 
 L'art de combiner agréablement les sons peut être envisagé sous deux aspects très différents. Considérée comme une institution de la nature, la musique borne son effet à la sensation et au plaisir physique qui résulte de la mélodie, de l'harmonie et du rythme : telle est ordinairement la musique d'église ; tels sont les airs à danser, et ceux des chansons. Mais comme partie essentielle de la scène lyrique, dont l'objet principal est l'imitation, la musique devient un des beaux-arts, capable de peindre tous les tableaux, d'exciter tous les sentiments, de lutter avec la poésie, de lui donner une force nouvelle, de l'embellir de nouveaux charmes, et d'en triompher en la couronnant.
 
-<span class="atom-split" data-atom="087" data-title="MI. (15/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="087" data-title="MI. (parte 15)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Les sons de la voix parlant, n'étant ni soutenus ni harmoniques, sont inappréciables, et ne peuvent par conséquent s'allier agréablement avec ceux de la voix chantante et des instruments, au moins dans nos langues, trop éloignées du caractère musical ; car on ne saurait entendre les passages des Grecs sur leur manière de réciter qu'en supposant leur langue tellement accentuée que les inflexions du discours dans la déclamation soutenue formassent entre elles des intervalles musicaux et appréciables : ainsi l'on peut dire que leurs pièces de théâtre étaient des espèces d'opéra ; et c'est pour cela même qu'il ne pouvait y avoir d'opéra proprement dit parmi eux.
 
@@ -4754,7 +4754,7 @@ A la naissance de l'opéra, ses inventeurs, voulant éluder ce qu'avait de peu n
 
 Avec tout cela l'action restait toujours froide, et toutes les situations manquaient d'intérêt. Comme il n'y avait point d'intrigue qu'on ne dénouât facilement à l'aide de quelque dieu, le spectateur, qui connaissait tout le pouvoir du poète, se reposait tranquillement sur lui du soin de tirer ses héros des plus grands dangers. Ainsi l'appareil était immense et produisait peu d'effet, parce que l'imitation était toujours imparfaite et grossière, que l'action prise hors de la nature, est sans intérêt pour nous, et que les sens se prêtent mal à l'illusion quand le coeur ne s'en mêle pas ; de sorte qu'à tout compter il eût été difficile d'ennuyer une assemblée à plus grands frais.
 
-<span class="atom-split" data-atom="088" data-title="MI. (16/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="088" data-title="MI. (parte 16)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Ce spectacle, tout imparfait qu'il était, fit longtemps l'admiration des contemporains qui n'en connaissaient point de meilleur : ils se félicitaient même de la découverte d'un si beau genre ; voilà, disaient-ils, un nouveau principe joint à ceux d'Aristote ; voilà l'admiration ajoutée la terreur et à la pitié. Ils ne voyaient pas que cette richesse apparente n'était au fond qu'un signe de stérilité, comme les fleurs qui couvrent les champs avant la moisson. C'était faute de savoir toucher qu'ils voulaient surprendre, et cette admiration prétendue n'était en effet qu'un étonnement puéril dont ils auraient dû rougir ; un faux air de magnificence, de féerie et d'enchantement, leur en imposait au point qu'ils ne parlaient qu'avec enthousiasme et respect d'un théâtre qui ne méritait que des huées ; ils avaient de la meilleure foi du mode autant de vénération pour la scène même que pour les chimériques objets qu'on tâchait d'y représenter : comme s'il y avait plus de mérite à faire parler platement le roi des dieux que le dernier des mortels, et que les valets de Molière ne fussent pas préférables aux héros de Pradon !
 
@@ -4768,7 +4768,7 @@ L'énergie de tous les sentiments, la violence de toutes les passions, sont donc
 
 Ces nouveaux poèmes, que le génie avait créés, et que lui seul pouvait soutenir, écartèrent sans efforts les mauvais musiciens qui n'avaient que la mécanique de leur art, et, privés du feu de l'invention et du don de l'imitation, faisaient des opéra comme ils auraient faire des sabots. À peine les cris des Bacchantes, les conjurations des sorciers et tous les chants qui n'étaient qu'un vain bruit furent-ils bannis du théâtre ; à peine eut-on tenté de substituer ce barbare fracas les accents de la colère, de la douleur, des menaces, de la tendresse, des pleurs, des gémissements, et tous les mouvements d'une âme agitée, que, forcés de donner des sentiments aux héros et un langage au coeur humain, les Vinci, les Léo, les Pergolèse, dédaignant la servile imitation de leurs prédécesseurs, et s'ouvrant une nouvelle carrière, la franchirent sur l'aile du génie, et se trouvèrent au but presque dès les premiers pas. Mais on ne peut marcher longtemps dans la route du bon goût sans monter ou descendre, et la perfection est un point où il est difficile de se maintenir. Après avoir essayé et senti ses forces, la musique, en état de marcher seule, commence à dédaigner la poésie qu'elle doit accompagner, et croit en valoir mieux en tirant d'elle-même les beautés qu'elle partageait avec sa compagne. Elle se propose encore, il est vrai, de rendre les idées et les sentiments du poète ; mais elle prend en quelque sorte un autre langage ; et quoique l'objet soit le même, le poète et le musicien, trop séparés dans leur travail, en offrent à la fois deux images ressemblantes, mais distinctes, qui se nuisent mutuellement. L'esprit, forcé de se partager, choisit et se fixe une image plutôt qu'à l'autre. Alors le musicien, s'il a plus d'art que le poète, l'efface et le fait oublier : l'acteur, voyant que le spectateur sacrifice les paroles à la musique, sacrifice à son tour le geste et l'action théâtrale au chant et au brillant de la voix ; ce qui fait tout-à-fait oublier la pièce, et change le spectacle en un véritable concert. Que si l'avantage, au contraire, se trouve du côté du poète, la musique à son tour deviendra presque indifférente, et le spectateur, trompé par le bruit, pourra prendre le change au point d'attribuer à un mauvais musicien le mérite d'un excellent poète, et de croire admirer des chefs-d'oeuvre d'harmonie en admirant des poèmes bien composés.
 
-<span class="atom-split" data-atom="089" data-title="MI. (17/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="089" data-title="MI. (parte 17)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Tels sont les défauts que la perfection absolue de la musique et son défaut d'application à la langue peuvent introduire dans les opéra à proportion du concours de ces deux causes. Sur quoi l'on doit remarquer que les langues les plus propres à fléchir sous les lois de la mesure et de la mélodie sont celles où la duplicité dont je viens de parler est la moins apparente, parce que la musique se prêtant seulement aux idées de la poésie, celle-ci se prête à son tour aux inflexions de la mélodie, et que, quand la musique cesse d'observer le rythme, l'accent et l'harmonie du vers, le vers se plie et s'asservit à la cadence de la mesure et à l'accent musical. Mais lorsque la langue n'a ni douceur ni flexibilité, l'âpreté de la poésie l'empêche de s'asservir au chant, la douceur même de la mélodie l'empêche de se prêter à la bonne récitation des vers, et l'on sent, dans l'union forcée de ces deux arts, une contrainte perpétuelle qui choque l'oreille, et détruit à la fois l'attrait de la mélodie et l'effet de la déclamation. Ce défaut est sans remède ; et vouloir à toute force appliquer la musique à une langue qui n'est pas musicale, c'est lui donner plus de rudesse qu'elle n'en aurait sans cela.
 
@@ -4784,7 +4784,7 @@ Voilà comment le concours de l'acoustique et de la perspective peut perfectionn
 
 Ainsi, bien que le peintre n'ait rien à tirer de la partition du musicien, l'habile musicien ne sortira point sans fruit de l'atelier du peintre : non seulement il agitera la mer à son gré, excitera les flammes d'un incendie, fera couler les ruisseaux, tomber la pluie, et grossir les torrents ; mais il augmentera l'horreur d'un d sert affreux, rembrunira les murs d'une prison souterraine, calmera l'orage, rendra l'air tranquille, le ciel serein, et répandra de l'orchestre une fraîcheur nouvelle sur les bocages.
 
-<span class="atom-split" data-atom="090" data-title="MI. (18/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="090" data-title="MI. (parte 18)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Nous venons de voir comment l'union des trois arts qui constituent la scène lyrique [forme](/positions/realism_of_ideas) entre eux un tout très bien lié. On a tenté d'y en introduire un quatrième, dont il me reste à parler.
 
@@ -4816,7 +4816,7 @@ Aujourd'hui ce mot s'applique plus particulièrement à la musique, et s'entend 
 
 Dans les musiques nombreuses en symphonistes, telles que celle d'un opéra, c'est un soin qui n'est pas à négliger que la bonne distribution de l'orchestre. On doit en grande partie à ce soin l'effet étonnant de la symphonie dans les opéras d'Italie. On porte la première attention sur la fabrique même de l'orchestre, c'est-à-dire de l'enceinte qui le contient ; on lui donne les proportions convenables pour que les symphonistes y soient le plus rassemblés et le mieux distribués qu'il est possible : on a soin d'en faire la caisse d'un bois léger et résonnant comme le sapin, de l'établir sur un vide avec des arcs-boutants, d'en écarter les spectateurs par un râteau placé dans le parterre à un pied ou deux de distance ; de sorte que le corps même de l'orchestre portant, pour ainsi dire, en l'air, et ne touchant presque rien, vibre et résonne sans obstacle, et forme comme un grand instrument qui répond à tous les autres et en augmente l'effet.
 
-<span class="atom-split" data-atom="091" data-title="MI. (19/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="091" data-title="MI. (parte 19)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 À l'égard de la distribution intérieure, on a soin, 1° que le nombre de chaque espèce d'instrument se proportionne à l'effet qu'ils doivent produire tous ensemble ; que, par exemple, les basses n'étouffent pas les dessus et n'en soient pas étouffées ; que les hautbois ne dominent pas sur les violons, ni les seconds sur les premiers. 2° que les instruments de chaque espèce, excepté les basses, soient rassemblés entre eux, pour qu'ils s'accordent mieux et marchent ensemble avec plus d'exactitude. 3° que les basses soient dispersées autour des deux clavecins et par tout l'orchestre, parce que c'est la basse qui doit régler et soutenir toutes les autres parties, et que tous les musiciens doivent l'entendre également. 4° que tous les symphonistes aient l'oeil sur le maître à son clavecin, et le maître sur chacun d'eux ; que de même chaque violon soit vu de son premier et le voie : c'est pourquoi ces instrument étant et devant être le plus nombreux, doit être distribué sur deux lignes qui se regardent ; savoir, les premiers assis en face du théâtre le dos tourné vers les spectateurs ; les seconds vis-à-vis d'eux, le dos tourné vers le théâtre, etc.
 
@@ -4856,7 +4856,7 @@ La raison qu'ils donnent de cette distribution est que dans un spectacle nombreu
 
 Notre vieille routine d'ouvertures a fait naître en France une plaisante idée. Plusieurs se sont imaginé qu'il y avait une telle convenance entre la forme des ouvertures de Lully et un opéra quelconque, qu'on ne saurait la changer sans rompre l'accord du tout ; de sorte que d'un début de symphonie qui serait dans un autre goût, tel, par exemple, qu'une ouverture italienne, ils diront avec mépris que c'est une sonate et non pas une ouverture : comme si toute ouverture n'était pas une sonate.
 
-<span class="atom-split" data-atom="092" data-title="MI. (20/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="092" data-title="MI. (parte 20)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Je sais bien qu'il serait à désirer qu'il y eût un rapport propre et sensible entre le caractère d'une ouverture et celui de l'ouvrage qu'elle annonce ; mais au lieu de dire que toutes les ouvertures doivent être jetés au même moule, cela dit précisément le contraire. D'ailleurs, si nos musiciens manquent si souvent de saisir le vrai rapport de la musique aux paroles dans chaque morceau, comment saisiront-ils les rapports plus éloignés et plus fins entre l'ordonnance d'une ouverture et celle du corps entier de l'ouvrage ? Quelques musiciens se sont imaginé bien saisir ces rapports en rassemblant d'avance dans l'ouverture tous les caractères exprimés dans la pièce, comme s'ils voulaient exprimer deux fois la même action, et que ce qui est à venir fût déjà passé. Ce n'est pas cela ; l'ouverture la mieux entendue est celle qui dispose tellement les coeurs des spectateurs qu'ils s'ouvrent sans effort à l'intérêt qu'on veut leur donner dès le commencement de la pièce : voilà le véritable effet que doit produire une bonne ouverture, voilà le plan sur lequel il la faut traiter.
 
@@ -4928,7 +4928,7 @@ PARTIE, s. f.
 
 C'est le nom de chaque voix ou mélodie séparée, dont la réunion forme le concert. Pour constituer un accord il faut que deux sons au moins se fassent entendre à la fois ; ce qu'une seule voix ne saurait faire. Pour former en chantant une harmonie ou une suite d'accords, il faut donc plusieurs voix : le chant qui appartient à chacune de ces voix, s'appelle partie, et la collection de toutes les parties d'un même ouvrage écrites l'une au-dessous de l'autre, s'appelle partition. (Voyez PARTITION)
 
-<span class="atom-split" data-atom="093" data-title="MI. (21/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="093" data-title="MI. (parte 21)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Comme un accord complet est composé de quatre sons, il y a aussi dans la musique quatre parties principales, dont la plus aiguë s'appelle dessus, et se chante par des voix de femmes, d'enfants ou de musici ; les trois autres sons, la haute-contre, la taille, et la basse, qui toutes appartiennent à des voix d'hommes. On peut voir (Planche F, fig. 6) l'étendue de voix de chacune de ces parties, et la clef qui lui appartient. Les notes blanches montrent les sons pleins où chaque partie peut arriver tant en haut qu'en bas ; et les croches qui suivent montrent les sons où la voix commencerait à se forcer, et qu'elle ne doit former qu'en passant. Les voix italiennes excèdent presque toujours cette étendue dans le haut, surtout les dessus ; mais la voix devient alors une espèce de faucet, et avec quelque art que ce défaut se déguise, c'en est certainement un.
 
@@ -4972,7 +4972,7 @@ Ornement dont on charge un trait de chant, pour l'ordinaire assez court, lequel 
 
 PASSE-PIED, s. m.
 
-<span class="atom-split" data-atom="094" data-title="MI. (22/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="094" data-title="MI. (parte 22)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Air d'une danse de même nom, fort commune, dont la mesure est triple, se marque 3/8, et se bat à un temps. Le mouvement en est plus vif que celui du menuet, le caractère de l'air à peu près semblable ; excepté que le passe-pied admet la syncope, et que le menuet ne l'admet pas. Les mesures de chaque reprise y doivent entrer de même en nombre pairement pair. Mais l'air du passe-pied, au lieu de commencer sur le frappé de la mesure, doit dans chaque reprise commencer sur la corde qui le précède.
 
@@ -5054,7 +5054,7 @@ La petteia est, selon Aristide Quintilien, l'art de discerner les sons dont on d
 
 C'est la petteia qui constitue les modes de la musique ; elle détermine le compositeur dans le choix du genre de mélodie relatif au mouvement qu'il veut peindre ou exciter dans l'âme, selon les personnes et selon les occasions ; en un mot la petteia, partie de l'hermosménon qui regarde la mélodie, est à cet égard ce que les moeurs sont en poésie.
 
-<span class="atom-split" data-atom="095" data-title="MI. (23/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="095" data-title="MI. (parte 23)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 On ne voit pas ce qui a porté les anciens à lui donner ce nom, à moins qu'ils ne l'aient pris de leur jeu d'échecs, la petteia, dans la musique, étant une règle pour combiner et arranger les sons, comme le jeu d'échecs en est une autre pour arranger les pièces appelées calculi.
 
@@ -5126,7 +5126,7 @@ PLAIN-CHANT, s. m.
 
 C'est le nom qu'on donne dans l'Église romaine au chant ecclésiastique. Ce chant, tel qu'il subsiste encore aujourd'hui, est un reste bien défiguré, mais bien précieux de l'ancienne musique grecque, laquelle après avoir passé par les mains des barbares, n'a pu perdre encore toutes ses premières beautés : il lui en reste assez pour être de beaucoup préférable, même dans l'état où il est actuellement, et pour l'usage auquel il est destiné, à ces musiques efféminées et théâtrales, ou maussades et plates, qu'on y substitue en quelques églises, sans gravité, sans goût, sans convenance et sans respect pour le lieu qu'on ose ainsi profaner.
 
-<span class="atom-split" data-atom="096" data-title="MI. (24/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="096" data-title="MI. (parte 24)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Le temps où les chrétiens commencèrent d'avoir des églises et d'y chanter des psaumes et d'autres hymnes fut celui où la musique avait déjà perdu presque toute son ancienne énergie par un progrès dont j'ai exposé ailleurs les causes. Les chrétiens s'étant saisis de la musique dans l'état où ils la trouvèrent, lui ôtèrent encore la plus grande force qui lui était restée ; savoir, celle du rythme et du mètre, lorsque, des vers auxquels elle avait toujours été appliquée, ils la transportèrent à la prose des livres sacrés, ou à je ne sais quelle barbare poésie, pire pour la musique que la prose même. Alors l'une des deux parties constitutives s'évanouit ; et le chant, se traînant uniformément et sans aucune espèce de mesure, de notes en notes presque égales, perdit avec sa marche rythmique et cadencée toute l'énergie qu'il en recevait. Il n'y eut plus que quelques hymnes, dans lesquelles, avec la prosodie et la quantité des pieds conservés, on sentit encore un peu la cadence du vers ; mais ce ne fut plus là le caractère général du plain-chant, dégénéré le plus souvent en une psalmodie toujours monotone, et quelquefois ridicule, sur une langue telle que la latine, beaucoup moins harmonieuse et accentuée que la langue grecque.
 
@@ -5142,7 +5142,7 @@ Ambroise, archevêque de Milan, fut, à ce qu'on prétend, l'inventeur du plain-
 
 Ce passage est si curieux que les lecteurs me sauront gré sans doute d'en transcrire ici l'original.
 
-<span class="atom-split" data-atom="097" data-title="MI. (25/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="097" data-title="MI. (parte 25)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 « Et reversus est Rex piissimus Carolus, et celebravit Romae pascha cum domno apostolico. Ecce orta est contention per dies festos Paschae inter cantores Romanorum et Gallorum : dicebant se Galli meliùs cantare et pulchriùs quàm Romani. Dicebant se Romani doctissimè cantilenas ecclesasticas proferre, sicut doct fuerant à sancto Gregorio papâ ; Gallos corruptè cantare, et cantilenam sanam destruendo dilacerare. Quae contentio ante domnum regem Carolum pervenit. Galli verò, propter securitatem domni regis Caroli, valdè exprobrabant cantoribus romanis ; Romani verò, propter auctoritatem magnae doctrinae, eos stultos, rusticos et indoctos velut bruta animalia affirmabant, et doctrinam Sancti Gregorii praeferebant rusticitati eorum : et cum altercatio de neutrà parte finiret, ait Domnus piissimus rex Carolus ad suos cantores : Dicite palàm quis purior est et quis melior, aut fons vivus, aut rivuli ejus longe decurrentes. Responderunt omnes unâ voce fontem, velut caput et originem, puriorem esse ; rivulos autem ejus quantò longiùs a fonte recesserint, tantò turbulentos et sordibus ac immunditiis corruptos ; et ait domnus rex Carolus : Revertimini vos ad fontem sancti Gregorii, quia manifestè corrupistis cantilenam ecclesiasticam. Mox petiit domnus rex Carolus ab Adriano papâ cantores qui Franciam corrigerent de cantu : at ille dedit ei Theodorum et Benedictum, doctissimos cantores qui a sancto Gregorio eruditi fuerant, tribuitque antiphonarios sancti Gregorii, quos ipse notaverat notâ romanâ : domnus verò rex Carolus, revertens in Franciam, misit unum cantorem in Metis civitate, alterum in Suessonis civitate, praecipiens de omnibus civitatibus Franciae magistros scholae antiphonarios eis ad corrigendum tradere, et ab eis discere cantare. Correcti sunt ergò antiphonarii Francorum, quos unusquisque pro suo arbitrio vitiaverat, addens vel minuens ; et omnes Franciae cantores didicerunt notam romanam, quam nunc vocant notam franciscam ; excepto quòd tremulas vel vinnulas, sive collisibiles vel secabiles voces in cantu non poterant perfectè exprimere Franci, naturali voce barbaricâ frangentes in gutture voces, quàm potiùs exprimentes. Majus autem magisterium cantandi in Metis remansit ; quantùnque magisterium romanum superat Metense in arte cantandi, tantò superat Metensis cantilena caeteras scholas Gallorum. Similiter erudierunt romani cantores supradictos cantores Francorum in arte organandi ; et domnus rex Carolus iterùm a Româ artis grammaticae et computatoriae magistros secum adduxit in Franciam, et ubique studium litterarum expandere jussit. Ante ipsum enim domnum regem Carolum in Galliâ nullum studium fuerat liberalium artium. » Vide Annal. et Hist. Francor. ab an. 708. ad an. 990. Scriptores coaetaneos, impr. Francofurti 1594[65]. sub vitâ Caroli-magni.
 
@@ -5208,7 +5208,7 @@ PORT-DE-VOIX, s. m.
 
 Agrément du chant, lequel se marque par une petite note, appelée en italien appoggiatura, et se pratique en montant diatoniquement d'une note à celle qui la suit par un coup de gosier.
 
-<span class="atom-split" data-atom="098" data-title="MI. (26/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="098" data-title="MI. (parte 26)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 PORT-DE-VOIX JETÉ, se fait, lorsque, montant diatoniquement d'une note à sa tierce, on appuie la troisième note sur le son de la seconde, pour faire sentir seulement cette troisième note par un coup de gosier redoublé, tel qu'il est marqué Planche B, figure 13.
 
@@ -5264,7 +5264,7 @@ Ce mot écrit à la tête d'un morceau de musique, indique le plus prompt et le 
 
 PRIMA INTENZIONE.
 
-<span class="atom-split" data-atom="099" data-title="MI. (27/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="099" data-title="MI. (parte 27)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Mot technique italien, qui n'a point de correspondant en français, et qui n'en a pas besoin, puisque l'idée que ce mot exprime n'est pas connue dans la musique française. Un air, un morceau di prima intenzione, est celui qui s'est formé tout d'un coup tout entier et avec toutes ses parties dans l'esprit du compositeur, comme Pallas sortit tout armée du cerveau de Jupiter. Les morceaux di prima intenzione sont de ces rares coups de génie, dont toutes les idées sont si étroitement liées qu'elles n'en font pour ainsi dire qu'une seule, et n'ont pu se présenter à l'esprit l'une sans l'autre ; ils sont semblables à ces périodes de Cicéron, longues, mais éloquentes, dont le sens, suspendu pendant toute leur durée, n'est déterminé qu'au dernier mot, et qui, par conséquent, n'ont formé qu'une seule pensée dans l'esprit de l'auteur. Il y a dans les arts des inventions produites par de pareils efforts de génie, et sont tous les raisonnements, intimement unis l'un à l'autre, n'ont pu se faire successivement, mais se sont nécessairement offerts à l'esprit tout à la fois, puisque le premier, sans le dernier, n'aurait en aucun sens. Telle est, par exemple, l'invention de cette prodigieuse machine du métier à bas, qu'on peut regarder, dit le philosophe qui l'a décrite dans l'Encyclopédie, comme un seul et unique raisonnement dont la fabrication de l'ouvrage est la conclusion. Ces sortes d'opérations de l'entendement, qu'on explique à peine même par l'analyse, sont des prodiges pour la raison, et ne se conçoivent que par les génies capables de les produire ; l'effet en est toujours proportionné à l'effort de tête qu'ils ont coûté, et dans la musique, les morceaux di prima intenzione sont les seuls qui puissent causer ces extases, ces ravissements, ces élans de l'âme qui transportent les auditeurs hors d'eux-mêmes ; on les sent, on les devine à l'instant, les connaisseurs ne s'y trompent jamais. À la suite d'un de ces morceaux sublimes faites passer un de ces airs décousus, dont toutes les phrases ont été composées l'une après l'autre, ou ne se sont qu'une même phrase promenée en différents tons, et dont l'accompagnement n'est qu'un remplissage fait après coup ; avec quelque goût que ce dernier morceau soit composé, si le souvenir de l'autre vous laisse quelque attention à lui donner, ce ne sera que pour en être glacés, transis, impatientés. Après un air di prima intenzione, toute autre musique est sans effet.
 
@@ -5322,7 +5322,7 @@ Lorsqu'une proportion continue se prolonge, c'est-à-dire lorsqu'elle a plus de 
 
 Ainsi ces quatre termes 2, 4, 6, 8, forment une progression arithmétique, qu'on peut prolonger autant qu'on veut en ajoutant la différence au dernier terme.
 
-<span class="atom-split" data-atom="100" data-title="MI. (28/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="100" data-title="MI. (parte 28)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Et ces quatre termes 2, 4, 8, 16, forment une progression géométrique, qu'on peut de même prolonger autant qu'on veut en doublant le dernier terme, ou en général, en le multipliant par le quotient du second terme divisé par le premier, lequel quotient s'appelle l'exposant du rapport ou de la progression.
 
@@ -5414,7 +5414,7 @@ La quarte peut s'altérer de deux manières ; savoir, en diminuant son intervall
 
 Il y a un accord qui porte le nom de quarte, ou quarte et quinte ; quelques-uns l'appellent accord de onzième : c'est celui où sous un accord de septième on suppose à la basse un cinquième son, une quinte au-dessous du fondamental ; car alors ce fondamental fait quinte, et sa septième fait onzième avec le son supposé. (Voyez SUPPOSITION)
 
-<span class="atom-split" data-atom="101" data-title="MI. (29/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="101" data-title="MI. (parte 29)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Un autre accord s'appelle quarte-superflue ou triton. C'est un accord sensible dont la dissonance est portée à la basse ; car alors la note sensible fait triton sur cette dissonance. (Voyez ACCORD)
 
@@ -5508,7 +5508,7 @@ Action de réciter la musique. (Voyez RÉCITER)
 
 RÉCITATIF, s. m.
 
-<span class="atom-split" data-atom="102" data-title="MI. (30/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="102" data-title="MI. (parte 30)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Discours récité d'un ton musical et harmonieux. C'est une manière de chant qui approche beaucoup de la parole, une déclamation en musique, dans laquelle le musicien doit imiter, autant qu'il est possible, les inflexions de voix du déclamateur. Ce chant est nommé récitatif, parce qu'il s'applique à la narration, au récit, et qu'on s'en sert dans le dialogue dramatique. On a mis dans le Dictionnaire de l'Académie que le récitatif doit être débité : il y a des récitatifs qui doivent être débités, d'autres qui doivent être soutenus.
 
@@ -5530,7 +5530,7 @@ Le récitatif ne doit servir qu'à lier la contexture du drame, à séparer et f
 
 J'ajoute que, quoiqu'on ne cherche pas communément dans le récitatif la même énergie d'expression que dans les airs, elle s'y trouve pourtant quelquefois ; et quand elle s'y trouve, elle y fait plus d'effet que dans les airs mêmes. Il y a peu de bons opéras où quelque grand morceau de récitatif n'excite l'admiration des connaisseurs, et l'intérêt dans tout le spectacle ; l'effet de ces morceaux montre assez que le défaut qu'on impute au genre n'est que la manière de la traiter.
 
-<span class="atom-split" data-atom="103" data-title="MI. (31/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="103" data-title="MI. (parte 31)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 M. Tartini rapporte avoir entendu, en 1714, à l'opéra d'Ancône, un morceau de récitatif d'une seule ligne, et sans autre accompagnement que la basse, faire un effet prodigieux, non seulement sur les professeurs de l'art, mais sur tous les spectateurs. « C'était, dit-il au commencement du troisième acte. À chaque représentation un silence profond dans tout le spectacle annonçait les approches de ce terrible morceau ; on voyait les visages pâlir, on se sentait frissonner, et l'on se regardait l'un l'autre avec une sorte d'effroi : car ce n'étaient ni des pleurs, ni des plaintes ; c'était un certain sentiment de rigueur âpre et dédaigneuse qui troublait l'âme, serrait le cœur, et glaçait le sang. » Il faut transcrire le passage original : ces effets sont si peu connus sur nos théâtres que notre langue est peu exercée à les exprimer.
 
@@ -5588,7 +5588,7 @@ On pourrait aussi donner à cette septième note l'accord de petite-sixte, dont 
 
 On pourrait chiffrer sixte-quarte sur cette sixième note, et ce serait alors l'accord parfait de la seconde ; mais je doute que les musiciens approuvassent un renversement aussi mal entendu que celui-là ; renversement que l'oreille n'adopte point, et sur un accord qui éloigne trop l'idée de la modulation principale.
 
-<span class="atom-split" data-atom="104" data-title="MI. (32/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="104" data-title="MI. (parte 32)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 On pourrait changer l'accord de la dominante en lui donnant la sixte-quarte au lieu de la septième, et alors la sixte simple irait très bien sur la sixième note qui suit ; mais la sixte-quarte irait très mal sur la dominante, à moins qu'elle n'y fût suivie de l'accord parfait ou de la septième ; ce qui ramènerait la difficulté. Une règle qui sert non seulement dans la pratique, mais de modèle pour la pratique, ne doit point se tirer de ces combinaisons théoriques rejetées par l'oreille ; et chaque note, surtout la dominante, y doit porter son accord propre, lorsqu'elle peut en avoir un.
 
@@ -5646,7 +5646,7 @@ Partout où un accord direct sera bien placé, ses renversements seront bien pla
 
 À l'égard des accords par supposition, il faut plus de précautions pour les renverser. Comme le son qu'on ajoute à la basse est entièrement étranger à l'harmonie, souvent il n'y est souffert qu'à cause de son grand éloignement des autres sons, qui rend la dissonance moins dure : que si ce son ajouté vient à être transposé dans les parties supérieures, comme il l'est quelquefois ; si cette transposition n'est faite avec beaucoup d'art, elle y peut produire un très mauvais effet ; et jamais cela ne saurait se pratiquer heureusement sans retrancher quelque autre son de l'accord. Voyez au mot ACCORD les cas est le choix de ces retranchements.
 
-<span class="atom-split" data-atom="105" data-title="MI. (33/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="105" data-title="MI. (parte 33)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 L'intelligence parfaite du renversement ne dépend que de l'étude et de l'art : le choix est autre chose ; il faut de l'oreille et du goût, il y faut l'expérience des effets divers ; et quoique le choix du renversement soit indifférent pour le fond de l'harmonie, il ne l'est pas pour l'effet et l'expression. Il est certain que la basse-fondamentale est faite pour soutenir l'harmonie et régner au-dessous d'elle. Toutes les fois donc qu'on change l'ordre et qu'on renverse l'harmonie, on doit avoir de bonnes raisons pour cela ; sans quoi l'on tombera dans le défaut de nos musiques récentes, où les dessus chantent quelquefois comme des dessus, où tout est confus, renversé, mal ordonné, sans autre raison que de pervertir l'ordre établi et de gâter l'harmonie.
 
@@ -5714,7 +5714,7 @@ C'est rapprocher les parties les unes des autres dans les moindres intervalles q
 
 RESTER, v. n.
 
-<span class="atom-split" data-atom="106" data-title="MI. (34/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="106" data-title="MI. (parte 34)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Rester sur une syllabe, c'est la prolonger plus que n'exige la prosodie, comme on fait sous les roulades, et rester sur une note, c'est y faire une tenue, ou la prolonger jusqu'à ce que le sentiment de la mesure soit oublié.
 
@@ -5756,7 +5756,7 @@ RYTHMOPÉE, s. f.
 
 Partie de la science musicale qui prescrivait à l'art rythmique les lois du rythme et de tout ce qui lui appartient. (Voyez RYTHME) La rythmopée était à la rythmique ce qu'était la mélopée à la mélodie.
 
-<span class="atom-split" data-atom="107" data-title="MI. (35/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="107" data-title="MI. (parte 35)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 La rythmopée avait pour objet le mouvement ou le temps dont elle marquait la mesure, les divisions, l'ordre et le mélange, soit pour émouvoir les passions, soit pour les changer, soit pour les calmer. Elle renfermait aussi la science des mouvements muets, appelés orchesis, et en général de tous les mouvements réguliers. Mais elle se rapportait principalement à la poésie, parce qu'alors la poésie réglait seule les mouvements de la musique, et qu'il n'y avait point de musique purement instrumentale qui eût un rythme indépendant.
 
@@ -5832,7 +5832,7 @@ S. Cette lettre écrite seule dans la partie récitante d'un concerto signifie s
 
 SARABANDE, s. f.
 
-<span class="atom-split" data-atom="108" data-title="MI. (36/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="108" data-title="MI. (parte 36)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Air d'une danse grave, portant le même nom, laquelle paraît nous être venue d'Espagne, et se dansait autrefois avec des castagnettes. Cette danse n'est plus en usage, si ce n'est dans quelques vieux opéras français. L'air de la sarabande est à trois temps lents.
 
@@ -5898,7 +5898,7 @@ C'est, dans nos anciennes musiques, une valeur de note ou une mesure de temps, q
 
 Anciennement la semi-brève se divisait en majeure et mineure. La majeure vaut deux tiers de la brève parfaite, et la mineure vaut l'autre tiers de la même brève : ainsi la semi-brève majeure en contient deux mineures.
 
-<span class="atom-split" data-atom="109" data-title="MI. (37/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="109" data-title="MI. (parte 37)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 La semi-brève, avant qu'on eût inventé la minime, étant la note de moindre valeur, ne se subdivisait plus. Cette indivisibilité, disait-on, est en quelque manière indiquée par sa figure en losange, terminée en-haut, en-bas et des deux côtés par des points. Or, Muris prouve, par l'autorité d'Aristote et d'Euclide, que le point est indivisible ; d'où il conclut que la semi-brève enfermée entre quatre points est indivisible comme eux.
 
@@ -5986,7 +5986,7 @@ SI.
 
 Une des sept syllabes dont on se sert en France pour solfier les notes. Guy Arétin, en composant sa gamme, n'inventa que six de ces syllabes, par ce qu'il ne fit que changer en hexacordes les tétracordes des Grecs, quoiqu'au fond sa gamme fût, ainsi que la nôtre, composée de sept notes. Il arriva de là que, pour nommer la septième, il fallait à chaque instant changer les noms des autres et les nommer de diverses manières ; embarras que nous n'avons plus depuis l'invention du si, sur la gamme duquel un musicien, nommé de Nivers fit, au commencement du siècle, un ouvrage exprès.
 
-<span class="atom-split" data-atom="110" data-title="MI. (38/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="110" data-title="MI. (parte 38)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Brossard, et ceux qui l'ont suivi, attribuent l'invention du si à un autre musicien nommé Le Maire, entre le milieu et la fin du dernier siècle ; d'autres en font honneur à un certain Vander-Putten ; d'autres remontent jusqu'à Jean de Muris, vers l'an 1330 ; et le cardinal Bona dit que dès l'onzième siècle, qui était celui de l'Arétin, Ericius Depuis ajouta une note aux six de Guy, pour éviter les difficultés des muances et faciliter l'étude du chant.
 
@@ -6046,7 +6046,7 @@ La cinquième des six syllabes inventées par l'Arétin, pour prononcer les note
 
 SOLFIER, v. n.
 
-<span class="atom-split" data-atom="111" data-title="MI. (39/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="111" data-title="MI. (parte 39)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 C'est, en entonnant des sons, prononcer en m même temps les syllabes de la gamme qui leur correspondent. Cet exercice est celui par lequel on fait toujours commencer ceux qui apprennent la musique, afin que l'idée de ces différentes syllabes s'unissant dans leur esprit à celle des intervalles qui s'y rapportent, ces syllabes leur aident à se rappeler ces intervalles.
 
@@ -6076,7 +6076,7 @@ Ce mot italien s'est francisé dans la musique, et s'applique à une pièce ou �
 
 SON, s. m.
 
-<span class="atom-split" data-atom="112" data-title="MI. (40/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="112" data-title="MI. (parte 40)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Quand l'agitation communiquée à l'air par la collision d'un corps frappé par un autre parvient jusqu'à l'organe auditif, elle y produit une sensation qu'on appelle bruit. (Voyez BRUIT) Mais il y a un bruit résonnant et appréciable qu'on appelle son. Les recherches sur le son absolu appartiennent au physicien. Le musicien n'examine que le son relatif ; il l'examine seulement par ses modifications sensibles ; et c'est selon cette dernière idée que nous l'envisageons dans cet article.
 
@@ -6108,7 +6108,7 @@ Si l'on fait résonner avec quelque force une des grosses cordes d'une viole ou 
 
 Une difficulté qui reste à expliquer dans la théorie du son, est de savoir comment deux ou plusieurs sons peuvent se faire entendre à la fois. Lorsqu'on entend, par exemple, les deux sons de la quinte, dont l'un fait deux vibrations tandis que l'autre en fait trois, on ne conçoit pas bien comment la même masse d'air peut fournir dans un même temps ces différents nombres de vibrations distincts l'un de l'autre, et bien moins encore lorsqu'il se fait ensemble plus de deux sons et qu'ils sont tous dissonants entre eux. Mengoli et les autres se tirent d'affaire par des comparaisons. Il en est, disent-ils, comme de deux pierres qu'on jette à la fois dans l'eau, et dont les différents cercles qu'elles produisent se croisent sans se confondre. M. de Mairan donne une explication plus philosophique. L'air, selon lui, est divisé en particules de diverses grandeurs, dont chacune est capable d'un ton particulier, et n'est susceptible d'aucun autre ; de sorte qu'à chaque son qui se forme, les particules d'air qui lui sont analogues s'ébranlent seules, elles et leurs harmoniques, tandis que toutes les autres restent tranquilles jusqu'à ce qu'elles soient émues à leur tour par les sons qui leur correspondent ; de sorte qu'on entend à la fois deux sons, comme on voit la fois deux couleurs, parce qu'étant produits par différentes parties ils affectent l'organe en différents points.
 
-<span class="atom-split" data-atom="113" data-title="MI. (41/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="113" data-title="MI. (parte 41)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Ce système est ingénieux, mais l'imagination se prête avec peine à l'infinité de particules d'air différentes en grandeur et en mobilité, qui devraient être répandues dans chaque point de l'espace, pour être toujours prêtes au besoin, à rendre en tout lieu l'infinité de tous les sons possibles. Quand elles sont une fois arrivées au tympan de l'oreille, on conçoit encore moins comment, en le frappant plusieurs ensemble, elles peuvent y produire un ébranlement capable d'envoyer au cerveau la sensation de chacune en particulier. Il semble qu'on a éloigné la difficulté plutôt que de la résoudre : on allègue en vain l'exemple de la lumière dont les rayons se croisent dans un point sans confondre les objets ; car, outre qu'une difficulté n'en résout pas une autre, la parité n'est pas exacte, puisque l'objet est vu sans exciter dans l'air un mouvement semblable à celui qu'y doit exciter le corps sonore pour être ouï. Mengoli semblait vouloir prévenir cette objection en disant que les masses d'air, chargées, pour ainsi dire, de différents sons, ne frappent le tympan que successivement, alternativement, et chacune à son tour ; sans trop songer à quoi il occuperait celles qui sont obligées d'attendre que les premières aient achevé leur office, ou sans expliquer comment l'oreille, frappée de tant de coups successifs, peut distinguer ceux qui appartiennent à chaque son.
 
@@ -6128,7 +6128,7 @@ En effet le compositeur ne considère pas seulement si les sons qu'il emploie do
 
 Mais il est vrai que c'est uniquement dans la comparaison des sons du grave à l'aigu que consiste toute la science harmonique ; de sorte que, comme le nombre des sons est infini, l'on peut dire dans son objet. On ne conçoit point de bornes précises à l'étendue des sons du grave à l'aigu, et quelque petit que puisse être l'intervalle qui est entre deux sons, on le concevra toujours divisible par un troisième son : mais la nature et l'art ont limité cette infinité dans la pratique de la musique. On trouve bientôt dans les instruments les bornes des sons praticables, tant au grave qu'à l'aigu. Allongez ou raccourcissez jusqu'à un certain point une corde sonore, elle n'aura plus de son. L'on ne peut pas non plus augmenter ou diminuer à volonté la capacité d'une flûte ou d'un tuyau d'orgue, ni sa longueur ; il y a des bornes passé lesquelles ni l'un ni l'autre ne résonne plus. L'inspiration a aussi sa mesure et ses lois. Trop faible, elle ne rend point de son ; trop forte, elle ne produit qu'un cri perçant qu'il est impossible d'apprécier. Enfin il est constaté par mille expériences que tous les sons sensibles sont renfermés dans une certaine latitude, passé laquelle, ou trop graves ou trop aigus, ils ne sont plus aperçus ou deviennent inappréciables à l'oreille. M. Euler en a même en quelque sorte fixé les limites, et, selon ses observations, rapportées par M. Diderot dans ses Principes d'Acoustique, tous les sons sensibles sont compris entre les nombres 30 et 7552 ; c'est-à-dire que, selon ce grand géomètre, le son le plus grave appréciable à notre oreille fait 30 vibrations par second, et le plus aigu 7552 vibrations dans le même temps ; intervalle qui renferme à peu près 8 octaves.
 
-<span class="atom-split" data-atom="114" data-title="MI. (42/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="114" data-title="MI. (parte 42)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 D'un autre côté l'on voit, par la génération harmonique des sons, qu'il n'y en a dans leur infinité possible qu'un très petit nombre qui puissent être admis dans le système harmonieux. Car tous ceux qui ne forment pas des consonances avec les sons fondamentaux, ou qui ne naissent pas médiatement ou immédiatement des différences de ces consonances, doivent être proscrits du système. Voilà pourquoi, quelque parfait qu'on suppose aujourd'hui le nôtre, il est pourtant borné à douze sons seulement dans l'étendue d'une octave, desquels douze toutes les autres octaves ne contiennent que des répliques. Que si l'on veut compter toutes ces répliques pour autant de sons différents, en les multipliant par le nombre des octaves auquel est bornée l'étendue des sons appréciables, on trouvera 96 en tout pour le plus grand nombre des sons praticables dans notre musique sur un même son fondamental.
 
@@ -6168,7 +6168,7 @@ On trouvera, Planche G, Figure 3, une table des sons harmoniques, qui peut en fa
 
 Après la première octave, c'est-à-dire depuis le milieu de la corde en avançant vers le chevalet, on retrouve les mêmes sons harmoniques dans le même ordre, sur les mêmes divisions de l'octave aiguë, c'est-à-dire la dix-neuvième sur la dixième mineure, la dix-septième sur la dixième majeure, etc.
 
-<span class="atom-split" data-atom="115" data-title="MI. (43/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="115" data-title="MI. (parte 43)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Je n'ai fait, dans cette table, aucune mention des sons harmoniques relatifs à la seconde et à la septième : premièrement, parce que les divisions qui les forment n'ayant entre elles que des aliquotes fort petites, en rendraient les sons trop aigus pour être agréables, et trop difficiles à tirer par le coup d'archet, et de plus parce qu'il faudrait entrer dans des sous-divisions trop étendues, qui ne peuvent s'admettre dans la pratique ; car le son harmonique du ton majeur serait la vingt-troisième, ou la triple octave de la seconde, et l'harmonique du ton mineur serait la vingt-quatrième, ou la triple octave de la tierce mineure : mais quelle est l'oreille assez fin et la main assez juste pour distinguer et toucher à sa volonté un ton majeur ou un ton mineur ?
 
@@ -6240,7 +6240,7 @@ Sons ou cordes stables : c'étaient, outre la corde proslambanomène, les deux e
 
 STYLE, s. m.
 
-<span class="atom-split" data-atom="116" data-title="MI. (44/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="116" data-title="MI. (parte 44)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Caractère distinctif de composition ou d'exécution. Ce caractère vraie beaucoup selon les pays, le goût des peuples, le génie des auteurs : selon les matières, les lieux, les temps, les sujets, les expressions, etc.
 
@@ -6312,7 +6312,7 @@ SYMPHONIE, s. f.
 
 Ce mot, formé du grec , avec, et , son, signifie, dans la musique ancienne, cette union des sons qui [forme](/positions/realism_of_ideas) un concert. C'est un sentiment reçu, et je crois, démontré, que les Grecs ne connaissaient pas l'harmonie dans le sens que nous donnons aujourd'hui à ce mot. Ainsi leur symphonie ne formait pas des accords, mais elle résultait du concours de plusieurs voix ou de plusieurs instruments, ou d'instruments mêlés aux voix chantant ou jouant la même partie. Cela se faisait de deux manières ; ou tout concertait à l'unisson, et alors la symphonie s'appelait plus particulièrement homophonie ; ou la moitié des concertants était l'octave ou même à la double octave de l'autre, et cela se nommait antiphonie. On trouve la preuve de ces distinctions dans les problèmes d'Aristote, section 19.
 
-<span class="atom-split" data-atom="117" data-title="MI. (45/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="117" data-title="MI. (parte 45)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Aujourd'hui le mot de symphonie s'applique à toute musique instrumentale, tant des pièces qui ne sont destinées que pour les instruments, comme les sonates et les concerto, que de celles où les instruments se trouvent mêlés avec les voix, comme dans nos opéra et dans plusieurs autres sortes de musiques. On distingue la musique vocale en musique sans symphonie, qui n'a d'autre accompagnement que la basse-continue ; et musique avec symphonie, qui a au moins un dessus d'instruments, violons, flûtes ou hautbois. On dit d'une pièce qu'elle est en grande symphonie, quand, outre la basse et les dessus, elle a encore deux autres parties instrumentales, savoir, taille et quinte de violon. La musique de la chapelle du roi, celle de plusieurs églises, et celle des opéras sont presque toujours en grande symphonie.
 
@@ -6386,7 +6386,7 @@ Ut — parhypate hypaton.
 
 C'est ce que Boèce appelle le tétracorde de Mercure, quoique Diodore avance que la lyre de Mercure n'avait que trois cordes. Ce système ne demeura pas longtemps borné à si peu de sons ; Chorèbe, fils d'Athis, roi de Lydie, y ajouta une cinquième corde ; Hyagnis, une sixième ; Terpandre, une septième, pour égaler le nombre des planètes ; et enfin Lychaon de Samos, la huitième.
 
-<span class="atom-split" data-atom="118" data-title="MI. (46/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="118" data-title="MI. (parte 46)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Voilà ce que dit Boèce : mais Pline dit que Terpandre, ayant ajouté trois cordes aux quatre anciennes, joua le premier de la cithare à sept cordes ; que Simonide y en joignit une huitième, et Timothée une neuvième. Nicomaque le Gérasénien attribue cette huitième corde à Pythagore, la neuvième à Théophraste de Piérie, puis une dixième à Hystiée de Colophon, et une onzième à Timothée de Milet. Phérécrate, dans Plutarque, fait faire au système un progrès plus rapide ; il donne douze cordes à la cythare de Ménalippide, et autant à celle de Timothée. Et comme Phérécrate était contemporain de ces musiciens, en supposant qu'il a dit en effet ce que Plutarque lui fait dire, son témoignage est d'un grand poids sur un fait qu'il avait sous les yeux.
 
@@ -6410,7 +6410,7 @@ SYSTÈME est encore, ou une méthode de calcul pour déterminer les rapports des
 
 Il faut remarquer que quelques-uns de ces systèmes portent ce nom dans l'une et dans l'autre acception, et des notes pour les exprimer, comme on peut le voir dans les Mémoires de cet auteur, répandus dans ceux de l'Académie des Sciences. (Voyez aussi les mots MÉRIDE, EPTAMÉRIDE, DÉCAMÉRIDE)
 
-<span class="atom-split" data-atom="119" data-title="MI. (47/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="119" data-title="MI. (parte 47)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Tel est encore un autre système plus nouveau, lequel étant demeuré manuscrit, et destiné peut-être à n'être jamais vu du public en entier, vaut la peine que nous en donnions ici l'extrait, qui nous a été communiqué par l'auteur, M. Roualle de Boisgelou, Conseiller au Grand-Conseil, déjà cité dans quelques articles de ce dictionnaire[67].
 
@@ -6508,7 +6508,7 @@ Il est évident, 1° qu'à chaque intervalle diatonique correspond un intervalle
 
 2° Que quand la valeur de r est égale à un de ces nombres 0, 1, 2, 3, 4, 5, 6, l'intervalle est diatonique, soit que cet intervalle vienne de quintes ou de quartes ; mais que si r est égal à un de ces nombres, 6, 7, 8, 9, 10, 11, 12, l'intervalle est chromatique.
 
-<span class="atom-split" data-atom="120" data-title="MI. (48/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="120" data-title="MI. (parte 48)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 3° Que lorsque r = 6, l'intervalle est en même temps diatonique et chromatique, soit qu'il vienne de quintes ou de quartes : tels sont les deux intervalles fa si, appelé triton, et si fa, appelé fausse-quinte ; le triton fa si est dans le rapport n6 : 23, et vient de six quintes ; la fausse-quinte si fa est dans le rapport 24 : n6, et vient de six quartes : où l'on voit que dans les deux cas on a r = 6. Ainsi le triton, comme intervalle diatonique, est une quarte majeure : et, comme intervalle chromatique, une quarte superflue : la fausse-quinte si fa, comme intervalle diatonique, est une quinte mineure ; comme intervalle chromatique, une quinte diminuée. Il n'y a que ces deux intervalles et leurs répliques qui soient dans le cas d'être en même temps diatoniques et chromatiques.
 
@@ -6554,7 +6554,7 @@ Ceci compris, ayant mis les registres convenables, touchez sur l'orgue la pédal
 
 Les sons de cette série confondus dans le son grave formeront dans leur rapports la suite naturelle des fractions 1/1 1/2 1/3 1/4 1/5 1/6, etc., laquelle suite est en progression harmonique.
 
-<span class="atom-split" data-atom="121" data-title="MI. (49/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="121" data-title="MI. (parte 49)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Cette même série sera celle de cordes égales tendues par des poids qui seraient comme les carrés 1/1 1/4 1/9 1/16 1/25 1/36, etc., des mêmes fractions susdites.
 
@@ -6628,7 +6628,7 @@ Cette théorie établie, il s'agit maintenant d'en déduire les faits donnés, e
 
 L'octave, qui n'engendre aucun son fondamental n'étant point essentiel à l'harmonie, peut être retranchée des parties constitutives de l'accord. Ainsi l'accord, réduit à sa plus grande simplicité, doit être considéré sans elle. Alors il est composé seulement de ces trois termes 1 1/3 1/5, lesquels sont en proportion harmonique, et où les deux monades 1/3 1/5 sont les seuls vrais éléments de l'unité sonore, qui porte le nom d'accord parfait ; car la fraction 1/4 est élément de l'octave 1/2, et la fraction 1/6 est octave de la monade 1/3.
 
-<span class="atom-split" data-atom="122" data-title="MI. (50/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="122" data-title="MI. (parte 50)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 Cet accord parfait, 1 1/3 1/5, produit par une seule corde et dont les termes sont en proportion harmonique, est la loi générale de la nature, qui sert de base à toute la science des sons, loi que la physique peut tenter d'expliquer, mais dont l'explication est inutile aux règles de l'harmonie.
 
@@ -6674,11 +6674,11 @@ Laissant à part l'octave du premier intervalle, qui, n'engendrant aucun son fon
 
 Mais les proportions et progressions harmonique et arithmétique, qui constituent le système consonant majeur et mineur, sont opposées par leur nature à la progression géométrique, puisque celle-ci résulte essentiellement des mêmes rapports, et les autres de rapports toujours différents. Donc, si les deux proportions harmonique et arithmétique sont consonantes, la proportion géométrique sera dissonante nécessairement, et par conséquent le système qui résulte de l'exemple Q sera le système des dissonances. Mais ce système, tiré des carrés des ordonnées est lié aux deux précédents tirés des carrés des cordes. Donc le système dissonant est lié de même au système universel harmonique. Il suit de là : 1. que tout accord sera dissonant lorsqu'il contiendra deux intervalles semblables autres que l'octave, soit que ces deux intervalles se trouvent conjoints ou séparés dans l'accord. 2. Que de ces deux intervalles, celui qui appartiendra au système harmonique ou arithmétique, sera consonant, et l'autre dissonant. Ainsi, dans les deux exemples S.T. d'accords dissonants, (Pl. G, Fig. 6) les intervalles GC et ce sont consonants, et les intervalles CF et eg dissonants.
 
-<span class="atom-split" data-atom="123" data-title="MI. (51/51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="123" data-title="MI. (parte 51)" data-chapter="MI." data-kind="atom" data-srclang="fr"></span>
 
 En rapportant maintenant chaque terme de la série dissonante au son fondamental ou engendré C de la série harmonique, on trouvera que les dissonances qui résulteront de ce rapport seront les suivantes, et les seules directes qu'on puisse établir sur le système harmonique.
 
-<span class="atom-split" data-atom="124" data-title="I. La première est la neuvième ou double quinte L. (1/18)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="124" data-title="I. La première est la neuvième ou double quinte L. (parte 1)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
 
 II. La seconde est l'onzième, qu'il ne faut pas confondre avec la simple quarte, attendu que la première quarte ou quarte simple GC, étant dans le système harmonique particulier, est consonante, ce qui n'est pas la deuxième quarte ou onzième CM, étrangère à ce même système.
 
@@ -6722,7 +6722,7 @@ Si donc on rapporte et range successivement selon l'ordre le plus rapproché, le
 
 En notes, la chose est évidente par la seule opération.
 
-<span class="atom-split" data-atom="125" data-title="I. La première est la neuvième ou double quinte L. (2/18)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="125" data-title="I. La première est la neuvième ou double quinte L. (parte 2)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
 
 En rapports numériques, cela se prouve presque aussi facilement : car supposant 360 pour la longueur de la corde entière, ces trois notes C, G, F, seront comme 180, 240, 270 ; leurs accords seront comme dans la Figure 8, Planche G, et l'échelle entière qui s'en déduit sera dans les rapports marqués Planche K, Figure 2, où l'on voit que tous les intervalles sont justes, excepté l'accord parfait D F A, dans lequel la quinte D A est faible d'un comma, de même que la tierce mineure D F, à cause du ton mineur D E ; mais dans tout système ce défaut ou l'équivalent est inévitable.
 
@@ -6762,7 +6762,7 @@ Ce terme 1/7 qui divise harmoniquement l'intervalle de la quarte sol ut ou 6/8�
 
 L'échelle augmentée, ou, comme disaient les Grecs, le genre épaissi de ces trois nouveaux sons placés dans leur rang, sera donc comme l'exemple 12, Planche K, le tout pour le même ton, ou du moins pour les tons naturellement analogues.
 
-<span class="atom-split" data-atom="126" data-title="I. La première est la neuvième ou double quinte L. (3/18)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="126" data-title="I. La première est la neuvième ou double quinte L. (parte 3)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
 
 De ces trois sons ajoutés, dont, comme le fait voir M. Tartine, le premier constitue le genre chromatique, et le troisième l'enharmonique, le sol dièse et le si bémol sont dans l'ordre des dissonances ; mais le si ne laisse pas d'être consonant, quoiqu'il n'appartienne pas au genre diatonique, étant hors de la progression sextuple qui renferme et détermine ce genre ; car, puisqu'il est immédiatement donné par la série harmonique des aliquotes, puisqu'il est moyen harmonique entre la quinte et l'octave du son fondamental, il s'ensuit qu'il est consonant comme eux, et n'a pas besoin d'être ni préparé ni sauvé ; c'est aussi ce que l'oreille confirme parfaitement dans l'emploi régulier de cette espèce de septième.
 
@@ -6814,7 +6814,7 @@ Ce mot s'emploie souvent en musique pour désigner la réunion de plusieurs obje
 
 TACET.
 
-<span class="atom-split" data-atom="127" data-title="I. La première est la neuvième ou double quinte L. (4/18)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="127" data-title="I. La première est la neuvième ou double quinte L. (parte 4)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
 
 Mot latin qu'on emploie dans la musique pour indiquer le silence d'une partie. Quand, dans le cours d'un morceau de musique, on veut marquer un silence d'un certain temps, on l'écrit avec des bâtons ou des pauses. (Voyez ces mots) Mais quand quelque partie doit garder le silence durant un morceau entier, on exprime cela par le mot tacet écrit dans cette partie au-dessus du nom de l'air ou des premières notes du chant.
 
@@ -6870,7 +6870,7 @@ Que si nous poursuivons la progression des quintes jusqu'à la douzième puissan
 
 Mais il faut que le même son mi, qui fait la quinte de la, serve encore à faire la tierce majeure d'ut ; il faut que le même si dièse, qui forme la douzième quinte de ce même ut, en fasse aussi l'octave ; et il faut enfin que ces différents accords concourent à constituer le système général sans multiplier les cordes. Voilà ce qui s'exécute au moyen du tempérament.
 
-<span class="atom-split" data-atom="128" data-title="I. La première est la neuvième ou double quinte L. (5/18)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="128" data-title="I. La première est la neuvième ou double quinte L. (parte 5)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
 
 Pour cela 1. on commence par l'ut du milieu du clavier, et l'on affaiblit les quatre premières quintes en montant jusqu'à ce que la quatrième mi fasse la tierce majeure bien juste avec le premier son ut ; ce qu'on appelle la première preuve. 2. En continuant d'accorder par quintes, dès qu'on est arrivé sur les dièses, on renforce un peu les quintes, quoique les tierces en souffrent ; et, quand on est arrivé au sol dièse, on s'arrête. Ce sol dièse doit faire avec le mi une tierce majeure juste ou du moins souffrable ; c'est la seconde preuve. 3. On reprend l'ut et l'on accorde les quintes au grave, savoir, fa, si bémol, etc., faibles d'abord, puis les renforçant par degrés, c'est-à-dire affaiblissant les sons jusqu'à ce qu'on soit parvenu au re bémol, lequel, pris comme ut dièse, doit se trouver d'accord et faire quintes avec le sol dièse auquel on s'était ci-devant arrêté ; c'est la troisième preuve. Les dernières quintes se trouveront un peu fortes, de même que les tierces majeures ; c'est ce qui rend les tons majeurs de si bémol et de mi bémol sombres et même un peu durs. Mais cette dureté sera supportable si la partition est bien faite ; et d'ailleurs ces tierces, par leur situation, sont moins employées que les premières, et ne doivent que par choix.
 
@@ -6904,7 +6904,7 @@ J'ai suffisamment parlé, au mot RYTHME, des temps de la musique grecque ; il me
 
 Nos anciens musiciens ne reconnaissaient que deux espèces de mesures ou du temps ; lune à trois temps, qu'ils appelaient mesure parfaite ; l'autre à deux, qu'ils traitaient de mesure imparfaite, et ils appelaient temps, modes ou prolations, les signes qu'ils ajoutaient à la clef pour déterminer l'une ou l'autre de ces mesures. Ces signes ne servaient pas à cet unique usage comme ils font aujourd'hui ; mais ils fixaient aussi la valeur relative des notes, comme on a déjà pu voir aux mots MODE et PROLATION, par rapport à la maxime, à la longue et à la semi-brève. À l'égard de la brève, la manière de la diviser était ce qu'ils appelaient plus précisément temps, et ce temps était parfait ou imparfait.
 
-<span class="atom-split" data-atom="129" data-title="I. La première est la neuvième ou double quinte L. (6/18)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="129" data-title="I. La première est la neuvième ou double quinte L. (parte 6)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
 
 Quand le temps était imparfait, la brève ne valait que deux rondes ; et cela se marquait par un demi-cercle ou C. Quelquefois ils tournaient le C à rebours ; et cela marquait une diminution de moitié sur la valeur de chaque note. Nous indiquons aujourd'hui la même chose en barrant le C. Quelques-uns ont aussi appelé temps mineur cette mesure du C barré où les notes ne durent que la moitié de leur valeur ordinaire, et temps majeur celle du C plein ou de la mesure ordinaire à quatre temps.
 
@@ -6964,7 +6964,7 @@ En effet, cet intervalle de quarte est essentiel au tétracorde ; c'est pourquoi
 
 Au contraire, le nombre de quatre cordes d'où le tétracorde a pris son nom, lui est si peu essentiel, qu'on voit, dans l'ancienne musique, des tétracordes qui n'en avaient que trois. Tels furent, durant un temps, les tétracordes enharmoniques. Tel était, selon Meibomius, le second tétracorde du système ancien avant qu'on y eût inséré une nouvelle corde.
 
-<span class="atom-split" data-atom="130" data-title="I. La première est la neuvième ou double quinte L. (7/18)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="130" data-title="I. La première est la neuvième ou double quinte L. (parte 7)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
 
 Quant au premier tétracorde, il était certainement complet avant Pythagore, ainsi qu'on le voit dans le pythagoricien Nicomaque ; ce qui n'empêche pas M. Rameau d'affirmer que, selon le rapport unanime, Pythagore trouva le ton, le diton, le semi-ton, et que du tout il forma le tétracorde diatonique ;(notez que cela ferait un pentacorde :) au lieu de dire que Pythagore trouva seulement les raisons de ces intervalles, lesquels, selon un rapport plus unanime, étaient connus longtemps avant lui.
 
@@ -7036,7 +7036,7 @@ Ce dernier intervalle ne pouvant avoir lieu dans un même mode, ne s'emploie jam
 
 Les tierces consonantes sont l'âme de l'harmonie, surtout la tierce majeure, qui est sonore et brillante : la tierce majeure est plus tendre et plus triste ; elle a beaucoup de douceur, quand l'intervalle en est redoublé, c'est-à-dire qu'elle fait la dixième. En général les tierces veulent être portées dans le haut : dans le bas, elles sont sourdes et peu harmonieuses ; c'est pourquoi jamais duo de basses n'a fait un bon effet.
 
-<span class="atom-split" data-atom="131" data-title="I. La première est la neuvième ou double quinte L. (8/18)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="131" data-title="I. La première est la neuvième ou double quinte L. (parte 8)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
 
 Nos anciens musiciens avaient sur les tierces des lois presque aussi sévères que sur les quintes. Il était défendu d'en faire deux de suite, même d'espèces différentes, surtout par mouvements semblables. Aujourd'hui, qu'on a généralisé par les bonnes lois du mode les règles particulières des accords, on fait sans faute, par mouvements semblables ou contraires, par degrés conjoints ou disjoints, autant de tierces majeures ou mineures consécutives que la modulation en peut comporter, et l'on a des duo fort agréables qui, du commencement à la fin, ne procèdent que par tierces.
 
@@ -7090,7 +7090,7 @@ Ce sont des manières de moduler le plain-chant sur telle ou telle finale prise 
 
 On compte huit tons réguliers, dont quatre authentiques ou principaux, et quatre plagaux ou collatéraux. On appelle tons authentiques ceux où la tonique occupe à peu près le plus bas degré du chant ; mais si le chant descend jusqu'à trois degrés plus bas que le tonique, alors le ton est plagal.
 
-<span class="atom-split" data-atom="132" data-title="I. La première est la neuvième ou double quinte L. (9/18)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="132" data-title="I. La première est la neuvième ou double quinte L. (parte 9)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
 
 Les quatre tons authentiques ont leur finales à un degré l'une de l'autre selon l'ordre de ces quatre notes, re mi fa sol. Ainsi le premier de ces tons répondant au mode dorien des Grecs, le second répond au phrygien, le troisième à l'éolien, (et non pas au lydien, comme disent les symphoniastes) et le dernier au mixo-lydien. C'est saint Miroclet, évêque de Milan, ou, selon d'autres, saint Ambroise, qui, vers l'an 370, choisit ces quatre tons pour en composer le chant de l'église de Milan ; et c'est, à ce qu'on dit, le choix et l'approbation de ces deux évêques qui ont fait donner à ces quatre tons le nom d'authentiques.
 
@@ -7172,7 +7172,7 @@ Changement par lequel on transporte un air ou une pièce de musique d'un ton à 
 
 Comme il n'y a que deux modes dans notre musique, composer en telle ou telle tonique celui de ces deux modes qu'on a choisi. Mais comme l'ordre des sons ne se trouve pas naturellement disposé sur toutes les toniques, comme il devrait l'être pour y pouvoir établir un même mode, on corrige ces différences par le moyen des dièses ou des bémols dont on arme la clef, qui transportent les deux demi-tons de la place où ils étaient, à celle où ils doivent être pour le mode et le ton dont il s'agit. (Voy. CLEF TRANSPOSÉE.)
 
-<span class="atom-split" data-atom="133" data-title="I. La première est la neuvième ou double quinte L. (10/18)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="133" data-title="I. La première est la neuvième ou double quinte L. (parte 10)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
 
 Quand on veut donc transposer dans un ton un air composé dans un autre, il s'agit premièrement d'en élever ou abaisser la tonique et toutes les notes d'un ou de plusieurs degrés, selon le ton que l'on a choisi, puis d'armer la clef comme l'exige l'analogie de ce nouveau ton. Tout cela est égal pour les voix, car en appelant toujours ut la tonique du mode majeur et la celle du mode mineur, elles suivent toutes les affections du mode, sans même y songer. (Voyez SOLFIER.) Mais ce n'est pas pour un symphoniste une attention légère de jouer dans un ton ce qui est noté dans un autre ; car, quoiqu'il se guide par les notes qu'il a sous les yeux, il faut que ses doigts en sonnent de toutes différentes, et qu'il les altère tout différemment selon la différente manière dont la clef doit être armée pour le ton noté, et pour le ton transposé ; de sorte que souvent il doit faire des dièses où il voit des bémols, et vice versa, etc.
 
@@ -7250,7 +7250,7 @@ Ces deux dernières mesures se battent à quatre temps.
 
 III. Triples composées, c'est-à-dire dont la mesure est à trois temps, et chaque temps encore divisé en trois parties égales.
 
-<span class="atom-split" data-atom="134" data-title="I. La première est la neuvième ou double quinte L. (11/18)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="134" data-title="I. La première est la neuvième ou double quinte L. (parte 11)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
 
 Toutes ces mesures triplesse réduisent encore plus simplement à trois espèces, en ne comptant pour telles que celles qui se battent à trois temps ; savoir, la triple de blanches, qui contient une blanche par temps, se marque ainsi 3/2.
 
@@ -7326,7 +7326,7 @@ Il paraît, par cette explication, qu'un son n'en fait jamais résonner un autre
 
 UNISSONI.
 
-<span class="atom-split" data-atom="135" data-title="I. La première est la neuvième ou double quinte L. (12/18)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="135" data-title="I. La première est la neuvième ou double quinte L. (parte 12)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
 
 Ce mot italien, écrit tout au long ou en abrégé dans une partition sur la portée vide du second violon, marque qu'il doit jouer à l'unisson sur la partie du premier ; et ce même mot, écrit sur la portée vide du premier violon, marque qu'il doit jouer à l'unisson sur la partie du chant.
 
@@ -7384,7 +7384,7 @@ VALEUR DES NOTES.
 
 Outre la position des notes, qui en marquent le ton, elles ont toutes quelque figure déterminée qui en marque la durée ou le temps, c'est-à-dire qui détermine la valeur de la note.
 
-<span class="atom-split" data-atom="136" data-title="I. La première est la neuvième ou double quinte L. (13/18)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="136" data-title="I. La première est la neuvième ou double quinte L. (parte 13)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
 
 C'est à Jean de Muris qu'on attribue l'invention de ces figures, vers l'an 1330 : car les Grecs n'avaient point d'autre valeur de notes que la quantité des syllabes ; ce qui seul prouverait qu'ils n'avaient pas musique purement instrumentale. Cependant le P. Mersenne, qui avait lu les ouvrages de Muris, assure n'y avoir rien vu qui pût confirmer cette opinion, et après en avoir lu moi-même la plus grande partie, je n'ai pas été plus heureux que lui : de plus, l'examen des manuscrits du quatorzième siècle, qui sont à la Bibliothèque du roi, ne porte point à juger que les diverses figures de notes qu'on y trouve fussent de si nouvelle institution. Enfin c'est une chose difficile à croire que durant trois cents ans et plus, qui se sont écoulés entre Gui Arétin et Jean de Muris, la musique ait été totalement privée du rythme et de la mesure, qui en font l'âme et le principal agrément.
 
@@ -7448,7 +7448,7 @@ C'est ainsi que nos anciens musiciens appelaient cette partie de la note qu'on a
 
 VITE : en italien presto.
 
-<span class="atom-split" data-atom="137" data-title="I. La première est la neuvième ou double quinte L. (14/18)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="137" data-title="I. La première est la neuvième ou double quinte L. (parte 14)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
 
 Ce mot, à la tête d'un air, indique le plus prompt de tous les mouvements ; et il n'a après lui que son superlatif prestissimo ou presto assai, très vite.
 
@@ -7510,7 +7510,7 @@ Chaque individu a sa voix particulière qui se distingue de toute autre voix par
 
 Le caractère le plus général qui distingue les voix n'est pas celui qui se tire de leur timbre ou de leur volume ; mais du degré qu'occupe ce volume dans le système général des sons.
 
-<span class="atom-split" data-atom="138" data-title="I. La première est la neuvième ou double quinte L. (15/18)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="138" data-title="I. La première est la neuvième ou double quinte L. (parte 15)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
 
 On distingue donc généralement les voix en deux classes ; savoir, les voix aiguës, et les voix graves. La différence comme des unes aux autres est à peu près d'une octave ; ce qui fait que les voix aiguës chantent réellement à l'octave des voix graves, quand elles semblent chanter à l'unisson.
 
@@ -7538,7 +7538,7 @@ Sorte d'air à trois temps propre à une danse de même nom, laquelle est compos
 
 VOLUME.
 
-<span class="atom-split" data-atom="139" data-title="I. La première est la neuvième ou double quinte L. (16/18)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="139" data-title="I. La première est la neuvième ou double quinte L. (parte 16)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
 
 Le volume d'une voix est l'étendue ou l'intervalle qui est entre le son le plus aigu et le son le plus grave qu'elle peut rendre. Le volume des voix les plus ordinaires est d'environ huit à neuf tons ; les plus grandes voix ne passent guère les deux octaves en sons bien justes et bien pleins.
 
@@ -7676,7 +7676,7 @@ PLANCHES DU DICTIONNAIRE DE MUSIQUE
 
 [18] Quoiqu'on entende par mesure la détermination du nombre et du rapport des temps, et par mouvement celle du degré de vitesse, j'ai cru pouvoir ici confondre ces choses sous l'idée générale de modifications de la durée ou du temps.
 
-<span class="atom-split" data-atom="140" data-title="I. La première est la neuvième ou double quinte L. (17/18)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="140" data-title="I. La première est la neuvième ou double quinte L. (parte 17)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
 
 [19] Il n'y a peut-être pas quatre symphonistes français qui sachent la différence de piano et dolce ; et c'est fort inutilement qu'ils la sauraient, car qui d'entre eux serait en état de la rendre ?
 
@@ -7720,7 +7720,7 @@ PLANCHES DU DICTIONNAIRE DE MUSIQUE
 
 [38] Je suis contraint de franciser ce mot, pour exprimer le battement de gosier que les Italiens appellent ainsi, parce que, me trouvant à chaque instant dans la nécessite de me servir du mot de cadence dans une autre acception, il ne m'était pas possible d'éviter autrement des équivoques continuelles.
 
-<span class="atom-split" data-atom="141" data-title="I. La première est la neuvième ou double quinte L. (18/18)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
+<span class="atom-split" data-atom="141" data-title="I. La première est la neuvième ou double quinte L. (parte 18)" data-chapter="I. La première est la neuvième ou double quinte L." data-kind="atom" data-srclang="fr"></span>
 
 [39] Je n'appelle pas avoir une musique, que d'emprunter celle d'une autre langue pour tâcher de l'appliquer à la sienne ; et j'aimerais mieux que nous gardassions notre maussade et ridicule chant que d'associer encore plus ridiculement la mélodie italienne à la langue française. Ce dégoûtant assemblage, qui peut-être fera désormais l'étude de nos musiciens, est trop monstrueux pour être admis, et le caractère de notre langue ne s'y prêtera jamais. Tout au plus quelques pièces comiques pourront-elles passer en faveur de la symphonie ; mais je prédis hardiment que le genre tragique ne sera pas même tenté. On a applaudi, cet été, à l'Opéra-Comique, l'ouvrage d'un boni me de talent, qui paraît avoir écouté la bonne musique avec de bonnes oreilles, et qui en a traduit le genre en français d'aussi près qu'il était possible : ses accompagnements sont bien imités sans être copiés ; et s'il n'a point fait de chant, c'est qu'il n'est pas possible d'en faire. Jeunes musiciens qui vous sentez du talent, continuez de mépriser en public la musique italienne, je sens bien que votre intérêt présent l'exige ; mais hâtez-vous d'étudier en particulier cette langue et cette musique, si vous voulez pouvoir tourner un jour contre vos camarades le dédain que vous affectez aujourd'hui contre vos maîtres.
 

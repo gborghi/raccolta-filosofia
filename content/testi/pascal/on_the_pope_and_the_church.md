@@ -134,7 +134,7 @@ XVII. + It is not the absolution alone which remits sin in the [sacrament](/conc
 
 XVIII. + The church teaches, and God gives his inspiration; — both, with infallibility. The office of the church is only to prepare for pardon or condemnation. What she does suffices for condemnation, not for inspiration (“suffit pour condamner, non pour inspirer”).
 
-<span class="atom-split" data-atom="006" data-title="XIX. + On confessions and absolutions without signs of sorrow: — (1/2)" data-chapter="XIX. + On confessions and absolutions without signs of sorrow: —" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="XIX. + On confessions and absolutions without signs of sorrow: — (parte 1)" data-chapter="XIX. + On confessions and absolutions without signs of sorrow: —" data-kind="atom" data-srclang="en"></span>
 
 God alone sees the heart of man; the church can judge only of his external conduct. God pardons as soon as he discerns penitence in the heart; the church when she sees it in the life. God can make a church so pure within, that it may confound, by its internal and spiritual sanctity, the internal impiety of proud sages and pharisees; and the church can produce a body of men, whose external conduct may be so pure, as to confound the morality of the heathen. If, among them, there be hypocrites, but so disguised that the church cannot detect the imposture, she endures them; for although they cannot deceive God, they may escape the eye of man. Thus she suffers no dishonour from a conduct on the part of her members which bears the appearance of sanctity.
 
@@ -182,7 +182,7 @@ Thence it was that, in former times, none were found among the ranks of Christia
 
 The holiness of the church is utterly sullied by the debasements of the wicked: and her own children, born and nourished from their infancy in her bosom, are those who lay bare her inmost recesses — the celebration of her most august mysteries — to the invasion of her deadly enemies, worldliness of spirit, ambition, revenge, impurity, concupiscence: while the love borne by the church to her children compels her to admit, without resistance, these her most cruel persecutors.
 
-<span class="atom-split" data-atom="007" data-title="XIX. + On confessions and absolutions without signs of sorrow: — (2/2)" data-chapter="XIX. + On confessions and absolutions without signs of sorrow: —" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="XIX. + On confessions and absolutions without signs of sorrow: — (parte 2)" data-chapter="XIX. + On confessions and absolutions without signs of sorrow: —" data-kind="atom" data-srclang="en"></span>
 
 But it is not the church to which we ought to impute the evils which have ensued upon this abandonment of so salutary a discipline: she has never changed in spirit, although she may have changed in conduct. Considering that the postponement of baptism left large numbers of children under the curse of Adam, she was desirous of delivering them from the danger of perdition to which they were exposed, by hastening her succour; and now, that tender Parent sees, with deep concern, that the means by which she sought the salvation of the children, has occasioned the ruin of the adults.
 

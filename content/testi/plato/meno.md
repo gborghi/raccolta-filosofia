@@ -126,6 +126,112 @@ MENO: What do you mean?
 
 SOCRATES: I mean as I might say about anything; that a round, for example, is ‘a figure’ and not simply ‘figure,’ and I should adopt this mode of speaking, because there are other figures.
 
+<span class="qlang-split" data-lang="it"></span>
+
+PERSONAGGI DEL DIALOGO:
+
+Menone, [Socrate](/figures/socrates), uno schiavo di Menone (ragazzo), Anito.
+
+MENONE: Puoi dirmi, Socrate, se la virtù si acquista per insegnamento o per pratica; o se, né per insegnamento né per pratica, essa venga all'uomo per natura, o in qual altro modo?
+
+SOCRATE: O Menone, ci fu un tempo in cui i Tessali erano famosi tra gli altri Elleni solo per le loro ricchezze e la loro equitazione; ma ora, se non m'inganno, sono ugualmente famosi per la loro sapienza, soprattutto a Larissa, che è la città natale del tuo amico Aristippo. E questo è opera di Gorgia; poiché quando egli giunse colà, il fiore degli Aleuadi, tra i quali il tuo ammiratore Aristippo, e gli altri capi dei Tessali si innamorarono della sua sapienza. E ti ha insegnato l'[abitudine](/concepts/custom) di rispondere alle domande in uno stile grande e audace, che si addice a coloro che sanno, ed è lo stile in cui egli stesso risponde a chiunque; e qualsiasi Greco che voglia può chiedergli qualsiasi cosa. Quanto diversa è la nostra sorte! mio caro Menone. Qui ad Atene vi è una scarsità della [merce](/concepts/commodity), e tutta la sapienza sembra essere emigrata da noi a voi. Sono certo che se tu chiedessi a qualsiasi Ateniese se la virtù sia naturale o acquisita, egli ti riderebbe in faccia e direbbe: ‘Straniero, hai un’opinione di me fin troppo buona, se pensi che io possa rispondere alla tua domanda. Poiché io letteralmente non so che cosa sia la virtù, e tanto meno se si acquisisca con l’insegnamento o no.’ E io stesso, Menone, vivendo come vivo in questa regione di povertà, sono povero come il resto del mondo; e confesso con vergogna che non so letteralmente nulla della virtù; e quando non conosco il ‘quid’ di una cosa, come posso conoscerne il ‘quale’? Come, se non sapessi proprio nulla di Menone, potrei dire se egli fosse bello, o il contrario di bello; ricco e nobile, o l’opposto di ricco e nobile? Pensi che potrei?
+
+No, davvero. Ma parli sul serio, Socrate, dicendo che non sai che cosa sia la virtù? E devo io riportare questo resoconto di te in Tessaglia?
+
+SOCRATE: Non solo questo, mio caro ragazzo, ma puoi dire inoltre che non ho mai conosciuto, a mio giudizio, nessun altro che lo facesse.
+
+Menone: Dunque non hai mai incontrato Gorgia quando era ad Atene?
+
+SOCRATE: Sì, l'ho.
+
+MENO: E non pensavi che egli sapesse?
+
+SOCRATE: Non ho buona memoria, Meno, e quindi non posso ora dire cosa pensassi di lui in quel momento. E oserei dire che egli lo sapesse, e che tu sappia ciò che disse: ti prego, quindi, di ricordarmi ciò che disse; o, se preferisci, dimmi la tua opinione; perché sospetto che tu e lui la pensiate allo stesso modo.
+
+MENO: Verissimo.
+
+SOCRATE: Allora, poiché egli non è qui, non curiamocene, e dimmi tu: Per gli dèi, o Menone, sii generoso e dimmi che cosa affermi che sia la virtù; poiché sarei davvero lieto di scoprire di essermi ingannato, e che tu e Gorgia possedete realmente questa conoscenza; sebbene io abbia appena detto di non aver mai trovato alcuno che la possedesse.
+
+MENONE: Non vi sarà alcuna difficoltà, Socrate, nel rispondere alla tua domanda. Prendiamo dapprima la virtù dell'uomo — egli deve sapere come amministrare [lo stato](/concepts/state), e nell'amministrazione di esso giovare ai suoi amici e nuocere ai suoi nemici; e deve anche guardarsi dal ricevere danno egli stesso. La virtù della donna, se desideri conoscerla, può essere anch'essa facilmente descritta: il suo dovere è di ordinare la sua casa, custodire ciò che è al chiuso, e obbedire a suo marito. Ogni età, ogni condizione di vita, giovane o vecchio, maschio o femmina, schiavo o libero, ha una virtù diversa: le virtù sono innumerevoli, e non mancano definizioni di esse; poiché la virtù è relativa alle azioni e alle età di ciascuno di noi in tutto ciò che facciamo. E lo stesso si può dire del vizio, Socrate (Confronta Arist. Pol.).
+
+SOCRATE: Quanto sono fortunato, Meno! Quando ti chiedo una sola virtù, mi presenti uno sciame di esse (Cfr. Teeteto), che sono in tua custodia. Supponi che io prosegua nella figura dello sciame e ti chieda: Qual è la natura dell'ape? e tu risponda che vi sono molte specie di api, e io replichi: Ma le api differiscono come api perché ve ne sono molte e diverse specie; o non sono piuttosto da distinguere per qualche altra qualità, come per esempio [bellezza](/concepts/beauty), grandezza o forma? Come mi risponderesti?
+
+MENO: Dovrei rispondere che le api non differiscono l'una dall'altra, in quanto api.
+
+SOCRATE: E se io proseguissi dicendo: Questo è ciò che desidero sapere, Meno; dimmi qual è la qualità in cui non differiscono, ma sono tutti uguali; — sapresti rispondere?
+
+MENONE: Dovrei.
+
+SOCRATE: E così delle virtù, per quante e diverse esse siano, tutte hanno una natura comune che le rende virtù; e su questo colui che volesse rispondere alla domanda: «Che cos'è la virtù?» farebbe bene a tenere fisso lo sguardo: comprendi?
+
+MENO: Comincio a comprendere; ma non afferro peranco la questione come vorrei.
+
+Socrate: Quando dici, Menone, che c'è una virtù dell'uomo, un'altra della donna, un'altra del fanciullo, e così via, questo vale solo per la virtù, o diresti lo stesso della salute, della grandezza e della forza? O la natura della salute è sempre la stessa, sia nell'uomo sia nella donna?
+
+MENO: Io direi che la salute è la stessa, tanto nell'uomo quanto nella donna.
+
+SOCRATE: E non è questo vero anche della grandezza e della forza? Se una donna è forte, sarà forte in virtù della stessa forma e della stessa forza che sussiste in lei, come nell'uomo. Voglio dire che la forza, in quanto forza, sia dell'uomo sia della donna, è la stessa. Vi è forse qualche differenza?
+
+MENO: Non credo.
+
+E la virtù, in quanto virtù, non sarà forse la stessa sia in un fanciullo che in un adulto, sia in una donna che in un uomo?
+
+MENO: Non posso fare a meno di sentire, Socrate, che questo caso è diverso dagli altri.
+
+SOCRATE: Ma perché? Non dicevi che la virtù di un uomo era di ordinare uno stato, e la virtù di una donna era di ordinare una casa?
+
+MENO: L'avevo detto.
+
+E può una casa o uno stato o qualunque cosa essere ben ordinata senza temperanza e senza giustizia?
+
+MENO: Certamente no.
+
+Allora coloro che ordinano uno stato o una casa temperatamente o giustamente, li ordinano con temperanza e giustizia?
+
+MENO: Certamente.
+
+Dunque sia gli uomini che le donne, se devono essere buoni uomini e buone donne, devono possedere le stesse virtù di temperanza e giustizia?
+
+MENO: Vero.
+
+SOCRATE: E può un giovane o un anziano essere buono, se sono intemperanti e ingiusti?
+
+MENO: They cannot.
+
+SOCRATE: Essi devono essere temperanti e giusti?
+
+MENO: Sì.
+
+Allora tutti gli uomini sono buoni nello stesso modo, e per partecipazione alle stesse virtù?
+
+MENO: Tale è l'inferenza.
+
+SOCRATE: E certamente non sarebbero stati buoni nello stesso modo, a meno che la loro virtù non fosse stata la stessa?
+
+MENO: Non lo farebbero.
+
+SOCRATE: Dunque, ora che è stata dimostrata l’identità di ogni virtù, cerca di ricordare che cosa tu e Gorgia dite che sia la virtù.
+
+MENONE: Vorrai avere una sola definizione di tutte?
+
+SOCRATE: È questo che cerco.
+
+MENO: Se vuoi avere una definizione di tutte quante, non so che dire, se non che la virtù è il potere di governare gli uomini.
+
+SOCRATE: E questa definizione di virtù include ogni virtù? È la stessa virtù in un fanciullo e in uno schiavo, Menone? Può il fanciullo governare il padre, o lo schiavo il padrone; e chi governasse sarebbe ancora uno schiavo?
+
+MENONE: Non credo, Socrate.
+
+SOCRATE: No, in verità; ci sarebbe poca ragione in ciò. Eppure ancora una volta, caro amico; secondo te, la virtù è ‘il potere di governare;’ ma non aggiungi tu ‘giustamente e non ingiustamente’?
+
+MENONE: Sì, Socrate; sono d'accordo su questo; poiché la giustizia è virtù.
+
+SOCRATE: Diresti ‘virtù’, Menone, o ‘una virtù’?
+
+MENONE: Che cosa vuoi dire?
+
+SOCRATE: Intendo dire come potrei dire di qualsiasi cosa; che un tondo, per esempio, è 'una figura' e non semplicemente 'figura', e adotterei questo modo di esprimermi, perché vi sono altre figure.
+
 <span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 MENO: Quite right; and that is just what I am saying about virtue — that there are other virtues as well as justice.
@@ -259,6 +365,140 @@ SOCRATES: And yet, O son of Alexidemus, I cannot help thinking that the other wa
 MENO: But I will stay, Socrates, if you will give me many such answers.
 
 SOCRATES: Well then, for my own sake as well as for yours, I will do my very best; but I am afraid that I shall not be able to give you very many as good: and now, in your turn, you are to fulfil your promise, and tell me what virtue is in the universal; and do not make a singular into a plural, as the facetious say of those who break a thing, but deliver virtue to me whole and sound, and not broken into a number of pieces: I have given you the pattern.
+
+<span class="qlang-split" data-lang="it"></span>
+
+MENONE: Giustissimo; e questo è appunto quel che dico della virtù — che, oltre alla giustizia, vi sono altre virtù.
+
+[SOCRATE](/figures/socrates): Che cosa sono? dimmi i [nomi](/positions/nominalism) di essi, come ti direi i nomi delle altre figure se me lo chiedessi.
+
+Coraggio e temperanza e sapienza e magnanimità sono virtù; e ce ne sono molte altre.
+
+SOCRATE: Sì, Menone; e di nuovo siamo nello stesso caso: cercando un'unica virtù ne abbiamo trovate molte, sebbene non nello stesso modo di prima; ma non siamo riusciti a trovare la virtù comune che le attraversa tutte.
+
+MENONE: Perché, o Socrate, nemmeno ora riesco a seguirti nel tentativo di giungere a una nozione comune della virtù come delle altre cose.
+
+SOCRATE: Non c'è da meravigliarsene; ma tenterò di avvicinarmi, se posso, poiché sai che tutte le cose hanno una nozione comune. Supponi ora che qualcuno ti faccia la domanda che ti feci prima: 'Meno', direbbe, 'che cos'è la figura?' E se tu rispondessi 'rotondità', egli ti replicherebbe, nel mio modo di parlare, chiedendoti se diresti che la rotondità è 'figura' o 'una figura'; e tu risponderesti 'una figura'.
+
+MENONE: Certamente.
+
+SOCRATE: E per questo motivo — che ci sono altre figure?
+
+MENO: Sì.
+
+SOCRATE: E se egli procedesse a chiedere: quali altre figure vi sono? tu gliele avresti dette.
+
+MENO: Dovrei.
+
+SOCRATE: E se similmente chiedesse che cosa è il colore, e tu rispondessi la bianchezza, e l'interlocutore replicasse: diresti che la bianchezza è colore o un colore? tu risponderesti: Un colore, perché vi sono anche altri colori.
+
+MENO: Dovrei.
+
+SOCRATE: E se egli avesse detto: "Dimmi che cosa sono?" — tu gli avresti detto di altri colori che sono colori tanto quanto la bianchezza.
+
+MENO: Sì.
+
+SOCRATE: E supponiamo che egli volesse condurre l'indagine a modo mio, direbbe: Di continuo approdiamo ai particolari, ma non è questo ciò che voglio; dimmi allora, poiché tu li chiami con un nome comune, e dici che sono tutte figure, anche quando sono opposte l'una all'altra, qual è quella natura comune che designi come figura — che contiene tanto il diritto quanto il rotondo, e non è più l'uno che l'altro — sarebbe questo il tuo modo di parlare?
+
+MENO: Sì.
+
+SOCRATE: E parlando così, non intendi dire che il rotondo sia rotondo più che retto, o che il retto sia retto più che rotondo?
+
+MENONE: Certamente no.
+
+Tu asserisci soltanto che il rotondo non è più una figura del retto, o il retto del rotondo?
+
+MENO: Verissimo.
+
+SOCRATE: A che cosa diamo allora il nome di figura? Cerca di rispondere. Supponi che, quando uno ti chiedesse questo, o intorno alla figura o intorno al colore, tu rispondessi: "O uomo, non capisco che cosa tu voglia, né so che cosa tu dica"; egli apparirebbe alquanto attonito e direbbe: "Non capisci che io cerco il 'simile in multis'?" E allora potrebbe porre la domanda in altra forma: "O Meno," potrebbe dire, "che cos'è quel 'simile in multis' che tu chiami figura, e che comprende non solo le figure rotonde e rette, ma tutte?" Non sapresti rispondere a quella domanda, o Meno? Vorrei che tu ci provassi; il tentativo sarà un buon esercizio in vista della risposta intorno alla virtù.
+
+MENO: Preferirei che tu rispondessi, Socrate.
+
+SOCRATE: Devo assecondarti?
+
+MENO: Senz'altro.
+
+SOCRATE: E poi mi parlerai della virtù?
+
+Lo farò.
+
+SOCRATE: Allora devo fare del mio meglio, poiché c'è un premio da vincere.
+
+MENONE: Certamente.
+
+SOCRATE: Ebbene, proverò a spiegarti che cos'è la figura. Che cosa dici di questa risposta? — La figura è l'unica cosa che segue sempre il colore. Ti accontenterai di essa, come sono certo che io mi accontenterei, se tu mi concedessi una simile definizione della virtù?
+
+MENO: Ma, Socrate, è una risposta tanto semplice.
+
+SOCRATE: Perché semplice?
+
+MENO: Perché, secondo te, la figura è ciò che segue sempre il colore.
+
+(SOCRATE: Concesso.)
+
+MENO: Ma se uno dicesse di non sapere che cosa è il colore, non più di quanto sappia che cosa è la figura — che specie di risposta gli avresti data?
+
+SOCRATE: Avrei dovuto dirgli la verità. E se egli fosse un filosofo della specie eristica e antagonistica, gli direi: Hai la mia risposta, e se sbaglio, sta a te raccogliere l'argomento e confutarmi. Ma se fossimo amici, e parlassimo come tu e io parliamo ora, risponderei in tono più mite e più nello stile del dialettico; vale a dire, non solo direi la verità, ma mi servirei di premesse che la persona interrogata sarebbe disposta ad ammettere. Ed è in questo modo che cercherò di avvicinarmi a te. Riconoscerai, non è vero, che esiste una cosa come un fine, o una terminazione, o un'estremità? — tutte parole che uso nello stesso senso, sebbene io sia consapevole che Prodico potrebbe stabilire distinzioni tra loro: ma tu, ne sono certo, parleresti di una cosa come finita o terminata — ed è tutto ciò che intendo dire — niente di molto difficile.
+
+MENO: Sì, dovrei; e credo di comprendere il tuo significato.
+
+SOCRATE: E parleresti di una superficie e anche di un solido, come per esempio in geometria.
+
+MENO: Sì.
+
+SOCRATE: Ebbene, ora sei in condizione di comprendere la mia definizione di figura. Io definisco figura ciò in cui il solido termina; o, più concisamente, il limite del solido.
+
+MENO: E ora, Socrate, che cos'è il colore?
+
+SOCRATE: Sei insolente, o Meno, nel tormentare così un povero vecchio per darti una risposta, mentre non ti prendi la briga di ricordare quale sia la definizione di virtù di Gorgia.
+
+MENONE: Quando mi avrai detto quello che ti chiedo, ti dirò, Socrate.
+
+SOCRATE: Un uomo bendato non ha che da sentirti parlare, e saprebbe che sei una bella creatura e che hai ancora molti amanti.
+
+MENONE: Perché la pensi così?
+
+SOCRATE: Perché, giacché tu parli sempre per imperativi: come tutte le bellezze quando sono nel loro fiore, sei tirannica; e inoltre, come sospetto, hai scoperto che io ho debolezza per le belle, e quindi per assecondarti devo rispondere.
+
+MENO: Prego, fa' pure.
+
+SOCRATE: Vorresti che ti rispondessi alla maniera di Gorgia, che ti è familiare?
+
+MENONE: Non desidererei nulla di meglio.
+
+SOCRATE: Non dicono forse lui, tu ed Empedocle che vi sono certi effluvi dell'essere?
+
+MENONE: Certamente.
+
+SOCRATE: E passaggi nei quali e attraverso i quali passano gli effluvi?
+
+MENO: Esattamente.
+
+Socrate: E alcuni degli efflussi si adattano ai passaggi, e alcuni di essi sono troppo piccoli o troppo grandi?
+
+MENO: Vero.
+
+SOCATE: Ed esiste una cosa come la vista?
+
+MENO: Sì.
+
+SOCRATE: E ora, come dice Pindaro, 'intendi il mio detto': — il colore è un efflusso della forma, commisurato alla vista, e percepibile al senso.
+
+MENO: Ciò, o Socrate, mi sembra una risposta ammirevole.
+
+SOCRATE: Sì, perché capita che sia una che siete stati in [abitudine](/concepts/custom) di udire: e il vostro ingegno avrà scoperto, sospetto, che possiate spiegare allo stesso modo la natura del suono e dell'odore, e di molti altri simili fenomeni.
+
+MENONE: Verissimo.
+
+La risposta, Menone, era nella vena ortodossa e solenne, e pertanto ti era più accettabile dell'altra risposta sulla figura.
+
+MENO: Sì.
+
+SOCRATE: Eppure, o figlio di Alessidemo, non posso fare a meno di pensare che l'altro fosse migliore; e sono certo che saresti della stessa opinione, se solo restassi e fossi iniziato, e non fossi costretto, come dicevi ieri, ad andartene prima dei misteri.
+
+MENONE: Ma resterò, Socrate, se mi darai molte risposte di tal genere.
+
+SOCRATE: Ebbene, per amor mio e per amor tuo, farò del mio meglio; ma temo di non potertene dare molti altrettanto buoni: e ora, a tua volta, devi mantenere la promessa, e dimmi che cosa è la virtù in universale; e non fare di un singolare un plurale, come dicono i faceti di coloro che rompono una cosa, ma consegnami la virtù intera e sana, e non spezzata in molti pezzi: io ti ho dato il modello.
 
 <span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -401,6 +641,148 @@ MENO: What do you mean, Socrates?
 SOCRATES: I can tell why you made a simile about me.
 
 MENO: Why?
+
+<span class="qlang-split" data-lang="it"></span>
+
+MENONE: Ebbene, [Socrate](/figures/socrates), la virtù, per come la intendo, è quando colui che desidera l'onorevole è in grado di procurarselo da sé; così dice il poeta, e anch'io lo dico —
+
+‘La virtù è il desiderio delle cose onorevoli e il potere di conseguirle.’
+
+SOCRATE: E colui che desidera il bello desidera anche il bene?
+
+MENONE: Certamente.
+
+SOCRATE: Dunque ci sono alcuni che desiderano il male e altri che desiderano il bene? Non desiderano tutti gli uomini, mio caro signore, il bene?
+
+MENO: Penso di no.
+
+SOCRATE: Vi sono alcuni che desiderano il male?
+
+MENO: Sì.
+
+SOCRATE: Vuoi dire che ritengono che i mali che desiderano siano beni, o sanno che sono mali e tuttavia li desiderano?
+
+MENONE: Entrambi, credo.
+
+E ti immagini davvero, Meno, che un uomo conosca i mali come mali e nondimeno li desideri?
+
+MENO: Certamente sì.
+
+SOCRATE: E il desiderio è del possesso?
+
+MENO: Sì, del possesso.
+
+SOCRATE: E crede egli che i mali gioveranno a colui che li possiede, o sa che gli recheranno danno?
+
+Vi sono alcuni che pensano che i mali faranno loro del bene, e altri che sanno che faranno loro del male.
+
+SOCRATE: E, secondo te, coloro che pensano di fare loro del bene sanno che sono mali?
+
+MENONE: Certamente no.
+
+SOCRATE: Non è forse evidente che coloro che ignorano la loro natura non li desiderano; ma desiderano ciò che suppongono essere beni, sebbene in realtà siano mali; e se si ingannano e suppongono i mali essere beni, desiderano realmente beni?
+
+MENONE: Sì, in tal caso.
+
+Ebbene, e coloro che, come tu dici, desiderano i mali, e pensano che i mali siano dannosi a chi li possiede, sanno che ne saranno danneggiati?
+
+MENONE: Devono saperlo.
+
+SOCRATE: E non dovranno essi supporre che coloro i quali ricevono danno siano infelici in proporzione al danno che è loro inflitto?
+
+MENO: Come potrebbe essere altrimenti?
+
+SOCRATE: Ma i miseri non sono forse sventurati?
+
+MENO: Sì, davvero.
+
+SOCRATE: E desidera alcuno di essere misero e sventurato?
+
+MENO: Non direi, Socrate.
+
+SOCRATE: Ma se nessuno desidera essere infelice, non v'è nessuno, Menone, che desideri il male; poiché che cos'è l'infelicità se non il desiderio e il possesso del male?
+
+MENONE: Ciò sembra essere la verità, Socrate, e ammetto che nessuno desidera il male.
+
+SOCRATE: Eppure, non dicevi poco fa che la virtù è il desiderio e il potere di conseguire il bene?
+
+MENONE: Sì, l'ho detto.
+
+SOCRATE: Ma se questo viene affermato, allora il desiderio del bene è comune a tutti, e un uomo non è migliore di un altro in questo rispetto?
+
+MENO: Vero.
+
+SOCRATE: E se un uomo non è migliore di un altro nel desiderare il bene, dev'essere migliore nel potere di conseguirlo?
+
+MENO: Esattamente.
+
+SOCRATE: Dunque, secondo la tua definizione, la virtù apparirebbe essere il potere di conseguire il bene?
+
+MENONE: Approvo interamente, Socrate, il modo in cui ora consideri questa questione.
+
+SOCRATE: Vediamo dunque se ciò che dici è vero da un altro punto di vista; poiché è assai probabile che tu abbia ragione: — Tu affermi che la virtù sia il potere di conseguire i beni?
+
+MENO: Sì.
+
+SOCRATE: E i beni che intendi sono come la salute e la ricchezza e il possesso di oro e argento, e l'avere cariche e onori in [lo stato](/concepts/state) — questi sono quelli che chiameresti beni?
+
+MENO: Sì, dovrei includere tutti quelli.
+
+SOCRATE: Allora, secondo Menone, che è amico ereditario del gran re, la virtù è il potere di procurarsi argento e oro; e vorresti aggiungere che debbono essere guadagnati piamente, giustamente, o ritieni che ciò sia di nessuna conseguenza? E ogni modo di acquisto, anche se ingiusto e disonesto, è ugualmente da considerarsi virtù?
+
+MENONE: Non la virtù, Socrate, ma il vizio.
+
+SOCRATE: Dunque la giustizia o la temperanza o la santità, o qualche altra parte della virtù, come sembrerebbe, deve accompagnare l'acquisizione, e senza di esse il semplice acquisto del bene non sarà virtù.
+
+MENONE: E come potrebbe esserci virtù senza queste cose?
+
+Socrate: E il non acquisire oro e argento in modo disonesto, per sé o per un altro, o in altre parole la mancanza di essi, può essere ugualmente virtù?
+
+MENO: Vero.
+
+SOCRATE: Dunque l'acquisizione di tali beni non è più virtù della non-acquisizione e della mancanza di essi, ma tutto ciò che è accompagnato da giustizia o onestà è virtù, e tutto ciò che è privo di giustizia è vizio.
+
+MENO: Non può essere altrimenti, a mio giudizio.
+
+SOCRATE: E non dicevamo poco fa che la giustizia, la temperanza e simili, erano ciascuna di esse una parte della virtù?
+
+MENO: Sì.
+
+SOCRATE: E così, Menone, questo è il modo in cui tu mi deridi.
+
+MENONE: Perché dici questo, Socrate?
+
+SOCRATE: Perché, poiché ti ho chiesto di consegnarmi la virtù intera e indivisa, e ti ho dato un modello secondo il quale dovevi formulare la tua risposta; e tu hai già dimenticato, e mi dici che la virtù è il potere di conseguire il bene giustamente, o con giustizia; e la giustizia riconosci essere una parte della virtù.
+
+MENO: Sì.
+
+Ne consegue dalle tue stesse concessioni, che la virtù è fare ciò che fai con una parte della virtù; poiché la giustizia e le cose simili sono da te dette parti della virtù.
+
+MENONE: E che per questo?
+
+SOCRATE: E che importa? Non ti ho forse chiesto di dirmi la natura della virtù nel suo insieme? E tu sei ben lontano dal dirmi questo; ma dichiari che ogni azione compiuta con una parte di virtù è virtù; come se tu me l'avessi già detto e io dovessi già conoscere la virtù nella sua totalità, e ciò quando pure essa sia stata sminuzzata in piccoli frammenti. E pertanto, mio caro Menone, temo di dover ricominciare da capo e ripetere la stessa domanda: Che cos'è la virtù? Poiché altrimenti posso solo dire che ogni azione compiuta con una parte di virtù è virtù; che altro significa dire che ogni azione compiuta con giustizia è virtù? Non devo forse porre di nuovo la domanda? Poiché può forse chi non conosce la virtù conoscere una parte della virtù?
+
+No; non dico che egli possa.
+
+SOCRATE: Ti ricordi come, nell'esempio della figura, rifiutammo ogni risposta data in termini non ancora spiegati o ammessi?
+
+MENONE: Sì, Socrate; e facemmo benissimo a farlo.
+
+SOCRATE: Ma allora, amico mio, non credere che possiamo spiegare ad alcuno la natura della virtù nella sua totalità attraverso una parte non spiegata della virtù, né alcunché in tal modo; non faremmo altro che rinnovare l'antica domanda: Che cos'è la virtù? Non ho forse ragione?
+
+MENO: Credo che tu lo sia.
+
+SOCRATE: Allora ricomincia, e rispondimi: qual è, secondo te e il tuo amico Gorgia, la definizione di virtù?
+
+MENONE: O Socrate, prima di conoscerti mi dicevano che tu eri sempre nel dubbio e facevi dubitare gli altri; ed ora tu spargi i tuoi incantesimi sopra di me, e io ne resto semplicemente ammaliato e incantato, e sono giunto al colmo della perplessità. E se mi è lecito scherzare con te, tu mi sembri, sia nell'aspetto sia nella potenza sugli altri, molto simile alla torpedine marina, che intorpidisce chi le si avvicina e la tocca, come ora hai intorpidito me, credo. Poiché la mia anima e la mia lingua sono davvero intorpidite, e non so come risponderti; e sebbene abbia pronunziato infinite volte discorsi sulla virtù, e dinanzi a molte persone, e assai buoni, come mi parevano, in questo momento non so nemmeno dire che cosa sia la virtù. E penso che tu faccia molto saviamente a non viaggiare e a non allontanarti da casa, perché se facessi in altri luoghi quel che fai in Atene, saresti gettato in prigione come un mago.
+
+SOCRATE: Sei un furfante, Meno, e mi avevi quasi catturato.
+
+MENO: Che vuoi dire, Socrate?
+
+SOCRATE: Posso dire perché hai fatto una similitudine su di me.
+
+MENO: Perché?
 
 <span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -563,6 +945,168 @@ BOY: Yes.
 SOCRATES: Then the line which forms the side of eight feet ought to be more than this line of two feet, and less than the other of four feet?
 
 BOY: It ought.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Affinché io possa fare un'altra similitudine intorno a te. Poiché io so che tutti i bei giovani gentiluomini amano che si facciano belle similitudini intorno a loro — e con ragione — ma io non ricambierò il complimento. Quanto al mio essere una torpedine, se la torpedine è torpida e causa di torpore negli altri, allora davvero io sono una torpedine, ma non altrimenti; poiché io rendo perplessi gli altri, non perché io sia lucido, ma perché io stesso sono del tutto perplesso. E ora io non so che cosa sia la virtù, e tu mi sembri essere nel medesimo caso, sebbene forse una volta tu la sapessi, prima di toccarmi. Tuttavia, non ho alcuna obiezione a unirmi a te nella ricerca.
+
+MENONE: E come indagherai, Socrate, su ciò che non sai? Che cosa proporrai come oggetto dell'indagine? E se trovi ciò che vuoi, come potrai mai sapere che questa è la cosa che non sapevi?
+
+SOCRATE: So, Menone, che cosa vuoi dire; ma guarda un po' quale noiosa disputa stai introducendo. Tu sostieni che un uomo non può indagare né su ciò che sa, né su ciò che non sa; perché se sa, non ha bisogno di indagare; e se non sa, non può; giacché non conosce l'argomento stesso intorno a cui deve indagare (Confronta Aristot. Anal. Post.).
+
+MENO: Ebbene, Socrate, e non è forse valido l'argomento?
+
+SOCRATE: Non credo.
+
+MENONE: Perché no?
+
+SOCRATE: Ti dirò perché: ho udito da certi uomini e donne saggi che parlavano di cose divine che —
+
+MENO: Che cosa hanno detto?
+
+SOCRATE: Essi parlarono di una verità gloriosa, come io la concepisco.
+
+MENONE: Che cosa era? E chi erano?
+
+SOCRATE: Alcuni di essi erano sacerdoti e sacerdotesse, che avevano studiato come potessero render ragione della loro professione; vi furono anche poeti, che parlavano di queste cose per ispirazione, come Pindaro, e molti altri che furono ispirati. Ed essi dicono — osserva ora e vedi se le loro parole sono vere — essi dicono che l'anima dell'uomo è immortale, e in un tempo ha fine, il che è chiamato morire, e in un altro tempo nasce di nuovo, ma non è mai distrutta. E la morale è che l'uomo deve vivere sempre in perfetta santità. ‘Infatti nel nono anno Persefone rimanda le anime di coloro da cui ha ricevuto la pena dell'antica colpa, di nuovo da sotto la terra alla luce del sole di sopra, e questi sono quelli che diventano re nobili e uomini potenti e grandi in sapienza e sono chiamati eroi santi nei tempi successivi.’ L'anima, dunque, essendo immortale, ed essendo nata di nuovo molte volte, e avendo veduto tutte le cose che esistono, sia in questo mondo sia nel mondo di sotto, ha conoscenza di tutte; e non è meraviglia che essa possa richiamare alla memoria tutto ciò che ha mai saputo intorno alla virtù e intorno a ogni cosa; poiché, essendo tutta la natura affine, e avendo l'anima imparato tutte le cose, non vi è difficoltà che essa, da una sola reminiscenza, tragga fuori o, come si dice, apprenda tutto il resto, se un uomo è strenuo e non viene meno; poiché ogni ricerca e ogni apprendimento non è che reminiscenza. E perciò non dobbiamo ascoltare questo argomento sofistico circa l'impossibilità della ricerca: poiché esso ci renderà oziosi, ed è dolce solo al pigro; ma l'altro detto ci renderà attivi e desiderosi di indagare. Confidando in ciò, ricercherò volentieri con te la natura della virtù.
+
+MENONE: Sì, Socrate; ma che intendi dire dicendo che noi non apprendiamo, e che ciò che chiamiamo apprendere è solo un processo di reminiscenza? Puoi insegnarmi come ciò sia?
+
+SOCRATE: Ti dicevo, Menone, poco fa che eri un furfante, e ora mi chiedi se posso insegnarti, mentre dico che non v'è insegnamento, ma solo reminiscenza; e così immagini che mi metterai in contraddizione.
+
+MENO: In verità, Socrate, protesto che non avevo tale intenzione. Feci la domanda solo per [abitudine](/concepts/custom); ma se puoi provarmi che ciò che dici è vero, vorrei che tu lo facessi.
+
+Non sarà impresa facile, ma cercherò di compiacerti al massimo del mio potere. Supponi di chiamare uno dei tuoi numerosi servi, affinché io possa dimostrare su di lui.
+
+Certamente. Vieni qui, fanciullo.
+
+SOCRATE: È greco, e parla greco, non è vero?
+
+MENONE: Sì, davvero; è nato in casa.
+
+SOCRATE: Ora presta attenzione alle domande che gli pongo, e osserva se impara da me o soltanto ricorda.
+
+Lo farò.
+
+SOCRATE: Dimmi, fanciullo, sai che una figura come questa è un quadrato?
+
+RAGAZZO: Lo voglio.
+
+SOCRATE: E tu sai che una figura quadrata ha questi quattro lati uguali?
+
+RAGAZZO: Certamente.
+
+SOCRATES: E queste linee che ho tracciato attraverso il mezzo del quadrato sono anch'esse uguali?
+
+RAGAZZO: Sì.
+
+SOCRATE: Un quadrato può essere di qualsiasi dimensione?
+
+RAGAZZO: Certamente.
+
+SOCRATE: E se un lato della figura fosse di due piedi, e l'altro lato fosse di due piedi, quanto sarà il tutto? Ti spiegherò: se in una direzione lo spazio fosse di due piedi, e nell'altra direzione di un piede, il tutto sarebbe di due piedi presi una volta?
+
+RAGAZZO: Sì.
+
+SOCRATE: Ma poiché anche questo lato è di due piedi, vi sono due volte due piedi?
+
+RAGAZZO: Ce ne sono.
+
+SOCRATE: Dunque il quadrato è di due volte due piedi?
+
+RAGAZZO: Sì.
+
+SOCRATE: E quanti sono due volte due piedi? conta e dimmi.
+
+RAGAZZO: Quattro, Socrate.
+
+SOCRATE: E non potrebbe esserci un altro quadrato grande il doppio di questo, e avente come questo le linee uguali?
+
+RAGAZZO: Sì.
+
+SOCRATE: E di quanti piedi sarà?
+
+RAGAZZO: Di otto piedi.
+
+SOCRATE: E ora prova a dirmi la lunghezza della linea che forma il lato di quel quadrato doppio: questa è di due piedi — che cosa sarà quella?
+
+RAGAZZO: Chiaramente, Socrate, sarà doppio.
+
+SOCRATE: Osservi, Menone, che io non sto insegnando nulla al fanciullo, ma solo gli rivolgo domande; e ora egli si figura di sapere quanto lunga debba essere la linea per produrre una figura di otto piedi quadrati; non è vero?
+
+MENO: Sì.
+
+SOCRATE: E sa davvero?
+
+MENONE: Certamente no.
+
+SOCRATE: Egli lo congettura soltanto, perché, essendo doppio il quadrato, doppia è la linea.
+
+MENO: Vero.
+
+SOCRATE: Osservalo mentre ricorda i passi in ordine regolare. (Al Ragazzo:) Dimmi, ragazzo, affermi che uno spazio doppio proviene da una linea doppia? Ricorda che non parlo di un rettangolo, ma di una figura uguale in ogni direzione, e doppia rispetto a questa — vale a dire di otto piedi; e voglio sapere se dici ancora che un quadrato doppio proviene da una linea doppia?
+
+RAGAZZO: Sì.
+
+SOCRATE: Ma questa linea non diventa forse doppia se ne aggiungiamo un'altra tale qui?
+
+RAGAZZO: Certamente.
+
+SOCRATE: E quattro tali linee formeranno uno spazio contenente otto piedi?
+
+RAGAZZO: Sì.
+
+SOCRATE: Descriviamo tale figura: non diresti che questa è la figura di otto piedi?
+
+RAGAZZO: Sì.
+
+SOCRATE: E non vi sono queste quattro divisioni nella figura, ciascuna delle quali è uguale alla figura di quattro piedi?
+
+RAGAZZO: Vero.
+
+SOCRATE: E non è ciò quattro volte quattro?
+
+RAGAZZO: Certamente.
+
+SOCRATE: E quattro volte non è doppio?
+
+RAGAZZO: No, invero.
+
+SOCRATE: Ma quanto?
+
+RAGAZZO: Quattro volte tanto.
+
+SOCRATE: Dunque la linea doppia, fanciullo, ha dato uno spazio non doppio, ma quadruplo.
+
+RAGAZZO: Vero.
+
+SOCRATE: Quattro per quattro fa sedici — non è vero?
+
+RAGAZZO: Sì.
+
+SOCRATE: Quale linea ti darebbe uno spazio di otto piedi, come questa dà uno di sedici piedi; — vedi?
+
+RAGAZZO: Sì.
+
+E lo spazio di quattro piedi è fatto da questa mezza linea?
+
+RAGAZZO: Sì.
+
+Bene; e non è uno spazio di otto piedi il doppio di questo, e la metà dell'altro?
+
+RAGAZZO: Certamente.
+
+SOCRATE: Uno spazio tale, allora, sarà formato da una linea maggiore di questa, e minore di quella?
+
+BOY: Sì; penso di sì.
+
+SOCRATE: Benissimo; mi piace ascoltarti dire ciò che pensi. E ora dimmi, non è questa una linea di due piedi e quella di quattro?
+
+RAGAZZO: Sì.
+
+Dunque la linea che forma il lato di otto piedi dovrebbe essere più lunga di questa linea di due piedi, e più corta dell’altra di quattro piedi?
+
+BOY: Dovrebbe.
 
 <span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -754,6 +1298,196 @@ SOCRATES: Then, as we are agreed that a man should enquire about that which he d
 
 MENO: By all means, Socrates. And yet I would much rather return to my original question, Whether in seeking to acquire virtue we should regard it as a thing to be taught, or as a gift of nature, or as coming to men in some other way?
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Prova a vedere se puoi dirmi quanto sarà.
+
+BOY: Tre piedi.
+
+SOCRATE: Allora, se aggiungiamo una metà a questa linea di due, quella sarà la linea di tre. Qui sono due e vi è uno; e dall'altro lato, qui sono pure due e vi è uno: e questo fa la figura di cui parli?
+
+RAGAZZO: Sì.
+
+SOCRATE: Ma se vi sono tre piedi da questa parte e tre piedi da quella, l'intero spazio sarà tre volte tre piedi?
+
+RAGAZZO: Ciò è evidente.
+
+SOCRATES: E quanto sono tre volte tre piedi?
+
+RAGAZZO: Nove.
+
+SOCRATE: E quanto è il doppio di quattro?
+
+RAGAZZO: Otto.
+
+SOCRATE: Dunque la figura dell'otto non è fatta di una linea di tre?
+
+RAGAZZO: No.
+
+SOCRATE: Ma da quale linea? — dimmi esattamente; e se preferisci non calcolare, cerca di mostrarmi la linea.
+
+RAGAZZO: In verità, Socrate, non lo so.
+
+Vedi, Menone, quali progressi egli abbia fatti nella sua facoltà di reminiscenza? Egli non sapeva da principio, e non sa nemmeno ora, quale sia il lato di una figura di otto piedi: ma allora credeva di saperlo, e rispondeva con sicurezza come se lo sapesse, e non aveva difficoltà; ora invece è in difficoltà, e non sa né si figura di sapere.
+
+MENO: Vero.
+
+Non è forse in una condizione migliore conoscendo la propria ignoranza?
+
+MENONE: Penso che lo sia.
+
+SOCRATE: Se lo abbiamo fatto dubitare, e gli abbiamo dato la ‘scossa del torpedine,’ gli abbiamo fatto del male?
+
+MENO: Penso di no.
+
+Noi, certamente, come parrebbe, lo abbiamo in qualche grado aiutato a scoprire la verità; ed ora egli vorrà rimediare alla sua ignoranza, ma allora sarebbe stato pronto a dire a tutto il mondo, e ripetutamente, che lo spazio doppio deve avere il lato doppio.
+
+MENO: Vero.
+
+SOCRATE: Ma credi tu che egli avrebbe mai indagato o appreso ciò che s'immaginava di sapere, sebbene ne fosse realmente ignorante, finché non fosse caduto in perplessità, pensando di non sapere, e avesse desiderato di sapere?
+
+MENONE: Non credo, Socrate.
+
+Dunque egli trasse giovamento dal contatto della torpedine?
+
+MENO: Credo di sì.
+
+SOCRATE: Osserva ora il successivo sviluppo. Io non gli insegnerò, ma soltanto gli domanderò, ed egli dividerà con me l'indagine: e tu bada e vedi se mi trovi a dirgli o spiegarli alcunché, invece di trarre fuori la sua opinione. Dimmi, fanciullo, non è questo un quadrato di quattro piedi che io ho tracciato?
+
+RAGAZZO: Sì.
+
+SOCRATE: E ora aggiungo un altro quadrato uguale al precedente?
+
+RAGAZZO: Sì.
+
+SOCRATE: E un terzo, che sia uguale a ciascuno di essi?
+
+RAGAZZO: Sì.
+
+SOCRATE: Supponiamo che riempiamo l'angolo vuoto?
+
+RAGAZZO: Molto bene.
+
+SOCRATE: Qui, dunque, vi sono quattro spazi uguali?
+
+RAGAZZO: Sì.
+
+E quante volte è più grande questo spazio di quest'altro?
+
+BOY: Quattro volte.
+
+Ma sarebbe dovuto essere soltanto due volte, come ricorderai.
+
+RAGAZZO: Vero.
+
+SOCRATE: E questa linea, che giunge da un angolo all'altro, non biseca ciascuno di questi spazi?
+
+RAGAZZO: Sì.
+
+E non vi sono qui quattro linee uguali che racchiudono questo spazio?
+
+RAGAZZO: Ce ne sono.
+
+SOCRATE: Guarda e vedi quanto è grande questo spazio.
+
+RAGAZZO: Non capisco.
+
+SOCRATE: Non ha forse ciascuna linea interiore tagliato a metà i quattro spazi?
+
+RAGAZZO: Sì.
+
+SOCRATE: E quanti spazi ci sono in questa sezione?
+
+RAGAZZO: Quattro.
+
+SOCRATE: E quanti in questo?
+
+RAGAZZO: Due.
+
+SOCRATE: E quattro è quante volte due?
+
+RAGAZZO: Due volte.
+
+SOCRATE: E questo spazio è di quanti piedi?
+
+RAGAZZO: Di otto piedi.
+
+SOCRATE: E da quale linea ricavi questa figura?
+
+RAGAZZO: Da questo.
+
+SOCRATE: Cioè, dalla linea che si estende da un angolo all'altro della figura di quattro piedi?
+
+RAGAZZO: Sì.
+
+SOCRATE: E questa è la linea che i dotti chiamano diagonale. E se questo è il nome proprio, allora tu, schiavo di Menone, sei disposto ad affermare che lo spazio doppio è il quadrato della diagonale?
+
+RAGAZZO: Certamente, Socrate.
+
+SOCRATE: Che ne dici di lui, Menone? Non sono forse uscite tutte queste risposte dalla sua propria testa?
+
+MENO: Sì, erano tutte sue.
+
+SOCRATE: E tuttavia, come dicevamo or ora, egli non sapeva?
+
+MENO: Vero.
+
+SOCRATE: Eppure aveva in sé quelle sue nozioni — non è vero?
+
+MENO: Sì.
+
+SOCRATE: Dunque colui che non sa può avere tuttavia vere nozioni di ciò che non sa?
+
+MENONE: Ha.
+
+SOCRATE: E per ora queste nozioni gli sono state appena risvegliate, come in un sogno; ma se gli si rivolgessero di frequente le stesse domande in forme diverse, saprebbe alla fine altrettanto bene quanto chiunque altro?
+
+MENO: Oserei dire.
+
+SOCRATE: Senza che alcuno glielo insegni, ricupererà da sé la sua conoscenza, se soltanto gli si rivolgono domande?
+
+MENO: Sì.
+
+SOCRATE: E questo spontaneo recupero della conoscenza in lui è reminiscenza?
+
+MENO: Vero.
+
+SOCRATE: E questa conoscenza che ora possiede, non deve averla o acquisita o sempre posseduta?
+
+MENO: Sì.
+
+SOCRATE: Ma se egli possedette sempre questa conoscenza, l'avrebbe sempre posseduta; oppure, se l'ha acquistata, non potrebbe averla acquistata in questa vita, a meno che non gli sia stato insegnato; poiché egli potrebbe essere indotto a fare altrettanto con tutta la geometria e con ogni altro ramo del sapere. Ora, qualcuno gli ha mai insegnato tutto ciò? Tu devi saperlo, se, come dici, egli è nato e cresciuto nella tua casa.
+
+MENO: E sono certo che nessuno mai glielo insegnò.
+
+SOCRATE: Eppure egli ha la conoscenza?
+
+MENO: Il fatto, Socrate, è innegabile.
+
+SOCRATE: Ma se non ha acquisito questa conoscenza nella vita presente, allora deve averla posseduta e appresa in qualche altro tempo?
+
+MENO: Chiaramente deve farlo.
+
+SOCRATE: Il che deve essere stato il tempo in cui non era un uomo?
+
+MENO: Sì.
+
+SOCRATE: E se in lui vi sono stati sempre pensieri veri, sia nel tempo in cui era uomo sia in quello in cui non lo era, i quali non hanno bisogno che di essere risvegliati in conoscenza ponendogli domande, la sua anima deve aver sempre posseduto questa conoscenza, poiché egli era sempre o uomo o non uomo?
+
+MENO: Ovviamente.
+
+SOCRATE: E se la verità di tutte le cose è sempre esistita nell'anima, allora l'anima è immortale. Perciò sii di buon animo, e cerca di richiamare alla memoria ciò che non sai, o piuttosto ciò che non ricordi.
+
+MENONE: Sento, in qualche modo, che mi piace ciò che stai dicendo.
+
+SOCRATE: E io, Menone, apprezzo quello che dico. Alcune cose ho dette di cui non sono del tutto sicuro. Ma che saremo migliori e più coraggiosi e meno indifesi se pensiamo che dobbiamo indagare, di quanto saremmo stati se ci fossimo abbandonati all'oziosa fantasia che non vi fosse conoscenza né utilità nel cercare di sapere ciò che non sappiamo; — questo è un tema sul quale sono pronto a combattere, a parole e con i fatti, con tutte le mie forze.
+
+MENONE: Di nuovo, Socrate, le tue parole mi sembrano eccellenti.
+
+Socrate: Dunque, poiché siamo d'accordo che l'uomo debba indagare su ciò che non sa, tu ed io ci sforzeremo di indagare insieme sulla natura della virtù?
+
+Certo, Socrate. E tuttavia preferirei di gran lunga tornare alla mia domanda originaria: se, nel cercare di acquisire la virtù, dobbiamo considerarla come una cosa che si insegna, o come un dono di natura, o come qualcosa che giunge agli uomini in qualche altra maniera?
+
 <span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Had I the command of you as well as of myself, Meno, I would not have enquired whether virtue is given by instruction or not, until we had first ascertained ‘what it is.’ But as you think only of controlling me who am your slave, and never of controlling yourself, — such being your notion of freedom, I must yield to you, for you are irresistible. And therefore I have now to enquire into the qualities of a thing of which I do not as yet know the nature. At any rate, will you condescend a little, and allow the question ‘Whether virtue is given by instruction, or in any other way,’ to be argued upon hypothesis? As the geometrician, when he is asked whether a certain triangle is capable being inscribed in a certain circle (Or, whether a certain area is capable of being inscribed as a triangle in a certain circle.), will reply: ‘I cannot tell you as yet; but I will offer a hypothesis which may assist us in forming a conclusion: If the figure be such that when you have produced a given side of it (Or, when you apply it to the given line, i.e. the diameter of the circle (autou).), the given area of the triangle falls short by an area corresponding to the part produced (Or, similar to the area so applied.), then one consequence follows, and if this is impossible then some other; and therefore I wish to assume a hypothesis before I tell you whether this triangle is capable of being inscribed in the circle’: — that is a geometrical hypothesis. And we too, as we know not the nature and qualities of virtue, must ask, whether virtue is or is not taught, under a hypothesis: as thus, if virtue is of such a class of mental goods, will it be taught or not? Let the first hypothesis be that virtue is or is not knowledge, — in that case will it be taught or not? or, as we were just now saying, ‘remembered’? For there is no use in disputing about the name. But is virtue taught or not? or rather, does not every one see that knowledge alone is taught?
@@ -868,6 +1602,120 @@ SOCRATES: And conversely, may not the art of which neither teachers nor disciple
 
 MENO: True; but do you think that there are no teachers of virtue?
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Se io avessi il comando di te come di me stesso, Menone, non avrei indagato se la virtù sia data con l’insegnamento o no, finché non avessimo prima accertato ‘che cosa sia.’ Ma poiché tu pensi solo a controllare me, che sono tuo schiavo, e mai a controllare te stesso — essendo tale la tua nozione di libertà — devo cedere a te, perché sei irresistibile. E quindi ora devo indagare le qualità di una cosa della quale non conosco ancora la natura. A ogni modo, vorrai condiscendere un poco e permettere che la questione ‘Se la virtù sia data con l’insegnamento, o in qualsiasi altro modo,’ sia discussa per ipotesi? Come il geometra, quando gli si chiede se un certo triangolo può essere inscritto in un certo cerchio (O se una certa area può essere inscritta come triangolo in un certo cerchio.), risponderà: ‘Non posso ancora dirtelo; ma offrirò un’ipotesi che può aiutarci a formare una conclusione: Se la figura è tale che quando hai prolungato un suo lato dato (O quando la applichi alla linea data, cioè il diametro del cerchio (autou).), l’area data del triangolo viene a mancare di un’area corrispondente alla parte prolungata (O simile all’area così applicata.), allora segue una conseguenza, e se questo è impossibile ne segue un’altra; e quindi desidero assumere un’ipotesi prima di dirti se questo triangolo può essere inscritto nel cerchio’: — questa è un’ipotesi geometrica. E anche noi, poiché non conosciamo la natura e le qualità della virtù, dobbiamo chiedere, sotto un’ipotesi, se la virtù sia o non sia insegnata: così, se la virtù è di tale classe di beni mentali, sarà insegnata o no? Sia la prima ipotesi che la virtù sia o non sia conoscenza, — in quel caso sarà insegnata o no? o, come dicevamo proprio ora, ‘ricordata’? Poiché non serve disputare sul nome. Ma la virtù è insegnata o no? o piuttosto, non vede ognuno che solo la conoscenza è insegnata?
+
+MENONE: Sono d'accordo.
+
+SOCRATE: Dunque se la virtù è conoscenza, la virtù sarà insegnata?
+
+MENONE: Certamente.
+
+SOCRATE: Allora ora abbiamo posto fine rapidamente a questa questione: se la virtù è di tale natura, sarà insegnata; e se non lo è, non lo sarà?
+
+MENONE: Certamente.
+
+SOCRATE: La questione successiva è se la virtù sia conoscenza o di un'altra specie?
+
+MENONE: Sì, questa sembra essere la questione che segue in ordine.
+
+SOCRATE: Non diciamo che la virtù è un bene? — Questa è un'ipotesi che non viene messa da parte.
+
+MENONE: Certamente.
+
+SOCRATE: Ora, se vi sia alcun genere di bene che sia distinto dalla conoscenza, la virtù potrebbe essere quel bene; ma se la conoscenza abbraccia ogni bene, allora saremo nel giusto pensando che la virtù sia conoscenza?
+
+MENO: Vero.
+
+SOCRATE: E la virtù ci rende buoni?
+
+MENO: Sì.
+
+SOCRATE: E se siamo buoni, allora siamo utili; poiché tutte le cose buone sono utili?
+
+MENO: Sì.
+
+SOCRATE: Dunque la virtù è utile?
+
+MENONE: Questa è l’unica inferenza.
+
+SOCRATE: Dunque, ora vediamo quali sono le cose che singolarmente ci giovano. La salute e la forza, e la [bellezza](/concepts/beauty) e la ricchezza — queste, e le cose simili a queste, chiamiamo profittevoli?
+
+MENO: Vero.
+
+SOCRATE: E tuttavia queste cose possono anche talvolta farci del male: non la penseresti così?
+
+MENO: Sì.
+
+SOCRATE: E qual è il principio guida che li rende vantaggiosi o il contrario? Non sono forse vantaggiosi quando sono usati rettamente, e dannosi quando non sono usati rettamente?
+
+MENONE: Certamente.
+
+SOCRATE: Consideriamo ora i beni dell'anima: essi sono la temperanza, la giustizia, il coraggio, la prontezza d'intelletto, la memoria, la magnanimità e simili?
+
+MENONE: Certamente.
+
+SOCRATE: E quelle di queste che non sono conoscenza, ma di altra specie, sono talvolta utili e talvolta dannose; come, per esempio, il coraggio privo di prudenza, che è solo una sorta di fiducia? Quando un uomo non ha senno, è danneggiato dal coraggio, ma quando ha senno, ne trae profitto?
+
+MENO: Vero.
+
+E lo stesso può dirsi della temperanza e della prontezza d'intelletto; tutte le cose che si apprendono o si fanno con senno sono vantaggiose, ma quando sono fatte senza senno sono dannose?
+
+MENO: Verissimo.
+
+SOCRATE: E in generale, tutto ciò che l'anima tenta o sopporta, quando è sotto la guida della saggezza, finisce in felicità; ma quando è sotto la guida della stoltezza, nel contrario?
+
+MENO: Ciò appare essere vero.
+
+SOCRATE: Se dunque la virtù è una qualità dell'anima, ed è ammesso che sia utile, essa deve essere sapienza o prudenza, poiché nessuna delle cose dell'anima è di per sé utile o dannosa, ma tutte sono rese utili o dannose dall'aggiunta della sapienza o della stoltezza; e pertanto se la virtù è utile, la virtù deve essere una sorta di sapienza o di prudenza?
+
+MENONE: Sono pienamente d'accordo.
+
+SOCRATE: E gli altri beni, come la ricchezza e simili, dei quali ora dicevamo che talvolta sono buoni e talvolta cattivi, non diventano anch'essi proficui o dannosi, secondo che l'anima li guidi e li usi rettamente o erroneamente; così come le cose dell'anima stessa ricevono beneficio quando sono sotto la guida della sapienza, e danno quando sono sotto la stoltezza?
+
+MENO: Vero.
+
+SOCRATE: E l'anima saggia le guida rettamente, e quella stolta erroneamente.
+
+MENO: Sì.
+
+SOCRATE: E non è questo universalmente vero della [natura umana](/axes/human_nature)? Tutte le altre cose dipendono dall'anima, e le cose dell'anima stessa dipendono dalla saggezza, se devono essere buone; e così la saggezza è inferita essere ciò che giova — e la virtù, come diciamo, è giovevole?
+
+MENONE: Certamente.
+
+SOCRATE: E così giungiamo alla conclusione che la virtù è o interamente o in parte sapienza?
+
+MENONE: Penso che quello che dici, Socrate, sia molto vero.
+
+SOCRATE: Ma se questo è vero, allora i buoni non sono buoni per natura?
+
+MENO: Penso di no.
+
+SOCRATE: Se fossero stati, vi sarebbero stati certamente tra noi discernitori di caratteri che avrebbero conosciuto i nostri futuri grandi uomini; e dietro loro indicazione li avremmo adottati, e quando li avessimo avuti, li avremmo tenuti nella cittadella al riparo da ogni danno, e avremmo impresso loro un sigillo assai più che sopra un pezzo d'oro, affinché nessuno potesse manometterli; e quando fossero cresciuti, sarebbero stati utili a [lo stato](/concepts/state).
+
+MENONE: Sì, Socrate, quella sarebbe stata la via giusta.
+
+SOCRATE: Ma se i buoni non sono buoni per natura, sono resi buoni dall'insegnamento?
+
+MENONE: Non sembra esservi altra alternativa, Socrate. Nella supposizione che la virtù sia conoscenza, non vi può essere dubbio che la virtù sia insegnata.
+
+SOCRATE: Sì, certamente; ma che accadrebbe se la supposizione fosse erronea?
+
+MENONE: Certamente credevo poco fa che avessimo ragione.
+
+SOCRATE: Sì, Menone; ma un principio che abbia una qualche solidità deve restare saldo non solo adesso, ma sempre.
+
+MENO: Bene; e perché sei così lento di cuore a credere che la conoscenza sia virtù?
+
+SOCRATE: Proverò a dirti perché, Menone. Non ritiro l’affermazione che se la virtù è conoscenza, possa essere insegnata; ma temo di avere qualche ragione di dubitare che la virtù sia conoscenza: poiché considera ora, e di’ se la virtù, e non solo la virtù ma qualsiasi cosa che sia insegnata, non debba avere insegnanti e discepoli?
+
+MENONE: Certamente.
+
+SOCRATE: E viceversa, non si può forse supporre che l'arte di cui non esistono né maestri né discepoli sia incapace di essere insegnata?
+
+MENONE: Vero; ma credi che non vi siano maestri di virtù?
+
 <span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): I have certainly often enquired whether there were any, and taken great pains to find them, and have never succeeded; and many have assisted me in the search, and they were the persons whom I thought the most likely to know. Here at the moment when he is wanted we fortunately have sitting by us Anytus, the very person of whom we should make enquiry; to him then let us repair. In the first place, he is the son of a wealthy and wise father, Anthemion, who acquired his wealth, not by accident or gift, like Ismenias the Theban (who has recently made himself as rich as Polycrates), but by his own skill and industry, and who is a well-conditioned, modest man, not insolent, or overbearing, or annoying; moreover, this son of his has received a good [education](/concepts/education), as the Athenian people certainly appear to think, for they choose him to fill the highest offices. And these are the sort of men from whom you are likely to learn whether there are any teachers of virtue, and who they are. Please, Anytus, to help me and your friend Meno in answering our question, Who are the teachers? Consider the matter thus: If we wanted Meno to be a good physician, to whom should we send him? Should we not send him to the physicians?
@@ -933,6 +1781,72 @@ ANYTUS: Certainly; no man better.
 SOCRATES: And must not he then have been a good teacher, if any man ever was a good teacher, of his own virtue?
 
 ANYTUS: Yes certainly, — if he wanted to be so.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Io certamente ho spesso domandato se ve ne fossero, e mi son dato gran pena per trovarli, e non vi son mai riuscito; e molti mi hanno aiutato nella ricerca, ed erano quelli che io stimavo i più atti a saperlo. Ora, nel momento in cui egli è richiesto, abbiamo per buona sorte seduto accanto a noi Anito, la persona stessa a cui dovremmo rivolgere la domanda; a lui dunque ricorriamo. In primo luogo, egli è figlio di un padre ricco e saggio, Antemione, il quale acquistò le sue ricchezze, non per accidente o dono, come Ismenia il Tebano (che recentemente si è fatto ricco quanto Policrate), ma con la propria abilità e industria, ed è uomo di condizioni agiate, modesto, non insolente, né arrogante, né importuno; inoltre, questo suo figlio ha ricevuto una buona [educazione](/concepts/education), come certo il popolo ateniese sembra pensare, poiché lo sceglie per le più alte cariche. E questi sono gli uomini da cui è probabile che tu apprenda se vi siano maestri di virtù, e chi essi siano. Ti prego, Anito, di aiutare me e il tuo amico Menone nel rispondere alla nostra domanda: Chi sono i maestri? Considera la cosa così: se volessimo che Menone divenisse un buon medico, a chi dovremmo mandarlo? Non dovremmo forse mandarlo dai medici?
+
+ANYTUS: Certamente.
+
+SOCRATE: O se volessimo che fosse un buon calzolaio, non dovremmo forse mandarlo dai calzolai?
+
+ANYTUS: Sì.
+
+SOCRATE: E così via?
+
+ANYTUS: Sì.
+
+SOCRATE: Permettimi di importunarti con un'altra domanda. Quando diciamo che faremmo bene a mandarlo dai medici se volessimo che diventasse medico, intendiamo forse che faremmo bene a mandarlo da coloro che professano quest'arte, piuttosto che da coloro che non la professano, e da coloro che esigono un compenso per insegnarla, e professano di insegnarla a chiunque venga ad apprenderla? E se queste fossero le nostre ragioni, non avremmo forse ragione a mandarlo?
+
+ANYTUS: Sì.
+
+Socrate: E non si potrebbe dire altrettanto del suonare il flauto e delle altre arti? Un uomo che volesse fare di un altro un suonatore di flauto rifiuterebbe forse di mandarlo a coloro che professano d'insegnare per denaro quest'arte, e andrebbe invece a importunare altre persone perché gli dessero istruzione, persone che non sono insegnanti di professione e che non hanno mai avuto un solo discepolo in quel ramo del sapere che egli desidera che quegli apprenda — non sarebbe una tale condotta il colmo della follia?
+
+Sì, per Zeus, e anche d'ignoranza.
+
+SOCRATE: Benissimo. E ora sei in grado di consigliarmi intorno al mio amico Menone. Mi diceva, Anito, che desidera conseguire quel genere di sapienza e virtù con cui gli uomini governano [lo stato](/concepts/state) o la casa, onorano i propri genitori, e sanno quando ricevere e quando congedare cittadini e stranieri, come un uomo buono dovrebbe. Ora, da chi dovrebbe andare per apprendere questa virtù? Il ragionamento precedente non implica forse chiaramente che dovremmo mandarlo da coloro che professano e affermano di essere i maestri comuni di tutta l'Ellade, e sono pronti a impartire istruzione a chiunque voglia, a prezzo fisso?
+
+ANYTUS: Chi intendi, Socrate?
+
+SOCRATE: Tu certo sai, non è vero, Anito, che questi sono coloro che il genere umano chiama sofisti?
+
+Per Eracle, Anito, desisti! Io spero soltanto che nessun amico o parente o conoscente mio, sia cittadino che straniero, sia mai così folle da lasciarsi corrompere da costoro; poiché essi sono un flagello manifesto e una corruzione per quanti hanno a che fare con loro.
+
+SOCRATE: Come dici, Anito? Di tutti coloro che professano di saper fare del bene agli uomini, vuoi dire che questi soli non solo non giovano loro, ma corrompono addirittura coloro che sono loro affidati, e in cambio di questo disservizio hanno l'ardire di chiedere denaro? In verità, non posso crederti; perché io conosco un solo uomo, Protagora, che trasse dalla sua arte più di quanto ne traesse il celebre Fidia, che creò opere così nobili, o altri dieci statuari qualunque. Come potrebbe ciò essere? Un rammendatore di scarpe vecchie, o un rattoppatore di vesti, che rendesse le scarpe o le vesti peggiori di come le aveva ricevute, non sarebbe potuto restare trenta giorni senza essere scoperto, e sarebbe ben presto morto di fame; mentre per più di quarant'anni Protagora corrompeva tutta l'Ellade, e rimandava i suoi discepoli peggiori di come li aveva ricevuti, e non fu mai scoperto. Poiché, se non m'inganno, egli aveva circa settant'anni alla sua morte, quaranta dei quali spesi nella pratica della sua professione; e per tutto quel tempo ebbe buona reputazione, che ancor oggi conserva: e non solo Protagora, ma molti altri sono lodati; alcuni che vissero prima di lui, e altri che sono ancora in vita. Ora, quando tu dici che essi ingannarono e corruppero i giovani, si deve supporre che li abbiano corrotti consapevolmente o inconsapevolmente? Possono coloro che furono giudicati da molti i più saggi dell'Ellade essere stati fuori di senno?
+
+ANITO: Fuori di senno! No, Socrate; i giovani che diedero loro il denaro erano fuori di senno, e i loro parenti e tutori che affidarono la loro giovinezza alla cura di questi uomini erano ancor più fuori di senno, e più di tutti, le città che permisero loro di entrare e non li scacciarono, fossero cittadini o stranieri.
+
+SOCRATE: Ti ha fatto torto qualcuno dei sofisti, Anito? Che cosa ti rende così adirato contro di loro?
+
+ANITO: No, in verità, né io né alcuna delle cose mie abbiamo mai avuto, né soffrirei che avessero, nulla a che fare con essi.
+
+SOCRATE: Dunque ne sei del tutto ignaro?
+
+ANYTUS: E non ho alcun desiderio di conoscerlo.
+
+SOCRATE: Allora, mio caro amico, come puoi sapere se una cosa è buona o cattiva di cui sei del tutto ignorante?
+
+ANITO: Molto bene; sono sicuro di sapere che sorta di uomini siano questi, che io li conosca o no.
+
+SOCRATE: Devi essere un indovino, Anito, poiché davvero non riesco a comprendere, a giudicare dalle tue stesse parole, come, se non li conosci, tu ne sappia qualcosa. Ma non ti chiedo chi siano i maestri che corromperanno Menone (lascia che siano, se vuoi, i Sofisti); ti chiedo solo di dirgli chi vi sia in questa grande città che gli insegni come divenire eminente nelle virtù che poco fa descrivevo. Egli è amico della tua famiglia, e gli farai cosa gradita.
+
+ANYTUS: Perché non glielo dici tu stesso?
+
+SOCRATE: Ho detto a lui coloro che supponevo essere i maestri di queste cose; ma apprendo da te che sono del tutto in errore, e oserei dire che hai ragione. E ora desidero che tu, da parte tua, mi dica a chi tra gli Ateniesi egli debba rivolgersi. Chi nomineresti?
+
+ANYTUS: Perché scegliere singoli individui? Qualunque gentiluomo ateniese, preso a caso, se vorrà curarsi di lui, gli farà molto più bene dei Sofisti.
+
+SOCRATE: E quei signori crebbero da sé; e senza essere stati istruiti da alcuno, furono nondimeno capaci di insegnare ad altri ciò che essi stessi non avevano mai imparato?
+
+ANYTUS: Immagino che abbiano appreso della generazione precedente di gentiluomini. Non ci sono stati molti uomini buoni in questa città?
+
+SOCRATE: Sì, certamente, Anito; e anche molti buoni statisti vi sono sempre stati e ve ne sono ancora, nella città di Atene. Ma la questione è se essi fossero anche buoni maestri della propria virtù; — non se vi siano o vi siano stati uomini buoni in questa parte del mondo, ma se la virtù possa essere insegnata, è la questione che abbiamo discussa. Ora, intendiamo dire che gli uomini buoni dei nostri tempi e di altri tempi seppero comunicare ad altri quella virtù che essi stessi possedevano; o è la virtù una cosa incapace di essere comunicata o trasmessa da un uomo a un altro? Questa è la questione che io e Menone abbiamo discussa. Considera la cosa a modo tuo: non ammetteresti che Temistocle fosse un uomo buono?
+
+ANYTUS: Certamente; nessun uomo migliore.
+
+SOCRATES: E non deve egli dunque essere stato un buon maestro, se mai uomo fu buon maestro, della propria virtù?
+
+Sì, certamente, — se voleva esserlo.
 
 <span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -1047,6 +1961,120 @@ MENO: How do you mean, Socrates?
 SOCRATES: I mean that good men are necessarily useful or profitable. Were we not right in admitting this? It must be so.
 
 MENO: Yes.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[Socrate](/figures/socrates): Ma non avrebbe voluto? Avrebbe, in ogni caso, desiderato rendere suo figlio un uomo buono e un gentiluomo; non avrebbe potuto essergli geloso, né essersi astenuto intenzionalmente dal trasmettergli la propria virtù. Non hai mai sentito che rese suo figlio Cleofanto un famoso cavaliere; e che gli fece insegnare a stare ritto a cavallo e a scagliare un giavellotto, e a fare molte altre cose mirabili; e in tutto ciò che poteva apprendersi da un maestro era ben istruito? Non hai udito di lui dai nostri anziani?
+
+ANITO: Ho.
+
+Dunque nessuno potrebbe dire che suo figlio mostrasse alcuna mancanza di capacità?
+
+ANYTUS: Verosimilmente no.
+
+SOCRATE: Ma vi fu mai alcuno, vecchio o giovane, che dicesse in tua presenza che Cleofanto, figlio di Temistocle, fosse uomo saggio o buono, come lo era suo padre?
+
+ANYTUS: Non ho certamente mai sentito alcuno dire ciò.
+
+E se la virtù potesse essere insegnata, suo padre Temistocle avrebbe cercato di istruirlo in queste arti minori, e avrebbe permesso che colui che, come devi ricordare, era suo figlio, non fosse migliore dei suoi vicini in quelle qualità nelle quali egli stesso eccelleva?
+
+ANYTUS: Davvero, davvero, non credo.
+
+SOCRATE: Ecco un maestro di virtù che ammetti essere tra i migliori uomini del passato. Prendiamone un altro, — Aristide, figlio di Lisimaco: non riconosceresti che egli era un uomo buono?
+
+ANYTUS: Certo che dovrei.
+
+SOCRATE: E non educò egli suo figlio Lisimaco meglio di ogni altro Ateniese in tutto ciò che per lui si potesse fare con l'aiuto de' maestri? Ma quale ne fu il risultato? È egli un po' migliore di ogni altro mortale? Egli è un tuo conoscente, e tu vedi com'egli è. E v'è ancora Pericle, magnifico nella sua sapienza; e questi, come tu sai, ebbe due figli, Paralo e Santippo.
+
+ANITO: Lo so.
+
+SOCRATE: E tu sai anche che egli insegnò loro a essere cavalieri senza pari, e li fece istruire nella musica e nella ginnastica e in ogni sorta di arti — in queste cose erano pari ai migliori — e non ebbe egli il desiderio di farne degli uomini da bene? Anzi, dovette pur desiderarlo. Ma la virtù, come io sospetto, non può essere insegnata. E affinché tu non supponga che i maestri incapaci fossero soltanto la parte più vile degli Ateniesi e pochi di numero, rammenta ancora che Tucidide ebbe due figli, Melesia e Stefano, ai quali, oltre a dare una buona [educazione](/concepts/education) nelle altre cose, egli insegnò la lotta, e furono i migliori lottatori d'Atene: uno di essi affidò alle cure di Xanthia, e l'altro a quelle di Eudoro, che avevano fama di essere i più celebri lottatori di quel tempo. Li ricordi?
+
+ANITO: Ne ho udito parlare.
+
+SOCRATE: Ora, può esservi dubbio che Tucidide, i cui figliuoli furono ammaestrati in cose per le quali egli dovette spendere danaro, li avrebbe fatti education uomini da bene, il che non gli sarebbe costato nulla, se la virtù si potesse insegnare? Vorrai tu rispondere ch'egli era uomo gretto, e non aveva molti amici tra gli Ateniesi e gli alleati? No, ma egli era di gran famiglia, e uomo di grande autorità in Atene e in tutta l'Ellade, e, se la virtù si potesse insegnare, egli avrebbe trovato qualche Ateniese o straniero che avrebbe fatto uomini da bene i suoi figliuoli, se egli stesso non poteva trovare il tempo dagli affari di stato. Di nuovo, sospetto, amico Anito, che la virtù non sia cosa che si possa insegnare?
+
+ANITO: Socrate, io penso che tu sia troppo pronto a parlar male degli uomini: e, se vuoi seguire il mio consiglio, ti raccomanderei di essere cauto. Forse non v'è città in cui non sia più facile recar danno agli uomini che giovar loro, e questo è certamente il caso ad Atene, come credo che tu sappia.
+
+SOCRA TE: O Menone, pensa che Anito sia in collera. E può ben esserlo, poiché egli pensa, in primo luogo, che io stia diffamando questi gentiluomini; e in secondo luogo, è del parere di essere egli stesso uno di loro. Ma un giorno saprà che cosa significhi diffamazione, e se mai lo saprà, mi perdonerà. Nel frattempo, tornerò a te, Menone; poiché suppongo che vi siano gentiluomini anche nella tua regione?
+
+MENONE: Certamente vi sono.
+
+SOCRATE: E sono disposti a insegnare ai giovani? e professano di essere maestri? e concordano che la virtù si insegna?
+
+MENONE: No davvero, Socrate, sono tutt'altro che d'accordo; puoi sentirli dire ora che la virtù si può insegnare, ora il contrario.
+
+SOCRATE: Possiamo chiamare maestri coloro che non riconoscono la possibilità della propria vocazione?
+
+MENONE: Non credo, Socrate.
+
+SOCRATE: E che cosa pensi di questi Sofisti, che sono i soli professori? Ti sembrano essi maestri di virtù?
+
+Menone: Spesso mi meraviglio, o Socrate, che Gorgia non sia mai udito promettere d'insegnare la virtù: e quando sente altri promettere, si limita a ridere di loro; ma pensa che gli uomini debbano essere ammaestrati a parlare.
+
+Allora non pensi che i Sofisti siano maestri?
+
+MENONE: Non posso dirtelo, Socrate; come tutti gli altri, sono in dubbio, e talvolta penso che siano maestri e talvolta no.
+
+SOCRATE: E sei consapevole che non soltanto tu e gli altri politici dubitate se la virtù possa essere insegnata o no, ma che anche Teognide il poeta dice la stessa identica cosa?
+
+MENONE: Dove lo dice?
+
+SOCRATE: In questi versi elegiaci (Theog.):
+
+Mangia e bevi e siediti con i potenti, e renditi gradito a loro; poiché dai buoni imparerai ciò che è buono, ma se ti mescoli con i cattivi perderai l'intelligenza che già possiedi.
+
+Osservi che qui egli sembra implicare che la virtù può essere insegnata?
+
+MENO: Chiaramente.
+
+SOCRATE: Ma in alcuni altri versi egli si sposta e dice (Teog.):
+
+'Se la comprensione potesse essere creata e infusa in un uomo, allora essi' (che fossero in grado di compiere tale impresa) 'avrebbero ottenuto grandi ricompense.'
+
+E ancora: —
+
+Mai sarebbe nato da un buon padre un figlio cattivo, ché egli avrebbe udito la voce dell'ammaestramento; ma non con l'insegnamento farai mai d'un uomo cattivo uno buono.
+
+E questo, come potete osservare, è una contraddizione dell'altro.
+
+MENO: Chiaramente.
+
+SOCRATE: E v'è forse qualche altra cosa della quale si afferma che i professori non solo non siano maestri degli altri, ma siano essi stessi ignoranti, e cattivi conoscitori di ciò che professano d'insegnare? o v'è qualche cosa intorno alla quale persino i riconosciuti ‘gentiluomini’ dicono talvolta che ‘questa cosa può essere insegnata,’ e talvolta il contrario? Puoi tu dire che siano maestri in alcun vero senso coloro le cui idee sono in tale confusione?
+
+MENO: Direi, certamente no.
+
+SOCRATE: Ma se né i Sofisti né i gentiluomini sono maestri, chiaramente non ci possono essere altri maestri?
+
+MENO: No.
+
+SOCRATE: E se non ci sono maestri, non ci sono nemmeno discepoli?
+
+MENO: D'accordo.
+
+E Socrate: E abbiamo ammesso che una cosa non può essere insegnata della quale non vi siano né maestri né discepoli?
+
+MENO: L’abbiamo.
+
+SOCRATE: E non si trovano in alcun luogo maestri di virtù?
+
+MENONE: Non ve ne sono.
+
+SOCRATE: E se non ci sono maestri, non ci sono nemmeno discepoli?
+
+MENO: Ciò, credo, è vero.
+
+SOCRATE: Dunque la virtù non può essere insegnata?
+
+MENONE: Non se abbiamo ragione nella nostra opinione. Ma non posso credere, Socrate, che non vi siano uomini buoni: e se vi sono, come sono venuti all'esistenza?
+
+SOCRATE: Temo, Menone, che tu ed io non valiamo molto, e che Gorgia sia stato per te un educatore altrettanto scarso quanto Prodico lo è stato per me. Certamente dovremo badare a noi stessi, e cercare di trovare qualcuno che in un modo o nell'altro ci aiuti a migliorarci. Dico questo perché osservo che nella discussione precedente nessuno di noi ha rilevato che l'azione retta e buona è possibile all'uomo sotto altra guida che non sia quella della conoscenza (episteme); — e in verità, se questo si nega, non si vede come possano esserci affatto uomini buoni.
+
+MENO: Come intendi dire, Socrate?
+
+SOCRATE: Intendo dire che gli uomini buoni sono necessariamente utili o vantaggiosi. Non avevamo ragione ad ammettere questo? Deve essere così.
+
+MENO: Sì.
 
 <span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -1191,3 +2219,147 @@ SOCRATES: I do not care; as for Anytus, there will be another opportunity of tal
 MENO: That is excellent, Socrates.
 
 SOCRATES: Then, Meno, the conclusion is that virtue comes to the virtuous by the gift of God. But we shall never know the certain truth until, before asking how virtue is given, we enquire into the actual nature of virtue. I fear that I must go away, but do you, now that you are persuaded yourself, persuade our friend Anytus. And do not let him be so exasperated; if you can conciliate him, you will have done good service to the Athenian people.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): E nel supporre che sarebbero utili solo se fossero vere guide per noi all'azione — anche lì avevamo ragione?
+
+MENO: Sì.
+
+SOCRATE: Ma quando dicemmo che un uomo non può essere una buona guida a meno che non abbia conoscenza (phrhonesis), in questo ci sbagliavamo.
+
+MENONE: Che cosa intendi dire con la parola ‘giusto’?
+
+SOCRATE: Spiegherò. Se un uomo conoscesse la via per Larisa, o per qualsiasi altro luogo, e andasse in quel luogo e vi conducesse altri, non sarebbe egli una guida giusta e buona?
+
+MENONE: Certamente.
+
+SOCRATE: E chi avesse una retta opinione circa la via, ma non vi fosse mai stato e non la conoscesse, potrebbe essere anch’egli una buona guida, non è vero?
+
+MENONE: Certamente.
+
+SOCRATE: E mentre egli ha una vera opinione intorno a ciò che l'altro conosce, sarà una guida altrettanto buona, se egli pensa il vero, quanto colui che conosce il vero?
+
+MENO: Esattamente.
+
+SOCRATE: Dunque l'opinione vera è guida all'azione retta tanto quanto la conoscenza; e questo era il punto che tralasciammo nella nostra indagine sulla natura della virtù, quando dicemmo che solo la conoscenza è guida dell'azione retta; mentre vi è anche la retta opinione.
+
+MENO: Vero.
+
+SOCRATE: Dunque l'opinione retta non è meno utile della conoscenza?
+
+MENONE: La differenza, Socrate, è solo questa: chi ha conoscenza avrà sempre ragione; ma chi ha opinione retta talvolta avrà ragione, e talvolta no.
+
+SOCRATE: Che vuoi dire? Può essere in errore chi ha retta opinione, finché ha retta opinione?
+
+Ammetto la forza del tuo argomento, e perciò, Socrate, mi meraviglio che la conoscenza debba essere preferita all'opinione retta — o perché mai dovrebbero differire.
+
+SOCRATE: E devo spiegarti questa meraviglia?
+
+MENO: Su, dimmi.
+
+SOCRATE: Non ti meraviglieresti se avessi mai osservato le immagini di Dedalo (Confronta Eutifrone); ma forse non le hai nel tuo paese?
+
+MENO: Che cosa hanno a che fare con la questione?
+
+SOCRATE: Perché hanno bisogno di essere legate per trattenerle, e se non sono legate, vagabonderanno e fuggiranno.
+
+MENONE: Ebbene, che importa?
+
+SOCRATE: Voglio dire che non sono possessi di gran valore se sono in libertà, poiché se ne andranno via come schiavi fuggitivi; ma quando sono legate, sono di grande valore, poiché sono realmente belle opere d'arte. Ora questa è un'illustrazione della natura delle opinioni vere: finché rimangono con noi sono belle e feconde, ma fuggono via dall'anima umana e non rimangono a lungo, e perciò non sono di molto valore finché non vengono legate dal vincolo della causa; e questo legame, amico Menone, è la reminiscenza, come tu ed io abbiamo convenuto di chiamarla. Ma quando sono legate, in primo luogo hanno la natura della scienza; e, in secondo luogo, sono durevoli. Ed è per questo che la scienza è più onorevole ed eccellente dell'opinione vera, perché è legata da una catena.
+
+MENONE: Ciò che dici, Socrate, mi sembra essere assai simile al vero.
+
+SOCRATE: Anch'io parlo piuttosto nell'ignoranza; solo congetturo. Eppure che la conoscenza differisca dalla vera opinione non è per me materia di congettura. Non sono molte le cose che io professi di sapere, ma questa è certissimamente una di esse.
+
+Sì, Socrate; e hai perfettamente ragione nel dire così.
+
+E non ho io anche ragione nel dire che l'opinione vera, facendo da guida, perfeziona l'azione altrettanto bene quanto la conoscenza?
+
+MENONE: Anche qui, o Socrate, credo che tu abbia ragione.
+
+SOCRATE: Dunque la retta opinione non è punto inferiore alla conoscenza, né meno utile in azione; né l'uomo che ha retta opinione è inferiore a colui che ha conoscenza?
+
+MENO: Vero.
+
+SOCRATE: E senza dubbio l'uomo buono è stato da noi riconosciuto come utile?
+
+MENO: Sì.
+
+SOCRATES: Vedendo dunque che gli uomini diventano buoni e utili agli stati, non solo perché hanno conoscenza, ma perché hanno retta opinione, e che né la conoscenza né la retta opinione sono date all'uomo per natura o da lui acquisite — (immagini tu che una delle due sia data per natura?)
+
+MENO: Non io.
+
+SOCRATES: Allora se non sono dati per natura, nemmeno i buoni sono buoni per natura?
+
+MENONE: Certamente no.
+
+SOCRATE: E, esclusa la natura, sorse poi la questione se la virtù si acquisti con l'insegnamento?
+
+MENO: Sì.
+
+SOCRATE: Se la virtù era saggezza (o conoscenza), allora, come pensavamo, era insegnata?
+
+MENO: Sì.
+
+SOCRATE: E se era insegnato, era sapienza?
+
+MENONE: Certamente.
+
+SOCRATE: E se ci fossero maestri, potrebbe essere insegnato; e se non ci fossero maestri, no?
+
+MENO: Vero.
+
+SOCRATE: Ma certamente riconoscemmo che non vi erano maestri di virtù?
+
+MENO: Sì.
+
+SOCRATE: Allora riconoscemmo che non era insegnata, e non era saggezza?
+
+MENONE: Certamente.
+
+SOCRATE: Eppure ammettemmo che era un bene?
+
+MENO: Sì.
+
+SOCRATE: E la giusta guida è utile e buona?
+
+MENONE: Certamente.
+
+SOCRATE: E le sole guide giuste sono la conoscenza e l'opinione vera — queste sono le guide dell'uomo; poiché le cose che accadono per [caso](/concepts/fortune) non sono sotto la guida dell'uomo: ma le guide dell'uomo sono l'opinione vera e la conoscenza.
+
+MENO: Penso di sì anch'io.
+
+SOCRATE: Ma se la virtù non è insegnata, nemmeno la virtù è conoscenza.
+
+MENO: Chiaramente no.
+
+SOCRATE: Allora, di due cose buone e utili, una, che è la conoscenza, è stata accantonata, e non può essere supposta come nostra guida nella vita politica.
+
+MENO: Penso di no.
+
+SOCRATE: E quindi non per alcuna sapienza, e non perché fossero saggi, Temistocle e quegli altri dei quali Anito parlò governarono gli stati. Questa fu la ragione per cui non poterono rendere altri simili a sé — perché la loro virtù non era fondata sulla conoscenza.
+
+MENONE: Probabilmente è vero, Socrate.
+
+SOCRATE: Ma se non per conoscenza, l'unica alternativa che rimane è che gli uomini di stato debbano aver governato gli stati mediante la retta opinione, la quale nella politica è ciò che la divinazione è nella religione; poiché gli indovini e anche i profeti dicono molte cose vere, ma non sanno ciò che dicono.
+
+MENO: Così credo.
+
+E non possiamo noi, o Menone, chiamare veramente divini quegli uomini i quali, senza avere intelletto, riescono tuttavia in molte grandi imprese e parole?
+
+MENONE: Certamente.
+
+SOCRATE: Allora avremo anche ragione di chiamare divini quelli che ora dicevamo indovini e profeti, compresa tutta la stirpe dei poeti. Sì, e soprattutto gli uomini di Stato possono dirsi divini e illuminati, essendo ispirati e posseduti da Dio, nel qual stato dicono molte grandi cose, non sapendo quel che dicono.
+
+MENO: Sì.
+
+E anche le donne, Menone, chiamano divini gli uomini buoni — non è così? e gli Spartani, quando lodano un uomo buono, dicono «che è un uomo divino».
+
+E io penso, Socrate, che essi abbiano ragione; sebbene molto probabilmente il nostro amico Anito possa offendersi di questa parola.
+
+SOCRATE: Non me ne curo; quanto ad Anito, ci sarà un'altra occasione per parlare con lui. Per riassumere la nostra indagine — il risultato sembra essere, se la nostra opinione è in qualche modo giusta, che la virtù non è né naturale né acquisita, ma un istinto dato da Dio ai virtuosi. Né l'istinto è accompagnato da ragione, a meno che non si possa supporre che tra gli uomini di stato vi sia qualcuno capace di educare uomini di stato. E se vi è un tale, si può dire che egli sia tra i vivi ciò che Omero dice che Tiresia fosse tra i morti: «egli solo ha intelletto; ma gli altri sono ombre vaganti»; e lui e la sua virtù similmente saranno una realtà tra le ombre.
+
+MENONE: Ciò è eccellente, Socrate.
+
+SOCRATE: Dunque, Menone, la conclusione è che la virtù viene ai virtuosi per dono di Dio. Ma non conosceremo mai la certa verità finché, prima di chiederci come la virtù sia data, non indaghiamo la natura reale della virtù. Temo di dover partire, ma tu, ora che sei persuaso tu stesso, persuadi il nostro amico Anito. E non permettere che sia così esasperato; se puoi conciliarlo, avrai reso un buon servizio al popolo ateniese.

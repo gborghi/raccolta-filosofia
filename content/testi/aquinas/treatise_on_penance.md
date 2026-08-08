@@ -5196,7 +5196,7 @@ Risposta all’Obiezione 4: Ognuno è libero di volere, pertanto nessuno ha biso
 
 Risposta all’Obiezione 5: Tutte e tre le Persone remettono i peccati nello stesso modo in cui lo fa una sola Persona; pertanto non vi è alcun bisogno che il sacerdote, ministro della Trinità, possieda tre “chiavi”: tanto più che la volontà, attribuita all’Holy Spirit, non richiede alcuna chiave, come già detto sopra (al punto 4).
 
-<span class="atom-split" data-atom="086" data-title="OF THE EFFECT OF THE KEYS (FOUR ARTICLES) (1/2)" data-chapter="OF THE EFFECT OF THE KEYS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="086" data-title="OF THE EFFECT OF THE KEYS (FOUR ARTICLES) (parte 1)" data-chapter="OF THE EFFECT OF THE KEYS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the effect of the keys under which head there are four points of inquiry:
 (1) Whether the power of the keys extends to the remission of guilt?
@@ -5320,7 +5320,7 @@ Risposta all’Obiezione 1: Come afferma il Maestro nel testo (Sentenze iv, D, 1
 2. Attraverso una dichiarazione riguardante il perdono presente, senza che i sacerdoti vi partecipino in alcun modo; secondo alcuni, i sacramenti del Nuovo Testamento simboleggiano semplicemente la concessione della grazia da parte di Dio, e non possiedono un potere effettivo per produrre tale grazia. Secondo questa opinione, anche il potere delle chiavi sacerdotali si limita a dichiarare l’operazione divina che ha come risultato la remissione dei peccati al momento della celebrazione del sacramento.  
 3. Attraverso una dichiarazione che simboleggia l’operazione divina che provoca immediatamente la remissione dei peccati, e attraverso la cooperazione concreta dei sacerdoti in tale processo; secondo un’altra opinione più diffusa, i sacramenti del Nuovo Testamento dichiarano il lavaggio dei peccati operato da Dio. In questo modo, anche il sacerdote del Nuovo Testamento afferma che la persona che riceve il sacramento è assolta dai suoi peccati, poiché ciò che viene attribuito al potere dei ministri deve essere coerente con il significato stesso del sacramento. Non è nemmeno irragionevole ritenere che le chiavi della Chiesa possano disporre il penitente alla remissione dei suoi peccati, dato che questi sono già stati rimessi; allo stesso modo, non è irragionevole considerare che il Battesimo, in sé considerato, produca una disposizione interiore nel credente che è già stato santificato.
 
-<span class="atom-split" data-atom="087" data-title="OF THE EFFECT OF THE KEYS (FOUR ARTICLES) (2/2)" data-chapter="OF THE EFFECT OF THE KEYS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="087" data-title="OF THE EFFECT OF THE KEYS (FOUR ARTICLES) (parte 2)" data-chapter="OF THE EFFECT OF THE KEYS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 2: Neither the [sacrament](/concepts/sacrament) of Penance, nor the sacrament of Baptism, by its
 operation, causes grace, or the remission of guilt, directly, but only dispositively [*St. Thomas here
@@ -7322,7 +7322,7 @@ Risposta all’Obiezione 3: L’effetto dell’assoluzione sacramentale consiste
 
 Risposta all’Obiezione 4: La grazia offre un rimedio migliore per evitare il peccato rispetto all’abitudine alle (buone) opere. Poiché colui che riceve un’indulgenza è spinto a cercare la grazia attraverso l’amore che nutre per la causa per cui tale indulgenza gli viene concessa, ne consegue che le indulgenze costituiscono davvero un rimedio contro il peccato. Pertanto, non è dannoso concedere indulgenze, a meno che ciò non avvenga senza discernimento. Tuttavia, coloro che ricevono un’indulgenza dovrebbero essere consigliati a non trascurare le opere penitenziali imposte loro, affinché possano trarre beneficio anche da queste, anche se sono già stati liberati dal debito della punizione; soprattutto considerando che spesso si trovano in debito maggiore di quanto pensino.
 
-<span class="atom-split" data-atom="121" data-title="Whether indulgences are as effective as they claim to be? (1/2)" data-chapter="Whether indulgences are as effective as they claim to be?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="121" data-title="Whether indulgences are as effective as they claim to be? (parte 1)" data-chapter="Whether indulgences are as effective as they claim to be?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that indulgences are not as effective as they claim to be. For
 indulgences have no effect save from the power of the keys. Now by the power of the keys, he who
@@ -7413,7 +7413,7 @@ view have we "too great a market of the Divine mercy" [*St. Bonaventure, Sent. i
 maintain, nor again does it derogate from Divine justice, for no punishment is remitted, but the
 punishment of one is imputed to another.
 
-<span class="atom-split" data-atom="122" data-title="Whether indulgences are as effective as they claim to be? (2/2)" data-chapter="Whether indulgences are as effective as they claim to be?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="122" data-title="Whether indulgences are as effective as they claim to be? (parte 2)" data-chapter="Whether indulgences are as effective as they claim to be?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 1: As stated above (Q[19], A[3]) there are two keys, the key of orders and
 the key of jurisdiction. The key of orders is a sacramental: and as the effects of the sacraments are

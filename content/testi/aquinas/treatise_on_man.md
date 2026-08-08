@@ -621,7 +621,7 @@ Ora consideriamo l’unione dell’anima con il corpo; su questo argomento vi so
 (7) O se ciò avvenga tramite un accidente.  
 (8) Se l’anima si trovi interamente in ogni parte del corpo.
 
-<span class="atom-split" data-atom="011" data-title="Whether the intellectual principle is united to the body as its form? (1/3)" data-chapter="Whether the intellectual principle is united to the body as its form?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="Whether the intellectual principle is united to the body as its form? (parte 1)" data-chapter="Whether the intellectual principle is united to the body as its form?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the intellectual principle is not united to the body as its form. For
 the Philosopher says (De [Anima](/concepts/soul) iii, 4) that the intellect is "separate," and that it is not the act of
@@ -680,7 +680,7 @@ Obiezione 6: Inoltre, tutto ciò che esiste in una cosa per via della sua natura
 
 Al contrario, secondo il Filosofo, nella Metafisica VIII (De Interpretatione VII 2), la differenza deriva dalla forma. Ma la differenza che costituisce l’uomo è quella “razionale”, cioè quella che appartiene all’uomo in virtù del suo principio intellettivo. Pertanto, il principio intellettivo è proprio la forma dell’uomo.
 
-<span class="atom-split" data-atom="012" data-title="Whether the intellectual principle is united to the body as its form? (2/3)" data-chapter="Whether the intellectual principle is united to the body as its form?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Whether the intellectual principle is united to the body as its form? (parte 2)" data-chapter="Whether the intellectual principle is united to the body as its form?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, We must assert that the intellect which is the principle of intellectual operation
 is the form of the human body. For that whereby primarily anything acts is a form of the thing to
@@ -769,7 +769,7 @@ by virtue of itself as a whole. But if it is a form by virtue of some part of it
 is the form we call the soul, and that of which it is the form we call the "primary animate," as was
 said above (Q[75], A[5]).
 
-<span class="atom-split" data-atom="013" data-title="Whether the intellectual principle is united to the body as its form? (3/3)" data-chapter="Whether the intellectual principle is united to the body as its form?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="Whether the intellectual principle is united to the body as its form? (parte 3)" data-chapter="Whether the intellectual principle is united to the body as its form?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 1: As the Philosopher says (Phys. ii, 2), the ultimate natural form to which
 the consideration of the natural philosopher is directed is indeed separate; yet it exists in matter.
@@ -811,7 +811,7 @@ Risposta all’Obiezione 5: L’anima trasmette alla materia corporea quell’es
 
 Risposta all’Obiezione 6: Il fatto di essere unito al corpo appartiene alla anima per sua stessa natura, così come il fatto che un corpo leggero abbia la capacità di sollevarsi appartiene a esso per sua stessa natura. E proprio come un corpo leggero rimane tale anche quando allontanato dal suo luogo naturale, mantenendo comunque la tendenza e l’attitudine ad esso appartenere; allo stesso modo, l’anima umana mantiene la propria essenza anche quando separata dal corpo, possedendo una naturale inclinazione a essere unita ad esso.
 
-<span class="atom-split" data-atom="014" data-title="Whether the intellectual principle is multiplied according to the number of bodies? (1/2)" data-chapter="Whether the intellectual principle is multiplied according to the number of bodies?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="Whether the intellectual principle is multiplied according to the number of bodies? (parte 1)" data-chapter="Whether the intellectual principle is multiplied according to the number of bodies?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the intellectual principle is not multiplied according to the
 number of bodies, but that there is one intellect in all men. For an immaterial substance is not
@@ -932,7 +932,7 @@ Risposta all’Obiezione 1: Sebbene l’anima intellettuale, come un angelo, non
 
 Risposta all’Obiezione 2: Tutto possiede unità, proprio come possiede essere; pertanto dobbiamo giudicare la molteplicità di una cosa nello stesso modo in cui giudichiamo il suo essere. È evidente che l’anima intellettuale, per via del suo stesso essere, è unita al corpo come sua forma; tuttavia, anche dopo la dissoluzione del corpo, l’anima intellettuale mantiene il proprio essere. Allo stesso modo, la molteplicità delle anime è proporzionale alla molteplicità dei corpi; eppure, anche dopo la dissoluzione dei corpi, le anime conservano il loro essere plurale.
 
-<span class="atom-split" data-atom="015" data-title="Whether the intellectual principle is multiplied according to the number of bodies? (2/2)" data-chapter="Whether the intellectual principle is multiplied according to the number of bodies?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="Whether the intellectual principle is multiplied according to the number of bodies? (parte 2)" data-chapter="Whether the intellectual principle is multiplied according to the number of bodies?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: Individuality of the intelligent being, or of the species whereby it
 understands, does not exclude the understanding of [universals](/axes/universals); otherwise, since separate intellects
@@ -985,7 +985,7 @@ Risposta all’Obiezione 5: Una conoscenza esiste nel discepolo e un’altra nel
 
 Risposta all’Obiezione 6: [Agostino](/figures/augustine) nega l’esistenza di una pluralità di anime, poiché ciò implicherebbe la presenza di una pluralità di specie.
 
-<span class="atom-split" data-atom="016" data-title="Whether besides the intellectual soul there are in man other souls essentially different from one another? (1/2)" data-chapter="Whether besides the intellectual soul there are in man other souls essentially different from one another?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="Whether besides the intellectual soul there are in man other souls essentially different from one another? (parte 1)" data-chapter="Whether besides the intellectual soul there are in man other souls essentially different from one another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that besides the intellectual soul there are in man other souls
 essentially different from one another, such as the sensitive soul and the nutritive soul. For corruptible
@@ -1107,7 +1107,7 @@ Risposta all’Obiezione 2: Non le forme, ma i composti sono classificati in mod
 
 Risposta all’Obiezione 3: L’embrione possiede innanzitutto un’anima che è soltanto sensitiva; quando questa viene eliminata, viene sostituita da un’anima più perfetta, che è sia sensitiva che intellettuale: come verrà ulteriormente dimostrato in seguito (Q[118], A[2], ad 2).
 
-<span class="atom-split" data-atom="017" data-title="Whether besides the intellectual soul there are in man other souls essentially different from one another? (2/2)" data-chapter="Whether besides the intellectual soul there are in man other souls essentially different from one another?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="017" data-title="Whether besides the intellectual soul there are in man other souls essentially different from one another? (parte 2)" data-chapter="Whether besides the intellectual soul there are in man other souls essentially different from one another?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: We must not consider the diversity of natural things as proceeding from
 the various logical notions or intentions, which flow from our manner of understanding, because
@@ -1590,7 +1590,7 @@ Procediamo ora ad esaminare quelle facoltà che appartengono alle potenze dell�
 (7) Se una potenza possa nascere da un’altra;  
 (8) Se tutte le potenze dell’anima rimangano nell’anima dopo la morte.
 
-<span class="atom-split" data-atom="024" data-title="Whether the essence of the soul is its power? (1/2)" data-chapter="Whether the essence of the soul is its power?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="024" data-title="Whether the essence of the soul is its power? (parte 1)" data-chapter="Whether the essence of the soul is its power?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the essence of the soul is its power. For [Augustine](/figures/augustine) says (De
 Trin. ix, 4), that "mind, knowledge, and love are in the soul substantially, or, which is the same
@@ -1691,7 +1691,7 @@ soul, not as loving and knowing, but as loved and known. His argument proceeds i
 if love were in the soul loved as in a subject, it would follow that an accident transcends its subject,
 since even other things are loved through the soul.
 
-<span class="atom-split" data-atom="025" data-title="Whether the essence of the soul is its power? (2/2)" data-chapter="Whether the essence of the soul is its power?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="025" data-title="Whether the essence of the soul is its power? (parte 2)" data-chapter="Whether the essence of the soul is its power?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 6: Although the soul is not composed of matter and form, yet it has an
 admixture of [potentiality](/concepts/act_potency), as we have said above (Q[75], A[5], ad 4); and for this reason it can be
@@ -2597,7 +2597,7 @@ Risposta all’Obiezione 3: Come sembra affermare il Filosofo (De Anima ii, 11),
 
 Risposta all’Obiezione 4: Il senso del gusto, secondo un detto del Filosofo (De Anima ii, 9), è un tipo di tatto che esiste soltanto nella lingua. Non si distingue dal tatto in generale, ma soltanto dalle varietà di tatto distribuite nel corpo. Tuttavia, se il tatto è considerato un solo senso, a causa della forma comune del suo oggetto, dobbiamo dire che il gusto si distingue dal tatto per via di una diversa forma di modificazione subita dall’organo sensoriale coinvolto. Il tatto, infatti, comporta una modificazione naturale – e non soltanto spirituale – dell’organo stesso, a causa della qualità che ne costituisce l’oggetto specifico; mentre l’organo del gusto non subisce necessariamente una tale modificazione naturale per via della qualità che ne rappresenta l’oggetto principale, ovvero l’umidità, che è un elemento preliminare e fondamentale per la formazione dei sapori.
 
-<span class="atom-split" data-atom="037" data-title="Whether the interior senses are suitably distinguished? (1/2)" data-chapter="Whether the interior senses are suitably distinguished?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="037" data-title="Whether the interior senses are suitably distinguished? (parte 1)" data-chapter="Whether the interior senses are suitably distinguished?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the interior senses are not suitably distinguished. For the
 common is not divided against the proper. Therefore the common sense should not be numbered
@@ -2728,7 +2728,7 @@ Risposta all’Obiezione 1: Il senso interno viene chiamato “comune” non per
 
 Risposta all’Obiezione 2: Il senso proprio giudica ciò che è propriamente sensibile distinguendolo da altre cose che rientrano nello stesso ambito percettivo; ad esempio, distinguendo il bianco dal nero o dal verde. Tuttavia né la vista né il gusto sono in grado di distinguere il bianco dal dolce: infatti ciò che distingue due cose deve necessariamente conoscerle entrambe. Pertanto, il giudizio discriminativo deve essere attribuito al senso comune; a esso, come a un termine comune, devono essere riferite tutte le percezioni dei sensi; e attraverso di esso vengono inoltre percepite tutte le intenzioni dei sensi stessi; ad esempio, quando qualcuno si rende conto di vedere qualcosa. Ciò non può essere fatto dal senso proprio, che conosce soltanto la forma di ciò che è sensibile e attraverso cui avviene l’immutazione percettiva; nell’ambito di questa immutazione si compie l’atto della vista, mentre un’altra fase del processo percettivo avviene nel senso comune, che percepisce effettivamente quell’atto visivo.
 
-<span class="atom-split" data-atom="038" data-title="Whether the interior senses are suitably distinguished? (2/2)" data-chapter="Whether the interior senses are suitably distinguished?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="038" data-title="Whether the interior senses are suitably distinguished? (parte 2)" data-chapter="Whether the interior senses are suitably distinguished?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: As one power arises from the soul by means of another, as we have seen
 above (Q[77], A[7]), so also the soul is the subject of one power through another. In this way the
@@ -5651,7 +5651,7 @@ Ora passiamo a considerare il modo e l’ordine con cui avviene la comprensione.
 (7) Un intelletto è in grado di comprendere meglio di un altro?  
 (8) Il nostro intelletto comprende prima le cose indivisibili o quelle divisibili?
 
-<span class="atom-split" data-atom="081" data-title="Whether our intellect understands corporeal and material things by abstraction from phantasms? (1/2)" data-chapter="Whether our intellect understands corporeal and material things by abstraction from phantasms?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="081" data-title="Whether our intellect understands corporeal and material things by abstraction from phantasms? (parte 1)" data-chapter="Whether our intellect understands corporeal and material things by abstraction from phantasms?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that our intellect does not understand corporeal and material things
 by abstraction from the phantasms. For the intellect is false if it understands an object otherwise
@@ -5750,7 +5750,7 @@ Rispondo che, come già detto sopra (Q[84], A[7]), l’oggetto della conoscenza 
 
 Risposta all’Obiezione 1: L’astrazione può avvenire in due modi. Primo, attraverso la composizione e la divisione; in questo modo possiamo comprendere che una cosa non esista all’interno di un’altra, o che sia separata da essa. Secondo, attraverso un’esame semplice e assoluto; in questo caso consideriamo una cosa senza tenere conto dell’altra. Pertanto, quando l’intelletto astrae una cosa dall’altra quando in realtà non sono realmente separate tra loro, ciò implica una falsità nel primo modo di astrazione. Tuttavia, nel secondo modo di astrazione, quando l’intelletto considera cose che in realtà non sono separate tra loro, ciò non comporta alcuna falsità, come è evidente nel caso dei sensi. Ad esempio, se dicessimo che il colore non è presente in un corpo colorato, o che è separato da esso, ci troveremmo in errore. Ma se considerassimo il colore e le sue proprietà senza fare riferimento all’oggetto concreto su cui si manifestano, o se esprimessimo a parole ciò che abbiamo compreso, non vi sarebbe alcun errore, poiché l’oggetto concreto non è essenziale per la nozione di colore. Allo stesso modo, le caratteristiche appartenenti a una specie materiale – come una pietra, un uomo o un cavallo – possono essere considerate separatamente dai principi individualizzanti che non fanno parte della definizione stessa di quella specie. Questo è ciò che intendiamo per “astrazione del generale dal particolare”, ovvero per l’esame della natura di una specie al di fuori delle sue qualità individuali. Se quindi si dice che l’intelletto commette un errore quando comprende una cosa in modo diverso da come essa è realmente, ciò vale soltanto nel caso in cui il termine “in modo diverso” si riferisca alla cosa stessa; infatti, l’intelletto commetterebbe un errore se considerasse la specie di una pietra separata dalla sua materia, come sosteneva Platone. Ma non è così se il termine “in modo diverso” si riferisce a colui che comprende quella cosa; in questo caso è del tutto vero che il modo con cui l’intelletto comprende qualcosa non coincide necessariamente con il modo in cui quella cosa esiste realmente: infatti, la cosa compresa dall’intelletto è considerata in termini immateriali, secondo il funzionamento stesso dell’intelletto, e non in termini materiali, come avviene per le cose fisiche.
 
-<span class="atom-split" data-atom="082" data-title="Whether our intellect understands corporeal and material things by abstraction from phantasms? (2/2)" data-chapter="Whether our intellect understands corporeal and material things by abstraction from phantasms?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="082" data-title="Whether our intellect understands corporeal and material things by abstraction from phantasms? (parte 2)" data-chapter="Whether our intellect understands corporeal and material things by abstraction from phantasms?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 2: Some have thought that the species of a natural thing is a form only,
 and that matter is not part of the species. If that were so, matter would not enter into the definition
@@ -5920,7 +5920,7 @@ Risposta all’Obiezione 2: In queste parole “la cosa effettivamente compresa�
 
 Risposta all’Obiezione 3: Nella parte sensibile si verificano due tipi di operazioni. La prima riguarda esclusivamente l’impressione ricevuta dai sensi; in questo caso, l’operazione sensoriale avviene quando i sensi vengono influenzati da stimoli percettibili. L’altra operazione consiste nella formazione di immagini mentali: l’immaginazione crea rappresentazioni di cose assenti o persino di cose mai viste. Entrambe queste operazioni si riscontrano anche nell’intelletto. Innanzitutto, vi è la passione dell’intelletto passivo, che riceve informazioni dalle specie intelligibili; successivamente, tale intelletto passivo utilizza queste informazioni per formare definizioni, divisioni o composizioni, esprimibili attraverso le parole. Pertanto, il concetto trasmettuto da una parola rappresenta la sua definizione; una proposizione, invece, esprime la divisione o la composizione effettuate dall’intelletto. Le parole, quindi, non indicano direttamente le specie intelligibili in sé, ma ciò che l’intelletto crea al fine di giudicare le cose esterne.
 
-<span class="atom-split" data-atom="084" data-title="Whether the more universal is first in our intellectual cognition? (1/2)" data-chapter="Whether the more universal is first in our intellectual cognition?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="084" data-title="Whether the more universal is first in our intellectual cognition? (parte 1)" data-chapter="Whether the more universal is first in our intellectual cognition?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the more universal is not first in our intellectual cognition. For
 what is first and more known in its own nature, is secondarily and less known in relation to ourselves.
@@ -6031,7 +6031,7 @@ Risposta all’Obiezione 2: Il concetto universale più comune può essere parag
 
 Risposta all’Obiezione 3: Una parte può essere conosciuta in due modi. Primo, considerata in modo assoluto, cioè per se stessa; e quindi nulla impedisce di conoscere le parti prima del tutto, proprio come si conoscono le pietre prima di conoscere la casa. Secondo, considerata come parte di un certo tutto; e quindi è necessario conoscere il tutto prima delle sue parti. Infatti, conosciamo vagamente una casa prima di conoscere le sue diverse componenti. Allo stesso modo, i principi della definizione vengono conosciuti prima che l’oggetto definito venga compreso; altrimenti, l’oggetto stesso non verrebbe affatto conosciuto. Tuttavia, in quanto parti della definizione, questi principi vengono conosciuti dopo. Ad esempio, conosciamo vagamente il concetto di “uomo” prima di sapere come distinguere tutto ciò che appartiene alla [natura umana](/axes/human_nature).
 
-<span class="atom-split" data-atom="085" data-title="Whether the more universal is first in our intellectual cognition? (2/2)" data-chapter="Whether the more universal is first in our intellectual cognition?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="085" data-title="Whether the more universal is first in our intellectual cognition? (parte 2)" data-chapter="Whether the more universal is first in our intellectual cognition?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: The universal, as understood with the intention of universality, is, indeed,
 in a way, a principle of knowledge, in so far as the intention of universality results from the mode
@@ -7003,7 +7003,7 @@ Dobbiamo ora considerare come l’anima umana possa conoscere ciò che è al di 
 (2) Se possa giungere a conoscerle attraverso la conoscenza delle cose materiali;  
 (3) Se Dio sia l’oggetto principale della nostra conoscenza.
 
-<span class="atom-split" data-atom="101" data-title="Whether the human soul in the present state of life can understand immaterial substances in themselves? (1/3)" data-chapter="Whether the human soul in the present state of life can understand immaterial substances in themselves?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="101" data-title="Whether the human soul in the present state of life can understand immaterial substances in themselves? (parte 1)" data-chapter="Whether the human soul in the present state of life can understand immaterial substances in themselves?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the human soul in the present state of life can understand
 immaterial substances in themselves. For [Augustine](/figures/augustine) (De Trin. ix, 3) says: "As the mind itself
@@ -7037,7 +7037,7 @@ On the contrary, It is written (Wis. 9:16): "The things that are in heaven, who 
 out?" But these substances are said to be in heaven, according to Mat. 18:10, "Their angels in
 heaven," etc. Therefore immaterial substances cannot be known by human investigation.
 
-<span class="atom-split" data-atom="102" data-title="Whether the human soul in the present state of life can understand immaterial substances in themselves? (2/3)" data-chapter="Whether the human soul in the present state of life can understand immaterial substances in themselves?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="102" data-title="Whether the human soul in the present state of life can understand immaterial substances in themselves? (parte 2)" data-chapter="Whether the human soul in the present state of life can understand immaterial substances in themselves?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, In the opinion of Plato, immaterial substances are not only understood by us,
 but are the objects we understand first of all. For Plato taught that immaterial subsisting forms,
@@ -7154,7 +7154,7 @@ Risposta all’Obiezione 3: Deve necessariamente esistere una certa proporzione 
 
 Risposta all’Obiezione 4: Questo argomento del Commentatore fallisce in diversi modi. Primo, perché anche se non comprendiamo le sostanze separate, ciò non significa che nessun intelletto possa comprenderle; infatti, esse sono comprensibili da sé stesse e tra di loro. In secondo luogo, essere comprese da noi non rappresenta lo scopo finale delle sostanze separate: soltanto ciò che non raggiunge il proprio scopo è vano e senza significato. Pertanto, non si può concludere che le sostanze immateriali siano prive di scopo, anche se non vengono affatto comprese da noi.
 
-<span class="atom-split" data-atom="103" data-title="Whether the human soul in the present state of life can understand immaterial substances in themselves? (3/3)" data-chapter="Whether the human soul in the present state of life can understand immaterial substances in themselves?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="103" data-title="Whether the human soul in the present state of life can understand immaterial substances in themselves? (parte 3)" data-chapter="Whether the human soul in the present state of life can understand immaterial substances in themselves?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 5: Sense knows bodies, whether superior or inferior, in the same way, that
 is, by the sensible acting on the organ. But we do not understand material and immaterial substances
@@ -9209,7 +9209,7 @@ Risposta all’Obiezione 3: Questo argomento sarebbe valido se l’immagine di D
 
 Risposta all’Obiezione 4: Alcuni hanno affermato che nell’uomo esista soltanto l’immagine del Figlio. Agostino respinge questa opinione (De Trinitate, XII, 5, 6). Primo perché, poiché il Figlio è simile al Padre per essenza, se l’uomo fosse stato creato a immagine del Figlio, ne conseguirebbe necessariamente che sia stato creato anche a immagine del Padre. In secondo luogo, se l’uomo fosse stato creato soltanto a immagine del Figlio, il Padre non avrebbe detto: “Facciamo l’uomo a nostra immagine e somiglianza”, ma “a tua immagine”. Pertanto, quando si legge che “Dio lo creò a sua immagine”, ciò non significa che il Padre abbia creato l’uomo soltanto a immagine del Figlio, che è Dio – come alcuni hanno interpretato – ma che la Trinità Divina abbia creato l’uomo alla propria immagine, cioè dell’intera Trinità. Quando si dice che Dio “ha creato l’uomo a sua immagine”, ciò può essere inteso in due modi: primo, nel senso che la preposizione “a” indica il termine della creazione, e quindi il significato è: “Facciamo l’uomo in modo che la nostra immagine sia in lui”; secondo, nella possibilità che questa preposizione si riferisca alla causa esemplare, come quando diciamo che “questo libro è fatto a immagine di quello”. L’immagine di Dio, quindi, è proprio l’Essenza stessa di Dio; tuttavia, chiamarla “immagine” è improprio, poiché il termine “immagine” indica solitamente una causa esemplare. Oppure, come alcuni affermano, l’Essenza Divina può essere definita “immagine” perché attraverso di essa un’una Persona imita un’altra.
 
-<span class="atom-split" data-atom="136" data-title="Whether the image of God is in man as regards the mind only? (1/2)" data-chapter="Whether the image of God is in man as regards the mind only?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="136" data-title="Whether the image of God is in man as regards the mind only? (parte 1)" data-chapter="Whether the image of God is in man as regards the mind only?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the image of God is not only in man's mind. For the Apostle
 says (1 Cor. 11:7) that "the man is the image . . . of God." But man is not only mind. Therefore the
@@ -9315,7 +9315,7 @@ Risposta all’Obiezione 2: Come afferma Agostino (De Trinitate xii, 5), alcuni 
 
 Risposta all’Obiezione 3: Sebbene l’immagine di Dio nell’uomo non si trovi nella sua forma corporea, poiché “solo il corpo umano, tra tutti gli animali terrestri, non è inclinato verso il suolo, ma è adatto a guardare verso il cielo, per questo motivo possiamo dire con ragione che esso è stato creato secondo l’immagine e la somiglianza di Dio, piuttosto che i corpi degli altri animali”, come osserva Agostino (QQ. 83, q. 51). Tuttavia, ciò non deve essere inteso nel senso che l’immagine di Dio si trovi effettivamente nel corpo umano; bensì nel senso che la stessa forma del corpo umano rappresenti, in modo simbolico, l’immagine di Dio nell’anima.
 
-<span class="atom-split" data-atom="137" data-title="Whether the image of God is in man as regards the mind only? (2/2)" data-chapter="Whether the image of God is in man as regards the mind only?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="137" data-title="Whether the image of God is in man as regards the mind only? (parte 2)" data-chapter="Whether the image of God is in man as regards the mind only?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: Both in the corporeal and in the imaginary vision we may find a trinity,
 as [Augustine](/figures/augustine) says (De Trin. xi, 2). For in corporeal vision there is first the species of the exterior

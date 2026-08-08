@@ -63,7 +63,7 @@ Yours,
 
 Karl Marx
 
-<span class="atom-split" data-atom="003" data-title="Part I (1/3)" data-chapter="Part I" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="Part I (parte 1)" data-chapter="Part I" data-kind="atom" data-srclang="en"></span>
 
 1. “Labor is the source of wealth and all culture, and since useful labor is possible only in society and through society, the proceeds of labor belong undiminished with equal right to all members of society.”
 
@@ -135,7 +135,7 @@ Let us take, first of all, the words “proceeds of labor” in the sense of the
 
 From this must now be deducted: First, cover for replacement of the means of production used up. Second, additional portion for expansion of production. Third, reserve or insurance funds to provide against accidents, dislocations caused by natural calamities, etc.
 
-<span class="atom-split" data-atom="004" data-title="Part I (2/3)" data-chapter="Part I" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="Part I (parte 2)" data-chapter="Part I" data-kind="atom" data-srclang="en"></span>
 
 These deductions from the “undiminished” proceeds of labor are an economic necessity, and their magnitude is to be determined according to available means and forces, and partly by computation of probabilities, but they are in no way calculable by equity.
 
@@ -173,7 +173,7 @@ Any distribution whatever of the means of consumption is only a consequence of t
 
 4. “The emancipation of labor must be the work of the working class, relative to which all other classes are only one reactionary mass.”
 
-<span class="atom-split" data-atom="005" data-title="Part I (3/3)" data-chapter="Part I" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Part I (parte 3)" data-chapter="Part I" data-kind="atom" data-srclang="en"></span>
 
 The first strophe is taken from the introductory words of the Rules of the International, but “improved”. There it is said: “The emancipation of the working class must be the act of the workers themselves”; here, on the contrary, the “working class” has to emancipate — what? “Labor.” Let him understand who can.
 
@@ -247,7 +247,7 @@ It would be superfluous to deal here with the criticism of the recipe prescribed
 
 That the workers desire to establish the conditions for co-operative production on a social scale, and first of all on a national scale, in their own country, only means that they are working to revolutionize the present conditions of production, and it has nothing in common with the foundation of co-operative societies with state aid. But as far as the present co-operative societies are concerned, they are of value only insofar as they are the independent creations of the workers and not protégés either of the governments or of the bourgeois.
 
-<span class="atom-split" data-atom="008" data-title="Part IV (1/2)" data-chapter="Part IV" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="Part IV (parte 1)" data-chapter="Part IV" data-kind="atom" data-srclang="en"></span>
 
 I come now to the democratic section.
 
@@ -299,7 +299,7 @@ But the whole program, for all its democratic clang, is tainted through and thro
 
 “Freedom of science” says paragraph of the Prussian Constitution. Why, then, here?.
 
-<span class="atom-split" data-atom="009" data-title="Part IV (2/2)" data-chapter="Part IV" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Part IV (parte 2)" data-chapter="Part IV" data-kind="atom" data-srclang="en"></span>
 
 “Freedom of conscience”! If one desired, at this time of the Kulturkampf to remind liberalism of its old catchwords, it surely could have been done only in the following form: Everyone should be able to attend his religious as well as his bodily needs without the police sticking their noses in. But the Workers’ party ought, at any rate in this connection, to have expressed its awareness of the fact that bourgeois “freedom of conscience” is nothing but the [toleration](/positions/toleration) of all possible kinds of religious freedom of conscience from the witchery of religion. But one chooses not to transgress the “bourgeois” level.
 

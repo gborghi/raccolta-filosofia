@@ -135,7 +135,7 @@ Risposta all’Obiezione 2: Questo argomento considera l’abitudine nel senso i
 
 Risposta all’Obiezione 3: La disposizione implica sempre, effettivamente, un ordine tra le parti di qualcosa; tuttavia ciò avviene in tre modi, come il Filosofo spiega subito dopo (Metafisica V, testo 25): “ovvero, in termini di posizione, di potenza o di specie”. “Dicendo questo”, osserva Simplicio nel suo Commento ai Predicamenti, “il Filosofo include tutte le tipologie di disposizioni: quelle fisiche, quando parla di ‘posizione’; quelle ancora in fase di formazione e non ancora perfettamente efficaci, come la scienza o la virtù in via di sviluppo; e infine quelle perfette, chiamate abitudini”.
 
-<span class="atom-split" data-atom="005" data-title="Whether habit is a distinct species of quality? (1/2)" data-chapter="Whether habit is a distinct species of quality?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="Whether habit is a distinct species of quality? (parte 1)" data-chapter="Whether habit is a distinct species of quality?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [habit](/concepts/custom) is not a distinct species of quality. Because, as we have
 said (A[1]), habit, in so far as it is a quality, is "a disposition whereby that which is disposed is
@@ -233,7 +233,7 @@ La seconda e la terza specie di qualità. Pertanto, in entrambe queste categorie
 
 Risposta all’Obiezione 1: La disposizione implica una certa ordine, come già detto sopra (A[1], ad 3). Pertanto, non si dice che un uomo sia disposto in un certo modo a causa di una qualità specifica, se non in relazione a qualcos’altro. Inoltre, se aggiungiamo “bene o male”, concetti che appartengono alla nozione essenziale dell’abitudine, dobbiamo considerare la relazione di tale qualità con la natura della cosa, ovvero con il suo scopo o utilità. Quindi, riguardo alla forma, al calore o al freddo, non si dice che un uomo sia “bene” o “male” disposto, se non in base alla loro rilevanza per la natura della cosa, cioè per la loro idoneità o inidoneità. Di conseguenza, anche le qualità legate alla forma o alle passioni, nella misura in cui vengono considerate adatte o inadatte alla natura di una cosa, appartengono agli abitudini o alle disposizioni umane: la forma e il colore, ad esempio, in base alla loro idoneità per la natura della cosa, riguardano la bellezza; mentre calore e freddo, nella stessa misura, riguardano la salute. In questo modo, calore e freddo vengono considerati appartenenti alla prima categoria delle qualità. È quindi chiaro come rispondere alla seconda obiezione: sebbene alcuni propongano altre spiegazioni, come afferma Simplicio nel suo commento ai “Predicamenti”.
 
-<span class="atom-split" data-atom="006" data-title="Whether habit is a distinct species of quality? (2/2)" data-chapter="Whether habit is a distinct species of quality?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Whether habit is a distinct species of quality? (parte 2)" data-chapter="Whether habit is a distinct species of quality?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: This difference, "difficult to change," does not distinguish [habit](/concepts/custom) from
 the other species of quality, but from disposition. Now disposition may be taken in two ways; in
@@ -1221,7 +1221,7 @@ Dobbiamo ora esaminare il fenomeno dell’aumento delle abitudini; in questo amb
 (2) Aumentano attraverso l’accumulo di azioni ripetute?  
 (3) Ogni singola azione contribuisce all’aumento di una determinata abitudine?
 
-<span class="atom-split" data-atom="022" data-title="Whether habits increase? (1/3)" data-chapter="Whether habits increase?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="022" data-title="Whether habits increase? (parte 1)" data-chapter="Whether habits increase?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that habits cannot increase. For increase concerns quantity (Phys.
 v, text. 18). But habits are not in the genus quantity, but in that of quality. Therefore there can be
@@ -1247,7 +1247,7 @@ Obiezione 3: Inoltre, quelle cose che possono aumentare o diminuire di intensit�
 
 Al contrario, la Fede è un’abitudine, eppure si rafforza; per questo i discepoli dissero al nostro Signore (Lc. 17:5): “Signore, aumenta la nostra fede”. Quindi le abitudini possono crescere.
 
-<span class="atom-split" data-atom="023" data-title="Whether habits increase? (2/3)" data-chapter="Whether habits increase?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="023" data-title="Whether habits increase? (parte 2)" data-chapter="Whether habits increase?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, Increase, like other things pertaining to quantity, is transferred from bodily
 quantities to intelligible spiritual things, on account of the natural connection of the intellect with
@@ -1350,7 +1350,7 @@ In secondo luogo, questa diversità può derivare dal fatto che la forma stessa 
 Lo stesso ragionamento viene espresso da Aristotele nei “Principi Logici” (Categorie vi), dove spiega perché le figure geometriche non possono subire variazioni di intensità: “Le cose che hanno la natura di un triangolo o di un cerchio sono necessariamente triangoli o cerchi”, poiché l’indivisibilità è essenziale alla loro struttura; pertanto, ciò che partecipa a tale natura deve farlo nella sua interezza.  
 È evidente quindi che, poiché parliamo di abitudini e disposizioni in relazione a determinate caratteristiche del soggetto (Fisica vii, testo 17), l’intensità o la debolezza di tali abitudini possono variare in due modi: innanzitutto, in relazione alla stessa abitudine (ad esempio, una salute migliore o peggiore); in secondo luogo, in relazione al grado di partecipazione del soggetto a tale abitudine, a seconda delle sue capacità innate o acquisite attraverso l’abitudine. Infatti, le abitudini e le disposizioni non conferiscono al soggetto una nuova specie, né implicano necessariamente un carattere indivisibile. Ne parleremo ulteriormente in (Q[66], A[1]) riguardo alle virtù.
 
-<span class="atom-split" data-atom="024" data-title="Whether habits increase? (3/3)" data-chapter="Whether habits increase?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="024" data-title="Whether habits increase? (parte 3)" data-chapter="Whether habits increase?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 1: As the word "great" is taken from corporeal quantities and applied to
 the intelligible perfections of forms; so also is the word "growth," the term of which is something

@@ -1112,7 +1112,7 @@ Secondo, questa affermazione di Damascene può essere intesa non come riferita a
 
 Risposta all’Obiezione 3: Esistono due principi della vita corporea: uno è il principio efficace; in questo senso, la Parola di Dio è il principio di tutta la vita; l’altro è il principio formale della vita, poiché, come afferma il Filosofo (De Anima ii, 37), “per gli esseri viventi essere significa vivere”. Proprio come tutto è formalmente determinato dalla propria forma, così anche il corpo vive grazie all’anima: in questo modo, un corpo non potrebbe vivere attraverso la Parola di Dio, poiché questa non può essere considerata una forma corporea.
 
-<span class="atom-split" data-atom="015" data-title="Whether the human nature was united to the Word of God accidentally? (1/2)" data-chapter="Whether the human nature was united to the Word of God accidentally?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="Whether the human nature was united to the Word of God accidentally? (parte 1)" data-chapter="Whether the human nature was united to the Word of God accidentally?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [human nature](/axes/human_nature) was united to the Word of God accidentally.
 For the Apostle says (Phil. 2:7) of the Son of God, that He was "in [habit](/concepts/custom) found as a man." But habit
@@ -1237,7 +1237,7 @@ Risposta all’Obiezione 2: Quello che accade dopo la completazione dell’esist
 
 Risposta all’Obiezione 3: L’accidente viene contrapposto alla sostanza. Ora, la sostanza, come è chiaro dalla Metafisica V, 25, può essere intesa in due modi: in primo luogo, come essenza o natura; in secondo luogo, come suppositum o ipostasi. Pertanto, il fatto che l’unione si sia verificata a livello dell’ipostasi è sufficiente per dimostrare che non si tratta di un’unione accidentale, anche se l’unione stessa non ha avuto luogo a livello dell’essenza o della natura.
 
-<span class="atom-split" data-atom="016" data-title="Whether the human nature was united to the Word of God accidentally? (2/2)" data-chapter="Whether the human nature was united to the Word of God accidentally?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="Whether the human nature was united to the Word of God accidentally? (parte 2)" data-chapter="Whether the human nature was united to the Word of God accidentally?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: Not everything that is assumed as an instrument pertains to the hypostasis
 of the one who assumes, as is plain in the case of a saw or a sword; yet nothing prevents what is
@@ -8455,7 +8455,7 @@ Under the first head there are two points of inquiry:
 
 Dobbiamo ora considerare ciò che riguarda l’unità di Cristo. Infatti, nel loro giusto contesto, dobbiamo analizzare in dettaglio i concetti di unità e pluralità; così abbiamo concluso (Q[9]) che non esiste soltanto una conoscenza in Cristo, e in seguito concluderemo ancora (Q[35], A[2]) che non esiste soltanto un’unica nascita in Cristo. Pertanto dobbiamo esaminare l’unità di Cristo sotto tre aspetti: (1) dell’essere; (2) della volontà; (3) delle opere. Nel primo di questi ambiti vi sono due questioni da considerare: (1) Se Cristo sia uno o due; (2) Se esista un solo essere in Cristo.
 
-<span class="atom-split" data-atom="126" data-title="Whether Christ is one or two? (1/2)" data-chapter="Whether Christ is one or two?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="126" data-title="Whether Christ is one or two? (parte 1)" data-chapter="Whether Christ is one or two?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ is not one, but two. For [Augustine](/figures/augustine) says (De Trin. i, 7):
 "Because the form of God took the form of a servant, both are God by reason of God Who assumed,
@@ -8593,7 +8593,7 @@ Risposta all’Obiezione 5: Nel mistero della Divina Trinità, la Natura Divina 
 
 Risposta all’Obiezione 6: Il numero “due” indica ciò che presenta dualità, non in un altro elemento, ma nell’oggetto stesso di cui si parla. Ora, ciò di cui si parla è riferito al soggetto presupposto, che viene indicato dalla parola “Cristo”. Pertanto, anche se Cristo possiede una dualità di natura, poiché non presenta una dualità nel suo soggetto presupposto, non si può affermare che Cristo sia due.
 
-<span class="atom-split" data-atom="127" data-title="Whether Christ is one or two? (2/2)" data-chapter="Whether Christ is one or two?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="127" data-title="Whether Christ is one or two? (parte 2)" data-chapter="Whether Christ is one or two?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 7: Otherwise implies diversity of accident. Hence diversity of accident
 suffices for anything to be called "otherwise" simply. But "another thing" implies diversity of
@@ -9204,7 +9204,7 @@ Dobbiamo ora considerare l’unità delle operazioni di Cristo; e sotto questo a
 (3) Se Cristo, con le sue operazioni umane, abbia meritato qualcosa per sé stesso?  
 (4) Se abbia meritato qualcosa per noi attraverso queste operazioni?
 
-<span class="atom-split" data-atom="137" data-title="Whether in Christ there is only one operation of the Godhead and Manhood? (1/2)" data-chapter="Whether in Christ there is only one operation of the Godhead and Manhood?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="137" data-title="Whether in Christ there is only one operation of the Godhead and Manhood? (parte 1)" data-chapter="Whether in Christ there is only one operation of the Godhead and Manhood?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in Christ there is but one operation of the Godhead and the
 Manhood. For Dionysius says (Div. Nom. ii): "The most loving operation of God is made manifest
@@ -9305,7 +9305,7 @@ Al contrario, Ambrogio afferma (De Fide ii, 8): “Come può lo stesso atto deri
 Rispondo che, come già detto sopra (Q[18], A[1]), gli eretici menzionati, che attribuivano a Cristo un’unica volontà, attribuivano anche a Lui un’unica azione. Ora, per comprendere meglio il loro errore, dobbiamo ricordare che quando ci sono diversi agenti che agiscono reciprocamente, quello inferiore è mosso da quello superiore; così come nel caso dell’uomo, il corpo è mosso dall’anima e le facoltà inferiori dalla ragione. Pertanto, le azioni e i movimenti del principio inferiore sono piuttosto cose operate che operazioni in sé stesse. Quello che riguarda il principio supremo, invece, è propriamente un’operazione; per questo diciamo dell’uomo che camminare, che appartiene ai piedi, o toccare, che appartiene alle mani, sono azioni operate dall’uomo stesso: una di queste viene compiuta dall’anima attraverso i piedi, l’altra attraverso le mani. Poiché è sempre la stessa anima a operare in entrambi i casi, esiste un’unica operazione, da parte del principio che agisce; ma si riscontra una differenza nella cosa che viene operata. Così come nel caso dell’uomo comune il corpo è mosso dall’anima e le facoltà sensibili dall’appetito razionale, così nel Signore Gesù Cristo la natura umana è guidata e regolata dalla divinità. Per questo essi affermavano che esistesse un’unica operazione da parte della divinità che agisce, ma che venissero compiute diverse azioni: la divinità di Cristo ha compiuto alcune cose in modo diretto, come sostenere tutte le cose con la parola del suo potere; altre invece attraverso la sua natura umana, come camminare nel corpo. Il Sesto Concilio [Terzo Concilio di Costantinopoli, Atto 10] cita infatti le parole dell’eretico Severo, che diceva: “Le cose compiute da Cristo sono molto diverse tra loro; alcune appartengono alla natura divina, altre alla natura umana. Camminare fisicamente sulla terra è certamente un atto umano, ma aiutare arti malate a muoversi è un atto divino. Tuttavia, la Parola Incarnata ha compiuto entrambi questi atti; né l’uno né l’altro provenivano da nature diverse; e non possiamo dire giustamente che, poiché sono state compiute azioni diverse, esistessero due nature o forme operanti.” Ma in questo essi si sbagliavano: ciò che è mosso da un altro ha infatti due tipi di azione: una che deriva dalla sua stessa natura, e un’altra che derivante dal fatto di essere mosso dall’altro. L’azione di un’ascia, per esempio, è quella di tagliare; ma se l’ascia viene usata da un artigiano, la sua azione diventa quella di costruire panche. Quindi, l’azione che appartiene a una cosa in base alla sua natura è propria di essa stessa; non appartiene al soggetto che la utilizza, se non nel senso in cui quest’ultimo ne fa uso per il proprio lavoro. Riscaldare, ad esempio, è un’azione propria del fuoco, ma non di un fabbro, se non nel caso in cui questi utilizzi il fuoco per riscaldare il ferro. L’azione che appartiene a una cosa quando viene mosso da un altro, invece, non è distinta dall’azione del soggetto che la muove; costruire una panca, ad esempio, non è un atto dell’ascia in sé stessa, ma del fabbro che la utilizza. Pertanto, dove il soggetto che agisce e ciò che viene agito hanno nature o funzioni operative diverse.
 Perché le facoltà siano efficaci, deve esserci una distinzione tra l’azione del motore e l’azione corretta di ciò che viene mosso; sebbene ciò che viene mosso partecipi all’azione del motore, e il motore utilizzi l’azione di ciò che viene mosso, e quindi entrambi agiscano in comunione reciproca. Pertanto, in Cristo la natura umana possiede la propria forma e potenza specifiche attraverso le quali agisce; lo stesso vale per la natura divina. Di conseguenza, l’azione della natura umana è distinta da quella della natura divina, e viceversa. Tuttavia, la natura divina utilizza l’azione della natura umana, come se utilizzasse l’azione di uno strumento; allo stesso modo, la natura umana partecipa all’azione della natura divina, proprio come uno strumento partecipa all’azione dell’agente principale. Ed è ciò che afferma Papa Leone nell’Epistola ad Flavianum xxviii: “Entrambe le nature” (cioè quella divina e quella umana in Cristo) “fanno ciò che è proprio di ciascuna, in unione reciproca; ovvero la Parola compie ciò che spetta alla Parola, e la carne attua ciò che spetta alla carne”. Ma se in Cristo esistesse un’unica sola azione della divinità e dell’umanità, sarebbe necessario affermare o che la natura umana non possedesse la propria forma e potenza specifiche (ciò è assolutamente impossibile per quanto riguarda la natura divina), il che significherebbe che in Cristo esiste soltanto l’azione divina; oppure che dalla potenza divina e umana si sia formata un’unica potenza. Entrambe queste ipotesi sono impossibili. La prima implicherebbe che la natura umana in Cristo fosse imperfetta; la seconda significherebbe una confusione delle due nature. Pertanto, è giusto che il Sesto Concilio (Atti 18) condannasse questa opinione, decretando: “Confessiamo due azioni naturali, indivisibili, inconvertibili, inseparabili e indiscutibili nello stesso Signore Gesù Cristo, nostro vero Dio”; cioè l’azione divina e l’azione umana.
 
-<span class="atom-split" data-atom="138" data-title="Whether in Christ there is only one operation of the Godhead and Manhood? (2/2)" data-chapter="Whether in Christ there is only one operation of the Godhead and Manhood?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="138" data-title="Whether in Christ there is only one operation of the Godhead and Manhood? (parte 2)" data-chapter="Whether in Christ there is only one operation of the Godhead and Manhood?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 1: Dionysius places in Christ a theandric, i.e. a God-manlike or
 Divino-human, operation not by any confusion of the operations or powers of both natures, but
@@ -11685,7 +11685,7 @@ Risposta all’Obiezione 2: Gli angeli buoni, come afferma Agostino (De Civ. Dei
 
 Risposta all’Obiezione 3: Poiché lo Spirito Santo è in tutto ciò che è uguale a Dio, non si può dire che sia intermediario tra Dio e gli uomini; ma solo Cristo, il quale, sebbene uguale al Padre nella Sua divinità, è tuttavia inferiore al Padre nella Sua [natura umana](/axes/human_nature), come detto sopra (Q[20], A[1]). Pertanto, riguardo a Galati 3:20 (“Cristo è l’intermediario, ”, nel testo volgare “Ora un intermediario non è di uno solo, ma Dio è uno”), il commento afferma: “Né il Padre né lo Spirito Santo”. Tuttavia, si dice che lo Spirito Santo “chieda per noi”, perché è Lui a farci chiedere.
 
-<span class="atom-split" data-atom="176" data-title="Whether Christ, is the Mediator of God and men? (1/2)" data-chapter="Whether Christ, is the Mediator of God and men?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="176" data-title="Whether Christ, is the Mediator of God and men? (parte 1)" data-chapter="Whether Christ, is the Mediator of God and men?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ is not, as man, the Mediator of God and men. For
 [Augustine](/figures/augustine) says (Contra Felic. x): "One is the Person of Christ: lest there be not one Christ, not one
@@ -11744,7 +11744,7 @@ Risposta all’Obiezione 1: Se traiamo la Natura Divina da Cristo, ne traiamo ne
 
 Risposta all’Obiezione 2: Cristo, in quanto Dio, è uguale al Padre in tutte le cose. Tuttavia, anche nella sua natura umana, Egli è superiore a tutti gli uomini. Pertanto, come uomo, può essere Mediatore, ma non come Dio.
 
-<span class="atom-split" data-atom="177" data-title="Whether Christ, is the Mediator of God and men? (2/2)" data-chapter="Whether Christ, is the Mediator of God and men?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="177" data-title="Whether Christ, is the Mediator of God and men? (parte 2)" data-chapter="Whether Christ, is the Mediator of God and men?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: Although it belongs to Christ as God to take away sin authoritatively,
 yet it belongs to Him, as man, to satisfy for the sin of the human race. And in this sense He is called
@@ -12649,7 +12649,7 @@ Risposta all’Obiezione 2: Cristo volle così dimostrare la realtà del Suo cor
 
 Risposta all’Obiezione 3: Alcuni hanno sostenuto che Cristo, al momento della Sua nascita, abbia assunto il dono della “sottigliezza” quando è uscito dal grembo vergine di Maria; e che abbia assunto il dono dell’“agilità” quando ha camminato sul mare senza bagnarsi i piedi. Tuttavia, ciò non è coerente con quanto già stabilito in precedenza (Q[14]). Infatti, questi doni derivanti dal corpo glorificato sono il risultato di un’effusione della gloria dell’anima sul corpo stesso, come spiegheremo più avanti nel trattare dei corpi glorificati (XP, Q[82]); inoltre, è stato detto in precedenza (Q[13], A[3], ad 1; Q[16], A[1], ad 2) che prima della Sua Passione Cristo “permise al proprio corpo di compiere ciò che era conforme alla sua natura” (Damasceno, De Fide Orth. iii); inoltre, non vi fu alcuna effusione della gloria dell’anima sul corpo. Pertanto, dobbiamo affermare che tutte queste cose si siano verificate per miracolo, grazie al potere divino. Da ciò deriva quanto afferma Agostino (Sup. Joan. Tract. 121): “Per la sostanza di un corpo in cui risiedeva la Divinità, le porte chiuse non costituivano alcun ostacolo; poiché Egli aveva davvero il potere di entrare attraverso porte chiuse, e nella Sua nascita la verginità di Maria rimase intatta”. E Dionigi nel suo epistola ad Caio iv afferma che “Cristo superò l’uomo nell’eseguire ciò che è proprio dell’uomo: ciò si manifesta nella Sua concezione soprannaturale da parte di una vergine, e nel fatto che le acque instabili potessero sostenere il peso dei suoi piedi terreni”.
 
-<span class="atom-split" data-atom="188" data-title="Whether Christ's Mother remained a virgin after His birth? (1/2)" data-chapter="Whether Christ's Mother remained a virgin after His birth?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="188" data-title="Whether Christ's Mother remained a virgin after His birth? (parte 1)" data-chapter="Whether Christ's Mother remained a virgin after His birth?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's Mother did not remain a virgin after His Birth. For it
 is written (Mat. 1:18): "Before Joseph and Mary came together, she was found with child of the
@@ -12755,7 +12755,7 @@ to be supplied by our understanding. Thus the evangelist says that the Mother of
 known by her husband until she gave birth, that we may be given to understand that still less did
 he know her afterwards" (Adversus Helvid. v).
 
-<span class="atom-split" data-atom="189" data-title="Whether Christ's Mother remained a virgin after His birth? (2/2)" data-chapter="Whether Christ's Mother remained a virgin after His birth?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="189" data-title="Whether Christ's Mother remained a virgin after His birth? (parte 2)" data-chapter="Whether Christ's Mother remained a virgin after His birth?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: The Scriptures are wont to designate as the first-born, not only a child
 who is followed by others, but also the one that is born first. "Otherwise, if a child were not first-born
@@ -12845,7 +12845,7 @@ Ora esaminiamo le nozze promesse della Madre di Dio: a proposito delle quali sor
 (1) Se Cristo dovesse essere nato da una vergine promessa in matrimonio?
 (2) Se vi fosse stato un vero matrimonio tra la Madre del nostro Signore e Giuseppe?
 
-<span class="atom-split" data-atom="192" data-title="Whether Christ should have been born of an espoused virgin? (1/2)" data-chapter="Whether Christ should have been born of an espoused virgin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="192" data-title="Whether Christ should have been born of an espoused virgin? (parte 1)" data-chapter="Whether Christ should have been born of an espoused virgin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ should not have been born of an espoused virgin. For
 espousals are ordered to carnal intercourse. But our Lord's Mother never wished to have carnal
@@ -12975,7 +12975,7 @@ Risposta all’Obiezione 2: Come afferma Ambrogio riguardo a Luca 1:26: “Il no
 
 Risposta all’Obiezione 3: Come afferma Agostino (De Trinitate iii), il diavolo può compiere molte cose con la sua forza naturale, ma è ostacolato dalla potenza divina nel farlo. Pertanto, è possibile che il diavolo, con la sua forza naturale, sapesse che la Madre di Dio non conosceva l’uomo e che era vergine; tuttavia, Dio gli impedì di conoscere i dettagli della Nascita divina. Il fatto che in seguito il diavolo abbia appreso che Cristo era il Figlio di Dio non rappresenta alcuna difficoltà: a quel punto infatti era già giunto il momento per Cristo di manifestare la sua potenza contro il diavolo e di subire le persecuzioni da lui suscitate. Tuttavia, durante la sua infanzia, era necessario che la malvagità del diavolo fosse trattenuta, affinché non lo perseguitasse troppo severamente: Cristo, infatti, non desiderava subire tali cose in quel momento, né manifestare la propria potenza, ma voleva dimostrare di essere, in tutto, simile agli altri bambini. Per questo motivo Papa Leone (Sermone sull’Epifania iv) afferma che “i Magi trovarono il Bambino Gesù di piccolo corpo, dipendente dagli altri, incapace di parlare, e in nessun modo diverso dalla norma dei bambini umani”. Ambrogio, tuttavia, interpretando Luca 1:26, sembra intendere ciò riguardo ai membri del diavolo. Dopo aver fornito il motivo sopra menzionato – ovvero che il principe del mondo potesse essere ingannato – prosegue così: “Eppure il diavolo ingannò ancora di più i principi del mondo, poiché la natura malvagia dei demoni riesce facilmente a scoprire anche le cose nascoste; ma coloro che trascorrono la loro vita nelle vanità mondane non possono avere alcuna conoscenza delle cose divine”.
 
-<span class="atom-split" data-atom="193" data-title="Whether Christ should have been born of an espoused virgin? (2/2)" data-chapter="Whether Christ should have been born of an espoused virgin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="193" data-title="Whether Christ should have been born of an espoused virgin? (parte 2)" data-chapter="Whether Christ should have been born of an espoused virgin?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: The sentence of adulteresses according to the Law was that they should
 be stoned, not only if they were already espoused or married, but also if their maidenhood were
@@ -13610,7 +13610,7 @@ Inoltre, si può affermare, seguendo Agostino (Contra Faustus, xxii), che se Gia
 
 Risposta all’Obiezione 3: Come afferma Ambrogio riguardo a Luca 3:25, questo passaggio profetico non nega che dalla discendenza di Ezechia nascerà una posterità; quindi anche Cristo appartiene alla sua stirpe. Inoltre, il fatto che Cristo abbia regnato in modo contrario alle profezie non costituisce un contraddittorio, poiché non ha regnato con onori mondani; anzi, egli stesso dichiarò: “Il mio regno non è di questo mondo”.
 
-<span class="atom-split" data-atom="202" data-title="Whether Christ's genealogy is suitably traced by the evangelists? (1/2)" data-chapter="Whether Christ's genealogy is suitably traced by the evangelists?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="202" data-title="Whether Christ's genealogy is suitably traced by the evangelists? (parte 1)" data-chapter="Whether Christ's genealogy is suitably traced by the evangelists?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's [genealogy](/positions/genealogy) is not suitably traced by the Evangelists.
 For it is written (Is. 53:8): "Who shall declare His generation?" Therefore Christ's genealogy should
@@ -13719,7 +13719,7 @@ Risposta all’Obiezione 1: Come afferma Girolamo nel commento al Vangelo di Mat
 Risposta all’Obiezione 2: Alcuni autori hanno fornito diverse spiegazioni a questa obiezione sollevata da Giuliano l’Apostata. Alcuni, come Gregorio di Nazianzo, sostengono che le persone menzionate dai due evangelisti siano la stessa persona, ma con nomi diversi, come se ciascuno di loro ne avesse due. Tuttavia questa ipotesi non regge: Matteo infatti menziona uno dei figli di Davide, ovvero Salomone; mentre Luca ne menziona un altro, Nathan, che secondo la storia dei re (2 Re 5:14) era chiaramente suo fratello. Altri affermano che Matteo abbia fornito la vera genealogia di Cristo, mentre Luca ne abbia data una fittizia; per questo motivo Luca inizia il suo racconto dicendo: “Poiché si riteneva che fosse figlio di Giuseppe”. Tra i Giudei c’erano infatti coloro che credevano che, a causa dei crimini commessi dai re di Giuda, Cristo dovesse nascere dalla famiglia di Davide, ma non attraverso i re stessi, bensì attraverso un’altra linea di discendenza. Altri ancora ritengono che Matteo abbia elencato gli antenati di Cristo secondo la carne, mentre Luca li abbia elencati secondo lo spirito, ovvero uomini giusti che, per virtù, possono essere considerati antenati di Cristo. Tuttavia, nelle “Qq. Vet. et Nov. Test.” (*Parte I, q. lvi; Parte II, q. vi*) si afferma che non dobbiamo intendere che Luca definisca Giuseppe figlio di Eli; bensì che, al tempo di Cristo, Eli e Giuseppe discendessero entrambi da Davide in modi diversi. Per questo motivo si dice che Cristo fosse considerato figlio sia di Giuseppe che di Eli, come se l’evangelista volesse dire che Cristo, essendo figlio di Giuseppe, potesse essere chiamato anche figlio di Eli e di tutti coloro che discendevano da Davide; come afferma l’Apostolo in Romani 9:5: “Di loro” (cioè dei Giudei) “Cristo è secondo la carne”. Agostino, nel suo “De Qq. Evang. ii”, propone tre spiegazioni diverse per questo fenomeno, sostenendo che l’evangelista possa essere stato guidato da uno o più motivi: o forse uno degli evangelisti menziona il padre biologico di Giuseppe, mentre l’altro ne menziona il nonno materno o qualche altro antenato successivo; oppure uno era il padre naturale di Giuseppe, l’altro un padre adottivo; inoltre, secondo le usanze ebraiche, quando qualcuno moriva senza figli, un parente stretto sposava la sua vedova e il figlio nato da questo matrimonio veniva considerato figlio del defunto. Quest’ultimo caso rappresenta una sorta di adozione legale, come afferma lo stesso Agostino nel “De Consensu Evang. ii”. Questa ultima spiegazione sembra la più plausibile; anche Gerolamo la menziona commentando Matteo 1:16, e Eusebio di Cesarea, nella sua “Storia della Chiesa” (I, vii), afferma che questa interpretazione sia stata proposta dall’istorico africano Afranio. Secondo questi autori, Matteo e Melchio, in momenti diversi, ebbero entrambi un figlio dalla stessa donna di nome Estera: Matteo, discendente di Salomone, la sposò per primo e morì lasciando un figlio di nome Giacobbe; dopo la sua morte, poiché la legge non vietava questo tipo di matrimonio.
 Melchi, il cui lignaggio risaliva a Mattan e che apparteneva alla stessa tribù ma non alla stessa famiglia di Mattan, sposò la vedova di quest’ultimo; da questo matrimonio nacque un figlio chiamato Eli. Così Giacobbe ed Eli divennero fratelli per parte di madre, sebbene avessero padri diversi. Quando Eli morì senza eredi, Giacobbe sposò la sua vedova, secondo quanto prescriveva la legge; da questo matrimonio nacque un figlio chiamato Giuseppe: che, per natura, era figlio di Giacobbe, ma secondo la legge veniva considerato figlio di Eli. Per questo motivo Matteo scrive “Giacobbe generò Giuseppe”, mentre Luca, nel fornire la genealogia legale, non menziona alcun padre. Anche se Damasceno afferma che la Beata Vergine Maria fosse imparentata con Giuseppe in quanto Eli veniva considerato suo padre, poiché lei discendeva da Melchi, dobbiamo comunque credere che ella fosse in qualche modo imparentata anche con Salomone, attraverso quei patriarchi menzionati da Matteo, il quale avrebbe trascritto la genealogia di Cristo secondo la carne. Questo è ancora più vero considerando quanto afferma Ambrogio, secondo cui Cristo proveniva dalla discendenza di Ezechia.
 
-<span class="atom-split" data-atom="203" data-title="Whether Christ's genealogy is suitably traced by the evangelists? (2/2)" data-chapter="Whether Christ's genealogy is suitably traced by the evangelists?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="203" data-title="Whether Christ's genealogy is suitably traced by the evangelists? (parte 2)" data-chapter="Whether Christ's genealogy is suitably traced by the evangelists?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: According to [Augustine](/figures/augustine) (De Consensu Evang. ii) "Matthew purposed
 to delineate the royal personality of Christ; Luke the priestly personality: so that in Matthew's
@@ -17747,7 +17747,7 @@ Risposta all’Obiezione 2: Come afferma Geromeo in Matteo 3:16-17, i cieli si a
 
 Risposta all’Obiezione 3: La Passione di Cristo è la causa comune che permette agli uomini di accedere al cielo. Tuttavia, questa causa deve essere applicata individualmente a ciascuno, affinché possa entrare nel cielo. Ciò avviene attraverso il battesimo, come si legge in Romani 6:3: “Noi che siamo battezzati in Cristo Gesù siamo battezzati nella Sua morte”. Per questo motivo, viene menzionata l’apertura dei cieli durante il suo battesimo e non durante la sua Passione. Oppure, come afferma Crisostomo (Homelia IV su Matteo; tratta dall’opera ipotetica “Opus Imperfectum”): “Quando Cristo fu battezzato, i cieli si aprirono semplicemente; ma dopo che egli sconfisse il tiranno attraverso la croce – poiché non erano più necessari portali per un cielo che da allora in poi non avrebbe mai più chiuso le sue porte – gli angeli dissero non ‘aprite i portali’, ma ‘rimuoveteli’”. Così Crisostomo ci fa comprendere che gli ostacoli che fino ad allora impedivano alle anime dei defunti di entrare nel cielo furono completamente eliminati dalla Passione di Cristo; durante il suo battesimo, invece, i cieli si aprirono, come se fosse stato mostrato il cammino attraverso cui gli uomini potevano accedere al cielo.
 
-<span class="atom-split" data-atom="260" data-title="Whether it is fitting to say that when Christ was baptized the Holy Ghost came down on Him in the form of a dove? (1/2)" data-chapter="Whether it is fitting to say that when Christ was baptized the Holy Ghost came down on Him in the form of a dove?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="260" data-title="Whether it is fitting to say that when Christ was baptized the Holy Ghost came down on Him in the form of a dove? (parte 1)" data-chapter="Whether it is fitting to say that when Christ was baptized the Holy Ghost came down on Him in the form of a dove?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not fitting to say that when Christ was baptized the Holy
 Ghost came down on Him in the form of a dove. For the Holy Ghost dwells in man by grace. But
@@ -17834,7 +17834,7 @@ Pertanto, si dice che lo Spirito Santo sia disceso su Cristo non perché fosse u
 
 Risposta all’Obiezione 3: Come afferma Crisostomo (Homilia XII su Matteo): “All’inizio di ogni esperienza spirituale compaiono visioni sensibili, al fine di aiutare coloro che non riescono affatto a concepire una natura incorporea, in modo che, anche se in seguito tali fenomeni non si verifichino più, possano comunque formare la propria fede in base a ciò che è accaduto una volta per tutte”. Pertanto lo Spirito Santo discese visibilmente, sotto forma corporea, su Cristo al momento del suo battesimo, affinché noi potessimo credere che Egli discenda invisibilmente su tutti coloro che vengono battezzati.
 
-<span class="atom-split" data-atom="261" data-title="Whether it is fitting to say that when Christ was baptized the Holy Ghost came down on Him in the form of a dove? (2/2)" data-chapter="Whether it is fitting to say that when Christ was baptized the Holy Ghost came down on Him in the form of a dove?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="261" data-title="Whether it is fitting to say that when Christ was baptized the Holy Ghost came down on Him in the form of a dove? (parte 2)" data-chapter="Whether it is fitting to say that when Christ was baptized the Holy Ghost came down on Him in the form of a dove?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: The Holy Ghost appeared over Christ at His baptism, under the form
 of a dove, for four reasons. First, on account of the disposition required in the one baptized---namely,
@@ -18685,7 +18685,7 @@ Risposta all’Obiezione 2: Queste parole di Marco possono essere intese nel sen
 
 Risposta all’Obiezione 3: Come afferma Ambrogio riguardo a Luca 4:13, il diavolo si allontanò da Cristo “per un certo tempo”, poiché in seguito tornò non per tentarlo, ma per attaccarlo apertamente – cioè durante il momento della Sua Passione. Tuttavia, in questo secondo attacco il diavolo sembrava cercare di indurre Cristo alla disperazione e all’odio verso il suo prossimo; proprio come nel deserto aveva tentato di spingerlo verso piaceri sensuali e un disprezzo idolatrico per Dio.
 
-<span class="atom-split" data-atom="273" data-title="Whether the mode and order of the temptation were becoming? (1/2)" data-chapter="Whether the mode and order of the temptation were becoming?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="273" data-title="Whether the mode and order of the temptation were becoming? (parte 1)" data-chapter="Whether the mode and order of the temptation were becoming?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the mode and order of the temptation were unbecoming. For
 the devil tempts in order to induce us to sin. But if Christ had assuaged His bodily hunger by
@@ -18825,7 +18825,7 @@ Risposta all’Obiezione 4: Come afferma Ambrogio riguardo a Luca 4:13, le Scrit
 
 Risposta all’Obiezione 5: Come afferma Agostino (De Consensu Evang. ii): “Non è certo quale dei due eventi sia avvenuto per primo: se prima furono mostrati al Signore i regni della terra e poi Egli fu posto sulla sommità del Tempio, oppure il contrario. Tuttavia, non ha importanza, purché si dimostri chiaramente che tutti questi eventi sono realmente accaduti.” È possibile che gli Evangelisti abbiano riportato questi fatti in ordini diversi, poiché a volte la cupidigia deriva dall’orgoglio, e altre volte succede il contrario.
 
-<span class="atom-split" data-atom="274" data-title="Whether the mode and order of the temptation were becoming? (2/2)" data-chapter="Whether the mode and order of the temptation were becoming?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="274" data-title="Whether the mode and order of the temptation were becoming? (parte 2)" data-chapter="Whether the mode and order of the temptation were becoming?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 6: When Christ had suffered the wrong of being tempted by the devil
 saying, "If Thou be the Son of God cast Thyself down," He was not troubled, nor did He upbraid
@@ -19418,7 +19418,7 @@ Risposta all’Obiezione 2: Quello che il Potere Divino realizzò in Cristo fu p
 
 Risposta all’Obiezione 3: I discepoli dovevano essere lodati proprio perché seguirono Cristo “senza averlo visto compiere alcun miracolo”, come afferma Gregorio in un’omelia (Hom. v in Evangelia). E, come dice Crisostomo (Hom. xxiii in Giovanni), “la necessità di compiere miracoli sorse proprio allora, soprattutto quando i discepoli erano già riuniti intorno a Lui e attenti a ciò che accadeva intorno a loro. Per questo si aggiunge: ‘E i suoi discepoli credevano in Lui’”, non perché in quel momento credessero in Lui per la prima volta, ma perché allora “credevano con maggiore discernimento e perfezione”. Oppure vengono chiamati “discepoli” perché “in seguito avrebbero dovuto diventarlo”, come osserva Agostino (De Consensu Evangeliorum ii).
 
-<span class="atom-split" data-atom="284" data-title="Whether the miracles which Christ worked were a sufficient proof of His Godhead? (1/2)" data-chapter="Whether the miracles which Christ worked were a sufficient proof of His Godhead?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="284" data-title="Whether the miracles which Christ worked were a sufficient proof of His Godhead? (parte 1)" data-chapter="Whether the miracles which Christ worked were a sufficient proof of His Godhead?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the miracles which Christ worked were not a sufficient proof
 of His Godhead. For it is proper to Christ to be both God and man. But the miracles which Christ
@@ -19502,7 +19502,7 @@ Terzo, dal fatto stesso che Cristo dichiarava apertamente di essere Dio; altrime
 Risposta all’Obiezione 1: Questo era l’argomento dei Gentili. Per questo motivo [Agostino](/figures/augustine) afferma (Epistola a Volusiano, cxxxvii): “Nessun miracolo degno di nota; dicono essi – aggiunge Agostino – dimostra la presenza di una tale maestosità: il ‘purificamento spirituale’ con cui scacciava i demoni, la guarigione dei malati, la risurrezione dei morti. Se si considerano altri miracoli, questi sembrano insignificanti davanti a Dio”. Agostino risponde così: “Ammettiamo che anche i profeti abbiano compiuto simili imprese. Ma persino Mosè e gli altri profeti hanno fatto di Cristo il soggetto delle loro profezie e Gli hanno attribuito grande gloria. Pertanto, Egli scelse di compiere azioni simili per evitare l’incoerenza di non fare ciò che aveva fatto attraverso altri. Tuttavia, era necessario che facesse qualcosa che nessun altro aveva mai fatto: nascere da una vergine, risorgere dai morti e ascendere in cielo. Se qualcuno ritiene che queste cose siano poco significative per Dio, non so cosa possa ancora aspettarsi. Essendo diventato uomo, avrebbe dovuto creare un altro mondo, affinché potessimo credere che Egli sia colui che ha creato questo mondo. Ma in questo mondo né un mondo più grande né uno uguale a esso poteva essere creato; e se avesse creato un mondo più piccolo di questo, anche quello sarebbe stato considerato insignificante”.  
 Per quanto riguarda i miracoli compiuti da altri, Cristo ne ha realizzati di ancora più grandi. Pertanto, a proposito di Giovanni 15:24 (“Se non avessi compiuto in loro opere che nessun altro uomo ha mai fatto, ”), Agostino dice: “Nessuna delle opere di Cristo sembra più grande della risurrezione dei morti; anche gli antichi profeti l’hanno compiuta. Tuttavia, Cristo ha realizzato alcune opere ‘che nessun altro uomo ha mai fatto’. Ma ci viene detto che altri hanno compiuto azioni che Lui non ha fatto, e che nessun altro ha mai compiuto. Ma guarire con tale potenza tanti mali e sofferenze degli uomini mortali, questo non è stato raccontato riguardo a nessuno degli antichi. Per non parlare di coloro che, su Suo comando, venivano da Lui e venivano guariti. Marco dice (6:56): ‘Ovunque entrasse, nelle città, nei villaggi o nelle città, mettevano i malati per le strade e lo pregavano di poter toccare almeno il bordo del suo abito; e tutti quelli che Lo toccavano venivano guariti’. Nessun altro ha compiuto queste cose in loro; perché quando dice ‘in loro’, non si intende ‘tra di loro’ o ‘davanti a loro’, ma proprio ‘in loro’, poiché Li guariva. Pertanto, qualsiasi opera abbia compiuto in loro è un’opera che nessuno ha mai fatto prima; poiché se qualcun altro avesse compiuto anche solo una di queste opere, lo avrebbe fatto attraverso Lui; mentre queste opere Le sono state compiute da Lui stesso”.
 
-<span class="atom-split" data-atom="285" data-title="Whether the miracles which Christ worked were a sufficient proof of His Godhead? (2/2)" data-chapter="Whether the miracles which Christ worked were a sufficient proof of His Godhead?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="285" data-title="Whether the miracles which Christ worked were a sufficient proof of His Godhead? (parte 2)" data-chapter="Whether the miracles which Christ worked were a sufficient proof of His Godhead?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 2: [Augustine](/figures/augustine) explains this passage of John as follows (Tract. lxxi): "What
 are these 'greater works' which believers in Him would do? That, as they passed by, their very
@@ -19682,7 +19682,7 @@ Risposta all’Obiezione 3: I miracoli che Cristo compì per scacciare i demoni 
 Risposta all’Obiezione 4: Cristo venne appositamente per insegnare e compiere miracoli a beneficio dell’uomo, soprattutto al fine della salvezza della sua anima. Pertanto, permise ai demoni che scacciava di causare danno all’uomo, sia nel corpo che nei beni, proprio per la salvezza della sua anima – cioè, a scopo didattico. Per questo motivo Crisostomo commenta il versetto Matteo 8:32 dicendo che Cristo permise ai demoni di entrare nei maiali “non perché li avesse assecondati, ma per dimostrare, in primo luogo, quanto siano dannosi i demoni che attaccano gli uomini; in secondo luogo, affinché tutti comprendessero che i demoni non oserebbero nemmeno ferire i maiali se Cristo non lo avesse permesso; in terzo luogo, per far capire che avrebbero trattato quegli uomini ancora più crudelmente di quanto avessero fatto con i maiali, se non fossero stati protetti dalla provvidenza di Dio”.  
 Per gli stessi motivi, permise all’uomo che veniva liberato dai demoni di soffrire gravemente in quel momento; tuttavia lo liberò immediatamente da quella sofferenza. Inoltre, come afferma Beda riguardo al versetto Marco 9:25, questo ci insegna che “spesso, quando dopo aver peccato cerchiamo di tornare a Dio, subiamo attacchi sempre più violenti da parte del vecchio nemico. Egli fa ciò sia per ispirarci avversione verso la virtù, sia per vendicare l’umiliazione derivante dal nostro peccato”. L’uomo che fu guarito, infatti, “divenne come morto”, dice Gerolamo, “perché a coloro che sono guariti si dice: ‘Siete morti; e la vostra vita è nascosta in Cristo presso Dio’” (Colossesi 3:3).
 
-<span class="atom-split" data-atom="288" data-title="Whether it was fitting that Christ should work miracles in the heavenly bodies? (1/2)" data-chapter="Whether it was fitting that Christ should work miracles in the heavenly bodies?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="288" data-title="Whether it was fitting that Christ should work miracles in the heavenly bodies? (parte 1)" data-chapter="Whether it was fitting that Christ should work miracles in the heavenly bodies?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was unfitting that Christ should work miracles in the heavenly
 bodies. For, as Dionysius says (Div. Nom. iv), "it beseems Divine providence not to destroy, but
@@ -19740,7 +19740,7 @@ Rispondo che, come già detto sopra (Q[43], A[4]), i miracoli di Cristo dovevano
 
 Risposta all’Obiezione 1: Proprio come è naturale che i corpi inferiori siano mossi dai corpi celesti, che occupano un posto più elevato nell’ordine della natura, così è naturale che qualsiasi creatura venga modificata da Dio, secondo la Sua volontà. Pertanto, [Agostino](/figures/augustine) afferma (Contra Faustus, xxvi; citato nel commento su Romani 11:24): “Contrario alla natura sei stato innestato, ”, ecc.: “Dio, Creatore e Autore di tutte le nature, non fa nulla che vada contro la natura; infatti, ciò che Egli fa in ogni cosa costituisce proprio quella sua natura”. Di conseguenza, la natura di un corpo celeste non viene distrutta quando Dio ne modifica il corso; al contrario, ciò accadrebbe se tale cambiamento fosse dovuto a una causa diversa da quella divina.
 
-<span class="atom-split" data-atom="289" data-title="Whether it was fitting that Christ should work miracles in the heavenly bodies? (2/2)" data-chapter="Whether it was fitting that Christ should work miracles in the heavenly bodies?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="289" data-title="Whether it was fitting that Christ should work miracles in the heavenly bodies? (parte 2)" data-chapter="Whether it was fitting that Christ should work miracles in the heavenly bodies?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 2: The order of the seasons was not disturbed by the [miracle](/concepts/miracle) worked by
 Christ. For, according to some, this gloom or darkening of the sun, which occurred at the time of
@@ -19829,7 +19829,7 @@ Poiché non era il periodo giusto per un’eclissi, gli astronomi di tutto il mo
 
 Risposta all’Obiezione 3: Allora, soprattutto, perché era necessaria una prova miracolosa della divinità di Cristo, quando la debolezza della [natura umana](/axes/human_nature) era in Lui particolarmente evidente? Per questo motivo, al Suo nascere apparve una nuova stella nel cielo. Come afferma Massimo nei suoi Sermoni sul Natale (VIII): “Se disprezi il mangiatore di pagnotte, alza lo sguardo verso quella nuova stella nel cielo: essa annuncia al mondo la nascita del nostro Signore”. Ma durante la Sua Passione, nella Sua condizione umana, si manifestò una debolezza ancora maggiore. Pertanto furono necessari miracoli ancora più straordinari, in un contesto di rilievo mondiale ancora più significativo. Come dice Crisostomo nell’Homilia lxxxviii sul Vangelo secondo Matteo: “Questo è il segno che Egli aveva promesso a coloro che ne cercavano uno; disse infatti: ‘Una generazione malvagia e adultera cerca un segno; non le sarà dato alcun segno, se non quello del profeta Giona’, alludendo alla Sua Croce, e alla Sua Resurrezione. Poiché fu molto più meraviglioso che ciò accadesse quando Egli era crocifisso, piuttosto che quando camminava sulla terra”.
 
-<span class="atom-split" data-atom="290" data-title="Whether Christ worked miracles fittingly on men? (1/2)" data-chapter="Whether Christ worked miracles fittingly on men?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="290" data-title="Whether Christ worked miracles fittingly on men? (parte 1)" data-chapter="Whether Christ worked miracles fittingly on men?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ worked miracles unfittingly on men. For in man the
 soul is of more import than the body. Now Christ worked many miracles on bodies, but we do not
@@ -19932,7 +19932,7 @@ Rispondo che i mezzi devono essere proporzionati al fine. Cristo venne nel mondo
 Risposta all’Obiezione 1: I mezzi sono distinti dal fine. Ora, lo scopo per cui furono compiuti i miracoli di Cristo era la salvezza della parte razionale dell’uomo, che viene guarita dalla luce della saggezza e dal dono della giustizia; il primo di questi presuppone necessariamente il secondo, poiché, come è scritto nella Saggezza (1:4): “La saggezza non entrerà in un’anima malvagia, né dimorerà in un corpo soggetto ai peccati”. Non sarebbe stato appropriato che l’uomo diventasse giusto senza la sua volontà, poiché ciò sarebbe stato contrario sia alla natura stessa della giustizia, che implica rettitudine di volontà, sia alla natura umana, che richiede che il bene venga perseguito attraverso la libertà di volontà e non con la forza. Pertanto, Cristo ha giustificato l’uomo interiormente con il potere divino, ma non contro la sua volontà. Ciò non riguardava i suoi miracoli in sé, bensì lo scopo per cui furono compiuti. Allo stesso modo, con il potere divino, Egli infuse saggezza nelle menti semplici dei Suoi discepoli; per questo disse loro (Lc 21:15): “Vi darò una parola e la saggezza, contro le quali nessuno dei vostri avversari potrà resistere o confutare”. E poiché questa illuminazione era di natura interiore, non può essere considerata un miracolo, bensì soltanto riguardo all’effetto esteriore che ne derivò: ossia il fatto che persone ignoranti e semplici parlavano con tanta saggezza e fermezza. Per questo è scritto negli Atti degli Apostoli (4:13) che i Giudei, “vedendo la fermezza di Pietro e Giovanni, e comprendendo che erano uomini ignoranti, ne furono meravigliati”. E sebbene tali effetti spirituali siano diversi dai miracoli visibili, essi testimoniano comunque alla dottrina e al potere di Cristo, come afferma l’Epistola agli Ebrei (2:4): “Dio stesso ne dà testimonianza con segni, miracoli e varie meraviglie, nonché con la distribuzione dello Spirito Santo”. Tuttavia, Cristo compì alcuni miracoli anche sull’anima umana, soprattutto modificando le sue facoltà inferiori. Per questo Girolamo, commentando Matteo 9:9 (“Si alzò e lo seguì”), dice: “Era tale la maestosità della Sua divinità nascosta, che risplendeva già nel Suo aspetto umano, tanto da attirare coloro che Lo guardavano fin dal primo istante”. E riguardo a Matteo 21:12 (“Scacciò tutti quelli che vendevano e compravano”), lo stesso Girolamo afferma: “Di tutti i segni compiuti dal nostro Signore, questo mi sembra il più meraviglioso: che un uomo, allora disprezzato, potesse, con pochi colpi di frusta, scacciare una tale folla. Infatti, dai Suoi occhi sprigionò una luce ardente e celestiale, e la maestosità della Sua divinità risplendette nel Suo volto”. Origene, invece, commentando Giovanni 2:15, dice che “questo è un miracolo ancora più grande di quando trasformò l’acqua in vino, poiché in quel caso dimostrò il proprio potere sulle cose inanimate; qui, invece, plasmò le menti di migliaia di uomini”. Ancora, riguardo a Giovanni 18:6 (“Si voltarono indietro e caddero a terra”), Agostino osserva: “Sebbene quella folla fosse piena d’odio e armata di armi terribili, tuttavia una sola parola Sua, senza alcuna arma, li sconfisse”.
 Attraversandoli, li respingeva e li faceva cadere prostrati; infatti, Dio era nascosto in quel corpo. Inoltre, a questo si deve riferire quanto dice Luca (4:30): cioè che Gesù, “passando in mezzo a loro, proseguì per la Sua strada”. Su ciò Crisostomo osserva nell’Homilia XLVIII su Giovanni: “Il fatto che Egli si trovasse in mezzo a coloro che lo aspettavano in agguato e non venisse catturato da loro dimostra il potere della Sua divinità”. Inoltre, si deve ricordare quanto è scritto in Giovanni 8:59: “Gesù si nascose e uscì dal Tempio”. A questo proposito Teofilatto afferma: “Non si nascose in un angolo del Tempio, come se avesse paura, né si rifugiò dietro un muro o una colonna; ma con il Suo potere divino fece sì che coloro che lo minacciavano Lo vedessero invisibile, e così passò in mezzo a loro”. Da tutti questi esempi è chiaro che Cristo, quando lo desiderava, cambiava la mente degli uomini con il Suo potere divino: non solo donando giustizia e infondendo saggezza – attività che rientrano nella fase finale dei miracoli – ma anche attirandoli a Sé in modo visibile, o terrorizzandoli o stordendoli, operazioni che costituiscono il nucleo stesso del fenomeno miracoloso.
 
-<span class="atom-split" data-atom="291" data-title="Whether Christ worked miracles fittingly on men? (2/2)" data-chapter="Whether Christ worked miracles fittingly on men?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="291" data-title="Whether Christ worked miracles fittingly on men? (parte 2)" data-chapter="Whether Christ worked miracles fittingly on men?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 2: Christ came to save the world, not only by Divine power, but also
 through the mystery of His Incarnation. Consequently in healing the sick He frequently not only
@@ -20928,7 +20928,7 @@ Risposta all’Obiezione 2: La somiglianza si manifesta non nel numero delle sof
 
 Risposta all’Obiezione 3: Anche il minimo dei sofferimenti di Cristo sarebbe stato sufficiente da solo per redimere l’umanità da tutti i peccati; quanto alla loro adeguazione al fine della redenzione, è stato sufficiente che Egli sopportasse ogni tipo di sofferenza, come già detto in precedenza.
 
-<span class="atom-split" data-atom="304" data-title="Whether the pain of Christ's Passion was greater than all other pains? (1/2)" data-chapter="Whether the pain of Christ's Passion was greater than all other pains?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="304" data-title="Whether the pain of Christ's Passion was greater than all other pains? (parte 1)" data-chapter="Whether the pain of Christ's Passion was greater than all other pains?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the pain of Christ's Passion was not greater than all other pains.
 For the sufferer's pain is increased by the sharpness and the duration of the suffering. But some of
@@ -21051,7 +21051,7 @@ Risposta all’Obiezione 2: La virtù morale riduce in un modo la tristezza inte
 
 Risposta all’Obiezione 3: Il dolore di un’anima separata dal corpo appartiene allo stato della futura condanna, che supera ogni male di questa vita, proprio come la gloria dei santi trascende ogni bene della presente vita. Pertanto, quando affermiamo che il dolore di Cristo fu il più grande, non stiamo facendo alcuna comparazione tra il Suo dolore e quello di un’anima separata dal corpo. Tuttavia, il corpo di Adamo non poteva soffrire se non avesse peccato; solo così sarebbe diventato mortale e soggetto al dolore. E anche se avesse effettivamente sofferto, il suo dolore sarebbe stato minore di quello del corpo di Cristo, per le ragioni già espresse. Da tutto ciò risulta chiaro che, anche se Adamo avesse sofferto nella condizione dell’innocenza, il suo dolore sarebbe stato comunque inferiore a quello di Cristo.
 
-<span class="atom-split" data-atom="305" data-title="Whether the pain of Christ's Passion was greater than all other pains? (2/2)" data-chapter="Whether the pain of Christ's Passion was greater than all other pains?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="305" data-title="Whether the pain of Christ's Passion was greater than all other pains? (parte 2)" data-chapter="Whether the pain of Christ's Passion was greater than all other pains?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: Christ grieved not only over the loss of His own bodily life, but also
 over the sins of all others. And this grief in Christ surpassed all grief of every contrite heart, both
@@ -21237,7 +21237,7 @@ Risposta all’Obiezione 2: L’argomentazione del filosofo è vera in quanto si
 
 Risposta all’Obiezione 3: Un simile argomento è valido per l’intera essenza dell’anima, in relazione alle sue facoltà.
 
-<span class="atom-split" data-atom="308" data-title="Whether Christ suffered at a suitable time? (1/2)" data-chapter="Whether Christ suffered at a suitable time?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="308" data-title="Whether Christ suffered at a suitable time? (parte 1)" data-chapter="Whether Christ suffered at a suitable time?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ did not suffer at a suitable time. For Christ's Passion
 was prefigured by the sacrifice of the Paschal lamb: hence the Apostle says (1 Cor. 5:7): "Christ
@@ -21349,7 +21349,7 @@ Il primo giorno del pane senza lievito, poiché, secondo il rito della festivit�
 
 Risposta all’Obiezione 2: Come afferma Agostino (De Consensu Evangeliorum iii): “‘Era circa la sesta ora’ quando il Signore fu consegnato da Pilato per essere crocifisso”, come racconta Giovanni. Infatti, “non era esattamente la sesta ora, ma piuttosto verso la sesta: cioè dopo la quinta ora, e quando già era iniziata una parte della sesta ora fino al suo termine, quando iniziò l’oscurità mentre Cristo era appeso alla croce”. Si ritiene che fosse la terza ora quando i Giudei chiesero con insistenza che il Signore venisse crocifisso; e si dimostra chiaramente che lo crocificarono proprio in quel momento. Pertanto, affinché nessuno distogliesse l’attenzione da questo atto così grave dai Giudei verso i soldati, Agostino scrive: “‘Era la terza ora, e lo crocifissero’, affinché si possa riconoscere chiaramente che furono loro ad averlo crocifisso, proprio in quel momento in cui chiedevano con insistenza la sua morte”. Sebbene ci siano alcune persone che intendono che “la Parasceve” sia da interpretare come la terza ora, così come ricorda Giovanni: “‘Era la Parasceve, circa la sesta ora’”; poiché “Parasceve” viene spesso inteso come “preparazione”. Ma la vera Pasqua, celebrata durante la Passione del Signore, iniziò a essere preparata dalla nona ora della notte: cioè quando i sommi sacerdoti dissero: “Merita di morire”. Secondo Giovanni, quindi, “la sesta ora della Parasceve” va da quell’ora della notte fino alla crocifissione di Cristo; mentre secondo Marco è la terza ora del giorno. Tuttavia, alcuni sostengono che questa discrepanza derivi dall’errore di un trascrittore greco: poiché i caratteri utilizzati per rappresentare il numero 3 e il numero 6 sono piuttosto simili tra loro.
 
-<span class="atom-split" data-atom="309" data-title="Whether Christ suffered at a suitable time? (2/2)" data-chapter="Whether Christ suffered at a suitable time?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="309" data-title="Whether Christ suffered at a suitable time? (parte 2)" data-chapter="Whether Christ suffered at a suitable time?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: According to the author of De Qq. Vet. et Nov. Test., qu. lv, "our Lord
 willed to redeem and reform the world by His Passion, at the time of year at which He had created
@@ -21766,6 +21766,24 @@ Reply to Objection 3: For the same reason Christ suffered out of charity and out
 because He fulfilled even the precepts of charity out of obedience only; and was obedient, out of
 love, to the Father's command.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo non sia morto per obbedienza. Infatti, l’obbedienza riguarda un comando; ma non leggiamo che a Cristo sia stato ordinato di soffrire. Pertanto, non è morto per obbedienza.
+
+Obiezione 2: Inoltre, si dice che un uomo agisca per obbedienza quando agisce per necessità di un precetto. Ma Cristo non ha sofferto per necessità, ma volontariamente. Pertanto, non ha sofferto per obbedienza.
+
+Obiezione 3: Inoltre, la carità è una virtù più nobile dell’obbedienza. Ma leggiamo che Cristo ha sofferto per amore, secondo Efesini 5:2: “Vivete nell’amore, così come Cristo ci ha amati e si è dato per noi”. Pertanto, la Passione di Cristo dovrebbe essere attribuita piuttosto alla carità che all’obbedienza.
+
+Al contrario, è scritto (Filippi 2:8): “Divenne obbediente” al Padre “fino alla morte”.
+
+Rispondo che era appropriato che Cristo soffrisse per obbedienza. Prima di tutto, perché ciò era in linea con la giustificazione umana: “Come per l’infedeltà di uno solo molti divennero peccatori, così anche per l’obbedienza di uno solo molti saranno giustificati”, come si legge in Romani 5:19. In secondo luogo, ciò era opportuno per riconciliare l’uomo con Dio; da qui il detto di Romani 5:10: “Siamo stati riconciliati a Dio per mezzo della morte del Suo Figlio”, poiché la morte di Cristo rappresentava un sacrificio assolutamente accettabile per Dio, come si legge in Efesini 5:2: “Si è offerto a Dio come sacrificio e oblazione, profumo gradito”. Ora, l’obbedienza viene considerata più preziosa di qualsiasi altro sacrificio; come si dice in 1 Re 15:22: “L’obbedienza è meglio dei sacrifici”. Pertanto era appropriato che il sacrificio della Passione e della morte di Cristo derivasse dall’obbedienza. In terzo luogo, ciò era in linea con la Sua vittoria, attraverso la quale Egli trionfò sulla morte e sul suo autore; infatti un soldato non può vincere se non obbedisce al proprio comandante. E così l’Uomo-Cristo ottenne la vittoria per aver obbedito a Dio, come si legge in Proverbi 21:28: “L’uomo che obbedisce proclama la propria vittoria”.
+
+Risposta all’Obiezione 1: Cristo ricevette dall’Padre l’ordine di soffrire. Infatti è scritto (Giovanni 10:18): “Ho il potere di dare la mia vita e ho il potere di riprenderla; questo comando l’ho ricevuto dal Padre” – cioè, il potere di donare la propria vita e di riacquistarla. “Da ciò”, come afferma Crisostomo (Homilia LX in Giovanni), non si deve intendere che “in un primo momento abbia atteso l’ordine del Padre o che avesse bisogno di essere istruito; piuttosto, ha dimostrato che il proprio agire era volontario, eliminando ogni sospetto di opposizione al Padre”. Tuttavia, poiché la [Legge Antica](/concepts/divine_law) terminò con la morte di Cristo – secondo le sue ultime parole: “È compiuta” (Giovanni 19:30) – si può ritenere che attraverso il proprio soffrire Egli abbia adempiuto a tutti i precetti della Legge Antica. Ha adempiuto a quelli dell’ordine morale, fondati sui principi dell’amore: ha sofferto infatti per amore del Padre (Giovanni 14:31) e per amore del prossimo (Galati 2:20). Inoltre, con la propria Passione Cristo ha adempiuto anche ai precetti rituali della Legge, che riguardavano principalmente i sacrifici; tutti i sacrifici antichi, infatti, erano figure di quel vero sacrificio che Cristo offrì per noi in punto di morte. Per questo è scritto (Colossesi 2:16-17): “Nessuno vi giudichi in merito al cibo o alla bevanda, ai giorni festivi, alle lune nuove o ai sabati; questi sono infatti ombre di ciò che sarà; il corpo, invece, appartiene a Cristo”. Cristo è paragonato a queste cose come un corpo a un’ombra. Infine, con la propria Passione Cristo ha adempiuto anche ai precetti giudiziari della Legge, che miravano principalmente a compensare coloro che avevano subito ingiustizie; come recita il Salmo 68:5, Egli “pagò ciò che non aveva preso”, soffrendo per noi.
+
+Risposta all’Obiezione 2: Sebbene l’obbedienza implichi necessità riguardo alla cosa comandata, essa implica tuttavia libertà di volontà nel compiere tale comando. Ed effettivamente, questa fu proprio l’obbedienza di Cristo: sebbene la Sua Passione e la Sua morte, considerate in sé stesse, fossero contrarie alla volontà naturale, Egli decise comunque di adempiere alla volontà di Dio, secondo quanto dice il Salmo 39:9: “Che io faccia la tua volontà, o mio Dio, è ciò che desidero ardentemente”. Per questo motivo disse (Matteo 26:42): “Se non può passare senza che io lo beva, sia fatta la tua volontà”.
+
+Risposta all’Obiezione 3: Per lo stesso motivo, Cristo soffrì per carità e per obbedienza; poiché adempiette anche ai precetti della carità soltanto per obbedienza, e fu obbediente, per amore, al comando del Padre.
+
 <span class="atom-split" data-atom="316" data-title="Whether God the Father delivered up Christ to the Passion?" data-chapter="Whether God the Father delivered up Christ to the Passion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that God the Father did not deliver up Christ to the Passion. For it
@@ -21865,6 +21883,24 @@ king, of which it was not their place to judge. Or, again, because it was not la
 crucify Him (as they wanted to), but to stone Him, as they did to Stephen. Better still is it to say
 that the power of putting to death was taken from them by the Romans, whose subjects they were.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra inappropriato che Cristo debba soffrire per mano dei gentili. Poiché gli uomini dovevano essere liberati dal peccato attraverso la morte di Cristo, sembrerebbe logico che pochissimi dovessero peccare a causa della Sua morte. Tuttavia, i Giudei hanno peccato nella Sua morte; per loro si dice infatti (Matteo 21:38): “Ecco l’erede; venite, uccidiamolo”. Pertanto, sembra appropriato che i gentili non siano coinvolti nel peccato dell’uccisione di Cristo.
+
+Obiezione 2: Inoltre, la verità dovrebbe essere in armonia con quella rappresentazione simbolica. Ora, non furono i gentili ma gli ebrei ad offrire i sacrifici simbolici previsti dall’[Antico Testamento](/concepts/divine_law). Pertanto, nemmeno la Passione di Cristo, che era un vero sacrificio, doveva compiersi per mano dei gentili.
+
+Obiezione 3: Inoltre, come riportato in Giovanni 5:18, “i Giudei cercarono di uccidere” Cristo perché “non solo aveva violato il sabato, ma anche affermava che Dio fosse suo Padre, ponendosi così alla stessa stregua di Dio”. Tuttavia, queste accuse sembravano riguardare soltanto la Legge dei Giudei; per questo essi stessi dissero (Giovanni 19:7): “Secondo la Legge, dovrebbe morire, poiché si è proclamato Figlio di Dio”. Sembra quindi appropriato che Cristo soffrisse non nelle mani dei Gentili, ma dei Giudei, e che ciò che essi dissero fosse falso: “Non ci è permesso condannare a morte alcuno”, poiché molti peccati sono puniti con la morte secondo la Legge, come risulta evidente dal Levitico 20.
+
+Al contrario, il nostro Signore stesso dice (Matteo 20:19): “Lo consegneranno ai gentili affinché venga deriso, flagellato e crocifisso”.
+
+Rispondo che l’effetto della Passione di Cristo fu preannunciato proprio dal modo stesso della Sua morte. Infatti, la Passione di Cristo produsse il suo effetto salvifico innanzitutto tra i Giudei, molti dei quali furono battezzati in occasione della Sua morte, come risulta evidente dagli Atti degli Apostoli 2:41 e 4:4. In seguito, grazie alla predicazione dei Giudei, la Passione di Cristo si diffuse anche tra i Gentili. Pertanto, era appropriato che Cristo iniziasse le Sue sofferenze per mano dei Giudei e, dopo che questi L’ebbero consegnato ai Romani, completasse la Sua Passione per mano dei Gentili.
+
+Risposta all’Obiezione 1: Per dimostrare la pienezza del Suo amore, a causa del quale soffrì, Cristo, sulla croce, pregò per i Suoi persecutori. Pertanto, affinché i frutti della Sua preghiera potessero giovare sia agli Ebrei che ai Gentili, Cristo volle soffrire da parte di entrambi.
+
+Risposta all’Obiezione 2: La Passione di Cristo fu un sacrificio, nel senso che Egli sopportò la morte per volontà propria, spinto dalla carità; ma nel momento in cui soffrì a causa dei suoi persecutori, quella non fu un sacrificio, bensì un peccato estremamente grave.
+
+Risposta all’Obiezione 3: Come afferma [Agostino](/figures/augustine) (Trattato cxiv in Giovanni): “I Giudei dicevano che ‘non è legale per noi uccidere alcuno’, perché ritenevano che non fosse loro permesso farlo a causa della sacralità del giorno festivo, che avevano già iniziato a celebrare. Oppure, come osserva Crisostomo (Omelia lxxxiii in Giovanni), perché volevano che Lui venisse ucciso non come trasgressore della Legge, ma come nemico pubblico, dato che Si era proclamato re, e non spettava a loro giudicarlo. Oppure ancora, perché non era legale per loro crocifiggerLo (come volevano fare), ma lapidarlo, come fecero con Stefano. Ancora meglio si potrebbe dire che il potere di uccidere fu loro tolto dai Romani, dei quali erano sudditi”.
+
 <span class="atom-split" data-atom="318" data-title="Whether Christ's persecutors knew who He was?" data-chapter="Whether Christ's persecutors knew who He was?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's persecutors did know who He was. For it is written
@@ -21939,6 +21975,25 @@ aggravate it: for it shows that a man is so strongly attached to sin that he wis
 lest he avoid sinning. The Jews therefore sinned, as crucifiers not only of the Man-Christ, but also
 as of God.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i persecutori di Cristo sapessero chi Egli fosse. Infatti è scritto (Matteo 21:38) che i contadini, vedendo il Figlio, dissero tra loro: “Questo è l’erede; venite, uccidiamolo”. Su questo punto Gerolamo osserva: “Il nostro Signore dimostra in modo molto chiaro con queste parole che i capi dei Giudei crocifissero il Figlio di Dio non per ignoranza, ma per invidia: poiché sapevano bene che Era Lui a cui il Padre diceva attraverso il Profeta: ‘Chiedimi e ti darò i Gentili come eredità’”. Pertanto, sembra che sapessero chi Egli fosse, cioè Cristo o il Figlio di Dio.
+
+Obiezione 2: Inoltre, il nostro Signore dice (Giovanni 15:24): “Ma ora hanno visto entrambi e mi hanno odiato sia io che mio Padre”. Ciò che viene visto è chiaramente noto; pertanto, i Giudei, conoscendo Cristo, Gli inflissero la Passione per odio.
+
+Obiezione 3: Inoltre, si afferma in un sermone tenuto al Concilio di Efeso (P. iii, cap. x):  
+“Proprio come colui che distrugge i messaggi imperiali è destinato a morire, poiché disprezza la parola del principe; così anche il Giudeo che Lo crocifisse, pur avendolo visto con i propri occhi, dovrà pagare il prezzo per aver osato mettere le mani su Dio stesso, la Parola di Dio.” Ora, ciò non sarebbe accaduto se non avessero saputo che Lui era il Figlio di Dio, poiché la loro ignoranza li avrebbe scusati. Pertanto, sembra evidente che i Giudei, crocifiggendo Cristo, Lo conoscevano come il Figlio di Dio.
+
+Al contrario, è scritto (1 Corinzi 2:8): “Se lo avessero saputo, non avrebbero mai crocifisso il Signore della gloria”. E in Atti degli Apostoli 3:17, Pietro, rivolgendosi ai Giudei, dice: “So che l’avete fatto per ignoranza, così come anche i vostri capi”. Allo stesso modo, il Signore appeso alla croce disse: “Padre, perdonali, perché non sanno quello che fanno” (Luca 23:34).
+
+Rispondo che, tra i Giudei, alcuni erano anziani e altri di rango inferiore. Secondo l’autore di “De Qq. Nov. et Vet. Test.”, q. lxvi, gli anziani, chiamati “guida”, sapevano – proprio come i demoni – che Egli era il Cristo promesso dalla Legge; infatti vedevano in Lui tutti quei segni di cui i profeti avevano predetto l’avverarsi. Tuttavia non comprendevano il mistero della Sua divinità. Per questo l’Apostolo dice: “Se lo avessero saputo, non avrebbero mai crocifisso il Signore della gloria”. Bisogna però intendere che la loro ignoranza non li scusava dal crimine, poiché si trattava di un’ignoranza deliberata. Vedevano infatti chiari segni della Sua divinità, ma li fraintendevano a causa dell’odio e dell’invidia verso Cristo; inoltre non credevano nemmeno alle Sue parole, con cui Egli dichiarava di essere il Figlio di Dio. Per questo stesso motivo Egli dice di loro (Giovanni 15:22): “Se non fossi venuto e non avessi parlato con loro, non avrebbero peccato; ma ora non hanno più scuse per il loro peccato”. In seguito aggiunge (Giovanni 15:24): “Se non avessi compiuto tra di loro opere che nessun altro uomo ha mai fatto, non avrebbero peccato”. Quindi si può applicare a loro anche l’espressione usata da Giobbe (21:14): “Coloro che dicono a Dio: ‘Allontanati da noi; non desideriamo conoscere i tuoi sentieri’”. Ma coloro di rango inferiore, cioè la gente comune, che non avevano compreso i misteri delle Scritture, non capivano appieno che Egli fosse il Cristo o il Figlio di Dio. Anche se alcuni di loro credevano in Lui, la maggior parte no; e se talvolta dubitavano che fosse il Cristo, a causa dei numerosi segni e della forza del Suo insegnamento (come si legge in Giovanni 7:31-41), alla fine venivano ingannati dai loro capi, e così non credevano che Egli fosse il Figlio di Dio o il Cristo. Per questo Pietro disse loro: “So che l’avete fatto per ignoranza, proprio come hanno fatto anche i vostri capi”.
+
+Risposta all’Obiezione 1: Queste parole sono pronunciate dai vignaioli; esse indicano i governanti del popolo, che Lo conoscevano come l’Erede, poiché Lo riconoscevano come il Cristo promesso nella Legge. Tuttavia, le parole del Salmo 2:8 sembrerebbero contraddire questa interpretazione: “Chiedimi, e ti darò i gentili in eredità”; queste parole sono rivolte a Colui di cui si dice: “Tu sei il Mio Figlio; oggi Ti ho generato”. Se dunque essi Lo conoscevano come colui a cui si riferivano queste parole, ne consegue che Lo riconoscevano come il Figlio di Dio. Anche Crisostomo afferma sullo stesso passo che “essi Lo conoscevano come il Figlio di Dio”. Anche Beda, commentando le parole “Poiché non sanno ciò che fanno” (Lc 23:34), dice: “È da notare che Egli non prega per coloro che, riconoscendolo come il Figlio di Dio, preferirono crocifiggerLo piuttosto che ammetterLo”. Tuttavia si può ribattere che essi Lo conoscevano come il Figlio di Dio non in base alla Sua Natura, ma in virtù dell’eccellenza della Sua grazia straordinaria. Si può anche ritenere che essi sapessero con certezza che Egli era veramente il Figlio di Dio, poiché disponevano di segni evidenti al riguardo; tuttavia, a causa dell’odio e dell’invidia, rifiutarono di credere in tali segni, che avrebbero potuto permetter loro di riconoscere in Lui il Figlio di Dio.
+
+Risposta all’Obiezione 2: Le parole citate sono precedute da quanto segue: “Se non avessi compiuto tra di loro opere che nessun altro uomo ha compiuto, non avrebbero peccato”; e poi seguono queste parole: “Ma ora hanno visto entrambi e mi hanno odiato, così come hanno odiato mio Padre”. Tutto ciò dimostra che, sebbene abbiano assistito alle meravigliose opere di Cristo, è stato proprio a causa del loro odio che non hanno riconosciuto in Lui il Figlio di Dio.
+
+Risposta all’Obiezione 3: L’ignoranza voluta non scusa dalla colpa, anzi sembra aggravarla; dimostra infatti che una persona è così strettamente legata al peccato da preferire rimanere ignorante pur di evitare di commetterlo. Pertanto, i Giudei hanno peccato, non solo come crocifissori dell’Uomo-Cristo, ma anche come nemici di Dio.
+
 <span class="atom-split" data-atom="319" data-title="Whether the sin of those who crucified Christ was most grievous?" data-chapter="Whether the sin of those who crucified Christ was most grievous?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the sin of Christ's crucifiers was not the most grievous. Because
@@ -21986,6 +22041,24 @@ to [the State](/concepts/state); just as he who kills himself, as the Philosophe
 condemned to death the man who "did not fear to lay hands upon the Lord's anointed," even though
 he (Saul) had requested it, as related 2 Kings 1:5-14.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il peccato di coloro che crocifissero Cristo non fosse il più grave. Infatti, un peccato che possiede qualche scusa non può essere considerato il più grave. Ma nostro Signore stesso scusò il peccato dei suoi crocifissori quando disse: “Padre, perdonali, perché non sanno quello che fanno” (Lc 23:34). Pertanto, il loro non fu il peccato più grave.
+
+Obiezione 2: Inoltre, il nostro Signore disse a Pilato (Giovanni 19:11): “Colui che Mi ha consegnato a te ha commesso un peccato più grave”. Ma fu proprio Pilato ad ordinare ai suoi sottoposti di crocifiggere Cristo. Pertanto, il peccato di Giuda traditore sembra essere più grave di quello di coloro che Lo hanno crocifisso.
+
+Obiezione 3: Inoltre, secondo il Filosofo (Etica v): “Nessuno subisce ingiustizia volontariamente”; e nello stesso passo aggiunge: “Laddove nessuno subisce ingiustizia, nessuno compie atti ingiusti”. Pertanto, nessuno infligge ingiustizia a una persona che lo consente volontariamente. Ma Cristo ha sofferto volontariamente, come è stato dimostrato in precedenza (AA[1],2). Quindi coloro che hanno crocifisso Cristo non Gli hanno inflitto alcuna ingiustizia; e di conseguenza il loro peccato non era dei più gravi.
+
+Al contrario, Crisostomo, commentando le parole “Riempite dunque la misura dei vostri padri” (Matteo 23:32), afferma: “In verità, essi superarono di gran lunga la misura dei loro padri; questi ultimi infatti uccisero degli uomini, ma loro crocifissero Dio”.
+
+Rispondo che, come già detto sopra (A[5]), i capi dei Giudei sapevano che Egli era il Cristo; e se in loro c’era qualche ignoranza, essa era un’ignoranza simulata, che non poteva scusarli. Pertanto il loro peccato fu il più grave, sia per la natura stessa del peccato commesso, sia per la malvagità della loro volontà. Anche i Giudei comuni commisero un peccato altrettanto grave; tuttavia, in un certo senso, il loro crimine fu attenuato dalla loro ignoranza. Per questo motivo Beda, commentando Luca 23:34 (“Padre, perdonali, poiché non sanno ciò che fanno”), afferma: “Lui prega per coloro che non sanno ciò che stanno facendo, ritenendoli animati dallo zelo di Dio, ma non secondo la vera conoscenza”. Ma il peccato dei Gentili, i quali Lo crocifissero, era molto più scusabile, poiché essi non conoscevano la Legge.
+
+Risposta all’Obiezione 1: Come già detto, la scusa addotta dal nostro Signore non si riferisce ai capi dei Giudei, ma al popolo comune.
+
+Risposta all’Obiezione 2: Giuda non consegnò Cristo a Pilato, ma ai sommi sacerdoti che lo consegnarono poi a Pilato, secondo Giovanni 18:35: “La tua stessa nazione e i sommi sacerdoti ti hanno consegnato a me”. Tuttavia, il peccato di tutti questi era più grave di quello di Pilato, che uccise Cristo per paura di Cesare; ed ancora più grave del peccato dei soldati che lo crocifissero su ordine del governatore, non per avidità come Giuda, né per invidia e odio come i sommi sacerdoti.
+
+Risposta all’Obiezione 3: Cristo volle davvero la Sua Passione esattamente come lo voleva il Padre; tuttavia non approvò l’azione ingiusta dei Giudei. Pertanto, coloro che uccisero Cristo non sono scusati della loro ingiustizia. Ciononostante, chiunque uccida un uomo commette un torto non solo verso la vittima, ma anche verso Dio e verso lo [Stato](/concepts/state); proprio come colui che si suicida, come afferma il Filosofo (Etica V). Ecco perché Davide condannò a morte l’uomo che “non temeva di levare le mani sull’Ungito del Signore”, anche se quest’ultimo lo aveva chiesto, come raccontato in 2 Re 1:5-14.
+
 <span class="atom-split" data-atom="320" data-title="OF THE EFFICIENCY OF CHRIST'S PASSION (SIX ARTICLES)" data-chapter="OF THE EFFICIENCY OF CHRIST'S PASSION (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now have to consider Christ's Passion as to its effect; first of all, as to the manner in which
@@ -21997,6 +22070,16 @@ points for inquiry:
 (4) Whether it was by way of redemption?
 (5) Whether it is proper to Christ to be the Redeemer?
 (6) Whether (the Passion) secured man's salvation efficiently?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora dobbiamo considerare la Passione di Cristo in relazione al suo effetto; innanzitutto, in merito al modo in cui essa si è verificata; e in secondo luogo, riguardo all’effetto stesso che ha avuto. Sotto questo primo aspetto ci sono sei punti da esaminare:  
+(1) La Passione di Cristo ha portato alla nostra salvezza attraverso il merito?  
+(2) È stata un atto di espiazione?  
+(3) È stata un sacrificio?  
+(4) È stata un atto di redenzione?  
+(5) È appropriato che Cristo sia considerato il Redentore?  
+(6) La Passione ha realmente garantito efficacemente la salvezza dell’uomo?
 
 <span class="atom-split" data-atom="321" data-title="Whether Christ's Passion brought about our salvation by way of merit?" data-chapter="Whether Christ's Passion brought about our salvation by way of merit?" data-kind="atom" data-srclang="en"></span>
 
@@ -22039,6 +22122,24 @@ Reply to Objection 3: Christ's Passion has a special effect, which His preceding
 possess, not on account of greater charity, but because of the nature of the work, which was suitable
 for such an effect, as is clear from the arguments brought forward above all the fittingness of Christ's
 Passion (Q[46], AA, 3,4).
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la Passione di Cristo non abbia portato alla nostra salvezza attraverso il merito. Infatti, le cause delle nostre sofferenze non risiedono in noi stessi. Ma nessuno merita lodi o lode se non colui il cui principio vitale risiede dentro di lui. Pertanto, la Passione di Cristo non ha avuto alcun effetto attraverso il merito.
+
+Obiezione 2: Inoltre, fin dal momento della Sua concezione, Cristo ha meritato per Sé e per noi, come detto sopra (Q[9], A[4]; Q[34], A[3]). Ma è superfluo meritare nuovamente ciò che è già stato meritato in precedenza. Pertanto, con la Sua Passione Cristo non ha meritato la nostra salvezza.
+
+Obiezione 3: Inoltre, la fonte del merito è la carità. Ma la carità di Cristo non divenne più grande a causa della Passione di quanto lo fosse prima. Pertanto, Egli non meritò la nostra salvezza soffrendo di più di quanto avesse già sofferto.
+
+Al contrario, sulle parole di Filippi 2:9 (“Perciò Dio Lo ha esaltato”, ecc.), [Agostino](/figures/augustine) afferma nel “Trattato civile contro Giovanni” che la “umiltà” della Passione “meritava gloria; la gloria fu la ricompensa dell’umiltà”. Ma Egli fu glorificato non solo in Se Stesso, ma anche nei Suoi fedeli, come Egli stesso dice (Giovanni 17:10). Pertanto, sembra che abbia meritato la salvezza dei fedeli.
+
+Rispondo che, come già detto sopra (Q[7], AA[1],9; Q[8], AA[1],5), la grazia fu concessa a Cristo non solo in quanto individuo, ma anche in quanto Capo della Chiesa, affinché potesse fluire nei suoi membri; pertanto le opere di Cristo vengono riferite a Lui stesso e ai suoi membri nello stesso modo in cui le opere di qualsiasi altro uomo che si trovi in uno stato di grazia vengono riferite a lui. È evidente, però, che chiunque soffra per amore della giustizia, purché si trovi in uno stato di grazia, merita così la propria salvezza, secondo quanto detto in Matteo 5:10: “Beati coloro che soffrono per amore della giustizia”. Di conseguenza, Cristo, con la sua Passione, meritò la salvezza non solo per sé stesso, ma anche per tutti i suoi membri.
+
+Risposta all’Obiezione 1: Il dolore, in sé, è causato da un fattore esterno; ma nel momento in cui lo si sopporta volontariamente, esso assume anche un carattere interno, legato alle motivazioni personali che lo determinano.
+
+Risposta all’Obiezione 2: Fin dal momento della Sua concezione, Cristo meritava la nostra salvezza eterna; tuttavia, da parte nostra esistevano alcuni ostacoli che ci impedivano di ottenere il frutto dei Suoi meriti precedenti. Pertanto, affinché tali ostacoli fossero rimossi, “fu necessario che Cristo soffrisse”, come detto sopra (Q[46], A[3]).
+
+Risposta all’Obiezione 3: La Passione di Cristo ha un effetto particolare, che i Suoi meriti precedenti non possedevano; tale effetto deriva non da una maggiore carità, ma dalla natura stessa dell’atto compiuto da Cristo, che era adatta a produrre proprio quel risultato, come risulta chiaramente dagli argomenti addotti riguardo alla perfetta appropriazione della Passione di Cristo (Q[46], AA, 3,4).
 
 <span class="atom-split" data-atom="322" data-title="Whether Christ's Passion brought about our salvation by way of atonement?" data-chapter="Whether Christ's Passion brought about our salvation by way of atonement?" data-kind="atom" data-srclang="en"></span>
 
@@ -22086,6 +22187,24 @@ so that Christ's suffering was sufficient and superabundant atonement for His mu
 Reply to Objection 3: The dignity of Christ's flesh is not to be estimated solely from the nature
 of flesh, but also from the Person assuming it---namely, inasmuch as it was God's flesh, the result
 of which was that it was of infinite worth.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la Passione di Cristo non abbia portato alla nostra salvezza attraverso l’espiazione. Infatti, sembra che l’atto di espiazione debba ricadere su colui che ha commesso il peccato; come è chiaro nelle altre forme di penitenza, poiché chi ha compiuto un errore deve pentirsi e confessarlo. Ma Cristo non ha mai peccato, secondo 1 Pietro 2:22: “Colui che non ha commesso alcun peccato”. Pertanto, Egli non ha effettuato alcuna espiazione attraverso le Sue sofferenze personali.
+
+Obiezione 2: Inoltre, commettere un reato più grave non costituisce alcuna espiazione nei confronti di un altro. Tuttavia, nella Passione di Cristo fu compiuto il reato più grave di tutti, poiché coloro che Lo uccisero peccarono in modo estremamente grave, come già detto sopra (Q[47], A[6]). Di conseguenza, sembrerebbe che la Passione di Cristo non possa costituire alcuna espiazione nei confronti di Dio.
+
+Obiezione 3: Inoltre, l’espiazione implica un’equivalenza tra il peccato commesso e l’atto di espiazione, poiché si tratta di un atto di giustizia. Tuttavia, la Passione di Cristo non sembra essere sufficiente a compensare tutti i peccati dell’umanità, poiché Cristo ha sofferto non nella Sua natura divina, ma nella Sua carne, come si legge in 1 Pietro 4:1: “Cristo dunque ha sofferto nella carne”. Ora, l’anima – che è il soggetto dei peccati – ha un’importanza maggiore della carne; pertanto, Cristo non ha espiato i nostri peccati attraverso la Sua Passione.
+
+Al contrario, è scritto (Salmo 68:5) a proposito di Cristo: “Allora ho pagato ciò che avevo preso, senza portarlo via”. Ma colui che non ha compiuto un completo espiazione non ha davvero pagato. Pertanto, sembra evidente che Cristo, con il suo soffrire, abbia completamente espiato i nostri peccati.
+
+Rispondo che Cristo espia adeguatamente un’offesa quando offre qualcosa che la persona offesa ama altrettanto, o addirittura di più, di quanto abbia detestato quell’offesa. Ma soffrendo per amore e obbedienza, Cristo ha dato a Dio molto di più di ciò che era necessario per compensare l’offesa di tutta l’umanità. Prima di tutto, a causa della straordinaria carità da cui è derivato il suo sacrificio; in secondo luogo, a causa della dignità della sua vita offerta come espiazione, poiché si trattava della vita di colui che era sia Dio che uomo; terzo, a causa dell’entità della Passione e della grandezza del dolore sopportato, come già detto (Q[46], A[6]). Pertanto, la Passione di Cristo non è stata soltanto un’espiazione sufficiente, ma addirittura sovrabbondante per i peccati dell’umanità; secondo 1 Giovanni 2:2: “Lui è la propiziazione per i nostri peccati, e non solo per i nostri, ma anche per quelli di tutto il mondo”.
+
+Risposta all’Obiezione 1: La testa e i membri costituiscono un’unica entità mistica; pertanto, la soddisfazione di Cristo appartiene a tutti i fedeli, in quanto essi sono i Suoi membri. Inoltre, nella misura in cui due persone sono unite nell’amore fraterno, una può espiare per l’altra, come verrà dimostrato in seguito (XP, Q[13], A[2]). Tuttavia, lo stesso ragionamento non vale per la confessione e il pentimento, poiché l’espiazione consiste in un atto esteriore che può essere assistito da mezzi esterni, tra cui i compagni di fede.
+
+Risposta all’Obiezione 2: L’amore di Cristo era più grande della malvagità dei Suoi assassini; pertanto il valore della Sua Passione come espiazione superava la colpa omicida di coloro che Lo crocifissero. Così tanto, che le sofferenze di Cristo costituirono un’espiazione sufficiente e addirittura superflua per il crimine dei Suoi assassini.
+
+Risposta all’Obiezione 3: La dignità della carne di Cristo non deve essere valutata esclusivamente in base alla natura stessa della carne, ma anche in relazione alla Persona che l’ha assunta – cioè, in quanto era la carne di Dio, il che ne faceva qualcosa di di infinito valore.
 
 <span class="atom-split" data-atom="323" data-title="Whether Christ's Passion operated by way of sacrifice?" data-chapter="Whether Christ's Passion operated by way of sacrifice?" data-kind="atom" data-srclang="en"></span>
 
@@ -22146,6 +22265,24 @@ of God."
 Reply to Objection 3: Christ's Passion was indeed a malefice on His slayers' part; but on His
 own it was the sacrifice of one suffering out of charity. Hence it is Christ who is said to have offered
 this sacrifice, and not the executioners.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la Passione di Cristo non sia avvenuta attraverso un sacrificio. Infatti, la verità dovrebbe corrispondere alla figura simbolica utilizzata per rappresentarla. Tuttavia, nella legge antica i sacrifici offerti non includevano mai carne umana, poiché questi riti erano considerati figure di Cristo; anzi, tali sacrifici venivano giudicati empio, come si legge nel Salmo 105:38: “Versarono sangue innocente, il sangue dei loro figli e delle loro figlie, che offrirono agli idoli di Canaan”. Pertanto, sembra impossibile definire la Passione di Cristo un sacrificio.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (De Civ. Dei x) che “un sacrificio visibile è un sacramento, cioè un segno sacro, di un sacrificio invisibile”. Ora, la Passione di Cristo non è un semplice segno, ma piuttosto ciò che viene indicato da altri segni. Pertanto, sembrerebbe che la Passione di Cristo non sia un sacrificio.
+
+Obiezione 3: Inoltre, chi compie un sacrificio esegue un rito sacro, come dimostra proprio il termine “sacrificio”. Ma coloro che uccisero Cristo non hanno compiuto alcun atto sacro, bensì hanno commesso un grave crimine. Pertanto, la Passione di Cristo fu piuttosto un maleficio che un sacrificio.
+
+Al contrario, l’Apostolo dice (Efesini 5:2): “Si è dato in sacrificio per noi, come offerta e sacrificio gradito a Dio”.
+
+Rispondo che un sacrificio, nel vero senso della parola, è qualcosa che viene compiuto al fine di onorare Dio e di placarlo; per questo motivo Agostino afferma (De Civ. Dei x): “Un vero sacrificio è ogni buona azione compiuta al fine di restare uniti a Dio in una santissima comunione, con l’intento di raggiungere quella felicità perfetta nella quale possiamo essere veramente beati”. Come aggiunge lo stesso Agostino nello stesso testo: “Cristo si è offerto per noi attraverso la Passione”; tale volontario sopportamento della Passione fu particolarmente gradito a Dio, poiché proveniva dall’amore. È quindi evidente che la Passione di Cristo costituisce un vero sacrificio. Inoltre, come Agostino osserva in un altro passaggio dello stesso libro: “I primi sacrifici dei santi Padri erano molti e diversi segni di questo vero sacrificio; alcuni di essi prefiguravano il sacrificio finale di Cristo, proprio come un unico concetto può essere espresso con molte parole al fine di essere compreso più chiaramente”. E ancora, come Agostino afferma in De Trin. iv: “Poiché ogni sacrificio comporta quattro elementi fondamentali – a chi viene offerto, da chi viene offerto, ciò che viene offerto e per quale scopo viene offerto – è evidente che lo stesso Cristo, come vero Mediatore che ci riconcilia con Dio attraverso il sacrificio della pace, possa continuare ad essere uno con Dio a cui ha offerto se stesso, possa essere uno con coloro per i quali ha offerto, e possa lui stesso essere sia l’offrendo che ciò che è stato offerto”.
+
+Risposta all’Obiezione 1: Sebbene la verità corrisponda in alcuni aspetti a questa rappresentazione simbolica, non lo fa in tutti, poiché la verità deve andare oltre di essa. Pertanto, il sacrificio in cui la carne di Cristo viene offerta è una carne appropriata: non quella degli uomini, ma quella degli animali, poiché ciò indica appunto la natura di Cristo. E questo è un sacrificio assolutamente perfetto. Primo perché, essendo carne di [natura umana](/axes/human_nature), è adatta ad essere offerta per gli uomini e viene da loro ricevuta attraverso il [Sacramento](/concepts/sacrament). Secondo perché, essendo soggetta alla morte e ai peccati, era idonea all’immolazione. Terzo perché, essendo senza peccato, possedeva la virtù di purificare dai peccati. Quarto perché, essendo la carne stessa dell’offrendo, era accettabile da Dio grazie alla Sua carità nel donare la propria carne. Ecco perché Agostino afferma (De Trinitate iv): “Cosa altro potrebbe essere così appropriato per essere ricevuto dagli uomini o offerto per loro, se non la carne umana? Cosa altro potrebbe essere più adatto a questa immolazione, se non una carne mortale? Cosa altro esiste di più puro per purificare i mortali, se non una carne nata senza concupiscenza carnale e proveniente da un grembo vergine? Cosa altro potrebbe essere offerto e accettato con tanta favore, se non la carne del nostro sacrificio, che è diventata il corpo del nostro Sacerdote?”
+
+Risposta all’Obiezione 2: Agostino parla lì di sacrifici figurativi visibili; anche la Passione di Cristo, sebbene indicata da altri sacrifici figurativi, rappresenta comunque un segno che dobbiamo osservare, secondo 1 Pietro 4:1: “Pertanto, poiché Cristo ha sofferto in carne, anche voi armatevi dello stesso spirito; colui infatti che ha sofferto in carne ha cessato di peccare, affinché ora possa trascorrere il resto della sua vita in carne non secondo i desideri degli uomini, ma secondo la volontà di Dio”.
+
+Risposta all’Obiezione 3: La Passione di Cristo fu certamente un atto malvagio da parte dei suoi assassini; ma da parte Sua stesso rappresentò il sacrificio di colui che soffriva per carità. Per questo si dice che sia stato Cristo ad offrire questo sacrificio, e non gli esecutori.
 
 <span class="atom-split" data-atom="324" data-title="Whether Christ's Passion brought about our salvation by way of redemption?" data-chapter="Whether Christ's Passion brought about our salvation by way of redemption?" data-kind="atom" data-srclang="en"></span>
 
@@ -22212,6 +22349,24 @@ deliverance, but not with regard to the devil, the price had to be paid not to t
 And therefore Christ is said to have paid the price of our redemption---His own precious blood---not
 to the devil, but to God.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la Passione di Cristo non abbia realizzato la nostra salvezza attraverso il mezzo della redenzione. Infatti, nessuno acquista o redime ciò che non ha mai smesso di appartenergli. Ma gli uomini non hanno mai smesso di appartenere a Dio, secondo il Salmo 23:1: “La terra appartiene al Signore, così come tutto ciò che vi è dentro; il mondo intero e tutti coloro che vi abitano”. Pertanto, sembra che Cristo non ci abbia redenti attraverso la Sua Passione.
+
+Obiezione 2: Inoltre, come afferma [Agostino](/figures/augustine) (De Trinitate xiii): “Il diavolo doveva essere sconfitto dalla giustizia di Cristo”. Ma la giustizia richiede che colui che ha ingannosamente usurpato la proprietà altrui venga privato di essa, poiché l’inganno e l’astuzia non dovrebbero mai giovare a nessuno, come dichiarano anche le leggi umane. Pertanto, poiché il diavolo, con l’inganno, ha sedotto e sottomesso l’uomo – che è una creatura di Dio – sembra che l’uomo non debba essere liberato dal suo potere attraverso la redenzione.
+
+Obiezione 3: Inoltre, chiunque acquisti o riscatti un oggetto paga il prezzo a colui che lo possiede. Ma non fu al diavolo, che ci teneva in schiavitù, che Cristo pagò con il proprio sangue il prezzo della nostra redenzione. Pertanto, Cristo non ci ha redenti attraverso la propria Passione.
+
+Al contrario, è scritto (1 Pietro 1:18): “Non siete stati redenti con cose corruttibili, come l’oro o l’argento, a causa delle vostre vani discussioni sulla tradizione dei vostri padri; ma con il prezioso sangue di Cristo, come quello di un agnello immacolato e puro”. E (Galati 3:13): “Cristo ci ha redenti dalla maledizione della legge, diventando lui stesso una maledizione per noi”. Si dice che Egli sia stata una maledizione per noi perché ha sofferto sulla croce, come detto sopra (Q[46], A[4]). Pertanto, è stato proprio attraverso la Sua Passione che ci ha redenti.
+
+Rispondo che l’uomo fu tenuto prigioniero a causa del peccato in due modi: innanzitutto, per la schiavitù stessa del peccato, poiché (Giovanni 8:34) “Chi commette peccato è servo del peccato”; e (2 Pietro 2:19) “Di colui che uno viene vinto, di lui diventa anche schiavo”. Poiché il diavolo aveva vinto sull’uomo inducendolo a peccare, l’uomo era soggetto alla sua schiavitù. In secondo luogo, per quanto riguarda il debito della punizione, il pagamento del quale teneva legato l’uomo alla giustizia di Dio: anche questo rappresentava una sorta di schiavitù, poiché per un uomo soffrire ciò che non desidera equivale a essere vincolato, proprio come per un uomo libero è naturale dedicarsi a ciò che vuole. Poiché quindi la Passione di Cristo fu un’espiazione sufficiente e superflua per il peccato e il debito dell’umanità, essa costituì il prezzo con cui fummo liberati da entrambi questi obblighi. L’espiazione che si compie per sé o per altri viene infatti chiamata “prezzo”, poiché permette di riscattarsi o di riscattare un altro dal peccato e dalla sua punizione, come dice Daniele 4:24: “Riscatta i tuoi peccati con le opere di carità”. Cristo, però, non ha compiuto questa espiazione dando denaro o qualcosa del genere, ma offrendoci ciò che aveva il maggior valore: se stesso. E per questo motivo la Passione di Cristo viene chiamata la nostra redenzione.
+
+Risposta all’Obiezione 1: Si dice che l’uomo appartenga a Dio in due modi. In primo luogo, nella misura in cui è soggetto al potere di Dio; in questo senso, non ha mai cessato di appartenere a Lui, come si legge in Daniele 4:22: “Il Supremo regna sul regno degli uomini e lo dà a chiunque voglia”. In secondo luogo, attraverso l’unione con Lui nell’amore, come si afferma in Romani 8:9: “Se qualcuno non ha lo Spirito di Cristo, non è uno dei Suoi”. Pertanto, nel primo modo l’uomo non ha mai cessato di appartenere a Dio; nel secondo modo, invece, lo ha fatto a causa del peccato. E perciò, nella misura in cui è stato liberato dal peccato attraverso la sofferenza di Cristo, si dice che sia stato redento dalla Sua Passione.
+
+Risposta all’Obiezione 2: L’uomo, peccando, è diventato schiavo sia di Dio che del diavolo. Attraverso il peccato ha offeso Dio e si è sottoposto al diavolo acconsentendo alle sue richieste; pertanto non è diventato servo di Dio a causa del proprio peccato, ma piuttosto, allontanandosi dal servizio di Dio, è caduto sotto la schiavitù del diavolo per via dell’offesa commessa. Per quanto riguarda la punizione, l’uomo era principalmente legato a Dio come al suo giudice sovrano, e al diavolo come al suo torturatore, secondo Matteo 5:25: “Perché forse il nemico ti consegnerà al giudice, e il giudice ti consegnerà all’esecutore” – cioè, “all’angelo vendicativo implacabile”, come afferma Crisostomo (Omelia xi). Pertanto, anche se, dopo aver ingannato l’uomo, il diavolo lo teneva ingiustamente in schiavitù sia per quanto riguarda il peccato che la punizione, era comunque giusto che l’uomo soffrisse; Dio lo permetteva riguardo al peccato e lo ordinava riguardo alla punizione. Quindi, la giustizia richiedeva la redenzione dell’uomo rispetto a Dio, ma non rispetto al diavolo.
+
+Risposta all’Obiezione 3: Poiché, per quanto riguarda Dio, la redenzione era necessaria per la liberazione dell’uomo, ma non per quanto riguarda il diavolo, il prezzo doveva essere pagato non al diavolo, bensì a Dio. E pertanto si dice che Cristo abbia pagato il prezzo della nostra redenzione – il proprio prezioso sangue – non al diavolo, ma a Dio.
+
 <span class="atom-split" data-atom="325" data-title="Whether it is proper to Christ to be the Redeemer?" data-chapter="Whether it is proper to Christ to be the Redeemer?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not proper to Christ to be the Redeemer, because it is
@@ -22252,6 +22407,24 @@ the command of the Father as the original author.
 Reply to Objection 3: The sufferings of the saints are beneficial to the Church, as by way, not
 of redemption, but of example and exhortation, according to 2 Cor. 1:6: "Whether we be in
 tribulation, it is for your exhortation and salvation."
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia appropriato che Cristo sia il Redentore, poiché è scritto (Salmo 30:6): “Tu mi hai redento, o Signore, Dio della Verità”. Ma essere il Signore Dio della Verità appartiene all’intera Trinità. Pertanto, non è appropriato che sia Cristo a svolgere questo ruolo.
+
+Obiezione 2: Inoltre, si dice che sia colui che paga il prezzo del riscatto ad essere considerato colui che redime. Ma Dio Padre ha dato il Suo Figlio in sacrificio per i nostri peccati, come è scritto (Salmo 110:9): “Il Signore ha inviato il riscatto al suo popolo”; la glossa aggiunge: “cioè Cristo, che dona il riscatto a coloro che sono in schiavitù”. Pertanto, non solo Cristo, ma anche il Padre ci ha redenti.
+
+Obiezione 3: Inoltre, non solo la Passione di Cristo, ma anche quella degli altri santi ha contribuito alla nostra salvezza, come si legge in Colossesi 1:24: “Ora mi rallegro nelle mie sofferenze per voi e compio ciò che manca alle sofferenze di Cristo, nel mio corpo, per il suo corpo, che è la Chiesa”. Pertanto, il titolo di Redentore appartiene non solo a Cristo, ma anche agli altri santi.
+
+Al contrario, è scritto (Galati 3:13): “Cristo ci ha redento dalla maledizione della Legge, diventando lui stesso una maledizione per noi”. Ma solo Cristo è diventato una maledizione per noi; pertanto, solo Cristo dovrebbe essere chiamato il nostro Redentore.
+
+Rispondo che, affinché qualcuno possa compiere il atto della redenzione, sono necessarie due cose: l’atto stesso del pagamento e il prezzo pagato. Infatti, se qualcuno paga un prezzo che non è suo, ma di un altro, non si può dire che sia lui il principale redentore, bensì colui a cui quel prezzo appartiene. Ora, il sangue di Cristo o la Sua vita corporea, che “è nel sangue”, rappresentano il prezzo della nostra redenzione (Levitico 17:11,14); è proprio quella vita che Egli ha pagato in nostro favore. Pertanto, entrambi questi elementi appartengono direttamente a Cristo come uomo; ma alla Trinità, in quanto causa prima e ultima di tutto ciò: alla Trinità, infatti, appartiene la vita di Cristo come sua origine primaria, e da Lei Cristo ha ricevuto l’ispirazione per soffrire per noi. Di conseguenza, è appropriato che Cristo, in quanto uomo, sia considerato il Redentore; sebbene la redenzione possa essere attribuita all’intera Trinità come sua causa originale.
+
+Risposta all’Obiezione 1: Un commento esplicativo interpreta il testo così: “Tu, o Signore Dio della Verità, mi hai redento in Cristo, gridando: ‘Signore, nelle Tue mani affido lo spirito mio’.” Pertanto, la redenzione appartiene innanzitutto all’Uomo-Cristo, ma principalmente a Dio.
+
+Risposta all’Obiezione 2: L’Uomo-Cristo pagò il prezzo della nostra redenzione immediatamente, ma su comando del Padre, come suo autore originale.
+
+Risposta all’Obiezione 3: Le sofferenze dei santi sono benefiche per la Chiesa, non nel senso della redenzione, ma come esempio e incoraggiamento, secondo quanto si legge in 2 Corinzi 1:6: “Se siamo nella tribolazione, è per la vostra esortazione e salvezza”.
 
 <span class="atom-split" data-atom="326" data-title="Whether Christ's Passion brought about our salvation efficiently?" data-chapter="Whether Christ's Passion brought about our salvation efficiently?" data-kind="atom" data-srclang="en"></span>
 
@@ -22298,6 +22471,25 @@ inasmuch as we are liberated by it from the debt of punishment; while inasmuch a
 from the servitude of guilt, it acts by way of redemption: but in so far as we are reconciled with
 God it acts by way of sacrifice, as shall be shown farther on (Q[49]).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la Passione di Cristo non abbia realizzato la nostra salvezza in modo efficace.  
+Infatti, la [causa efficace](/concepts/four_causes) della nostra salvezza è la grandezza del potere divino, come si legge in Isaia 59:1: “Ecco, la mano del Signore non è troppo debole per salvare”. Ma Cristo fu crocifisso a causa della sua debolezza, come si dice in 2 Corinzi 13:4. Pertanto, la Passione di Cristo non ha realizzato la nostra salvezza in modo efficace.
+
+Obiezione 2: Inoltre, nessuna azione corporea può agire efficacemente se non attraverso il contatto; pertanto anche Cristo purificò il lebbroso toccandolo “per dimostrare che la Sua carne possedesse un potere salvifico”, come afferma Crisostomo in [*Theophylact, Enarr. in Luc.*]. Tuttavia, la Passione di Cristo non poteva riguardare tutta l’umanità; quindi non poteva realizzare efficacemente la salvezza di tutti gli uomini.
+
+Obiezione 3: Inoltre, non sembra coerente che lo stesso agente agisca sia attraverso il merito che attraverso l’efficienza, poiché colui che merita attende il risultato da qualcun altro. Ma fu proprio attraverso il merito che la Passione di Cristo realizzò la nostra salvezza; pertanto, non fu attraverso l’efficienza.
+
+Al contrario, è scritto (1 Corinzi 1:18) che “la parola della croce, per coloro che sono salvati, è il potere di Dio”. Ma il potere di Dio realizza la nostra salvezza in modo efficace. Pertanto, la passione di Cristo sulla croce ha compiuto la nostra salvezza in modo efficace.
+
+Rispondo che esistono due tipi di cause efficaci: quella principale e quella strumentale. La causa principale ed efficace della salvezza dell’uomo è Dio. Tuttavia, poiché l’umanità di Cristo è “lo strumento della divinità”, come detto sopra (Q[43], A[2]), tutte le azioni e i sofferimenti di Cristo agiscono in modo strumentale, grazie alla Sua natura divina, per la salvezza degli uomini. Pertanto, la Passione di Cristo realizza efficacemente la salvezza dell’uomo.
+
+Risposta all’Obiezione 1: La Passione di Cristo, in relazione alla Sua carne, è coerente con la debolezza che Egli ha assunto su Sé; ma in relazione alla Sua divinità, essa trae da tale divinità una forza infinita, come si legge in 1 Corinzi 1:25: “La debolezza di Dio è più potente degli uomini”; poiché la debolezza di Cristo, in quanto Egli è Dio, possiede una forza che supera ogni potere umano.
+
+Risposta all’Obiezione 2: La Passione di Cristo, sebbene corporea, ha comunque un effetto spirituale derivante dall’unione con la Divinità; pertanto la sua efficacia si realizza attraverso un contatto spirituale, cioè attraverso la fede e i sacramenti della fede, come afferma l’Apostolo (Romani 3:25): “Colui che Dio ha proposto come espiazione, per mezzo della fede nel suo sangue”.
+
+Risposta all’Obiezione 3: La Passione di Cristo, considerata in relazione alla Sua divinità, agisce in modo efficace; ma se vista nel contesto della volontà dell’anima di Cristo, agisce in modo meritorio. Essendo parte integrante della carne stessa di Cristo, essa opera come soddisfazione del debito di punizione che abbiamo contratto; liberandoci da tale debito, ci libera anche dalla schiavitù del peccato. Inoltre, riconciliandoci con Dio, essa agisce come sacrificio, come verrà ulteriormente spiegato in seguito (Q[49]).
+
 <span class="atom-split" data-atom="327" data-title="OF THE EFFECTS OF CHRIST'S PASSION (SIX ARTICLES)" data-chapter="OF THE EFFECTS OF CHRIST'S PASSION (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider what are the effects of Christ's Passion, concerning which there are
@@ -22308,6 +22500,16 @@ six points of inquiry:
 (4) Whether we were thereby reconciled with God?
 (5) Whether heaven's gate was opened to us thereby?
 (6) Whether Christ derived exaltation from it?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare quali siano gli effetti della Passione di Cristo, su cui si possono porre sei domande principali:  
+(1) Siamo stati liberati dal peccato attraverso la Passione di Cristo?  
+(2) Siamo stati così salvati dal potere del diavolo?  
+(3) Siamo stati liberati dal debito di punizione che avevamo?  
+(4) Siamo stati così riconciliati con Dio?  
+(5) La porta del cielo ci è stata aperta a seguito della Passione di Cristo?  
+(6) Cristo ne ha tratto elevazione e gloria?
 
 <span class="atom-split" data-atom="328" data-title="Whether we were delivered from sin through Christ's Passion?" data-chapter="Whether we were delivered from sin through Christ's Passion?" data-kind="atom" data-srclang="en"></span>
 
@@ -22375,6 +22577,34 @@ can exist even with sin, but "faith living" through charity; that thus Christ's 
 to us, not only as to our minds, but also as to our hearts. And even in this way sins are forgiven
 through the power of the Passion of Christ.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non siamo stati liberati dal peccato attraverso la Passione di Cristo. Infatti, liberare dalle colpe spetta esclusivamente a Dio, come dice Isaia 43:25: “Io sono Colui che cancella le vostre iniquità per il mio bene”. Ma Cristo ha sofferto non in qualità di Dio, ma di uomo. Pertanto, la Passione di Cristo non ci ha liberati dal peccato.
+
+Obiezione 2: Inoltre, ciò che è corporeo non agisce su ciò che è spirituale. Ma la Passione di Cristo è corporea, mentre il peccato esiste nell’anima, che è una creatura spirituale. Pertanto, la Passione di Cristo non avrebbe potuto purificarci dal peccato.
+
+Obiezione 3: Inoltre, non è possibile liberarsi da un peccato che non è ancora stato commesso, ma che sarà compiuto in futuro. Poiché, dunque, molti peccati sono stati commessi dopo la morte di Cristo e continuano ad essere commessi ogni giorno, sembra che noi non siamo stati liberati dal peccato attraverso la morte di Cristo.
+
+Obiezione 4: Inoltre, data una [causa efficiente](/concepts/four_causes), non è necessario nulla altro per produrre l’effetto desiderato.  
+Ma per il perdono dei peccati sono richiesti altri elementi, come il battesimo e la penitenza.  
+Pertanto, sembra che la Passione di Cristo non sia la causa sufficiente per il perdono dei peccati.
+
+Obiezione 5: Inoltre, è scritto (Proverbi 10:12): “La carità copre tutti i peccati”; e (Proverbi 15:27): “Con misericordia e fede, i peccati vengono purificati”. Ma esistono molte altre cose in cui crediamo e che suscitano la carità. Pertanto, la Passione di Cristo non è la causa vera e propria del perdono dei peccati.
+
+Al contrario, è scritto (Apocalisse 1:5): “Ci ha amati e ci ha purificati dai nostri peccati con il suo stesso sangue.”
+
+Rispondo che la Passione di Cristo è la causa effettiva del perdono dei peccati in tre modi. Primo, stimolando la nostra carità; infatti, come afferma l’Apostolo (Romani 5:8): “Dio ci dimostra la sua misericordia: poiché quando eravamo ancora peccatori, Cristo morì per noi”. È proprio attraverso la carità che otteniamo il perdono dei nostri peccati, come dice Luca 7:47: “Molti peccati le sono stati perdonati perché ha amato molto”. In secondo luogo, la Passione di Cristo porta al perdono dei peccati attraverso la redenzione. Poiché Egli è la nostra testa, con la Passione che ha sopportato per amore e obbedienza ci ha liberati dai nostri peccati, come se il prezzo della Sua sofferenza fosse stato sufficiente a riscattarci; allo stesso modo in cui un uomo può redimersi da un peccato commesso con i propri piedi attraverso il proprio impegno. Infine, la Passione di Cristo agisce come strumento della divinità: poiché il Suo corpo, nel quale ha sofferto, è l’instrumento dell’essere divino, le Sue sofferenze e le Sue azioni operano con potenza divina per eliminare il peccato.
+
+Risposta all’Obiezione 1: Sebbene Cristo non abbia sofferto in qualità di Dio, tuttavia la Sua carne è lo strumento della divinità; ed è per questo che la Sua Passione possiede una sorta di potere divino capace di scacciare il peccato, come è stato detto sopra.
+
+Risposta all’Obiezione 2: Sebbene la Passione di Cristo sia di natura corporea, essa trae comunque una sorta di energia spirituale dalla Divinità, alla quale la carne è unita come strumento; ed è proprio grazie a questa forza che la Passione di Cristo diventa causa del perdono dei peccati.
+
+Risposta all’Obiezione 3: Cristo, con la Sua Passione, ci ha liberati dai nostri peccati in modo causale, cioè creando quella causa che ha permesso la nostra redenzione; una causa tale da rendere possibile il perdono di tutti i peccati, passati, presenti o futuri. È come se un medico preparasse una medicina capace di curare tutte le malattie, anche quelle future.
+
+Risposta all’Obiezione 4: Come già detto, poiché la Passione di Cristo costituì una sorta di causa universale per il perdono dei peccati, essa deve essere applicata a ciascun individuo al fine di purificare i propri peccati personali. Ciò avviene attraverso il battesimo, la penitenza e gli altri sacramenti, i quali traggono la loro efficacia dalla Passione di Cristo, come verrà dimostrato in seguito (Q[62], A[5]).
+
+Risposta all’Obiezione 5: La Passione di Cristo ci viene applicata anche attraverso la fede, affinché possiamo partecipare dei suoi frutti, secondo Romani 3:25: “Colui che Dio ha proposto come espiazione, per mezzo della fede nel suo sangue”. Ma la fede con cui veniamo purificati dal peccato non è una “fede inerte”, che possa esistere anche insieme al peccato, bensì una “fede viva” attraverso la carità; così la Passione di Cristo può essere applicata a noi, non solo nel nostro intelletto, ma anche nel nostro cuore. E anche in questo modo i peccati vengono perdonati grazie al potere della Passione di Cristo.
+
 <span class="atom-split" data-atom="329" data-title="Whether we were delivered from the devil's power through Christ's Passion?" data-chapter="Whether we were delivered from the devil's power through Christ's Passion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that we were not delivered from the power of the devil through
@@ -22438,6 +22668,24 @@ through Christ's Passion, for defending themselves against the wicked snares of 
 in Antichrist's time. But if any man neglect to make use of this remedy, it detracts nothing from
 the efficacy of Christ's Passion.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non siamo stati liberati dal potere del diavolo attraverso la Passione di Cristo. Infatti, il diavolo non ha alcun potere sugli altri, poiché nessuno può far loro del male senza l’autorizzazione di un altro. Ma senza il permesso divino, il diavolo non avrebbe mai potuto causare danno a nessuno, come è evidente nel caso di Giobbe (1,2): il diavolo, infatti, col potere ricevuto da Dio, prima gli danneggiò i beni e poi il corpo. Allo stesso modo, si legge in Matteo 8:31-32 che i demoni non potevano entrare nei maiali se non con il permesso di Cristo. Pertanto, il diavolo non ha mai avuto potere sugli uomini; e quindi non siamo stati liberati dal suo dominio attraverso la Passione di Cristo.
+
+Obiezione 2: Inoltre, il diavolo esercita il suo potere sugli uomini tentandoli e molestando i loro corpi. Ma anche dopo la Passione continua a fare lo stesso. Pertanto non siamo liberati dal suo potere attraverso la Passione di Cristo.
+
+Obiezione 3: Inoltre, il potere della Passione di Cristo dura per sempre, poiché, secondo Eb 10:14, “con un’unica offerta Egli ha perfezionato per sempre coloro che sono stati santificati”. Tuttavia, la liberazione dal potere del diavolo non è universale: in molte parti del mondo esistono ancora idolatri; inoltre, tale potere non durerà per sempre, poiché nel tempo dell’Anticristo il diavolo sarà particolarmente attivo nell’utilizzare il proprio potere a danno degli uomini. Di lui si dice infatti (2 Tess 2:9): “Il suo avvento avverrà con l’operato di Satana, con ogni sorta di poteri, segni, meraviglie ingannevoli e con ogni forma di seduzione al male”. Pertanto, sembra che la Passione di Cristo non sia la causa per cui la razza umana viene liberata dal potere del diavolo.
+
+Al contrario, il nostro Signore disse (Giovanni 12:31), quando la Sua Passione si avvicinava: “Ora il principe di questo mondo sarà scacciato; e io, se sarò elevato dalla terra, attirerò a me tutte le cose”. Egli fu effettivamente elevato dalla terra attraverso la Sua Passione sulla croce. Pertanto, con la Sua Passione, il diavolo perse il potere che aveva sull’uomo.
+
+Rispondo che ci sono tre aspetti da considerare riguardo al potere che il diavolo esercitava sugli uomini prima della Passione di Cristo. Il primo riguarda l’uomo stesso, il quale, a causa del suo peccato, meritava di essere consegnato al potere del diavolo e fu vinto dalle sue tentazioni. Un altro aspetto riguarda Dio, che l’uomo aveva offeso con il peccato e che, per giustizia, lasciò l’uomo sotto il dominio del diavolo. Il terzo aspetto riguarda il diavolo stesso, il quale, per sua malvagia volontà, impedì all’uomo di ottenere la salvezza. Per quanto riguarda il primo aspetto, con la Passione di Cristo l’uomo fu liberato dal potere del diavolo, poiché la Passione è la causa del perdono dei peccati, come detto sopra (A[1]). Per quanto riguarda il secondo aspetto, si deve dire che la Passione di Cristo ci ha liberati dal potere del diavolo, in quanto ci ha riconciliato con Dio, come verrà dimostrato in seguito (A[4]). Ma per quanto riguarda il terzo aspetto, la Passione di Cristo ci ha liberati dal diavolo, poiché in essa egli superò i limiti del potere che Dio gli aveva concesso, complottando per causare la morte di Cristo, che, essendo senza peccato, non meritava di morire. Pertanto, come afferma [Agostino](/figures/augustine) (De Trin. xiii, cap. xiv): “Il diavolo fu sconfitto dalla giustizia di Cristo: poiché, pur non trovando in Lui nulla che meritasse la morte, lo uccise comunque. Ed è certamente giusto che i debitori che egli teneva prigionieri vengano liberati, poiché credevano in Colui che il diavolo uccise, sebbene Egli non fosse un debitore.”
+
+Risposta all’Obiezione 1: Si dice che il diavolo abbia avuto tale potere sugli uomini non perché fosse in grado di far loro del male senza l’autorizzazione di Dio, ma perché gli fu giustamente concesso di danneggiare coloro che, attraverso le sue tentazioni, avevano acconsentito a tali atti.
+
+Risposta all’Obiezione 2: Se Dio lo permette, il diavolo può comunque tentare le anime degli uomini e tormentare i loro corpi; tuttavia esiste un rimedio per l’uomo attraverso la Passione di Cristo, che gli consente di proteggersi dalle offensive del nemico e di non essere trascinato nella distruzione della morte eterna. Tutti coloro che avevano resistito al diavolo prima della Passione poterono farlo grazie alla fede nella Passione stessa, anche se essa non era ancora avvenuta. Tuttavia, in un certo senso, nessuno riusciva a sfuggire alle mani del diavolo, cioè a evitare di cadere all’inferno. Ma dopo la Passione di Cristo, gli uomini possono difendersi da questo per mezzo del suo potere.
+
+Risposta all’Obiezione 3: Dio permette al diavolo di ingannare gli uomini attraverso determinate persone, in momenti e luoghi specifici, secondo i motivi nascosti delle Sue decisioni; tuttavia, esiste sempre un rimedio offerto dalla Passione di Cristo per difendersi dalle insidie malvagie dei demoni, anche nel tempo dell’Anticristo. Ma se qualcuno trascura di utilizzare questo rimedio, ciò non diminuisce affatto l’efficacia della Passione di Cristo.
+
 <span class="atom-split" data-atom="330" data-title="Whether men were freed from the punishment of sin through Christ's Passion?" data-chapter="Whether men were freed from the punishment of sin through Christ's Passion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that men were not freed from the punishment of sin by Christ's
@@ -22489,6 +22737,24 @@ to the sufferings and death of Christ, we are brought into immortal glory, accor
 of the Apostle (Rom. 8:17): "And if sons, heirs also: heirs indeed of God, and joint heirs with Christ;
 yet so if we suffer with Him, that we may be also glorified with Him."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli uomini non siano stati liberati dal castigo del peccato attraverso la Passione di Cristo. Infatti, il principale castigo del peccato è l’eterna dannazione. Ma coloro che sono dannati all’inferno per i loro peccati non sono stati liberati dalla Passione di Cristo, poiché “all’inferno non c’è redenzione” [*Officio dei Morti, Risposta vii]. Pertanto, sembra che la Passione di Cristo non abbia liberato gli uomini dal castigo del peccato.
+
+Obiezione 2: Inoltre, nessuna punizione dovrebbe essere inflitta a coloro che sono liberati dal debito della punizione. Tuttavia, ai pentiti viene inflitta una punizione adeguata. Pertanto, gli uomini non furono liberati dal debito della punizione attraverso la Passione di Cristo.
+
+Obiezione 3: Inoltre, la morte è una punizione per il peccato, secondo Romani 6:23: “Il salario del peccato è la morte”. Ma gli uomini continuano a morire anche dopo la Passione di Cristo. Pertanto sembra che non siamo stati liberati dal debito della punizione.
+
+Al contrario, è scritto (Isaia 53:4): “Certamente Lui ha portato sulle sue spalle le nostre iniquità e sopportato i nostri dolori”.
+
+Rispondo che, attraverso la Passione di Cristo, siamo stati liberati dal debito della punizione in due modi. Prima di tutto, in modo diretto: cioè poiché la Passione di Cristo è stata una soddisfazione sufficiente e superflua per i peccati di tutta l’umanità; ma quando una soddisfazione sufficiente è stata effettuata, il debito della punizione viene annullato. In secondo luogo, in modo indiretto: cioè poiché la Passione di Cristo è la causa del perdono dei peccati, su cui si fonda il debito della punizione.
+
+Risposta all’Obiezione 1: La Passione di Cristo esercita il suo effetto su coloro a cui viene applicata, attraverso la fede, la carità e i sacramenti della fede. Pertanto, coloro che sono perduti nell’inferno non possono trarre beneficio dai suoi effetti, poiché non sono uniti a Cristo nel modo sopra menzionato.
+
+Risposta all’Obiezione 2: Come già detto sopra (A[1], ad 4,5), affinché possano essere realizzati gli effetti della Passione di Cristo, è necessario che noi siamo assimilati a Lui. Ora noi siamo assimilati a Lui in modo sacramentale attraverso il Battesimo, secondo quanto riportato in Romani 6:4: “Poiché con il battesimo veniamo sepolti insieme a Lui nella morte”. Pertanto, al momento del battesimo non viene inflitta agli uomini alcuna punizione di soddisfazione, poiché essi sono completamente liberati attraverso la soddisfazione offerta da Cristo. Tuttavia, poiché, come scrive 1 Pietro 3:18, “Cristo è morto, una volta per i nostri peccati”, un uomo non può essere nuovamente assimilato alla morte di Cristo attraverso il sacramento del Battesimo. Pertanto, coloro che peccano dopo il battesimo devono subire qualche forma di punizione o sofferenza a causa dei loro peccati; tuttavia, grazie alla cooperazione della soddisfazione offerta da Cristo, è sufficiente una pena molto più lieve rispetto a quella che sarebbe proporzionata al peccato commesso.
+
+Risposta all’Obiezione 3: La soddisfazione di Cristo agisce su di noi nella misura in cui siamo uniti a Lui, come i membri al loro capo, come detto sopra (A[1]). Ora, i membri devono essere conformi al loro capo. Pertanto, così come Cristo prima ricevette la grazia nella Sua anima e, attraverso la Passione, raggiunse la gloria dell’immortalità, anche noi, che siamo i Suoi membri, veniamo liberati dalla Sua Passione da ogni debito di punizione; tuttavia, prima riceviamo nelle nostre anime “lo spirito di adozione figliuoli”, grazie al quale i nostri [nomi](/positions/nominalism) vengono iscritti per l’eredità della gloria immortale, anche se possediamo ancora un corpo mortale e soggetto alle sofferenze: in seguito, “essendo resi conformi” alle sofferenze e alla morte di Cristo, veniamo introdotti nella gloria immortale, secondo le parole dell’Apostolo (Romani 8:17): “E se siamo figli, allora siamo anche eredi; eredi veri di Dio, co-eredi con Cristo. Se dunque soffriamo insieme a Lui, è per essere glorificati insieme a Lui”.
+
 <span class="atom-split" data-atom="331" data-title="Whether we were reconciled to God through Christ's Passion?" data-chapter="Whether we were reconciled to God through Christ's Passion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that we were not reconciled to God through Christ's Passion. For
@@ -22532,6 +22798,24 @@ away and through compensation being made in the shape of a more pleasing offerin
 Reply to Objection 3: As Christ's slayers were men, so also was the Christ slain. Now the
 charity of the suffering Christ surpassed the wickedness of His slayers. Accordingly Christ's Passion
 prevailed more in reconciling God to the whole human race than in provoking Him to wrath.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non siamo stati riconciliati con Dio attraverso la Passione di Cristo. Infatti, non c’è bisogno di riconciliazione tra amici. Ma Dio ci ha sempre amato, come dice la Sapienza 11:25: “Ami tutte le cose che esistono e non odii nulla di ciò che hai creato”. Pertanto, la Passione di Cristo non ci ha riconciliati con Dio.
+
+Obiezione 2: Inoltre, la stessa cosa non può essere allo stesso tempo causa ed effetto: pertanto, la grazia, che è la causa del merito, non rientra nella categoria dei meriti. Tuttavia, l’amore di Dio è la causa della Passione di Cristo, secondo Giovanni 3:16: “Dio ha amato il mondo a tal punto da dare il Suo Unigenito Figlio”. Non sembra quindi che siamo stati riconciliati con Dio attraverso la Passione di Cristo, in modo che Egli abbia iniziato ad amarci di nuovo.
+
+Obiezione 3: Inoltre, la Passione di Cristo fu compiuta dall’uccisione di Lui da parte degli uomini; e in questo modo essi offesero gravemente Dio. Pertanto, la Passione di Cristo è piuttosto una causa di ira che di riconciliazione con Dio.
+
+Al contrario, l’Apostolo dice (Roma 5:10): “Siamo riconciliati con Dio per mezzo della morte di Suo Figlio”.
+
+Rispondo che la Passione di Cristo è, in due modi, causa della nostra riconciliazione con Dio. In primo luogo, poiché elimina il peccato grazie al quale gli uomini sono diventati nemici di Dio, come afferma la Sapienza 14:9: “Per Dio, sia il malvagio che il suo male sono entrambi odiosi”; e il Salmo 5:7: “Tu odii tutti coloro che compiono l’iniquità”. In secondo luogo, poiché rappresenta un sacrificio estremamente gradito a Dio. Infatti, lo scopo principale di un sacrificio è placare Dio; proprio come un uomo tende a perdonare un’offesa ricevuta in considerazione di un atto di omaggio piacevole da parte dell’altro. Per questo motivo si legge nel 1 Re 26:19: “Se il Signore ti incita contro di me, che Egli accetti il mio sacrificio”. Allo stesso modo, la sofferenza volontaria di Cristo fu un atto così meritevole che, poiché rientrava nella natura umana, permise a Dio di perdonare ogni offesa compiuta dall’umanità da parte di coloro che, in quel modo, si univano a Cristo crocifisso (A[1], ad 4).
+
+Risposta all’Obiezione 1: Dio ama tutti gli uomini per la loro natura, che Egli stesso ha creato; tuttavia li odia in relazione ai crimini che commettono contro di Lui, come afferma Ecclesiaste 12:3: “Il Supremo odia i peccatori”.
+
+Risposta all’Obiezione 2: Non si dice che Cristo ci abbia riconciliati con Dio, come se Dio avesse iniziato di nuovo ad amarci; poiché è scritto (Ger. 31:3): “Ti ho amato con un amore eterno”; ma perché la fonte dell’odio fu eliminata attraverso la Passione di Cristo, sia perché il peccato venne lavato via, sia perché fu offerta una compensazione sotto forma di un sacrificio più gradito a Dio.
+
+Risposta all’Obiezione 3: Poiché coloro che uccisero Cristo erano uomini, allo stesso modo lo fu anche il Cristo ucciso. Ora, la carità di Cristo sofferente superava la malvagità dei suoi assassini. Pertanto, la Passione di Cristo ebbe un ruolo più decisivo nel riconciliare Dio con l’intera umanità che nel provocarne la collera.
 
 <span class="atom-split" data-atom="332" data-title="Whether Christ opened the gate of heaven to us by His Passion?" data-chapter="Whether Christ opened the gate of heaven to us by His Passion?" data-kind="atom" data-srclang="en"></span>
 
@@ -22599,6 +22883,30 @@ Reply to Objection 4: Christ by His Passion merited for us the opening of the ki
 heaven, and removed the obstacle; but by His ascension He, as it were, brought us to the possession
 of the heavenly kingdom. And consequently it is said that by ascending He "opened the way before
 them."
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo non abbia aperto per noi la porta del cielo attraverso la Sua Passione.  
+Infatti è scritto (Proverbi 11:18): “A colui che semina giustizia, spetta una ricompensa fedele”. Ma la ricompensa della giustizia è l’ingresso nel regno dei cieli. Pertanto, sembra che i santi Padri che compirono opere di giustizia abbiano ottenuto, per fede, l’ingresso nel regno celeste anche senza la Passione di Cristo. Di conseguenza, la Passione di Cristo non è la causa dell’apertura della porta del regno dei cieli.
+
+Obiezione 2: Inoltre, Elia fu elevato in cielo prima della Passione di Cristo (4 Re 2).  
+Ma l’effetto non può mai precedere la causa. Pertanto, sembra che l’apertura delle porte del cielo non sia il risultato della Passione di Cristo.
+
+Obiezione 3: Inoltre, come è scritto in Matteo 3:16, quando Cristo fu battezzato i cieli si aprirono per Lui. Ma il Suo battesimo precedette la Passione. Pertanto, l’apertura dei cieli non è il risultato della Passione di Cristo.
+
+Obiezione 4: Inoltre, è scritto (Michea 2:13): “Perché colui che salirà aprirà loro la strada”. Ma aprire la strada verso il cielo sembra significare semplicemente spalancarne le porte. Pertanto, sembra che la porta del cielo sia stata aperta per noi non attraverso la Passione di Cristo, ma attraverso la Sua Ascensione.
+
+Al contrario, così dice l’Apostolo (Ebrei 10:19): “Abbiamo fiducia nel poter entrare nei luoghi santi”, cioè nei regni celesti, “per mezzo del sangue di Cristo”.
+
+Rispondo che la chiusura della porta rappresenta l’ostacolo che impedisce alle persone di entrare. Tuttavia, è a causa del peccato che gli uomini sono stati impediti di accedere al regno celeste; infatti, secondo Isaia 35:8: “Esso sarà chiamato il sentiero sacro, e gli impuri non potranno attraversarlo”. Esistono due tipi di peccati che impediscono alle persone di entrare nel regno dei cieli: il primo è comune a tutta l’umanità, poiché deriva dal peccato dei nostri primi genitori; proprio a causa di quel peccato l’ingresso al cielo è stato chiuso all’uomo. Per questo leggiamo nel Genesi 3:24 che, dopo il peccato dei nostri primi genitori, Dio “mise cherubini e una spada fiammeggiante a guardia del sentiero dell’albero della vita”. L’altro tipo di peccato è quello personale di ciascuno di noi, commesso attraverso azioni individuali. Grazie alla Passione di Cristo siamo stati liberati non solo dal peccato comune dell’umanità, sia riguardo alla sua colpevolezza che al debito di punizione che esso comportava – e per il quale Lui ha pagato al nostro posto – ma anche dai peccati personali di ciascuno di noi, coloro che partecipano alla Sua Passione attraverso la fede, la carità e i sacramenti della fede. Pertanto, grazie alla Passione di Cristo, il cancello del regno celeste ci è stato aperto. È proprio quanto afferma l’Apostolo nell’Epistola agli Ebrei 9:11-12: “Essendo venuto Cristo come sommo sacerdote dei beni futuri, con il suo stesso sangue è entrato una volta per tutte nei luoghi sacri, ottenendo così la redenzione eterna”. Questo è anche preannunciato nel Numeri 35:25-28, dove si dice che colui che ha commesso un omicidio “dovrà rimanere lì”, cioè nella città di rifugio, “fino alla morte del sommo sacerdote unto con l’olio sacro; dopo la sua morte potrà tornare a casa”.
+
+Risposta all’Obiezione 1: I Santi Padri, compiendo opere di giustizia, meritarono di entrare nel regno celeste attraverso la fede nella Passione di Cristo, secondo Eb 11:33: i santi “con la fede conquistarono regni, operarono giustizia”, e ciascuno di loro fu così purificato dal peccato, per quanto riguarda la purificazione individuale. Tuttavia, la fede e la rettitudine di nessuno di loro furono sufficienti a eliminare l’ostacolo derivante dal peccato dell’intera umanità; tale ostacolo fu invece rimosso al prezzo del sangue di Cristo. Pertanto, prima della Passione di Cristo, nessuno poteva entrare nel regno celeste ottenendo la beatitudine eterna, che consiste nel pieno godimento di Dio.
+
+Risposta all’Obiezione 2: Elia fu portato nel cielo atmosferico, ma non nel cielo empyreale, che è la dimora dei santi; allo stesso modo, Enoch fu trasportato nel paradiso terrestre, dove si ritiene viva insieme a Elia fino all’avvento dell’Anticristo.
+
+Risposta all’Obiezione 3: Come è stato detto sopra (Q[39], A[5]), i cieli si aprirono durante il battesimo di Cristo, non a vantaggio di Cristo – poiché i cieli erano sempre aperti per Lui – ma al fine di simboleggiare che i cieli si aprono ai battezzati attraverso il battesimo di Cristo, il quale trova la sua efficacia nella Sua Passione.
+
+Risposta all’Obiezione 4: Cristo, con la Sua Passione, meritò per noi l’apertura del regno dei cieli e rimuove il ostacolo che vi si frapponeva; ma con la Sua Ascensione, per così dire, ci portò alla possesso di quel regno celeste. Per questo si dice che, ascendendo, “abbia aperto la strada davanti a noi”.
 
 <span class="atom-split" data-atom="333" data-title="Whether by His Passion Christ merited to be exalted?" data-chapter="Whether by His Passion Christ merited to be exalted?" data-kind="atom" data-srclang="en"></span>
 
@@ -22669,6 +22977,24 @@ of His soul to be postponed, since the soul was united immediately with the Word
 beseeming that its glory should be filled by the Word Himself. But the body was united with the
 Word through the soul.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo non meritivasse di essere esaltato a causa della Sua Passione. Infatti, l’elevata posizione sociale appartiene soltanto a Dio, così come la conoscenza della verità, secondo il Salmo 112:4: “Il Signore è alto sopra tutte le nazioni, e la sua gloria oltre i cieli”. Ma Cristo, in quanto uomo, possedeva la conoscenza di tutta la verità non grazie a alcun merito precedente, ma proprio a causa dell’unione tra Dio e l’uomo, secondo Giovanni 1:14: “Abbiamo visto la sua gloria, simile a quella del Figlio unigenito del Padre, pieno di grazia e di verità”. Pertanto, la Sua esaltazione non derivava dal merito della Passione, ma soltanto dall’unione tra Dio e l’uomo.
+
+Obiezione 2: Inoltre, Cristo meritò per Sé, fin dal primo istante della Sua concezione, ciò che è stato detto sopra (Q[34], A[3]). Ma il Suo amore non fu maggiore durante la Passione di quanto lo fosse prima. Pertanto, poiché la carità è il principio del merito, sembra che Egli non abbia meritato l’innalzamento derivante dalla Passione più di quanto lo avesse meritato in precedenza.
+
+Obiezione 3: Inoltre, la gloria del corpo deriva dalla gloria dell’anima, come afferma [Agostino](/figures/augustine) nell’Epistola ad Dioscoro. Ma attraverso la Sua Passione Cristo non meritò alcun onore riguardo alla gloria della Sua anima, poiché questa era già beata fin dal primo istante della Sua concezione. Pertanto, nemmeno attraverso la Passione meritò alcun onore riguardo alla gloria del Suo corpo.
+
+Al contrario, è scritto (Filippi 2:8): “Divenne obbediente fino alla morte, anzi fino alla morte di croce; per questo motivo Dio lo ha anche esaltato”.
+
+Rispondo che il merito implica una certa equità nella giustizia; per questo l’Apostolo dice (Romani 4:4): “Ma a colui che lavora, la retribuzione viene calcolata secondo i suoi meriti”. Tuttavia, quando qualcuno, a causa della sua volontà ingiusta, si attribuisce qualcosa che non gli spetta, è giusto che venga privato di qualcos’altro che invece gli appartiene; così, “se uno ruba una pecora, deve restituirne quattro” (Esodo 22:1). Si dice che meriti questo castigo perché la sua volontà ingiusta viene punita in questo modo. Allo stesso modo, quando qualcuno, per via della sua volontà giusta, si priva di ciò che gli spetta, merita che gli venga concesso qualcos’altro come ricompensa per tale volontà giusta. Ecco perché è scritto (Luca 14:11): “Chi si umilia sarà esaltato”. Nella Sua Passione, Cristo si umiliò sotto la Sua dignità in quattro modi: innanzitutto riguardo alla Sua Passione e morte, alle quali non era obbligato; in secondo luogo riguardo al luogo in cui il Suo corpo fu sepolto e l’anima gettata all’inferno; in terzo luogo riguardo alle umiliazioni e derisioni che subì; infine riguardo al fatto di essere consegnato al potere degli uomini, come Egli stesso disse a Pilato (Giovanni 19:11): “Non avresti alcun potere su di Me, se non te lo fosse stato dato dall’alto”. E per questo motivo meritò una quadrupla esaltazione dopo la Sua Passione. Prima di tutto riguardo alla Sua gloriosa Risurrezione; ecco perché è scritto (Salmi 138:1): “Tu conosci il momento in cui mi sono abbassato, e il momento in cui mi sono rialzato”. In secondo luogo riguardo alla Sua ascensione in cielo; ecco perché è scritto (Efesini 4:9): “Dopo essere salito in cielo, non è forse vero che prima è disceso nelle profondità della terra? Colui che discese è lo stesso che è salito al di sopra di tutti i cieli”. In terzo luogo riguardo al fatto di sedere alla destra del Padre e di manifestare la Sua divinità, come dice Isaia 52:13: “Sarà esaltato e lodato; sarà molto più alto di tutti. Quanti si sono meravigliati di Lui, altrettanto il suo nome sarà glorioso tra gli uomini”. Inoltre (Filippesi 2:8) è scritto: “Si umiliò, diventando obbediente fino alla morte, e cioè alla morte di croce; per questo motivo Dio lo ha esaltato e gli ha dato un nome che è al di sopra di ogni nome”. Ciò significa che tutti debbano riconoscerlo come Dio e rendergli omaggio. E questo viene espresso nel versetto successivo: “Che in nome di Gesù cada a ginocchio ogni uomo, sia nei cieli, sulla terra e sottoterra”. Infine riguardo al Suo potere giudiziario; ecco perché è scritto (Jobbo 36:17): “La tua causa sarà giudicata come quella di un malvagio, e tu otterrai giustizia”.
+
+Risposta all’Obiezione 1: La fonte del merito proviene dall’anima, mentre il corpo è lo strumento attraverso cui viene compiuto l’atto meritevole. Pertanto, la perfezione dell’anima di Cristo, che era la fonte del merito, non dovrebbe essere acquisita da Lui stesso attraverso il merito, così come la perfezione del corpo, che fu oggetto di sofferenze e quindi strumento del Suo merito.
+
+Risposta all’Obiezione 2: Cristo, per i suoi meriti precedenti, meritò l’innalzamento a beneficio della sua anima, la cui volontà era animata da carità e altre virtù; ma nella Passione meritò il proprio innalzamento anche a beneficio del suo corpo: poiché è giusto che il corpo, che per amore subì la Passione, riceva in cambio la gloria.
+
+Risposta all’Obiezione 3: Fu grazie a una particolare dispensazione di Cristo che, prima della Passione, la gloria della Sua anima non si manifestasse nel Suo corpo, affinché Egli potesse ottenere la propria gloria corporea con maggiore onore, quando l’avesse meritata attraverso la Passione. Tuttavia, non era appropriato che la gloria dell’anima venisse rinviata, poiché l’anima era immediatamente unita alla Parola; pertanto era giusto che fosse proprio la Parola stessa a colmare quella gloria. Il corpo, invece, era unito alla Parola attraverso l’anima.
+
 <span class="atom-split" data-atom="334" data-title="OF THE DEATH OF CHRIST (SIX ARTICLES)" data-chapter="OF THE DEATH OF CHRIST (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the death of Christ; concerning which there are six subjects of inquiry:
@@ -22678,6 +23004,16 @@ We have now to consider the death of Christ; concerning which there are six subj
 (4) Whether Christ was a man during the three days of His death?
 (5) Whether His was the same body, living and dead?
 (6) Whether His death conduced in any way to our salvation?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la morte di Cristo; su di essa vi sono sei argomenti da esaminare:  
+(1) Se fosse stato appropriato che Cristo morisse;  
+(2) Se la Sua morte abbia spezzato l’unità tra la divinità e la carne;  
+(3) Se la Sua divinità sia stata separata dalla Sua anima;  
+(4) Se Cristo fosse stato un uomo durante i tre giorni della Sua morte;  
+(5) Se si trattasse dello stesso corpo, sia in vita che dopo la morte;  
+(6) Se la Sua morte abbia avuto qualche effetto sulla nostra salvezza.
 
 <span class="atom-split" data-atom="335" data-title="Whether it was fitting that Christ should die?" data-chapter="Whether it was fitting that Christ should die?" data-kind="atom" data-srclang="en"></span>
 
@@ -22735,6 +23071,24 @@ at times: thus cold sometimes is the indirect cause of heat: and in this way Chr
 brought us back to life, when by His death He destroyed our death; just as he who bears another's
 punishment takes such punishment away.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non fosse appropriato che Cristo morisse. Infatti, un principio fondamentale di qualsiasi ordine non può essere influenzato da nulla che contraddica tale ordine; ad esempio, il fuoco, che è il principio del calore, non può mai diventare freddo. Ma il Figlio di Dio è la fonte e il principio di tutta la vita, come afferma il Salmo 35:10: “In Te è la sorgente della vita”. Pertanto, non sembra appropriato che Cristo morisse.
+
+Obiezione 2: Inoltre, la morte rappresenta un difetto più grave della malattia, poiché è attraverso la malattia che si arriva alla morte. Tuttavia non sarebbe stato degno di Cristo soffrire a causa delle malattie, come afferma Crisostomo in [*Athanasius, Orat. de Incarn. Verbi*]. Pertanto, nemmeno sarebbe stato appropriato che Cristo morisse a causa delle malattie.
+
+Obiezione 3: Inoltre, il nostro Signore disse (Giovanni 10:10): “Sono venuto affinché abbiano vita, e la abbiano in abbondanza”. Ma ciò che è opposto a una cosa non conduce necessariamente all’opposto di un’altra. Pertanto, sembra che nemmeno la morte di Cristo fosse appropriata.
+
+Al contrario, è scritto (Giovanni 11:50): “È necessario che uno muoia per il popolo, affinché l’intera nazione non perisca”: queste parole furono pronunciate in modo profetico da Caifa, come attesta l’Evangelista.
+
+Rispondo che fu appropriato che Cristo morisse. Prima di tutto, per soddisfare le esigenze dell’intera umanità, condannata a morte a causa del peccato, secondo Genesi 2:17: “In qualunque giorno ne mangiarti, morirai”. Infatti, è un modo appropriato per soddisfare i debiti altrui che sottomettersi alla pena meritata da quella persona. E così Cristo decise di morire, affinché con la sua morte potesse redimerci, come dice 1 Pietro 3:18: “Anche Cristo è morto una volta per i nostri peccati”. In secondo luogo, per dimostrare la realtà della carne che Egli ha assunto. Come afferma Eusebio (Oratio de Laudatione Constantini XV), “se dopo aver vissuto tra gli uomini Cristo fosse improvvisamente scomparso dalla loro vista, come se evitasse la morte, allora tutti lo considererebbero un fantasma”. In terzo luogo, per liberarci dalla paura della morte: è scritto infatti in Ebrei 2:14-15 che Egli “si è unito a carne e sangue, affinché con la sua morte potesse distruggere colui che aveva il dominio sulla morte e liberare coloro che, per paura della morte, erano soggetti alla schiavitù per tutta la loro vita”. In quarto luogo, per dimostrare che morire nel corpo, come conseguenza del peccato e della sua punizione, ci può servire da esempio per morire spiritualmente al peccato. È scritto infatti in Romani 6:10: “Poiché Egli è morto per il peccato, è morto una volta; ma ora che vive, vive per Dio”. In quinto luogo, risorgendo dalla morte e dimostrando il suo potere con cui ha sconfitto la morte, Egli può infondere in noi la speranza di risorgere anch’no. Per questo l’Apostolo dice in 1 Corinzi 15:12: “Se si predica che Cristo è risorto dai morti, come mai alcuni tra voi dicono che non c’è resurrezione dai morti?”.
+
+Risposta all’Obiezione 1: Cristo è la fonte di vita, in quanto Dio, e non in quanto uomo; tuttavia morì come uomo, e non come Dio. Per questo motivo [Agostino](/figures/augustine) (*Vigilius Tapsensis*) afferma contro Feliciano: “Non dobbiamo mai supporre che Cristo abbia provato la morte al punto di perdere la sua vita, poiché Egli stesso è la fonte di vita; infatti, se ciò fosse vero, la fonte di vita si sarebbe prosciugata. Pertanto, Egli ha sperimentato la morte condividendo i nostri sentimenti umani, che aveva volontariamente assunto su di Sé; tuttavia non ha perso la potenza della Sua natura, grazie alla quale dona la vita a tutte le cose.”
+
+Risposta all’Obiezione 2: Cristo non subì la morte causata dalla malattia, affinché non sembrasse morire necessariamente a causa dell’esaurimento delle sue forze; invece sopportò una morte inflitta dall’esterno, alla quale si consegnò volontariamente, affinché la sua morte potesse essere considerata un atto volontario.
+
+Risposta all’Obiezione 3: Un contrario, di per sé, non conduce necessariamente all’altro; tuttavia, a volte lo fa in modo indiretto: ad esempio, il freddo può essere la causa indiretta del calore. In questo senso, Cristo, con la Sua morte, ci ha riportati alla vita, poiché con essa ha distrutto la nostra morte; proprio come colui che subisce al posto di un altro elimina quella punizione.
+
 <span class="atom-split" data-atom="336" data-title="Whether the Godhead was separated from the flesh when Christ died?" data-chapter="Whether the Godhead was separated from the flesh when Christ died?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Godhead was separated from the flesh when Christ died.
@@ -22789,6 +23143,24 @@ it is present, and united formally, the body must necessarily be a living one, w
 has not the life-giving energy formally, but effectively; because It cannot be the form of the body:
 and therefore it is not necessary for the flesh to be living while the union of the Godhead with the
 flesh remains, since God does not act of necessity, but of His own will.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che, quando Cristo morì, la Divinità si sia separata dalla Sua carne. Infatti, come racconta Matteo (27:46), mentre il nostro Signore era appeso alla croce, gridò: “Dio mio, Dio mio, perché mi hai abbandonato?”. Ambrogio, commentando Luca 23:46, spiega queste parole nel seguente modo: “L’uomo gridò nel momento in cui stava per morire, separato dalla Divinità; poiché la Divinità è immune alla morte, è evidente che la morte potesse esistere soltanto se la vita venisse meno, dato che la Divinità è vita”. Pertanto, sembra che, quando Cristo morì, la Divinità si sia separata dalla Sua carne.
+
+Obiezione 2: Inoltre, gli estremi vengono separati quando viene eliminato il mezzo intermedio. Ma l’anima era proprio quel mezzo attraverso cui la Divinità si univa alla carne, come detto sopra (Q[6], A[1]). Pertanto, poiché l’anima è stata separata dalla carne con la morte, sembra che di conseguenza anche la Sua Divinità sia stata distaccata da essa.
+
+Obiezione 3: Inoltre, il potere di Dio di donare la vita è maggiore di quello dell’anima. Ma il corpo non potrebbe morire se l’anima non lo abbandonasse; pertanto, tanto meno potrebbe morire se la divinità non si allontanasse da esso.
+
+Al contrario, come già detto sopra (Q[16], AA[4],5), gli attributi della [natura umana](/axes/human_nature) vengono attribuiti al Figlio di Dio esclusivamente a causa dell’unione con la carne. Tuttavia, ciò che riguarda il corpo di Cristo dopo la morte viene anch’esso attribuito al Figlio di Dio – ad esempio, il fatto di essere sepolto – come è evidente nella Crede, dove si afferma che il Figlio di Dio “fu concepito e nato da una Vergine, soffrì, morì e fu sepolto”. Pertanto, la divinità di Cristo non si separò dalla carne al momento della sua morte.
+
+Rispondo che ciò che viene concesso per grazia di Dio non viene mai ritirato se non a causa di colpa. Per questo si legge in Romani 11:29: “I doni e la chiamata di Dio sono irrevocabili”. Tuttavia, la grazia dell’unione attraverso la quale la divinità si è unita alla carne nella persona di Cristo è più grande della grazia dell’adozione mediante la quale altri vengono santificati; inoltre, essa è più duratura, poiché destinata a un’unione personale, mentre la grazia dell’adozione riguarda soltanto un’unione affettiva. Eppure vediamo che anche la grazia dell’adozione non viene mai perduta se non per colpa. Poiché in Cristo non vi fu alcun peccato, era impossibile che l’unione della divinità con la carne venisse sciolta. Pertanto, così come prima della morte la carne di Cristo era unita personalmente e ipostaticamente alla Parola di Dio, lo rimase anche dopo la sua morte; in questo modo, l’ipostasi della Parola di Dio non differiva da quella della carne di Cristo dopo la morte, come afferma Damasceno nel suo “De Fide Orthodossa” III.
+
+Risposta all’Obiezione 1: Tale abbandono non si riferisce alla dissoluzione dell’unione personale tra Dio Padre e il Figlio, ma al fatto che Dio Padre lo abbia consegnato alla Passione; pertanto, “abbandonarlo” significa semplicemente non proteggerlo dai persecutori. Altrimenti, Gesù stesso afferma di essere stato abbandonato, in riferimento alla preghiera che aveva rivolto: “Padre, se è possibile, faccia sì che questo calice mi passi”, come spiega [Agostino](/figures/augustine) nel suo trattato De [Gratia](/concepts/grace) Novi Testamenti.
+
+Risposta all’Obiezione 2: Si dice che la Parola di Dio sia unita alla carne attraverso l’intervento dell’anima, poiché è proprio attraverso l’anima che la carne appartiene alla natura umana, quella che il Figlio di Dio intendeva assumere; ma non nel senso che l’anima sia lo strumento che le unisce. È grazie all’anima, infatti, che la carne rimane umana anche dopo la separazione dall’anima stessa – cioè poiché, per disposizione divina, nella carne morta permane una certa relazione con la risurrezione. Pertanto, l’unione della Divinità con la carne non viene meno.
+
+Risposta all’Obiezione 3: L’anima possiede formalmente l’energia che dona la vita; pertanto, finché è presente e unita in modo formale al corpo, quest’ultimo deve necessariamente essere vivente. La Divinità, invece, non possiede formalmente tale energia, ma solo efficacemente; poiché non può costituire la forma del corpo. Quindi non è necessario che la carne sia vivente finché rimane l’unione tra la Divinità e la carne, poiché Dio agisce per volontà propria, e non per necessità.
 
 <span class="atom-split" data-atom="337" data-title="Whether in Christ's death there was a severance between His Godhead and His soul?" data-chapter="Whether in Christ's death there was a severance between His Godhead and His soul?" data-kind="atom" data-srclang="en"></span>
 
@@ -22862,6 +23234,28 @@ Wherefore the one hypostasis of the Word was the hypostasis of the Word, of the 
 body. For neither soul nor body ever had an hypostasis of its own, besides the hypostasis of the
 Word: for there was always one hypostasis of the Word, and never two."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nella morte vi sia stata una separazione tra la divinità di Cristo e la sua anima, poiché il nostro Signore disse (Giovanni 10:18): “Nessuno mi può togliere l’anima; io stesso la posso dare e posso riprenderla”. Tuttavia non sembra che il corpo possa separare l’anima da sé stesso, poiché l’anima non è soggetta al potere del corpo, ma piuttosto il contrario: quindi sembra che spetti a Cristo, in quanto Parola di Dio, decidere di dare la propria anima, il che equivale a separarla da Sé stesso. Di conseguenza, con la morte la sua anima fu separata dalla sua divinità.
+
+Obiezione 2: Inoltre, Athanasio nel suo scritto *Vigilius Tapsensis, De Trin. vi* – che Bardenhewer attribuisce a San Atanasio (pagina 45, capitolo iii; il titolo completo è *De Trinitate et Spiritu Sancto*) afferma: “È maledetto chi non confessa che l’intera persona umana, che il Figlio di Dio ha assunto in sé, dopo essere stata nuovamente assunta o liberata da Lui, risorse dalla morte il terzo giorno”. Ma l’intera persona umana non poteva essere assunta nuovamente se non fosse stata un tempo separata dalla Parola di Dio; inoltre, l’intera persona umana è composta da ['anima e corpo](/axes/soul_body). Pertanto, deve essersi verificata una separazione, in un certo momento, tra la Divinità e sia il corpo che l’anima.
+
+Obiezione 3: Inoltre, il Figlio di Dio viene veramente chiamato “uomo” a causa dell’unione con l’intero essere umano. Se quindi, quando l’unione tra anima e corpo veniva dissolta dalla morte, la Parola di Dio continuava ad essere unita all’anima, ne conseguirebbe che il Figlio di Dio potesse essere veramente chiamato “anima”. Ma ciò è falso: poiché l’anima è la forma del corpo, ciò significherebbe che la Parola di Dio fosse a sua volta la forma del corpo, il che è impossibile. Pertanto, nella morte l’anima di Cristo fu separata dalla Parola di Dio.
+
+Obiezione 4: Inoltre, l’anima e il corpo separati non costituiscono un’unica ipostasi, ma due distinte entità. Pertanto, se la Parola di Dio fosse rimasta unita all’anima e al corpo di Cristo, allora, quando questi furono separati dalla morte di Cristo, sembrerebbe che la Parola di Dio fosse diventata due ipostasi durante il periodo in cui Cristo era morto; il che è inaccettabile. Quindi, dopo la morte di Cristo, la sua anima non continuò ad essere unita alla Parola di Dio.
+
+Al contrario, Damasceno afferma nel “De Fide Orthodossa” (III): “Anche se Cristo morì come uomo e la Sua sacra anima fu separata dal Suo corpo immacolato, la Sua divinità rimase comunque unita sia all’anima che al corpo.”
+
+Rispondo che l’anima è unita alla Parola di Dio in modo più immediato e primario rispetto al corpo, poiché è attraverso l’anima che il corpo viene unito alla Parola di Dio, come già detto sopra (Q[6], A[1]). Poiché, dunque, la Parola di Dio non fu separata dal corpo alla morte di Cristo, tanto meno lo fu dalla sua anima. Pertanto, poiché ciò che riguarda il corpo separato dall’anima viene affermato anche del Figlio di Dio – cioè che “fu sepolto” – così si dice anche di Lui nella Professione di Fede, che “discese all’inferno”, perché la sua anima, quando fu separata dal corpo, effettivamente discese all’inferno.
+
+Risposta all’Obiezione 1: [Agostino](/figures/augustine) (Trattato xlvii in Giovanni), commentando il testo di Giovanni, si chiede se Cristo abbia “abbandonato la sua anima” perché è la Parola, o perché è un’anima, oppure perché è carne. Afferma che “se dicessimo che la Parola di Dio abbia abbandonato la sua anima”, ne concluderebbe che “ci sia stato un momento in cui quell’anima fu separata dalla Parola” – il che è falso. “Infatti, la morte separò il corpo dall’anima, ma non affermo che l’anima sia stata separata dalla Parola. Se dicessimo invece che l’anima stessa si abbandonò, ne concluderebbe che si sia separata da sé stessa: il che è assurdo”. Quindi, rimane solo la possibilità che “sia la carne stessa ad abbandonare la sua anima e a riprenderla nuovamente, non con le proprie forze, ma con la forza della Parola che dimora nella carne”: poiché, come detto sopra (A[2]), la divinità della Parola non fu separata dalla carne alla morte.
+
+Risposta all’Obiezione 2: Con quelle parole, Atanasio non intendeva affatto dire che l’intero essere umano venisse completamente riacquisito – cioè, che tutte le sue parti venissero ripristinate – come se la Parola di Dio avesse abbandonato le componenti della natura umana con la sua morte; ma piuttosto che l’intera natura umana venisse nuovamente restaurata nella risurrezione attraverso il ricongiungimento dell’anima e del corpo.
+
+Risposta all’Obiezione 2: Poiché il Verbo di Dio è unito alla [natura umana](/axes/human_nature), non per questo viene chiamato “natura umana”; viene invece chiamato “uomo”, cioè uno che possiede la natura umana. Ora, l’anima e il corpo sono parti essenziali della natura umana; pertanto non si può concludere che il Verbo sia un’anima o un corpo per via di questa unione, ma piuttosto che Egli è uno che possiede un’anima e un corpo.
+
+Risposta all’Obiezione 4: Come afferma Damasceno (De Fide Orth. iii): “Nella morte di Cristo l’anima fu separata dal corpo; non si trattò di una singola ipostasi divisa in due parti, poiché sia l’anima che il corpo, nello stesso contesto, avevano la loro esistenza fin dall’inizio nell’ipostasia della Parola. E nella morte, pur essendo separati l’uno dall’altro, ciascuno continuò ad appartenere alla stessa ipostasia della Parola. Pertanto, l’unica ipostasia della Parola era anche l’ipostasia dell’anima e del corpo. Poiché né l’anima né il corpo ebbero mai un’ipostasia propria, al di fuori di quella della Parola; esistette sempre soltanto un’unica ipostasia della Parola, e mai due.”
+
 <span class="atom-split" data-atom="338" data-title="Whether Christ was a man during the three days of His death?" data-chapter="Whether Christ was a man during the three days of His death?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ was a man during the three days of His death, because
@@ -22913,6 +23307,24 @@ just as the ruler of the city may be called the whole city, since its entire dis
 Reply to Objection 3: That a man is competent to be a priest is by reason of the soul, which
 is the subject of the character of order: hence a man does not lose his priestly order by death, and
 much less does Christ, who is the fount of the entire priesthood.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo sia stato un uomo durante i tre giorni della Sua morte, poiché [Agostino](/figures/augustine) afferma (De Trin. iii): “Fu un assumere tale natura da far sì che Dio diventasse uomo e l’uomo diventasse Dio”. Ma questo assumere una natura umana non cessò con la morte di Cristo. Pertanto, sembra che Egli non abbia smesso di essere un uomo dopo la morte.
+
+Obiezione 2: Inoltre, il Filosofo afferma (Etica, IX) che “ogni uomo è il proprio intelletto”; pertanto, quando ci rivolgiamo all’anima di Pietro dopo la sua morte, diciamo: “Sant’Pietro, prega per noi”. Ma il Figlio di Dio, dopo la morte, non fu separato dalla propria anima intellettiva. Quindi, in quei tre giorni, il Figlio di Dio era un uomo.
+
+Obiezione 3: Inoltre, ogni sacerdote è un uomo. Ma durante quei tre giorni di morte Cristo era un sacerdote; altrimenti ciò che si dice nel Salmo 109:4 non sarebbe vero: “Tu sei un sacerdote per sempre”. Pertanto, Cristo era un uomo durante quei tre giorni.
+
+Al contrario: quando viene eliminata la specie superiore, scompare anche quella inferiore. Tuttavia, l’essere vivente è una specie superiore rispetto all’animale e all’uomo, poiché l’animale è una sostanza vivente dotata di sensi. Durante quei tre giorni di morte, il corpo di Cristo non era vivente né animato; pertanto, Egli non era un uomo.
+
+Rispondo che è un articolo di fede il fatto che Cristo sia veramente morto; pertanto, affermare qualsiasi cosa possa distruggere la verità della Sua morte costituisce un errore contro la fede. È proprio per questo che si legge nell’epistola sinodale di Cirillo: “Se qualcuno non riconosce che la Parola di Dio ha sofferto in carne, è stata crocifissa in carne e ha sperimentato la morte in carne, sia anatema”. Ora, fa parte della verità riguardo alla morte dell’uomo o di un animale il fatto che, con la morte, l’essere umano smetta di essere tale; infatti, la morte dell’uomo o dell’animale deriva dalla separazione dell’anima, che è il complemento formale di tali esseri. Pertanto, affermare che Cristo sia stato semplicemente un uomo durante i tre giorni della Sua morte è errato; tuttavia si può dire che, in quei giorni, Egli fosse “un uomo morto”. Alcuni autori, però, hanno sostenuto che Cristo fosse effettivamente un uomo in quei periodi, pronunciando affermazioni errate, ma senza alcuna intenzione di contraddire la fede: ad esempio, Ugo di San Vittore, il quale sosteneva che Cristo fosse stato un uomo nei tre giorni successivi alla Sua morte, poiché riteneva che l’anima costituisse essenzialmente l’essere umano; ma questa tesi è errata, come dimostrato nelle fonti citate. Allo stesso modo, il Maestro delle Sentenze sosteneva che Cristo fosse stato un uomo in quei giorni per motivi diversi: egli riteneva infatti che l’unione tra anima e corpo non fosse essenziale per definire un essere umano, e che bastasse che tale essere possedesse anima e corpo, indipendentemente dal fatto che fossero uniti o separati; anche questa tesi è errata, come evidenziato nelle stesse fonti citate.
+
+Risposta all’Obiezione 1: La Parola di Dio assunse un’anima e un corpo uniti; il risultato di questa assunzione fu che Dio divenne uomo, e l’uomo divenne Dio. Tuttavia, questa assunzione non cessò nemmeno dopo la separazione della Parola dall’anima o dalla carne; purtroppo, l’unione tra anima e carne scomparve.
+
+Risposta all’Obiezione 2: Si dice che l’uomo sia il proprio intelletto, non perché l’intelletto costituisca l’intero essere umano, ma perché rappresenta la parte principale dell’uomo, nella quale risiede virtualmente tutta la sua natura e le sue capacità; proprio come si può dire che il sovrano di una città sia “l’intera città”, poiché in lui è concentrata l’autorità decisionale su tutte le questioni che riguardano quella comunità.
+
+Risposta all’Obiezione 3: Un uomo è idoneo ad essere sacerdote in virtù dell’anima, che costituisce l’elemento fondamentale del carattere gerarchico; pertanto un uomo non perde la sua condizione sacerdotale con la morte, e tanto meno Cristo, che è la fonte di tutto il sacerdozio.
 
 <span class="atom-split" data-atom="339" data-title="Whether Christ's was identically the same body living and dead?" data-chapter="Whether Christ's was identically the same body living and dead?" data-kind="atom" data-srclang="en"></span>
 
@@ -22976,6 +23388,25 @@ Reply to Objection 3: Corruption and death do not belong to Christ by reason of 
 from which suppositum follows the unity of identity; but by reason of the human nature, according
 to which is found the difference of death and of life in Christ's body.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il corpo di Cristo non fosse esattamente lo stesso corpo, sia in vita che in morte. Infatti, Cristo morì davvero, proprio come gli altri uomini. Ma il corpo di tutte le altre persone non è esattamente lo stesso, né in vita né in morte, poiché esiste una differenza essenziale tra di loro. Pertanto, nemmeno il corpo di Cristo è esattamente lo stesso, sia in vita che in morte.
+
+Obiezione 2: Inoltre, secondo il Filosofo (Metafisica v, testo 12), le cose specificamente diverse sono anche numericamente diverse. Ma il corpo di Cristo, sia vivo che morto, era specificamente diverso: infatti, l’occhio o la carne del morto vengono chiamati così in modo equivoco, come è evidente dal Filosofo (De Anima ii, testo 9; Metafisica vii). Pertanto, il corpo di Cristo non era semplicemente identico, sia vivo che morto.
+
+Obiezione 3: Inoltre, la morte è un tipo di corruzione. Ma ciò che viene corrotto da una corruzione sostanziale, dopo essere stato corrotto, non esiste più, poiché la corruzione rappresenta un passaggio dall’essere al non-essere. Pertanto, il corpo di Cristo, dopo essere morto, non è rimasto identico a prima, poiché la morte è una corruzione sostanziale.
+
+Al contrario, Atanasio afferma (Epistola ad Epicteto): “In quel corpo che fu circonciso e portato in giro, che mangiò, lavorò e fu inchiodato alla croce, vi era la Parola di Dio, immutabile e incorporea: lo stesso corpo fu poi deposto nella tomba.” Ma il corpo vivente di Cristo fu circonciso e inchiodato alla croce; il corpo morto di Cristo fu deposto nella tomba. Pertanto, si trattava dello stesso corpo, sia vivo che morto.
+
+Rispondo che l’espressione “simplemente” può essere intesa in due modi. Nel primo caso, “simplemente” equivale a “assolutamente”; quindi ciò che viene detto “simplemente” è ciò che viene detto senza alcun aggiunto, come affermava il Filosofo (Topicus ii): e in questo senso il corpo di Cristo, sia morto che vivo, era semplicemente identico: poiché si dice che una cosa sia “simplemente” identica in base all’identità del soggetto. Tuttavia, il corpo di Cristo, sia vivo che morto, era identico nel suo essere sostanziale, poiché sia nella vita che nella morte non aveva altro se non la Parola di Dio, come già detto (A[2]). Ed è in questo senso che parla Atanasio nel passaggio citato.  
+Nel secondo caso, “simplemente” equivale a “completamente” o “totalmente”; in questo senso il corpo di Cristo, morto e vivo, non era “simplemente” identico, poiché non era “completamente” lo stesso: la vita, infatti, è essenziale per un corpo vivente; essa costituisce un predicato essenziale, non accidentale; pertanto un corpo che smette di essere vivo non rimane più completamente lo stesso. Inoltre, se si affermasse che il corpo morto di Cristo sia rimasto “completamente” lo stesso, ne conterrebbe che non è stato corrotto, cioè dalla corruzione della morte: il che costituisce l’eresia dei Gaianiti, come afferma Isidoro (Etymologia viii) e come si legge nei Decretali (xxiv, qu. iii). Damasceno, inoltre, dice (De Fide Orthodossa iii) che “il termine ‘corruzione’ indica due cose: da un lato, la separazione dell’anima dal corpo e altre simili condizioni; dall’altro lato, la completa dissoluzione dei corpi negli elementi. Pertanto è empio affermare, come fanno Giuliano e i Gaianiti, che il corpo del Signore sia rimasto incorrotto nel senso indicato prima della risurrezione: poiché in tal caso il corpo di Cristo non sarebbe stato consustanziale con noi, né veramente morto, né noi saremmo stati realmente salvati. Ma nel secondo senso, il corpo di Cristo è rimasto incorrotto”.
+
+Risposta all’Obiezione 1: Il cadavere di tutte le altre persone non rimane unito a un’entità sostanziale permanente, come avvenne per il corpo di Cristo; pertanto, il cadavere di tutte le altre persone non è “esattamente” lo stesso, ma soltanto in alcuni aspetti: è infatti lo stesso riguardo alla materia, ma non riguardo alla forma. Il corpo di Cristo, invece, rimane lo stesso “in senso assoluto”, a causa dell’identità della sostanza su cui si basa, come già detto in precedenza.
+
+Risposta all’Obiezione 2: Poiché si dice che una cosa sia la stessa in modo identico in base al suo supposto, ma la stessa in modo specifico in base alla sua forma, è necessario concludere che, laddove il supposto esiste soltanto in una natura, anche l’unità di identità viene meno quando si elimina l’unità di specie. Tuttavia, l’ipostasi della Parola di Dio esiste in due nature; pertanto, sebbene nel corpo umano questa ipostasi non mantenga la stessa natura specifica, in Cristo essa rimane identica in base al supposto della Parola di Dio.
+
+Risposta all’Obiezione 3: La corruzione e la morte non appartengono a Cristo in base al presupposto secondo cui il suo essere umano è identico alla sua natura divina; ma in base alla sua natura umana, nella quale si riscontra la distinzione tra vita e morte nel suo corpo.
+
 <span class="atom-split" data-atom="340" data-title="Whether Christ's death conduced in any way to our salvation?" data-chapter="Whether Christ's death conduced in any way to our salvation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's death did not conduce in any way to our salvation.
@@ -23026,6 +23457,14 @@ We have now to consider Christ's burial, concerning which there are four points 
 (3) Whether His body was decomposed in the tomb?
 (4) Concerning the length of time He lay in the tomb.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la sepoltura di Cristo, su cui si possono porre quattro domande principali:  
+(1) Era appropriato che Cristo fosse sepolto?  
+(2) In merito al modo in cui fu sepolto;  
+(3) Il suo corpo si decompose nella tomba?  
+(4) Quanto tempo rimase sepolto nella tomba?
+
 <span class="atom-split" data-atom="342" data-title="Whether it was fitting for Christ to be buried?" data-chapter="Whether it was fitting for Christ to be buried?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem unfitting for Christ to have been buried, because it is said of Him
@@ -23069,6 +23508,24 @@ Reply to Objection 3: As is said in a discourse made at the Council of Ephesus [
 and in another discourse of the same Council [*P. iii, cap. 10]: "God does not repute anything as
 an injury which is an occasion of men's salvation. Thus thou shalt not deem God's Nature to be so
 vile, as though It may sometimes be subjected to injuries."
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra inappropriato che Cristo sia stato sepolto, poiché di Lui si dice nel Salmo 87:6: “È diventato come un uomo senza aiuto, libero tra i morti”. Tuttavia i corpi dei morti sono racchiusi nelle tombe, il che sembra contraddire l’idea di libertà. Pertanto, non sembra appropriato che Cristo sia stato sepolto.
+
+Obiezione 2: Inoltre, non dovrebbe essere fatto nulla per Cristo se ciò non fosse utile alla nostra salvezza. Tuttavia, la sepoltura di Cristo non sembra affatto contribuire alla nostra salvezza. Pertanto, non era appropriato che Lui venisse sepolto.
+
+Obiezione 3: Inoltre, sembra inappropriato che Dio, che è al di sopra dei cieli più alti, venga sepolto nella terra. Tuttavia, ciò che accade al corpo mortale di Cristo viene attribuito a Dio a causa dell’unione tra Lui e quel corpo. Pertanto, sembra indecoroso che Cristo venga sepolto.
+
+Al contrario, il nostro Signore disse (Matteo 26:10) riguardo alla donna che Lo unse: “Ha compiuto una buona azione verso di Me”, e poi aggiunse (Matteo 26:12): “Poiché, ungendo il Mio corpo con questo unguento, lo ha fatto per la Mia sepoltura”.
+
+Rispondo che fu appropriato che Cristo fosse sepolto. In primo luogo, per stabilire la veridicità della Sua morte; infatti nessuno viene sepolto se non vi sia certezza della sua morte. Ecco perché leggiamo (Marco 15:44-45) che Pilato, attraverso indagini accurate, si assicurò della morte di Cristo prima di autorizzare la Sua sepoltura. In secondo luogo, poiché con la risurrezione di Cristo dalla tomba, a coloro che sono sepolti viene data la speranza di risorgere anch’essi attraverso Lui, come dice Giovanni 5:25-28: “Tutti quelli che sono nelle loro tombe udiranno la voce del Figlio di Dio, e coloro che l’ascolteranno vivranno”. In terzo luogo, come esempio per coloro che, spiritualmente, muoiono a causa dei propri peccati e vengono “nascosti dalla turbolenza degli uomini” (Salmo 30:21). Ecco perché si dice (Colossesi 3:3): “Voi siete morti, e la vostra vita è nascosta con Cristo in Dio”. Pertanto anche i battezzati, che attraverso la morte di Cristo muoiono ai peccati, vengono come se fossero sepolti insieme a Lui per mezzo del battesimo, secondo Romani 6:4: “Noi siamo sepolti insieme a Cristo nel battesimo, nella morte”.
+
+Risposta all’Obiezione 1: Sebbene sepolto, Cristo dimostrò di essere “libero tra i morti”: poiché, pur essendo imprigionato nella tomba, non poté essere impedito di uscire risorgendo.
+
+Risposta all’Obiezione 2: Proprio come la morte di Cristo ha operato la nostra salvezza, allo stesso modo lo è stata anche la Sua sepoltura. Per questo Girolamo afferma (Super Marc. xiv): “Attraverso la sepoltura di Cristo noi risorgiamo”; e riguardo a Isai 53:9, un commento aggiunge: “Darebbe i pagani alla sua sepoltura”, intendendo che li offrirebbe a Dio e al Padre, quei popoli privi di fede, poiché li ha acquistati con la Sua morte e sepoltura.
+
+Risposta all’Obiezione 3: Come si afferma in un discorso tenuto al Concilio di Efeso [*P. iii, cap. 9*]: “Niente di ciò che salva l’uomo è disonorevole per Dio; ciò dimostra che Egli non è suscettibile di offese, ma è misericordioso”; e in un altro discorso dello stesso Concilio [*P. iii, cap. 10*]: “Dio non considera nulla come un’offesa che possa costituire un mezzo per la salvezza degli uomini. Pertanto, non dovete ritenere che la Natura di Dio sia così vile da poter essere soggetta a offese”.
 
 <span class="atom-split" data-atom="343" data-title="Whether Christ was buried in a becoming manner?" data-chapter="Whether Christ was buried in a becoming manner?" data-kind="atom" data-srclang="en"></span>
 
@@ -23157,6 +23614,28 @@ as Origen says (Tract. xxxv in Matth.): "It was not written by hazard: 'Joseph w
 body in a clean winding-sheet, and placed it in a new monument,'" and that "'he rolled a great stone,'
 because all things around the body of Jesus are clean, and new, and exceeding great."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo sia stato sepolto in modo indegno. Infatti, la Sua sepoltura dovrebbe essere in armonia con la Sua morte. Ma Cristo ha subito una morte estremamente vergognosa, come afferma la Sapienza 2:20: “Condanniamolo a una morte assai ignominiosa”. Pertanto, sembra indegno che a Cristo venga concessa una sepoltura onorevole, visto che è stato sepolto da persone di rango elevato: cioè da Giuseppe d’Arimatea, descritto da Marco come “un nobile consigliere” (Mc 15:43), e da Nicodemo, definito da Giovanni “uno dei capi dei Giudei” (Gv 3:1).
+
+Obiezione 2: Inoltre, non si dovrebbe fare nulla a Cristo che possa costituire un esempio di spreco. Tuttavia, sembra proprio uno spreco il fatto che, per seppellire Cristo, Nicodemo abbia portato “una miscela di mirra e aloe del peso di circa cento libbre”, come racconta Giovanni (19:39), soprattutto considerando che una donna era già venuta in precedenza ad ungerne il corpo per la sepoltura, come riporta Marco (Mc 14:28). Pertanto, questo comportamento non fu appropriato nei confronti di Cristo.
+
+Obiezione 3: Inoltre, non è appropriato che qualcosa fatto sia contraddittorio in se stesso. Da un lato, la sepoltura di Cristo fu semplice, poiché “Gesù fu avvolto in un lenzuolo pulito”, come racconta Matteo (27:59), “ma non con oro, pietre preziose o seta”, come osserva Gerolamo; dall’altro lato, sembra che ci sia stata comunque una certa solennità, poiché fu sepolto insieme a spezie profumate (Giovanni 19:40). Pertanto, il modo in cui Cristo fu sepolto non sembra essere stato appropriato.
+
+Obiezione 4: Inoltre, “tutte le cose che sono state scritte”, soprattutto riguardo a Cristo, “sono state scritte per la nostra istruzione”, secondo Romani 15:4. Tuttavia alcune delle descrizioni presenti nei Vangeli riguardanti la sepoltura di Cristo non sembrano affatto avere rilevanza per la nostra educazione spirituale – ad esempio il fatto che sia stato sepolto “in un giardino, in una tomba che non era sua, nuova e scavata nella roccia”. Pertanto, il modo in cui Cristo fu sepolto non sembra affatto appropriato.
+
+Al contrario, è scritto (Isaia 11:10): “E la sua tomba sarà gloriosa”.
+
+Rispondo che il modo in cui Cristo fu sepolto si rivela degno di lode sotto tre aspetti. Primo, per confermare la fede nella Sua morte e risurrezione. Secondo, per lodare la devozione di coloro che Lo seppellirono. Per questo motivo [Agostino](/figures/augustine) afferma nel “De Civitate Dei” i: “Il Vangelo menziona come meritevole l’atto di coloro che presero il Suo corpo dalla croce, lo avvolsero con cura e rispetto e Lo seppellirono”. Terzo, in relazione al mistero attraverso cui coloro che “sono sepolti insieme a Cristo nella morte” (Romani 6:4) vengono trasformati.
+
+Risposta all’Obiezione 1: Per quanto riguarda la morte di Cristo, la Sua pazienza e costanza nel sopportare la morte vengono lodate, soprattutto perché tale morte fu particolarmente spregevole; tuttavia, nella Sua onorevole sepoltura possiamo vedere il potere dell’Uomo che moriva: Egli, anche dopo la morte, riuscì a frustrare le intenzioni dei suoi assassini e fu sepolto con onore. Questo evento preannuncia in anticipo la devozione dei fedeli che, nel futuro, avrebbero servito il Cristo defunto.
+
+Risposta all’Obiezione 2: Riguardo a quell’espressione dell’Evangelista (Giovanni 19:40) secondo cui Gesù fu sepolto “secondo la consuetudine degli Ebrei”, Agostino afferma nel Trattato su Giovanni (cxx): “Ci ammonisce che, in operazioni del genere rivolte ai morti, si debba rispettare la [consuetudine](/concepts/custom) di ogni nazione”. Infatti, era consuetudine di questo popolo ungerre i corpi con vari aromi al fine di preservarli più a lungo dalla decomposizione [*Cfr. Catena Aurea in Giovanni xix]. Pertanto si legge nel De Doctrina Christiana iii che “in tutte queste cose, non è l’uso stesso degli oggetti, ma la vanità di chi li utilizza ad essere considerato errato”; e ancora: “Ciò che in altre persone è spesso considerato un crimine, in una figura divina o profetica rappresenta invece un segno di qualcosa di grande”. Il mirra e l’aloe, con la loro amarezza, simboleggiano la penitenza, attraverso la quale l’uomo mantiene Cristo dentro di sé, al riparo dalla corruzione del peccato; mentre il profumo degli unguenti esprime una buona reputazione.
+
+Risposta all’Obiezione 3: La mirra e l’aloe furono utilizzate sul corpo di Cristo al fine di preservarlo dalla corruzione, e ciò sembrava indicare una certa necessità (nel corpo stesso); pertanto questo esempio ci insegna che possiamo legittimamente utilizzare sostanze preziose a scopi medicinali, data la necessità di preservare il nostro corpo. Tuttavia, l’avvolgimento del corpo di Cristo rappresentava soltanto una questione di decoro; dovremmo quindi accontentarci della semplicità in tali circostanze. Come osserva Girolamo, questo atto simboleggiava il fatto che “Gesù venisse avvolto in lenzuola pulite, da colui che Lo accoglieva con un’anima pura”. Pertanto, come afferma Beda riguardo al Vangelo di Marco 15:46: “La tradizione della Chiesa prevede che il sacrificio venga offerto non su seta né su stoffe tinte, ma su lenzuola di lino; così come il corpo del Signore fu sepolto in un panno pulito”.
+
+Risposta all’Obiezione 4: Cristo fu sepolto “in un giardino” per significare che, attraverso la Sua morte e sepoltura, veniamo liberati dalla morte che deriva dal peccato di Adamo commesso nel Giardino dell’Eden. Proprio per questo, “il nostro Signore fu sepolto nella tomba di uno straniero”, come afferma Agostino in un sermone (ccxlviii), “poiché morì per la salvezza degli altri; e una tomba è l’abitazione della morte”. Inoltre, si può stimare l’estensione della povertà che Egli sopportò per noi: poiché, essendo privo di dimora in vita, dopo la morte fu sepolto nella tomba di un altro e, essendo nudo, fu vestito da Giuseppe. Ma Cristo è sepolto in una “nuova” tomba, come osserva Gerolamo riguardo a Matteo 27:60: “affinché, dopo la risurrezione, non si potesse sostenere che qualcun altro fosse risorto, mentre i corpi degli altri rimanevano lì”. La “nuova tomba” può anche simboleggiare il grembo vergine di Maria. Inoltre, si può comprendere che tutti noi veniamo rinnovati attraverso la sepoltura di Cristo: la morte e la corruzione vengono infatti distrutte. Cristo fu sepolto in un monumento “scavato nella roccia”, come afferma Gerolamo riguardo a Matteo 27:64: “affinché, se fosse stato costruito con molte pietre, si potesse dire che fosse stato rubato scavando via le fondamenta della tomba”. Pertanto, la “grande pietra” posta davanti alla tomba dimostra che “essa non poteva essere aperta se non con l’aiuto di molte persone”. Inoltre, se fosse stato sepolto nella terra, si sarebbe potuto dire: “Hanno scavato la terra e L’hanno rubato”, come osserva Agostino (*Cf. Catena Aurea*). Ilario (Commento su Matteo, cap. xxxiii) fornisce un’interpretazione mistica, affermando che “secondo l’insegnamento degli apostoli, Cristo viene portato nel cuore di pietra dei gentili; poiché esso è stato scavato attraverso il processo dell’insegnamento, non levigato e ancora nuovo, inaccessibile e aperto soltanto al timore di Dio. E poiché nulla altro, se non Lui, deve entrare nei nostri cuori, una grande pietra viene rotolata davanti alla porta”. Inoltre, come afferma Origene (Trattato xxxv su Matteo): “Non è stato scritto per caso: ‘Giuseppe avvolse il corpo di Cristo in un lenzuolo pulito e lo pose in una nuova tomba’”; e “‘rotolò una grande pietra’, perché tutto ciò che circonda il corpo di Gesù è pulito, nuovo ed estremamente prezioso”.
+
 <span class="atom-split" data-atom="344" data-title="Whether Christ's body was reduced to dust in the tomb?" data-chapter="Whether Christ's body was reduced to dust in the tomb?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's body was reduced to dust in the tomb. For just as man
@@ -23206,6 +23685,24 @@ power preserved Christ's body from putrefying, just as it raised it up from deat
 Reply to Objection 3: Christ rose from the tomb by Divine power, which is not narrowed
 within bounds. Consequently, His rising from the grave was a sufficient argument to prove that
 men are to be raised up by Divine power, not only from their graves, but also from any dust whatever.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il corpo di Cristo sia stato ridotto in polvere nella tomba. Poiché l’uomo muore come punizione del peccato del suo primo genitore, anch’egli ritorna in polvere, poiché al primo uomo, dopo il suo peccato, fu detto: “Tu sei polvere e in polvere tornerai” (Genesi 3:19). Ma Cristo ha sopportato la morte per liberarci da essa. Pertanto, anche il Suo corpo dovrebbe essere ridotto in polvere, affinché possa liberarci dalla stessa punizione.
+
+Obiezione 2: Inoltre, il corpo di Cristo aveva la stessa natura del nostro. Ma immediatamente dopo la morte i nostri corpi iniziano a disintegrarsi in polvere e tendono alla putrefazione, poiché quando il calore naturale scompare, subentra un calore esterno che provoca la decomposizione. Pertanto sembra che lo stesso sia accaduto anche al corpo di Cristo.
+
+Obiezione 3: Inoltre, come già detto sopra (A[1]), Cristo volle essere sepolto al fine di dare agli uomini la speranza di risorgere anch’essi dalla tomba. Pertanto, Egli cercò anche Lui stesso di tornare alla polvere, per poter dare a coloro che sono tornati alla polvere la speranza di risorgere da essa.
+
+Al contrario, è scritto (Salmo 15:10): “Non permetterai che il Tuo santo veda la corruzione”; inoltre Damasceno (De Fide Orthodossa iii) spiega questo concetto riguardo alla corruzione che deriva dalla dissoluzione degli esseri nell’elementi.
+
+Rispondo che non era appropriato che il corpo di Cristo si putrefacesse o in alcun modo si riducesse in polvere, poiché la putrefazione di qualsiasi corpo deriva dalla debolezza naturale di quel corpo, che non è più in grado di mantenerlo integro. Ma come detto sopra (Q[50], A[1], ad 2), la morte di Cristo non doveva derivare da una debolezza naturale, affinché non si potesse dubitare che fosse volontaria; perciò Egli volle morire non a causa di una malattia, ma a causa dei [sofferimenti](/concepts/suffering) che Gli furono inflitti, e a questi sofferimenti Si consegnò volontariamente. E quindi, affinché la Sua morte non potesse essere attribuita a una debolezza naturale, Cristo non volle che il Suo corpo si putrefacesse in alcun modo; al contrario, volle che rimanesse incorrotto, affinché si manifestasse la Sua Potenza Divina. Per questo motivo Crisostomo dice (Contro i Giudei e i Gentili, “Che Cristo sia Dio”) che “negli altri uomini, soprattutto in quelli che hanno compiuto imprese eroiche, le loro azioni risplendono durante la loro vita; ma non appena muoiono, quelle azioni scompaiono con loro. Invece, per Cristo è esattamente il contrario: prima della crocifissione tutto sembra tristezza e debolezza, ma non appena viene crocifisso, tutto diventa evidente, affinché si possa comprendere che non fu un uomo ordinario a essere crocifisso”.
+
+Risposta all’Obiezione 1: Poiché Cristo non era soggetto al peccato, né era incline a morire o a tornare in polvere. Tuttavia, per volontà Sua sopportò la morte per la nostra salvezza, per le ragioni sopra menzionate (Q[51], A[1]). Ma se il Suo corpo fosse andato in decomposizione o si fosse dissolto, questo fatto sarebbe stato dannoso per la salvezza dell’uomo, poiché non si sarebbe più potuto credere che in Lui risiedesse il Potere Divino. Ecco perché è scritto a Suo favore (Salmo 19:10): “Che profitto c’è nel mio sangue, se io vado in corruzione?”, come se Egli volesse dire: “Se il Mio corpo si decompone, il significato del sangue versato andrebbe perduto”.
+
+Risposta all’Obiezione 2: Il corpo di Cristo era soggetto alla corruzione in base alle caratteristiche della sua natura mortale, ma non a causa del peccato, che rappresenta la vera ragione della decomposizione; tuttavia, il potere divino impedì che il corpo di Cristo si putrefacesse, proprio come lo risuscitò dalla morte.
+
+Risposta all’Obiezione 3: Cristo risorse dalla tomba per mezzo del Potere Divino, un potere che non è limitato da alcun confine. Pertanto, la Sua risurrezione costituisce una prova sufficiente del fatto che gli uomini possano essere risuscitati per mezzo del Potere Divino, non solo dalle loro tombe, ma anche da qualsiasi condizione di morte o di decadimento.
 
 <span class="atom-split" data-atom="345" data-title="Whether Christ was in the tomb only one day and two nights?" data-chapter="Whether Christ was in the tomb only one day and two nights?" data-kind="atom" data-srclang="en"></span>
 
@@ -23273,6 +23770,18 @@ inquiry:
 (7) Whether He delivered the children who died in [original sin](/positions/original_sin)?
 (8) Whether He delivered men from Purgatory?
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la discesa di Cristo all’inferno; a questo proposito ci sono otto punti da esaminare:  
+(1) Era appropriato che Cristo scendesse all’inferno?  
+(2) In quale inferno scese?  
+(3) Rimase completamente nell’inferno?  
+(4Vi trattenne per un certo periodo?)  
+(5) Liberò i Santi Padri dall’inferno?  
+(6) Liberò anche i perduti dall’inferno?  
+(7) Liberò anche i bambini morti a causa del [-peccato originale](/positions/original_sin)?  
+(8) Liberò gli uomini dal Purgatorio?
+
 <span class="atom-split" data-atom="347" data-title="Whether it was fitting for Christ to descend into hell?" data-chapter="Whether it was fitting for Christ to descend into hell?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was not fitting for Christ to descend into hell, because
@@ -23327,6 +23836,24 @@ the blood of His testament," that is, by the power of His Passion.
 Reply to Objection 3: Christ's soul descended into hell not by the same kind of motion as that
 whereby bodies are moved, but by that kind whereby the angels are moved, as was said in the FP,
 Q[53], A[1].
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non fosse appropriato che Cristo discendesse all’inferno, poiché [Agostino](/figures/augustine) afferma (Epistola ad Evodium, clivus): “Non ho trovato in nessun passo delle Scritture l’inferno descritto come qualcosa di positivo”. Tuttavia, l’anima di Cristo non discese in alcun luogo malvagio, così come non accade alle anime dei giusti. Pertanto, non sembra appropriato che l’anima di Cristo discendesse all’inferno.
+
+Obiezione 2: Inoltre, non è possibile che Cristo scenda all’inferno secondo la Sua Natura Divina, che è del tutto immutabile; ma soltanto secondo la Sua natura umana assunta. Tuttavia, ciò che Cristo fece o soffrì nella Sua natura umana assunta era destinato alla salvezza dell’uomo; e per garantire questa salvezza, non sembra necessario che Cristo scenda all’inferno, poiché ci ha liberati sia dal peccato che dalla punizione attraverso la Sua Passione sopportata in questo mondo, come detto sopra (Q[49], AA[1],3). Pertanto, non era appropriato che Cristo scendesse all’inferno.
+
+Obiezione 3: Inoltre, con la morte di Cristo la Sua anima fu separata dal Suo corpo, e questo corpo fu sepolto, come detto sopra (Q[51]). Tuttavia sembra che Cristo sia disceso all’inferno non soltanto con la Sua anima, poiché l’anima, essendo incorporea, non può essere soggetta a movimenti spaziali; infatti tali movimenti sono caratteristici dei corpi, come dimostrato nella Fisica VI, testo 32; inoltre il “discesa” all’inferno implica necessariamente un movimento corporeo. Pertanto non era appropriato che Cristo discesse all’inferno soltanto con la Sua anima.
+
+Al contrario, si legge nella Formula di Credenza: “Discese all’inferno”; e l’Apostolo dice (Efesini 4:9): “Ora che è risalito in cielo, non è forse perché prima era disceso nelle parti più basse della terra?” E un commento aggiunge: “cioè, nell’inferno”.
+
+Rispondo che fu appropriato che Cristo discendesse all’inferno. Prima di tutto, perché Egli venne a sopportare la nostra punizione al fine di liberarci da essa, secondo Isaia 53:4: “Certamente ha portato le nostre infermità e ha sopportato i nostri dolori”. Ma a causa del peccato, l’uomo aveva subito non solo la morte del corpo, ma anche la condanna all’inferno. Pertanto, poiché fu appropriato che Cristo morisse per liberarci dalla morte, fu altrettanto appropriato che discendesse all’inferno per liberarci anche dal pericolo di cadervi. Ecco perché si scrive (Osea 13:14): “O morte, io sarò la tua morte; o inferno, io sarò il tuo morso”. In secondo luogo, poiché fu appropriato che, con la Passione, Cristo liberasse i prigionieri rinchiusi nell’inferno, secondo Zaccaria 9:11: “Anche tu, con il sangue del tuo Patto, hai fatto uscire i tuoi prigionieri dalla fossa”. E si scrive (Colossesi 2:15): “Sconfiggendo principati e poteri, li ha esposti alla vista di tutti”. Terzo, poiché Egli dimostrò il proprio potere sulla terra vivendo e morendo, volle anche manifestarlo nell’inferno, visitandolo e illuminandolo. Ecco perché si scrive (Salmo 23:7): “Alzate le vostre porte, o principi dell’inferno”, il che viene interpretato così: “O cioè, o signori dell’inferno, rinunciate al potere con cui finora tenete gli uomini prigionieri nell’inferno”; e quindi “in nome di Gesù ogni ginocchio si dovrà inchinare”, non solo “quelli che sono in cielo”, ma anche “quelli che sono nell’inferno”, come si dice in Filippi 2:10.
+
+Risposta all’Obiezione 1: Il nome dell’inferno indica un male legato alla punizione, e non un male derivante dal peccato. Pertanto era appropriato che Cristo scendesse nell’inferno, non per essere lui stesso soggetto a punizione, ma per salvare coloro che vi erano rinchiusi.
+
+Risposta all’Obiezione 2: La Passione di Cristo fu una sorta di causa universale per la salvezza degli uomini, sia dei vivi che dei morti. Tuttavia, una causa generale viene applicata a effetti particolari attraverso qualcosa di specifico. Pertanto, così come il potere della Passione viene applicato ai vivi attraverso i sacramenti che ci rendono simili alla Passione di Cristo, allo stesso modo viene applicato anche ai morti attraverso la Sua discesa all’inferno. Per questo motivo si legge (Zaccaria 9:11) che “Lui fece uscire i prigionieri dalla fossa, con il sangue del suo patto”, cioè attraverso il potere della sua Passione.
+
+Risposta all’Obiezione 3: L’anima di Cristo discese all’inferno non con lo stesso tipo di movimento che muove i corpi, ma con quello stesso tipo di movimento che muove gli angeli, come è stato detto nel FP, Q[53], A[1].
 
 <span class="atom-split" data-atom="348" data-title="Whether Christ went down into the hell of the lost?" data-chapter="Whether Christ went down into the hell of the lost?" data-kind="atom" data-srclang="en"></span>
 
@@ -23424,6 +23951,33 @@ relatively to the height of this same air the earth lying beneath can be conside
 deep. And again in comparison with the height of the same earth, those parts of hell which are
 higher than the other infernal mansions, may in this way be designated as the deepest hell."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo sia disceso nell’inferno dei perduti, poiché si dice, per bocca della Saggezza Divina (Ecclesiaste 24:45): “Penetrerò in tutte le profondità della terra”. Ma l’inferno dei perduti è considerato tra le profondità della terra, secondo il Salmo 62:10: “Andranno nelle regioni più basse della terra”. Pertanto Cristo, che è la Saggezza di Dio, è disceso anche nell’inferno dei perduti.
+
+Obiezione 2: Inoltre, Pietro afferma (Atti 2:24) che “Dio ha risuscitato Cristo, liberandolo dalle sofferenze dell’inferno, poiché era impossibile che rimanesse prigioniero di esse”. Tuttavia, nell’inferno dei Padri, così come in quello dei figli, non esistono sofferenze fisiche; essi infatti non vengono puniti con dolori sensibili a causa di alcun peccato effettivo, ma soltanto con il dolore legato alla perdita derivante dal [peccato originale](/positions/original_sin). Pertanto, Cristo deve essere disceso nell’inferno dei perduti, o almeno nel Purgatorio, dove gli uomini vengono tormentati da dolori fisici a causa di peccati effettivi.
+
+Obiezione 3: Inoltre, è scritto (1 Pietro 3:19) che “Cristo, venendo nello spirito, predicò a quegli spiriti che erano in prigione e che da tempo erano increduli”: e ciò si intende come il descenso di Cristo all’inferno, come afferma Atanasio (Epistola ad Epicteto). Infatti, Atanasio dice che “il corpo di Cristo fu posto nella tomba quando Egli andò a predicare a quegli spiriti che erano in schiavitù, come disse Pietro”. Ma è evidente che gli increduli si trovavano nell’inferno dei perduti; pertanto, Cristo discese nell’inferno dei perduti.
+
+Obiezione 4: Inoltre, [Agostino](/figures/augustine) afferma (Epistola ad Evodio, clxiv): “Se le Sacre Scritture avessero detto che Cristo entrò nel grembo di Abramo senza menzionare l’inferno o i suoi mali, mi chiedo se qualcuno oserebbe affermare che Egli sia disceso nell’inferno. Ma poiché testimonianze evidenti menzionano l’inferno e le sue sofferenze, non c’è motivo di credere che Cristo vi sia andato se non per liberare gli uomini da tali mali.” Tuttavia, il luogo delle sofferenze è proprio l’inferno dei perduti; pertanto, Cristo discese nell’inferno dei perduti.
+
+Obiezione 5: Inoltre, come afferma Agostino in un sermone sulla Resurrezione, Cristo, discendendo all’inferno, “liberò tutti i giusti che erano imprigionati nei vincoli del peccato originale”. Ma tra loro c’era Giobbe, il quale dice di sé (Giobbe 17:16): “Tutto ciò che ho andrà nel più profondo abisso”. Pertanto, Cristo discese nel più profondo abisso.
+
+Al contrario, riguardo all’inferno dei perduti è scritto (Giobbe 10:21): “Prima che io vada e non ritorni più, in una terra oscura e avvolta nella nebbia della morte”. Ora, secondo 2 Corinzi 6:14, non esiste alcuna “confraternità tra la luce e l’oscurità”. Pertanto Cristo, che è “la luce”, non discese nell’inferno dei perduti.
+
+Rispondo che si dice che una cosa si trovi in un luogo in due modi. Prima di tutto, attraverso i suoi effetti: in questo modo Cristo discese in ciascuno degli inferni, ma in modi diversi. Infatti, discendendo nell’inferno dei perduti, Egli ottenne l’effetto di farli vergognare della loro incredulità e malvagità; mentre a coloro che erano trattenuti nel Purgatorio diede la speranza di raggiungere la gloria; e sui santi Padri trattenuti nell’inferno soltanto a causa del peccato originale, riversò la luce della gloria eterna.  
+In un altro modo, si dice che una cosa si trovi in un luogo attraverso la sua essenza: in questo senso, l’anima di Cristo discese soltanto in quella parte dell’inferno dove erano trattenuti i giusti. Così Egli li visitò “in loco”, secondo la Sua anima; ma li visitò anche “interiormente per grazia”, secondo la Sua divinità. Pertanto, rimanendo in una sola parte dell’inferno, Egli ottenne questo effetto in ogni sua parte, proprio come, soffrendo in una sola parte della terra, liberò l’intero mondo con la Sua Passione.
+
+Risposta all’Obiezione 1: Cristo, che è la Saggezza di Dio, penetrò in tutte le parti più profonde della terra; non attraversandole fisicamente con la Sua anima, ma diffondendo gli effetti del Suo potere su di esse tutte. Tuttavia, illuminò soltanto i giusti: poiché il testo citato prosegue dicendo: “E illuminerò tutti coloro che sperano nel Signore”.
+
+Risposta all’Obiezione 2: Il dolore è di due tipi: uno è il soffrire causato dai mali fisici che gli uomini subiscono a causa dei peccati reali, come si legge nel Salmo 17:6: “Le angosie dell’inferno mi hanno circondato”. L’altro tipo di dolore deriva dal ritardo nella realizzazione della gloria sperata, come indica il Proverbo 13:12: “La speranza che si ritarda addolora l’anima”; fu proprio questo tipo di dolore che i Santi Padri soffrirono nell’inferno, e Agostino ne parla in un sermone sulla Passione, affermando che “li supplicarono con lacrime”. Quando Cristo discese all’inferno, eliminò entrambi questi tipi di dolore, ma in modi diversi: eliminò il dolore fisico salvando le anime da esso, proprio come un medico libera una persona dalla malattia prevenendola con i farmaci. Allo stesso modo, eliminò anche il dolore causato dal ritardo nella realizzazione della gloria, donando loro la gloria stessa.
+
+Risposta all’Obiezione 3: Alcuni fanno riferimento alla discesa di Cristo nell’inferno a queste parole di Pietro e le interpretano nel senso che “Cristo predicò a coloro che in passato erano increduli e che erano rinchiusi in prigione”, cioè nell’inferno, “in spirito”, ovvero attraverso la Sua anima. Per questo motivo Damasceno afferma (De Fide Orthodossa iii): “Come evangelizzò coloro che erano sulla terra, così fece anche con quelli che si trovavano nell’inferno”; non per convertire gli increduli alla fede, ma per metterli in imbarazzo per la loro incredulità, poiché la predicazione non può essere intesa altrimenti che come una manifestazione aperta della Sua divinità, che fu rivelata loro nelle regioni inferiori attraverso la Sua discesa nell’inferno con potere. Tuttavia Agostino fornisce un’interpretazione più accurata del testo nella sua Epistola a Evodio citata sopra: la predicazione non si riferisce alla discesa di Cristo nell’inferno, ma all’operazione della Sua divinità, che egli attuò fin dall’inizio del mondo. Quindi il significato è che “a quegli spiriti che erano in prigione”, cioè a coloro che vivevano nel corpo mortale, che è come una prigione dell’anima, “con lo spirito” della Sua divinità Egli venne e predicò attraverso ispirazioni interne e, dall’esterno, attraverso gli avvertimenti pronunciati dai giusti; predicò cioè a coloro che per un certo tempo erano stati increduli, ovvero che non credevano nella predicazione di Noè, “mentre attendevano la pazienza di Dio”, grazie alla quale il castigo del Diluvio fu rinviato; per questo motivo Pietro aggiunge: “Nei giorni di Noè, quando si costruiva l’Arca”.
+
+Risposta all’Obiezione 4: L’espressione “grembo di Abramo” può essere intesa in due modi diversi. In primo luogo, può significare un luogo di tranquillità, privo di dolore fisico; in questo senso non può essere definito inferno, né vi sono sofferenze in esso. In secondo luogo, può indicare la privazione della gloria tanto desiderata; in questo caso ha il carattere dell’inferno e delle sofferenze. Pertanto, anche se quel luogo di riposo dei beati è oggi chiamato “grembo di Abramo”, non viene definito inferno, né si dice che vi siano sofferenze al suo interno.
+
+Risposta all’Obiezione 5: Come afferma Gregorio (Moralia, xiii): “Anche le regioni più elevate dell’inferno vengono definite l’inferno più profondo. Poiché, se rispetto all’altezza del cielo quest’aria oscura è considerata infernale, allora, rispetto all’altezza di quell’aria stessa, la terra che si trova al di sotto può essere considerata infernale e profonda. E ancora, in confronto all’altezza della stessa terra, quelle parti dell’inferno che sono più elevate delle altre dimore infernali possono essere definite in questo modo come l’inferno più profondo.”
+
 <span class="atom-split" data-atom="349" data-title="Whether the whole Christ was in hell?" data-chapter="Whether the whole Christ was in hell?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the whole Christ was not in hell. For Christ's body is one of
@@ -23513,6 +24067,24 @@ the thief descended locally into hell with Christ, because it was said to him: "
 be with Me in paradise"; still as to reward he was in paradise, because he enjoyed Christ's Godhead
 just as the other saints did.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo non sia rimasto nell’inferno. Infatti, Cristo discese nell’inferno per liberare gli uomini da lì; tuttavia realizzò questa liberazione immediatamente con la sua stessa discesa, poiché, secondo Ecclesiaste 11:23, “Per Dio è facile, in un istante, rendere ricco il povero”. Pertanto, non sembra che abbia trascorso del tempo nell’inferno.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma in un sermone sulla Passione (clx) che “all’improvviso, per ordine del nostro Signore e Salvatore, tutte le ‘sbarre di ferro furono spezzate’” (Cfr. Is. 45:2). Pertanto, a nome degli angeli che accompagnavano Cristo, si legge nel Salmo 23:7-9: “Alzate le vostre porte, o principi”. Cristo discese laggiù appunto per spezzare i “chiavistelli dell’inferno”; pertanto non vi trattenne affatto.
+
+Obiezione 3: Inoltre, si legge nel Vangelo di Luca (23:43) che il nostro Signore, mentre era appeso alla croce, disse al ladro: “Oggi sarai con Me in paradiso”; da ciò risulta evidente che Cristo si trovava in paradiso proprio in quel giorno. Tuttavia, non vi era con il suo corpo, poiché questo si trovava nella tomba. Pertanto, Egli vi era con l’anima, che era scesa all’inferno; ne consegue che non rimase affatto nell’inferno.
+
+Al contrario, Pietro afferma (Atti 2:24): “Colui che Dio ha risuscitato, liberandolo dalle pene dell’inferno, non poteva affatto rimanervi prigioniero”. Pertanto, sembra che sia rimasto nell’inferno fino all’ora della Resurrezione.
+
+Rispondo che, così come Cristo volle che il Suo corpo fosse sepolto nella tomba affinché assumesse su Sé le nostre pene, allo stesso modo volle che la Sua anima scendesse all’inferno. Tuttavia, il corpo rimase nella tomba per un giorno e due notti, al fine di dimostrare la veridicità della Sua morte. Pertanto, si deve credere che la Sua anima fosse realmente all’inferno, affinché potesse essere riportata fuori dall’inferno contemporaneamente al Suo corpo, dalla tomba.
+
+Risposta all’Obiezione 1: Quando Cristo discese all’inferno, liberò i santi che vi si trovavano non portandoli immediatamente fuori dai suoi confini, ma illuminandoli con la luce della gloria stessa che esisteva nell’inferno. Tuttavia, era appropriato che la Sua anima rimanesse all’inferno finché il Suo corpo era sepolto nella tomba.
+
+Risposta all’Obiezione 2: Con l’espressione “barriere dell’inferno” si intendono gli ostacoli che impedivano ai santi Padri di uscire dall’inferno a causa del peccato del nostro primo genitore; Cristo ruppe queste barriere con il potere della Sua Passione quando discese nell’inferno; tuttavia scelse di rimanervi per un certo periodo, per le ragioni sopra indicate.
+
+Risposta all’Obiezione 3: L’espressione del nostro Signore non deve essere intesa nel senso di un paradiso terreno e corporeo, ma di uno spirituale, in cui si trovano tutti coloro che godono della gloria divina. Pertanto, il ladro discese effettivamente all’inferno insieme a Cristo, poiché gli fu detto: “In questo giorno sarai con Me nel paradiso”; tuttavia, in termini di ricompensa, egli si trovava nel paradiso, poiché godette della divinità di Cristo, proprio come gli altri santi.
+
 <span class="atom-split" data-atom="351" data-title="Whether Christ descending into hell delivered the holy Fathers from thence?" data-chapter="Whether Christ descending into hell delivered the holy Fathers from thence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ descending into hell did not deliver the holy Fathers
@@ -23579,6 +24151,24 @@ Reply to Objection 3: Directly Christ died His soul went down into hell, and bes
 fruits of His Passion on the saints detained there; although they did not go out as long as Christ
 remained in hell, because His presence was part of the fulness of their glory.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la discesa di Cristo all’inferno non abbia liberato i santi Padri da quel luogo. Infatti, [Agostino](/figures/augustine) (Epistola ad Evodio, clxiv) afferma: “Non ho ancora compreso quale beneficio abbia tratto dalla discesa all’inferno Cristo per quei giusti che si trovavano nel grembo di Abramo; non riesco quindi a capire come possa aver mai lasciato quel luogo, considerando la presenza beata della Sua divinità”. Ma se li avesse liberati, avrebbe certamente concesso loro grandi benefici. Pertanto, non sembra che Cristo abbia realmente salvato i santi Padri dall’inferno.
+
+Obiezione 2: Inoltre, nessuno viene trattenuto all’inferno se non a causa del peccato. Ma durante la loro vita, i Santi Padri furono giustificati dal peccato attraverso la fede in Cristo; pertanto, non ebbero bisogno di essere liberati dall’inferno con la discesa di Cristo laggiù.
+
+Obiezione 3: Inoltre, se si elimina la causa, si elimina anche l’effetto. Ma il fatto che Cristo sia disceso all’inferno fu dovuto al peccato, il quale fu eliminato attraverso la Passione, come detto sopra (Q[49], A[1]). Pertanto, i Santi Padri non furono liberati grazie alla discesa di Cristo all’inferno.
+
+Al contrario, Agostino afferma nel sermone sulla Passione già citato che quando Cristo discese all’inferno “spezzò le porte e le ‘sbarre di ferro’ dell’inferno, liberando tutti i giusti che erano trattenuti lì a causa del [peccato originale](/positions/original_sin)”.
+
+Rispondo che, come già detto sopra (A[4], ad 2), quando Cristo discese all’inferno operò per mezzo del potere della Sua Passione. Ma attraverso la Passione di Cristo l’umanità fu liberata non solo dal peccato, ma anche dal debito legato alle sue conseguenze punitive, come affermato in precedenza (Q[49], AA[1],3). Gli uomini erano infatti legati a questo debito punitivo in due modi: innanzitutto per i peccati concreti che ciascuno aveva commesso personalmente; in secondo luogo, per il peccato dell’intera umanità, che ognuno, fin dalla propria origine, ereditava dal nostro primo genitore, come si legge in Romani 5. La punizione di questo peccato consiste nella morte del corpo e nell’esclusione dalla gloria divina, come risulta chiaramente da Genesi 2 e 3: Dio infatti scacciò l’uomo dal paradiso dopo il peccato, minacciandolo in precedenza con la morte qualora avesse peccato. Pertanto, quando Cristo discese all’inferno, per mezzo del potere della Sua Passione liberò i santi da quella punizione che li escludeva dalla vita di gloria, impedendo loro di vedere Dio nella Sua Essenza, dove risiede la vera beatitudine umana, come affermato nel FS, Q[3], A[8]. I santi Padri, invece, rimasero imprigionati all’inferno perché, a causa del peccato del nostro primo genitore, il cammino verso la vita di gloria non era aperto. Quando Cristo discese all’inferno, li liberò da lì. Ed è proprio ciò che si legge in Zaccaria 9:11: “Anche tu, con il sangue del tuo patto, hai liberato i tuoi prigionieri dalla fossa senza acqua”. E in Colossesi 2:15 si dice che “sconfiggendo principati e poteri”, cioè “quelli dell’inferno, prendendo Isacco, Giacobbe e le altre anime giuste”, “li ha condotti lontano da questo regno delle tenebre verso il cielo”, come spiega la glossa.
+
+Risposta all’Obiezione 1: Agostino si oppone qui a coloro che sostengono che i giusti dell’antichità siano stati soggetti a sofferenze penevoli prima della discesa di Cristo all’inferno. Pertanto, poco prima del passaggio citato, egli afferma: “Alcuni aggiungono che anche i santi dell’antichità abbiano ricevuto questo beneficio: con l’avvento del Signore nell’inferno, essi furono liberati dalle loro sofferenze. Ma non riesco a comprendere come Abramo, nel cui grembo fu accolto quel poveruomo, potesse mai trovarsi in tali sofferenze”. Quindi, quando successivamente aggiunge che “non aveva ancora compreso ciò che la discesa di Cristo all’inferno avesse portato ai giusti dell’antichità”, ciò deve essere inteso nel senso che essi furono liberati dalle sofferenze penevoli. Tuttavia, Cristo donò loro qualcosa che li riguardava direttamente: la gloria. Pertanto, Egli eliminò le sofferenze che essi dovevano sopportare a causa del ritardo nella realizzazione di quella gloria; tuttavia, già dalla sola speranza in essa provavano grande gioia, come si legge in Giovanni 8:56: “Abramo, tuo padre, si rallegrò all’idea di vedere il mio giorno”. E per questo motivo Agostino aggiunge: “Non riesco a comprendere come Cristo possa mai essere “partito”, secondo la presenza beata della Sua divinità”; in altre parole, anche prima dell’avvento di Cristo, i giusti dell’antichità erano felici nella speranza, sebbene non ancora completamente felici nella realtà.
+
+Risposta all’Obiezione 2: I Santi Padri, mentre erano ancora in vita, furono liberati sia dal peccato originale che da quello effettivo attraverso la fede in Cristo; furono anche esentati dalla pena dei peccati effettivi, ma non da quella del peccato originale, il quale li escludeva dalla gloria, poiché il prezzo della redenzione dell’uomo non era ancora stato pagato. Proprio come oggi i fedeli sono liberati dal battesimo dalla pena dei peccati effettivi e, per quanto riguarda l’esclusione dalla gloria, anche da quella del peccato originale; tuttavia rimangono legati alla pena del peccato originale in termini di necessità di morire nel corpo, poiché sono rinnovati nello spirito, ma non ancora nella carne, secondo quanto detto in Romani 8:10: “Il corpo infatti è morto a causa del peccato; lo spirito, invece, vive a causa della giustificazione”.
+
+Risposta all’Obiezione 3: Quando Cristo morì, la Sua anima discese all’inferno e donò i frutti della Sua Passione ai santi che vi erano imprigionati; tuttavia, finché Cristo rimase nell’inferno, anche quei santi non ne uscirono, poiché la Sua presenza faceva parte della pienezza della loro gloria.
+
 <span class="atom-split" data-atom="352" data-title="Whether Christ delivered any of the lost from hell?" data-chapter="Whether Christ delivered any of the lost from hell?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ did deliver some of the lost from hell, because it is
@@ -23628,6 +24218,24 @@ delivered from every state in hell, as out of every state among men in this worl
 to the very different condition of each state. For, so long as men live here below, they can be
 converted to faith and charity, because in this life men are not confirmed either in good or in evil,
 as they are after quitting this life.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo abbia effettivamente salvato alcuni dei perduti dall’inferno, poiché è scritto (Isaia 24:22): “E saranno radunati insieme come un fascio unico e gettati nella fossa; vi rimarranno rinchiusi in prigione, e dopo molti giorni verranno visitati”. Ma qui si parla dei perduti che, secondo il commento di Gerolamo, “adoravano le schiere celesti”. Pertanto, sembra che anche i perduti siano stati “visitati” durante la discesa di Cristo all’inferno; e ciò potrebbe implicare la loro salvezza.
+
+Obiezione 2: Inoltre, riguardo a Zecharia 9:11: “Anche tu, con il sangue del tuo patto, hai liberato i tuoi prigionieri dalla fossa senza acqua”, la glossa osserva: “Hai salvato coloro che erano rinchiusi in prigioni, dove nessuna misericordia li confortava, proprio come aveva pregato quel ricco”. Ma soltanto i perduti sono rinchiusi in prigioni senza pietà. Pertanto Cristo ha liberato alcuni dall’inferno dei perduti.
+
+Obiezione 3: Inoltre, il potere di Cristo non era minore all’inferno che in questo mondo, poiché operava ovunque con il potere della Sua divinità. Ma in questo mondo Lui salvò alcune persone di ogni condizione sociale; pertanto, anche all’inferno Lui liberò alcuni dall’[stato](/concepts/state) dei perduti.
+
+Al contrario, è scritto (Osea 13:14): “O morte, io sarò la tua morte; o inferno, io sarò il tuo morso”; e la spiegazione aggiunge: “Portando fuori i prescelti e lasciando lì i reprobi”. Ma soltanto i reprobi si trovano nell’inferno dei perduti. Pertanto, con la discesa di Cristo all’inferno, nessuno fu salvato dall’inferno dei perduti.
+
+Rispondo che, come detto sopra (A[5]), quando Cristo discese all’inferno operò con il potere della Sua Passione. Pertanto, la Sua discesa all’inferno portò i frutti della liberazione soltanto a coloro che erano uniti alla Sua Passione attraverso la fede ravvivata dalla carità, grazie alla quale i peccati vengono rimossi. Ora, coloro che sono trattenuti nell’inferno dei perduti o non avevano fede nella Passione di Cristo, essendo infedeli; oppure, anche se avevano fede, non erano in sintonia con la carità di Cristo sofferente; per questo motivo non potevano essere purificati dai loro peccati. E per questa ragione, la discesa di Cristo all’inferno non portò loro alcuna liberazione dal debito di punizione infernale.
+
+Risposta all’Obiezione 1: Quando Cristo discese all’inferno, tutti coloro che si trovavano in quell’ambiente furono influenzati in qualche modo: alcuni per la loro consolazione e liberazione, altri, cioè i perduti, per la loro vergogna e confusione. Per questo motivo il testo prosegue dicendo: “E la luna si imporporrà, e il sole sarà messo in vergogna”, ecc. Ciò può anche essere interpretato come riferimento alla visita che li colpirà nel Giorno del Giudizio, non per la loro liberazione, ma per una confusione ancora maggiore, secondo quanto detto in Sofonia 1,12: “Colpirò gli uomini che si sono abbandonati ai loro vizi”.
+
+Risposta all’Obiezione 2: Quando il commento afferma “dove nessuna misericordia li rinfrescava”, ciò va inteso come riferimento alla liberazione completa e definitiva; infatti, i Santi Padri non potevano essere liberati da questa prigione dell’inferno prima della venuta di Cristo.
+
+Risposta all’Obiezione 3: Non fu certo a causa di una qualche mancanza di potere da parte di Cristo che alcuni non furono liberati da ogni stato d’inferno, così come non lo furono da ogni stato presente tra gli uomini in questo mondo; bensì ciò fu dovuto alle condizioni assolutamente diverse di ciascun di questi stati. Infatti, finché gli uomini vivono in questa vita terrena, è ancora possibile che si convertano alla fede e alla carità; poiché in questa vita non sono ancora definitivamente confermati né nel bene né nel male, a differenza di ciò che accade dopo la morte.
 
 <span class="atom-split" data-atom="353" data-title="Whether the children who died in original sin were delivered by Christ?" data-chapter="Whether the children who died in original sin were delivered by Christ?" data-kind="atom" data-srclang="en"></span>
 
@@ -23679,6 +24287,24 @@ Reply to Objection 3: Baptism is applied to men in this life, in which man's sta
 from sin into grace: but Christ's descent into hell was vouchsafed to the souls after this life when
 they are no longer capable of the said change. And consequently by baptism children are delivered
 from original sin and from hell, but not by Christ's descent into hell.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i bambini morti a causa del [-peccato originale](/positions/original_sin) siano stati liberati dall’inferno grazie alla discesa di Cristo in esso. Infatti, proprio come i santi Padri, anche quei bambini rimanevano nell’inferno soltanto a causa del peccato originale. Ma i santi Padri furono liberati dall’inferno, come detto sopra (A[5]). Pertanto, anche quei bambini furono liberati dall’inferno allo stesso modo grazie a Cristo.
+
+Obiezione 2: Inoltre, l’Apostolo afferma (Romani 5:15): “Se per la colpa di uno molti morirono, tanto più la grazia di Dio e il dono, per la grazia di un solo uomo, Gesù Cristo, sono stati riversati su molti”. Ma i bambini che muoiono portando con sé soltanto il peccato originale rimangono intrappolati all’inferno a causa del peccato dei loro primi genitori. Pertanto, ancora di più essi furono liberati dall’inferno per la grazia di Cristo.
+
+Obiezione 3: Inoltre, così come il Battesimo agisce in virtù della Passione di Cristo, allo stesso modo agisce anche la discesa di Cristo all’inferno, come risulta chiaramente da quanto detto precedentemente (A[4], ad 2, AA[5],6). Ma attraverso il Battesimo i bambini vengono liberati dal peccato originale e dall’inferno; pertanto, anch’essi furono liberati in modo simile grazie alla discesa di Cristo all’inferno.
+
+Al contrario, l’Apostolo afferma (Romani 3:25): “Dio ha offerto Cristo come espiazione, attraverso la fede nel suo sangue”. Ma i bambini che morirono con soltanto il peccato originale non partecipavano in alcun modo alla fede in Cristo. Pertanto, non ricevettero i frutti dell’espiazione di Cristo, e quindi non furono liberati da Lui dall’inferno.
+
+Rispondo che, come già detto sopra (A[6]), la discesa di Cristo all’inferno ebbe effetto di liberazione soltanto per coloro che, attraverso la fede e la carità, erano uniti alla Passione di Cristo; in virtù di ciò, la sua discesa all’inferno divenne un atto di liberazione. Tuttavia, i bambini morti nel peccato originale non erano in alcun modo uniti alla Passione di Cristo attraverso la fede e l’amore: poiché non disponevano della libertà di volontà, non potevano avere una fede propria; né venivano purificati dal peccato originale per la fede dei loro genitori né per alcun [)sacramento](/concepts/sacrament) di fede. Pertanto, la discesa di Cristo all’inferno non li liberò da quel luogo. Inoltre, i Santi Padri furono liberati dall’inferno grazie all’accesso alla gloria della visione di Dio, a cui nessuno può accedere se non per grazia; come dice Romani 6:23: “La grazia di Dio è la vita eterna”. Quindi, poiché i bambini morti nel peccato originale non possedevano alcuna grazia, non furono liberati dall’inferno.
+
+Risposta all’Obiezione 1: I Santi Padri, sebbene ancora vincolati dal debito del peccato originale – in quanto ciò riguarda la [natura umana](/axes/human_nature) – furono tuttavia liberati da ogni macchia di peccato per fede in Cristo; pertanto, erano capaci di quella liberazione che Cristo portò discendendo all’inferno. Ma lo stesso non si può dire dei bambini, come è evidente da quanto detto sopra.
+
+Risposta all’Obiezione 2: Quando l’Apostolo afferma che la grazia di Dio “è stata abbondante per molti”, la parola “molti” deve essere intesa in senso assoluto, e non in modo relativo, come se più persone fossero state salvate per la grazia di Cristo rispetto a quelle perdute a causa del peccato di Adamo. Infatti, proprio come il peccato di Adamo colpì soltanto coloro che discendevano da lui secondo la carne, così anche la grazia di Cristo raggiunse soltanto coloro che divennero suoi membri attraverso la rigenerazione spirituale; ciò non vale per i bambini che muoiono nel peccato originale.
+
+Risposta all’Obiezione 3: Il battesimo viene conferito agli uomini in questa vita, durante la quale lo stato umano può essere modificato dal peccato alla grazia; ma la discesa di Cristo all’inferno fu un atto concesso alle anime dopo questa vita, quando queste non sono più in grado di subire tale cambiamento. Pertanto, è attraverso il battesimo che i bambini vengono liberati dal peccato originale e dall’inferno, e non grazie alla discesa di Cristo all’inferno.
 
 <span class="atom-split" data-atom="354" data-title="Whether Christ by His descent into hell delivered souls from purgatory?" data-chapter="Whether Christ by His descent into hell delivered souls from purgatory?" data-kind="atom" data-srclang="en"></span>
 
@@ -23738,6 +24364,24 @@ of punishment in Purgatory which pertains to personal defect. Just as on the oth
 Fathers before Christ's coming were delivered from their personal defects, but not from the common
 defect, as was stated above (A[7], ad 1; Q[49], A[5], ad 1).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo, con la Sua discesa all’inferno, abbia liberato le anime dal Purgatorio – poiché [Agostino](/figures/augustine) afferma (Epistola ad Evodio, clxiv): “Poiché testimonianze evidenti parlano dell’inferno e dei suoi dolori, non vi è motivo di credere che il Salvatore sia andato laggiù se non per salvare gli uomini da quegli stessi dolori; tuttavia vorrei sapere se abbia liberato tutte le anime che vi trovava, o soltanto alcune che riteneva degne di tale grazia. Non dubito comunque che Cristo sia entrato nell’inferno e abbia concesso questa salvezza a coloro che ne soffrivano”. Ma, come già detto (A[6]), Egli non ha concesso la liberazione a coloro che erano perduti; e non esistono altre anime in uno stato di sofferenza punitiva se non quelle che si trovano nel Purgatorio. Pertanto, Cristo ha liberato le anime dal Purgatorio.
+
+Obiezione 2: Inoltre, la sola presenza dell’anima di Cristo ebbe lo stesso effetto dei suoi sacramenti. Tuttavia, le anime vengono liberate dal Purgatorio attraverso i sacramenti, soprattutto attraverso il [sacramento](/concepts/sacrament) dell’Eucaristia, come verrà dimostrato in seguito (XP, Q[71], A[9]). Pertanto, molto di più le anime furono liberate dal Purgatorio grazie alla presenza di Cristo disceso all’inferno.
+
+Obiezione 3: Inoltre, come afferma Agostino (De Poenit. IX), coloro che Cristo guarì in questa vita furono completamente sanati. Inoltre, il nostro Signore dice (Giovanni 7:23): “Ho guarito l’uomo intero nel giorno di sabato”. Ma Cristo liberò coloro che si trovavano nel Purgatorio dalla punizione derivante dalla perdita della gloria; pertanto, li liberò anche dalla pena stessa del Purgatorio.
+
+Al contrario, Gregorio afferma (Moralia, xiii): “Poiché il nostro Creatore e Redentore, penetrando nelle prigioni dell’inferno, ne trasse fuori le anime degli eletti, non ci permette di recarci laggiù, da dove egli stesso ha già liberato altri con la sua discesa”. Tuttavia, ci permette di andare nel Purgatorio. Pertanto, con la sua discesa nell’inferno, non ha liberato le anime dal Purgatorio.
+
+Rispondo che, come abbiamo affermato più volte (A[4], ad 2, AA[5],6,7), la discesa di Cristo all’inferno fu un atto di liberazione, reso possibile dalla Sua Passione. Ora, la Passione di Cristo possedeva una virtù che non era né temporanea né effimera, ma eterna, secondo quanto si legge in Eb 10:14: “Poiché con un’unica offerta Egli ha per sempre santificato coloro che sono stati santificati”. È quindi evidente che la Passione di Cristo non ebbe mai un’efficacia maggiore di quella che possiede oggi. Di conseguenza, coloro che si trovavano in Purgatorio all’epoca della discesa di Cristo all’inferno non furono liberati da esso grazie a tale evento. Tuttavia, se ci fossero persone oggi liberate dal Purgatorio per merito della Passione di Cristo, nulla impedirebbe loro di essere ancora liberate dalla stessa Passione.
+
+Risposta all’Obiezione 1: Da questo passo di Agostino non si può concludere che tutti coloro che si trovavano nel Purgatorio ne siano stati liberati, ma che tale beneficio sia stato concesso a alcune persone, cioè a coloro che erano già sufficientemente purificati, o che, in vita, per la loro fede e devozione verso la morte di Cristo, avevano meritato tanto da essere liberati dal castigo temporale del Purgatorio al momento della Sua discesa.
+
+Risposta all’Obiezione 2: Il potere di Cristo agisce nei sacramenti attraverso la guarigione e l’espiazione. Pertanto, il sacramento dell’Eucaristia libera gli uomini dal Purgatorio, in quanto rappresenta un sacrificio sufficiente per il peccato. Tuttavia, la discesa di Cristo all’inferno non fu un sacrificio sufficiente; nondimeno essa ebbe effetto grazie alla Passione, che invece era un sacrificio efficace, come già detto (Q[48], A[2]). La Passione fu efficace in senso generale, poiché la sua virtù doveva essere applicata a ciascun individuo attraverso qualcosa di specificamente personale (Q[49], A[1], ad 4,5). Pertanto, non segue necessariamente che tutti siano stati liberati dal Purgatorio grazie alla discesa di Cristo all’inferno.
+
+Risposta all’Obiezione 3: Quei difetti da cui Cristo ha completamente liberato gli uomini in questo mondo erano puramente personali e riguardavano l’individuo; mentre l’esclusione dalla gloria di Dio rappresentava un difetto generale, comune a tutta la [natura umana](/axes/human_nature). Pertanto, non esisteva nulla che impedisse a coloro che erano trattenuti nel Purgatorio di essere liberati da Cristo dalla privazione della gloria, ma non dal debito di punizione presente nel Purgatorio, che riguarda difetti personali. Proprio come, d’altra parte, i santi Padri precedenti la venuta di Cristo furono liberati dai loro difetti personali, ma non da quel difetto comune, come già detto sopra (A[7], ad 1; Q[49], A[5], ad 1).
+
 <span class="atom-split" data-atom="355" data-title="OF CHRIST'S RESURRECTION (FOUR ARTICLES)" data-chapter="OF CHRIST'S RESURRECTION (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider those things that concern Christ's Exaltation; and we shall deal with
@@ -23749,6 +24393,10 @@ causality. Concerning the first there are four points of inquiry:
 (2) The time of the Resurrection;
 (3) Its order;
 (4) Its cause.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora dobbiamo considerare quelle cose che riguardano l’Esaltazione di Cristo; affronteremo: (1) la Sua Risurrezione; (2) la Sua Ascesa al Cielo; (3) il Suo sedere alla destra di Dio Padre; (4) il Suo potere giudiziario. All’interno della prima categoria esistono quattro aspetti da analizzare: (1) la Risurrezione di Cristo in sé; (2) la natura della Persona che risorge; (3) le manifestazioni della Risurrezione; (4) le cause che l’hanno determinata. Per quanto riguarda il primo punto, vi sono quattro questioni fondamentali da esaminare: (1) la necessità della Sua Risurrezione; (2) il momento in cui essa avvenne; (3) l’ordine con cui si svolsero gli eventi legati alla Risurrezione; (4) la causa che la provocò.
 
 <span class="atom-split" data-atom="356" data-title="Whether it was necessary for Christ to rise again?" data-chapter="Whether it was necessary for Christ to rise again?" data-kind="atom" data-srclang="en"></span>
 
@@ -23813,6 +24461,28 @@ condition of nature, but not to a higher personal state.
 
 Reply to Objection 3: Christ's Passion wrought our salvation, properly speaking, by removing
 evils; but the Resurrection did so as the beginning and exemplar of all good things.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non fosse necessario che Cristo risorgesse di nuovo. Infatti Damasceno afferma nel “De Fide Orthodossa” IV: “La risurrezione è il risorgere di un essere animato che era stato distrutto e dissolto”. Ma Cristo non cadde a causa del peccato, né il suo corpo fu distrutto, come emerge da quanto detto in precedenza (Q[51], A[3]). Pertanto, non è propriamente sua natura risorgere di nuovo.
+
+Obiezione 2: Inoltre, chiunque risorga viene elevato a uno stato più alto, poiché risorgere significa essere sollevati. Ma dopo la morte il corpo di Cristo rimase unito alla Divinità; pertanto non poteva essere elevato a nessun stato più alto. Quindi, non era previsto che risorgesse.
+
+Obiezione 3: Inoltre, tutto ciò che accadde all’umanità di Cristo fu predisposto per la nostra salvezza. Ma la Passione di Cristo fu sufficiente per la nostra salvezza, poiché grazie ad essa fummo liberati dal peccato e dalla punizione, come risulta chiaramente da quanto detto in precedenza (Q[49], A[1],3). Pertanto, non era necessario che Cristo risorgesse dai morti.
+
+Al contrario, è scritto (Lc. 24:46): “Era necessario che Cristo soffrisse e risorgesse dai morti”.
+
+Rispondo che fu necessario che Cristo risorgesse per cinque motivi. Primo di tutto, affinché la Giustizia Divina fosse onorata; infatti spetta a Dio elevare coloro che si umiliano per amor Suo, come dice Luca 1:52: “Ha abbassato i potenti dal loro trono e ha elevato gli umili”. Poiché Cristo si è umiliato fino alla morte in croce, per amore e obbedienza a Dio, era necessario che fosse risollevato da Dio attraverso una gloriosa resurrezione; per questo si dice di Lui nel Salmo 138:2: “Tu hai conosciuto, cioè approvato, la mia umiliazione e la mia passione, così come la mia glorificazione nella resurrezione”.  
+In secondo luogo, affinché noi potessimo imparare dalla fede; infatti la nostra credenza nella divinità di Cristo viene confermata dalla Sua risurrezione, poiché, come dice 2 Corinzi 13:4, “sebbene sia stato crocifisso per debolezza, vive tuttavia per il potere di Dio”. Per questo si scrive in 1 Corinzi 15:14: “Se Cristo non fosse risorto, allora la nostra predicazione sarebbe vana e anche la vostra fede sarebbe vana”; e nel Salmo 29:10: “Che profitto c’è nel mio sangue, se io muoio in mezzo ai mali?” Come se Cristo rispondesse: “Nessun profitto. Poiché se non risorgessi immediatamente, il mio corpo andrebbe in decomposizione e non potrei più predicare né salvare nessuno”.  
+In terzo luogo, affinché la nostra speranza possa essere rafforzata; poiché vedendo Cristo risorgere, che è la nostra testa, speriamo anche noi di poter risorgere un giorno. Per questo si scrive in 1 Corinzi 15:12: “Se viene predicato che Cristo è risorto dai morti, come mai alcuni tra voi dicono che non c’è resurrezione dei morti?”. E in Giobbe 19:25-27: “So con certezza di fede che il mio Redentore, cioè Cristo, vive, poiché è risorto dai morti; quindi anch’io risorgerò nel giorno del giudizio. Questa è la mia speranza”.  
+In quarto luogo, affinché le vite dei fedeli possano essere ordinate secondo i principi della fede; come dice Romani 6:4: “Poiché Cristo è risorto dai morti per la gloria del Padre, anche noi possiamo vivere una vita nuova”. E inoltre: “Cristo, essendo risorto dai morti, non muore più; quindi anche voi consideratevi morti al peccato e vivi a Dio”.  
+In quinto luogo, affinché l’opera della nostra salvezza possa essere completata; poiché proprio per questo motivo Cristo ha sopportato la morte per liberarci dal male, ed è stato glorificato nella sua risurrezione per guidarci verso il bene. Come dice Romani 4:25: “È stato dato in sacrificio per i nostri peccati e è risorto per la nostra giustificazione”.
+
+Risposta all’Obiezione 1: Sebbene Cristo non sia caduto a causa del peccato, tuttavia è caduto attraverso la morte; poiché il peccato rappresenta una caduta dalla rettitudine, così anche la morte rappresenta una caduta dalla vita. Per questo motivo le parole di Michea 7:8 possono essere considerate come se fossero state pronunciate da Cristo stesso: “Non rallegrarti, o nemico mio, per la mia rovina; poiché io risorgerò”. Allo stesso modo, anche se il corpo di Cristo non si è disintegrato tornando in polvere, la separazione della Sua ['anima e del corpo](/axes/soul_body) rappresentava una sorta di disintegrazione.
+
+Risposta all’Obiezione 2: La Divinità si unì alla carne di Cristo dopo la morte attraverso un’unione personale, ma non naturale; pertanto l’anima si unisce al corpo come sua forma, costituendo così la [natura umana](/axes/human_nature). Di conseguenza, attraverso l’unione di corpo e anima, il corpo fu elevato a uno stato naturale più alto, ma non a uno stato personale più elevato.
+
+Risposta all’Obiezione 3: La Passione di Cristo ha operato la nostra salvezza, per così dire, eliminando i mali; ma la Risurrezione lo ha fatto come inizio e esempio di tutte le cose buone.
 
 <span class="atom-split" data-atom="357" data-title="Whether it was fitting for Christ to rise again on the third day?" data-chapter="Whether it was fitting for Christ to rise again on the third day?" data-kind="atom" data-srclang="en"></span>
 
@@ -23891,6 +24561,24 @@ rises, the more are the remaining shadows dispelled." But when Mark says "'the s
 risen,' it is not to be taken as if the sun were already apparent over the horizon, but as coming
 presently into those parts."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra inappropriato che Cristo sia risorto nuovamente il terzo giorno. Infatti, i membri dovrebbero essere in armonia con la loro testa. Ma noi, che siamo i Suoi membri, non risorgiamo dalla morte il terzo giorno, poiché la nostra risurrezione è rinviata fino alla fine del mondo. Pertanto, sembra che Cristo, che è la nostra testa, non avrebbe dovuto risorgere il terzo giorno, ma che la Sua Risurrezione sarebbe dovuta essere posticipata fino alla fine del mondo.
+
+Obiezione 2: Inoltre, Pietro affermò (Atti 2:24) che “era impossibile che Cristo fosse trattenuto prigioniero dall’inferno” e dalla morte. Pertanto sembra che la risurrezione di Cristo non dovesse essere rinviata al terzo giorno, ma avvenisse immediatamente lo stesso giorno; soprattutto considerando che il commento citato sopra afferma che “non ha alcun senso versare il sangue di Cristo, se Egli non risorge subito”.
+
+Obiezione 3: Il giorno sembra iniziare con l’alba, e la presenza del sole è ciò che ne causa lo scaturire. Ma Cristo risorse prima dell’alba: infatti si legge (Giovanni 20:1) che “Maria Maddalena venne presto, quando ancora era buio, presso il sepolcro”; ma Cristo era già risorto, poiché si aggiunge: “E vide la pietra rimossa dal sepolcro”. Pertanto, Cristo non risorse il terzo giorno.
+
+Al contrario, è scritto (Matteo 20:19): “Lo consegneranno ai gentili affinché venga deriso, flagellato e crocifisso; il terzo giorno risorgerà”.
+
+Rispondo che, come già detto (A[1]), la Resurrezione di Cristo era necessaria per l’insegnamento della nostra fede. Tuttavia, la nostra fede riguarda sia la divinità che l’umanità di Cristo; infatti non è sufficiente credere in una sola di queste due realtà senza considerare anche l’altra, come risulta evidente da quanto detto precedentemente (Q[36], A[4]; cfr. SS, Q[2], AA[7],8). Pertanto, affinché la nostra fede nella verità della Sua divinità potesse essere confermata, era necessario che Egli risorgesse rapidamente, e che la Sua Resurrezione non venisse rinviata fino alla fine del mondo. Ma per confermare la nostra fede nella verità della Sua umanità e della Sua morte, era necessario che intercorresse un certo lasso di tempo tra la Sua morte e la Sua risurrezione; infatti, se Egli fosse risorto immediatamente dopo la morte, si sarebbe potuto pensare che la Sua morte non fosse stata reale, e di conseguenza nemmeno la Sua Resurrezione sarebbe stata vera. Tuttavia, per stabilire la verità della morte di Cristo, era sufficiente che la Sua risurrezione venisse rinviata fino al terzo giorno, poiché in quel lasso di tempo compaiono sempre alcuni segni di vita in chi sembra morto, quando invece è ancora vivo. Inoltre, con la Sua risurrezione al terzo giorno viene celebrata la perfezione del numero “tre”, che rappresenta “tutto ciò che esiste”, poiché include “inizio, mezzo e fine”, come si afferma nel De Coelo i. Nel senso mistico, ci viene inoltre insegnato che Cristo, con la Sua morte (cioè quella del corpo), che era luce, e grazie alla Sua giustizia, “ha distrutto le nostre due morti” (quelle dell’anima e del corpo), che rappresentano l’oscurità causata dal peccato; pertanto Egli è rimasto nella morte per un giorno e due notti, come osserva sant’Agostino nel De Trinitate iv. Con la Sua Resurrezione inizia anche una terza epoca: la prima era precedente alla Legge, la seconda sotto la Legge, e la terza sotto la grazia di Dio. Inoltre, lo stato dei santi nella gloria eterna inizia proprio con la Resurrezione di Cristo; infatti, il primo stato dei santi era caratterizzato dalle figure simboliche della Legge, il secondo dalla verità della fede, mentre il terzo sarà nell’eternità della gloria, che Cristo ha inaugurato con la Sua risurrezione.
+
+Risposta all’Obiezione 1: La testa e i membri sono simili per natura, ma non per potere; poiché il potere della testa è superiore a quello dei membri. Pertanto, affinché si manifestasse l’eccellenza del potere di Cristo, era appropriato che Egli risorgesse al terzo giorno, mentre la resurrezione degli altri è rinviata fino alla fine del mondo.
+
+Risposta all’Obiezione 2: La detenzione implica una certa costrizione. Ma Cristo non fu trattenuto da alcuna necessità legata alla morte; anzi, egli era “libero tra i morti”. Pertanto rimase per un certo periodo nella morte, non perché fosse costretto, ma per sua stessa volontà, esattamente per il tempo che ritenne necessario per l’insegnamento della nostra fede. Si dice che un compito venga “eseguito immediatamente” quando viene portato a termine in un breve lasso di tempo.
+
+Risposta all’Obiezione 3: Come già detto sopra (Q[51], A[4], ad 1,2), Cristo risorse all’alba, per indicare che con la Sua Resurrezione ci ha portati alla luce della gloria; allo stesso modo morì al tramonto, quando il giorno stava per finire e si avvicinava l’oscurità, per significare che con la Sua morte avrebbe distrutto l’oscurità del peccato e le sue punizioni. Tuttavia si dice che sia risorto nel terzo giorno, inteso come un giorno naturale composto da ventiquattro ore. Come afferma Agostino (De Trin. iv): “La notte fino all’alba, quando fu proclamata la Resurrezione del Signore, appartiene al terzo giorno. Poiché Dio, che fece sì che la luce emergesse dall’oscurità, per mezzo della grazia del Nuovo Testamento e partecipando alla risurrezione di Cristo possiamo ascoltare queste parole: ‘Un tempo eravate oscurità, ma ora siete luce nel Signore’ – ci fa intendere in qualche modo che quel giorno ha origine dalla notte; infatti, così come i primi giorni vengono calcolati dalla luce all’oscurità a causa della caduta dell’uomo, anche questi giorni vengono contati dall’oscurità alla luce grazie alla restaurazione dell’uomo.” È quindi evidente che anche se Cristo fosse risorto a mezzanotte, si potrebbe comunque dire che sia risorto nel terzo giorno, inteso come un giorno naturale. Ma poiché risorse all’alba, si può affermare con certezza che sia risorto nel terzo giorno, anche considerando il giorno artificiale determinato dalla presenza del sole, poiché il sole aveva già iniziato ad illuminare il cielo. Per questo motivo è scritto (Mc 16:2) che “le donne arrivarono al sepolcro quando il sole era già sorto”; ciò non contraddice quanto affermato da Giovanni (“quando ancora era buio”), come spiega Agostino (De Cons. Evang. iii): “Poiché, man mano che il giorno avanza, la luce aumenta e le ombre rimanenti si dissipano sempre di più.” Ma quando Marco dice “quando il sole era già sorto”, non si intende che il sole fosse già visibile all’orizzonte, ma che stesse appena iniziando a illuminare il cielo.
+
 <span class="atom-split" data-atom="358" data-title="Whether Christ was the first to rise from the dead?" data-chapter="Whether Christ was the first to rise from the dead?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ was not the first to rise from the dead, because we read
@@ -23957,6 +24645,22 @@ they regard the soul, as the perfect fruition of God, or whether they regard the
 resurrection, to be first in Christ as the author of glory: but that grace should be first in those that
 were ordained unto Christ.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo non sia stato il primo a risorgere dai morti, poiché nell’Antico Testamento si leggono di alcune persone risuscitate da Elia ed Eliseo, come riportato in Ebrea 11:35: “Le donne ricevettero i loro morti risuscitati”; inoltre, prima della Sua Passione, Cristo stesso risuscitò tre persone defunte. Pertanto, Cristo non fu il primo a risorgere dai morti.
+
+Obiezione 2: Inoltre, tra gli altri miracoli avvenuti durante la Passione, si narra (Matteo 27:52) che “i sepolcri si aprirono e molti corpi dei santi che riposavano in essi risorsero”. Pertanto, Cristo non fu il primo a risorgere dai morti.
+
+Obiezione 3: Inoltre, poiché Cristo, con la Sua risurrezione, è la causa della nostra resurrezione, allo stesso modo, per grazia Sua, è anche la causa della nostra grazia, secondo Giovanni 1:16: “Della Sua pienezza tutti noi abbiamo ricevuto”. Tuttavia, in termini di tempo, alcune altre persone hanno ricevuto la grazia prima di Cristo – ad esempio, tutti i padri dell’Antico Testamento. Pertanto, alcune altre persone hanno conosciuto la resurrezione del corpo prima di Cristo.
+
+Al contrario, è scritto (1 Corinzi 15:20): “Cristo è risorto dai morti; egli è il primo frutto di coloro che dormono, perché”, dice il commento, “risorse per primo in termini di tempo e dignità”.
+
+Rispondo che la risurrezione è un ritorno alla vita dopo la morte. Un uomo può essere strappato alla morte in due modi: innanzitutto, dalla morte effettiva, in modo da poter ricominciare a vivere dopo essere stato realmente morto; in secondo luogo, non solo viene salvato dalla morte, ma anche dalla necessità, anzi, dalla possibilità di morire di nuovo. Questa è una risurrezione vera e perfetta, perché finché un uomo vive, soggetto alla necessità di morire, la morte ha su di lui un certo dominio, come si legge in Romani 8:10: “Il corpo infatti è morto a causa del peccato”. Inoltre, ciò che ha la possibilità di esistere viene considerato esistente in qualche modo, cioè nella sua [potenzialità](/concepts/act_potency). È quindi evidente che una risurrezione che salva soltanto dalla morte effettiva è imperfetta. Pertanto, parlando di risurrezione perfetta, Cristo è il primo ad essere risorto, poiché con la sua risurrezione è stato il primo ad ottenere una vita completamente immortale, come si legge in Romani 6:9: “Cristo, risorto dai morti, non muore più”. Ma attraverso una risurrezione imperfetta, altri sono risorti prima di Cristo, fungendo così da figura simbolica della Sua risurrezione. E così la risposta alla prima obiezione diventa chiara: sia coloro che sono risorti nel Vecchio Testamento che quelli risorti per mezzo di Cristo hanno dovuto morire di nuovo dopo essere tornati in vita.
+
+Risposta all’Obiezione 2: Esistono due opinioni riguardo a coloro che risorsero con Cristo. Alcuni ritengono che siano risorti affinché non dovessero più morire, poiché una seconda morte sarebbe stata per loro un tormento ancora maggiore rispetto al fatto di non essere mai risorti. Secondo questa visione, come osserva Girolamo riguardo a Matteo 27:52-53, dobbiamo intendere che “non erano ancora risorti quando il nostro Signore risorse”. Per questo motivo l’Evangelista afferma che “usciti dalle tombe dopo la Sua Resurrezione, entrarono nella città santa e apparvero a molti”. Tuttavia Agostino (Ep. ad Evod. clxiv), pur condividendo questa opinione, scrive: “So che alcuni ritengono che, con la morte di Cristo, il Signore abbia concesso ai giusti quella stessa risurrezione che ci è promessa alla fine; e se i loro corpi non riposarono nuovamente dopo la morte, rimane da capire come possa essere considerato Cristo ‘il primogenito dei morti’, se molti lo precedettero in quella risurrezione. Ora, se si risponde che ciò viene detto in senso anticipato, affinché si possa intendere che le tombe furono aperte dal terremoto mentre Cristo era ancora appeso alla croce, ma che i corpi dei giusti non risorsero allora bensì dopo la Sua Resurrezione, sorge comunque il problema: come può essere affermato da Pietro che ciò fu predetto non di Davide ma di Cristo, che il Suo corpo non avrebbe subito decomposizione, se la tomba di Davide si trovava tra quelle dei giusti? E quindi Pietro non li avrebbe convinti, se il corpo di Davide non fosse più stato lì; poiché anche se Davide fosse risorto poco dopo la sua morte e il suo corpo non avesse subito decomposizione, la sua tomba sarebbe comunque rimasta. Sembra difficile credere che Davide, da cui discende Cristo, non abbia partecipato a quella risurrezione dei giusti, se loro ricevettero una risurrezione eterna. Inoltre, il detto dell’Epistola agli Ebrei (11:40), secondo cui gli antichi giusti non furono resi perfetti senza di noi, sarebbe difficile da spiegare se già possedevano quella incorruttibilità della risurrezione promessa a noi alla fine, quando saremo resi perfetti”. Quindi sembrerebbe che Agostino ritenesse che quei giusti fossero risorti per morire di nuovo. In questo senso anche Girolamo, commentando Matteo 27:52-53, afferma: “Come Lazzaro risorse, così risorsero anche molti dei corpi dei santi, affinché potessero testimoniare del Cristo risorto”. Tuttavia, in un sermone per l’Assunzione (*Ep. ix ad Paul. et Eustoch.; tra le opere suppostamente attribuite a San Girolamo*), sembra lasciare la questione aperta. Ma le argomentazioni di Agostino appaiono molto più convincenti.
+
+Risposta all’Obiezione 3: Così come tutto ciò che precedette la venuta di Cristo era preparatorio a Lui, allo stesso modo la grazia rappresenta una disposizione verso la gloria. Pertanto, tutte le cose relative alla gloria – sia quelle che riguardano l’anima, intesa come la piena realizzazione di Dio, sia quelle che riguardano il corpo, considerato la risurrezione gloriosa – dovevano necessariamente avere origine in Cristo, che è l’autore della gloria; ma la grazia doveva essere particolarmente presente in coloro che erano destinati a Cristo.
+
 <span class="atom-split" data-atom="359" data-title="Whether Christ was the cause of His own Resurrection?" data-chapter="Whether Christ was the cause of His own Resurrection?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that Christ was not the cause of His own Resurrection. For whoever is
@@ -24003,6 +24707,24 @@ Godhead united to it is more powerful than the body in respect of its created na
 it was by the Divine power that the body and soul mutually resumed each other, but not by the
 power of their created nature.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo non sia stato la causa della propria Risurrezione. Infatti, chi viene risuscitato da un altro non può essere considerato la causa della propria rinascita. Ma Cristo fu risuscitato da un altro, come affermato in Atti 2:24: “Colui che Dio ha risuscitato, liberandolo dalle pene dell’inferno”; e in Romani 8:11: “Colui che ha risuscitato Gesù Cristo dai morti, risveglierà anche i vostri corpi mortali”. Pertanto, Cristo non è la causa della propria Risurrezione.
+
+Obiezione 2: Inoltre, non si dice che nessuno meriti, o chieda a un altro, ciò di cui egli stesso è la causa. Ma Cristo, con la Sua Passione, meritò la Resurrezione, come afferma [Agostino](/figures/augustine) nel “Trattato civile su Giovanni”: “L’umiltà della Passione è la causa meritoria della gloria della Resurrezione”. Inoltre, Egli chiese al Padre di risuscitarLo, secondo il Salmo 40:11: “Ma tu, o Signore, abbi pietà di me e risuscitami”. Pertanto, Egli stesso non fu la causa della Sua resurrezione.
+
+Obiezione 3: Inoltre, come dimostra Damasceno (De Fide Orth. iv), non è l’anima che risorge, ma il corpo, colpito dalla morte. Tuttavia, il corpo non potrebbe unire l’anima a sé stesso, poiché l’anima è di natura più nobile. Pertanto, ciò che risorse in Cristo non poteva essere la causa della Sua Resurrezione.
+
+Al contrario, il nostro Signore dice (Giovanni 10:18): “Nessuno mi può togliere l’anima; io la lascio e poi la riprendo”. Ma risorgere significa proprio riprendere l’anima. Pertanto, sembra che Cristo sia risorto per sua stessa forza.
+
+Rispondo che, come già detto sopra (Q[50], AA[2],3), a seguito della morte la divinità di Cristo non fu separata né dalla Sua anima né dal Suo corpo. Pertanto, sia l’anima che il corpo del Cristo morto possono essere considerati sotto due aspetti: da un lato, in relazione alla Sua divinità; dall’altro, in relazione alla Sua natura creata. Quindi, grazie alla virtù della divinità unita a tale natura, il corpo riprese l’anima che aveva abbandonato, e l’anima riprese il corpo che aveva lasciato: ed è così che Cristo risorse per propria forza. Ed è proprio ciò che si legge in 2 Corinzi 13:4: “Poiché egli fu crocifisso a causa della nostra debolezza, tuttavia vive per la potenza di Dio”. Ma se consideriamo il corpo e l’anima del Cristo morto in relazione alla loro natura creata, essi non avrebbero potuto essere riuniti in questo modo; era necessario che Cristo fosse risuscitato da Dio.
+
+Risposta all’Obiezione 1: Il potere divino è la stessa cosa dell’operazione del Padre e del Figlio; pertanto queste due realtà sono reciprocamente conseguenti: Cristo fu risuscitato dal potere divino del Padre, ma anche con il proprio potere.
+
+Risposta all’Obiezione 2: Cristo, pregando, chiese e meritò la Sua Risurrezione, in qualità di uomo e non di Dio.
+
+Risposta all’Obiezione 3: Secondo la sua natura creata, il corpo di Cristo non è più potente della Sua anima; tuttavia, in base al Suo potere divino, lo è. D’altra parte, l’anima, in quanto unita alla Divinità, è più potente del corpo rispetto alla sua natura creata. Pertanto, è stato attraverso il potere divino che corpo e anima si sono ricongiunti, e non attraverso il potere della loro natura creata.
+
 <span class="atom-split" data-atom="360" data-title="OF THE QUALITY OF CHRIST RISING AGAIN (FOUR ARTICLES)" data-chapter="OF THE QUALITY OF CHRIST RISING AGAIN (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the quality of the rising Christ, which presents four points of inquiry:
@@ -24011,7 +24733,15 @@ We have now to consider the quality of the rising Christ, which presents four po
 (3) Whether His was a glorified body?
 (4) Of the scars which showed in His body.
 
-<span class="atom-split" data-atom="361" data-title="Whether Christ had a true body after His Resurrection? (1/2)" data-chapter="Whether Christ had a true body after His Resurrection?" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la natura del Cristo risorto, il che comporta quattro aspetti da esaminare:
+(1) Se Cristo avesse avuto un corpo reale dopo la Sua Risurrezione;
+(2) Se fosse risorto con tutto il proprio corpo integro;
+(3) Se il suo corpo fosse stato un corpo glorificato;
+(4) E, infine, le cicatrici presenti sul suo corpo.
+
+<span class="atom-split" data-atom="361" data-title="Whether Christ had a true body after His Resurrection? (parte 1)" data-chapter="Whether Christ had a true body after His Resurrection?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ did not have a true body after His Resurrection. For a
 true body cannot be in the same place at the same time with another body. But after the Resurrection
@@ -24107,7 +24837,35 @@ body was not glorified.
 On the contrary, The Apostle says (Phil. 3:21): "He will reform the body of our lowness, made
 like to the body of His glory."
 
-<span class="atom-split" data-atom="362" data-title="Whether Christ had a true body after His Resurrection? (2/2)" data-chapter="Whether Christ had a true body after His Resurrection?" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo, dopo la sua Risurrezione, non avesse un corpo vero. Infatti, un corpo vero non può trovarsi nello stesso luogo contemporaneamente a un altro corpo. Ma dopo la Risurrezione, il corpo di Cristo si trovava nello stesso luogo e contemporaneamente a un altro corpo: poiché entrò tra i discepoli “mentre le porte erano chiuse”, come riportato in Giovanni 20:26. Pertanto, sembra che Cristo, dopo la sua Risurrezione, non avesse un corpo vero.
+
+Obiezione 2: Inoltre, un corpo vero non scompare dalla vista di chi lo osserva a meno che non venga corrotto. Ma il corpo di Cristo “scomparve dalla vista” dei discepoli mentre Lo guardavano, come riportato in Luca 24:31. Pertanto, sembra che Cristo non abbia avuto un corpo vero dopo la Sua Risurrezione.
+
+Obiezione 3: Inoltre, ogni corpo reale possiede una forma determinata. Tuttavia, il corpo di Cristo apparve davanti ai discepoli “in un’altra forma”, come risulta evidente da Marco 15:12. Pertanto, sembra che Cristo, dopo la sua Risurrezione, non possedesse più un corpo reale.
+
+Al contrario, è scritto (Lc 24:37) che quando Cristo apparve ai suoi discepoli “essi, turbati e spaventati, pensarono di vedere uno spirito”, come se Lui non avesse un corpo reale ma soltanto immaginario; per dissipare i loro timori, Egli aggiunse subito: “Toccatemi e vedete: uno spirito infatti non ha carne né ossa, come voi vedete che io ne ho”. Pertanto, Lui aveva un corpo reale, non immaginario.
+
+Rispondo che, come afferma Damasceno nel “De Fide Orthodossa” IV, si dice che qualcosa risorga quando è caduto. Ma il corpo di Cristo è caduto attraverso la morte, ovvero nel momento in cui l’anima, che ne costituiva la perfezione formale, ne fu separata. Pertanto, affinché si potesse parlare di vera resurrezione, era necessario che lo stesso corpo di Cristo fosse nuovamente unito alla stessa anima. E poiché la verità della natura del corpo deriva dalla sua forma, ne consegue che il corpo di Cristo dopo la sua Resurrezione fosse un vero corpo, e della stessa natura di prima. Ma se fosse stato un corpo immaginario, allora la sua Resurrezione non sarebbe stata vera, ma solo apparente.
+
+Risposta all’Obiezione 1: Il corpo di Cristo, dopo la Sua Risurrezione – non per mezzo di un [miracolo](/concepts/miracle), ma a causa della sua condizione glorificata – entrò tra i discepoli mentre le porte erano chiuse, esistendo così in due corpi diversi nello stesso luogo. Tuttavia, se un corpo glorificato possa possedere tale capacità grazie a qualche proprietà nascosta, permettendogli di trovarsi contemporaneamente in due luoghi diversi, questo sarà discusso in seguito (XP, Q[83], A[4]), quando verrà trattata la questione della risurrezione universale. Per il momento basta affermare che ciò non avvenne grazie a alcuna proprietà intrinseca al corpo stesso, ma per virtù della divinità unita ad esso; quindi, sebbene si trattasse di un corpo vero e proprio, poté entrare tra i discepoli mentre le porte erano chiuse. Di conseguenza, l’[Agostino](/figures/augustine) afferma in un sermone per la Pasqua (ccxlvii) che alcuni sostengono: “Se si trattasse davvero di un corpo normale; se ciò che è risorto dalla tomba fosse lo stesso che è stato appeso al croce, come avrebbe potuto entrare attraverso porte chiuse?” E risponde: “Se riuscite a capire come sia possibile, allora non si tratta di un miracolo: dove la ragione fallisce, la fede prevale.” Inoltre, nel Trattato cxxi super Joan., aggiunge: “Le porte chiuse non costituivano un ostacolo per la sostanza di quel corpo in cui risiedeva la divinità; infatti Lui poteva davvero entrare attraverso porte chiuse, e nella Sua nascita la verginità della Sua Madre rimase intatta.” Anche Gregorio dice lo stesso in un’omelia per l’ottava di Pasqua (xxvi in Evang.).
+
+Risposta all’Obiezione 2: Come già detto sopra (Q[53], A[3]), Cristo risorse alla vita immortale e gloriosa. Ma la natura di un corpo glorificato è tale che esso sia spirituale, cioè soggetto allo spirito, come afferma l’Apostolo (1 Corinzi 15:44). Affinché il corpo sia interamente soggetto allo spirito, è necessario che ogni sua azione sia subordinata alla volontà dello spirito. Inoltre, il fatto che un oggetto venga visto dipende dall’azione di quell’oggetto visibile sulla vista, come dimostra il Filosofo (De Anima ii). Pertanto, chi possiede un corpo glorificato ha il potere di farsi vedere quando lo desidera, e di non farsi vedere quando non lo desidera. Inoltre, Cristo disponeva di questo potere non solo a causa della condizione del suo corpo glorificato, ma anche grazie al potere della sua divinità; con tale potere può accadere che anche corpi non glorificati vengano miracolosamente resi invisibili: come avvenne per il beato Bartolomeo, a cui fu concesso il dono di “poter essere visto se lo desiderava, e di non esserlo se non lo desiderava” (*Apocryphal Historia Apost. viii, 2*). Si dice quindi che Cristo sia scomparso dagli occhi dei discepoli, non perché fosse corrotto o si fosse trasformato in elementi invisibili, ma perché, per sua stessa volontà, cessò di essere visto da loro, sia mentre era presente, sia mentre se ne andava grazie al dono dell’agilità.
+
+Risposta all’Obiezione 3: Come afferma Severiano nel suo sermone di Pasqua (*Peter Chrysologus: Serm. lxxxii*): “Nessuno debba pensare che Cristo abbia cambiato il proprio aspetto alla Resurrezione”. Ciò si riferisce soltanto alle caratteristiche fisiche del Suo corpo; poiché nulla nel corpo di Cristo, concepito dallo Spirito Santo, era fuori posto o deformato, nulla doveva essere corretto durante la Resurrezione. Tuttavia, alla Resurrezione Egli ricevette la gloria della chiarezza e della perfezione; per questo lo stesso autore aggiunge: “L’aspetto esteriore cambia, quando il corpo cessa di essere mortale e diventa immortale; così Cristo acquisì la gloria del proprio volto, senza perdere la sostanza stessa di quel volto”. Tuttavia, Egli non apparve ai suoi discepoli in un aspetto glorificato; poiché era in suo potere far sì che il Suo corpo fosse visto o meno, era anche in suo potere mostrare loro la Sua forma, sia glorificata che no, o parzialmente glorificata e parzialmente no, o in qualsiasi altro modo. Bastava infatti una lieve differenza perché il Suo aspetto apparisse diverso.
+
+Il corpo di Cristo risorse glorificato? [*Alcune edizioni collocano questo articolo al terzo posto, seguendo l’ordine introduttivo alla questione. Tuttavia, è evidente dalla prima frase del testo principale dell’articolo A[3] (A[2] nelle edizioni menzionate) che l’ordine stabilito dall’edizione Leonina è corretto.]
+
+Obiezione 1: Sembra che il corpo di Cristo non sia risorto in stato di gloria. Infatti, i corpi glorificati brillano, come afferma Matteo 13:43: “Allora i giusti splenderanno come il sole nel regno del loro Padre”. Tuttavia, i corpi che brillano sono visti sotto l’aspetto della luce, e non dei colori. Pertanto, poiché il corpo di Cristo è stato visto sotto l’aspetto dei colori, come era sempre stato fino ad allora, sembra che non fosse in uno stato di gloria.
+
+Obiezione 2: Inoltre, un corpo glorificato è incorruttibile. Ma il corpo di Cristo sembra non essere stato incorruttibile; poiché era tangibile, come Egli stesso afferma in Luca 24:39: “Toccatelo e vedete”. Ora Gregorio dice (Hom. in Evang. xxvi) che “ciò che può essere toccato deve essere corruttibile, e ciò che è incorruttibile non può essere toccato”. Pertanto, il corpo di Cristo non fu glorificato.
+
+Obiezione 3: Inoltre, un corpo glorificato non è di natura animale, ma spirituale, come risulta chiaramente da 1 Corinzi 15. Tuttavia, dopo la Resurrezione, il corpo di Cristo sembra essere stato di natura animale, poiché mangiò e bevve con i suoi discepoli, come leggiamo negli ultimi capitoli di Luca e Giovanni. Pertanto, sembrerebbe che il corpo di Cristo non sia mai stato glorificato.
+
+Al contrario, l’Apostolo afferma (Filippesi 3:21): “Riformerà il corpo della nostra debolezza, rendendolo simile al corpo della Sua gloria”.
+
+<span class="atom-split" data-atom="362" data-title="Whether Christ had a true body after His Resurrection? (parte 2)" data-chapter="Whether Christ had a true body after His Resurrection?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, Christ's was a glorified body in His Resurrection, and this is evident from three
 reasons. First of all, because His Resurrection was the exemplar and the cause of ours, as is stated
@@ -24155,6 +24913,16 @@ because it lay in His power." For as Bede says on Lk. 24:41: "The thirsty earth 
 and the sun's burning ray absorbs it; the former from need, the latter by its power." Hence after the
 Resurrection He ate, "not as needing food, but in order thus to show the nature of His risen body."
 Nor does it follow that His was an animal body that stands in need of food.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Rispondo che il corpo di Cristo, nella Sua Risurrezione, divenne un corpo glorificato, e ciò è evidente per tre motivi. Primo: poiché la Sua Risurrezione fu l’esempio e la causa della nostra risurrezione, come si afferma in 1 Corinzi 15:43. Inoltre, durante la risurrezione anche i santi avranno corpi glorificati, come si legge nello stesso passo: “È seminato nella disonore, ma risorgerà nella gloria”. Poiché la causa è più potente dell’effetto, e l’esempio supera ciò che ne è l’imitazione, il corpo di Cristo nella Sua Risurrezione doveva essere ancora più glorificato. Secondo: poiché Cristo meritò tale gloria attraverso l’umiltà della Sua Passione; per questo disse (Giovanni 12:27): “Ora la mia anima è angosciata”, riferendosi alla Passione, e in seguito aggiunse: “Padre, glorifica il Tuo nome”, chiedendo così la gloria della Risurrezione. Terzo: poiché, come detto sopra, l’anima di Cristo fu glorificata fin dal momento della sua concezione, attraverso la piena realizzazione della Sua divinità. Tuttavia, per motivi legati alla economia divina, tale gloria non passò dall’anima al corpo, affinché Cristo potesse compiere il mistero della nostra redenzione attraverso la Passione. Quando quindi questo mistero fu completato, l’anima trasmise immediatamente la propria gloria al corpo risorto nella Risurrezione; e così quel corpo divenne glorificato.
+
+Risposta all’Obiezione 1: Quello che viene ricevuto da un soggetto lo viene secondo le capacità di tale soggetto. Pertanto, poiché la gloria proviene dall’anima e si diffonde nel corpo, ne consegue che, come afferma [Agostino](/figures/augustine) (Epistola ad Dioscoro cxviii), il fulgore o lo splendore di un corpo glorificato è simile al colore naturale del corpo umano; proprio come i vetri di diversi colori ricevono il loro splendore dalla luce del sole, in base al colore stesso. Ma poiché spetta alla volontà di un uomo glorificato decidere se il suo corpo venga visto o meno, come già detto sopra (A[1], ad 2), allo stesso modo spetta a lui decidere se lo splendore del suo corpo sia visibile o no. Pertanto, il corpo glorificato può essere visto nel suo colore, ma non necessariamente nel suo fulgore. Ed è proprio in questo modo che il corpo di Cristo apparve ai discepoli dopo la Resurrezione.
+
+Risposta all’Obiezione 2: Affermiamo che un corpo possa essere manipolato non solo a causa della sua resistenza, ma anche in virtù della sua densità. Tuttavia, dalla rarità e dalla densità derivano proprietà come il peso e la leggerezza, il caldo e il freddo, nonché contrari ad essi; queste proprietà costituiscono i principi della corruzione nei corpi elementari. Pertanto, un corpo che può essere manipolato dal tatto umano è naturalmente suscettibile di corruzione. Ma se esistesse un corpo che resista al contatto e che tuttavia non possieda le qualità menzionate – cioè quelle adatte al tocco umano, come avviene per i corpi celesti – allora tale corpo non potrebbe essere considerato manipolabile. Il corpo di Cristo, dopo la Resurrezione, era effettivamente composto da elementi terreni e possedeva le qualità tangibili necessarie a un corpo umano; pertanto poteva essere naturalmente manipolato. Se invece non avesse posseduto tali qualità, sarebbe stato anch’esso soggetto alla corruzione. Ma possedeva qualcosa in più che lo rendeva incorruttibile: non si trattava della natura di un corpo celeste, come alcuni sostengono (su questo argomento approfondiremo in seguito, XP, Q[82], A[1]), bensì della gloria derivante da una anima beata. Come afferma Agostino nell’Epistola ad Dioscoride (cxviii): “Dio ha creato l’anima di tale potente natura che, dalla sua massima beatitudine, scaturisce la forza necessaria affinché il corpo sia immune alla corruzione”. E quindi Gregorio dice nell’Homilia sull’Evangelo (xxvi): “Si dimostra che il corpo di Cristo è della stessa natura del nostro, ma di gloria diversa, dopo la Resurrezione”.
+
+Risposta all’Obiezione 3: Come afferma Agostino nel “De Civitate Dei” XIII: “Dopo la Resurrezione, il nostro Salvatore, nella carne spirituale ma vera, mangiò con i discepoli; non per necessità di cibo, ma perché ciò era in suo potere”. Come dice infatti Beda riguardo a Luca 24:41: “La terra assetata assorbe l’acqua, e il raggio ardente del sole la assorbe anch’esso; la prima per necessità, il secondo per il proprio potere”. Pertanto, dopo la Resurrezione Egli mangiò “non perché avesse bisogno di cibo, ma per dimostrare la natura del suo corpo risorto”. E ciò non implica affatto che il Suo corpo fosse un corpo animale che ha bisogno di cibo.
 
 <span class="atom-split" data-atom="363" data-title="Whether Christ's body rose again entire?" data-chapter="Whether Christ's body rose again entire?" data-kind="atom" data-srclang="en"></span>
 
@@ -24221,6 +24989,25 @@ particles which belong to the truth and integrity of human nature. But the blood
 in some churches did not flow from Christ's side, but is said to have flowed from some maltreated
 image of Christ.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il corpo di Cristo non sia risorto intero. Infatti, carne e sangue fanno parte dell’integrità del corpo; ma sembra che Cristo non li abbia avuti entrambi, poiché è scritto (1 Corinzi 15:50): “La carne e il sangue non possono possedere il regno di Dio”. Tuttavia, Cristo risorse nella gloria del regno di Dio; pertanto sembra che non avesse carne né sangue.
+
+Obiezione 2: Inoltre, il sangue è uno dei quattro umori. Pertanto, se Cristo avesse avuto sangue, per lo stesso motivo avrebbe avuto anche gli altri umori, quegli stessi che causano la corruzione nei corpi animali. Ne conterrebbero che il corpo di Cristo fosse corruttibile, il che è inappropriato. Quindi Cristo non aveva carne né sangue.
+
+Obiezione 3: Inoltre, il corpo di Cristo risorse dalla morte e ascendette al cielo; tuttavia alcune parti del suo sangue vengono conservate come reliquie in varie chiese. Pertanto, il corpo di Cristo non risorse con l’integrità di tutte le sue parti.
+
+Al contrario, il nostro Signore disse (Lc. 24:39) rivolgendosi ai suoi discepoli dopo la Risurrezione:  
+“Lo spirito non ha carne e ossa, come voi vedete che io ne ho”.
+
+Rispondo che, come già detto sopra (A[2]), il corpo di Cristo nella Risurrezione era “della stessa natura, ma diverso per gloria”. Pertanto, tutto ciò che è caratteristico della natura del corpo umano era completamente presente nel corpo di Cristo al momento della sua risurrezione. È evidente infatti che carne, ossa, sangue e tutte le altre componenti del corpo umano fanno parte integrante della sua stessa natura; quindi, tutto ciò era presente nel corpo di Cristo dopo la Risurrezione, e in modo completo, senza alcuna diminuzione. Altrimenti non si potrebbe parlare di una vera risurrezione, se ciò che era andato perduto con la morte non fosse stato restituito. Ecco perché il nostro Signore assicurò i suoi fedeli dicendo (Matteo 10:30): “Anche i capelli della vostra testa sono tutti contati”; e (Luca 21:18): “Nessun capello della vostra testa andrà perduto”. Tuttavia, affermare che il corpo di Cristo non avesse carne, ossa né altre parti naturali del corpo umano equivale ad errare nel pensiero di Eutiche, vescovo di Costantinopoli, il quale sosteneva che “il nostro corpo nella gloria della risurrezione sarebbe impercettibile e più sottile dell’aria e del vento; e che il Signore, dopo aver rafforzato i cuori dei discepoli che Lo avevano toccato, avrebbe restituito loro tutto ciò che prima era stato possibile toccare in Lui” [*San Gregorio, Morali, in Giobbe 14:56]. San Gregorio condanna questa dottrina nello stesso libro, poiché il corpo di Cristo non cambiò affatto dopo la Risurrezione, secondo quanto si legge in Romani 6:9: “Cristo, risorto dai morti, non muore più”. Pertanto, lo stesso uomo che aveva espresso queste opinioni le ritrattò alla sua morte. Infatti, se fosse stato indecoroso per Cristo assumere un corpo di altra natura al momento della sua concezione – ad esempio uno celeste, come sosteneva Valentino – sarebbe ancora più indecoroso per Lui riprendere un corpo di altra natura dopo la Risurrezione. Poiché nella Risurrezione Cristo ritrovò il corpo che aveva assunto per una vita mortale, al fine di ottenere una vita eterna.
+
+Risposta all’Obiezione 1: La carne e il sangue non devono essere intesi nel senso della loro natura intrinseca, ma o in relazione al peccato che appartiene alla carne e al sangue, come afferma Gregorio (*San Gregorio, Morali, in Giobbe 14:56*), oppure in relazione alla loro corruzione; poiché, come dice Agostino (Ad Consent., De Resur. Carn.), “lì non ci sarà né corruzione né mortalità della carne e del sangue”. Pertanto, la carne, nella sua essenza originale, possiede il regno di Dio, secondo quanto si legge in Luca 24:39: “Lo spirito, infatti, non ha carne né ossa, come voi vedete che io ne ho”. Ma la carne, se intesa nel senso della sua corruzione, non lo possiederà; per questo motivo viene subito precisato nelle parole dell’Apostolo: “Né la corruzione potrà possedere ciò che è incorruttibile”.
+
+Risposta all’Obiezione 2: Come afferma Agostino nello stesso libro: “Forse, su questa questione, qualche critico più attento potrebbe obiettare: se nel corpo di Cristo, al momento della sua risurrezione, c’era il sangue, perché allora non anche il muco? O la bile gialla? O quella nera? Infatti, secondo le conoscenze mediche, il corpo umano è formato da questi quattro umori. Ma qualunque cosa si possa aggiungere in merito, sia bene fare attenzione a non introdurre elementi che possano corrompere la purezza e l’integrità della fede; poiché il potere divino è in grado di eliminare, secondo i suoi disegni, tali componenti dal corpo umano, permettendo che altri rimangano intatti, affinché non si verifichi alcuna contaminazione. Così, anche se quegli elementi esistono fisicamente nel corpo, essi non ne alterano la natura originale: ci può essere movimento senza stanchezza, capacità di mangiare senza il bisogno di cibo.”
+
+Risposta all’Obiezione 3: Tutta la sangue che fuoriuscì dal corpo di Cristo, essendo parte integrante dell’integrità della [natura umana](/axes/human_nature), tornò nuovamente nel Suo corpo dopo la sua risurrezione; lo stesso ragionamento vale per tutte le altre parti del corpo umano che rappresentano la verità e l’integrità di questa natura. Tuttavia, il sangue conservato come reliquia in alcune chiese non fuoriuscì dal corpo di Cristo, ma si dice sia proveniente da un’immagine di Cristo maltrattata.
+
 <span class="atom-split" data-atom="364" data-title="Whether Christ's body ought to have risen with its scars?" data-chapter="Whether Christ's body ought to have risen with its scars?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's body ought not to have risen with its scars. For it is
@@ -24282,6 +25069,24 @@ what fool would dare to say this, save he that denies the true resurrection of t
 it is evident that the scars which Christ showed on His body after His Resurrection, have never
 since been removed from His body.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il corpo di Cristo non dovrebbe essere risorto con le sue cicatrici. Infatti è scritto (1 Corinzi 15:52): “I morti risorgeranno incorrotti”. Ma le cicatrici e le ferite implicano corruzione e difetti. Pertanto non era appropriato che Cristo, l’autore della risurrezione, risorgesse di nuovo con delle cicatrici.
+
+Obiezione 2: Inoltre, il corpo di Cristo risorse intero, come detto sopra (A[3]). Tuttavia, le ferite aperte sono in contraddizione con l’integrità fisica, poiché interferiscono con la continuità dei tessuti. Pertanto non sembra appropriato che tali ferite rimanessero nel corpo di Cristo; anche se i segni delle ferite potrebbero essere visibili, il che soddisferebbe chi le osserva. Fu così che Tommaso credette, a lui fu detto infatti: “Poiché mi hai visto, Tommaso, hai creduto” (Giovanni 20:29).
+
+Obiezione 3: Inoltre, Damasceno afferma (De Fide Orth. iv) che “alcune cose vengono veramente dette di Cristo dopo la Risurrezione; queste cose Egli non le possedeva per natura, ma grazie a una dispensazione speciale, come ad esempio le cicatrici, al fine di dimostrare che fosse proprio il corpo che aveva sofferto a risorgere”. Ora, quando la causa scompare, anche l’effetto scompare. Pertanto, sembrerebbe che, una volta che i discepoli ebbero la certezza della Risurrezione, Cristo non avesse più quelle cicatrici. Ma sarebbe stato contrario all’immutabilità della Sua gloria assumere qualcosa che non dovesse rimanere in Lui per sempre. Di conseguenza, sembrerebbe che, al momento della Sua Risurrezione, Egli non avesse dovuto riprendere un corpo con cicatrici.
+
+Al contrario, il nostro Signore disse a Tommaso (Giovanni 20:27): “Metti qui il dito e vedi le mie mani; poi porta la tua mano e mettila nel mio fianco. Non essere incredulo, ma credi”.
+
+Rispondo che fu appropriato che l’anima di Cristo, al momento della Sua Resurrezione, riprendesse il corpo con le sue cicatrici. In primo luogo, per la gloria stessa di Cristo: Beda, infatti, a proposito di Luca 24:40, afferma che Egli conservò quelle cicatrici non per mancanza di capacità di guarirle, “ma per portarle come un trofeo eterno della Sua vittoria”. Per questo motivo, anche Agostino scrive nel De Civitate Dei xxii: “Forse in quel regno vedremo sui corpi dei Martiri le tracce delle ferite che hanno subito per il nome di Cristo; non saranno deformità, ma una sorta di dignità. E un certo tipo di bellezza risplenderà in loro, nel corpo stesso, sebbene non appartenga al corpo fisico”. In secondo luogo, per rafforzare nella fede i cuori dei discepoli riguardo alla Sua Resurrezione (Beda, sempre su Luca 24:40). In terzo luogo, “affinché, quando intercederà per noi presso il Padre, possa sempre mostrare il modo in cui è morto per noi” (Bede, ibidem). In quarto luogo, “per convincere coloro che sono stati redenti con il Suo sangue di quanto misericordiosamente siano stati aiutati, esponendo loro le tracce della stessa morte” (Beda, ibidem). Infine, “affinché, nel Giorno del Giudizio, possa rimproverarli per la loro condanna meritata” (Bede, ibidem). Come afferma Agostino nel De Symbolibus ii: “Cristo sapeva perché conservava quelle cicatrici sul proprio corpo. Poiché, come le mostrò a Tommaso che non voleva credere se non le toccando e vedendole con i propri occhi, così mostrerà le proprie ferite ai suoi nemici, affinché Colui che è la Verità possa condannarli dicendo: ‘Ecco l’uomo che avete crocifisso; guardate le ferite che gli avete inflitto; riconoscete il fianco che avete pugnalato, poiché fu aperto da voi e per voi. Eppure non voleste entrarvi’”.
+
+Risposta all’Obiezione 1: Le cicatrici rimaste nel corpo di Cristo non appartengono né alla corruzione né a qualche difetto, ma rappresentano invece un ulteriore aumento della Sua gloria, poiché costituiscono i trofei del Suo potere; inoltre, nei luoghi segnati da queste ferite apparirà una bellezza particolare.
+
+Risposta all’Obiezione 2: Sebbene tali aperture delle ferite interrompano la continuità del tessuto, la maggiore bellezza della gloria compensa tutto ciò; in questo modo il corpo non è affatto meno integro, ma anzi più perfezionato. Tuttavia, Tommaso non si limitò a osservare le ferite, ma le toccò personalmente, perché, come afferma Papa Leone [*Cfr. Append. Opp. August., Serm. clxii*]: “Per lui fu sufficiente la sua fede personale per aver visto ciò che aveva visto; ma fu per nostro conto che toccò ciò che aveva osservato.”
+
+Risposta all’Obiezione 3: Cristo volle che le cicatrici delle Sue ferite rimanessero sul Suo corpo, non solo per confermare la fede dei Suoi discepoli, ma anche per altri motivi. Da ciò si deduce che quelle cicatrici rimarranno sempre sul Suo corpo; infatti, come afferma Agostino (Ad Consent., De Resurr. Carn.): “Credo che il corpo del nostro Signore sia in cielo, esattamente com’era quando ascendette al cielo”. E Gregorio (Moralia, xiv) dice: “Se qualcosa potesse cambiare nel corpo di Cristo dopo la Sua Risurrezione, contrariamente all’insegnamento veritiero di Paolo, allora il Signore, dopo la Sua Risurrezione, sarebbe tornato alla morte; e quale sciocco oserebbe dire una cosa del genere, se non colui che nega la vera risurrezione della carne?”. Pertanto, è evidente che le cicatrici che Cristo mostrò sul Suo corpo dopo la Sua Risurrezione non sono mai state rimosse da Lui.
+
 <span class="atom-split" data-atom="365" data-title="OF THE MANIFESTATION OF THE RESURRECTION (SIX ARTICLES)" data-chapter="OF THE MANIFESTATION OF THE RESURRECTION (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the manifestation of the Resurrection: concerning which there are six
@@ -24293,6 +25098,16 @@ special individuals?
 (4) Whether it was fitting for Him to appeal to the disciples "in another shape"?
 (5) Whether He ought to have demonstrated the Resurrection by proofs?
 (6) Of the cogency of those proofs.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la manifestazione della Risurrezione: su questo argomento esistono sei punti di indagine:  
+(1) Se la Risurrezione di Cristo dovesse essere stata manifestata a tutti gli uomini o soltanto a alcuni individui specifici?  
+(2) Se fosse stato appropriato che Lui venisse visto risorgere?  
+(3) Se Dovesse aver vissuto con i discepoli dopo la Risurrezione?  
+(4) Se fosse stato opportuno che Lui si rivolgesse ai discepoli “in un’altra forma”?  
+(5) Se Dovesse aver dimostrato la propria Risurrezione attraverso prove concrete?  
+(6) Quanto siano convincenti tali prove.
 
 <span class="atom-split" data-atom="366" data-title="Whether Christ's Resurrection ought to have been manifested to all?" data-chapter="Whether Christ's Resurrection ought to have been manifested to all?" data-kind="atom" data-srclang="en"></span>
 
@@ -24404,6 +25219,24 @@ Resurrection ought not to be accomplished so as to be seen by man.
 Reply to Objection 3: Lazarus was raised so that he returned to the same life as before, which
 life is not beyond man's common ken. Consequently, there is no parity.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembri appropriato che i discepoli Lo avessero visto risorgere, poiché era loro compito testimoniare della Risurrezione, secondo Atti 4:33: “Con grande potenza gli apostoli diedero testimonianza della Risurrezione di Gesù Cristo nostro Signore”. Ma la prova più certa è quella fornita da un testimone oculare. Pertanto sarebbe stato appropriato che loro stessi assistessero alla vera e propria Risurrezione di Cristo.
+
+Obiezione 2: Inoltre, affinché potessero avere la certezza della fede, i discepoli dovettero vedere Cristo ascendere al cielo, come riportato in Atti 1:9: “Mentre lo guardavano, Egli fu elevato in cielo”. Ma era anche necessario che avessero fede nella Resurrezione. Pertanto, sembra che Cristo debba essere risorto davanti ai discepoli.
+
+Obiezione 3: Inoltre, la risurrezione di Lazzaro fu un segno della futura resurrezione di Cristo. Ma il Signore risuscitò Lazzaro davanti ai discepoli. Pertanto, sembrerebbe che anche Cristo dovesse essere risorto davanti ai discepoli.
+
+Al contrario, è scritto (Marco 16:9): “Il Signore, levandosi di buon’ora il primo giorno della settimana, apparve prima a Maria Maddalena”. Ora, Maria Maddalena non lo vide risorgere; ma mentre lo cercava nella tomba, udì dall’angelo: “È risorto, non è qui”. Pertanto, nessuno lo vide risorgere di nuovo.
+
+Rispondo che, come afferma l’Apostolo (Romani 13:1): “Quello che è di Dio, è ordinato secondo il volere divino”. L’ordine stabilito da Dio consiste nel fatto che ciò che va al di là della comprensione umana viene rivelato agli uomini dagli angeli, come dice Dionigi (Coel. Hier. iv). Tuttavia, dopo la sua risurrezione, Cristo non tornò alla vita quotidiana comune, ma assunse una condizione immortale e simile a quella di Dio, secondo Romani 6:10: “Poiché Egli vive, vive per Dio”. Pertanto, era appropriato che la risurrezione di Cristo non fosse testimoniata direttamente dagli uomini, ma annunciata loro dagli angeli. Come afferma Hilario nel suo commento al Vangelo secondo Matteo: “L’angelo è quindi il primo annunciatore della risurrezione, affinché essa possa essere proclamata in obbedienza alla volontà del Padre”.
+
+Risposta all’Obiezione 1: Gli apostoli furono in grado di testimoniare la Resurrezione anche attraverso la vista, poiché con i propri occhi videro Cristo vivo, mentre prima sapevano che fosse morto. Ma proprio come l’uomo passa dalla fede alla [visione beata](/positions/beatitude), così gli apostoli giunsero alla visione di Cristo risorto attraverso il messaggio già ricevuto dagli angeli.
+
+Risposta all’Obiezione 2: L’Ascensione di Cristo, per quanto riguarda il momento in cui avvenne, non era al di fuori della conoscenza comune degli uomini; tuttavia, per quanto riguarda il modo in cui avvenne, i discepoli non furono in grado di vederla. Infatti, essi non poterono osservare come Cristo fosse accolto in cielo. Al contrario, la Sua Resurrezione trascendeva la conoscenza comune: sia per quanto riguarda il momento in cui avvenne – poiché la Sua anima tornò dall’inferno e il Suo corpo dal sepolcro chiuso – sia per quanto riguarda il significato che essa aveva, poiché Cristo raggiunse la vita di gloria. Pertanto, la Resurrezione non doveva avvenire in modo tale da essere vista dagli uomini.
+
+Risposta all’Obiezione 3: Lazzaro fu risuscitato affinché tornasse alla stessa vita di prima, una vita che non è al di là della comprensione comune dell’uomo. Pertanto, non esiste alcuna equivalenza tra i due casi.
+
 <span class="atom-split" data-atom="368" data-title="Whether Christ ought to have lived constantly with His disciples after the Resurrection?" data-chapter="Whether Christ ought to have lived constantly with His disciples after the Resurrection?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ ought to have lived constantly with His Disciples,
@@ -24500,6 +25333,30 @@ understand this as applying to Him not in the form of a servant, but in that for
 to the Father, and which He has promised to them that love Him. Although He has gone before us
 in this sense, He has not abandoned us."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo avrebbe dovuto vivere costantemente con i Suoi Discepoli, poiché dopo la Sua Resurrezione si è manifestato loro per confermare la loro fede nella Risurrezione e per confortarli nel loro stato di turbamento, come dice Giovanni 20:20: “I discepoli furono molto felici quando videro il Signore”. Tuttavia, sarebbero stati ancora più certi e consolati se Lui avesse mostrato loro costantemente la Sua presenza. Pertanto, sembra che avrebbe dovuto vivere sempre con loro.
+
+Obiezione 2: Inoltre, la risurrezione di Cristo dalla morte non avvenne immediatamente, ma dopo quaranta giorni, come raccontato in Atti 1:3. Nel frattempo, non poteva trovarsi in luogo più adatto di quello dove i discepoli si riunivano. Pertanto, sembra che avrebbe dovuto vivere con loro continuamente.
+
+Obiezione 3: Inoltre, come afferma [Agostino](/figures/augustine) (De Consens. Evang. iii), leggiamo che Cristo apparve cinque volte nello stesso giorno della Sua Resurrezione: prima “alle donne presso la tomba; in secondo luogo alle stesse persone lungo il cammino di ritorno dalla tomba; in terzo luogo a Pietro; in quarto luogo ai due discepoli diretti in città; in quinto luogo a diversi di loro a Gerusalemme, quando Tommaso non era presente”. Pertanto sembra anche che Egli debba essere apparso più volte nei giorni precedenti l’Ascensione.
+
+Obiezione 4: Inoltre, il nostro Signore aveva detto loro prima della Passione (Matteo 26:32): “Ma dopo essere risorto, andrò avanti di voi in Galilea”; in più, un angelo e lo stesso Signore ripeterono la stessa cosa alle donne dopo la Resurrezione; tuttavia Egli fu visto da loro a Gerusalemme proprio il giorno della Resurrezione, come detto sopra (OBIEZIONE [3]); fu anche visto l’ottavo giorno, come leggiamo in Giovanni 20:26. Sembra quindi che, dopo la Resurrezione, Egli non abbia vissuto con i discepoli in modo appropriato.
+
+Al contrario, è scritto (Giovanni 20:26) che “dopo otto giorni” Cristo apparve ai discepoli. Pertanto, non visse costantemente con loro.
+
+Rispondo che, riguardo alla Resurrezione, era necessario che ai discepoli venissero manifestate due cose: la verità della Resurrezione stessa e la gloria di Colui che era risorto. Per dimostrare la verità della Resurrezione, Gli bastò apparire più volte davanti a loro, parlare con loro in modo familiare, mangiare e bere insieme a loro e permettere loro di toccarlo. Ma per manifestare la gloria di Cristo risorto, Egli non desiderava vivere costantemente con loro come aveva fatto prima, affinché non sembrasse che fosse tornato alla stessa vita di prima della Resurrezione. Per questo motivo (Lc 24:44) disse loro: “Queste sono le parole che vi ho detto quando ero ancora con voi”. Infatti, Egli era lì con loro attraverso la Sua presenza fisica; ma fino ad allora Era stato con loro non solo con la Sua presenza fisica, ma anche sotto forma umana. Per questo motivo Beda, spiegando quelle parole di Luca (“quando ero ancora con voi”), afferma: “cioè, mentre era ancora in carne mortale, nella quale anche voi esistete oggi; poiché allora Egli era risorto nella stessa carne, ma non si trovava più nello stesso stato di mortalità di prima”.
+
+Risposta all’Obiezione 1: Le frequenti apparizioni di Cristo servirono ad assicurare i discepoli della veridicità della Resurrezione; tuttavia, un contatto continuo avrebbe potuto farli credere che Egli fosse tornato a condurre la stessa vita di prima. Con la Sua presenza costante, invece, Egli promise loro consolazione nella vita futura, come si legge in Giovanni 16:22: “Vi rivedrò ancora, e il vostro cuore si rallegrerà; nessuno vi toglierà quella gioia”.
+
+Risposta all’Obiezione 2: Il fatto che Cristo non rimanesse costantemente con i discepoli non derivava dal fatto che ritenesse più opportuno trovarsi altrove, ma perché giudicò più conveniente, per l’insegnamento degli apostoli, non stare sempre con loro, per le ragioni già espresse. Tuttavia è del tutto sconosciuto in quali luoghi fosse fisicamente presente in quel periodo, poiché la [Scrittura](/concepts/revelation) tace al riguardo, e il suo dominio si estende ovunque (Cfr. Salmo 102:22).
+
+Risposta all’Obiezione 3: Apparve più spesso il primo giorno perché i discepoli dovevano essere convinti, attraverso molteplici prove, ad accettare la fede nella Sua Resurrezione fin dall’inizio; ma una volta che l’avevano accettata, non avevano più bisogno di ulteriori manifestazioni. Per questo motivo si legge nei Vangeli che, dopo il primo giorno, Egli apparve soltanto altre cinque volte. Come afferma Agostino (De Consensu Evangeliorum iii), dopo le prime cinque apparizioni “Egli tornò per la sesta volta quando Tommaso Lo vide; per la settima volta presso il lago di Tiberiade, durante la cattura dei pesci; per l’ottava volta sul monte della Galilea, secondo Matteo; la nona apparizione è descritta da Marco come ‘quando finalmente si sedettero a tavola’, poiché da quel momento in poi non avrebbero più mangiato con Lui sulla terra; la decima fu proprio il giorno in cui Egli, essendo già asceso al cielo tra le nuvole, non era più sulla terra”. Tuttavia, come ammette Giovanni, non tutte queste apparizioni furono raccontate nei Vangeli. Egli li visitò spesso prima di ascendere al cielo, per consolarli. Per questo motivo si legge nella Prima Lettera ai Corinzi (15:6-7) che “Egli fu visto da più di cinquecento fratelli contemporaneamente, dopo di ciò fu visto anche da Giacomo”; di queste apparizioni, però, non vi è alcuna menzione nei Vangeli.
+
+Risposta all’Obiezione 4: Crisostomo, spiegando Matteo 26:32, afferma: “Dopo essere risorto, andrò davanti a voi in Galilea”. Non si tratta di un viaggio verso una regione lontana per farsi vedere da loro, ma piuttosto di tornare tra il proprio popolo, nei luoghi dove avevano vissuto con Lui; “affinché credessero che Colui che era stato crocifisso fosse lo stesso che era risorto”. Per questo motivo disse che sarebbe andato in Galilea, “per liberarli dalla paura dei Giudei”.  
+Come afferma Ambrogio nell’Esposizione di Luca: “Il Signore aveva detto ai discepoli che lo avrebbero visto in Galilea; tuttavia si manifestò loro per la prima volta quando erano riuniti, spinti dal timore. Non si tratta affatto di una mancata promessa, ma piuttosto di un’accelerazione nel suo adempimento, dovuta alla sua bontà” (*Cfr. Catena Aurea in Luca xxiv, 36*): “In seguito, quando il loro spirito fu rincuorato, andarono effettivamente in Galilea”. Non c’è motivo di dubitare che nella stanza ci fossero poche persone, mentre molte altre si trovavano sulla montagna. Come afferma Eusebio (*De Caesarea*, Cfr. Migne, P.G., xxii, 1003): “Due evangelisti, Luca e Giovanni, scrivono che Egli si manifestò solo agli undici discepoli a Gerusalemme; gli altri due invece dicono che un angelo e il nostro Salvatore ordinarono non solo agli undici, ma a tutti i discepoli di andare in Galilea. Paolo menziona questo fatto nel 1 Corinzi 15:6: ‘In seguito si manifestò contemporaneamente a più di cinquecento fratelli’”.  
+La spiegazione più corretta è che, mentre si nascondevano a Gerusalemme, Egli si manifestò loro per primo al fine di confortarli; in Galilea, invece, non si fece conoscere segretamente, né una sola volta, ma più volte con grande potenza, “mostrandosi vivo dopo la sua Passione, attraverso molte prove”, come dice Luca negli Atti degli Apostoli 1:3. O come scrive Agostino nel *De Consensu Evangeliorum* iii: “Quello che l’angelo e il Signore dissero – che Egli ‘andrebbe davanti a loro in Galilea’ – deve essere inteso in senso profetico. Se interpretiamo Galilea come un ‘passaggio’, dobbiamo intendere che i discepoli stavano per passare dal popolo di Israele ai Gentili, i quali non avrebbero creduto alle prediche degli apostoli se Egli non avesse preparato il loro cuore ad accoglierle; e questo è ciò che significano le parole ‘andrà davanti a voi in Galilea’. Ma se interpretiamo Galilea come una ‘rivelazione’, dobbiamo intendere che si riferisce al modo in cui Egli si manifestò non come servo, ma nella forma in cui è uguale al Padre, e che ha promesso loro attraverso l’amore. Anche se Egli ci ha preceduti in questo senso, non ci ha mai abbandonati”.
+
 <span class="atom-split" data-atom="369" data-title="Whether Christ should have appeared to the disciples \&quot;in another shape\&quot;?" data-chapter="Whether Christ should have appeared to the disciples \&quot;in another shape\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether Christ should have appeared to the disciples "in another shape"?
@@ -24563,6 +25420,26 @@ recognized." Hence he goes on to say that "'their eyes were opened, and they kne
 they were hitherto walking with their eyes shut; but there was something in them whereby they
 were not permitted to recognize what they saw. This could be caused by the darkness or by some
 kind of humor."
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Doveva forse Cristo apparire ai discepoli “in un’altra forma”?
+
+Obiezione 1: Sembra che Cristo non dovrebbe essere apparso ai discepoli “in un’altra forma”. Infatti, nulla può realmente apparire diverso da ciò che è. Ma in Cristo esisteva soltanto una forma. Pertanto, se fosse apparso sotto un’altra forma, si sarebbe trattato di un’apparizione falsa, non vera. Ora, questo non è affatto appropriato, poiché, come afferma [Agostino](/figures/augustine) (QQ. lxxxiii, qu. 14): “Se inganna, allora non è la Verità; eppure Cristo è la Verità”. Pertanto, sembra che Cristo non dovrebbe essere apparso ai discepoli “in un’altra forma”.
+
+Obiezione 2: Inoltre, nulla può apparire sotto una forma diversa da quella che realmente possiede, a meno che gli occhi di chi osserva non siano soggetti ad illusioni. Ma poiché tali illusioni sono causate da arti magiche, esse sono incompatibili con Cristo, come si legge in (2 Corinzi 6:15): “Che concordia c’è tra Cristo e Belial?” Pertanto, sembra che Cristo non dovrebbe essere apparso sotto un’altra forma.
+
+Obiezione 3: Inoltre, proprio come la nostra fede riceve la sua certezza dalla [Scrittura](/concepts/revelation), così anche i discepoli ebbero la conferma della loro fede nella Resurrezione grazie all’apparizione di Cristo davanti a loro. Tuttavia, come afferma Agostino in una Lettera a Geromeo (xxviii), se anche solo una menzogna venisse ammessa nella Sacra Scrittura, l’autorità stessa della Scrittura ne risulterebbe indebolita. Pertanto, se Cristo fosse apparso ai discepoli in un’immagine diversa da quella che realmente era, ciò che videro in Lui dopo la Resurrezione avrebbe minor importanza, il che non è conforme alla verità. Quindi, Cristo non avrebbe dovuto apparire sotto un’altra forma.
+
+Al contrario, è scritto (Marco 16:12): “Dopo ciò, si manifestò sotto un’altra forma a due di loro che stavano andando nel campo”.
+
+Rispondo che, come già detto sopra (AA[1],2), la Resurrezione di Cristo doveva manifestarsi agli uomini nello stesso modo in cui le cose divine vengono rivelate. Tuttavia, le cose divine vengono rivelate agli uomini in modi diversi, a seconda della disposizione mentale delle persone che le ricevono. Coloro la cui mente è ben disposta comprendono correttamente le verità divine, mentre coloro la cui mente non lo è le percepiscono con incertezza o errore; “infatti, gli uomini sensuali non riescono a comprendere quelle cose che appartengono allo Spirito di Dio”, come si legge in 1 Corinzi 2:14. Pertanto, dopo la sua Resurrezione, Cristo apparve nella propria forma a coloro che erano disposti a credere, mentre apparve in un’altra forma a coloro i cui sentimenti di fede cominciavano ad indebolirsi; da qui il detto dei discepoli (Luca 24:21): “Speravamo fosse Lui colui che avrebbe redento Israele”. Gregorio d’Origo, nell’Homilia xxiii sull’Evangelo, afferma che “si manifestò loro con un corpo tale come quello che aveva nella loro mente; poiché ancora non erano disposti a credere in Lui, fingeva di andare oltre”, cioè di essere ancora uno straniero per loro.
+
+Risposta all’Obiezione 1: Come afferma Agostino (De Qq. Evang. ii), “non tutto ciò di cui facciamo finta non è una menzogna; ma quando ciò di cui facciamo finta non ha alcun significato, allora si tratta effettivamente di una menzogna. Tuttavia, quando tale affermazione ha un certo significato, essa non è una bugia, bensì una figura della verità; altrimenti, tutto ciò che gli uomini saggi e santi, o addirittura il nostro Signore stesso, dicono in modo figurato verrebbe considerato una menzogna, poiché non è consuetudine interpretare tali espressioni in senso letterale. E anche le azioni, come le parole, vengono spesso presentate in modo figurato, senza che ciò costituisca una menzogna, al fine di indicare qualcos’altro”. Ed è proprio ciò che è accaduto in questo caso, come già detto.
+
+Risposta all’Obiezione 2: Come afferma Agostino nel “De Consensu Evangeliorum” III, “Nostro Signore avrebbe potuto cambiare la Sua carne in modo che la Sua forma fosse davvero diversa da quella che erano abituati a vedere; infatti, prima della Sua Passione, si era trasfigurato sulla montagna, e il Suo volto brillava come il sole. Ma questa volta non accadde”. Non senza motivo consideriamo che questo “ostacolo” nei loro occhi sia stato causato da Satana, affinché Gesù non venisse riconosciuto. Per questo motivo Luca scrive (24:16) che “i loro occhi furono tenuti chiusi, affinché non Lo riconoscessero”.
+
+Risposta all’Obiezione 3: Un simile argomento dimostrerebbe, se non fossero stati riportati dal vedere una forma strana a quella del vero volto di Cristo, che tale visione era effettivamente possibile. Infatti, come afferma Agostino nel “De Consensu Evangeliorum” III: “Il permesso fu concesso da Cristo stesso”, cioè che i loro occhi fossero tenuti fissi in quel modo fino al momento del [Sacramento dell’Eucaristia]; affinché, una volta partecipati all’unione del Suo corpo, l’ostacolo posto dal nemico venisse rimosso e Cristo potesse essere riconosciuto. Agostino prosegue quindi dicendo: “‘I loro occhi furono aperti e Lo riconobbero’; non perché prima camminassero con gli occhi chiusi, ma perché in loro esisteva qualcosa che impediva loro di riconoscere ciò che vedevano. Ciò poteva essere causato dall’oscurità o da qualche particolare condizione fisica.”
 
 <span class="atom-split" data-atom="370" data-title="Whether Christ should have demonstrated the truth of His Resurrection by proofs?" data-chapter="Whether Christ should have demonstrated the truth of His Resurrection by proofs?" data-kind="atom" data-srclang="en"></span>
 
@@ -24628,7 +25505,26 @@ does not require such helps for belief. Hence, to put to shame the faith of some
 who are so ready to believe God, even without beholding signs, are blessed in comparison with
 them who do not believe except they see the like.
 
-<span class="atom-split" data-atom="371" data-title="Whether the proofs which Christ made use of manifested sufficiently the truth of His Resurrection? (1/2)" data-chapter="Whether the proofs which Christ made use of manifested sufficiently the truth of His Resurrection?" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo non avrebbe dovuto dimostrare la veridicità della Sua Risurrezione attraverso prove. Infatti Ambrogio afferma (De Fide, ad Gratianum, i): “Non ci devono essere prove laddove è richiesta fede”. Ma per quanto riguarda la Risurrezione, la fede è effettivamente necessaria. Pertanto, le prove in questo caso sarebbero fuori luogo.
+
+Obiezione 2: Inoltre, Gregorio afferma (Hom. xxvi): “La fede non possiede alcun merito quando la ragione umana fornisce il criterio per giudicarla”. Tuttavia, non faceva parte del compito di Cristo annullare il valore del merito della fede; pertanto, non spettava a Lui confermare la Resurrezione attraverso prove.
+
+Obiezione 3: Inoltre, Cristo è venuto nel mondo affinché gli uomini potessero raggiungere la [beatazza](/positions/beatitude) attraverso Lui, secondo Giovanni 10:10: “Sono venuto perché abbiano vita, e abbiano vita in abbondanza”. Tuttavia, fornire prove sembra rappresentare un ostacolo sul cammino verso la beatitudine umana; infatti, il nostro Signore stesso ha detto (Giovanni 20:29): “Beati quelli che non hanno visto e hanno creduto”. Pertanto, sembrerebbe che Cristo non dovesse manifestare la Sua Resurrezione attraverso alcuna prova.
+
+Al contrario, come riportato negli Atti degli Apostoli 1:3, Cristo apparve ai suoi discepoli “per quaranta giorni, dimostrando loro con molte prove l’esistenza del Regno di Dio”.
+
+Rispondo che il termine “prova” può avere due significati diversi: a volte viene utilizzato per indicare qualsiasi tipo di ragionamento che confermi ciò che è oggetto di dubbio (*Tully, Topic. ii*); altre volte indica un segno evidente che serve a dimostrare la verità; anche [Aristotele](/figures/aristotle) utilizza talvolta questo termine nelle sue opere [*Cfr. Prior. Anal. ii; Rhetor. i*]. Se si intende “prova” nel primo senso, Cristo non ha dimostrato la propria Resurrezione ai discepoli attraverso argomentazioni logiche, poiché tali prove avrebbero dovuto basarsi su principi noti ai discepoli stessi; se questi principi non fossero stati conosciuti, nulla sarebbe stato dimostrato, poiché nulla può essere conosciuto dall’ignoto. Inoltre, anche se tali principi fossero stati noti, non avrebbero superato i limiti della ragione umana e quindi non sarebbero stati efficaci nel far nascere la fede nella Resurrezione, che trascende la ragione umana. Cristo ha invece dimostrato la verità della propria Resurrezione attraverso l’autorità delle Sacre Scritture, quando ha detto: “È necessario che si compiano tutte le cose scritte nella Legge, nei Profeti e nei Salmi riguardo a Me” (*Luca 24:44*).  
+Se invece si intende “prova” nel secondo senso, allora si può dire che Cristo abbia dimostrato la propria Resurrezione attraverso segni evidenti; infatti ha mostrato in modo inequivocabile di essere veramente risorto. Per questo motivo, nella nostra traduzione si legge “attraverso molte prove”, mentre il testo greco utilizza il termine {tekmerion}, cioè “un segno evidente che fornisce una prova concreta” (*Cfr. Prior. Anal. ii*). Cristo ha mostrato questi segni ai suoi discepoli per due motivi: innanzitutto, perché i loro cuori non erano predisposti ad accettare facilmente la fede nella Resurrezione; per questo stesso motivo egli li rimproverò per la loro incredulità (*Luca 24:25*; *Marco 16:14*). In secondo luogo, affinché il loro testimonianza potesse risultare più efficace attraverso questi segni, come affermato in 1 Giovanni 1:1-3: “Quello che abbiamo visto, e abbiamo udito, e le nostre mani hanno toccato, lo annunciamo”.
+
+Risposta all’Obiezione 1: Ambrogio si riferisce lì a prove derivate dalla ragione umana, le quali risultano inutili per dimostrare le verità della fede, come è stato mostrato sopra.
+
+Risposta all’Obiezione 2: Il merito della fede deriva dal fatto che, per volontà di Dio, l’uomo crede in ciò che non vede. Pertanto, è soltanto quel tipo di ragionamento che impedisce di riconoscere il merito della fede – ovvero quello che permette di comprendere con la conoscenza ciò che viene proposto alla credenza – ad essere considerato valido per dimostrare tale merito; e questo è un argomento dimostrativo. Tuttavia, Cristo non ha fatto uso di alcun simile argomento per dimostrare la Sua Resurrezione.
+
+Risposta all’Obiezione 3: Come già detto (ad 2), il merito della beatitudine, che deriva dalla fede, non viene del tutto escluso, a meno che una persona si rifiuti di credere soltanto in ciò che può vedere. Tuttavia, il fatto che una persona creda, sulla base di segni visibili, in cose che non vede, non la priva completamente né della fede né del merito derivante da essa: proprio come Tommaso, a cui fu detto (Giovanni 20:29): “‘Poiché mi hai visto, Tommaso, hai creduto’”; egli vide qualcosa e credeva in qualcos’altro. Le ferite erano ciò che vedeva, ma Dio era l’oggetto della sua fede. Tuttavia, la fede più perfetta è quella che non ha bisogno di tali aiuti per credere. Pertanto, per umiliare la fede di alcuni uomini, il nostro Signore disse (Giovanni 4:48): “Se non vedete segni e miracoli, non crederete”. Da ciò si può comprendere quanto siano beati coloro che sono così disposti a credere in Dio, anche senza vedere alcun segno, rispetto a coloro che non credono se non vedono cose simili.
+
+<span class="atom-split" data-atom="371" data-title="Whether the proofs which Christ made use of manifested sufficiently the truth of His Resurrection? (parte 1)" data-chapter="Whether the proofs which Christ made use of manifested sufficiently the truth of His Resurrection?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the proofs which Christ made use of did not sufficiently
 manifest the truth of His Resurrection. For after the Resurrection Christ showed nothing to His
@@ -24725,7 +25621,7 @@ in Evang.): "The Lord manifested two wonders, which are mutually contrary accord
 reason, when after the Resurrection He showed His body as incorruptible and at the same time
 palpable."
 
-<span class="atom-split" data-atom="372" data-title="Whether the proofs which Christ made use of manifested sufficiently the truth of His Resurrection? (2/2)" data-chapter="Whether the proofs which Christ made use of manifested sufficiently the truth of His Resurrection?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="372" data-title="Whether the proofs which Christ made use of manifested sufficiently the truth of His Resurrection? (parte 2)" data-chapter="Whether the proofs which Christ made use of manifested sufficiently the truth of His Resurrection?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: As [Augustine](/figures/augustine) says (Tract. cxxi super Joan.), "these words of our Lord,
 'Do not touch Me, for I am not yet ascended to My Father,'" show "that in that woman there is a
@@ -24766,12 +25662,26 @@ that this is Mark's expression---'sitting on the right side'; afterwards when th
 where the Lord's body had lain, they beheld two angels, who were at first seated, as John says, and
 who afterwards rose so as to be seen standing, as Luke relates."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 3: Come afferma [Agostino](/figures/augustine) (Trattato cxxi super Ioanna), “queste parole del nostro Signore, ‘Non mi toccare, poiché non sono ancora salito al Padre’, dimostrano che in quella donna vi è un’immagine della Chiesa dei Gentili, la quale non credeva in Cristo fino a quando Egli non fu asceso al Padre. Altrimenti Gesù avrebbe voluto che le persone Lo credessero, cioè lo toccassero spiritualmente, poiché Egli stesso era uno con il Padre. Perché per le percezioni più intime di quell’uomo, in un certo senso, Egli era già salito al Padre, il quale aveva raggiunto una tale comprensione di Lui da riconoscerLo come ugual al Padre. Mentre lei, invece, Lo credeva ancora in modo carnale, poiché Piangeva per Lui come se fosse un uomo comune”. Tuttavia, quando si legge altrove che Maria Lo toccò, o che insieme alle altre donne “si avvicinò e gli prese i piedi”, ciò ha poca importanza, come afferma Severiano nel *Chrysologus*, Sermone lxxvi: “Il primo atto riguarda un simbolo, il secondo la natura umana; il primo è frutto della grazia divina, il secondo della natura umana”. O come dice Crisostomo nell’Homilia lxxxvi in Ioanna: “Questa donna voleva comunicare con Cristo proprio come prima della Passione, e per gioia non pensava a nulla di grande, anche se la carne di Cristo era diventata molto più nobile dopo la Sua risurrezione”. E per questo Egli disse: “Non sono ancora salito al Padre”; come per dire: “Non pensate che io conduca una vita terrena; se Mi vedete sulla terra, è perché non sono ancora salito al Padre, ma presto lo farò”. Da qui deriva anche la frase successiva: “Salgo al Padre mio e a vostro Padre”.
+
+Risposta all’Obiezione 4: Come afferma Agostino in dialogo con Orosio (Dial. lxv, Qq.): “Nostro Signore risorse in carne glorificata; tuttavia non volle apparire davanti ai discepoli in quella condizione di splendore, poiché i loro occhi non avrebbero potuto sopportarne la luce intensa. Se infatti, prima di morire per noi e risorgere, i discepoli non riuscivano a guardarlo quando era trasfigurato sulla montagna, quanto meno erano in grado di contemplarlo dopo che la sua carne era stata glorificata.” È anche importante ricordare che, dopo la Resurrezione, Nostro Signore volle soprattutto dimostrare di essere lo stesso di prima della morte; qualcosa che l’esibizione del suo splendore avrebbe ostacolato notevolmente: infatti, i cambiamenti nei tratti del viso evidenziano in modo particolare la diversità della persona osservata, e questo perché la vista giudica soprattutto gli elementi dei sensi fisici, tra cui ciò che è uno e molteplice, o lo stesso e diverso. Ma prima della Passione, affinché i discepoli non disprezzassero la debolezza del corpo umano, Cristo volle mostrar loro la gloria della sua maestà; e questo fu possibile grazie alla luminosità del suo corpo. Pertanto, prima della Passione mostrò ai discepoli la sua gloria attraverso il suo splendore fisico, mentre dopo la Resurrezione lo fece con altri segni.
+
+Risposta all’Obiezione 5: Come afferma Agostino nel “De Consensu Evangeliorum” III, “Possiamo comprendere che un angelo sia stato visto dalle donne, secondo sia Matteo che Marco, se consideriamo che essi siano entrati nella tomba, cioè in una sorta di recinto murato, e che lì abbiano visto un angelo seduto sulla pietra che era stata spostata dal sepolcro, come dice Matteo; questa descrizione corrisponde anche all’espressione di Marco: ‘seduto sul lato destro’; in seguito, quando esaminarono il luogo dove giaceva il corpo del Signore, videro due angeli che, secondo Giovanni, erano inizialmente seduti e che poi si alzarono, rendendosi visibili in piedi, come racconta Luca”.
+
 <span class="atom-split" data-atom="373" data-title="OF THE CAUSALITY OF CHRIST'S RESURRECTION (TWO ARTICLES)" data-chapter="OF THE CAUSALITY OF CHRIST'S RESURRECTION (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the causality of Christ's Resurrection, concerning which there are
 two points of inquiry:
 (1) Whether Christ's Resurrection is the cause of our resurrection?
 (2) Whether it is the cause of our justification?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora esaminare la causalità della Risurrezione di Cristo, riguardo alla quale vi sono due aspetti da considerare:  
+(1) Se la Risurrezione di Cristo sia la causa della nostra risurrezione;  
+(2) Se essa sia la causa della nostra giustificazione.
 
 <span class="atom-split" data-atom="374" data-title="Whether Christ's Resurrection is the cause of the resurrection of our bodies?" data-chapter="Whether Christ's Resurrection is the cause of the resurrection of our bodies?" data-kind="atom" data-srclang="en"></span>
 
@@ -24865,6 +25775,28 @@ withdrew from mortal life---is the cause of the destruction of our death; while 
 whereby He inaugurated immortal life, is the cause of the repairing of our life. But Christ's Passion
 is furthermore a meritorious cause, as stated above (Q[48], A[1]).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la Resurrezione di Cristo non sia la causa della risurrezione dei nostri corpi, poiché, data una causa sufficiente, l’effetto deve necessariamente seguire. Se quindi la Resurrezione di Cristo fosse la causa sufficiente della risurrezione dei nostri corpi, allora tutti i morti dovrebbero essere risorti immediatamente dopo la sua risurrezione.
+
+Obiezione 2: Inoltre, la giustizia divina è la causa della risurrezione dei morti, affinché il corpo possa essere premiato o punito insieme all’anima, poiché entrambi hanno condiviso meriti o peccati, come affermano Dionigi (Eccles. Hier. vii) e Damasceno (De Fide Orth. iv). Ma la giustizia di Dio deve necessariamente essere realizzata, anche se Cristo non fosse risorto. Pertanto, i morti risorirebbero comunque, anche senza la risurrezione di Cristo. Di conseguenza, la Risurrezione di Cristo non è la causa della risurrezione dei nostri corpi.
+
+Obiezione 3: Inoltre, se la Risurrezione di Cristo fosse la causa della risurrezione dei nostri corpi, essa sarebbe o una causa esemplare, o efficiente, o meritoria. Ora, non è una causa esemplare; poiché è Dio stesso a realizzare la risurrezione dei nostri corpi, secondo Giovanni 5:21: “Il Padre risuscita i morti”; e Dio non ha bisogno di ricorrere a alcuna causa esemplare al di fuori di Sé. Né può essere considerata una causa efficiente; poiché una causa efficiente agisce soltanto attraverso un contatto, sia spirituale che corporeo. Ora è evidente che la Risurrezione di Cristo non ha alcun contatto corporeo con i morti che risorgeranno, a causa della distanza temporale e spaziale; né ha alcun contatto spirituale, poiché anche gli increduli e i peccatori risorgeranno. Inoltre, non può essere considerata una causa meritoria; poiché quando Cristo risorse, non era più un viandante nel cammino della salvezza, e quindi non si trovava in uno stato di merito. Pertanto, la Risurrezione di Cristo non sembra affatto essere la causa della nostra risurrezione.
+
+Obiezione 4: Inoltre, poiché la morte è la privazione della vita, distruggere la morte sembrerebbe equivalere a riportare la vita indietro; e questo è proprio il significato della risurrezione. Ma “morendo, Cristo ha distrutto la nostra morte” [*Prefazione della Messa nel Tempo Pasquale*]. Pertanto, è la morte di Cristo, e non la Sua risurrezione, a essere la causa della nostra risurrezione.
+
+Al contrario, in 1 Corinzi 15:12 si legge: “Se ora viene predicato che Cristo è risorto dai morti”, e la glossa afferma: “Chi è la causa effettiva della nostra resurrezione?”.
+
+Rispondo che, come affermato nel Secondo Libro della Metafisica, testo 4: “Quello che è primo in qualsiasi ordine è la causa di tutto ciò che segue dopo di esso”. Ma la Resurrezione di Cristo fu il primo evento nell’ordine delle nostre resurrezioni, come risulta evidente da quanto detto sopra (Q[53], A[3]). Pertanto, la Resurrezione di Cristo deve essere considerata la causa della nostra: ed è proprio ciò che afferma l’Apostolo (1 Corinzi 15:20-21): “Cristo è risorto dai morti; egli è il primo frutto di coloro che dormono. Poiché dalla morte è venuta la morte, e dalla morte viene la resurrezione dei morti”. E questo è del tutto logico. Poiché il principio della vita umana è la Parola di Dio, di cui si dice (Salmo 35:10): “Con Te è la sorgente della vita”; quindi Egli stesso dichiara (Giovanni 5:21): “Come il Padre risuscita i morti e dona la vita, così anche il Figlio dona la vita a chi vuole”. Ora, l’ordine naturale stabilito da Dio è tale che ogni causa agisce prima su ciò che le è più vicino, e attraverso di esso su ciò che è più lontano; proprio come il fuoco riscalda prima l’aria più vicina e poi i corpi più distanti: e Dio stesso illumina prima quelle sostanze che Gli sono più prossime, e attraverso di esse altre più lontane, come afferma Dionigi di Atene (Coel. Hier. xiii). Pertanto, la Parola di Dio dona per prima cosa la vita immortale a quel corpo che è naturalmente unito a Lui, e attraverso di esso realizza la resurrezione in tutti gli altri corpi.
+
+Risposta all’Obiezione 1: Come è stato detto sopra, la Risurrezione di Cristo è la causa della nostra salvezza grazie al potere della Parola unificata, che agisce secondo la Sua volontà. Pertanto, non è necessario che l’effetto si manifesti immediatamente, ma avviene secondo quanto disporre la Parola di Dio: innanzitutto, dobbiamo conformarci alle sofferenze e alla morte di Cristo in questa vita di dolore e mortalità; successivamente, potremo partecipare alla Sua Risurrezione.
+
+Risposta all’Obiezione 2: La giustizia di Dio è la causa principale della nostra risurrezione, mentre la risurrezione di Cristo ne è la causa secondaria, per così dire strumentale. Tuttavia, sebbene il potere della causa principale non sia limitato a uno specifico mezzo, poiché agisce attraverso di esso, tale mezzo diventa effettivamente lo strumento che produce l’effetto desiderato. Pertanto, la giustizia divina in sé non è vincolata alla risurrezione di Cristo come mezzo per realizzare la nostra risurrezione: Dio avrebbe potuto liberarci in altri modi, diversi dalla Passione e dalla Risurrezione di Cristo, come già detto (Q[46], A[2]). Ma poiché ha deciso di liberarci proprio in questo modo, è evidente che la risurrezione di Cristo sia effettivamente la causa della nostra risurrezione.
+
+Risposta all’Obiezione 3: In senso proprio, la Risurrezione di Cristo non è la causa meritoria della nostra risurrezione, ma la sua causa efficiente ed esemplare. È la causa efficiente perché l’umanità di Cristo, grazie alla quale Egli risorse, può essere considerata lo strumento della Sua divinità, e agisce per mezzo del potere di questa divinità, come già detto in precedenza (Q[13], AA[2],3). Pertanto, proprio come tutte le altre cose che Cristo fece e sopportò nella sua umanità sono utili alla nostra salvezza grazie al potere della divinità, così anche la Risurrezione di Cristo è la causa efficiente della nostra risurrezione, attraverso il potere divino che ha il compito di resuscitare i morti; questo potere, con la sua presenza, è presente in tutti i luoghi e in tutti i tempi, e tale contatto sufficiente per garantire la sua efficacia. Poiché, come già detto in precedenza (ad 2), la causa principale della risurrezione umana è la giustizia divina, da cui Cristo ha “il potere di giudicare, poiché Egli è il Figlio dell’Uomo” (Giovanni 5:27); il potere effettivo della Sua Risurrezione si estende sia ai buoni che ai cattivi, soggetti al suo giudizio. Ma proprio come la risurrezione del corpo di Cristo, per via della sua unione personale con la Parola, è primaria in termini di tempo, così lo è anche in termini di dignità e perfezione; come afferma il commento su 1 Corinzi 15:20,23. Tuttavia, ciò che è più perfetto è sempre un esempio da seguire; quindi la Risurrezione di Cristo è l’esempio della nostra risurrezione. E questo è necessario non per Colui che si è risuscitato, poiché Egli non ha bisogno di un esempio, ma per coloro che saranno risuscitati, i quali devono essere conformi a quella Risurrezione, secondo Filippi 3:21: “Lui riformerà il corpo della nostra debolezza, rendendolo simile al corpo della Sua gloria”. Sebbene l’efficacia della Risurrezione di Cristo si estenda sia ai buoni che ai cattivi, la sua funzione esemplare riguarda soltanto i giusti, i quali vengono resi conformi alla Sua divinità, secondo Romani 8:29.
+
+Risposta all’Obiezione 4: Se considerate in termini di efficacia, che dipende dal Potere Divino, sia la morte che la risurrezione di Cristo sono la causa sia della distruzione della morte che del rinnovamento della vita; tuttavia, se viste come cause esemplari, la morte di Cristo – con cui egli si allontanò dalla vita mortale – è la causa della distruzione della nostra morte; mentre la sua risurrezione, con cui inaugurò la vita immortale, è la causa del ripristino della nostra vita. Inoltre, la Passione di Cristo rappresenta anche una causa meritoria, come già detto sopra (Q[48], A[1]).
+
 <span class="atom-split" data-atom="375" data-title="Whether Christ's Resurrection is the cause of the resurrection of souls?" data-chapter="Whether Christ's Resurrection is the cause of the resurrection of souls?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's Resurrection is not the cause of the resurrection of
@@ -24925,6 +25857,28 @@ cause of newness of life, which comes through grace or justice: consequently, th
 rose again for our justification." But Christ's Passion was also a meritorious cause, as stated above
 (A[1], ad 4; Q[48], A[1]).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la Risurrezione di Cristo non sia la causa della risurrezione delle anime, poiché [Agostino](/figures/augustine) afferma (Trattato xxiii super Joan.) che “i corpi risorgono per grazia della sua umanità, ma le anime risorgono per la Sostanza di Dio”. Tuttavia, la Risurrezione di Cristo appartiene alla grazia della sua umanità, non alla Sostanza di Dio. Pertanto, sebbene la Risurrezione di Cristo sia la causa della risurrezione dei corpi, non sembra essere la causa della risurrezione delle anime.
+
+Obiezione 2: Inoltre, un corpo non agisce su uno spirito. Ma la Risurrezione appartiene al Suo corpo, che la morte aveva abbattuto. Pertanto, la Sua Risurrezione non può essere considerata la causa della risurrezione delle anime.
+
+Obiezione 3: Inoltre, poiché la Risurrezione di Cristo è la causa per cui i corpi risorgono, allora i corpi di tutti gli uomini risorgeranno, secondo 1 Corinzi 15:51: “Tutti noi infatti risorgeremo”. Ma le anime di tutti non risorgeranno, perché secondo Matteo 25:46: “Alcuni andranno in eterna punizione”. Pertanto, la Risurrezione di Cristo non è la causa della risurrezione delle anime.
+
+Obiezione 4: Inoltre, la risurrezione delle anime deriva dal perdono dei peccati. Ma questo fu realizzato attraverso la Passione di Cristo, secondo l’Apocalisse 1:5: “Ci ha lavato dai nostri peccati con il suo stesso sangue”. Pertanto, la Passione di Cristo è ancora più della sua Risurrezione la causa della risurrezione delle anime.
+
+Al contrario, l’Apostolo afferma (Romani 4:25): “È risorto per la nostra giustificazione”, il che non è altro che la risurrezione delle anime; e riguardo al Salmo 29:6, la glossa spiega: “Nel tramonto avverranno pianti”, cioè “la Risurrezione di Cristo è la causa della nostra salvezza, sia per l’anima nel presente che per il corpo in futuro”.
+
+Rispondo che, come detto sopra, la Resurrezione di Cristo agisce in virtù della Sua divinità; ora questa virtù si estende non solo alla risurrezione dei corpi, ma anche a quella delle anime: poiché è Dio stesso che fa sì che l’anima viva per grazia e che il corpo viva attraverso l’anima. Pertanto, la Resurrezione di Cristo possiede un potere efficace non solo riguardo alla risurrezione dei corpi, ma anche riguardo a quella delle anime. Inoltre, essa rappresenta un esempio da seguire per la risurrezione delle anime, poiché anche nelle nostre anime dobbiamo conformarci a Cristo risorto: come dice l’Apostolo (Romani 6:4-11) “Cristo è risorto dai morti per la gloria del Padre, affinché anche noi possiamo camminare in una nuova vita”; e poiché Lui, essendo risorto dai morti, non muore più, consideriamoci noi morti al peccato, affinché possiamo “vivere insieme a Lui”.
+
+Risposta all’Obiezione 1: Agostino afferma che la risurrezione delle anime avviene per mezzo della Sostanza Divina; quanto alla partecipazione, le anime diventano buone e giuste attraverso la condivisione della bontà divina, ma non attraverso la condivisione di alcunché creato. Pertanto, dopo aver detto che le anime risorgono per mezzo della Sostanza Divina, aggiunge: “L’anima viene beatificata attraverso la partecipazione a Dio, e non attraverso la partecipazione a un’altra anima santa”. I nostri corpi, invece, diventano gloriosi attraverso la condivisione della gloria del corpo di Cristo.
+
+Risposta all’Obiezione 2: L’efficacia della Risurrezione di Cristo raggiunge le anime non grazie a qualche virtù particolare del Suo corpo risorto, ma per la virtù della Divinità personalmente unita ad esso.
+
+Risposta all’Obiezione 3: La risurrezione delle anime riguarda il merito, che è l’effetto della giustificazione; ma la risurrezione dei corpi è destinata a punizione o ricompensa, che sono gli effetti di Colui che giudica. Ora, spetta a Cristo non giustificare tutti gli uomini, ma giudicarli; e per questo motivo Lui risuscita tutti riguardo ai loro corpi, ma non riguardo alle loro anime.
+
+Risposta all’Obiezione 4: Due elementi concorrono nella giustificazione delle anime, ovvero il perdono dei peccati e la novità di vita attraverso la grazia. Pertanto, in termini di efficacia – che deriva dal potere divino – sia la Passione che la Resurrezione di Cristo sono cause della giustificazione, per entrambi questi aspetti. Ma, in termini di esemplarità, propriamente detta, la Passione e la morte di Cristo sono la causa del perdono dei peccati, grazie al quale cessiamo di essere schiavi del peccato; mentre la Resurrezione di Cristo è la causa della novità di vita, che deriva dalla grazia o dalla giustizia. Per questo motivo l’Apostolo afferma (Romani 4:25) che “Lui fu dato in sacrificio per i nostri peccati” – cioè per eliminarli – “e risorse per la nostra giustificazione”. Inoltre, la Passione di Cristo rappresentò anche una causa meritoria, come già accennato sopra (A[1], ad 4; Q[48], A[1]).
+
 <span class="atom-split" data-atom="376" data-title="OF THE ASCENSION OF CHRIST (SIX ARTICLES)" data-chapter="OF THE ASCENSION OF CHRIST (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider Christ's Ascension: concerning which there are six points of inquiry:
@@ -24934,6 +25888,16 @@ We have now to consider Christ's Ascension: concerning which there are six point
 (4) Whether He ascended above all the corporeal heavens?
 (5) Whether He ascended above all spiritual creatures?
 (6) Of the effect of the Ascension.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’Ascensione di Cristo: su di essa vi sono sei punti da esaminare:
+(1) Era davvero appropriato che Cristo ascendesse in cielo?
+(2) Con quale natura gli fu possibile ascendere?
+(3) Ascendette con le proprie forze?
+(4) Ascendette al di sopra di tutti i cieli corporei?
+(5) Ascendette al di sopra di tutte le creature spirituali?
+(6) Qual è l’effetto dell’Ascensione?
 
 <span class="atom-split" data-atom="377" data-title="Whether it was fitting for Christ to ascend into heaven?" data-chapter="Whether it was fitting for Christ to ascend into heaven?" data-kind="atom" data-srclang="en"></span>
 
@@ -25078,6 +26042,25 @@ Reply to Objection 3: Christ is said to ascend to the Father, inasmuch as He asc
 the right hand of the Father; and this is befitting Christ in a measure according to His Divine Nature,
 and in a measure according to His human nature, as will be said later (Q[58], A[3])
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’Ascesa di Cristo in cielo Gli appartenesse per via della Sua Natura Divina. Infatti, è scritto (Salmo 46:6): “Dio è salito al cielo con giubilo”; e (Deuteronomio 33:26): “Colui che sale al cielo è il tuo aiutatore”. Ma queste parole si riferivano a Dio già prima dell’Incarnazione di Cristo. Pertanto, spetta a Cristo ascendere in cielo come Dio.
+
+Obiezione 2: Inoltre, secondo Giovanni 3:13 (“Nessuno è mai salito in cielo, se non Colui che è disceso dal cielo”) e Efesini 4:10 (“Colui che è disceso è lo stesso che è salito”), spetta alla stessa persona ascendere in cielo e discendere da esso. Tuttavia, Cristo discese dal cielo non come uomo, ma come Dio; poiché la Sua natura in cielo non era umana, ma divina. Pertanto, sembra che Cristo sia salito in cielo come Dio.
+
+Obiezione 3: Inoltre, con la Sua Ascensione Cristo salì al Padre. Ma non fu come uomo che raggiunse l’uguaglianza con il Padre; infatti in questo senso Egli dice: “Lui è più grande di me”, come si legge nel Vangelo secondo Giovanni 14:28. Pertanto sembra che Cristo sia salito al Padre nella Sua natura divina.
+
+Al contrario, in Efesini 4:10: “Il fatto che Egli sia salito al cielo non significa forse che sia anche disceso sulla terra?”, un commento afferma: “È evidente che Egli sia disceso e poi risalito al cielo nella Sua natura umana”.
+
+Rispondo che l’espressione “secondo” può indicare due cose: la condizione di colui che sale e la causa del suo ascendere. Quando utilizzata per esprimere la condizione di chi sale, l’Ascensione non appartiene affatto a Cristo in base alla sua Natura Divina; sia perché non esiste nulla di più alto della Natura Divina verso cui possa ascendere, sia perché l’ascensione è un movimento spaziale, il che non è conforme alla Natura Divina, che è immobile e al di fuori di ogni spazio. Tuttavia, l’Ascensione è in linea con Cristo in base alla sua [natura umana](/axes/human_nature), che è limitata dallo spazio e può essere soggetta a movimento. In questo senso, possiamo dire che Cristo ascendette al cielo come uomo, ma non come Dio.  
+Ma se l’espressione “secondo” indica la causa dell’Ascensione, poiché Cristo ascendette al cielo in virtù della Sua Divinità e non della sua natura umana, allora bisogna dire che Cristo ascendette al cielo non come uomo, ma come Dio. Ecco perché [Agostino](/figures/augustine) afferma in un sermone sull’Ascensione: “Fu opera nostra che il Figlio dell’Uomo fosse appeso alla croce; ma fu opera Sua stesso che ascendesse al cielo”.
+
+Risposta all’Obiezione 1: Queste affermazioni furono pronunciate in senso profetico riguardo a Dio, che un giorno avrebbe assunto una forma umana. Tuttavia si può dire che, sebbene l’“ascensione” non appartenga propriamente alla Natura Divina, essa possa essere intesa in senso metaforico; ad esempio, si dice “ascendere nel cuore dell’uomo” quando questo si sottomette e si umilia davanti a Dio. Allo stesso modo, si può dire che Dio “ascenda” in senso metaforico riguardo a ogni creatura, poiché la sottopone a Sé.
+
+Risposta all’Obiezione 2: Colui che è disceso è lo stesso Colui che è salito. Infatti Agostino afferma nel “De Symbolismo” IV: “Chi è colui che discende? Il Dio-Uomo. Chi è colui che sale? Lo stesso Dio-Uomo”. Tuttavia a Cristo viene attribuita una duplice discesa: una, secondo cui si dice che sia disceso dal cielo, e questa viene riferita al Dio-Uomo nel suo aspetto divino; non va intesa come un movimento spaziale, ma piuttosto come un “svuotamento di sé”, poiché “quando era nella forma di Dio assunse la forma di servo”. Proprio come si dice che Cristo si sia svuotato, non perdendo la sua pienezza, ma assumendo la nostra piccolezza, così si dice anche che sia disceso dal cielo, non perché abbia abbandonato il cielo, ma perché ha assunto la natura umana in unità di persona. Esiste inoltre un’altra discesa, quella descritta in Efesini 4:9, secondo cui Cristo è disceso “nelle regioni inferiori della terra”; si tratta di una discesa spaziale, e quindi appartiene a Cristo nella sua condizione umana.
+
+Risposta all’Obiezione 3: Si dice che Cristo ascendesse al Padre, nel senso che salì per sedersi alla destra del Padre; e ciò è degno di Cristo, sia in quanto riguarda la Sua Natura Divina, sia in quanto riguarda la Sua Natura Umana, come verrà detto in seguito (Q[58], A[3]).
+
 <span class="atom-split" data-atom="379" data-title="Whether Christ ascended by His own power?" data-chapter="Whether Christ ascended by His own power?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ did not ascend by His own power, because it is written
@@ -25145,6 +26128,25 @@ and as God disposes. Now a body is incapable of being moved locally in an instan
 be commensurate with space, according to the division of which time is reckoned, as is proved in
 Physics vi. Consequently, it is not necessary for a body moved by God to be moved instantaneously,
 but with such speed as God disposes.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo non sia salito in cielo con la propria forza, poiché è scritto (Marco 16:19) che “il Signore Gesù, dopo aver parlato con loro, fu portato in cielo”; e (Atti 1:9) che “mentre lo guardavano, egli fu elevato in cielo e una nuvola lo prese e lo portò via dai loro occhi”. Ma ciò che viene sollevato in cielo sembra essere mosso da un’altra forza. Pertanto, non è stata con la propria forza, ma con quella di un altro che Cristo è stato portato in cielo.
+
+Obiezione 2: Inoltre, il corpo di Cristo era un corpo terreno, simile al nostro. Tuttavia, è contrario alla natura di un corpo terreno essere sollevato verso l’alto. In più, ciò che viene mosso contro la sua natura non può mai essere mosso dalla propria forza. Pertanto, Cristo non salì in cielo con la propria forza.
+
+Obiezione 3: Inoltre, il potere stesso di Cristo è divino. Tuttavia, questo evento non sembra essere stato di natura divina, poiché, mentre il potere divino è infinito, un movimento del genere sarebbe avvenuto istantaneamente; di conseguenza, Cristo non sarebbe stato elevato in cielo “mentre” i discepoli lo osservavano, come si legge in Atti 1:9. Pertanto, sembra che Cristo non sia salito in cielo con il proprio potere.
+
+Al contrario, è scritto (Isaia 63:1): “Questo bel giovane, avvolto nella sua veste, che cammina nella maestosità della sua forza”. Anche Gregorio, in un’omelia sull’Ascensione (xxix), afferma: “È da notare che leggiamo di Elia che salì su un carro, affinché si dimostri che anche una persona semplicemente umana aveva bisogno dell’aiuto altrui. Ma non leggiamo che il nostro Salvatore sia stato sollevato né su un carro né dagli angeli, perché Colui che aveva creato tutte le cose fu elevato al di sopra di tutto per la Sua stessa potenza”.
+
+Rispondo che in Cristo esiste una duplice natura: quella divina e quella umana. Pertanto, il Suo potere può essere considerato sia secondo la Sua natura divina che secondo quella umana. Anche riguardo alla Sua natura umana, si possono distinguere due tipi di potere: uno è naturale, derivante dalle leggi della natura stessa; è evidente che Cristo non ascese al cielo con questo tipo di potere. L’altro tipo di potere è il potere della gloria, proprio della Sua natura umana; ed è con questo potere che Egli ascendette al cielo. Alcuni cercano di attribuire la causa di questo potere alla natura della quinta essenza, ovvero alla luce, considerata parte integrante del corpo umano e capace di armonizzare gli elementi contrapposti; secondo questi teorici, nel “stato” della mortalità, la natura elementare prevale nei corpi umani, facendoli tendere verso il basso; ma nello stato di gloria, la natura celeste prevarrà, permettendo al corpo di Cristo e a quello dei santi di essere elevati al cielo. Tuttavia abbiamo già trattato questa opinione nel FP, Q[76], A[7], e ne parleremo più ampiamente quando affronteremo il tema della risurrezione universale (XP, Q[84], A[1]).  
+Lasciando da parte questa ipotesi, altri attribuiscono la causa di questo potere alla stessa anima glorificata; secondo Agostino (Ep. cxviii), è l’abbondanza della gloria dell’anima che rende il corpo glorioso. Il corpo glorificato sarà infatti così sottomesso all’anima glorificata che, come afferma Agostino nel De Civ. Dei xxii, “doveunque lo spirito desideri di andare, il corpo seguirà immediatamente; lo spirito non desidererà nulla che sia indegno dell’anima o del corpo”. È dunque appropriato che un corpo glorificato e immortale si trovi in un luogo celeste, come già detto (A[1]). Pertanto, il corpo di Cristo ascendette al cielo per il potere della Sua anima che lo volle. Poiché il corpo diventa glorioso partecipando alla gloria dell’anima, allo stesso modo, come afferma Agostino nel Tractatus xxiii in Joanne, “anche l’anima viene beata partecipando a Dio”. Quindi, il potere divino è la prima fonte dell’ascesa al cielo. Cristo dunque ascendette al cielo con il proprio potere: innanzitutto con il suo potere divino, e in secondo luogo con il potere della Sua anima glorificata che muoveva il Suo corpo a piacimento.
+
+Risposta all’Obiezione 1: Poiché si dice che Cristo sia risorto con la Sua stessa forza, sebbene sia stato resuscitato dalla potenza del Padre – essendo la potenza del Padre identica a quella del Figlio – allo stesso modo Cristo ascendette al cielo con la Sua propria forza, anche se fu elevato e portato in cielo dal Padre.
+
+Risposta all’Obiezione 2: Questo argomento dimostra che Cristo non ascendette al cielo con le sue proprie forze, cioè con quelle naturali alla natura umana; tuttavia Egli ascendette effettivamente con le sue proprie forze, vale a dire con la Sua potenza divina, così come con le forze della Sua anima beata. E sebbene salire verso l’alto sia contrario alla natura di un corpo umano nella sua condizione attuale, in cui il corpo non è completamente dominato dall’anima, ciò non costituisce nulla di innaturale o forzato per un corpo glorificato, il cui intero essere è totalmente sotto il controllo dello spirito.
+
+Risposta all’Obiezione 3: Anche se il potere divino è infinito e agisce in modo infinito, per quanto riguarda l’oggetto su cui esercita la sua azione, l’effetto di tale azione viene ricevuto dalle cose secondo le loro capacità e secondo come Dio lo dispone. Ora, un corpo non può essere mosso localmente in un istante, poiché deve essere in armonia con lo spazio, secondo la divisione dello spazio su cui si basa il calcolo del tempo, come dimostrato nella Fisica VI. Pertanto, non è necessario che un corpo mosso da Dio venga mosso in modo istantaneo, ma a una velocità determinata da Dio stesso.
 
 <span class="atom-split" data-atom="380" data-title="Whether Christ ascended above all the heavens?" data-chapter="Whether Christ ascended above all the heavens?" data-kind="atom" data-srclang="en"></span>
 
@@ -25215,6 +26217,34 @@ from its natural principles, but from the beatified soul, from which it derives 
 the upward motion of a glorified body is not violent, so neither is its rest violent: consequently,
 there is nothing to prevent it from being everlasting.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo non sia salito al di sopra di tutti i cieli, poiché è scritto (Salmo 10:5): “Il Signore è nel suo tempio sacro; il trono del Signore è in cielo”. Ma ciò che si trova in cielo non può essere considerato al di sopra dei cieli stessi. Pertanto, Cristo non è salito al di sopra di tutti i cieli.
+
+Obiezione 2: [*Questa obiezione e la sua soluzione sono omesse nell’edizione Leonina poiché non si trovano nel manoscritto originale.*] Inoltre, non esiste alcun luogo al di sopra dei cieli, come dimostrato in “De Coelo” i. Tuttavia, ogni corpo deve occupare uno spazio; pertanto il corpo di Cristo non salì al di sopra di tutti i cieli.
+
+Obiezione 3: Inoltre, due corpi non possono occupare lo stesso luogo. Poiché, dunque, non esiste alcun modo per passare da un luogo all’altro se non attraverso lo spazio intermedio, sembra che Cristo non avrebbe potuto ascendere al di sopra di tutti i cieli se questi non fossero stati divisi; il che è impossibile.
+
+Obiezione 4: Inoltre, si narra negli Atti degli Apostoli (1:9) che “una nuvola Lo prese e Lo portò fuori dalla loro vista”.  
+Ma le nuvole non possono essere sollevate al di sopra del cielo; pertanto, Cristo non salì al di sopra di tutti i cieli.
+
+Obiezione 5: Inoltre, crediamo che Cristo dimorerà per sempre nel luogo verso cui è asceso. Ma ciò che è contrario alla natura non può durare per sempre, poiché ciò che è conforme alla natura è più diffuso e si verifica con maggiore frequenza. Pertanto, poiché è contro la natura che un corpo terreno si trovi al di sopra del cielo, sembra che il corpo di Cristo non sia realmente asceso al di sopra del cielo.
+
+Al contrario, è scritto (Efesini 4:10): “È salito al di sopra di tutti i cieli affinché possa riempire ogni cosa”.
+
+Rispondo che, quanto più qualcosa di corporeo condivide pienamente della bontà divina, tanto più elevato è il suo posto nell’ordine corporeo, che è un ordine basato sulla posizione. Pertanto, i corpi più “formali” sono naturalmente i più elevati, come risulta chiaramente dal Filosofo (Fisica iv; De Coelo ii): è infatti attraverso la propria forma che ogni corpo partecipa dell’Essenza divina, come dimostrato nella Fisica i. Tuttavia, grazie alla gloria, il corpo umano riceve una quota maggiore della bontà divina rispetto a qualsiasi altro corpo naturale attraverso la propria forma naturale; tra tutti i corpi gloriosi, è evidente che il corpo di Cristo splende di una gloria ancora più grande. Per questo motivo era assolutamente appropriato che fosse posto al di sopra di tutti gli altri corpi. Ecco perché, in Efesini 4:8, si legge: “Salendo in alto”, e la glossa commenta: “in posizione e dignità”.
+
+Risposta all’Obiezione 1: Si dice che il trono di Dio si trovi in cielo, non perché il cielo Lo contenga, ma piuttosto perché Lui contiene il cielo. Pertanto, non è necessario che alcuna parte del cielo sia più elevata delle altre; basta che Lui sia al di sopra di tutti i cieli. Come afferma il Salmo 8:2: “Poiché la tua maestosità si eleva al di sopra dei cieli, o Dio!”
+
+Risposta all’Obiezione 2: [*Ometta nella versione Leonina; vedi OBJ[2  
+Un “luogo” implica il concetto di contenimento; pertanto, il primo contenitore presenta la caratteristica di essere considerato un “primo luogo”, ed è proprio questo il caso del “primo cielo”. Di conseguenza, i corpi hanno necessità di trovarsi in un luogo, nella misura in cui sono contenuti da corpi celesti. Tuttavia, i corpi glorificati, soprattutto quello di Cristo, non hanno bisogno di essere contenuti in questo modo, poiché attingono tutto da Dio attraverso l’anima, e non dai corpi celesti. Non esiste quindi nulla che impedisca al corpo di Cristo di trovarsi al di fuori dell’ambito di contenimento dei corpi celesti, senza essere necessariamente in un luogo specifico. Inoltre, non è necessario che esista un vuoto all’esterno del cielo: lì non esiste alcun “luogo”, né alcuna [potenzialità](/concepts/act_potency) adatta a contenere un corpo; la possibilità di raggiungere quel luogo risiede in Cristo stesso. Quindi, quando [Aristotele](/figures/aristotle) dimostra nel De Coelo ii che non esiste alcun corpo al di fuori del cielo, ciò si riferisce soltanto ai corpi che si trovano in uno stato di natura pura, come emerge chiaramente dalle sue argomentazioni.
+
+Risposta all’Obiezione 3: Sebbene non sia naturale che un corpo si trovi nello stesso luogo di un altro corpo, Dio può comunque realizzare miracolosamente che un corpo si trovi nello stesso luogo di un altro, come fece Cristo quando uscì dal grembo sigillato della Vergine e quando entrò tra i discepoli attraverso porte chiuse, come afferma Gregorio nell’Homilia xxvi. Pertanto, il corpo di Cristo può trovarsi nello stesso luogo di un altro corpo non grazie a qualche proprietà intrinseca del corpo stesso, ma per l’intervento e l’operazione del Potere Divino.
+
+Risposta all’Obiezione 4: Quella nuvola non costituiva un mezzo attraverso cui Cristo potesse ascendere al cielo; apparve invece come un segno della Sua divinità, proprio come la gloria di Dio si manifestò agli Israeliti sotto forma di una nuvola sopra il Tabernacolo (Esodo 40:32; Numeri 9:15).
+
+Risposta all’Obiezione 5: Un corpo glorificato ha la capacità di trovarsi in cielo o al di sopra del cielo; questa capacità non deriva dai suoi principi naturali, ma dall’anima beata da cui trae la sua gloria. E proprio come il movimento verso l’alto di un corpo glorificato non è violento, allo stesso modo nemmeno il suo riposo lo è; pertanto, nulla impedisce che sia eterno.
+
 <span class="atom-split" data-atom="381" data-title="Whether Christ's body ascended above every spiritual creature?" data-chapter="Whether Christ's body ascended above every spiritual creature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's body did not ascend above every spiritual creature.
@@ -25256,6 +26286,25 @@ Reply to Objection 3: This comparison may be considered either on the part of th
 thus there is no place so high as to exceed the dignity of a spiritual substance: in this sense the
 objection runs. Or it may be considered on the part of the dignity of the things to which a place is
 attributed: and in this way it is due to the body of Christ to be above spiritual creatures.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il corpo di Cristo non sia salito al di sopra di tutte le creature spirituali.  
+Infatti, non è possibile stabilire alcuna corrispondenza appropriata tra cose che non presentano alcun rapporto comune tra loro. Inoltre, il concetto di “luogo” non può essere applicato alle creature spirituali nello stesso modo in cui lo è ai corpi fisici, come risulta evidente da quanto detto nel FP, Q[8], A[2], ad 1,2; FP, Q[52], A[1]. Pertanto, sembra che non si possa affermare che il corpo di Cristo sia salito al di sopra di tutte le creature spirituali.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (De Vera Relig. lv) che lo spirito ha sempre la precedenza sul corpo. Tuttavia, il rango più elevato spetta alle cose più nobili; pertanto non sembra plausibile che Cristo sia asceso al di sopra di ogni creatura spirituale.
+
+Obiezione 3: Inoltre, ovunque esista un corpo, poiché nella natura non esiste nulla di simile al vuoto, se nessun corpo può raggiungere un livello superiore a quello dello spirito nell’ordine dei corpi naturali, allora non esisterà alcun luogo al di sopra di ogni creatura spirituale. Di conseguenza, il corpo di Cristo non avrebbe potuto ascendere al di sopra di tutte le creature spirituali.
+
+Al contrario, è scritto (Efesini 1:21): “Dio L’ha posto al di sopra di ogni potere e dominio, e di ogni nome che venga nominato, non solo in questo mondo, ma anche in quello che verrà”.
+
+Rispondo che un luogo più elevato è dovuto a una sostanza più nobile, sia che si tratti di un luogo legato al contatto fisico tra corpi, sia che si riferisca a un legame spirituale tra entità spirituali; pertanto, un luogo celeste, essendo il più alto di tutti, è giustamente dovuto alle sostanze spirituali, poiché queste occupano la posizione più elevata nell’ordine delle entità. Tuttavia, sebbene il corpo di Cristo sia inferiore alle sostanze spirituali, se consideriamo le condizioni della sua natura corporea, esso supera comunque tutte le sostanze spirituali in dignità, soprattutto per la dignità dell’unione che lo lega personalmente a Dio. Proprio per questa perfetta aderenza alle caratteristiche divine, un luogo più alto gli è dovuto rispetto a qualsiasi creatura spirituale. Per questo motivo Gregorio, in un’omelia sull’Ascensione (xxix in Evang.), afferma: “Colui che aveva creato tutte le cose fu, con la sua stessa potenza, elevato al di sopra di tutte le cose”.
+
+Risposta all’Obiezione 1: Sebbene un luogo venga attribuito in modo diverso alle sostanze corporee e a quelle spirituali, rimane comune in entrambi i casi il fatto che il luogo più elevato venga assegnato a chi è più degno.
+
+Risposta all’Obiezione 2: Questo argomento è valido per il corpo di Cristo in base alle condizioni della sua natura corporea, ma non in base alla sua forma di unione con Lui.
+
+Risposta all’Obiezione 3: Questo confronto può essere considerato sia dal punto di vista dei luoghi; in questo caso non esiste alcun luogo così elevato da poter superare la dignità di una sostanza spirituale: è su questo piano che si basa l’obiezione. Oppure può essere considerato dal punto di vista della dignità delle cose a cui viene attribuito un luogo; in questo caso, il corpo di Cristo merita di essere considerato superiore alle creature spirituali.
 
 <span class="atom-split" data-atom="382" data-title="Whether Christ's Ascension is the cause of our salvation?" data-chapter="Whether Christ's Ascension is the cause of our salvation?" data-kind="atom" data-srclang="en"></span>
 
@@ -25325,6 +26374,27 @@ Cor. 14:8, to confirm faith in the Resurrection: "Last of all He was seen also b
 out of due time": which vision would not confirm the truth of the Resurrection except he had beheld
 Christ's very body.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’Ascensione di Cristo non sia la causa della nostra salvezza. Infatti, Cristo fu la causa della nostra salvezza nella misura in cui se la meritò. Ma con la sua Ascensione non si guadagnò nulla per noi, poiché essa rientra tra i premi derivanti dalla Sua elevazione; e ciò che è premio non può essere allo stesso tempo merito, proprio come una strada e il suo punto di arrivo non sono la stessa cosa. Pertanto, sembra che l’Ascensione di Cristo non sia la causa della nostra salvezza.
+
+Obiezione 2: Inoltre, se l’Ascensione di Cristo è la causa della nostra salvezza, sembrerebbe che ciò sia dovuto principalmente al fatto che la Sua Ascensione stessa costituisca il motivo principale della nostra salvezza. Tuttavia, questa grazia ci è stata concessa attraverso la Sua Passione, poiché è scritto (Ebrei 10:19): “Abbiamo fiducia nel fatto di poter entrare nei luoghi santi grazie al Suo sangue”. Pertanto, sembrerebbe che l’Ascensione di Cristo non sia stata la causa effettiva della nostra salvezza.
+
+Obiezione 3: Inoltre, la salvezza che Cristo dona è eterna, secondo Isaia 51:6: “La mia salvezza durerà per sempre”. Ma Cristo non è asceso in cielo per rimanervi per l’eternità; infatti è scritto (Atti 1:11): “Tornerà proprio come lo avete visto andare in cielo”. Inoltre, leggiamo che si sia manifestato a molti santi sulla terra dopo la sua ascensione, ad esempio a Paolo (Atti 9). Pertanto, sembra che l’ascensione di Cristo non sia la causa della nostra salvezza.
+
+Al contrario, Egli stesso disse (Giovanni 16:7): “È necessario che io vada”; cioè che vi lasci e ascenda in cielo.
+
+Rispondo che l’Ascensione di Cristo è la causa della nostra salvezza in due modi: innanzitutto, da parte nostra; in secondo luogo, da Sua parte.  
+Da parte nostra, poiché con l’Ascensione le nostre anime vengono elevate verso Lui; infatti, come detto sopra (A[1], ad 3), la Sua Ascensione favorisce innanzitutto la fede, poi la speranza, quindi la carità. Inoltre, il nostro rispetto per Lui aumenta, poiché non Lo consideriamo più un uomo terreno, ma il Dio del cielo; così dice l’Apostolo (2 Cor. 5:16): “Se prima conoscevamo Cristo secondo la carne – cioè come mortale, e perciò Lo consideravamo soltanto un uomo – ora non Lo conosciamo più in questo modo”.  
+Da Sua parte, riguardo a ciò che Egli fece per la nostra salvezza durante l’Ascensione. Innanzitutto, preparò il cammino per la nostra ascensione al cielo, secondo le Sue stesse parole (Giov. 14:2): “Vado a prepararvi un luogo”; e le parole di Michea (2:13): “Salirà colui che aprirà loro la via”. Poiché Egli è la nostra Testa, i suoi membri devono seguirLo ovunque Egli vada; per questo disse (Giov. 14:3): “Dove sono Io, anche voi potrete essere”. A dimostrazione di ciò, portò in cielo le anime dei santi liberati dall’inferno, secondo il Salmo 67:19 (cfr. Ef. 4:8): “Salendo in alto, condusse in cattività coloro che erano prigionieri”. Poiché prese con Sé in cielo coloro che erano stati tenuti prigionieri dal diavolo – in cielo, cioè in un luogo estraneo alla natura umana; prigionieri in realtà, ma liberati per grazia della Sua vittoria.  
+In secondo luogo, poiché, come il sommo sacerdote nell’Antico Testamento entrava nel luogo sacro per pregare per il popolo, così anche Cristo entrò in cielo “per intercedere per noi”, come dice l’Epistola agli Ebrei 7:25. Il fatto stesso che Egli si sia manifestato nella natura umana che portò con Sé in cielo costituisce una preghiera per noi; proprio perché Dio ha elevato così tanto la natura umana in Cristo, Egli può aver pietà di coloro per i quali il Figlio di Dio ha assunto questa natura. In terzo luogo, essendo stabilito nel suo trono celeste come Dio e Signore, Egli poté mandare doni agli uomini, secondo Ef. 4:10: “Salì al di sopra di tutti i cieli, affinché potesse riempire tutte le cose”, cioè con i suoi doni.
+
+Risposta all’Obiezione 1: L’Ascensione di Cristo è la causa della nostra salvezza, non per merito, ma per efficacia, come è stato detto in precedenza riguardo alla Sua Resurrezione (Q[56], A[1], ad 3,4).
+
+Risposta all’Obiezione 2: La Passione di Cristo è la causa del nostro ascendere al cielo, nel senso proprio della parola, poiché elimina l’ostacolo rappresentato dal peccato e, inoltre, per merito; mentre l’Ascensione di Cristo è la causa diretta del nostro stesso ascendere, poiché essa ha avuto inizio in Lui che è il nostro Capo, con Il quale i membri devono essere uniti.
+
+Risposta all’Obiezione 3: Cristo, ascendendo una volta al cielo, acquisì per Sé e per noi in modo perpetuo il diritto e la dignità di un luogo di dimora celeste; tale dignità non viene affatto meno se, per qualche disposizione speciale, Egli scende talvolta in carne e ossa sulla terra: sia per manifestarsi a tutto il mondo, come avverrà al Giudizio Universale, sia per manifestarsi in modo particolare a qualcuno, come nel caso di Paolo, come leggiamo negli Atti degli Apostoli 9. E affinché nessuno possa pensare che Cristo non fosse fisicamente presente in quei momenti, il contrario viene dimostrato da quanto dice l’Apostolo nella prima lettera ai Corinzi 14:8, per confermare la fede nella Resurrezione: “Infine, anch’io lo vidi, come colui che è nato nel tempo debito”: una visione del genere non potrebbe confermare la verità della Resurrezione se non avesse visto il corpo stesso di Cristo.
+
 <span class="atom-split" data-atom="383" data-title="OF CHRIST'S SITTING AT THE RIGHT HAND OF THE FATHER (FOUR ARTICLES)" data-chapter="OF CHRIST'S SITTING AT THE RIGHT HAND OF THE FATHER (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 WE have now to consider Christ's sitting at the right hand of the Father, concerning which there
@@ -25333,6 +26403,14 @@ are four points of inquiry:
 (2) Whether this belongs to Him according to the Divine Nature?
 (3) Whether it belongs to Him according to His [human nature](/axes/human_nature)?
 (4) Whether it is something proper to Christ?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il fatto che Cristo sia seduto alla destra del Padre; su questo argomento vi sono quattro punti da esaminare:  
+(1) Cristo è davvero seduto alla destra del Padre?  
+(2) Questo attributo Gli appartiene in base alla Sua Natura Divina?  
+(3) Gli appartiene anche in base alla Sua [natura umana](/axes/human_nature)?  
+(4) È qualcosa che è specificamente proprio di Cristo?
 
 <span class="atom-split" data-atom="384" data-title="Whether it is fitting that Christ should sit at the right hand of God the Father?" data-chapter="Whether it is fitting that Christ should sit at the right hand of God the Father?" data-kind="atom" data-srclang="en"></span>
 
@@ -25382,6 +26460,25 @@ Stephen in his toil of combat saw Him standing whom He had as his helper. But Ma
 Him as seated after the Ascension, because after the glory of His Ascension He will at the end be
 seen as judge."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra inappropriato che Cristo si trovi alla destra di Dio Padre.  
+Infatti, “destra” e “sinistra” indicano differenze di posizione fisica. Ma nulla di corporeo può essere attribuito a Dio, poiché “Dio è uno spirito”, come leggiamo in Giovanni 4:24. Pertanto, sembra che Cristo non si trovi realmente alla destra del Padre.
+
+Obiezione 2: Inoltre, se qualcuno siede alla destra di un altro, allora quest’ultimo si trova a sinistra di colui che siede a destra. Pertanto, se Cristo siede alla destra del Padre, ne consegue che il Padre debba sedere a sinistra del Figlio; il che è inappropriato.
+
+Obiezione 3: Inoltre, il fatto di sedersi o stare in piedi ha un significato opposto a quello di “sedere alla destra di Dio”. Ma Stefano (Atti 7:55) disse: “Ecco, vedo i cieli aperti e il Figlio dell’Uomo che sta alla destra di Dio”. Pertanto, sembra che Cristo non si trovi realmente alla destra del Padre.
+
+Al contrario, è scritto nell’ultimo capitolo di Marco (16:19): “Dopo aver parlato con loro, il Signore Gesù fu elevato al cielo e sedette alla destra di Dio”.
+
+Rispondo che la parola “sedere” può avere due significati: da un lato, indica “rimanere in un luogo”, come nel versetto Luca 24:49 (“Rimani nella città”); dall’altro, indica “potere regale o giudiziario”, come nel Proverbi 20:8 (“Il re, che siede sul trono del giudizio, scaccia via ogni male con il suo sguardo”). In entrambi i sensi, è appropriato dire che Cristo siede alla destra del Padre. Prima di tutto, perché Egli rimane eternamente immutabile nella beatitudine del Padre, la quale viene chiamata “la sua destra”, come nel Salmo 15:11 (“A destra tua ci sono delizie per sempre”). Per questo motivo Agostino afferma (De Symb. i): “‘Siede alla destra del Padre’: ‘Sedere’ significa dimorare lì; proprio come diciamo di una persona: ‘È rimasta in quel paese per tre anni’”. Quindi, credete che Cristo dimori veramente alla destra del Padre: Egli è infatti beato, e la “destra del Padre” è il simbolo della sua beatitudine. In secondo luogo, si dice che Cristo sieda alla destra del Padre perché regna insieme a Lui e possiede da Lui il potere giudiziario; proprio come colui che siede alla destra di un re lo aiuta nel governare e nel giudicare. Ancora Agostino dice (De Symb. ii): “Con l’espressione ‘destra’ si intende il potere che quest’Uomo, scelto da Dio, ha ricevuto per poter giudicare; poiché prima era Lui stesso ad essere giudicato”.
+
+Risposta all’Obiezione 1: Come afferma Damasceno (De Fide Orthodossa iv): “Non parliamo della destra del Padre come di un luogo, poiché come potrebbe un luogo essere designato dalla Sua destra, Lui stesso che trascende ogni limite? Sinistra e destra appartengono alle cose definite da confini. Ma noi chiamiamo ‘destra del Padre’ la gloria e l’onore della divinità.”
+
+Risposta all’Obiezione 2: L’argomento è valido se si intende che il fatto di “sedere alla destra” venga interpretato in senso corporeo. Pertanto Agostino afferma nel De Symbolismo i: “Se accettiamo che Cristo sieda alla destra del Padre in senso carnale, allora il Padre sarebbe a sinistra. Ma lì”, cioè nell’beatitudine eterna, “tutto è a destra, poiché non esiste alcuna sofferenza”.
+
+Risposta all’Obiezione 3: Come afferma Gregorio in un Orazione sull’Ascensione (Hom. xxix in Evang.), “È compito del giudice sedere, mentre è compito di chi combatte o aiuta stare in piedi. Pertanto, Stefano, nel corso della sua lotta, Lo vide in piedi, poiché Egli era il suo aiutante; ma Marco Lo descrive come seduto dopo l’Ascensione, perché, dopo la gloria dell’Ascensione, Alla fine Egli sarà visto come giudice.”
+
 <span class="atom-split" data-atom="385" data-title="Whether it belongs to Christ as God to sit at the right hand of the Father?" data-chapter="Whether it belongs to Christ as God to sit at the right hand of the Father?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it does not belong to Christ as God to sit at the right hand of
@@ -25427,6 +26524,24 @@ and not conversely. The Holy Ghost, however, can be said properly to sit at the 
 Father or of the Son, in the aforesaid sense, although by a kind of appropriation it is attributed to
 the Son, to whom equality is appropriated; thus Augustine says (De Doctr. Christ. i) that "in the
 Father there is unity, in the Son equality, in the Holy Ghost the connection of unity with equality."
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non appartenga a Cristo, in quanto Dio, sedere alla destra del Padre. Infatti, come Dio, Cristo è la destra stessa del Padre. Tuttavia, non sembra che sia la stessa cosa essere la destra di qualcuno e sedervi. Pertanto, come Dio, Cristo non siede alla destra del Padre.
+
+Obiezione 2: Inoltre, nell’ultimo capitolo di Marco (16:19) si afferma che “il Signore Gesù fu portato in cielo e siede alla destra di Dio”. Tuttavia, Cristo non fu portato in cielo nella sua natura divina. Pertanto, nemmeno come Dio siede alla destra di Dio.
+
+Obiezione 3: Inoltre, Cristo, in quanto Dio, è ugiale al Padre e allo Spirito Santo. Pertanto, se Cristo siede come Dio alla destra del Padre, per lo stesso motivo lo Spirito Santo dovrebbe sedere alla destra sia del Padre che del Figlio, e il Padre stesso alla destra del Figlio; cosa che nessuno ammette.
+
+Al contrario, Damasceno afferma (De Fide Orthodossa iv) che “quello che chiamiamo la destra del Padre è la gloria e l’onore della divinità; in esso il Figlio di Dio esisteva già da tempi immemorabili come Dio e come consustanziale con il Padre”.
+
+Rispondo che, come si può dedurre da quanto detto (A[1]), l’espressione “mano destra” può essere intesa in tre modi diversi. Primo: secondo Damasceno, si riferisce alla “gloria della Divinità”; secondo: secondo [Agostino](/figures/augustine), indica la “beata beatitudine” del Padre; terzo: sempre secondo lo stesso autore, rappresenta il “potere giudiziario”. Come abbiamo osservato in precedenza (A[1]), l’atto di “sedere” può indicare sia una permanenza stabile, sia una dignità regale o giudiziaria. Pertanto, sedere alla destra del Padre significa condividere con Lui la gloria della Divinità, possedere la beatitudine e il potere giudiziario – e tutto ciò in modo immutabile e regale. Ma questo appartiene al Figlio come Dio. È quindi evidente che Cristo, in quanto Dio, siede alla destra del Padre; tuttavia, l’uso della preposizione “a”, che ha un significato trasitivo, indica soltanto una distinzione personale e un ordine di origine, ma non un diverso grado di natura o dignità tra le Persone Divine, come è stato dimostrato nelle opere FP, Q[42], AA[3],4.
+
+Risposta all’Obiezione 1: Il Figlio di Dio viene chiamato “destra del Padre” per appropriazione, proprio come viene chiamato “Potenza” del Padre (1 Corinzi 1:24). Tuttavia, “destra del Padre”, nei suoi tre significati sopra indicati, rappresenta qualcosa che è comune alle tre Persone della Trinità.
+
+Risposta all’Obiezione 2: Cristo, in quanto uomo, viene elevato all’onore divino; ciò è simboleggiato dalla suddetta posizione assunta durante la cerimonia. Tuttavia, tale onore Gli appartiene in qualità di Dio, non a seguito di alcuna assunzione umana, ma in virtù della Sua origine nell’[eternità](/positions/eternity).
+
+Risposta all’Obiezione 3: In nessun modo si può affermare che il Padre sia seduto alla destra del Figlio o dello Spirito Santo; poiché il Figlio e lo Spirito Santo derivano la loro origine dal Padre, e non viceversa. Tuttavia, lo Spirito Santo può essere propriamente detto “seduto” alla destra del Padre o del Figlio, nel senso sopra indicato; anche se, in un certo modo, questa attribuzione viene estesa al Figlio, a cui è riconosciuta l’uguaglianza con il Padre. Così afferma Agostino (De Doctrina Christi i): “Nel Padre c’è l’unità, nel Figlio l’uguaglianza, nello Spirito Santo la connessione tra unità ed uguaglianza”.
 
 <span class="atom-split" data-atom="386" data-title="Whether it belongs to Christ as man to sit at the right hand of the Father?" data-chapter="Whether it belongs to Christ as man to sit at the right hand of the Father?" data-kind="atom" data-srclang="en"></span>
 
@@ -25551,6 +26666,28 @@ thing alone, to stand nigh to Him." Still it can be said that the sons of Zebede
 excellence in sharing His judiciary power; hence they did not ask to sit on the Father's right hand
 or left, but on Christ's.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia appropriato per Cristo sedere alla destra del Padre, poiché l’Apostolo dice (Efesini 2:4,6): “Dio, ci ha risuscitati insieme e ci ha fatti sedere insieme nei luoghi celesti attraverso Cristo Gesù”. Ma risuscitare non è qualcosa che appartenga a Cristo; pertanto, per lo stesso motivo, non è nemmeno appropriato che Egli sieda “alla destra” di Dio “lassù in alto” (Ebrei 1:3).
+
+Obiezione 2: Inoltre, come afferma [Agostino](/figures/augustine) (De Symb. i): “Il fatto che Cristo sieda alla destra del Padre significa che dimora nella Sua [beatitudine](/positions/beatitude)”. Ma molti altri partecipano anche a questa condizione. Pertanto, non sembra appropriato che Cristo sieda alla destra del Padre.
+
+Obiezione 3: Inoltre, Cristo stesso dice (Apoc. 3:21): “A colui che vincerà, gli darò di sedere con Me sul mio trono; poiché anch’Io ho vinto e sono assiso al fianco del Mio Padre sul suo trono.” Ma è proprio sedendo sul trono del Suo Padre che Cristo si trova alla sua destra. Pertanto, anche coloro che vincono allo stesso modo siedono alla destra del Padre.
+
+Obiezione 4: Inoltre, il Signore dice (Matteo 20:23): “Sedere alla Mia destra o alla Mia sinistra non spetta a Me di decidere, ma a coloro per i quali è stato preparato dal Mio Padre”. Tuttavia, queste parole non avrebbero alcun senso se non si riferissero a qualcuno in particolare. Pertanto, sedere alla destra del Signore non è un diritto che spetti a Cristo.
+
+Al contrario, è scritto (Ebrei 1:13): “A quale degli angeli ha mai detto: ‘Siedi alla Mia destra’, cioè ‘nei Miei doni più potenti’, o ‘come mio pari nella divinità’?” [*Il commento è tratto dal glossario di Pietro Lombardo*]. Come se volesse rispondere: “A nessuno.” Ma gli angeli sono superiori alle altre creature; pertanto, ancora meno può spettare a qualcun altro che a Cristo sedersi alla destra del Padre.
+
+Rispondo che, come detto sopra (A[3]), si afferma che Cristo sieda alla destra del Padre perché è alla stessa parianza con Lui per quanto riguarda la Sua Natura Divina; mentre per quanto riguarda la Sua umanità, supera tutte le creature nella possesso di doni divini. Ma ciascuno di questi doni appartiene esclusivamente a Cristo. Pertanto, nessun altro – né angelo né uomo – può sedere alla destra del Padre, se non Cristo stesso.
+
+Risposta all’Obiezione 1: Poiché Cristo è la nostra Testa, ciò che fu concesso a Lui viene concesso anche a noi attraverso di Lui. E per questo motivo, poiché Egli è già risorto, l’Apostolo dice che Dio ci ha, per così dire, “risolti insieme a Lui”; tuttavia noi stessi non siamo ancora risorti, ma lo saremo, secondo Romani 8:11: “Colui che ha risuscitato Gesù dai morti, darà anche vita ai vostri corpi mortali”. Nello stesso modo, l’Apostolo aggiunge che “ci ha fatti sedere insieme a Lui nei luoghi celesti”; cioè proprio perché Cristo, la nostra Testa, vi si trova.
+
+Risposta all’Obiezione 2: Poiché la destra è il segno della beatitudine divina, “sedere alla destra” non significa semplicemente trovarsi in stato di beatitudine, ma possederla con un certo potere dominante, come proprietà e parte della propria natura. Ciò appartiene esclusivamente a Cristo, e non ad alcuna altra creatura. Tuttavia si può dire che ogni santo, nella sua beatitudine, sia posto alla destra di Dio; per questo è scritto (Matteo 25:33): “Lui metterà le pecore alla sua destra”.
+
+Risposta all’Obiezione 3: Con il termine “trono” si intende il potere giudiziario che Cristo possiede dal Padre; in questo senso si dice che Egli “siede sul trono del Padre”. Tuttavia, anche altri santi ricevono tale potere da Cristo; in questo caso si dice che essi “sedono sul trono di Cristo”, secondo quanto riportato in Matteo 19:28: “Anche voi sederete su dodici seggi, giudicando le dodici tribù d’Israele”.
+
+Risposta all’Obiezione 4: Come afferma Crisostomo nell’Homilia lxv su Matteo, “quel luogo”, cioè il posto alla destra di Cristo, “non è accessibile né agli uomini né agli angeli; infatti Paolo lo definisce una prerogativa esclusiva di Cristo, dicendo: ‘A quale degli angeli ha mai detto: Siedi alla mia destra?’” Pertanto, il nostro Signore non rispose come se qualcuno un giorno dovesse realmente sedervi, ma acconsentì per compiacere la richiesta dei suoi interlocutori; essi, più di tutti, desideravano soltanto stare vicino a Lui. Tuttavia si può anche affermare che i figli di Zebedeo cercassero una posizione di maggiore eccellenza, partecipando al potere giudiziario di Cristo; per questo non chiesero di sedersi alla destra o alla sinistra del Padre, ma proprio accanto a Cristo.
+
 <span class="atom-split" data-atom="388" data-title="OF CHRIST'S JUDICIARY POWER (SIX ARTICLES)" data-chapter="OF CHRIST'S JUDICIARY POWER (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider Christ's judiciary power. Under this head there are six points of
@@ -25565,6 +26702,17 @@ future general judgment?
 It will be more suitable to consider the execution of the Last Judgment when we treat of things
 pertaining to the end of the world [*See XP, QQ[88], seqq.]. For the present it will be enough to
 touch on those points that concern Christ's dignity.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora esaminare il potere giudiziario di Cristo. In questo ambito vi sono sei punti da considerare:  
+(1) Deve essere attribuito a Cristo un potere giudiziario?  
+(2) Gli appartiene tale potere in quanto uomo?  
+(3) L’ha acquisito attraverso i propri meriti?  
+(4) Il suo potere giudiziario è universale, riguardante tutti gli uomini?  
+(5) Oltre al giudizio che avviene nel presente, dobbiamo aspettarci da Lui anche un giudizio finale in futuro?  
+(6) Il suo potere giudiziario si estende anche agli angeli?  
+Sarà più opportuno discutere dell’attuazione del Giudizio Finale quando tratteremo argomenti relativi alla fine del mondo [*Vedi XP, QQ[88], e seguenti*]. Per il momento sarà sufficiente affrontare quei punti che riguardano la dignità di Cristo.
 
 <span class="atom-split" data-atom="389" data-title="Whether judiciary power is to be specially attributed to Christ?" data-chapter="Whether judiciary power is to be specially attributed to Christ?" data-kind="atom" data-srclang="en"></span>
 
@@ -25623,6 +26771,24 @@ shall convince the world of sin, as if to say 'He shall pour out charity upon yo
 when fear is driven away, you shall have freedom for convincing." Consequently, then, judgment
 is attributed to the Holy Ghost, not as regards the rule of judgment, but as regards man's desire to
 judge others aright.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il potere giudiziario non debba essere attribuito in modo specifico a Cristo. Infatti, il giudizio sugli altri sembra spettare al loro signore; per questo si legge (Romani 14:4): “Chi sei tu per giudicare il servo altrui?” Tuttavia, appartiene all’intera Trinità essere i Signori delle creature. Pertanto, il potere giudiziario non dovrebbe essere attribuito in modo specifico a Cristo.
+
+Obiezione 2: Inoltre, è scritto (Dan. 7:9): “Il Vecchio dei giorni si sedette”; e successivamente (Dan. 7:10): “Si sedette il Giudice e furono aperti i libri”. Ma il Vecchio dei giorni viene inteso come il Padre, poiché, come afferma Hilario (De Trin. ii): “L’[Eternità](/positions/eternity) risiede nel Padre”. Pertanto, il potere giudiziario dovrebbe essere attribuito piuttosto al Padre che a Cristo.
+
+Obiezione 3: Inoltre, sembra che appartenga alla stessa persona giudicare e convincere. Ma il compito di convincere spetta allo Spirito Santo: infatti il nostro Signore dice (Giovanni 16:8): “E quando Egli verrà”, cioè lo Spirito Santo, “convincerà il mondo riguardo al peccato, alla giustizia e al giudizio”. Pertanto, il potere giudiziario dovrebbe essere attribuito allo Spirito Santo piuttosto che a Cristo.
+
+Al contrario, di Cristo si dice (Atti 10:42): “È Lui che è stato designato da Dio per giudicare i vivi e i morti”.
+
+Rispondo che per emettere giudizi sono necessarie tre cose: in primo luogo, il potere di costringere coloro su cui si esercita tale potere; da qui deriva la scritta dell’Ecclesiaste (7:6): “Non cercare di diventare giudice se non hai la forza sufficiente per estirpare le ingiustizie”. La seconda condizione necessaria è un zelo retto, affinché il giudizio venga emesso non per odio o malizia, ma per amore della giustizia, come afferma il Proverbi (3:12): “Dio castiga chi ama; si compiace nei suoi figli come un padre”. In terzo luogo, è necessaria la saggezza, su cui si fonda ogni giudizio, come dice ancora l’Ecclesiaste (10:1): “Un giudice saggio governerà il suo popolo”. Le prime due condizioni costituiscono le basi per emettere giudizi; la terza, invece, è alla base stessa del processo di giudizio, poiché lo standard su cui si fonda ogni valutazione è la legge della saggezza o della verità. Poiché il Figlio è la Saggezza generata dal Padre e la Verità che deriva da Lui, e poiché Egli rappresenta l’immagine perfetta del Padre, è giusto attribuire al Figlio di Dio il potere giudiziario. Come afferma sant’Agostino nel “De vera religione” (xxxi): “Questa è quella Verità immutabile che può essere giustamente definita la legge di tutte le arti e l’arte dell’Onnipotente Creatore. Proprio come noi e tutte le anime razionali giudichiamo correttamente le cose che ci circondano, così Lui, che è la Verità stessa, emette giudizi su di noi quando ci attacchiamo a Lui. Ma il Padre non Lo giudica, poiché Egli stesso è Verità. Pertanto, tutto ciò che il Padre giudica, lo fa attraverso Lui”. Inoltre, sant’Agostino conclude dicendo: “Per questo motivo il Padre non giudica nessuno, ma ha affidato tutto il potere di giudizio al Figlio”.
+
+Risposta all’Obiezione 1: Questo argomento dimostra che il potere giudiziario è comune a tutta la Trinità, il che è certamente vero; tuttavia, per via di un’apposita attribuzione, tale potere viene riconosciuto anche al Figlio, come già detto in precedenza.
+
+Risposta all’Obiezione 2: Come afferma Agostino (De Trinitate VI), l’eternità viene attribuita al Padre, poiché Egli è il Principio su cui si fonda l’idea stessa di eternità. Nello stesso passo, Agostino dice anche che il Figlio rappresenta l’“arte” del Padre. Pertanto, l’autorità giudiziaria viene attribuita al Padre in quanto Egli è il Principio del Figlio; ma la regola stessa del giudizio appartiene al Figlio, che è l’“arte” e la “saggezza” del Padre. Così come il Padre compie tutte le cose attraverso il Figlio – poiché il Figlio è la sua “arte” – allo stesso modo Egli giudica tutte le cose attraverso il Figlio, poiché il Figlio è la sua “saggezza” e la sua “verità”. Ciò è anche suggerito da Daniele, quando nel primo passaggio dice che “l’Antico dei giorni sedeva”, e successivamente aggiunge che il Figlio dell’Uomo “si recò presso l’Antico dei giorni, il quale Gli concesse potere, gloria e un regno”: da ciò possiamo comprendere che l’autorità di giudicare appartiene al Padre, dal quale il Figlio ha ricevuto il potere di giudicare.
+
+Risposta all’Obiezione 3: Come afferma Agostino (Trattato xcv in Giovanni): “Cristo disse che lo Spirito Santo convincerà il mondo del peccato, come per dire ‘Verserà carità nei vostri cuori’. Poiché così, quando la paura sarà allontanata, avrete la libertà di convincere gli altri”. Pertanto, il giudizio viene attribuito allo Spirito Santo non in relazione alla capacità di emettere giudizi, ma in relazione al desiderio umano di giudicare correttamente gli altri.
 
 <span class="atom-split" data-atom="390" data-title="Whether judiciary power belongs to Christ as man?" data-chapter="Whether judiciary power belongs to Christ as man?" data-kind="atom" data-srclang="en"></span>
 
@@ -25699,6 +26865,24 @@ the secrets of hearts, as we stated above (Q[10], A[2]), when dealing with the k
 Hence it is written (Rom. 2:16): "In the day when God shall judge the secrets of men by Jesus
 Christ."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il potere giudiziario non appartenga a Cristo nella sua natura umana. Infatti, [Agostino](/figures/augustine) afferma (De Vera Relig. xxxi) che il giudizio viene attribuito al Figlio in quanto Egli è la legge della prima verità. Ma ciò costituisce un attributo di Cristo nella sua natura divina. Pertanto, il potere giudiziario non appartiene a Cristo come uomo, bensì come Dio.
+
+Obiezione 2: Inoltre, spetta al potere giudiziario premiare il bene e punire il male. Ma l’eterna [beata beatitudine](/positions/beatitude), che è la ricompensa delle buone azioni, viene concessa esclusivamente da Dio: così afferma Agostino nel Trattato xxiii super Joan., dicendo che “l’anima diventa beata per partecipazione a Dio, e non per partecipazione a un’altra anima santa”. Pertanto, sembra che il potere giudiziario non appartenga a Cristo come uomo, ma come Dio.
+
+Obiezione 3: Inoltre, spetta esclusivamente al potere giudiziario di Cristo giudicare i segreti del cuore, secondo 1 Corinzi 4:5: “Non giudicate prima del tempo; fino a quando non verrà il Signore, che farà venire alla luce le cose nascoste nell’oscurità e renderà manifeste i pensieri dei cuori”. Ma ciò appartiene esclusivamente al potere divino, secondo Geremia 17:9-10: “Il cuore dell’uomo è perverso e insondabile; chi può comprenderlo? Io sono il Signore che esamina i cuori e mette alla prova le intenzioni delle persone; a ciascuno darò secondo la sua condotta”. Pertanto, il potere giudiziario non appartiene a Cristo come uomo, ma come Dio.
+
+Al contrario, si dice (Giovanni 5:27): “Gli ha dato potere di giudicare, perché è il Figlio dell’Uomo”.
+
+Rispondo che Crisostomo sembra ritenere che il potere giudiziario appartenga a Cristo non come uomo, ma soltanto come Dio. Pertanto spiega così il passaggio appena citato da Giovanni: “Gli ha dato potere di giudicare, perché è il Figlio dell’Uomo; non meravigliatevi di questo”. Infatti, Egli ha ricevuto il potere giudiziario non perché sia uomo, ma perché è il Figlio di quel Dio ineffabile; perciò è il Giudice. Tuttavia, poiché le espressioni utilizzate erano più adatte a qualcuno che appartiene alla natura umana, Egli ha aggiunto: “Non meravigliatevi di questo, perché è il Figlio dell’Uomo; infatti è anche il Figlio di Dio”. E dimostra ciò attraverso l’effetto della Resurrezione; perciò aggiunge: “Perché verrà l’ora in cui i morti nelle loro tombe udiranno la voce del Figlio di Dio”. Ma bisogna osservare che, sebbene l’autorità principale nel giudicare appartenga a Dio, tuttavia il potere di giudicare è stato concesso agli uomini riguardo a coloro che sono soggetti alla loro giurisdizione. Per questo è scritto (Deuteronomio 1:16): “Giudicate ciò che è giusto”; e in seguito (Deuteronomio 1:17): “Poiché è il giudizio di Dio”, cioè è per la Sua autorità che voi giudicate. Come già detto prima, Cristo, anche nella Sua natura umana, è capo di tutta la Chiesa, e Dio ha “posto tutte le cose ai suoi piedi”. Pertanto, anche secondo la Sua natura umana, spetta a Lui esercitare il potere giudiziario. Per questo motivo, sembra che l’autorità della Scrittura citata sopra debba essere interpretata così: “Gli ha dato potere di giudicare, perché è il Figlio dell’Uomo”; non in base alla condizione della Sua natura, poiché altrimenti tutti gli uomini avrebbero questo tipo di potere, come obietta Crisostomo; ma perché ciò appartiene alla grazia del Capo, che Cristo ha ricevuto nella Sua natura umana. Ora, il potere giudiziario appartiene a Cristo in questa maniera secondo la Sua natura umana per tre motivi: primo, a causa della Sua somiglianza e parentela con gli uomini; poiché Dio agisce attraverso mezzi intermedi, essendo più vicino agli effetti desiderati, così Egli giudica gli uomini attraverso Cristo uomo, affinché il Suo giudizio sia più gradito agli uomini. Per questo l’Apostolo dice (Ebrei 4:15): “Non abbiamo un sommo sacerdote che non possa avere compassione delle nostre debolezze; ma uno che è stato tentato in tutto ciò che noi siamo, senza peccato. Andiamo dunque con fiducia al trono della Sua grazia”. Secondo, perché nel giudizio finale, come afferma Agostino (Trattato xix su Giovanni), “ci sarà la risurrezione dei corpi morti, che Dio risveglierà attraverso il Figlio dell’Uomo”; proprio come “attraverso lo stesso Cristo le anime vengono risvegliate”, poiché “Egli è il Figlio di Dio”. Terzo, perché, come osserva Agostino (De Verbo Domini, Sermone cxxvii): “Era giusto che coloro che dovevano essere giudicati vedessero il loro Giudice. Ma coloro che dovevano essere giudicati erano sia i buoni che i cattivi. Pertanto, nella giustizia si deve mostrare l’aspetto di un servo sia ai buoni che ai cattivi, mentre l’aspetto di Dio deve essere riservato esclusivamente ai buoni”.
+
+Risposta all’Obiezione 1: Il giudizio appartiene alla verità come suo standard, mentre appartiene all’uomo imbevuto di verità, poiché egli è, per così dire, uno con la verità; esso costituisce una sorta di legge e di “giustizia viva” [*[Aristotele](/figures/aristotle), Etica V. Pertanto Agostino cita (De Verbo Domini, Sermone cxxvii) il detto di 1 Corinzi 2:15: “L’uomo spirituale giudica tutte le cose”. Ma tra tutte le creature, l’anima di Cristo era più strettamente unita alla verità e più piena di verità; secondo Giovanni 1:14: “Lo abbiamo visto, pieno di grazia e di verità”. Ed è proprio per questo che spetta principalmente all’anima di Cristo giudicare tutte le cose.
+
+Risposta all’Obiezione 2: Solo a Dio spetta conferire la beatitudine alle anime attraverso una partecipazione a Sé stesso; ma è prerogativa di Cristo condurle a tale beatitudine, poiché Egli è il loro Capo e l’autore della loro salvezza, secondo Eb 2:10: “Colui che ha introdotto molti figli nella gloria, per perfezionare con la Sua Passione l’autore della loro salvezza”.
+
+Risposta all’Obiezione 3: Conoscere e giudicare i segreti dei cuori appartiene esclusivamente a Dio; tuttavia, grazie all’estensione della divinità nella anima di Cristo, anche a Lui spetta conoscere e giudicare i segreti dei cuori, come abbiamo già affermato in precedenza (Q[10], A[2]) nel discutere della conoscenza di Cristo. Per questo si legge (Romani 2:16): “Nel giorno in cui Dio giudicherà i segreti degli uomini attraverso Gesù Cristo”.
+
 <span class="atom-split" data-atom="391" data-title="Whether Christ acquired His judiciary power by His merits?" data-chapter="Whether Christ acquired His judiciary power by His merits?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ did not acquire His judiciary power by His merits. For
@@ -25744,6 +26928,25 @@ Reply to Objection 2: This argument is based on the ground of His grace as Head.
 Reply to Objection 3: This argument holds good in regard to habitual grace, which perfects
 Christ's soul. But although judiciary power be Christ's due in these ways, it is not hindered from
 being His due from merit.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Cristo non abbia acquisito il proprio potere giudiziario grazie ai propri meriti. Infatti, il potere giudiziario deriva dalla dignità regale; come afferma il Proverbi 20:8: “Il re che siede sul trono del giudizio scaccia via ogni male con il suo solo sguardo”. Ma Cristo ha acquisito il potere regale senza alcun merito, poiché esso gli spetta in quanto Figlio unigenito di Dio; così è scritto (Luca 1:32): “Il Signore Dio Gli darà il trono di Davide suo padre, e Egli regnerà nella casa di Giacobbe per sempre”. Pertanto, Cristo non ha ottenuto il proprio potere giudiziario grazie ai propri meriti.
+
+Obiezione 2: Inoltre, come già detto sopra (A[2]), il potere giudiziario appartiene a Cristo in quanto Egli è la nostra Testa. Tuttavia, la grazia derivante dalla sua funzione di Testa non gli spetta per meriti personali, ma deriva dall’unione personale delle nature divina e umana: secondo Giovanni 1:14-16: “Abbiamo visto la Sua gloria, quella del Figlio unigenito del Padre, pieno di grazia e verità, e della Sua pienezza tutti noi abbiamo ricevuto”: e questo riguarda appunto il concetto di funzione di Testa. Pertanto, sembra che Cristo non abbia posseduto il potere giudiziario per meriti propri.
+
+Obiezione 3: Inoltre, l’Apostolo afferma (1 Corinzi 2:15): “L’uomo spirituale giudica tutte le cose”.  
+Ma un uomo diventa spirituale per grazia, che non deriva da meriti; altrimenti non si tratterebbe più di “grazia”, come si dice in Romani 11:6. Pertanto sembra che il potere giudiziario non appartenga né a Cristo né ad altri per meriti, ma esclusivamente per grazia.
+
+Al contrario, è scritto (Job 36:17): “La tua causa sarà giudicata come quella del malvagio; tu riprenderai sia la tua causa che il tuo giudizio”. E [Agostino](/figures/augustine) afferma (Serm. cxxvii): “Il Giudice si siederà, colui che stesso un tempo fu considerato malvagio; condannerà i veri malvagi”.
+
+Rispondo che non esiste nulla che impedisca a una stessa cosa di essere dovuta a qualcuno per motivi diversi: così come la gloria del corpo durante l’ascensione era dovuta a Cristo non solo in quanto conforme alla Sua divinità e alla gloria della Sua anima, ma anche “per il merito dell’umiltà della Sua Passione” [*Cfr. Agostino, Trattato civile contro Giovanni*]. Allo stesso modo si deve dire che il potere giudiziario appartiene all’Uomo Cristo sia per la Sua natura divina, sia per la dignità della Sua posizione di capo e per l’abbondanza della Sua grazia: eppure Egli lo ha ottenuto attraverso i propri meriti, affinché, secondo la giustizia divina, fosse Lui stesso a giudicare coloro che avevano lottato per la giustizia di Dio, li aveva vinti e che erano stati ingiustamente condannati. Per questo motivo Egli stesso dice (Apocalisse 3:21): “Ho vinto e mi sono assiso sul trono del Padre mio”. Ora, il potere giudiziario viene inteso come “trono”, secondo il Salmo 9:5: “Tu sei seduto sul trono, tu che giudichi con giustizia”.
+
+Risposta all’Obiezione 1: Questo argomento vale anche per il potere giudiziario, poiché esso deriva da Cristo attraverso l’unione con la Parola di Dio.
+
+Risposta all’Obiezione 2: Questo argomento si basa sul principio della Sua grazia come Capo.
+
+Risposta all’Obiezione 3: Questo argomento è valido per quanto riguarda la grazia abituale, che perfeziona l’anima di Cristo. Tuttavia, anche se il potere giudiziario appartiene a Cristo in questi contesti, ciò non impedisce che esso gli spetti anche in base ai suoi meriti.
 
 <span class="atom-split" data-atom="392" data-title="Whether judiciary power belongs to Christ with respect to all human affairs?" data-chapter="Whether judiciary power belongs to Christ with respect to all human affairs?" data-kind="atom" data-srclang="en"></span>
 
@@ -25800,6 +27003,28 @@ and punishing others.
 Reply to Objection 3: Judgments of this kind were exercised by Christ before His Incarnation,
 inasmuch as He is the Word of God: and the soul united with Him personally became a partaker
 of this power by the Incarnation.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il potere giudiziario riguardante tutte le questioni umane non appartenga a Cristo. Infatti, come leggiamo in Luca 12:13-14, quando qualcuno del popolo disse a Cristo: “Parla a mio fratello affinché divida l’eredità con me”; Egli rispose: “Uomo, chi mi ha nominato giudice o distributore delle vostre proprietà?” Pertanto, Egli non esercita il potere di giudizio su tutte le questioni umane.
+
+Obiezione 2: Inoltre, nessuno esercita il proprio giudizio se non su ciò che riguarda i propri sottoposti. Tuttavia, secondo Ebreai 2:8, “non vediamo ancora tutte le cose sottomesse a Cristo”. Pertanto, sembra che Cristo non abbia potere di giudizio su tutti gli affari umani.
+
+Obiezione 3: Inoltre, [Agostino](/figures/augustine) afferma (De Civ. Dei xx) che fa parte del giudizio divino il fatto che i buoni a volte soffrano in questo mondo e altre volte prosperino, e lo stesso valga per i malvagi. Ma la stessa situazione esisteva anche prima dell’Incarnazione. Pertanto, non tutti i giudizi di Dio riguardanti gli affari umani rientrano nell’autorità giudiziaria di Cristo.
+
+Al contrario, si dice (Giovanni 5:22): “Il Padre ha dato tutta la giustizia al Figlio”.
+
+Rispondo che, se parliamo di Cristo secondo la Sua Natura Divina, è evidente che ogni giudizio del Padre appartiene al Figlio; poiché il Padre fa tutte le cose attraverso la Sua Parola, così anche giudica tutte le cose attraverso la Sua Parola.  
+Ma se parliamo di Cristo nella Sua [natura umana](/axes/human_nature), è altrettanto evidente che tutte le cose sono soggette al Suo giudizio. Ciò diventa chiaro se consideriamo innanzitutto il rapporto esistente tra l’anima di Cristo e la Parola di Dio; poiché, se “l’uomo spirituale giudica tutte le cose”, come si dice in 1 Corinzi 2:15, dato che la sua anima è legata alla Parola di Dio, quanto più allora l’anima di Cristo, che è piena della verità della Parola di Dio, può giudicare tutte le cose.  
+In secondo luogo, lo stesso si evince dal merito della Sua morte; poiché, secondo Romani 14:9: “Per questo motivo Cristo morì e risorse, affinché fosse Signore sia dei morti che dei viventi”. E perciò Egli ha il potere di giudicare su tutti gli uomini; ed è per questa ragione che l’Apostolo aggiunge (Romani 14:10): “Noi tutti dovremo comparire davanti al tribunale di Cristo”; e in Daniele 7:14 si legge che “Gli fu dato potere, gloria e un regno; e tutti i popoli, le tribù e le lingue lo serviranno”.  
+In terzo luogo, la stessa cosa è evidente se confrontiamo gli affari umani con lo scopo della salvezza umana. Poiché a colui a cui viene affidata la sostanza, viene anche affidato l’accessorio; ora tutti gli affari umani sono ordinati per il fine della [beatazza](/positions/beatitude), che è la salvezza eterna, alla quale gli uomini vengono ammessi o da cui vengono esclusi tramite il giudizio di Cristo, come si evince da Matteo 25:31-40.  
+Conseguentemente, è manifesto che tutti gli affari umani sono compresi nel potere giudiziario di Cristo.
+
+Risposta all’Obiezione 1: Come già detto in precedenza (A[3], OBJ[1]), il potere giudiziario è connesso alla dignità regale. Ora, Cristo, sebbene fosse stato investito del titolo di re da Dio, non desiderava governare temporaneamente un regno terreno durante la sua vita sulla terra; per questo motivo disse (Giovanni 18:36): “Il mio regno non è di questo mondo”. Allo stesso modo, non volle esercitare il potere giudiziario su questioni temporali, poiché era venuto per elevare gli uomini verso le cose divine. Per questo motivo Ambrogio osserva riguardo a questo passaggio del Vangelo secondo Luca: “È giusto che Colui che è disceso con uno scopo divino si tenga lontano dalle questioni temporali; non si degnerebbe nemmeno di essere giudice nelle controversie o arbitro nelle questioni di proprietà, poiché Egli è il giudice dei vivi e dei morti, e l’arbitro dei meriti”.
+
+Risposta all’Obiezione 2: Tutte le cose sono sottomesse a Cristo per quanto riguarda quel potere che Egli ha ricevuto dal Padre su tutte le cose, secondo Matteo 28:18: “A Me è stato dato tutto il potere nel cielo e sulla terra”. Tuttavia, per quanto riguarda l’esercizio di questo potere, non tutte le cose sono ancora sottomesse a Lui; ciò avverrà in futuro, quando Egli realizzerà la Sua volontà su tutte le cose, salvando alcuni e punendo altri.
+
+Risposta all’Obiezione 3: Questo tipo di giudizi fu esercitato da Cristo prima della Sua Incarnazione, poiché Egli è la Parola di Dio; e l’anima unita a Lui in modo personale divenne partecipante di questa potenza attraverso l’Incarnazione.
 
 <span class="atom-split" data-atom="393" data-title="Whether after the Judgment that takes place in the present time, there remains yet another General Judgment?" data-chapter="Whether after the Judgment that takes place in the present time, there remains yet another General Judgment?" data-kind="atom" data-srclang="en"></span>
 
@@ -25872,6 +27097,25 @@ of the body, once it is separated from the body it enters into an unchangeable c
 its judgment. But the body remains subject to change down to the close of time: and therefore it
 must receive its reward or punishment then, in the last Judgment.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che, dopo il Giudizio che avviene nel presente, non vi sia più alcun altro Giudizio Universale. Infatti, un giudizio non ha più alcuno scopo dopo l’assegnazione definitiva di ricompense e punizioni. Ma ricompense e punizioni vengono assegnate proprio in questo momento presente: infatti il nostro Signore disse al ladro sulla croce (Lc 23:43): “Oggi sarai con Me nel paradiso”; e (Lc 16:22) si dice che “il ricco morì e fu sepolto all’inferno”. Pertanto, non ha senso attendere un Giudizio Universale finale.
+
+Obiezione 2: Inoltre, secondo un’altra versione (la Settanta) di Nahum 1:9, “Dio non giudicherà la stessa cosa una seconda volta”. Ma attualmente Dio giudica sia le questioni temporali che quelle spirituali. Pertanto, non sembra che si possa prevedere un altro giudizio finale.
+
+Obiezione 3: Inoltre, ricompensa e punizione corrispondono a meriti e demeriti. Ma meriti e demeriti hanno relazione con il corpo soltanto nella misura in cui esso è lo strumento dell’anima. Pertanto, ricompensa o punizione non sono dovute al corpo se non in quanto strumento dell’anima. Quindi, alla fine dei tempi, non sarà necessario alcun altro giudizio per premiare o punire l’uomo nel corpo, oltre a quello con cui le anime vengono già ora punite o ricompensate.
+
+Al contrario, si legge in Giovanni 12:48: “La parola che ho detto, essa stessa vi giudicherà nel giorno del giudizio.” Pertanto, ci sarà un Giudizio nel giorno del giudizio, oltre a quello che avviene nel presente.
+
+Rispondo che non è possibile emettere un giudizio perfetto su alcun soggetto mutevole prima della sua realizzazione completa; allo stesso modo, non è possibile valutare appieno la qualità di un’azione prima che essa si compia pienamente, sia nel suo svolgimento che nei suoi risultati: molte azioni, infatti, possono sembrare vantaggiose, ma in realtà si rivelano dannose. Allo stesso modo, non è possibile emettere un giudizio perfetto su alcuna persona prima della fine della sua vita, poiché essa può cambiare in molti aspetti, passando dal bene al male o viceversa, o migliorando o peggiorando. Per questo motivo l’Apostolo dice (Ebrei 9:27): “È stabilito per gli uomini di morire una volta sola, e dopo ciò verrà il Giudizio”. Tuttavia, è importante osservare che, sebbene la vita terrena di un uomo termini con la morte, essa continua in qualche modo a influenzare ciò che accadrà in futuro. Da un lato, perché rimane nella memoria degli altri, dove talvolta vengono conservate reputazioni positive o negative, spesso contrarie alla verità. Dall’altro lato, attraverso i propri figli, che, secondo il Libro della Sapienza 30:4, sono in qualche modo “una parte” del genitore. Eppure molti uomini buoni hanno figli malvagi, e viceversa. Inoltre, i risultati delle azioni umane continuano ad avere ripercussioni nel tempo: ad esempio, l’eresia di Arioso e di altri falsi insegnanti ha continuato a diffondersi fino alla fine del mondo, mentre la fede continua a crescere grazie alle prediche degli apostoli. Infine, il corpo umano subisce variazioni nel corso della vita (talvolta viene sepolto con onore, altre volte no) e alla fine si riduce in polvere. Tutte queste cose sono sottoposte al giudizio divino; pertanto non è possibile emettere un giudizio completo e pubblico su di esse durante la nostra vita presente. Per questo motivo, ci sarà un Giudizio finale nel giorno del Giudizio, in cui tutto ciò che riguarda ogni persona, in ogni aspetto, verrà valutato appieno e pubblicamente.
+
+Risposta all’Obiezione 1: Alcuni hanno sostenuto che le anime dei santi non saranno ricompensate in cielo, né quelle dei perduti punite all’inferno, fino al Giorno del Giudizio. Che questa opinione sia falsa risulta dal testo dell’Apostolo (2 Corinzi 5:8), dove egli dice: “Siamo certi e desiderosi di essere separati dal corpo per essere con il Signore”; ciò significa che non si tratta di “camminare nella fede”, ma di “vedere Dio nella Sua Essenza”, che è ciò che costituisce la “vita eterna”, come chiarito in Giovanni 17:3. Pertanto, è evidente che le anime separate dai corpi vivono una vita eterna.  
+Di conseguenza, si deve affermare che, dopo la morte, l’uomo entra in uno stato immutabile riguardo a tutto ciò che riguarda la sua anima; quindi non c’è bisogno di rinviare il giudizio sulla ricompensa dell’anima. Tuttavia, poiché esistono altre cose legate all’uomo che continuano ad esistere nel corso del tempo e che non sono estranee al giudizio divino, tutte queste cose dovranno essere valutate alla fine dei tempi. Poiché, riguardo a tali cose, l’uomo né merita né merita punizione, esse tuttavia influenzano in qualche modo la sua ricompensa o punizione finale. Pertanto, tutte queste circostanze dovranno essere prese in considerazione nel giudizio supremo.
+
+Risposta all’Obiezione 2: “Dio non giudicherà due volte la stessa cosa”, cioè nello stesso ambito; tuttavia, non è indecoroso che Dio giudichi due volte secondo diversi aspetti.
+
+Risposta all’Obiezione 3: Sebbene la ricompensa o la punizione del corpo dipendano dalla ricompensa o dalla punizione dell’anima, tuttavia, poiché l’anima è soggetta al cambiamento soltanto in modo accidentale, a causa del corpo, una volta separata da esso entra in uno stato immutabile e riceve il proprio giudizio. Il corpo, invece, rimane soggetto al cambiamento fino alla fine dei tempi; pertanto deve ricevere la propria ricompensa o punizione in quel momento, durante il Giudizio Universale.
+
 <span class="atom-split" data-atom="394" data-title="Whether Christ's judiciary power extends to the angels?" data-chapter="Whether Christ's judiciary power extends to the angels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's judiciary power does not extend to the angels, because
@@ -25935,3 +27179,22 @@ world to come"---subject namely to Christ---"of whom we speak" [Douay: 'whereof 
 [*The words "subject namely to Christ" are from a gloss]. Nor does it follow that God set another
 over the earth; since one and the same Person is God and Man, our Lord Jesus Christ.
 Let what has been said of the Mystery of His Incarnation suffice for the present.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il potere giudiziario di Cristo non si estenda agli angeli, poiché sia gli angeli buoni che quelli malvagi furono giudicati all’inizio del mondo: alcuni caddero a causa del peccato, mentre altri rimasero nella beatitudine. Ma coloro che sono già stati giudicati non hanno bisogno di essere giudicati nuovamente. Pertanto, il potere giudiziario di Cristo non si estende agli angeli.
+
+Obiezione 2: Inoltre, la stessa persona non può essere allo stesso tempo giudice e giudicata. Ma gli angeli verranno a giudicare insieme a Cristo, secondo Matteo 25:31: “Quando il Figlio dell’Uomo verrà nella sua maestosità, con Lui tutti gli angeli”. Pertanto sembra che gli angeli non saranno giudicati da Cristo.
+
+Obiezione 3: Inoltre, gli angeli sono superiori alle altre creature. Se quindi Cristo è giudice non solo degli uomini ma anche degli angeli, per lo stesso motivo sarà giudice di tutte le creature; il che sembra falso, poiché ciò rientra nella provvidenza di Dio: da qui si legge (Job 34:13): “Chi altro ha Egli nominato sulla terra? o chi ha posto al governo del mondo che ha creato?” Pertanto Cristo non è il giudice degli angeli.
+
+Al contrario, l’Apostolo dice (1 Corinzi 6:3): “Non sapete forse che anche noi giudicheremo gli angeli?”  
+Ma i santi giudicano soltanto in base all’autorità di Cristo. Pertanto, molto più Cristo possiede potere giudiziario sugli angeli.
+
+Rispondo che gli angeli sono soggetti al potere giudiziario di Cristo, non solo in relazione alla Sua Natura Divina – poiché Egli è la Parola di Dio – ma anche in relazione alla Sua [natura umana](/axes/human_nature). E ciò è evidente per tre motivi. Primo: per la stretta affinità della Sua natura umana con quella di Dio; infatti, come si legge in Eb 2:16: “Poiché Egli non si rivolge agli angeli, ma alla discendenza di Abramo”. Di conseguenza, l’anima di Cristo è più piena della verità della Parola di Dio di qualsiasi angelo; per questo motivo Egli illumina anche gli angeli, come afferma Dionigi (Coel. Hier. vii), e quindi ha il potere di giudicarli. Secondo: grazie all’umiltà della Sua Passione, la natura umana in Cristo merita di essere elevata al di sopra degli angeli; come si dice in Fil 2:10: “In nome di Gesù si inchineranno ogni ginocchio, sia in cielo che in terra e sottoterra”. Pertanto, Cristo ha potere giudiziario anche sugli angeli buoni e cattivi; ne è una prova quanto detto nell’Apocalisse (7:11): “Tutti gli angeli stavano intorno al trono”. Terzo: per ciò che fanno gli angeli per gli uomini, di cui Cristo è in modo particolare la testa. È scritto infatti in Eb 1:14: “Non sono forse tutti spiriti ministeriali, inviati a servire coloro che riceveranno l’eredità della salvezza?”. Ma essi sono sottomessi al giudizio di Cristo: primo, per quanto riguarda la distribuzione delle grazie che avvengono attraverso di loro; questa distribuzione è anch’essa opera di Cristo, a cui gli angeli servivano (Mt 4:11), e da Lui i demoni chiesero di essere mandati nei maiali (Mt 8:31). Secondo, per quanto riguarda altre ricompense occasionali degli angeli buoni, come la gioia che provano alla salvezza degli uomini (Lc 15:10); e inoltre per le punizioni occasionali dei demoni, che li tormentano qui sulla terra o li imprigionano all’inferno; anche queste cose rientrano nell’ambito del potere di Cristo. È scritto infatti in Mc 1:24 che il demone gridò: “Che c’entriamo noi con te, Gesù di Nazareth? Sei venuto forse a distruggerci?”. Terzo, per quanto riguarda la ricompensa essenziale degli angeli buoni, che è la beatitudine eterna; e la punizione essenziale degli angeli cattivi, che è l’eterno inferno. Ma tutto ciò fu realizzato da Cristo fin dall’inizio del mondo, poiché Egli è la Parola di Dio.
+
+Risposta all’Obiezione 1: Questo argomento considera il giudizio in relazione alla ricompensa essenziale e alla punizione principale.
+
+Risposta all’Obiezione 2: Come afferma [Agostino](/figures/augustine) (De Vera Relig. xxxi): “Anche se l’uomo spirituale giudica tutte le cose, egli stesso è comunque giudicato dalla Verità stessa.” Pertanto, anche se gli angeli giudicano, in quanto creature spirituali, sono comunque giudicati da Cristo, poiché Egli è la Verità.
+
+Risposta all’Obiezione 3: Cristo giudica non solo gli angeli, ma anche l’amministrazione di tutte le creature. Poiché, come afferma Agostino (De Trinitate iii), le cose inferiori sono governate da Dio attraverso quelle superiori, in un certo ordine, si deve dire che tutte le cose siano governate dall’anima di Cristo, la quale è al di sopra di ogni creatura. Per questo motivo l’Apostolo dice (Ebrei 2:5): “Poiché Dio non ha sottoposto il mondo futuro agli angeli”, cioè a Cristo, di cui parliamo [Douay: ‘di cui parliamo’]. Non segue nemmeno che Dio abbia posto qualcun altro al di sopra della terra; poiché la stessa Persona è Dio e Uomo, nostro Signore Gesù Cristo. Ciò che è stato detto sul Mistero della Sua Incarnazione basta per il momento.

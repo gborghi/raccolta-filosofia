@@ -565,7 +565,7 @@ Esaminiamo ora gli effetti del governo divino in particolare; a questo proposito
 (3) Può Dio ridurre qualcosa al nulla?  
 (4) Esiste qualcosa che possa essere ridotto al nulla?
 
-<span class="atom-split" data-atom="012" data-title="Whether creatures need to be kept in being by God? (1/2)" data-chapter="Whether creatures need to be kept in being by God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="Whether creatures need to be kept in being by God? (parte 1)" data-chapter="Whether creatures need to be kept in being by God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that creatures do not need to be kept in being by God. For what
 cannot not-be, does not need to be kept in being; just as that which cannot depart, does not need to
@@ -617,7 +617,7 @@ Obiezione 4: Inoltre, se Dio mantiene le creature nell’essere, ciò avviene at
 
 Al contrario, è scritto (Ebrei 1:3): “Tutto viene mantenuto in essere per mezzo della parola del Suo potere”.
 
-<span class="atom-split" data-atom="013" data-title="Whether creatures need to be kept in being by God? (2/2)" data-chapter="Whether creatures need to be kept in being by God?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="Whether creatures need to be kept in being by God? (parte 2)" data-chapter="Whether creatures need to be kept in being by God?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, Both reason and faith bind us to say that creatures are kept in being by God. To
 make this clear, we must consider that a thing is preserved by another in two ways. First, indirectly,
@@ -2379,7 +2379,7 @@ the case with men, as above explained (Q[62], A[6]). Hence among men the orders 
 according to the gratuitous gifts only, and not according to natural gifts.
 From the above the replies to the objections are evident.
 
-<span class="atom-split" data-atom="042" data-title="Whether the orders of the angels are properly named? (1/2)" data-chapter="Whether the orders of the angels are properly named?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="042" data-title="Whether the orders of the angels are properly named? (parte 1)" data-chapter="Whether the orders of the angels are properly named?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the orders of the angels are not properly named. For all the
 heavenly spirits are called angels and heavenly virtues. But common [names](/positions/nominalism) should not be
@@ -2516,7 +2516,7 @@ Risposta all’Obiezione 3: I nomi “Dominazione”, “Potere” e “Principa
 
 Risposta all’Obiezione 4: Gli “Arcangeli”, secondo Dionigi (Coel. Hier. IX), si trovano tra le “Potestà” e gli “Angeli”. Un intermediario, rispetto a uno degli estremi, sembra simile all’altro, poiché partecipa alla natura di entrambi; così il tepido appare freddo rispetto al caldo, e il caldo rispetto al freddo. Pertanto gli “Arcangeli” vengono chiamati “principi degli angeli”, poiché sono principi rispetto agli “Angeli” e angeli rispetto alle “Potestà”. Ma secondo Gregorio (Hom. xxiv in Ev.), vengono definiti “Arcangeli” perché presiedono all’ordine degli “Angeli”; in qualche modo, annunciano cose più grandi; le “Potestà”, invece, sono chiamate così perché presiedono a tutte le “Virtù” celesti che adempiono ai comandi divini.
 
-<span class="atom-split" data-atom="043" data-title="Whether the orders of the angels are properly named? (2/2)" data-chapter="Whether the orders of the angels are properly named?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="043" data-title="Whether the orders of the angels are properly named? (parte 2)" data-chapter="Whether the orders of the angels are properly named?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 5: The name "Seraphim" does not come from charity only, but from the
 excess of charity, expressed by the word ardor or fire. Hence Dionysius (Coel. Hier. vii) expounds
@@ -2558,7 +2558,7 @@ Allo stesso modo, il nome “Cherubini” deriva da un certo eccesso di conoscen
 
 Risposta all’Obiezione 6: L’ordine dei “Troni” è superiore agli ordini inferiori poiché possiede una conoscenza immediata dei modelli delle opere divine; i “Cherubini”, invece, hanno la superiorità nella conoscenza, mentre i “Serafini” quella nell’ardore. Sebbene questi due attributi eccellenti includano anche il terzo, il dono proprio dei “Troni” non comprende gli altri due; pertanto l’ordine dei “Troni” si distingue da quello dei “Cherubini” e dei “Serafini”. Infatti, è una regola comune in tutte le cose che la superiorità di ciò che è inferiore sia contenuta in ciò che è superiore, ma non il contrario. Tuttavia Dionigi (Coel. Hier. vii) spiega il nome “Troni” in relazione a sedili materiali, e in questo contesto si possono considerare quattro aspetti: primo, la posizione del sedile stesso, poiché i sedili sono elevati rispetto al suolo; gli angeli chiamati “Troni” sono elevati alla conoscenza immediata dei modelli delle cose in Dio. Secondo, nei sedili materiali si manifesta forza, poiché una persona vi siede saldamente; qui, invece, è l’angelo stesso a essere reso forte da Dio. Terzo, il sedile accoglie colui che vi siede e lo sostiene; così gli angeli accolgono Dio in sé stessi e, in un certo senso, Lo portano alle creature inferiori. Quarto, nella loro forma, i sedili sono aperti su un lato per accogliere chi vi siede; allo stesso modo, gli angeli sono pronti ad accogliere Dio e a servirLo.
 
-<span class="atom-split" data-atom="044" data-title="Whether the grades of the orders are properly assigned? (1/2)" data-chapter="Whether the grades of the orders are properly assigned?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="044" data-title="Whether the grades of the orders are properly assigned? (parte 1)" data-chapter="Whether the grades of the orders are properly assigned?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the grades of the orders are not properly assigned. For the
 order of prelates is the highest. But the [names](/positions/nominalism) of "Dominations," "Principalities," and "Powers" of
@@ -2684,7 +2684,7 @@ Risposta all’Obiezione 1: La sottomissione degli angeli a Dio è maggiore risp
 
 Risposta all’Obiezione 2: La vicinanza a Dio, indicata dal nome dei “Troni”, appartiene anche ai “Cerubini” e ai “Serafini”, e in modo ancora più eccellente, come è stato spiegato sopra.
 
-<span class="atom-split" data-atom="045" data-title="Whether the grades of the orders are properly assigned? (2/2)" data-chapter="Whether the grades of the orders are properly assigned?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="045" data-title="Whether the grades of the orders are properly assigned? (parte 2)" data-chapter="Whether the grades of the orders are properly assigned?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: As above explained (Q[27], A[3]), knowledge takes place accordingly
 as the thing known is in the knower; but love as the lover is united to the object loved. Now higher
@@ -5738,7 +5738,7 @@ Dobbiamo ora considerare quelle cose che riguardano l’azione dell’uomo, il q
 (3) Se, con il potere della propria anima, l’uomo possa modificare la materia corporea;  
 (4) Se l’anima umana, in quanto entità separata, possa muovere i corpi attraverso movimenti locali.
 
-<span class="atom-split" data-atom="096" data-title="Whether one man can teach another? (1/2)" data-chapter="Whether one man can teach another?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="096" data-title="Whether one man can teach another? (parte 1)" data-chapter="Whether one man can teach another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one man cannot teach another. For the Lord says (Mat. 22:8):
 "Be not you called Rabbi": on which the gloss of Jerome says, "Lest you give to men the honor
@@ -5863,7 +5863,7 @@ Risposta all’Obiezione 2: Come sostiene Averroè, l’insegnante non provoca l
 
 Risposta all’Obiezione 3: Il maestro non provoca direttamente nella discepolo quella luce intellettuale, né quelle nozioni comprensibili; piuttosto, stimola la discepolo attraverso l’insegnamento, affinché quest’ultimo, con il potere del proprio intelletto, possa formare concetti comprensibili, i cui segni gli vengono presentati dall’esterno.
 
-<span class="atom-split" data-atom="097" data-title="Whether one man can teach another? (2/2)" data-chapter="Whether one man can teach another?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="097" data-title="Whether one man can teach another? (parte 2)" data-chapter="Whether one man can teach another?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: The signs proposed by the master to the disciple are of things known
 in a general and confused manner; but not known in detail and distinctly. Therefore when anyone
@@ -6418,7 +6418,7 @@ Ora consideriamo la propagazione dell’uomo, in termini fisici. A questo propos
 (1) Se una parte qualsiasi del cibo si trasformi effettivamente nella vera [natura umana](/axes/human_nature);  
 (2) Se lo sperma, che è il principio della generazione umana, venga prodotto dal surplus di cibo.
 
-<span class="atom-split" data-atom="106" data-title="Whether some part of the food is changed into true human nature? (1/3)" data-chapter="Whether some part of the food is changed into true human nature?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="106" data-title="Whether some part of the food is changed into true human nature? (parte 1)" data-chapter="Whether some part of the food is changed into true human nature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that none of the food is changed into true [human nature](/axes/human_nature). For it is
 written (Mat. 15:17): "Whatsoever entereth into the mouth, goeth into the belly, and is cast out into
@@ -6450,7 +6450,7 @@ On the contrary, [Augustine](/figures/augustine) says (De Vera Relig. xi): "The 
 is, having lost its form, is changed into the texture of the members." But the texture of the members
 belongs to true human nature. Therefore the food is changed into the reality of human nature.
 
-<span class="atom-split" data-atom="107" data-title="Whether some part of the food is changed into true human nature? (2/3)" data-chapter="Whether some part of the food is changed into true human nature?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="107" data-title="Whether some part of the food is changed into true human nature? (parte 2)" data-chapter="Whether some part of the food is changed into true human nature?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, According to the Philosopher (Metaph. ii), "The relation of a thing to truth is
 the same as its relation to being." Therefore that belongs to the true nature of any thing which enters
@@ -6540,7 +6540,7 @@ Il potere generativo, se il cibo non venisse trasformato nella vera natura umana
 
 Risposta all’Obiezione 1: Nostro Signore non dice che “tutto” ciò che entra nella bocca, ma “qualsiasi cosa” – perché una parte di ogni tipo di cibo viene eliminata attraverso gli organi escretori. Si può anche affermare che tutto ciò che deriva dal cibo può essere sciolto dal calore naturale e eliminato attraverso i pori, come spiega Gerolamo in questa interpretazione del passaggio.
 
-<span class="atom-split" data-atom="108" data-title="Whether some part of the food is changed into true human nature? (3/3)" data-chapter="Whether some part of the food is changed into true human nature?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="108" data-title="Whether some part of the food is changed into true human nature? (parte 3)" data-chapter="Whether some part of the food is changed into true human nature?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 2: By flesh belonging to the species, some have understood that which
 first receives the human species, which is derived from the begetter: this, they say, lasts as long as

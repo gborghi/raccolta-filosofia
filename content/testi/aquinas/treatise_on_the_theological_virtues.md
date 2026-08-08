@@ -11393,7 +11393,7 @@ the end. Hence whenever fraternal correction hinders the end, namely the amendme
 it is no longer good, so that when such a correction is omitted, good is not omitted lest evil should
 befall.
 
-<span class="atom-split" data-atom="231" data-title="Whether the precept of fraternal correction demands that a private admonition should precede denunciation? (1/2)" data-chapter="Whether the precept of fraternal correction demands that a private admonition should precede denunciation?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="231" data-title="Whether the precept of fraternal correction demands that a private admonition should precede denunciation? (parte 1)" data-chapter="Whether the precept of fraternal correction demands that a private admonition should precede denunciation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the precept of fraternal correction does not demand that a
 private admonition should precede denunciation. For, in works of charity, we should above all
@@ -11497,7 +11497,7 @@ than accusations or denunciations. If, however, they should be of such a nature 
 brother's good name, it would be contrary to Our Lord's precept, to denounce a brother's fault in
 this manner.
 
-<span class="atom-split" data-atom="232" data-title="Whether the precept of fraternal correction demands that a private admonition should precede denunciation? (2/2)" data-chapter="Whether the precept of fraternal correction demands that a private admonition should precede denunciation?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="232" data-title="Whether the precept of fraternal correction demands that a private admonition should precede denunciation? (parte 2)" data-chapter="Whether the precept of fraternal correction demands that a private admonition should precede denunciation?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 5: A prelate is not to be obeyed contrary to a Divine precept, according to
 Acts 5:29: "We ought to obey God rather then men." Therefore when a prelate commands anyone

@@ -2267,7 +2267,7 @@ even as in the absence of the sensible object, certain impressions remain in the
 when it turns to the phantasms. And so this was the knowledge that he was unable wholly to think
 over or express in words.
 
-<span class="atom-split" data-atom="032" data-title="Whether, while in this state, Paul's soul was wholly separated from his body? (1/2)" data-chapter="Whether, while in this state, Paul's soul was wholly separated from his body?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="032" data-title="Whether, while in this state, Paul's soul was wholly separated from his body? (parte 1)" data-chapter="Whether, while in this state, Paul's soul was wholly separated from his body?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that, while in this state, Paul's soul was wholly separated from his
 body. For the Apostle says (2 Cor. 5:6,7): "While we are in the body we are absent from the Lord.
@@ -2368,7 +2368,7 @@ Obiezione 3: Inoltre, Agostino afferma (Genesi ad litteram XII, 28) che “quand
 
 Al contrario, è scritto (2 Corinzi 12:3): “Se sia nel corpo o al di fuori del corpo, non lo so; Dio lo sa”.
 
-<span class="atom-split" data-atom="033" data-title="Whether, while in this state, Paul's soul was wholly separated from his body? (2/2)" data-chapter="Whether, while in this state, Paul's soul was wholly separated from his body?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="033" data-title="Whether, while in this state, Paul's soul was wholly separated from his body? (parte 2)" data-chapter="Whether, while in this state, Paul's soul was wholly separated from his body?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, The true answer to this question must be gathered from the Apostle's very words,
 whereby he says he knew something, namely that he was "rapt even to the third heaven," and that

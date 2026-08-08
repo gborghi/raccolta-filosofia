@@ -749,7 +749,7 @@ not only for his own sake, but also for the purpose of instructing others. Hence
 (Hom. v in Ezech.) the words of Ps. 144:7, "They shall publish the memory . . . of Thy sweetness,"
 to perfect men returning after their contemplation.
 
-<span class="atom-split" data-atom="015" data-title="Whether parish priests and archdeacons are more perfect than religious? (1/2)" data-chapter="Whether parish priests and archdeacons are more perfect than religious?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="Whether parish priests and archdeacons are more perfect than religious? (parte 1)" data-chapter="Whether parish priests and archdeacons are more perfect than religious?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that also parish priests and archdeacons are more perfect than
 religious. For Chrysostom says in his Dialogue (De Sacerdot. vi): "Take for example a monk, such
@@ -839,7 +839,7 @@ sins more grievously if he do something contrary to holiness than a religious wh
 orders: although a religious who is not in orders is bound to regular observance to which persons
 in holy orders are not bound.
 
-<span class="atom-split" data-atom="016" data-title="Whether parish priests and archdeacons are more perfect than religious? (2/2)" data-chapter="Whether parish priests and archdeacons are more perfect than religious?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="Whether parish priests and archdeacons are more perfect than religious? (parte 2)" data-chapter="Whether parish priests and archdeacons are more perfect than religious?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 1: We might answer briefly these quotations from Chrysostom by saying
 that he speaks not of a priest of lesser order who has the cure of souls, but of a bishop, who is called
@@ -904,7 +904,7 @@ points of inquiry:
 (8) Whether religious who are appointed to the episcopal office are bound to religious
 observances?
 
-<span class="atom-split" data-atom="018" data-title="Whether it is lawful to desire the office of a bishop? (1/2)" data-chapter="Whether it is lawful to desire the office of a bishop?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="018" data-title="Whether it is lawful to desire the office of a bishop? (parte 1)" data-chapter="Whether it is lawful to desire the office of a bishop?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is lawful to desire the office of a bishop. For the Apostle
 says (1 Tim. 3:1): "He that desires [Vulg.: 'If a man desire'] the office of a bishop, he desireth a
@@ -994,7 +994,7 @@ what wise man seeks of his own accord to submit to such servitude and peril, as 
 an account of the whole Church? None save him who fears not God's judgment, and makes a secular
 abuse of his ecclesiastical authority, by turning it to secular uses."
 
-<span class="atom-split" data-atom="019" data-title="Whether it is lawful to desire the office of a bishop? (2/2)" data-chapter="Whether it is lawful to desire the office of a bishop?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="019" data-title="Whether it is lawful to desire the office of a bishop? (parte 2)" data-chapter="Whether it is lawful to desire the office of a bishop?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: The dispensing of spiritual corn is not to be carried on in an arbitrary
 fashion, but chiefly according to the appointment and disposition of God, and in the second place
@@ -1694,7 +1694,7 @@ wherefore religious are bound to keep all such like counsels. Other counsels the
 about certain particular better actions, which can be omitted without one's life being taken up with
 secular actions; wherefore there is no need for religious to be bound to fulfil all of them.
 
-<span class="atom-split" data-atom="029" data-title="Whether poverty is required for religious perfection? (1/2)" data-chapter="Whether poverty is required for religious perfection?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="029" data-title="Whether poverty is required for religious perfection? (parte 1)" data-chapter="Whether poverty is required for religious perfection?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that poverty is not required for religious perfection. For that which
 it is unlawful to do does not apparently belong to [the state](/concepts/state) of perfection. But it would seem to be
@@ -1787,7 +1787,7 @@ time." Much more therefore is it according to right reason for a man to renounce
 perfectly to follow Christ. Wherefore Jerome says (Ep. cxxv ad Rust. Monach.): "Poor thyself,
 follow Christ poor."
 
-<span class="atom-split" data-atom="030" data-title="Whether poverty is required for religious perfection? (2/2)" data-chapter="Whether poverty is required for religious perfection?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="030" data-title="Whether poverty is required for religious perfection? (parte 2)" data-chapter="Whether poverty is required for religious perfection?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: Happiness or felicity is twofold. One is perfect, to which we look forward
 in the life to come; the other is imperfect, in respect of which some are said to be happy in this life.
@@ -2477,7 +2477,7 @@ piety. Hence it is written (4 Kings 4:13): "Hast thou any business, and wilt tho
 king or to the general of the army?" Likewise it becomes religious to go to the palaces of kings to
 rebuke and guide them, even as John the Baptist rebuked Herod, as related in Mat. 14:4.
 
-<span class="atom-split" data-atom="041" data-title="Whether religious are bound to manual labor? (1/3)" data-chapter="Whether religious are bound to manual labor?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="041" data-title="Whether religious are bound to manual labor? (parte 1)" data-chapter="Whether religious are bound to manual labor?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that religious are bound to manual labor. For religious are not
 exempt from the observance of precepts. Now manual labor is a matter of precept according to 1
@@ -2531,7 +2531,7 @@ brother he signifies every Christian, according to 1 Cor. 7:12, "If any brother 
 believeth not"). Now it is written in the same passage (2 Thess. 3:10): "If any man will not work,
 neither let him eat." Therefore religious are not bound to manual labor any more than seculars are.
 
-<span class="atom-split" data-atom="042" data-title="Whether religious are bound to manual labor? (2/3)" data-chapter="Whether religious are bound to manual labor?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="042" data-title="Whether religious are bound to manual labor? (parte 2)" data-chapter="Whether religious are bound to manual labor?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, Manual labor is directed to four things. First and principally to obtain food;
 wherefore it was said to the first man (Gn. 3:19): "In the sweat of thy face shalt thou eat bread,"
@@ -2611,7 +2611,7 @@ not as yet founded. Secondly, because religious have no other obligations than w
 except as required by the rule they profess: wherefore if their rule contain nothing about manual
 labor, religious are not otherwise bound to manual labor than seculars are.
 
-<span class="atom-split" data-atom="043" data-title="Whether religious are bound to manual labor? (3/3)" data-chapter="Whether religious are bound to manual labor?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="043" data-title="Whether religious are bound to manual labor? (parte 3)" data-chapter="Whether religious are bound to manual labor?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: A man may devote himself in two ways to all the spiritual works
 mentioned by [Augustine](/figures/augustine) in the passage quoted: in one way with a view to the common good, in
@@ -2657,7 +2657,7 @@ not do this in places like Athens where he had facilities for preaching daily, a
 matter, since they are not bound to all works of supererogation: wherefore neither did the other
 apostles work with their hands.
 
-<span class="atom-split" data-atom="044" data-title="Whether it is lawful for religious to live on alms? (1/2)" data-chapter="Whether it is lawful for religious to live on alms?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="044" data-title="Whether it is lawful for religious to live on alms? (parte 1)" data-chapter="Whether it is lawful for religious to live on alms?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem unlawful for religious to live on alms. For the Apostle (1 Tim.
 5:16) forbids those widows who have other means of livelihood to live on the alms of the Church,
@@ -2702,7 +2702,7 @@ parents dwelt for three years in a cave, and while there lived on the food broug
 from Rome. Nevertheless, although he was able-bodied, we do not read that he sought to live by
 the labor of his hands. Therefore religious may lawfully live on alms.
 
-<span class="atom-split" data-atom="045" data-title="Whether it is lawful for religious to live on alms? (2/2)" data-chapter="Whether it is lawful for religious to live on alms?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="045" data-title="Whether it is lawful for religious to live on alms? (parte 2)" data-chapter="Whether it is lawful for religious to live on alms?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, A man may lawfully live on what is his or due to him. Now that which is given
 out of liberality becomes the property of the person to whom it is given. Wherefore religious and
@@ -3443,7 +3443,7 @@ is more efficaciously directed to continence by means of abstinence in meat and 
 to hunger and thirst, than by the privation of clothing, which pertains to cold and nakedness, or by
 bodily labor.
 
-<span class="atom-split" data-atom="055" data-title="Whether religious perfection is diminished by possessing something in common? (1/3)" data-chapter="Whether religious perfection is diminished by possessing something in common?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="055" data-title="Whether religious perfection is diminished by possessing something in common? (parte 1)" data-chapter="Whether religious perfection is diminished by possessing something in common?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that religious perfection is diminished by possessing something in
 common. For our Lord said (Mat. 19:21): "If thou wilt be perfect, go sell all [Vulg.: 'what'] thou
@@ -3485,7 +3485,7 @@ Contempl. ix) and his words are quoted (XII, qu. 1, can. Expedit): "It is suffic
 for the sake of perfection one should renounce having anything of one's own, and that the possession
 of revenues, which are of course common property, is no hindrance to the perfection of the Church."
 
-<span class="atom-split" data-atom="056" data-title="Whether religious perfection is diminished by possessing something in common? (2/3)" data-chapter="Whether religious perfection is diminished by possessing something in common?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="056" data-title="Whether religious perfection is diminished by possessing something in common? (parte 2)" data-chapter="Whether religious perfection is diminished by possessing something in common?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, As stated above (Q[184], A[3], ad 1; Q[185], A[6], ad 1), perfection consists,
 essentially, not in poverty, but in following Christ, according to the saying of Jerome (Super Matth.
@@ -3571,7 +3571,7 @@ or of any other poor, is in accordance with the perfection which Christ taught b
 Moreover, after the resurrection, the disciples from whom all religious orders took their origin kept
 the price of the lands, and distributed it according as each one had need (Acts 4:34,35).
 
-<span class="atom-split" data-atom="057" data-title="Whether religious perfection is diminished by possessing something in common? (3/3)" data-chapter="Whether religious perfection is diminished by possessing something in common?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="057" data-title="Whether religious perfection is diminished by possessing something in common? (parte 3)" data-chapter="Whether religious perfection is diminished by possessing something in common?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 1: As stated above (Q[184], A[3], ad 1), this saying of our Lord does not
 mean that poverty itself is perfection, but that it is the means of perfection. Indeed, as shown above
@@ -3749,7 +3749,7 @@ religion?
 (10) Whether serious deliberation with one's relations and friends is requisite for entrance into
 religion?
 
-<span class="atom-split" data-atom="060" data-title="Whether those who are not practiced in keeping the commandments should enter religion? (1/2)" data-chapter="Whether those who are not practiced in keeping the commandments should enter religion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="060" data-title="Whether those who are not practiced in keeping the commandments should enter religion? (parte 1)" data-chapter="Whether those who are not practiced in keeping the commandments should enter religion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that none should enter religion but those who are practiced in the
 observance of the commandments. For our Lord gave the counsel of perfection to the young man
@@ -3848,7 +3848,7 @@ from a higher degree of holiness, than the highest degree to which another man a
 his whole life. Hence Gregory says (Dial. ii, 1): "All are agreed that the boy Benedict began at a
 high degree of grace and perfection in his daily life."
 
-<span class="atom-split" data-atom="061" data-title="Whether those who are not practiced in keeping the commandments should enter religion? (2/2)" data-chapter="Whether those who are not practiced in keeping the commandments should enter religion?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="061" data-title="Whether those who are not practiced in keeping the commandments should enter religion? (parte 2)" data-chapter="Whether those who are not practiced in keeping the commandments should enter religion?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: As stated above (Q[184], A[6]) the holy orders prerequire holiness,
 whereas the religious state is a school for the attainment of holiness. Hence the burden of orders
@@ -4419,7 +4419,7 @@ order. On the other hand, one who is bound by vow or oath to enter a greater ord
 lawfully induced to enter a lesser order, except for some special and evident motive, and then with
 the superior's dispensation.
 
-<span class="atom-split" data-atom="070" data-title="Whether it is praiseworthy to enter religion without taking counsel of many, and previously deliberating for a long time? (1/2)" data-chapter="Whether it is praiseworthy to enter religion without taking counsel of many, and previously deliberating for a long time?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="070" data-title="Whether it is praiseworthy to enter religion without taking counsel of many, and previously deliberating for a long time? (parte 1)" data-chapter="Whether it is praiseworthy to enter religion without taking counsel of many, and previously deliberating for a long time?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would not seem praiseworthy to enter religion without taking counsel of many,
 and previously deliberating for a long time. For it is written (1 Jn. 4:1): "Believe not every spirit,
@@ -4494,7 +4494,7 @@ weakness and turning back. Hence he hears our Lord say: 'No man putting his hand
 and looking back, is fit for the kingdom of God,' because he looks back who seeks delay in order
 to go home and confer with his kinsfolk."
 
-<span class="atom-split" data-atom="071" data-title="Whether it is praiseworthy to enter religion without taking counsel of many, and previously deliberating for a long time? (2/2)" data-chapter="Whether it is praiseworthy to enter religion without taking counsel of many, and previously deliberating for a long time?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="071" data-title="Whether it is praiseworthy to enter religion without taking counsel of many, and previously deliberating for a long time? (parte 2)" data-chapter="Whether it is praiseworthy to enter religion without taking counsel of many, and previously deliberating for a long time?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: The building of the tower signifies the perfection of Christian life; and
 the renunciation of one's possessions is the wherewithal to build this tower. Now no one doubts or

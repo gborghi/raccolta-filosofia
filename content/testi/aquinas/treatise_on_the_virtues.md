@@ -2848,7 +2848,7 @@ inquiry:
 (4) Whether faith and hope can be without charity?
 (5) Whether charity can be without them?
 
-<span class="atom-split" data-atom="060" data-title="Whether the moral virtues are connected with one another? (1/2)" data-chapter="Whether the moral virtues are connected with one another?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="060" data-title="Whether the moral virtues are connected with one another? (parte 1)" data-chapter="Whether the moral virtues are connected with one another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the moral virtues are not connected with one another. Because
 moral virtues are sometimes caused by the exercise of acts, as is proved in Ethic. ii, 1,2. But man
@@ -2948,7 +2948,7 @@ the other intellectual virtues, as do the moral virtues depend on prudence, beca
 a fashion, moves the reason, and the reason the appetite, as stated above (Q[9], A[1]; Q[58], A[5],
 ad 1).
 
-<span class="atom-split" data-atom="061" data-title="Whether the moral virtues are connected with one another? (2/2)" data-chapter="Whether the moral virtues are connected with one another?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="061" data-title="Whether the moral virtues are connected with one another? (parte 2)" data-chapter="Whether the moral virtues are connected with one another?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: Those things to which the moral virtues incline, are as the principles of
 prudence: whereas the products of art are not the principles, but the matter of art. Now it is evident
@@ -3934,7 +3934,7 @@ We now come to consider the Gifts; under which head there are eight points of in
 (7) Of their comparison with one another;
 (8) Of their comparison with the virtues.
 
-<span class="atom-split" data-atom="081" data-title="Whether the Gifts differ from the virtues? (1/2)" data-chapter="Whether the Gifts differ from the virtues?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="081" data-title="Whether the Gifts differ from the virtues? (parte 1)" data-chapter="Whether the Gifts differ from the virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the gifts do not differ from the virtues. For Gregory commenting
 on Job 1:2, "There were born to him seven sons," says (Moral. i, 12): "Seven sons were born to us,
@@ -4033,7 +4033,7 @@ the good as appointed by reason; but they are opposed to the gifts, in as much a
 to the Divine instinct. For the same thing is opposed both to God and to reason, whose light flows
 from God.
 
-<span class="atom-split" data-atom="082" data-title="Whether the Gifts differ from the virtues? (2/2)" data-chapter="Whether the Gifts differ from the virtues?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="082" data-title="Whether the Gifts differ from the virtues? (parte 2)" data-chapter="Whether the Gifts differ from the virtues?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: This definition applies to virtue taken in its general sense. Consequently,
 if we wish to restrict it to virtue as distinguished from the gifts, we must explain the words, "whereby
@@ -4618,7 +4618,7 @@ we can, so to speak, "see God." Likewise, in this life, those who are the "peace
 own movements, approach to likeness to God, and are called "the children of God." Nevertheless
 these things will be more perfectly fulfilled in heaven.
 
-<span class="atom-split" data-atom="093" data-title="Whether the beatitudes are suitably enumerated? (1/2)" data-chapter="Whether the beatitudes are suitably enumerated?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="093" data-title="Whether the beatitudes are suitably enumerated? (parte 1)" data-chapter="Whether the beatitudes are suitably enumerated?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the beatitudes are unsuitably enumerated. For the beatitudes
 are assigned to the gifts, as stated above (A[1], ad 1). Now some of the gifts, viz. wisdom and
@@ -4720,7 +4720,7 @@ my counsel be acceptable to the king [Vulg: to thee, O king]: and redeem thou th
 and thy iniquities with works of mercy to the poor." It is thus that [Augustine](/figures/augustine) assigns them (De
 Serm. Dom. in Monte i, 4).
 
-<span class="atom-split" data-atom="094" data-title="Whether the beatitudes are suitably enumerated? (2/2)" data-chapter="Whether the beatitudes are suitably enumerated?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="094" data-title="Whether the beatitudes are suitably enumerated? (parte 2)" data-chapter="Whether the beatitudes are suitably enumerated?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: All the beatitudes mentioned in Holy Writ must be reduced to these,
 either as to the merits or as to the rewards: because they must all belong either to the active or to

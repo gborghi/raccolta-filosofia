@@ -24,6 +24,10 @@ tags:
 
 TREATISE ON THE ONE GOD (QQ[2]-26)
 
+<span class="qlang-split" data-lang="it"></span>
+
+Trattato sul Dio Unico (QQ[2]-26)
+
 <span class="atom-split" data-atom="002" data-title="THE EXISTENCE OF GOD (THREE ARTICLES)" data-chapter="THE EXISTENCE OF GOD (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Because the chief aim of sacred doctrine is to teach the knowledge of God, not only as He is
@@ -41,6 +45,16 @@ Concerning the first, there are three points of inquiry:
 (1) Whether the proposition "God exists" is self-evident?
 (2) Whether it is demonstrable?
 (3) Whether God exists?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Poiché lo scopo principale della dottrina sacra è insegnare la conoscenza di Dio, non solo come Egli è in Sé stesso, ma anche come Egli sia l’origine di tutte le cose e il loro fine ultimo, soprattutto delle creature razionali – come risulta chiaramente da quanto già detto – pertanto, nel nostro sforzo di esporre questa scienza, tratteremo: (1) Dio; (2) Il percorso che conduce la creatura razionale verso Dio; (3) Cristo, che, in quanto uomo, è il nostro cammino verso Dio.  
+Nel trattare di Dio, procederemo in modo tripartito, considerando: (1) Ciò che riguarda l’Essenza Divina; (2) Le distinzioni tra le Persone divine; (3) Il processo attraverso cui le creature derivano da Lui.  
+Per quanto riguarda l’Essenza Divina, dobbiamo esaminare: (1) Se Dio esista davvero; (2) In che modo Egli esiste, o meglio, ciò che NON costituisce il modo del Suo essere; (3) Le Sue operazioni – cioè la Sua conoscenza, volontà e potere.  
+Per quanto riguarda il primo punto, vi sono tre questioni fondamentali:  
+(1) La proposizione “Dio esiste” è autoevidente?  
+(2) È dimostrabile?  
+(3) Dio esiste davvero?
 
 <span class="atom-split" data-atom="003" data-title="Whether the existence of God is self-evident?" data-chapter="Whether the existence of God is self-evident?" data-kind="atom" data-srclang="en"></span>
 
@@ -105,6 +119,24 @@ not exist.
 Reply to Objection 3: The existence of truth in general is self-evident but the existence of a
 Primal Truth is not self-evident to us.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’esistenza di Dio sia autoevidente. Si dice infatti che ciò che è autoevidente per noi sia una conoscenza naturalmente insita in noi, come avviene nei casi dei principi primi. Ma, come afferma Damasceno nel “De Fide Orthodossa” i, 1,3, “la conoscenza di Dio è naturalmente insita in tutti”. Pertanto, l’esistenza di Dio è autoevidente.
+
+Obiezione 2: Inoltre, si dice che le cose siano autoevidenti quando vengono comprese non appena ne sono conosciuti i termini; il Filosofo (1 Poster. iii) afferma che ciò valga per i principi fondamentali della dimostrazione. Pertanto, quando si conosce la natura di un tutto e di una sua parte, si riconosce immediatamente che ogni tutto è maggiore della sua parte. Ma non appena si comprende il significato della parola “Dio”, si capisce subito che Dio esiste: questa parola indica infatti quella realtà di cui non si può concepire nulla di più grande. Ora, ciò che esiste sia realmente che mentalmente è certamente maggiore di ciò che esiste soltanto mentalmente. Pertanto, poiché non appena si comprende la parola “Dio” essa esiste mentalmente, ne consegue anche che esista realmente. Quindi l’affermazione “Dio esiste” è autoevidente.
+
+Obiezione 3: Inoltre, l’esistenza della verità è autoevidente. Chiunque neghi l’esistenza della verità ammette che essa non esista; e se la verità non esiste, allora l’affermazione “La verità non esiste” è vera; e se c’è qualcosa di vero, allora deve esserci verità. Ma Dio stesso è la verità: “Io sono la via, la verità e la vita” (Giovanni 14:6). Pertanto, l’affermazione “Dio esiste” è autoevidente.
+
+Al contrario, nessuno può mentalmente ammettere l’opposto di ciò che è evidente per sé; come afferma il Filosofo nel “Metafisica”, IV, lezione VI, riguardo ai primi principi della dimostrazione. Tuttavia, l’opposto dell’affermazione “Dio esiste” può essere mentalmente accettato: “Il folle disse nel suo cuore: ‘Non c’è Dio’” (Salmo 52:1). Pertanto, l’esistenza di Dio non è evidente per sé.
+
+Rispondo che una cosa può essere autoevidente in due modi: da un lato, autoevidente in sé stessa, anche se non per noi; dall’altro, autoevidente sia in sé stessa che per noi. Una proposizione è autoevidente perché il predicato è incluso nell’essenza del soggetto; ad esempio, “L’uomo è un animale”, poiché “animale” è contenuto nell’essenza dell’uomo stesso. Se quindi l’essenza sia del predicato che del soggetto fosse conosciuta da tutti, la proposizione sarebbe autoevidente per tutti; ciò è chiaro nei confronti dei primi principi della dimostrazione, i cui termini sono concetti comuni di cui nessuno può essere ignaro, come l’essere e il non-essere, il tutto e la parte, e simili. Tuttavia, se alcuni non conoscono l’essenza del predicato e del soggetto, la proposizione sarà autoevidente in sé stessa, ma non per coloro che non ne comprendono il significato. Come afferma Boezio nel suo “Hebdomadum”, “esistono concetti mentali autoevidenti soltanto per gli studiosi, come ad esempio il fatto che le sostanze incorporee non occupino lo spazio”. Pertanto, dico che la proposizione “Dio esiste” è in sé stessa autoevidente, poiché il predicato coincide con il soggetto stesso; Dio, infatti, è la propria esistenza, come verrà dimostrato in seguito (Q[3], A[4]). Poiché non conosciamo l’essenza di Dio, questa proposizione non ci appare autoevidente; pertanto deve essere dimostrata attraverso elementi che conosciamo meglio, anche se meno nella loro natura reale, ovvero attraverso i suoi effetti.
+
+Risposta all’Obiezione 1: Il fatto di sapere che Dio esiste, in modo generico e confuso, è insito in noi per natura, poiché Dio rappresenta la [beatitudine](/positions/beatitude) dell’uomo. L’uomo, infatti, desidera naturalmente la felicità, e ciò che viene naturalmente desiderato dall’uomo deve essere naturalmente conosciuto da lui. Tuttavia, questo non significa conoscere in modo assoluto l’esistenza di Dio; è come dire che il fatto di sapere che qualcuno si sta avvicinando non equivale a sapere che si tratta di Pietro, anche se effettivamente è Pietro ad avvicinarsi. Molti, infatti, ritengono che il bene perfetto dell’uomo, ovvero la felicità, consista nella ricchezza, in alcuni nel piacere, o in altro ancora.
+
+Risposta all’Obiezione 2: Forse non tutti coloro che sentono questa parola “Dio” la comprendono nel senso che essa indichi qualcosa di cui non si possa pensare nulla di più grande; infatti, alcuni hanno creduto che Dio fosse un corpo. Tuttavia, anche ammettendo che tutti comprendano che con questa parola “Dio” si intenda qualcosa di cui non si possa pensare nulla di più grande, ciò non significa necessariamente che riconoscano l’esistenza reale di ciò che tale parola indica, ma soltanto che esso esista mentalmente. Inoltre, non si può sostenere che tale entità esista realmente se non si ammette l’esistenza effettiva di qualcosa di cui non si possa pensare nulla di più grande; e proprio questo non viene mai ammesso da coloro che sostengono che Dio non esista.
+
+Risposta all’Obiezione 3: L’esistenza della verità in generale è autoevidente, ma l’esistenza di una “Verità Primordiale” non lo è per noi.
+
 <span class="atom-split" data-atom="004" data-title="Whether it can be demonstrated that God exists?" data-chapter="Whether it can be demonstrated that God exists?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the existence of God cannot be demonstrated. For it is an article of
@@ -155,6 +187,24 @@ Reply to Objection 3: From effects not proportionate to the cause no perfect kno
 that cause can be obtained. Yet from every effect the existence of the cause can be clearly
 demonstrated, and so we can demonstrate the existence of God from His effects; though from them
 we cannot perfectly know God as He is in His essence.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’esistenza di Dio non possa essere dimostrata. Infatti, l’esistenza di Dio è un articolo della fede. Ma ciò che riguarda la fede non può essere dimostrato, poiché una dimostrazione produce conoscenza scientifica; mentre la fede riguarda ciò che è invisibile (Ebrei 11:1). Pertanto, non si può dimostrare che Dio esista.
+
+Obiezione 2: Inoltre, l’essenza è il termine medio nella dimostrazione. Ma non possiamo conoscere in cosa consista l’essenza di Dio, se non esclusivamente in ciò che essa non è; come afferma Damasceno (De Fide Orthodossa, I, 4). Pertanto, non possiamo dimostrare che Dio esista.
+
+Obiezione 3: Inoltre, se l’esistenza di Dio dovesse essere dimostrata, ciò potrebbe avvenire soltanto attraverso i suoi effetti. Tuttavia, i suoi effetti non sono proporzionali a Lui stesso, poiché Egli è infinito mentre i suoi effetti sono finiti; e tra il finito e l’infinito non esiste alcuna proporzione. Pertanto, poiché una causa non può essere dimostrata attraverso un effetto che non sia proporzionale a essa, sembra che l’esistenza di Dio non possa essere dimostrata.
+
+Al contrario, l’Apostolo afferma: “Le cose invisibili di Dio sono chiaramente comprensibili attraverso quelle che sono state create” (Romani 1:20). Ma ciò sarebbe possibile solo se l’esistenza di Dio potesse essere dimostrata attraverso le cose create; infatti, la prima cosa che dobbiamo sapere su qualsiasi cosa è se esista davvero.
+
+Rispondo che la dimostrazione può essere effettuata in due modi: uno attraverso la causa, e viene chiamato “a priori”, cioè basandosi su ciò che è assolutamente precedente; l’altro attraverso l’effetto, e viene chiamato “a posteriori”, cioè basandosi su ciò che è relativamente precedente a noi. Quando un effetto è più noto di sua causa, partiamo dall’effetto per giungere alla conoscenza della causa. E da ogni effetto si può dimostrare l’esistenza della sua causa appropriata, purché tali effetti siano ben conosciuti; poiché ogni effetto dipende dalla sua causa, se l’effetto esiste, la causa deve esistere prima di esso. Pertanto, l’esistenza di Dio, nella misura in cui non ci è evidente di per sé, può essere dimostrata attraverso i suoi effetti che conosciamo.
+
+Risposta all’Obiezione 1: L’esistenza di Dio e altre verità simili su Dio, che possono essere conosciute attraverso la ragione naturale, non sono articoli di fede, ma piuttosto presupposti fondamentali per tali articoli; infatti, la fede presuppone la conoscenza naturale, proprio come la grazia presuppone la natura stessa, e la perfezione presuppone qualcosa che possa essere perfezionato. Tuttavia, non c’è nulla che impedisca a una persona che non sia in grado di comprendere le prove scientifiche di accettare, come questione di fede, qualcosa che in sé può essere conosciuto e dimostrato attraverso i metodi della scienza.
+
+Risposta all’Obiezione 2: Quando l’esistenza di una causa viene dimostrata a partire da un effetto, questo effetto sostituisce la definizione stessa della causa nel processo di prova. Ciò vale in particolare per Dio, poiché, al fine di dimostrare l’esistenza di qualsiasi cosa, è necessario adottare come termine intermedio il significato del nome di quella cosa, e non la sua essenza, poiché la questione della sua essenza segue necessariamente quella della sua esistenza. Ora, i [nomi](/positions/nominalism) attribuiti a Dio derivano dai suoi effetti; pertanto, nel dimostrare l’esistenza di Dio attraverso questi effetti, possiamo utilizzare il significato del termine “Dio” come termine intermedio.
+
+Risposta all’Obiezione 3: Da effetti che non sono proporzionali alla causa, non è possibile ottenere una conoscenza perfetta di quella causa. Tuttavia, dall’esistenza di ogni effetto si può dimostrare chiaramente l’esistenza della causa; pertanto possiamo dimostrare l’esistenza di Dio attraverso i suoi effetti, anche se non possiamo conoscerlo perfettamente così com’è nella sua essenza.
 
 <span class="atom-split" data-atom="005" data-title="Whether God exists?" data-chapter="Whether God exists?" data-kind="atom" data-srclang="en"></span>
 
@@ -244,6 +294,26 @@ or will, since these can change or fail; for all things that are changeable and 
 be traced back to an immovable and self-necessary first principle, as was shown in the body of the
 Article.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non esista; infatti, se uno dei due contrari fosse infinito, l’altro verrebbe completamente distrutto. Ma la parola “Dio” indica che Egli è la bontà infinita. Pertanto, se Dio esistesse, non ci sarebbe alcun male nel mondo; ma il male esiste davvero. Quindi Dio non esiste.
+
+Obiezione 2: Inoltre, è superfluo supporre che ciò che può essere spiegato da pochi principi sia stato prodotto da molti. Tuttavia sembra che tutto ciò che vediamo nel mondo possa essere spiegato attraverso altri principi, anche ammettendo che Dio non esista. Infatti, tutte le cose naturali possono essere ridotte a un unico principio, ovvero la natura stessa; mentre tutte le azioni volontarie possono essere ricondotte a un unico principio, ovvero la ragione umana o la volontà. Pertanto, non c’è alcun bisogno di supporre l’esistenza di Dio.
+
+Al contrario, si dice nella persona di Dio: “Io sono Colui Che Sono”. (Esodo 3:14)
+
+Rispondo che l’esistenza di Dio può essere dimostrata in cinque modi.  
+Il primo e più evidente modo è l’argomento basato sul movimento. È certo, ed evidente ai nostri sensi, che nel mondo alcune cose sono in movimento. Ora, tutto ciò che è in movimento viene messo in movimento da un altro; infatti, nulla può essere in movimento se non possiede la [potenzialità](/concepts/act_potency) di muoversi verso qualcosa; mentre una cosa si muove perché è già in atto. Il movimento, dunque, non è altro che il passaggio di qualcosa dalla potenzialità all’attualità. Ma nulla può passare dalla potenzialità all’attualità se non attraverso qualcosa che sia già in stato di attualità. Quindi ciò che è effettivamente caldo, come il fuoco, fa sì che il legno, che è potenzialmente caldo, diventi effettivamente caldo, e così lo muove e lo modifica. Ora, non è possibile che la stessa cosa sia contemporaneamente in atto e in potenzialità nello stesso senso, ma solo in sensi diversi. Ciò che è effettivamente caldo, infatti, non può essere allo stesso tempo potenzialmente caldo; ma lo è simultaneamente in modo diverso. Pertanto, non è possibile che una cosa sia allo stesso tempo motore e movimento di sé stessa; quindi tutto ciò che è in movimento deve essere messo in movimento da un altro. Se ciò che lo mette in movimento fosse a sua volta messo in movimento da qualcos’altro, allora anche questo dovrebbe essere messo in movimento da un altro ancora, e così via. Ma questo processo non può proseguire all’[infinito](/concepts/infinity), perché altrimenti non ci sarebbe alcun primo motore, e di conseguenza nessun altro motore; infatti, i motori successivi si muovono soltanto perché sono stati messi in movimento dal primo motore, proprio come un bastone si muove perché è mosso dalla mano. Pertanto, è necessario ammettere un primo motore, che non sia mosso da nessun altro; e tutti riconoscono che questo primo motore è Dio.  
+Il secondo modo si basa sulla natura della [causa efficiente](/concepts/four_causes). Nel mondo sensibile esiste un ordine di cause efficienti; non esiste alcun caso in cui una cosa possa essere la causa efficiente di sé stessa, perché ciò significherebbe che essa fosse anteriore a se stessa, il che è impossibile. Ora, nel caso delle cause efficienti, non è possibile procedere all’infinito, perché in tutte le cause efficienti che seguono in ordine, la prima è causa della causa intermedia, e questa è a sua volta causa della causa finale; sia che ci siano più cause intermedie o soltanto una. Ora, togliere la causa significa togliere anche l’effetto. Pertanto, se non esistesse una prima causa tra le cause efficienti, non ci sarebbe né una causa finale né alcuna causa intermedia. Ma se si potesse procedere all’infinito nelle cause efficienti, non ci sarebbe alcuna prima causa efficiente, né un effetto finale, né cause intermedie; il che è chiaramente falso. Pertanto, è necessario ammettere una prima causa efficiente, a cui tutti danno il nome di Dio.  
+Il terzo modo si basa sulla nozione di possibilità e necessità; osserviamo infatti nella natura che le cose.
+Quegli esseri che sono possibili sia di esistere che di non esistere, poiché si constata che vengono generati e poi decadono, sono quindi effettivamente possibili sia di esistere che di non esistere. Tuttavia è impossibile che tali esseri esistano sempre, poiché ciò che è possibile non essere in un certo momento, in realtà non esiste. Pertanto, se tutto fosse possibile non essere, allora in un certo momento non sarebbe esistito nulla. Ora, se ciò fosse vero, nemmeno ora esisterebbe nulla, poiché ciò che non esiste può iniziare ad esistere soltanto grazie a qualcosa che già esiste. Quindi, se in un certo momento non fosse esistito nulla, sarebbe stato impossibile che qualcosa iniziasse ad esistere; e di conseguenza nemmeno ora esisterebbe nulla – il che è assurdo. Pertanto, non tutti gli esseri sono semplicemente possibili; deve esistere qualcosa la cui stessa esistenza sia necessaria. Ora, ogni cosa necessaria ha o una causa della propria necessità che le è esterna, oppure no. È impossibile continuare all’infinito in questo processo di cause esterne, come già dimostrato riguardo alle cause efficienti. Pertanto dobbiamo ammettere l’esistenza di un essere il cui essere stesso sia necessario, che non riceva la propria necessità da nulla altro, ma che invece ne è la causa per tutte le altre cose. Tutti chiamano questo essere Dio.  
+Il quarto modo si basa sulla gradazione che si osserva negli esseri. Tra gli esseri ci sono alcuni che sono più buoni, veri, nobili, ecc., di altri; il concetto di “più” o “meno” viene applicato a cose diverse in base al grado in cui assomigliano a qualcosa di massimo: ad esempio, si dice che una cosa sia più calda quanto più assomiglia a ciò che è più caldo. Esiste quindi qualcosa che è il più vero, il migliore, il più nobile, e quindi l’essere supremo; poiché quelle cose che sono massime in termini di verità sono anche massime in termini di esistenza, come si legge nella “Metafisica” II. Ora, ciò che è massimo in un genere è la causa di tutte le cose appartenenti a quel genere; ad esempio, il fuoco, essendo il calore massimo, è la causa di tutte le cose calde. Pertanto deve esistere qualcosa che sia la causa dell’esistenza, della bontà e di ogni altra perfezione di tutti gli esseri; e questo essere lo chiamiamo Dio.  
+Il quinto modo si basa sul governo del mondo da parte di un essere intelligente. Vediamo che le cose prive di intelligenza, come i corpi naturali, agiscono sempre o quasi sempre in modo da ottenere il miglior risultato possibile; quindi è evidente che non lo fanno per caso, ma in modo deliberato. Ora, ciò che manca di intelligenza non può muoversi verso un fine se non guidato da un essere dotato di conoscenza e intelligenza; proprio come la freccia viene scoccata verso il suo bersaglio dal tiratore. Pertanto esiste un essere intelligente che guida tutte le cose naturali verso il loro scopo; e questo essere lo chiamiamo Dio.
+
+Risposta all’Obiezione 1: Come afferma [Agostino](/figures/augustine) nell’Enchiridion xi: “Poiché Dio è il bene supremo, non permetterebbe che alcun male esistesse nelle sue opere, se non fosse perché la sua onnipotenza e bontà sono tali da trasformare anche il male in bene”. Questo rappresenta una manifestazione della infinita bontà di Dio: permettere l’esistenza del male e trarne fuori il bene.
+
+Risposta all’Obiezione 2: Poiché la natura agisce per uno scopo determinato sotto la guida di un agente superiore, tutto ciò che avviene per opera della natura deve necessariamente essere ricondotto a Dio come alla sua causa prima. Allo stesso modo, tutto ciò che viene compiuto volontariamente deve anch’esso essere ricondotto a una causa superiore rispetto alla ragione o alla volontà umana, poiché queste possono cambiare o fallire; infatti, tutte le cose che sono soggette al cambiamento e capaci di errore devono necessariamente essere ricondotte a un principio primo immutabile e auto-necessario, come è stato dimostrato nel corpo dell’articolo stesso.
+
 <span class="atom-split" data-atom="006" data-title="OF THE SIMPLICITY OF GOD (EIGHT ARTICLES)" data-chapter="OF THE SIMPLICITY OF GOD (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 When the existence of a thing has been ascertained there remains the further question of the
@@ -266,6 +336,21 @@ Concerning His simplicity, there are eight points of inquiry:
 (6) Whether He is composed of subject and accident?
 (7) Whether He is in any way composite, or wholly simple?
 (8) Whether He enters into composition with other things?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quando l’esistenza di una cosa è stata accertata, rimane ancora da stabilire il modo in cui essa esiste, affinché possiamo conoscere la sua essenza. Ora, poiché non possiamo sapere che cos’è Dio, ma piuttosto ciò che Egli non è, non abbiamo alcun mezzo per comprendere come Dio sia, ma soltanto come Egli non sia.  
+Pertanto dobbiamo considerare: (1) Come Dio non è; (2) Come Egli viene conosciuto da noi; (3) Come Egli viene chiamato.  
+Si può dimostrare facilmente come Dio non sia, negandogli tutto ciò che è contrario all’idea stessa di Lui: cioè la composizione, il movimento e simili. Pertanto dobbiamo discutere: (1) La Sua semplicità, negando in Lui ogni forma di composizione; e poiché quanto è semplice nelle cose materiali è imperfetto e parte di qualcos’altro, dobbiamo esaminare anche: (2) La Sua perfezione; (3) L’[infinità](/concepts/infinity) della Sua essenza; (4) L’Immutabilità della Sua natura; (5) L’Unità della Sua essenza.  
+Per quanto riguarda la Sua semplicità, ci sono otto punti da esaminare:  
+(1) Se Dio sia un corpo;  
+(2) Se sia composto di materia e forma;  
+(3) Se in Lui esista una qualche composizione di quiddità, essenza o natura;  
+(4) Se sia composto da [essenza ed esistenza](/concepts/essentia_existentia);  
+(5) Se sia composto da genere e differenza;  
+(6) Se sia composto da soggetto e accidente;  
+(7) Se sia in qualche modo composto, o totalmente semplice;  
+(8) Se entri in composizione con altre cose.
 
 <span class="atom-split" data-atom="007" data-title="Whether God is a body?" data-chapter="Whether God is a body?" data-kind="atom" data-srclang="en"></span>
 
@@ -341,6 +426,35 @@ but by the affections of our soul, and by the actions of that same soul do we wi
 thus, to draw near to or to withdraw signifies merely spiritual actions based on the metaphor of
 local motion.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio sia un corpo, poiché un corpo è ciò che possiede le tre dimensioni. Ma la Sacra [Scrittura](/concepts/revelation) attribuisce proprio queste tre dimensioni a Dio; infatti si legge: “È più alto del cielo. È più profondo dell’inferno. Le sue dimensioni sono più vaste della terra e più ampie del mare” (Job 11:8-9). Pertanto, Dio è un corpo.
+
+Obiezione 2: Inoltre, tutto ciò che possiede una forma è un corpo, poiché la forma è una qualità della quantità. Ma Dio sembra possedere una forma, poiché è scritto: “Facciamo l’uomo a nostra immagine e somiglianza” (Genesi 1:26). Ora, una forma viene definita “immagine”, secondo il testo: “Lui stesso è la luce della sua gloria e l’immagine della sua sostanza” (Ebrei 1:3). Pertanto, Dio è un corpo.
+
+Obiezione 3: Inoltre, tutto ciò che possiede parti corporee è un corpo. Ora la Scrittura attribuisce parti corporee a Dio: “Hai forse un braccio come quello di Dio?” (Job 40:4); “Gli occhi del Signore sono su coloro che sono giusti” (Salmo 33:16); “La destra del Signore opera meraviglie” (Salmo 117:16). Pertanto, Dio è un corpo.
+
+Obiezione 4: Inoltre, la posizione corporea appartiene esclusivamente ai corpi. Tuttavia, nelle Scritture si dice di Dio che assume determinate posture: “Vidi il Signore seduto” (Isaia 6:1) e “Si alza per giudicare” (Isaia 3:13). Pertanto, Dio è un corpo.
+
+Obiezione 5: Inoltre, solo corpi o cose materiali possono essere considerati termini spaziali del tipo “da cui” o “verso cui”. Tuttavia, nelle Scritture Dio viene descritto come un termine spaziale del tipo “verso cui”, secondo le parole “Venite a Lui e riceverete la luce” (Salmo 33:6), e anche come un termine del tipo “da cui”: “Tutti coloro che si allontanano da Te saranno scritti sulla terra” (Geremia 17:13). Pertanto, Dio è un corpo.
+
+Al contrario, è scritto nel Vangelo di San Giovanni (Giov. 4:24): “Dio è uno spirito”.
+
+Rispondo che è assolutamente vero che Dio non è un corpo; e ciò può essere dimostrato in tre modi.  
+Primo, perché nessun corpo può muoversi se non viene spinto a farlo, come risulta evidente dall’[induzione](/positions/induction). Ora, è già stato dimostrato (Q[2], A[3]) che Dio è il Primo Motore e che Egli stesso è immoto. Pertanto, è chiaro che Dio non è un corpo.  
+Secondo, perché l’essere primordiale deve necessariamente essere in atto, e in nessun modo in [potenzialità](/concepts/act_potency). Infatti, anche se in qualsiasi cosa che passi dalla potenzialità all’atto la potenzialità è temporaneamente precedente all’atto, in termini assoluti l’atto è precedente alla potenzialità; poiché ciò che è in potenzialità può essere portato all’atto soltanto da un essere già in atto. Ora, è stato dimostrato che Dio è l’Essere Primordiale; pertanto, è impossibile che in Dio esista alcuna potenzialità. Ma ogni corpo è in potenzialità, poiché ciò che è continuo può essere diviso all’[infinito](/concepts/infinity); quindi, è impossibile che Dio sia un corpo.  
+Terzo, perché Dio è l’essere più nobile di tutti. Ora, è impossibile che un corpo sia l’essere più nobile; poiché un corpo deve essere o animato o inanimato, e un corpo animato è chiaramente più nobile di un corpo inanimato. Ma un corpo animato non è animato in quanto corpo; altrimenti, tutti i corpi sarebbero animati. Pertanto, la sua animazione dipende da qualche altra cosa, proprio come la nostra animazione dipende dall’anima. Quindi, ciò che rende un corpo animato deve essere più nobile del corpo stesso. Pertanto, è impossibile che Dio sia un corpo.
+
+Risposta all’Obiezione 1: Come abbiamo detto in precedenza (Q[1], A[9]), le Scritture sacre presentano realtà spirituali e divine attraverso l’analogia con cose corporee. Pertanto, quando attribuiscono a Dio tre dimensioni in riferimento alle quantità corporee, ciò implica la sua “quantità virtuale”: la profondità indica il suo potere di conoscere le cose nascoste; l’altezza simboleggia la trascendenza del suo potere supremo; la lunghezza rappresenta la durata della sua esistenza; la larghezza, infine, il suo atto d’amore verso tutte le cose. O, come afferma Dionigi di Atene (Div. Nom. IX), con la profondità di Dio si intende l’incomprensibilità della sua essenza; con la lunghezza, la diffusione del suo potere onnipresente; con la larghezza, il fatto che tutto sia sotto la sua protezione.
+
+Risposta all’Obiezione 2: Si dice che l’uomo sia fatto a immagine di Dio, non per quanto riguarda il suo corpo, ma per quanto riguarda ciò che lo distingue dagli altri animali. Pertanto, quando si dice “Facciamo l’uomo a nostra immagine e somiglianza”, si aggiunge “E che abbia dominio sui pesci del mare” (Genesi 1:26). L’uomo supera tutti gli animali per la sua ragione e intelligenza; è quindi in base a queste facoltà, che sono incorporee, che si dice che l’uomo sia fatto a immagine di Dio.
+
+Risposta all’Obiezione 3: Nella Scrittura, alle parti corporee di Dio vengono attribuite funzioni in relazione alle sue azioni, e ciò avviene sulla base di una certa analogia. Ad esempio, la funzione dell’occhio è quella di vedere; pertanto, l’occhio attribuito a Dio indica la sua capacità di “vedere” in senso intellettuale, non sensibile; e lo stesso vale per le altre parti del corpo divino.
+
+Risposta all’Obiezione 4: Quanto riguarda la posizione del corpo, anch’essa viene attribuita a Dio soltanto attraverso una sorta di parallelismo. Si parla di Lui come se stesse seduto, in segno della Sua immutabilità e del Suo dominio; e come se stesse in piedi, in riferimento alla Sua capacità di superare qualsiasi ostacolo gli si frapponga.
+
+Risposta all’Obiezione 5: Non ci avviciniamo a Dio attraverso azioni corporee, poiché Egli è ovunque; bensì attraverso le emozioni della nostra anima e attraverso le azioni stesse di quell’anima ci allontaniamo da Lui. Pertanto, avvicinarsi o allontanarsi da Dio significa semplicemente compiere azioni spirituali, basate sulla metafora del movimento spaziale.
+
 <span class="atom-split" data-atom="008" data-title="Whether God is composed of matter and form?" data-chapter="Whether God is composed of matter and form?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God is composed of matter and form. For whatever has a soul is
@@ -386,6 +500,24 @@ itself, unless something else prevents it, can be received by many. But that for
 received in matter, but is self-subsisting, is individualized precisely because it cannot be received
 in a subject; and such a form is God. Hence it does not follow that matter exists in God.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio sia composto da materia e forma. Infatti, tutto ciò che possiede un’anima è formato da materia e forma; poiché l’anima rappresenta la forma del corpo. Tuttavia, la [Scrittura](/concepts/revelation) attribuisce un’anima a Dio; ne fa menzione nell’Epistola agli Ebrei (Ebrei 10:38), dove Dio dice: “Ma il mio giusto vive per fede; se però si allontana da essa, non mi compiacerà più”. Pertanto, Dio è composto da materia e forma.
+
+Obiezione 2: Inoltre, la [ira](/concepts/anger), la gioia e simili sono passioni del composto. Tuttavia, nella Scrittura queste vengono attribuite a Dio: “Il Signore era estremamente arrabbiato con il suo popolo” (Salmo 105:40). Pertanto, Dio è costituito da materia e forma.
+
+Obiezione 3: Inoltre, la materia è il principio di individuazione. Ma Dio sembra essere un essere individuale, poiché non può essere attribuito a molti. Pertanto, Egli è composto da materia e forma.
+
+Al contrario, tutto ciò che è composto da materia e forma è un corpo; infatti, la quantità dimensionale rappresenta la prima proprietà della materia. Ma Dio non è un corpo, come dimostrato nell’articolo precedente; pertanto, non è composto da materia e forma.
+
+Rispondo che è impossibile che la materia possa esistere in Dio. Primo perché la materia si trova in uno stato di [potenzialità](/concepts/act_potency), mentre abbiamo dimostrato (Q[2], A[3]) che Dio è un [atto puro](/concepts/actus_purus), privo di qualsiasi potenzialità. Pertanto, è impossibile che Dio sia composto da materia e forma. In secondo luogo, tutto ciò che è composto da materia e forma deve la sua perfezione e bontà alla propria forma; quindi questa bontà è “partecipata”, nella misura in cui anche la materia partecipa alla forma stessa. Ora, il primo bene e il migliore di tutti – cioè Dio – non è un bene “partecipato”, poiché il bene essenziale precede sempre il bene “partecipato”. Pertanto, è impossibile che Dio sia composto da materia e forma. Terzo, poiché ogni agente agisce attraverso la propria forma; quindi il modo in cui possiede tale forma è proprio il modo in cui agisce. Quindi, ciò che è primariamente ed essenzialmente un agente deve essere primariamente ed essenzialmente forma. Ora, Dio è l’agente primo, poiché è la prima [causa efficiente](/concepts/four_causes); pertanto, per sua essenza, è una forma, e non è composto da materia e forma.
+
+Risposta all’Obiezione 1: Una “anima” viene attribuita a Dio perché le Sue azioni assomigliano alle azioni di un’anima; infatti, il fatto che compiamo qualcosa dipende dalla nostra anima. Pertanto, ciò che è gradito alla Sua volontà viene considerato gradito anche alla Sua anima.
+
+Risposta all’Obiezione 2: L’ira e simili emozioni vengono attribuite a Dio in base a una somiglianza negli effetti che producono. Poiché punire è propriamente l’atto di un uomo arrabbiato, la punizione divina viene metaforicamente definita “la sua ira”.
+
+Risposta all’Obiezione 3: Le forme che possono essere ricevute nella materia vengono individualizzate dalla materia stessa; quelle, invece, che non possono essere ricevute nella materia ma sono autonome, vengono individualizzate proprio perché non possono essere accolte in alcun soggetto concreto; e tale forma è Dio. Pertanto, da ciò non segue affatto che la materia esista in Dio.
+
 <span class="atom-split" data-atom="009" data-title="Whether God is the same as His essence or nature?" data-chapter="Whether God is the same as His essence or nature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God is not the same as His essence or nature. For nothing can be in
@@ -430,6 +562,21 @@ Reply to Objection 2: The effects of God do not imitate Him perfectly, but only 
 are able; and the imitation is here defective, precisely because what is simple and one, can only be
 represented by divers things; consequently, composition is accidental to them, and therefore, in
 them "suppositum" is not the same as nature.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non sia lo stesso della sua essenza o natura. Infatti, nulla può esistere “in sé stesso”. Ma si dice che la sostanza o la natura di Dio – cioè la divinità stessa – esista in Dio. Pertanto, sembra che Dio non sia lo stesso della sua essenza o natura.
+
+Obiezione 2: Inoltre, l’effetto viene assimilato alla sua causa; infatti ogni agente produce qualcosa di simile a sé stesso.  
+Ma nelle cose create il “suppostum” non è identico alla loro natura; ad esempio, un uomo non è lo stesso della sua umanità. Pertanto, Dio non è lo stesso della Sua divinità.
+
+Al contrario, si dice di Dio che Egli sia la vita stessa, e non solo che sia una creatura vivente: “Io sono la via, la verità e la vita” (Giovanni 14:6). Ora, il rapporto tra la divinità e Dio è lo stesso che il rapporto tra la vita e una creatura vivente. Pertanto, Dio è proprio la sua stessa divinità.
+
+Rispondo che Dio è identico alla Sua essenza o natura. Per comprenderlo, è necessario notare che nelle cose composte da materia e forma, la natura o essenza deve differire dal “suppositum”, poiché l’essenza o natura indica soltanto ciò che è contenuto nella definizione della specie; ad esempio, l’umanità indica tutto ciò che è incluso nella definizione dell’uomo, poiché è proprio questo che rende un uomo tale. Ora, la materia individuale, con tutti gli accidenti che la caratterizzano, non è inclusa nella definizione della specie: questa carne particolare, queste ossa, questa colorazione nera o bianca, ecc., non fanno parte della definizione di un uomo. Pertanto, questa carne, queste ossa e queste qualità accidentali non sono contenute nell’umanità; eppure fanno parte della cosa che è un uomo. Ne consegue che la cosa che è un uomo possiede qualcosa in più rispetto all’umanità stessa. Quindi, umanità e uomo non sono del tutto identici; l’umanità indica piuttosto la parte formale di un uomo, poiché i principi attraverso cui una cosa viene definita vengono considerati i componenti formali rispetto alla materia che la caratterizza individualmente. D’altra parte, nelle cose che non sono composte da materia e forma, in cui l’individualizzazione non deriva dalla materia individuale – cioè da questa particolare materia – le stesse forme, essendo esse stesse individualizzate, devono necessariamente essere considerate come “supposita”. Pertanto, in tali casi, il “suppositum” e la natura sono identici. Poiché Dio non è composto da materia e forma, Egli deve essere la Sua stessa Divinità, la Sua stessa Vita, e tutto ciò che di Lui si può dire in questo senso.
+
+Risposta all’Obiezione 1: Possiamo parlare di cose semplici soltanto come se fossero simili alle cose composte da cui traiamo la nostra conoscenza. Pertanto, quando parliamo di Dio, utilizziamo nomi concreti per indicare la Sua essenza, poiché per noi esistono soltanto cose composte; mentre usiamo nomi astratti per esprimere la Sua semplicità. Quindi, quando affermiamo che la divinità, la vita o simili qualità siano presenti in Dio, intendiamo indicare il modo composto con cui il nostro intelletto le comprende, ma non che vi sia alcuna vera composizione all’interno di Dio stesso.
+
+Risposta all’Obiezione 2: Gli effetti di Dio non lo imitano perfettamente, ma soltanto nella misura in cui ne sono capaci; e questa imitazione è imperfetta proprio perché ciò che è semplice e unitario può essere rappresentato solo attraverso cose diverse; pertanto, la composizione è qualcosa di accidentale per tali effetti, e quindi, in essi, il “suppostum” non coincide con la natura stessa di Dio.
 
 <span class="atom-split" data-atom="010" data-title="Whether essence and existence are the same in God?" data-chapter="Whether essence and existence are the same in God?" data-kind="atom" data-srclang="en"></span>
 
@@ -482,6 +629,20 @@ subject. Taking "to be" in the first sense, we cannot understand God's existence
 but only in the second sense. We know that this proposition which we form about God when we
 say "God is," is true; and this we know from His effects (Q[2], A[2]).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’[essenza](/concepts/essentia_existentia) e l’['esistenza](/concepts/essentia_existentia) di Dio non siano la stessa cosa. Infatti, se così fosse, allora alla divina essenza non verrebbe aggiunto nulla. Ora, un essere a cui non viene apportato alcun elemento aggiuntivo è un essere universale, che può essere attribuito a tutte le cose. Pertanto, si dovrebbe concludere che Dio sia semplicemente un essere universale, applicabile a ogni cosa. Ma ciò è falso: “Gli uomini infatti hanno dato nomi incomprensibili a pietre e legno” (Sapienza 14:21). Quindi, l’esistenza di Dio non coincide con la sua essenza.
+
+Obiezione 2: Inoltre, possiamo sapere “se” Dio esista, come detto sopra (Q[2], A[2]); ma non possiamo conoscere “cosa” Egli sia. Pertanto, l’esistenza di Dio non è la stessa cosa della Sua essenza, ovvero della Sua natura o sostanza.
+
+Al contrario, Hilary afferma (Trin. vii): “In Dio l’esistenza non è una qualità accidentale, ma una verità che esiste realmente”. Pertanto, ciò che esiste realmente in Dio è la Sua stessa esistenza.
+
+Rispondo che Dio non è soltanto la propria essenza, come dimostrato nell’articolo precedente, ma anche la propria esistenza. Ciò può essere dimostrato in diversi modi. Primo, tutto ciò che una cosa possiede al di fuori della sua essenza deve essere causato o dai principi costitutivi di quella stessa essenza (come una proprietà che accompagna necessariamente una data specie – ad esempio, la capacità di ridere è propria dell’uomo – e quindi derivante da tali principi), oppure da un agente esterno (ad esempio, il calore nell’acqua è causato dal fuoco). Pertanto, se l’esistenza di una cosa differisce dalla sua essenza, questa esistenza deve essere dovuta o a un agente esterno o ai principi costitutivi essenziali della cosa stessa. Ora, è impossibile che l’esistenza di una cosa derivi dai suoi principi costitutivi essenziali, poiché nulla può essere la causa sufficiente della propria esistenza, se questa stessa esistenza dipende da altri fattori. Quindi, quella cosa la cui esistenza differisce dalla sua essenza deve avere la propria esistenza causata da un altro elemento; ma ciò non può valere per Dio, poiché lo definiamo la prima “causa efficiente”. Pertanto, è impossibile che in Dio l’esistenza differisca dall’essenza. In secondo luogo, l’esistenza è ciò che rende concreta ogni forma o natura; bene e umanità vengono considerati realtà concrete soltanto perché esistono realmente. Quindi, se l’essenza rappresenta una realtà distinta dall’esistenza, allora anche l’esistenza può essere paragonata all’essenza, proprio come l’“attualità” può essere considerata opposta alla “potenzialità”. Poiché in Dio non esiste alcuna potenzialità (come dimostrato sopra), ne consegue che in Lui essenza ed esistenza sono identiche. Pertanto, la sua essenza è la sua stessa esistenza. In terzo luogo, proprio come ciò che possiede il fuoco ma non lo è realmente è “infuocato” per partecipazione, così anche ciò che possiede l’esistenza ma non è essa stessa esistenza è un essere “per partecipazione”. Ma Dio è la propria essenza, come dimostrato sopra; quindi, se non fosse la propria esistenza, non sarebbe essenza stessa, bensì un essere derivato da altri elementi. Ciò sarebbe assurdo. Pertanto, Dio è sia la propria essenza che la propria esistenza.
+
+Risposta all’Obiezione 1: Una cosa a cui non è stato aggiunto nulla può essere di due tipi. O bien, la sua essenza stessa esclude qualsiasi possibile aggiunta; ad esempio, è proprio dell’essenza di un animale irrazionale non possedere ragione. Oppure si può intendere che a una cosa non sia stato aggiunto nulla nel senso che la sua essenza non richiede l’aggiunta di alcun elemento; in questo caso, il genere “animale” è privo di ragione, poiché non è essenziale agli animali in generale possederla, ma né è essenziale per loro non averla. Pertanto, l’esistenza divina, nel primo senso, non contiene nulla che le sia stato aggiunto; mentre l’essere universale, nel secondo senso, non presenta alcun elemento aggiuntivo alla sua essenza stessa.
+
+Risposta all’Obiezione 2: “Essere” può significare una delle due cose seguenti: può indicare l’atto stesso dell’essenza, oppure può riferirsi alla composizione di una proposizione che avviene nel momento in cui la mente unisce un predicato a un soggetto. Se interpretiamo “essere” nel primo senso, non possiamo comprendere né l’esistenza di Dio né la sua essenza; ma solo nel secondo senso. Sappiamo che la proposizione “Dio è” è vera, e lo sappiamo grazie ai suoi effetti (Q[2], A[2]).
+
 <span class="atom-split" data-atom="011" data-title="Whether God is contained in a genus?" data-chapter="Whether God is contained in a genus?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God is contained in a genus. For a substance is a being that subsists
@@ -533,6 +694,20 @@ homogeneous with what is measured. Now, God is not a measure proportionate to an
 He is called the measure of all things, in the sense that everything has being only according as it
 resembles Him.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio appartenga a un genere. Infatti, una sostanza è un essere che esiste di per sé stesso; e questo vale soprattutto per Dio. Pertanto, Dio appartiene a un genere di sostanze.
+
+Obiezione 2: Inoltre, nulla può essere misurato se non con qualcosa che appartiene allo stesso genere di esso; ad esempio, la lunghezza viene misurata con la lunghezza e i numeri con i numeri. Ma Dio è la misura di tutte le sostanze, come dimostra il Commentatore (Metafisica, x). Pertanto, Dio appartiene al genere delle sostanze.
+
+Al contrario, nella mente, il genere è precedente a ciò che contiene. Ma nulla è precedente a Dio, né in realtà né mentalmente. Pertanto, Dio non appartiene ad alcun genere.
+
+Rispondo che una cosa può appartenere a un genere in due modi: o in modo assoluto e proprio, come una specie inclusa in quel genere; oppure perché è riducibile ad esso, come principi o caratteristiche specifiche di quel genere. Ad esempio, il punto e l’unità sono riducibili al genere della quantità, in quanto suoi principi fondamentali; mentre la cecità e tutte le altre caratteristiche negative sono riducibili al genere delle “disposizioni” o degli stati dell’animo. Ma in nessun caso Dio può essere considerato parte di un genere. Il fatto che non possa essere una specie di alcun genere può essere dimostrato in tre modi. Primo, perché una specie è costituita da genere e differenza; ora, ciò da cui deriva la differenza specifica è sempre legato a ciò da cui deriva il genere stesso, proprio come l’“attualità” è legata alla “potenzialità”. L’essere animale, ad esempio, deriva dalla natura sensibile; allo stesso modo, l’essere razionale deriva dalla natura intellettuale. Poiché Dio non possiede una natura sensibile né intellettuale, è impossibile che appartenga a un genere come specie sua. Secondo, poiché l’esistenza stessa di Dio è la sua essenza, se Dio fosse parte di un genere, sarebbe il genere stesso dell’“essere”, poiché ogni genere si riferisce all’essenza delle cose. Ma come ha dimostrato il Filosofo (Metafisica III), l’“essere” non può essere considerato un genere, poiché ogni genere possiede differenze distinte dalla propria essenza fondamentale; inoltre, nessuna differenza può esistere separata dall’“essere” stesso. Di conseguenza, Dio non appartiene a alcun genere. Terzo, tutte le cose appartenenti allo stesso genere condividono la stessa essenza o quiddità, ma differiscono nell’esistenza; ad esempio, l’esistenza di un uomo e di un cavallo è diversa, così come quella di questo e di quel particolare uomo. Tuttavia, in Dio esistenza ed essenza non differiscono, come già dimostrato in precedenza. Pertanto, è evidente che Dio non appartiene a alcun genere. Da ciò deriva anche che Dio non possiede né genere né differenze specifiche; inoltre, non può essere definito in modo chiaro, poiché una definizione richiede genere e differenza, mentre il mezzo di una dimostrazione è anch’esso una definizione. Il fatto che Dio non possa essere considerato un principio riducibile a un genere è evidente: infatti, un principio riducibile a un genere non può estendersi al di fuori di quel genere stesso; ad esempio, il punto è il principio della quantità continua, mentre l’unità è il principio della quantità discontinua. Ma Dio è il principio di ogni essere; pertanto, non può essere considerato parte di alcun genere come suo principio fondamentale.
+
+Risposta all’Obiezione 1: La parola “sostanza” indica non solo ciò che esiste di per sé stesso – poiché l’esistenza stessa non può costituire un genere, come dimostrato nel corpo dell’articolo – ma anche un’essenza che possiede la proprietà di esistere in questo modo, cioè di esistere di per sé; tuttavia, questa esistenza non è essenziale a tale entità. È quindi evidente che Dio non appartiene al genere delle sostanze.
+
+Risposta all’Obiezione 2: Questa obiezione riguarda la misura proporzionale, che deve essere omogenea rispetto a ciò che viene misurato. Ora, Dio non è una misura proporzionale a nulla; tuttavia, viene chiamato “la misura di tutte le cose”, nel senso che tutto esiste soltanto nella misura in cui assomiglia a Lui.
+
 <span class="atom-split" data-atom="012" data-title="Whether in God there are any accidents?" data-chapter="Whether in God there are any accidents?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that there are accidents in God. For substance cannot be an accident, as
@@ -566,6 +741,20 @@ Hence it does not follow that there are accidents in God as there are in us.
 Reply to Objection 2: Since substance is prior to its accidents, the principles of accidents are
 reducible to the principles of the substance as to that which is prior; although God is not first as if
 contained in the genus of substance; yet He is first in respect to all being, outside of every genus.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che in Dio esistano accidenti. Infatti, la sostanza non può essere un accidente, come afferma [Aristotele](/figures/aristotle) (Fisica i). Pertanto, ciò che è un accidente in una cosa non può essere considerato sostanza in un’altra. Si dimostra quindi che il calore non può essere la [forma sostanziale](/concepts/forma_substantialis) del fuoco, poiché esso è un accidente in altre cose. Ma la saggezza, la virtù e simili, che sono accidenti in noi, sono attributi di Dio. Quindi, anche in Dio esistono accidenti.
+
+Obiezione 2: Inoltre, in ogni genere esiste un principio primo. Ma esistono molti “generi” di accidenti. Pertanto, se i membri primari di questi generi non si trovassero in Dio, ci sarebbero molti esseri primari diversi da Dio – il che è assurdo.
+
+Al contrario, ogni accidente appartiene a un soggetto. Ma Dio non può essere considerato un soggetto, poiché “nessuna forma semplice può essere considerata un soggetto”, come afferma Boezio nel “De Trinitate”. Pertanto, in Dio non può esistere alcun accidente.
+
+Rispondo che, da tutto ciò che abbiamo detto, è chiaro che in Dio non può esserci nulla di casuale. Primo perché un soggetto viene paragonato ai suoi accidenti come la [potenzialità](/concepts/act_potency) all’attualità; infatti, in qualche senso il soggetto diventa attuale grazie ai suoi accidenti. Ma in Dio non può esserci alcuna potenzialità, come è stato dimostrato (Q[2], A[3]). In secondo luogo, perché Dio è la sua stessa esistenza; e come afferma Boezio (Hebdom.), sebbene ogni essenza possa avere qualcosa che le viene aggiunto, ciò non può valere per l’essere assoluto: ad esempio, una sostanza riscaldata può ricevere qualcosa di estraneo al calore, come la bianchezza; tuttavia, il calore assoluto non può contenere nulla altro che calore stesso. Terzo perché ciò che è essenziale precede ciò che è accidentale. Poiché Dio è l’essere primordiale e assoluto, in Lui non può esserci nulla di accidentale. Inoltre, Egli non può avere alcun accidente essenziale (come la capacità di ridere, che è un accidente essenziale dell’uomo), poiché tali accidenti sono causati dai principi costitutivi del soggetto stesso. Ora, in Dio non può esserci nulla che sia causato da altro, poiché Egli è la causa prima. Pertanto, consegue che in Dio non può esserci alcun accidente.
+
+Risposta all’Obiezione 1: La virtù e la saggezza non vengono attribuite a Dio e a noi in modo univoco. Pertanto, non ne consegue che in Dio esistano accidenti, così come esistono in noi.
+
+Risposta all’Obiezione 2: Poiché la sostanza precede i suoi accidenti, i principi degli accidenti possono essere ridotti ai principi della sostanza, in quanto ciò che è prioritario; sebbene Dio non sia considerato “primo” nel senso di essere contenuto nel genere della sostanza, egli è tuttavia “primo” rispetto a ogni forma di esistenza, al di fuori di qualsiasi genere.
 
 <span class="atom-split" data-atom="013" data-title="Whether God is altogether simple?" data-chapter="Whether God is altogether simple?" data-kind="atom" data-srclang="en"></span>
 
@@ -669,6 +858,24 @@ it is better to say that they are, not different, but diverse. Hence, according 
 by something." Therefore, strictly speaking, primary matter and God do not differ, but are by their
 very being, diverse. Hence it does not follow they are the same.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio faccia parte della composizione di altre cose, poiché Dionigi afferma (Coel. Hier. iv): “L’essere di tutte le cose è ciò che sta al di sopra dell’essere stesso: la divinità”. Ma l’essere di tutte le cose fa parte della composizione di ogni singola cosa; pertanto, anche Dio fa parte della composizione di altre cose.
+
+Obiezione 2: Inoltre, Dio è una forma; poiché [Agostino](/figures/augustine) afferma (De Verb. Dom., [*Serm. xxxviii*]) che “la parola di Dio, che è Dio stesso, è una forma non creata”. Ma una forma fa parte di un composto. Pertanto, Dio deve far parte di qualche composto.
+
+Obiezione 3: Inoltre, qualsiasi cosa esista, essendo del tutto identica alle altre cose che esistono, è necessariamente composta da elementi diversi tra loro. Ma Dio e la materia primaria sono entrambi semplici e non differiscono in alcun modo l’uno dall’altro; pertanto, devono essere assolutamente identici. Tuttavia, la materia primaria entra a far parte della composizione delle altre cose; quindi lo stesso vale anche per Dio. Dimostrazione: qualsiasi cosa che differisca da un’altra deve differire per qualche motivo specifico, e quindi è necessariamente composta da elementi diversi. Ma Dio e la materia primaria sono entrambi semplici; pertanto non differiscono affatto l’uno dall’altro.
+
+Al contrario, Dionigi afferma (Div. Nom. ii): “Non è possibile toccarlo”, cioè Dio, “né alcuna altra unione con Lui attraverso l’integrazione di parti tra loro”. Inoltre, la causa prima governa tutte le cose senza mescolarsi con esse, come dice il Filosofo (De Causis).
+
+Rispondo che, su questo punto, sono stati commessi tre errori. Alcuni hanno affermato che Dio sia l’anima del mondo, come risulta chiaramente da Agostino (De Civ. Dei vii, 6): questa posizione è sostanzialmente identica a quella di coloro che sostengono che Dio sia l’anima del cielo più alto. Altri hanno invece sostenuto che Dio sia il principio formale di tutte le cose; questa era la teoria degli Almarici. Il terzo errore è quello di Davide di Dinant, il quale ha insegnato in modo assurdo che Dio fosse la materia primordiale. Ora, tutti questi errori contengono evidenti falsità: infatti non è possibile che Dio entri a far parte della composizione di nulla, né come principio formale né come principio materiale. Primo perché Dio è la prima causa efficiente; una causa efficiente, però, non è identica numericamente alla forma dell’oggetto causato, ma soltanto specificamente: l’uomo, ad esempio, genera un altro uomo. Ma la materia primordiale non può essere né numericamente né specificamente identica a una causa efficiente, poiché la prima è solo potenziale, mentre la seconda è reale. In secondo luogo, poiché Dio è la prima causa efficiente, agire appartiene a Lui in modo primario ed essenziale; ciò che entra a far parte di qualcosa, invece, non agisce in modo primario ed essenziale, ma piuttosto il composto stesso agisce: la mano, ad esempio, non agisce, ma l’uomo attraverso la sua mano; il fuoco riscalda grazie al proprio calore. Pertanto, Dio non può essere parte di un composto. Terzo perché nessuna parte di un composto può essere assolutamente primordiale tra tutte le cose esistenti – né la materia, né la forma, anche se queste sono le parti fondamentali di ogni composto. La materia è infatti solo potenziale; e la potenzialità è assolutamente posteriore all’attualità, come risulta chiaramente dalle precedenti argomentazioni (Q[3], A[1]); mentre una forma che fa parte di un composto è una forma partecipata; e poiché ciò che partecipa è posteriore a ciò che è essenziale, allo stesso modo lo è anche ciò che è partecipato; il fuoco, ad esempio, negli oggetti infuocati è posteriore al fuoco in sé essenziale. Ora è stato dimostrato che Dio è un essere assolutamente primordiale (Q[2], A[3]).
+
+Risposta all’Obiezione 1: La Divinità viene definita l’essere di tutte le cose, in quanto loro causa efficace ed esemplare, ma non come la loro essenza stessa.
+
+Risposta all’Obiezione 2: La Parola è una forma esemplare; ma non una forma che faccia parte di un composto.
+
+Risposta all’Obiezione 3: Le cose semplici non si distinguono per differenze aggiuntive, poiché questa è proprio la caratteristica dei composti. Pertanto, l’uomo e il cavallo si differenziano per le loro proprietà razionali e irrazionali; tuttavia, queste differenze stesse non si distinguono a loro volta per altre differenze ulteriori. Quindi, per essere del tutto precisi, è meglio dire che tali cose non sono diverse, ma eterogenee. Secondo il Filosofo (Metafisica, X), “le cose eterogenee sono assolutamente distinte, mentre quelle diverse si differenziano per qualcosa”. Pertanto, in senso stretto, la materia primordiale e Dio non si distinguono tra loro, ma sono, per la loro stessa essenza, eterogenee. Ciò tuttavia non significa che siano la stessa cosa.
+
 <span class="atom-split" data-atom="015" data-title="THE PERFECTION OF GOD (THREE ARTICLES)" data-chapter="THE PERFECTION OF GOD (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Having considered the divine simplicity, we treat next of God's perfection. Now because
@@ -678,6 +885,13 @@ Concerning the first there are three points of inquiry:
 (1) Whether God is perfect?
 (2) Whether God is perfect universally, as having in Himself the perfections of all things?
 (3) Whether creatures can be said to be like God?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo aver considerato la semplicità divina, passiamo ora alla perfezione di Dio. Poiché tutto ciò che è perfetto viene definito “buono”, parleremo innanzitutto della perfezione divina; in seguito, della bontà divina. Per quanto riguarda la prima questione, vi sono tre punti da esaminare:  
+(1) Dio è davvero perfetto?  
+(2) Dio è perfetto in modo universale, possedendo in sé le perfezioni di tutte le cose?  
+(3) Si può dire che le creature siano simili a Dio?
 
 <span class="atom-split" data-atom="016" data-title="Whether God is perfect?" data-chapter="Whether God is perfect?" data-kind="atom" data-srclang="en"></span>
 
@@ -722,6 +936,24 @@ existence is that which actuates all things, even their forms. Therefore it is n
 things as the receiver is to the received; but rather as the received to the receiver. When therefore
 I speak of the existence of man, or horse, or anything else, existence is considered a formal principle,
 and as something received; and not as that which exists.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la perfezione non appartenga a Dio. Infatti, diciamo che qualcosa è perfetto quando è completamente realizzato. Ma non è appropriato che Dio venga “realizzato” in qualche modo; pertanto, Egli non è perfetto.
+
+Obiezione 2: Inoltre, Dio è l’inizio primordiale di tutte le cose. Tuttavia, gli inizi delle cose sembrano essere imperfetti; ad esempio, il seme rappresenta l’inizio della vita animale e vegetale. Pertanto, anche Dio dovrebbe essere considerato imperfetto.
+
+Obiezione 3: Inoltre, come dimostrato sopra (Q[3], A[4]), l’essenza di Dio è l’esistenza stessa. Tuttavia, l’esistenza sembra la più imperfetta, poiché è universale e suscettibile di ogni modificazione. Pertanto, Dio è imperfetto.
+
+Al contrario, è scritto: “Siate perfetti, come lo è vostro Padre celeste” (Matteo 5:48).
+
+Rispondo che, come riferisce il Filosofo (Metafisica XII), alcuni antichi filosofi, cioè i Pitagorici e Leucippo, non attribuivano i termini “migliore” e “più perfetto” al principio primo. Il motivo era che gli antichi filosofi consideravano esistere soltanto un principio materiale; e un principio materiale è necessariamente il meno perfetto. Poiché la materia, in sé, è soltanto potenziale, anche il primo principio materiale deve essere puramente potenziale, e quindi il meno perfetto. Ora, Dio è il principio primo: non materiale, ma secondo l’ordine della [causa efficiente](/concepts/four_causes), che deve necessariamente essere il più perfetto. Poiché la materia, in sé, è soltanto potenziale, un agente, invece, si trova nello stato di [attualità](/concepts/act_potency). Pertanto, il primo principio attivo deve necessariamente essere il più attuale, e quindi il più perfetto; infatti, una cosa è perfetta nella misura in cui è attuale, poiché definiamo perfetto ciò che non manca di nulla di ciò che rende tale la sua perfezione.
+
+Risposta all’Obiezione 1: Come afferma Gregorio (Moralia, v, 26,29): “Anche se le nostre labbra possono solo balbettare, cantiamo comunque le cose sublimi di Dio”. Poiché ciò che non è ancora stato realizzato non può essere correttamente definito “perfetto”. Tuttavia, poiché le cose create vengono chiamate “perfette” quando passano dalla potenzialità all’attualità, il termine “perfetto” indica tutto ciò che non manca di attualità, indipendentemente dal fatto che tale perfezione sia effettivamente realizzata o meno.
+
+Risposta all’Obiezione 2: Il principio materiale che, in noi, si rivela imperfetto non può essere assolutamente primordiale; deve quindi essere preceduto da qualcosa di perfetto. Poiché il seme, sebbene sia il principio della vita animale che si riproduce attraverso di esso, ha a sua volta come origine un animale o una pianta da cui deriva. Infatti, ciò che è potenziale deve necessariamente precedere ciò che è reale; poiché un essere potenziale può essere portato all’atto soltanto da un essere già reale.
+
+Risposta all’Obiezione 3: L’esistenza è la cosa più perfetta di tutte, poiché viene paragonata a tutte le altre cose come ciò che le rende reali; infatti, nulla ha realtà se non nella misura in cui esiste. Pertanto, l’esistenza è ciò che dà attuazione a tutte le cose, anche alle loro forme. Non viene quindi paragonata ad altre cose nel ruolo di un ricevente rispetto a ciò che viene ricevuto, ma piuttosto nel ruolo di ciò che viene ricevuto rispetto al ricevente stesso. Quando dico, pertanto, dell’esistenza di un uomo, di un cavallo o di qualsiasi altra cosa, l’esistenza viene considerata come un principio formale, come qualcosa che viene ricevuto, e non come ciò che esiste in sé.
 
 <span class="atom-split" data-atom="017" data-title="Whether the perfections of all things are in God?" data-chapter="Whether the perfections of all things are in God?" data-kind="atom" data-srclang="en"></span>
 
@@ -781,6 +1013,22 @@ things both exist and live. Although therefore existence does not include life a
 that which participates in existence need not participate in every mode of existence; nevertheless
 God's existence includes in itself life and wisdom, because nothing of the perfection of being can
 be wanting to Him who is subsisting being itself.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le perfezioni di tutte le cose non risiedano in Dio. Infatti, Dio è semplice, come dimostrato sopra (Q[3], A[7]); mentre le perfezioni delle cose sono molteplici e varie. Pertanto, le perfezioni di tutte le cose non possono trovarsi in Dio.
+
+Obiezione 2: Inoltre, gli opposti non possono coesistere nello stesso soggetto. Ora, le perfezioni delle cose sono tra loro opposte, poiché ciascuna cosa viene perfezionata dalla propria differenza specifica. Ma le differenze grazie alle quali i “generi” vengono distinti e le “specie” costituite sono anch’esse opposte tra loro. Pertanto, poiché gli opposti non possono coesistere nello stesso soggetto, sembra che le perfezioni di tutte le cose non siano presenti in Dio.
+
+Obiezione 3: Inoltre, una creatura vivente è più perfetta di ciò che esiste semplicemente; e una creatura intelligente è più perfetta di ciò che vive semplicemente. Pertanto, la vita è più perfetta dell’esistenza; e la conoscenza è più perfetta della vita. Ma l’essenza di Dio è proprio l’esistenza stessa. Quindi Lui non possiede le perfezioni della vita, della conoscenza o di altre simili qualità.
+
+Al contrario, Dionigi afferma (Div. Nom. v) che “Dio, nella Sua unica esistenza, predetermina tutte le cose”.
+
+Rispondo che tutte le perfezioni create esistono in Dio. Per questo motivo Egli viene definito universalmente perfetto, poiché non manca alcuna eccellenza che possa essere trovata in qualsiasi genere. Ciò può essere compreso da due considerazioni. Prima di tutto, poiché qualsiasi perfezione esista in un effetto deve necessariamente esistere nella causa efficace: o nella stessa forma, se si tratta di un agente univoco – come quando l’uomo riproduce un altro essere umano; oppure in misura più elevata, se si tratta di un agente equivoco – come nel caso del sole, che contiene in sé le caratteristiche di tutto ciò che viene generato dalla sua forza. È evidente che l’effetto preesiste virtualmente nella causa efficace; e anche se esistere “in potenzialità” all’interno di una causa materiale significa esistere in modo meno perfetto – poiché la materia stessa è imperfetta, mentre un agente è perfetto – tuttavia esistere virtualmente nella causa efficace significa esistere in modo più perfetto. Poiché Dio è la prima causa efficace di tutte le cose, le perfezioni di ogni essere devono necessariamente esistere in Lui in misura più elevata. Dionigi di Atene esprime lo stesso concetto quando afferma di Dio: “Non è che Egli sia questo o quest’altro, ma che Egli sia tutto, in quanto causa di tutto”. In secondo luogo, poiché Dio è l’esistenza stessa, autosussistente per sua natura (Q[3], A[4]), deve necessariamente contenere in Sé tutta la perfezione dell’essere. È chiaro infatti che se qualcosa di caldo non possiede la piena perfezione del calore, ciò è dovuto al fatto che tale cosa non partecipa alla sua completezza; ma se quel calore fosse autosussistente, non gli mancherebbe alcuna delle caratteristiche proprie del calore. Poiché Dio è l’essere stesso che esiste per sé, a Lui non può mancare alcuna perfezione dell’essere. Ora, tutte le perfezioni create sono incluse nella perfezione dell’essere; poiché le cose sono perfette proprio nel misura in cui hanno essere in qualche modo. Ne consegue che a Dio non manca alcuna perfezione. Anche questo ragionamento è suggerito da Dionigi di Atene, quando afferma che “Dio esiste non in un modo particolare, ma abbraccia tutto l’essere dentro di Sé, in modo assoluto, senza limitazioni e uniformemente”; e in seguito aggiunge: “Egli è l’esistenza stessa delle cose che esistono”.
+
+Risposta all’Obiezione 1: Proprio come il sole (come osserva Dionigi nel “Divino Nome”, v), pur rimanendo uno e brillando uniformemente, contiene in sé le sostanze di tutte le cose sensibili, nonché molteplici e diverse qualità; “con ancora maggiore ragione” tutte le cose dovrebbero preesistere, in una sorta di unità naturale, nella causa di ogni cosa; e quindi anche quelle cose diverse e tra loro opposte dovrebbero preesistere in Dio come un tutto unico, senza che ciò danneggi la Sua semplicità. Ciò basta per rispondere alla Seconda Obiezione.
+
+Risposta all’Obiezione 3: Lo stesso Dionigi afferma (Div. Nom. v) che, sebbene l’esistenza sia più perfetta della vita e la vita più perfetta della saggezza, se considerate in termini di distinzioni concettuali; tuttavia, una creatura vivente è più perfetta di ciò che esiste semplicemente, perché le creature viventi non solo esistono, ma sono anche intelligenti. Pertanto, sebbene l’esistenza non includa necessariamente la vita e la saggezza – poiché ciò che partecipa all’esistenza non deve necessariamente partecipare a tutti i suoi aspetti – l’esistenza di Dio include in sé sia la vita che la saggezza, perché nulla della perfezione dell’essere può mancare a Colui che è esso stesso l’essere perfetto.
 
 <span class="atom-split" data-atom="018" data-title="Whether any creature can be like God?" data-chapter="Whether any creature can be like God?" data-kind="atom" data-srclang="en"></span>
 
@@ -847,6 +1095,28 @@ it must nowise be admitted that God is like creatures; because, as Dionysius say
 that which is caused." For, we say that a statue is like a man, but not conversely; so also a creature
 can be spoken of as in some sort like God; but not that God is like a creature.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nessuna creatura possa essere simile a Dio. Infatti è scritto (Salmo 85:8): “Non c’è alcuno tra gli dèi simile a Te, o Signore”. Ma tra tutte le creature quelle più eccellenti sono quelle chiamate “dèi partecipanti”. Pertanto, ancora meno si può dire che altre creature siano simili a Dio.
+
+Obiezione 2: Inoltre, la somiglianza implica un confronto. Ma non può esserci alcun confronto tra cose appartenenti a “generi” diversi. Pertanto, ne consegue che non possa esistere alcuna somiglianza. Non diciamo quindi che la dolcezza sia simile alla bianchezza. Tuttavia, nessuna creatura appartiene allo stesso “genere” di Dio: poiché Dio non è un “genere”, come dimostrato sopra (Q[3], A[5]). Pertanto, nessuna creatura è simile a Dio.
+
+Obiezione 3: Inoltre, parliamo di queste cose come di entità che concordano per forma. Ma nulla può concordare con Dio per forma; infatti, soltanto in Dio l’[essenza](/concepts/essentia_existentia) e l’['esistenza](/concepts/essentia_existentia) sono distinte. Pertanto, nessuna creatura può essere simile a Dio.
+
+Obiezione 4: Inoltre, tra cose simili esiste una somiglianza reciproca; infatti ciò che è simile è simile anche ad altro simile. Pertanto, se qualche creatura fosse simile a Dio, allora Dio sarebbe simile a qualche creatura, il che contraddice quanto affermato da Isaia: “A chi avete paragonato Dio?” (Isaia 40:18).
+
+Al contrario, è scritto: “Facciamo l’uomo a nostra immagine e somiglianza” (Genesi 1:26), e anche: “Quando Egli apparirà, noi saremo simili a Lui” (1 Giovanni 3:2).
+
+Rispondo che, poiché la somiglianza si basa sull’armonia o sulla corrispondenza nella forma, essa varia a seconda dei diversi modi di comunicazione formale. Si dice che alcune cose siano simili quando comunicano nello stesso modo e secondo la stessa formalità; in questi casi si afferma non solo che siano simili, ma anche che siano uguali nella loro somiglianza. Ad esempio, due cose ugualmente bianche sono considerate simili per quanto riguarda il colore bianco; questa è la forma di somiglianza più perfetta. In altri casi, si parla di cose simili quando comunicano nello stesso modo ma non secondo la stessa misura, bensì in modo maggiore o minore; ad esempio, una cosa meno bianca è considerata simile a un’altra più bianca; questa è una forma di somiglianza imperfetta. Infine, si possono considerare cose simili anche quando comunicano nello stesso modo ma non secondo la stessa formalità, come avviene nei casi di agenti non univocali. Poiché ogni agente si riproduce nella misura in cui è tale, e tutto agisce secondo le caratteristiche della propria forma, l’effetto prodotto deve in qualche modo assomigliare alla forma dell’agente stesso. Se quindi l’agente appartiene alla stessa specie del proprio effetto, vi sarà una somiglianza nella forma tra ciò che crea e ciò che viene creato, secondo la stessa formalità della specie; ad esempio, l’uomo si riproduce in altri esseri umani. Se invece agente ed effetto non appartengono alla stessa specie, vi sarà comunque una somiglianza, ma non secondo la formalità della stessa specie; ad esempio, le cose generate dal calore del sole possono essere considerate simili al sole, non perché ricevano la sua forma specifica, ma nella loro natura generica. Pertanto, se esiste un agente che non appartiene a alcuna “specie”, il suo effetto riprodurrà ancora meno fedelmente la sua forma; non nel senso di condividere la stessa formalità specifica o generica, ma soltanto attraverso una sorta di analogia; l’esistenza, ad esempio, è comune a tutte le cose. In questo modo, tutte le cose create, nella misura in cui sono esseri, sono simili a Dio, che rappresenta il principio primo e universale di ogni essere.
+
+Risposta all’Obiezione 1: Come afferma Dionigi nel “Divinum Nomina” IX, quando le Scritture Sacre dichiarano che nulla è simile a Dio, ciò non significa negare ogni forma di somiglianza con Lui. Infatti, “le stesse cose possono essere simili e dissimili da Dio: simili perché lo imitano, nella misura in cui Lui, essendo incompletamente imitabile, può comunque essere emulato; dissimili perché non raggiungono la perfezione che Lui rappresenta”, non soltanto in termini di intensità o grado, come quando ciò che è meno bianco è inferiore a ciò che è più bianco, ma anche perché tali cose non concordano con Lui, né specificamente né in modo generale.
+
+Risposta all’Obiezione 2: Dio non è legato alle creature come se appartenesse a un “genere” diverso, ma come qualcosa che trascende ogni “genere”, e come il principio di tutti i “generi”.
+
+Risposta all’Obiezione 3: La somiglianza delle creature con Dio non viene affermata in base ad una corrispondenza formale, secondo la struttura dello stesso genere o della stessa specie, ma esclusivamente attraverso l’analogia, poiché Dio è un essere essenziale, mentre le altre cose sono esseri che esistono per partecipazione a tale essenza.
+
+Risposta all’Obiezione 4: Anche se si possa ammettere che le creature siano in qualche modo simili a Dio, non si può assolutamente ammettere che Dio sia simile alle creature; perché, come dice Dionigi (Div. Nom. IX): “Una somiglianza reciproca può esistere tra cose dello stesso ordine, ma non tra una causa e ciò che ne è effetto”. Infatti, diciamo che una statua è simile a un uomo, ma non il contrario; allo stesso modo, si può affermare che una creatura sia in qualche modo simile a Dio, ma non che Dio sia simile a una creatura.
+
 <span class="atom-split" data-atom="019" data-title="OF GOODNESS IN GENERAL (SIX ARTICLES)" data-chapter="OF GOODNESS IN GENERAL (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider goodness: First, goodness in general. Secondly, the goodness of God.
@@ -857,6 +1127,17 @@ Under the first head there are six points of inquiry:
 (4) To what cause should goodness be reduced?
 (5) Whether goodness consists in mode, species, and order?
 (6) Whether goodness is divided into the virtuous, the useful, and the pleasant?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Esaminiamo ora la bontà: innanzitutto, la bontà in generale; in secondo luogo, la bontà di Dio.  
+All’interno della prima categoria vi sono sei punti di indagine:  
+(1) La bontà e l’essere sono davvero la stessa cosa?  
+(2) Ammesso che differiscano soltanto nell’idea, che è prioritaria nel pensiero.
+(3) Ammesso che l’essere sia prioritario, ogni essere è forse buono?  
+(4) A quale causa può essere ridotta la bontà?  
+(5) La bontà consiste forse in modi, specie e ordine?  
+(6) La bontà si divide forse nelle virtù, negli elementi utili e in ciò che è piacevole?
 
 <span class="atom-split" data-atom="020" data-title="Whether goodness differs really from being?" data-chapter="Whether goodness differs really from being?" data-kind="atom" data-srclang="en"></span>
 
@@ -970,6 +1251,28 @@ Reply to Objection 4: Life, wisdom, and the like, are desirable only so far as t
 Hence, in each one of them some sort of being is desired. And thus nothing can be desired except
 being; and consequently nothing is good except being.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la bontà sia, in termini di concetto, anteriore all’essere. Infatti, i [nomi](/positions/nominalism) sono disposti secondo l’ordine delle cose che essi designano. Tuttavia Dionisio (Div. Nom. iii), tra gli altri nomi di Dio, ha attribuito il primo posto alla Sua bontà piuttosto che al Suo essere. Pertanto, in termini concettuali, la bontà è anteriore all’essere.
+
+Obiezione 2: Inoltre, ciò che è più esteso è precedente in termini di concetto. Ma la bontà è più estesa dell’essere, poiché, come osserva Dionigi (Div. Nom. v), “la bontà si estende sia alle cose esistenti che a quelle non esistenti; mentre l’esistenza si estende soltanto alle cose esistenti”. Pertanto, in termini concettuali, la bontà è precedente all’essere.
+
+Obiezione 3: Inoltre, ciò che è più universale è precedente in termini di concetto. Ma la bontà sembra essere più universale dell’essere stesso, poiché la bontà presenta l’aspetto di qualcosa di desiderabile; mentre per alcuni, l’inesistenza è addirittura desiderabile, come si dice di Giuda: “Sarebbe stato meglio per lui se non fosse mai nato” (Matteo 26:24). Pertanto, in termini concettuali, la bontà precede l’essere.
+
+Obiezione 4: Inoltre, non solo l’esistenza è desiderabile, ma anche la vita, la conoscenza e molte altre cose ancora. Pertanto, sembra che l’esistenza sia un bene particolare, mentre la bontà sia un bene universale. Quindi, in senso assoluto, la bontà precede l’essere nella concezione intellettuale.
+
+Al contrario, secondo [Aristotele](/figures/aristotle) (nei “De Causis”), “la prima delle cose create è l’essere”.
+
+Rispondo che, in termini di concetto, l’essere è precedente alla bontà. Infatti, il significato indicato dal nome di una cosa è ciò che la mente concepisce di quella cosa e intende attraverso la parola che la rappresenta. Pertanto, ciò che è per primo concepito dall’intelletto è l’essere stesso; poiché tutto è conoscibile soltanto nella misura in cui esiste realmente. Da ciò deriva che l’essere sia l’oggetto proprio dell’intelletto e sia primariamente intelligibile, così come il suono è ciò che è primariamente udibile. Quindi, in termini di concetto, l’essere è precedente alla bontà.
+
+Risposta all’Obiezione 1: Dionigi discute dei Nomi Divini (Div. Nom. i, iii) come se essi implicassero una qualche relazione causale in Dio; infatti, chiamiamo Dio, afferma lui stesso, in base alle creature, cioè come causa rispetto ai suoi effetti. Ma la bontà, poiché presenta l’aspetto di qualcosa di desiderabile, implica l’idea di una [causa finale](/concepts/four_causes), la cui causalità è la prima tra tutte le cause, poiché un agente non agisce se non per uno scopo; inoltre, grazie a un agente la materia viene portata alla sua forma. Pertanto lo scopo viene chiamato “causa delle cause”. Così, la bontà, in quanto causa, precede l’essere stesso, proprio come lo scopo precede la forma. Quindi, tra i nomi che indicano la causalità divina, la bontà precede l’essere. Inoltre, secondo i Platonici, i quali non distinguevano la materia primaria dalla privazione e affermavano che la materia fosse “non-essere”, la bontà è “partecipata” in modo più estensivo dell’essere stesso; infatti, la materia primaria partecipa alla bontà nel senso di tendere verso di essa, poiché tutto cerca ciò che gli è simile; ma non partecipa all’essere, poiché si presuppone che sia “non-essere”. Per questo motivo Dionigi afferma che “la bontà si estende anche al non-esistere” (Div. Nom. v).
+
+Risposta all’Obiezione 2: La stessa soluzione viene applicata anche a questa obiezione. Si potrebbe dire inoltre che la bontà si estende sia alle cose esistenti che a quelle non esistenti, non nel senso che possa essere attribuita loro, ma nel senso che possa influenzarle, far sì che esistano o meno. Infatti, con “non-esistenza” non intendiamo semplicemente le cose che non sono presenti in realtà, ma quelle che sono soltanto potenziali e non ancora realizzate. La bontà, infatti, ha il carattere di un fine verso cui tendono sia le cose già esistenti, sia quelle ancora potenziali. L’essere, però, implica soltanto l’appartenenza a una causa formale, sia essa intrinseca che esemplare; e la causalità della bontà si estende soltanto alle cose che sono effettivamente reali.
+
+Risposta all’Obiezione 3: L’inesistenza è desiderabile, non di per sé, ma soltanto in modo relativo – cioè nella misura in cui la rimozione di un male, che può essere eliminato solo attraverso l’inesistenza, sia considerata desiderabile. Ora, la rimozione di un male non può essere considerata desiderabile se non nel senso in cui tale male priva qualcosa di esistenza. Pertanto, l’esistenza è desiderabile di per sé; l’inesistenza, invece, solo in modo relativo, poiché si cerca sempre qualche forma di esistenza da cui non si vuole essere privati; ed è proprio per questo che anche l’inesistenza può essere considerata, in certi contesti, qualcosa di positivo.
+
+Risposta all’Obiezione 4: La vita, la saggezza e simili sono desiderabili soltanto nella misura in cui sono reali. Pertanto, in ciascuno di essi è desiderabile qualche forma di essere. E quindi nulla può essere desiderato se non l’essere stesso; e di conseguenza, nulla è buono se non l’essere stesso.
+
 <span class="atom-split" data-atom="022" data-title="Whether every being is good?" data-chapter="Whether every being is good?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that not every being is good. For goodness is something superadded to
@@ -1015,6 +1318,29 @@ abstracted from motion and matter; thus they cannot have the aspect of an end, w
 aspect of moving another. Nor is it repugnant that there should be in some logical entity neither
 goodness nor form of goodness; since the idea of being is prior to the idea of goodness, as was said
 in the preceding article.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non ogni essere sia buono. Poiché la bontà è qualcosa che viene aggiunto all’essere stesso, come risulta chiaramente da A[1]. Ma qualsiasi cosa venga aggiunta all’essere lo limita; come la sostanza, la quantità, la qualità, ecc. Pertanto la bontà limita l’essere. Quindi non ogni essere è buono.
+
+Obiezione 2: Inoltre, nulla di male può essere considerato bene: “Guai a voi che chiamate il male bene e il bene male” (Isaia 5:20).  
+Ma alcune cose vengono definite malvagie; pertanto non tutte le entità esistenti sono buone.
+
+Obiezione 3: Inoltre, la bontà implica desiderabilità. Ora, la materia primaria non implica desiderabilità, ma piuttosto ciò che desidera. Pertanto, la materia primaria non contiene la formalità della bontà. Quindi, non ogni essere è buono.
+
+Obiezione 4: Inoltre, il Filosofo osserva (Metafisica III) che “nella matematica la bontà non esiste”. Ma la matematica è un’entità; altrimenti non esisterebbe alcuna scienza della matematica. Pertanto, non ogni essere è buono.
+
+Al contrario, ogni essere che non è Dio è una creazione di Dio. Ora, ogni creatura di Dio è buona (1 Timoteo 4:4); e Dio è il massimo bene. Pertanto, ogni essere è buono.
+
+Rispondo che ogni essere, in quanto tale, è buono. Poiché ogni essere, in quanto essere, possiede [realtà](/concepts/act_potency) ed è in qualche modo perfetto; poiché ogni atto implica una sorta di perfezione; e la perfezione implica desiderabilità e bontà, come risulta chiaramente da A[1]. Pertanto, ne consegue che ogni essere, in quanto tale, è buono.
+
+Risposta all’Obiezione 1: Sostanza, quantità, qualità e tutto ciò che è incluso in essi vengono definiti applicando il concetto di “limite” ad alcuna essenza o natura specifica. In questo senso, la bontà non aggiunge nulla all’essere al di là degli aspetti di desiderabilità e perfezione, che sono anch’essi propri dell’essere stesso, indipendentemente dal tipo di natura a cui appartiene. Pertanto, la bontà non limita l’essere.
+
+Risposta all’Obiezione 2: Nessun essere può essere definito “male” in senso formale, come tale; ma soltanto nel momento in cui manca di certe qualità essenziali. Pertanto, si dice che un uomo sia “cattivo” perché gli mancano alcune virtù; e si dice che un occhio sia “cattivo” perché non possiede la capacità di vedere chiaramente.
+
+Risposta all’Obiezione 3: Poiché la materia primaria possiede soltanto un essere potenziale, essa è anche buona solo in modo potenziale. Sebbene, secondo i Platonici, si possa considerare la materia primaria come un “non-essere” a causa della privazione che le è caratteristica, essa partecipa comunque, in una certa misura, alla bontà: precisamente attraverso la sua relazione con essa o la sua capacità di esserne portatrice. Pertanto, essere desiderabile non è una proprietà intrinseca della materia primaria, ma piuttosto un attributo legato all’atto stesso del desiderare.
+
+Risposta all’Obiezione 4: Le entità matematiche non esistono come realtà concreta; infatti, se esistessero in questo modo, avrebbero una sorta di “bontà”; ma hanno soltanto un’esistenza logica, poiché sono astratte da concetti legati al movimento e alla materia. Pertanto, non possono possedere le caratteristiche di un fine, che a sua volta presupone la capacità di muovere qualcos’altro. Inoltre, non è affatto contraddittorio che in un’entità logica non vi sia né bontà né alcuna forma di essa; infatti, l’idea di “essere” precede l’idea di “bontà”, come già detto nell’articolo precedente.
 
 <span class="atom-split" data-atom="023" data-title="Whether goodness has the aspect of a final cause?" data-chapter="Whether goodness has the aspect of a final cause?" data-kind="atom" data-srclang="en"></span>
 
@@ -1064,7 +1390,25 @@ it is by our will that we employ whatever powers we may have. Hence a man is sai
 not by his good understanding; but by his good will. Now the will relates to the end as to its proper
 object. Thus the saying, "we exist because God is good" has reference to the final cause.
 
-<span class="atom-split" data-atom="024" data-title="Whether the essence of goodness consists in mode, species and order? (1/2)" data-chapter="Whether the essence of goodness consists in mode, species and order?" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la bontà non abbia l’aspetto di una [causa finale](/concepts/four_causes), ma piuttosto di quelle altre cause. Infatti, come afferma Dionisio (Div. Nom. iv), “La bontà viene lodata come [bellezza](/concepts/beauty)”. Ma la bellezza ha l’aspetto di una causa formale. Pertanto, anche la bontà deve avere l’aspetto di una causa formale.
+
+Obiezione 2: Inoltre, la bontà è autodiffusiva; infatti Dionigi afferma (Div. Nom. iv) che la bontà è ciò grazie a cui tutte le cose esistono e sono. Ma essere “autodistributiva” implica l’aspetto di una causa efficiente. Pertanto, la bontà possiede l’aspetto di una causa efficiente.
+
+Obiezione 3: Inoltre, [Agostino](/figures/augustine) afferma (De Doctrina Christiana i, 31) che “esistiamo perché Dio è buono”. Ma la nostra esistenza è dovuta a Dio come causa efficace. Pertanto, la bontà implica necessariamente l’aspetto di una causa efficace.
+
+Al contrario, il Filosofo afferma (Phys. ii) che “ciò che deve essere considerato lo scopo e il bene di tutte le altre cose, per il quale esse esistono”. Pertanto, il bene presenta l’aspetto di una causa finale.
+
+Rispondo che, poiché la bontà è ciò che tutte le cose desiderano, e poiché questa qualità presenta l’aspetto di un fine, è evidente che la bontà implichi necessariamente l’idea di un fine. Tuttavia, l’idea stessa della bontà presuppone l’esistenza sia di una causa efficiente che di una causa formale. Infatti, ciò che agisce per primo nella generazione di un effetto è solitamente posto dopo nell’oggetto risultante; ad esempio, il fuoco riscalda prima di produrre la propria forma specifica, anche se il calore derivante dalla sua [forma sostanziale](/concepts/forma_substantialis) è successivo. Nella generazione di un effetto, quindi, la bontà e il fine precedono necessariamente l’agente che compie l’atto; in secondo luogo segue l’azione stessa dell’agente volta a realizzare quella forma; infine arriva la forma stessa del risultato. Pertanto, nell’oggetto prodotto dal processo generativo, dovrebbe verificarsi il contrario: innanzitutto deve esistere la forma che rende quell’oggetto un essere concreto; in secondo luogo deve esserci la forza efficiente che lo rende perfetto nel suo essere, poiché una cosa è perfetta quando può riprodurre se stessa, come afferma il Filosofo (Meteorologica, iv); infine arriva la formalità della bontà, che costituisce il principio fondamentale della sua perfezione.
+
+Risposta all’Obiezione 1: La bellezza e la bontà in una cosa sono fondamentalmente identiche; poiché entrambe si basano sulla stessa cosa, ovvero sulla forma; e pertanto la bontà viene lodata come bellezza. Tuttavia, esse differiscono logicamente: la bontà riguarda propriamente l’appetito (poiché la bontà è ciò che tutte le cose desiderano); per questo motivo ha il carattere di un fine (l’appetito essendo una sorta di movimento verso qualcosa). D’altra parte, la bellezza riguarda la facoltà cognitiva; poiché le cose belle sono quelle che piacciono quando vengono viste. Quindi la bellezza consiste in una proporzione adeguata: i sensi infatti si compiacciono di cose ben proporzionate, cioè di quelle che corrispondono al loro stesso tipo; poiché anche il senso è una sorta di ragione, proprio come ogni facoltà cognitiva. Ora, poiché la conoscenza avviene attraverso l’assimilazione e la somiglianza riguarda la forma, la bellezza appartiene intrinsecamente alla natura di una causa formale.
+
+Risposta all’Obiezione 2: La bontà viene descritta come “autodiffusiva”, nel senso che si dice che un fine si diffonda da sé stesso.
+
+Risposta all’Obiezione 3: Si dice che colui che possiede una volontà buona sia buono, nella misura in cui tale volontà è effettivamente buona; infatti è attraverso la nostra volontà che utilizziamo tutte le facoltà che possediamo. Pertanto, un uomo viene considerato buono non per la sua intelligenza, ma per la sua volontà buona. Ora, la volontà è legata al fine, ovvero all’oggetto proprio delle nostre azioni. Da ciò deriva l’espressione “Esistiamo perché Dio è buono”, che si riferisce alla causa finale dell’esistenza umana.
+
+<span class="atom-split" data-atom="024" data-title="Whether the essence of goodness consists in mode, species and order? (parte 1)" data-chapter="Whether the essence of goodness consists in mode, species and order?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the essence of goodness does not consist in mode, species and order.
 For goodness and being differ logically. But mode, species and order seem to belong to the nature
@@ -1177,7 +1521,7 @@ the pleasant.
 Reply to Objection 1: Goodness, so far as it is identical with being, is divided by the ten
 predicaments. But this division belongs to it according to its proper formality.
 
-<span class="atom-split" data-atom="025" data-title="Whether the essence of goodness consists in mode, species and order? (2/2)" data-chapter="Whether the essence of goodness consists in mode, species and order?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="025" data-title="Whether the essence of goodness consists in mode, species and order? (parte 2)" data-chapter="Whether the essence of goodness consists in mode, species and order?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 2: This division is not by opposite things; but by opposite aspects. Now
 those things are called pleasing which have no other formality under which they are desirable except
@@ -1190,6 +1534,12 @@ predicated equally of them all; but as something analogical to be predicated of 
 priority and posteriority. Hence it is predicated chiefly of the virtuous; then of the pleasant; and
 lastly of the useful.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 2: Questa divisione non si basa su cose opposte, ma su aspetti opposti delle stesse cose. Le cose vengono definite piacevoli quando non possiedono alcuna altra qualità che le renda desiderabili, se non quella di essere piacevoli; tuttavia, talvolta possono rivelarsi dannose o contrarie alla virtù. L’utile, invece, si riferisce a cose che in sé non possiedono nulla di desiderabile, ma vengono cercate soltanto perché sono utili per raggiungere un obiettivo più ampio; ad esempio, l’assunzione di medicine amare. La virtù, infine, si riferisce a cose che sono desiderabili in sé stesse.
+
+Risposta all’Obiezione 3: La bontà non si divide in queste tre categorie come qualcosa di univoco che possa essere attribuito ugualmente a tutte; ma come qualcosa di analogico che possa essere attribuito loro in base a priorità e posteriorità. Pertanto, viene principalmente attribuita ai virtuosi; poi a ciò che è piacevole; e infine a ciò che è utile.
+
 <span class="atom-split" data-atom="026" data-title="THE GOODNESS OF GOD (FOUR ARTICLES)" data-chapter="THE GOODNESS OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider the goodness of God; under which head there are four points of inquiry:
@@ -1197,6 +1547,14 @@ We next consider the goodness of God; under which head there are four points of 
 (2) Whether God is the supreme good?
 (3) Whether He alone is essentially good?
 (4) Whether all things are good by the divine goodness?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Esaminiamo ora la bontà di Dio; in questo ambito vi sono quattro punti da considerare:  
+(1) Appartiene davvero la bontà a Dio?  
+(2) È Dio il bene supremo?  
+(3) È solo Lui essenzialmente buono?  
+(4) Sono tutte le cose buone grazie alla bontà divina?
 
 <span class="atom-split" data-atom="027" data-title="Whether God is good?" data-chapter="Whether God is good?" data-kind="atom" data-srclang="en"></span>
 
@@ -1230,6 +1588,20 @@ is said above (Q[4] , A[3]). And so of those things which desire God, some know 
 Himself, and this is proper to the rational creature; others know some participation of His goodness,
 and this belongs also to sensible knowledge; others have a natural desire without knowledge, as
 being directed to their ends by a higher intelligence.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la bontà non appartenga a Dio. Infatti, la bontà consiste in modalità, specie e ordine, e queste caratteristiche non sembrano appartenere a Dio; poiché Dio è immenso e non è subordinato ad alcunché altro. Pertanto, la bontà non appartiene a Dio.
+
+Obiezione 2: Inoltre, il bene è ciò che tutte le cose desiderano. Ma non tutte le cose desiderano Dio, perché nessuna lo conosce; e nulla viene desiderato se non viene conosciuto. Pertanto, essere buono non appartiene a Dio.
+
+Al contrario, è scritto (Lamentazioni 3:25): “Il Signore è buono con coloro che sperano in Lui, con l’anima che Lo cerca”.
+
+Rispondo che essere buoni appartiene in modo preminente a Dio. Infatti, una cosa è considerata buona in base alla sua desiderabilità. Ora, tutto tende verso la propria perfezione; e la perfezione e la forma di un effetto consistono in una certa somiglianza con l’agente che lo ha prodotto, poiché ogni agente produce qualcosa di simile a sé stesso; quindi anche l’agente stesso è desiderabile e possiede la natura del bene. Infatti, ciò che rende una cosa desiderabile è proprio quella somiglianza con l’agente che l’ha generata. Pertanto, poiché Dio è la prima causa effettiva di tutte le cose, è evidente che gli attributi di bontà e desiderabilità appartengano a Lui; ed ecco perché Dionigi (Div. Nom. iv) attribuisce il bene a Dio come alla prima causa efficiente, dicendo che Dio viene chiamato buono “poiché per Me tutte le cose esistono”.
+
+Risposta all’Obiezione 1: Avere modalità, specie e ordine appartiene essenzialmente al bene causato; ma il bene esiste in Dio, che ne è la causa, e pertanto spetta a Lui imporre modalità, specie e ordine agli altri enti; perciò queste tre caratteristiche si trovano in Dio come nella loro fonte originale.
+
+Risposta all’Obiezione 2: Tutte le cose, desiderando la propria perfezione, desiderano Dio stesso, poiché le perfezioni di tutte le cose costituiscono tante immagini della divinità; come risulta da quanto detto sopra (Q[4], A[3]). E lo stesso vale per quelle cose che desiderano Dio: alcune Lo conoscono così com’È veramente, e questo è proprio delle creature razionali; altre conoscono soltanto una parte della Sua bontà, e questa conoscenza appartiene anche alla sfera dell’intuizione sensibile; altre ancora provano un desiderio naturale, senza alcuna vera conoscenza, poiché il loro agire è guidato da una intelligenza superiore.
 
 <span class="atom-split" data-atom="028" data-title="Whether God is the supreme good?" data-chapter="Whether God is the supreme good?" data-kind="atom" data-srclang="en"></span>
 
@@ -1328,6 +1700,24 @@ by it something has being, not because it itself has being through something els
 reason is it called good because by it something is good, and not because it itself has some other
 goodness whereby it is good.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che essere essenzialmente buono non appartenga esclusivamente a Dio. Poiché “uno” è convertibile in “essere”, così anche “buono”; come abbiamo detto sopra (Q[5], A[1]). Ma ogni essere è essenzialmente uno, come risulta dalla filosofia di Aristotele (Metafisica iv); pertanto ogni essere è essenzialmente buono.
+
+Obiezione 2: Inoltre, se il bene è ciò che tutte le cose desiderano, e poiché l’essere stesso è desiderato da tutte, allora l’esistenza stessa di ogni cosa è il suo bene. Ma tutto è essenzialmente un essere; pertanto, ogni essere è essenzialmente buono.
+
+Obiezione 3: Inoltre, tutto è buono per la propria bontà intrinseca. Pertanto, se esiste qualcosa che non sia essenzialmente buono, è necessario affermare che la sua bontà non faccia parte della sua essenza stessa. Quindi, poiché tale entità è un essere, deve per forza essere buona; e se è buona grazie a una qualche altra bontà, la stessa domanda si ripresenta anche per quella bontà. Di conseguenza, dobbiamo o procedere all’[infinito](/concepts/infinity) oppure giungere a una qualche bontà che non sia buona in sé stessa. Pertanto, la prima ipotesi è valida: quindi tutto è essenzialmente buono.
+
+Al contrario, Boezio afferma nel “De Hebdomada” che “tutte le cose, tranne Dio, sono buone per partecipazione”. Pertanto, non lo sono essenzialmente.
+
+Rispondo che solo Dio è essenzialmente buono. Poiché tutto ciò che viene chiamato “buono” lo è in base alla sua perfezione. Ora, la perfezione di una cosa è triplice: innanzitutto, in relazione alla costituzione della sua stessa essenza; in secondo luogo, riguardo agli accidenti che vengono aggiunti come necessari al suo corretto funzionamento; terzo, la perfezione consiste nel raggiungere qualcos’altro come fine ultimo. Ad esempio, la prima perfezione del fuoco risiede nella sua stessa esistenza, che esso possiede grazie alla propria [forma sostanziale](/concepts/forma_substantialis); la sua seconda perfezione si manifesta nel calore, nella luce e nell’essere secco; la sua terza perfezione consiste nel trovarsi nel proprio luogo naturale. Questa triplice perfezione non appartiene a nessuna creatura per essenza propria; appartiene soltanto a Dio, in Lui solo l’essenza coincide con l’esistenza; in Lui non vi sono accidenti; poiché tutto ciò che appartiene ad altre creature in modo accidentale, a Lui appartiene essenzialmente; come la potenza, la saggezza e simili, come risulta da quanto detto sopra (Q[3], A[6]); e Lui non è diretto verso nulla altro come fine ultimo, ma è Egli stesso il fine finale di tutte le cose. Pertanto, è evidente che solo Dio possiede ogni tipo di perfezione per essenza propria; quindi, solo Lui è essenzialmente buono.
+
+Risposta all’Obiezione 1: “Uno” non include l’idea di perfezione, ma soltanto quella di indivisione, che appartiene a tutte le cose in base alla loro essenza stessa. Ora, le essenze delle cose semplici sono indivise sia attualmente che potenzialmente, mentre le essenze delle cose composte sono indivise soltanto attualmente; pertanto, tutto deve essere “uno” in termini di essenza, ma non necessariamente “buono” in termini di essenza, come è stato dimostrato sopra.
+
+Risposta all’Obiezione 2: Sebbene tutto sia buono nel senso che esiste, l’essenza di una creatura non è semplicemente l’esistere stesso; pertanto non si può concludere che una creatura sia essenzialmente buona.
+
+Risposta all’Obiezione 3: La bontà di una creatura non è la sua essenza stessa, ma qualcosa che le viene aggiunto; può trattarsi della sua esistenza, di qualche perfezione ulteriore, o dell’ordine che conduce al suo scopo. Tuttavia, questa bontà aggiunta è essa stessa buona, proprio come lo è l’esistenza stessa della creatura. Per questo motivo viene chiamata “esistenza”, perché grazie a essa qualcosa esiste; non perché essa stessa abbia un’essenza che dipenda da altro: allo stesso modo, viene chiamata “bontà”, perché grazie a lei qualcosa diventa buono, e non perché essa stessa possieda una bontà intrinseca che la renda tale.
+
 <span class="atom-split" data-atom="030" data-title="Whether all things are good by the divine goodness?" data-chapter="Whether all things are good by the divine goodness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that all things are good by the divine goodness. For [Augustine](/figures/augustine) says (De
@@ -1367,6 +1757,16 @@ the similitude of the divine goodness belonging to it, which is formally its own
 it is denominated good. And so of all things there is one goodness, and yet many goodnesses.
 This is a sufficient Reply to the Objections.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che tutte le cose siano buone per via della bontà divina. Infatti, [Agostino](/figures/augustine) afferma nel “De Trinitate” VIII: “Questo e quest’altro sono buoni; togliete questo e quest’altro, e vedete se riuscite ancora a individuare la bontà stessa; così comprenderete Dio, che non è buono per via di un’altra bontà, ma è la bontà di ogni altra bontà”. Ma tutto è buono in virtù della propria bontà intrinseca; pertanto, tutto è buono proprio per quella bontà che è Dio.
+
+Obiezione 2: Inoltre, come afferma Boezio nel “De Hebdomada”, tutte le cose vengono chiamate buone nella misura in cui sono dirette verso Dio, e ciò avviene a causa della bontà divina; pertanto, tutte le cose sono buone per via della bontà divina.
+
+Al contrario, tutte le cose sono buone nella misura in cui esistono. Tuttavia, non vengono chiamate “esseri” a causa dell’essere divino, ma a causa del loro proprio essere; pertanto, non tutte le cose sono buone per via della bontà divina, ma per via della loro propria bontà.
+
+Rispondo che, per quanto riguarda le cose relative, dobbiamo ammettere l’esistenza di denominazioni esterne: ad esempio, una cosa viene chiamata “posta” in base al concetto di “luogo”, e “misurata” in base a quello di “misura”. Tuttavia, per quanto riguarda le cose assolute, le opinioni divergono. Platone riteneva l’esistenza di idee separate per tutte le cose, e che gli individui venissero denominati in base al loro partecipare a queste idee; ad esempio, [Socrate](/figures/socrates) viene chiamato “uomo” perché partecipa all’idea astratta di “uomo”. Proprio come Platone stabilì idee separate per l’“uomo” e il “cavallo”, definendole rispettivamente “uomo assoluto” e “cavallo assoluto”, così stabilì anche idee separate per “essere” e “uno”, chiamandole “essere assoluto” e “unità assoluta”; tutto ciò che partecipa a queste idee viene quindi definito “essere” o “uno”. Quello che è “essere assoluto” e “unità assoluta”, secondo Platone, è il bene supremo. Poiché il bene è sinonimo di essere, così come l’“uno”, Platone chiamò Dio il bene assoluto, da cui tutte le cose derivano la loro bontà attraverso il partecipare a queste idee. Anche se questa dottrina sembra irragionevole nell’affermare che esistano idee separate per le cose naturali in sé stesse – come sostiene [Aristotele](/figures/aristotle) in molti modi – è comunque assolutamente vero che esiste qualcosa che è essenzialmente essere e essenzialmente bene; questo qualcosa lo chiamiamo Dio, come emerge da quanto detto sopra (Q[2], A[3]), e anche Aristotele concorda su questo punto. Pertanto, da questo essere primordiale, essenzialmente tale e buono, tutto può essere definito “bene” ed “essere”, nella misura in cui vi partecipa attraverso un processo di assimilazione che è lontano dall’essere perfetto; come si evince ancora da quanto detto sopra (Q[4], A[3]). Tutto, quindi, viene definito “bene” a causa della bontà divina, che rappresenta il principio esemplare, efficace e finale di ogni forma di bontà. Tuttavia, tutte le cose vengono chiamate “bene” anche in base alla somiglianza con questa bontà divina, che è formalmente la loro stessa bontà; per questo motivo vengono definite “buone”. Esiste quindi una sola bontà in sé, ma molteplici forme di bontà nelle cose. Questa risposta è sufficiente a confutare le obiezioni avanzate.
+
 <span class="atom-split" data-atom="031" data-title="THE INFINITY OF GOD (FOUR ARTICLES)" data-chapter="THE INFINITY OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After considering the divine perfection we must consider the divine [infinity](/concepts/infinity), and God's existence
@@ -1376,6 +1776,14 @@ Concerning the first, there are four points of inquiry:
 (2) Whether anything besides Him is infinite in essence?
 (3) Whether anything can be infinitude in magnitude?
 (4) Whether an infinite multitude can exist?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo aver considerato la perfezione divina, dobbiamo esaminare l’infinità divina e l’esistenza di Dio nelle cose: infatti, Dio è ovunque e in tutte le cose, poiché è senza limiti e infinito. Per quanto riguarda il primo punto, vi sono quattro questioni da indagare:  
+(1) Dio è davvero infinito?  
+(2) Esiste qualcosa, al di fuori di Lui, che sia infinito per essenza?  
+(3) È possibile che qualcosa possieda dimensioni infinite?  
+(4) Può esistere un numero infinito di entità?
 
 <span class="atom-split" data-atom="032" data-title="Whether God is infinite?" data-chapter="Whether God is infinite?" data-kind="atom" data-srclang="en"></span>
 
@@ -1426,6 +1834,24 @@ to be apart from Him. Even so, were there such a thing as a self-subsisting whit
 that it did not exist in anything else, would make it distinct from every other whiteness existing in
 a subject.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non sia infinito. Infatti, tutto ciò che è infinito è imperfetto, come afferma il Filosofo; poiché possiede parti e materia, come si dice nella Fisica iii. Ma Dio è la perfezione stessa; pertanto non può essere infinito.
+
+Obiezione 2: Inoltre, secondo il Filosofo (Phys. i), ciò che è finito e ciò che è infinito appartiene alla quantità. Ma in Dio non esiste alcuna quantità, poiché Egli non è un corpo, come è stato dimostrato sopra (Q[3], A[1]). Pertanto, non spetta a Lui essere infinito.
+
+Obiezione 3: Inoltre, ciò che esiste in modo tale da non poter essere altro è finito in termini di luogo. Pertanto, ciò che è una cosa in modo tale da non poter essere un’altra cosa è finito anche in termini di sostanza. Ma Dio è proprio questo, e non qualcos’altro; infatti, non è una pietra né del legno. Quindi, Dio non è infinito in termini di sostanza.
+
+Al contrario, Damasceno afferma (De Fide Orthodossa I, 4) che “Dio è infinito ed eterno, e senza limiti”.
+
+Rispondo che tutti i filosofi antichi attribuivano l’infinità al principio primo, come si afferma nella «Fisica» III, e con ragione; poiché ritenevano che le cose derivassero in modo infinito dal principio primo. Tuttavia, poiché alcuni errarono riguardo alla natura del principio primo, ne derivò anche un errore nella comprensione della sua [infinità](/concepts/infinity); infatti, essi sostenevano che la materia fosse il principio primo, e quindi attribuivano al principio stesso un’infinità materiale, considerando qualche entità infinita come il vero principio delle cose.  
+Dobbiamo dunque riconoscere che una cosa viene definita “infinita” perché non è finita. Ora, la materia, in un certo senso, diventa finita grazie alla forma, e la forma, a sua volta, grazie alla materia. La materia, infatti, prima di ricevere una forma, è “in potenzialità” rispetto a molte forme; ma una volta che ne riceve una, viene delimitata da quella specifica forma. Allo stesso modo, la forma diventa finita quando si concretizza nella materia; in sé stessa, la forma è comune a molte cose, ma quando si unisce alla materia, assume una forma particolare e definita. La materia, quindi, viene perfezionata dalla forma che la rende finita; pertanto, l’infinità attribuita alla materia ha il carattere di qualcosa di imperfetto, poiché equivale, in sostanza, a materia priva di forma. Dall’altra parte, la forma non viene perfezionata dalla materia, ma piuttosto ne è limitata; quindi l’infinità, considerata dal punto di vista della forma che non è determinata dalla materia, ha il carattere di qualcosa di perfetto.  
+L’esistenza, essendo la forma più elevata di tutte le cose, come dimostrato sopra (Q[4], A[1], OBJ[3]), è certamente infinita e perfetta. Poiché l’essere divino non è un essere che derivi da altro, ma è un essere autosufficiente e sostanziale, come si è visto in precedenza (Q[3], A[4]), è evidente che Dio stesso sia infinito e perfetto. Da ciò deriva la risposta alla Prima Obiezione.
+
+Risposta all’Obiezione 2: La quantità è delimitata dalla sua forma, come si può vedere nel fatto che una figura costituita da una quantità delimitata rappresenta un tipo di forma quantitativa. Pertanto, l’infinito della quantità corrisponde all’infinito della materia; un tale tipo di infinito non può essere attribuito a Dio, come già detto in precedenza in questo articolo.
+
+Risposta all’Obiezione 3: Il fatto che l’esistenza di Dio sia autonoma, non derivi da nulla altro e quindi venga definita “infinita”, dimostra che Egli è distinto da tutte le altre entità, e che queste ultime sono separate da Lui. Anche se esistesse una qualche forma di “bianchezza” autonoma, il semplice fatto che essa non si trovasse in nulla altro la renderebbe distinta da ogni altra forma di bianchezza esistente in un soggetto.
+
 <span class="atom-split" data-atom="033" data-title="Whether anything but God can be essentially infinite?" data-chapter="Whether anything but God can be essentially infinite?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that something else besides God can be essentially infinite. For the power
@@ -1471,6 +1897,24 @@ Reply to Objection 3: Primary matter does not exist by itself in nature, since i
 being, but potentially only; hence it is something concreated rather than created. Nevertheless,
 primary matter even as a potentiality is not absolutely infinite, but relatively, because its potentiality
 extends only to natural forms.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che qualcos’altro, oltre a Dio, possa essere essenzialmente infinito. Infatti, il potere di qualsiasi cosa è proporzionale alla sua essenza. Se dunque l’essenza di Dio è infinita, anche il suo potere deve essere infinito. Pertanto, Egli può produrre un effetto infinito, poiché l’estensione del potere si determina dal suo effetto stesso.
+
+Obiezione 2: Inoltre, ciò che possiede un potere infinito deve avere anche un’essenza infinita. Ora, l’intelligenza creata possiede un potere infinito; infatti essa comprende il concetto universale, il quale può estendersi a un numero infinito di singoli individui. Pertanto, ogni sostanza intellettuale creata è infinita.
+
+Obiezione 3: Inoltre, la materia primaria è qualcosa di diverso da Dio, come è stato dimostrato sopra (Q[3], A[8]). Ma la materia primaria è infinita. Pertanto, qualcosa di diverso da Dio può essere infinito.
+
+Al contrario, l’infinito non può avere un inizio, come si afferma nella “Fisica” III. Tuttavia, tutto ciò che esiste al di fuori di Dio deriva da Lui, come dal proprio principio originario. Pertanto, oltre a Dio, nulla può essere infinito.
+
+Rispondo che le cose, diversamente da Dio, possono essere relativamente infinite, ma non assolutamente infinite. Poiché, quando si parla di infinito in relazione alla materia, è evidente che tutto ciò che esiste effettivamente possiede una forma; pertanto la sua materia è determinata da quella forma. Tuttavia, poiché la materia, considerata come esistente sotto una certa [forma sostanziale](/concepts/forma_substantialis), rimane in [potenzialità](/concepts/act_potency) di assumere molte forme accidentali – e poiché il numero di queste forme è assolutamente finito, esse possono essere relativamente infinite; ad esempio, il legno è finito secondo la propria forma, ma è comunque relativamente infinito, in quanto può assumere un numero infinito di forme diverse. Se invece parliamo dell’infinito in relazione alla forma stessa, è evidente che quelle cose le cui forme sono contenute nella materia sono assolutamente finite, e non possono essere considerate infinite. Tuttavia, se alcune forme create non fossero contenute nella materia, ma esistessero in modo autonomo – come alcuni ritengono sia il caso degli angeli – queste forme sarebbero relativamente infinite, poiché non sono vincolate da alcuna materia. Ma poiché una forma creata che esiste in questo modo possiede un essere, ma non è quel proprio essere, ne consegue che il suo essere è ricevuto e determinato da una natura specifica; pertanto non può essere assolutamente infinita.
+
+Risposta all’Obiezione 1: È contro la natura di una cosa creata che la sua essenza coincida con la sua esistenza; poiché l’esistenza stessa non è qualcosa di creato, è quindi contrario alla natura di una cosa creata essere assolutamente infinita. Pertanto, così come Dio, pur possedendo un potere infinito, non può creare qualcosa che non sia stato creato (poiché ciò significherebbe che due contraddizioni siano vere allo stesso tempo), allo stesso modo Egli non può creare nulla di assolutamente infinito.
+
+Risposta all’Obiezione 2: Il fatto che il potere dell’intelletto si estenda fino a cose infinite deriva dal fatto che l’intelletto è una forma che non appartiene alla materia, ma che o è completamente separata dalla materia, come avviene nella sostanza angelica, oppure è almeno un potere intellettivo che non rappresenta l’atto di alcun organo, nell’anima intellettiva congiunta a un corpo.
+
+Risposta all’Obiezione 3: La materia primaria non esiste di per sé nella natura, poiché non è un essere reale, ma soltanto potenziale; pertanto è qualcosa che viene “concreata”, piuttosto che creata ex nihilo. Tuttavia, anche in quanto potenzialità, la materia primaria non è assolutamente infinita, ma relativa, poiché la sua potenzialità si estende soltanto alle forme naturali.
 
 <span class="atom-split" data-atom="034" data-title="Whether an actually infinite magnitude can exist?" data-chapter="Whether an actually infinite magnitude can exist?" data-kind="atom" data-srclang="en"></span>
 
@@ -1546,6 +1990,28 @@ they have [potentiality](/concepts/act_potency) mixed with actuality. But magnit
 in quantity refers to matter, and does not agree with the totality of magnitude; yet it agrees with
 the totality of time and movement: for it is proper to matter to be in potentiality.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra possibile che esista qualcosa di effettivamente infinito per grandezza. Infatti, in matematica non vi è errore, poiché “non vi è menzogna nelle cose astratte”, come afferma il Filosofo (Physica ii). Tuttavia la matematica utilizza concetti di infinito per grandezza; pertanto, nel corso delle sue dimostrazioni, il geometra dice spesso: “Supponiamo che questa linea sia infinita”. Quindi non è impossibile che una cosa sia effettivamente infinita per grandezza.
+
+Obiezione 2: Inoltre, ciò che non è contrario alla natura di qualcosa può essere in armonia con esso. Ora, essere infiniti non è contrario alla natura della grandezza; anzi, sia la finitezza che l’infinità sembrano essere proprietà della quantità. Pertanto, non è impossibile che una certa grandezza sia infinita.
+
+Obiezione 3: Inoltre, la grandezza è infinitamente divisibile, poiché ciò che è continuo è definito come qualcosa che può essere diviso all’infinito, come risulta chiaro dalla Physica iii. Ma i contrari riguardano sempre la stessa cosa. Poiché dunque l’addizione è opposta alla divisione, e l’aumento all’abbassamento, sembra possibile che la grandezza possa aumentare fino all’[infinito](/concepts/infinity). Pertanto, è possibile che una grandezza sia infinita.
+
+Obiezione 4: Inoltre, il movimento e il tempo possiedono quantità e continuità che derivano dall’entità su cui si estendono, come si afferma nella Physica IV. Tuttavia, non è contrario alla natura del tempo e del movimento che essi siano infiniti, poiché ogni entità determinata e indivisibile nel tempo, così come nel movimento circolare, rappresenta sia un inizio che una fine. Pertanto, nemmeno l’essere infinito dell’entità è contrario alla natura del tempo e del movimento.
+
+Al contrario, ogni corpo possiede una superficie; ma ogni corpo che ha una superficie è finito, poiché la superficie è un attributo di un corpo finito. Pertanto, tutti i corpi sono finiti. Lo stesso vale sia per la superficie che per una linea; quindi nulla è infinito in dimensioni.
+
+Rispondo che è una cosa essere infinito in essenza e un’altra essere infinito in grandezza. Ammettiamo pure che esista un corpo infinito in grandezza, come il fuoco o l’aria: tuttavia, tale corpo non potrebbe essere infinito in essenza, poiché la sua essenza sarebbe delimitata dalla sua forma e confinata dall’elemento materiale. Pertanto, partendo da queste premesse – che nessuna creatura è infinita in essenza – rimane ancora da stabilire se alcuna creatura possa essere infinita in grandezza. Dobbiamo osservare che un corpo, essendo una grandezza completa, può essere considerato in due modi: matematicamente, in relazione soltanto alla sua quantità; e naturalmente, in relazione alla sua materia e alla sua forma. È evidente che un corpo naturale non può essere effettivamente infinito, poiché ogni corpo naturale possiede una forma sostanziale determinata; quindi, poiché gli accidenti derivano dalla forma sostanziale, è necessario che accidenti specifici seguano una forma specifica, e tra questi accidenti rientra anche la quantità. Pertanto, ogni corpo naturale ha una quantità definita, maggiore o minore; quindi è impossibile che un corpo naturale sia infinito. Lo stesso vale per il movimento: poiché ogni corpo naturale possiede un certo tipo di movimento, mentre un corpo infinito non potrebbe avere alcun movimento naturale – né diretto, poiché nulla si muove naturalmente in modo diretto se non si allontana dal proprio posto, e questo non potrebbe accadere a un corpo infinito, che occuperebbe ogni luogo; né circolare, poiché il movimento circolare richiede che una parte del corpo venga trasferita in un luogo già occupato da un’altra parte, il che non sarebbe possibile per un corpo infinito. Lo stesso discorso vale anche per un corpo matematico: se immaginiamo che esista effettivamente un corpo matematico, dobbiamo considerarlo sotto una forma specifica, poiché nulla esiste in modo concreto se non attraverso la propria forma; quindi, poiché la quantità in sé è rappresentata da una figura geometrica, tale corpo deve avere una forma definita e quindi è finito, poiché ogni figura è delimitata da confini specifici.
+
+Risposta all’Obiezione 1: Un geometra non ha bisogno di assumere che una linea sia effettivamente infinita; prende invece una linea effettivamente finita e ne sottrae tutto ciò che ritiene necessario, definendo quella stessa linea “infinita”.
+
+Risposta all’Obiezione 2: Sebbene l’infinito non sia contrario alla natura della grandezza in generale, esso è comunque contrario alla natura di qualsiasi sua specie particolare; ad esempio, è contrario alla natura di una grandezza bicubica o tricubica, sia essa circolare che triangolare, e così via. Ora, ciò che non è possibile in alcuna specie particolare non può esistere nel genere; pertanto non può esistere alcuna grandezza infinita, poiché nessuna specie di grandezza è infinita.
+
+Risposta all’Obiezione 3: L’infinito in termini di quantità, come è stato dimostrato sopra, appartiene alla materia. Ora, attraverso la divisione del tutto, ci avviciniamo alla materia, poiché le parti presentano caratteristiche tipiche della materia; ma attraverso l’addizione, ci avviciniamo al tutto che presenta caratteristiche tipiche di una forma. Pertanto, l’infinito non risiede nell’addizione delle dimensioni, ma soltanto nella divisione.
+
+Risposta all’Obiezione 4: Movimento e tempo sono entità complete, non nel senso di essere realmente tali, ma nel senso di esistere in modo successivo; pertanto possiedono una [potenzialità](/concepts/act_potency) mescolata con l’attualità. Tuttavia, la grandezza è un’entità completamente attuale; quindi ciò che è infinito in termini di quantità si riferisce alla materia e non coincide con la totalità della grandezza stessa; invece coincide con la totalità del tempo e del movimento, poiché è proprio della materia trovarsi in uno stato di potenzialità.
+
 <span class="atom-split" data-atom="035" data-title="Whether an infinite multitude can exist?" data-chapter="Whether an infinite multitude can exist?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that an actually infinite multitude is possible. For it is not impossible for
@@ -1604,6 +2070,24 @@ Reply to Objection 3: Although the supposition of some things does not preclude 
 of others, still the supposition of an infinite number is opposed to any single species of multitude.
 Hence it is not possible for an actually infinite multitude to exist.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra possibile che esista effettivamente un numero infinito. Infatti, non è impossibile che una [potenzialità](/concepts/act_potency) diventi reale. Inoltre, i numeri possono essere moltiplicati all’[infinito](/concepts/infinity). Pertanto, è possibile che esista effettivamente un numero infinito.
+
+Obiezione 2: Inoltre, è possibile che qualsiasi individuo di qualsiasi specie diventi reale. Ma le specie di figure sono infinite; pertanto, è possibile un numero infinito di figure reali.
+
+Obiezione 3: Inoltre, le cose che non sono tra loro in opposizione non si ostacolano a vicenda. Ma supponendo che esista una molteplicità di cose, possono comunque essercene molte altre che non siano in opposizione con esse. Pertanto, non è impossibile che queste altre cose coesistano con le prime, e così via all’infinito; quindi è possibile l’esistenza di un numero effettivamente infinito di cose.
+
+Al contrario, è scritto: “Hai ordinato tutte le cose secondo misura, numero e peso” (Sapienza 11:21).
+
+Rispondo che su questo argomento esistono due opinioni diverse. Alcuni, come Avicenna e Algazel, affermavano che fosse impossibile l’esistenza di un numero infinito in senso assoluto; tuttavia, un numero infinito in senso relativo non sarebbe stato impossibile. Si dice che un numero sia infinito in senso assoluto quando la sua esistenza è necessaria affinché qualcosa possa verificarsi; ma ciò è impossibile, poiché significherebbe che l’esistenza di tale numero dipendesse da un’infinità stessa, e quindi la sua generazione non potrebbe mai avvenire, dato che è impossibile attraversare un mezzo infinito. Si dice invece che un numero sia infinito in senso relativo quando la sua esistenza non è necessaria, ma soltanto accidentale; questo può essere dimostrato, ad esempio, nel caso di un lavoro artigianale che richiede l’uso di un certo numero di strumenti: se tali strumenti venissero moltiplicati all’infinito, il lavoro non potrebbe mai essere completato, poiché dipenderebbe da un numero infinito di cause. Tuttavia, la presenza di molti martelli è soltanto accidentale; infatti, l’uso di numerosi martelli avviene in modo casuale, e non fa differenza se ne vengono utilizzati uno, due o un numero infinito, purché il lavoro possa proseguire per un tempo infinito. In questo modo si sosteneva che fosse possibile l’esistenza di un numero infinito in senso relativo. Tuttavia, ciò è impossibile: ogni tipo di numero deve appartenere a una determinata categoria numerica, e nessuna categoria numerica è infinita, poiché ogni numero rappresenta una quantità misurata da un altro numero. Pertanto, non può esistere un numero infinito in senso assoluto o relativo. Inoltre, tutto ciò che viene creato nell’universo segue un’intenzione precisa del Creatore; quindi, ogni cosa creata deve essere compresa all’interno di un certo schema numerico. Di conseguenza, è impossibile l’esistenza di un numero infinito in senso assoluto o relativo. Tuttavia, è possibile l’esistenza di un numero potenzialmente infinito: infatti, l’aumento del numero avviene attraverso la divisione delle grandezze; più una cosa viene divisa, maggiori ne risultano i numeri. Pertanto, poiché l’infinito può essere considerato “potenzialmente” nella divisione di ciò che è continuo, allo stesso modo può essere considerato “potenzialmente” nell’addizione di elementi.
+
+Risposta all’Obiezione 1: Ogni potenzialità si realizza secondo il proprio modo di essere; ad esempio, una giornata si svolge gradualmente, non tutti insieme. Allo stesso modo, l’infinito in termini di quantità si manifesta in modo successivo, e non simultaneamente; poiché ogni quantità può essere seguita da un’altra quantità, all’infinito.
+
+Risposta all’Obiezione 2: Le specie di figure sono infinite in termini di numero. Esistono infatti varie specie di figure, come triangoli, quadrilateri e così via; e poiché un insieme infinitamente numerabile non può essere immediatamente messo in atto, allo stesso modo non lo è nemmeno l’insieme delle figure.
+
+Risposta all’Obiezione 3: Sebbene l’ipotesi di alcune cose non escluda l’ipotesi di altre, l’ipotesi di un numero infinito è comunque contraria a qualsiasi tipo di molteplicità finita. Pertanto, non è possibile che esista una molteplicità effettivamente infinita.
+
 <span class="atom-split" data-atom="036" data-title="THE EXISTENCE OF GOD IN THINGS (FOUR ARTICLES)" data-chapter="THE EXISTENCE OF GOD IN THINGS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Since it evidently belongs to the infinite to be present everywhere, and in all things, we now
@@ -1612,6 +2096,14 @@ consider whether this belongs to God; and concerning this there arise four point
 (2) Whether God is everywhere?
 (3) Whether God is everywhere by essence, power, and presence?
 (4) Whether to be everywhere belongs to God alone?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Poiché è evidente che l’infinito sia presente ovunque e in tutte le cose, ora esaminiamo se ciò valga anche per Dio; a questo proposito sorgono quattro questioni principali:  
+(1) Dio è realmente in tutte le cose?  
+(2) Dio è davvero presente ovunque?  
+(3) Dio è davvero presente ovunque in termini di essenza, potere e realtà concreta?  
+(4) Il fatto di essere “ovunque” appartiene esclusivamente a Dio?
 
 <span class="atom-split" data-atom="037" data-title="Whether God is in all things?" data-chapter="Whether God is in all things?" data-kind="atom" data-srclang="en"></span>
 
@@ -1665,6 +2157,28 @@ Reply to Objection 4: In the demons there is their nature which is from God, and
 deformity of sin which is not from Him; therefore, it is not to be absolutely conceded that God is
 in the demons, except with the addition, "inasmuch as they are beings." But in things not deformed
 in their nature, we must say absolutely that God is.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non sia presente in tutte le cose. Infatti, ciò che è al di sopra di tutte le cose non è presente in esse. Ma Dio è al di sopra di tutto, secondo il Salmo (Sal. 112:4): “Il Signore è alto sopra tutte le nazioni”, ecc. Pertanto, Dio non è presente in tutte le cose.
+
+Obiezione 2: Inoltre, ciò che è contenuto in qualcosa è necessariamente incluso in quella cosa stessa. Ora, Dio non è contenuto nelle cose, ma piuttosto le contiene. Pertanto, Dio non è dentro le cose; piuttosto, sono le cose a essere dentro di Lui. Ecco perché [Agostino](/figures/augustine) afferma (Octog. Tri. Quaest. qu. 20) che “le cose esistono in Lui, e non Lui in qualche luogo”.
+
+Obiezione 3: Inoltre, più potente è un agente, più ampia è l’azione che può esercitare. Ma Dio è l’agente più potente di tutti; pertanto la Sua azione può estendersi anche a cose lontane da Lui; inoltre, non è necessario che Egli sia presente in tutte le cose.
+
+Obiezione 4: Inoltre, i demoni sono esseri viventi. Ma Dio non è nei demoni; poiché non esiste alcuna comunione tra luce e oscurità (2 Corinzi 6:14). Pertanto, Dio non è in tutte le cose.
+
+Al contrario, una cosa esiste ovunque agisca. Ma Dio agisce in tutte le cose, secondo quanto dice Isaia 26:12: “Signore. Tu hai compiuto tutte le nostre opere per noi”. Pertanto, Dio è in tutte le cose.
+
+Rispondo che Dio è presente in tutte le cose; non certo come parte della loro essenza, né come un accidente, ma come un agente che opera su ciò su cui esercita la sua influenza. Un agente, infatti, deve essere strettamente connesso a ciò su cui agisce e toccarlo con la propria forza; da ciò deriva che, secondo il Libro VII della Fisica, l’oggetto mosso e il motore devono necessariamente essere uniti. Poiché Dio è essenza stessa di ogni realtà, le cose create devono essere il risultato naturale della sua azione; così come “infiammarsi” è l’effetto specifico del fuoco. Dio provoca questo effetto nelle cose non solo quando queste iniziano ad esistere, ma anche finché rimangono nel mondo; ad esempio, la luce viene prodotta nell’aria dal sole, finché l’aria stessa è illuminata. Pertanto, finché una cosa esiste, Dio deve necessariamente essere presente in essa, secondo il modo specifico in cui quella cosa esiste. Ma l’esistenza è ciò che è più profondamente insito in ogni cosa e fondamentalmente intrinseco a tutte le realtà, poiché rappresenta la loro essenza stessa, come è stato dimostrato sopra (Q[7], A[1]). Ne consegue quindi che Dio è presente in tutte le cose, e in modo particolarmente intimo e profondo.
+
+Risposta all’Obiezione 1: Dio è al di sopra di tutte le cose per l’eccellenza della Sua natura; tuttavia, Egli è presente in tutte le cose come causa dell’esistenza di ogni cosa, come è stato dimostrato in precedenza in questo articolo.
+
+Risposta all’Obiezione 2: Sebbene si dica che le cose corporee siano “in” altre cose, nel senso di essere contenute da esse, tuttavia le cose spirituali contengono quelle in cui esistono; come l’anima contiene il corpo. Pertanto anche Dio è “in” le cose che lo contengono; tuttavia, per una certa somiglianza con le cose corporee, si dice che tutte le cose siano in Dio, nel senso di essere da Lui contenute.
+
+Risposta all’Obiezione 3: Nessuna azione di un agente, per quanto potente possa essere, agisce a distanza, se non attraverso un mezzo. Tuttavia, appartiene alla grande potenza di Dio il fatto che Egli agisca immediatamente in tutte le cose. Pertanto, nulla è lontano da Lui, come se potesse esistere senza di Lui stesso. Si dice invece che le cose siano lontane da Dio a causa della loro diversità da Lui per natura o grazia; allo stesso modo, Lui è al di sopra di tutte le cose per la superiorità della Sua stessa natura.
+
+Risposta all’Obiezione 4: Nei demoni esiste la loro natura, che proviene da Dio, ma anche la deformità derivante dal peccato, che non proviene da Lui; pertanto, non si può ammettere assolutamente che Dio sia nei demoni, se non aggiungendo “in quanto esseri viventi”. Tuttavia, nelle cose che non sono deformate nella loro natura, dobbiamo affermare assolutamente che Dio vi è.
 
 <span class="atom-split" data-atom="038" data-title="Whether God is everywhere?" data-chapter="Whether God is everywhere?" data-kind="atom" data-srclang="en"></span>
 
@@ -1723,6 +2237,26 @@ surface. But if its totality be considered according to quantity which it has ac
 not whole in every part of the surface. On the other hand, incorporeal substances have no totality
 either of themselves or accidentally, except in reference to the perfect idea of their essence. Hence,
 as the soul is whole in every part of the body, so is God whole in all things and in each one.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non sia dappertutto. Infatti, essere dappertutto significa trovarsi in ogni luogo. Ma trovarsi in ogni luogo non appartiene a Dio, Poiché a Lui non è affatto necessario trovarsi in un luogo specifico; infatti, “le cose incorporee”, come afferma Boezio nel “De Hebdomada”, “non si trovano in un luogo”. Pertanto, Dio non è dappertutto.
+
+Obiezione 2: Inoltre, il rapporto tra tempo e successione è lo stesso che quello tra luogo e permanenza. Ma una parte indivisibile di un’azione o di un movimento non può esistere in momenti diversi; pertanto, nemmeno una parte indivisibile di cose permanenti può trovarsi in tutti i luoghi. Ora, l’essere divino non è successivo, ma permanente. Quindi Dio non si trova in molti luoghi; e quindi non è dappertutto.
+
+Obiezione 3: Inoltre, ciò che è interamente in un luogo non può essere parzialmente in un altro luogo. Ma se Dio si trova in un luogo, allora Egli è completamente lì; poiché non ha parti. Pertanto, nessuna parte di Lui si trova altrove; e quindi Dio non è dappertutto.
+
+Al contrario, è scritto: “Io riempio il cielo e la terra” (Geremia 23:24).
+
+Rispondo che, poiché il luogo è una realtà concreta, essere “in luogo” può essere inteso in due modi diversi: da un lato, in relazione ad altre cose – cioè quando si dice che una cosa si trova in un’altra, indipendentemente dal modo in cui ciò avvenga; in questo senso, gli “attributi” di un luogo sono anch’essi “in luogo”. Dall’altro lato, in termini specifici legati al concetto stesso di luogo: quando si dice che qualcosa è effettivamente “in luogo”, ciò significa che occupa uno spazio concreto. In entrambi questi sensi, Dio è in qualche modo presente in ogni luogo; questo perché Egli dà esistenza a tutte le cose e conferisce loro la capacità di occupare uno spazio. Prima di tutto, poiché Dio è alla base dell’esistenza di tutte le cose, conferendo loro essere, potere e funzionalità, Egli è quindi “in ogni luogo” nel senso che dà origine all’idea stessa di spazio e di posizione. Inoltre, le cose che sono “poste in un luogo” lo occupano effettivamente; Dio, invece, riempie ogni luogo, ma non nel modo in cui un corpo fisico lo fa – poiché un corpo esclude la presenza di altri corpi nello stesso spazio. Al contrario, proprio perché Dio dà esistenza a tutte le cose che occupano uno spazio, Egli stesso riempie ogni luogo.
+
+Risposta all’Obiezione 1: Le cose incorporee occupano il loro spazio non per via del contatto tra quantità dimensionali, come avviene per i corpi, ma per via del contatto tra forze.
+
+Risposta all’Obiezione 2: L’indivisibile può essere considerato sotto due aspetti. Il primo riguarda ciò che è parte della continuità: ad esempio, un punto nelle cose permanenti o un momento nella successione temporale. Questo tipo di indivisibile, essendo legato a una posizione determinata nello spazio o nel tempo, non può trovarsi in più luoghi contemporaneamente; allo stesso modo, l’indivisibile nell’ambito dell’azione o del movimento, essendo caratterizzato da un ordine preciso, non può verificarsi in diversi momenti dello stesso processo. Un secondo tipo di indivisibile appartiene invece a categorie che esulano dalla continuità: sono queste le sostanze incorporee, come Dio, gli angeli e l’anima, che vengono definite “indivisibili”. Tali entità non fanno parte della continuità in senso stretto, ma ne sono influenzate dal loro potere; pertanto, a seconda che questo potere si estenda su un oggetto piccolo o grande, su uno spazio ristretto o ampio, esse possono trovarsi in un luogo o in più luoghi, in dimensioni ridotte o estese.
+
+Risposta all’Obiezione 3: Un tutto viene definito tale in relazione alle sue parti. Ora, una parte può essere di due tipi:  
+1. Una parte dell’essenza stessa; ad esempio, la forma e la materia sono considerate parti di un composto, mentre genere e differenza sono considerate parti di una specie.  
+2. Una parte in termini di quantità; qualsiasi quantità può essere divisa in tali parti. Quindi, ciò che è considerato un tutto in base alla quantità totale non può esistere al di fuori di quel contesto, poiché la quantità di una cosa è sempre commensurabile con la quantità del luogo in cui essa si trova; pertanto, non esiste una quantità totale senza un luogo totale. Tuttavia, l’essenza stessa non è commensurabile con la quantità totale di un luogo; quindi non è necessario che ciò che è considerato un tutto in base all’essenza si trovi necessariamente al di fuori di quel contesto. Questo principio si applica anche alle forme accidentali che possiedono una quantità accidentale: ad esempio, la bianchezza è considerata un tutto in ogni parte della superficie su cui si manifesta, se si considera l’essenza stessa di tale forma; poiché, secondo l’idea perfetta della sua specie, essa esiste effettivamente in ogni parte di quella superficie. Tuttavia, se si considera la quantità accidentale che essa possiede, allora non è più considerata un tutto in ogni singola parte della superficie. D’altra parte, le sostanze incorporee non possiedono alcuna totalità, né in sé stesse né in relazione alle loro qualità accidentali, se non in riferimento all’idea perfetta della loro essenza. Pertanto, così come l’anima è un tutto in ogni parte del corpo, anche Dio è un tutto in tutte le cose e in ciascuna di esse.
 
 <span class="atom-split" data-atom="039" data-title="Whether God is everywhere by essence, presence and power?" data-chapter="Whether God is everywhere by essence, presence and power?" data-kind="atom" data-srclang="en"></span>
 
@@ -1796,6 +2330,28 @@ present in anything as the object known and loved; therefore only grace constitu
 of God's existence in things. There is, however, another special mode of God's existence in man
 by union, which will be treated of in its own place (TP).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il modo in cui Dio esiste in tutte le cose non possa essere adeguatamente descritto attraverso concetti come essenza, presenza e potere. Infatti, ciò che è essenziale a qualcosa è presente in essa in modo intrinseco. Ma Dio non è essenzialmente parte delle cose; poiché non appartiene all’essenza di nulla. Pertanto, non si dovrebbe affermare che Dio esista nelle cose attraverso l’essenza, la presenza o il potere.
+
+Obiezione 2: Inoltre, essere presenti in qualcosa significa non esserne assenti. Ora, questo è proprio il significato del fatto che Dio sia “presente nelle cose” per la sua essenza: significa che Egli non è assente da nulla. Pertanto, la presenza di Dio in tutte le cose, per essenza e per realtà concreta, indica esattamente lo stesso concetto. Quindi è superfluo affermare che Dio sia presente nelle cose per la sua essenza, per la sua presenza effettiva e per il suo potere.
+
+Obiezione 3: Inoltre, poiché Dio, con il suo potere, è la causa di tutte le cose, allo stesso modo lo è anche con la sua conoscenza e volontà. Tuttavia non si dice che Egli sia “presente” nelle cose attraverso la sua conoscenza e volontà; pertanto, nemmeno attraverso il suo potere Egli è presente nelle cose.
+
+Obiezione 4: Inoltre, poiché la grazia è una perfezione aggiunta alla sostanza di una cosa, molte altre perfezioni vengono anch’esse aggiunte allo stesso modo. Pertanto, se si afferma che Dio esista in alcune persone in modo particolare per mezzo della grazia, sembrerebbe che, per ogni tipo di perfezione, dovrebbe esistere un modo specifico in cui Dio si manifesti nelle cose.
+
+Al contrario, un commento al Cantico dei Cantici (5) afferma che “Dio è presente in tutte le cose attraverso la Sua presenza, il Suo potere e la Sua sostanza; tuttavia si dice che Egli sia particolarmente presente in alcune di esse per grazia” [*La citazione è tratta da San Gregorio, Omelia VIII sull’Ezechiele*].
+
+Rispondo che si dice che Dio sia presente in una cosa in due modi: in un modo, come causa efficiente; ed è così che Egli è presente in tutte le cose create da Lui; in un altro modo, Egli è presente nelle cose come l’oggetto dell’azione lo è nell’agente; e questo si applica particolarmente alle operazioni dell’anima, poiché la cosa conosciuta è nella persona che conosce, e la cosa desiderata nella persona che desidera. In questo secondo modo, Dio è particolarmente presente nella creatura razionale che Lo conosce e Lo ama in modo effettivo o abituale. Poiché la creatura razionale possiede questa prerogativa per grazia, come verrà dimostrato in seguito (Q[12]), si dice che Dio sia così presente nei santi per grazia. Ma il modo in cui Egli è presente nelle altre cose create da Lui può essere considerato attraverso gli esempi umani: un re, ad esempio, è detto essere presente in tutto il suo regno per il suo potere, anche se non è fisicamente presente ovunque; allo stesso modo, una cosa è detta essere presente nelle altre cose su cui ha influenza, anche se non è materialmente presente in ogni parte di queste. Infine, si dice che una cosa sia presente in un luogo nella sua essenza o sostanza. Alcuni (i Manichei) sostenevano che le cose spirituali e incorporee fossero soggette al potere divino, mentre le cose visibili e corporee fossero soggette al potere di un principio opposto; contro queste tesi si deve affermare che Dio è presente in tutte le cose per il suo potere. Altri, pur credendo che tutte le cose fossero soggette al potere divino, non ammettevano che la provvidenza divina si estendesse a questi corpi inferiori; si dice infatti che “egli cammini intorno ai poli del cielo e non si cura delle nostre faccende” (Job 22:14). Contro queste tesi si deve affermare che Dio è presente in tutte le cose per la sua presenza. Inoltre, alcuni sostenevano che, sebbene tutte le cose fossero soggette alla provvidenza divina, non tutte fossero state create direttamente da Dio; egli avrebbe creato direttamente le prime creature, e queste a loro volta avrebbero creato le altre. Contro queste tesi si deve affermare che Dio è presente in tutte le cose per la sua essenza. Pertanto, Dio è presente in tutte le cose per il suo potere, poiché tutte sono soggette al suo dominio; è presente in tutte le cose per la sua presenza, poiché tutte sono accessibili ai suoi occhi; ed è presente in tutte le cose per la sua essenza, poiché Egli è la causa della loro esistenza.
+
+Risposta all’Obiezione 1: Si dice che Dio sia presente in tutte le cose per essenza, non certo attraverso l’essenza stessa di quelle cose, come se facesse parte della loro essenza; ma attraverso la Sua propria essenza, poiché la Sua sostanza è presente in tutte le cose come causa del loro essere.
+
+Risposta all’Obiezione 2: Si può dire che una cosa sia “presente” a un’altra quando è alla sua vista, anche se in realtà è lontana, come dimostrato in questo articolo; pertanto sono necessari due modi di presenza: quello per essenza e quello per vista.
+
+Risposta all’Obiezione 3: La conoscenza e la volontà richiedono che l’oggetto conosciuto sia presente in colui che conosce, e che l’oggetto voluto sia presente in colui che vuole. Pertanto, per mezzo della conoscenza e della volontà, le cose sono più veramente “in Dio” di quanto Dio sia nelle cose. Ma il potere è il principio che permette di agire su un altro; quindi, per mezzo del potere, l’agente entra in relazione con un oggetto esterno; ed è proprio grazie al potere che si può dire che un agente sia “presente” in un altro.
+
+Risposta all’Obiezione 4: Nessun’altra perfezione, se non la grazia, aggiunta alla sostanza, rende Dio presente in qualcosa come oggetto conosciuto e amato; pertanto solo la grazia costituisce un modo speciale dell’esistenza di Dio nelle cose. Esiste tuttavia un altro modo speciale dell’esistenza di Dio nell’uomo attraverso l’unione, di cui si parlerà in un contesto specifico (TP).
+
 <span class="atom-split" data-atom="040" data-title="Whether to be everywhere belongs to God alone?" data-chapter="Whether to be everywhere belongs to God alone?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that to be everywhere does not belong to God alone. For the universal,
@@ -1867,12 +2423,48 @@ according as the adverb determines the act of the seer, as proceeding from the s
 true that where the soul feels and sees, there it is, and there it lives according to this mode of
 speaking; and thus it does not follow that it is everywhere.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’essere onnipresenti non appartenga esclusivamente a Dio. Poiché l’universo, secondo il Filosofo (Posteriora Analitica I), è onnipresente e sempre presente; allo stesso modo, la materia primordiale, essendo contenuta in tutti i corpi, è anch’essa onnipresente. Tuttavia né l’universo né la materia primordiale sono Dio, come risulta da quanto detto sopra (Q[3]). Pertanto, l’essere onnipresenti non appartiene esclusivamente a Dio.
+
+Obiezione 2: Inoltre, il numero è presente nelle cose che sono numerate. Ma l’intero universo è costituito da numeri, come risulta dal Libro della Sapienza (Sap. 11:21). Pertanto esiste qualche numero che è presente in tutto l’universo e quindi è onnipresente.
+
+Obiezione 3: Inoltre, l’universo è una sorta di “corpo perfetto e completo” (Coel. et Mund. i). Tuttavia, l’intero universo è onnipresente, poiché non esiste alcun luogo al di fuori di esso. Pertanto, l’essere onnipresenti non appartiene soltanto a Dio.
+
+Obiezione 4: Inoltre, se qualcosa fosse infinito, non esisterebbe alcun luogo al di fuori di esso; quindi esso sarebbe dappertutto. Pertanto, l’essere “dappertutto” non sembra essere una caratteristica esclusiva di Dio.
+
+Obiezione 5: Inoltre, l’anima, come afferma [Agostino](/figures/augustine) (De Trinitate, VI, 6), è “intera nel corpo intero e intera in ciascuna delle sue parti”. Pertanto, se esistesse un solo animale al mondo, la sua anima sarebbe ovunque; e quindi l’essere onnipresenti non appartiene soltanto a Dio.
+
+Obiezione 6: Inoltre, come afferma Agostino (Epistola 137), “L’anima percepisce ciò che vede e vive là dove percepisce; è dunque ovunque”. Ma l’anima, in un certo senso, vede ovunque: attraverso una serie di sguardi, infatti, comprende l’intero spazio celeste nel suo campo visivo. Pertanto, l’anima è davvero ovunque.
+
+Al contrario, Ambrogio afferma (De Spiritu Sancto I, 7): “Chi osa definire lo Spirito Santo una creatura, Lui che esiste in tutte le cose, ovunque e sempre, e che certamente appartiene unicamente alla divinità?”
+
+Rispondo che essere ovunque in modo primario e assoluto è proprio di Dio. Ora, essere ovunque in modo primario si dice di ciò che, nella sua interezza, è realmente presente in ogni luogo; infatti, se qualcosa fosse ovunque soltanto nelle sue parti in luoghi diversi, non sarebbe veramente ovunque in modo primario, poiché ciò che appartiene a una cosa in quanto parte non le appartiene in modo essenziale; ad esempio, se un uomo avesse denti bianchi, la bianchezza non gli apparterrebbe in modo primario, ma ai suoi denti. Tuttavia, una cosa è ovunque in modo assoluto quando non dipende da alcuna condizione particolare per essere presente in ogni luogo, cioè quando essa deve esserci necessariamente, indipendentemente da qualsiasi ipotesi venga fatta; ad esempio, un granello di miglio sarebbe ovunque se non esistesse nessun altro corpo al mondo. Pertanto, essere ovunque in modo assoluto appartiene esclusivamente a Dio: poiché, indipendentemente dal numero di luoghi che si possano immaginare – anche se fossero infiniti – è necessario che Dio sia presente in tutti; infatti, nulla può esistere senza di Lui. Quindi, essere ovunque in modo primario e assoluto appartiene a Dio ed è proprio di Lui: poiché, in qualsiasi numero di luoghi si consideri, Dio deve esserci necessariamente, non come una sua parte, ma come la sua stessa essenza.
+
+Risposta all’Obiezione 1: La materia universale, e anche quella primaria, è effettivamente ovunque; ma non esiste in modo identico in tutti i luoghi.
+
+Risposta all’Obiezione 2: Il numero, essendo un accidente, non esiste di per sé in un luogo specifico, ma in modo accidentale; allo stesso modo, l’intero numero esiste solo in parte in ciascuna delle cose numerate; pertanto non si può concludere che il numero sia primariamente e assolutamente presente ovunque.
+
+Risposta all’Obiezione 3: L’intero universo è “ovunque”, ma non in modo assoluto; infatti, non si trova completamente in ogni luogo, bensì soltanto nelle sue parti. Inoltre, non è “ovunque” nel senso letterale del termine, poiché, se esistessero altri luoghi al di fuori di esso, esso non vi si troverebbe.
+
+Risposta all’Obiezione 4: Se esistesse un corpo infinito, esso sarebbe onnipresente; ma, considerate le sue parti, ciò non sarebbe possibile.
+
+Risposta all’Obiezione 5: Se esistesse un solo animale, la sua anima sarebbe ovunque, in senso primario, ma soltanto in modo accidentale.
+
+Risposta all’Obiezione 6: Quando si afferma che l’anima “vede ovunque”, ciò può essere inteso in due modi diversi. In un senso, l’avverbio “ovunque” indica che l’atto di vedere è compiuto dall’anima stessa; e in questo caso è vero che, quando l’anima vede il cielo, lo vede effettivamente nel cielo stesso; allo stesso modo, quando percepisce qualcosa, questa percezione avviene all’interno dell’anima stessa. Tuttavia, da ciò non si può concludere che l’anima “viva” o “esista” nel cielo, poiché vivere ed esistere non significano necessariamente che un’entità si estenda verso un oggetto esterno. In un altro senso, l’espressione “vede ovunque” può essere interpretata nel senso che l’atto di vedere è compiuto dall’anima in relazione all’oggetto osservato; e in questo caso è vero che, dove l’anima percepisce o vede qualcosa, là essa si trova effettivamente. Tuttavia, anche in questo caso non si può concludere che l’anima sia “ovunque”.
+
 <span class="atom-split" data-atom="041" data-title="THE IMMUTABILITY OF GOD (TWO ARTICLES)" data-chapter="THE IMMUTABILITY OF GOD (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider God's immutability, and His [eternity](/positions/eternity) following on His immutability. On the
 immutability of God there are two points of inquiry:
 (1) Whether God is altogether immutable?
 (2) Whether to be immutable belongs to God alone?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Esaminiamo ora l’immutabilità di Dio e la Sua [eternità](/positions/eternity), che deriva da tale immutabilità. Per quanto riguarda l’immutabilità di Dio, vi sono due aspetti da considerare:  
+(1) Se Dio sia del tutto immutabile;  
+(2) Se l’essere immutabile appartenga esclusivamente a Dio.
 
 <span class="atom-split" data-atom="042" data-title="Whether God is altogether immutable?" data-chapter="Whether God is altogether immutable?" data-kind="atom" data-srclang="en"></span>
 
@@ -1925,6 +2517,24 @@ from the movement of the Father of light.
 Reply to Objection 3: These things are said of God in Scripture metaphorically. For as the sun
 is said to enter a house, or to go out, according as its rays reach the house, so God is said to approach
 to us, or to recede from us, when we receive the influx of His goodness, or decline from Him.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non sia del tutto immutabile. Infatti, ciò che si muove di per sé è in qualche modo mutabile. Ma, come afferma [Agostino](/figures/augustine) (Genesi ad litteram viii, 20), “Lo Spirito Creatore non si muove né nel tempo né nello spazio”. Pertanto, Dio è in qualche modo mutabile.
+
+Obiezione 2: Inoltre, si afferma della Saggezza che “è più malleabile di tutte le cose attive” (Saggezza 7:24). Ma Dio è la stessa Saggezza; pertanto, anche Dio è malleabile.
+
+Obiezione 3: Inoltre, avvicinarsi e allontanarsi indicano movimento. Ma di Dio, nella [Scrittura](/concepts/revelation), si dice: “Avvicinatevi a Dio e Lui si avvicinerà a voi” (Giacomo 4:8). Pertanto, Dio è mutabile.
+
+Al contrario, è scritto: “Io sono il Signore, e non mi cambio” (Malaquia 3:6).
+
+Rispondo che, da quanto precede, si dimostra che Dio è assolutamente immutabile. Primo perché è stato dimostrato che esiste un essere primordiale, che chiamiamo Dio; e che questo essere primordiale deve essere un [atto puro](/concepts/actus_purus), senza alcuna mescolanza di [potenzialità](/concepts/act_potency), poiché, in senso assoluto, la potenzialità è posteriore all’atto. Ora, tutto ciò che subisce qualche cambiamento si trova, in qualche modo, nello stato di potenzialità; pertanto è evidente che sia impossibile che Dio possa subire alcun cambiamento. In secondo luogo, poiché tutto ciò che viene mosso rimane, in parte, lo stesso e cambia soltanto in altre parti; ad esempio, ciò che passa dal bianco al nero rimane sostanzialmente lo stesso; quindi, in tutto ciò che viene mosso, si riscontra una sorta di composizione. Ma è stato dimostrato che in Dio non esiste alcuna composizione, poiché Egli è assolutamente semplice; pertanto è evidente che Dio non può essere mosso. Terzo perché tutto ciò che viene mosso acquisisce qualcosa attraverso il proprio movimento e raggiunge ciò che prima non possedeva. Ma poiché Dio è infinito, contenendo in Sé tutta la pienezza della perfezione di ogni essere, Egli non può acquisire nulla di nuovo, né estendersi a qualcosa di cui prima non fosse già dotato; pertanto il movimento non appartiene affatto a Lui. Per queste ragioni, alcuni antichi, spinti dalla verità stessa, conclusero che il principio primordiale fosse immutabile.
+
+Risposta all’Obiezione 1: Agostino parla in modo simile a Platone, il quale affermava che il primo motore si muove da solo; definendo ogni attività un movimento, proprio come gli atti di comprensione, volontà e amore vengono considerati movimenti. Pertanto, poiché Dio comprende e ama se stesso, in questo senso si dice che Dio si muove da solo, ma non nel senso che il movimento e il cambiamento siano attribuibili a una entità esistente in potenzialità, come intendiamo oggi per cambiamento e movimento.
+
+Risposta all’Obiezione 2: La saggezza viene definita “mobile” in senso figurato, poiché diffonde la propria essenza anche verso le cose più lontane e esterne; infatti, nulla può esistere che non derivi, in qualche modo, dalla saggezza divina, come se provenisse dal suo principio primo ed effettivo; allo stesso modo, le opere d’arte derivano dalla saggezza dell’artista. Pertanto, poiché l’essenza della saggezza divina si diffonde gradualmente, dalle cose più elevate che ne partecipano pienamente fino alle cose più basse che ne partecipano in misura minore, si può dire che esista una sorta di “processione” e “movimento” della saggezza divina verso le cose; proprio come quando diciamo che il sole “raggiunge” la terra, poiché i suoi raggi la toccano. In questo modo Dionigi (Coel. Hier. I) spiega che ogni manifestazione della saggezza divina ci giunge attraverso il movimento del Padre della luce.
+
+Risposta all’Obiezione 3: Queste cose vengono dette di Dio nella Scrittura in senso metaforico. Poiché si dice che il sole entri in una casa o ne esca, a seconda che i suoi raggi raggiungano o meno quella casa, allo stesso modo si dice che Dio si avvicini a noi o si allontani da noi, quando riceviamo l’effetto benefico della Sua bontà o ci allontaniamo da Lui.
 
 <span class="atom-split" data-atom="043" data-title="Whether to be immutable belongs to God alone?" data-chapter="Whether to be immutable belongs to God alone?" data-kind="atom" data-srclang="en"></span>
 
@@ -2010,6 +2620,15 @@ We must now consider the [eternity](/positions/eternity) of God, concerning whic
 (4) Whether eternity differs from time?
 (5) The difference of aeviternity, as there is one time, and one eternity?
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’[eternità](/positions/eternity) di Dio, su cui sorgono sei questioni fondamentali:
+(1) Che cos’è l’eternità?
+(2) Dio è eterno?
+(3) L’essere eterno appartiene esclusivamente a Dio?
+(4) L’eternità differisce dal tempo?
+(5) In che consiste la differenza tra “aeviternità” e tempo, considerando che esiste un solo tempo e un’unica eternità?
+
 <span class="atom-split" data-atom="045" data-title="Whether this is a good definition of eternity, \&quot;The simultaneously-whole and perfect possession of interminable life\&quot;?" data-chapter="Whether this is a good definition of eternity, \&quot;The simultaneously-whole and perfect possession of interminable life\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this is a good definition of eternity, "The simultaneously-whole and perfect possession of interminable life"?
@@ -2076,6 +2695,36 @@ to remove the idea of time, and the word "perfect" is used to exclude the "now" 
 Reply to Objection 6: Whatever is possessed, is held firmly and quietly; therefore to designate
 the immutability and permanence of eternity, we use the word "possession."
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Rappresenta forse questa una buona definizione di eternità: “La possesso simultaneo e perfetto di una vita infinita”?
+
+Obiezione 1: Sembra che la definizione di [eternità](/positions/eternity) data da Boezio (De Consol. v) non sia valida: “L’eternità è la possesso simultaneamente completo e perfetto di una vita infinita”. Tuttavia, il termine “infinita” ha un significato negativo; ma la negazione appartiene soltanto a ciò che è imperfetto, e l’eternità non è certamente qualcosa di imperfetto. Pertanto, nel definire l’eternità non dovrebbe essere utilizzato il termine “infinita”.
+
+Obiezione 2: Inoltre, l’eternità indica un certo tipo di durata. Ma la durata riguarda l’esistenza, piuttosto che la vita. Pertanto, la parola “vita” non dovrebbe essere inclusa nella definizione di eternità; bensì la parola “esistenza”.
+
+Obiezione 3: Inoltre, un tutto è qualcosa che possiede parti. Ma ciò è estraneo all’eternità, che è semplice. Pertanto, non è appropriato definirla “tutto”.
+
+Obiezione 4: Molti giorni non possono verificarsi contemporaneamente, né molte ore possono esistere tutte insieme. Tuttavia, nell’eternità, giorni e ore sono presentati al plurale; si dice infatti: “La sua azione ha inizio dal principio, dai giorni dell’eternità” (Michea 5:2); inoltre si afferma: “Secondo la rivelazione del mistero nascosto fin dall’eternità” (Romani 16:25). Pertanto, l’eternità non è onnipresente e simultanea.
+
+Obiezione 5: Inoltre, il “tutto” e il “perfetto” sono la stessa cosa. Pertanto, se qualcosa è definito “tutto”, descriverlo anche come “perfetto” è del tutto superfluo.
+
+Obiezione 6: Inoltre, la durata non implica necessariamente “possesso”. Ma l’eternità è un tipo di durata. Pertanto, l’eternità non rappresenta un atto di possesso.
+
+Rispondo che, così come raggiungiamo la conoscenza delle cose semplici attraverso le cose composte, allo stesso modo dobbiamo giungere alla conoscenza dell’eternità attraverso il tempo, che non è altro che il modo in cui il movimento viene numerato con concetti di “prima” e “dopo”. Poiché in ogni movimento si verifica una successione, e una parte segue l’altra, il fatto che noi calcoliamo i momenti “prima” e “dopo” nel movimento ci permette di comprendere il tempo, che non è altro che la misura di questi concetti. Ora, in qualcosa che è privo di movimento e quindi sempre uguale a se stesso, non esistono concetti di “prima” o “dopo”. Pertanto, l’idea di tempo deriva dal modo in cui il movimento viene numerato; allo stesso modo, l’idea di eternità deriva dalla comprensione dell’uniformità di ciò che è al di fuori del movimento. Inoltre, si dice che le cose siano misurate dal tempo quando hanno un inizio e una fine nel tempo, poiché in tutto ciò che è soggetto a movimento esistono necessariamente un inizio e una fine. Ma poiché ciò che è totalmente immutabile non può subire alcuna successione, non ha né inizio né fine. Così l’eternità viene conosciuta da due fonti: innanzitutto, perché ciò che è eterno è infinito, cioè privo di inizio e fine; in secondo luogo, perché l’eternità non subisce alcuna successione, essendo contemporaneamente intera.
+
+Risposta all’Obiezione 1: Le cose semplici vengono solitamente definite attraverso la negazione; ad esempio, “un punto è ciò che non ha parti”. Tuttavia, questo non deve essere inteso nel senso che la negazione faccia parte della loro essenza, ma perché il nostro intelletto, che per prima cosa comprende le cose composte, non può giungere alla conoscenza delle cose semplici se non eliminando ciò che è opposto a esse.
+
+Risposta all’Obiezione 2: Ciò che è veramente eterno non è soltanto l’essere, ma anche la vita; e la vita si estende alla funzionalità, cosa che non vale per l’essere stesso. Ora, la durata sembra appartenere più alla funzionalità che all’essere; pertanto, il tempo è essenzialmente la numerazione del movimento.
+
+Risposta all’Obiezione 3: L’eternità viene definita “intera” non perché abbia parti, ma perché le manca qualcosa.
+
+Risposta all’Obiezione 4: Così come Dio, sebbene incorporeo, viene chiamato nella Scrittura in modo metaforico con nomi corporei, allo stesso modo l’eternità, pur essendo contemporaneamente intera, viene designata con termini che suggeriscono tempo e successione.
+
+Risposta all’Obiezione 5: Nel tempo bisogna considerare due aspetti: il tempo stesso, che è successivo; e il “momento presente” del tempo, che è imperfetto. Pertanto si utilizza l’espressione “simultaneamente-integro” per eliminare l’idea di tempo, e la parola “perfetto” per escludere il “momento presente” del tempo stesso.
+
+Risposta all’Obiezione 6: Quello che è posseduto viene tenuto saldamente e in modo tranquillo; pertanto, per indicare l’immutabilità e la permanenza dell’eternità, utilizziamo il termine “possesso”.
+
 <span class="atom-split" data-atom="046" data-title="Whether God is eternal?" data-chapter="Whether God is eternal?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God is not eternal. For nothing made can be predicated of God; for
@@ -2128,6 +2777,28 @@ apprehension of our mind alone.
 Reply to Objection 4: Words denoting different times are applied to God, because His eternity
 includes all times; not as if He Himself were altered through present, past and future.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non sia eterno. Infatti, nulla di ciò che è stato creato può essere attribuito a Dio; poiché Boezio afferma (De Trin. iv) che “il ‘ora’ che scorre via crea il tempo, mentre l‘ora’ che rimane immobile crea l’[eternità](/positions/eternity)”; inoltre, [Agostino](/figures/augustine) dice (Octog. Tri. Quaest. qu. 28) che “Dio è l’autore dell’eternità”. Pertanto, Dio non è eterno.
+
+Obiezione 2: Inoltre, ciò che esiste prima dell’eternità e dopo l’eternità non può essere misurato dall’eternità stessa. Tuttavia, come afferma [Aristotele](/figures/aristotle) nel “De Causis”, “Dio esiste prima dell’eternità e dopo l’eternità”: infatti è scritto che “il Signore regnerà per l’eternità, e oltre” (Esodo 15:18). Pertanto, essere eterno non appartiene a Dio.
+
+Obiezione 3: Inoltre, l’eternità è una sorta di misura. Ma essere misurato non appartiene a Dio. Pertanto, non spetta a Lui essere eterno.
+
+Obiezione 4: Inoltre, nell’eternità non esistono concetti di presente, passato o futuro, poiché l’eternità è simultaneamente intera; come è stato detto nell’articolo precedente. Tuttavia, termini che indicano il tempo presente, passato e futuro vengono utilizzati per riferirsi a Dio nella [Scrittura](/concepts/revelation). Pertanto, Dio non è eterno.
+
+Al contrario, Atanasio afferma nella sua Professione di Fede: “Il Padre è eterno, il Figlio è eterno, lo Spirito Santo è eterno”.
+
+Rispondo che l’idea di eternità deriva dall’immutabilità, così come l’idea di tempo deriva dal movimento, come emerge dall’articolo precedente. Pertanto, poiché Dio è supremamente immutabile, è proprio a Lui appartenere in modo assoluto la qualità dell’eternità. Non solo: Dio stesso è la propria eternità; al contrario, nessun altro essere è la propria durata, né la propria essenza. Ora, poiché Dio è la propria essenza uniforme, è anche la propria eternità.
+
+Risposta all’Obiezione 1: Il “ora” che rimane fermo, secondo la nostra comprensione, costituisce l’essenza dell’eternità. Così come la percezione del tempo deriva dal fatto che osserviamo il flusso del “ora”, anche la percezione dell’eternità nasce dalla nostra consapevolezza di un “ora” immobile. Quando Agostino afferma che “Dio è l’autore dell’eternità”, ciò va inteso in relazione all’eternità “partecipata”: Dio trasmette la Sua eternità ad alcuni individui, proprio come trasmette la Sua immutabilità.
+
+Risposta all’Obiezione 2: Da ciò deriva la risposta alla Seconda Obiezione. Poiché si dice che Dio esista prima dell’eternità, nella misura in cui tale concetto è condiviso dalle sostanze immateriali. Pertanto, nello stesso libro si afferma anche che “l’intelligenza è uguale all’eternità”. Secondo il Libro dell’Esodo, “Il Signore regnerà per l’eternità e oltre”; con “eternità” si intende qui il tempo infinito, come indicato in altre interpretazioni. Si dice quindi che il Signore regnerà al di là dell’eternità, poiché la Sua esistenza dura oltre ogni limite temporale, cioè oltre qualsiasi forma di durata. L’“età”, infatti, non è altro che il periodo di vita di ogni cosa, come si afferma nel libro De Coelo i. Inoltre, “regnare al di là dell’eternità” può anche significare che, se si concepisse l’esistenza di qualche altra entità per sempre – ad esempio il movimento dei cieli, secondo alcuni filosofi – allora Dio continuerebbe comunque a regnare al di là di tale limite, poiché il Suo dominio è intrinsecamente completo e infinito.
+
+Risposta all’Obiezione 3: L’eternità non è altro che Dio stesso. Pertanto, Dio non viene definito eterno, come se potesse essere in qualche modo misurato; tuttavia, l’idea di misura viene utilizzata soltanto in base alla comprensione del nostro intelletto.
+
+Risposta all’Obiezione 4: Le parole che indicano diversi tempi vengono usate per riferirsi a Dio, perché la Sua eternità include tutti i tempi; non come se Lui stesso cambiasse nel corso del presente, del passato o del futuro.
+
 <span class="atom-split" data-atom="047" data-title="Whether to be eternal belongs to God alone?" data-chapter="Whether to be eternal belongs to God alone?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that it does not belong to God alone to be eternal. For it is written that
@@ -2172,7 +2843,25 @@ Philosopher (Metaph. vi), is in the mind. Therefore in this sense the true and n
 because they are in the eternal mind, which is the divine intellect alone; hence it does not follow
 that anything beside God is eternal.
 
-<span class="atom-split" data-atom="048" data-title="Whether eternity differs from time? (1/2)" data-chapter="Whether eternity differs from time?" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia solo a Dio appartenere l’essere eterno. Infatti è scritto che “coloro che insegnano la giustizia agli altri” saranno “come stelle per tutta l’eternità” (Daniele 12:3). Ora, se fosse solo Dio ad essere eterno, non potrebbero esistere molte forme di eternità. Pertanto, Dio non è l’unico essere eterno.
+
+Obiezione 2: Inoltre, è scritto “Andate via, voi maledetti, nel fuoco eterno” (Matteo 25:41). Pertanto, Dio non è l’unico essere eterno.
+
+Obiezione 3: Inoltre, ogni cosa necessaria è eterna. Ma esistono molte cose necessarie; ad esempio, tutti i principi di dimostrazione e tutte le proposizioni dimostrative. Pertanto, Dio non è l’unico essere eterno.
+
+Al contrario, Gerome afferma (Epistola a Damaso XV) che “Dio è l’unico che non ha alcun inizio”. Ora, tutto ciò che ha un inizio non è eterno; pertanto, Dio è l’unico essere eterno.
+
+Rispondo che l’Eternità, intesa veramente e propriamente in questo senso, esiste soltanto in Dio, poiché l’eternità deriva dall’immutabilità; come risulta dal primo articolo della nostra discussione. Ma solo Dio è completamente immutabile, come è stato dimostrato in precedenza (Q[9], A[1]). Pertanto, poiché alcuni ricevono da Lui l’immutabilità, essi partecipano anche alla Sua eternità. Alcuni ricevono questa immutabilità nel senso di non cessare mai di esistere; in questo contesto si dice della terra: “Essa rimarrà per sempre” (Ecclesiaste 1:4). Inoltre, alcune cose vengono chiamate “eternhe” nella [Scrittura](/concepts/revelation) a causa della durata della loro esistenza, anche se in natura sono corruttibili; così, ad esempio, i monti sono definiti “eterni” (Salmo 75:5) e si legge: “Dei frutti dei monti eterni, ” (Deuteronomio 33:15). Alcuni, inoltre, partecipano in modo più pieno della natura stessa dell’eternità, poiché possiedono un’immutabilità sia nella loro esistenza che nelle loro funzioni; come gli angeli e i beati, che godono della Parola di Dio, poiché “quanto a quella visione della Parola, nei Santi non esistono pensieri mutevoli”, come afferma [Agostino](/figures/augustine) (De Trinitate XV). Pertanto, coloro che vedono Dio sono detti possedere la vita eterna; secondo quel testo: “Questa è la vita eterna: conoscere Te, l’unico vero Dio” (Giovanni 17:3), e così via.
+
+Risposta all’Obiezione 1: Si afferma che esistano molte forme di eternità, e quindi molti esseri partecipino all’eternità attraverso la contemplazione di Dio.
+
+Risposta all’Obiezione 2: Il fuoco dell’inferno viene definito eterno soltanto perché non ha mai fine. Tuttavia, i tormenti dei perduti subiscono cambiamenti, come si evince dalle parole “Dalla calura estrema passeranno alle acque innevate” (Job 24:19). Pertanto, nell’inferno non esiste vera eternità, ma piuttosto il tempo; come affermato nel Salmo: “Il loro tempo sarà per sempre” (Sal. 80:16).
+
+Risposta all’Obiezione 3: “Necessario” indica un certo modo di verità; e la verità, secondo il Filosofo (Metafisica VI), risiede nella mente. Pertanto, in questo senso, ciò che è vero e necessario è eterno, poiché esiste nella mente eterna, che non è altro che l’intelletto divino; da ciò non consegue affatto che qualcosa al di fuori di Dio sia eterno.
+
+<span class="atom-split" data-atom="048" data-title="Whether eternity differs from time? (parte 1)" data-chapter="Whether eternity differs from time?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that [eternity](/positions/eternity) does not differ from time. For two measures of duration
 cannot exist together, unless one is part of the other; for instance two days or two hours cannot be
@@ -2256,7 +2945,7 @@ impossible. Therefore aeviternity does not differ from time.
 On the contrary, Boethius says (De Consol. iii) "Who commandest time to be separate from
 aeviternity."
 
-<span class="atom-split" data-atom="049" data-title="Whether eternity differs from time? (2/2)" data-chapter="Whether eternity differs from time?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="049" data-title="Whether eternity differs from time? (parte 2)" data-chapter="Whether eternity differs from time?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, Aeviternity differs from time, and from [eternity](/positions/eternity), as the mean between them
 both. This difference is explained by some to consist in the fact that eternity has neither beginning
@@ -2313,6 +3002,19 @@ or not to have been, after he has been.
 Reply to Objection 4: The duration of aeviternity is infinite, forasmuch as it is not finished by
 time. Hence, there is no incongruity in saying that a creature is infinite, inasmuch as it is not ended
 by any other creature.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Rispondo che l’[eternità](/positions/eternity) si differenzia dal tempo e dall’[eternità](/positions/eternity) stessa in quanto rappresenta il mezzo tra di esse. Alcuni spiegano questa differenza sostenendo che l’eternità non abbia né inizio né fine, mentre l’[eternità](/positions/eternity) abbia un inizio ma non una fine, e il tempo abbia sia un inizio che una fine. Tuttavia, questa differenza è soltanto accidentale, come già dimostrato nell’articolo precedente; infatti, anche se le cose dell’[eternità](/positions/eternity) esistessero sempre e continuassero ad esistere, come alcuni ritengono, o anche se talvolta potessero cessare di esistere – il che è possibile per Dio – l’[eternità](/positions/eternity) si distinguerebbe comunque dall’eternità stessa e dal tempo. Altri attribuiscono questa differenza al fatto che l’eternità non presenta concetti come “prima” e “dopo”, mentre il tempo li possiede, insieme a processi di novazione e invecchiamento; l’[eternità](/positions/eternity), invece, ha questi concetti senza tali processi. Tuttavia, questa teoria contiene una contraddizione: se si considerano i processi di novazione e invecchiamento come parte della stessa misura dell’[eternità](/positions/eternity), allora “prima” e “dopo” non potrebbero esistere contemporaneamente; quindi, con il passare del tempo, parti dell’[eternità](/positions/eternity) dovrebbero ricomparire continuamente, il che significherebbe che anche nell’[eternità](/positions/eternity) avvenissero processi di novazione. Inoltre, se si considerano questi concetti in relazione alle cose misurate, sorgerebbero ulteriori incongruenze: una cosa che esiste nel tempo invecchia con il passare del tempo, poiché la sua esistenza è soggetta al cambiamento; quindi, da questo cambiamento derivano concetti come “prima” e “dopo”. Pertanto, il fatto che una cosa dell’[eternità](/positions/eternity) non subisca né invecchiamento né novazioni deriva dalla sua immutabilità; di conseguenza, la misura dell’[eternità](/positions/eternity) non include questi concetti. Diciamo quindi che, poiché l’eternità è la misura di un essere permanente, qualsiasi cosa si allontani da questa permanenza si allontana anche dall’eternità stessa. Alcune cose si allontanano dalla permanenza, il loro essere è soggetto al cambiamento; queste cose sono misurate dal tempo, così come tutti i movimenti e l’esistenza di tutte le cose corruttibili. Altre cose si allontanano meno dalla permanenza, poiché il loro essere non consiste nel cambiamento né ne è soggetto; tuttavia, esse presentano cambiamenti, sia in modo reale che potenziale. Questo si osserva nei corpi celesti, la cui essenza sostanziale è immutabile; eppure, nonostante questa immutabilità, essi subiscono cambiamenti di posizione. Lo stesso vale per gli angeli: la loro natura è immutabile, ma le loro scelte sono soggette al cambiamento; inoltre, hanno cambiamenti nella loro intelligenza, nelle loro emozioni e nei loro luoghi di dimora, secondo il loro grado. Pertanto, queste cose sono misurate dall’[eternità](/positions/eternity), che rappresenta il mezzo tra l’eternità e il tempo. Ma l’essere che.
+Misurato in termini di eternità, il tempo non è modificabile, né è legato al concetto di cambiamento. In questo modo, il tempo ha un “prima” e un “dopo”; l’eternità, invece, in sé stessa non possiede concetti di “prima” o “dopo”, anche se tali concetti possono essere associati a essa; l’eternità, infine, non ha né “prima” né “dopo”, e non è affatto compatibile con essi.
+
+Risposta all’Obiezione 1: Le creature spirituali, in quanto soggette a emozioni e processi intellettivi successivi, sono misurate dal tempo. Per questo motivo anche [Agostino](/figures/augustine) afferma (Genesi ad litteram viii, 20,22,23) che essere mossi nel corso del tempo significa essere mossi da emozioni. Tuttavia, in termini di loro natura, esse sono misurate dall’eternità; quanto alla visione della gloria, esse partecipano dell’eternità stessa.
+
+Risposta all’Obiezione 2: L’aevità è allo stesso tempo completa; tuttavia non costituisce l’eternità, poiché concetti come “prima” e “dopo” sono compatibili con essa.
+
+Risposta all’Obiezione 3: Nell’essere stesso di un angelo considerato in modo assoluto, non esiste alcuna distinzione tra passato e futuro, ma soltanto in relazione ai cambiamenti accidentali che possono verificarsi nel tempo. Dire che un angelo è stato, è o sarà, significa intendere ciò in modi diversi a seconda del modo in cui il nostro intelletto percepisce l’esistenza angelica, in relazione alle diverse fasi del tempo. Tuttavia, quando diciamo che un angelo è o era, stiamo supponendo qualcosa; e se questa supposizione viene accettata, il suo opposto non è più soggetto al potere divino. Invece, quando diciamo che un angelo sarà, in quel momento non stiamo ancora facendo alcuna supposizione concreta. Pertanto, poiché l’esistenza e la non-esistenza di un angello considerato in modo assoluto sono soggette al potere divino, Dio può rendere l’esistenza di un angelo “non futura”; ma non può far sì che esso non esista mentre esiste, né impedirgli di essere stato dopo che lo è stato.
+
+Risposta all’Obiezione 4: La durata dell’eternità è infinita, poiché non viene delimitata dal tempo. Pertanto, non vi è alcuna incongruenza nell’affermare che una creatura sia infinita, poiché non è limitata da alcun’altra creatura.
 
 <span class="atom-split" data-atom="050" data-title="Whether there is only one aeviternity?" data-chapter="Whether there is only one aeviternity?" data-kind="atom" data-srclang="en"></span>
 
@@ -2383,6 +3085,30 @@ one aeviternity by reason of the first, though all did not begin together.
 Reply to Objection 4: For things to be measured by one, it is not necessary that the one should
 be the cause of all, but that it be more simple than the rest.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non esista un’unica forma di eternità; infatti è scritto nei libri apocrifi di Esdra: “Maestà e potere degli eoni sono Tuoi, o Signore”.
+
+Obiezione 2: Inoltre, i diversi generi possiedono misure diverse. Tuttavia, alcune cose eterne appartengono al genere corporeo, come i corpi celesti; altre sono sostanze spirituali, come gli angeli. Pertanto, non esiste un’unica forma di eternanità.
+
+Obiezione 3: Inoltre, poiché l’eternità è un concetto legato alla durata, se esiste un’unica eternità, allora esiste anche una sola durata. Tuttavia, non tutte le cose eterne hanno necessariamente una stessa durata, poiché alcune iniziano ad esistere dopo altre; questo è particolarmente vero nel caso delle anime umane. Pertanto, non esiste un’unica eternità.
+
+Obiezione 4: Inoltre, le cose che non dipendono l’una dall’altra sembrano non avere un’unica misura di durata; infatti, pare esistere un solo tempo per tutte le cose temporali, poiché il primo movimento, misurato nel tempo, è in qualche modo la causa di ogni movimento. Ma le cose eterne non dipendono l’una dall’altra, poiché un angelo non è la causa di un altro angelo. Pertanto, non esiste soltanto un’unica eternità.
+
+Al contrario, l’Aevitàtà è qualcosa di più semplice del tempo e si avvicina di più all’[eternità](/positions/eternity). Ma il tempo è unico; pertanto, anche l’Aevitàtà deve essere unica.
+
+Rispondo che su questo argomento esistono due diverse opinioni. Alcuni sostengono che esista un’unica eternità; altri invece ritengono che ne esistano molte. Per capire quale di queste opinioni sia corretta, è possibile riflettere sul motivo per cui il tempo è considerato unitario: infatti possiamo passare dalle cose corporee alla conoscenza di quelle spirituali. Alcuni affermano che esista un solo tempo per le cose temporali, poiché esiste un unico numero per tutte le cose numerabili; e poiché il tempo è considerato un numero, secondo quanto afferma il Filosofo (Physica IV), questa sembra essere una ragione sufficiente. Tuttavia, tale argomentazione non è convincente: il tempo, infatti, non è un numero astratto dalla cosa numerata, ma esiste effettivamente all’interno di essa; altrimenti non sarebbe continuo: ad esempio, dieci metri di stoffa sono considerati continui non a causa del numero, ma a causa della stessa stoffa. Inoltre, il numero, nella misura in cui esiste all’interno delle cose numerate, non è lo stesso per tutte; varia infatti a seconda dell’oggetto su cui si applica. Pertanto, altri ritengono che l’unità dell’eternità, in quanto principio di ogni durata, sia la causa dell’unità del tempo: secondo questa visione, tutte le durate sono una nel loro principio, ma diventano molteplici a seconda della diversità delle cose che ricevono durata dal flusso di quel primo principio. Dall’altro lato, alcuni attribuiscono alla materia primordiale la ragione per cui il tempo è unitario: essa, infatti, è il soggetto primo del movimento, e la misura di tale movimento è il tempo stesso. Tuttavia, nessuna di queste ragioni è sufficiente: le cose che sono una in principio o in sostanza non lo sono necessariamente in modo assoluto, ma solo in modo accidentale. Pertanto, la vera ragione per cui il tempo è unitario risiede nell’unità del primo movimento da cui, essendo il più semplice, derivano tutti gli altri movimenti. Il tempo, quindi, può essere considerato come una misura relativa a quel movimento; non solo perché è la misura delle cose misurate, ma anche perché ne deriva l’unità stessa. Per quanto riguarda gli altri movimenti, il tempo viene soltanto paragonato a loro in quanto misura rispetto alle cose misurate; per questo motivo non aumenta con la loro molteplicità, poiché un’unica misura può essere applicata a molte cose diverse.  
+Una volta chiarito ciò, dobbiamo osservare che esistevano due opinioni diverse riguardo alle sostanze spirituali: alcuni ritenevano che tutte derivassero da Dio in modo uguale, come affermava Origene (Peri Archon I); altri invece pensavano che alcune di esse derivassero da Dio secondo gradi e ordini specifici. Dionigi di Atene sembrava condividere questa seconda opinione, quando sosteneva che tra le sostanze spirituali esistessero quelle primarie, medie e ultime, anche all’interno dello stesso ordine degli angeli. Secondo la prima opinione, dovrebbero esistere molte eternità, poiché ci sono molte cose spirituali di primo grado; secondo la seconda opinione, invece, dovrebbe esserci un’unica eternità, poiché ogni cosa è misurata dall’elemento più semplice del proprio genere.
+Si può misurare l’esistenza della prima entità eterna in base alla sua semplicità, che aumenta quanto più essa si avvicina alla fonte primordiale di tutta esistenza. Poiché quindi la seconda opinione è più vera – come verrà dimostrato in seguito (Q[47], A[2]) – ammettiamo per il momento l’esistenza di una sola entità eterna.
+
+Risposta all’Obiezione 1: L’eternità viene talvolta intesa come durata, cioè come l’intervallo di tempo che intercorre nell’esistenza di una cosa; per questo motivo diciamo “molte eternità” quando in realtà intendiamo semplicemente “molti periodi di durata”.
+
+Risposta all’Obiezione 2: Sebbene i corpi celesti e le entità spirituali differiscano per genere di natura, concordano comunque nel possedere un essere immutabile; pertanto possono essere misurati in termini di eternità.
+
+Risposta all’Obiezione 3: Non tutte le cose temporali sono iniziate contemporaneamente; tuttavia esiste un unico momento per tutte loro, a causa di quella prima che è stata misurata nel tempo; e così tutte le cose eternhe condividono una stessa eternità, a causa di quella prima, anche se non sono tutte nate allo stesso tempo.
+
+Risposta all’Obiezione 4: Affinché le cose possano essere misurate con un certo elemento, non è necessario che tale elemento sia la causa di tutte le altre, ma basta che sia più semplice delle altre.
+
 <span class="atom-split" data-atom="051" data-title="THE UNITY OF GOD (FOUR ARTICLES)" data-chapter="THE UNITY OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After the foregoing, we consider the divine unity; concerning which there are four points of
@@ -2391,6 +3117,14 @@ inquiry:
 (2) Whether "one" and "many" are opposed to each other?
 (3) Whether God is one?
 (4) Whether He is in the highest degree one?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo quanto preceduto, consideriamo l’unità divina; a proposito della quale vi sono quattro punti di indagine:  
+(1) Se “uno” aggiunga qualcosa al concetto di “essere”?  
+(2) Se “uno” e “molti” siano contrapposti tra loro?  
+(3) Se Dio sia uno.  
+(4) Se Egli sia, nel massimo grado possibile, uno.
 
 <span class="atom-split" data-atom="052" data-title="Whether \&quot;one\&quot; adds anything to \&quot;being\&quot;?" data-chapter="Whether \&quot;one\&quot; adds anything to \&quot;being\&quot;?" data-kind="atom" data-srclang="en"></span>
 
@@ -2453,6 +3187,26 @@ one in genus; and what are many in processions, are one in principle."
 
 Reply to Objection 3: It does not follow that it is nugatory to say "being" is "one"; forasmuch
 as "one" adds an idea to "being."
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Se “uno” aggiunge qualcosa a “essere”?
+
+Obiezione 1: Sembra che “uno” aggiunga qualcosa a “essere”. Infatti, tutto appartiene a un certo genere in virtù dell’aggiunta di “essere”, che permea tutti i generi. Ma “uno” è anch’esso un genere determinato, poiché rappresenta il principio del numero, che a sua volta è una specie di quantità. Pertanto, “uno” aggiunge qualcosa a “essere”.
+
+Obiezione 2: Inoltre, ciò che divide una cosa comune a tutti rappresenta un’aggiunta a essa. Ma il “essere” viene diviso da “uno” e da “molti”. Pertanto, “uno” costituisce un’aggiunta al “essere”.
+
+Obiezione 3: Inoltre, se “uno” non rappresenta un’aggiunta a “essere”, allora “uno” e “essere” devono avere lo stesso significato. Tuttavia, sarebbe privo di senso chiamare “essere” con il nome di “essere”; pertanto lo stesso vale per chiamare “essere” “uno”. Ora, questo è falso. Quindi “uno” rappresenta effettivamente un’aggiunta a “essere”.
+
+Al contrario, Dionisio afferma (Div. Nom. 5, ult.): “Niente di ciò che esiste non è, in qualche modo, ‘uno’”, il che sarebbe falso se “uno” rappresentasse un’aggiunta al “essere”, nel senso di limitarlo. Pertanto, “uno” non è un’aggiunta al “essere”.
+
+Rispondo che “uno” non aggiunge alcuna realtà al “essere”; ma rappresenta soltanto una negazione della divisione, poiché “uno” significa “essere” indiviso. È proprio per questo che “uno” è sinonimo di “essere”. Ora, ogni essere è o semplice o composto: ciò che è semplice è infatti indiviso, sia in atto che in potenza; al contrario, ciò che è composto non ha vera esistenza finché le sue parti sono separate, ma solo dopo che si sono unite tra loro. È quindi evidente che l’essere di qualsiasi cosa consiste nell’indivisione; ed è per questo che ogni essere protegge la propria unità come protegge la propria esistenza stessa.
+
+Risposta all’Obiezione 1: Alcuni, ritenendo che l’‘uno’ convertibile con ‘essere’ fosse lo stesso dell’‘uno’ che costituisce il principio del numero, si divisero in opinioni contrarie. Pitagora e Platone, osservando che l’‘uno’ convertibile con ‘essere’ non aggiungeva alcuna realtà all’‘essere’, ma indicava soltanto la sostanza dell’‘essere’ come qualcosa di indiviso, pensarono che lo stesso valgesse anche per l’‘uno’ che è il principio del numero. Poiché il numero è composto da unità, conclusero che i numeri fossero le sostanze di tutte le cose. Avicenna, invece, riteneva che l’‘uno’ che è il principio del numero aggiungesse effettivamente una realtà alla sostanza dell’‘essere’ (altrimenti il numero, essendo formato da unità, non sarebbe considerato un genere di quantità); quindi affermava che l’‘uno’ convertibile con ‘essere’ aggiungesse una realtà alle cose stesse, analogamente a come ‘bianco’ aggiunge una qualità specifica all’‘uomo’. Tuttavia, questa tesi è chiaramente errata: ogni cosa è ‘una’ in base alla sua sostanza. Se infatti una cosa fosse ‘una’ per qualche altra ragione diversa dalla sua sostanza, e questa stessa ragione fosse a sua volta considerata ‘una’, ci troveremmo di fronte a un processo infinito. Pertanto dobbiamo attenerci alla prima ipotesi: l’‘uno’ convertibile con ‘essere’ non aggiunge alcuna realtà all’‘essere’; invece, l’‘uno’ che è il principio del numero sì, poiché appartiene al genere della quantità.
+
+Risposta all’Obiezione 2: Non esiste nulla che impedisca a una cosa di essere, in un certo senso, divisa e, in un altro senso, indivisa; ciò che è diviso in termini numerici può essere indiviso in termini di specie; pertanto è possibile che una cosa sia, in un modo, “una” e, in un altro modo, “molti”. Tuttavia, se essa è assolutamente indivisa, o perché lo è secondo ciò che appartiene alla sua essenza (anche se può essere divisa riguardo a ciò che è esterno alla sua essenza – come ciò che è “uno” in termini di soggetto può avere molti accidenti), oppure perché è realmente indivisa ma potenzialmente divisibile (come ciò che è “uno” nel suo insieme e “molti” nelle sue parti), in tal caso la cosa sarà “una” in senso assoluto e “molti” in senso relativo. D’altra parte, se essa è indivisa in senso relativo e divisibile in senso assoluto – come se fosse divisa nella sua essenza ma indivisa in termini di idea, principio o causa – allora sarà “molti” in senso assoluto e “una” in senso relativo; ciò che è “molti” in termini numerici può essere “uno” in termini di specie o di principio. Pertanto, in questo modo, l’essere è diviso da “uno” e da “molti”; come se fosse diviso in senso assoluto da “uno” e in senso relativo da “molti”. Infatti, la molteplicità stessa non potrebbe essere inclusa nell’ambito dell’essere, se non lo fosse in qualche modo inclusa sotto il concetto di “uno”. Per questo motivo Dionigi afferma (Div. Nom., cap. ult.) che “non esiste alcuna forma di molteplicità che non sia, in qualche modo, ‘una’. Ciò che è ‘molti’ nelle sue parti è ‘uno’ nel suo insieme; ciò che è ‘molti’ in termini di accidenti è ‘uno’ in termini di soggetto; ciò che è ‘molti’ in termini numerici è ‘uno’ in termini di specie; ciò che è ‘molti’ in termini di specie è ‘uno’ in termini di genere; ciò che è ‘molti’ nelle sue strutture logiche è ‘uno’ in termini di principio”.
+
+Risposta all’Obiezione 3: Non si può concludere che sia inutile affermare che “essere” è “uno”, poiché “uno” aggiunge un’idea a “essere”.
 
 <span class="atom-split" data-atom="053" data-title="Whether \&quot;one\&quot; and \&quot;many\&quot; are opposed to each other?" data-chapter="Whether \&quot;one\&quot; and \&quot;many\&quot; are opposed to each other?" data-kind="atom" data-srclang="en"></span>
 
@@ -2525,6 +3279,30 @@ understood from the very negation of being: so what first comes to mind is being
 this being is not that being, and thus we apprehend division as a consequence; thirdly, comes the
 notion of one; fourthly, the notion of multitude.
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Sono “uno” e “molti” contrapposti l’uno all’altro?
+
+Obiezione 1: Sembra che “uno” e “molti” non siano reciprocamente opposti. Infatti, nulla di opposto può essere attribuito alla sua controparte opposta. Tuttavia, ogni “multitudine” è, in qualche modo, “uno”, come emerge dall’articolo precedente. Pertanto, “uno” non è opposto a “molti”.
+
+Obiezione 2: Inoltre, nulla di opposto viene costituito dal proprio contrario. Ma la “moltitudine” è costituita dall’“uno”. Pertanto, non è contraria alla “moltitudine”.
+
+Obiezione 3: Inoltre, “uno” è opposto a “uno”; ma l’idea di “pochi” è opposta a “molti”. Pertanto, “uno” non è opposto a “molti”.
+
+Obiezione 4: Inoltre, se “uno” è opposto a “moltitudine”, allora essi sono contrapposti nel senso in cui l’indiviso è opposto al divisibile; quindi “uno” è considerato come la privazione di quella che è caratterizzata dalla molteplicità. Tuttavia, ciò sembra incongruente: ne deriverebbe infatti che “uno” sia definito da “moltitudine”, mentre in realtà è “moltitudine” ad essere definita da “uno”. Ciò creerebbe un circolo vizioso nella definizione, il quale è inaccettabile. Pertanto, “uno” e “molti” non sono contrapposti tra loro.
+
+Al contrario, le cose che sono opposte in termini di concetto sono esse stesse in opposizione l’una all’altra. Tuttavia, il concetto di “uno” si basa sull’indivisibilità; mentre il concetto di “moltitudine” implica la divisione. Pertanto, “uno” e “molti” sono reciprocamente opposti.
+
+Rispondo che “uno” è opposto a “molti”, ma in modi diversi. L’“uno” che rappresenta il principio del numero è opposto alla “molteplicità”, anch’essa un tipo di numero; l’unità, infatti, può essere considerata la misura primaria di ogni cosa. Il numero stesso è, in sostanza, una molteplicità misurata dall’uno, come si evince chiaramente nella Metafisica X. Tuttavia, quell’“uno” che può essere identificato con il “essere” è opposto alla “molteplicità” nel senso di privazione: l’indiviso, infatti, è opposto alla cosa divisa.
+
+Risposta all’Obiezione 1: Nessuna privazione toglie del tutto l’esistenza di una cosa, poiché la privazione significa “negazione nel soggetto”, secondo il Filosofo (Categorie viii). Tuttavia, ogni privazione toglie comunque parte dell’esistenza di quella cosa; e quindi, in quanto concetto universale, la privazione stessa ha radici nell’essere stesso. Ciò non vale per le privazioni relative a forme particolari, come la vista o il bianco. Quello che vale per l’essere vale anche per il “uno” e il “bene”, concetti convertibili con l’essere stesso: la privazione del bene si fonda infatti su un certo bene; allo stesso modo, la perdita dell’unità si basa su una certa entità singola. Per questo motivo, la molteplicità è considerata una sorta di unità; il male è in realtà un certo tipo di bene, e il non-essere rappresenta comunque un modo di essere. Tuttavia, ciò che è opposto non può essere predicato dell’opposto stesso: l’uno è assoluto, mentre l’altro è relativo; ciò che è relativo, in quanto “potenzialità”, è in realtà non-essere; o ciò che è assoluto nel genere della sostanza è considerato non-essere in relazione a certe qualità accidentali. Allo stesso modo, ciò che è relativamente buono è assolutamente cattivo, e viceversa; ciò che è assolutamente “uno” è relativamente “molteplice”, e viceversa.
+
+Risposta all’Obiezione 2: Un “tutto” è duplice. In un senso, esso è omogeneo, composto da parti simili; in un altro senso, è eterogeneo, composto da parti diverse. Ora, in ogni tutto omogeneo, le singole parti possiedono la stessa forma del tutto stesso; ad esempio, ogni parte dell’acqua è acqua, e lo stesso vale per qualsiasi cosa continua costituita dalle sue parti. In ogni tutto eterogeneo, invece, nessuna delle parti possiede la forma specifica del tutto; ad esempio, nessuna parte di una casa è essa stessa una casa, né alcuna parte di un uomo è l’uomo stesso. La moltitudine rappresenta proprio questo tipo di tutto. Pertanto, poiché le singole parti della moltitudine non possiedono la sua forma specifica, questa è composta da unità, proprio come una casa è composta da elementi che non sono case stesse; non perché queste unità costituiscano la moltitudine nella loro natura indivisa – il che le renderebbe opposte alla moltitudine – ma perché esse esistono, proprio come le parti di una casa compongono la casa nel fatto stesso di essere entità reali, e non perché non siano case.
+
+Risposta all’Obiezione 3: “Molti” può essere inteso in due modi: in senso assoluto, e in questo caso è opposto a “uno”; in un altro modo, come indicante una sorta di eccesso, e in questo caso è opposto a “pochi”. Pertanto, nel primo senso due sono considerati molti, ma non nel secondo.
+
+Risposta all’Obiezione 4: “Uno” si oppone a “molti” in senso privativo, poiché l’idea di “molti” implica divisione. Pertanto, la divisione deve essere precedente all’unità, non assolutamente in sé stessa, ma secondo il nostro modo di comprenderla. Infatti, comprendiamo le cose semplici attraverso quelle composte; per questo definiamo un punto come “ciò che non ha parti”, ovvero “l’inizio di una linea”. Anche l’idea di “moltitudine” deriva da quella di “uno”: non comprendiamo le cose divise in termini di moltitudine se non attribuendo unità a ciascuna delle loro parti. Per questo motivo “uno” viene incluso nella definizione di “moltitudine”, ma “moltitudine” no in quella di “uno”. La divisione, invece, si comprende a partire dalla stessa negazione dell’essere: quindi, ciò che prima viene in mente è l’essere; successivamente, il fatto che questo essere non sia un altro tipo di essere; da qui deriva la nozione di divisione; infine, le nozioni di “uno” e “moltitudine”.
+
 <span class="atom-split" data-atom="054" data-title="Whether God is one?" data-chapter="Whether God is one?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God is not one. For it is written "For there be many gods and many
@@ -2573,6 +3351,20 @@ way only of privation and remotion. Thus there is no reason why a certain kind o
 not be predicated of God; for instance, that He is incorporeal and infinite; and in the same way it
 is said of God that He is one.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non sia uno solo. Infatti è scritto: “Poiché ci sono molti dèi e molti signori” (1 Corinzi 8:5).
+
+Obiezione 2: Inoltre, “uno”, in quanto principio del numero, non può essere attribuito a Dio, poiché la quantità non può essere attribuita a Dio; allo stesso modo, nemmeno “uno”, che è convertibile con “essere”, può essere attribuito a Dio, poiché implica privazione, e ogni privazione rappresenta un’imperfezione, il che non può applicarsi a Dio. Pertanto, Dio non è uno.
+
+Al contrario, è scritto: “Ascolta, o Israele: il Signore nostro Dio è un solo Signore” (Deuteronomio 6:4).
+
+Rispondo che si può dimostrare, attraverso queste tre fonti, che Dio è uno. Prima di tutto, a partire dalla Sua semplicità: infatti è evidente che il motivo per cui qualsiasi cosa singolare è “questa particolare cosa” è proprio perché essa non può essere condivisa con molte altre; ciò che rende Socrate un uomo, ad esempio, può essere condiviso con molti, mentre ciò che lo rende proprio lui, in modo specifico, può essere condiviso soltanto con una persona. Pertanto, se Socrate fosse un uomo per via di ciò che lo rende tale in modo particolare, poiché non possono esistere molti Socrati, allo stesso modo non potrebbero esistere molti uomini. Ora, questa caratteristica appartiene esclusivamente a Dio; infatti Dio stesso è la sua stessa natura, come è stato dimostrato in precedenza (Q[3], A[3]). Quindi, nello stesso modo in cui Dio è Dio, Egli è proprio quel Dio unico. È quindi impossibile che esistano molti dèi. In secondo luogo, ciò si dimostra anche attraverso l’infinità della Sua perfezione: come è stato mostrato in precedenza (Q[4], A[2]), Dio racchiude in sé tutta la perfezione dell’esistenza. Se quindi esistessero molti dèi, essi necessariamente divergerebbero l’uno dall’altro; ciò che appartiene a uno di loro non appartengerebbe all’altro. E se questa differenza fosse dovuta a una mancanza, uno di loro non sarebbe assolutamente perfetto; ma se fosse dovuta a una caratteristica aggiuntiva, uno di loro ne sarebbe privo. Quindi è impossibile che esistano molti dèi. Anche gli antichi filosofi, spinti dalla verità, quando affermavano l’esistenza di un principio infinito, sostenevano altresì che tale principio fosse uno solo. In terzo luogo, ciò si dimostra anche attraverso l’unità del mondo: tutte le cose esistenti sono infatti ordinate le une rispetto alle altre, poiché alcune servono ad altre. Ma cose diverse non possono armonizzarsi in un unico ordine se non sono guidate da una causa comune; molte cose, infatti, vengono ordinate in un unico insieme da qualcosa di superiore a esse: poiché una cosa è la causa “per sé” di un’altra, mentre molte cose ne sono soltanto le cause accidentali. Poiché ciò che è primo è necessariamente il più perfetto, e lo è “per sé” e non accidentalmente, deve esserci solo un principio che ordini tutte le cose in un unico insieme: ed questo principio è Dio.
+
+Risposta all’Obiezione 1: Gli dèi vengono chiamati “molti” a causa dell’errore di coloro che adoravano molteplici divinità, ritenendo che i pianeti e le altre stelle fossero dèi, così come le varie parti del mondo. Per questo motivo l’Apostolo aggiunge: “Il nostro Dio è uno”, ecc.
+
+Risposta all’Obiezione 2: “L’uno”, che è il principio del numero, non si applica a Dio, ma soltanto alle cose materiali. Infatti, il concetto di “uno” come principio del numero appartiene al “genere” della matematica, che riguarda entità materiali e viene astratto dalla materia soltanto a livello concettuale. Tuttavia, l’“uno” che può essere associato all’essere è un ente metafisico che non dipende dalla materia per la sua esistenza. E sebbene in Dio non vi sia alcuna privazione, secondo il modo in cui noi lo comprendiamo, Egli ci è conosciuto soltanto attraverso concetti legati alla privazione e all’allontanamento da certe caratteristiche materiali. Pertanto, non c’è motivo per cui un certo tipo di privazione non possa essere attribuito a Dio; ad esempio, il fatto che Egli sia incorporeo e infinito. E allo stesso modo si dice di Dio che Egli è “uno”.
+
 <span class="atom-split" data-atom="055" data-title="Whether God is supremely one?" data-chapter="Whether God is supremely one?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God is not supremely "one." For "one" is so called from the privation
@@ -2611,6 +3403,24 @@ and subject, so neither can an accident.
 Reply to Objection 3: Although every being is "one" by its substance, still every such substance
 is not equally the cause of unity; for the substance of some things is compound and of others simple.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non sia supremamente “uno”. Infatti, il termine “uno” si riferisce alla mancanza di divisione; ma la mancanza di divisione non può essere né maggiore né minore. Pertanto, Dio non è più “uno” delle altre cose che vengono chiamate “uno”.
+
+Obiezione 2: Inoltre, nulla sembra essere più indivisibile di ciò che è effettivamente e potenzialmente indivisibile, come un punto o l’unità stessa. Ma si dice che una cosa sia più “una” nella misura in cui è indivisibile. Pertanto, Dio non è più “uno” di quanto lo sia l’unità o un punto.
+
+Obiezione 3: Inoltre, ciò che è essenzialmente buono è supremamente buono. Pertanto, ciò che è essenzialmente “uno” è supremamente “uno”. Ma ogni essere è essenzialmente “uno”, come afferma il Filosofo (Metafisica iv). Quindi ogni essere è supremamente “uno”; e di conseguenza, Dio non è “uno” in modo diverso da qualsiasi altro essere che sia “uno”.
+
+Al contrario, Bernardo afferma nel “De Considerationibus”, libro V: “Tra tutte le cose che vengono chiamate ‘una’, l’unità della Divina Trinità occupa il primo posto”.
+
+Rispondo che, poiché “l’uno” è un essere indiviso, se qualcosa è supremamente “uno”, allora deve essere supremamente essere e supremamente indiviso. Ora, entrambi questi attributi appartengono a Dio. Poiché Egli è supremamente essere, in quanto il Suo essere non è determinato da alcuna natura a cui sia connesso; poiché Egli stesso è l’essere, esistente e assolutamente indeterminato. Ma Egli è anche supremamente indiviso, poiché non è diviso né attualmente né potenzialmente, in alcun modo di divisione; poiché Egli è totalmente semplice, come è stato dimostrato sopra (Q[3], A[7]). Pertanto, è evidente che Dio è “uno” nel grado supremo.
+
+Risposta all’Obiezione 1: Sebbene la privazione, considerata in sé stessa, non sia suscettibile di essere più o meno intensa, poiché il suo opposto lo è, anche la privazione può essere considerata in termini di maggiore o minore entità. Pertanto, quanto più una cosa è divisibile, tanto più essa può essere considerata “minore” o “maggiore”, o addirittura “suprema”.
+
+Risposta all’Obiezione 2: Un punto e un’unità che siano il principio del numero non possono essere considerati entità supreme, poiché hanno esistenza soltanto in un certo soggetto. Pertanto, nessuno dei due può essere considerato “un” in senso supremo. Poiché un soggetto non può essere considerato “un” in senso supremo a causa della differenza che esiste al suo interno tra accidente e sostanza, lo stesso vale per un accidente.
+
+Risposta all’Obiezione 3: Sebbene ogni essere sia “uno” per la sua sostanza, tuttavia non tutte le sostanze sono ugualmente causa di unità; infatti, la sostanza di alcune cose è composta, mentre quella di altre è semplice.
+
 <span class="atom-split" data-atom="056" data-title="HOW GOD IS KNOWN BY US (THIRTEEN ARTICLES)" data-chapter="HOW GOD IS KNOWN BY US (THIRTEEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 As hitherto we have considered God as He is in Himself, we now go on to consider in what
@@ -2630,6 +3440,23 @@ essence of God?
 (12) Whether by natural reason we can know God in this life?
 (13) Whether there is in this life any knowledge of God through grace above the knowledge of
 natural reason?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Poiché finora abbiamo considerato Dio così come Egli è in Sé stesso, ora passiamo ad esaminare in che modo Egli si manifesta nella conoscenza delle creature; su questo argomento vi sono tredici punti da indagare:  
+(1) Può qualche intelletto creato comprendere l’essenza di Dio?  
+(2) L’essenza di Dio può essere percepita dall’intelletto attraverso qualche immagine creata?  
+(3) L’essenza di Dio può essere vista con l’occhio corporeo?  
+(4) Qualsiasi sostanza intellettiva creata è in grado, con le sue sole forze naturali, di comprendere l’essenza di Dio?  
+(5) All’intelletto creato è necessaria qualche “luce” creata per percepire l’essenza di Dio?  
+(6) Tra coloro che vedono Dio, alcuni lo vedono in modo più perfetto di altri?  
+(7) Può qualche intelletto creato comprendere appieno l’essenza di Dio?  
+(8) Quando l’intelletto creato percepisce l’essenza di Dio, ne conosce immediatamente tutte le caratteristiche?  
+(9) Ciò che viene conosciuto attraverso questa percezione si basa su qualche analogia esistente nel mondo naturale?  
+(10) L’intelletto creato comprende immediatamente ciò che vede in Dio?  
+(11) Nella condizione di questa vita, è possibile per alcun uomo vedere l’essenza di Dio?  
+(12) Con la ragione naturale possiamo conoscere Dio in questa vita?  
+(13) Esiste nella vita presente qualche forma di conoscenza di Dio che trascende quella ottenibile attraverso la ragione naturale, grazie alla grazia divina?
 
 <span class="atom-split" data-atom="057" data-title="Whether any created intellect can see the essence of God?" data-chapter="Whether any created intellect can see the essence of God?" data-kind="atom" data-srclang="en"></span>
 
@@ -2692,6 +3519,28 @@ sense every relation of one thing to another is called proportion. And in this s
 proportion of the creature to God, inasmuch as it is related to Him as the effect of its cause, and as
 potentiality to its act; and in this way the created intellect can be proportioned to know God.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nessun intelletto creato possa comprendere l’essenza di Dio. Infatti Crisostomo, commentando Giovanni 1:18 (“Nessuno ha mai visto Dio”), afferma: “Non solo i profeti, ma né gli angeli né gli arcangeli hanno visto Dio. Come potrebbe infatti una creatura comprendere ciò che è indecomponibile?” Anche Dionigi di Atene, nel suo trattato “Divini Nomi”, dice a proposito di Dio: “Non esiste alcun senso, alcuna immagine, alcuna opinione, alcuna ragione, né alcuna conoscenza di Lui.”
+
+Obiezione 2: Inoltre, tutto ciò che è infinito, in quanto tale, è sconosciuto. Ma Dio è infinito, come è stato dimostrato sopra (Q[7], A[1]). Pertanto, Lui stesso è sconosciuto.
+
+Obiezione 3: Inoltre, l’intelletto umano conosce soltanto le cose esistenti. Infatti, ciò che prima di tutto viene percepito dall’intelletto è l’essere stesso. Ora, Dio non è qualcosa che esiste; piuttosto, Egli rappresenta una sorta di “super-essere”, come afferma Dionigi (Div. Nom. iv). Pertanto, Dio non è qualcosa che possa essere compreso intellettualmente; al contrario, Egli stesso è l’intelletto supremo.
+
+Obiezione 4: Inoltre, deve esistere una qualche proporzione tra colui che conosce e ciò che viene conosciuto, poiché ciò che viene conosciuto rappresenta la perfezione di colui che conosce. Tuttavia non esiste alcuna proporzione tra l’intelletto creato e Dio; vi è infatti una distanza infinita tra loro. Pertanto, l’intelletto creato non può comprendere l’essenza di Dio.
+
+Al contrario, è scritto: “Lo vedremo così com’è” (1 Giovanni 2:2).
+
+Rispondo che, poiché tutto è conoscibile nella misura in cui esiste realmente, Dio, che è un [atto puro](/concepts/actus_purus) privo di alcuna traccia di [potenzialità](/concepts/act_potency), è in sé stesso estremamente conoscibile. Tuttavia ciò che è di per sé supremamente conoscibile potrebbe non essere comprensibile da un intelletto particolare, a causa dell’eccessiva differenza tra l’oggetto conoscibile e quell’intelletto; ad esempio, il sole, che è estremamente visibile, non può essere visto dalla pipistrella a causa della sua intensa luminosità. Pertanto alcuni, riflettendo su questo punto, hanno sostenuto che nessun intelletto creato possa comprendere l’essenza di Dio. Tuttavia questa opinione non è fondata. Poiché la massima beatitudine dell’uomo consiste nell’utilizzare la sua funzione più elevata, ovvero il proprio intelletto; se si ammettesse che l’intelletto creato non potesse mai comprendere Dio, allora o non raggiungerebbe mai la beatitudine, oppure questa beatitudine deriverebbe da qualcosa di diverso da Dio stesso, il che è in contraddizione con la fede. La perfezione ultima della creatura razionale si trova infatti in ciò che costituisce il principio del suo essere; una cosa è perfetta nella misura in cui raggiunge il proprio principio. Inoltre, questa stessa opinione è anche contraria alla ragione: in ogni uomo esiste infatti un desiderio naturale di conoscere la causa di ogni effetto che osserva; da questo deriva lo stupore umano. Ma se l’intelletto della creatura razionale non potesse giungere fino alla causa prima delle cose, tale desiderio rimarrebbe insoddisfatto. Pertanto è assolutamente certo che i beati possano comprendere l’essenza di Dio.
+
+Risposta all’Obiezione 1: Entrambe queste autorità parlano della visione di comprensione. Pertanto, Dionigi introduce immediatamente prima delle parole citate la frase “Lui è universalmente incomprensibile per tutti”, ecc.; anch’egli, dopo le stesse parole, afferma: “Si riferisce alla visione più certa del Padre, cioè a quella comprensione perfetta che il Padre ha del Figlio”.
+
+Risposta all’Obiezione 2: L’[infinità](/concepts/infinity) della materia che non è stata perfezionata dalla forma è, di per sé, sconosciuta, poiché ogni conoscenza deriva dalla forma; mentre l’infinità della forma, che non è limitata dalla materia, è, di per sé, assolutamente conosciuta. Dio è infinito in questo senso, e non nel primo: come risulta da quanto detto sopra (Q[7], A[1]).
+
+Risposta all’Obiezione 3: Si afferma che Dio non esista non nel senso che non esistesse affatto, ma perché Egli esiste al di sopra di tutto ciò che esiste; poiché Egli è la Sua stessa esistenza. Pertanto, questo non significa che Egli non possa essere conosciuto affatto, ma piuttosto che Egli trascende ogni forma di conoscenza; il che vuol dire che Egli non può essere compreso completamente.
+
+Risposta all’Obiezione 4: La proporzione è duplice. In un senso, indica una determinata relazione tra due quantità, secondo che “doppio”, “triplo” ed “uguale” siano considerati tipi di proporzione. In un altro senso, qualsiasi relazione tra due cose può essere definita proporzione. E in questo senso, esiste una proporzione tra la creatura e Dio: poiché la creatura è a Lui relativa come effetto della sua causa, e come potenzialità rispetto al suo atto; ed è in questo modo che l’intelletto creato può essere “proporzionato” per conoscere Dio.
+
 <span class="atom-split" data-atom="058" data-title="Whether the essence of God is seen by the created intellect through an image?" data-chapter="Whether the essence of God is seen by the created intellect through an image?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the essence of God is seen through an image by the created intellect.
@@ -2753,6 +3602,25 @@ which are not their own existence are united to the intellect by means of some e
 intellect itself is informed, and made in act; so the divine essence is united to the created intellect,
 as the object actually understood, making the intellect in act by and of itself.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’essenza di Dio venga compresa attraverso un’immagine da parte dell’intelligenza creata.  
+Infatti è scritto: “Sappiamo che, quando Egli apparirà, noi saremo simili a Lui e lo vedremo così com’è” (1 Gv 3:2).
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (De Trinitate, V): “Quando conosciamo Dio, in noi si manifesta una sorta di somiglianza con Lui”.
+
+Obiezione 3: Inoltre, l’intelletto in atto è ciò che effettivamente può essere compreso; allo stesso modo, il senso in atto è ciò che effettivamente può essere percepito. Ciò avviene perché il senso riceve informazioni riguardo alla somiglianza dell’oggetto percettibile, mentre l’intelletto riceve informazioni riguardo alla somiglianza della cosa compresa. Pertanto, se Dio viene visto dall’intelletto creato in atto, deve essere che Egli venga visto attraverso qualche forma di similitudine.
+
+Al contrario, Agostino afferma (De Trinitate XV) che quando l’Apostolo dice: “Noi vediamo attraverso uno specchio e in un enigma”, con i termini “specchio” ed “enigma” egli intende indicare certe similitudini che aiutano a comprendere la visione di Dio. Tuttavia, vedere l’essenza stessa di Dio non è una visione enigmatica né speculativa, ma, al contrario, di natura completamente diversa. Pertanto, l’essenza divina non può essere compresa attraverso alcuna similitudine.
+
+Rispondo che per una visione sia sensibile che intellettuale sono necessarie due cose: la capacità visiva e l’unione dell’oggetto visto con la vista stessa. La visione diventa effettiva soltanto quando l’oggetto visto esiste in qualche modo nel soggetto che lo percepisce; nelle cose corporee, infatti, è evidente che l’oggetto visto non può esserci essenzialmente presente, ma solo attraverso una sua somiglianza con il soggetto percettore – come la somiglianza di una pietra nell’occhio, grazie alla quale si verifica la visione, mentre la sostanza stessa della pietra non è presente nell’occhio. Tuttavia, se il principio della capacità visiva e l’oggetto visto fossero la stessa cosa, ne conseguirebbe che il soggetto percettore riceverebbe sia la capacità visiva sia la forma attraverso cui vede, da quella stessa entità unica. È evidente infatti che Dio è l’autore della capacità intellettiva e che può essere percepito dall’intelletto; poiché la capacità intellettiva della creatura non è l’essenza di Dio, ne consegue che essa rappresenta una sorta di somiglianza partecipata di Lui, che è l’intelligenza primordiale. Per questo motivo anche la capacità intellettiva della creatura viene chiamata “luce intelligibile”, derivante dalla prima luce – sia questa intesa come capacità naturale, che come perfezione aggiunta grazie alla grazia o alla gloria divina. Pertanto, affinché si possa vedere Dio, è necessaria una qualche somiglianza di Dio nella facoltà visiva, che renda l’intelletto capace di percepirlo; ma nell’oggetto visto, che deve necessariamente essere unito al soggetto percettore, l’essenza di Dio non può essere percepita attraverso alcuna somiglianza creata. Primo perché, come afferma Dionigi (Div. Nom. I), “attraverso le somiglianze delle cose inferiori, quelle superiori non possono affatto essere conosciute”; così come l’essenza di una cosa incorporea non può essere conosciuta attraverso la somiglianza di un corpo corporeo. Molto meno quindi l’essenza di Dio può essere percepita attraverso alcuna somiglianza creata. Secondo perché l’essenza di Dio è la Sua stessa esistenza, come è stato dimostrato in precedenza; e nessuna forma creata può rappresentare questa essenza divina al soggetto percettore. Terzo perché l’essenza divina è infinita e contiene in sé tutto ciò che può essere concepito o compreso dall’intelletto umano; ma nulla di ciò può essere rappresentato attraverso una somiglianza creata, poiché ogni forma creata è determinata da un certo aspetto della saggezza, del potere o dell’essere stesso. Pertanto affermare che Dio possa essere visto attraverso una qualche somiglianza significherebbe dire che l’essenza divina non può affatto essere percepita; il che è falso. Quindi si deve dire che per vedere l’essenza di Dio sia necessaria una certa somiglianza nella facoltà visiva, ovvero la “luce della gloria” che rafforza l’intelletto, come si dice nel Salmo 35:10: “Nella tua luce vedremo la luce”. Tuttavia, l’essenza di Dio non può essere percepita attraverso alcuna somiglianza creata che possa rappresentarla così com’è realmente.
+
+Risposta all’Obiezione 1: Quell’autorità parla della somiglianza che deriva dalla partecipazione alla luce della gloria.
+
+Risposta all’Obiezione 2: Agostino parla qui della conoscenza di Dio in questa terra.
+
+Risposta all’Obiezione 3: L’essenza divina è essenzialmente l’esistenza stessa. Pertanto, così come altre forme intelligibili che non sono la loro stessa esistenza vengono unite all’intelletto attraverso qualche entità che permette all’intelletto stesso di essere informato e di agire; allo stesso modo, l’essenza divina viene unita all’intelletto creato, come oggetto effettivamente compreso, rendendo così l’intelletto attivo per sua stessa natura.
+
 <span class="atom-split" data-atom="059" data-title="Whether the essence of God can be seen with the bodily eye?" data-chapter="Whether the essence of God can be seen with the bodily eye?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the essence of God can be seen by the corporeal eye. For it is written
@@ -2802,6 +3670,24 @@ of the divine glory infused into the body after its renovation.
 Reply to Objection 3: The essence of God is not seen in a vision of the imagination; but the
 imagination receives some form representing God according to some mode of similitude; as in the
 divine [Scripture](/concepts/revelation) divine things are metaphorically described by means of sensible things.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’essenza di Dio possa essere vista con l’occhio corporeo. Infatti è scritto in [Job 19:26]: “Nella mia carne ti vedrò. Dio”, e in [Job 42:5]: “Con l’udito ti ho ascoltato, ma ora il mio occhio ti vede”.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (De Civ. Dei xxix, 29): “Quegli occhi”, cioè gli occhi glorificati, “avranno quindi una maggiore capacità di vedere; non tanto per poter percepire con maggiore acutezza – come si sostiene riguardo alla vista dei serpenti o degli aquile (poiché qualsiasi acuità visiva possedano queste creature, esse possono vedere soltanto cose corporee) – ma per essere in grado di percepire anche cose incorporee”. Chiunque sia in grado di vedere cose incorporee può essere elevato al punto di poter vedere Dio. Pertanto, l’occhio glorificato può vedere Dio.
+
+Obiezione 3: Inoltre, Dio può essere percepito dall’uomo attraverso una visione dell’immaginazione. Infatti è scritto: “Vidi il Signore seduto su un trono”, ecc. (Isaia 6:1). Ma una visione immaginaria ha origine dai sensi; infatti l’immaginazione viene stimolata dai sensi ad agire. Pertanto, Dio può essere percepito attraverso una visione dei sensi.
+
+Al contrario, Agostino afferma (De Visione Dei, Epistola cxlvii): “Nessuno ha mai visto Dio, né in questa vita così com’è realmente, né nella vita angelica, nel modo in cui le cose visibili vengono percepite con la vista corporea.”
+
+Rispondo che è impossibile per Dio essere visto con il senso della vista o con qualsiasi altro senso o facoltà del potere sensitivo. Infatti, ogni tipo di tale potere è l’atto di un organo corporeo, come verrà dimostrato in seguito (Q[78]). Ora, l’atto è proporzionale alla natura che lo possiede; pertanto, nessun potere di quel genere può oltrepassare i limiti delle cose corporee. Poiché Dio è incorporeo, come è stato dimostrato in precedenza (Q[3], A[1]), non può essere visto né con i sensi né con l’immaginazione, ma soltanto con l’intelletto.
+
+Risposta all’Obiezione 1: Le parole “Nella mia carne vedrò Dio, il mio Salvatore” non significano che Dio possa essere visto con gli occhi del corpo, ma che l’uomo, esistendo nel corpo dopo la risurrezione, potrà vedere Dio. Allo stesso modo, le parole “Ora i miei occhi ti vedono” devono essere intese come riferite all’“occhio della mente”, come afferma l’Apostolo: “Che Egli vi dia lo spirito di sapienza, affinché gli ‘occhi del vostro cuore’ possano essere illuminati” (Efesini 1:17,18).
+
+Risposta all’Obiezione 2: Agostino parla come colui che pone domande e lo fa in modo condizionato. Ciò emerge da quanto afferma in precedenza: “Pertanto, avranno un potere del tutto diverso (cioè gli occhi glorificati) se riusciranno a vedere quella natura incorporea”; successivamente spiega ulteriormente: “È molto credibile che possiamo vedere i corpi terreni del nuovo cielo e della nuova terra in modo tale da percepire con estrema chiarezza Dio ovunque presente, che governa tutte le cose corporee; non come vediamo ora le cose invisibili di Dio attraverso ciò che è creato, ma come quando vediamo gli uomini tra cui viviamo, che vivono e svolgono le funzioni della vita umana: non crediamo che vivano, ma li vediamo semplicemente esistere”. Da ciò risulta evidente in che modo gli occhi glorificati potranno vedere Dio, proprio come i nostri occhi oggi percepiscono la vita altrui. Tuttavia, la vita non viene vista con l’occhio corporeo come una realtà visibile in sé stessa, ma come oggetto indiretto dei sensi; tale realtà, infatti, non viene compresa attraverso i sensi soltanto, ma immediatamente, insieme ai sensi, grazie a un’altra facoltà cognitiva. Il fatto che la presenza divina possa essere percepita dall’intelletto immediatamente al vedere le cose corporee deriva da due cause: dalla chiarezza dell’intelletto stesso e dallo splendore della gloria divina infusa nel corpo dopo la sua rigenerazione.
+
+Risposta all’Obiezione 3: L’essenza di Dio non può essere compresa attraverso una visione dell’immaginazione; tuttavia, l’immaginazione riceve una forma che rappresenta Dio, secondo un certo modo di somiglianza; proprio come nelle sacre [Scritture](/concepts/revelation), le cose divine vengono descritte in modo metaforico attraverso elementi sensibili.
 
 <span class="atom-split" data-atom="060" data-title="Whether any created intellect by its natural powers can see the Divine essence?" data-chapter="Whether any created intellect by its natural powers can see the Divine essence?" data-kind="atom" data-srclang="en"></span>
 
@@ -2875,6 +3761,24 @@ and its existence is another. Since therefore the created intellect is naturally
 the concrete form, and the concrete being abstractedly, by way of a kind of resolution of parts; it
 can by grace be raised up to know separate subsisting substance, and separate subsisting existence.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un’intelligenza creata possa comprendere l’essenza divina grazie alle proprie facoltà naturali. Infatti Dionigi afferma (Div. Nom. iv): “Un angelo è uno specchio puro, estremamente chiaro; potremmo dire che riceva tutta la [bellezza](/concepts/beauty) di Dio”. Ma se si osserva un riflesso, ciò significa che si vede l’oggetto originale. Pertanto, poiché un angelo, con le proprie facoltà naturali, comprende se stesso, sembra che possa anche comprendere l’essenza divina attraverso le stesse capacità innate.
+
+Obiezione 2: Inoltre, ciò che è estremamente visibile diventa meno visibile per noi a causa della nostra vista corporea o intellettuale imperfetta. Ma l’intelletto angelico non presenta tale difetto. Pertanto, poiché Dio è estremamente intelligibile in se stesso, sembra che lo sia altrettanto anche per un angelo. Quindi, se un angelo può comprendere altre cose intelligibili grazie alle proprie facoltà naturali, tanto più può comprendere Dio.
+
+Obiezione 3: Inoltre, i sensi corporei non sono in grado di comprendere la sostanza incorporea, che va al di là della loro natura. Pertanto, se vedere l’essenza di Dio è qualcosa che va oltre la capacità di ogni intelletto creato, ne consegue che nessun intelletto creato possa mai raggiungere tale comprensione. Ma ciò è falso, come risulta da quanto detto in precedenza (A[1]). Quindi sembra naturale che un intelletto creato possa comprendere l’essenza divina.
+
+Al contrario, è scritto: “La grazia di Dio è la vita eterna” (Romani 6:23). Ma la vita eterna consiste nella visione dell’essenza divina, secondo le parole: “Questa è la vita eterna: conoscere Te, l’unico vero Dio”, ecc. (Giovanni 17:3). Pertanto, vedere l’essenza di Dio è possibile all’intelletto creato per grazia, e non per natura.
+
+Rispondo che è impossibile per qualsiasi intelletto creato vedere l’essenza di Dio con le proprie forze naturali. La conoscenza, infatti, è determinata dal modo in cui la cosa conosciuta si relaziona al conoscitore; ma la cosa conosciuta esiste nel conoscitore secondo il modo specifico di questo stesso conoscitore. Pertanto, la conoscenza di ogni essere umano è regolata dalla sua natura intrinseca. Se quindi il modo di essere di una cosa superasse il modo del conoscitore, ne deriverebbe che la conoscenza di tale cosa trascendesse la natura stessa del conoscitore. Ora, i modi di essere delle cose sono molteplici: alcune esistono soltanto in materia individuale, come tutti i corpi; altre, invece, sono essenze sostanziali che non risiedono affatto nella materia, ma ne ricevono l’esistenza; queste sono le entità incorporee, chiamate angeli. Solo a Dio appartiene di essere la propria essenza sostanziale. Quindi ciò che esiste soltanto in materia individuale possiamo conoscerlo naturalmente, poiché la nostra anima, strumento del conoscimento, è una forma di materia specifica. La nostra anima possiede due facoltà cognitive: una è l’atto di un organo corporeo, che permette di conoscere le cose esistenti nella materia individuale; questa facoltà conosce soltanto ciò che è particolare e concreto. Esiste però anche un’altra facoltà cognitiva, chiamata intelletto, che non dipende da alcun organo corporeo; l’intelletto permette di conoscere le essenze che esistono soltanto in materia individuale, non come tali nella materia stessa, ma nel modo in cui vengono astratte dall’esperienza percettiva. Per mezzo dell’intelletto possiamo quindi comprendere queste entità in termini universali, il che è al di là delle possibilità della percezione sensibile. L’intelletto angelico, invece, conosce naturalmente essenze che non appartengono alla materia; ma ciò è al di fuori delle capacità dell’intelletto umano nel suo stato attuale, legato com’è al corpo. Pertanto, conoscere l’essenza sostanziale di Dio è possibile soltanto all’intelletto divino; tale comprensione trascende le possibilità naturali di qualsiasi intelletto creato, poiché nessuna creatura possiede la propria esistenza in modo autonomo, ma riceve essa dalla creazione stessa. Di conseguenza, l’intelletto creato non può vedere l’essenza di Dio, a meno che Dio stesso, con la sua grazia, non si unisca a quell’intelletto, rendendola capace di comprenderlo.
+
+Risposta all’Obiezione 1: Questo modo di conoscere Dio è naturale per un angelo, ovvero conoscerlo attraverso la sua stessa immagine riflessa nell’angelo stesso. Tuttavia, conoscere Dio attraverso qualsiasi similitudine creata non significa conoscere l’essenza di Dio, come è stato dimostrato in precedenza (A[2]). Pertanto, non segue che un angelo possa conoscere l’essenza di Dio con le sue sole forze.
+
+Risposta all’Obiezione 2: L’intelligenza angelica non è difettosa, se per “difetto” si intende la privazione di qualcosa che dovrebbe possedere. Tuttavia, se il termine “difetto” viene inteso in senso negativo, allora ogni creatura è difettosa rispetto a Dio, poiché non possiede l’eccellenza che caratterizza Dio stesso.
+
+Risposta all’Obiezione 3: La vista, essendo interamente materiale, non può essere elevata al livello dell’immaterialità. Ma il nostro intelletto, o l’intelletto angelico, poiché è per sua natura superiore alla materia, può essere elevato al di sopra della propria natura grazie alla grazia divina. La prova sta nel fatto che la vista non può in alcun modo conoscere in modo astratto ciò che conosce in modo concreto; infatti non è in grado di percepire una natura se non come quella particolare natura concreta; mentre il nostro intelletto è in grado di considerare in modo astratto ciò che conosce concretamente. Ora, anche se l’intelletto conosce cose le cui forme risiedono nella materia, esso riesce comunque a separare tali entità nei loro elementi costitutivi e a considerare la forma stessa in modo separato. Allo stesso modo, anche l’intelletto angelico, sebbene conosca naturalmente ciò che è concreto in qualsiasi natura, è in grado di separare queste entità grazie alla propria capacità intellettiva; poiché sa che la cosa stessa è una realtà e la sua esistenza è un’altra. Pertanto, l’intelletto creato è naturalmente in grado di comprendere la forma concreta e l’esistenza concreta in modo astratto, attraverso una sorta di analisi delle loro componenti; ma grazie alla grazia divina può essere elevato al livello di comprendere sostanze e esistenze separate e distinte.
+
 <span class="atom-split" data-atom="061" data-title="Whether the created intellect needs any created light in order to see the essence of God?" data-chapter="Whether the created intellect needs any created light in order to see the essence of God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the created intellect does not need any created light in order to see
@@ -2922,6 +3826,24 @@ Reply to Objection 3: The disposition to the form of fire can be natural only to
 that form. Hence the light of glory cannot be natural to a creature unless the creature has a divine
 nature; which is impossible. But by this light the rational creature is made deiform, as is said in
 this article.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’intelligenza creata non abbia bisogno di alcuna luce creata per poter comprendere l’essenza di Dio. Infatti, ciò che è di per sé chiaro nelle cose sensibili non richiede alcun’altra luce per essere percepito; pertanto lo stesso vale anche per le cose intellegibili. Ora, Dio è una luce intellegibile; quindi non può essere compreso attraverso alcuna luce creata.
+
+Obiezione 2: Inoltre, se Dio viene visto attraverso un mezzo, non viene visto nella sua essenza. Ma se viene visto con qualsiasi luce creata, viene visto attraverso un mezzo; pertanto, non viene visto nella sua essenza.
+
+Obiezione 3: Inoltre, ciò che è stato creato può essere naturale per alcuna altra creatura. Pertanto, se l’essenza di Dio può essere compresa attraverso una qualche forma di luce creata, tale luce potrebbe diventare naturale anche per un’altra creatura; e quindi quella creatura non avrebbe bisogno di alcun’altra luce per comprendere l’essenza di Dio, il che è impossibile. Pertanto, non è necessario che ogni creatura abbia bisogno di una luce aggiuntiva per poter percepire l’essenza di Dio.
+
+Al contrario, è scritto: “Nella tua luce vedremo la luce” (Salmo 35:10).
+
+Rispondo che tutto ciò che viene elevato al di sopra della sua natura deve essere preparato da una disposizione superiore a tale natura; ad esempio, affinché l’aria possa assumere la forma del fuoco, è necessario che venga predisposta in modo da poter ricevere tale forma. Tuttavia, quando un’intelligenza creata contempla l’essenza di Dio, l’essenza stessa di Dio diventa la forma intelligibile per quell’intelligenza. Pertanto, è indispensabile che all’intelligenza venga conferita una disposizione soprannaturale affinché possa essere elevata a tale altezza grande e [sublime](/concepts/sublime). Poiché la forza naturale dell’intelligenza creata non le permette di comprendere l’essenza di Dio, come è stato dimostrato nell’articolo precedente, è necessario che questa capacità di comprensione venga donata per grazia divina. Questo potenziamento delle facoltà intellettive viene chiamato “illuminazione dell’intelligenza”; allo stesso modo, l’oggetto stesso della comprensione viene definito “luce di illuminazione”. Ed è proprio questa luce di cui si parla nell’Apocalisse (Apoc. 21:23): “La gloria di Dio l’ha illuminata” – cioè la comunità dei beati che vedono Dio. Con questa luce, i beati diventano “simili a Dio”, secondo quanto si dice nel Primo Vangelo di Giovanni (1 Gv. 2:2): “Quando Egli apparirà, noi saremo simili a Lui, perché lo vedremo come è”.
+
+Risposta all’Obiezione 1: La luce creata è necessaria per comprendere l’essenza di Dio, non affinché essa stessa diventi intelligibile – poiché in realtà lo è già – ma affinché l’intelletto possa comprenderla nello stesso modo in cui una [abitudine](/concepts/custom) rende un potere più capace di agire. Allo stesso modo, la luce corporea è necessaria per la vista esterna, poiché rende il mezzo visivo effettivamente trasparente e suscettibile dei colori.
+
+Risposta all’Obiezione 2: Questa luce è necessaria per comprendere l’essenza divina, non come una similitudine attraverso la quale Dio viene visto, ma come una perfezione dell’intelletto che lo rende capace di percepirlo. Pertanto si può affermare che questa luce debba essere descritta non come un mezzo attraverso il quale Dio viene visto, ma come ciò che permette di vederLo; e tale mezzo non toglie affatto la visione diretta di Dio.
+
+Risposta all’Obiezione 3: La disposizione alla forma del fuoco può essere naturale soltanto per il soggetto di quella forma. Pertanto, la luce della gloria non può essere naturale per una creatura a meno che essa non abbia una natura divina; il che è impossibile. Tuttavia, attraverso questa luce, la creatura razionale viene resa “divina”, come si afferma in questo articolo.
 
 <span class="atom-split" data-atom="062" data-title="Whether of those who see the essence of God, one sees more perfectly than another?" data-chapter="Whether of those who see the essence of God, one sees more perfectly than another?" data-kind="atom" data-srclang="en"></span>
 
@@ -2977,6 +3899,22 @@ Reply to Objection 3: The diversity of seeing will not arise on the part of the 
 the same object will be presented to all---viz. the essence of God; nor will it arise from the diverse
 participation of the object seen by different similitudes; but it will arise on the part of the diverse
 faculty of the intellect, not, indeed, the natural faculty, but the glorified faculty.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che, tra coloro che comprendono l’essenza di Dio, nessuno la percepisca in modo più perfetto di un altro. Infatti è scritto (1 Gv. 3:2): “Lo vedremo come Egli è”. Ma Dio esiste soltanto in un certo modo; pertanto tutti Lo vedranno nello stesso modo, e quindi nessuno Lo percepirà in modo più perfetto di un altro.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma nell’Octogastinum, Questioni terze, questione xxxii: “Una persona non può vedere la stessa cosa in modo più perfetto di un’altra”. Ma tutti coloro che vedono l’essenza di Dio comprendono davvero quell’essenza divina, poiché Dio viene percepito dall’intelletto e non dai sensi, come è stato dimostrato sopra (A[3]). Pertanto, tra coloro che vedono l’essenza divina, nessuno la vede in modo più chiaro di un altro.
+
+Obiezione 3: Inoltre, che qualcosa venga percepito in modo più perfetto rispetto ad altro può verificarsi in due modi: o a livello dell’oggetto visibile, o a livello della capacità percettiva di colui che lo osserva. Per quanto riguarda l’oggetto, ciò può accadere perché esso viene recepito in modo più perfetto dal soggetto percettore, cioè in base alla maggiore perfezione della somiglianza tra l’oggetto stesso e la capacità percettiva del soggetto; ma questo non si applica alla questione attuale, poiché Dio è presente all’intelletto umano non attraverso una qualche somiglianza, bensì nella Sua essenza stessa. Ne consegue quindi che, se qualcuno percepisce Dio in modo più perfetto di un altro, ciò avviene a causa delle differenze nella capacità intellettiva; e da questo si deduce anche che colui il cui potere intellettuale è più elevato lo percepirà in modo più chiaro. Il che, tuttavia, è contraddittorio: poiché agli uomini viene promessa l’uguaglianza con gli angeli come loro [beatitudine](/positions/beatitude).
+
+Al contrario, la vita eterna consiste nella visione di Dio, secondo Giovanni 17:3: “Questa è la vita eterna: conoscere Te, l’unico vero Dio”, ecc. Pertanto, se tutti vedessero ugualmente l’essenza di Dio nella vita eterna, tutti sarebbero uguali; il contrario di ciò viene affermato dall’Apostolo: “Una stella differisce dall’altra per gloria” (1 Corinzi 15:41).
+
+Rispondo che, tra coloro che vedono l’essenza di Dio, alcuni lo vedono in modo più perfetto di altri. Ciò non avviene perché uno possieda una rappresentazione più completa di Dio rispetto a un altro, poiché tale visione non deriva da alcuna somiglianza; bensì perché un’intelligenza possiede una capacità maggiore o una facoltà più efficace per comprendere Dio. Tuttavia, questa facoltà non appartiene naturalmente all’intelligenza creata, ma le viene concessa dalla luce della gloria, che eleva l’intelligenza a una sorta di “deiformità”, come si è detto nell’articolo precedente. Pertanto, l’intelligenza che possiede maggiormente la luce della gloria vedrà Dio in modo più perfetto; e colui che possiede maggiore carità parteciperà più pienamente a questa luce della gloria, poiché dove c’è maggiore carità c’è anche maggiore desiderio di conoscere Dio, e il desiderio, in una certa misura, rende colui che lo nutre idoneo ad accogliere l’oggetto del proprio anelito. Pertanto, chi possiede maggior carità vedrà Dio in modo più perfetto ed sarà più beato.
+
+Risposta all’Obiezione 1: Nelle parole “Lo vedremo così com’è”, la congiunzione “così com’è” determina il modo di percezione da parte dell’oggetto osservato; quindi il significato è che Lo vedremo esattamente come Egli è, poiché vedremo la Sua esistenza, che è la Sua essenza stessa. Tuttavia, questa congiunzione non determina il modo di percezione da parte di colui che osserva; non si intende certo che il modo in cui si percepisce Dio sia perfetto quanto lo è il modo stesso della Sua esistenza. Ecco quindi la risposta anche alla Seconda Obiezione: quando si afferma che un’intelligenza non comprende una stessa cosa meglio di un’altra, ciò sarebbe vero se si riferisse al modo in cui quella cosa viene compresa; infatti, chi la comprende diversamente da come realmente è, non la comprende affatto. Ma se ci si riferisce al modo stesso della comprensione, allora l’intelligenza di uno è certamente più perfetta di quella di un altro.
+
+Risposta all’Obiezione 3: La diversità nella percezione non deriverà dall’oggetto stesso che viene percepito, poiché lo stesso oggetto sarà presentato a tutti – cioè l’essenza di Dio; né deriverà dalla diversa partecipazione dell’oggetto alla percezione attraverso diverse similitudini. La diversità nella percezione deriverà invece dalle diverse facoltà intellettive, non certo dalla facoltà naturale, ma da quella glorificata.
 
 <span class="atom-split" data-atom="063" data-title="Whether those who see the essence of God comprehend Him?" data-chapter="Whether those who see the essence of God comprehend Him?" data-kind="atom" data-srclang="en"></span>
 
@@ -3054,6 +3992,24 @@ infinitely knowable; nevertheless, this infinite mode does not extend to enable 
 infinitely; thus, for instance, a person can have a probable opinion that a proposition is demonstrable,
 although he himself does not know it as demonstrated.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che coloro che percepiscono l’essenza divina comprendano veramente Dio. Infatti l’Apostolo dice (Filippesi 3:12): “Io però cerco di comprenderlo, se in qualche modo mi è possibile”. Ma l’Apostolo non cercava invano; egli stesso affermò (1 Corinzi 9:26): “Corro così, non con incertezza”. Pertanto, egli riuscì davvero a comprenderlo; allo stesso modo, anche altri, che egli esorta ad agire nello stesso modo, dicendo: “Correte affinché possiate comprendere”.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (De Vid. Deum, Ep. cxlvii): “Ciò che viene compreso è ciò che viene visto nel suo insieme, in modo che nulla di esso rimanga nascosto a chi lo osserva”. Ma se Dio viene visto nella sua essenza, allora viene visto nel suo insieme, e nulla di Lui rimane nascosto a chi Lo osserva, poiché Dio è semplice. Pertanto, chiunque veda la Sua essenza, Lo comprende interamente.
+
+Obiezione 3: Inoltre, se affermiamo che Dio venga considerato come un “tutto”, ma non “interamente”, si potrebbe obiettare che il termine “interamente” si riferisca o al modo di percepire da parte del soggetto che osserva, o al modo stesso della cosa osservata. Tuttavia, colui che percepisce l’essenza stessa di Dio lo vede interamente, sia nel caso in cui si consideri il modo di percezione del soggetto, sia nel caso in cui si consideri il modo della cosa stessa; poiché lo vede così com’è realmente. Pertanto, tutti coloro che percepiscono l’essenza di Dio lo vedono interamente e, di conseguenza, lo comprendono appieno.
+
+Al contrario, è scritto: “Oh Tu che sei il più potente e il più grande, Signore degli eserciti è il Tuo nome; grande nelle tue decisioni, incomprensibile nei tuoi pensieri” (Geremia 32:18,19). Pertanto, Egli non può essere compreso.
+
+Rispondo che è impossibile per qualsiasi intelletto creato comprendere Dio; tuttavia, “raggiungere Dio, anche solo in misura limitata, rappresenta una grande [beatitude](/positions/beatitude)”, come afferma Agostino (De Verb. Dim., Serm. xxxvii). A dimostrazione di ciò, dobbiamo considerare che ciò che viene compreso è perfettamente conosciuto; e ciò che è perfettamente conosciuto è ciò che viene inteso nella misura in cui può essere realmente compreso. Pertanto, se qualcosa che può essere dimostrato scientificamente viene accettato soltanto come un’opinione basata su prove probabili, allora non viene veramente compreso; ad esempio, se qualcuno sa per via di dimostrazioni scientifiche che un triangolo ha tre angoli uguali a due angoli retti, allora comprende davvero questa verità; al contrario, se qualcuno la accetta soltanto perché gli saggi o la maggior parte delle persone la insegnano, non si può dire che comprenda effettivamente quella realtà, poiché non raggiunge quel livello perfetto di conoscenza di cui è intrinsecamente capace. Ma nessun intelletto creato può raggiungere quel livello perfetto di conoscenza del Divino, di cui è comunque dotato in modo intrinseco. Quindi si può concludere che tutto è conoscibile in base alla sua [realtà](/concepts/act_potency); ma Dio, la cui essenza è infinita, come è stato dimostrato in precedenza (Q[7]), è infinitamente conoscibile. Ora, nessun intelletto creato può conoscere Dio in modo infinito; infatti, l’intelletto creato conosce l’essenza divina in misura maggiore o minore, in proporzione alla luce di gloria che riceve. Poiché la luce di gloria ricevuta da un intelletto creato non può essere infinita, è chiaramente impossibile per qualsiasi intelletto creato conoscere Dio in modo assoluto e completo. Pertanto, è anche impossibile che possa comprenderlo veramente.
+
+Risposta all’Obiezione 1: “Comprendere” ha due significati diversi. In un senso, il termine viene inteso in modo stretto e appropriato, quando qualcosa viene effettivamente incluso nell’entità che comprende; in questo caso, Dio non può essere compreso né dall’intelletto né in alcun altro modo, poiché è infinito e non può essere contenuto in alcuna entità finita. Nessuna entità finita, quindi, può possederlo in modo infinito, nel grado della sua stessa [infinità](/concepts/infinity). In questo senso, intendiamo il concetto di “comprendere”. Ma in un altro senso, il termine viene inteso in modo più ampio, come opposto a “non raggiungibilità”: colui che riesce a raggiungere qualcuno si dice che lo comprenda, nel momento stesso in cui lo raggiunge. In questo senso, Dio è compreso dai beati, secondo le parole: “Lo tengo e non lo lascerò andare” (Salmo 3:4); in questo stesso senso vanno intese anche le parole citate dall’Apostolo riguardo al concetto di comprendere. In questo modo, “comprendere” rappresenta una delle tre prerogative dell’anima: così come la visione corrisponde alla fede e la realizzazione corrisponde all’amore, anche il comprendere è legato alle aspirazioni umane. Infatti, nemmeno tra di noi tutto ciò che vediamo viene effettivamente posseduto o sperimentato; alcune cose appaiono lontane, altre non sono al nostro raggiungimento. Inoltre, non godiamo sempre di ciò che possediamo: a volte non ne traiamo piacere, altre volte tali cose non rappresentano il fine ultimo dei nostri desideri. Ma i beati possiedono queste tre cose in Dio: lo vedono e, vedendolo, lo possiedono come presente, avendo la capacità di contemplarlo sempre; possedendolo, lo godono come realizzazione definitiva dei loro desideri.
+
+Risposta all’Obiezione 2: Dio viene definito incomprensibile non perché alcuna sua caratteristica non venga percepita, ma perché non viene visto nella maniera perfetta in cui potrebbe essere visto; pertanto, quando una proposizione dimostrabile è conosciuta soltanto attraverso ragionamenti probabili, ciò non significa che alcuna sua parte – né il soggetto, né il predicato, né la struttura complessiva della proposizione – sia sconosciuta; significa semplicemente che essa non viene conosciuta nella maniera perfetta in cui potrebbe essere conosciuta. Ecco perché Agostino, nella sua definizione di “comprensione”, afferma che qualcosa è completamente compreso quando viene visto in modo tale che nulla di esso rimanga nascosto alla mente che lo osserva, o quando i suoi confini possono essere completamente individuati e delineati; infatti, si dice che i confini di una cosa siano completamente conosciuti quando si raggiunge la fine della conoscenza stessa di essa.
+
+Risposta all’Obiezione 3: La parola “interamente” indica un certo modo dell’oggetto; non significa che l’intero oggetto non entri nel campo della conoscenza, ma che il modo in cui tale oggetto si presenta non corrisponda al modo con cui lo conosce colui che lo osserva. Pertanto, chi vede l’essenza di Dio ne percepisce che Egli esiste in modo infinito e sia infinitamente conoscibile; tuttavia, questo modo infinito non permette al conoscitore di comprendere tutto ciò che riguarda Dio in modo completo e totale. Ad esempio, una persona può avere l’opinione che una determinata proposizione sia dimostrabile, anche se lei stessa non la conosce nella sua forma dimostrativa.
+
 <span class="atom-split" data-atom="064" data-title="Whether those who see the essence of God see all in God?" data-chapter="Whether those who see the essence of God see all in God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that those who see the essence of God see all things in God. For Gregory
@@ -3114,6 +4070,28 @@ the man who knoweth all these" (i.e. all creatures) "and knoweth not Thee! but h
 knoweth Thee although he know not these. And whoso knoweth both Thee and them is not the
 happier for them, but for Thee alone."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che coloro che comprendono l’essenza di Dio vedano tutte le cose in Dio stesso. Infatti Gregorio afferma nel “Dialogo IV”: “Cosa non possono vedere coloro che Lo vedono, Lui che vede tutte le cose?” Ma Dio vede tutte le cose; pertanto coloro che vedono Dio vedono anche tutte le cose.
+
+Obiezione 2: Inoltre, chiunque guardi uno specchio vede ciò che vi è riflesso. Ma tutte le cose reali o possibili risplendono in Dio come in uno specchio; poiché Lui conosce tutte le cose in Sé stesso. Pertanto, chiunque veda Dio vede in Lui tutte le cose reali, nonché tutte le cose possibili.
+
+Obiezione 3: Inoltre, chiunque comprenda la realtà più elevata può anche comprendere quella più semplice, come si afferma nel De [Anima](/concepts/soul) iii. Tuttavia, tutto ciò che Dio fa o può fare è inferiore alla Sua essenza stessa. Pertanto, chiunque comprenda Dio può comprendere anche tutto ciò che Egli fa o può fare.
+
+Obiezione 4: Inoltre, la creatura razionale desidera naturalmente conoscere tutte le cose. Pertanto, se nel vedere Dio non conosce tutte le cose, il suo desiderio naturale non verrà soddisfatto; quindi, nel vedere Dio, non sarà completamente felice, il che è contraddittorio. Pertanto, colui che vede Dio conosce tutte le cose.
+
+Al contrario, gli angeli vedono l’essenza di Dio; eppure non conoscono tutte le cose. Poiché, come afferma Dionigi (Coel. Hier. vii), “gli angeli inferiori vengono purificati dall’ignoranza dagli angeli superiori”. Inoltre, essi ignorano le cose future contingenti e i pensieri segreti; poiché tale conoscenza appartiene esclusivamente a Dio. Pertanto, chiunque veda l’essenza di Dio non conosce tutte le cose.
+
+Rispondo che l’intelligenza creata, nel contemplare l’essenza divina, non vi scorge tutto ciò che Dio fa o può fare. È infatti evidente che le cose vengono percepite in Dio così come sono realmente; tuttavia tutte le altre cose esistono in Dio soltanto come effetti della loro causa. Pertanto, tutte le cose vengono contemplate in Dio nello stesso modo in cui un effetto viene visto nella sua causa. Ora è chiaro che più perfettamente una causa viene compresa, maggior parte dei suoi effetti può essere riconosciuta in essa; chi possiede infatti una comprensione profonda, non appena gli viene presentato un principio dimostrativo, è in grado di ricavare la conoscenza di molte conclusioni; ciò, invece, è al di fuori delle possibilità di un’intelligenza più debole, che ha bisogno che le cose le vengano spiegate separatamente. Un’intelligenza, quindi, può conoscere tutti gli effetti di una causa e le ragioni di tali effetti nella stessa causa, purché la comprenda completamente; ma nessuna intelligenza creata può comprendere Dio nel suo insieme, come è stato dimostrato sopra (A[7]). Pertanto, nessuna intelligenza creata, nel contemplare Dio, può conoscere tutto ciò che Dio fa o può fare; tale comprensione significherebbe infatti comprendere la sua potenza. Tuttavia, di quanto Dio fa o può fare, un’intelligenza può conoscere di più, tanto più perfettamente riesce a comprenderlo.
+
+Risposta all’Obiezione 1: Gregorio parla nel contesto in cui l’oggetto di considerazione è sufficiente, ovvero Dio, che in Sé contiene e manifesta pienamente tutte le cose; tuttavia, ciò non significa che chiunque veda Dio conosca necessariamente tutte le cose, poiché non lo comprende perfettamente.
+
+Risposta all’Obiezione 2: Non è necessario che chiunque guardi uno specchio possa vedere tutto ciò che si trova al suo interno, a meno che il suo sguardo non includa lo stesso specchio nel proprio campo visivo.
+
+Risposta all’Obiezione 3: Sebbene sia più importante vedere Dio che vedere tutte le altre cose, è ancora più grande riuscire a vederLo in modo tale che tutte le cose possano essere conosciute attraverso Lui, piuttosto che vederLo in modo che non tutte le cose, ma soltanto alcune di esse, possano essere conosciute attraverso Lui. Infatti, come dimostrato in questo articolo, più cose sono conosciute in Dio, quanto più perfettamente Egli viene percepito.
+
+Risposta all’Obiezione 4: Il desiderio naturale della creatura razionale è conoscere tutto ciò che contribuisce alla perfezione dell’intelletto, cioè le specie e i generi delle cose nonché i loro tipi; queste informazioni, chiunque contempli l’essenza divina le troverà in Dio stesso. Tuttavia, conoscere altri individui specifici, i loro pensieri e le loro azioni non rientra nella perfezione dell’intelletto creato, né il suo desiderio naturale si estende a tali cose; inoltre, l’intelletto non desidera conoscere ciò che ancora non esiste, ma che Dio può far sorgere. Eppure, se venisse contemplato soltanto Dio – fonte e principio di ogni essere e di toda verità – il desiderio naturale di conoscenza verrebbe così appagato da rendere inutile qualsiasi altra ricerca; colui che Lo conoscesse sarebbe completamente beato. Per questo motivo, l’[Agostino](/figures/augustine) afferma nel “Confessione” (V): “Infelice colui che conosce tutte queste cose (cioè tutte le creature) e non Te conosce; felice invece chi Ti conosce, anche se non conosce queste altre. E chi conosce sia Te che loro non è più felice per loro, ma soltanto per Te”.
+
 <span class="atom-split" data-atom="065" data-title="Whether what is seen in God by those who see the Divine essence, is seen through any similitude?" data-chapter="Whether what is seen in God by those who see the Divine essence, is seen through any similitude?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that what is seen in God by those who see the Divine essence, is seen
@@ -3163,6 +4141,20 @@ in the divine essence, which remained in Paul even when he had ceased to see the
 Still this kind of vision whereby things are seen by this likeness thus conceived, is not the same as
 that whereby things are seen in God.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che ciò che viene percepito da coloro che contemplano l’essenza divina avvenga attraverso qualche forma di somiglianza. Infatti, ogni tipo di conoscenza si realizza quando colui che conosce si assimila all’oggetto conosciuto. In questo modo, l’intelletto, nell’atto di comprendere, diventa ciò che viene compreso; allo stesso modo, il senso, nell’atto di percepire, diventa ciò che viene percepito, poiché viene informato da una sorta di somiglianza con l’oggetto percepito, proprio come l’occhio viene informato dalla somiglianza del colore. Pertanto, se l’intelletto di colui che contempla l’essenza divina comprende alcune creature presenti in Dio, deve necessariamente essere informato dalle loro somiglianze.
+
+Obiezione 2: Inoltre, ciò che abbiamo visto lo conserviamo nella memoria. Ma Paolo, avendo contemplato l’essenza di Dio nell’estasi e cessato di vedere quell’essenza divina, come afferma [Agostino](/figures/augustine) (Genesi ad litteram ii, 28,34), ricordò molte delle cose che aveva visto in quella visione; per questo disse: “Ho udito parole segrete che non è concesso all’uomo pronunciare” (2 Corinzi 12:4). Pertanto, si deve riconoscere che alcune immagini o concetti legati a ciò che ricordava rimasero nella sua mente; e allo stesso modo, quando vide effettivamente l’essenza di Dio, possedeva già alcune rappresentazioni mentali di ciò che aveva osservato in essa.
+
+Al contrario, uno specchio e ciò che vi è riflesso vengono visti attraverso una certa somiglianza. Tuttavia, tutte le cose sono viste in Dio come in uno specchio intelligibile. Pertanto, se Dio stesso non viene visto attraverso alcuna somiglianza, ma soltanto attraverso la Sua stessa essenza, ne consegue che nemmeno le cose che vi sono riflesse in Lui possono essere viste attraverso alcune somiglianze o idee.
+
+Rispondo che coloro che vedono l’essenza divina vedono ciò che vedono in Dio non attraverso alcuna somiglianza, ma direttamente attraverso l’essenza divina stessa unita al loro intelletto. Infatti, ogni cosa viene conosciuta nella misura in cui la sua somiglianza risiede nell’individuo che la conosce. Ciò avviene in due modi: da un lato, la facoltà cognitiva può essere assimilata a qualsiasi oggetto conoscibile attraverso l’oggetto stesso, quando viene direttamente informata da una somiglianza; in questo caso, la conoscenza riguarda l’oggetto nella sua essenza. Dall’altro lato, la facoltà cognitiva può essere assimilata attraverso una somiglianza che ricorda l’oggetto; in questo caso, la conoscenza riguarda l’oggetto nella sua rappresentazione mentale. Tuttavia, questa seconda forma di conoscenza non riguarda l’oggetto nella sua realtà intrinseca, ma soltanto la sua immagine nell’intelletto dell’uomo. La conoscenza di un uomo in sé stesso, infatti, è diversa dalla conoscenza della sua immagine in Dio. Pertanto, conoscere le cose attraverso la loro somiglianza nell’individuo che le conosce significa conoscerle nella loro essenza o nella loro natura intrinseca; mentre conoscerle attraverso le somiglianze preesistenti in Dio significa vederle direttamente in Dio stesso. Esistono quindi differenze tra queste due forme di conoscenza. Secondo la seconda, le cose vengono percepite in Dio non attraverso altre somiglianze, ma unicamente attraverso l’essenza divina stessa presente nell’intelletto; ed è proprio attraverso questa essenza che anche Dio stesso viene conosciuto.
+
+Risposta all’Obiezione 1: L’intelligenza creata da colui che vede Dio viene assorbita da ciò che viene visto in Dio, nella misura in cui è unita all’essenza divina, nella quale le somiglianze di tutte le cose preesistono.
+
+Risposta all’Obiezione 2: Alcune delle facoltà cognitive, a partire da quelle immagini primarie concepite, ne formano altre; così l’immaginazione, partendo dalle immagini preconcepite di una montagna e dell’oro, può creare l’idea di una montagna d’oro; l’intelletto, invece, a partire dalle idee preconcepite di genere e differenza, forma l’idea di specie. Allo stesso modo, dalla somiglianza di un’immagine possiamo formare nella nostra mente la rappresentazione dell’originale di quell’immagine. Pertanto, Paolo, o qualsiasi altra persona che veda Dio, attraverso la stessa visione dell’essenza divina, può formare in sé stesso le rappresentazioni di ciò che è visto nell’essenza divina; tali rappresentazioni rimangono in lui anche quando ha smesso di vedere l’essenza stessa di Dio. Tuttavia, questo tipo di visione, attraverso la quale le cose vengono percepite attraverso tali rappresentazioni concepite, non è lo stesso di quello attraverso il quale le cose vengono realmente viste in Dio.
+
 <span class="atom-split" data-atom="066" data-title="Whether those who see the essence of God see all they see in it at the same time?" data-chapter="Whether those who see the essence of God see all they see in it at the same time?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that those who see the essence of God do not see all they see in Him at
@@ -3197,6 +4189,20 @@ Reply to Objection 2: As regards their natural knowledge, whereby they know thin
 ideas given them, the angels do not know all things simultaneously, and thus they are moved in the
 act of understanding according to time; but as regards what they see in God, they see all at the same
 time.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che coloro che percepiscono l’essenza di Dio non riescano a vedere contemporaneamente tutto ciò che vi è in Lui. Infatti, secondo il Filosofo (Topicus ii): “Può accadere che molte cose siano conosciute, ma solo una venga veramente compresa”. Tuttavia, ciò che viene percepito in Dio viene effettivamente compreso; poiché Dio è oggetto della percezione intellettuale. Pertanto, coloro che vedono Dio non riescono a vedere tutto ciò che vi è in Lui nello stesso istante.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (Genesi ad litteram viii, 22,23): “Dio muove le creature spirituali secondo il tempo”, cioè attraverso l’intelligenza e l’affetto. Ma la creatura spirituale è l’angelo che vede Dio. Pertanto, coloro che vedono Dio comprendono e sono influenzati in modo successivo; poiché il tempo indica appunto una sequenza temporale.
+
+Al contrario, Agostino afferma (De Trinitate, xvi): “I nostri pensieri non saranno instabili, andando avanti e indietro da un’idea all’altra; ma vedremo tutto ciò che sappiamo in un solo istante.”
+
+Rispondo che ciò che viene visto nella Parola non viene percepito in modo sequenziale, ma contemporaneamente. A dimostrazione di ciò, nemmeno noi possiamo conoscere molte cose tutte insieme, poiché comprendiamo tali cose attraverso molteplici idee. Tuttavia, il nostro intelletto non può essere effettivamente informato da molteplici idee diverse nello stesso momento, in modo da comprenderle; così come un unico corpo non può assumere contemporaneamente diverse forme. Pertanto, quando molte cose possono essere comprese attraverso un’unica idea, esse vengono percepite simultaneamente; al contrario, le parti di un tutto vengono comprese in modo sequenziale, e non tutte insieme, se ciascuna viene intesa attraverso la propria idea specifica; mentre se tutte vengono comprese attraverso l’unica idea del tutto, allora vengono percepite contemporaneamente. Come è stato dimostrato in precedenza, le cose che vengono viste in Dio non vengono percepite singolarmente attraverso la loro propria somiglianza; ma tutte vengono percepite attraverso l’unica essenza di Dio. Pertanto, esse vengono viste simultaneamente, e non sequenzialmente.
+
+Risposta all’Obiezione 1: Capiamo una cosa solo quando la comprendiamo attraverso un’unica idea; tuttavia, molte cose comprese attraverso un’unica idea vengono percepite contemporaneamente. Ad esempio, nell’idea di “uomo” comprendiamo sia il concetto di “animale” che quello di “razionale”; e nell’idea di “casa” comprendiamo al contempo i concetti di “muro” e “tetto”.
+
+Risposta all’Obiezione 2: Per quanto riguarda la loro conoscenza naturale, attraverso cui comprendono le cose grazie a diverse idee che ricevono, gli angeli non conoscono tutte le cose contemporaneamente; pertanto, nel processo di comprensione, sono influenzati dal tempo. Tuttavia, per quanto riguarda ciò che vedono in Dio, lo percepiscono tutto nello stesso istante.
 
 <span class="atom-split" data-atom="067" data-title="Whether anyone in this life can see the essence of God?" data-chapter="Whether anyone in this life can see the essence of God?" data-kind="atom" data-srclang="en"></span>
 
@@ -3265,6 +4271,28 @@ Reply to Objection 4: Intellectual vision is of the things which are in the soul
 as intelligible things are in the intellect. And thus God is in the souls of the blessed; not thus is He
 in our soul, but by presence, essence and power.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che in questa vita si possa vedere l’essenza divina. Infatti Giacobbe disse: “Ho visto Dio faccia a faccia” (Genesi 32:30). Ma vederLo faccia a faccia significa vedere la Sua essenza, come emerge dalle parole: “Ora lo vediamo in uno specchio e in modo oscuro; ma allora lo vedremo faccia a faccia” (1 Corinzi 13:12).
+
+Obiezione 2: Inoltre, il Signore disse a Mosè: “Io gli parlo faccia a faccia, chiaramente; egli non vede il Signore attraverso enigmi o simboli” (Numeri 12:8); ma ciò significa vedere Dio nella Sua essenza. Pertanto, è possibile vedere l’essenza di Dio in questa vita.
+
+Obiezione 3: Inoltre, ciò che ci permette di conoscere tutte le altre cose e di giudicarle è esso stesso noto a noi. Ma già ora conosciamo tutte le cose in Dio; infatti [Agostino](/figures/augustine) dice (Confessioni, VIII): “Se entrambi riconosciamo che ciò che dici tu è vero, e che ciò che dico io è vero, dove allora lo vediamo? Né io in te, né tu in me; ma entrambi nella verità stessa, immutabile e al di sopra della nostra mente”. Aggiunge anche (De vera religione, xxx) che “giudichiamo tutte le cose in base alla verità divina”; e (De Trinitate, xii) che “è dovere della ragione giudicare queste cose corporee in base alle idee incorporee ed eterne; tali idee, se non fossero al di sopra della mente umana, non potrebbero essere considerate immutabili”. Pertanto, anche in questa vita vediamo Dio stesso.
+
+Obiezione 4: Inoltre, secondo Agostino (Genesi ad litteram XII, 24, 25), quelle cose che si trovano nell’anima per loro essenza vengono percepite attraverso la visione intellettuale. Ma la visione intellettuale riguarda cose intelligibili, non attraverso similitudini, ma direttamente attraverso le loro essenze stesse, come egli stesso afferma (Genesi ad litteram XIII, 24, 25). Pertanto, poiché Dio è nella nostra anima per la sua essenza, ne consegue che Egli viene percepito da noi nella Sua essenza stessa.
+
+Al contrario, è scritto: “L’uomo non mi potrà vedere e vivere” (Esodo 32:20), e un commento su questo testo afferma: “In questa vita mortale Dio può essere visto attraverso determinate immagini, ma non attraverso l’aspetto stesso della Sua natura”.
+
+Rispondo che Dio non può essere compreso nella Sua essenza da un semplice essere umano, a meno che quest’ultimo non si distacchi da questa vita mortale. Il motivo è che, come già detto in precedenza (A[4]), il modo di conoscere segue necessariamente la natura del conoscitore stesso. Ma la nostra anima, finché vive in questo corpo, ha la sua esistenza nella materia corporea; pertanto conosce naturalmente soltanto ciò che ha una forma materiale, o ciò che può essere compreso attraverso tale forma. Ora è evidente che l’essenza divina non può essere conosciuta attraverso la natura delle cose materiali. Infatti, come dimostrato in precedenza (AA[2],9), la conoscenza di Dio attraverso qualsiasi similitudine creata non costituisce una visione della Sua essenza stessa. Pertanto è impossibile che l’anima umana, in questa vita mortale, possa comprendere l’essenza divina. Ciò si evince anche dal fatto che, quanto più la nostra anima si distacca dalle cose corporee, tanto più è in grado di recepire concetti astratti e intellegibili; per questo motivo, nei sogni o durante le alterazioni delle facoltà sensoriali fisiche, rivelazioni divine e previsioni riguardo agli eventi futuri vengono percepite con maggiore chiarezza. Non è quindi possibile che l’anima, in questa vita mortale, raggiunga il vertice degli oggetti intellegibili, ovvero l’essenza divina stessa.
+
+Risposta all’Obiezione 1: Secondo Dionigi di Alessandria (Coel. Hier. iv), nelle Scritture si dice che un uomo “veda Dio” nel senso che determinate immagini vengono formate nei sensi o nell’immaginazione, in base a qualche similitudine che rappresenta in parte la divinità. Quindi, quando Giacobbe afferma: “Ho visto Dio faccia a faccia”, ciò non si riferisce all’essenza divina stessa, ma a un’immagine che la rappresenta. Si tratta di un esempio di alto livello di profezia: sembra che Dio parli, anche se attraverso una visione immaginaria; come verrà spiegato in seguito (SS, Q[174]) nel trattare dei diversi gradi della profezia. Si può anche dire che Giacobbe abbia espresso ciò per indicare un tipo di contemplazione intellettuale elevata, al di sopra dello stato ordinario umano.
+
+Risposta all’Obiezione 2: Proprio come Dio compie miracoli nelle cose corporee, così opera anche meraviglie sovrannaturali che trascendono l’ordine comune, elevando la mente di alcuni esseri viventi al di là dell’uso dei sensi, fino alla visione stessa della Sua essenza; come afferma Agostino (Genesi ad litteram XII, 26, 27, 28) riguardo a Mosè, maestro degli Ebrei, e a Paolo, maestro dei Gentili. Questo argomento verrà trattato più ampiamente nella questione del rapimento mistico (SS, Q[175]).
+
+Risposta all’Obiezione 3: Si dice che tutte le cose siano viste in Dio e giudicate da Lui, perché attraverso la partecipazione alla Sua luce conosciamo e giudichiamo tutte le cose; infatti, anche la luce della ragione naturale è una manifestazione della luce divina. Allo stesso modo, si dice che vediamo e giudichiamo le cose sensibili attraverso la luce del sole. Per questo motivo Agostino afferma (Soliloqui i, 8): “Gli insegnamenti possono essere compresi soltanto attraverso la loro propria ‘luce’, ovvero Dio”. Così come non è necessario vedere la sostanza del sole per percepire un oggetto sensibile, allo stesso modo non è necessario conoscere l’essenza di Dio per comprendere qualsiasi cosa intelligibile.
+
+Risposta all’Obiezione 4: La visione intellettuale riguarda le cose che si trovano nell’anima per essenza loro stessa, così come le cose intelligibili esistono nell’intelletto. E pertanto Dio è nelle anime dei beati; non tuttavia è presente nella nostra anima nello stesso modo, ma attraverso la sua presenza, la sua essenza e il suo potere.
+
 <span class="atom-split" data-atom="068" data-title="Whether God can be known in this life by natural reason?" data-chapter="Whether God can be known in this life by natural reason?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that by natural reason we cannot know God in this life. For Boethius
@@ -3305,6 +4333,24 @@ good; but the knowledge of Him by natural reason can belong to both good and bad
 Augustine says (Retract. i), retracting what he had said before: "I do not approve what I said in
 prayer, 'God who willest that only the pure should know truth.' For it can be answered that many
 who are not pure can know many truths," i.e. by natural reason.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che con la ragione naturale non possiamo conoscere Dio in questa vita. Poiché Boezio afferma nel “De Consolatione” (v) che “la ragione non è in grado di comprendere le forme semplici”. Ma Dio è una forma estremamente semplice, come è stato dimostrato sopra (Q[3], A[7]). Pertanto, la ragione naturale non può giungere a conoscerlo.
+
+Obiezione 2: Inoltre, l’anima non può comprendere nulla attraverso la ragione naturale senza l’uso dell’immaginazione. Ma non possiamo formarci un’immagine di Dio, che è incorporeo. Pertanto, non possiamo conoscere Dio attraverso la conoscenza naturale.
+
+Obiezione 3: Inoltre, la conoscenza derivante dalla ragione naturale appartiene sia al bene che al male, poiché entrambi condividono una stessa natura. Ma la conoscenza di Dio appartiene esclusivamente al bene; infatti, [Agostino](/figures/augustine) afferma nel “De Trinitate” i: “L’debole intelletto umano non può fissarsi su quella luce eccellente se non viene purificato dalla giustizia della fede”. Pertanto, Dio non può essere conosciuto attraverso la ragione naturale.
+
+Al contrario, è scritto (Roma 1:19): “Quello che si conosce di Dio”, cioè ciò che può essere conosciuto di Dio attraverso la ragione naturale, “è manifesto in loro”.
+
+Rispondo che la nostra conoscenza naturale ha origine dai sensi. Pertanto, essa può estendersi fino al punto in cui le cose percepite attraverso i sensi possano guidarla. Tuttavia, la nostra mente non può essere guidata dai sensi a tal punto da comprendere l’essenza di Dio; infatti gli effetti sensibili di Dio non equivalgono alla sua potenza come loro causa. Di conseguenza, dalla conoscenza delle cose sensibili non è possibile comprendere tutta la potenza di Dio, né tantomeno la sua essenza. Tuttavia, poiché tali effetti sono suoi e dipendono da lui come causa, possiamo dedurne che Dio esista, e conoscere ciò che necessariamente deve appartenergli in quanto prima causa di tutte le cose, superiore a ogni cosa da lui creata. Da questo si evince che la sua relazione con le creature consiste nel fatto che egli ne è la causa; inoltre, le creature differiscono da Lui perché Egli non è in alcun modo parte di ciò che è stato da Lui creato; e infine, le creature non sono separate da Lui a causa di alcuna imperfezione da Lui derivante, ma perché Egli le supera tutte.
+
+Risposta all’Obiezione 1: La ragione non può raggiungere la semplice forma per conoscere “cos’è”; ma può conoscere “se essa esiste”.
+
+Risposta all’Obiezione 2: Dio è conosciuto attraverso la conoscenza naturale, grazie alle immagini dei suoi effetti.
+
+Risposta all’Obiezione 3: Poiché la conoscenza dell’essenza di Dio è donata per grazia, essa appartiene esclusivamente ai buoni; ma la conoscenza di Lui attraverso la ragione naturale può appartenere sia ai buoni che ai cattivi. Ecco perché Agostino, nel “Retractato” I, ritratta quanto aveva detto in precedenza: “Non approvo ciò che ho detto nella preghiera: ‘Dio, tu vuoi che solo i puri conoscano la verità’. Poiché si può ribattere che molte persone non pure possono conoscere molte verità, cioè attraverso la ragione naturale”.
 
 <span class="atom-split" data-atom="069" data-title="Whether by grace a higher knowledge of God can be obtained than by natural reason?" data-chapter="Whether by grace a higher knowledge of God can be obtained than by natural reason?" data-kind="atom" data-srclang="en"></span>
 
@@ -3358,6 +4404,24 @@ vision of the believer, but from the vision of Him who is believed. Thus as far 
 of vision, it falls short of the knowledge which belongs to science, for science determines the
 intellect to one object by the vision and understanding of first principles.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che, per grazia, non si possa ottenere una conoscenza di Dio più profonda di quella che deriva dalla ragione naturale. Infatti Dionigi afferma (De Mystica Theol., i) che chiunque sia maggiormente unito a Dio in questa vita lo è come se fosse completamente sconosciuto; lo stesso vale per Mosè, il quale tuttavia ottenne una certa eccellenza grazie alla conoscenza conferitagli dalla grazia divina. Tuttavia, essere uniti a Dio ignorando “ciò che Egli è” può avvenire anche attraverso la ragione naturale. Pertanto, Dio non ci è conosciuto meglio per grazia che per mezzo della ragione naturale.
+
+Obiezione 2: Inoltre, la conoscenza delle cose divine può essere acquisita esclusivamente attraverso la ragione naturale e l’immaginazione; lo stesso vale per la conoscenza donata dalla grazia divina. Infatti Dionigi afferma (Coel. Hier. i) che “è impossibile che il raggio divino illumini noi direttamente, se non attraverso le molteplici e colorate veli sacri che lo circondano”. Pertanto, non possiamo conoscere Dio in modo più completo grazie alla grazia divina rispetto a quanto possiamo fare attraverso la ragione naturale.
+
+Obiezione 3: Inoltre, il nostro intelletto si attacca a Dio per grazia della fede. Ma la fede non sembra essere conoscenza; infatti Gregorio afferma (Hom. xxvi in Ev.) che “le cose invisibili sono oggetto di fede, e non di conoscenza”. Pertanto, per grazia della fede non ci viene data una conoscenza più eccellente di Dio.
+
+Al contrario, l’Apostolo afferma che “Dio ci ha rivelato il Suo spirito”, qualcosa che “nessuno dei principi di questo mondo conosceva” (1 Corinzi 2:10), ovvero i filosofi, come spiega la glossa.
+
+Rispondo che abbiamo una conoscenza di Dio più perfetta per grazia che per ragione naturale. Ciò si dimostra nel seguente modo: la conoscenza che possediamo attraverso la ragione naturale comprende due elementi: immagini derivate dagli oggetti sensibili, e quella luce intelligibile naturale che ci permette di trarne concetti comprensibili. In entrambi questi casi, la conoscenza umana riceve il sostegno della [rivelazione](/concepts/revelation) divina. Infatti, la luce naturale dell’intelletto viene rafforzata dall’infusione di una luce gratuita; inoltre, a volte le immagini presenti nell’immaginazione umana sono formate in modo divino, al fine di esprimere concetti divini in modo più efficace rispetto a quelli che derivano dagli oggetti sensibili, come avviene nelle visioni profetiche. Altre volte, anche gli oggetti sensibili o persino le voci sono utilizzati da Dio per trasmettere significati divini; ad esempio, durante il Battesimo, lo Spirito Santo fu visto sotto forma di colomba e si udì la voce del Padre che diceva: “Questo è il mio Figlio amato” (Matteo 3:17).
+
+Risposta all’Obiezione 1: Sebbene, attraverso la rivelazione della grazia in questa vita, non possiamo conoscere “cosa sia” Dio e quindi ci uniamo a Lui come a qualcosa di sconosciuto, tuttavia Lo conosciamo più pienamente man mano che sempre più effetti suoi eccellenti ci vengono rivelati, e man mano che attribuiamo a Lui alcune verità conosciute attraverso la rivelazione divina, alle quali la ragione naturale non può giungere; ad esempio, il fatto che Dio sia Tre e Uno.
+
+Risposta all’Obiezione 2: Attraverso le immagini che vengono percepite dai sensi nel corso naturale, o che sono formate divinamente nell’immaginazione, possediamo una conoscenza intellettuale ancora più eccellente; tanto più intensa è infatti la luce intellegibile presente nell’uomo. Ed è proprio attraverso queste immagini, e grazie alla rivelazione che esse portano con sé, che si riceve una conoscenza più completa, dovuta all’influsso della luce divina.
+
+Risposta all’Obiezione 3: La fede è un tipo di conoscenza, in quanto l’intelletto viene determinato dalla fede verso un certo oggetto conoscibile. Tuttavia, questa determinazione verso un certo oggetto non deriva dalla visione del credente, ma da quella di Colui in cui si crede. Pertanto, nella misura in cui la fede è inferiore alla visione, essa è anche inferiore alla conoscenza propria della scienza, poiché la scienza determina l’intelletto verso un certo oggetto attraverso la visione e la comprensione dei principi primi.
+
 <span class="atom-split" data-atom="070" data-title="THE NAMES OF GOD (TWELVE ARTICLES)" data-chapter="THE NAMES OF GOD (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After the consideration of those things which belong to the divine knowledge, we now proceed
@@ -3378,6 +4442,23 @@ metaphorically?
 and by opinion?
 (11) Whether this name, "Who is," is the supremely appropriate name of God?
 (12) Whether affirmative propositions can be formed about God?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo aver considerato quelle cose che appartengono alla conoscenza divina, passiamo ora all’esame dei [nomi](/positions/nominalism) divini. Poiché tutto viene denominato da noi in base alla nostra conoscenza di esso.  
+In questo ambito vi sono dodici punti da esaminare:  
+(1) Possiamo davvero chiamare Dio con nomi specifici?  
+(2) Alcuni dei [nomi](/concepts/analogy_of_being) attribuiti a Dio vengono applicati a Lui in senso sostanziale?  
+(3) Questi nomi vanno intesi letteralmente, o devono essere considerati metaforici?  
+(4] Sono questi nomi sinonimi tra loro?  
+(5) Alcuni di questi nomi si riferiscono a Dio e alle creature in modo univoco o equivoco?  
+(6) Se vengono usati in senso analogico, si applicano prima a Dio o alle creature?  
+(7) Esistono nomi che possono essere attribuiti a Dio nel tempo?  
+(8) Il nome “Dio” indica la natura stessa di Dio o le sue operazioni?  
+(9) È un nome condivisibile da tutti?  
+(10) Viene inteso in modo univoco o equivoco come segno di Dio, nella sua essenza, nella sua partecipazione alle cose create o semplicemente come un concetto umano?  
+(11) Il nome “Colui che è” è davvero il nome più appropriato per indicare Dio?  
+(12) È possibile formulare proposizioni affermative su Dio?
 
 <span class="atom-split" data-atom="071" data-title="Whether a name can be given to God?" data-chapter="Whether a name can be given to God?" data-kind="atom" data-srclang="en"></span>
 
@@ -3433,6 +4514,24 @@ things, because our intellect has a natural affinity to compound and temporal th
 demonstrative pronouns are applied to God as describing what is understood, not what is sensed.
 For we can only describe Him as far as we understand Him. Thus, according as nouns, participles
 and demonstrative pronouns are applicable to God, so far can He be signified by relative pronouns.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non si possa dare alcun nome a Dio. Infatti Dionigi afferma (Div. Nom. i) che “di Lui non esiste alcun nome, né se ne può trovare alcuno”; inoltre è scritto: “Qual è il Suo nome, e qual è il nome di Suo Figlio, se lo sai?” (Proverbi 30:4).
+
+Obiezione 2: Inoltre, ogni nome è o astratto o concreto. Ma i nomi concreti non appartengono a Dio, poiché Egli è semplice; né gli nomi astratti Gli appartengono, poiché essi non designano alcuna realtà perfetta e esistente. Pertanto, nessun nome può essere attribuito a Dio.
+
+Obiezione 3: Inoltre, i nomi vengono considerati come segni di sostanze dotate di qualità; i verbi e i participi indicano sostanze nel contesto del tempo; le pronome, invece, servono a esprimere relazioni o indicazioni specifiche. Ma nessuno di questi elementi può essere applicato a Dio, poiché Egli non possiede alcuna qualità, né accidente, né tempo; inoltre, non può essere percepito in modo da poter essere indicato con precisione, né può essere descritto attraverso relazioni, poiché queste ultime servono soltanto a richiamare alla mente cose già menzionate in precedenza tramite nomi, participi o pronomi dimostrativi. Pertanto, Dio non può essere nominato da noi in alcun modo.
+
+Al contrario, è scritto (Esodo 15:3): “Il Signore è un Dio di guerra; il Suo nome è Onnipotente”.
+
+Rispondo che, poiché secondo il Filosofo (Peri Hermeneutica I) le parole sono segni di idee e le idee sono la somiglianza delle cose, è evidente che le parole si riferiscono al significato delle cose indicate attraverso il mezzo della concezione intellettuale. Ne consegue quindi che possiamo dare un nome a qualsiasi cosa nella misura in cui riusciamo a comprenderla. Come già dimostrato in precedenza (Q[12], AA[11], 12), in questa vita non possiamo vedere l’essenza di Dio; tuttavia lo conosciamo attraverso le creature, come loro principio, nonché in base alle sue qualità superiori e alla sua distinzione dalle cose terrene. In questo modo possiamo dunque chiamare Dio con nomi derivanti dalle creature, ma senza che tali nomi esprimano in sé l’essenza divina. Il nome “uomo”, ad esempio, esprime l’essenza dell’uomo stesso, poiché indica la sua definizione, cioè ciò che lo caratterizza; l’idea rappresentata da questo nome è infatti proprio quella definizione.
+
+Risposta all’Obiezione 1: Il motivo per cui Dio non ha nome, o si dice che sia al di sopra di ogni possibilità di essere nominato, è che la Sua essenza trascende tutto ciò che possiamo comprendere su Dio e che possiamo esprimere a parole.
+
+Risposta all’Obiezione 2: Poiché conosciamo e chiamiamo Dio attraverso le creature, i nomi che attribuiamo a Lui indicano ciò che appartiene alle creature materiali, la conoscenza delle quali è naturale per noi. Inoltre, nelle creature di questo tipo ciò che è perfetto e sostanziale è composto; la loro forma, invece, non è una realtà sostanziale completa, ma piuttosto ciò grazie a cui una cosa esiste. Pertanto, tutti i nomi che utilizziamo per indicare una realtà sostanziale completa devono avere un significato concreto, applicabile alle cose composte; mentre i nomi dati per indicare forme semplici significano tali forme non come entità sostanziali, ma piuttosto come ciò grazie a cui una cosa esiste. Ad esempio, “bianchezza” indica ciò che rende una cosa bianca. Poiché Dio è semplice e sostanziale, Gli attribuiamo nomi astratti per indicare la Sua semplicità, e nomi concreti per indicare la Sua essenza e la Sua perfezione; tuttavia, entrambi questi tipi di nomi non riescono a esprimere veramente il modo in cui Dio è, poiché il nostro intelletto, in questa vita, non Lo conosce così com’è realmente.
+
+Risposta all’Obiezione 3: Designare la sostanza con qualità significa indicare il “suppostum” nella sua natura o forma determinata in cui esiste. Pertanto, così come alcune cose vengono dette di Dio in senso concreto per designarne l’esistenza e la perfezione, allo stesso modo i nomi vengono applicati a Dio per indicare una sostanza dotata di qualità. Inoltre, verbi e participi che esprimono il concetto di tempo vengono usati per riferirsi a Lui, poiché la Sua [eternità](/positions/eternity) include tutto il tempo. Poiché possiamo comprendere e designare le entità semplici soltanto attraverso cose composte, allo stesso modo possiamo comprendere ed esprimere l’idea di eternità semplice solo attraverso concetti temporali, poiché la nostra intelligenza ha una naturale affinità con queste categorie. Tuttavia, i pronomi dimostrativi vengono usati per descrivere ciò che viene compreso, non ciò che viene percepito sensorialmente; possiamo descrivere Dio soltanto nella misura in cui lo comprendiamo. Pertanto, così come nomi, participi e pronomi dimostrativi possono essere applicati a Dio, allo stesso modo anche i pronomi relativi possono essere utilizzati per indicarlo.
 
 <span class="atom-split" data-atom="072" data-title="Whether any name can be applied to God substantially?" data-chapter="Whether any name can be applied to God substantially?" data-kind="atom" data-srclang="en"></span>
 
@@ -3561,6 +4660,24 @@ Reply to Objection 3: These names which are applied to God literally imply corpo
 not in the thing signified, but as regards their mode of signification; whereas those which are applied
 to God metaphorically imply and mean a corporeal condition in the thing signified.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nessun nome venga applicato letteralmente a Dio. Infatti, tutti i [nomi](/positions/nominalism) che attribuiamo a Dio derivano da creature; come è stato spiegato sopra (A[1]). Tuttavia, i nomi delle creature vengono applicati a Dio in senso metaforico, quando diciamo, ad esempio, che Dio è una pietra o un leone. Pertanto, i nomi vengono usati per Dio in modo figurato.
+
+Obiezione 2: Inoltre, nessun nome può essere applicato letteralmente a qualcosa se dovrebbe essere rifiutato piuttosto che concesso a esso. Ma nomi come “buono”, “saggio” e simili vengono in realtà più spesso rifiutati a Dio che concessi a Lui; come si evince dalle parole di Dionigi (Coel. Hier. ii). Pertanto, nessuno di questi nomi appartiene a Dio nel loro senso letterale.
+
+Obiezione 3: Inoltre, i nomi che riguardano il corpo umano vengono applicati a Dio solo in senso metaforico, poiché Egli è incorporeo. Tuttavia, tutti questi nomi implicano qualche tipo di condizione corporea, poiché il loro significato è legato al tempo, alla composizione e ad altre caratteristiche tipiche del mondo fisico. Pertanto, tutti questi nomi vengono applicati a Dio in senso metaforico.
+
+Al contrario, Ambrogio afferma (De Fide ii): “Ci sono alcuni nomi che esprimono chiaramente la natura divina, altri che rivelano la verità essenziale della maestà divina; ci sono poi altri che vengono applicati a Dio in senso metaforico, attraverso analogie”. Pertanto, non tutti i nomi vengono usati per indicare Dio in modo metaforico; alcuni di essi vengono invece impiegati nel loro significato letterale.
+
+Rispondo che, secondo l’articolo precedente, la nostra conoscenza di Dio deriva dalle perfezioni che da Lui derivano verso le creature; tali perfezioni esistono in Dio in modo più eminente rispetto alle creature stesse. Il nostro intelletto le comprende così come si trovano nelle creature e, nel comprenderle, le designa con nomi. Pertanto, i nomi attribuiti a Dio – cioè le perfezioni che essi indicano, come la bontà, la vita e simili, nonché il modo in cui questi nomi fungono da segni – appartengono propriamente a Dio, e in misura maggiore rispetto alle creature; vengono infatti applicati primariamente a Lui. Tuttavia, per quanto riguarda il modo stesso in cui questi nomi funzionano come segni, esso non si applica propriamente e rigorosamente a Dio, poiché tale modo di significazione è specifico delle creature.
+
+Risposta all’Obiezione 1: Esistono alcuni nomi che indicano queste perfezioni che discendono da Dio verso le creature in modo tale che il modo imperfetto con cui le creature ricevono questa perfezione divina faccia parte stessa del significato di quei nomi. Ad esempio, il nome “pietra” indica un essere materiale; nomi di questo tipo possono quindi essere applicati a Dio solo in senso metaforico. Altri nomi, invece, esprimono queste perfezioni in modo assoluto, senza che alcun elemento legato a una partecipazione imperfetta faccia parte del loro significato; nomi come “essere”, “bene”, “vivente”, e simili possono quindi essere applicati a Dio letteralmente.
+
+Risposta all’Obiezione 2: Come dimostra Dionigi, nomi del genere vengono negati a Dio perché ciò che tali nomi indicano non Gli appartiene nel senso ordinario del loro significato, ma in modo più elevato. Per questo motivo Dionigi afferma anche che Dio è al di sopra di ogni sostanza e di ogni forma di vita.
+
+Risposta all’Obiezione 3: Questi nomi che vengono applicati a Dio implicano letteralmente condizioni corporee, non riguardo alla cosa significata in sé, ma in relazione al modo in cui viene espressa; mentre quei nomi che vengono applicati a Dio in senso metaforico implicano effettivamente una condizione corporea nella cosa significata.
+
 <span class="atom-split" data-atom="074" data-title="Whether names applied to God are synonymous?" data-chapter="Whether names applied to God are synonymous?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that these [names applied to God](/concepts/analogy_of_being) are synonymous [names](/positions/nominalism). For synonymous
@@ -3611,6 +4728,22 @@ Reply to Objection 3: The perfect unity of God requires that what are manifold a
 in others should exist in Him simply and unitedly. Thus it comes about that He is one in reality,
 and yet multiple in idea, because our intellect apprehends Him in a manifold manner, as things
 represent Him.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che questi [nomi attribuiti a Dio](/concepts/analogy_of_being) siano nomi sinonimi. Infatti, i nomi sinonimi sono quelli che significano esattamente la stessa cosa. Ma questi nomi attribuiti a Dio indicano esattamente lo stesso aspetto di Dio: la bontà di Dio è infatti la sua essenza, così come la sua saggezza. Pertanto, questi nomi sono assolutamente sinonimi tra loro.
+
+Obiezione 2: Inoltre, se si afferma che questi nomi designino nella realtà la stessa cosa, ma differiscano nell’idea che ne rappresentano il significato, si può obiettare che un’idea alla quale non corrisponde alcuna realtà sia una nozione vana. Pertanto, se queste idee sono molteplici e la cosa in questione è una sola, sembra anche che tutte queste idee siano nozioni vane.
+
+Obiezione 3: Inoltre, una cosa che è unica sia nella realtà che nell’idea è più “unica” di ciò che è unico nella realtà ma molteplice nell’idea. Ma Dio è supremamente uno; pertanto sembrerebbe che non sia uno nella realtà e molteplice nell’idea. Di conseguenza, i nomi attribuiti a Dio non indicano idee diverse, e quindi sono sinonimi.
+
+Al contrario, tutti i sinonimi che vengono uniti tra loro risultano ridondanti; ad esempio, quando diciamo “vestiti” o “abbigliamento”. Pertanto, se tutti i nomi attribuiti a Dio fossero sinonimi, non potremmo dire correttamente cose come “Dio buono” o simili. Eppure è scritto: “O Tu che sei il più potente, il più grande e il più forte, il Signore degli eserciti è il Tuo nome” (Geremia 32:18).
+
+Rispondo che questi nomi con cui si designa Dio non sono sinonimi. Ciò sarebbe facile da comprendere se dicessimo che tali nomi vengono utilizzati per esprimere la relazione di causa-effetto tra Dio e le creature; in tal caso, risulterebbe evidente che esistono concetti diversi riguardo alle qualità negate a Dio o ai diversi effetti da lui prodotti. Ma anche secondo quanto detto in precedenza, sebbene questi nomi indichino la sostanza divina – sebbene in modo imperfetto – è altresì chiaro, dalle argomentazioni presentate, che essi hanno significati diversi. L’idea rappresentata da un nome è infatti il concetto che il nostro intelletto forma riguardo alla realtà designata da quel nome. Tuttavia, poiché il nostro intelletto conosce Dio attraverso le creature, per comprenderlo deve formare concetti proporzionali alle perfezioni che derivano da Dio verso le creature; tali perfezioni, in Dio, esistono unite e semplici, mentre nelle creature vengono ricevute, suddivise e moltiplicate. Pertanto, così come alle diverse perfezioni delle creature corrisponde un principio semplice rappresentato in modi vari e molteplici, anche alle varie concezioni formate dal nostro intelletto corrisponde un principio assolutamente semplice, sebbene compreso in modo imperfetto. Quindi, sebbene i nomi attribuiti a Dio indichino una sola realtà, poiché essa viene rappresentata da molti aspetti diversi, tali nomi non sono sinonimi. Così si risolve la Prima Obiezione: termini sinonimi indicano infatti una stessa cosa sotto un unico aspetto; parole che indicano diversi aspetti di una stessa realtà, invece, non ne indicano necessariamente uno solo in modo assoluto e diretto, poiché il significato di un termine deriva soltanto dal concetto intellettuale che esso rappresenta.
+
+Risposta all’Obiezione 2: I numerosi aspetti di questi nomi non sono vuoti né vani, poiché ognuno di essi corrisponde a una realtà semplice che viene rappresentata da quei nomi in modo molteplice e imperfetto.
+
+Risposta all’Obiezione 3: L’unità perfetta di Dio richiede che ciò che è molteplice e diviso negli altri esista in Lui in modo semplice e unitario. Per questo motivo Egli è uno nella realtà, eppure multiplo nell’intelletto umano, poiché il nostro intelletto Lo percepisce in modi diversi, così come le cose lo rappresentano.
 
 <span class="atom-split" data-atom="075" data-title="Whether what is said of God and of creatures is univocally predicated of them?" data-chapter="Whether what is said of God and of creatures is univocally predicated of them?" data-kind="atom" data-srclang="en"></span>
 
@@ -3698,6 +4831,25 @@ necessary that God and creatures should be in the same genus.
 The arguments adduced in the contrary sense prove indeed that these names are not predicated
 univocally of God and creatures; yet they do not prove that they are predicated equivocally.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le qualità attribuite a Dio e alle creature siano di natura univoca. Infatti, ogni termine equivoco viene ridotto a uno univoco, poiché più termini equivoci possono essere ricondotti a uno solo; ad esempio, il nome “cane” può essere usato in modo equivoco per indicare sia il cane che abbaia sia il pesce cane, ma deve necessariamente avere un significato univoco quando si riferisce a tutti i cani che abbaiano; altrimenti ci si troverebbe di fronte a un processo infinito. Esistono agenti univoci che coincidono con i loro effetti sia nel nome che nella definizione, come l’uomo che genera altri esseri umani; esistono invece agenti equivoci, come il sole che provoca calore, anche se il termine “caldo” in questo caso ha un significato equivoco. Pertanto, sembra che l’agente primario da cui tutti gli altri agenti derivano sia di natura univoca; e quindi ciò che si dice di Dio e delle creature debba essere considerato come avente un significato univoco.
+
+Obiezione 2: Inoltre, non esiste alcuna somiglianza tra cose equivocabili. Pertanto, poiché le creature presentano una certa affinità con Dio, secondo quanto detto nel Genesi (“Facciamo l’uomo a nostra immagine e somiglianza”), sembra possibile parlare di Dio e delle creature in modo univoco.
+
+Obiezione 3: Inoltre, la misura è omogenea con la cosa che viene misurata. Ma Dio è la prima misura di tutti gli esseri. Pertanto, Dio è omogeneo con le creature; e quindi una stessa parola può essere applicata in modo univoco sia a Dio che alle creature.
+
+Al contrario, tutto ciò che viene attribuito a diverse cose sotto lo stesso nome ma non nel medesimo senso, viene attribuito in modo equivoco. Tuttavia, nessun nome appartiene a Dio nello stesso senso in cui appartiene alle creature; ad esempio, la saggezza è una qualità nelle creature, ma non in Dio. Un genere diverso cambia l’essenza di una cosa, poiché il genere fa parte della sua definizione; lo stesso vale per altre entità. Pertanto, tutto ciò che si dice di Dio e delle creature viene attribuito in modo equivoco. Inoltre, Dio è molto più distante dalle creature di quanto qualsiasi creatura lo sia l’una dall’altra; la distanza tra alcune creature rende impossibile qualsiasi attribuzione univoca a loro, proprio come nel caso di entità che non appartengono allo stesso genere. Pertanto, è ancora meno possibile attribuire qualcosa in modo univoco a Dio e alle creature; quindi, a loro possono essere applicate soltanto attribuzioni equivocate.
+
+Rispondo che la predicazione univoca è impossibile tra Dio e le creature. Il motivo di ciò è che ogni effetto che non sia il risultato adeguato del potere della [causa efficiente](/concepts/four_causes) riceve la somiglianza dell’agente non nella sua piena misura, ma in una proporzione inferiore; quindi ciò che è diviso e moltiplicato negli effetti risiede nell’agente in modo semplice e allo stesso modo. Ad esempio, il sole, attraverso l’esercizio del proprio potere, produce molteplici e varie forme in tutte le cose inferiori. Allo stesso modo, come detto nell’articolo precedente, tutte le perfezioni presenti nelle creature, che sono divise e moltiplicate, preesistono in Dio nella loro unità. Pertanto, quando un termine che esprime una perfezione viene applicato a una creatura, significa quella perfezione distinta, in idea, da altre perfezioni; ad esempio, il termine “saggio”, applicato all’uomo, indica una perfezione diversa dall’essenza stessa dell’uomo, dalla sua capacità e dalla sua esistenza. Quando invece viene applicato a Dio, non si intende indicare nulla di distinto dalla Sua essenza, dal Suo potere o dalla Sua esistenza. Pertanto, il termine “saggio”, applicato all’uomo, in un certo senso delimita e comprende ciò che indica; mentre quando viene applicato a Dio, non fa lo stesso: lascia ciò che indica come incomprendibile e al di là del significato del nome stesso. È evidente quindi che questo termine “saggio” non viene applicato allo stesso modo a Dio e all’uomo. Lo stesso regola vale per altri termini. Pertanto, nessun nome può essere predicato univocamente di Dio e delle creature. Né, d’altra parte, i [nomi](/concepts/analogy_of_being) vengono applicati a Dio e alle creature in senso puramente equivoco, come alcuni hanno sostenuto. Se ciò fosse vero, non si potrebbe conoscere o dimostrare nulla su Dio partendo dalle creature, poiché il ragionamento verrebbe sempre esposto all’errore dell’equivocità. Questa visione è contraria a quanto affermato dai filosofi, i quali hanno dimostrato molte cose su Dio, e anche contro quanto dice l’Apostolo: “Le cose invisibili di Dio sono chiaramente comprensibili attraverso le cose visibili” (Romani 1:20). Pertanto, si deve dire che questi [nomi](/positions/nominalism) vengono applicati a Dio e alle creature in senso analogico, cioè secondo una proporzione. I nomi vengono infatti utilizzati in due modi: o perché molte cose sono proporzionali a una cosa, come ad esempio “sano”, che viene predicato della medicina e dell’urina in relazione alla salute del corpo; oppure perché una cosa è proporzionale a un’altra, come “sano”, che viene predicato della medicina e dell’animale, poiché la medicina è la causa della salute nell’organismo animale. In questo modo, alcune cose vengono dette di Dio e delle creature in senso analogico, e non in senso puramente equivoco né univoco. Poiché possiamo nominare Dio soltanto a partire dalle creature (A[1]). Quindi, tutto ciò che viene detto di Dio e delle creature lo è secondo questa relazione di proporzione.
+La relazione di una creatura verso Dio, inteso come suo principio e causa, nella quale tutte le perfezioni delle cose esistono già in modo perfetto prima della loro realizzazione concreta. Questo tipo di “comunità di idee” rappresenta un mezzo tra l’equivocazione pura e l’univocazione semplice: nelle analogie, infatti, l’idea non è identica a se stessa come nell’univocazione, ma nemmeno del tutto diversa come nell’equivocazione; piuttosto, un termine utilizzato in senso multiplo indica diverse proporzioni o relazioni rispetto a una determinata realtà. Ad esempio, “sano”, applicato all’urina, indica un segno di buona salute animale, mentre applicato alla medicina indica la causa stessa di tale salute.
+
+Risposta all’Obiezione 1: Sebbene le predicazioni equivoche debbano essere ridotte a predicazioni univoci, nelle azioni, l’agente non univoco deve precedere l’agente univoco. L’agente non univoco, infatti, è la causa universale di tutta la specie; ad esempio, il sole è la causa della generazione di tutti gli uomini. L’agente univoco, invece, non è la causa efficiente universale di tutta la specie (altrimenti sarebbe la causa di sé stesso, poiché è contenuto nella specie stessa), ma è una causa particolare di quell’individuo che include nella specie attraverso la partecipazione. Pertanto, la causa universale di tutta la specie non è un agente univoco; inoltre, la causa universale precede la causa particolare. Questo agente universale, sebbene non sia univoco, non è nemmeno del tutto equivoco; altrimenti non potrebbe produrre ciò che è simile a sé stesso. Bisogna quindi definirlo un “agente analogico”, poiché tutte le predicazioni univoci si riducono, in ultima analisi, a una singola predicazione analogica primaria: l’essere.
+
+Risposta all’Obiezione 2: La somiglianza della creatura con Dio è imperfetta, poiché non rappresenta la stessa entità generica (Q[4], A[3]).
+
+Risposta all’Obiezione 3: Dio non è la misura proporzionale alle cose che vengono misurate; pertanto non è necessario che Dio e le creature appartengano allo stesso genere. Gli argomenti addotti nel senso opposto dimostrano effettivamente che questi termini non vengono applicati in modo univoco a Dio e alle creature; tuttavia, essi non dimostrano nemmeno che vengano applicati in modo equivoco.
+
 <span class="atom-split" data-atom="076" data-title="Whether names predicated of God are predicated primarily of creatures?" data-chapter="Whether names predicated of God are predicated primarily of creatures?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that [names](/positions/nominalism) are predicated primarily of creatures rather than of God. For
@@ -3755,7 +4907,25 @@ said above.
 Reply to Objection 3: This objection would be valid if these names were applied to God only
 as cause, and not also essentially, for instance as "healthy" is applied to medicine.
 
-<span class="atom-split" data-atom="077" data-title="Whether names which imply relation to creatures are predicated of God temporally? (1/2)" data-chapter="Whether names which imply relation to creatures are predicated of God temporally?" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli [nomi](/positions/nominalism) vengano attribuiti principalmente alle creature e non a Dio. Infatti, diamo un nome a qualcosa in base a come lo conosciamo, poiché, come afferma il Filosofo, “i nomi sono segni di idee”. Ma conosciamo le creature prima di conoscere Dio. Pertanto, i nomi che attribuiamo sono destinati principalmente alle creature e non a Dio.
+
+Obiezione 2: Inoltre, Dionisio afferma (Div. Nom. i): “Chiamiamo Dio con nomi derivanti dalle creature”. Ma i nomi trasferiti dalle creature a Dio vengono utilizzati principalmente per indicare le creature stesse, e non Dio, come ad esempio “leone”, “pietra” e simili. Pertanto, tutti i [nomi attribuiti a Dio](/concepts/analogy_of_being) e alle creature vengono applicati in primo luogo alle creature, e non a Dio.
+
+Obiezione 3: Inoltre, tutti quei nomi che vengono applicati ugualmente sia a Dio che alle creature, vengono attribuiti a Dio in quanto causa di tutte le creature, come afferma Dionigi nel “De Mystica Theologia”. Tuttavia, ciò che viene attribuito a qualcosa attraverso la sua causa lo viene attribuito in modo secondario; ad esempio, “salutare” viene primariamente attribuito agli animali e non alla medicina, che è la causa della salute. Pertanto, questi nomi vengono applicati primariamente alle creature e non a Dio.
+
+Al contrario, è scritto: “Mi inchino al Padre del nostro Signore Gesù Cristo, di Colui prendono nome tutte le paternità nel cielo e sulla terra” (Efesini 3:14-15); lo stesso vale per gli altri nomi attribuiti a Dio e alle creature. Pertanto, questi nomi vengono applicati principalmente a Dio piuttosto che alle creature.
+
+Rispondo che, nei nomi attribuiti in senso analogico a molte cose, tutti vengono utilizzati perché fanno riferimento a una singola realtà; e questa realtà deve necessariamente essere inclusa nella definizione di tutti quei nomi. Poiché ciò che viene espresso dal nome stesso costituisce la sua definizione, come afferma il Filosofo (Metafisica iv), un tale nome deve essere applicato in primo luogo a quella realtà che è alla base della definizione di tutte le altre cose, e solo successivamente a queste ultime, nella misura in cui si avvicinano o meno a quella realtà fondamentale. Ad esempio, il termine “sano”, applicato agli animali, rientra nella definizione di “sano” nel contesto della medicina – poiché la medicina è considerata la causa della salute negli animali – e anche nella definizione di “sano” quando si parla dell’urina, che viene definita sana in quanto segno della salute dell’animale. Allo stesso modo, tutti i nomi attribuiti metaforicamente a Dio vengono applicati prima alle creature che a Dio stesso; infatti, quando questi nomi sono usati per parlare di Dio, intendono soltanto indicare somiglianze tra Lui e tali creature. Ad esempio, il termine “sorridente”, applicato a un campo, significa semplicemente che quel campo, per la bellezza dei suoi fiori, assomiglia in modo proporzionato al sorriso umano; allo stesso modo, il nome “leone”, applicato a Dio, indica soltanto che Dio manifesta forza nelle sue opere, proprio come un leone nella sua. È quindi evidente che, quando questi nomi vengono usati per parlare di Dio, il loro significato può essere definito esclusivamente in relazione alle creature. Per quanto riguarda altri nomi che non vengono attribuiti a Dio in senso metaforico, la stessa regola si applicherebbe se venissero utilizzati per indicare Dio soltanto come causa di tali qualità, come alcuni hanno ipotizzato. Ad esempio, quando si dice “Dio è buono”, ciò significherebbe semplicemente che “Dio è la causa della bontà delle creature”; quindi il termine “buono”, applicato a Dio, includerebbe nella sua definizione anche la bontà delle creature. Di conseguenza, “buono” verrebbe applicato in primo luogo alle creature e non a Dio stesso. Tuttavia, come è stato dimostrato sopra, questi nomi vengono attribuiti a Dio non soltanto come causa di tali qualità, ma anche essenzialmente; infatti, espressioni come “Dio è buono” o “Dio è saggio” significano non solo che Lui è la causa della saggezza o della bontà, ma anche che queste qualità esistono in Lui in modo particolarmente elevato. Pertanto, per quanto riguarda il significato intrinseco di questi nomi, essi vengono applicati prima a Dio e non alle creature; poiché queste perfezioni derivano da Dio stesso verso le creature. Tuttavia, dal punto di vista dell’uso linguistico, questi nomi vengono applicati in primo luogo alle creature che conosciamo meglio; quindi hanno un significato legato alle creature stesse, come è stato detto sopra.
+
+Risposta all’Obiezione 1: Questa obiezione riguarda l’imposizione di quel nome.
+
+Risposta all’Obiezione 2: La stessa regola non si applica alle metafore e ad altri tipi di nomi, come detto in precedenza.
+
+Risposta all’Obiezione 3: Questa obiezione sarebbe valida se questi nomi venissero applicati a Dio soltanto in quanto causa, e non anche essenzialmente, proprio come “salutare” viene applicato alla medicina.
+
+<span class="atom-split" data-atom="077" data-title="Whether names which imply relation to creatures are predicated of God temporally? (parte 1)" data-chapter="Whether names which imply relation to creatures are predicated of God temporally?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that [names](/positions/nominalism) which imply relation to creatures are not predicated of God
 temporally. For all such names signify the divine substance, as is universally held. Hence also
@@ -3864,7 +5034,7 @@ related to Him: and since the relation of subjection is real in the creature, it
 Lord not in idea only, but in reality; for He is called Lord according to the manner in which the
 creature is subject to Him.
 
-<span class="atom-split" data-atom="078" data-title="Whether names which imply relation to creatures are predicated of God temporally? (2/2)" data-chapter="Whether names which imply relation to creatures are predicated of God temporally?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="078" data-title="Whether names which imply relation to creatures are predicated of God temporally? (parte 2)" data-chapter="Whether names which imply relation to creatures are predicated of God temporally?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 6: To know whether relations are simultaneous by nature or otherwise, it
 is not necessary by nature or otherwise of things to which they belong but the meaning of the
@@ -3878,6 +5048,10 @@ nothing as such unless it is known. Thus, though God is prior to the creature, s
 signification of Lord includes the idea of a servant and vice versa, these two relative terms, "Lord"
 and "servant," are simultaneous by nature. Hence, God was not "Lord" until He had a creature
 subject to Himself.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 6: Per sapere se le relazioni siano per natura simultanee o meno, non è necessario considerare la natura delle cose a cui tali relazioni appartengono, bensì il significato stesso delle relazioni stesse. Infatti, se in un concetto è incluso un altro concetto, e viceversa, allora queste relazioni sono per natura simultanee: ad esempio, “doppio” e “metà”, “padre” e “figlio”, e simili. Ma se in un concetto è incluso un altro concetto senza che quest’ultimo includa il primo, allora tali relazioni non sono per natura simultanee. Ciò vale anche per la scienza e il suo oggetto: l’oggetto conoscibile viene considerato come una [potenzialità](/concepts/act_potency), mentre la scienza stessa come un [atto](/concepts/custom) o come un’abitudine. Pertanto, l’oggetto conoscibile esiste già prima che venga studiato dalla scienza; ma se lo stesso oggetto viene considerato nell’atto di essere conosciuto, allora esso è simultaneo alla scienza stessa in quell’atto. Infatti, l’oggetto conosciuto non è nulla di per sé, se non viene effettivamente conosciuto. Così, anche se Dio esiste prima della creazione, poiché il concetto di “Dio” include nel proprio significato il concetto di “servo”, e viceversa, questi due termini relativi sono per natura simultanei. Pertanto, Dio non è stato “Dio” finché non ha creato una creatura soggetta a Sé stesso.
 
 <span class="atom-split" data-atom="079" data-title="Whether this name \&quot;God\&quot; is a name of the nature?" data-chapter="Whether this name \&quot;God\&quot; is a name of the nature?" data-kind="atom" data-srclang="en"></span>
 
@@ -3921,6 +5095,22 @@ what it is; but only by way of eminence, and by way of causality, and of negatio
 (Q[12], A[12]). Thus the name "God" signifies the divine nature, for this name was imposed to
 signify something existing above all things, the principle of all things and removed from all things;
 for those who name God intend to signify all this.
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Il nome “Dio” è forse un nome che si riferisce alla natura stessa?
+
+Obiezione 1: Sembra che questo nome, “Dio”, non sia un nome che descriva la Sua natura. Infatti Damasceno afferma (De Fide Orth. 1) che “Dio è chiamato così perché si prende cura di tutte le cose e le custodisce; oppure perché brucia, poiché il nostro Dio è un fuoco che distrugge ogni malvagità; o ancora perché considera tutte le cose con attenzione”. Ma tutti questi nomi riguardano soltanto le Sue operazioni. Pertanto, il nome “Dio” indica le Sue azioni, e non la Sua essenza stessa.
+
+Obiezione 2: Inoltre, una cosa viene chiamata da noi secondo come la conosciamo. Ma la natura divina ci è sconosciuta. Pertanto, il nome “Dio” non indica necessariamente la natura divina.
+
+Al contrario, Ambrogio afferma nel “De Fide i” che “Dio” è un nome che indica la natura stessa di Dio.
+
+Rispondo che ciò da cui deriva un nome e ciò che quel nome significa non sono sempre la stessa cosa. Poiché conosciamo la sostanza attraverso le sue proprietà e le sue azioni, a volte denominiamo una sostanza in base alla sua azione o alla sua proprietà; ad esempio, chiamiamo “sostanza di una pietra” il suo effetto negativo, come quello di ferire il piede [loedit pedem]; tuttavia, questo nome non ha lo scopo di indicare un’azione specifica, ma la sostanza stessa della pietra. D’altra parte, le cose che conosciamo per se stesse – come il calore, il freddo, la bianchezza, ecc. – non vengono denominate in base ad altre cose; pertanto, in questi casi, il significato del nome e la sua origine sono identici. Poiché Dio non ci è conosciuto nella sua natura, ma ci viene rivelato attraverso le sue azioni o i suoi effetti, lo chiamiamo in base a queste, come si dice nell’opera A[1]; quindi il nome “Dio” è un nome che indica l’azione divina, nel senso della fonte del suo significato. Questo nome deriva infatti dalla sua provvidenza universale su tutte le cose; poiché tutti coloro che parlano di Dio intendono indicare Dio come colui che esercita la provvidenza su tutto; per questo Dionigi dice (Div. Nom. ii): “La Divinità veglia su tutte le cose con perfetta provvidenza e bontà”. Tuttavia, se considerato in relazione a questa sua azione, il nome “Dio” viene utilizzato anche per indicare la natura divina stessa.
+
+Risposta all’Obiezione 1: Tutto ciò che dice Damasceno riguarda la provvidenza; essa è infatti la fonte del significato del nome “Dio”.
+
+Risposta all’Obiezione 2: Possiamo denominare una cosa in base alla conoscenza che abbiamo della sua natura, delle sue proprietà e dei suoi effetti. Poiché possiamo comprendere cos’è veramente una pietra attraverso le sue caratteristiche, il nome “pietra” indica appunto la natura stessa della pietra; esso rappresenta infatti la sua definizione, che ci permette di conoscere cosa essa sia. L’idea espressa dal nome corrisponde dunque alla definizione concettuale della pietra. Al contrario, dai fenomeni divini non possiamo conoscere la natura divina in sé stessa, per comprendere cos’ella sia; possiamo conoscerla soltanto attraverso le sue caratteristiche distintive, il suo ruolo causale e i concetti di negazione, come già detto in [Q[12], A[12. Pertanto, il nome “Dio” indica la natura divina; questo nome è stato infatti coniato per designare qualcosa che esiste al di sopra di tutte le cose, che ne è il principio e che, allo stesso tempo, si distingue da esse. Chi nomina Dio intende proprio indicare tutto ciò.
 
 <span class="atom-split" data-atom="080" data-title="Whether this name \&quot;God\&quot; is communicable?" data-chapter="Whether this name \&quot;God\&quot; is communicable?" data-kind="atom" data-srclang="en"></span>
 
@@ -3997,6 +5187,27 @@ signify the perfections themselves absolutely; and therefore they are in truth c
 many. But this name "God" is given to God from His own proper operation, which we experience
 continually, to signify the divine nature.
 
+<span class="qlang-split" data-lang="it"></span>
+
+# È possibile comunicare questo nome, “Dio”?
+
+Obiezione 1: Sembra che questo nome “Dio” possa essere condiviso con gli altri. Infatti, chiunque condivida ciò che un nome indica, condivide anche il nome stesso. Ma questo nome “Dio” indica la natura divina, la quale può essere comunicata ad altri, come si legge nelle parole: “Ci ha dato grandi e preziose promesse, affinché attraverso di esse possiamo diventare partecipanti della natura divina” (2 Pietro 1:4). Pertanto, questo nome “Dio” può essere condiviso con gli altri.
+
+Obiezione 2: Inoltre, solo i nomi propri non sono comunicabili. Ora, il nome “Dio” non è un nome proprio, ma un sostantivo appellativo; ciò risulta dal fatto che ha una forma plurale, come si evince dal testo “Ho detto: voi siete dèi” (Salmo 81:6). Pertanto, il nome “Dio” è comunicabile.
+
+Obiezione 3: Inoltre, il nome “Dio” deriva dalle sue azioni, come spiegato. Ma altri nomi attribuiti a Dio in base alle sue operazioni o ai suoi effetti sono anch’essi comunicabili; ad esempio “buono”, “saggio” e simili. Pertanto, anche il nome “Dio” è comunicabile.
+
+Al contrario, è scritto: “Hanno dato un nome incomprensibile a legno e pietre” (Sapienza 14:21), in riferimento al nome divino. Pertanto, questo nome “Dio” è incomprensibile.
+
+Rispondo che un nome può essere comunicato in due modi: in modo proprio e per similitudine. È comunicabile in modo proprio nel senso che il suo significato completo può essere attribuito a molte cose; per similitudine, invece, viene comunicato in base a una parte del significato di quel nome. Ad esempio, il nome “leone” è comunicabile in modo proprio a tutte le cose della stessa natura del leone; per similitudine, può essere comunicato anche a coloro che possiedono alcune delle qualità tipiche del leone, come coraggio o forza, e queste persone vengono metaforicamente chiamate “leoni”. Tuttavia, per conoscere quali nomi siano comunicabili in modo proprio, dobbiamo considerare che ogni forma esistente in un soggetto singolo, attraverso la quale quel soggetto viene individualizzato, è comune a molte cose, sia nella realtà che nell’idea; ad esempio, la “natura umana” è comune a molti sia nella realtà che nell’idea, mentre la natura del sole non lo è nella realtà, ma solo nell’idea. La ragione è che possiamo comprendere la natura di ogni specie astragendo da un singolo esemplare; quindi il fatto che una specie esista in più soggetti rientra fuori dall’ambito dell’idea stessa di quella specie. Pertanto, data l’idea di una specie, possiamo comprendere che essa esista in molti individui; ma il singolo, per definizione, è separato da tutti gli altri. Di conseguenza, ogni nome che indica un oggetto singolo non può essere comunicato né nella realtà né nell’idea, poiché la pluralità di quell’oggetto singolo non esiste e non può nemmeno essere concepita. Pertanto, nessun nome che indica un oggetto singolo è comunicabile in modo proprio a molte persone, ma solo per similitudine; ad esempio, si può chiamare “Achille” una persona che possiede alcune delle qualità di Achille, come la forza. D’altra parte, quelle forme che sono individualizzate non da un qualche “supposto”, ma in sé stesse, se comprese per ciò che realmente sono, non potrebbero essere comunicate né nella realtà né nell’idea; ma forse solo per similitudine. Poiché non siamo in grado di comprendere le forme semplici e autonome così come realmente sono, le comprendiamo come entità composte che possiedono forme materiali; quindi, come detto nel primo articolo, diamo loro nomi concreti che indicano una natura esistente in un qualche “supposto”. Quindi, quanto riguarda i nomi che attribuiamo alle nature complesse e a quelli che usiamo per indicare le nature semplici e autonome, valgono le stesse regole. Poiché il nome “Dio” viene dato per indicare la natura divina, come descritto sopra, e poiché la natura divina non può essere moltiplicata, come dimostrato in precedenza, ne consegue che il nome “Dio” non può essere comunicato nella realtà, ma solo nell’opinione; proprio come il nome “sole” potrebbe essere comunemente usato da coloro che ritengono esistano molti soli.
+“Dèi”. Pertanto è scritto: “Avete servito coloro che per natura non sono dèi” (Galati 4:8), e un commento aggiunge: “Dèi, non in senso naturale, ma secondo l’opinione umana”. Tuttavia questo nome “Dio” è comunicabile, non nella sua intera significazione, ma in una parte di essa, per via di similitudine; quindi vengono chiamati dèi coloro che, per somiglianza, condividono qualcosa della divinità, come recita il testo: “Ho detto: voi siete dèi” (Salmo 81:6). Ma se un nome venisse dato a Dio non in riferimento alla sua natura, ma al suo “aspetto apparente”, ossia considerandolo semplicemente come una realtà concreta, tale nome sarebbe assolutamente incomprensibile; come, ad esempio, il Tetragramma tra gli Ebrei; e questo equivarrebbe a dare un nome al sole soltanto per indicare quella realtà individuale.
+
+Risposta all’Obiezione 1: La natura divina può essere comunicata soltanto attraverso la partecipazione di una certa somiglianza.
+
+Risposta all’Obiezione 2: Questo nome “Dio” è un nome appellativo, e non un nome proprio, poiché indica la natura divina nell’essere che lo possiede; sebbene Dio stesso, in realtà, non sia né universale né particolare. I nomi, infatti, non derivano dal modo in cui le cose esistono, ma dal modo in cui queste vengono percepite nella nostra mente. Eppure, questo nome rimane incomprensibile se si considera la verità reale della cosa, come è stato detto sopra riguardo al nome “sole”.
+
+Risposta all’Obiezione 3: Questi nomi, “buono”, “saggio” e simili, vengono attribuiti in base alle perfezioni che Dio trasmette alle creature; tuttavia essi non indicano la natura divina, ma piuttosto le stesse perfezioni in sé; pertanto possono essere applicati a molte persone. Ma il nome “Dio” viene dato a Dio in relazione al suo proprio operare, che sperimentiamo continuamente, e serve appunto a designare la sua natura divina.
+
 <span class="atom-split" data-atom="081" data-title="Whether this name \&quot;God\&quot; is applied to God univocally by nature, by participation, and according to opinion?" data-chapter="Whether this name \&quot;God\&quot; is applied to God univocally by nature, by participation, and according to opinion?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this name "God" is applied to God univocally by nature, by participation, and according to opinion?
@@ -4064,6 +5275,26 @@ Catholic does in saying an idol is not God. But if anyone should be quite ignora
 he could not even name Him, unless, perhaps, as we use names the meaning of which we know
 not.
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Viene questo nome “Dio” applicato a Dio in modo univoco, per natura, per partecipazione o secondo l’opinione degli uomini?
+
+Obiezione 1: Sembra che il nome “Dio” venga applicato a Dio in modo univoco, sia per natura, sia per partecipazione, sia secondo l’opinione umana. Infatti, dove esiste una diversa significazione di un termine, non sorge alcuna contraddizione tra affermazione e negazione; l’equivocità, infatti, impedisce che ciò accada. Ma un cattolico che afferma: “Un idolo non è Dio”, si contraddice con un pagano che sostiene: “Un idolo è Dio”. Pertanto, il termine “Dio” viene utilizzato in entrambi i sensi in modo univoco.
+
+Obiezione 2: Inoltre, poiché un idolo è considerato Dio soltanto nell’opinione e non nella realtà, allo stesso modo il godimento dei piaceri carnali viene definito felicità soltanto nell’opinione e non nella realtà. Tuttavia, il nome “[beatazza](/positions/beatitude)” viene applicato in modo univoco sia a questa presunta felicità che alla vera felicità. Pertanto, anche il nome “Dio” viene utilizzato in modo univoco sia per indicare il vero Dio che per indicare Dio soltanto nell’opinione.
+
+Obiezione 3: Inoltre, i [nomi](/positions/nominalism) vengono definiti univoci perché contengono un’unica idea. Quando un cattolico afferma: “C’è un solo Dio”, intende con il nome “Dio” un essere onnipotente e venerato sopra ogni cosa; mentre gli pagani intendono lo stesso quando dicono: “Un idolo è Dio”. Pertanto, il nome “Dio” viene applicato in modo univoco sia ai cattolici che agli pagani.
+
+Al contrario, l’idea nell’intelletto rappresenta la somiglianza di ciò che esiste nella realtà, come si afferma nel “Peri Hermeneutica”. Tuttavia, il termine “animale”, applicato sia a un vero animale che a una sua rappresentazione artistica, è equivoco. Pertanto, anche il nome “Dio”, quando applicato al vero Dio e a Dio considerato soltanto in termini di opinione, viene utilizzato in modo equivoco. Inoltre, nessuno può indicare ciò che non conosce; poiché gli pagani ignorano la natura divina, quando dicono che un idolo è Dio, in realtà non intendono riferirsi alla vera Deità. D’altra parte, un cattolico, quando afferma l’esistenza di un solo Dio, indica effettivamente la vera Deità. Quindi il nome “Dio” viene utilizzato in modo non univoco, ma equivoco, sia per riferirsi al vero Dio che a Dio considerato soltanto in termini di opinione.
+
+Rispondo che questo nome “Dio”, nelle tre accezioni sopra menzionate, non viene inteso in modo univoco né equivoco, ma in modo analogico. Ciò è evidente per il seguente motivo: i termini univoci indicano esattamente la stessa cosa, mentre i termini equivoci indicano cose assolutamente diverse; nei termini analogici, una parola utilizzata in un certo senso deve essere inclusa nella definizione della stessa parola quando usata in altri sensi. Ad esempio, “essere”, applicato a “sostanza”, viene incluso nella definizione di “essere” quando applicato ad “accidente”; allo stesso modo, “sano”, applicato agli animali, viene incluso nella definizione di “sano” quando applicato all’urina e ai medicinali. L’urina, infatti, è un segno di salute negli animali, e i medicinali sono la causa della salute. Lo stesso vale per la questione in discussione: il nome “Dio”, quando indica il vero Dio, include l’idea di Dio anche quando viene usato per riferirsi a una divinità considerata tale dagli uomini o a qualcosa che gli uomini ritengono essere Dio. Quando chiamiamo un idolo “dio”, con questo nome intendiamo e designiamo qualcosa che gli uomini ritengono sia Dio; è quindi evidente che il nome abbia diversi significati, ma che uno di essi sia compreso negli altri. Pertanto, si può affermare chiaramente che il suo uso è analogico.
+
+Risposta all’Obiezione 1: La moltiplicazione dei nomi non dipende dalla predicazione del nome stesso, ma dal suo significato; infatti, il nome “uomo”, indipendentemente da chi ne venga fatta la predicazione – vera o falsa che sia – viene sempre usato in un unico senso. Tuttavia, si potrebbe parlare di moltiplicazione dei nomi se con essi si volessero indicare cose diverse; ad esempio, se con il nome “uomo” si intendesse ciò che l’uomo realmente è, e con lo stesso nome si intendesse invece una pietra o qualcos’altro. È quindi evidente che quando un cattolico afferma che un idolo non è Dio, questa dichiarazione contraddice quella di un pagano che sostiene il contrario; entrambi infatti usano il nome “Dio” per indicare il vero Dio. Quando il pagano dice che un idolo è Dio, non utilizza questo nome nel senso in cui i cattolici lo usano a volte – ad esempio, nel Salmo dove si legge: “Tutti gli dèi dei popoli stranieri sono demoni” (Sal. 95:5). Lo stesso discorso vale per le Seconda e Terza Obiezioni: queste derivano infatti da diverse modalità di predicazione del nome, e non dalle sue varie significazioni.
+
+Risposta all’Obiezione 4: Il termine “animale”, applicato sia a un animale reale che a uno rappresentato in immagine, non è puramente equivoco; infatti, il Filosofo considera i nomi equivoci in senso lato, includendo anche i nomi analogici; poiché anche l’essere, quando viene predicato in modo analogico, talvolta viene considerato predicato in modo equivoco di diversi stati o condizioni.
+
+Risposta all’Obiezione 5: Né un cattolico né un pagano conoscono la vera natura di Dio così com’è in sé; entrambi la comprendono però in base a concetti legati alla causalità, all’eccellenza o ad altre caratteristiche. Pertanto, un pagano può usare il nome “Dio” nello stesso modo in cui un cattolico lo utilizza: quando dice che un idolo è Dio, intende esattamente ciò che un cattolico intende quando afferma che un idolo non è Dio. Tuttavia, se qualcuno fosse completamente ignorante riguardo a Dio, non sarebbe nemmeno in grado di nominarlo, a meno che non utilizzasse nomi il cui significato non conoscesse affatto.
+
 <span class="atom-split" data-atom="082" data-title="Whether this name, HE WHO IS, is the most proper name of God?" data-chapter="Whether this name, HE WHO IS, is the most proper name of God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that this name HE WHO IS is not the most proper name of God. For this
@@ -4116,6 +5347,27 @@ but not absolutely; for existence considered absolutely comes before the idea of
 Reply to Objection 3: It is not necessary that all the divine names should import relation to
 creatures, but it suffices that they be imposed from some perfections flowing from God to creatures.
 Among these the first is existence, from which comes this name, HE WHO IS.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il nome “Colui Che È” non sia il nome più appropriato per Dio. Infatti, il nome “Dio” è un nome incommunicabile; invece, il nome “Colui Che È” non lo è. Pertanto, il nome “Colui Che È” non può essere considerato il nome più appropriato per Dio.
+
+Obiezione 2: Inoltre, Dionigi afferma (Div. Nom. iii) che “il nome di bene manifesta in modo eccellente tutte le proprietà e le caratteristiche di Dio”. Ma appartiene soprattutto a Dio il ruolo di principio universale di tutte le cose. Pertanto, il nome “bene” è estremamente appropriato a Dio, e non il nome “Colui Che È”.
+
+Obiezione 3: Inoltre, ogni nome divino sembra implicare una relazione con le creature, poiché Dio ci è conosciuto soltanto attraverso di esse. Ma il nome “LUI CHE È” non implica alcuna relazione con le creature. Pertanto, il nome “LUI CHE È” non è il più adatto a descrivere Dio.
+
+Al contrario, è scritto che quando Mosè chiese: “Se mi diranno: ‘Qual è il suo nome? Che cosa dovrò rispondere loro?’”, il Signore gli rispose: “Digli: ‘Colui Che È mi ha inviato da voi’” (Esodo 3:13,14). Pertanto, il nome “Colui Che È” appartiene in modo appropriato a Dio.
+
+Rispondo che il nome “Colui Che È” si applica in modo particolarmente appropriato a Dio per tre ragioni:  
+Prima di tutto, per il suo significato stesso. Questo nome non indica una forma specifica, ma semplicemente l’esistenza stessa. Poiché l’esistenza di Dio è la sua essenza stessa – qualcosa che non si può dire di nessun altro essere (Q[3], A[4]) – è evidente che questo nome designi in modo specifico Dio, poiché ogni cosa viene denominata in base alla sua forma.  
+In secondo luogo, per il suo carattere universale. Tutti gli altri nomi con cui si designa Dio sono o meno universali; oppure, anche se convertibili con questo nome, aggiungono comunque qualcosa a esso, almeno nel concetto. I nostri intelletti, tuttavia, non possono conoscere l’essenza stessa di Dio in questa vita, così come essa è in sé; quindi, qualsiasi modo utilizziamo per comprendere Dio rimane inferiore al modo in cui Dio esiste realmente. Pertanto, più i nomi con cui si designa Dio sono universali e assoluti, più si applicano in modo appropriato a Lui. Come afferma Damasceno nel “De Fide Orthodossa”, “Colui Che È” è il nome principale per indicare Dio; poiché comprende in sé tutto ciò che riguarda l’esistenza, questo nome rappresenta l’esistenza stessa come un oceano infinito e indeterminato di sostanza.  
+Infine, per il significato stesso del termine “esistenza”: questo nome indica l’esistenza presente, e questa caratteristica si applica in modo particolarmente appropriato a Dio, poiché la sua esistenza non conosce né passato né futuro, come afferma Agostino nel “De Trinitate”.
+
+Risposta all’Obiezione 1: Il nome “Colui Che È” è il nome di Dio in modo più appropriato rispetto al nome “Dio”, sia per quanto riguarda la sua origine, ovvero l’esistenza, sia per quanto riguarda il modo di significazione e di indicazione del divino, come già detto. Tuttavia, per quanto riguarda l’oggetto che tale nome intende designare, il nome “Dio” è ancora più appropriato, poiché viene utilizzato per indicare la natura divina; ancora più appropriato, poi, è il Tetragramma, che viene impiegato per indicare la sostanza stessa di Dio, qualcosa di incommunicabile e, per così dire, unico.
+
+Risposta all’Obiezione 2: Questo nome “bene” è il nome principale di Dio nel senso in cui Egli è una causa, ma non assolutamente; infatti, l’esistenza considerata in modo assoluto precede l’idea di causa.
+
+Risposta all’Obiezione 3: Non è necessario che tutti i nomi divini implichino una relazione con le creature; basta che siano attribuiti in base a alcune perfezioni che derivano da Dio verso le creature. Tra queste, la prima è l’esistenza, da cui deriva il nome “Colui Che Esiste”.
 
 <span class="atom-split" data-atom="083" data-title="Whether affirmative propositions can be formed about God?" data-chapter="Whether affirmative propositions can be formed about God?" data-kind="atom" data-srclang="en"></span>
 
@@ -4180,6 +5432,24 @@ immaterial. Likewise, when it understands simple things above itself, it underst
 to its own mode, which is in a composite manner; yet not so as to understand them to be composite
 things. And thus our intellect is not false in forming composition in its ideas concerning God.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia possibile formulare proposizioni affermative su Dio. Infatti, Dionisio afferma nel “Coelum Hierarchicum” II che “le negazioni su Dio sono vere; ma le affermazioni su di Lui risultano vaghe”.
+
+Obiezione 2: Inoltre, Boezio afferma nel “De Trinitate” II che “una forma semplice non può essere soggetto”. Ma Dio è la forma più assolutamente semplice, come dimostrato nella domanda [3]; pertanto non può essere considerato un soggetto. Tuttavia, tutto ciò su cui si formula una proposizione affermativa viene considerato soggetto; quindi non è possibile formulare una proposizione affermativa su Dio.
+
+Obiezione 3: Inoltre, ogni intelletto è falso se comprende qualcosa in modo diverso da come essa realmente è. Ma Dio esiste senza alcuna composizione, come dimostrato sopra (Q[3], A[7]). Pertanto, poiché ogni intelletto affermativo comprende le cose come composte, ne consegue che non è possibile formulare una proposizione affermativa vera su Dio.
+
+Al contrario, ciò che riguarda la fede non può essere falso. Tuttavia alcune proposizioni affermative rientrano nell’ambito della fede; ad esempio, che Dio sia Tre e Uno, o che sia onnipotente. Pertanto, è possibile formulare proposizioni affermative vere su Dio.
+
+Rispondo che si possono formulare proposizioni affermative vere su Dio. Per dimostrarlo, dobbiamo comprendere che in ogni proposizione affermativa vera il predicato e il soggetto indicano, in qualche modo, la stessa cosa nella realtà, ma cose diverse nell’idea. Ciò sembra valere sia per le proposizioni che contengono un predicato accidentale, sia per quelle che ne contengono uno essenziale. È infatti evidente che “uomo” e “bianco” indicano la stessa cosa come soggetto, ma cose diverse nell’idea: l’idea di uomo è una cosa, mentre quella di bianchezza ne è un’altra. Lo stesso vale quando si afferma “l’uomo è un animale”: ciò che è l’uomo è effettivamente un animale; nel medesimo soggetto esistono infatti la natura sensibile, che lo rende animale, e la natura razionale, che lo rende uomo; quindi anche in questo caso predicato e soggetto indicano la stessa cosa come “soggetto”, ma cose diverse nell’idea. Tuttavia, nelle proposizioni in cui lo stesso soggetto è predicato di sé stesso, questa regola si applica in qualche modo: l’intelletto attribuisce al soggetto ciò che riconosce nella sua natura; ciò che attribuisce al predicato, invece, corrisponde alla natura specifica di quel soggetto. A questa diversità nell’idea corrisponde la pluralità di predicato e soggetto, mentre l’intelletto rappresenta l’unità della cosa attraverso la composizione dei suoi elementi. Dio, tuttavia, considerato in sé stesso, è completamente uno e semplice; nondimeno il nostro intelletto lo conosce attraverso diverse concezioni, poiché non può vederlo così com’è realmente. Pur comprendendolo sotto diverse forme, sappiamo che si tratta sempre dello stesso essere semplice. Pertanto, la pluralità di predicato e soggetto riflette la diversità delle nostre concezioni; l’intelletto, invece, rappresenta l’unità della realtà stessa attraverso la sua composizione logica.
+
+Risposta all’Obiezione 1: Dionigi afferma che le affermazioni su Dio siano vaghe o, secondo un’altra traduzione, “incongrue”, poiché nessun nome può essere applicato a Dio in base al suo modo di significazione.
+
+Risposta all’Obiezione 2: Il nostro intelletto non è in grado di comprendere le forme semplici così come realmente sono in sé stesse; le percepisce invece come entità composte, nelle quali vi è qualcosa che funge da soggetto e qualcos’altro che è intrinseco a tale soggetto. Pertanto, il nostro intelletto considera la forma semplice come un soggetto e le attribuisce altre caratteristiche.
+
+Risposta all’Obiezione 3: La proposizione “L’intelletto che comprende qualcosa diversamente da come essa è, è falso” può essere interpretata in due modi, a seconda che l’avverbio “diversamente” si riferisca alla cosa compresa o a colui che la comprende. Se intesa riguardo alla cosa compresa, la proposizione è vera: qualsiasi intelletto che riconosca che una cosa è diversa da come essa è, in realtà sta fraintendendo quella cosa. Tuttavia, questo non vale nel caso di Dio; il nostro intelletto, infatti, quando formula proposizioni su Dio, non afferma che Egli sia composto, ma che sia semplice. Se invece l’avverbio “diversamente” si riferisce a colui che comprende, la proposizione è falsa: il modo in cui l’intelletto comprende le cose è diverso dal modo in cui tali cose esistono nella loro essenza. È chiaro, infatti, che il nostro intelletto comprende le cose materiali in modo immateriale; non significa che queste cose siano immateriali in sé, ma che il modo con cui le comprendiamo è di natura immateriale. Allo stesso modo, quando l’intelletto comprende le cose semplici – che sono superiori a esso per natura – lo fa secondo i propri principi logici, che sono di natura composta; tuttavia, questo non significa che tali cose siano effettivamente composte. Pertanto, il nostro intelletto non commette errori quando formula concetti di composizione riguardo a Dio.
+
 <span class="atom-split" data-atom="084" data-title="OF GOD'S KNOWLEDGE (SIXTEEN ARTICLES)" data-chapter="OF GOD'S KNOWLEDGE (SIXTEEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Having considered what belongs to the divine substance, we have now to treat of God's operation.
@@ -4207,6 +5477,26 @@ Concerning knowledge, there are sixteen points for inquiry:
 (14) Whether He knows enunciable things?
 (15) Whether the knowledge of God is variable?
 (16) Whether God has speculative or practical knowledge of things?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo aver considerato ciò che appartiene alla sostanza divina, dobbiamo ora trattare dell’operazione di Dio. Poiché un tipo di operazione è immanente, mentre un altro tipo conduce a effetti esterni, inizieremo analizzando la conoscenza e la volontà (poiché la comprensione risiede nell’agente intelligente, mentre la volontà appartiene a colui che desidera); successivamente esamineremo il potere di Dio, principio dell’operazione divina che conduce agli effetti esterni. Poiché comprendere rappresenta un certo tipo di attività intellettuale, dopo aver discusso della conoscenza divina, considereremo la verità e la falsità. Inoltre, poiché tutto ciò che viene conosciuto esiste nell’individuo che conosce, e i modelli delle cose, essendo presenti nella conoscenza di Dio, vengono chiamati “idee”, all’esame della conoscenza verrà aggiunto anche l’analisi delle idee. Per quanto riguarda la conoscenza, vi sono sedici punti da esaminare:  
+(1) Esiste conoscenza in Dio?  
+(2) Dio comprende se stesso?  
+(3) Comprende completamente se stesso?  
+(4) La sua comprensione fa parte della sua sostanza?  
+(5) Comprende anche altre cose oltre a sé stesso?  
+(6) Le conosce realmente, in modo appropriato?  
+(7) La conoscenza di Dio è di natura discorsiva?  
+(8) La conoscenza di Dio è la causa delle cose?  
+(9) Godisce della conoscenza di cose che non esistono?  
+(10) Conosce il male?  
+(11) Conosce le cose individuali?  
+(12) Conosce l’infinito?  
+(13) Conosce le cose future e contingenti?  
+(14) Conosce le cose che possono essere enunciate?  
+(15) La conoscenza di Dio è variabile nel tempo?  
+(16) Godisce di una conoscenza speculativa o pratica delle cose?
 
 <span class="atom-split" data-atom="085" data-title="Whether there is knowledge [*Scientia]?" data-chapter="Whether there is knowledge [*Scientia]?" data-kind="atom" data-srclang="en"></span>
 
@@ -4262,6 +5552,24 @@ thing known is in the knower according to the mode of the knower. Now since the 
 divine essence is higher than that of creatures, divine knowledge does not exist in God after the
 mode of created knowledge, so as to be universal or particular, or habitual, or potential, or existing
 according to any such mode.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che in Dio non esista conoscenza. Poiché la conoscenza è una [abitudine](/concepts/custom), e un’abitudine non appartiene a Dio, essendo essa il mezzo tra la [potenzialità](/concepts/act_potency) e l’atto. Pertanto, la conoscenza non è presente in Dio.
+
+Obiezione 2: Inoltre, poiché la scienza riguarda conclusioni, essa rappresenta un tipo di conoscenza che deriva da qualcos’altro, ovvero dalla conoscenza dei principi fondamentali. Ma nulla viene “causato” in Dio; pertanto, nemmeno la scienza esiste in Dio.
+
+Obiezione 3: Inoltre, ogni conoscenza è o universale o particolare. Ma in Dio non esistono né concetti universali né particolari (Q[3], A[5]). Pertanto, in Dio non esiste alcuna conoscenza.
+
+Al contrario, l’Apostolo dice: “Oh, quanto sono profonde le ricchezze della saggezza e della conoscenza di Dio!” (Roma 11:33).
+
+Rispondo che in Dio esiste la conoscenza più perfetta. Per dimostrarlo, dobbiamo notare che gli esseri intelligenti si distinguono da quelli non intelligenti perché questi ultimi possiedono soltanto la propria forma; mentre l’essere intelligente è naturalmente adatto a possedere anche la forma di qualche altra cosa, poiché l’idea della cosa conosciuta risiede nel conoscitore. È quindi evidente che la natura di un essere non intelligente sia più ristretta e limitata; mentre quella degli esseri intelligenti presenta una maggiore ampiezza ed estensione. Per questo motivo il Filosofo afferma (nel De Anima iii) che “l’anima, in un certo senso, è tutte le cose”. Ora, la ristrettezza della forma deriva dalla materia; pertanto, come abbiamo detto sopra (Q[7], A[1]), le forme, quanto più immateriali sono, si avvicinano di più a una sorta di [infinito](/concepts/infinity). È quindi chiaro che l’immaterialità di una cosa è la ragione per cui essa possiede capacità cognitive; e il modo in cui questa immaterialità si manifesta determina anche il modo stesso della conoscenza. Per questo motivo, nel De Anima ii si afferma che le piante non conoscono nulla, poiché sono interamente materiali. Ma i sensi sono capaci di percepire immagini prive di materia; l’intelletto, invece, è ancora più potente nella conoscenza, poiché è maggiormente separato dalla materia e non mescolato con essa, come si legge nel De Anima iii. Poiché Dio possiede il grado più elevato di immaterialità (come detto sopra), ne consegue che occupi il posto più alto nella gerarchia della conoscenza.
+
+Risposta all’Obiezione 1: Poiché le perfezioni che discendono da Dio verso le creature esistono in uno stato più elevato proprio in Dio stesso (Q[4], A[2]), ogni volta che un nome derivante da una qualche perfezione creata viene attribuito a Dio, esso deve essere separato, nel suo significato, da tutto ciò che appartiene a quel modo imperfetto proprio delle creature. Pertanto, la conoscenza non è una qualità di Dio, né un’abitudine; bensì sostanza e atto puro.
+
+Risposta all’Obiezione 2: Quanto è divisibile e moltiplicabile nelle creature esiste in Dio in modo semplice ed unitario (Q[13], A[4]). L’uomo, invece, possiede diversi tipi di conoscenza, a seconda degli oggetti che ne sono l’oggetto. Ha “intelligenza” quando conosce i principi; ha “scienza” quando conosce le conclusioni; ha “saggezza” quando comprende la causa suprema; ha “consiglio” o “prudenza” quando sa ciò che deve essere fatto. Ma Dio conosce tutto ciò attraverso un unico atto di conoscenza, come verrà dimostrato in seguito (A[7]). Pertanto, la conoscenza semplice di Dio può essere designata con tutti questi [nomi](/positions/nominalism); tuttavia, in ciascuno di essi deve essere eliminato tutto ciò che ha un carattere di imperfezione, mentre tutto ciò che esprime perfezione deve essere conservato. Da qui il detto: “Con Lui sono sapienza e forza; egli possiede consiglio e intelligenza” (Job 12:13).
+
+Risposta all’Obiezione 3: La conoscenza è determinata dal modo di chi conosce; infatti, la cosa conosciuta esiste nel conoscitore secondo il modo stesso del conoscitore. Poiché il modo dell’essenza divina è superiore a quello delle creature, la conoscenza divina non esiste in Dio secondo i modi della conoscenza creata – né universale, né particolare, né abituale, né potenziale, né esistente secondo alcuno di questi modi.
 
 <span class="atom-split" data-atom="086" data-title="Whether God understands Himself?" data-chapter="Whether God understands Himself?" data-kind="atom" data-srclang="en"></span>
 
@@ -4331,6 +5639,24 @@ understanding, and by this act knows the intellectual faculty. But God is a pure
 existence, as also in the order of intelligible objects; therefore He understands Himself through
 Himself.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non si comprenda da solo. Infatti, il Filosofo (nei “De Causis”) afferma: “Ogni conoscitore che conosce la propria essenza ritorna completamente alla propria essenza.” Ma Dio non deriva dalla propria essenza, né viene in alcun modo influenzato da essa; pertanto non può ritornare alla propria essenza. Quindi, Dio non conosce la propria essenza.
+
+Obiezione 2: Inoltre, comprendere è un tipo di attività mentale e di movimento, come afferma il Filosofo nel De [Anima](/concepts/soul) iii; la conoscenza, inoltre, rappresenta una sorta di assimilazione all’oggetto conosciuto, e l’oggetto conosciuto costituisce la perfezione del conoscitore. Tuttavia, nulla può muoversi, soffrire o raggiungere la perfezione da solo; “né”, come dice Sant’Ilario nel De Trinitate iii, “qualcosa può essere la propria immagine”. Pertanto, Dio non si comprende da sé stesso.
+
+Obiezione 3: Inoltre, siamo simili a Dio soprattutto nel nostro intelletto, poiché siamo l’immagine di Dio nella nostra mente, come afferma [Agostino](/figures/augustine) (Genesi ad litteram vi). Tuttavia il nostro intelletto si comprende soltanto nel momento in cui comprende altre cose, come si dice nel De Anima iii. Pertanto, forse Dio si comprende soltanto nella misura in cui comprende altre cose.
+
+Al contrario, è scritto: “Le cose che appartengono a Dio nessuno le conosce, se non lo Spirito di Dio” (1 Corinzi 2:11).
+
+Rispondo che Dio si comprende attraverso Se Stesso. A dimostrazione di ciò, è necessario sapere che, sebbene nelle operazioni che producono un effetto esterno l’oggetto dell’operazione esista al di fuori dell’operatore, nelle operazioni che rimangono all’interno dell’operatore stesso, l’oggetto significato come termine dell’operazione risiede nell’operatore; e poiché tale oggetto è effettivamente presente nell’operatore, anche l’operazione stessa è reale. Per questo motivo il Filosofo afferma nel “De Anima” (III) che “ciò che è sensibile in atto è senso in atto, e ciò che è intelligibile in atto è intelletto in atto”. Il motivo per cui percepiamo o conosciamo effettivamente qualcosa è perché il nostro intelletto o senso vengono effettivamente informati dalle specie sensibili o intelligibili. E proprio per questo motivo, si può affermare che senso o intelletto siano distinti dall’oggetto sensibile o intelligibile, poiché entrambi esistono in potenzialità. Poiché Dio non possiede nulla di potenziale in Sé, ma è pura attività, il Suo intelletto e l’oggetto di tale intelletto sono completamente identici; quindi Dio non è privo delle specie intelligibili, come avviene nel nostro intelletto quando comprende in modo potenziale; né le specie intelligibili differiscono dalla sostanza dell’intelletto divino, come avviene nel nostro intelletto quando comprende in modo reale. La stessa specie intelligibile è infatti l’intelletto divino stesso; ed è per questo che Dio si comprende attraverso Se Stesso.
+
+Risposta all’Obiezione 1: “Tornare alla propria essenza” significa semplicemente che una cosa esiste in sé stessa. Poiché la forma perfeziona la materia conferendole l’esistenza, essa è, in un certo senso, diffusa al suo interno; tuttavia, torna a se stessa nel momento in cui possiede già l’esistenza in sé. Pertanto, quelle facoltà cognitive che non sono entità autonome, ma semplicemente atti degli organi sensoriali, non si conoscono da sole, come avviene per i sensi; al contrario, quelle facoltà cognitive che sono entità autonome si conoscono effettivamente. Per questo motivo, nel “De Causis” si afferma: “Chi conosce la propria essenza vi ritorna”. Ora, poiché Dio è per eccellenza un essere autosufficiente, secondo questo modo di esprimersi, Lui stesso ritorna alla propria essenza e se ne rende conto pienamente.
+
+Risposta all’Obiezione 2: Il concetto di movimento e di passione viene inteso in modo equivoco, a seconda che l’intendere venga descritto come un tipo di movimento o di passione, come affermato nel De Anima III. Infatti, intendere non è un movimento che consiste nell’atto di qualcosa di imperfetto che passa da uno stato all’altro, ma è un atto che esiste direttamente nell’intelletto stesso e riguarda qualcosa di perfetto. Allo stesso modo, il fatto che l’intelletto venga perfezionato dall’oggetto intelligibile, cioè venga assimilato ad esso, si riferisce a un intelletto che talvolta si trova in uno stato potenziale; poiché tale stato lo differenzia dall’oggetto intelligibile e lo assimila attraverso la specie intelligibile, che rappresenta l’immagine dell’oggetto stesso, permettendogli così di essere perfezionato. D’altra parte, l’intelletto divino, che in nessun modo si trova in uno stato potenziale, non viene né perfezionato dall’oggetto intelligibile né vi viene assimilato; esso è invece la propria perfezione e il proprio oggetto intelligibile.
+
+Risposta all’Obiezione 3: L’esistenza nella natura non appartiene alla materia primaria, che è una potenzialità, a meno che questa non venga ridotta all’atto attraverso una forma. Ora il nostro intelletto passivo ha lo stesso rapporto con gli oggetti intelligibili che la materia primaria ha con le cose naturali; infatti, l’intelletto passivo è in potenzialità riguardo agli oggetti intelligibili, proprio come la materia primaria lo è rispetto alle cose naturali. Pertanto, il nostro intelletto passivo può essere messo in atto riguardo agli oggetti intelligibili soltanto nella misura in cui viene perfezionato dalle specie intelligenti di tali oggetti; e in questo modo si comprende attraverso tali specie, proprio come comprende le altre cose. È infatti evidente che, conoscendo un oggetto intelligibile, si comprende anche il proprio atto di comprensione, e attraverso tale atto si conosce la facoltà intellettiva stessa. Ma Dio è un puro atto sia nell’ordine dell’esistenza che in quello degli oggetti intelligibili; pertanto Egli si comprende attraverso Sé stesso.
+
 <span class="atom-split" data-atom="087" data-title="Whether God comprehends Himself?" data-chapter="Whether God comprehends Himself?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God does not comprehend Himself. For [Augustine](/figures/augustine) says (Octog. Tri.
@@ -4371,6 +5697,20 @@ Reply to Objection 2: When it is said, "God is finite to Himself," this is to be
 according to a certain similitude of proportion, because He has the same relation in not exceeding
 His intellect, as anything finite has in not exceeding finite intellect. But God is not to be called
 finite to Himself in this sense, as if He understood Himself to be something finite.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non si comprenda stesso. Infatti, [Agostino](/figures/augustine) afferma nell’Octogastus Tripartitum, Questioni XV, che “quello che si comprende da sé è finito in relazione a se stesso”. Ma Dio è infinito sotto ogni aspetto; pertanto non si comprende stesso.
+
+Obiezione 2: Se si afferma che Dio sia infinito per noi e finito per Sé stesso, si può sostenere il contrario, ovvero che tutto in Dio sia più vero di quanto lo sia in noi. Pertanto, se Dio è finito per Sé stesso ma infinito per noi, allora Dio è più veramente finito che infinito; il che contraddice quanto stabilito in precedenza (Q[7], A[1]). Quindi, Dio non comprende Sé stesso.
+
+Al contrario, Agostino afferma nell’Octogastus Tripartitus, questione XV, che “tutto ciò che si comprende da sé stesso, lo comprende pienamente”. Ma Dio si comprende da sé stesso; pertanto, Lo comprende completamente.
+
+Rispondo che Dio comprende perfettamente Se stesso, come può essere dimostrato in questo modo. Si dice che una cosa sia compresa quando si raggiunge la fine della conoscenza di essa, e ciò avviene quando essa viene conosciuta nella misura in cui è realmente conoscibile; ad esempio, un’affermazione dimostrabile è compresa quando viene conosciuta attraverso una dimostrazione, e non invece quando viene conosciuta tramite ragionamenti probabili. Ora è evidente che Dio conosce Se stesso nella misura in cui Egli è perfettamente conoscibile. Infatti, tutto è conoscibile secondo il modo della propria [realtà](/concepts/act_potency); poiché una cosa non viene conosciuta per ciò che è in potenzialità, ma soltanto per ciò che è in realtà, come si afferma nella Metafisica IX. Ora, il potere di Dio nel conoscere è tanto grande quanto la Sua realtà nell’esistere; poiché è proprio dal fatto che Egli esiste realmente e è libero da ogni materia e potenzialità che Dio possiede la capacità di conoscere, come è stato dimostrato sopra (AA[1],2). Da ciò si evince chiaramente che Dio conosce Se stesso nella misura in cui Egli è conoscibile; ed è proprio per questo motivo che comprende perfettamente Se stesso.
+
+Risposta all’Obiezione 1: Il significato stretto di “comprensione” indica che una cosa contiene un’altra; e in questo senso tutto ciò che viene compreso è finito, così come tutto ciò che è contenuto in un’altra cosa. Tuttavia, non si può dire che Dio sia “compresso” da Sé stesso in questo senso, come se il Suo intelletto fosse una facoltà separata da Lui e come se esso contenesse o includesse Lui stesso; poiché questi modi di esprimersi vanno intesi in senso negativo. Ma poiché si dice che Dio è “in Sé stesso”, nel senso che non è contenuto da nulla al di fuori di Sé, si può anche dire che Egli è “compresso” da Sé stesso, nel senso che nulla all’interno di Lui è nascosto a Lui stesso. Infatti Agostino afferma (De Videndo Deum, ep. cxii): “Il tutto viene compreso quando viene visto, purché venga visto in modo tale che nulla di esso rimanga nascosto a chi lo osserva”.
+
+Risposta all’Obiezione 2: Quando si afferma che “Dio è finito rispetto a Sé stesso”, ciò deve essere inteso secondo una certa analogia di proporzione; infatti, Egli ha lo stesso rapporto nel non superare i limiti del proprio intelletto, come qualsiasi cosa finita ha nel non superare i limiti dell’intelletto finito. Tuttavia, Dio non deve essere considerato finito rispetto a Sé stesso in questo senso, come se Egli si comprendesse come qualcosa di finito.
 
 <span class="atom-split" data-atom="088" data-title="Whether the act of God's intellect is His substance?" data-chapter="Whether the act of God's intellect is His substance?" data-kind="atom" data-srclang="en"></span>
 
@@ -4477,6 +5817,26 @@ but His own essence in which all images of things are comprehended. Hence it doe
 the divine intellectual act, or rather God Himself, is specified by anything else than the divine
 essence itself.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non conosca nulla al di fuori di Sé stesso. Poiché tutte le cose, tranne Dio, esistono al di fuori di Lui. Ma [Agostino](/figures/augustine) afferma (Octog. Tri. Quaest. qu. xlvi) che “Dio non contempla nulla al di fuori di Sé stesso”. Pertanto, non conosce nulla al di fuori di Sé stesso.
+
+Obiezione 2: Inoltre, l’oggetto della comprensione è la perfezione di colui che comprende. Pertanto, se Dio comprendesse altre cose oltre a Sé stesso, qualcos’altro costituirebbe la sua perfezione e sarebbe più nobile di Lui; il che è impossibile.
+
+Obiezione 3: Inoltre, l’atto di comprendere è determinato dall’oggetto comprensibile, così come ogni altro atto è determinato dal proprio oggetto. Pertanto, più nobile è l’oggetto compreso, più nobile è anche l’atto intellettuale che lo riguarda. Ma Dio è il proprio atto intellettuale. Se quindi Dio comprendesse qualcosa di diverso da Sé stesso, allora Dio stesso sarebbe determinato da qualcosa di diverso da Sé stesso; il che è impossibile. Pertanto, Dio non comprende cose diverse da Sé stesso.
+
+Al contrario, è scritto: “Tutte le cose sono nude e scoperte ai suoi occhi” (Ebrei 4:13).
+
+Rispondo che Dio necessariamente conosce cose diverse da Sé stesso. È infatti evidente che Egli comprenda perfettamente Sé stesso; altrimenti la Sua esistenza non sarebbe perfetta, poiché la Sua esistenza stessa è il Suo atto di comprensione. Ora, se qualcosa viene conosciuto in modo perfetto, ne consegue necessariamente che anche la sua potenza venga conosciuta in modo perfetto. Ma la potenza di qualcosa può essere conosciuta in modo perfetto soltanto conoscendo a cosa si estende tale potenza. Poiché dunque la potenza divina si estende ad altre cose, proprio perché essa è la prima causa efficace di tutte le cose – come risulta chiaramente dal discorso precedente (Q[2], A[3]) – Dio deve necessariamente conoscere cose diverse da Sé stesso. E ciò appare ancora più evidente se si aggiunge che ogni esistenza della prima causa efficace, cioè di Dio, è il Suo stesso atto di comprensione. Pertanto, qualsiasi effetto preesista in Dio, come nella prima causa, deve trovarsi nell’atto di comprensione del Dio stesso; e tutte le cose devono esistere in Lui secondo un modo intelligibile: poiché tutto ciò che è in un altro essere esiste in esso secondo il modo con cui tale essere lo contiene.  
+Ora, per comprendere come Dio conosca cose diverse da Sé stesso, dobbiamo considerare che una cosa viene conosciuta in due modi: in sé stessa e in un altro essere. Una cosa viene conosciuta in sé stessa quando viene compresa attraverso la specie propria adeguata all’oggetto conoscibile; ad esempio, quando l’occhio vede un uomo attraverso l’immagine di quell’uomo stesso. Una cosa viene invece conosciuta in un altro essere attraverso l’immagine di ciò che la contiene; ad esempio, quando una parte viene vista nel tutto attraverso l’immagine del tutto stesso, o quando un uomo viene visto nello specchio attraverso l’immagine riflessa.  
+Diciamo quindi che Dio vede Sé stesso in Sé stesso, poiché lo vede attraverso la Sua essenza; e vede altre cose non in esse stesse, ma in Sé stesso, poiché la Sua essenza contiene la “similitudine” di cose diverse da Sé stesso.
+
+Risposta all’Obiezione 1: Il passaggio di Agostino nel quale si afferma che Dio “non vede nulla al di fuori di Sé” non deve essere inteso nel senso che Dio non vedesse assolutamente nulla al di fuori di Sé, ma piuttosto nel senso che ciò che è al di fuori di Lui non viene percepito da Lui se non attraverso Sé stesso, come spiegato in precedenza.
+
+Risposta all’Obiezione 2: L’oggetto inteso è una perfezione di colui che comprende, non attraverso la sua sostanza, ma attraverso la sua immagine, secondo cui tale oggetto esiste nell’intelletto come sua forma e sua perfezione, come si afferma nel De [Anima](/concepts/soul) iii. Infatti, “una pietra non è nell’anima, ma la sua immagine”. Ora, quelle cose che sono diverse da Dio vengono comprese da Dio stesso, poiché l’essenza di Dio contiene le loro immagini, come spiegato in precedenza; pertanto, non segue affatto che nell’intelletto divino esista alcuna perfezione diversa dall’essenza stessa di Dio.
+
+Risposta all’Obiezione 3: L’atto intellettuale non è determinato da ciò che viene compreso in un altro contesto, ma dall’oggetto principale che viene inteso, attraverso il quale vengono comprese altre cose. Infatti, l’atto intellettuale è definito dal proprio oggetto, poiché la forma intelligibile rappresenta il principio stesso dell’operazione intellettiva; ogni operazione, infatti, è determinata dalla forma che ne costituisce il principio di funzionamento – come, ad esempio, il riscaldamento è determinato dal calore. Pertanto, l’operazione intellettuale è definita da quella forma intelligibile che rende l’intelletto attivo; tale forma corrisponde all’immagine dell’oggetto principale che viene compreso, e in Dio questa immagine non è altro che la Sua stessa essenza, nella quale sono contenute tutte le immagini delle cose. Da ciò non segue affatto che l’atto intellettuale divino, o meglio Dio stesso, sia determinato da qualcosa di diverso dalla sua essenza divina.
+
 <span class="atom-split" data-atom="090" data-title="Whether God knows things other than Himself by proper knowledge?" data-chapter="Whether God knows things other than Himself by proper knowledge?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God does not know things other than Himself by proper knowledge.
@@ -4572,6 +5932,28 @@ Reply to Objection 3: The same thing cannot be taken in an equal manner as the r
 different things. But the divine essence excels all creatures. Hence it can be taken as the proper
 ration of each thing according to the diverse ways in which diverse creatures participate in, and
 imitate it.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non conosca le cose al di fuori di Sé stesso attraverso una conoscenza propria e specifica.  
+Infatti, come è stato dimostrato (A[5]), Dio conosce le cose al di fuori di Sé stesso nella misura in cui queste esistono in Lui stesso.  
+Ma tali cose esistono in Lui soltanto come causa comune e universale; quindi Dio le conosce in questo senso, cioè attraverso una conoscenza generale e non propria.  
+Pertanto, Dio conosce le cose al di fuori di Sé stesso mediante una conoscenza generale, e non propria.
+
+Obiezione 2: Inoltre, l’essenza creata è tanto distante dall’essenza divina quanto quest’ultima lo è dall’essenza creata. Ma, come detto sopra (Q[12]/A[2]), l’essenza divina non può essere conosciuta dall’essenza creata; pertanto nemmeno l’essenza creata può essere conosciuta dall’essenza divina. Quindi, poiché Dio conosce soltanto attraverso la Sua essenza, ne consegue che Egli non conosce ciò che la creatura è nella sua essenza, e quindi non può conoscere “ciò che essa è”, cioè non può averne una vera e propria comprensione.
+
+Obiezione 3: Inoltre, la vera conoscenza di una cosa può derivare soltanto attraverso il suo rapporto specifico e proprio. Ma poiché Dio conosce tutte le cose per essenza sua, sembra che non le conosca attraverso il loro rapporto specifico e proprio; infatti, una cosa non può essere il rapporto specifico di molte cose diverse tra loro. Pertanto, Dio non possiede una vera conoscenza delle cose, ma soltanto una conoscenza generale; poiché conoscere le cose altrimenti che attraverso il loro rapporto specifico e proprio significa avere di esse soltanto una conoscenza comune e generale.
+
+Al contrario, conoscere veramente le cose significa comprenderle non solo in termini generali, ma anche nel modo in cui sono distinte l’una dall’altra. Dio conosce le cose proprio in questo modo. Per questo si dice che Egli “arriva fino alla divisione dell’anima dallo spirito, delle ossa e del midollo; conosce i pensieri e le intenzioni del cuore; non c’è alcuna creatura invisibile ai Suoi occhi” (Ebrei 4:12-13).
+
+Rispondo che alcuni hanno commesso errori su questo punto, affermando che Dio conosca le cose al di fuori di Sé soltanto in modo generale, cioè solo come entità. Infatti, così come il fuoco, se conoscesse la natura del calore e tutte le altre cose nella misura in cui sono calde; allo stesso modo Dio, conoscendosi come principio dell’essere, conosce la natura dell’essere e tutte le altre cose nella misura in cui sono entità. Ma ciò è impossibile: conoscere qualcosa in modo generale e non particolare significa possedere una conoscenza imperfetta. Pertanto, il nostro intelletto, quando passa dalla [potenzialità](/concepts/act_potency) all’azione, acquisisce prima una conoscenza universale e confusa delle cose, prima di conoscerle in modo specifico; procedendo cioè dall’imperfetto al perfetto, come è chiaro nella Fisica I. Se quindi la conoscenza di Dio riguardo alle cose al di fuori di Sé fosse soltanto universale e non particolare, ne conseguirebbe che la Sua intelligenza non sarebbe assolutamente perfetta; di conseguenza nemmeno il Suo essere lo sarebbe; e ciò è in contraddizione con quanto detto sopra (Q[4], A[1]). Dobbiamo quindi ritenere che Dio conosca le cose al di fuori di Sé in modo appropriato; non solo nella misura in cui l’essere è comune a tutte, ma anche nella misura in cui una cosa si distingue dall’altra. A dimostrazione di ciò, alcuni, volendo dimostrare che Dio conosce molte cose attraverso una sola, adducono esempi come quello del centro che, conoscendosi, conoscerrebbe tutte le linee che partono da esso; o della luce che, conoscendosi, conoscerrebbe tutti i colori. Tuttavia questi esempi, sebbene simili in parte – cioè riguardo alla causalità universale – falliscono in questo aspetto: la molteplicità e la diversità sono infatti causate da un principio universale, ma non riguardo a ciò che costituisce il fondamento della distinzione tra le cose, bensì soltanto riguardo a ciò in cui queste cose si comunicano tra loro. La diversità dei colori, ad esempio, non è causata solo dalla luce, ma anche dalla diversa disposizione del mezzo trasparente che la riceve; allo stesso modo, la diversità delle linee è causata dalla loro posizione differente. Pertanto, questo tipo di molteplicità e diversità non può essere conosciuto nel suo principio in modo appropriato, ma solo in modo generale. In Dio, invece, le cose stanno al contrario: come è stato dimostrato sopra (Q[4], A[2]), qualsiasi perfezione esista in una creatura esiste già interamente e in modo eccellente in Dio. Ora, non solo ciò che è comune alle creature – cioè l’essere – appartiene alla loro perfezione, ma anche ciò che le distingue l’una dall’altra: come la vita e l’intelligenza, grazie alle quali gli esseri viventi si distinguono da quelli inanimati, e gli intelligenti da quelli non intelligenti. Allo stesso modo, ogni forma attraverso cui ciascuna cosa è costituita nella sua specie rappresenta una perfezione; quindi tutte le cose esistono già in Dio, non solo riguardo a ciò che è comune a tutte, ma anche riguardo a ciò che distingue una cosa dall’altra. E poiché Dio contiene in Sé tutte le perfezioni, l’essenza di Dio può essere paragonata a.
+Le altre essenze delle cose non vanno considerate come ciò che è comune a quelle specifiche, come l’unità lo è ai numeri, o il centro di un cerchio alle linee che da esso si irradiano; ma piuttosto come atti perfetti rispetto ad atti imperfetti. È come se paragonassi l’uomo all’animale, o il numero sei, che è un numero perfetto, ai numeri imperfetti che ne derivano. È evidente che, attraverso gli atti perfetti, gli atti imperfetti possono essere conosciuti non solo in modo generico, ma anche con una conoscenza specifica: ad esempio, chi conosce un uomo conosce anche l’animale che esso rappresenta; e chi conosce il numero sei conosce anche il numero tre. Poiché l’essenza di Dio contiene in sé tutta la perfezione presente nell’essenza di qualsiasi altro essere, e molto di più, Dio può conoscere tutti questi esseri con una conoscenza specifica. Infatti, la natura propria di ogni cosa consiste in un certo grado di partecipazione alla perfezione divina. Non si potrebbe dire che Dio conosca se stesso perfettamente, se non conoscesse tutti i modi in cui la sua stessa perfezione può essere condivisa dagli altri; né potrebbe conoscere appieno la natura stessa dell’essere, se non conoscesse tutti i modi di esistenza. Pertanto, è evidente che Dio conosce tutte le cose con una conoscenza specifica, nella loro distinzione reciproca.
+
+Risposta all’Obiezione 1: Quindi, conoscere una cosa così come essa è nel conoscente può essere inteso in due modi. In un certo senso, l’avverbio “così” indica il modo di conoscenza da parte del conoscente; e in questo caso è falso. Infatti, il conoscente non conosce sempre l’oggetto conosciuto secondo l’esistenza che esso ha nel conoscente stesso; ad esempio, l’occhio non conosce una pietra secondo l’esistenza che essa ha nell’occhio, ma attraverso l’immagine della pietra presente nell’occhio, l’occhio conosce la pietra secondo la sua esistenza al di fuori dell’occhio. E se un conoscente possiede una conoscenza dell’oggetto conosciuto secondo il modo di esistenza che esso ha nel conoscente stesso, ciò non impedisce comunque che egli lo conosca anche secondo il modo di esistenza che esso ha al di fuori del conoscente; in questo senso, l’intelletto conosce una pietra secondo l’esistenza intelligibile che essa ha nell’intelletto, poiché sa di comprenderla; e tuttavia conosce anche ciò che realmente è una pietra nella sua natura intrinseca. Se invece l’avverbio “così” viene inteso come indicante il modo di conoscenza da parte del conoscente, allora in questo senso è vero che soltanto il conoscente possiede una conoscenza dell’oggetto conosciuto così come esso è nel conoscente stesso; infatti, più perfettamente l’oggetto conosciuto è presente nel conoscente, più perfetto sarà anche il modo di conoscenza. Pertanto dobbiamo affermare che Dio non solo sa che tutte le cose sono in Lui, ma proprio perché esse sono in Lui, Le conosce nella loro natura intrinseca, e più perfettamente ancora, quanto più ciascuna di esse è perfetta in Lui.
+
+Risposta all’Obiezione 2: L’essenza creata viene paragonata all’essenza di Dio come ciò che è imperfetto rispetto a ciò che è perfetto. Pertanto, l’essenza creata non può condurci in modo sufficiente alla conoscenza dell’essenza divina, bensì il contrario.
+
+Risposta all’Obiezione 3: La stessa cosa non può essere considerata in modo equivalente rispetto alla proporzione tra cose diverse. Tuttavia, l’essenza divina supera tutte le creature; pertanto può essere considerata la vera “proporzione” propria di ciascuna cosa, in base ai diversi modi in cui le varie creature vi partecipano e la imitano.
 
 <span class="atom-split" data-atom="091" data-title="Whether the knowledge of God is discursive?" data-chapter="Whether the knowledge of God is discursive?" data-kind="atom" data-srclang="en"></span>
 
@@ -4716,6 +6098,25 @@ it is not necessary that what ever God knows, is, or was, or will be; but only i
 regards what He wills to be, or permits to be. Further, it is in the knowledge of God not that they
 be, but that they be possible.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non abbia conoscenza di ciò che non esiste. Poiché la conoscenza di Dio riguarda soltanto le cose reali. Ma “verità” ed “essere” sono termini interscambiabili; pertanto, la conoscenza di Dio non riguarda ciò che non esiste.
+
+Obiezione 2: Inoltre, la conoscenza richiede una somiglianza tra colui che conosce e ciò che viene conosciuto. Ma quelle cose che non esistono non possono avere alcuna somiglianza con Dio, che è l’essere stesso per antonomasia. Pertanto, ciò che non esiste non può essere conosciuto da Dio.
+
+Obiezione 3: Inoltre, la conoscenza di Dio è la causa di ciò che Egli conosce. Tuttavia, non può essere la causa di cose che non esistono, poiché una cosa che non esiste non ha alcuna causa. Pertanto, Dio non possiede conoscenza di cose che non esistono.
+
+Al contrario, l’Apostolo dice: “Chi chiama quelle cose che non sono tali come sono in realtà, ” (Roma 4:17).
+
+Rispondo che Dio conosce tutte le cose, qualunque esse siano. Ora è possibile che ciò che non esiste in modo assoluto possa esistere in un certo senso. Infatti, ciò che esiste in modo assoluto è ciò che è realmente reale; mentre ciò che non è realmente reale si trova sotto il potere di Dio stesso o di una creatura, sia in termini di capacità attiva che passiva, sia attraverso il pensiero, l’immaginazione o qualsiasi altro modo di percezione. Quindi, tutto ciò che può essere realizzato, pensato o detto da una creatura, così come tutto ciò che Dio stesso può fare, è conosciuto da Lui, anche se non esiste realmente. Si può quindi dire che Egli abbia conoscenza anche di cose che non esistono.  
+Ora, bisogna notare una certa differenza nel considerare quelle cose che non esistono realmente: sebbene alcune di esse al momento non siano reali, in passato lo sono state o lo saranno; e si dice che Dio le conosca attraverso la visione, poiché il suo atto di comprensione, che è la sua stessa essenza, è misurato dall’[eternità](/positions/eternity); e poiché l’eternità non ha successioni temporali e comprende tutto il tempo, lo sguardo di Dio si estende su tutto il tempo e su tutte le cose che esistono in qualsiasi momento, come se fossero oggetti presenti davanti a Lui. Tuttavia, ci sono altre cose che si trovano sotto il potere di Dio o della creatura, ma che non esistono, né esisteranno mai; e riguardo a queste, si dice che Dio le conosca non attraverso la visione, ma attraverso una semplice intelligenza. Si dice così perché le cose che vediamo intorno a noi hanno un’esistenza distinta rispetto a colui che le osserva.
+
+Risposta all’Obiezione 1: Le cose che non sono ancora realtà sono vere nella misura in cui esistono in [potenzialità](/concepts/act_potency); infatti, è vero che esse si trovano in questo stato di potenzialità; ed è proprio per questo motivo che sono conosciute da Dio.
+
+Risposta all’Obiezione 2: Poiché Dio è l’essere stesso, tutto esiste nella misura in cui partecipa alla somiglianza di Dio; così come tutto è “caldo” nella misura in cui partecipa al concetto di calore. Pertanto, le cose che esistono in potenza sono conosciute da Dio, anche se non esistono ancora in atto.
+
+Risposta all’Obiezione 3: La conoscenza di Dio, unita alla Sua volontà, è la causa delle cose. Pertanto, non è necessario che tutto ciò che Dio conosce esista, sia esistito o esisterà; ma ciò è necessario soltanto per quanto riguarda ciò che Egli vuole che esista o permette che esista. Inoltre, nella conoscenza di Dio non si tratta del fatto che le cose esistano, ma piuttosto del fatto che siano possibili.
+
 <span class="atom-split" data-atom="094" data-title="Whether God knows evil things?" data-chapter="Whether God knows evil things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God does not know evil things. For the Philosopher (De [Anima](/concepts/soul) iii)
@@ -4768,6 +6169,28 @@ Reply to Objection 4: To know a thing by something else only, belongs to imperfe
 if that thing is of itself knowable; but evil is not of itself knowable, forasmuch as the very nature
 of evil means the privation of good; therefore evil can neither be defined nor known except by
 good.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non conosca le cose malvagie. Infatti, il Filosofo (nei “De Anima”, III) afferma che l’intelletto che non si trova in uno stato di [potenzialità](/concepts/act_potency) non conosce la privazione; ma “il male è proprio la privazione del bene”, come dice [Agostino](/figures/augustine) (“Confessioni”, III, 7). Pertanto, poiché l’intelletto di Dio non si trova mai in uno stato di potenzialità, ma è sempre in atto – come risulta chiaramente da quanto detto in precedenza (A[2]) – sembra che Dio non conosca le cose malvagie.
+
+Obiezione 2: Inoltre, ogni conoscenza è o la causa della cosa conosciuta, oppure è essa stessa causata da quella cosa. Ma la conoscenza di Dio non è la causa del male, né è essa stessa causata dal male. Pertanto, Dio non conosce le cose malvagie.
+
+Obiezione 3: Inoltre, tutto ciò che è conosciuto lo è o in base alla sua somiglianza con qualcosa di già noto, oppure in base al suo opposto. Ma quanto Dio conosce, lo conosce attraverso la propria essenza, come risulta chiaramente dal passaggio precedente (A[5]). Ora, l’essenza divina né è simile al male, né il male è contrario ad essa; poiché per l’essenza divina non esiste alcun opposto, come afferma Agostino (De Civ. Dei xii). Pertanto, Dio non conosce le cose malvagie.
+
+Obiezione 4: Inoltre, ciò che viene conosciuto attraverso un altro mezzo e non direttamente attraverso se stesso è conosciuto in modo imperfetto. Ma il male non è conosciuto da Dio; infatti, ciò che viene conosciuto deve necessariamente esistere nell’essere che conosce. Pertanto, se il male fosse conosciuto da Dio attraverso qualcos’altro, cioè attraverso il bene, esso verrebbe conosciuto da Lui in modo imperfetto; il che è impossibile, poiché la conoscenza di Dio non è imperfetta. Quindi, Dio non conosce le cose malvagie.
+
+Al contrario, è scritto (Proverbi 15:11): “L’inferno e la distruzione si trovano davanti a Dio”.
+
+Rispondo che chi conosce perfettamente una cosa deve necessariamente conoscere anche tutto ciò che può essere considerato accidentale ad essa. Ora, esistono alcune cose buone le quali possono subire corruzione a causa del male; pertanto, Dio non potrebbe conoscere perfettamente le cose buone se non conoscesse anche le cose cattive. Poiché una cosa è conoscibile nella misura in cui esiste, e poiché l’essenza del male consiste proprio nella privazione del bene, è evidente che, dato che Dio conosce le cose buone, conosce anche quelle cattive; così come la luce permette di comprendere l’oscurità. Per questo motivo Dionigi afferma (Div. Nom. vii): “Dio riceve la visione dell’oscurità attraverso se stesso; non può vedere l’oscurità in altro modo se non attraverso la luce”.
+
+Risposta all’Obiezione 1: L’affermazione del Filosofo deve essere intesa nel senso che l’intelletto, che non è in potenza, non conosce la privazione attraverso quella che esiste in esso stesso; e ciò concorda con quanto egli ha detto in precedenza, ovvero che un punto e ogni cosa indivisibile vengono conosciuti attraverso la privazione della divisione. Ciò è dovuto al fatto che le forme semplici e indivisibili sono nell’intelletto nostro non in modo reale, ma solo potenziale; infatti, se fossero realmente presenti nell’intelletto, non verrebbero conosciute attraverso la privazione. È così che le cose semplici vengono conosciute grazie a sostanze distinte. Pertanto, Dio conosce il male non attraverso quella privazione che esiste in Lui stesso, ma attraverso il bene opposto.
+
+Risposta all’Obiezione 2: La conoscenza di Dio non è la causa del male, ma è la causa del bene attraverso il quale il male viene conosciuto.
+
+Risposta all’Obiezione 3: Sebbene il male non sia in contraddizione con l’essenza divina, che non può essere corrotta dal male stesso, esso è invece in contrasto con gli effetti di Dio, che Egli conosce attraverso la Sua essenza; e conoscendoli, Egli conosce anche i mali opposti a essi.
+
+Risposta all’Obiezione 4: Conoscere una cosa soltanto attraverso un’altra cosa appartiene a una conoscenza imperfetta, se quella cosa è in sé stessa conoscibile; ma il male non è in sé stesso conoscibile, poiché la natura stessa del male significa la privazione del bene; pertanto il male non può essere né definito né conosciuto se non attraverso il bene.
 
 <span class="atom-split" data-atom="095" data-title="Whether God knows singular things?" data-chapter="Whether God knows singular things?" data-kind="atom" data-srclang="en"></span>
 
@@ -4834,6 +6257,24 @@ both immaterial and material things.
 Reply to Objection 3: Although matter as regards its potentiality recedes from likeness to God,
 yet, even in so far as it has being in this wise, it retains a certain likeness to the divine being.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non conosca le cose singolari. Infatti, l’intelligenza divina è più immateriale di quella umana; e poiché l’intelligenza umana, a causa della sua natura immateriale, non conosce le cose singolari, come afferma il Filosofo nel “De Anima” ii (“La ragione si occupa degli [universali](/axes/universals), i sensi delle cose singolari”), ne consegue che anche Dio non conosca le cose singolari.
+
+Obiezione 2: Inoltre, in noi soltanto quelle facoltà conoscono i singolari, cioè quegli enti che ricevono le loro caratteristiche non in forma astratta, ma in relazione a condizioni materiali. Ma in Dio le cose sono al massimo grado separate da qualsiasi elemento materiale; pertanto, Dio non conosce gli enti singolari.
+
+Obiezione 3: Inoltre, ogni conoscenza si verifica attraverso il mezzo di qualche somiglianza. Tuttavia, la somiglianza delle cose singolari, in quanto tali, non sembra esistere in Dio; poiché il principio della singolarità è la materia, e questa, essendo soltanto in [potenzialità](/concepts/act_potency), è del tutto diversa da Dio, che è [atto puro](/concepts/actus_purus). Pertanto, Dio non può conoscere le cose singolari.
+
+Al contrario, è scritto (Proverbi 16:2): “Tutti i sentieri dell’uomo sono alla sua vista”.
+
+Rispondo che Dio conosce le cose singolari. Infatti, tutte le perfezioni presenti nelle creature esistono già in Dio in modo più elevato, come è chiaro dalle considerazioni precedenti (Q[4], A[2]). Ora, conoscere le cose singolari fa parte della nostra perfezione; pertanto, anche Dio deve conoscere le cose singolari. Anche il Filosofo ritiene incongruente che qualcosa conosciuto da noi possa essere sconosciuto a Dio; e quindi, contro Empedocle, sostiene (in “De Anima i” e “Metaph. iii”) che Dio sarebbe estremamente ignorante se non conoscesse la discordia. Le perfezioni distribuite tra gli esseri inferiori esistono in Dio in modo semplice ed unitario; pertanto, anche se noi conosciamo le cose universali e immateriali con un certo intelletto, e le cose singolari e materiali con un altro, Dio le conosce entrambe con il suo intelletto semplice. Alcuni, volendo spiegare come ciò sia possibile, hanno affermato che Dio conosca le cose singolari attraverso cause universali: infatti, nulla esiste in una cosa singolare senza derivare da una causa universale. Danno l’esempio di un astrologo che conosce tutti i movimenti celesti e può quindi prevedere gli eclissi futuri; tuttavia, questo non è sufficiente: le cose singolari, derivanti da cause universali, acquisiscono certe forme e proprietà che, per quanto possano essere combinate tra loro, non diventano individualizzate se non attraverso materia specifica. Pertanto, colui che conosce Socrate perché è bianco, o perché è figlio di Sofronisco, non lo conoscerebbe nella sua specificità come individuo particolare. Secondo questo modo di vedere, Dio non conoscerebbe le cose singolari nella loro individualità. D’altra parte, altri hanno affermato che Dio conosca le cose singolari applicando cause universali a effetti particolari; ma ciò non è corretto: infatti, nessuno può applicare una cosa ad un’altra senza prima conoscerla; quindi tale applicazione non può costituire il motivo della conoscenza di ciò che è particolare, poiché presuppone già la conoscenza delle cose singolari. Pertanto, bisogna dire che, poiché Dio è la causa delle cose attraverso la sua conoscenza – come detto sopra (A[8]) – la sua conoscenza si estende tanto quanto si estende la sua capacità di causare. Poiché il potere attivo di Dio si estende non solo alle forme, che sono la fonte dell’universalità, ma anche alla materia – come dimostreremo ulteriormente (Q[44], A[2]) – la conoscenza di Dio deve quindi estendersi anche alle cose singolari, che sono individualizzate dalla materia. Poiché Dio conosce le cose al di fuori di sé stesso attraverso la sua essenza, come somiglianza delle cose o come loro principio attivo, la sua essenza deve essere il fondamento sufficiente per conoscere tutte le cose create da lui, sia nel senso universale che in quello singolare. Lo stesso vale per la conoscenza dell’artigiano: se quest’ultimo fosse capace di produrre l’intera cosa, e non solo la sua forma, allora anche lui conoscerrebbe l’intero oggetto nella sua completezza.
+
+Risposta all’Obiezione 1: Il nostro intelletto astrae le specie intelligibili dai principi che individuano le singole cose; pertanto, le specie intelligibili nel nostro intelletto non possono essere l’immagine dei principi individualizzanti; per questo motivo il nostro intelletto non conosce le cose singolari. Tuttavia, le specie intelligibili nell’intelletto divino, che è l’essenza di Dio, sono immateriali non a causa di un astrazione, ma per loro stessa natura, essendo il principio di tutti i principi che entrano nella composizione delle cose, sia quelli relativi alle specie che quelli relativi agli individui; pertanto, grazie ad esse, Dio conosce non solo le cose universali, ma anche quelle singolari.
+
+Risposta all’Obiezione 2: Sebbene, per quanto riguarda le specie nell’intelletto divino, la loro esistenza non sia soggetta a condizioni materiali come quelle delle immagini ricevute dall’immaginazione e dai sensi, tuttavia la sua capacità si estende sia alle cose immateriali che a quelle materiali.
+
+Risposta all’Obiezione 3: Sebbene la materia, per quanto riguarda la sua potenzialità, si allontani dalla somiglianza con Dio, tuttavia, anche nella misura in cui esiste in questo modo, mantiene una certa somiglianza con l’esistenza divina.
+
 <span class="atom-split" data-atom="096" data-title="Whether God can know infinite things?" data-chapter="Whether God can know infinite things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God cannot know infinite things. For the infinite, as such, is unknown;
@@ -4899,7 +6340,7 @@ of air, as some of the ancients held; yet it is manifest that these would have a
 being, because their being would be limited to some determinate nature. Hence they would be
 measurable as regards the knowledge of God.
 
-<span class="atom-split" data-atom="097" data-title="Whether the knowledge of God is of future contingent things? (1/2)" data-chapter="Whether the knowledge of God is of future contingent things?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="097" data-title="Whether the knowledge of God is of future contingent things? (parte 1)" data-chapter="Whether the knowledge of God is of future contingent things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the knowledge of God is not of future contingent things. For from
 a necessary cause proceeds a necessary effect. But the knowledge of God is the cause of things
@@ -4977,7 +6418,23 @@ consequent must be understood as it is subject to the divine knowledge, i.e. as 
 And thus it is necessary, as also is the antecedent: "For everything that is, while it is, must be
 necessarily be," as the Philosopher says in Peri Herm. i.
 
-<span class="atom-split" data-atom="098" data-title="Whether the knowledge of God is of future contingent things? (2/2)" data-chapter="Whether the knowledge of God is of future contingent things?" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la conoscenza di Dio non riguardi le cose contingenti del futuro. Infatti, da una causa necessaria deriva un effetto necessario. Ma la conoscenza di Dio è la causa delle cose conosciute, come detto sopra (A[8]). Poiché quindi tale conoscenza è necessaria, ciò che Egli conosce deve anch’essere necessario. Pertanto, la conoscenza di Dio non riguarda le cose contingenti.
+
+Obiezione 2: Inoltre, ogni proposizione condizionale la cui premessa sia assolutamente necessaria deve avere una conseguenza anch’essa assolutamente necessaria. La premessa, infatti, rispetto alla conseguenza, ha lo stesso rapporto che i principi hanno rispetto alla conclusione; soltanto da principi necessari può derivare una conclusione necessaria, come dimostrato nel “Posteriore i”. Ma questa è proprio una proposizione condizionale vera: “Se Dio sapesse che ciò accadrà, allora ciò accadrebbe”, poiché la conoscenza di Dio riguarda soltanto cose vere. Ora, la premessa di questa proposizione è assolutamente necessaria, in quanto eterna e descritta come avvenuta nel passato; pertanto anche la conseguenza deve essere assolutamente necessaria. Quindi, tutto ciò che Dio conosce è necessario; ne consegue che la conoscenza di Dio non riguarda cose contingenti.
+
+Obiezione 3: Inoltre, tutto ciò che è conosciuto da Dio deve necessariamente esistere, poiché anche ciò che conosciamo noi stessi deve necessariamente esistere; e ovviamente la conoscenza di Dio è molto più certa della nostra. Tuttavia, nessuna cosa futura contingente deve necessariamente esistere. Pertanto, nessuna cosa futura contingente è conosciuta da Dio.
+
+Al contrario, è scritto (Salmo 32:15): “Colui che ha formato i cuori di tutti loro; Colui che comprende tutte le loro azioni”, cioè quelle degli uomini. Ora, le azioni umane sono contingenti, poiché soggette alla [libera volontà](/positions/free_will). Pertanto, Dio conosce le cose future che sono contingenti.
+
+Rispondo che, poiché come è stato dimostrato sopra (A[9]), Dio conosce tutte le cose: non solo quelle reali, ma anche quelle possibili per Lui e per le creature; e poiché alcune di queste sono future e contingenti per noi, ne consegue che Dio conosce le cose future e contingenti. A dimostrazione di ciò, dobbiamo considerare che una cosa contingente può essere considerata in due modi: innanzitutto, in sé stessa, nella misura in cui è attualmente realizzata; in questo senso non viene considerata come futura, ma come presente; né viene considerata come contingente (in relazione a due possibili esiti), ma come determinata verso uno di essi; e per questa ragione può essere oggetto di una conoscenza certa, ad esempio per il senso della vista, quando vedo che Socrate è seduto. In un altro modo, una cosa contingente può essere considerata nella sua causa; in questo senso viene considerata come futura e come cosa ancora non determinata verso uno specifico esito, poiché una causa contingente può riguardare due opposti risultati; e in questo senso una cosa contingente non è soggetta a alcuna conoscenza certa. Pertanto, chi conosce un effetto contingente soltanto nella sua causa, ne ha solo una conoscenza congetturale. Ora, Dio conosce tutte le cose contingenti non solo nella loro causa, ma anche nel modo in cui ciascuna di esse è realmente esistente in sé stessa. E sebbene le cose contingenti diventino reali in modo successivo, Dio le conosce non in modo successivo, ma come sono nella loro essenza stessa, proprio come facciamo noi simultaneamente. Il motivo è che la Sua conoscenza è misurata dall’[eternità](/positions/eternity), così come la Sua essenza; e l’eternità, essendo simultaneamente completa, comprende tutto il tempo, come detto sopra (Q[10], A[2]). Pertanto, tutte le cose che esistono nel tempo sono presenti a Dio fin dall’eternità, non solo perché Lui possiede in sé i “modelli” di queste cose, come alcuni dicono, ma perché il Suo sguardo abbraccia tutte le cose nella loro realtà attuale fin dall’eternità. È quindi evidente che le cose contingenti sono conosciute infallibilmente da Dio, nella misura in cui sono soggette alla Sua visione divina nella loro realtà attuale; tuttavia, per quanto riguarda la loro causa, esse rimangono cose future e contingenti.
+
+Risposta all’Obiezione 1: Sebbene la causa suprema sia necessaria, l’effetto può essere contingente a causa della causa contingente immediata; proprio come la germinazione di una pianta è contingente per via della causa contingente immediata, anche se il movimento del sole, che rappresenta la causa primaria, è necessario. Allo stesso modo, le cose conosciute da Dio sono contingenti in relazione alle loro cause immediate, mentre la conoscenza di Dio, che costituisce la causa primaria, è necessaria.
+
+Risposta all’Obiezione 2: Alcuni affermano che questo antecedente, “Dio sapeva che ciò era futuro”, non sia necessario, ma contingente; poiché, anche se è già accaduto, implica comunque una relazione con il futuro. Tuttavia, ciò non elimina la sua natura necessaria; infatti, tutto ciò che ha avuto una relazione con il futuro deve esserne stato effettivamente parte, anche se il futuro a volte non si realizza. D’altra parte, alcuni sostengono che questo antecedente sia contingente perché è composto da elementi necessari e contingenti; ma anche questa argomentazione è priva di fondamento. Quando diciamo “Dio sapeva che ciò era futuro”, il termine “contingente” viene utilizzato soltanto come elemento costitutivo della proposizione, e non come sua parte essenziale. Pertanto, la natura contingente o necessaria di questo antecedente non ha alcuna rilevanza sulla necessità o contingenza della proposizione stessa, né sul suo essere vera o falsa. Potrebbe essere altrettanto vero dire che “un uomo è un asino” quanto dire che “Socrate corre” o che “Dio esiste”; lo stesso vale per gli elementi necessari e contingenti. Quindi, bisogna affermare che questo antecedente è assolutamente necessario. Inoltre, non segue affatto, come alcuni sostengono, che anche il conseguente sia necessario; poiché l’antecedente rappresenta soltanto una causa remota del conseguente, che rimane contingente a causa di cause più immediate. Ma questa argomentazione è priva di fondamento: una proposizione condizionale sarebbe falsa se il suo antecedente fosse una causa necessaria remota e il conseguente un effetto contingente; ad esempio, “Se il sole si muove, l’erba crescerà” sarebbe falso se l’antecedente rappresentasse una causa necessaria e il conseguente un effetto casuale. Pertanto, dobbiamo affermare che, quando l’antecedente di una proposizione condizionale contiene elementi legati all’attività dell’anima, il conseguente deve essere inteso non nella sua realtà oggettiva, ma nel contesto in cui viene percepito dall’anima; infatti, l’esistenza di una cosa “in sé” è diversa dalla sua esistenza nell’intelletto umano. Ad esempio, quando diciamo “Ciò che l’anima comprende è immateriale”, ciò significa che tale comprensione è considerata immateriale nel contesto dell’intelletto, non nella realtà oggettiva di quella cosa. Allo stesso modo, quando diciamo “Se Dio sa qualcosa, allora quel qualcosa esisterà”, il conseguente deve essere inteso come qualcosa che è soggetto alla conoscenza divina, cioè nel contesto della sua presenza divina. Pertanto, sia il conseguente che l’antecedente sono necessari: “Poiché tutto ciò che esiste, mentre esiste, deve necessariamente esistere”, come afferma il Filosofo nel Peri Hermeneutica I.
+
+<span class="atom-split" data-atom="098" data-title="Whether the knowledge of God is of future contingent things? (parte 2)" data-chapter="Whether the knowledge of God is of future contingent things?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: Things reduced to act in time, as known by us successively in time, but
 by God (are known) in [eternity](/positions/eternity), which is above time. Whence to us they cannot be certain, forasmuch
@@ -5003,6 +6460,10 @@ for what is known by God cannot be known. This objection, however, would hold if
 of the knower, something can be attributed to the thing known, in itself (even if it always be known),
 which is not attributed to it in so far as it stands under actual knowledge; thus material existence
 is attributed to a stone in itself, which is not attributed to it inasmuch as it is known.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 3: Le cose, che per noi sono conosciute nel tempo in modo successivo, ma per Dio sono conosciute nell’[eternità](/positions/eternity), che trascende il tempo, non possono essere considerate certe da noi, poiché conosciamo le cose future come contingenti; tuttavia, per Dio sono certe, poiché la sua comprensione si estende all’eternità, al di là del tempo. Proprio come colui che cammina lungo una strada non può vedere coloro che lo seguono, mentre chi osserva l’intera strada da un punto elevato riesce a vedere immediatamente tutti coloro che vi transitano. Quindi ciò che è conosciuto da noi deve necessariamente essere vero, anche nella sua essenza; poiché ciò che è futuro e contingente non può essere conosciuto da noi. Al contrario, ciò che è conosciuto da Dio deve necessariamente essere vero, secondo il modo in cui tale conoscenza si manifesta, come già detto, ma non assolutamente considerando le cause intrinseche di quelle cose. Da qui deriva anche la distinzione tra “tutto ciò che è conosciuto da Dio deve necessariamente essere vero” e l’affermazione “questa proposizione ‘tutto ciò che è conosciuto da Dio è vero’ deve necessariamente essere vera”. Alcuni obiettano, sostenendo che questa distinzione valga solo per le forme separabili dal soggetto; ad esempio, se dicessi “è possibile che una cosa bianca diventi nera”, questa affermazione sarebbe falsa riguardo al significato letterale della frase, ma vera riguardo alla cosa stessa: infatti una cosa bianca può diventare nera; mentre l’affermazione “una cosa bianca è nera” non potrebbe mai essere vera. Tuttavia, per le forme inseparabili dal soggetto, questa distinzione non vale; ad esempio, se dicessi “un corvo nero può diventare bianco”, questa affermazione sarebbe falsa in entrambi i sensi. Ora, essere conosciuto da Dio è qualcosa che è inseparabile dalla cosa stessa; poiché ciò che è conosciuto da Dio non può essere conosciuto in modo separato da esso stesso. Tuttavia, questo obiezione avrebbe senso se le parole “ciò che è conosciuto” implicassero una qualche proprietà intrinseca al soggetto; ma poiché esse indicano semplicemente un atto di conoscenza da parte di Dio, è possibile attribuire alla cosa conosciuta qualcosa che, in sé stessa, non le appartiene (anche se essa viene sempre conosciuta); ad esempio, l’esistenza materiale può essere attribuita a una pietra in sé stessa, ma non nel momento in cui viene conosciuta.
 
 <span class="atom-split" data-atom="099" data-title="Whether God knows enunciable things?" data-chapter="Whether God knows enunciable things?" data-kind="atom" data-srclang="en"></span>
 
@@ -5039,6 +6500,20 @@ manner of enunciable things.
 Reply to Objection 2: Enunciatory composition signifies some existence of a thing; and thus
 God by His existence, which is His essence, is the similitude of all those things which are signified
 by enunciation.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non conosca le cose enunciabili. Infatti, conoscere le cose enunciabili è una funzione del nostro intelletto, che compone e divide le informazioni. Ma nell’intelletto divino non esiste alcuna attività di composizione; pertanto, Dio non conosce le cose enunciabili.
+
+Obiezione 2: Inoltre, ogni tipo di conoscenza si forma attraverso qualche sorta di somiglianza. Ma in Dio non esiste alcuna somiglianza con le cose che possono essere enunciate, poiché Egli è totalmente semplice. Pertanto, Dio non conosce le cose che possono essere enunciate.
+
+Al contrario, è scritto: “Il Signore conosce i pensieri degli uomini” (Salmo 93:11). Ma nei pensieri degli uomini vi sono cose che possono essere espresse a parole; pertanto Dio conosce anche queste cose.
+
+Rispondo che, poiché è nel potere del nostro intelletto formulare enunciati, e poiché Dio conosce tutto ciò che è nel suo stesso potere o in quello delle creature, come detto sopra (A[9]), ne consegue necessariamente che Dio conosca tutti gli enunciati che possono essere formulati. Proprio come Egli conosce le cose materiali in modo immateriale e le cose composite in modo semplice, così anch’Egli conosce le entità enunciabili, ma non nel modo stesso in cui queste entità esistono o vengono comprese; poiché Egli conosce ciascuna cosa attraverso una comprensione diretta della sua essenza. Come se, semplicemente comprendendo cos’è l’uomo, potessimo immediatamente comprendere tutto ciò che può essere predicato di lui. Tuttavia, questo non avviene nel nostro intelletto, il quale procede da un concetto all’altro, poiché le specie intelligibili rappresentano ciascuna cosa in modo tale da escluderne altre. Pertanto, quando comprendiamo cos’è l’uomo, non compriamo immediatamente tutte le altre caratteristiche che gli appartengono, ma le comprendiamo una per una, secondo un certo ordine logico. Per questo motivo, le cose che comprendiamo come separate dobbiamo ridurle a un’unica entità attraverso operazioni di composizione o divisione, formulando enunciati specifici. Ora, la specie dell’intelletto divino – che è l’essenza stessa di Dio – è sufficiente per rappresentare tutte le cose. Pertanto, comprendendo la sua essenza, Dio conosce le essenze di tutte le cose, nonché tutto ciò che può essere considerato accidentale a esse.
+
+Risposta all’Obiezione 1: Questa obiezione avrebbe fondamento se Dio conoscesse le cose enunciabili nel modo stesso in cui queste vengono normalmente enunciate.
+
+Risposta all’Obiezione 2: La composizione enunciativa indica l’esistenza di una cosa; pertanto, Dio, con la sua esistenza che è la sua essenza stessa, rappresenta l’archetipo di tutte quelle cose che vengono indicate attraverso l’enunciato.
 
 <span class="atom-split" data-atom="100" data-title="Whether the knowledge of God is variable?" data-chapter="Whether the knowledge of God is variable?" data-kind="atom" data-srclang="en"></span>
 
@@ -5105,6 +6580,24 @@ thing suffers change we retained the same opinion about it; or as regards divers
 first thought that anyone was sitting, and afterwards thought that he was not sitting; neither of which
 can be in God.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la conoscenza di Dio sia variabile. Poiché la conoscenza è legata a ciò che può essere conosciuto, e poiché tutto ciò che riguarda le creature viene applicato anche a Dio nel corso del tempo, e varia insieme alle variazioni delle creature stesse, ne consegue che anche la conoscenza di Dio sia variabile in base alle variazioni delle creature.
+
+Obiezione 2: Inoltre, tutto ciò che Dio può creare, Egli può anche conoscerlo. Ma Dio può creare qualcosa di più di ciò che effettivamente crea; pertanto, può conoscere anche qualcosa in più di ciò che conosce attualmente. Di conseguenza, la Sua conoscenza può variare in base all’aumento o alla diminuzione delle cose che Egli è in grado di creare o conoscere.
+
+Obiezione 3: Inoltre, Dio sapeva che Cristo sarebbe nato. Ma ora non sa più che Cristo nascerà, perché Cristo non dovrà nascere in futuro. Pertanto, Dio non sa tutto ciò che un tempo sapeva; e quindi la conoscenza di Dio è variabile.
+
+Al contrario, si dice che in Dio “non vi sia alcun cambiamento né ombra di alterazione” (Giacomo 1:17).
+
+Rispondo che, poiché la conoscenza di Dio è la Sua stessa essenza, come risulta chiaramente dal passo precedente (A[4]), e poiché la Sua essenza è del tutto immutabile, come dimostrato sopra (Q[9], A[1]), anche la Sua conoscenza deve necessariamente essere del tutto invariabile.
+
+Risposta all’Obiezione 1: “Signore”, “Creatore” e simili termini indicano relazioni tra Dio e le creature, nella misura in cui queste ultime esistono in sé stesse. Tuttavia, la conoscenza di Dio implica relazioni con le creature nella misura in cui queste sono contenute in Dio; poiché tutto viene effettivamente compreso secondo il modo in cui esiste nell’essere che lo comprende. Le cose create sono infatti contenute in Dio in modo invariabile, mentre esistono in modo variabile in sé stesse. Si può anche affermare che termini come “Signore” e “Creatore” indicano le relazioni derivanti dagli atti che si considerano compiuti dalle creature stesse; tali relazioni vengono quindi attribuite a Dio in modi diversi, in base alle variazioni delle creature. Al contrario, concetti come “conoscenza” e “amore”, indicano relazioni derivanti dagli atti che si considerano compiuti da Dio stesso; pertanto questi concetti vengono predicati di Dio in modo invariabile.
+
+Risposta all’Obiezione 2: Dio conosce anche ciò che potrebbe creare, ma non lo crea. Pertanto, il fatto che possa creare di più di quanto effettivamente crei non implica necessariamente che possa conoscere di più di quanto realmente conosca, a meno che ci si riferisca alla conoscenza visiva, secondo cui si dice che Egli conosca quelle cose che in un certo momento esistono effettivamente. Ma il fatto che Egli sappia che alcune cose potrebbero esistere senza esistere realmente, o che alcune cose potrebbero non esistere quando invece esistono, non significa affatto che la Sua conoscenza sia variabile; piuttosto, ciò dimostra che Egli conosce la possibilità di variazione delle cose. Tuttavia, se esistesse qualcosa che Dio prima non conoscesse e poi venisse a conoscere, allora la Sua conoscenza sarebbe effettivamente variabile. Ma questo è impossibile: poiché tutto ciò che esiste, o può esistere in un certo momento, è già noto a Dio nella Sua [eternità](/positions/eternity). Pertanto, il fatto che una cosa esista in un determinato momento implica necessariamente che sia conosciuta da Dio fin dall’eternità. Quindi non si può ammettere che Dio possa conoscere di più di quanto realmente conosca; poiché tale affermazione significherebbe che, in primo luogo, Egli non sapesse nulla, e poi invece avesse imparato a saperlo.
+
+Risposta all’Obiezione 3: Gli antichi Nominalisti affermavano che fosse la stessa cosa dire “Cristo è nato”, “Cristo nascerà” e “Cristo è stato nato”; poiché tutte e tre queste espressioni indicavano lo stesso concetto, ovvero la nascita di Cristo. Pertanto, sostenevano, ciò che Dio sa, Lui lo sa; poiché ora sa che Cristo è nato, il che equivale a dire che Cristo nascerà. Tuttavia, questo punto di vista è errato: da un lato, la diversità delle parti di una frase comporta anche una diversità nelle sue enunciazioni; dall’altro, ne deriverebbe che una proposizione vera in un certo momento lo sarebbe sempre, il che contraddice quanto afferma il Filosofo nel “De categoriis” (III), secondo cui la frase “Socrate siede” è vera quando Socrate è seduto e falsa quando si alza. Pertanto, bisogna ammettere che la proposizione “Ciò che Dio sa, Lui lo sa”, se riferita a proposizioni enunciabili, non è vera. Tuttavia, ciò non significa che la conoscenza di Dio sia variabile: poiché nella conoscenza divina non vi è alcuna variazione nel fatto che Dio sappia che qualcosa in un certo momento esiste e in un altro no, allo stesso modo non vi è alcuna variazione nel fatto che Dio sappia che una proposizione enunciabile in un certo momento è vera e in un altro no. La conoscenza di Dio, invece, sarebbe variabile se Lui conoscesse le cose enunciabili attraverso processi logici di composizione e divisione, come avviene nel nostro intelletto umano. Pertanto, la nostra conoscenza varia sia in termini di verità e falsità – ad esempio, quando una cosa subisce cambiamenti e noi manteniamo sempre lo stesso punto di vista su di essa – sia in termini di opinioni diverse; il che non può accadere in Dio.
+
 <span class="atom-split" data-atom="101" data-title="Whether God has a speculative knowledge of things?" data-chapter="Whether God has a speculative knowledge of things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God has not a speculative knowledge of things. For the knowledge
@@ -5160,6 +6653,20 @@ of His speculative knowledge, forasmuch as He sees all things other than Himself
 He knows Himself speculatively; and so in the speculative knowledge of Himself, he possesses
 both speculative and practical knowledge of all other things.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non possieda una conoscenza speculativa delle cose. Infatti, la conoscenza di Dio è la causa stessa delle cose, come dimostrato sopra (A[8]). Ma la conoscenza speculativa non è la causa delle cose conosciute. Pertanto, la conoscenza di Dio non può essere considerata speculativa.
+
+Obiezione 2: Inoltre, la conoscenza speculativa si ottiene attraverso l’astrazione dalle cose; qualcosa che non appartiene alla conoscenza divina. Pertanto, la conoscenza di Dio non è di natura speculativa.
+
+Al contrario, ciò che è di maggior pregio deve essere attribuito a Dio. Ma la conoscenza speculativa è superiore alla conoscenza pratica, come afferma il Filosofo all’inizio della Metafisica. Pertanto, Dio possiede una conoscenza speculativa delle cose.
+
+Rispondo che alcune conoscenze sono soltanto speculative; altre sono esclusivamente pratiche; altre ancora sono parzialmente speculative e parzialmente pratiche. A dimostrazione di ciò, si deve osservare che la conoscenza può essere definita speculativa in tre modi: innanzitutto, in relazione alle cose conosciute, le quali non possono essere messe in atto dal conoscitore; è questo il caso della conoscenza umana riguardo alle cose naturali o divine. In secondo luogo, in relazione al modo stesso di conoscere: ad esempio, quando un costruttore considera una casa definendola e suddividendola, e analizzando ciò che le appartiene in termini generali; in questo caso si considerano cose utilizzabili in modo speculativo, e non come praticamente applicabili; infatti, applicare una forma alla materia è un atto pratico, mentre analizzare la composizione di una cosa nei suoi principi formali universali è un atto speculativo. In terzo luogo, in relazione allo scopo della conoscenza: “poiché l’intelletto pratico differisce dall’intelletto speculativo per lo scopo che si prefigge”, come afferma il Filosofo nel De Anima iii. L’intelletto pratico è orientato verso un fine operativo; l’intelletto speculativo, invece, mira alla comprensione della verità. Pertanto, se un costruttore considerasse come realizzare una casa non con l’intento di metterla in atto, ma soltanto per conoscere il procedimento necessario, questa riflessione sarebbe puramente speculativa, anche se riguarda una cosa praticamente utilizzabile. Quindi, la conoscenza che è speculativa in relazione alla natura stessa della cosa conosciuta è semplicemente speculativa; ma quella che lo è sia per il modo di conoscere sia per lo scopo che si prefigge è parzialmente speculativa e parzialmente pratica; quando, invece, è orientata verso un fine pratico, diventa esclusivamente pratica. In base a ciò, si può affermare che Dio possiede soltanto una conoscenza speculativa di sé stesso, poiché Egli stesso non può essere messo in atto; per tutte le altre cose, invece, Egli possiede sia conoscenze speculative che pratiche. Possiede conoscenze speculative riguardo al modo stesso con cui le cose vengono comprese; infatti, tutto ciò che noi conosciamo in modo speculativo attraverso la definizione e la suddivisione, Dio lo conosce in modo molto più perfetto. Per quanto riguarda le cose che Egli può creare, ma non crea in alcun momento specifico, Egli non ne possiede una conoscenza pratica, poiché la conoscenza pratica è legata allo scopo pratico che essa persegue; tuttavia, possiede una conoscenza pratica di ciò che effettivamente crea in un determinato momento. Per quanto riguarda le cose negative, anche se non possono essere messe in atto da Dio, rientrano comunque nella Sua conoscenza pratica, così come le cose positive; infatti, Egli permette, ostacola o dirige il loro svolgimento; allo stesso modo, le malattie rientrano nella conoscenza pratica del medico, poiché quest’ultimo le cura attraverso la propria arte.
+
+Risposta all’Obiezione 1: La conoscenza di Dio è la causa, non certo di Sé stesso, ma di altre cose. Egli è effettivamente la causa di alcune cose, cioè di quelle che vengono a esistere in un determinato momento; ed è virtualmente la causa di altre cose, cioè di quelle che Lui potrebbe creare, ma che tuttavia non vengono mai create.
+
+Risposta all’Obiezione 2: Il fatto che la conoscenza derivi da cose conosciute non appartiene essenzialmente alla conoscenza speculativa, ma solo accidentalmente, nella misura in cui tale conoscenza è umana. In risposta a quanto opposto, dobbiamo affermare che una conoscenza perfetta di quelle cose che possono essere operate è possibile soltanto se queste vengono conosciute proprio nella loro funzione operativa. Pertanto, poiché la conoscenza di Dio è in ogni senso perfetta, Egli deve conoscere ciò che può essere operato da Lui, formalmente e intrinsecamente, e non soltanto in termini speculativi. Tuttavia, ciò non diminuisce la nobiltà della Sua conoscenza speculativa, poiché Egli vede tutte le cose, tranne Se Stesso, in Sé stesso, e conosce Sé stesso a livello speculativo; quindi, nella Sua conoscenza speculativa di Sé stesso, possiede sia la conoscenza speculativa che quella pratica di tutte le altre cose.
+
 <span class="atom-split" data-atom="102" data-title="OF IDEAS (THREE ARTICLES)" data-chapter="OF IDEAS (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After considering the knowledge of God, it remains to consider ideas. And about this there are
@@ -5167,6 +6674,13 @@ three points of inquiry:
 (1) Whether there are ideas?
 (2) Whether they are many, or one only?
 (3) Whether there are ideas of all things known by God?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo aver considerato la conoscenza di Dio, rimane da esaminare il problema delle idee. A questo proposito ci sono tre questioni fondamentali da affrontare:  
+(1) Esistono davvero delle idee?  
+(2) Sono molte, o soltanto una?  
+(3) Esistono idee di tutte le cose conosciute da Dio?
 
 <span class="atom-split" data-atom="103" data-title="Whether there are ideas?" data-chapter="Whether there are ideas?" data-kind="atom" data-srclang="en"></span>
 
@@ -5361,6 +6875,18 @@ must inquire concerning truth. About this there are eight points of inquiry:
 (7) On the [eternity](/positions/eternity) of truth.
 (8) On the unchangeableness of truth.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Poiché la conoscenza riguarda cose vere, dopo aver considerato la conoscenza di Dio, dobbiamo indagare sulla verità stessa. A questo proposito esistono otto punti di riflessione:  
+(1) La verità risiede nella cosa stessa, o soltanto nell’intelletto che la compone e la analizza?  
+(2) La verità risiede unicamente nell’intelletto che opera il processo di composizione e divisione?  
+(3) Il rapporto tra la verità e l’essere.  
+(4) Il rapporto tra la verità e il bene.  
+(5) Dio è la verità?  
+(6) Tutte le cose sono vere per via di una sola verità, o di molteplici verità?  
+(7) L’[eternità](/positions/eternity) della verità.  
+(8) L’immutabilità della verità.
+
 <span class="atom-split" data-atom="107" data-title="Whether truth resides only in the intellect?" data-chapter="Whether truth resides only in the intellect?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that truth does not reside only in the intellect, but rather in things. For
@@ -5435,6 +6961,25 @@ health, for here the agent is not univocal. In the same way, the being of the th
 the cause of truth in the intellect. Hence the Philosopher says that a thought or a word is true "from
 the fact that a thing is, not because a thing is true."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la verità non risieda soltanto nell’intelletto, ma piuttosto nelle cose stesse. Infatti, [Agostino](/figures/augustine) (Soliloquio ii, 5) condanna questa definizione di verità: “È vero ciò che viene visto”; poiché da essa deriverebbe che le pietre nascoste nel grembo della terra non sarebbero considerate vere pietre, dato che non vengono viste. Condanna anche l’affermazione secondo cui “è vero ciò che appare al conoscitore, che sia disposto e in grado di comprenderlo”, poiché da questa deriverebbe che nulla sarebbe vero se nessuno potesse conoscerlo. Pertanto Agostino definisce la verità così: “È vero ciò che è”. Sembra quindi che la verità risieda nelle cose, e non nell’intelletto.
+
+Obiezione 2: Inoltre, tutto ciò che è vero lo è per via della verità stessa. Se quindi la verità esiste soltanto nell’intelletto, nulla sarà vero se non nella misura in cui viene compreso. Ma questo rappresenta l’errore dei filosofi antichi, i quali affermavano che tutto ciò che sembra vero lo è effettivamente. Di conseguenza, contraddizioni reciproche possono sembrare vere quando viste da persone diverse nello stesso momento.
+
+Obiezione 3: Inoltre, “ciò che fa sì che una cosa sia così è, di per sé, ancora più tale”, come risulta evidente dal Filosofo (Posteriora Analitica I). Ma è proprio dal fatto che una cosa esista o non esiste che il nostro pensiero o la nostra parola sono veri o falsi, come insegna il Filosofo (Prima Analitica III). Pertanto, la verità risiede piuttosto nelle cose stesse che nell’intelletto.
+
+Al contrario, il Filosofo afferma (Metafisica VI): “Il vero e il falso non risiedono nelle cose, ma nell’intelletto”.
+
+Rispondo che, così come il “bene” indica ciò verso cui tende l’appetito, allo stesso modo il “vero” indica ciò verso cui tende l’intelletto. Ora, esiste questa differenza tra l’appetito e l’intelletto, o qualsiasi forma di conoscenza: la conoscenza è relativa alla realtà conosciuta nell’individuo che conosce, mentre l’appetito è relativo al desiderio dell’individuo verso ciò che desidera. Pertanto, il concetto di “bene”, che appartiene all’appetito, si riferisce all’oggetto desiderabile; il concetto di “vero”, che appartiene all’intelletto, si riferisce all’intelletto stesso. Poiché il “bene” esiste in una cosa nella misura in cui questa è correlata all’appetito – e quindi l’aspetto del bene si trasferisce dall’oggetto desiderabile all’appetito, poiché l’appetito viene definito “buono” se il suo oggetto è buono – allo stesso modo, poiché il “vero” esiste nell’intelletto nella misura in cui corrisponde all’oggetto compreso, l’aspetto del vero deve necessariamente trasferirsi dall’intelletto all’oggetto compreso; quindi anche l’oggetto compreso viene detto “vero” nella misura in cui ha una qualche relazione con l’intelletto. Ora, un oggetto compreso può essere correlato a un intelletto sia essenzialmente che accidentalmente: è essenzialmente correlato all’intelletto da cui dipende per quanto riguarda la sua essenza; ma accidentalmente correlato all’intelletto attraverso il quale può essere conosciuto; proprio come si può dire che una casa è essenzialmente correlata all’intelletto dell’architetto, ma accidentalmente correlata all’intelletto su cui non dipende. Ora, noi giudichiamo un oggetto non in base a ciò che in esso c’è in modo accidentale, ma in base a ciò che in esso c’è in modo essenziale. Pertanto, si dice che tutto sia “vero” in senso assoluto nella misura in cui è correlato all’intelletto da cui dipende; ed è per questo che le cose artificiali vengono considerate “vere”, poiché sono correlate al nostro intelletto. Una casa, ad esempio, viene detta “vera” perché esprime la somiglianza della forma concepita nell’intelletto dell’architetto; le parole vengono dette “veri” nella misura in cui rappresentano il concetto di verità nell’intelletto. Allo stesso modo, le cose naturali vengono dette “vere” nella misura in cui esprimono la somiglianza delle specie presenti nell’intelletto divino; una pietra, ad esempio, viene detta “vera” perché possiede la natura propria di una pietra, secondo la concezione preesistente nell’intelletto divino. Quindi, la verità risiede primariamente nell’intelletto e secondariamente nelle cose, nella misura in cui queste sono correlate all’intelletto come loro principio. Di conseguenza, esistono diverse definizioni di verità. Agostino dice (De Vera Relig. xxxvi): “La verità è ciò mediante il quale viene reso manifesto ciò che è”; Sant’Ilario afferma (De Trin. v) che “la verità rende l’esistenza chiara ed evidente”, e questo si riferisce alla verità nell’intelletto. Per quanto riguarda la verità delle cose nella misura in cui sono correlate all’intelletto, abbiamo la definizione di Agostino (De Vera Relig. xxxvi): “La verità è una somiglianza suprema, priva di qualsiasi dissomiglianza rispetto al principio”; anche la definizione di Anselmo (De Verit. xii): “La verità è rettitudine, percepibile esclusivamente dall’intelletto”; infatti, ciò che è retto corrisponde al principio; inoltre.
+La definizione di Avicenna (Metafisica VIII, 6): “La verità di ogni cosa è una proprietà dell’essenza che le è immutabilmente legata”. La definizione secondo cui “la verità è l’equazione tra pensiero e realtà” si applica a essa in entrambi i sensi.
+
+Risposta all’Obiezione 1: Agostino parla della verità delle cose e esclude dalla nozione di questa verità ogni relazione con il nostro intelletto; infatti ciò che è accidentale viene sempre escluso da qualsiasi definizione.
+
+Risposta all’Obiezione 2: I filosofi antichi ritenevano che le specie delle cose naturali non derivassero da alcun intelletto, ma fossero prodotte dalla [casualità](/concepts/fortune). Tuttavia, poiché consideravano la verità come legata all’intelletto umano, erano costretti a fondare la veridicità delle cose sulla loro relazione con il nostro intelletto. Da ciò derivano conclusioni inaccettabili, che il Filosofo confuta nel “Metafisico” IV. Tali conclusioni, tuttavia, non sorgono se si afferma che la veridicità delle cose risieda nella loro relazione con l’intelletto divino.
+
+Risposta all’Obiezione 3: Sebbene la verità del nostro intelletto sia causata dalla cosa stessa, non è necessario che tale verità esista primariamente nella cosa; allo stesso modo, la salute non risiede primariamente nella medicina, ma nell’animale stesso: infatti, la virtù della medicina, e non la sua capacità di produrre salute, è la vera causa di questa ultima. In questo caso, l’agente causale non è univoco. Allo stesso modo, l’esistenza stessa della cosa, e non la sua verità, è la causa della verità nell’intelletto. Per questo motivo il Filosofo afferma che un pensiero o una parola sono veri “per il fatto che una cosa esiste, e non perché quella cosa sia vera”.
+
 <span class="atom-split" data-atom="108" data-title="Whether truth resides only in the intellect composing and dividing?" data-chapter="Whether truth resides only in the intellect composing and dividing?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that truth does not reside only in the intellect composing and dividing.
@@ -5470,6 +7015,16 @@ in the knower, which is implied by the word "truth"; for the perfection of the i
 known. Therefore, properly speaking, truth resides in the intellect composing and dividing; and
 not in the senses; nor in the intellect knowing "what a thing is."
 And thus the Objections given are solved.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la verità non risieda esclusivamente nell’intelletto, che compone e divide le cose. Infatti, il Filosofo afferma (nei “De Anima”, III) che, così come i sensi sono sempre veritieri riguardo ai loro oggetti percettibili, lo stesso vale per l’intelletto quando si tratta di comprendere “cos’è una cosa”. Ora, la composizione e la divisione non rientrano né nei compiti dei sensi né in quelli dell’intelletto nel momento in cui questi cercano di capire “cos’è una cosa”. Pertanto, la verità non risiede esclusivamente nell’intelletto che compone e divide.
+
+Obiezione 2: Inoltre, Isaac afferma nel suo libro “Sulle definizioni” che la verità è l’equazione tra pensiero e realtà. Proprio come l’intelletto può essere considerato equivalente alle cose complesse, lo stesso vale anche per le cose semplici; ciò vale anche per i sensi quando percepiscono una cosa così com’è. Pertanto, la verità non risiede soltanto nell’intelletto che compone e divide le idee.
+
+Al contrario, il Filosofo afferma (Metafisica VI) che, per quanto riguarda le cose semplici e “ciò che una cosa è”, la verità “non si trova né nell’intelletto né nelle cose stesse”.
+
+Rispondo che, come già detto, la verità risiede, nel suo aspetto primario, nell’intelletto. Poiché tutto è vero nella misura in cui possiede la forma propria della sua natura, l’intelletto, in quanto conoscitore, deve necessariamente essere vero, poiché possiede la somiglianza con l’oggetto conosciuto – questa somiglianza costituisce infatti la sua stessa forma di conoscenza. Per questo motivo, la verità viene definita come la conformità tra intelletto e oggetto conosciuto; quindi conoscere tale conformità significa conoscere la verità. Tuttavia, i sensi non sono in grado di comprenderla in alcun modo. Infatti, sebbene la vista possieda la somiglianza con l’oggetto visibile, essa non è in grado di percepire il rapporto che esiste tra quell’oggetto e ciò che l’intelletto ne comprende. L’intelletto, invece, può conoscere la propria conformità con l’oggetto intelligibile; tuttavia, questa conoscenza non si basa su una definizione dell’oggetto stesso (“cos’è questo oggetto”). Solo quando l’intelletto stabilisce che un certo oggetto corrisponde alla forma che ne ha compresa la natura, allora conosce e esprime la verità. Ciò avviene attraverso operazioni di composizione e divisione: in ogni proposizione, infatti, l’intelletto applica o elimina dalla nozione designata dal soggetto una certa forma indicata dal predicato; questo dimostra chiaramente che sia i sensi che l’intelletto possono conoscere la verità quando definiscono “cos’è un certo oggetto”; tuttavia, ciò non significa che possano conoscere o affermare effettivamente la verità in sé. Lo stesso vale per le parole complesse o semplici. Quindi, la verità può risiedere sia nei sensi che nell’intelletto quando quest’ultimo definisce “cos’è un certo oggetto”; tuttavia, non come l’oggetto conosciuto all’interno del conoscitore – concetto implicato dal termine stesso “verità”. La perfezione dell’intelletto consiste infatti nella verità così intesa. Pertanto, in senso proprio, la verità risiede nell’intelletto che compone e divide; non nei sensi, né nell’intelletto che definisce “cos’è un certo oggetto”. E così vengono risolti gli obiezioni sollevati.
 
 <span class="atom-split" data-atom="109" data-title="Whether the true and being are convertible terms?" data-chapter="Whether the true and being are convertible terms?" data-kind="atom" data-srclang="en"></span>
 
@@ -5514,6 +7069,25 @@ also; since being is included in the idea of the true. The case is the same if w
 object with being. For being cannot be understood, unless being is intelligible. Yet being can be
 understood while its intelligibility is not understood. Similarly, being when understood is true, yet
 the true is not understood by understanding being.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che “vero” e “essere” non siano termini convertibili tra loro. Infatti, il vero appartiene propriamente all’intelletto, come affermato (A[1]); mentre l’essere appartiene propriamente alle cose. Pertanto, non sono termini convertibili.
+
+Obiezione 2: Inoltre, ciò che riguarda sia l’essere che il non-essere non è convertibile con l’essere stesso.  
+Ma la verità riguarda sia l’essere che il non-essere; infatti è vero che ciò che esiste esiste, e che ciò che non esiste non esiste. Pertanto, la verità e l’essere non sono convertibili tra loro.
+
+Obiezione 3: Inoltre, le cose che si trovano in una relazione di priorità e posteriorità sembrano non essere convertibili tra loro. Tuttavia, ciò che è vero appare essere precedente all’essere stesso; infatti, l’essere non può essere compreso se non sotto l’aspetto della verità. Pertanto, sembra che tali cose non siano convertibili tra loro.
+
+Al contrario, il Filosofo afferma (Metafisica ii) che vi sia la stessa disposizione delle cose nell’essere e nella verità.
+
+Rispondo che, così come il bene è intrinsecamente legato all’essere desiderabile, allo stesso modo la verità è strettamente connessa alla conoscenza. Tutto ciò che esiste, nella misura in cui esiste, può essere conosciuto; per questo si dice nel “De Anima” iii che “l’anima, attraverso i sensi e l’intelletto, in qualche modo comprende tutte le cose”. Pertanto, così come il bene aggiunge all’essere il concetto di ciò che è desiderabile, la verità aggiunge alla conoscenza il rapporto con la realtà.
+
+Risposta all’Obiezione 1: La verità risiede nelle cose e nell’intelletto, come già detto (A[1]). Tuttavia, la verità che si trova nelle cose è convertibile con l’essere in termini di sostanza; mentre la verità che si trova nell’intelletto è convertibile con l’essere, poiché rappresenta la manifestazione di ciò che è manifesto; questo appartiene infatti alla natura stessa della verità, come già accennato (A[1]). Si può tuttavia affermare che anche l’essere si trovi nelle cose e nell’intelletto, proprio come la verità; sebbene la verità sia primariamente nelle cose. Ciò avviene perché verità ed essere differiscono per natura.
+
+Risposta all’Obiezione 2: L’inesistenza non possiede in sé nulla che possa permetterne la conoscenza; tuttavia viene conosciuta nella misura in cui l’intelletto la rende conoscibile. Pertanto, il vero si fonda sull’esistenza, poiché l’inesistenza rappresenta una sorta di esistenza logica, cioè compresa attraverso la ragione.
+
+Risposta all’Obiezione 3: Quando si afferma che l’essere non possa essere compreso se non attraverso il concetto di vero, ciò può essere inteso in due modi. Nel primo senso, ciò significa che l’essere non può essere compreso se non dopo che il concetto di vero sia stato acquisito; e questo è vero. Nel secondo senso, ciò significherebbe che l’essere non possa essere compreso se non anche il concetto di vero viene acquisito; ma questo è falso. Tuttavia, il concetto di vero non può essere compreso se non anche il concetto di essere viene acquisito; poiché l’essere è incluso nel concetto di vero. Lo stesso vale se confrontiamo l’oggetto intelligibile con l’essere: l’essere non può essere compreso se non è intelligibile; eppure l’essere può essere compreso anche quando la sua intelligibilità non viene compresa. Allo stesso modo, l’essere, quando viene compreso, è vero; tuttavia il vero non viene compreso attraverso la comprensione dell’essere stesso.
 
 <span class="atom-split" data-atom="110" data-title="Whether good is logically prior to the true?" data-chapter="Whether good is logically prior to the true?" data-kind="atom" data-srclang="en"></span>
 
@@ -5600,6 +7174,24 @@ apprehension of the intellect. Now all apprehension of the intellect is from God
 that exists in the statement---"that a person commits fornication is true"---is entirely from God. But
 to argue, "Therefore that this person fornicates is from God", is a fallacy of Accident.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non sia verità. Infatti, la verità consiste nell’atto intellettuale di comporre e dividere; ma in Dio non vi è alcun atto di composizione o divisione. Pertanto, in Lui non può esserci verità.
+
+Obiezione 2: Inoltre, secondo [Agostino](/figures/augustine) (De Vera Relig. xxxvi), la verità è una “somiglianza con il principio”. Ma in Dio non esiste alcuna somiglianza con un principio. Pertanto, in Dio non c’è verità.
+
+Obiezione 3: Inoltre, tutto ciò che si dice di Dio si dice di Lui come della prima causa di tutte le cose; pertanto, l’esistenza di Dio è la causa di ogni esistenza, e la Sua bontà è la causa di ogni bene. Se quindi in Dio c’è verità, tutta la verità proviene da Lui. Ma è certo che alcune persone peccano; quindi anche questo deriverebbe da Dio, il che è ovviamente falso.
+
+Al contrario, Nostro Signore dice: “Io sono la Via, la Verità e la Vita” (Giovanni 14:6).
+
+Rispondo che, come detto sopra (A[1]), la verità si trova nell’intelletto nel momento in cui esso comprende una cosa così com’è; e nelle cose stesse, nel momento in cui il loro essere è conforme all’intelletto. Ciò si verifica in modo estremamente nella Divinità: il suo essere non solo è conforme al suo intelletto, ma costituisce addirittura l’atto stesso del suo intelletto; inoltre, il suo atto di comprensione rappresenta la misura e la causa di ogni altro essere e di ogni altro intelletto. La Divinità stessa è dunque la sua propria esistenza e l’atto della sua comprensione. Ne consegue non solo che in Lei si trovi la verità, ma anche che Ella sia essa stessa la verità, la verità sovrana e primordiale.
+
+Risposta all’Obiezione 1: Sebbene nell’intelletto divino non vi sia né composizione né divisione, tuttavia, con il suo semplice atto di intellettualizzazione, Egli giudica tutte le cose e conosce tutte quelle che sono complesse; ed è per questo che nel Suo intelletto esiste la verità.
+
+Risposta all’Obiezione 2: La verità del nostro intelletto dipende dalla sua conformità al proprio principio, cioè dalle cose da cui riceve la conoscenza. Anche la verità delle cose stesse dipende dalla loro conformità al proprio principio, ovvero dall’intelletto divino. Ora, ciò non può essere detto, in senso proprio, della verità divina; salvo forse nel caso in cui la verità venga attribuita al Figlio, che possiede un proprio principio. Ma se parliamo della verità divina nella sua essenza, non possiamo comprenderla se non riconoscendo che l’affermazione deve essere interpretata anche come negazione, come quando si dice: “Il Padre è di Sé stesso, perché non proviene da un altro”. Allo stesso modo, la verità divina può essere definita una “somiglianza con il proprio principio”, poiché la Sua esistenza non differisce in alcun modo dal Suo intelletto.
+
+Risposta all’Obiezione 3: L’essere non-essere e la privazione non possiedono verità in sé stessi, ma soltanto nell’intuizione dell’intelletto. Ora, ogni intuizione dell’intelletto proviene da Dio. Pertanto, tutta la verità contenuta nell’affermazione “che una persona commette fornicazione è vera” deriva interamente da Dio. Tuttavia, sostenere che “quindi il fatto che questa persona commetta fornicazione sia dovuto a Dio” rappresenta un errore logico di tipo “accidente”.
+
 <span class="atom-split" data-atom="112" data-title="Whether there is only one truth, according to which all things are true?" data-chapter="Whether there is only one truth, according to which all things are true?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that there is only one truth, according to which all things are true. For
@@ -5644,6 +7236,20 @@ God.
 
 Reply to Objection 2: The saying of Anselm is correct in so far as things are said to be true
 by their relation to the divine intellect.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che esista una sola verità, secondo la quale tutte le cose siano vere. Infatti, secondo [Agostino](/figures/augustine) (De Trin. XV, 1), “nulla è più grande della mente umana, se non Dio”. Ora, la verità è più grande della mente umana; altrimenti la mente sarebbe il giudice della verità, mentre in realtà giudica tutte le cose secondo la verità, e non secondo le proprie misure. Pertanto, solo Dio è verità. Quindi non esiste alcuna altra verità se non Dio.
+
+Obiezione 2: Inoltre, Anselmo afferma (De Verit., xiv) che “così come è la relazione del tempo rispetto alle cose temporali, così è quella della verità rispetto alle cose vere”. Tuttavia, esiste un solo tempo per tutte le cose temporali; pertanto, esiste una sola verità, attraverso la quale tutte le cose sono vere.
+
+Al contrario, si legge nel Salmo 11:2: “Le verità sono andate perdute tra i figli dell’uomo”.
+
+Rispondo che, in un certo senso, la verità – quella per mezzo della quale tutte le cose sono vere – è una; in un altro senso, invece, non lo è. Per dimostrarlo, dobbiamo considerare che quando qualcosa viene attribuito a molte cose in modo univoco, esso si trova in ciascuna di esse secondo la sua natura specifica; ad esempio, il termine “animale” si applica a ogni specie animale. Tuttavia, quando qualcosa viene attribuito a molte cose in modo analogico, esso si trova soltanto in una di esse secondo la sua natura specifica, e da questa unica cosa le altre vengono denominate. Così, il termine “salute” si applica all’animale, all’urina e al farmaco; non perché la salute esista soltanto nell’animale, ma perché dalla salute dell’animale il farmaco viene definito “salutare”, in quanto ne è la causa, e l’urina viene definita “salutare”, in quanto indica la presenza di salute. E sebbene la salute non esista né nel farmaco né nell’urina, in entrambi vi è qualcosa che permette al primo di causare e alla seconda di indicare la salute. Abbiamo già detto che la verità risiede primariamente nell’intelletto; in secondo luogo, nelle cose stesse, nella misura in cui queste sono collegate all’intelletto divino. Pertanto, se parliamo della verità come esiste nell’intelletto, secondo la sua natura specifica, allora esistono molte verità nei diversi intelletti creati; e anche nello stesso intelletto, a seconda del numero di cose conosciute. Da ciò deriva l’interpretazione del versetto del Salmo 11:2: “Le verità sono andate perdute tra i figli degli uomini”. Questo versetto significa che, come dal volto di un uomo si riflettono molte immagini in uno specchio, così dalla verità divina si riflettono molte verità particolari. Ma se parliamo della verità come esiste nelle cose, allora tutte le cose sono vere grazie a una sola verità primaria; ciascuna di esse viene assimilata a questa verità secondo la propria essenza specifica. E così, anche se le essenze o le forme delle cose sono molteplici, la verità dell’intelletto divino è unica; in base ad essa tutte le cose vengono considerate vere.
+
+Risposta all’Obiezione 1: L’anima non giudica le cose in base a alcun tipo di verità, ma in base alla verità primaria, nella misura in cui questa si riflette nell’anima, come in uno specchio, grazie ai principi fondamentali dell’intelletto. Ne consegue quindi che la verità primaria sia più grande dell’anima stessa. Eppure anche la verità creata, che risiede nel nostro intelletto, è più grande dell’anima, non semplicemente, ma in un certo grado, nella misura in cui rappresenta la sua perfezione; proprio come si può dire che la scienza sia più grande dell’anima. Tuttavia è vero che nulla di ciò che esiste è più grande dell’anima razionale, se non Dio stesso.
+
+Risposta all’Obiezione 2: L’affermazione di Anselmo è corretta nella misura in cui si sostiene che le cose siano vere in base alla loro relazione con l’intelletto divino.
 
 <span class="atom-split" data-atom="113" data-title="Whether created truth is eternal?" data-chapter="Whether created truth is eternal?" data-kind="atom" data-srclang="en"></span>
 
@@ -5770,6 +7376,14 @@ We next consider falsity. About this four points of inquiry arise:
 (2) Whether it exists in the sense?
 (3) Whether it exists in the intellect?
 (4) Concerning the opposition of the true and the false.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Esaminiamo ora la falsità. A questo proposito sorgono quattro questioni principali:
+(1) Esiste la falsità nelle cose stesse?
+(2) Esiste nella rappresentazione mentale delle cose?
+(3) Esiste nell’intelletto stesso?
+(4) In merito all’opposizione tra vero e falso.
 
 <span class="atom-split" data-atom="116" data-title="Whether falsity exists in things?" data-chapter="Whether falsity exists in things?" data-kind="atom" data-srclang="en"></span>
 
@@ -5948,6 +7562,20 @@ deceived about them for the same reason that it is not deceived about what a thi
 principles are such as are known as soon as the terms are understood, from the fact that the predicate
 is contained in the definition of the subject.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la falsità non risieda nell’intelletto. Infatti, [Agostino](/figures/augustine) afferma (Qq. lxxxiii, 32): “Chiunque venga ingannato non comprende ciò in cui viene ingannato”. Ma si dice che la falsità esista in qualsiasi conoscenza nel momento in cui veniamo ingannati da essa. Pertanto, la falsità non esiste nell’intelletto.
+
+Obiezione 2: Inoltre, il Filosofo afferma (in “De Anima”, III, 51) che l’intelletto è sempre corretto. Pertanto, nell’intelletto non esiste alcuna falsità.
+
+Al contrario, si afferma nel De Anima III, 21 e 22 che “laddove vi è una composizione di oggetti intesi, vi sono verità e falsità”. Ma tale composizione avviene nell’intelletto; pertanto, verità e falsità esistono nell’intelletto.
+
+Rispondo che, proprio come una cosa ha esistenza grazie alla sua forma propria, così anche la facoltà conoscitiva acquisisce conoscenza attraverso la somiglianza con l’oggetto conosciuto. Pertanto, mentre le cose naturali non possono mancare dell’esistenza che deriva dalla loro forma, ma possono essere carenti di qualità accidentali o conseguenti, così anche la facoltà conoscitiva non può fallire nella comprensione dell’essenza stessa dell’oggetto conosciuto; tuttavia può errare riguardo a qualcosa che ne deriva o che è collegato ad esso in modo accidentale. È stato infatti detto che la vista non si inganna riguardo agli oggetti sensibili propri, ma può essere ingannata riguardo agli oggetti sensibili comuni che ne derivano, o riguardo a oggetti accidentali percepiti dai sensi. Poiché il senso è informato direttamente dalla somiglianza con l’oggetto proprio, allo stesso modo l’intelletto è informato dalla somiglianza con l’essenza stessa di una cosa; pertanto l’intelletto non si inganna riguardo all’essenza delle cose, così come il senso non si inganna riguardo agli oggetti propri. Tuttavia, nell’affermare o nel negare, l’intelletto può errare, attribuendo alla cosa di cui comprende l’essenza qualcosa che non ne deriva o che le è contrario. L’intelletto, infatti, si trova nella stessa posizione rispetto al giudizio su tali cose, come il senso rispetto al giudizio sugli oggetti sensibili comuni o accidentali. Esiste tuttavia una differenza: mentre la falsità può esistere nell’intelletto non solo perché esso è consapevole di tale conoscenza, ma anche perché essa è contraria alla verità; nella percezione sensoriale, invece, la falsità non esiste come concetto conosciuto. La falsità dell’intelletto riguarda essenzialmente la composizione dei concetti; può quindi manifestarsi in modo accidentale nel processo conoscitivo, quando questa composizione viene distorta. Ciò può avvenire in due modi: da un lato, quando l’intelletto applica a una cosa una definizione che appartiene a un’altra; dall’altro, quando si compone una definizione utilizzando elementi tra loro contraddittori. In entrambi i casi, la definizione risultante è falsa sia rispetto all’oggetto a cui viene applicata, sia in sé stessa. Un esempio di definizione errata sarebbe “un animale ragionevole a quattro zampe”; tale affermazione è falsa in sé stessa, poiché non corrisponde alla realtà. Per questo motivo, l’intelletto non può essere falso nella sua conoscenza delle essenze semplici: o è vero, oppure non comprende nulla affatto.
+
+Risposta all’Obiezione 1: Poiché l’essenza di una cosa è l’oggetto proprio dell’intelletto, si dice propriamente che comprendiamo una cosa quando la riduciamo alla sua essenza e la giudichiamo in base ad essa; come avviene nelle dimostrazioni, dove non esiste alcuna falsità. In questo senso devono essere intese le parole di Agostino: “Colui che è ingannato non comprende ciò in cui viene ingannato”; e non nel senso che nessuno venga mai ingannato nell’atto stesso di utilizzare l’intelletto.
+
+Risposta all’Obiezione 2: L’intelletto è sempre corretto riguardo ai principi primi; poiché non viene ingannato su di essi per la stessa ragione per cui non viene ingannato sulla natura stessa delle cose. I principi primi, infatti, sono tali che vengono immediatamente compresi non appena i loro termini vengono chiariti, poiché il predicato è contenuto nella definizione del soggetto.
+
 <span class="atom-split" data-atom="119" data-title="Whether true and false are contraries?" data-chapter="Whether true and false are contraries?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that true and false are not contraries. For true and false are opposed, as
@@ -6004,6 +7632,14 @@ intellect, we must consider the divine life. About this, four points of inquiry 
 (2) What is life?
 (3) Whether life is properly attributed to God?
 (4) Whether all things in God are life?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Poiché comprendere è una caratteristica degli esseri viventi, dopo aver considerato la conoscenza e l’intelligenza divine, dobbiamo esaminare anche la vita divina. A questo proposito sorgono quattro questioni fondamentali:  
+(1) A chi appartiene vivere?  
+(2) Che cos’è la vita?  
+(3) Si può attribuire correttamente la vita a Dio?  
+(4) Tutte le cose che esistono in Dio sono considerate vita?
 
 <span class="atom-split" data-atom="121" data-title="Whether to live belongs to all natural things?" data-chapter="Whether to live belongs to all natural things?" data-kind="atom" data-srclang="en"></span>
 
@@ -6065,6 +7701,24 @@ look as if they were alive. Yet this is not life in them in its real sense, sinc
 is not from themselves but from the cause that generates them. The same is the case with the
 movement of other heavy and light bodies.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che vivere appartenga a tutte le cose naturali. Infatti il Filosofo afferma (Phys. viii, 1) che “il movimento è una sorta di vita posseduta da tutte le cose esistenti in natura”. Ma tutte le cose naturali partecipano al movimento; pertanto, tutte le cose naturali condividono la vita.
+
+Obiezione 2: Inoltre, si dice che le piante siano viventi, poiché in sé possiedono un principio di movimento, crescita e decadenza. Ma il movimento locale è naturalmente più perfetto del movimento legato alla crescita e alla decadenza, e precede quest’ultimo, come dimostra il Filosofo (Phys. viii, 56, 57). Poiché tutti i corpi naturali possiedono in sé un principio di movimento locale, sembra che tutti i corpi naturali siano viventi.
+
+Obiezione 3: Inoltre, tra i corpi naturali gli elementi sono considerati i meno perfetti. Eppure loro viene attribuita la vita; parliamo infatti di “acque viventi”. Pertanto, con ancora maggiore ragione, altri corpi naturali devono possedere la vita.
+
+Al contrario, Dionisio afferma (Div. Nom. vi, 1) che “l’ultima eco della vita si sente nelle piante”, il che suggerisce che la loro vita rappresenti il grado più basso di esistenza vitale. Tuttavia, i corpi inanimati sono ancora inferiori alle piante; pertanto, non possiedono vita.
+
+Rispondo che possiamo stabilire a cosa appartiene la vita e a cosa no, osservando quelle cose che manifestamente possiedono vita. Ora, è evidente che la vita appartiene agli animali, poiché nel “De Vegetabili i, 1” si afferma che negli animali la vita è manifesta. Pertanto, dobbiamo distinguere le cose viventi da quelle inanimate, confrontandole con ciò che permette agli animali di vivere: ed è proprio questo elemento che, per prima cosa, manifesta la vita e ne mantiene l’essenza. Diremo quindi che un animale inizia a vivere quando comincia a muoversi da solo; finché tale movimento persiste, esso viene considerato vivo. Quando, invece, non ha più alcun movimento autonomo e viene spinto soltanto da una forza esterna, si dice che la sua vita è terminata e che l’animale è morto. Da ciò risulta chiaro che vengono propriamente chiamate cose viventi quelle che si muovono in qualche modo, sia che questo movimento sia inteso nel senso stretto – come l’atto di un essere imperfetto, cioè di una cosa ancora in [potenzialità](/concepts/act_potency) – sia che si tratti di un movimento in senso più generale, come nell’atto di un essere perfetto, dove attività come il comprendere e il sentire vengono considerate forme di movimento. Di conseguenza, si dice che tutte le cose siano viventi quelle che sono capaci di muoversi o di agire in qualche modo; al contrario, quelle che per loro natura non lo possono essere non possono essere definite viventi, a meno che non si utilizzi un’analoga metafora.
+
+Risposta all’Obiezione 1: Queste parole del Filosofo possono essere intese sia nel senso del primo tipo di movimento, ovvero quello dei corpi celesti, sia nel senso generale del concetto di movimento. In entrambi i casi, il movimento viene considerato la “vita”, per così dire, dei corpi naturali; si parla, cioè, in termini di analogia, senza attribuire tale caratteristica ai corpi stessi come loro proprietà intrinseca. Il movimento degli astri, nell’universo delle nature corporee, è simile al movimento del cuore negli animali, che permette la conservazione della vita; allo stesso modo, ogni movimento naturale relativo alle cose naturali presenta una certa analogia con le funzioni essenziali alla vita. Pertanto, se l’intero universo corporeo fosse considerato un unico animale, e il suo movimento derivasse da una “forza motrice intrinseca”, come alcuni hanno effettivamente sostenuto, allora il movimento verrebbe davvero considerato la vita di tutti i corpi naturali.
+
+Risposta all’Obiezione 2: Ai corpi, sia pesanti che leggeri, il movimento non appartiene se non nella misura in cui vengono allontanati dalle loro condizioni naturali e si trovano fuori dal luogo che è loro proprio; infatti, quando si trovano nel luogo che è naturale e appropriato per loro, sono in quiete. Le piante e altri esseri viventi si muovono attraverso un movimento vitale, in conformità con la loro natura, ma non avvicinandosi o allontanandosi da tale movimento; poiché, nella misura in cui si allontanano da questo movimento, si allontanano anche dalla propria disposizione naturale. I corpi pesanti e leggeri vengono mossi da una forza esterna: o questa forza li genera e dà loro forma, oppure rimuove gli ostacoli dal loro cammino. Pertanto, essi non si muovono da soli, a differenza degli esseri viventi.
+
+Risposta all’Obiezione 3: Le acque vengono definite “vive” quando presentano un flusso continuo; quelle stazionarie, che non sono collegate a una sorgente che scorre in modo costante, vengono invece definite “morte”, come nelle cisterne e nei laghi. Si tratta semplicemente di una metafora: il movimento che si osserva in queste acque le fa sembrare vive, ma tale movimento non deriva da loro stesse, bensì dalla causa che le genera. Lo stesso vale per il movimento di altri corpi, sia pesanti che leggeri.
+
 <span class="atom-split" data-atom="122" data-title="Whether life is an operation?" data-chapter="Whether life is an operation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that life is an operation. For nothing is divided except into parts of the
@@ -6122,6 +7776,22 @@ and his whole life ordered with a view to it, is said to be the life of that man
 to lead to life of self-indulgence, others a life of virtue. In this way the contemplative life is
 distinguished from the active, and thus to know God is said to be life eternal.
 Wherefore the Reply to the Third Objection is clear.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la vita sia un’operazione. Infatti, nulla viene diviso se non in parti dello stesso genere; ma la vita è suddivisa in determinate operazioni, come risulta chiaramente dal Filosofo (De [Anima](/concepts/soul) ii, 13), il quale distingue quattro tipi di vita: nutrizione, sensazione, movimento locale e comprensione. Pertanto, la vita è un’operazione.
+
+Obiezione 2: Inoltre, si afferma che la vita attiva sia diversa da quella contemplativa. Tuttavia, la vita contemplativa si distingue dalla vita attiva soltanto per alcune specifiche operazioni. Pertanto, la vita stessa è considerata un’operazione.
+
+Obiezione 3: Inoltre, conoscere Dio è un’operazione. Ma questa stessa conoscenza rappresenta la vita, come risulta chiaro dalle parole di Giovanni 18:3: “Questa è la vita eterna: conoscere Te, l’unico vero Dio”. Pertanto, la vita stessa è un’operazione.
+
+Al contrario, il Filosofo afferma (De Anima ii, 37): “Negli esseri viventi, vivere significa essere”.
+
+Rispondo che, come è chiaro da quanto detto precedentemente (Q[17], A[3]), il nostro intelletto, che considera l’essenza di una cosa come suo oggetto proprio, acquisisce la conoscenza attraverso i sensi, i cui oggetti propri sono gli accidenti esterni. Pertanto, dalle apparenze esterne deriviamo la conoscenza dell’essenza delle cose. E poiché denominiamo una cosa in base alla nostra conoscenza di essa, come è evidente da quanto già detto (Q[13], A[1]), spesso vengono attribuiti nomi alle proprietà esterne al fine di indicare l’essenza stessa della cosa. Talvolta questi nomi vengono intesi in senso stretto per designare l’essenza stessa, la cui significazione costituisce il loro oggetto principale; altre volte, in senso meno stretto, per indicare le proprietà a causa delle quali tali nomi sono stati attribuiti. Ad esempio, il termine “corpo” viene utilizzato per designare un genere di sostanze in base al fatto che possiedono tre dimensioni; talvolta, invece, viene inteso per indicare le dimensioni stesse, e in questo senso si dice che il corpo sia una specie di quantità. Lo stesso vale per il termine “vita”: questo nome deriva da un certo aspetto esterno, ovvero il movimento spontaneo, ma non indica esattamente questo aspetto, bensì una sostanza alla quale il movimento spontaneo e la capacità di svolgere determinate operazioni appartengono naturalmente. Vivere, quindi, significa semplicemente esistere in questa o quella natura; il termine “vita” indica proprio questo concetto, anche se in modo astratto, così come il termine “correre” indica l’azione di correre in modo astratto. Pertanto, “vivente” non è un predicato accidentale, ma essenziale. Tuttavia, a volte il termine “vita” viene utilizzato in modo meno appropriato rispetto alle operazioni da cui deriva; per questo motivo il Filosofo afferma (Etica, IX, 9) che vivere significa principalmente percepire o comprendere.
+
+Risposta all’Obiezione 1: Il filosofo qui intende con “vivere” un’attività specifica della vita stessa. O, forse, sarebbe più corretto dire che sensazioni, intelligenza e simili vengono talvolta considerate tali attività, altre volte invece l’esistenza stessa di colui che le svolge. Infatti egli afferma (Etica, IX, 9) che vivere significa percepire o comprendere; in altre parole, avere una natura capace di percepire o comprendere. Pertanto distingue la vita attraverso queste quattro attività fondamentali. Nel mondo terreno esistono infatti quattro tipi di esseri viventi: alcuni sono capaci soltanto di assorbire nutrimento e, di conseguenza, di crescere e riprodursi; altri possiedono anche la capacità di percepire, come i molluschi e altri animali immobili; altri ancora hanno la facoltà di muoversi da un luogo all’altro, come gli animali perfetti, quali quadrupedi e uccelli; infine, l’uomo possiede la capacità ancora più elevata di comprendere.
+
+Risposta all’Obiezione 2: Con “operazioni vitali” si intendono quelle il cui principio risiede nell’individuo stesso e grazie alle quali quest’ultimo è in grado di compiere tali operazioni. È vero che negli esseri umani esistono non solo principi naturali che determinano certe azioni, ma anche abitudini che, come una sorta di “seconda natura”, li spingono verso particolari tipi di attività, rendendole fonte di piacere. Pertanto, qualsiasi tipo di lavoro dal quale un uomo trae gioia – per il quale quindi è incline a dedicargli tempo e organizza tutta la propria vita in suo favore – può essere considerato l’essenza stessa della sua esistenza. Da ciò deriva che alcune persone conducono una vita di autodisciplina, altre una vita virtuosa; in questo modo, la vita contemplativa si distingue dalla vita attiva, e conoscere Dio viene definita “vita eterna”. Pertanto, anche la Risposta alla Terza Obiezione risulta chiara.
 
 <span class="atom-split" data-atom="123" data-title="Whether life is properly attributed to God?" data-chapter="Whether life is properly attributed to God?" data-kind="atom" data-srclang="en"></span>
 
@@ -6200,6 +7870,25 @@ generation to preserve the species, and nourishment to preserve the individual. 
 is not found here below apart from a vegetative soul: but this does not hold good with incorruptible
 natures.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la vita non possa essere attribuita correttamente a Dio. Infatti, si dice che le cose siano “vive” nel senso che si muovono da sole, come già detto in precedenza (A[2]). Ma il movimento non appartiene a Dio; pertanto, nemmeno la vita gli appartiene.
+
+Obiezione 2: Inoltre, in tutti gli esseri viventi dobbiamo necessariamente supporre l’esistenza di qualche principio vitale. Pertanto, il Filosofo afferma nel “De Anima” ii, 4 che “l’anima è la causa e il principio del corpo vivente”. Ma Dio non possiede alcun principio vitale; pertanto, la vita non può essere attribuita a Lui.
+
+Obiezione 3: Inoltre, il principio della vita negli esseri viventi che esistono tra di noi è l’anima vegetativa. Ma questa esiste soltanto nelle cose corporee. Pertanto, la vita non può essere attribuita alle cose incorporee.
+
+Al contrario, si dice (Salmo 83:3): “Il mio cuore e la mia carne si sono rallegrati nel Dio vivente”.
+
+Rispondo che la vita, nel suo grado più elevato, appartiene esclusivamente a Dio. A dimostrazione di ciò, bisogna considerare che un essere è detto “vivente” nella misura in cui agisce da sé stesso e non viene mosso da altro; quindi, quanto più perfettamente questa capacità si riscontra in un essere, tanto più perfetta è la sua vita. Nei fenomeni di movimento, si osserva una struttura tripartita: innanzitutto, l’oggetto finale muove l’agente che lo realizza; l’agente principale è ciò che agisce attraverso la propria forma, ma a volte tale azione avviene tramite uno strumento che opera non in base alla propria forma, bensì su indicazione dell’agente principale, limitandosi semplicemente ad eseguire l’azione stessa. Esistono quindi esseri che si muovono da soli, non per via di una forma o di un fine innati in loro, ma solo per eseguire il movimento stesso; la forma attraverso cui agiscono e lo scopo dell’azione sono determinati dalla loro natura stessa. A questo tipo appartengono le piante, che si muovono secondo la propria natura intrinseca, esclusivamente al fine di crescere o decadere. Altri esseri possiedono una capacità di auto-movimento ancora più elevata: non solo per quanto riguarda l’esecuzione del movimento, ma anche per quanto concerne la forma stessa che ne è alla base; tale forma viene acquisita attraverso i sensi. Quindi, quanto più perfetti sono i loro sensi, tanto più perfetta è la loro capacità di auto-movimento. Gli animali che possiedono solo il senso del tatto si muovono soltanto attraverso contrazioni e espansioni; il loro movimento non supera quasi mai quello delle piante. Al contrario, gli animali dotati di sensi più sviluppati, in grado di riconoscere non solo contatti fisici ma anche oggetti esterni, possono muoversi a distanza attraverso movimenti progressivi. Tuttavia, anche se questi animali ricevono dalla percezione sensoriale la forma che è alla base del loro movimento, non sono in grado di stabilire da soli lo scopo della propria azione; tale scopo è infatti insito nella loro natura stessa, e attraverso l’istinto naturale vengono spinti ad agire in base a ciò che i sensi percepiscono. Gli animali che sono in grado di muoversi verso uno scopo da loro stesso stabilito sono quindi superiori agli altri; tale capacità può essere ottenuta soltanto attraverso la ragione e l’intelletto, che permettono di comprendere la relazione tra lo scopo e i mezzi necessari per raggiungerlo, e di coordinarli correttamente. Pertanto, un grado più elevato di vita è caratteristico degli esseri intellettuali; la loro capacità di auto-movimento è infatti più perfetta. Ciò si evince dal fatto che, nell’uomo stesso, la facoltà intellettuale dirige le facoltà sensoriali, e queste a loro volta comandano gli organi del movimento. Nelle arti, ad esempio, l’arte della navigazione guida quella della progettazione navale, e questa a sua volta quella che si occupa semplicemente della preparazione dei materiali necessari per costruire la nave.
+Ma sebbene il nostro intelletto sia spinto da sé stesso verso alcune cose, altre vengono fornite dalla natura stessa: così i principi primi, di cui non può dubitare; e lo scopo finale, che non può non perseguire. Pertanto, sebbene riguardo a certe cose l’intelletto agisca autonomamente, riguardo ad altre deve essere guidato da un altro fattore esterno. Quindi, colui il cui atto di comprendere costituisce la sua stessa natura, e che, in ciò che possiede naturalmente, non è determinato da alcun altro elemento, deve necessariamente possedere la vita nel grado più perfetto. Tale è Dio; ed è proprio in Lui che risiede principalmente la vita. Da questo si deduce, conclude il Filosofo (Metafisica XII, 51), dopo aver dimostrato che Dio è dotato di intelletto, che Egli possiede una vita perfetta ed eterna, poiché il Suo intelletto è il più perfetto e sempre attivo.
+
+Risposta all’Obiezione 1: Come affermato nella Metafisica IX, 16, l’azione è di due tipi. Le azioni di un certo tipo si estendono alla materia esterna, come il calore o il taglio; mentre le azioni dell’altro tipo rimangono nell’agente stesso, come comprendere, percepire e volere. La differenza tra queste due categorie consiste nel fatto che la prima sorta di azione rappresenta la perfezione non dell’agente che agisce, ma della cosa su cui si esercita l’azione; mentre la seconda sorta di azione costituisce effettivamente la perfezione dell’agente stesso. Pertanto, poiché il movimento è un atto della cosa che si muove, anche quest’ultima sorta di azione, in quanto atto dell’agente, viene chiamata “movimento” – proprio per questa analogia: così come il movimento è un atto della cosa su cui si esercita l’azione, allo stesso modo questo tipo di azione è un atto dell’agente. Tuttavia, mentre il movimento è un atto di ciò che è imperfetto, cioè di ciò che si trova in potenzialità, questa seconda sorta di azione è un atto di ciò che è perfetto, cioè di ciò che è già attualmente in atto, come affermato nel De Anima III, 28. Nel senso quindi in cui la comprensione può essere considerata un “movimento”, si dice che ciò che comprende se stesso si muove da solo. È proprio in questo senso che Platone insegnava anche che Dio si muove da sé; non nel senso in cui il movimento sia un atto di ciò che è imperfetto.
+
+Risposta all’Obiezione 2: Poiché Dio è la sua stessa esistenza e comprensione, lo stesso vale per la sua vita; pertanto Egli vive in modo tale da non possedere alcun principio vitale.
+
+Risposta all’Obiezione 3: La vita in questo mondo inferiore viene concessa a una natura corruttibile, che ha bisogno della riproduzione per preservare la specie e del nutrimento per mantenere l’individuo. Per questa ragione, qui sotto la vita esiste soltanto nelle forme legate alla vita vegetativa; ma ciò non vale per le nature incorruptibili.
+
 <span class="atom-split" data-atom="124" data-title="Whether all things are life in God?" data-chapter="Whether all things are life in God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that not all things are life in God. For it is said (Acts 17:28), "In Him we
@@ -6265,6 +7954,28 @@ that bad things are life in God. Those things that are not in time may be called
 as life means understanding only, and inasmuch as they are understood by God; but not in so far
 as life implies a principle of operation.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non tutte le cose siano “vita” in Dio. Infatti si dice (Atti 17:28): “In Lui viviamo, ci muoviamo e esistiamo”. Ma non tutte le cose in Dio sono “movimento”; pertanto, non tutte le cose sono “vita” in Lui.
+
+Obiezione 2: Inoltre, tutte le cose esistono in Dio come loro primo modello. Ma ciò che è modellato deve conformarsi a quel modello. Poiché non tutte le cose possiedono vita in sé stesse, sembra quindi che nemmeno tutte le cose siano considerate “vita” in Dio.
+
+Obiezione 3: Inoltre, come afferma [Agostino](/figures/augustine) (De Vera Relig. 29), una sostanza vivente è migliore di una sostanza che non vive. Pertanto, se le cose che in sé stesse non possiedono vita sono considerate “vita” in Dio, sembrerebbe che esistano in modo più reale in Dio che in se stesse. Ma ciò pare falso: poiché in sé stesse esistono in modo effettivo, mentre in Dio esistono soltanto potenzialmente.
+
+Obiezione 4: Inoltre, proprio come le cose buone e quelle create nel corso del tempo sono conosciute da Dio, lo stesso vale per le cose cattive e per quelle che Dio potrebbe creare, ma che mai verranno create. Pertanto, se tutte le cose sono “vita” in Dio, nella misura in cui sono conosciute da Lui, sembrerebbe che anche le cose cattive e quelle che non verranno mai create siano considerate “vita” in Dio, secondo la sua conoscenza; ma ciò appare inaccettabile.
+
+Al contrario, (Giovanni 1:3,4) si dice: “In Lui fu generata la vita”. Ma tutte le cose sono state create, tranne Dio stesso; pertanto, tutte le cose sono vita in Dio.
+
+Rispondo che, in Dio, vivere significa comprendere, come già detto (A[3]). In Dio, l’intelletto, ciò che viene compreso e l’atto stesso di comprendere sono una cosa sola. Pertanto, tutto ciò che esiste in Dio nel senso di essere compreso è proprio la vita stessa di Dio. Ora, poiché tutte le cose create da Dio esistono in Lui come entità comprese, ne consegue che tutte queste cose rappresentano la vita divina stessa.
+
+Risposta all’Obiezione 1: Si dice che le creature siano in Dio in due sensi diversi. In un certo senso, esse sono tenute unite e conservate dal potere divino; proprio come diciamo che le cose che sono sotto il nostro controllo esistono dentro di noi. Le creature sono quindi considerate “in Dio” nel senso in cui esistono nella loro stessa natura. In questo senso, dobbiamo comprendere le parole dell’Apostolo quando afferma: “In Lui viviamo, ci muoviamo e siamo”; poiché la nostra esistenza, la nostra vita e i nostri movimenti sono tutti causati da Dio. In un altro senso, si dice che le cose siano in Dio nel senso in cui esse sono conosciute da Dio; in questo caso, esse sono “in Dio” attraverso le loro idee proprie, le quali, in Dio, non sono distinte dall’essenza divina stessa. Pertanto, le cose così come esistono in Dio costituiscono l’essenza divina. E poiché l’essenza divina è vita e non movimento, ne consegue che le cose che esistono in Dio in questo modo non sono movimento, ma vita.
+
+Risposta all’Obiezione 2: La cosa modellata deve essere simile al modello per quanto riguarda la forma, non il modo di essere. Infatti, a volte la forma nel modello ha un tipo di essere diverso da quello che possiede nella cosa modellata. Ad esempio, la forma di una casa nell’immaginazione dell’architetto ha un essere immateriale e intelligibile; ma nella casa che esiste al di fuori della sua mente, quel stesso schema ha un essere materiale e sensibile. Pertanto, le idee delle cose, sebbene non esistano in sé stesse, rappresentano una sorta di “vita” nella mente divina, poiché possiedono un’esistenza divina all’interno di essa.
+
+Risposta all’Obiezione 3: Se solo la forma, e non la materia, appartenesse alle cose naturali, allora, sotto ogni aspetto, tali cose esisterebbero in modo più reale nella mente divina, attraverso le loro idee, che in se stesse. Per questo motivo Platone riteneva che l’uomo “vero” fosse quello separato dalla materia; che l’uomo, così come esiste nella materia, sia uomo soltanto per partecipazione a una natura superiore. Tuttavia, poiché la materia entra a far parte dell’esistenza delle cose naturali, dobbiamo dire che queste cose hanno un essere più reale nella mente divina che in se stesse: nella mente divina, infatti, esse possiedono un essere non creato, mentre in se stesse hanno un essere creato. Un uomo, o un cavallo, ad esempio, ha questo essere in modo più reale nella propria natura materiale che nella mente divina, poiché appartiene alla [natura umana](/axes/human_nature) essere materiale; qualcosa che, esistendo nella mente divina, non è più. Allo stesso modo, una casa ha un essere più nobile nella mente dell’architetto che nella materia; tuttavia, una casa materiale viene chiamata “casa” in modo più reale di quella che esiste soltanto nella mente, poiché la prima è reale, mentre la seconda è solo potenziale.
+
+Risposta all’Obiezione 4: Sebbene le cose cattive siano conosciute da Dio, poiché fanno parte di quella sua conoscenza, esse non esistono in Dio nel senso che siano state create da Lui, conservate da Lui o abbiano in Lui il proprio “modello”. Dio le conosce attraverso i “modelli” delle cose buone. Pertanto, non si può affermare che le cose cattive costituiscano una sorta di “vita” in Dio. Quelle cose che non appartengono al tempo possono essere considerate “vita” in Dio nel senso che il concetto di vita indica soltanto la conoscenza, e poiché esse sono conosciute da Dio; ma non nel senso che il concetto di vita implichi un principio di azione o di operazione.
+
 <span class="atom-split" data-atom="125" data-title="THE WILL OF GOD (TWELVE ARTICLES)" data-chapter="THE WILL OF GOD (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After considering the things belonging to the divine knowledge, we consider what belongs to
@@ -6284,6 +7995,22 @@ will itself there are twelve points of inquiry:
 (11) Whether the will of expression is distinguished in God?
 (12) Whether five expressions of will are rightly assigned to the divine will?
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo aver considerato ciò che appartiene alla conoscenza divina, esaminiamo ora ciò che riguarda la volontà divina. La prima riflessione concerne la volontà divina stessa; la seconda riguarda ciò che appartiene esclusivamente a tale volontà; la terza analizza ciò che, in relazione alla volontà divina, compete all’intelletto umano. Per quanto riguarda la volontà divina stessa, vi sono dodici punti di indagine:  
+(1) Esiste davvero una volontà in Dio?  
+(2) Dio vuole le cose al di fuori di Sé stesso?  
+(3) Tutto ciò che Dio vuole, lo vuole necessariamente?  
+(4) La volontà di Dio è la causa delle cose?  
+(5) Si può attribuire una qualche causa alla volontà divina?  
+(6) La volontà divina si realizza sempre?  
+(7) La volontà di Dio è mutabile?  
+(8) La volontà di Dio impone necessariamente l’attuazione delle cose che desidera?  
+(9) In Dio esiste la volontà del male?  
+(10) Dio possiede una [libera volontà](/positions/free_will)?  
+(11) In Dio esiste una volontà di manifestare ciò che vuole?  
+(12) Si possono attribuire correttamente cinque forme diverse di espressione della volontà divina?
+
 <span class="atom-split" data-atom="126" data-title="Whether there is will in God?" data-chapter="Whether there is will in God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that there is not will in God. For the object of will is the end and the
@@ -6295,6 +8022,14 @@ God.
 
 Objection 3: Further, according to the Philosopher (De [Anima](/concepts/soul) iii, 54), the will moves, and is
 moved. But God is the first cause of movement, and Himself is unmoved, as proved in Phys. viii,
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che in Dio non esista volontà. Infatti, l’oggetto della volontà è lo scopo e il bene. Ma non possiamo attribuire a Dio alcuno scopo. Pertanto, in Dio non esiste volontà.
+
+Obiezione 2: Inoltre, la volontà è un tipo di desiderio. Ma il desiderio, poiché si dirige verso cose che non si possiedono, implica imperfezione, qualcosa che non può essere attribuito a Dio. Pertanto, in Dio non esiste volontà.
+
+Obiezione 3: Inoltre, secondo il Filosofo (De [Anima](/concepts/soul) iii, 54), la volontà muove e viene mossa. Ma Dio è la causa prima del movimento, ed Egli stesso è immoto, come dimostrato in Phys. viii.
 
 <span class="atom-split" data-atom="127" data-title="49. Therefore there is not will in God." data-chapter="49. Therefore there is not will in God." data-kind="atom" data-srclang="en"></span>
 
@@ -6325,6 +8060,18 @@ moved by another; but the object of the divine will is His goodness, which is Hi
 since the will of God is His essence, it is not moved by another than itself, but by itself alone, in
 the same sense as understanding and willing are said to be movement. This is what Plato meant
 when he said that the first mover moves itself.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Al contrario, l’Apostolo dice (Roma 12:2): “Affinché possiate conoscere quale sia la volontà di Dio”.
+
+Rispondo che in Dio esiste volontà, così come esiste intelligenza: poiché la volontà deriva dall’intelligenza. Infatti, proprio come le cose naturali hanno un’esistenza reale grazie alla loro forma, così l’intelligenza è effettivamente capace di comprendere grazie alla sua forma intelligibile. Ogni essere possiede questa tendenza verso la propria forma naturale: quando non la possiede, ne è attratto; quando invece la possiede, vi si trova in quiete. Lo stesso vale per ogni perfezione naturale, che rappresenta un bene naturale. Questa tendenza al bene, presente negli esseri privi di conoscenza, viene chiamata “appetito naturale”. Anche le nature intellettuali possiedono una simile tendenza, derivante dalla loro forma intelligibile: quando ne sono dotate, vi si trovano in quiete; quando non lo sono, cercano di ottenerla, e queste azioni rientrano nella sfera della volontà. Pertanto, in ogni essere intellettivo esiste volontà, proprio come in ogni essere sensibile esiste l’appetito naturale. E poiché in Dio esiste intelligenza, deve necessariamente esistere anche volontà. E poiché la sua intelligenza è la sua stessa esistenza, allo stesso modo anche la sua volontà è la sua stessa essenza.
+
+Risposta all’Obiezione 1: Sebbene nulla, al di fuori di Dio, sia il suo fine, Egli stesso è il fine per tutte le cose da Lui create. E ciò deriva dalla Sua essenza stessa, poiché per sua essenza Egli è buono, come dimostrato sopra (Q[6], A[3]): infatti il fine presenta sempre un aspetto di bontà.
+
+Risposta all’Obiezione 2: La volontà in noi appartiene alla parte appetitiva; questa, sebbene il suo nome derivi dall’appetito, non ha come unico scopo la ricerca di ciò che non possiede, ma anche l’amore e il piacere per ciò che già possiede. In questo senso si dice che anche in Dio esista la volontà, poiché Egli ha sempre qualcosa di buono come oggetto del proprio desiderio; inoltre, come già detto, la volontà non è distinta dall’essenza stessa di Dio.
+
+Risposta all’Obiezione 3: Una volontà il cui oggetto principale è un bene in sé stante deve essere mossa da qualcos’altro; ma l’oggetto della volontà divina è la Sua bontà, che è la Sua essenza. Pertanto, poiché la volontà di Dio è la Sua essenza, essa non viene mossa da nulla altro se non da sé stessa, ma soltanto da sé stessa, nello stesso senso in cui si dice che il comprendere e il voler siano atti di movimento. È ciò che intendeva Platone quando affermava che il primo motore si muove da solo.
 
 <span class="atom-split" data-atom="128" data-title="Whether God wills things apart from Himself?" data-chapter="Whether God wills things apart from Himself?" data-kind="atom" data-srclang="en"></span>
 
@@ -6384,6 +8131,28 @@ the divine essence, yet in that essence knows other things.
 Reply to Objection 4: As the divine intellect is one, as seeing the many only in the one, in the
 same way the divine will is one and simple, as willing the many only through the one, that is,
 through its own goodness.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non voglia nulla al di fuori di Sé stesso. Poiché la volontà divina è l’esistenza stessa di Dio, e Dio non è altro che Sé stesso, quindi Egli non vuole nulla che esuli da Sé stesso.
+
+Obiezione 2: Inoltre, la volontà muove colui che la possiede, così come ciò che è desiderabile stimola il desiderio, come affermato nel De [Anima](/concepts/soul) iii, 54. Pertanto, se Dio volesse qualcosa al di fuori di Sé stesso, la Sua volontà dovrebbe essere mossa da un altro; il che è impossibile.
+
+Obiezione 3: Inoltre, se ciò che viene voluto è sufficiente per colui che vuole, egli non cerca nulla al di là di esso. Ma la Sua stessa bontà è sufficiente per Dio e soddisfa completamente la Sua volontà. Pertanto, Dio non desidera nulla al di fuori di Sé stesso.
+
+Obiezione 4: Inoltre, gli atti di volontà si moltiplicano in proporzione al numero dei loro oggetti. Pertanto, se Dio vuole sé stesso e le cose al di fuori di sé, ne consegue che l’atto della Sua volontà sia molteplice, e di conseguenza lo sia anche la Sua esistenza, che è la Sua stessa volontà. Ma ciò è impossibile. Quindi Dio non vuole le cose al di fuori di sé.
+
+Al contrario, l’Apostolo dice (1 Tessalonicesi 4:3): “Questa è la volontà di Dio: che voi siate santificati”.
+
+Rispondo che Dio non desidera soltanto se stesso, ma anche altre cose al di fuori di sé stesso. Ciò è evidente dal confronto che abbiamo fatto sopra (A[1]). Le cose naturali, infatti, hanno una tendenza innata non solo verso il proprio bene specifico: da un lato, a ottenerlo se non lo possiedono e, una volta posseduto, a rimanervi; dall’altro lato, a diffondere al massimo possibile quel bene tra gli altri. Pertanto, ogni ente, nella misura in cui è perfetto e attivo, produce ciò che è simile a sé stesso. È quindi naturale per la volontà comunicare, quanto più possibile, il bene che possiede agli altri; questo vale soprattutto per la volontà divina, da cui deriva ogni forma di perfezione. Quindi, se le cose naturali, nella misura in cui sono perfette, comunicano il proprio bene agli altri, tanto più è dovere della volontà divina diffondere, attraverso la propria natura simile a quella delle cose create, il proprio bene al massimo grado possibile. Ecco perché Dio desidera sia se stesso che altre cose esistano; ma se stesso come fine ultimo, e le altre cose come strumenti per realizzare quel fine, poiché è conforme alla sua bontà divina che anche altre cose partecipino a tale bene.
+
+Risposta all’Obiezione 1: La volontà divina è essenzialmente l’esistenza stessa di Dio; tuttavia, esse differiscono per aspetto, a seconda dei diversi modi in cui vengono comprese e espresse, come risulta chiaramente da quanto già detto (Q[13], A[4]). Infatti, quando diciamo che Dio esiste, non si implica alcuna relazione con altri oggetti, al contrario di quando diciamo che Dio vuole. Pertanto, sebbene Dio non sia nulla al di fuori di Sé stesso, Egli volontà comunque cose al di fuori di Sé stesso.
+
+Risposta all’Obiezione 2: Nei casi in cui si desidera qualcosa soltanto per il fine ultimo che esso rappresenta, l’unica ragione che spinge la nostra volontà è proprio quel fine; ed è proprio questo fine a muovere la volontà, come risulta chiaramente nei casi in cui si desidera qualcosa esclusivamente per il suo scopo finale. Chi decide di bere una bevanda amara lo fa soltanto nella speranza di ottenere benefici per la salute; ed è solo questa motivazione a guidare la sua volontà. Al contrario, chi beve una bevanda piacevole può farlo sia per il bene che essa apporta sia semplicemente per il piacere che procura. Pertanto, anche se Dio desidera le cose al di fuori di Sé soltanto per il fine ultimo, che è la Sua stessa bontà, ciò non significa che altre motivazioni possano influenzare la Sua volontà, se non la Sua bontà stessa. Così come Egli comprende le cose al di fuori di Sé attraverso la comprensione della propria essenza, allo stesso modo desidera le cose al di fuori di Sé per voler la propria bontà.
+
+Risposta all’Obiezione 3: Dal fatto che la sua stessa bontà sia sufficiente alla volontà divina, non ne consegue che essa voglia nulla al di fuori di sé; piuttosto, significa che essa vuole soltanto in virtù della propria bontà. Allo stesso modo, l’intelligenza divina, sebbene la sua perfezione risieda nella conoscenza stessa dell’essenza divina, attraverso tale essenza conosce anche altre cose.
+
+Risposta all’Obiezione 4: Poiché l’intelligenza divina è unica, e vede il molteplice soltanto nell’unità, allo stesso modo anche la volontà divina è unica e semplice, poiché desidera il molteplice soltanto attraverso l’unità, cioè attraverso la propria bontà.
 
 <span class="atom-split" data-atom="129" data-title="Whether whatever God wills He wills necessarily?" data-chapter="Whether whatever God wills He wills necessarily?" data-kind="atom" data-srclang="en"></span>
 
@@ -6470,6 +8239,36 @@ have necessary existence inasmuch as they exist in God; but no absolute necessit
 necessary in themselves, in so far as they exist in themselves; it follows that God knows necessarily
 whatever He wills, but does not will necessarily whatever He wills.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che tutto ciò che Dio vuole lo voglia necessariamente. Infatti, tutto ciò che è eterno è necessario. Ma qualsiasi cosa Dio voglia, la vuole dall’[eternità](/positions/eternity), poiché altrimenti la Sua volontà sarebbe mutevole. Pertanto, tutto ciò che Egli vuole lo vuole necessariamente.
+
+Obiezione 2: Inoltre, Dio vuole le cose al di fuori di Sé stesso, poiché desidera la propria bontà. Ora, Dio desidera necessariamente la propria bontà; pertanto, vuole anche le cose al di fuori di Sé stesso in modo necessario.
+
+Obiezione 3: Inoltre, tutto ciò che appartiene alla natura di Dio è necessario, poiché Dio stesso è un essere necessario e il principio di ogni necessità, come dimostrato in precedenza (Q[2], A[3]). Ma fa parte della Sua natura volere ciò che Egli vuole; poiché in Dio non può esistere nulla al di sopra della Sua natura, come affermato nella Metafisica V, 6. Pertanto, tutto ciò che Egli vuole, lo vuole necessariamente.
+
+Obiezione 4: Inoltre, poiché qualcosa non è necessario e poiché è possibile che esso non esista, queste due cose sono la stessa cosa. Pertanto, se Dio non desidera necessariamente qualcosa che desidera, è possibile che non lo desideri; quindi è anche possibile che desideri ciò che in realtà non desidera. Di conseguenza, la volontà divina dipende da una delle due possibilità e quindi è imperfetta, poiché tutto ciò che è contingente è imperfetto e mutabile.
+
+Obiezione 5: Inoltre, per ciò che è indifferente rispetto a una o all’altra di due possibilità, non si verifica alcuna azione se non vi sia qualche altra forza che lo spinga verso una o l’altra, come afferma il Commentatore [*Averroè*] nel “Physica” II. Pertanto, se la Volontà di Dio è indifferente riguardo a qualcosa, ne consegue che la Sua decisione di agire proviene da un’altra causa; e quindi Egli ha una causa precedente a Sé stesso.
+
+Obiezione 6: Inoltre, tutto ciò che Dio conosce, lo conosce necessariamente. Poiché la conoscenza divina fa parte della Sua essenza, allo stesso modo anche la volontà divina ne fa parte. Pertanto, tutto ciò che Dio vuole, lo vuole necessariamente.
+
+Al contrario, l’Apostolo dice (Efesini 1:11): “Colui che opera tutte le cose secondo il disegno della Sua volontà”. Ora, ciò che facciamo secondo il disegno della volontà di Dio, non lo desideriamo necessariamente. Pertanto, nemmeno Dio desidera necessariamente tutto ciò che vuole.
+
+Rispondo che ci sono due modi in cui si può affermare che qualcosa sia necessario: cioè, in modo assoluto e sulla base di una supposizione. Giudichiamo che qualcosa sia assolutamente necessario in base alla relazione tra i termini coinvolti; ad esempio, è assolutamente necessario che l’uomo sia un animale, poiché questa caratteristica fa parte della definizione stessa dell’uomo. Lo stesso vale quando il soggetto fa parte della nozione del predicato: in tal caso, è assolutamente necessario che un numero sia dispari o pari. Tuttavia, non è assolutamente necessario che Socrate stia seduto; questa condizione può essere vera solo sulla base di una supposizione, poiché, se egli sta effettivamente seduto, allora è inevitabile che lo faccia. Per quanto riguarda le cose volute da Dio, dobbiamo riconoscere che Egli vuole ciò che è assolutamente necessario; tuttavia, questo non vale per tutto ciò che Egli vuole. La volontà divina ha infatti una relazione necessaria con la bontà divina, poiché questa ne costituisce l’oggetto proprio. Pertanto, Dio vuole necessariamente la propria bontà, così come noi vogliamo necessariamente la nostra stessa felicità; inoltre, qualsiasi altra facoltà umana ha una relazione necessaria con il proprio oggetto principale: ad esempio, la vista con i colori, poiché tende naturalmente verso di essi. Tuttavia, Dio vuole le cose anche al di fuori di Sé stesso, nella misura in cui queste sono ordinate alla Sua bontà come loro fine ultimo. Nel voler un fine, non vogliamo necessariamente tutte le cose che lo portano a realizzazione, a meno che tali cose siano indispensabili per raggiungere quel fine; ad esempio, vogliamo mangiare per preservare la vita, o prendere una nave per attraversare il mare. Tuttavia, non vogliamo necessariamente cose di cui l’obiettivo potrebbe essere comunque raggiunto senza di esse, come un cavallo per un viaggio che possiamo compiere a piedi. Lo stesso vale per gli altri mezzi utilizzati. Poiché la bontà di Dio è perfetta e può esistere senza altre cose, poiché nessuna perfezione può aggiungersi a Lei attraverso esse, ne consegue che ciò che Dio vuole al di fuori di Sé stesso non sia assolutamente necessario. Tuttavia, può esserlo sulla base di una supposizione: se si ipotizza che Egli voglia qualcosa, allora è inevitabile che lo voglia, poiché la Sua volontà non può cambiare.
+
+Risposta all’Obiezione 1: Dal fatto che Dio vuole, dall’eternità in poi, ciò che vuole, non ne consegue necessariamente che lo voglia realmente; se non per ipotesi.
+
+Risposta all’Obiezione 2: Sebbene Dio desideri necessariamente la propria bontà, non desidera necessariamente che le cose esistano per via della sua bontà; infatti, questa bontà può esistere anche senza altre cose.
+
+Risposta all’Obiezione 3: Non è naturale per Dio volere alcuna di quelle altre cose che non desidera necessariamente; eppure ciò non è né contrario alla Sua natura, né innaturale, ma piuttosto volontario.
+
+Risposta all’Obiezione 4: A volte una causa necessaria ha un rapporto non necessario con un effetto; ciò deriva da una carenza nell’effetto stesso, e non nella causa. Così pure, il potere del sole ha un rapporto non necessario con alcuni eventi contingenti su questa terra, a causa di una deficienza non nel potere solare, ma nell’effetto che non deriva necessariamente da quella causa. Allo stesso modo, il fatto che Dio non voglia necessariamente alcune delle cose che vuole, non deriva da una carenza nella sua volontà divina, ma da una caratteristica intrinseca alla natura di quelle cose: cioè dal fatto che la perfezione della bontà di Dio può esistere anche senza di esse; e tale caratteristica è comune a ogni bene creato.
+
+Risposta all’Obiezione 5: Una causa naturalmente contingente deve essere determinata ad agire da qualche forza esterna. La volontà divina, che per sua natura è necessaria, si determina essa stessa a volere cose con cui non ha alcuna relazione necessaria.
+
+Risposta all’Obiezione 6: Poiché l’essenza divina è necessaria di per sé, lo stesso vale per la volontà divina e la conoscenza divina; tuttavia, la conoscenza divina ha una relazione necessaria con ciò che viene conosciuto, mentre la volontà divina non ha una tale relazione con ciò che viene voluto. Il motivo di ciò è che la conoscenza riguarda le cose così come esistono nell’intelletto umano; invece, la volontà si dirige verso le cose così come esistono in sé stesse. Poiché tutte le altre cose hanno un’esistenza necessaria nella misura in cui esistono in Dio, esse non possiedono però una necessità assoluta che le renda necessarie di per sé stesse; ne consegue che Dio conosce necessariamente tutto ciò che vuole, ma non vuole necessariamente tutto ciò che desidera.
+
 <span class="atom-split" data-atom="130" data-title="Whether the will of God is the cause of things?" data-chapter="Whether the will of God is the cause of things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the will of God is not the cause of things. For Dionysius says (Div.
@@ -6537,6 +8336,31 @@ in the intellect only is not determined to exist or not to exist in the effect, 
 the speculative intellect has nothing to say to operation. But the power is cause, as executing the
 effect, since it denotes the immediate principle of operation. But in God all these things are one.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la volontà di Dio non sia la causa delle cose. Infatti Dionigi afferma (Div. Nom. iv, 1): “Come il nostro sole illumina tutte le cose che possono ricevere la sua luce, non per ragione né per una scelta preveduta, ma per la sua stessa essenza, così il bene divino, con la sua essenza stessa, irradia i raggi del bene su tutto ciò che esiste”. Tuttavia ogni agente volontario agisce per ragione e in base a una scelta deliberata. Pertanto Dio non agisce per volontà; e quindi la Sua volontà non è la causa delle cose.
+
+Obiezione 2: Inoltre, ciò che è essenzialmente primo in qualsiasi ordine è ciò che lo è per sua natura; quindi, nell’ordine delle cose che bruciano, ciò che viene prima è il fuoco, in quanto tale. Ma Dio è l’agente primario. Pertanto agisce secondo la sua essenza, cioè secondo la sua natura. Agisce quindi per natura, e non per volontà. Quindi la volontà divina non è la causa delle cose.
+
+Obiezione 3: Inoltre, qualsiasi cosa sia la causa di qualcos altro, per il fatto stesso di essere “quella cosa”, è causa per natura e non per volontà. Il fuoco, ad esempio, è la causa del calore perché esso stesso è caldo; mentre un architetto è la causa di una casa perché intende costruirla. Ora, [Agostino](/figures/augustine) afferma (De Doctrina Christiana, I, 32): “Poiché Dio è buono, noi esistiamo”. Pertanto, Dio è la causa delle cose per sua natura e non per sua volontà.
+
+Obiezione 4: Inoltre, per ogni cosa esiste una sola causa. Ma le cose create rappresentano la conoscenza di Dio, come detto in precedenza (Q[14], A[8]). Pertanto, la volontà di Dio non può essere considerata la causa delle cose.
+
+Al contrario, si dice (Sapienza 11:26): “Come potrebbe qualcosa sopravvivere, se Tu non lo volessi?”
+
+Rispondo che dobbiamo ritenere che la volontà di Dio sia la causa delle cose; e che Egli agisca per volontà, e non, come alcuni hanno supposto, per una necessità della Sua natura. Ciò può essere dimostrato in tre modi:  
+In primo luogo, dall’ordine stesso delle cause attive. Poiché sia l’intelletto che la natura agiscono sempre per un fine, come dimostrato nella Fisica ii, 49, l’agente naturale deve possedere quel fine e i mezzi necessari già predeterminati da un intelletto superiore; proprio come il bersaglio e il movimento preciso dell’arco sono determinati dall’arciere. Pertanto, l’agente intellettivo e volontario deve precedere l’agente che agisce per natura. Poiché Dio è al primo posto nell’ordine degli agenti, Egli deve agire per intelletto e volontà.  
+In secondo luogo, dal carattere stesso di un agente naturale, il cui scopo è produrre sempre lo stesso effetto; la natura infatti opera sempre nello stesso modo, a meno che non venga ostacolata. Ciò perché la natura dell’atto corrisponde alla natura dell’agente; quindi, finché l’agente possiede tale natura, i suoi atti saranno in linea con essa; poiché ogni agente naturale ha un essere determinato. Poiché l’Essere Divino, invece, è indeterminato e contiene in Sé la piena perfezione dell’essere, non può agire per una necessità della Sua natura, a meno che non causasse qualcosa di indeterminato e indefinito nell’essere; ma ciò è impossibile, come già dimostrato (Q[7], A[2]). Pertanto, Dio non agisce per necessità della Sua natura, bensì effetti determinati derivano dalla Sua infinita perfezione, secondo la volontà e l’intelletto di Dio.  
+In terzo luogo, dalla relazione tra gli effetti e la loro causa. Gli effetti derivano dall’agente che li causa, nella misura in cui tali effetti preesistono nell’agente stesso; poiché ogni agente produce sempre qualcosa di simile a sé. Ora, gli effetti preesistono nella loro causa secondo il modo specifico di quella causa. Poiché l’Essere Divino è il proprio intelletto, gli effetti preesistono in Lui secondo il modo dell’intelletto, e quindi derivano da Lui nello stesso modo. Di conseguenza, derivano anche dalla Sua volontà, poiché la tendenza di Dio ad attuare ciò che il Suo intelletto concepisce appartiene alla volontà stessa. Pertanto, la volontà di Dio è la causa delle cose.
+
+Risposta all’Obiezione 1: Con queste parole, Dionigi non intende escludere assolutamente l’eletto da Dio; ma soltanto in un certo senso, ovvero nel modo in cui Egli comunica la Sua bontà non solo a determinate cose, ma a tutte; e poiché l’eletto implica una certa distinzione.
+
+Risposta all’Obiezione 2: Poiché l’essenza di Dio è il suo intelletto e la sua volontà, dal fatto che Egli agisce in base alla propria essenza, ne consegue che agisce secondo i modi dell’intelletto e della volontà.
+
+Risposta all’Obiezione 3: Il bene è l’oggetto della volontà. Pertanto, le parole “Poiché Dio è buono, noi esistiamo” sono vere nella misura in cui la Sua bontà costituisce il motivo per cui Egli vuole tutte le altre cose, come già detto in precedenza (A[2], ad 2).
+
+Risposta all’Obiezione 4: Anche in noi, la causa dello stesso effetto è la conoscenza che lo dirige, attraverso la quale viene concepita la forma dell’opera, e la volontà che la comanda; infatti, la forma, essendo presente soltanto nell’intelletto, non è determinata ad esistere o meno nell’effetto se non dalla volontà. Pertanto, l’intelletto speculativo non ha alcun ruolo nell’azione concreta. Ma la potenza è causa, in quanto realizza effettivamente l’operazione, poiché rappresenta il principio immediato dell’azione stessa. Tuttavia, in Dio tutte queste cose sono una sola.
+
 <span class="atom-split" data-atom="131" data-title="Whether any cause can be assigned to the divine will?" data-chapter="Whether any cause can be assigned to the divine will?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that some cause can be assigned to the divine will. For [Augustine](/figures/augustine) says
@@ -6596,6 +8420,24 @@ to have hands to serve his intellect by their work, and intellect, that he might
 him to be man that he might enjoy Him, or for the completion of the universe. But this cannot be
 reduced to other created secondary ends. Hence such things depend on the simple will of God; but
 the others on the order of other causes.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che si possa attribuire una causa alla volontà divina. Infatti, [Agostino](/figures/augustine) afferma (Qq. lxxxiii, 46): “Chi oserebbe dire che Dio abbia creato tutte le cose in modo irrazionale?” Ma per un agente volontario, ciò che costituisce la ragione dell’agire è anche la causa della sua volontà. Pertanto, la volontà di Dio deve avere una qualche causa.
+
+Obiezione 2: Inoltre, nelle cose create da colui che intende crearle e il cui volere non è influenzato da alcuna causa, non può esistere alcuna causa se non quella del creatore stesso. Ma il volere di Dio è la causa di tutte le cose, come già dimostrato (A[4]). Pertanto, se non esiste alcuna causa per il volere divino, non possiamo cercare in nulla di naturale una spiegazione diversa dal volere divino stesso. In questo caso, tutta la scienza risulterebbe vana, poiché lo scopo della scienza è proprio individuare le cause degli effetti. Ciò sembra inaccettabile; quindi dobbiamo necessariamente attribuire una causa al volere divino.
+
+Obiezione 3: Inoltre, ciò che l’uomo compie per volontà propria, senza alcuna causa esterna, dipende esclusivamente dalla sua volontà stessa. Pertanto, se la volontà di Dio non ha alcuna causa, ne consegue che tutte le cose create dipendono unicamente dalla Sua volontà e non hanno altra origine. Ma nemmeno questo è accettabile.
+
+Al contrario, Agostino afferma (Qq. lxxxiii, 28): “Ogni [causa efficace](/concepts/four_causes) è maggiore di ciò che essa produce.” Ma nulla è più grande della volontà di Dio; pertanto non dobbiamo cercare una causa per essa.
+
+Rispondo che la volontà di Dio, in nessun modo, ha una causa. A dimostrazione di ciò, dobbiamo considerare che, poiché la volontà deriva dall’intelletto, esiste una causa della volontà nella persona che vuole, proprio come esiste una causa dell’intelligenza nella persona che comprende. Nel caso dell’intelligenza, se il premesso e la conclusione vengono compresi separatamente l’uno dall’altro, allora è l’intelligenza del premesso a essere la causa della conoscenza della conclusione; se invece l’intelligenza percepisce direttamente la conclusione nel premesso stesso, comprendendo entrambi simultaneamente, in questo caso la conoscenza della conclusione non deriverebbe dalla comprensione dei premessi, poiché una cosa non può essere la propria causa; eppure sarebbe vero dire che colui che pensa considera i premessi come cause della conclusione. Lo stesso vale per la volontà: il fine ha lo stesso rapporto nei confronti dei mezzi utilizzati per raggiungerlo, quanto i premessi hanno nei confronti della conclusione nell’ambito dell’intelligenza. Pertanto, se qualcuno, in un atto, vuole un certo fine e, in un altro atto, i mezzi necessari per raggiungerlo, allora il volere quel fine sarà la causa del suo voler quei mezzi; ciò non può accadere se, in un solo atto, si vogliono sia il fine che i mezzi, poiché una cosa non può essere la propria causa. Tuttavia, è vero dire che si vuole ordinare i mezzi al fine. Così come Dio, con un solo atto, comprende tutte le cose nella Sua essenza, allo stesso modo, con un solo atto, vuole tutte le cose nella Sua bontà. Pertanto, poiché in Dio comprendere la causa non è la causa della sua comprensione dell’effetto – poiché egli comprende l’effetto nella causa – allo stesso modo, in Lui voler un fine non è la causa del suo voler i mezzi per raggiungerlo; tuttavia Egli vuole che i mezzi siano ordinati al fine. Quindi, Egli vuole che ciò sia considerato come mezzo per quello; ma non lo vuole in quanto tale.
+
+Risposta all’Obiezione 1: La volontà di Dio è razionale, non perché qualcosa possa costituire per Lui una causa che lo spinga ad agire, ma nel senso che Egli vuole che una cosa avvenga in base un’altra.
+
+Risposta all’Obiezione 2: Poiché Dio vuole che gli effetti derivino da cause definite, al fine di preservare l’ordine nell’universo, non è irragionevole cercare cause secondarie alla volontà divina. Tuttavia, sarebbe irragionevole farlo se tali cause fossero considerate primarie e non dipendenti dalla volontà di Dio. In questo senso Agostino afferma (De Trinitate iii, 2): “I filosofi, nella loro vanità, hanno ritenuto opportuno attribuire effetti contingenti ad altre cause, essendo completamente incapaci di percepire la causa che emerge su tutte le altre: la volontà di Dio.”
+
+Risposta all’Obiezione 3: Poiché Dio vuole che gli effetti derivino da cause, tutti gli effetti che presuppongono un altro effetto non dipendono esclusivamente dalla volontà di Dio, ma anche da altre cose; invece, il primo effetto dipende unicamente dalla volontà divina. Ad esempio, si può dire che Dio abbia voluto che l’uomo avesse mani per servire il proprio intelletto attraverso il loro lavoro, e che l’intelletto esistesse affinché l’uomo potesse essere uomo; inoltre, Dio ha voluto che l’uomo fosse uomo affinché potesse godere di Lui o affinché l’universo potesse essere completato. Ma tutto ciò non può essere ridotto ad altri fini secondari creati da Dio. Pertanto, alcune cose dipendono dalla semplice volontà divina, mentre altre dipendono dall’ordine delle altre cause.
 
 <span class="atom-split" data-atom="132" data-title="Whether the will of God is always fulfilled?" data-chapter="Whether the will of God is always fulfilled?" data-kind="atom" data-srclang="en"></span>
 
@@ -6671,6 +8513,25 @@ Reply to Objection 3: A first cause can be hindered in its effect by deficiency 
 cause, when it is not the universal first cause, including within itself all causes; for then the effect
 could in no way escape its order. And thus it is with the will of God, as said above.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la volontà di Dio non venga sempre realizzata. Infatti l’Apostolo dice (1 Timoteo 2:4): “Dio vuole che tutti gli uomini siano salvati e giungano alla conoscenza della verità”. Ma questo non avviene sempre; pertanto la volontà di Dio non viene sempre adempiuta.
+
+Obiezione 2: Inoltre, così come esiste una relazione tra conoscenza e verità, esiste anche una relazione tra volontà e bene. Poiché Dio conosce tutta la verità, quindi vuole tutto il bene. Tuttavia, non tutto il bene esiste realmente; potrebbe esistere molto di più bene. Pertanto, la volontà di Dio non viene sempre realizzata.
+
+Obiezione 3: Inoltre, poiché la volontà di Dio è la causa prima, essa non esclude l’esistenza di cause intermedie. Tuttavia, l’effetto di una causa prima può essere ostacolato da un difetto nelle cause secondarie; così come l’effetto della forza motrice può essere impedito dalla debolezza degli organi fisici. Pertanto, anche l’effetto della volontà divina può essere ostacolato da tali difetti. Di conseguenza, la volontà di Dio non si realizza sempre.
+
+Al contrario, si dice (Salmo 113:11): “Dio ha fatto tutte le cose secondo il suo volere”.
+
+Rispondo che la volontà di Dio deve necessariamente essere sempre realizzata. A dimostrazione di ciò dobbiamo considerare che, poiché un effetto è conforme all’agente secondo la sua forma, la regola vale sia per le cause attive che per quelle formali. La regola relativa alle forme è questa: anche se una cosa può mancare di una determinata forma particolare, non può comunque mancare della forma universale. Infatti, anche se una cosa non è un uomo o un essere vivente, non può comunque non essere un essere. Lo stesso vale per le cause attive: qualcosa può escludersi dall’ordine di una causa attiva particolare, ma non dall’ordine della causa universale, sotto la quale sono incluse tutte le cause particolari; e se una causa particolare non riesce a produrre il proprio effetto, ciò avviene a causa dell’ostacolo rappresentato da un’altra causa particolare, anch’essa inclusa nell’ordine della causa universale. Pertanto, è impossibile che un effetto sfugga all’ordine della causa universale. Anche nelle cose corporee questo è chiaramente visibile: può accadere che una stella venga ostacolata nel produrre i propri effetti; tuttavia, qualsiasi effetto derivi da tale ostacolo deve essere ricondotto, attraverso cause intermedie, all’influenza universale del primo cielo. Poiché la volontà di Dio è la causa universale di tutte le cose, è impossibile che la sua volontà non produca il proprio effetto. Pertanto, ciò che sembra allontanarsi dalla volontà divina in un certo ordine, vi ritorna in un altro ordine; così come il peccatore, che per il suo peccato si allontana da quella volontà nella misura in cui ciò è possibile, ma ritorna nell’ordine di essa quando viene punito dalla sua giustizia.
+
+Risposta all’Obiezione 1: Le parole dell’Apostolo, “Dio vuole che tutti gli uomini siano salvati”, ecc., possono essere intese in tre modi. Primo, in senso restrittivo: in questo caso significano che Dio vuole che siano salvati soltanto coloro che effettivamente saranno salvati; non perché esista alcun uomo che Lui non desideri salvare, ma perché non esiste alcun uomo salvato che Lui non voglia salvare. Secondo, possono essere intese come applicabili a ogni categoria di individui, ma non a ciascun singolo individuo appartenente a quella categoria; in questo caso significano che Dio vuole che alcuni individui appartenenti a ogni classe e condizione siano salvati – uomini e donne, Ebrei e Gentili, grandi e piccoli – ma non tutti coloro che appartengono a quelle condizioni. Terzo, secondo Damasceno (De Fide Orth. ii, 29), queste parole si riferiscono alla volontà antecedente di Dio, e non a quella consequente. Questa distinzione non deve essere intesa come applicabile alla volontà divina stessa, nella quale non esistono concetti di “antecedente” o “consequente”, ma riguarda piuttosto le cose che Dio vuole realizzare.  
+Per comprendere meglio questo punto, dobbiamo considerare che tutto ciò che è buono è voluto da Dio. Una cosa, considerata nel suo senso primario e in modo assoluto, può essere buona o cattiva; tuttavia, se si prendono in considerazione circostanze aggiuntive, il suo significato può cambiare. Ad esempio, che un uomo viva è una cosa buona; che venga ucciso è una cosa cattiva, in modo assoluto. Ma se in un caso specifico si considera che quell’uomo sia un assassino o pericoloso per la società, allora ucciderlo diventa una cosa buona; che viva diventa una cosa cattiva. Pertanto, si può dire di un giudice giusto che, in modo antecedente, vuole che tutti gli uomini vivano; ma, in modo consequente, vuole che l’assassino venga impiccato. Allo stesso modo, Dio vuole che tutti gli uomini siano salvati; ma, in modo consequente, vuole che alcuni vengano dannati, secondo i requisiti della Sua giustizia. Inoltre, non vogliamo semplicemente ciò che desideriamo in modo antecedente, ma lo vogliamo in modo qualificato; poiché la volontà si dirige verso le cose così come sono in sé, e queste esistono sotto determinate condizioni. Pertanto, vogliamo una cosa soltanto quando vengono prese in considerazione tutte le circostanze specifiche; ed è questo che si intende per “volere in modo consequente”. Si può quindi dire che un giudice giusto vuole semplicemente l’impiccagione di un assassino, ma lo vuole in modo qualificato, cioè nel senso che desidera che quell’uomo viva, come uomo. Una tale volontà qualificata può essere definita “volontà condizionata”, piuttosto che “volontà assoluta”. È quindi chiaro che tutto ciò che Dio vuole in modo semplice si realizza; anche se ciò che Lui vuole in modo antecedente potrebbe non avvenire.
+
+Risposta all’Obiezione 2: Un atto della facoltà cognitiva è determinato da ciò che viene conosciuto nel conoscitore; mentre un atto della facoltà appetitiva è diretto verso le cose così come esistono in sé stesse. Tuttavia, tutto ciò che può avere la natura di essere e verità esiste virtualmente in Dio, anche se non tutto esiste nelle cose create. Pertanto, Dio conosce tutta la verità; ma non desidera tutto il bene, se non nella misura in cui desidera se stesso, in Lui infatti tutto il bene esiste virtualmente.
+
+Risposta all’Obiezione 3: Una causa prima può vedere il proprio effetto ostacolato da una carenza nella causa secondaria, quando tale causa non è la causa prima universale che include in sé tutte le altre cause; in tal caso, l’effetto non potrebbe assolutamente sfuggire al proprio ordine. Ed è esattamente ciò che accade con la volontà di Dio, come detto sopra.
+
 <span class="atom-split" data-atom="133" data-title="Whether the will of God is changeable?" data-chapter="Whether the will of God is changeable?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the Will of God is changeable. For the Lord says (Gn. 6:7): "It
@@ -6739,6 +8600,28 @@ Reply to Objection 4: Although God's willing a thing is not by absolute necessit
 necessary by supposition, on account of the unchangeableness of the divine will, as has been said
 above (A[3]).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la Volontà di Dio sia cambiabile. Infatti il Signore dice (Genesi 6:7): “Mi pento di aver creato l’uomo”. Ma chi si pente di ciò che ha fatto, dimostra di avere una volontà cambiabile. Pertanto, anche Dio dovrebbe avere una volontà cambiabile.
+
+Obiezione 2: Inoltre, si dice nel nome del Signore: “Parlerò contro una nazione e contro un regno per sradicarli, abbatterli e distruggerli; ma se quella nazione si pentirà dei suoi peccati, anch’io mi pentirò del male che avevo intenzione di farle” (Ger. 18:7-8). Pertanto, Dio ha una volontà mutevole.
+
+Obiezione 3: Inoltre, qualsiasi cosa Dio faccia, la fa volontariamente. Tuttavia, Dio non fa sempre la stessa cosa: in un momento ha ordinato che la legge fosse rispettata, in un altro l’ha proibita. Pertanto, Egli possiede una volontà mutevole.
+
+Obiezione 4: Inoltre, Dio non vuole necessariamente ciò che vuole, come già detto prima (A[3]). Pertanto può volere o non volere la stessa cosa. Ma tutto ciò che può inclinare verso uno dei due opposti è sostanzialmente mutabile; e ciò che può esistere in un luogo o meno in quel luogo è localmente mutabile. Quindi Dio è mutabile riguardo alla Sua volontà.
+
+Al contrario, si dice: “Dio non è come un uomo, che possa mentire, né come il figlio dell’uomo, che possa cambiare” (Numeri 23:19).
+
+Rispondo che la volontà di Dio è del tutto immutabile. Su questo punto dobbiamo considerare che cambiare la volontà di Dio è una cosa; voler che certe cose vengano cambiate è un’altra. È possibile volere che qualcosa avvenga ora e il suo contrario in seguito, eppure che la volontà stessa rimanga permanentemente la stessa; al contrario, la volontà di Dio cambierebbe se egli iniziasse a voler ciò che prima non aveva voluto, o smettesse di volere ciò che aveva voluto in precedenza. Ciò non può accadere, se non presupponiamo un cambiamento nella conoscenza o nella disposizione stessa della volontà divina. Poiché la volontà di Dio riguarda il bene, un uomo può iniziare a voler qualcosa in due modi: in primo luogo, quando quella cosa diventa effettivamente buona per lui, e ciò non avviene senza un cambiamento in lui stesso; ad esempio, quando arriva il freddo, diventa opportuno stare vicino al fuoco, anche se prima non lo era. In secondo luogo, quando un uomo scopre per la prima volta che qualcosa è buona per lui, anche se prima non lo sapeva; per questo motivo prendiamo spesso in considerazione ciò che è vantaggioso per noi. Ora è già stato dimostrato che sia l’essenza stessa di Dio che la Sua conoscenza sono del tutto immutabili (Q[9], A[1]; Q[14], A[15]). Pertanto, anche la volontà di Dio deve essere del tutto immutabile.
+
+Risposta all’Obiezione 1: Queste parole del Signore devono essere intese in senso metaforico, in base alle analogie della nostra natura. Infatti, quando ci pentiamo, distruggiamo ciò che abbiamo creato; anche se questo avviene senza alcun cambiamento nella nostra volontà. Ad esempio, quando un uomo decide di creare qualcosa, allo stesso tempo può intendere di distruggerlo in seguito. Pertanto, si dice che Dio si sia pentito, per analogia con il nostro modo di agire; poiché, attraverso il diluvio, distrusse dall’face della terra l’uomo che aveva creato.
+
+Risposta all’Obiezione 2: La volontà di Dio, in quanto causa prima e universale, non esclude cause intermedie capaci di produrre determinati effetti. Tuttavia, poiché tutte le cause intermedie sono inferiori per potenza alla causa prima, vi sono molte cose che rientrano nella potenza divina, nella sua conoscenza o nella sua volontà ma non nell’ordine delle cause inferiori. Nel caso della risurrezione di Lazzaro, chi si fosse limitato a considerare le cause intermedie avrebbe potuto dire: “Lazzaro non risorgerà più”, ma chi avesse guardato alla causa divina primaria avrebbe potuto dire: “Lazzaro risorgerà”. Dio vuole sia che una cosa accada secondo l’ordine delle cause inferiori, sia che non accada; oppure può volere il contrario. Possiamo quindi affermare che Dio a volte dichiara che una cosa accadrà in base all’ordine delle cause inferiori – come quello della natura o del merito – ma che essa in realtà non avvenga perché non rientra nei disegni divini e nelle cause superiori. Così, Egli predisse a Ezechia: “Prepara la tua casa, perché morirai e non vivrai più” (Isaia 38:1); tuttavia ciò non avvenne, poiché fin dall’[eternità](/positions/eternity) tutto era stato deciso nella conoscenza e nella volontà divina, che sono immutabili. Per questo Gregorio afferma (Moralia, xvi, 5): “La sentenza di Dio cambia, ma non il suo disegno” – cioè il disegno della sua volontà. Quindi, quando Egli dice: “Anch’Io mi pentirò”, queste parole devono essere intese in senso metaforico; infatti gli uomini sembrano pentirsi quando non mantengono le promesse fatte.
+
+Risposta all’Obiezione 3: Da questo argomento non si deduce che Dio abbia un volere che cambia, ma soltanto che talvolta Egli desideri che le cose cambino.
+
+Risposta all’Obiezione 4: Sebbene la volontà di Dio riguardo a qualcosa non sia dovuta a una necessità assoluta, essa è comunque necessaria in termini logici, a causa dell’immutabilità della volontà divina, come già detto sopra (A[3]).
+
 <span class="atom-split" data-atom="134" data-title="Whether the will of God imposes necessity on the things willed?" data-chapter="Whether the will of God imposes necessity on the things willed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the will of God imposes necessity on the things willed. For [Augustine](/figures/augustine)
@@ -6794,6 +8677,24 @@ Reply to Objection 3: Consequents have necessity from their antecedents accordin
 mode of the antecedents. Hence things effected by the divine will have that kind of necessity that
 God wills them to have, either absolute or conditional. Not all things, therefore, are absolute
 necessities.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la volontà di Dio imponga necessità alle cose che desidera. Infatti, [Agostino](/figures/augustine) afferma (Enchiridion 103): “Nessuno viene salvato se non colui che Dio ha voluto salvare. Pertanto, è necessario chiedere a Lui di volerlo; poiché se Lo vuole, ciò deve necessariamente accadere.”
+
+Obiezione 2: Inoltre, ogni causa che non può essere ostacolata produce necessariamente il proprio effetto, poiché, come afferma il Filosofo (Fisica ii, 84), “la Natura agisce sempre nello stesso modo, se nulla la ostacola”. Ma la volontà di Dio non può essere ostacolata. Infatti l’Apostolo dice (Romani 9:19): “Chi resiste alla sua volontà?”. Pertanto, la volontà di Dio impone necessariamente le cose che desidera.
+
+Obiezione 3: Inoltre, tutto ciò che è necessario in virtù della sua causa antecedente è necessario in modo assoluto; pertanto è necessario che gli animali muoiano, poiché sono composti da elementi contrari tra loro. Ora, le cose create da Dio sono collegate alla volontà divina come a una causa antecedente, e proprio per questo sono necessarie. Poiché l’affermazione condizionale “se Dio vuole qualcosa, allora accade” è vera, e ogni affermazione condizionale vera è necessaria, ne consegue che tutto ciò che Dio vuole è necessario in modo assoluto.
+
+Al contrario, tutte le cose buone che esistono sono volute da Dio. Pertanto, se la Sua volontà impone necessità alle cose che Egli vuole, ne consegue che tutto ciò che è buono avviene per necessità; e così viene meno ogni spazio per la [libera volontà](/positions/free_will), per il ragionamento e per tutte le altre facoltà simili.
+
+Rispondo che la volontà divina impone necessità a alcune cose volute da Lui, ma non a tutte. Alcuni hanno scelto di attribuire questa caratteristica a cause intermedie, ritenendo che ciò che Dio produce attraverso cause necessarie sia necessario, e ciò che produce attraverso cause contingenti sia contingente. Tuttavia, questa spiegazione non sembra sufficiente per due motivi: in primo luogo, perché l’effetto di una causa primaria è contingente a causa delle cause secondarie; ad esempio, il potere del sole può essere ostacolato da difetti nella pianta. Ma nessun difetto nelle cause secondarie può impedire alla volontà divina di produrre il proprio effetto. In secondo luogo, se la distinzione tra ciò che è contingente e ciò che è necessario dovesse essere attribuita esclusivamente alle cause secondarie, ciò significherebbe che tale distinzione sia indipendente dall’intenzione e dalla volontà divina, il che è inaccettabile. È quindi più corretto affermare che tutto avviene grazie all’efficacia della volontà divina: quando una causa è efficace per agire, l’effetto segue necessariamente, sia riguardo al risultato ottenuto sia riguardo al modo in cui questo viene realizzato. Poiché la volontà divina è perfettamente efficace, ne consegue non solo che le cose vengano realizzate secondo ciò che Dio vuole, ma anche che avvengano esattamente nel modo da Lui desiderato. Ora, Dio vuole che alcune cose avvengano necessariamente, altre contingentemente, al fine di mantenere l’ordine corretto delle cose e di costruire l’universo. Pertanto, a alcuni effetti ha associato cause necessarie, che non possono fallire; ad altri, invece, cause difettose e contingenti, dalle quali derivano effetti anch’essi contingenti. Quindi, non è perché le cause immediate siano contingenti che gli effetti voluti da Dio avvengono in modo casuale, ma perché Dio ha predisposto tali cause in modo che avvenissero in modo contingente.
+
+Risposta all’Obiezione 1: Secondo le parole di Agostino, dobbiamo intendere per “necessità” in ciò che Dio vuole qualcosa che non sia assoluta, ma condizionata. Infatti, l’affermazione condizionale secondo cui, se Dio vuole una cosa, essa deve necessariamente accadere, è necessariamente vera.
+
+Risposta all’Obiezione 2: Dal semplice fatto che nulla si oppone alla volontà divina, ne consegue non solo che accadono tutte le cose che Dio vuole che accadano, ma anche che queste accadono necessariamente o contingentemente secondo la Sua volontà.
+
+Risposta all’Obiezione 3: Le conseguenze possiedono necessità derivante dai loro antecedenti, secondo il modo in cui questi ultimi sono strutturati. Pertanto, le cose realizzate per volere divino possiedono quella sorta di necessità che Dio stesso ha voluto che avessero, sia essa assoluta che condizionata. Non tutte le cose, dunque, sono necessità assolute.
 
 <span class="atom-split" data-atom="135" data-title="Whether God wills evils?" data-chapter="Whether God wills evils?" data-kind="atom" data-srclang="en"></span>
 
@@ -6884,6 +8785,20 @@ to will the evil of sin; yet He can make choice of one of two opposites, inasmuc
 thing to be, or not to be. In the same way we ourselves, without sin, can will to sit down, and not
 will to sit down.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non possieda libero arbitrio. Infatti Gerolamo afferma, in un’omelia sul figlio prodigo (*Epistola 146, ad Damaso*), “Solo Dio è colui che non è soggetto al peccato, né può esserlo; tutti gli altri, avendo libero arbitrio, possono inclinarsi da una parte o dall’altra”.
+
+Obiezione 2: Inoltre, la libertà di volontà è quella facoltà della ragione e della volontà mediante la quale si sceglie tra il bene e il male. Ma Dio non desidera il male, come è stato detto (A[9]). Pertanto, in Dio non esiste libertà di volontà.
+
+Al contrario, Ambrogio afferma (De Fide ii, 3): “Lo Spirito Santo distribuisce a ciascuno secondo la sua volontà, ovvero in base alla libera scelta della volontà umana, e non in obbedienza a alcuna necessità”.
+
+Rispondo che abbiamo la libertà di volontà riguardo a ciò che non è necessario né derivante da istinti naturali. Infatti, il desiderio di essere felici non rientra nella sfera della libertà di volontà, ma nell’ambito degli istinti naturali. Pertanto, altri animali, i quali agiscono spinti dagli istinti naturali, non si può dire che agiscano per libera scelta. Poiché Dio desidera necessariamente la propria bontà, ma non necessariamente altre cose, come dimostrato sopra (A[3]), egli possiede la libertà di volontà riguardo a ciò che non desidera necessariamente.
+
+Risposta all’Obiezione 1: Sembra che Gerome neghi la libertà di volontà a Dio non in modo generale, ma soltanto riguardo alla tendenza al peccato.
+
+Risposta all’Obiezione 2: Poiché il male del peccato consiste nel allontanarsi dalla bontà divina, attraverso la quale Dio vuole tutte le cose, come è stato dimostrato sopra (De Fide ii, 3), è chiaramente impossibile che Egli voglia il male del peccato; tuttavia Egli può scegliere tra due opposti, poiché può voler che una cosa esista o non esista. Allo stesso modo, anche noi, senza peccato, possiamo voler sederci o non voler sederci.
+
 <span class="atom-split" data-atom="137" data-title="Whether the will of expression is to be distinguished in God?" data-chapter="Whether the will of expression is to be distinguished in God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the will of expression is not to be distinguished in God. For as the
@@ -6923,6 +8838,20 @@ Reply to Objection 2: Expressions of will are called divine wills, not as being 
 wills anything; but because what in us is the usual expression of our will, is called the divine will
 in God. Thus punishment is not a sign that there is anger in God; but it is called anger in Him, from
 the fact that it is an expression of anger in ourselves.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la volontà di esprimersi non debba essere distinta in Dio. Poiché la volontà di Dio è la causa delle cose, allo stesso modo lo è anche la sua saggezza. Tuttavia, alla saggezza divina non vengono attribuite alcune forme di espressione; pertanto, nemmeno alla volontà divina dovrebbero essere attribuite forme di espressione.
+
+Obiezione 2: Inoltre, qualsiasi espressione che non sia in accordo con la volontà di colui che si esprime è falsa. Pertanto, se le espressioni attribuite alla volontà divina non sono in accordo con essa, allora sono false; ma se lo sono, allora sono superflue. Quindi, nessuna espressione dovrebbe essere attribuita alla volontà divina.
+
+Al contrario, la volontà di Dio è unica, poiché essa costituisce l’essenza stessa di Dio. Tuttavia, a volte viene parlata come se fosse molteplice; così, ad esempio, nelle parole del Salmo 110:2: “Grandi sono le opere del Signore, realizzate secondo tutte le sue volontà”. Pertanto, a volte il segno deve essere considerato come manifestazione della volontà di Dio.
+
+Rispondo che alcune cose riguardanti Dio vengono dette nel loro senso stretto; altre invece attraverso metafore, come è emerso da quanto detto in precedenza (Q[13], A[3]). Quando certe passioni umane vengono attribuite alla divinità in modo metaforico, ciò avviene a causa di una somiglianza negli effetti che esse producono. Pertanto, ciò che in noi è un segno di una determinata passione viene indicato metaforicamente in Dio con il nome di quella stessa passione. Ad esempio, per noi è normale che una persona arrabbiata punisca; quindi la punizione diventa un’espressione dell’[ira](/concepts/anger). Per questo motivo, la punizione stessa viene indicata con il termine “ira” quando questa qualità viene attribuita a Dio. Allo stesso modo, ciò che in noi è solitamente un’espressione della volontà viene talvolta definito metaforicamente “volontà” di Dio; proprio come quando qualcuno enuncia un precetto, ciò indica il suo desiderio che quel precetto venga rispettato. Pertanto, un precetto divino viene a volte chiamato metaforicamente “la volontà di Dio”, come nelle parole: “Faccia la tua volontà su terra, come in cielo” (Matteo 6:10). Tuttavia, esiste questa differenza tra volontà e ira: l’ira non viene mai attribuita a Dio nel senso proprio del termine, poiché nella sua accezione primaria indica una passione; mentre la volontà viene propriamente attribuita a Lui. Pertanto, in Dio esistono due tipi di volontà: quella nel suo senso proprio e quella indicata metaforicamente come tale. La volontà nel suo senso proprio viene chiamata “la volontà del bene”; mentre quella intesa in modo metaforico può essere definita “la volontà che si manifesta attraverso azioni”, poiché lo stesso segno della volontà viene talvolta indicato con il termine “volontà”.
+
+Risposta all’Obiezione 1: La conoscenza non è la causa dell’attuazione di un’azione, a meno che questa non avvenga attraverso la volontà. Infatti, non mettiamo in atto ciò che sappiamo, se non quando decidiamo di farlo. Pertanto, l’espressione non viene attribuita alla conoscenza, ma alla volontà.
+
+Risposta all’Obiezione 2: Le espressioni della volontà vengono chiamate “volontà divina” non perché siano segni del fatto che Dio desideri qualcosa; ma perché ciò che in noi rappresenta l’espressione abituale della nostra volontà, viene considerato “volontà divina” in Dio. Pertanto, la punizione non è un segno dell’esistenza di ira in Dio; ma viene chiamata “ira” da Lui, perché rappresenta un’espresione di ira in noi stessi.
 
 <span class="atom-split" data-atom="138" data-title="Whether five expressions of will are rightly assigned to the divine will?" data-chapter="Whether five expressions of will are rightly assigned to the divine will?" data-kind="atom" data-srclang="en"></span>
 
@@ -6989,6 +8918,27 @@ subject of precept; and there are others by which we attain to it more perfectly
 subject of counsel. Or it may be said that counsel is not only concerned with the obtaining of greater
 good; but also with the avoiding of lesser evils.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che cinque espressioni della volontà – ovvero il divieto, il precetto, il consiglio, l’azione e il permesso – non siano correttamente attribuite alla volontà divina. Infatti, le stesse cose che Dio ci ordina di fare attraverso i suoi precetti o consigli, a volte le realizza lui stesso in noi; e le stesse cose che proibisce, a volte le permette. Pertanto, non dovrebbero essere considerate come distinte tra loro.
+
+Obiezione 2: Inoltre, Dio non compie nulla se non lo desidera, come afferma la [Scrittura](/concepts/revelation) (Sapienza 11:26).  
+Ma la volontà di esprimersi è diversa dalla volontà di compiere il bene. Pertanto, l’azione concreta compiuta da Dio non dovrebbe essere considerata parte della sua volontà di esprimersi.
+
+Obiezione 3: Inoltre, l’azione e il permesso appartengono a tutte le creature in modo comune, poiché Dio agisce su di esse tutte e permette alcune azioni in ciascuna di esse. Ma i precetti, i consigli e le proibizioni riguardano soltanto le creature razionali. Pertanto, non possono essere raggruppati correttamente sotto lo stesso ambito, poiché non appartengono allo stesso ordine logico.
+
+Obiezione 4: Inoltre, il male si verifica in modi più diversi rispetto al bene, poiché “il bene avviene in un solo modo, mentre il male si manifesta in ogni sorta di forme”, come affermano il Filosofo (Etica ii, 6) e Dionigi di Atene (Divini Nomi iv, 22). Pertanto non è giusto attribuire un’unica espressione, ovvero il divieto, al caso del male, mentre ne assegniamo due – cioè il consiglio e il precetto – al caso del bene.
+
+Rispondo che, con questi segni, intendiamo l’espressione della volontà attraverso la quale siamo soliti manifestare il nostro desiderio di compiere qualcosa. Un uomo può manifestare tale volontà da solo o tramite un altro. La manifesta da solo quando agisce direttamente, indirettamente o accidentalmente; in questo caso, l’espressione della sua volontà coincide con la stessa azione che compie. La manifesta anche indirettamente, quando non ostacola l’attuazione di un’azione; ciò che elimina un impedimento può essere considerato un fattore che favorisce tale azione, e in questo senso tale comportamento viene definito “permesso”. Quando invece un uomo ordina a un altro di compiere qualcosa, lo fa attraverso precetti o persuasione: i precetti rappresentano l’espressione diretta della sua volontà, mentre la persuasione ne è una forma indiretta. Poiché in questi modi la volontà umana si manifesta, gli stessi concetti vengono talvolta applicati anche alla volontà divina. È evidente che precetti, consigli e proibizioni siano considerati espressioni della volontà di Dio, come si evince dalle parole di Matteo 6:10: “Che la tua volontà avvenga sulla terra come in cielo”. Anche il concetto di “permesso” e di “azione concreta” viene riconosciuto come parte della volontà divina; sant’Agostino, nell’Enchiridion 95, afferma: “Niente avviene senza che l’Onnipotente lo voglia, sia permettendolo che compiendolo personalmente”. Inoltre, si può dire che il concetto di “permesso” riguardi il presente (soprattutto in relazione al male), mentre quello di “azione concreta” riguardi il bene. Per quanto riguarda il futuro, il proibimento è legato al male, i precetti al bene necessario, e i consigli al bene facoltativo.
+
+Risposta all’Obiezione 1: Non esiste nulla che impedisca a qualcuno di esprimere la propria volontà su lo stesso argomento in modi diversi; per questo motivo esistono molte parole che significano la stessa cosa. Pertanto, non c’è alcun motivo per cui lo stesso argomento non possa essere oggetto di precetti, azioni o consigli, né di proibizioni o permessi.
+
+Risposta all’Obiezione 2: Così come si può dire, in senso metaforico, che Dio desideri ciò che, in senso proprio, non desidera; allo stesso modo si può dire che Egli voglia ciò che, in senso proprio, compie. Pertanto, nulla impedisce che la stessa cosa sia oggetto sia della volontà di beneplacere, sia della volontà di espressione. Tuttavia, l’azione concreta è sempre identica alla volontà di beneplacere; mentre i precetti e i consigli non lo sono: il primo riguarda il presente, mentre gli ultimi riguardano il futuro; inoltre, il primo è di per sé l’effetto della volontà, mentre gli altri ne sono l’effetto realizzato attraverso mezzi esterni.
+
+Risposta all’Obiezione 3: Le creature razionali sono padrone dei propri atti; per questo motivo, alcune espressioni particolari della volontà divina vengono attribuite ai loro atti, poiché Dio ordina alle creature razionali di agire volontariamente e in modo autonomo. Le altre creature agiscono soltanto spinte dall’azione divina; pertanto, in questi casi sono coinvolte soltanto l’azione divina e il suo permesso.
+
+Risposta all’Obiezione 4: Tutti i mali derivanti dal peccato, sebbene si manifestino in modi diversi, hanno in comune il fatto di essere in disarmonia con la volontà divina. Pertanto, riguardo al male, viene utilizzata un’unica espressione: quella di “proibizione”. D’altra parte, il bene è legato alla bontà divina in modi diversi: ci sono azioni buone senza le quali non possiamo realizzare pienamente quella bontà, e queste rappresentano l’oggetto dei precetti; ci sono altre azioni grazie alle quali possiamo raggiungerla in modo più perfetto, e queste costituiscono l’oggetto dei consigli. Si potrebbe anche dire che i consigli riguardino non solo la ricerca di un bene maggiore, ma anche l’evitamento di mali minori.
+
 <span class="atom-split" data-atom="139" data-title="GOD'S LOVE (FOUR ARTICLES)" data-chapter="GOD'S LOVE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider those things that pertain absolutely to the will of God. In the appetitive part
@@ -6999,6 +8949,14 @@ love of God, and secondly His justice and mercy. About the first there are four 
 (2) Whether He loves all things?
 (3) Whether He loves one thing more than another?
 (4) Whether He loves more the better things?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Esaminiamo ora quelle cose che riguardano esclusivamente la volontà di Dio. Nella parte appetitiva dell’anima, in noi si trovano sia le passioni, come la gioia, l’amore e simili, sia gli abiti delle virtù morali, come la giustizia, la forza d’animo e altre. Pertanto considereremo innanzitutto l’amore di Dio, e successivamente la sua giustizia e misericordia. Riguardo al primo punto, vi sono quattro questioni da esaminare:  
+(1) Esiste davvero amore in Dio?  
+(2) Ama tutte le cose?  
+(3) Ami una cosa più di un’altra?  
+(4) Ama maggiormente le cose migliori?
 
 <span class="atom-split" data-atom="140" data-title="Whether love exists in God?" data-chapter="Whether love exists in God?" data-kind="atom" data-srclang="en"></span>
 
@@ -7070,6 +9028,24 @@ himself. So far love is a binding force, since it aggregates another to ourselve
 to our own. And then again the divine love is a binding force, inasmuch as God wills good to others;
 yet it implies no composition in God.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’amore non esista in Dio. Poiché in Dio non vi sono passioni, e l’amore è una passione, quindi l’amore non esiste in Dio.
+
+Obiezione 2: Inoltre, amore, [ira](/concepts/anger), dolore e simili sentimenti sono reciprocamente contrapposti tra loro. Ma dolore e ira non vengono attribuiti a Dio, se non in senso metaforico; pertanto, nemmeno l’amore gli viene attribuito.
+
+Obiezione 3: Inoltre, Dionigi afferma (Div. Nom. iv): “L’amore è una forza che unisce e lega”. Ma ciò non può avvenire in Dio, poiché Egli è semplice. Pertanto, l’amore non esiste in Dio.
+
+Al contrario, è scritto: “Dio è amore” (Giovanni 4:16).
+
+Rispondo che dobbiamo necessariamente affermare che in Dio esista l’amore: poiché l’amore è il primo movimento della volontà e di ogni facoltà appetitiva. Poiché gli atti della volontà e di ogni facoltà appetitiva tendono verso il bene e il male, come verso i loro oggetti propri; e poiché il bene è essenzialmente e soprattutto l’oggetto della volontà e dell’appetito, mentre il male lo è solo in modo secondario e indiretto, come opposto al bene; ne consegue che gli atti della volontà e dell’appetito che riguardano il bene devono naturalmente precedere quelli che riguardano il male; così, ad esempio, la gioia precede il dolore, l’amore l’odio: poiché ciò che esiste di per sé è sempre precedente a ciò che esiste attraverso un altro. Inoltre, ciò che è più universale è naturalmente precedente a ciò che lo è meno. Pertanto, l’intelletto si dirige prima verso la verità universale, e in secondo luogo verso le verità particolari e specifiche. Ora, esistono certi atti della volontà e dell’appetito che riguardano il bene sotto una condizione particolare, come la gioia e la delizia che riguardano il bene presente e posseduto; mentre il desiderio e la speranza riguardano il bene che non è ancora stato posseduto. L’amore, invece, riguarda il bene in modo universale, sia esso già posseduto o meno. Pertanto, l’amore è naturalmente il primo atto della volontà e dell’appetito; per questo motivo tutti gli altri movimenti appetitivi presuppongono l’amore come loro radice e origine. Poiché nessuno desidera nulla né si rallegra di nulla, se non come di un bene amato; né qualcosa può essere oggetto di odio, se non in opposizione all’oggetto dell’amore. Allo stesso modo, è evidente che il dolore e altre cose simili devono essere riferiti all’amore come al loro principio primo. Pertanto, in chiunque esistano volontà e appetito, deve necessariamente esistere anche l’amore: poiché se il primo manca, tutto ciò che ne deriva manca anch’esso. Ora è stato dimostrato che la volontà esiste in Dio (Q[19], A[1]), quindi dobbiamo attribuire a Lui l’amore.
+
+Risposta all’Obiezione 1: La facoltà cognitiva non agisce se non attraverso il mezzo dell’appetito sensibile; e proprio come in noi la ragione universale agisce attraverso la ragione particolare, come affermato nel De Anima iii, 58,75, così anche in noi l’appetito intellettivo, o volontà come viene chiamata, agisce attraverso l’appetito sensibile. Pertanto, nell’uomo, l’appetito sensibile è la forza motrice immediata del corpo; di conseguenza, ogni atto dell’appetito sensibile è accompagnato da un cambiamento fisico, e tale cambiamento colpisce soprattutto il cuore, che, come afferma il Filosofo (De part. animal. iii, 4), è il principale principio del movimento negli animali. Gli atti dell’appetito sensibile, in quanto comportano modificazioni corporee, vengono chiamati passioni; gli atti della volontà, invece, non sono definiti così. Amore, gioia e piacere sono quindi passioni; quando indicano atti dell’appetito intellettivo, non lo sono. È in questo secondo senso che tali sentimenti esistono in Dio. Per questo motivo il Filosofo afferma nell’Etica vii: “Dio si rallegra attraverso un atto unico e semplice”; per la stessa ragione, Egli ama senza passione.
+
+Risposta all’Obiezione 2: Nelle passioni dell’appetito sensibile si può distinguere un certo elemento materiale – ovvero il cambiamento fisico che avviene nel corpo – e un certo elemento formale, che appartiene alla stessa natura dell’appetito. Ad esempio, nell’ira, come afferma il Filosofo (De Anima iii, 15,63,64), l’elemento materiale è l’infiammazione del sangue nei pressi del cuore; l’elemento formale, invece, è il desiderio di vendetta. Allo stesso modo, in alcune passioni si riscontra un certo grado di imperfezione: ad esempio nel desiderio, che riguarda qualcosa di buono che non possediamo, o nel dolore, che riguarda qualcosa di male che abbiamo già subito. Ciò vale anche per l’ira, che implica necessariamente il dolore. Altre passioni, invece, come l’amore e la gioia, non implicano alcuna imperfezione. Poiché quindi nessuna di queste passioni può essere attribuita a Dio dal punto di vista del loro aspetto materiale, come già detto; né possono essergli attribuite quelle che, anche dal punto di vista formale, comportano imperfezioni, se non in senso metaforico e sulla base della somiglianza degli effetti che producono (come dimostrato in Q[3], A[2], ad 2; Q[19], A[11]). Quelle invece che non implicano alcuna imperfezione, come l’amore e la gioia, possono essere propriamente attribuite a Dio, anche senza considerarle vere passioni umane, come già accennato in precedenza (Q[19], A[11]).
+
+Risposta all’Obiezione 3: Un atto d’amore tende sempre verso due cose: al bene che si desidera e alla persona per la quale si desidera quel bene; infatti, amare qualcuno significa desiderargli il bene. Pertanto, poiché amiamo noi stessi, desideriamo a noi stessi il bene e, per quanto possibile, l’unione con tale bene. Per questo motivo l’amore è definito una forza unificante, anche in Dio, senza che ciò implichi alcuna composizione tra le parti; infatti, il bene che Dio desidera per sé stesso non è altro che Lui stesso, che è buono per essenza sua, come già dimostrato in precedenza (Q[6], AA[1],3). Inoltre, quando qualcuno ama un’altra persona, desidera quel bene per quella persona; in questo modo pone l’altra al proprio posto e considera il bene che le viene fatto come se fosse stato fatto a sé stesso. Quindi l’amore è una forza vincolante, poiché unisce un’altra persona a noi stessi e riferisce il suo bene al nostro. Anche l’amore divino è una forza vincolante, poiché Dio desidera il bene per gli altri; tuttavia, in Lui ciò non implica alcuna composizione tra le parti.
+
 <span class="atom-split" data-atom="141" data-title="Whether God loves all things?" data-chapter="Whether God loves all things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God does not love all things. For according to Dionysius (Div. Nom.
@@ -7130,6 +9106,28 @@ while it is hated under another. God loves sinners in so far as they are existin
 have existence and have it from Him. In so far as they are sinners, they have not existence at all,
 but fall short of it; and this in them is not from God. Hence under this aspect, they are hated by
 Him.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non ami tutte le cose. Infatti, secondo Dionigi di Alessandria (Divinum Nomine, iv, 1), l’amore fa sì che colui che ama si trovi al di fuori di sé stesso e, in qualche modo, entri nell’oggetto del suo amore. Tuttavia, non è ammissibile affermare che Dio si trovi al di fuori di Sé stesso e entri in altre cose. Pertanto, non è accettabile sostenere che Dio ami qualcosa diverso da Sé stesso.
+
+Obiezione 2: Inoltre, l’amore di Dio è eterno. Ma le cose al di fuori di Dio non appartengono all’[eternità](/positions/eternity), se non in Dio stesso. Pertanto, Dio non ama nulla se non ciò che esiste in Lui. E poiché ciò che esiste in Lui non è altro che Lui stesso, Dio non ama quindi nulla al di fuori di Sé.
+
+Obiezione 3: Inoltre, l’amore è di due tipi: l’amore basato sul desiderio e l’amore derivante dall’[amicizia](/concepts/friendship). Ora, Dio non ama le creature irrazionali con l’amore basato sul desiderio, poiché non ha bisogno di alcuna creatura al di fuori di Sé stesso. Né con l’amore derivante dall’amicizia; poiché non può esserci amicizia con creature irrazionali, come dimostra il Filosofo (Etica, viii, 2). Pertanto, Dio non ama tutte le cose.
+
+Obiezione 4: Inoltre, è scritto (Salmo 5:7): “Odii tutti coloro che compiono l’iniquità”. Ora, nulla può essere allo stesso tempo odiato e amato. Pertanto, Dio non ama tutte le cose.
+
+Al contrario, si dice (Sapienza 11:25): “Ami tutte le cose che esistono e non odii nessuna di quelle che hai create”.
+
+Rispondo che Dio ama tutte le cose esistenti. Poiché tutte le cose esistenti, nella misura in cui esistono, sono buone, poiché l’esistenza stessa di una cosa è un bene; e allo stesso modo, qualsiasi perfezione essa possieda. È stato infatti dimostrato sopra (Q[19], A[4]) che la volontà di Dio è la causa di tutte le cose. Pertanto, una cosa deve necessariamente avere esistenza, o qualche tipo di bene, soltanto nella misura in cui è voluta da Dio. Quindi, per ogni cosa esistente, Dio vuole un certo bene. E poiché amare qualcosa significa semplicemente volere il suo bene, è evidente che Dio ama tutte le cose che esistono. Tuttavia, non come noi amiamo. Poiché la nostra volontà non è la causa della bontà delle cose, ma ne è soltanto influenzata, come da un oggetto su di essa; il nostro amore, con cui desideriamo il bene di qualcosa, non è quindi la causa della sua bontà; al contrario, la sua bontà, sia reale che immaginaria, suscita il nostro amore, attraverso il quale desideriamo che essa conservi il bene che possiede e ne acquisisca altro ancora. E per questo scopo indirizziamo le nostre azioni; mentre l’amore di Dio infonde e crea la bontà stessa.
+
+Risposta all’Obiezione 1: L’amante viene posto al di fuori di sé stesso e costretto a “entrare” nell’oggetto del suo amore, poiché desidera il bene per la persona amata; agisce per realizzare quel bene attraverso la propria provvidenza, proprio come agirebbe per il proprio bene personale. Ecco perché Dionigi dice (Div. Nom. iv, 1): “A nome della verità dobbiamo osare affermare anche questo: Lui stesso, la causa di tutte le cose, con il suo amore e la sua bontà infiniti, viene posto al di fuori di sé stesso attraverso la sua provvidenza per tutte le cose esistenti.”
+
+Risposta all’Obiezione 2: Sebbene le creature non esistano da eternità, se non in Dio, tuttavia poiché sono state in Lui fin dall’eternità, Dio le conosce per sempre nella loro vera natura; ed è proprio per questo motivo che Le ha amate, così come noi, attraverso le immagini delle cose presenti dentro di noi, conosciamo quelle cose che esistono in sé stesse.
+
+Risposta all’Obiezione 3: L’amicizia non può esistere se non verso creature razionali, che sono capaci di ricambiare l’amore e di comunicarlo tra loro attraverso le varie attività della vita; inoltre, tali creature possono subire fortune diverse, buone o cattive, a seconda dei cambiamenti della fortuna e della felicità. È proprio verso di loro che si esercita propriamente la benevolenza. Le creature irrazionali, invece, non sono in grado di amare Dio, né di partecipare alla vita intellettuale e beata che Egli conduce. Pertanto, in senso stretto, Dio non ama le creature irrazionali con l’amore dell’amicizia, ma piuttosto con un amore derivante dal desiderio, nel senso in cui le indirizza verso le creature razionali e persino verso Sé stesso. Tuttavia, ciò non avviene perché Egli abbia bisogno di loro, ma soltanto a causa della Sua bontà e dei servizi che queste ci rendono. Infatti, possiamo desiderare qualcosa sia per gli altri che per noi stessi.
+
+Risposta all’Obiezione 4: Niente impedisce che la stessa cosa venga amata da un certo punto di vista e odiata da un altro. Dio ama i peccatori nella misura in cui sono esseri esistenti; infatti, hanno un’esistenza e questa esistenza deriva da Lui. Nella misura in cui sono peccatori, però, non possiedono affatto un’esistenza reale, ma ne sono privi; e questo aspetto del loro essere non proviene da Dio. Pertanto, da questo punto di vista, vengono odiati da Lui.
 
 <span class="atom-split" data-atom="142" data-title="Whether God loves all things equally?" data-chapter="Whether God loves all things equally?" data-kind="atom" data-srclang="en"></span>
 
@@ -7270,6 +9268,14 @@ there are four points of inquiry:
 (3) Whether there is mercy in God?
 (4) Whether in every work of God there are justice and mercy?
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo aver considerato l’amore divino, dobbiamo trattare della giustizia e della misericordia di Dio. In questo ambito vi sono quattro punti da esaminare:  
+(1) Esiste davvero giustizia in Dio?  
+(2) Si può definire la Sua giustizia “verità”?  
+(3) Esiste misericordia in Dio?  
+(4) In ogni opera di Dio vi sono sia giustizia che misericordia?
+
 <span class="atom-split" data-atom="145" data-title="Whether there is justice in God?" data-chapter="Whether there is justice in God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that there is not justice in God. For justice is divided against temperance.
@@ -7343,6 +9349,28 @@ does not always regard act; since a thing is called good not merely with respect
 regards perfection in its essence. For this reason it is said (De Hebdom.) that the good is related to
 the just, as the general to the special.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che in Dio non esista giustizia. Infatti, la giustizia è contraria alla moderazione. Ma la moderazione non esiste in Dio; pertanto, nemmeno la giustizia esiste.
+
+Obiezione 2: Inoltre, colui che fa ciò che vuole e gli piace non agisce secondo la giustizia. Ma, come afferma l’Apostolo: “Dio compie tutte le cose secondo il disegno della Sua volontà” (Efesini 1:11). Pertanto, non si può attribuire la giustizia a Lui.
+
+Obiezione 3: Inoltre, l’atto di giustizia consiste nel pagare ciò che è dovuto. Ma Dio non è debitore di alcuno. Pertanto, la giustizia non appartiene a Dio.
+
+Obiezione 4: Inoltre, tutto ciò che è in Dio fa parte della Sua essenza. Ma la giustizia non può farne parte. Poiché Boezio afferma (in “De Hebdom.”): “Il bene riguarda l’essenza; la giustizia, invece, l’atto”. Pertanto, la giustizia non appartiene a Dio.
+
+Al contrario, si dice (Salmo 10:8): “Il Signore è giusto e ama la giustizia”.
+
+Rispondo che esistono due tipi di giustizia. Il primo consiste nel dare e ricevere reciprocamente, come avviene nell’acquisto e nella vendita, nonché in altre forme di scambio e interazione. Il Filosofo (Etica, v, 4) la chiama “giustizia commutativa”, quella che regola gli scambi e le relazioni commerciali. Questo tipo di giustizia non appartiene a Dio, poiché, come afferma l’Apostolo: “Chi ha prima dato a Lui riceverà in cambio” (Romani 11:35). Il secondo tipo di giustizia consiste nella distribuzione; si tratta della giustizia “distributiva”, attraverso la quale un sovrano o un amministratore concede a ciascuno ciò che il suo rango merita. Così come l’ordine corretto nella gestione di una famiglia o di qualsiasi gruppo di persone dimostra questa forma di giustizia da parte del responsabile, allo stesso modo l’ordine dell’universo, sia nelle manifestazioni della natura che in quelle della volontà umana, rivela la giustizia di Dio. Per questo motivo Dionigi dice (Divini Nomi, viii, 4): “Dobbiamo riconoscere che Dio è veramente giusto, poiché concede a tutte le cose esistenti ciò che è appropriato alla loro natura e mantiene la loro essenza nell’ordine e con le forze che loro appartengono per natura”.
+
+Risposta all’Obiezione 1: Alcune virtù morali riguardano le passioni; ad esempio, la temperanza riguarda la concupiscenza, la fortitudine il timore e l’audacia, la umiltà l’[ira](/concepts/anger). Virtù del genere possono essere attribuite a Dio soltanto in senso metaforico; poiché, come già detto (Q[20], A[1]), in Dio non esistono passioni, né un appetito sensibile, che, secondo il Filosofo (Etica iii, 10), è l’oggetto di tali virtù. D’altra parte, altre virtù morali riguardano atti di donazione e spesa; come la giustizia, la liberalità e la magnanimità. Queste virtù non risiedono nella facoltà sensibile, ma nella volontà. Pertanto, non vi è nulla che ci impedisca di attribuirle a Dio, anche se non in ambiti civili, bensì in atti che non siano indegni di Lui. Infatti, come afferma il Filosofo (Etica x, 8), sarebbe assurdo lodare Dio per le sue “virtù politiche”.
+
+Risposta all’Obiezione 2: Poiché il bene, così come percepito dall’intelletto, è l’oggetto della volontà, è impossibile che Dio voglia qualcosa che non sia approvato dalla sua saggezza. Questa rappresenta, in qualche modo, la sua legge di giustizia; secondo tale legge, la sua volontà è retta e giusta. Pertanto, ciò che Egli fa secondo la sua volontà lo fa in modo giusto, proprio come noi facciamo ciò che è conforme alla legge in modo giusto. Tuttavia, mentre la legge ci proviene da una potenza superiore, Dio stesso è la legge per sé stesso.
+
+Risposta all’Obiezione 3: A ciascuno spetta ciò che gli appartiene. Ora, ciò che è rivolto a un uomo si dice appartenergli. Pertanto, il padrone possiede il servo, e non viceversa; infatti, ciò che è libero è ciò che ha in sé la propria causa. Nel termine “debito” è quindi implicita una certa esigenza o necessità da parte della cosa a cui tale debito si riferisce. Nelle cose esiste dunque un duplice ordine: uno per cui una creatura è rivolta verso un’altra, come le parti rispetto al tutto, l’accidente rispetto alla sostanza, e tutte le cose rispetto al loro fine; l’altro per cui tutte le creature sono ordinate a Dio. Pertanto, nelle operazioni divine il debito può essere considerato in due modi: come dovuto a Dio o alle creature; in entrambi i casi, Dio paga ciò che è dovuto. È dovuto a Dio che nelle creature si realizzi ciò che la Sua volontà e saggezza richiedono, e ciò che manifesta la Sua bontà. In questo senso, la giustizia di Dio riguarda ciò che Lui stesso merita; poiché Egli riceve ciò che Gli spetta per natura. È anche dovuto a una creatura che possieda ciò che le è stato destinato; pertanto, è dovuto all’uomo di avere mani, e che altri animali lo servano. Anche Dio esercita la giustizia quando dà a ciascuna cosa ciò che le spetta per natura e condizione. Tuttavia, questo debito deriva dal primo ordine; poiché ciò che è dovuto a ciascuna cosa lo è in quanto essa è stata ordinata secondo la saggezza divina. E sebbene Dio paghi in questo modo a ciascuna cosa ciò che le spetta, Egli stesso non è il debitore, poiché non è rivolto verso altre cose, ma piuttosto queste sono rivolte a Lui. Pertanto, la giustizia di Dio viene talvolta considerata come l’adeguato corollario della Sua bontà; talvolta come ricompensa del merito. Anselmo affronta entrambe le prospettive quando dice (Prosologio 10): “Quando punisci i malvagi, è giusto, poiché ciò corrisponde ai loro meriti; e quando li perdoni, è anch’esso giusto, poiché ciò si addice alla Tua bontà”.
+
+Risposta all’Obiezione 4: Sebbene la giustizia riguardi l’atto, ciò non impedisce che essa sia essenza di Dio; infatti anche ciò che è essenza di una cosa può essere il principio dell’azione. Ma il bene non riguarda sempre l’atto; una cosa viene infatti chiamata buona non soltanto in relazione all’atto, ma anche per la perfezione della sua essenza. Per questo motivo si dice (in “De Hebdom.”) che il bene è correlato alla giustizia, come il generale al particolare.
+
 <span class="atom-split" data-atom="146" data-title="Whether the justice of God is truth?" data-chapter="Whether the justice of God is truth?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the justice of God is not truth. For justice resides in the will; since,
@@ -7375,6 +9403,20 @@ Reply to Objection 2: The truth of which the Philosopher is speaking in this pas
 virtue whereby a man shows himself in word and deed such as he really is. Thus it consists in the
 conformity of the sign with the thing signified; and not in that of the effect with its cause and rule:
 as has been said regarding the truth of justice.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la giustizia di Dio non sia verità. Infatti, la giustizia risiede nella volontà; come afferma Anselmo (Dial. Verit. 13), essa è una rettitudine della volontà, mentre la verità risiede nell’intelletto, come sostiene il Filosofo (Metafisica VI; Etica VI, 2,6). Pertanto, la giustizia non appartiene alla verità.
+
+Obiezione 2: Inoltre, secondo il Filosofo (Etica, IV, 7), la verità è una virtù distinta dalla giustizia. Pertanto, la verità non rientra nell’ambito dell’idea di giustizia.
+
+Al contrario, si dice (Salmo 84:11): “La misericordia e la verità si sono incontrate”: dove la verità rappresenta la giustizia.
+
+Rispondo che la Verità consiste nell’equazione tra mente e realtà, come detto sopra (Q[16], A[1]). La mente, essendo la causa della realtà, è a essa relativa come sua regola e misura; al contrario, quando la mente riceve la propria conoscenza dalle cose, è la realtà ad essere considerata regola e misura della mente. Pertanto, quando le cose sono la misura e la regola della mente, la Verità consiste nell’equazione tra mente e realtà, proprio come avviene in noi stessi: i nostri pensieri o parole su una cosa sono veri o falsi a seconda di come quella cosa è realmente. Ma quando la mente è la regola o la misura delle cose, la Verità consiste nell’equazione tra realtà e mente; proprio come si dice che l’opera di un artista sia vera quando essa è in accordo con le sue regole artistiche. Così come le opere d’arte sono collegate all’arte stessa, anche le azioni giuste sono collegate alla legge a cui sono conformi. Pertanto, la giustizia di Dio, che stabilisce le cose nell’ordine conforme alle regole della Sua saggezza – che è appunto la legge della Sua giustizia – può essere adeguatamente chiamata Verità. Anche noi, nelle questioni umane, parliamo della “verità” della giustizia.
+
+Risposta all’Obiezione 1: La giustizia, in relazione alla legge che guida le nostre azioni, risiede nella ragione o nell’intelletto; ma in relazione al comando attraverso il quale tali azioni vengono regolate secondo quella legge, la giustizia risiede nella volontà.
+
+Risposta all’Obiezione 2: La verità di cui parla il Filosofo in questo passaggio è quella virtù mediante la quale un uomo si manifesta, con parole e azioni, tale quale realmente è. Essa consiste quindi nella conformità del segno con la cosa che esso indica; e non nella conformità dell’effetto con la sua causa e il suo principio regolatore: come è stato detto riguardo alla verità della giustizia.
 
 <span class="atom-split" data-atom="147" data-title="Whether mercy can be attributed to God?" data-chapter="Whether mercy can be attributed to God?" data-kind="atom" data-srclang="en"></span>
 
@@ -7415,6 +9457,20 @@ he may be said to bestow a gift. Hence the Apostle calls remission a forgiving: 
 as Christ has forgiven you" (Eph. 4:32). Hence it is clear that mercy does not destroy justice, but
 in a sense is the fulness thereof. And thus it is said: "Mercy exalteth itself above judgement" (James
 2:13).
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la misericordia non possa essere attribuita a Dio. Infatti, la misericordia è un tipo di dolore, come afferma Damasceno (De Fide Orth. ii, 14). Ma in Dio non esiste alcun dolore; pertanto, nemmeno la misericordia può esserci.
+
+Obiezione 2: Inoltre, la misericordia rappresenta una riduzione della giustizia. Ma Dio non può rinunciare a ciò che appartiene alla Sua giustizia. Infatti si dice (2 Timoteo 2:13): “Se noi non crediamo, Lui rimane fedele; non può negarsi stesso”. Tuttavia, Lui si negherebbe stesso, come afferma un commento, se dovesse negare le Sue parole. Pertanto, la misericordia non è degna di Dio.
+
+Al contrario, si dice (Salmo 110:4): “Lui è un Signore misericordioso e pieno di grazia”.
+
+Rispondo che la misericordia debba essere attribuita soprattutto a Dio, come si evince dal suo effetto concreto, ma non come un sentimento derivante dalle passioni umane. A dimostrazione di ciò, bisogna considerare che una persona viene definita misericordiosa quando prova dolore per la sofferenza altrui, come se fosse propria; per questo si sforza di alleviare quella sofferenza, proprio come se fosse la sua. Pertanto, il provare dolore per le disgrazie altrui non appartiene a Dio; ma è proprio Lui che ha il compito principale di eliminare tale sofferenza, indipendentemente dal tipo di difetto da cui essa derivi. Ora, i difetti vengono eliminati soltanto attraverso la perfezione di qualche forma di bontà; e la fonte primaria della bontà è Dio, come già dimostrato in precedenza (Q[6], A[4]). Tuttavia, va sottolineato che conferire perfezioni appartiene non solo alla bontà divina, ma anche alla sua giustizia, generosità e misericordia; e ciò avviene sotto aspetti diversi. La condivisione delle perfezioni, in senso assoluto, rientra nella sfera della bontà, come già evidenziato (Q[6], AA[1],4); quando le perfezioni vengono conferite alle cose in modo proporzionato, tale atto appartiene alla giustizia, come già detto (A[1]); quando Dio le dona non per il proprio uso personale, ma soltanto a causa della sua bontà, allora questo atto rientra nella sfera della generosità; infine, quando le perfezioni conferite da Dio eliminano i difetti delle cose, allora questo atto appartiene alla misericordia.
+
+Risposta all’Obiezione 1: Questo argomento si basa sulla misericordia, considerata un sentimento derivante dalle passioni.
+
+Risposta all’Obiezione 2: Dio agisce con misericordia, non certo contravvenendo alla Sua giustizia, ma facendo qualcosa di più della semplice giustizia; pertanto, un uomo che paga duecento monete a qualcuno che gli ne deve soltanto cento non compie alcun atto contrario alla giustizia, ma agisce con generosità o misericordia. Lo stesso vale per colui che perdona un torto commesso contro di lui: nel perdonarlo, si può dire che stia offrendo un dono. Ecco perché l’Apostolo definisce il perdono “un atto di misericordia”: “Perdona uno gli altri, come Cristo vi ha perdonati” (Efesini 4:32). È quindi evidente che la misericordia non distrugge la giustizia, ma in un certo senso ne rappresenta l’essenza stessa. E per questo si dice: “La misericordia è superiore alla giustizia” (Giacomo 2:13).
 
 <span class="atom-split" data-atom="148" data-title="Whether in every work of God there are mercy and justice?" data-chapter="Whether in every work of God there are mercy and justice?" data-kind="atom" data-srclang="en"></span>
 
@@ -7480,6 +9536,28 @@ presuppose something in the knowledge of God. In this way too the idea of justic
 creation; by the production of beings in a manner that accords with the divine wisdom and goodness.
 And the idea of mercy, also, is preserved in the change of creatures from non-existence to existence.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non in ogni opera di Dio vi siano sia misericordia che giustizia. Infatti, alcune opere di Dio vengono attribuite alla misericordia, come la giustificazione degli ingiusti; altre, invece, alla giustizia, come la condanna dei malvagi. Per questo si dice: “Giudizio senza pietà per colui che non ha mostrato pietà” (Giacomo 2:13). Pertanto, non in ogni opera di Dio misericordia e giustizia sono presenti insieme.
+
+Obiezione 2: Inoltre, l’Apostolo attribuisce la conversione degli Ebrei alla giustizia e alla verità, mentre quella dei Gentili alla misericordia (Roma 15). Pertanto, non in ogni opera di Dio sono presenti sia la giustizia che la misericordia.
+
+Obiezione 3: Inoltre, molte persone giuste soffrono in questo mondo; il che è ingiusto. Pertanto, non in ogni opera di Dio vi sono giustizia e misericordia.
+
+Obiezione 4: Inoltre, è proprio della giustizia pagare ciò che è dovuto, mentre è proprio della misericordia alleviare la sofferenza. Pertanto, sia la giustizia che la misericordia presuppongono qualcosa nelle loro azioni; invece, la creazione non presuppone nulla. Quindi, nella creazione, né la misericordia né la giustizia esistono.
+
+Al contrario, si dice (Salmo 24:10): “Tutti i sentieri del Signore sono pieni di misericordia e verità”.
+
+Rispondo che misericordia e verità sono necessariamente presenti in tutte le opere di Dio, se per misericordia si intende la rimozione di qualsiasi tipo di difetto. Tuttavia, non ogni difetto può essere propriamente definito una sventura; tale definizione è valida soltanto per i difetti presenti in una natura razionale il cui destino è quello di essere felice, poiché la sventura è l’opposto della felicità. Questa necessità ha una sua ragione: poiché un debito pagato secondo la giustizia divina è dovuto o a Dio o a qualche creatura, né l’uno né l’altro può essere assente in alcuna opera di Dio; infatti, Dio non può compiere nulla che non sia in armonia con la Sua saggezza e bontà, ed è proprio in questo senso che si dice che qualcosa sia dovuto a Dio. Allo stesso modo, tutto ciò che Egli fa nelle cose create avviene secondo un ordine e una proporzione adeguati, che costituiscono l’essenza della giustizia. Pertanto, la giustizia deve esistere in tutte le opere di Dio. Ora, l’opera della giustizia divina presuppone sempre l’opera della misericordia e si fonda su di essa; infatti, nulla è dovuto alle creature se non qualcosa che già esiste in loro o che è stato previsto in anticipo. Inoltre, se qualcosa è dovuto a una creatura, deve esserlo a causa di qualcos’altro che precede tale creatura. Poiché non possiamo raggiungere l’[infinito](/concepts/infinity), dobbiamo arrivare a qualcosa che dipenda soltanto dalla bontà della volontà divina, ovvero al fine ultimo. Ad esempio, possedere mani è dovuto all’uomo a causa della sua anima razionale; l’anima razionale gli è data affinché possa essere uomo; e il fatto stesso di essere uomo dipende dalla bontà divina. Quindi, in ogni opera di Dio, se la si considera nella sua fonte primaria, appare sempre la misericordia. In tutto ciò che ne consegue, il potere della misericordia rimane e agisce ancora più intensamente; infatti, l’influenza della causa prima è più forte di quella delle cause seconde. Per questa ragione, Dio, per abbondanza della Sua bontà, dona alle creature ciò che loro è dovuto in modo più generoso di quanto sia proporzionato ai loro meriti; poiché meno sarebbe sufficiente per mantenere l’ordine della giustizia rispetto a ciò che la bontà divina conferisce; inoltre, non può esserci alcuna proporzione tra le creature e la bontà di Dio.
+
+Risposta all’Obiezione 1: Alcuni atti vengono attribuiti alla giustizia, altri alla misericordia, perché in alcuni casi la giustizia si manifesta in modo più evidente, mentre in altri prevale la misericordia. Anche nella condanna dei reprobi si riscontra la misericordia: essa, pur non perdonando completamente i peccati, li allevia almeno in parte, punendo in modo meno severo di quanto meritino. Nella giustificazione degli ingiusti, si manifesta ancora la giustizia, quando Dio perdona i peccati per amore, anche se è stato proprio Lui ad infondere quel sentimento di amore nella loro natura. Così leggiamo di Maddalena: “Molti peccati le sono stati perdonati, perché ha amato molto” (Lc 7:47).
+
+Risposta all’Obiezione 2: La giustizia e la misericordia di Dio si manifestano sia nella conversione degli Ebrei che in quella dei Gentili. Tuttavia, un aspetto della giustizia è evidente nella conversione degli Ebrei e non nella conversione dei Gentili; infatti, gli Ebrei furono salvati grazie alle promesse fatte ai loro antenati.
+
+Risposta all’Obiezione 3: Giustizia e misericordia si manifestano nella punizione dei giusti in questo mondo, poiché attraverso le sofferenze i loro piccoli peccati vengono purificati e essi vengono così elevati dalle affezioni terrene verso Dio. A questo proposito Gregorio afferma (Moralia, xxvi, 9): “I mali che ci assalgono in questo mondo ci costringono ad approcciarci a Dio”.
+
+Risposta all’Obiezione 4: Sebbene la creazione non presupponga nulla nell’universo, essa presuppone tuttavia qualcosa nella conoscenza di Dio. Anche in questo modo l’idea di giustizia viene conservata nella creazione, attraverso la produzione di esseri in modo che concordino con la saggezza e la bontà divine. Allo stesso modo, anche l’idea di misericordia viene preservata nel passaggio delle creature dall’inesistenza all’esistenza.
+
 <span class="atom-split" data-atom="149" data-title="THE PROVIDENCE OF GOD (FOUR ARTICLES)" data-chapter="THE PROVIDENCE OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Having considered all that relates to the will absolutely, we must now proceed to those things
@@ -7492,6 +9570,14 @@ Concerning God's providence there are four points of inquiry:
 (2) Whether everything comes under divine providence?
 (3) Whether divine providence is immediately concerned with all things?
 (4) Whether divine providence imposes any necessity upon things foreseen?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Avendo esaminato tutto ciò che riguarda assolutamente la volontà, dobbiamo ora passare a quegli argomenti che hanno rapporto sia con l’intelletto che con la volontà, ovvero la provvidenza in relazione a tutte le cose create; la [predestinazione](/concepts/predestination) e la riprovazione, nonché tutto ciò che è collegato a questi concetti, soprattutto per quanto riguarda l’uomo e la sua salvezza eterna. Nella scienza morale, dopo le virtù morali stesse, viene considerata la prudenza, alla quale sembrerebbe appartenere anche la provvidenza divina. Per quanto riguarda la provvidenza di Dio, vi sono quattro punti principali da esaminare:  
+(1) Se la provvidenza sia adeguatamente attribuibile a Dio;  
+(2) Se tutto rientri nell’ambito della provvidenza divina;  
+(3) Se la provvidenza divina si occupi direttamente di tutte le cose;  
+(4) Se la provvidenza divina imponga necessariamente ciò che è previsto.
 
 <span class="atom-split" data-atom="150" data-title="Whether providence can suitably be attributed to God?" data-chapter="Whether providence can suitably be attributed to God?" data-kind="atom" data-srclang="en"></span>
 
@@ -7554,7 +9640,25 @@ good, as the Philosopher says. Even if Providence has to do with the divine will
 this would not affect the divine simplicity, since in God both the will and intellect are one and the
 same thing, as we have said above (Q[19]).
 
-<span class="atom-split" data-atom="151" data-title="Whether everything is subject to the providence of God? (1/2)" data-chapter="Whether everything is subject to the providence of God?" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la provvidenza non sia degna di Dio. Infatti, secondo Tullio (De Invent., ii), la provvidenza fa parte della prudenza. Ma la prudenza, poiché, secondo il Filosofo (Etica, vi, 5, 9, 18), fornisce buoni consigli, non può appartenere a Dio, che non ha mai dubbi di cui doversi consultare. Pertanto, nemmeno la provvidenza può appartenergli.
+
+Obiezione 2: Inoltre, tutto ciò che è in Dio è eterno. Ma la provvidenza non è nulla di eterno, poiché riguarda cose esistenti che non sono eterne, secondo Damasceno (De Fide Orthodossa ii, 29). Pertanto, non esiste alcuna provvidenza in Dio.
+
+Obiezione 3: Inoltre, nulla in Dio è composto. Tuttavia, la provvidenza sembra essere qualcosa di composto, poiché include sia l’intelletto che la volontà. Pertanto, la provvidenza non esiste in Dio.
+
+Al contrario, si dice (Sapienza 14:3): “Ma Tu, Padre, governi tutte le cose con la tua provvidenza”.
+
+Rispondo che è necessario attribuire a Dio la provvidenza. Poiché tutto il bene che esiste nelle cose create è stato creato da Dio, come è stato dimostrato in precedenza (Q[6], A[4]). Nel mondo creato, il bene si trova non solo nella loro essenza, ma anche nell’ordine che esse seguono verso un fine, e soprattutto verso il loro fine ultimo, che, come detto prima, è la bontà divina (Q[21], A[4]). Questo ordine presente nelle cose create è anch’esso opera di Dio. Poiché Dio è la causa di tutte le cose attraverso il proprio intelletto, e quindi è necessario che il modello di ogni effetto esista già in Lui, come risulta chiaramente da quanto detto in precedenza (Q[19], A[4]), è inevitabile che anche il modello dell’ordine delle cose verso il loro fine esista nella mente divina; e questo modello è appunto la provvidenza. La prudenza, infatti, consiste principalmente nel dirigere le altre cose verso un fine, sia riguardo a se stessi – come quando una persona organizza bene le proprie azioni in vista della fine della vita – sia riguardo ad altri soggetti su di sé dipendenti, in una famiglia, in una città o in un regno. In questo senso si dice (Matteo 24:45): “Un servo fedele e saggio, che il suo padrone ha incaricato della sua casa”. In questo modo, la prudenza, ovvero la provvidenza, può essere attribuita adeguatamente a Dio. Poiché in Dio stesso non può esistere nulla che sia diretto verso un fine, poiché Egli è il fine ultimo di tutte le cose; quindi questo modello di ordine nelle cose verso un fine è chiamato in Dio “providenza”. Da qui deriva l’affermazione di Boezio (De Consol. iv, 6): “La provvidenza è il modello divino stesso, che risiede nel Sovrano Reggitore; essa dispone tutte le cose”: questa disposizione può riferirsi sia al modello dell’ordine delle cose verso un fine, sia al modello dell’ordinamento delle parti nel tutto.
+
+Risposta all’Obiezione 1: Secondo il Filosofo (Etica vi, 9,10), “La prudenza è ciò che, in senso stretto, comanda tutto ciò che l’‘ebulia’ ha consigliato correttamente e la ‘synesis’ ha giudicato rettamente” [*Cfr. FS, Q[57], A[6. Pertanto, anche se chiedere consiglio non è appropriato per Dio, poiché il consiglio riguarda questioni dubbi, è comunque legittimo che Egli dia ordini riguardo all’organizzazione delle cose verso uno scopo, di cui Egli possiede la certezza assoluta. Ciò risulta chiaro dal Salmo 148:6: “Ha stabilito una legge che non passerà mai”. In questo modo, sia la prudenza che la provvidenza appartengono a Dio. Tuttavia si può anche dire che la stessa ragione per cui le cose devono essere fatte viene definita “consiglio” in Dio; non a causa di un’indagine necessaria, ma a causa della certezza della conoscenza che coloro che chiedono consiglio acquisiscono attraverso tali indagini. Da qui il detto: “Lui compie tutte le cose secondo il disegno della sua volontà” (Efesini 1:11).
+
+Risposta all’Obiezione 2: Due aspetti riguardano la cura della provvidenza: da un lato, il “motivo dell’ordine”, che viene definito provvidenza e disposizione; dall’altro, l’attuazione di tale ordine, che viene chiamata governo. Di questi due aspetti, il primo è eterno, mentre il secondo è temporale.
+
+Risposta all’Obiezione 3: La Provvidenza risiede nell’intelletto; ma presuppone l’atto di volere quel fine. Nessuno dà precetti riguardo a azioni compiute per un certo scopo, se non si desidera effettivamente tale scopo. Pertanto, la prudenza presuppone le virtù morali, attraverso le quali la facoltà appetitiva viene indirizzata verso il bene, come afferma il Filosofo. Anche se la Provvidenza riguardasse ugualmente sia la volontà che l’intelletto divini, ciò non influenzerebbe in alcun modo la semplicità divina, poiché in Dio volontà e intelletto sono una stessa cosa, come abbiamo già detto sopra (Q[19]).
+
+<span class="atom-split" data-atom="151" data-title="Whether everything is subject to the providence of God? (parte 1)" data-chapter="Whether everything is subject to the providence of God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that everything is not subject to divine providence. For nothing foreseen
 can happen by [chance](/concepts/fortune). If then everything was foreseen by God, nothing would happen by chance.
@@ -7645,7 +9749,30 @@ Apparently it was this argument that moved those who withdrew the course of natu
 of divine providence, attributing it rather to the necessity of matter, as Democritus, and others of
 the ancients.
 
-<span class="atom-split" data-atom="152" data-title="Whether everything is subject to the providence of God? (2/2)" data-chapter="Whether everything is subject to the providence of God?" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non tutto sia soggetto alla provvidenza divina. Poiché nulla di ciò che è stato previsto può accadere per [caso](/concepts/fortune). Se quindi tutto fosse stato previsto da Dio, nulla accadrebbe per caso. E in tal caso, rischio e fortuna scomparirebbero; il che è contrario all’opinione comune.
+
+Obiezione 2: Inoltre, un provveditore saggio elimina, per quanto possibile, ogni difetto o male da coloro di cui si prende cura. Tuttavia vediamo che esistono molti mali. Quindi, o Dio non è in grado di impedirli e quindi non è onnipotente; oppure non si preoccupa di tutto.
+
+Obiezione 3: Inoltre, ciò che accade per necessità non richiede né provvidenza né prudenza. Pertanto, secondo il Filosofo (Etica, VI, 5, 9, 10, 11): “La prudenza è la ragione corretta riguardo alle cose contingenti su cui si può esercitare consiglio e scelta”. Poiché molte cose accadono per necessità, non tutto può essere soggetto alla provvidenza.
+
+Obiezione 4: Inoltre, ciò che viene lasciato a se stesso non può essere soggetto alla provvidenza di un governante. Gli uomini, infatti, vengono lasciati a se stessi da Dio, come si legge nelle parole: “Dio creò l’uomo fin dall’inizio e lo affidò alle sue stesse decisioni” (Ecclesiaste 15:14). Ciò vale in particolare per i malvagi: “Li lascio agire secondo i desideri del loro cuore” (Salmo 80:13). Pertanto, nulla può essere soggetto alla provvidenza divina.
+
+Obiezione 5: Inoltre, l’Apostolo afferma (1 Corinzi 9:9): “Dio non si cura degli buoi”; e lo stesso possiamo dire per altre creature irrazionali. Pertanto, non tutto può essere sotto la protezione della provvidenza divina.
+
+Al contrario, si dice della Saggezza Divina: “Si estende potentemente da un’estremità all’altra e ordina tutte le cose in modo armonioso” (Saggezza 8:1).
+
+Rispondo che alcune persone negavano completamente l’esistenza della provvidenza, come Democrito ed gli Epicurei, sostenendo che il mondo fosse stato creato per caso. Altre affermavano che soltanto le cose incorruttibili fossero soggette alla provvidenza, mentre le cose corruttibili lo erano soltanto in relazione alla loro specie, poiché in questo senso esse sono incorruttibili. Si diceva infatti che dicessero (Giobbe 22:14): “Le nuvole sono il suo riparo; egli non si cura delle nostre faccende e cammina intorno ai poli del cielo”. Tuttavia, il rabbino Mosè escludeva gli esseri umani dall’ambito delle cose corruttibili, a causa dell’eccellenza dell’intelletto che possiedono; per quanto riguarda tutto il resto che è soggetto alla corruzione, invece, aderiva all’opinione degli altri.  
+Dobbiamo comunque affermare che tutte le cose sono soggette alla provvidenza divina, non solo in linea di principio, ma anche nel loro essere individuale. Questo è evidente: poiché ogni agente agisce per uno scopo, l’organizzazione degli effetti verso tale scopo si estende fino al punto in cui si estende la causalità dell’agente stesso. Pertanto, negli effetti di un agente può verificarsi qualcosa che non ha alcuna relazione con lo scopo prefissato, poiché l’effetto deriva da una causa diversa e al di fuori delle intenzioni dell’agente. Ma la causalità di Dio, che è l’agente primario, si estende a tutto l’esistente, non solo ai principi costitutivi delle specie, ma anche ai principi che danno loro individualità; non soltanto alle cose incorruttibili, ma anche a quelle corruttibili. Pertanto, tutte le cose che esistono sono necessariamente dirette da Dio verso uno scopo; come dice l’Apostolo: “Quelle cose che sono di Dio sono ben ordinate” (Romani 13:1). Poiché la provvidenza di Dio non è altro che l’espressione dell’ordine delle cose verso uno scopo, ne consegue necessariamente che tutte le cose, in quanto partecipano all’esistenza, siano soggette alla provvidenza divina. È stato inoltre dimostrato che Dio conosce tutte le cose, sia universali che particolari; e poiché la sua conoscenza può essere paragonata alle stesse cose, come la conoscenza dell’arte agli oggetti di quell’arte, tutte le cose devono necessariamente essere soggette al suo ordine, così come tutte le cose create dall’arte sono subordinate all’organizzazione di quell’arte.
+
+Risposta all’Obiezione 1: Esiste una differenza tra cause universali e cause particolari. Una cosa può sfuggire all’ordine di una causa particolare; ma non all’ordine di una causa universale. Infatti, nulla può sfuggire all’ordine di una causa particolare, se non attraverso l’intervento o l’ostacolo di un’altra causa particolare; ad esempio, il legno può essere impedito di bruciare dall’azione dell’acqua. Poiché tutte le cause particolari sono incluse all’interno della causa universale, non è possibile che alcun effetto si verifichi al di fuori del suo ambito. Quindi, quando un effetto sfugge all’ordine di una causa particolare, si dice che sia casuale o fortuito rispetto a quella causa; ma se consideriamo la causa universale, al di fuori del cui ambito nessun effetto può verificarsi, allora si dice che tale effetto sia stato previsto. Ad esempio, l’incontro tra due servitori, sebbene per loro appaia una circostanza casuale, è stato completamente previsto dal loro padrone, il quale li ha inviati intenzionalmente a incontrarsi in quel luogo, in modo che uno di loro non sapesse dell’altro.
+
+Risposta all’Obiezione 2: È diverso il caso di colui che si prende cura di una cosa particolare e di colui la cui provvidenza è universale: infatti, chi si occupa di qualcosa in modo specifico elimina tutti i difetti da ciò che è sotto la sua cura, nella misura del possibile; mentre chi agisce in modo universale permette che rimangano alcuni piccoli difetti, affinché il bene complessivo non venga ostacolato. Pertanto, si dice che la corruzione e i difetti nelle cose naturali siano contrari a una certa natura particolare; tuttavia, sono in armonia con il disegno della natura universale, poiché il difetto in una cosa contribuisce al bene di un’altra, o addirittura al bene universale: infatti, la corruzione di una cosa è alla base della nascita di un’altra, e proprio attraverso questo meccanismo una specie riesce a sopravvivere. Poiché Dio provvede in modo universale a tutto l’esistente, è proprio della Sua provvidenza permettere che esistano certi difetti nelle cose particolari, affinché il bene perfetto dell’universo non venga compromesso; infatti, se tutti i mali venissero eliminati, molte cose buone scomparirebbero dall’universo. Un leone smetterebbe di esistere se non ci fossero animali da uccidere; e non ci sarebbe alcuna forma di martirio se non ci fossero persecuzioni tiranniche. Così dice [Agostino](/figures/augustine) nell’Enchiridion 2: “Dio Onnipotente non permetterebbe mai che il male esistesse nelle Sue opere, se non fosse così potente e buono da trarre del bene anche dal male”. Sembra proprio che sia stato su queste due argomentazioni che abbiamo appena risposto che alcuni sono stati indotti a ritenere che le cose corruttibili – ad esempio quelle casuali o malvagie – siano al di fuori della cura della provvidenza divina.
+
+Risposta all’Obiezione 3: L’uomo non è l’autore della natura; ma utilizza le cose naturali per applicare arte e virtù ai propri scopi. Pertanto, la provvidenza umana non si estende a ciò che avviene nella natura per necessità; mentre la provvidenza divina sì, poiché Dio è l’autore della natura. Apparentemente fu proprio questo argomento a convincere coloro che allontanarono il corso naturale dalla cura della provvidenza divina, attribuendolo piuttosto alla necessità stessa della materia, come fecero Democrito e altri antichi.
+
+<span class="atom-split" data-atom="152" data-title="Whether everything is subject to the providence of God? (parte 2)" data-chapter="Whether everything is subject to the providence of God?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: When it is said that God left man to himself, this does not mean that
 man is exempt from divine providence; but merely that he has not a prefixed operating force
@@ -7670,6 +9797,12 @@ something is imputed to it as a fault, or as a merit; and there is given it acco
 way of punishment or reward. In this way, the Apostle withdraws oxen from the care of God: not,
 however, that individual irrational creatures escape the care of divine providence; as was the opinion
 of the Rabbi Moses.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 4: Quando si afferma che Dio abbia lasciato l’uomo a se stesso, ciò non significa che l’uomo sia esentato dalla provvidenza divina; ma soltanto che non possiede una forza operante predeterminata ad ottenere un solo effetto specifico. È proprio come nel caso delle cose naturali, le quali vengono influenzate da forze esterne, sebbene non agiscano autonomamente verso uno scopo preciso, a differenza delle creature razionali che, grazie alla [libera volontà](/positions/free_will), sono in grado di prendere decisioni consapevolmente. Per questo si dice esplicitamente: “Nella mano della propria volontà”. Tuttavia, poiché l’atto stesso della libera volontà ha Dio come causa, ne consegue necessariamente che tutto ciò che avviene a seguito dell’esercizio di questa libertà sia soggetto alla provvidenza divina. La provvidenza umana, infatti, rientra nella provvidenza di Dio, come un caso particolare all’interno di una causa universale. Dio estende la Sua provvidenza sui giusti in modo particolarmente più efficace rispetto ai malvagi, impedendo che accadano eventi che possano ostacolare la loro salvezza finale; poiché “per quelli che amano Dio, tutte le cose cooperano al bene” (Romani 8:28). Tuttavia, dal fatto che Dio non impedisce ai malvagi di compiere atti peccaminosi, si dice che li abbandoni, ma non nel senso che ritiri completamente la Sua provvidenza su di loro; altrimenti essi cesserebbero di esistere se non fossero mantenuti in vita dalla Sua provvidenza. Questa era anche la ragione per cui Tullio riteneva che gli affari umani, su cui noi prendiamo decisioni, non dovessero essere considerati sotto la protezione della provvidenza divina.
+
+Risposta all’Obiezione 5: Poiché una creatura razionale, attraverso la sua volontà libera, ha il controllo sulle proprie azioni – come è stato detto sopra (Q[19], A[10]) – essa è soggetta alla provvidenza divina in modo particolare; pertanto le sue azioni vengono considerate colpe o meriti, e di conseguenza le viene inflitta una punizione o concessa una ricompensa. In questo modo, l’Apostolo esclude gli animali dalla cura di Dio; tuttavia, ciò non significa che le creature irrazionali sfuggano alla provvidenza divina, come riteneva il Rabbino Mosè.
 
 <span class="atom-split" data-atom="153" data-title="Whether God has immediate providence over everything?" data-chapter="Whether God has immediate providence over everything?" data-kind="atom" data-srclang="en"></span>
 
@@ -7723,6 +9856,24 @@ simultaneously; because the thought of evil sometimes perverts the will towards 
 not hold with God, Who sees everything simultaneously at one glance, and whose will cannot turn
 in the direction of evil.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non abbia una provvidenza immediata su tutte le cose. Infatti, tutto ciò che è contenuto nel concetto di dignità deve essere attribuito a Dio; ma appartiene alla dignità di un re il fatto di disporre di ministri attraverso i quali provvede ai suoi sudditi. Pertanto, ancora meno Dio stesso può avere una provvidenza immediata su tutte le cose.
+
+Obiezione 2: Inoltre, spetta alla provvidenza ordinare tutte le cose verso un fine. Ora, il fine di ogni cosa è la sua perfezione e il suo bene. Ma spetta a ogni causa dirigere il proprio effetto verso il bene; pertanto, ogni causa attiva è una causa dell’effetto della provvidenza. Se quindi Dio avesse una provvidenza immediata su tutte le cose, tutte le cause secondarie verrebbero eliminate.
+
+Obiezione 3: Inoltre, [Agostino](/figures/augustine) afferma nell’“Enchiridion” 17 che “è meglio ignorare alcune cose piuttosto che conoscerle, soprattutto cose vili”; lo stesso dice anche il Filosofo (Metafisica XII, 51). Ma ciò che è ritenuto migliore deve essere attribuito a Dio. Pertanto, Lui non esercita una provvidenza immediata su cose cattive e vili.
+
+Al contrario, si dice (Job 34:13): “Chi altro ha Egli nominato per governare la terra? O chi ha designato per regnare su questo mondo che Ha creato?” A proposito di questo passaggio, Gregorio afferma (Moralia, xxiv, 20): “È Lui stesso a governare il mondo che Ha creato.”
+
+Rispondo che alla provvidenza appartengono due aspetti principali: da un lato, il modello dell’ordine delle cose predeterminate verso uno scopo specifico; dall’altro, l’esecuzione di tale ordine, che viene definita “governo”. Per quanto riguarda il primo aspetto, Dio esercita una provvidenza immediata su tutto, poiché possiede nella sua intelligenza il modello di ogni cosa, anche della più piccola; inoltre, le cause che assegna a determinati effetti conferiscono loro la capacità di produrli. Pertanto, deve necessariamente possedere già in anticipo nel proprio intelletto il modello di tali effetti. Per quanto riguarda il secondo aspetto, esistono intermediari nella provvidenza divina: Dio governa le cose inferiori attraverso quelle superiori, non a causa di alcuna carenza nella sua potenza, ma per l’abbondanza della sua bontà; in questo modo anche alle creature viene conferita la dignità di agire come cause. Così si confuta l’opinione di Platone, riportata da Gregorio di Nissa (De Providentia, viii, 3): egli sosteneva l’esistenza di una provvidenza tripartita. La prima appartiene alla divinità suprema, che ha il controllo su tutte le cose spirituali e, di conseguenza, sull’intero mondo in termini di generi, specie e cause universali; la seconda provvidenza riguarda gli individui di tutto ciò che può essere generato o distrutto, ed è attribuita alle divinità che operano nei cieli, ovvero a sostanze separate che muovono le cose corporee in modo circolare; la terza provvidenza, relativa agli affari umani, viene attribuita ai demoni, considerati dai filosofi platonici intermedi tra noi e gli dèi, come ci dice Agostino (De Civitate Dei, 1, 2; viii, 14).
+
+Risposta all’Obiezione 1: È proprio della dignità di un re disporre di ministri che attuino le sue intenzioni. Tuttavia il fatto che egli non abbia una chiara concezione di ciò che i suoi ministri fanno deriva da una sua stessa carenza. Infatti, ogni scienza pratica è tanto più perfetta quanto più prende in considerazione i dettagli specifici con cui la sua azione è connessa.
+
+Risposta all’Obiezione 2: L’intervento diretto di Dio su ogni cosa non esclude l’azione delle cause secondarie, che sono i soggetti che attuano i Suoi disegni, come già detto in precedenza (Q[19], AA[5],8).
+
+Risposta all’Obiezione 3: È meglio per noi non conoscere cose basse e vili, poiché esse ostacolano la nostra comprensione di ciò che è migliore e più nobile; inoltre, non possiamo comprendere molte cose contemporaneamente, e il pensiero del male può talvolta deviare la nostra volontà verso il male. Questo non vale per Dio, che vede tutto simultaneamente con un solo sguardo, e la cui volontà non può mai dirigersi verso il male.
+
 <span class="atom-split" data-atom="154" data-title="Whether providence imposes any necessity on things foreseen?" data-chapter="Whether providence imposes any necessity on things foreseen?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that divine providence imposes necessity upon things foreseen. For every
@@ -7766,6 +9917,24 @@ speaking 'necessary' and "contingent" are consequent upon being, as such. Hence 
 of necessity and of contingency falls under the foresight of God, who provides universally for all
 being; not under the foresight of causes that provide only for some particular order of things.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la provvidenza divina imponga necessità alle cose previste. Infatti, ogni effetto che ha una causa “in sé”, sia presente che passata, e da cui deriva necessariamente, si verifica per necessità; come dimostra il Filosofo (Metafisica VI, 7). Ma la provvidenza di Dio, essendo eterna, esiste già in anticipo; l’effetto ne deriva quindi necessariamente, poiché la provvidenza divina non può essere frustrata. Pertanto, la provvidenza divina imponge necessità alle cose previste.
+
+Obiezione 2: Inoltre, ogni fornitore si impegna al massimo per rendere il proprio lavoro il più stabile possibile, affinché non fallisca. Ma Dio è onnipotente; pertanto attribuisce necessariamente alle cose che fornisce una certa stabilità.
+
+Obiezione 3: Inoltre, Boezio afferma (De Consolatio, iv, 6): “Le azioni umane e le sorti sono legate tra loro da una connessione indissolubile, derivante dalla fonte immutabile della provvidenza”. Sembra quindi che la provvidenza imponga necessariamente ciò che è previsto.
+
+Al contrario, Dionisio afferma che (Div. Nom. iv, 23) “corrompere la natura non è opera della provvidenza”. Tuttavia, è proprio nella natura di alcune cose essere contingenti; pertanto, la divina provvidenza non impone alcuna necessità su tali cose al fine di distruggere la loro condizione di contingenza.
+
+Rispondo che la provvidenza divina impone necessità a alcune cose, ma non a tutte, come alcuni credevano in passato. Infatti, spetta alla provvidenza ordinare le cose verso un fine. Ora, dopo la bontà divina – che rappresenta il fine esterno di tutte le cose – il bene principale nelle stesse cose è la perfezione dell’universo; questa perfezione non esisterebbe se non ci fossero tutti i gradi di essere presenti nelle cose. Pertanto, spetta alla provvidenza divina produrre ogni grado di essere. E così ha predisposto, per alcune cose, cause necessarie affinché accadano inevitabilmente; per altre, cause contingenti, in modo che possano accadere in modo casuale, secondo la natura delle loro cause immediate.
+
+Risposta all’Obiezione 1: L’effetto della provvidenza divina non consiste semplicemente nel fatto che le cose debbano accadere in qualche modo; ma anche nel fatto che esse debbano accadere o per necessità o per contingenza. Pertanto, tutto ciò che la provvidenza divina ordina che accada in modo infallibile e necessario, avviene effettivamente in modo infallibile e necessario; mentre ciò che avviene per contingenza è ciò che il disegno della provvidenza divina prevede possa accadere per caso.
+
+Risposta all’Obiezione 2: L’ordine della provvidenza divina è immutabile e certo; tutte le cose previste avvengono esattamente come erano state previste, sia per necessità che per contingenza.
+
+Risposta all’Obiezione 3: Quell’indissolubilità e immutabilità di cui parla Boezio riguardano la certezza della provvidenza, che non manca mai di produrre i suoi effetti nel modo previsto; tuttavia, tali caratteristiche non riguardano necessariamente l’inevitabilità stessa di quegli effetti. Dobbiamo ricordare che, in senso proprio, “necessario” e “contingente” derivano dal concetto stesso di essere. Pertanto, sia il concetto di necessità che quello di contingenza rientrano nell’ambito della previsione di Dio, il quale provvede universalmente a tutto ciò che esiste; non invece nel contesto delle cause che agiscono soltanto su determinati aspetti dell’esistenza.
+
 <span class="atom-split" data-atom="155" data-title="OF PREDESTINATION (EIGHT ARTICLES)" data-chapter="OF PREDESTINATION (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After consideration of divine providence, we must treat of [predestination](/concepts/predestination) and the book of life.
@@ -7779,6 +9948,19 @@ chosen?
 (6) of the certainty of predestination; whether the predestined will infallibly be saved?
 (7) Whether the number of the predestined is certain?
 (8) Whether predestination can be furthered by the prayers of the saints?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo aver considerato la provvidenza divina, dobbiamo trattare della [predestinazione](/concepts/predestination) e del libro della vita.  
+Per quanto riguarda la predestinazione, ci sono otto punti da esaminare:  
+(1) Se la predestinazione possa essere attribuita adeguatamente a Dio;  
+(2) Che cosa sia la predestinazione e se essa influisca in qualche modo sugli esseri destinati ad essa;  
+(3) Se spetti a Dio il compito di respingere alcuni uomini;  
+(4) Il rapporto tra predestinazione ed elezione: i predestinati sono forse “scelti” da Dio?  
+(5) Se i meriti siano la causa della predestinazione, della riprovazione o dell’elezione;  
+(6) La certezza della predestinazione: i predestinati saranno inevitabilmente salvati?  
+(7) Se il numero dei predestinati sia certo;  
+(8) Se le preghiere dei santi possano influenzare positivamente la realizzazione della predestinazione.
 
 <span class="atom-split" data-atom="156" data-title="Whether men are predestined by God?" data-chapter="Whether men are predestined by God?" data-kind="atom" data-srclang="en"></span>
 
@@ -7842,6 +10024,28 @@ Reply to Objection 4: Even if by a special privilege their predestination were r
 it is not fitting that it should be revealed to everyone; because, if so, those who were not predestined
 would despair; and security would beget negligence in the predestined.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che gli uomini non siano predeterminati da Dio, poiché Damasceno afferma (De Fide Orthodossa, ii, 30): “È necessario ricordare che Dio conosce in anticipo tutto, ma non lo predetermina; conosce infatti tutto ciò che è in noi, ma non ne determina il corso”. Tuttavia, i meriti e i demeriti umani esistono in noi, poiché siamo padroni dei nostri stessi atti grazie alla [volontà libera](/positions/free_will). Pertanto, tutto ciò che riguarda i meriti o i demeriti non è predeterminato da Dio; e di conseguenza, l’idea della [predeterminazione](/concepts/predestination) umana viene confutata.
+
+Obiezione 2: Inoltre, tutte le creature sono guidate verso il loro fine dalla provvidenza divina, come è stato detto sopra (Q[22], AA[1],2). Tuttavia, non si dice che altre creature siano predestinate da Dio; pertanto, lo stesso vale per gli uomini.
+
+Obiezione 3: Inoltre, gli angeli sono capaci di [beatazza](/positions/beatitude), proprio come gli uomini. Ma la predestinazione non è adatta agli angeli, poiché in loro non esiste mai stata alcuna sventura o miseria; infatti, la predestinazione, come afferma [Agostino](/figures/augustine) (De praedest. sanct. 17), rappresenta “lo scopo di provare compassione per gli altri”. [*Vedi Q[22], A[3. Pertanto, gli uomini non sono predestinati.
+
+Obiezione 4: Inoltre, i benefici che Dio conferisce agli uomini vengono rivelati dallo Spirito Santo agli uomini santi, secondo quanto afferma l’Apostolo (1 Corinzi 2:12): “Ora abbiamo ricevuto non lo spirito di questo mondo, ma lo Spirito che è di Dio; affinché conosciamo quelle cose che ci sono state date da Dio”. Pertanto, se l’uomo fosse predestinato da Dio – poiché la predestinazione rappresenta un beneficio da parte di Dio – la sua stessa predestinazione dovrebbe essere nota a ogni individuo predestinato; il che è chiaramente falso.
+
+Al contrario, è scritto (Roma 8:30): “Coloro che Egli ha predeterminato, anche loro li ha chiamati”.
+
+Rispondo che è appropriato che Dio predetermini gli uomini, poiché tutte le cose sono soggette alla Sua provvidenza, come è stato dimostrato in precedenza (Q[22], A[2]). Appartiene infatti alla provvidenza guidare le cose verso il loro fine, come anche detto in precedenza (Q[22], AA[1],2). Il fine verso cui sono dirette le cose create da Dio è duplice: uno che trascende ogni capacità e possibilità della natura creata; tale fine è la vita eterna, consistente nella visione di Dio, che è al di sopra della natura di ogni creatura, come dimostrato in precedenza (Q[12], A[4]). L’altro fine, invece, è proporzionato alla natura creata e verso di esso la creatura può tendere grazie alle sue capacità naturali. Ora, se una cosa non può raggiungere un certo scopo con le sole forze della sua natura, deve essere guidata verso di esso da un’altra forza; così, l’arco guida la freccia verso il bersaglio. Pertanto, in senso proprio, una creatura razionale, capace di vita eterna, viene guidata verso di essa da Dio stesso. La ragione di questa guida esiste già in Dio; poiché in Lui risiede l’esempio dell’ordine di tutte le cose verso un fine, che abbiamo dimostrato essere la provvidenza. Ora, l’esempio presente nella mente di colui che intende compiere qualcosa rappresenta una sorta di preesistenza di quell’azione nella sua stessa mente. Pertanto, l’esempio di tale guida da parte di una creatura razionale verso la vita eterna viene chiamato “predeterminazione”. Poiché “destinare” significa guidare o inviare qualcosa verso un fine, è evidente che la predeterminazione, per quanto riguarda i suoi oggetti, fa parte della provvidenza.
+
+Risposta all’Obiezione 1: Damasceno definisce la predestinazione un’imposizione di necessità, simile a quella delle cose naturali che sono destinate a uno specifico fine. Ciò è chiaro dal suo aggiungere: “Non desidera il male, né costringe alla virtù”. Pertanto, secondo Damasceno, la predestinazione non viene esclusa da questa concezione.
+
+Risposta all’Obiezione 2: Le creature irrazionali non sono capaci di quel fine che trascende le possibilità della [natura umana](/axes/human_nature). Pertanto, non si può affermare correttamente che siano predestinate a tale fine; sebbene il termine venga talvolta utilizzato in modo improprio per indicare qualsiasi altro scopo.
+
+Risposta all’Obiezione 3: La predestinazione si applica agli angeli, proprio come agli uomini, anche se questi ultimi non hanno mai conosciuto la sfortuna. Infatti, il movimento non deriva dalla “fonte” da cui ha origine, ma dal “luogo” verso cui si dirige. Non ha alcuna importanza, per quanto riguarda il concetto di rendere qualcosa bianco, che colui che viene reso bianco fosse prima nero, giallo o rosso; allo stesso modo, non ha alcuna rilevanza, per quanto riguarda il concetto di predestinazione, che una persona sia destinata alla vita eterna a partire da uno “stato” di miseria o meno. Tuttavia, si può affermare che ogni dono di bene superiore a ciò che è dovuto rientri nella categoria della misericordia; come è stato dimostrato in precedenza (Q[21], AA[3],4).
+
+Risposta all’Obiezione 4: Anche se, per un privilegio speciale, la loro predestinazione venisse rivelata a qualcuno, non sarebbe appropriato che fosse rivelata a tutti; infatti, in tal caso, coloro che non sono predestinati cadrebbero nel dispero, mentre coloro che lo sono diventerebbero negligenti nella loro condotta.
+
 <span class="atom-split" data-atom="157" data-title="Whether predestination places anything in the predestined?" data-chapter="Whether predestination places anything in the predestined?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that [predestination](/concepts/predestination) does place something in the predestined. For every
@@ -7903,6 +10107,29 @@ Reply to Objection 4: Grace does not come into the definition of predestination,
 belonging to its essence, but inasmuch as predestination implies a relation to grace, as of cause to
 effect, and of act to its object. Whence it does not follow that predestination is anything temporal.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la [predeterminazione](/concepts/predestination) imponga qualcosa a coloro che sono destinati ad essa. Poiché ogni azione umana genera una passione, se quindi la predeterminazione è un’azione di Dio, allora essa deve essere considerata una passione per coloro che ne sono oggetto.
+
+Obiezione 2: Inoltre, Origene afferma riguardo a questo testo: “Colui che è stato predestinato”, ecc. (Romani 1:4):  
+“La predestinazione riguarda colui che non esiste ancora; la destinazione, invece, colui che già esiste.” E [Agostino](/figures/augustine) dice nel “De Praedestinato”: “Che cos’è la predestinazione, se non la destinazione di colui che già esiste?” Pertanto, la predestinazione riguarda soltanto colui che esiste effettivamente; e ciò implica che ciò che viene predestinato sia qualcosa che appartiene a una persona che già esiste.
+
+Obiezione 3: Inoltre, la preparazione è qualcosa che appartiene alla cosa stessa che viene preparata. Ma la predestinazione rappresenta la preparazione dei benefici di Dio, come afferma Agostino (De Praedestinato Sancto ii, 14). Pertanto, la predestinazione è qualcosa che appartiene alla persona destinata a ricevere tali benefici.
+
+Obiezione 4: Inoltre, nulla di temporale entra nella definizione di [eternità](/positions/eternity). Ma la grazia, che è qualcosa di temporale, compare nella definizione della predestinazione. Poiché la predestinazione rappresenta la preparazione della grazia nel presente e della gloria nel futuro, essa non può essere considerata qualcosa di eterno. Pertanto, la predestinazione deve esistere necessariamente negli esseri predestinati, e non in Dio; poiché tutto ciò che è in Lui è eterno.
+
+Al contrario, Agostino afferma (De Praed. Sanct. ii, 14) che “la predestinazione è la prescienza dei benefici di Dio”. Ma la prescienza non risiede nelle cose conosciute in anticipo, bensì nella persona che le conosce. Pertanto, la predestinazione appartiene a colui che predetermina, e non a coloro che sono destinati.
+
+Rispondo che la predestinazione non riguarda in alcun modo le cose destinate a essa, ma soltanto la persona che predetermina. Abbiamo già detto che la predestinazione fa parte della provvidenza; ora, la provvidenza stessa non è qualcosa che esista nelle cose per cui provvede, ma rappresenta piuttosto un progetto nella mente di colui che provvede, come dimostrato in precedenza (Q[22], A[1]). Tuttavia, l’attuazione di questa provvidenza, chiamata “governo”, avviene in modo passivo nelle cose governate e in modo attivo da parte di colui che governa. Ne consegue chiaramente che la predestinazione rappresenta una sorta di progetto relativo all’orientamento di alcune persone verso la salvezza eterna, esistente nella mente divina. L’attuazione effettiva di questo progetto avviene, però, in modo passivo nelle persone predestinate e in modo attivo in Dio stesso. L’attuazione della predestinazione consiste quindi nel chiamare e nell’esaltare coloro che sono stati predestinati; come afferma l’Apostolo (Romani 8:30): “Coloro che Egli ha predeterminato, li ha anche chiamati; e coloro che ha chiamato, li ha anche esaltati”.
+
+Risposta all’Obiezione 1: Le azioni che si estendono alla materia esterna implicano di per sé passioni – ad esempio, le azioni di riscaldare o tagliare; ma non vale lo stesso per le azioni che rimangono nell’agente stesso, come comprendere o volere, come detto sopra (Q[14], A[2]; Q[18], A[3], ad 1). La predestinazione appartiene a questa seconda categoria di azioni. Pertanto, essa non “immette” nulla nel destinatario della predestinazione; ma la sua attuazione, che si estende alle cose esterne, ha effetti su di esse.
+
+Risposta all’Obiezione 2: Il concetto di “destinazione” indica talvolta una vera e propria missione che qualcuno si impegna ad adempiere verso un determinato obiettivo; pertanto, il termine “destinazione” può essere utilizzato soltanto per riferirsi a persone realmente esistenti. Tuttavia, viene anche inteso in senso diverso, come indicante una missione che una persona concepisce nella propria mente; in questo caso, si dice che qualcuno “destini” qualcosa che ha fermamente deciso di realizzare. È proprio in questo secondo senso che si afferma, ad esempio, che Eleazar “si impegnò a non compiere alcun atto illegale per amore della vita” (2 Maccabei 6:20). Quindi, il concetto di destinazione può riguardare anche cose che non esistono ancora. La predestinazione, invece, in virtù della natura antecedente che implica, può essere attribuita a cose che effettivamente non esistono, indipendentemente dal modo in cui il concetto di destinazione venga interpretato.
+
+Risposta all’Obiezione 3: La preparazione è di duplice natura: da un lato, riguarda il paziente in relazione alle passioni, e questa preparazione si trova nell’oggetto stesso che deve essere affrontato; dall’altro lato, riguarda l’agente in relazione all’azione da compiere, e questa preparazione è insita nell’agente stesso. Tale preparazione rappresenta la predestinazione: un agente, infatti, si prepara ad agire nel momento in cui concepisce l’idea di ciò che deve essere fatto. Così pure Dio, fin dall’eternità, si è preparato attraverso la predestinazione, concependo l’ordine delle cose volte alla salvezza degli esseri umani.
+
+Risposta all’Obiezione 4: La grazia non entra nella definizione della predestinazione come qualcosa che ne faccia parte essenziale, ma perché la predestinazione implica una relazione tra grazia e destino, cioè una relazione di causa-effetto e di atto-oggetto. Da ciò non consegue affatto che la predestinazione sia qualcosa di temporale.
+
 <span class="atom-split" data-atom="158" data-title="Whether God reprobates any man?" data-chapter="Whether God reprobates any man?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God reprobates no man. For nobody reprobates what he loves. But
@@ -7952,6 +10179,24 @@ above (Q[19], A[3]), that the predestined must necessarily be saved; yet a condi
 which does not do away with the liberty of choice. Whence, although anyone reprobated by God
 cannot acquire grace, nevertheless that he falls into this or that particular sin comes from the use
 of his free-will. Hence it is rightly imputed to him as guilt.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non condanni nessuno, poiché nessuno condanna ciò che ama. Ma Dio ama tutti gli uomini, come afferma la Saggezza (11:25): “Ami tutte le cose che esistono e non odii nulla di ciò che hai creato”. Pertanto, Dio non condanna nessuno.
+
+Obiezione 2: Inoltre, se Dio condannasse qualcuno, sarebbe necessario che la condanna avesse lo stesso rapporto nei confronti di colui che viene condannato quanto la [predestinazione](/concepts/predestination) ha nei confronti di coloro che sono predestinati. Ma la predestinazione è la causa della salvezza di coloro che sono predestinati; pertanto, anche la condanna dovrebbe essere la causa della perdita di colui che viene condannato. Tuttavia, ciò è falso. Poiché si dice (Osea 13:9): “La distruzione ti appartiene, o Israele; il tuo aiuto sta soltanto in Me”. Quindi Dio non condanna alcuno.
+
+Obiezione 3: Inoltre, a nessuno dovrebbe essere attribuito qualcosa di ciò che non può evitare. Ma se Dio condanna qualcuno, tale persona deve perire. Infatti si dice (Ecclesiaste 7:14): “Considera le opere di Dio: nessun uomo può essere corretto da Lui se è stato disprezzato”. Pertanto, non potrebbe essere attribuito a nessuno il fatto di perire. Ma questo è falso. Quindi Dio non condanna nessuno.
+
+Al contrario, si dice (Malaquia 1:2,3): “Ho amato Giacobbe, ma ho odiato Esaù”.
+
+Rispondo che Dio effettivamente condanna alcuni. Come è stato detto in precedenza (A[1]), la predestinazione fa parte della provvidenza. Tuttavia, spetta alla provvidenza permettere l’esistenza di certi difetti nelle cose soggette al suo dominio, come si è affermato anche in precedenza (Q[22], A[2]). Poiché gli uomini sono destinati alla vita eterna per volontà di Dio, è anch’esso parte di quella provvidenza permettere che alcuni si allontanino da tale destino; questo fenomeno viene chiamato “reprobazione”. Così come la predestinazione riguarda coloro che sono destinati alla salvezza eterna, anche la reprobazione riguarda coloro che si allontanano da tale fine. Pertanto, la reprobazione implica non solo una previsione divina, ma anche qualcosa di più; lo stesso vale per la provvidenza, come è stato detto in precedenza (Q[22], A[1]). Quindi, così come la predestinazione include la volontà di concedere grazia e gloria, anche la reprobazione include la volontà di permettere a una persona di cadere nel peccato e di infliggere su di essa la punizione dell’eterna dannazione.
+
+Risposta all’Obiezione 1: Dio ama tutti gli uomini e tutte le creature, nella misura in cui desidera che a ciascuno di loro venga recato qualche bene; tuttavia, non desidera che a tutti venga concesso ogni bene. Pertanto, nella misura in cui Egli non desidera questo particolare bene – ovvero la vita eterna – si può dire che lo odii o lo disapprovi.
+
+Risposta all’Obiezione 2: La riprovazione differisce dalla predestinazione per quanto riguarda la sua natura causale. Quest’ultima è causa sia di ciò che viene previsto nella vita futura dai predestinati – ovvero la gloria – sia di ciò che viene ricevuto in questa vita, ovvero la grazia. La riprovazione, invece, non è la causa di ciò che esiste nel presente – ovvero il peccato – ma è la causa dell’abbandono da parte di Dio. Tuttavia, essa è anche la causa di ciò che sarà riservato in futuro, ovvero la punizione eterna. La colpa, però, deriva dalla libera volontà della persona che viene riprovata e abbandonata dalla grazia. In questo modo, la parola del profeta è vera: “La distruzione è tua, o Israele”.
+
+Risposta all’Obiezione 3: La riprovazione da parte di Dio non sottrae nulla al potere della persona riprovata. Pertanto, quando si afferma che la persona riprovata non possa ottenere la grazia, ciò non deve essere inteso come un’impossibilità assoluta, ma solo come un’impossibilità condizionata. Come già detto in precedenza (Q[19], A[3]), il predestinato deve necessariamente essere salvato; tuttavia, questa necessità è condizionale e non elimina la libertà di scelta. Pertanto, sebbene una persona riprovata da Dio non possa acquisire la grazia, il fatto che commetta questo o quell’atto peccaminoso deriva dall’utilizzo della sua libera volontà; perciò tale azione può essere giustamente attribuita a colpa sua.
 
 <span class="atom-split" data-atom="159" data-title="Whether the predestined are chosen by God? [*\&quot;Eligantur.\&quot;]" data-chapter="Whether the predestined are chosen by God? [*\&quot;Eligantur.\&quot;]" data-kind="atom" data-srclang="en"></span>
 
@@ -8005,7 +10250,27 @@ yet He does not err in His choice."
 Reply to Objection 3: God wills all men to be saved by His antecedent will, which is to will
 not simply but relatively; and not by His consequent will, which is to will simply.
 
-<span class="atom-split" data-atom="160" data-title="Whether the foreknowledge of merits is the cause of predestination? (1/2)" data-chapter="Whether the foreknowledge of merits is the cause of predestination?" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+# I predeterminati sono forse scelti da Dio? [*“Vengono eletti”.*]
+
+Obiezione 1: Sembra che coloro che sono predestinati non siano scelti da Dio. Infatti Dionigi afferma (Div. Nom. iv, 1) che, così come il sole corporeo irradia i suoi raggi su tutti senza distinzione, allo stesso modo Dio diffonde la sua bontà su tutti. Tuttavia, la bontà di Dio viene trasmessa a alcuni in modo particolare, attraverso la partecipazione alla grazia e alla gloria divine. Pertanto, Dio distribuisce la sua grazia e la sua gloria senza alcuna selezione; e questo costituisce il fondamento della [predestinazione](/concepts/predestination).
+
+Obiezione 2: Inoltre, l’eletto riguarda cose che esistono; ma la predestinazione, che ha inizio da tutta l’[eternità](/positions/eternity), riguarda anche cose che non esistono ancora. Pertanto, alcune persone sono predestinate senza essere state elette.
+
+Obiezione 3: Inoltre, l’eletto implica una sorta di discriminazione. Dio, infatti, “vuole che tutti gli uomini siano salvati” (1 Timoteo 2:4). Pertanto, la predestinazione, che indirizza gli uomini verso la salvezza eterna, è priva di elementi legati all’eletto.
+
+Al contrario, si dice (Efesini 1:4): “Ci ha scelti in Lui prima ancora della fondazione del mondo”.
+
+Rispondo che la predestinazione presuppone l’elettione secondo il disegno della ragione; e l’elettione a sua volta presuppone l’amore. Il motivo di ciò è che la predestinazione, come detto sopra (A[1]), fa parte della provvidenza. Ora, la provvidenza, così come la prudenza, è un piano esistente nell’intelletto che dirige l’ordinamento delle cose verso uno scopo; come dimostrato sopra (Q[22], A[2]). Ma nulla viene diretto verso uno scopo se non esiste già la volontà di raggiungerlo. Pertanto, la predestinazione di alcuni alla salvezza eterna presuppone, secondo il disegno della ragione, che Dio voglia la loro salvezza; e a ciò appartengono sia l’elettione che l’amore: l’amore, in quanto Egli desidera per loro questo bene specifico della salvezza eterna; poiché amare significa volere il bene di qualcuno, come detto sopra (Q[20], AA[2],3); l’elettione, in quanto Egli desidera questo bene per alcuni piuttosto che per altri; poiché Egli respinge alcuni, come detto sopra (A[3]). Tuttavia, l’elettione e l’amore sono disposti in modo diverso in Dio e in noi: perché in noi la volontà di amare non genera il bene, ma siamo spinti ad amare dal bene che già esiste; perciò scegliamo qualcuno da amare, e quindi nell’uomo l’elettione precede l’amore. In Dio, invece, è il contrario: poiché la Sua volontà, con cui desidera il bene di qualcuno, è la causa di quel bene che alcuni possiedono piuttosto che altri. È quindi evidente che nell’ordine della ragione l’amore precede l’elettione, e l’elettione precede la predestinazione. Da ciò deriva che tutti coloro che sono predestinati siano oggetto sia di elezione che d’amore.
+
+Risposta all’Obiezione 1: Se consideriamo la comunicazione della bontà divina in generale, Dio comunica la Sua bontà senza alcuna selezione; poiché non esiste nulla che, in qualche modo, non partecipi alla Sua bontà, come abbiamo detto sopra (Q[6], A[4]). Tuttavia, se consideriamo la comunicazione di una determinata forma di bontà, allora Dio la concede senza selezione; infatti, dona alcune benedizioni ad alcuni uomini e non ad altri. Pertanto, nella concessione della grazia e della gloria è implicita un’opera di selezione da parte di Dio.
+
+Risposta all’Obiezione 2: Quando la volontà di colui che sceglie viene stimolata a compiere una scelta dal bene già esistente nell’oggetto scelto, la scelta deve necessariamente riguardare cose che già esistono, come avviene nel nostro caso. In Dio, invece, le cose stanno diversamente; come è stato detto sopra (Q[20], A[2]). Pertanto, come afferma [Agostino](/figures/augustine) (De Verb. Ap. Serm. 11): “Sono scelti da Dio coloro che non esistono ancora; tuttavia, Egli non commette errori nella Sua scelta”.
+
+Risposta all’Obiezione 3: Dio vuole che tutti gli uomini siano salvati attraverso la Sua volontà precedente, che è una volontà relativa e non semplice; e non attraverso la Sua volontà conseguente, che è una volontà semplice.
+
+<span class="atom-split" data-atom="160" data-title="Whether the foreknowledge of merits is the cause of predestination? (parte 1)" data-chapter="Whether the foreknowledge of merits is the cause of predestination?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that foreknowledge of merits is the cause of [predestination](/concepts/predestination). For the
 Apostle says (Rom. 8:29): "Whom He foreknew, He also predestined." Again a gloss of Ambrose
@@ -8086,7 +10351,24 @@ Reply to Objection 2: Predestination has its foundation in the goodness of God a
 effects in general. Considered in its particular effects, however, one effect is the reason of another;
 as already stated.
 
-<span class="atom-split" data-atom="161" data-title="Whether the foreknowledge of merits is the cause of predestination? (2/2)" data-chapter="Whether the foreknowledge of merits is the cause of predestination?" data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la previsione dei meriti sia la causa della [predestinazione](/concepts/predestination). Infatti l’Apostolo dice (Romani 8:29): “Chi egli ha conosciuto in anticipo, lo ha anche predestinato”. Inoltre, un commento di Ambrogio su Romani 9:15 afferma: “Avrò misericordia di chi vorrò avere misericordia” significa: “Avrò misericordia di colui che, come prevedo, si volgerà a Me con tutto il cuore”. Pertanto, sembra che la previsione dei meriti sia effettivamente la causa della predestinazione.
+
+Obiezione 2: Inoltre, la predestinazione divina include la volontà divina, la quale in nessun modo può essere irrazionale; poiché la predestinazione è “lo scopo di mostrare misericordia”, come afferma [Agostino](/figures/augustine) (De Praed. Sanct. ii, 17). Ma non può esistere alcuna altra ragione per la predestinazione se non la previsione dei meriti umani. Pertanto, tale previsione deve essere la vera causa della predestinazione.
+
+Obiezione 3: Inoltre, “Non c’è ingiustizia in Dio” (Romani 9:14). Sembrirebbe quindi ingiusto che cose disuguali vengano date a persone uguali. Tuttavia, tutti gli uomini sono uguali sia per natura che per il peccato originale; l’ineguaglianza tra di loro deriva dai meriti o dai demeriti delle loro azioni. Pertanto, Dio non prepara cose disuguali per gli uomini attraverso la predestinazione o la condanna, se non sulla base della previsione dei loro meriti e demeriti.
+
+Al contrario, l’Apostolo afferma (Tito 3:5): “Non per le opere di giustizia che abbiamo compiuto, ma per la Sua misericordia ci ha salvati.” Poiché ci ha salvati, ha anche predestinato che fossimo salvati. Pertanto, la previsione dei meriti non è la causa o il motivo della predestinazione.
+
+Rispondo che, poiché la predestinazione include la volontà, come è stato detto sopra (A[4]), la ragione della predestinazione deve essere cercata nello stesso modo in cui si cerca la ragione della volontà di Dio. Come è stato dimostrato in precedenza (Q[19], A[5]), non possiamo attribuire alcuna causa alla volontà divina riguardo all’atto stesso di volere; ma una ragione può essere trovata nelle cose desiderate, poiché Dio vuole qualcosa per un motivo specifico. Pertanto, nessuno è mai stato così pazzo da affermare che il merito sia la causa della predestinazione divina riguardo all’atto del predestinatore stesso. La domanda quindi è: riguardo al risultato, la predestinazione ha una qualche causa? O, in altre parole, Dio ha preordinato di concedere tale risultato a qualcuno in base a determinati meriti? Alcuni sostenevano che il risultato della predestinazione fosse già preordinato per alcune persone in base a meriti preesistenti in una vita precedente. Questa era l’opinione di Origene, il quale riteneva che le anime umane fossero create fin dall’inizio e che, a seconda delle loro azioni, venissero assegnati diversi destini in questo mondo. Tuttavia, l’Apostolo confutava questa idea dicendo (Romani 9:11-12): “Poiché essi non erano ancora nati, né avevano compiuto alcun bene o male. Non per le loro opere, ma per Colui che chiama, fu detto di lei: ‘Il maggiore servirà il minore’.” Altri sostenevano che i meriti preesistenti in questa vita fossero la ragione del risultato della predestinazione. I Pelagiani, ad esempio, affermavano che l’inizio delle buone azioni provenisse dall’uomo stesso, mentre la loro realizzazione dipendesse da Dio; quindi il risultato della predestinazione veniva concesso a qualcuno e non a un altro perché uno aveva iniziato ad agire bene, mentre l’altro no. Ma contro questa tesi abbiamo le parole dell’Apostolo (2 Corinzi 3:5): “Non siamo sufficienti nemmeno a pensare di noi stessi qualcosa che sia proprio nostro”. Ora, non si può immaginare alcun principio d’azione precedente all’atto stesso di pensare; pertanto non si può dire che ciò che inizia in noi possa essere la ragione del risultato della predestinazione. Altri ancora sostenevano che i meriti che seguono al risultato della predestinazione fossero la vera ragione di essa, intendendo così dire che Dio dona la grazia a una persona e preordina di darla proprio perché sa in anticipo che quella persona ne farà buon uso, come se un re desse un cavallo a un soldato sapendo che ne avrà bisogno. Tuttavia, sembra che questi autori facciano una distinzione tra ciò che deriva dalla grazia e ciò che deriva dalla [libera volontà](/positions/free_will), come se la stessa cosa non potesse provenire da entrambi. In realtà, è evidente che ciò che proviene dalla grazia è proprio il risultato della predestinazione; ma questo non può essere considerato la ragione stessa della predestinazione, poiché essa è già inclusa nel concetto stesso di predestinazione. Pertanto, se qualcos’altro in noi fosse la ragione della predestinazione, ciò significherebbe che tale ragione esistesse al di fuori del risultato stesso della predestinazione. Ora, non esiste alcuna distinzione tra ciò che.
+L’effetto della predestinazione deriva sia dalla libera volontà che dalla provvidenza divina; non esiste infatti distinzione tra ciò che proviene da una causa secondaria e ciò che deriva da una causa prima. Poiché la provvidenza di Dio produce i suoi effetti attraverso l’azione delle cause secondarie, come è stato dimostrato in precedenza (Q[22], A[3]), anche ciò che deriva dalla libera volontà rientra nell’ambito della predestinazione. Pertanto, possiamo considerare l’effetto della predestinazione sotto due prospettive: da un lato, in modo specifico; dall’altro, in termini generali. Non esiste motivo per cui un effetto della predestinazione non possa essere la causa di un altro: un effetto successivo può essere considerato la causa di uno precedente, in quanto sua “causa finale”; allo stesso modo, l’effetto precedente può essere considerato la causa dell’effetto successivo, in quanto sua “causa meritoria”, che si riduce alla disposizione naturale dell’individuo. Potremmo quindi dire che Dio ha predestinato di concedere gloria in base ai meriti delle persone, e che ha anche predestinato di concedere grazia affinché questi meriti potessero portare a gloria. Dall’altro lato, l’effetto della predestinazione può essere considerato in termini generali: è impossibile che l’intero effetto della predestinazione abbia una causa che derivi da noi; infatti, tutto ciò che nell’uomo lo dispone verso la salvezza rientra nell’ambito dell’effetto della predestinazione, compresa anche la preparazione necessaria per ricevere la grazia. Poiché tutto ciò avviene soltanto con l’aiuto divino, come afferma il profeta Geremia (Lam. 5:21): “Riconduceteci a Te, o Signore, e ci convertiremo”. In questo senso, la bontà di Dio costituisce la ragione fondamentale dell’effetto della predestinazione; verso di essa è diretto l’intero effetto della predestinazione come verso un fine ultimo, e da essa deriva come dal suo principio motore primario.
+
+Risposta all’Obiezione 1: L’uso della grazia prevista da Dio non è la causa che conferisce la grazia stessa, se non nel senso di una causa finale; come è stato spiegato in precedenza.
+
+Risposta all’Obiezione 2: La predestinazione trova la sua fondazione nella bontà di Dio, considerata nei suoi effetti in generale. Tuttavia, se si analizzano i suoi effetti particolari, si scopre che un effetto è spesso la causa di un altro, come già accennato in precedenza.
+
+<span class="atom-split" data-atom="161" data-title="Whether the foreknowledge of merits is the cause of predestination? (parte 2)" data-chapter="Whether the foreknowledge of merits is the cause of predestination?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: The reason for the [predestination](/concepts/predestination) of some, and reprobation of others,
 must be sought for in the goodness of God. Thus He is said to have made all things through His
@@ -8120,6 +10402,11 @@ a debt, and not gratuitously. In things which are given gratuitously, a person c
 just as he pleases (provided he deprives nobody of his due), without any infringement of justice.
 This is what the master of the house said: "Take what is thine, and go thy way. Is it not lawful for
 me to do what I will?" (Mat. 20:14,15).
+
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 3: La ragione della [predestinazione](/concepts/predestination) di alcuni e della loro condanna da parte di Dio deve essere cercata nella sua bontà. Si dice infatti che Egli abbia creato tutte le cose per la sua bontà, affinché questa divina bontà potesse manifestarsi nelle cose stesse. Ora, poiché la bontà di Dio è in sé una e indivisa, è necessario che essa si manifesti in molti modi nella sua creazione; le creature, infatti, da sole non possono raggiungere la semplicità divina. Per completare l’universo, sono quindi necessari diversi gradi di essere: alcuni occupano un posto elevato, altri inferiore nell’universo stesso. Affinché questa varietà di gradi possa essere conservata nelle cose, Dio permette l’esistenza di alcuni mali, affinché molte cose buone possano comunque realizzarsi, come già detto sopra (Q[22], A[2]). Consideriamo dunque l’intera umanità, proprio come consideriamo l’intero universo: Dio vuole manifestare la sua bontà negli uomini; nei confronti di coloro che predestina, attraverso la sua misericordia, risparmiandoli; nei confronti degli altri, invece, attraverso la sua giustizia, punendoli. Questa è la ragione per cui Dio sceglie alcuni e rifiuta altri. A questo si riferisce l’Apostolo quando dice (Romani 9:22-23): “E se Dio, volendo manifestare la sua ira e far conoscere il suo potere, ha tollerato con grande pazienza quei che erano destinati alla distruzione, affinché potesse mostrare la ricchezza della sua gloria in coloro che sono destinati alla salvezza”; e (2 Timoteo 2:20): “In una casa grande ci sono infatti vasi d’oro e d’argento, ma anche di legno e di terra; alcuni servono all’onore, altri al disonore”. Tuttavia, il motivo per cui Dio sceglie alcuni per la gloria e altri per la condanna non ha alcuna spiegazione se non la sua volontà divina. Per questo motivo l’[Agostino](/figures/augustine) dice (Trattato xxvi in Giovanni): “Perché Egli attira alcuni e altri no, non cercare di giudicare, se non vuoi errare”. Allo stesso modo, nelle cose della natura si può trovare una ragione: poiché la materia primordiale è completamente uniforme, perché Dio ha plasmato una parte di essa sotto forma di fuoco, un’altra sotto forma di terra, affinché ci fosse diversità tra le specie naturali. Tuttavia, il motivo per cui questa particolare parte della materia assume questa o quell’altra forma dipende dalla semplice volontà di Dio; così come dal semplice volere dell’artigiano dipende il fatto che questa pietra sia utilizzata in un certo punto del muro e un’altra in un altro. Non si può quindi affermare che ci sia ingiustizia da parte di Dio, se Egli assegna sorti disuguali a cose che non lo sono. Ciò sarebbe completamente contrario al concetto stesso di giustizia, se l’effetto della predestinazione fosse considerato un debito e non un dono gratuito. Nelle cose che vengono date gratuitamente, una persona può dare di più o di meno, a piacimento suo (a condizione di non privare nessuno del suo diritto), senza alcuna violazione della giustizia.
+Ecco ciò che disse il padrone di casa: “Prendi ciò che è tuo e vattene per la tua strada. Non è forse legittimo che io faccia ciò che voglio?” (Matteo 20:14,15).
 
 <span class="atom-split" data-atom="162" data-title="Whether predestination is certain?" data-chapter="Whether predestination is certain?" data-kind="atom" data-srclang="en"></span>
 
@@ -8172,6 +10459,25 @@ of the immutability of the divine will, but is not necessary absolutely; so the 
 predestination. Wherefore one ought not to say that God is able not to predestinate one whom He
 has predestinated, taking it in a composite sense, thought, absolutely speaking, God can predestinate
 or not. But in this way the certainty of predestination is not destroyed.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la [predeterminazione](/concepts/predestination) non sia certa. Poiché, riguardo alle parole “Tenete salda ciò che avete, affinché nessuno vi tolga la corona” (Apocalisse 3:11), [Agostino](/figures/augustine) afferma nel De Corr. et Grat. 15: “Un altro non la riceverebbe, se quest’ultimo non la perdesse”. Pertanto, la corona, che è l’esito della predeterminazione, può essere sia acquisita che persa. Ne consegue che la predeterminazione non possa essere considerata certa.
+
+Obiezione 2: Inoltre, anche ammettendo ciò che è possibile, nulla di impossibile ne consegue. Tuttavia, è possibile che una persona predeterminata – ad esempio Pietro – commetta peccati e venga poi uccisa. Ma se ciò fosse vero, ne conseguirebbe che l’effetto della predestinazione venisse vanificato. Pertanto, questo non è impossibile; quindi la predestinazione non è certa.
+
+Obiezione 3: Inoltre, tutto ciò che Dio poteva fare in passato, può farlo anche ora. Tuttavia, non avrebbe potuto predestinare coloro che ha già predestinato; pertanto, oggi non è più in grado di farlo. Quindi la predestinazione non è certa.
+
+Al contrario, un commento a Romani 8:29 (“Chi Egli ha conosciuto in anticipo, lo ha anche predestinato”) afferma:  
+“La predestinazione è la conoscenza anticipata e la preparazione dei doni di Dio; grazie ad essa, coloro che vengono liberati saranno certamente liberati.”
+
+Rispondo che la predestinazione agisce certamente e infallibilmente; tuttavia non impone alcuna necessità, così che il suo effetto si verifichi per necessità stessa. Come è stato detto in precedenza (A[1]), la predestinazione fa parte della provvidenza divina. Ma non tutte le cose soggette alla provvidenza sono necessarie; alcune avvengono per caso, in base alla natura delle cause immediate che la provvidenza ha stabilito per produrre tali effetti. Tuttavia, l’ordine della provvidenza è infallibile, come dimostrato in precedenza (Q[22], A[4]); allo stesso modo, anche l’ordine della predestinazione è certo. Tuttavia, la libertà umana non viene distrutta; da ciò deriva che l’effetto della predestinazione presenta un elemento di casualità. Inoltre, tutto ciò che è stato detto riguardo alla conoscenza e alla volontà divine (Q[14], A[13]; Q[19], A[4]) deve essere preso in considerazione anch’esso; poiché tali concetti non distruggono l’elemento di casualità nelle cose, sebbene essi stessi siano certi e infallibili.
+
+Risposta all’Obiezione 1: Si può dire che la corona appartenga a una persona in due modi: innanzitutto, per predestinazione divina; in questo caso, nessuno perde la propria corona. In secondo luogo, per merito della grazia; ciò che meritiamo, in un certo senso, diventa nostro; pertanto, chi commette peccati mortali può perdere la propria corona. Un’altra persona riceve quella corona persa, poiché prende il posto di colui che l’ha perduta. Dio, infatti, non permette che alcuni cadano senza far sì che altri si elevino; come dice Giobbe 34:24: “Distruggerà molti e innumerevoli, e ne farà sorgere altri al loro posto”. Così gli uomini sostituiscono gli angeli caduti, e i Gentili sostituiscono gli Ebrei. Chi viene messo al posto di un altro nello [stato](/concepts/state) di grazia riceve anche la corona di colui che è caduto; nell’eterna vita, infatti, gioirà dei beni compiuti da quell’altro, sia che tali beni siano stati fatti da lui stesso o da altri.
+
+Risposta all’Obiezione 2: Sebbene sia possibile che una persona predestinata muoia in peccato mortale; tuttavia non è possibile, né si può supporre, come effettivamente si fa, che essa sia davvero predestinata. Da ciò non consegue che la predestinazione possa fallire nel realizzare il proprio scopo.
+
+Risposta all’Obiezione 3: Poiché la predestinazione include la volontà divina, come sopra detto (A[4]); e poiché il fatto che Dio voglia qualsiasi cosa creata è necessario sulla base della supposizione che Egli lo voglia effettivamente, a causa dell’immutabilità della sua volontà, ma non è necessario in modo assoluto; lo stesso deve valere anche per la predestinazione. Pertanto, non si dovrebbe dire che Dio possa non predestinare qualcuno che ha già predestinato, se si intende questo concetto in senso composto; in termini assoluti, infatti, Dio può predestinare o meno. Tuttavia, in questo modo la certezza della predestinazione non viene affatto messa in dubbio.
 
 <span class="atom-split" data-atom="163" data-title="Whether the number of the predestined is certain?" data-chapter="Whether the number of the predestined is certain?" data-kind="atom" data-srclang="en"></span>
 
@@ -8316,12 +10622,37 @@ Reply to Objection 3: Secondary causes cannot escape the order of the first univ
 as has been said above (Q[19], A[6]), indeed, they execute that order. And therefore predestination
 can be furthered by creatures, but it cannot be impeded by them.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la [predestinazione](/concepts/predestination) non possa essere favorita dalle preghiere dei santi. Infatti, nulla di eterno può essere preceduto da qualcosa di temporale; pertanto, nulla di temporale può contribuire a rendere qualcos’altro eterno. Ma la predestinazione è eterna. Quindi, poiché le preghiere dei santi sono temporali, esse non possono in alcun modo favorire il processo di predestinazione delle persone. Pertanto, la predestinazione non viene affatto favorita dalle preghiere dei santi.
+
+Obiezione 2: Inoltre, poiché non c’è bisogno di consigli se non a causa di una conoscenza imperfetta, allo stesso modo non c’è bisogno di aiuto se non attraverso una forza insufficiente. Ma nessuna di queste cose si può applicare a Dio quando Egli predestina. Da ciò deriva la frase: “Chi ha potuto assistere lo Spirito del Signore? O chi ne conosce i disegni? O chi è stato il suo consigliere?” (Romani 11:34). Pertanto, la predestinazione non può essere favorita dalle preghiere dei santi.
+
+Obiezione 3: Inoltre, se qualcosa può essere aiutato, può anche essere ostacolato. Ma la predestinazione non può essere ostacolata da nulla; pertanto, nemmeno può essere favorita da nulla.
+
+Al contrario, si dice che “Isacco pregò il Signore per sua moglie, poiché era sterile; ed Egli lo ascoltò e fece sì che Rebecca concepisse” (Genesi 25:21). Ma da quella concezione nacque Giacobbe, che era predestinato. Ora, la sua predestinazione non sarebbe mai avvenuta se non fosse mai nato. Pertanto, la predestinazione può essere favorita anche dalle preghiere dei santi.
+
+Rispondo che, riguardo a questa questione, sono stati commessi diversi errori. Alcuni, riguardo alla certezza della predestinazione divina, sostenevano che le preghiere fossero superflue, così come qualsiasi altra azione compiuta al fine di ottenere la salvezza; poiché, indipendentemente dal fatto che tali azioni venissero compiute o meno, coloro che erano predestinati avrebbero comunque raggiunto la salvezza eterna, mentre coloro che erano condannati non l’avrebbero ottenuta. Ma contro questa opinione si ergono tutte le esortazioni della Sacra [Scrittura](/concepts/revelation), che ci incoraggiano a pregare e ad compiere altre opere buone. Altri sostenevano invece che la predestinazione divina potesse essere modificata attraverso le preghiere; questa era l’opinione degli Egizi, i quali ritenevano che l’ordine divino, che chiamavano “fato”, potesse essere alterato da determinati sacrifici e preghiere. Anche contro questa tesi si ergono le autorità della Scrittura: si dice infatti: “Ma il vincitore in Israele non avrà pietà né si convertirà” (1 Re 15:29); e che “i doni e la chiamata di Dio sono irrevocabili” (Romani 11:29). Pertanto, dobbiamo affermare che nella predestinazione bisogna considerare due aspetti: l’ordine divino stesso e i suoi effetti concreti. Per quanto riguarda il primo, in nessun modo le preghiere dei santi possono influenzare positivamente la predestinazione; poiché nessuno viene predestinato da Dio a causa delle loro preghiere. Per quanto riguarda il secondo aspetto, si può dire che la predestinazione venga favorita dalle preghiere dei santi e da altre opere buone; poiché la provvidenza, di cui la predestinazione fa parte, non elimina le cause secondarie, ma organizza gli eventi in modo tale che anche queste cause rientrino nell’ambito della sua volontà. Così come gli effetti naturali sono determinati da Dio in modo che le cause naturali contribuiscano al loro verificarsi, senza di esse tali effetti non avrebbero luogo; allo stesso modo, la salvezza di una persona è predestinata da Dio in modo tale che tutto ciò che aiuta quella persona a raggiungerla rientri nell’ambito della sua volontà: siano le proprie preghiere o quelle altrui, o altre opere buone. Pertanto, coloro che sono predestinati devono impegnarsi in opere buone e nella preghiera; poiché attraverso questi mezzi la predestinazione viene realizzata con maggiore certezza. Per questo motivo si dice: “Sforzatevi di rendere più efficace la vostra chiamata e la vostra elezione mediante opere buone” (2 Pietro 1:10).
+
+Risposta all’Obiezione 1: Questo argomento dimostra che le preghiere dei santi non contribuiscono in alcun modo alla realizzazione della predestinazione, per quanto riguarda la sua determinazione preliminare.
+
+Risposta all’Obiezione 2: Si dice che una persona sia aiutata da un’altra in due modi: in primo luogo, quando riceve da essa la forza necessaria per agire; in questo caso, l’aiuto è rivolto alle persone deboli. Tuttavia, ciò non si può dire di Dio. Per questo dobbiamo intendere il versetto “Chi ha aiutato lo Spirito del Signore?”. In secondo luogo, si dice che una persona sia aiutata da un’altra quando quest’ultima le permette di compiere la propria opera, come un maestro attraverso un servo. In questo senso, Dio è “aiutato” da noi: poiché eseguiamo i Suoi ordini, secondo quanto si legge in 1 Corinzi 3:9: “Noi siamo coadiutori di Dio”. Questo non deriva da alcuna debolezza nel potere di Dio, ma dal fatto che Egli utilizza cause intermedie al fine di preservare l’“armonia” dell’universo e di concedere alle creature la dignità della causalità.
+
+Risposta all’Obiezione 3: Le cause secondarie non possono sfuggire all’ordine della prima causa universale, come è stato detto in precedenza (Q[19], A[6]); anzi, esse stesso attuano tale ordine. Pertanto, la predestinazione può essere favorita dalle creature, ma non può essere ostacolata da esse.
+
 <span class="atom-split" data-atom="165" data-title="THE BOOK OF LIFE (THREE ARTICLES)" data-chapter="THE BOOK OF LIFE (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now consider the book of life; concerning which there are three points of inquiry:
 (1) What is the book of life?
 (2) Of what life is it the book?
 (3) Whether anyone can be blotted out of the book of life?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora esaminiamo il “libro della vita”; su di esso vi sono tre questioni da indagare:  
+(1) Che cos’è il “libro della vita”?  
+(2) Di quale vita si tratta in questo caso?  
+(3) È possibile che qualcuno venga cancellato dal “libro della vita”?
 
 <span class="atom-split" data-atom="166" data-title="Whether the book of life is the same as predestination?" data-chapter="Whether the book of life is the same as predestination?" data-kind="atom" data-srclang="en"></span>
 
@@ -8373,6 +10704,25 @@ Reply to Objection 4: Predestination and the book of life are different aspects 
 thing. For this latter implies the knowledge of predestination; as also is made clear from the gloss
 quoted above.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il “libro della vita” non sia la stessa cosa che la “predestinazione”. Infatti si dice: “Tutte le cose sono il libro della vita” (Ecclesiaste 4:32); cioè l’Antico e il Nuovo Testamento, secondo un commento. Tuttavia, ciò non costituisce la [predestinazione](/concepts/predestination). Pertanto, il “libro della vita” non è la predestinazione.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (De Civ. Dei xx, 14) che “il libro della vita è una certa energia divina, grazie alla quale a ciascuno vengono ricordate le proprie azioni buone o cattive”. Tuttavia, l’energia divina sembra appartenere piuttosto al potere divino che alla predestinazione. Pertanto, il libro della vita non è la stessa cosa della predestinazione.
+
+Obiezione 3: Inoltre, la riprovazione è in contraddizione con la predestinazione. Pertanto, se il “libro della vita” fosse lo stesso che la predestinazione, dovrebbe esistere anche un “libro della morte”, proprio come c’è un “libro della vita”.
+
+Al contrario, si legge in un commento al Salmo 68:29: “Che siano cancellati dal libro dei viventi. Questo libro è la conoscenza di Dio, con la quale Egli ha predestinato alla vita coloro che conosceva in anticipo”.
+
+Rispondo che il “Libro della Vita”, nel senso metaforico del termine, si riferisce alle persone scelte da Dio per possedere la vita eterna. È infatti consuetudine umana che coloro che vengono designati per un certo incarico siano registrati in un “libro”; così, ad esempio, i soldati o i consiglieri venivano un tempo chiamati “padri reclutati”. È evidente, dunque, dalle considerazioni precedenti che tutti coloro che sono predestinati vengono scelti da Dio per la vita eterna. Questa selezione dei predestinati viene quindi definita il “Libro della Vita”. Si dice metaforicamente che qualcosa sia “scritto nella mente di una persona” quando tale informazione è saldamente ricordata; come afferma il Proverbo 3:3: “Non dimenticare la mia legge, e il tuo cuore custodisca i miei comandamenti”. Inoltre, si dice che tali insegnamenti siano “scritti nelle tavole del cuore”, poiché nei libri materiali le informazioni vengono trascritte per aiutare la memoria. Pertanto, la conoscenza di Dio, grazie alla quale Egli ricorda con certezza chi è stato predestinato alla vita eterna, viene chiamata il “Libro della Vita”. Proprio come le scritture in un libro rappresentano una promessa o un segno di ciò che deve accadere, la conoscenza di Dio costituisce, in Lui stesso, un segno di coloro che saranno portati alla vita eterna, secondo quanto affermato in 2 Timoteo 11:19: “La salda fondazione di Dio rimane ferma; il Signore conosce chi Gli appartiene”.
+
+Risposta all’Obiezione 1: Il “libro della vita” può essere inteso in due modi. In un senso, si riferisce all’elenco di coloro che sono stati scelti per la vita; è così che oggi parliamo del “libro della vita”. In un altro senso, l’elenco di quelle cose che ci portano alla vita può essere considerato il “libro della vita”; e anche in questo caso esistono due interpretazioni: o si tratta di cose da compiere (è per questo che l’Antico e il Nuovo Testamento vengono chiamati “libro della vita”), oppure di cose già compiute; in questo caso, quell’energia divina grazie alla quale a ciascuno verranno ricordate le proprie azioni viene definita “libro della vita”. Allo stesso modo, si può parlare di un “libro della guerra”: sia che contenga gli [nomi](/positions/nominalism) di coloro scelti per il servizio militare, sia che tratti dell’arte della guerra o racconti le imprese dei soldati.  
+Ecco quindi la soluzione alla Seconda Obiezione.
+
+Risposta all’Obiezione 3: È la [CONSUETUDINE](/concepts/custom) a stabilire che vengano iscritti coloro che sono scelti, e non coloro che vengono rifiutati. Pertanto, non esiste un “libro della morte” che corrisponda alla riprovazione; così come non esiste un “libro della vita” che corrisponda alla predestinazione.
+
+Risposta all’Obiezione 4: La predestinazione e il “libro della vita” rappresentano aspetti diversi della stessa realtà. Il “libro della vita”, infatti, implica la conoscenza della predestinazione; come è chiarito anche dalla glossa citata sopra.
+
 <span class="atom-split" data-atom="167" data-title="Whether the book of life regards only the life of glory of the predestined?" data-chapter="Whether the book of life regards only the life of glory of the predestined?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the book of life does not only regard the life of glory of the
@@ -8414,6 +10764,22 @@ grace is directed to glory. For this reason those who, possessing grace, fail to
 said to be chosen simply, but relatively. Likewise they are not said to be written in the book of life
 simply, but relatively; that is to say, that it is in the ordination and knowledge of God that they are
 to have some relation to eternal life, according to their participation in grace.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il “libro della vita” riguardi non solo la vita di gloria dei predestinati. Infatti, il “libro della vita” rappresenta la conoscenza stessa della vita. Ma Dio, attraverso la propria vita, conosce tutte le altre forme di vita. Pertanto, il “libro della vita” è così chiamato in riferimento alla vita divina, e non soltanto a quella dei predestinati.
+
+Obiezione 2: Inoltre, poiché la vita di gloria proviene da Dio, allo stesso modo proviene anche la vita naturale. Pertanto, se la conoscenza della vita di gloria viene chiamata “il libro della vita”, allo stesso modo dovrebbe essere chiamata anche la conoscenza della vita naturale.
+
+Obiezione 3: Inoltre, alcuni vengono scelti per la vita di grazia, ma non anche per la vita di gloria; come è chiaro da quanto detto: “Non vi ho forse scelti dodici? E uno di voi è un demone?” (Giov. 6:71). Ma il libro della vita rappresenta l’iscrizione dell’eletto divino, come già accennato in precedenza (A[1]). Pertanto, tale concetto si applica anche alla vita di grazia.
+
+Al contrario, il “Libro della vita” rappresenta la conoscenza della [predestinazione](/concepts/predestination), come già detto sopra (A[1]). Tuttavia, la predestinazione non riguarda la vita di grazia, se non nella misura in cui essa è orientata verso la gloria; infatti, coloro che possiedono la grazia ma non riescono ad ottenere la gloria non sono considerati predestinati. Il “Libro della vita” viene così chiamato esclusivamente in relazione alla vita di gloria.
+
+Rispondo che il “Libro della vita”, come detto sopra (A[1]), implica una selezione o una conoscenza di coloro che sono scelti per la vita eterna. Ora, un uomo viene scelto per qualcosa che non gli appartiene per natura; inoltre, ciò per cui un uomo viene scelto presenta l’aspetto di uno scopo finale. Un soldato, infatti, non viene scelto o arruolato semplicemente per indossare l’armatura, ma per combattere: questo è infatti il vero compito a cui mira il servizio militare. La vita di gloria, invece, rappresenta uno scopo che trascende la [natura umana](/axes/human_nature), come detto sopra (Q[23], A[1]). Pertanto, in senso stretto, il “Libro della vita” si riferisce proprio alla vita di gloria.
+
+Risposta all’Obiezione 1: La vita divina, anche considerata come una vita di gloria, è naturale per Dio; pertanto, da questo punto di vista, non esiste alcuna elezione, e di conseguenza nemmeno un “libro della vita”: infatti, non si può affermare che qualcuno venga scelto per possedere il potere dei sensi o qualsiasi altra cosa derivante dalla natura stessa. Da ciò deriva anche la risposta alla Seconda Obiezione: poiché, riguardo alla vita naturale, non esistono né elezioni né un “libro della vita”.
+
+Risposta all’Obiezione 3: La vita di grazia presenta non l’aspetto di un fine, ma di qualcosa che è diretto verso un fine. Pertanto, nessuno viene detto essere stato scelto per la vita di grazia, se non nella misura in cui tale vita sia orientata verso la gloria. Per questo motivo, coloro che possiedono la grazia ma non riescono ad ottenere la gloria non vengono considerati semplicemente “scelti”, bensì in modo relativo. Allo stesso modo, non si dice che siano “iscritti nel libro della vita” in senso assoluto, ma in modo relativo; cioè, è nell’ordinamento e nella conoscenza di Dio che essi hanno una qualche relazione con la vita eterna, in base alla loro partecipazione alla grazia.
 
 <span class="atom-split" data-atom="168" data-title="Whether anyone may be blotted out of the book of life?" data-chapter="Whether anyone may be blotted out of the book of life?" data-kind="atom" data-srclang="en"></span>
 
@@ -8468,6 +10834,24 @@ in which one is said to be written therein anew; either in the opinion of men, o
 again to have relation towards eternal life through grace; which also is included in the knowledge
 of God, although not anew.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nessuno possa essere cancellato dal libro della vita. Infatti, [Agostino](/figures/augustine) afferma nel “De Civitate Dei” XX, 15: “La prescienza di Dio, che non può essere ingannata, è il libro della vita”. Ma nulla può essere tolto dalla prescienza di Dio, né dalla [predestinazione](/concepts/predestination). Pertanto, nessuno può essere cancellato dal libro della vita.
+
+Obiezione 2: Inoltre, tutto ciò che è contenuto in una cosa esiste al suo interno secondo la struttura e l’organizzazione di quella stessa cosa. Ma il libro della vita è qualcosa di eterno e immutabile; pertanto, tutto ciò che vi è scritto esiste non in modo temporaneo, ma in modo stabile e indelebile.
+
+Obiezione 3: Inoltre, cancellare qualcosa è l’opposto di scriverlo. Ma nessuno può essere “scritto” una seconda volta nel libro della vita; pertanto, nemmeno può essere cancellato.
+
+Al contrario, si dice: “Che siano cancellati dal libro dei viventi” (Salmo 68:29).
+
+Rispondo che alcuni hanno affermato che nulla possa essere effettivamente cancellato dal “libro della vita”, ma soltanto nell’opinione degli uomini. Infatti, nelle Scritture è consueto dire che qualcosa viene considerato realizzato quando diventa noto. Pertanto, si dice che alcune persone siano “scritte nel libro della vita” perché gli uomini ritengono che lo siano, in base alla rettitudine che vedono in loro; ma quando diventa evidente, in questo mondo o nell’altro, che hanno perso quella condizione di rettitudine, allora si dice che vengano cancellate dal libro della vita. Un commento spiega così il passaggio: “Che siano cancellati dal libro dei viventi”. Tuttavia, poiché non essere cancellati dal libro della vita è considerato uno dei premi riservati ai giusti – come si legge in “Colui che vincerà sarà vestito di abiti bianchi e il mio nome non verrà cancellato dal libro della vita” (Apocalisse 3:5) – si può affermare che essere o meno cancellati dal libro della vita riguardi non solo l’opinione umana, ma anche la realtà dei fatti. Il “libro della vita” infatti contiene i nomi di coloro che sono destinati alla vita eterna; questa destinazione deriva da due fonti: la predestinazione, che è una guida infallibile, e la grazia divina; chi riceve la grazia diventa effettivamente idoneo alla vita eterna. Tuttavia, a volte questa guida fallisce: alcune persone, pur essendo destinate alla vita eterna attraverso la grazia, non riescono ad ottenerla a causa di peccati mortali. Pertanto, coloro che sono destinati alla vita eterna per predestinazione divina sono effettivamente “scritti” nel libro della vita, perché in realtà sono destinati a vivere per sempre; tali persone non vengono mai cancellate dal libro della vita. Al contrario, coloro che sono destinati alla vita eterna attraverso la grazia divina sono “scritti” nel libro della vita in modo relativo, cioè non perché siano effettivamente destinati alla vita eterna, ma perché lo sono in virtù di una causa specifica. Anche se queste ultime persone possono essere considerate “cancellate” dal libro della vita, tale cancellazione non riguarda Dio stesso, ma la realtà concreta dei fatti; Dio infatti sa che alcune persone sono destinate alla vita eterna, ma poi perdono questa destinazione a causa del peccato.
+
+Risposta all’Obiezione 1: L’atto di “ cancellare” non si riferisce al “libro della vita” nel senso della prescienza divina, come se in Dio ci fosse qualche cambiamento; ma riguarda le cose che sono conosciute in anticipo e che possono cambiare.
+
+Risposta all’Obiezione 2: Sebbene le cose siano immutabili in Dio, esse stesse sono soggette al cambiamento. È a questo che si riferisce l’“ cancellazione” del libro della vita.
+
+Risposta all’Obiezione 3: Il modo in cui si dice che qualcuno venga cancellato dal “libro della vita” è proprio quello in cui si dice che venga nuovamente scritto in esso; sia secondo l’opinione degli uomini, sia perché quella persona inizia di nuovo a avere un rapporto con la vita eterna grazie alla grazia divina; e anche questo fatto rientra nella conoscenza di Dio, sebbene non si tratti di una “nuova scrittura”.
+
 <span class="atom-split" data-atom="169" data-title="THE POWER OF GOD (SIX ARTICLES)" data-chapter="THE POWER OF GOD (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After considering the divine foreknowledge and will, and other things pertaining thereto, it
@@ -8478,6 +10862,16 @@ remains for us to consider the power of God. About this are six points of inquir
 (4) Whether He could make the past not to have been?
 (5) Whether He could do what He does not, or not do what He does?
 (6) Whether what He makes He could make better?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo aver considerato la prescienza e la volontà divine, nonché altre questioni ad esse relative, rimane da esaminare il potere di Dio. A questo proposito vi sono sei punti di indagine:  
+(1) Esiste davvero potere in Dio?  
+(2) È il suo potere infinito?  
+(3) È onnipotente?  
+(4) Potrebbe far sì che il passato non fosse mai esistito?  
+(5) Potrebbe fare ciò che non fa, o non fare ciò che fa?  
+(6) Ciò che crea potrebbe essere migliorato?
 
 <span class="atom-split" data-atom="170" data-title="Whether there is power in God?" data-chapter="Whether there is power in God?" data-kind="atom" data-srclang="en"></span>
 
@@ -8538,6 +10932,29 @@ it is the effective principle, has the notion of power contained in it. Hence th
 knowledge and will of God precedes the consideration of His power, as the cause precedes the
 operation and effect.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il potere non appartenga a Dio. Poiché la materia primaria è relativa al potere, così anche Dio, che è l’agente primo, è legato all’atto. Ma la materia primaria, considerata in sé stessa, è priva di ogni atto. Pertanto, l’agente primo – cioè Dio – è privo di potere.
+
+Obiezione 2: Inoltre, secondo il Filosofo (Metafisica VI, 19), ciò che è migliore di qualsiasi potenza è il suo atto. La forma, infatti, è superiore alla materia; l’azione, poi, è superiore alla potenza attiva, poiché rappresenta lo scopo stesso di questa potenza. Ma nulla è migliore di ciò che esiste in Dio; poiché tutto ciò che esiste in Dio è Dio stesso, come è stato dimostrato sopra (Q[3], A[3]). Pertanto, non esiste alcuna potenza in Dio.
+
+Obiezione 3: Inoltre, il potere è il principio dell’azione. Ma il potere divino è l’essenza stessa di Dio, poiché in Dio non esiste nulla di accidentale; e dell’essenza di Dio non può esserci alcun principio. Pertanto, in Dio non esiste alcun potere.
+
+Obiezione 4: Inoltre, è stato dimostrato in precedenza (Q[14], A[8]; Q[19], A[4]) che la conoscenza e la volontà di Dio sono la causa delle cose. Ma la causa e il principio di una cosa sono identici. Pertanto, non dovremmo attribuire a Dio alcun potere; ma soltanto conoscenza e volontà.
+
+Al contrario, si dice: “Tu sei potente, o Signore, e la tua verità ti circonda” (Salmo 88:9).
+
+Rispondo che il Potere è di due tipi: uno passivo, che in Dio assolutamente non esiste; e l’altro attivo, che dobbiamo attribuire a Lui nel grado più elevato. È infatti evidente che tutto ciò che esiste effettivamente e che è perfetto rappresenta il principio attivo di qualcos’altro; mentre tutto ciò che è imperfetto e incompleto è considerabile un principio passivo. Come già dimostrato in precedenza (Q[3], A[2]; Q[4], AA[1], 2), Dio è pura attività, perfetto in ogni senso, e in Lui non esiste alcuna imperfezione. Pertanto, è del tutto appropriato che Lui sia considerato un principio attivo, e in nessun modo passivo. D’altra parte, il concetto di principio attivo è coerente con quello di potere attivo: il potere attivo, infatti, è il principio che agisce su qualcos’altro; mentre il potere passivo è il principio che viene agito da qualcos’altro, come afferma il Filosofo (Metafisica, v, 17). Ne consegue quindi che in Dio esista un potere attivo nel grado più elevato.
+
+Risposta all’Obiezione 1: La potenza attiva non è contraria all’atto, ma si fonda su di esso; infatti, tutto agisce secondo la sua natura reale. La potenza passiva, invece, è contraria all’atto, poiché una cosa è passiva nella misura in cui è potenziale. Da ciò deriva che questa [potenzialità](/concepts/act_potency) non esiste in Dio, ma solo la potenza attiva.
+
+Risposta all’Obiezione 2: Ogni volta che l’azione è distinta dal potere, l’azione deve essere più nobile del potere stesso.  
+Ma l’azione di Dio non è distinta dal suo potere, poiché entrambi fanno parte della sua essenza divina; né la sua esistenza è distinta dalla sua essenza. Pertanto, non segue affatto che in Dio ci debba essere qualcosa di più nobile del suo potere.
+
+Risposta all’Obiezione 3: Nelle creature, il potere è il principio non solo dell’azione, ma anche dell’effetto. Pertanto, in Dio viene conservata l’idea di potere, nella misura in cui esso rappresenta il principio di un effetto; tuttavia, non nella misura in cui sia il principio di un’azione, poiché questa è proprio l’essenza divina stessa. Forse, però, secondo il nostro modo di comprendere, l’essenza divina, che contiene in sé tutta la perfezione esistente nelle cose create, può essere intesa sia sotto il concetto di azione che sotto quello di potere; essa può anche essere considerata come un “suppositum” dotato di natura, o semplicemente come natura. Pertanto, l’idea di potere viene conservata in Dio nella misura in cui esso è il principio di un effetto.
+
+Risposta all’Obiezione 4: Il concetto di potere viene attribuito a Dio non come qualcosa di effettivamente distinto dalla sua conoscenza e dalla sua volontà, ma come qualcosa che si differenzia da esse logicamente; poiché il potere implica l’idea di un principio che attua ciò che la volontà comanda e ciò che la conoscenza indica, e queste tre cose in Dio sono identiche. O possiamo dire che la conoscenza o la volontà di Dio, in quanto principi effettivi, contengono in sé il concetto di potere. Pertanto, l’analisi della conoscenza e della volontà di Dio precede l’analisi del suo potere, così come la causa precede l’azione e l’effetto.
+
 <span class="atom-split" data-atom="171" data-title="Whether the power of God is infinite?" data-chapter="Whether the power of God is infinite?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the power of God is not infinite. For everything that is infinite is
@@ -8594,6 +11011,24 @@ that if its power were infinite, it would move beyond comparison faster, and thi
 time. An incorporeal mover, however, is not a univocal agent; whence it is not necessary that the
 whole of its power should be manifested in motion, so as to move without time; and especially
 since it moves in accordance with the disposition of its will.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il potere di Dio non sia infinito. Infatti, secondo il Filosofo (Fisica, III, 6), tutto ciò che è infinito è imperfetto. Ma il potere di Dio è lontano dall’essere imperfetto; pertanto non può essere considerato infinito.
+
+Obiezione 2: Inoltre, ogni potere si manifesta attraverso i suoi effetti; altrimenti sarebbe inefficace. Pertanto, se il potere di Dio fosse infinito, potrebbe produrre un effetto anch’esso infinito, ma ciò è impossibile.
+
+Obiezione 3: Inoltre, il Filosofo dimostra (Phys. viii, 79) che se la potenza di qualsiasi cosa corporea fosse infinita, essa causerebbe movimenti istantanei. Dio, tuttavia, non provoca movimenti istantanei, ma muove le creature spirituali nel tempo e le creature corporee nello spazio e nel tempo, come afferma [Agostino](/figures/augustine) (Gen. ad lit. 20,22,23). Pertanto, la Sua potenza non è infinita.
+
+Al contrario, Hilary afferma (De Trinitate viiii) che “il potere di Dio è immenso; Lui è il Potente Vivente”. Ora, tutto ciò che è immenso è infinito; pertanto anche il potere di Dio è infinito.
+
+Rispondo che, come già detto sopra (A[1]), il potere attivo esiste in Dio nella misura in cui Egli è reale. Ora, la Sua esistenza è infinita, poiché non è limitata da nulla che la riceva, come risulta chiaramente da quanto discusso riguardo all’[infinità](/concepts/infinity) dell’essenza divina (Q[7], A[1]). Pertanto, è necessario che il potere attivo in Dio sia infinito. Infatti, in ogni agente si osserva che più perfettamente tale agente possiede la forma attraverso cui agisce, maggiore è il suo potere di agire. Ad esempio, più calda è una cosa, maggiore è la sua capacità di trasmettere calore; e avrebbe un potere infinito di trasmetterlo se il proprio calore fosse infinito. Poiché l’essenza divina, attraverso cui Dio agisce, è infinita, come dimostrato sopra (Q[7], A[1]), ne consegue che anche il Suo potere è infinito.
+
+Risposta all’Obiezione 1: Il filosofo qui parla di un’infinità relativa alla materia, non limitata da alcuna forma; e tale infinità appartiene alla quantità. Ma l’essenza divina è diversa, come è stato dimostrato in precedenza (Q[7], A[1]); e di conseguenza lo è anche il Suo potere. Pertanto, ciò non significa affatto che esso sia imperfetto.
+
+Risposta all’Obiezione 2: Il potere di un agente univoco si manifesta interamente nel suo effetto. Ad esempio, il potere generativo dell’uomo non è in grado di fare altro che generare altri esseri umani. Tuttavia, il potere di un agente non univoco non si manifesta interamente nella produzione del proprio effetto: come, ad esempio, il potere del sole non si manifesta interamente nella creazione di un animale derivante dalla decomposizione. È evidente che Dio non è un agente univoco, poiché nulla coincide con Lui né in specie né in genere, come è stato dimostrato sopra (Q[3], A[5]; Q[4], A[3]). Ne consegue che l’effetto prodotto da Dio sia sempre inferiore al suo potere. Pertanto, non è necessario che il potere infinito di Dio si manifesti in modo da produrre un effetto infinito; eppure, anche se non producesse alcun effetto, il potere di Dio non sarebbe inefficace, poiché qualcosa è considerato inefficace soltanto quando non raggiunge lo scopo per cui è stato creato. Ma il potere di Dio non è diretto verso il proprio effetto come verso uno scopo; piuttosto, l’effetto prodotto da Lui costituisce lo stesso scopo del Suo potere.
+
+Risposta all’Obiezione 3: Il Filosofo (Phys. viii, 79) dimostra che se un corpo possedesse potenza infinita, causerebbe un movimento non temporale. Inoltre, mostra che la potenza del motore celeste è infinita, poiché può muovere nell’arco di un tempo infinito. Pertanto, secondo le sue argomentazioni, la potenza infinita di un corpo, se esistesse davvero, lo porterebbe a muoversi senza tempo; tuttavia, ciò non vale per la potenza di un motore incorporeo. Il motivo è che un corpo che muove un altro agisce in modo univoco; pertanto, l’intera sua potenza si manifesta nel movimento stesso. Quindi, maggiore è la potenza di un corpo in movimento, più rapidamente si muove; ne consegue che, se tale potenza fosse infinita, il corpo si muoverebbe in modo incomparabilmente più veloce, cioè senza tempo. Un motore incorporeo, invece, non agisce in modo univoco; pertanto non è necessario che l’intera sua potenza si manifesti nel movimento, affinché possa muoversi senza tempo; soprattutto perché il suo movimento segue la disposizione della sua volontà.
 
 <span class="atom-split" data-atom="172" data-title="Whether God is omnipotent?" data-chapter="Whether God is omnipotent?" data-kind="atom" data-srclang="en"></span>
 
@@ -8696,6 +11131,29 @@ A[1], ad 2). Thus is it that the wisdom of the world is deemed foolish, because 
 to nature, it judges to be impossible to God. So it is clear that the omnipotence of God does not
 take away from things their impossibility and necessity.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non sia onnipotente. Infatti, il movimento e la passività appartengono a tutte le cose; ma ciò è impossibile per Dio, poiché Egli è immobile, come detto in precedenza (Q[2], A[3]). Pertanto, Dio non è onnipotente.
+
+Obiezione 2: Inoltre, il peccato è un atto di qualche tipo. Ma Dio non può peccare, né “negarsi stesso”, come si dice in 2 Timoteo 2:13. Pertanto, Egli non è onnipotente.
+
+Obiezione 3: Inoltre, si dice di Dio che manifesta la sua onnipotenza “soprattutto risparmiando e mostrando misericordia” [*Collecta, decima domenica dopo Pentecoste]. Pertanto, l’atto più grande che la potenza divina possa compiere è risparmiare e mostrare misericordia. Tuttavia, esistono cose molto più importanti di queste; ad esempio, creare un altro mondo, o simili. Quindi Dio non è onnipotente.
+
+Obiezione 4: Inoltre, riguardo al testo “Dio ha reso vana la saggezza di questo mondo” (1 Corinzi 1:20), un commento afferma: “Dio ha reso vana la saggezza di questo mondo mostrando che ciò che essa considera impossibile è in realtà possibile”. Da ciò sembrerebbe che nulla debba essere giudicato possibile o impossibile in base alle cause inferiori, come le valuta la saggezza di questo mondo; ma soltanto in relazione al potere divino. Se quindi Dio fosse onnipotente, tutte le cose sarebbero possibili; pertanto nulla sarebbe impossibile. Ma se eliminassimo l’impossibile, distruggeremmo anche ciò che è necessario, poiché ciò che esiste necessariamente non può non esistere. Quindi, se Dio fosse onnipotente, non esisterebbe nulla di necessario nelle cose. Ma questa è un’impossibilità. Pertanto, Dio non è onnipotente.
+
+Al contrario, si dice: “Nessuna parola è impossibile per Dio” (Lc 1:37).
+
+Rispondo che tutti ammettono che Dio sia onnipotente; tuttavia sembra difficile spiegare esattamente in cosa consista la Sua onnipotenza: infatti può sorgere dubbi sul significato preciso della parola “tutti” quando diciamo che Dio può fare tutto. Se però consideriamo la questione correttamente, poiché il concetto di potere si riferisce a cose possibili, l’espressione “Dio può fare tutto” va intesa nel senso che Dio può fare tutte le cose che sono possibili; ed è proprio per questo motivo che viene definito onnipotente. Secondo il Filosofo (Metafisica V, 17), una cosa è detta possibile in due modi: primo, in relazione a una certa capacità o potere; ad esempio, ciò che è soggetto al potere umano è considerato possibile per l’uomo. Secondo, in modo assoluto, in base alla relazione stessa tra i termini coinvolti nella definizione di quella cosa. Ora, non si può dire che Dio sia onnipotente perché è in grado di fare tutte le cose che sono possibili per la natura creata; poiché il potere divino va oltre ciò. Se invece dicessimo che Dio è onnipotente perché può fare tutte le cose che sono possibili entro i limiti del suo stesso potere, ci troveremmo di fronte a un circolo vizioso nel tentativo di spiegare la natura di tale potere: in realtà questo significherebbe semplicemente che Dio è onnipotente perché può fare tutto ciò che è in grado di fare. Quindi, Dio viene definito onnipotente perché può fare tutte le cose che sono possibili in modo assoluto; ed è proprio questo il secondo modo in cui si può definire qualcosa come possibile. Una cosa è detta possibile o impossibile in modo assoluto in base alla relazione stessa tra i termini coinvolti nella sua definizione: è possibile se il predicato non è incompatibile con il soggetto; al contrario, è assolutamente impossibile quando il predicato è del tutto incompatibile con il soggetto. Tuttavia, bisogna ricordare che poiché ogni agente produce un effetto simile a sé stesso, a ogni potere attivo corrisponde una cosa possibile come suo oggetto appropriato, in base alla natura dell’azione su cui quel potere si fonda; ad esempio, il potere di riscaldare ha come oggetto appropriato ciò che può essere riscaldato. L’esistenza divina, invece, su cui si fonda la natura del potere in Dio, è infinita e non è limitata a alcun genere di essere; possiede infatti in sé la perfezione di tutto l’essere. Pertanto, qualsiasi cosa abbia o possa avere la natura dell’essere rientra tra le cose assolutamente possibili, e per questo motivo Dio viene definito onnipotente. Nulla, infatti, si oppone all’idea di essere se non il non-essere; quindi ciò che implica allo stesso tempo essere e non-essere è contraddittorio con l’idea di una cosa assolutamente possibile, almeno nell’ambito dell’onnipotenza divina. Una tale cosa, infatti, non può rientrare nei confini dell’onnipotenza divina, non a causa di alcuna deficienza nel potere di Dio, ma perché non possiede la natura di una cosa possibile o fattibile. Quindi, tutto ciò che non implica contraddizioni logiche rientra tra le cose assolutamente possibili, e per questo motivo Dio è onnipotente.
+Tra quelle cose possibili, per le quali Dio viene definito onnipotente, ci sono anche quelle che implicano contraddizioni; tuttavia, tutto ciò che comporta contraddizioni non rientra nell’ambito dell’onnipotenza divina, poiché non può essere considerato possibile. Pertanto, è più appropriato affermare che tali cose non possono essere realizzate, piuttosto che sostenere che Dio non possa farlo. Ciò non contraddice nemmeno le parole dell’angelo, che dice: “Nessuna parola sarà impossibile per Dio”. Infatti, ciò che implica contraddizioni non può essere considerato una “parola”, poiché nessun intelletto è in grado di concepire una cosa del genere.
+
+Risposta all’Obiezione 1: Si dice che Dio sia onnipotente in relazione alla Sua potenza attiva, e non a quella passiva, come è stato dimostrato sopra (A[1]). Pertanto, il fatto che Egli sia immobile o impassibile non è in contraddizione con la Sua onnipotenza.
+
+Risposta all’Obiezione 2: Peccare significa non raggiungere l’ideale di un’azione perfetta; pertanto, essere in grado di peccare significa essere in grado di fallire nell’agire, il che è contraddittorio con l’onnipotenza. Di conseguenza, Dio non può peccare, a causa della Sua onnipotenza. Tuttavia, il Filosofo afferma (Topicus iv, 3) che Dio possa deliberatamente compiere atti malvagi. Ma ciò deve essere inteso o sotto una condizione la cui realizzazione è impossibile – ad esempio, se si dicesse che Dio può compiere azioni malvagie se lo desidera. Infatti, non c’è motivo per cui una proposizione condizionale non possa essere vera, anche se sia il presupposto che la conseguenza siano entrambi impossibili; è come dire: “Se l’uomo fosse un asino, avrebbe quattro zampe”. Oppure si potrebbe intendere che Dio possa compiere alcune azioni che ora sembrano malvagie, ma che, se le compisse, diventerebbero invece buone. O forse il Filosofo sta semplicemente riflettendo secondo la mentalità comune dei pagani, i quali ritenevano che gli uomini potessero diventare dèi, come Giove o Mercurio.
+
+Risposta all’Obiezione 3: L’onnipotenza di Dio si manifesta in modo particolare nel risparmiare e nell’avere misericordia, poiché proprio in questo si rivela che Dio possiede un potere supremo e che perdona liberamente i peccati. Infatti, non è chi è vincolato dalle leggi di un essere superiore a poter perdonare i propri peccati, frutto del proprio [libero arbitrio](/positions/free_will). Inoltre, risparmiando e mostrando misericordia verso gli uomini, Dio li conduce verso la partecipazione a un bene infinito; questo rappresenta l’effetto finale del suo potere divino. Ancora, come già detto in precedenza (Q[21], A[4]), l’effetto della misericordia divina costituisce il fondamento di tutte le opere divine. Infatti, nulla ci è dovuto da parte di nessuno, se non in virtù di qualcosa che Dio ci ha già donato gratuitamente. In questo modo, l’onnipotenza divina si manifesta in modo particolare, poiché essa riguarda proprio il fondamento primordiale di ogni bene.
+
+Risposta all’Obiezione 4: Ciò che è assolutamente possibile non viene definito tale né in relazione a cause superiori né a cause inferiori, ma in relazione a sé stesso. Tuttavia, ciò che è possibile in relazione a una determinata forza o capacità viene definito “possibile” in riferimento alla sua causa immediata. Pertanto, quelle azioni che spettano esclusivamente a Dio – come creare, giustificare, ecc. – vengono considerate possibili in riferimento a cause superiori; al contrario, quelle azioni che possono essere compiute da cause inferiori vengono definite possibili in relazione a tali cause. Infatti, è in base alle condizioni della causa immediata che l’effetto presenta caratteristiche di contingenza o necessità, come è stato dimostrato sopra (Q[14], A[1], ad 2). È proprio per questo che la saggezza umana viene considerata sciocca: essa ritiene impossibile per Dio ciò che è effettivamente impossibile per la natura. È evidente, quindi, che l’onnipotenza di Dio non elimina affatto la possibilità o la necessità delle cose.
+
 <span class="atom-split" data-atom="173" data-title="Whether God can make the past not to have been?" data-chapter="Whether God can make the past not to have been?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God can make the past not to have been. For what is impossible in
@@ -8747,6 +11205,24 @@ Reply to Objection 3: God can remove all corruption of the mind and body from a 
 who has fallen; but the fact that she had been corrupt cannot be removed from her; as also is it
 impossible that the fact of having sinned or having lost charity thereby can be removed from the
 sinner.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio possa far sì che il passato non sia mai esistito. Infatti, ciò che è impossibile in sé stesso è molto più improbabile di ciò che è solo impossibile in modo accidentale. Ma Dio può compiere ciò che è impossibile in sé stesso, come restituire la vista ai ciechi o risuscitare i morti. Pertanto, può certamente fare anche ciò che è solo impossibile in modo accidentale. Ora, il fatto che il passato non sia mai esistito è un’impossibilità di natura accidentale: quindi, è accidentalmente impossibile che [Socrate](/figures/socrates) non abbia mai corso, dato che la sua corsa appartiene al passato. Pertanto, Dio può far sì che il passato non sia mai esistito.
+
+Obiezione 2: Inoltre, ciò che Dio poteva fare in passato, può farlo anche ora, poiché il Suo potere non è diminuito. Ma Dio avrebbe potuto impedire a Socrate di correre prima che questi lo facesse; pertanto, anche dopo che Socrate ha corso, Dio avrebbe potuto far sì che non avesse corso affatto.
+
+Obiezione 3: Inoltre, la carità è una virtù più nobile della verginità. Ma Dio può restituire la carità che si è perduta; pertanto può anche restituire la verginità perduta. Quindi Egli può far sì che ciò che era corrotto non sia mai stato corrotto.
+
+Al contrario, Gerome afferma (Epistola 22 ad Eustochio): “Anche se Dio può fare tutto, non può far sì che qualcosa di corrotto non sia mai stato corrotto”. Pertanto, per lo stesso motivo, non può nemmeno impedire che ciò che è accaduto in passato non sia mai avvenuto.
+
+Rispondo che, come già detto in precedenza (Q[7], A[2]), nulla che implichi una contraddizione rientra nell’ambito dell’onnipotenza di Dio. Ora, affermare che il passato “non dovrebbe essere stato” implica proprio una contraddizione: infatti, dire che Socrate sia seduto e allo stesso tempo non lo sia è altrettanto contraddittorio quanto dire che abbia seduto e contemporaneamente non l’abbia fatto. Ma affermare che abbia seduto significa dire che ciò è accaduto nel passato; mentre affermare che non abbia seduto significa dire che ciò non è mai accaduto. Pertanto, l’idea che il passato “non dovrebbe essere stato” non rientra nell’ambito del potere divino. È proprio questo che intende [Agostino](/figures/augustine) quando dice (Contra Faustus, xxix, 5): “Chi afferma: ‘Se Dio è onnipotente, faccia sì che ciò che è accaduto non sia mai accaduto’, in realtà sta dicendo: ‘Se Dio è onnipotente, faccia sì che ciò che è vero diventi falso’”. E il Filosofo aggiunge (Etica, vi, 2): “Di una sola cosa Dio è privo: cioè del potere di annullare ciò che è già accaduto”.
+
+Risposta all’Obiezione 1: Sebbene sia impossibile che il passato non sia esistito, se si considera la cosa stessa del passato – ad esempio, l’azione compiuta da Socrate – è comunque impossibile che quel fatto non sia avvenuto, non solo in sé stesso, ma assolutamente, poiché ciò significherebbe una contraddizione. Pertanto, questa ipotesi è ancora più improbabile della risurrezione dei morti; nella risurrezione, infatti, non vi è alcuna contraddizione, poiché essa viene considerata impossibile in relazione a determinate capacità umane, ovvero a poteri naturali; mentre cose del genere possono rientrare nell’ambito del potere divino.
+
+Risposta all’Obiezione 2: Poiché Dio, in conformità con la perfezione del suo potere divino, può fare tutte le cose, eppure alcune cose non sono soggette al suo potere, perché non rientrano nella categoria di ciò che è possibile; allo stesso modo, se consideriamo l’immutabilità del potere divino, qualsiasi cosa Dio potesse fare in passato, può farla anche ora. Tuttavia, alcune cose un tempo erano soltanto possibili, ma non ancora realizzate; oggi, invece, non rientrano più nella categoria di ciò che è possibile, poiché sono state effettivamente compiute. Per questo si dice che Dio non possa farle, perché esse stesse non possono essere realizzate.
+
+Risposta all’Obiezione 3: Dio può eliminare ogni corruzione dell’anima e del corpo da una donna che è caduta in peccato; ma il fatto stesso che essa sia stata corrotta non può essere cancellato; allo stesso modo, è impossibile eliminare dal peccatore il fatto di aver peccato o di aver perso la carità.
 
 <span class="atom-split" data-atom="174" data-title="Whether God can do what He does not?" data-chapter="Whether God can do what He does not?" data-kind="atom" data-srclang="en"></span>
 
@@ -8824,6 +11300,24 @@ Reply to Objection 3: Although this order of things be restricted to what now ex
 power and wisdom are not thus restricted. Whence, although no other order would be suitable and
 good to the things which now are, yet God can do other things and impose upon them another order.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non possa fare altro se non ciò che fa. Infatti, Dio non può compiere un atto che non abbia previsto e preordinato in anticipo di compiere. Ma Egli non ha né previsto né preordinato di compiere nulla al di fuori di ciò che effettivamente fa. Pertanto, Dio non può fare altro se non ciò che fa.
+
+Obiezione 2: Inoltre, Dio può fare soltanto ciò che deve essere fatto e ciò che è giusto fare. Tuttavia, Dio non è obbligato a fare ciò che non fa; né è giusto che faccia ciò che non fa. Pertanto, Egli può fare soltanto ciò che effettivamente fa.
+
+Obiezione 3: Inoltre, Dio non può fare nulla che non sia buono e degno della creazione. Ma non è né buono né degno per le creature essere diverse da ciò che sono. Pertanto, Dio non può fare altro se non ciò che fa.
+
+Al contrario, si dice: “Pensi forse che non possa chiedere al Mio Padre, e che Egli non Mi dia immediatamente più di dodici legioni di angeli?” (Matteo 26:53). Ma Egli non li chiese, né il Suo Padre glieli mostrò per confutare i Giudei. Pertanto, Dio può fare ciò che vuole.
+
+Rispondo che, in questa questione, alcune persone hanno commesso errori su due fronti. Alcuni sostenevano che Dio agisse per necessità naturale, in modo tale che dall’azione della natura non potesse derivare nulla di diverso da ciò che effettivamente accade; ad esempio, dal seme dell’uomo deve nascere un uomo, e da quello dell’oliva un olivo: quindi, dall’operazione divina non potevano derivare altre cose, né un altro ordine delle cose rispetto a quello attuale. Tuttavia, come abbiamo dimostrato in precedenza (Q[19], A[3]), Dio non agisce per necessità naturale, ma la Sua volontà è la causa di tutte le cose; inoltre, quella volontà non è determinata naturalmente né da alcuna necessità a compiere specifiche azioni. Pertanto, il corso attuale degli eventi non deriva affatto da alcuna necessità divina che impedirebbe l’insorgere di altre possibilità. Altri, invece, sostenevano che il potere divino fosse limitato a questo corso attuale degli eventi, a causa dell’ordine stabilito dalla saggezza e dalla giustizia divine; ma poiché il potere di Dio, che è la Sua essenza stessa, non è altro che la Sua saggezza, si può certamente affermare che nulla nel potere divino esiste al di fuori dell’ordine stabilito da tale saggezza. Tuttavia, l’ordine creato dalla saggezza divina, in cui si manifesta anche il concetto di giustizia divina (come abbiamo detto in precedenza, Q[21], A[2]), non è così completo da limitare la saggezza divina esclusivamente a questo ordine attuale delle cose. È evidente infatti che qualsiasi concezione di ordine possa essere stabilita da un uomo saggio riguardo alle cose da lui create deriva necessariamente dal loro fine ultimo; quindi, quando quel fine è proporzionato alle cose create per tale scopo, la saggezza del creatore è limitata a un certo ordine specifico. Ma la bontà divina rappresenta un fine che trascende ogni limite creativo; pertanto, la saggezza divina non è vincolata da alcun ordine particolare, e non esiste alcuna necessità che impedirebbe l’insorgere di altri possibili sviluppi degli eventi. Quindi dobbiamo semplicemente affermare che Dio può compiere altre azioni rispetto a quelle che ha già realizzato.
+
+Risposta all’Obiezione 1: In noi stessi, dove potere ed essenza sono distinti da volontà e intelletto, e ancora l’intelletto dalla saggezza, e la volontà dalla giustizia, può esistere qualcosa nel potere che non si trovi né nella volontà giusta né nell’intelletto saggio. Ma in Dio, potere ed essenza, volontà e intelletto, saggezza e giustizia sono una cosa sola. Pertanto, non può esistere nulla nel potere divino che non possa anche trovarsi nella Sua volontà giusta o nell’Suo intelletto saggio. Tuttavia, poiché la Sua volontà non può essere determinata necessariamente da questo o quel ordine delle cose, se non ipoteticamente, come si è detto sopra (Q[19], A[3]), né la saggezza e la giustizia di Dio sono limitate a questo presente ordine delle cose; quindi nulla impedisce che nel potere divino esista qualcosa che Egli non voglia e che non rientri nell’ordine che ha stabilito nelle cose. Inoltre, poiché il potere è considerato come l’atto di realizzare, la volontà come quella di comandare, e l’intelletto e la saggezza come strumenti per guidare tali atti; ciò che viene attribuito al Suo potere in sé stesso significa che Dio è in grado di compiere queste azioni secondo il proprio potere assoluto. Di questo tipo sono tutte le cose che hanno la natura dell’essere, come si è detto sopra (A[3]). Quello che invece viene attribuito al potere divino, nel senso che esso attua i comandi di una volontà giusta, significa che Dio è in grado di compiere tali azioni con il proprio potere ordinario. In questo modo, dobbiamo dire che Dio può compiere altre cose con il proprio potere assoluto, oltre a quelle che ha previsto e deciso di realizzare. Tuttavia, non sarebbe possibile che Egli compiesse qualcosa che non avesse previsto o deciso in anticipo, poiché la Sua azione effettiva è soggetta alla Sua previsione e determinazione, anche se il Suo potere, che costituisce la Sua natura, non lo è. Infatti, Dio compie le cose perché vuole farlo; tuttavia, il potere di farle deriva dalla Sua natura, non dalla Sua volontà.
+
+Risposta all’Obiezione 2: Dio non è vincolato da nessuno se non da Sé stesso. Pertanto, quando si afferma che Dio possa fare soltanto ciò che deve fare, ciò che si intende è semplicemente che Dio non può fare nulla se non ciò che è degno di Lui e giusto. Tuttavia, le parole “degno” e “giusto” possono essere interpretate in due modi: da un lato, in relazione diretta al verbo “è”, e in questo caso si riferirebbero soltanto all’ordine attuale delle cose e riguarderebbero il Suo potere; in tal caso, quanto affermato nell’obiezione sarebbe falso, poiché significherebbe che Dio non può fare nulla se non ciò che è attualmente degno e giusto. Dall’altro lato, se queste parole vengono collegate direttamente al verbo “può” (il quale ha il significato di estendere il senso originale della frase), allora si intenderebbe che Dio non può fare nulla se non ciò che, nel futuro, sarebbe degno e giusto. In questo secondo senso, la frase diventerebbe vera: “Dio non può fare nulla se non ciò che, se lo facesse, sarebbe appropriato e giusto”.
+
+Risposta all’Obiezione 3: Sebbene questo ordine delle cose sia limitato a ciò che esiste attualmente, il potere e la saggezza divini non sono affatto vincolati da tali limiti. Pertanto, anche se nessun altro ordine sarebbe adatto o vantaggioso per le cose che esistono oggi, Dio può comunque creare altre realtà e imporre loro un diverso ordine.
+
 <span class="atom-split" data-atom="175" data-title="Whether God can do better than what He does?" data-chapter="Whether God can do better than what He does?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God cannot do better than He does. For whatever God does, He does
@@ -8885,6 +11379,28 @@ fact that she is the mother of God; have all a certain infinite dignity from the
 is God. And on this account there cannot be anything better than these; just as there cannot be
 anything better than God.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio non possa fare di meglio di ciò che fa. Poiché tutto ciò che Dio fa lo fa in modo estremamente potente e saggio, una cosa è considerata migliore quanto più viene realizzata con forza e saggezza. Pertanto, Dio non può fare nulla di meglio di ciò che già fa.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) argomenta così (Contra Maximin. iii, 8): “Se Dio potesse, ma non volesse, generare un Figlio suo pari, sarebbe invidioso”. Per lo stesso motivo, se Dio potesse creare cose migliori di quelle che ha creato, ma non fosse disposto a farlo, sarebbe invidioso. Ma l’invidia è qualcosa di completamente estraneo a Dio. Pertanto, Dio crea tutto ciò che è il meglio; non può quindi creare nulla di ancora migliore di ciò che ha già creato.
+
+Obiezione 3: Inoltre, ciò che è molto buono e addirittura il migliore di tutti non può essere migliorato; poiché nulla è migliore del meglio stesso. Ma come afferma Agostino nell’“Enchiridion” 10, “tutto ciò che Dio ha creato è buono, e nel loro insieme costituiscono qualcosa di davvero meraviglioso; poiché in essi risiede la straordinaria [bellezza](/concepts/beauty) dell’universo”. Pertanto, il bene presente nell’universo non potrebbe essere ulteriormente migliorato da Dio.
+
+Obiezione 4: Inoltre, Cristo, in quanto uomo, è pieno di grazia e verità e possiede lo Spirito in misura infinita; pertanto non può essere reso migliore. La felicità, essendo stata creata nuovamente da Dio, viene descritta come il bene supremo e quindi non può essere migliorata ulteriormente. Inoltre, la Beata Vergine Maria è elevata al di sopra di tutti i cori degli angeli; pertanto non può essere resa migliore di ciò che già è. Di conseguenza, Dio non può rendere tutte le cose migliori di quanto le abbia create.
+
+Al contrario, si dice (Efesini 3:20): “Dio è capace di fare tutte le cose in modo ancora più abbondante di quanto noi desideriamo o comprendiamo”.
+
+Rispondo che la bontà di qualsiasi cosa è duplice: una sorta appartiene alla sua essenza stessa; ad esempio, essere razionali fa parte dell’essenza umana. Per quanto riguarda questa forma di bontà, Dio non può rendere una cosa migliore di ciò che già è; tuttavia può creare altre cose migliori di queste. Allo stesso modo, non può rendere il numero quattro “maggiore” di ciò che già è, poiché se lo fosse, non sarebbe più quattro, ma un altro numero. L’aggiunta di una differenza sostanziale alle definizioni di una cosa avviene in modo simile all’aggiunta dell’unità ai numeri (Metafisica, VIII, 10). Un’altra forma di bontà è quella che va oltre l’essenza stessa della cosa; ad esempio, la bontà di un uomo risiede nel fatto che sia virtuoso o saggio. Per quanto riguarda questa seconda forma di bontà, Dio può rendere migliori le cose che ha creato; tuttavia, in senso assoluto, può creare altre cose ancora migliori di quelle che ha già creato.
+
+Risposta all’Obiezione 1: Quando si afferma che Dio possa rendere qualcosa migliore di quanto lo abbia creato, se “migliore” viene inteso in senso sostanziale, questa proposizione è vera. Infatti, Dio può sempre creare qualcos’altro che sia ancora migliore di ciò che ha già creato; inoltre, può rendere la stessa cosa migliore in un certo modo e peggiore in un altro, come spiegato in precedenza. Tuttavia, se “migliore” viene inteso in senso avverbiale, indicando il modo in cui qualcosa viene creato, allora Dio non può rendere nulla migliore di quanto lo abbia già creato, poiché non potrebbe crearlo con maggiore saggezza o bontà. Ma se “migliore” indica semplicemente il modo in cui una cosa esiste, allora sì, Dio può renderla migliore: può infatti conferire alle cose da Lui create un modo di esistere più perfetto riguardo ai loro attributi accidentali, anche se non riguardo alla loro sostanza stessa.
+
+Risposta all’Obiezione 2: È naturale per un figlio essere uguale a suo padre quando raggiunge la maturità. Tuttavia, non è naturale per nulla di ciò che è stato creato da Dio essere migliore di quanto fosse al momento della sua creazione. Pertanto, questo confronto non ha fondamento.
+
+Risposta all’Obiezione 3: Presumendo l’esistenza dell’universo attuale, esso non può essere migliore in virtù dell’ordine meraviglioso che Dio ha imposto alle cose, ordine dal quale deriva il bene stesso dell’universo. Infatti, se qualcosa venisse migliorato, la proporzione di quell’ordine andrebbe distrutta; è come se una corda dell’arpa venisse tesa oltre il dovuto, rovinando così l’armonia complessiva del suono. Tuttavia, Dio potrebbe creare altre cose o aggiungere qualcosa all’universo attuale; in tal caso, ne risulterebbe un altro universo, ancora migliore.
+
+Risposta all’Obiezione 4: L’umanità di Cristo, in quanto unita alla divinità; e la Beata Vergine, in quanto madre di Dio, possiedono tutte una certa dignità infinita, derivante dal bene infinito che è Dio stesso. Per questo motivo, non può esistere nulla di migliore di loro; proprio come non può esistere nulla di migliore di Dio.
+
 <span class="atom-split" data-atom="176" data-title="OF THE DIVINE BEATITUDE (FOUR ARTICLES)" data-chapter="OF THE DIVINE BEATITUDE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After considering all that pertains to the unity of the divine essence, we come to treat of the
@@ -8893,6 +11409,14 @@ divine [beatitude](/positions/beatitude). Concerning this, there are four points
 (2) In regard to what is God called blessed; does this regard His act of intellect?
 (3) Whether He is essentially the beatitude of each of the blessed?
 (4) Whether all other beatitude is included in the divine beatitude?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo aver esaminato tutto ciò che riguarda l’unità dell’essenza divina, passiamo ad analizzare la divina [beatazza](/positions/beatitude). A questo proposito, vi sono quattro punti da considerare:  
+(1) Appartiene davvero la beatazza a Dio?  
+(2) Perché Dio viene chiamato beato; si riferisce forse al suo atto di intelletto?  
+(3) È essenzialmente la beatazza di ciascuno dei beati?  
+(4) Tutte le altre forme di beatitudine sono incluse nella beatitudine divina?
 
 <span class="atom-split" data-atom="177" data-title="Whether beatitude belongs to God?" data-chapter="Whether beatitude belongs to God?" data-kind="atom" data-srclang="en"></span>
 
@@ -8922,6 +11446,20 @@ Reply to Objection 2: It belongs as an accident to beatitude or happiness to be 
 virtue, so far as anyone attains to beatitude; even as to be the term of generation belongs accidentally
 to a being, so far as it passes from [potentiality](/concepts/act_potency) to act. As, then, God has being, though not begotten;
 so He has beatitude, although not acquired by merit.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la [beatazza](/positions/beatitude) non appartenga a Dio. Infatti, secondo Boezio (De Consolatio IV), la beatazza “è uno stato reso perfetto dall’aggregazione di tutte le cose buone”. Ma l’aggregazione di beni non ha alcun senso in Dio, né tantomeno la loro composizione. Pertanto, la beatazza non appartiene a Dio.
+
+Obiezione 2: Inoltre, la beatitudine o la felicità sono la ricompensa della virtù, secondo il Filosofo (Etica I, 9). Ma la ricompensa non si applica a Dio; né lo stesso vale per il merito. Pertanto, neppure la beatitudine si applica a Dio.
+
+Al contrario, l’Apostolo afferma: “Colui che nei suoi tempi lo mostrerà è il Beato e l’Unico Onnipotente, Re dei Re e Signore dei Signori” (1 Timoteo 6:15).
+
+Rispondo che la beatitudine appartiene a Dio in modo molto particolare. Infatti, con il termine “beatitudine” non si intende altro se non il bene perfetto di natura intellettuale: un essere capace di comprendere di possedere già tutto ciò di cui ha bisogno, indipendentemente dal fatto che gli accadano cose buone o cattive, e in grado di controllare le proprie azioni. Tutti questi attributi appartengono in modo assoluto a Dio: essere perfetto e possedere intelligenza. Pertanto, la beatitudine è qualcosa che appartiene a Dio nel grado più elevato.
+
+Risposta all’Obiezione 1: L’aggregazione del bene esiste in Dio, non nel modo della composizione, ma della semplicità; poiché quelle cose che nelle creature sono molteplici preesistono in Dio, come è stato detto sopra (Q[4], A[2]; Q[13], A[4]), nella loro semplicità e unità.
+
+Risposta all’Obiezione 2: Il fatto che la beatitudine o la felicità siano una ricompensa della virtù appartiene, in senso accidentale, alla beatitudine stessa, nella misura in cui qualcuno riesce ad alcanzarla; così come il fatto che un essere entri nel mondo appartiene, anch’esso accidentalmente, a quel being, nella misura in cui passa dalla [potenzialità](/concepts/act_potency) all’atto concreto. Pertanto, Dio ha l’esistenza, anche se non è stato generato; allo stesso modo, possiede la beatitudine, anche se non l’ha acquisita per merito proprio.
 
 <span class="atom-split" data-atom="178" data-title="Whether God is called blessed in respect of His intellect?" data-chapter="Whether God is called blessed in respect of His intellect?" data-kind="atom" data-srclang="en"></span>
 
@@ -8990,6 +11528,21 @@ says (Greater Ethics i, 3), namely, the "thing itself" and "its use." Thus to a 
 and its acquisition. Accordingly God is indeed the last end of a rational creature, as the thing itself;
 but created beatitude is the end, as the use, or rather fruition, of the thing.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che Dio sia la stessa [beatazza](/positions/beatitude) di ciascuno dei beati. Infatti, Dio è il bene supremo, come è stato detto in precedenza (Q[6], AA[2],4). Ma è assolutamente impossibile che esistano più beni supremi, come risulta anche da quanto detto in precedenza (Q[11], A[3]). Pertanto, poiché essenza della beatazza è essere il bene supremo, sembra che la beatazza non sia altro che Dio stesso.
+
+Obiezione 2: Inoltre, la beatitudine è lo scopo finale della natura razionale. Ma essere lo scopo finale della natura razionale spetta esclusivamente a Dio. Pertanto, la beatitudine di ogni beato è soltanto Dio stesso.
+
+Al contrario, la beatitudine di uno è maggiore di quella di un altro, secondo 1 Corinzi 15:41:  
+“Le stelle differiscono tra loro per gloria.” Ma nulla è più grande di Dio; pertanto, la beatitudine è qualcosa di diverso da Dio.
+
+Rispondo che la beatitudine di una natura intellettuale consiste in un atto dell’intelletto stesso. In questo contesto possiamo considerare due aspetti: l’oggetto di tale atto, ovvero ciò che viene compreso; e l’atto stesso del comprendere. Se si considera la beatitudine dal punto di vista dell’oggetto, allora Dio è l’unica fonte di beatitudine; infatti, ogni essere è beato semplicemente per il fatto di comprendere Dio, come afferma [Agostino](/figures/augustine) nel “Confessione”, v, 4: “Beato colui che Te conosce, anche se non conosce nulla altro”. Tuttavia, riguardo all’atto stesso del comprendere, la beatitudine è una realtà creata negli esseri beati; ma in Dio, anche in questo senso, essa rappresenta qualcosa di non creato.
+
+Risposta all’Obiezione 1: La beata felicità, per quanto riguarda il suo oggetto, è il bene supremo in senso assoluto; ma per quanto riguarda l’atto che la realizza, nelle creature beate essa rappresenta il loro bene supremo, non in senso assoluto, bensì rispetto a quei beni di cui una creatura può partecipare.
+
+Risposta all’Obiezione 2: Lo scopo è duplice, cioè “oggettivo” e “soggettivo”, come afferma il Filosofo (Etica Maggiore i, 3): si tratta rispettivamente della “cosa stessa” e del suo “uso”. Pertanto, per un avaro lo scopo è il denaro e la sua acquisizione. Così, Dio rappresenta effettivamente lo scopo finale di una creatura razionale, in quanto “cosa stessa”; ma la beatitudine, essendo il risultato dell’uso o, meglio, della fruizione di tale cosa, costituisce il vero scopo ultimo.
+
 <span class="atom-split" data-atom="180" data-title="Whether all other beatitude is included in the beatitude of God?" data-chapter="Whether all other beatitude is included in the beatitude of God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the divine [beatitude](/positions/beatitude) does not embrace all other beatitudes. For there
@@ -9020,3 +11573,17 @@ of beatitude, the whole of it pre-exists in the divine beatitude.
 Reply to Objection 2: The good that exists in things corporeal in a corporeal manner, is also
 in God, but in a spiritual manner.
 We have now spoken enough concerning what pertains to the unity of the divine essence.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la divina [beatitudine](/positions/beatitude) non includa tutte le altre forme di beatitudine. Esistono infatti alcune “false beatitudini”, ma nulla di falso può esistere in Dio. Pertanto, la divina beatitudine non comprende tutte le altre forme di beatitudine.
+
+Obiezione 2: Inoltre, secondo alcuni, una certa beatitudine consiste in cose corporee, come il piacere, la ricchezza e simili. Ora, nessuna di queste cose ha a che fare con Dio, poiché Egli è incorporeo. Pertanto, la Sua beatitudine non include tutte le altre forme di beatitudine.
+
+Al contrario, la beatitudine è una certa perfezione. Ma la perfezione divina comprende tutte le altre perfezioni, come è stato dimostrato in precedenza (Q[4], A[2]). Pertanto, la beatitudine divina include tutte le altre forme di beatitudine.
+
+Rispondo che tutto ciò che è desiderabile, in qualsiasi forma di beatitudine si manifesti – sia vero che falso – esiste già in modo completo e in misura ancora più elevata nella beatitudine divina. Per quanto riguarda la felicità contemplativa, Dio possiede una contemplazione continua e assolutamente certa di Sé stesso e di tutte le altre cose; per quanto riguarda l’aspetto attivo della sua esistenza, Egli ha il dominio su tutto l’universo. Per quanto concerne la felicità terrena – che consiste in piacere, ricchezze, potere, dignità e fama –, secondo Boezio (De Consolatio, iii, 10), Egli prova gioia in Sé stesso e in tutte le cose per il proprio piacere; al posto delle ricchezze, possiede quella completa autosufficienza che tali ricchezze promettono; al posto del potere, ha l’onnipotenza; al posto della dignità, ha il dominio su tutte le cose; e al posto della fama, gode dell’ammirazione di tutte le creature.
+
+Risposta all’Obiezione 1: Un certo tipo di beatitudine è considerato falso nel momento in cui non raggiunge l’ideale della vera beatitudine; pertanto, esso non esiste in Dio. Tuttavia, qualsiasi somiglianza, per quanto lieve, che tale tipo di beatitudine possa avere con la vera beatitudine, essa esiste già nella beatitudine divina.
+
+Risposta all’Obiezione 2: Il bene che esiste nelle cose corporee in modo corporeo esiste anche in Dio, ma in modo spirituale. Abbiamo ora detto abbastanza riguardo a ciò che concerne l’unità dell’essenza divina.

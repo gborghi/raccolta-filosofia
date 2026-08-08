@@ -24,7 +24,11 @@ tags:
 
 [ARISTOTLE](/figures/aristotle)’S ETHICS
 
-<span class="atom-split" data-atom="002" data-title="Chapter I. (1/10)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+[ARISTOTELE](/figures/aristotle)’S ETICA
+
+<span class="atom-split" data-atom="002" data-title="Chapter I. (parte 1)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
 
 Every art, and every science reduced to a teachable form, and in like
 
@@ -212,7 +216,195 @@ student, the spirit in which our observations should be received, and
 
 the object which we propose.
 
-<span class="atom-split" data-atom="003" data-title="Chapter II. (1/11)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ogni arte, e ogni scienza ridotta a forma insegnabile, e similmente.
+
+maniera ogni azione e scelta morale, mira, si pensa, a qualche
+
+bene: per la qual cosa una descrizione comune e niente affatto cattiva di
+
+il Sommo Bene è, “ciò a cui tutte le cose tendono.”
+
+Ora v'è manifestamente una differenza nei Fini proposti: poiché in alcuni
+
+casi essi sono atti del lavorare, e in altri certe opere o tangibili
+
+risultati oltre e accanto agli atti del lavorare: e dove vi sono
+
+certi Fini al di là e accanto alle azioni, le opere sono nella loro
+
+la natura meglio degli atti del lavorare. Ancora, poiché le azioni e le arti
+
+e le scienze sono molte, i Fini similmente divengono molti: della
+
+l'arte medica, per esempio, la salute; dell'arte di costruire navi, una nave;
+
+dell'arte militare, la vittoria; e dell'amministrazione domestica, la ricchezza; sono
+
+rispettivamente i Fini.
+
+E quante di tali azioni, arti o scienze si ascrivono sotto un unico
+
+facoltà (come sotto quella dell'equitazione l'arte di fare briglie, e
+
+tutto ciò che è connesso con la manifattura dei finimenti per cavalli in
+
+generale; questo stesso ancora, e ogni azione connessa con la guerra, sotto
+
+l'arte militare; e allo stesso modo altre sotto altre), in tutto
+
+così, i Fini delle arti architettoniche sono più degni di scelta di quelli
+
+annoverandoli sotto di essi, perché è in vista dei primi che il
+
+Questi ultimi sono perseguiti.
+
+(E in questo confronto non fa differenza se gli atti di
+
+Le attività sono esse stesse i Fini delle azioni, o qualcosa di ulteriore.
+
+accanto a loro, come è il caso nelle arti e nelle scienze noi siamo stati giusti
+
+a proposito.)
+
+Poiché adunque di tutte le cose che possono farsi vi è un qualche fine unico che
+
+desideriamo per sé stesso, e in vista del quale desideriamo
+
+tutto il resto; e poiché non scegliamo in tutti i casi con un
+
+ulteriore Fine in vista (perché allora gli uomini andrebbero avanti senza limite, e così il
+
+il desiderio sarebbe insoddisfatto e infruttuoso), questo chiaramente deve essere il
+
+Bene supremo, cioè la migliore cosa di tutte.
+
+Certamente, quindi, anche in riferimento alla vita reale e alla condotta, la
+
+La conoscenza di essa deve avere grande peso; e come gli arcieri, con un bersaglio
+
+Avendo ciò in vista, saremo più propensi a imbatterci in ciò che è giusto: e se così è,
+
+Dovremmo cercare di descrivere, almeno a grandi linee, che cosa sia e di
+
+di quale delle scienze e facoltà essa sia il Fine.
+
+Ora si supporrebbe naturalmente che sia il Fine di ciò che è sommo.
+
+imperante e la più inclusiva: e a questa descrizione, πολιτικὴ
+
+risponde chiaramente: poiché è questo che determina quali delle scienze
+
+dovrebbero essere nelle comunità, e quale genere di individui debbano apprendere,
+
+e quale grado di competenza debba essere richiesto. Ancora; vediamo anche
+
+annoverando sotto questo le facoltà più stimate, come l'arte
+
+militare, e quella dell'amministrazione domestica, e la Retorica. Orbene,
+
+poiché questa si serve di tutte le altre scienze pratiche, e inoltre legifera.
+
+stabilire regole su ciò che gli uomini devono fare e da che cosa astenersi, il Fine.
+
+di questo deve includere i Fini del resto, e così deve essere Il Bene di
+
+Uomo. E concedi che questo sia lo stesso per l'individuo e al
+
+comunità, eppure certamente quella di quest'ultimo è manifestamente maggiore e più
+
+perfetto da scoprire e preservare: per fare questo anche per un singolo
+
+individuo fosse una questione di contentezza; ma farlo per un tutto
+
+nazione, e per le comunità in generale, erano più nobili e divine.
+
+Tali sono dunque gli oggetti proposti dal nostro trattato, che è del
+
+natura della πολιτικὴ: e io concepisco che avrò parlato di essi
+
+soddisfacentemente, se essi siano resi tanto distintamente chiari quanto la natura di
+
+la materia lo ammetterà: poiché l'esattezza non è da cercarsi in
+
+tutte le discussioni ugualmente, non più che in tutte le opere di artigianato. Ora
+
+le nozioni di nobiltà e giustizia, con l'esame delle quali
+
+Per quanto concerne πολιτικὴ, ammettono variazione ed errore a tal punto,
+
+che essi sono supposti da alcuni esistere solo convenzionalmente, e non in
+
+la natura delle cose: ma poi, di nuovo, le cose a cui è permesso
+
+I beni ammettono un errore simile, perché il male viene a molti da
+
+loro: poiché prima d'ora alcuni sono periti a causa della ricchezza, e altri
+
+Per valor.
+
+Dobbiamo allora accontentarci, nel parlare di tali cose e da tali dati,
+
+esporre la verità grossolanamente e per sommi capi; in altre parole, poiché noi
+
+Stanno parlando di materia generale e da dati generali, per trarre anche
+
+conclusioni meramente generali. E nello stesso spirito dovrebbe ciascuna persona
+
+ricevete ciò che diciamo: poiché l'uomo di [cultura](/concepts/education) cercherà l'esattezza così
+
+Inoltrarsi in ogni soggetto per quanto la natura della cosa ammette, essendo ciò chiaramente.
+
+È più o meno la stessa assurdità dover sopportare un matematico che cerca di
+
+persuadere invece di provare, ed esigere una rigorosa dimostrazione.
+
+ragionamento di un Retore.
+
+Ora ciascun uomo giudica bene ciò che conosce, e di queste cose egli è un
+
+buon giudice: su ogni particolare materia, allora, è buon giudice chi ha
+
+istruiti in essa, e in modo generale l'uomo di generale mentale
+
+coltivazione.
+
+Onde il giovane non è un idoneo studente di filosofia morale, poiché egli
+
+non ha esperienza delle azioni della vita, mentre tutto ciò che è detto
+
+presuppone e concerne queste: e in secondo luogo, poiché
+
+egli è incline a seguire gli impulsi delle sue passioni, egli udrà come
+
+Benché non udisse, e senza alcun profitto, essendo il fine in vista la pratica.
+
+e non mera conoscenza.
+
+E non traccio alcuna distinzione tra giovani di anni e giovanili in
+
+temperamento e disposizione: il difetto a cui alludo non essendo un diretto
+
+risultato del tempo, ma del vivere al cenno della passione, e
+
+seguitando ciascun oggetto mentre sorge. Imperocché a coloro che sono tali il
+
+La conoscenza viene a essere non proficua, come agli imperfetti.
+
+autocontrollo: ma, per coloro che formano i propri desideri e agiscono in
+
+conformità con la ragione, avere conoscenza su questi punti deve essere molto
+
+Fruttuoso.
+
+Tanto basti a mo' di prefazione su questi tre punti, il
+
+studente, lo spirito in cui le nostre osservazioni dovrebbero essere ricevute, e
+
+l'oggetto che proponiamo.
+
+<span class="atom-split" data-atom="003" data-title="Chapter II. (parte 1)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
 
 And now, resuming the statement with which we commenced, since all
 
@@ -292,7 +484,87 @@ But whoso neither of himself conceiveth nor hearing from another
 
 Layeth it to heart;—he is a useless man.
 
-<span class="atom-split" data-atom="004" data-title="Chapter III. (1/11)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ed ora, riprendendo l'affermazione con cui cominciammo, poiché tutto
+
+la conoscenza e la scelta morale aspira al bene di qualche tipo o altro, che
+
+Il bene è ciò a cui, come diciamo, mira la πολιτικὴ? o, in altre parole, che cos'è
+
+Il più alto di tutti i beni che sono oggetto di azione?
+
+Quanto al nome, c'è un accordo abbastanza generale: per FELICITÀ
+
+sia la moltitudine che i pochi raffinati la chiamano, e “vivere bene” e
+
+“il far bene” essi concepiscono essere lo stesso che “l’esser felice”; ma circa
+
+la Natura di questa Felicità, gli uomini disputano, e la moltitudine non in
+
+Il loro resoconto di ciò concorda con i sapienti. Poiché alcuni dicono che è uno di
+
+quelle cose che sono palpabili e evidenti, come il piacere o la ricchezza o
+
+onore; infatti, alcuni una cosa, altri un'altra; anzi, sovente la stessa cosa.
+
+l'uomo ne dà una diversa descrizione; ché quando è malato, la chiama salute.
+
+Quando poveri, la ricchezza: e consapevoli della propria ignoranza, gli uomini ammirano.
+
+quelli che parlano grandiosamente e al di sopra della loro comprensione. Altri ancora ritenevano
+
+che esso sia qualcosa per sé, altro da e oltre a questi molti beni.
+
+cose, che è in verità per tutte queste la causa del loro essere buone.
+
+Ora vagliare tutte le opinioni sarebbe forse un compito piuttosto infruttuoso;
+
+così basterà vagliare quelle che sono più generalmente correnti, o
+
+si ritiene che abbiano in sé qualche ragione.
+
+E qui non dobbiamo dimenticare la differenza tra il ragionare da.
+
+principi, e ragionamento ai principi: poiché con buona ragione fece Platone
+
+Dubitare troppo di questo, e domandarsi se la retta via sia da
+
+principî o ai principî, proprio come nell’ippodromo dai giudici.
+
+verso l'estremità più lontana, o vice versâ.
+
+Naturalmente, dobbiamo cominciare con ciò che è noto; ma poi questo è di due
+
+generi, ciò che sappiamo e ciò che possiamo sapere: forse allora come
+
+individui dobbiamo cominciare da ciò che sappiamo. Da qui la necessità
+
+che egli dovesse essere stato ben addestrato nelle abitudini, colui che deve studiare, con
+
+ogni tollerabile [possibilità](/concepts/fortune) di profitto, i principi di nobiltà e giustizia
+
+e la filosofia morale in generale. Poiché un principio è una questione di fatto,
+
+e se il fatto è sufficientemente chiaro a un uomo non ci sarà bisogno in
+
+aggiunta della ragione del fatto. E colui che è stato così educato
+
+o ha già principi, o può riceverli facilmente: quanto a lui
+
+chi non le ha né può riceverle, ascolti la sua sentenza da
+
+Mi sembra che il testo da tradurre non sia stato incluso nel messaggio. Potresti fornire il brano di Esiodo da tradurre?
+
+Egli è il migliore di tutti colui che da sé concepisce ogni cosa;
+
+Buono è anche colui che sa adottare un buon suggerimento;
+
+Ma chi né da sé concepisce né udendo da un altro
+
+Pongaselo a cuore;—egli è un uomo inutile.
+
+<span class="atom-split" data-atom="004" data-title="Chapter III. (parte 1)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
 
 But to return from this digression.
 
@@ -548,7 +820,263 @@ Some plausibility, it is true, this argument possesses, but it is
 
 contradicted by the facts of the Arts and Sciences; for all these,
 
-<span class="atom-split" data-atom="005" data-title="Chapter III. (2/11)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ma per tornare da questa digressione.
+
+Ora del Sommo Bene (cioè della Felicità) gli uomini sembrano formare la loro
+
+nozioni dai diversi modi di vita, come potremmo naturalmente aspettarci:
+
+I molti e i più volgari lo concepiscono come piacere, e perciò sono
+
+Contento della vita di godimento sensuale. Poiché vi sono tre linee.
+
+della vita che si offrono prominentemente alla vista: quella appena menzionata, e
+
+la vita nella società e, in terzo luogo, la vita contemplativa.
+
+Ora, i molti sono palesemente assai servili, scegliendo una vita simile a quella di
+
+animali bruti: tuttavia essi ottengono qualche considerazione, perché molti dei
+
+grandi condividono i gusti di Sardanapalo. I raffinati e attivi di nuovo.
+
+concepirlo come onore: poiché questo può dirsi essere il fine del
+
+La vita in società: eppure è chiaramente troppo superficiale per l'oggetto di
+
+La nostra ricerca, perché si ritiene che risieda presso coloro che pagano piuttosto
+
+che con colui che lo riceve, mentre il Sommo Bene noi sentiamo
+
+istintivamente deve essere qualcosa che è nostro, e non facilmente da essere.
+
+tolto a noi.
+
+E inoltre, gli uomini sembrano perseguire l'onore, affinché credano.
+
+loro stessi essere buoni: per esempio, cercano di essere onorati dai
+
+saggi, e da coloro tra cui sono conosciuti, e per virtù: chiaramente
+
+Dunque, nell'opinione almeno di questi uomini, la virtù è più alta di
+
+onore. In verità, si sarebbe molto più propensi a pensare che ciò sia
+
+la fine della vita in società; eppure questo stesso palesemente non è
+
+sufficientemente finale: poiché è concepito possibile che un uomo posseduto
+
+della virtù potrebbe dormire o essere inattiva per tutta la sua vita, o, come un
+
+terzo caso, soffrire i più grandi mali e sventure: e l'uomo che
+
+Dovesse vivere così, nessuno lo chiamerebbe felice, se non per la mera disputazione.
+
+bene.
+
+E per questi basti tanto, poiché se n'è trattato a
+
+sufficiente lunghezza nella mia Encyclia.
+
+Una terza linea di vita è quella della contemplazione, riguardo alla quale noi
+
+Faremo il nostro esame nelle pagine seguenti.
+
+Quanto alla vita del guadagno, essa è una vita di costrizione, e la ricchezza
+
+manifestamente non è il bene che cerchiamo, perché è per l'uso, quello
+
+è, in vista di qualcosa di ulteriore: e quindi si preferirebbe
+
+Concepire i prementovati fini essere i giusti, imperocché gli uomini riposano.
+
+contenti di loro per sé stessi. Tuttavia, chiaramente, essi non sono i
+
+Nemmeno oggetti della nostra ricerca, sebbene molte parole siano state sprecate su.
+
+loro. Tanto, dunque, per questi.
+
+Di nuovo, la nozione di un unico Bene Universale (lo stesso, cioè, in tutti
+
+cose), è meglio forse che esaminiamo, e discutiamo il
+
+significato di ciò, sebbene una tale indagine sia spiacevole, perché sono
+
+amici nostri che hanno introdotto queste εἴδη. Tuttavia forse esso
+
+può apparire migliore, anzi essere nostro dovere dove è la salvezza della verità.
+
+preoccupati, di sovvertire se necessario anche le nostre stesse teorie, specialmente poiché noi
+
+sono amanti della saggezza: poiché entrambe ci sono care, siamo tenuti a
+
+preferiscono la verità. Ora coloro che inventarono questa dottrina degli εἴδη, non
+
+Applicalo a quelle cose in cui parlavano di priorità e
+
+posteriorità, e così non si fecero mai alcuna ἰδέα dei numeri; ma il bene è
+
+predicato nelle categorie di Sostanza, Qualità e Relazione; ora
+
+Ciò che esiste di per sé, cioè la Sostanza, è anteriore nella natura di
+
+cose a ciò che è relativo, perché quest'ultimo è una derivazione,
+
+per così dire, e risultato di ciò che è; secondo il loro proprio principio allora
+
+non può esservi un’ἰδέα comune nel caso di queste.
+
+Inoltre, poiché il bene si predica in tanti modi quanti
+
+sono modi di esistenza [poiché è predicato nella categoria di
+
+Sostanza, come Dio, Intelletto—e in quella della Qualità, come le Virtù—e
+
+in quella della Quantità, come il Medio—e in quella della Relazione, come il
+
+Utile—e in quello del Tempo, come Opportunità—e in quello del Luogo, come
+
+Dimora; e altre cose simili], manifestamente non può essere qualcosa
+
+Comune e universale e uno in tutto: altrimenti non sarebbe stato.
+
+predicato in tutte le categorie, ma in una sola.
+
+In terzo luogo, poiché quelle cose che cadono sotto una stessa ἰδέα sono anche sotto
+
+la cognizione di una scienza, ci sarebbe stato, secondo la loro teoria,
+
+una sola scienza che prende cognizione di tutti i beni collettivamente: ma in
+
+infatti vi sono molti anche per coloro che ricadono sotto una categoria: poiché
+
+per esempio, dell'Opportunità o della Stagionevolezza (che ho prima
+
+menzionata come essendo nella categoria del Tempo), la scienza è, in guerra,
+
+l'arte del generale; nella malattia, la scienza medica; e del Giusto mezzo (che io
+
+citato prima come essendo nella categoria della Quantità), nel cibo, il
+
+scienza medica; e nel [lavoro](/concepts/labour) o nell'esercizio, la scienza ginnastica. Una
+
+Una persona potrebbe anche a ragione dubitare di che cosa mai vogliano dire con questo-stesso.
+
+quello o l'altro, poiché, come essi stessi ammetterebbero, il resoconto
+
+dell'umanità è una e medesima nell'Uomo stesso, e in qualsiasi
+
+l'uomo individuale: poiché in quanto l'individuo e l'uomo stesso sono entrambi
+
+Uomo, non differiranno affatto: e se è così, allora il molto-bene e il qualunque.
+
+il bene particolare non differirà, in quanto entrambi sono buoni. Né
+
+Esso dice, che la [eternità](/positions/eternity) del sommo bene lo fa essere più.
+
+Buono; poiché ciò che è rimasto bianco così a lungo, non è più bianco di ciò che
+
+non dura che un giorno.
+
+No. I Pitagorici sembrano effettivamente dare un resoconto più credibile del
+
+materia, che pongono «l'Uno» tra i beni nella loro doppia lista dei beni
+
+e i mali: quali filosofi, in effetti, Speusippo sembra avere
+
+seguì.
+
+Ma di queste cose parliamo in altro tempo. Ora vi è
+
+Palesemente una scappatoia per obiettare a quanto è stato avanzato, col pretesto
+
+che la teoria che ho attaccato non è dai suoi sostenitori applicata a tutti
+
+bene: ma soltanto quei beni sono detti essere sotto una sola ἰδέα, che
+
+sono perseguiti, e con cui gli uomini si contentano semplicemente per il loro proprio
+
+Fini: considerando che quelle cose che hanno una tendenza a produrre o
+
+preservarli in qualunque modo, o impedire i loro contrari, sono chiamati
+
+buono a causa di questi altri beni, e in un'altra maniera. Esso è
+
+È manifesto quindi che i beni possano essere così chiamati in due sensi, l'uno
+
+classe per se stessa, l'altra a causa di queste.
+
+Ebbene, allora separiamo i beni indipendenti dai
+
+strumentale, e vedi se sono dette come sotto un'unica ἰδέα.
+
+Ma sorge poi la questione: quale genere di beni dobbiamo chiamare
+
+indipendenti? Tutte quelle che sono perseguite anche quando separate da altre.
+
+beni, come, per esempio, essere saggi, vedere, e certi piaceri e
+
+onori (poiché questi, benché li perseguiamo con qualche ulteriore fine in
+
+veduta, si porrebbe ancora tra i beni indipendenti)? o lo fa
+
+giungere in effetti a questo, che non possiamo chiamare nulla di indipendente buono tranne
+
+l'ἰδέα, e così il concreto di essa sarà nulla?
+
+Se, d'altra parte, questi sono beni indipendenti, allora dovremo
+
+richiedere che il resoconto della bontà sia chiaramente lo stesso in tutti.
+
+proprio come quella della bianchezza è nella neve e nel bianco di piombo. Ma come sta
+
+Il fatto? Il perché dell'onore e della sapienza e del piacere i resoconti sono.
+
+distinti e differenti in quanto sono buoni. Il Sommo Bene dunque
+
+non è cosa comune, e dopo una ἰδέα.
+
+Ma allora, come il nome diviene comune (poiché non è apparentemente
+
+un caso di equivoco fortuito)? Sono differenti cose individuali?
+
+dette buone in virtù di provenire da un'unica origine, o tutte condurre a un fine unico
+
+fine, o piuttosto per via di analogia, poiché quell’intelletto sta all’anima come
+
+vista al corpo, e così via? Tuttavia, forse dovremmo lasciare questi
+
+domande ora, poiché un'accurata indagine di esse è più propriamente
+
+Il compito di una filosofia differente. E parimenti riguardo al
+
+ἰδέα: poiché anche se vi è un qualche bene uno predicato in comune di tutti
+
+cose che sono buone, o separabili e capaci di esistere
+
+indipendentemente, manifestamente non può essere l'oggetto dell'azione umana o
+
+raggiungibile dall'Uomo; ma ora siamo in cerca di qualcosa che è
+
+so.
+
+Può facilmente occorrere ad alcuno, che sarebbe meglio conseguire un
+
+la conoscenza di ciò in vista di quei beni concreti che sono conseguibili.
+
+e pratico, perché, con questo come una sorta di modello nelle nostre mani, noi
+
+Conosceremo tanto meglio quali cose sono buone per noi individualmente, e
+
+Quando li conosceremo, li raggiungeremo.
+
+Una certa plausibilità, è vero, questo argomento possiede, ma è
+
+contraddetto dai fatti delle Arti e delle Scienze; poiché tutti questi,
+
+<span class="atom-split" data-atom="005" data-title="Chapter III. (parte 2)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
 
 though aiming at some good, and seeking that which is deficient, yet
 
@@ -572,7 +1100,31 @@ of Man, or rather perhaps of this or that man; for he has to heal
 
 individuals.—Thus much on these points.
 
-<span class="atom-split" data-atom="006" data-title="Chapter IV. (1/12)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Sebbene mirando a qualche bene, e cercando ciò che è deficiente, tuttavia
+
+pretermettere la conoscenza di ciò: ora non è esattamente probabile che tutto
+
+gli artigiani senza eccezione dovrebbero essere ignoranti di sì grande aiuto come
+
+questo sarebbe, e nemmeno prendersene cura; né è facile a vedersi
+
+nel quale un tessitore o un falegname sarà avvantaggiato rispetto al suo
+
+esercitare l’arte conoscendo il bene stesso, o come un uomo sarà più atto a
+
+Compiere guarigioni o comandare un esercito per aver visto l'ἰδέα stessa. Poiché
+
+manifestamente non è la salute secondo questa maniera generale e astratta.
+
+che è il soggetto dell’indagine del medico, ma la salute
+
+dell'Uomo, o piuttosto forse di questo o quell'uomo; poiché egli deve curare
+
+individui.—Tanto su questi punti.
+
+<span class="atom-split" data-atom="006" data-title="Chapter IV. (parte 1)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
 
 And now let us revert to the Good of which we are in search: what can
 
@@ -682,7 +1234,117 @@ So then Happiness is manifestly something final and self-sufficient,
 
 being the end of all things which are and may be done.
 
-<span class="atom-split" data-atom="007" data-title="Chapter V. (1/10)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+E ora ritorniamo al Bene di cui siamo in cerca: che cosa può
+
+sia? poiché manifestamente essa è differente nelle differenti azioni e arti:
+
+poiché è differente nell'arte curativa e nell'arte militare, e
+
+Similmente nel resto. Qual è dunque il Sommo Bene in ciascuno? Non è forse
+
+“[ciò in vista di cui](/concepts/four_causes) le altre cose sono fatte?” e questo nel
+
+l'arte curativa è salute, e nell'arte militare la vittoria, e in quella di
+
+il costruire una casa, e in ogni altra cosa qualcos'altro; in
+
+in breve, in ogni azione e scelta morale il Fine, perché in tutti i casi
+
+Gli uomini fanno ogni altra cosa in vista di questo. Sicché se qualche cosa vi è
+
+Un solo Fine di tutte le cose che sono e che possono essere fatte, questo deve essere il Bene.
+
+proposte mediante l'agire, o, se più di una, allora queste.
+
+Così la nostra discussione, dopo qualche peregrinazione, è pervenuta allo stesso.
+
+punto che abbiamo raggiunto prima. E questo dobbiamo cercare ancor più di chiarire.
+
+up.
+
+Ora, poiché i fini sono evidentemente molti, e di questi ne scegliamo alcuni con un
+
+riguardo agli altri (ricchezza, per esempio, strumenti musicali, e, in
+
+generale, tutti gli strumenti), è chiaro che non tutti sono definitivi: ma il
+
+Il Sommo Bene è manifestamente qualcosa di finale; e così, se ve n'è uno
+
+solo ciò che è finale, questo deve essere l'oggetto della nostra ricerca: ma se
+
+diversi, allora il più finale di essi sarà esso.
+
+Ora ciò che è oggetto di ricerca in sé stesso noi lo chiamiamo più finale.
+
+di ciò che è tale in vista di altro; quello che a sua volta
+
+non è mai un oggetto di scelta in vista di qualcos'altro rispetto a quelli
+
+che sono tali sia in sé stesse sia in vista di questo fine ulteriore
+
+oggetto: e così col termine “assolutamente finale,” denotiamo ciò che è
+
+un oggetto di scelta sempre in sé, e mai in vista di alcunché
+
+altro.
+
+E di questa natura si pensa che la Felicità sia per lo più, per questo noi
+
+Scegli sempre per se stesso, e mai in vista di qualcos'altro.
+
+inoltre: mentre l'onore, il piacere, l'intelletto, anzi ogni eccellenza
+
+scegliamo per se stessi, è vero (perché sceglieremmo ciascuno
+
+di queste anche se nessun risultato dovesse seguirne), ma le scegliamo anche
+
+In vista della felicità, concependo che attraverso la loro strumentalità
+
+Saremo felici: ma nessuno sceglie la felicità in vista di essi, né, in generale, sceglie qualcosa per amore di qualcos'altro.
+
+né in effetti in vista di qualsivoglia altra cosa.
+
+Lo stesso risultato si vede seguire anche dalla nozione di
+
+Autosufficienza, una qualità ritenuta propria del bene finale. Ora con
+
+sufficiente per il Sé, non intendiamo per un singolo individuo che vive una
+
+vita solitaria, ma per i suoi genitori anche e figli e moglie, e, in
+
+generale, amici e concittadini; perché l'uomo è per natura adatto a una
+
+esistenza sociale. Ma di queste, naturalmente, deve essere fissato qualche limite:
+
+ché se lo si estende ai genitori e ai discendenti e agli amici degli amici,
+
+non vi è fine a ciò. Questo punto, tuttavia, deve essere rimandato al futuro.
+
+Indagine: per il momento definiamo che ciò sia autosufficiente.
+
+il quale, preso da sé, rende la vita degna di essere scelta, ed esser privo di
+
+nulla;” ora di tal genere stimiamo essere la Felicità: e inoltre, essere
+
+la più degna di essere scelta tra tutte le cose; non essendo annoverata con alcun'altra.
+
+cosa, poiché se fosse così considerato, è manifesto che dobbiamo allora ammettere
+
+esso, con l'aggiunta di un bene sia pur piccolissimo, essere più degno di scelta.
+
+di quanto non fosse prima: perché ciò che vi è posto diventa un'aggiunta di tanto.
+
+assai più bene, e de' beni il maggiore è sempre il più.
+
+degno di scelta.
+
+Dunque la Felicità è manifestamente qualcosa di finale e autosufficiente,
+
+essendo il fine di tutte le cose che sono e che possono essere fatte.
+
+<span class="atom-split" data-atom="007" data-title="Chapter V. (parte 1)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
 
 But, it may be, to call Happiness the Chief Good is a mere truism, and
 
@@ -820,7 +1482,145 @@ that many of the points of enquiry come simultaneously into view
 
 thereby.
 
-<span class="atom-split" data-atom="008" data-title="Chapter VI. (1/11)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ma, può darsi, chiamare la Felicità il Sommo Bene è un mero truismo, e
+
+Ciò che si richiede è una qualche più chiara esposizione della sua vera natura. Ora questo
+
+lo scopo può essere facilmente raggiunto, quando abbiamo scoperto quale sia l'opera
+
+dell'uomo; poiché come nel caso del suonatore di flauto, dello scultore, o di qualsivoglia artigiano
+
+benevolo, o, più generalmente, tutti coloro che hanno qualche lavoro o corso d'azione,
+
+si ritiene che il loro Sommo Bene ed Eccellenza risieda nella loro opera, così
+
+parrebbe che così sia per l'uomo, se vi è qualche opera che gli appartenga.
+
+Dobbiamo allora supporre, che mentre il carpentiere e il calzolaio hanno certi
+
+Opere e linee di condotta, l'Uomo in quanto Uomo non ne ha, ma è lasciato dalla Natura
+
+senza un'opera? o non si dovrebbe piuttosto sostenere, che come occhio, mano, e
+
+piede, e generalmente ciascuna delle sue membra, ha manifestamente qualche speciale
+
+opera; così anche l'uomo intero, in quanto distinto da tutte queste, ha una qualche opera.
+
+di suo?
+
+Che cosa può essere allora questo? non la mera vita, perché quella è chiaramente condivisa
+
+con lui anche mediante verdure, e vogliamo ciò che gli è proprio. Noi
+
+Si deve quindi separare la vita di mero nutrimento e crescita, e
+
+Poi verrà la vita della sensazione: ma anche questa manifestamente è
+
+comune ai cavalli, ai buoi e a ogni animale. Resta quindi una specie di
+
+vita della Natura Razionale atta ad agire: e di questa Natura vi sono
+
+due parti denominate Razionali, l'una come essendo obbediente alla Ragione,
+
+l'altro come avendola ed esercitandola. Ancora, come questa vita è anche detta
+
+di in due modi, dobbiamo prendere ciò che è nel modo dell'atto.
+
+lavorare, perché questo è ritenuto essere il più propriamente avente diritto al
+
+Se allora l'opera dell'uomo è un operare dell'anima secondo
+
+con la ragione, o almeno non indipendentemente dalla ragione, e diciamo che
+
+l'opera di un dato soggetto, e di quel soggetto buono della sua specie,
+
+sono della stessa specie (come, per esempio, di un arpista e di un buon
+
+arpista, e così via in ogni caso, aggiungendo all'opera l'eminenza in
+
+la via dell'eccellenza; voglio dire, l'opera di un suonatore di arpa è di suonare la
+
+arpa, e di un buon arpista per suonarla bene); se, dico, questo è
+
+così, e assumiamo che l'opera dell'uomo sia una vita di un certo tipo, cioè
+
+dire un'operazione dell'anima, e azioni con ragione, e di un bene.
+
+l'uomo fare queste cose bene e nobilmente, e in effetti tutto è
+
+finì bene nel modo dell'eccellenza che peculiarmente appartiene.
+
+a ciò: se tutto questo è così, allora il Bene dell’Uomo viene a essere “un operare
+
+"dell'Anima nel modo dell'Eccellenza,” o, se l'Eccellenza ammette di
+
+Per gradi, nel modo della migliore e più perfetta Eccellenza.
+
+E dobbiamo aggiungere, ἐν βίῳ τελείῳ; poiché come non è una rondine o una
+
+Bel giorno che fa una primavera, così non è un giorno o un breve tempo che
+
+rende un uomo beato e felice.
+
+Si prenda dunque questo come un abbozzo del Sommo Bene: poiché esso
+
+è probabilmente il modo giusto di dare prima il contorno, e riempirlo
+
+In seguito. E sembrerebbe che qualsiasi uomo possa migliorare e collegare ciò che
+
+è buono nello schizzo, e quel tempo è un buon scopritore e
+
+co-operatore in tali questioni: è così infatti che tutti i miglioramenti
+
+nelle varie arti sono stati apportati, poiché ogni uomo può colmare un
+
+deficienza.
+
+Voi dovete ricordare anche ciò che è già stato affermato, e non cercare
+
+esattezza in tutte le materie ugualmente, ma in ciascuna secondo la
+
+materia, e per quanto propriamente appartiene al sistema. Il
+
+Il falegname e il geometra, per esempio, indagano sulla linea retta.
+
+in modo diverso: il primo in quanto egli lo vuole per il suo lavoro,
+
+Quest'ultimo indaga la sua natura e le sue proprietà, poiché egli è
+
+che concerne la verità.
+
+Così dunque si dovrebbe fare nelle altre faccende, affinché le cose accidentali possano
+
+non superare quelli diretti.
+
+E di nuovo, non devi esigere la ragione nemmeno in tutte le cose.
+
+Parimenti, perché in alcuni è sufficiente che il fatto sia stato bene
+
+dimostrato, che è il caso dei primi principi; e il fatto è
+
+Il primo passo, cioè punto di partenza o principio.
+
+E di questi primi principi alcuni sono ottenuti per [induzione](/positions/induction), alcuni per
+
+percezione, alcuni tramite un percorso di abitudine, altri in altro
+
+modi diversi. E dobbiamo cercare di risalire a ciascuno nella propria natura,
+
+e darsi pena di assicurare il loro essere ben definiti, perché hanno
+
+grande influenza su ciò che segue: si pensa, voglio dire, che il
+
+Il punto di partenza o principio è più della metà dell'intera questione, e
+
+che molti dei punti di indagine si presentano simultaneamente alla vista
+
+in tal modo.
+
+<span class="atom-split" data-atom="008" data-title="Chapter VI. (parte 1)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
 
 We must now enquire concerning Happiness, not only from our conclusion
 
@@ -988,7 +1788,175 @@ Happiness; hence some rank good fortune, and others virtue, with
 
 Happiness.
 
-<span class="atom-split" data-atom="009" data-title="Chapter VII. (1/10)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora indagare riguardo alla Felicità, non solo dalla nostra conclusione.
+
+e i dati su cui procede il nostro ragionamento, ma parimenti da ciò che è
+
+comunemente detto di esso: perché con ciò che è vero tutte le cose che
+
+Realmente sono sono in armonia, ma con ciò che è falso il vero stesso
+
+presto stride.
+
+Ora v'è una comune divisione dei beni in tre classi; una essendo
+
+chiamate esterne, le altre due quelle dell' [anima e corpo](/axes/soul_body) rispettivamente,
+
+e quelli appartenenti all'anima li chiamiamo nel modo più proprio e speciale.
+
+bene. Ebbene, nella nostra definizione assumiamo che le azioni e i funzionamenti
+
+dell'anima costituiscono la Felicità, e queste naturalmente appartengono al
+
+anima. E così il nostro resoconto è buono, almeno secondo questo.
+
+opinione, che è di antica data, e accettata da coloro che professano
+
+filosofia. Giustamente anche certe azioni e operazioni sono dette essere il
+
+fine, poiché così è annoverata tra i beni dell'anima.
+
+invece dell'esterno. Concordando anche con la nostra definizione è il
+
+nozione comune, che l'uomo felice vive bene e agisce bene, poiché ha
+
+È stato da noi affermato essere pressappoco una sorta di vivere bene e di agire bene.
+
+Bene.
+
+E inoltre, i punti richiesti per la Felicità si trovano in combinazione.
+
+nel nostro resoconto di ciò.
+
+Alcuni pensano che sia virtù, altri [saggezza pratica](/concepts/phronesis), altri una specie di
+
+filosofia scientifica; altri che essa è queste, o altrimenti qualcuna di
+
+essi, in combinazione con il piacere, o almeno non indipendentemente da
+
+esso; mentre altri ancora comprendono la prosperità esterna.
+
+Di queste opinioni, alcune poggiano sull'autorità dei numeri o dell'antichità,
+
+altri su quella di pochi, e quegli uomini di nota: e non è probabile che
+
+o l'una o l'altra di queste classi dovrebbe essere sbagliata in tutti i punti, ma essere giusta in
+
+almeno in qualcuno, o anche nella maggior parte.
+
+Ora con coloro che la affermano essere Virtù (Eccellenza), o una qualche specie di
+
+La virtù, il nostro discorso concorda: poiché operare nella via dell'Eccellenza certamente.
+
+appartiene all'Eccellenza.
+
+E forse non v'è differenza non importante tra il concepire
+
+il Sommo Bene come in possesso o come in uso, in altre parole, come un mero
+
+stato o come un operare. Infatti [lo stato](/concepts/state) o [abitudine](/concepts/custom) può forse esistere in
+
+un soggetto senza produrre alcun bene, come, per esempio, in colui che è
+
+Addormentato, o in qualsivoglia altro modo inattivo; ma l'operare non può esserlo, perché esso
+
+vorrà necessariamente agire, e agire bene. E come ai giochi olimpici è
+
+non i migliori e i più forti uomini che sono incoronati, ma coloro che entrano
+
+le gare, poiché da questi vengono selezionati i premiati; così anche nella vita,
+
+dell'onorevole e del buono, sono essi che agiscono che giustamente vincono il
+
+premi.
+
+Anche la loro vita è in sé piacevole: infatti il sentimento del piacere è un
+
+sensazione mentale, e ciò è a ciascun piacevole di cui egli è detto a.
+
+essere affezionato: un cavallo, per esempio, a chi è affezionato ai cavalli, e un
+
+la vista a chi è amante degli spettacoli: e così similmente gli atti giusti a
+
+colui che è amante della giustizia, e più in generale le cose conformi.
+
+con virtù a colui che è amante della virtù. Ora nel caso del
+
+moltitudine di uomini le cose che essi singolarmente stimano piacevoli
+
+confliggono, perché non sono tali per natura, mentre per gli amanti di
+
+nobiltà quelle cose sono piacevoli che sono tali per natura: ma la
+
+le azioni conformi a virtù sono di tal genere, sì che esse sono
+
+piacevoli sia agli individui, sia anche in sé.
+
+Quindi la loro vita non ha bisogno del piacere come una sorta di aggiuntivo.
+
+appendice, ma implica piacere in sé. Infatti, oltre a ciò che ho
+
+Come poc'anzi è stato menzionato, un uomo non è affatto un buon uomo che non provi piacere in
+
+azioni nobili, così come nessuno chiamerebbe giusto quell'uomo che non
+
+provare piacere nell'agire giustamente, o liberale che non in liberale
+
+azioni, e similmente nel caso delle altre virtù che potrebbero essere
+
+enumerati: e se così è, allora le azioni conformi a
+
+la virtù deve essere in se stesse piacevole. Poi di nuovo esse sono certamente
+
+buono e nobile, e ciascuno di questi in sommo grado; se dobbiamo
+
+Prendi come giusto il giudizio dell'uomo buono, poiché egli giudica come noi abbiamo.
+
+disse.
+
+Dunque la felicità è la più eccellente, la più nobile e la più piacevole,
+
+e questi attributi non sono separati come nel ben noto Delio.
+
+iscrizione—
+
+Nobilissimo è ciò che è più giusto, ma ottima è la salute;
+
+E naturalmente piacevolissimo è l'ottenere i propri desideri.
+
+Poiché tutte queste coesistono nei migliori atti del lavorare: e diciamo che
+
+La felicità è queste, o una, cioè la migliore di esse.
+
+Tuttavia è del tutto evidente che richiede l'aggiunta di
+
+beni esterni, come abbiamo detto: perché senza strumenti è
+
+impossibile, o per lo meno non facile, compiere azioni nobili: poiché
+
+Gli amici, il denaro e l’influenza politica sono in certo modo strumenti.
+
+onde molte cose si fanno: alcune cose vi è di nuovo una deficienza.
+
+in cui la beatitudine dell'uomo; buona nascita, per esempio, o buona prole,
+
+o anche la [bellezza](/concepts/beauty) personale: poiché egli non è affatto capace di Felicità, che
+
+è molto brutto, o è mal nato, o solitario e senza figli; e tanto meno
+
+forse supponendo che egli abbia figli o amici molto cattivi, o che abbia
+
+Perdemmo i buoni per morte. Come abbiamo già detto, l'aggiunta di
+
+Una prosperità di questo genere sembra proprio necessaria per completare l'idea di
+
+Felicità; quindi alcuni annoverano la buona fortuna, e altri la virtù, con
+
+Felicità.
+
+<span class="atom-split" data-atom="009" data-title="Chapter VII. (parte 1)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
 
 And hence too a question is raised, whether it is a thing that can be
 
@@ -1074,7 +2042,93 @@ told of Priam: but the man who has experienced such fortune and died in
 
 wretchedness, no man calls happy.
 
-<span class="atom-split" data-atom="010" data-title="Chapter VIII. (1/11)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+E quindi si solleva anche una questione, se sia una cosa che può essere.
+
+apprese, o acquisite per abitudine o per disciplina di altro genere,
+
+o se viene per via di dispensazione divina, o anche nel
+
+via di [caso](/concepts/fortune).
+
+Ora, certamente, se qualcos'altro è un dono degli Dei agli uomini, lo è.
+
+probabile che anche la Felicità sia un loro dono, e specialmente perché
+
+di tutti i beni umani è il più alto. Ma questo, forse, è un
+
+questione appartenente più propriamente a un'indagine diversa da
+
+il nostro: ed è ben chiaro, che sulla supposizione del suo non
+
+essendo mandato direttamente dagli Dei, ma giungendo a noi per ragion di virtù
+
+e l'apprendimento di un certo tipo, o disciplina, è tuttavia uno dei
+
+le cose più divine; perché il premio e il Fine della virtù è manifestamente
+
+alcunché di eccellentissimo, anzi divino e beato.
+
+Sarà anche, su tale supposizione, ampiamente partecipato, poiché può.
+
+attraverso l'apprendimento e la diligenza di un certo tipo esistono in tutti coloro che hanno
+
+non è stato mutilato per la virtù.
+
+E se è meglio che siamo felici così piuttosto che per caso,
+
+questo è di per sé un argomento che la cosa stia così; perché quelle cose
+
+che sono nel modo della natura, e in simil modo dell'arte, e di ogni
+
+la causa, e specialmente la migliore causa, sono per natura nel modo migliore
+
+possibile: lasciarli al caso ciò che è più grande e più nobile sarebbe
+
+essere molto in disarmonia con tutti questi fatti.
+
+La questione può essere determinata anche da un riferimento alla nostra definizione di
+
+La felicità, che essa è un'operazione dell'anima nel modo dell'eccellenza o
+
+virtù di una certa specie: e degli altri beni, alcuni dobbiamo averli per
+
+cominciare con, e quelle che sono cooperative e utili sono date da
+
+la natura come strumenti.
+
+Queste considerazioni si armonizzeranno anche con ciò che abbiamo detto al
+
+principio: poiché supponemmo che il Fine di πολιτικὴ fosse eccellentissimo:
+
+Ora questo conferisce la massima cura nel rendere i membri della comunità di un
+
+certo carattere; buono che è e atto a fare ciò che è onorevole.
+
+A ragione quindi né bue né cavallo né alcun altro animale bruto.
+
+chiamiamo felice, poiché nessuno di essi può partecipare a tale operare: e per
+
+questa stessa ragione un bambino non è felice neanche, perché a cagione della sua
+
+Tenera età egli non può ancora compiere tali azioni: se il termine viene applicato,
+
+È a mo' di anticipazione.
+
+Poiché per costituire la Felicità, ci deve essere, come abbiamo detto, completa.
+
+virtù e una vita compiuta: poiché molti sono i mutamenti e i casi di ogni sorta.
+
+sorgono durante una vita, e colui che è più prospero può trovarsi coinvolto
+
+in grandi sventure nella sua vecchiaia, come nei poemi eroici il racconto è
+
+Si è narrato di Priamo: ma l’uomo che ha provato tale fortuna ed è morto in
+
+La miseria, nessun uomo chiama felice.
+
+<span class="atom-split" data-atom="010" data-title="Chapter VIII. (parte 1)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
 
 Are we then to call no man happy while he lives, and, as Solon would
 
@@ -1262,7 +2316,195 @@ will have the things specified, but blessed as Men.
 
 On these points then let it suffice to have denned thus much.
 
-<span class="atom-split" data-atom="011" data-title="Chapter IX. (1/9)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo allora non chiamare felice nessun uomo mentre vive, e, come Solone vorrebbe,
+
+Abbiate noi, guardate alla fine? E ancora, se dobbiamo mantenere questo
+
+posizione, è allora felice un uomo quando è morto? o non è questo un
+
+completa assurdità, specialmente in noi che diciamo che la Felicità è un'operazione di un
+
+Certo tipo?
+
+Se invece non affermiamo che il morto è felice, e
+
+Solone non intende questo, ma solo che allora si sarebbe al sicuro in
+
+dichiarando un uomo felice, come essendo d'ora innanzi fuori dalla portata di
+
+mali e sventure, anche questo ammette qualche disputa, poiché è
+
+pensava che il morto ha qualcosa tanto del bene quanto del male (se, come noi
+
+deve ammettere, un uomo può avere quando è vivo ma non è consapevole del
+
+circostanze), come onore e disonore, e buona e cattiva fortuna di
+
+figli e discendenti in generale.
+
+Né questa opinione è a sua volta senza le sue difficoltà: poiché, dopo che un uomo ha
+
+visse in beatitudine fino alla vecchiaia e morì di conseguenza, molti cambiamenti possono
+
+accadergli in ragione dei suoi discendenti; alcuni di essi possono essere buoni e
+
+ottengono posizioni nella vita conformi ai loro meriti, altri ancora piuttosto
+
+il contrario: è evidente anche che i discendenti possono in diversi
+
+Intervalli o gradi stanno in ogni sorta di relazioni con il
+
+antenati. Assurda invero sarebbe la posizione che anche i morti
+
+l'uomo deve mutare con esse e divenire a un tempo felice e a
+
+Un altro miserabile. Assurdo però è, d’altra parte, che il
+
+gli affari dei discendenti non dovrebbero in alcun grado e in nessun tempo
+
+influenzare gli antenati.
+
+Ma dobbiamo ritornare al punto sollevato per primo, poiché il presente
+
+La questione sarà facilmente determinata da ciò.
+
+Se allora dobbiamo guardare alla fine e poi proclamare beato l'uomo,
+
+non come essendo così, ma come essendo stato così in un tempo precedente, certamente esso
+
+è assurdo che quando egli è felice la verità non sia da affermarsi di
+
+lui, perché non siamo disposti a dichiarare felici i viventi a ragione.
+
+della loro soggezione ai cambiamenti, e poiché, mentre noi abbiamo concepito
+
+della felicità come qualcosa di stabile e in nessun modo facilmente mutevole, il fatto
+
+è che la buona e la cattiva sorte circolano costantemente attorno allo stesso
+
+persone: poiché è abbastanza chiaro, che se dobbiamo dipendere dal
+
+le fortune degli uomini, spesso dovremo chiamare felice lo stesso uomo, e un
+
+poco dopo infelice, rappresentando così il nostro uomo felice,
+
+Camaleontico, e basato sulla putredine.
+
+Non è questa la soluzione? che rendere la nostra frase dipendente dal
+
+i cambiamenti di fortuna, non è in alcun modo giusto: poiché non in essi sta il bene,
+
+o gli infermi, ma sebbene la vita umana abbia bisogno di questi come accessori (che noi
+
+hanno già permesso), le operazioni nella via della virtù sono ciò che
+
+determinano la Felicità, e il contrario il contrario.
+
+E, a proposito, la questione che è stata qui discussa, testimonia
+
+incidentalmente alla verità della nostra esposizione della Felicità. Infatti per
+
+Nulla attacca una stabilità di risultati umani tanto quanto essa fa a.
+
+Le operazioni nella via della virtù, poiché queste sono ritenute più
+
+più durevole persino delle scienze: e di queste ultime ancora la più
+
+Preziose sono le più durature, perché i beati vi dimorano più che altrove.
+
+e più continuamente, che sembra essere la ragione per cui non sono
+
+dimenticato. Dunque questa stabilità che si cerca sarà nel felice.
+
+uomo, e tale sarà per tutta la vita, da sempre, o per lo più, egli
+
+starà facendo e contemplando le cose che sono sulla via di
+
+virtù: e le varie vicende della vita sopporterà nobilissimamente, e a
+
+in ogni tempo e in ogni modo armoniosamente, poiché egli è l'uomo veramente buono,
+
+o, nei termini del nostro proverbio, “un cubo senza difetti.”
+
+E poiché gli accidenti del [caso](/concepts/fortune) sono molti, e differiscono in grandezza.
+
+e la piccolezza, i piccoli pezzi di buona o mala sorte evidentemente non
+
+influenzano l'equilibrio della vita, ma le grandi e numerose, se accadendo
+
+per sempre, renderà la vita più beata (poiché è nella loro natura di
+
+contribuire all'ornamento, e l'usarli viene a essere nobile e
+
+eccellente), ma se per male, esse per così dire contundono e storpiano il
+
+beatitudine: poiché introducono un dolore positivo, e impediscono molti atti di
+
+lavorando. Ma pure in queste, la nobiltà traspare quando un uomo
+
+sopporta contentamente molte e grandi sventure non per insensibilità a
+
+dolore ma perché è nobile e magnanimo.
+
+E se, come abbiamo detto, gli atti dell'operare sono ciò che determinano il
+
+carattere della vita, nessuno dei beati può mai diventare misero,
+
+perché non farà mai quelle cose che sono odiose e meschine. Poiché
+
+l'uomo che è veramente buono e assennato sopporta ogni sorte, presumiamo,
+
+decorosamente, e fa sempre ciò che è più nobile nelle circostanze,
+
+proprio come un buon generale impiega al meglio la forza che ha.
+
+con lui; o un buon calzolaio fa la scarpa più bella che può da
+
+il cuoio che gli è stato dato; e tutti gli altri buoni artigiani
+
+Parimenti. E se così sia, misero mai può l'uomo felice divenire.
+
+essere: Non intendo dire che egli sarà beato qualora cadesse in
+
+sorti come quelle di Priamo.
+
+Né, in verità, è mutevole e facilmente cangiante, poiché da un lato
+
+e dalla sua felicità egli non sarà facilmente scosso né dall'ordinario.
+
+sventure, ma, se mai, da quelle che sono grandi e numerose; e,
+
+dall'altro, dopo tali sventure egli non può riacquistare la sua felicità in un
+
+poco tempo; ma, se mai, in un lungo e completo periodo, durante
+
+di cui si è reso padrone di grandi e nobili cose.
+
+Perché allora non dovremmo chiamare felice l'uomo che opera nella via di
+
+virtù perfetta, ed è fornita di beni esterni sufficienti per
+
+recitando la sua parte nel dramma della vita: e questo durante nessuna ordinaria
+
+periodo ma tale da costituire una vita completa come siamo stati
+
+descrivendolo.
+
+Oppure dobbiamo aggiungere, che non solo egli deve vivere così, ma la sua morte deve essere
+
+Coerentemente con tale vita, poiché il futuro ci è oscuro, e
+
+La felicità supponiamo che sia in ogni modo un fine e completa. E, se
+
+Se così è, li chiameremo beati tra i viventi che hanno e
+
+avranno le cose specificate, ma benedetti come Uomini.
+
+Su questi punti, quindi, basti aver definito tanto.
+
+<span class="atom-split" data-atom="011" data-title="Chapter IX. (parte 1)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
 
 Now that the fortunes of their descendants, and friends generally,
 
@@ -1312,7 +2554,57 @@ affect the dead somewhat: but in such kind and degree as neither to
 
 make the happy unhappy nor produce any other such effect.
 
-<span class="atom-split" data-atom="012" data-title="Chapter X. (1/7)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora che le sorti dei loro discendenti, e degli amici in generale,
+
+non contribuiscono nulla a formare la condizione dei morti, è
+
+manifestamente una nozione molto insensibile, e contraria alle opinioni correnti.
+
+Ma poiché le cose che avvengono sono molte, e differiscono in ogni sorta di
+
+modi, e alcuni toccano più da vicino, altri meno, di entrare nel minuto.
+
+distinzioni particolari sarebbero evidentemente un lungo e interminabile compito: e
+
+Così può bastare parlare in generale e per sommi capi.
+
+Se allora, quanto alle sventure che accadono a sé stesso, alcune hanno un
+
+certo peso e far pendere la bilancia della vita, mentre altri sono, per così
+
+parla, più leggero; così è similmente con quelle che accadono a tutti i nostri
+
+amici del pari; se inoltre, se coloro a cui ciascuna [sofferenza](/concepts/suffering) tocca siano
+
+vivo o morto fa molta più differenza che in una tragedia il
+
+il presupporre o l'effettiva perpetrazione dei vari crimini e orrori,
+
+dobbiamo porre in conto anche questa differenza, e ancor più
+
+forse il dubbio concernente i morti se essi realmente partecipino di
+
+alcun bene o male; sembra risultare da tutte queste considerazioni,
+
+che se alcuna cosa penetra il velo e li raggiunge, sia il medesimo bene.
+
+o cattivo, deve essere qualcosa di triviale e piccolo, o in sé o a
+
+loro; o almeno di tale grandezza o di tale specie da non fare
+
+Beati loro che non sono altrimenti così, né privare del loro.
+
+[beatitudine](/concepts/amor_dei_intellectualis) loro che sono.
+
+È chiaro quindi che le buone o cattive fortune dei loro amici fanno
+
+colpire alquanto i morti: ma in tale genere e grado da non
+
+rendere infelici i felici né produrre alcun altro simile effetto.
+
+<span class="atom-split" data-atom="012" data-title="Chapter X. (parte 1)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
 
 Having determined these points, let us examine with respect to
 
@@ -1386,7 +2678,81 @@ we all do everything else that is done; now the starting-point and
 
 cause of good things we assume to be something precious and divine.
 
-<span class="atom-split" data-atom="013" data-title="Chapter XI. (1/7)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Determinati questi punti, esaminiamo rispetto a
+
+La felicità, sia che appartenga alla classe delle cose degne di lode o
+
+cose preziose; poiché a quello delle facoltà evidentemente non appartiene.
+
+Ora è manifesto che ogni cosa che è oggetto di lode è lodata.
+
+per essere di un certo genere e avere una certa relazione con qualcosa
+
+altrimenti: per esempio, il giusto, e il valoroso, e in generale il buono.
+
+L'uomo, e la virtù stessa, lodiamo a causa delle azioni e della
+
+risultati: e l'uomo forte, e il corridore veloce, e così via, noi
+
+lode per essere di una certa natura e per avere una certa relazione con
+
+qualcosa di buono ed eccellente (e questo è illustrato da tentativi di
+
+Lodate gli dèi; poiché essi sono presentati in un aspetto ridicolo da
+
+essendo riferito al nostro criterio, e questo risulta dal fatto che
+
+Ogni lode, come abbiamo detto, implica riferimento a uno standard). Ora
+
+se è a tali oggetti che appartiene la lode, è evidente che ciò che
+
+è applicabile agli oggetti migliori non è lode, ma qualcosa di più alto.
+
+e meglio: il che è una pura questione di fatto, poiché non solo chiamiamo il
+
+dèi beati e felici, ma anche degli uomini dichiariamo beati quelli che
+
+rassomigliano sommamente agli dèi. E parimenti rispetto ai beni;
+
+nessun uomo pensa a lodare la Felicità come fa con il principio di
+
+giustizia, ma la chiama beata, come essendo in qualche modo più divina e più
+
+Per favore, fornisci il testo inglese da tradurre.
+
+Anche Eudosso si pensa abbia avanzato un argomento valido a sostegno.
+
+della pretesa del piacere al premio più alto: per il fatto che,
+
+Sebbene sia una delle cose buone, non è lodata, egli prese per un
+
+indicazione della sua superiorità rispetto a quelle che sono oggetto di lode: a
+
+Superiorità egli attribuiva anche a un dio e al Sommo Bene, sul
+
+fondamento che essi formano lo standard a cui tutto il resto è
+
+riferito. Infatti la lode si applica alla virtù, perché rende gli uomini atti a fare
+
+ciò che è nobile; ma encomi a opere determinate del corpo o della mente.
+
+Tuttavia, è forse più adatto a un regolare trattato sugli encomi.
+
+Trattare questo argomento con esattezza: è sufficiente per il nostro scopo che
+
+da quanto è stato detto è evidente che la Felicità appartiene al
+
+classe di cose preziose e finali. E sembra essere così anche perché
+
+del suo essere un punto di partenza; che lo è, in quanto in vista di esso.
+
+Tutti noi facciamo tutto il resto che si fa; ora il punto di partenza e
+
+La causa delle cose buone supponiamo essere qualcosa di prezioso e divino.
+
+<span class="atom-split" data-atom="013" data-title="Chapter XI. (parte 1)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
 
 Moreover, since Happiness is a kind of working of the soul in the way
 
@@ -1564,7 +2930,185 @@ praise the man of science in right of his mental state; and of
 
 these such as are praiseworthy we call Excellences.
 
-<span class="atom-split" data-atom="014" data-title="Chapter I. (2/10)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Inoltre, poiché la Felicità è una kind di attività dell'anima secondo il modo
+
+della perfetta Eccellenza, dobbiamo indagare intorno all'Eccellenza: poiché così
+
+probabilmente avremo una visione più chiara riguardo alla Felicità; e ancora,
+
+colui che è realmente uno statista è generalmente ritenuto aver trascorso la maggior parte
+
+si dà pena per questo, poiché desidera rendere i cittadini buoni e obbedienti a
+
+le leggi. (Per esempi di questa classe abbiamo i legislatori dei
+
+Cretesi e Lacedemoni e qualsivoglia altri siffatti vi siano stati.)
+
+Ma se questa investigazione appartiene propriamente alla πολιτικὴ, allora chiaramente
+
+L'indagine sarà conforme al nostro disegno originario.
+
+Ebbene, dobbiamo indagare intorno all'Eccellenza, cioè all'Eccellenza Umana.
+
+naturalmente, perché era il Sommo Bene dell'Uomo e la Felicità di
+
+L'uomo di cui stavamo facendo richiesta proprio ora.
+
+E per Eccellenza Umana intendiamo non quella del corpo dell'uomo ma quella della sua
+
+anima; poiché chiamiamo la Felicità un'operazione dell'Anima.
+
+E se così è, è evidente che qualche conoscenza della natura del
+
+L'anima è necessaria allo statista, proprio come per l'oculista un
+
+conoscenza dell'intero corpo, e tanto più nella misura in cui πολιτικὴ
+
+è più preziosa e più alta dell'arte della guarigione: e in effetti
+
+i medici della classe superiore invero si affaccendano molto col
+
+conoscenza del corpo.
+
+Dunque lo statista deve considerare la natura dell'Anima: ma egli
+
+Deve farlo con questi scopi in vista, e solo per quanto possa bastare.
+
+per gli oggetti della sua speciale indagine: per portare le sue speculazioni
+
+a una maggiore esattezza è forse un compito più laborioso di quanto non cada
+
+Nella sua provincia.
+
+In effetti, le poche affermazioni fatte sull'argomento nei miei trattati popolari
+
+sono abbastanza, e pertanto li adotteremo qui: come, che il
+
+L'anima consiste di due parti, l'Irrazionale e la Razionale (quanto a
+
+se queste siano effettivamente divise, come sono le parti del corpo, e
+
+tutto ciò che è capace di divisione; o sono solo metafisicamente
+
+Dicendo due, essendo per natura inseparabili, come sono il convesso e il concavo.
+
+circonferenze, non importa in rapporto al nostro presente scopo). E di
+
+l'Irrationale, l'una parte sembra comune ad altri oggetti, e in effetti
+
+vegetativa; intendo la causa del nutrimento e della crescita (poiché una tale
+
+facoltà dell'Anima che si supporrebbe esistere in tutte le cose che
+
+ricevere nutrimento, anche negli embrioni, e questo lo stesso che nel
+
+perfette creature; poiché ciò è più probabile che non che sia un
+
+diverso).
+
+Ora l'Eccellenza di ciò manifestamente non è propria dell'umano.
+
+specie ma comune ad altre: infatti questa parte e questa facoltà è pensiero.
+
+operare massimamente nel tempo del sonno, e l'uomo buono e il cattivo sono minimamente distinguibili.
+
+distinguibili durante il sonno; onde è un detto comune che durante
+
+una metà della vita non c'è differenza tra il felice e il
+
+misero; e questo si accorda con le nostre anticipazioni, poiché il sonno è un
+
+inattività dell'anima, in quanto è denominata buona o cattiva,
+
+senonché in qualche guisa alcuni dei suoi movimenti trovano la loro via attraverso
+
+il velo e così i buoni giungono ad avere sogni migliori degli uomini comuni.
+
+Ma basta così: dobbiamo rinunciare a ogni ulteriore menzione del nutritivo.
+
+parte, poiché non è naturalmente capace dell'Eccellenza che è
+
+peculiarmente umano.
+
+E sembra esserci un'altra Natura Irrazionale dell'Anima, che tuttavia
+
+in qualche modo partecipa della Ragione. Poiché nell'uomo che controlla i suoi appetiti,
+
+e in colui che si risolve a farlo e fallisce, lodiamo la Ragione o
+
+Parte razionale dell'Anima, perché esorta rettamente e al meglio.
+
+certo: ma chiaramente c'è in loro, accanto alla Ragione, qualche altra
+
+principio naturale che lotta con e contrasta la Ragione.
+
+(Poiché in termini semplici, proprio come le membra paralizzate del corpo quando le loro
+
+i proprietari li sposterebbero a destra sono trascinati in direzione contraria
+
+direzione a sinistra, così è nel caso dell'Anima, poiché il
+
+Gli impulsi degli uomini che non possono controllare i loro appetiti sono contrari.
+
+punti: la differenza è che nel caso del corpo noi vediamo ciò che
+
+è portato via ma nel caso dell'anima noi no. Ma, può darsi,
+
+Non per questo meno dobbiamo noi supporre che vi sia nel
+
+Anima anche qualcosa oltre la Ragione, che è opposta a questa e
+
+va contro di esso; quanto al modo in cui differisce, ciò è irrilevante.)
+
+Ma di Ragione anche questo evidentemente partecipa, come abbiamo detto: imperciocché
+
+per esempio, nell'uomo che ha il dominio di sé obbedisce alla Ragione: e forse in
+
+l'uomo dalla perfetta padronanza di sé, o l'uomo coraggioso, è ancora
+
+più obbedienti; in esse concorda interamente con la Ragione.
+
+Dunque l'Irrazionale è manifestamente duplice: l'una parte, il meramente
+
+vegetativa, non ha parte della Ragione, ma di quella del desiderio, o appetizione.
+
+Generalmente, ne partecipa in un certo senso, nella misura in cui è obbediente.
+
+ad esso e capace di sottomettersi al suo dominio. (Così anche nell'espressione comune)
+
+diciamo di avere λόγος di nostro padre o degli amici, e questo in un differente
+
+senso da quello in cui diciamo di avere λόγος della matematica.)
+
+Ora che l'Irrazionale è in qualche modo persuaso dalla Ragione,
+
+ammonizione, e ogni atto di rimprovero e di esortazione indicano. Se quindi
+
+Dobbiamo dire che anche questo ha la Ragione, quindi il Razionale, così come.
+
+l'Irrazionale, sarà duplice, l'uno sommamente e in sé, l'
+
+altri prestandogli una sorta di rispetto filiale.
+
+L'Eccellenza dell'uomo, dunque, si divide in conformità con questo.
+
+differenza: facciamo due classi, chiamando l'una Intellettuale, e la
+
+altra Morale; scienza pura, intelligenza e pratico
+
+sapienza—Intellettuale: liberalità, e perfezionato dominio di sé—Morale: in
+
+Parlando del carattere morale di un uomo, non diciamo che egli sia uno scientifico.
+
+o intelligente ma un uomo mite, o uno di perfetta padronanza di sé: e noi
+
+lodate l'uomo di scienza in virtù del suo stato mentale; e di
+
+Quelle che sono degne di lode chiamiamo eccellenze.
+
+<span class="atom-split" data-atom="014" data-title="Chapter I. (parte 2)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
 
 Well: human Excellence is of two kinds, Intellectual and Moral: now
 
@@ -1682,7 +3226,125 @@ childhood, makes not a small but an important difference, or rather I
 
 would say it makes all the difference.
 
-<span class="atom-split" data-atom="015" data-title="Chapter II. (2/11)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Orbene: l'Eccellenza umana è di due specie, intellettuale e morale: ora
+
+l'Intellettuale sorge originariamente, ed è accresciuto successivamente,
+
+dall'insegnamento (per la maggior parte, cioè), e necessita quindi
+
+esperienza e tempo; mentre la Morale deriva da [costume](/concepts/custom), e così il
+
+Termine greco che lo denota non è che una lieve deflessione dal termine
+
+denotando l'usanza in quella lingua.
+
+Da questo fatto è manifesto che nessuna delle Virtù Morali viene a
+
+essere in noi meramente per natura: a causa di cose che esistono per natura,
+
+Nulla può essere cambiato dalla consuetudine: una pietra, per esempio, per natura.
+
+gravitando verso il basso, non potrebbe mai per costume essere indotto ad ascendere, non
+
+anche se si tentasse di abituarlo gettandolo su diecimila
+
+volte; né la fila poteva di nuovo essere portata a discendere, né in effetti poteva
+
+qualsiasi cosa la cui natura è in un modo portata dalla consuetudine a essere in
+
+un'altra. Le virtù allora vengono ad essere in noi né per natura, né in
+
+A dispetto della natura, ma siamo forniti dalla natura di una capacità.
+
+per riceverli e sono perfezionati in essi attraverso la consuetudine.
+
+Inoltre, in tutti i casi in cui riceviamo le cose per natura, riceviamo le facoltà.
+
+prima e compiere gli atti del lavorare in seguito; un'illustrazione di
+
+che è offerto dal caso dei nostri sensi corporei, poiché non era da
+
+avendo spesso visto o udito che abbiamo ricevuto questi sensi, ma solo il
+
+le avevamo e così le esercitavamo, ma non le avevamo.
+
+perché le avevamo esercitate. Ma le Virtù le otteniamo per prima.
+
+compiendo singoli atti di lavoro, che, ancora, è il caso di altri.
+
+cose, come le arti per esempio; poiché ciò che dobbiamo fare quando abbiamo
+
+appreso come, queste impariamo come farle facendo: gli uomini vengono ad essere.
+
+i costruttori, per esempio, costruendo; gli arpisti, suonando sulla
+
+harp: esattamente così, compiendo azioni giuste diventiamo giusti; compiendo
+
+Con le azioni di padronanza di sé giungiamo a essere perfezionati nella padronanza di sé.
+
+e compiendo azioni coraggiose, coraggiosi.
+
+E alla verità di questa testimonianza è recato da ciò che accade in
+
+comunità: perché i legislatori rendono buoni i singoli membri
+
+uomini per abitudine, e questa è certamente l'intenzione di ogni
+
+legislatore, e tutti coloro che non lo attuano bene mancano il loro intento; e
+
+In ciò consiste la differenza tra una buona Costituzione e una cattiva.
+
+Inoltre, ogni Virtù è o prodotta o distrutta dalle e mediante le
+
+Stessissime circostanze: anche l'arte in egual maniera; intendo dire che è per.
+
+Suonando la cetra, che tanto i buoni quanto i cattivi suonatori di cetra sono.
+
+formati: e similmente i costruttori e tutti gli altri; costruendo bene gli uomini
+
+diventeranno buoni costruttori; facendolo male, cattivi: infatti, se questo
+
+Non fosse stato così, non vi sarebbe stato bisogno di istruttori, ma tutti
+
+Uomini sarebbero stati subito buoni o cattivi nelle loro rispettive arti senza
+
+loro.
+
+Così pure, dunque, è per le Virtù: poiché agendo nelle varie
+
+relazioni in cui siamo gettati con i nostri simili, veniamo ad essere,
+
+alcuni giusti, alcuni ingiusti: e agendo in posizioni pericolose ed essendo
+
+abituati a provare timore o fiducia, veniamo ad essere, alcuni coraggiosi,
+
+altri codardi.
+
+Parimenti, è anche così rispetto alle occasioni della concupiscenza e dell'[ira](/concepts/anger):
+
+poiché alcuni uomini giungono a essere perfezionati nell’autodominio e nella mitezza, altri
+
+privi di ogni autocontrollo e passionali; l'una classe col comportarsi
+
+in un modo sotto di essi, l'altro comportandosi in un altro. O, in uno
+
+parola, le abitudini sono prodotte dagli atti di operare simili ad esse:
+
+e quindi quello che dobbiamo fare è dare un certo carattere a questi
+
+atti particolari, perché le abitudini formate corrispondono agli
+
+differenze di questi.
+
+Dunque, sia che siamo abituati in questo o in quel modo fin da
+
+infanzia, fa non una piccola ma un'importante differenza, o piuttosto io
+
+Direbbe che fa tutta la differenza.
+
+<span class="atom-split" data-atom="015" data-title="Chapter II. (parte 2)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
 
 Since then the object of the present treatise is not mere speculation,
 
@@ -1904,7 +3566,229 @@ originally generated, and that it exerts itself on the same
 
 circumstances out of which it was generated.
 
-<span class="atom-split" data-atom="016" data-title="Chapter III. (3/11)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Poiché quindi l'oggetto del presente trattato non è la mera speculazione,
+
+come è di alcuni altri (poiché indaghiamo non soltanto per poter
+
+sapere cosa sia la virtù ma che possiamo diventare virtuosi, altrimenti sarebbe stato
+
+stato inutile), dobbiamo considerare, quanto alle azioni particolari, come siamo
+
+farle, perché, come abbiamo appena detto, la qualità delle abitudini
+
+ciò che sarà formato dipende da questi.
+
+Ora, che dobbiamo agire in accordo con la Retta Ragione è un generale
+
+massima, e può per il presente essere data per scontata: parleremo di
+
+ciò in appresso, e dire sia che cosa sia la Retta Ragione, e quali siano i suoi
+
+relazioni con le altre virtù.
+
+Ma sia questo punto innanzi tutto pienamente compreso fra noi, che tutto
+
+Ciò che può dirsi intorno all'azione morale deve dirsi, per così dire, a grandi linee,
+
+e non esattamente: poiché, come abbiamo osservato al principio, tale ragionamento
+
+solo deve essere richiesto quanto la natura dell'argomento ammette,
+
+e le questioni dell'azione morale e della convenienza non hanno più alcuna fissità.
+
+che questioni di salute. E se il soggetto nelle sue massime generali è
+
+tale, tanto meno nella sua applicazione ai casi particolari è esattezza
+
+conseguibili: perché queste non cadono sotto alcuna arte o sistema di regole,
+
+ma deve essere lasciato in ogni caso ai singoli agenti di badare.
+
+Alle esigenze del caso particolare, come è nell'arte di
+
+la guarigione, o quella di navigare una nave. Tuttavia, sebbene il presente
+
+Il soggetto è confessatamente tale, dobbiamo cercare di fare quanto possiamo per esso.
+
+Prima adunque questo dee notarsi, che è la natura di tali cose il
+
+essere corrotta dal difetto e dall'eccesso; come vediamo nel caso della salute e
+
+forza (poiché per l'illustrazione delle cose che non possono essere vedute noi
+
+bisogna usare quelli che possono), poiché l'allenamento eccessivo indebolisce la forza.
+
+così come carente: cibo e bevanda, similmente, in troppo grande o
+
+quantità troppo piccole, nuocciono alla salute: mentre in debita proporzione esse
+
+causare, accrescere e preservarla.
+
+Così è pertanto con le abitudini della perfetta Padronanza di Sé e
+
+Coraggio e il resto delle Virtù: per l'uomo che fugge da e
+
+Teme tutte le cose, e non si oppone mai a nulla, diventa un
+
+codardo; e chi non teme nulla, ma si avventa su tutto, viene a essere
+
+rash. Parimenti, colui che gusta di ogni piacere e si astiene
+
+da nessuno viene il perdere ogni autocontrollo; mentre colui che evita tutto, come
+
+fanno gli ottusi e i buffoni, viene per così dire a perdere le sue facoltà di
+
+Percezione: vale a dire, le abitudini della raffinata Padronanza di Sé
+
+Il coraggio è corrotto dall'eccesso e dal difetto, ma dallo stato medio è preservato.
+
+preservato.
+
+Inoltre, non solo il sorgere, la crescita e il guastarsi del
+
+le abitudini provengono da e mediante le stesse circostanze, ma anche gli atti di
+
+L'operare dopo che le abitudini sono formate sarà esercitato sulle stesse: poiché
+
+Così è anche per quelle altre cose che sono più direttamente questioni.
+
+della vista, la forza per esempio: poiché questa viene dal prendere molto di
+
+cibo e facendo molto lavoro, e l'uomo che ha raggiunto la forza è
+
+i più capaci di fare queste cose: e così è per le Virtù, poiché non solo
+
+Noi, astenendoci dai piaceri, giungiamo a essere perfezionati nella Padronanza di Sé.
+
+ma quando siamo giunti a essere così, possiamo astenercene al meglio: similmente
+
+anche con il Coraggio: poiché è abituandoci a disprezzare gli oggetti
+
+della paura e dell'opporci ad esse che giungiamo a essere coraggiosi; e dopo
+
+Siamo venuti all'essere sicché saremo i più capaci di resistere contro tali.
+
+oggetti.
+
+E come prova della formazione delle abitudini dobbiamo prendere il piacere.
+
+o dolore che succede agli atti; poiché egli è perfezionato nella padronanza di sé.
+
+che non solo si astiene dai piaceri del corpo, ma è lieto di farlo;
+
+mentre colui che si astiene ma gli dispiace farlo non ha padronanza di sé: egli
+
+Di nuovo è coraggioso chi si oppone al pericolo, sia con positivo.
+
+piacere o almeno senza alcun dolore; mentre colui che lo fa con dolore
+
+non è coraggioso.
+
+Poiché la Virtù Morale ha per sua materia i piaceri e i dolori, perché
+
+Per cagione del piacere facciamo ciò che è male, e per cagione del dolore ci asteniamo.
+
+fare ciò che è giusto (per la qual cosa, come osserva Platone, gli uomini dovrebbero
+
+sono stati addestrati fin dalla loro infanzia a ricevere piacere e
+
+dolore dagli oggetti propri, poiché questa è la giusta [educazione](/concepts/education)). Ancora:
+
+poiché le Virtù hanno a che fare con azioni e sentimenti, e su ogni
+
+Al sentimento e ad ogni azione piacere e dolore seguono, ecco di nuovo.
+
+un'altra prova che la Virtù ha per sua materia il piacere e il dolore.
+
+Lo stesso è mostrato anche dal fatto che le punizioni sono effettuate.
+
+attraverso la strumentalità di questi; perché essi sono della natura di
+
+rimedi, ed è proprio dei rimedi essere i contrari del
+
+mali che curano. Ancora, per citare quanto detto prima: ogni [abitudine](/concepts/custom) del
+
+L'anima per sua stessa natura ha relazione con le cose, e su di esse esercita sé stessa.
+
+dello stesso genere di quelli da cui è naturalmente deteriorato o
+
+emendato: ora tali abitudini vengono a essere viziose per ragione dei piaceri.
+
+e dolori, cioè, da uomini che rispettivamente perseguono o evitano, o
+
+quali non debbono, o in tempi non debiti, o in modo non convenevole, e così
+
+avanti (per la qual cosa, tra l'altro, alcune persone definiscono le Virtù come
+
+certi stati di impassibilità e di assoluta quiete, ma essi sono
+
+sbagliato perché parlano senza modificazione, invece di aggiungere 'come'.
+
+“esse debbono,” “come non debbono,” e “quando,” e così via). La virtù quindi
+
+è supposto essere quell'abito che è tale, in relazione ai piaceri e
+
+le fatiche, per produrre i migliori risultati, e il Vizio il contrario.
+
+Le seguenti considerazioni possono anche servire a mettere questo in chiaro.
+
+luce. Vi sono principalmente tre cose che ci muovono alla scelta e tre
+
+alla fuga, l'onesto, l'utile, il piacevole; e i loro
+
+tre contrari, il disonorevole, il dannoso, e il doloroso: ora
+
+L'uomo buono è incline a essere nel giusto, e l'uomo cattivo nell'errore, rispetto a
+
+Tutte queste, naturalmente, ma soprattutto rispetto al piacere:
+
+perché non solo questo gli è comune con tutti gli animali ma anche è
+
+un concomitante di tutte quelle cose che muovono alla scelta, poiché sia il
+
+L'onesto e l'utile danno un'impressione di piacere.
+
+Inoltre, cresce con noi tutti fin dall'infanzia, e perciò è cosa difficile.
+
+rimuovere da noi stessi questo sentimento, radicato com'è nella nostra stessa.
+
+vita.
+
+Ancora, adottiamo il piacere e il dolore (alcuni di noi più, e alcuni meno) come
+
+la misura anche delle azioni: per questa causa quindi tutta la nostra impresa.
+
+deve essere con loro, poiché ricevere impressioni giuste o sbagliate di
+
+Il piacere e il dolore è cosa di non poca importanza rispetto al
+
+azioni. Ancora una volta; è più difficile, come dice Eraclito, combattere contro
+
+piacere che contro [ira](/concepts/anger): ora si tratta di ciò che è più che
+
+comunemente difficile che l'arte venga all'essere, e la virtù pure, perché
+
+in ciò che è difficile il bene è di un ordine superiore: e così per
+
+Anche per questa ragione sia la virtù che la filosofia morale generalmente devono interamente
+
+si affaccendano riguardo ai piaceri e ai dolori, perché colui che usa
+
+Questi che bene faranno saranno buoni, colui che così male farà sarà cattivo.
+
+Intendasi quindi che abbiamo affermato la Virtù avere per suo
+
+oggetto-materia piaceri e dolori, e che esso è o accresciuto o
+
+guastato dalle stesse circostanze (diversamente usate) da cui è
+
+originariamente generato, e che si esercita sullo stesso
+
+circostanze dalle quali è stato generato.
+
+<span class="atom-split" data-atom="016" data-title="Chapter III. (parte 3)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
 
 Now I can conceive a person perplexed as to the meaning of our
 
@@ -1986,7 +3870,89 @@ then cannot be well bodily under such a course of treatment, so neither
 
 can those be mentally by such philosophising.
 
-<span class="atom-split" data-atom="017" data-title="Chapter IV. (2/12)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+The source text appears incomplete — it ends mid-sentence with "our". Please provide the full passage so I can translate it faithfully into Italian.
+
+affermazione, che gli uomini devono compiere azioni giuste per diventare giusti, e quelle di
+
+padronanza di sé per acquisire l'[abitudine](/concepts/custom) della padronanza di sé; «infatti», soleva dire,
+
+se gli uomini fanno le azioni, essi hanno già le rispettive virtù,
+
+così come gli uomini sono grammatici o musicisti quando compiono le azioni di
+
+l’una o l’altra arte.” Non potremmo rispondere dicendo che non è così anche nel
+
+caso delle arti menzionate: perché un uomo può produrre qualcosa
+
+grammaticale o per [caso](/concepts/fortune) o per suggerimento di un altro; ma poi
+
+Solo sarà egli grammatico quando non solo produce qualcosa.
+
+grammaticale ma lo fa da grammatico, cioè in virtù del
+
+conoscenza grammaticale che egli stesso possiede.
+
+Inoltre, i casi delle arti e delle virtù non sono paralleli: perché
+
+quelle cose che sono prodotte dalle arti hanno la loro eccellenza in
+
+se stessi, e quindi è sufficiente che questi quando prodotti
+
+dovrebbero essere in un certo stato: ma quelle che sono prodotte nel modo
+
+delle virtù, sono, propriamente parlando, azioni di un certo tipo (ad esempio
+
+della Giustizia o della perfetta Padronanza di Sé), non semplicemente se in sé stesse esse
+
+sono in un certo stato ma se anche colui che le fa le fa essendo
+
+se stesso in un certo stato, prima se sa ciò che fa, poi se
+
+Con deliberata preferenza, e con tale preferenza per le cose
+
+per se stesso; e in terzo luogo se egli stesso è stabile e non incline a mutare. Ora
+
+A costituire il possesso delle arti non sono annoverati questi requisiti.
+
+in, eccettuato l'unico punto della conoscenza: mentre per il possesso del
+
+delle virtù il sapere giova poco o nulla, ma gli altri requisiti
+
+Giovano non poco, ma, in fatto, sono tutto, e questi requisiti
+
+Di fatto provengono dal compiere spesso le azioni di
+
+Giustizia e perfezionato dominio di sé.
+
+I fatti, è vero, sono chiamati con i [nomi](/positions/nominalism) di queste abitudini quando
+
+sono tali quali farebbe l'uomo giusto o perfettamente padrone di sé; ma
+
+Non è in possesso delle virtù chi semplicemente compie questi atti, ma
+
+colui che anche così le compie come le compiono i giusti e i temperanti.
+
+Abbiamo quindi ragione nel dire, che queste virtù sono formate in un uomo da
+
+il suo fare le azioni; ma nessuno, se egli le lasciasse non fatte,
+
+Sarebbe persino sulla via di diventare un uomo buono. Tuttavia la gente in generale fa
+
+non compiono queste azioni, ma rifugiandosi nel parlare lusingano
+
+essi stessi stanno filosofeggiando, e che così saranno uomini buoni:
+
+Agendo in verità molto simili a quei malati che ascoltano il medico.
+
+con grande attenzione ma non fanno nulla di ciò che dice loro: proprio come questi
+
+allora non può essere sano nel corpo sotto un tale corso di trattamento, così neppure
+
+possono quelle essere mentalmente da sì fatto filosofeggiare.
+
+<span class="atom-split" data-atom="017" data-title="Chapter IV. (parte 2)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
 
 Next, we must examine what Virtue is. Well, since the things which
 
@@ -2056,7 +4022,77 @@ Since then the virtues are neither Feelings nor Capacities, it remains
 
 that they must be States.
 
-<span class="atom-split" data-atom="018" data-title="Chapter V. (2/10)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Successivamente, dobbiamo esaminare che cosa sia la Virtù. Bene, poiché le cose che
+
+che vengono a essere nella mente sono, in tutto, di tre specie, Sentimenti,
+
+Capacità, disposizioni, virtù naturalmente devono appartenere a una delle tre
+
+classi.
+
+Per sentimenti intendo quelli come la lussuria, [ira](/concepts/anger), la paura, la fiducia, l'invidia, la gioia,
+
+[amicizia](/concepts/friendship), odio, desiderio, emulazione, compassione, in breve tutte tali
+
+quali sono seguiti dal piacere o dal dolore: per Capacità, quelle in diritto di
+
+che siamo detti capaci di questi sentimenti; come in virtù di
+
+che siamo capaci di essere stati fatti adirare, o afflitti, o di avere
+
+compassionato; dagli Stati, quelli nel diritto dei quali siamo in un certo
+
+relazione buona o cattiva ai sentimenti suddetti; all'essere stato
+
+Resi adirati, per esempio, siamo in una relazione sbagliata se nella nostra ira noi
+
+fossimo troppo violenti o troppo molli, ma se fossimo nel giusto mezzo noi
+
+sono in una giusta relazione con il sentimento. E così via del resto.
+
+Ora i Sentimenti non sono né le virtù né i vizi, perché in diritto del
+
+Sentimenti non siamo denominati né buoni né cattivi, ma nel diritto del
+
+virtù e vizi siamo.
+
+Ancora, in virtù dei Sentimenti non siamo né lodati né biasimati,
+
+Infatti un uomo non è lodato per essere timoroso o per essere adirato, né biasimato.
+
+per essere adirati meramente ma per esserlo in un modo particolare), ma in
+
+Il diritto delle virtù e dei vizi che siamo.
+
+Inoltre, e l'ira e la paura proviamo senza scelta morale, mentre le
+
+Le virtù sono atti di scelta morale, o almeno certamente non indipendenti.
+
+of it.
+
+Inoltre, in ragione dei Sentimenti, siamo detti essere mossi, ma in
+
+diritto delle virtù e dei vizi di non essere mossi, ma disposti, in un
+
+in un certo modo.
+
+E per queste stesse ragioni esse non sono Capacità, poiché non siamo
+
+chiamati buoni o cattivi meramente perché siamo in grado di sentire, né siamo
+
+lodato o biasimato.
+
+E ancora, le capacità le abbiamo per natura, ma non diventiamo buoni.
+
+o cattivi per natura, come abbiamo detto prima.
+
+Poiché quindi le virtù non sono né passioni né facoltà, resta.
+
+che essi devono essere Stati.
+
+<span class="atom-split" data-atom="018" data-title="Chapter V. (parte 2)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
 
 Now what the genus of Virtue is has been said; but we must not merely
 
@@ -2188,7 +4224,139 @@ and the mean state to Virtue; for, as the poet has it,
 
 But good in one alone.”
 
-<span class="atom-split" data-atom="019" data-title="Chapter VI. (2/11)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora, quale sia il genere della virtù è stato detto; ma non dobbiamo meramente
+
+Parlane così, che è uno stato, ma di' anche quale specie di stato esso sia.
+
+it is.
+
+Dobbiamo allora osservare che ogni eccellenza rende buono ciò di cui è eccellenza e rende buona la sua opera.
+
+L'eccellenza è sia essere essa stessa in buono stato, sia compiere la propria opera.
+
+bene. L'eccellenza dell'occhio, per esempio, rende sia l'occhio buono.
+
+e anche la sua opera: poiché per l'eccellenza dell'occhio vediamo bene. Così pure
+
+l'eccellenza del cavallo rende buono un cavallo, e buono nella velocità, e
+
+nel portare il suo cavaliere, e nell'opporsi al nemico. Se allora questo
+
+è universalmente il caso, l'eccellenza dell'Uomo, cioè la Virtù, deve essere una
+
+stato per cui l'uomo viene a essere buono e per cui egli adempirà bene il suo
+
+l'opera propria. Ora come ciò debba essere, è vero, abbiamo già detto, ma
+
+Tuttavia forse può gettar luce sull'argomento il vedere quale sia il suo
+
+natura caratteristica.
+
+In ogni quantità, dunque, sia continua o discreta, si può prendere
+
+la parte maggiore, la minore, o l'esattamente uguale, e queste o con
+
+riferimento alla cosa stessa, o relativamente a noi: e l'esattamente
+
+L'eguale è un mezzo tra l'eccesso e il difetto. Ora, per il mezzo del
+
+cosa, cioè mezzo assoluto, denoto ciò che è equidistante da
+
+l'uno o l'altro estremo (che naturalmente è uno e medesimo per tutti), e dal
+
+il giusto mezzo relativo a noi, ciò che non è né troppo né troppo
+
+poco per il particolare individuo. Questo naturalmente non è né uno né il
+
+lo stesso per tutti: per esempio, supponiamo che dieci sia troppo e due troppo poco,
+
+gli uomini prendono il sei per il mezzo assoluto; perché supera il minore.
+
+somma di esattamente quanto essa stessa è superata dal maggiore, e questo
+
+La media è secondo la proporzione aritmetica.
+
+Ma il giusto mezzo relativo a noi non deve essere trovato così; poiché lo fa.
+
+non segue, supponendo che dieci mine sia una quantità troppo grande da mangiare e
+
+due troppo piccoli, che l'istruttore ordinerà al suo uomo sei; perché per il
+
+persona che deve prenderla anche questo può essere troppo o troppo poco: poiché
+
+A Milone sarebbe troppo poco, ma per un uomo che comincia appena la sua atletica
+
+esercita troppo: similmente anche degli esercizi stessi, come
+
+correre o lottare.
+
+Sembra quindi che ogni persona dotata di abilità eviti l'eccesso e il difetto,
+
+ma cerca e sceglie il medio, non l'assoluto ma il relativo.
+
+Ora, se ogni abilità così compie bene la sua opera tenendo d'occhio
+
+il mezzo, e portando le opere a questo punto (donde è comune
+
+basti dire di tali opere che sono in buono stato, “non si può aggiungere
+
+o togliere alcunché da essi,” sotto la nozione di eccesso o difetto.
+
+distruggendo la bontà ma lo stato medio preservandola), e buono
+
+artigiani, come diciamo, lavorano con l'occhio rivolto a questo, e l'eccellenza, come
+
+natura, è più esatta e migliore di qualsiasi arte al mondo, deve
+
+avere un'attitudine a mirare al giusto mezzo.
+
+È l'eccellenza morale, cioè la Virtù, che naturalmente intendo, perché
+
+questo è ciò che concerne i sentimenti e le azioni, e in questi
+
+possono esserci eccesso e difetto e il mezzo: è possibile, poiché
+
+esempio, provare le emozioni di paura, fiducia, lussuria, [ira](/concepts/anger),
+
+compassione, e il piacere e il dolore in generale, troppo o troppo poco,
+
+e in entrambi i casi erroneamente; ma provarle quando si deve, su che
+
+occasioni, verso cui, perché, e come, dovremmo fare, è il mezzo, o in
+
+altre parole il migliore stato, e questa è la proprietà della Virtù.
+
+Parimente rispetto alle azioni, vi può essere eccesso e
+
+il difetto e il mezzo. Ora la Virtù concerne sentimenti e azioni,
+
+in cui l’eccesso è sbagliato e il difetto è biasimato ma la via di mezzo è
+
+Lodata e va diritto; e entrambe queste circostanze appartengono alla Virtù.
+
+La virtù dunque è in un certo senso uno stato medio, poiché certamente ha un.
+
+Attitudine a mirare al mezzo.
+
+Ancora, si può errare in molti modi diversi (perché, come il
+
+I Pitagorici lo espressero, il male è della classe dell'infinito, bene
+
+del finito), ma giusto solo in uno; e così il primo è facile, il
+
+quest'ultimo difficile; facile mancare il bersaglio, ma difficile colpirlo: e per
+
+Per queste ragioni, dunque, tanto l'eccesso quanto il difetto appartengono al Vizio,
+
+e lo stato medio alla Virtù; poiché, come dice il poeta,
+
+Gli uomini possono essere cattivi in molti modi,
+
+Ma bene in uno solo.
+
+<span class="atom-split" data-atom="019" data-title="Chapter VI. (parte 2)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
 
 Virtue then is “a state apt to exercise deliberate choice, being in the
 
@@ -2254,7 +4422,73 @@ cannot, in short, have of excess and defect a mean state, nor of a mean
 
 state excess and defect.
 
-<span class="atom-split" data-atom="020" data-title="Chapter VII. (2/10)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+La virtù quindi è “uno stato atto a esercitare la scelta deliberata, essendo nel”
+
+medio relativo, determinato dalla ragione, e come l'uomo del pratico
+
+la saggezza determinerebbe.
+
+È uno stato medio tra quelli troppo difettosi, nel modo dell'eccesso su.
+
+da un lato e di difetto dall'altro: ed è così inoltre, perché il
+
+Gli stati viziosi da un lato difettano, e quelli dall’altro eccedono,
+
+ciò che è giusto, sia nel caso dei sentimenti che delle azioni; ma
+
+La virtù trova, e trovato adotta, il mezzo.
+
+E così, considerandola rispetto alla sua essenza e definizione, la Virtù è
+
+uno stato medio; ma in riferimento al sommo bene e all'eccellenza esso
+
+è lo stato più alto possibile.
+
+Ma non si deve supporre che ogni azione o ogni sentimento sia
+
+capaci di sussistere in questo stato vile, perché alcuni ve ne sono che
+
+sono così nominati da trasmettere immediatamente la nozione di cattiveria, come
+
+malevolenza, impudenza, invidia; o, per addurre un esempio nelle azioni, l'adulterio,
+
+furto, omicidio; poiché tutte queste e simili sono biasimate perché sono
+
+in sé cattive, non l'averne troppo o troppo poco.
+
+In queste, dunque, non puoi mai essere nel giusto, ma devi sempre errare: né in
+
+Così il giusto o l'ingiusto dipende dalla selezione di un appropriato.
+
+persona, tempo o modo (prendiamo l'adulterio ad esempio), ma semplicemente fare
+
+qualsivoglia di quelle cose sia un errore.
+
+Tanto varrebbe pretendere che venga determinato uno stato medio.
+
+un eccesso e un difetto rispetto al commettere ingiustizia, all'essere codardi,
+
+o rinunciando a ogni controllo delle passioni: perché di questo passo vi sarà
+
+essere di eccesso e difetto uno stato medio; di eccesso, eccesso; e di difetto,
+
+difetto.
+
+Ma proprio come della perfezionata padronanza di sé e del coraggio non vi è eccesso.
+
+e difetto, perché il mezzo è, da un certo punto di vista, il più alto.
+
+stato possibile, così in nessuno di quegli stati difettosi puoi avere un mezzo
+
+stato, eccesso, o difetto, ma in qualsivoglia modo fatti sono errati: voi
+
+non può, in breve, avere dell'eccesso e del difetto uno stato medio, né di un mezzo.
+
+stato di eccesso e di difetto.
+
+<span class="atom-split" data-atom="020" data-title="Chapter VII. (parte 2)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
 
 It is not enough, however, to state this in general terms, we must also
 
@@ -2270,6 +4504,22 @@ good here.
 
 We must take these details then from the well-known scheme.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Non è sufficiente, tuttavia, affermare ciò in termini generali, dobbiamo anche
+
+applicarlo a casi particolari, perché nei trattati sulla condotta morale
+
+Le affermazioni generali hanno un'aria di vaghezza, ma quelle che entrano nel
+
+Dettaglia uno di maggiore realtà: poiché le azioni dopo tutto devono essere in
+
+dettaglio, e le affermazioni generali, per valere qualcosa, devono reggere
+
+Buono qui.
+
+Dobbiamo allora trarre questi dettagli dal noto schema.
+
 <span class="atom-split" data-atom="021" data-title="I. In respect of fears and confidence or boldness:" data-chapter="I. In respect of fears and confidence or boldness:" data-kind="atom" data-srclang="en"></span>
 
 The Mean state is Courage: men may exceed, of course, either in absence
@@ -2279,6 +4529,16 @@ of fear or in positive confidence: the former has no name (which is a
 common case), the latter is called rash: again, the man who has too
 
 much fear and too little confidence is called a coward.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lo stato medio è il Coraggio: gli uomini possono eccedere, naturalmente, o nella mancanza
+
+di paura o in positiva fiducia: il primo non ha nome (che è un
+
+caso comune), quest'ultimo è chiamato temerario: di nuovo, l'uomo che ha troppo
+
+Chi ha molta paura e troppo poca fiducia è chiamato codardo.
 
 <span class="atom-split" data-atom="022" data-title="II. In respect of pleasures and pains (but not all, and perhaps fewer" data-chapter="II. In respect of pleasures and pains (but not all, and perhaps fewer" data-kind="atom" data-srclang="en"></span>
 
@@ -2293,6 +4553,20 @@ no people who are chargeable with it, so, of course, there is really no
 name for such characters, but, as they are conceivable, we will give
 
 them one and call them insensible.
+
+<span class="qlang-split" data-lang="it"></span>
+
+dolori che piaceri):
+
+Lo stato medio qui è padronanza di sé perfezionata, il difetto è la totale assenza.
+
+Dell'autocontrollo. Quanto al difetto rispetto al piacere, vi sono realmente
+
+nessuna persona che ne sia accusabile, quindi, naturalmente, non c'è davvero nessuno
+
+nome per tali caratteri, ma, poiché sono concepibili, daremo
+
+chiamarli insensibili.
 
 <span class="atom-split" data-atom="023" data-title="III. In respect of giving and taking wealth (a):" data-chapter="III. In respect of giving and taking wealth (a):" data-kind="atom" data-srclang="en"></span>
 
@@ -2312,6 +4586,24 @@ part of the treatise, draw out the distinctions with greater
 
 exactness.)
 
+<span class="qlang-split" data-lang="it"></span>
+
+Lo stato medio è la Liberalità, l'eccesso la Prodigalità, il difetto
+
+Avarizia: qui ciascuno degli estremi implica realmente un eccesso e
+
+difetto contrario l'uno all'altro: voglio dire, il prodigo dà troppo
+
+e prende troppo poco, mentre l'avaro prende troppo e
+
+dà troppo poco. (Si deve intendere che ora stiamo dando
+
+meramente un abbozzo e un sommario, intenzionalmente: e noi vogliamo, in un successivo
+
+parte del trattato, trarre le distinzioni con maggiore
+
+esattezza.)
+
 <span class="atom-split" data-atom="024" data-title="IV. In respect of wealth (b):" data-chapter="IV. In respect of wealth (b):" data-kind="atom" data-srclang="en"></span>
 
 There are other dispositions besides these just mentioned; a mean state
@@ -2328,11 +4620,33 @@ extremes connected with liberality, and the manner of their difference
 
 shall also be spoken of later).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Vi sono altre disposizioni oltre a quelle appena menzionate; uno stato medio
+
+chiamata Munificenza (poiché l'uomo munificente differisce dal liberale,
+
+il primo avendo necessariamente a che fare con la grande ricchezza, il secondo con
+
+solamente piccola); l'eccesso chiamato con i [nomi](/positions/nominalism) o di Mancanza di gusto o
+
+Profusione Volgare, e il difetto Meschinità (questi differiscono anche dal
+
+Gli estremi connessi con la liberalità, e il modo della loro differenza.
+
+se ne parlerà anche in seguito)
+
 <span class="atom-split" data-atom="025" data-title="V. In respect of honour and dishonour (a):" data-chapter="V. In respect of honour and dishonour (a):" data-kind="atom" data-srclang="en"></span>
 
 The mean state Greatness of Soul, the excess which may be called
 
 χαυνότης, and the defect Littleness of Soul.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lo stato medio della Magnanimità, l'eccesso del quale si può chiamare
+
+χαυνότης, e il difetto della piccolezza d'animo.
 
 <span class="atom-split" data-atom="026" data-title="VI. In respect of honour and dishonour (b):" data-chapter="VI. In respect of honour and dishonour (b):" data-kind="atom" data-srclang="en"></span>
 
@@ -2365,6 +4679,38 @@ sometimes the other. Why we do it shall be said in the subsequent part
 of the treatise; but now we will go on with the rest of the virtues
 
 after the plan we have laid down.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora vi è uno stato che sta nello stesso rapporto con la Grandezza d'Animo come
+
+Dicevamo or ora che la Liberalità fa alla Munificenza, con la differenza.
+
+cioè di vertere su una piccola quantità della stessa cosa: questo stato
+
+avendo riferimento al piccolo onore, come la Grandezza d'animo al grande onore;
+
+un uomo può, naturalmente, aspirare all'onore o più di quanto non debba o
+
+meno; ora colui che eccede nell'afferrarlo è chiamato ambizioso, egli
+
+che resta al di sotto privo di ambizione, colui che è proprio come dovrebbe essere non ha
+
+nome proprio: né in effetti hanno gli stati, eccetto che la disposizione
+
+dell'uomo ambizioso è chiamata ambizione. Per questa ragione coloro che sono
+
+Nell'uno e nell'altro estremo rivendicano il mezzo come una terra contesa, e noi
+
+chiamate il carattere virtuoso talvolta col nome di ambizioso,
+
+talvolta da quella dei non ambiziosi, e lodiamo talvolta l'uno e
+
+a volte l'altro. Perché lo facciamo sarà detto nella parte seguente.
+
+del trattato; ma ora proseguiremo con il resto delle virtù
+
+dopo il piano che abbiamo stabilito.
 
 <span class="atom-split" data-atom="027" data-title="VII. In respect of anger:" data-chapter="VII. In respect of anger:" data-kind="atom" data-srclang="en"></span>
 
@@ -2404,6 +4750,44 @@ still we must try, as in the other cases, to coin some for them for the
 
 sake of clearness and intelligibleness.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Anche qui vi è eccesso, difetto e uno stato medio; ma poiché essi possono
+
+essere detto non avere realmente [nomi](/positions/nominalism) propri, come chiamiamo i virtuosi
+
+carattere Mansueto, chiameremo lo stato medio Mansuetudine, e del
+
+estremi, l'uomo che è eccessivo sia denominato Passionale, e
+
+lo stato vizioso dell'Iracondia, e colui che è deficiente, il Senz'ira,
+
+e il difetto dell'assenza d'ira.
+
+Vi sono anche altri tre stati medi, che hanno una certa somiglianza reciproca,
+
+ma pur sempre con differenze; sono simili in quanto tutti hanno per
+
+La loro materia oggettiva è commercio di parole e azioni, e differiscono in
+
+che quella ha rispetto alla verità in ciò, le altre due a ciò che è
+
+piacevole; e questo in due modi, l'uno nel riposo e nel divertimento,
+
+l'altro in tutte le cose che accadono nella vita quotidiana. Dobbiamo dire una parola.
+
+o due anche su questi, affinché possiamo vedere meglio che in ogni materia
+
+La via di mezzo è lodevole, mentre gli estremi non sono né giusti né
+
+degno di lode ma di biasimo.
+
+Ora, di questi, è vero, la maggior parte non hanno realmente nomi propri, ma
+
+Pure dobbiamo tentare, come negli altri casi, di coniarne alcuni per loro per il
+
+per amore di chiarezza e intelligibilità.
+
 <span class="atom-split" data-atom="028" data-title="I. In respect of truth:" data-chapter="I. In respect of truth:" data-kind="atom" data-srclang="en"></span>
 
 The man who is in the mean state we will call Truthful, and his state
@@ -2413,6 +4797,16 @@ The man who is in the mean state we will call Truthful, and his state
  exaggeration, Braggadocia, and him that has it a Braggadocio; if on
 
  that of diminution, Reserve and Reserved shall be the terms.
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'uomo che è nello stato medio lo chiameremo Veritiero, e il suo stato
+
+ La veridicità, e quanto alla dissimulazione della verità, se essa sia dalla parte di
+
+ esagerazione, Braggadocia, e colui che la possiede, un Braggadocio; se uno
+
+ Quello di diminuzione, Riserva e Riservato saranno i termini.
 
 <span class="atom-split" data-atom="029" data-title="II. In respect of what is pleasant in the way of relaxation or" data-chapter="II. In respect of what is pleasant in the way of relaxation or" data-kind="atom" data-srclang="en"></span>
 
@@ -2425,6 +4819,18 @@ accordingly a man of Easy-pleasantry; the excess Buffoonery, and the
 man a Buffoon; the man deficient herein a Clown, and his state
 
 Clownishness.
+
+<span class="qlang-split" data-lang="it"></span>
+
+divertimento.
+
+Lo stato medio sarà chiamato piacevolezza facile, e il carattere
+
+pertanto un uomo di piacevolezza facile; l'eccesso di Buffoneria, e il
+
+l'uomo un buffone; l'uomo in ciò manchevole un pagliaccio, e il suo stato
+
+Buffoneria.
 
 <span class="atom-split" data-atom="030" data-title="III. In respect of what is pleasant in daily life." data-chapter="III. In respect of what is pleasant in daily life." data-kind="atom" data-srclang="en"></span>
 
@@ -2474,7 +4880,55 @@ states: and in like manner also with respect to the Intellectual
 
 Excellences.
 
-<span class="atom-split" data-atom="031" data-title="Chapter VIII. (2/11)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Quegli che è quale dev'essere può dirsi Amico, e la sua condizione umile.
+
+Cordialità: chi eccede, se ciò sia senza alcun motivo interessato,
+
+alquanto troppo Compiacente, se con tale motivo, un Adulatore: colui che è
+
+carente e in ogni circostanza sgradevole, litigioso e stizzoso.
+
+Vi sono stati medi altresì nelle passioni e nelle cose che le concernono.
+
+La verecondia, per esempio, non è una virtù, tuttavia un uomo è lodato per
+
+Essere pudico: poiché anche in questi l'uno è denominato l'uomo in
+
+lo stato medio, l'altro nell'eccesso; lo Sbalordito, poiché
+
+esempio, chi è sopraffatto dalla vergogna in tutte e qualsiasi occasioni: il
+
+uomo che è nel difetto, cioè che non ha affatto vergogna nel suo
+
+composizione, è chiamata Spudorata: ma il giusto carattere Vergognoso.
+
+L'indignazione contro il vizio prosperante, di nuovo, è uno stato nel mezzo.
+
+tra l'Invidia e la Malevolenza: tutte e tre hanno riguardo al piacere.
+
+e dolore prodotto da ciò che accade al proprio prossimo: per l'uomo che
+
+ha questo retto sentimento è infastidito dal successo immeritato degli altri,
+
+mentre l'invidioso va oltre lui e si irrita per ogni successo di
+
+altri, e il malevolo è così lungi dal provare fastidio che
+
+egli gioisce persino [della sventura altrui].
+
+Ma per la discussione anche di queste vi sarà un'altra occasione,
+
+anche riguardo alla Giustizia, perché il termine è usato in più di un senso. Così
+
+Dopo questo esamineremo accuratamente ciascuno e diremo come essi siano medi.
+
+afferma: e similmente anche rispetto all'Intellettuale.
+
+Eccellenze.
+
+<span class="atom-split" data-atom="031" data-title="Chapter VIII. (parte 2)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
 
 Now as there are three states in each case, two faulty either in the
 
@@ -2572,7 +5026,105 @@ total want of self-control (the excess) is more contrary than the
 
 defect is to perfected self-mastery.
 
-<span class="atom-split" data-atom="032" data-title="Chapter IX. (2/9)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora, poiché in ciascun caso vi sono tre stati, due difettosi o nell'
+
+via dell'eccesso o del difetto, e una giusta, che è lo stato medio, di
+
+Certo tutti sono in qualche modo opposti gli uni agli altri; gli estremi, poiché
+
+per esempio, non solo al mezzo ma anche gli uni agli altri, e il mezzo a
+
+gli estremi: infatti, come la metà è maggiore se paragonata al minore.
+
+porzione, e minore se paragonata al maggiore, così gli stati medi,
+
+confrontati con i difetti, superano, sia nei sentimenti sia nelle azioni, e
+
+vice versa. L'uomo coraggioso, per esempio, si mostra avventato quando confrontato
+
+col codardo, e codardo se confrontato col temerario; similmente
+
+Anche l'uomo dall'autodominio perfezionato, considerato in confronto con il
+
+L'uomo privo d'ogni percezione appare simile a un uomo senza controllo di sé,
+
+ma in confronto all'uomo che davvero non ha autocontrollo, egli appare
+
+come uno privo di ogni percezione: e l'uomo liberale paragonato a
+
+L'avaro sembra prodigo, e accanto al prodigo, avaro.
+
+E così i caratteri estremi si spingono via, per così dire, l'uno verso l'altro.
+
+altro l'uomo nello stato medio; l'uomo coraggioso è chiamato un uomo temerario da
+
+il codardo, e un codardo dall'uomo temerario, e negli altri casi
+
+Di conseguenza. Ed essendovi questa mutua opposizione, la contrarietà
+
+tra gli estremi è maggiore che tra ciascuno di essi e il medio.
+
+perché sono più distanti l'uno dall'altro che dalla media, proprio come
+
+la porzione maggiore o minore differiscono più tra loro che l'una o l'altra.
+
+dall'esatta metà.
+
+Inoltre, in alcuni casi un estremo assomiglierà al mezzo;
+
+la temerità, per esempio, al coraggio, e la prodigalità alla liberalità; ma
+
+tra gli estremi vi è la massima dissomiglianza. Ora le cose
+
+che sono più lontani tra loro sono definiti contrari, e
+
+quanto più saranno lontani, tanto più contrari saranno.
+
+Inoltre: degli estremi in alcuni casi l'eccesso, e in altri il
+
+il difetto, è massimamente opposto al mezzo: al coraggio, per esempio, non
+
+la temerarietà che è l'eccesso, ma la viltà che è il difetto;
+
+mentre alla perfetta padronanza di sé non l'insensibilità che è il difetto
+
+ma l'assenza di ogni autocontrollo che è l'eccesso.
+
+E per questo vi sono due ragioni da addurre; una dalla natura di
+
+la cosa stessa, perché dall'uno estremo essendo più vicina e più
+
+come il mezzo, non mettiamo questo contro di esso, ma l'altro; come, per
+
+per esempio, poiché si ritiene che la temerarietà sia più vicina al coraggio che
+
+La codardia è, e per farla assomigliare di più, mettiamo la codardia contro il coraggio.
+
+piuttosto che la temerarietà, perché quelle cose che sono più lontane dal
+
+i mezzi sono ritenuti più contrari ad esso. Questa è quindi una ragione.
+
+derivante dalla cosa stessa; ve n'è un'altra derivante dalla nostra.
+
+costituzione e struttura: poiché nel caso di ciascun uomo quelle cose danno il
+
+impressione di essere più contraria alla media a cui individualmente
+
+avere un'inclinazione naturale. Così abbiamo un'inclinazione naturale verso i piaceri, poiché
+
+per la qual ragione siamo molto più inclini al rifiuto di tutto
+
+autocontrollo, che all'autodisciplina.
+
+Queste cose poi alle quali è l'inclinazione, le chiamiamo più contrarie, e così.
+
+la totale mancanza di autocontrollo (l'eccesso) è più contraria della
+
+Il difetto sta alla padronanza di sé perfezionata.
+
+<span class="atom-split" data-atom="032" data-title="Chapter IX. (parte 2)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
 
 Now that Moral Virtue is a mean state, and how it is so, and that it
 
@@ -2676,7 +5228,111 @@ excess sometimes towards defect, because this will be the easiest
 
 method of hitting on the mean, that is, on what is right.
 
-<span class="atom-split" data-atom="033" data-title="Chapter I. (3/10)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora che la virtù morale è uno stato medio, e come lo sia, e che essa
+
+Si trova tra due stati viziosi, uno in eccesso e un altro in
+
+la via del difetto, e che è così perché ha un'attitudine a mirare
+
+Nel mezzo sia nei sentimenti sia nelle azioni, tutto ciò è stato esposto.
+
+pienamente e sufficientemente.
+
+E così è difficile essere buoni: poiché certamente difficile è in ogni caso di
+
+Trovare il mezzo, proprio come trovare il punto medio o il centro di un cerchio è.
+
+non ciò che ogni uomo può fare, ma solo colui che sa come: appunto così essere.
+
+adirato, dare denaro, ed essere costoso, è ciò che qualunque uomo può fare, e
+
+facile: ma fare queste cose alla persona giusta, nella dovuta proporzione, al
+
+tempo giusto, con un oggetto giusto, e nel modo giusto, questo non è
+
+come prima ciò che ogni uomo può fare, né è facile; e per questa causa
+
+La bontà è rara, e lodevole, e nobile.
+
+Dunque chi mira al giusto mezzo deve avere per prima cura di tenersi
+
+lungi da quell'estremo che è più contrario dell'altro al
+
+intendo; così come Calipso in Omero consiglia Ulisse,
+
+Fuori da questo fumo e da questo maroso la tua barca drizza;
+
+a causa dei due estremi l'uno è sempre più, e l'altro meno,
+
+erroneo; e, quindi, poiché colpire esattamente il mezzo è
+
+difficile, si deve prendere il minore dei mali come il piano più sicuro;
+
+E questo un uomo starà facendo, se segue questo [metodo](/axes/method).
+
+Dovremmo anche prendere in considerazione il nostro naturale pregiudizio; che
+
+varia nel caso di ciascun uomo, e sarà accertata dal piacere.
+
+e il dolore che sorge in noi. Inoltre, dovremmo costringerci a partire in
+
+la direzione contraria, perché ci troveremo nel mezzo.
+
+dopo che ci siamo rimossi lungi dal lato sbagliato, proprio come gli uomini.
+
+si fa nel raddrizzare il legno storto.
+
+Ma in tutti i casi dobbiamo guardarci con grandissima cura da ciò che è piacevole,
+
+e il piacere stesso, perché non ne siamo giudici imparziali.
+
+Dovremmo provare, in effetti, verso il piacere come facevano gli antichi consiglieri.
+
+verso Elena, e in tutti i casi pronunciare una simile sentenza; poiché così da
+
+Allontanandolo da noi, erraremo meno.
+
+Orbene, per parlar molto brevemente, queste sono le precauzioni adottando
+
+che saremo meglio in grado di conseguire il giusto mezzo.
+
+Tuttavia, forse, dopo tutto è una questione di difficoltà, e specialmente
+
+nei casi particolari: non è facile, per esempio, determinare
+
+Esattamente in che modo, con quali persone, per quali cause, e per
+
+per quanto tempo, si debba provare [ira](/concepts/anger): poiché noi stessi
+
+talvolta lodiamo coloro che sono difettosi in questo sentimento, e chiamiamo
+
+li chiamiamo miti; in un altro, definiamo gli iracondi virili e focosi.
+
+Poi, di nuovo, colui che fa una piccola deviazione da ciò che è giusto, sia essa
+
+Sul lato del troppo o del troppo poco, non è biasimato, solo colui che fa.
+
+una considerevole; poiché non può sfuggire all'osservazione. Ma fino a che punto
+
+o grado un uomo deve errare per incorrere in biasimo, non è facile
+
+determinare esattamente in parole: né in effetti alcuno di quei punti che sono
+
+materia di percezione da parte del Senso Morale: tali questioni sono materie di
+
+dettaglio, e la decisione di essi spetta al Senso Morale.
+
+Ad ogni modo, tanto è manifesto, che la medietà è in tutte le cose.
+
+lodevole, e che praticamente dobbiamo talvolta deviare verso
+
+eccesso talvolta verso il difetto, perché questo sarà il più facile.
+
+metodo di colpire il mezzo, cioè ciò che è giusto.
+
+<span class="atom-split" data-atom="033" data-title="Chapter I. (parte 3)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
 
 Now since Virtue is concerned with the regulation of feelings and
 
@@ -2828,7 +5484,159 @@ So then that seems to be compulsory “whose origination is from without,
 
 the party compelled contributing nothing.”
 
-<span class="atom-split" data-atom="034" data-title="Chapter II. (3/11)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora, poiché la Virtù concerne la regolazione dei sentimenti e
+
+azioni, e lode e biasimo sorgono su quelle che sono volontarie, mentre
+
+poiché l'indulgenza involontaria è concessa, e talvolta la compassione è
+
+eccitato, è forse un compito necessario per coloro che stanno indagando
+
+la natura della Virtù di trarre fuori la distinzione tra ciò che è
+
+volontario e ciò che è involontario; ed è certamente utile per
+
+legislatori, riguardo all'assegnazione di onori e punizioni.
+
+Le azioni involontarie, dunque, si pensa che siano di due specie, essendo compiute.
+
+o per costrizione, o per ignoranza. Un'azione è, propriamente,
+
+parlando, coattivo, quando l'origine è esterna all'agente,
+
+essendo tale che in esso l'agente (forse possiamo dire più propriamente il
+
+paziente) non contribuisce nulla; come se un vento ti trasportasse in qualsiasi luogo,
+
+o uomini che hanno potere sulla vostra persona.
+
+Ma quando le azioni sono compiute, o per timore di mali maggiori, o per
+
+qualche motivo onorevole, come, per esempio, se ti fosse ordinato di commettere
+
+qualche atto vile da parte di un despota che aveva i tuoi genitori o i tuoi figli in suo
+
+potere, ed essi dovevano essere salvati sulla tua condiscendenza o morire sulla tua
+
+rifiuto, in tali casi v'è luogo a domandarsi se le azioni
+
+sono volontari o involontari.
+
+Una questione analoga sorge riguardo ai casi di gettare le cose.
+
+fuori bordo in una tempesta: distrattamente nessun uomo getta via la propria proprietà.
+
+volentieri, ma con riguardo alla sicurezza propria e dei suoi compagni di bordo chiunque
+
+vorrebbe chi avesse un po' di senno.
+
+La verità è che tali azioni sono di natura mista, ma somigliano per lo più a
+
+azioni volontarie; poiché sono degne di scelta nel momento in cui sono
+
+essendo fatto, e il fine o l'oggetto dell'azione deve essere preso con
+
+Riferimento all'occasione attuale. Inoltre, dobbiamo denominare un'azione.
+
+volontario o involontario al momento di compierlo: ora nel caso dato
+
+l'uomo agisce volontariamente, perché il principio del moto del suo
+
+le membra in tali azioni risiede in lui stesso; e dove l'origine è
+
+In lui stesso sta a lui stesso il fare o non fare.
+
+Tali azioni quindi sono volontarie, sebbene in astratto forse.
+
+involontaria perché nessuno sceglierebbe alcuna di tali cose in sé e per sé
+
+se stesso.
+
+Ma per tali azioni gli uomini talvolta sono persino lodati, come quando essi
+
+sopportare qualunque disonore o dolore per conseguire grandi e onorevoli equivalenti;
+
+se vice versâ, allora essi sono biasimati, perché mostra un animo basso a
+
+Sopportare cose assai vergognose per nessun fine onorevole, o per un
+
+Una cosa da nulla.
+
+Per alcuni invece non è data lode, ma è fatta concessione; come dove un
+
+l'uomo fa ciò che non dovrebbe per ragione di tali cose come sovraffaticare il
+
+poteri della [natura umana](/axes/human_nature), o superare i limiti della resistenza umana.
+
+Alcuni atti forse vi sono per i quali non può addursi la costrizione, ma
+
+un uomo dovrebbe piuttosto soffrire il peggio e morire; quanto assurdo, per esempio,
+
+sono le suppliche della costrizione con le quali Alcmeone nel dramma di Euripide
+
+Giustifica il suo matricidio!
+
+Ma talvolta è difficile decidere che tipo di cosa debba essere.
+
+scelto invece di che cosa, o che cosa è durato a preferenza di che cosa, e molto
+
+tanto più attenersi alle proprie decisioni: poiché in generale le alternative sono.
+
+doloroso, e le azioni richieste sono vili, e così la lode o il biasimo è
+
+attribuito secondo che le persone siano state costrette o no.
+
+Quali azioni, allora, sono da chiamarsi coatte? possiamo dire,
+
+semplicemente e astrattamente ogniqualvolta la causa è esterna e l'agente
+
+non contribuisce nulla; e che dove gli atti sono in sé tali da
+
+uno non desidererebbe ma degno di scelta al tempo presente e in
+
+la preferenza per tali e tali cose, e dove risiede l'origine
+
+con l'agente, le azioni sono in sé involontarie ma al
+
+dato il tempo e in preferenza a tali e tali cose volontario; e
+
+sono più simili a volontarie che a involontarie, perché le azioni
+
+Consistono di piccoli dettagli, e questi sono volontari.
+
+Ma che genere di cose si debba scegliere invece di che cosa, non è
+
+Facile a risolversi, poiché vi sono molte differenze nei casi particolari.
+
+Ma supponiamo che uno dica, le cose piacevoli e onorevoli esercitano una
+
+forza coercitiva (giacché esse sono esterne e costringono); per di più
+
+Piuttosto, ogni azione è per costrizione, perché questi sono motivi universali.
+
+dell'azione.
+
+Ancora, coloro che agiscono per costrizione e contro la loro volontà lo fanno con
+
+dolore; ma coloro i quali agiscono in virtù di ciò che è piacevole o onorevole agiscono
+
+Con piacere.
+
+È veramente assurdo per un uomo attribuire le sue azioni all'esterno.
+
+cose invece che alla propria capacità di farsi prendere facilmente da
+
+loro; o, ancora, ascrivere a sé il nobile, e il vile.
+
+quelli al piacere.
+
+Dunque, ciò sembra essere obbligatorio 'la cui origine è dal di fuori,'
+
+il partito costrinse a non contribuire nulla.
+
+<span class="atom-split" data-atom="034" data-title="Chapter II. (parte 3)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
 
 Now every action of which ignorance is the cause is not-voluntary, but
 
@@ -2930,7 +5738,110 @@ action involuntary, but it must be also understood that the action is
 
 followed by pain and regret.
 
-<span class="atom-split" data-atom="035" data-title="Chapter III. (4/11)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora ogni azione di cui l'ignoranza è la causa è non-volontaria, ma
+
+Solo ciò è involontario che è accompagnato da dolore e rimorso; poiché
+
+chiaramente l'uomo che ha fatto alcunché per ignoranza, ma è
+
+non infastidito dalla propria azione, non si può dire che l’abbia fatta con
+
+la sua volontà perché non sapeva di farlo, né di nuovo contro
+
+la sua volontà perché non se ne pente.
+
+Dunque, di quella classe che agisce per ignoranza, colui che sente
+
+Il pentimento successivo è ritenuto essere un agente involontario, e colui che
+
+non ha tale sentimento, poiché egli è certamente diverso dall'altro, noi
+
+chiameremo un agente non-volontario; poiché come vi è una reale differenza essa
+
+È meglio avere un nome proprio.
+
+Di nuovo, sembra esserci una differenza tra l'agire a causa di
+
+l'ignoranza e l'agire con ignoranza: per esempio, di solito non
+
+### output
+Assegnare l'ignoranza come causa delle azioni degli ebbri o degli adirati.
+
+man, ma o l'ebbrezza o l'[ira](/concepts/anger), tuttavia non agiscono.
+
+consapevolmente ma con ignoranza.
+
+Di nuovo, ogni uomo malvagio ignora ciò che deve fare e ciò che deve tralasciare.
+
+Disfatti, e per cagione di tale errore gli uomini diventano ingiusti e del tutto malvagi.
+
+Inoltre, di solito non applichiamo il termine involontario quando un uomo è
+
+ignaro del proprio vero interesse; perché l'ignoranza che affligge
+
+la scelta morale costituisce depravazione ma non involontarietà: né
+
+qualsiasi ignoranza di principio (perché di questo gli uomini sono biasimati) ma
+
+ignoranza nei particolari, in cui consiste l'azione e
+
+con cui ha a che fare, poiché in queste vi è sia compassione che
+
+considerazione, perché chi agisce nell'ignoranza di una qualsiasi di esse agisce in un
+
+senso proprio involontariamente.
+
+Potrebbe essere opportuno, quindi, definire questi particolari dettagli; che cosa
+
+essi sono, e quanti; cioè, chi agisce, che cosa fa, con rispetto
+
+a che cosa o in che cosa, talvolta con che cosa, come con quale strumento, e
+
+con quale risultato; come quello di conservazione, per esempio, e come, come
+
+che sia dolcemente o violentemente.
+
+Tutti questi particolari, in un medesimo caso, nessun uomo nel suo senno
+
+potrebbe essere ignaro di; chiaramente non dell'agente, essendo egli stesso. Ma che cosa
+
+egli sta facendo un uomo può essere ignorante, come gli uomini parlando dicono una cosa.
+
+sfuggì loro senza che se ne accorgessero; o come fece Eschilo rispetto al
+
+Misteri, dei quali egli non sapeva che fosse illecito parlare;
+
+o come nel caso di quell'incidente di catapulta l'altro giorno l'uomo disse
+
+lo scaricò meramente per mostrarne il funzionamento. Oppure una persona potrebbe
+
+Supponete che un figlio sia un nemico, come fece Merope; o che la lancia veramente
+
+l'appuntito era arrotondato; o che la pietra fosse una pomice; o nel colpire
+
+con l'intento di salvare potrebbe uccidere; o potrebbe colpire quando semplicemente lo desiderasse
+
+mostrarne un altro, come fanno le persone nelle finte battaglie.
+
+Ora, poiché l'ignoranza è possibile rispetto a tutti questi particolari in
+
+in cui consiste l'azione, colui che agì nell'ignoranza di qualsivoglia di esse è
+
+ritenuto di aver agito involontariamente, e lo era in massimo grado colui che era in
+
+ignoranza circa le cose più importanti, che si ritiene siano quelle
+
+in cui consiste l'azione, e il risultato.
+
+Inoltre, non solo l'ignoranza deve essere di questo tipo, per costituire un
+
+azione involontaria, ma deve anche essere compreso che l'azione è.
+
+seguito da dolore e rimpianto.
+
+<span class="atom-split" data-atom="035" data-title="Chapter III. (parte 4)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
 
 Now since all involuntary action is either upon compulsion or by reason
 
@@ -2984,7 +5895,61 @@ and Lust. It is absurd then to class these actions among the
 
 involuntary.
 
-<span class="atom-split" data-atom="036" data-title="Chapter IV. (3/12)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora poiché ogni azione involontaria è o per costrizione o per ragione.
+
+dell'ignoranza, l'Azione Volontaria sembrerebbe essere “ciò la cui origine
+
+è nell’agente, il quale è consapevole dei particolari dettagli nei quali i
+
+L'azione consiste.
+
+Poiché, può darsi, gli uomini non sono giustificati chiamando quelle azioni
+
+involontarie, che sono compiute a cagione di [ira](/concepts/anger) o concupiscenza.
+
+Perché, in primo luogo, se così è, nessun altro animale tranne l'uomo, e
+
+nemmeno i bambini, si può dire che agiscano volontariamente. In seguito, si intende
+
+che non agiamo mai volontariamente quando agiamo mossi da lussuria o da ira, o che
+
+Agiamo volontariamente nel fare ciò che è giusto e involontariamente nel fare
+
+che cosa è disdicevole? L'ultima supposizione è assurda, poiché il
+
+La causa è una e medesima. Quanto alla prima, è una cosa strana.
+
+sostenere che siano involontarie le azioni che siamo tenuti ad afferrare:
+
+Ora vi sono occasioni in cui l’ira è un dovere, e vi sono
+
+cose che siamo tenuti a desiderare, la salute, per esempio, e
+
+apprendimento.
+
+Ancora, mentre le azioni strettamente involontarie sono ritenute accompagnate
+
+con dolore, quelle che sono fatte per gratificare la lussuria sono ritenute essere
+
+Piacevole.
+
+Ancora: come fa l'involontarietà a fare alcuna differenza tra
+
+Le azioni sbagliate compiute per deliberato calcolo, e quelle compiute da
+
+ragione dell'ira? poiché entrambe debbono essere evitate, e l'irrazionale
+
+I sentimenti sono ritenuti altrettanto naturali per l'uomo quanto la ragione, e così di
+
+Il corso deve essere tali azioni dell'individuo quali sono compiute dall'Ira.
+
+e la Lussuria. È assurdo quindi annoverare queste azioni tra le
+
+involontario.
+
+<span class="atom-split" data-atom="036" data-title="Chapter IV. (parte 3)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
 
 Having thus drawn out the distinction between voluntary and involuntary
 
@@ -3118,7 +6083,141 @@ process. The etymology of its Greek name seems to give a hint of it,
 
 being when analysed “chosen in preference to somewhat else.”
 
-<span class="atom-split" data-atom="037" data-title="Chapter V. (3/10)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Avendo così delineato la distinzione tra volontario e involontario
+
+Azione, il nostro prossimo passo è esaminare la natura della Scelta Morale,
+
+perché questo sembra molto intimamente connesso con la Virtù e di essere un
+
+più decisiva prova del carattere morale di quanto non siano le azioni di un uomo.
+
+Or la Scelta Morale è chiaramente volontaria, ma i due non sono.
+
+coestensivi, essendo il volontario il termine più comprensivo; poiché primo,
+
+i bambini e tutti gli altri animali partecipano all'azione volontaria ma non in
+
+Scelta morale; e poi, azioni improvvise che chiamiamo volontarie ma non.
+
+Ascriveteli alla Scelta Morale.
+
+Né sembrano aver ragione coloro che dicono che è appetito o [ira](/concepts/anger), o desiderio, o
+
+opinione di un certo tipo; perché, in primo luogo, la Scelta Morale è
+
+non condivise dagli animali irrazionali mentre la Lussuria e l'Ira lo sono. Poi;
+
+L'uomo che difetta di autocontrollo agisce per Concupiscenza ma non per Moralità.
+
+Scelta; l'uomo padrone di sé, al contrario, da Scelta Morale,
+
+non dalla Lussuria. Ancora: mentre la Lussuria è spesso contrapposta alla Morale
+
+Scelta, la lussuria non è lussuriare.
+
+Infine: l'oggetto materiale della concupiscenza è il piacevole e il doloroso, ma
+
+della Scelta Morale né l'uno né l'altro. Tanto meno può essere.
+
+L'ira, poiché le azioni compiute per ira sono generalmente ritenute essere
+
+meno che mai conseguente alla Scelta Morale.
+
+Non è nemmeno il Desiderio, sebbene appaia strettamente connesso con esso;
+
+perché, in primo luogo, la Scelta Morale non ha per suoi oggetti
+
+impossibilità, e se un uomo dicesse di averle scelte, egli sarebbe
+
+ritenuto uno sciocco; ma il Desiderio può avere cose impossibili per il suo
+
+oggetti, l'immortalità per esempio.
+
+Il desiderio, ancora, può essere esercitato su cose nella cui realizzazione
+
+il proprio io non potrebbe avere nulla a che fare, come il successo di qualsiasi particolare
+
+attore o atleta; ma nessun uomo sceglie cose di questa natura, solo tali
+
+giacché egli crede di poter essere egli stesso strumentale nel procurare.
+
+Inoltre: il Desiderio ha per oggetto piuttosto il Fine, ma la Scelta Morale il
+
+mezzi per il Fine; per esempio, desideriamo essere sani ma scegliamo i
+
+mezzi che ci renderanno tali; o felicità di nuovo desideriamo, e
+
+Comunemente si dice così, ma dire che scegliamo non è un termine appropriato,
+
+perché, in breve, la provincia della Scelta Morale sembra essere quelle
+
+le cose che sono in nostro potere.
+
+Né può essere Opinione; poiché l'Opinione è ritenuta essere illimitata in
+
+il suo ambito di oggetti, ed essere esercitato anche sulle cose eterne
+
+e impossibile come su quelle che sono in nostro potere: di nuovo, Opinione
+
+è logicamente diviso in vero e falso, non in buono e cattivo come
+
+La scelta morale è.
+
+Nessuno, forse, sostiene la sua identità con l'Opinione semplicemente; ma
+
+Non è lo stesso con l'opinione di qualsivoglia genere, perché scegliendo il bene
+
+e le cose cattive siamo costituiti di un certo carattere, ma avendo
+
+Opinioni su di loro non siamo.
+
+Ancora, scegliamo di prendere o evitare, e così via, ma opiniamo che cosa sia una cosa.
+
+è, o a che cosa serva, o come; ma non opiniamo di prendere
+
+o evitare.
+
+Inoltre, la scelta morale è lodata piuttosto per avere un oggetto retto.
+
+che per essere giudizioso, ma l'Opinione per essere formata in conformità
+
+con la verità.
+
+Ancora, scegliamo quelle cose che sappiamo abbastanza bene essere buone, ma noi
+
+formare opinioni riguardo a cose che non conosciamo affatto.
+
+E non si pensa che lo scegliere e l'opinare il meglio procedano sempre insieme.
+
+insieme, ma che alcuni opinano la via migliore e tuttavia per ragion di
+
+la viziosità non sceglie le cose che dovrebbe.
+
+Si può sostenere che l'Opinione preceda o accompagni sempre il Morale.
+
+Scelta; sia pure così, ciò non fa differenza, poiché non è questo il punto.
+
+in questione, ma se la Scelta Morale sia la stessa cosa dell'Opinione di un
+
+certo tipo.
+
+Poiché, quindi, non è alcuna delle cose suddette, che cosa è, o come?
+
+È caratterizzato? Volontario, chiaramente lo è, ma non del tutto volontario.
+
+L'azione è un oggetto della Scelta Morale. Non possiamo forse dire allora, che essa è “quello"
+
+volontario che sia passato attraverso una fase di precedente deliberazione?
+
+perché la scelta morale è accompagnata da ragionamento e intellettuale
+
+processo. L'etimologia del suo nome greco sembra darne un indizio,
+
+l'essere quando analizzato “scelto in preferenza ad alcunché d'altro.”
+
+<span class="atom-split" data-atom="037" data-title="Chapter V. (parte 3)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
 
 Well then; do men deliberate about everything, and is anything soever
 
@@ -3302,7 +6401,191 @@ Let this be accepted as a sketch of the nature and object of Moral
 
 Choice, that object being “Means to Ends.”
 
-<span class="atom-split" data-atom="038" data-title="Chapter VI. (3/11)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ebbene; gli uomini deliberano sopra ogni cosa, e v'è alcuna cosa che
+
+l'oggetto della Deliberazione, o vi sono alcune questioni rispetto a
+
+che non ve n'è alcuno? (Forse sarà bene dire che per “oggetto
+
+"di Deliberazione” si intende tale materia che un uomo sensato desidererebbe"
+
+deliberare, non su ciò che potrebbe un qualsiasi stolto o pazzo.
+
+Ebbene: intorno alle cose eterne nessuno delibera; come, per esempio, il
+
+universo, o l'incommensurabilità del diametro e del lato di un
+
+piazza.
+
+Né ancora riguardo alle cose che sono in movimento ma che sempre accadono in
+
+Nello stesso modo o necessariamente, o naturalmente, o da qualcos'altro.
+
+causa, come i solstizi o il sorgere del sole.
+
+Né riguardo a quelle che sono variabili, come la siccità e le piogge; né
+
+cose fortuite, come il ritrovamento di un tesoro.
+
+Né in effetti nemmeno su tutte le faccende umane; nessun Lacedemone, poiché
+
+Ad esempio, delibera circa il miglior corso per il governo scitico.
+
+adottare; perché in tali casi non abbiamo alcun potere sul risultato.
+
+Ma noi deliberiamo intorno a tali questioni pratiche che sono in nostro.
+
+proprio potere (che sono ciò che resta dopo tutte le nostre esclusioni).
+
+Ho adottato questa divisione perché le cause sembrano essere divisibili in
+
+natura, necessità, [caso](/concepts/fortune), e inoltre intelletto, e tutto l'umano
+
+poteri.
+
+E come l'uomo in generale delibera su ciò che l'uomo in generale può effettuare,
+
+Così fanno gli individui circa tali cose pratiche che possono essere effettuate.
+
+attraverso la loro stessa strumentalità.
+
+Di nuovo, non deliberiamo riguardo a quelle arti o scienze che sono
+
+esatti e indipendenti: come, per esempio, riguardo ai caratteri scritti,
+
+perché non abbiamo alcun dubbio su come dovrebbero essere formati; ma ne abbiamo
+
+deliberare su tutte quelle cose che sono solitamente fatte attraverso il nostro proprio.
+
+strumentalità, ma non invariabilmente nello stesso modo; come, per esempio,
+
+circa le materie connesse con l'arte della guarigione, o con il far denaro;
+
+e, ancora, più del pilotare navi che degli esercizi ginnici, perché
+
+il primo è stato meno esattamente determinato, e così via; e oltre.
+
+intorno alle arti che alle scienze, perché dubitiamo più frequentemente riguardo a
+
+il primo.
+
+Dunque la Deliberazione ha luogo in quelle cose che sono sotto generale.
+
+leggi, ma ancora incerti su come in ogni dato caso si risolveranno, cioè
+
+in cui v'è qualche indefinitezza; e per le grandi materie noi
+
+coadiutori associati nel consiglio, diffidando della nostra capacità di risolverli
+
+solo.
+
+Inoltre, non deliberiamo circa i Fini, ma sui Mezzi per i Fini. Nessun medico,
+
+per esempio, delibera se guarirà, né oratore se egli
+
+persuaderà, né statista se produrrà un bene
+
+costituzione, né in realtà alcun uomo in qualsiasi altra funzione circa la sua
+
+ma avendo posto loro dinanzi un certo Fine, guardano come
+
+e con quali mezzi possa essere compiuto: se vi è una scelta di
+
+cioè, essi esaminano ulteriormente quali siano le più facili e le più credibili; o,
+
+se non vi è che un solo mezzo per conseguire lo scopo, allora come possa
+
+essere attraverso questo, questo di nuovo attraverso che cosa, finché giungono al primo.
+
+causa; e questa sarà l'ultima scoperta; poiché un uomo impegnato in un processo
+
+della deliberazione sembra cercare e analizzare, come un uomo, per risolvere un
+
+problema, analizza la figura datagli. E palesemente non ogni ricerca è
+
+Deliberazione, quelle in matematica, cioè, ma ogni Deliberazione è un
+
+ricerca, e l'ultimo passo nell'analisi è il primo nel
+
+processo costruttivo. E se nel corso della loro ricerca gli uomini vengono
+
+di fronte a un'impossibilità, vi rinunciano; se il denaro, per esempio, sia
+
+necessario, ma non può aversi: ma se la cosa appare possibile essi
+
+Quindi tentare di farlo.
+
+E per possibile intendo ciò che può essere fatto mediante la nostra propria strumentalità.
+
+(naturalmente ciò che può esser fatto per mezzo dei nostri amici è per mezzo di noi medesimi)
+
+strumentalità in un certo senso, perché l'origine in tale
+
+i casi spettano a noi). E l'oggetto della ricerca è talvolta il
+
+strumenti necessari, talvolta il [metodo](/axes/method) di usarli; e
+
+Similmente nel resto talvolta attraverso ciò che, e talvolta come o
+
+Attraverso cosa.
+
+Così sembra, come è stato detto, che l'Uomo sia l'originatore del suo
+
+azioni; e la Deliberazione ha per oggetto tutto ciò che può essere fatto.
+
+attraverso la propria strumentalità, e le azioni sono in vista di
+
+altre cose; e così è, non il Fine, ma i Mezzi per i Fini su cui
+
+La deliberazione è impiegata.
+
+Né, ancora, è impiegata su questioni di dettaglio, come se il
+
+sostanza dinanzi a me è pane, o è stata propriamente cotta; poiché queste
+
+ricadono sotto la provincia dei sensi, e se un uomo deve essere sempre
+
+Deliberando, può continuare ad [infinito](/concepts/infinity).
+
+Inoltre, esattamente la stessa materia è l'oggetto sia della Deliberazione che
+
+Scelta Morale; ma ciò che è oggetto della Scelta Morale è
+
+D'allora innanzi separato e definito, perché per oggetto di
+
+La Scelta Morale è denotata ciò che dopo la Deliberazione è stato
+
+preferito ad altro: poiché ciascun uomo cessa di cercare come egli
+
+Farà una cosa quando avrà portato a sé l’origine.
+
+cioè al principio direttivo in sé stesso, perché è questo.
+
+che fa la scelta. Una buona illustrazione di ciò è fornita dal
+
+antiche costituzioni regali da cui Omero attinse, nelle quali i re
+
+Annunziare al popolo ciò che avevano deliberato prima.
+
+Ora, poiché ciò che è l'oggetto della Scelta Morale è qualcosa che è in nostro
+
+proprio potere, che è l'oggetto della deliberazione e l'apprensione del
+
+La volontà, la scelta morale, deve essere “un afferrare qualcosa che è in nostro potere”.
+
+conseguente alla Deliberazione:” perché dopo aver deliberato noi
+
+decidere, e poi afferrare con la nostra Volontà in conformità con il risultato della nostra
+
+deliberazione.
+
+Sia accettato questo come abbozzo della natura e dell'oggetto della morale.
+
+La scelta, essendo quell'oggetto “Mezzi per fini”.
+
+<span class="atom-split" data-atom="038" data-title="Chapter VI. (parte 3)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
 
 That Wish has for its object-matter the End, has been already stated;
 
@@ -3364,7 +6647,69 @@ of goodness, so they choose what is pleasant as good and avoid pain as
 
 an evil.
 
-<span class="atom-split" data-atom="039" data-title="Chapter VII. (3/10)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Che il Desiderio abbia per suo oggetto-materiale il Fine, è già stato dichiarato;
+
+ma vi sono due opinioni riguardo ad essa; alcuni pensando che il suo oggetto
+
+è un bene reale, altri sono qualunque cosa impressioni la mente con una nozione di bene.
+
+Ora, coloro che sostengono che l'oggetto del Desiderio sia il vero bene sono assediati.
+
+da questa difficoltà, che ciò che è desiderato da colui che sceglie male
+
+non è realmente un oggetto del Desiderio (perché, secondo la loro teoria, se è un
+
+oggetto del desiderio, deve essere buono, ma lo è, nel caso supposto,
+
+male). Coloro che sostengono, al contrario, che ciò che impressiona
+
+La mente con una nozione di bene è propriamente l'oggetto del Desiderio, hanno a
+
+incontrare questa difficoltà, che non vi è nulla per natura oggetto di Desiderio.
+
+ma a ciascun individuo ciò che gli sembra buono; ora differenti persone
+
+hanno differenti nozioni, e può [accadere](/concepts/fortune) che ne abbiano di contrarie.
+
+Ma, se queste opinioni non ci soddisfano, non possiamo forse dire che,
+
+astrattamente e come questione di verità oggettiva, il realmente buono è il
+
+oggetto del Desiderio, ma a ogni individuo qualunque cosa impressiona la sua mente con
+
+la nozione di bene. E così all'uomo buono che è un oggetto di
+
+Desiderio il quale è realmente e veramente così, ma per l’uomo malvagio ogni cosa può essere;
+
+così come fisicamente quelle cose sono salutari ai sani le quali sono
+
+veramente così, ma altre cose agli infermi. E così pure dell'amaro e
+
+dolce, e caldo e pesante, e così via. Poiché l'uomo buono giudica in ogni
+
+istanza correttamente, e in ogni istanza la nozione trasmessa al suo
+
+la mente è quella vera.
+
+Ché vi sono cose belle e piacevoli proprie di ciascuno, e perciò variabili
+
+con, ogni stato; e forse la caratteristica più distintiva di
+
+il buon uomo è il suo vedere la verità in ogni istanza, essendo egli, in
+
+fatto, la regola e la misura di queste questioni.
+
+La moltitudine degli uomini sembra essere ingannata a causa del piacere, perché
+
+sebbene non sia realmente un bene, imprime nelle loro menti la nozione
+
+del bene, così scelgono ciò che è piacevole come bene ed evitano il dolore come
+
+un male.
+
+<span class="atom-split" data-atom="039" data-title="Chapter VII. (parte 3)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
 
 Now since the End is the object of Wish, and the means to the End of
 
@@ -3588,7 +6933,231 @@ characters), the Vices must be voluntary also, because the cases are
 
 exactly similar.
 
-<span class="atom-split" data-atom="040" data-title="Chapter VIII. (3/11)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora, poiché il Fine è l'oggetto del Volere, e i mezzi per il Fine di
+
+Deliberazione e scelta morale, le azioni riguardanti queste questioni devono
+
+essere nel campo della Scelta Morale, cioè volontario: ma gli atti di
+
+l'esercitare le virtù sono tali azioni, e quindi la Virtù è in
+
+il nostro potere.
+
+E così pure è il Vizio: perché ovunque è in nostro potere farlo, è.
+
+anche in nostro potere di astenerci dal fare, e viceversa: quindi se il
+
+il fare (l'essere in un dato caso lodevole) è in nostro potere, così anche il
+
+indulgente (che nel medesimo caso è disdicevole), e viceversa.
+
+Ma se è in nostro potere fare e astenerci dal fare ciò che è lodevole.
+
+o il contrario, e questi rispettivamente costituiscono l'essere buono o
+
+cattivo, allora l'essere buoni o viziosi di carattere è in nostro potere.
+
+Quanto al detto ben noto, “Nessun uomo è volontariamente malvagio o
+
+"involontariamente felice,” è in parte vero, in parte falso; perché nessun uomo è
+
+felice contro la sua volontà, naturalmente, ma la malvagità è volontaria. O deve
+
+contestiamo le affermazioni ultimamente fatte, e non diciamo che l'Uomo è il
+
+originatore o generatore delle sue azioni tanto quanto dei suoi figli?
+
+Ma se questa è questione di fatto chiaro e manifesto, e non possiamo riferire il nostro
+
+azioni a qualunque altre origini oltre a quelle in nostro potere, quelle
+
+le cose devono essere in nostro potere, e quindi volontarie, le origini di
+
+che sono in noi stessi.
+
+Inoltre, la testimonianza sembra essere portata a queste posizioni sia privatamente.
+
+dagli individui, e anche dai legislatori, in quanto essi castigano e puniscono
+
+coloro che commettono il male (a meno che non lo facciano per costrizione, o per ragione di
+
+ignoranza che non è causata da sé), mentre onorano coloro che agiscono
+
+giustamente, sotto la nozione di essere probabile che incoraggi quest'ultimo e
+
+frenare le prime. Ma quelle cose che non sono in nostro potere,
+
+cioè non volontario, nessuno pensa di incoraggiarci a fare, sapendolo
+
+non giova che uno sia stato persuaso a non essere ardente (per
+
+istanza), o provare dolore, o avere fame, e così via, perché noi dovremo
+
+provare quelle sensazioni lo stesso.
+
+E ciò che rende più forte l'argomento è questo: che essi castigano per il
+
+il fatto stesso dell'ignoranza, quando è pensato come auto-causato; al
+
+ubriaco, per esempio, le pene sono doppie, perché l'origine in
+
+Un tale caso risiede nell’uomo stesso: poiché egli avrebbe potuto evitare di incorrervi.
+
+ebbro, e questa è la causa della sua ignoranza.
+
+Ancora, anche coloro che sono ignari delle norme giuridiche che essi sono.
+
+obbligati a sapere, e che non sono difficili a sapersi, essi castigano; e
+
+Similmente in tutti gli altri casi in cui si ritiene che la negligenza sia la causa.
+
+dell'ignoranza, sotto la nozione che fosse in loro potere di
+
+prevenire la loro ignoranza, perché avrebbero potuto prestare attenzione.
+
+Ma forse un uomo è di un carattere tale che non può attendere a tali.
+
+cose: ancora gli uomini sono essi stessi le cause del divenire tali
+
+caratteri vivendo con noncuranza, e anche di essere ingiusti o indigenti.
+
+dell'autocontrollo, il primo compiendo azioni malvagie, il secondo con
+
+trascorrendo il loro tempo nel bere e simili; perché il particolare.
+
+Gli atti del lavorare formano caratteri corrispondenti, come è mostrato da coloro che
+
+si stanno esercitando per qualsiasi gara o particolare linea d'azione, poiché tali
+
+gli uomini persistono negli atti del lavorare.
+
+Quanto alla scusa che un uomo non sapesse che le abitudini sono prodotte da
+
+Atti separati del lavorare, rispondiamo, tale ignoranza è un segno di
+
+eccessiva stupidità.
+
+Inoltre, è del tutto irrilevante dire che l'uomo che agisce
+
+ingiustamente o dissolutamente non desidera conseguire le abitudini di questi
+
+vizi: poiché se un uomo consapevolmente fa quelle cose per le quali deve diventare
+
+ingiusto egli è a tutti gli effetti ingiusto volontariamente; ma egli
+
+non può con un desiderio cessare di essere ingiusto e diventare giusto. Infatti, per prendere il
+
+caso analogo, il malato non può con un desiderio guarire, eppure in un
+
+caso supponibile che egli sia volontariamente malato perché ha prodotto il suo
+
+Malattia vivendo intemperatamente e trascurando i suoi medici. Ivi
+
+V'era un tempo allora in cui avrebbe potuto aiutarsi dal cadere infermo, ma ora ha lasciato
+
+Lasciarsi andare egli non può più; così come colui che ha lasciato una pietra fuori di
+
+la sua mano non può ricordarlo, eppure stava a lui mirare e
+
+Gettalo, perché l’origine era in suo potere. Così anche l’ingiusto.
+
+uomo, e colui che ha perso ogni autocontrollo, potrebbe originariamente aver aiutato.
+
+essendo ciò che sono, e così sono volontariamente ciò che sono; ma ora
+
+che sono divenuti così da non avere più il potere di essere
+
+altrimenti.
+
+E non solo le malattie mentali sono volontarie, ma lo sono anche quelle corporee in
+
+alcuni uomini, i quali di conseguenza biasimiamo: poiché quelli che sono naturalmente deformi
+
+nessuno biasima, se non coloro che sono tali per mancanza di esercizio, e
+
+Incuria: e così pure di debolezza e di mutilazione: nessuno penserebbe a
+
+rimproverare, ma preferirebbe compiangere, un uomo che è cieco per
+
+natura, o da malattia, o da un incidente; ma ognuno biasimerebbe
+
+colui che era tale per eccesso di vino, o per qualsiasi altra specie di intemperanza.
+
+Sembra, quindi, che per quanto riguarda le malattie del corpo, quelle che dipendono
+
+su noi stessi sono censurati, quelli che non lo fanno non sono censurati; e se
+
+Così, allora, nel caso dei disturbi mentali, quelli che sono biasimati.
+
+deve dipendere da noi stessi.
+
+Ma si supponga che un uomo dica, “che (per nostra stessa ammissione) tutti gli uomini mirano a”.
+
+ciò che trasmette alle loro menti un'impressione di bene, e che gli uomini
+
+non abbiamo controllo su questa impressione, ma che la Fine impressiona ciascuno.
+
+con una nozione corrispondente al suo proprio carattere individuale; che essere
+
+certo se ogni uomo è in qualche modo la causa del proprio stato morale, così egli
+
+sarà anche del tipo di impressione che egli riceve: mentre, se questo è
+
+non è così, nessuno è causa a sé stesso di compiere azioni malvagie, ma egli
+
+le fa a cagione dell'ignoranza del vero Fine, supponendo che
+
+Per loro mezzo egli conseguirà il sommo bene. Inoltre, che questo
+
+Mirare al Fine non è affare della propria scelta, ma bisogna essere.
+
+nato con una facoltà di visione mentale, per così dire, mediante cui giudicare.
+
+giustamente e scegliere ciò che è veramente buono; ed egli è benedetto da
+
+la natura che ha questo naturalmente bene: perché è la cosa più importante.
+
+Cosa e la più bella, e ciò che un uomo non può ottenere o apprendere da un altro.
+
+ma avrà ciò che la natura gli ha dato; e per questo essere così dato
+
+Bene e giustamente sarebbe l'eccellenza della natura nel più alto e vero.
+
+senso.
+
+Se tutto ciò sia vero, come sarà la Virtù affatto più volontaria di
+
+Vizio? Al medesimo modo per l'uomo buono e per il malvagio, la Fine imprime la sua impronta.
+
+ed è fissato dalla natura o comunque vi piaccia dire, e così agiscono.
+
+e così, riferendo tutto il resto a questo Fine.
+
+Se allora supponiamo che il Fine imprima la mente di ciascun uomo con
+
+certe nozioni non meramente per natura, ma che vi è anche alcunché
+
+dipendente da sé; o che il Fine sia dato dalla natura, e tuttavia
+
+La virtù è volontaria perché l'uomo buono fa tutto il resto volontariamente,
+
+Il vizio deve essere ugualmente tale; perché la sua propria azione si attacca ugualmente al
+
+uomo cattivo nelle azioni, anche se non nella scelta del Fine.
+
+Se allora, come si dice comunemente, le Virtù sono volontarie (perché noi a
+
+cooperano minimamente nel produrre i nostri stati morali, e noi assumiamo il
+
+Fine di essere di una certa specie secondoché noi stessi siamo di certa.
+
+caratteri), anche i vizi devono essere volontari, poiché i casi sono
+
+Esattamente simile.
+
+<span class="atom-split" data-atom="040" data-title="Chapter VIII. (parte 3)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
 
 Well now, we have stated generally respecting the Moral Virtues, the
 
@@ -3616,7 +7185,35 @@ still they are voluntary because it rested with us to use our
 
 circumstances this way or that.
 
-<span class="atom-split" data-atom="041" data-title="Chapter IX. (3/9)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Orbene, abbiamo affermato in generale riguardo alle Virtù Morali, il
+
+genere (in abbozzo), che sono stati medi, e che sono
+
+abitudini, e come si formano, e che esse sono di per sé
+
+calcolati per agire sulle circostanze dalle quali sono stati formati.
+
+e che esse sono in nostro potere e volontarie, e che così sono da farsi.
+
+come la retta Ragione può dirigere.
+
+Ma le azioni particolari e le abitudini non sono volontarie allo stesso.
+
+senso; poiché delle azioni siamo padroni dal principio alla fine.
+
+(supponendo naturalmente una conoscenza dei particolari), ma solo
+
+dell'origine delle abitudini, l'aggiunta per piccoli particolari
+
+accessioni non essendo cognoscibili (come nel caso delle malattie):
+
+Tuttavia essi sono volontari perché stava a noi usare il nostro.
+
+le circostanze in un modo o nell'altro.
+
+<span class="atom-split" data-atom="041" data-title="Chapter IX. (parte 3)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
 
 Here we will resume the particular discussion of the Moral Virtues, and
 
@@ -3716,7 +7313,107 @@ help one’s self, or in which death would be honourable; now neither of
 
 these requisites attach to destruction by drowning or sickness.
 
-<span class="atom-split" data-atom="042" data-title="Chapter X. (2/7)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Qui riprenderemo la discussione particolare delle Virtù Morali, e
+
+dire che cosa siano, quale sia il loro oggetto, e come stiano.
+
+rispettivamente relative ad esso: naturalmente il loro numero sarà in tal modo
+
+mostrato.
+
+Prima, quindi, del Coraggio. Ora, essendo uno stato medio, rispetto a
+
+Di paura e audacia è già stato detto: inoltre, gli oggetti della nostra
+
+le paure sono ovviamente cose paurose o, in un modo generale di affermazione,
+
+mali; il che spiega la comune definizione della paura, vale a dire
+
+“aspettazione del male.”
+
+Naturalmente temiamo mali di ogni genere: disgrazia, per esempio, povertà,
+
+malattia, desolazione, morte; ma non tutte queste sembrano essere la
+
+oggetto-materia dell'uomo coraggioso, perché vi sono cose di cui temere
+
+è giusto e nobile, e non temere è vile; il disonore, per esempio,
+
+poiché colui che teme questo è un uomo buono e ha un senso dell'onore, ed egli
+
+chi non lo teme è impudente (sebbene vi siano coloro che lo chiamano
+
+Coraggioso per analogia, perché somiglia in qualche modo all'uomo coraggioso che
+
+concorda con lui nell'essere libero dalla paura); ma la povertà, forse, o
+
+malattia, e invero tutto ciò che non procede da vizio, né è
+
+imputabile alla propria colpa, un uomo non deve temere: tuttavia, essendo
+
+senza paura rispetto a queste non costituirebbe un uomo Coraggioso nel
+
+senso proprio del termine.
+
+Tuttavia applichiamo il termine in virtù della somiglianza dei casi;
+
+ché vi sono uomini che, sebbene timidi nei pericoli della guerra, sono liberali.
+
+uomini e sono abbastanza coraggiosi da affrontare la perdita di ricchezza.
+
+E, ancora, un uomo non è un codardo per temere un insulto a sua moglie o
+
+bambini, o invidia, o alcuna cosa simile; né è egli un uomo coraggioso per essere
+
+Coraggioso quando si sta per essere flagellato.
+
+Quali specie di cose temibili, dunqi, costituiscono la materia oggettiva del
+
+Uomo coraggioso? prima di tutto, non devono essi essere i più grandi, poiché nessun uomo è
+
+più atto a reggere ciò che è terribile. Ora l'oggetto del più grande
+
+l'angoscia è la morte, perché è la fine di tutte le cose, e l'uomo morto
+
+si pensa che non sia capace né di bene né di male. Tuttavia sembrerebbe
+
+che l'uomo coraggioso non ha per suo oggetto nemmeno la morte in ogni
+
+circostanza; sul mare, per esempio, o nella malattia: in che
+
+circostanze allora? non deve essere nelle più onorevoli? ora tale è
+
+la morte in guerra, perché è la morte nel più grande e più onorevole
+
+pericolo; e ciò è confermato dagli onori conferiti nelle comunità,
+
+e dai monarchi.
+
+Egli allora può essere più propriamente denominato Coraggioso colui che è impavido in
+
+rispetto della morte onorevole e di così improvvise sopravvenienze che minacciano
+
+morte; ora tali specialmente sono quelle che sorgono nel corso della guerra.
+
+Non si intende che l'uomo coraggioso sarà impavido anche sul mare.
+
+(e nella malattia), ma non allo stesso modo degli uomini di mare; poiché questi
+
+sono spensierati e pieni di speranza a motivo della loro esperienza, mentre
+
+i terragnoli, sebbene Coraggiosi, sono inclini a darsi per perduti e
+
+rabbrividisco all'idea di una tale morte: a cui si dovrebbe aggiungere che
+
+Il coraggio si esercita in circostanze che ammettono di fare qualcosa a.
+
+aiutare sé stesso, o in cui la morte sarebbe onorevole; ora nessuno dei
+
+Questi requisiti ineriscono alla distruzione per annegamento o per malattia.
+
+<span class="atom-split" data-atom="042" data-title="Chapter X. (parte 2)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
 
 Again, fearful is a term of relation, the same thing not being so to
 
@@ -3838,7 +7535,129 @@ suicide braves the terrors of death not because it is honourable but to
 
 get out of the reach of evil.
 
-<span class="atom-split" data-atom="043" data-title="Chapter XI. (2/7)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ancora, temibile è un termine di relazione, non essendo la stessa cosa tale per.
+
+tutto, e secondo il linguaggio comune vi è qualcosa di così temibile come
+
+essere oltre la sopportazione umana: questo, naturalmente, sarebbe spaventoso per ogni
+
+uomo di senno, ma quegli oggetti che sono al livello della capacità dell'uomo
+
+differiscono per grandezza e ammettono gradi, così anche gli oggetti di
+
+fiducia o audacia.
+
+Ora l'Uomo Coraggioso non può essere spaventato dalla sua compostezza (ma naturalmente
+
+solo in quanto è uomo); tali cose egli certamente temerà, ma egli lo farà.
+
+opporsi a loro come deve e come la retta ragione può dirigere, con
+
+In vista di ciò che è onorevole, perché questo è il fine della virtù.
+
+Ora è possibile temere queste cose troppo, o troppo poco, o
+
+Nuovamente temere ciò che non è realmente temibile come se lo fosse. Così il
+
+Gli errori vengono ad essere o che un uomo teme quando non dovrebbe temere affatto.
+
+tutto, o che tema in modo improprio, o in un momento inopportuno, e così
+
+avanti; e così pure in merito alle cose che ispirano fiducia. Egli è
+
+Coraggioso allora chi resiste, e teme, ed è ardito, rispetto al giusto.
+
+gli oggetti, da un giusto motivo, nella giusta maniera, e nei giusti tempi:
+
+poiché l'uomo coraggioso soffre o agisce come deve e come la retta ragione può.
+
+direct.
+
+Ora il fine di ogni atto separato dell'operare è ciò che si accorda con
+
+il [abito](/concepts/custom), e così all'uomo coraggioso il coraggio; che è onorevole;
+
+quindi tale è anche il Fine, poiché il carattere di ciascuno è
+
+determinato dalla Fine.
+
+Dunque l'onore è il movente da cui l'uomo coraggioso resiste alle cose.
+
+timoroso e compie gli atti che si accordano con il Coraggio.
+
+Dei caratteri dalla parte dell'Eccesso, colui che eccede in assoluta
+
+l'assenza di paura non ha nome appropriato (osservai prima che molti
+
+gli stati non ne hanno), ma sarebbe un pazzo o inaccessibile al dolore se
+
+non temeva nulla, né terremoto, né i flutti, come raccontano.
+
+i Celti.
+
+Colui che poi eccede nella fiducia rispetto alle cose temibili è
+
+Avventato. Egli è inoltre ritenuto uno spaccone, e di avanzare infondate
+
+pretese al carattere del Coraggioso: la relazione che l'uomo Coraggioso
+
+realmente si rapporta agli oggetti di timore quest'uomo desidera apparire di rapportarsi, e
+
+così lo imita in qualunque punto può; per questo motivo la maggior parte di loro.
+
+mostrano una curiosa mescolanza di temerarietà e codardia; perché, affettando
+
+Temerarietà in queste circostanze, essi non resistono a ciò che è veramente
+
+Timoroso.
+
+L'uomo inoltre che eccede nel sentire paura è un codardo, poiché ivi
+
+Attribuirgli le circostanze di temere oggetti sbagliati, in errore.
+
+modi, e così via. Egli è anche carente nel provare fiducia, ma egli
+
+è più chiaramente visto come eccedente nel caso dei dolori; egli è un
+
+sorta d'uomo pusillanime, poiché teme tutte le cose: l'uomo coraggioso è
+
+Al contrario, poiché l'audacia è propria dei cuori leggeri.
+
+e speranzoso.
+
+Così il codardo, il temerario e l'uomo coraggioso hanno esattamente lo stesso
+
+oggetto-materia, ma stanno diversamente in relazione ad esso: i due
+
+I primi menzionati rispettivamente eccedono e sono deficienti, l'ultimo è in un
+
+stato medio e come dovrebbe essere. I temerari a loro volta sono precipitosi, e,
+
+Desiderosi prima del pericolo, quando in realtà vi si trovano, vengono meno, mentre il
+
+I coraggiosi sono pronti e acuti nell'azione, ma prima sono quieti e composti.
+
+Ebbene, come si è detto, il coraggio è una medietà rispetto a
+
+oggetti che ispirano audacia o timore, nelle circostanze che hanno
+
+è stato affermato, e l'uomo coraggioso sceglie la sua linea e resiste al pericolo.
+
+o perché farlo è onorevole, o perché non farlo è vile.
+
+Ma morire per sfuggire alla povertà, o ai tormenti dell'amore, o a qualsiasi altra cosa.
+
+Ciò è semplicemente penoso, è l'atto non di un uomo coraggioso ma di un codardo;
+
+perché è mera mollezza fuggire da ciò che è faticoso, e il
+
+il suicidio affronta i terrori della morte non perché sia onorevole ma per
+
+Allontanati dalla portata del male.
+
+<span class="atom-split" data-atom="043" data-title="Chapter XI. (parte 2)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
 
 Courage proper is somewhat of the kind I have described, but there are
 
@@ -4066,7 +7885,235 @@ to be otherwise than they supposed, which the Argives experienced when
 
 they fell on the Lacedæmonians, taking them for the men of Sicyon.
 
-<span class="atom-split" data-atom="044" data-title="Chapter XII. (1/6)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Il coraggio propriamente detto è in qualche modo del genere che ho descritto, ma ci sono
+
+disposizioni, differendo in cinque modi, che hanno anche in comune.
+
+pronunciare il nome di Coraggio.
+
+Prenderemo in primo luogo ciò che più rassomiglia al vero, il
+
+Coraggio di Cittadinanza, così chiamato perché i motivi che sono pensati
+
+incitare i membri di una comunità ad affrontare il pericolo sono i
+
+le pene e il disonore minacciati dalle leggi alla codardia, e il
+
+dignità conferite ai Coraggiosi; il che si ritiene essere la ragione per cui
+
+Quelli sono i popoli più coraggiosi tra i quali i codardi sono visitati con
+
+il disonore e i Coraggiosi tenuti in onore.
+
+Tale è il tipo di Coraggio che Omero mostra nei suoi personaggi; Diomede
+
+e Ettore per esempio. Quest'ultimo dice,
+
+Polydamas sarà il primo a fissare
+
+Vergogna su di me.
+
+Diomede, Ettore, Paride ed Eleno ricomparvero tutti sulle mura; e Paride, avendo avuto una lite con uno dei Troiani in città, si slanciò fuori a combattere.
+
+Poiché certo Ettore dirà in avvenire,
+
+Parlante in Troia, Tidide per mia mano"—
+
+Questo dico che assomiglia molto al Coraggio di cui si è parlato prima, perché
+
+Esso nasce dalla virtù, da un sentimento di vergogna e da un desiderio di ciò che è.
+
+nobile (cioè, dell'onore), e l'evitamento del disonore che è vile.
+
+Nello stesso rango si sarebbe inclini a porre anche coloro che agiscono.
+
+sotto costrizione da parte dei loro comandanti; eppure sono davvero inferiori,
+
+perché non un senso dell'onore ma la paura è il movente da cui essi
+
+agire, e ciò che cercano di evitare non è ciò che è turpe ma ciò
+
+il che è semplicemente doloroso: i comandanti di fatto costringono i loro uomini.
+
+a volte, come dice Ettore (per citare di nuovo Omero),
+
+Ma chiunque io trovi rannicchiato lungi dalla battaglia,
+
+Ai denti dei cani in nessun modo egli sfuggirà.
+
+Quei comandanti che schierano truppe fedeli accanto a quelle dubbie, o
+
+che percuotono i loro uomini se trasaliscono, o che schierano le loro truppe in linea
+
+con le trincee, o altri simili ostacoli, alle loro spalle, fanno in
+
+Fanno lo stesso effetto di Ettore, poiché tutti usano la coercizione.
+
+Ma un uomo deve essere Coraggioso, non per costrizione, ma per un senso di
+
+onore.
+
+In secondo luogo, esperienza e abilità nei vari particolari è
+
+ritenuta una specie di Coraggio: donde [Socrate](/figures/socrates) pensava anche che
+
+Il coraggio era conoscenza.
+
+Questa qualità è mostrata naturalmente da diversi uomini sotto diverse
+
+circostanze, ma nelle cose di guerra, delle quali ora ci occupiamo,
+
+è esibito dai soldati (“i regolari”): poiché ci sono, esso
+
+Sembrerebbero, molte cose in guerra di nessuna reale importanza che questi
+
+sono stati costantemente avvezzi a vedere; così hanno un'apparenza di coraggio.
+
+perché altre persone non sono consapevoli della vera natura di queste cose.
+
+Poi ancora, a cagione della loro abilità, sono più capaci di chiunque.
+
+altri a infliggere senza patire essi stessi, poiché ne sono capaci
+
+usare le loro armi e averne di quelle che sono più utili sia con un
+
+in vista dell'offesa e della difesa: sicché il loro caso è parallelo a quello di
+
+uomini armati che combattono con disarmati o atleti allenati con dilettanti,
+
+poiché in contese di tal genere quelli sono i migliori combattenti, non coloro che sono
+
+gli uomini più coraggiosi, ma che sono i più forti e sono nel migliore
+
+condizione.
+
+Infatti, le truppe regolari diventano codardi ogni volta che il pericolo è
+
+superiore ai loro mezzi per farvi fronte; supponendo, per esempio, che
+
+sono inferiori per numero e risorse: allora sono i primi a
+
+Fuggono, ma la mera milizia stanno e cadono sul terreno (che come voi
+
+sapere cosa realmente accadde all'Hermæum), poiché negli occhi di questi
+
+La fuga era disonorevole e la morte preferibile alla sicurezza comprata a siffatto.
+
+prezzo: mentre “i regolari” originariamente entrarono nel pericolo sotto un
+
+nozione della propria superiorità, ma scoprendo il loro errore, essi
+
+si diede alla fuga, avendo più timore della morte che del disonore; ma
+
+Questo non è il sentimento dell’Uomo Coraggioso.
+
+In terzo luogo, il mero Spirito animale è talvolta ricondotto sotto il termine.
+
+Coraggio: si credono Coraggiosi coloro che sono trascinati dal mero Animale.
+
+Lo Spirito, come le fiere selvagge contro coloro che le hanno ferite, perché
+
+infatti i veramente Coraggiosi hanno molto Spirito, non essendovi nulla di simile.
+
+per affrontare pericolo di ogni sorta; donde quelle frequenti espressioni in
+
+Omero, “infuse forza nel suo spirito,” “destò la sua forza e
+
+“spirito,” o ancora, “e acuta forza nelle sue narici,” “il suo sangue”
+
+bollito:” poiché tutte queste sembrano denotare l'eccitamento e l'impetuosità di
+
+lo Spirito Animale.
+
+Ora coloro che sono veramente Coraggiosi agiscono mossi da un senso d'onore, e questo
+
+Lo Spirito animale coopera con loro; ma le bestie selvagge per il dolore, cioè
+
+perché sono stati feriti, o sono spaventati; poiché se lo sono
+
+tranquillamente nei loro propri rifugi, foresta o palude, non attaccano gli uomini.
+
+Certo non sono coraggiosi perché si precipitano nel pericolo quando sono incitati.
+
+per dolore e mero Spirito, senza alcuna vista del pericolo: altrimenti sarebbe
+
+Gli asini sieno coraggiosi quando hanno fame, però che sebbene battuti non lo faranno.
+
+poi lasciano il loro pascolo: del resto gli uomini profligati compiono molte azioni audaci.
+
+a causa della loro libidine. Possiamo quindi concludere che non sono Coraggiosi
+
+che sono spinti ad affrontare il pericolo dal dolore e dal mero Spirito; ma nondimeno
+
+questo temperamento che sorge dallo Spirito Animale sembra essere assai naturale,
+
+e sarebbe Coraggio del vero tipo se avesse potuto aggiungervi
+
+La scelta morale e il giusto motivo.
+
+Così anche gli uomini sono afflitti da un sentimento di [ira](/concepts/anger), e provano piacere in
+
+vendetta; ma coloro che combattono per queste cause possono essere buoni combattenti, ma
+
+non sono veramente Coraggiosi (in quanto non agiscono per un senso di
+
+onore, né come la ragione dirige, ma semplicemente dal sentimento presente),
+
+Eppure essi portano qualche somiglianza con quel carattere.
+
+Né, ancora, i Sanguigni e gli Speranzosi sono perciò Coraggiosi: poiché il loro
+
+L'audacia nei pericoli nasce dalle loro frequenti vittorie sopra numerosi.
+
+Nemici. I due personaggi sono simili, tuttavia, in quanto entrambi sono
+
+fiduciosi; ma allora i coraggiosi sono tali per le cause sopra menzionate,
+
+laddove questi sono così per una salda convinzione del loro essere superiori
+
+e non hanno probabilità di patire alcunché in cambio (coloro che sono ebbri
+
+fanno più o meno lo stesso, poiché diventano speranzosi quando si trovano in quello stato); ma quando
+
+l'evento delude le loro aspettative; fuggono: ora fu detto.
+
+essere il carattere di un uomo coraggioso sopportare le cose che sono
+
+Tremendo per l'uomo o produrre quella impressione, perché è onorevole così.
+
+Fare e il contrario è disonorevole.
+
+Per questa ragione si ritiene che sia una prova maggiore di Coraggio essere
+
+impavido e imperturbato sotto la pressione della paura improvvisa che sotto
+
+ciò che può essere previsto, perché il Coraggio allora viene piuttosto da un
+
+fissa [abitudine](/concepts/custom), o meno da preparazione: poiché quanto ai pericoli previsti un
+
+l'uomo potrebbe tracciare la sua linea anche dal calcolo e dal ragionamento, ma in
+
+quelle che sono improvvise egli farà così secondo la sua abitudine fissa di
+
+mente.
+
+In quinto e ultimo luogo, coloro che agiscono sotto l'Ignoranza hanno una parvenza di
+
+Coraggio e non sono molto lontani dagli Speranzosi; ma pur sempre lo sono.
+
+inferiori in quanto non hanno alcuna opinione di sé; il che
+
+altri hanno, e quindi rimangono e contendono un campo per qualche poco
+
+tempo; ma coloro i quali sono stati ingannati fuggono nel momento in cui conoscono le cose.
+
+essere altrimenti da come supponevano, il che gli Argivi sperimentarono quando
+
+Si avventarono sui Lacedemoni, scambiandoli per gli uomini di Sicione.
+
+<span class="atom-split" data-atom="044" data-title="Chapter XII. (parte 1)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en"></span>
 
 We have described then what kind of men the Brave are, and what they
 
@@ -4148,7 +8195,89 @@ true nature of which it is not difficult to gather, in outline at
 
 least, from what has been said.
 
-<span class="atom-split" data-atom="045" data-title="Chapter XIII. (1/4)" data-chapter="Chapter XIII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Abbiamo quindi descritto quali uomini siano i Coraggiosi, e che cosa essi
+
+che sono ritenuti, ma non sono realmente, Coraggiosi.
+
+Bisogna osservare, tuttavia, che sebbene il Coraggio abbia per suo
+
+oggetto-materia audacia e timore non ha entrambi ugualmente così, ma oggetti
+
+di paura molto più del primo; poiché colui che sotto la pressione di questi
+
+è imperturbato e sta in relazione con loro come deve è meglio.
+
+avente diritto al nome di Coraggioso più di colui che è propriamente affetto verso
+
+oggetti di fiducia. Così dunque gli uomini sono chiamati Coraggiosi per resistere.
+
+cose dolorose.
+
+Ne consegue che il Coraggio comporta dolore ed è giustamente lodato, poiché esso
+
+è cosa più difficile sopportare le cose dolorose che astenersi.
+
+da quelle che sono piacevoli.
+
+Non si deve credere se non che il Fine e l'oggetto del Coraggio è
+
+piacevole, ma è oscurato dalle circostanze circostanti: le quali
+
+accade anche nei giochi ginnici; ai pugili il Fine è piacevole.
+
+in vista di cui agiscono, voglio dire la corona e gli onori; ma
+
+il ricevere i colpi che fanno è doloroso e fastidioso alla carne e
+
+sangue, e così è tutta la [fatica](/concepts/labour) che devono sopportare; e, come questi
+
+I difetti sono molti, l'oggetto in vista essendo piccolo sembra non avere.
+
+Piacevolezza in esso.
+
+Se quindi possiamo dire lo stesso del Coraggio, naturalmente la morte e le ferite devono
+
+Sia pure doloroso all'uomo coraggioso e contro la sua volontà: egli tuttavia sopporta.
+
+queste perché è onorevole farlo o perché è disonorevole
+
+non fare così. E quanto più completa la sua virtù e la sua felicità così.
+
+tanto più sarà addolorato al pensiero della morte: poiché a un tale
+
+l'uomo com'è è ciò per cui più vale la pena di vivere, ed egli con pieno
+
+la coscienza è privata dei beni più grandi dalla morte, e questo è un
+
+idea dolorosa. Ma egli non è meno Coraggioso per sentirla tale, anzi
+
+anzi può darsi che egli sia mostrato essere più tale perché sceglie il
+
+onore che può essere mietuto in guerra piuttosto che conservare il sicuro.
+
+il possesso di questi altri beni. Il fatto è che agire con piacere
+
+non appartiene a tutte le virtù, se non nella misura in cui un uomo realizza il
+
+Fine delle sue azioni.
+
+Ma forse non v'è ragione per cui tali uomini non debbano riuscire i migliori.
+
+soldati, ma coloro che sono meno veramente Coraggiosi ma non hanno altro bene a cui
+
+avere a cuore: questi essendo pronti ad affrontare il pericolo e barattando le loro vite
+
+Contro il piccolo guadagno.
+
+Si accetti tanto come sufficiente sul tema del Coraggio; il
+
+la vera natura della quale non è difficile cogliere, per sommi capi, a
+
+almeno, da quanto è stato detto.
+
+<span class="atom-split" data-atom="045" data-title="Chapter XIII. (parte 1)" data-chapter="Chapter XIII." data-kind="atom" data-srclang="en"></span>
 
 Next let us speak of Perfected Self-Mastery, which seems to claim the
 
@@ -4404,7 +8533,263 @@ all in improper objects; nor to any great degree in any object of the
 
 class; nor is he pained at their absence; nor does he desire them; or,
 
-<span class="atom-split" data-atom="046" data-title="Chapter XIII. (2/4)" data-chapter="Chapter XIII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Parliamo ora della Perfetta Padronanza di Sé, che sembra rivendicare il
+
+il luogo successivo al Coraggio, poiché queste due sono le Eccellenze della
+
+Parte irrazionale dell'Anima.
+
+Che essa sia uno stato medio, avente per oggetto i piaceri, noi
+
+ho già detto (i Dolori essendo in effetti la sua materia oggettuale in un meno
+
+grado e maniera dissimile), [lo stato](/concepts/state) di totale assenza di
+
+Il dominio di sé ha chiaramente la stessa materia; la cosa successiva allora è
+
+determinare che tipo di Piaceri.
+
+Si intendano dunque i Piaceri divisi in mentali e corporei:
+
+esempi del primo essendo l'amore dell'onore o del sapere: essendo
+
+È chiaro che ciascun uomo prova piacere in quello di questi due oggetti che
+
+egli ha una tendenza a gradire, il suo corpo non essendo in nessun modo affetto ma piuttosto
+
+il suo intelletto. Ora gli uomini non sono chiamati perfettamente padroni di sé o
+
+Del tutto privo di autocontrollo rispetto ai piaceri di questo genere:
+
+né in effetti rispetto a quelle che non sono corporee; quelle per esempio
+
+che amano raccontare storie lunghe, e sono prosastici, e trascorrono le loro giornate
+
+circa mere questioni di [caso](/concepts/fortune), chiamiamo pettegolezzi ma non del tutto privi di
+
+autocontrollo, né ancora coloro che sono afflitti per la perdita di denaro o
+
+amici.
+
+Sono quindi i Piaceri corporei che sono la materia dei Perfetti.
+
+Autodominio, ma non anche tutte queste indifferentemente: intendo dire, che esse
+
+che traggono piacere dagli oggetti percepiti dalla Vista, come i colori, e
+
+forme, e la pittura, non sono denominate uomini di Perfetta Padronanza di Sé,
+
+o del tutto privo di autocontrollo; e tuttavia sembrerebbe che uno possa
+
+provare piacere anche in tali oggetti, come si deve, o eccessivamente,
+
+o troppo poco.
+
+Così pure degli oggetti percepiti dal senso dell'Udito; nessuno applica il
+
+termini prima citati rispettivamente a coloro che sono eccessivamente compiaciuti
+
+con arie o con la recitazione, ovvero a coloro che traggono siffatto piacere come
+
+essi dovrebbero.
+
+Né ancora a quelle persone il cui piacere sorge dal senso di
+
+L'odorato, se non incidentalmente: voglio dire, non diciamo che gli uomini non hanno
+
+autocontrollo perché traggono piacere dall'odore della frutta, o
+
+fiori, o incenso, bensì quando lo fanno negli odori di
+
+unguenti e salse: poiché gli uomini privi di autocontrollo traggono piacere
+
+In ciò, perché con ciò gli oggetti delle loro brame sono richiamati alla loro
+
+immaginazione (potete anche vedere altri uomini provare piacere nell'odore di
+
+cibo quando hanno fame): ma provare piacere in tali cose è segno di
+
+Il personaggio dianzi nominato, poiché questi sono per lui oggetti di desiderio.
+
+Ora neppure i bruti ricevono piacere in virtù di questi sensi, eccetto
+
+Tra l'altro. Voglio dire, non è l'odore della carne di lepre ma il
+
+mangiarlo, di cui i cani prendono piacere, percezione del quale piacere è
+
+causato dal senso dell'Odorato. O ancora, non è il muggito del bue.
+
+ma mangiarlo, che piace al leone; ma del fatto della sua vicinanza
+
+il leone è reso sensibile dal muggito, e così appare prendere
+
+piacere in questo. Allo stesso modo, egli non prova piacere nel semplice vedere.
+
+o nel trovare un cervo o un capro selvatico, ma nella prospettiva di un pasto.
+
+Le abitudini del perfetto dominio di sé e della totale assenza di autocontrollo.
+
+hanno allora per loro oggetto-materia quei piaceri di cui anche i bruti sono partecipi.
+
+in, per la qual ragione essi sono manifestamente servili e brutali: essi sono
+
+Tatto e Gusto.
+
+Ma anche del Gusto gli uomini sembrano fare poco o nessun uso; poiché al senso
+
+Al Gusto appartiene il distinguere i sapori; ciò che gli uomini fanno, in effetti,
+
+che stanno saggiando la qualità dei vini o condendo 'pietanze preparate'.
+
+Ma gli uomini non provano quasi alcun piacere in queste cose, almeno quelli
+
+che chiamiamo privi di autocontrollo non fanno, ma solo nell'attuale
+
+godimento che sorge interamente dal senso del Tatto, sia in
+
+nel mangiare o nel bere, o in lascivie più grossolane. Ciò spiega il desiderio.
+
+detto essere stato espresso una volta da un grande ghiottone, “che la sua gola
+
+"era stato formato più lungo del collo di una gru,” implicando che il suo piacere
+
+fu derivato dal Tocco.
+
+Il senso quindi al quale è connessa la [abitudine](/concepts/custom) dell'assenza di
+
+L'autocontrollo è il più comune di tutti i sensi, e questa abitudine sarebbe
+
+sembrano essere giustamente motivo di rimprovero, poiché si attacca a noi non in
+
+in quanto siamo uomini ma in quanto siamo animali. Invero è
+
+brutale compiacersi di tali cose e preferirle a tutte;
+
+poiché i più rispettabili dei piaceri derivanti dal tatto hanno
+
+sono stati accantonati; quelli, per esempio, che si verificano nel corso di
+
+l'esercizio ginnico dalla frizione e dal bagno caldo: perché il
+
+tocco dell'uomo privo di autocontrollo non è indifferentemente di
+
+qualsiasi parte del corpo ma soltanto di particolari parti.
+
+Ora degli appetiti o desideri, alcuni sono ritenuti universali, altri
+
+peculiari e acquisiti; così il desiderio di cibo è naturale poiché ognuno
+
+chi veramente necessita desideri anche cibo, sia solido che liquido, o entrambi.
+
+(e, come dice Omero, l'uomo nel fiore della giovinezza ha bisogno e desidera
+
+relazione con l'altro sesso); ma quando arriviamo a questo o a quello
+
+particolare genere, allora né il desiderio è universale né in tutti gli uomini è
+
+Essa si dirigeva agli stessi oggetti. E quindi il concepire di tale
+
+i desideri chiaramente si attaccano a noi come individui. Bisogna ammetterlo,
+
+tuttavia, che vi sia qualcosa di naturale in ciò: perché differente
+
+Le cose sono piacevoli a uomini diversi e una preferenza di alcuni.
+
+particolari oggetti a quelli casuali è universale. Ebbene, nel caso
+
+Dei desideri che sono strettamente e propriamente naturali, pochi uomini errano.
+
+e tutto in una direzione, cioè dalla parte del troppo: intendo, a
+
+Mangiare e bere di tale cibo che accade di essere sulla tavola finché uno è
+
+Il sovrappieno è eccedere in quantità il limite naturale, poiché il
+
+Il desiderio naturale è semplicemente il supplemento di una manchevolezza reale.
+
+Per questa ragione costoro sono chiamati pazzi del ventre, come riempiendolo oltre.
+
+ciò che devono, e sono i servili che diventano di questo carattere.
+
+Ma riguardo ai piaceri particolari molti uomini sbagliano e in molti
+
+modi diversi; poiché mentre il termine «affezionato a tale e tale» implica o
+
+provare piacere in oggetti sbagliati, o provare piacere eccessivamente, o come
+
+la massa degli uomini fa, o in modo sbagliato, coloro che sono privi di tutto
+
+L'autocontrollo eccede in tutti questi modi; vale a dire, prendono
+
+piacere in alcune cose in cui non dovrebbero farlo (perché
+
+sono propriamente oggetti di detestazione), e in tali come è giusto
+
+Prendere piacere in essi fanno così più di quanto dovrebbero e come la massa degli uomini.
+
+do.
+
+Ebbene, quell'eccesso rispetto ai piaceri è assenza di.
+
+autocontrollo, e biasimevole, è evidente. Ma considerando queste abitudini su
+
+il lato dei dolori, troviamo che di un uomo non si dice che abbia la virtù
+
+per resistere loro (come nel caso del Coraggio), né il vizio per non
+
+resistendo ad essi; ma l'uomo privo di autocontrollo è tale,
+
+perché è afflitto più di quanto non dovrebbe nel non ottenere le cose.
+
+che sono piacevoli (e così il suo piacere gli produce dolore), e
+
+L'uomo del Perfetto Autodominio è tale in virtù di non provare dolore.
+
+per la loro assenza, cioè per doversi astenere da ciò che è piacevole.
+
+Ora l'uomo privo di autocontrollo desidera o tutte le cose piacevoli.
+
+cose indiscriminatamente o quelle che sono specialmente piacevoli, ed egli
+
+è spinto dal suo desiderio di scegliere queste cose a preferenza di tutto
+
+altri; e questo comporta dolore, non solo quando gli manca il conseguimento
+
+dei suoi oggetti ma, nel desiderarli stesso, poiché ogni desiderio è
+
+accompagnato dal dolore. Certamente è un strano caso questo, essere addolorato da
+
+ragione del piacere.
+
+Quanto agli uomini che sono difettosi dal lato del piacere, che prendono meno
+
+piacere nelle cose di quanto dovrebbero, sono quasi immaginarie
+
+caratteri, perché tale assenza di percezione sensoriale non è naturale
+
+all'uomo: poiché anche gli altri animali distinguono tra differenti generi.
+
+del cibo, e gradire alcuni tipi e disprezzarne altri. In effetti, potrebbe un uomo
+
+si trovi chi non tragga piacere da alcuna cosa e a cui tutte le cose siano
+
+ugualmente, egli sarebbe ben lungi dall'essere umano: non vi è nome per
+
+un tale carattere perché è semplicemente immaginario.
+
+Ma l'uomo della perfetta padronanza di sé è nel giusto mezzo rispetto a
+
+questi oggetti: vale a dire, egli non prova piacere nelle cose
+
+che dilettano l'uomo vizioso, e anzi piuttosto li detesta, né a
+
+tutto in oggetti impropri; né in grande misura in alcun oggetto del
+
+classe; né è afflitto per la loro assenza; né li desidera; o,
+
+<span class="atom-split" data-atom="046" data-title="Chapter XIII. (parte 2)" data-chapter="Chapter XIII." data-kind="atom" data-srclang="en"></span>
 
 if he does, only in moderation, and neither more than he ought, nor at
 
@@ -4424,7 +8809,27 @@ Perfected Self-Mastery is not of this character, but regulates his
 
 desires by the dictates of right reason.
 
-<span class="atom-split" data-atom="047" data-title="Chapter XIV. (1/3)" data-chapter="Chapter XIV." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+se lo fa, solo con moderazione, e né più di quanto deve, né a
+
+tempi impropri, e così via; ma tali cose che sono conducenti a
+
+la salute e la buona condizione del corpo, essendo anche piacevoli, queste egli vorrà
+
+tentare di afferrare con moderazione e come deve fare, e anche tale altro
+
+le cose piacevoli che non impediscono questi scopi, e non sono sconvenienti o
+
+sproporzionato ai suoi mezzi; perché colui che ambisse a tanto
+
+proverebbe piacere per tali piaceri più di quanto sia giusto; ma l'uomo di
+
+Il Perfezionato Dominio di Sé non è di questo carattere, ma regola il suo
+
+i desideri secondo i dettami della retta ragione.
+
+<span class="atom-split" data-atom="047" data-title="Chapter XIV. (parte 1)" data-chapter="Chapter XIV." data-kind="atom" data-srclang="en"></span>
 
 Now the vice of being destitute of all Self-Control seems to be more
 
@@ -4522,7 +8927,105 @@ exactly what Reason directs. Let this be taken for our account of
 
 Perfected Self-Mastery.
 
-<span class="atom-split" data-atom="048" data-title="Chapter I. (4/10)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora il vizio di essere privo di ogni autocontrollo sembra essere più
+
+veramente volontario che la Viltà, perché il piacere è la causa della
+
+il primo e il dolore di quest'ultimo, e il piacere è oggetto di scelta,
+
+dolore dell'evitamento. E ancora, il dolore sconvolge e guasta il naturale
+
+disposizione della sua vittima, mentre il piacere non ha tale effetto ed è
+
+più volontario e quindi più giustamente esposto al rimprovero.
+
+È così anche per la seguente ragione; che è più facile essere avvezzi.
+
+per [abitudine](/concepts/custom) a resistere agli oggetti del piacere, essendovi molte cose di
+
+questo tipo nella vita e il processo di assuefazione essendo non accompagnato da
+
+pericolo; mentre per quanto riguarda gli oggetti della paura il caso è l'opposto.
+
+Ancora, la viltà come abito inveterato sembrerebbe essere volontaria in un
+
+in un modo diverso dalle particolari istanze che formano l'abitudine;
+
+perché è indolore, ma queste sconvolgono l'uomo a cagione del dolore così
+
+che egli getti via le armi e per il resto si comporti in modo sconveniente,
+
+per la qual cosa sono persino ritenuti da alcuni esercitare un potere di
+
+compulsione.
+
+Ma per l'uomo privo di Autocontrollo i casi particolari sono
+
+al contrario, del tutto volontario, essendo compiuto con desiderio e immediatezza
+
+esercizio della volontà, ma il risultato generale è meno volontario: poiché
+
+Nessun uomo desidera formare l'abitudine.
+
+Il nome di questo vizio (che significa etimologicamente non-castigatezza).
+
+applichiamo anche ai difetti dei bambini, essendoci un certo
+
+somiglianza tra i casi: a cui il nome è principalmente applicato,
+
+e a cui secondariamente o derivativamente, non è pertinente al
+
+argomento presente, ma è evidente che il più tardo nel tempo deve
+
+Prendi il nome da prima. E la metafora sembra essere una molto buona.
+
+uno; poiché tutto ciò che si aggrappa alle cose basse, ed è soggetto a grande
+
+L'aumento, dovrebbe essere castigato; e a questa descrizione il desiderio e il
+
+Bambino, rispondi nel modo più verace, in quanto anche i bambini vivono sotto la direzione.
+
+del desiderio e del tendere a ciò che è piacevole è nella maniera più preminente
+
+visti in questi.
+
+A meno che adunque l'appetito sia ubbidiente e soggetto al governante.
+
+principio diventerà molto grande: poiché nello stolto l'afferrare appresso
+
+ciò che è piacevole è insaziabile e indiscriminato; e ogni agire
+
+dal desiderio aumenta l'abito affine, e se i desideri sono
+
+grandi e violente a tal segno che addirittura scacciano del tutto la Ragione; perciò
+
+essi dovrebbero essere moderati e pochi, e sotto nessun rispetto opposti a
+
+Ragione. Ora quando l'appetito è in tale stato lo denominiamo.
+
+obbediente e castigato.
+
+In breve, come il fanciullo deve vivere con costante riguardo agli ordini
+
+del suo educatore, così dovrebbe il principio appetitivo rispetto a
+
+quelle della Ragione.
+
+Così dunque nell'uomo dalla Perfetta Padronanza di Sé, il principio appetitivo
+
+deve essere conforme alla Ragione: poiché ciò che è giusto è il bersaglio a cui
+
+entrambi i principi mirano: vale a dire, l'uomo dalla perfetta padronanza di sé.
+
+desidera ciò che deve nel modo giusto e nei tempi giusti, il che è
+
+esattamente ciò che la Ragione dirige. Si prenda questo come nostro resoconto di
+
+Perfetta padronanza di sé.
+
+<span class="atom-split" data-atom="048" data-title="Chapter I. (parte 4)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
 
 We will next speak of Liberality. Now this is thought to be the mean
 
@@ -4756,7 +9259,241 @@ spending where he ought not, and he relishes not the maxim of
 
 Simonides.
 
-<span class="atom-split" data-atom="049" data-title="Chapter II. (4/11)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Parleremo poi della liberalità. Ora questa è ritenuta essere il mezzo.
+
+stato, avente per suo oggetto la Ricchezza: voglio dire, l'uomo Liberale è
+
+lodato non nelle circostanze della guerra, né in quelle che costituiscono
+
+il carattere del compiuto autodominio, né ancora in giudiziario
+
+decisioni, ma per quanto riguarda il dare e ricevere Ricchezza, principalmente il
+
+il primo. Con il termine Ricchezza intendo “tutte quelle cose il cui valore è
+
+misurato dal denaro.
+
+Ora gli stati di eccesso e di difetto riguardo alla Ricchezza sono
+
+rispettivamente Prodigalità e Avarizia: quest'ultimo di questi termini noi
+
+si attaccano invariabilmente a coloro che sono troppo attenti alla Ricchezza, ma il
+
+Il primo lo applichiamo talvolta con una nozione complessa; vale a dire, noi
+
+dare il nome a coloro che mancano di autocontrollo e spendono denaro nel
+
+gratificazione sfrenata delle loro passioni; ed è per questo che sono
+
+ritenuti i più abietti, perché hanno molti vizi insieme.
+
+Va notato, tuttavia, che questo non è un uso stretto e proprio di
+
+il termine, poiché il suo naturale significato etimologico è quello di denotare colui che
+
+ha un male particolare, cioè lo sperpero della sua sostanza: egli non è salvo.
+
+(come il termine denota letteralmente) chi si consuma per propria colpa;
+
+e questo egli può realmente dirsi essere; la distruzione della sua sostanza.
+
+è ritenuto essere una sorta di consumarsi di sé, poiché queste cose sono
+
+I mezzi di vivere. Ebbene, questa è la nostra accezione del termine.
+
+Prodigalità.
+
+Ancora. Tutte le cose che sono per l'uso possono essere usate bene o male, e la Ricchezza.
+
+appartiene a questa classe. Egli usa ciascuna cosa particolare nel modo migliore colui che ha la
+
+virtù alla cui provincia appartiene: così che userà la Ricchezza nel modo migliore
+
+chi possiede la virtù riguardante la Ricchezza, vale a dire, l'uomo Liberale.
+
+La spesa e il donare sono ritenuti l'uso del denaro, ma
+
+Si preferirebbe chiamare il ricevere e il tenere il possederlo. E
+
+così il dare alle persone giuste è più caratteristico del liberale.
+
+uomo, che il ricevere da fonti appropriate e l'astenersi dal ricevere
+
+dal contrario. In effetti generalmente, fare del bene agli altri è più
+
+più caratteristico della virtù che essere beneficiati, e fare cose
+
+positivamente onorevole che astenersi dal fare cose disonorevoli; e
+
+Chiunque può vedere che il fare del bene agli altri e il fare cose
+
+positivamente onorevole inerisce all'atto del dare, ma a quello di
+
+ricevendo solo l'essere trattato bene da o astenendosi dal fare ciò che è
+
+disonorevole.
+
+Del resto, si rendono grazie a colui che dona, non a colui che semplicemente.
+
+Si astiene dal ricevere, e loda ancor più. Di nuovo, astenendosi dal ricevere.
+
+è più facile che dare, il caso di essere troppo poco generoso con
+
+il proprio essere più comune che prendere ciò che non è proprio.
+
+E ancora, sono essi che danno che sono denominati Liberali, mentre essi
+
+i quali si astengono dal ricevere sono commendati, non per ragione di Liberalità
+
+ma del giusto agire, mentre per il ricevere gli uomini non sono, in effetti, lodati.
+
+affatto.
+
+E i liberali sono amati quasi più di tutti i caratteri virtuosi,
+
+perché sono profittevoli agli altri, e questa loro profittevolezza
+
+consiste nel loro dare.
+
+Inoltre: tutte le azioni compiute in conformità alla virtù sono
+
+onorevole, e fatto per motivo d'onore: e l'uomo liberale,
+
+quindi, darà per un motivo d'onore, e darà rettamente; io
+
+il mezzo, alle persone giuste, nella giusta proporzione, nei tempi giusti, e
+
+tutto ciò che è incluso nel termine “dare giusto:” e anche questo con
+
+piacere positivo, o almeno senza dolore, poiché qualunque cosa è fatta in
+
+la conformità alla virtù è piacevole o almeno non spiacevole, assai
+
+Certamente non accompagnato da dolore positivo.
+
+Ma l'uomo che dà a persone indegne, o non per un motivo di
+
+onore ma da qualche altra causa, sarà chiamato non Liberale ma
+
+qualcos'altro. Né sarà egli così denominato colui che lo fa con
+
+dolore: essendo questo un segno che egli preferirebbe la sua ricchezza al
+
+azione onorevole, e questo non è parte del carattere dell'uomo liberale;
+
+né tale persona riceverà da fonti improprie, perché il così
+
+Ricevere non è proprio di chi non apprezza la ricchezza: né ancora
+
+sarà egli propenso a chiedere, perché chi fa del bene agli altri lo fa
+
+di solito non li ricevono volentieri; ma da fonti appropriate (le sue
+
+proprietà, per esempio) egli riceverà, facendo ciò non come onorevole
+
+ma come necessario, affinché egli abbia qualcosa da dare: né sarà egli
+
+Incurante dei propri, poiché è suo desiderio attraverso questi aiutare gli altri.
+
+nel bisogno: né darà a persone [del caso](/concepts/fortune), affinché abbia di che
+
+dare a coloro ai quali deve, nei tempi debiti, e nelle occasioni
+
+quando è onorevole farlo.
+
+Ancora, è un tratto del carattere dell'uomo liberale anche eccedere assai.
+
+molto nel dare sì da lasciare troppo poco a se medesimo, essendo
+
+caratteristico di un tale non avere un pensiero di sé.
+
+Ora la Liberalità è un termine di relazione ai mezzi di un uomo, poiché il
+
+La liberalità non dipende dalla quantità di ciò che è dato ma dalla
+
+stato morale del donatore che dà in proporzione ai suoi mezzi. Lì
+
+Non v'è allora alcuna ragione per cui egli non debba essere l'uomo più Liberale che dà.
+
+la minore quantità, se egli ha meno da cui dare.
+
+Ancora, si pensa che siano più Liberali coloro che hanno ereditato, non
+
+si sono procurati i loro mezzi; perché, in primo luogo, essi
+
+non ho mai conosciuto il bisogno, e inoltre, tutti gli uomini amano sopra ogni cosa il proprio.
+
+lavora, proprio come fanno i genitori e i poeti.
+
+Non è facile all'uomo liberale essere ricco, poiché egli non è né atto.
+
+né ricevere né trattenere, ma prodigare, e non stima la ricchezza per sé stessa.
+
+profitto, ma in vista di diffonderlo. Perciò è comunemente accusata
+
+Sulla fortuna che coloro che più meritano di essere ricchi lo sono meno. Eppure
+
+Questo accade abbastanza ragionevolmente; è impossibile che egli abbia ricchezza.
+
+che non si prende alcuna cura di averlo, così come in qualsiasi caso simile.
+
+Tuttavia non darà a persone indegne, né in tempi non opportuni, e così via:
+
+perché egli non agirebbe allora secondo la Liberalità, e
+
+se egli spendesse in tali oggetti, non avrebbe nulla da spendere in quelli su
+
+che egli deve: perché, come ho detto prima, egli è Liberale che spende in
+
+in proporzione ai suoi mezzi, e su oggetti appropriati, mentre colui che lo fa in
+
+l'eccesso è prodigo (questa è la ragione per cui non chiamiamo mai i despoti
+
+prodigo, perché non sembra essere facile per loro con i loro doni.
+
+e la spesa per andare oltre le loro immense possessioni).
+
+Per riassumere, quindi. Poiché la liberalità è una medietà rispetto al
+
+nel dare e ricevere ricchezza, l'uomo liberale darà e spenderà in
+
+gli oggetti giusti, e nella giusta proporzione, nelle cose grandi e nelle piccole
+
+parimenti, e tutto ciò con piacere per sé; anche egli riceverà da
+
+giuste fonti, e in giusta proporzione: perché, essendo la virtù una
+
+stato medio rispetto a entrambi, farà entrambe le cose come deve, e, in
+
+fatto, al dare appropriato segue il ricevere corrispondente, mentre
+
+ciò che non è tale è contrario ad esso. (Ora quelli che seguono uno
+
+un altro venire a coesistere nella stessa persona, quelli che sono contrari.
+
+chiaramente non lo fanno.)
+
+Ancora, dovesse accadergli di spendere denaro oltre il necessario,
+
+o altrimenti che non sia bene, egli sarà afflitto, ma solo moderatamente e come
+
+egli deve; poiché provare piacere e dolore per gli oggetti giusti, e nella giusta
+
+maniera, è una proprietà della Virtù.
+
+L'uomo liberale è anche un buon uomo da avere come compagno in merito a
+
+ricchezza: poiché egli può essere facilmente offeso, non apprezzando la ricchezza, e
+
+è più crucciato per il non spendere dove avrebbe dovuto farlo che per
+
+spendendo ove non dovrebbe, e non gusta la massima di
+
+Simonide.
+
+<span class="atom-split" data-atom="049" data-title="Chapter II. (parte 4)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
 
 But the Prodigal man goes wrong also in these points, for he is neither
 
@@ -4938,7 +9675,189 @@ Let this be considered as what we have to say respecting Liberality and
 
 the contrary vices.
 
-<span class="atom-split" data-atom="050" data-title="Chapter III. (5/11)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ma l'uomo prodigo sbaglia anche in questi punti, perché non è né
+
+né lieto né addolorato per gli oggetti convenienti o nel modo conveniente, il che vuole
+
+diviene più evidente man mano che procediamo.
+
+Abbiamo già detto che la Prodigalità e l'Avarizia sono rispettivamente
+
+stati di eccesso e di difetto, e questo in due cose, dare e
+
+Ricevere (la spesa, naturalmente, la classifichiamo tra il dare). Ebbene,
+
+La prodigalità eccede nel dare e nell'astenersi dal ricevere ed è
+
+carente nel ricevere, mentre l'avarizia è carente nel dare e
+
+eccede nel ricevere, ma è nelle piccole cose.
+
+Le due parti della Prodigalità, a dire il vero, non sogliono andare insieme;
+
+Non è facile, voglio dire, dare a tutti se non si riceve da nessuno.
+
+perché i privati che così donando presto troveranno i loro mezzi venir meno
+
+breve, e tali sono in effetti considerati prodighi. Colui che dovrebbe
+
+Combinare entrambe le cose sembrerebbe non poco superiore all'uomo Avaro: poiché
+
+egli può essere facilmente curato, sia avanzando negli anni, e anche dal
+
+mancanza di mezzi, e può così giungere al mezzo: egli ha, vedete,
+
+già i fatti dell'uomo Liberale, egli dà e si astiene dal
+
+ricevere, solo che non fa né nella giusta maniera né bene. Così se potesse
+
+essere plasmato dall'abitudine in questo rispetto, o cambiare in qualunque altro
+
+così, sarebbe un vero liberale, poiché darà a coloro a cui
+
+egli dovrebbe, e si asterrà dal ricevere donde non deve. Questo è il
+
+anche la ragione per cui egli è ritenuto non essere di basso carattere morale, perché
+
+Eccedere nel dare e nell'astenersi dal ricevere non è segno di cattiveria.
+
+o meschinità, ma solo di follia.
+
+Ebbene, chi è Prodigo in questo modo è ritenuto di gran lunga superiore.
+
+all'uomo avaro per le suddette ragioni, e anche perché egli
+
+Giova a molti, ma l'avaro a nessuno, nemmeno a sé stesso.
+
+Ma la maggior parte dei Prodighi, come è stato detto, uniscono agli altri loro difetti
+
+quello di ricevere da fonti improprie, e su questo punto sono Avari:
+
+e diventano avidi, perché desiderano spendere e non possono farlo.
+
+facilmente, poiché i loro mezzi ben presto vengono meno e sono necessitati a
+
+ricevere da qualche altra parte; e poi ancora, perché non si curano di
+
+Ciò che è onorevole, ricevono sconsideratamente, e da ogni fonte.
+
+indifferentemente, perché desiderano dare ma non si curano né del come né del donde.
+
+E per questa ragione le loro donazioni non sono Liberali, in quanto esse sono
+
+non onorevole, né puramente disinteressato, né fatto in modo retto;
+
+ma essi spesse volte fanno ricchi coloro che dovrebbero essere poveri, e a coloro
+
+che sono persone tranquille rispettabili gentili non daranno nulla, ma a
+
+adulatori, o coloro che in qualsiasi modo assecondano i loro piaceri, essi vogliono
+
+danno molto. E quindi la maggior parte di loro sono del tutto privi di
+
+autocontrollo; poiché, essendo di manica larga, sono liberali in
+
+dispendio per l'appagamento sfrenato delle loro passioni, e
+
+si chiudono ai loro piaceri perché non vivono in riferimento a
+
+Che cosa è onorevole?
+
+Così dunque il Prodigo, se non guidato, scivola in questi difetti; ma se
+
+egli potrebbe ottenere che gli si prodigassero cure, potrebbe giungere al mezzo e a che cosa
+
+è giusto.
+
+L'avarizia, al contrario, è incurabile: la vecchiaia, per esempio, e
+
+l'incapacità di qualsiasi genere, si pensa che renda le persone avare; ed è
+
+più congeniale alla [natura umana](/axes/human_nature) che la Prodigalità, essendo la massa degli uomini
+
+amante del denaro piuttosto che incline a dare: inoltre si estende lontano e ha
+
+molte fasi, essendo ritenuti molti i modi dell'avarizia. Poiché come
+
+consiste in due cose, difetto del dare ed eccesso del ricevere,
+
+non tutti lo hanno intero, ma talvolta è diviso, e uno
+
+classe di persone eccedono nel ricevere, gli altri sono deficienti in
+
+Il dare. Intendo coloro che sono designati con tali appellativi come
+
+Parsimoniosi, tirchi, spilorci, sono tutti carenti nel dare; ma altri
+
+La proprietà degli uomini, essi non desiderano né sono disposti a ricevere, in alcuni
+
+esempi da una vera moderazione e il rifuggire da ciò che è vile.
+
+Ci sono alcune persone il cui motivo, o supposto o asserito, per
+
+Il mantenere la loro proprietà è questo, che non siano mai costretti a fare.
+
+qualsiasi cosa disonorevole: a questa classe appartiene lo spilorcio, e ogni
+
+uno di simile carattere, così nominato dall'eccesso del non dare.
+
+Altri ancora rifiutano di ricevere i beni del loro prossimo per un motivo.
+
+di paura; essendo la loro opinione che non sia facile accettare le opinioni altrui.
+
+Fa' le cose da te stesso senza che essi prendano le tue: così non sono contenti neppure.
+
+né ricevere né dare.
+
+L'altra classe ancora che sono avari nel ricevere eccedono in
+
+che ricevano alcunché da qualsivoglia fonte; come coloro che lavorano a
+
+impieghi illiberali, tenutari di bordelli, e simili, e usurai che
+
+prestare piccole somme a grande interesse: poiché tutti costoro ricevono da impropri
+
+fonti, e quantità improprie. La loro caratteristica comune è
+
+che guadagnano vilmente, poiché tutti si sottomettono al disonore per amor di guadagno.
+
+e questo poco; perché coloro che ricevono grandi cose né donde.
+
+essi dovrebbero, né ciò che dovrebbero (come per esempio i despoti che saccheggiano
+
+città e saccheggiano templi), denominiamo malvagi, empi e ingiusti,
+
+ma non avaro.
+
+Ora il giocatore di dadi e il saccheggiatore di bagni e il ladro appartengono alla classe di
+
+gli avari, poiché sono dediti al guadagno vile: entrambi si affaccendano e
+
+si sottomettono al disonore per amor di guadagno, e l'una classe incorre nel
+
+I più grandi pericoli per amore del loro bottino, mentre gli altri fanno
+
+guadagno dei loro amici a cui dovrebbero dare.
+
+Quindi entrambe le classi, poiché desiderano trarre guadagno da fonti improprie, sono
+
+dato al vile guadagno, e tutti tali ricevimenti sono avari. E con bene
+
+la ragione è l'Avarizia chiamata il contrario della Liberalità: sia perché
+
+è un male maggiore della Prodigalità, e perché gli uomini errano piuttosto in questo.
+
+direzione che in quella della Prodigalità di cui abbiamo parlato come
+
+propriamente e completamente tale.
+
+Si consideri questo come ciò che abbiamo da dire riguardo alla Liberalità e
+
+i vizi contrari.
+
+<span class="atom-split" data-atom="050" data-title="Chapter III. (parte 5)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
 
 Next in order would seem to come a dissertation on Magnificence, this
 
@@ -5148,7 +10067,217 @@ Of course, both these states are faulty, but they do not involve
 
 disgrace because they are neither hurtful to others nor very unseemly.
 
-<span class="atom-split" data-atom="051" data-title="Chapter IV. (4/12)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+In ordine successivo sembrerebbe venire una dissertazione sulla Magnificenza, questo.
+
+essendo ritenuta, come la liberalità, una virtù che ha per sua
+
+oggetto-materia Ricchezza; ma esso non si estende, come quella, a tutto.
+
+transazioni riguardanti la Ricchezza, ma si applica solo a quelle che sono
+
+dispendiosa, e in queste circostanze eccede la liberalità in riguardo.
+
+di grandezza, perché è (ciò che il nome stesso in greco suggerisce)
+
+spesa adeguata su larga scala: questo termine è ovviamente relativo: io
+
+intendo, la spesa per allestire e comandare una trireme non è il
+
+lo stesso di quello di dare uno spettacolo pubblico: “fitting”, naturalmente, lo è anche
+
+relativo all'individuo, e la materia nella quale e sulla quale egli
+
+deve spendere. E un uomo non è denominato Magnifico per spendere come
+
+dovrebbe fare nelle piccole o ordinarie cose, come, per esempio,
+
+Spesso al mendicante errante io diedi.
+
+ma per fare ciò nelle grandi cose: cioè, l'uomo Magnifico.
+
+è liberale, ma il liberale non è per questo Magnifico. Il cadere.
+
+Il difetto di tale stato è chiamato Grettezza, l'eccesso di esso Volgarità.
+
+Profusione, Mancanza di Gusto, e così via; che sono difettose, non perché esse
+
+sono su una scala eccessiva rispetto agli oggetti giusti ma, perché essi
+
+ostentare in oggetti impropri, e in maniera impropria: di queste noi vogliamo
+
+Parla subito. L'uomo magnifico è simile a un uomo abile, perché egli
+
+può vedere ciò che è conveniente, e può spendere generosamente con buon gusto; poiché, come
+
+dicemmo al principio, la confermata [abitudine](/concepts/custom) è determinata dal
+
+atti separati dell'operare, e dalla sua materia oggettuale.
+
+Ebbene, le spese dell'uomo magnifico sono grandi e convenienti: tali
+
+anche sono le sue opere (perché questo assicura la spesa essendo non
+
+meramente grande, ma adatta all'opera). Dunque l'opera è da essere
+
+proporzionato alla spesa, e questa a sua volta al lavoro, o anche al di sopra
+
+e l'uomo Magnifico sosterrà tali spese per il motivo di
+
+onore, essendo questo comune a tutte le virtù, e inoltre egli lo farà
+
+con piacere e profusamente; essendo l'eccessiva accuratezza nel calcolo
+
+Il mezzo. Egli considererà anche come una cosa possa essere fatta nel modo più bello.
+
+E convenientemente, piuttosto, che per quanto possa essere fatto, e come al
+
+minima spesa.
+
+Dunque l'uomo magnifico deve essere anche un uomo liberale, perché il liberale
+
+l'uomo spenderà anche ciò che deve, e nel modo giusto: ma è il
+
+Grande, cioè la grande scala, che è caratteristica del
+
+Magnificent man, the object-matter of liberality being the same, and
+
+senza spendere più denaro di un altro uomo farà il lavoro di più
+
+Magnifico. Voglio dire, l'eccellenza di un possesso e di un'opera è
+
+non lo stesso: come pezzo di proprietà quella cosa è la più preziosa che
+
+vale di più, per esempio l’oro; ma come opera ciò che è grande e
+
+bello, perché la contemplazione di un tale oggetto è ammirevole,
+
+e così è ciò che è Magnifico. Dunque l'eccellenza di un'opera è
+
+Magnificenza su larga scala. Ci sono casi di spesa che noi
+
+chiamiamo onorevoli, quali sono le offerte votive agli dei, e il
+
+fornendo i loro templi, e i sacrifici, e similmente ogni cosa
+
+che ha riferimento alla Divinità, e tutti quegli affari pubblici che sono
+
+oggetti di onorevole ambizione, come quando gli uomini pensano in ogni caso che esso
+
+è loro dovere fornire splendidamente un coro per la scena, o allestire
+
+e mantenere una trireme, o dare un banchetto pubblico generale.
+
+Ora in tutte queste, come è già stato detto, si ha riguardo anche a
+
+il rango e i mezzi dell'uomo che le compie: perché essi
+
+dovrebbe essere proporzionato a questi, e addirsi non solo all'opera ma anche
+
+l'artefice dell'opera. Per questa ragione un uomo povero non può essere un
+
+Uomo magnifico, poiché non ha mezzi con cui spendere largamente e
+
+tuttavia convenientemente; e se egli tenta di farlo è uno stolto, in quanto è
+
+fuori di proporzione e contrario alla convenienza, mentre essere in
+
+Conformità con la virtù una cosa deve essere fatta rettamente.
+
+Tale spesa si addice inoltre a coloro ai quali tali cose
+
+appartenevano precedentemente, o attraverso loro stessi o attraverso i loro antenati.
+
+o persone con cui sono legati, e ai nobili o alla gente
+
+di alta reputazione, e così via: perché tutte queste cose implicano grandezza e
+
+reputazione.
+
+Quindi l'uomo Magnifico è più o meno come l'ho descritto, e
+
+La magnificenza consiste in tali spese: perché esse sono le
+
+grandissime e onoratissime: e di private che vengono una volta sola.
+
+per tutti, cioè il matrimonio, e cose del genere; e ogni occasione
+
+che interessa la comunità in generale, o di coloro che
+
+sono al potere; e ciò che concerne il ricevere e il congedare i forestieri;
+
+e doni, e ricambiare i doni: perché l'uomo Magnifico non è incline
+
+spendere su di sé ma per il bene pubblico, e i doni sono pressappoco
+
+nel medesimo caso delle offerte dedicatorie.
+
+È caratteristico anche dell'uomo Magnifico fornire la sua casa.
+
+convenientemente alla sua ricchezza, poiché anche questo in un certo modo reca credito; e
+
+ancora, spendere piuttosto in tali opere che sono di lunga durata, queste
+
+Essendo sommamente onorevole. E ancora, la convenienza in ciascun caso, perché il
+
+Le stesse cose non si addicono agli dèi e agli uomini, né in un tempio e a
+
+tomba. E ancora, nel caso delle spese, ciascuna deve essere grande del suo
+
+genere, e la grande spesa per un grande oggetto è la più magnifica, cioè
+
+in ogni caso ciò che è grande in queste cose particolari.
+
+C'è anche una differenza tra la grandezza di un'opera e la grandezza di
+
+spesa: per esempio, una palla o una coppa molto bella è magnifica.
+
+come dono a un bambino, mentre il prezzo di esso è piccolo e quasi
+
+meschino. Dunque è caratteristico dell'uomo magnifico fare
+
+magnificamente qualunque cosa egli faccia: poiché tutto ciò che è di questo genere non può
+
+essere facilmente superato, e sta in giusta proporzione con la spesa.
+
+Tale è dunque l'uomo Magnifico.
+
+L'uomo che è in [lo stato](/concepts/state) di eccesso, chiamato uno di Profusione Volgare,
+
+è in eccesso perché spende in modo improprio, come è stato detto. Intendo in
+
+nei casi che richiedono piccola spesa egli profonde molto e fa sfoggio per
+
+gusto; dando al suo club un banchetto degno di una festa di nozze, o se deve
+
+fornire un coro per una commedia, dando agli attori porpora da indossare nel
+
+prima scena, come fecero i Megaresi. E tutte queste cose egli farà, non
+
+in vista di ciò che è veramente onorevole, ma per mostrare il suo
+
+ricchezza, e perché pensa che sarà ammirato per queste cose; e
+
+spenderà poco dove dovrebbe spendere molto, e molto dove egli
+
+dovrebbe spendere poco.
+
+L'uomo meschino sarà in difetto in ogni caso, e anche dove ha
+
+Speso il più, egli rovinerà tutto l'effetto per mancanza di qualche bagattella;
+
+Egli procrastina in tutto ciò che fa, e escogita come possa spendere.
+
+il minimo, e fa anche ciò con lamentazioni sulla spesa, e
+
+pensando che egli faccia tutte le cose su una scala più grande di quanto dovrebbe.
+
+Naturalmente, entrambi questi stati sono difettosi, ma non comportano
+
+Disonore perché non sono né dannosi per gli altri né molto sconvenienti.
+
+<span class="atom-split" data-atom="051" data-title="Chapter IV. (parte 4)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
 
 The very name of Great-mindedness implies, that great things are its
 
@@ -5402,7 +10531,261 @@ and those great and famous. It is a property of him also to be open,
 
 both in his dislikes and his likings, because concealment is a
 
-<span class="atom-split" data-atom="052" data-title="Chapter IV. (5/12)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Il nome stesso di Magnanimità implica che le grandi cose sono la sua
+
+materia; e stabiliremo prima di che genere esse siano. Non fa
+
+differenza, naturalmente, se consideriamo lo stato morale nella
+
+astratto o come esemplificato in un individuo.
+
+Orbene, si ritiene magnanimo chi ha grande stima di sé
+
+e al tempo stesso giustamente, perché chi fa ciò senza fondamento è
+
+stolto, e nessun carattere virtuoso è stolto o insensato. Orbene, il
+
+carattere che ho descritto è magnanimo. L'uomo che stima
+
+se stesso poco, e al tempo stesso giustamente, è modesto; ma non
+
+magnanimo, poiché questa ultima qualità implica grandezza, così come
+
+[bellezza](/concepts/beauty) implica una grande conformazione corporea, mentre le persone piccole sono aggraziate
+
+e ben fatte ma non belle.
+
+Ancora, chi stima se stesso molto senza giusti fondamenti è un uomo Vanitoso:
+
+sebbene il nome non debba essere applicato a ogni caso di stima di sé
+
+eccessivamente alta. Chi stima se stesso al di sotto del suo vero valore è
+
+piccolo di spirito, e sia che quel valore sia grande, moderato o piccolo, la sua
+
+propria stima resta al di sotto. Ed egli è il caso più forte di questo errore
+
+chi è realmente un uomo di grande valore, poiché che cosa avrebbe fatto se il suo
+
+valore fosse stato minore?
+
+Il magnanimo è quindi, per quanto riguarda la grandezza, al
+
+sommo, ma rispetto alla convenienza egli sta nel mezzo, perché
+
+stima se stesso secondo il suo vero valore (gli altri caratteri rispettivamente
+
+sono in eccesso e in difetto). Poiché quindi egli stima se stesso giustamente a un
+
+alto, o piuttosto al più alto grado possibile, il suo carattere avrà
+
+riguardo specialmente a una cosa: questo termine "grado" si riferisce
+
+naturalmente ai beni esterni: e di questi dobbiamo supporre che sia il
+
+maggiore quello che attribuiamo agli dèi, e che è il particolare
+
+oggetto di desiderio per coloro che sono al potere, e che è il premio
+
+proposto alle azioni più onorevoli: ora l'onore corrisponde a queste
+
+descrizioni, essendo il maggiore dei beni esterni. Così il magnanimo
+
+si comporta come deve rispetto all'onore e al disonore. In
+
+fatti, senza bisogno di parole, i magnanimi hanno chiaramente l'onore per
+
+loro oggetto: poiché l'onore è ciò che i grandi ritengono di sé
+
+specialmente degni, e secondo un certo grado.
+
+L'uomo piccolo di spirito è carente, sia per quanto riguarda se stesso, sia anche
+
+per quanto riguarda la stima del magnanimo: mentre l'uomo vanitoso è in
+
+eccesso per quanto riguarda se stesso, ma non supera il magnanimo
+
+uomo. Ora il magnanimo, essendo per ipotesi degno delle
+
+cose più grandi, deve essere della più alta eccellenza, poiché quanto migliore è un
+
+uomo, tanto più egli vale, e chi è migliore vale di più: ne
+
+consegue allora che per essere veramente magnanimo un uomo deve essere buono, e
+
+tutto ciò che è grande in ciascuna virtù sembrerebbe appartenere al
+
+magnanimo. Non corrisponderebbe affatto al carattere del
+
+magnanimo fuggire allargando le mani; né recar danno a
+
+nessuno; poiché con quale scopo in vista farà ciò che è vile, colui agli occhi del quale
+
+nulla è grande? in breve, se si volesse entrare nei particolari,
+
+il magnanimo apparirebbe del tutto ridicolo a meno che non fosse un uomo
+
+buono: non sarebbe in realtà degno di onore se fosse un uomo cattivo,
+
+essendo l'onore il premio della virtù e dato ai buoni.
+
+Questa virtù, quindi, della Magnanimità sembra essere una sorta di ornamento
+
+di tutte le altre virtù, in quanto le rende migliori e non può
+
+essere senza di esse; e per questo è cosa difficile essere realmente e
+
+veramente magnanimo; poiché non può essere senza completa bontà e
+
+nobiltà di carattere.
+
+L'onore e il disonore sono quindi specialmente l'oggetto del
+
+magnanimo: e di fronte a quello che è grande e dato da uomini buoni, egli
+
+sarà moderatamente lieto come ricevendo ciò che è suo, o forse un po' meno,
+
+poiché nessun onore può essere del tutto adeguato alla virtù perfetta: ma egli
+
+accetterà questo perché non hanno nulla di più alto da dargli. Ma quello
+
+che è dato dalla gente comune e per motivi futili lo disprezzerà completamente,
+
+perché queste cose non sono all'altezza dei suoi meriti: e il disonore
+
+similmente, perché nel suo caso non può esserci giusto motivo per esso.
+
+Ora sebbene, come ho detto, l'onore sia specialmente l'oggetto del
+
+magnanimo, non intendo dire che egli non si comporti ugualmente con moderazione
+
+riguardo a ricchezza e potere, e alla buona o cattiva sorte di ogni genere, egli si comporterà
+
+con moderazione, comunque volgano le cose, e né nella
+
+prosperità sarà oltremodo lieto né nell'avversità sarà indebitamente
+
+addolorato. Poiché nemmeno rispetto all'onore si comporta così; e
+
+tuttavia esso è il più grande di tutti questi oggetti, poiché è la causa per cui
+
+potere e ricchezza sono degni di scelta, poiché certamente coloro che li hanno
+
+desiderano ricevere onore per mezzo di essi. Così, per chi anche l'onore è una
+
+piccola cosa, tutte le altre cose saranno tali per lui; ed è per questo che
+
+tali uomini sono ritenuti altezzosi.
+
+Sembra anche che i colpi di buona sorte contribuiscano a formare questo
+
+carattere di Magnanimità: voglio dire, i nobili di nascita, o gli uomini di
+
+influenza, o i ricchi, sono considerati aventi diritto all'onore, poiché
+
+essi sono in una posizione di eminenza e tutto ciò che è eminente per il bene è
+
+più avente diritto all'onore: ed è per questo che tali circostanze dispongono gli uomini
+
+piuttosto alla Magnanimità, perché ricevono onore per mano di
+
+alcuni uomini.
+
+Ora davvero e veramente il solo uomo buono ha diritto all'onore; solo se
+
+un uomo unisce in sé la bontà con questi vantaggi esterni egli è
+
+ritenuto più avente diritto all'onore: ma coloro che li hanno senza
+
+avere anche la virtù non sono giustificati nella loro alta stima di
+
+se stessi, né sono giustamente denominati magnanimi; poiché
+
+la virtù perfetta è una delle condizioni indispensabili per un tale
+
+carattere.
+
+Inoltre, tali uomini diventano altezzosi e insolenti, non essendo facile
+
+sopportare bene la prosperità senza bontà; e non essendo capaci di sopportarla,
+
+e posseduti dall'idea della loro superiorità sugli altri, essi
+
+li disprezzano e fanno proprio tutto ciò che il loro capriccio suggerisce; poiché imitano
+
+il magnanimo, sebbene non siano come lui, e fanno questo in
+
+tutti i punti in cui possono, così senza compiere le azioni che possono solo
+
+scaturire dalla vera bontà disprezzano gli altri. Mentre il magnanimo
+
+disprezza su buoni fondamenti (poiché forma le sue opinioni secondo verità), ma la
+
+massa degli uomini lo fa a caso.
+
+Inoltre, egli non è uomo da incorrere in piccoli rischi, né cerca
+
+il pericolo, perché vi sono poche cose per cui egli abbia stima; ma
+
+affronterà grandi pericoli, e quando si avventura è prodigo della
+
+sua vita, sapendo che ci sono condizioni in cui non vale la pena di
+
+vivere. Egli è il tipo di uomo che fa favori, ma si vergogna
+
+di riceverli; il primo atto mette un uomo nella posizione di
+
+superiorità, il secondo in quella di inferiorità; di conseguenza egli
+
+ricambierà con grande sovrabbondanza ogni favore ricevuto, perché l'autore iniziale
+
+sarà così posto sotto obbligo e si troverà nella posizione della parte
+
+beneficiata. Tali uomini sembrano anche ricordare coloro ai quali hanno fatto
+
+benefici, ma non coloro dai quali li hanno ricevuti: poiché
+
+chi ha ricevuto è inferiore a chi ha fatto il favore e
+
+il nostro uomo desidera essere superiore; di conseguenza gli piace sentire parlare
+
+delle proprie buone azioni, ma non di quelle fatte a lui (ed è per questo che, in
+
+Omero, Teti non menziona a Giove i favori che gli aveva fatto,
+
+né i Lacedemoni agli Ateniesi, ma solo i benefici
+
+che avevano ricevuto).
+
+Inoltre, è caratteristico del magnanimo chiedere favori
+
+per niente, o molto riluttantemente, ma fare un servizio molto prontamente; e
+
+comportarsi con alterigia verso i grandi o i fortunati, ma verso
+
+la gente di condizione media affabilmente; poiché essere al di sopra dei primi è
+
+difficile e quindi una cosa grande, ma essere al di sopra degli ultimi è facile; e
+
+essere altezzoso e arrogante verso i primi non è ignobile, ma farlo
+
+verso quelli di umile condizione sarebbe basso e volgare; sarebbe
+
+come ostentare forza contro i deboli.
+
+E ancora, non mettersi sulla via dell'onore, né andare dove
+
+gli altri sono i primi; ed essere negligente e lento, eccetto nel
+
+caso di qualche grande onore o opera; e occuparsi di poche cose,
+
+e di queste grandi e famose. È anche una sua proprietà essere aperto,
+
+sia nelle sue avversioni sia nei suoi affetti, poiché il nascondimento è una
+
+<span class="atom-split" data-atom="052" data-title="Chapter IV. (parte 5)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
 
 consequent of fear. Likewise to be careful for reality rather than
 
@@ -5458,7 +10841,63 @@ esteems nothing great to be very intent: and sharp tones and quickness
 
 are the result of these.
 
-<span class="atom-split" data-atom="053" data-title="Chapter V. (4/10)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Conseguente della paura. Similmente essere attenti alla realtà piuttosto che
+
+apparenza, e parlare e agire apertamente (poiché il suo disprezzo per gli altri rende
+
+lui un uomo audace, per la qual stessa ragione è incline a dire la verità,
+
+eccetto dove entra in gioco il principio di riserva), ma essere riservati
+
+verso la generalità degli uomini.
+
+E essere incapace di vivere avendo riferimento ad alcun altro se non a un amico;
+
+perché il far ciò è servile, come si vede in quanto tutti gli adulatori sono
+
+i bassi e gli uomini di umile condizione sono adulatori. Nemmeno la sua ammirazione è.
+
+facilmente eccitato, perché nulla è grande ai suoi occhi; né sopporta
+
+malizia, poiché ricordare alcuna cosa, e specialmente i torti, non è parte di
+
+La grandezza d'animo, ma piuttosto trascurandoli; né parla egli di
+
+altri uomini; infatti, non parlerà né di sé né di alcun
+
+altro; egli non si cura né di essere lodato egli stesso né che altri lo siano
+
+biasimato; né d'altra parte loda liberamente, e per questa ragione non è
+
+Incline a parlare male persino dei suoi nemici, tranne che per mostrare disprezzo e
+
+insolenza.
+
+E non è affatto incline a fare lamenti su cose che non possono essere.
+
+aiutato, o richieste riguardo a quelle che sono banali; perché essere così
+
+disposto rispetto a queste cose è conseguente solo al reale.
+
+ansia per loro. Di nuovo, è il tipo d'uomo che acquisisce ciò che è
+
+bello e improduttivo piuttosto che ciò che è produttivo e
+
+profittevole: essendo ciò piuttosto la parte di un uomo indipendente.
+
+Anche il movimento lento, la voce dai toni profondi, e lo stile deliberato di parola, sono
+
+ritenuto caratteristico dell'uomo magnanimo: poiché colui che è
+
+Chi è serio riguardo a poche cose non è probabile che abbia fretta, né colui che
+
+Non stima gran cosa l'essere molto intento: e i toni aspri e la prestezza.
+
+sono il risultato di questi.
+
+<span class="atom-split" data-atom="053" data-title="Chapter V. (parte 4)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
 
 This then is my idea of the Great-minded man; and he who is in the
 
@@ -5508,7 +10947,57 @@ opposed to Great-mindedness, because it is more commonly met with and
 
 is worse.
 
-<span class="atom-split" data-atom="054" data-title="Chapter VI. (4/11)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Questa è dunque la mia idea dell'uomo magnanimo; e colui che è nel
+
+Il difetto è un uomo piccolo d'animo, chi è nell'eccesso un uomo vano.
+
+Tuttavia, come abbiamo osservato per quanto riguarda l'ultimo personaggio di cui abbiamo discusso,
+
+questi estremi non sono considerati viziosi esattamente, ma solo
+
+Sbagliati, poiché non recano danno.
+
+L'uomo meschino, per esempio, essendo realmente degno di bene.
+
+si priva dei suoi meriti, e sembra avere qualcosa di difettoso da
+
+non avendo una stima sufficientemente alta del proprio merito, in realtà da
+
+auto-ignoranza: perché, senza questo, egli avrebbe cercato di afferrare ciò che
+
+egli ha davvero diritto a ciò, e questo è bene. Tuttavia tali caratteri sono
+
+non ritenuti stolti, ma piuttosto ritardatari. Ma l'avere un tale
+
+l'opinione di sé stessi sembra avere un effetto deteriorante sul
+
+carattere: perché in tutti i casi i fini degli uomini sono regolati dai loro
+
+presunto deserto, e così questi uomini, sotto una nozione della propria mancanza
+
+del merito, tenersi in disparte dalle azioni e dai corsi onorevoli, e
+
+similmente dai beni esterni.
+
+Ma i Vanitosi sono stolti e ignari di sé, e ciò palpabilmente: perché
+
+tentano cose onorevoli, come se fossero degni, e poi
+
+essi sono individuati. Essi si distinguono anche, per l'abbigliamento, e
+
+carrozza, e cose siffatte, e desiderare che il loro bene.
+
+Le circostanze possono essere viste, e se ne parla sotto la nozione di
+
+ricevendone onore. La meschinità piuttosto che la Vanità è
+
+opposta alla Grandezza d'animo, perché è più comunemente riscontrata e
+
+è peggio.
+
+<span class="atom-split" data-atom="054" data-title="Chapter VI. (parte 4)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
 
 Well, the virtue of Great-mindedness has for its object great Honour,
 
@@ -5574,7 +11063,73 @@ extreme characters appear to be opposed, because the mean has no name
 
 appropriated to it.
 
-<span class="atom-split" data-atom="055" data-title="Chapter VII. (4/10)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora, la virtù della magnanimità ha per oggetto il grande onore.
+
+come abbiamo detto: e sembra esserci una virtù avente l'Onore anche per
+
+il suo oggetto (come abbiamo affermato nel libro precedente), che può sembrare riferirsi a
+
+La grandezza d'animo lo stesso rapporto che la Liberalità ha verso
+
+Magnificenza: cioè, entrambe queste virtù stanno lontane da ciò che è
+
+grandi ma ci dispongano come dobbiamo essere disposti verso il moderato e
+
+piccole cose. Inoltre: come nel dare e ricevere ricchezza c'è una
+
+stato medio, un eccesso e un difetto, così pure nel bramare
+
+Onore v'è il più o il meno di quanto è giusto, e anche il far ciò.
+
+Da giuste fonti e nel giusto modo.
+
+Poiché biasimiamo l'amante dell'Onore come mirante all'Onore più di quanto egli
+
+il dovere, e da fonti erronee; e colui che è privo di un amore di
+
+Onore come non scegliere di essere onorato anche per ciò che è nobile. Talvolta.
+
+Di nuovo lodiamo l'amante dell'Onore come virile e avente un amore per ciò che
+
+è nobile, e colui che non ha amore per esso come moderato e modesto.
+
+(come abbiamo notato anche nella precedente discussione di queste virtù).
+
+È chiaro allora che, poiché “Amante di tale e tale” è un termine capace di
+
+parecchi significati, non sempre denotiamo la stessa qualità con il termine.
+
+"Amante dell'Onore;” ma quando lo usiamo come termine di elogio noi
+
+denotano più di quanto non siano la massa degli uomini; quando per biasimo più di un uomo
+
+dovrebbe essere.
+
+E lo stato medio non avendo nome proprio, gli estremi sembrano contenderselo.
+
+per esso come terreno non occupato: ma naturalmente dove c'è eccesso e
+
+al difetto vi deve essere anche il mezzo. E infatti gli uomini comprendono
+
+all'Onore più di quanto dovrebbero, e meno, e talvolta proprio come essi
+
+Il dovere; per esempio, questo stato è lodato, essendo uno stato medio in
+
+riguardo dell'Onore, ma senza alcun nome appropriato. Paragonato a che cosa
+
+è chiamata Ambizione si mostra come una mancanza d'amore per l'Onore, e
+
+confrontato con questo appare come Ambizione, o confrontato con entrambi, come
+
+entrambi i difetti: né questo è un caso singolare tra le virtù. Qui il
+
+I caratteri estremi appaiono opposti, perché il mezzo non ha nome.
+
+Appropriato ad esso.
+
+<span class="atom-split" data-atom="055" data-title="Chapter VII. (parte 4)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
 
 Meekness is a mean state, having for its object-matter [Anger](/concepts/anger): and as
 
@@ -5718,7 +11273,151 @@ This then is to be taken as our account of the various moral states
 
 which have Anger for their object-matter.
 
-<span class="atom-split" data-atom="056" data-title="Chapter VIII. (4/11)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+La mitezza è uno stato medio, avendo per materia [ira](/concepts/anger): e come
+
+il carattere nel mezzo non ha nome, e possiamo quasi dire lo stesso.
+
+degli estremi, diamo il nome di Mansuetudine (piegando piuttosto verso il
+
+difetto, che non ha nome neppure) al carattere nel giusto mezzo.
+
+L'eccesso può essere chiamato una sovrabbondante attitudine all'Ira: poiché la passione è
+
+L'ira, e le cause che la producono sono molte e varie. Ora colui che è adirato
+
+a che e con chi deve, e inoltre, in modo e tempo giusti,
+
+e per il giusto spazio di tempo, è lodato, così quest'Uomo sarà Mansueto.
+
+poiché la Mansuetudine è lodata. Infatti la nozione rappresentata dal termine Mansueto
+
+l'uomo è l'essere imperturbabile, e non essendo trascinato dalla passione, ma
+
+adirarsi in quel modo, e per quelle cose, e per quel tempo
+
+tempo, che la Ragione può dirigere. Questo carattere tuttavia è ritenuto errare.
+
+piuttosto dal lato del difetto, in quanto egli non è atto a vendicarsi.
+
+ma piuttosto di usare indulgenza e perdonare. E il difetto, chiamatelo
+
+L'assenza d'ira, o come la si voglia chiamare, è biasimata: intendo dire, coloro che non sono
+
+adirati per le cose per le quali dovrebbero adirarsi sono ritenuti essere
+
+stolti, e coloro che si adirano non nel modo debito, né nel tempo debito,
+
+né con coloro con cui dovrebbero; poiché un uomo che è gravato da questo
+
+Il difetto è ritenuto non avere percezione, né provare dolore, e avere.
+
+nessuna tendenza a vendicarsi, giacché non sente ira: ora a
+
+sopportare la scurrilità nella propria persona, e vedere pazientemente la propria.
+
+gli amici lo soffrono, è una cosa servile.
+
+Quanto all'eccesso, avviene in tutte le forme; gli uomini si adirano con coloro.
+
+con cui, e a cose dalle quali non dovrebbero essere, e più
+
+di quanto dovrebbero, e troppo frettolosamente, e per un tempo troppo lungo.
+
+non intendo dire, tuttavia, che queste siano combinate in una singola persona: ciò
+
+sarebbe in effetti impossibile, perché il male distrugge se stesso, e se
+
+è sviluppato in tutta la sua forza diventa insopportabile.
+
+Ora coloro che chiamiamo i Passionali si adirano presto, e con la gente.
+
+con cui e per cose per cui non dovrebbero, e in modo eccessivo
+
+grado, ma presto si raffreddano di nuovo, che è il loro miglior pregio.
+
+E ciò deriva dal fatto che essi non reprimono la loro ira, ma la ripagano.
+
+i loro nemici (in quanto mostrano i loro sentimenti a causa della loro
+
+veemenza), e poi ne hanno finito.
+
+I Collerici invece sono eccessivamente veementi, e si adirano per
+
+tutto, e in ogni occasione; donde deriva il loro nome greco
+
+significando che la loro collera sta in alto.
+
+Gli amari di temperamento sono difficili da riconciliare e conservano la loro collera per un
+
+Per lungo tempo, perché reprimono il sentimento: ma quando hanno
+
+Si vendicarono poi viene una pausa; poiché la vendetta distrugge il loro.
+
+ira producendo piacere in luogo del dolore. Ma se questo non
+
+accade che tengano il peso sulle loro menti: perché, come non fa
+
+Si mostri, nessuno tenta di razionalizzarlo, e digerendo la rabbia.
+
+Il dentro di sé richiede tempo. Tali uomini sono grandissimi fastidi per
+
+se stessi e ai loro migliori amici.
+
+Ancora, chiamiamo scontrosi coloro che si adirano per oggetti sbagliati, e
+
+in misura eccessiva, e per troppo tempo, e che non sono placati
+
+senza vendetta o almeno punendo il colpevole.
+
+Alla mansuetudine opponiamo l'eccesso piuttosto che il difetto, perché è
+
+di più comune accadimento: poiché la [natura umana](/axes/human_nature) è più disposta a prendere
+
+che rinunciare alla vendetta. E i Bisbetici sono peggiori con cui vivere.
+
+di coloro che sono troppo flemmatici
+
+Ora, da ciò che è stato qui detto, è anche chiaro ciò che fu detto.
+
+prima. Voglio dire, non è cosa facile definire come, e con che
+
+persone, e a quale genere di cose, e per quanto tempo si debba essere
+
+arrabbiato, e fino a che punto una persona ha ragione o ha torto. Perché colui che
+
+trasgredisce la regola severa solo di poco, sia dal lato del troppo
+
+molto o troppo poco, non è biasimato: talvolta lodiamo coloro che sono
+
+deficienti nel sentimento e chiamali Mite, a volte chiamiamo il
+
+Irritabile Animoso in quanto ben qualificato per il governo. Così non è.
+
+facile da stabilire, in così tante parole, per quale grado o genere di
+
+trasgressione un uomo è biasimevole: perché la decisione è in
+
+particolari, e risiede quindi nel Senso Morale. Tanto,
+
+tuttavia, è chiaro che lo stato medio è lodevole, in virtù di
+
+cui ci adiriamo con coloro con cui, e contro quelle cose con
+
+il che, dobbiamo adirarci, e nel modo giusto, e così via; mentre il
+
+Gli eccessi e i difetti sono biasimevoli, lievemente se sono lievi, più se sono maggiori.
+
+se maggiore, e quando considerevole molto biasimevole.
+
+È chiaro, adunque, che dobbiamo attenerci al giusto mezzo.
+
+Questa sia quindi considerata la nostra esposizione dei vari stati morali.
+
+che hanno per oggetto l'Ira.
+
+<span class="atom-split" data-atom="056" data-title="Chapter VIII. (parte 4)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
 
 Next, as regards social intercourse and interchange of words and acts,
 
@@ -5824,7 +11523,113 @@ the appearance of being opposed to one another, because the mean has no
 
 appropriate name.
 
-<span class="atom-split" data-atom="057" data-title="Chapter IX. (4/9)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Inoltre, quanto al commercio sociale e allo scambio di parole e atti,
+
+Alcuni uomini sono ritenuti Oltremodo Compiacenti che, con la sola mira di
+
+dare piacere, acconsentire a tutto e non opporsi mai, ma pensare il loro
+
+linea è di non dare dolore a coloro tra i quali sono gettati: essi, sul
+
+D'altra parte, sono chiamati Bisbetici e Litigiosi coloro che prendono esattamente il
+
+linea contraria a queste, e opporsi in ogni cosa, e non avere cura
+
+tutti, che diano dolore o no.
+
+Ora è del tutto chiaro, naturalmente, che gli stati che ho nominato sono
+
+biasimevole, e che il mezzo tra loro è lodevole, in virtù di
+
+che un uomo lascerà passare ciò che deve come deve, e anche lascerà
+
+obiettare allo stesso modo. Tuttavia, questo stato non ha nome appropriato,
+
+ma somiglia soprattutto all'[Amicizia](/concepts/friendship); poiché l'uomo che la manifesta è giusto
+
+il genere d'uomo che chiameremmo l'amico amabile, con il
+
+aggiunta di forte e sincero affetto; ma allora questo è proprio il punto.
+
+in cui differisce dall'Amicizia, cioè che è del tutto indipendente da
+
+qualsiasi sentimento o forte affetto per coloro tra i quali l'uomo si mescola: io
+
+voglio dire, che egli prende tutto come deve, non da alcun sentimento di
+
+amore o odio, ma semplicemente perché la sua naturale disposizione lo conduce a
+
+fai così; egli lo farà ugualmente a coloro che conosce e a coloro che egli
+
+non, e coloro con cui è intimo e coloro con cui è
+
+non; solo in ciascun caso come richiede la convenienza, perché non è conveniente
+
+Aver cura ugualmente degli intimi e degli estranei, né d'altra parte affliggerli.
+
+Ugualmente.
+
+È stato affermato in via generale che il suo commercio sociale sarà.
+
+regolato dalla convenienza, e il suo scopo sarà evitare di arrecare dolore e di
+
+contribuire al piacere, ma con un costante riferimento a ciò che è nobile
+
+e conveniente.
+
+Il suo vero oggetto di studio sembrano essere i piaceri e i dolori che
+
+Sorgono dalle relazioni sociali, ma ogni volta che non è onorevole o
+
+anche doloroso per lui contribuire al piacere, in questi casi egli
+
+andrà contro e preferirà infliggere dolore.
+
+O se le cose in questione comportano sconvenienza per l'agente, e questo
+
+Non trascurabile, o alcun danno, mentre la sua opposizione ne causerà un po'.
+
+Piccolo dolore, qui egli non acconsentirà ma andrà contro.
+
+Ancora, egli regolerà diversamente i suoi rapporti con i grandi e
+
+con gli uomini comuni, e con tutte le persone secondo la conoscenza che egli
+
+ha di esse; e in egual modo, assumendo qualsivoglia altre differenze che
+
+può esistere, dando a ciascuno il suo, e in sé preferendo dare
+
+piacere e cauto nel non dare dolore, ma pur sempre guidato dal
+
+risultati, intendo per ciò che è nobile e conveniente secondo che essi
+
+Preponderare.
+
+Di nuovo, infliggerà dolore lieve in vista del conseguente.
+
+piacere.
+
+Ebbene, l'uomo recante il carattere meschino è pressappoco tale quale io ho.
+
+Lo descrisse, ma non ha nome a lui attribuito: di coloro che tentano
+
+per dare piacere, l'uomo che semplicemente e disinteressatamente cerca di essere
+
+Il compiacente è chiamato troppo compiacente, colui che lo fa in vista di
+
+Conseguire qualche profitto in quanto a ricchezza, o quelle cose che la ricchezza
+
+possa procacciare, è un Adulatore: ho detto prima, che l'uomo che è
+
+“sempre non-contenuto” è Contrario e Controverso. Qui gli estremi hanno
+
+l'apparenza di essere opposti l'uno all'altro, perché il mezzo non ha
+
+nome appropriato.
+
+<span class="atom-split" data-atom="057" data-title="Chapter IX. (parte 4)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
 
 The mean state which steers clear of Exaggeration has pretty much the
 
@@ -5976,7 +11781,159 @@ being the worst character) who appears to be opposed to the Truthful
 
 Man.
 
-<span class="atom-split" data-atom="058" data-title="Chapter X. (3/7)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Lo stato medio che si tiene lontano dall'Esagerazione ha pressappoco il
+
+La stessa materia oggettuale dell'ultima che abbiamo descritto, e del pari non ha nome.
+
+attribuito ad esso. Nondimeno potrebbe essere opportuno passare in rassegna questi stati:
+
+perché, in primo luogo, con una particolare discussione di ciascuno noi
+
+sarà più a conoscenza del soggetto generale del carattere morale.
+
+e in seguito saremo tanto più convinti che le virtù sono il mezzo.
+
+afferma vedendo che questo è universalmente il caso.
+
+Riguardo quindi al vivere in società, coloro che portano avanti questo
+
+Del rapporto in vista del piacere e del dolore si è già parlato.
+
+di; ora passeremo a parlare di coloro che sono Veri o Falsi, ugualmente in
+
+le loro parole e azioni e nelle affermazioni che avanzano.
+
+Ora si ritiene che l'Esageratore abbia la tendenza ad avanzare pretese su
+
+cose che riflettono credito su di lui, sia quando non gli appartengono a
+
+tutto e anche in grado maggiore di quello in cui realmente fanno:
+
+mentre l'uomo Riservato, al contrario, nega quelli che realmente
+
+appartengono a lui o altrimenti li deprezza, mentre il carattere meschino essendo
+
+Una persona schietta e concreta è veritiera nella vita e nella parola, ammettendo
+
+l'esistenza di ciò che realmente gli appartiene e rendendolo né
+
+né maggiore né minore della verità.
+
+È possibile, naturalmente, prendere una qualsiasi di queste linee o con o
+
+senza qualche ulteriore fine: ma in generale gli uomini parlano, e agiscono, e vivono,
+
+ciascuno secondo il suo particolare carattere e la sua disposizione, a meno che
+
+In verità, un uomo agisce per qualche motivo speciale.
+
+Ora, poiché la falsità è in sé stessa bassa e biasimevole, mentre la verità è
+
+nobile e lodevole, ne consegue che l'uomo Veritiero (il quale è anche
+
+il giusto mezzo) è lodevole, e i due che si allontanano dalla stretta verità
+
+sono entrambi biasimevoli, ma soprattutto l'Esageratore.
+
+Ora parleremo di ciascuno, e prima dell'uomo veritiero: lo chiamo
+
+Veritiero, perché non intendiamo ora l'uomo che è vero nel suo
+
+accordi né in questioni che equivalgono a giustizia o ingiustizia (questo
+
+cadrebbe nella provincia di una virtù differente), ma, in quelli che
+
+non implicano alcuna differenza così seria come questa, l'uomo che siamo
+
+il descrivere è vero nella vita e nella parola semplicemente perché egli è in un certo
+
+stato morale.
+
+E colui che è tale deve essere giudicato un uomo buono: poiché colui che ha un
+
+amore per la Verità in quanto tale, ed è guidato da essa nelle cose indifferenti,
+
+sarà così parimenti ancor più in quelli che non sono indifferenti; imperocché
+
+Certamente egli avrà in orrore la falsità come cosa vile, poiché la rifuggì.
+
+anche in sé: e colui che è di tale carattere è lodevole, tuttavia
+
+egli propende piuttosto verso ciò che è al di sotto della verità, avendo questo un
+
+apparenza di essere di miglior gusto perché le esagerazioni sono così
+
+odioso.
+
+Quanto all'uomo che avanza pretese su cose al di sopra di ciò che realmente gli appartiene.
+
+lui senza alcun motivo speciale, è come un uomo vile perché egli
+
+non avrebbe altrimenti provato piacere nella falsità, ma egli si mostra come un
+
+sciocco piuttosto che come un furfante. Ma se un uomo fa questo con uno speciale
+
+motivo, supponiamo per onore o gloria, come fa il Millantatore, allora egli è
+
+non così tanto biasimevole, ma se, direttamente o indirettamente, per pecuniario
+
+considerazioni, egli è più sconveniente.
+
+Ora il millantatore è tale non per il suo potere ma per il suo proposito, cioè
+
+dire, in virtù del suo stato morale, e perché è un uomo di un
+
+certo genere; così come vi sono mentitori che provano piacere nella falsità.
+
+per sé mentre altri mentono per desiderio di gloria o di guadagno. Essi
+
+Coloro che esagerano in vista della gloria pretendono a tali qualità quali sono
+
+seguito da lode o massima congratulazione; coloro che lo fanno con un
+
+in vista del guadagno assumere quelle di cui i loro vicini possono avvalersi
+
+di, e l'assenza della quale può essere celata, come l'essere di un uomo un
+
+abile indovino o medico; e perciò i più pretendono a
+
+tali cose ed esagerare in questa direzione, poiché i difetti che ho
+
+Menzionati sono in essi.
+
+I Riservati, che deprezzano le proprie qualità, hanno l'apparenza
+
+di essere più raffinati nei loro caratteri, perché non sono pensati
+
+Parlare in vista del guadagno ma evitare la grandiosità: cosa molto comune.
+
+tratto in tali caratteri è il loro negare le comuni opinioni correnti, come
+
+[Socrate](/figures/socrates) soleva fare. Ci sono persone che rivendicano falsamente il piccolo.
+
+cose e cose la falsità delle loro pretese alle quali è ovvia;
+
+Questi sono chiamati factotum e sono assai spregevoli.
+
+Questa stessa Riserva talvolta appare come Esagerazione; prendete, per
+
+esempio, l'eccessiva semplicità del vestire adottata dal
+
+Lacedemoni: in effetti, sia l'eccesso che l'estremo della deficienza.
+
+partecipano della natura dell'Esagerazione. Ma coloro che praticano la Riserva in
+
+moderazione, e nei casi in cui la verità non è molto evidente e
+
+semplice, dare un'impressione di raffinatezza. Ecco l'Esageratore (come
+
+essendo il carattere peggiore) che sembra essere opposto al Veritiero.
+
+L'uomo.
+
+<span class="atom-split" data-atom="058" data-title="Chapter X. (parte 3)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
 
 Next, as life has its pauses and in them admits of pastime combined
 
@@ -6098,7 +12055,129 @@ with the jocosities of life, the other with all other points of social
 
 intercourse.
 
-<span class="atom-split" data-atom="059" data-title="Chapter XI. (3/7)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Inoltre, poiché la vita ha le sue pause e in esse ammette il passatempo combinato.
+
+con Giocosità, si pensa che anche sotto questo aspetto vi sia un
+
+specie di conveniente rapporto, e che regole possano essere prescritte quanto al
+
+tipo di cose che si dovrebbero dire e il modo di dirle; e in
+
+riguardo all'udito parimenti (e vi sarà una differenza tra il
+
+dire e udire tali e tali cose). È chiaro che riguardo a
+
+Anche in queste cose vi saranno un eccesso, un difetto e un mezzo.
+
+Ora coloro che eccedono nel ridicolo sono giudicati buffoni e
+
+Volgare, afferrandolo in ogni modo e a qualunque costo, e mirando
+
+piuttosto a suscitare risate che a dire ciò che è conveniente e a
+
+evitando di addolorare il bersaglio del loro spirito. Essi, d'altra parte, che
+
+non vorrebbero per nulla al mondo fare uno scherzo essi stessi e sono scontenti di
+
+quelli che lo fanno sono ritenuti buffoneschi e severi. Ma coloro che sono
+
+Le facezie di buon gusto sono denominate con un termine greco esprimente.
+
+propriamente facilità di movimento, perché tali sono ritenuti essere, come si può
+
+diciamo, i moti del carattere morale; e come i corpi sono giudicati da
+
+i loro moti, così pure, sono caratteri morali.
+
+Ora, poiché il ridicolo giace in superficie, e la maggior parte degli uomini prende
+
+I buffoni hanno più piacere di quanto non dovrebbero nella giocosità e negli scherzi.
+
+per ottenere questo nome di Facile Piacevolezza, come se raffinata e signorile;
+
+ma che essi differiscano da questi, e considerevolmente pure, è manifesto da
+
+Ciò che è stato detto.
+
+Una qualità che appartiene allo stato medio è il Tatto: è
+
+Caratteristico di un uomo di tatto dire e ascoltare tali cose che sono.
+
+convenienti a un uomo dabbene e a un gentiluomo da dire e da ascoltare: poiché vi sono
+
+cose che si addicono a una tale persona da dire e ascoltare nel
+
+via della Giocosità, e c'è una differenza tra la Giocosità di
+
+il Gentiluomo e quella del Volgare; e ancora, tra quella del
+
+uomo istruito e l'uomo incolto. Ciò voi potete vedere da un confronto del
+
+Commedia antica e nuova: nella prima il parlare osceno faceva il divertimento; nella seconda l'allusione fa l'opera.
+
+Quest'ultimo è piuttosto un'insinuazione: e questa non è una differenza da poco _come
+
+Riguarda la decenza_.
+
+Ebbene, dobbiamo caratterizzare colui che scherza bene dal suo dire ciò che
+
+è conveniente a un gentiluomo, o col suo evitare di addolorare l’oggetto del suo
+
+spirito, o anche col suo dargli piacere? o non sarà tale definizione
+
+Sii vago, poiché cose diverse sono odiose e piacevoli a diversi.
+
+Uomini?
+
+Comunque sia, qualunque cosa egli dica, tali cose anch'egli ascolterà.
+
+Poiché è comunemente ritenuto che un uomo farà ciò che sopporterà di udire:
+
+questo deve però essere limitato; un uomo non farà proprio tutto ciò che egli
+
+udrà: perché lo scherzare è una specie di scurrilità e vi sono
+
+certi punti di scurrilità vietati dalla legge; può essere certi punti di
+
+Il motteggiare avrebbe dovuto essere anche così proibito. Dunque i raffinati e
+
+Un uomo gentile si comporterà così, come essendo legge a sé stesso.
+
+Tale è il carattere medio, sia che venga denominato l'uomo di tatto o di
+
+Facile facezia.
+
+Ma il Buffone non può resistere al ridicolo, non risparmiando nemmeno sé stesso.
+
+né alcun altro sì che non possa che alzare la sua risata, dicendo cose di
+
+tal sorta che nessun uomo raffinato direbbe e alcune che egli non direbbe.
+
+anche tollerare se dette da altri in sua presenza.
+
+L'uomo buffonesco è per tale commercio del tutto inutile: in quanto
+
+Non contribuendo egli stesso nulla di giocoso, è feroce con tutti coloro che lo fanno.
+
+Tuttavia qualche pausa e divertimento nella vita sono generalmente giudicati essere
+
+indispensabile.
+
+I tre stati medi che sono stati descritti si verificano nella vita, e
+
+l'oggetto-materia di tutto è lo scambio di parole e fatti. Essi
+
+differiscono, in quanto una di esse è concernente la verità, e le altre due.
+
+col piacevole: e di questi due ancora, l'uno è versato
+
+con le giocosità della vita, l'altro con tutti gli altri punti del sociale
+
+congiungimento.
+
+<span class="atom-split" data-atom="059" data-title="Chapter XI. (parte 3)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
 
 To speak of Shame as a Virtue is incorrect, because it is much more
 
@@ -6162,7 +12241,71 @@ Nor is Self-Control properly a Virtue, but a kind of mixed state:
 
 however, all about this shall be set forth in a future Book.
 
-<span class="atom-split" data-atom="060" data-title="Chapter I. (5/10)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Parlare della Vergogna come di una Virtù è errato, perché è molto di più.
+
+come un sentimento che uno stato morale. È definito, sappiamo, essere “un
+
+“sorta di timore del disonore”, e i suoi effetti sono simili a quelli del
+
+paura del pericolo, poiché coloro che provano Vergogna arrossiscono e coloro che temono
+
+La morte impallidisce. Così entrambi sono evidentemente in un certo senso fisici, il che è
+
+ritenuto un segno di un sentimento piuttosto che di uno stato morale.
+
+Inoltre, è un sentimento che non si addice a ogni età, ma solo alla gioventù:
+
+noi pensiamo che i giovani debbano essere pudichi, perché poiché essi
+
+vivono al servizio della passione, fanno molto che è sbagliato e
+
+La vergogna agisce su di loro come un freno. Infatti, lodiamo tali giovani che sono
+
+Vergognoso, ma nessuno loderebbe mai un vecchio per essere dato a
+
+esso, in quanto riteniamo che egli non debba fare cose che cagionino
+
+Vergogna; poiché la Vergogna, sorgendo di fronte ad azioni vili e malvagie, non affatto.
+
+appartengono all'uomo buono, perché tali cose non debbono affatto farsi: né
+
+Fa qualche differenza sostenere che alcune cose sono vergognose?
+
+realmente, gli altri solo perché sono pensati tali; poiché né l'uno né l'altro dovrebbe essere.
+
+Fatto, cosicché un uomo non dovrebbe trovarsi nella posizione di provare Vergogna.
+
+In verità, essere tale uomo da fare alcuna cosa disonorevole è proprio di.
+
+un carattere difettoso. E per un uomo essere tale da provare Vergogna.
+
+se mai facesse qualcosa di disonorevole, e pensare che questo
+
+lo costituisce un uomo buono, è assurdo: perché la Vergogna è sentita a
+
+azioni volontarie soltanto, e un uomo buono non farà mai volontariamente ciò che
+
+è vile.
+
+Vero è che la vergogna può esser buona in una certa supposizione, come 'se un
+
+Dovesse un uomo fare tali cose, proverebbe Vergogna:” ma allora le Virtù.
+
+sono buone in sé stesse, e non meramente in casi supposti. E, concesso
+
+che l'impudenza e il non vergognarsi di fare ciò che è disonorevole è
+
+vile, non ne segue perciò che sia bene per un uomo fare tale cosa.
+
+cose e provare Vergogna.
+
+Né l'autocontrollo è propriamente una virtù, ma una sorta di stato misto:
+
+Tuttavia, tutto ciò sarà esposto in un futuro Libro.
+
+<span class="atom-split" data-atom="060" data-title="Chapter I. (parte 5)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
 
 Now the points for our enquiry in respect of Justice and Injustice are,
 
@@ -6278,7 +12421,123 @@ fairly falls to his share: of course he is also an unequal man, this
 
 being an inclusive and common term.
 
-<span class="atom-split" data-atom="061" data-title="Chapter II. (5/11)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora i punti della nostra indagine riguardo alla Giustizia e all'Ingiustizia sono: primo, con quali specie di azioni esse hanno a che fare; secondo, quale sorta di mezzo sia la Giustizia, e tra quali estremi; terzo, tra quali punti l'uomo giusto sia un mezzo.
+
+Quale genere di azioni siano il loro oggetto materiale, e quale genere di mezzo.
+
+la giustizia dello stato è, e fra quali punti il principio astratto di essa,
+
+cioè il Giusto, è un mezzo. E la nostra indagine sarà, se vi aggrada,
+
+condotto nello stesso [metodo](/axes/method) che abbiamo osservato nelle parti precedenti
+
+di questo Trattato.
+
+Vediamo dunque che tutti gli uomini intendono col termine Giustizia uno stato morale tale
+
+che in conseguenza di ciò gli uomini hanno la capacità di fare ciò che è giusto,
+
+ed effettivamente farlo, e desiderarlo: similmente anche rispetto a
+
+Ingiustizia, uno stato morale tale che in conseguenza di esso gli uomini agiscono ingiustamente.
+
+e volere ciò che è ingiusto: accontentiamoci allora anche di queste come
+
+Il fondamento abbozzato.
+
+Menziono i due, perché lo stesso non vale per quanto riguarda gli Stati.
+
+sia di mente o di corpo, come a riguardo delle Scienze o delle Facoltà: intendo
+
+che mentre si ritiene che la stessa Facoltà o Scienza abbracci
+
+contrari, uno stato non: dalla salute, per esempio, non il
+
+Gli atti contrari si compiono, ma solo quelli sani; diciamo che un uomo cammina.
+
+sanamente quando cammina come farebbe l'uomo sano.
+
+Tuttavia, dei due stati contrari, l'uno può essere frequentemente conosciuto.
+
+dall'altro, e sovente gli stati dalla loro materia: se
+
+Si vegga chiaramente quale sia il buono stato del corpo, allora anco si vede.
+
+che cosa sia uno stato cattivo, e dalle cose che appartengono a uno stato buono
+
+del corpo lo stato buono stesso è visto, e viceversa. Se, per
+
+Ad esempio, lo stato buono è la fermezza della carne; ne consegue che il cattivo
+
+Lo stato è flaccidità della carne; e tutto ciò che causa la fermezza della carne è
+
+connesso con il buono stato.
+
+Segue inoltre in generale che, se di due termini contrari il
+
+come uno è usato in molti sensi, così anche l'altro lo sarà; come, per esempio,
+
+Se ‘il Giusto’, allora anche ‘l'Ingiusto’. Ora Giustizia e Ingiustizia fanno
+
+sembrano essere usati rispettivamente in molti sensi, ma, poiché la linea di
+
+La demarcazione tra questi è molto sottile e minuta, essa comunemente
+
+sfugge che essi siano così usati, e non è evidente e
+
+manifestarsi come dove le varie significazioni dei termini sono ampiamente
+
+differenti perché in questi ultimi la differenza visibile è grande, perché,
+
+per esempio, la parola κλεὶς è usata equivocamente per denotare l'osso che
+
+è sotto il collo degli animali e lo strumento con cui le persone chiudono
+
+porte.
+
+Si accerti quindi in quanti sensi si dica il termine “uomo ingiusto”.
+
+usato. Ebbene, colui che viola la legge, e colui che è un uomo avido, e
+
+l'uomo disuguale, sono tutti ritenuti Ingiusti e così manifestamente i
+
+L'uomo giusto sarà, l'uomo che agisce secondo la legge, e l'uomo uguale.
+
+«Il Giusto» sarà dunque il legittimo e l'uguale, e «l'Ingiusto» l'illegittimo e il disuguale.
+
+l'illegale e l'ineguale.
+
+Ebbene, poiché l'uomo ingiusto è anche un uomo avido, egli sarà tale, di
+
+certo, per quanto riguarda le cose buone, ma non di ogni genere, solo quelle
+
+che sono l'oggetto della buona e della cattiva fortuna e che sono in
+
+sempre buone in sé ma non sempre per l'individuo. Tuttavia gli uomini
+
+Pregate per queste cose e perseguitele: questo non dovrebbero fare ma pregare che
+
+le cose che sono buone in astratto possono esserlo anche per loro, e
+
+scelgano ciò che è buono per sé stessi.
+
+Ma l'ingiusto non sceglie sempre effettivamente la parte maggiore,
+
+ma anche talvolta il meno; come nel caso di cose che sono semplicemente
+
+male: tuttavia, poiché il male minore è ritenuto in certo modo un bene
+
+e l'afferrare è dietro al bene, quindi anche in questo caso egli è
+
+considerato un uomo avido, cioè colui che aspira a più bene di
+
+gli tocca giustamente in sorte: naturalmente egli è anche un uomo inuguale, questo
+
+essendo un termine inclusivo e comune.
+
+<span class="atom-split" data-atom="061" data-title="Chapter II. (parte 5)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
 
 We said that the violator of Law is Unjust, and the keeper of the Law
 
@@ -6376,7 +12635,105 @@ respect to one’s neighbour it is Justice, in so far as it is such and
 
 such a moral state it is simply Virtue.
 
-<span class="atom-split" data-atom="062" data-title="Chapter III. (6/11)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Dicemmo che il violatore della Legge è Ingiusto, e il custode della Legge.
+
+Giusto: inoltre, è manifesto che tutte le cose legali sono in certo modo giuste,
+
+perché per Legale intendiamo ciò che è stato definito dal
+
+potere legislativo e ciascuno di questi diciamo che è Giusto. Anche le Leggi danno
+
+direzioni su tutti i punti, miranti o al bene comune di tutti, o
+
+quella dei migliori, o quella di coloro che hanno il potere (prendendo a criterio
+
+bontà reale o adottando qualche altra stima); in un modo intendiamo per
+
+Giuste, quelle cose che sono atte a produrre e conservare la felicità e
+
+i suoi ingredienti per la comunità sociale.
+
+Inoltre, la Legge comanda il compiere le azioni non solo dell'uomo coraggioso.
+
+(come non abbandonare le file, né fuggire, né gettare via le proprie armi),
+
+ma anche quelle dell'uomo perfettamente padrone di sé, come l'astinenza da
+
+adulterio e lussuria; e quelle dell'uomo mansueto, come astenendosi da
+
+percuotere altri o usare un linguaggio abusivo: e similmente in
+
+rispetto delle altre virtù e vizi che comandano certe cose e
+
+vietando agli altri, giustamente se è una buona legge, in certo qual modo
+
+inferiore se è estemporaneo.
+
+Ora questa Giustizia è in effetti Virtù perfetta, tuttavia non semplicemente così, ma come
+
+esercitata verso il prossimo: e per questa ragione la Giustizia è
+
+riputato sovente la migliore delle Virtù, e
+
+né Espero né la stella del mattino
+
+Così degno della nostra ammirazione:
+
+e in un detto proverbiale esprimiamo lo stesso;
+
+Ogni virtù è in Giustizia compresa.
+
+Ed è in un senso speciale Virtù perfetta perché è la pratica.
+
+della perfetta Virtù. E perfetta essa è perché colui che la possiede è capace di
+
+esercitare la sua virtù verso il prossimo e non solamente su se stesso; io
+
+Voglio dire, ve ne sono molti che sanno praticare la virtù nel regolamento delle loro
+
+nella propria condotta personale, i quali sono del tutto incapaci di farlo nelle transazioni.
+
+con il loro prossimo. E per questa ragione quel detto di Biante è
+
+ritenuto buono,
+
+Il comando mostrerà ciò che è un uomo;
+
+poiché colui che porta la Regola è necessariamente in contatto con gli altri, cioè in un
+
+comunità. E per questa medesima ragione la Giustizia sola tra tutte le Virtù è
+
+ritenuto un bene per gli altri, perché ha una relazione immediata con
+
+qualche altra persona, in quanto l'uomo giusto fa ciò che è vantaggioso.
+
+a un altro, sia al suo sovrano sia al suo conservo. Ora egli è il più vile.
+
+di uomini che praticano il vizio non solo nella propria persona, ma verso
+
+anche i suoi amici; ma è il migliore colui che pratica la virtù non solo nel
+
+la propria persona ma verso il suo prossimo, poiché questa è una questione di qualche cosa
+
+difficoltà.
+
+Tuttavia, la Giustizia in questo senso non è una parte della Virtù ma è
+
+coestensiva con la Virtù; né l'Ingiustizia che le corrisponde è un
+
+parte del Vizio ma coestensiva col Vizio. Ora, in che cosa la Giustizia in questo
+
+Che il senso differisca dalla Virtù appare da ciò che è stato detto: esso è il
+
+stesso davvero, ma il punto di vista non è lo stesso: nella misura in cui ha
+
+Riguardo al proprio prossimo è Giustizia, in quanto è tale e
+
+Tale stato morale esso è semplicemente la Virtù.
+
+<span class="atom-split" data-atom="062" data-title="Chapter III. (parte 6)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
 
 But the object of our enquiry is Justice, in the sense in which it is a
 
@@ -6444,7 +12801,75 @@ pleasure attendant on gain, while the other acts upon all things which
 
 constitute the sphere of the good man’s action.
 
-<span class="atom-split" data-atom="063" data-title="Chapter IV. (6/12)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ma l'oggetto della nostra indagine è la Giustizia, nel senso in cui essa è una
+
+parte della Virtù (perché una tal cosa v'è, come comunemente diciamo), e
+
+Parimenti rispetto all'Ingiustizia particolare. E dell'esistenza di
+
+quest'ultimo la seguente considerazione è una prova: vi sono molti vizi.
+
+Praticando la quale un uomo agisce ingiustamente, naturalmente, ma non afferra.
+
+a più della sua parte di bene; se, per esempio, per ragione di
+
+per viltà getta via lo scudo, o per cagione di mal temperamento usa
+
+linguaggio ingiurioso, o per avarizia non dona a un amico
+
+assistenza pecuniaria; ma ogniqualvolta egli compie un'azione avida, è
+
+spesso per quanto riguarda nessuno di questi vizi, certamente non in tutti,
+
+Ancora sulla via di qualche vizio o altro (ché lo biasimiamo), e nel
+
+via dell'Ingiustizia. Esiste allora una qualche specie di Ingiustizia distinta da
+
+che è coestensiva col Vizio e ad esso relativa come la parte al tutto, e
+
+un qualche “Ingiusto” relativo a ciò che è coestensivo con la violazione di
+
+la legge come parte rispetto a un tutto.
+
+Ancora, supponiamo che un uomo seduca la moglie di un uomo in vista di guadagno e
+
+effettivamente ne trae qualche vantaggio, e un altro fa lo stesso da
+
+impulso di lussuria, a spesa di denaro e danno; quest'ultimo sarà
+
+ritenuto più privo di padronanza di sé che un uomo avido, e
+
+il primo ingiusto ma non privo di autocontrollo: ora perché? chiaramente
+
+a causa del suo guadagno.
+
+Inoltre, tutti gli altri atti di ingiustizia li riferiamo a qualche particolare.
+
+depravazione, come, se un uomo commette adulterio, all'abbandono al suo
+
+passioni; se abbandona il suo compagno, alla codardia; se percuote
+
+un altro, all'[ira](/concepts/anger): ma se egli con l'atto non giunge a nessun altro vizio che a
+
+Ingiustizia.
+
+È chiaro quindi che vi è una specie di Ingiustizia diversa da e
+
+oltre a ciò che include ogni Vizio, avendo lo stesso nome perché il
+
+La definizione è nel medesimo genere; poiché entrambi hanno la loro forza nei rapporti.
+
+con gli altri, ma l'uno agisce per onore, o ricchezza, o sicurezza, o per
+
+Qualunque singolo nome possiamo includere tutte queste cose, ed è mosso da
+
+il piacere che accompagna il guadagno, mentre l'altro agisce su tutte le cose che
+
+costituiscono la sfera d'azione dell'uomo buono.
+
+<span class="atom-split" data-atom="063" data-title="Chapter IV. (parte 6)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
 
 Now that there is more than one kind of Justice, and that there is one
 
@@ -6510,7 +12935,73 @@ it may be it is not the same thing to be a good man and a good citizen
 
 in every case.
 
-<span class="atom-split" data-atom="064" data-title="Chapter V. (5/10)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora che vi è più di una specie di Giustizia, e che ve n'è una.
+
+che è distinto da e oltre a ciò che è coestensivo con,
+
+La virtù, è evidente: dobbiamo poi accertare che cosa sia, e quali siano le sue
+
+caratteristiche.
+
+Ebbene, l'Ingiusto è stato diviso nell'illecito e nell'ineguale.
+
+e il Giusto di conseguenza nel legale e nell'eguale: il
+
+La suddetta Ingiustizia è nella via dell'illegale. E come il
+
+Disuguale e il più non sono la stessa cosa, ma differendo come parte a
+
+intero (perché tutto ciò che è più è ineguale, ma non tutto ciò che è ineguale è più), così il
+
+L'Ingiusto e l'Ingiustizia che andiamo ora cercando non sono la stessa cosa di,
+
+ma oltre, quelli innanzi mentovati, l'uno essendo le parti, il
+
+altri gli interi; ché questa particolare Ingiustizia è una parte del
+
+L'ingiustizia è coestensiva col Vizio, e parimenti questa Giustizia del
+
+Giustizia coestensiva con la Virtù. Sicché ciò di cui abbiamo ora da parlare
+
+è la giustizia e l'ingiustizia particolare, e similmente la particolare
+
+Giusto e Ingiusto.
+
+Qui, dunque, tralasciamo ogni ulteriore considerazione della Giustizia.
+
+classificandosi come coestensivo con la Virtù (essendo la pratica della Virtù in
+
+tutti i suoi rapporti verso gli altri), e della correlativa Ingiustizia.
+
+(essendo similmente la pratica del Vizio). È chiaro altresì che dobbiamo
+
+separare il Giusto e l'Ingiusto implicati in queste: perché si può.
+
+Si può ben dire che la maggior parte delle cose legittime sono quelle che naturalmente
+
+risultare in azione dalla Virtù nel suo senso più pieno, perché la legge
+
+ingiunge il vivere conforme a ogni Virtù e vieta il vivere in
+
+conformità con ciascun Vizio. E le cause produttrici della Virtù in tutti
+
+I suoi orientamenti sono quegli atti che sono stati fatti riguardo a
+
+[educazione](/concepts/education) per la società.
+
+Del resto, quanto all'educazione individuale, rispetto alla quale un uomo è
+
+semplicemente buono senza riferimento ad altri, se è proprio di
+
+πολιτικὴ o qualche altra scienza dobbiamo determinare in un tempo futuro: poiché
+
+Può darsi che non sia la stessa cosa essere un buon uomo e un buon cittadino.
+
+in ogni caso.
+
+<span class="atom-split" data-atom="064" data-title="Chapter V. (parte 5)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
 
 Now of the Particular Justice, and the Just involved in it, one species
 
@@ -6540,7 +13031,37 @@ false witness; or accompanied with open violence; as insult, bonds,
 
 death, plundering, maiming, foul language, slanderous abuse.
 
-<span class="atom-split" data-atom="065" data-title="Chapter VI. (5/11)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora, della Giustizia particolare, e del Giusto che vi è implicato, una specie.
+
+è ciò che concerne le distribuzioni di onore, o di ricchezza,
+
+o tali altre cose che devono essere condivise tra i membri del
+
+comunità sociale (perché in queste un uomo rispetto a un altro può
+
+abbiano una parte o uguale o disuguale), e l’altro è quello che
+
+è Correttivo nelle varie transazioni tra uomo e uomo.
+
+E di quest'ultimo vi sono due parti: a causa delle transazioni alcune.
+
+sono volontarie e alcune involontarie; volontarie, come quelle che seguono; vendere,
+
+Compra, uso, cauzione, prestito, deposito, noleggio: e questa classe è chiamata
+
+volontario perché l'origine di queste transazioni è volontaria.
+
+Le involontarie poi sono o tali da produrre segretezza; come il furto,
+
+adulterio, avvelenamento, lenocinio, rapimento di schiavi, assassinio,
+
+falsa testimonianza; ovvero accompagnata da aperta violenza; come l'insulto, le catene.
+
+morte, saccheggio, mutilazione, turpiloquio, ingiurie calunniose.
+
+<span class="atom-split" data-atom="065" data-title="Chapter VI. (parte 5)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
 
 Well, the unjust man we have said is unequal, and the abstract “Unjust”
 
@@ -6656,7 +13177,123 @@ what is choice-worthy is good, and the more so the greater good.
 
 This then is the one species of the Just.
 
-<span class="atom-split" data-atom="066" data-title="Chapter VII. (5/10)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Orbene, l'uomo ingiusto abbiamo detto che è disuguale, e l'astratto "Ingiusto".
+
+disuguale: inoltre, è chiaro che vi è un qualche medio del disuguale,
+
+vale a dire, la metà uguale o esatta (perché in qualunque azione
+
+c'è il maggiore e il minore c'è anche l'uguale, cioè il
+
+metà esatta). Se allora l'Ingiusto è ineguale, il Giusto è eguale, che tutti
+
+deve ammettere senza ulteriore prova: e siccome l'uguale è un mezzo, il giusto
+
+deve essere anche un mezzo. Ora l'eguale implica almeno due termini: esso
+
+Ne segue quindi che il giusto è sia un medio che un uguale, e questi a
+
+certe persone; e, in quanto è un mezzo, tra certe cose.
+
+(cioè il maggiore e il minore), e, in quanto è uguale,
+
+tra due, e in quanto è giusto, lo è verso certe persone.
+
+Il Giusto dunque deve implicare almeno quattro termini, per quelli ai quali esso
+
+è solo sono due, e i termini che rappresentano le cose sono due.
+
+E ci sarà la stessa uguaglianza tra i termini che rappresentano il
+
+persone, come tra quelli che rappresentano le cose: perché come il
+
+Queste stanno tra loro, così stanno quelle: poiché se le persone non sono
+
+Uguali non debbono avere parti uguali; infatti è proprio questa la fonte.
+
+Di tutti i litigi e le contese del mondo, quando o coloro che
+
+sono uguali hanno e vengono loro assegnate cose non uguali, o essendo non
+
+Eguagliare quelle cose che sono uguali. Ancora, la necessità di ciò.
+
+L'uguaglianza dei rapporti è indicata dalla comune espressione "secondo la proporzione".
+
+tutti infatti concordano che il giusto nelle distribuzioni deve essere secondo
+
+alcuni stimano: ma quale debba essere quel valore, non tutti concordano; i democratici
+
+sono per la libertà, oligarchi per la ricchezza, altri per la nobiltà di nascita,
+
+e il partito aristocratico per la virtù.
+
+Il Giusto, quindi, è una certa cosa proporzionata. Poiché la proporzione fa.
+
+non applicarsi meramente al numero in astratto, ma al numero.
+
+generalmente, poiché è uguaglianza di rapporti, e implica quattro termini a
+
+almeno (che questo sia il caso in quella che può essere chiamata proporzione discreta)
+
+è chiaro ed evidente, ma è vero anche in proporzione continua, perché
+
+questo usa il medesimo termine come due, e lo menziona due volte; così A:B:C può essere
+
+espresso A:B::B:C. Nella prima, B è nominato due volte; e così, se, come in
+
+il secondo, B è scritto effettivamente due volte, i proporzionali saranno
+
+quattro): e il Giusto parimenti implica quattro termini almeno, e il
+
+Il rapporto tra le due coppie di termini è lo stesso, perché le persone
+
+e le cose sono divise similmente. Starà allora così,
+
+A:B::C:D, e poi permutando A:C::B:D, e poi (supponendo C e D
+
+rappresentano le cose) A+C:B+D::A:B. La distribuzione consistendo infatti
+
+nel mettere insieme questi termini così: e se essi sono messi insieme in tal modo
+
+Così da preservare questo stesso rapporto, la distribuzione li pone insieme.
+
+giustamente. Dunque la congiunzione del primo e del terzo e
+
+Il secondo e quarto proporzionale è il giusto nella distribuzione, e
+
+Questo è appunto il mezzo relativamente a ciò che viola il.
+
+proporzionato, poiché il proporzionato è un mezzo e il Giusto è
+
+Proporzionato. Ora i matematici chiamano questa specie di proporzione.
+
+geometrica: poiché nella proporzione geometrica il tutto sta al tutto come
+
+Ogni parte a ogni parte. Inoltre questa proporzione non è continua,
+
+perché la persona e la cosa non costituiscono un unico termine.
+
+Il giusto, allora, è questo proporzionato, e l'ingiusto ciò che viola.
+
+il proporzionato; e così viene a esserci il maggiore e il minore:
+
+che in effetti è il caso nelle transazioni reali, perché colui che agisce
+
+ingiustamente ha la parte maggiore e chi è trattato ingiustamente ha la
+
+meno di ciò che è buono: ma nel caso di ciò che è cattivo questo è invertito:
+
+poiché il minor male, a paragone del maggiore, viene a essere tenuto per bene.
+
+buono, perché il male minore è più degno di scelta del maggiore, e
+
+Ciò che è degno di scelta è buono, e tanto più lo è quanto maggiore è il bene.
+
+Questo è dunque l'unica specie del Giusto.
+
+<span class="atom-split" data-atom="066" data-title="Chapter VII. (parte 5)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
 
 And the remaining one is the Corrective, which arises in voluntary as
 
@@ -6806,7 +13443,157 @@ gain arising in involuntary transactions; that is, it is the having the
 
 same after the transaction as one had before it took place.
 
-<span class="atom-split" data-atom="067" data-title="Chapter VIII. (5/11)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+E il rimanente è il Correttivo, che sorge nel volontario come
+
+così come le transazioni involontarie. Ora questo ha semplicemente una forma diversa.
+
+dal suddetto; imperocché ciò che è implicato nella distribuzione di
+
+La proprietà comune è sempre secondo la suddetta proporzione: I
+
+significare che, se la divisione è fatta a partire dalla proprietà comune, le parti
+
+porteranno la stessa proporzione l'una rispetto all'altra come l'originale.
+
+i contributi fecero: e l'Ingiusto che è opposto a questo Giusto è
+
+ciò che viola il proporzionato.
+
+Ma il Giusto che sorge nei rapporti tra gli uomini è un uguale in un
+
+In un certo senso, e l'Ingiusto un ineguale, solo non nel modo di quello.
+
+proporzione ma aritmetica. Perché non fa differenza.
+
+se una rapina, per esempio, sia commessa da un uomo buono contro un cattivo o
+
+da un uomo cattivo su un buono, né se un uomo buono o cattivo ha commesso
+
+adulterio: la legge guarda solo alla differenza creata dall'offesa.
+
+e tratta gli uomini come precedentemente uguali, dove l'uno fa e il
+
+l'altro subisce ingiuria, o l'uno ha fatto e l'altro ha subito danno.
+
+E così questo Ingiusto, essendo disuguale, il giudice si sforza di ridurre a
+
+uguaglianza di nuovo, perché davvero quando una parte è stata ferita e
+
+l'altro lo ha colpito, o l'uno uccide e l'altro muore, il
+
+[la sofferenza](/concepts/suffering) e l'agire sono divisi in parti disuguali; ebbene, il
+
+giudice cerca di ripristinare l'uguaglianza con la pena, sottraendo così dal
+
+guadagno.
+
+Poiché questi termini guadagno e perdita sono applicati a questi casi, sebbene.
+
+forse il termine in qualche caso particolare potrebbe non essere strettamente
+
+proprio, come guadagno, per esempio, all'uomo che ha dato un colpo, e
+
+perdita per colui che l'ha ricevuto: tuttavia, quando la sofferenza è stata
+
+Stimati, l'uno è chiamato perdita e l'altro guadagno.
+
+E così l'uguale è un medio tra il più e il meno, che
+
+rappresentano guadagno e perdita in modi contrari (intendo, che quanto più di bene
+
+e il meno di male è guadagno, il meno di bene e il più di male è
+
+perdita): tra i quali l'uguale fu dichiarato essere un mezzo, il quale uguale noi
+
+dire è giusto: e così il giusto correttivo deve essere il mezzo tra perdita
+
+e guadagno. E questa è la ragione per cui, sorgendo una disputa, gli uomini hanno
+
+Ricorso al giudice: andare dal giudice è in realtà andare dal Giusto,
+
+poiché il giudice è destinato a essere la personificazione del Giusto. E
+
+Gli uomini cercano un giudice come uno nel mezzo, il che è espresso in un nome dato.
+
+da alcuni ai giudici (μεσίδιοι, o intermediari) sotto la nozione che se
+
+essi possono colpire il mezzo, colpiranno il Giusto. Il Giusto è allora
+
+Certamente una media poiché anche il giudice lo è.
+
+Dunque è ufficio del giudice rendere le cose uguali, e la linea, come
+
+esso fosse, essendo stato diviso inegualmente, egli prende dalla parte maggiore
+
+ciò per cui supera la metà, e aggiunge questo al minore. E
+
+Quando il tutto è diviso in due parti esattamente uguali, allora gli uomini dicono
+
+essi hanno il loro, quando hanno ottenuto l'eguale; e l'eguale è
+
+un mezzo tra il maggiore e il minore secondo l'aritmetica
+
+uguaglianza.
+
+Questo, tra l'altro, spiega l'etimologia del termine con cui noi in
+
+Il greco esprime le idee di Giusto e Giudice; (δίκαιον quasi δίχαιον, che
+
+è in due parti, e δικάστης quasi διχάστης, colui che divide in due.
+
+parti). Poiché quando da una di due grandezze eguali alcunché è stato
+
+Presa e aggiunta all'altra, questa ultima supera la prima del doppio.
+
+quella porzione: se fosse stata meramente presa dal primo e non aggiunta.
+
+a quest'ultimo, allora quest'ultimo avrebbe superato il primo solo di
+
+che quella porzione; ma nell'altro caso, il maggiore eccede il mezzo.
+
+di uno, e la media supera anche di uno quella grandezza da cui il
+
+Una porzione fu presa. Con questa illustrazione, dunque, otteniamo una regola per
+
+determinare ciò che si deve prendere da colui che ha la parte maggiore, e ciò che
+
+aggiungere a colui che ha di meno. L'eccesso del mezzo sul minore.
+
+deve essere aggiunto al meno, e l'eccesso del più sul mezzo.
+
+essere preso dal maggiore.
+
+Siano dunque tre linee rette uguali tra loro. Da una.
+
+Di esse tagliane una parte, e aggiungine altrettanto a un'altra di esse. Il
+
+L'intera linea così fatta eccederà il rimanente della linea prima nominata.
+
+del doppio della porzione aggiunta, e supererà la linea intatta di altrettanto.
+
+parte. E questi termini perdita e guadagno sono derivati dal volontario.
+
+scambio: vale a dire, l'avere più di quanto era proprio è
+
+Si chiama guadagnare, e l’avere meno della propria scorta originaria si chiama
+
+perdere; per esempio, nel comprare o nel vendere, o in qualsiasi altre transazioni.
+
+che sono garantiti dalla legge: ma quando il risultato non è né più né
+
+meno, ma esattamente lo stesso di quanto c'era originariamente, la gente dice che
+
+hanno il loro, e non perdono né guadagnano.
+
+Dunque il Giusto di cui abbiamo parlato è una via di mezzo tra la perdita e
+
+Guadagno derivante da transazioni involontarie; cioè, è l'avere il
+
+stesso dopo la transazione come si era prima che essa avvenisse.
+
+<span class="atom-split" data-atom="067" data-title="Chapter VIII. (parte 5)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
 
 There are people who have a notion that Reciprocation is simply just,
 
@@ -7014,7 +13801,215 @@ existence of money: for it makes no difference whether you give for a
 
 house five beds or the price of five beds.
 
-<span class="atom-split" data-atom="068" data-title="Chapter IX. (5/9)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ci sono persone che hanno una nozione che la Reciprocazione sia semplicemente giusta,
+
+come dissero i Pitagorici: essi infatti definivano il Giusto semplicemente e senza
+
+qualificazione come “Ciò che contraccambia con un altro.” Ma questo
+
+La semplice reciprocazione non si adatta in nessuno dei due modi al giusto distributivo,
+
+o il Correttivo (eppure questa è l'interpretazione che danno al
+
+Regola radamantina del Giusto,
+
+Se un uomo dovesse soffrire ciò che ha fatto, allora ci sarebbe
+
+giustizia semplice;”)
+
+poiché in molti casi sorgono differenze: come, per esempio, supponiamo uno in
+
+l'autorità ha colpito un uomo, egli non è da colpirsi a sua volta; o se un uomo
+
+Ha colpito chi è in autorità, egli deve non solo essere colpito ma punito.
+
+anche. E ancora, la volontarietà o involontarietà delle azioni.
+
+fa una grande differenza.
+
+Ma nelle relazioni di scambio un tale principio di Giustizia come questo
+
+La reciprocità forma il vincolo dell'unione, ma allora deve essere
+
+Il contraccambio secondo proporzione e non secondo uguaglianza esatta, perché
+
+Mediante la proporzionata reciprocità di azione la comunità sociale è tenuta.
+
+Insieme, poiché o s'intende la reciprocazione del male, e se questo non sia
+
+ammesso si ritiene che sia una condizione servile delle cose: o altrimenti
+
+Reciprocazione del bene, e se questa non sia effettuata, allora non vi è
+
+l'ammissione alla partecipazione che è il vincolo stesso della loro unione.
+
+E questa è la morale del porre il Tempio delle Grazie (χάριτες) in
+
+le strade pubbliche; per imprimere l'idea che possa esserci un contraccambio,
+
+questo essendo peculiare a χάρις perché un uomo deve contraccambiare con un
+
+Buona azione l'uomo che gli ha fatto un favore e poi diventare se stesso.
+
+l'autore di un'altra χάρις, facendogli un favore.
+
+Ora gli atti del dare reciproco nella debita proporzione possono essere rappresentati da
+
+i diametri di un parallelogrammo, ai quattro angoli del quale i
+
+le parti e le loro merci sono così collocate che il lato che collega il
+
+le parti siano opposte a quella che collega le merci, e ciascuna parte sia
+
+collegato da un lato con la propria [merce](/concepts/commodity), come nell'annessa
+
+diagramma.
+
+ [Illustrazione]
+
+Il costruttore deve ricevere dal calzolaio della sua merce, e dare.
+
+lui del suo: se allora vi sia prima uguaglianza proporzionale, e
+
+Allora avrà luogo la Reciprocazione, e vi sarà il giusto risultato.
+
+del quale parliamo: se non, non v'è l'eguale, né vi sarà il
+
+Connessione sussiste: poiché non v'è ragione per cui la mercanzia dell'uno possa
+
+non essere migliore di quello dell'altro, e quindi prima dello scambio
+
+è fatto devono essere stati uguagliati. E ciò è così anche nell'altro.
+
+arti: poiché sarebbero state distrutte interamente se non ci fosse un
+
+corrispondenza in fatto di quantità e qualità tra il produttore.
+
+e il consumatore. Poiché, dobbiamo ricordare, nessun commercio sorge tra due
+
+Della stessa specie, due medici, per esempio; ma diciamo tra un
+
+medico e agricoltore, o, per dirla in generale, tra quelli
+
+che sono differenti e non uguali, ma questi, naturalmente, devono essere stati
+
+equalizzato prima che lo scambio possa aver luogo.
+
+È quindi indispensabile che tutte le cose che possono essere scambiate
+
+dovrebbero essere capaci di confronto, e a questo scopo è sorta la moneta.
+
+in, e diviene una sorta di medium, poiché misura tutte le cose e così
+
+similmente l'eccesso e il difetto; per esempio, quante scarpe sono uguali
+
+a una casa o a una data quantità di cibo. Come quindi il costruttore al
+
+Calzolaio, tante scarpe devono essere alla casa (o cibo, se invece di un
+
+costruttore un agricoltore essere la parte che scambia); poiché a meno che non vi sia
+
+Questa proporzione non può esserci scambio o commercio, e questo
+
+la proporzione non può essere se i termini non sono in qualche modo uguali; quindi il
+
+necessità, come si è detto sopra, di un'unica misura di tutte le cose. Ora questo
+
+è realmente e veramente la Domanda per essi, che è il comune legame di
+
+tutti tali scambi. Poiché se le parti non fossero affatto bisognose o non.
+
+similmente delle altrui mercanzie, non ve ne sarebbe neanche.
+
+scambio, o almeno non lo stesso.
+
+E il denaro è venuto a essere, per comune accordo, un rappresentante di
+
+Domanda: e la spiegazione del suo nome greco νομισμα è questa, che essa è
+
+ciò che non è naturalmente ma per [consuetudine](/concepts/custom) o legge (νόμος), e riposa
+
+con noi per cambiarne il valore, o renderlo del tutto inutile.
+
+Ebbene, allora, ci sarà Reciprocazione quando i termini saranno stati
+
+Eguagliati in modo da stare in questa proporzione; Agricoltore: Calzolaio.
+
+::: merci del Calzolaio: merci dell'Agricoltore; ma tu devi portare
+
+li a questa forma di proporzione quando scambiano, altrimenti l'uno
+
+L'estremo combinerà entrambi gli eccessi del mezzo: ma quando essi
+
+hanno esattamente il proprio allora sono uguali e hanno rapporti, perché
+
+La stessa uguaglianza può venire a essere nel loro caso. Sia A a rappresentare un
+
+agricoltore, C cibo, B un calzolaio, D le sue merci eguagliate con quelle di A.
+
+Allora la proporzione sarà corretta, A:B::C:D; ora la Reciprocazione sarà.
+
+essere praticabile, se non fosse, non vi sarebbe stato alcun rapporto.
+
+Ora che ciò che collega gli uomini in tali transazioni è la Domanda, in quanto essere
+
+un che di uno, è mostrato dal fatto che, quando l'uno o l'altro non è
+
+Vogliono l'altro o non vogliono l'un l'altro, essi non scambiano affatto.
+
+Tutti: mentre fanno quando uno vuole ciò che l'altro uomo ha, vino.
+
+per esempio, dando in cambio grano per l'esportazione.
+
+E inoltre, la moneta è per noi una sorta di garanzia rispetto allo scambio.
+
+in qualche tempo futuro (supponendo che non si voglia nulla ora che dovremo
+
+averlo quando lo facciamo): essendo la teoria del denaro che ogni volta che si porta
+
+vi si possono ricevere merci in cambio: naturalmente anche questo è
+
+soggetto a deprezzamento, poiché il suo potere d'acquisto non è sempre il
+
+Lo stesso, ma è pur sempre di natura più permanente delle merci.
+
+Esso rappresenta. E questa è la ragione per cui tutte le cose dovrebbero avere un
+
+prezzo posto su di esse, perché così vi possa essere scambio in ogni tempo,
+
+e se scambio allora commercio. Così il denaro, come una misura, rendendo tutto
+
+le cose commensurabili le eguaglia: poiché se non vi fosse scambio
+
+Non vi sarebbe stato commercio, né scambio se non vi fosse.
+
+uguaglianza, né uguaglianza se non vi fosse la capacità di essere.
+
+commensurato: è impossibile che cose così grandemente differenti debbano
+
+essere realmente commensurabili, ma possiamo approssimare sufficientemente per tutti
+
+scopi pratici in riferimento alla Domanda. La misura comune deve essere
+
+un che di uno, e anche da accordo (per la qual cosa è chiamato
+
+νόμισμα), poiché questo rende tutte le cose commensurabili: in effetti, tutte le cose
+
+sono misurate dal denaro. Sia B dieci mine, A una casa del valore di cinque.
+
+minæ, o in altre parole metà B, C un letto che vale un decimo di B: è chiaro
+
+Dunque quanti letti equivalgono a una casa, cioè cinque.
+
+È anche ovvio che lo scambio era così condotto prima del
+
+esistenza del denaro: poiché non fa differenza se tu dai per un
+
+casa cinque letti o il prezzo di cinque letti.
+
+<span class="atom-split" data-atom="068" data-title="Chapter IX. (parte 5)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
 
 We have now said then what the abstract Just and Unjust are, and these
 
@@ -7068,7 +14063,61 @@ Let this way of describing the nature of Justice and Injustice, and
 
 likewise the Just and the Unjust generally, be accepted as sufficient.
 
-<span class="atom-split" data-atom="069" data-title="Chapter X. (4/7)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Abbiamo ora detto allora che cosa sono l'astratto Giusto e l'astratto Ingiusto, e questi
+
+Definito ciò, è chiaro che il giusto agire è un medio tra
+
+agire ingiustamente ed essere trattato ingiustamente: essendo il primo
+
+equivalente ad avere di più, e quest'ultimo ad avere di meno.
+
+Ma la Giustizia, si deve osservare, è uno stato medio non secondo lo stesso
+
+maniera come le virtù predette, ma perché mira a produrre
+
+il mezzo, mentre l'Ingiustizia occupa entrambi gli estremi.
+
+E la Giustizia è lo stato morale in virtù del quale l'uomo giusto è detto
+
+avere l'attitudine a praticare il Giusto nel modo morale.
+
+scelta, e per fare divisione tra, se stesso e un altro, o
+
+tra due altri uomini, non così da dare a sé il maggiore e a
+
+al suo prossimo la parte minore di ciò che è degno di scelta, e all'opposto.
+
+di ciò che è dannoso, ma ciò che è proporzionatamente uguale, e similmente
+
+maniera nel giudicare i diritti di due altri uomini.
+
+L'ingiustizia è tutto questo rispetto all'Ingiusto: e poiché l'Ingiusto
+
+è eccesso o difetto di ciò che è buono o dannoso rispettivamente, in
+
+violazione del proporzionato, quindi l'Ingiustizia è sia eccesso che
+
+difetto perché mira a produrre eccesso e difetto; eccesso, cioè,
+
+nel caso proprio di un uomo di ciò che è semplicemente vantaggioso, e mancanza di ciò che
+
+è dannoso: e nel caso di altri uomini similmente in generale.
+
+parlando, solo che il proporzionato è violato non sempre in uno
+
+direzione come prima ma in qualunque modo accada nel caso dato. E
+
+dell'atto ingiusto il meno è trattato ingiustamente, e il
+
+maggiore l'agire ingiustamente verso gli altri.
+
+Si lasci che questo modo di descrivere la natura della Giustizia e dell'Ingiustizia, e
+
+Parimenti il Giusto e l'Ingiusto, generalmente, siano accettati come sufficienti.
+
+<span class="atom-split" data-atom="069" data-title="Chapter X. (parte 4)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
 
 [Again, since a man may do unjust acts and not yet have formed a
 
@@ -7244,7 +14293,183 @@ not even the forms of government are, and yet there is one only which
 
 by nature would be best in all places.
 
-<span class="atom-split" data-atom="070" data-title="Chapter XI. (4/7)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ancora, poiché un uomo può compiere atti ingiusti e non aver ancora formato un
+
+il carattere dell'ingiustizia, sorge la questione se un uomo sia ingiusto in
+
+ogni particolare forma di ingiustizia, diciamo un ladro, o un adultero, o
+
+ladro, compiendo atti di un dato carattere.
+
+Possiamo dire, credo, che questo di per sé non farà alcuna differenza;
+
+un uomo può, per esempio, aver avuto rapporti con la moglie di un altro,
+
+sapendo bene con chi peccasse, ma può averlo fatto non di
+
+scelta deliberata ma dall'impulso della passione: naturalmente egli agisce
+
+ingiustamente, ma non ha necessariamente formato un carattere ingiusto: ciò
+
+è, egli può aver rubato eppure non essere un ladro; o commesso un atto di
+
+l'adulterio ma nondimeno non essere un adultero, e così via negli altri casi che
+
+potrebbero essere enumerate.]
+
+Della relazione che la Reciprocazione ha col Giusto abbiamo già
+
+e qui si deve notare che il Giusto che noi siamo
+
+investigare è sia il Giusto in astratto che anche come esibito in
+
+Relazioni sociali, la quale ultima sorge nel caso di coloro che vivono in
+
+comunione in vista dell'indipendenza e che sono liberi e uguali altresì
+
+proporzionalmente o numericamente.
+
+Ne segue quindi che coloro che non sono in questa posizione non hanno tra
+
+essi stessi i Giusti Sociali, ma pur sempre Giusti di qualche specie e rassomiglianti.
+
+quell'altro. Poiché il Giusto implica una legge mutuamente riconosciuta, e la legge la
+
+La possibilità dell'ingiustizia, poiché il giudizio è l'atto del distinguere.
+
+tra il Giusto e l'Ingiusto.
+
+E tra coloro, chiunque essi siano, fra i quali v’è la possibilità dell’ingiustizia, fra questi.
+
+c'è quello di agire ingiustamente; ma non vale il converso che
+
+L'ingiustizia inerisce a tutti coloro tra i quali vi è la possibilità di agire.
+
+ingiustamente, poiché con il primo intendiamo dare a sé stesso la parte maggiore.
+
+Parte di ciò che è astrattamente buono e il meno di ciò che è astrattamente
+
+male.
+
+Questo, per inciso, è il motivo per cui non permettiamo a un uomo di governare,
+
+ma il Principio, perché un uomo governa per sé stesso e viene a essere un
+
+despota: ma l'ufficio di un sovrano è di essere custode del Giusto e
+
+Dunque dell'Uguale. Orbene, poiché egli non pare avere alcunché di peculiare
+
+vantaggio personale, supponendolo un uomo giusto, poiché in questo caso egli fa
+
+non assegnare a se stesso la parte maggiore di ciò che è astrattamente buono.
+
+a meno che non gli tocchi proporzionalmente (per la qual cosa egli
+
+Realmente governa per gli altri, e così la Giustizia, dicono gli uomini, è un bene non da
+
+il proprio sé tanto quanto agli altri, come fu menzionato prima), perciò
+
+Una certa compensazione gli deve essere data, come in realtà ve n'è nella forma.
+
+di onore e privilegio; e ovunque questi non siano adeguati là
+
+I governanti si trasformano in despoti.
+
+Ma il Giusto che sorge nei rapporti di Padrone e Padre, non è
+
+identici a, ma simili a, questi; perché non c'è possibilità
+
+di ingiustizia verso quelle cose che sono assolutamente proprie; e un
+
+schiavo o fanciullo (purché quest'ultimo sia di una certa età e non
+
+separato in un essere indipendente), è, per così dire, parte di un uomo
+
+sé, e nessun uomo sceglie di nuocere a se stesso, per la qual cosa non può
+
+essere ingiustizia verso il proprio sé: quindi non v'è nemmeno il
+
+sociale Ingiusto o Giusto, che si diceva essere in conformità con la legge
+
+e di esistere tra coloro tra i quali la legge naturalmente esiste, e questi.
+
+erano detti essere coloro a cui appartiene l'uguaglianza del governare e dell'essere.
+
+governata.
+
+Onde anche vi è il Giusto piuttosto tra un uomo e sua moglie che tra
+
+un uomo e i suoi figli o schiavi; questo è in effetti il Giusto che sorge in
+
+relazioni domestiche: e anche questo è diverso dal Giusto Sociale.
+
+Inoltre, questo Giusto ultimamente menzionato è di due specie, naturale e
+
+convenzionale; il primo essendo quello che ha ovunque la stessa forza.
+
+e non dipende dall'essere ricevuto o no; essendo quest'ultimo il fatto che
+
+che originariamente può essere in questo o in quel modo indifferentemente, ma non dopo.
+
+disposizione: per esempio, il prezzo del riscatto essendo fissato a una mina, o
+
+il sacrificare una capra invece di due pecore; e di nuovo, tutti i casi di
+
+disposizione speciale, come il sacrificare a Brasida come a un eroe; in breve,
+
+tutte le materie di speciale decreto.
+
+Ma vi sono alcuni uomini che pensano che tutti i Giusti siano di quest'ultimo.
+
+genere, e su questa base: tutto ciò che esiste per natura, dicono, è
+
+immutabile e ha ovunque la stessa forza; il fuoco, per esempio,
+
+arde non qui solo ma in Persia pure, ma i Giusti essi vedono.
+
+I need the original English passage to translate it. Please provide the source text.
+
+Ora questo non è realmente così, e tuttavia lo è in un certo modo (sebbene tra i
+
+dei forse in nessun modo): tuttavia anche tra noi stessi vi è
+
+esistente in qualche modo per natura: ammettendo che tutto sia soggetto a
+
+cambiamento, tuttavia vi è ciò che esiste per natura, e ciò che
+
+non.
+
+Anzi, possiamo spingerci oltre, e dire che è praticamente evidente ciò che tra
+
+Le cose che possono essere in altro modo esiste per natura, e ciò che non.
+
+ma dipende dall'attuazione ed è convenzionale, anche ammettendo che
+
+Ambedue sono parimente soggetti ad essere mutati: e lo stesso distintivo.
+
+l'illustrazione si applicherà a questo e ad altri casi; la mano destra è
+
+naturalmente i più forti, tuttavia alcuni uomini possono diventare ugualmente forti in
+
+I notice you've provided instructions but no source text to translate. The word "both" appears, but that doesn't seem to be the philosophical passage you intend for me to translate. Please provide the complete English passage you'd like me to render into Italian, and I'll translate it following your specifications.
+
+Si può tracciare un parallelo tra i giusti che dipendono dalla convenzione.
+
+e l'utile, e le misure; poiché le misure del vino e del grano non sono uguali
+
+in tutti i luoghi, ma dove gli uomini comperano, essi sono grandi, e dove questi medesimi
+
+Ancora una volta essi sono più piccoli: bene, parimenti i Giusti che sono
+
+non naturali, ma d'invenzione umana, non sono dovunque le stesse, poiché
+
+neppure le forme di governo sono, e tuttavia ve n'è una sola che
+
+per natura sarebbe il migliore in tutti i luoghi.
+
+<span class="atom-split" data-atom="070" data-title="Chapter XI. (parte 4)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
 
 Now of Justs and Lawfuls each bears to the acts which embody and
 
@@ -7444,7 +14669,207 @@ passion which is neither natural nor fairly attributable to human
 
 infirmity.
 
-<span class="atom-split" data-atom="071" data-title="Chapter XII. (2/6)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora dei Giusti e dei Legali ciascuno si rapporta agli atti che incarnano e
+
+La esemplificano, la relazione di un universale a un particolare; gli atti.
+
+essendo molti, ma ciascuno dei principi solo singolare perché ciascuno è un
+
+universale. E così vi è una differenza tra un atto ingiusto e il
+
+astratto Ingiusto, e l'atto giusto e l'astratto Giusto: voglio dire, un
+
+una cosa è ingiusta in sé, per natura o per ordinanza; ebbene, quando questo
+
+è stato incarnato nell'atto, c'è un atto ingiusto, ma non prima di allora,
+
+solo qualche cosa ingiusta. E similmente di un atto giusto. (Forse
+
+δικαιοπράγημα è più correttamente il termine comune o generico per giusto.
+
+atto, la parola δικαίωμα, che ho qui usato, significando generalmente e
+
+propriamente l'atto correttivo dell'atto ingiusto.) Ora, quanto a ciascuno di essi,
+
+quali generi ci siano, e quanti, e quale sia il loro oggetto materiale, noi
+
+Bisogna esaminare in seguito.
+
+Per il presente procediamo a dire che, essendo i Giusti e gli Ingiusti
+
+Le cose che sono state menzionate, si dice che un uomo agisca ingiustamente o giustamente quando
+
+egli incarna questi astratti in azioni volontarie, ma quando in
+
+Involontario, allora egli non agisce né ingiustamente né giustamente se non
+
+accidentalmente; voglio dire che l'essere giusto o ingiusto è realmente soltanto
+
+accidentale agli agenti in tali casi.
+
+Quindi sia le azioni ingiuste che quelle giuste sono limitate dall'essere volontarie o
+
+il contrario: poiché quando un'incarnazione dell'Ingiusto è volontaria, allora essa
+
+è biasimata ed è allo stesso tempo anche un'azione ingiusta: ma, se
+
+la volontarietà non incrisce, vi sarà una cosa che è in sé
+
+ingiusto ma non ancora un'azione ingiusta.
+
+Per volontario intendo, come abbiamo detto prima, qualsivoglia delle cose in suo.
+
+Proprio potere un uomo fa con conoscenza, e l'assenza di ignoranza quanto a
+
+la persona a cui, o lo strumento con cui, o il risultato con cui
+
+il che egli fa; come, per esempio, chi egli percuote, con che cosa egli lo percuote.
+
+con, e con quale probabile risultato; e ciascuno di questi punti di nuovo,
+
+non accidentalmente né per costrizione; come supponendo che un altro uomo dovesse
+
+afferrare la sua mano e colpire con essa una terza persona, qui, naturalmente, il
+
+Il proprietario della mano non agisce volontariamente, perché non rimaneva con.
+
+per lui fare o lasciare non fatto: o ancora, è concepibile che la persona
+
+Colpito può essere suo padre, ed egli può sapere che è un uomo, o anche uno.
+
+della presente compagnia, che egli sta percuotendo, ma non sapere che essa è
+
+suo padre. E si supponga che queste stesse distinzioni siano portate
+
+nel caso del risultato e in effetti l'intero di qualsiasi azione data.
+
+In fine, adunque, è involontario quello che si fa per ignoranza, o
+
+che, non derivando da ignoranza, non è in potere dell'agente o
+
+è fatto per costrizione.
+
+Menziono questi casi, giacché molte cose naturali vi sono le quali noi
+
+Agire e patire scientemente, ma nondimeno nessuno dei quali è neppure volontario.
+
+o involontario, invecchiare, o morire, per esempio.
+
+Inoltre, l’accidentalità può inerire all’ingiusto nello stesso modo che al.
+
+atti giusti. Per esempio, un uomo può aver restituito ciò che era stato depositato.
+
+con lui, ma contro la sua volontà e per timore delle conseguenze di un
+
+rifiuto: non dobbiamo dire che egli o fa ciò che è giusto, o fa
+
+giustamente, se non accidentalmente: e similmente l'uomo che per
+
+costrizione e contro la sua volontà manca di restituire un deposito, deve essere
+
+detto di agire ingiustamente, o di fare ciò che è ingiusto, solo accidentalmente.
+
+Ancora, le azioni volontarie le compiamo o per scelta deliberata o senza.
+
+esso; da esso, quando agiamo per deliberazione precedente; senza di esso, quando
+
+senza alcuna precedente deliberazione. Da allora le offese che possono essere fatte.
+
+nelle transazioni tra uomo e uomo sono triplici, quegli errori che
+
+sono accompagnate da ignoranza sono, quando un uomo o fa una cosa non da
+
+l'uomo al quale egli intendeva farlo, o non la cosa che egli intendeva fare, o
+
+non con lo strumento, o non con il risultato che egli intendeva:
+
+o non pensava di doverlo colpire affatto, o non con questo, o
+
+Questo non è l'uomo che egli pensò di dover colpire, o egli non pensò questo.
+
+sarebbe il risultato del colpo ma un risultato è seguito che egli fece
+
+non anticipare; come, per esempio, egli lo fece non per ferire ma semplicemente per
+
+pungilo; o non è l'uomo cui, o il modo in cui, egli intendeva.
+
+Ora, quando il danno è accaduto contro ogni ragionevole.
+
+aspettazione, è una Disavventura; quando sebbene non contrario a
+
+aspettazione ancora senza alcun vizio, è un Errore; per un uomo
+
+commette un errore quando l'origine della causa risiede in lui stesso.
+
+egli ha una disavventura quando essa è esterna a lui stesso. Quando di nuovo egli
+
+Agisce con conoscenza, ma non per precedente deliberazione, è un
+
+azione ingiusta; per esempio, tutto ciò che accade agli uomini da [collera](/concepts/anger) o
+
+altre passioni che sono necessarie o naturali: perché quando si fanno queste
+
+fa male o commettendo questi errori agiscono ingiustamente ovviamente e il loro
+
+le azioni sono ingiuste, tuttavia non sono ancora confermate ingiuste o malvagie
+
+persone a cagione di queste, perché il danno non derivava da
+
+depravità in colui che la compie: ma quando essa sorge da un deliberato
+
+scelta, allora chi agisce è un uomo ingiusto e depravato incallito.
+
+E in base a questo principio gli atti compiuti per ira sono giustamente giudicati non essere.
+
+da malizia premeditata, perché non è l'uomo che agisce in preda all'ira che
+
+è l'originatore veramente se non colui che ha causato la sua ira. E ancora, il
+
+La questione in discussione in tali casi non è rispettare il fatto ma
+
+rispetto alla giustizia del caso, essendo l’occasione dell’ira un
+
+nozione di lesione. Voglio dire, che le parti non disputano circa il
+
+fatto, come nelle questioni di contratto (dove uno dei due deve essere un
+
+canaglia, a meno che non si possa addurre una reale dimenticanza), ma, ammettendo il
+
+fatto, essi disputano da quale parte stia la giustizia della causa (quella
+
+chi complottò contro l'altro, cioè il vero aggressore, naturalmente,
+
+non può esserne ignorante), così che l'uno pensa che vi sia ingiustizia
+
+commesso mentre l'altro no.
+
+Ebbene, un uomo agisce ingiustamente se ha offeso un altro di proposito.
+
+scopo, e colui che commette tali atti di ingiustizia è ipso facto un
+
+carattere ingiusto quando sono in violazione del proporzionato o del
+
+eguale; e similmente anche un uomo è un carattere giusto quando agisce.
+
+Giustamente di proposito deliberato, ed egli agisce giustamente se agisce.
+
+volontariamente.
+
+Quanto poi agli atti di danno involontari, essi sono o tali che sono.
+
+scusabili o tali che non lo sono: sotto il primo capo cadono tutti gli errori
+
+fatto non semplicemente nell'ignoranza ma dall'ignoranza; sotto quest'ultima tutto
+
+che sono compiute non per ignoranza ma nell'ignoranza causata da qualcosa
+
+passione che non è né naturale né giustamente attribuibile all'umano
+
+infermità.
+
+<span class="atom-split" data-atom="071" data-title="Chapter XII. (parte 2)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en"></span>
 
 Now a question may be raised whether we have spoken with sufficient
 
@@ -7568,7 +14993,131 @@ With respect to being unjustly dealt with then, it is clear that it is
 
 not voluntary.
 
-<span class="atom-split" data-atom="072" data-title="Chapter XIII. (3/4)" data-chapter="Chapter XIII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora potrebbe essere sollevata una questione se abbiamo parlato con sufficiente
+
+La distinzione quanto all'essere trattati ingiustamente e al trattare ingiustamente.
+
+verso gli altri.
+
+Prima, se sia possibile il caso che Euripide ha posto, dicendo
+
+piuttosto stranamente,
+
+"Mia madre egli ha ucciso; il racconto è breve,
+
+O ei volentieri la uccise volente,
+
+Oppure con la sua volontà ma contro la sua.
+
+Intendo dire allora, è realmente possibile che una persona venga trattata ingiustamente?
+
+con il suo stesso consenso, o deve ogni caso di essere trattato ingiustamente
+
+con essere contro la volontà del sofferente come ogni atto di ingiusto trattamento.
+
+è volontario?
+
+E appresso, i casi di subire ingiustizia sono da regolare tutti in un medesimo modo?
+
+modo come ogni atto di ingiusta condotta è volontario? o possiamo dire che
+
+Alcuni casi sono volontari e alcuni involontari?
+
+Similmente anche per quanto riguarda l'essere trattati giustamente: ogni agire giusto è
+
+volontario, così che è giusto supporre che l'essere di cui si tratta
+
+Ingiustamente o giustamente devono essere similmente opposti, quanto all'essere l'uno o l'altro.
+
+volontario o involontario.
+
+Ora, quanto all'esser trattati giustamente, la posizione che ogni caso di
+
+Questo è volontario è una cosa strana, poiché alcuni sono certamente giustamente trattati.
+
+con senza la loro volontà. Il fatto è che un uomo può anche giustamente sollevare.
+
+questa questione, se in ogni caso colui che ha subito ciò che è ingiusto
+
+è pertanto trattato ingiustamente, o piuttosto che il caso è lo stesso
+
+con la [sofferenza](/concepts/suffering) come con l'agire; cioè che in entrambi è possibile
+
+partecipare a ciò che è giusto, ma solo accidentalmente. Chiaramente il caso.
+
+di ciò che è ingiusto è simile: poiché il fare cose ingiuste in sé è
+
+non identico all'agire ingiustamente, né il subirle è lo stesso che
+
+L'essere trattati ingiustamente. Così pure dell'agire giustamente e dell'essere giustamente.
+
+trattato, poiché è impossibile essere trattati ingiustamente a meno che
+
+qualcun altro agisce ingiustamente o essere trattato giustamente a meno che qualcuno
+
+Altrimenti agisce giustamente.
+
+Ora, se agire ingiustamente è semplicemente “far del male a un altro volontariamente” (da
+
+il che voglio dire, sapere chi ferisci, e con che cosa, e in che modo
+
+lo stanno ferendo), e l'uomo che manca volontariamente di autocontrollo
+
+se ferisce, allora questo sarà un caso di subire volontariamente un trattamento.
+
+ingiustamente con, e sarà possibile per un uomo comportarsi ingiustamente con
+
+lui stesso. (Questo, tra l'altro, è una delle questioni sollevate, se sia
+
+possibile che un uomo agisca ingiustamente verso se stesso.) Oppure ancora, un uomo può,
+
+Per la mancanza di autocontrollo, ricevere danno da un altro uomo.
+
+agendo volontariamente, e così qui sarà un altro caso di essere ingiustamente
+
+affrontato volontariamente.
+
+La soluzione, credo, è questa: la definizione di essere ingiustamente
+
+affrontato non è corretto, ma dobbiamo aggiungere, al ferire con il
+
+cognizione della persona offesa e dello strumento e della maniera di
+
+ferendolo, il fatto del suo essere contro il volere dell'uomo che è
+
+Dolore.
+
+Dunque un uomo può essere ferito e soffrire ciò che è in sé ingiusto.
+
+volontariamente, ma ingiustamente trattato volontariamente nessun uomo può essere: poiché
+
+nessun uomo desidera essere ferito, nemmeno colui che difetta di autocontrollo, che
+
+agisce realmente contro il suo desiderio: poiché nessun uomo desidera ciò che egli
+
+non pensa di essere buono, e l'uomo che difetta di autocontrollo sì
+
+non ciò che pensa di dover fare.
+
+E ancora, colui che dà via la propria proprietà (come dice Omero, Glauco
+
+diede a Diomede, «armi d’oro per quelle di bronzo, armi del valor di cento buoi».
+
+Poiché ciò che non valeva che nove”) non è trattato ingiustamente, perché
+
+il dare riposa interamente in lui stesso; ma l'essere trattato ingiustamente
+
+non lo fa, deve esserci qualche altra persona che agisce ingiustamente.
+
+Verso di lui.
+
+Riguardo all'essere trattati ingiustamente allora, è chiaro che è
+
+Non volontario.
+
+<span class="atom-split" data-atom="072" data-title="Chapter XIII. (parte 3)" data-chapter="Chapter XIII." data-kind="atom" data-srclang="en"></span>
 
 There remain yet two points on which we purposed to speak: first, is he
 
@@ -7646,7 +15195,85 @@ because in this case the man who wrongly adjudged, say a field, did not
 
 actually get land but money by his unjust decision.
 
-<span class="atom-split" data-atom="073" data-title="Chapter XIV. (2/3)" data-chapter="Chapter XIV." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Rimangono ancora due punti sui quali ci proponemmo di parlare: primo, è egli
+
+Imputabile di un atto ingiusto chi nella distribuzione ha dato il
+
+maggiore porzione a una parte contraria alla debita proporzione, o colui che ha
+
+la parte maggiore? poi, può un uomo commettere ingiustizia verso se stesso?
+
+Nella prima questione, se la prima alternativa nominata è possibile e
+
+È il distributore che agisce ingiustamente, e non colui che ha la parte maggiore.
+
+condividere, poi supponendo che una persona consapevolmente e volontariamente dia di più
+
+A un altro che a se stesso, ecco un caso di un uomo che agisce ingiustamente verso.
+
+se stesso; il che, in effetti, si ritiene che gli uomini moderati facciano, poiché è un
+
+È caratteristico dell'uomo equo prendere meno del dovuto.
+
+Non è questa la risposta? che la questione non è del tutto esposta in modo equo,
+
+a causa di qualche altro bene, come il credito o l'onorevole astratto,
+
+nel caso supposto l'uomo ottenne davvero la parte maggiore. E ancora, il
+
+La difficoltà si risolve con riferimento alla definizione dell'agire ingiusto:
+
+poiché l'uomo non soffre nulla contro il proprio desiderio, cosicché, su questo,
+
+Almeno su questo punto, non è trattato ingiustamente, ma, semmai, lo è.
+
+Solo dolore.
+
+È evidente anche che è il distributore ad agire ingiustamente e non
+
+l'uomo che ha la parte maggiore: perché il semplice fatto del
+
+Astratto Ingiusto inerente a ciò che un uomo fa, non costituisce.
+
+azione ingiusta, ma il fare questo volontariamente: e la volontarietà
+
+si attacca a quel lato donde è l'origine dell'azione, che
+
+Chiaramente è nel distributore non nel ricevente. E ancora il termine
+
+Il fare si usa in vari sensi; in un senso le cose inanimate uccidono,
+
+o la mano, o lo schiavo per ordine del suo padrone; così l'uomo in
+
+La questione non agisce ingiustamente ma fa cose che in sé sono
+
+ingiusto.
+
+Di nuovo, supponiamo che un uomo abbia emesso una sentenza ingiusta per ignoranza; in
+
+Agli occhi della legge egli non agisce ingiustamente, né la sua aggiudicazione è ingiusta.
+
+ma tuttavia egli è in un certo senso: poiché il Giusto secondo la legge e
+
+Il giusto primario o naturale non coincidono: ma, se egli consapevolmente
+
+Decise ingiustamente, poi egli stesso nonché il ricevente ottenne il
+
+parte maggiore, cioè o di favore da parte del ricevente o privato.
+
+vendetta contro l'altra parte: e così l'uomo che decise ingiustamente
+
+da questi motivi riceve una parte maggiore, esattamente nello stesso senso di un
+
+l'uomo che ricevesse parte della materia stessa dell'azione ingiusta sarebbe:
+
+perché in questo caso l'uomo che giudicò erroneamente, diciamo un campo, non
+
+effettivamente ottenere terra ma denaro dalla sua ingiusta decisione.
+
+<span class="atom-split" data-atom="073" data-title="Chapter XIV. (parte 2)" data-chapter="Chapter XIV." data-kind="atom" data-srclang="en"></span>
 
 Now men suppose that acting Unjustly rests entirely with themselves,
 
@@ -7715,6 +15342,76 @@ particle of them is of use, those who are incurably wicked to whom all
 things are hurtful; others to whom they are useful to a certain degree:
 
 for this reason then the province of Justice is among Men.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora gli uomini suppongono che l'agire ingiustamente dipenda interamente da loro stessi,
+
+e concludere che agire Giustamente è quindi anche facile. Ma questo non è.
+
+veramente così; avere rapporti con la moglie del vicino, o colpire il proprio
+
+prossimo, o dare il denaro con la propria mano, è naturalmente facile e
+
+dipende da sé: ma il fare queste azioni con un certo interiore
+
+le disposizioni né è facile né risiede interamente in sé stesso. E in
+
+Similmente, il conoscere ciò che è Giusto e ciò che è Ingiusto gli uomini non stimano gran cosa.
+
+esempio di saggezza perché non è difficile comprendere quelle cose di
+
+di cui parlano le leggi. Dimenticano che queste non sono azioni Giuste,
+
+eccetto accidentalmente: per essere Giuste devono essere fatte e distribuite in una
+
+certa maniera: e questo è un compito più difficile che sapere cosa
+
+Le cose sono sane; poiché in questo ramo del sapere è un facile.
+
+Importa conoscere il miele, il vino, l'elleboro, il cauterio, o l'uso del
+
+coltello, ma il sapere come si debbano amministrare queste in vista di
+
+salute, e a chi e in quale tempo, equivale in effetti a essere un
+
+fisico.
+
+Da questo medesimo errore suppongono anche che agire ingiustamente sia
+
+parimenti in potere dell'uomo Giusto, per l'uomo Giusto non meno, anzi
+
+anche più dell'Ingiusto, possa essere capace di compiere gli atti particolari; egli
+
+possa avere rapporti con una donna o colpire un uomo; o il.
+
+Coraggioso uomo, gettare via lo scudo e voltare le spalle e correre di qua.
+
+o quello. Vero: ma allora non è il semplice fare queste cose che
+
+costituisce atti di codardia o ingiustizia (eccetto accidentalmente), ma
+
+il farle con certe disposizioni interiori: così come non è il
+
+mero usare o non usare il coltello, somministrare o non somministrare
+
+certi farmaci, che costituisce trattamento medico o cura, ma facendo
+
+queste cose in un certo modo particolare.
+
+Ancora i principi astratti della Giustizia hanno la loro provincia tra
+
+coloro che sono partecipi di ciò che è astrattamente buono, e possono averne troppo.
+
+o troppo poco di queste. Ora vi sono esseri che non possono avere troppo
+
+molto di loro, come forse gli dèi; ve ne sono altri, ancora, a cui nessun
+
+particella di essi è utile, coloro che sono irrimediabilmente malvagi a cui tutto
+
+le cose sono dannose; altri a cui sono utili in una certa misura:
+
+Per questa ragione, dunque, la provincia della Giustizia è tra gli Uomini.
 
 <span class="atom-split" data-atom="074" data-title="Chapter XV." data-chapter="Chapter XV." data-kind="atom" data-srclang="en"></span>
 
@@ -7826,6 +15523,116 @@ the law: and this moral state is Equity, being a species of Justice,
 
 not a different moral state from Justice.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo in seguito parlare dell'Equità e dell'Equo, cioè di
+
+le relazioni dell'Equità alla Giustizia e dell'Equo al Giusto; poiché
+
+quando esaminiamo la questione i due non appaiono identici né ancora
+
+differenti per genere; e talvolta lodiamo l'equo e l'uomo
+
+che lo incarna nelle sue azioni, così che per via di lode noi comunemente
+
+Trasferire il termine anche ad altri atti invece del termine bene, così
+
+mostrando che quanto più una cosa è Equa tanto migliore è: ad altra
+
+Talvolta, seguendo un certo ordine di ragionamento, arriviamo a una difficoltà.
+
+In quanto l'equo, sebbene distinto dal giusto, è tuttavia
+
+lodevole; sembra seguirne che o il Giusto non è buono oppure
+
+l'equo non giusto, poiché per ipotesi sono differenti; o se
+
+Entrambi sono buoni allora sono identici.
+
+Questa è un'affermazione tollerabilmente giusta della difficoltà che su questi
+
+sorgono fondamenti in relazione all'Equo; ma, in effetti, tutti questi possono
+
+siano riconciliati e non implichino realmente alcuna contraddizione: poiché l'Equo è
+
+Giusto, essendo anche migliore di una forma di Giusto, ma non è migliore di
+
+il Giusto come se fosse differente da esso per genere: Giusto e
+
+L'Equo e il Giusto, quindi, sono identici, e, essendo entrambi buoni, l'Equo è
+
+il migliore dei due.
+
+Ciò che causa la difficoltà è questo; l'equo è giusto, ma non il
+
+Proprio quello che è conforme alla legge scritta, essendo in realtà un
+
+correzione di quel genere di Giusto. E la ragione di ciò è che ogni
+
+la legge è necessariamente universale mentre ci sono alcune cose che essa è
+
+Non è possibile parlarne rettamente in alcuna proposizione universale o generale.
+
+Dove allora vi è necessità di un'affermazione generale, mentre un generale
+
+L'affermazione non può applicarsi giustamente a tutti i casi, la legge prende il
+
+generalità dei casi, essendo pienamente consapevoli dell'errore così implicato; e
+
+giustamente anche nondimeno, perché la colpa non è nella legge, o in
+
+il legislatore, ma è inerente alla natura della cosa,
+
+perché la materia di ogni azione è necessariamente tale.
+
+Quando quindi la legge ha parlato in termini generali, e sorge un caso.
+
+di eccezione alla regola generale, è opportuno, in quanto il
+
+il legislatore omette il caso e a causa dell'universalità del suo enunciato
+
+è sbagliato, correggere l'omissione decretandola come il legislatore.
+
+egli stesso governerebbe se fosse ivi presente, e avrebbe provveduto con
+
+legge avesse egli previsto che il caso sarebbe sorto. E così l'Equo è Giusto.
+
+ma migliore di una forma di Giusto; non intendo il Giusto astratto ma
+
+l'errore che sorge dall'universalità dell'enunciato: e questo
+
+è la natura dell'Equo, “una correzione della Legge, dove la Legge è
+
+difettoso a causa della sua universalità.
+
+Questa è la ragione per cui non tutte le cose sono secondo la legge, perché
+
+ci sono cose intorno alle quali è semplicemente impossibile stabilire una legge,
+
+e così vogliamo leggi speciali per casi particolari. Per parlare
+
+Generalmente, la regola dell'indefinito deve essere anch'essa indefinita.
+
+proprio come la regola per misurare la costruzione lesbia è fatta di piombo: per questo
+
+La regola si sposta secondo la forma di ogni pietra e la speciale.
+
+emanazione secondo i fatti del caso in questione.
+
+È chiaro quindi ciò che è l'Equo; cioè che è Giusto ma
+
+migliore di una forma di Giusto: e quindi appare anche chi il
+
+L'uomo equo è: colui che ha la tendenza a scegliere e a portare a compimento.
+
+questi principi, e chi non è portato a far pressione con la lettera della legge su
+
+il lato peggiore ma contento di rinunciare alle sue rigorose pretese sebbene sostenuto da
+
+la legge: e questo stato morale è Equità, essendo una specie di Giustizia,
+
+non uno stato morale diverso dalla Giustizia.
+
 <span class="atom-split" data-atom="075" data-title="Chapter XVI." data-chapter="Chapter XVI." data-kind="atom" data-srclang="en"></span>
 
 The answer to the second of the two questions indicated above, “whether
@@ -7900,6 +15707,80 @@ After all, the general answer to the question is to allege what was
 
 settled respecting being Unjustly dealt with with one’s own consent.
 
+<span class="qlang-split" data-lang="it"></span>
+
+La risposta alla seconda delle due domande sopra indicate, “se
+
+"è possibile per un uomo fare ingiustizia a se stesso,” è evidente da"
+
+Ciò che è già stato affermato.
+
+In primo luogo, una classe di cose giuste è quella che è imposta da
+
+legge conforme alla Virtù nell'accezione più estesa del termine:
+
+per esempio, la legge non comanda a un uomo di uccidersi; e qualunque cosa essa
+
+non comanda, proibisce: ebbene, ogni volta che un uomo fa del male contro il
+
+legge (se non per via di contraccambio del danno), volontariamente, cioè sapendo di
+
+a cui egli lo fa e con che, agisce ingiustamente. Ora colui che dall’ira
+
+Uccide se stesso, volontariamente, lo fa in violazione della Retta Ragione,
+
+che la legge non permette. Egli quindi agisce ingiustamente: ma verso
+
+chi? verso la Comunità, non verso se stesso (perché soffre
+
+con il suo proprio consenso, e nessun uomo può essere ingiustamente trattato con il suo
+
+proprio consenso), e su questo principio la Comunità lo punisce; cioè
+
+Una certa infamia è attribuita al suicida come a colui che agisce Ingiustamente.
+
+Verso la Comunità.
+
+Inoltre, un uomo non può agire ingiustamente verso se stesso nel senso in cui un uomo
+
+È ingiusto chi compie solo atti ingiusti senza essere del tutto cattivo (per il
+
+due cose sono differenti, perché l'uomo ingiusto è in un certo senso cattivo, come
+
+il codardo è, non come se fosse accusabile di cattiveria nel
+
+piena estensione del termine, e così egli non agisce Ingiustamente in ciò
+
+senso), perché se così fosse allora sarebbe possibile per lo stesso
+
+cosa essere stata tolta e aggiunta alla stessa persona:
+
+ma questo non è realmente possibile, il Giusto e l'Ingiusto sempre
+
+implicando una pluralità di persone.
+
+Inoltre, un'azione ingiusta deve essere volontaria, fatta con deliberato proposito.
+
+e aggressivo (per l'uomo che ferisce perché ha prima sofferto e
+
+è meramente contraccambiare lo stesso non è ritenuto agire Ingiustamente), ma qui
+
+l'uomo fa a se stesso e subisce le stesse cose nello stesso tempo.
+
+Ancora, implicherebbe la possibilità di essere trattati Ingiustamente.
+
+il proprio consenso.
+
+E, oltre a tutto questo, un uomo non può agire ingiustamente senza il suo atto
+
+cadendo sotto qualche crimine particolare; ora un uomo non può sedurre la propria
+
+moglie, commettere un furto con scasso nei propri locali, o rubare la propria proprietà.
+
+Dopotutto, la risposta generale alla domanda è allegare ciò che era.
+
+Stabilito riguardo all'essere ingiustamente trattato col proprio consenso.
+
 <span class="atom-split" data-atom="076" data-title="Chapter XVII." data-chapter="Chapter XVII." data-kind="atom" data-srclang="en"></span>
 
 It is obvious, moreover, that being Unjustly dealt by and dealing
@@ -7958,7 +15839,65 @@ Let this then be accepted as an account of the distinctions which we
 
 recognise respecting Justice and the rest of the moral virtues.
 
-<span class="atom-split" data-atom="077" data-title="Chapter I. (6/10)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+È ovvio, inoltre, che l'essere ingiustamente trattati e il trattare
+
+Ingiustamente da altri sono entrambi offesi; perché l'uno ha meno, il
+
+l'altro avendo più del mezzo, e il caso è parallelo a quello di
+
+il sano nell'arte medica, e quello di buona condizione nell'arte.
+
+di addestramento: ma nondimeno il trattare ingiustamente da parte degli altri è il peggiore di
+
+i due, perché questo implica malvagità ed è biasimevole;
+
+malvagità, voglio dire, o interamente, o quasi (poiché non tutto ciò che è volontario
+
+il torto implica ingiustizia), ma l'essere trattato ingiustamente no.
+
+implicano malvagità o ingiustizia.
+
+In sé quindi, l'essere trattato ingiustamente è il minimo male, ma
+
+accidentalmente può essere il maggiore dei due mali. Tuttavia, scientifico
+
+l'enunciato non può tener conto di tali considerazioni; una pleurite, per esempio,
+
+è chiamato un male fisico maggiore di una contusione: e tuttavia quest'ultima può
+
+essere il maggiore accidentalmente; può [accadere](/concepts/fortune) che una contusione ricevuta in un
+
+La caduta può far sì che uno venga catturato dal nemico e ucciso.
+
+Inoltre: Giusto, per via di metafora e similitudine, vi può essere io faccio.
+
+non dire tra un uomo e sé stesso esattamente ma tra certe parti di
+
+la sua natura; ma non soltanto di ogni genere, solo quello che appartiene al
+
+relazione di [padrone e schiavo](/figures/master_and_slave), o a quella del capo di una famiglia. Poiché
+
+Per tutto questo trattato la parte razionale dell'Anima è stata considerata.
+
+come distinto dall'irrazionale.
+
+Ora, prendendo queste in considerazione, si ritiene che ci sia un
+
+possibilità di ingiustizia verso sé stesso, perché in ciò è
+
+possibile per gli uomini soffrire alquanto in contraddizione degli impulsi realmente
+
+proprie; e così si ritiene che vi sia un Giusto di un certo genere.
+
+tra queste parti mutuamente, come tra governante e governato.
+
+Si accetti dunque questo come resoconto delle distinzioni che noi
+
+riconoscere rispetto alla Giustizia e al resto delle virtù morali.
+
+<span class="atom-split" data-atom="077" data-title="Chapter I. (parte 6)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
 
 Having stated in a former part of this treatise that men should choose
 
@@ -8006,7 +15945,55 @@ should be expressly laid down what Right Reason is, and what is the
 
 definition of it.
 
-<span class="atom-split" data-atom="078" data-title="Chapter II. (6/11)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Avendo dichiarato in una precedente parte di questo trattato che gli uomini debbano scegliere
+
+il mezzo invece dell'eccesso o del difetto, e che il mezzo è
+
+secondo i dettami della Retta Ragione; ora procederemo a
+
+Non è stato fornito alcun passaggio in inglese da tradurre.
+
+Imperciocché in tutte le abitudini che abbiamo espressamente menzionate, come pure in
+
+tutti gli altri, c'è, per così dire, un individuo con il suo occhio fisso su
+
+che l'uomo che ha la Ragione tende o allenta la sua corda; e là
+
+è un certo limite di quegli stati medi che diciamo essere in accordo
+
+con la retta ragione, e giacere tra l'eccesso da un lato e il difetto da
+
+l'altro.
+
+Ora, parlare così è abbastanza vero, ma non trasmette alcun significato molto determinato:
+
+come, in effetti, in tutte le altre occupazioni che richiedono attenzione e diligenza su
+
+Tale abilità e scienza sono messe a frutto; è del tutto vero, naturalmente.
+
+dire che gli uomini non devono né [lavorare](/concepts/labour) né riposarsi troppo o troppo poco,
+
+ma con moderazione, e come la Retta Ragione dirige; tuttavia se questo fosse tutto un
+
+l'uomo, se avesse, non sarebbe molto più saggio; come, per esempio, se in
+
+risposta alla domanda, quali sono le applicazioni proprie al corpo, egli
+
+si dovesse dire, «Oh! naturalmente, qualunque sia la scienza della medicina, e
+
+In tal maniera come il medico, dirige.
+
+E così, per quanto riguarda gli stati mentali, è necessario non soltanto che
+
+ciò dovrebbe esser vero, il quale è già stato affermato, ma inoltre che esso
+
+dovrebbe essere espressamente stabilito che cosa sia la retta ragione, e quale sia il
+
+definizione di esso.
+
+<span class="atom-split" data-atom="078" data-title="Chapter II. (parte 6)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
 
 Now in our division of the Excellences of the Soul, we said there were
 
@@ -8144,7 +16131,145 @@ those states therefore are the Excellences of each in which each will
 
 best attain truth.
 
-<span class="atom-split" data-atom="079" data-title="Chapter III. (7/11)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora nella nostra divisione delle Eccellenze dell'Anima, dicemmo che ve n'erano.
+
+due classi, la Morale e l'Intellettuale: la prima abbiamo già
+
+passati in rassegna; e ora procederemo a parlare degli altri, premettendo
+
+Poche parole riguardanti l'Anima stessa. Fu detto prima, voi
+
+ricorda, che l'Anima consiste di due parti, la Razionale, e
+
+Irrazionale: dobbiamo ora fare una simile divisione del Razionale.
+
+Intendasi adunque che due sono le parti dell'Anima.
+
+dotati di Ragione; uno mediante cui realizziamo quelle esistenze di cui
+
+le cause non possono essere altrimenti da come sono, e una mediante la quale ci rendiamo conto.
+
+quelle che possono essere altrimenti da come sono, (poiché deve esserci,
+
+rispondenti a cose genericamente differenti, parti genericamente differenti.
+
+dell'anima naturalmente adattata a ciascuna, poiché queste parti dell'anima
+
+Possiedono la loro conoscenza in virtù di una certa somiglianza e
+
+convenienza in sé stessi agli oggetti di cui sono
+
+percipienti); e chiamiamo il primo, “ciò che è atto a
+
+"sapere,” quest'ultimo, “ciò che è atto a calcolare” (perché
+
+Il deliberare e il calcolare sono la stessa cosa, e nessuno delibera mai.
+
+intorno a cose che non possono essere altrimenti da come sono: e così il
+
+La volontà calcolativa sarà una parte della facoltà razionale dell'anima).
+
+Dobbiamo, quindi, scoprire quale sia il miglior stato di ciascuna di queste.
+
+perché quella sarà l'Eccellenza di ciascuno; e questa a sua volta è relativa.
+
+al lavoro che ciascuno deve fare.
+
+Vi sono nell'Anima tre funzioni da cui dipendono l'azione morale e
+
+verità; Senso, Intelletto, Appetizione, sia vago Desiderio o definito
+
+Volontà. Ora di queste il Senso non è causa originante di alcuna azione morale, ma non senza la volontà. Poiché non è il senso della cosa, ma la volontà del senso, che è la causa formale dell'azione morale. E questa volontà è o la volontà di senso, o la volontà di ragione. Ma la volontà di senso non è la causa formale dell'azione morale, ma la causa materiale; la causa formale è la volontà di ragione.
+
+come si vede dal fatto che i bruti hanno Senso ma non sono in alcun modo
+
+partecipi dell'azione morale.
+
+[Intellect and Will are thus connected,] ciò che nell'Intellettuale
+
+L'operazione è Affermazione e Negazione che nella Volontà è Perseguimento e
+
+Evitamento, e così, poiché la Virtù Morale è uno Stato atto a esercitare la Morale.
+
+La scelta e la scelta morale è volontà conseguente alla deliberazione, la Ragione.
+
+deve essere vera e la Volontà retta, per costituire una buona Scelta Morale, e
+
+Ciò che la Ragione afferma, la Volontà deve perseguire.
+
+Ora questa operazione intellettuale e questa Verità è ciò che concerne la Morale.
+
+Azione; naturalmente verità e falsità devono essere il bene e il male di
+
+quell'operazione intellettuale che è puramente speculativa, e concernente
+
+né con l'azione né con la produzione, perché questo è manifestamente l'opera.
+
+di ogni facoltà intellettiva, mentre della facoltà che è di una mista
+
+Natura pratica e intellettuale, l'opera è quella Verità che, come io
+
+Quanto ho descritto sopra corrisponde al retto movimento della Volontà.
+
+Ora il punto di partenza dell'azione morale è la Scelta Morale, (intendo, ciò che
+
+in realtà lo mette in movimento, non la [causa finale](/concepts/four_causes),) e di Morale
+
+Scelta, Appetizione e Ragione dirette a un certo risultato: e così
+
+La Scelta Morale non è indipendente dall'intelletto, cioè intellettuale.
+
+operazione, né di un certo stato morale: poiché l'azione giusta o sbagliata
+
+non può essere, indipendentemente dall'operazione dell'Intelletto, e morale
+
+carattere.
+
+Ma l'operazione dell'Intelletto da sé non muove nulla, solo quando
+
+diretta a un certo risultato, cioè esercitata nell'Azione Morale: (dico
+
+nulla del suo essere esercitato nella produzione, perché questa funzione è
+
+originata dal primo: poiché ognuno che fa, fa in vista di
+
+alquanto più oltre; e ciò che è o può essere fatto, non è un Fine in
+
+se stesso, ma solo relativamente a qualcos'altro, e appartenente a qualcosa
+
+uno: laddove ciò che è o può essere fatto è un Fine in sé stesso,
+
+perché agire bene è un Fine in sé stesso, e questo è l'oggetto del
+
+(Volontà,) e così la scelta morale è o l'intelletto posto in una posizione di
+
+Volizione, o Appetizione sottoposta a un Processo Intellettuale. E tale.
+
+Una Causa è l'Uomo.
+
+Ma nulla di ciò che è compiuto e passato può essere oggetto di Scelta Morale;
+
+per esempio, nessun uomo sceglie di aver saccheggiato Troia; perché, in effetti, no
+
+Mai si delibera intorno a ciò che è passato, ma solo intorno a ciò che è.
+
+futuro, e che quindi può essere influenzato, mentre ciò che è stato
+
+non può non essere stato: e così Agatone ha ragione nel dire
+
+Di questo solo è priva la Divinità.
+
+“Per fare che non sia fatto ciò che è stato fatto.”
+
+Così dunque la Verità è opera di entrambe le Parti Intellettuali dell'Anima;
+
+Quegli stati quindi sono le Eccellenze di ciascuno in cui ciascuno vuole.
+
+meglio conseguire la verità.
+
+<span class="atom-split" data-atom="079" data-title="Chapter III. (parte 7)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
 
 Commencing then from the point stated above we will now speak of these
 
@@ -8206,7 +16331,69 @@ be merely accidental.
 
 Let thus much be accepted as a definition of Knowledge.
 
-<span class="atom-split" data-atom="080" data-title="Chapter IV. (7/12)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Iniziando quindi dal punto sopra enunciato, di queste cose ora diremo.
+
+Ancora le eccellenze. Siano quelle facoltà mediante le quali l'Anima attinge la verità.
+
+in Affermazione o Negazione, si assuma essere in numero di cinque: cioè
+
+Arte, Conoscenza, [Saggezza pratica](/concepts/phronesis), Scienza, Intuizione: (Supposizione e
+
+Opinione non includo, perché per queste si può errare.
+
+Che cosa sia la Conoscenza è chiaro dal seguito delle considerazioni, se
+
+Si deve parlare con precisione, invece di lasciarsi trascinare dalle somiglianze.
+
+Poiché tutti concepiamo che ciò che propriamente parlando conosciamo, non può essere.
+
+diversamente da come è, perché quanto a quelle cose che possono essere altrimenti.
+
+di quanto sono, siamo incerti se siano o non siano, il momento
+
+Essi cessano di essere nella sfera della nostra osservazione attuale.
+
+Dunque, tutto ciò che rientra nell'ambito della Conoscenza è per necessità,
+
+e quindi eterno, (perché tutte le cose sono così le quali esistono
+
+necessariamente,) e tutte le cose eterne sono senza principio, e
+
+indistruttibile.
+
+Ancora, tutta la Conoscenza è ritenuta capace di essere insegnata, e ciò che
+
+viene nel suo raggio capace di essere appreso. E tutto l'insegnamento è
+
+basato su conoscenza precedente; (un'affermazione che troverai nel
+
+Gli Analitici anche, poiché vi sono due modi di insegnare, per Sillogismo.
+
+e da [Induzione](/positions/induction). Infatti. L'induzione è la fonte dell'universale
+
+proposizioni, e il Sillogismo ragiona a partire da questi [universali](/axes/universals).
+
+Il sillogismo dunque può ragionare da principi che non possono essere essi stessi.
+
+provato Sillogisticamente: e quindi deve per Induzione.
+
+Dunque la conoscenza è “uno stato o una facoltà mentale atta a dimostrare”.
+
+“sillogisticamente,” ecc. come negli Analitici: perché un uomo, strettamente
+
+e, propriamente parlando, sa, quando stabilisce la sua conclusione in un
+
+certo modo, e i principi gli sono noti: poiché se non lo sono
+
+più noto a lui della conclusione, tale conoscenza che egli ha sarà
+
+essere meramente accidentale.
+
+Si accetti tanto come definizione della Conoscenza.
+
+<span class="atom-split" data-atom="080" data-title="Chapter IV. (parte 7)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
 
 Matter which may exist otherwise than it actually does in any given
 
@@ -8264,7 +16451,65 @@ state conjoined with false Reason, and both are employed upon
 
 Contingent matter.
 
-<span class="atom-split" data-atom="081" data-title="Chapter V. (6/10)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Materia che può esistere altrimenti da come effettivamente esiste in qualsiasi dato
+
+caso (comunemente chiamato Contingente) è di due specie, quello che è il
+
+oggetto del Fare, e ciò che è oggetto dell'Agire; ora il Fare e
+
+Il fare e l'essere sono due cose diverse (come mostriamo nel trattato essoterico),
+
+e così quello stato d'animo, congiunto con la Ragione, che è atto a fare,
+
+è distinta da quella anche congiunta con la Ragione, che è atta a Fare:
+
+e per questa ragione non sono inclusi l'uno dall'altro, cioè,
+
+L'Agire non è il Fare, né il Fare è l'Agire. Ora come l'Architettura è
+
+un'Arte, ed è lo stesso che “un certo stato d'animo, congiunto con
+
+«La ragione, che è atta a fare», e poiché non v'è Arte che non sia tale.
+
+uno stato, né alcun tale stato che non sia un'Arte, Arte, nel suo stretto e
+
+Senso proprio, deve essere “uno stato d'animo, congiunto con la vera Ragione, atto
+
+Fare.
+
+Or tutta l’Arte concerne la produzione, e l’escogitazione, e il vedere come.
+
+qualunque di quelle cose può essere prodotta che possa o essere o non essere, e
+
+la cui origine risiede nell’artefice e non nella cosa
+
+Fatto.
+
+E, così né le cose che esistono o che vengono all'essere necessariamente, né
+
+le cose nel modo della natura, ricadono sotto la provincia dell'Arte, perché
+
+queste sono auto-originanti. E poiché Fare e Agire sono distinti,
+
+L'arte deve occuparsi del primo e non del secondo. E in un
+
+In un certo senso Arte e Fortuna riguardano le stesse cose, come,
+
+Agathon dice, tra l'altro,
+
+Arte Fortuna ama, e del suo amato è.
+
+Dunque l'Arte, come è stato detto, è “una certa disposizione d'animo, atta a Fare,”
+
+congiunto con la vera Ragione;” la sua assenza, al contrario, è lo stesso.
+
+stato congiunto con la falsa Ragione, ed entrambi sono impiegati sopra
+
+Materia contingente.
+
+<span class="atom-split" data-atom="081" data-title="Chapter V. (parte 6)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
 
 As for [Practical Wisdom](/concepts/phronesis), we shall ascertain its nature by examining to
 
@@ -8376,7 +16621,119 @@ conjoined with Reason, as is proved by the fact that such a state may
 
 be forgotten and so lost while Practical Wisdom cannot.
 
-<span class="atom-split" data-atom="082" data-title="Chapter VI. (6/11)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Quanto a [Saggezza pratica](/concepts/phronesis), ne accerteremo la natura esaminando a.
+
+a che sorta di persone noi nel linguaggio comune lo ascriviamo.
+
+Si ritiene quindi che sia proprio dell'uomo praticamente saggio essere.
+
+capace di deliberare bene rispetto a ciò che è buono ed utile per
+
+se stesso, non secondo una linea definita, come ciò che è favorevole alla salute.
+
+o forza, ma ciò che al vivere bene. Una prova di questo è che chiamiamo
+
+uomini saggi in questo o quello, quando calcolano bene in vista di qualche.
+
+buon fine in un caso in cui non c'è una regola definita. E così, in un
+
+In generale, l'uomo che è abile nella deliberazione sarà
+
+Praticamente saggio. Ora nessun uomo delibera riguardo a cose che non possono.
+
+Essere altrimenti da come sono, né tali che non giacciano entro la portata del suo
+
+propria azione: e così, poiché la Conoscenza richiede un dimostrativo rigoroso
+
+ragionamento, che la materia Contingente non ammette (dico Contingente
+
+importa, perché tutte le questioni di deliberazione devono essere Contingenti e
+
+la deliberazione non può avere luogo rispetto a cose che sono
+
+Necessariamente), la Saggezza Pratica non può essere Conoscenza né Arte; né la
+
+il primo, perché ciò che cade sotto la provincia dell'Agire deve essere
+
+Contingente; non quest'ultimo, perché l'agire e il fare sono differenti in
+
+genere.
+
+Resta allora che deve essere “uno stato d’animo vero, congiunto con
+
+Ragione, e atta a Fare, avendo per suo oggetto quelle cose che sono
+
+"buono o cattivo per l'Uomo:” a causa di Fare qualcosa oltre sé stesso è
+
+sempre l'oggetto, ma non può essere del Fare perché il ben fare stesso.
+
+è in sé un Fine.
+
+Per questa ragione noi reputiamo Pericle e gli uomini di quello stampo essere
+
+Praticamente saggi, perché vedono ciò che è bene per sé stessi e
+
+per gli uomini in generale, e riteniamo anche che tali siano coloro che sono abili.
+
+nella gestione domestica o nel governo civile. In effetti, questa è la ragione
+
+perché chiamiamo l'[abitudine](/concepts/custom) della perfezionata padronanza di sé con il nome che in
+
+Greco reca, etimologicamente significando “ciò che preserva il”
+
+Saggezza pratica:” poiché ciò che preserva è la Nozione che ho
+
+menzionato, cioè del proprio vero interesse.
+
+Chè non è ogni specie di Nozione quella la quale il piacevole e il doloroso
+
+corrompono e pervertono, come, per esempio, che “i tre angoli di ogni
+
+“triangolo rettilineo sono uguali a due angoli retti,” ma solo quelli
+
+attinenza all'azione morale.
+
+Poiché i Principi delle materie dell'azione morale sono la [causa finale](/concepts/four_causes)
+
+di loro: ora all'uomo che è stato corrotto per ragione di
+
+piacere o dolore il Principio immediatamente si oscura, né
+
+egli vede che è suo dovere scegliere e agire in ogni istanza con un
+
+in vista di questa causa finale e per cagione di essa: perciocché la viziosità ha una
+
+tendenza a distruggere il Principio morale: e così la Saggezza Pratica deve
+
+essere “uno stato congiunto con ragione, vero, avente per suo fine il bene umano”
+
+oggetto, e atto a fare.””
+
+D'altronde l'Arte ammette gradi di eccellenza, ma la Saggezza Pratica
+
+non: e nell'Arte colui che sbaglia di proposito è preferibile a
+
+colui che lo fa inconsapevolmente, ma non così rispetto alla Pratica
+
+Sapienza o le altre Virtù. È palesemente allora un'Eccellenza di un
+
+un certo genere, e non un'Arte.
+
+Ora, poiché vi sono due parti dell'Anima che hanno Ragione, è necessario.
+
+l'Eccellenza dell'Opinativo [che prima chiamammo calcolativo]
+
+o deliberativa], perché sia l'Opinione che la Saggezza Pratica sono
+
+Esercitato su materia contingente. E inoltre, non è semplicemente uno stato
+
+congiunto con la Ragione, come è provato dal fatto che un tale stato possa
+
+essere dimenticata e così persa mentre la Saggezza Pratica non può.
+
+<span class="atom-split" data-atom="082" data-title="Chapter VI. (parte 6)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
 
 Now Knowledge is a conception concerning [universals](/axes/universals) and Necessary
 
@@ -8412,7 +16769,43 @@ first; the last, namely Intuition, must be it which performs this
 
 function.
 
-<span class="atom-split" data-atom="083" data-title="Chapter VII. (6/10)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora la Conoscenza è una concezione riguardante gli [universali](/axes/universals) e il Necessario.
+
+materia, e vi sono naturalmente certi Primi Principi in ogni serie di ragionamenti
+
+del ragionamento dimostrativo (cioè di tutta la Conoscenza poiché questo è
+
+connessa col ragionamento): quella facoltà, dunque, che accoglie il primo
+
+principi di ciò che rientra nell'ambito della Conoscenza, non possono essere
+
+o Conoscenza, o Arte, o [Saggezza Pratica](/concepts/phronesis): non Conoscenza, perché
+
+Ciò che è l'oggetto della Conoscenza deve essere derivato da dimostrativo.
+
+ragionamento; nessuna delle altre due, perché esse sono esercitate su
+
+Solo materia contingente. Né può essere Scienza quella che comprende queste,
+
+perché l'Uomo Scientifico deve in alcuni casi dipendere dal dimostrativo
+
+I notice that no English source passage was included in your message. Please provide the text you'd like translated into Italian, and I'll translate it according to your specifications.
+
+Si giunge quindi a questo: poiché le facoltà mediante le quali sempre conseguiamo
+
+verità e non sono mai ingannati quando trattano con la materia Necessario o anche
+
+Contingenti sono la Conoscenza, la Saggezza Pratica, la Scienza, e l'Intuizione, e
+
+La facoltà che coglie i primi principi non può essere alcuna delle tre.
+
+first; the last, namely Intuition, must be it which performs this
+
+funzione.
+
+<span class="atom-split" data-atom="083" data-title="Chapter VII. (parte 6)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
 
 Science is a term we use principally in two meanings: in the first
 
@@ -8504,7 +16897,99 @@ very fine no doubt, but still useless because they do not seek after
 
 what is good for them as men.
 
-<span class="atom-split" data-atom="084" data-title="Chapter VIII. (6/11)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+La scienza è un termine che usiamo principalmente in due significati: nel primo
+
+Posto, nelle Arti lo ascriviamo a coloro che portano le loro arti al
+
+massima accuratezza; Fidia, per esempio, chiamiamo uno scientifico o
+
+scultore astuto; Policleto uno statuario Scientifico o astuto;
+
+intendendo, in questo caso, null'altro per Scienza che un'eccellenza.
+
+dell'arte: nell'altro senso, riteniamo alcuni essere scientifici in generale.
+
+modo, non in alcuna linea particolare o in alcuna cosa particolare, proprio come
+
+Omero dice di un uomo nel suo Margite; «Lui gli dèi non fecero né un
+
+zappatore della terra, né aratore, né in alcun altro modo Scientifico.
+
+Quindi è evidente che la Scienza deve significare la più accurata di tutte.
+
+Conoscenza; ma se è così, allora l'uomo scientifico non deve soltanto conoscere il
+
+deduzioni dai Primi Principi ma essere in possesso della verità
+
+per quanto riguarda i Primi Principi. Cosicché la Scienza deve essere equivalente a
+
+Intuizione e Conoscenza; è, per così dire, Conoscenza della più
+
+oggetti preziosi, con una testa sopra.
+
+Dico delle cose più preziose, perché è assurdo supporre
+
+πολιτικὴ, o [Saggezza Pratica](/concepts/phronesis), essere la più alta, a meno che non possa essere
+
+dimostrato che l'Uomo è il più eccellente di tutto ciò che esiste nel
+
+Universo. Ora, se "sano" e "buono" sono termini relativi, che differiscono
+
+quando applicato a uomini o a pesci, ma 'bianco' e 'dritto' sono la stessa cosa.
+
+sempre, gli uomini devono ammettere che lo Scientifico è lo stesso sempre, ma il
+
+La Saggezza Pratica varia: poiché qualunque cosa fornisce tutte le cose bene per
+
+se stessa, a questo essi applicherebbero il termine 'Praticamente Saggio', e si impegnano.
+
+queste questioni ad essa; che è la ragione, tra l'altro, per cui chiamano
+
+alcuni bruti Praticamente Saggi, tale che è come chiaramente hanno una facoltà di
+
+previdenza riguardo alla propria sussistenza.
+
+Ed è del tutto evidente che Scienza e πολιτικὴ non possono essere identiche:
+
+perché se gli uomini danno il nome di Scienza a quella facoltà che è
+
+impiegati in ciò che è loro espediente, ve ne saranno molti.
+
+invece di una, perché non è una sola e identica facoltà quella che viene impiegata.
+
+sul bene di tutti gli animali collettivamente, a meno che nello stesso senso in cui
+
+Si può dire che vi sia un'unica arte del guarire rispetto a tutti gli esseri viventi.
+
+esseri.
+
+Se si sostiene che l'uomo è superiore a tutti gli altri animali, ciò non fa
+
+differenza: poiché vi sono molte altre cose più simili a Dio nella loro
+
+natura che l'Uomo, come, nel modo più ovvio, gli elementi di cui l'Universo
+
+è composta.
+
+È chiaro quindi che la Scienza è l'unione di Conoscenza e Intuizione.
+
+e ha per oggetti quelle cose che sono più preziose nelle loro
+
+natura. Pertanto, Anassagora, Talete e uomini di quella risma, persone
+
+chiamare Scientifici, ma non Praticamente Saggi perché li vedono
+
+ignoranti di ciò che concerne loro stessi; e dicono che ciò che sanno
+
+è del tutto fuori del comune, certamente, e meraviglioso, e difficile, e
+
+molto belli senza dubbio, ma pur sempre inutili perché non cercano
+
+ciò che è bene per loro in quanto uomini.
+
+<span class="atom-split" data-atom="084" data-title="Chapter VIII. (parte 6)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
 
 But [Practical Wisdom](/concepts/phronesis) is employed upon human matters, and such as are
 
@@ -8672,7 +17157,175 @@ This however is Sense rather than Practical Wisdom, which is of another
 
 kind.
 
-<span class="atom-split" data-atom="085" data-title="Chapter IX. (6/9)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ma la [saggezza pratica](/concepts/phronesis) è impiegata nelle cose umane, e in quelle che sono.
+
+oggetti della deliberazione (poiché diciamo, che deliberare bene è la cosa più
+
+peculiarmente l'opera dell'uomo che possiede questa Saggezza), e nessun uomo
+
+delibera intorno a cose che non possono essere diversamente da come sono, né
+
+intorno a qualsivoglia cosa, salvo quelle che hanno qualche fine determinato e questo fine buono.
+
+derivante dall'Azione Morale; e l'uomo a cui dovremmo dare il
+
+nome di Buon Consiglio, semplicemente e senza modificazione, è colui che in
+
+La via del calcolo ha una capacità di raggiungere quella della pratica.
+
+beni che è il migliore per l'Uomo.
+
+Né d'altra parte la Saggezza Pratica consiste in una conoscenza del generale.
+
+principi soltanto, ma è necessario che si conosca anche il
+
+particolari, perché è atto ad agire, e l'azione è implicata.
+
+per la qual ragione talvolta uomini che non hanno molto
+
+Le conoscenze sono più pratiche di altri che hanno; tra gli altri, esse.
+
+che traggono tutto ciò che sanno dall'esperienza reale: supponiamo che un uomo sappia,
+
+per esempio, che le carni leggere sono di facile digestione e salutari, ma
+
+non quali tipi di carne siano leggeri, egli non produrrà uno stato sano;
+
+quell'uomo avrà una molto migliore [possibilità](/concepts/fortune) di far ciò, che sa che il
+
+la carne degli uccelli è leggera e salubre. Da allora la Saggezza Pratica è
+
+adatto ad agire, si dovrebbe avere entrambi i tipi di conoscenza, o, se solo una,
+
+la conoscenza dei dettagli piuttosto che dei Principi. Vi sarà in
+
+rispetto della Saggezza Pratica la distinzione di supremo e
+
+subordinato.
+
+Inoltre: πολιτικὴ e Saggezza pratica sono lo stesso stato mentale, ma
+
+Il punto di vista non è lo stesso.
+
+Della Saggezza Pratica esercitata su una comunità, ciò che io chiamerei
+
+il Supremo è la facoltà della Legislazione; la subordinata, che è
+
+concernente i dettagli, generalmente ha il nome comune πολιτικὴ, e
+
+le sue funzioni sono Azione e Deliberazione (per il particolare attuamento
+
+è una questione di azione, essendo l'esito ultimo di questo ramo di
+
+Saggezza pratica, e quindi la gente comunemente dice, che questi uomini
+
+soli sono veramente impegnati nel governo, perché essi soli agiscono, colmando
+
+lo stesso posto relativamente ai legislatori, che gli operai fanno a un
+
+I notice that the English passage to translate was not included in your message. The text ends with "master)." but the source passage itself is missing. Please provide the English text you'd like translated into Italian.
+
+Ancora, ciò è considerato saggezza pratica nel senso più proprio.
+
+che ha per oggetto l'interesse dell'Individuo: e questo
+
+Di solito si appropria del nome comune: gli altri sono chiamati
+
+Rispettivamente Amministrazione Domestica, Legislazione, Governo Esecutivo
+
+diviso in due rami, Deliberativo e Giudiziario. Ora di
+
+Certo, la conoscenza per sé è una specie di conoscenza, ma essa
+
+ammette molti gradi di differenza: ed è nozione comune che il
+
+uomo che sa e si occupa delle proprie faccende solamente è il
+
+uomo di Saggezza Pratica, mentre coloro i quali estendono la loro sollecitudine a
+
+la società in generale è considerata invadente.
+
+Euripide ha così incarnato questo sentimento; «Come», dice uno dei suoi
+
+“Come sono stolto io, che mentre avrei potuto spartire equamente,
+
+oziosamente annoverati tra la moltitudine dell'esercito *** per coloro che sono
+
+"affaccendati e impiccioni [Giove odia],” perché la generalità degli uomini
+
+cercare il proprio bene e ritenere che questo sia il loro compito proprio. È
+
+allora da questa opinione che la nozione è sorta che tali uomini sono i
+
+Praticamente-Saggio. E tuttavia è proprio possibile che il bene del
+
+L'individuo non può essere reso sicuro indipendentemente dal legame con una famiglia.
+
+o una comunità. E ancora, come un uomo dovrebbe gestire i propri affari è
+
+talvolta non del tutto chiaro, e deve essere fatto oggetto di indagine.
+
+Una corroborazione di quanto ho detto è il fatto, che il giovane
+
+divenire geometri, e matematici, e Scientifici in tali
+
+Importa, ma non si pensa che un giovane possa venire a essere.
+
+dotato di Saggezza Pratica: ora la ragione è che questa Saggezza ha
+
+ha per oggetto fatti particolari, che vengono a conoscersi da
+
+esperienza, che un giovane non ha perché è prodotta solo da
+
+Lunghezza di tempo.
+
+A proposito, una persona potrebbe anche domandare, perché un ragazzo possa essere fatto un
+
+matematico ma non Scientifico o filosofo naturale. Non è questo
+
+la ragione? che le matematiche sono assorbite dal processo di
+
+astrazione, ma i principi della Scienza e della filosofia naturale
+
+deve essere ottenuto con l'esperimento; e questi ultimi giovani ne parlano ma lo fanno
+
+non rendersi conto, mentre la natura del primo è semplice e chiara.
+
+Ancora, in materia di pratica, l’errore inerisce o al generale
+
+regola, nel processo di deliberazione, o al fatto particolare: poiché
+
+per esempio, questa sarebbe una regola generale, “Tutta l’acqua di una certa gravità
+
+è cattiva;” il fatto particolare, “quest’acqua è di quella gravità.”
+
+E che la Saggezza Pratica non sia Conoscenza è manifesto, poiché concerne
+
+con la questione ultima, come è stato detto, perché ogni oggetto di
+
+L'azione è di questa natura.
+
+All'Intuizione essa è opposta, poiché questa accoglie quei principi che
+
+non può essere dimostrato per mezzo del ragionamento, mentre la saggezza pratica si occupa di
+
+il fatto particolare ultimo che non può essere realizzato dalla Conoscenza ma
+
+per Senso; non intendo uno dei cinque sensi, ma quello stesso mediante cui
+
+noi comprendiamo il fatto matematico, che nessuna figura rettilinea può essere
+
+contenuto da meno di tre linee, cioè che un triangolo è il
+
+figura ultima, perché anche qui c'è un punto di arresto.
+
+Questo tuttavia è Senso piuttosto che Saggezza Pratica, che è di un'altra.
+
+genere.
+
+<span class="atom-split" data-atom="085" data-title="Chapter IX. (parte 6)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
 
 Now the acts of enquiring and deliberating differ, though deliberating
 
@@ -8774,7 +17427,109 @@ Wisdom, Good Counsel must be “Rightness in respect of what conduces to
 
 a given End, of which [Practical Wisdom](/concepts/phronesis) is the true conception.”
 
-<span class="atom-split" data-atom="086" data-title="Chapter X. (5/7)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora gli atti dell'indagare e del deliberare differiscono, sebbene il deliberare
+
+è una specie d'indagine. Dobbiamo accertare circa il Buon Consiglio.
+
+parimenti che cosa sia, se una specie di Conoscenza, o di Opinione, o di Felice
+
+Congettura, o qualche altra facoltà. Conoscenza, ovviamente, è.
+
+non, poiché gli uomini non indagano su ciò che sanno, e il Buon Consiglio
+
+è una specie di deliberazione, e l'uomo che delibera sta indagando.
+
+e calcolante.
+
+Né è Felice Congettura; perché questo è indipendente da
+
+ragionamento, e un'operazione rapida; ma gli uomini deliberano a lungo, e
+
+È un detto comune che si debba eseguire rapidamente ciò che è stato.
+
+Risolto in deliberazione, ma delibera lentamente.
+
+La percezione pronta delle cause, di nuovo, è una facoltà diversa dal bene.
+
+consiglio, poiché è una specie di Felice Congettura. Né è il Buon Consiglio
+
+Opinione di qualsiasi tipo.
+
+Ebbene, poiché colui che delibera male erra, e colui che
+
+chi delibera bene fa ciò rettamente, è chiaro che il Buon Consiglio è
+
+correttezza di qualche tipo, ma non della Conoscenza né dell'Opinione: poiché
+
+La conoscenza non può essere chiamata giusta perché non può essere sbagliata, e
+
+La rettitudine dell'Opinione è Verità: e di nuovo, tutto ciò che è l'oggetto di
+
+L'opinione è nettamente distinta.
+
+Pur tuttavia, il Buon Consiglio non è indipendente dalla Ragione, non è vero?
+
+Resta quindi che essa è una rettitudine dell'operazione intellettuale semplicemente,
+
+perché ciò non equivale a un'affermazione; e l'obiezione a
+
+L'opinione era che non è un processo di indagine ma già un definito.
+
+asserzione; mentre chiunque delibera, bene o male che sia, è
+
+Impegnati nell'indagine e nel calcolo.
+
+Ebbene, il Buon Consiglio è una rettitudine della deliberazione, e così la prima
+
+La questione deve riguardare la natura e gli oggetti della deliberazione. Ora
+
+Ricorda che la giustezza è un termine equivoco; noi chiaramente non intendiamo
+
+Rettitudine di qualsiasi genere; l'ἀκρατὴς, per esempio, o il cattivo
+
+uomo, otterrà col suo calcolo ciò che si propone come un
+
+Obietta, e così si può dire che abbia deliberato rettamente in uno.
+
+senso, ma avrà conseguito un grande male. Mentre aver deliberato
+
+Il bene è ritenuto un bene, perché il Buon Consiglio è Rettitudine di
+
+Una deliberazione di tal natura da essere atta a conseguire il bene.
+
+Ma anche questo di nuovo potete ottenere con un ragionamento falso, e incappare nel
+
+effetto giusto sebbene non attraverso giusti mezzi, essendo il tuo termine medio
+
+fallace: e così nemmeno questo sarà ancora Buon Consiglio in conseguenza
+
+di cui ottieni ciò che ti spetta ma non attraverso mezzi propri.
+
+Di nuovo, un uomo può imbattersi in una cosa dopo lunga deliberazione, un altro
+
+rapidamente. E così che quello sopra descritto non sarà ancora Buon Consiglio, ma
+
+la Giustezza deve essere con riferimento a ciò che è opportuno; e tu devi
+
+Abbi in vista un giusto fine, perseguilo nella maniera giusta e nel tempo giusto.
+
+Ancora una volta. Si può deliberare bene o in generale o verso qualcosa.
+
+Fine particolare. Il buon consiglio in generale allora è quello che va.
+
+diritto verso ciò che è il Fine in un modo generale di considerazione;
+
+in particolare, ciò che lo fa verso qualche Fine particolare.
+
+Poiché adunque il ben deliberare è una qualità degli uomini dotati di Pratica.
+
+Sapienza, Buon Consiglio devono essere “Rettitudine in ordine a ciò che conduce a
+
+un dato Fine, di cui [Saggezza Pratica](/concepts/phronesis) è la vera concezione.
+
+<span class="atom-split" data-atom="086" data-title="Chapter X. (parte 5)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
 
 There is too the faculty of Judiciousness, and also its absence, in
 
@@ -8838,7 +17593,71 @@ having a capacity of making equitable decisions, By “right” I mean that
 
 of the Truthful man.
 
-<span class="atom-split" data-atom="087" data-title="Chapter XI. (5/7)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+C'è anche la facoltà della Giudiziosità, e anche la sua assenza, in
+
+In virtù della quale chiamiamo gli uomini Giudiziosi o il contrario.
+
+Ora la Giudiziosità non è né interamente identica alla Conoscenza o
+
+Opinione (perché allora tutto sarebbe stato Giudizioso), né è alcuna
+
+scienza specifica, come la scienza medica il cui oggetto materiale sono le cose.
+
+sano; o geometria il cui oggetto è la grandezza: poiché non ha
+
+per suo oggetto cose che sempre esistono e sono immutabili, né di
+
+quelle cose che vengono all'essere così come può [accadere](/concepts/fortune); ma quelle
+
+in relazione al quale un uomo potrebbe dubitare e deliberare.
+
+E così ha la stessa materia oggettuale della [Saggezza pratica](/concepts/phronesis); tuttavia i due
+
+le facoltà non sono identiche, perché la Saggezza Pratica ha la capacità
+
+per comandare e prendere l'iniziativa, poiché il suo Fine è “ciò che uno
+
+dovrebbe fare o non fare:” ma la Giudiziosità è solo atta a decidere su
+
+suggerimenti (sebbene in greco effettivamente poniamo “bene” sulla facoltà e la sua
+
+sostantivo concreto, questi significano realmente esattamente la stessa cosa delle parole semplici),
+
+e la giudiziosità non è né l’avere la saggezza pratica, né il conseguirla.
+
+ma così come l'apprendimento è denominato συνιέναι quando un uomo usa il suo
+
+conoscenza, così la giudiziosità consiste nell'impiegare l'Opinativo
+
+facoltà nel giudicare intorno a quelle cose che cadono sotto la
+
+provincia della Saggezza Pratica, quando un altro le enuncia; e non
+
+giudicare meramente, ma giudicare bene (poiché εὐ e καλῶς significano esattamente il
+
+stessa cosa). E il nome greco di questa facoltà è derivato dall’uso.
+
+del termine συνιέναι nell'apprendimento: μανθάνειν e συνιέναι essendo spesso
+
+usato come sinonimo.
+
+La facoltà chiamata γνώμη, in diritto della quale chiamiamo gli uomini εὐγνώμονες,
+
+o dicano che hanno γνώμη, è “il retto giudizio dell’uomo equo.” A
+
+prova ne è che per lo più diciamo che l'uomo equo ha
+
+una tendenza a fare concessioni, e il fare concessioni in certi casi
+
+è equo. E συγγνώμη (la parola che denota indulgenza) è retta γνώμη
+
+avendo una capacità di prendere decisioni eque, con “giusto” intendo che
+
+dell'uomo veritiero.
+
+<span class="atom-split" data-atom="087" data-title="Chapter XI. (parte 5)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
 
 Now all these mental states tend to the same object, as indeed
 
@@ -8912,7 +17731,81 @@ which are based on strict reasoning, because they see aright, having
 
 gained their power of moral vision from experience.
 
-<span class="atom-split" data-atom="088" data-title="Chapter XII. (3/6)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Or tutti questi stati mentali tendono allo stesso oggetto, come infatti
+
+Il linguaggio comune ci porta ad aspettarci: voglio dire, parliamo di γνώμη,
+
+Giudiziosità, [Saggezza pratica](/concepts/phronesis), e Intuizione pratica, attribuendo
+
+il possesso di γνώμη e dell'Intuizione Pratica ai medesimi Individui
+
+che noi denominiamo Praticamente-Saggi e Giudiziosi: perché tutti questi
+
+Le facoltà sono impiegate sugli estremi, cioè sui particolari.
+
+dettagli; e in ragione della sua attitudine a decidere sulle questioni che
+
+Rientrando nella provincia del Praticamente-Saggio, un uomo è Giudizioso.
+
+e dotato di buona γνώμη; cioè è disposto a usare indulgenza, per
+
+Considerazioni di equità sono intrattenute da tutti gli uomini dabbene parimenti in
+
+transazioni con i loro simili.
+
+E tutte le questioni dell'Azione Morale appartengono alla classe dei particolari,
+
+altrimenti chiamati estremi: poiché l’uomo di Saggezza Pratica deve conoscere
+
+Essi, e la Giudiziosità e la γνώμη, riguardano questioni di Morale.
+
+Azioni, che sono estremi.
+
+L'intuizione, inoltre, coglie gli estremi in entrambe le direzioni: voglio dire,
+
+i primi e gli ultimi termini devono essere colti non con il ragionamento ma con
+
+Intuizione [cosicché l'Intuizione venga ad essere di due specie], e ciò che
+
+appartiene ai ragionamenti dimostrativi rigorosi comprende l'immutabile, cioè
+
+Necessari, primi termini; mentre ciò che è impiegato nel pratico.
+
+le questioni assume nell'estremo, il Contingente, e il minore
+
+Premessa: imperciocché le premesse minori sono la fonte della [Causa Finale](/concepts/four_causes),
+
+[Universali](/axes/universals) essendo composti da Particolari. Per comprendere questi, di
+
+Naturalmente, dobbiamo avere il Senso, cioè, in altre parole, Intuizione Pratica.
+
+E per questa ragione si ritiene che questi siano semplicemente doni di natura; e
+
+mentre nessun uomo è ritenuto Scientifico per natura, gli uomini sono ritenuti
+
+avere γνώμη, e Giudiziosità, e Intuizione pratica: una prova di
+
+il che è che pensiamo che queste facoltà siano una conseguenza anche di
+
+età particolari, e questa data età ha Intuizione Pratica e γνώμη,
+
+diciamo, come se sotto la nozione che la natura sia la causa. E così
+
+L'intuizione è insieme l'inizio e la fine, poiché le dimostrazioni sono basate
+
+sull'un genere di estremi e concernere l'altro.
+
+E così si dovrebbe prestare attenzione ai detti e alle opinioni indimostrabili
+
+degli abili, dei vecchi e dei Praticamente-Saggi, non meno che a quelli
+
+che si fondano su un ragionamento rigoroso, perché vedono rettamente, avendo
+
+Trassero il loro potere di visione morale dall'esperienza.
+
+<span class="atom-split" data-atom="088" data-title="Chapter XII. (parte 3)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en"></span>
 
 Well, we have now stated the nature and objects of [Practical Wisdom](/concepts/phronesis) and
 
@@ -9172,7 +18065,267 @@ these things which conduce to the End.
 
 Then again, it is not Master of Science (i.e. of the superior part of
 
-<span class="atom-split" data-atom="089" data-title="Chapter XII. (4/6)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Bene, abbiamo ora esposto la natura e gli oggetti della [Saggezza Pratica](/concepts/phronesis) e
+
+Scienza rispettivamente, e che esse appartengono ciascuna a una parte diversa di
+
+l'Anima. Ma posso concepire una persona che metta in dubbio la sua [utilità](/positions/utility_pleasure).
+
+«La scienza», soleva dire, «non si occupa di nessuna delle cause di
+
+la felicità umana (poiché non ha nulla a che fare con il produrre alcunché):
+
+La Saggezza Pratica ha questa raccomandazione, lo concedo, ma dov'è il
+
+bisogno di essa, poiché la sua provincia è quelle cose che sono giuste e
+
+onesto, e buono per l'uomo, e queste sono le cose che il buono
+
+l'uomo come tale fa; ma noi non siamo affatto più inclini a farle perché
+
+Noi le conosciamo, poiché le Virtù Morali sono Abitudini; così come noi non siamo
+
+più inclini a essere sani o in buona condizione dalla mera conoscenza di ciò che
+
+si riferisce a questi (intendo, naturalmente, le cose così chiamate non da
+
+il loro produrre salute, ecc., ma dal loro evidenziarlo in un
+
+particolare soggetto), poiché non siamo più atti a essere sani e in buona
+
+condizione meramente dal conoscere l'arte della medicina o della formazione.
+
+Se si obiettasse che il conoscere ciò che è bene non di per sé faccia un
+
+Uomo praticamente-saggio ma divenendo buono; tuttavia questa Sapienza non sarà
+
+usare l'uno o l'altro verso coloro che sono buoni, e così averlo già, o verso coloro
+
+che non lo hanno; perché non farà loro alcuna differenza se
+
+lo hanno essi stessi o si pongono sotto la guida di altri.
+
+che hanno; e potremmo essere contenti di essere a questo riguardo come in
+
+rispetto della salute: poiché, sebbene desideriamo essere sani, tuttavia non ci proponiamo
+
+sull'apprendimento dell'arte di guarire.
+
+Inoltre, sembrerebbe strano che, sebbene più basso nel
+
+scala che Scienza, deve esserne il padrone; cosa che è, perché
+
+"ciò che produce risultati prende la regola e dirige in ogni materia."
+
+Questo è dunque ciò di cui dobbiamo trattare, poiché questi sono i soli punti.
+
+ora sollevato.
+
+Ora, in primo luogo, diciamo che essendo rispettivamente Eccellenze di parti differenti.
+
+Dell'Anima essi devono essere degni di scelta, anche nell'ipotesi che
+
+Essi non producono risultati, né l'uno né l'altro.
+
+In secondo luogo diciamo che essi producono effettivamente risultati; che la Scienza
+
+fa la Felicità, non come l'arte medica ma come la sanità fa
+
+salute: perché, essendo una parte della Virtù nella sua più estesa
+
+senso, rende felice un uomo essendo posseduto e lavorando.
+
+Poi, l’opera dell’uomo in quanto uomo è compiuta in virtù della saggezza pratica.
+
+e la Virtù Morale, quest'ultima dando il giusto fine e la direzione, il
+
+il primo è il giusto mezzo per il suo conseguimento; ma della quarta parte di
+
+l'Anima, il mero principio nutritivo, non v'è tale Eccellenza,
+
+perché nulla è in suo potere di fare o di lasciare non fatto.
+
+Quanto al nostro non essere più inclini a fare ciò che è nobile e giusto per cagione di
+
+possedendo la Saggezza pratica, dobbiamo cominciare un poco più su,
+
+prendendo questo come nostro punto di partenza. Come diciamo che gli uomini possono fare cose in
+
+giusti essi stessi e tuttavia non essere uomini giusti; per esempio, quando gli uomini fanno ciò che
+
+le leggi esigono da loro, o contro la loro volontà, o per ragione di
+
+ignoranza o qualcos'altro, in ogni caso non per amor del
+
+le cose stesse; eppure fanno ciò che devono e tutto ciò che il
+
+Ciò che un buon uomo dovrebbe fare; così sembra che per essere un buon uomo si debba fare ciascuna cosa.
+
+agire in un particolare stato d'animo, intendo da Scelta Morale e per il
+
+per amore delle cose stesse che vengono fatte. Ora è la Virtù che
+
+rende giusta la Scelta Morale, ma qualunque cosa sia naturalmente richiesta per
+
+sostenere che la Scelta ricade nella sfera non della Virtù ma di una
+
+Diversa facoltà. Dobbiamo fermarci, per così dire, un poco, e parlare ancora.
+
+chiaramente su questi punti.
+
+Vi è dunque una certa facoltà, comunemente chiamata Acume, di tale.
+
+natura da poter fare e conseguire qualunque cosa conduca a qualsiasi dato.
+
+scopo: ora se quello scopo sia buono, la facoltà è lodevole;
+
+Se altrimenti, va sotto un nome che, denotando strettamente l'abilità,
+
+implica la disponibilità a fare qualsiasi cosa; di conseguenza chiamiamo il
+
+Praticamente-saggio scaltro, e anche coloro che possono e vogliono fare.
+
+Mi sembra che manchi il testo inglese da tradurre. Potresti fornire il brano che desideri venga tradotto in italiano?
+
+Ora la Saggezza pratica non è identica all'Intelligenza, né lo è
+
+senza questo potere di adattare i mezzi ai fini: ma questo Occhio dell'Anima
+
+(come possiamo chiamarlo) non consegue il suo stato proprio senza la bontà,
+
+come abbiamo detto in precedenza e come è del tutto evidente, perché i sillogismi
+
+in cui l'Azione Morale può essere analizzata hanno per loro Maggiore
+
+Premessa, “poiché —— è il Fine e il Sommo Bene” (riempi il
+
+spazio vuoto con qualsiasi cosa tu voglia, poiché vogliamo semplicemente esporre il
+
+Forma, cosicché qualsiasi cosa vada bene), ma come questo spazio vuoto dovrebbe essere riempito
+
+È veduto solo dall'uomo buono: perché il Vizio distorce la visione morale.
+
+e induce gli uomini in errore riguardo ai principi pratici.
+
+È chiaro, quindi, che un uomo non può essere un Praticamente-Saggio,
+
+senza essere un buon, uomo.
+
+Dobbiamo indagare di nuovo anche sulla virtù: poiché essa può essere divisa in.
+
+La Virtù Naturale e la Maturata, le quali due stanno tra loro in relazione.
+
+simile a quella che la saggezza pratica ha rispetto alla scaltrezza, una non di
+
+identità ma somiglianza. Parlo della Virtù Naturale, perché gli uomini ritengono
+
+che ciascuna delle disposizioni morali inerisce a noi tutti in qualche modo per natura:
+
+abbiamo disposizioni verso la giustizia, la padronanza di sé e il coraggio, poiché
+
+esempio, immediatamente dalla nostra nascita: ma ancora cerchiamo la Bontà nella sua
+
+senso più alto come qualcosa di distinto da questi, e che questi
+
+Le disposizioni dovrebbero attaccarsi a noi in maniera alquanto diversa.
+
+I bambini e le bestie hanno questi stati naturali, ma allora sono
+
+palesemente dannoso a meno che non sia combinato con un elemento intellettuale: almeno
+
+Tanto è materia di effettiva esperienza e osservazione, che come un
+
+Un corpo robusto privo della vista deve, se messo in moto, cadere violentemente.
+
+perché non ha vista, così è anche nel caso che stiamo considerando:
+
+ma se può ottenere l'elemento intellettuale, allora eccelle nell'agire.
+
+Così lo Stato Naturale della Virtù, essendo come questo corpo forte, vorrà
+
+allora sia la Virtù nel senso più alto quando anch'essa è combinata con il
+
+elemento intellettuale.
+
+Così che, come nel caso della facoltà opinativa, ve ne sono due.
+
+forme, Scaltrezza e Saggezza Pratica; così anche nel caso del
+
+Morali ve ne sono due, Virtù Naturale e Matura; e di queste la
+
+Quest'ultima non può essere formata senza saggezza pratica.
+
+Questo porta alcuni a dire che tutte le Virtù sono meramente intellettuali.
+
+Saggezza pratica, e [Socrate](/figures/socrates) aveva in parte ragione nella sua indagine e
+
+In parte sbagliato: sbagliato in quanto pensava che tutte le Virtù fossero meramente
+
+Saggezza Pratica intellettuale, giusto nel dire che non lo erano.
+
+indipendente da quella facoltà.
+
+Una prova di ciò è che ora tutti, nel definire la Virtù, aggiungono la
+
+“stato” [menzionando anche a quale standard si riferisce, cioè
+
+quello] “che è conforme alla Retta Ragione:” ora “retto” significa in
+
+conformità con la Saggezza Pratica. Così allora tutti sembrano avere un
+
+nozione istintiva che quello stato che è in conformità con
+
+La Saggezza pratica è Virtù; tuttavia, dobbiamo apportare un lieve cambiamento in
+
+la loro affermazione, perché quello stato è Virtù, non semplicemente quella che è in
+
+conformità con ma che implica il possesso della retta ragione;
+
+che, su tali questioni, è Saggezza Pratica. La differenza tra
+
+noi e Socrate è questo: egli pensava che le Virtù fossero ragionamento
+
+processi (cioè che erano tutte istanze della Conoscenza nella sua
+
+(senso stretto), ma diciamo che implicano il possesso della Ragione.
+
+Da quanto è stato detto quindi è chiaro che non si può essere, strettamente
+
+parlando, buono senza Saggezza Pratica né Praticamente-Saggio senza
+
+bontà morale.
+
+E con la distinzione tra Virtù Naturale e Virtù Matura si può incontrare
+
+il ragionamento per cui si potrebbe sostenere “che le Virtù sono
+
+separabile perché lo stesso uomo non è per natura il più incline a tutto a
+
+una volta così che egli avrà acquisito questo prima di avere quell’altro:
+
+Risponderemmo che ciò è possibile rispetto al Naturale.
+
+Virtù ma non rispetto a quelle delle quali un uomo è in diritto.
+
+denominate semplicemente buone: perché apparterranno tutte insieme a lui.
+
+con l'unica facoltà della Sapienza Pratica.
+
+È anche chiaro che, anche se non fosse stato atto ad agire, avremmo dovuto.
+
+ne aveva bisogno, perché è l'Eccellenza di una parte dell'Anima; e che
+
+la scelta morale non può essere giusta indipendentemente dalla Saggezza Pratica e
+
+Bontà morale; perché questa dà il giusto Fine, quella causa il fare.
+
+queste cose che conducono al Fine.
+
+D'altronde, non è Master of Science (cioè della parte superiore di
+
+<span class="atom-split" data-atom="089" data-title="Chapter XII. (parte 4)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en"></span>
 
 the Soul), just as neither is the healing art Master of health; for it
 
@@ -9322,7 +18475,157 @@ fallacy may be constructed: since he who knows, is to be simply and
 
 absolutely infallible.
 
-<span class="atom-split" data-atom="090" data-title="Chapter I. (7/10)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+l'Anima), così come nemmeno l'arte medica è padrona della salute; poiché essa
+
+non ne fa uso, ma guarda come possa venire ad essere: così
+
+Comanda per il gusto di farlo, ma non lo comanda.
+
+L'obiezione è, infatti, pressappoco tanto valida quanto se un uomo dicesse
+
+πολιτικὴ governa gli dèi perché dà ordini riguardo a tutte le cose in
+
+la comunità.
+
+APPENDICE
+
+Sopra ἐπισπήμη, da I. Post. Analyt. cap. i. e ii.
+
+(Sono tradotte soltanto quelle parti che gettano luce sull'Etica.)
+
+Ogni insegnamento, e ogni apprendimento intellettuale, procede sulla base di
+
+conoscenza precedente, come apparirà da un esame di tutto. Il
+
+Le scienze matematiche, ed ogni altro sistema, traggono le loro conclusioni
+
+in questo [metodo](/axes/method). Così pure dei ragionamenti, sia per sillogismo, o
+
+[induzione](/positions/induction): poiché entrambi insegnano attraverso ciò che è precedentemente noto, la prima.
+
+assumendo le premesse come da uomini saggi, questi ultimi provando [universali](/axes/universals)
+
+Dall'evidenza dei particolari. Parimenti anche.
+
+I retori persuadono, o attraverso esempi (il che equivale a
+
+induzione), o attraverso entimemi (che equivale al sillogismo).
+
+ CAP. II
+
+Bene, supponiamo di conoscere le cose (nel senso stretto e proprio
+
+della parola) quando supponiamo di conoscere la causa per ragione di
+
+di cui la cosa deve essere la causa; e che ciò non può essere
+
+Altrimenti. È evidente che l’idea che si intendeva comunicare dal
+
+termine conoscere è qualcosa di questo genere; perché coloro che non
+
+realmente sanno si suppongono così legati alla questione in esame e
+
+Coloro che sanno davvero sono veramente tali che di checchessia vi è propriamente.
+
+parlando Conoscenza questo non può essere altrimenti da come è che sia o no
+
+c'è un altro modo di conoscere, diremo dopo, ma lo diciamo.
+
+che conosciamo per dimostrazione, con cui intendo un sillogismo atto a
+
+produrre Conoscenza, cioè in virtù della quale attraverso l'averla, conosciamo.
+
+Se la Conoscenza, allora, è tale quale l'abbiamo descritta, la Conoscenza
+
+prodotto dal ragionamento dimostrativo deve essere tratto da premesse vere
+
+e primo, e incapace di prova sillogistica, e più noto,
+
+e priore nell'ordine del tempo, e cause della conclusione, poiché così
+
+i principi saranno affini alla conclusione dimostrata.
+
+(Sillogismo, naturalmente può essercene senza tali premesse, ma sarà
+
+non essere dimostrazione perché non produrrà conoscenza
+
+Vero, esse devono essere, perché è impossibile conoscere ciò che è.
+
+I notice you've provided translation instructions but no source text to translate. Please send the English passage you'd like me to translate into Italian.
+
+In primo luogo, ciò è indimostrabile, perché, se dimostrabile, egli non può essere.
+
+detti conoscerli chi non ha dimostrazione di essi per conoscere tali cose.
+
+Le cose che sono dimostrabili è lo stesso che averne dimostrazione.
+
+Cause esse debbono essere, e più note, e anteriori nel tempo,
+
+cause, perché allora sappiamo quando siamo a conoscenza della causa,
+
+e anteriore, se le cause, e conosciute prima, non semplicemente comprese.
+
+in idea ma noto per esistere (I termini «anteriore» e «meglio noto» hanno due
+
+sensi per priore per natura e priore relativamente a noi stessi sono
+
+non le stesse, né più note per natura, e più note a noi I
+
+intendo, per anteriore e più noto relativamente a noi, tali
+
+cose che sono più vicine alla sensazione, ma astrattamente così quali sono
+
+Quelle sono le più lontane le quali sono le più universali, quelle più vicine le quali.
+
+sono particolari, e questi sono reciprocamente opposti.)
+
+E con "primo" intendo principi affini alla conclusione, poiché
+
+principio significa lo stesso che primo E il principio o primo passo in
+
+La dimostrazione è una proposizione incapace di prova sillogistica, cioè
+
+uno al quale non ve n'è alcuno precedente. Ora di tali principi sillogistici io
+
+chiama quella una θέσις che non puoi dimostrare, e che è
+
+Non necessario al fine di imparare qualcos'altro. Ciò che è.
+
+Il necessario per apprendere qualcos'altro è un Assioma.
+
+Inoltre, poiché si deve credere e conoscere la cosa avendo un
+
+sillogismo del genere chiamato dimostrazione, e ciò che lo costituisce a
+
+Ma tale è la natura delle premesse, è necessario non soltanto a
+
+sapere prima, ma sapere meglio della conclusione, o tutto o
+
+almeno alcuni dei principi, perché ciò che è la causa di un
+
+la qualità inerente in qualcos'altro sempre inerisce se stessa più come il
+
+la causa del nostro amare è essa stessa più amabile. Dunque, poiché i principi
+
+sono la causa del nostro conoscere e dell'essere necessario che le conosciamo e crediamo.
+
+Di più, perché a cagione di essi conosciamo anche la conclusione che segue.
+
+Inoltre: l'uomo che deve avere la Conoscenza che viene attraverso
+
+La dimostrazione non deve meramente conoscere e credere meglio i suoi principi.
+
+di quanto egli non creda alla sua conclusione, ma egli non deve credere nulla più fermamente.
+
+che le contraddittorie di quei principi da cui il contrario
+
+una fallacia può essere costruita: poiché colui che sa, deve essere semplicemente e
+
+assolutamente infallibile.
+
+<span class="atom-split" data-atom="090" data-title="Chapter I. (parte 7)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
 
 Next we must take a different point to start from, and observe that
 
@@ -9394,17 +18697,101 @@ solved, and such theories as are most approved are left as a residuum.
 
 The chief points may be thus enumerated. It is thought,
 
+<span class="qlang-split" data-lang="it"></span>
+
+In seguito dobbiamo prendere un differente punto da cui partire, e osservare che
+
+Di ciò che è da evitare rispetto al carattere morale, ve ne sono tre.
+
+forme; Vizio, Autocontrollo Imperfetto e Brutalità. Delle due prime
+
+È chiaro quali siano i contrari, poiché chiamiamo l'uno Virtù, l'
+
+altra Continenza; e come rispondente alla Brutalità sarà la più
+
+adatto ad attribuire la Virtù Sovrumana, cioè eroica e divina, come, in
+
+Omero, Priamo dice di Ettore «che egli era eccellentissimo, né era
+
+come la prole di un uomo mortale, ma di un dio." e così, se, come è
+
+Comunemente detto, gli uomini sono elevati alla posizione degli dèi per ragione dello stesso.
+
+Somma eccellenza nella Virtù, [lo stato](/concepts/state) opposto alla volontà Brutale.
+
+Essere manifestamente di questa natura: perché come i bruti non sono virtuosi o
+
+viziosi, così nemmeno sono gli dèi; ma lo stato di questi è qualcosa di più
+
+prezioso che Virtù, del primo qualcosa di diverso per genere da
+
+Vizio.
+
+E come, da un lato, è cosa rara che un uomo sia simile a un dio (un
+
+termine che i Lacedemoni sogliono usare quando ammirano un uomo
+
+eccessivamente; σεῖος ἀνὴρ lo chiamano), così l'uomo bestiale è raro;
+
+Il carattere si trova soprattutto tra i barbari, e alcuni casi di esso sono
+
+causato da malattia o mutilazione; anche tali uomini che eccedono in vizio tutti
+
+Le misure ordinarie designamo pertanto con questo termine infamante.
+
+Bene, dobbiamo in un luogo successivo farne qualche menzione.
+
+disposizione, e del Vizio si è parlato prima: per il presente noi
+
+Bisogna parlare dell'Imperfetto Autocontrollo e dei suoi affini difetti di Mollezza.
+
+e il Lusso, da un lato, e dell'Autocontrollo e della Resistenza dall'altro
+
+altro; poiché dobbiamo concepirli, non come i medesimi stati
+
+esattamente come Virtù e Vizio rispettivamente, né ancora come differenti in
+
+genere.
+
+E dovremmo adottare lo stesso corso di prima, cioè esporre il
+
+fenomeni, e, dopo aver sollevato e discusso difficoltà che suggeriscono
+
+esse stesse, poi esporre, se possibile, tutte le opinioni correnti.
+
+rispetto a queste affezioni del carattere morale; o, se non tutte, il
+
+La parte maggiore e la più importante: poiché possiamo considerare che abbiamo
+
+Illustrata la questione sufficientemente quando le difficoltà sono state
+
+risolto, e quelle teorie che sono più approvate restano come residuo.
+
+I punti principali possono essere così enumerati. Si ritiene,
+
 <span class="atom-split" data-atom="091" data-title="I. That Self-Control and Endurance belong to the class of things good" data-chapter="I. That Self-Control and Endurance belong to the class of things good" data-kind="atom" data-srclang="en"></span>
 
 and praiseworthy, while Imperfect Self-Control and Softness belong to
 
 that of things low and blameworthy.
 
+<span class="qlang-split" data-lang="it"></span>
+
+e lodevole, mentre l'imperfetto autocontrollo e la morbidezza appartengono a
+
+quella di cose basse e biasimevoli.
+
 <span class="atom-split" data-atom="092" data-title="II. That the man of Self-Control is identical with the man who is apt" data-chapter="II. That the man of Self-Control is identical with the man who is apt" data-kind="atom" data-srclang="en"></span>
 
 to abide by his resolution, and the man of Imperfect Self-Control with
 
 him who is apt to depart from his resolution.
+
+<span class="qlang-split" data-lang="it"></span>
+
+attenersi alla sua risoluzione, e l'uomo di Autocontrollo Imperfetto con
+
+colui che è incline a discostarsi dalla sua risoluzione.
 
 <span class="atom-split" data-atom="093" data-title="III. That the man of Imperfect Self-Control does things at the" data-chapter="III. That the man of Imperfect Self-Control does things at the" data-kind="atom" data-srclang="en"></span>
 
@@ -9414,11 +18801,25 @@ Self-Control, knowing his lusts to be wrong, refuses, by the influence
 
 of reason, to follow their suggestions.
 
+<span class="qlang-split" data-lang="it"></span>
+
+istigazione delle sue passioni, pur sapendo che sono sbagliate, mentre l'uomo di
+
+Il Dominio di Sé, conoscendo i suoi desideri essere sbagliati, rifiuta, per l'influenza
+
+della ragione, di seguire i loro suggerimenti.
+
 <span class="atom-split" data-atom="094" data-title="IV. That the man of Perfected Self-Mastery unites the qualities of" data-chapter="IV. That the man of Perfected Self-Mastery unites the qualities of" data-kind="atom" data-srclang="en"></span>
 
 Self-Control and Endurance, and some say that every one who unites
 
 these is a man of Perfect Self-Mastery, others do not.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Autocontrollo e sopportazione, e alcuni dicono che chiunque unisce
+
+Questo è un uomo di Perfetto Dominio di Sé, altri non lo sono.
 
 <span class="atom-split" data-atom="095" data-title="V. Some confound the two characters of the man who has no" data-chapter="V. Some confound the two characters of the man who has no" data-kind="atom" data-srclang="en"></span>
 
@@ -9426,11 +18827,23 @@ Self-Control, and the man of Imperfect Self-Control, while others
 
 distinguish between them.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Autocontrollo, e l'uomo di imperfetto autocontrollo, mentre altri
+
+distinguere tra loro.
+
 <span class="atom-split" data-atom="096" data-title="VI. It is sometimes said that the man of Practical Wisdom cannot be a" data-chapter="VI. It is sometimes said that the man of Practical Wisdom cannot be a" data-kind="atom" data-srclang="en"></span>
 
 man of Imperfect Self-Control, sometimes that men who are Practically
 
 Wise and Clever are of Imperfect Self-Control.
+
+<span class="qlang-split" data-lang="it"></span>
+
+uomo di Imperfetto Autocontrollo, a volte che gli uomini che sono Praticamente
+
+Il Saggio e l'Accorto sono di Imperfetto Autocontrollo.
 
 <span class="atom-split" data-atom="097" data-title="VII. Again, men are said to be of Imperfect Self-Control, not simply" data-chapter="VII. Again, men are said to be of Imperfect Self-Control, not simply" data-kind="atom" data-srclang="en"></span>
 
@@ -9440,7 +18853,15 @@ honour, and gain.
 
 These then are pretty well the common statements.
 
-<span class="atom-split" data-atom="098" data-title="Chapter II. (7/11)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+ma con l'aggiunta di ciò in cui, come rispetto all'[ira](/concepts/anger), di
+
+onore, e guadagno.
+
+Queste, dunque, sono pressappoco le affermazioni comuni.
+
+<span class="atom-split" data-atom="098" data-title="Chapter II. (parte 7)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
 
 Now a man may raise a question as to the nature of the right conception
 
@@ -9606,7 +19027,173 @@ established; because the solving of a difficulty is a positive act of
 
 establishing something as true.
 
-<span class="atom-split" data-atom="099" data-title="Chapter III. (8/11)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora un uomo può sollevare una questione circa la natura della retta concezione.
+
+in violazione della quale un uomo viene meno al proprio Autocontrollo.
+
+Che egli possa così fallire, conoscendo in senso stretto ciò che è giusto.
+
+Alcuni dicono essere impossibile: ché è cosa strana, come [Socrate](/figures/socrates) pensava,
+
+che mentre la Conoscenza è presente nella sua mente qualcos'altro dovrebbe
+
+Dominarlo e trascinarlo qua e là come uno schiavo. Socrate infatti sosteneva.
+
+generalmente contrario alla teoria, sostenendo che non esiste uno stato quale
+
+quella dell'Autocontrollo Imperfetto, poiché nessuno agisce contrariamente a ciò che
+
+È meglio concepire che sia il meglio, ma per ignoranza di ciò che è.
+
+migliore.
+
+Con tutto il rispetto per Socrate, il suo resoconto della questione è a
+
+discordanza con i fatti palesi, e dobbiamo indagare rispetto al
+
+affetto, se sia causato dall'ignoranza qual è la natura del
+
+Ignoranza: poiché l'uomo che così manca non suppone i suoi atti essere
+
+Subito prima che egli sia sotto l’influenza della passione è del tutto evidente.
+
+Ci sono persone che in parte concordano con Socrate e in parte no: ciò
+
+Concordano che nulla possa essere più forte della Conoscenza, ma che nessun uomo agisce.
+
+in contravvenzione alla sua convinzione di ciò che è meglio, essi non concordano;
+
+e così dicono che non è Conoscenza, ma solo Opinione, che la
+
+L'uomo in questione ha e nondimeno cede all'istigazione dei suoi piaceri.
+
+Ma allora, se è Opinione e non Conoscenza, quello è ciò che si oppone.
+
+la concezione non sia forte ma solo lieve (come nel caso del dubbio reale),
+
+il non attenersi ad essa a fronte di forti brame sarebbe scusabile:
+
+Ma la malvagità non è scusabile, né alcuna cosa che meriti biasimo.
+
+Dunque, è [Saggezza pratica](/concepts/phronesis) che in questo caso offre opposizione:
+
+perché quello è il principio più forte? La supposizione è assurda, perché noi
+
+avrà lo stesso uomo che unisce la Saggezza Pratica e l'Imperfetto.
+
+Autocontrollo, e sicuramente nessuna singola persona sosterrebbe che lo sia
+
+Conforme al carattere della Saggezza Pratica è fare volontariamente.
+
+ciò che è veramente sbagliato; e inoltre abbiamo dimostrato prima che il segno stesso
+
+di un uomo di questo carattere è l'attitudine ad agire, come distinta da
+
+mera conoscenza di ciò che è giusto; perché egli è un uomo versato in
+
+particolari dettagli, e in possesso di tutte le altre virtù.
+
+Di nuovo, se l'avere forti e cattive passioni è necessario all'idea di
+
+l'uomo dell'Autocontrollo, questo carattere non può essere identico al
+
+uomo di Perfetta Padronanza di Sé, perché l'avere desideri forti o cattivi
+
+Uno non entra nell'idea di quest'ultimo carattere: e tuttavia il
+
+l'uomo di Autocontrollo deve avere tali: perché supponiamoli buoni; allora il
+
+stato morale che dovrebbe impedire a un uomo di seguire i loro suggerimenti.
+
+deve essere cattiva, e così il Dominio di Sé non sarebbe in tutti i casi buono:
+
+Supponete, d'altra parte, che essi siano deboli e non abbiano torto, sarebbe
+
+nulla di grandioso; né nulla di grande, supponendoli sbagliati e deboli.
+
+Inoltre, se l'Autocontrollo rende un uomo atto ad attenersi a tutte le opinioni senza
+
+eccezione, può essere cattiva, come si supponga il caso di una falsa opinione: e
+
+Se l'Imperfetto Autocontrollo rende un uomo atto a dipartirsi da tutto il di fuori
+
+eccezione, avremo casi in cui sarà buono; prendete quello di
+
+Neottolemo nel Filottete di Sofocle, per esempio: egli è da essere.
+
+lodato per non essersi attenuto a ciò a cui fu persuaso da Ulisse, perché
+
+Egli si doleva di essere colpevole di falsità.
+
+Oppure ancora, il falso ragionamento sofistico presenta una difficoltà: poiché
+
+perché gli uomini desiderano dimostrare paradossi affinché siano reputati intelligenti
+
+quando riescono, il ragionamento che è stato usato diventa un
+
+difficoltà: ché l'intelletto è incatenato; essendo un uomo riluttante a
+
+attenersi alla conclusione perché non soddisfa il suo giudizio, ma
+
+Impossibilitato ad avanzare perché non riesce a districare la rete di argomentazioni sofistiche.
+
+I notice you've asked me to translate an English passage into Italian, but you haven't provided the passage itself. Could you please share the English text you'd like me to translate?
+
+O ancora, è concepibile su questa supposizione che la follia unita a
+
+L'imperfetto autocontrollo può rivelarsi, in un dato caso, bontà: poiché per
+
+a causa della sua imperfezione di autocontrollo un uomo agisce in un modo che
+
+contraddice le sue nozioni; ora la sua nozione è che ciò che è veramente buono è
+
+male e non dovrebbe essere fatto; e così egli finirà per fare ciò che è buono
+
+e non ciò che è male.
+
+Ancora, sulla stessa supposizione, l'uomo che agisce per convinzione
+
+persegue e sceglie le cose perché sono piacevoli deve essere ritenuto un
+
+migliore uomo di colui che fa ciò non per ragione di un quasi-razionale
+
+convinzione ma di Imperfetto Autocontrollo: perché egli è più aperto a
+
+Cura per ragione della possibilità del suo ricevere un contrario.
+
+convinzione. Ma all'uomo d'Imperfetto Autocontrollo si applicherebbe il
+
+proverbio, «quando l’acqua soffoca, che deve bere un uomo allora?» ché avesse
+
+non è mai stato affatto convinto rispetto a ciò che fa, poi da un
+
+una convinzione in direzione contraria egli avrebbe potuto fermarsi nel suo corso;
+
+Ma ora, quantunque abbia avuto convinzioni, nondimeno agisce contro.
+
+loro.
+
+Di nuovo, se qualsivoglia e ogni cosa è materia oggettuale dell'Imperfetto e
+
+L'Autocontrollo Perfetto, chi è semplicemente l'uomo dell'Autocontrollo Imperfetto?
+
+perché nessuno unisce tutti i casi di essa, e comunemente diciamo che alcuni
+
+Gli uomini sono così semplicemente, non aggiungendo alcuna cosa particolare in cui essi sono.
+
+so.
+
+Ebbene, le difficoltà sollevate sono pressappoco tali quali le ho descritte.
+
+esse, e di queste teorie dobbiamo rimuoverne alcune e lasciarne altre come
+
+stabilito; perché la soluzione di una difficoltà è un atto positivo di
+
+stabilire qualcosa come vero.
+
+<span class="atom-split" data-atom="099" data-title="Chapter III. (parte 8)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
 
 Now we must examine first whether men of Imperfect Self-Control act
 
@@ -9842,7 +19429,243 @@ in which such failure is possible or not, though a man possesses
 
 Knowledge.
 
-<span class="atom-split" data-atom="100" data-title="Chapter IV. (8/12)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora dobbiamo esaminare in primo luogo se gli uomini di imperfetto autocontrollo agiscono
+
+con una conoscenza di ciò che è giusto o no: poi, se con tale conoscenza,
+
+in che senso; e poi che cosa dobbiamo supporre che sia l'oggetto di
+
+l'uomo dell'autocontrollo imperfetto, e dell'uomo dell'autocontrollo; io
+
+intendo, se piacere e dolore di ogni genere o certi determinati;
+
+e quanto all'Autocontrollo e alla Sopportazione, se questi sono designazioni di
+
+lo stesso carattere o diverso. E similmente dobbiamo indagare in tutto.
+
+questioni che sono connesse con il presente.
+
+Ma il vero punto di partenza dell'indagine è se i due
+
+I caratteri dell'autocontrollo e dell'autocontrollo imperfetto si distinguono.
+
+per la loro materia oggettuale, o per le loro rispettive relazioni ad essa. Intendo,
+
+se l'uomo di Imperfetto Autocontrollo è tale semplicemente in virtù di
+
+avendo tale e tale materia oggettuale; o no, ma in virtù del suo essere
+
+in relazione ad esso in un tale e tale modo, o in virtù di entrambi: in seguito,
+
+se la continenza e l'incontinenza sono illimitate nel loro
+
+oggetto-materia: perché colui che è designato senza alcuna aggiunta un uomo
+
+dell'Imperfetto Autocontrollo non è illimitato nella sua materia oggettuale, ma
+
+ha esattamente lo stesso dell'uomo che ha perso tutto l'Autocontrollo: né è
+
+egli così designato per la sua relazione a questa materia-oggettuale meramente
+
+(perché allora il suo carattere sarebbe identico a quello appena menzionato,
+
+perdita di ogni Autocontrollo), ma perché il suo rapporto con esso è tale
+
+e simili. Poiché l’uomo che ha perduto ogni dominio di sé è condotto avanti con
+
+scelta morale deliberata, ritenendo che sia sua linea perseguire il piacere
+
+come sorge: mentre l'uomo dall'Imperfetto Autocontrollo non pensa.
+
+che egli dovrebbe perseguirlo, ma lo persegue nondimeno.
+
+Ora quanto alla nozione che sia Opinione Vera e non Conoscenza in
+
+contravvenzione della quale gli uomini falliscono nell'Autocontrollo, non fa differenza
+
+al punto in questione, perché alcuni di coloro che tengono Opinioni hanno
+
+Nessun dubbio su di esse, ma suppongono di avere una Conoscenza accurata;
+
+se allora si adduce che gli uomini aventi Opinioni saranno più propensi di
+
+uomini che hanno Conoscenza di agire in contravenzione delle loro concezioni, come
+
+non avendo che una moderata credenza in essi; rispondiamo, la Conoscenza non vorrà
+
+differiscono sotto questo rispetto dall'Opinione: perché alcuni uomini credono la propria
+
+Opinioni non meno fermamente di quanto altri facciano la loro Conoscenza positiva:
+
+Eraclito è un caso esemplare.
+
+Piuttosto quanto segue è il resoconto di ciò: il termine conoscere ha due
+
+sensi; tanto l'uomo che non usa la sua Conoscenza, quanto colui che la usa,
+
+sono detti sapere: vi sarà una differenza tra l'agire di un uomo
+
+erroneamente, chi pur essendo in possesso della Conoscenza non la chiama in
+
+operazione, e il suo farlo da parte di colui che la possiede e la esercita effettivamente: il
+
+Quest'ultimo è un caso strano, ma il mero possedere, se non l'esercitare,
+
+Non presenta alcuna anomalia.
+
+Ancora, essendovi due specie di proposizioni concernenti l'azione,
+
+universale e particolare, non c'è ragione per cui un uomo non possa agire
+
+contro la sua Conoscenza, avendo entrambe le proposizioni nella sua mente, usando il
+
+universale ma non il particolare, poiché i particolari sono gli oggetti
+
+dell'azione morale.
+
+C'è una differenza anche nelle proposizioni universali; un universale
+
+Una proposizione può riferirsi in parte al sé di un uomo e in parte alla cosa.
+
+Prendi il seguente per esempio; “il cibo secco è buono per
+
+“ogni uomo,” questo può avere le due premesse minori, “questo è un uomo,” e
+
+«tale e tale è cibo secco;» ma se una data sostanza è tale e tale a
+
+l'uomo o non ha la Conoscenza o non la esercita. Secondo
+
+questi diversi sensi ci sarà un'immensa differenza, così che per
+
+Che un uomo conosca in quel senso, e nondimeno agisca male, sarebbe nulla.
+
+strano, ma in ciascuno degli altri sensi sarebbe una questione per
+
+Meraviglia.
+
+Ancora, gli uomini possono avere Conoscenza in un modo diverso da qualunque di quelli.
+
+che sono state ora esposte: imperocché vediamo costantemente lo stato di un uomo così
+
+differendo per avere e non usare la Conoscenza, che egli la possiede in un certo senso
+
+e anche non ha; quando un uomo è addormentato, per esempio, o pazzo, o ubriaco:
+
+e bene, gli uomini sotto l'effettiva operazione della passione si trovano esattamente nella medesima condizione.
+
+condizioni; poiché [ira](/concepts/anger), lussuria, e alcune altre cose simili,
+
+manifestamente apportano cambiamenti anche nel corpo, e in alcuni addirittura causano
+
+follia; è chiaro allora che dobbiamo dire gli uomini dell'Imperfetto
+
+Self-Control sono in uno stato simile a questi.
+
+E il loro dire ciò che incarna la Conoscenza non è prova del loro effettivamente.
+
+poi esercitandola, perché coloro che sono sotto l'operazione di questi
+
+passioni ripetono dimostrazioni; o versi di Empedocle, proprio come
+
+bambini, quando cominciano a imparare, infilano parole, ma ancora sanno.
+
+nulla del loro significato, perché devono crescere in esso, e questo è un
+
+processo che richiede tempo: cosicché dobbiamo supporre che questi uomini che falliscono in
+
+Autocontrollo per dire questi detti morali proprio come fanno gli attori.
+
+Inoltre, un uomo può considerare la descrizione del fenomeno nel
+
+seguente modo, da un esame dell'effettivo funzionamento della mente:
+
+Ogni azione può essere analizzata in un sillogismo, in cui l'una premessa.
+
+è una massima universale e l'altro concerne particolari di cui il Senso
+
+[morale o fisico, a seconda dei casi] è consapevole: ora quando uno
+
+Risultati da questi due, ne consegue necessariamente che, per quanto riguarda la teoria
+
+deve la mente affermare la conclusione, e nelle proposizioni pratiche
+
+L'uomo deve agire di conseguenza.
+
+Per esempio, sia l’universale: «Tutto ciò che è dolce dovrebbe essere
+
+assaggiato,” il particolare, “Questo è dolce;” ne segue necessariamente che
+
+Colui che può e non è impedito non dovrebbe soltanto trarre, ma mettere.
+
+pratica, la conclusione “Questo è da assaggiare.” Quando poi vi è in
+
+la mente l'una proposizione universale che proibisce di gustare, e l'altra
+
+“Tutto ciò che è dolce è piacevole” con la sua minore “Questo è dolce” (che
+
+è quella che funziona davvero), e il desiderio capita di essere nell'uomo, il
+
+Il primo universale gli comanda di evitare questo, ma il desiderio lo conduce avanti verso
+
+gusto; poiché ha il potere di muovere i vari organi: e così esso
+
+risultati che egli fallisce nell’Autocontrollo, in un certo senso sotto il
+
+influenza della Ragione e dell'Opinione non contraria in sé stessa alla Ragione ma
+
+solo accidentalmente; perché è il desiderio che è contrario a
+
+Retta Ragione, ma non l'Opinione: e così per questa ragione i bruti sono
+
+non annoverati tra l'Imperfetto Autocontrollo, perché non hanno il potere di
+
+concepire [universali](/axes/universals) ma solo di ricevere e ritenere particolare
+
+impressioni.
+
+Quanto al modo in cui l'ignoranza viene rimossa e l'uomo di
+
+L'Autocontrollo Imperfetto recupera la sua Conoscenza, il racconto è lo stesso.
+
+come rispetto a colui che è ubriaco o addormentato, e non è peculiare a
+
+questo affetto, così i fisiologi sono le persone giuste a cui rivolgersi.
+
+Ma mentre la premessa minore di ogni sillogismo pratico è un
+
+opinione su materia cognoscibile per mezzo del Senso e determina le azioni; egli
+
+chi è sotto l'influenza della passione o non lo possiede affatto, o lo possiede in tal modo
+
+che il suo avere non equivale a sapere, ma semplicemente a dire, come un
+
+l'uomo ubriaco potrebbe ripetere i versi di Empedocle; e perché il minore
+
+Il termine non è né universale, né si pensa che abbia il potere di
+
+producendo Conoscenza al modo istesso del termine universale: e così il
+
+risultato che [Socrate](/figures/socrates) cercava viene fuori, vale a dire, il
+
+l'affezione non ha luogo alla presenza di ciò che è pensato.
+
+essere specialmente e propriamente Conoscenza, né questo è trascinato qua e là da
+
+ragione dell'affezione, ma alla presenza di quella Conoscenza che è
+
+trasmesso dal Senso.
+
+Si accetti dunque questo resoconto della questione riguardante il
+
+fallimento nell'Autocontrollo, se sia con la Conoscenza, e il modo
+
+in cui tale fallimento è possibile o no, sebbene un uomo possieda
+
+Conoscenza.
+
+<span class="atom-split" data-atom="100" data-title="Chapter IV. (parte 8)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
 
 The next question to be discussed is whether there is a character to be
 
@@ -10022,7 +19845,187 @@ which reason, with an addition, we designate a man of Imperfect
 
 Self-Control in respect of anger, as of honour or of gain.
 
-<span class="atom-split" data-atom="101" data-title="Chapter V. (7/10)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+La prossima questione da discutere è se vi sia un carattere da essere.
+
+Designato dal termine “di Imperfetto Autocontrollo” semplicemente, o se
+
+tutti coloro che sono tali debbono essere reputati tali, rispetto a qualche particolare.
+
+cosa; e, se esiste un tale carattere, qual è la sua materia oggettuale.
+
+Ora che i piaceri e i dolori sono l'oggetto-materia degli uomini di
+
+Autocontrollo e di Resistenza, e anche di uomini di Imperfetto
+
+Autocontrollo e Dolcezza, è chiaro.
+
+Inoltre, le cose che producono piacere sono o necessarie, o oggetti.
+
+di scelta in sé ma pur ammettendo eccesso. Tutte le cose corporee
+
+che producono piacere sono necessarie; e chiamo tali quelle che
+
+riguardano il cibo e altri appetiti più grossolani, in breve tali corporei.
+
+le cose che supponevamo essere la materia-oggetto dell'assenza di Autocontrollo.
+
+e della Perfetta Padronanza di Sé.
+
+L'altra classe di oggetti non sono necessari, ma oggetti di scelta in
+
+stessi: intendo, per esempio, vittoria, onore, ricchezza, e
+
+cose buone o piacevoli di tal genere. E coloro che sono eccessivi nel loro
+
+il piacere per tali cose contrario al principio della retta ragione che
+
+è nei loro propri petti non designiamo uomini di Imperfetto
+
+Autocontrollo semplicemente, ma con l'aggiunta della cosa in cui, come in
+
+rispetto del denaro, o del guadagno, o dell'onore, o dell'[ira](/concepts/anger), e non semplicemente; perché
+
+li consideriamo come caratteri diversi e aventi soltanto quel titolo in
+
+diritto di una sorta di rassomiglianza (come quando aggiungiamo al nome di un uomo)
+
+“conquistatore nei giochi olimpici” il racconto di lui come uomo differisce ma
+
+poco dal racconto di lui come l'Uomo che conquistò nell'Olimpico
+
+giochi, ma è comunque differente). E una prova della differenza reale
+
+tra questi così designati con un'aggiunta e quelli semplicemente così chiamati
+
+è questo, che l'Imperfetto Autocontrollo è biasimato, non meramente come un errore.
+
+ma anche come un vizio, o interamente o in parte; ma nessuna di queste
+
+altri casi è così biasimato.
+
+Ma di quelli che hanno per oggetto i godimenti corporei,
+
+che diciamo essere anche la materia oggettuale dell'uomo del Perfezionato.
+
+Padronanza di sé e l'uomo che ha perduto ogni autocontrollo, colui che persegue.
+
+I piaceri eccessivi e il troppo evitano le cose dolorose.
+
+come la fame e la sete, il caldo e il freddo, e tutto ciò che è connesso con
+
+(tatto e gusto), non per scelta morale ma nonostante la sua morale
+
+scelta e convinzione intellettuale, è definito “un uomo di Imperfetto
+
+"Autocontrollo", non con l'aggiunta di alcuna particolare materia-oggetto come.
+
+facciamo rispetto alla mancanza di controllo dell'ira ma semplicemente.
+
+E una prova che il termine sia così applicato è che il termine affine
+
+“Soft” è usato rispetto a questi godimenti ma non rispetto ad alcuno.
+
+di quegli altri. E per questa ragione poniamo nello stesso rango l'uomo
+
+dell'Imperfetto Autocontrollo, l'uomo che l'ha perduto interamente, l'uomo
+
+chi lo possiede, e l'uomo della Perfetta Padronanza di Sé; ma non alcuno di quelli
+
+altri personaggi, perché i primi hanno per loro oggetto-materia il
+
+gli stessi piaceri e gli stessi dolori: ma sebbene abbiano la stessa materia oggettuale,
+
+non sono ad esso legati nello stesso modo, ma due di essi agiscono su
+
+scelta morale, due senza di essa. E così dovremmo dire che l'uomo è di più
+
+interamente abbandonato alle sue passioni, che persegue piaceri eccessivi, e
+
+evita i dolori moderati, essendo o non affatto, o almeno ben poco, affetto
+
+spinto dal desiderio, che l'uomo che lo fa perché il suo desiderio è molto
+
+forte: perché pensiamo che cosa il primo farebbe probabilmente se egli
+
+aveva lo stimolo aggiuntivo della brama giovanile e del dolore violento.
+
+conseguente alla mancanza di quei piaceri che abbiamo denominato
+
+Necessario?
+
+Ebbene, poiché dei desideri e dei piaceri ve ne sono alcuni che sono in
+
+gentile, onorevole e buono (perché le cose piacevoli sono divisibili, come noi
+
+come detto prima, in quelli che sono naturalmente oggetti di scelta, quali sono
+
+naturalmente oggetti di evitamento, e tali che sono in sé.
+
+indifferenti, denaro, guadagno, onore, vittoria, per esempio); in riguardo a
+
+tutte le cose di tal genere e quelle che sono indifferenti, gli uomini sono biasimati non soltanto
+
+per essere affetti da loro o desiderarli o gradirli, ma per eccellere in
+
+in qualsiasi modo in questi sentimenti.
+
+E così sono biasimati, coloro i quali, nonostante la Ragione, sono dominati da,
+
+cioè perseguire, qualsiasi oggetto, sebbene per natura nobile e buono; essi,
+
+ad esempio, coloro che sono più seri di quanto non dovrebbero essere rispetto a
+
+onore, o i loro figli o genitori; non però che queste non sieno buone
+
+Gli oggetti e gli uomini sono lodati per essere seri riguardo ad essi: ma nondimeno
+
+Ammettono l'eccesso; per esempio, se qualcuno, come fece Niobe, dovesse
+
+combattere anche contro gli dèi, o provare verso suo padre come Satyrus, che
+
+ne ricevette il soprannome di φιλοπάτωρ, perché si pensava che fosse
+
+Molto sciocco.
+
+Or non v'è alcuna depravità in riguardo a queste cose, per la ragione.
+
+assegnato sopra, che ciascuno di essi in sé è una cosa per natura.
+
+degni di scelta, eppure gli eccessi nei loro riguardi sono sbagliati e contano.
+
+per il biasimo: e similmente non vi è Imperfetto Autocontrollo rispetto a
+
+di queste cose; essendo ciò non semplicemente una cosa che dovrebbe essere evitata.
+
+ma biasimevole.
+
+Ma a cagione della somiglianza dell'affezione alla Imperfezione di
+
+Autocontrollo il termine è usato con l'aggiunta in ciascun caso del
+
+particolare materia oggettuale, proprio come gli uomini chiamano un uomo un cattivo medico, o
+
+cattivo attore, che non penserebbero di chiamare semplicemente cattivo. Come allora in
+
+questi casi non applichiamo il termine semplicemente perché ciascuno degli stati
+
+non è un vizio, ma solo come un vizio per via di analogia, così è
+
+è chiaro che per quanto riguarda l'Autocontrollo Imperfetto e l'Autocontrollo noi
+
+si deve limitare i [nomi](/positions/nominalism) a quegli stati che hanno la stessa materia-oggetto
+
+come Perfetta Padronanza di Sé e totale perdita di Autocontrollo, e che noi
+
+Applicatelo pure al caso dell'ira solo per via di somiglianza: poiché
+
+la qual ragione, con un'aggiunta, designiamo un uomo d'Imperfetto
+
+Dominio di sé rispetto all'ira, come all'onore o al guadagno.
+
+<span class="atom-split" data-atom="101" data-title="Chapter V. (parte 7)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
 
 As there are some things naturally pleasant, and of these two kinds;
 
@@ -10112,7 +20115,97 @@ name without any qualification which is of the nature of utter absence
 
 of Self-Control, as it is found in Man.
 
-<span class="atom-split" data-atom="102" data-title="Chapter VI. (7/11)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Poiché vi sono alcune cose naturalmente piacevoli, e di queste due specie;
+
+quelle, cioè, che sono piacevoli generalmente, e quelle che lo sono.
+
+relativamente a particolari specie di animali e di uomini; così ve ne sono altre.
+
+che non sono piacevoli per natura, ma che diventano tali in conseguenza
+
+o di mutilazioni, o [costume](/concepts/custom), o depravati gusti naturali: e si può
+
+osservare stati morali simili a quelli di cui abbiamo parlato, avendo
+
+rispettivamente queste classi di cose per la loro materia oggettuale.
+
+Intendo il Bruto, come nel caso della femmina che, si dice, avrebbe
+
+Squarciare donne incinte e mangiare il feto; o i gusti che sono
+
+trovate tra le tribù selvagge confinanti con il Ponto, alcune amanti del crudo
+
+carne, e alcuni essendo cannibali, e alcuni prestando l'un l'altro la loro
+
+bambini di cui far banchetti; o ciò che si dice di Falaride. Queste sono
+
+esempi di stati brutali, causati in alcuni da malattia o pazzia;
+
+Prendete, per esempio, l'uomo che sacrificò e mangiò sua madre, o colui.
+
+che divorò il fegato del suo conservo. Esempi ancora di coloro
+
+causato da malattia o da costume, sarebbe, lo strappare i capelli, o
+
+mangiarsi le unghie, o mangiare carboni e terra. Ora, dovunque la natura
+
+è realmente la causa nessuno penserebbe di chiamare uomini di Imperfetto
+
+Autocontrollo,, né, parimenti, coloro che sono in uno stato di malattia.
+
+attraverso la consuetudine.
+
+L'avere una qualsiasi di queste inclinazioni è qualcosa di estraneo a ciò che è.
+
+denominato Vizio, proprio come lo è la Brutalità: e quando un uomo li ha, il suo
+
+dominarle non è propriamente Autocontrollo, né il suo essere dominato da
+
+loro Imperfezione dell'Autocontrollo nel senso proprio, ma solo nel
+
+via di somiglianza; così come possiamo dire un uomo di ira sfrenata
+
+manca di Autocontrollo rispetto all'[ira](/concepts/anger) ma non semplicemente manca di
+
+Autocontrollo. Per ogni eccessiva follia, codardia, assenza di.
+
+L'autocontrollo, o l'irritabilità, sono o Brutali o morbosi. L'uomo,
+
+Per esempio, chi per natura teme ogni cosa, anche un topo.
+
+dovrebbe muoversi, è codardo in modo brutale; c'era di nuovo un uomo
+
+Colui che, per infermità, temeva un gatto: e degli stolti, essi
+
+coloro che sono naturalmente privi di Ragione e vivono solo di Senso sono
+
+Bruti, come sono alcune tribù dei barbari lontani, mentre altri che
+
+sono così a causa di malattie, epilettiche o frenetiche, sono in morboso.
+
+stati.
+
+Dunque, di queste inclinazioni, un uomo può talvolta averne una soltanto.
+
+senza cedervi: voglio dire, supponiamo che Falaride avesse frenato
+
+Il suo innaturale desiderio di mangiare un bambino: o può sia avere che cedere a
+
+Esso. Come allora il Vizio, quando è tale da appartenere alla [natura umana](/axes/human_nature), è chiamato Vizio.
+
+semplicemente, mentre l'altro è così chiamato con l'aggiunta di "bestiale" o
+
+“morboso,” ma non semplicemente Vizio, così manifestamente c’è il Brutale e
+
+Morbosa imperfezione dell'autocontrollo, ma solo ciò ha diritto al
+
+nome senza alcuna qualificazione che è di natura di assenza totale
+
+dell'Autocontrollo, come si trova nell'Uomo.
+
+<span class="atom-split" data-atom="102" data-title="Chapter VI. (parte 7)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
 
 It is plain then that the object-matter of Imperfect Self-Control and
 
@@ -10260,7 +20353,155 @@ each is the worst: a bad man would produce ten thousand times as much
 
 harm as a bad brute.
 
-<span class="atom-split" data-atom="103" data-title="Chapter VII. (7/10)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+È chiaro, quindi, che la materia dell'Autocontrollo Imperfetto e
+
+L'autocontrollo è ristretto allo stesso di quello della totale assenza di.
+
+L’autocontrollo e quello della perfetta padronanza di sé, e che il resto è
+
+la materia oggettuale di una specie diversa così denominata metaforicamente e
+
+non semplicemente: esamineremo ora la posizione, “quel Imperfetto"
+
+L'autocontrollo rispetto a [Ira](/concepts/anger) è meno disonorevole di quello in
+
+rispetto delle Lussurie.
+
+In primo luogo, sembra che l'Ira in certo qual modo ascolti la Ragione.
+
+ma lo ode male; come servi solleciti che escono di corsa prima di aver udito
+
+tutto ciò che viene detto e poi confondere l'ordine; i cani, di nuovo, abbaiano.
+
+al minimo movimento, prima che abbiano visto se sia amico o
+
+nemico; così pure l'Ira, in virtù del suo calore e della sua rapidità naturali,
+
+ascoltando la Ragione, ma senza aver udito il comando della Ragione,
+
+si precipita alla sua vendetta. Cioè, la Ragione o qualche impressione sulla
+
+La mente mostra che vi è insolenza o disprezzo nell'offensore, e poi
+
+L'ira, ragionando per così dire che si debba combattere contro ciò che è
+
+tale, s'accende immediatamente: mentre la Lussuria, se la Ragione o il Senso, come la
+
+a seconda del caso, meramente dice che una cosa è dolce, si precipita al godimento di
+
+Ciò: e così l'Ira segue in certo modo la Ragione, ma la Lussuria no ed è.
+
+dunque più disonorevole: perché colui che non sa frenare la sua ira
+
+cede in qualche modo alla Ragione, ma l'altro alla sua Lussuria e non a
+
+Ragione affatto.
+
+Ancora, un uomo è più scusabile per seguire tali desideri quali sono
+
+naturale, proprio come egli è per seguire tali appetiti che sono comuni a tutti.
+
+e in quel grado in cui sono comuni. Ora l'Ira e l'irascibilità
+
+sono più naturali delle Lussurie quando in eccesso e per oggetti non
+
+necessario. (Questo era il fondamento della difesa che fece l'uomo che picchiò
+
+suo padre, “Mio padre,” disse, “soleva picchiare il suo, e suo padre il suo”"
+
+"di nuovo, e questo piccolo qui," indicando suo figlio, "batterà"
+
+me quando sarà un uomo: è di famiglia.” E il padre, come
+
+veniva trascinato, ordinò al figlio di smettere di picchiarlo al
+
+porta, perché egli stesso era solito trascinare suo padre fin lì e non
+
+più lontano.)
+
+Ancora, i caratteri sono meno ingiusti nella misura in cui implicano meno.
+
+insidiosità. Ora l'uomo iracondo non è insidioso, né lo è l'ira, ma
+
+abbastanza aperto: ma la Lussuria è: come si dice di Venere,
+
+Dea nata a Cipro, tessitrice di inganni.
+
+O Omero del cinto chiamato il Cesto,
+
+La persuasione inganna anche la mente più sottile.
+
+E così poiché questo tipo di Imperfetto Autocontrollo è più ingiusto, esso è
+
+anche più vergognoso di quello rispetto all'Ira, ed è semplicemente
+
+Autocontrollo Imperfetto, e Vizio in un certo senso.
+
+Di nuovo, nessun uomo prova dolore nell'essere insolente, ma ogni uomo che agisce
+
+Attraverso l'Ira si agisce con dolore; e colui che agisce con insolenza lo fa.
+
+con piacere. Se allora quelle cose sono ingiustissime con le quali abbiamo
+
+ha pienamente ragione di adirarsi, poi l'Imperfetto Autocontrollo, derivante dalla Lussuria,
+
+è ancor più tale di quello che deriva dall'Ira: perché nell'Ira non v'è
+
+insolenza.
+
+Orbene, è chiaro che l'Imperfetto Autocontrollo rispetto alle brame.
+
+è più disonorevole di quello rispetto all'Ira, e che il
+
+La materia oggettuale della Padronanza di Sé, e l'Imperfezione di essa, sono corporee.
+
+Lussurie e piaceri; ma di questi ultimi dobbiamo prendere in considerazione il
+
+differenze; poiché, come fu detto al principio, alcune sono proprie a
+
+Il genere umano e naturale tanto nel genere quanto nel grado, altri Brutali, e
+
+altre causate da mutilazioni e malattie.
+
+Ora solo i primi di questi sono la materia oggettuale dei Perfezionati.
+
+Autodominio e assoluta assenza di autocontrollo; e quindi non mai
+
+attribuire l'uno o l'altro di questi stati ai Bruti (tranne metaforicamente, e
+
+Ogniqualvolta una qualsiasi specie di animale differisca interamente da un'altra in
+
+insolenza, malizia o voracità), perché non hanno morale
+
+scelta o processo di deliberazione, ma sono assai diversi da quello.
+
+tipo di creatura proprio come sono i pazzi dagli altri uomini.
+
+La Bestialità non è così bassa nella scala come il Vizio, eppure è da essere.
+
+considerato con maggior timore: perché non è che il sommo principio
+
+è stato corrotto, come nella creatura umana, ma il soggetto lo possiede.
+
+Niente affatto.
+
+Le stesse cose, quindi, avvengono come se uno paragonasse un corpo inanimato
+
+con un essere animato, quale sarebbe il peggiore: per la malvagità di quello
+
+che non ha alcun principio di origine è sempre meno dannoso; ora
+
+L'intelletto è un principio di origine. Un caso simile sarebbe il
+
+Confrontando insieme l'ingiustizia e un uomo ingiusto: poiché in modi diversi
+
+ciascuno è il peggiore: un uomo cattivo produrrebbe diecimila volte tanto
+
+il danno come un bruto cattivo
+
+<span class="atom-split" data-atom="103" data-title="Chapter VII. (parte 7)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
 
 Now with respect to the pleasures and pains which come to a man through
 
@@ -10516,7 +20757,263 @@ It is evident then from all this, that Self-Control is a good state and
 
 the Imperfection of it a bad one.
 
-<span class="atom-split" data-atom="104" data-title="Chapter VIII. (7/11)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora, per quanto riguarda i piaceri e i dolori che vengono a un uomo attraverso
+
+Il tatto e il gusto, e il desiderare o l'evitare questi (che abbiamo determinato
+
+prima di costituire la materia-oggetto degli stati di assenza totale.
+
+di Autocontrollo e di Perfetta Padronanza di Sé), si può essere così disposti da
+
+cedere a tentazioni alle quali la maggior parte degli uomini sarebbe superiore, o essere
+
+superiore a quelli a cui la maggior parte degli uomini cederebbe: in relazione a
+
+piaceri, questi caratteri saranno rispettivamente l'uomo dell'Imperfetto
+
+L'autocontrollo, e l'uomo di autocontrollo; e, rispetto ai dolori,
+
+l'uomo della Morbidezza e l'uomo della Sopportazione: ma lo stato morale di
+
+La maggior parte degli uomini è qualcosa di mezzo tra i due, anche se inclinano alquanto.
+
+ai personaggi peggiori.
+
+Inoltre, poiché dei piaceri indicati alcuni sono necessari e alcuni sono
+
+non, altri lo sono in una certa misura ma non l'eccesso o il difetto di
+
+essi, e similmente anche di Piaceri e di dolori, l'uomo che persegue il
+
+eccesso di cose piacevoli, o di quelle che sono in sé eccesso, o da
+
+scelta morale, per se stessa, e non per qualsiasi altra cosa che sia da
+
+risultano da essi, è un uomo del tutto privo di autocontrollo: poiché egli deve essere
+
+incapace di rimorso, e perciò incurabile, perché colui che non ha rimorso
+
+è incurabile. (Chi ha troppo poco amore per il piacere è l'opposto
+
+carattere, e l'uomo della perfetta padronanza di sé il carattere medio.)
+
+Egli è di simile carattere, che evita i dolori del corpo, non perché
+
+egli non può, ma perché sceglie di non farlo, sopportarli.
+
+Ma dei personaggi che vanno fuori strada senza scegliere di farlo, quello
+
+è condotto a cagione del piacere, l'altro perché evita il dolore.
+
+gli costerebbe negare la sua lussuria; e così sono diversi l'uno
+
+dall'altro. Ora ognuno giudicherebbe un uomo peggiore per fare.
+
+qualcosa di vile senza alcun impulso del desiderio, o con uno molto lieve
+
+piuttosto che compiere la medesima azione per impulso di un desiderio molto intenso;
+
+per aver percosso un uomo quando non è adirato che se lo facesse nell'ira: perché
+
+si dice naturalmente, “Che cosa avrebbe fatto se fosse stato sotto il
+
+influenza della passione?” (e su questo fondamento, per inciso, l'uomo del tutto
+
+chi è privo di Autocontrollo è peggiore di colui che lo possiede imperfettamente). Tuttavia,
+
+dei due caratteri che sono stati menzionati, [come incluso in
+
+quella dell'assenza assoluta di Autocontrollo], l'una è piuttosto Mollezza, la
+
+altri propriamente l'uomo senza autocontrollo.
+
+Inoltre, al carattere dell'autocontrollo imperfetto si oppone quello.
+
+dell'Autocontrollo, e a quella della Dolcezza quella della Resistenza: perché
+
+La sopportazione consiste nella continua resistenza, ma l'autocontrollo in atto.
+
+padronanza, e la resistenza continuata e la padronanza effettiva sono tanto differenti
+
+come il non essere conquistati deriva dal conquistare; e così il dominio di sé è di più.
+
+preferibile alla Endurance.
+
+Di nuovo, colui che fallisce quando è esposto a quelle tentazioni contro le quali il
+
+La massa degli uomini tiene duro, ed è ben capace di farlo, è Soft e
+
+Lussurioso (il Lusso essendo una sorta di Morbidezza): il tipo d'uomo, intendo,
+
+lasciar strascicare la sua veste nella polvere per evitare la briga di sollevarla,
+
+e che, scimmiottando il malato, non si suppone tuttavia infelice.
+
+sebbene egli sia come un uomo misero. Così è anche per quanto riguarda
+
+Autocontrollo e la sua imperfezione: se un uomo cede ai piaceri
+
+o dolori che sono violenti ed eccessivi, non è materia di meraviglia,
+
+ma piuttosto per concessione se egli facesse quanta resistenza potesse (istanze
+
+sono, Filottete nel dramma di Teodette quando ferito dalla vipera; oppure
+
+Cercyon nell'Alope di Carcino, ovvero uomini che nel tentativo di reprimere
+
+la risata scoppiò in un forte e continuo accesso di risate, come accadde, tu
+
+ricorda, a Senofanto), ma è motivo di meraviglia quando un uomo
+
+cede a e non può contendere contro quei piaceri o dolori che il
+
+Il gregge comune è in grado di resistere; sempre supponendo che il suo fallimento non sia
+
+a causa della costituzione naturale o di malattia, intendo, come i re sciti
+
+sono costituzionalmente deboli, o la differenza naturale tra i sessi.
+
+Ancora, l'uomo che è schiavo del divertimento è comunemente ritenuto essere.
+
+sprovvisto di Autocontrollo, ma egli è veramente Morbido; perché il divertimento è
+
+un atto di rilassamento, essendo un atto di riposo, e il personaggio in
+
+questione è una di quelle che eccedono i debiti limiti a questo riguardo.
+
+Inoltre dell'Imperfetto Dominio di Sé vi sono due forme, la Precipitazione.
+
+e Debolezza: coloro che la hanno in quest'ultima forma sebbene abbiano
+
+Fatti i propositi, non vi si attengono per passione; gli altri
+
+sono guidati dalla passione perché non hanno mai formato alcuna risoluzione a
+
+tutti: mentre ci sono alcuni che, come coloro che facendosi il solletico,
+
+in anticipo sbarazzarsi della sensibilità al solletico, avendo sentito e visto prima il
+
+l'appressarsi della tentazione, e destarono sé stessi e la loro risoluzione,
+
+non cedere alla passione; sia la tentazione alquanto piacevole o.
+
+alquanto doloroso. La Precipitata forma dell'Imperfetto Autocontrollo essi
+
+sono più soggetti a chi sono costituzionalmente di un acuto o malinconico
+
+temperamento: perché l'uno per la rapidità, l'altro per
+
+ragione della violenza, delle loro passioni, non aspettate la Ragione,
+
+perché sono disposti a seguire qualunque nozione venga loro impressa
+
+le loro menti.
+
+Di nuovo, l'uomo del tutto privo di autocontrollo, come fu osservato.
+
+prima, non è dato al rimorso: poiché è parte del suo carattere che
+
+egli rimane fedele alla sua scelta morale: ma l'uomo di Imperfetto Autocontrollo è
+
+quasi composto di rimorso: e così il caso non è come lo abbiamo determinato
+
+prima, ma il primo è incurabile e il secondo può essere curato: poiché
+
+La depravità è come le malattie croniche, l'idropisia e la tisi per
+
+esempio, ma l'Imperfetto Autocontrollo è come i disturbi acuti: il
+
+essendo il primo un male continuo, il secondo non tale. E, in effetti,
+
+L'autocontrollo imperfetto e il vizio inveterato sono differenti per natura: il
+
+essendo quest'ultimo impercettibile alla sua vittima, il primo non così.
+
+Ma, delle diverse forme di Imperfetto Autocontrollo, quelle sono migliori.
+
+che sono travolti da un improvviso accesso di tentazione di quanto
+
+Coloro che hanno la Ragione ma non vi si attengono; essendo questi ultimi vinti.
+
+da passione in grado minore, e non del tutto senza premeditazione come sono
+
+gli altri: poiché l'uomo dell'Imperfetto Autocontrollo è come quelli che sono
+
+presto inebriato e da poco vino e meno del comune
+
+uomini.
+
+Ebbene, quell'Imperfezione dell'Autocontrollo non è Confermata.
+
+La viziosità è manifesta: e tuttavia forse lo è in un certo modo, perché in
+
+in un senso è contrario alla scelta morale e in un altro il risultato di
+
+Ad ogni modo, per quanto riguarda le azioni, il caso è molto simile.
+
+quello che Demodoco disse dei Milesii. “I Milesii non sono
+
+stolti, ma fanno proprio il genere di cose che fanno gli stolti;” e così essi
+
+d'Imperfetto Autocontrollo non sono ingiusti, ma compiono atti ingiusti.
+
+Ma per riprendere. Poiché l'uomo dall'Autocontrollo Imperfetto è di tale
+
+carattere tale da seguire i piaceri del corpo in eccesso e in dispregio di
+
+La retta ragione, senza agire per alcuna deliberata convinzione, laddove il
+
+L'uomo interamente privo di Autocontrollo agisce in base a una convinzione che
+
+poggia sulla sua naturale inclinazione a seguire questi piaceri; il
+
+il primo può essere facilmente persuaso a un diverso corso, ma quest'ultimo
+
+non: poiché la Virtù e il Vizio rispettivamente preservano e corrompono la morale.
+
+principio; ora il movente è il principio o punto di partenza in morale.
+
+azioni, proprio come gli assiomi e i postulati sono in matematica: e nemmeno
+
+Né nella morale né nella matematica è la Ragione che è atta a insegnare il
+
+principio; ma l'Eccellenza, o naturale o acquisita dalla [consuetudine](/concepts/custom), in
+
+Avendo giuste nozioni rispetto al principio. Colui che fa questo.
+
+Nella morale è l’uomo del Perfetto Autodominio, e il contrario.
+
+Il carattere è l'uomo del tutto privo di Autocontrollo.
+
+Di nuovo, vi è un carattere che può essere sollevato da terra in segno di sfida.
+
+della retta ragione a causa della passione; che la passione tanto signoreggia da
+
+impedire il suo agire secondo la Retta Ragione, ma non fino al punto di
+
+per indurlo a esser convinto che è sua propria linea il perseguire.
+
+tali piaceri senza limite: questo carattere è l'uomo dell'Imperfetto.
+
+Autocontrollo, migliore di colui che ne è del tutto privo, e non un
+
+uomo cattivo semplicemente e senza qualificazione: perché in lui il più alto
+
+e la miglior parte, cioè il principio, è preservata: e ve n'è un'altra
+
+carattere opposto a colui che è portato a mantenersi saldo nelle sue risoluzioni, e
+
+non allontanarsi da esse; in ogni caso, non per istigazione di
+
+passione.
+
+È evidente quindi, da tutto ciò, che l'autocontrollo è un buono stato e
+
+l'Imperfezione di essa una cattiva.
+
+<span class="atom-split" data-atom="104" data-title="Chapter VIII. (parte 7)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
 
 Next comes the question, whether a man is a man of Self-Control for
 
@@ -10600,7 +21097,91 @@ utterly destitute of Self-Control or base or of Imperfect Self-Control,
 
 only he who acts from the impulse of a base pleasure.
 
-<span class="atom-split" data-atom="105" data-title="Chapter IX. (7/9)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Viene poi la questione, se un uomo sia un uomo di autocontrollo per
+
+attenendosi alle sue conclusioni e alla sua scelta morale, di qualunque sorta esse siano.
+
+può, o solo da quello giusto; o ancora, un uomo di Imperfetto
+
+Autocontrollo per non attenersi alle sue conclusioni e scelta morale sia
+
+essi di qualunque genere; o, per porre il caso come facemmo prima, è egli tale?
+
+per non attenersi a false conclusioni e a una scelta morale errata?
+
+Non è questa la verità, che incidentalmente è per conclusioni e
+
+scelta morale di qualsiasi genere che l'uno dei personaggi osserva e l'altro
+
+non, ma per sé vere conclusioni e retta scelta morale: a
+
+Si spieghi che cosa si intende per incidentalmente, e per sé; si supponga un uomo.
+
+sceglie o persegue questa cosa in vista di quella, si dice ch'egli
+
+perseguire e scegliere quello per sé, ma questo solo incidentalmente. Poiché il
+
+termine per sé usiamo comunemente la parola “semplicemente”, e così, in un certo senso, esso
+
+è opinione di qualsivoglia sorta per cui i due caratteri rispettivamente
+
+osservi o no, ma egli ha "semplicemente" diritto alle designazioni che
+
+Si attiene o meno alla vera opinione.
+
+Ci sono anche persone, che hanno un trucco di attenersi ai loro, propri
+
+opinioni, che sono comunemente chiamate Positive, come quelle che sono difficili a essere
+
+persuasi, e le cui convinzioni non si mutano facilmente: ora questi
+
+le persone hanno qualche somiglianza con il carattere dell'Autocontrollo, proprio come
+
+il prodigo al liberale o il temerario al coraggioso, ma essi sono
+
+diverso in molti punti. L'uomo del dominio di sé non cambia per
+
+ragion di passione e libidine, tuttavia quando l’occasione lo richiede egli sarà
+
+facile alla persuasione: ma l'uomo Positivo non cambia al richiamo di
+
+La ragione, sebbene molti di questa classe assumano certi desideri e siano condotti
+
+dai loro piaceri. Tra la classe dei Positivi ci sono i Dogmatici,
+
+gli Ignoranti, e i Burberi: i primi, dai motivi del piacere
+
+e dolore: voglio dire, hanno la sensazione piacevole di una specie di
+
+vittoria nel non vedere cambiate le proprie convinzioni, e sono addolorati.
+
+quando i loro decreti, per così dire, sono rovesciati: così che, in effetti, essi
+
+piuttosto rassomigliano all'uomo di Imperfetto Autocontrollo che all'uomo di
+
+Autocontrollo.
+
+Ancora, vi sono alcuni che si allontanano dai loro propositi non per ragione.
+
+di qualsiasi Imperfezione dell'Autocontrollo; si prenda, per esempio, Neottolemo in
+
+il Filottete di Sofocle. Qui certamente il piacere era il motivo di
+
+il suo allontanamento dalla sua risoluzione, ma poi era di nobile sorta:
+
+poiché esser veritiero era nobile ai suoi occhi ed egli era stato persuaso da
+
+Ulisse mentire.
+
+Dunque non è ognuno che agisce per il motivo del piacere che è
+
+del tutto privo di Autocontrollo o vizioso o di Imperfetto Autocontrollo,
+
+Solo colui che agisce per impulso di un piacere vile.
+
+<span class="atom-split" data-atom="105" data-title="Chapter IX. (parte 7)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
 
 Moreover as there is a character who takes less pleasure than he ought
 
@@ -10742,6 +21323,148 @@ are mutually related.
 
 APPENDIX.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Inoltre, siccome vi è un carattere che trae meno piacere di quanto dovrebbe.
+
+nei godimenti corporei, e inoltre egli non si attiene alla conclusione di
+
+la sua Ragione, l'uomo del Controllo di Sé è il mezzo tra lui e il
+
+uomo dall'imperfetto autocontrollo: vale a dire, quest'ultimo non riesce a
+
+rispettarle a causa di un po' troppo, il primo a causa di
+
+un po' troppo poco; mentre l'uomo di autocontrollo si attiene ad essi, e
+
+non cambia mai per ragione di alcun'altra cosa che tali conclusioni.
+
+Ora, naturalmente, poiché l'Autocontrollo è buono, entrambi gli Stati contrari devono
+
+siano cattivi, come in effetti chiaramente sono: ma perché l'uno di essi è visto
+
+in poche persone, e in esse solo raramente, l'Autocontrollo viene a essere considerato.
+
+come se fosse opposto soltanto all'Imperfezione di essa, proprio come il Perfezionato.
+
+Si ritiene che l'autodominio sia opposto soltanto alla totale mancanza di
+
+Autocontrollo.
+
+Di nuovo, come molti termini sono usati per via di somiglianza, così le persone hanno
+
+giungere a parlare dell'autocontrollo dell'uomo dalla padronanza di sé perfezionata.
+
+in guisa di similitudine: poiché l'uomo di Autocontrollo e l'uomo di
+
+La perfezionata padronanza di sé hanno questo in comune, che non fanno nulla.
+
+contro la retta ragione per impulso dei piaceri corporei, ma poi il
+
+Il primo ha desideri cattivi, il secondo no; e il secondo è così.
+
+costituito come non provare nemmeno piacere contrario alla sua Ragione, il
+
+Il primo sente ma non vi cede.
+
+Simili pure sono l'uomo di Imperfetto Autocontrollo e colui che è del tutto
+
+destituti di esso, sebbene in realtà distinti: entrambi seguono corporeamente.
+
+piaceri, ma questi ultimi sotto la nozione che sia la giusta linea per
+
+a lui da prendere, il suo precedente senza alcuna tale nozione.
+
+E non è possibile che lo stesso uomo sia a un tempo un uomo di
+
+[Saggezza pratica](/concepts/phronesis) e dell'Imperfetto Autocontrollo: perché il carattere
+
+La saggezza pratica include, come abbiamo dimostrato prima, la bontà morale.
+
+carattere. E ancora, non è meramente conoscenza, ma attitudine a
+
+l'azione, che costituisce la Saggezza Pratica: e di questa attitudine la
+
+L'uomo di imperfetto autocontrollo è indigente. Ma non c'è ragione per cui
+
+L'uomo accorto non dovrebbe essere di imperfetto autocontrollo: e la ragione
+
+perché alcuni uomini sono talvolta ritenuti uomini di saggezza pratica,
+
+e tuttavia dell'Imperfetto Autocontrollo, è questo, che l'Accortezza differisce
+
+dalla Saggezza Pratica nel modo in cui ho dichiarato in un libro precedente, ed è molto
+
+vicino ad esso per quanto riguarda l'elemento intellettuale, ma differisce in
+
+rispetto della scelta morale.
+
+Né l'uomo dall'autocontrollo imperfetto è come l'uomo che ha sia e
+
+chiama in esercizio la sua conoscenza, ma come l'uomo che, avendola, è
+
+sopraffatto dal sonno o dal vino. Di nuovo, agisce volontariamente (perché egli
+
+sa, in un certo senso, ciò che fa e il risultato di ciò), ma egli
+
+non è un uomo cattivo confermato, poiché la sua scelta morale è buona, quindi è a
+
+tutti gli eventi sono soltanto a metà cattivi. Né egli è ingiusto, perché non agisce.
+
+con deliberato intento: poiché delle due forme principali del carattere,
+
+l'uno non è incline ad attenersi alle sue risoluzioni deliberate, e il
+
+l'altro, l'uomo di forza costituzionale di passione, non è incline a
+
+ponderare affatto.
+
+Quindi, in effetti, l'uomo dal controllo imperfetto di sé è come una comunità che
+
+Emana tutti i giusti decreti, e ha leggi ammirevoli, senonché non agisce.
+
+su di loro, comprovando lo scherno di Anassandride,
+
+“Quello Stato lo volle, che non cura leggi;”
+
+mentre l'uomo malvagio è come uno che agisce secondo le sue leggi, ma poi
+
+purtroppo sono cattivi.
+
+Imperfezione dell'Autocontrollo e Autocontrollo, dopo tutto, sono al di sopra del
+
+stato medio degli uomini; perché egli di quest'ultimo carattere è più vero.
+
+alla sua Ragione, e la prima meno di quanto non sia in potere della maggior parte
+
+uomini.
+
+Ancora, delle due forme di Imperfetto Autocontrollo che è più facilmente
+
+curate che essi hanno i quali sono per costituzione di forti passioni, che
+
+quella di coloro che formano propositi e li infrangono; e quelli che sono così
+
+per abitudine più che quelli che lo sono per natura; poiché naturalmente
+
+[l'usanza](/concepts/custom) è più facile a mutarsi che la natura, perché la stessa somiglianza di
+
+il costume rispetto alla natura è ciò che costituisce la difficoltà di mutarlo; come
+
+Eveno dice,
+
+La pratica, dico, amico mio, lungamente dura,
+
+E in ultimo è persino la natura stessa.
+
+Abbiamo ora detto, quindi, che cosa sia l'Autocontrollo, che cosa sia l'Imperfezione di
+
+Autocontrollo, che sopportazione, e che morbidezza, e come questi stati
+
+sono reciprocamente correlate.
+
+Appendice.
+
 <span class="atom-split" data-atom="106" data-title="Book VII. Chapters 12 to 15. (Bekker.)" data-chapter="Book VII. Chapters 12 to 15. (Bekker.)" data-kind="atom" data-srclang="en"></span>
 
 To consider the subject of Pleasure and Pain falls within the province
@@ -10778,25 +21501,79 @@ In support of the first opinion (that Pleasure is utterly not-good) it
 
 is urged that:
 
+<span class="qlang-split" data-lang="it"></span>
+
+Considerare il soggetto del Piacere e del Dolore rientra nella provincia
+
+del Filosofo delle Scienze Sociali, poiché egli è colui che deve fissare il
+
+Fine-Maestro che deve guidarci nel dominare assolutamente qualsiasi oggetto.
+
+male o bene.
+
+Ma possiamo dire di più: un'indagine sulla loro natura è assolutamente
+
+necessario. Primo, perché abbiamo sostenuto che la Virtù Morale e la Morale
+
+I vizi sono entrambi concernenti i dolori e i piaceri: poi, perché il
+
+La maggior parte degli uomini afferma che la Felicità deve includere il Piacere.
+
+(che tra l'altro spiega la parola che usano, μακάριος; χαίρειν
+
+essendo la radice di quella parola).
+
+Ora alcuni sostengono che nessun piacere sia buono, né in sé né come
+
+questione di risultato, perché il Bene e il Piacere non sono identici. Altri
+
+che alcuni Piaceri sono buoni ma la maggior parte cattivi. Vi è ancora un
+
+terza vista; concedendo che ogni Piacere sia buono, resta pur sempre il Sommo Bene
+
+non può assolutamente essere il Piacere.
+
+A sostegno della prima opinione (che il Piacere sia del tutto non-bene) esso
+
+Si esorta che:
+
 <span class="atom-split" data-atom="107" data-title="1. Every Pleasure is a sensible process towards a complete state; but" data-chapter="1. Every Pleasure is a sensible process towards a complete state; but" data-kind="atom" data-srclang="en"></span>
 
 no such process is akin to the end to be attained: e.g. no process of
 
 building to the completed house.
 
+<span class="qlang-split" data-lang="it"></span>
+
+nessun processo del genere è affine al fine da raggiungere: p. es. nessun processo di
+
+Costruzione fino alla casa compiuta.
+
 <span class="atom-split" data-atom="108" data-title="3. The man of Practical Wisdom aims at avoiding Pain, not at attaining" data-chapter="3. The man of Practical Wisdom aims at avoiding Pain, not at attaining" data-kind="atom" data-srclang="en"></span>
 
 Pleasure.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Piacere.
 
 <span class="atom-split" data-atom="109" data-title="4. Pleasures are an impediment to thought, and the more so the more" data-chapter="4. Pleasures are an impediment to thought, and the more so the more" data-kind="atom" data-srclang="en"></span>
 
 keenly they are felt. An obvious instance will readily occur.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Acutamente sono sentite. Un esempio ovvio si presenterà prontamente.
+
 <span class="atom-split" data-atom="110" data-title="5. Pleasure cannot be referred to any Art: and yet every good is the" data-chapter="5. Pleasure cannot be referred to any Art: and yet every good is the" data-kind="atom" data-srclang="en"></span>
 
 result of some Art.
 
-<span class="atom-split" data-atom="111" data-title="6. Children and brutes pursue Pleasures. (1/2)" data-chapter="6. Children and brutes pursue Pleasures." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+risultato di qualche Arte
+
+<span class="atom-split" data-atom="111" data-title="6. Children and brutes pursue Pleasures. (parte 1)" data-chapter="6. Children and brutes pursue Pleasures." data-kind="atom" data-srclang="en"></span>
 
 In support of the second (that not all Pleasures are good), That there
 
@@ -11064,7 +21841,275 @@ ones to wit), but not the bodily Pleasures; that is, those which are
 
 the object-matter of the man utterly destitute of Self-Control.
 
-<span class="atom-split" data-atom="112" data-title="6. Children and brutes pursue Pleasures. (2/2)" data-chapter="6. Children and brutes pursue Pleasures." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+A sostegno della seconda (che non tutti i Piaceri sono buoni), Che vi
+
+Alcune sono vili e materia di rimprovero, e alcune persino dannose: perché
+
+Alcune cose che sono piacevoli producono malattia.
+
+A sostegno del terzo (che il Piacere non è il Bene Supremo), che esso
+
+non è un Fine ma un processo verso la creazione di un Fine.
+
+Questa è, credo, una fedele descrizione delle attuali opinioni sulla questione.
+
+Ma che le ragioni addotte non provino che essa sia o non buona o
+
+il Sommo Bene è evidente dalle seguenti considerazioni.
+
+Prima. Il bene, essendo o assoluto o relativo, naturalmente le nature
+
+e gli stati che lo incarnano saranno anch'essi così; quindi anche i movimenti
+
+e i processi della creazione. Dunque, di quelle che sono ritenute cattive
+
+alcuni saranno cattivi assolutamente, ma relativamente non cattivi, forse anche
+
+degni di scelta; alcuni nemmeno degni di scelta relativamente ad alcun particolare.
+
+persona, solo in certi momenti o per breve tempo ma non in sé
+
+degno di scelta.
+
+Altri ancora non sono nemmeno Piaceri, sebbene producano quello.
+
+impressione sulla mente: tutte quelle, intendo, che implicano dolore e il cui scopo
+
+è cura; quelle dei malati, per esempio.
+
+Inoltre, poiché il Bene può essere o un’operazione attiva o uno stato, quelli
+
+[κινήσεις o γενέσεις] che tendono a porci nel nostro stato naturale sono
+
+piacevole incidentalmente a causa di quella tendenza: ma l'operare attivo
+
+è realmente nei desideri eccitati nella parte rimanente (sana) del nostro
+
+stato o natura: poiché vi sono Piaceri che non hanno alcuna connessione con
+
+dolore o desiderio: gli atti dell'intelletto contemplativo, per esempio, in
+
+nel qual caso non vi è alcuna deficienza nella natura o nello stato di colui che
+
+compie gli atti.
+
+Una prova di ciò è che la stessa cosa piacevole non produce il
+
+sensazione di Piacere quando lo stato naturale viene riempito o
+
+compiuto come quando è già nella sua condizione normale: in quest'ultima
+
+caso ciò che danno la sensazione sono cose piacevoli per sé, nel
+
+Forma anche quelle cose che sono contrarie. Voglio dire, trovi della gente.
+
+provare piacere in cose aspre o amare di cui nessuno è naturalmente
+
+o in sé piacevole; certo non quindi i Piaceri derivanti
+
+da loro, perché è ovvio che come è la classificazione di
+
+Le cose piacevoli tali devono essere quale quella dei Piaceri che da esse derivano.
+
+Inoltre, non segue che debba esserci qualcos'altro di migliore di
+
+qualsiasi piacere dato perché (come alcuni dicono) il Fine deve essere migliore di
+
+il processo che lo crea. Infatti non è vero che tutti i Piaceri sono
+
+processi o addirittura accompagnati da alcun processo, ma (alcuni sono) attivi
+
+operazioni o addirittura Fini: infatti non risultano dal nostro venire all'essere.
+
+qualcosa ma dal nostro usare i nostri poteri. Inoltre, non è vero che il
+
+Il fine è, in ogni caso, distinto dal processo: è vero solo in
+
+Il caso di tali processi che conducono al perfezionamento del naturale.
+
+I'm ready to translate the English passage into Italian. Please provide the passage you'd like me to translate.
+
+Per la qual cosa è errato dire che il Piacere è “un sensibile"
+
+"processo di produzione.” Al posto di “processo ecc.” dovrebbe essere sostituito
+
+“l’operare attivo dello stato naturale,” per “sensibile” “non impedito.” Il
+
+La ragione del suo essere ritenuto un “processo ecc.” è che è buono.
+
+nel senso più alto: persone che confondono "operare attivo" e "processo,"
+
+mentre in realtà sono distinti.
+
+Poi, quanto all'argomento che vi sono Piaceri cattivi perché alcuni
+
+le cose che sono piacevoli sono anche dannose alla salute, è lo stesso che
+
+dire che alcune cose salutari sono dannose per gli “affari”. In questo
+
+senso, naturalmente, entrambi possono dirsi cattivi, ma allora questo non
+
+presentarli come cattivi simpliciter: l'esercizio del puro
+
+L'intelletto talvolta nuoce alla salute di un uomo: ma che cosa ostacola il Pratico?
+
+La saggezza o qualsivoglia stato è, non il Piacere peculiare a, ma alcuno
+
+Piacere ad esso estraneo: i Piaceri derivanti dall'esercizio del
+
+puro Intelletto o da apprendimento solo promuovono ciascuno.
+
+Poi. “Nessun piacere è opera di alcuna arte.” Che altro ti aspetteresti?
+
+Nessun operare attivo è l'opera di alcuna Arte, solo la facoltà di così.
+
+Lavorando. Tuttavia l'Arte del profumiere o quella del cuoco sono ritenute appartenere
+
+Al Piacere.
+
+Poi. “L’uomo del Perfetto Autodominio evita i Piaceri.” “L’uomo di
+
+[Saggezza pratica](/concepts/phronesis) mira a fuggire il Dolore piuttosto che a conseguire
+
+Piacere.
+
+“I fanciulli e i bruti perseguono i Piaceri.”
+
+Una risposta basterà per tutti.
+
+Abbiamo già detto in che senso tutti i Piaceri sono buoni per sé e
+
+in che senso non tutti sono buoni: è quest'ultima classe che abbrutisce e
+
+I fanciulli perseguono, quali sono accompagnati da desiderio e dolore, cioè
+
+i Piaceri del corpo (che rispondono a questa descrizione) e i
+
+eccessi di essi: in breve, quelli rispetto ai quali l'uomo del tutto
+
+Privo di Autocontrollo è quindi del tutto privo. Ed è il
+
+assenza del dolore derivante da questi Piaceri che l'uomo di
+
+La Saggezza pratica mira a. Ne consegue che questi Piaceri sono ciò che il
+
+l'uomo di Perfetto Autodominio evita: poiché evidentemente ha Piaceri
+
+peculiarmente suo.
+
+D'altronde, è lecito che il Dolore sia un male e una cosa da essere.
+
+evitato in parte come male in sé, in parte come ostacolo in alcuni
+
+modo particolare. Or il contrario di quello che è da evitare, quâ
+
+Ciò che è da evitare, cioè il male, è bene. Piacere allora deve essere un
+
+I'm ready. Please provide the English passage you'd like me to translate into Italian.
+
+La tentata risposta di Speusippo, “che il Piacere possa essere opposto e
+
+nondimeno non contrario al Dolore, così come la parte maggiore di qualsivoglia grandezza.
+
+è contrario al meno ma solo opposto alla metà esatta”, non
+
+Fermati: poiché egli non può dire che il Piacere sia identico a qualsivoglia male.
+
+gentile.
+
+Ancora. Concedendo che alcuni Piaceri siano bassi, non v'è ragione per cui
+
+alcuni particolari Piaceri possono non essere molto buoni, così come alcuni particolari
+
+La scienza può essere sebbene ve ne siano alcune che sono basse.
+
+Forse ne consegue addirittura, poiché ogni stato può avere un operare attivo.
+
+senza impedimenti, sia che le operazioni attive di tutti siano la Felicità o quella di
+
+alcuno di essi, che questo attivo operare, se non sia impedito, deve essere
+
+degno di scelta: ora il Piacere è esattamente questo. Cosicché il Sommo Bene possa
+
+sia Piacere di qualche genere, sebbene la maggior parte dei Piaceri siano (supponiamo) bassi.
+
+per sé.
+
+E per questo motivo tutti gli uomini pensano che la vita felice sia piacevole, e
+
+Intrecciare il Piacere con la Felicità. Abbastanza ragionevolmente: perché
+
+La felicità è perfetta, ma nessun operare attivo impedito è perfetto; e
+
+Dunque l'uomo felice ha bisogno come aggiunta dei beni del corpo e
+
+i beni esterni e la fortuna che in questi punti egli non possa essere
+
+Incatenato. Quanto a coloro che dicono che colui che è torturato sul
+
+ruota, o cade in grandi sventure è felice purché solo egli sia
+
+bene, dicono sciocchezze, che lo facciano apposta o no. Sul
+
+d'altra parte, poiché la fortuna è necessaria come aggiunta, alcuni sostengono il bene.
+
+fortuna essere identica alla Felicità: che non è, poiché anche questo
+
+in eccesso è un ostacolo, e forse allora non ha diritto di essere chiamato
+
+buona sorte poiché è buona solo in quanto contribuisce a
+
+Felicità.
+
+Il fatto che tutti gli animali, bruti e umani ugualmente, perseguono il Piacere, è
+
+una certa presunzione che esso sia in un certo senso il Sommo Bene;
+
+(“Ci dev’essere qualcosa in quello che dice la maggior parte della gente,”) solo come uno e il
+
+La stessa natura o stato né è né è ritenuto essere il migliore, così
+
+Né tutti perseguono il medesimo Piacere, il Piacere nondimeno tutti perseguono.
+
+Anzi, inoltre, ciò che perseguono è, forse, non ciò che pensano né ciò che
+
+essi direbbero che perseguono, ma in realtà una e medesima cosa: poiché in tutto
+
+c'è qualche istinto al di sopra di loro stessi. Ma i Piaceri corporei hanno
+
+ricevettero il nome esclusivamente, perché la loro è la forma più frequente.
+
+e ciò che è universalmente partecipato; e così, perché a molti
+
+Queste sole sono conosciute; essi credono che esse siano le sole che
+
+esiste.
+
+È pure chiaro che, a meno che il Piacere e il suo operare attivo non siano buoni,
+
+non sarà vero che la vita dell’uomo felice incarna il Piacere: perché
+
+perché lo vorrà sulla supposizione che non sia buono e che egli
+
+può vivere anche con il Dolore? perché, supponendo che il Piacere non sia buono,
+
+allora il Dolore non è né male né bene, e perché mai dovrebbe evitarlo?
+
+Inoltre, la vita dell'uomo buono non è più piacevole di alcuna.
+
+altro a meno che non si conceda che le sue operazioni attive siano tali anch'esse.
+
+Qualche indagine sui piaceri corporali è anche necessaria per coloro che
+
+dire che alcuni Piaceri, in verità, sono altamente degni di scelta (il bene
+
+(vale a dire quelli), ma non i Piaceri corporei; cioè, quelli che sono
+
+l'oggetto-materia dell'uomo del tutto privo di Autocontrollo.
+
+<span class="atom-split" data-atom="112" data-title="6. Children and brutes pursue Pleasures. (parte 2)" data-chapter="6. Children and brutes pursue Pleasures." data-kind="atom" data-srclang="en"></span>
 
 If so, we ask, why are the contrary Pains bad? they cannot be (on their
 
@@ -11126,9 +22171,75 @@ And, as has been said before, there are the two following reasons why
 
 bodily Pleasure is thought to be not-good.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Se così, domandiamo, perché i Dolori contrari sono cattivi? essi non possono essere (sul loro
+
+assunzione) perché il contrario del male è il bene.
+
+Non possiamo forse dire che i necessari Piaceri corporei sono buoni nel
+
+senso in cui ciò che non è cattivo è buono? o che essi sono buoni
+
+solo fino a un certo punto? perché tali stati o movimenti che non possono
+
+avere troppo del meglio non può avere troppo del Piacere, ma coloro
+
+che può del primo può anche del secondo. Ora il corporeo
+
+I piaceri ammettono l'eccesso: infatti l'uomo vile e malvagio è tale perché
+
+egli persegue l'eccesso di esse invece di quelle che sono necessarie.
+
+(cibo, bevanda, e gli oggetti degli altri appetiti animali danno
+
+piacere a tutti, ma non nel giusto modo o grado per tutti). Ma il suo
+
+Il rapporto con il Dolore è esattamente il contrario: non è un Dolore eccessivo, ma
+
+Dolore alcuno, che egli evita [che lo fa essere in questo modo anche un
+
+uomo cattivo e vile], perché solo nel caso di colui che persegue l'eccesso
+
+Il Piacere è Dolore contrario al Piacere eccessivo.
+
+Non è però sufficiente semplicemente affermare la verità, dovremmo anche mostrarla.
+
+come sorge la falsa visione; perché ciò rafforza la convinzione. Voglio dire,
+
+quando abbiamo dato una ragione probabile per cui ciò si impone agli uomini come vero.
+
+il che in realtà non è vero, dà loro una più forte convinzione del
+
+verità. E quindi dobbiamo ora spiegare perché i Piaceri corporei sembrano
+
+persone essere più degne di scelta di qualsiasi altre.
+
+La prima ovvia ragione è che il Piacere corporeo scaccia il Dolore; e
+
+perché il Dolore è sentito in eccesso, gli uomini perseguono il Piacere in eccesso, cioè.
+
+generalmente, il Piacere corporeo, sotto la nozione del suo essere un rimedio per
+
+quel dolore. Questi rimedi, inoltre, vengono a essere violenti; il che è
+
+la ragione stessa per cui vengono perseguiti, poiché l'impressione che producono su
+
+la mente è dovuta al loro essere guardati fianco a fianco con il loro
+
+contrario.
+
+E, come è stato detto prima, ci sono le due seguenti ragioni per cui
+
+Il Piacere corporeo è ritenuto non-buono.
+
 <span class="atom-split" data-atom="113" data-title="1. Some Pleasures of this class are actings of a low nature, whether" data-chapter="1. Some Pleasures of this class are actings of a low nature, whether" data-kind="atom" data-srclang="en"></span>
 
 congenital as in brutes, or acquired by [custom](/concepts/custom) as in low bad men.
+
+<span class="qlang-split" data-lang="it"></span>
+
+congenito come nei bruti, o acquisito per [consuetudine](/concepts/custom) come negli uomini vili e cattivi.
 
 <span class="atom-split" data-atom="114" data-title="2. Others are in the nature of cures, cures that is of some deficiency;" data-chapter="2. Others are in the nature of cures, cures that is of some deficiency;" data-kind="atom" data-srclang="en"></span>
 
@@ -11222,7 +22333,99 @@ Pleasure and Pain. What each is, and how the one set is good the other
 
 bad. We have yet to speak of [Friendship](/concepts/friendship).
 
-<span class="atom-split" data-atom="115" data-title="Chapter I. (8/10)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+ora naturalmente è meglio avere [lo stato sano] originariamente che
+
+che debba maturarsi in seguito.
+
+(Ma alcuni Piaceri derivano quando gli stati naturali vengono perfezionati:)
+
+queste quindi sono buone in quanto al risultato.)
+
+Ancora, il fatto stesso che essi siano violenti fa sì che vengano perseguiti.
+
+da coloro che non possono gustare altri: tali uomini infatti creano violenti.
+
+seti per se stessi (se innocue, allora non troviamo colpa, se
+
+dannoso allora è cattivo e basso) perché non hanno altre cose da
+
+provare piacere in, e lo stato neutro è sgradevole ad alcune persone
+
+costituzionalmente; ché la fatica d'alcun genere è inseparabile dalla vita, come
+
+I fisiologi attestano, dicendoci che gli atti del vedere o dell'udire
+
+sono dolorosi, solo che siamo abituati al dolore e non ce ne accorgiamo.
+
+Similmente nella giovinezza la crescita costante produce uno stato molto simile a quello.
+
+dell'ebbrezza vinosa, e la giovinezza è piacevole. Di nuovo, gli uomini del
+
+il temperamento malinconico necessita costantemente di qualche processo rimediale (perché
+
+il corpo, per il suo temperamento, è costantemente tormentato), ed essi
+
+sono in uno stato cronico di desiderio violento. Ma il Piacere scaccia il Dolore;
+
+non solo quel Piacere che è direttamente contrario al Dolore ma anche qualsiasi
+
+Piacere purché sia forte: ed è così che gli uomini giungono a essere del tutto
+
+destituto di Padronanza di Sé, cioè basso e cattivo.
+
+Ma quei Piaceri che non sono connessi con i Dolori non sono suscettibili di
+
+eccesso: cioè quelli che appartengono a oggetti che sono naturalmente piacevoli.
+
+e non meramente come questione di risultato: con quest'ultima classe intendo tali
+
+come sono curative, e la ragione per cui queste sono ritenute piacevoli è
+
+che la cura risulta dall'azione in qualche modo di quella parte del
+
+costituzione che rimane sana. Con “piacevole naturalmente” intendo tale
+
+come messa in atto una natura che è piacevole.
+
+La ragione per cui nessuna cosa una e medesima è invariabilmente piacevole è che
+
+La nostra natura è, non semplice, ma complessa, implicando qualcosa di diverso.
+
+da sé (in quanto siamo esseri corruttibili). Supponiamo allora che
+
+una parte di questa natura stia facendo qualcosa, questo qualcosa è, al
+
+altra parte, innaturale: ma, se vi sia un equilibrio dei due
+
+nature, allora qualunque cosa si stia facendo è indifferente. È ovvio che
+
+Se vi sia alcuno la cui natura sia semplice e non complessa, a un tale essere.
+
+Il medesimo corso d'azione sarà sempre il più piacevole.
+
+Per questa ragione è che la Divinità prova Piacere che è sempre
+
+uno, cioè semplice: non solo il movimento ma anche l'immobilità agisce, e
+
+Il piacere risiede piuttosto nell'assenza che nella presenza del movimento.
+
+La ragione per cui il detto del Poeta “il cambiamento è di tutte le cose il più”
+
+«piacevole» è vero, è «una bassezza nel nostro sangue»; poiché come è l'uomo malvagio
+
+facilmente mutevole, cattiva deve essere anche la natura che brama il cambiamento,
+
+cioè non è né semplice né buono.
+
+Ora abbiamo detto la nostra riguardo all'autocontrollo e al suo contrario; e riguardo a
+
+Piacere e Dolore. Che cosa sia ciascuno, e come l'uno sia buono, l'altro.
+
+Male. Non abbiamo ancora parlato di [Amicizia](/concepts/friendship).
+
+<span class="atom-split" data-atom="115" data-title="Chapter I. (parte 8)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
 
 Next would seem properly to follow a dissertation on [Friendship](/concepts/friendship):
 
@@ -11298,7 +22501,83 @@ friends is thought a matter of credit to a man; some go so far as to
 
 hold, that “good man” and “friend” are terms synonymous.
 
-<span class="atom-split" data-atom="116" data-title="Chapter II. (8/11)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Appresso sembrerebbe propriamente seguire una dissertazione sull'[Amicizia](/concepts/friendship):
+
+perché, in primo luogo, o è essa stessa una virtù, o è connessa.
+
+con la virtù; e poi è cosa necessarissima alla vita, poiché nessun
+
+uno sceglierebbe di vivere senza amici anche se avesse tutti i
+
+altre buone cose nel mondo: e, in effetti, gli uomini che sono ricchi o
+
+dotati di autorità e influenza sono ritenuti avere speciale bisogno
+
+degli amici: poiché a che giova tale prosperità, se ne venga tolta
+
+Via il fare gentilezze di cui gli amici sono i più usuali e
+
+oggetti lodevolissimi? O come può essere mantenuto o preservato senza
+
+amici? perché quanto più grande è, tanto più scivoloso e
+
+Rischioso: inoltre nella povertà e in tutte le altre avversità gli uomini pensano
+
+amici come loro unico rifugio.
+
+Inoltre, l'Amicizia aiuta i giovani a tenersi lontani dall'errore: i vecchi, in
+
+il rispetto dell'attenzione e tali manchevolezze nell'azione quali la loro debolezza.
+
+li rende soggetti a; e quelli che sono nel fiore degli anni, riguardo a
+
+nobili imprese (“Essi due insieme andando,” dice Omero, tu puoi
+
+ricorda), perché sono così più capaci di ideare piani e portare
+
+Li fuori.
+
+Ancora, sembra essere impiantato in noi dalla Natura: come, per esempio, in
+
+il genitore verso la prole e la prole verso il genitore
+
+(non soltanto nella specie umana, ma parimenti negli uccelli e nella maggior parte
+
+animali), e in quelli della stessa tribù gli uni verso gli altri, e
+
+specialmente negli uomini della stessa nazione; per la qual cosa commendiamo coloro
+
+uomini che amano i loro simili: e si può vedere nel corso del viaggio come
+
+Stretti parenti e quanto l'uomo sia amico dell'uomo.
+
+Inoltre, l'Amicizia sembra essere il legame delle Comunità Sociali, e
+
+i legislatori sembrano essere più ansiosi di assicurarlo che la stessa Giustizia. Io
+
+intendo, l'unanimità è alquanto simile all'amicizia, e questo essi certamente
+
+mirano a e scacciano specialmente la fazione come nemica.
+
+Ancora, dove le persone sono in Amicizia la Giustizia non è richiesta; ma,
+
+d'altra parte, sebbene siano giusti essi hanno bisogno di Amicizia in
+
+aggiunta, e quel principio che è più veramente giusto è pensato
+
+partecipano della natura dell'Amicizia.
+
+Infine, non solo è cosa necessaria, ma altresì onorevole: giacché
+
+Lodiamo coloro che sono affezionati agli amici, e l'averne molti.
+
+Avere amici è considerato un credito per un uomo; alcuni giungono al punto di
+
+ritengono che “uomo buono” e “amico” siano termini sinonimi.
+
+<span class="atom-split" data-atom="116" data-title="Chapter II. (parte 8)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
 
 Yet the disputed points respecting it are not few: some men lay down
 
@@ -11350,7 +22629,59 @@ in species admit likewise of degrees (on this point we have spoken
 
 before).
 
-<span class="atom-split" data-atom="117" data-title="Chapter III. (9/11)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Nondimeno i punti controversi che la riguardano non sono pochi: alcuni uomini pongono
+
+che è una sorta di rassomiglianza, e che gli uomini che si rassomigliano
+
+sono amici: donde vengono i detti comuni, «il simile tende al simile,»
+
+“Chi si assomiglia si piglia,” e così via. Altri, al contrario, dicono, che tutti
+
+tali cadono sotto la massima: “Due di un mestiere non si accordano mai.”
+
+Ancora, alcuni uomini spingono più in alto le loro indagini su questi punti e ragionano.
+
+fisicamente: come Euripide, che dice,
+
+La terra dalla siccità consumata ama la pioggia.
+
+E il grande cielo, gravido di pioggia,
+
+Ama cadere in piogge sopra la terra.
+
+Eraclito, ancora, sostiene che «la contrarietà è utile, e che
+
+il miglior accordo nasce da cose differenti, e che tutte le cose
+
+venire all'esistenza nel modo del principio di antagonismo.
+
+Empedocle, tra gli altri, in diretta opposizione a costoro, afferma che
+
+"Il simile tende al simile."
+
+Queste questioni fisiche ci permetteremo di omettere, in quanto esse
+
+sono estranei alla presente indagine; e esamineremo tali che sono
+
+proprio dell'uomo e riguardano i caratteri morali e i sentimenti: come, per
+
+per esempio, “[Amicizia](/concepts/friendship) sorge tra tutti senza distinzione, o è
+
+"impossibile che i malvagi siano amici?” e, “Vi è uno solo?"
+
+specie dell'Amicizia, o più?" poiché coloro che fondano l'opinione
+
+che non v'è che uno sul fatto che l'Amicizia ammette gradi
+
+sostengono che sulla base di prove insufficienti; perché cose che sono differenti
+
+nelle specie ammettono parimenti dei gradi (su questo punto abbiamo parlato)
+
+before).
+
+<span class="atom-split" data-atom="117" data-title="Chapter III. (parte 9)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
 
 Our view will soon be cleared on these points when we have ascertained
 
@@ -11428,7 +22759,85 @@ another good from one of the aforementioned causes, and that these
 
 kindly feelings should be mutually known.
 
-<span class="atom-split" data-atom="118" data-title="Chapter IV. (9/12)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+La nostra visione sarà presto chiarita su questi punti quando avremo accertato.
+
+ciò che è propriamente l’oggetto-materiale dell’[Amicizia](/concepts/friendship): poiché si pensa
+
+che non tutto indiscriminatamente, ma soltanto una certa materia peculiare,
+
+è l'oggetto di quest'affezione; vale a dire, ciò che è buono, o
+
+piacevole, o utile. Ora parrebbe che ciò sia utile attraverso.
+
+che arreca qualsiasi bene o piacere, e così gli oggetti dell'Amicizia,
+
+come fini assoluti, sono il bene e il piacevole.
+
+Sorge qui una questione; se sia buono in assoluto o ciò che è.
+
+bene per gli individui, per cui gli uomini provano Amicizia (essendo questi due
+
+talvolta distinti): e similmente rispetto al piacevole. Esso
+
+Sembra allora che ogni individuo lo senta verso ciò che è buono a
+
+se stesso, e che astrattamente è il vero bene che è l'oggetto.
+
+dell'Amicizia, e a ciascun individuo ciò che è buono per ciascuno.
+
+Giunge poi a questo; che ogni individuo sente Amicizia non per ciò che
+
+è soltanto per ciò che trasmette alla sua mente l'impressione di essere.
+
+buono verso se stesso. Ma questo non farà alcuna differenza reale, perché quello
+
+Ciò che è veramente l'oggetto dell'Amicizia trasmetterà anche questo.
+
+impressione alla mente.
+
+Vi sono quindi tre cause da cui gli uomini provano Amicizia: ma la
+
+termine non è applicato al caso dell'affezione per le cose inanimate.
+
+poiché non v'è contraccambio dell'affetto né desiderio del bene.
+
+di quegli oggetti: certamente sa del ridicolo dire che un
+
+L'uomo amante del vino gli augura del bene: l'unico senso in cui è vero.
+
+essendo che egli desidera che essa sia mantenuta sana e salva per il proprio uso e
+
+beneficio. Ma all'amico dicono che si dovrebbe augurare ogni bene per il suo
+
+Bene. E quando gli uomini vogliono così il bene di un altro (non ricambiando egli.
+
+il sentimento), la gente li chiama Benevoli; perché l'Amicizia descrivono
+
+come “benevolenza tra persone che la ricambiano.” Ma devono essi
+
+Non aggiungere che il sentimento deve essere mutuamente conosciuto? poiché molti uomini sono
+
+benevolmente disposti verso coloro che non hanno mai visto ma che
+
+concepire come amabile o utile: e questa nozione equivale allo stesso.
+
+cosa come un sentimento reale tra loro.
+
+Ebbene, questi sono evidentemente benevolmente disposti l'uno verso l'altro: ma come
+
+Si possono chiamare amici mentre i loro reciproci sentimenti sono sconosciuti a
+
+l'un l'altro? per completare l'idea dell'Amicizia, dunque, è necessario
+
+che provano sentimenti benevoli gli uni verso gli altri, e desiderano uno
+
+un altro bene da una delle cause suddette, e che queste
+
+I sentimenti benevoli dovrebbero essere reciprocamente noti.
+
+<span class="atom-split" data-atom="118" data-title="Chapter IV. (parte 9)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
 
 As the motives to [Friendship](/concepts/friendship) differ in kind so do the respective
 
@@ -11524,7 +22933,103 @@ same day: but these wish for society and intimate intercourse with
 
 their friends, since they thus attain the object of their Friendship.
 
-<span class="atom-split" data-atom="119" data-title="Chapter V. (8/10)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Come i motivi dell'[Amicizia](/concepts/friendship) differiscono in genere, così anche i rispettivi.
+
+Sentimenti e Amicizie. Le specie dunque dell'Amicizia sono tre, in
+
+numero uguale agli oggetti di esso, poiché nella linea di ciascuno vi può essere
+
+Essere “mutuo affetto mutualmente noto.”
+
+Ora coloro che hanno amicizia gli uni per gli altri desiderano il bene gli uni degli altri.
+
+secondo il motivo della loro Amicizia; di conseguenza coloro che
+
+motivo è [utilità](/positions/utility_pleasure) non hanno Amicizia gli uni per gli altri realmente, ma solo
+
+nella misura in cui un qualche bene deriva loro gli uni dagli altri.
+
+E coloro il cui movente è il piacere sono nel medesimo caso: voglio dire, essi hanno
+
+Amicizia per gli uomini di facile piacevolezza, non perché essi siano di un dato.
+
+carattere ma perché sono piacevoli a sé stessi. Così allora essi
+
+Coloro il cui motivo di amicizia è l'utilità amano i loro amici per ciò che è
+
+buoni verso se stessi; coloro il cui motivo è il piacere fanno così per ciò che è
+
+piacevoli a se stessi; vale a dire, non in quanto l'amico
+
+L'amato non è se non in quanto è utile o piacevole. Questi
+
+Le amicizie quindi sono una questione di risultato: poiché l'oggetto non è
+
+Amato in quanto egli è l’uomo che è, ma in quanto egli procura vantaggio.
+
+o piacere, a seconda dei casi.
+
+Tali Amicizie sono naturalmente molto soggette a dissoluzione se il
+
+Le parti non continuano allo stesso modo: voglio dire, che le altre cessano di avere
+
+alcuna Amicizia per loro quando non sono più piacevoli o utili.
+
+Ora è nella natura dell'utilità non essere permanente ma costantemente.
+
+variando: così, naturalmente, quando il motivo che li fece amici è
+
+svanita, l'Amicizia similmente si dissolve; poiché esisteva soltanto
+
+Relativamente a quelle circostanze.
+
+Si ritiene che l'amicizia di questo tipo esista principalmente tra gli anziani.
+
+(perché gli uomini in quella fase della vita non perseguono ciò che è piacevole ma
+
+ciò che è profittevole); e in tali, di uomini nel fiore degli anni e del
+
+giovani, come sono dediti alla ricerca del profitto. Coloro che sono tali hanno
+
+nessun intimo rapporto fra loro; poiché talvolta essi non sono
+
+anche piacevoli gli uni agli altri; né, in effetti, desiderano tale cosa.
+
+relazioni a meno che i loro amici non siano proficui a loro, perché essi
+
+sono piacevoli solo nella misura in cui hanno speranze di vantaggio. Con
+
+queste Amicizie è comunemente annoverata quella dell'ospitalità.
+
+Ma l'Amicizia dei giovani è ritenuta basata sul movente di
+
+piacere: perché vivono al cenno e al richiamo della passione e
+
+generalmente perseguono ciò che è piacevole a loro stessi e l'oggetto di
+
+il momento presente: e come la loro età cambia così similmente fanno i loro
+
+piaceri.
+
+Questa è la ragione per cui formano e sciolgono rapidamente le Amicizie:
+
+poiché l'Amicizia cambia con l'oggetto piacevole e simili.
+
+Il piacere cambia rapidamente.
+
+I giovani sono anche molto dediti all'Amore; essendo questa passione, in gran
+
+misura, una questione di impulso e basata sul piacere: per la qual cosa
+
+concepiscono Amicizie e le abbandonano rapidamente, cambiando spesso nel
+
+Stesso giorno: ma questi desiderano la società e l'intimo commercio con
+
+i loro amici, poiché così conseguono il fine della loro Amicizia.
+
+<span class="atom-split" data-atom="119" data-title="Chapter V. (parte 8)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
 
 That then is perfect [Friendship](/concepts/friendship) which subsists between those who are
 
@@ -11718,7 +23223,201 @@ a matter of result and termed friends from their resemblance to these
 
 last.
 
-<span class="atom-split" data-atom="120" data-title="Chapter VI. (8/11)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Quella è allora la perfetta [Amicizia](/concepts/friendship) che sussiste tra coloro che sono
+
+buoni e la cui somiglianza consiste nella loro bontà: per questi uomini
+
+desiderano il bene l'uno dell'altro in modi simili; in quanto sono buoni
+
+(e buone sono in sé); e coloro sono specialmente amici che
+
+augurano il bene ai loro amici per amor loro, perché così sentono.
+
+nei loro confronti per sé stessi e non come mera questione di risultato;
+
+così l'Amicizia tra questi uomini continua a sussistere finché
+
+essi sono buoni; e la bontà, sappiamo, ha in sé un principio di
+
+permanenza.
+
+Inoltre, ciascuna parte è buona in astratto e anche relativamente al suo
+
+amico, poiché tutti gli uomini buoni non sono soltanto astrattamente buoni, ma anche utili.
+
+l'uno all'altro. Tali amici sono anche reciprocamente piacevoli perché tutti
+
+gli uomini buoni sono così astrattamente, e anche relativamente gli uni agli altri,
+
+in quanto a ciascun individuo sono piacevoli quelle azioni che
+
+corrispondono alla sua natura, e tutte quelle che sono simili ad esse. Or quando gli uomini
+
+sono buone queste saranno sempre le stesse, o almeno simili.
+
+L'amicizia allora in queste circostanze è permanente, come dovremmo.
+
+ragionevolmente aspettarsi, poiché riunisce in sé tutti i requisiti
+
+requisiti degli amici. Voglio dire, che l'Amicizia di qualsiasi genere è
+
+basato sul bene o sul piacere (sia astrattamente che relativamente al
+
+persona che nutre il sentimento di Amicizia), e risulta da un
+
+somiglianza di qualche sorta; e a questo genere appartengono tutte le sopraddette.
+
+requisiti nelle parti stesse, perché in questo le parti sono
+
+Simili, e così via: inoltre, in esso vi è il bene in astratto.
+
+e l'astrattamente piacevole, e poiché questi sono specialmente i
+
+oggetto-materia dell'Amicizia così il sentimento e [lo stato](/concepts/state) dell'Amicizia
+
+si trova più intensa e più eccellente negli uomini così qualificati.
+
+Rare, è probabile, saranno amicizie di questo genere, perché uomini di
+
+Di questo genere sono rari. Del resto, essendo tutte le qualifiche richieste
+
+presupposto, si richiede inoltre tempo e intimità: poiché, come il
+
+Dice il proverbio, gli uomini non possono conoscersi “finché non hanno mangiato il
+
+"la quantità di sale richiesta insieme;” né possono in effetti ammetterne una.
+
+un altro all'intimità, tanto meno essere amici, finché ciascuno non sia apparso a
+
+l'altro ed è stato provato essere un degno oggetto di Amicizia. Coloro che
+
+prontamente cominciare uno scambio di azioni amichevoli può dirsi
+
+desiderano essere amici, ma non lo sono se non sono anche virtuosi.
+
+oggetti di Amicizia e reciprocamente noti come tali: vale a dire, un
+
+Il desiderio dell'Amicizia può sorgere rapidamente, ma non l'Amicizia stessa.
+
+Ebbene, questa Amicizia è perfetta sia rispetto al tempo che in tutto.
+
+altri punti; ed esattamente i medesimi e simili risultati spettano a ciascuno
+
+Parte dall'altro; che dovrebbe essere il caso tra amici.
+
+L'amicizia basata sul piacevole è, per così dire, una copia di
+
+questo, poiché i buoni sono fonti di piacere gli uni per gli altri: e quello
+
+Parimenti fondata sull'[utilità](/positions/utility_pleasure), essendo i buoni anche utili gli uni agli altri.
+
+Tra uomini così legati le Amicizie sono più permanenti quando lo stesso.
+
+Il risultato deriva a entrambi l'uno dall'altro, il piacere, per esempio; e
+
+non semplicemente così ma dalla stessa fonte, come nel caso di due uomini di
+
+facile piacevolezza; e non come è in quella di un amante e l'oggetto di
+
+il suo affetto, non derivando questi il loro piacere dalle stesse cause,
+
+ma il primo dal vedere il secondo e il secondo dal ricevere il
+
+attenzioni del primo: e quando il fiore della giovinezza appassisce il
+
+L'amicizia talvolta cessa anche, perché allora l'amante non trae
+
+piacere dal vedere e l'oggetto del suo affetto cessa di ricevere
+
+le attenzioni che si prestavano prima: in molti casi, tuttavia, le persone
+
+Così congiunti, continuano amici, se l'essere di simili temperamenti essi hanno.
+
+derivare da [consuetudine](/concepts/custom) a gradire la disposizione dell'uno e dell'altro.
+
+Dove le persone non scambiano piacere ma profitto nelle questioni d'Amore,
+
+l'Amicizia è insieme meno intensa per grado e anche meno permanente:
+
+infatti, coloro che sono amici per interesse comunemente si separano quando
+
+il vantaggio cessa; poiché, in realtà, non furono mai amici l'uno dell'altro.
+
+un altro ma del vantaggio.
+
+Dunque appare che, per motivi di piacere o di profitto, gli uomini malvagi possano.
+
+essere amici gli uni degli altri, o uomini buoni a uomini cattivi o a uomini neutrali.
+
+carattere a uno di qualsiasi carattere: ma disinteressatamente, poiché
+
+Per il bene l'uno dell'altro, chiaramente solo i buoni possono essere amici; perché
+
+Gli uomini cattivi non provano piacere nemmeno in se stessi, se non in quanto qualche
+
+Il vantaggio sorge.
+
+E inoltre, l'Amicizia dei buoni è sola superiore alla calunnia;
+
+non essendo facile per gli uomini credere a una terza persona riguardo a uno che
+
+essi hanno lungamente tentato e provato: v'è tra gli uomini buoni reciproca
+
+fiducia, e la sensazione che il proprio amico non ci avrebbe mai fatto torto.
+
+torto, e tutte le altre cose siffatte che sono attese nell'Amicizia veramente.
+
+degno del nome; ma negli altri generi non c'è nulla che impedisca tutto
+
+tali sospetti.
+
+Io le chiamo Amicizie, perché siccome gli uomini comunemente danno il nome di
+
+amici verso coloro che sono legati da motivi di profitto (che è
+
+giustificati dal linguaggio politico, poiché le alleanze tra gli stati sono
+
+ritenuto contratto in vista di un vantaggio), e a coloro che
+
+sono legati gli uni agli altri dal movente del piacere (come i bambini
+
+sono), ci sia forse anche consentito chiamare tali persone amici, e
+
+Diciamo che vi sono diverse specie di Amicizia; primariamente e specialmente
+
+quello del bene, in quanto sono buone, e il resto solo in quel modo.
+
+di somiglianza: voglio dire, persone collegate altrimenti sono amici in ciò
+
+Maniera in cui sorge ad essi alcunché di buono e alcunché di reciproco.
+
+rassomiglianza (perché, dobbiamo ricordare che il piacevole è buono per coloro
+
+che ne sono amanti)
+
+Queste Amicizie secondarie, tuttavia, non si combinano molto bene; cioè
+
+vale a dire, le stesse persone non diventano amiche per ragione di vantaggio.
+
+e per cagione del piacevole, poiché queste cose di risultato non sono
+
+spesso combinate. E l'Amicizia, essendo stata divisa in questi generi,
+
+Gli uomini malvagi saranno amici per ragione di piacere o di profitto, essendo questo.
+
+il loro punto di somiglianza; mentre i buoni sono amici per uno
+
+per amore di un altro, cioè in quanto sono buone.
+
+Questi ultimi possono essere chiamati astrattamente e semplicemente amici, i primi come
+
+una questione di risultato e chiamati amici dalla loro somiglianza a questi
+
+ultimo.
+
+<span class="atom-split" data-atom="120" data-title="Chapter VI. (parte 8)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
 
 Further; just as in respect of the different virtues some men are
 
@@ -11770,7 +23469,59 @@ quality which is thought to appertain to the Friendship of
 
 companionship.
 
-<span class="atom-split" data-atom="121" data-title="Chapter VII. (8/10)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Inoltre; così come rispetto alle differenti virtù alcuni uomini sono
+
+chiamate buone rispetto a un certo stato interiore, altre rispetto a
+
+atti di operare, così è rispetto all'[Amicizia](/concepts/friendship): voglio dire, essi che
+
+vivere insieme, godere gli uni degli altri, e impartire il bene gli uni agli altri: ma
+
+Coloro che dormono o sono localmente separati non compiono atti, ma
+
+Solo sono in tale stato da agire in modo amichevole se agissero a
+
+tutto: la distanza non ha di per sé alcun effetto diretto sull'Amicizia, ma solo
+
+impedisce il metterlo in atto: tuttavia, se l'assenza si protragga, è
+
+ritenuto causare un oblio anche dell'Amicizia: e quindi esso
+
+è stato detto: “molte e molte Amicizie mancano di commercio”
+
+distruggere.
+
+Pertanto, né i vecchi né i morosi sembrano essere calcolati per
+
+Amicizia, perché la piacevolezza in esse è piccola, e nessuno
+
+può trascorrere le sue giornate in compagnia di ciò che è positivamente doloroso o
+
+neppure piacevole; poiché evitare il doloroso e mirare al
+
+piacevole è una delle più ovvie tendenze della [natura umana](/axes/human_nature). Essi
+
+che vanno abbastanza d'accordo tra loro, ma non hanno l'abitudine di
+
+intimità, sono piuttosto come persone che provano sentimenti gentili verso uno
+
+altro dagli amici; nulla essendo così caratteristico degli amici quanto il
+
+vivendo gli uni con gli altri, perché i necessitosi desiderano assistenza, e
+
+la lieta compagnia, essendo essi le ultime persone al mondo per
+
+Esistenza solitaria: ma le persone non possono trascorrere il loro tempo insieme a meno che
+
+essi sono reciprocamente piacevoli e provano piacere negli stessi oggetti, un
+
+qualità che si ritiene appartenere all'Amicizia di
+
+compagnia.
+
+<span class="atom-split" data-atom="121" data-title="Chapter VII. (parte 8)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
 
 The connection then subsisting between the good is [Friendship](/concepts/friendship) _par
 
@@ -11904,7 +23655,141 @@ equal by a proportionate degree of Friendship. And characters who
 
 unite superiority of station and goodness are not common.
 
-<span class="atom-split" data-atom="122" data-title="Chapter VIII. (8/11)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Il legame allora sussistente tra i buoni è [Amicizia](/concepts/friendship)
+
+eccellenza_, come è già stato detto frequentemente: poiché ciò che è
+
+Si pensa che l'astrattamente buono o piacevole sia oggetto di Amicizia.
+
+e degno di scelta, e per ciascun individuo ciò che è tale per lui; e
+
+l'uomo buono all'uomo buono per entrambe queste ragioni.
+
+Ora l'intrattenere il sentimento è come una sensazione, ma l'Amicizia
+
+se stesso come uno stato: perché il primo può avere per suo oggetto anche
+
+cose inanimate, ma la ricompensa dell'Amicizia è accompagnata da morale
+
+scelta che procede da uno stato morale: e di nuovo, gli uomini desiderano il bene a
+
+gli oggetti della loro Amicizia per amor loro, non nel modo di un
+
+mero sentimento ma di stato morale.)
+
+E i buoni, amando il loro amico, amano il proprio bene (in quanto
+
+L'uomo buono, quando viene condotto in quella relazione, diventa un bene per lui.
+
+con cui egli è così connesso), così che ciascuna parte ami il proprio bene,
+
+e ripaga il suo amico ugualmente sia nel desiderare il bene che nel
+
+piacevole: poiché l'uguaglianza è detta un legame di Amicizia. Bene,
+
+Questi punti appartengono soprattutto all'Amicizia tra gli uomini buoni.
+
+Ma tra uomini morosi o anziani, l'Amicizia è meno incline a sorgere,
+
+perché sono di temperamento alquanto scontroso, e trovano meno piacere in
+
+commercio e società; essendo questi ritenuti particolarmente amichevoli.
+
+e produttiva di Amicizia: e così i giovani diventano amici rapidamente,
+
+vecchi non così (perché gli uomini non diventano amici di nessuno, a meno che
+
+essi provano piacere in essi); e parimenti nemmeno i morosi.
+
+Eppure gli uomini di queste classi nutrono sentimenti benevoli gli uni verso gli altri:
+
+Desiderano il bene gli uni agli altri e si rendono mutua assistenza in rispetto.
+
+dei loro bisogni, ma non sono del tutto amici, perché essi né
+
+trascorrere il loro tempo insieme né provare piacere l'uno nell'altro, il che
+
+Le circostanze sono ritenute appartenere specialmente all'Amicizia.
+
+Essere amico a molte persone, nel modo della perfetta Amicizia, è
+
+non possibile; proprio come non si può essere innamorati di molti allo stesso tempo: è,
+
+per così dire, uno stato di eccesso che naturalmente non ha che un solo oggetto; e
+
+del resto, non è cosa facile che un uomo sia molto compiaciuto
+
+con molte persone allo stesso tempo, né forse di trovare molti davvero
+
+Bene. Ancora, un uomo ha bisogno di esperienza, e di essere in abitudini di attenta
+
+intimità, che è molto difficile.
+
+Ma è possibile piacere a molti in fatto di vantaggio e
+
+piacere: perché ci sono molti uomini di tal genere, e i servigi possono
+
+essere reso in brevissimo tempo.
+
+Dei due generi imperfetti quello che più somiglia al perfetto è il
+
+L'amicizia fondata sul piacere, nella quale gli stessi risultati derivano da
+
+entrambi e provano piacere l'uno nell'altro o negli stessi oggetti; tale
+
+Tali sono le Amicizie dei giovani, perché uno spirito generoso è sommamente
+
+Trovata in queste. L'amicizia per vantaggio è il congiungimento.
+
+legame di bottegai.
+
+E d'altra parte, i felicissimi non hanno bisogno di persone che siano utili,
+
+ma di piacevoli essi hanno perché desiderano avere persone da vivere.
+
+intimamente con; e ciò che è doloroso sopportano per breve tempo, in verità,
+
+ma continuamente nessuno poteva sostenerlo, anzi, nemmeno il Sommo Bene.
+
+esso stesso, se fosse doloroso per lui individualmente: e così guardano fuori
+
+Quanto agli amici piacevoli: forse dovrebbero esigere che tali siano buoni.
+
+anche; e buone inoltre per loro stessi individualmente, perché allora essi
+
+avrà tutti i requisiti propri dell'Amicizia.
+
+Gli uomini al potere sono spesso visti servirsi di diversi amici distinti:
+
+poiché alcune sono utili a loro e altre piacevoli, ma le due non sono la stessa cosa.
+
+spesso uniti: perché essi non cercano, in effetti, coloro che si uniranno.
+
+piacevolezza e bontà, né tali che saranno utili per l'onorevole.
+
+purposes: ma al fine di conseguire ciò che è piacevole essi cercano
+
+uomini di facile piacevolezza; e ancora, per gli uomini abili nell'eseguire
+
+qualsiasi affare messo nelle loro mani: e queste qualità non sono
+
+comunemente trovati uniti nello stesso uomo.
+
+È stato già detto che l'uomo buono unisce le qualità di
+
+Piacevolezza e utilità: ma allora un tale non sarà un amico.
+
+a un superiore a meno che egli non sia anche suo superiore in bontà: poiché se questo
+
+non sia il caso, egli non può, essendo superato in un punto, fare cose
+
+uguali per un grado proporzionato di Amicizia. E personaggi che
+
+Coloro che uniscono superiorità di rango e bontà non sono comuni.
+
+<span class="atom-split" data-atom="122" data-title="Chapter VIII. (parte 8)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
 
 Now all the kinds of [Friendship](/concepts/friendship) which have been already mentioned exist
 
@@ -12158,7 +24043,261 @@ However, let us drop these questions, because they are in fact somewhat
 
 foreign to our purpose.
 
-<span class="atom-split" data-atom="123" data-title="Chapter IX. (8/9)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora tutte le specie di [Amicizia](/concepts/friendship) che sono già state menzionate esistono.
+
+in uno stato di eguaglianza, in quanto o gli stessi risultati spettano a
+
+Entrambi, e desiderano le stesse cose l'uno per l'altro, oppure barattano.
+
+una cosa contro un'altra; il piacere, per esempio, contro il profitto: esso
+
+è già stato detto che le Amicizie di quest'ultimo genere sono meno
+
+Intenso nel grado e meno permanente.
+
+Ed è la loro somiglianza o dissomiglianza con la stessa cosa che
+
+li fa essere ritenuti essere e non essere Amicizie: essi mostrano
+
+simili alle Amicizie in virtù della loro somiglianza a ciò che è basato su
+
+virtù (l'una avente il piacevole, l'altra il proficuo,
+
+entrambe le quali appartengono anche all'altro); e ancora, non mostrano
+
+simili alle Amicizie per la loro dissimiglianza da quel vero genere; che
+
+la diversità consiste in ciò, che mentre quello è al di sopra della calunnia e così
+
+Permanenti questi rapidamente cambiano e differiscono in molti altri punti.
+
+Ma v'è un'altra forma di Amicizia, quella, cioè, in cui l'uno
+
+una parte è superiore all'altra; come tra padre e figlio, il maggiore e
+
+più giovani, marito e moglie, governante e governato. Anche questi differiscono uno da
+
+altro: voglio dire, l'Amicizia tra genitori e figli non è la
+
+lo stesso che tra governante e governato, né ha il padre lo stesso
+
+verso il figlio come il figlio verso il padre, né il marito verso
+
+la moglie come ella verso di lui; perché il lavoro, e quindi il
+
+eccellenza, di ciascuna di queste è differente, e differenti quindi sono
+
+le cause del loro sentire l'Amicizia; distinte e differenti
+
+Pertanto sono i loro sentimenti e stati di Amicizia.
+
+E gli stessi risultati non derivano a ciascuno dall'altro, né in effetti
+
+dovrebbero essere cercati: ma, quando i figli rendono ai loro genitori
+
+ciò che debbono agli autori del proprio essere, e i genitori ai propri
+
+figli ciò che devono alla loro prole, l'Amicizia tra tali
+
+Le parti saranno permanenti ed eque.
+
+Oltre a ciò; il sentimento dell’Amicizia dovrebbe essere in una debita proporzione in tutto.
+
+Amicizie che sono tra superiore e inferiore; intendo, il migliore.
+
+l'uomo, o il più utile, e così via, dovrebbe essere l'oggetto di un
+
+sentimento più forte di quanto egli stesso ne provi, perché quando il sentimento
+
+dell'Amicizia viene ad essere dopo un certo rate poi l'uguaglianza in un
+
+Viene prodotto un certo senso, che è ritenuto essere un requisito in.
+
+Amicizia.
+
+(Si deve ricordare, tuttavia, che l'uguale non è nella stessa condizione)
+
+Riguardo alla Giustizia e all'Amicizia: poiché nella stretta Giustizia l'esattamente
+
+L'uguale proporzionato viene primo, e l'attuale numericamente uguale viene.
+
+secondo, mentre nell'Amicizia questo è esattamente invertito.)
+
+E che quell'uguaglianza sia così necessaria è chiaramente dimostrato dall'occorrenza.
+
+di una grande differenza di bontà o di malvagità, o di prosperità, o
+
+qualcos'altro: perché in questo caso, le persone non sono più amici,
+
+Anzi non sentono nemmeno che dovrebbero esserlo. Il più chiaro.
+
+L'illustrazione è forse il caso degli dèi, perché essi sono i più
+
+superiore in tutte le cose buone. È evidente anche nel caso dei re,
+
+perché coloro i quali sono di gran lunga loro inferiori non si sentono in diritto di essere.
+
+amici a loro; né sono le persone molto insignificanti da essere amici a
+
+quelli di altissima eccellenza o saggezza. Naturalmente, in tali casi è
+
+È fuori questione tentare di definire fino a che punto essi possano
+
+Continuate, amici: poiché potete rimuovere molti punti di accordo e il
+
+L'amicizia dura tuttavia; ma quando una delle parti è molto lontana
+
+separato (come un dio dagli uomini), non può continuare oltre.
+
+Questo ha dato adito a un dubbio, se gli amici desiderino davvero di
+
+i loro amici i sommissimi beni, sì che essi possano essere dèi:
+
+perché, nel caso in cui il desiderio fosse esaudito, non avrebbero più
+
+li per amici, né in effetti avrebbero i beni che avevano,
+
+perché gli amici sono cose buone. Se quindi è stato rettamente detto che
+
+un amico desidera al suo amico cose buone per amore di quell'amico, esso
+
+Deve intendersi ch'egli debba rimanere tale quale egli è ora: cioè a
+
+dica, egli vorrà il bene massimo a colui del quale, in quanto uomo, è capace
+
+capace: eppure forse non tutti, perché ciascun uomo desidera il bene per sé.
+
+Soprattutto.
+
+Si pensa che il desiderio d'onore faccia sì che la massa degli uomini voglia piuttosto
+
+Essere gli oggetti del sentimento di Amicizia piuttosto che intratenerlo.
+
+se stessi (e per questa ragione sono affezionati agli adulatori, un
+
+adulatore essendo un amico inferiore o almeno fingendo di esserlo e
+
+piuttosto nutrire verso un altro il sentimento dell'Amicizia che
+
+essere egli stesso l'oggetto di essa), poiché il primo è ritenuto quasi
+
+lo stesso che essere onorati, ciò che la massa degli uomini desidera. Eppure gli uomini
+
+sembrano scegliere l'onore, non per se stesso, ma incidentalmente: io
+
+Cioè, la moltitudine degli uomini si compiace di essere onorata da coloro che detengono il potere.
+
+a causa della speranza che suscita; cioè essi pensano che otterranno da
+
+a loro qualsiasi cosa possano trovarsi ad abbisognare, così si dilettano in
+
+onore come pegno di beneficio futuro. Coloro invece che bramano l'onore
+
+per mano dei buoni e di coloro che sono realmente familiari con i loro
+
+i meriti desiderano confermare la propria opinione su se stessi: così essi
+
+prendere piacere nella convinzione di essere buoni, che si basa su
+
+l'enunciato di coloro che lo asseriscono. Ma nell'essere gli oggetti di
+
+L'amicizia diletta gli uomini per se stessa, e così questo può essere giudicato
+
+essere superiore all'essere onorati e l'Amicizia essere in sé.
+
+degno di scelta. L'amicizia, inoltre, è ritenuta consistere nel sentimento.
+
+piuttosto che essere l'oggetto di, il sentimento dell'Amicizia, che è
+
+provato dal diletto che le madri provano in quel sentimento: alcune ve ne sono che
+
+dare i propri figli ad altri perché li adottino e li allevino, e sapendo
+
+Che essi nutrano questo sentimento verso di loro, senza mai cercare di essere contraccambiati.
+
+se entrambe le cose non sono possibili; ma sembrando di accontentarsi nel vederle
+
+benestanti e provando essi stessi questo sentimento verso di loro, anche se
+
+essi, per cagione d'ignoranza, non rendono mai loro alcun riguardo filiale o
+
+Amore.
+
+Onde l'Amicizia consiste piuttosto nell'amare che nell'essere amati.
+
+l'oggetto di, il sentimento, e sono lodati coloro che sono affezionati
+
+i loro amici, sembra che intrattenere il sentimento sia il
+
+Eccellenza di amici; e così, in chiunque questa esista a dovere
+
+proporzione questi sono amici stabili e la loro Amicizia è permanente.
+
+E in questo modo possano coloro che sono disuguali essere amici nel modo migliore, perché essi
+
+possa così essere reso uguale.
+
+L'uguaglianza, dunque, e la somiglianza sono un legame per l'Amicizia, e specialmente
+
+la somiglianza della bontà, perché gli uomini buoni, essendo stabili nel
+
+essi stessi, sono anche stabili riguardo agli altri, e neppure chiedono.
+
+degradare i servizi né renderli, ma, per così dire, piuttosto prevenire
+
+loro: poiché è parte del buono né commettere il male essi stessi né
+
+di permettere ai loro amici nel far ciò.
+
+I cattivi, al contrario, non hanno alcun principio di stabilità: infatti, essi
+
+non continuano nemmeno come sé stessi: solo essi vengono a essere amici per
+
+a breve tempo dal prendere diletto nella malvagità l’uno dell’altro. Quelli
+
+collegati da motivi di profitto, o di piacere, si tengono insieme alquanto
+
+più a lungo: tanto a lungo, vale a dire, quanto possono dare piacere o profitto.
+
+reciprocamente.
+
+L'amicizia fondata su motivi di profitto è ritenuta la più intensa di tutte.
+
+formato da elementi contrari: il povero, per esempio, è così un
+
+amico dei ricchi, e l'ignorante dell'uomo informato; cioè
+
+vale a dire, un uomo che desidera ciò di cui egli è, come accade, privo,
+
+dà qualcos'altro in cambio di ciò. A questa stessa classe possiamo
+
+Riferire l'amante e l'amato, il bello e il brutto. Poiché
+
+Per questa ragione gli amanti talvolta si mostrano in una luce ridicola col pretendere di
+
+essere gli oggetti di un sentimento tanto intenso quanto quello che essi stessi provano: di
+
+certo se essi sono ugualmente degni oggetti di Amicizia essi sono forse
+
+aventi diritto a sostenere questo, ma se non hanno nulla del genere è
+
+ridicolo.
+
+Forse, inoltre, il contrario non mira al suo contrario per il suo.
+
+per se stesso ma incidentalmente: il giusto mezzo è veramente ciò a cui si mira; esso
+
+essere buono per il secco, per esempio, non per diventare bagnato ma per attingere
+
+il mezzo, e così del caldo, ecc.
+
+Tuttavia, lasciamo da parte queste questioni, perché in effetti sono alquanto
+
+estraneo al nostro scopo.
+
+<span class="atom-split" data-atom="123" data-title="Chapter IX. (parte 8)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
 
 It seems too, as was stated at the commencement, that [Friendship](/concepts/friendship) and
 
@@ -12260,7 +24399,109 @@ great Social one: and corresponding Friendships will follow upon such
 
 Communions.
 
-<span class="atom-split" data-atom="124" data-title="Chapter X. (6/7)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Sembra pure, come fu detto al principio, che [Amicizia](/concepts/friendship) e
+
+La giustizia hanno lo stesso oggetto-materia, e sussistono tra le stesse.
+
+persone: intendo dire che in ogni Comunione si pensa che ci sia qualcosa
+
+principio di Giustizia e anche una certa Amicizia: gli uomini si rivolgono come amici,
+
+per esempio, quelli che sono loro compagni per mare, o in guerra, e in
+
+Similmente anche coloro che sono condotti in Comunione con loro in
+
+altri modi: e l'Amicizia, perché anche la Giustizia, è
+
+coestensivo con la Comunione, Questo giustifica il proverbio comune,
+
+«i beni degli amici sono comuni», poiché l'Amicizia si fonda su
+
+Comunione.
+
+Ora fratelli e compagni intimi hanno tutto in comune, ma altro.
+
+Le persone hanno la loro proprietà separata, e alcuni hanno più in comune e
+
+altri meno, perché le Amicizie ugualmente differiscono per grado. Così pure
+
+fanno i vari principi di Giustizia coinvolti, non essendo gli stessi
+
+tra genitori e figli come tra fratelli, né tra
+
+compagni come tra concittadini semplicemente, e così via di tutti i
+
+altre amicizie concepibili. Diversi sono anche i principi di
+
+L'ingiustizia riguardo a questi diversi gradi, e gli atti diventano
+
+intensificato dall'essere fatto agli amici; per esempio, è peggio derubare
+
+Il tuo compagno piuttosto che chi è semplicemente un concittadino; rifiutare aiuto
+
+a un fratello che a uno straniero; e colpire tuo padre che chiunque altro
+
+Altro. Così allora la Giustizia aumenta naturalmente col grado di
+
+L'amicizia, in quanto è tra le stesse parti e di uguale estensione.
+
+Tutti i casi di Comunione sono parti, per così dire, della grande Sociale,
+
+poiché in essi gli uomini si associano in vista di qualche vantaggio e a
+
+procuratevi alcune di quelle cose che sono necessarie alla vita; e le grandi
+
+Si pensa che la Comunione Sociale sia stata originariamente associata e a
+
+continuare per amore di qualche vantaggio: essendo questo il punto in cui
+
+I legislatori mirano, affermando che sia giusto ciò che è generalmente
+
+espediente.
+
+Tutti gli altri casi di Comunione mirano a un vantaggio in particolari punti;
+
+l'equipaggio di un vascello a ciò che è per risultare dal viaggio che
+
+è intrapresa in vista di guadagnare denaro, o qualche simile scopo;
+
+compagni nella guerra a ciò che deve risultare dalla guerra, afferrando
+
+o alla ricchezza o alla vittoria, oppure può essere una posizione politica; e
+
+Quelli della stessa tribù, o Demus, similmente.
+
+Alcune di esse si ritiene che siano formate per amor del piacere, quelle, per
+
+per esempio, di baccanti o di compagni di club, che sono in vista di
+
+Sacrificio o mera compagnia. Ma tutte queste sembrano essere annoverate sotto il
+
+grande Sociale, in quanto lo scopo di questa è, non meramente il
+
+l'opportunità del momento ma, per la vita e in ogni tempo; in vista di
+
+che i membri di essa istituiscono sacrifici e i loro annessi
+
+assemblee, per rendere onore agli dei e procurare per sé
+
+riposo dalla fatica unito al piacere. Poiché appare che
+
+I sacrifici e le assemblee religiose nei tempi antichi erano fatti come una sorta di
+
+primizie dopo la raccolta delle messi, perché a tale
+
+stagioni in cui avevano più ozio.
+
+Dunque appare che tutte le istanze di Comunione sono parti del
+
+grande Sociale: e corrispondenti Amicizie seguiranno a tale
+
+Comunioni.
+
+<span class="atom-split" data-atom="124" data-title="Chapter X. (parte 6)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
 
 Of Political Constitutions there are three kinds; and equal in number
 
@@ -12378,7 +24619,125 @@ which have no head (all being there equal), or in which the proper head
 
 is weak and so every member does that which is right in his own eyes.
 
-<span class="atom-split" data-atom="125" data-title="Chapter XI. (6/7)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Delle costituzioni politiche vi sono tre specie; e uguali in numero.
+
+sono le deviazioni da esse, essendo, per così dire, corruzioni di esse.
+
+Le prime sono la monarchia, l'aristocrazia, e quella che riconosce la
+
+principio della ricchezza, che sembra opportuno chiamare Timocrazia (I
+
+dare ad esso il nome di una costituzione politica perché la gente comunemente
+
+farlo). Di queste la migliore è la Monarchia, e la Timocrazia la peggiore.
+
+Dalla Monarchia la deviazione è il Dispotismo; essendo entrambe Monarchie ma
+
+differendo grandemente gli uni dagli altri; imperocché il Despota mira al suo proprio.
+
+vantaggio, ma il Re a quello dei suoi sudditi: poiché egli in realtà non è
+
+Re che non sia del tutto indipendente e superiore agli altri in tutto
+
+cose buone, e colui che è questo non ha ulteriori bisogni: egli non vorrà allora
+
+deve guardare al proprio vantaggio ma a quello dei suoi sudditi, poiché egli
+
+Ciò che non è in tale posizione è un mero Re eletto a sorte per il
+
+occasione.
+
+Ma il Dispotismo è su un piede contrario a questa Monarchia, perché il
+
+Il despota persegue il proprio bene: e nel caso di questo la sua inferiorità è
+
+evidentissimo, e ciò che è peggio è contrario a ciò che è migliore. Il
+
+Il passaggio al dispotismo avviene dalla regalità, essendo il dispotismo una
+
+forma corrotta di Monarchia, vale a dire, il cattivo Re viene a essere un
+
+Despota.
+
+Dall'Aristocrazia all'Oligarchia la transizione è fatta per colpa di.
+
+i Governanti nel distribuire la proprietà pubblica contro diritto.
+
+proporzione; e dando o tutto ciò che è buono, o la parte maggiore,
+
+a se stessi; e gli uffici alle stesse persone sempre, facendo
+
+la ricchezza loro idolo; così pochi reggono ed essi cattivi uomini nel luogo.
+
+dei migliori.
+
+Dalla timocrazia il passaggio è alla democrazia, essendo esse contigue:
+
+Giacché è nella natura della Timocrazia di essere nelle mani di una moltitudine.
+
+e tutti nello stesso grado di proprietà sono uguali. La democrazia è la meno.
+
+Il più vizioso di tutti, poiché in ciò la forma della costituzione subisce
+
+minimo cambiamento.
+
+Ebbene, questi sono generalmente i cambiamenti a cui i vari
+
+Le costituzioni sono soggette, essendo le minime in grado e le più facili a
+
+fare.
+
+Somiglianze, e, per così dire, modelli di esse, si possono trovare anche in
+
+Vita domestica: per esempio, la Comunione tra un Padre e il suo
+
+I figli presentano la figura della Regalità, perché i bambini sono i
+
+La cura del Padre: e quindi Omero [nomina](/positions/nominalism) Giove Padre perché la regalità è
+
+destinata a essere una regola paterna. Presso i Persiani, tuttavia, la
+
+Il dominio del padre è dispotico, poiché trattano i loro figli come schiavi. (Il
+
+La relazione del Padrone verso gli Schiavi è della natura del Dispotismo perché il
+
+punto considerato qui è l’interesse del Maestro): questo ora mi colpisce a
+
+sia come si conviene, ma il persiano [costume](/concepts/custom) di essere in errore; perché per
+
+A differenti persone vi dovrebbero essere differenti regole.
+
+Tra marito e moglie il rapporto assume la forma dell'Aristocrazia,
+
+perché egli governa di diritto e in tali punti soltanto come il Marito.
+
+dovrebbe, e dà alla Moglie tutto ciò che le si addice avere. Dove il
+
+Il marito la fa da padrone in ogni cosa, egli cambia la relazione in un
+
+Oligarchia; perché lo fa contro il diritto e non come essendo il
+
+il migliore dei due. In alcuni casi le Mogli prendono le redini di
+
+governo, essendo ereditiere: qui il dominio si trasmette non per diritto
+
+della bontà, ma per ragione di ricchezza e potere, come è nelle oligarchie.
+
+La timocrazia trova il suo tipo nella relazione dei Fratelli: essendo essi uguali.
+
+eccetto che per quanto riguarda quelle differenze che l'età introduce: per la qual cosa, se
+
+sono molto diversi per età, l'[Amicizia](/concepts/friendship) giunge a non essere più un
+
+quello fraterno: mentre la Democrazia è rappresentata specialmente dalle famiglie.
+
+che non hanno capo (essendo tutti lì eguali), o in cui il capo proprio
+
+è debole e così ogni membro fa ciò che è retto ai propri occhi.
+
+<span class="atom-split" data-atom="125" data-title="Chapter XI. (parte 6)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
 
 Attendant then on each form of Political Constitution there plainly is
 
@@ -12468,7 +24827,97 @@ are inconsiderable in extent, but in Democracies they are most
 
 considerable because they who are equal have much in common.
 
-<span class="atom-split" data-atom="126" data-title="Chapter XII. (5/6)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Concomitante poi ad ogni forma di Costituzione Politica chiaramente v'è.
+
+[Amicizia](/concepts/friendship) esattamente coestensiva con il principio della Giustizia; ciò
+
+tra un Re e i suoi Sudditi essendo nel rapporto di una superiorità
+
+di beneficio, in quanto giova ai suoi sudditi; essendo assunto che
+
+Egli è un buon re e provvede al loro benessere come un pastore pasce.
+
+il suo gregge; donde Omero (per citarlo di nuovo) chiama Agamennone, “pastore
+
+del popolo.” E di questo stesso genere è l'Amicizia Paterna, solo.
+
+che supera la prima nella grandezza dei benefici compiuti;
+
+perché il padre è autore dell'essere (che è stimato il
+
+sommo beneficio) e del mantenimento e dell'[educazione](/concepts/education) (queste cose sono
+
+anche, tra l'altro, attribuito agli antenati in generale): e per la legge di
+
+Per natura il padre ha il diritto di dominio sopra i suoi figli, gli antenati sopra
+
+i loro discendenti, e il re sui suoi sudditi.
+
+Queste amicizie sono anche tra superiori e inferiori, per le quali
+
+ragione per cui i genitori non sono soltanto amati ma anche onorati. Il principio di
+
+La giustizia anche tra queste parti non è esattamente la stessa ma
+
+secondo la proporzione, perché tale è anche l'Amicizia.
+
+Ora tra Marito e Moglie vi è la stessa Amicizia come in.
+
+Aristocrazia: poiché la relazione è determinata dall'eccellenza relativa, e
+
+La persona migliore ha il bene maggiore e ciascuno ha ciò che gli si addice: così pure
+
+Anche è il principio della Giustizia fra loro.
+
+L'Amicizia Fraterna è simile a quella dei Compagni, perché fratelli.
+
+sono uguali e pressappoco della stessa età, e tali persone hanno generalmente simili
+
+sentimenti e simili disposizioni. Simile a questo è anche l'Amicizia di
+
+una Timocrazia, perché i cittadini sono destinati a essere uguali e
+
+equo: dominio, quindi, passa di mano in mano, ed è
+
+Distribuita a pari condizioni: così pure è l'Amicizia di conseguenza.
+
+Nelle deviazioni dalle forme costituzionali, così come il principio
+
+della Giustizia non è che piccola, così pure l'Amicizia: e meno che mai in
+
+la forma più pervertita: nel Dispotismo vi è poca o nessuna Amicizia.
+
+Infatti in generale, ovunque il governante e il governato non hanno nulla in comune.
+
+non v'è Amicizia perché non v'è Giustizia; ma il caso è come
+
+tra un artigiano e il suo strumento, o tra [anima e corpo](/axes/soul_body), e padrone
+
+e schiavo; tutti questi ricevono beneficio da coloro che li usano, ma verso
+
+cose inanimate non vi è né Amicizia né Giustizia: né anche
+
+verso un cavallo o un bue, o uno schiavo quâ schiavo, perché vi è
+
+nulla in comune: uno schiavo in quanto tale è uno strumento animato, uno strumento un
+
+schiavo inanimato. Quâ schiavo, quindi, non vi è Amicizia verso di lui,
+
+solo in quanto uomo: poiché si pensa che vi sia qualche principio di
+
+Giustizia fra ogni uomo, e ogni altro che possa avere parte nella legge ed essere.
+
+una parte di un accordo; e così qualcosa di Amicizia, in quanto egli
+
+È l'uomo. Così nei Dispotismi le Amicizie e il principio di Giustizia.
+
+sono inconsiderevoli in estensione, ma nelle Democrazie sono massime.
+
+Considerevole perché coloro che sono uguali hanno molto in comune.
+
+<span class="atom-split" data-atom="126" data-title="Chapter XII. (parte 5)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en"></span>
 
 Now of course all [Friendship](/concepts/friendship) is based upon Communion, as has been
 
@@ -12624,7 +25073,163 @@ of Justice between a friend and friend, as between strangers, or
 
 companions, or mere [chance](/concepts/fortune) fellow-travellers.
 
-<span class="atom-split" data-atom="127" data-title="Chapter XIII. (4/4)" data-chapter="Chapter XIII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora naturalmente tutta [Amicizia](/concepts/friendship) è basata sulla Comunione, come è stato
+
+già affermato: ma si sarebbe inclini a separare dal resto
+
+l'Amicizia dei Parenti, e quella dei Compagni: laddove quelle degli uomini
+
+della medesima città, o tribù, o ciurma, e tutti questi, sono più particolarmente,
+
+Sembrerebbe, sulla base della Comunione, in quanto essi esistono chiaramente in
+
+diritto di qualche accordo espresso o implicito: tra questi si può annoverare
+
+anche l'Amicizia dell'Ospitalità,
+
+L'amicizia dei parenti è parimente di molte maniere, e appare in tutte.
+
+le sue varietà dipendere dal Parentale: i genitori, voglio dire, amano i loro
+
+i bambini in quanto parte di se stessi, i bambini amano i loro genitori come
+
+essendo essi stessi in qualche modo derivati da loro. Ma i genitori conoscono il loro
+
+i figli più di questi sanno che provengono dai genitori, e il
+
+la fonte è più strettamente legata a ciò che è prodotto che a ciò che
+
+è prodotto sta a ciò che lo ha formato: naturalmente, qualunque cosa è derivata
+
+dal proprio sé è proprio di ciò da cui è così derivato (come, per
+
+esempio, un dente o un capello, o qualsivoglia altra cosa a colui che
+
+lo ha): ma la fonte di esso non è in alcun grado propria, o in una inferiore.
+
+grado almeno.
+
+D'altronde entra in gioco la maggiore lunghezza del tempo: i genitori amano i loro
+
+prole dal primo momento del loro essere, ma la loro prole
+
+li solo dopo un lasso di tempo quando hanno raggiunto l'intelligenza o
+
+istinto. Queste considerazioni servono anche a mostrare perché le madri hanno
+
+maggiore forza di affetto che i padri.
+
+Ora i genitori amano i loro figli come se stessi (poiché ciò che deriva
+
+da se stessi diventa una sorta di altro Sé per il fatto di
+
+separazione), ma i figli i loro genitori come essendo discesi da loro. E
+
+i fratelli si amano l'un l'altro per essere germogliati dal medesimo; cioè,
+
+La loro identità con il ceppo comune crea un'identità con l'uno.
+
+un altro; donde vengono le espressioni “stesso sangue,” “radice,” e così via.
+
+In effetti, in un certo senso, sono lo stesso, anche nel separato distinto.
+
+individui.
+
+Inoltre l'essere allevati insieme, e la vicinanza d'età, sono
+
+un grande aiuto verso l'Amicizia, perché un uomo ama uno della sua stessa età e
+
+Coloro che sono avvezzi gli uni agli altri sono compagni, il che spiega
+
+la somiglianza tra l'Amicizia dei Fratelli e quella di
+
+Compagni.
+
+E i cugini e tutti gli altri parenti traggono il loro legame di unione da.
+
+questi, vale a dire, dalla loro comunità di origine: e la forza
+
+di questo legame varia secondo le loro rispettive distanze dalla
+
+antenato comune.
+
+Inoltre: l'Amicizia provata dai figli verso i genitori, e dagli uomini
+
+verso gli dèi, è come verso qualcosa di buono e superiore a loro; perché
+
+questi hanno conferito i massimi benefici possibili, in quanto sono
+
+le cause del loro essere e dell'essere nutriti, e del loro essere stati
+
+educati dopo che furono portati in essere.
+
+E l'Amicizia di questo genere ha anche il piacevole e l'utile.
+
+più di quello tra persone non legate da sangue, nella misura in cui
+
+La loro vita è anche più condivisa in comune. Poi di nuovo nel Fraterno.
+
+L'amicizia è tutto ciò che vi è in quella dei Compagni, e di più.
+
+nei buoni, e generalmente in quelli che sono simili; nella misura in cui
+
+Essi sono più strettamente legati e fin dalla loro stessa nascita hanno un sentimento di
+
+affetto reciproco per cominciare, e poiché sono più simili in
+
+disposizione che provengono dallo stesso ceppo e sono cresciuti insieme
+
+e sono stati educati allo stesso modo: e oltre a ciò hanno il massimo
+
+opportunità rispetto al tempo per provarsi a vicenda, e possono
+
+Adunque dipendete con la massima sicurezza dalla prova.
+
+Tra marito e moglie si ritiene che vi sia amicizia per una legge di
+
+natura: essendo l'uomo per natura disposto ad accoppiarsi, più che ad associarsi in
+
+Comunità: nella misura in cui la famiglia è anteriore nell'ordine del tempo e
+
+più assolutamente necessaria della Comunità. E la procreazione è più
+
+comune a lui con gli altri animali; tutti gli altri animali hanno la Comunione
+
+fin qui, ma le creature umane coabitano non semplicemente per amore di
+
+procreazione ma anche in vista della vita in generale:: perché in
+
+questa connessione le opere sono immediatamente divise, e alcune appartengono a
+
+l'uomo, altri alla donna: così si aiutano l'un l'altro, mettendo
+
+ciò che è peculiare a ciascuno nel fondo comune.
+
+E per queste ragioni questa Amicizia è ritenuta unire il
+
+il profittevole e il piacevole: sarà anche basato sulla virtù se
+
+sono brave persone; perché ciascuno ha bontà e possono prendere
+
+Compiacersi di questa qualità l'uno nell'altro. Anche i bambini sono ritenuti essere un
+
+legame: di conseguenza i senza figli si separano prima, poiché i figli sono un
+
+Il bene comune a entrambi e tutto ciò che è in comune è un legame di unione.
+
+La questione di come un uomo debba vivere con sua moglie, o (più in generale)
+
+un amico con un altro, appare non essere altro che questo, come stanno le cose
+
+Soltanto che dovrebbero: perché manifestamente non v'è lo stesso principio.
+
+della Giustizia tra amico e amico, come tra estranei, o
+
+compagni, o meri [casuali](/concepts/fortune) compagni di viaggio.
+
+<span class="atom-split" data-atom="127" data-title="Chapter XIII. (parte 4)" data-chapter="Chapter XIII." data-kind="atom" data-srclang="en"></span>
 
 There are then, as was stated at the commencement of this book, three
 
@@ -12798,7 +25403,181 @@ standard, since virtue and moral character depend principally on
 
 motive.
 
-<span class="atom-split" data-atom="128" data-title="Chapter XIV. (3/3)" data-chapter="Chapter XIV." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Vi sono dunque, come fu dichiarato al principio di questo libro, tre
+
+specie di [amicizia](/concepts/friendship), e in ciascuna possono esservi amici su un piano di
+
+uguaglianza e amici nel rapporto di superiore e inferiore; troviamo,
+
+Voglio dire, che le persone simili in bontà, diventano amici, e
+
+migliore con peggiore, e così anche le persone piacevoli; inoltre, a causa di
+
+gli uomini di vantaggio sono amici, bilanciando esattamente il loro mutuo
+
+profittevolezza o differendo l'uno dall'altro in ciò. Orbene, quelli
+
+i quali sono uguali dovrebbero per diritto di questa uguaglianza essere uguagliati anche dal
+
+grado della loro Amicizia e gli altri punti, e quelli che sono su un
+
+piede di disuguaglianza rendendo l'Amicizia in proporzione al
+
+superiorità dell'altra parte.
+
+Il trovar difetti e il biasimo sorge, o esclusivamente o nel modo più naturale, in
+
+Amicizia di cui l'[utilità](/positions/utility_pleasure) è il movente: poiché coloro che sono amici per
+
+ragione di bontà, sono desiderosi di fare gentilezze gli uni agli altri perché
+
+questo è un risultato naturale della bontà e dell'Amicizia; e quando gli uomini sono
+
+gareggiando gli uni con gli altri per questo Fine, non si può trovar da ridire né
+
+affermazione: poiché nessuno è infastidito da colui che intrattiene per lui il
+
+sentimento di amicizia e fa gentilezze a lui, ma se di un raffinato
+
+Ponete mente che egli lo ricompensi con azioni gentili. E supponiamo che uno dei due
+
+eccede l'altro, tuttavia mentre egli sta conseguendo il suo scopo non troverà.
+
+trovare difetto con il suo amico, poiché il bene è l'oggetto di ciascuna parte.
+
+Né possono ben esservi liti tra uomini che sono amici per
+
+per amor del piacere: perché supponendo che essi si dilettino a vivere insieme
+
+allora entrambi conseguono il loro desiderio; o se non, un uomo sarebbe messo in un
+
+ridicolo lume che dovrebbe trovar difetto in un altro per non piacere
+
+lui, poiché è in suo potere astenersi dal commercio con lui. Ma il
+
+L'amicizia per utilità è molto soggetta a critiche;
+
+perché, mentre le parti si usano a vicenda in vista di un vantaggio, il
+
+I requisiti sono in continuo ampliamento, ed essi credono di avere meno.
+
+di quanto di diritto appartiene loro, e trovano da ridire perché sebbene giustamente
+
+Aventi diritto essi non ottengono quanto vogliono: mentre coloro che fanno il
+
+gentilezze, non possono mai essere all'altezza delle esigenze di coloro a cui esse
+
+stanno essendo fatti.
+
+Sembra anche, che come il Giusto è di due specie, il non scritto e il
+
+legale, dunque l'Amicizia per vantaggio è di due specie, ciò che può essere.
+
+chiamato il Morale, e il Legale: e la più feconda fonte di
+
+Le lamentele è che le parti contraggono obbligazioni e non le adempiono.
+
+nella stessa linea dell'Amicizia. Il legale è su condizioni specificate,
+
+o puramente da bottegaio, di mano in mano, o alquanto più.
+
+Signorile per quanto riguarda il tempo, ma pur sempre per accordo un quid pro quo.
+
+In questo genere legale l'obbligo è chiaro e non ammette alcuna disputa.
+
+l'elemento favorevole è il ritardo nell'esigerne l'estinzione: e per
+
+questa ragione in alcuni paesi nessuna azione può essere mantenuta in giudizio per
+
+il recupero di tali debiti, essendo ritenuto che coloro che hanno trattato su
+
+Il fondamento del credito deve accontentarsi di attenderne l'esito.
+
+Ciò che può essere chiamato il genere Morale non è su specificato
+
+condizioni, ma un uomo dà come al suo amico e così via: ma egli ancora
+
+si aspetta di ricevere un equivalente, o anche di più, come se non avesse.
+
+dato ma prestato: egli pure troverà da ridire, perché non ottiene il
+
+Obbligazione adempiuta nello stesso modo in cui fu contratta.
+
+Ora questo deriva dal fatto, che tutti gli uomini, o la generalità a
+
+Almeno, desiderano ciò che è onorevole, ma, quando sono messi alla prova, scelgono ciò che è.
+
+profittevole; e il fare gentilezze disinteressatamente è onorevole.
+
+mentre ricevere benefici è profittevole. In tali casi si dovrebbe, se
+
+in grado di ricambiare proporzionalmente al bene ricevuto, e di farlo.
+
+volentieri, perché non si dovrebbe fare un amico disinteressato di un.
+
+l'uomo contro la sua inclinazione: si dovrebbe agire, dico, come avendo fatto una
+
+errore originariamente nel ricevere gentilezza da uno da cui si dovrebbe
+
+non averlo ricevuto, non essendo egli amico né facendo l’atto.
+
+disinteressatamente; uno dovrebbe quindi sgravarsi del
+
+obbligo come avendo ricevuto un favore a condizioni specificate: e se
+
+potendo un uomo si accingerebbe a ricambiare il favore, mentre se non potesse
+
+persino colui che lo compie non se lo aspetterebbe da lui: cosicché se egli è in grado
+
+egli dovrebbe restituirlo. Ma si dovrebbe in primo luogo accertare da chi
+
+Si sta ricevendo gentilezza, e su quale intesa, che su quella stessa
+
+La comprensione uno può accettarla o no.
+
+Una questione che ammette disputa è se si debba misurare una gentilezza.
+
+dal bene fatto al ricevente di esso, e farne il criterio per
+
+che contraccambiare, o per la benigna intenzione di chi lo fa?
+
+Ché coloro i quali hanno ricevuto benefizi sovente adducono in loro diminuizione.
+
+che essi hanno ricevuto dai loro benefattori tali cose quali erano
+
+piccoli per loro da dare, o tali quali essi stessi avrebbero potuto ottenere da
+
+altri: mentre coloro che compiono le gentilezze affermano di aver dato il
+
+il meglio che avevano, e ciò che non si sarebbe potuto ottenere dagli altri, e sotto
+
+pericolo, o in simili strette.
+
+Non possiamo forse dire, che siccome l'utilità è il motivo dell'amicizia, la
+
+il vantaggio conferito al ricevente deve essere lo standard? perché egli lo
+
+è chi richiede la gentilezza e l'altro lo serve nel suo bisogno su
+
+la comprensione che egli deve ricevere un equivalente: l'assistenza
+
+reso è allora esattamente proporzionato al vantaggio che il
+
+Il ricevente ha ottenuto, e dovrebbe quindi restituire tanto quanto egli
+
+guadagnato da ciò, o anche di più, essendo ciò più lodevole.
+
+Nelle Amicizie basate sulla bontà, la questione, naturalmente, non è mai
+
+Sollevato, ma in ciò il movente dell’agente sembra essere il proprio.
+
+criterio, poiché la virtù e il carattere morale dipendono principalmente da
+
+motivo.
+
+<span class="atom-split" data-atom="128" data-title="Chapter XIV. (parte 3)" data-chapter="Chapter XIV." data-kind="atom" data-srclang="en"></span>
 
 Quarrels arise also in those Friendships in which the parties are
 
@@ -12904,7 +25683,113 @@ unprofitable.
 
 Let thus much suffice on these points.
 
-<span class="atom-split" data-atom="129" data-title="Chapter I. (9/10)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Contese sorgono anche in quelle Amicizie in cui le parti sono
+
+ineguale perché ciascuna parte si reputa avente diritto al maggiore.
+
+condividere, e naturalmente, quando questo accade, l'[Amicizia](/concepts/friendship) è rotta.
+
+L'uomo che è migliore dell'altro pensa che l'avere il maggiore
+
+La parte gli spetta di diritto, poiché più è sempre assegnato al
+
+uomo buono: e similmente l'uomo che è più utile a un altro di quanto
+
+quell’altro a lui: “colui che è inutile,” dicono, “non dovrebbe avere parte”
+
+Parimenti, ché si riduce a un tributo, e non a un'Amicizia, se non i frutti
+
+della Amicizia si raccolgono in proporzione alle opere compiute:” loro
+
+essendo la nozione che, come in una società di denaro, coloro che contribuiscono di più
+
+Ricevere di più così dovrebbe essere nell'Amicizia parimenti.
+
+D'altra parte, l'uomo bisognoso e il meno virtuoso avanzano il
+
+affermazione opposta: essi sostengono che “è proprio il compito di un buono
+
+amico per aiutare coloro che sono nel bisogno, altrimenti a che serve avere un
+
+buono o potente amico se non se ne deve trarre alcun vantaggio?”
+
+Ora ciascuno sembra avanzare una giusta pretesa e avere diritto a ottenere di più.
+
+dalla connessione che l'altro, solo _non più dello stesso
+
+cosa_: ma l'uomo superiore dovrebbe ricevere più rispetto, l'uomo bisognoso
+
+più profitto: il rispetto essendo la ricompensa della bontà e della beneficenza,
+
+Il profitto essendo l'aiuto del bisogno.
+
+Questo è chiaramente il principio messo in pratica nelle Comunità Politiche: egli
+
+Non riceve onore chi non reca alcun bene al fondo comune: poiché il
+
+La proprietà del Pubblico è data a colui che fa del bene al Pubblico, e
+
+onore è proprietà del Pubblico; non è possibile insieme fare
+
+denaro dal Pubblico e ricevere altresì onore; perché nessuno
+
+sopporterà il meno in ogni rispetto: così a colui che subisce perdita
+
+Quanto al denaro, essi assegnano onore, ma denaro a colui che può essere pagato da.
+
+doni: poiché, come è stato detto prima, l'osservare la debita proporzione
+
+uguaglia e preserva l'Amicizia.
+
+Simili regole dunque dovrebbero essere osservate nel commercio degli amici che
+
+sono ineguali; e a colui che avvantaggia un altro rispetto al denaro, o
+
+bontà, che l'altro ripaghi con onore, facendo contraccambio secondo
+
+il suo potere; perché l'Amicizia richiede ciò che è possibile, non ciò che è
+
+Strettamente dovuto, non essendo ciò possibile in tutti i casi, come negli onori.
+
+Reso agli dei e ai genitori: nessun uomo potrebbe mai rendere il dovuto.
+
+in questi casi, e così è ritenuto un uomo buono che porta rispetto
+
+secondo la sua capacità.
+
+Per questa ragione si può giudicare che non sia mai lecito a un figlio di
+
+disconoscere suo padre, mentre un padre può suo figlio: perché colui che deve
+
+è tenuto a pagare; ora un figlio non può mai, per qualsiasi cosa abbia fatto, pienamente
+
+contraccambiare i benefici primamente conferitigli da suo padre, e così è
+
+Sempre debitore. Ma coloro ai quali è dovuto alcunché possono scrollarsi di dosso i loro.
+
+debitori: quindi il padre può suo figlio. Ma allo stesso tempo deve
+
+forse sia ammesso, che sembra che nessun padre mai si separerebbe da sé stesso.
+
+del tutto da un figlio, salvo che in un caso di eccessiva depravazione: perché,
+
+indipendentemente dalla naturale Amicizia, è come [natura umana](/axes/human_nature) non
+
+allontanare da sé l'assistenza che un figlio potrebbe rendere. Ma
+
+Al figlio, se depravato, assistere il padre è una cosa da evitare,
+
+o almeno una che egli non sarà molto desideroso di fare; essendo la maggior parte degli uomini
+
+abbastanza disposto a ricevere gentilezza, ma avverso a farlo come
+
+non redditizio.
+
+Basti tanto su questi punti.
+
+<span class="atom-split" data-atom="129" data-title="Chapter I. (parte 9)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
 
 Well, in all the Friendships the parties to which are dissimilar it is
 
@@ -13066,7 +25951,169 @@ now that he has it, but by that which he set upon it before he obtained
 
 it.
 
-<span class="atom-split" data-atom="130" data-title="Chapter II. (9/11)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ebbene, in tutte le Amicizie le parti delle quali sono dissimili è
+
+il proporzionato che eguaglia e preserva l'[Amicizia](/concepts/friendship), come ha
+
+è già stato detto: voglio dire, nell'Amicizia Sociale il calzolaio, poiché
+
+per esempio, ottiene un equivalente per le sue scarpe a un certo tasso; e
+
+Il tessitore, e tutti gli altri al pari. Ora in questo caso un comune
+
+La misura è stata fornita nel denaro, e a questo di conseguenza tutte le cose.
+
+sono riferite e da questo sono misurate: ma nell'Amicizia dell'Amore
+
+Il lamento è talvolta dell'amante che, sebbene ami
+
+Oltremodo, il suo amore non è corrisposto; avendo egli forse tutto il tempo
+
+nulla che possa essere oggetto di Amicizia: di nuovo, spesso da
+
+l'oggetto dell'amore che colui che, in qualità di pretendente, promise ogni e qualsiasi cosa
+
+Ora non compie nulla. Questi casi si verificano perché l'Amicizia del
+
+L'amore per l'oggetto amato è basato sul piacere, quello dell'altro.
+
+per lui sull'[utilità](/positions/utility_pleasure), e in una delle parti la qualità richiesta
+
+non si trova: poiché, come questi sono rispettivamente i fondamenti del
+
+Amicizia, l'Amicizia viene a essere spezzata perché i motivi per
+
+esso cessi di esistere: le parti amavano non l'un l'altro ma le qualità in
+
+gli uni gli altri che non sono permanenti, e così nemmeno lo sono i
+
+Amicizie: mentre l'Amicizia basata sul carattere morale di
+
+le parti, essendo indipendenti e disinteressate, è permanente, come noi
+
+ho già affermato.
+
+Le liti sorgono anche quando le parti realizzano risultati differenti e non.
+
+quelle che desiderano; poiché il non conseguire il proprio oggetto particolare è
+
+tutto uno, in questo caso, con il non ottenere nulla affatto: come nel
+
+caso noto in cui un uomo fece promesse a un musicista, salendo in
+
+proporzione all'eccellenza della sua musica; ma quando, la mattina dopo,
+
+il musicista affermò l'adempimento delle sue promesse, egli disse che egli
+
+gli aveva dato piacere per piacere: naturalmente, se ciascuna parte avesse
+
+se avesse inteso questo, sarebbe andato tutto bene: ma se l'uno desidera
+
+divertimento e l'altro guadagno, e l'uno ottiene il suo scopo ma l'altro
+
+No, il trattare non può essere equo: perché un uomo fissa la sua mente su ciò che
+
+egli si trova a desiderare, e darà tanto per quella cosa specifica.
+
+Sorge allora la questione: chi deve fissare il tasso? l'uomo che per primo
+
+dà, o l'uomo che prende per primo? perché, primâ facie, l'uomo che
+
+Il primo a dare sembra lasciare il tasso da fissare all'altra parte.
+
+Questo, dicono, era in effetti la pratica di Protagora: quando insegnava
+
+un uomo qualsiasi cosa egli ordinerebbe all'allievo di stimare il valore del
+
+conoscenza acquistata dalla sua propria opinione privata; e poi soleva prendere
+
+tanto da lui. In tali casi alcuni adottano la regola,
+
+Di una ricompensa determinata un amico dovrebbe accontentarsi.
+
+Coloro che prendono il denaro sono certamente a ragione biasimati.
+
+avanzare e poi non fare nulla di ciò che avevano detto che avrebbero fatto, il loro
+
+essendo state le promesse così al di là della loro capacità; poiché tali uomini non
+
+Compiere ciò che hanno concordato, i Sofisti, tuttavia, sono forse obbligati a
+
+Seguite questa via, perché nessuno darebbe sei penny per la loro.
+
+conoscenza. Questi adunque, dico, sono giustamente biasimati, perché essi
+
+non fanno ciò che hanno già preso denaro per fare.
+
+Nei casi in cui non sia fatta alcuna stipulazione circa i rispettivi servizi.
+
+coloro che disinteressatamente fanno il primo servizio non alzeranno il
+
+questione (come abbiamo già detto), perché è nella natura di
+
+L'amicizia, basata sulla mutua bontà, essere riferimento all'intenzione.
+
+dell'altro, l'intenzione essendo caratteristica del vero amico e
+
+della bontà. Sembra strano dirlo, ma la conclusione ci è imposta — nessun'altra è possibile.
+
+E sembrerebbe che la stessa regola debba essere stabilita per coloro che sono
+
+connessi gli uni con gli altri come maestri e discepoli di filosofia; poiché
+
+qui il valore della [merce](/concepts/commodity) non può essere misurato con il denaro, e, in
+
+Infatti, un prezzo esattamente equivalente non può essere posto su di esso, ma forse esso
+
+è sufficiente fare ciò che si può, come nel caso degli dèi o del proprio.
+
+genitori.
+
+Ma dove il dono originario non è a queste condizioni ma dichiaratamente per
+
+qualche ritorno, il corso più proprio è forse che il contraccambio sia
+
+quali entrambi ammetteranno come proporzionati, e, ove ciò non possa
+
+essere, allora per il ricevente fissare il valore sembrerebbe essere non solo
+
+necessario ma anche giusto: perché quando il primo donatore riceve ciò che
+
+è equivalente al vantaggio ricevuto dall'altro, o a ciò che egli
+
+avrebbe dato per assicurarsi il piacere che ha avuto, allora ha il
+
+valore da lui: poiché non solo questo si vede essere il corso adottato in
+
+questioni di compravendita ma anche in alcuni luoghi la legge non
+
+ammettono azioni su negozi volontari; sul principio che quando
+
+Un uomo ha riposto fiducia in un altro; deve accontentarsi di avere l'obbligo.
+
+assolto nello stesso spirito con cui l’aveva originariamente contratto: cioè
+
+Per così dire, si ritiene che sia più giusto per chi è oggetto di fiducia, che per chi ripone fiducia,
+
+parte, per fissare il valore. Poiché, in generale, coloro che hanno e coloro che
+
+desiderano ottenere cose non attribuiscono lo stesso valore ad esse: qual è il loro
+
+proprio, e ciò che danno in ogni caso, appare loro degno di un grande
+
+patto: ma tuttavia il rendimento è fatto secondo la stima di coloro che
+
+hanno ricevuto per primi, si dovrebbe forse aggiungere che il ricevente
+
+Dovrebbe stimare ciò che ha ricevuto, non secondo il valore che vi attribuisce.
+
+ora che lo possiede, ma da ciò che vi aveva posto prima di ottenerlo
+
+it.
+
+<span class="atom-split" data-atom="130" data-title="Chapter II. (parte 9)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
 
 Questions also arise upon such points as the following: Whether one’s
 
@@ -13210,7 +26257,151 @@ for giving up the attempt, but we must observe the distinctions so far
 
 as it is practicable to do so.
 
-<span class="atom-split" data-atom="131" data-title="Chapter III. (10/11)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Sorgono anche questioni su punti come i seguenti: se il proprio
+
+Il padre ha una pretesa illimitata ai servigi e all'obbedienza di uno, o
+
+se il malato debba ubbidire al suo medico? o, in un'elezione di un
+
+in generale, le qualità bellicose dei candidati dovrebbero essere sole
+
+Considerato?
+
+Similmente, se si debba fare un servizio piuttosto al proprio amico.
+
+o a un uomo buono? se si debba piuttosto ricompensare un benefattore o
+
+Dare al proprio compagno, supponendo che entrambi non siano entro il proprio.
+
+potere?
+
+Non è la vera risposta che non è compito facile determinare tutte tali cose?
+
+questioni accuratamente, in quanto implicano numerose differenze di
+
+tutte le specie, rispetto alla quantità e a ciò che è onorevole e a ciò che è
+
+necessario? È ovvio, naturalmente, che nessuna singola persona può unire in
+
+a se stesso tutte le pretese. Inoltre, il contraccambio dei benefici è, in generale, un
+
+dovere più alto che fare gentilezze non richieste al proprio compagno; in
+
+altre parole, l'adempimento di un debito è più obbligatorio per uno che
+
+il dovere di dare a un compagno. E tuttavia questa regola può ammettere
+
+eccezioni; per esempio, qual è il dovere più alto? per colui che ha
+
+essere stato riscattato dalle mani dei ladroni per riscattare in cambio il suo
+
+riscattatore, sia egli chiunque, o per ripagarlo a sua richiesta sebbene egli abbia
+
+non fosse stato preso dai ladroni, o per riscattare suo padre? giacché sarebbe
+
+sembrare che un uomo debba riscattare suo padre anche a preferenza di
+
+se stesso.
+
+Ebbene, come già detto, di regola generale il debito dovrebbe
+
+essere adempiuto, ma se in un caso particolare il dare grandemente
+
+prepondera come essendo o onorevole o necessario, dobbiamo essere
+
+Influenzato da queste considerazioni: voglio dire, in alcuni casi il contraccambio di
+
+l'obbligazione precedentemente esistente può non essere uguale; supponiamo, per
+
+esempio, che il benefattore originario ha conferito una gentilezza a un
+
+buon uomo, sapendolo tale, mentre questo detto buon uomo deve
+
+ripagarlo credendolo un mascalzone.
+
+E ancora, in certi casi, nessun obbligo incombe su un uomo di prestare a uno.
+
+che gli ha prestato; supponiamo, per esempio, che un uomo malvagio gli abbia prestato,
+
+come essendo un uomo buono, sotto la nozione che sarebbe stato ripagato,
+
+Atteso che il detto buon uomo non ha speranza di rimborso da lui, essendo egli un malvagio.
+
+uomo. O allora il caso è realmente come l'abbiamo supposto e allora il
+
+l'affermazione non è uguale, o non è così ma si suppone che lo sia; e ancora in ciò
+
+Le persone che agiscono non vanno pensate come se agissero male. In breve, come è stato
+
+spesso è stato affermato in precedenza, tutte le affermazioni riguardanti i sentimenti e
+
+le azioni possono essere determinate solo nella misura in cui lo è la loro materia.
+
+così; è ovviamente del tutto evidente che non tutti gli uomini hanno lo stesso
+
+pretesa su di sé, né sono illimitate le pretese del proprio padre; così come
+
+Giove non esige ogni sorta di sacrificio senza distinzione: e
+
+poiché le pretese dei genitori, dei fratelli, dei compagni e dei benefattori sono,
+
+tutti diversi, dobbiamo dare a ciascuno ciò che gli appartiene e gli si addice.
+
+E questo è visto essere il corso comunemente seguito: ai matrimoni gli uomini
+
+comunemente invitano i loro parenti, perché questi sono di un ceppo comune
+
+e perciò tutte le azioni che in qualsiasi modo a ciò pertengono sono comuni
+
+inoltre: e ai funerali gli uomini pensano che i parenti dovrebbero adunarsi in
+
+preferenza verso le altre persone, per la stessa ragione.
+
+E sembrerebbe che per quanto riguarda il mantenimento sia nostro dovere
+
+assistere i nostri genitori in preferenza a tutti gli altri, essendo loro debitori,
+
+e perché è più onorevole soccorrere in questi rispetti il
+
+autori della nostra esistenza che noi stessi. Onore parimenti dobbiamo
+
+Rendere ai genitori come agli dèi, ma non però ogni sorta di
+
+onore: non lo stesso, per esempio, a un padre come a una madre: né
+
+di nuovo a un padre l'onore dovuto a un uomo di scienza o a un generale
+
+ma ciò che ad un padre è dovuto, e similmente ad una madre ciò.
+
+che è di una madre.
+
+A tutti i nostri anziani anche l'onore conveniente alla loro età, alzandosi in
+
+la loro presenza, cedendo loro il passo, e tutti i segni simili
+
+di rispetto: ai nostri compagni ancora, o fratelli, franchezza e libertà
+
+partecipazione a tutto ciò che abbiamo. E a quelli della stessa famiglia, o
+
+tribù, o città, con noi stessi, e tutti similmente connessi con noi, noi
+
+dovrebbero costantemente cercare di rendere il loro dovuto, e di discernere ciò che
+
+appartiene a ciascuno rispetto alla prossimità di connessione, o alla bontà, o
+
+intimità: naturalmente nel caso di quelli della stessa classe il
+
+la discriminazione è più facile; in quello di coloro che sono in classi diverse.
+
+È una questione di maggior affanno. Ciò, tuttavia, non dovrebbe essere una ragione.
+
+per rinunciare al tentativo, ma dobbiamo osservare le distinzioni sin qui
+
+per quanto sia praticabile farlo.
+
+<span class="atom-split" data-atom="131" data-title="Chapter III. (parte 10)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
 
 A question is also raised as to the propriety of dissolving or not
 
@@ -13332,7 +26523,7 @@ should allow somewhat on the score of previous Friendship, whenever the
 
 cause of severance is not excessive depravity on their part.
 
-<span class="atom-split" data-atom="132" data-title="Chapter IV. (10/12)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="132" data-title="Chapter IV. (parte 10)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
 
 Now the friendly feelings which are exhibited towards our friends, and
 
@@ -13508,7 +26699,183 @@ all his might and to strive to be good, because thus may he be friends
 
 with himself and may come to be a friend to another.
 
-<span class="atom-split" data-atom="133" data-title="Chapter V. (9/10)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora i sentimenti amichevoli che si manifestano verso i nostri amici, e
+
+da cui le Amicizie sono caratterizzate, sembrano essere scaturite da
+
+quelli che nutriamo verso noi stessi.
+
+Voglio dire, la gente definisce un amico come “colui che intende e fa ciò che è
+
+bene (o ciò che egli crede essere bene) a un altro per quello di quell'altro
+
+“il bene”, oppure “colui che desidera che il suo amico sia e viva per quello”
+
+per il bene dell'amico stesso” (che è il sentimento delle madri verso i loro
+
+bambini, e di amici che sono entrati in collisione). Altri ancora,
+
+«colui che vive con un altro e sceglie gli stessi oggetti», o «colui che
+
+simpatizza con l'amico nei suoi dolori e nelle sue gioie” (anche questo)
+
+è soprattutto il caso delle madri).
+
+Ebbene, da qualcuno di questi segni gli uomini generalmente caratterizzano.
+
+[Amicizia](/concepts/friendship): e ciascuno di questi l'uomo buono ha verso se stesso, e tutti
+
+altri li hanno in quanto si suppongono buoni. (Poiché,
+
+Come è stato detto prima, la bontà, cioè l'uomo buono, sembra essere un.
+
+misura per ogni altro.)
+
+Poiché egli è unito in sé stesso, e con ogni parte della sua anima egli
+
+desidera gli stessi oggetti; e vuole per sé sia ciò che è, e
+
+ciò che egli crede essere, buono; e lo fa (essendo ciò caratteristico
+
+dell'uomo buono operare ciò che è buono), e per sé stesso,
+
+in quanto egli lo fa per amore del suo Principio Intellettivo, il quale
+
+è generalmente considerato il Sé di un uomo. Ancora, egli desidera se stesso E
+
+specialmente questo Principio per cui egli è un essere intelligente, vivere
+
+e essere preservato in vita, perché l'esistenza è un bene per colui che è un
+
+buon uomo.
+
+Ma è a sé stesso che ogni individuo desidera il bene, e no
+
+l'uomo, concependo la possibilità del suo divenire altro da ciò che egli è ora,
+
+sceglie che quel Nuovo Sé debba avere tutte le cose indiscriminatamente: a
+
+dio, per esempio, ha al momento presente il Sommo Bene, ma egli ha
+
+esso in diritto di essere qualunque cosa egli attualmente ora è: e l'Intelligente
+
+Il principio deve essere giudicato come il Sé di ciascun uomo, o almeno eminentemente.
+
+così [sebbene altri Principi aiutino, naturalmente, a costituirlo l'uomo
+
+he is].
+
+Inoltre, l'uomo buono desidera continuare a vivere con sé stesso; poiché
+
+egli può farlo con piacere, in quanto i suoi ricordi delle azioni passate sono
+
+pieno di diletto e le sue anticipazioni del futuro sono buone e simili
+
+sono piacevoli. Poi, ancora, egli ha buona provvista di materia per il suo
+
+Intelletto per contemplare, ed egli simpatizza in particolar modo con il suo
+
+Il Sé nei suoi dolori e nelle sue gioie, perché gli oggetti che gli recano dolore
+
+e il piacere sono in ogni tempo lo stesso, non una cosa oggi e un
+
+uno diverso domani: perché non è portato al pentimento, se
+
+Si può così parlare. È allora perché ciascuno di questi sentimenti è
+
+Intrattenuto dal buon uomo verso il proprio Sé e un amico sente
+
+verso un amico come verso se stesso (un amico essendo in realtà un altro
+
+Sé), che l'Amicizia sia ritenuta una di queste cose e
+
+Essi sono reputati amici nei quali si trovano. Sia o no ivi
+
+Può davvero essere Amicizia tra un uomo e il suo Sé è una questione che noi
+
+non intratterrà al presente: si può pensare che vi sia Amicizia,
+
+in quanto vi siano due o più dei suddetti requisiti, e
+
+perché il più alto grado di Amicizia, nell'accezione usuale di
+
+quel termine, somiglia al sentimento nutrito da un uomo verso sé stesso.
+
+Ma si può addurre che i suddetti requisiti sono a tutta apparenza
+
+che si trova nel comune degli uomini, sebbene siano uomini di bassa lega.
+
+Non si risponda, che essi ne partecipano solo in quanto essi
+
+compiacersi di sé, e reputarsi buoni? poiché certamente,
+
+essi non sono né realmente, né nemmeno apparentemente, trovati in alcuno di
+
+coloro che sono molto depravati e scellerati; potremmo quasi dire neppure
+
+in coloro che sono uomini cattivi affatto: poiché sono in discordia con
+
+se stessi e bramano cose diverse da quelle che a mente fredda
+
+la ragione che desiderano, proprio come gli uomini che mancano di Autocontrollo: voglio dire,
+
+Essi scelgono cose che, sebbene dannose, sono piacevoli, in
+
+preferenza per quelle che nella loro propria mente credono essere buone:
+
+altri ancora, per vigliaccheria e indolenza, rifiutano di fare ciò che ancora
+
+essi sono convinti sia il meglio per loro: mentre quelli che dalla loro
+
+depravazione hanno effettivamente compiuto molte azioni orrende odiano ed evitano la vita,
+
+e pertanto si uccidono: e gli empi cercano altri nella cui
+
+compagnia per passare il loro tempo, ma fuggono da sé stessi perché hanno
+
+molti spiacevoli soggetti di memoria, e non può che guardare avanti verso altri
+
+li amano quando in solitudine ma annegano il loro rimorso nella compagnia di
+
+altri: e poiché non hanno nulla per suscitare il sentimento dell'Amicizia
+
+così non lo provano mai verso se stessi.
+
+Né in verità possono coloro che sono di tal carattere simpatizzare con
+
+i loro Sé nelle loro gioie e nei loro dolori, perché la loro anima è, come essa
+
+erano, lacerati dalla fazione, e l'unico principio, a cagione del
+
+la depravazione in loro, si affligge nell'astenersi da certe cose, mentre
+
+l'altro e migliore principio si compiace di ciò; e l'uno trascina.
+
+li da una parte e quelli dall'altra, come se davvero li lacerasse.
+
+divisi. E sebbene sia impossibile effettivamente avere allo stesso
+
+tempo le sensazioni di dolore e piacere; tuttavia dopo un po' di tempo il
+
+L'uomo si rammarica di aver provato piacere, e potrebbe desiderare che quelli
+
+gli oggetti non gli avevano dato piacere; poiché i malvagi sono pieni di rimorso.
+
+È chiaro quindi che l'uomo malvagio non può trovarsi nella posizione di un
+
+amico anche verso se stesso, perché non ha in sé nulla che
+
+può eccitare il sentimento dell'Amicizia. Se dunque esser così è
+
+Oltremodo misero è il dovere di un uomo fuggire dalla malvagità con
+
+tutta la sua possanza e sforzarsi di essere buono, poiché così possa egli essere amico
+
+con sé stesso e può divenire amico di un altro.
+
+<span class="atom-split" data-atom="133" data-title="Chapter V. (parte 9)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
 
 Kindly Feeling, though resembling [Friendship](/concepts/friendship), is not identical with it,
 
@@ -13586,7 +26953,85 @@ fellow, or brave man, etc., as we said was the case sometimes with
 
 those matched against one another.
 
-<span class="atom-split" data-atom="134" data-title="Chapter VI. (9/11)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Il Sentimento Benevolo, benché somigli all'[Amicizia](/concepts/friendship), non è identico ad essa,
+
+perché può esistere in riferimento a coloro che non conosciamo e
+
+senza che l'oggetto di essa sia consapevole della sua esistenza, il che è Amicizia
+
+non può. (Questo, tra l'altro, è stato detto anche prima.) E inoltre, esso
+
+non è nemmeno Affetto, perché non implica intensità né anelito.
+
+che sono entrambe conseguenze dell'Affetto. Ancora, l'Affetto richiede
+
+intimità ma il Sentimento Benevolo può sorgere del tutto improvvisamente, come accade.
+
+talvolta rispetto a uomini contro i quali le persone sono contrapposte in qualsiasi modo,
+
+Voglio dire che giungono a essere ben disposti verso di loro e a simpatizzare nei loro
+
+desideri, ma tuttavia non si sarebbero uniti a loro in alcuna azione, perché, come
+
+Dicemmo, concepiscono questo sentimento di benevolenza repentinamente e così hanno.
+
+ma una simpatia superficiale.
+
+Ciò che sembra essere è il punto di partenza di un'Amicizia; proprio come
+
+il piacere, ricevuto per mezzo della vista, è il principio dell'Amore: imperciocché
+
+Nessuno si innamora senza essere prima compiaciuto della persona.
+
+L'apparizione dell'oggetto amato, e tuttavia colui che ne trae piacere
+
+non ama quindi necessariamente, ma quando anela all'oggetto
+
+nella sua assenza e desidera la sua presenza. Esattamente nello stesso modo gli uomini
+
+non si può essere amici senza essere passati attraverso lo stadio della Benevolenza.
+
+Il sentire, eppure coloro che sono in quello stadio non necessariamente avanzano.
+
+All'Amicizia: essi hanno meramente un desiderio inerte del bene di coloro
+
+verso cui nutrono il sentimento, ma non si unirebbero a loro in alcunché
+
+azione, né si disturbano per loro. Così che, in un
+
+In un modo metaforico di parlare, si potrebbe dire che è dormiente.
+
+L'amicizia, e quando è durata per un tratto ed è maturata in
+
+intimità giunge a essere vera Amicizia; ma non quella il cui oggetto è
+
+vantaggio o piacere, perché tali motivi non possono produrre nemmeno benevolenza.
+
+Sentire.
+
+Voglio dire, colui che ha ricevuto un beneficio lo contraccambia con Sentimento Benevolo.
+
+verso il suo benefattore, e ha ragione a fare così: ma colui che desidera
+
+un altro ad essere prospero, perché egli ha speranza di vantaggio attraverso il suo.
+
+strumentalità, non sembra essere ben disposta verso quella persona ma
+
+piuttosto a sé stesso; così come né è suo amico se fa la corte a
+
+lui per qualsiasi scopo interessato.
+
+Il sentimento benevolo sorge sempre a cagione della bontà e di un certo
+
+amabilità, quando un uomo dà a un altro la nozione di essere un fine
+
+compagno, o uomo valoroso, ecc., come dicemmo che talvolta accadeva con
+
+quelli messi l'uno contro l'altro.
+
+<span class="atom-split" data-atom="134" data-title="Chapter VI. (parte 9)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
 
 Unity of Sentiment is also plainly connected with [Friendship](/concepts/friendship), and
 
@@ -13664,7 +27109,85 @@ quarrel while they are for keeping one another to work but are not
 
 willing to perform their just share.
 
-<span class="atom-split" data-atom="135" data-title="Chapter VII. (9/10)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+L'unità di sentimento è anche manifestamente connessa con [Amicizia](/concepts/friendship), e
+
+quindi non è la stessa cosa dell'Unità di Opinione, perché questa potrebbe esistere
+
+anche tra persone tra loro sconosciute.
+
+Né gli uomini sogliono dire che le persone sono unite nel sentimento semplicemente perché
+
+concordano nell'opinione su qualsiasi punto, come, per esempio, su punti di
+
+scienza astronomica (Unità di Sentimento in questa sede non avendo alcuna
+
+connessione con l'Amicizia), ma dicono che le Comunità hanno Unità
+
+di Sentimento quando concordano riguardo a punti di convenienza e prendono
+
+la stessa linea e portare a compimento ciò che è stato determinato in comune.
+
+consultazione.
+
+Così vediamo che l'Unità di Sentimento ha per oggetto questioni di
+
+azione, e di quelle tra queste che sono di importanza, e di mutua, o, in
+
+il caso dei singoli Stati, comune, interesse: quando, per esempio, tutti
+
+concordare nella scelta dei magistrati, o formando alleanza con il
+
+Lacedemoni, o nominando Pittaco sovrano (vale a dire, supponendo
+
+egli stesso era disposto). Ma quando ciascuno desidera essere lui stesso al potere.
+
+(come i fratelli nelle Fenicie), litigano e formano partiti: poiché,
+
+chiaramente, l'Unità di Sentimento non implica semplicemente che ciascuno nutra
+
+la medesima idea, qualunque cosa essa sia, ma che lo facciano in relazione al
+
+stesso oggetto, come quando sia il volgo che gli uomini assennati di uno Stato
+
+desiderio che i migliori uomini siano in carica, perché allora tutti conseguono.
+
+il loro oggetto.
+
+Dunque l'Unità di Sentimento è manifestamente un'Amicizia sociale, come è anche
+
+si dice essere: poiché ha per sua materia le cose utili e
+
+relativo alla vita.
+
+E questa Unità esiste tra i buoni: poiché essi la possiedono verso
+
+se stessi e l'uno verso l'altro, essendo, se mi è permesso il
+
+espressione, nella stessa posizione: intendo, i desideri di tali uomini sono
+
+costanti e non rifluiscono e fluiscono come l'Euripo, e desiderano ciò che è
+
+giusti e convenienti e mirano a queste cose in comune.
+
+I malvagi, al contrario, possono tanto poco avere Unità di Sentimento quanto essi.
+
+possono essere veri amici, tranne che in misura molto lieve, desiderando come essi
+
+fanno un ingiusto vantaggio in cose proficue mentre si sottraggono al [lavoro](/concepts/labour) e
+
+servizio per il bene comune: e mentre ciascun uomo desidera queste cose
+
+Per parte sua, egli è geloso del suo prossimo e lo ostacola: e come fanno
+
+non vegliano sul bene comune, è perduto. Il risultato è che essi
+
+litigano mentre sono per tenere l'un l'altro al lavoro ma non sono
+
+Disposti a compiere la loro giusta parte.
+
+<span class="atom-split" data-atom="135" data-title="Chapter VII. (parte 9)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
 
 Benefactors are commonly held to have more [Friendship](/concepts/friendship) for the objects
 
@@ -13790,7 +27313,133 @@ know more certainly that they are theirs. This feeling would seem also
 
 to belong to benefactors.
 
-<span class="atom-split" data-atom="136" data-title="Chapter VIII. (9/11)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Si ritiene comunemente che i benefattori abbiano più [amicizia](/concepts/friendship) per gli oggetti.
+
+della loro bontà che questi per loro: e il fatto è reso un soggetto
+
+di discussione e di indagine, in quanto contrario a ogni ragionevole aspettativa.
+
+Il resoconto della questione che soddisfa la maggior parte delle persone è che quello.
+
+sono debitori e gli altri creditori: e quindi che, come nel
+
+caso di prestiti reali, i debitori desiderano i loro creditori fuori di mezzo
+
+mentre i creditori sono ansiosi della preservazione dei loro debitori,
+
+Così coloro che hanno fatto del bene desiderano la continuazione dell'esistenza del
+
+persone a cui le hanno fatte, sotto la nozione di ottenere un ritorno di
+
+i loro buoni uffici, mentre questi non sono particolarmente ansiosi per
+
+contraccambio.
+
+Epicarmo, sospetto, direbbe molto probabilmente che coloro che danno questo.
+
+La soluzione giudica dalla loro propria bassezza; eppure è certamente come umano.
+
+natura, poiché la generalità degli uomini ha corta memoria su questi punti,
+
+e mirino piuttosto a ricevere che a conferire benefici.
+
+Ma la vera causa, a quanto pare, risiede nella natura, e il caso è
+
+non parallelo a quello dei creditori; perché in questo non c'è
+
+affetto verso le persone, ma semplicemente un desiderio della loro conservazione con
+
+in vista del ritorno: mentre, in punto di fatto, coloro che hanno fatto
+
+Le gentilezze provano amicizia e amore per coloro ai quali le hanno fatte.
+
+loro, sebbene essi né siano né possano per avventura in avvenire
+
+essere, nella posizione di servire i loro benefattori.
+
+E questo è il caso anche degli artigiani; ognuno, voglio dire, sente più
+
+affetto per la propria opera di quanto quell'opera potesse per lui se essa
+
+fossero animati. È forse specialmente il caso dei poeti: ché questi
+
+nutrono grandissimo affetto per le loro poesie, amandole come le loro.
+
+i propri figli. È a questo genere di cose che sarei incline
+
+confronta il caso dei benefattori: poiché l'oggetto della loro benevolenza è
+
+la propria opera, e così amano questa più di quanto questa ami il suo creatore.
+
+E la spiegazione di ciò è che l'esistenza è per tutti una cosa.
+
+degno di scelta e oggetto d'affetto; ora esistiamo per atti di
+
+operando, cioè vivendo e agendo; egli allora che ha creato un
+
+Dato che l'opera esiste, si può dire, per il suo atto di lavorare: quindi egli
+
+ama il suo lavoro perché ama l'esistenza. E questo è naturale, poiché il
+
+L'opera prodotta mostra in atto ciò che prima esisteva in potenza.
+
+Del resto, il benefattore ha un senso dell'onore a ragion del suo.
+
+azione, affinché egli possa ben compiacersi in colui in cui ciò risiede;
+
+ma a colui che ha ricevuto il beneficio non v'è nulla di onorevole in
+
+rispetto del suo benefattore, solo qualcosa di vantaggioso che è entrambe le cose
+
+meno piacevole e meno oggetto di Amicizia.
+
+Ancora, il piacere deriva dall'effettivo svolgimento di un presente.
+
+azione, dall'anticipazione di una futura, e dalla
+
+rimembranza di uno passato: ma il sommo piacere e l'oggetto speciale
+
+dell'affetto è quello che accompagna l'operazione effettiva. Ora il
+
+l'opera del benefattore perdura (poiché ciò che è onorevole è duraturo), ma il
+
+Il vantaggio di colui che ha ricevuto la gentilezza svanisce.
+
+Di nuovo, c'è piacere nel ricordare azioni onorevoli, ma nel
+
+Ricordando quelli vantaggiosi non ve n'è alcuno o molto meno (per
+
+il modo però, il contrario è vero dell'aspettativa di vantaggio).
+
+Inoltre, il nutrire il sentimento dell'Amicizia è come agire su
+
+un altro; ma essere l'oggetto del sentimento è come essere agito.
+
+Dunque, intrattenendo il sentimento dell'Amicizia, e tutti i sentimenti
+
+connesse ad esso, spettano a coloro che, nel dato caso di un
+
+benefazione, sono la parte superiore.
+
+Ancora una volta: tutte le persone apprezzano di più ciò che è costato loro molta [fatica](/concepts/labour) nel
+
+produzione; per esempio, le persone che hanno fatto da sé i propri soldi
+
+ne sono più affezionati di coloro che lo hanno ereditato: e ricevendo
+
+La gentilezza è, sembra, senza fatica, ma farla è faticoso. E questo
+
+è la ragione per cui i genitori femminili sono assai affezionati alla loro prole;
+
+poiché la loro parte nel produrli è accompagnata da moltissima fatica, ed essi
+
+sapere più certamente che sono loro. Questo sentimento sembrerebbe anche
+
+appartenere ai benefattori.
+
+<span class="atom-split" data-atom="136" data-title="Chapter VIII. (parte 9)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
 
 A question is also raised as to whether it is right to love one’s Self
 
@@ -13986,7 +27635,203 @@ himself a larger share of the honourable. In this sense it is right to
 
 be Self-loving, in the vulgar acceptation of the term it is not.
 
-<span class="atom-split" data-atom="137" data-title="Chapter IX. (9/9)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Si pone anche la questione se sia giusto amare il proprio Sé.
+
+il migliore, o qualche altro: perché gli uomini trovano da ridire su coloro che amano
+
+se stessi al sommo grado, e li chiamano in modo spregiativo amanti di Sé; e
+
+Si ritiene che l'uomo cattivo faccia tutto ciò che fa per sé stesso.
+
+meramente, e tanto più quanto più depravato egli è; di conseguenza gli uomini
+
+rimproverargli di non fare mai nulla di disinteressato: mentre l'uomo buono
+
+agisce per senso dell'onore (e tanto più quanto migliore egli è), e
+
+per il bene del suo amico, ed è incurante del proprio interesse.
+
+Ma con queste teorie i fatti sono in disaccordo, e non senza ragione: poiché
+
+Si dice comunemente anche che un uomo debba amare massimamente colui che è più suo.
+
+amico, ed è massimamente amico chi vuole il bene a colui al quale egli
+
+Lo desidera per amor di quell'uomo anche se nessuno lo sa. Ora questi
+
+condizioni, e anzi tutto il resto per cui un amico è
+
+caratterizzate, appartengono specialmente a ciascun individuo rispetto al suo
+
+Sé: poiché abbiamo detto innanzi che tutti i sentimenti amichevoli sono
+
+derivato ad altri da quelli che hanno il Sé primariamente per il loro.
+
+oggetto. E tutti i proverbi correnti sostengono questa opinione; per esempio,
+
+“un'anima sola,” “i beni degli amici sono comuni,” “l'uguaglianza è un legame di
+
+[Amicizia](/concepts/friendship),” “il ginocchio è più vicino dello stinco.” Per tutte queste cose
+
+esistere specialmente in riferimento al Sé proprio di un uomo: egli è specialmente un
+
+amico a se stesso e perciò non può non amare se stesso più di ogni altra cosa.
+
+È con buona ragione messo in dubbio quale delle due parti si debba.
+
+seguire, avendo entrambi la plausibilità dalla loro parte. Forse allora, in
+
+Rispetto a teorie di questo genere, il giusto corso è distinguere.
+
+e definire fino a che punto ciascuna sia vera, e in che modo. Se potessimo accertare
+
+il senso in cui ciascuno usa il termine “amante di sé”, questo punto potrebbe
+
+essere chiarito.
+
+Ebbene, coloro che lo usano spregiativamente danno il nome a coloro che, in
+
+Il rispetto della ricchezza, e degli onori, e dei piaceri del corpo, danno a
+
+a sé stessi la parte maggiore: perché la massa degli uomini brama
+
+queste e sono serie riguardo ad esse come essendo le cose migliori; che è il
+
+ragione per cui sono materie di contesa. Quei che sono cupidi in
+
+Riguardo a questi soddisfano le loro brame e passioni in generale, cioè a
+
+Diciamo la parte irrazionale della loro anima: ora la massa degli uomini è così.
+
+disposto, per la qual cosa l'appellazione ha tratto origine da ciò
+
+massa che è bassa e cattiva. Naturalmente sono giustamente rimproverati coloro che sono
+
+L'amante di sé in questo senso.
+
+E che la generalità degli uomini è solita applicare il termine a
+
+Denominare coloro che danno tali cose a sé stessi è del tutto evidente:
+
+Si supponga, per esempio, che un uomo fosse ansioso di fare, più di un altro.
+
+uomini, atti di giustizia, o dominio di sé, o qualsiasi altro atto virtuoso, e,
+
+in generale, dovesse assicurarsi ciò che è astrattamente nobile
+
+E onorevole, nessuno lo chiamerebbe amante di sé, né lo biasimerebbe.
+
+Eppure potrebbe un tale essere giudicato più veramente amante di sé: certamente
+
+egli dà a sé stesso le cose che sono le più nobili e le più buone, e
+
+gratifica quel Principio della sua natura che è più giustamente
+
+autorevole, e le obbedisce in tutto: e proprio come ciò che
+
+possiede la più alta autorità è ritenuto costituire una Comunità o
+
+qualsiasi altro sistema, così anche nel caso dell'Uomo: e così egli è verissimamente.
+
+Amante di sé che ama e appaga questo Principio.
+
+Inoltre, si dice che gli uomini abbiano, o difettino di, continenza.
+
+a seconda che l'Intelletto controlli o no, essendo ciò chiaramente implicito.
+
+con ciò che questo Principio costituisce ogni individuo; e le persone sono
+
+ritenuti aver fatto da sé, e volontariamente, quelle cose
+
+specialmente quelle che sono fatte con Ragione.
+
+È evidente, quindi, che questo Principio opera, o interamente o
+
+specialmente costituiscono l'uomo individuale, e che l'uomo buono
+
+specialmente ama questo. Per questa ragione allora egli deve specialmente
+
+Amante di sé, in una specie diversa da quella che è rimproverata, e per quanto
+
+superiore ad esso come il vivere secondo Ragione è al vivere al
+
+Il cenno e il richiamo della passione, e il mirare al veramente nobile al mirare a
+
+vantaggio apparente.
+
+Ora tutti approvano e commendano coloro che sono eminentemente seri riguardo a
+
+azioni onorevoli, e se tutti volessero gareggiare l'uno con l'altro in riguardo a
+
+il καλὸν, e siate intenti a fare ciò che è più veramente nobile e
+
+onorevole, la società in generale avrebbe tutto ciò che è proprio mentre ciascuno
+
+l'individuo in particolare avrebbe il massimo dei beni, essendo la Virtù
+
+assunto come tale.
+
+E così l'uomo buono deve essere amante di sé: perché facendo ciò che è
+
+nobile egli stesso avrà vantaggio e farà del bene agli altri: ma
+
+L'uomo malvagio non dovrebbe essere, perché danneggerà se stesso e i suoi.
+
+si fa vicino seguendo passioni basse e malvagie. Nel caso dei cattivi
+
+l'uomo, ciò che dovrebbe fare e ciò che fa sono in disaccordo, ma il bene
+
+l'uomo fa ciò che deve fare, perché tutto l'Intelletto sceglie ciò che è.
+
+il meglio per sé e l'uomo buono si pone sotto la direzione di
+
+Intelletto.
+
+Dell'uomo da bene è parimenti vero ch'egli fa molte cose per il
+
+per amore dei suoi amici e della sua patria, fino al punto di morire per
+
+li, se necessario: per denaro e onori, e, in breve, tutto il bene.
+
+Cose per cui altri combattono, egli getterà via mentre brama di assicurare.
+
+a sé stesso il καλὸν: egli preferirà una gioia breve e grande a una mansueta.
+
+e una duratura, e vivere nobilmente per un anno piuttosto che ordinariamente.
+
+Per molti, e una grande e nobile azione a molte insignificanti. E
+
+Questo è forse ciò che accade agli uomini che muoiono per la loro patria e
+
+amici; essi scelgono grande gloria per sé: e prodigheranno
+
+Il loro proprio denaro affinché i loro amici ricevano di più, poiché con ciò il
+
+l'amico riceve il denaro ma l'uomo stesso il καλόν; così, in effetti egli
+
+dà a se stesso il bene maggiore. Lo stesso vale per gli onori e
+
+uffici; tutte queste cose egli cederà all'amico, perché questo
+
+riflette onore e lode su se stesso: e così con buona ragione egli è
+
+Stimato un nobile carattere, poiché sceglie l'onorevole sopra ogni cosa.
+
+altre cose. È possibile anche rinunciare alle opportunità dell'azione.
+
+a un amico; e aver causato il fare di un amico può essere più
+
+Più nobile che averlo fatto da sé.
+
+In breve, in tutte le cose lodevoli l'uomo buono manifestamente dà a
+
+a sé stesso una parte maggiore dell'onorevole. In questo senso è giusto
+
+Essere amante di sé, nella volgare accezione del termine, non lo è.
+
+<span class="atom-split" data-atom="137" data-title="Chapter IX. (parte 9)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
 
 A question is raised also respecting the Happy man, whether he will
 
@@ -14210,7 +28055,231 @@ this point deficient. The man therefore who is to come up to our notion
 
 “Happy” will need good Friends.
 
-<span class="atom-split" data-atom="138" data-title="Chapter X. (7/7)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Una questione è sollevata anche rispetto all'uomo felice, se egli
+
+vuoi Amici, o no?
+
+Alcuni dicono che coloro che sono beati e indipendenti non abbisognano di
+
+Amici, poiché essi hanno già tutto ciò che è buono, e così, essendo
+
+indipendente, non desiderare altro: mentre la nozione dell’amico
+
+l'ufficio deve essere per così dire un secondo Sé e procurare a un uomo ciò che
+
+non può cavarsela da sé: donde il detto,
+
+Quando la Fortuna ci dà il bene, che bisogno abbiamo degli Amici?
+
+D'altra parte, sembra assurdo, mentre stiamo assegnando al Felice.
+
+all'uomo tutte le altre cose buone, non dargli Amici, i quali sono, dopo
+
+tutto, ritenuto il più grande dei beni esterni.
+
+Ancora, se è più caratteristico di un amico il conferire che
+
+ricevere benefici, e se l'essere benefico appartiene all'uomo buono e
+
+al carattere della virtù, e se è più nobile conferire
+
+gentilezze sugli amici che sugli estranei, l'uomo buono avrà bisogno di oggetti
+
+per i suoi benefizi. E da quest'ultima considerazione scaturisce un
+
+interrogarsi se il bisogno di amici sia maggiore nella prosperità o
+
+l'avversità, poiché l'infelice vuole che gli uomini gli facciano del bene
+
+e coloro che sono fortunati abbisognano di oggetti per i loro atti benevoli.
+
+Inoltre, è forse assurdo fare del nostro Uomo Felice un solitario, perché
+
+nessun uomo sceglierebbe il possesso di tutti i beni del mondo sul
+
+condizione di solitudine, essendo l'uomo un [animale sociale](/positions/social_animal) e plasmato da
+
+natura per vivere con gli altri: naturalmente l'uomo Felice ha questo
+
+qualifica poiché egli possiede tutte quelle cose che sono buone per natura:
+
+ed è ovvio che la società degli amici e degli uomini buoni deve essere.
+
+preferibile a quella degli estranei e della gente comune, e concludiamo,
+
+dunque, che l'uomo Felice abbisogna di Amici.
+
+Ma allora, che cosa vogliono dire coloro che abbiamo citato per primi, e come sono
+
+Giusto? Non è forse che la massa degli uomini intenda per "Amici" coloro che sono
+
+utile? e naturalmente l'uomo felice non avrà bisogno di tale perché ha
+
+tutte le buone cose già; né avrà egli bisogno di tali che sono Amici con
+
+in vista del piacevole, o almeno solo in lieve misura; perché
+
+La sua vita, essendo già piacevole, non vuole piacere importato.
+
+dal di fuori; e così, poiché l'uomo felice non ha bisogno di Amici di
+
+Questi tipi, si ritiene che non ne abbia affatto bisogno.
+
+Ma può essere, questo non è vero: poiché fu affermato originariamente, che
+
+La felicità è una specie di Lavoro; ora il Lavoro chiaramente è qualcosa che
+
+deve venire all'essere, non essere già lì come un mero pezzo di
+
+proprietà.
+
+Se quindi l'essere felice consiste nel vivere e nell'operare, e il bene
+
+L'operare dell'uomo è di per sé eccellente e piacevole (come abbiamo detto al
+
+(principio del trattato), e se ciò che è nostro si annovera tra
+
+cose piacevoli, e se possiamo vedere i nostri vicini meglio di
+
+noi stessi e le loro azioni meglio di quanto possiamo le nostre, allora il
+
+Le azioni dei loro Amici che sono uomini buoni sono piacevoli ai buoni;
+
+in quanto essi hanno entrambi i requisiti che sono naturalmente piacevoli.
+
+Dunque l'uomo nel più alto stato di felicità avrà bisogno di amici di questo.
+
+gentile, poiché desidera contemplare le buone azioni, e le azioni sue.
+
+proprie, che quelle del suo amico, essendo un uomo buono, sono.
+
+Ancora, l'opinione comune richiede che l'uomo felice viva con piacere a
+
+se stesso: ora la vita è gravosa a un uomo in solitudine, poiché non è
+
+facile lavorare continuamente da sé, ma in compagnia di, e in
+
+riguardo agli altri, è più facile, e quindi il lavorare, l'essere.
+
+Il piacevole in sé sarà più continuo (una cosa che dovrebbe essere
+
+per quanto riguarda l'Uomo Felice); poiché l'uomo buono, in quanto è buono
+
+prova piacere nelle azioni che si accordano con la Virtù e si infastidisce
+
+a quelli che nascono dal Vizio, così come un uomo musicale è soddisfatto di
+
+bella musica e infastidito dalla cattiva. E inoltre, come dice Teognide,
+
+La virtù stessa può essere migliorata dalla pratica, dal vivere con i buoni.
+
+E, sulle seguenti considerazioni più puramente metafisiche, esso
+
+probabilmente apparirà che il buon amico è naturalmente degno di scelta per
+
+l'uomo buono. Abbiamo detto prima, che tutto ciò che è naturalmente buono è
+
+anche in sé buono e piacevole all'uomo buono; ora il fatto di
+
+Vivere, per quanto concerne gli animali, è caratterizzato generalmente da
+
+la potenza della sensibilità, nell'uomo è caratterizzata da quella di
+
+senzienza, o di razionalità (la facoltà, naturalmente, a cui ci si riferisce
+
+l'operazione effettiva della facoltà, certamente il punto principale è la
+
+effettiva operazione di essa); così che il vivere sembra consistere principalmente nel
+
+Atto di senzienza o esercizio della razionalità: ora il fatto del vivere è in
+
+esso stesso una delle cose che sono buone e piacevoli (poiché è una
+
+totalità determinata, e tutto ciò che è tale appartiene alla natura del bene),
+
+ma ciò che è naturalmente buono è buono per l'uomo buono: per la qual cosa esso
+
+sembra essere piacevole a tutti. (Naturalmente non si deve supporre una vita
+
+che è depravata e corrotta, né una trascorsa nel dolore, poiché quella che
+
+tale è indefinito come lo sono le sue qualità inerenti: tuttavia, ciò che è
+
+l'esser detto del dolore sarà più chiaro in ciò che segue.)
+
+Se dunque il fatto di vivere è in sé buono e piacevole (e questo
+
+appare dal fatto che tutti lo desiderano, e specialmente coloro che sono
+
+buoni e in alta felicità; il loro corso di vita essendo sommamente
+
+degni di scelta e la loro esistenza massimamente degna di scelta parimenti), allora
+
+Anche colui che vede percepisce di vedere; e colui che ode percepisce.
+
+che egli ode; e colui che cammina percepisce che cammina; e in tutto
+
+le altre istanze in simile maniera vi è una facoltà che riflette
+
+su e percepisce il fatto che stiamo lavorando, affinché possiamo
+
+percepiamo che percepiamo e conosciamo intellettualmente che noi
+
+conoscere intellettualmente: ma percepire che percepiamo o che noi
+
+Conoscere intellettualmente è percepire che esistiamo, poiché l'esistenza era.
+
+definito come il percepire o il conoscere intellettualmente. Ora il percepire
+
+che si viva è cosa piacevole di per sé, essendo la vita una cosa
+
+naturalmente buono, e il percepire della presenza in noi stessi di
+
+le cose naturalmente buone essendo piacevoli.
+
+Dunque il fatto di vivere è degno di scelta, e per il buono.
+
+specialmente così giacché l'esistenza è buona e piacevole per loro: poiché essi
+
+ricevere piacere dalla coscienza interna di ciò che in
+
+se stesso è buono.
+
+Ma l'uomo buono è verso il suo amico come verso se stesso, essendo l'amico un
+
+nome per un secondo Sé; perciò come la propria esistenza è degna di scelta
+
+A ciascuno così pure, o almeno similmente, è l’esistenza del suo amico. Ma
+
+Il fondamento del fatto che la propria esistenza sia degna di scelta è il percepire.
+
+del proprio essere buono, essendo qualsiasi tale percezione di per sé piacevole.
+
+Dunque bisognerebbe essere pienamente consapevoli dell’amico.
+
+esistenza, che risulterà dal vivere con lui, cioè avendo parte in
+
+le sue parole e i suoi pensieri: poiché questo è il significato del termine come applicato
+
+alla specie umana, non il mero nutrirsi insieme come nel caso di
+
+bruti.
+
+Se allora per l'uomo in uno stato di grande felicità l'esistenza è in sé
+
+degno di scelta, essendo naturalmente buono e piacevole, e così pure quello di un amico.
+
+esistenza, allora anche l'amico deve essere tra le cose degne di scelta. Ma
+
+qualunque cosa sia degna di scelta per un uomo egli dovrebbe averla, o altrimenti sarà in
+
+deficiente su questo punto. L’uomo quindi che deve corrispondere alla nostra nozione
+
+“Happy” avrà bisogno di buoni Amici.
+
+<span class="atom-split" data-atom="138" data-title="Chapter X. (parte 7)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
 
 Are we then to make our friends as numerous as possible? or, as in
 
@@ -14310,7 +28379,107 @@ persons’ own sake; in fact, it is a matter for contentment to find even
 
 a few such.
 
-<span class="atom-split" data-atom="139" data-title="Chapter XI. (7/7)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Dunque dobbiamo rendere i nostri amici il più numerosi possibile? o, come in
+
+rispetto di conoscenza si pensa che sia stato ben detto “non avere”
+
+«tu molte conoscenze hai, non essere tuttavia senza;» così anche riguardo a
+
+[Amicizia](/concepts/friendship) possiamo adottare il precetto, e dire che un uomo non dovrebbe essere
+
+senza amici, né d'altra parte averne oltremodo molti?
+
+Quanto poi agli amici che sono destinati all'utilità, la massima che ho citato
+
+si adatterà, a quanto pare, oltremodo bene, poiché per contraccambiare il
+
+servizi di molti è una questione di [lavoro](/concepts/labour), e una vita intera non sarebbe
+
+abbastanza a lungo per fare questo per loro. Così che, se più numerosi di ciò che
+
+basterà per la propria vita, diventano importuni, e sono
+
+impedimenti rispetto al vivere bene: e perciò non li vogliamo. E
+
+di nuovo, di quelli che devono essere per il piacere, pochi bastano, proprio.
+
+come il dolcificante nel nostro cibo.
+
+Ma dei buoni dobbiamo farne quanti mai possiamo, o v'è alcuno?
+
+misura del numero degli amici, come vi è del numero a
+
+Costituire una Comunità Politica? Voglio dire, non puoi farne una da
+
+dieci uomini, e se aumenti il numero a centomila è
+
+non più una Comunità. Tuttavia, il numero non è forse un qualche uno.
+
+numero definito ma qualsiasi tra certi limiti estremi.
+
+Ebbene, anche degli amici vi è un numero limitato, che forse può
+
+essere stabilito come il più grande numero con cui sarebbe possibile
+
+per mantenere l'intimità; essendo ciò ritenuto uno dei più grandi segni
+
+dell'Amicizia, ed essendo assai evidente che non è possibile essere
+
+essere intimi con molti, in altre parole, dividere il proprio sé tra molti. E
+
+Del resto, si deve ricordare che anch'essi debbono essere amici a uno.
+
+un altro se tutti devono vivere insieme: ma è una questione di
+
+difficoltà a trovare questo in molti uomini insieme.
+
+Viene parimenti a essere difficile il render palesi a sé medesimo le gioie.
+
+e dolori di molti: poiché con ogni probabilità si dovrebbe
+
+Partecipare nel medesimo tempo alle gioie di questo e ai dolori.
+
+di quell'altro.
+
+Forse allora è bene non sforzarsi di avere molti amici ma
+
+tanti quanti bastano per l'intimità: perché, in effetti, non sembrerebbe
+
+essere possibile essere molto amico a molti nel medesimo tempo: e,
+
+per la stessa ragione, non essere innamorato di molti oggetti allo stesso
+
+tempo: l'amore essendo una specie di Amicizia eccessiva che implica soltanto uno
+
+oggetto: e tutte le forti emozioni devono essere limitate nel numero verso
+
+da cui sono sentiti.
+
+E se guardiamo ai fatti questo sembra essere così: poiché non molti alla volta.
+
+diventare amici alla maniera della compagnia, tutte le famose Amicizie
+
+di tal genere sono fra due persone: mentre coloro che hanno molti
+
+amici, e incontrare tutti sul piede dell'intimità, sembrano essere
+
+amica realmente di nessuno, se non nel modo della società generale; voglio dire
+
+i caratteri denominati come compiacenti oltre misura.
+
+A dir vero, nel semplice rapporto di società, un uomo può essere amico di molti.
+
+senza essere necessariamente troppo compiacente, ma essendo veramente buono: ma
+
+non si può essere amico di molti a causa della loro virtù, e per il
+
+per il bene delle persone stesse; anzi, è motivo di contentezza trovare anche
+
+alcuni tali.
+
+<span class="atom-split" data-atom="139" data-title="Chapter XI. (parte 7)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
 
 Again: are friends most needed in prosperity or in adversity? they are
 
@@ -14426,7 +28595,123 @@ It appears then that the presence of friends is, under all
 
 circumstances, choice-worthy.
 
-<span class="atom-split" data-atom="140" data-title="Chapter XII. (6/6)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ancora: gli amici sono più necessari nella prosperità o nell'avversità? lo sono.
+
+richiesto, sappiamo, in entrambi gli stati, perché gli sfortunati hanno bisogno di aiuto.
+
+e i prosperi desiderano persone con cui vivere e a cui fare gentilezze:
+
+Poiché provano il desiderio di agire con gentilezza verso qualcuno.
+
+Avere amici è più necessario nell'avversità, e perciò in questo
+
+nel caso se ne vogliano di utili; e averli in prosperità è più
+
+onorevole, ed è per questo che i prosperi vogliono gli uomini buoni per amici,
+
+essendo preferibile conferire benefici a, e vivere con, questi. Infatti
+
+la stessa presenza degli amici è piacevole anche nell'avversità: poiché gli uomini
+
+quando afflitti sono confortati dalla [compassione](/positions/moral_sentiment) dei loro amici.
+
+E da ciò, per inciso, potrebbe sorgere la questione se sia
+
+che esse in qualche maniera partecipino al peso delle calamità, o solamente
+
+che la loro presenza, essendo piacevole, e la coscienza della loro
+
+Simpatia, rendi minore il dolore di chi soffre.
+
+Tuttavia, non discuteremo oltre se questi che sono stati
+
+suggerite o alcune altre cause producono il sollievo, almeno l'effetto.
+
+Ciò di cui parliamo è una questione di puro fatto.
+
+Ma la loro presenza ha probabilmente un effetto misto: voglio dire, non solo è il
+
+Il veder gli amici è assai piacevole, specialmente a chi è in sventura, e
+
+Un aiuto effettivo verso l'alleviamento del dolore è fornito (il naturale
+
+tendenza di un amico, se è dotato di tatto, essendo di confortare con
+
+sguardo e parola, perché egli è ben addentro al temperamento del sofferente
+
+e disposizione e pertanto sa quali cose gli danno piacere e
+
+dolore), ma anche il percepire un amico essere addolorato per il suo
+
+Le sventure causano dolore a chi le subisce, perché ognuno evita di essere
+
+causa di dolore ai suoi amici. E per questa ragione coloro che sono di un
+
+Le nature virili sono caute nel non implicare i propri amici nel proprio dolore;
+
+e a meno che un uomo non sia estremamente insensibile al dolore degli altri non può
+
+Sopportare il dolore che così è causato ai suoi amici: in breve, egli lo fa.
+
+non ammettere uomini a lamentarsi con lui, non essendo affatto incline al lamento: donne,
+
+è vero, e gli uomini che somigliano alle donne, amano avere altri che gemano.
+
+con loro, e amore quale quello di amici e simpatizzanti. Ma è chiaro
+
+che è nostro dovere in tutte le cose imitare il carattere più alto.
+
+D'altra parte, i vantaggi degli amici nella nostra prosperità sono i
+
+il piacevole commercio e la coscienza che essi sono lieti di
+
+La nostra buona sorte.
+
+Sembrerebbe, quindi, che dovremmo chiamare prontamente gli amici su
+
+occasione di buona fortuna, perché è nobile essere pronti a fare del bene a
+
+altri: ma in occasione di cattiva fortuna, dovremmo farlo con
+
+riluttanza; poiché dovremmo il meno possibile far partecipare gli altri
+
+i nostri mali; sul qual principio si fonda il detto: «sono sfortunato, lascia»
+
+"che bastano.” L'occasione più propria per chiamarli è quando
+
+con piccolo disturbo o fastidio per se stessi possono essere di grandissimo
+
+utili alla persona che ne ha bisogno.
+
+Ma, al contrario, è forse conveniente andare dai propri amici in
+
+le loro sventure non richieste e con alacrità (perché la gentilezza è la
+
+L'officio dell'amico e specialmente verso coloro che sono nel bisogno e che fanno
+
+non esigerlo come un diritto, essendo ciò più lodevole e più piacevole
+
+a entrambi); e in occasione della loro buona fortuna di andare prontamente, se noi
+
+possono inoltrarlo in qualsiasi modo (perché gli uomini hanno bisogno dei loro amici per questo
+
+parimenti), ma essere restii a condividerlo, qualsiasi grande desiderio di
+
+ricevere vantaggio non essendo meritevole.
+
+Si dovrebbe forse essere cauti nel non presentare l'apparenza di
+
+scontrosità nel declinare la compassione o l'aiuto degli amici, per questo
+
+Accade occasionalmente.
+
+Sembra allora che la presenza degli amici sia, sotto ogni
+
+circostanze, degne di scelta.
+
+<span class="atom-split" data-atom="140" data-title="Chapter XII. (parte 6)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en"></span>
 
 May we not say then that, as seeing the beloved object is most prized
 
@@ -14482,7 +28767,63 @@ Here then we will terminate our discourse of Friendship. The next thing
 
 is to go into the subject of Pleasure.
 
-<span class="atom-split" data-atom="141" data-title="Chapter I. (10/10)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Non possiamo noi dire allora che, come vedere l'oggetto amato è tenuto in sommo pregio,
+
+dagli amanti e scelgono questo senso piuttosto che qualsiasi altro
+
+perché Amore
+
+È generato negli occhi,
+
+Di sguardi nutrito,
+
+similmente l'intimità è agli amici sommamente degna di scelta, [Amicizia](/concepts/friendship)
+
+essere comunione? Di nuovo, come un uomo è a se stesso, così è al suo amico;
+
+Ora, rispetto a se stesso, la percezione della propria esistenza è
+
+Degno di scelta, quindi, lo è anche rispetto al suo amico.
+
+E del resto, la loro Amicizia si compie nell'intimità, e così con
+
+A buona ragione desiderano questo. E qualunque cosa nell'opinione di ciascun uomo
+
+costituisce l'esistenza, o qualunque cosa sia per amore della quale essi
+
+Scegliete la vita, in ciò desiderano che i loro amici si uniscano a loro; e così
+
+Alcuni uomini bevono insieme, altri giocano d'azzardo, altri si dedicano alla ginnastica.
+
+esercizi o caccia, altri studiano insieme filosofia: in ogni caso
+
+trascorrendo i loro giorni insieme in ciò che preferiscono sopra ogni cosa.
+
+nella vita, perché, siccome desiderano essere intimi con i loro amici, fanno
+
+e prendere parte a quelle cose mediante le quali pensano di conseguire questo scopo.
+
+Dunque l'Amicizia dei malvagi viene ad essere depravata; poiché, essendo
+
+Instabili, essi partecipano del male e divengono depravati nel loro essere fatti.
+
+simili l'uno all'altro: ma l'amicizia dei buoni è buona, crescendo
+
+con il loro commercio; migliorano anche, a quanto pare, col ripetere.
+
+atti, e per correzione reciproca, poiché ricevono impronta dall'uno.
+
+un altro nei punti che danno loro piacere; onde dice il Poeta,
+
+Tu dal bene, cose buone certamente imparerai.
+
+Qui dunque termineremo il nostro discorso sull'Amicizia. La prossima cosa
+
+è entrare nel soggetto del Piacere.
+
+<span class="atom-split" data-atom="141" data-title="Chapter I. (parte 10)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
 
 Next, it would seem, follows a discussion respecting Pleasure, for it
 
@@ -14546,7 +28887,71 @@ But of such considerations enough: let us now proceed to the current
 
 maxims respecting Pleasure.
 
-<span class="atom-split" data-atom="142" data-title="Chapter II. (10/11)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Poi, come sembrerebbe, segue una discussione intorno al Piacere, poiché esso
+
+è ritenuto essere più strettamente legato alla nostra specie: e così gli uomini si addestrano
+
+i giovani, guidandoli nel loro cammino con i timoni del Piacere e
+
+Dolore. E provare piacere e dolore per ciò che si deve è giudicato essere la cosa più importante.
+
+importante per la formazione del buon carattere morale: perché questi
+
+i sentimenti si estendono attraverso tutta la vita, dando una predisposizione verso e
+
+esercitando un'influenza a favore della Virtù e della Felicità, poiché gli uomini
+
+Scegli ciò che è piacevole ed evita ciò che è doloroso.
+
+Siffatti argomenti, quindi, parrebbe, noi non dovremmo in alcun modo
+
+tralascio, e specialmente poiché implicano molta divergenza di opinione.
+
+Vi sono coloro che chiamano il Piacere il Sommo Bene; vi sono altri che
+
+al contrario sostengono che sia estremamente cattivo; alcuni forse
+
+da una reale convinzione che tale sia il caso, altri da una nozione che
+
+È meglio, in riferimento alla nostra vita e condotta, mostrare il Piacere.
+
+altrettanto cattivo, anche se non è realmente così; sostenendo che, come la massa degli uomini
+
+hanno una propensione verso di esso e sono schiavi dei loro piaceri, è
+
+diritto di trarli al contrario, perciocché così essi possano forse
+
+giungere al giusto mezzo.
+
+Confesso di sospettare la solidità di questa politica; in questioni riguardanti
+
+Le teorie sui sentimenti e sulle azioni degli uomini sono meno convincenti dei fatti:
+
+Ogniqualvolta, quindi, essi si trovino in conflitto con l'esperienza reale,
+
+essi non solo sono disprezzati ma coinvolgono la verità nella loro caduta: egli, per
+
+esempio, chi depreca il Piacere, se una volta visto mirare ad esso, ottiene il
+
+credito di ricaduta ad esso come essendo universalmente tale quale egli disse
+
+era, essendo la massa degli uomini incapace di sottili distinzioni.
+
+Resoconti reali, quindi, di tali questioni sembrano essere molto opportuni,
+
+non già in vista della conoscenza, ma della vita e della condotta: poiché essi
+
+sono creduti come essendo in danno con i fatti, e così prevalgono con il
+
+Saggio vivere in accordo con esse.
+
+Ma di tali considerazioni basti: procediamo ora al presente.
+
+massime riguardanti il Piacere.
+
+<span class="atom-split" data-atom="142" data-title="Chapter II. (parte 10)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
 
 Now Eudoxus thought Pleasure to be the Chief Good because he saw all,
 
@@ -14806,7 +29211,267 @@ would seem to show clearly either that Pleasure is not a good, or that
 
 there are different kinds of Pleasure: for the former is thought to
 
-<span class="atom-split" data-atom="143" data-title="Chapter II. (11/11)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora Eudosso reputava il Piacere essere il Sommo Bene, poiché vedeva tutti, sia razionali sia irrazionali, tendere ad esso.
+
+razionali e irrazionali parimenti, mirando ad esso: e sosteneva che, poiché
+
+In tutte le cose, ciò che era oggetto di scelta dev'essere buono, e ciò che lo è massimamente, il migliore.
+
+meglio, il fatto che tutti fossero attratti dalla stessa cosa provava questa cosa
+
+essere il meglio per tutti: «Ché ciascuno», disse, «trova ciò che è buono per
+
+se stesso proprio come fa il suo proprio nutrimento, e così ciò che è
+
+bene per tutti, e l'oggetto del fine di tutti, è il loro Sommo Bene.
+
+(E le sue teorie furono accolte, non tanto per se stesse, quanto
+
+a causa del suo eccellente carattere morale; poiché si pensava che fosse
+
+eminentemente dotato di perfetta padronanza di sé, e quindi non era
+
+Pensava che dicesse queste cose perché era un amante del Piacere.
+
+ma che egli fosse realmente così convinto.)
+
+E pensava che la sua posizione non fosse meno provata dall'argomento da
+
+il contrario: cioè, poiché il Dolore era in sé un oggetto di evitamento
+
+a tutto il contrario deve essere parimenti oggetto di scelta.
+
+Di nuovo egli sostenne che è sommamente degno di scelta ciò che scegliamo, non per
+
+ragione di, o in vista di, alcunché di ulteriore; e che il Piacere è
+
+confessatamente di questo genere, perché nessuno mai arriva a chiedere a che cosa
+
+scopo egli è lieto, sentendo che il Piacere è in sé
+
+degno di scelta.
+
+Ancora, che quando aggiunto a qualsiasi altro bene lo rende più buono.
+
+degno di scelta; come, per esempio, alle azioni di giustizia, o compiute
+
+autodominio; e il bene può essere accresciuto soltanto da se stesso.
+
+Tuttavia, questo argomento almeno sembra dimostrare solo che appartiene a
+
+la classe dei beni, e non che lo faccia più di ogni altra cosa:
+
+poiché ogni bene è più degno di scelta in combinazione con qualche altro che
+
+quando preso del tutto isolatamente. In effetti, è proprio mediante un tale argomento che
+
+Platone dimostra che il Piacere non è il Bene Supremo: «Infatti», dice,
+
+la vita del Piacere è più degna di scelta in combinazione con
+
+[Saggezza pratica](/concepts/phronesis) che separatamente da essa; ma, se il composto è migliore, allora
+
+Il Piacere semplice non può essere il Sommo Bene; perché il Sommo Bene stesso
+
+non può mediante alcuna aggiunta divenire degno di scelta di quanto già non sia:” e ciò
+
+è ovvio che nient'altro può essere il Sommo Bene, il quale da
+
+La combinazione con una qualsiasi delle cose buone in sé viene a essere più.
+
+degno di scelta.
+
+Che cosa c'è allora di tale natura? (intendendo, naturalmente, ciò di cui noi
+
+può partecipare; perché ciò che cerchiamo deve essere tale).
+
+Quanto a coloro che obiettono che “ciò a cui tutti tendono non è necessariamente buono,”
+
+Confesso che non riesco a vedere molto in ciò che dicono, perché ciò che tutti pensano
+
+diciamo è. E colui che vorrebbe tagliare via questo terreno da sotto di noi vuole.
+
+non addurre cose più affidabili: perché se l'argomento avesse
+
+si fosse basato sui desideri di creature irrazionali che vi fossero potute essere
+
+qualcosa in ciò che dice, ma, poiché i razionali desiderano anch'essi
+
+Piacere, come può la sua obiezione avere alcun peso? e può essere
+
+che, anche negli animali inferiori, vi sia qualche principio naturale di bene.
+
+al di sopra di sé stessi che mira al bene loro proprio.
+
+Né sembra essere fondato ciò che viene addotto riguardo all'argomento.
+
+dal contrario: voglio dire, alcuni dicono “non ne consegue che
+
+Il Piacere deve essere buono perché il Dolore è male, poiché il male può essere opposto.
+
+al male, e tanto il male quanto il bene a ciò che è indifferente:” ora ciò che essi
+
+Dire è abbastanza giusto in sé ma non regge nel presente.
+
+esempio. Se sia il Piacere che il Dolore fossero cattivi, entrambi sarebbero stati
+
+oggetti di evitamento; o se né l'uno né l'altro, allora né l'uno né l'altro sarebbe stato, a
+
+In tutti gli eventi devono essere stati eguali: ma ora gli uomini chiaramente evitano il
+
+uno come cattivo e scegliere l'altro come buono, e così c'è un completo
+
+opposizione.
+
+Né d'altra parte il Piacere è quindi escluso dall'essere buono perché
+
+non appartiene alla classe delle qualità: gli atti della Virtù sono
+
+non qualità, né lo è la Felicità [eppure certamente entrambe sono beni].
+
+Ancora, dicono che il Sommo Bene è limitato ma il Piacere illimitato, in
+
+che ammette gradi.
+
+Ora se essi giudicano questo dall'atto di provare Piacere, allora lo stesso
+
+La cosa si applicherà alla giustizia e a tutte le altre virtù, per quanto riguarda
+
+il che chiaramente si dice che gli uomini sono più o meno di tale e tale natura.
+
+i caratteri (secondo le diverse virtù), sono più giusti o
+
+più coraggioso, o si può praticare la giustizia e il dominio di sé più o meno.
+
+Se, d'altra parte, giudicano in relazione ai Piaceri
+
+essi stessi allora può essere che non ravvisino la vera causa, cioè che alcuni
+
+sono non mescolati e altri mescolati: poiché, come la salute essendo in sé
+
+limitato, ammette gradi, perché non dovrebbe il Piacere fare altrettanto e tuttavia esserlo
+
+limitato? nel primo caso lo spieghiamo col fatto che c'è
+
+non lo stesso temperamento delle parti in tutti gli uomini, né uno e medesimo
+
+sempre nello stesso individuo: ma la salute, benché rilassata, rimane su.
+
+fino a un certo punto, e differisce per gradi; e naturalmente lo stesso può
+
+essere il caso del Piacere.
+
+Di nuovo, supponendo che il Sommo Bene sia perfetto e tutti i Movimenti e
+
+Generazioni imperfette, essi cercano di mostrare che il Piacere è un Movimento e
+
+una generazione.
+
+Tuttavia non sembrano giustificati nell'affermare neppure che si tratti di un Movimento:
+
+ché ad ogni Movimento si reputano appartenere celerità e lentezza, e
+
+se non in sé, quanto a quello dell'universo, tuttavia relativamente: ma a
+
+Il piacere a nessuno di questi appartiene: perché sebbene uno possa essere giunto rapidamente
+
+in [lo stato](/concepts/state) Piacere, come in quello di [ira](/concepts/anger), non si può essere in lo
+
+affermare rapidamente, né relativamente allo stato di qualsiasi altra persona; ma
+
+possiamo camminare o crescere, e così via, velocemente o lentamente.
+
+Naturalmente è possibile trasformarsi rapidamente nello stato di Piacere.
+
+o lentamente, ma agire nello stato (con cui, intendo, avere il
+
+percezione del Piacere) rapidamente, non è possibile.
+
+E come può essere una Generazione? perché, secondo le nozioni generalmente
+
+Si tiene, non che qualche cosa sia generata da qualche cosa, ma che una cosa si risolva.
+
+se stesso in ciò da cui fu generato: mentre di quello di
+
+che il Piacere è una Generazione, il Dolore è una Distruzione.
+
+Ancora, dicono che il Dolore sia una mancanza di qualcosa di adatto alla natura e
+
+Piacere: una scorta di esso.
+
+Ma queste sono affezioni del corpo: ora, se il Piacere è realmente un
+
+fornire alcunché di adatto alla natura, che deve sentire il Piacere.
+
+in cui ha luogo la fornitura, quindi il corpo naturalmente: eppure questo
+
+non si ritiene che sia così: neppure allora il Piacere è un riempimento, solo un
+
+persona naturalmente sarà lieta quando una provvista ha luogo proprio come egli
+
+Sarà addolorato quando verrà stroncato.
+
+Questa nozione sembrerebbe essere sorta dai Dolori e dai Piaceri.
+
+connesso con il nutrimento naturale; perché, quando le persone hanno sentito un
+
+Mancano e così hanno avuto prima il Dolore, essi, naturalmente, sono lieti del
+
+il supplimento della loro mancanza.
+
+Ma non è questo il caso per tutti i Piaceri: quelli conseguenti a
+
+gli studi matematici, per esempio, non hanno alcuna connessione con il Dolore; e
+
+di quelle che accompagnano i sensi quelle che sorgono attraverso il senso di
+
+Odore; e ancora, molti suoni, e visioni, e ricordi, e speranze: ora
+
+di che cosa possono essere queste Generazioni? poiché qui non è mancato
+
+di qualsiasi cosa da fornire in seguito.
+
+E a coloro che adducono Piaceri vergognosi possiamo rispondere che
+
+queste non sono cose davvero piacevoli; poiché non ne consegue che
+
+Essi sono piacevoli ai mal disposti che noi dobbiamo ammettere che essi
+
+sono piacevoli tranne che per loro; così come non dovremmo dire che quelli
+
+le cose sono realmente salutari, o dolci, o amare, che sono tali al
+
+malato, o quegli oggetti realmente bianchi che danno quella impressione a
+
+Persone travagliate da oftalmia.
+
+Oppure potremmo dire così, che i Piaceri sono degni di scelta ma non come
+
+derivato da queste fonti: così come è la ricchezza, ma non come il prezzo di
+
+tradimento; o salute, ma non alle condizioni di mangiare qualsivoglia cosa.
+
+Abominevole.
+
+O ancora, non possiamo forse dire che i Piaceri differiscono per genere? quelli derivati
+
+da oggetti onorevoli, per esempio sono differenti da quelli che sorgono
+
+da quelle vergognose; e non è possibile esperire il
+
+Piacere dell'uomo giusto senza essere giusto, o dell'uomo musicale.
+
+senza essere musicale; e così via di altri.
+
+La distinzione comunemente tracciata tra l'amico e l'adulatore.
+
+parrebbe mostrare chiaramente o che il Piacere non è un bene, o che
+
+vi sono diversi generi di Piacere: poiché il primo è ritenuto
+
+<span class="atom-split" data-atom="143" data-title="Chapter II. (parte 11)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
 
 have good as the object of his intercourse, the latter Pleasure only;
 
@@ -14842,7 +29507,43 @@ are derived. Let this then suffice by way of an account of the current
 
 maxims respecting Pleasure and Pain.
 
-<span class="atom-split" data-atom="144" data-title="Chapter III. (11/11)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+avere il bene come oggetto del suo commercio, quest’ultima solo il Piacere;
+
+e quest'ultimo è biasimato, ma il primo gli uomini lodano come avente
+
+diversi oggetti nel suo commercio.
+
+Ancora, nessuno sceglierebbe di vivere con l’intelletto di un bambino tutta la sua
+
+attraverso la vita, pur ricevendo il più alto Piacere possibile da tale
+
+oggetti come i bambini lo ricevono da; o di prendere Piacere nel fare qualsiasi
+
+delle cose più vergognose, sebbene certa di non provar mai dolore.
+
+Vi sono pure molte cose circa le quali dovremmo essere diligenti, anche.
+
+quantunque non recassero alcun Piacere; come il vedere, il ricordare, il conoscere,
+
+possedendo le varie Eccellenze; e il fatto che i Piaceri lo facciano
+
+seguire su queste naturalmente non fa differenza, perché dovremmo
+
+Certamente li scelgono anche se non ne derivasse alcun Piacere.
+
+Sembra quindi essere chiaro che il Piacere non è il Bene Supremo, né lo è
+
+ogni genere di esso degno di scelta: e che ve ne sono alcuni degni di scelta
+
+in sé, differenti per genere, cioè per le fonti da cui
+
+sono derivati. Basti questo allora a mo' di resoconto dell'attuale
+
+Massime riguardanti il Piacere e il Dolore.
+
+<span class="atom-split" data-atom="144" data-title="Chapter III. (parte 11)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
 
 Now what it is, and how characterised, will be more plain if we take up
 
@@ -14946,7 +29647,111 @@ of these a Movement or a Generation: neither then of Pleasure is there
 
 Movement or Generation, because it is, as one may say, “a whole.”
 
-<span class="atom-split" data-atom="145" data-title="Chapter IV. (11/12)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora che cosa sia, e come caratterizzato, sarà più chiaro se riprendiamo.
+
+il soggetto di nuovo.
+
+Un atto della Vista è ritenuto completo in ogni momento; vale a dire
+
+diciamo, non gli manca nulla la cui accessione successivamente lo completerà
+
+la sua intera natura.
+
+Ebbene, il Piacere somiglia a questo: perché è un tutto, come si può dire;
+
+e non si potrebbe in nessun momento del tempo prendere un Piacere il cui intero
+
+la natura sarebbe completata dal suo durare più a lungo. E per
+
+Per questa ragione non è un Movimento: perché ogni Movimento ha luogo nel tempo.
+
+di una certa durata e ha un certo Fine da compiere; per esempio,
+
+Il Movimento della costruzione di case è quindi completo solo quando il
+
+il costruttore ha prodotto ciò che intendeva, cioè, o nel tutto.
+
+tempo [necessario al compimento dell'intero disegno], o in un dato
+
+porzione. Ma tutti i Movimenti subordinati sono incompleti nel
+
+parti del tempo, e sono differenti per genere dall'intero movimento.
+
+e gli uni dagli altri (voglio dire, per esempio, che l'adattare le pietre
+
+insieme è un Movimento differente da quello di scanalare la colonna, e
+
+entrambi di nuovo dalla costruzione del Tempio nel suo insieme: ma questo
+
+L'ultimo è completo in quanto non manca nulla al risultato proposto; mentre
+
+quella del seminterrato, o del triglifo, è incompleta, perché ciascuna
+
+è un Movimento di una parte soltanto.
+
+Come dissi allora, essi differiscono per genere, e non puoi in alcun momento tu
+
+scegli trova un Movimento completo nella sua intera natura, ma, se mai, in
+
+Tutto il tempo necessario.
+
+E così è per il Movimento del camminare e per tutti gli altri: poiché, se
+
+Il moto sia un Movimento da un luogo a un altro luogo, allora anche di esso
+
+ci sono diversi tipi, volanti, camminanti, saltanti, e simili. E
+
+Non solo, ma ci sono diversi tipi anche nel camminare: il
+
+Il da-dove e l'a-dove non sono gli stessi nell'intero Corso come in un
+
+porzione di esso; né in una porzione come in un'altra; né è attraversare questo
+
+linea lo stesso che attraversare quella: perché un uomo non sta semplicemente attraversando una
+
+linea ma una linea in un luogo dato, e questa è in un luogo diverso da
+
+Quello.
+
+Del Movimento ho discorso esattamente in un altro trattato. Io ora
+
+perciò si dica soltanto che sembra non essere completo in qualunque dato
+
+momento; e che la maggior parte dei movimenti sono incompleti e specificamente
+
+diverse, poiché il donde e il dove costituiscono specie diverse.
+
+Ma del Piacere tutta la natura è completa in ogni dato momento: essa è
+
+È evidente, quindi, che Piacere e Movimento devono essere diversi l'uno dall'altro.
+
+un altro, e che il Piacere appartiene alla classe delle cose intere e
+
+completo. Ciò potrebbe apparire anche dall'impossibilità di muoversi.
+
+eccetto che in un tempo determinato, mentre non ve n'è alcuno rispetto al
+
+sensazione di Piacere, poiché ciò che esiste nel momento stesso presente è un
+
+una specie di “intero.”
+
+Da queste considerazioni, dunque, è evidente che gli uomini non sono.
+
+Giustificato nel dire che il Piacere è un Movimento o una Generazione:
+
+perché questi termini non sono applicabili a tutte le cose, ma solo a quelle che
+
+sono divisibili e non “interi”: voglio dire che di un atto di Vista vi è
+
+nessuna Generazione, né v'è di un punto, né di una [monade](/concepts/monad), né alcuno è
+
+Di queste un Movimento o una Generazione: né allora di Piacere v'è
+
+Movimento o Generazione, perché è, per così dire, “un tutto.”
+
+<span class="atom-split" data-atom="145" data-title="Chapter IV. (parte 11)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
 
 Now since every Percipient Faculty works upon the Object answering to
 
@@ -15212,7 +30017,273 @@ different, but those of the same, we may reasonably suppose, are
 
 without difference.
 
-<span class="atom-split" data-atom="146" data-title="Chapter IV. (12/12)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora, poiché ogni Facoltà Percipiente opera sull'Oggetto corrispondente a
+
+esso, e perfettamente la Facoltà in buono stato sopra l'eccellentissimo.
+
+degli Oggetti entro il suo raggio (poiché il Perfetto Operare è ritenuto essere
+
+molto di ciò che ho descritto; e non solleveremo alcuna questione su
+
+dire “la Facoltà” funziona, invece di, “quel soggetto in cui il
+
+Facoltà risiede”), in ogni caso il miglior Operare è quello della Facoltà
+
+nel suo stato migliore rispetto al migliore degli Oggetti che gli corrispondono. E
+
+Ciò sarà, inoltre, perfettissimo e piacevolissimo: poiché il Piacere è
+
+inerente a ogni facoltà percettiva, e similmente su ogni
+
+operazione intellettuale e speculazione; e quella è la più piacevole che
+
+è perfettissimo, e perfettissimo quello che è l'Operazione del meglio
+
+Facoltà sul più eccellente degli Oggetti nel suo ambito.
+
+E il Piacere perfeziona l'Operare. Ma il Piacere non lo perfeziona in
+
+nello stesso modo in cui la Facoltà e l'Oggetto della Percezione fanno, essendo buoni;
+
+così come la salute e il medico non sono, in sensi simili, cause di un
+
+stato sano.
+
+E che il Piacere sorge nell'esercizio di ogni Percipiente.
+
+La facoltà è evidente, poiché comunemente diciamo che le viste e i suoni sono
+
+piacevole; è anche evidente che ciò è specialmente il caso quando
+
+La Facoltà è eccellentissima e opera su un simile Oggetto: e quando
+
+Tanto l'Oggetto quanto la Facoltà di Percezione sono tali, il Piacere sarà
+
+esistono sempre, supponendo naturalmente un agente e un paziente.
+
+Inoltre, il Piacere perfeziona l'atto del Lavorare non nel modo di un
+
+stato inerente ma come una finitura sopravveniente, quale è il fiorire negli uomini.
+
+nel loro pieno vigore. Dunque finché l'Oggetto dell'intelletto o
+
+La sensibile Percezione è tale quale dovrebbe essere e anche la Facoltà che
+
+discerne o realizza l'Oggetto, vi sarà Piacere nell'Operare:
+
+perché quando ciò che ha la capacità di essere agito e quello
+
+che è atto ad agire sono simili e similmente relati, lo stesso risultato
+
+Segue naturalmente.
+
+Come si spiega allora che nessuno provi Piacere continuamente? non è forse che
+
+egli si stanca, perché tutte le facoltà umane sono incapaci di un'operazione senza intervallo.
+
+sforzo; e così, naturalmente, nemmeno il Piacere sorge, perché
+
+che consegue all'atto del Lavorare. Ma vi sono alcune cose che
+
+piace quando è nuovo, ma poi non nel medesimo modo, poiché esattamente il
+
+per la stessa ragione: che dapprima la mente è risvegliata e opera su queste
+
+Oggetti con le sue forze a piena tensione; proprio come coloro che stanno guardando.
+
+fermamente a qualsiasi cosa; ma in appresso l'atto del Lavorare non è del
+
+Gentile era all'inizio, ma incurante, e così anche il Piacere è smorzato.
+
+Ancora, una persona potrebbe concludere che tutti gli uomini aspirano al Piacere, perché
+
+tutti mirano ugualmente alla Vita e la Vita è un atto di Lavorare, e ogni uomo
+
+lavora a e con quelle cose che anche egli più ama; il musicale
+
+l'uomo, per esempio, lavora con l'udito alla musica; l'uomo studioso
+
+con il suo intelletto alle questioni speculative, e così via. E il Piacere.
+
+Perfeziona gli atti del Lavorare, e così la Vita a cui gli uomini anelano. No
+
+Ci si meravigli, quindi, che essi mirino anche al Piacere, perché esso perfeziona ciascuno.
+
+La vita, che è di per sé degna di scelta. (Ci sia concesso di omettere il
+
+Chiediamoci se scegliamo la Vita per amore del Piacere o il Piacere per amore della Vita.
+
+Per amor della vita; perché questi due sono chiaramente strettamente connessi e ammettono
+
+non di separazione; giacché il Piacere non viene all'essere senza il Lavorare,
+
+e di nuovo, ogni Piacere Operante si perfeziona.)
+
+E questa è una ragione per cui si ritiene che i Piaceri differiscano per genere,
+
+perché supponiamo che le cose che differiscono per genere debbano essere perfezionate.
+
+per cose così differenti: essendo chiaramente il caso, nelle produzioni, che
+
+della Natura e dell'Arte; come animali, e alberi, e quadri, e statue,
+
+e case, e mobili; e così supponiamo che allo stesso modo agisce.
+
+di Attività che sono differenti per genere sono perfezionate dalle cose
+
+differenti per genere. Ora i Lavori Intellettuali differiscono specificamente da
+
+quelli dei Sensi, e questi ultimi gli uni dagli altri; perciò così fanno
+
+i Piaceri che li perfezionano.
+
+Ciò può essere mostrato anche dall'intima connessione sussistente tra
+
+ciascun Piacere e l'Operare che esso perfeziona: voglio dire, che il
+
+Il piacere proprio di ogni Operazione accresce quella Operazione; poiché coloro che
+
+Lavora con Piacere, vaglia tutte le cose più da vicino e portale a
+
+maggior grado di sottigliezza; per esempio, quegli uomini diventano geometri.
+
+che prendono Piacere nella geometria, e afferrano punti particolari.
+
+più compiutamente: parimenti gli uomini che amano la musica, o
+
+architettura, o qualsiasi altra cosa, migliori ciascuno nella propria attività,
+
+perché provano Piacere in essi. Così i Piaceri aiutano in
+
+accrescendo le Opere, e le cose che a ciò aiutano sono proprie e
+
+peculiare: ma le cose che sono proprie e peculiari di altri.
+
+Specificamente differenti sono essi stessi anche specificamente differenti.
+
+Eppure ancor più chiaramente può ciò essere mostrato dal fatto che la
+
+I Piaceri derivanti da una sorta di Operazioni impediscono altre Operazioni; poiché
+
+esempio, le persone che amano la musica di flauto non possono mantenere il loro
+
+attenzione alla conversazione o al discorso quando colgono il suono di un
+
+flauto; perché traggono più Piacere nel suonare il flauto che nel
+
+Il lavoro a cui sono in quel momento impegnati; in altre parole, il Piacere.
+
+concomitante al suonare il flauto distrugge l'Operazione della conversazione o
+
+discorso.
+
+Pressappoco lo stesso genere di cosa accade in altri casi, quando una persona
+
+è impegnato in due diverse Opere allo stesso tempo: cioè, il
+
+Il più piacevole dei due continua a spingere fuori l'altro, e, se il
+
+La disparità nella piacevolezza sia grande, poi sempre più finché anche un uomo.
+
+cessa del tutto di lavorare all'altro.
+
+Questa è la ragione per cui, quando siamo molto compiaciuti di qualcosa,
+
+Comunque sia, non facciamo altro, e non è se non quando non siamo che moderatamente.
+
+Contenti di un'occupazione che la variamo con un'altra: persone, per
+
+esempio, chi mangia dolciumi a teatro lo fa soprattutto quando il
+
+la performance è indifferente.
+
+Da allora il Piacere proprio e peculiare dà accuratezza al
+
+Lavorazioni e le rende più durature e migliori nel loro genere, mentre
+
+Quei piaceri che sono a loro estranei li guastano, è palese ivi.
+
+è una grande differenza tra loro: infatti, i Piaceri estranei a qualsiasi
+
+L'operare ha pressappoco lo stesso effetto dei Dolori ad esso propri,
+
+che, in effetti, distruggono le Opere; voglio dire, se un uomo non gradisce
+
+lo scrivere, o un altro calcolo, l'uno non scrive, l'altro sì.
+
+non calcolare; perché, in ogni caso, il Lavoro è accompagnato da qualche
+
+Dolore: così allora effetti contrari sono prodotti sulle Operazioni dal
+
+Piaceri e Dolori loro propri, con i quali intendo quelli che sorgono
+
+sull'Opera, in sé, indipendentemente da ogni altra circostanza.
+
+Quanto ai piaceri estranei ad un'operazione, abbiamo già detto che
+
+essi producono un effetto simile al Dolore proprio di esso; cioè essi
+
+distruggere l'Opera, solo non in simil guisa.
+
+Ebbene, siccome le Operazioni differiscono tra loro in bontà e malvagità,
+
+alcune essendo oggetti adatti di scelta, altre di evitamento, e altre in
+
+la loro natura indifferente, i Piaceri sono similmente correlati; poiché la sua
+
+Il suo proprio Piacere accompagna ogni Operazione: naturalmente quello proprio a un
+
+Il buon operare è buono, quello proprio a un cattivo, cattivo: poiché anche i desideri
+
+Poiché ciò che è nobile è lodabile, e poiché ciò che è vile è biasimevole.
+
+Inoltre, i Piaceri annessi alle Operazioni sono più strettamente
+
+connessi con essi più ancora che i desideri dopo di essi: poiché questi ultimi
+
+sono separati sia nel tempo che nella natura, ma i primi sono vicini alle
+
+Funzionamenti, e così indivisibili da essi da sollevare una questione se
+
+il Lavorare e il Piacere sono identici; ma il Piacere non sembra.
+
+essere un'Operazione Intellettuale né una Facoltà di Percezione, perché
+
+ciò è assurdo; ma tuttavia dà ad alcuni l'impressione di essere lo stesso.
+
+dal non essere separati da questi.
+
+Poiché dunque le Operazioni sono differenti, così sono i loro Piaceri; ora la Vista
+
+differisce dal Tatto in purezza, e l'Udito e l'Odorato dal Gusto;
+
+dunque, similmente, fanno i loro Piaceri; e ancora, Intellettuali
+
+Piaceri da questi Sensuali, e le differenti specie sia di
+
+Intellettuale e Sensuale l'uno dall'altro.
+
+Si pensa, inoltre, che ogni animale abbia un Piacere proprio a
+
+se stesso, poiché ha una propria Opera; quel Piacere naturalmente che è
+
+attinente all'Opera. E la validità di ciò apparirà indi.
+
+ispezione particolare: infatti cavallo, cane e uomo hanno differenti
+
+Piaceri; come dice Eraclito, un asino preferirebbe il fieno all'oro;
+
+in altre parole, la biada è più gradita agli asini che l'oro. Dunque il
+
+I piaceri di animali specificamente differenti sono anche specificamente differenti.
+
+diversi, ma quelli della stessa, possiamo ragionevolmente supporre, sono
+
+senza differenza.
+
+<span class="atom-split" data-atom="146" data-title="Chapter IV. (parte 12)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
 
 Yet in the case of human creatures they differ not a little: for the
 
@@ -15268,7 +30339,63 @@ rest in a secondary sense, and in various degrees according as the
 
 Workings are related to those highest and best ones.
 
-<span class="atom-split" data-atom="147" data-title="Chapter V. (10/10)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Tuttavia nel caso delle creature umane esse differiscono non poco: poiché il
+
+le medesime cose piacciono ad alcuni e danno dolore ad altri: e quelle che sono dolorose e
+
+Odiosi ad alcuni sono piacevoli e graditi ad altri. Lo stesso è il
+
+caso delle cose dolci: lo stesso non sembrerà tale all'uomo febbricitante.
+
+quanto a colui che è in salute: né l'infermo e la persona in
+
+Robusta salute hanno la stessa nozione di calore. Lo stesso è il caso di
+
+anche altre cose.
+
+Ora in tutti questi casi si ritiene che sia quello che colpisce l'uomo buono.
+
+con la nozione di essere tale e tale; e se questa è una seconda massima
+
+(come suol ritenersi), e la Virtù, cioè l'uomo buono, in
+
+Che egli sia tale è la misura di ogni cosa, allora quelle devono essere reali.
+
+I piaceri che gli davano l’impressione di esserlo e quelle cose.
+
+piacevole in cui egli trae Piacere. Né è affatto sorprendente che
+
+Le cose che a lui sono spiacevoli dovrebbero dare ad un'altra persona l'impressione di
+
+essendo piacevole, poiché gli uomini sono soggetti a molte corruzioni e guasti;
+
+e le cose in questione non sono piacevoli in realtà, se non per costoro
+
+persone particolari, e a loro soltanto in quanto così disposte.
+
+Beh, naturalmente, potreste dire, è ovvio che dobbiamo asserire quelli.
+
+che sono confessatamente disonorevoli a essere veri Piaceri, se non a
+
+gusti depravati: ma di quelli che sono ritenuti buoni, che tipo,
+
+o quale, dobbiamo dire, è il Piacere dell'Uomo? non è piana la risposta?
+
+dal considerare le Operazioni, perché i Piaceri conseguono a queste?
+
+Se adunque vi sia una o più Operazioni che appartengono al perfetto
+
+e beato uomo, i Piaceri che perfezionano queste Operazioni devono essere
+
+detti essere specialmente e propriamente i Piaceri dell'Uomo; e tutti i
+
+riposare in senso secondario, e in vari gradi secondo che il
+
+Le operazioni sono in relazione con quelle più alte e migliori.
+
+<span class="atom-split" data-atom="147" data-title="Chapter V. (parte 10)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
 
 Now that we have spoken about the Excellences of both kinds, and
 
@@ -15404,7 +30531,143 @@ implied in life: because Happiness stands not in such pastimes but in
 
 the Workings in the way of Excellence, as has also been stated before.
 
-<span class="atom-split" data-atom="148" data-title="Chapter VI. (10/11)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora che abbiamo parlato delle eccellenze di entrambi i generi, e
+
+[Amicizia](/concepts/friendship) nelle sue varietà, e Piaceri, resta da abbozzare.
+
+La felicità, poiché supponiamo che essa sia l'unico Fine di tutte le cose umane:
+
+e risparmieremo tempo e fatica ricapitolando quanto fu detto.
+
+prima.
+
+Orbene, abbiamo detto che non è uno Stato soltanto; perché, se lo fosse,
+
+potrebbe appartenere a colui che dormì per tutta la vita e meramente
+
+vegetato, o a colui che cadde in grandissime calamità: e così, se
+
+queste possibilità ci dispiacciono e preferiremmo metterlo nel
+
+rango di una sorta di Operazione (come è stato anche detto prima), e Operazioni
+
+sono di diversi tipi (alcuni essendo necessari e degni di scelta con un
+
+in vista di altre cose, mentre altre sono tali di per sé), è chiaro
+
+Dobbiamo annoverare la Felicità tra quelle degne di essere scelte per se stesse.
+
+e non tra quelle che sono tali in vista di qualcosa di ulteriore:
+
+perché la Felicità non difetta di nulla, ma è autosufficiente.
+
+Per 'degne di scelta in sé' si intendono quelle da cui nulla è.
+
+cercati oltre l'atto del Lavorare: e di questa sorta si ritiene che siano
+
+le azioni secondo la Virtù, perché fare ciò che è nobile e
+
+Eccellente è una di quelle cose che sono degne di scelta per il loro proprio.
+
+Solo sake.
+
+E ancora, tali divertimenti che sono piacevoli; perché gli uomini non
+
+Sceglieteli con qualsiasi ulteriore scopo: infatti ricevono più danno.
+
+che trarre profitto da loro, trascurando le loro persone e le loro proprietà.
+
+Eppure il comune di coloro che sono giudicati felici si rifugia in tali.
+
+passatempi, che è la ragione per cui coloro che hanno talento vario in tali
+
+sono molto stimati tra i despoti; perché si rendono
+
+piacevoli in quelle cose a cui queste mirano, e queste conseguentemente mancano
+
+tali uomini.
+
+Or queste cose sono ritenute pertinenze della Felicità perché
+
+Gli uomini al potere trascorrono il loro ozio in ciò: tuttavia, può darsi, non possiamo.
+
+Si arguisce dall'esempio di tali uomini: perché non c'è né Virtù né
+
+Intelletto necessariamente implicato nell'avere potere, eppure questi sono i
+
+uniche fonti di buone Operazioni: né segue che poiché queste
+
+uomini, non avendo mai gustato il puro e generoso Piacere, si rifugiano in
+
+Quelli corporei, dobbiamo pertanto crederli più degni di scelta:
+
+ché anche i bambini credono che quelle cose siano le più eccellenti che sono
+
+preziosi ai loro occhi.
+
+Possiamo ben credere che, siccome i bambini e gli uomini hanno idee diverse quanto a
+
+ciò che è prezioso così pure hanno il male e il bene: perciò, come noi
+
+ho molte volte detto, quelle cose sono davvero preziose e piacevoli
+
+che sembrano tali all'uomo buono: e quanto a ciascun individuo, quell'operare.
+
+è il più degno di scelta che è secondo il suo proprio stato al
+
+Buono è l'uomo che è tale, il quale è conforme alla Virtù.
+
+La felicità quindi non sta nel divertimento; anzi, la nozione stessa è
+
+assurdità della Fine come divertimento, e del proprio affaticarsi e sopportare
+
+durezza per tutta la vita in vista del divertimento: per ogni cosa
+
+nel mondo, per così dire, scegliamo con qualche Fine ulteriore in vista.
+
+eccetto la Felicità, poiché essa è il Fine che abbraccia tutti gli altri. Ora, per
+
+Prendersi pena e [faticare](/concepts/labour) in vista del divertimento è manifestamente stolto.
+
+e molto fanciullesco: ma dilettarsi colla mira di stabilirsi.
+
+L'impiego successivo, come dice Anacarsi, è ritenuto giusto: poiché
+
+Il divertimento è come il riposo, e gli uomini desiderano il riposo perché incapaci di lavorare.
+
+continuamente.
+
+Il riposo, quindi, non è un Fine, perché è adottato in vista di
+
+Lavorando dopo.
+
+Ancora, si ritiene che la vita felice debba essere una che procede sulla via di.
+
+Eccellenza, e questa è accompagnata da serietà, e non sussiste
+
+per gioco. Inoltre quelle cose che sono fatte sul serio, diciamo,
+
+sono migliori delle cose meramente ridicole e congiunte con diletto: e
+
+diciamo che l'operazione della parte migliore, o dell'uomo migliore, è più
+
+serio; e l'Operare del meglio è ad un tempo migliore e più
+
+capace di Felicità.
+
+Poi, di nuovo, quanto ai Piaceri corporei, qualunque persona comune, o anche un
+
+schiavo, potrebbe goderne, altrettanto bene del miglior uomo vivente ma
+
+La felicità nessuno suppone che uno schiavo la condivida se non in quanto esso è
+
+implicito nella vita: perché la Felicità non sta in tali passatempi ma in
+
+le Operazioni nella via dell'Eccellenza, come è stato anche detto innanzi.
+
+<span class="atom-split" data-atom="148" data-title="Chapter VI. (parte 10)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
 
 Now if Happiness is a Working in the way of Excellence of course that
 
@@ -15666,7 +30929,269 @@ may appear also from the following consideration: our conception of the
 
 gods is that they are above all blessed and happy: now what kind of
 
-<span class="atom-split" data-atom="149" data-title="Chapter VI. (11/11)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora, se la Felicità è un'Attività nel modo dell'Eccellenza, naturalmente ciò
+
+L'Eccellenza deve essere la più alta, vale a dire, l'Eccellenza del
+
+miglior Principio. Se allora questo miglior Principio è Intelletto o alcunché
+
+altro che è pensato naturalmente per governare e guidare e concepire
+
+cose nobili e divine, se essendo nella sua propria natura divino o il
+
+il più divino di tutti i nostri Principi interni, l'Operare di questo in
+
+La conformità con la propria Eccellenza deve essere il perfetto.
+
+Felicità.
+
+Che essa sia Contemplativa è già stato detto: e questo sembrerebbe
+
+per essere coerenti con quanto detto prima e con la verità: poiché, nel
+
+In primo luogo, questa Opera è del più alto genere, poiché l'Intelletto
+
+è il più alto dei nostri Principi interni e i soggetti con cui
+
+esso è pratico del sommo di tutti quelli che cadono entro il raggio del nostro
+
+conoscenza.
+
+Inoltre, essa è anche la più continua: poiché siamo maggiormente in grado di contemplare.
+
+che fare qualsiasi altra cosa, continuamente.
+
+Ancora, pensiamo che il Piacere debba essere in qualche modo un ingrediente in
+
+Felicità, e di tutte le Operazioni secondo Eccellenza che in
+
+La via della Scienza è confessatamente piacevolissima: almeno il perseguirla.
+
+della Scienza si pensa che contenga Piaceri ammirevoli per purezza e
+
+permanenza; ed è ragionevole supporre che l'impiego sia più
+
+più piacevole a coloro che hanno padroneggiato, che a coloro che sono ancora alla ricerca.
+
+per, esso.
+
+E l'Autosufficienza di cui la gente parla spetterà principalmente a
+
+l'Opera Contemplativa: naturalmente le necessità effettive della vita sono
+
+necessario parimenti all'uomo di scienza, e all'uomo giusto, e a tutti gli altri
+
+caratteri; ma, supponendo tutti sufficientemente provvisti di questi, il
+
+Il giusto necessita di persone verso cui, e di concerto con cui,
+
+praticare la sua giustizia; e in egual modo l'uomo dei perfezionati.
+
+l'autodominio, e l'uomo coraggioso, e così via per il resto; mentre l'uomo
+
+della scienza può contemplare e speculare anche quando è del tutto solo, e il
+
+Quanto più interamente egli merita l'appellativo, tanto più è egli capace di farlo:
+
+può darsi che egli possa far meglio per avere compagni di lavoro, ma tuttavia egli è
+
+Certamente il più Autosufficiente.
+
+Di nuovo, questo solo sembrerebbe essere ciò in cui si riposa per sé stesso, poiché
+
+Nulla ne risulta al di là del fatto di aver contemplato; mentre
+
+Da tutte le cose che sono oggetto di azione morale noi intendiamo ottenere.
+
+Qualcosa oltre al farle, sia lo stesso più o meno.
+
+Inoltre, si ritiene che la Felicità consista in perfetto riposo; giacché ci affatichiamo
+
+affinché possiamo riposare, e guerreggiamo affinché possiamo essere in pace. Ora tutto il
+
+Le virtù pratiche richiedono o società o guerra per il loro operare, e
+
+Le azioni riguardanti queste cose sono ritenute escludere il riposo; quelle della guerra.
+
+interamente, perché nessuno sceglie la guerra, né si prepara alla guerra, per la guerra
+
+bene: egli sarebbe davvero considerato un malvagio assetato di sangue che dovrebbe fare
+
+nemici dei suoi amici per assicurare l'esistenza della lotta e
+
+spargimento di sangue. Anche l'operare dello statista esclude l'idea di riposo,
+
+e, oltre all'effettiva opera di governo, cerca il potere e
+
+dignità o almeno Felicità per l'uomo stesso e il suo
+
+concittadini: una Felicità distinta dalla Felicità nazionale,
+
+che evidentemente cerchiamo come differenti e distinti.
+
+Se dunque di tutte le azioni conformi alle varie virtù quelle
+
+della politica e della guerra sono preminenti in onore e grandezza, e queste
+
+sono irrequieti, e mirano a qualche fine ulteriore e non sono degni di essere scelti per
+
+per il lor proprio bene, ma l'Operare dell'Intelletto, essendo atto a
+
+La contemplazione è ritenuta eccellere in serietà, e non mirare ad alcun fine.
+
+oltre sé e avere un Piacere proprio che aiuta ad accrescere
+
+il Lavoro, e se gli attributi dell'Autosufficienza, e capacità di
+
+riposo, e instancabilità (per quanto è compatibile con l'infermità della
+
+[natura umana](/axes/human_nature)), e tutti gli altri attributi della Felicità suprema,
+
+appartengono manifestamente a quest'Opera, questa deve essere perfetta Felicità, se
+
+raggiungendo una completa durata di vita, condizione che è aggiunta perché
+
+Nessuno dei punti della Felicità è incompleto.
+
+Ma una tale vita sarà più alta della mera natura umana, perché un uomo
+
+vivrà così, non in quanto è uomo, ma in quanto vi è in
+
+lui un divino Principio: e nella misura in cui questo Principio supera il suo
+
+La natura composita, tanto eccelle l’Opera d’essa quella in
+
+conformità con qualsiasi altro tipo di Eccellenza: e quindi, se pura
+
+L'intelletto, in confronto alla natura umana, è divino, così anche sarà il
+
+La vita conforme ad esso sarebbe divina a paragone della vita ordinaria dell’uomo.
+
+Eppure non dobbiamo forse prestare orecchio a coloro che esortano l'uomo, in quanto uomo, a curarsi soltanto delle cose dell'uomo?
+
+cose, o come mortale solo cose mortali; ma, per quanto possiamo, rendere
+
+noi stessi come immortali e facciamo tutto in vista di vivere conformemente
+
+con il più alto Principio in noi, poiché per quanto piccolo possa essere nella mole, tuttavia in
+
+Di potenza e preziosità supera di gran lunga tutte le altre.
+
+In effetti questo Principio sembrerebbe costituire il “Sé” di ogni uomo,
+
+poiché esso è supremo e al di sopra di tutti gli altri in bontà, sarebbe
+
+assurdo allora per un uomo non scegliere la propria vita ma quella di qualcuno
+
+I notice the passage to be translated was not included in your message. Please provide the English text, and I will translate it into Italian following your specifications.
+
+E qui si applicherà un'osservazione fatta in precedenza, che tutto ciò che è proprio
+
+A ciascuno è naturalmente il meglio e il più piacevole per lui: tale è dunque per l'uomo
+
+la vita conforme al puro Intelletto (poiché questo Principio è
+
+il più veramente Uomo), e se è così, allora è anche il più felice.
+
+E seconda in grado di Felicità sarà quella Vita che è in
+
+conformità con l’altra specie di Eccellenza, per le Operazioni in
+
+Conformemente a questo sono proprie dell'uomo: intendo dire, facciamo azioni di
+
+giustizia, coraggio, e le altre virtù, verso gli uni gli altri, in
+
+contratti, servizi di diverso genere, e in ogni sorta di azioni e
+
+anche i sentimenti, osservando ciò che si addice a ciascuno: e tutte queste
+
+chiaramente sono proprie dell'uomo. Inoltre, l'Eccellenza del Morale
+
+Si ritiene che il carattere derivi per alcuni aspetti da cause fisiche.
+
+circostanze, e di essere, in molte, molto strettamente connesse con il
+
+passioni.
+
+Ancora, [Saggezza pratica](/concepts/phronesis) e l'Eccellenza del carattere morale sono
+
+molto strettamente uniti; poiché i Principi della Saggezza Pratica sono in
+
+conformità con le Virtù Morali e queste sono giuste quando concordano
+
+con saggezza pratica.
+
+Queste inoltre, in quanto legate alle passioni, debbono appartenere al
+
+natura composita, e le Eccellenze o Virtù del composto
+
+le nature sono proprie dell’uomo: quindi così pure sarà la vita e
+
+La felicità che è in accordo con essi. Ma quella dei Puri.
+
+L'intelletto è separato e distinto: e basti questo sul
+
+soggetto, poiché la grande esattezza è al di là del nostro scopo,
+
+Sembrerebbe, inoltre, richiedere fornitura di beni esterni a una piccola
+
+grado, o certamente meno della Felicità Morale: poiché, per quanto
+
+Per quanto concerne le necessità della vita, supporremo che entrambi i caratteri
+
+ne hanno ugualmente bisogno (sebbene, a dire il vero, l'uomo che vive in
+
+La società si dà davvero più pena per la sua persona e tutto quel genere di
+
+cosa; ci sarà davvero qualche piccola differenza), ma quando veniamo
+
+per considerare le loro Operazioni vi si troverà una grande differenza.
+
+Voglio dire, l'uomo liberale deve avere denaro con cui compiere le sue azioni liberali,
+
+e l'uomo giusto a far fronte ai suoi impegni (poiché mere intenzioni sono
+
+incerto, e anche coloro che sono ingiusti fanno mostra di desiderare.
+
+per agire con giustizia), e l'uomo coraggioso deve avere il potere, se deve compiere
+
+qualsivoglia delle azioni che appartengono alla sua particolare Virtù, e il
+
+Un uomo di perfezionata padronanza di sé deve avere occasione di tentazione, altrimenti
+
+Come potrà lui o alcuno degli altri mostrare il suo vero carattere?
+
+A proposito, talvolta si solleva una questione, se la scelta morale
+
+o le azioni hanno soprattutto a che fare con la Virtù, poiché essa consiste in entrambe:
+
+è chiaro che la perfezione dell'azione virtuosa richiede entrambi: ma
+
+Per le azioni molte cose sono richieste, e quanto maggiori e più.
+
+numerosi essi sono, tanto più.) Ma quanto all'uomo dedito a
+
+Contemplativa Speculazione, non solo sono tali cose superflue per il suo
+
+Lavorando, ma, per così dire, sono addirittura ostacoli: per quanto riguarda il
+
+Contemplazione almeno; perché naturalmente in quanto egli è Uomo e
+
+vive in società sceglie di fare ciò che la Virtù richiede, e così egli farà.
+
+ha bisogno di tali cose per mantenere il suo carattere come Uomo, sebbene non come un
+
+filosofo speculativo.
+
+E che la perfetta Felicità debba essere una sorta di Operazione Contemplativa.
+
+può apparire anche dalla seguente considerazione: la nostra concezione del
+
+degli dèi è che essi sono soprattutto beati e felici: ora che sorta di
+
+<span class="atom-split" data-atom="149" data-title="Chapter VI. (parte 11)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
 
 Moral actions are we to [attribute](/concepts/attribute) to them? those of justice? nay, will
 
@@ -15724,7 +31249,65 @@ also the being happy, not incidentally, but in the way of Contemplative
 
 Speculation because it is in itself precious.
 
-<span class="atom-split" data-atom="150" data-title="Chapter VII. (10/10)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Azioni morali dobbiamo [attribuire](/concepts/attribute) a loro? quelle di giustizia? anzi, volontà
+
+essi non siano messi in una luce ridicola se rappresentati come formanti
+
+contratti, e restituire i depositi, e così via? beh, allora, vogliamo?
+
+Immaginali mentre compiono azioni coraggiose, sopportando oggetti di paura e
+
+affrontare pericoli, perché è nobile farlo? o quelle liberali? ma a
+
+A chi andranno dando? e inoltre, è assurdo pensare che abbiano
+
+denaro o qualsiasi cosa del genere. E quanto alle azioni dei perfezionati
+
+padronanza di sé, che cosa può essere la loro? non sarebbe forse una lode degradante
+
+che non abbiano cattivi desideri? In breve, se si seguisse il soggetto
+
+in tutti i dettagli tutte le circostanze connesse con le azioni morali
+
+apparirebbe triviale e indegno degli dei.
+
+Tuttavia, ognuno crede di vivere, e quindi di Lavorare.
+
+perché non è supposto che dormano via il loro tempo come
+
+Endymion: ora se da un essere vivente togli l'Azione, ancora più.
+
+Se la Creazione, che rimane se non la Contemplazione? Dunque l'Operare del
+
+Dèi, eminenti in [beatitudine](/concepts/amor_dei_intellectualis), saranno uno adatto per Contemplativo.
+
+Speculazione; e di tutte le umane operazioni che avranno il massimo
+
+capacità di Felicità che è la più affine a questa.
+
+Una corroborazione della quale posizione è il fatto che gli altri animali fanno.
+
+non essere partecipe della Felicità, essendone del tutto escluso
+
+Lavorare.
+
+Agli dèi adunque tutta la loro vita è beata; e agli uomini in quanto
+
+In esso vi è qualche copia di tale Opera, ma degli altri animali nessuna.
+
+è felice perché non partecipa in alcun modo della Speculazione Contemplativa.
+
+La felicità è dunque coestensiva con questa Speculazione Contemplativa, e
+
+In proporzione che le persone hanno l'atto della Contemplazione, tanto hanno.
+
+anche l'essere felice, non per accidente, ma nel modo del Contemplativo.
+
+La speculazione, perché è in sé preziosa.
+
+<span class="atom-split" data-atom="150" data-title="Chapter VII. (parte 10)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
 
 So Happiness must be a kind of Contemplative Speculation; but since it
 
@@ -15814,7 +31397,97 @@ same time most Happy.
 
 Thus then on this view also the man of Science will be most Happy.
 
-<span class="atom-split" data-atom="151" data-title="Chapter VIII. (10/11)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Dunque la felicità deve essere una specie di speculazione contemplativa; ma poiché essa
+
+è l'Uomo di cui stiamo parlando egli avrà bisogno parimenti della Prosperità Esterna,
+
+perché la sua Natura non è di per sé sufficiente alla Speculazione, ma
+
+vi deve essere salute del corpo, e nutrimento, e cura di tutto.
+
+tipi.
+
+Tuttavia, non si deve pensare, perché senza i beni esteriori un uomo
+
+non può godere dell'alta Felicità, che perciò egli richiederà molte e
+
+grandi beni per essere felici: poiché né l'Autosufficienza, né
+
+Azione, resta nell'Eccesso, ed è ben possibile agire nobilmente senza
+
+essendo signore del mare e della terra, poiché anche con mezzi moderati un uomo può
+
+Agisci secondo virtù.
+
+E ciò può chiaramente vedersi in quanto gli uomini in privata condizione sono
+
+pensato di agire giustamente, non solo non meno degli uomini al potere ma anche
+
+Inoltre: sarà ben sufficiente che giusto tanto appartenga a un uomo.
+
+come è necessario, poiché la sua vita sarà felice chi opera conformemente.
+
+con la Virtù.
+
+Solone forse tracciò un quadro fedele dei Felici, quando disse che essi
+
+sono gli uomini moderatamente provvisti di beni esterni, e che hanno raggiunto
+
+le più nobili imprese, come egli pensava, e che hanno vissuto con perfetta
+
+dominio di sé: poiché è del tutto possibile per uomini di mezzi moderati agire.
+
+Come dovrebbero.
+
+Anassagora sembra anche aver concepito l'uomo felice non come l'uno o l'altro
+
+ricco o potente, dicendo che non dovrebbe meravigliarsi se fosse considerato
+
+un uomo strano nel giudizio della moltitudine: poiché giudicano secondo
+
+circostanze esteriori delle quali sole essi hanno qualche percezione.
+
+E così le opinioni dei Saggi sembrano essere conformi al nostro discorso.
+
+della questione: naturalmente tali cose hanno un certo peso, ma la verità, in
+
+questioni di azione morale, è giudicato dai fatti e dalla vita reale, poiché
+
+In ciò risiede la decisione. Quindi ciò che dovremmo fare è esaminare il
+
+precedenti affermazioni riferendole a fatti e alla vita reale, e
+
+quando armonizzano con i fatti possiamo accettarli, quando sono a
+
+In disaccordo con essi li concepiscono come mere teorie.
+
+Ora colui che opera in conformità con, e rende ossequio a, il Puro.
+
+L'intelletto, e a questo tende, sembra probabile che sia sia nella migliore disposizione di
+
+mente e carissima agli Dei: perché se, come si pensa, alcuna cura è
+
+elargito alle cose umane dagli Dei, allora deve essere ragionevole
+
+pensano che provino piacere in ciò che è migliore e più affine a
+
+essi stessi (e questo deve essere il Puro Intelletto); e che essi contraccambino
+
+con gentilezza coloro che amano e onorano questo sommamente, come rendendo osservanza.
+
+a ciò che è loro caro, e come agendo rettamente e nobilmente. E così è.
+
+È abbastanza ovvio che l'uomo di Scienza combina principalmente tutte queste: egli è
+
+perciò carissimo agli Dei, ed è probabile che egli sia al
+
+nello stesso tempo felicissimo.
+
+Così dunque anche secondo questa visione l'uomo di Scienza sarà felicissimo.
+
+<span class="atom-split" data-atom="151" data-title="Chapter VIII. (parte 10)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
 
 Now then that we have said enough in our sketchy kind of way on these
 
@@ -16066,7 +31739,259 @@ and training must try to make a Legislator of himself; for to treat
 
 skilfully just any one who may be put before you is not what any
 
-<span class="atom-split" data-atom="152" data-title="Chapter VIII. (11/11)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
+<span class="qlang-split" data-lang="it"></span>
+
+Ora, allora, che abbiamo detto abbastanza a nostro modo sommario su questi
+
+soggetti; voglio dire, sulle Virtù, e anche sull'[Amicizia](/concepts/friendship) e sul Piacere;
+
+Dobbiamo supporre che il nostro scopo originario sia compiuto? Non dobbiamo
+
+piuttosto riconoscere, ciò che comunemente si dice, che in materia di morale
+
+L'azione, mera speculazione e conoscenza, non è il vero fine ma piuttosto
+
+Pratica: e se così è, allora nemmeno rispetto alla Virtù è la Conoscenza.
+
+Basta; dobbiamo ulteriormente sforzarci di possederlo ed esercitarlo, e prendere checchessia.
+
+Altri mezzi vi sono di divenire buoni.
+
+Ora, se il parlare e lo scrivere fossero di per sé sufficienti a rendere gli uomini
+
+bene, essi avrebbero giustamente, come osserva Teognide, raccolto numerosi e
+
+grandi ricompense, e la cosa da fare sarebbe provvederle: ma in
+
+Di fatto, mentre essi hanno chiaramente il potere di guidare e stimolare
+
+i generosi tra i giovani e di fondare su vero principio virtuoso
+
+Qualunque nobile e veramente magnanima disposizione, essi altrettanto chiaramente sono.
+
+impotente a guidare la massa degli uomini alla Virtù e alla bontà; perché essa
+
+non è nella loro natura essere suscettibili al senso di vergogna ma solo a
+
+temere; né astenersi da ciò che è basso e vile perché è
+
+vergognoso farlo ma a causa della punizione ad esso connessa: in
+
+fatto, siccome vivono al servizio della passione, perseguono il loro
+
+i propri piaceri e i mezzi per procurarseli, ed evitano il
+
+dolori contrari; ma quanto a ciò che è nobile e veramente piacevole essi
+
+non ne hanno idea, in quanto non ne hanno mai assaggiato.
+
+Uomini siffatti, allora, quali mere parole possono trasformare? No, in verità! egli è
+
+o effettivamente impossibile, o un compito di non lieve difficoltà, da mutare.
+
+con parole ciò che da antico è stato accolto nelle disposizioni stesse degli uomini: e,
+
+Può darsi, è un motivo di compiacimento se con tutti i mezzi e
+
+Con gli strumenti della bontà nelle nostre mani possiamo conseguire la Virtù.
+
+La formazione di un carattere virtuoso alcuni attribuiscono alla Natura, alcuni a
+
+[Costume](/concepts/custom), e alcuni all'Insegnamento. Ora la parte della Natura, sia essa quale si voglia,
+
+ovviamente non spetta a noi, ma appartiene a coloro che nel più vero
+
+I sensi sono fortunati, a cagione di certa divina agenzia,
+
+Poi, quanto a Parole e Precetto, essi, è da temersi, non
+
+valgono con tutti; ma può essere necessario per la mente del discepolo di
+
+sono stati precedentemente preparati a gradire e a disgradire come egli deve;
+
+proprio come la terra deve, per nutrire il seme seminato. Poiché colui che vive in
+
+l'obbedienza alla passione non può ascoltare alcun consiglio che lo dissuaderebbe,
+
+né, se udisse, intendere: or colui che è tale, come si può riformare?
+
+in effetti, generalmente, non si pensa che la passione ceda alla Ragione ma a
+
+forza bruta. Dunque deve esserci, per cominciare, una sorta di affinità.
+
+alla Virtù nella disposizione; che deve aderire a ciò che è onorevole
+
+e detestare ciò che è vergognoso. Ma per ottenere la retta guida verso la Virtù
+
+dalla prima giovinezza non è facile a meno che non si venga allevati sotto leggi
+
+di tal genere; poiché vivere con padronanza di sé e sopportazione non è
+
+piacevole alla massa degli uomini, e specialmente non ai giovani. Per questo
+
+Ragionate il cibo, e maniera di vivere generalmente, dovrebbero essere il
+
+oggetto di regolamentazione giuridica, perché le cose quando diventano abituali saranno
+
+Non essere sgradevole.
+
+Eppure forse non è sufficiente che gli uomini, mentre sono giovani, diventino retti.
+
+cibo e cura, ma, in quanto dovranno praticare e
+
+assuefarsi a certe cose anche dopo che vi siano pervenuti
+
+lo stato dell'uomo, vorremo leggi anche su questi punti, e in fine,
+
+rispettando l'intera propria vita, poiché la massa degli uomini è suscettibile di
+
+costrizione piuttosto che Ragione, e alla punizione piuttosto che a un senso
+
+d'onore.
+
+E pertanto alcuni uomini ritengono che, mentre i legislatori dovrebbero impiegare il
+
+senso dell'onore di esortare e guidare gli uomini alla Virtù, sotto la nozione
+
+che allora obbediranno coloro che sono stati ben addestrati nelle abitudini; essi
+
+dovrebbe imporre castighi e pene a coloro che disobbediscono e sono
+
+di natura meno promettente; e gli incurabili espellere del tutto: perché il
+
+Il buon uomo e colui che vive sotto un senso d'onore saranno obbedienti a
+
+ragione; e gli animi più bassi, che bramano il piacere, saranno tenuti in
+
+frenare, come bestie da soma, col dolore. Perciò anche dicono che il
+
+i dolori dovrebbero essere quelli che sono i più contrari ai piaceri che sono
+
+piaciuto.
+
+Come è stato già detto, colui che deve essere buono deve essere stato allevato.
+
+su e abituato bene, e poi vivere di conseguenza sotto il bene.
+
+istituzioni, e non fare mai ciò che è basso e meschino, né contro né con
+
+la sua volontà. Ora questi oggetti possono essere conseguiti solo da uomini viventi in
+
+conformità a un qualche Intelletto guida e retto ordine, con potere di
+
+sostenerli.
+
+Quanto alla Regola Paterna, essa non possiede né forza né costrizione.
+
+potere, né in effetti il governo di un solo uomo, a meno che non sia un re o
+
+qualcuno in simile caso: ma la Legge ha il potere di costringere, poiché è una
+
+dichiarazione che emana da [Saggezza Pratica](/concepts/phronesis) e Intelletto. E le persone
+
+provare inimicizia verso i loro simili che si oppongono ai loro impulsi, tuttavia
+
+A ragione possono farlo: la Legge, al contrario, non è l'oggetto di
+
+Odio, sebbene imponga giuste regole.
+
+Il Lacedemone è quasi il solo Stato in cui il legislatore del
+
+La Costituzione ha fatto alcuna disposizione, a quanto pare, rispetto al cibo.
+
+e maniera di vivere del popolo: nella maggior parte degli Stati questi punti sono
+
+del tutto trascurato, e ciascun uomo vive come più gli aggrada, governando il suo
+
+moglie e figli alla maniera dei Ciclopi.
+
+Naturalmente, la cosa migliore sarebbe che vi fosse un giusto Pubblico.
+
+Sistema e che dovremmo essere in grado di portarlo a termine: ma, poiché come un
+
+questione pubblica quei punti sono trascurati, il dovere sembrerebbe
+
+spetta a ciascun individuo contribuire alla causa della Virtù con
+
+i propri figli e amici, o almeno fare di questo il suo scopo e
+
+scopo: e questo, a quanto sembra, da quanto è stato detto, egli sarà.
+
+massimamente in grado di agire facendo di sé un Legislatore: poiché tutto il pubblico
+
+È evidente che i sistemi si formano per mezzo delle leggi e
+
+quelle sono buone che sono formate da quella delle buone leggi: se esse siano
+
+scritte o non scritte, che siano applicate alla formazione di uno
+
+Per molti, non farà, sembra, alcuna differenza, proprio come non ne fa.
+
+nella musica, nella ginnastica, o in qualsivoglia altri simili talenti, che sono
+
+acquisito con la pratica.
+
+Poiché come nelle Comunità prevalgono leggi e costumi, così pure nelle famiglie.
+
+gli ordini espressi del Capo, e anche i costumi: e ancor più in
+
+quest'ultimo, a causa del legame di sangue e dei benefici conferiti:
+
+perché ecco, per cominciare, persone che hanno affetto e sono
+
+naturalmente obbedienti all'autorità che li controlla.
+
+Poi, inoltre, l'istruzione privata ha vantaggi rispetto alla pubblica, come in
+
+il caso dell'arte medica: per esempio, come regola generale, un uomo che
+
+Chi ha la febbre dovrebbe stare quieto e digiunare; ma in un caso particolare,
+
+Forse, questo potrebbe non reggere; oppure, per fare un'altra illustrazione,
+
+il pugile non userà lo stesso modo di combattere con tutti gli antagonisti.
+
+Sembrerebbe allora che l'individuo sarà seguito con la massima esattezza.
+
+sotto la cura privata, perché così ciascuno sarà più propenso a ottenere ciò che.
+
+È conveniente per lui. Naturalmente, sia nell’arte del guarire, o
+
+ginnastica, o qualsiasi altra, un uomo tratterà i casi individuali tanto meglio
+
+per essere a conoscenza delle regole generali; come, «che il tale è buono»
+
+"per tutti, o per gli uomini in tali e tali casi:” perché le massime generali sono
+
+non solo sono dette essere, ma sono l'oggetto delle scienze: tuttavia questo
+
+non v'è ragione contro la possibilità che un uomo si prenda cura in modo eccellente
+
+di un qualche caso, sebbene egli non possieda alcuna conoscenza scientifica ma
+
+dall'esperienza è esattamente a conoscenza di ciò che accade in ogni punto;
+
+così come alcune persone sono ritenute curarsi meglio da sé benché
+
+sarebbe del tutto incapace di portare sollievo agli altri. Eppure può sembrare
+
+essere necessario nondimeno, per colui che desidera diventare un reale
+
+artista e ben versato nella teoria della sua professione, avere
+
+ricorso ai principi generali e accertare tutte le loro capacità: poiché
+
+Abbiamo già affermato che queste sono l'oggetto-materia delle scienze.
+
+Se allora appare che possiamo diventare buoni per il tramite.
+
+delle leggi, naturalmente, chiunque voglia rendere gli uomini migliori mediante un sistema di cura
+
+e la formazione deve cercare di fare di sé stesso un Legislatore; poiché trattare
+
+abilmente proprio chiunque possa esserti messo davanti non è ciò che alcuno
+
+<span class="atom-split" data-atom="152" data-title="Chapter VIII. (parte 11)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
 
 ordinary person can do, but, if any one, he who has knowledge; as in
 
@@ -16193,3 +32118,131 @@ the better able to take a concentrated view as to what kind of
 Constitution is best, what kind of regulations are best for each, and
 
 what laws and customs.
+
+<span class="qlang-split" data-lang="it"></span>
+
+l'uomo comune può fare, ma, se alcuno, colui che ha conoscenza; come in
+
+l'arte medica, e tutte le altre che implicano pratica accurata e
+
+abilità.
+
+Non sarà adunque nostro prossimo compito il ricercare da quali fonti, o come?
+
+si può acquisire questa facoltà della Legislazione; o dovremmo dire che, come
+
+in casi simili, gli uomini di Stato sono le persone da cui imparare, poiché questo
+
+la facoltà era considerata parte della Scienza Sociale? Non dobbiamo forse
+
+ammetta che la Scienza Politica chiaramente non si fonda su un simile.
+
+piano a quello delle altre scienze e facoltà? Voglio dire, che mentre in
+
+In tutti gli altri casi coloro che impartiscono le facoltà e sé stessi esercitano
+
+essi sono identici (medici e pittori per esempio) questioni di
+
+L'arte di governare i Sofisti professano di insegnare, ma nessuno di loro.
+
+lo pratica, essendo ciò lasciato a coloro che vi sono effettivamente impegnati: e
+
+Questi potrebbero davvero molto bene essere ritenuti farlo con qualche singolare abilità.
+
+e per mera pratica piuttosto che per qualsiasi processo intellettuale: poiché essi
+
+né scrivere né parlare su queste materie (sebbene possa essere più a
+
+il loro merito che comporre discorsi per i tribunali o l'assemblea,
+
+né d'altra parte hanno reso uomini di Stato i propri figli o i propri amici.
+
+Non si può quasi supporre se non che lo avrebbero fatto se avessero potuto.
+
+visto che non avrebbero potuto lasciare ai loro alcuna eredità più preziosa
+
+comunità, né avrebbero preferito, per sé o per i loro
+
+carissimi amici, il possesso di qualsiasi facoltà piuttosto che questa.
+
+La pratica, tuttavia, sembra contribuire non poco alla sua acquisizione;
+
+Il semplice respirare l’atmosfera della politica non avrebbe mai reso.
+
+Statisti di loro, e quindi possiamo concludere che coloro che vorrebbero
+
+Acquisire una conoscenza dell'arte di governo deve avere inoltre pratica.
+
+Ma dei Sofisti, coloro che professano di insegnarla sono chiaramente ben lontani.
+
+lontani dal farlo: in effetti, non hanno alcuna conoscenza della sua natura.
+
+e oggetti; se l'avessero fatto, non l'avrebbero mai messo sullo stesso
+
+sul medesimo piano della Retorica o anche su un piano inferiore: né avrebbero essi
+
+concepì che fosse “cosa facile legiferare col semplice raccogliere”
+
+tali leggi che sono famose poiché naturalmente si potrebbero scegliere le migliori,
+
+come se la selezione non fosse questione di abilità, e il giudizio
+
+rettamente una grandissima materia, come nella Musica: poiché essi soli, che hanno
+
+conoscenza pratica di una cosa, può giudicare le prestazioni rettamente o
+
+comprendere con quali mezzi e in che modo essi sono compiuti, e
+
+ciò che si armonizza con ciò: gli ignoranti devono accontentarsi di essere
+
+in grado di scoprire se il risultato è buono o cattivo, come nella pittura.
+
+Ora le leggi possono essere chiamate le prestazioni o i risultati tangibili di
+
+Scienza politica; come può allora un uomo acquisire da queste la facoltà di
+
+Legislazione, o scegliere il migliore? non vediamo uomini fatti medici da
+
+compilazioni: e tuttavia in questi trattati gli uomini si sforzano di dare non solo
+
+i casi ma anche come possano essere curati, e il trattamento appropriato in
+
+ogni caso, dividendo le varie abitudini del corpo. Ebbene, queste sono pensate.
+
+essere utile agli uomini di professione, ma ai non professionisti inutile. In
+
+In simile maniera può darsi che raccolte di leggi e Costituzioni sarebbero
+
+essere oltremodo utile a coloro che sono capaci di speculare su di essi, e
+
+giudicare ciò che è bene, e ciò che è male, e che genere di cose si accordano con
+
+che altri: ma coloro che senza questa qualificazione dovessero passare
+
+Tali questioni non possono avere retto giudizio, se non lo hanno da
+
+istinto, sebbene possano diventare più intelligenti in tali questioni.
+
+Da allora coloro che ci hanno preceduto hanno lasciato non indagato il
+
+soggetto della Legislazione, sarà forse meglio per noi investigare
+
+esso noi stessi, e, in effetti, l'intero soggetto della Politica, che così ciò
+
+Possiamo chiamare la Filosofia Umana; può essere completata per quanto sta in noi.
+
+Prima, quindi, sforziamoci di ottenere qualsivoglia frammenti di bene ivi.
+
+Può essere nelle affermazioni dei nostri predecessori, poi, dalle Politiche
+
+abbiamo raccolto, accertate che tipo di cose preservano o distruggono.
+
+Comunità, e quali, particolari Costituzioni; e la causa per cui alcune
+
+sono bene e altre male amministrate, poiché dopo tale indagine, saremo
+
+tanto più in grado di prendere una visione concentrata riguardo a che tipo di
+
+La costituzione è la migliore, quale tipo di regolamenti sia il migliore per ciascuna, e
+
+quali leggi e costumi.

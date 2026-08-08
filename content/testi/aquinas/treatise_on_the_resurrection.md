@@ -424,7 +424,7 @@ lighter still is the punishment due to those who are debarred from the reception
 personal defect but only by a defect of nature, so that this very delay of glory is called a kind of
 punishment.
 
-<span class="atom-split" data-atom="009" data-title="Whether so many abodes should be distinguished? (1/2)" data-chapter="Whether so many abodes should be distinguished?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="Whether so many abodes should be distinguished? (parte 1)" data-chapter="Whether so many abodes should be distinguished?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that we should not distinguish so many abodes. For after death,
 just as abodes are due to souls on account of sin, so are they due on account of merit. Now there
@@ -540,7 +540,7 @@ But those who will be thrust into hell will not be free from all good: and conse
 fails, since those who are in hell can receive the reward of their goods, in so far as their past goods
 avail for the mitigation of their punishment.
 
-<span class="atom-split" data-atom="010" data-title="Whether so many abodes should be distinguished? (2/2)" data-chapter="Whether so many abodes should be distinguished?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="Whether so many abodes should be distinguished? (parte 2)" data-chapter="Whether so many abodes should be distinguished?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 10: The essential reward consists in the glory of the soul, but the body's
 glory, since it overflows from the soul, is entirely founded as it were on the soul: and consequently
@@ -549,7 +549,7 @@ this reason, too, the same place, namely the empyrean, is assigned to the holy s
 their bodies and united to glorious bodies: whereas the same place was not assigned to the souls of
 the Fathers both before and after the glorification of souls.
 
-<span class="atom-split" data-atom="011" data-title="OF THE QUALITY OF THE SOUL AFTER LEAVING THE BODY, AND OF THE PUNISHMENT INFLICTED ON IT BY MATERIAL FIRE (THREE ARTICLES) (1/2)" data-chapter="OF THE QUALITY OF THE SOUL AFTER LEAVING THE BODY, AND OF THE PUNISHMENT INFLICTED ON IT BY MATERIAL FIRE (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="OF THE QUALITY OF THE SOUL AFTER LEAVING THE BODY, AND OF THE PUNISHMENT INFLICTED ON IT BY MATERIAL FIRE (THREE ARTICLES) (parte 1)" data-chapter="OF THE QUALITY OF THE SOUL AFTER LEAVING THE BODY, AND OF THE PUNISHMENT INFLICTED ON IT BY MATERIAL FIRE (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider the general quality of the soul after leaving the body, and the punishment
 inflicted on it by material fire. Under this head there are three points of inquiry:
@@ -655,7 +655,7 @@ there remains in the separated soul the ability to produce these powers if it sh
 the body; nor is it necessary for this ability to be anything in addition to the essence of the soul, as
 stated above. This opinion appears to be the more reasonable.
 
-<span class="atom-split" data-atom="012" data-title="OF THE QUALITY OF THE SOUL AFTER LEAVING THE BODY, AND OF THE PUNISHMENT INFLICTED ON IT BY MATERIAL FIRE (THREE ARTICLES) (2/2)" data-chapter="OF THE QUALITY OF THE SOUL AFTER LEAVING THE BODY, AND OF THE PUNISHMENT INFLICTED ON IT BY MATERIAL FIRE (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="OF THE QUALITY OF THE SOUL AFTER LEAVING THE BODY, AND OF THE PUNISHMENT INFLICTED ON IT BY MATERIAL FIRE (THREE ARTICLES) (parte 2)" data-chapter="OF THE QUALITY OF THE SOUL AFTER LEAVING THE BODY, AND OF THE PUNISHMENT INFLICTED ON IT BY MATERIAL FIRE (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 1: This saying of [Augustine](/figures/augustine) is to be understood as meaning that the soul
 takes away with it some of those powers actually, namely understanding and intelligence, and some
@@ -696,7 +696,7 @@ the soul. This is clear from his saying that "old age is an affection not of the
 which the soul is," namely the body. For in this way the powers of the soul are neither weakened
 nor corrupted on account of the body.
 
-<span class="atom-split" data-atom="013" data-title="Whether the acts of the sensitive powers remain in the separated soul? (1/2)" data-chapter="Whether the acts of the sensitive powers remain in the separated soul?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="Whether the acts of the sensitive powers remain in the separated soul? (parte 1)" data-chapter="Whether the acts of the sensitive powers remain in the separated soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the acts of the sensitive powers remain in the separated soul.
 For [Augustine](/figures/augustine) says (De Spiritu et [Anima](/concepts/soul) xv): "When the soul leaves the body it derives pleasure
@@ -793,7 +793,7 @@ intellective faculty, in so far namely as it abstracts from all differences of t
 only the past but also the present, and the future as Augustine says (De Trin. xiv, 11). Taking
 memory in this sense the separated soul will remember [*Cf. FP, Q[77], A[8]; FP, Q[89], A[6]].
 
-<span class="atom-split" data-atom="014" data-title="Whether the acts of the sensitive powers remain in the separated soul? (2/2)" data-chapter="Whether the acts of the sensitive powers remain in the separated soul?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="Whether the acts of the sensitive powers remain in the separated soul? (parte 2)" data-chapter="Whether the acts of the sensitive powers remain in the separated soul?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 5: Love, joy, sorrow, and the like, have a twofold signification. Sometimes
 they denote passions of the sensitive appetite, and thus they will not be in the separated soul, because
@@ -803,7 +803,7 @@ soul, even as delight will be there without bodily movement, even as it is in Go
 as it is a simple movement of the will. In this sense the Philosopher says (Ethic. vii, 14) that "God's
 joy is one simple delight."
 
-<span class="atom-split" data-atom="015" data-title="Whether the separated soul can suffer from a bodily fire? (1/3)" data-chapter="Whether the separated soul can suffer from a bodily fire?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="Whether the separated soul can suffer from a bodily fire? (parte 1)" data-chapter="Whether the separated soul can suffer from a bodily fire?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the separated soul cannot suffer from a bodily fire. For
 [Augustine](/figures/augustine) says (Gen. ad lit. xii): "The things that affect the soul well or ill after its separation from
@@ -869,7 +869,7 @@ Further, there is greater union between form and matter than between agent and p
 the diversity of spiritual and corporeal nature does not hinder the soul from being the form of the
 body. Therefore neither is it an obstacle to its suffering from a body.
 
-<span class="atom-split" data-atom="016" data-title="Whether the separated soul can suffer from a bodily fire? (2/3)" data-chapter="Whether the separated soul can suffer from a bodily fire?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="Whether the separated soul can suffer from a bodily fire? (parte 2)" data-chapter="Whether the separated soul can suffer from a bodily fire?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, Given that the fire of hell is not so called metaphorically, nor an imaginary fire,
 but a real corporeal fire, we must needs say that the soul will suffer punishment from a corporeal
@@ -957,7 +957,7 @@ Reply to Objection 3: The Philosopher and Boethius are speaking of the action wh
 patient is changed into the nature of the agent. Such is not the action of the fire on the soul: and
 consequently the argument is not conclusive.
 
-<span class="atom-split" data-atom="017" data-title="Whether the separated soul can suffer from a bodily fire? (3/3)" data-chapter="Whether the separated soul can suffer from a bodily fire?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="017" data-title="Whether the separated soul can suffer from a bodily fire? (parte 3)" data-chapter="Whether the separated soul can suffer from a bodily fire?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: By acting on the soul the fire bestows nothing on it but detains it, as
 stated above. Hence the argument is not to the point.
@@ -1277,7 +1277,7 @@ not only the person for whom it is done, but also and still more the doer.
 This suffices for the Replies to the Objections: for the first considered the work of suffrage as
 a work of satisfaction, while the others consider it as meritorious.
 
-<span class="atom-split" data-atom="023" data-title="Whether suffrages profit those who are in hell? (1/3)" data-chapter="Whether suffrages profit those who are in hell?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="023" data-title="Whether suffrages profit those who are in hell? (parte 1)" data-chapter="Whether suffrages profit those who are in hell?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that suffrages profit those who are in hell. For it is written (2 Macc.
 12:40): "They found under the coats of the slain some of the donaries of the idols . . . which the
@@ -1325,7 +1325,7 @@ Further, the text (Sent. iv, D, 45) quotes the words of Augustine (De Verb. A po
 his friends have recourse to such like acts of kindness." Now all the damned come under that head.
 Therefore suffrages profit them not.
 
-<span class="atom-split" data-atom="024" data-title="Whether suffrages profit those who are in hell? (2/3)" data-chapter="Whether suffrages profit those who are in hell?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="024" data-title="Whether suffrages profit those who are in hell? (parte 2)" data-chapter="Whether suffrages profit those who are in hell?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, There have been three opinions about the damned. For some have said that a
 twofold distinction must be made in this matter. First, as to time; for they said that after the judgment
@@ -1418,7 +1418,7 @@ Even so the demons are said to rejoice when they draw men into sin, although thi
 their punishment, as neither is the joy of the angels diminished by the fact that they take pity on
 our ills.
 
-<span class="atom-split" data-atom="025" data-title="Whether suffrages profit those who are in hell? (3/3)" data-chapter="Whether suffrages profit those who are in hell?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="025" data-title="Whether suffrages profit those who are in hell? (parte 3)" data-chapter="Whether suffrages profit those who are in hell?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 5: Concerning the incident of Trajan it may be supposed with probability
 that he was recalled to life at the prayers of blessed Gregory, and thus obtained the grace whereby
@@ -2173,7 +2173,7 @@ Reply to Objection 5: A person is rendered worthy of a saint's prayers for him b
 that in his need he has recourse to him with pure devotion. Hence it is not unnecessary to pray to
 the saints.
 
-<span class="atom-split" data-atom="038" data-title="Whether the prayers which the saints pour forth to God for us are always granted? (1/2)" data-chapter="Whether the prayers which the saints pour forth to God for us are always granted?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="038" data-title="Whether the prayers which the saints pour forth to God for us are always granted? (parte 1)" data-chapter="Whether the prayers which the saints pour forth to God for us are always granted?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the prayers which the saints pour forth to God for us are not
 always granted. For if they were always granted, the saints would be heard especially in regard to
@@ -2275,7 +2275,7 @@ Persever. xxii]): "The prayers of the saints profit the predestinate, because it
 that they shall be saved through the prayers of those who intercede for them": and consequently
 God also wills that what the saints see Him to will shall be fulfilled through their prayers.
 
-<span class="atom-split" data-atom="039" data-title="Whether the prayers which the saints pour forth to God for us are always granted? (2/2)" data-chapter="Whether the prayers which the saints pour forth to God for us are always granted?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="039" data-title="Whether the prayers which the saints pour forth to God for us are always granted? (parte 2)" data-chapter="Whether the prayers which the saints pour forth to God for us are always granted?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 6: The suffrages of the Church for the dead are as so many satisfactions
 of the living in lieu of the dead: and accordingly they free the dead from the punishment which the
@@ -3562,7 +3562,7 @@ points of inquiry:
 (3) Whether the resurrection will occur at night-time?
 (4) Whether it will happen suddenly?
 
-<span class="atom-split" data-atom="063" data-title="Whether the time of our resurrection should be delayed till the end of the world? (1/2)" data-chapter="Whether the time of our resurrection should be delayed till the end of the world?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="063" data-title="Whether the time of our resurrection should be delayed till the end of the world? (parte 1)" data-chapter="Whether the time of our resurrection should be delayed till the end of the world?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the time of the resurrection ought not to be delayed till the end
 of the world, so that all may rise together. For there is more conformity between head and members
@@ -3654,7 +3654,7 @@ of history. For none rose again with a true resurrection before Christ, since He
 of them that sleep" (1 Cor. 15:20), although some were resuscitated before Christ's resurrection,
 as in the case of Lazarus.
 
-<span class="atom-split" data-atom="064" data-title="Whether the time of our resurrection should be delayed till the end of the world? (2/2)" data-chapter="Whether the time of our resurrection should be delayed till the end of the world?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="064" data-title="Whether the time of our resurrection should be delayed till the end of the world? (parte 2)" data-chapter="Whether the time of our resurrection should be delayed till the end of the world?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: On account of these words, as [Augustine](/figures/augustine) relates (De Civ. Dei xx, 7),
 certain heretics asserted that there will be a first resurrection of the dead that they may reign with
@@ -4077,7 +4077,7 @@ Under the first head there are three points of inquiry:
 (3) Whether it is necessary that the same ashes should return to the same parts in which they
 were before?
 
-<span class="atom-split" data-atom="073" data-title="Whether in the resurrection the soul will be reunited to the same identical body? (1/2)" data-chapter="Whether in the resurrection the soul will be reunited to the same identical body?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="073" data-title="Whether in the resurrection the soul will be reunited to the same identical body? (parte 1)" data-chapter="Whether in the resurrection the soul will be reunited to the same identical body?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the soul will not be reunited to the same identical body at the
 resurrection, for "thou sowest not the body that shall be, but bare grain" (1 Cor. 15:37). Now the
@@ -4171,7 +4171,7 @@ those dimensions, whatever form it receive, is more identified with that which w
 it, than any other part of matter existing under any form whatever. Thus the matter that will be
 brought back to restore the human body will be the same as that body's previous matter.
 
-<span class="atom-split" data-atom="074" data-title="Whether in the resurrection the soul will be reunited to the same identical body? (2/2)" data-chapter="Whether in the resurrection the soul will be reunited to the same identical body?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="074" data-title="Whether in the resurrection the soul will be reunited to the same identical body? (parte 2)" data-chapter="Whether in the resurrection the soul will be reunited to the same identical body?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: Even as a simple quality is not the [substantial form](/concepts/forma_substantialis) of an element, but
 its proper accident, and the disposition whereby its matter is rendered proper to such a form; so the
@@ -4191,7 +4191,7 @@ into complete nonentity. And the variation of accidental forms does not make a d
 Therefore the selfsame body will rise again, since the selfsame matter is resumed as stated in a
 previous reply (ad 2).
 
-<span class="atom-split" data-atom="075" data-title="Whether it will be identically the same man that shall rise again? (1/2)" data-chapter="Whether it will be identically the same man that shall rise again?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="075" data-title="Whether it will be identically the same man that shall rise again? (parte 1)" data-chapter="Whether it will be identically the same man that shall rise again?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it will not be identically the same man that shall rise again.
 For according to the Philosopher (De Gener. ii): "Whatsoever things are changed in their corruptible
@@ -4288,7 +4288,7 @@ humanity, since humanity is not one of those forms that are composition or order
 are the forms of things produced by art, so that if there be another distinct composition there is
 another distinct form of a house.
 
-<span class="atom-split" data-atom="076" data-title="Whether it will be identically the same man that shall rise again? (2/2)" data-chapter="Whether it will be identically the same man that shall rise again?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="076" data-title="Whether it will be identically the same man that shall rise again? (parte 2)" data-chapter="Whether it will be identically the same man that shall rise again?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: This argument affords a very good proof against those who held a
 distinction between the sensitive and rational souls in man: because in that case the sensitive soul
@@ -4561,7 +4561,7 @@ the elements have not perfect forms as mixed bodies have. But as all the parts o
 their perfection from God, not equally, but each one according to its mode, so too the humors are
 in some way perfected by the rational soul, yet not in the same measure as the more perfect parts.
 
-<span class="atom-split" data-atom="082" data-title="Whether whatever in the body belonged to the truth of human nature will rise again in it? (1/3)" data-chapter="Whether whatever in the body belonged to the truth of human nature will rise again in it?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="082" data-title="Whether whatever in the body belonged to the truth of human nature will rise again in it? (parte 1)" data-chapter="Whether whatever in the body belonged to the truth of human nature will rise again in it?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that what was in the body, belonging to the truth of [human nature](/axes/human_nature),
 will not all rise again in it. For food is changed into the truth of human nature. Now sometimes the
@@ -4607,7 +4607,7 @@ resurrection, especially in the elect, to whom it was promised (Lk. 21:18) that 
 head should perish. Therefore whatever belonged to the truth of human nature in a man will rise
 again in him.
 
-<span class="atom-split" data-atom="083" data-title="Whether whatever in the body belonged to the truth of human nature will rise again in it? (2/3)" data-chapter="Whether whatever in the body belonged to the truth of human nature will rise again in it?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="083" data-title="Whether whatever in the body belonged to the truth of human nature will rise again in it? (parte 2)" data-chapter="Whether whatever in the body belonged to the truth of human nature will rise again in it?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, "Everything is related to truth in the same way as to being" (Metaph. ii), because
 a thing is true when it is as it appears to him who actually knows it. For this reason Avicenna
@@ -4711,7 +4711,7 @@ that which comes after, but because it shares the truth of human nature more per
 order the second opinion applied to those things that are produced afterwards from food, in which
 point also these two opinions agree.
 
-<span class="atom-split" data-atom="084" data-title="Whether whatever in the body belonged to the truth of human nature will rise again in it? (3/3)" data-chapter="Whether whatever in the body belonged to the truth of human nature will rise again in it?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="084" data-title="Whether whatever in the body belonged to the truth of human nature will rise again in it? (parte 3)" data-chapter="Whether whatever in the body belonged to the truth of human nature will rise again in it?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 1: A natural thing is what it is, not from its matter but from its form;
 wherefore, although that part of matter which at one time was under the form of bovine flesh rises
@@ -5079,7 +5079,7 @@ four points of inquiry:
 (3) Whether this impassibility renders the glorious bodies?
 (4) Whether in them all the senses are in act?
 
-<span class="atom-split" data-atom="092" data-title="Whether the bodies of the saints will be impassible after the resurrection? (1/2)" data-chapter="Whether the bodies of the saints will be impassible after the resurrection?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="092" data-title="Whether the bodies of the saints will be impassible after the resurrection? (parte 1)" data-chapter="Whether the bodies of the saints will be impassible after the resurrection?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the bodies of the saints will not be impassible after the resurrection.
 For everything mortal is passible. But man, after the resurrection, will be "a mortal rational animal,"
@@ -5171,7 +5171,7 @@ rational soul, even as the soul will be perfectly subject to God. Wherefore it w
 the glorified body to be subject to any change contrary to the disposition whereby it is perfected
 by the soul; and consequently those bodies will be impassible.
 
-<span class="atom-split" data-atom="093" data-title="Whether the bodies of the saints will be impassible after the resurrection? (2/2)" data-chapter="Whether the bodies of the saints will be impassible after the resurrection?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="093" data-title="Whether the bodies of the saints will be impassible after the resurrection? (parte 2)" data-chapter="Whether the bodies of the saints will be impassible after the resurrection?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 1: According to Anselm (Cur Deus Homo ii, 11), "mortal is included in
 the philosophers' definition of man, because they did not believe that the whole man could be ever
@@ -5362,7 +5362,7 @@ the inflow that the other powers or members should receive. And since in the sai
 will be most perfect, one will be able to operate intensely without thereby hindering the operation
 of another power even as it was with Christ.
 
-<span class="atom-split" data-atom="096" data-title="Whether in the blessed, after the resurrection, all the senses will be in act? (1/2)" data-chapter="Whether in the blessed, after the resurrection, all the senses will be in act?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="096" data-title="Whether in the blessed, after the resurrection, all the senses will be in act? (parte 1)" data-chapter="Whether in the blessed, after the resurrection, all the senses will be in act?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all the senses are not in act there. For touch is the first of all
 the senses (De [Anima](/concepts/soul) ii, 2). But the glorified body will lack the actual sense of touch, since the
@@ -5458,7 +5458,7 @@ for the sake of learning whereby they may acquire knowledge, but for the sake of
 the sense and for the sake pleasure. How it is possible for the voice to give sound there, we have
 already stated (Sent. ii, D, 2; Q[2], A[2], ad 5).
 
-<span class="atom-split" data-atom="097" data-title="Whether in the blessed, after the resurrection, all the senses will be in act? (2/2)" data-chapter="Whether in the blessed, after the resurrection, all the senses will be in act?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="097" data-title="Whether in the blessed, after the resurrection, all the senses will be in act? (parte 2)" data-chapter="Whether in the blessed, after the resurrection, all the senses will be in act?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 5: The intensity of light does not hinder the spiritual reception of the image
 of color, so long as the pupil retains its diaphanous nature; thus it is evident that however much the
@@ -5577,7 +5577,7 @@ expound, in speaking of spirituality indicates subtlety: wherefore Gregory says 
 that "the glorified body is said to be subtle as a result of a spiritual power."
 This suffices for the Replies to the Objections which refer to the subtlety of rarefaction.
 
-<span class="atom-split" data-atom="100" data-title="Whether by reason of this subtlety a glorified body is able to be in the same place with another body not glorified? (1/2)" data-chapter="Whether by reason of this subtlety a glorified body is able to be in the same place with another body not glorified?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="100" data-title="Whether by reason of this subtlety a glorified body is able to be in the same place with another body not glorified? (parte 1)" data-chapter="Whether by reason of this subtlety a glorified body is able to be in the same place with another body not glorified?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that by reason of this subtlety a body is able to be in the same place
 with another body not glorified. For according to  Phil. 3:21, "He will reform the body of our
@@ -5616,7 +5616,7 @@ remove absolutely every accident from them, still each one has a different place
 conceivable that they should all occupy the same place." Therefore if we suppose two bodies to
 occupy the same place, there will be but one body numerically.
 
-<span class="atom-split" data-atom="101" data-title="Whether by reason of this subtlety a glorified body is able to be in the same place with another body not glorified? (2/2)" data-chapter="Whether by reason of this subtlety a glorified body is able to be in the same place with another body not glorified?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="101" data-title="Whether by reason of this subtlety a glorified body is able to be in the same place with another body not glorified? (parte 2)" data-chapter="Whether by reason of this subtlety a glorified body is able to be in the same place with another body not glorified?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, It cannot be maintained that a glorified body, by reason of its subtlety, is able
 to be in the same place with another body, unless the obstacle to its being now in the same place
@@ -5703,7 +5703,7 @@ And consequently though two bodies must needs be in distinct places, yet the sam
 places corresponds to the two terms of the two bodies. It is in this sense that the bounds of contiguous
 bodies are said to coincide.
 
-<span class="atom-split" data-atom="102" data-title="Whether it is possible, by a miracle, for two bodies to be in the same place? (1/2)" data-chapter="Whether it is possible, by a miracle, for two bodies to be in the same place?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="102" data-title="Whether it is possible, by a miracle, for two bodies to be in the same place? (parte 1)" data-chapter="Whether it is possible, by a miracle, for two bodies to be in the same place?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that not even by a [miracle](/concepts/miracle) is it possible for two bodies to be in the
 same place. For it is not possible that, by a miracle, two bodies be at once two and one, since this
@@ -5787,7 +5787,7 @@ their own dimensions if they had them. Thus that the dimensions of two bodies be
 of one place is nothing else than that two bodies be in the same place, which is the chief question
 at issue.
 
-<span class="atom-split" data-atom="103" data-title="Whether it is possible, by a miracle, for two bodies to be in the same place? (2/2)" data-chapter="Whether it is possible, by a miracle, for two bodies to be in the same place?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="103" data-title="Whether it is possible, by a miracle, for two bodies to be in the same place? (parte 2)" data-chapter="Whether it is possible, by a miracle, for two bodies to be in the same place?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 2: Granted that by a [miracle](/concepts/miracle) two bodies be together in the same place,
 nothing follows either against common principles, or against the definition of a line, or against any
@@ -6158,7 +6158,7 @@ containing the body located therein (since nothing flows therefrom into the glor
 rather does it receive splendor therefrom), but as being due to merits. Wherefore, though out of
 that place, they will still continue to rejoice in it.
 
-<span class="atom-split" data-atom="110" data-title="Whether the movement of the saints will be instantaneous? (1/3)" data-chapter="Whether the movement of the saints will be instantaneous?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="110" data-title="Whether the movement of the saints will be instantaneous? (parte 1)" data-chapter="Whether the movement of the saints will be instantaneous?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that movement of the saints will be instantaneous. For [Augustine](/figures/augustine)
 says (De Civ. Dei xxii, 30) that "wherever the spirit listeth there will the body be." Now the
@@ -6253,7 +6253,7 @@ time is so short as to be imperceptible; and that nevertheless one glorified bod
 the same space in less time than another, because there is no limit to the divisibility of time, no
 matter how short a space we may take.
 
-<span class="atom-split" data-atom="111" data-title="Whether the movement of the saints will be instantaneous? (2/3)" data-chapter="Whether the movement of the saints will be instantaneous?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="111" data-title="Whether the movement of the saints will be instantaneous? (parte 2)" data-chapter="Whether the movement of the saints will be instantaneous?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 1: That which is little lacking is as it were not lacking at all (Phys. ii, 5);
 wherefore we say: "I do so and so at once," when it is to be done after a short time. It is in this
@@ -6337,7 +6337,7 @@ movement will not be instantaneous, because the movable body itself will resist 
 from the very fact that it has a determinate place, as we have said in reference to the heavenly
 bodies.
 
-<span class="atom-split" data-atom="112" data-title="Whether the movement of the saints will be instantaneous? (3/3)" data-chapter="Whether the movement of the saints will be instantaneous?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="112" data-title="Whether the movement of the saints will be instantaneous? (parte 3)" data-chapter="Whether the movement of the saints will be instantaneous?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: Although the power of a glorified soul surpasses immeasurably the
 power of a non-glorified soul, it does not surpass it infinitely, because both powers are finite: hence

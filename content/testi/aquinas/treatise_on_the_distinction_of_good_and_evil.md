@@ -279,7 +279,7 @@ Risposta all’Obiezione 3: Il male non risiede nel bene che gli è opposto in q
 Risposta all’Obiezione 4: Il profeta invoca la sventura su coloro che affermano che il bene in sé sia male.  
 Ma ciò non deriva da quanto detto in precedenza, come è chiaro dall’esplicazione fornita.
 
-<span class="atom-split" data-atom="006" data-title="Whether evil corrupts the whole good? (1/2)" data-chapter="Whether evil corrupts the whole good?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="Whether evil corrupts the whole good? (parte 1)" data-chapter="Whether evil corrupts the whole good?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that evil corrupts the whole good. For one contrary is wholly
 corrupted by another. But good and evil are contraries. Therefore evil corrupts the whole good.
@@ -425,7 +425,7 @@ Risposta all’Obiezione 1: Poiché il male è la privazione del bene, e non sem
 
 Risposta all’Obiezione 2: Il dolore e il peccato non dividono l’essere malvagio nel suo complesso, ma soltanto il male che si trova nelle azioni volontarie.
 
-<span class="atom-split" data-atom="007" data-title="Whether evil corrupts the whole good? (2/2)" data-chapter="Whether evil corrupts the whole good?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="Whether evil corrupts the whole good? (parte 2)" data-chapter="Whether evil corrupts the whole good?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: Temptation, as importing provocation to evil, is always an evil of fault
 in the tempter; but in the one tempted it is not, properly speaking, a fault; unless through the

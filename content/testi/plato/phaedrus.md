@@ -92,6 +92,78 @@ PHAEDRUS: Yes, this is the tree.
 
 SOCRATES: By Here, a fair resting-place, full of summer sounds and scents. Here is this lofty and spreading plane-tree, and the agnus castus high and clustering, in the fullest blossom and the greatest fragrance; and the stream which flows beneath the plane-tree is deliciously cold to the feet. Judging from the ornaments and images, this must be a spot sacred to Achelous and the Nymphs. How delightful is the breeze: — so very sweet; and there is a sound in the air shrill and summerlike which makes answer to the chorus of the cicadae. But the greatest charm of all is the grass, like a pillow gently sloping to the head. My dear Phaedrus, you have been an admirable guide.
 
+<span class="qlang-split" data-lang="it"></span>
+
+PERSONAGGI DEL DIALOGO: [Socrate](/figures/socrates), Fedro.
+
+SCENA: Sotto un platano, sulle rive dell'Ilisso.
+
+SOCRATE: Mio caro Fedro, donde vieni e dove vai?
+
+Vengo da Lisia, figlio di Cefalo, e sto per fare una passeggiata fuori dalle mura, poiché sono rimasto seduto con lui tutta la mattina; e il nostro comune amico Acumeno mi dice che è molto più rinfrescante camminare all'aria aperta che stare rinchiusi in un chiostro.
+
+SOCRATE: In questo ha ragione. Lisia allora, suppongo, era in città?
+
+FEDRO: Sì, era ospite di Epicrate, qui in casa di Morico; quella casa che è vicina al tempio di Zeus Olimpio.
+
+E come ti intrattenne? Posso sbagliarmi nel supporre che Lisia ti abbia offerto un banchetto di discorsi?
+
+FEDRO: Udrai, se hai tempo di accompagnarmi.
+
+SOCRATE: E non dovrei io ritenere la conversazione tua e di Lisia 'cosa di maggior momento', come posso dire con le parole di Pindaro, 'di ogni affare'?
+
+PHAEDRUS: Vuoi proseguire?
+
+SOCRATE: E continuerai con la narrazione?
+
+FEDRO: Il mio racconto, o Socrate, è del tuo genere, poiché l'amore era il tema che ci occupava — amore in un certo qual modo: Lisia ha scritto di un bel giovane che veniva tentato, ma non da un amante; e questo era il punto: egli dimostrò ingegnosamente che il non amante dovrebbe essere accettato piuttosto che l'amante.
+
+SOCRATE: O questo è nobile da parte sua! Vorrei che egli dicesse il povero piuttosto che il ricco, e il vecchio piuttosto che il giovane; — allora farebbe al caso mio e di molti uomini; le sue parole sarebbero di grande ristoro, ed egli sarebbe un benefattore pubblico. Quanto a me, bramo tanto di udire il suo discorso, che se tu cammini fino a Megara, e giunto al muro torni indietro, come raccomanda Erodico, senza entrare, io ti terrò compagnia.
+
+Fedro: Che vuoi dire, mio buon Socrate? Come puoi immaginare che la mia memoria inesercitata possa rendere giustizia a un'opera elaborata, che il più grande retore dell'epoca impiegò molto tempo a comporre? In verità, non posso; darei molto se potessi.
+
+SOCRATE: Io credo di conoscere Fedro non meno di quanto conosca me stesso, e sono ben certo che il discorso di Lisia gli fu ripetuto, non una volta soltanto, ma ancora e ancora; — egli insistette per udirlo molte volte, e Lisia fu assai disposto ad appagarlo; alla fine, quando non vi fu altro rimedio, si impadronì del libro, e guardò ciò che più desiderava vedere; — questo lo occupò durante l'intera mattinata; — e poi, quando fu stanco di star seduto, uscì a fare una passeggiata, ma non prima, per il cane, come io credo, di aver semplicemente imparato a memoria l'intero discorso, a meno che non fosse straordinariamente lungo, e si recò in un luogo fuori dalle mura per esercitarsi nella sua lezione. Là vide un certo amante dei discorsi che aveva una simile debolezza; — vide e gioì; ora pensò: «Avrò un compagno nelle mie baldorie». E lo invitò a venire a camminare con lui. Ma quando l'amante dei discorsi lo pregò di ripetere il racconto, egli si diede delle arie e disse: «No, non posso», come se fosse indisposto; sebbene, se l'ascoltatore avesse rifiutato, prima o poi sarebbe stato costretto da lui ad ascoltare, volesse o no. Perciò, Fedro, digli di fare subito ciò che farà presto, sia che glielo si dica o no.
+
+FEDRO: Vedo che non mi lascerai andare finché non abbia parlato in qualche guisa; in verità, pertanto, il mio miglior partito è parlare come meglio posso.
+
+SOCRATE: Un'osservazione molto vera, quella tua.
+
+FEDRO: Farò come dico; ma credimi, Socrate, non ho imparato le parole precise — O no; tuttavia ho un'idea generale di ciò che disse, e ti darò un sommario dei punti in cui l'amante differiva dal non amante. Lasciami cominciare dal principio.
+
+SOCRATE: Sì, mio dolce; ma devi prima di tutto mostrare ciò che hai nella mano sinistra sotto il mantello, poiché quel rotolo, come sospetto, è il discorso vero e proprio. Ora, per quanto ti ami, non vorrei che tu supponessi che io stia per far esercitare la tua memoria a mie spese, se hai qui Lisia stesso.
+
+FEDRO: Basta; vedo che non ho speranza di esercitare la mia arte su di te. Ma se devo leggere, dove ti piacerebbe sedere?
+
+SOCRATE: Volgiamo da parte e andiamo lungo l'Ilisso; ci siederemo in qualche luogo tranquillo.
+
+Ho la fortuna di non avere i sandali, e poiché tu non ne hai mai, credo che possiamo camminare lungo il ruscello e rinfrescarci i piedi nell'acqua; questa sarà la via più facile, e a mezzogiorno e d'estate è ben lungi dall'essere spiacevole.
+
+Fai strada, e cerca un posto in cui possiamo sederci.
+
+FEDRO: Vedi il platano più alto in lontananza?
+
+SOCRATE: Sì.
+
+PHAEDRUS: Vi sono ombra e dolci brezze, ed erba sulla quale possiamo o sederci o coricarci.
+
+SOCRATE: Procedi.
+
+FEDRO: Vorrei sapere, Socrate, se non è qui intorno il luogo dove si dice che Borea abbia rapito Orizia dalle rive dell'Ilisso?
+
+SOCRATE: Tale è la tradizione.
+
+FEDRO: Ed è questo il luogo preciso? Il piccolo ruscello è deliziosamente limpido e scintillante; posso figurarmi che vi siano fanciulle che giocano nei pressi.
+
+SOCRATE: Credo che il luogo non sia precisamente qui, ma circa un quarto di miglio più in basso, dove si attraversa verso il tempio di Artemide, e là vi è, credo, una sorta di altare di Borea.
+
+Non l'ho mai notato; ma ti supplico, Socrate, di dirmi: credi tu a questo racconto?
+
+SOCRATE: I saggi sono dubbiosi, e non dovrei essere singolare se, come loro, anch'io dubitassi. Potrei avere una spiegazione razionale che Orizia stesse giocando con Pharmacia, quando una raffica settentrionale la portò oltre le rocce vicine; ed essendo questa la maniera della sua morte, si diceva che fosse stata rapita da Borea. Vi è però una discrepanza circa il luogo; secondo un'altra versione della storia fu portata via dall'Areopago, e non da questo luogo. Ora riconosco pienamente che queste allegorie sono molto graziose, ma non è da invidiare chi deve inventarle; molta [fatica](/concepts/labour) e ingegno gli saranno richiesti; e quando abbia una volta cominciato, deve proseguire e riabilitare Ippocentauri e chimere orrende. Gorgoni e cavalli alati sopraggiungono in gran fretta, e innumerevoli altre nature inconcepibili e portentose. E se egli è scettico intorno ad esse, e volentieri le ridurrebbe una dopo l'altra alle regole della probabilità, questa sorta di filosofia rozza occuperà moltissimo tempo. Ora non ho ozio per tali ricerche; debbo dirti perché? Debbo prima conoscere me stesso, come dice l'iscrizione delfica; essere curioso di ciò che non mi riguarda, mentre sono ancora ignorante di me stesso, sarebbe ridicolo. E perciò dico addio a tutto ciò; l'opinione comune mi basta. Poiché, come dicevo, voglio conoscere non di questo, ma di me stesso: sono un mostro più complicato e gonfio di passione del serpente Tifone, o una creatura di sorta più gentile e più semplice, a cui la Natura ha dato un destino più divino e più umile? Ma lascia che ti chieda, amico: non abbiamo forse raggiunto il platano al quale ci conducevi?
+
+PHAEDRUS: Sì, questo è l'albero.
+
+SOCRATE: Per Here, un bel luogo di riposo, pieno di suoni e profumi estivi. Ecco questo platano alto e fronzuto, e il vetice alto e folto, nel pieno della fioritura e del massimo profumo; e il ruscello che scorre sotto il platano è deliziosamente freddo ai piedi. A giudicare dagli ornamenti e dalle immagini, questo deve essere un luogo sacro ad Acheloo e alle Ninfe. Quanto è deliziosa la brezza: così dolcissima; e c'è un suono nell'aria acuto ed estivo che risponde al coro delle cicale. Ma il fascino più grande di tutti è l'erba, come un cuscino che dolcemente si inclina al capo. Mio caro Fedro, sei stato una guida ammirevole.
+
 <span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 PHAEDRUS: What an incomprehensible being you are, [Socrates](/figures/socrates): when you are in the country, as you say, you really are like some stranger who is led about by a guide. Do you ever cross the border? I rather think that you never venture even outside the gates.
@@ -101,6 +173,16 @@ SOCRATES: Very true, my good friend; and I hope that you will excuse me when you
 PHAEDRUS: Listen. You know how matters stand with me; and how, as I conceive, this affair may be arranged for the advantage of both of us. And I maintain that I ought not to fail in my suit, because I am not your lover: for lovers repent of the kindnesses which they have shown when their passion ceases, but to the non-lovers who are free and not under any compulsion, no time of repentance ever comes; for they confer their benefits according to the measure of their ability, in the way which is most conducive to their own interest. Then again, lovers consider how by reason of their love they have neglected their own concerns and rendered service to others: and when to these benefits conferred they add on the troubles which they have endured, they think that they have long ago made to the beloved a very ample return. But the non-lover has no such tormenting recollections; he has never neglected his affairs or quarrelled with his relations; he has no troubles to add up or excuses to invent; and being well rid of all these evils, why should he not freely do what will gratify the beloved? If you say that the lover is more to be esteemed, because his love is thought to be greater; for he is willing to say and do what is hateful to other men, in order to please his beloved; — that, if true, is only a proof that he will prefer any future love to his present, and will injure his old love at the pleasure of the new. And how, in a matter of such infinite importance, can a man be right in trusting himself to one who is afflicted with a malady which no experienced person would attempt to cure, for the patient himself admits that he is not in his right mind, and acknowledges that he is wrong in his mind, but says that he is unable to control himself? And if he came to his right mind, would he ever imagine that the desires were good which he conceived when in his wrong mind? Once more, there are many more non-lovers than lovers; and if you choose the best of the lovers, you will not have many to choose from; but if from the non-lovers, the choice will be larger, and you will be far more likely to find among them a person who is worthy of your [friendship](/concepts/friendship). If public opinion be your dread, and you would avoid reproach, in all probability the lover, who is always thinking that other men are as emulous of him as he is of them, will boast to some one of his successes, and make a show of them openly in the pride of his heart; — he wants others to know that his [labour](/concepts/labour) has not been lost; but the non-lover is more his own master, and is desirous of solid good, and not of the opinion of mankind. Again, the lover may be generally noted or seen following the beloved (this is his regular occupation), and whenever they are observed to exchange two words they are supposed to meet about some affair of love either past or in contemplation; but when non-lovers meet, no one asks the reason why, because people know that talking to another is natural, whether friendship or mere pleasure be the motive. Once more, if you fear the fickleness of friendship, consider that in any other case a quarrel might be a mutual calamity; but now, when you have given up what is most precious to you, you will be the greater loser, and therefore, you will have more reason in being afraid of the lover, for his vexations are many, and he is always fancying that every one is leagued against him. Wherefore also he debars his beloved from society; he will not have you intimate with the wealthy, lest they should exceed him in wealth, or with men of [education](/concepts/education), lest they should be his superiors in understanding; and he is equally afraid of anybody’s influence who has any other advantage over himself. If he can persuade you to break with them, you are left without a friend in the world; or if, out of a regard to your own interest, you have more sense than to comply with his desire, you will have to quarrel with him. But those who are non-lovers, and whose success in love is the reward of their merit, will not be jealous of the companions of their beloved, and will rather hate those who refuse to be his associates, thinking that their favourite is slighted by the latter and benefited by the former; for more love than hatred may be expected to come to him out of his friendship with others. Many lovers too have loved the person of a youth before they knew his character or his belongings; so that when their passion has passed away, there is no knowing whether they will continue to be his friends; whereas, in the case of non-lovers who were always friends, the friendship is not lessened by the favours granted; but the recollection of these remains with them, and is an earnest of good things to come.
 
 Further, I say that you are likely to be improved by me, whereas the lover will spoil you. For they praise your words and actions in a wrong way; partly, because they are afraid of offending you, and also, their judgment is weakened by passion. Such are the feats which love exhibits; he makes things painful to the disappointed which give no pain to others; he compels the successful lover to praise what ought not to give him pleasure, and therefore the beloved is to be pitied rather than envied. But if you listen to me, in the first place, I, in my intercourse with you, shall not merely regard present enjoyment, but also future advantage, being not mastered by love, but my own master; nor for small causes taking violent dislikes, but even when the cause is great, slowly laying up little wrath — unintentional offences I shall forgive, and intentional ones I shall try to prevent; and these are the marks of a friendship which will last.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Che essere incomprensibile sei, [Socrate](/figures/socrates): quando sei in campagna, come dici, sei davvero come uno straniero che è condotto da una guida. Attraversi mai il confine? Anzi, credo che tu non ti avventuri mai nemmeno fuori dalle porte.
+
+SOCRATE: Verissimo, mio buon amico; e spero che mi scuserai quando ne udrai la ragione, ed è che io sono amante del sapere, e gli uomini che abitano in città sono i miei maestri, e non gli alberi né la campagna. Sebbene io creda davvero che tu abbia trovato un incantesimo con cui trarmi fuori dalla città in campagna, come una vacca affamata dinanzi a cui si agita un ramo o un grappolo di frutta. Infatti basta che tu sollevi davanti a me allo stesso modo un libro, e potrai condurmi per tutta l'Attica e per il vasto mondo. E ora che siamo giunti, intendo distendermi; e tu scegli la postura in cui puoi leggere meglio. Comincia.
+
+FEDRO: Ascolta. Tu sai come stanno le mie cose; e come, per mio avviso, questo affare possa essere sistemato a vantaggio di entrambi. E sostengo che io non debba fallire nella mia domanda, perché non sono il tuo amante: giacché gli amanti si pentono dei favori che hanno concesso quando la loro passione cessa; ma ai non amanti, che sono liberi e non soggetti ad alcuna costrizione, non viene mai alcun tempo di pentimento; poiché essi conferiscono i loro benefici secondo la misura della loro capacità, nel modo che è più conducente al proprio interesse. Poi ancora, gli amanti considerano come, a causa del loro amore, abbiano trascurato i propri affari e reso servizio ad altri: e quando a questi benefici concessi aggiungono i fastidi che hanno sopportato, credono di avere già da gran tempo reso all'amato un amplissimo contraccambio. Ma il non amante non ha tali tormentosi ricordi; non ha mai trascurato i suoi affari né litigato con i suoi parenti; non ha fastidi da computare né scuse da inventare; e, essendo del tutto sbarazzato di tutti questi mali, perché non dovrebbe liberamente fare ciò che possa compiacere l'amato? Se tu dici che l'amante è più da stimare, perché il suo amore è ritenuto più grande; poiché egli è disposto a dire e fare ciò che è odioso agli altri uomini, al fine di compiacere l'amato; — questo, se è vero, è soltanto una prova che egli preferirà ogni amore futuro al presente, e danneggerà il vecchio amore a piacere del nuovo. E come, in una questione di così infinita importanza, può un uomo fare bene ad affidarsi a chi è afflitto da un male che nessuna persona esperta tenterebbe di curare, poiché il paziente stesso ammette di non essere sano di mente, e riconosce di avere la mente alterata, ma dice di non potersi dominare? E se tornasse nel suo senno, potrebbe mai immaginare che fossero buoni i desideri che concepì quando era fuori di senno? Inoltre, i non amanti sono molto più numerosi degli amanti; e se scegli il migliore degli amanti, non ne avrai molti tra i quali scegliere; ma se dai non amanti, la scelta sarà più ampia, e sarà molto più probabile trovare tra loro una persona degna della tua [amicizia](/concepts/friendship). Se l'opinione pubblica è ciò che temi, e vuoi evitare il biasimo, con ogni probabilità l'amante, che pensa sempre che gli altri uomini siano emuli di lui quanto egli lo è di loro, si vanterà con qualcuno dei suoi successi, e ne farà mostra apertamente nell'orgoglio del suo cuore; — egli vuole che gli altri sappiano che la sua [fatica](/concepts/labour) non è andata perduta; ma il non amante è più padrone di sé, e desidera il bene solido, e non l'opinione degli uomini. Di nuovo, l'amante può essere generalmente notato o veduto seguire l'amato (questo è il suo abituale impiego), e ogniqualvolta sono osservati scambiarsi due parole, si suppone che si incontrino per qualche affare d'amore o passato o in progetto; ma quando i non amanti si incontrano, nessuno chiede il perché, perché la gente sa che il parlare con un altro è naturale, sia che il motivo sia l'amicizia, sia il semplice piacere. Ancora, se temi l'incostanza dell'amicizia, considera che in ogni altro caso una lite potrebbe essere una calamità reciproca; ma ora, quando tu abbia ceduto ciò che ti è più prezioso, tu sarai quello che perde di più, e perciò avrai più ragione di temere l'amante, poiché i suoi crucci sono molti, ed egli immagina sempre che tutti siano congiurati contro di lui. Per la qual cosa egli esclude anche l'amato dalla società; non vorrà che tu sia intimo con i ricchi, per timore che lo superino in ricchezza, o con uomini di [educazione](/concepts/education), per timore che gli siano superiori nell'intelletto; e teme ugualmente l'influenza di chiunque abbia su di lui qualsiasi altro vantaggio. Se egli può persuaderti a rompere con loro, tu rimani senza un amico al mondo; o se, per riguardo al tuo proprio interesse, hai troppo giudizio per accondiscendere al suo desiderio, dovrai litigare con lui. Ma coloro che non sono amanti, e il cui successo nell'amore è premio del loro merito, non saranno gelosi dei compagni dell'amato, e anzi odieranno coloro che ricusano di essergli compagni, pensando che il loro prediletto sia offeso da questi ultimi e giovato dai primi; poiché più amore che odio ci si può aspettare che gli venga dalla sua amicizia con gli altri. Molti amanti pure hanno amato la persona di un giovinetto prima di conoscerne il carattere o i suoi averi; cosicché, quando la loro passione è svanita, non si sa se continueranno a essergli amici; laddove, nel caso dei non amanti che furono sempre amici, l'amicizia non è diminuita dai favori concessi; ma il ricordo di questi rimane con loro, ed è un pegno di beni futuri.
+
+Inoltre, dico che è probabile che tu sia migliorato da me, mentre gli amanti ti corromperanno. Essi lodano le tue parole e le tue azioni a torto; in parte, perché temono di offenderti, e anche perché il loro giudizio è indebolito dalla passione. Tali sono le imprese che l'amore compie; esso rende dolorose per l'amante deluso cose che ad altri non recano dolore; costringe l'amante fortunato a lodare ciò che non dovrebbe dargli piacere, e perciò l'amato è da compiangere piuttosto che da invidiare. Ma se ascolti me, in primo luogo, io, nella mia consuetudine con te, non avrò riguardo soltanto al piacere presente, ma anche al vantaggio futuro, essendo non vinto dall'amore, ma padrone di me stesso; né per piccole cause concepiendo violente avversioni, ma anche quando la causa è grande, serbando lentamente poca collera — le offese involontarie perdonerò, e quelle volontarie cercherò di prevenire; e questi sono i segni di un'amicizia che durerà.
 
 <span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -154,6 +236,58 @@ PHAEDRUS: Then why are you still at your tricks?
 
 SOCRATES: I am not going to play tricks now that you have taken the oath, for I cannot allow myself to be starved.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Credi tu che solo un amante possa essere un amico fedele? rifletti: — se ciò fosse vero, daremmo poco valore ai figli, o ai padri, o alle madri; né avremmo mai amici leali, poiché il nostro amore per essi nasce non dalla passione, ma da altre relazioni. Inoltre, se dovessimo colmare di favori coloro che sono i più ardenti corteggiatori, — secondo questo principio, dovremmo sempre fare del bene, non ai più virtuosi, ma ai più bisognosi; poiché essi sono coloro che saranno più sollevati, e saranno quindi i più riconoscenti; e quando prepari un banchetto dovresti invitare non il tuo amico, ma il mendicante e l'anima vuota; poiché essi ti ameranno, e ti seguiranno, e verranno alle tue porte, e saranno i più compiaciuti, e i più grati, e invocheranno molte benedizioni sul tuo capo. Eppure certamente non dovresti concedere favori a coloro che ti assediano con preghiere, ma a coloro che sono più capaci di ricompensarti; né solo all'amante, ma a coloro che sono degni d'amore; né a coloro che godranno del fiore della tua giovinezza, ma a coloro che divideranno con te i loro beni nella vecchiaia; né a coloro che, avendo avuto successo, si vanteranno del loro successo dinanzi agli altri, ma a coloro che saranno modesti e non racconteranno nulla; né a coloro che si curano di te solo per un momento, ma a coloro che resteranno tuoi amici per tutta la vita; né a coloro che, quando la loro passione sarà finita, cercheranno un pretesto per litigare con te, ma piuttosto a coloro che, quando il fascino della giovinezza ti avrà abbandonato, mostreranno la loro propria virtù. Ricorda ciò che ho detto; e considera ancora quest'altro punto: gli amici ammoniscono l'amante, ritenendo che il suo modo di vivere sia cattivo, ma nessuno dei suoi parenti ha mai biasimato il non amante, né ha pensato che fosse mal consigliato riguardo ai propri interessi.
+
+Forse mi chiederete se io propongo che voi assecondiate ogni non amante. Al che rispondo che neppure l'amante vi consiglierebbe di assecondare tutti gli amanti, poiché il favore indiscriminato è meno stimato dal destinatario razionale, e meno facilmente nascosto da colui che vorrebbe sfuggire alla censura del mondo. Ora l'amore dovrebbe essere a vantaggio di entrambe le parti, e a danno di nessuna.
+
+‘Credo di aver detto abbastanza; ma se vi è alcunché d’altro che desideriate o che, a vostro avviso, occorra aggiungere, chiedete e risponderò.’
+
+Ora, [Socrate](/figures/socrates), che ne pensi? Non è eccellente il discorso, e più specialmente per ciò che concerne la lingua?
+
+SOCRATE: Sì, davvero ammirevole; l’effetto mi rapì. E questo lo debbo a te, Fedro, poiché ti osservai, mentre leggevi, essere in estasi, e pensando che tu sei più esperto di me in queste materie, seguii il tuo esempio e, come te, mio divino diletto, fui ispirato da un furore.
+
+FEDRO: In verità, ti compiaci di essere allegro.
+
+SOCRATE: Vuoi dire che non parlo sul serio?
+
+FEDRO: Ora non parlare così, Socrate, ma fammi avere la tua vera opinione; ti scongiuro, per Zeus, il dio dell'[amicizia](/concepts/friendship), di dirmi se pensi che alcun Greco avrebbe potuto dire di più o parlare meglio sul medesimo argomento.
+
+SOCRATE: Ebbene, ma siamo tenuti a lodare i sentimenti dell'autore, o soltanto la chiarezza, e la rotondità, e la finitezza, e il giro del linguaggio? Quanto al primo, mi rimetto volentieri al tuo miglior giudizio, poiché non sono degno di formare un'opinione, avendo atteso soltanto alla maniera retorica; e dubitavo che questo potesse essere difeso anche da Lisia stesso; pensavo, pur parlando sotto correzione, che egli si ripetesse due o tre volte, o per mancanza di parole o per mancanza di cura; e inoltre, mi sembrava che egli esultasse con ostentazione nel mostrare quanto bene sapesse dire la stessa cosa in due o tre modi.
+
+Sciocchezze, Socrate; ciò che tu chiami ripetizione era il merito particolare del discorso; poiché egli non tralasciò alcun argomento di cui il soggetto giustamente permettesse, e non credo che alcuno avrebbe potuto parlare meglio o più esaurientemente.
+
+SOCRATE: In questo non posso seguirti. Gli antichi saggi, uomini e donne, che hanno parlato e scritto di queste cose, si ergerebbero in giudizio contro di me, se per compiacenza assentissi a te.
+
+Chi sono costoro, e dove hai udito qualcosa di meglio di questo?
+
+SOCRATE: Sono sicuro di averlo udito; ma in questo momento non ricordo da chi; forse da Saffo la bella, o da Anacreonte il saggio; o, forse, da uno scrittore in prosa. Perché dico questo? Perché percepisco che il mio petto è pieno, e che potrei fare un altro discorso tanto buono quanto quello di Lisia, e diverso. Ora sono certo che questa non è un'invenzione mia propria, io che sono ben consapevole di non sapere nulla, e quindi posso solo dedurre di essere stato riempito attraverso le orecchie, come una brocca, dalle acque di un altro, sebbene abbia in realtà dimenticato, nella mia stoltezza, chi fosse il mio informatore.
+
+FEDRO: Questo è grandioso — ma non importa dove tu abbia udito il discorso o da chi; sia questo un mistero da non divulgarsi neppure a mia viva preghiera. Solo, come dici, prometti di fare un'altra e migliore orazione, di eguale lunghezza e del tutto nuova, sullo stesso argomento; e io, come i nove Arconti, prometterò di innalzare a Delfi una statua d'oro, non solo di me stesso, ma anche di te, e grande al naturale.
+
+SOCRATE: Sei un caro asino d'oro se supponi che io intenda dire che Lisia ha del tutto mancato il segno, e che io possa fare un discorso dal quale tutti i suoi argomenti debbano essere esclusi. Anche il peggiore degli autori dirà qualcosa di pertinente. Chi, per esempio, potrebbe parlare di questa tua tesi senza lodare la discrezione di chi non ama e biasimare l'indiscrezione di chi ama? Questi sono i luoghi comuni dell'argomento che devono esserci (che altro c'è da dire?) e devono essere ammessi e scusati; l'unico merito sta nella loro disposizione, perché non può essercene alcuno nell'invenzione; ma quando abbandoni i luoghi comuni, allora può esserci una certa originalità.
+
+Fedro: Confesso che vi è ragione in quel che dici, e anch'io sarò ragionevole, e ti permetterò di partire dalla premessa che l'amante è più sconvolto nella mente del non amante; se in quel che resta farai un discorso più lungo e migliore di quello di Lisia, e userai altri argomenti, allora ti dico di nuovo che avrai una statua d'oro battuto, e prenderai il tuo posto accanto alle offerte colossali dei Cipselidi a Olimpia.
+
+SOCRATE: Quanto profondamente serio è l'amante, perché per stuzzicarlo io poso un dito sul suo amore! E così, Fedro, immagini davvero che io stia per superare l'ingegnosità di Lisia?
+
+PHAEDRUS: Ecco che ti ho preso come tu hai preso me, e devi pur dire 'come meglio puoi'. Non facciamo lo scambio del 'tu quoque' come in una farsa, o costringermi a dirti come tu dicesti a me: 'Conosco Socrate quanto me stesso, e voleva parlare, ma si dava delle arie'. Piuttosto vorrei che tu considerassi che da questo luogo non ci muoviamo finché non ti sei liberato del discorso; perché qui siamo tutti soli, e io sono più forte, ricordalo, e più giovane di te: — Onde pondera, e non costringermi a usare violenza.
+
+SOCRATE: Ma, mio dolce Fedro, quanto sarebbe ridicolo per me gareggiare con Lisia in un discorso estemporaneo! Egli è maestro nella sua arte, e io sono un uomo senza istruzione.
+
+FEDRO: Vedi come stanno le cose; e perciò non vi siano più finzioni; poiché, in verità, io conosco la parola che è irresistibile.
+
+SOCRATE: Allora non dirlo.
+
+FEDRO: Sì, ma lo farò; e la mia parola sarà un giuramento. ‘Dico, o piuttosto giuro’ — ma quale dio sarà testimone del mio giuramento?— ‘Per questo platano giuro, che se non ripeterai il discorso qui, dinanzi a questo stesso platano, non te ne dirò mai un altro; mai ti farò avere parola d’un altro!’
+
+SOCRATE: Scellerato! Sono vinto; il povero amante del discorso non ha più nulla da dire.
+
+PHAEDRUS: Allora perché sei ancora ai tuoi trucchi?
+
+SOCRATE: Non ho intenzione di fare scherzi, ora che hai prestato giuramento, poiché non posso permettermi di morire di fame.
+
 <span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 PHAEDRUS: Proceed.
@@ -191,6 +325,44 @@ He who is the victim of his passions and the slave of pleasure will of course de
 Let us next see how his master, whose law of life is pleasure and not good, will keep and train the body of his servant. Will he not choose a beloved who is delicate rather than sturdy and strong? One brought up in shady bowers and not in the bright sun, a stranger to manly exercises and the sweat of toil, accustomed only to a soft and luxurious diet, instead of the hues of health having the colours of paint and ornament, and the rest of a piece? — such a life as any one can imagine and which I need not detail at length. But I may sum up all that I have to say in a word, and pass on. Such a person in war, or in any of the great crises of life, will be the anxiety of his friends and also of his lover, and certainly not the terror of his enemies; which nobody can deny.
 
 And now let us tell what advantage or disadvantage the beloved will receive from the guardianship and society of his lover in the matter of his property; this is the next point to be considered. The lover will be the first to see what, indeed, will be sufficiently evident to all men, that he desires above all things to deprive his beloved of his dearest and best and holiest possessions, father, mother, kindred, friends, of all whom he thinks may be hinderers or reprovers of their most sweet converse; he will even cast a jealous eye upon his gold and silver or other property, because these make him a less easy prey, and when caught less manageable; hence he is of necessity displeased at his possession of them and rejoices at their loss; and he would like him to be wifeless, childless, homeless, as well; and the longer the better, for the longer he is all this, the longer he will enjoy him.
+
+<span class="qlang-split" data-lang="it"></span>
+
+FEDRO: Procedi.
+
+[SOCRATE](/figures/socrates): Vuoi ch'io ti dica ciò che farò?
+
+PHAEDRUS: Che?
+
+SOCRATE: Mi coprirò il volto e galopperò attraverso il discorso il più velocemente possibile, poiché se ti vedo mi vergognerò e non saprò che dire.
+
+Continua soltanto, e potrai fare qualsiasi altra cosa che ti piaccia.
+
+SOCRATE: Orsù, o Muse, melodiose come siete chiamate, sia che abbiate ricevuto questo nome dal carattere dei vostri canti, sia perché i Melii sono una stirpe musicale, aiutatemi, o aiutatemi nel racconto che questo mio buon amico qui desidera ch'io ripeta, affinché l'amico suo, che egli sempre ritenne saggio, gli sembri più saggio che mai.
+
+C'era una volta un bellissimo fanciullo, o, per parlare più propriamente, un giovinetto; era molto bello e aveva moltissimi amanti; e ve n'era uno particolarmente astuto, il quale aveva persuaso il giovinetto che non lo amava, ma in realtà lo amava lo stesso; e un giorno, mentre gli faceva la corte, usò appunto questo argomento — che egli doveva accettare piuttosto il non amante che l'amante; le sue parole furono queste: —
+
+Ogni buon consiglio comincia nello stesso modo; un uomo deve sapere su che cosa consiglia, o il suo consiglio riuscirà a nulla. Ma gli uomini immaginano di conoscere la natura delle cose, quando non le conoscono, e, non essendo giunti a un'intesa fin da principio perché credono di sapere, finiscono, come è prevedibile, col contraddirsi a vicenda e sé stessi. Ora tu ed io non dobbiamo essere colpevoli di questo errore fondamentale che condanniamo negli altri; ma poiché la nostra questione è se si debba preferire l'amante o il non amante, concordiamo prima di tutto nel definire la natura e la potenza dell'amore, e poi, tenendo gli occhi sulla definizione e a questa appellandoci, indaghiamo ulteriormente se l'amore rechi vantaggio o svantaggio.
+
+‘Ognuno vede che l’amore è un desiderio, e sappiamo anche che i non amanti desiderano il bello e il buono. Ora, in che modo l’amante si distingue dal non amante? Notiamo che in ciascuno di noi vi sono due principi che ci guidano e ci governano, conducendoci dove vogliono: l’uno è il desiderio naturale del piacere, l’altro è un’opinione acquisita che aspira al meglio; e questi due talvolta sono in armonia, talvolta in guerra, e vince ora l’uno, ora l’altro. Quando l’opinione, con l’aiuto della ragione, ci conduce al meglio, il principio che vince è chiamato temperanza; ma quando il desiderio, privo di ragione, domina in noi e ci trascina al piacere, quella potenza di disordine è chiamata intemperanza. Ora l’intemperanza ha molti [nomi](/positions/nominalism), molte membra e molte forme, e ciascuna di queste forme, quando è ben marcata, dà un nome, né onorevole né lodevole, a colui che lo porta. Il desiderio del cibo, per esempio, che prevale sulla ragione superiore e sugli altri desideri, è chiamato ghiottoneria, e chi ne è posseduto è chiamato ghiottone; il desiderio tirannico del bere, che inclina chi ne è possessore a bere, ha un nome fin troppo evidente, e altrettanto poco dubbio vi può essere su quale nome si darebbe a qualunque altro appetito della stessa famiglia; — sarà il nome di ciò che accade di essere dominante. E ora penso che tu comprenda la direzione del mio discorso; ma poiché ogni parola detta è in certo modo più chiara di quella non detta, dirò anche che il desiderio irrazionale che supera la tendenza dell’opinione verso il giusto, ed è trascinato al godimento della [bellezza](/concepts/beauty), e specialmente della bellezza personale, dai desideri che gli sono affini — quel desiderio supremo, dico, che guidando vince e per la forza della passione è rafforzato, traendo da questa stessa forza il nome, è chiamato amore (erromenos eros).’
+
+E ora, caro Fedro, sosterò per un istante per chiederti se non mi credi, come sembro a me stesso, ispirato?
+
+Sì, Socrate, mi sembri avere un flusso di parole davvero insolito.
+
+SOCRATE: Ascoltami, allora, in silenzio; ché certo il luogo è sacro; sicché non devi meravigliarti se, mentre procedo, mi mostro in un furore divino, poiché già entro nei ditirambi.
+
+FEDRO: Nulla può essere più vero.
+
+SOCRATE: La responsabilità spetta a te. Ma ascolta ciò che segue, e forse l'accesso potrà essere scongiurato; tutto è nelle loro mani lassù. Continuerò a parlare al mio giovane. Ascolta: —
+
+Dunque, amico mio, abbiamo dichiarato e definito la natura dell'argomento. Tenendo presente la definizione, indaghiamo ora quale vantaggio o svantaggio sia probabile che derivi dall'amante o dal non amante a colui che accetta le loro profferte.
+
+Colui che è vittima delle proprie passioni e schiavo del piacere desidererà naturalmente rendere il suo amato il più possibile gradito a sé stesso. Ora, a colui che ha la mente inferma, tutto ciò che non gli si oppone è gradito, ma ciò che gli è uguale o superiore gli è odioso; e perciò l'amante non sopporterà alcuna superiorità o uguaglianza da parte del suo amato; è sempre intento a ridurlo all'inferiorità. E l'ignorante è inferiore al sapiente, il codardo al coraggioso, il lento di parola all'oratore, lo stupido all'ingegnoso. Questi, e non solo questi, sono i difetti mentali dell'amato; — difetti che, quando sono instillati dalla natura, sono necessariamente una delizia per l'amante, e quando non lo sono, egli deve escogitare di instillarglieli, se non vuole essere privato della sua fugace gioia. E perciò non può fare a meno di essere geloso, ed escluderà il suo amato dai vantaggi della società che lo renderebbero uomo, e specialmente da quella società che gli avrebbe dato saggezza, e così non mancherà di fargli grande danno. Vale a dire, nel suo eccessivo timore di venire disprezzato ai suoi occhi, sarà costretto a bandire da lui la divina filosofia; e non vi è danno maggiore che possa infliggergli di questo. Farà in modo che il suo amato sia del tutto ignorante, e in ogni cosa guardi a lui; egli dovrà essere la delizia del cuore dell'amante, e una maledizione per sé stesso. In verità, un amante è un guardiano e un compagno giovevole per lui in tutto ciò che concerne la sua mente.
+
+Vediamo ora come il suo padrone, la cui legge di vita è il piacere e non il bene, custodirà e formerà il corpo del suo servo. Non sceglierà forse un amato delicato piuttosto che robusto e forte? Uno allevato in ombrosi recessi e non nel sole splendente, estraneo agli esercizi virili e al sudore della fatica, avvezzo solo a un vitto molle e lussurioso, invece dei colori della salute recante le tinte del belletto e dell'ornamento, e il resto tutto conforme? — una vita tale quale ognuno può immaginare e che non occorre che io descriva a lungo. Ma posso riassumere in una parola tutto ciò che ho da dire, e passare oltre. Un tale individuo in guerra, o in una qualsiasi delle grandi crisi della vita, sarà motivo di ansia per gli amici e anche per l'amante, e certo non terrore dei nemici; il che nessuno può negare.
+
+Ora diciamo quale vantaggio o svantaggio riceverà l'amato dalla custodia e compagnia del suo amante circa le sue sostanze; questo è il punto successivo da considerare. L'amante sarà il primo a vedere ciò che, invero, sarà abbastanza evidente a tutti gli uomini, e cioè che egli desidera sopra ogni cosa privare il suo amato delle sue più care e migliori e più sante possessioni, padre, madre, parenti, amici, di tutti coloro che egli ritiene possano essere impedimenti o rimproveri al loro dolcissimo conversare; getterà anzi un occhio geloso sul suo oro e argento o altre proprietà, perché questi lo rendono preda meno facile, e quando è preso meno maneggevole; quindi egli è necessariamente scontento del suo possesso e si rallegra della loro perdita; e lo vorrebbe anche senza moglie, senza figli, senza casa; e quanto più a lungo, tanto meglio, perché quanto più a lungo egli è tutto questo, tanto più a lungo lo godrà.
 
 <span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -238,6 +410,52 @@ and when he had completed his poem, which is called ‘the recantation,’ immed
 
 PHAEDRUS: Nothing could be more agreeable to me than to hear you say so.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Vi sono pure alcune specie di animali, come gli adulatori, che sono abbastanza dannosi e malefici, e tuttavia la natura ha mescolato nella loro composizione un piacere e una grazia momentanei. Si può dire che una cortigiana è nociva, e si possono disapprovare tali creature e le loro pratiche, e nondimeno per il momento sono assai piacevoli. Ma l'amante non è soltanto nocivo al suo amato; è anche un compagno estremamente sgradevole. Il vecchio proverbio dice che ‘i simili stanno volentieri insieme’; suppongo che l'uguaglianza degli anni li inclini agli stessi piaceri, e la somiglianza genera [amicizia](/concepts/friendship); eppure anche di questa puoi averne più che abbastanza; e in verità la costrizione si dice sempre gravosa. Ora l'amante non solo è diverso dal suo amato, ma gli si impone con forza. Poiché egli è vecchio e il suo amore è giovane, e né giorno né notte lo lascerà se può evitarlo; la necessità e il pungolo del desiderio lo spingono, e lo allettano col piacere che riceve dal vederlo, udirlo, toccarlo, percepirlo in ogni modo. E perciò egli si compiace di attaccarsi a lui e di servirlo. Ma quale piacere o consolazione può ricevere l'amato per tutto questo tempo? Non deve egli provare l'estremo disgusto quando guarda un vecchio viso raggrinzito e il rimanente che gli corrisponde, il quale anche nella descrizione è sgradevole, e del tutto detestabile quando è costretto al contatto quotidiano con l'amante; inoltre è gelosamente sorvegliato e custodito contro tutto e contro tutti, e deve udire lodi fuori luogo ed esagerate di se stesso, e biasimi ugualmente inappropriati, che sono intollerabili quando l'uomo è sobrio e, oltre che intollerabili, vengono pubblicati per tutto il mondo in tutta la loro indelicatezza e noiosità quando è ubriaco.
+
+E non solo finché il suo amore dura è egli molesto e sgradevole, ma quando l'amore cessa, diventa nemico perfido di colui sul quale aveva prodigato giuramenti e preghiere e promesse, eppure a stento era riuscito a farsi tollerare la noia della sua compagnia, sia pure per motivi d'interesse. Giunge l'ora del pagamento, ed ecco ch'egli è servo d'un altro padrone; in luogo d'amore e d'infatuazione, la saggezza e la temperanza sono ora i signori del suo petto; ma l'amato non ha scoperto il cambiamento avvenuto in lui, quando chiede la ricompensa e richiama alla memoria i detti e i fatti di prima; egli crede di parlare con la stessa persona, e l'altro, non avendo il coraggio di confessare la verità, e non sapendo come adempiere i giuramenti e le promesse fatte quando era sotto il dominio della follia, ed essendo ora divenuto saggio e temperante, non vuole fare come faceva né essere come era prima. E così fugge via ed è costretto a mancare ai suoi impegni; la conchiglia è caduta col lato opposto in alto — egli muta la fuga in inseguimento, mentre l'altro è costretto a seguirlo con passione e imprecazioni, non sapendo che mai avrebbe dovuto fin da principio accettare un amante demente invece di un saggio non-amante; e che nel fare tale scelta egli si consegnava a un essere infido, intrattabile, invidioso, sgradevole, dannoso al suo patrimonio, dannoso alla sua salute corporale, e ancor più dannoso alla coltura della sua mente, della quale non v'è né mai vi sarà cosa più onorata agli occhi degli dèi e degli uomini. Considera questo, o giovinetto, e sappi che nell'amicizia dell'amante non v'è vera benevolenza; egli ha un appetito e vuole nutrirsi di te.
+
+Come i lupi amano gli agnelli, così gli amanti amano i loro amori.
+
+Ma ve l'ho detto, parlo in versi, e perciò farei meglio a porre fine; basta.
+
+FEDRO: Pensavo che tu fossi solo a metà strada e che stessi per fare un discorso simile su tutti i vantaggi dell'accettare il non amante. Perché non prosegui?
+
+[SOCRATE](/figures/socrates): Non osserva la tua semplicità che io sono passato dai ditirambi agli eroici, mentre proferivo soltanto un biasimo contro l'amante? E se devo aggiungere le lodi del non amante, che ne sarà di me? Non ti accorgi che sono già stato sopraffatto dalle Ninfe, alle quali tu mi hai maliziosamente esposto? E perciò aggiungerò soltanto che il non amante possiede tutti i vantaggi in cui l'amante è accusato di essere manchevole. E ora non dirò altro; vi è stato abbastanza di entrambi. Lasciando il racconto alla sua sorte, attraverserò il fiume e mi affretterò a tornare a casa, per timore che una cosa peggiore mi venga inflitta da te.
+
+FEDRO: Non ancora, Socrate; non prima che il caldo del giorno sia passato; non vedi che l'ora è quasi mezzogiorno? C'è il sole di mezzogiorno che sta fermo, come si dice, nel meridiano. Rimaniamo piuttosto a discorrere di ciò che è stato detto, e poi ce ne torneremo al fresco.
+
+SOCRATE: Il tuo amore per il discorso, Fedro, è sovrumano, semplicemente meraviglioso, e non credo che vi sia alcuno dei tuoi contemporanei che abbia o fatto o in un modo o nell'altro costretto altri a fare altrettanti discorsi. Eccettuerei Simmia il Tebano, ma tutti gli altri sono di gran lunga indietro rispetto a te. E ora io credo in verità che tu sia stato causa di un altro.
+
+PHAEDRUS: Questa è una buona notizia. Ma che cosa intendi?
+
+SOCRATE: Voglio dire che, mentre stavo per attraversare il torrente, mi fu dato il solito segno — quel segno che sempre mi vieta, ma mai mi comanda, di fare qualunque cosa io stia per fare; e mi parve di udire una voce che mi diceva all'orecchio ch'io mi era reso colpevole di empietà, e che non dovevo allontanarmi finché non avessi fatto un'espiazione. Ora io sono un indovino, sebbene non molto buono, ma ho abbastanza religione per il mio uso, come si potrebbe dire di un cattivo scrittore — la sua scrittura è abbastanza buona per lui; e comincio a vedere ch'ero in errore. O amico mio, quanto è profetica l'anima umana! A quel tempo ebbi una sorta di presentimento, e, come Ibico, "ero turbato; temevo di comprare onore dagli uomini al prezzo di peccare contro gli dèi." Ora riconosco il mio errore.
+
+PHAEDRUS: Quale errore?
+
+SOCRATE: Terribile fu il discorso che recasti con te, e mi facesti pronunciarne uno altrettanto cattivo.
+
+FEDRO: Come ciò?
+
+Fu stolto, dico, — in certo qual modo empio; può esservi alcunché di più orrendo?
+
+FEDRO: Niente, se il discorso era davvero tale come lo descrivi.
+
+SOCRATE: Ebbene, e non è Eros figlio di Afrodite, e un dio?
+
+FEDRO: Così dicono gli uomini.
+
+SOCRATE: Ma ciò non fu riconosciuto da Lisia nel suo discorso, né da te in quell'altro discorso che tu con incantesimo traesti dalle mie labbra. Poiché se l'amore è, come certamente è, una divinità, non può essere malvagio. Tuttavia questo fu l'errore di entrambi i discorsi. Vi era anche in essi una semplicità che rinfrescava; non avendo essi né verità né onestà, nondimeno pretendevano di essere qualcosa, sperando di riuscire a ingannare gli omuncoli della terra e di acquistare celebrità tra loro. Perciò devo fare una purificazione. E mi sovviene un'antica purificazione dall'errore mitologico, la quale fu ideata, non da Omero, poiché egli non ebbe mai l'ingegno di scoprire perché fosse cieco, ma da Stesicoro, il quale era filosofo e ne conosceva la ragione; e pertanto, quando perse gli occhi, poiché quello era il castigo che gli era stato inflitto per aver vituperato la bella Elena, subito si purificò. E la purificazione fu una ritrattazione, che cominciava così, —
+
+ ‘Falsa è quella mia parola — la verità è che tu non ti imbarcasti in
+
+ navi, né mai andare alle mura di Troia;
+
+E quando ebbe compiuto il suo poema, che è chiamato 'la palinodia,' subito la vista gli ritornò. Ora io sarò più saggio di Stesicoro e di Omero, in quanto farò la mia palinodia per aver vituperato l'amore prima di soffrire; e ciò tenterò, non come prima, velato e vergognoso, ma con fronte ardita e scoperta.
+
+Nulla potrebbe essermi più gradito che udirti dire così.
+
 <span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Only think, my good Phaedrus, what an utter want of delicacy was shown in the two discourses; I mean, in my own and in that which you recited out of the book. Would not any one who was himself of a noble and gentle nature, and who loved or ever had loved a nature like his own, when we tell of the petty causes of lovers’ jealousies, and of their exceeding animosities, and of the injuries which they do to their beloved, have imagined that our ideas of love were taken from some haunt of sailors to which good manners were unknown — he would certainly never have admitted the justice of our censure?
@@ -264,6 +482,32 @@ I might tell of many other noble deeds which have sprung from inspired madness. 
 
 (Translated by Cic. Tus. Quaest.) The soul through all her being is immortal, for that which is ever in motion is immortal; but that which moves another and is moved by another, in ceasing to move ceases also to live. Only the self-moving, never leaving self, never ceases to move, and is the fountain and beginning of motion to all that moves besides. Now, the beginning is unbegotten, for that which is begotten has a beginning; but the beginning is begotten of nothing, for if it were begotten of something, then the begotten would not come from a beginning. But if unbegotten, it must also be indestructible; for if beginning were destroyed, there could be no beginning out of anything, nor anything out of a beginning; and all things must have a beginning. And therefore the self-moving is the beginning of motion; and this can neither be destroyed nor begotten, else the whole heavens and all creation would collapse and stand still, and never again have motion or birth. But if the self-moving is proved to be immortal, he who affirms that self-motion is the very idea and essence of the soul will not be put to confusion. For the body which is moved from without is soulless; but that which is moved from within has a soul, for such is the nature of the soul. But if this be true, must not the soul be the self-moving, and therefore of necessity unbegotten and immortal? Enough of the soul’s immortality.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Pensa soltanto, mio buon Fedro, quale assoluta mancanza di delicatezza fu mostrata nei due discorsi; voglio dire, nel mio e in quello che tu recitasti dal libro. Chiunque fosse di natura nobile e gentile, e che amasse o avesse mai amato una natura simile alla sua, quando raccontiamo delle meschine cause delle gelosie degli amanti, e delle loro eccessive animosità, e delle offese che fanno ai loro amati, avrebbe forse immaginato che le nostre idee sull'amore fossero tratte da qualche luogo di ritrovo di marinai, dove le buone maniere erano sconosciute — certamente non avrebbe mai ammesso la giustezza del nostro biasimo?
+
+Oserei dire di no, Socrate.
+
+SOCRATE: Perciò, poiché arrossisco al pensiero di costui, e anche perché temo Amore stesso, desidero lavare la salamoia dalle mie orecchie con acqua della fonte; e consiglierei a Lisia di non indugiare, ma di scrivere un altro discorso, che dimostri che, 'ceteris paribus', l'amante debba essere accettato piuttosto che il non amante.
+
+FEDRO: Sii pur certo che lo farà. Tu pronuncerai le lodi dell'amante, e Lisia sarà da me costretto a scrivere un altro discorso sul medesimo tema.
+
+SOCRATE: In questo sarai fedele alla tua natura, e perciò ti credo.
+
+Parla, e non temere.
+
+SOCRATE: Ma dov'è il bel giovane al quale poc'anzi mi rivolgevo, e che ora dovrebbe ascoltare; affinché, se non mi ode, non accetti un non amante prima di sapere quello che fa?
+
+FEDRO: Egli è a portata di mano, e sempre al tuo servizio.
+
+Sappi adunque, o bel giovinetto, che il discorso precedente fu la parola di Fedro, figlio dell'Uomo Vano, che abita nella città di Mirrina (Mirrinusio); e quello che sto per pronunciare è la palinodia di Stesicoro, figlio dell'Uomo Pio (Eufemo), che viene dalla città del Desiderio (Imera), ed è del seguente tenore: ‘Ho detto una menzogna quando dissi’ che l'amato dovrebbe accettare il non amante, quando potrebbe avere l'amante, perché l'uno è sano e l'altro è folle. Così potrebbe essere se la follia fosse semplicemente un male; ma vi è anche una follia che è un dono divino, e la fonte dei supremi beni concessi agli uomini. Poiché la profezia è una follia, e la profetessa a Delfi e le sacerdotesse a Dodona, quando erano fuori di senno, hanno conferito grandi benefici all'Ellade, sia nella vita pubblica sia in quella privata; ma, quando erano in sé, pochi o nessuno. E potrei anche narrarti come la Sibilla e altri ispirati abbiano dato a molti molteplici indizi dell'avvenire che li hanno salvati dalla rovina. Ma sarebbe tedioso parlare di ciò che tutti sanno.
+
+Vi sarà più ragione nel ricorrere agli antichi inventori dei [nomi](/positions/nominalism) (confronta Cratilo), i quali non avrebbero mai connesso la profezia (mantike) che predice il futuro ed è la più nobile delle arti, con la pazzia (manike), né le avrebbero chiamate entrambe con lo stesso nome, se avessero ritenuto la pazzia un disonore o una vergogna; — devono aver pensato che vi fosse una follia ispirata che era cosa nobile; poiché le due parole, mantike e manike, sono realmente identiche, e la lettera tau non è che una inserzione moderna e di cattivo gusto. E ciò è confermato dal nome che essi diedero all'indagine razionale del futuro, sia essa fatta con l'aiuto degli uccelli o di altri segni — questa, in quanto è un'arte che fornisce dalla facoltà razionale la mente (nous) e l'informazione (istoria) al pensiero umano (oiesis), essi la chiamarono originariamente oionoistike, ma la parola è stata di recente alterata e resa sonora dalla moderna introduzione della lettera Omega (oionoistike e oionistike), e nella misura in cui la profezia (mantike) è più perfetta e augusta dell'augurio, sia nel nome che nel fatto, nella stessa misura, come testimoniano gli antichi, la follia è superiore alla mente sana (sophrosune), poiché l'una è solo di origine umana, mentre l'altra è di origine divina. Di nuovo, dove pestilenze e calamità grandissime si sono generate in certe famiglie, a causa di qualche antica colpa di sangue, là la follia è entrata con sacre preghiere e riti, e con ispirate parole ha trovato una via di liberazione per coloro che ne avevano bisogno; e chi ha parte di questo dono, ed è veramente posseduto e debitamente fuori di sé, mediante l'uso di purificazioni e misteri è reso sano ed esente dal male, tanto futuro quanto presente, e ottiene una liberazione dalla calamità che lo affliggeva. La terza specie è la follia di coloro che sono posseduti dalle Muse; la quale, impadronendosi di un'anima delicata e vergine, e ivi ispirando furore, risveglia i numeri lirici e tutti gli altri; con questi adornando le innumerevoli gesta degli antichi eroi per l'istruzione dei posteri. Ma colui che, non avendo alcuna parte della follia delle Muse nella sua anima, si presenta alla porta e pensa di entrare nel tempio con l'aiuto dell'arte — costui, dico, e la sua poesia non sono ammessi; l'uomo sano scompare e non è da nessuna parte quando entra in rivalità con il folle.
+
+Potrei raccontare molte altre nobili imprese che sono scaturite da follia ispirata. E pertanto nessuno ci spaventi o ci turbi dicendo che l'amico temperante è da scegliere piuttosto che l'ispirato, ma mostri inoltre che l'amore non è inviato dagli dèi per alcun bene all'amante o all'amato; se può farlo, gli permetteremo di riportare la palma. E noi, da parte nostra, proveremo in risposta a lui che la follia dell'amore è il più grande dei beni celesti, e la prova sarà tale che il saggio l'accoglierà, e lo stolto non vi crederà. Ma prima di tutto, consideriamo gli affetti e le azioni dell'anima divina ed umana, e cerchiamo di accertare la verità intorno ad essi. L'inizio della nostra prova è il seguente: —
+
+L'anima è immortale in tutto il suo essere, poiché ciò che è sempre in moto è immortale; ma ciò che muove un altro ed è mosso da un altro, cessando di muoversi, cessa anche di vivere. Solo il semovente, non uscendo mai da sé, non cessa mai di muoversi, ed è fonte e principio di moto a tutto ciò che si muove oltre a sé. Ora, il principio è ingenerato, poiché ciò che è generato ha un principio; ma il principio non è generato da cosa alcuna, ché se fosse generato da qualcosa, il generato non deriverebbe da un principio. Ma se è ingenerato, deve anche essere indistruttibile; ché se il principio fosse distrutto, non vi sarebbe principio da alcuna cosa, né alcuna cosa da un principio; e tutte le cose devono avere un principio. E perciò il semovente è il principio del moto; e questo non può essere né distrutto né generato, altrimenti i cieli tutti e tutta la creazione crollerebbero e si fermerebbero, e non avrebbero mai più né moto né nascita. Ma se il semovente è dimostrato immortale, colui che afferma che il muoversi da sé è l'idea stessa e l'essenza dell'anima non sarà confuso. Poiché il corpo che è mosso dall'esterno è senz'anima; ma ciò che è mosso dall'interno ha un'anima, perché tale è la natura dell'anima. Ma se ciò è vero, non deve forse l'anima essere il semovente, e quindi per necessità ingenerata e immortale? Basti intorno all'immortalità dell'anima.
+
 <span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Of the nature of the soul, though her true form be ever a theme of large and more than mortal discourse, let me speak briefly, and in a figure. And let the figure be composite — a pair of winged horses and a charioteer. Now the winged horses and the charioteers of the gods are all of them noble and of noble descent, but those of other races are mixed; the human charioteer drives his in a pair; and one of them is noble and of noble breed, and the other is ignoble and of ignoble breed; and the driving of them of necessity gives a great deal of trouble to him. I will endeavour to explain to you in what way the mortal differs from the immortal creature. The soul in her totality has the care of inanimate being everywhere, and traverses the whole heaven in divers forms appearing — when perfect and fully winged she soars upward, and orders the whole world; whereas the imperfect soul, losing her wings and drooping in her flight at last settles on the solid ground — there, finding a home, she receives an earthly frame which appears to be self-moved, but is really moved by her power; and this composition of [soul and body](/axes/soul_body) is called a living and mortal creature. For immortal no such union can be reasonably believed to be; although fancy, not having seen nor surely known the nature of God, may imagine an immortal creature having both a body and also a soul which are united throughout all time. Let that, however, be as God wills, and be spoken of acceptably to him. And now let us ask the reason why the soul loses her wings!
@@ -272,11 +516,25 @@ The wing is the corporeal element which is most akin to the divine, and which by
 
 Such is the life of the gods; but of other souls, that which follows God best and is likest to him lifts the head of the charioteer into the outer world, and is carried round in the revolution, troubled indeed by the steeds, and with difficulty beholding true being; while another only rises and falls, and sees, and again fails to see by reason of the unruliness of the steeds. The rest of the souls are also longing after the upper world and they all follow, but not being strong enough they are carried round below the surface, plunging, treading on one another, each striving to be first; and there is confusion and perspiration and the extremity of effort; and many of them are lamed or have their wings broken through the ill-driving of the charioteers; and all of them after a fruitless toil, not having attained to the mysteries of true being, go away, and feed upon opinion. The reason why the souls exhibit this exceeding eagerness to behold the plain of truth is that pasturage is found there, which is suited to the highest part of the soul; and the wing on which the soul soars is nourished with this. And there is a law of Destiny, that the soul which attains any vision of truth in company with a god is preserved from harm until the next period, and if attaining always is always unharmed. But when she is unable to follow, and fails to behold the truth, and through some ill-hap sinks beneath the double load of forgetfulness and vice, and her wings fall from her and she drops to the ground, then the law ordains that this soul shall at her first birth pass, not into any other animal, but only into man; and the soul which has seen most of truth shall come to the birth as a philosopher, or artist, or some musical and loving nature; that which has seen truth in the second degree shall be some righteous king or warrior chief; the soul which is of the third class shall be a politician, or economist, or trader; the fourth shall be a lover of gymnastic toils, or a physician; the fifth shall lead the life of a prophet or hierophant; to the sixth the character of poet or some other imitative artist will be assigned; to the seventh the life of an artisan or husbandman; to the eighth that of a sophist or demagogue; to the ninth that of a tyrant — all these are states of probation, in which he who does righteously improves, and he who does unrighteously, deteriorates his lot.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Della natura dell'anima, sebbene la sua vera forma sia sempre argomento di un discorso ampio e più che mortale, parlerò brevemente, e in una figura. E sia la figura composta — una coppia di cavalli alati e un auriga. Ora i cavalli alati e gli aurighi degli dèi sono tutti quanti nobili e di nobile discendenza, ma quelli delle altre stirpi sono misti; l'auriga umano conduce i suoi in coppia; e uno di essi è nobile e di nobile razza, e l'altro è ignobile e di ignobile razza; e il guidarli gli cagiona necessariamente non poca fatica. Mi sforzerò di spiegarti in che modo il mortale differisca dalla creatura immortale. L'anima nella sua totalità ha cura di tutto ciò che è inanimato, ovunque, e attraversa tutto il cielo in diverse forme apparendo — quando è perfetta e del tutto alata, si libra verso l'alto, e ordina il mondo intero; mentre l'anima imperfetta, perdendo le ali e illanguidendo nel suo volo, alla fine si posa sul suolo solido — ivi, trovando una dimora, riceve una forma terrena che pare muoversi da sé, ma che in realtà è mossa dalla sua potenza; e questa composizione di [anima e corpo](/axes/soul_body) è chiamata creatura vivente e mortale. Poiché immortale nessuna tale unione può ragionevolmente credersi; sebbene la fantasia, non avendo veduto né conosciuto con certezza la natura di Dio, possa immaginare una creatura immortale che abbia e un corpo e un'anima perennemente uniti. Sia però questo come Dio vuole, e sia detto in modo a lui gradito. E ora domandiamo la ragione per cui l'anima perde le ali!
+
+L'ala è l'elemento corporeo che più è affine al divino, e che per natura tende a innalzarsi in alto e a trasportare ciò che gravita in basso verso la regione superiore, che è la dimora degli dèi. Il divino è [bellezza](/concepts/beauty), sapienza, bontà e simili; e di queste l'ala dell'anima si nutre, e cresce rigogliosa; ma quando si ciba di male e di sozzura e del contrario del bene, deperisce e cade. Zeus, il possente signore, tenendo le redini di un carro alato, guida la via nel cielo, ordinando tutto e prendendosi cura di tutto; e lo segue la schiera degli dèi e dei semidei, disposta in undici schiere; Estia sola rimane a casa nella dimora del cielo; degli altri, coloro che sono annoverati tra i dodici principeschi marciano nell'ordine loro assegnato. Essi vedono molte beate visioni nel cielo interno, e vi sono molte vie in qua e in là, lungo le quali gli dèi beati passano, ciascuno compiendo la propria opera; può seguirli chi vuole e può, poiché l'invidia non ha luogo nel coro celeste. Ma quando si recano a banchetto e a festa, allora salgono per l'erta fino alla sommità della volta del cielo. I carri degli dèi, in equilibrio perfetto, obbedendo alle redini, scivolano rapidi; ma gli altri [faticano](/concepts/labour), perché il cavallo vizioso procede pesantemente, trascinando l'auriga verso terra quando il suo cavallo non è stato addestrato a fondo: — e questa è l'ora dell'agonia e dell'estremo conflitto per l'anima. Poiché gli immortali, quando sono al termine del loro corso, escono e si fermano sull'esterno del cielo, e la [rivoluzione](/positions/revolution) delle sfere li trasporta in giro, ed essi contemplano le cose di là. Ma del cielo che è al di sopra dei cieli, quale poeta terreno mai ha cantato o mai canterà degnamente? Esso è tale quale io descriverò; poiché devo osare di dire la verità, quando la verità è il mio tema. Là dimora l'essere stesso di cui si occupa la vera conoscenza; l'essenza incolore, informe, intangibile, visibile solo alla mente, pilota dell'anima. L'intelligenza divina, nutrita di mente e di pura conoscenza, e l'intelligenza di ogni anima che è capace di ricevere il cibo a lei proprio, gioisce nel contemplare la realtà, e di nuovo guardando la verità, si ricolma e si rallegra, finché la rivoluzione dei mondi la riconduce di nuovo allo stesso luogo. In questa rivoluzione ella contempla la giustizia, e la temperanza, e la conoscenza assoluta, non nella forma della generazione o della relazione, che gli uomini chiamano esistenza, ma conoscenza assoluta nell'esistenza assoluta; e contemplando le altre vere essenze in modo simile, e nutrendosene, ella discende nell'interno dei cieli e torna a casa; e qui l'auriga, mettendo i cavalli alla stalla, dà loro ambrosia da mangiare e nettare da bere.
+
+Tale è la vita degli dèi; ma delle altre anime, quella che segue Dio nel modo migliore e gli è somigliantissima solleva il capo dell'auriga nel mondo esterno, ed è trasportata in giro nella rivoluzione, turbata invero dai cavalli, e con difficoltà contempla il vero essere; mentre un'altra soltanto si innalza e ricade, e vede, e di nuovo non vede per l'indocilità dei cavalli. Anche le altre anime bramano il mondo superiore e tutte seguono, ma, non essendo abbastanza forti, sono trasportate in giro sotto la superficie, tuffandosi, calpestandosi a vicenda, ciascuna sforzandosi di essere prima; e vi è confusione e sudore e l'estremo dello sforzo; e molte di esse sono azzoppate o hanno le ali spezzate per la cattiva guida degli aurighi; e tutte, dopo una fatica infruttuosa, non avendo raggiunto i misteri del vero essere, se ne vanno, e si nutrono di opinione. La ragione per cui le anime mostrano questo smodato desiderio di contemplare la pianura della verità è che là si trova il pascolo, che è adatto alla parte più alta dell'anima; e l'ala sulla quale l'anima si libra è nutrita di questo. E vi è una legge del Destino, che l'anima la quale consegue una qualche visione della verità in compagnia di un dio è preservata dal male fino al periodo successivo, e se la consegue sempre è sempre illesa. Ma quando essa non è in grado di seguire, e non riesce a contemplare la verità, e per qualche sventura sprofonda sotto il doppio peso dell'oblio e del vizio, e le cadono le ali e cade a terra, allora la legge ordina che quest'anima alla sua prima nascita passi, non in alcun altro animale, ma solo in un uomo; e l'anima che ha visto la maggior parte della verità verrà alla nascita come filosofo, o artista, o qualche natura musicale e amorosa; quella che ha visto la verità in secondo grado sarà un re giusto o un capo guerriero; l'anima che è della terza classe sarà un politico, o un economo, o un mercante; la quarta sarà un amante delle fatiche ginnastiche, o un medico; la quinta condurrà la vita di un profeta o di un ierofante; alla sesta sarà assegnato il carattere di poeta o di qualche altro artista imitativo; alla settima la vita di un artigiano o di un contadino; all'ottava quella di un sofista o di un demagogo; alla nona quella di un tiranno — tutti questi sono stati di prova, nei quali chi opera rettamente migliora, e chi opera ingiustamente peggiora la propria sorte.
+
 <span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Ten thousand years must elapse before the soul of each one can return to the place from whence she came, for she cannot grow her wings in less; only the soul of a philosopher, guileless and true, or the soul of a lover, who is not devoid of philosophy, may acquire wings in the third of the recurring periods of a thousand years; he is distinguished from the ordinary good man who gains wings in three thousand years: — and they who choose this life three times in succession have wings given them, and go away at the end of three thousand years. But the others (The philosopher alone is not subject to judgment (krisis), for he has never lost the vision of truth.) receive judgment when they have completed their first life, and after the judgment they go, some of them to the houses of correction which are under the earth, and are punished; others to some place in heaven whither they are lightly borne by justice, and there they live in a manner worthy of the life which they led here when in the form of men. And at the end of the first thousand years the good souls and also the evil souls both come to draw lots and choose their second life, and they may take any which they please. The soul of a man may pass into the life of a beast, or from the beast return again into the man. But the soul which has never seen the truth will not pass into the human form. For a man must have intelligence of [universals](/axes/universals), and be able to proceed from the many particulars of sense to one conception of reason; — this is the recollection of those things which our soul once saw while following God — when regardless of that which we now call being she raised her head up towards the true being. And therefore the mind of the philosopher alone has wings; and this is just, for he is always, according to the measure of his abilities, clinging in recollection to those things in which God abides, and in beholding which He is what He is. And he who employs aright these memories is ever being initiated into perfect mysteries and alone becomes truly perfect. But, as he forgets earthly interests and is rapt in the divine, the vulgar deem him mad, and rebuke him; they do not see that he is inspired.
 
 Thus far I have been speaking of the fourth and last kind of madness, which is imputed to him who, when he sees the [beauty](/concepts/beauty) of earth, is transported with the recollection of the true beauty; he would like to fly away, but he cannot; he is like a bird fluttering and looking upward and careless of the world below; and he is therefore thought to be mad. And I have shown this of all inspirations to be the noblest and highest and the offspring of the highest to him who has or shares in it, and that he who loves the beautiful is called a lover because he partakes of it. For, as has been already said, every soul of man has in the way of nature beheld true being; this was the condition of her passing into the form of man. But all souls do not easily recall the things of the other world; they may have seen them for a short time only, or they may have been unfortunate in their earthly lot, and, having had their hearts turned to unrighteousness through some corrupting influence, they may have lost the memory of the holy things which once they saw. Few only retain an adequate remembrance of them; and they, when they behold here any image of that other world, are rapt in amazement; but they are ignorant of what this rapture means, because they do not clearly perceive. For there is no light of justice or temperance or any of the higher ideas which are precious to souls in the earthly copies of them: they are seen through a glass dimly; and there are few who, going to the images, behold in them the realities, and these only with difficulty. There was a time when with the rest of the happy band they saw beauty shining in brightness, — we philosophers following in the train of Zeus, others in company with other gods; and then we beheld the [beatific vision](/positions/beatitude) and were initiated into a mystery which may be truly called most blessed, celebrated by us in our state of innocence, before we had any experience of evils to come, when we were admitted to the sight of apparitions innocent and simple and calm and happy, which we beheld shining in pure light, pure ourselves and not yet enshrined in that living tomb which we carry about, now that we are imprisoned in the body, like an oyster in his shell. Let me linger over the memory of scenes which have passed away.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Diecimila anni devono trascorrere prima che l'anima di ciascuno possa tornare al luogo donde è venuta, poiché non può mettere le ali in meno tempo; solo l'anima del filosofo, sincera e vera, o l'anima dell'amante, che non è privo di filosofia, può acquistare le ali nel terzo dei ricorrenti periodi di mille anni; egli si distingue dall'uomo ordinariamente buono che guadagna le ali in tremila anni: — e coloro che scelgono questa vita tre volte di seguito ricevono le ali e se ne vanno alla fine di tremila anni. Ma gli altri (Il filosofo solo non è soggetto al giudizio (krisis), poiché non ha mai perduto la visione della verità.) ricevono il giudizio quando hanno compiuto la loro prima vita, e dopo il giudizio vanno, alcuni alle case di correzione che sono sotto terra, e sono puniti; altri a qualche luogo del cielo dove sono portati lievemente dalla giustizia, e quivi vivono in modo degno della vita che condussero quaggiù quando erano in forma di uomini. E alla fine dei primi mille anni le anime buone e anche le anime malvage vengono entrambe a tirare a sorte e a scegliere la loro seconda vita, e possono prendere qualunque vita loro piaccia. L'anima di un uomo può passare nella vita di una bestia, o dalla bestia tornare di nuovo nell'uomo. Ma l'anima che non ha mai veduto la verità non passerà nella forma umana. Poiché un uomo deve avere intelligenza degli [universali](/axes/universals), ed essere capace di procedere dai molti particolari del senso a una concezione della ragione; — questa è la reminiscenza di quelle cose che la nostra anima una volta vide mentre seguiva Dio — quando, non curandosi di ciò che ora chiamiamo essere, ella levò il capo verso l'essere vero. E perciò la mente del solo filosofo ha ali; e questo è giusto, poiché egli si attiene sempre, secondo la misura delle sue capacità, con la reminiscenza a quelle cose in cui Dio dimora, e nel contemplare le quali Egli è ciò che è. E colui che usa rettamente queste memorie viene sempre iniziato ai misteri perfetti e solo diventa veramente perfetto. Ma, poiché dimentica gli interessi terreni ed è rapito nel divino, i volgari lo giudicano pazzo e lo rimproverano; non vedono che egli è ispirato.
+
+Finora ho parlato della quarta e ultima specie di follia, che è ascritta a colui il quale, quando vede la [bellezza](/concepts/beauty) della terra, è trasportato dal ricordo della vera bellezza; vorrebbe volare via, ma non può; è come un uccello che svolazza e guarda in alto, incurante del mondo di sotto; e perciò è ritenuto pazzo. E ho mostrato che questa, di tutte le ispirazioni, è la più nobile e la più alta, e la prole della più alta per colui che la possiede o vi partecipa, e che colui che ama il bello è chiamato amante perché partecipa di esso. Poiché, come è già stato detto, ogni anima d'uomo ha per natura contemplato l'essere vero; questa fu la condizione del suo passaggio nella forma umana. Ma non tutte le anime ricordano facilmente le cose dell'altro mondo; esse possono averle vedute solo per breve tempo, o possono essere state sfortunate nella loro sorte terrena e, avendo avuto i cuori rivolti all'ingiustizia per qualche influsso corruttore, possono aver perduto la memoria delle cose sante che una volta videro. Solo pochi conservano un adeguato ricordo di esse; e costoro, quando quaggiù contemplano qualche immagine di quell'altro mondo, sono rapiti in stupore; ma ignorano che cosa significhi questo rapimento, perché non percepiscono chiaramente. Poiché non vi è luce di giustizia né di temperanza né di alcuna delle idee superiori che sono preziose alle anime nelle copie terrene di esse: esse sono vedute attraverso un vetro, oscuramente; e pochi sono coloro che, recandosi alle immagini, scorgono in esse le realtà, e questi solo a fatica. Vi fu un tempo in cui, con il resto della beata schiera, vedevano la bellezza risplendere in fulgore, — noi filosofi al seguito di Zeus, altri in compagnia di altri dèi; e allora contemplammo la [visione beatifica](/positions/beatitude) e fummo iniziati a un mistero che può essere veramente chiamato beatissimo, celebrato da noi nel nostro stato di innocenza, prima che avessimo alcuna esperienza dei mali a venire, quando fummo ammessi alla vista di apparizioni innocenti e semplici e calme e felici, le quali contemplammo risplendere in pura luce, puri noi stessi e non ancora racchiusi in quella tomba vivente che portiamo con noi, ora che siamo imprigionati nel corpo, come un'ostrica nella sua conchiglia. Lasciami indugiare sul ricordo di scene che sono svanite.
 
 <span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -288,11 +546,27 @@ You may believe this, but not unless you like. At any rate the loves of lovers a
 
 Now the lover who is taken to be the attendant of Zeus is better able to bear the winged god, and can endure a heavier burden; but the attendants and companions of Ares, when under the influence of love, if they fancy that they have been at all wronged, are ready to kill and put an end to themselves and their beloved. And he who follows in the train of any other god, while he is unspoiled and the impression lasts, honours and imitates him, as far as he is able; and after the manner of his God he behaves in his intercourse with his beloved and with the rest of the world during the first period of his earthly existence. Every one chooses his love from the ranks of beauty according to his character, and this he makes his god, and fashions and adorns as a sort of image which he is to fall down and worship. The followers of Zeus desire that their beloved should have a soul like him; and therefore they seek out some one of a philosophical and imperial nature, and when they have found him and loved him, they do all they can to confirm such a nature in him, and if they have no experience of such a disposition hitherto, they learn of any one who can teach them, and themselves follow in the same way. And they have the less difficulty in finding the nature of their own god in themselves, because they have been compelled to gaze intensely on him; their recollection clings to him, and they become possessed of him, and receive from him their character and disposition, so far as man can participate in God. The qualities of their god they attribute to the beloved, wherefore they love him all the more, and if, like the Bacchic Nymphs, they draw inspiration from Zeus, they pour out their own fountain upon him, wanting to make him as like as possible to their own god. But those who are the followers of Here seek a royal love, and when they have found him they do just the same with him; and in like manner the followers of Apollo, and of every other god walking in the ways of their god, seek a love who is to be made like him whom they serve, and when they have found him, they themselves imitate their god, and persuade their love to do the same, and educate him into the manner and nature of the god as far as they each can; for no feelings of envy or jealousy are entertained by them towards their beloved, but they do their utmost to create in him the greatest likeness of themselves and of the god whom they honour. Thus fair and blissful to the beloved is the desire of the inspired lover, and the initiation of which I speak into the mysteries of true love, if he be captured by the lover and their purpose is effected. Now the beloved is taken captive in the following manner: —
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ma della [bellezza](/concepts/beauty), ripeto ancora, la vedemmo là risplendere in compagnia delle forme celesti; e giunti sulla terra la troviamo anche qui, risplendente in chiarezza attraverso la più chiara apertura dei sensi. Poiché la vista è il più acuto dei nostri sensi corporei; ma non per essa si vede la sapienza; la sua grazia sarebbe stata trascinante se vi fosse stata un'immagine visibile di lei, e le altre idee, se avessero controparti visibili, sarebbero ugualmente belle. Ma questo è il privilegio della bellezza, che essendo la più bella è anche la più percettibile alla vista. Ora colui che non è stato iniziato di recente o che si è corrotto, non si eleva facilmente da questo mondo alla vista della vera bellezza nell'altro; egli guarda solo alla sua omonima terrena, e invece di provare riverenza alla sua vista, si abbandona al piacere, e come una bestia bruta si precipita a godere e a generare; si accompagna alla dissolutezza, e non teme né si vergogna di perseguire il piacere in violazione della natura. Ma colui la cui iniziazione è recente, e che è stato spettatore di molte glorie nell'altro mondo, è stupito quando vede qualcuno che abbia un volto o una forma divini, che è l'espressione della bellezza divina; e dapprima un brivido lo percorre, e di nuovo l'antica riverenza lo coglie; poi guardando il volto dell'amato come a un dio lo venera, e se non temesse di essere creduto un pazzo furioso, sacrificherebbe al suo amato come all'immagine di un dio; poi mentre lo contempla si produce una sorta di reazione, e il brivido si muta in un insolito calore e sudore; poiché, ricevendo l'effluvio della bellezza attraverso gli occhi, l'ala si inumidisce ed egli si riscalda. E mentre egli si riscalda, le parti dalle quali l'ala era cresciuta, e che finora erano state chiuse e rigide, e avevano impedito all'ala di spuntare, si sciolgono, e mentre il nutrimento affluisce in lui, l'estremità inferiore dell'ala comincia a gonfiarsi e a crescere dalla radice in su; e la crescita si estende sotto tutta l'anima — poiché una volta tutta quanta era alata. Durante questo processo l'anima intera è tutta in uno stato di ebollizione e di effervescenza, — che si può paragonare all'irritazione e al disagio delle gengive al momento della dentizione, — ribolle, e prova una sensazione di disagio e di solletico; ma quando allo stesso modo l'anima comincia a mettere le ali, la bellezza dell'amato le si presenta agli occhi ed ella riceve il sensibile caldo moto delle particelle che scorrono verso di lei, perciò chiamato emozione (imeros), e ne è rinfrescata e riscaldata, e allora cessa dal suo dolore con gioia. Ma quando è separata dal suo amato e l'umore le viene meno, allora gli orifizi del passaggio da cui l'ala germoglia si inaridiscono e si chiudono, e intercettano il germe dell'ala; il quale, essendo racchiuso insieme all'emozione, palpitando come per i battiti di un'arteria, punge l'apertura che gli è più vicina, finché alla fine l'intera anima è trafitta, resa folle e addolorata, e al ricordo della bellezza è di nuovo rallegrata. E da queste due cose insieme l'anima è oppressa dalla stranezza della sua condizione, e si trova in grande angustia e agitazione, e nella sua follia non può né dormire di notte né rimanere nel suo luogo di giorno. E ovunque ella pensi di poter vedere il bello, là corre nel suo desiderio. E quando lo ha visto, e si è bagnata nelle acque della bellezza, il suo vincolo si allenta, ed ella è rinfrescata, e non ha più fitte e dolori; e questo è il più dolce di tutti i piaceri in quel momento, ed è la ragione per cui l'anima dell'amante non abbandonerà mai il suo bello, che egli stima al di sopra di tutto; ha dimenticato madre e fratelli e compagni, e non tiene in alcun conto la trascuratezza e la perdita delle sue sostanze; le regole e le convenienze della vita, di cui un tempo si gloriava, ora le disprezza, ed è pronto a dormire come un servo, ovunque gli sia permesso, il più vicino possibile al suo desiderato, che è l'oggetto del suo [culto](/concepts/religion), e il medico che solo può lenire la grandezza del suo dolore. E questo stato, mio caro giovane immaginario a cui io parlo, dagli uomini è chiamato amore, e tra gli dèi ha un nome di cui tu, nella tua semplicità, potresti essere incline a deridere; ci sono due versi negli scritti apocrifi di Omero in cui il nome ricorre. Uno di essi è piuttosto sconveniente, e non del tutto metrico. Essi sono i seguenti:
+
+‘I mortali lo chiamano amore fluttuante, ma gli immortali lo chiamano alato, perché il crescere delle ali (o, leggendo pterothoiton, "il movimento delle ali") è per lui una necessità.'
+
+Potete crederlo, ma solo se vi piace. Ad ogni modo gli amori degli amanti e le loro cause sono tali quali ho descritto.
+
+Ora l'amante che è ritenuto seguace di Zeus è più capace di sopportare il dio alato e può sostenere un più grave peso; ma i seguaci e i compagni di Ares, quando sono sotto l'influenza dell'amore, se si immaginano di essere stati minimamente offesi, sono pronti a uccidere e a porre fine a sé stessi e al loro amato. E chi segue il corteo di qualsiasi altro dio, finché è incontaminato e l'impressione dura, lo onora e lo imita, per quanto è capace; e secondo la maniera del suo dio si comporta nei suoi rapporti con l'amato e con il resto del mondo durante il primo periodo della sua esistenza terrena. Ognuno sceglie il suo amato tra le schiere della bellezza secondo il proprio carattere, e fa di lui il suo dio, e lo plasma e lo adorna come una sorta d'immagine che egli deve adorare e davanti a cui prosternarsi. I seguaci di Zeus desiderano che il loro amato abbia un'anima simile alla sua; e perciò cercano qualcuno di natura filosofica e imperiale, e quando lo hanno trovato e amato, fanno tutto ciò che possono per confermare in lui tale natura, e se finora non hanno avuto esperienza di tale disposizione, imparano da chiunque possa insegnar loro, ed essi stessi seguono la stessa via. E hanno tanto meno difficoltà a trovare in se stessi la natura del proprio dio, perché sono stati costretti a contemplarlo intensamente; la loro memoria si attacca a lui, e ne vengono posseduti, e ricevono da lui il loro carattere e la loro indole, per quanto l'uomo possa partecipare di Dio. Le qualità del loro dio le attribuiscono all'amato, perciò lo amano tanto di più, e se, come le Ninfe Baccanti, attingono ispirazione da Zeus, riversano su di lui la propria fonte, volendo renderlo il più simile possibile al loro dio. Ma quelli che sono i seguaci di Era cercano un amato regale, e quando lo hanno trovato fanno con lui lo stesso; e similmente i seguaci di Apollo, e di ogni altro dio, camminando nelle vie del loro dio, cercano un amato che debba essere reso simile a colui che servono, e quando lo hanno trovato, essi stessi imitano il loro dio e persuadono il loro amato a fare altrettanto, e lo educano al modo e alla natura del dio per quanto ciascuno può; poiché nessun sentimento d'invidia o di gelosia è nutrito da essi verso l'amato, ma fanno del loro meglio per creare in lui la più grande somiglianza con se stessi e con il dio che onorano. Così bello e beato è per l'amato il desiderio dell'amante ispirato, e l'iniziazione di cui parlo ai misteri del vero amore, se egli viene catturato dall'amante e il loro proposito è effettuato. Ora l'amato viene catturato nel seguente modo: —
+
 <span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 As I said at the beginning of this tale, I divided each soul into three — two horses and a charioteer; and one of the horses was good and the other bad: the division may remain, but I have not yet explained in what the goodness or badness of either consists, and to that I will now proceed. The right-hand horse is upright and cleanly made; he has a lofty neck and an aquiline nose; his colour is white, and his eyes dark; he is a lover of honour and modesty and temperance, and the follower of true glory; he needs no touch of the whip, but is guided by word and admonition only. The other is a crooked lumbering animal, put together anyhow; he has a short thick neck; he is flat-faced and of a dark colour, with grey eyes and blood-red complexion (Or with grey and blood-shot eyes.); the mate of insolence and pride, shag-eared and deaf, hardly yielding to whip and spur. Now when the charioteer beholds the vision of love, and has his whole soul warmed through sense, and is full of the prickings and ticklings of desire, the obedient steed, then as always under the government of shame, refrains from leaping on the beloved; but the other, heedless of the pricks and of the blows of the whip, plunges and runs away, giving all manner of trouble to his companion and the charioteer, whom he forces to approach the beloved and to remember the joys of love. They at first indignantly oppose him and will not be urged on to do terrible and unlawful deeds; but at last, when he persists in plaguing them, they yield and agree to do as he bids them. And now they are at the spot and behold the flashing [beauty](/concepts/beauty) of the beloved; which when the charioteer sees, his memory is carried to the true beauty, whom he beholds in company with Modesty like an image placed upon a holy pedestal. He sees her, but he is afraid and falls backwards in adoration, and by his fall is compelled to pull back the reins with such violence as to bring both the steeds on their haunches, the one willing and unresisting, the unruly one very unwilling; and when they have gone back a little, the one is overcome with shame and wonder, and his whole soul is bathed in perspiration; the other, when the pain is over which the bridle and [the fall](/positions/original_sin) had given him, having with difficulty taken breath, is full of wrath and reproaches, which he heaps upon the charioteer and his fellow-steed, for want of courage and manhood, declaring that they have been false to their agreement and guilty of desertion. Again they refuse, and again he urges them on, and will scarce yield to their prayer that he would wait until another time. When the appointed hour comes, they make as if they had forgotten, and he reminds them, fighting and neighing and dragging them on, until at length he on the same thoughts intent, forces them to draw near again. And when they are near he stoops his head and puts up his tail, and takes the bit in his teeth and pulls shamelessly. Then the charioteer is worse off than ever; he falls back like a racer at the barrier, and with a still more violent wrench drags the bit out of the teeth of the wild steed and covers his abusive tongue and jaws with blood, and forces his legs and haunches to the ground and punishes him sorely. And when this has happened several times and the villain has ceased from his wanton way, he is tamed and humbled, and follows the will of the charioteer, and when he sees the beautiful one he is ready to die of fear. And from that time forward the soul of the lover follows the beloved in modesty and holy fear.
 
 And so the beloved who, like a god, has received every true and loyal service from his lover, not in pretence but in reality, being also himself of a nature friendly to his admirer, if in former days he has blushed to own his passion and turned away his lover, because his youthful companions or others slanderously told him that he would be disgraced, now as years advance, at the appointed age and time, is led to receive him into communion. For fate which has ordained that there shall be no [friendship](/concepts/friendship) among the evil has also ordained that there shall ever be friendship among the good. And the beloved when he has received him into communion and intimacy, is quite amazed at the good-will of the lover; he recognises that the inspired friend is worth all other friends or kinsmen; they have nothing of friendship in them worthy to be compared with his. And when this feeling continues and he is nearer to him and embraces him, in gymnastic exercises and at other times of meeting, then the fountain of that stream, which Zeus when he was in love with Ganymede named Desire, overflows upon the lover, and some enters into his soul, and some when he is filled flows out again; and as a breeze or an echo rebounds from the smooth rocks and returns whence it came, so does the stream of beauty, passing through the eyes which are the windows of the soul, come back to the beautiful one; there arriving and quickening the passages of the wings, watering them and inclining them to grow, and filling the soul of the beloved also with love. And thus he loves, but he knows not what; he does not understand and cannot explain his own state; he appears to have caught the infection of blindness from another; the lover is his mirror in whom he is beholding himself, but he is not aware of this. When he is with the lover, both cease from their pain, but when he is away then he longs as he is longed for, and has love’s image, love for love (Anteros) lodging in his breast, which he calls and believes to be not love but friendship only, and his desire is as the desire of the other, but weaker; he wants to see him, touch him, kiss him, embrace him, and probably not long afterwards his desire is accomplished. When they meet, the wanton steed of the lover has a word to say to the charioteer; he would like to have a little pleasure in return for many pains, but the wanton steed of the beloved says not a word, for he is bursting with passion which he understands not; — he throws his arms round the lover and embraces him as his dearest friend; and, when they are side by side, he is not in a state in which he can refuse the lover anything, if he ask him; although his fellow-steed and the charioteer oppose him with the arguments of shame and reason. After this their happiness depends upon their self-control; if the better elements of the mind which lead to order and philosophy prevail, then they pass their life here in happiness and harmony — masters of themselves and orderly — enslaving the vicious and emancipating the virtuous elements of the soul; and when the end comes, they are light and winged for flight, having conquered in one of the three heavenly or truly Olympian victories; nor can human discipline or divine inspiration confer any greater blessing on man than this. If, on the other hand, they leave philosophy and lead the lower life of ambition, then probably, after wine or in some other careless hour, the two wanton animals take the two souls when off their guard and bring them together, and they accomplish that desire of their hearts which to the many is bliss; and this having once enjoyed they continue to enjoy, yet rarely because they have not the approval of the whole soul. They too are dear, but not so dear to one another as the others, either at the time of their love or afterwards. They consider that they have given and taken from each other the most sacred pledges, and they may not break them and fall into enmity. At last they pass out of the body, unwinged, but eager to soar, and thus obtain no mean reward of love and madness. For those who have once begun the heavenward pilgrimage may not go down again to darkness and the journey beneath the earth, but they live in light always; happy companions in their pilgrimage, and when the time comes at which they receive their wings they have the same plumage because of their love.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come dissi al principio di questo racconto, divisi ciascun'anima in tre — due cavalli e un auriga; e uno dei cavalli era buono e l'altro cattivo: la divisione può restare, ma non ho ancora spiegato in che consista la bontà o la malvagità dell'uno o dell'altro, e a ciò ora mi accingo. Il cavallo di destra è eretto e ben formato; ha il collo alto e il naso aquilino; il suo colore è bianco, e gli occhi neri; è amante dell'onore e della modestia e della temperanza, e seguace della vera gloria; non abbisogna di tocco di frusta, ma è guidato soltanto dalla parola e dall'esortazione. L'altro è un animale storto e goffo, messo insieme alla rinfusa; ha il collo corto e grosso; è di faccia piatta e di colore scuro, con occhi grigi e carnagione rosso sangue (o con occhi grigi e iniettati di sangue); compagno dell'insolenza e della superbia, dalle orecchie irsute e sordo, che a stento cede alla frusta e allo sprone. Ora quando l'auriga scorge la visione d'amore, e ha tutta l'anima riscaldata per mezzo dei sensi, ed è pieno dei pizzicori e dei solletichi del desiderio, il cavallo obbediente, allora come sempre sotto il governo del pudore, si trattiene dal balzare sull'amato; ma l'altro, incurante dei pizzicori e dei colpi di frusta, s'imbizzarrisce e fugge, dando ogni sorta di fastidio al compagno e all'auriga, che costringe ad avvicinarsi all'amato e a ricordare le gioie dell'amore. Essi da principio si oppongono sdegnati e non vogliono essere spinti a compiere azioni terribili e illecite; ma alla fine, poiché egli persiste nel tormentarli, cedono e acconsentono a fare come egli comanda. E ora sono giunti al luogo e scorgono lo splendore della [bellezza](/concepts/beauty) dell'amato; vedendo la quale l'auriga, la sua memoria è trasportata alla vera bellezza, che egli contempla insieme con la Modestia come un'immagine posta su un sacro piedistallo. Egli la vede, ma ha timore e cade all'indietro in adorazione, e per la sua caduta è costretto a tirare le redini con tale violenza da far cadere entrambi i cavalli sulle anche, l'uno volenteroso e senza resistenza, l'indomito assai mal volentieri; e quando si sono ritirati un poco, l'uno è vinto da vergogna e stupore, e tutta la sua anima è bagnata di sudore; l'altro, passato il dolore che il freno e [la caduta](/positions/original_sin) gli avevano recato, avendo ripreso a stento il respiro, è pieno d'ira e di rimproveri, che rovescia sull'auriga e sul compagno, per mancanza di coraggio e di virilità, dichiarando che sono stati infedeli al loro accordo e colpevoli di diserzione. Di nuovo essi rifiutano, e di nuovo egli li sprona, e a stento cede alla loro preghiera che attenda un'altra volta. Quando giunge l'ora stabilita, essi fanno mostra di aver dimenticato, ed egli li richiama, combattendo e nitrendo e trascinandoli, finché alla fine, intento agli stessi pensieri, li costringe ad avvicinarsi di nuovo. E quando sono vicini, egli china il capo e solleva la coda, e prende il morso tra i denti e tira svergognatamente. Allora l'auriga sta peggio che mai; indietreggia come un corridore alla barriera, e con uno strattone ancor più violento strappa il morso dai denti del cavallo selvaggio e copre di sangue la sua lingua e le sue mascelle ingiuriose, e costringe le sue zampe e le sue anche al suolo e lo punisce aspramente. E quando questo è accaduto più volte e il malvagio ha cessato dalla sua via sregolata, egli è domato e umiliato, e segue la volontà dell'auriga, e quando vede il bello è pronto a morire di paura. E da quel momento in poi l'anima dell'amante segue l'amato con modestia e santo timore.
+
+E così l'amato, che come un dio ha ricevuto ogni vero e leale servigio dal suo amante, non in apparenza ma in realtà, essendo anch'egli di natura amica verso il suo ammiratore, se nei giorni passati ha arrossito nel riconoscere la sua passione e ha respinto l'amante, perché i suoi giovani compagni o altri gli dicevano calunniosamente che sarebbe stato disonorato, ora col procedere degli anni, all'età e nel tempo stabiliti, è indotto ad accoglierlo in comunione. Poiché il fato, che ha ordinato che non vi sarà alcuna [amicizia](/concepts/friendship) tra i malvagi, ha anche ordinato che vi sarà sempre amicizia tra i buoni. E l'amato, quando lo ha ricevuto in comunione e intimità, è assai stupito della benevolenza dell'amante; riconosce che l'amico ispirato vale più di tutti gli altri amici o parenti; essi non hanno in loro nulla di amicizia che sia degno di essere paragonato alla sua. E quando questo sentimento continua ed egli gli è più vicino e lo abbraccia, negli esercizi ginnici e negli altri momenti di incontro, allora la fonte di quel fiume, che Zeus, quando fu innamorato di Ganimede, chiamò Desiderio, trabocca sull'amante, e una parte entra nella sua anima, e una parte, quando egli è colmo, rifluisce di nuovo; e come una brezza o un'eco rimbalza dalle rocce lisce e ritorna donde è venuta, così la corrente della bellezza, passando attraverso gli occhi che sono le finestre dell'anima, ritorna al bello; e giungendo lì, ravvivando i condotti delle ali, innaffiandoli e incitandoli a crescere, e riempiendo anche l'anima dell'amato d'amore. E così egli ama, ma non sa che cosa; non comprende e non può spiegare il proprio stato; sembra aver contratto da un altro il contagio della cecità; l'amante è il suo specchio in cui egli vede se stesso, ma non se ne accorge. Quando è con l'amante, entrambi cessano dal loro dolore, ma quando è lontano, allora egli desidera come è desiderato, e ha l'immagine dell'amore, amore per amore (Anteros) che alberga nel suo petto, che egli chiama e crede non amore ma solo amicizia, e il suo desiderio è come il desiderio dell'altro, ma più debole; egli vuole vederlo, toccarlo, baciarlo, abbracciarlo, e probabilmente non molto tempo dopo il suo desiderio è compiuto. Quando si incontrano, il cavallo sfrenato dell'amante ha una parola da dire all'auriga; vorrebbe avere un po' di piacere in cambio di molti dolori, ma il cavallo sfrenato dell'amato non dice una parola, perché è gonfio di passione che non comprende; — egli getta le braccia attorno all'amante e lo abbraccia come il suo amico più caro; e, quando sono fianco a fianco, non è in condizione di rifiutare all'amante qualsiasi cosa, se egli gliela chieda; sebbene il suo compagno di giogo e l'auriga gli si oppongano con gli argomenti della vergogna e della ragione. Dopo questo la loro felicità dipende dal loro autocontrollo; se gli elementi migliori della mente, che conducono all'ordine e alla filosofia, prevalgono, allora essi trascorrono la loro vita qui in felicità e armonia — padroni di se stessi e ordinati — rendendo schiavi gli elementi viziosi ed emancipando gli elementi virtuosi dell'anima; e quando giunge la fine, essi sono leggeri e alati per il volo, avendo vinto in una delle tre vittorie celesti o veramente olimpiche; né la disciplina umana né l'ispirazione divina possono conferire all'uomo una benedizione maggiore di questa. Se, d'altra parte, abbandonano la filosofia e conducono la vita inferiore dell'ambizione, allora probabilmente, dopo il vino o in qualche altra ora negligente, i due animali sfrenati prendono le due anime alla sprovvista e le conducono insieme, ed essi compiono quel desiderio dei loro cuori che per i molti è beatitudine; e dopo averlo goduto una volta, continuano a goderlo, ma raramente, perché non hanno l'approvazione dell'intera anima. Anche questi sono cari, ma non così cari l'uno all'altro come gli altri, sia al tempo del loro amore sia in seguito. Essi ritengono di essersi dati e ricevuti l'uno dall'altro i più sacri pegni, e non possono infrangerli e cadere in inimicizia. Alla fine escono dal corpo, senza ali, ma desiderosi di librarsi, e così ottengono non piccolo premio dell'amore e della follia. Poiché coloro che hanno una volta iniziato il pellegrinaggio verso il cielo non possono discendere di nuovo verso le tenebre e il viaggio sotto la terra, ma vivono sempre nella luce; felici compagni nel loro pellegrinaggio, e quando giunge il tempo in cui ricevono le ali, hanno lo stesso piumaggio a causa del loro amore.
 
 <span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -365,6 +639,81 @@ PHAEDRUS: And yet, Socrates, I have heard that he who would be an orator has not
 SOCRATES: The words of the wise are not to be set aside; for there is probably something in them; and therefore the meaning of this saying is not hastily to be dismissed.
 
 PHAEDRUS: Very true.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Così grandi sono le benedizioni celesti che l'amicizia di un amante ti conferirà, o giovinetto mio. Mentre l'attaccamento del non amante, che è commisto a una prudenza mondana e ha modi mondani e spilorci di dispensare benefici, genererà nella tua anima quelle qualità volgari che il volgo applaude, ti farà ruzzolare attorno alla terra per lo spazio di novemila anni, e ti lascerà stolto nel mondo sotterraneo.
+
+E così, caro Eros, ho fatta e pagata la mia ritrattazione, così bene e così onestamente come ho potuto; soprattutto in materia di figure poetiche che fui costretto a usare, perché Fedro le voleva. E ora perdona il passato e accetta il presente, sii benevolo e misericordioso con me, e non nella tua [ira](/concepts/anger) privarmi della vista, né togliermi l'arte dell'amore che tu mi hai data, ma concedi che io sia ancora più stimato agli occhi dei belli. E se Fedro o io stesso dissi qualcosa di rozzo nei nostri primi discorsi, incolpa Lisia, che è il padre del marmocchio, e non abbiamo più alcuna sua progenie; ordinagli di studiare filosofia, come suo fratello Polemarco; e allora il suo amante Fedro non vacillerà più tra due opinioni, ma si consacrerà interamente all'amore e ai discorsi filosofici.
+
+FEDRO: Mi unisco alla preghiera, [Socrate](/figures/socrates), e dico con te: se questo è per il mio bene, possano le tue parole avverarsi. Ma perché hai fatto la tua seconda orazione tanto più bella della prima? Mi chiedo perché. E comincio a temere di perdere la stima di Lisia, e che egli apparirà fiacco in confronto, anche se fosse disposto a mettere in campo un'altra orazione altrettanto bella e altrettanto lunga della tua, cosa di cui dubito. Proprio di recente uno dei tuoi uomini politici lo biasimava per questo stesso motivo; e lo chiamava ‘scrittore di discorsi’ ripetutamente. Cosicché un sentimento di orgoglio può probabilmente indurlo a rinunciare a scrivere discorsi.
+
+SOCRATE: Che idea molto divertente! Ma io penso, mio giovane amico, che tu ti sbagli assai riguardo al tuo amico, se immagini che egli sia spaventato da un piccolo rumore; e, forse, pensi che il suo aggressore facesse sul serio?
+
+FEDRO: Credevo, Socrate, che lo fosse. E sai che i più grandi e più influenti statisti si vergognano di scrivere discorsi e di lasciarli in forma scritta, per timore di essere chiamati sofisti dai posteri.
+
+SOCRATE: Sembri non accorgerti, Fedro, che il ‘dolce gomito’ (Proverbio, come ‘l’uva è acerba,’ applicato ai piaceri che non si possono ottenere, a significare le cose dolci che, come il gomito, sono fuori della portata della bocca. Il piacere promesso si rivela una faccenda lunga e noiosa.) del proverbio è veramente il lungo braccio del Nilo. E sembri ugualmente ignaro del fatto che questo loro dolce gomito è anche un lungo braccio. Poiché non v’è nulla di cui i nostri grandi politici si compiacciano tanto quanto dello scrivere discorsi e del lasciarli in eredità ai posteri. Ed essi aggiungono i [nomi](/positions/nominalism) dei loro ammiratori in cima allo scritto, per gratitudine verso di loro.
+
+FEDRO: Che vuoi dire? Non capisco.
+
+Come, non sai che quando un politico scrive, comincia con i nomi dei suoi approvatori?
+
+PHAEDRUS: Come sarebbe?
+
+SOCRATE: Come? egli comincia in questo modo: «Sia decretato dal senato, dal popolo, o da entrambi, su proposta di una certa persona», che è il nostro autore; e così, assumendo un'aria seria, procede a mostrare la propria sapienza ai suoi ammiratori in una composizione spesso lunga e tediosa. Ora che cos'è mai codesta cosa se non un regolare pezzo di autorialità?
+
+PHAEDRUS: Vero.
+
+SOCRATE: E se la legge è infine approvata, allora l'autore lascia il teatro in grande letizia; ma se la legge è respinta ed egli è defraudato del suo componimento, e non è stimato degno di scrivere, allora egli e la sua compagnia sono in lutto.
+
+PHAEDRUS: Verissimo.
+SOCRATE: Ritorniamo all'argomento di cui stavamo discutendo.
+
+SOCRATE: Tanto sono lontani dal disprezzare, o piuttosto tanto apprezzano la pratica della scrittura.
+
+FEDRO: Senza dubbio.
+
+SOCRATE: E quando il re o l'oratore ha il potere, come lo ebbero Licurgo o Solone o Dario, di conseguire in uno stato l'immortalità o l'essere autore, non è egli reputato dai posteri, quando vedono le sue composizioni, e non si reputa egli stesso, mentre è ancora vivo, un dio?
+
+PHAEDRUS: Verissimo.
+SOCRATE: Ritorniamo all'argomento di cui stavamo discutendo.
+
+SOCRATE: Dunque pensi che qualcuno di questa classe, per quanto mal disposto, rimprovererebbe a Lisia di essere un autore?
+
+Non secondo la tua opinione; poiché, secondo te, egli getterebbe discredito sulla propria occupazione prediletta.
+
+SOCRATE: Chiunque può vedere che non c'è disonore nel mero fatto di scrivere.
+
+PHAEDRUS: Certamente no.
+
+SOCRATE: Il disonore comincia quando un uomo scrive non bene, ma male.
+
+FEDRO: Chiaramente.
+
+E che cosa è fatto bene e che cosa è fatto male — dobbiamo forse chiedere a Lisia, o a qualsiasi altro poeta od oratore, che abbia mai scritto o che mai scriverà un'opera politica o di qualsiasi altro genere, in versi o in prosa, poeta o prosatore, di insegnarci questo?
+
+FEDRO: Ne abbiamo bisogno? Infatti a che scopo dovrebbe vivere un uomo, se non per i piaceri del discorso? Certo non per i piaceri del corpo, i quali quasi sempre hanno come condizione un dolore precedente, e perciò sono giustamente chiamati servili.
+
+SOCRATE: C'è tempo a sufficienza. E credo che le cicale, cantando a lor modo nel calore del sole sopra il nostro capo, parlino tra loro e ci guardino dall'alto. Che direbbero mai se vedessero che noi, come i più, non conversiamo, ma sonnecchiamo a mezzogiorno, cullati dalle loro voci, troppo indolenti per pensare? Non avrebbero forse ragione di riderci dietro? Potrebbero immaginare che noi fossimo schiavi, i quali, venuti a riposare in un loro luogo di ritrovo, come pecore giacciono addormentati a mezzogiorno intorno al pozzo. Ma se ci vedessero discorrere e, come Odisseo, navigare oltre loro, sordi alle loro voci di sirena, forse, per rispetto, ci darebbero dei doni che ricevono dagli dèi, affinché li impartiscano agli uomini.
+
+FEDRO: Quali doni intendi? Non ne ho mai sentito parlare.
+
+SOCRATE: Un amante della musica come te dovrebbe certo aver udito la storia delle cicale, le quali si dice che furono uomini in un'epoca anteriore alle Muse. E quando vennero le Muse e apparve il canto, esse ne furono rapite di diletto; e cantando sempre, mai non pensarono a mangiare né a bere, finché alla fine, per la loro dimenticanza, morirono. E ora rivivono nelle cicale; e questo è il contraccambio che le Muse rendono loro — esse non sentono né fame né sete, ma dall'ora della loro nascita cantano sempre, e mai non mangiano né bevono; e quando muoiono, vanno e informano le Muse in cielo di chi le onora in terra. Esse ottengono l'amore di Tersicore per i danzatori, per la loro testimonianza su di essi; di Erato per gli amanti, e delle altre Muse per coloro che le onorano, secondo i vari modi di onorarle — di Calliope, la più anziana delle Muse, e di Urania, che le è prossima, per i filosofi, della cui musica le cicale fanno loro rapporto; poiché queste sono le Muse che principalmente presiedono al cielo e al pensiero, divino e umano insieme, e hanno il più dolce eloquio. Per molte ragioni, dunque, dobbiamo sempre parlare e non dormire nel mezzo del giorno.
+
+FEDRO: Parliamo.
+
+SOCRATE: Vogliamo discutere delle regole della scrittura e del discorso come proponevamo?
+
+PHAEDRUS: Molto bene.
+
+SOCRATE: Nel parlare bene, non deve forse la mente di chi parla conoscere la verità della cosa di cui sta per parlare?
+
+FEDRO: Eppure, Socrate, ho udito che colui che vuole essere oratore non ha nulla a che fare con la vera giustizia, ma solo con ciò che probabilmente sarà approvato dai molti che siedono in giudizio; né con ciò che è veramente buono od onorevole, ma solo con l'opinione che se ne ha, e che dall'opinione viene la persuasione, e non dalla verità.
+
+SOCRATE: Le parole dei saggi non sono da mettere da parte; poiché probabilmente c'è qualcosa in esse; e perciò il significato di questo detto non è da respingere frettolosamente.
+
+PHAEDRUS: Verissimo.
+SOCRATE: Ritorniamo all'argomento di cui stavamo discutendo.
 
 <span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -500,6 +849,141 @@ SOCRATES: Yes; and in the next place he must have a keen eye for the observation
 
 PHAEDRUS: Certainly.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Socrate](/figures/socrates): Mettiamo la cosa così: — Supponi che io ti abbia persuaso a comprare un cavallo e ad andare in guerra. Nessuno dei due sapeva com'era un cavallo, ma io sapevo che tu credevi che il cavallo fosse, tra gli animali domestici, quello che ha le orecchie più lunghe.
+
+PHAEDRUS: Sarebbe ridicolo.
+
+SOCRATE: C’è qualcosa di ancor più ridicolo in arrivo: — Supponi, inoltre, che io, in tutta serietà, dopo averti persuaso di questo, andassi a comporre un discorso in onore di un asino, che io intitolassi ‘cavallo’, cominciando: ‘Un nobile animale e un possesso utilissimo, soprattutto in guerra, e puoi montargli in groppa e combattere, e porterà bagagli o qualsiasi cosa.’
+
+PHAEDRUS: Che ridicolo!
+
+Ridicolo! Sì; ma non è forse perfino un amico ridicolo migliore di un nemico astuto?
+
+FEDRO: Certamente.
+
+SOCRATE: E quando l'oratore, invece di mettere un asino in luogo di un cavallo, mette il bene in luogo del male, essendo egli stesso ignorante della loro vera natura quanto lo è la città a cui s'impone; e, avendo studiato le opinioni della moltitudine, la persuade falsamente non intorno all'ombra di un asino, che confonde con un cavallo, ma intorno al bene, che confonde col male — quale sarà la messe che la retorica verisimilmente raccoglierà dopo la semina di quel seme?
+
+FEDRO: Il contrario del bene.
+
+SOCRATE: Ma forse la retorica è stata trattata da noi con troppa durezza, ed essa potrebbe rispondere: Quali straordinarie sciocchezze vai dicendo! Come se io forzassi alcuno a imparare a parlare nell’ignoranza della verità! Qualunque sia il valore del mio consiglio, gli avrei detto di giungere prima alla verità, e poi venire da me. Nel contempo affermo audacemente che la mera conoscenza della verità non ti darà l’arte della persuasione.
+
+FEDRO: Vi è ragione nella difesa che la signora fa di sé stessa.
+
+SOCRATE: Verissimo; se almeno le altre argomentazioni che rimangono da addurre le renderanno testimonianza ch'ella sia un'arte. Ma mi pare di udirle schierarsi dalla parte opposta, dichiarando ch'ella parla il falso, e che la retorica è una mera pratica e un artificio, non un'arte. Ecco! Uno Spartano appare, e dice che non vi fu mai né vi sarà mai una vera arte del parlare che sia disgiunta dalla verità.
+
+E quali sono questi argomenti, Socrate? Esponili affinché possiamo esaminarli.
+
+Uscite, o belle creature, e convincete Fedro, che è padre di simili bellezze, che non potrà mai parlare di alcuna cosa come si conviene, se non abbia conoscenza della filosofia. E che Fedro vi risponda.
+
+FEDRO: Poni la domanda.
+
+SOCRATE: Non è forse la retorica, presa in generale, un'arte universale di incantare la mente con gli argomenti; la quale si pratica non solo nei tribunali e nelle pubbliche assemblee, ma anche nelle case private, avendo a che fare con tutte le questioni, tanto grandi quanto piccole, buone e cattive ugualmente, ed è in tutte ugualmente giusta, e ugualmente degna di stima — è questo ciò che hai udito?
+
+FEDRO: No, non precisamente questo; direi piuttosto che ho udito l'arte ristretta al parlare e allo scrivere nelle cause, e al parlare nelle assemblee pubbliche — non estesa oltre.
+
+SOCRATE: Dunque suppongo che tu abbia udito parlare soltanto della retorica di Nestore e di Odisseo, che essi composero nelle loro ore d'ozio quando erano a Troia, e mai della retorica di Palamede?
+
+FEDRO: Non più di Nestore e Ulisse, a meno che Gorgia non sia il tuo Nestore, e [Trasimaco](/figures/thrasymachus) o Teodoro il tuo Ulisse.
+
+SOCRATE: Forse è questo che intendo. Ma lasciamoli da parte. E tu, invece, dimmi: che cosa fanno l'attore e il convenuto in un tribunale — non contendono forse?
+
+FEDRO: Precisamente.
+
+SOCRATE: Riguardo al giusto e all'ingiusto — è questa la questione in disputa?
+
+FEDRO: Sì.
+
+E un professore dell'arte farà apparire la stessa cosa alle stesse persone ora giusta, ora, se così gli aggrada, ingiusta?
+
+FEDRO: Esattamente.
+
+E quando parlerà nell'assemblea, farà sì che le stesse cose sembrino buone alla città in un tempo, e in un altro il contrario di buone?
+
+PHAEDRUS: È vero.
+
+SOCRATE: Non abbiamo udito parlare del Palamede eleatico (Zenone), il quale possiede un'arte del dire per cui fa apparire ai suoi ascoltatori le stesse cose simili e dissimili, une e molte, in quiete e in movimento?
+
+PHAEDRUS: Verissimo.
+SOCRATE: Ritorniamo all'argomento di cui stavamo discutendo.
+
+SOCRATE: L'arte della disputa, dunque, non è ristretta ai tribunali e all'assemblea, ma è una e medesima in ogni uso del linguaggio; questa è l'arte, se pure esiste un'arte siffatta, che è capace di trovare una somiglianza di ogni cosa di cui si possa trovare una somiglianza, e porta alla luce le somiglianze e le dissimulazioni usate dagli altri?
+
+FEDRO: Come intendi?
+
+SOCRATE: Lasciami porre la questione in questi termini: quando vi sarà maggiore [possibilità](/concepts/fortune) di inganno — quando la differenza è grande o piccola?
+
+FEDRO: Quando la differenza è piccola.
+
+SOCRATE: E sarà meno probabile che tu venga scoperto passando per gradi nell'altro estremo, che non andandovi tutto in una volta?
+
+PHAEDRUS: Naturalmente.
+
+SOCRATE: Colui, dunque, che vorrebbe ingannare gli altri e non essere ingannato, deve conoscere esattamente le reali somiglianze e differenze delle cose?
+
+PHAEDRUS: Egli deve.
+
+SOCRATE: E se egli è ignorante della vera natura di qualsivoglia soggetto, come potrà scorgere il maggiore o minore grado di somiglianza in altre cose con quella di cui, per ipotesi, è ignorante?
+
+PHAEDRUS: Non può.
+
+SOCRATE: E quando gli uomini sono ingannati e le loro nozioni sono in disaccordo con le realtà, è chiaro che l'errore si insinua attraverso le somiglianze?
+
+FEDRO: Sì, è così.
+
+SOCRATE: Colui che volesse essere maestro dell'arte deve comprendere la vera natura di ogni cosa; altrimenti non saprà mai né come produrre il graduale allontanamento dalla verità verso l'opposto della verità, che è effettuato con l'aiuto delle somiglianze, né come evitarlo?
+
+FEDRO: Non lo farà.
+
+Colui dunque che, ignorando la verità, mira alle apparenze, otterrà soltanto un'arte retorica che è ridicola e non è affatto un'arte?
+
+Ciò è da aspettarsi.
+
+SOCRATE: Proporrò che cerchiamo esempi di arte e di mancanza d'arte, secondo la nostra nozione di esse, nel discorso di Lisia che hai in mano, e nel mio stesso discorso?
+
+Nulla potrebbe essere migliore; e in verità credo che il nostro precedente argomento sia stato troppo astratto e carente di esempi.
+
+SOCRATE: Sì; e i due discorsi offrono appunto un ottimo esempio del modo in cui chi conosce la verità può, senza alcun serio proposito, rubare il cuore degli ascoltatori. Questa buona sorte io l'attribuisco alle divinità del luogo; e forse i profeti delle Muse che cantano sopra le nostre teste mi hanno impartito la loro ispirazione. Poiché non immagino di possedere alcuna arte retorica mia propria.
+
+FEDRO: Concesso; se solo ti compiacerai di proseguire.
+
+SOCRATE: Supponi che tu mi legga le prime parole del discorso di Lisia.
+
+FEDRO: «Tu sai come stanno le cose per me, e come, a mio concepire, potrebbero essere sistemate per il nostro comune interesse; e sostengo che io non debba fallire nella mia corte, perché non sono il tuo amante. Poiché gli amanti si pentono—»
+
+SOCRATE: Basta: — Ora, devo indicare l'errore retorico di quelle parole?
+
+FEDRO: Sì.
+
+SOCRATE: Ognuno è consapevole che intorno ad alcune cose siamo concordi, mentre intorno ad altre dissentiamo.
+
+PHAEDRUS: Penso di comprenderti; ma vorresti spiegarti meglio?
+
+SOCRATE: Quando uno parla di ferro e d'argento, non è forse la stessa cosa presente nelle menti di tutti?
+
+FEDRO: Certamente.
+
+Ma quando alcuno parla della giustizia e della bontà, ci separiamo e siamo in disaccordo gli uni con gli altri e con noi stessi?
+
+PHAEDRUS: Precisamente.
+
+SOCRATE: Dunque in alcune cose siamo d'accordo, ma in altre no?
+
+PHAEDRUS: È vero.
+
+SOCRATE: In quale siamo più facilmente ingannati, e in quale ha la retorica maggior potere?
+
+FEDRO: Chiaramente, nella classe incerta.
+
+Dovrebbe quindi il retore fare una divisione regolare e acquisire una nozione distinta di entrambe le classi, tanto di quella in cui i molti errano, quanto di quella in cui non errano?
+
+PHAEDRO: Chi facesse una tale distinzione avrebbe un eccellente principio.
+
+Sì; e in secondo luogo deve avere un occhio acuto per l’osservazione dei particolari nel parlare, e non commettere errore circa la classe a cui essi vanno ricondotti.
+
+FEDRO: Certamente.
+
 <span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Now to which class does love belong — to the debatable or to the undisputed class?
@@ -594,6 +1078,100 @@ SOCRATES: Then follows the statement of facts, and upon that witnesses; thirdly,
 
 PHAEDRUS: You mean the excellent Theodorus.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Socrate](/figures/socrates): Ora a quale classe appartiene l'amore — a quella opinabile o a quella indiscussa?
+
+FEDRO: Al discutibile, chiaramente; perché, se no, pensi che l'amore ti avrebbe permesso di dire, come dicesti, che egli è un male tanto all'amante quanto all'amato, e anche il massimo bene possibile?
+
+SOCRATE: Magnifico. Ma vorrai dirmi se ho definito l'amore all'inizio del mio discorso? Poiché, essendo stato in estasi, non posso ricordare bene.
+
+Sì, davvero; l'hai fatto, e senza sbaglio.
+
+SOCRATE: Allora comprendo che le Ninfe dell'Acheloo e Pan figlio di Ermes, che mi ispirarono, erano retori di gran lunga migliori di Lisia figlio di Cefalo. Ahimè! quanto è a loro inferiore! Ma forse m'inganno; e Lisia, al principio del discorso del suo amante, insistette che noi supponessimo l'amore essere alcunché ch'egli immaginava che fosse, e secondo questo modello plasmò e formò il resto del suo discorso. Supponiamo di rileggere il suo esordio.
+
+FEDRO: Se ti aggrada; ma non troverai ciò che vuoi.
+
+SOCRATE: Leggi, affinché io possa avere le sue esatte parole.
+
+FEDRO: ‘Tu sai come stanno le cose per me, e come, a mio giudizio, potrebbero essere sistemate a nostro comune interesse; e sostengo che non debbo fallire nella mia richiesta per il fatto che non sono tuo amante, poiché gli amanti si pentono delle gentilezze che hanno mostrato, quando il loro amore è finito.’
+
+SOCRATE: Qui egli sembra aver fatto proprio il contrario di ciò che doveva; poiché ha cominciato dalla fine, e nuota sul dorso attraverso la piena fino al luogo di partenza. Il suo discorso al bel giovane comincia là dove l'amante avrebbe terminato. Non ho forse ragione, dolce Fedro?
+
+FEDRO: Sì, davvero, Socrate; egli comincia appunto dalla fine.
+
+SOCRATE: E quanto agli altri argomenti, non sono forse gettati alla rinfusa? C'è in essi qualche principio? Perché l'argomento successivo dovrebbe venire subito dopo, o un altro qualsiasi? Non posso fare a meno di immaginare, nella mia ignoranza, che egli scrivesse audacemente proprio ciò che gli veniva in mente; ma oserei dire che tu riconosceresti una necessità retorica nella successione delle varie parti della composizione.
+
+Hai un'opinione troppo buona di me, se credi ch'io abbia alcuna simile penetrazione ne' suoi principî di composizione.
+
+SOCRATE: Ad ogni modo, ammetterai che ogni discorso dovrebbe essere una creatura vivente, avente un corpo suo proprio e una testa e piedi; vi dovrebbero essere un mezzo, un principio e una fine, adatti gli uni agli altri e al tutto?
+
+FEDRO: Certamente.
+
+SOCRATE: Può dirsi questo del discorso di Lisia? Vedi se puoi trovare più connessione nelle sue parole che nell'epitaffio che alcuni dicono essere stato inciso sulla tomba di Mida il Frigio.
+
+PHAEDRUS: Che cosa c'è di notevole nell'epitaffio?
+
+SOCRATE: È come segue: —
+
+‘Sono una fanciulla di bronzo e giaccio sulla tomba di Mida; Finché l'acqua scorre e gli alberi alti crescono, Finché qui, su questo luogo, presso la sua triste tomba dimorando, dichiarerò ai viandanti che Mida dorme sotto.’
+
+Ora in questa rima, che un verso venga per primo o per ultimo, come percepirete, non fa differenza.
+
+FEDRO: Ti fai beffe di quella nostra orazione.
+
+SOCRATE: Ebbene, non dirò altro sul discorso del tuo amico, per non recarti offesa; sebbene io pensi che esso possa fornire molti altri esempi di ciò che un uomo dovrebbe piuttosto evitare. Ma procederò all'altro discorso, che, come io credo, è anch'esso suggestivo per gli studiosi di retorica.
+
+FEDRO: In che modo?
+
+SOCRATE: I due discorsi, come forse ricorderai, erano dissimili; l'uno sosteneva che l'amante, e l'altro che il non amante, dovesse essere accettato.
+
+PHAEDRUS: E proprio virilmente.
+
+SOCRATE: Dovresti piuttosto dire 'follemente'; e la follia era l'argomento di costoro, poiché, come ho detto, 'l'amore è una follia'.
+
+FEDRO: Sì.
+
+SOCRATE: E della pazzia vi erano due specie; una prodotta da infermità umana, l'altra era un divino scioglimento dell'anima dal giogo della [consuetudine](/concepts/custom) e della convenzione.
+
+PHAEDRUS: Vero.
+
+SOCRATE: La divina follia fu divisa in quattro specie: profetica, iniziatica, poetica, erotica, aventi quattro dèi a presiederle; la prima era l'ispirazione di Apollo, la seconda quella di Dioniso, la terza quella delle Muse, la quarta quella di Afrodite e di Eros. Nel descrivere l'ultima specie di follia, che fu anche detta la migliore, parlammo dell'affezione dell'amore in figura, nella quale introducemmo un mito in qualche modo credibile e forse vero, sebbene in parte errante, il quale fu pure un inno in onore di Amore, che è signore tuo e anche mio, Fedro, e custode dei fanciulli belli, e a lui cantammo l'inno in metro misurato e solenne.
+
+FEDRO: So che ebbi gran piacere nell'ascoltarti.
+
+SOCRATE: Prendiamo questo esempio e osserviamo come si passò dal biasimo alla lode.
+
+FEDRO: Che vuoi dire?
+
+SOCRATE: Intendo dire che la composizione era per lo più scherzosa. Tuttavia in queste [fortuite](/concepts/fortune) fantasie del momento erano implicati due princìpi, dei quali saremmo fin troppo lieti di avere una descrizione più chiara, se l'arte potesse darcene una.
+
+PHAEDRUS: Che cosa sono?
+
+SOCRATE: Prima, la comprensione dei particolari sparsi in una sola idea; come nella nostra definizione dell'amore, la quale, vera o falsa che sia, certamente diede chiarezza e coerenza al discorso, chi parla dovrebbe definire le sue varie nozioni e così rendere chiaro il suo significato.
+
+PHAEDRUS: E qual è l'altro principio, Socrate?
+
+SOCRATE: Il secondo principio è quello della divisione in specie secondo la naturale conformazione, dove è l'articolazione, senza spezzare alcuna parte, come potrebbe fare un cattivo tagliatore. Proprio come i nostri due discorsi, parimenti, assunsero in primo luogo una sola forma di irragionevolezza; e poi, come il corpo che, da uno, diventa doppio e può essere diviso in un lato sinistro e uno destro, ciascuno dei quali ha parti destra e sinistra dello stesso nome — in questa guisa il parlante procedette a dividere le parti del lato sinistro e non desistette finché non trovò in esse un amore malvagio o mancino, che giustamente vituperò; e l'altro discorso, guidandoci alla pazzia che giaceva sul lato destro, trovò un altro amore, anch'esso dello stesso nome, ma divino, che il parlante sollevò davanti a noi e applaudì e affermò essere autore dei sommi benefici.
+
+FEDRO: Verissimo.
+
+SOCRATE: Io stesso sono un grande amante di questi processi di divisione e generalizzazione; essi mi aiutano a parlare e a pensare. E se trovo un uomo che sia in grado di vedere ‘un Uno e Molti’ in natura, costui io seguo, e ‘cammino sulle sue orme come se fosse un dio.’ E coloro che possiedono quest’arte, ho finora avuto l’abitudine di chiamarli dialettici; ma Dio sa se il nome sia giusto o no. E vorrei sapere quale nome daresti ai tuoi discepoli o a quelli di Lisia, e se questa non sia forse quella famosa arte retorica che [Trasimaco](/figures/thrasymachus) e altri insegnano e praticano? Abili parlatori essi sono, e trasmettono la loro abilità a chiunque sia disposto a farne dei re e a portare loro doni.
+
+Sì, sono uomini regali; ma la loro arte non è la stessa di quella di coloro che tu chiami, e giustamente, a mio parere, dialettici: — Ancora siamo all'oscuro intorno alla retorica.
+
+SOCRATE: Che vuoi dire? Il resto di essa, se vi è alcunché che possa essere ricondotto sotto le regole dell'arte, dev'essere cosa bella; e, in ogni caso, non è da disprezzare né da te né da me. Ma quanto ne rimane?
+
+FEDRO: Vi è certamente molto da trovare nei libri di retorica?
+
+Sì; grazie per avermelo ricordato: — C'è l'esordio, che mostra come il discorso dovrebbe cominciare, se ricordo bene; è questo che intendi — le sottigliezze dell'arte?
+
+FEDRO: Sì.
+
+SOCRATE: Segue poi l'esposizione dei fatti, e dopo ciò i testimoni; in terzo luogo, le prove; in quarto luogo, vengono le probabilità; il grande fabbricatore di parole bizantino parla anche, se non erro, di conferma e di ulteriore conferma.
+
+FEDRO: Intendi l'eccellente Teodoro.
+
 <span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Yes; and he tells how refutation or further refutation is to be managed, whether in accusation or defence. I ought also to mention the illustrious Parian, Evenus, who first invented insinuations and indirect praises; and also indirect censures, which according to some he put into verse to help the memory. But shall I ‘to dumb forgetfulness consign’ Tisias and Gorgias, who are not ignorant that probability is superior to truth, and who by force of argument make the little appear great and the great little, disguise the new in old fashions and the old in new fashions, and have discovered forms for everything, either short or going on to [infinity](/concepts/infinity). I remember Prodicus laughing when I told him of this; he said that he had himself discovered the true rule of art, which was to be neither long nor short, but of a convenient length.
@@ -676,6 +1254,89 @@ SOCRATES: Yes, friend, and he was right: — still, we ought not to be content w
 
 PHAEDRUS: I agree.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Sì; ed egli insegna come la confutazione o l’ulteriore confutazione debba esser condotta, sia nell’accusa sia nella difesa. Dovrei anche menzionare il celebre Pariano Eveno, che per primo inventò le insinuazioni e le lodi indirette; e anche le censure indirette, che secondo alcuni egli pose in versi per aiutare la memoria. Ma dovrò io «consegnare al muto oblio» Tisia e Gorgia, i quali non ignorano che la probabilità è superiore alla verità, e che con la forza dell’argomento fanno apparire grande il piccolo e piccolo il grande, travestono il nuovo con vecchie fogge e il vecchio con nuove fogge, e hanno scoperto forme per ogni cosa, o brevi o procedenti all’[infinito](/concepts/infinity). Ricordo Prodico che rideva quando gli raccontai questo; egli disse che egli stesso aveva scoperto la vera regola dell’arte, che era quella di non essere né lunga né breve, ma di una conveniente lunghezza.
+
+FEDRO: Ben fatto, Prodico!
+
+SOCRATE: Poi c'è Ippia, lo straniero di Elide, che probabilmente è d'accordo con lui.
+
+FEDRO: Sì.
+
+SOCRATE: E vi è anche Polo, che possiede tesori di diplasiologia, gnomologia ed eikonologia, e che insegna in essi i [nomi](/positions/nominalism) di cui Licinnio gli fece dono; essi dovevano dare lustro.
+
+FEDRO: Non aveva Protagora qualcosa del medesimo genere?
+
+SOCRATE: Sì, regole di corretta dizione e molti altri bei precetti; per i 'dolori di un povero vecchio', o per qualsiasi altro caso patetico, nessuno è migliore del gigante di Calcedonia; egli può mettere un'intera compagnia di persone in una passione e trarla di nuovo fuori con la sua potente magia, ed è di prim'ordine nell'inventare o nel disporre ogni sorta di calunnia su qualsivoglia fondamento o senza alcuno. Tutti costoro concordano nell'affermare che un discorso dovrebbe concludersi con una ricapitolazione, sebbene non tutti concordino nell'usare la stessa parola.
+
+FEDRO: Vuoi dire che si debba fare un sommario degli argomenti per richiamarli alla memoria degli ascoltatori.
+
+SOCRATE: Ho ormai detto tutto ciò che ho da dire sull'arte della retorica: hai qualcosa da aggiungere?
+
+FEDRO: Non molto; nulla di molto importante.
+
+SOCRATE: Tralascia ciò che non è importante e portiamo alla luce la questione veramente importante, cioè: quale potere ha quest’arte della retorica, e quando?
+
+FEDRO: Una grandissima potenza nelle pubbliche assemblee.
+
+SOCRATE: Sì. Ma vorrei sapere se provi lo stesso sentimento che provo io riguardo ai retori? A me sembra che nella loro tela vi siano molti buchi.
+
+FEDRO: Fai un esempio.
+
+SOCRATE: Lo farò. Supponi che una persona venga dal tuo amico Erissimaco, o da suo padre Acumeno, e gli dica: «So somministrare farmaci che abbiano un effetto riscaldante o raffreddante, e posso dare un vomitivo e anche una purga, e tutto quanto di questo genere; e, sapendo tutto questo, come so, pretendo di essere medico e di rendere medici gli altri trasmettendo loro questa conoscenza» — che cosa supponi che essi direbbero?
+
+FEDRO: Non mancherebbero di chiedergli se sapesse ‘a chi’ avrebbe dato le sue medicine, e ‘quando,’ e ‘quanto.’
+
+SOCRATE: E supponiamo che egli rispondesse: «No; non so nulla di tutto ciò; mi aspetto che il paziente che mi consulta sia in grado di fare queste cose da sé»?
+
+FEDRO: Risponderebbero che egli è un pazzo o un pedante, il quale si immagina di essere medico perché ha letto qualcosa in un libro, o è inciampato in una o due prescrizioni, sebbene non abbia alcuna vera comprensione dell'arte della medicina.
+
+SOCRATE: E se uno venisse da Sofocle o da Euripide e dicesse di saper fare un discorso lunghissimo sopra una piccola cosa, e un discorso breve sopra una grande, e anche un discorso lamentevole, o terribile, o minaccioso, o di qualsivoglia altro genere, e, insegnando questo, si figurasse d'insegnare l'arte della tragedia?
+
+Anch'essi riderebbero certamente di lui, se egli si figura che la tragedia non sia altro che il disporre questi elementi in modo conveniente gli uni agli altri e al tutto.
+
+SOCRATE: Ma io non credo che gli sarebbero villani o insolenti: non tratterebbero forse come un musico un uomo che si crede armonista perché sa accordare la nota più acuta e la più grave? Se incontrassero un tale, non gli direbbero con asprezza: «Stolto, tu sei pazzo!»; ma, da musici, con voce dolce e armoniosa, risponderebbero: «Buon amico, chi vuol essere armonista deve certo sapere questo, eppure potrebbe non intendere nulla di armonia se non è andato oltre il tuo grado di conoscenza; tu conosci solo i preliminari dell'armonia, non l'armonia stessa.»
+
+PHAEDRUS: Verissimo.
+SOCRATE: Ritorniamo all'argomento di cui stavamo discutendo.
+
+SOCRATE: E non dirà Sofocle all'esibizione dell'aspirante tragediografo che questo non è tragedia ma i preliminari della tragedia? e non dirà Acumeno lo stesso della medicina all'aspirante medico?
+
+PHAEDRUS: Proprio vero.
+
+SOCRATE: E se Adrasto il melifluo o Pericle udissero queste arti mirabili, brachilogie ed eiconologie e tutti i nomi difficili che noi abbiamo cercato di trarre alla luce, che direbbero? Invece di perdere la calma e applicare epiteti poco lusinghieri, come abbiamo fatto tu ed io, agli autori di un'arte così immaginaria, la loro superiore saggezza censurerebbe piuttosto noi, così come loro. ‘Abbiate un po' di pazienza, Fedro e Socrate, direbbero; non dovreste essere così accesi contro coloro che, per una certa mancanza di abilità dialettica, non sono in grado di definire la natura della retorica, e di conseguenza suppongono di aver trovato l'arte nelle sue condizioni preliminari, e quando queste sono state da loro insegnate ad altri, si immaginano che l'intera arte della retorica sia stata da loro insegnata; ma quanto all'usare efficacemente i vari strumenti dell'arte, o al rendere la composizione un tutto, — un'applicazione di questo genere essi la considerano cosa facile che i loro discepoli possono fare da sé.’
+
+FEDRO: Ammetto pienamente, o Socrate, che l'arte della retorica, quale costoro insegnano e sulla quale scrivono, è tale quale tu la descrivi — in questo son d'accordo con te. Ma desidero ancora sapere dove e come si debba acquistare la vera arte della retorica e della persuasione.
+
+SOCRATE: La perfezione che si richiede all'oratore compiuto è, o piuttosto deve essere, come la perfezione di ogni altra cosa; in parte è data dalla natura, ma può anche essere assistita dall'arte. Se hai la capacità naturale e a essa aggiungi conoscenza e pratica, sarai un oratore insigne; se manchi in una di queste due cose, sarai in quella misura manchevole. Ma l'arte della retorica, per quanto vi sia un'arte, non sta nella direzione di Lisia o di [Trasimaco](/figures/thrasymachus).
+
+FEDRO: In quale direzione, allora?
+
+SOCRATE: Stimo Pericle essere stato il più consumato dei retori.
+
+PHAEDRUS: Che importa?
+
+SOCRATE: Tutte le grandi arti richiedono discussione e alta speculazione intorno alle verità della natura; di qui provengono l'elevatezza del pensiero e la compiutezza dell'esecuzione. E questa, come io concepisco, era la qualità che, oltre ai suoi doni naturali, Pericle acquisì dal suo commercio con Anassagora, che gli avvenne di conoscere. Egli fu così imbevuto della filosofia superiore, e pervenne alla conoscenza della Mente e del negativo della Mente, che erano temi favoriti di Anassagora, e applicò ciò che si confaceva al suo intento all'arte del parlare.
+
+FEDRO: Spiega.
+
+SOCRATE: La retorica è come la medicina.
+
+PHAEDRUS: Come sarebbe?
+
+SOCRATE: Perché la medicina deve definire la natura del corpo e la retorica quella dell’anima — se vogliamo procedere non empiricamente ma scientificamente, nell’un caso per infondere salute e forza somministrando medicine e cibo, nell’altro per instillare la convinzione o la virtù che desideri, con la giusta applicazione di parole ed esercizio.
+
+FEDRO: Ecco, Socrate, sospetto che tu abbia ragione.
+
+SOCRATE: E credi tu di poter conoscere la natura dell'anima intelligentemente senza conoscere la natura del tutto?
+
+FEDRO: Ippocrate l'Asclepiade dice che anche la natura del corpo può essere compresa solo come un tutto. (Cfr. Carmide.)
+
+SOCRATE: Sì, amico, e aveva ragione: — tuttavia, non dobbiamo accontentarci del nome di Ippocrate, ma esaminare e vedere se il suo discorso concordi con la sua concezione della natura.
+
+PHAEDRUS: Sono d'accordo.
+
 <span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Then consider what truth as well as Hippocrates says about this or about any other nature. Ought we not to consider first whether that which we wish to learn and to teach is a simple or multiform thing, and if simple, then to enquire what power it has of acting or being acted upon in relation to other things, and if multiform, then to number the forms; and see first in the case of one of them, and then in the case of all of them, what is that power of acting or being acted upon which makes each and all of them to be what they are?
@@ -742,6 +1403,72 @@ SOCRATES: Bless me, what a wonderfully mysterious art is this which Tisias or so
 
 PHAEDRUS: What shall we say to him?
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Considera dunque ciò che dice la verità, così come Ippocrate, riguardo a questa o a qualsiasi altra natura. Non dobbiamo forse considerare dapprima se ciò che desideriamo imparare e insegnare sia una cosa semplice o multiforme, e se semplice, indagare quale potere abbia di agire o di subire azione in relazione alle altre cose, e se multiforme, enumerarne le forme; e vedere prima nel caso di una di esse, e poi nel caso di tutte, quale sia quel potere di agire o di subire azione che fa sì che ciascuna e tutte siano ciò che sono?
+
+PHAEDRUS: È molto probabile che tu abbia ragione, Socrate.
+
+SOCRATE: Il [metodo](/axes/method) che procede senza analisi è come il brancolamento di un cieco. Eppure, certamente, colui che è artista non dovrebbe ammettere un paragone con i ciechi, o con i sordi. Il retore, che insegna al suo discepolo a parlare scientificamente, esporrà in particolare la natura di quell'essere a cui rivolge i suoi discorsi; e questo, io concepisco, essere l'anima.
+
+FEDRO: Certamente.
+
+SOCRATE: Tutto il suo sforzo è rivolto all'anima; poiché in ciò egli cerca di produrre convinzione.
+
+FEDRO: Sì.
+
+SOCRATE: Allora chiaramente, [Trasimaco](/figures/thrasymachus) o chiunque altro insegni la retorica sul serio darà una descrizione esatta della natura dell'anima; il che ci permetterà di vedere se essa sia unica e identica, o, come il corpo, multiforme. Questo è ciò che dovremmo chiamare mostrare la natura dell'anima.
+
+FEDRO: Esattamente.
+
+SOCRATE: Egli spiegherà, in secondo luogo, il modo in cui essa agisce o patisce.
+
+PHAEDRUS: Vero.
+
+SOCRATE: In terzo luogo, avendo classificato gli uomini e i discorsi, e le loro specie e affezioni, e avendoli adattati gli uni agli altri, egli dirà le ragioni del suo ordinamento, e mostrerà perché un'anima è persuasa da una particolare forma di argomento, e un'altra no.
+
+PHAEDRUS: Hai trovato un’ottima via.
+
+SOCRATE: Sì, questo è il vero e unico modo in cui qualsiasi argomento può essere esposto o trattato secondo le regole dell'arte, sia nel parlare sia nello scrivere. Ma gli scrittori dei giorni nostri, ai cui piedi ti sei seduto, nascondono astutamente la natura dell'anima, che conoscono assai bene. Né, finché non adottino il nostro metodo di leggere e scrivere, possiamo ammettere che essi scrivano secondo le regole dell'arte?
+
+FEDRO: Qual è il nostro metodo?
+
+SOCRATE: Non posso darti i dettagli esatti; ma vorrei dirti in generale, per quanto è in mio potere, come un uomo debba procedere secondo le regole dell'arte.
+
+FEDRO: Fammi sentire.
+
+SOCRATE: L'oratoria è l'arte di incantare l'anima, e perciò chi vuole essere oratore deve apprendere le differenze delle anime umane — esse sono tante e di tale natura, e da esse derivano le differenze tra uomo e uomo. Giunto così innanzi nella sua analisi, dividerà poi i discorsi nelle loro diverse classi:— 'Tali e tali persone', dirà, 'sono affette da questo o quel genere di discorso in questo o quel modo', e ti dirà perché. Il discepolo deve prima averne una buona nozione teorica, e poi deve farne esperienza nella vita reale, ed essere in grado di seguirli con tutti i sensi, o non andrà mai oltre i precetti dei suoi maestri. Ma quando comprende quali persone sono persuase da quali argomenti, e vede realmente davanti a sé la persona di cui parlava in astratto, e sa che è lui, e può dire a se stesso: 'Questo è l'uomo o questo è il carattere a cui si deve applicare un certo argomento per convincerlo di una certa opinione;' — chi sa tutto questo, e sa anche quando deve parlare e quando deve astenersi, e quando deve usare sentenze concise, appelli patetici, effetti sensazionali, e tutti gli altri modi di discorso che ha appreso; — quando, dico, conosce i tempi e le stagioni di tutte queste cose, allora, e non prima, è perfetto padrone della sua arte; ma se manca in uno qualsiasi di questi punti, sia nel parlarne, sia nell'insegnarli, sia nello scriverli, e tuttavia dichiara di parlare secondo le regole dell'arte, colui che dice 'Non ti credo' ha la meglio su di lui. Ebbene, dirà il maestro, è questo, Fedro e Socrate, il vostro resoconto della cosiddetta arte della retorica, o devo cercarne un'altra?
+
+Egli deve prendere questo, o Socrate, poiché non vi è possibilità di un'altra, eppure la creazione di un'arte siffatta non è facile.
+
+SOCRATE: Verissimo; e perciò consideriamo questa questione sotto ogni aspetto, e vediamo se non possiamo trovare una via più breve e più facile; non giova prendere una strada lunga e tortuosa, se ve n'è una più breve e più agevole. E vorrei che tu cercassi di ricordare se hai udito da Lisia o da qualcun altro cosa alcuna che possa esserci di giovamento.
+
+FEDRO: Se il tentare potesse giovare, allora potrei; ma al momento non riesco a pensare a nulla.
+
+SOCRATE: Supponi che io ti dica qualcosa che mi ha detto qualcuno che sa.
+
+FEDRO: Certamente.
+
+SOCRATE: Non può forse ‘il lupo’, come dice il proverbio, ‘esigere udienza’?
+
+PHAEDRUS: Di' tu ciò che si può dire in suo favore.
+
+SOCRATE: Egli sosterrà che non giova assumere un'aria solenne su queste faccende, o girare e rigirare, finché non si giunga ai primi principi; poiché, come ho detto da principio, quando la questione è di giustizia e di bene, o è una questione in cui sono coinvolti uomini che sono giusti e buoni, o per natura o per [abitudine](/concepts/custom), colui che voglia essere un abile retore non ha bisogno della verità — poiché nei tribunali gli uomini letteralmente non si curano per nulla della verità, ma solo della convinzione: e questa si fonda sulla probabilità, alla quale chi voglia essere un abile oratore dovrebbe quindi rivolgere tutta la sua attenzione. E dicono anche che vi sono casi in cui i fatti reali, se sono improbabili, dovrebbero essere taciuti, e solo le probabilità dovrebbero essere raccontate, sia nell'accusa sia nella difesa, e che sempre, parlando, l'oratore dovrebbe tener presente la probabilità, e dire addio alla verità. E l'osservanza di questo principio in tutto un discorso fornisce tutta l'arte.
+
+FEDRO: Questo è quanto dicono effettivamente i professori di retorica, Socrate. Non ho dimenticato che abbiamo già toccato molto brevemente questo argomento; per loro il punto è di importanza capitale.
+
+SOCRATE: Oserei dire che tu hai familiarità con Tisia. Non definisce egli la probabilità come ciò che i molti pensano?
+
+FEDRO: Certamente, lo fa.
+
+SOCRATE: Credo che egli abbia un caso astuto e ingegnoso di questa sorta: — Egli suppone che un uomo debole e valoroso abbia assalito uno forte e codardo, e lo abbia derubato del mantello o di qualche altra cosa; costui è condotto in tribunale, e allora Tisia dice che entrambe le parti debbono dire menzogne: il codardo deve dire di essere stato assalito da più di un uomo; l'altro deve provare che erano soli, e deve argomentare così: ‘Come avrei potuto io, debole, assalire un uomo forte come lui?’ L'attore non vorrà confessare la propria viltà, e perciò inventerà qualche altra menzogna, che il suo avversario avrà così occasione di confutare. E vi sono altri artifizi dello stesso genere che hanno luogo nel sistema. Non ho forse ragione, Fedro?
+
+FEDRO: Certamente.
+
+SOCRATE: Perdiana, che arte meravigliosamente misteriosa è questa che Tisia o qualche altro gentiluomo, in qualunque nome o patria egli si compiaccia, ha scoperto. Vorremo dirgli una parola o no?
+
+FEDRO: Che gli diremo?
+
 <span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Let us tell him that, before he appeared, you and I were saying that the probability of which he speaks was engendered in the minds of the many by the likeness of the truth, and we had just been affirming that he who knew the truth would always know best how to discover the resemblances of the truth. If he has anything else to say about the art of speaking we should like to hear him; but if not, we are satisfied with our own view, that unless a man estimates the various characters of his hearers and is able to divide all things into classes and to comprehend them under single ideas, he will never be a skilful rhetorician even within the limits of human power. And this skill he will not attain without a great deal of trouble, which a good man ought to undergo, not for the sake of speaking and acting before men, but in order that he may be able to say what is acceptable to God and always to act acceptably to Him as far as in him lies; for there is a saying of wiser men than ourselves, that a man of sense should not try to please his fellow-servants (at least this should not be his first object) but his good and noble masters; and therefore if the way is long and circuitous, marvel not at this, for, where the end is great, there we may take the longer road, but not for lesser ends such as yours. Truly, the argument may say, Tisias, that if you do not mind going so far, rhetoric has a fair beginning here.
@@ -805,6 +1532,70 @@ SOCRATES: Then he will not seriously incline to ‘write’ his thoughts ‘in w
 PHAEDRUS: No, that is not likely.
 
 SOCRATES: No, that is not likely — in the garden of letters he will sow and plant, but only for the sake of recreation and amusement; he will write them down as memorials to be treasured against the forgetfulness of old age, by himself, or by any other old man who is treading the same path. He will rejoice in beholding their tender growth; and while others are refreshing their souls with banqueting and the like, this will be the pastime in which his days are spent.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Diciamogli che, prima che egli apparisse, tu ed io dicevamo che la probabilità di cui egli parla era generata negli animi dei più dalla somiglianza della verità, e andavamo appunto affermando che colui che conoscesse la verità saprebbe sempre meglio scoprire le somiglianze della verità. Se egli ha altro da dire sull'arte del parlare, vorremmo udirlo; ma se non ha, siamo soddisfatti della nostra opinione, che, a meno che un uomo non valuti i vari caratteri dei suoi ascoltatori e sia capace di dividere tutte le cose in classi e di comprenderle sotto idee singole, non sarà mai un abile retore, neppure entro i limiti della potenza umana. E questa abilità egli non conseguirà senza molta fatica, che un uomo buono deve sobbarcarsi, non per parlare e agire dinanzi agli uomini, ma affinché possa dire ciò che è accettevole a Dio e sempre operare in modo accettevole a Lui, per quanto in lui è; poiché v'è un detto di uomini più saggi di noi, che l'uomo di buon senso non deve cercare di piacere ai suoi conservi (almeno questo non deve essere il suo primo scopo), ma ai suoi buoni e nobili padroni; e pertanto se la via è lunga e tortuosa, non ti meravigliare di ciò, perché, dove il fine è grande, là si può prendere la strada più lunga, ma non per fini minori come i tuoi. Veramente, l'argomento può dire, Tisia, che se non ti dispiace andare tanto lontano, la retorica ha qui un bel principio.
+
+FEDRO: Penso, Socrate, che questo sia ammirevole, se solo fosse praticabile.
+
+SOCRATE: Ma anche fallire in un intento onorevole è onorevole.
+
+PHAEDRUS: Vero.
+
+SOCRATE: Abbastanza sembra essere stato detto da noi di un'arte vera e falsa del parlare.
+
+FEDRO: Certamente.
+
+SOCRATE: Ma c'è ancora qualcosa da dire circa la convenienza e la sconvenienza dello scrivere.
+
+FEDRO: Sì.
+
+SOCRATE: Sai come puoi parlare o agire riguardo alla retorica in un modo che sia gradito a Dio?
+
+PHAEDRUS: No, in verità. E tu?
+
+SOCRATE: Ho udito una tradizione degli antichi, se vera o no, essi soli lo sanno; tuttavia, se avessimo trovato la verità noi stessi, credi che ci importerebbe molto delle opinioni degli uomini?
+
+PHAEDRUS: La tua domanda non necessita di risposta; ma vorrei che tu mi dicessi ciò che dici di aver udito.
+
+SOCRATE: Nella città egizia di Naucrati v'era un famoso antico dio, il cui nome era Theuth; l'uccello che è chiamato Ibis gli è sacro, ed egli fu inventore di molte arti, come l'aritmetica e il calcolo e la geometria e l'astronomia e la dama e i dadi, ma la sua grande scoperta fu l'uso delle lettere. Ora in quei giorni il dio Thamus era re di tutto il paese d'Egitto; e dimorava in quella grande città dell'Alto Egitto che gli Elleni chiamano Tebe egizia, e il dio stesso è da loro chiamato Ammon. A lui venne Theuth e mostrò le sue invenzioni, desiderando che fosse concesso agli altri Egizi di trarne beneficio; le enumerò, e Thamus domandò intorno ai loro diversi usi, e lodò alcune di esse e biasimò le altre, secondo che le approvava o le disapprovava. Ci vorrebbe molto tempo per ripetere tutto ciò che Thamus disse a Theuth in lode o in biasimo delle varie arti. Ma quando giunsero alle lettere, «Questo», disse Theuth, «renderà gli Egizi più saggi e darà loro miglior memoria; è uno specifico tanto per la memoria quanto per l'ingegno.» Thamus rispose: «O ingegnosissimo Theuth, il genitore o inventore di un'arte non è sempre il miglior giudice della [utilità](/positions/utility_pleasure) o inutilità delle proprie invenzioni per coloro che le usano. E in questo caso, tu che sei padre delle lettere, per un amore paterno dei tuoi stessi figli sei stato indotto ad attribuire loro una qualità che non possono avere; poiché questa tua scoperta ingenererà dimenticanza nelle anime di coloro che imparano, perché non useranno le loro memorie; si fideranno dei caratteri scritti esteriori e non si ricorderanno da sé. Lo specifico che hai scoperto è un aiuto non alla memoria, ma alla reminiscenza, e tu dai ai tuoi discepoli non la verità, ma solo la parvenza della verità; essi saranno uditori di molte cose e non avranno appreso nulla; sembreranno onniscienti e per lo più non sapranno nulla; saranno una compagnia noiosa, avendo l'apparenza della sapienza senza la realtà.»
+
+Sì, Socrate, puoi facilmente inventare racconti d'Egitto, o di qualsiasi altro paese.
+
+SOCRATE: V'era una tradizione nel tempio di Dodona che le querce per prime avessero dato responsi profetici. Gli uomini antichi, dissimili nella loro semplicità dalla giovane filosofia, ritenevano che se udissero il vero anche da «quercia o roccia», ciò bastasse loro; mentre tu sembri considerare non se una cosa sia o non sia vera, ma chi sia colui che parla e da quale paese venga il racconto.
+
+FEDRO: Riconosco la giustizia del tuo rimprovero; e penso che il Tebano abbia ragione nella sua opinione sulle lettere.
+
+SOCRATE: Sarebbe persona molto semplice, e del tutto estraneo agli oracoli di Thamus o di Ammone, chi lasciasse in iscritto o ricevesse in iscritto un'arte qualsiasi, nell'idea che la parola scritta fosse intelligibile o certa; o chi ritenesse che la scrittura fosse in alcun modo migliore della conoscenza e della reminiscenza delle stesse cose?
+
+FEDRO: Ciò è verissimo.
+
+SOCRATE: Non posso fare a meno di ritenere, o Fedro, che la scrittura sia purtroppo simile alla pittura; poiché le creazioni del pittore hanno l'atteggiamento della vita, e tuttavia se tu le interroghi su qualcosa, esse conservano un solenne silenzio. E lo stesso si può dire dei discorsi. Crederesti che abbiano intelligenza, ma se vuoi sapere qualcosa e rivolgi una domanda a uno di essi, esso risponde sempre una sola e identica cosa. E quando sono stati una volta scritti, vengono sballottati qua e là tra coloro che possono o non possono comprenderli, e non sanno a chi debbano rispondere e a chi no; e, se vengono maltrattati o oltraggiati, non hanno un genitore che li protegga; e non possono proteggere né difendere se stessi.
+
+FEDRO: Anche questo è verissimo.
+
+SOCRATE: Non c'è forse un'altra specie di parola o discorso molto migliore di questo, e avente un potere di gran lunga maggiore — un figlio della stessa famiglia, ma generato legittimamente?
+
+FEDRO: Chi intendi dire, e quale è la sua origine?
+
+SOCRATE: Intendo una parola intelligente incisa nell'anima del discepolo, che può difendersi, e sa quando parlare e quando tacere.
+
+FEDRO: Intendi la parola vivente della conoscenza che ha un'anima, e della quale la parola scritta non è propriamente più che un'immagine?
+
+SOCRATE: Sì, certo, è questo che intendo. E ora mi sia permesso di rivolgerti una domanda: Un agricoltore, che sia uomo di buon senso, prenderebbe i semi che apprezza e che desidera veder fruttificare, e con tutta serietà li pianterebbe durante il caldo dell'estate in un giardino di Adone, per rallegrarsi nel vederli in otto giorni apparire in [bellezza](/concepts/beauty)? Almeno lo farebbe, se mai, solo per diletto e passatempo. Ma quando è serio, semina in terreno adatto, pratica l'agricoltura, e si accontenta se in otto mesi i semi che ha seminato giungono a perfezione?
+
+Sì, Socrate, questo sarà il suo modo quando fa sul serio; l’altro, come tu dici, lo farà soltanto per gioco.
+
+E possiamo supporre che colui che conosce il giusto e il buono e l'onorevole abbia meno intendimento, dell'agricoltore, intorno ai propri semi?
+
+PHAEDRUS: Certamente no.
+
+SOCRATE: Allora non si curerà seriamente di «scrivere» i suoi pensieri «nell'acqua» con penna e inchiostro, seminando parole che non possono né parlare da sé né insegnare adeguatamente la verità agli altri?
+
+PHAEDRUS: No, non è probabile.
+
+No, non è verosimile: nel giardino delle lettere egli seminerà e pianterà, ma solo per amore di svago e diletto; le scriverà come memoriali da custodire contro l'oblio della vecchiaia, per sé stesso o per qualunque altro vecchio che batta il medesimo sentiero. Si rallegrerà nel contemplare la loro tenera crescita; e mentre altri ristorano l'animo con banchetti e simili, questo sarà il passatempo in cui trascorrerà i suoi giorni.
 
 <span class="atom-split" data-atom="017" data-title="Parte 17" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -875,3 +1666,73 @@ SOCRATES: Beloved Pan, and all ye other gods who haunt this place, give me [beau
 PHAEDRUS: Ask the same for me, for friends should have all things in common.
 
 SOCRATES: Let us go.
+
+<span class="qlang-split" data-lang="it"></span>
+
+FEDRO: Un passatempo, [Socrate](/figures/socrates), tanto nobile quanto l'altro è ignobile, il passatempo di un uomo che può trarre diletto da discorsi seri, e può discorrere lietamente di giustizia e simili.
+
+SOCRATE: Vero, Fedro. Ma di gran lunga più nobile è la seria ricerca del dialettico, il quale, trovando un'anima congeniale, con l'aiuto della scienza vi semina e vi pianta discorsi che sono capaci di soccorrere se stessi e colui che li ha piantati, e non sono infruttuosi, ma hanno in sé un seme che, allevato in altri terreni, rende immortali coloro che lo possiedono, facendo sì che i possessori ne siano felici al massimo grado della felicità umana.
+
+FEDRO: Assai più nobile, certamente.
+
+SOCRATE: E ora, Fedro, avendo concordato le premesse, possiamo decidere intorno alla conclusione.
+
+FEDRO: Riguardo a quale conclusione?
+
+SOCRATE: Riguardo a Lisia, che biasimammo, e alla sua arte di scrivere, e ai suoi discorsi, e alla perizia retorica o imperizia che in essi fu dimostrata — queste sono le questioni che cercammo di determinare, e ci condussero a questo punto. E credo che ora siamo abbastanza bene informati circa la natura dell'arte e del suo contrario.
+
+FEDRO: Sì, convengo con te; ma vorrei che tu ripetessi ciò che fu detto.
+
+Socrate: Finché un uomo non conosca la verità dei singoli particolari di cui scrive o parla, e non sappia definirli quali essi sono, e, dopo averli definiti, dividerli di nuovo finché non possano più essere divisi, e finché parimenti non sappia discernere la natura dell'anima e scoprire i diversi modi di discorso che si addicono alle diverse nature, e ordinarli e disporli in modo che la forma semplice del discorso sia rivolta alla natura più semplice, e la complessa e composita alla natura più complessa — finché non abbia compiuto tutto questo, non sarà in grado di trattare gli argomenti secondo le regole dell'arte, per quanto la loro natura consenta che siano sottoposti all'arte, sia per insegnare sia per persuadere; — tale è l'opinione che è implicita in tutta l'argomentazione precedente.
+
+FEDRO: Sì, quella era la nostra opinione, certamente.
+
+SOCRATE: In secondo luogo, quanto alla censura che fu fatta sul parlare o scrivere discorsi, e come essi potessero essere giustamente o ingiustamente censurati — non mostrava forse il nostro precedente argomento —?
+
+FEDRO: Mostra che cosa?
+
+SOCRATE: Che, sia Lisia o qualsivoglia altro scrittore che mai sia stato o sarà, privato cittadino o uomo di Stato, proponga leggi e così divenga autore di un trattato politico, immaginando che vi sia alcuna grande certezza e chiarezza nella sua opera, il fatto che egli scriva così sia solo un disonore per lui, qualunque cosa gli uomini possano dire. Poiché il non conoscere la natura della giustizia e dell'ingiustizia, del bene e del male, e il non poter distinguere il sogno dalla realtà, non può in verità essere altro che disonorevole per lui, sebbene egli abbia l'applauso del mondo intero.
+
+FEDRO: Certamente.
+
+SOCRATE: Ma colui che pensa che nella parola scritta vi sia necessariamente molto che non è serio, e che né la poesia né la prosa, detta o scritta, abbia gran valore, se, come le composizioni dei rapsodi, sono recitate soltanto per essere credute, e non con alcuna mira a critica o istruzione; e che pensa che anche i migliori scritti siano soltanto una reminiscenza di ciò che sappiamo, e che solo nei principi di giustizia e bontà e nobiltà insegnati e comunicati oralmente a scopo di istruzione e incisi nell'anima, che è il vero modo di scrivere, vi siano chiarezza e perfezione e serietà, e che tali principi siano propri dell'uomo e sua legittima prole; — essendo, in primo luogo, la parola che egli trova nel proprio petto; in secondo luogo, i fratelli e i discendenti e i parenti della sua idea, che sono stati debitamente da lui impiantati nelle anime degli altri; — e che si cura di essi e di null'altro — questo è l'uomo giusto; e tu ed io, Fedro, pregheremmo di poter diventare come lui.
+
+FEDRO: Ciò è certissimamente il mio desiderio e la mia preghiera.
+
+SOCRATE: Ormai la commedia è recitata; e di retorica basti. Va' e di' a Lisia che noi scendemmo alla fonte e alla scuola delle Ninfe, e fummo da esse incaricati di recare un messaggio a lui e agli altri compositori di discorsi — a Omero e agli altri scrittori di poemi, sia musicati sia no; e a Solone e ad altri che hanno composto scritti in forma di discorsi politici che essi chiamerebbero leggi — a tutti costoro dobbiamo dire che se le loro composizioni sono fondate sulla conoscenza della verità, ed essi possono difenderle o dimostrarle, quando sono messe alla prova, con argomenti parlati, che rendono i loro scritti poveri in confronto ad essi, allora essi devono essere chiamati non solo poeti, oratori, legislatori, ma sono degni di un nome più alto, conveniente al serio impegno della loro vita.
+
+FEDRO: Quale nome assegneresti loro?
+
+SOCRATE: Saggi, non posso chiamarli; poiché quello è un grande nome che appartiene a Dio solo, — amanti della sapienza o filosofi è il loro modesto e conveniente titolo.
+
+PHAEDRUS: Molto adatto.
+
+SOCRATE: E colui che non può elevarsi al di sopra delle proprie compilazioni e composizioni, le quali ha a lungo rattoppato e ricucito, aggiungendone alcune e togliendone altre, può essere giustamente chiamato poeta, oratore o legislatore.
+
+FEDRO: Certamente.
+
+SOCRATE: Ora va' e racconta questo al tuo compagno.
+
+FEDRO: Ma c'è anche un tuo amico che non è da dimenticare.
+
+SOCRATE: Chi è costui?
+
+FEDRO: Isocrate il bello: — Che messaggio gli invierai, e come lo descriveremo?
+
+Isocrate è ancora giovane, Fedro; ma sono disposto ad azzardare una profezia a suo riguardo.
+
+PHAEDRUS: Che cosa profetizzeresti?
+
+SOCRATE: Io penso che egli abbia un ingegno che si libra al di sopra delle orazioni di Lisia, e che il suo carattere sia plasmato in uno stampo più nobile. La mia impressione è che egli migliorerà meravigliosamente col crescere degli anni, e che tutti i retori di un tempo saranno come fanciulli al suo confronto. E credo che egli non si accontenterà della retorica, ma che vi sia in lui un'ispirazione divina che lo condurrà a cose ancora più alte. Poiché egli ha nella sua natura un elemento di filosofia. Questo è il messaggio degli dèi che abitano in questo luogo, e che io stesso recherò a Isocrate, che è il mio diletto; e tu reca l'altro a Lisia, che è il tuo.
+
+PHAEDRUS: Lo farò; e ora che il caldo è diminuito, partiamo.
+
+SOCRATE: Non dovremmo prima di tutto offrire una preghiera alle divinità locali?
+
+FEDRO: Senz'altro.
+
+SOCRATE: Amato Pan, e tutti voi altri dèi che abitate questo luogo, concedetemi [bellezza](/concepts/beauty) nell'anima interiore; e possano l'uomo esteriore e l'interiore essere in accordo. Possa io considerare i saggi come i ricchi, e possa io avere una tale quantità d'oro quale solo un uomo temperante può portare e sostenere. — Qualcosa ancora? La preghiera, credo, mi basta.
+
+FEDRO: Chiedi lo stesso per me, poiché gli amici devono avere ogni cosa in comune.
+
+SOCRATE: Andiamo.

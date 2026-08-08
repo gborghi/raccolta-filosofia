@@ -87,7 +87,7 @@ As for the Papists, they challenge this right from a text in Deut.xvii. 12, and 
 
 B.
 
-<span class="atom-split" data-atom="002" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (2/16)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="002" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (parte 2)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
 
 For the text in the Old Testament, I do not see how the commandment of God to the Jews, to obey their priests, can be interpreted to have the like force in the case of other nations Christian, more than upon nations unchristian (for all the world are God’s people); unless we also grant, that a king cannot of an infidel be made Christian, without making himself subject to the laws of that apostle, or priest, or minister, that shall convert him. The Jews were a peculiar people of God, a sacerdotal kingdom, and bound to no other law but what first Moses, and afterwards every high-priest, did go and receive immediately from the mouth of God in Mount Sinai, in the tabernacle of the ark, and in the sanctum sanctorum of the temple. And for the text in St. Matthew, I know the words in the Gospel are not go teach, but go and make disciples; and that there is a great difference between a subject and a disciple, and between teaching and commanding. And if such texts as these must be so interpreted, why do not Christian kings lay down their titles of majesty and [sovereignty](/positions/sovereignty), and call themselves the Pope’s lieutenants? But the doctors of the Romish Church seem to decline that title of absolute power, in their distinction of power spiritual and temporal; but this distinction I do not very well understand.
 
@@ -177,7 +177,7 @@ The meaning of the word heresy, is by law declared in an Act of Parliament in th
 
 B.
 
-<span class="atom-split" data-atom="003" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (3/16)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="003" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (parte 3)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
 
 It seems therefore, if there arise any new error that hath not yet been declared heresy, (and many such may arise), it cannot be judged heresy without a Parliament. For how foul soever the error be, it cannot have been declared heresy neither in the Scriptures nor in the Councils; because it was never before heard of. And consequently there can be no error, unless it fall within the compass of blasphemy against God or treason against the King, for which a man can in equity be punished. Besides, who can tell what is declared by the [Scripture](/concepts/revelation), which every man is allowed to read and interpret to himself? Nay more, what Protestant, either of the laity or clergy, if every general Council can be a competent judge of heresy, is not already condemned? For divers Councils have declared a great many of our doctrines to be heresy, and that, as they pretend, upon the authority of the Scriptures.
 
@@ -247,7 +247,7 @@ What influence could that have upon the power of Kings?
 
 A.
 
-<span class="atom-split" data-atom="004" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (4/16)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="004" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (parte 4)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
 
 Do you not see, that by this the King must of necessity either want the priesthood, and therewith a great part of the reverence due to him from the most religious part of his subjects, or else want lawful heirs to succeed him: by which means, being not taken for the head of the Church, he was sure, in any controversy between him and the Pope, that his subjects would be against him?
 
@@ -293,7 +293,7 @@ A.
 
 I think that neither the preaching of friars nor monks, nor of parochial priests, tended to teach men what, but whom to believe. For the power of the mighty hath no foundation but in the opinion and belief of the people. And the end which the Pope had in multiplying sermons, was no other but to prop and enlarge his own authority over all Christian Kings and States.
 
-<span class="atom-split" data-atom="005" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (5/16)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="005" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (parte 5)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
 
 Within the same time, that is, between the time of the Emperor Charles the Great and of King Edward the Third of England, began their second polity; which was, to bring religion into an art, and thereby to maintain all the decrees of the Roman Church by disputation; not only from the Scriptures, but also from the philosophy of [Aristotle](/figures/aristotle), both moral and natural. And to that end the Pope exhorted the said Emperor by letter, to erect schools of all kinds of literature; and from thence began the institution of universities; for not long after, the universities began in Paris and in Oxford. It is true, that there were schools in England before that time, in several places, for the instruction of children in the Latin tongue, that is to say, in the tongue of the Church. But for an university of learning, there was none erected till that time; though it be not unlikely there might be then some that taught philosophy, logic, and other arts, in divers monasteries, the monks having little else to do but to study. After some colleges were built to that purpose, it was not long time before many more were added to them, by the devotion of princes and bishops, and other wealthy men: and the discipline therein was confirmed by the Popes that then were; and abundance of scholars sent thither by their friends to study, as to a place from whence the way was open and easy to preferment both in Church and [Commonwealth](/concepts/commonwealth). The profit the Church of Rome expected from them, and in effect received, was the maintenance of the Pope’s doctrine, and of his authority over kings and their subjects, by school-divines; who [striving](/concepts/conatus) to make good many points of faith incomprehensible, and calling in the philosophy of Aristotle to their assistance, wrote great books of school-divinity, which no man else, nor they themselves, were able to understand; as any man may perceive that shall consider the writings of Peter Lombard, or Scotus, or of him that wrote commentaries upon him, or of Suarez, or any other school-divine of later times. Which kind of learning nevertheless hath been much admired by two sorts of men, otherwise prudent enough. The one of which sorts were of those that were already devoted and really affectionate to the Roman Church; for they believed the doctrine before, but admired the arguments because they understood them not, and yet found the conclusions to their mind. The other sort were negligent men, that had rather admire with others, than take the pains to examine. So that all sorts of people were fully resolved, that both the doctrine was true, and the Pope’s authority no more than what was due to him.
 
@@ -323,7 +323,7 @@ No, I do not find that the bishops did many of them oppose the King; for having 
 
 B.
 
-<span class="atom-split" data-atom="006" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (6/16)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="006" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (parte 6)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
 
 I see that Monsieur Mornay du Plessis, and Dr. Morton, Bishop of Durham, writing of the [progress](/positions/progress) of the Pope’s power, and intituling their books, one of them, The Mystery of Iniquity, the other, The Grand Imposture, were both in the right. For I believe there was never such another cheat in the world, and I wonder that the Kings and States of Christendom never perceived it.
 
@@ -365,7 +365,7 @@ It was not their own art alone that did it, but they had the concurrence of a gr
 
 And first, for the manner of their preaching; they so framed their countenance and gesture at their entrance into the pulpit, and their pronunciation both in their prayer and sermon, and used the Scripture phrase (whether understood by the people or not), as that no tragedian in the world could have acted the part of a right godly man better than these did; insomuch that a man unacquainted with such art, could never suspect any ambitious plot in them to raise sedition against the state, as they then had designed; or doubt that the vehemence of their voice (for the same words with the usual pronunciation had been of little force) and forcedness of their gesture and looks, could arise from anything else but zeal to the service of God. And by this art they came into such credit, that numbers of men used to go forth of their own parishes and towns on working-days, leaving their calling, and on Sundays leaving their own churches, to hear them preach in other places, and to despise their own and all other preachers that acted not so well as they. And as for those ministers that did not usually preach, but instead of sermons did read to the people such homilies as the Church had appointed, they esteemed and called them dumb dogs.
 
-<span class="atom-split" data-atom="007" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (7/16)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="007" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (parte 7)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
 
 Secondly, for the matter of their sermons, because the [anger](/concepts/anger) of the people in the late Roman usurpation was then fresh, they saw there could be nothing more gracious with them than to preach against such other points of the Romish religion as the bishops had not yet condemned; that so receding further from popery than they did, they might with glory to themselves leave a suspicion on the bishops, as men not yet well purged from idolatry.
 
@@ -399,7 +399,7 @@ How could the Parliament, when the King had a great navy, and a great number of 
 
 A.
 
-<span class="atom-split" data-atom="008" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (8/16)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="008" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (parte 8)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
 
 The King had these things indeed in his right; but that signifies little, when they that had the custody of the navy and magazines, and with them all the trained soldiers, and in a manner all his subjects, were, by the preaching of Presbyterian ministers, and the seditious whisperings of false and ignorant politicians, made his enemies; and when the King could have no money but what the Parliament should give him, which you may be sure should not be enough to maintain his regal power, which they intended to take from him. And yet, I think, they never would have ventured into the field, but for that unlucky business of imposing upon the Scots, who were all Presbyterians, our book of Common-prayer. For I believe the English would never have taken well that the Parliament should make war upon the King, upon any provocation, unless it were in their own defence, in case the King should first make war upon them; and, therefore, it behoved them to provoke the King, that he might do something that might look like hostility. It happened in the year 1637, that the King, by the advice, as it is thought, of the Archbishop of Canterbury, sent down a book of Common-prayer into Scotland, not differing in substance from ours, nor much in words besides the putting of the word Presbyter for that of Minister, commanding it to be used, for conformity to this kingdom, by the ministers there, for an ordinary form of Divine service. This being read in the church at Edinburgh, caused such a tumult there, that he that read it had much ado to escape with his life; and gave occasion to the greatest part of the nobility and others to enter, by their own authority, into a [covenant](/concepts/covenant) amongst themselves, which impudently they called a covenant with God, to put down episcopacy, without consulting with the King: which they presently did, animated thereto by their own confidence, or by assurance from some of the democratical Englishmen that in former Parliaments had been the greatest opposers of the King’s interest, that the King would not be able to raise an army to chastise them without calling a Parliament, which would be sure to favour them. For the thing which those democraticals chiefly then aimed at, was to force the King to call a Parliament, which he had not done for ten years before, as having found no help, but hindrance to his designs in the Parliaments he had formerly called. Howsoever, contrary to their expectation, by the help of his better-affected subjects of the nobility and gentry, he made a shift to raise a sufficient army to have reduced the Scots to their former obedience, if it had proceeded to battle. And with this army he marched himself into Scotland; where the Scotch army was also brought into the field against him, as if they meant to fight. But then the Scotch sent to the King for leave to treat by commissioners on both sides; and the King, willing to avoid the destruction of his own subjects, condescended to it. The issue was peace; and the King thereupon went to Edinburgh, and passed an Act of Parliament there to their satisfaction.
 
@@ -441,7 +441,7 @@ After the pacification broken, what succeeded next?
 
 A.
 
-<span class="atom-split" data-atom="009" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (9/16)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="009" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (parte 9)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
 
 The King sent Duke Hamilton with commission and instructions into Scotland, to call a Parliament there, and to use all the means he could otherwise; but all was to no purpose. For the Scots were now resolved to raise an army and to enter into England, to deliver, as they pretended, their grievances to his majesty in a petition; because the King, they said, being in the hands of evil councillors, they could not otherwise obtain their right. But the truth is, they were animated to it by the democratical and Presbyterian English, with a promise of reward and hope of plunder. Some have said, that Duke Hamilton also did rather encourage them to, than deter them from, the expedition; as hoping by the disorder of the two kingdoms, to bring to pass that which he had formerly been accused to endeavour, to make himself King of Scotland. But I take this to have been a very uncharitable censure, upon so little ground to judge so hardly of a man, that afterwards lost his life in seeking to procure the liberty of the King his master. This resolution of the Scots to enter England being known, the King wanting money to raise an army against them, was now, as his enemies here wished, constrained to call a parliament, to meet at Westminster the 13th day of April 1640.
 
@@ -531,7 +531,7 @@ So the armies were disbanded?
 
 A.
 
-<span class="atom-split" data-atom="010" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (10/16)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="010" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (parte 10)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
 
 No; the Scotch army was to be defrayed by the counties of Northumberland and Durham, and the King was to pay his own, till the disbanding of both should be agreed upon in Parliament.
 
@@ -607,7 +607,7 @@ But who can teach what none have learned? Or, if any man hath been so singular, 
 
 A.
 
-<span class="atom-split" data-atom="011" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (11/16)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="011" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (parte 11)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
 
 The rules of just and unjust sufficiently demonstrated, and from principles evident to the meanest capacity, have not been wanting; and notwithstanding the obscurity of their author, have shined, not only in this, but also in foreign countries, to men of good [education](/concepts/education). But they are few, in respect of the rest of the men, whereof many cannot read; many, though they can, have no leisure; and of them that have leisure, the greatest part have their minds wholly employed and taken up by their private businesses or pleasures. So that it is impossible that the multitude should ever learn their duty, but from the pulpit and upon holidays; but then, and from thence, it is, that they learned their disobedience. And, therefore, the light of that doctrine has been hitherto covered and kept under here by a cloud of adversaries, which no private man’s reputation can break through, without the authority of the Universities. But out of the Universities, came all those preachers that taught the contrary. The Universities have been to this nation, as the wooden horse was to the Trojans.
 
@@ -677,7 +677,7 @@ I see what use they make of Aristotle’s logic, physics, and metaphysics; but I
 
 A.
 
-<span class="atom-split" data-atom="012" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (12/16)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="012" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (parte 12)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
 
 Nor I. It has, I think, done them no good, though it has done us here much hurt by accident. For men, grown weary at last of the insolence of the priests, and examining the truth of these doctrines that were put upon them, began to search the sense of the Scriptures, as they are in the learned languages; and consequently studying Greek and Latin, became acquainted with the democratical principles of [Aristotle](/figures/aristotle) and [Cicero](/figures/cicero), and from the [love](/concepts/charity) of their eloquence fell in love with their politics, and that more and more, till it grew into the rebellion we now talk of, without any other advantage to the Roman Church but that it was a weakening to us, whom, since we broke out of their net in the time of Henry VIII, they have continually endeavoured to recover.
 
@@ -753,7 +753,7 @@ I would be glad to see a system of the present morals, written by some divine of
 
 A.
 
-<span class="atom-split" data-atom="013" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (13/16)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="013" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (parte 13)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
 
 I think I can recommend unto you the best that is extant, and such a one as (except a few passages that I mislike) is very well worth your reading. The title of it is, The whole Duty of Man laid down in a plain and familiar way. And, yet, I dare say, that if the Presbyterian ministers, even those of them which were the most diligent preachers of the late sedition, were to be tried by it, they would go near to be found not guilty. He has divided the duty of man into three great branches; which are, his duty to God, to himself, and to his neighbour. In his duty to God, he puts the acknowledgment of him in his essence and his attributes, and in the believing of his word. His attributes are omnipotence, omniscience, infiniteness, justice, truth, mercy, and all the rest that are found in [Scripture](/concepts/revelation). Which of these did not those seditious preachers acknowledge equally with the best of Christians? The word of God are the books of Holy Scripture, received for canonical in England.
 
@@ -819,7 +819,7 @@ Must tyrants also be obeyed in every thing actively? Or is there nothing wherein
 
 A.
 
-<span class="atom-split" data-atom="014" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (14/16)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="014" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (parte 14)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
 
 This is a case that need not be put. We never have read nor heard of any King or tyrant so inhuman as to command it. If any did, we are to consider whether that command were one of his laws. For by disobeying Kings, we mean the disobeying of his laws, those his laws that were made before they were applied to any particular person; for the King, though as a father of children, and a master of domestic servants, yet he commands the people in general never but by a precedent law, and as a politic, not a natural person. And if such a command as you speak of were contrived into a general law (which never was, nor never will be), you were bound to obey it, unless you depart the kingdom after the publication of the law, and before the condemnation of your father.
 
@@ -849,7 +849,7 @@ All this is no more than happens where the Scripture is sealed up in Greek and L
 
 B.
 
-<span class="atom-split" data-atom="015" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (15/16)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="015" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (parte 15)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
 
 These men, of the condition and age you speak of, are, in my opinion, the unfittest of all others to be trusted with the reading of the Scriptures. I know you mean such as have studied the Greek or Latin, or both tongues, and that are withal such as [love](/concepts/charity) knowledge, and consequently take delight in finding out the meaning of the most hard texts, or in thinking they have found it, in case it be new and not found out by others. These are therefore they, that prætermitting the easy places which teach them their duty, fall to scanning only of the mysteries of religion. Such as are: How it may be made out with wit, that there be three that bear rule in heaven, and those three but one? How the Deity could be made flesh? How that flesh could be really present in many places at once? Where is the place, and what the torments, of hell? And other metaphysical doctrines: Whether the will of man be free, or governed by the will of God? Whether sanctity comes by inspiration or [education](/concepts/education)? By whom Christ now speaks to us, whether by the King, or by the clergy, or by the Bible, to every man that reads it and interprets it to himself, or by a private spirit to every private man? These and the like points are the study of the curious, and the cause of all our late mischief, and the cause that makes the plainer sort of men, whom the [Scripture](/concepts/revelation) had taught belief in Christ, love towards God, obedience to the King, and sobriety of behaviour, forget it all, and place their religion in the disputable doctrines of these your wise men.
 
@@ -887,7 +887,7 @@ This that you say looks, methinks, like an advice to the King, to let them alone
 
 A.
 
-<span class="atom-split" data-atom="016" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (16/16)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND. (parte 16)" data-chapter="PART I. BEHEMOTH, OR THE EPITOME OF THE CIVIL WARS OF ENGLAND." data-kind="atom" data-srclang="en"></span>
 
 God forbid that so horrible, unchristian, and inhuman a design should ever enter into the King’s heart. I would have him have money enough readily to raise an army able to suppress any rebellion, and to take from his enemies all hope of success, that they may not dare to trouble him in the reformation of the Universities; but to put none to death without the actual committing such crimes as are already made capital by the laws. The core of rebellion, as you have seen by this, and read of other rebellions, are the Universities; which nevertheless are not to be cast away, but to be better disciplined: that is to say, that the politics there taught be made to be, as true politics should be, such as are fit to make men know, that it is their duty to obey all laws whatsoever that shall by the authority of the King be enacted, till by the same authority they shall be repealed; such as are fit to make men understand, that the civil laws are God’s laws, as they that make them are by God appointed to make them and to make men know, that the people and the Church are one thing, and have but one head, the King; and that no man has title to govern under him, that has it not from him; that the King owes his crown to God only, and to no man, ecclesiastic or other; and that the religion they teach there, be a quiet waiting for the coming again of our blessed Saviour, and in the mean time a resolution to obey the King’s laws, which also are God’s laws; to injure no man, to be in [charity](/concepts/charity) with all men, to cherish the poor and sick, and to live soberly and free from scandal; without mingling our religion with points of natural philosophy, as freedom of will, incorporeal substance, everlasting nows, ubiquities, hypostases, which the people understand not, nor will ever care for. When the Universities shall be thus disciplined, there will come out of them, from time to time, well-principled preachers, and they that are now ill-principled, from time to time fall away.
 
@@ -905,7 +905,7 @@ B.
 
 Content. That day I believe is not far off.
 
-<span class="atom-split" data-atom="017" data-title="PART II. (1/13)" data-chapter="PART II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="017" data-title="PART II. (parte 1)" data-chapter="PART II." data-kind="atom" data-srclang="en"></span>
 
 A.
 
@@ -949,7 +949,7 @@ But what are the points they disagree in? Is there any controversy between Bisho
 
 A.
 
-<span class="atom-split" data-atom="018" data-title="PART II. (2/13)" data-chapter="PART II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="018" data-title="PART II. (parte 2)" data-chapter="PART II." data-kind="atom" data-srclang="en"></span>
 
 I confess I know very few controversies amongst Christians, of points necessary to salvation. They are the questions of authority and power over the Church, or of profit, or of honour to Churchmen, that for the most part raise all the controversies. For what man is he, that will trouble himself and fall out with his neighbours for the saving of my soul, or the soul of any other than himself? When the Presbyterian ministers and others did so seriously preach sedition, and animate men to rebellion in these late wars; who was there that had not a benefice, or having one feared not to lose it, or some other part of his maintainance, by the alteration of the Government, that did voluntary, without any eye to reward, preach so earnestly against sedition, as the other party preached for it? I confess, that for aught I have observed in history, and other writings of the heathens, Greek and Latin, that those heathens were not at all behind us in point of virtue and moral duties, notwithstanding that we have had much preaching, and they none at all. I confess also, that considering what harm may proceed from a liberty that men have, upon every Sunday and oftener, to harangue all the people of a nation at one time, whilst [the state](/concepts/state) is ignorant of what they will say; and that there is no such thing permitted in all the world out of Christendom, nor therefore any civil wars about religion; I have thought much preaching an inconvenience. Nevertheless, I cannot think that preaching to the people the points of their duty, both to God and man, can be too frequent; so it be done by grave, discreet, and ancient men, that are reverenced by the people; and not by light quibbling young men, whom no congregation is so simple as to look to be taught by (as being a thing contrary to nature), or to pay them any reverence, or to care what they say, except some few that may be delighted with their jingling. I wish with all my heart, there were enough of such discreet and ancient men, as might suffice for all the parishes of England, and that they would undertake it. But this is but a wish; I leave it to the wisdom of the State to do what it pleaseth.
 
@@ -1023,7 +1023,7 @@ Had this been by any former statutes made treason?
 
 A.
 
-<span class="atom-split" data-atom="019" data-title="PART II. (3/13)" data-chapter="PART II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="019" data-title="PART II. (parte 3)" data-chapter="PART II." data-kind="atom" data-srclang="en"></span>
 
 Not that I ever heard of; nor do I understand how anything can be treason against the King, that the King, hearing and knowing, does not think treason. But it was a piece of that Parliament’s artifice, to put the word traiterously to any article exhibited against any man whose life they meant to take away.
 
@@ -1129,7 +1129,7 @@ Great expedition; but could not the King, for all that, have saved him by a pard
 
 A.
 
-<span class="atom-split" data-atom="020" data-title="PART II. (4/13)" data-chapter="PART II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="020" data-title="PART II. (parte 4)" data-chapter="PART II." data-kind="atom" data-srclang="en"></span>
 
 The King had heard all that passed at his trial, and had declared he was unsatisfied concerning the justice of their sentence. And, I think, notwithstanding the danger of his own person from the fury of the people, and that he was counselled to give way to his execution, not only by such as he most relied on, but also by the Earl of Strafford himself, he would have pardoned him, if that could have preserved him against the tumult raised and countenanced by the Parliament itself, for the terrifying of those they thought might favour him. And yet the King himself did not stick to confess afterwards, that he had done amiss, in that he did not rescue him.
 
@@ -1227,7 +1227,7 @@ What followed after this?
 
 A.
 
-<span class="atom-split" data-atom="021" data-title="PART II. (5/13)" data-chapter="PART II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="021" data-title="PART II. (parte 5)" data-chapter="PART II." data-kind="atom" data-srclang="en"></span>
 
 In August following, the King supposing he had now sufficiently obliged the Parliament to proceed no further against him, took a journey into Scotland, to satisfy his subjects there, as he had done here; intending, perhaps, so to gain their good wills, that in case the Parliament here should levy arms against him, they should not be aided by the Scots: wherein he also was deceived. For though they seemed satisfied with what he did, whereof one thing was his giving way to the abolition of episcopacy; yet afterwards they made a league with the Parliament, and for money, when the King began to have the better of the Parliament, invaded England in the Parliament’s quarrel. But this was a year or two after.
 
@@ -1265,7 +1265,7 @@ The King went in August; after which, the Parliament, September the 8th, adjourn
 
 B.
 
-<span class="atom-split" data-atom="022" data-title="PART II. (6/13)" data-chapter="PART II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="022" data-title="PART II. (parte 6)" data-chapter="PART II." data-kind="atom" data-srclang="en"></span>
 
 I wonder they did not expect and provide for a rebellion in Ireland, as soon as they began to quarrel with the King in England. For was there any body so ignorant, as not to know that the Irish Papists did long for a change of religion there, as well as the Presbyterians in England? Or, that in general, the Irish nation did hate the name of subjection to England, nor would longer be quiet, than they feared an army out of England to chastise them? What better time then could they take for their rebellion than this, wherein they were encouraged, not only by our weakness caused by this division between the King and his Parliament, but also by the example of the Presbyterians, both of the Scotch and English nation? But what did the Parliament do upon this occasion, in the King’s absence?
 
@@ -1347,7 +1347,7 @@ Methinks this last was a very great fault. For what good could there be in putti
 
 A.
 
-<span class="atom-split" data-atom="023" data-title="PART II. (7/13)" data-chapter="PART II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="023" data-title="PART II. (parte 7)" data-chapter="PART II." data-kind="atom" data-srclang="en"></span>
 
 But I told you before, they would give him none, but with a condition he should cut off the heads of whom they pleased, how faithfully soever they had served him. And if he would have sacrificed all his friends to their ambition, yet they would have found other excuses for denying him subsidies; for they were resolved to take from him the sovereign power to themselves; which they could never do without taking great care that he should have no money at all. In the next place, they put into the remonstrance, as faults of them whose counsel the King followed, all those things which since the beginning of the King’s reign were by them misliked, whether faults or not, and whereof they were not able to judge for want of knowledge of the causes and motives that induced the King to do them, and were known only to the King himself and such of his privy-council as he revealed them to.
 
@@ -1433,7 +1433,7 @@ This last point, methinks, was not wisely put in at this time: it should have be
 
 A.
 
-<span class="atom-split" data-atom="024" data-title="PART II. (8/13)" data-chapter="PART II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="024" data-title="PART II. (parte 8)" data-chapter="PART II." data-kind="atom" data-srclang="en"></span>
 
 What answer should be made, but a denial? About the same time the King himself exhibited articles against six persons of the Parliament, five whereof were of the House of Commons and one of the House of Lords, accusing them of high-treason; and upon the 4th of January, went himself to the House of Commons to demand those five of them. But private notice having been given by some treacherous person about the King, they had absented themselves; and by that means frustrated his Majesty’s intentions. And after he was gone, the House making a heinous matter of it, and a high breach of their privileges, adjourned themselves into London, there to sit as a general committee, pretending they were not safe at Westminster: (for the King, when he went to the House to demand those persons, had somewhat more attendance with him, but not otherwise armed than his servants used to be, than he ordinarily had): and would not be pacified, though the King did afterwards waive the prosecution of those persons, unless he would also discover to them those that gave him counsel to go in that manner to the Parliament House, to the end they might receive condign punishment; which was the word they used instead of cruelty.
 
@@ -1517,7 +1517,7 @@ A.
 
 Nor I; for they held and taught the transmigration of souls from one body to another, as did Pythagoras; which opinion whether they took from him, or he from them, I cannot tell.
 
-<span class="atom-split" data-atom="025" data-title="PART II. (9/13)" data-chapter="PART II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="025" data-title="PART II. (parte 9)" data-chapter="PART II." data-kind="atom" data-srclang="en"></span>
 
 What were the Magi in Persia, but philosophers and astrologers? You know how they came to find our Saviour by the conduct of a star, either from Persia itself, or from some country more eastward than Judea. Were not these in great authority in their country? And are they not in most parts of Christendom thought to have been Kings?
 
@@ -1545,7 +1545,7 @@ I am glad the bishops were out of this business. As ambitious as some say they a
 
 A.
 
-<span class="atom-split" data-atom="026" data-title="PART II. (10/13)" data-chapter="PART II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="026" data-title="PART II. (parte 10)" data-chapter="PART II." data-kind="atom" data-srclang="en"></span>
 
 But I intend not by these quotations to commend either the divinity or the philosophy of those heathen people; but to show only what the reputation of those sciences can effect among the people. For their divinity was nothing but idolatry; and their philosophy, (excepting the knowledge which the Egyptian priests, and from them the Chaldeans, had gotten by long observation and study in astronomy, geometry, and arithmetic), very little; and that in great part abused in astrology and fortunetelling. Whereas the divinity of the clergy of this nation, (considered apart from the mixture that has been introduced by the Church of Rome, and in part retained here, of the babbling philosophy of [Aristotle](/figures/aristotle) and other Greeks, that has no affinity with religion, and serves only to breed disaffection, dissension, and finally sedition and civil war, as we have lately found by dear experience in the differences between the Presbyterians and Episcopals), is the true religion. But for these differences both parties, as they came in power, not only suppressed the tenets of one another, but also whatsoever doctrine looked with an ill aspect upon their interest; and consequently all true philosophy, especially civil and moral, which can never appear propitious to ambition, or to an exemption from their obedience due to the sovereign power.
 
@@ -1605,7 +1605,7 @@ There is a catalogue of them printed. They are very many, and most of them lords
 
 B.
 
-<span class="atom-split" data-atom="027" data-title="PART II. (11/13)" data-chapter="PART II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="027" data-title="PART II. (parte 11)" data-chapter="PART II." data-kind="atom" data-srclang="en"></span>
 
 Howsoever, it was well done of them to get hostages, if they could, of the King, before he went from them.
 
@@ -1661,7 +1661,7 @@ I know not; but I believe he knew the Parliament had a greater party than he, no
 
 B.
 
-<span class="atom-split" data-atom="028" data-title="PART II. (12/13)" data-chapter="PART II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="028" data-title="PART II. (parte 12)" data-chapter="PART II." data-kind="atom" data-srclang="en"></span>
 
 This is plain dealing and without hypocrisy. Could the city of London swallow this?
 
@@ -1737,7 +1737,7 @@ A.
 
 After the sending of these propositions to the King, and his Majesty’s refusal to grant them, they began, on both sides, to prepare for war. The King raised a guard for his person in Yorkshire, and the Parliament, thereupon having voted that the King intended to make war upon his Parliament, gave order for the mustering and exercising the people in arms, and published propositions to invite and encourage them to bring in either ready money or plate, or to promise under their hands to furnish and maintain certain numbers of horse, horsemen, and arms, for the defence of the King and Parliament, (meaning by King, as they had formerly declared, not his person, but his laws); promising to repay their money with interest of 8l. in the 100l. and the value of their plate with twelve-pence the ounce for the fashion. On the other side, the King came to Nottingham, and there did set up his standard royal, and sent out commissions of array to call those to him, which by the ancient laws of England were bound to serve him in the wars. Upon this occasion there passed divers declarations between the King and Parliament concerning the legality of this array, which are too long to tell you at this time.
 
-<span class="atom-split" data-atom="029" data-title="PART II. (13/13)" data-chapter="PART II." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="029" data-title="PART II. (parte 13)" data-chapter="PART II." data-kind="atom" data-srclang="en"></span>
 
 B.
 
@@ -1767,7 +1767,7 @@ B.
 
 Well then, we will talk of that at next meeting.
 
-<span class="atom-split" data-atom="030" data-title="PART III. (1/12)" data-chapter="PART III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="030" data-title="PART III. (parte 1)" data-chapter="PART III." data-kind="atom" data-srclang="en"></span>
 
 B.
 
@@ -1837,7 +1837,7 @@ Seeing then the Parliament had such advantage of the King in money and arms and 
 
 A.
 
-<span class="atom-split" data-atom="031" data-title="PART III. (2/12)" data-chapter="PART III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="031" data-title="PART III. (parte 2)" data-chapter="PART III." data-kind="atom" data-srclang="en"></span>
 
 On the contrary, I think he had also some disadvantage in that; for though he had as good officers at least as any then served the Parliament, yet I doubt he had not so useful counsel as was necessary. And for his soldiers, though they were men as stout as theirs, yet, because their valour was not sharpened so with malice as theirs was on the other side, they fought not so keenly as their enemies did: amongst whom there were a great many London apprentices, who, for want of experience in the war, would have been fearful enough of death and wounds approaching visibly in glistering swords; but, for want of judgment, scarce thought of such death as comes invisibly in a bullet, and therefore were very hardly to be driven out of the field.
 
@@ -1899,7 +1899,7 @@ You have forgotten that I told you, that the King himself, by a bill that he pas
 
 B.
 
-<span class="atom-split" data-atom="032" data-title="PART III. (3/12)" data-chapter="PART III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="032" data-title="PART III. (parte 3)" data-chapter="PART III." data-kind="atom" data-srclang="en"></span>
 
 Would not the King’s raising of an army against them be interpreted as a purpose to dissolve them by force? And was it not as great a breach of promise to scatter them by force, as to dissolve them by proclamation? Besides, I cannot conceive that the passing of that act was otherwise intended than conditionally; so long as they should not ordain any thing contrary to the sovereign right of the King; which condition they had already by many of their ordinances broken. And I think that even by the law of equity, which is the unalterable law of nature, a man that has the sovereign power, cannot, if he would, give away the right of anything which is necessary for him to retain for the good government of his subjects, unless he do it in express words, saying, that he will have the sovereign power no longer. For the giving away that, which by consequence only, draws the [sovereignty](/positions/sovereignty) along with it, is not, I think, a giving away of the sovereignty; but an error, such as works nothing but an invalidity in the grant itself. And such was the King’s passing of this bill for the continuing of the Parliament as long as the two Houses pleased. But now that the war was resolved on on both sides, what needed any more dispute in writing?
 
@@ -2005,7 +2005,7 @@ Why did not the King go on from Brentford?
 
 A.
 
-<span class="atom-split" data-atom="033" data-title="PART III. (4/12)" data-chapter="PART III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="033" data-title="PART III. (parte 4)" data-chapter="PART III." data-kind="atom" data-srclang="en"></span>
 
 The Parliament, upon the first notice of the King’s marching from Shrewsbury, caused all the trained-bands and the auxiliaries of the city of London (which was so frightened as to shut up all their shops) to be drawn forth; so that there was a most complete and numerous army ready for the Earl of Essex, that was crept into London just at the time to head it. And this was it that made the King retire to Oxford. In the beginning of February after, Prince Rupert took Cirencester from the Parliament, with many prisoners and many arms: for it was newly made a magazine. And thus stood the business between the King’s and the Parliament’s greatest forces. The Parliament in the meantime caused a line of communication to be made about London and the suburbs, of twelve miles in compass; and constituted a committee for the association, and the putting into a posture of defence, of the counties of Essex, Cambridge, Suffolk, and some others; and one of these commissioners was Oliver Cromwell, from which employment he came to his following greatness.
 
@@ -2065,7 +2065,7 @@ It seems not only by this, but also by many examples in history, that there can 
 
 A.
 
-<span class="atom-split" data-atom="034" data-title="PART III. (5/12)" data-chapter="PART III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="034" data-title="PART III. (parte 5)" data-chapter="PART III." data-kind="atom" data-srclang="en"></span>
 
 Nay more; those great capital cities, when rebellion is upon pretence of grievances, must needs be of the rebel party: because the grievances are but taxes, to which citizens, that is, merchants, whose profession is their private gain, are naturally mortal enemies; their only glory being to grow excessively rich by the wisdom of buying and selling.
 
@@ -2123,7 +2123,7 @@ It was so; but amends was made him for it within five or six weeks after. For Si
 
 In October following was fought a second and sharp battle at Newbury. For this infantry, making no conscience of the conditions made with the King, being now come towards London as far as Basingstoke, had arms put again into their hands; to whom some of the trained-bands being added, the Earl of Essex had suddenly so great an army, that he attempted the King again at Newbury; and certainly had the better of the day, but the night parting them, had not a complete victory. And it was observed here, that no part of the Earl’s army fought so keenly as they who had laid down their arms in Cornwall.
 
-<span class="atom-split" data-atom="035" data-title="PART III. (6/12)" data-chapter="PART III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="035" data-title="PART III. (parte 6)" data-chapter="PART III." data-kind="atom" data-srclang="en"></span>
 
 These were the most important fights in the year 1644, and the King was yet, as both himself and others thought, in as good condition as the Parliament, which despaired of victory by the commanders they then used. Therefore they voted a new modelling of the army, suspecting the Earl of Essex, though I think wrongfully, to be too much a royalist, for not having done so much as they looked for in this second battle at Newbury. The Earls of Essex and Manchester, perceiving what they went about, voluntarily laid down their commissions; and the House of Commons made an ordinance, that no member of either House should enjoy any office or command, military or civil; with which oblique blow they shook off those that had hitherto served them too well. And yet out of this ordinance they excepted Oliver Cromwell, in whose conduct and valour they had very great confidence (which they would not have done, if they had known him as well then as they did afterwards), and made him lieutenant-general to Sir Thomas Fairfax, their new-made general. In the commission to the Earl of Essex, there was a clause for the preservation of his Majesty’s person, which in this new commission was left out; though the Parliament as well as the general were as yet Presbyterian.
 
@@ -2179,7 +2179,7 @@ What was done during this time in Ireland and Scotland?
 
 A.
 
-<span class="atom-split" data-atom="036" data-title="PART III. (7/12)" data-chapter="PART III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="036" data-title="PART III. (parte 7)" data-chapter="PART III." data-kind="atom" data-srclang="en"></span>
 
 In Ireland there had been a peace made by order from his Majesty for a time, which by divisions amongst the Irish was ill kept. The Popish party, the Pope’s nuncio being then there, took this to be the time for delivering themselves from their subjection to the English. Besides, the time of the peace was now expired.
 
@@ -2243,7 +2243,7 @@ What assistance against the Parliament and the city could Cromwell expect from t
 
 A.
 
-<span class="atom-split" data-atom="037" data-title="PART III. (8/12)" data-chapter="PART III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="037" data-title="PART III. (parte 8)" data-chapter="PART III." data-kind="atom" data-srclang="en"></span>
 
 By declaring directly for him he might have had all the King’s party, which were many more now since his misfortune than ever they were before. For in the Parliament itself, there were many that had discovered the hypocrisy and private aims of their fellows: many were converted to their duty by their own natural reason; and their [compassion](/concepts/compassion) for the King’s sufferings had begot generally an indignation against the Parliament: so that if they had been by the protection of the present army brought together and embodied, Cromwell might have done what he had pleased, in the first place for the King, and in the second for himself. But it seems he meant first to try what he could do without the King; and if that proved enough, to rid his hands of him.
 
@@ -2305,7 +2305,7 @@ Cromwell had power enough now to restore the King. Why did he not?
 
 A.
 
-<span class="atom-split" data-atom="038" data-title="PART III. (9/12)" data-chapter="PART III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="038" data-title="PART III. (parte 9)" data-chapter="PART III." data-kind="atom" data-srclang="en"></span>
 
 His main end was to set himself in his place. The restoring of the King was but a reserve against the Parliament, which being in his pocket, he had no more need of the King, who was now an impediment to him. To keep him in the army was a trouble; to let him fall into the hands of the Presbyterians had been a stop to his hopes; to murder him privately, besides the horror of the act, now whilst he was no more than lieutenant-general, would have made him odious without furthering his design. There was nothing better for his purpose than to let him escape from Hampton Court, where he was too near the Parliament, whither he pleased beyond the sea. For though Cromwell had a great party in the Parliament House whilst they saw not his ambition to be their master, yet they would have been his enemies as soon as that had appeared. To make the King attempt an escape, some of those that had him in custody, by Cromwell’s direction told him that the adjutators meant to murder him; and withal caused a rumour of the same to be generally spread, to the end it might that way also come to the King’s ear, as it did.
 
@@ -2373,7 +2373,7 @@ The Parliament were certainly no less foolish than wicked, in deserting thus the
 
 A.
 
-<span class="atom-split" data-atom="039" data-title="PART III. (10/12)" data-chapter="PART III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="039" data-title="PART III. (parte 10)" data-chapter="PART III." data-kind="atom" data-srclang="en"></span>
 
 In the beginning of 1648 the Parliament gave commission to Philip Earl of Pembroke, then made Chancellor of Oxford, together with some of the doctors there as good divines as he, to purge the University. By virtue whereof they turned out all such as were not of their faction, and all such as had approved the use of the Common-prayer-book; as also divers scandalous ministers and scholars, that is, such as customarily and without need took the name of God into their mouths, or used to speak wantonly, or use the company of lewd women: and for this last I cannot but commend them.
 
@@ -2429,7 +2429,7 @@ A.
 
 Merely, as it is said, for want of conduct. Their army was led by Duke Hamilton, who was then set at liberty, when Pendennis Castle, where he was prisoner, was taken by the Parliamentarians. He entered England with horse and foot 15,000, to which came above 3,000 English royalists. Against these Cromwell marched out of Wales with horse and foot 11,000, and near to Preston in Lancashire, in less than two hours, defeated them. And the cause of it is said to be, that the Scotch army was so ordered as they could not all come to the fight, nor relieve their fellows. After the defeat, they had no way to fly but further into England; so that in the pursuit they were almost all taken, and lost all that an army can lose; for the few that got home, did not all bring home their swords. Duke Hamilton was taken, and not long after sent to London. But Cromwell marched on to Edinburgh, and there, by the help of the faction which was contrary to Hamilton’s, he made sure not to be hindered in his designs; the first whereof was to take away the King’s life by the hand of the Parliament.
 
-<span class="atom-split" data-atom="040" data-title="PART III. (11/12)" data-chapter="PART III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="040" data-title="PART III. (parte 11)" data-chapter="PART III." data-kind="atom" data-srclang="en"></span>
 
 Whilst these things passed in the north, the Parliament, Cromwell being away, came to itself, and recalling their vote of non-addresses, sent to the King new propositions, somewhat, but not much, easier than formerly. And upon the King’s answer to them, they sent commissioners to treat with him at Newport in the Isle of Wight; where they so long dodged with him about trifles, that Cromwell was come to London before they had done, to the King’s destruction. For the army was now wholly at the devotion of Cromwell, who set the adjutators on work again to make a remonstrance to the House of Commons, wherein they require: 1. That the King be brought to justice: 2. That the Prince and the Duke of York be summoned to appear at a day appointed, and proceeded with, according as they should give satisfaction: 3. That the Parliament settle the peace and future government, and set a reasonable period to their own sitting, and make certain future Parliaments annual or biennial: 4. That a competent number of the King’s chief instruments be executed. And this to be done both by the House of Commons and by a general agreement of the people testified by their subscriptions. Nor did they stay for an answer, but presently set a guard of soldiers at the Parliament-house door, and other soldiers in Westminster Hall, suffering none to go into the House but such as would serve their turns. All others were frighted away, or made prisoners, and some upon divers quarrels suspended; above ninety of them, because they had refused to vote against the Scots; and others, because they had voted against the vote of non-addresses: and the rest were a House for Cromwell. The fanatics also in the city being countenanced by the army, pack a new common-council, whereof any forty was to be above the mayor; and their first work was to frame a petition for justice against the King, which Tichborne, the mayor, involving the city in the regicide, delivered to the Parliament.
 
@@ -2491,13 +2491,13 @@ Seeing the King was dead, and his successor barred; by what declared authority w
 
 A.
 
-<span class="atom-split" data-atom="041" data-title="PART III. (12/12)" data-chapter="PART III." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="041" data-title="PART III. (parte 12)" data-chapter="PART III." data-kind="atom" data-srclang="en"></span>
 
 They had, in their [anger](/concepts/anger) against the Lords, formerly declared the supreme power of the nation to be in the House of Commons; and now, on February the 5th, they vote the House of Lords to be useless and dangerous. And thus the kingdom is turned into a democracy, or rather an oligarchy: for presently they made an act, that none of those members, who were secluded for opposing the vote of non-addresses, should ever be re-admitted. And these were commonly called the secluded members; and the rest were by some styled a Parliament, and by others the Rump.
 
 I think you need not now have a catalogue, either of the vices, or of the crimes, or of the follies of the greatest part of them that composed the Long Parliament; than which greater cannot be in the world. What greater vices than irreligion, hypocrisy, avarice and cruelty; which have appeared so eminently in the actions of Presbyterian members, and Presbyterian ministers? What greater crimes than blaspheming and killing God’s anointed; which was done by the hands of the Independents; but by the folly and first treason of the Presbyterians who betrayed and sold him to his murderers? Nor was it a little folly in the Lords, not to see that by the taking away of the King’s power they lost withal their own privileges; or to think themselves, either for number or judgment, any way a considerable assistance to the House of Commons. And for those men who had skill in the laws, it was no great sign of understanding not to perceive that the laws of the land were made by the King, to oblige his subjects to peace and justice, and not to oblige himself that made them. And lastly and generally, all men are fools which pull down anything which does them good, before they have set up something better in its place. He that would set up democracy with an army, should have an army to maintain it; but these men did it, when those men had the army that were resolved to pull it down. To these follies I might add the folly of those fine men, which out of their reading of Tully, Seneca, or other anti-monarchics, think themselves sufficient politicians, and show their discontents when they are not called to the management of [the state](/concepts/state), and turn from one side to another upon every neglect they fancy from the King or his enemies.
 
-<span class="atom-split" data-atom="042" data-title="PART IV. (1/12)" data-chapter="PART IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="042" data-title="PART IV. (parte 1)" data-chapter="PART IV." data-kind="atom" data-srclang="en"></span>
 
 A.
 
@@ -2589,7 +2589,7 @@ Let us return, if you please, to the proceedings of the Rump.
 
 A.
 
-<span class="atom-split" data-atom="043" data-title="PART IV. (2/12)" data-chapter="PART IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="043" data-title="PART IV. (parte 2)" data-chapter="PART IV." data-kind="atom" data-srclang="en"></span>
 
 In the rest of this year they voted a new stamp for the coin of this nation. They considered also of agents to be sent to foreign states; and having lately received applause from the army for their work done by the High Court of Justice, and encouragement to extend the same further, they perfected the said High Court of Justice, in which were tried Duke Hamilton, the Earl of Holland, Lord Capel, the Earl of Norwich, and Sir John Owen; whereof, as I mentioned before, the three first were beheaded. This affrighted divers of the King’s party out of the land; for not only they, but all that had borne arms for the King, were at that time in very great danger of their lives. For it was put to the question by the army at a council of war, whether they should be all massacred or no; where the noes carried it but by two voices. Lastly, March the 24th, they put the Mayor of London out of his office, fined him 2,000l., disfranchised him, and condemned him to two months imprisonment in the Tower, for refusing to proclaim the act for abolishing the kingly power. And thus ended the year 1648 and the monthly fast; God having granted that which they fasted for, the death of the King and the possession of his inheritance. By these their proceedings they had already lost the hearts of the generality of the people, and had nothing to trust to but the army; which was not in their power, but in Cromwell’s; who never failed, when there was occasion, to put them upon all exploits that might make them odious to the people, in order to his future dissolving them whensoever it should conduce to his ends.
 
@@ -2637,7 +2637,7 @@ In this year the Rump did not much at home; save that in the beginning they made
 
 B.
 
-<span class="atom-split" data-atom="044" data-title="PART IV. (3/12)" data-chapter="PART IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="044" data-title="PART IV. (parte 3)" data-chapter="PART IV." data-kind="atom" data-srclang="en"></span>
 
 What did they mean by a free state and [commonwealth](/concepts/commonwealth)? Were the people no longer to be subject to laws? They could not mean that: for the Parliament meant to govern them by their own laws, and punish such as broke them. Did they mean that England should not be subject to any foreign kingdom or commonwealth? That needed not be enacted, seeing there was no king nor people pretended to be their masters. What did they mean then?
 
@@ -2697,7 +2697,7 @@ Presbyterians are everywhere the same: they would fain be absolute governors of 
 
 A.
 
-<span class="atom-split" data-atom="045" data-title="PART IV. (4/12)" data-chapter="PART IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="045" data-title="PART IV. (parte 4)" data-chapter="PART IV." data-kind="atom" data-srclang="en"></span>
 
 The King having yielded to all that the Church required, the Scots proceeded in their intended war. Cromwell marched on to Edinburgh, provoking them all he could to battle; which they declining, and provisions growing scarce in the English army, Cromwell retired to Dunbar, despairing of success; and intending by sea or land to get back into England. And such was the condition which this general Cromwell, so much magnified for conduct, had brought his army to, that all his glories had ended in shame and punishment, if fortune and the faults of his enemies had not relieved him. For as he retired, the Scots followed him close all the way till within a mile of Dunbar. There is a ridge of hills, that from beyond Edinburgh goes winding to the sea, and crosses the highway between Dunbar and Berwick, at a village called Copperspeith, where the passage is so difficult, that had the Scots sent timely thither a very few men to guard it, the English could never have gotten home. For the Scots kept the hills, and needed not have fought but upon great advantage, and were almost two to one. Cromwell’s army was at the foot of those hills, on the north side; and there was a great ditch or channel of a torrent between the hills and it; so that he could never have got home by land, nor without utter ruin of the army attempted to ship it; nor have stayed where he was, for want of provisions. Now Cromwell knowing the pass was free, and commanding a good party of horse and foot to possess it, it was necessary for the Scots to let them go, whom they bragged they had impounded, or else to fight; and therefore with the best of their horse they charged the English, and made them at first shrink a little. But the English foot coming on, the Scots were put to flight; and the flight of the horse hindered the foot from engaging; who therefore fled, as did also the rest of their horse. Thus the folly of the Scottish commanders brought all their odds to an even lay between two small and equal parties; wherein fortune gave the victory to the English, who were not many more in number than those that were killed and taken prisoners of the Scots; and the Church lost their cannon, bag and baggage, with 10,000 arms, and almost their whole army. The rest were got together by Lesley to Stirling.
 
@@ -2759,7 +2759,7 @@ When Cromwell was gone, what was further done in Scotland?
 
 A.
 
-<span class="atom-split" data-atom="046" data-title="PART IV. (5/12)" data-chapter="PART IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="046" data-title="PART IV. (parte 5)" data-chapter="PART IV." data-kind="atom" data-srclang="en"></span>
 
 Lieutenant-General Monk, whom Cromwell left there with 7,000, took Stirling August 14th by surrender, and Dundee the 3rd of September, by storm, because it resisted. This the soldiers plundered, and had good booty, because the Scots for safety had sent thither their most precious goods from Edinburgh and St. Johnstone’s. He took likewise by surrender Aberdeen, and the place where the Scottish ministers first learned to play the fool, St. Andrew’s. Also in the Highlands, Colonel Alured took a knot of lords and gentlemen, viz. four earls and four lords and above twenty knights and gentlemen, whom he sent prisoners into England. So that there was nothing more to be feared from Scotland: all the trouble of the Rump being to resolve what they should do with it. At last they resolved to unite and incorporate it into one [commonwealth](/concepts/commonwealth) with England and Ireland. And to that end sent thither St. John, Vane, and other commissioners, to offer them this union by public declaration, and to warn them to choose their deputies of shires and burgesses of towns, and send them to Westminster.
 
@@ -2829,7 +2829,7 @@ That I think indeed was harsh.
 
 A.
 
-<span class="atom-split" data-atom="047" data-title="PART IV. (6/12)" data-chapter="PART IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="047" data-title="PART IV. (parte 6)" data-chapter="PART IV." data-kind="atom" data-srclang="en"></span>
 
 In the year 1652, May the 14th, began the Dutch war, in this manner. Three Dutch men-of-war, with divers merchants from the straights, being discovered by one Captain Young, who commanded some English frigates, the said Young sent to their admiral to bid him strike his flag, a thing usually done in acknowledgment of the English dominion in the narrow seas; which accordingly he did. Then came up the vice-admiral, and being called to as the other was, to take down his flag, he answered plainly he would not: but after the exchange of four or five broadsides and mischief done on either part, he took it down. But Captain Young demanded also, either the vice-admiral himself or his ship to make good the damage already sustained; to which the vice-admiral answered that he had taken in his flag, but would defend himself and his ship. Whereupon Captain Young consulting with the captains of his other ships, lest the beginning of the war in this time of treaty should be charged upon himself, and night also coming on, thought fit to proceed no further.
 
@@ -2895,7 +2895,7 @@ Come we then to the year 1653.
 
 A.
 
-<span class="atom-split" data-atom="048" data-title="PART IV. (7/12)" data-chapter="PART IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="048" data-title="PART IV. (parte 7)" data-chapter="PART IV." data-kind="atom" data-srclang="en"></span>
 
 Cromwell wanted now but one step to the end of his ambition, and that was to set his foot upon the neck of this Long Parliament; which he did April the 23rd of this present year 1653, a time very seasonable. For though the Dutch were not mastered yet, they were much weakened; and what with prizes from the enemy and squeezing the royal party, the treasury was pretty full, and the tax of 120,000l. a month began to come in; all which was his own in right of the army.
 
@@ -2997,7 +2997,7 @@ How went on the war against the Dutch?
 
 A.
 
-<span class="atom-split" data-atom="049" data-title="PART IV. (8/12)" data-chapter="PART IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="049" data-title="PART IV. (parte 8)" data-chapter="PART IV." data-kind="atom" data-srclang="en"></span>
 
 The generals for the English were Blake, and Dean, and Monk; and Van Tromp for the Dutch; between whom was a battle fought the 2nd of June, which was a month before the beginning of this little Parliament; wherein the English had the victory, and drove the enemies into their harbours, but with the loss of General Dean, slain by a cannon-shot. This victory was great enough to make the Dutch send over ambassadors into England, in order to a treaty; but in the meantime they prepared and put to sea another fleet, which likewise, in the end of July, was defeated by General Monk, who got now a greater victory than before; and this made the Dutch descend so far as to buy their peace with the payment of the charge of the war, and with the acknowledgment, amongst other articles, that the English had the right of the flag.
 
@@ -3069,7 +3069,7 @@ His prophecies were of another kind; he was a writer of almanacs, and a pretende
 
 B.
 
-<span class="atom-split" data-atom="050" data-title="PART IV. (9/12)" data-chapter="PART IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="050" data-title="PART IV. (parte 9)" data-chapter="PART IV." data-kind="atom" data-srclang="en"></span>
 
 I understand not how the dreams and prognostications of madmen (for such I take to be all those that foretell future contingencies) can be of any great disadvantage to the [commonwealth](/concepts/commonwealth).
 
@@ -3149,7 +3149,7 @@ Could not the Protector, who kept his court at Whitehall, discover what the busi
 
 A.
 
-<span class="atom-split" data-atom="051" data-title="PART IV. (10/12)" data-chapter="PART IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="051" data-title="PART IV. (parte 10)" data-chapter="PART IV." data-kind="atom" data-srclang="en"></span>
 
 Yes, he was by divers of his friends informed of it; and counselled by some of them, who would have done it, to kill the chief of them. But he had not courage enough to give them such a commission. He took, therefore, the counsel of some milder persons, which was to call a Parliament. Whereupon writs were presently sent to those, that were in the last Parliament, of the other House, and other writs to the sheriffs for the election of knights and burgesses, to assemble on the 27th of January following. Elections were made according to the ancient manner, and a House of Commons now of the right English temper, and about four hundred in number, including twenty for Scotland and as many for Ireland. Being met, they take themselves, without the Protector and other House, to be a Parliament, and to have the supreme power of the three nations.
 
@@ -3203,7 +3203,7 @@ By whom, and by what art, came the Rump to be turned out the second time?
 
 A.
 
-<span class="atom-split" data-atom="052" data-title="PART IV. (11/12)" data-chapter="PART IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="052" data-title="PART IV. (parte 11)" data-chapter="PART IV." data-kind="atom" data-srclang="en"></span>
 
 One would think them safe enough. The army in Scotland, which when it was in London had helped Oliver to put down the Rump, submitted now, begged pardon, and promised obedience. The soldiers in town had their pay mended, and the commanders everywhere took the old engagement, whereby they had acknowledged their authority heretofore. They also received their commissions in the House itself from the speaker, who was generalissimo. Fleetwood was made lieutenant-general, with such and so many limitations as were thought necessary by the Rump, that remembered how they had been served by the general, Oliver. Also Henry Cromwell, lord-lieutenant of Ireland, having resigned his commission by command, returned into England.
 
@@ -3253,7 +3253,7 @@ I wonder why the Scots were so ready to furnish General Monk with money; for the
 
 A.
 
-<span class="atom-split" data-atom="053" data-title="PART IV. (12/12)" data-chapter="PART IV." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="053" data-title="PART IV. (parte 12)" data-chapter="PART IV." data-kind="atom" data-srclang="en"></span>
 
 I know not; but I believe the Scots would have parted with a greater sum, rather than the English should not have gone together by the ears amongst themselves. The council of officers being now beset with so many enemies, produced speedily their model of government; which was to have a free Parliament, which should meet December the 15th, but with such qualifications of no King, no House of Lords, as made the city more angry than before. To send soldiers into the west to suppress those that were rising there, they durst not, for fear of the city; nor could they raise any other for want of money. There remained nothing but to break, and quitting Wallingford House to shift for themselves. This coming to the knowledge of their army in the north, they deserted Lambert; and the Rump, the 26th of December, repossessed the House.
 

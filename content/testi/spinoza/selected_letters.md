@@ -552,7 +552,7 @@ Rhijnsburg
 
 Lewis Meyer
 
-<span class="atom-split" data-atom="027" data-title="LETTER XXIX. Spinoza to L. M. (Lewis Meyer). (1/2)" data-chapter="LETTER XXIX. Spinoza to L. M. (Lewis Meyer)." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="027" data-title="LETTER XXIX. Spinoza to L. M. (Lewis Meyer). (parte 1)" data-chapter="LETTER XXIX. Spinoza to L. M. (Lewis Meyer)." data-kind="atom" data-srclang="en"></span>
 
 DEAREST FRIEND, —
 
@@ -572,7 +572,7 @@ Again, from the fact that we can limit duration and quantity at our pleasure, wh
 
 Further, as it is evident from what has been said, that neither number, nor measure, nor time, being mere aids to the imagination, can be infinite (for, otherwise, number would not be number, nor measure measure, nor time time); it is hence abundantly evident, why many who confuse these three abstractions with realities, through being ignorant of the true nature of things, have actually denied the infinite.
 
-<span class="atom-split" data-atom="028" data-title="LETTER XXIX. Spinoza to L. M. (Lewis Meyer). (2/2)" data-chapter="LETTER XXIX. Spinoza to L. M. (Lewis Meyer)." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="028" data-title="LETTER XXIX. Spinoza to L. M. (Lewis Meyer). (parte 2)" data-chapter="LETTER XXIX. Spinoza to L. M. (Lewis Meyer)." data-kind="atom" data-srclang="en"></span>
 
 The wretchedness of their reasoning may be judged by mathematicians, who have never allowed themselves to be delayed a moment by arguments of this sort, in the case of things which they clearly and distinctly perceive. For not only have they come across many things, which cannot be expressed by number (thus showing the inadequacy of number for determining all things); but also they have found many things, which cannot be equalled by any number, but surpass every possible number. But they infer hence, that such things surpass enumeration, not because of the multitude of their component parts, but because their nature cannot, without manifest contradiction, be expressed in terms of number. As, for instance, in the case of two circles, non-concentric, whereof one encloses the other, no number can express the inequalities of distance which exist between the two circles, nor all the variations which matter in motion in the intervening space may undergo. This conclusion is not based on the excessive size of the intervening space. However small a portion of it we take, the inequalities of this small portion will surpass all numerical expression. Nor, again, is the conclusion based on the fact, as in other cases, that we do not know the maximum and the minimum of the said space. It springs simply from the fact, that the nature of the space between two non-concentric circles cannot be expressed in number. Therefore, he who would assign a numerical equivalent for the inequalities in question, would be bound, at the same time, to bring about that a circle should not be a circle.
 
@@ -672,7 +672,7 @@ Amsterdam
 
 William de Blyenbergh
 
-<span class="atom-split" data-atom="032" data-title="LETTER XXXII. Spinoza to Blyenbergh. (1/2)" data-chapter="LETTER XXXII. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="032" data-title="LETTER XXXII. Spinoza to Blyenbergh. (parte 1)" data-chapter="LETTER XXXII. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en"></span>
 
 (SPINOZA ANSWERS WITH his usual courtesy the question propounded by Blyenbergh.)
 
@@ -692,7 +692,7 @@ The will of God is identical with His intellect, hence the former can no more be
 
 Thus, as it seems to me, the difficulty is completely solved. However, in order to make the way still plainer, and remove every doubt, I deem it necessary to answer the two following difficulties: — First, why Holy [Scripture](/concepts/revelation) says that God wishes for the conversion of the wicked, and also why God forbade Adam to eat of the fruit when He had ordained the contrary? Secondly, that it seems to follow from what I have said, that the wicked by their pride, avarice, and deeds of desperation, [worship](/concepts/religion) God in no less degree than the good do by their nobleness, patience, love, &c., inasmuch as both execute God’s will.
 
-<span class="atom-split" data-atom="033" data-title="LETTER XXXII. Spinoza to Blyenbergh. (2/2)" data-chapter="LETTER XXXII. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="033" data-title="LETTER XXXII. Spinoza to Blyenbergh. (parte 2)" data-chapter="LETTER XXXII. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en"></span>
 
 In answer to the first question, I observe that [Scripture](/concepts/revelation), being chiefly fitted for and beneficial to the multitude, speaks popularly after the fashion of men. For the multitude are incapable of grasping [sublime](/concepts/sublime) conceptions. Hence I am persuaded that all matters, which God revealed to the prophets as necessary to salvation, are set down in the form of laws. With this understanding, the prophets invented whole parables, and represented God as a king and a law-giver, because He had revealed the means of salvation and perdition, and was their cause; the means which were simply causes they styled laws and wrote them down as such; salvation and perdition, which are simply effects necessarily resulting from the aforesaid means, they described as reward and punishment; framing their doctrines more in accordance with such parables than with actual truth. They constantly speak of God as resembling a man, as sometimes angry, sometimes merciful, now desiring what is future, now jealous and suspicious, even as deceived by the devil; so that philosophers and all who are above the law, that is, who follow after virtue, not in obedience to law, but through [love](/concepts/charity), because it is the most excellent of all things, must not be hindered by such expressions.
 
@@ -738,7 +738,7 @@ Voorberg
 
 William de Blyenbergh
 
-<span class="atom-split" data-atom="035" data-title="LETTER XXXIV. Spinoza to Blyenbergh. (1/3)" data-chapter="LETTER XXXIV. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="035" data-title="LETTER XXXIV. Spinoza to Blyenbergh. (parte 1)" data-chapter="LETTER XXXIV. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en"></span>
 
 [SPINOZA COMPLAINS THAT Blyenbergh has misunderstood him: he sets forth his true meaning.]
 
@@ -758,7 +758,7 @@ I say then, first, that privation is not the act of depriving, but simply and me
 
 Thus privation is nothing else than denying of a thing something, which we think belongs to its nature; negation is denying of a thing something, which we do not think belongs to its nature.
 
-<span class="atom-split" data-atom="036" data-title="LETTER XXXIV. Spinoza to Blyenbergh. (2/3)" data-chapter="LETTER XXXIV. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="036" data-title="LETTER XXXIV. Spinoza to Blyenbergh. (parte 2)" data-chapter="LETTER XXXIV. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en"></span>
 
 We may now see, how Adam’s desire for earthly things was evil from our standpoint, but not from God’s. Although God knew both the present and the past state of Adam, He did not, therefore, regard Adam as deprived of his past state, that is, He did not regard Adam’s past state as within the scope of Adam’s present nature. Otherwise God would have apprehended something contrary to His own will, that is, contrary to His own understanding. If you quite grasp my meaning here and at the same time remember, that I do not grant to the mind the same freedom as Descartes does — L[ewis] M[eyer] bears witness to this in his preface to my book — you will perceive, that there is not the smallest contradiction in what I have said. But I see that I should have done far better to have answered you in my first letter with the words of Descartes, to the effect that we cannot know how our freedom and its consequences agree with the foreknowledge and freedom of God (see several passages in my appendix), that, therefore, we can discover no contradiction between creation by God and our freedom, because we cannot understand how God created the universe, nor (what is the same thing) how He preserves it. I thought that you had read the preface, and that by not giving you my real opinions in reply, I should sin against those duties of [friendship](/concepts/friendship) which I cordially offered you. But this is of no consequence.
 
@@ -778,7 +778,7 @@ As to the two points which you say, before passing on to your second rule, that 
 
 As to your second difficulty, I say with Descartes, that if we cannot extend our will beyond the bounds of our extremely limited understanding, we shall be most wretched — it will not be in our power to eat even a crust of bread, or to walk a step, or to go on living, for all things are uncertain and full of peril.
 
-<span class="atom-split" data-atom="037" data-title="LETTER XXXIV. Spinoza to Blyenbergh. (3/3)" data-chapter="LETTER XXXIV. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="037" data-title="LETTER XXXIV. Spinoza to Blyenbergh. (parte 3)" data-chapter="LETTER XXXIV. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en"></span>
 
 I now pass on to your second rule, and assert that I believe, though I do not ascribe to [Scripture](/concepts/revelation) that sort of truth which you think you find in it, I nevertheless assign to it as great if not greater authority than you do. I am far more careful than others not to ascribe to Scripture any childish and absurd doctrines, a precaution which demands either a thorough acquaintance with philosophy or the possession of divine revelations. Hence I pay very little attention to the glosses put upon Scripture by ordinary theologians, especially those of the kind who always interpret Scripture according to the literal and outward meaning: I have never, except among the Socinians, found any theologian stupid enough to ignore that Holy Scripture very often speaks in human fashion of God and expresses its meaning in parables; as for the contradiction which you vainly (in my opinion) endeavour to show, I think you attach to the word parable a meaning different from that usually given. For who ever heard, that a man, who expressed his opinions in parables, had therefore taken leave of his senses? When Micaiah said to King Ahab, that he had seen God sitting on a throne, with the armies of heaven standing on the right hand and the left, and that God asked His angels which of them would deceive Ahab, this was assuredly a parable employed by the prophet on that occasion (which was not fitted for the inculcation of [sublime](/concepts/sublime) theological doctrines), as sufficiently setting forth the message he had to deliver in the name of God. We cannot say that he had in anywise taken leave of his senses. So also the other prophets of God made manifest God’s commands to the people in this fashion as being the best adapted, though not expressly enjoined by God, for leading the people to the primary object of Scripture, which, as Christ Himself says, is to bid men [love](/concepts/charity) God above all things, and their neighbour as themselves. Sublime speculations have, in my opinion, no bearing on Scripture. As far as I am concerned I have never learnt or been able to learn any of God’s eternal attributes from Holy Scripture.
 
@@ -818,7 +818,7 @@ Voorburg
 
 William de Blyenbergh
 
-<span class="atom-split" data-atom="039" data-title="LETTER XXXVI. Spinoza to Blyenbergh. (1/2)" data-chapter="LETTER XXXVI. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="039" data-title="LETTER XXXVI. Spinoza to Blyenbergh. (parte 1)" data-chapter="LETTER XXXVI. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en"></span>
 
 [SPINOZA REPLIES, THAT there is a difference between the theological and the philosophical way of speaking of God and things divine. He proceeds to discuss Blyenbergh’s questions. (Voorburg, 13th March, 1665.)]
 
@@ -842,7 +842,7 @@ To your first question, I answer, that I do not know, speaking as a philosopher,
 
 However, this is not the place to expound all the foundations of my Ethics, or to prove all that I have advanced; I am now only concerned in answering your questions, and defending myself against them.
 
-<span class="atom-split" data-atom="040" data-title="LETTER XXXVI. Spinoza to Blyenbergh. (2/2)" data-chapter="LETTER XXXVI. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="040" data-title="LETTER XXXVI. Spinoza to Blyenbergh. (parte 2)" data-chapter="LETTER XXXVI. Spinoza to Blyenbergh." data-kind="atom" data-srclang="en"></span>
 
 Lastly, as to your third question, it assumes a contradiction, and seems to me to be, as though one asked: If it agreed better with a man’s nature that he should hang himself, could any reasons be given for his not hanging himself? Can such a nature possibly exist? If so, I maintain (whether I do or do not grant [free will](/positions/free_will)), that such an one, if he sees that he can live more conveniently on the gallows than sitting at his own table, would act most foolishly, if he did not hang himself. So anyone who clearly saw that, by committing crimes, he would enjoy a really more perfect and better life and existence, than he could attain by the practice of virtue, would be foolish if he did not act on his convictions. For, with such a perverse [human nature](/axes/human_nature) as his, crime would become virtue.
 
@@ -1108,7 +1108,7 @@ The Hague
 
 Isaac Orobio
 
-<span class="atom-split" data-atom="054" data-title="LETTER XLIX. Spinoza to Isaac Orobio. (1/2)" data-chapter="LETTER XLIX. Spinoza to Isaac Orobio." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="054" data-title="LETTER XLIX. Spinoza to Isaac Orobio. (parte 1)" data-chapter="LETTER XLIX. Spinoza to Isaac Orobio." data-kind="atom" data-srclang="en"></span>
 
 [A DEFENCE OF the Tractatus Theologico-Politicus. (The Hague, 1671.)]
 
@@ -1130,7 +1130,7 @@ Though I think I have said enough to prove what I intended, I have yet thought i
 
 Again, I cannot see why he says, that all will adopt my opinions, who deny that reason and philosophy should be the interpreters of [Scripture](/concepts/revelation); I have refuted the doctrine of such persons, together with that of Maimonides.
 
-<span class="atom-split" data-atom="055" data-title="LETTER XLIX. Spinoza to Isaac Orobio. (2/2)" data-chapter="LETTER XLIX. Spinoza to Isaac Orobio." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="055" data-title="LETTER XLIX. Spinoza to Isaac Orobio. (parte 2)" data-chapter="LETTER XLIX. Spinoza to Isaac Orobio." data-kind="atom" data-srclang="en"></span>
 
 It would take too long to review all the indications he gives of not having judged me altogether calmly. I therefore pass on to his conclusion, where he says, “that I have no arguments left to prove, that Mahomet was not a true prophet.” This he endeavours to show from my opinions, whereas from them it clearly follows, that Mahomet was an impostor, inasmuch as he utterly forbids that freedom, which the Catholic religion revealed by our natural faculties and by the prophets grants, and which I have shown should be granted in its completeness. Even if this were not so, am I, I should like to know, bound to show that any prophet is false? Surely the burden lies with the prophets, to prove that they are true. But if he retorts, that Mahomet also taught the [divine law](/concepts/divine_law), and gave certain signs of his mission, as the rest of the prophets did, there is surely no reason why he should deny, that Mahomet also was a true prophet.
 
@@ -1340,7 +1340,7 @@ Benedict de Spinoza
 
 Hugo Boxel
 
-<span class="atom-split" data-atom="064" data-title="LETTER LVIII. Spinoza to Hugo Boxel. (1/2)" data-chapter="LETTER LVIII. Spinoza to Hugo Boxel." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="064" data-title="LETTER LVIII. Spinoza to Hugo Boxel. (parte 1)" data-chapter="LETTER LVIII. Spinoza to Hugo Boxel." data-kind="atom" data-srclang="en"></span>
 
 [SPINOZA TREATS OF the necessary creation of the world — he refutes his friend’s arguments and quotations.]
 
@@ -1360,7 +1360,7 @@ Your fourth, and last reason, is the same as your first, and I refer you to my a
 
 Thus, passing by this argument and what remains, I conclude, that these and similar reasons will convince no one of the existence of all kinds of ghosts and spectres, unless it be those persons, who shut their ears to the understanding, and allow themselves to be led away by superstition. This last is so hostile to right reason, that she lends willing credence to old wives’ tales for the sake of discrediting philosophers.
 
-<span class="atom-split" data-atom="065" data-title="LETTER LVIII. Spinoza to Hugo Boxel. (2/2)" data-chapter="LETTER LVIII. Spinoza to Hugo Boxel." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="065" data-title="LETTER LVIII. Spinoza to Hugo Boxel. (parte 2)" data-chapter="LETTER LVIII. Spinoza to Hugo Boxel." data-kind="atom" data-srclang="en"></span>
 
 As regards the stories, I have already said in my first letter, that I do not deny them altogether, but only the conclusion drawn from them. To this I may add, that I do not believe them so thoroughly, as not to doubt many of the details, which are generally added rather for ornament than for bringing out the truth of the story or the conclusion drawn from it. I had hoped, that out of so many stories you would at least have produced one or two, which could hardly be questioned, and which would clearly show that ghosts or spectres exist. The case you relate of the burgomaster, who wanted to infer their existence, because he heard spectral brewers working in his mother’s brewhouse by night, and making the same noises as he was accustomed to hear by day, seems to me laughable. In like manner it would be tedious here to examine all the stories of people, who have written on these trifles. To be brief, I cite the instance of Julius Cæsar, who, as Suetonius testifies, laughed at such things and yet was happy, if we may trust what Suetonius says in the 59th chapter of his life of that leader. And so should all, who reflect on the human imagination, and the effects of the emotions, laugh at such notions; whatever Lavater and others, who have gone dreaming with him in the matter, may produce to the contrary.
 
@@ -1738,7 +1738,7 @@ Florence
 
 Benedict de Spinoza
 
-<span class="atom-split" data-atom="082" data-title="LETTER LXXIII. Albert Burgh to Spinoza. (1/2)" data-chapter="LETTER LXXIII. Albert Burgh to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="082" data-title="LETTER LXXIII. Albert Burgh to Spinoza. (parte 1)" data-chapter="LETTER LXXIII. Albert Burgh to Spinoza." data-kind="atom" data-srclang="en"></span>
 
 [ALBERT BURGH ANNOUNCES his reception into the Romish Church, and exhorts Spinoza to follow his example.]
 
@@ -1766,7 +1766,7 @@ If you cannot pronounce on what I have just been enumerating (divining rods, alc
 
 I have written this letter to you with intentions truly Christian; first, in order to show the [love](/concepts/charity) I bear to you, though you are a heathen; secondly, in order to beg you not to persist in converting others.
 
-<span class="atom-split" data-atom="083" data-title="LETTER LXXIII. Albert Burgh to Spinoza. (2/2)" data-chapter="LETTER LXXIII. Albert Burgh to Spinoza." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="083" data-title="LETTER LXXIII. Albert Burgh to Spinoza. (parte 2)" data-chapter="LETTER LXXIII. Albert Burgh to Spinoza." data-kind="atom" data-srclang="en"></span>
 
 I therefore will thus conclude: God is willing to snatch your soul from eternal damnation, if you will allow Him. Do not doubt that the Master, who has called you so often through others, is now calling you for the last time through me, who having obtained grace from the ineffable mercy of God Himself, beg the same for you with my whole heart. Do not deny me. For if you do not now give ear to God who calls you, the wrath of the Lord will be kindled against you, and there is a danger of your being abandoned by His infinite mercy, and becoming a wretched victim of the Divine Justice which consumes all things in wrath. Such a fate may Almighty God avert for the greater glory of His name, and for the salvation of your soul, also for a salutary example for the imitation of your most unfortunate and idolatrous followers, through our Lord and Saviour Jesus Christ, Who with the Eternal Father liveth and reigneth in the Unity of the Holy Spirit, God for all [Eternity](/positions/eternity). Amen.
 
@@ -1782,7 +1782,7 @@ The Hague
 
 Albert Burgh
 
-<span class="atom-split" data-atom="084" data-title="LETTER LXXIV. Spinoza to Albert Burgh. (1/2)" data-chapter="LETTER LXXIV. Spinoza to Albert Burgh." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="084" data-title="LETTER LXXIV. Spinoza to Albert Burgh. (parte 1)" data-chapter="LETTER LXXIV. Spinoza to Albert Burgh." data-kind="atom" data-srclang="en"></span>
 
 [SPINOZA LAMENTS THE step taken by his pupil, and answers his arguments. The Hague, end of 1675.]
 
@@ -1808,7 +1808,7 @@ The organization of the Roman Church, which you so greatly praise, I confess to 
 
 If, therefore, you had rightly judged, you would have seen that only your third point tells in favour of the Christians, namely, that unlearned and common men should have been able to convert nearly the whole world to a belief in Christ. But this reason militates not only for the Romish Church, but for all those who profess the name of Christ.
 
-<span class="atom-split" data-atom="085" data-title="LETTER LXXIV. Spinoza to Albert Burgh. (2/2)" data-chapter="LETTER LXXIV. Spinoza to Albert Burgh." data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="085" data-title="LETTER LXXIV. Spinoza to Albert Burgh. (parte 2)" data-chapter="LETTER LXXIV. Spinoza to Albert Burgh." data-kind="atom" data-srclang="en"></span>
 
 But assume that all the reasons you bring forward tell in favour solely of the Romish Church. Do you think that you can thereby prove mathematically the authority of that Church? As the case is far otherwise, why do you wish me to believe that my demonstrations are inspired by the prince of evil spirits, while your own are inspired by God, especially as I see, and as your letter clearly shows, that you have been led to become a devotee of this Church not by your [love](/concepts/charity) of God, but by your fear of hell, the single cause of superstition? Is this your humility, that you trust nothing to yourself, but everything to others, who are condemned by many of their fellow men? Do you set it down to pride and arrogance, that I employ reason and acquiesce in this true Word of God, which is in the mind and can never be depraved or corrupted? Cast away this deadly superstition, acknowledge the reason which God has given you, and follow that, unless you would be numbered with the brutes. Cease, I say, to call ridiculous errors mysteries, and do not basely confound those things which are unknown to us, or have not yet been discovered, with what is proved to be absurd, like the horrible secrets of this Church of yours, which, in proportion as they are repugnant to right reason, you believe to transcend the understanding.
 

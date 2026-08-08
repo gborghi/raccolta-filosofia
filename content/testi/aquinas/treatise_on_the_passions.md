@@ -24,6 +24,10 @@ tags:
 
 TREATISE ON THE PASSIONS (QQ[22]-48)
 
+<span class="qlang-split" data-lang="it"></span>
+
+TRATTATO DELLE PASSIONI (QQ[22]-48)
+
 <span class="atom-split" data-atom="002" data-title="OF THE SUBJECT OF THE SOUL'S PASSIONS (THREE ARTICLES)" data-chapter="OF THE SUBJECT OF THE SOUL'S PASSIONS (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the passions of the soul: first, in general; secondly, in particular. Taking
@@ -34,6 +38,14 @@ Under the first head there are three points of inquiry:
 (2) Whether passion is in the appetitive rather than in the apprehensive part?
 (3) Whether passion is in the sensitive appetite rather than in the intellectual appetite, which is
 called the will?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare le passioni dell’anima: innanzitutto in generale, e poi in particolare. Considerate in modo generale, ci sono quattro aspetti da analizzare: (1) Il loro soggetto; (2) La differenza tra di esse; (3) Il loro rapporto reciproco; (4) La loro natura malvagia o benefica.  
+All’interno del primo ambito di indagine, vi sono tre questioni principali:  
+(1) Esistono davvero delle passioni nell’anima?  
+(2) Le passioni appartengono piuttosto alla parte appetitiva che a quella intellettiva dell’anima?  
+(3) Le passioni rientrano nella sfera dell’appetito sensibile o in quella dell’appetito intellettuale, chiamato volontà?
 
 <span class="atom-split" data-atom="003" data-title="Whether any passion is in the soul?" data-chapter="Whether any passion is in the soul?" data-kind="atom" data-srclang="en"></span>
 
@@ -85,6 +97,24 @@ moved, yet it belongs accidentally as stated in De Anima i, 3.
 Reply to Objection 3: This argument is true of passion accompanied by transmutation to
 something worse. And passion, in this sense, is not found in the soul, except accidentally: but the
 composite, which is corruptible, admits of it by reason of its own nature.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nell’anima non esistano passioni. Poiché la passività appartiene alla materia. Ma l’anima non è composta da materia e forma, come affermato nel FP, Q[75], A[5]. Pertanto, nell’anima non ci sono passioni.
+
+Obiezione 2: Inoltre, la passione è un movimento, come affermato nella Physica iii, 3. Ma l’anima non viene mossa, come dimostrato nel De Anima i, 3. Pertanto, la passione non esiste nell’anima.
+
+Obiezione 3: Inoltre, la passione è la strada verso la corruzione; poiché “ogni passione, quando intensificata, altera la sostanza dell’anima”, come affermato nel Topic vi, 6. Ma l’anima è incorruttibile. Pertanto, nessuna passione esiste nell’anima.
+
+Al contrario, l’Apostolo afferma (Romani 7:5): “Quando eravamo nel corpo, le passioni dei peccati, che derivano dalla legge, operavano nei nostri membri”. Ora i peccati, in senso proprio, risiedono nell’anima; pertanto anche quelle passioni che vengono definite “peccaminose” si trovano nell’anima.
+
+Rispondo che la parola “passivo” viene utilizzata in tre modi diversi. Primo, in senso generale: si dice che qualcosa sia passivo quando riceve qualcos’altro, anche se non ne perde nulla; ad esempio, l’aria può essere considerata passiva quando viene illuminata. Tuttavia, in questo caso si tratta piuttosto di un processo di trasformazione che di una vera e propria passività. Secondo, la parola “passivo” viene usata nel suo senso proprio, quando qualcosa riceve qualcos’altro mentre al contempo ne perde altro; ciò può accadere in due modi: a volte ciò che si perde è incompatibile con quella cosa stessa (ad esempio, quando il corpo di un animale guarisce e perde la malattia); altre volte avviene il contrario: ad esempio, ammalarsi significa essere passivi, poiché si riceve la malattia e si perde la salute. In questo caso, abbiamo davvero a che fare con le passioni nel loro senso più proprio, poiché qualcosa viene “tratto” verso qualcos’altro. Inoltre, nel trattato De Generat., i, 3 si afferma che quando da una cosa meno eccellente ne nasce una più eccellente, si parla di generazione; al contrario, quando da una cosa più eccellente ne nasce una meno eccellente, si parla di corruzione. In questi tre modi le passioni possono manifestarsi nell’anima: nel senso di semplice ricezione, si può dire che il “sentire” e la “comprensione” siano un tipo di passione (De Anima, i, 5); ma una passione vera e propria implica sempre una perdita o una trasformazione fisica; pertanto, una passione nel senso stretto non può esistere nell’anima, se non in modo accidentale, cioè quando l’“insieme” delle componenti dell’anima subisce una trasformazione. Tuttavia, anche in questo caso si possono riscontrare differenze: quando questa trasformazione è negativa, ha più caratteristiche di passione rispetto a quando è positiva; per esempio, il dolore è sicuramente una passione, mentre la gioia lo è meno.
+
+Risposta all’Obiezione 1: È proprio della materia essere passiva nel senso di perdere qualcosa e subire trasformazioni; pertanto ciò accade soltanto nelle cose composte da materia e forma. Tuttavia, la passività, in quanto implica semplicemente l’accettazione di qualcosa, non è necessariamente caratteristica della materia, ma può esistere in qualsiasi entità che si trovi in uno stato di [potenzialità](/concepts/act_potency). Ora, sebbene l’anima non sia composta da materia e forma, essa possiede comunque una certa potenzialità; per questo motivo è in grado di ricevere o di essere passiva, poiché l’atto di comprendere rappresenta un tipo di “passione”, come affermato nel De Anima iii, 4.
+
+Risposta all’Obiezione 2: Sebbene non sia intrinseco alla stessa anima essere passiva e essere mossa, tale caratteristica le appartiene in modo accidentale, come affermato nel “De Anima”, I, 3.
+
+Risposta all’Obiezione 3: Questo argomento è valido per le passioni accompagnate da una trasformazione verso qualcosa di peggiore. E in questo senso, le passioni non si trovano nell’anima se non in modo accidentale; invece, il composto, essendo corruttibile, le permette di esistere a causa della sua stessa natura.
 
 <span class="atom-split" data-atom="004" data-title="Whether passion is in the appetitive rather than in the apprehensive part?" data-chapter="Whether passion is in the appetitive rather than in the apprehensive part?" data-kind="atom" data-srclang="en"></span>
 
@@ -156,6 +186,24 @@ of the blood about the heart." Hence it is evident that the notion of passion is
 the act of the sensitive appetite, than with that of the sensitive apprehension, although both are
 actions of a corporeal organ.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la passione risieda nella parte apprensiva dell’anima, piuttosto che in quella appetitiva. Poiché ciò che è primo in un determinato genere sembra occupare una posizione di rilievo tra tutte le cose appartenenti a quel genere e costituire la loro causa, come affermato nella Metafisica ii, 1. Ora si osserva che la passione esiste prima nella parte apprensiva che in quella appetitiva: infatti, la parte appetitiva non viene influenzata se non esiste una precedente passione nella parte apprensiva. Pertanto, la passione risiede più nella parte apprensiva che in quella appetitiva.
+
+Obiezione 2: Inoltre, ciò che è più attivo è meno passivo; infatti l’azione è contraria alla passione. Ora, la parte appetitiva è più attiva della parte conoscitiva. Pertanto sembrerebbe che la passione risieda principalmente nella parte conoscitiva.
+
+Obiezione 3: Inoltre, proprio come l’appetito sensibile è la facoltà di un organo corporeo, lo stesso vale per la capacità di comprensione sensibile. Tuttavia, le passioni nell’anima si verificano, in senso stretto, in relazione a trasformazioni fisiche del corpo. Pertanto, le passioni non sono più presenti nella parte dell’appetito sensibile che in quella della comprensione sensibile.
+
+Al contrario, [Agostino](/figures/augustine) afferma (De Civ. Dei ix, 4) che “il movimento dell’anima, che i Greci chiamavano {pathe}, viene definito da alcuni dei nostri scrittori ‘disturbi’ piuttosto che ‘malattie’; ad esempio, disturbi; altri lo chiamano ‘affetti’ o ‘emozioni’, mentre ancora altri traducono più fedelmente il termine greco definendolo ‘passioni’”. Da ciò risulta evidente che le passioni dell’anima sono gli stessi affetti. Tuttavia, gli affetti appartengono chiaramente alla parte appetitiva, e non a quella intellettiva; pertanto, le passioni si trovano nella parte appetitiva, e non in quella intellettiva.
+
+Rispondo che, come abbiamo già affermato (A[1]), la parola “passione” implica che il soggetto venga attratto da ciò che appartiene all’agente che esercita un’influenza su di esso. Ora, l’anima viene attirata verso qualcosa piuttosto attraverso la sua facoltà appetitiva che attraverso quella conoscitiva: poiché, grazie alla facoltà appetitiva, l’anima possiede una concezione delle cose così come esse sono in sé stesse. Per questo motivo il Filosofo afferma (Metafisica VI, 4) che “il bene e il male”, cioè gli oggetti della facoltà appetitiva, “esistono nelle cose stesse”. D’altra parte, la facoltà conoscitiva non viene attirata verso una cosa così come essa è in sé stessa, ma la conosce in base a un’“intenzione” relativa a quella cosa, intenzione che l’anima possiede in se stessa o riceve in modo proprio. Da ciò deriva anche l’affermazione che “il vero e il falso”, che riguardano la conoscenza, “non esistono nelle cose, ma nell’intelletto”. Pertanto è evidente che la natura della passione sia più in linea con la facoltà appetitiva che con quella conoscitiva.
+
+Risposta all’Obiezione 1: Nei casi relativi alla perfezione, la situazione è opposta rispetto a quella relativa ai difetti. Poiché, nei casi legati alla perfezione, l’intensità è proporzionale al grado di avvicinamento a un principio supremo; più una cosa si avvicina a tale principio, più intensa diventa. Pertanto, l’intensità della luce dipende dal grado di vicinanza a una fonte di luce di livello supremo: più ci si avvicina, più luce si possiede. Nel caso dei difetti, invece, l’intensità non deriva dall’avvicinamento a qualcosa di perfetto, ma dal allontanarsi da esso; infatti, proprio nella privazione e nel difetto risiede il concetto stesso di imperfezione. Di conseguenza, meno una cosa si allontana da ciò che è perfetto, meno intensa è; ne deriva che, inizialmente, esiste sempre un certo grado di imperfezione, che poi aumenta progressivamente con il tempo. La passione, essendo legata ai difetti, appartiene a quelle cose nella loro fase di [potenzialità](/concepts/act_potency). Pertanto, nelle cose che si avvicinano alla Perfezione Suprema, cioè a Dio, la potenzialità e la passione sono molto ridotte; al contrario, in altre cose esse sono più marcate. Ne consegue anche che, nella parte più elevata della psiche umana, ovvero nella capacità di comprendere il divino, la passione è meno presente rispetto alle altre facoltà.
+
+Risposta all’Obiezione 2: Si dice che la potenza appetitiva sia più attiva perché, rispetto alla potenza apprensiva, è il principio dell’azione esterna; e ciò per lo stesso motivo per cui essa è anche più passiva, ovvero perché è legata alle cose nella loro esistenza intrinseca: infatti è attraverso l’azione esterna che entriamo in contatto con le cose.
+
+Risposta all’Obiezione 3: Come indicato nel FP, Q[78], A[3], gli organi dell’anima possono subire modifiche in due modi. In primo luogo, attraverso un cambiamento spirituale, per cui l’organo riceve un’“intenzione” riguardante l’oggetto; questo aspetto è essenziale per l’atto di comprensione sensoriale: ad esempio, l’occhio viene modificato dall’oggetto visibile, non perché venga colorato, ma perché riceve un’“intenzione” relativa al colore. Tuttavia, gli organi possono subire anche cambiamenti naturali che influenzano la loro struttura originale; ad esempio, quando diventano caldi o freddi, o subiscono modifiche simili. Mentre questo tipo di cambiamento è accidentale rispetto all’atto di comprensione sensoriale – ad esempio, se l’occhio si stanca a causa di uno sguardo prolungato su un oggetto – esso è invece essenziale per l’atto dell’appetito sensibile. Pertanto, nell’ambito delle definizioni dei movimenti della parte appetitiva, l’elemento materiale fondamentale è proprio il cambiamento naturale dell’organo; ad esempio, si dice che “la [ira](/concepts/anger) sia un’infiammazione del sangue attorno al cuore”. È evidente quindi che il concetto di passione sia più in linea con l’atto dell’appetito sensibile che con quello della comprensione sensoriale, anche se entrambi riguardano azioni di organi corporei.
+
 <span class="atom-split" data-atom="005" data-title="Whether passion is in the sensitive appetite rather than in the intellectual appetite, which is called the will?" data-chapter="Whether passion is in the sensitive appetite rather than in the intellectual appetite, which is called the will?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that passion is not more in the sensitive than in the intellectual
@@ -201,6 +249,25 @@ while they punish . . . no fellow-feeling with misery while they relieve the unh
 human speech is wont to ascribe to them also these passions by name, because, although they have
 none of our weakness, their acts bear a certain resemblance to ours."
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la passione non sia più presente nell’appetito sensibile che in quello intellettuale. Infatti Dionisio afferma (Div. Nom. ii) che Hierotheus “venga istruito con un metodo ancora più divino; non solo imparando cose divine, ma anche soffrendole”. Tuttavia l’appetito sensibile non può “soffrire” le cose divine, poiché il suo oggetto è il bene sensibile. Pertanto la passione esiste sia nell’appetito intellettuale che in quello sensibile.
+
+Obiezione 2: Inoltre, più potente è la forza attiva, più intensa è la passione. Ma l’oggetto dell’appetito intellettuale, che è il bene universale, rappresenta una forza attiva più potente di quello dell’appetito sensibile, che è un bene particolare. Pertanto, la passione è più in linea con l’appetito intellettuale che con quello sensibile.
+
+Obiezione 3: Inoltre, si afferma che gioia e amore siano passioni. Tuttavia queste si riscontrano nell’appetito intellettuale e non soltanto in quello sensibile; altrimenti le Scritture non le attribuirebbero a Dio e agli angeli. Pertanto, le passioni non sono più presenti nell’appetito sensibile che in quello intellettuale.
+
+Al contrario, Damasceno afferma (De Fide Orth. ii, 22), descrivendo le passioni animali:  
+“La passione è un movimento dell’appetito sensibile quando immaginiamo il bene o il male; in altre parole, la passione è un movimento dell’anima irrazionale quando pensiamo al bene o al male.”
+
+Rispondo che, come già detto sopra (A[1]), la passione si trova propriamente là dove avviene una trasformazione corporea. Tale trasformazione corporea si verifica nell’atto dell’appetito sensibile e non è soltanto di natura spirituale, come nel caso dell’intuizione sensibile, ma anche di natura fisica. Ora, non c’è alcuna necessità di una trasformazione corporea nell’atto dell’appetito intellettuale, poiché questo appetito non si esercita attraverso un organo corporeo. È quindi evidente che la passione appartiene più propriamente all’atto dell’appetito sensibile che a quello dell’appetito intellettuale; e ciò risulta ancora più chiaro dalle definizioni di Damasceno citate in precedenza.
+
+Risposta all’Obiezione 1: Per “soffrire” per le cose divine si intende provare un sentimento positivo verso di esse e unirsi a loro con l’amore; e ciò avviene senza alcun cambiamento nel corpo fisico.
+
+Risposta all’Obiezione 2: L’intensità della passione dipende non solo dalla forza dell’agente che la provoca, ma anche dalla capacità del soggetto di essere influenzato da essa; infatti, ciò che è predisposto a provare passioni soffre molto anche per cause insignificanti. Pertanto, sebbene l’oggetto dell’appetito intellettuale presenti un livello di attività maggiore rispetto all’oggetto dell’appetito sensibile, quest’ultimo è comunque più passivo.
+
+Risposta all’Obiezione 3: Quando amore, gioia e simili sentimenti vengono attribuiti a Dio o agli angeli, oppure all’uomo in relazione al suo appetito intellettuale, essi indicano semplici atti della volontà che producono effetti analoghi, ma senza coinvolgimento passionale. Pertanto, [Agostino](/figures/augustine) afferma nel “De Civitate Dei” IX, 5: “Gli angeli santi non provano alcuna [ira](/concepts/anger) quando puniscono, non condividono la sofferenza degli infelici quando li alleviano; eppure il linguaggio comune umano tende ad attribuire loro anche queste passioni, poiché, sebbene essi siano privi di tutte le nostre debolezze, i loro atti presentano una certa somiglianza con i nostri.”
+
 <span class="atom-split" data-atom="006" data-title="HOW THE PASSIONS DIFFER FROM ONE ANOTHER (FOUR ARTICLES)" data-chapter="HOW THE PASSIONS DIFFER FROM ONE ANOTHER (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider how the passions differ from one another: and under this head there are
@@ -211,6 +278,14 @@ and evil?
 (3) Whether there is any passion that has no contrary?
 (4) Whether, in the same power, there are any passions, differing in species, but not contrary
 to one another?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare in che modo le passioni si differenziano l’una dall’altra; sotto questo aspetto ci sono quattro punti da esaminare:  
+(1) Se le passioni appartenenti alla parte concupiscibile siano diverse da quelle appartenenti alla parte irascibile;  
+(2) Se la contrarietà delle passioni nella parte irascibile sia basata sulla contrarietà tra bene e male;  
+(3) Se esista qualche passione che non abbia un contrario;  
+(4) Se, nella stessa forza o intensità, possano esistere passioni diverse per specie, ma non contrarie l’una all’altra.
 
 <span class="atom-split" data-atom="007" data-title="Whether the passions of the concupiscible part are different from those of the irascible part?" data-chapter="Whether the passions of the concupiscible part are different from those of the irascible part?" data-kind="atom" data-srclang="en"></span>
 
@@ -275,6 +350,24 @@ power: and hence the need of another power tending to that good. The same applie
 this power is the irascible faculty. Consequently the concupiscible passions are specifically different
 from the irascible passions.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le stesse passioni siano presenti sia nella parte irascibile che in quella concupiscibile dell’anima. Infatti, il Filosofo afferma (Etica ii, 5) che le passioni dell’anima sono quelle emozioni “che sono seguite da gioia o dolore”. Ma gioia e dolore appartengono alla parte concupiscibile; pertanto, tutte le passioni dovrebbero trovarsi nella parte concupiscibile, e non alcune nella parte irascibile e altre nella parte concupiscibile.
+
+Obiezione 2: Inoltre, riguardo alle parole di Matteo 13:33 (“Il regno dei cieli è simile al lievito”), ecc., la glossa di Gerolamo afferma: “Dovremmo essere prudenti nel ragionamento; odiare il vizio nell’istinto irascibile; desiderare la virtù nella parte concupiscibile del nostro animo”. Tuttavia, l’odio appartiene all’istinto concupiscibile, così come l’amore, che ne è l’opposto, come si afferma nel Topic ii, 7. Pertanto, lo stesso istinto può manifestarsi sia nell’istinto concupiscibile che in quello irascibile.
+
+Obiezione 3: Inoltre, le passioni e le azioni differiscono specificamente in base ai loro oggetti. Tuttavia gli oggetti delle passioni irascibili e concupiscibili sono gli stessi, ovvero il bene e il male. Pertanto, le stesse passioni esistono sia nella facoltà irascibile che in quella concupiscibile.
+
+Al contrario, gli atti delle diverse facoltà umane differiscono per specie; ad esempio, vedere e sentire. Tuttavia, la facoltà irascibile e quella concupiscibile sono le due componenti in cui si divide l’appetito sensibile, come affermato nel FP, Q[81], A[2]. Pertanto, poiché le passioni sono movimenti dell’appetito sensibile, come già detto (Q[22], A[3]), le passioni legate alla facoltà irascibile sono specificamente distinte da quelle legate alla facoltà concupiscibile.
+
+Rispondo che le passioni appartenenti alla parte irascibile differiscono per specie da quelle della facoltà concupiscibile. Poiché diverse facoltà hanno oggetti diversi, come affermato nel FP, Q[77], A[3], anche le passioni delle varie facoltà devono necessariamente riferirsi a oggetti differenti. Ancor di più, le passioni delle diverse facoltà differiscono per specie; infatti, è richiesta una differenza maggiore nell’oggetto affinché si possano distinguere le specie stesse delle facoltà, rispetto alla diversificazione delle passioni o degli atti. Proprio come nell’ordine fisico, la diversità di genere deriva dalla diversità nella [potenzialità](/concepts/act_potency) della materia, mentre la diversità di specie deriva dalla diversità nella forma della stessa materia; allo stesso modo, negli atti dell’anima, quelli che appartengono a diverse facoltà differiscono non solo per specie ma anche per genere. Pertanto, per distinguere quali passioni appartengano alla parte irascibile e quali a quella concupiscibile, è necessario considerare l’oggetto di ciascuna di queste facoltà. Come abbiamo affermato nel FP, Q[81], A[2], l’oggetto della facoltà concupiscibile è il bene o il male sensibile, intesi semplicemente in sé stessi, e che causano piacere o dolore. Tuttavia, poiché l’anima talvolta incontra difficoltà nell’ottenere alcuni di questi beni o nell’evitare alcuni di questi mali – soprattutto quando tali beni o mali sono al di là delle possibilità della nostra natura animale – è proprio questo bene o male, nella sua natura ardua e difficile da ottenere o evitare, ad essere l’oggetto della facoltà irascibile. Pertanto, tutte quelle passioni che riguardano il bene o il male in senso assoluto appartengono alla facoltà concupiscibile: gioia, tristezza, amore, odio, ecc.; mentre quelle passioni che riguardano il bene o il male come qualcosa di difficile da ottenere o evitare appartengono alla facoltà irascibile: coraggio, paura, speranza, ecc.
+
+Risposta all’Obiezione 1: Come affermato nel FP, Q[81], A[2], la facoltà irascibile è concessa agli animali al fine di eliminare gli ostacoli che impediscono alla potenza concupiscibile di tendere verso il proprio oggetto, sia rendendo alcuni beni difficili da ottenere, sia rendendo alcuni mali difficili da evitare. Di conseguenza, tutte le passioni irascibili si concludono nelle passioni concupiscibili; ed è per questo che anche quelle passioni appartenenti alla facoltà irascibile sono accompagnate da gioia o tristezza, che appartengono anch’esse alla facoltà concupiscibile.
+
+Risposta all’Obiezione 2: Girolamo attribuisce l’odio per il vizio alla facoltà irascibile, non in quanto l’odio sia propriamente una passione concupiscibile, ma a causa della lotta che ha luogo all’interno di questa facoltà.
+
+Risposta all’Obiezione 3: Il bene, in quanto piacevole, muove la forza concupiscente. Tuttavia, se si rivela difficile da ottenere, proprio per questo presenta una certa contraddizione rispetto a tale forza; di conseguenza, è necessaria un’altra forza che tenda verso quel bene. Lo stesso vale per il male, e questa forza è la facoltà irascibile. Pertanto, le passioni concupiscenti sono specificamente diverse dalle passioni irascibili.
+
 <span class="atom-split" data-atom="008" data-title="Whether the contrariety of the irascible passions is based on the contrariety of good and evil?" data-chapter="Whether the contrariety of the irascible passions is based on the contrariety of good and evil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the contrariety of the irascible passions is based on no other
@@ -331,6 +424,18 @@ contrariety in respect of good and evil (as between hope and fear): and also con
 to approach and withdrawal in respect of the same term (as between daring and fear).
 From what has been said the replies to the objections are evident.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la contrarietà delle passioni irascibili si basi unicamente sulla contrarietà tra bene e male. Infatti, le passioni irascibili sono destinate a coordinarsi con le passioni concupiscibili, come detto sopra (A[1], ad 1). Ma la contrarietà delle passioni concupiscibili non è altro che quella tra bene e male; basta pensare, ad esempio, all’amore e all’odio, alla gioia e al dolore. Pertanto, lo stesso vale anche per le passioni irascibili.
+
+Obiezione 2: Inoltre, le passioni differiscono in base ai loro oggetti; proprio come i movimenti differiscono in base ai loro termini. Ma non esiste altra contrarietà nei movimenti se non quella legata ai loro termini, come affermato nella Physica V, 3. Pertanto, non esiste altra contrarietà nelle passioni se non quella relativa agli oggetti. Ora, l’oggetto del desiderio è il bene o il male; quindi, in nessuna facoltà desiderativa può esserci contrarietà di passioni diversa da quella tra bene e male.
+
+Obiezione 3: Inoltre, “ogni passione dell’anima si manifesta attraverso avvicinamento e allontanamento”, come afferma Avicenna nel suo sesto libro di Fisica. L’avvicinamento deriva dall’apprrendimento del bene; l’allontanamento, dall’apprrendimento del male: poiché, proprio come “il bene è ciò che tutti desiderano” (Etica, i, 1), così il male è ciò che tutti evitano. Pertanto, nelle passioni dell’anima non può esistere alcuna altra contrarietà se non quella tra bene e male.
+
+Al contrario, paura e coraggio sono opposti tra loro, come affermato nell’Etica, III, 7. Tuttavia, paura e coraggio non differiscono in termini di bene e male, poiché entrambi riguardano un certo tipo di male. Pertanto, non ogni contrarietà delle passioni irascibili è legata al concetto di bene e male.
+
+Rispondo che la passione è un tipo di movimento, come affermato nella Fisica iii, 3. Pertanto, la contrarietà delle passioni si basa sulla contrarietà dei movimenti o dei cambiamenti. Ora, esiste una doppia forma di contrarietà nei cambiamenti e nei movimenti, come indicato nella Fisica v, 5: una riguarda l’avvicinamento e il allontanamento rispetto allo stesso termine; questa contrarietà appartiene propriamente ai cambiamenti, cioè alla generazione, che è un cambiamento “verso l’essere”, e alla corruzione, che è un cambiamento “dall’essere”. L’altra forma di contrarietà riguarda l’opposizione dei termini e appartiene propriamente ai movimenti; ad esempio, il sbiancamento, che è un movimento dal nero al bianco, è contrario al scurirsi, che è un movimento dal bianco al nero. Di conseguenza, nelle passioni dell’anima esiste una doppia contrarietà: una riguarda la contrarietà degli oggetti, cioè del bene e del male; l’altra riguarda l’avvicinamento e il allontanamento rispetto allo stesso termine. Nelle passioni concupiscenti si trova soltanto la prima forma di contrarietà, quella basata sugli oggetti; nelle passioni irascibili, invece, si trovano entrambe le forme. Il motivo di ciò è che l’oggetto della facoltà concupiscente, come già detto, è il bene o il male sensibile considerati in modo assoluto. Ora, il bene, in sé, non può essere considerato un termine verso cui tendere, ma soltanto un termine da cui allontanarsi, poiché nulla fugge dal bene in sé; al contrario, tutte le cose lo desiderano. Allo stesso modo, nulla desidera il male in sé; tutte le cose lo evitano; pertanto, il male non può essere considerato un termine verso cui tendere, ma soltanto un termine da cui allontanarsi. Di conseguenza, ogni passione concupiscente riguardo al bene tende verso di esso, come amore, desiderio e gioia; mentre ogni passione concupiscente riguardo al male tende lontano da esso, come odio, evitamento o tristezza. Pertanto, nelle passioni concupiscenti non può esistere contrarietà nell’avvicinamento e nel allontanamento rispetto allo stesso oggetto. D’altra parte, l’oggetto della facoltà irascibile è il bene o il male sensibile, considerati non in modo assoluto, ma sotto l’aspetto della difficoltà o dell’ardore. Ora, il bene che è difficile o arduo, considerato come bene, induce in noi una tendenza verso di esso; questa tendenza appartiene alla passione della “speranza”; mentre, considerato come difficile o arduo, ci spinge a allontanarcene; e questo appartiene alla passione della “disperazione”. Allo stesso modo, il male arduo, considerato come male, ha l’aspetto di qualcosa da evitare; e questo appartiene alla passione della “paura”; tuttavia, contiene anche una ragione per tendervi, come nel tentativo di affrontare qualcosa di difficile al fine di sfuggire al male; e questa tendenza è chiamata “coraggio”. Pertanto, nelle passioni irascibili troviamo contrarietà riguardo al bene e al male (come tra speranza e paura); e anche contrarietà nell’avvicinamento e nel allontanamento rispetto allo stesso termine (come tra coraggio e paura). Dalla discussione appena fatta, le risposte alle obiezioni risultano evidenti.
+
 <span class="atom-split" data-atom="009" data-title="Whether any passion of the soul has no contrariety?" data-chapter="Whether any passion of the soul has no contrariety?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that every passion of the soul has a contrary. For every passion of
@@ -365,6 +470,18 @@ Accordingly no movement of the soul can be contrary to the movement of anger, an
 else than cessation from its movement is contrary thereto; thus the Philosopher says (Rhet. ii, 3)
 that "calm is contrary to anger," by opposition not of contrariety but of negation or privation.
 From what has been said the replies to the objections are evident.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che ogni passione dell’anima abbia un contrario. Infatti, ogni passione dell’anima appartiene o alla facoltà irascibile o a quella concupiscibile, come detto sopra (A[1]). Ma entrambi questi tipi di passioni presentano modi specifici di contrarietà. Pertanto, ogni passione dell’anima ha il proprio contrario.
+
+Obiezione 2: Inoltre, ogni passione dell’anima ha come oggetto qualcosa di buono o di cattivo; infatti questi sono gli oggetti comuni della parte appetitiva dell’anima. Ma una passione che ha qualcosa di buono come oggetto è contraria a una passione che ha qualcosa di cattivo come oggetto. Pertanto, ogni passione ha un’opposta.
+
+Obiezione 3: Inoltre, ogni passione dell’anima riguarda un avvicinamento o un allontanamento, come detto sopra (A[2]). Ma ogni avvicinamento ha un corrispondente allontanamento opposto, e viceversa. Pertanto, ogni passione dell’anima possiede un contrario.
+
+Al contrario, l’[Rabbia](/concepts/anger) è una passione dell’anima. Tuttavia, nessuna passione viene considerata contraria alla rabbia, come affermato nell’Etica IV, 5. Pertanto, non tutte le passioni hanno un opposto.
+
+Rispondo che la passione della rabbia presenta una caratteristica particolare: non può avere un opposto, né in termini di avvicinamento o allontanamento, né in relazione alla contrapposizione tra bene e male. La rabbia infatti è scatenata da un male difficile che già esiste; quando tale male è presente, l’appetito umano deve necessariamente subirne l’influenza, in modo da non oltrepassare i limiti della “tristezza”, che è una passione appartenente alla facoltà concupiscente; oppure deve manifestarsi con un attacco contro quel male dannoso, e questo è proprio il carattere della rabbia. Tuttavia, non può esistere alcun movimento di allontanamento da tale male, poiché esso si presuppone già presente o passato. Pertanto, nessuna altra passione può essere contraria alla rabbia, né in termini di avvicinamento o allontanamento, né in relazione alla contrapposizione tra bene e male. Allo stesso modo, non esiste alcun opposto della rabbia che possa derivare dalla contrapposizione tra bene e male: l’opposto del male presente è il bene ottenuto, il quale non può più presentare caratteristiche di difficoltà o arduità; inoltre, una volta ottenuto il bene, non rimane alcun altro movimento dell’appetito umano, se non quello del riposo nella felicità derivante da tale bene, e questo riposo appartiene alla gioia, che è anch’essa una passione della facoltà concupiscente. Pertanto, nessun movimento dell’anima può essere contrario al movimento della rabbia; l’unica cosa che possa esserne contrario è la cessazione di tale movimento. Ecco perché il Filosofo afferma (Rhetorica ii, 3) che “la calma è contraria alla rabbia”, ma questa contrapposizione non deriva dalla diversità dei loro caratteri, bensì dalla negazione o privazione della rabbia stessa. Da quanto detto, risulta evidente come possano essere confutate le obiezioni avanzate contro questa tesi.
 
 <span class="atom-split" data-atom="010" data-title="Whether in the same power, there are any passions, specifically different, but not contrary to one another?" data-chapter="Whether in the same power, there are any passions, specifically different, but not contrary to one another?" data-kind="atom" data-srclang="en"></span>
 
@@ -425,6 +542,19 @@ Consequently there are altogether eleven passions differing specifically; six in
 faculty, and five in the irascible; and under these all the passions of the soul are contained.
 From this the replies to the objections are evident.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra impossibile che esistano passioni della stessa intensità ma specificamente diverse tra loro e che non siano reciprocamente contrarie. Infatti, le passioni dell’anima differiscono in base ai loro oggetti; questi oggetti sono il bene e il male, e proprio su questa distinzione si fonda la contrarietà delle passioni stesse. Pertanto, nessuna passione della stessa intensità che non sia contraria alle altre può essere specificamente diversa da queste ultime.
+
+Obiezione 2: Inoltre, la differenza di specie implica una differenza di forma. Ma ogni differenza di forma riguarda qualche contrarietà, come affermato nella Metafisica X, 8. Pertanto, le passioni della stessa intensità che non sono tra loro contrarie non differiscono in modo specifico.
+
+Obiezione 3: Inoltre, poiché ogni passione dell’anima consiste in un avvicinamento o in un allontanamento rispetto al bene o al male, sembra che ogni differenza tra le passioni dell’anima debba necessariamente derivare dalla differenza tra bene e male; oppure dalla differenza nell’avvicinamento o nell’allontanamento; oppure dai diversi gradi di tale avvicinamento o allontanamento. Ora, le prime due differenze causano contrarietà nelle passioni dell’anima, come già detto sopra (A[2]); mentre la terza differenza non varia la specie stessa delle passioni; altrimenti le specie delle passioni dell’anima sarebbero infinite. Pertanto, non è possibile che passioni della stessa intensità differiscano tra loro per specie, senza essere reciprocamente contrarie.
+
+Al contrario, amore e gioia appartengono a specie diverse e rientrano nella sfera dei desideri sensuali; tuttavia non sono contrari tra loro: anzi, uno di essi ne provoca l’insorgere dell’altro. Pertanto, nello stesso ambito delle passioni umane esistono sentimenti che differiscono per natura senza essere in contrasto tra loro.
+
+Rispondo che le passioni differiscono in base alle loro cause attive, le quali, nel caso delle passioni dell’anima, sono i loro oggetti. Ora, la differenza nelle cause attive può essere considerata in due modi: innanzitutto, dal punto di vista della loro specie o natura, così come il fuoco è diverso dall’acqua; in secondo luogo, dal punto di vista della differenza nella loro forza attiva. Nelle passioni dell’anima, non possiamo considerare la differenza nelle cause attive o motivanti in relazione alla loro forza motrice, come se fossero agenti naturali. Infatti, ogni agente, in qualche modo, attira verso di sé l’oggetto su cui agisce o lo allontana da sé. Quando attira verso di sé, compie tre azioni sull’oggetto: innanzitutto, gli conferisce un’inclinazione o una tendenza naturale verso di sé; ad esempio, un corpo leggero conferisce al corpo generato la proprietà della leggerezza, facendogli avere l’inclinazione a trovarsi in posizioni elevate. In secondo luogo, se il corpo generato si trova fuori dal suo posto naturale, l’agente gli dà la forza di muoversi verso quel posto. Terzo, lo fa riposare quando raggiunge il suo posto naturale; infatti, la stessa causa può produrre sia il riposo che il movimento verso quel luogo. Lo stesso vale per le cause di repulsione. Nelle azioni della facoltà appetitiva, il bene possiede una forza attrattiva, mentre il male ha una forza repulsiva. Pertanto, il bene genera nell’appetito un’inclinazione naturale verso di sé; questo corrisponde alla passione dell’“amore”, e il suo opposto è l’“odio” verso il male. Inoltre, se il bene non è ancora posseduto, suscita nel desiderio il movimento verso la sua realizzazione; questo corrisponde alle passioni del “desiderio” o della “concupiscenza”, e il loro opposto è l’“avversione” verso il male. Infine, quando il bene viene ottenuto, fa sì che l’appetito si riposi in esso; questo corrisponde alla passione della “gioia” o del “contentamento”, e il suo opposto è la “tristezza”. D’altra parte, nelle passioni irascibili, l’inclinazione a cercare il bene o a evitare il male deriva dalla facoltà concupiscibile, che considera il bene e il male in modo assoluto. Per quanto riguarda il bene ancora non ottenuto, abbiamo “speranza” e “disperazione”; per quanto riguarda il male già presente, abbiamo “paura” e “coraggio”. Tuttavia, quando il bene è stato ottenuto, non esiste più alcuna passione irascibile, poiché non viene più considerato come qualcosa di difficile da raggiungere; al contrario, il male già presente genera la passione dell’“ira”. È quindi evidente che nella facoltà concupiscibile esistono tre coppie di passioni: amore e odio, desiderio e avversione, gioia e tristezza. Allo stesso modo, nella facoltà irascibile esistono tre gruppi di passioni: speranza e disperazione, paura e coraggio, e l’ira, che non ha un opposto diretto.
+Di conseguenza, esistono in totale undici passioni che si differenziano tra loro in modo specifico: sei appartenenti alla facoltà concupiscibile e cinque a quella irascibile; sotto queste categorie rientrano tutte le passioni dell’anima. Da ciò derivano chiaramente le risposte alle obiezioni sollevate.
+
 <span class="atom-split" data-atom="011" data-title="OF GOOD AND EVIL IN THE PASSIONS OF THE SOUL (FOUR ARTICLES)" data-chapter="OF GOOD AND EVIL IN THE PASSIONS OF THE SOUL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider good and evil in the passions of the soul: and under this head there are
@@ -433,6 +563,14 @@ four points of inquiry:
 (2) Whether every passion of the soul is morally evil?
 (3) Whether every passion increases or decreases the goodness of malice of an act?
 (4) Whether any passion is good or evil specifically?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il bene e il male nelle passioni dell’anima; in questo ambito vi sono quattro punti da esaminare:  
+(1) È possibile trovare il bene e il male morali nelle passioni dell’anima?  
+(2) Ogni passione dell’anima è moralmente cattiva?  
+(3) Ogni passione aumenta o diminuisce la bontà o la malvagità di un atto?  
+(4) Esiste qualche passione che sia specificamente buona o cattiva?
 
 <span class="atom-split" data-atom="012" data-title="Whether moral good and evil can be found in the passions of the soul?" data-chapter="Whether moral good and evil can be found in the passions of the soul?" data-kind="atom" data-srclang="en"></span>
 
@@ -527,6 +665,22 @@ from the order of natural reason.
 Reply to Objection 3: The passions of the soul, in so far as they are contrary to the order of
 reason, incline us to sin: but in so far as they are controlled by reason, they pertain to virtue.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che tutte le passioni dell’anima siano moralmente cattive. Infatti, [Agostino](/figures/augustine) afferma (De Civ. Dei ix, 4) che “alcuni definiscono le passioni dell’anima malattie o disturbi dell’anima”; [*Quelle cose che i Greci chiamano {pathe}, noi preferiamo considerarle disturbi piuttosto che malattie (Tusc. iv, 5)]. Ma ogni malattia o disturbo dell’anima è moralmente cattivo. Pertanto, ogni passione dell’anima è moralmente malevola.
+
+Obiezione 2: Inoltre, Damasceno afferma (De Fide Orthodossa ii, 22) che “il movimento conforme alla natura è un’azione, mentre il movimento contrario alla natura è una passione”. Tuttavia, nei movimenti dell’anima, ciò che è contrario alla natura è peccaminoso e moralmente malevolo; per questo motivo egli dice altrove (De Fide Orthodossa ii, 4) che “il diavolo si allontanò da ciò che è conforme alla natura per rivolgersi a ciò che è contrario ad essa”. Pertanto, queste passioni sono moralmente malevole.
+
+Obiezione 3: Inoltre, qualsiasi cosa porti al peccato possiede un aspetto di male. Ma queste passioni portano al peccato; perciò vengono chiamate “le passioni del peccato” (Romani 7:5). Pertanto, sembra che siano moralmente malvagie.
+
+Al contrario, Agostino afferma (De Civ. Dei XIV, 9) che “tutte queste emozioni sono giuste in coloro la cui amore è rivolto nel modo corretto. Poiché temono di peccare, desiderano perseverare; si addolorano per i propri peccati e si rallegrano delle buone azioni compiute”.
+
+Rispondo che, su questa questione, l’opinione degli Stoici differiva da quella dei [Peripatetici](/schools/lyceum): gli Stoici ritenevano infatti che tutte le passioni fossero cattive, mentre i Peripatetici sostenevano che le passioni moderate fossero buone. Questa differenza, sebbene appaia significativa a parole, in realtà non esiste affatto, o è molto lieve, se si considera l’intento di ciascuna scuola. Gli Stoici, infatti, non facevano distinzione tra sensazione e intelletto; di conseguenza, nemmeno tra il desiderio intellettivo e quello sensibile. Per questo motivo non separavano le passioni dell’anima dai movimenti della volontà: le passioni dell’anima, essendo legate al desiderio sensibile, venivano considerate parte dei movimenti della volontà intellettiva; ogni movimento razionale di questa parte veniva definito volontà, mentre qualsiasi movimento che superasse i limiti della ragione veniva chiamato passione. Per questo motivo, [Cicerone](/figures/cicero), seguendo il loro punto di vista (De Tusc. Quaest. iii, 4), definiva tutte le passioni “malattie dell’anima”, sostenendo che “coloro che sono malati sono insani; e coloro che sono insani mancano di ragione”. Da qui deriva l’espressione “insani” per indicare coloro che sono privi di ragione. D’altra parte, i Peripatetici attribuivano il nome di “passioni” a tutti i movimenti del desiderio sensibile; li consideravano quindi buoni quando erano controllati dalla ragione, e cattivi quando non lo erano. È evidente quindi che Cicerone si sbagliava nel criticare la teoria peripatetica di un “mezzo” nelle passioni (De Tusc. Quaest. iii, 4), quando affermava che “ogni male, anche se moderato, dovrebbe essere evitato; poiché, proprio come un corpo che soffre in modo moderato non è sano, allo stesso modo questo ‘mezzo’ nelle malattie o passioni dell’anima non è sano”. Le passioni, infatti, vengono chiamate “malattie” o “disturbi” dell’anima soltanto quando non sono controllate dalla ragione. Ecco quindi la risposta alla Prima Obiezione.
+
+Risposta all’Obiezione 2: In ogni passione si verifica un aumento o una diminuzione del movimento naturale del cuore, a seconda che questo venga mosso con maggiore o minore intensità attraverso la contrazione e la dilatazione; ed è proprio da ciò che deriva il carattere specifico di ciascuna passione. Tuttavia, non è necessario che una passione si discosti sempre dall’ordine della ragione naturale.
+
+Risposta all’Obiezione 3: Le passioni dell’anima, nella misura in cui sono contrarie all’ordine della ragione, ci spingono a peccare; ma nella misura in cui sono controllate dalla ragione, appartengono alla virtù.
+
 <span class="atom-split" data-atom="014" data-title="Whether passion increases or decreases the goodness or malice of an act?" data-chapter="Whether passion increases or decreases the goodness or malice of an act?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that every passion decreases the goodness of a moral action. For
@@ -589,6 +743,24 @@ Reply to Objection 3: A passion that tends to evil, and precedes the judgment of
 diminishes sin; but if it be consequent in either of the ways mentioned above (Reply OBJ 1), it
 aggravates the sin, or else it is a sign of its being more grievous.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che ogni passione riduca la bontà di un atto morale. Infatti, qualsiasi cosa ostacoli il giudizio della ragione – dal quale dipende la bontà di un atto morale – ne diminuisce inevitabilmente la qualità. Ma ogni passione ostacola il giudizio della ragione; come afferma Sallustio (in “Catilina”): “Coloro che prendono decisioni su questioni incerte devono essere liberi da odio, [ira](/concepts/anger), [amicizia](/concepts/friendship) e pietà”. Pertanto, la passione riduce necessariamente la bontà di un atto morale.
+
+Obiezione 2: Inoltre, più un’azione umana assomiglia a quella di Dio, migliore è; per questo l’Apostolo dice (Efesini 5:1): “Siate imitatori di Dio, come figli molto amati”. Ma “Dio e gli angeli santi non provano rabbia quando puniscono, né compassione per la sofferenza quando alleviano i malheureux”, come afferma [Agostino](/figures/augustine) (De Civ. Dei ix, 5). Pertanto, è meglio compiere tali azioni senza l’intervento delle passioni dell’anima.
+
+Obiezione 3: Inoltre, proprio come il male morale dipende dalla sua relazione con la ragione, lo stesso vale per il bene morale. Tuttavia, il male morale viene mitigato dalle passioni: infatti, colui che pecca spinto da passioni commette meno peccati di colui che agisce deliberatamente. Pertanto, chi compie un atto buono senza l’intervento delle passioni compie un atto migliore rispetto a chi lo fa guidato dalle passioni.
+
+Al contrario, Agostino afferma (De Civ. Dei IX, 5) che “la passione della pietà è obbediente alla ragione, quando essa si manifesta senza violare i principi giusti, come quando si aiutano i poveri o si perdona il pentito”. Tuttavia, nulla ciò che è obbediente alla ragione può diminuire il bene morale. Pertanto, nemmeno una passione del cuore può ridurre il valore morale delle azioni umane.
+
+Rispondo che, poiché gli Stoici ritenevano che ogni passione dell’anima fosse malevola, ne condividevano necessariamente l’idea che ogni passione diminuisse la bontà di un atto; infatti, l’elemento del male, quando si mescola al bene, o distrugge completamente quest’ultimo o lo rende meno efficace. Questo è certamente vero se per “passioni” intendiamo soltanto i movimenti eccessivi dell’appetito sensibile, considerati come disturbi o malattie. Tuttavia, se attribuiamo il nome di passioni a tutti i movimenti dell’appetito sensibile, allora la perfezione del bene umano consiste proprio nel fatto che tali passioni siano moderate dalla ragione. Poiché il bene umano ha radici nella ragione, esso sarà tanto più perfetto quanto più si estenderà a aspetti diversi della vita umana. Nessuno mette dunque in discussione il fatto che il controllo delle azioni da parte della legge della ragione rientri nella perfezione del bene morale. Poiché l’appetito sensibile può obbedire alla ragione, come già detto (Q[17], A[7]), è dunque logico che anche le passioni stesse siano governate dalla ragione. Pertanto, proprio come è preferibile che l’uomo desideri il bene e lo attui concretamente nelle sue azioni esterne, così anche è parte della perfezione del bene morale che l’uomo sia spinto al bene non solo nella sua volontà, ma anche nel suo appetito sensibile; come si legge nel Salmo 83:3: “Il mio cuore e la mia carne si sono rallegrati nel Dio vivente”: dove con “cuore” si intende l’appetito intellettuale e con “carne” l’appetito sensibile.
+
+Risposta all’Obiezione 1: Le passioni dell’anima possono avere un doppio rapporto con il giudizio della ragione. In primo luogo, in termini di precedenza: poiché offuscano il giudizio della ragione, dal quale dipende la bontà dell’atto morale, queste passioni riducono effettivamente la bontà dell’atto stesso; infatti, è molto più lodevole compiere un atto di carità guidati dal giudizio della ragione che non semplicemente spinti dalla passione della pietà. In secondo luogo, in termini di conseguenza: e questo avviene in due modi. Primo, per sovrapposizione: quando la parte superiore dell’anima è intensamente commossa da qualcosa, anche la parte inferiore ne risente; quindi la passione che ne deriva, nell’appetito sensibile, rappresenta un segno dell’intensità della volontà e indica così una maggiore bontà morale dell’atto. Secondo, per scelta deliberata: quando una persona, guidata dal giudizio della ragione, decide di lasciarsi influenzare da una certa passione al fine di agire più rapidamente con la collaborazione dell’appetito sensibile. In questo caso, la passione stessa aumenta effettivamente la bontà dell’atto compiuto.
+
+Risposta all’Obiezione 2: In Dio e negli angeli non esistono né desideri sensuali né membri corporei; pertanto, per loro il bene non dipende dall’ordinamento corretto delle passioni o dalle azioni fisiche, come avviene per noi.
+
+Risposta all’Obiezione 3: Una passione che tende al male e precede il giudizio della ragione riduce la gravità del peccato; ma se essa segue in uno dei modi menzionati sopra (Risposta all’Obiezione 1), allora aggrava il peccato, oppure è un segno che esso sia ancora più grave.
+
 <span class="atom-split" data-atom="015" data-title="Whether any passion is good or evil in its species?" data-chapter="Whether any passion is good or evil in its species?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no passion of the soul is good or evil morally according to its
@@ -634,6 +806,24 @@ Nevertheless, in so far as they are led by a kind of estimative power, which is 
 i.e. the Divine reason, there is a certain likeness of moral good in them, in regard to the soul's
 passions.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nessuna passione dell’anima sia moralmente buona o cattiva in base alla sua specie. Infatti, il bene e il male morali dipendono dalla ragione. Ma le passioni appartengono all’appetito sensibile; pertanto, l’armonia con la ragione è per loro qualcosa di accidentale. Poiché nulla di accidentale può appartenere alla specie di una cosa, sembra che nessuna passione sia buona o cattiva in base alla sua specie.
+
+Obiezione 2: Inoltre, azioni e passioni ricevono la loro natura specifica dal loro oggetto. Pertanto, se qualche passione fosse buona o cattiva in base alla sua natura specifica, ne conseguirebbe che quelle passioni il cui oggetto è buono siano necessariamente buone – come l’amore, il desiderio e la gioia – e che quelle passioni il cui oggetto è cattivo siano necessariamente cattive, come l’odio, la paura e la tristezza. Ma ciò è chiaramente falso. Pertanto, nessuna passione è buona o cattiva in base alla sua natura specifica.
+
+Obiezione 3: Inoltre, non esiste alcun tipo di passione che non si trovi anche negli altri animali. Ma il bene morale esiste soltanto nell’uomo. Pertanto, nessuna passione dell’anima è buona o cattiva in base alla sua stessa natura.
+
+Al contrario, [Agostino](/figures/augustine) afferma (De Civ. Dei ix, 5) che “la pietà è un tipo di virtù”. Inoltre, il Filosofo sostiene (Etica ii, 7) che la modestia sia una passione lodevole. Pertanto, alcune passioni sono buone o cattive in base alla loro natura stessa.
+
+Rispondo che, a quanto pare, dovremmo applicare alle passioni ciò che è stato detto riguardo agli atti – cioè che la specie di una passione, come quella di un atto, può essere considerata da due punti di vista. Primo, in base al suo genere naturale; e in questo senso il bene e il male morali non hanno alcuna relazione con la specie di un atto o di una passione. Secondo, in base al suo genere morale, nella misura in cui essa è volontaria e controllata dalla ragione. In questo modo, il bene e il male morali possono appartenere alla specie di una passione, nella misura in cui l’oggetto verso cui tende tale passione sia, di per sé, in armonia o in disarmonia con la ragione: come è evidente nel caso della “vergogna”, che è in realtà un timore meschino; e dell’invidia, che rappresenta una tristezza per il bene altrui. Poiché, in questo modo, le passioni appartengono alla stessa specie degli atti esterni.
+
+Risposta all’Obiezione 1: Questo argomento considera le passioni nella loro specie naturale, nel senso in cui il desiderio sensibile viene considerato per se stesso. Tuttavia, nel momento in cui il desiderio sensibile obbedisce alla ragione, il bene e il male derivanti dalla ragione non sono più presenti nelle passioni in modo accidentale, ma essenziale.
+
+Risposta all’Obiezione 2: Le passioni che hanno una tendenza verso il bene sono esse stesse buone, se mirano a ciò che è veramente buono; allo stesso modo, sono cattive quelle passioni che si allontanano da ciò che è veramente male. D’altra parte, quelle passioni che consistono nell’avversione per il bene e in una tendenza verso il male sono esse stesse malvagie.
+
+Risposta all’Obiezione 3: Negli animali irrazionali il desiderio sensibile non obbedisce alla ragione. Tuttavia, nella misura in cui sono guidati da una sorta di facoltà valutativa soggetta a una ragione superiore, cioè quella divina, esiste in loro una certa somiglianza con il bene morale, riguardo alle passioni dell’anima.
+
 <span class="atom-split" data-atom="016" data-title="OF THE ORDER OF THE PASSIONS TO ONE ANOTHER (FOUR ARTICLES)" data-chapter="OF THE ORDER OF THE PASSIONS TO ONE ANOTHER (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the order of the passions to one another: and under this head there are
@@ -642,6 +832,14 @@ four points of inquiry:
 (2) The relation of the concupiscible passions to one another;
 (3) The relation of the irascible passions to one another;
 (4) The four principal passions.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’ordine reciproco delle passioni; in questo ambito vi sono quattro punti di indagine:  
+(1) Il rapporto tra le passioni irascibili e quelle concupiscibili;  
+(2) Il rapporto tra le passioni concupiscibili tra loro;  
+(3) Il rapporto tra le passioni irascibili tra loro;  
+(4) Le quattro principali passioni.
 
 <span class="atom-split" data-atom="017" data-title="Whether the irascible passions precede the concupiscible passions, or vice versa?" data-chapter="Whether the irascible passions precede the concupiscible passions, or vice versa?" data-kind="atom" data-srclang="en"></span>
 
@@ -706,6 +904,22 @@ here we are speaking of passions as directly related to one another. Moreover, t
 removes the obstacle that hinders the concupiscible from resting in its object. Wherefore it only
 follows that the irascible passions precede those concupiscible passions that connote rest. The third
 object leads to the same conclusion.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le passioni irascibili precedano le passioni concupiscenti. Infatti, l’ordine delle passioni corrisponde all’ordine dei loro oggetti. Ma l’oggetto della facoltà irascibile è il bene difficile da ottenere, il quale sembra essere il bene supremo. Pertanto, le passioni irascibili dovrebbero precedere le passioni concupiscenti.
+
+Obiezione 2: Inoltre, il motore precede ciò che viene mosso. Ma la facoltà irascibile, rispetto alla facoltà concupiscente, può essere considerata un motore di quest’ultima: essa, infatti, è data agli animali allo scopo di eliminare gli ostacoli che impediscono alla facoltà concupiscente di godere del proprio oggetto, come detto sopra (Q[23], A[1], ad 1; FP, Q[81], A[2]). Ora, “ciò che elimina un ostacolo è una sorta di motore” (Phys. viii, 4). Pertanto, le passioni irascibili precedono le passioni concupiscenti.
+
+Obiezione 3: Inoltre, gioia e tristezza sono passioni concupiscenti. Ma gioia e tristezza seguono le passioni irascibili; infatti il Filosofo afferma (Etica iv, 5) che “la vendetta fa sì che l’[ira](/concepts/anger) cessi, poiché provoca piacere al posto del dolore precedente”. Pertanto, le passioni concupiscenti seguono le passioni irascibili.
+
+Al contrario, le passioni concupiscenti riguardano il bene assoluto, mentre le passioni irascibili riguardano un bene limitato, ovvero uno che presenta difficoltà nell’essere realizzato. Poiché quindi il bene assoluto precede il bene limitato, sembra che anche le passioni concupiscenti precedano quelle irascibili.
+
+Rispondo che, nelle passioni concupiscenti, esiste maggiore diversità rispetto alle passioni appartenenti alla facoltà irascibile. Nelle prime infatti troviamo elementi legati al movimento – ad esempio il desiderio – e elementi legati al riposo, come la gioia e la tristezza; nelle seconde, invece, non vi è nulla che riguardi il riposo, ma soltanto ciò che riguarda il movimento. La ragione di ciò è che quando troviamo riposo in qualcosa, non lo consideriamo più come qualcosa di difficile o arduo; mentre proprio questo è l’oggetto della facoltà irascibile. Poiché il riposo rappresenta la fine del movimento, esso occupa un posto precedente nell’ordine delle intenzioni, ma successivo nell’ordine dell’esecuzione. Pertanto, se confrontiamo le passioni appartenenti alla facoltà irascibile con quelle concupiscenti che indicano il riposo nel bene, è evidente che, nell’ordine dell’esecuzione, queste ultime hanno la precedenza: ad esempio, la speranza precede la gioia e ne è la causa, come afferma l’Apostolo (Romani 12:12): “Rallegrarsi nella speranza”. Tuttavia, la passione concupiscente che indica il riposo nel male, ovvero la tristezza, si colloca tra due passioni irascibili: segue la paura – poiché ci sentiamo tristi quando ci troviamo di fronte al male che temevamo – e precede l’atto di rabbia; infatti, il desiderio di vendicarci, che deriva dalla tristezza, è proprio l’inizio dell’ira. Inoltre, poiché riteniamo giusto ripagare il male subito, quando l’uomo arrabbiato riesce a farlo, si rallegra. È quindi evidente che ogni passione irascibile termina in una passione concupiscente che indica il riposo, sia nella gioia che nella tristezza. Se invece confrontiamo le passioni irascibili con quelle concupiscenti che indicano il movimento verso il bene o il male, è chiaro che queste ultime hanno la precedenza: le passioni irascibili, infatti, aggiungono qualcosa alle passioni concupiscenti; proprio come l’oggetto della facoltà irascibile aggiunge l’aspetto dell’arduità o della difficoltà all’oggetto della facoltà concupiscente. La speranza, ad esempio, aggiunge uno sforzo e un innalzamento dello spirito al raggiungimento di un bene difficile; allo stesso modo, la paura aggiunge una sorta di abbattimento dello spirito, a causa della difficoltà nel evitare il male. Pertanto, le passioni irascibili si collocano tra quelle concupiscenti che indicano un movimento verso il bene o il male, e quelle concupiscenti che indicano il riposo nel bene o nel male. È evidente quindi che le passioni irascibili derivino sia dalle passioni concupiscenti che in esse terminino.
+
+Risposta all’Obiezione 1: Questo argomento dimostrerebbe che, se l’oggetto formale della facoltà concupiscibile fosse qualcosa di contrario a ciò che è arduo, così come l’oggetto formale della facoltà irascibile è proprio ciò che è arduo; tuttavia, poiché l’oggetto della facoltà concupiscibile è il bene in sé, esso naturalmente precede l’oggetto della facoltà irascibile, così come il generale precede il particolare.
+
+Risposta all’Obiezione 2: Colui che rimuove un ostacolo non agisce in modo diretto, ma in modo accidentale; e qui stiamo parlando di passioni che sono direttamente collegate tra loro. Inoltre, la passione irascibile elimina l’ostacolo che impedisce alla passione concupiscente di riposare sul proprio oggetto. Pertanto, ne consegue soltanto che le passioni irascibili precedono quelle concupiscenti che implicano uno stato di tranquillità. Anche il terzo argomento porta alla stessa conclusione.
 
 <span class="atom-split" data-atom="018" data-title="Whether love is the first of the concupiscible passions?" data-chapter="Whether love is the first of the concupiscible passions?" data-kind="atom" data-srclang="en"></span>
 
@@ -820,6 +1034,24 @@ good as towards its proper object; its movement from evil results from this. For
 the appetitive part is in proportion, not to natural movement, but to the intention of nature, which
 intends the end before intending the removal of a contrary, which removal is desired only for the
 sake of obtaining the end.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la speranza non sia la prima tra le passioni irascibili. Poiché la facoltà irascibile prende il nome dall’[ira](/concepts/anger), e poiché “le cose ricevono i loro [nomi](/positions/nominalism) in base alla loro caratteristica principale” (cfr. A[2], OBJ[1]), sembra che l’ira preceda e superi la speranza.
+
+Obiezione 2: Inoltre, l’oggetto della facoltà irascibile è qualcosa di arduo da superare. Sembra infatti più difficile sforzarsi di vincere un male contrario che minaccia di colpirci imminentemente – il che richiede coraggio – o un male già presente, il che riguarda l’ira – piuttosto che semplicemente cercare di ottenere del bene. Inoltre, sembra ancora più arduo sforzarsi di superare un male presente rispetto a uno futuro. Pertanto, l’ira sembrerebbe essere una passione più intensa del coraggio, e il coraggio, a sua volta, della speranza. Di conseguenza, sembra che la speranza non preceda queste altre passioni.
+
+Obiezione 3: Inoltre, quando una cosa viene spinta verso un fine, il movimento di allontanamento precede il movimento di avvicinamento. Ma la paura e la disperazione implicano un allontanamento da qualcosa; mentre il coraggio e la speranza implicano un avvicinamento a qualcosa. Pertanto, la paura e la disperazione precedono il coraggio e la speranza.
+
+Al contrario, più una cosa è vicina alla prima di tutte, più essa precede le altre. Ma la speranza è più vicina all’amore, che è la prima delle passioni; pertanto, la speranza è la prima delle passioni nell’ambito della facoltà irascibile.
+
+Rispondo che, come già detto sopra (A[1]), tutte le passioni irascibili implicano un movimento verso qualcosa. Ora, questo movimento della facoltà irascibile può essere dovuto a due cause: una è la semplice idoneità o proporzione rispetto all’obiettivo desiderato; ciò riguarda l’amore o l’odio, quando l’oggetto di essi è il bene o il male, e appartiene alla tristezza o alla gioia. Infatti, la presenza del bene non suscita alcuna passione nella facoltà irascibile, come affermato sopra (Q[23], AA[3],4); al contrario, la presenza del male genera la passione dell’ira. Poiché, quindi, in termini di origine o attuazione, l’idoneità rispetto all’obiettivo precede la sua realizzazione, ne consegue che, tra tutte le passioni irascibili, l’ira sia l’ultima nell’ordine di nascita. Tra le altre passioni della facoltà irascibile che implicano un movimento derivante dall’amore per il bene o dall’odio per il male, quelle il cui oggetto è il bene – cioè la speranza e la disperazione – devono naturalmente precedere quelle il cui oggetto è il male, ovvero il coraggio e la paura; tuttavia, la speranza precede la disperazione: poiché la speranza è un movimento verso il bene in sé, che è essenzialmente attraente, quindi tende direttamente al bene; mentre la disperazione è un movimento lontano dal bene, un movimento che è coerente con il bene non in sé, ma rispetto a qualcos’altro, per cui la sua tendenza verso il bene è accidentale, per così dire. Allo stesso modo, la paura, essendo un movimento lontano dal male, precede il coraggio. E che la speranza e la disperazione precedano naturalmente la paura e il coraggio è evidente dal fatto che, poiché il desiderio di bene è la ragione per evitare il male, così la speranza e la disperazione sono le ragioni della paura e del coraggio: il coraggio nasce dalla speranza di vittoria, mentre la paura nasce dalla disperazione di riuscire. Infine, l’ira nasce dal coraggio; poiché nessuno si arrabbia mentre cerca vendetta, a meno che non abbia il coraggio di farlo, come osserva Avicenna nel sesto libro della sua “Fisica”. Pertanto, è evidente che la speranza sia la prima di tutte le passioni irascibili. E se vogliamo conoscere l’ordine di nascita di tutte le passioni, allora amore e odio vengono per primi; desiderio e avversione, per secondi; speranza e disperazione, per terzi; paura e coraggio, per quarti; ira, per quinti; infine gioia e tristezza, che derivano da tutte le altre passioni, come affermato nell’“Etica” ii, 5; tuttavia, l’amore precede l’odio; il desiderio precede l’avversione; la speranza precede la disperazione; la paura precede il coraggio; e la gioia precede la tristezza, come si può dedurre da quanto detto sopra.
+
+Risposta all’Obiezione 1: Poiché la rabbia sorge dalle altre passioni, come effetto delle cause che la precedono, è proprio dalla rabbia, in quanto più evidente rispetto alle altre passioni, che questa forza prende il suo nome.
+
+Risposta all’Obiezione 2: Non è la difficoltà, ma il bene a costituire il motivo dell’interesse o del desiderio. Pertanto, la speranza, che riguarda direttamente il bene, ha la precedenza; anche se talvolta l’audacia o persino la rabbia possono spingere verso qualcosa di più difficile.
+
+Risposta all’Obiezione 3: Il movimento dell’appetito è essenzialmente e direttamente rivolto al bene, in quanto suo oggetto proprio; il suo movimento verso il male deriva da questo stesso principio. Infatti, il movimento della parte appetitiva è proporzionale non al movimento naturale, ma all’intento della natura stessa, che mira prima all’ottenimento dell’fine desiderato e solo in seguito all’allontanamento di ciò che vi si oppone, e tale allontanamento è auspicabile esclusivamente al fine di raggiungere l’obiettivo prefissato.
 
 <span class="atom-split" data-atom="020" data-title="Whether these are the four principal passions: joy, sadness, hope and fear?" data-chapter="Whether these are the four principal passions: joy, sadness, hope and fear?" data-kind="atom" data-srclang="en"></span>
 
@@ -975,6 +1207,25 @@ Reply to Objection 3: Although love does not denote the movement of the appetite
 towards the appetible object, yet it denotes that movement whereby the appetite is changed by the
 appetible object, so as to have complacency therein.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’amore non sia una passione. Infatti, nessuna forza può essere considerata una passione. Ma ogni forma di amore è senz’altro una forza, come afferma Dionisio nel “Divine Nomina” iv. Pertanto, l’amore non è una passione.
+
+Obiezione 2: Inoltre, l’amore è un tipo di unione o legame, come afferma [Agostino](/figures/augustine) (De Trinitate viii, 10).  
+Ma un’unione o legame non è una passione, bensì una relazione. Pertanto, l’amore non è una passione.
+
+Obiezione 3: Inoltre, Damasceno afferma (De Fide Orth. ii, 22) che la passione è un movimento. Ma l’amore non implica il movimento dell’appetito; poiché questo rappresenta il desiderio, e l’amore ne è il principio. Pertanto, l’amore non è una passione.
+
+Al contrario, il Filosofo afferma (Etica, VIII, 5) che “l’amore è una passione”.
+
+Rispondo che la Passione è l’effetto dell’agente sul soggetto. Ora, un agente naturale produce su tale soggetto un doppio effetto: innanzitutto gli conferisce una determinata forma; in secondo luogo, gli dona il movimento che deriva da quella forma. Pertanto, l’agente generatore conferisce al corpo prodotto sia il peso che il movimento derivante dal peso stesso; quindi il peso, essendo il principio del movimento verso il luogo che è connaturale a quel corpo per via del suo peso, può in un certo senso essere chiamato “amore naturale”. Allo stesso modo, l’oggetto desiderabile conferisce all’appetito, innanzitutto, una certa adattazione a sé stesso, che consiste nella soddisfazione derivante da quell’oggetto; da questa soddisfazione deriva poi il movimento verso tale oggetto. Infatti, “il movimento appetitivo è circolare”, come si afferma nel De Anima iii, 10: l’oggetto desiderabile infatti muove l’appetito, introducendosi in qualche modo nella sua intenzione; mentre l’appetito si dirige verso la realizzazione di quell’oggetto, in modo che il movimento termini nel punto da cui è iniziato. Pertanto, il primo cambiamento che l’oggetto desiderabile provoca nell’appetito viene chiamato “amore” e non è altro che quella soddisfazione derivante da quell’oggetto; da questa soddisfazione deriva poi un movimento verso lo stesso oggetto, e questo movimento è il “desiderio”; infine, c’è la quiete, che è la “gioia”. Poiché l’amore consiste quindi in un cambiamento prodotto nell’appetito dall’oggetto desiderabile, è evidente che l’amore sia una Passione: propriamente detta, quando si manifesta nella facoltà concupiscibile; in senso più ampio e esteso, quando riguarda la volontà.
+
+Risposta all’Obiezione 1: Poiché il potere indica un principio di movimento o azione, Dionigi definisce l’amore un potere, nella misura in cui esso rappresenta un principio di stimolo nell’appetito umano.
+
+Risposta all’Obiezione 2: L’unione appartiene all’amore in quanto, a causa della soddisfazione dei desideri, l’amante si trova in una relazione con ciò che ama, come se esso fosse lui stesso o una parte di lui. È quindi evidente che l’amore non sia la stessa relazione di unione, ma che l’unione sia il risultato dell’amore. Per questo motivo Dionigi afferma che “l’amore è una forza unificante” (Div. Nom. iv), e il Filosofo dice (Politica ii, 1) che l’unione è opera dell’amore.
+
+Risposta all’Obiezione 3: Sebbene l’amore non indichi il movimento dell’appetito verso l’oggetto desiderabile, esso indica tuttavia quel movimento attraverso cui l’appetito viene modificato dall’oggetto stesso, al punto di provare soddisfazione in sua presenza.
+
 <span class="atom-split" data-atom="023" data-title="Whether love is the same as dilection?" data-chapter="Whether love is the same as dilection?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that love is the same as dilection. For Dionysius says (Div. Nom.
@@ -1025,6 +1276,26 @@ judgment of reason. But it is possible for man to tend to God by love, being as 
 drawn by Him, more than he can possibly be drawn thereto by his reason, which pertains to the
 nature of dilection, as stated above. And consequently love is more Godlike than dilection.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che amore e dilezione siano la stessa cosa. Infatti Dionisio afferma (Div. Nom. iv) che l’amore rispetto alla dilezione è “come quattro rispetto a due volte due, e come una figura rettilinea rispetto a una composta da linee rette”. Ma queste espressioni hanno lo stesso significato; pertanto amore e dilezione indicano la stessa realtà.
+
+Obiezione 2: Inoltre, i movimenti dell’appetito differiscono in base ai loro oggetti. Tuttavia, gli oggetti dell’ammirazione e dell’amore sono gli stessi. Pertanto, anche questi movimenti sono gli stessi.
+
+Obiezione 3: Inoltre, se la “dilezione” e l’amore differiscono, sembra che tale differenza risieda principalmente nel fatto che, come affermano alcuni, “la dilezione si riferisce alle cose buone, mentre l’amore si riferisce alle cose cattive”, secondo quanto dichiara [Agostino](/figures/augustine) (De Civ. Dei xiv, 7). Tuttavia, questa differenza non è effettiva; poiché, come precisa Agostino stesso, la sacra [Scrittura](/concepts/revelation) utilizza entrambi i termini per riferirsi sia a cose buone che a cose cattive. Pertanto, amore e dilezione non differiscono: ed è proprio su questo punto che Agostino conclude (De Civ. Dei xiv, 7) che “non si tratta di due concetti diversi quando si parla di amore o di dilezione”.
+
+Al contrario, Dionisio afferma (Div. Nom. iv) che “alcuni saggi ritengono che l’amore significhi qualcosa di più divino rispetto all’affetto ordinario”.
+
+Rispondo che esistono quattro termini che, in qualche modo, si riferiscono alla stessa cosa: amore, dilezione, carità e amicizia. Tuttavia, essi differiscono nel seguente senso: l’amicizia, secondo il Filosofo (Etica viii, 5), “è simile a un’abitudine”, mentre amore e dilezione vengono espressi in termini di atto o passione; la carità, invece, può essere intesa sia in senso di abitudine che di atto. Inoltre, questi tre termini esprimono l’atto in modi diversi: l’amore ha un significato più ampio rispetto agli altri, poiché ogni forma di dilezione o carità è amore, ma non il contrario. La dilezione, infatti, implica, oltre all’amore, una scelta premeditata; pertanto appartiene soltanto alla volontà e alla natura razionale dell’uomo. La carità, invece, indica una forma più perfetta di amore, quando ciò che viene amato è considerato di grande valore, come suggerisce il significato stesso del termine.
+
+Risposta all’Obiezione 1: Dionigi si riferisce all’amore e alla dilezione nel senso in cui essi appartengono all’appetito intellettuale; infatti, in questo contesto, amore e dilezione sono la stessa cosa.
+
+Risposta all’Obiezione 2: L’oggetto dell’amore è più generale di quello della preferenza affettuosa; infatti, l’amore si estende a cose che la preferenza affettuosa non include, come già detto in precedenza.
+
+Risposta all’Obiezione 3: Amore e dilezione differiscono non in termini di bene e male, ma come già detto. Tuttavia, nella facoltà intellettuale, amore e dilezione sono la stessa cosa. È in questo senso che Agostino parla d’amore nel passaggio citato; poco più avanti aggiunge infatti che “una volontà retta è un amore ben diretto, mentre una volontà errata è un amore mal diretto”. Tuttavia, il fatto che l’amore, essendo una passione concupiscente, spinga molte persone verso il male, è proprio la ragione per cui alcuni hanno individuato questa differenza tra amore e dilezione.
+
+Risposta all’Obiezione 4: Il motivo per cui alcuni ritenevano che, anche quando applicata alla volontà stessa, la parola “amore” indicasse qualcosa di più divino rispetto a “dilezione”, era perché l’amore rappresenta una passione, soprattutto nel senso in cui riguarda il desiderio sensibile; mentre la dilezione presuppone il giudizio della ragione. Tuttavia, è possibile che l’uomo tenda verso Dio attraverso l’amore, essendo come se fosse attirato passivamente da Lui, più di quanto possa essere attratto dalla sua ragione, che appartiene alla natura della dilezione, come detto sopra. E pertanto, l’amore è più divino della dilezione.
+
 <span class="atom-split" data-atom="024" data-title="Whether love is properly divided into love of friendship and love of concupiscence?" data-chapter="Whether love is properly divided into love of friendship and love of concupiscence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that love is not properly divided into love of [friendship](/concepts/friendship) and love
@@ -1070,6 +1341,23 @@ wish his friend some good: and in this respect the character of friendship is pr
 he refers this good further to his own pleasure or use, the result is that friendship of the useful or
 pleasant, in so far as it is connected with love of concupiscence, loses the character to true friendship.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’amore non possa essere correttamente suddiviso in amore per la [amicizia](/concepts/friendship) e amore dovuto alla concupiscenza. Infatti, secondo il Filosofo (“Etica”, viii, 5), “l’amore è una passione, mentre l’amicizia è un’[abitudine](/concepts/custom)”. Ma un’abitudine non può costituire un elemento di una divisione delle passioni. Pertanto, l’amore non può essere effettivamente suddiviso in amore dovuto alla concupiscenza e amore per laamicizia.
+
+Obiezione 2: Inoltre, una cosa non può essere divisa da un altro elemento appartenente alla stessa categoria di classificazione; infatti l’uomo non appartiene alla stessa categoria dell’“animale”. Ma la concupiscenza appartiene alla stessa categoria dell’amore, essendo un sentimento distinto dall’amore stesso. Pertanto, la concupiscenza non costituisce una sottocategoria dell’amore.
+
+Obiezione 3: Inoltre, secondo il Filosofo (Etica viii, 3), l’amicizia è di tre tipi: quella basata sulla “utilità”, quella basata sul “piacere” e quella basata sulla “bontà”. Tuttavia, un’amicizia basata sull’utilità o sul piacere non può prescindere dalla concupiscenza. Pertanto, la concupiscenza non dovrebbe essere contrapposta all’amicizia.
+
+Al contrario, si dice che amiamo certe cose perché le desideriamo: così, “si dice che un uomo ami il vino a causa della sua dolcezza che desidera”; come affermato nel Topic ii, 3. Tuttavia non proviamo alcuna affinità o affetto per il vino e simili cose, come indicato nell’Etica viii, 2. Pertanto, l’amore derivante dalla concupiscenza è diverso dall’amore basato sull’affetto sincero.
+
+Rispondo che, come afferma il Filosofo (Retorica ii, 4), “amare significa desiderare il bene per qualcuno”. Pertanto, l’atto dell’amore presenta una doppia tendenza: da un lato, verso il bene che si desidera per qualcun altro o per se stessi; dall’altro lato, verso ciò di cui si desidera il bene. Di conseguenza, l’uomo prova amore per il bene che desidera offrire ad altri attraverso l’amore fraterno, e amore per colui verso il quale desidera esprimere questo bene attraverso l’amore amicale.  
+I membri di questa classificazione sono considerati primari e secondari: ciò che viene amato con l’amore fraterno viene infatti amato in sé stesso e per se stesso; mentre ciò che viene amato con l’amore concupiscente viene amato non semplicemente per sé, ma in relazione a qualcos’altro. Proprio come ciò che esiste è un essere in sé, mentre ciò che esiste in un altro è un essere relativo; allo stesso modo, poiché il bene è collegabile all’esistenza, il bene che possiede intrinsecamente la propria bontà è considerato “bene semplice”; mentre il bene che appartiene ad altri è considerato “bene relativo”. Di conseguenza, l’amore che si prova per qualcosa al fine di farne derivare un qualche bene è un amore “semplice”; mentre l’amore che si prova per qualcosa al fine che diventi il bene di un altro è un amore “relativo”.
+
+Risposta all’Obiezione 1: L’amore non si divide in amicizia e concupiscenza, ma in amore per l’amicizia e amore per la concupiscenza. Infatti, un amico è, in senso proprio, colui verso il quale desideriamo il bene; mentre ciò che desideriamo per noi stessi costituisce, propriamente parlando, l’oggetto della nostra concupiscenza. Ecco quindi la risposta anche alla Seconda Obiezione.
+
+Risposta all’Obiezione 3: Quando l’amicizia si basa sull’utilità o sul piacere, un uomo desidera davvero il bene per il proprio amico; in questo senso, il carattere dell’amicizia viene mantenuto. Tuttavia, poiché tale desiderio è legato al proprio piacere o utilità personale, l’amicizia basata sull’utilità o sul piacere, nella misura in cui è connessa all’amore per i piaceri sensuali, perde il carattere dell’amicizia vera e propria.
+
 <span class="atom-split" data-atom="025" data-title="OF THE CAUSE OF LOVE (FOUR ARTICLES)" data-chapter="OF THE CAUSE OF LOVE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the cause of love: and under this head there are four points of inquiry:
@@ -1077,6 +1365,14 @@ We must now consider the cause of love: and under this head there are four point
 (2) Whether knowledge is a cause of love?
 (3) Whether likeness is a cause of love?
 (4) Whether any other passion of the soul is a cause of love?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la causa dell’amore: e in questo ambito ci sono quattro punti da esaminare:
+(1) Il bene è l’unica causa dell’amore?
+(2) La conoscenza è una causa dell’amore?
+(3) La somiglianza è una causa dell’amore?
+(4) Esiste qualche altra passione dell’anima che possa essere considerata causa dell’amore?
 
 <span class="atom-split" data-atom="026" data-title="Whether good is the only cause of love?" data-chapter="Whether good is the only cause of love?" data-kind="atom" data-srclang="en"></span>
 
@@ -1169,6 +1465,24 @@ Reply to Objection 3: Even natural love, which is in all things, is caused by a 
 not indeed existing in natural things themselves, but in Him Who created their nature, as stated
 above (Q[26], A[1]; cf. FP, Q[6], A[1], ad 2).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la conoscenza non sia la causa dell’amore. Infatti, è a causa dell’amore che qualcosa viene cercato. Tuttavia, alcune cose vengono cercate senza essere conosciute, ad esempio le scienze; poiché “possederle equivale a conoscerle”, come dice [Agostino](/figures/augustine) (QQ[83], qu. 35), se le conoscessimo già, le possedremmo e non le cercheremmo più. Pertanto, la conoscenza non è la causa dell’amore.
+
+Obiezione 2: Inoltre, amare ciò che non conosciamo sembrerebbe significare amare qualcosa di più di quanto lo conosciamo realmente. Tuttavia, alcune cose vengono amate anche quando non vengono completamente comprese: è così, ad esempio, con Dio in questa vita: possiamo amarlo per ciò che Egli è, ma non possiamo conoscerlo appieno nella Sua essenza. Pertanto, la conoscenza non è la causa dell’amore.
+
+Obiezione 3: Inoltre, se la conoscenza fosse la causa dell’amore, non ci sarebbe amore dove non c’è conoscenza. Ma in tutte le cose esiste amore, come afferma Dionisio (Div. Nom. iv); mentre non in tutte le cose esiste conoscenza. Pertanto, la conoscenza non è la causa dell’amore.
+
+Al contrario, Agostino dimostra (De Trinitate, X, 1,2) che “nessuno può amare ciò che non conosce”.
+
+Rispondo che, come già detto sopra (A[1]), il bene è la causa dell’amore, in quanto ne rappresenta l’oggetto. Tuttavia, il bene non è l’oggetto del desiderio se non nella misura in cui viene percepito o compreso. Pertanto, l’amore richiede necessariamente una qualche forma di comprensione del bene amato. Per questo motivo, il Filosofo (Etica, IX, 5, 12) afferma che la vista corporea è l’inizio dell’amore sensibile; allo stesso modo, la contemplazione della bellezza o della bontà spirituale costituisce l’inizio dell’amore spirituale. Di conseguenza, la conoscenza è la causa dell’amore per lo stesso motivo per cui lo è il bene: infatti, ciò che può essere amato deve prima essere conosciuto.
+
+Risposta all’Obiezione 1: Chi cerca la scienza non è del tutto privo di conoscenze al riguardo; possiede già alcune informazioni su di essa, in qualche modo – sia in termini generali che riguardo ad alcuni dei suoi effetti, oppure perché ne ha sentito parlare in termini positivi, come afferma Agostino (De Trinitate, x, 1,2). Tuttavia, possederla non significa conoscerla in questo modo, ma conoscerla perfettamente.
+
+Risposta all’Obiezione 2: Per la perfezione della conoscenza è necessario qualcosa che non è indispensabile per la perfezione dell’amore. La conoscenza, infatti, appartiene alla ragione, la cui funzione consiste nel distinguere ciò che nella realtà è unito e, in un certo senso, nel collegare tra loro ciò che è distinto, confrontandoli tra loro. Pertanto, per la perfezione della conoscenza è necessario che l’uomo conosca chiaramente tutte le componenti di una cosa, come le sue parti, i suoi poteri e le sue proprietà. Dall’altra parte, l’amore appartiene alla facoltà appetitiva, che considera una cosa così com’è in sé stessa; pertanto, per la perfezione dell’amore è sufficiente che una cosa venga amata secondo ciò che si conosce di essa. Ed è proprio per questo motivo che una cosa viene spesso amata più di quanto venga conosciuta: poiché può essere amata perfettamente anche senza essere conosciuta perfettamente. Questo è particolarmente evidente nel caso delle scienze, che alcune persone amano semplicemente possedendo una conoscenza generale di esse; ad esempio, sanno che la retorica è una scienza che permette all’uomo di persuadere gli altri, ed è proprio questo aspetto della retorica che amano. Lo stesso vale per l’amore di Dio.
+
+Risposta all’Obiezione 3: Anche l’amore naturale, che esiste in tutte le cose, è causato da una sorta di conoscenza; questa conoscenza, tuttavia, non esiste nelle cose stesse, ma in Colui che ha creato la loro natura, come già detto sopra (Q[26], A[1]; cfr. FP, Q[6], A[1], ad 2).
+
 <span class="atom-split" data-atom="028" data-title="Whether likeness is a cause of love?" data-chapter="Whether likeness is a cause of love?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that likeness is not a cause of love. For the same thing is not the
@@ -1232,6 +1546,26 @@ all men have these virtues in the complete [habit](/concepts/custom), yet they h
 principles in the reason, in force of which principles the man who is not virtuous loves the virtuous
 man, as being in conformity with his own natural reason.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la somiglianza non sia una causa d’amore. Infatti, la stessa cosa non può essere la causa di contrari; inoltre, la somiglianza è proprio la causa dell’odio, poiché si legge (Proverbi 13:10) che “tra gli orgogliosi ci sono sempre liti”, e il Filosofo afferma (Etica viii, 1) che “i ceramisti litigano tra loro”. Pertanto, la somiglianza non è una causa d’amore.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (Confessioni, iv, 14) che “un uomo ama nell’altro ciò che non vorrebbe essere lui stesso; quindi ama un attore, ma non vorrebbe lui stesso diventare un attore”. Tuttavia, se la somiglianza fosse la vera causa dell’amore, le cose andrebbero diversamente: in tal caso, un uomo amerebbe nell’altro ciò che possiede o desidera possedere. Pertanto, la somiglianza non è una causa dell’amore.
+
+Obiezione 3: Inoltre, ognuno ama ciò di cui ha bisogno, anche se non lo possiede; così un uomo malato ama la salute, e un uomo povero ama le ricchezze. Ma nella misura in cui ne ha bisogno e le manca, è diverso da esse. Pertanto, sia la somiglianza che la differenza sono cause di amore.
+
+Obiezione 4: Inoltre, il Filosofo afferma (Rhetorica ii, 4) che “amiamo coloro che ci donano denaro e salute; e anche coloro che mantengono la loro [amicizia](/concepts/friendship) anche dopo la morte di noi”. Ma non tutti sono così. Pertanto, la somiglianza non è una causa dell’amore.
+
+Al contrario, è scritto (Ecclesiaste 13:19): “Ogni animale ama ciò che è simile a sé”.
+
+Rispondo che, per definizione, la somiglianza è una causa di amore. Tuttavia va osservato che esistono due tipi di somiglianza tra le cose: uno deriva dal fatto che entrambe possiedano effettivamente la stessa qualità; ad esempio, due oggetti bianchi sono considerati simili perché condividono la stessa proprietà. Un altro tipo di somiglianza nasce dal fatto che un oggetto possieda potenzialmente una qualità che l’altro ha effettivamente; per esempio, un corpo pesante situato fuori dal suo luogo naturale può essere considerato simile a un altro corpo pesante che si trova nel proprio luogo. Inoltre, la potenzialità stessa presenta una sorta di somiglianza con il proprio atto, poiché l’atto è in qualche modo contenuto nella potenzialità stessa. Il primo tipo di somiglianza genera amore basato sull’amicizia o sul desiderio di bene; il fatto che due persone siano simili, possedendo cioè la stessa natura, le rende, in un certo senso, una cosa sola. Pertanto, i sentimenti di uno verso l’altro tendono ad essere positivi, poiché si considerano parte della stessa entità. Al contrario, il secondo tipo di somiglianza genera amore basato sulla concupiscenza o su interessi utilitaristici o piacevoli; ciò che è potenzialmente desiderabile suscita infatti un desiderio di realizzazione, soprattutto se si tratta di esseri dotati di sensibilità e capacità cognitive. Come già accennato in precedenza (Q[26], A[4]), nell’amore basato sulla concupiscenza, colui che ama, in realtà, ama se stesso nel desiderare il bene che anela. Tuttavia, un uomo ama se stesso più di un altro, poiché con sé stesso è sostanzialmente uno; con l’altro, invece, è uno soltanto per via della somiglianza in una determinata qualità. Pertanto, se la somiglianza dell’altro ostacola il raggiungimento del bene che si desidera, quell’altro diventa oggetto di odio, non perché sia simile a noi, ma perché ci impedisce di ottenere ciò che è nostro. Ecco perché i ceramisti litigano tra loro, poiché si ostacolano a vicenda nel realizzare i propri obiettivi; allo stesso modo, i vanitosi sono soggetti a conflitti, poiché si impediscono reciprocamente di raggiungere le posizioni che desiderano. Ecco quindi la risposta alla prima obiezione.
+
+Risposta all’Obiezione 2: Anche quando un uomo ama in un altro ciò che non ama in se stesso, esiste una certa somiglianza di proporzione: poiché, come il secondo è rispetto a ciò che viene amato in lui, così anche il primo è rispetto a ciò che ama in sé stesso. Ad esempio, se un buon cantante ama un buon scrittore, possiamo riconoscere una somiglianza di proporzione, poiché entrambi possiedono qualità adatte alla loro rispettiva arte.
+
+Risposta all’Obiezione 3: Chi ama ciò di cui ha bisogno presenta una somiglianza con ciò che ama, proprio come la potenzialità presenta una somiglianza con il suo atto, come già detto in precedenza.
+
+Risposta all’Obiezione 4: Secondo la stessa analogia tra potenzialità e atto, l’uomo illiberale ama l’uomo liberale nella misura in cui si aspetta da lui qualcosa che desidera; lo stesso vale per l’uomo costante nelle sue amicizie rispetto a colui che è incostante. In entrambi i casi, infatti, l’amicizia sembra basarsi sull’utilità reciproca. Si potrebbe anche dire che, sebbene non tutti gli uomini possiedano queste virtù in modo completo, le possiedono comunque secondo determinati principi innati presenti nella ragione; per effetto di questi principi, l’uomo non virtuoso ama l’uomo virtuoso, poiché quest’ultimo è in armonia con la sua stessa natura razionale.
+
 <span class="atom-split" data-atom="029" data-title="Whether any other passion of the soul is a cause of love?" data-chapter="Whether any other passion of the soul is a cause of love?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that some other passion can be the cause of love. For the Philosopher
@@ -1269,6 +1603,24 @@ causes pleasure; and by reason of desire, because hope strengthens desire, since
 so intensely that which we have no hope of receiving. Nevertheless hope itself is of a good that is
 loved.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra possibile che qualche altra passione possa essere la causa dell’amore. Infatti, il Filosofo (Etica viii, 3) afferma che alcune persone vengono amate per il piacere che procurano; e il piacere è una passione. Pertanto, un’altra passione può essere la causa dell’amore.
+
+Obiezione 2: Inoltre, il desiderio è una passione. Amiamo alcune persone perché desideriamo ricevere qualcosa da loro: come avviene in ogni [amicizia](/concepts/friendship) basata sull’utilità reciproca. Pertanto, un’altra passione rappresenta la causa dell’amore.
+
+Obiezione 3: Inoltre, [Agostino](/figures/augustine) afferma (De Trin. x, 1): “Quando non abbiamo alcuna speranza di ottenere qualcosa, lo amiamo solo a metà cuore o addirittura per nulla, anche se vediamo quanto sia bello.” Pertanto, anche la speranza è una causa dell’amore.
+
+Al contrario, tutte le altre emozioni dell’anima sono causate dall’amore, come afferma Agostino (De Civitate Dei, XIV, 7, 9).
+
+Rispondo che non esiste alcuna altra passione dell’anima che non presupponga, in qualche modo, l’amore. Il motivo è che ogni altra passione dell’anima implica o un movimento verso qualcosa o un riposo in qualcosa; e ogni movimento verso qualcosa, o riposo in qualcosa, deriva da una sorta di affinità o predisposizione verso quella cosa; ed è proprio in questo che consiste l’amore. Pertanto, non è possibile che alcuna altra passione dell’anima sia universalmente la causa di ogni forma d’amore. Tuttavia, può accadere che un’altra passione sia la causa di un particolare tipo di amore, proprio come un bene può essere la causa di un altro bene.
+
+Risposta all’Obiezione 1: Quando un uomo ama qualcosa per il piacere che essa gli procura, il suo amore è effettivamente causato da quel piacere; ma tale piacere, a sua volta, è determinato da un altro amore precedente; infatti, nessuno prova piacere se non in ciò che viene amato in qualche modo.
+
+Risposta all’Obiezione 2: Il desiderio per qualcosa presuppone sempre l’amore per quella cosa. Tuttavia, il desiderio di una cosa può essere la causa dell’amare un’altra cosa; pertanto, colui che desidera denaro ama, per questo motivo, chi glielo fornisce.
+
+Risposta all’Obiezione 3: La speranza causa o aumenta l’amore; sia per via del piacere che essa provoca, sia perché rafforza il desiderio, poiché non desideriamo con tanta intensità ciò di cui non abbiamo alcuna speranza di ottenere. Tuttavia, la speranza stessa riguarda un bene che è amato.
+
 <span class="atom-split" data-atom="030" data-title="OF THE EFFECTS OF LOVE (SIX ARTICLES)" data-chapter="OF THE EFFECTS OF LOVE (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now have to consider the effects of love: under which head there are six points of inquiry:
@@ -1278,6 +1630,16 @@ We now have to consider the effects of love: under which head there are six poin
 (4) Whether zeal is an effect of love?
 (5) Whether love is a passion that is hurtful to the lover?
 (6) Whether love is cause of all that the lover does?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare gli effetti dell’amore: in questa categoria esistono sei punti di indagine:
+(1) Il fatto che l’unione sia un effetto dell’amore;
+(2) Il fatto che la condivisione reciproca sia un effetto dell’amore;
+(3) Il fatto che l’estasi sia un effetto dell’amore;
+(4) Il fatto che lo zelo sia un effetto dell’amore;
+(5) Il fatto che l’amore sia una passione dannosa per colui che la prova;
+(6) Il fatto che l’amore sia la causa di tutto ciò che colui che la prova fa.
 
 <span class="atom-split" data-atom="031" data-title="Whether union is an effect of love?" data-chapter="Whether union is an effect of love?" data-kind="atom" data-srclang="en"></span>
 
@@ -1337,6 +1699,25 @@ Reply to Objection 3: Knowledge is perfected by the thing known being united, th
 likeness, to the knower. But the effect of love is that the thing itself which is loved, is, in a way,
 united to the lover, as stated above. Consequently the union caused by love is closer than that which
 is caused by knowledge.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’unione non sia un effetto dell’amore, poiché l’assenza è incompatibile con l’unione. Ma l’amore è compatibile con l’assenza; infatti l’Apostolo dice (Galati 4:18): “Siate sempre zelosi di ciò che è buono, soprattutto quando sono presente tra voi” (si riferisce a se stesso, secondo un commento). Pertanto, l’unione non è un effetto dell’amore.
+
+Obiezione 2: Inoltre, ogni unione può essere di natura essenziale – in tal caso la forma è unita alla materia, l’accidente al soggetto, o una parte al tutto – oppure basata sulla somiglianza, nel genere, nella specie o nell’accidente. Ma l’amore non causa un’unione di natura essenziale; altrimenti potrebbe esistere amore tra cose essenzialmente distinte. D’altra parte, l’amore non deriva nemmeno da una somiglianza, ma è piuttosto causato da essa, come già detto sopra (Q[27], A[3]). Pertanto, l’unione non è un effetto dell’amore.
+
+Obiezione 3: Inoltre, ciò che è sensibile nell’atto è proprio ciò che viene effettivamente percepito; allo stesso modo, ciò che viene compreso intellettualmente nell’atto è proprio ciò che viene effettivamente inteso. Tuttavia, l’amante nell’atto non è la persona amata nell’atto. Pertanto, l’unione tra due persone deriva piuttosto dalla conoscenza che dall’amore.
+
+Al contrario, Dionisio afferma (Div. Nom. iv) che ogni amore è un “amore unitivo”.
+
+Rispondo che l’unione tra amante e amata è di due tipi. Il primo è un’unione reale; ad esempio, quando l’amata è presente accanto all’amante. Il secondo è un’unione basata sull’affetto: e questa unione deve essere considerata in relazione alla percezione precedente dell’oggetto amato; infatti, il desiderio nasce da tale percezione. Ora, poiché l’amore è di due tipi – cioè amore concupiscente e amore fraterno – ognuno di essi deriva da una certa concezione dell’unità tra l’oggetto amato e l’amante stesso. Quando amiamo qualcosa, desiderandola, la consideriamo come qualcosa che contribuisce al nostro bene. Allo stesso modo, quando un uomo ama un altro con amore fraterno, desidera il suo bene proprio come desidera il proprio; perciò concepisce l’altro come “un altro sé”, nella misura in cui desidera il suo bene come se fosse il proprio. Da qui deriva l’espressione secondo cui un amico è chiamato “l’altro sé” di una persona (Etica, IX, 4); e Agostino afferma (Confessioni, IV, 6): “Bene disse colui che disse al suo amico: ‘Tu sei metà della mia anima’”.  
+La prima di queste unioni è causata “effettivamente” dall’amore; poiché l’amore spinge l’uomo a desiderare e cercare la presenza dell’amata, come se fosse qualcosa di appropriato e necessario per il proprio bene. La seconda unione è causata “formalmente” dall’amore stesso; poiché l’amore costituisce in sé questa unione o legame tra amante e amata. In questo senso, Agostino dice (De Trinitate, VIII, 10) che “l’amore è un principio vitale che unisce, o cerca di unire, l’amante e l’amata”. Definendolo “unione”, si riferisce all’unione basata sull’affetto; senza di essa non esisterebbe amore. E dicendo che “cerca di unire”, si riferisce all’unione reale tra i due individui.
+
+Risposta all’Obiezione 1: Questo argomento è valido per l’unione reale. Il piacere, infatti, ha necessariamente come sua causa la presenza della persona amata; il desiderio, invece, implica l’assenza reale di tale persona. Ma l’amore rimane invariato, sia che la persona amata sia assente che presente.
+
+Risposta all’Obiezione 2: L’unione presenta una triplice relazione rispetto all’amore. Esiste un’unione che genera amore; si tratta dell’unione sostanziale, nel caso dell’amore che si prova per se stessi; mentre nell’amore che si prova per altre cose, si tratta dell’unione basata sulla somiglianza, come già detto sopra (Q[27], A[3]). Esiste inoltre un’unione che è essenzialmente amore stesso: questa unione deriva da un legame affettivo e può essere paragonata all’unione sostanziale, nel senso che il soggetto amante si rapporta all’oggetto del suo amore come a se stesso, qualora si tratti di amore fraterno; oppure come a qualcosa che gli appartiene, qualora si tratti di amore carnale. Infine, esiste un’unione che è effetto dell’amore: si tratta dell’unione reale che il soggetto amante desidera realizzare con l’oggetto del suo amore; tale unione risponde infatti alle esigenze stesse dell’amore, come afferma il Filosofo (Politica ii, 1): “Aristofane sosteneva che gli innamorati desiderassero unirsi in uno solo”, ma poiché ciò comporterebbe la distruzione di uno o entrambi, essi cercano un’unione appropriata e dignitosa: vivere insieme, parlare insieme, unirsi in altre attività simili.
+
+Risposta all’Obiezione 3: La conoscenza si perfeziona quando la cosa conosciuta viene unita, attraverso la sua somiglianza, al conoscitore. Tuttavia l’effetto dell’amore è che la cosa stessa amata viene, in qualche modo, unita all’amante, come già detto sopra. Pertanto, l’unione causata dall’amore è più stretta di quella causata dalla conoscenza.
 
 <span class="atom-split" data-atom="032" data-title="Whether mutual indwelling is an effect of love?" data-chapter="Whether mutual indwelling is an effect of love?" data-kind="atom" data-srclang="en"></span>
 
@@ -1402,6 +1783,24 @@ as was explained above.
 Reply to Objection 3: This argument is true of the third kind of mutual indwelling, which is
 not to be found in every kind of love.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’amore non possa provocare un’interpenetrazione reciproca, in modo che colui che ama sia “dentro” la persona amata e viceversa. Infatti, ciò che è contenuto in un altro essere deve necessariamente trovarsi all’interno di esso stesso. Ma lo stesso oggetto non può contemporaneamente essere contenitore e contenuto. Pertanto, l’amore non può generare un’interpenetrazione reciproca tra amante e amata.
+
+Obiezione 2: Inoltre, nulla può penetrare all’interno di un tutto se non attraverso la sua divisione. Ma è proprio della ragione, e non dell’appetito – dove risiede l’amore – il compito di dividere ciò che in realtà è unito. Pertanto, l’interpenetrarsi reciproco non costituisce un effetto dell’amore.
+
+Obiezione 3: Inoltre, se l’amore implica che l’amante sia “in” colui che ama e viceversa, ne consegue che colui che ama è unito all’amante, nello stesso modo in cui l’amante è unito a colui che ama. Ma questa unione stessa è amore, come già detto sopra (A[1]). Pertanto, ne consegue che l’amante sia sempre amato dall’oggetto del suo amore; il che è ovviamente falso. Quindi, l’unione reciproca non è certo un effetto dell’amore.
+
+Al contrario, è scritto (1 Gv. 4:16): “Chi rimane nell’amore rimane in Dio, e Dio in lui”. Ora, l’amore è l’amore di Dio. Pertanto, per lo stesso motivo, ogni forma di amore fa sì che colui che è amato sia “dentro” colui che ama, e viceversa.
+
+Rispondo che questo effetto di reciproca “inserimento” può essere inteso sia riguardo alla facoltà conoscitiva che a quella desiderativa. Per quanto riguarda la facoltà conoscitiva, si dice che il bene amato sia “dentro” l’amante, poiché rimane nell’immaginazione o nella percezione dell’amante stesso, come si legge in Filosofia 1:7: “Perché ti ho nel mio cuore”. Allo stesso modo, si dice che l’amante sia “dentro” il bene amato, poiché non si accontenta di una conoscenza superficiale di esso, ma cerca di comprendere appieno tutto ciò che lo riguarda, fino a penetrare nella sua stessa anima. Così è scritto del Santo Spirito, che è l’Amore di Dio: “Esamina tutte le cose, persino i segreti di Dio” (1 Corinzi 2:10). Per quanto riguarda la facoltà desiderativa, si dice che l’oggetto amato sia “dentro” l’amante, poiché occupa il suo cuore e suscita in lui piacere o desiderio; sia quando l’oggetto è presente, sia quando ne manca, provocando un anelito verso di esso attraverso l’amore concupiscente o l’amore fraterno. Questo desiderio non deriva da cause esterne, ma dalla radice stessa dell’amore nell’animo dell’amante. Per questo motivo si parla di amore come qualcosa di “intimo”, che “proviene dalle profondità del cuore”. D’altra parte, l’amante è “dentro” il bene amato attraverso l’amore concupiscente e quello fraterno, ma non nello stesso modo. L’amore concupiscente non si accontenta di una possessione o godimento superficiale dell’oggetto amato; cerca piuttosto di possederlo completamente, penetrando nella sua anima. L’amore fraterno, invece, fa sì che l’amante consideri ciò che è buono o cattivo per il proprio amico come se fosse buono o cattivo per sé stesso; quindi sembra che provi gioia o dolore nel nome del proprio amico. Per questo motivo ai veri amici “spetta desiderare le stesse cose, gioire e soffrire insieme”, come afferma il Filosofo (Etica IX, 3; Retorica II, 4). Quindi, nella misura in cui l’amante considera ciò che riguarda il proprio amico come ciò che riguarda sé stesso, sembra essere “dentro” di lui; ma nella misura in cui agisce per il bene del proprio amico come se fosse per il proprio bene, allora è il bene amato a essere “dentro” di lui. In un terzo modo, questo effetto di reciproco “inserimento” nell’amore fraterno può essere inteso anche in relazione all’amore reciproco: poiché gli amici ricambiano l’amore con amore e desiderano entrambi fare del bene l’uno per l’altro.
+
+Risposta all’Obiezione 1: La persona amata è “contenuta” nell’amante, poiché si imprime nel suo cuore e diventa così l’oggetto della sua soddisfazione. D’altra parte, l’amante è “contenuto” nella persona amata, nel senso che, per così dire, penetra in lei. Infatti, nulla impedisce a una cosa di essere allo stesso tempo contenitore e contenuto in modi diversi: proprio come un genere è contenuto nelle sue specie, e viceversa.
+
+Risposta all’Obiezione 2: La comprensione della ragione precede l’espressione dell’amore. Pertanto, proprio come la ragione divide, così anche l’espressione dell’amore penetra nella persona amata, come è stato spiegato in precedenza.
+
+Risposta all’Obiezione 3: Questo argomento è valido per il terzo tipo di reciproca immersione emotiva, che non si riscontra in ogni forma d’amore.
+
 <span class="atom-split" data-atom="033" data-title="Whether ecstasy is an effect of love?" data-chapter="Whether ecstasy is an effect of love?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that ecstasy is not an effect of love. For ecstasy seems to imply
@@ -1450,6 +1849,24 @@ does not cause ecstasy simply.
 Reply to Objection 3: He who loves, goes out from himself, in so far as he wills the good of
 his friend and works for it. Yet he does not will the good of his friend more than his own good: and
 so it does not follow that he loves another more than himself.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’estasi non sia un effetto dell’amore, poiché essa sembra implicare la perdita della ragione. Tuttavia, l’amore non porta sempre alla perdita della ragione: infatti, a volte gli amanti sono padroni di sé stessi. Pertanto, l’amore non causa l’estasi.
+
+Obiezione 2: Inoltre, l’amante desidera che la persona amata si unisca a lui. Pertanto attira la persona amata verso di sé, piuttosto che recarsi lui stesso verso di lei, come se dovesse uscire da se stesso per raggiungerla.
+
+Obiezione 3: Inoltre, l’amore unisce la persona amata all’amante, come già detto sopra (A[1]). Pertanto, se l’amante si distacca da sé stesso per avvicinarsi alla persona amata, ne consegue che l’amante ami sempre di più la persona amata rispetto a sé stesso: il che è ovviamente falso. Quindi, l’estasi non è un effetto dell’amore.
+
+Al contrario, Dionigi afferma (Div. Nom. iv) che “l’amore divino produce estasi” e che “Dio stesso ha provato estasi attraverso l’amore”. Poiché, secondo lo stesso autore (Div. Nom. iv), ogni amore rappresenta una somiglianza partecipata dell’Amore Divino, sembra quindi che ogni amore possa provocare estasi.
+
+Rispondo che soffrire di estasi significa trovarsi al di fuori di sé stesso. Ciò avviene sia per quanto riguarda la facoltà conoscitiva che quella appetitiva. Per quanto riguarda la facoltà conoscitiva, si dice che un uomo si trovi al di fuori di sé quando viene portato oltre la conoscenza propria; ciò può accadere perché viene elevato a una conoscenza più alta: in questo caso, si dice che l’uomo soffra di estasi, poiché viene trascinato al di là della comprensione naturale dei sensi e della ragione, quando cerca di comprendere cose che superano i limiti di tali facoltà. Oppure può accadere perché viene gettato in uno stato di degradazione: in questo caso, si dice che l’uomo soffra di estasi quando viene sopraffatto da passioni violente o dalla follia. Per quanto riguarda la facoltà appetitiva, si dice che un uomo soffra di estasi quando tale facoltà è rivolta verso qualcos’altro, come se uscisse da sé stessa. La prima di queste forme di estasi è causata dall’amore; in particolare, quando l’amore spinge il soggetto a concentrarsi esclusivamente sull’oggetto amato, poiché fissare intensamente un solo oggetto allontana la mente dagli altri. La seconda forma di estasi è causata direttamente dall’amore: in particolare dall’amore per l’amicizia, o, in senso più ristretto, dall’amore concupiscente. Nel caso dell’amore concupiscente, infatti, il soggetto viene trascinato al di fuori di sé stesso; non essendo soddisfatto di godere dei beni che possiede, cerca di ottenere qualcosa che si trova al di fuori di sé. Tuttavia, poiché cerca di possedere questi beni esterni per sé stesso, questo movimento rimane in definitiva all’interno di lui. Dall’altra parte, nell’amore per l’amicizia, i sentimenti del soggetto escono veramente da sé stessi; poiché desidera e compie azioni buone per il proprio amico, prendendosi cura di lui e provvedendo a suo sostentamento.
+
+Risposta all’Obiezione 1: Questo argomento è valido per il primo tipo di estasi.
+
+Risposta all’Obiezione 2: Questo argomento si applica all’amore basato sulla concupiscenza, il quale, come detto in precedenza, non provoca necessariamente un’estasi.
+
+Risposta all’Obiezione 3: Chi ama si espone al di fuori di sé, nella misura in cui desidera il bene del proprio amico e si impegna per realizzarlo. Tuttavia, non desidera il bene dell’amico più del proprio; pertanto, non ne consegue che ami l’altro più di se stesso.
 
 <span class="atom-split" data-atom="034" data-title="Whether zeal is an effect of love?" data-chapter="Whether zeal is an effect of love?" data-kind="atom" data-srclang="en"></span>
 
@@ -1507,6 +1924,24 @@ of it.
 Reply to Objection 3: The very fact that a man hates whatever is opposed to the object of his
 love, is the effect of love. Hence zeal is set down as an effect of love rather than of hatred.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che lo zelo non sia un effetto dell’amore. Infatti, lo zelo è all’origine di contese; per questo si legge (1 Corinzi 3:3): “Poiché tra voi c’è zelo, e contese”, ecc. Ma le contese sono incompatibili con l’amore. Pertanto, lo zelo non è un effetto dell’amore.
+
+Obiezione 2: Inoltre, l’oggetto dell’amore è il bene, che si comunica agli altri. Ma la zelosia è contraria alla comunicazione; poiché sembra essere un effetto della zelosia il rifiuto da parte di una persona di condividere l’oggetto del proprio amore con un altro: per questo si dice che gli uomini siano gelosi delle loro mogli, perché non vogliono condividerle con altri. Pertanto, la zelosia non è un effetto dell’amore.
+
+Obiezione 3: Inoltre, non esiste zelo senza odio, così come non esiste zelo senza amore; infatti è scritto (Salmo 72:3): “Ho avuto zelo nei confronti dei malvagi”. Pertanto, questo sentimento non dovrebbe essere considerato un effetto dell’amore, quanto piuttosto dell’odio.
+
+Al contrario, Dionigi afferma (Div. Nom. iv): “Si dice che Dio sia un zelota, a causa del suo grande amore per tutte le cose”.
+
+Rispondo che la zelosia, in qualsiasi modo la si consideri, deriva dall’intensità dell’amore. È infatti evidente che più intensamente una forza tende verso qualcosa, più vigorosamente resiste all’opposizione o alla resistenza. Poiché l’amore è “un movimento verso l’oggetto amato”, come afferma [Agostino](/figures/augustine) (QQ. 83, qu. 35), un amore intenso cerca di eliminare tutto ciò che gli si oppone. Tuttavia, questo avviene in modi diversi a seconda del tipo di amore: nell’amore concupiscente, colui che desidera qualcosa con intensità si muove contro tutto ciò che ostacola la sua realizzazione o il godimento pacifico dell’oggetto amato; è per questo che si dice che gli uomini siano gelosi delle loro mogli, affinché l’associazione con altri non diventi un ostacolo ai loro diritti esclusivi. Allo stesso modo, coloro che cercano di eccellere si muovono contro coloro che sembrano superarli, come se questi rappresentassero un impedimento al loro successo; questa è la zelosia dell’invidia, di cui si legge nel Salmo 36:1: “Non invidiare chi compie il male, né desiderare ciò che fanno gli empi”. D’altra parte, l’amore fraterno mira al bene del proprio amico; quando è intenso, spinge una persona a opporsi a tutto ciò che potrebbe nuocere al suo bene. In questo senso, si dice che una persona sia zelosa a favore del proprio amico quando si impegna a respingere qualsiasi cosa possa danneggiarlo. Allo stesso modo, si dice che una persona sia zelosa a favore di Dio quando si sforza, con tutte le sue forze, di contrastare tutto ciò che è contrario all’onore o alla volontà divina; come recita 3 Re 19:14: “Con grande zelo ho servito il Signore degli eserciti”. Riguardo alle parole di Giovanni 2:17 (“La zelosia per la tua casa mi ha consumato”), un commento afferma che “una persona è consumata da una buona zelosia, quando si sforza di rimediare a ogni male che percepisce; e se non riesce, lo sopporta e ne soffre”.
+
+Risposta all’Obiezione 1: In questo passaggio, l’Apostolo parla dello zelo derivante dall’invidia; tale zelo rappresenta effettivamente la causa delle controversie, non contro l’oggetto dell’amore, ma a suo favore, e contro ciò che gli è opposto.
+
+Risposta all’Obiezione 2: Il bene è amato nella misura in cui può essere condiviso con chi lo ama. Pertanto, qualsiasi cosa ostacoli la perfetta condivisione di questo bene diventa oggetto di odio. È proprio dall’amore per il bene che sorge lo zelo; tuttavia, a causa della mancanza di bontà, alcuni beni minori non possono essere posseduti interamente da molti contemporaneamente. Ed è dall’amore per tali cose che nasce lo zelo dell’invidia. Ma questo zelo, in senso proprio, non sorge nel caso di quelle cose che possono essere apprese completamente da tutti; infatti, nessuno invidia un altro per la conoscenza della verità, che può essere compresa interamente da molti. A meno che non si invidi la superiorità di qualcuno nella conoscenza di essa.
+
+Risposta all’Obiezione 3: Il fatto stesso che un uomo odii tutto ciò che è in opposizione all’oggetto del suo amore è proprio l’effetto dell’amore. Pertanto, lo zelo viene considerato un effetto dell’amore e non dell’odio.
+
 <span class="atom-split" data-atom="035" data-title="Whether love is a passion that wounds the lover?" data-chapter="Whether love is a passion that wounds the lover?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that love wounds the lover. For languor denotes a hurt in the one
@@ -1554,6 +1989,20 @@ is signified by "fervor." And these are the effects of love considered formally,
 relation of the appetitive power to its object. But in the passion of love, other effects ensue,
 proportionate to the above, in respect of a change in the organ.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’amore ferisca colui che ama. Infatti, lo stato di languore indica una sofferenza in chi ne è affetto. Ma l’amore stesso provoca questo languore; infatti si legge nel Cantico dei Cantici (2:5): “Mettimi sveglio con i fiori, circondami di mele, perché muoio d’amore”. Pertanto, l’amore è una passione che causa dolore.
+
+Obiezione 2: Inoltre, il processo di fusione rappresenta un tipo di dissoluzione. Ma l’amore “fonde” ciò in cui si manifesta; infatti è scritto (Cantico dei Cantici 5:6): “La mia anima si fuse quando il mio amato parlò”. Pertanto, l’amore è un agente dissolvente; per questo motivo, è una passione corrottrice e dannosa.
+
+Obiezione 3: Inoltre, il fervore indica un certo eccesso di intensità; tale eccesso ha un effetto corrottivo. Ma l’amore provoca fervore: infatti Dionigi (Coel. Hier. vii), elencando le proprietà dell’amore dei Serafini, menziona “caldo”, “penetrante” e “molto ardente”. Inoltre, si dice dell’amore (Cantico degli Amanti 8:6) che “le sue lampade sono fuoco e fiamme”. Pertanto, l’amore è una passione dannosa e corrottrice.
+
+Al contrario, Dionisio afferma (Div. Nom. iv) che “tutto ama se stesso con un amore che lo mantiene unito, cioè che lo preserva”. Pertanto, l’amore non è una passione distruttiva, ma piuttosto qualcosa che conserva e perfeziona.
+
+Rispondo che, come già detto sopra (Q[26], AA[1],2; Q[27], A[1]), l’amore rappresenta un certo adattamento della potenza appetitiva verso qualcosa di buono. Ora, nulla viene danneggiato dall’adattarsi a ciò che è appropriato; anzi, se possibile, tale adattamento rende la cosa migliore e più perfetta. Tuttavia, se qualcosa si adatta a ciò che non è appropriato, ne risulta danneggiato e peggiorato. Pertanto, l’amore per un bene appropriato perfeziona e migliora colui che lo ama; mentre l’amore per un bene inadatto danneggia e peggiora la stessa persona. Per questo motivo, l’uomo viene principalmente perfezionato e migliorato dall’amore di Dio; ma viene danneggiato e peggiorato dall’amore del peccato, come si legge in Osea 9:10: “Diventarono abominabili, proprio a causa di ciò che amavano”.  
+Si debba intendere che questo discorso si riferisce all’aspetto formale dell’amore, cioè alla relazione tra la potenza appetitiva e l’oggetto amato. Tuttavia, riguardo all’aspetto materiale dell’amore, ovvero ai cambiamenti fisici che esso provoca, può accadere che tale amore sia dannoso, soprattutto quando tali cambiamenti sono eccessivi; lo stesso vale per i sensi e per qualsiasi attività dello spirito che si manifesti attraverso modificazioni degli organi corporei.  
+In risposta alle obiezioni, si possono individuare quattro effetti principali dell’amore: il rilassamento, il piacere, la tristezza e l’intensità desiderosa. Il primo di questi effetti è il “rilassamento”, che è l’opposto della rigidità; infatti, ciò che è rigido è difficile da modificare. L’amore, invece, fa sì che la potenza appetitiva sia pronta ad accogliere il bene amato, poiché l’oggetto dell’amore si trova dentro colui che ama, come già detto sopra (A[2]). Pertanto, una corazza rigida o indurita è incompatibile con l’amore; mentre un cuore rilassato indica disponibilità verso ciò che si ama. Se l’oggetto amato è presente, ne deriva piacere; se invece è assente, sorgono due emozioni: la tristezza per la sua assenza (che si manifesta come “depressione”) e un’intensa voglia di possederlo, che si esprime come “fervore”. Questi sono gli effetti dell’amore considerati dal punto di vista formale, cioè in relazione alla potenza appetitiva e al suo oggetto. Nella pratica concreta dell’amore, però, possono verificarsi altri effetti, proporzionali a quelli sopra menzionati, legati ai cambiamenti fisici che l’amore provoca nell’individuo.
+
 <span class="atom-split" data-atom="036" data-title="Whether love is cause of all that the lover does?" data-chapter="Whether love is cause of all that the lover does?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the lover does not do everything from love. For love is a
@@ -1587,6 +2036,24 @@ proximate causes, are not superfluous.
 
 Reply to Objection 3: Hatred also is a result of love, as we shall state further on (Q[29], A[2]).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’amante non faccia tutto per amore. Infatti, l’amore è una passione, come detto sopra (Q[26], A[2]). Ma l’uomo non fa tutto per passione: alcune cose le fa per scelta, altre per ignoranza, come affermato nell’Etica v, 8. Pertanto, non tutto ciò che un uomo fa è fatto per amore.
+
+Obiezione 2: Inoltre, l’appetito è un principio di movimento e azione in tutti gli animali, come affermato nel De [Anima](/concepts/soul) iii, 10. Pertanto, se tutto ciò che un uomo fa viene compiuto per amore, le altre passioni della facoltà appetitiva risultano superflue.
+
+Obiezione 3: Inoltre, nulla viene prodotto contemporaneamente da cause contrarie. Tuttavia alcune cose vengono compiute per odio; pertanto non tutte le cose vengono compiute per amore.
+
+Al contrario, Dionisio afferma (Div. Nom. iv) che “tutte le cose, qualunque cosa facciano, la fanno per amore del bene”.
+
+Rispondo che ogni agente agisce per un fine, come già detto sopra (Q[1], A[2]). Ora, il fine è il bene desiderato e amato da ciascuno; pertanto è evidente che ogni agente, qualunque esso sia, compie ogni azione mosso da qualche forma di amore.
+
+Risposta all’Obiezione 1: Questa obiezione considera l’amore come una passione che appartiene all’appetito sensibile. Ma qui stiamo parlando di amore nel senso generale, cioè in quanto include l’amore intellettuale, razionale, animale e naturale; è proprio in questo senso che Dionigi ne parla nel capitolo IV de “De Divinis Nominibus”.
+
+Risposta all’Obiezione 2: Come già detto sopra (A[5]; Q[27], A[4]), desiderio, tristezza e piacere, nonché tutte le altre passioni dell’anima, derivano dall’amore. Pertanto, ogni atto che nasce da una qualsiasi passione deriva anch’esso dall’amore come dalla sua causa primaria; e così anche le altre passioni, che rappresentano cause secondarie, non sono affatto superflue.
+
+Risposta all’Obiezione 3: Anche l’odio è un risultato dell’amore, come spiegheremo più avanti (Q[29], A[2]).
+
 <span class="atom-split" data-atom="037" data-title="OF HATRED (SIX ARTICLES)" data-chapter="OF HATRED (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider hatred: concerning which there are six points of inquiry:
@@ -1596,6 +2063,16 @@ We must now consider hatred: concerning which there are six points of inquiry:
 (4) Whether a man can hate himself?
 (5) Whether a man can hate the truth?
 (6) Whether a thing can be the object of universal hatred?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’odio: su di esso vi sono sei punti da indagare:
+(1) Se il male sia la causa e l’oggetto dell’odio;
+(2) Se l’amore sia la causa dell’odio;
+(3) Se l’odio sia più forte dell’amore;
+(4) Se un uomo possa odiarsi stesso;
+(5) Se un uomo possa odiare la verità;
+(6) Se qualcosa possa essere oggetto di un odio universale.
 
 <span class="atom-split" data-atom="038" data-title="Whether evil is the cause and object of hatred?" data-chapter="Whether evil is the cause and object of hatred?" data-kind="atom" data-srclang="en"></span>
 
@@ -1641,6 +2118,24 @@ of the natural appetite, owing to one and the same thing being naturally suitabl
 naturally unsuitable to another: thus heat is becoming to fire and unbecoming to water: and in
 respect of the animal appetite, owing to one and the same thing being apprehended by one as good,
 by another as bad.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il male non sia l’oggetto e la causa dell’odio. Poiché tutto ciò che esiste, in sé, è buono. Se quindi il male fosse l’oggetto dell’odio, ne conterrebbe che l’unico oggetto dell’odio potesse essere la mancanza di qualcosa, il che è chiaramente falso.
+
+Obiezione 2: Inoltre, l’odio per il male è degno di lode; pertanto (2 Maccabei 3:1) alcuni vengono lodati perché “le leggi venivano rispettate con grande rigore, grazie alla pietà di Oniao, sommo sacerdote, e poiché il loro animo non nutriva alcun sentimento malvagio”. Se quindi l’oggetto dell’odio fosse soltanto il male, ne conseguirebbe che ogni forma di odio sia degna di approvazione: il che è chiaramente falso.
+
+Obiezione 3: Inoltre, la stessa cosa non può essere allo stesso tempo buona ed evile. Tuttavia, la stessa cosa è amabile e odiosa per soggetti diversi. Pertanto, l’odio riguarda non solo il male, ma anche il bene.
+
+Al contrario, l’Odio è l’opposto dell’Amore. Ma l’oggetto dell’Amore è il bene, come già detto sopra (Q[26], A[1]; Q[27], A[1]). Pertanto, l’oggetto dell’Odio è il male.
+
+Rispondo che, poiché il desiderio naturale è il risultato di un’appercezione (sebbene tale appercezione non risieda nello stesso soggetto del desiderio naturale), sembra che ciò che vale per l’inclinazione del desiderio naturale valga anche per il desiderio intellettuale, che anch’esso deriva da un’appercezione nello stesso soggetto, come già detto (Q[26], A[1]). Ora, riguardo al desiderio naturale, è evidente che, proprio come ogni cosa è naturalmente adatta a ciò che le è congeniale – e in questo consiste l’amore naturale –, allo stesso modo essa prova una repulsione naturale per ciò che le si oppone e la distrugge; ed è questa la forma di odio naturale. Pertanto, sia nel desiderio naturale che in quello intellettuale, l’amore rappresenta un’armonia tra il desiderio e ciò che viene percepito come appropriato, mentre l’odio corrisponde a una dissonanza tra il desiderio e ciò che viene considerato ripugnante o dannoso. Proprio come ciò che è appropriato presenta un aspetto positivo, ciò che è ripugnante presenta un aspetto negativo; quindi, proprio come il bene è l’oggetto dell’amore, il male è l’oggetto dell’odio.
+
+Risposta all’Obiezione 1: L’essere, in sé, non presenta un aspetto di contraddizione, ma soltanto di conformità; infatti l’essere è comune a tutte le cose. Tuttavia, quando l’essere assume una forma determinata, può presentare un aspetto di contraddizione rispetto ad un’altra forma determinata. Ed è in questo modo che un essere può risultare odioso o malevolo per un altro; ma non in sé stesso, bensì in relazione a qualcos’altro.
+
+Risposta all’Obiezione 2: Proprio come una cosa può essere percepita come buona quando in realtà non lo è; allo stesso modo, una cosa può essere percepita come cattiva quando in realtà non lo è. Pertanto, a volte non è né giusto odiare il male né amare il bene.
+
+Risposta all’Obiezione 3: Per cose diverse, la stessa cosa può essere amabile o odiosa: riguardo all’appetito naturale, poiché la stessa cosa è naturalmente adatta a una cosa e naturalmente inadatta a un’altra; ad esempio, il calore è adatto al fuoco e inadatto all’acqua. Riguardo all’appetito animale, invece, la stessa cosa può essere percepita da uno come buona e da un altro come cattiva.
 
 <span class="atom-split" data-atom="039" data-title="Whether love is a cause of hatred?" data-chapter="Whether love is a cause of hatred?" data-kind="atom" data-srclang="en"></span>
 
@@ -1729,6 +2224,21 @@ Hence it is clear how to reply to the First Objection. For the love of pleasure 
 love of self-preservation, to which corresponds flight from pain. Wherefore we flee from pain more
 than we love pleasure.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’odio sia più forte dell’amore. Infatti, [Agostino](/figures/augustine) afferma (QQ. 83, qu. 36): “Non c’è nessuno che non fugga dal dolore più di quanto desideri il piacere”. Ma la fuga dal dolore appartiene all’odio, mentre il desiderio per il piacere appartiene all’amore. Pertanto, l’odio è più forte dell’amore.
+
+Obiezione 2: Inoltre, il debole viene sopraffatto dal forte. Ma l’amore viene sopraffatto dall’odio, quando cioè l’amore si trasforma in odio. Pertanto, l’odio è più forte dell’amore.
+
+Obiezione 3: Inoltre, le emozioni dell’anima si manifestano attraverso i loro effetti. Tuttavia l’uomo insiste molto di più nel respingere ciò che è odioso piuttosto che nel cercare ciò che è piacevole; allo stesso modo, anche gli animali irrazionali si astengono dal godere dei piaceri per paura del castigo, come esemplifica Agostino (QQ. 83, qu. 36). Pertanto, l’odio è più forte dell’amore.
+
+Al contrario, il bene è più potente del male; perché “il male non agisce se non in virtù del bene”, come afferma Dionigi (Div. Nom. iv). Ma l’odio e l’amore differiscono in base alla distinzione tra bene e male. Pertanto, l’amore è più forte dell’odio.
+
+Rispondo che è impossibile che un effetto sia più forte della sua causa. Ora, ogni odio deriva da un certo amore come sua causa, come già detto (A[2]). Pertanto, è impossibile che l’odio sia assolutamente più forte dell’amore.  
+Inoltre, l’amore deve necessariamente essere, in senso assoluto, più forte dell’odio. Poiché una cosa viene spinta verso il fine con maggiore intensità rispetto ai mezzi per raggiungerlo. Ora, allontanarsi dal male è considerato un mezzo per ottenere il bene; pertanto, in senso assoluto, il movimento dell’anima verso il bene è più forte di quello verso il male.  
+Tuttavia, a volte l’odio sembra essere più forte dell’amore per due motivi. Primo, perché l’odio viene provato con maggiore intensità dell’amore. Poiché la percezione sensoriale è accompagnata da un certo impatto emotivo; una volta che tale impatto viene ricevuto, non viene più percepito con la stessa intensità del momento in cui si è verificato. Per questo motivo, il calore di una febbre acuta, sebbene maggiore, non viene percepito con la stessa intensità del calore di una febbre terziana; poiché il calore della febbre acuta diventa quasi “seconda natura”. Per questo motivo, l’amore viene provato con maggiore intensità quando manca l’oggetto amato; come afferma Agostino (De Trinitate, x, 12): “L’amore si prova con maggiore intensità quando ci manca ciò che amiamo”. E per lo stesso motivo, la bruttezza di ciò che viene odiato viene percepita con maggiore intensità della bellezza di ciò che viene amato. Secondo, perché si effettua un confronto tra un odio e un amore che non sono reciprocamente corrispondenti. Poiché, a seconda dei diversi gradi di bene, esistono diversi gradi di amore che corrispondono a diversi gradi di odio; pertanto, un odio che corrisponde a un amore più forte ci spinge con maggiore intensità rispetto a un odio legato a un amore minore.  
+Ecco quindi come si può rispondere alla Prima Obiezione. Poiché l’amore per il piacere è inferiore all’amore per la autodifesa, che comporta la fuga dal dolore; pertanto, fugiamo dal dolore con maggiore intensità di quanto amiamo il piacere.
+
 <span class="atom-split" data-atom="041" data-title="Whether a man can hate himself?" data-chapter="Whether a man can hate himself?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man can hate himself. For it is written (Ps. 10:6): "He that
@@ -1769,6 +2279,22 @@ does he hate himself: thus a sick man hates his sickness for the very reason tha
 Or we may say that avarice makes man hateful to others, but not to himself. In fact, it is caused by
 inordinate self-love, in respect of which, man desires temporal goods for himself more than he
 should.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un uomo possa odiare se stesso. Infatti è scritto (Salmo 10:6): “Chi ama l’ingiustizia odia la propria anima”. Ma molte persone amano l’ingiustizia; pertanto molte persone odiano se stesse.
+
+Obiezione 2: Inoltre, odiamo coloro verso i quali desideriamo e compiamo azioni malvagie. Tuttavia, a volte una persona desidera e compie azioni malvagie contro se stessa, ad esempio una persona che si suicida. Pertanto, alcune persone odiano se stesse.
+
+Obiezione 3: Inoltre, Boezio afferma nel “De Consolatione” (ii) che “l’avidità rende un uomo odioso”; da ciò possiamo concludere che tutti odiano i miserabili. Ma alcuni uomini sono davvero miserabili; pertanto odiano se stessi.
+
+Al contrario, l’Apostolo afferma (Efesini 5:29) che “nessuno odia mai la propria carne”.
+
+Rispondo che, in senso proprio, è impossibile per un uomo odiarsi stesso. Poiché tutto, naturalmente, desidera il bene; inoltre, nessuno può desiderare qualcosa per sé stesso se non sotto l’aspetto del bene: “il male, infatti, esula dall’ambito della volontà”, come afferma Dionigi (Div. Nom. iv). Amare un uomo significa volergli il bene, come già detto sopra (Q[26], A[4]). Pertanto, è inevitabile che un uomo si ami; ed è impossibile, in senso proprio, che un uomo odi se stesso. Tuttavia, a volte può accadere che un uomo si odii: e ciò avviene in due modi. Primo, riguardo al bene che l’uomo desidera per sé stesso; talvolta ciò che è considerato bene in un certo senso risulta in realtà male, e in questo modo l’uomo volontariamente desidera il male per sé stesso, odiandosi quindi. Secondo, riguardo a se stesso come entità pensante: poiché ogni cosa è ciò che in essa predomina, si può dire che lo “stato” compia ciò che fa il re, come se il re fosse l’intero stato. Ora è evidente che l’uomo è principalmente la sua mente; alcuni uomini, però, considerano sé stessi soprattutto ciò che sono nella loro natura materiale e sensibile. Pertanto si amano secondo ciò che ritengono di essere, mentre odiano ciò che realmente sono, desiderando cose contrarie alla ragione. In entrambi questi casi, “colui che ama l’ingiustizia odia” non solo “la propria anima”, ma anche se stesso. Quindi la risposta alla Prima Obiezione è evidente.
+
+Risposta all’Obiezione 2: Nessun uomo desidera e compie atti malvagi nei propri confronti, se non li considera sotto l’aspetto del bene. Anche coloro che si suicidano vedono la morte stessa come un bene, in quanto essa rappresenta la fine di qualche sofferenza o infelicità.
+
+Risposta all’Obiezione 3: Il misero odia ciò che è accidentale per lui, ma non per questo motivo odia se stesso; allo stesso modo, un uomo malato odia la propria malattia proprio perché si ama. Oppure possiamo dire che l’avarizia rende l’uomo odioso agli altri, ma non a se stesso. In realtà, l’avarizia è causata da un eccessivo amore per sé stesso: in questo caso, l’uomo desidera per sé beni temporali più di quanto sia giusto.
 
 <span class="atom-split" data-atom="042" data-title="Whether a man can hate the truth?" data-chapter="Whether a man can hate the truth?" data-kind="atom" data-srclang="en"></span>
 
@@ -1860,6 +2386,24 @@ them.
 Reply to Objection 3: This argument considers the universal under the aspect of universality:
 and thus it does not come under the sensitive apprehension or appetite.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che una cosa non possa essere oggetto di odio universale. Poiché l’odio è un sentimento legato all’appetito sensibile, che viene mosso da percezioni fornite dai sensi; ma i sensi non sono in grado di percepire ciò che è universale. Pertanto, una cosa non può essere oggetto di odio universale.
+
+Obiezione 2: Inoltre, l’odio è causato dal disaccordo; e dove c’è disaccordo, non esiste nulla in comune. Ma il concetto di universalità implica l’esistenza di qualcosa in comune. Pertanto, nulla può essere oggetto di un odio universale.
+
+Obiezione 3: Inoltre, l’oggetto dell’odio è il male. Ma “il male si trova nelle cose, e non nella mente” (Metafisica VI, 4). Poiché quindi ciò che è universale esiste soltanto nella mente, che astrae l’universale dal particolare, sembrerebbe che l’odio non possa avere un oggetto universale.
+
+Al contrario, il Filosofo afferma (Retorica ii, 4) che “l’[ira](/concepts/anger) è diretta verso qualcosa di specifico, mentre l’odio riguarda anche cose in generale; infatti tutti odiano i ladri e coloro che diffamano gli altri alle spalle”.
+
+Rispondo che esistono due modi per parlare dell’universale: il primo, considerandolo sotto l’aspetto della sua universalità; il secondo, considerandone la natura a cui viene attribuito. Infatti, è una cosa considerare l’uomo in quanto essere universale, e un’altra considerarlo semplicemente come uomo. Se quindi consideriamo l’universale nel primo senso, nessuna facoltà sensibile, né di percezione né di desiderio, può raggiungerlo; poiché l’universale si ottiene attraverso l’astrazione dalla materia individuale, su cui si basano tutte le facoltà sensibili. Tuttavia, queste facoltà possono tendere verso qualcosa di universale. Per esempio, diciamo che l’oggetto della vista è il colore considerato in modo generico; non perché la vista percepisca un “colore universale”, ma perché il fatto che il colore possa essere percepito dalla vista viene attribuito al colore stesso, non come a questo particolare colore, ma semplicemente perché è colore. Allo stesso modo, l’odio, come facoltà sensibile, può riguardare qualcosa in modo universale; poiché tale cosa, per la sua natura comune e non soltanto come individuo, è ostile all’animale – ad esempio, un lupo rispetto a una pecora. Pertanto, una pecora odia il lupo in modo universale. D’altra parte, la rabbia è sempre causata da qualcosa di particolare; poiché deriva da un’azione compiuta da colui che ci offende, e le azioni derivano dagli individui. Per questo motivo il Filosofo afferma (Rhetorica ii, 4) che “la rabbia è sempre diretta verso qualcosa di singolare, mentre l’odio può essere rivolto verso qualcosa in modo generico”. Ma poiché l’odio appartiene alla parte intellettuale dell’anima e deriva dalla percezione universale, esso può considerare l’universale sia nel primo che nel secondo senso.
+
+Risposta all’Obiezione 1: I sensi non percepiscono l’universale in sé; piuttosto, percepiscono qualcosa a cui il carattere di universalità viene attribuito attraverso l’astrazione.
+
+Risposta all’Obiezione 2: Ciò che è comune a tutti non può costituire motivo di odio. Tuttavia, nulla impedisce che una cosa sia comune a molti e al contempo in contrasto con altri, tanto da essere oggetto di loro odio.
+
+Risposta all’Obiezione 3: Questo argomento considera l’universale dal punto di vista della sua universalità; pertanto, non rientra nell’ambito dell’intuizione sensibile né del desiderio umano.
+
 <span class="atom-split" data-atom="044" data-title="OF CONCUPISCENCE (FOUR ARTICLES)" data-chapter="OF CONCUPISCENCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider [concupiscence](/concepts/concupiscence): under which head there are four points of inquiry:
@@ -1867,6 +2411,14 @@ We have now to consider [concupiscence](/concepts/concupiscence): under which he
 (2) Whether concupiscence is a specific passion?
 (3) Whether some concupiscences are natural, and some not natural?
 (4) Whether concupiscence is infinite?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la [concupiscenza](/concepts/concupiscence): sotto questo titolo vi sono quattro punti da esaminare:
+(1) Se la concupiscenza esista soltanto nell’appetito sensibile;
+(2) Se la concupiscenza sia una passione specifica;
+(3) Se alcune forme di concupiscenza siano naturali e altre no;
+(4) Se la concupiscenza possa essere infinita.
 
 <span class="atom-split" data-atom="045" data-title="Whether concupiscence is in the sensitive appetite only?" data-chapter="Whether concupiscence is in the sensitive appetite only?" data-kind="atom" data-srclang="en"></span>
 
@@ -1914,6 +2466,24 @@ appetite, which does not arise from apprehension. But the craving for good, by t
 which arises from apprehension, belongs to the appetitive power alone. And to crave a thing under
 the aspect of something delightful to the senses, wherein concupiscence properly consists, belongs
 to the concupiscible power.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la concupiscenza non si limiti esclusivamente all’appetito sensibile. Infatti, esiste una concupiscenza per la saggezza, come affermato in Sapienza 6:21: “La concupiscenza di saggezza conduce al regno eterno”. Ma l’appetito sensibile non può avere alcuna tendenza verso la saggezza. Pertanto, la concupiscenza non si limita esclusivamente all’appetito sensibile.
+
+Obiezione 2: Inoltre, il desiderio dei comandamenti di Dio non appartiene all’appetito sensibile; infatti l’Apostolo dice (Romani 7:18): “Non abita in me, cioè nella mia carne, ciò che è buono”. Ma il desiderio dei comandamenti di Dio è un atto di concupiscenza, secondo il Salmo 118:20: “La mia anima anela ardentemente alle tue giustificazioni”. Pertanto, la concupiscenza non si limita soltanto all’appetito sensibile.
+
+Obiezione 3: Inoltre, per ogni potenza dell’anima, il bene proprio di essa è oggetto di concupiscenza. Pertanto, la concupiscenza esiste in ogni potenza dell’anima, e non soltanto nell’appetito sensibile.
+
+Al contrario, Damasceno afferma (De Fide Orth. ii, 12) che “la parte irrazionale dell’anima, soggetta e suscettibile alla ragione, è divisa nelle facoltà della concupiscenza e della [ira](/concepts/anger). Questa è la parte irrazionale dell’anima, passiva e appetitiva”. Pertanto, la concupiscenza appartiene all’appetito sensibile.
+
+Rispondo che, come afferma il Filosofo (Retorica i, 11), “la concupiscenza è un desiderio di ciò che è piacevole”. Ora, il piacere è di due tipi, come spiegheremo in seguito (Q[31], AA[3],4): uno riguarda il bene intellegibile, cioè il bene della ragione; l’altro riguarda il bene percepibile dai sensi. Il primo tipo di piacere sembra appartenere esclusivamente all’anima; mentre il secondo appartiene sia all’anima che al corpo, poiché i sensi sono facoltà situate in organi corporei; pertanto, il bene sensibile è il bene dell’intero essere umano. La concupiscenza sembra quindi essere il desiderio di questo secondo tipo di piacere, poiché riguarda l’anima e il corpo uniti, come suggerisce la parola latina “concupiscentia”. Pertanto, in senso proprio, la concupiscenza appartiene all’appetito sensibile e alla facoltà concupiscibile, che prendono il loro nome da essa.
+
+Risposta all’Obiezione 1: Il desiderio di saggezza o di altri beni spirituali viene talvolta definito “concupiscenza”; sia per una certa somiglianza tra questi desideri e le pulsioni più basse dell’anima, sia perché tale desiderio, provenendo dalla parte più elevata dell’anima, è così intenso da influenzare anche le inclinazioni materiali. Di conseguenza, anche queste ultime tendono, a loro modo, verso il bene spirituale, seguendo l’esempio delle pulsioni superiori. Il risultato è che anche il corpo, in qualche modo, contribuisce al perseguimento dei beni spirituali, come si legge nel Salmo 83:3: “Il mio cuore e la mia carne si sono rallegrati nel Dio vivente”.
+
+Risposta all’Obiezione 2: In senso proprio, il desiderio può esistere non solo nell’appetito inferiore, ma anche in quello superiore. Poiché esso non implica necessariamente una condivisione del desiderio stesso, come avviene nel caso della concupiscenza; bensì semplicemente un movimento verso l’oggetto desiderato.
+
+Risposta all’Obiezione 3: Spetta a ciascuna facoltà dell’anima cercare il proprio bene naturale attraverso l’appetito naturale, che non deriva dall’intellezione. Tuttavia, il desiderio di bene, prodotto dall’appetito animale e derivante dall’intellezione, appartiene esclusivamente alla facoltà appetitiva. Invece, il desiderare qualcosa in quanto piacevole ai sensi – che costituisce propriamente la concupiscenza – appartiene alla facoltà concupiscente.
 
 <span class="atom-split" data-atom="046" data-title="Whether concupiscence is a specific passion?" data-chapter="Whether concupiscence is a specific passion?" data-kind="atom" data-srclang="en"></span>
 
@@ -1970,6 +2540,25 @@ absent evil; sometimes it goes by the name of fear, just as hope is sometimes ca
 For a small good or evil is reckoned as though it were nothing: and consequently every movement
 of the appetite in future good or evil is called hope or fear, which regard good and evil as arduous.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la concupiscenza non sia una passione specifica della facoltà concupiscente. Infatti, le passioni si distinguono per i loro oggetti; ma l’oggetto della facoltà concupiscente è qualcosa di piacevole ai sensi, e questo stesso oggetto è anche quello della concupiscenza, come afferma il Filosofo (Retorica I, 11). Pertanto, la concupiscenza non è una passione specifica della facoltà concupiscente.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (QQ. 83, qu. 33) che “la lussuria è l’amore per le cose transitorie”; quindi non si distingue dall’amore in sé. Ma tutte le passioni specifiche sono diverse tra loro. Pertanto, la concupiscenza non rappresenta una passione specifica all’interno della facoltà concupiscente.
+
+Obiezione 3: Inoltre, per ogni passione appartenente alla facoltà concupiscente esiste una passione opposta e specifica all’interno di quella stessa facoltà, come già detto sopra (Q[23], A[4]). Tuttavia, nessuna passione specifica della facoltà concupiscente è contraria alla concupiscenza stessa. Infatti Damasceno afferma (De Fide Orth. ii, 12) che “il bene, quando desiderato, suscita la concupiscenza; quando è presente, provoca gioia; allo stesso modo, il male che percepiamo ci fa temere, mentre il male che è effettivamente presente ci rende tristi”: da ciò si deduce che, così come la tristezza è contraria alla gioia, anche la paura è contraria alla concupiscenza. Tuttavia, la paura non appartiene alla facoltà concupiscente, ma a quella irascibile. Pertanto, la concupiscenza non può essere considerata una passione specifica della facoltà concupiscente.
+
+Al contrario, la Concupiscenza è causata dall’amore e tende al piacere; entrambi questi elementi rientrano tra le passioni della facoltà concupiscente. Pertanto, la Concupiscenza si distingue dalle altre passioni concupiscenti come una passione specifica.
+
+Rispondo che, come già detto sopra (A[1]; Q[23], A[1]), il bene che procura piacere ai sensi è l’oggetto comune della facoltà concupiscibile. Pertanto, le varie passioni concupiscibili si distinguono in base alle differenze di tale bene. Ora, questa diversità dell’oggetto può derivare sia dalla natura stessa di tale oggetto che da una diversità nella sua capacità attiva. La diversità derivante dalla natura dell’oggetto stesso causa una differenza “materiale” tra le passioni; mentre la diversità legata alla sua capacità attiva determina una differenza “formale”, ossia una specifica distinzione tra tali passioni.  
+La natura della forza motrice che guida verso il fine o verso il bene varia a seconda che tale bene sia effettivamente presente o assente: quando è presente, infatti, spinge la facoltà concupiscibile a trovarvi riposo; quando invece è assente, induce tale facoltà ad aspirarvi. Pertanto, l’oggetto del piacere sensibile provoca amore, nel senso che armonizza e conforma la volontà umana a sé stesso; provoca concupiscenza, poiché, quando assente, attira la facoltà concupiscibile verso di sé; e provoca piacere vero e proprio, poiché, quando presente, permette alla facoltà concupiscibile di trovarvi soddisfazione. Di conseguenza, la concupiscenza è una passione che si distingue “per specie” sia dall’amore che dal piacere; tuttavia, le diverse concupiscenze legate a oggetti piacevoli diversi si distinguono anche “per numero”.
+
+Risposta all’Obiezione 1: Il bene piacevole è l’oggetto della concupiscenza, non in modo assoluto, ma considerato come assente; proprio come ciò che è sensibile, considerato come passato, è l’oggetto della memoria. Infatti, queste condizioni particolari diversificano i tipi di passioni, e persino le facoltà della parte sensitiva che riguarda cose specifiche.
+
+Risposta all’Obiezione 2: Nel passaggio citato si tratta di predicati causali, non essenziali; infatti, l’avidità non è essenzialmente amore, ma un effetto dell’amore. Si può anche dire che Agostino intenda l’avidità in senso lato, riferendosi a qualsiasi movimento del desiderio riguardo ai beni futuri; in questo modo, l’avidità include sia l’amore che la speranza.
+
+Risposta all’Obiezione 3: La passione che è direttamente contraria alla concupiscenza non ha nome e si rapporta al male, così come la concupiscenza si rapporta al bene. Tuttavia, poiché, proprio come la paura, riguarda il male assente, a volte viene chiamata “paura”, proprio come la speranza viene talvolta definita “desiderio”. Infatti, un piccolo bene o un piccolo male vengono considerati come nulla; di conseguenza, ogni movimento dell’appetito verso un bene o un male futuro viene chiamato speranza o paura, poiché entrambi riguardano il bene e il male come qualcosa di difficile da ottenere.
+
 <span class="atom-split" data-atom="047" data-title="Whether some concupiscences are natural, and some not natural?" data-chapter="Whether some concupiscences are natural, and some not natural?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that concupiscences are not divided into those which are natural
@@ -2025,6 +2614,24 @@ Q[81], A[3]: so that even rational concupiscence may pertain to the sensitive ap
 the sensitive appetite can be moved by the universal reason also, through the medium of the particular
 imagination.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le concupiscenze non possano essere divise in quelle naturali e quelle non naturali. Infatti, la [concupiscenza](/concepts/concupiscence) appartiene all’appetito animale, come detto sopra (A[1], ad 3). Ma l’appetito naturale è opposto all’appetito animale; pertanto, nessuna concupiscenza può essere considerata naturale.
+
+Obiezione 2: Inoltre, le differenze materiali non comportano alcuna differenza di specie, ma soltanto differenze numeriche; differenze che esulano dall’ambito della scienza. Tuttavia, se alcune concupiscenze sono naturali e altre no, esse differiscono soltanto per il loro oggetto; il che rappresenta una differenza materiale, ovvero una differenza di tipo numerico. Pertanto, non si dovrebbero dividere le concupiscenze in quelle naturali e quelle non naturali.
+
+Obiezione 3: Inoltre, la ragione viene contrapposta alla natura, come affermato nella Physica ii, 5. Pertanto, se nell’uomo esiste una concupiscenza che non è naturale, essa deve necessariamente essere razionale. Ma ciò è impossibile: poiché la concupiscenza è un’passione e appartiene all’appetito sensibile, e non alla volontà, che è l’appetito razionale. Quindi non esistono concupiscenze che non siano naturali.
+
+Al contrario, il Filosofo (Etica, III, 11 e Retorica, I, 11) distingue le concupiscenze naturali da quelle che non lo sono.
+
+Rispondo che, come già detto sopra (A[1]), la concupiscenza è il desiderio di beni piacevoli. Ora, una cosa è piacevole in due modi: innanzitutto, perché è conforme alla natura dell’animale; ad esempio, cibo, bevande e simili; e si dice che la concupiscenza per tali cose piacevoli sia naturale. In secondo luogo, una cosa è piacevole perché viene considerata conforme alla natura dell’animale: quando qualcuno ritiene qualcosa buono e appropriato, ne trae piacere; e si dice che la concupiscenza per tali cose piacevoli non sia naturale, ma venga più spesso definita “lussuria”. Pertanto, le concupiscenze di primo tipo, ovvero quelle naturali, sono comuni sia agli uomini che ad altri animali; poiché entrambi hanno qualcosa di conforme alla loro natura e quindi piacevole. Su questo punto tutti gli uomini concordano; perciò il Filosofo (Etica, iii, 11) le definisce “comuni” e “necessarie”. Ma le concupiscenze di secondo tipo sono proprie degli uomini, poiché a loro spetta inventare cose considerate buone e appropriate al di là di ciò che la natura richiede. Per questo il Filosofo afferma (Retorica, i, 11) che le prime concupiscenze siano “irrazionali”, mentre le seconde “razionali”. E poiché diversi uomini ragionano in modi diversi, queste ultime vengono anche definite (Etica, iii, 11) “particolari e acquisite”, cioè aggiuntive a quelle naturali.
+
+Risposta all’Obiezione 1: Ciò che è oggetto dell’appetito naturale può anche essere oggetto dell’appetito animale, una volta che sia stato compreso o percepito. In questo modo, può esistere una concupiscenza animale per cibo, bevande e simili, che sono appunto oggetti dell’appetito naturale.
+
+Risposta all’Obiezione 2: La differenza tra quelle concupiscenze che sono naturali e quelle che non lo sono non è soltanto materiale; è anche, in un certo senso, formale, poiché deriva da una diversità nell’oggetto su cui si esercita tale desiderio. L’oggetto della concupiscenza è il bene percepito; pertanto, la diversità dell’oggetto deriva dalla diversità del modo in cui quel bene viene percepito: o quando esso viene considerato idoneo al proprio scopo attraverso una percezione diretta e immediata, da cui derivano le concupiscenze naturali, che il Filosofo definisce “irrazionali” (Retorica i, 11); oppure quando tale percezione avviene in concomitanza con un processo di riflessione, da cui derivano quelle concupiscenze che non sono naturali e che, proprio per questo motivo, il Filosofo definisce “razionali” (Retorica i, 11).
+
+Risposta all’Obiezione 3: L’uomo dispone non solo di una ragione universale, relativa alla facoltà intellettiva, ma anche di una ragione particolare, relativa alla facoltà sensitiva, come affermato nel “Filosofo Politico”, Q[78], A[4] e Q[81], A[3]; pertanto anche la concupiscenza razionale può riguardare l’appetito sensibile. Inoltre, l’appetito sensibile può essere mosso anche dalla ragione universale, attraverso il mezzo dell’immaginazione particolare.
+
 <span class="atom-split" data-atom="048" data-title="Whether concupiscence is infinite?" data-chapter="Whether concupiscence is infinite?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that concupiscence is not infinite. For the object of concupiscence
@@ -2075,6 +2682,24 @@ apprehends, is infinite in a sense, inasmuch as it contains potentially an infin
 Reply to Objection 3: In order that a man be delighted, there is no need for him to realize all
 that he desires: for he delights in the realization of each object of his concupiscence.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la concupiscenza non possa essere infinita. Infatti, l’oggetto della concupiscenza è il bene, il quale presenta caratteristiche tipiche di un fine. Ma dove c’è [infinità](/concepts/infinity), non esiste fine (Metafisica ii, 2). Pertanto, la concupiscenza non può essere infinita.
+
+Obiezione 2: Inoltre, la concupiscenza riguarda beni appropriati, poiché deriva dall’amore. Ma l’infinito è privo di proporzione e, pertanto, inappropriato. Quindi la concupiscenza non può essere infinita.
+
+Obiezione 3: Inoltre, non esiste alcun processo che possa attraversare cose infinite; pertanto non è possibile raggiungere un termine finale all’interno di esse. Ma l’oggetto della concupiscenza non prova alcuna gioia finché non ha raggiunto quel termine finale. Quindi, se la concupiscenza fosse infinita, nessuna gioia mai sorgerebbe.
+
+Al contrario, il Filosofo afferma (Politica I, 3) che “poiché la concupiscenza è infinita, gli uomini desiderano un numero infinito di cose”.
+
+Rispondo che, come già detto sopra (A[3]), la concupiscenza è di due tipi: uno naturale e l’altro non naturale. La concupiscenza naturale non può essere effettivamente infinita, poiché riguarda ciò che la natura stessa richiede, e la natura tende sempre verso qualcosa di finito e stabile. Pertanto, l’uomo non desidera mai cibo o bevande in quantità infinite. Tuttavia, proprio come nella natura esiste un’infinità potenziale e progressiva, anche questo tipo di concupiscenza può essere infinito in modo progressivo: ad esempio, dopo aver ottenuto del cibo, un uomo può desiderarlo ancora; lo stesso vale per qualsiasi altra cosa richiesta dalla natura, poiché questi beni materiali, una volta ottenuti, non durano per sempre, ma vengono consumati. Per questo motivo il Signore disse alla donna di Samaria (Giovanni 4:13): “Chi beve quest’acqua avrà ancora sete”. La concupiscenza non naturale, invece, è completamente infinita, poiché deriva dalla ragione stessa e la ragione tende per sua natura verso l’infinito. Pertanto, colui che desidera ricchezze può voler essere ricco non fino a un certo limite, ma semplicemente il più possibile. Un altro motivo, secondo il Filosofo (Politica I, 3), spiega perché una certa concupiscenza sia finita e un’altra infinita: la concupiscenza per l’oggetto finale è sempre infinita, poiché tale oggetto viene desiderato per se stesso; ad esempio, la salute: una salute migliore viene quindi desiderata ancora di più, fino all’infinito. Al contrario, la concupiscenza per i mezzi necessari per raggiungere quel fine non è infinita, poiché essa è in proporzione adeguata al fine stesso. Di conseguenza, coloro che pongono il loro scopo nella ricchezza hanno una concupiscenza infinita di essa; mentre coloro che desiderano la ricchezza per le necessità della vita ne desiderano soltanto una quantità limitata, sufficiente a soddisfare tali bisogni, come afferma il Filosofo (Politica I, 3). Lo stesso vale per qualsiasi altro tipo di concupiscenza.
+
+Risposta all’Obiezione 1: Ogni oggetto di concupiscenza viene considerato qualcosa di finito: o perché è effettivamente finito, nel senso che è stato desiderato in realtà; oppure perché viene percepito come finito. Infatti, non può essere concepito come infinito, poiché l’infinito è ciò “da cui, per quanto ne preleviamo, rimane sempre qualcosa da prendere” (Physica, iii, 6).
+
+Risposta all’Obiezione 2: La ragione possiede, in un certo senso, un potere infinito, poiché è in grado di considerare qualcosa in modo infinito, come si evidenzia nell’addizione di numeri o di linee. Pertanto, l’infinito, inteso in un determinato modo, è proporzionale alla ragione. Infatti, ciò che la ragione comprende è, in un certo senso, infinito, poiché contiene potenzialmente un numero infinito di singoli elementi.
+
+Risposta all’Obiezione 3: Affinché un uomo provi piacere, non è necessario che realizzi tutto ciò che desidera; egli prova infatti piacere nella realizzazione di ciascun oggetto del proprio desiderio.
+
 <span class="atom-split" data-atom="049" data-title="OF DELIGHT CONSIDERED IN ITSELF [*Or, Pleasure] (EIGHT ARTICLES)" data-chapter="OF DELIGHT CONSIDERED IN ITSELF [*Or, Pleasure] (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider delight and sadness. Concerning delight four things must be considered:
@@ -2088,6 +2713,22 @@ Under the first head there are eight points of inquiry:
 (6) Of sensible delights compared with one another;
 (7) Whether any delight is non-natural?
 (8) Whether one delight can be contrary to another?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la gioia e il dolore. Per quanto riguarda la gioia, sono necessarie quattro analisi:  
+(1) La gioia in sé stessa;  
+(2) Le cause della gioia;  
+(3) Gli effetti della gioia;  
+(4) Il suo carattere positivo o negativo. All’interno della prima categoria di analisi, vi sono otto punti da esaminare:  
+(1) Se la gioia sia una passione;  
+(2) Se la gioia sia soggetta al tempo;  
+(3) Se differisca dalla felicità;  
+(4) Se appartenga all’appetito intellettuale;  
+(5) I piaceri derivanti dall’appetito più elevato rispetto a quelli derivanti dall’appetito più basso;  
+(6) I piaceri sensibili tra loro;  
+(7) Se esistano piaceri non naturali;  
+(8) Se un certo tipo di gioia possa essere contrario a un altro.
 
 <span class="atom-split" data-atom="050" data-title="Whether delight is a passion?" data-chapter="Whether delight is a passion?" data-kind="atom" data-srclang="en"></span>
 
@@ -2190,6 +2831,24 @@ Reply to Objection 3: Other passions have not for their object a good obtained, 
 Wherefore there is more of the movement of the imperfect in them than in delight. And consequently
 it belongs more to delight not to be in time.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la gioia appartenga al tempo. Infatti, “la gioia è un tipo di movimento”, come afferma il Filosofo (Retorica I, 11). Ma ogni movimento avviene nel tempo. Pertanto, anche la gioia appartiene al tempo.
+
+Obiezione 2: Inoltre, si dice che una cosa duri a lungo e che sia “triste” in termini di tempo; alcune gioie vengono anch’esse definite “tristi”. Pertanto, la gioia è legata al tempo.
+
+Obiezione 3: Inoltre, le passioni dell’anima appartengono allo stesso genere. Ma alcune di queste passioni sono legate al tempo; pertanto anche la gioia rientra in questa categoria.
+
+Al contrario, il Filosofo afferma (Etica, X, 4) che “nessuno prova piacere in base al tempo”.
+
+Rispondo che una cosa può trovarsi nel tempo in due modi: in primo luogo, per sé stessa; in secondo luogo, a causa di qualcos’altro, e in tal caso in modo accidentale. Poiché il tempo è la misura delle cose successive, si dice che tali cose siano nel tempo quando quella successione, o qualcosa che riguarda la successione, sia essenziale per loro: sono questo il movimento, il riposo, il discorso e simili. D’altra parte, si dice che alcune cose siano nel tempo a causa di qualcos’altro e non per sé stesse, quando quella successione non è essenziale per esse, ma quando queste sono soggette a processi successivi. Ad esempio, il fatto di essere un uomo non è essenzialmente legato a processi successivi; poiché non si tratta di un movimento, bensì dell’atto finale di un movimento o di un cambiamento, cioè della nascita di una persona. Tuttavia, poiché l’essere umano è soggetto a cause mutevoli, in questo senso essere un uomo significa trovarsi nel tempo. Pertanto, dobbiamo dire che la gioia, in sé stessa, non è nel tempo: essa riguarda infatti il bene già ottenuto, che rappresenta l’atto finale di un processo. Ma se quel bene è soggetto a cambiamenti, la gioia derivante da esso sarà nel tempo in modo accidentale; al contrario, se quel bene è del tutto immutabile, la gioia non sarà nel tempo, né per sé stessa né in modo accidentale.
+
+Risposta all’Obiezione 1: Come affermato nel De [Anima](/concepts/soul) iii, 7, il movimento è di due tipi. Il primo è “l’atto di qualcosa di imperfetto, cioè di qualcosa che esiste in [potenzialità](/concepts/act_potency)”: questo tipo di movimento è successivo e ha luogo nel tempo. L’altro tipo di movimento è “l’atto di qualcosa di perfetto, cioè di qualcosa che esiste già in atto”, ad esempio comprendere, sentire, volere, ecc.; anche il provare piacere rientra in questo ambito. Questo secondo tipo di movimento non è successivo e, in sé, non ha luogo nel tempo.
+
+Risposta all’Obiezione 2: Si dice che la gioia sia duratura o malinconica a seconda del momento in cui si manifesta casualmente nel tempo.
+
+Risposta all’Obiezione 3: Le altre passioni non hanno come oggetto un bene ottenuto, come invece avviene con la gioia. Pertanto, in esse c’è un elemento di imperfezione maggiore rispetto alla gioia; di conseguenza, è proprio della gioia il non essere legata al tempo.
+
 <span class="atom-split" data-atom="052" data-title="Whether delight differs from joy?" data-chapter="Whether delight differs from joy?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that delight is altogether the same as joy. Because the passions of
@@ -2237,6 +2896,24 @@ in so far as the inward joy breaks forth from its bounds; and "cheerfulness" is 
 special signs and effects of gladness. Yet all these names seem to belong to joy; for we do not
 employ them save in speaking of rational beings.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la delizia sia esattamente la stessa cosa che la gioia. Poiché le passioni dell’anima differiscono in base ai loro oggetti, ma la delizia e la gioia hanno lo stesso oggetto, ovvero il raggiungimento di qualcosa di buono. Pertanto, la gioia è esattamente la stessa cosa che la delizia.
+
+Obiezione 2: Inoltre, un unico movimento non si conclude in due termini diversi. Ma lo stesso movimento, quello del desiderio, si conclude nella gioia e nel piacere. Pertanto, gioia e piacere sono esattamente la stessa cosa.
+
+Obiezione 3: Inoltre, se la gioia è diversa dalla delizia, sembrerebbe esserci motivo sufficiente per distinguere anche la letizia, l’esultanza e la felicità dalla delizia, in modo che tutte queste rappresentassero diverse passioni dell’anima. Ma ciò pare non essere vero. Pertanto, la gioia non differisce dalla delizia.
+
+Al contrario, non parliamo di gioia negli animali irrazionali; invece, parliamo di piacere in loro. Pertanto, la gioia non è lo stesso che il piacere.
+
+Rispondo che, come afferma Avicenna nel *De Anima* iv, la gioia è un tipo di piacere. Dobbiamo infatti osservare che, proprio come alcune concupiscenze sono naturali e altre no, ma derivano dalla ragione, così anche alcuni piaceri sono naturali e altri no, ma sono il risultato della riflessione razionale. O, come dicono Damasceno nel *De Fide Orthodossa* ii, 13 e Gregorio di Nissa nel *Nemesio*, “alcuni piaceri appartengono al corpo, altri all’anima”; il che equivale allo stesso concetto. Infatti proviamo piacere sia nelle cose che desideriamo naturalmente quando le otteniamo, sia in quelle che desideriamo sulla base della ragione. Ma parliamo di gioia soltanto quando quel piacere deriva dalla riflessione razionale; per questo non attribuiamo la gioia agli animali irrazionali, ma solo il piacere. Ora, tutto ciò che desideriamo naturalmente può anche essere oggetto di un desiderio e di un piacere basati sulla ragione, ma non viceversa. Pertanto, tutto ciò che può essere oggetto di piacere può anche essere oggetto di gioia negli esseri razionali. Tuttavia, non tutto è sempre oggetto di gioia; a volte si prova un certo piacere fisico senza che questo venga accompagnato da una vera e propria gioia derivante dalla ragione. E quindi il concetto di piacere si estende a più cose rispetto a quello di gioia.
+
+Risposta all’Obiezione 1: Poiché l’oggetto del desiderio dell’anima è un bene percepito, la diversità delle percezioni riguarda, in qualche modo, anche la diversità dell’oggetto stesso. Pertanto, le gioie dell’anima, chiamate anche letture, sono distinte dalle gioie corporee, che non vengono definite in altro modo se non come “gioie”: come abbiamo osservato sopra riguardo alle concupiscenze (Q[30], A[3], ad 2).
+
+Risposta all’Obiezione 2: Una differenza simile si osserva anche nelle concupiscenze: il piacere corrisponde alla concupiscenza, mentre la gioia corrisponde al desiderio, che sembra riguardare più direttamente la concupiscenza dell’anima. Pertanto, esiste una differenza nel “riposo” che corrisponde alla differenza nel “movimento”.
+
+Risposta all’Obiezione 3: Questi altri [nomi](/positions/nominalism) che riguardano la gioia derivano dagli effetti stessi della gioia; infatti, “laetitia” [gioia] deriva dalla “dilatazione” del cuore, come se si dicesse semplicemente “latitia”; “esultazione” deriva dai segni esteriori di una gioia interiore che si manifestano all’esterno, nel momento in cui la felicità interiore trascende i suoi limiti; e “allegria” viene definita così a causa di certi segni e effetti specifici della gioia. Tuttavia, tutti questi nomi sembrano riferirsi comunque alla gioia stessa; infatti, non li utilizziamo se non quando parliamo di esseri razionali.
+
 <span class="atom-split" data-atom="053" data-title="Whether delight is in the intellectual appetite?" data-chapter="Whether delight is in the intellectual appetite?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that delight is not in the intellectual appetite. Because the
@@ -2279,6 +2956,24 @@ in common with angels. Wherefore Dionysius says (De Coel. Hier.) that "holy men 
 in the angelic delights." Accordingly we have delight, not only in the sensitive appetite, which we
 have in common with dumb animals, but also in the intellectual appetite, which we have in common
 with the angels.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la gioia non risieda nell’appetito intellettuale. Poiché il Filosofo afferma (Rhetorica i, 11) che “la gioia è un movimento sensibile”, ma il movimento sensibile non appartiene alle facoltà intellettuali. Pertanto, la gioia non risiede nell’appetito intellettuale.
+
+Obiezione 2: Inoltre, la gioia è una passione. Ma ogni passione appartiene all’appetito sensibile. Pertanto, la gioia esiste soltanto nell’appetito sensibile.
+
+Obiezione 3: Inoltre, la gioia è comune sia a noi che agli animali irrazionali. Pertanto, essa deve risiedere nella stessa capacità che abbiamo in comune con questi ultimi.
+
+Al contrario, è scritto (Salmo 36:4): “Rallegrati nel Signore”. Ma il desiderio sensibile non può raggiungere Dio; solo il desiderio intellettuale lo può. Pertanto, la gioia può derivare soltanto dal desiderio intellettuale.
+
+Rispondo che, come già detto sopra (A[3]), una certa gioia sorge dall’intuizione della ragione. Quando la ragione comprende qualcosa, non solo l’appetito sensibile viene mosso, in relazione alla sua applicazione a un oggetto specifico, ma anche l’appetito intellettuale, che viene chiamato volontà. E pertanto, nell’appetito intellettuale o nella volontà si verifica quella gioia che viene definita felicità, ma non una gioia di natura fisica. Tuttavia, esiste questa differenza tra le due forme di gioia: la gioia dell’appetito sensibile è accompagnata da un cambiamento fisico, mentre la gioia dell’appetito intellettuale consiste semplicemente nel movimento della volontà. Per questo motivo, [Agostino](/figures/augustine) afferma (De Civ. Dei xiv, 6) che “desiderio e felicità non sono altro che una volontà di accordarsi con ciò che desideriamo”.
+
+Risposta all’Obiezione 1: In questa definizione del Filosofo, egli utilizza la parola “sensibile” nel suo significato più ampio, riferendosi a qualsiasi tipo di percezione. Infatti, afferma (Etica, x, 4) che “il piacere accompagna ogni senso, così come ogni atto dell’intelletto e della contemplazione”. In altre parole, si può dire che stia definendo il piacere legato all’appetito sensibile.
+
+Risposta all’Obiezione 2: Il piacere ha il carattere di passione, in senso proprio, quando è accompagnato da trasformazioni fisiche. Non è così nel desiderio intellettuale, che si manifesta attraverso semplici movimenti mentali; ed è lo stesso anche per Dio e gli angeli. Per questo motivo il Filosofo afferma nell’Etica vii, 14 che “Dio si rallegra con un solo atto semplice”; e Dionigi nel De Coelis Hierarchia scrive che “gli angeli non sono soggetti ai nostri piaceri effimeri, ma si rallegrano insieme a Dio con una gioia immortale”.
+
+Risposta all’Obiezione 3: In noi esiste la gioia, non solo in comune con gli animali privi di parola, ma anche in comune con gli angeli. Per questo Dionigi dice (De Coel. Hier.) che “gli uomini santi spesso partecipano alle gioie angeliche”. Pertanto, abbiamo gioia non soltanto nell’appetito sensibile, che condividiamo con gli animali privi di parola, ma anche nell’appetito intellettuale, che condividiamo con gli angeli.
 
 <span class="atom-split" data-atom="054" data-title="Whether bodily and sensible pleasures are greater than spiritual and intellectual pleasures?" data-chapter="Whether bodily and sensible pleasures are greater than spiritual and intellectual pleasures?" data-kind="atom" data-srclang="en"></span>
 
@@ -2352,6 +3047,25 @@ Reply to Objection 3: Bodily pleasures are realized in the sensitive faculty whi
 by reason: wherefore they need to be tempered and checked by reason. But spiritual pleasures are
 in the mind, which is itself the rule: wherefore they are in themselves both sober and moderate.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i piaceri fisici e sensibili siano più grandi di quelli spirituali e intellettuali. Infatti, secondo il Filosofo (Etica, x, 2,4), tutti gli uomini cercano qualche tipo di piacere; ma molti preferiscono i piaceri sensibili a quelli spirituali e intellettuali. Pertanto, i piaceri fisici sono più grandi.
+
+Obiezione 2: Inoltre, la grandezza di una causa si conosce attraverso i suoi effetti. Ma i piaceri corporei producono effetti più significativi; poiché “modificano lo [stato](/concepts/state) del corpo e, in alcuni casi, possono persino causare follia” (Etica, vii, 3). Pertanto, i piaceri corporei sono di maggior valore.
+
+Obiezione 3: Inoltre, i piaceri fisici devono essere moderati e controllati a causa della loro intensità; mentre non c’è alcun bisogno di controllare i piaceri spirituali. Pertanto, i piaceri fisici sono più importanti.
+
+Al contrario, è scritto (Salmo 118:103): “Quanto sono dolci le tue parole per la mia bocca; più del miele per le mie labbra!” E il Filosofo afferma (Etica, X, 7) che “il massimo piacere deriva dall’operare con saggezza”.
+
+Rispondo che, come già detto sopra (A[1]), il piacere sorge dall’unione con un oggetto appropriato percepito o conosciuto. Ora, nelle operazioni dell’anima, soprattutto di quella sensibile e intellettuale, bisogna notare che, poiché queste operazioni non si traducono in materia esterna, esse rappresentano atti o perfezioni dell’agente stesso: ad esempio, comprendere, sentire, volere, ecc. Poiché gli atti che si concretizzano in materia esterna sono piuttosto azioni e perfezioni della materia stessa trasformata; infatti “il movimento è l’atto prodotto dall’agente sulla cosa mossa” (Fisica, iii, 3). Pertanto, tali atti dell’anima sensibile e intellettuale costituiscono in sé un certo bene per l’agente stesso e vengono conosciuti attraverso i sensi e l’intelletto. Da essi deriva quindi il piacere, non soltanto dai loro oggetti. Se confrontiamo i piaceri intellettuali con quelli sensoriali – considerando come ci deludiamo negli stessi atti, ad esempio nella conoscenza sensibile o intellettuale – senza dubbio i piaceri intellettuali sono molto più intensi di quelli sensoriali. L’uomo prova infatti un grande godimento nel comprendere qualcosa, piuttosto che nel percepirlo con i sensi; la conoscenza intellettuale è infatti più perfetta e meglio compresa, poiché l’intelletto riflette sul proprio operare in modo più profondo dei sensi. Inoltre, la conoscenza intellettuale è molto più preziosa: nessuno infatti rinuncerebbe alla propria vista intellettuale pur di perdere quella fisica, come fanno gli animali o gli stolti, come afferma sant’Agostino nel De Civitate Dei (De Trinitate, xiv, 14). Tuttavia, se si confrontano i piaceri spirituali intellettuali con quelli corporei sensoriali, allora, in sé e assolutamente parlando, i piaceri spirituali sono più grandi. Ciò emerge dalla considerazione dei tre elementi necessari per il piacere: il bene che viene unito a qualcos’altro, ciò con cui viene unito e l’unione stessa. Il bene spirituale è infatti sia più grande che più prezioso di quello corporeo; ne è una prova il fatto che gli uomini preferiscono rinunciare ai piaceri fisici più intensi piuttosto che subire una perdita d’onore, che rappresenta un bene intellettuale. Inoltre, la facoltà intellettiva è molto più nobile e conoscitiva di quella sensibile; l’unione tra l’intelletto e gli oggetti del suo conoscere è inoltre più intima, perfetta e stabile: più intima, poiché i sensi si fermano alle caratteristiche esterne delle cose, mentre l’intelletto penetra nell’essenza stessa di esse; più perfetta, poiché l’unione tra il sensibile e il senso comporta movimento, che è un atto imperfetto; quindi i piaceri sensoriali non vengono percepiti immediatamente, ma una loro parte scompare mentre un’altra viene attesa come ancora da realizzare, come avviene nei piaceri legati al cibo o ai rapporti sessuali; mentre le cose intellettuali sono prive di movimento, quindi i piaceri di questo tipo si realizzano immediatamente. Infine, più stabili, poiché gli oggetti del conoscere intellettuale rimangono immutabili nel tempo.
+I piaceri corporei sono corruttibili e passano rapidamente; al contrario, i beni spirituali sono incorruttibili. D’altra parte, per quanto ci riguarda, i piaceri corporei sono più intensi per tre motivi: innanzitutto, perché le cose sensibili ci sono più familiari delle cose intellegibili; in secondo luogo, poiché i piaceri sensibili, essendo passioni dell’appetito sensitivo, sono accompagnati da alcune modificazioni nel corpo, mentre ciò non avviene nei piaceri spirituali, se non a causa di una certa reazione dell’appetito superiore su quello inferiore; infine, poiché i piaceri corporei vengono cercati come rimedi ai difetti o ai disturbi fisici, da ciò derivano varie forme di dolore. Per queste ragioni, i piaceri corporei sono percepiti più intensamente e quindi accolti con maggiore entusiasmo rispetto ai piaceri spirituali, che non comportano dolori contrari, come illustreremo ulteriormente in seguito (Q[35], A[5]).
+
+Risposta all’Obiezione 1: Il motivo per cui molte persone cercano piaceri corporei è che i beni sensibili sono conosciuti in modo più chiaro e diffuso; inoltre, gli esseri umani hanno bisogno di tali piaceri come rimedi a molti tipi di dolore e tristezza. Poiché la maggior parte delle persone non è in grado di raggiungere i piaceri spirituali, propri dei virtuosi, è per questo che si rivolgono ai piaceri del corpo.
+
+Risposta all’Obiezione 2: La trasformazione fisica deriva soprattutto dai piaceri corporei, poiché questi rappresentano passioni dell’appetito sensibile.
+
+Risposta all’Obiezione 3: I piaceri corporei si realizzano attraverso la facoltà sensibile, che è governata dalla ragione; pertanto necessitano di essere moderati e controllati dalla ragione stessa. I piaceri spirituali, invece, risiedono nella mente, che è essa stessa il principio guida; per questo motivo sono di per sé sobri e moderati.
+
 <span class="atom-split" data-atom="055" data-title="Whether the pleasures of touch are greater than the pleasures afforded by the other senses?" data-chapter="Whether the pleasures of touch are greater than the pleasures afforded by the other senses?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the pleasures of touch are not greater than the pleasures afforded
@@ -2410,6 +3124,26 @@ sake of the pleasant: whereas the sight is a cause like that from which a moveme
 inasmuch as the beholder on seeing the lovable object receives an impression of its image, which
 entices him to love it and to seek its delight.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i piaceri derivanti dal tatto non siano maggiori di quelli offerti dagli altri sensi. Infatti, il più grande piacere sembra essere quello senza il quale ogni gioia cesserebbe del tutto. Ma proprio tale è il piacere offerto dalla vista, secondo le parole di Tobit 5:12: “Che gioia potrà esserci per me, che sto nella oscurità e non vedo la luce del cielo?” Pertanto, il piacere fornito dalla vista è il più grande tra tutti i piaceri sensibili.
+
+Obiezione 2: Inoltre, “ognuno trova tesori in ciò che ama”, come afferma il Filosofo (Retorica, I, 11). Ma “di tutti i sensi, la vista è quella più amata” (*Metafisica, I, 1). Pertanto, sembra che sia la vista a procurare il massimo piacere.
+
+Obiezione 3: Inoltre, l’inizio di una [amicizia](/concepts/friendship) che ha lo scopo di procurare piacere deriva principalmente dalla vista. Ma il piacere è la causa stessa di tale amicizia. Pertanto, sembra che il piacere più grande venga fornito dalla vista.
+
+Al contrario, il Filosofo afferma (Etica, III, 10) che i piaceri più grandi sono quelli che derivano dal contatto fisico.
+
+Rispondo che, come già detto sopra (Q[25], A[2], ad 1; Q[27], A[4], ad 1), tutto ciò che dà piacere lo fa nella misura in cui viene amato. Ora, come affermato nel “Metafisico” I, 1, i sensi vengono amati per due motivi: per il fine della conoscenza e per la loro utilità. Pertanto, i sensi procurano piacere in entrambi questi modi. Ma poiché è proprio dell’uomo comprendere la conoscenza stessa come qualcosa di buono, ne consegue che i piaceri derivanti dai sensi, cioè quelli legati alla conoscenza, siano propri dell’uomo; mentre i piaceri dei sensi, amati per la loro utilità, sono comuni a tutti gli animali.  
+Se quindi parliamo di quel tipo di piacere sensoriale che deriva dalla conoscenza, è evidente che la vista procura un piacere maggiore rispetto agli altri sensi. D’altra parte, se consideriamo quel tipo di piacere sensoriale legato all’utilità, allora il piacere più intenso viene dal tatto. Infatti, l’utilità delle cose sensibili si misura in base alla loro relazione con la conservazione della natura animale; gli oggetti tattili, però, sono quelli che hanno una relazione più stretta con questa utilità, poiché il tatto permette di conoscere ciò che è vitale per l’animale – cioè cose calde, fredde e simili. Pertanto, in questo senso, i piaceri del tatto sono maggiori, essendo più strettamente legati allo scopo finale della natura umana. Per questa ragione, anche altri animali che non provano piacere sensoriale per motivi legati all’utilità, non traggono alcun piacere dagli altri sensi se non in quanto questi siano subordinati agli oggetti tattili; “infatti i cani non trovano gioia nell’odore dei conigli, ma nel mangiarli, né il leone prova piacere nel muggito di un bue, ma nel divorarlo” (Etica III, 10).  
+Poiché quindi il piacere fornito dal tatto è il più grande in termini di utilità, e quello fornito dalla vista è il più grande in termini di conoscenza, se qualcuno volesse confrontare i due, scoprirebbe che, in assoluto, il piacere del tatto è maggiore di quello della vista, nella misura in cui quest’ultimo rimane entro i limiti del piacere sensoriale. Poiché è evidente che, in tutto ciò che esiste, ciò che è naturale è ciò che ha più forza; e sono proprio questi piaceri del tatto a essere destinati alle concupiscenze naturali dell’uomo – come il desiderio di cibo, di unione sessuale, ecc. Tuttavia, se consideriamo i piaceri della vista, poiché essa è al servizio dell’intelletto, allora i piaceri della vista sono ancora maggiori, poiché i piaceri intellettuali sono superiori a quelli sensoriali.
+
+Risposta all’Obiezione 1: La gioia, come detto sopra (A[3]), indica un piacere dell’anima; e questo piacere appartiene principalmente alla vista. Tuttavia, il piacere naturale appartiene principalmente al tatto.
+
+Risposta all’Obiezione 2: La vista è quella che viene amata di più, “per via della conoscenza, poiché ci aiuta a distinguere molte cose”, come si afferma nello stesso passaggio (Metafisica, I, 1).
+
+Risposta all’Obiezione 3: Il piacere provoca l’amore carnale in un modo; la vista, in un altro. Infatti, il piacere, soprattutto quello derivante dal contatto fisico, è la [causa finale](/concepts/four_causes) dell’amicizia nata dall’apprezzamento di ciò che è piacevole; mentre la vista rappresenta una causa che dà origine a un movimento, nel senso che chi guarda, vedendo l’oggetto amabile, riceve l’impressione della sua immagine, il che lo spinge ad amarlo e a cercarne il piacere.
+
 <span class="atom-split" data-atom="056" data-title="Whether any pleasure is not natural?" data-chapter="Whether any pleasure is not natural?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no pleasure is not natural. For pleasure is to the emotions of
@@ -2450,6 +3184,18 @@ pleasure in eating earth and coals and the like; or on the part of the soul; thu
 take pleasure in cannibalism or in the unnatural intercourse of man and beast, or other such things,
 which are not in accord with [human nature](/axes/human_nature).
 This suffices for the answers to the objections.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nessun piacere possa essere considerato non naturale. Infatti, il piacere è, per le emozioni dell’anima, ciò che il riposo è per i corpi. Ma l’appetito di un corpo naturale trova riposo soltanto in ciò che gli è congeniale. Pertanto, anche il riposo dell’appetito animale, che è il piacere, può avvenire soltanto in qualcosa di congeniale a tale appetito. Quindi, nessun piacere può essere considerato non naturale.
+
+Obiezione 2: Inoltre, ciò che è contrario alla natura è violento. Ma “quello che è violento provoca dolore” (Metafisica, V, 5). Pertanto, nulla di innaturale può procurare piacere.
+
+Obiezione 3: Inoltre, il fatto di essere conforme alla propria natura, se percepito, genera piacere, come è evidente dalla definizione del Filosofo citata sopra (A[1]). Ma è naturale che ogni cosa sia conforme alla propria natura; poiché il movimento naturale tende verso un fine naturale. Pertanto, ogni piacere è naturale.
+
+Al contrario, il Filosofo afferma (Etica, VII, 5, 6) che alcune cose sono piacevoli “non per natura, ma a causa di una qualche malattia”.
+
+Rispondo che parliamo di ciò che è “naturale” nel senso di ciò che è in armonia con la natura, come affermato nella Physica ii, 1. Ora, nell’uomo, il concetto di natura può essere inteso in due modi. In primo luogo, poiché l’intelletto e la ragione costituiscono la parte principale della natura umana, ciò che deriva da queste facoltà può essere considerato “naturale” per l’uomo: ad esempio, è naturale per lui godere nel contemplare la verità o nell’eseguire atti di virtù. In secondo luogo, il concetto di natura può essere inteso anche in contrapposizione alla ragione, indicando ciò che è comune all’uomo e ad altri animali, soprattutto quella parte dell’essere umano che non obbedisce alla ragione. In questo senso, ciò che serve alla conservazione del corpo – sia a livello individuale (cibo, bevande, sonno, ecc.) sia a livello della specie (relazioni sessuali) – può essere considerato fonte di piacere naturale per l’uomo. Tuttavia, all’interno di ciascun tipo di piacere, esistono casi in cui ciò che è “naturale” in senso assoluto diventa, in qualche modo, “contranaturale”. Ciò può accadere a causa di una corruzione delle leggi naturali insite nell’individuo: ad esempio, per un uomo affetto da febbre, le cose dolci possono sembrare amare, e viceversa. Tale corruzione può derivare dal corpo (a causa di malattie) o dall’anima (a causa di abitudini viziose). In tal caso, ciò che non è naturale per l’uomo diventa, in quel particolare individuo, “contranaturale”. Questo spiega sufficientemente le obiezioni sollevate.
 
 <span class="atom-split" data-atom="057" data-title="Whether one pleasure can be contrary to another?" data-chapter="Whether one pleasure can be contrary to another?" data-kind="atom" data-srclang="en"></span>
 
@@ -2495,6 +3241,24 @@ pleasure, cause not only a material, but also a formal difference, if the formal
 be different. Because difference in the formal object causes a specific difference in acts and passions,
 as stated above (Q[23], AA[1],4; Q[30], A[2]).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che un piacere non possa essere contrario a un altro. Poiché le passioni dell’anima derivano la loro specie e la loro contrarietà dai loro oggetti, e l’oggetto del piacere è il bene, poiché il bene non è contrario a se stesso, ma “il bene è contrario al male, e il male al bene”, come affermato nel Praedicatus viii, sembra che un piacere non possa essere contrario a un altro.
+
+Obiezione 2: Inoltre, a ogni cosa corrisponde una contraria, come dimostrato nella Metafisica X, 4. Ma la tristezza è contraria al piacere. Pertanto, il piacere non è contrario a se stesso.
+
+Obiezione 3: Inoltre, se un piacere è contrario a un altro, ciò avviene soltanto a causa della diversità delle cose che generano quel piacere. Ma questa differenza è di natura materiale; mentre la contrarietà è una differenza di forma, come affermato nella Metafisica X, 4. Pertanto non esiste alcuna contrarietà tra un piacere e un altro.
+
+Al contrario, le cose dello stesso genere che si ostacolano a vicenda sono contrarie tra loro, come afferma il Filosofo (Fisica viii, 8). Tuttavia alcune gioie si ostacolano a vicenda, come indicato nell’Etica x, 5. Pertanto alcune gioie sono contrarie tra loro.
+
+Rispondo che, nelle emozioni dell’anima, il piacere è paragonabile al riposo nei corpi naturali, come detto sopra (Q[23], A[4]). Si dice infatti che un tipo di riposo sia contrario a un altro quando si trovano in termini opposti; pertanto “il riposo in luogo elevato è contrario al riposo in luogo basso” (Phys. v, 6). Ecco perché, nelle emozioni dell’anima, può accadere che un piacere sia contrario a un altro.
+
+Risposta all’Obiezione 1: Questa affermazione del Filosofo deve essere intesa nel senso che il bene e il male vanno considerati in relazione alle virtù e ai vizi: infatti, un vizio può essere contrario a un altro vizio, mentre nessuna virtù può essere contraria a un’altra virtù. Tuttavia, in altri casi nulla impedisce che un bene sia contrario a un altro; ad esempio, il caldo e il freddo: il primo è considerato un bene in relazione al fuoco, il secondo in relazione all’acqua. In questo modo, anche un piacere può essere contrario a un altro. Che ciò non sia possibile nel caso del bene rappresentato dalle virtù deriva dal fatto che il bene della virtù dipende dalla sua appropriata applicazione rispetto a qualcosa – cioè rispetto alla ragione.
+
+Risposta all’Obiezione 2: Il piacere, tra le emozioni dell’anima, può essere paragonato al riposo naturale del corpo; infatti il suo oggetto è qualcosa di appropriato e congeniale, per così dire. La tristezza, invece, assomiglia a un riposo violento: il suo oggetto è qualcosa che contraddice i desideri naturali dell’individuo, proprio come un luogo di riposo violento è sgradevole al naturale appetito umano. Ora, il riposo naturale è contrario sia al riposo violento dello stesso corpo sia a quello naturale di un altro corpo, come affermato nella Physica V, 6. Pertanto, anche il piacere è contrario sia ad altri tipi di piacere che alla tristezza.
+
+Risposta all’Obiezione 3: Le cose che ci procurano piacere, poiché sono gli oggetti di tale piacere, causano non solo una differenza materiale, ma anche una differenza formale, qualora la “formalità” del piacevole sia diversa. Poiché una differenza nell’oggetto formale determina una differenza specifica negli atti e nelle passioni, come già affermato in precedenza (Q[23], AA[1],4; Q[30], A[2]).
+
 <span class="atom-split" data-atom="058" data-title="OF THE CAUSE OF PLEASURE (EIGHT ARTICLES)" data-chapter="OF THE CAUSE OF PLEASURE (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the causes of pleasure: and under this head there are eight points of
@@ -2507,6 +3271,18 @@ inquiry:
 (6) Whether doing good to another is a cause of pleasure?
 (7) Whether likeness is a cause of pleasure?
 (8) Whether wonder is a cause of pleasure?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare le cause del piacere: e in questo ambito ci sono otto punti da esaminare:
+(1) Il fatto che l’azione sia la vera causa del piacere;
+(2) Il fatto che il movimento possa essere una causa di piacere;
+(3) Il fatto che la speranza e la [memoria](/concepts/memory) possano generare piacere;
+(4) Il fatto che la tristezza possa causare piacere;
+(5) Il fatto che le azioni altrui possano procurarci piacere;
+(6) Il fatto che fare del bene a qualcuno possa essere motivo di gioia;
+(7) Il fatto che la somiglianza tra persone possa generare piacere;
+(8) Il fatto che lo [stupore](/concepts/memory) possa essere una causa di piacere.
 
 <span class="atom-split" data-atom="059" data-title="Whether operation is the proper cause of pleasure?" data-chapter="Whether operation is the proper cause of pleasure?" data-kind="atom" data-srclang="en"></span>
 
@@ -2549,6 +3325,24 @@ to the agent. Now, since human power is finite, operation is proportionate there
 certain measure. Wherefore if it exceed that measure, it will be no longer proportionate or pleasant,
 but, on the contrary, painful and irksome. And in this sense, leisure and play and other things
 pertaining to repose, are pleasant, inasmuch as they banish sadness which results from labor.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’azione non sia la causa propria e primaria del piacere. Infatti, come afferma il Filosofo (Retorica i, 11), “il piacere consiste in una percezione dei sensi”; poiché la conoscenza è necessaria per provare piacere, come detto sopra (Q[31], A[1]), gli oggetti delle azioni devono essere conosciuti prima che tali azioni vengano compiute. Pertanto, l’azione non può essere considerata la causa propria del piacere.
+
+Obiezione 2: Inoltre, il piacere consiste soprattutto in un risultato ottenuto, poiché è proprio questo che si desidera principalmente. Ma il risultato non è sempre una sorta di azione; a volte è semplicemente l’effetto di quell’azione. Pertanto, l’azione stessa non è la causa propria e diretta del piacere.
+
+Obiezione 3: Inoltre, il tempo libero e il riposo consistono nel cessare dal lavoro; essi rappresentano oggetti di piacere (Retorica I, 11). Pertanto, l’attività lavorativa non è la causa propria del piacere.
+
+Al contrario, il Filosofo afferma (Etica, vii, 12, 13; x, 4) che “il piacere è un’operazione naturale e ininterrotta”.
+
+Rispondo che, come già detto sopra (Q[31], A[1]), per provare piacere sono necessarie due cose: cioè l’ottenimento del bene appropriato e la conoscenza di tale ottenimento. Ora, ognuna di queste due condizioni consiste in una sorta di azione; infatti, la conoscenza effettiva è un’azione, e l’ottenimento del bene appropriato avviene attraverso un’azione. Inoltre, l’azione stessa in sé rappresenta un bene appropriato. Pertanto, ogni piacere deve necessariamente essere il risultato di un’azione.
+
+Risposta all’Obiezione 1: Gli oggetti delle operazioni non sono piacevoli se non nella misura in cui sono connessi a noi; sia attraverso la conoscenza soltanto, come quando ci compiacciamo nel pensare o nel guardare certe cose, sia in qualche altro modo oltre alla conoscenza, come quando un uomo prova piacere nel sapere di possedere qualcosa di buono – ricchezze, onore, ecc. – il che non sarebbe piacevole se tali cose non venissero percepite come effettivamente possedute. Come osserva il Filosofo (Politica ii, 2): “Ci compiacciamo molto nel considerare qualcosa come nostro, a causa dell’amore naturale che proviamo per noi stessi”. Ora, possedere cose del genere significa semplicemente utilizzarle o essere in grado di utilizzarle; e questo avviene attraverso qualche operazione. Pertanto è evidente che ogni piacere ha come causa una qualche operazione.
+
+Risposta all’Obiezione 2: Anche quando non si tratta di un’operazione in sé, ma dell’effetto di un’operazione, cioè dello scopo finale, tale effetto è piacevole nella misura in cui viene posseduto o realizzato; e questo implica necessariamente l’uso o l’esecuzione di un’operazione.
+
+Risposta all’Obiezione 3: Le attività sono piacevoli nella misura in cui siano proporzionali e conformi alle capacità naturali dell’individuo. Poiché la forza umana è finita, le attività sono proporzionali a essa entro certi limiti. Se tali limiti vengono superati, le attività non saranno più proporzionali né piacevoli, ma, al contrario, dolorose e sgradevoli. In questo senso, il riposo, i giochi e altre attività legate al relax sono piacevoli perché eliminano la tristezza derivante dal lavoro.
 
 <span class="atom-split" data-atom="060" data-title="Whether movement is a cause of pleasure?" data-chapter="Whether movement is a cause of pleasure?" data-kind="atom" data-srclang="en"></span>
 
@@ -2612,6 +3406,26 @@ departs from custom, but rather that which prevents the corruption of the natura
 that might result from continued operation. And thus from the same cause of connaturalness, both
 custom and movement become pleasant.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il movimento non sia una causa di piacere. Poiché, come detto sopra (Q[31], A[1]), il bene che viene ottenuto e effettivamente posseduto è la causa del piacere; pertanto il Filosofo afferma (Etica vii, 12) che il piacere non va paragonato al processo di generazione, ma all’operazione di qualcosa che già esiste. Ora, ciò che si muove verso qualcos’altro non lo possiede ancora; in un certo senso, viene “generato” rispetto a quel fine, poiché ogni movimento è accompagnato da processi di generazione o corruzione, come indicato nella Fisica viii, 3. Pertanto, il movimento non è una causa di piacere.
+
+Obiezione 2: Inoltre, il movimento è la principale causa di fatica e stanchezza nei nostri sforzi. Ma le operazioni che richiedono sforzo e fatica non sono piacevoli, bensì sgradevoli. Pertanto, il movimento non può essere considerato una fonte di piacere.
+
+Obiezione 3: Inoltre, il movimento implica una certa innovazione, il che è l’opposto della [consuetudine](/concepts/custom).
+Ma le cose “alle quali siamo abituati sono piacevoli”, come afferma il Filosofo (Retorica i, 11).
+Pertanto, il movimento non è una causa di piacere.
+
+Al contrario, [Agostino](/figures/augustine) afferma (Confessioni, viii, 3): “Che significa questo, o Signore mio Dio, se Tu stesso sei una gioia eterna per Te stesso, e alcune cose intorno a Te si rallegrano sempre in Te? Che significa che questa parte delle cose subisce alternanze di dispiacere e riconciliazione?” Da queste parole possiamo dedurre che l’uomo si rallegra e trova piacere in certi tipi di cambiamenti; pertanto, il movimento sembra essere fonte di gioia.
+
+Rispondo che per provare piacere sono necessarie tre cose: due di queste riguardano la persona che prova il piacere e l’oggetto che lo provoca; la terza è la conoscenza di questo legame tra le due. Per quanto riguarda queste tre condizioni, il movimento è considerato piacevole, come afferma il Filosofo (Etica vii, 14 e Retorica i, 11). Poiché noi, che proviamo piacere, siamo esseri soggetti al cambiamento, ciò che in un momento è appropriato per noi può diventare inappropriato in un altro; ad esempio, riscaldarsi vicino al fuoco è vantaggioso in inverno ma non in estate. Inoltre, anche l’oggetto stesso del piacere, essendo soggetto a cambiamenti, contribuisce a rendere il piacere più intenso: l’azione continua di un agente infatti aumenta il suo effetto; quindi, più a lungo una persona rimane vicino al fuoco, più si riscalda e si asciuga. Tuttavia, quando la presenza costante di un oggetto piacevole supera i limiti della nostra natura, la sua assenza diventa anch’essa piacevole. Per quanto riguarda la conoscenza stessa, il cambiamento è gradito perché l’uomo desidera comprendere le cose nel loro insieme e nella loro perfezione; quindi, quando qualcosa non può essere compreso immediatamente nel suo intero, il suo sviluppo progressivo diventa piacevole. Per questo Agostino afferma: “Non vorresti che le sillabe rimanessero ferme, ma che si muovessero via affinché altre potessero arrivare e tu potessi comprendere l’intero testo”. Se dunque esiste qualcosa la cui natura è immutabile, la cui condizione naturale non può essere superata dalla presenza continua di oggetti piacevoli, e che può percepire immediatamente l’intero oggetto del proprio desiderio, allora il cambiamento non potrà mai portare gioia. E più i piaceri si avvicinano a questa condizione ideale, più diventano capaci di durare a lungo.
+
+Risposta all’Obiezione 1: Sebbene l’oggetto del movimento non abbia ancora raggiunto perfettamente lo stato verso cui è diretto, tuttavia inizia ad acquisire alcune caratteristiche di tale stato; e in questo senso il movimento stesso contiene in sé elementi di piacere. Tuttavia, manca della perfezione del piacere, poiché i piaceri veramente perfetti riguardano cose immutabili. Inoltre, il movimento diventa causa di piacere nel momento in cui, come già detto, qualcosa che prima era inadatto diventa adatto o smette di esserlo.
+
+Risposta all’Obiezione 2: Il movimento provoca fatica e stanchezza quando supera le nostre capacità naturali. Non è in questo modo che genera piacere, ma eliminando gli ostacoli che impediscono lo sviluppo delle nostre abilità innate.
+
+Risposta all’Obiezione 3: Ciò che è consuetudine diventa piacevole, nella misura in cui diventa naturale; infatti la consuetudine è come una seconda natura. Ma il movimento che provoca piacere non è quello che si discosta dalla consuetudine, bensì quello che impedisce la corruzione del modo naturale di essere, che potrebbe derivare da un’azione continua dello stesso. E così, per la stessa ragione di connaturalità, sia la consuetudine che il movimento diventano piacevoli.
+
 <span class="atom-split" data-atom="061" data-title="Whether hope and memory causes pleasure?" data-chapter="Whether hope and memory causes pleasure?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [memory](/concepts/memory) and hope do not cause pleasure. Because pleasure is
@@ -2656,6 +3470,24 @@ chiefly a craving for pleasure. However hope, as implying a certainty of the rea
 pleasing good, that is not implied either by love or by concupiscence, is reckoned in preference to
 them as causing pleasure; and also in preference to memory, which is of that which has already
 passed away.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la [memoria](/concepts/memory) e la speranza non provochino piacere. Poiché il piacere è causato dal bene presente, come afferma Damasceno (De Fide Orth. ii, 12). Ma la speranza e la memoria riguardano ciò che è assente: poiché la memoria si riferisce al passato, mentre la speranza al futuro. Pertanto, memoria e speranza non provocano piacere.
+
+Obiezione 2: Inoltre, la stessa cosa non può essere causa di contrari. Ma la speranza provoca sofferenza, come afferma il Proverbo 13:12: “La speranza che si ritarda tormenta l’anima”. Pertanto, la speranza non può causare piacere.
+
+Obiezione 3: Inoltre, proprio come la speranza concorda con il piacere nel considerare il bene, lo stesso vale per il desiderio e l’amore. Pertanto, la speranza non dovrebbe essere considerata una causa di piacere, così come il desiderio o l’amore.
+
+Al contrario, è scritto (Roma 12:12): “Rallegrarsi nella speranza”; e (Salmo 76:4): “Mi sono ricordato di Dio ed ero felice”.
+
+Rispondo che il piacere è causato dalla presenza di un bene idoneo, nella misura in cui tale bene viene percepito o intuito in qualche modo. Ora, una cosa ci è presente in due modi: innanzitutto, nel conoscere, cioè nella misura in cui la cosa conosciuta esiste nell’intelletto attraverso la sua somiglianza con quest’ultimo; in secondo luogo, nella realtà, cioè nella misura in cui una cosa è effettivamente connessa a un’altra, sia in modo reale che potenziale. Poiché la connessione reale è più significativa della connessione basata sulla somiglianza, che è tipica del conoscere; e poiché ciò che è reale è superiore a ciò che è solo potenziale: quindi il piacere più intenso è quello che deriva dalla percezione sensoriale, la quale richiede la presenza dell’oggetto percepito. Il secondo tipo di piacere è quello derivante dalla speranza, in cui esiste una connessione gratificante non solo riguardo alla comprensione intellettuale, ma anche riguardo alla possibilità concreta di ottenere l’oggetto desiderato. Il terzo tipo di piacere è quello legato alla memoria, che comporta soltanto la connessione intellettuale tra ricordi e realtà.
+
+Risposta all’Obiezione 1: La speranza e la memoria riguardano infatti cose che, in senso assoluto, sono assenti; eppure, in un certo modo, queste cose sono presenti, cioè o soltanto secondo l’intuizione, oppure secondo l’intuizione e la possibilità, almeno presunta, di essere realizzate.
+
+Risposta all’Obiezione 2: Niente impedisce che la stessa cosa, in modi diversi, possa essere causa di contrari. Pertanto, la speranza, nella misura in cui implica una valutazione attuale di un bene futuro, provoca piacere; mentre, nella misura in cui implica l’assenza di tale bene, provoca dolore.
+
+Risposta all’Obiezione 3: L’amore e la [concupiscenza](/concepts/concupiscence) causano anch’essi piacere. Infatti, tutto ciò che è amato diventa gradito a colui che ama, poiché l’amore rappresenta una sorta di unione o affinità naturale tra l’amante e la persona amata. Allo stesso modo, ogni oggetto del desiderio è piacevole per chi lo desidera, poiché il desiderio consiste principalmente nel bramare il piacere. Tuttavia, la speranza, in quanto implica una certezza della reale presenza di quel bene gradito – qualcosa che né l’amore né la concupiscenza implicano – viene considerata più efficace di loro nel causare piacere; lo è anche rispetto alla memoria, che riguarda ciò che è già passato.
 
 <span class="atom-split" data-atom="062" data-title="Whether sadness causes pleasure?" data-chapter="Whether sadness causes pleasure?" data-kind="atom" data-srclang="en"></span>
 
@@ -2742,6 +3574,24 @@ Reply to Objection 3: Although the actions of another do not proceed from habits
 me, yet they either produce in me something that gives pleasure; or they make me appreciate or
 know a habit of mind; or they proceed from the habit of one who is united to me by love.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le azioni altrui non siano una causa di piacere per noi. Poiché la causa del piacere è il nostro stesso bene quando è connesso a noi. Ma le azioni altrui non sono connesse a noi; pertanto, non costituiscono una causa di piacere per noi.
+
+Obiezione 2: Inoltre, l’azione rappresenta il bene stesso dell’agente. Pertanto, se le azioni altrui sono motivo di piacere per noi, per lo stesso motivo anche tutti i beni appartenenti ad altri dovrebbero essere fonte di gioia per noi; il che è ovviamente falso.
+
+Obiezione 3: Inoltre, l’azione è piacevole perché deriva da un’innata [abitudine](/concepts/custom); per questo motivo si afferma nell’Etica ii, 3 che “dobbiamo considerare il piacere che segue l’azione come segno di un’abitudine presente in noi”. Tuttavia, le azioni altrui non derivano da abitudini nostre, ma talvolta da abitudini degli stessi autori di tali azioni. Pertanto, le azioni altrui non sono piacevoli per noi, ma soltanto per coloro che le compiono.
+
+Al contrario, è scritto nella seconda lettera canonica di Giovanni (versetto 4): “Sono stato molto felice di trovare i tuoi figli che camminano nella verità”.
+
+Rispondo che, come già detto sopra (A[1]; Q[31], A[1]), per provare piacere sono necessarie due cose: l’ottenimento del proprio bene e la consapevolezza di averlo realmente raggiunto. Pertanto, l’azione altrui può procurarci piacere in tre modi. Primo, quando attraverso quell’azione otteniamo qualche bene; in questo caso, le azioni di coloro che fanno del bene per noi ci risultano gradite, poiché è piacevole essere beneficiati dagli altri. Secondo, quando l’azione altrui ci permette di riconoscere o apprezzare il nostro proprio bene; per questo motivo gli uomini provano piacere nel ricevere lodi o onori dagli altri, poiché così diventano consapevoli di possedere qualcosa di positivo in sé stessi. E poiché tale apprezzamento acquista maggior valore attraverso il giudizio di persone buone e sagge, gli uomini provano ancora più piacere nel ricevere lodi da loro. Inoltre, poiché le lusinghe sembrano esprimere vero apprezzamento, alcune persone trovano gradite tali parole. E poiché l’amore è legato a qualcosa di positivo, mentre l’ammirazione riguarda qualcosa di grande, è piacevole essere amati e ammirati dagli altri, poiché così si diventa consapevoli della propria bontà o grandezza. Terzo, quando le azioni altrui, se buone, vengono considerate come propri beni, grazie al potere dell’amore che fa sì che un uomo consideri il proprio amico come parte di sé stesso; al contrario, l’odio può far sì che si consideri il bene altrui come qualcosa di negativo per sé, e quindi le azioni malvagie di un nemico possono procurare piacere. Da qui deriva la scritta di 1 Corinzi 13:6: “La carità non si rallegra della ingiustizia, ma si rallegra nella verità”.
+
+Risposta all’Obiezione 1: L’azione di un altro può essere collegata alla mia, sia attraverso i suoi effetti, come nel primo caso, sia attraverso la conoscenza che ne ho, come nel secondo caso; oppure ancora attraverso un sentimento o una emozione condivisa, come nel terzo caso.
+
+Risposta all’Obiezione 2: Questo argomento è valido per il terzo modo, ma non per i primi due.
+
+Risposta all’Obiezione 3: Sebbene le azioni di un altro non derivino da abitudini che esistono in me, esse producono comunque in me qualcosa che mi procura piacere; oppure mi fanno comprendere o conoscere un certo modo di pensare; o ancora derivano dall’abitudine di una persona che è unita a me attraverso l’amore.
+
 <span class="atom-split" data-atom="064" data-title="Whether doing good to another is a cause of pleasure?" data-chapter="Whether doing good to another is a cause of pleasure?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that doing good to another is not a cause of pleasure. Because
@@ -2800,6 +3650,24 @@ slight by paying back the hurt. And thus it is clear that doing good to another 
 pleasant: whereas doing evil to another is not pleasant, except in so far as it seems to affect one's
 own good.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che fare del bene agli altri non sia una causa di piacere. Poiché il piacere deriva dal conseguire ciò che è propriamente vantaggioso per una persona, come detto sopra (AA[1],5; Q[31], A[1]). Ma fare del bene riguarda non il conseguimento, bensì la donazione di ciò che è propriamente vantaggioso. Pertanto, sembrerebbe essere una causa di tristezza piuttosto che di piacere.
+
+Obiezione 2: Inoltre, il Filosofo afferma (Etica, iv, 1) che “l’irragionevolezza è più congenita all’uomo della prodigalità”. Ora, fare del bene agli altri è un segno di prodigalità; mentre astenersi dal fare del bene è un segno di irragionevolezza. Poiché quindi tutti provano piacere in azioni che sono congenite alla loro natura, come si afferma nell’Etica, vii, 14 e x, 4, sembra che fare del bene agli altri non sia una fonte di piacere.
+
+Obiezione 3: Inoltre, effetti contrari derivano da cause contrarie. Tuttavia l’uomo prova un piacere naturale in alcune forme di comportamento negativo, come sconfiggere gli altri, contraddirli o rimproverarli; inoltre, se è arrabbiato, prova piacere nel punirli, come afferma il Filosofo (Retorica i, 11). Pertanto, fare del bene agli altri dovrebbe essere motivo di tristezza piuttosto che di gioia.
+
+Al contrario, il Filosofo afferma (Politica ii, 2) che “è molto piacevole fare regali o offrire aiuto ad amici e estranei”.
+
+Rispondo che fare del bene agli altri può procurare piacere in tre modi. Primo, considerando l’effetto stesso, ovvero il bene che viene arrecato all’altro. In questo senso, poiché, attraverso l’amore, ci uniamo agli altri e consideriamo il loro bene come nostro, proviamo piacere nel bene che facciamo agli altri, soprattutto ai nostri amici, come se fosse un bene che riguarda noi stessi. Secondo, considerando lo scopo finale: quando una persona, facendo del bene a qualcuno, si aspetta di trarne beneficio per sé, sia da Dio che dagli altri; poiché la speranza è una fonte di piacere. Terzo, considerando il principio stesso su cui si basa l’atto di fare del bene: in questo modo, compiere atti di bontà può procurare piacere grazie a tre principi fondamentali. Il primo è la capacità stessa di fare del bene; in questo caso, agire bene diventa piacevole perché suscita in noi l’immaginazione di possedere in abbondanza qualcosa di buono che possiamo condividere con gli altri. Per questo motivo le persone provano piacere nei loro figli e nelle proprie opere, poiché considerano queste cose come espressioni del bene che donano agli altri. Un altro principio è l’inclinazione naturale dell’uomo a compiere atti di bontà; per questo motivo una persona generosa trova piacere nel donare agli altri. Il terzo principio è il movente che ci spinge ad agire: ad esempio, quando siamo motivati dall’amore verso qualcuno a fare del bene per lui; poiché tutto ciò che facciamo o subiamo per un amico è piacevole, perché l’amore è la principale fonte di gioia.
+
+Risposta all’Obiezione 1: Spendere procura piacere, poiché permette di manifestare i propri beni. Tuttavia, nella misura in cui ci priva dei nostri veri beni, può diventare causa di tristezza, soprattutto quando è eccessivo.
+
+Risposta all’Obiezione 2: La prodigalità rappresenta un’esagerata spesa, qualcosa di innaturale; per questo motivo si dice che la prodigalità sia contraria alla natura.
+
+Risposta all’Obiezione 3: Sconfiggere, contraddire e punire possono procurare piacere non come atti volti al male altrui, ma come azioni legate al proprio bene, che l’uomo ama molto di più del male altrui. Infatti è naturalmente piacevole sconfiggere qualcuno, poiché ci fa apprezzare la propria superiorità. Per questo motivo, tutti quei giochi in cui c’è uno sforzo per ottenere la vittoria procurano il massimo piacere; allo stesso modo, tutte le competizioni che offrono la possibilità di vincere sono fonte di gioia. Contraddire e rimproverare possono dare piacere in due modi: innanzitutto, facendo sì che una persona si consideri saggia ed eccellente, poiché è proprio dei saggi e degli anziani il compito di rimproverare; in secondo luogo, perché attraverso i rimproveri si fa del bene agli altri, il che, come già detto, provoca piacere. È anche piacevole per una persona arrabbiata punire qualcuno, poiché ritiene di eliminare un’offesa apparente causata da un torto precedente; infatti, quando una persona viene offesa, ha l’impressione di essere stata umiliata, e quindi desidera vendicarsi per rimuovere questa umiliazione. È evidente quindi che fare del bene agli altri possa essere in sé stesso fonte di piacere, mentre fare del male agli altri non lo è, se non nel caso in cui ciò sembri vantaggioso per il proprio interesse personale.
+
 <span class="atom-split" data-atom="065" data-title="Whether likeness is a cause of pleasure?" data-chapter="Whether likeness is a cause of pleasure?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that likeness is not a cause of pleasure. Because ruling and presiding
@@ -2849,6 +3717,25 @@ his "body is corroded by a base humor," as stated in Ethic. vii, 14.
 Reply to Objection 3: Bodily goods are conditioned by a certain fixed measure: wherefore
 surfeit of such things destroys the proper good, and consequently gives rise to disgust and sorrow,
 through being contrary to the proper good of man.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la somiglianza non sia una causa di piacere. Infatti, il dominare e il presiedere sembrano implicare una certa dissomiglianza. Tuttavia, “è naturale provare piacere nel dominare e nel presiedere”, come affermato in Rhetorica i, 11. Pertanto, è la dissomiglianza, e non la somiglianza, a essere una causa di piacere.
+
+Obiezione 2: Inoltre, nulla è più diverso dal piacere del dolore. Ma coloro che sono oppressi dal dolore sono i più propensi a cercare il piacere, come afferma il Filosofo (Etica, vii, 14). Pertanto, è la diversità, e non la somiglianza, a costituire una causa di piacere.
+
+Obiezione 3: Inoltre, coloro che sono saziati di certi piaceri non provano gioia, ma disgusto al loro riguardo; proprio come quando si è saziati di cibo. Pertanto, la somiglianza non può essere considerata una causa di piacere.
+
+Al contrario, la somiglianza è una causa d’amore, come già detto sopra (Q[27], A[3]); e l’amore è la causa del piacere. Pertanto, la somiglianza è anche una causa di piacere.
+
+Rispondo che la somiglianza rappresenta un certo tipo di unità; pertanto ciò che è simile a noi, essendo considerato “uno” con noi, provoca piacere; e proprio per questo motivo genera amore, come già detto in precedenza (Q[27], A[3]). Se ciò che è simile a noi non danneggia il nostro bene, ma lo aumenta, allora è semplicemente piacevole – ad esempio, un uomo rispetto a un altro, o un giovane rispetto a un altro. Tuttavia, se tale somiglianza danneggia il nostro bene, allora provoca disgusto o tristezza, non perché ciò che è simile a noi sia effettivamente “uno” con noi, ma perché rappresenta qualcosa di nocivo per ciò che è veramente essenziale per noi.  
+Ora, si può osservare che qualcosa di simile possa danneggiare il nostro bene in due modi: innanzitutto, distruggendo la misura del nostro stesso bene, attraverso un eccesso; poiché il bene, soprattutto quello fisico come la salute, è condizionato da una certa misura; quindi un eccesso di benessere o di piaceri fisici provoca disgusto. In secondo luogo, quando qualcosa è direttamente contrario al nostro bene: ad esempio, un ceramista disprezza altri ceramisti non perché siano ceramisti, ma perché questi gli tolgono la possibilità di realizzare le proprie capacità o di ottenere i propri guadagni, che egli considera il proprio bene.
+
+Risposta all’Obiezione 1: Poiché sovrano e suddito sono in comunione reciproca, esiste una certa somiglianza tra loro; tuttavia questa somiglianza è condizionata da una certa superiorità, poiché il ruolo di sovrano e di guida riguarda l’eccellenza del bene stesso dell’uomo: appartengono infatti a individui saggi e migliori degli altri; di conseguenza, tali ruoli permettono all’uomo di comprendere la propria eccellenza. Un altro motivo è che, esercitando il potere di governare e guidare, l’uomo compie azioni benefiche verso gli altri, il che è piacevole.
+
+Risposta all’Obiezione 2: Ciò che procura piacere all’uomo addolorato, anche se diverso dal dolore stesso, presenta comunque alcune somiglianze con tale stato d’animo; infatti i dolori sono contrari al suo bene personale. Pertanto, l’uomo addolorato cerca il piacere come qualcosa che possa giovare al proprio bene, nella misura in cui esso rappresenta un rimedio contro ciò che è contrario a tale bene. Ed è per questo che i piaceri fisici, che sono contrari a certi tipi di dolore, vengono cercati più frequentemente dei piaceri intellettuali, i quali non presentano alcun dolore correlato; come spiegheremo in seguito (Q[35], A[5]). Questo spiega anche perché tutti gli animali desiderano naturalmente il piacere: poiché agiscono sempre attraverso i sensi e i movimenti. Per lo stesso motivo, i giovani sono particolarmente inclini a cercare il piacere, a causa delle numerose trasformazioni che subiscono durante la crescita. Inoltre, è proprio per questo che i malinconici provano un forte desiderio di piaceri, al fine di scacciare il dolore: poiché “il loro corpo è corroso da umori negativi”, come affermato nell’Etica, VII, 14.
+
+Risposta all’Obiezione 3: I beni materiali sono condizionati da una determinata misura fissa; pertanto, l’eccesso di tali beni distrugge il vero bene, generando disgusto e tristezza, poiché è contrario al vero bene dell’uomo.
 
 <span class="atom-split" data-atom="066" data-title="Whether wonder is a cause of pleasure?" data-chapter="Whether wonder is a cause of pleasure?" data-kind="atom" data-srclang="en"></span>
 
@@ -2903,6 +3790,24 @@ wonderful; or as regards action, from the fact that "the mind is more inclined b
 intensely in things that are new," as stated in Ethic. x, 4, since more perfect operation causes more
 perfect pleasure.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che lo stupore non sia una causa di piacere. Infatti, lo stupore è l’atteggiamento di chi ignora la natura di qualcosa, come afferma Damasceno. Ma è la conoscenza, e non l’ignoranza, a essere una causa di piacere. Pertanto, lo stupore non può essere considerato una causa di piacere.
+
+Obiezione 2: Inoltre, lo stupore è l’inizio della saggezza, poiché rappresenta, per così dire, la strada verso la ricerca della verità, come affermato all’inizio del “Metafisico” I, 2. Ma “è più piacevole riflettere su ciò che conosciamo, piuttosto che cercare ciò che non conosciamo”, come dice il Filosofo nell’“Etica” X, 7: poiché nel secondo caso incontriamo difficoltà e ostacoli, mentre nel primo no; inoltre, il piacere deriva da un’attività che avviene senza impedimenti, come indicato nell’“Etica” VII, 12-13. Pertanto, lo stupore ostacola piuttosto che procurare piacere.
+
+Obiezione 3: Inoltre, ognuno prova piacere per ciò a cui è abituato; pertanto le azioni derivanti da abitudini acquisite attraverso la [CONSUETUDINE](/concepts/custom) sono piacevoli. Ma “ci meravigliamo di ciò che non è consueto”, come dice [Agostino](/figures/augustine) (Trattato xxiv in Giovanni). Quindi la meraviglia è contraria alla causa del piacere.
+
+Al contrario, il Filosofo afferma (Retorica I, 11) che lo stupore è la causa del piacere.
+
+Rispondo che è piacevole ottenere ciò che si desidera, come già detto sopra (Q[23], A[4]); pertanto, maggiore è il desiderio per la cosa amata, maggiore sarà la gioia quando essa viene realizzata. Infatti, lo stesso aumento del desiderio comporta un aumento della gioia, poiché genera la speranza di ottenere ciò che si ama; come affermato in precedenza (A[3], ad 3), il desiderio nato dalla speranza è causa di piacere. Ora, lo stupore rappresenta un tipo di desiderio per la conoscenza: un desiderio che sorge nell’uomo quando osserva un effetto la cui causa gli è sconosciuta o supera le sue capacità cognitive. Pertanto, lo stupore è anch’esso una fonte di piacere, in quanto comporta la speranza di acquisire quella conoscenza che si desidera. Per questo motivo, tutto ciò che è meraviglioso è piacevole; ad esempio, le cose rare. Inoltre, anche le rappresentazioni di cose, persino di quelle che in sé non sono piacevoli, generano gioia: l’anima si rallegra infatti nel confrontare una cosa con un’altra, poiché tale confronto costituisce l’atto naturale e proprio della ragione, come afferma il Filosofo (Poetica iv). Ed è proprio per questo che “è ancora più piacevole essere salvati da un grande pericolo, poiché ciò rappresenta qualcosa di meraviglioso”, come si legge in Retorica i, 11.
+
+Risposta all’Obiezione 1: Lo stupore procura piacere, non perché implichi ignoranza, ma in quanto comporta il desiderio di conoscere la causa di ciò che si osserva, e in quanto colui che si meraviglia impara qualcosa di nuovo, cioè che quella causa è diversa da quanto aveva pensato. [*Secondo un’altra interpretazione:---che egli stesso è diverso da come si considerava.*]
+
+Risposta all’Obiezione 2: Il piacere comprende due aspetti: il riposo nella bontà e la percezione di tale riposo. Per quanto riguarda il primo aspetto, poiché è più perfetto contemplare la verità conosciuta che cercare ciò che è sconosciuto, la riflessione su ciò che già sappiamo è di per sé più piacevole della ricerca di ciò che ignoriamo. Tuttavia, per quanto riguarda il secondo aspetto, a volte la ricerca risulta più piacevole, in modo accidentale, nella misura in cui deriva da un desiderio più forte: infatti, un desiderio maggiore si risveglia quando ci rendiamo conto della nostra ignoranza. Ecco perché l’uomo prova il massimo piacere nel scoprire o nell’apprendere qualcosa per la prima volta.
+
+Risposta all’Obiezione 3: È piacevole fare ciò che siamo abituati a fare, poiché questo è, per così dire, connaturale a noi. Eppure anche le cose che accadono raramente possono essere piacevoli: sia dal punto di vista della conoscenza, poiché desideriamo apprenderne di più su di esse, soprattutto quando sono straordinarie; sia dal punto di vista dell’azione, poiché “la mente è naturalmente incline ad agire con maggiore intensità nei confronti delle cose nuove”, come affermato nell’Etica, X, 4, dato che un’azione più perfetta genera una gioia più profonda.
+
 <span class="atom-split" data-atom="067" data-title="OF THE EFFECTS OF PLEASURE (FOUR ARTICLES)" data-chapter="OF THE EFFECTS OF PLEASURE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the effects of pleasure; and under this head there are four points of
@@ -2911,6 +3816,14 @@ inquiry:
 (2) Whether pleasure causes thirst or desire for itself?
 (3) Whether pleasure hinders the use of reason?
 (4) Whether pleasure perfects operation?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare gli effetti del piacere; e in questo ambito ci sono quattro punti da esaminare:  
+(1) Se l’espansione emotiva sia un effetto del piacere;  
+(2) Se il piacere provochi sete o desiderio per se stesso;  
+(3) Se il piacere ostacoli l’uso della ragione;  
+(4) Se il piacere perfezioni le nostre azioni.
 
 <span class="atom-split" data-atom="068" data-title="Whether expansion is an effect of pleasure?" data-chapter="Whether expansion is an effect of pleasure?" data-kind="atom" data-srclang="en"></span>
 
@@ -2956,6 +3869,24 @@ desires it before possessing it; since pleasure is the end of desire.
 
 Reply to Objection 3: He that takes pleasure in a thing holds it fast, by clinging to it with all
 his might: but he opens his heart to it that he may enjoy it perfectly.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’espansione dell’animo non sia un effetto del piacere. Infatti, l’espansione sembra essere più legata all’amore, come afferma l’Apostolo (2 Corinzi 6:11): “Il nostro cuore si dilata”. Per questo motivo si legge nel Salmo 118:96, riguardo al precetto dell’amore fraterno: “Il tuo comandamento è davvero ampio e vasto”. Ma il piacere è una passione diversa dall’amore; pertanto, l’espansione dell’animo non può essere considerata un effetto del piacere.
+
+Obiezione 2: Inoltre, quando una cosa si espande, diventa in grado di ricevere di più. Ma il ricevere riguarda il desiderio, che è legato a qualcosa che non si possiede ancora. Pertanto, l’espansione sembra appartenere al desiderio piuttosto che al piacere.
+
+Obiezione 3: Inoltre, la contrazione è opposta all’espansione. Tuttavia, la contrazione sembra essere legata al piacere, poiché la mano si chiude attorno a ciò che desideriamo afferrare saldamente; tale è l’atteggiamento dell’appetito nei confronti di ciò che gli dà piacere. Pertanto, l’espansione non ha nulla a che fare con il piacere.
+
+Al contrario, affinché si esprima la gioia, è scritto (Isaia 60:5): “Vedrai e ti rallegrerai; il tuo cuore si meraviglierà e si dilaterà”. Inoltre, il piacere viene chiamato “laetitia”, poiché deriva da “dilatatio” [espansione], come già accennato sopra (Q[31], A[3], ad 3).
+
+Rispondo che la “larghezza” [latitudo] è una dimensione della grandezza fisica; pertanto non viene applicata alle emozioni dell’anima, se non in senso metaforico. L’espansione, invece, indica un certo tipo di movimento verso la larghezza; riguardo al piacere, essa è legata a due elementi essenziali: il primo riguarda la facoltà conoscitiva, che percepisce la connessione tra l’individuo e qualche bene appropriato; grazie a questa percezione, l’uomo si rende conto di aver raggiunto una certa perfezione, che rappresenta una dimensione dell’ordine spirituale. In questo senso, si dice che la mente umana venga “ampliata” o “espansa” dal piacere. Il secondo elemento necessario al piacere riguarda la facoltà desiderativa, che accetta l’oggetto del piacere e vi si appoggia, come se volesse “avvolgerlo” dentro di sé. Ed è così che il sentimento umano viene ampliato dal piacere, come se si arrendesse alla possibilità di contenere in sé stesso l’oggetto della propria gioia.
+
+Risposta all’Obiezione 1: Nelle espressioni metaforiche nulla impedisce che la stessa cosa venga attribuita a cose diverse in base a diversi parallelismi. In questo senso, il concetto di “espansione” si applica all’amore, poiché l’affetto del ricorrente si estende anche ad altre persone, facendogli prendere cura non solo dei propri interessi, ma anche di quelli altrui; allo stesso modo, il concetto di espansione si applica anche al piacere, quando una cosa diventa più “ampia” in sé stessa, cioè più capace di contenere ulteriori elementi.
+
+Risposta all’Obiezione 2: Il desiderio include una certa espansione derivante dall’immaginazione dell’oggetto desiderato; ma questa espansione aumenta in presenza dell’oggetto piacevole, poiché la mente si abbandona maggiormente a quell’oggetto quando ne trae già piacere, rispetto al momento in cui lo desidera senza ancora possederlo; infatti, il piacere è lo scopo del desiderio stesso.
+
+Risposta all’Obiezione 3: Chi trova piacere in qualcosa la tiene saldamente a sé, aggrappandosi ad essa con tutte le sue forze; ma colui che apre il proprio cuore verso di essa è in grado di godersela appieno.
 
 <span class="atom-split" data-atom="069" data-title="Whether pleasure causes thirst or desire for itself?" data-chapter="Whether pleasure causes thirst or desire for itself?" data-kind="atom" data-srclang="en"></span>
 
@@ -3072,6 +4003,25 @@ other sensitive powers, which are exercised through a bodily organ. Consequently
 body hinders the use of reason, because it hinders the act of the imagination and of the other sensitive
 powers.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il piacere non ostacoli l’uso della ragione. Infatti, il riposo facilita notevolmente l’uso corretto della ragione; per questo il Filosofo afferma (Phys. vii, 3) che “quando ci sediamo e ci riposiamo, l’anima tende verso la conoscenza e la prudenza”; inoltre è scritto (Sapienza 8:16): “Quando entro nella mia casa, mi riposerò con essa”, cioè con la saggezza. Ma il piacere è una forma di riposo; pertanto aiuta, anziché ostacolare, l’uso della ragione.
+
+Obiezione 2: Inoltre, le cose che non appartengono allo stesso soggetto, pur essendo contrarie tra loro, non si ostacolano a vicenda. Ma il piacere appartiene alla facoltà appetitiva, mentre l’uso della ragione rientra nella capacità intellettiva. Pertanto, il piacere non ostacola l’uso della ragione.
+
+Obiezione 3: Inoltre, ciò che viene ostacolato da un’altra cosa sembra essere, in qualche modo, mosso da essa stessa.  
+Ma l’uso della facoltà di comprendere muove il piacere, piuttosto che essere mosso dal piacere stesso: poiché è la causa del piacere. Pertanto, il piacere non ostacola l’uso della ragione.
+
+Al contrario, il Filosofo afferma (Etica, VI, 5) che “il piacere distrugge la valutazione della prudenza”.
+
+Rispondo che, come si afferma nell’Etica X, 5, “i piaceri appropriati aumentano l’attività, mentre i piaceri provenienti da altre fonti ostacolano l’attività stessa”. Pertanto esiste un certo piacere che deriva direttamente dall’atto stesso della ragione, come quando ci si compiace nel contemplare o nel ragionare: tale piacere non ostacola l’operazione razionale, anzi la favorisce, poiché ci concentriamo maggiormente su ciò che ci dà piacere, e l’attenzione stessa promuove l’attività. D’altra parte, i piaceri corporei ostacolano l’uso della ragione in tre modi: innanzitutto, distraendola; poiché, come abbiamo appena osservato, ci dedichiamo molto a ciò che ci dà piacere. Quando l’attenzione è fissata su un solo oggetto, si indebolisce rispetto ad altri aspetti o viene completamente distolta da essi; quindi, se il piacere corporeo è intenso, o impedisce del tutto l’uso della ragione, concentrando l’attenzione su di sé, oppure lo ostacola in modo significativo. In secondo luogo, perché sono contrari alla ragione: alcuni piaceri, soprattutto quelli eccessivi, sono in contrasto con l’ordine razionale; in questo senso il Filosofo afferma che “i piaceri corporei distruggono la capacità di giudicare saggiamente, ma non quella di ragionare in modo speculativo”, poiché quest’ultima non viene contrariata da tali piaceri (ad esempio, il fatto che i tre angoli di un triangolo siano uguali a due angoli retti). Nel primo caso, tuttavia, tali piaceri ostacolano entrambe le capacità razionali. Infine, perché “incatenano” la ragione: poiché il piacere corporeo comporta modificazioni fisiche più intense rispetto ad altre emozioni, soprattutto quando l’appetito è particolarmente stimolato da qualcosa di presente; tali alterazioni ostacolano effettivamente l’uso della ragione, come si può osservare nel caso dei bevitori ubriachi.
+
+Risposta all’Obiezione 1: Il piacere fisico implica effettivamente un riposo dell’appetito nell’oggetto del piacere; tale riposo, a volte, è contrario alla ragione; ma dal punto di vista del corpo, esso comporta sempre un qualche cambiamento. E in entrambi i casi, ostacola l’uso della ragione.
+
+Risposta all’Obiezione 2: Le facoltà dell’appetito e di quella di comprensione sono effettivamente parti distinte, ma appartengono alla stessa anima. Pertanto, quando l’anima si concentra intensamente sull’azione di una di queste facoltà, è impedita di prestare attenzione all’azione opposta dell’altra.
+
+Risposta all’Obiezione 3: L’uso della ragione richiede l’appropriato utilizzo dell’immaginazione e delle altre facoltà sensibili, le quali vengono esercitate attraverso organi corporei. Pertanto, qualsiasi alterazione nel corpo ostacola l’uso della ragione, poiché interferisce con l’attività dell’immaginazione e delle altre facoltà sensibili.
+
 <span class="atom-split" data-atom="071" data-title="Whether pleasure perfects operation?" data-chapter="Whether pleasure perfects operation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that pleasure does not perfect operation. For every human operation
@@ -3112,6 +4062,25 @@ be the efficient, the other the [final cause](/concepts/four_causes). And in thi
 while pleasure perfects operation by way of final cause, as stated above.
 The Reply to the Third Objection is evident for what has been said.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il piacere non perfezioni l’operazione umana. Infatti, ogni azione umana dipende dall’uso della ragione; ma il piacere ostacola l’uso della ragione, come già detto sopra (A[3]). Pertanto, il piacere non perfeziona, bensì indebolisce l’operazione umana.
+
+Obiezione 2: Inoltre, nulla si perfeziona da solo, né la sua causa. Ma il piacere è un’operazione (Etica, vii, 12; x, 4), cioè sia nella sua essenza che nella sua causa. Pertanto, il piacere non perfeziona alcuna operazione.
+
+Obiezione 3: Inoltre, se il piacere perfeziona l’azione, lo fa o come fine, o come forma, o come agente. Ma non come fine; poiché l’azione non viene cercata per il piacere stesso, bensì il contrario, come già detto sopra (Q[4], A[2]); né come agente, poiché è proprio l’azione a causare il piacere; né ancora come forma, poiché, secondo il Filosofo (Etica x, 4), “il piacere non perfeziona l’azione, al contrario di quanto fanno le abitudini”. Pertanto, il piacere non perfeziona l’azione.
+
+Al contrario, il Filosofo afferma (Etica, X, 4) che “il piacere perfeziona l’azione”.
+
+Rispondo che il piacere perfeziona l’azione in due modi. Primo, come fine: non certo nel senso in cui un fine è ciò “per mezzo di cui una cosa esiste”; ma nel senso in cui ogni bene che viene aggiunto a qualcosa e lo completa può essere considerato il suo fine. In questo senso, il Filosofo afferma nell’Etica (x, 4) che “il piacere perfeziona l’azione, come un fine che vi viene aggiunto”; cioè, in quanto a questo bene che è l’azione stessa, ne viene aggiunto un altro, che è il piacere, rappresentato dal riposo dell’appetito in un bene già esistente. Secondo, come agente: non direttamente, poiché il Filosofo sostiene nell’Etica (x, 4) che “il piacere perfeziona l’azione, non come un medico rende una persona sana, ma come la salute stessa lo fa”; ma indirettamente: poiché colui che prova piacere nell’agire si impegna con maggiore intensità e la esegue con maggiore cura. In questo senso, si afferma nell’Etica (x, 5) che “i piaceri aumentano le attività appropriate e ostacolano quelle inadatte”.
+
+Risposta all’Obiezione 1: Non è ogni piacere a ostacolare l’atto di ragione, ma soltanto i piaceri corporei; infatti questi derivano non dall’atto di ragione, bensì dall’azione della facoltà concupiscibile, e tale azione viene intensificata dal piacere stesso.
+
+Al contrario, il piacere che deriva dall’atto di ragionare rafforza l’uso della ragione stessa.
+
+Risposta all’Obiezione 2: Come affermato nella Physica ii, 3, due cose possono essere causa l’una dell’altra, se una è la causa efficiente e l’altra la [causa finale](/concepts/four_causes). In questo modo, l’azione è la causa efficiente del piacere, mentre il piacere perfeziona l’azione in qualità di causa finale, come già detto.  
+La risposta alla Terza Obiezione è evidente, data quanto è stato esposto finora.
+
 <span class="atom-split" data-atom="072" data-title="OF THE GOODNESS AND MALICE OF PLEASURES (FOUR ARTICLES)" data-chapter="OF THE GOODNESS AND MALICE OF PLEASURES (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the goodness and malice of pleasures: under which head there are four
@@ -3120,6 +4089,14 @@ points of inquiry:
 (2) If not, whether every pleasure is good?
 (3) Whether any pleasure is the greatest good?
 (4) Whether pleasure is the measure or rule by which to judge of moral good and evil?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la bontà e la malvagità dei piaceri: in questa sede vi sono quattro punti di indagine:
+(1) Se ogni piacere sia male.
+(2) Se no, se ogni piacere sia buono.
+(3) Se qualche piacere possa essere considerato il massimo bene.
+(4) Se il piacere sia la misura o il criterio con cui giudicare il bene e il male morali.
 
 <span class="atom-split" data-atom="073" data-title="Whether every pleasure is evil?" data-chapter="Whether every pleasure is evil?" data-kind="atom" data-srclang="en"></span>
 
@@ -3197,6 +4174,26 @@ within us, are more the concern of prudence and virtue than of art. Nevertheless
 making pleasure, namely, "the art of cookery and the art of making arguments," as stated in Ethic.
 vii, 12.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che ogni piacere sia male. Infatti ciò che distrugge la prudenza e ostacola l’uso della ragione sembra essere male di per sé stesso; poiché il bene dell’uomo consiste nel “essere in armonia con la ragione”, come afferma Dionigi (Div. Nom. iv). Ma il piacere distrugge la prudenza e ostacola l’uso della ragione, soprattutto quando è intenso; perciò, nei piaceri sessuali – che sono i più intensi di tutti – “è impossibile comprendere alcunché”, come si legge in Etica vii, 11. Inoltre, Gerolamo afferma nel suo commento al Vangelo secondo Matteo (*Origene, Om. vi in Num.*) che “durante l’atto coniugale non è presente lo Spirito Santo, nemmeno se colui che compie il dovere coniugale sia un profeta”. Pertanto, il piacere è male di per sé stesso; e di conseguenza ogni piacere è male.
+
+Obiezione 2: Inoltre, ciò che l’uomo virtuoso evita e ciò che l’uomo privo di virtù cerca sembra essere male in sé stesso e dovrebbe quindi essere evitato; poiché, come affermato nell’Etica X, 5, “l’uomo virtuoso rappresenta una sorta di misura e regola per le azioni umane”; e l’Apostolo dice (1 Corinzi 2:15): “L’uomo spirituale giudica tutte le cose”. Tuttavia, bambini e animali muti, in cui non esiste alcuna virtù, cercano il piacere; mentre colui che è padrone di sé stesso non lo fa. Pertanto, i piaceri sono male in sé stessi e dovrebbero essere evitati.
+
+Obiezione 3: Inoltre, “la virtù e l’arte si occupano di ciò che è difficile e nobile” (Etica, II, 3). Ma nessuna arte ha lo scopo di procurare piacere. Pertanto, il piacere non è qualcosa di nobile o buono.
+
+Al contrario, è scritto (Salmo 36:4): “Rallegrati nel Signore”. Poiché, dunque, l’autorità divina non conduce a nulla di male, sembra che non ogni piacere sia negativo.
+
+Rispondo che, come affermato nell’Etica X, 2, [3], alcuni hanno sostenuto che ogni piacere sia male. La ragione sembra essere stata quella di considerare soltanto i piaceri sensibili e corporei, più evidenti; inoltre, gli antichi filosofi non facevano distinzioni tra ciò che è intellegibile e ciò che è sensibile, né tra intelligenza e sensi (De Anima III, 3). Ritenevano quindi che tutti i piaceri corporei dovessero essere considerati negativi, e che l’uomo, essendo propenso ai piaceri eccessivi, potesse raggiungere la virtù astenendosi da essi. Ma si sbagliavano in questa opinione: poiché nessuno può vivere senza alcuni piaceri sensibili e corporei, se coloro che insegnano che tutti i piaceri sono male li praticano personalmente, le persone tenderanno ancora di più a cercare il piacere seguendo l’esempio delle loro azioni piuttosto che ascoltando le loro parole; infatti, nelle azioni e nelle passioni umane, dove l’esperienza ha grande importanza, l’esempio influisce molto di più delle parole.  
+Dobbiamo quindi affermare che alcuni piaceri sono buoni e altri cattivi. Il piacere, infatti, rappresenta un riposo del potere desiderante in qualcosa di gradito, derivante da un’azione specifica; per questo motivo forniamo due ragioni a sostegno di questa tesi. La prima riguarda il bene nel quale l’uomo trova piacere: infatti, il bene e il male nel contesto morale dipendono dall’allineamento o dal disallineamento con la ragione, come già detto (Q[18], A[5]); allo stesso modo, nel contesto naturale, una cosa è detta “naturale” se è in accordo con le leggi della natura, e “antinaturale” se non lo è. Pertanto, così come esiste un riposo naturale, quando qualcosa si trova in armonia con la sua natura (ad esempio, quando un corpo pesante cade verso il basso), esiste anche un piacere “buono”, quando il desiderio umano si allinea alla ragione e alle leggi di Dio; al contrario, esiste un piacere “cattivo”, quando tale desiderio è in disaccordo con la ragione e le leggi divine.  
+La seconda ragione deriva dall’esame delle azioni stesse: alcune sono buone, altre cattive. I piaceri associati ad azioni buone sono più simili a queste azioni rispetto ai desideri che le precedono nel tempo; poiché i desideri legati ad azioni buone sono buoni, e quelli legati ad azioni cattive sono cattivi, molto di più i piaceri derivanti da azioni buone sono buoni, e quelli derivanti da azioni cattive sono cattivi.
+
+Risposta all’Obiezione 1: Come già detto sopra (Q[33], A[3]), non sono i piaceri che derivano da un atto di ragione a ostacolare l’uso della ragione o a distruggere la prudenza, ma piaceri estranei, come quelli del corpo. Questi ultimi effettivamente impediscono l’uso della ragione, come indicato in precedenza (Q[33], A[3]), sia per via dell’incompatibilità tra il desiderio suscitato da ciò che è contrario alla ragione, rendendo tale piacere moralmente cattivo, sia perché intralciano l’operazione stessa della ragione. Ad esempio, nell’intimità coniugale, sebbene il piacere derivante da tale attività sia in accordo con la ragione, esso ostacola comunque il suo funzionamento a causa dei cambiamenti fisici che ne derivano. Tuttavia, in questo caso il piacere non è moralmente malevolo; lo stesso vale per il sonno, che intralcia l’attività razionale, ma che non è considerato un peccato né mortale né veniale, se considerato nel contesto naturale della sua funzione. Bisogna aggiungere, tuttavia, che sebbene questo “intralcio” alla ragione causato dal piacere coniugale non presenti alcuna malizia morale – poiché non costituisce né un peccato mortale né veniale – esso deriva comunque da una sorta di malizia morale, ovvero dal peccato dei nostri primi genitori; infatti, come affermato nel FP, Q[98], A[2], la situazione era diversa nell’[stato](/concepts/state) di innocenza.
+
+Risposta all’Obiezione 2: L’uomo temperato non evita tutti i piaceri, ma soltanto quelli eccessivi o contrari alla ragione. Il fatto che bambini e animali muti cercino piaceri non dimostra affatto che tutti i piaceri siano malvagi; infatti, essi possiedono da Dio un appetito naturale che li spinge verso ciò che è naturalmente adatto a loro.
+
+Risposta all’Obiezione 3: L’arte non si occupa di tutti i tipi di bene, ma della creazione di cose esterne, come illustreremo più avanti (Q[57], A[3]). Tuttavia, le azioni e le passioni, che risiedono in noi stessi, rientrano piuttosto nell’ambito della prudenza e della virtù che dell’arte. Ciononostante, esiste un’arte volta a generare piacere, ovvero “l’arte culinaria e l’arte di argomentare”, come indicato nell’Etica, VII, 12.
+
 <span class="atom-split" data-atom="074" data-title="Whether every pleasure is good?" data-chapter="Whether every pleasure is good?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that every pleasure is good. Because as stated in the FP, Q[5], A[6]
@@ -3245,6 +4242,24 @@ pleasure.
 Reply to Objection 3: All things seek pleasure in the same way as they seek good: since
 pleasure is the repose of the appetite in good. But, just as it happens that not every good which is
 desired, is of itself and verily good; so not every pleasure is of itself and verily good.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che ogni piacere sia buono. Poiché, come affermato nel FP, Q[5], A[6], esistono tre tipi di bene: il virtuoso, l’utile e il piacevole. Ma tutto ciò che è virtuoso è buono; allo stesso modo, tutto ciò che è utile è buono. Pertanto, anche ogni piacere deve essere considerato buono.
+
+Obiezione 2: Inoltre, ciò che non viene cercato per il bene di qualcos’altro è buono di per sé stesso, come affermato nell’Etica I, 6,7. Ma il piacere non viene cercato per il bene di altro; infatti sembrerebbe assurdo chiedere a qualcuno perché desideri provare piacere. Pertanto, il piacere è buono di per sé stesso. Ora, ciò che viene attribuito a una cosa considerata in sé stessa lo è universalmente; quindi ogni forma di piacere è buona.
+
+Obiezione 3: Inoltre, ciò che è desiderato da tutti sembra essere buono di per sé stesso; infatti il bene è “ciò che tutte le cose cercano”, come affermato nell’Etica i, 1. Ma tutti cercano qualche tipo di piacere, anche i bambini e gli animali muti. Pertanto, il piacere è buono in sé stesso; e di conseguenza, ogni forma di piacere è buona.
+
+Al contrario, è scritto (Proverbi 2:14): “Coloro che si rallegrano quando compiono il male e gioiscono delle cose più malvagie”.
+
+Rispondo che, sebbene alcuni Stoici sostenessero che tutti i piaceri siano cattivi, gli Epicurei ritenevano che il piacere sia buono di per sé stesso e quindi che tutti i piaceri siano buoni. Sembra che abbiano commesso questo errore non facendo distinzione tra ciò che è buono in senso assoluto e ciò che è buono rispetto a un individuo specifico. Ciò che è buono in senso assoluto è buono di per sé stesso; al contrario, ciò che non è buono in senso assoluto può essere considerato buono rispetto a un individuo in due modi: in primo luogo, perché è adatto a lui in base a una disposizione particolare della sua natura, anche se tale disposizione non è intrinsecamente naturale; ad esempio, per un lebbroso può essere benefico mangiare cose velenose che normalmente non sono adatte al temperamento umano. In secondo luogo, perché qualcosa che in realtà non è buono viene considerato tale rispetto a determinate circostanze. Poiché il piacere rappresenta il riposo dell’appetito di fronte a qualcosa di buono, se l’appetito si riposa su ciò che è buono in senso assoluto, allora il piacere sarà davvero un piacere in senso assoluto e quindi buono in sé stesso. Tuttavia, se l’appetito di una persona si riposa su qualcosa che è buono soltanto rispetto a lei stessa, allora il suo piacere non sarà un piacere in senso assoluto, ma soltanto un piacere per quella persona; inoltre, non sarà buono in senso assoluto, ma soltanto in un certo contesto o come un bene apparente.
+
+Risposta all’Obiezione 1: La virtù e ciò che è utile dipendono dall’allineamento con la ragione; pertanto, nulla può essere considerato virtuoso o utile se non è anche buono. Tuttavia, ciò che è piacevole dipende dall’armonia con i desideri umani, i quali a volte tendono verso ciò che è in disaccordo con la ragione. Di conseguenza, non ogni oggetto di piacere è necessariamente buono secondo l’ordine morale basato sull’ordinamento della ragione.
+
+Risposta all’Obiezione 2: Il motivo per cui il piacere non viene cercato al fine di ottenere qualcos’altro è che esso stesso rappresenta, in definitiva, uno scopo finale. Ora, questo scopo finale può essere sia buono che cattivo; tuttavia, nulla può essere considerato uno scopo se non nella misura in cui è positivo per una determinata persona. E lo stesso vale per il piacere.
+
+Risposta all’Obiezione 3: Tutte le cose cercano il piacere nello stesso modo in cui cercano il bene, poiché il piacere rappresenta il riposo dell’appetito verso il bene. Tuttavia, proprio come non ogni bene desiderato è di per sé e veramente buono, allo stesso modo non ogni piacere è di per sé e veramente buono.
 
 <span class="atom-split" data-atom="075" data-title="Whether any pleasure is the greatest good?" data-chapter="Whether any pleasure is the greatest good?" data-kind="atom" data-srclang="en"></span>
 
@@ -3300,6 +4315,25 @@ Reply to Objection 3: That pleasure is the greatest good is due not to the mere 
 pleasure, but to the fact that it is perfect repose in the perfect good. Hence it does not follow that
 every pleasure is supremely good, or even good at all. Thus a certain science is supremely good,
 but not every science is.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nessun piacere possa essere considerato il bene supremo. Infatti, nulla di ciò che viene generato può essere considerato il bene supremo, poiché la generazione non può rappresentare lo scopo finale di alcunché. Ma il piacere è una conseguenza della generazione: il fatto che qualcosa provi piacere deriva dal suo trovarsi nella propria natura, come già affermato in precedenza (Q[31], A[1]). Pertanto, nessun piacere può essere considerato il bene supremo.
+
+Obiezione 2: Inoltre, ciò che rappresenta il massimo bene non può essere migliorato attraverso l’aggiunta di ulteriori elementi. Tuttavia, il piacere può essere migliorato con l’aggiunta di altre cose; infatti, il piacere unito alla virtù è migliore del piacere senza virtù. Pertanto, il piacere non è il massimo bene.
+
+Obiezione 3: Inoltre, ciò che rappresenta il massimo bene è universalmente buono, in quanto tale per sua natura; poiché ciò che è tale per sua essenza precede e supera ciò che lo è solo accidentalmente. Ma il piacere non è universalmente buono, come già affermato sopra (A[2]). Pertanto, il piacere non può essere considerato il massimo bene.
+
+Al contrario, la Felicità è il massimo bene: poiché rappresenta lo scopo della vita umana. Ma la Felicità non è priva di piacere: infatti si legge (Salmo 15:11): “Mi riempirai di gioia con il tuo volto; alla tua destra ci sono delizie per l’eternità”.
+
+Rispondo che Platone non concordava né con gli Stoici, i quali affermavano che tutti i piaceri siano cattivi, né con gli Epicurei, i quali sostenevano che tutti i piaceri siano buoni; ma diceva che alcuni piaceri sono buoni e altri cattivi, senza tuttavia considerare alcun piacere come il bene supremo. Tuttavia, a giudicare dai suoi argomentazioni, egli fallisce in due punti. Primo, osservando che i piaceri sensibili e corporei derivano da un certo movimento o “mutamento”, come è evidente nel caso della sazietà dopo aver mangiato, concluse che tutti i piaceri derivino da tali processi; ma poiché questi processi sono caratteristici di entità imperfette, ne consegue che il piacere non sia di natura perfetta. Questo ragionamento è chiaramente falso quando si tratta dei piaceri intellettuali: infatti, ci si compiace non solo nel processo di acquisizione della conoscenza, ma anche nell’atto stesso di contemplarla, utilizzando le conoscenze già possedute.  
+Secondo, Platone intendeva con il “bene supremo” ciò che è semplicemente il bene assoluto, cioè il bene che esiste indipendentemente da ogni altra cosa; in questo senso, Dio rappresenta il Bene Supremo. Noi, invece, parliamo del bene supremo nell’ambito delle cose umane. Ora, il fine ultimo di qualsiasi cosa è il suo scopo principale; e come già detto (Q[1], A[8]; Q[2], A[7]), tale scopo può essere sia la cosa stessa che il suo utilizzo. Pertanto, l’ultimo fine dell’uomo potrebbe essere Dio stesso, il Bene Supremo; oppure il godimento di Dio, il che implica un certo piacere derivante da tale realtà. In questo senso, si può dire che un certo tipo di piacere umano rappresenti il bene supremo tra tutti i beni terreni.
+
+Risposta all’Obiezione 1: Non tutti i piaceri derivano da un comportamento “conveniente”; alcuni piaceri, infatti, risultano da azioni perfette, come già detto in precedenza. Pertanto, nulla impedisce che alcuni piaceri siano il massimo bene, anche se non tutti i piaceri lo sono.
+
+Risposta all’Obiezione 2: Questo argomento è valido per il “massimo bene”, poiché proprio attraverso la sua partecipazione tutte le cose diventano buone; pertanto nessuna aggiunta può renderlo ancora migliore. Per quanto riguarda altri beni, invece, è universalmente vero che qualsiasi bene diventa migliore con l’aggiunta di un altro bene. Inoltre, si potrebbe affermare che il piacere non sia qualcosa di estraneo all’operazione della virtù, ma che anzi ne faccia parte, come indicato nell’Etica I, 8.
+
+Risposta all’Obiezione 3: Il fatto che il piacere sia il massimo bene non deriva semplicemente dal suo essere piacere, ma dal fatto che rappresenti un perfetto riposo nel perfetto bene. Pertanto, non si può concludere che ogni tipo di piacere sia di per sé supremamente buono, o addirittura buono in assoluto. Ad esempio, una certa scienza è senz’altro di grande valore, ma non tutte le scienze lo sono.
 
 <span class="atom-split" data-atom="076" data-title="Whether pleasure is the measure or rule by which to judge of moral good or evil?" data-chapter="Whether pleasure is the measure or rule by which to judge of moral good or evil?" data-kind="atom" data-srclang="en"></span>
 
@@ -3364,6 +4398,19 @@ Under the first head there are eight points of inquiry:
 (7) Whether exterior pain is greater than interior?
 (8) Of the species of sorrow.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ora dobbiamo considerare il dolore e la tristezza: in merito ai quali dobbiamo esaminare: (1) La tristezza o il dolore in sé; (2) La loro causa; (3) I loro effetti; (4) I loro rimedi; (5) Il loro carattere positivo o negativo.  
+All’interno della prima categoria di indagini vi sono otto punti da esaminare:  
+(1) Se il dolore sia una passione dell’anima;  
+(2) Se la tristezza sia lo stesso che il dolore;  
+(3) Se la tristezza o il dolore siano contrari al piacere;  
+(4) Se tutta la tristezza sia contraria a tutto il piacere;  
+(5) Se esista una forma di tristezza contraria al piacere derivante dalla contemplazione;  
+(6) Se la tristezza debba essere evitata più del piacere che invece dovrebbe essere cercato;  
+(7) Se il dolore esterno sia più intenso di quello interno;  
+(8) Le diverse tipologie di tristezza.
+
 <span class="atom-split" data-atom="078" data-title="Whether pain is a passion of the soul?" data-chapter="Whether pain is a passion of the soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that pain is not a passion of the soul. Because no passion of the
@@ -3414,6 +4461,24 @@ pleasure.
 Reply to Objection 3: Pain at the loss of good proves the goodness of the nature, not because
 pain is an act of the natural appetite, but because nature desires something as good, the removal of
 which being perceived, there results the passion of pain in the sensitive appetite.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il dolore non sia una passione dell’anima. Poiché nessuna passione dell’anima si trova nel corpo, eppure il dolore può esistere nel corpo, visto che [Agostino](/figures/augustine) afferma (De Vera Relig. xii) che “il dolore fisico rappresenta una corruzione improvvisa del benessere di quella parte del corpo che l’anima, utilizzandola in modo errato, ha reso soggetta alla corruzione”. Pertanto, il dolore non è una passione dell’anima.
+
+Obiezione 2: Inoltre, ogni passione dell’anima appartiene alla facoltà appetitiva. Ma il dolore non appartiene alla parte appetitiva, bensì a quella conoscitiva; infatti Agostino afferma (De Nat. Boni xx) che “il dolore fisico è causato dal senso che si oppone a un corpo più potente”. Pertanto, il dolore non è una passione dell’anima.
+
+Obiezione 3: Inoltre, ogni passione dell’anima appartiene all’appetito animale. Ma il dolore non appartiene all’appetito animale, bensì all’appetito naturale; infatti Agostino afferma (Genesi ad litteram, VIII, 14): “Se nella natura non fosse rimasto alcun bene, non proveremmo dolore nel subire punizioni legate alla perdita di quel bene”. Pertanto, il dolore non è una passione dell’anima.
+
+Al contrario, Agostino (De Civ. Dei xiv, 8) considera il dolore tra le passioni dell’anima; citando Virgilio (Eneide, vi, 733): “Da qui derivano desideri selvaggi e timori umilianti, nonché risate e lacrime umane.” [Traduzione di Conington.]
+
+Rispondo che, proprio come sono necessarie due cose per provare piacere – cioè la congiunzione con il bene e la percezione di tale congiunzione – allo stesso modo sono necessarie due cose per provare dolore: cioè la congiunzione con qualche male (che è male in quanto priva qualcuno di un bene) e la percezione di questa congiunzione. Ora, ciò che è congiunto, se non presenta aspetti positivi o negativi per l’essere a cui è legato, non può causare piacere né dolore. Ne consegue quindi che ciò che ha caratteristiche positive o negative rappresenta l’oggetto del piacere o del dolore. Ma il bene e il male, in sé, sono oggetti dell’appetito; pertanto è evidente che piacere e dolore appartengano all’appetito stesso. Ogni movimento o inclinazione derivante dall’appetito appartiene all’appetito intellettivo o sensibile: poiché l’inclinazione dell’appetito naturale non deriva dalla percezione dell’oggetto di tale appetito, ma da quella di un altro oggetto, come affermato nel FP, Q[103], AA[1],3. Poiché piacere e dolore presuppongono una qualche percezione nello stesso soggetto, è evidente che anche il dolore, come il piacere, appartiene all’appetito intellettivo o sensibile. Inoltre, ogni movimento dell’appetito sensibile viene definito “passione”, come già detto (Q[22], AA[1],3), soprattutto quelli che tendono verso qualche difetto. Pertanto, il dolore, in quanto appartiene all’appetito sensibile, può essere considerato propriamente una passione dell’anima, proprio come le malattie fisiche sono considerate passioni del corpo. Ecco perché Agostino (De Civ. Dei xiv, 7, [8], citando Cicerone) definisce il dolore soprattutto come un tipo di malattia.
+
+Risposta all’Obiezione 1: Parliamo del corpo, perché la causa del dolore risiede nel corpo; ad esempio, quando soffriamo per qualcosa che danneggia il corpo. Tuttavia, l’effetto del dolore si manifesta sempre nell’anima; poiché “il corpo non può provare dolore se non lo prova anche l’anima”, come afferma Agostino (Super Psalm 87:4).
+
+Risposta all’Obiezione 2: Parliamo del dolore dei sensi, non come se fosse un atto della facoltà sensoriale stessa; ma perché i sensi sono necessari per percepire il dolore fisico, così come lo sono per provare piacere fisico.
+
+Risposta all’Obiezione 3: Il dolore derivante dalla perdita di qualcosa di buono dimostra la bontà della natura umana, non perché il dolore sia un’espressione dell’appetito naturale, ma perché la natura desidera ciò che è considerato buono; e quando questa perdita viene percepita, ne deriva il sentimento di dolore nell’appetito sensibile.
 
 <span class="atom-split" data-atom="079" data-title="Whether sorrow is the same as pain?" data-chapter="Whether sorrow is the same as pain?" data-kind="atom" data-srclang="en"></span>
 
@@ -3512,6 +4577,24 @@ themselves of the will and reason are considered under the aspect of good or evi
 can be the matter of pleasure, or vice versa, not essentially but accidentally: that is, in so far as
 either of them is considered under the aspect of good or evil.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il dolore non sia contrario al piacere. Infatti, due contrari non possono essere tra loro causa ed effetto. Tuttavia, il dolore può essere la causa del piacere; è scritto infatti (Matteo 5:5): “Beati coloro che piangono, perché saranno consolati”. Pertanto, dolore e piacere non sono contrari tra loro.
+
+Obiezione 2: Inoltre, ciò che è contrario a una cosa non ne costituisce necessariamente il nome opposto. Tuttavia, per alcuni, il dolore o la tristezza possono procurare piacere; così [Agostino](/figures/augustine) afferma (Confessioni, iii, 2) che nelle commedie stesse la tristezza può generare gioia, e aggiunge (Confessioni, iv, 5) che “piangere è una cosa amara, eppure a volte ci dà piacere”. Pertanto, il dolore non è necessariamente l’opposto del piacere.
+
+Obiezione 3: Inoltre, ciò che è contrario a una cosa non costituisce necessariamente l’essenza dell’altra; infatti i contrari non possono coesistere contemporaneamente. Tuttavia, il dolore può essere considerato un aspetto del piacere; infatti Agostino afferma (De Poenitentia, xiii): “Il pentito dovrebbe sempre soffrire e gioire nel proprio dolore”. Anche il Filosofo dice (Etica, IX, 4) che, d’altra parte, “l’uomo malvagio prova dolore per aver provato piacere”. Pertanto, piacere e dolore non sono necessariamente contrari tra loro.
+
+Al contrario, Agostino afferma (De Civ. Dei xiv, 6) che “la gioia è la volontà di accordarsi con le cose che desideriamo; mentre il dolore è la volontà di dissentire dalle cose che non desideriamo”. Ma accordo e dissenso sono contrari tra loro; pertanto, piacere e dolore sono anch’essi contrari tra loro.
+
+Rispondo che, come afferma il Filosofo (Metafisica, x, 4), la contrarietà è una differenza in relazione a una forma. Ora, la forma o la specie di un’emozione o di un movimento deriva dall’oggetto o dal termine che la determina. Pertanto, poiché gli oggetti del piacere e del dolore, ovvero il bene presente e il male presente, sono contrari tra loro, ne consegue che anche dolore e piacere siano contrari tra loro.
+
+Risposta all’Obiezione 1: Niente impedisce che una cosa contraria causi l’altra in modo accidentale; pertanto, il dolore può essere la causa della gioia. In un certo senso, poiché il dolore per l’assenza di qualcosa o per la presenza del suo contrario spinge una persona a cercare con maggiore fervore ciò che è piacevole – ad esempio, un uomo assetato cerca con più desiderio il piacere di bere, come rimedio al dolore che soffre – in questo modo i dolori della vita presente ci portano al conforto della vita futura. Poiché, semplicemente per il fatto che l’uomo si addolora per i propri peccati o per il ritardo nella realizzazione della propria gloria, merita la consolazione dell’[eternità](/positions/eternity); allo stesso modo, merita tale consolazione quando non esita ad affrontare difficoltà e sofferenze al fine di ottenerla.
+
+Risposta all’Obiezione 2: Il dolore stesso può essere piacevole in modo accidentale, nella misura in cui è accompagnato da stupore, come nelle rappresentazioni teatrali; oppure nella misura in cui richiama alla memoria un oggetto amato e fa sì che si provi amore per quella cosa la cui assenza causa dolore. Pertanto, poiché l’amore è piacevole, sia il dolore che qualsiasi altra cosa ne derivi, nella misura in cui ci ricordano di tale amore, sono anch’essi piacevoli. E proprio per questo motivo traiamo piacere anche dai dolori rappresentati sul palco: nel momento in cui li osserviamo, percepiamo di provare un certo affetto per le persone che vi sono raffigurate.
+
+Risposta all’Obiezione 3: La volontà e la ragione riflettono sui propri atti, nella misura in cui tali atti vengono considerati dal punto di vista del bene o del male. In questo modo, il dolore può diventare oggetto di piacere, o viceversa; non essenzialmente, ma accidentalmente: cioè, nella misura in cui uno qualsiasi di questi due fenomeni venga considerato dal punto di vista del bene o del male.
+
 <span class="atom-split" data-atom="081" data-title="Whether all sorrow is contrary to all pleasure?" data-chapter="Whether all sorrow is contrary to all pleasure?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all sorrow is contrary to all pleasure. Because, just as whiteness
@@ -3575,6 +4658,22 @@ Wherefore the Reply to the Third Objection is evident. Or we may say that, altho
 sorrow is specifically contrary to every pleasure, yet they are contrary to one another in regard to
 their effects: since one has the effect of strengthening the animal nature, while the other results in
 a kind of discomfort.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che ogni dolore sia contrario a ogni piacere. Poiché, proprio come il bianco e il nero sono specie contrarie di colore, così il piacere e il dolore sono specie contrarie delle passioni dell’anima. Ma il bianco e il nero sono universalmente contrari l’uno all’altro; pertanto lo stesso vale anche per il piacere e il dolore.
+
+Obiezione 2: Inoltre, i rimedi sono costituiti da cose opposte al male. Ma ogni piacere rappresenta un rimedio per ogni tipo di dolore, come afferma il Filosofo (Etica, vii, 14). Pertanto, ogni piacere è contrario a ogni dolore.
+
+Obiezione 3: Inoltre, i contrari si ostacolano a vicenda. Ma ogni dolore ostacola qualsiasi tipo di piacere, come è evidente nell’Etica, libro X, capitolo 5. Pertanto, ogni dolore è contrario a ogni piacere.
+
+Al contrario, la stessa cosa non è causa di contrarietà. Ma la gioia per una cosa e il dolore per l’opposta derivano dalla stessa [abitudine](/concepts/custom); così, per esempio, dalla carità deriva il fatto che “ci rallegriamo con coloro che si rallegrano” e “piangiamo con coloro che piangono” (Romani 12:15). Pertanto, non ogni dolore è contrario a ogni gioia.
+
+Rispondo che, come affermato nella Metafisica X, 4, la contrarietà è una differenza relativa a una forma. Ora, una forma può essere generica o specifica; di conseguenza, le cose possono essere contrarie in relazione a una forma generica, come virtù e vizio, oppure in relazione a una forma specifica, come giustizia e ingiustizia. Dobbiamo osservare che alcune cose sono definite da forme assolute, ad esempio sostanze e qualità; altre, invece, sono definite in relazione a qualcosa di esterno, come passioni e movimenti, i quali derivano la loro specie dai loro termini o oggetti. Pertanto, nelle cose definite da forme assolute, le specie appartenenti a generi contrari non sono contrarie per natura specifica; tuttavia, non esiste alcuna affinità o corrispondenza reciproca tra di esse. Ad esempio, l’intemperanza e la giustizia, che appartengono ai generi contrari di virtù e vizio, non sono contrarie per natura specifica; tuttavia, non presentano alcuna affinità reciproca. D’altra parte, nelle cose definite in relazione a qualcosa di esterno, le specie appartenenti a generi contrari non solo non sono contrarie tra loro, ma presentano anche una certa affinità o corrispondenza reciproca. Il motivo di ciò è che quando esiste la stessa relazione tra due contrari, si verifica la contrarietà; ad esempio, avvicinarsi a qualcosa di bianco e avvicinarsi a qualcosa di nero sono azioni contrarie. Al contrario, relazioni contrarie tra cose contrarie implicano una certa somiglianza; ad esempio, allontanarsi da qualcosa di bianco e avvicinarsi a qualcosa di nero. Questo è particolarmente evidente nel caso della contraddizione, che rappresenta il principio dell’opposizione: l’opposizione consiste infatti nell’affermare e nel negare la stessa cosa, ad esempio “bianco” e “non bianco”; mentre nell’affermare un contrario e nel negare l’altro esiste una certa corrispondenza e affinità. Ora, il dolore e la gioia, essendo passioni, sono definite dai loro oggetti. Secondo i rispettivi generi, sono contrarie tra loro: poiché uno rappresenta un tipo di “cercata”, l’altro un tipo di “evitato”; queste azioni, per quanto riguarda il desiderio, corrispondono all’affermazione e al negazione, per quanto riguarda l’intelletto (Etica VI, 2). Pertanto, dolore e gioia, in relazione allo stesso oggetto, sono specificamente contrarie tra loro; mentre dolore e gioia, in relazione a oggetti che non sono contrari ma diversi, non sono specificamente contrarie tra loro, ma sono anche diversi; ad esempio, il dolore per la morte di un amico e la gioia nella contemplazione di qualcosa di bello. Tuttavia, se quegli oggetti diversi sono contrari tra loro, allora gioia e dolore non solo sono specificamente contrarie, ma presentano anche una certa affinità reciproca; ad esempio, rallegrarsi per il bene e dolersi per il male.
+
+Risposta all’Obiezione 1: La bianchezza e il nero non traggono la loro essenza dalla loro relazione con qualcosa di esterno, a differenza del piacere e del dolore; pertanto, questa analogia non è valida.
+
+Risposta all’Obiezione 2: Il genere deriva dalla materia, come affermato nella Metafisica viii, 2; negli accidenti, invece, il soggetto sostituisce la materia. Come già detto in precedenza, piacere e dolore sono genericamente contrari tra loro. Pertanto, in ogni caso di dolore, il soggetto presenta una disposizione opposta a quella del soggetto che prova piacere: infatti, nel piacere l’appetito è visto come qualcosa che viene accettato, mentre nel dolore viene considerato come qualcosa da evitare. Di conseguenza, ogni forma di piacere rappresenta un rimedio contro qualsiasi tipo di dolore, mentre ogni dolore ostacola ogni genere di piacere; soprattutto quando il piacere è specificamente opposto al dolore. Pertanto, la risposta alla Terza Obiezione risulta evidente. Oppure si può dire che, sebbene non ogni dolore sia specificamente contrario a ogni forma di piacere, essi sono comunque contrari tra loro in termini di effetti: poiché uno di questi effetti consiste nel rafforzare la natura animale, mentre l’altro provoca una sorta di disagio.
 
 <span class="atom-split" data-atom="082" data-title="Whether there is any sorrow contrary to the pleasure of contemplation?" data-chapter="Whether there is any sorrow contrary to the pleasure of contemplation?" data-kind="atom" data-srclang="en"></span>
 
@@ -3743,6 +4842,24 @@ temperance: thus life is loved more than food and sexual pleasure. But the tempe
 for refraining from pleasures of touch, more than for not shunning the pains which are contrary to
 them, as is stated in Ethic. iii, 11.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il dolore debba essere evitato più di quanto il piacere debba essere cercato. Infatti, [Agostino](/figures/augustine) afferma (QQ. 83, qu. 63): “Non c’è nessuno che non eviti il dolore più di quanto cerchi il piacere”. Ora, ciò che tutti concordano nel fare sembra essere naturale; pertanto, è naturale e giusto evitare il dolore più di quanto cercare il piacere.
+
+Obiezione 2: Inoltre, l’azione di ciò che è contrario comporta una maggiore rapidità e intensità del movimento; infatti “l’acqua calda gela più velocemente e in modo più completo”, come afferma il Filosofo (Meteorologica, i, 12). Tuttavia, l’allontanamento dal dolore deriva dalla contrarietà della causa che lo provoca; mentre il desiderio di piacere non nasce da alcuna contrarietà, ma piuttosto dall’adeguatezza dell’oggetto piacevole. Pertanto, il dolore viene evitato con maggiore determinazione rispetto al piacere che viene cercato.
+
+Obiezione 3: Inoltre, più intensa è la passione che un uomo resiste seguendo la ragione, più meritevole di lode e più virtuoso è; poiché “la virtù riguarda ciò che è difficile e ciò che è buono” (Etica, ii, 3). Ma l’uomo coraggioso che resiste alla tentazione di evitare il dolore è più virtuoso dell’uomo temperato che resiste alla tentazione di desiderare il piacere; poiché il Filosofo afferma (Retorica, ii, 4) che “soprattutto i coraggiosi e i giusti sono lodati”. Pertanto, la tendenza ad evitare il dolore è più forte della tendenza a cercare il piacere.
+
+Al contrario, il Bene è più potente del Male, come afferma Dionigi (Div. Nom. iv). Tuttavia, il piacere è desiderabile in vista del Bene che ne è l’oggetto; mentre l’evitare la sofferenza lo è per motivi legati al Male. Pertanto, il desiderio di piacere è più forte dell’istinto di evitare la sofferenza.
+
+Rispondo che il desiderio di piacere è di per sé più intenso del rifiuto del dolore. La ragione di ciò sta nel fatto che la causa del piacere è un bene appropriato; mentre la causa del dolore o della sofferenza è un male inappropriato. Ora, accade spesso che un certo bene sia appropriato senza alcun tipo di repulsione; ma non è possibile che un male sia così inappropriato da non essere in qualche modo appropriato. Pertanto, il piacere può essere completo e perfetto; mentre il dolore è sempre parziale. Quindi, il desiderio di piacere è naturalmente più forte del rifiuto del dolore. Un’altra ragione sta nel fatto che il bene, oggetto del piacere, viene cercato per se stesso; mentre il male, oggetto del dolore, viene evitato in quanto rappresenta una privazione di bene. E ciò che è desiderato per sé stesso è più forte di ciò che è desiderato in relazione a qualcos’altro. Inoltre, troviamo una conferma di ciò nei movimenti naturali: ogni movimento naturale diventa più intenso quando una cosa si avvicina al fine che le è appropriato, rispetto al momento in cui ne allontana se stessa; come se la natura fosse più desiderosa di tendere verso ciò che le è appropriato che di evitare ciò che non lo è. Pertanto, l’inclinazione della nostra volontà è, di per sé, più forte nel cercare il piacere che nel rifiutare il dolore. Tuttavia, capita occasionalmente che una persona eviti il dolore con maggiore intensità di quanto cerchi il piacere; e ciò per tre ragioni. Prima di tutto, riguardo alla percezione: come afferma Agostino (“De Trinitate”, X, 12), “l’amore si prova più intensamente quando ci manca ciò che amiamo”. Il dolore deriva proprio dalla mancanza di ciò che amiamo, sia per la perdita di un bene apprezzato sia per la presenza di un male opposto. Il piacere, invece, non soffre mai della mancanza del bene amato, poiché si basa sulla sua possessione. Poiché l’amore è la causa sia del piacere che del dolore, quest’ultimo viene naturalmente evitato con maggiore intensità, soprattutto quando ciò che lo provoca rappresenta qualcosa di opposto a ciò che amiamo. In secondo luogo, riguardo alla causa stessa del dolore o della sofferenza: tale causa è incompatibile con un bene che amiamo più di quanto ami il piacere stesso. Amiamo infatti la salute naturale del corpo molto di più del piacere derivante dal mangiare; perciò rinunceremmo al piacere di mangiare, ad esempio, per paura del dolore causato da colpi o altre cose che danneggiano il nostro benessere fisico. Infine, riguardo all’effetto stesso del dolore: esso infatti ostacola non solo un singolo piacere, ma tutti i piaceri in generale.
+
+Risposta all’Obiezione 1: L’affermazione di Agostino secondo cui “il dolore viene evitato più della gioia che viene cercata” è vera in senso accidentale, ma non in modo assoluto. Ciò risulta chiaro da quanto egli aggiunge successivamente: “Poiché vediamo che anche gli animali più selvaggi vengono dissuasi dai piaceri più grandi dal timore del dolore”, e tale dolore è contrario alla vita, che viene amata sopra ogni cosa.
+
+Risposta all’Obiezione 2: Non è lo stesso tra il movimento che proviene dall’interno e quello che proviene dall’esterno. Il movimento che proviene dall’interno tende verso ciò che è appropriato, piuttosto che allontanarsi da ciò che non lo è; come abbiamo già osservato riguardo al movimento naturale. Ma il movimento che proviene dall’esterno viene intensificato proprio dalla contrapposizione: poiché ogni cosa si sforza, a modo suo, di resistere a tutto ciò che le è contrario, nel tentativo di preservarsi. Pertanto, il movimento violento è intenso all’inizio e si attenua verso la fine. Ora, il movimento della facoltà appetitiva proviene dall’interno, poiché tende dall’anima verso l’oggetto desiderato; di conseguenza, il piacere è, in sé stesso, qualcosa che va cercato, mentre il dolore è qualcosa da evitare. Al contrario, il movimento della facoltà sensitiva proviene dall’esterno, quasi come se provenisse dall’oggetto stesso dell’anima; per questo motivo, più una cosa è contraria al desiderio umano, più viene percepita intensamente. Inoltre, in modo accidentale – poiché i sensi sono necessari sia per il piacere che per il dolore – il dolore viene evitato più spesso del piacere che cercato.
+
+Risposta all’Obiezione 3: Un uomo coraggioso non viene lodato perché, in conformità con la ragione, non viene sopraffatto da alcun tipo di dolore o sofferenza, ma perché non viene sopraffatto da ciò che riguarda i pericoli della morte. Questo genere di dolore viene evitato più volentieri di quanto vengano cercati i piaceri legati al cibo o alle relazioni sessuali, i quali sono invece l’oggetto della temperanza; così la vita è amata più del cibo e dei piaceri sessuali. Ma l’uomo temperante viene lodato soprattutto per il fatto che si astiene dai piaceri legati al contatto fisico, piuttosto che perché evita i dolori che sono contrari ad essi, come affermato nell’Etica, III, 11.
+
 <span class="atom-split" data-atom="084" data-title="Whether outward pain is greater than interior sorrow?" data-chapter="Whether outward pain is greater than interior sorrow?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that outward pain is greater than interior sorrow of the heart.
@@ -3807,6 +4924,24 @@ inward sense, just as the sensitive appetite is more material than the intellect
 as stated above (Q[22], A[3]; Q[31], A[5] ), the body undergoes a greater change from the movement
 of the sensitive appetite: and, in like manner, from outward than from inward pain.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il dolore esteriore sia maggiore del dolore interiore del cuore. Il dolore esteriore, infatti, deriva da cause contrarie al benessere del corpo in cui risiede la vita; mentre il dolore interiore è causato da qualche male nell’immaginazione. Poiché la vita viene amata più di un bene immaginario, sembra che, secondo quanto detto sopra (A[6]), il dolore esteriore sia maggiore del dolore interiore.
+
+Obiezione 2: Inoltre, la realtà si muove più di quanto ne faccia la sua apparenza. Ma il dolore esterno deriva dalla congiunzione reale di elementi contrari; mentre il dolore interno nasce dall’immaginazione di tale congiunzione. Pertanto, il dolore esterno è maggiore del dolore interno.
+
+Obiezione 3: Inoltre, una causa è conosciuta attraverso il suo effetto. Ma il dolore esterno produce effetti più evidenti: l’uomo infatti muore più spesso a causa del dolore esterno che a causa della tristezza interiore. Pertanto, il dolore esterno è considerato più grave e viene evitato con maggiore attenzione rispetto alla tristezza interiore.
+
+Al contrario, si legge (Ecclesiaste 25:17): “La tristezza del cuore è ogni sorta di ferita”; pertanto, proprio come la malvagità di una donna supera tutte le altre forme di male, così la tristezza del cuore supera qualsiasi ferita esteriore.
+
+Rispondo che il dolore interno e quello esterno concordano su un punto e differiscono su due. Concordano nel fatto che entrambi rappresentino un movimento della potenza appetitiva, come già detto (A[1]). Tuttavia si differenziano riguardo a quelle due componenti essenziali per la percezione del dolore e del piacere: da un lato, in relazione alla causa, che è rappresentata da un bene o un male connessi al corpo; dall’altro, in relazione alla forma di percezione stessa. Il dolore esterno deriva infatti da una percezione sensoriale, principalmente tattile, mentre il dolore interno nasce da una percezione interna, legata all’immaginazione o alla ragione. Se confrontiamo quindi la causa del dolore interno con quella del dolore esterno, vedremo che la prima appartiene direttamente all’appetito, mentre la seconda agisce indirettamente su di esso: il dolore interno infatti deriva da qualcosa che è incompatibile con l’appetito stesso, mentre il dolore esterno nasce da qualcosa che è incompatibile con il corpo. Ora, ciò che esiste per sé è sempre precedente a ciò che esiste in relazione ad altro; pertanto, dal questo punto di vista, il dolore interno prevale sul dolore esterno. Lo stesso vale per la forma di percezione: la comprensione ragionevole e immaginativa è infatti di ordine superiore rispetto alla percezione sensoriale tattile. Di conseguenza, il dolore interno è intrinsecamente più intenso del dolore esterno; ne è una prova il fatto che le persone sono disposte a sopportare il dolore esterno pur di evitare quello interno. Inoltre, quando il dolore esterno non è incompatibile con l’appetito interno, può diventare piacevole attraverso sentimenti di gioia interna. Tuttavia, a volte il dolore esterno è accompagnato da quello interno, rendendo il tutto ancora più intenso. Poiché il dolore interno non è soltanto più forte del dolore esterno, ma anche più diffuso: infatti qualsiasi cosa sia incompatibile con il corpo può essere incompatibile anche con l’appetito interno; inoltre, ciò che viene percepito dai sensi può essere compreso anche dall’immaginazione e dalla ragione, ma non viceversa. Per questo motivo, nel passaggio citato si afferma esplicitamente: “La tristezza del cuore è ogni tipo di dolore”, poiché persino i dolori causati dalle ferite esterne rientrano nella categoria delle sofferenze interne del cuore.
+
+Risposta all’Obiezione 1: Il dolore interno può anche derivare da cose che sono distruttive della vita. Pertanto, il confronto tra dolore interno e dolore esterno non deve essere inteso in riferimento ai vari mali che causano dolore, ma piuttosto in relazione ai diversi modi in cui questa causa di dolore viene paragonata all’appetito umano.
+
+Risposta all’Obiezione 2: Il dolore interno non è causato dalla percezione della somiglianza tra due cose; infatti, un uomo non prova dolore interno a causa della somiglianza stessa percepita, ma a causa della cosa che tale somiglianza rappresenta. E questa cosa viene compresa in modo ancora più perfetto attraverso la sua stessa somiglianza, poiché tale somiglianza è di natura più astratta e immateriale. Di conseguenza, il dolore interno è, di per sé, più intenso, poiché è causato da un male più grave; inoltre, il male stesso viene compreso più chiaramente attraverso una percezione interna.
+
+Risposta all’Obiezione 3: I cambiamenti fisici sono più suscettibili di essere causati dal dolore esterno, sia perché il dolore esterno stesso è provocato da fattori materiali che interagiscono con il corpo, e questo rappresenta una condizione necessaria per la percezione tattile; sia perché il senso esterno è di natura più materiale rispetto al senso interno, proprio come l’appetito sensibile lo è rispetto all’intelletto. Per queste ragioni, come già detto in precedenza (Q[22], A[3]; Q[31], A[5]), il corpo subisce cambiamenti più significativi a seguito dell’azione dell’appetito sensibile; e allo stesso modo, tali cambiamenti sono più evidenti a causa del dolore esterno che di quello interno.
+
 <span class="atom-split" data-atom="085" data-title="Whether there are only four species of sorrow?" data-chapter="Whether there are only four species of sorrow?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Damascene's (De Fide Orth. ii, 14) division of sorrow into
@@ -3867,6 +5002,24 @@ shall explain later (SS, Q[36], A[2]).
 Reply to Objection 3: This division is not according to opposite species; but according to the
 diversity of foreign matter to which the notion of sorrow is applied, as stated above.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la divisione del dolore in quattro specie proposta da Damasceno (De Fide Orth. ii, 14) sia errata; cioè in “torpore”, “angoscia” – che Gregorio di Nissa [*Nemesio, De Nat. Hom. xix.] definisce “ansia” – “compassione” e “invidia”. Infatti il dolore è contrario al piacere, ma non esistono diverse specie di piacere; pertanto è errato attribuire diversi tipi di dolore alle stesse emozioni negative.
+
+Obiezione 2: Inoltre, “il pentimento” è un tipo di dolore; lo sono anche “l’indignazione” e “la gelosia”, come afferma il Filosofo (Retorica ii, 9,11). Ma queste non sono incluse nella categoria sopra menzionata. Pertanto, questa divisione è insufficiente.
+
+Obiezione 3: Inoltre, i membri di una categoria dovrebbero essere cose che si oppongono l’una all’altra. Ma queste specie non si oppongono tra loro. Infatti, secondo Gregorio nel [*Nemesio, De Nat. Hom. xix.*], “la torpore è un dolore che priva della capacità di parlare; l’ansia è il dolore che opprime interiormente; l’invidia è il dolore per il bene altrui; la compassione è il dolore per i mali altrui”. È quindi possibile provare dolore sia per i mali che per i beni altrui, e allo stesso tempo essere oppressi interiormente e rimanere senza parole esteriormente. Pertanto, questa classificazione è corretta.
+
+Al contrario, vi sono le autorità gemelle di Gregorio di Nissa, nel suo *Nemesio*, e di Damasceno.
+
+Rispondo che appartiene alla nozione di specie il fatto che essa rappresenti qualcosa che viene aggiunto al genere. Tuttavia, una cosa può essere aggiunta a un genere in due modi: in primo luogo, come qualcosa che appartiene intrinsecamente a quel genere e che è virtualmente contenuto al suo interno; ad esempio, “razionale” viene aggiunto a “animale”. Un tale aggiungimento costituisce veramente una specie di genere, come afferma il Filosofo (Metafisica vii, 12; viii, 2,3). In secondo luogo, una cosa può essere aggiunta a un genere in modo che appaia, per così dire, estranea alla nozione stessa che quel genere esprime; ad esempio, “bianco” o qualcosa del genere può essere aggiunto a “animale”. Un tale aggiungimento, secondo il significato comune con cui parliamo di generi e specie, non costituisce veramente una specie. Tuttavia, a volte si dice che una cosa sia una specie di un certo genere perché possiede qualcosa che, sebbene estraneo a quel genere, può comunque essere ricondotto alla sua nozione; ad esempio, un carbone ardente o una fiamma vengono considerati specie di fuoco, poiché in entrambi il concetto di fuoco si applica a una materia esterna. Allo stesso modo, si dice che astronomia e prospettiva siano specie di matematica, poiché i principi della matematica vengono applicati alla materia naturale. Secondo questo modo di vedere, le specie di tristezza si definiscono attraverso l’applicazione del concetto di tristezza a qualcosa che gli è esterno. Questo elemento esterno può riguardare la causa, l’oggetto o l’effetto della tristezza. L’oggetto proprio della tristezza è “il proprio male”; pertanto, la tristezza può riguardare un oggetto esterno sia quando si prova dolore per un male che non appartiene a sé stesso (e in questo caso abbiamo la “pietà”, che è tristezza per il male altrui, considerato come proprio), sia quando si prova dolore per qualcosa che né è male né appartiene a sé stesso, ma è il bene di un altro, considerato comunque come proprio male (e in questo caso abbiamo l’invidia). L’effetto proprio della tristezza consiste in una sorta di “fuga del desiderio”; quindi, l’elemento esterno nell’effetto della tristezza può essere inteso in modo da influenzare soltanto la prima parte di questo processo, escludendo la fuga; in questo caso abbiamo l’“ansia”, che opprime la mente e rende impossibile qualsiasi tentativo di fuga; per questo motivo viene anche chiamata “perplessità”. Se, invece, la mente viene oppressa a tal punto da rendere immobili anche i membri del corpo, allora l’elemento esterno influisce sia sulla mente che sul corpo, poiché non c’è né fuga né alcun desiderio. Il motivo per cui il torpore viene particolarmente considerato una condizione che priva la persona della capacità di parlare è legato al fatto che i movimenti esterni del corpo rappresentano la migliore espressione dei pensieri e dei desideri interiori, non solo negli esseri umani ma anche in altri animali, come affermato nel “Politico” I, 1.
+
+Risposta all’Obiezione 1: Il piacere è causato dal bene, il quale ha un solo significato; pertanto il piacere non si divide in diverse specie, a differenza del dolore, che è causato dal male, il quale “si manifesta in molti modi”, come afferma Dionisio nel “Divine Nomina” iv.
+
+Risposta all’Obiezione 2: Il pentimento riguarda il proprio male, che è l’oggetto appropriato del dolore; pertanto non appartiene a queste categorie. La gelosia e l’indignazione sono incluse nell’invidia, come spiegheremo in seguito (SS, Q[36], A[2]).
+
+Risposta all’Obiezione 3: Questa divisione non si basa su specie opposte, ma sulla diversità delle sostanze esterne alle quali viene applicata nozione di dolore, come detto sopra.
+
 <span class="atom-split" data-atom="086" data-title="OF THE CAUSES OF SORROW OR PAIN (FOUR ARTICLES)" data-chapter="OF THE CAUSES OF SORROW OR PAIN (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the causes of sorrow: under which head there are four points of inquiry:
@@ -3874,6 +5027,14 @@ We must now consider the causes of sorrow: under which head there are four point
 (2) Whether desire is a cause of sorrow?
 (3) Whether the craving for unity is a cause of sorrow?
 (4) Whether an irresistible power is a cause of sorrow?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare le cause del dolore: in questa categoria esistono quattro punti di indagine:
+(1) Il dolore è causato dalla perdita di qualcosa di buono, o piuttosto dalla presenza di qualcosa di male?
+(2) Il desiderio è una causa di dolore?
+(3) Il bisogno di unità è una causa di dolore?
+(4) Una forza irresistibile è una causa di dolore?
 
 <span class="atom-split" data-atom="087" data-title="Whether sorrow is caused by the loss of good or by the presence of evil?" data-chapter="Whether sorrow is caused by the loss of good or by the presence of evil?" data-kind="atom" data-srclang="en"></span>
 
@@ -3982,6 +5143,25 @@ yet the hindrance is reckoned as present, and so gives rise to sorrow.
 Reply to Objection 3: Desire gives pleasure, so long as there is hope of obtaining that which
 is desired. But, when hope is removed through the presence of an obstacle, desire causes sorrow.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il desiderio non possa essere considerato una causa di dolore o tristezza. Poiché la tristezza, come già detto (A[1]), riguarda il male; mentre il desiderio è un movimento dell’appetito verso il bene. Ora, un movimento verso qualcosa che è contrario a ciò che si desidera non può essere considerato una causa di movimento verso l’opposto di quel desiderio. Pertanto, il desiderio non è una causa di dolore.
+
+Obiezione 2: Inoltre, secondo Damasceno (De Fide Orth. ii, 12), il dolore è causato da qualcosa di presente; mentre l’oggetto del desiderio è qualcosa di futuro. Pertanto, il desiderio non può essere considerato una causa del dolore.
+
+Obiezione 3: Inoltre, ciò che è piacevole di per sé non può essere causa di dolore. Ma il desiderio è piacevole di per sé, come afferma il Filosofo (Retorica i, 11). Pertanto, il desiderio non può essere causa di dolore o tristezza.
+
+Al contrario, [Agostino](/figures/augustine) afferma (Enchiridion xxiv): “Quando l’ignoranza di ciò che è necessario fare e il desiderio di cose dannose fecero la loro comparsa, l’errore e il dolore trovarono modo di insinuarsi.” Ma l’ignoranza è la causa dell’errore; pertanto, anche il desiderio può essere considerato una causa di sofferenza.
+
+Rispondo che il dolore è un movimento derivante dall’appetito animale. Come già detto sopra (A[1]), questo movimento appetitivo può essere paragonato all’appetito naturale; tale somiglianza si spiega per due motivi: da un lato, riguardo al fine che il movimento mira a raggiungere; dall’altro, riguardo al principio che lo motiva. Infatti, il motivo del movimento di un corpo pesante verso il basso è la posizione inferiore in cui si trova; mentre il principio di tale movimento è l’inclinazione naturale derivante dalla gravità.  
+Per quanto riguarda il movimento appetitivo, il motivo che lo determina è l’oggetto stesso di quel desiderio. Come già affermato sopra (A[1]), la causa del dolore è un male presente; d’altra parte, il principio che motiva tale movimento è l’inclinazione interna dell’appetito, che tende innanzitutto al bene e, di conseguenza, all’allontanamento dal male opposto. Il primo principio di questo movimento appetitivo è quindi l’amore, che rappresenta l’istinto naturale verso la ricerca del bene; il secondo principio è l’odio, che induce all’evitamento del male. Poiché la concupiscenza o il desiderio sono effetti dell’amore e generano il massimo piacere, come già detto sopra (Q[32], A[6]), Agostino spesso parla di desiderio nel senso di amore; in questo contesto afferma che il desiderio è la causa universale del dolore. Tuttavia, a volte il desiderio, inteso nel suo significato proprio, può essere effettivamente la causa del dolore: infatti, tutto ciò che ostacola il raggiungimento di un fine è contrario a quel movimento; e ciò che è contrario all’operazione dell’appetito è certamente motivo di dolore. Pertanto, il desiderio diventa causa di dolore quando si soffre per la ritardata realizzazione di un bene desiderato o per la sua totale scomparsa. Ma non può essere considerato una causa universale del dolore: infatti, ci si addolora molto di più per la perdita di un bene presente e già goduto, che per l’impossibilità di ottenere un bene futuro che si desidera.
+
+Risposta all’Obiezione 1: La tendenza dell’appetito verso la possesso del bene determina anche la tendenza dell’appetito a fuggire dal male, come già detto in precedenza. Ed è per questo che i movimenti appetitivi legati al bene vengono considerati responsabili anche dei movimenti appetitivi legati al male.
+
+Risposta all’Obiezione 2: Ciò che è desiderato, pur essendo effettivamente futuro, è in qualche modo presente, poiché vi si spera. O possiamo dire che, sebbene il bene desiderato sia di per sé futuro, l’ostacolo che lo impedisce viene considerato presente, e questo genera tristezza.
+
+Risposta all’Obiezione 3: Il desiderio procura piacere, purché esista la speranza di ottenere ciò che si desidera. Tuttavia, quando questa speranza viene meno a causa dell’esistenza di un ostacolo, il desiderio provoca dolore.
+
 <span class="atom-split" data-atom="089" data-title="Whether the craving for unity is a cause of sorrow?" data-chapter="Whether the craving for unity is a cause of sorrow?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the craving for unity is not a cause of sorrow. For the
@@ -4079,6 +5259,14 @@ of inquiry:
 (2) Whether the effect of sorrow or pain is to burden the soul?
 (3) Whether sorrow or pain weakens all activity?
 (4) Whether sorrow is more harmful to the body than all the other passions of the soul?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare gli effetti del dolore o del lutto: in questa categoria vi sono quattro punti da esaminare:  
+(1) Il dolore priva una persona della capacità di imparare?  
+(2) L’effetto del dolore o del lutto è quello di opprimere l’anima?  
+(3) Il dolore o il lutto indeboliscono ogni forma di attività umana?  
+(4) Il lutto è più dannoso per il corpo di tutte le altre passioni dell’anima?
 
 <span class="atom-split" data-atom="092" data-title="Whether pain deprives one of the power to learn?" data-chapter="Whether pain deprives one of the power to learn?" data-kind="atom" data-srclang="en"></span>
 
@@ -4188,6 +5376,24 @@ such as to shut out all hope of evasion: and thus also it both depresses and con
 time. For certain things, taken metaphorically, imply one another, which taken literally, appear to
 exclude one another.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che onerare l’anima non sia un effetto del dolore. Infatti l’Apostolo dice (2 Corinzi 7:11): “Ecco dunque lo stesso sentimento di tristezza che provate per causa di Dio: quanta attenzione, quanta indignazione suscita in voi, ”. Ora, attenzione e indignazione implicano che l’anima venga sollevata, il che è contrario al sentirsi depresso. Pertanto, la depressione non è un effetto del dolore.
+
+Obiezione 2: Inoltre, il dolore è contrario al piacere. Ma l’effetto del piacere è l’espansione; il suo opposto non è la depressione, ma la contrazione. Pertanto, la depressione non dovrebbe essere considerata un effetto del dolore.
+
+Obiezione 3: Inoltre, il dolore consuma coloro che ne sono colpiti, come si può desumere dalle parole dell’Apostolo (2 Corinzi 2:7): “Perché forse tale persona venga sommersa da un dolore eccessivo”. Ma ciò che è depresso non viene realmente consumato; anzi, viene schiacciato da qualcosa di pesante, mentre ciò che viene consumato entra veramente all’interno di colui che lo subisce. Pertanto, la depressione non dovrebbe essere considerata un effetto del dolore.
+
+Al contrario, Gregorio di Nissa ([*Nemesio, De Nat. Hom. xix.*]) e Damasceno ([De Fide Orth. ii, 14]) parlano di “tristezza opprimente”.
+
+Rispondo che gli effetti delle passioni dell’anima vengono talvolta descritti in modo metaforico, in base alle somiglianze con i corpi sensibili: infatti, i movimenti dell’appetito animale sono simili alle inclinazioni dell’appetito naturale. In questo modo, al amore viene attribuito il carattere di “fervore”, al piacere quello di “espansione”, e al dolore quello di “depressione”. Si dice infatti che un uomo sia “depresso” quando i suoi movimenti vengono ostacolati da qualche impedimento. È evidente, da quanto detto in precedenza (Q[23], A[4]; Q[25], A[4]; Q[36], A[1]), che il dolore è causato da un male presente; tale male, essendo in contrasto con i movimenti della volontà, deprime l’anima, impedendole di godere di ciò che desidera. Se il male che causa il dolore non è così forte da privare una persona della speranza di poterlo evitare, anche se l’anima si trova in uno stato di depressione e per il momento non riesce ad ottenere ciò che brama, essa conserva comunque la capacità di respingere quel male. D’altra parte, se la forza di quel male è tale da escludere qualsiasi possibilità di fuga, anche i movimenti interiori dell’anima vengono completamente ostacolati, impedendole di agire in alcun modo. A volte, persino i movimenti esterni del corpo vengono paralizzati, facendo sì che una persona rimanga completamente stupefatta.
+
+Risposta all’Obiezione 1: Quell’innalzamento dell’anima deriva dal dolore che è conforme alla volontà di Dio, poiché porta con sé la speranza del perdono dei peccati.
+
+Risposta all’Obiezione 2: Per quanto riguarda il movimento dell’appetito, la contrazione e la depressione equivalgono: poiché l’anima, essendo depressa al punto di non poter dedicarsi liberamente alle cose esterne, si ritira in se stessa, come se si chiudesse in se.
+
+Risposta all’Obiezione 3: Si dice che il dolore consumi l’uomo quando la forza del male che lo colpisce è tale da escludere qualsiasi speranza di sfuggirvi; ed è proprio per questo che il dolore contemporaneamente deprime e distrugge l’individuo. Infatti, alcune cose, intese in senso metaforico, si implicano a vicenda, mentre se prese letteralmente sembrano escludersi a vicenda.
+
 <span class="atom-split" data-atom="094" data-title="Whether sorrow or pain weakens all activity?" data-chapter="Whether sorrow or pain weakens all activity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sorrow does not weaken all activity. Because carefulness is
@@ -4217,6 +5423,18 @@ principle and cause: and such action must needs be improved by sorrow: thus the 
 on account of a certain thing, the more one strives to shake off sorrow, provided there is a hope of
 shaking it off: otherwise no movement or action would result from that sorrow.
 From what has been said the replies to the objections are evident.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il dolore non indebolisca affatto tutte le attività umane. Poiché la prudenza deriva dal dolore, come è chiaro dal passaggio dell’Apostolo citato sopra (A[2], OBJ[1]). Ma la prudenza conduce a un buon lavoro; per questo l’Apostolo dice (2 Timoteo 2:15): “Studiati con diligenza affinché tu possa presentarti, come un lavoratore che non abbia di che vergognarsi”. Pertanto, il dolore non rappresenta un ostacolo al lavoro, ma anzi aiuta a svolgerlo bene.
+
+Obiezione 2: Inoltre, il dolore provoca desiderio in molti casi, come affermato nell’Etica VII, 14. Ma il desiderio aumenta l’intensità dell’azione; pertanto, anche il dolore lo fa.
+
+Obiezione 3: Inoltre, poiché alcune azioni sono proprie di chi è gioioso, altre lo sono di chi è triste; ad esempio, piangere. Ora, qualcosa viene migliorato da ciò che gli è adatto. Pertanto, alcune azioni non vengono ostacolate, ma anzi migliorate a causa del dolore.
+
+Al contrario, il Filosofo afferma (Etica, x, 4) che “il piacere perfeziona l’azione”, mentre “il dolore la ostacola” (Etica, x, 5).
+
+Rispondo che, come già detto sopra (A[2]), il dolore a volte non deprime né consuma l’anima al punto di impedire qualsiasi movimento, interno o esterno; tuttavia, alcuni movimenti sono talvolta causati proprio dal dolore stesso. Pertanto, l’azione è in relazione duplice rispetto al dolore: innanzitutto, in quanto oggetto del dolore, il quale ostacola qualsiasi azione; infatti non facciamo mai ciò che facciamo con dolore, così come non lo facciamo con piacere o senza dolore. La ragione di ciò è che la volontà è la causa delle azioni umane; quindi, quando compiamo qualcosa che provoca dolore, tale azione necessariamente ne risulta indebolita. In secondo luogo, l’azione è in relazione al dolore anche come sua fonte e causa principale: in questo caso, il dolore stesso può spingerci ad agire con maggiore determinazione; più ci addoloriamo per qualcosa, più cerchiamo di scacciare quel dolore, purché esista la speranza di riuscirci; altrimenti, da quel dolore non deriverebbe alcun movimento o azione. Da quanto detto, le risposte alle obiezioni risultano evidenti.
 
 <span class="atom-split" data-atom="095" data-title="Whether sorrow is more harmful to the body than the other passions of the soul?" data-chapter="Whether sorrow is more harmful to the body than the other passions of the soul?" data-kind="atom" data-srclang="en"></span>
 
@@ -4276,6 +5494,24 @@ imply, and which arises from the absence of the thing desired. Moreover sorrow t
 deprives man of the use of reason: as may be seen in those who through sorrow become a prey to
 melancholy or madness.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il dolore non sia particolarmente dannoso per il corpo. Infatti, il dolore ha un’essenza spirituale nell’anima; ma ciò che esiste soltanto a livello spirituale non provoca alcuna trasformazione nel corpo, come è evidente nei casi delle immagini di colori, che si trovano nell’aria e non conferiscono colore ai corpi. Pertanto, il dolore non è dannoso per il corpo.
+
+Obiezione 2: Inoltre, se qualcosa fosse dannoso per il corpo, ciò potrebbe avvenire soltanto a causa di una trasformazione fisica che ne derivi. Ma tale trasformazione fisica si verifica in tutte le passioni dell’anima, come già detto sopra (Q[22], AA[1],3). Pertanto, il dolore non è più dannoso per il corpo delle altre passioni dell’anima.
+
+Obiezione 3: Inoltre, il Filosofo afferma (Etica vii, 3) che “l’[ira](/concepts/anger) e il desiderio spingono alcune persone alla follia”; ciò sembra rappresentare un danno molto grave, poiché la ragione è la cosa più eccellente nell’uomo. Inoltre, la disperazione pare essere ancora più dannosa della tristezza; infatti essa ne è la causa. Pertanto, la tristezza non è più nociva per il corpo delle altre passioni dell’anima.
+
+Al contrario, è scritto (Proverbi 17:22): “Un cuore gioioso fa fiorire la vita; uno spirito triste consuma le forze umane”; e (Proverbi 25:20): “Come la falena distrugge i vestiti, come il verme corrode il legno, così la tristezza consuma il cuore dell’uomo”; e (Ecclesiaste 38:19): “Dalla tristezza deriva la morte”.
+
+Rispondo che, tra tutte le passioni dell’anima, il dolore è quello più dannoso per il corpo. Il motivo di ciò sta nel fatto che il dolore è contrario al modo in cui la vita umana si svolge, non soltanto in termini di intensità o quantità – come avviene per le altre passioni dell’anima – ma proprio nella natura stessa di quel movimento vitale. La vita umana, infatti, consiste in un certo movimento che parte dal cuore e si estende alle altre parti del corpo; questo movimento è conforme alla [natura umana](/axes/human_nature) e segue una misura precisa. Pertanto, se tale movimento supera i limiti consentiti, diventa dannoso per la vita stessa in termini di quantità; ma non nella sua essenza specifica. D’altra parte, se questo movimento viene ostacolato nel suo [sviluppo](/positions/progress), ne risulta compromessa anche la natura stessa. È importante notare che, tra tutte le passioni dell’anima, quella trasformazione fisica che ne costituisce l’elemento materiale è sempre in armonia e proporzione con il movimento appetitivo che ne rappresenta l’aspetto formale; proprio come nella natura, la materia è sempre proporzionata alla forma. Quindi quelle passioni che inducono un movimento dell’appetito verso qualcosa di desiderato non sono necessariamente dannose per il corpo in termini di essenza, ma possono esserlo se eccessive; tra queste vi sono l’amore, la gioia, il desiderio, ecc. Tali passioni portano al benessere del corpo, anche se, se esagerate, possono rivelarsi dannose. Al contrario, quelle passioni che inducono un movimento di fuga o di ritiro nell’appetito sono dannose sia in termini di quantità che di essenza; tra queste vi sono la paura, la disperazione e soprattutto il dolore, che deprime l’anima a causa di un male presente, il quale lascia un’impressione più profonda di un male futuro.
+
+Risposta all’Obiezione 1: Poiché l’anima muove naturalmente il corpo, il movimento spirituale dell’anima è quindi naturalmente la causa della trasformazione del corpo stesso. Non esiste inoltre alcuna analogia con le immagini spirituali, poiché queste non sono naturalmente destinate a muovere corpi diversi da quelli che vengono naturalmente mossi dall’anima.
+
+Risposta all’Obiezione 2: Altre passioni implicano una trasformazione fisica che è specificamente in armonia con il movimento vitale; mentre il dolore implica una trasformazione che invece vi è in contrasto, come già detto sopra.
+
+Risposta all’Obiezione 3: Una causa minore è sufficiente per ostacolare l’uso della ragione, piuttosto che per distruggere la vita; infatti osserviamo che molte malattie privano una persona dell’uso della ragione, prima ancora di privarla della vita. Tuttavia, paura e rabbia causano gravi danni al corpo, a causa del dolore che comportano e che deriva dall’assenza di ciò che si desidera. Inoltre, il dolore a volte priva anche l’uomo dell’uso della ragione: come si può vedere in coloro che, a causa del dolore, diventano vittime di melanconia o follia.
+
 <span class="atom-split" data-atom="096" data-title="OF THE REMEDIES OF SORROW OR PAIN (FIVE ARTICLES)" data-chapter="OF THE REMEDIES OF SORROW OR PAIN (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the remedies of pain or sorrow: under which head there are five points
@@ -4285,6 +5521,15 @@ of inquiry:
 (3) Whether it is assuaged by the [sympathy](/positions/moral_sentiment) of friends?
 (4) Whether it is assuaged by contemplating the truth?
 (5) Whether it is assuaged by sleep and baths?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare i rimedi al dolore o alla tristezza: in questa categoria esistono cinque punti di indagine:  
+(1) Se il dolore o la tristezza vengano alleviati da qualsiasi forma di piacere;  
+(2) Se vengano alleviati dal pianto;  
+(3) Se vengano alleviati dalla [solidarietà](/positions/moral_sentiment) degli amici;  
+(4) Se vengano alleviati dalla contemplazione della verità;  
+(5) Se vengano alleviati dal sonno e dai bagni.
 
 <span class="atom-split" data-atom="097" data-title="Whether pain or sorrow is assuaged by every pleasure?" data-chapter="Whether pain or sorrow is assuaged by every pleasure?" data-kind="atom" data-srclang="en"></span>
 
@@ -4332,6 +5577,24 @@ each is modified by the other. And yet, since the perception of the present move
 than the memory of the past, and since love of self is more persistent than love of another; hence
 it is that, in the end, the pleasure drives out the sorrow. Wherefore a little further on (Confess. iv,
 8) Augustine says that his "sorrow gave way to his former pleasures."
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non ogni piacere possa alleviare ogni dolore o tristezza. Infatti, il piacere non lenisce la tristezza, se non nella misura in cui questa è contraria a esso; come affermato nel “Etica”, ii, 3: “I rimedi agiscono attraverso i loro opposti”. Tuttavia, non ogni piacere è contrario a ogni dolore; come già detto sopra (Q[35], A[4]). Pertanto, non ogni piacere può alleviare ogni dolore.
+
+Obiezione 2: Inoltre, ciò che provoca dolore non lo allevia. Tuttavia alcune gioie causano dolore; poiché, come affermato nell’Etica IX, 4, “l’uomo malvagio prova sofferenza per aver provato piacere”. Pertanto, non ogni gioia allevia il dolore.
+
+Obiezione 3: Inoltre, [Agostino](/figures/augustine) afferma (Confessioni, iv, 7) di essere fuggito dal proprio paese, dove era solito trascorrere del tempo con il suo amico, ora defunto: “Poiché in quel luogo i suoi occhi lo cercavano meno spesso, dato che non erano abituati a vederlo”. Da ciò possiamo dedurre che quelle cose che univano noi ai nostri amici morti o assenti diventano un peso per noi quando piangiamo la loro morte o assenza. Ma nulla ci univa di più delle gioie che condividevamo insieme. Pertanto, proprio queste gioie diventano un peso per noi nel momento del lutto. Quindi, non tutte le gioie riescono a alleviare ogni dolore.
+
+Al contrario, il Filosofo afferma (Etica, VII, 14) che “il dolore è scatenato dal piacere, sia da un piacere opposto sia da qualsiasi altro tipo di piacere, purché sia intenso”.
+
+Rispondo che, come è evidente da quanto detto sopra (Q[23], A[4]), il piacere rappresenta una sorta di riposo dell’appetito di fronte a un bene appropriato; mentre la tristezza sorge da qualcosa che non è adatto all’appetito. Pertanto, nei movimenti dell’appetito, il piacere è ciò che, nei corpi, il riposo è rispetto alla stanchezza derivante da una trasformazione non naturale; infatti la tristezza stessa implica una certa stanchezza o sofferenza della facoltà appetitiva. Quindi, proprio come ogni riposo del corpo allevia qualsiasi tipo di stanchezza causata da cause non naturali, così ogni piacere lenisce qualsiasi forma di tristezza, indipendentemente dalla sua origine.
+
+Risposta all’Obiezione 1: Sebbene non ogni piacere sia specificamente contrario a ogni dolore, essi sono comunque, in senso generale, come già detto sopra (Q[35], A[4]), in opposizione reciproca. Pertanto, per quanto riguarda la disposizione dell’individuo, qualsiasi dolore può essere alleviato da qualsiasi piacere.
+
+Risposta all’Obiezione 2: I piaceri degli uomini malvagi non sono causa di dolore mentre vengono goduti, ma soltanto in seguito, cioè nel momento in cui tali uomini si pentono delle cose per le quali hanno provato piacere. Questo dolore può essere alleviato da piaceri opposti.
+
+Risposta all’Obiezione 3: Quando ci sono due cause che tendono verso movimenti opposti, ciascuna ostacola l’altra; tuttavia quella più forte e persistente prevale alla fine. Ora, quando un uomo prova dolore a causa di cose di cui ha goduto in compagnia di un amico defunto o assente, esistono due cause che generano reazioni opposte: il ricordo della morte o dell’assenza dell’amico lo spinge al dolore, mentre i beni presenti lo spingono verso la gioia. Pertanto, ciascuna di queste cause modifica l’effetto dell’altra. Tuttavia, poiché la percezione del presente agisce con maggiore forza della memoria del passato, e poiché l’amore per se stessi è più persistente dell’amore per un altro, alla fine è la gioia a sopraffare il dolore. Per questo motivo, in un passo successivo delle Confessioni (IV, 8), Agostino afferma che “il suo dolore cedette il posto alle sue precedenti gioie”.
 
 <span class="atom-split" data-atom="098" data-title="Whether pain or sorrow is assuaged by tears?" data-chapter="Whether pain or sorrow is assuaged by tears?" data-kind="atom" data-srclang="en"></span>
 
@@ -4411,6 +5674,22 @@ pleasure by reason of its cause.
 Reply to Objection 2: The friend's sorrow itself would be a cause of sorrow: but consideration
 of its cause, viz. his love, gives rise rather to pleasure.
 And this suffices for the reply to the Third Objection.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il dolore dei nostri amici che condividono la nostra tristezza non possa alleviare la nostra stessa sofferenza. Infatti, le cose contrarie hanno effetti opposti. Come afferma [Agostino](/figures/augustine) (Confessioni, VIII, 4): “Quando molte persone gioiscono insieme, ognuna prova una gioia ancora più intensa, poiché vengono reciprocamente stimolate e infiammate l’una dall’altra”. Pertanto, allo stesso modo, quando molte persone soffrono insieme, sembra che il loro dolore aumenti.
+
+Obiezione 2: Inoltre, l’[amicizia](/concepts/friendship) richiede amore reciproco, come afferma Agostino (Confessioni, iv, 9). Ma un amico che condivide i sentimenti dell’altro prova dolore per la sua sofferenza. Pertanto, il dolore di questo amico diventa, per colui che è in difficoltà, una causa ulteriore di tristezza; di conseguenza, il suo dolore raddoppia e sembra aumentare ancora di più la sofferenza del primo.
+
+Obiezione 3: Inoltre, il dolore sorge ogni volta che un male colpisce un amico, come se quel male colpisse noi stessi; poiché “un amico è l’altro sé” (Etica, IX, 4,9). Ma il dolore è un male. Pertanto, il dolore dell’amico che prova compassione aumenta il dolore di colui con cui si commuove.
+
+Al contrario, il Filosofo afferma (Etica, IX, 11) che coloro che soffrono si consolano quando i loro amici li compiangono.
+
+Rispondo che, quando si soffre, è naturale che la [solidarietà](/positions/moral_sentiment) di un amico possa offrire consolazione; il Filosofo ne indica due motivi principali (Etica, IX, 11). Il primo è che, poiché il dolore ha un effetto deprimente, è come un peso dal quale ci sforziamo di liberarci; quindi, quando vediamo altri addolorati a causa del nostro stesso dolore, sembra che anche loro stiano condividendo quel peso, cercando in qualche modo di alleviarne il peso; di conseguenza, il dolore diventa meno intenso per noi, proprio come avviene nel portare pesi fisici. Il secondo motivo, ancora più convincente, è che quando gli amici ci consolano, ci rendiamo conto di essere amati da loro, e questo ci procura piacere, come già detto in precedenza (Q[32], A[5]). Poiché ogni forma di piacere allevia il dolore, come affermato altrove (A[1]), ne consegue che il dolore viene mitigato dalla solidarietà di un amico.
+
+Risposta all’Obiezione 1: In entrambi i casi esiste una dimostrazione dell’esistenza dell’amicizia, ovvero quando un uomo si rallegra con coloro che sono felici e quando soffre insieme a coloro che sono tristi. Di conseguenza, ciascuno di questi individui diventa oggetto di piacere per il semplice fatto di essere motivo di gioia o dolore per l’altro.
+
+Risposta all’Obiezione 2: Il dolore stesso di quell’amico sarebbe una causa di tristezza; ma considerando la sua origine, ovvero l’amore che prova, si prova piuttosto gioia. E questo basta per rispondere alla Terza Obiezione.
 
 <span class="atom-split" data-atom="100" data-title="Whether pain and sorrow are assuaged by the contemplation of truth?" data-chapter="Whether pain and sorrow are assuaged by the contemplation of truth?" data-kind="atom" data-srclang="en"></span>
 
@@ -4492,6 +5771,24 @@ by causes which hinder one another.
 Reply to Objection 3: Every good disposition of the body reacts somewhat on the heart, which
 is the beginning and end of bodily movements, as stated in De [Causa](/concepts/cause) Mot. Animal. xi.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il sonno e i bagni non possano alleviare la tristezza. Infatti, la tristezza risiede nell’anima, mentre il sonno e i bagni riguardano il corpo; pertanto, non sono in grado di alleviare la tristezza.
+
+Obiezione 2: Inoltre, lo stesso effetto non sembra derivare da cause opposte. Ma queste, essendo cose materiali, sono incompatibili con la contemplazione della verità, che invece è una causa di alleviamento del dolore, come già detto sopra (A[4]). Pertanto, il dolore non viene mitigato da cause di questo tipo.
+
+Obiezione 3: Inoltre, il dolore e la tristezza, nella misura in cui colpiscono il corpo, indicano una certa trasformazione dell’animo. Tuttavia, questi rimedi sembrano riguardare i sensi esterni e gli arti, piuttosto che lo stato interiore dell’anima. Pertanto, non riescono a alleviare la tristezza o il dolore.
+
+Al contrario, [Agostino](/figures/augustine) afferma (Confessioni, IX, 12): “Avevo sentito dire che il nome ‘Balneum’, derivante dal greco {balaneion}, indicasse proprio la funzione di quel luogo: eliminare dalla mente la tristezza”. In seguito aggiunge: “Dormii e mi risvegliai nuovamente, scoprendo che il mio dolore si era notevolmente alleviato”; cita inoltre le parole dell’inno di Ambrogio (*Cfr. Breviario di Sarum: Prima domenica dopo l’ottava dell’Epifania, Inno per le prime Vespere*), nel quale si dice che “il sonno restituisce alle membra stanche la forza per lavorare, rinfresca la mente stanca e scaccia la tristezza”.
+
+Rispondo che, come già detto sopra (Q[37], A[4]), il dolore, per la sua natura specifica, è in contrasto con il movimento vitale del corpo; pertanto qualsiasi cosa ripristini la natura corporea nello stato normale di movimento vitale è contraria al dolore e lo allevia. Inoltre, tali rimedi, proprio perché riportano la natura umana allo stato normale, sono causa di piacere; infatti, il piacere consiste appunto in questo, come già affermato sopra (Q[31], A[1]). Pertanto, poiché ogni forma di piacere allevia il dolore, anche i rimedi fisici del genere sono in grado di lenire il dolore stesso.
+
+Risposta all’Obiezione 1: La normale disposizione del corpo, nella misura in cui viene percepita, è di per sé una causa di piacere e, pertanto, allevia il dolore.
+
+Risposta all’Obiezione 2: Come già detto sopra (Q[31], A[8]), un piacere ostacola l’altro; eppure ogni piacere allevia il dolore. Pertanto non è irragionevole che il dolore venga alleviato da cause che tra loro si ostacolano a vicenda.
+
+Risposta all’Obiezione 3: Ogni buona condizione fisica ha un certo effetto sul cuore, che rappresenta l’inizio e la fine di tutti i movimenti del corpo, come affermato nel De [CAUSA](/concepts/cause) Mot. Animal. xi.
+
 <span class="atom-split" data-atom="102" data-title="OF THE GOODNESS AND MALICE OF SORROW OR PAIN (FOUR ARTICLES)" data-chapter="OF THE GOODNESS AND MALICE OF SORROW OR PAIN (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the goodness and malice of pain or sorrow: under which head there are
@@ -4500,6 +5797,14 @@ four points of inquiry:
 (2) Whether sorrow can be a virtuous good?
 (3) Whether it can be a useful good?
 (4) Whether bodily pain is the greatest evil?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la bontà o la malvagità del dolore o del lutto: in questa sede vi sono quattro punti da esaminare:
+(1) Se tutto il dolore sia male.
+(2) Se il dolore possa essere un bene virtuoso.
+(3) Se possa essere un bene utile.
+(4) Se il dolore fisico sia il male più grande.
 
 <span class="atom-split" data-atom="103" data-title="Whether all sorrow is evil?" data-chapter="Whether all sorrow is evil?" data-kind="atom" data-srclang="en"></span>
 
@@ -4541,6 +5846,21 @@ point of view, all shun sorrow, inasmuch as they shun evil: but they do not shun
 rejection of evil. The same also applies to bodily pain: because the perception and rejection of
 bodily evil is the proof of the goodness of nature.
 This suffices for the Replies to the Second and Third Objections.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che ogni dolore sia male. Infatti Gregorio di Nissa [*Nemesio, De Nat. Hom. xix.] afferma: “Ogni dolore è male, per sua stessa natura”. Ora ciò che è naturalmente male è male in ogni momento e in ogni luogo. Pertanto, ogni dolore è male.
+
+Obiezione 2: Inoltre, ciò che tutti, anche i virtuosi, evitano è male. Ma tutti evitano la tristezza, anche i virtuosi, poiché, come affermato nell’Etica vii, 11, “sebbene l’uomo prudente non miri al piacere, tuttavia si sforza di evitare la tristezza”. Pertanto, la tristezza è male.
+
+Obiezione 3: Inoltre, proprio come il male fisico è l’oggetto e la causa del dolore fisico, allo stesso modo il male spirituale è l’oggetto e la causa della tristezza nell’anima. Ma ogni dolore fisico rappresenta un male fisico; pertanto, ogni tristezza spirituale costituisce un male dell’anima.
+
+Al contrario, il dolore per il male è opposto al piacere nel male; ma il piacere nel male stesso è male. Per questo, nella condanna di alcune persone, si legge (Proverbi 2:14) che “si rallegrarono quando compirono il male”. Pertanto, il dolore per il male è qualcosa di buono.
+
+Rispondo che una cosa può essere buona o cattiva in due modi: innanzitutto, considerata semplicemente e in sé stessa; in questo caso, ogni dolore è considerato un male, poiché il solo fatto che un desiderio umano sia turbato da un male presente costituisce già un male stesso, poiché ostacola la capacità di rispondere a quel desiderio con qualcosa di positivo. In secondo luogo, una cosa viene definita buona o cattiva in relazione ad altre circostanze: ad esempio, la vergogna è considerata un bene quando si è compiuto un atto vergognoso, come affermato nell’Etica IV, 9. Pertanto, se la presenza di qualcosa di triste o doloroso comporta dolore o sofferenza, ciò costituisce un segno di bontà; infatti, se non ci fosse dolore, ciò significherebbe che o non lo si percepisce affatto, oppure che non lo si considera qualcosa di inappropriato, entrambe queste situazioni rappresentano chiaramente dei mali. Quindi, è una condizione di bontà che, alla presenza di un male, segua dolore o sofferenza. Per questo motivo, l’[Agostino](/figures/augustine) afferma (Genesi ad litteram VIII, 14): “È anche una cosa buona che si soffra per il bene che si è perso; infatti, se nella natura umana non fosse rimasto alcun bene, non ci sarebbe motivo di essere puniti per la sua perdita”. Tuttavia, nell’ambito della scienza morale, consideriamo le cose individualmente – poiché le azioni riguardano individui specifici – e quindi ciò che è considerato buono in una determinata circostanza deve essere ritenuto tale; allo stesso modo, ciò che è volontario in una certa situazione viene giudicato volontario, come affermato nell’Etica III, 1, e anche sopra (Q[6], A[6]).
+
+Risposta all’Obiezione 1: Gregorio di Nissa, nel suo *Nemesio*, parla del dolore da parte del male che lo provoca, ma non da parte della persona che lo percepisce e lo rifiuta. Da questo punto di vista, tutti evitano il dolore nella misura in cui evitano il male; tuttavia, non evitano necessariamente la percezione e il rifiuto del male stesso. Lo stesso vale per il dolore fisico: infatti, la percezione e il rifiuto del male fisico costituiscono una prova della bontà della natura umana.  
+Ciò è sufficiente per rispondere alle Seconda e Terza Obiezioni.
 
 <span class="atom-split" data-atom="104" data-title="Whether sorrow can be a virtuous good?" data-chapter="Whether sorrow can be a virtuous good?" data-kind="atom" data-srclang="en"></span>
 
@@ -4589,6 +5909,24 @@ God's will. But it is not necessary for the rectitude of his will, that man shou
 themselves: but only that he should not [revolt](/positions/revolution) against the order of Divine justice, as stated above
 (Q[19], A[10]).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il dolore non sia un bene virtuoso. Infatti, ciò che conduce all’inferno non può essere considerato un bene virtuoso. Tuttavia, come afferma [Agostino](/figures/augustine) (Genesi ad litteram xii, 33), “Sembra che Giacobbe temesse di essere eccessivamente tormentato dal dolore; per questo, invece di entrare tra i beati, sarebbe stato condannato all’inferno dei peccatori”. Pertanto, il dolore non è un bene virtuoso.
+
+Obiezione 2: Inoltre, il bene virtuoso è degno di lode e merito. Ma il dolore riduce la lode o il merito: infatti l’Apostolo dice (2 Corinzi 9:7): “Ognuno, secondo quanto ha deciso nel proprio cuore, non con tristezza né per necessità”. Pertanto, il dolore non è un bene virtuoso.
+
+Obiezione 3: Inoltre, come afferma Agostino (De Civ. Dei xiv, 15), “il dolore riguarda quelle cose che avvengono contro la nostra volontà”. Ma non volere quelle cose che stanno effettivamente accadendo significa avere una volontà in contrasto con il decreto di Dio, al cui disegno è sottoposta ogni azione umana. Poiché, dunque, l’armonia tra la volontà umana e quella divina è condizione della rettitudine della volontà, come già detto (Q[19], A[9]), sembra che il dolore sia incompatibile con la rettitudine della volontà e, di conseguenza, non possa essere considerato una virtù.
+
+Al contrario, tutto ciò che merita la ricompensa della vita eterna è virtuoso. Ma il dolore lo è anch’esso; come è evidente in Matteo 5:5: “Beati coloro che piangono, perché saranno consolati”. Pertanto, il dolore è un bene virtuoso.
+
+Rispondo che, nella misura in cui il dolore è un bene, può essere considerato un bene virtuoso. Poiché è stato detto in precedenza che il dolore è un bene nel senso in cui rappresenta la percezione e il rifiuto del male. Queste due cose, riguardo al dolore fisico, costituiscono una prova della bontà della natura: infatti, è proprio della natura che i sensi percepiscano ciò che è dannoso e che essa eviti tali cose. Per quanto riguarda il dolore interiore, la percezione del male talvolta deriva da un giusto giudizio della ragione; mentre il rifiuto del male è l’atto di una volontà retta e disgustata da tale male. Ora, ogni bene virtuoso deriva da queste due componenti: la rettitudine della ragione e della volontà. Pertanto, è evidente che il dolore possa essere considerato un bene virtuoso.
+
+Risposta all’Obiezione 1: Tutte le passioni dell’anima dovrebbero essere regolate secondo la legge della ragione, che è alla base del bene virtuoso; ma il dolore eccessivo, di cui parla Agostino, supera questa legge e quindi non può essere considerato un bene virtuoso.
+
+Risposta all’Obiezione 2: Proprio come il dolore per il male deriva da una volontà e da una ragione rette, che detestano il male, allo stesso modo il dolore per il bene è dovuto a una ragione e a una volontà perverse, che detestano il bene. Pertanto, tale dolore rappresenta un ostacolo alla lode e al merito del bene virtuoso; ad esempio, quando un uomo dona dell’elemosina con tristezza.
+
+Risposta all’Obiezione 3: Alcune cose accadono effettivamente, non perché Dio lo voglia, ma perché permette che accadano – come ad esempio i peccati. Pertanto, una volontà che si opponga al peccato, sia in se stessi che negli altri, non è in disaccordo con la volontà divina. I mali punitivi avvengono effettivamente, anche per volere di Dio; tuttavia, non è necessario che l’uomo li desideri personalmente affinché la rettitudine della sua volontà sia garantita: basta semplicemente che non si ribelli all’ordine della giustizia divina, come già detto sopra (Q[19], A[10]).
+
 <span class="atom-split" data-atom="105" data-title="Whether sorrow can be a useful good?" data-chapter="Whether sorrow can be a useful good?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sorrow cannot be a useful good. For it is written (Ecclus.
@@ -4635,6 +5973,24 @@ respect, sorrow is useful.
 
 Reply to Objection 3: Sorrow caused by an action hinders that action: but sorrow for the
 cessation of an action, makes one do it more earnestly.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il dolore non possa essere considerato un bene utile. Infatti è scritto nell’Ecclesiaste (30:25): “La tristezza ha ucciso molti; non vi è alcun vantaggio in essa”.
+
+Obiezione 2: Inoltre, la scelta riguarda sempre ciò che è utile per raggiungere un fine. Ma il dolore non è un oggetto di scelta; anzi, “ciò che è privo di dolore deve essere preferito rispetto a ciò che contiene dolore” (Topico iii, 2). Pertanto, il dolore non rappresenta un bene utile.
+
+Obiezione 3: Inoltre, “Tutto esiste al fine del proprio funzionamento”, come affermato nel De Coel., ii, 3. Ma “il dolore ostacola il corretto svolgimento delle funzioni vitali”, come dichiarato nell’Etica, x, 5. Pertanto, il dolore non è un bene utile.
+
+Al contrario, l’uomo saggio cerca soltanto ciò che è utile. Tuttavia, secondo il Libro delle Ecclesiaste 7:5, “il cuore del saggio è pieno di tristezza, mentre il cuore dello stolto è pieno di gioia”. Pertanto, la tristezza è utile.
+
+Rispondo che da un male presente derivano due tipi di reazioni nell’appetito umano. La prima consiste nel fatto che l’appetito si oppone a quel male; in questo caso, il dolore non è utile, poiché ciò che è presente non può cessare di esserlo. La seconda reazione riguarda il desiderio di evitare o eliminare quel male doloroso; in questo senso, il dolore è utile, purché si riferisca a qualcosa che effettivamente dovrebbe essere evitato. Esistono infatti due motivi per cui può essere giusto evitare qualcosa: in primo luogo, perché tale cosa è intrinsecamente cattiva e contraria al bene (ad esempio il peccato); in questo caso, il dolore per il peccato è utile poiché spinge l’uomo ad evitarlo. Per questo motivo l’Apostolo dice (2 Corinzi 7:9): “Mi rallegro non perché siate stati addolorati, ma perché siate stati mossi al pentimento”. In secondo luogo, una cosa deve essere evitata non perché sia in sé cattiva, ma perché rappresenta un’occasione di male, sia per via dell’affetto eccessivo che si prova per essa, sia perché conduce direttamente a comportamenti negativi (come avviene nel caso dei beni materiali). In questo senso, il dolore per i beni temporali può essere utile, come afferma l’Ecclesiaste (7:3): “Meglio andare nella casa del lutto che in quella della festa; perché in essa ci si ricorda della fine di tutte le cose”. Inoltre, il dolore per ciò che deve essere evitato è sempre utile, poiché aggiunge un ulteriore motivo per farlo. Il male stesso, infatti, è qualcosa da evitare; e tutti evitano il dolore per il semplice fatto che è doloroso, proprio come tutti cercano il bene e ne provano piacere. Pertanto, così come il piacere nel bene spinge a cercarlo con maggiore impegno, il dolore per il male induce ad evitarlo con ancora più determinazione.
+
+Risposta all’Obiezione 1: Questo passaggio va inteso come riferito al dolore eccessivo, che consuma l’anima; infatti, un tale dolore paralizza l’anima e le impedisce di evitare il male, come già affermato in precedenza (Q[37], A[2]).
+
+Risposta all’Obiezione 2: Proprio come qualsiasi oggetto di scelta diventa meno desiderabile a causa del dolore, ciò che dovrebbe essere evitato lo è ancora di più per la stessa ragione; e in questo senso, il dolore è utile.
+
+Risposta all’Obiezione 3: Il dolore causato da un’azione ostacola quell’azione stessa; ma il dolore per la cessazione di un’azione spinge le persone a compierla con ancora maggiore impegno.
 
 <span class="atom-split" data-atom="106" data-title="Whether bodily pain is the greatest evil?" data-chapter="Whether bodily pain is the greatest evil?" data-kind="atom" data-srclang="en"></span>
 

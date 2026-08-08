@@ -1759,7 +1759,7 @@ and secondly we shall treat of each part.
 
 Dobbiamo ora esaminare le componenti della forza d’animo; innanzitutto analizzeremo quali siano queste componenti, e in seguito ne tratteremo ciascuna separatamente.
 
-<span class="atom-split" data-atom="032" data-title="Whether the parts of fortitude are suitably assigned? (1/2)" data-chapter="Whether the parts of fortitude are suitably assigned?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="032" data-title="Whether the parts of fortitude are suitably assigned? (parte 1)" data-chapter="Whether the parts of fortitude are suitably assigned?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the parts of fortitude are unsuitably assigned. For Tully (De Invent.
 Rhet. ii) assigns four parts to fortitude, namely "magnificence," "confidence," "patience," and
@@ -1883,7 +1883,7 @@ Risposta all’Obiezione 4: La pazienza non solo sopporta i pericoli di morte, d
 
 Risposta all’Obiezione 5: La perseveranza, intesa come persistenza in un’azione buona fino alla fine, può essere una caratteristica di ogni virtù; tuttavia, nel senso indicato nel corpo dell’articolo, viene considerata parte integrante della forza d’animo.
 
-<span class="atom-split" data-atom="033" data-title="Whether the parts of fortitude are suitably assigned? (2/2)" data-chapter="Whether the parts of fortitude are suitably assigned?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="033" data-title="Whether the parts of fortitude are suitably assigned? (parte 2)" data-chapter="Whether the parts of fortitude are suitably assigned?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 6: Macrobius reckons the four aforesaid mentioned by Tully, namely
 "confidence, magnificence, forbearance," which he puts in the place of patience, and "firmness,"
@@ -5624,7 +5624,7 @@ Risposta all’Obiezione 2: Poiché l’uomo non può utilizzare la propria ragi
 
 Risposta all’Obiezione 3: Per evitare il peccato, il piacere deve essere evitato, non del tutto, ma in modo che non venga cercato oltre quanto sia necessario.
 
-<span class="atom-split" data-atom="093" data-title="Whether intemperance is a childish sin? (1/2)" data-chapter="Whether intemperance is a childish sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="093" data-title="Whether intemperance is a childish sin? (parte 1)" data-chapter="Whether intemperance is a childish sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that intemperance is not a childish sin. For Jerome in commenting
 on Mat. 18:3, "Unless you be converted, and become as little children," says that "a child persists
@@ -5740,7 +5740,7 @@ Obiezione 3: Inoltre, è essenziale che il peccato sia volontario. Ora, la codar
 
 Al contrario, il Filosofo afferma (Etica, III, 12) che “l’indisciplina sembra essere più vicina all’azione volontaria che la codardia”; pertanto è anche più peccaminosa.
 
-<span class="atom-split" data-atom="094" data-title="Whether intemperance is a childish sin? (2/2)" data-chapter="Whether intemperance is a childish sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="094" data-title="Whether intemperance is a childish sin? (parte 2)" data-chapter="Whether intemperance is a childish sin?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, one may be compared with another in two ways. First, with regard to the matter
 or object; secondly, on the part of the man who sins: and in both ways intemperance is a more
@@ -9557,7 +9557,7 @@ Risposta all’Obiezione 5: Come afferma un commento su questo passaggio, “imp
 
 Risposta all’Obiezione 6: Secondo un commento su questo passaggio, “lussuria” indica qualsiasi tipo di eccesso.
 
-<span class="atom-split" data-atom="155" data-title="Whether simple fornication is a mortal sin? (1/2)" data-chapter="Whether simple fornication is a mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="155" data-title="Whether simple fornication is a mortal sin? (parte 1)" data-chapter="Whether simple fornication is a mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that simple fornication is not a mortal sin. For things that come
 under the same head would seem to be on a par with one another. Now fornication comes under
@@ -9687,7 +9687,7 @@ Risposta all’Obiezione 2: Si afferma che la fornicazione sia un peccato perch�
 
 Risposta all’Obiezione 3: Abramo e Giacobbe si avvicinarono alle loro ancelle senza alcuna intenzione di commettere adulterio, come dimostreremo più avanti quando tratteremo del matrimonio (XP, Q[65], A[5], ad 2). Per quanto riguarda Giuda, non c’è bisogno di scusarlo, poiché anche lui fu la causa della vendita di Giuseppe.
 
-<span class="atom-split" data-atom="156" data-title="Whether simple fornication is a mortal sin? (2/2)" data-chapter="Whether simple fornication is a mortal sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="156" data-title="Whether simple fornication is a mortal sin? (parte 2)" data-chapter="Whether simple fornication is a mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: Simple fornication is contrary to the love of our neighbor, because it is
 opposed to the good of the child to be born, as we have shown, since it is an act of generation
@@ -13932,7 +13932,7 @@ mentioned in Genesis.
 
 Dobbiamo ora considerare le punizioni per il primo peccato; e in questo ambito ci sono due aspetti da esaminare: (1) La morte, che rappresenta la punizione comune; (2) Le altre punizioni specifiche menzionate nel Genesi.
 
-<span class="atom-split" data-atom="220" data-title="Whether death is the punishment of our first parents' sin? (1/2)" data-chapter="Whether death is the punishment of our first parents' sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="220" data-title="Whether death is the punishment of our first parents' sin? (parte 1)" data-chapter="Whether death is the punishment of our first parents' sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that death is not the punishment of our first parents' sin. For that
 which is natural to man cannot be called a punishment of sin, because sin does not perfect nature
@@ -14072,7 +14072,7 @@ Risposta all’Obiezione 4: Dal peccato derivano due tipi di difetti. Il primo �
 
 Risposta all’Obiezione 5: La morte può essere considerata in due modi. In primo luogo, come un male insito nella natura umana; in questo senso non è opera di Dio, ma un difetto che colpisce l’uomo a causa dei suoi errori. In secondo luogo, come qualcosa che presenta anche aspetti positivi, ovvero come una punizione giusta; in questo caso la morte deriva da Dio. Per questo motivo [Agostino](/figures/augustine) afferma (Retractationes, I, 21) che Dio non è l’autore della morte, se non nel senso in cui essa rappresenta una punizione.
 
-<span class="atom-split" data-atom="221" data-title="Whether death is the punishment of our first parents' sin? (2/2)" data-chapter="Whether death is the punishment of our first parents' sin?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="221" data-title="Whether death is the punishment of our first parents' sin? (parte 2)" data-chapter="Whether death is the punishment of our first parents' sin?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 6: As [Augustine](/figures/augustine) says (De Civ. Dei xiii, 5), "just as the wicked abuse not
 only evil but also good things, so do the righteous make good use not only of good but also of evil
@@ -14102,7 +14102,7 @@ Risposta all’Obiezione 7: La morte può essere considerata in due modi. In pri
 
 Risposta all’Obiezione 8: Secondo Agostino (Genesi ad litteram, De Peccato Merito et Remediis, i, 16; cfr. Genesi ad litteram, ii, 32), “sebbene i nostri primi genitori abbiano vissuto ancora molti anni dopo, iniziarono a morire nel giorno stesso in cui udirono la sentenza di morte che li condannava al declino dell’età”.
 
-<span class="atom-split" data-atom="222" data-title="Whether the particular punishments of our first parents are suitably appointed in Scripture? (1/2)" data-chapter="Whether the particular punishments of our first parents are suitably appointed in Scripture?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="222" data-title="Whether the particular punishments of our first parents are suitably appointed in Scripture? (parte 1)" data-chapter="Whether the particular punishments of our first parents are suitably appointed in Scripture?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the particular punishments of our first parents are unsuitably
 appointed in [Scripture](/concepts/revelation). For that which would have occurred even without sin should not be described
@@ -14239,7 +14239,7 @@ Risposta all’Obiezione 1: Nello stato di innocenza, il parto sarebbe stato pri
 
 Risposta all’Obiezione 2: La moltiplicazione delle concezioni femminili è stata stabilita come punizione per la donna, non a causa della procreazione stessa – poiché questa sarebbe stata ugualmente presente anche prima del peccato – ma a causa dei numerosi dolori a cui la donna è sottoposta nel portare avanti i propri figli dopo la concezione. Pertanto si afferma esplicitamente: “Moltiplicherò i tuoi dolori e le tue concezioni”.
 
-<span class="atom-split" data-atom="223" data-title="Whether the particular punishments of our first parents are suitably appointed in Scripture? (2/2)" data-chapter="Whether the particular punishments of our first parents are suitably appointed in Scripture?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="223" data-title="Whether the particular punishments of our first parents are suitably appointed in Scripture? (parte 2)" data-chapter="Whether the particular punishments of our first parents are suitably appointed in Scripture?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: These punishments affect all somewhat. For any woman who conceives
 must needs suffer sorrows and bring forth her child with pain: except the Blessed Virgin, who

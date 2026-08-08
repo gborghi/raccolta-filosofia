@@ -929,7 +929,7 @@ Successivamente va considerato l’inizio della durata delle creature, su cui si
 (2) Se la loro esistenza abbia avuto inizio come parte di una verità di fede;  
 (3) In che modo si possa affermare che Dio abbia creato il cielo e la terra all’inizio dei tempi.
 
-<span class="atom-split" data-atom="016" data-title="Whether the universe of creatures always existed? (1/2)" data-chapter="Whether the universe of creatures always existed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="016" data-title="Whether the universe of creatures always existed? (parte 1)" data-chapter="Whether the universe of creatures always existed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the universe of creatures, called the world, had no beginning,
 but existed from [eternity](/positions/eternity). For everything which begins to exist, is a possible being before it exists:
@@ -1074,7 +1074,7 @@ Risposta all’Obiezione 3: Aristotele (Fisica i, testo 82) dimostra che la mate
 
 Risposta all’Obiezione 4: Il concetto di vuoto non significa semplicemente “un luogo in cui non c’è nulla”, ma implica anche uno spazio capace di contenere un corpo e in cui, tuttavia, non vi è alcun corpo, come emerge da Aristotele (Fisica IV, testo 60). Noi riteniamo invece che, prima della creazione del mondo, non esistesse alcun luogo o spazio.
 
-<span class="atom-split" data-atom="017" data-title="Whether the universe of creatures always existed? (2/2)" data-chapter="Whether the universe of creatures always existed?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="017" data-title="Whether the universe of creatures always existed? (parte 2)" data-chapter="Whether the universe of creatures always existed?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 5: The first mover was always in the same state: but the first movable thing
 was not always so, because it began to be whereas hitherto it was not. This, however, was not
@@ -1145,7 +1145,7 @@ Risposta all’Obiezione 9: Proprio come l’effetto deriva dalla causa che agis
 
 Risposta all’Obiezione 10: Data l’azione, l’effetto ne consegue secondo i requisiti della forma, che costituisce il principio dell’azione stessa. Tuttavia, negli agenti che agiscono per volontà, ciò che viene concepito e predestinato deve essere considerato come la forma, ovvero il principio dell’azione. Pertanto, dall’azione eterna di Dio non ne è derivato un effetto eterno; bensì un effetto tale che Dio stesso ha voluto, cioè un effetto che acquista esistenza dopo essere stato inesistente.
 
-<span class="atom-split" data-atom="018" data-title="Whether it is an article of faith that the world began? (1/2)" data-chapter="Whether it is an article of faith that the world began?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="018" data-title="Whether it is an article of faith that the world began? (parte 1)" data-chapter="Whether it is an article of faith that the world began?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not an article of faith but a demonstrable conclusion that
 the world began. For everything that is made has a beginning of its duration. But it can be proved
@@ -1281,7 +1281,7 @@ Risposta all’Obiezione 5: Anche ammettendo che il mondo esista da sempre, non 
 
 Risposta all’Obiezione 6: Un passaggio viene sempre inteso come sequenza di elementi collegati tra loro in modo logico. Qualunque giorno del passato scegliamo, dal momento in cui esso si verifica fino al presente esiste un numero finito di giorni che possono essere attraversati. L’obiezione si basa sull’idea che, dati due estremi, esista un numero infinito di termini intermedi.
 
-<span class="atom-split" data-atom="019" data-title="Whether it is an article of faith that the world began? (2/2)" data-chapter="Whether it is an article of faith that the world began?" data-kind="atom" data-srclang="en"></span>
+<span class="atom-split" data-atom="019" data-title="Whether it is an article of faith that the world began? (parte 2)" data-chapter="Whether it is an article of faith that the world began?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 7: In efficient causes it is impossible to proceed to [infinity](/concepts/infinity) "per se"---thus,
 there cannot be an infinite number of causes that are "per se" required for a certain effect; for
