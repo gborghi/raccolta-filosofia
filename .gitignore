@@ -11,3 +11,14 @@ __pycache__/
 .pytest_cache/
 data/heads/
 data/digests/
+
+# Traduzioni HY/DeepSeek: credenziali locali, log operativi e cache dei blocchi.
+# .gas_env contiene percorsi personali e lo script id: questo repo e' pubblico.
+scripts/translate/.gas_env
+scripts/translate/run_logs/
+data/hy_translate_cache.jsonl
+data/ortega_translate_cache.jsonl
+# Ortega DeepSeek: worklist e batch di sessione, rigenerabili.
+data/ortega_pending*.json
+data/ortega_batches*/
+data/ortega_corrupted.json
