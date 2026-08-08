@@ -251,36 +251,62 @@ function build(reader: HTMLElement) {
   reader.replaceChildren(bar, shell, relatedEl)
 
   // ---- table of contents (grouped by chapter) ----
+  // Two-pass: first group atoms by chapter, then render. A chapter with a single
+  // atom whose leaf is redundant (same as chapter) gets a flat clickable entry;
+  // multi-atom chapters get sub-items with part labels.
   const tocList = el("ul", "ar-toc-list")
-  let curChap: string | null = null
-  let curUl: HTMLUListElement | null = null
+  const groups: { chap: string; atoms: Atom[] }[] = []
   for (const a of atoms) {
-    const label = a.kind === "intro" ? a.title || "Inizio" : a.title
     if (a.kind === "intro" || !a.chapter) {
+      groups.push({ chap: "", atoms: [a] })
+    } else {
+      const last = groups.length > 0 ? groups[groups.length - 1] : null
+      if (last && last.chap === a.chapter && last.atoms.length > 0) {
+        last.atoms.push(a)
+      } else {
+        groups.push({ chap: a.chapter, atoms: [a] })
+      }
+    }
+  }
+  for (const g of groups) {
+    if (!g.chap) {
+      // intro or chapter-less top-level atom
+      const a = g.atoms[0]
+      const label = a.kind === "intro" ? a.title || "Inizio" : a.title
       const li = el("li", "ar-toc-top")
       const link = el("a", "ar-toc-link", label)
       link.href = `#${a.id}`
       link.dataset.id = a.id
       li.append(link)
       tocList.append(li)
-      curChap = null
-      curUl = null
       continue
     }
-    if (a.chapter !== curChap) {
-      curChap = a.chapter
+    const singleLeaf =
+      g.atoms.length === 1 && leafLabel(g.atoms[0]) === g.chap
+    if (g.atoms.length === 1 || singleLeaf) {
+      // Single atom or leaf repeats chapter name: flat clickable chapter entry
       const li = el("li", "ar-toc-chap")
-      li.append(el("span", "ar-toc-chaplabel", a.chapter))
-      curUl = el("ul")
-      li.append(curUl)
+      const link = el("a", "ar-toc-link", g.chap)
+      link.href = `#${g.atoms[0].id}`
+      link.dataset.id = g.atoms[0].id
+      li.append(link)
+      tocList.append(li)
+    } else {
+      // Multiple parts: chapter header + sub-items
+      const li = el("li", "ar-toc-chap")
+      li.append(el("span", "ar-toc-chaplabel", g.chap))
+      const ul = el("ul")
+      for (const a of g.atoms) {
+        const subLi = el("li")
+        const link = el("a", "ar-toc-link", leafLabel(a) || a.id)
+        link.href = `#${a.id}`
+        link.dataset.id = a.id
+        subLi.append(link)
+        ul.append(subLi)
+      }
+      li.append(ul)
       tocList.append(li)
     }
-    const li = el("li")
-    const link = el("a", "ar-toc-link", leafLabel(a) || a.id)
-    link.href = `#${a.id}`
-    link.dataset.id = a.id
-    li.append(link)
-    curUl?.append(li)
   }
   toc.append(tocList)
 
@@ -339,14 +365,14 @@ function build(reader: HTMLElement) {
     if (!has && pageLangs.length > 1) {
       pane.append(el("p", "ar-notr", "— traduzione non disponibile per questa sezione —"))
     }
-    // crumb + counter: chapter in bold, then the leaf only when it adds info
+    // crumb + counter: chapter in bold, then the leaf only when it adds info.
+    // When leaf equals chapter (single-part, no extra label), skip the leaf.
     const pos = idx(a.id) + 1
     const leaf = a.kind === "intro" ? a.title || "Inizio" : leafLabel(a)
-    const showLeaf = !a.chapter || leaf !== a.chapter
+    const leafSame = !a.chapter || leaf === a.chapter || !leaf
     crumb.innerHTML =
       (a.chapter ? `<b>${a.chapter}</b>` : "") +
-      (a.chapter && showLeaf ? " &middot; " : "") +
-      (showLeaf ? leaf : "") +
+      (!leafSame ? " &middot; " + leaf : "") +
       ` <span class="ar-count">${pos} / ${order.length}</span>`
     // toc active
     toc.querySelectorAll(".ar-toc-link").forEach((l) =>
