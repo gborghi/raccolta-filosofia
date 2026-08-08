@@ -1,5 +1,5 @@
 ---
-title: "Para una topografía de la soberbia española (Breve análisis de una pasión)"
+title: "Para una topografía de la soberbia española Breve análisis de una pasión"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/para_una_topografía_de_la_soberbia_española_breve_análisis_de_una_pasión" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Para una topografía de la soberbia española (Breve análisis de una pasión)" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Para una topografía de la soberbia española Breve análisis de una pasión" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Desde hace años, la pleamar del estío me empuja hacia la tierra vasca. Y siempre, al renovar el contacto con esta fuerte raza, surge en mí el mismo proyecto: escribir algo sobre la soberbia española. Por la ruta que de Castilla conduce a Vasconia se encuentra en Castil de Peones, poco antes de Briviesca, la primera casa vasca. Es un cubo de piedra, sin más adorno que un alero y un escudo. Parece el alero premeditado exclusivamente para guarecer el escudo. ¿Qué razón hay para que una y otra vez, al sesgar por delante de esta arquitectura, reaparezca en mi meditación el tema de la soberbia española?
 

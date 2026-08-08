@@ -1,5 +1,5 @@
 ---
-title: "MÉMOIRE À S. E. MONSEIGNEUR LE GOUVERNEUR DE SAVOIE"
+title: "MÉMOIRE À S E MONSEIGNEUR LE GOUVERNEUR DE SAVOIE"
 philosopher: "Rousseau"
 lang: "fr"
 edizione: "Arvensa Editions"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/mémoire_à_s_e_monseigneur_le_gouverneur_de_savoie" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="MÉMOIRE À S. E. MONSEIGNEUR LE GOUVERNEUR DE SAVOIE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="MÉMOIRE À S E MONSEIGNEUR LE GOUVERNEUR DE SAVOIE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 J'ai l'honneur d'exposer très respectueusement à son excellence le triste détail de la situation où je me trouve, la suppliant de daigner écouter la générosité de ses pieux sentiments pour y pourvoir de la manière qu'elle jugera convenable.
 

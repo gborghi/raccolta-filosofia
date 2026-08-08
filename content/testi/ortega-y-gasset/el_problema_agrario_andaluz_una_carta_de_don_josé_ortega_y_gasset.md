@@ -1,5 +1,5 @@
 ---
-title: "El problema agrario andaluz.— Una carta de don José Ortega y Gasset"
+title: "El problema agrario andaluz Una carta de don José Ortega y Gasset"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_problema_agrario_andaluz_una_carta_de_don_josé_ortega_y_gasset" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El problema agrario andaluz.— Una carta de don José Ortega y Gasset" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="El problema agrario andaluz Una carta de don José Ortega y Gasset" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Señor director de El Sol.
 

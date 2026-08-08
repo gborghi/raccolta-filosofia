@@ -1,5 +1,5 @@
 ---
-title: "El verano, ¿será tranquilo?.— Las huelgas y la política"
+title: "El verano será tranquilo Las huelgas y la política"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_verano_será_tranquilo_las_huelgas_y_la_política" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El verano, ¿será tranquilo?.— Las huelgas y la política" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="El verano será tranquilo Las huelgas y la política" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Todas las noticias de estos días indican que se aproxima un nuevo período de agitación. Los diarios ministeriales podrán negar importancia al último incidente de Barcelona y suponer que la anunciada huelga ferroviaria, si se produce, está de antemano condenada al fracaso. Pero conviene mirar el riesgo cara a cara, y no es el mejor sistema de combatir las enfermedades el de suponer que no existen. Este procedimiento de cura por sugestión, que tantas veces han empleado nuestros gobernantes y en el que puede diputarse como doctor excelso el señor Dato, tiene también sus quiebras. Suponer ahora que no hay peligro es, por lo menos, muy expuesto a que los acontecimientos nos cojan desprevenidos. Si no al Gobierno, a la opinión, que necesita también orientarse.
 

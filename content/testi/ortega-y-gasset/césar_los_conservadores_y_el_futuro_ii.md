@@ -1,5 +1,5 @@
 ---
-title: "César, los conservadores y el futuro.— II"
+title: "César los conservadores y el futuro II"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/césar_los_conservadores_y_el_futuro_ii" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="César, los conservadores y el futuro.— II" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="César los conservadores y el futuro II" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El perfil de la política de César aparece claro cuando lo recortamos sobre el fondo de la política conservadora, cuya antítesis fue. Y ya he indicado que esa política conservadora se resumía en dos cláusulas: primera, renuncia a toda nueva conquista; segunda, instauración de un príncipe encargado de proteger el funcionamiento de las instituciones republicanas.
 

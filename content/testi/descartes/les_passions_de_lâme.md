@@ -1,9 +1,8 @@
 ---
-title: "LES PASSIONS DE L’ÂME"
+title: "LES PASSIONS DE LÂME"
 philosopher: "Descartes"
 lang: "fr"
 edizione: "Arvensa Editions"
-anno_edizione: 2015
 pd_year: 1900
 kind: "work"
 tags:
@@ -14,12 +13,12 @@ tags:
 > [!abstract]
 > Descartes's last treatise, aiming to explain the passions of the soul 'as a physicist' and locate their seat in the pineal gland, where soul and body communicate. It proposes an ethics of générosité as the firm, virtuous use of the will to govern the passions.
 
-<p class="work-source">Testo originale francese · Arvensa Editions, 2015 · pubblico dominio</p>
+<p class="work-source">Testo originale francese · Arvensa Editions · pubblico dominio</p>
 
 <div class="atom-reader" data-work="testi/descartes/les_passions_de_lâme" data-philosopher="Descartes"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="LES PASSIONS DE L’ÂME" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="LES PASSIONS DE LÂME" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Réponse à la lettre I
 

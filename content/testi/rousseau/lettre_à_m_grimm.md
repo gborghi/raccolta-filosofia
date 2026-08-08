@@ -1,5 +1,5 @@
 ---
-title: "LETTRE À M. GRIMM"
+title: "LETTRE À M GRIMM"
 philosopher: "Rousseau"
 lang: "fr"
 edizione: "Arvensa Editions"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/lettre_à_m_grimm" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="LETTRE À M. GRIMM" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="LETTRE À M GRIMM" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Je vous renvoie, monsieur, le Mercure d'octobre que vous avez eu la bonté de me prêter. J'y ai lu avec beaucoup de plaisir la réfutation que M. Gautier a pris la peine de faire de mon Discours : mais je ne crois pas être, comme vous le prétendez, dans la nécessité d'y répondre ; et voici mes objections :
 

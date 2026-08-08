@@ -1,9 +1,8 @@
 ---
-title: "TRAITÉ DE L’HOMME"
+title: "TRAITÉ DE LHOMME"
 philosopher: "Descartes"
 lang: "fr"
 edizione: "Arvensa Editions"
-anno_edizione: 2015
 pd_year: 1900
 kind: "work"
 tags:
@@ -14,12 +13,12 @@ tags:
 > [!abstract]
 > A description of the human body as a pure machine built by God — an automaton whose movements (digestion, breathing, reflexes) are explained without invoking the soul — completed by its union with a distinct thinking soul. The text that founds the beast-machine doctrine and anticipates the pineal gland as the seat of the soul-body union.
 
-<p class="work-source">Testo originale francese · Arvensa Editions, 2015 · pubblico dominio</p>
+<p class="work-source">Testo originale francese · Arvensa Editions · pubblico dominio</p>
 
 <div class="atom-reader" data-work="testi/descartes/traité_de_lhomme" data-philosopher="Descartes"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="TRAITÉ DE L’HOMME" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="TRAITÉ DE LHOMME" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Première partie
 

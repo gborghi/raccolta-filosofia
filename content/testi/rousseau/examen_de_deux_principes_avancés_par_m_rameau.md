@@ -1,5 +1,5 @@
 ---
-title: "EXAMEN DE DEUX PRINCIPES AVANCÉS PAR M. RAMEAU"
+title: "EXAMEN DE DEUX PRINCIPES AVANCÉS PAR M RAMEAU"
 philosopher: "Rousseau"
 lang: "fr"
 edizione: "Arvensa Editions"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/examen_de_deux_principes_avancés_par_m_rameau" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="EXAMEN DE DEUX PRINCIPES AVANCÉS PAR M. RAMEAU" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="EXAMEN DE DEUX PRINCIPES AVANCÉS PAR M RAMEAU" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 C'est toujours avec plaisir que je vois paraître de nouveaux écrits de M. Rameau. De quelque manière qu'ils soient accueillis du public, ils sont précieux aux amateurs de l'art, et je me fais honneur d'être de ceux qui tâchent d'en profiter. Quand cet illustre artiste relève mes fautes, il m'instruit, il m'honore, je lui dois des remerciements ; et comme, en renonçant aux querelles qui peuvent troubler ma tranquillité, je ne m'interdis point celles de pur amusement, je discuterai par occasion quelques points qu'il décide, bien sûr d'avoir toujours fait une chose utile, s'il en peut résulter de sa part de nouveaux éclaircissements. C'est même entrer en cela dans les vues de ce grand musicien, qui dit qu'on ne peut contester les propositions qu'il avance, que pour lui fournir les moyens de les mettre dans un plus grand jour : d'où je conclus qu'il est bon qu'on les conteste.
 

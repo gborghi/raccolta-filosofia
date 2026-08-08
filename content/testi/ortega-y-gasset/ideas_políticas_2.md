@@ -1,5 +1,5 @@
 ---
-title: "Ideas políticas (2)"
+title: "Ideas políticas 2"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/ideas_políticas_2" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Ideas políticas (2)" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Ideas políticas 2" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 

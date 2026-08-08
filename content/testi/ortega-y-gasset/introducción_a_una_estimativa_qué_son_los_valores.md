@@ -1,5 +1,5 @@
 ---
-title: "Introducción a una estimativa—. ¿Qué son los valores?"
+title: "Introducción a una estimativa Qué son los valores"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/introducción_a_una_estimativa_qué_son_los_valores" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Introducción a una estimativa—. ¿Qué son los valores?" data-chapter="(apertura)" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Introducción a una estimativa Qué son los valores" data-chapter="(apertura)" data-kind="intro" data-srclang="es"></span>
 
 Desde hace algún tiempo, en los estudios filosóficos, en las obras literarias y aun en la conversación de las gentes pulidas aparecen con mucha insistencia los vocablos «valores», «valoración», «valorar». Las gentes de espíritu agrio que no saben otorgarse a sí mismas el lujo de comprender las cosas dirán que se trata de una moda. Sin embargo, la preocupación teórica y práctica en torno a los valores es uno de los hechos más hondamente reales del tiempo nuevo. Quien ignore el sentido e importancia de esa preocupación se halla a cien leguas de sospechar lo que hoy está aconteciendo en los profundos senos de la realidad contemporánea, y más lejos aún de entrever el mañana que hacia nosotros rápido avanza.
 

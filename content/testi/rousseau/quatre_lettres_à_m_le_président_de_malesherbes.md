@@ -1,5 +1,5 @@
 ---
-title: "QUATRE LETTRES À M. LE PRÉSIDENT DE MALESHERBES"
+title: "QUATRE LETTRES À M LE PRÉSIDENT DE MALESHERBES"
 philosopher: "Rousseau"
 lang: "fr"
 edizione: "Arvensa Editions"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/quatre_lettres_à_m_le_président_de_malesherbes" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="QUATRE LETTRES À M. LE PRÉSIDENT DE MALESHERBES" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="QUATRE LETTRES À M LE PRÉSIDENT DE MALESHERBES" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Première Lettre
 

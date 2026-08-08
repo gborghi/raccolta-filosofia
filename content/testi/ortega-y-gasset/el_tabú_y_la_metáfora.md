@@ -1,5 +1,5 @@
 ---
-title: "El «tabú» y la metáfora"
+title: "El tabú y la metáfora"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_tabú_y_la_metáfora" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El «tabú» y la metáfora" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="El tabú y la metáfora" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La metáfora es probablemente la potencia más fértil que el hombre posee. Su eficiencia llega a tocar los confines de la taumaturgia y parece un trebejo de creación que Dios se dejó olvidado dentro de una de sus criaturas al tiempo de formarla, como el cirujano distraído se deja un instrumento en el vientre del operado.
 

@@ -42,12 +42,12 @@ title: "Statuto del reale"
 **Descartes**
 - [DE LA FORMATION DU FŒTUS](/testi/descartes/de_la_formation_du_fœtus)
 - [DISCOURS DE LA MÉTHODE](/testi/descartes/discours_de_la_méthode)
-- [LES PASSIONS DE L’ÂME](/testi/descartes/les_passions_de_lâme)
+- [LES PASSIONS DE LÂME](/testi/descartes/les_passions_de_lâme)
 - [LES PRINCIPES DE LA PHILOSOPHIE](/testi/descartes/les_principes_de_la_philosophie)
 - [LETTRES](/testi/descartes/lettres)
 - [MÉDITATIONS MÉTAPHYSIQUES](/testi/descartes/méditations_métaphysiques)
 - [OBJECTIONS AUX MÉDITATIONS](/testi/descartes/objections_aux_méditations)
-- [TRAITÉ DE L’HOMME](/testi/descartes/traité_de_lhomme)
+- [TRAITÉ DE LHOMME](/testi/descartes/traité_de_lhomme)
 
 **Hegel**
 - [Elements of the Philosophy of Right](/testi/hegel/elements_of_the_philosophy_of_right)
@@ -95,37 +95,37 @@ title: "Statuto del reale"
 
 **Ortega y Gasset**
 - [4.º Finitismo](/testi/ortega-y-gasset/4º_finitismo)
-- [Abenjaldún nos revela el secreto (pensamientos sobre África Menor)](/testi/ortega-y-gasset/abenjaldún_nos_revela_el_secreto_pensamientos_sobre_áfrica_menor)
+- [Abenjaldún nos revela el secreto pensamientos sobre África Menor](/testi/ortega-y-gasset/abenjaldún_nos_revela_el_secreto_pensamientos_sobre_áfrica_menor)
 - [Amor en Stendhal](/testi/ortega-y-gasset/amor_en_stendhal)
 - [Aurora de la razón histórica](/testi/ortega-y-gasset/aurora_de_la_razón_histórica)
-- [Capítulo primero.— Creer y pensar](/testi/ortega-y-gasset/capítulo_primero_creer_y_pensar)
-- [Conciencia, objeto y las tres distancias de éste (fragmentos de una lección)](/testi/ortega-y-gasset/conciencia_objeto_y_las_tres_distancias_de_éste_fragmentos_de_una_lección)
+- [Capítulo primero Creer y pensar](/testi/ortega-y-gasset/capítulo_primero_creer_y_pensar)
+- [Conciencia objeto y las tres distancias de éste fragmentos de una lección](/testi/ortega-y-gasset/conciencia_objeto_y_las_tres_distancias_de_éste_fragmentos_de_una_lección)
 - [Descartes y el método transcendental](/testi/ortega-y-gasset/descartes_y_el_método_transcendental)
 - [El hombre no es el individuo biológico](/testi/ortega-y-gasset/el_hombre_no_es_el_individuo_biológico)
 - [Estética en el tranvía](/testi/ortega-y-gasset/estética_en_el_tranvía)
-- [Filosofía pura. Anejo a mi folleto Kant](/testi/ortega-y-gasset/filosofía_pura_anejo_a_mi_folleto_kant)
+- [Filosofía pura Anejo a mi folleto Kant](/testi/ortega-y-gasset/filosofía_pura_anejo_a_mi_folleto_kant)
 - [Función y substancia](/testi/ortega-y-gasset/función_y_substancia)
 - [Hegel y América](/testi/ortega-y-gasset/hegel_y_américa)
 - [¿Instituciones?](/testi/ortega-y-gasset/instituciones)
 - [Intermedio de las siluetas](/testi/ortega-y-gasset/intermedio_de_las_siluetas)
 - [La paradoja del salvajismo](/testi/ortega-y-gasset/la_paradoja_del_salvajismo)
 - [La resurrección de la mónada](/testi/ortega-y-gasset/la_resurrección_de_la_mónada)
-- [Lo que más falta hace hoy (Versión taquigráfica de una emisión por Radio Madrid a Buenos](/testi/ortega-y-gasset/lo_que_más_falta_hace_hoy_versión_taquigráfica_de_una_emisión_por_radio_madrid_a_buenos)
+- [Lo que más falta hace hoy Versión taquigráfica de una emisión por Radio Madrid a Buenos](/testi/ortega-y-gasset/lo_que_más_falta_hace_hoy_versión_taquigráfica_de_una_emisión_por_radio_madrid_a_buenos)
 - [Los «nuevos» Estados Unidos](/testi/ortega-y-gasset/los_nuevos_estados_unidos)
 - [Los votos van al presidio](/testi/ortega-y-gasset/los_votos_van_al_presidio)
-- [Los «ámbitos culturales»](/testi/ortega-y-gasset/los_ámbitos_culturales)
+- [Los ámbitos culturales](/testi/ortega-y-gasset/los_ámbitos_culturales)
 - [MEDITACIONES DEL QUIJOTE](/testi/ortega-y-gasset/meditaciones_del_quijote)
 - [Maximus in minimis](/testi/ortega-y-gasset/maximus_in_minimis)
 - [Meditación de la técnica](/testi/ortega-y-gasset/meditación_de_la_técnica)
 - [Muerte y resurrección](/testi/ortega-y-gasset/muerte_y_resurrección)
 - [No ser hombre de partido](/testi/ortega-y-gasset/no_ser_hombre_de_partido)
-- [Por qué he escrito «El hombre a la defensiva»](/testi/ortega-y-gasset/por_qué_he_escrito_el_hombre_a_la_defensiva)
+- [Por qué he escrito El hombre a la defensiva](/testi/ortega-y-gasset/por_qué_he_escrito_el_hombre_a_la_defensiva)
 - [[Prospecto de unas lecciones sobre «El hombre y la gente»]](/testi/ortega-y-gasset/prospecto_de_unas_lecciones_sobre_el_hombre_y_la_gente)
-- [¿Quién manda en el mundo?— IV](/testi/ortega-y-gasset/quién_manda_en_el_mundo_iv)
+- [Quién manda en el mundo IV](/testi/ortega-y-gasset/quién_manda_en_el_mundo_iv)
 - [Sobre ensimismarse y alterarse](/testi/ortega-y-gasset/sobre_ensimismarse_y_alterarse)
 - [Sobre las carreras](/testi/ortega-y-gasset/sobre_las_carreras)
-- [b) Ontología](/testi/ortega-y-gasset/b_ontología)
-- [c) Synecología](/testi/ortega-y-gasset/c_synecología)
+- [b Ontología](/testi/ortega-y-gasset/b_ontología)
+- [c Synecología](/testi/ortega-y-gasset/c_synecología)
 
 **Plato**
 - [CRATYLUS](/testi/plato/cratylus)
@@ -139,7 +139,7 @@ title: "Statuto del reale"
 - [TIMAEUS](/testi/plato/timaeus)
 
 **Rousseau**
-- [DE L’IMITATION THÉÂTRALE](/testi/rousseau/de_limitation_théâtrale)
+- [DE LIMITATION THÉÂTRALE](/testi/rousseau/de_limitation_théâtrale)
 
 **Schopenhauer**
 - [Die Welt als Wille und Vorstellung. Erster Band](/testi/schopenhauer/die_welt_als_wille_und_vorstellung_erster_band)

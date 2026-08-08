@@ -30,7 +30,7 @@ Posizione sull'asse [Statuto del reale](/axes/reality_status).
 **Ortega y Gasset**
 - [El hombre no es el individuo biológico](/testi/ortega-y-gasset/el_hombre_no_es_el_individuo_biológico)
 - [Estética en el tranvía](/testi/ortega-y-gasset/estética_en_el_tranvía)
-- [Filosofía pura. Anejo a mi folleto Kant](/testi/ortega-y-gasset/filosofía_pura_anejo_a_mi_folleto_kant)
+- [Filosofía pura Anejo a mi folleto Kant](/testi/ortega-y-gasset/filosofía_pura_anejo_a_mi_folleto_kant)
 
 **Plato**
 - [CRATYLUS](/testi/plato/cratylus)
@@ -43,4 +43,4 @@ Posizione sull'asse [Statuto del reale](/axes/reality_status).
 - [TIMAEUS](/testi/plato/timaeus)
 
 **Rousseau**
-- [DE L’IMITATION THÉÂTRALE](/testi/rousseau/de_limitation_théâtrale)
+- [DE LIMITATION THÉÂTRALE](/testi/rousseau/de_limitation_théâtrale)

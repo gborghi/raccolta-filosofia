@@ -1,5 +1,5 @@
 ---
-title: "Problemas culturales.— Sobre la enseñanza clásica"
+title: "Problemas culturales Sobre la enseñanza clásica"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/problemas_culturales_sobre_la_enseñanza_clásica" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Problemas culturales.— Sobre la enseñanza clásica" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Problemas culturales Sobre la enseñanza clásica" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 V
 

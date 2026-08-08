@@ -34,4 +34,4 @@ Posizione sull'asse [Statuto del reale](/axes/reality_status).
 - [ON THE NATURE OF THINGS: VERSE TRANSLATION](/testi/lucretius/on_the_nature_of_things_verse_translation)
 
 **Ortega y Gasset**
-- [Los «ámbitos culturales»](/testi/ortega-y-gasset/los_ámbitos_culturales)
+- [Los ámbitos culturales](/testi/ortega-y-gasset/los_ámbitos_culturales)

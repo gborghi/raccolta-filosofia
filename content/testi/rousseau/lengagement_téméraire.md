@@ -1,5 +1,5 @@
 ---
-title: "L’ENGAGEMENT TÉMÉRAIRE"
+title: "LENGAGEMENT TÉMÉRAIRE"
 philosopher: "Rousseau"
 lang: "fr"
 edizione: "Arvensa Editions"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/lengagement_téméraire" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="L’ENGAGEMENT TÉMÉRAIRE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="LENGAGEMENT TÉMÉRAIRE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Rien n’est plus plat que cette pièce : Cependant j’ai gardé quelque attachement pour elle, à cause de la gaieté du troisième acte et de la facilité avec laquelle elle fut faite en trois jours[62], grâce à la tranquillité et au contentement d’esprit où je vivais alors, sans connaître l’art d’écrire, et sans aucune prétention. Si je fais moi-même l’édition générale, j’espère avoir assez de raison pour en retrancher ce barbouillage, sinon je laisse à ceux que j’aurai chargés de cette entreprise le soin de juger de ce qu’il convient, soit à ma mémoire, soit au goût présent du public.
 

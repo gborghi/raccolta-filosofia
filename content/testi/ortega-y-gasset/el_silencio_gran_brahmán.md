@@ -1,5 +1,5 @@
 ---
-title: "El silencio, gran brahmán"
+title: "El silencio gran brahmán"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_silencio_gran_brahmán" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El silencio, gran brahmán" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="El silencio gran brahmán" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 

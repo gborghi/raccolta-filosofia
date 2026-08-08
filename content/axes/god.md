@@ -141,7 +141,7 @@ title: "Dio"
 - [LETTRES MORALES](/testi/rousseau/lettres_morales)
 - [LETTRES ÉCRITES DE LA MONTAGNE](/testi/rousseau/lettres_écrites_de_la_montagne)
 - [LETTRE À MONSEIGNEUR DE BEAUMONT](/testi/rousseau/lettre_à_monseigneur_de_beaumont)
-- [ÉMILE ou de L’ÉDUCATION](/testi/rousseau/émile_ou_de_léducation)
+- [ÉMILE ou de LÉDUCATION](/testi/rousseau/émile_ou_de_léducation)
 
 **Seneca**
 - [NATURAL QUESTIONS](/testi/seneca/natural_questions)

@@ -1,5 +1,5 @@
 ---
-title: "LETTRE À M. BURNEY, SUR LA MUSIQUE"
+title: "LETTRE À M BURNEY SUR LA MUSIQUE"
 philosopher: "Rousseau"
 lang: "fr"
 edizione: "Arvensa Editions"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/lettre_à_m_burney_sur_la_musique" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="LETTRE À M. BURNEY, SUR LA MUSIQUE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="LETTRE À M BURNEY SUR LA MUSIQUE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Vous m'avez fait successivement, monsieur, plusieurs cadeaux précieux de vos écrits, chacun desquels méritait bien un remerciement exprès. La presque absolue impossibilité d'écrire m'a jusqu'ici empêché de remplir ce devoir ; mais le premier volume de votre histoire générale de la musique, en ranimant en moi un reste de zèle pour un art auquel le vôtre vous a fait employer tant de travaux, de temps, de voyages et de dépenses, m'excite à vous en marquer ma reconnaissance, en m'entretenant quelque temps avec vous du sujet favori de vos recherches, qui doit immortaliser votre nom chez les vrais amateurs de ce bel art.
 

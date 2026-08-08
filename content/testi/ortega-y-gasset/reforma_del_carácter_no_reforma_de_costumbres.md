@@ -1,5 +1,5 @@
 ---
-title: "Reforma del carácter, no reforma de costumbres"
+title: "Reforma del carácter no reforma de costumbres"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/reforma_del_carácter_no_reforma_de_costumbres" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Reforma del carácter, no reforma de costumbres" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Reforma del carácter no reforma de costumbres" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Comiénzase a hablar en España, estos últimos años, de las buenas costumbres. El tema es bastante nuevo, mas ha prendido con tanto acierto, que pocos serán los españoles a redropelo quienes no consideren las costumbres españolas como las peores imaginables, y cuando media España pregunta: «¿Cuáles son las buenas costumbres?», responde la otra media: «Las costumbres de Alemania, las costumbres de Inglaterra». Y si, por acaso, sobreviene un ministro de la Gobernación suficientemente ingenuo o suficientemente irónico para recoger solícito estas hablillas, dice que cuenta con la opinión pública —que es con lo que cuentan casi todos los españoles—, y se decide a reformar las costumbres. La gente aplaude. ¿No había de aplaudir, si es esto el viejo y eterno «Retablo de las Maravillas»? Quien no aplauda no es virtuoso. Y se aplaude y se traen a comento y en redundancia todos los lugares comunes de cierta cosa que llaman Sociología y de otra que debían llamar estadística moral. Y España entera, como aquel valentón de espátula y gregüesco, cae a la postre en el éxtasis de buenas costumbres. Y yo, no puedo menos de recordar la exclamación de Bonaparte, cuando leía los trasportes de retórico deliquio en que Madame de Genlis loaba la virtud: «Esta madama habla de la virtud como de un descubrimiento».
 

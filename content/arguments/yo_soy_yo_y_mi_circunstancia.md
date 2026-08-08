@@ -20,7 +20,7 @@ Argomento di **Ortega**. Asse [Fine della vita](/axes/end_of_life) · posizione 
 ## Opere (5)
 
 **Ortega y Gasset**
-- [Abenjaldún nos revela el secreto (pensamientos sobre África Menor)](/testi/ortega-y-gasset/abenjaldún_nos_revela_el_secreto_pensamientos_sobre_áfrica_menor)
+- [Abenjaldún nos revela el secreto pensamientos sobre África Menor](/testi/ortega-y-gasset/abenjaldún_nos_revela_el_secreto_pensamientos_sobre_áfrica_menor)
 - [[Discurso en el Parlamento chileno]](/testi/ortega-y-gasset/discurso_en_el_parlamento_chileno)
 - [MEDITACIONES DEL QUIJOTE](/testi/ortega-y-gasset/meditaciones_del_quijote)
 - [Muerte y resurrección](/testi/ortega-y-gasset/muerte_y_resurrección)

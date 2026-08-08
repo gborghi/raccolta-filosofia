@@ -1,5 +1,5 @@
 ---
-title: "¿Quién manda en el mundo?— IV"
+title: "Quién manda en el mundo IV"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/quién_manda_en_el_mundo_iv" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="¿Quién manda en el mundo?— IV" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Quién manda en el mundo IV" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El horizonte visible no nos presenta nadie capaz de sustituir a Europa en el mando del mundo. Hay, pues, que decidirse por una de estas dos cosas: o porque nadie mande o porque vuelva a mandar con plenitud Europa. Es posible que muchos, alegremente, se resolviesen por lo primero; en realidad, la vida de estos años en el planeta está templada —más bien destemplada— por esa resolución. Son unos años de frivolidad general, lo mismo para las naciones que para la existencia individual. Hay frivolidad dondequiera que alguien —individuo o pueblo— no viva encajado en su propio e intrasferible destino, es decir, en su quehacer. Todos —unos más, otros menos— nos damos cuenta de que estamos fuera de nuestro quicio. Siempre que nuestra vida se sale de su hueco cardinal, siempre que extravaga, envía automáticamente un aviso a nuestra conciencia. Intentamos en vano acallar esa amonestación que nuestra intimidad nos hace cuando defraudamos a nuestra sinceridad. Porque la sinceridad primaria no es una virtud del hablar y del decir, sino de algo previo a la expresión y aun al pensamiento —la sinceridad de ser lo que verdaderamente se es. Hoy pueblos enteros viven en extremada insinceridad. Por ejemplo, Italia. En el fondo de su conciencia colectiva saben que la actitud histórica adoptada por ellos no es posible ni necesaria o impuesta inequívocamente por las circunstancias. Al contrario, tienen la impresión de que se han lanzado a una postura caprichosa que diverge del perfil auténtico marcado por su destino. Por lo mismo necesitan compensar con puras exageraciones de gesto la falta de fe radical en su propia conducta. Se drogan con extremismos de ademán; mantienen una superficial autosugestión, sosteniendo un tono de frenesí con vago terror de caer en temple sereno y no poder defenderse entonces de la acusación íntima que ascendería inexorable de su conciencia.
 

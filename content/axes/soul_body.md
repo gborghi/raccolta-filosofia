@@ -44,12 +44,12 @@ title: "Anima e corpo"
 **Descartes**
 - [DE LA FORMATION DU FŒTUS](/testi/descartes/de_la_formation_du_fœtus)
 - [DISCOURS DE LA MÉTHODE](/testi/descartes/discours_de_la_méthode)
-- [LES PASSIONS DE L’ÂME](/testi/descartes/les_passions_de_lâme)
+- [LES PASSIONS DE LÂME](/testi/descartes/les_passions_de_lâme)
 - [LES PRINCIPES DE LA PHILOSOPHIE](/testi/descartes/les_principes_de_la_philosophie)
 - [LETTRES](/testi/descartes/lettres)
 - [MÉDITATIONS MÉTAPHYSIQUES](/testi/descartes/méditations_métaphysiques)
 - [OBJECTIONS AUX MÉDITATIONS](/testi/descartes/objections_aux_méditations)
-- [TRAITÉ DE L’HOMME](/testi/descartes/traité_de_lhomme)
+- [TRAITÉ DE LHOMME](/testi/descartes/traité_de_lhomme)
 
 **Hegel**
 - [Hegel’s Philosophy of Mind](/testi/hegel/hegels_philosophy_of_mind)
@@ -77,8 +77,8 @@ title: "Anima e corpo"
 - [No ser hombre de partido](/testi/ortega-y-gasset/no_ser_hombre_de_partido)
 - [Problemas del aspecto humano](/testi/ortega-y-gasset/problemas_del_aspecto_humano)
 - [Variaciones sobre la carne](/testi/ortega-y-gasset/variaciones_sobre_la_carne)
-- [Vitalidad, alma, espíritu](/testi/ortega-y-gasset/vitalidad_alma_espíritu)
-- [d) Eidolología](/testi/ortega-y-gasset/d_eidolología)
+- [Vitalidad alma espíritu](/testi/ortega-y-gasset/vitalidad_alma_espíritu)
+- [d Eidolología](/testi/ortega-y-gasset/d_eidolología)
 
 **Plato**
 - [FIRST ALCIBIADES](/testi/plato/first_alcibiades)

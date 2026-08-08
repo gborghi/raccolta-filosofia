@@ -3,7 +3,6 @@ title: "Über das Geistersehn und was damit zusammenhängt"
 philosopher: "Schopenhauer"
 lang: "de"
 edizione: "Gesammelte Werke (ristampa di testo PD)"
-anno_edizione: 2014
 pd_year: 1900
 kind: "work"
 tags:
@@ -14,7 +13,7 @@ tags:
 > [!abstract]
 > A Parerga essay on spirit-seeing: apparitions prove no present bodies but images in the intuiting intellect, cerebrally produced as in dreams. Schopenhauer traces magnetism, veridical dreaming and ghosts back to the primacy of will and the intellectual (cerebral) nature of perception.
 
-<p class="work-source">Testo originale tedesco · Gesammelte Werke (ristampa di testo PD), 2014 · pubblico dominio</p>
+<p class="work-source">Testo originale tedesco · Gesammelte Werke (ristampa di testo PD) · pubblico dominio</p>
 
 <div class="atom-reader" data-work="testi/schopenhauer/über_das_geistersehn_und_was_damit_zusammenhängt" data-philosopher="Schopenhauer"></div>
 

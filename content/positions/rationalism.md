@@ -47,7 +47,7 @@ Posizione sull'asse [Origine della conoscenza](/axes/knowledge_origin).
 - [3.º Antiutopismo o antirracionalismo](/testi/ortega-y-gasset/3º_antiutopismo_o_antirracionalismo)
 - [Bronca en la física](/testi/ortega-y-gasset/bronca_en_la_física)
 - [Descartes y el método transcendental](/testi/ortega-y-gasset/descartes_y_el_método_transcendental)
-- [Las dos grandes metáforas (en el segundo centenario del nacimiento de Kant)](/testi/ortega-y-gasset/las_dos_grandes_metáforas_en_el_segundo_centenario_del_nacimiento_de_kant)
+- [Las dos grandes metáforas en el segundo centenario del nacimiento de Kant](/testi/ortega-y-gasset/las_dos_grandes_metáforas_en_el_segundo_centenario_del_nacimiento_de_kant)
 - [Ni vitalismo ni racionalismo](/testi/ortega-y-gasset/ni_vitalismo_ni_racionalismo)
 - [Reflexiones de centenario (1724-1924)](/testi/ortega-y-gasset/reflexiones_de_centenario_1724-1924)
 

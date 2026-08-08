@@ -71,15 +71,15 @@ title: "virtù"
 - [PROTAGORAS](/testi/plato/protagoras)
 
 **Rousseau**
-- [JULIE, OU LA NOUVELLE HÉLOÏSE](/testi/rousseau/julie_ou_la_nouvelle_héloïse)
+- [JULIE OU LA NOUVELLE HÉLOÏSE](/testi/rousseau/julie_ou_la_nouvelle_héloïse)
 - [LA VERTU LA PLUS NÉCESSAIRE AUX HÉROS](/testi/rousseau/la_vertu_la_plus_nécessaire_aux_héros)
 - [LES AMOURS DE MILORD ÉDOUARD BOMSTON](/testi/rousseau/les_amours_de_milord_édouard_bomston)
 - [LES SCIENCES ET LES ARTS](/testi/rousseau/les_sciences_et_les_arts)
 - [LETTRES MORALES](/testi/rousseau/lettres_morales)
 - [LETTRE SUR LA VERTU](/testi/rousseau/lettre_sur_la_vertu)
-- [ORAISON FUNÈBRE DU DUC D’ORLÉANS](/testi/rousseau/oraison_funèbre_du_duc_dorléans)
+- [ORAISON FUNÈBRE DU DUC DORLÉANS](/testi/rousseau/oraison_funèbre_du_duc_dorléans)
 - [RÉPONSE AU ROI DE POLOGNE](/testi/rousseau/réponse_au_roi_de_pologne)
-- [RÉPONSE À M. BORDES](/testi/rousseau/réponse_à_m_bordes)
+- [RÉPONSE À M BORDES](/testi/rousseau/réponse_à_m_bordes)
 
 **Seneca**
 - [HERCULES ON OETA](/testi/seneca/hercules_on_oeta)

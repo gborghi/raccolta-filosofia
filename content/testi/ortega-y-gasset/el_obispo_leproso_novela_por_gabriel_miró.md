@@ -1,5 +1,5 @@
 ---
-title: "El obispo leproso, novela, por Gabriel Miró"
+title: "El obispo leproso novela por Gabriel Miró"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_obispo_leproso_novela_por_gabriel_miró" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El obispo leproso, novela, por Gabriel Miró" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="El obispo leproso novela por Gabriel Miró" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Varias veces me he acercado a algún libro de Gabriel Miró. He sorbido unas líneas, tal vez una página, y me he quedado siempre sorprendido de lo bien que estaba. Sin embargo, no he seguido leyendo. ¿Qué clase de perfección es ésta que complace y no subyuga, que admira y no arrastra? ¿Es una perfección estática, paralítica, toda en cada trozo de sí misma, y que por esta razón no invita a completar lo que ya vemos de ella, apeteciendo lo que aún nos falta? Cada frase gravita sobre su propio aislamiento, sin dispararnos sobre la que sigue ni recoger el zumo de la precedente. Tal vez por esto, el movimiento, la trashumancia en que consiste la lectura, tiene que ponerlos el lector con su propio esfuerzo y empujarse a sí mismo, a pulso, de una página a otra. Esto perjudica a la obra de Miró. Porque el lector, a la postre, resta lo que él pone de lo que el autor le da.
 

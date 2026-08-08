@@ -1,5 +1,5 @@
 ---
-title: "DÉCLARATION RELATIVE À M. LE PASTEUR VERNES"
+title: "DÉCLARATION RELATIVE À M LE PASTEUR VERNES"
 philosopher: "Rousseau"
 lang: "fr"
 edizione: "Arvensa Editions"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/déclaration_relative_à_m_le_pasteur_vernes" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="DÉCLARATION RELATIVE À M. LE PASTEUR VERNES" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="DÉCLARATION RELATIVE À M LE PASTEUR VERNES" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 C’est un des malheurs de ma vie qu’avec un si grand désir d’être oublié je sois contraint de parler de moi sans cesse. Je n’ai jamais attaqué personne, et je ne me suis défendu que lorsqu’on m’y a forcé ; mais quand l’honneur oblige de parler, c’est un crime de se taire. Si M. le pasteur Vernes se fut contenté de désavouer l’ouvrage où je l’ai reconnu, j’aurais gardé le silence. Il veut de plus une déclaration de ma part, il faut la faire ; il m’accuse publiquement de l’avoir calomnié, il faut me défendre ; il demande les raisons que j’ai eues de le nommer, il faut les dire : mon silence en pareil cas me serait reproché, et ce reproche ne serait pas injuste. Les préventions du public m’ont appris depuis longtemps à me mettre au-dessus de sa censure ; il ne m’importe plus qu’il pense bien ou mal de moi, mais il m’importera toujours de me conduire de telle sorte que, quand il en pensera mal, il ait tort.
 

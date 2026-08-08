@@ -1,5 +1,5 @@
 ---
-title: "Conclusión (2)"
+title: "Conclusión 2"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/conclusión_2" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Conclusión (2)" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Conclusión 2" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La España futura, señores, ha de ser esto: comunidad, o no será. Un pueblo es una comunión de todos los instantes en el trabajo, en la cultura; un pueblo es un orden de trabajadores y una tarea. Un pueblo es un cuerpo innumerable dotado de una única alma. Democracia. Un pueblo es una escuela de humanidad.
 

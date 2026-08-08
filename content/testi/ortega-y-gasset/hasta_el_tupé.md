@@ -1,5 +1,5 @@
 ---
-title: "Hasta el tupé…"
+title: "Hasta el tupé"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/hasta_el_tupé" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Hasta el tupé…" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Hasta el tupé" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Deseoso Su Majestad de evitar, por el bien público, la apariencia de perplejidad a que darían motivo cualesquiera consultas, toda vez que le eran bien conocidas las diversas opiniones, y que juzgaba que el actual Ministerio, por la persona del presidente y por su composición, no sería aventajado por otro alguno en el designio de amparar la desinteresada y justiciera imparcialidad que en las elecciones se requiere por parte del Gobierno…
 

@@ -1,5 +1,5 @@
 ---
-title: "¿República conservadora y burguesa?"
+title: "República conservadora y burguesa"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/república_conservadora_y_burguesa" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="¿República conservadora y burguesa?" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="República conservadora y burguesa" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Cuando preparaban la revolución los hombres que han aparecido al frente de la República veían, con plena claridad, lo que ésta tenía que ser durante la primera etapa de su historia, durante el tiempo de su consolidación. La República que ahora triunfe, decían —notad bien: lo decían ellos entonces, no lo digo yo ahora—, la República que ahora triunfe tiene que ser una República conservadora, una República burguesa. Algún ministro recordará los atronadores aplausos que estas palabras, pronunciadas por él, disparaban en el auditorio; pero yo aproveché la primera ocasión que se me ofrecía para hacer notar que ambas expresiones eran poco o nada felices.
 

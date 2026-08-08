@@ -1,5 +1,5 @@
 ---
-title: "La Sonata de estío, de Don Ramón del Valle-Inclán"
+title: "La Sonata de estío de Don Ramón del Valle-Inclán"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_sonata_de_estío_de_don_ramón_del_valle-inclán" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La Sonata de estío, de Don Ramón del Valle-Inclán" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="La Sonata de estío de Don Ramón del Valle-Inclán" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Hay hombres que trascienden a épocas antiguas. De algunos podría precisarse el momento en que debieran haber nacido y decirse que son hombres Luis XV, que son hombres Imperio, que son hombres «antiguo régimen». Taine muestra a Napoleón como un hombre de Plutarco. Don Juan Valera es del siglo XVIII; tiene la fría malignidad de los enciclopedistas y su noble manera de decir. Son espíritus que parecen forjados en otras edades, almas que retrotraen al tiempo muerto y le hacen vivir de nuevo a nuestros ojos mejor que una historia. Tienen estos hombres de milagro el encanto de las cosas pasadas y el atractivo de una preciosa falsificación. Don Ramón del Valle-Inclán es un hombre «Renacimiento». La lectura de sus libros hace pensar en aquellos nombres y en aquellos grandes días de la historia humana.
 

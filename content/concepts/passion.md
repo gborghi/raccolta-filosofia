@@ -29,7 +29,7 @@ title: "passione"
 
 **Descartes**
 - [ABRÉGÉ DE LA MUSIQUE](/testi/descartes/abrégé_de_la_musique)
-- [LES PASSIONS DE L’ÂME](/testi/descartes/les_passions_de_lâme)
+- [LES PASSIONS DE LÂME](/testi/descartes/les_passions_de_lâme)
 - [LETTRES](/testi/descartes/lettres)
 
 **Hobbes**
@@ -64,8 +64,8 @@ title: "passione"
 - [La melancolía](/testi/ortega-y-gasset/la_melancolía)
 - [Para la cultura del amor](/testi/ortega-y-gasset/para_la_cultura_del_amor)
 - [Para la historia del amor](/testi/ortega-y-gasset/para_la_historia_del_amor)
-- [Para una psicología del hombre interesante.— Conocimiento del hombre](/testi/ortega-y-gasset/para_una_psicología_del_hombre_interesante_conocimiento_del_hombre)
-- [Para una topografía de la soberbia española (Breve análisis de una pasión)](/testi/ortega-y-gasset/para_una_topografía_de_la_soberbia_española_breve_análisis_de_una_pasión)
+- [Para una psicología del hombre interesante Conocimiento del hombre](/testi/ortega-y-gasset/para_una_psicología_del_hombre_interesante_conocimiento_del_hombre)
+- [Para una topografía de la soberbia española Breve análisis de una pasión](/testi/ortega-y-gasset/para_una_topografía_de_la_soberbia_española_breve_análisis_de_una_pasión)
 - [Paréntesis](/testi/ortega-y-gasset/paréntesis)
 
 **Pascal**
@@ -74,7 +74,7 @@ title: "passione"
 
 **Rousseau**
 - [ESSAI SUR L’ORIGINE DES LANGUES](/testi/rousseau/essai_sur_lorigine_des_langues)
-- [JULIE, OU LA NOUVELLE HÉLOÏSE](/testi/rousseau/julie_ou_la_nouvelle_héloïse)
+- [JULIE OU LA NOUVELLE HÉLOÏSE](/testi/rousseau/julie_ou_la_nouvelle_héloïse)
 - [LES AMOURS DE MILORD ÉDOUARD BOMSTON](/testi/rousseau/les_amours_de_milord_édouard_bomston)
 
 **Seneca**

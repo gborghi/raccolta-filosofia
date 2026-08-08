@@ -1,5 +1,5 @@
 ---
-title: "LE LÉVITE D’ÉPHRAÏM"
+title: "LE LÉVITE DÉPHRAÏM"
 philosopher: "Rousseau"
 lang: "fr"
 edizione: "Arvensa Editions"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/le_lévite_déphraïm" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="LE LÉVITE D’ÉPHRAÏM" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="LE LÉVITE DÉPHRAÏM" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Sainte colère de la vertu, viens animer ma voix ; je dirai les crimes de Benjamin, et les vengeances d’Israël ; je dirai des forfaits inouïs, et des châtiments encore plus terribles. Mortels, respectez la beauté, les mœurs, l’hospitalité ; soyez justes sans cruauté, miséricordieux sans faiblesse ; et sachez pardonner au coupable, plutôt que de punir l’innocent.
 

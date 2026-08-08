@@ -28,7 +28,7 @@ Posizione sull'asse [Stato e individuo](/axes/state_and_individual).
 - [Zur Kritik der Hegelschen Rechtsphilosophie](/testi/marx/zur_kritik_der_hegelschen_rechtsphilosophie)
 
 **Rousseau**
-- [LETTRE À D’ALEMBERT SUR LES SPECTACLES](/testi/rousseau/lettre_à_dalembert_sur_les_spectacles)
+- [LETTRE À DALEMBERT SUR LES SPECTACLES](/testi/rousseau/lettre_à_dalembert_sur_les_spectacles)
 
 **Spinoza**
 - [Political Treatise](/testi/spinoza/political_treatise)

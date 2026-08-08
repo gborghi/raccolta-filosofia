@@ -1,5 +1,5 @@
 ---
-title: "[Salutación de Archivos de Neurobiología]"
+title: "Salutación de Archivos de Neurobiología"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/salutación_de_archivos_de_neurobiología" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="[Salutación de Archivos de Neurobiología]" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Salutación de Archivos de Neurobiología" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Los estudios neurológicos y psiquiátricos han experimentado en España un reciente progreso, debido a la actividad científica de una juventud estudiosa, formada en su mayor parte al lado de los maestros Cajal y Simarro y en las clínicas y laboratorios de las naciones más avanzadas científicamente.
 

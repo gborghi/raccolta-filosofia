@@ -1,5 +1,5 @@
 ---
-title: "DISCOURS SUR L’ÉCONOMIE POLITIQUE"
+title: "DISCOURS SUR LÉCONOMIE POLITIQUE"
 philosopher: "Rousseau"
 lang: "fr"
 edizione: "Arvensa Editions"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/discours_sur_léconomie_politique" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="DISCOURS SUR L’ÉCONOMIE POLITIQUE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="DISCOURS SUR LÉCONOMIE POLITIQUE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Le mot d’économie ou oeconomie vient de oikos, maison, et de nomos, loi, et ne signifie originairement que le sage et légitime gouvernement de la maison pour le bien commun de toute la famille. Le sens de ce terme a été dans la suite étendu au gouvernement de la grande famille, qui est l'état. Pour distinguer ces deux acceptions, on l'appelle, dans ce dernier cas, économie générale, ou politique ; et dans l'autre, économie domestique ou particulière. Ce n'est que de la première qu'il est question dans cet article.
 

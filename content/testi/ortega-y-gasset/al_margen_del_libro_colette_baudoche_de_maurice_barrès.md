@@ -1,5 +1,5 @@
 ---
-title: "Al margen del libro Colette Baudoche, de Maurice Barrès"
+title: "Al margen del libro Colette Baudoche de Maurice Barrès"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/al_margen_del_libro_colette_baudoche_de_maurice_barrès" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Al margen del libro Colette Baudoche, de Maurice Barrès" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Al margen del libro Colette Baudoche de Maurice Barrès" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El público español no conoce apenas el nombre de Maurice Barrès. Esto es una falta más de nuestra república literaria, privada completamente de espíritus críticos que se encarguen de orientar los débiles residuos de atención que aún pudieran hallarse entre los escombros de la conciencia nacional. Aparte de la significación que tiene Barrès en la literatura europea vigente, debiéramos los españoles haberle demostrado algún agradecimiento por sus páginas tituladas Sangre, placer y muerte, donde se nos ha enseñado a nosotros mismos una manera de mirar nuestra pintoresca barbarie, que no será probablemente exacta, pero que es muy fecunda en emociones y vale, por lo tanto, como una verdad provisoria. Mientras no tengamos presto el historial de nuestra raza —y necesitaríamos un siglo para ello—, habremos de contentarnos con poéticas interpretaciones de nuestro carácter, en las que no podremos creer sino a medias y entre sonrisas. Esta que Barrès nos ofrece es grata al menos, y le ha inspirado tan bellos párrafos que sólo puede ocurrirnos pensar: ¡Cuánto nos divertiríamos si fuésemos así!
 

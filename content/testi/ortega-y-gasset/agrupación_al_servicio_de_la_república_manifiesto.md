@@ -1,5 +1,5 @@
 ---
-title: "Agrupación al Servicio de la República.— [Manifiesto]"
+title: "Agrupación al Servicio de la República Manifiesto"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/agrupación_al_servicio_de_la_república_manifiesto" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Agrupación al Servicio de la República.— [Manifiesto]" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Agrupación al Servicio de la República Manifiesto" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Cuando la historia de un pueblo fluye dentro de su normalidad cotidiana parece lícito que cada cual viva atento sólo a su oficio y entregado a su vocación. Pero cuando llegan tiempos de crisis profunda, en que rota o caduca toda normalidad van a decidirse los nuevos destinos nacionales, es obligatorio para todos salir de su profesión y ponerse sin reservas al servicio de la necesidad pública. Es tan notorio, tan evidente, hallarse hoy España en una situación extrema de esta índole que estorbaría encarecerlo con procedimientos de inoportuna grandilocuencia. En los meses, casi diríamos en las semanas, que sobrevienen tienen los españoles que tomar sobre sí, quieran o no, la responsabilidad de una de esas grandes decisiones colectivas en que los pueblos crean irrevocablemente su propio futuro. Esta convicción nos impulsa a dirigirnos hoy a nuestros conciudadanos, especialmente a los que se ocupan en profesiones afines con las nuestras. No hemos sido nunca hombres políticos; pero nos hemos presentado en las filas de la contienda pública siempre que el tamaño del peligro lo hacía inexcusable. Ahora son superlativas la urgencia y la gravedad de la [circunstancia](/positions/life_as_project). Esto, y no pretensión alguna de entender mejor que cualesquiera otros españoles los asuntos nacionales, nos mueve a iniciar con máxima actividad una amplia campaña política. Debieron ser personas mejor dotadas que nosotros para empresas de esta índole quienes iniciasen y dirigiesen la labor. Pero hemos esperado en vano su llamamiento y como el [caso](/concepts/fortune) no permite ni demora ni evasiva nos vemos forzados a hacerlo nosotros, muy a sabiendas de nuestras limitaciones.
 

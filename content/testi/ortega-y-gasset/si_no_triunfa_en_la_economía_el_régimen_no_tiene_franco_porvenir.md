@@ -1,5 +1,5 @@
 ---
-title: "Si no triunfa en la economía, el Régimen no tiene franco porvenir"
+title: "Si no triunfa en la economía el Régimen no tiene franco porvenir"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/si_no_triunfa_en_la_economía_el_régimen_no_tiene_franco_porvenir" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Si no triunfa en la economía, el Régimen no tiene franco porvenir" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Si no triunfa en la economía el Régimen no tiene franco porvenir" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En cambio, hoy aparecen con cariz económico cosas que, en rigor, nada tienen que ver con ello; pero es indudable que un régimen naciente hoy y que no triunfe en la economía no tiene franco el porvenir.
 

@@ -1,5 +1,5 @@
 ---
-title: "Psicoanálisis, ciencia problemática"
+title: "Psicoanálisis ciencia problemática"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/psicoanálisis_ciencia_problemática" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Psicoanálisis, ciencia problemática" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Psicoanálisis ciencia problemática" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Como el hilo rojo que va por dentro de todo cordaje usado en la escuadra inglesa, la continuidad de la verdad, la continuidad de la ciencia penetra por todas las épocas culturales, sirviéndoles de [norma](/concepts/law) y señal de reconocimiento. Pero si en la evolución de la cultura realizamos por cualquiera parte una sección, es decir, si en lugar de considerarla en su génesis y continuación la tomamos estáticamente, en una de sus apariencias sucesivas y discretas, hallaremos sólo ante nosotros una superficie, una infinitud de puntos donde la ciencia, la verdad, es uno de tantos, difícil de reconocer y destacar.
 

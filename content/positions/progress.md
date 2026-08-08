@@ -40,4 +40,4 @@ Posizione sull'asse [Senso della storia](/axes/meaning_of_history).
 - [La nueva misión](/testi/ortega-y-gasset/la_nueva_misión)
 - [La época de un progreso y la época de un peligro](/testi/ortega-y-gasset/la_época_de_un_progreso_y_la_época_de_un_peligro)
 - [Nada moderno y muy siglo XX](/testi/ortega-y-gasset/nada_moderno_y_muy_siglo_xx)
-- [Para un Museo Romántico (conferencia)](/testi/ortega-y-gasset/para_un_museo_romántico_conferencia)
+- [Para un Museo Romántico conferencia](/testi/ortega-y-gasset/para_un_museo_romántico_conferencia)

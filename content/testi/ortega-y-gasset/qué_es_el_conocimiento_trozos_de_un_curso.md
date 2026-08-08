@@ -1,5 +1,5 @@
 ---
-title: "¿Qué es el conocimiento? (Trozos de un curso)"
+title: "Qué es el conocimiento Trozos de un curso"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/qué_es_el_conocimiento_trozos_de_un_curso" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="¿Qué es el conocimiento? (Trozos de un curso)" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Qué es el conocimiento Trozos de un curso" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 

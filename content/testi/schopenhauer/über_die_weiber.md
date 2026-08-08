@@ -3,7 +3,6 @@ title: "Über die Weiber"
 philosopher: "Schopenhauer"
 lang: "de"
 edizione: "Gesammelte Werke (ristampa di testo PD)"
-anno_edizione: 2014
 pd_year: 1900
 kind: "work"
 tags:
@@ -14,7 +13,7 @@ tags:
 > [!abstract]
 > A short polemical Parerga essay on women: judged by nature closer to the present, of weaker reason but greater compassion. A document of anthropological pessimism and its nineteenth-century misogyny.
 
-<p class="work-source">Testo originale tedesco · Gesammelte Werke (ristampa di testo PD), 2014 · pubblico dominio</p>
+<p class="work-source">Testo originale tedesco · Gesammelte Werke (ristampa di testo PD) · pubblico dominio</p>
 
 <div class="atom-reader" data-work="testi/schopenhauer/über_die_weiber" data-philosopher="Schopenhauer"></div>
 

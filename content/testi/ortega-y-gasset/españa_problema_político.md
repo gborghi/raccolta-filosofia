@@ -1,5 +1,5 @@
 ---
-title: "España, problema político"
+title: "España problema político"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/españa_problema_político" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="España, problema político" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="España problema político" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En otros países acaso sea lícito a los individuos permitirse pasajeras abstracciones de los problemas nacionales: el francés, el inglés, el alemán, viven en medio de un ambiente social constituido. Sus patrias no serán sociedades perfectas, pero son sociedades dotadas de todas sus funciones esenciales, servidas por órganos en buen uso. El filósofo alemán puede desentenderse, no digo yo que deba, de los destinos de Germania: su vida de ciudadano se halla plenamente organizada sin necesidad de su intervención. Los impuestos no le apretarán demasiado, la higiene municipal velará por su salud, la Universidad le ofrece un medio casi mecánico de enriquecer sus conocimientos, la biblioteca próxima le proporciona de balde cuantos libros necesite, podrá viajar con poco gasto, y al depositar su voto al tiempo de las elecciones volverá a su despacho sin temor de que se le falsifique la voluntad. ¿Qué impedirá al alemán empujar su propio esquife al mar de las eternas cosas divinas y pasarse veinte años pensando sólo en lo [infinito](/concepts/infinity)?
 

@@ -36,4 +36,4 @@ title: "autocoscienza"
 - [Hegel y América](/testi/ortega-y-gasset/hegel_y_américa)
 - [Para un libro no escrito](/testi/ortega-y-gasset/para_un_libro_no_escrito)
 - [Problemas del aspecto humano](/testi/ortega-y-gasset/problemas_del_aspecto_humano)
-- [d) Eidolología](/testi/ortega-y-gasset/d_eidolología)
+- [d Eidolología](/testi/ortega-y-gasset/d_eidolología)

@@ -18,5 +18,5 @@ title: "ghiandola pineale"
 ## Opere (2)
 
 **Descartes**
-- [LES PASSIONS DE L’ÂME](/testi/descartes/les_passions_de_lâme)
-- [TRAITÉ DE L’HOMME](/testi/descartes/traité_de_lhomme)
+- [LES PASSIONS DE LÂME](/testi/descartes/les_passions_de_lâme)
+- [TRAITÉ DE LHOMME](/testi/descartes/traité_de_lhomme)

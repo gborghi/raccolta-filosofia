@@ -3,7 +3,6 @@ title: "PREMIÈRES PENSÉES SUR LA GÉNÉRATION DES ANIMAUX ET LES SAVEURS"
 philosopher: "Descartes"
 lang: "fr"
 edizione: "Arvensa Editions"
-anno_edizione: 2015
 pd_year: 1900
 kind: "work"
 tags:
@@ -14,7 +13,7 @@ tags:
 > [!abstract]
 > A substantial treatise of mechanistic physiology (over 10,000 words) on the generation of animals and the nature of tastes: Descartes explains the formation of the animal — with or without seed, down to spontaneous generation in putrefying matter — as a pure concourse of subtle parts (the 'vital spirits') and grosser parts (blood) under the action of heat, in which the heart forms first and from it derive the brain and organs, with no recourse to a soul. A scientific text, but consonant with the beast-machine conception.
 
-<p class="work-source">Testo originale francese · Arvensa Editions, 2015 · pubblico dominio</p>
+<p class="work-source">Testo originale francese · Arvensa Editions · pubblico dominio</p>
 
 <div class="atom-reader" data-work="testi/descartes/premières_pensées_sur_la_génération_des_animaux_et_les_saveurs" data-philosopher="Descartes"></div>
 

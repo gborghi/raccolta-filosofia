@@ -3,7 +3,6 @@ title: "Die Geburt der Tragödie aus dem Geiste der Musik"
 philosopher: "Nietzsche"
 lang: "de"
 edizione: "Anaconda Verlag"
-anno_edizione: 2013
 pd_year: 1971
 kind: "work"
 tags:
@@ -14,7 +13,7 @@ tags:
 > [!abstract]
 > An early aesthetic essay explaining the birth of Greek tragedy from the tension between the measured, plastic force of the Apollonian and Dionysian intoxication; it argues that tragedy was killed by Socratic rationalism. It lays the groundwork for the vitalist reading of art Nietzsche develops later.
 
-<p class="work-source">Testo originale tedesco · Anaconda Verlag, 2013 · pubblico dominio</p>
+<p class="work-source">Testo originale tedesco · Anaconda Verlag · pubblico dominio</p>
 
 <div class="atom-reader" data-work="testi/nietzsche/die_geburt_der_tragödie_aus_dem_geiste_der_musik" data-philosopher="Nietzsche"></div>
 

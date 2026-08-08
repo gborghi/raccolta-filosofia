@@ -1,5 +1,5 @@
 ---
-title: "La censura negra y la censura roja.— Sólo pedimos libertad"
+title: "La censura negra y la censura roja Sólo pedimos libertad"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_censura_negra_y_la_censura_roja_sólo_pedimos_libertad" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La censura negra y la censura roja.— Sólo pedimos libertad" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="La censura negra y la censura roja Sólo pedimos libertad" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Después del colapso de un día vuelven hoy los periódicos madrileños a pulsar en las calles. Por nuestra parte, no decimos que en este retorno al trabajo nos hallemos con el ánimo satisfecho. Desde el momento que la censura roja se puso a combatir con la censura negra al través de nuestros cuerpos cuotidianos, todos los periódicos debieron darse transitoriamente por muertos. Ésta fue nuestra opinión: ni un día, ni una hora debimos prolongar una apariencia de vida que sólo servía para sustentar el vejamen y el deshonor. No triunfó nuestra opinión: como suele, para desdicha nacional, suceder siempre, venció esta vez también lo ineficaz y lo confuso. Y henos de nuevo con la pluma en la mano, pluma que las circunstancias convierten en un pequeño remo de galera.
 

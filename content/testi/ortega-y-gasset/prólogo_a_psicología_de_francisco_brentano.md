@@ -1,5 +1,5 @@
 ---
-title: "Prólogo a Psicología, de Francisco Brentano"
+title: "Prólogo a Psicología de Francisco Brentano"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/prólogo_a_psicología_de_francisco_brentano" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Prólogo a Psicología, de Francisco Brentano" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Prólogo a Psicología de Francisco Brentano" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Hay obras de ancha fama y escaso influjo. Otras, por el contrario, siguen un destino tácito y como subrepticio, al tiempo mismo en que van transformando la superficie de la historia. El libro de Francisco Brentano, Psicología desde el punto de vista empírico, es de este último linaje. El hecho es tan escueto y tan sorprendente, que merece especialísima consignación. Este libro, publicado en 1874, ha producido un cambio total en la ideología filosófica del mundo y, sin embargo, la segunda edición no ha aparecido hasta 1925. Aconsejan datos como éste al fino historiador la mayor perspicacia cuando busque los orígenes de las mutaciones humanas, que suelen hallarse, como la cuna de los grandes ríos, en lugares repuestos y a trasmano.
 

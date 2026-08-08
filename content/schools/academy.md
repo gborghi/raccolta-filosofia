@@ -22,7 +22,7 @@ title: "Accademia platonica"
 - [Lectures on the History of Philosophy](/testi/hegel/lectures_on_the_history_of_philosophy)
 
 **Ortega y Gasset**
-- [Prólogo a La Academia platónica, de Pablo Luis Landsberg](/testi/ortega-y-gasset/prólogo_a_la_academia_platónica_de_pablo_luis_landsberg)
+- [Prólogo a La Academia platónica de Pablo Luis Landsberg](/testi/ortega-y-gasset/prólogo_a_la_academia_platónica_de_pablo_luis_landsberg)
 - [Un libro sobre Platón](/testi/ortega-y-gasset/un_libro_sobre_platón)
 
 **Plato**

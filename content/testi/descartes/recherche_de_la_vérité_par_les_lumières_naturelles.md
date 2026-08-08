@@ -3,7 +3,6 @@ title: "RECHERCHE DE LA VÉRITÉ PAR LES LUMIÈRES NATURELLES"
 philosopher: "Descartes"
 lang: "fr"
 edizione: "Arvensa Editions"
-anno_edizione: 2015
 pd_year: 1900
 kind: "work"
 tags:
@@ -14,7 +13,7 @@ tags:
 > [!abstract]
 > An unfinished philosophical dialogue in which the character Eudoxus (Descartes's mouthpiece) guides Polyander and Epistemon to find truth by the natural light of reason alone, without trusting books or authority — staging a dialogic version of doubt and the cogito.
 
-<p class="work-source">Testo originale francese · Arvensa Editions, 2015 · pubblico dominio</p>
+<p class="work-source">Testo originale francese · Arvensa Editions · pubblico dominio</p>
 
 <div class="atom-reader" data-work="testi/descartes/recherche_de_la_vérité_par_les_lumières_naturelles" data-philosopher="Descartes"></div>
 

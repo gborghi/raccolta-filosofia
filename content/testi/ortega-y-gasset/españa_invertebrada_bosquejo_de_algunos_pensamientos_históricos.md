@@ -1,5 +1,5 @@
 ---
-title: "ESPAÑA INVERTEBRADA.— BOSQUEJO DE ALGUNOS PENSAMIENTOS HISTÓRICOS"
+title: "ESPAÑA INVERTEBRADA BOSQUEJO DE ALGUNOS PENSAMIENTOS HISTÓRICOS"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/españa_invertebrada_bosquejo_de_algunos_pensamientos_históricos" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="ESPAÑA INVERTEBRADA.— BOSQUEJO DE ALGUNOS PENSAMIENTOS HISTÓRICOS" data-chapter="(apertura)" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="ESPAÑA INVERTEBRADA BOSQUEJO DE ALGUNOS PENSAMIENTOS HISTÓRICOS" data-chapter="(apertura)" data-kind="intro" data-srclang="es"></span>
 
 PRÓLOGO A LA SEGUNDA EDICIÓN
 

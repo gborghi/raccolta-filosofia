@@ -47,7 +47,7 @@ title: "abitudine"
 - [Planeta sitibundo](/testi/ortega-y-gasset/planeta_sitibundo)
 - [Poeta de la costumbre](/testi/ortega-y-gasset/poeta_de_la_costumbre)
 - [Primor de la repetición](/testi/ortega-y-gasset/primor_de_la_repetición)
-- [Reforma del carácter, no reforma de costumbres](/testi/ortega-y-gasset/reforma_del_carácter_no_reforma_de_costumbres)
+- [Reforma del carácter no reforma de costumbres](/testi/ortega-y-gasset/reforma_del_carácter_no_reforma_de_costumbres)
 - [Sin embargo](/testi/ortega-y-gasset/sin_embargo)
 
 **Pascal**

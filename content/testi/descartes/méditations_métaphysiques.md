@@ -3,7 +3,6 @@ title: "MÉDITATIONS MÉTAPHYSIQUES"
 philosopher: "Descartes"
 lang: "fr"
 edizione: "Arvensa Editions"
-anno_edizione: 2015
 pd_year: 1900
 kind: "work"
 tags:
@@ -14,7 +13,7 @@ tags:
 > [!abstract]
 > Descartes's metaphysical masterpiece: six meditations that, through hyperbolic doubt and the hypothesis of the evil demon, arrive at the cogito as a first fixed point, then demonstrate the existence of God and the real distinction between soul and body. The founding text of modern rationalism.
 
-<p class="work-source">Testo originale francese · Arvensa Editions, 2015 · pubblico dominio</p>
+<p class="work-source">Testo originale francese · Arvensa Editions · pubblico dominio</p>
 
 <div class="atom-reader" data-work="testi/descartes/méditations_métaphysiques" data-philosopher="Descartes"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: "El cabilismo, teoría conservadora"
+title: "El cabilismo teoría conservadora"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_cabilismo_teoría_conservadora" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El cabilismo, teoría conservadora" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="El cabilismo teoría conservadora" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 ¿Somos individualistas? Solemos oír esto frecuentemente: es el tópico máximo de la vanidad española. Frente a las virtudes modestas de otras naciones queremos justificar nuestros vicios dándoles tan noble origen que parezcan mejores que virtudes. Es el individualismo, la más gallarda y elegante virtud: por eso la hemos elegido y embozándonos en ella, como en una capa, intentamos truhanescamente celar con la arrogancia las lacerías interiores.
 

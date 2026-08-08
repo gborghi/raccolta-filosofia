@@ -41,7 +41,7 @@ title: "proprietà"
 - [THE POVERTY OF PHILOSOPHY, 1847](/testi/marx/the_poverty_of_philosophy_1847)
 
 **Ortega y Gasset**
-- [El problema agrario andaluz.— Una carta de don José Ortega y Gasset](/testi/ortega-y-gasset/el_problema_agrario_andaluz_una_carta_de_don_josé_ortega_y_gasset)
+- [El problema agrario andaluz Una carta de don José Ortega y Gasset](/testi/ortega-y-gasset/el_problema_agrario_andaluz_una_carta_de_don_josé_ortega_y_gasset)
 - [Inmediatas concesiones](/testi/ortega-y-gasset/inmediatas_concesiones)
 - [Justa suspicacia](/testi/ortega-y-gasset/justa_suspicacia)
 - [La reforma agraria](/testi/ortega-y-gasset/la_reforma_agraria)
@@ -51,6 +51,6 @@ title: "proprietà"
 - [ERYXIAS](/testi/plato/eryxias)
 
 **Rousseau**
-- [DISCOURS SUR L’ÉCONOMIE POLITIQUE](/testi/rousseau/discours_sur_léconomie_politique)
-- [L’ORIGINE ET LES FONDEMENTS DE L’INÉGALITÉ PARMI LES HOMMES](/testi/rousseau/lorigine_et_les_fondements_de_linégalité_parmi_les_hommes)
+- [DISCOURS SUR LÉCONOMIE POLITIQUE](/testi/rousseau/discours_sur_léconomie_politique)
+- [LORIGINE ET LES FONDEMENTS DE LINÉGALITÉ PARMI LES HOMMES](/testi/rousseau/lorigine_et_les_fondements_de_linégalité_parmi_les_hommes)
 - [PROJET DE CONSTITUTION POUR LA CORSE](/testi/rousseau/projet_de_constitution_pour_la_corse)

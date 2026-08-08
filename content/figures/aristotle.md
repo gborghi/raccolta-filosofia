@@ -47,7 +47,7 @@ title: "Aristotele"
 - [La metafísica y Leibniz](/testi/ortega-y-gasset/la_metafísica_y_leibniz)
 - [No ser hombre ejemplar](/testi/ortega-y-gasset/no_ser_hombre_ejemplar)
 - [Prólogo a El libro de las misiones](/testi/ortega-y-gasset/prólogo_a_el_libro_de_las_misiones)
-- [Prólogo a Psicología, de Francisco Brentano](/testi/ortega-y-gasset/prólogo_a_psicología_de_francisco_brentano)
+- [Prólogo a Psicología de Francisco Brentano](/testi/ortega-y-gasset/prólogo_a_psicología_de_francisco_brentano)
 - [Sobre el vuelo de las aves anilladas](/testi/ortega-y-gasset/sobre_el_vuelo_de_las_aves_anilladas)
 
 **Rousseau**

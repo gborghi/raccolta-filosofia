@@ -3,7 +3,6 @@ title: "ABRÉGÉ DE LA MUSIQUE"
 philosopher: "Descartes"
 lang: "fr"
 edizione: "Arvensa Editions"
-anno_edizione: 2015
 pd_year: 1900
 kind: "work"
 tags:
@@ -14,7 +13,7 @@ tags:
 > [!abstract]
 > An early treatise (1618) on music theory: it analyses sound as an object capable of producing pleasure and stirring passions, and derives the arithmetical proportions that make a chord pleasing to the ear. This is a technical work on acoustics and the aesthetics of sound, not a metaphysical text.
 
-<p class="work-source">Testo originale francese · Arvensa Editions, 2015 · pubblico dominio</p>
+<p class="work-source">Testo originale francese · Arvensa Editions · pubblico dominio</p>
 
 <div class="atom-reader" data-work="testi/descartes/abrégé_de_la_musique" data-philosopher="Descartes"></div>
 

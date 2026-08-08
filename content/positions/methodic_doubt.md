@@ -33,9 +33,9 @@ Posizione sull'asse [Metodo](/axes/method).
 - [MÉDITATIONS MÉTAPHYSIQUES](/testi/descartes/méditations_métaphysiques)
 - [OBJECTIONS AUX MÉDITATIONS](/testi/descartes/objections_aux_méditations)
 - [RECHERCHE DE LA VÉRITÉ PAR LES LUMIÈRES NATURELLES](/testi/descartes/recherche_de_la_vérité_par_les_lumières_naturelles)
-- [RÈGLES POUR LA DIRECTION DE L’ESPRIT](/testi/descartes/règles_pour_la_direction_de_lesprit)
+- [RÈGLES POUR LA DIRECTION DE LESPRIT](/testi/descartes/règles_pour_la_direction_de_lesprit)
 
 **Ortega y Gasset**
-- [La «crisis» de hoy y de hace cinco siglos. Creación y recepción. La «socialización» del](/testi/ortega-y-gasset/la_crisis_de_hoy_y_de_hace_cinco_siglos_creación_y_recepción_la_socialización_del)
+- [La crisis de hoy y de hace cinco siglos Creación y recepción La socialización del](/testi/ortega-y-gasset/la_crisis_de_hoy_y_de_hace_cinco_siglos_creación_y_recepción_la_socialización_del)
 - [Restauración](/testi/ortega-y-gasset/restauración)
-- [Sensación, construcción e intuición](/testi/ortega-y-gasset/sensación_construcción_e_intuición)
+- [Sensación construcción e intuición](/testi/ortega-y-gasset/sensación_construcción_e_intuición)

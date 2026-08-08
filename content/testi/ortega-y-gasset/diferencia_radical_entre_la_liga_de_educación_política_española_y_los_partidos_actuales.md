@@ -1,5 +1,5 @@
 ---
-title: "Diferencia radical entre la «Liga de educación política española» y los partidos actuales"
+title: "Diferencia radical entre la Liga de educación política española y los partidos actuales"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/diferencia_radical_entre_la_liga_de_educación_política_española_y_los_partidos_actuales" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Diferencia radical entre la «Liga de educación política española» y los partidos actuales" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Diferencia radical entre la Liga de educación política española y los partidos actuales" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Si tenéis algún deseo de entender bien nuestras aspiraciones y queréis, desde luego, ser justos con aquello que hay de pretensión de novedad en nuestros propósitos —no esperando a que hasta los ciegos lo tengan que reconocer—, es necesario que toméis completamente en serio esa ampliación del concepto «política» que yo acabo de exigir; que la realicéis en vuestro pensamiento y advirtáis las consecuencias a que lleva.
 

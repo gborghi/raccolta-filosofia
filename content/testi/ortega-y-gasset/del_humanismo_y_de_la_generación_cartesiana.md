@@ -1,5 +1,5 @@
 ---
-title: "Del «humanismo» y de la generación cartesiana"
+title: "Del humanismo y de la generación cartesiana"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/del_humanismo_y_de_la_generación_cartesiana" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Del «humanismo» y de la generación cartesiana" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Del humanismo y de la generación cartesiana" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Madrid, marzo de 1933
 

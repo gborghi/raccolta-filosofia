@@ -47,8 +47,8 @@ title: "anima"
 
 **Descartes**
 - [DE LA FORMATION DU FŒTUS](/testi/descartes/de_la_formation_du_fœtus)
-- [LES PASSIONS DE L’ÂME](/testi/descartes/les_passions_de_lâme)
-- [TRAITÉ DE L’HOMME](/testi/descartes/traité_de_lhomme)
+- [LES PASSIONS DE LÂME](/testi/descartes/les_passions_de_lâme)
+- [TRAITÉ DE LHOMME](/testi/descartes/traité_de_lhomme)
 
 **Hegel**
 - [Hegel’s Philosophy of Mind](/testi/hegel/hegels_philosophy_of_mind)
@@ -79,14 +79,14 @@ title: "anima"
 - [Falta de individualidad](/testi/ortega-y-gasset/falta_de_individualidad)
 - [Las huellas del alma](/testi/ortega-y-gasset/las_huellas_del_alma)
 - [No ser hombre de partido](/testi/ortega-y-gasset/no_ser_hombre_de_partido)
-- [Para una psicología del hombre interesante.— Conocimiento del hombre](/testi/ortega-y-gasset/para_una_psicología_del_hombre_interesante_conocimiento_del_hombre)
+- [Para una psicología del hombre interesante Conocimiento del hombre](/testi/ortega-y-gasset/para_una_psicología_del_hombre_interesante_conocimiento_del_hombre)
 - [Problemas del aspecto humano](/testi/ortega-y-gasset/problemas_del_aspecto_humano)
-- [Prólogo a Obras completas, de Sigmundo Freud](/testi/ortega-y-gasset/prólogo_a_obras_completas_de_sigmundo_freud)
-- [Prólogo a Psicología, de Francisco Brentano](/testi/ortega-y-gasset/prólogo_a_psicología_de_francisco_brentano)
-- [Sobre el proceso Rull.— Lamentación](/testi/ortega-y-gasset/sobre_el_proceso_rull_lamentación)
+- [Prólogo a Obras completas de Sigmundo Freud](/testi/ortega-y-gasset/prólogo_a_obras_completas_de_sigmundo_freud)
+- [Prólogo a Psicología de Francisco Brentano](/testi/ortega-y-gasset/prólogo_a_psicología_de_francisco_brentano)
+- [Sobre el proceso Rull Lamentación](/testi/ortega-y-gasset/sobre_el_proceso_rull_lamentación)
 - [Variaciones sobre la carne](/testi/ortega-y-gasset/variaciones_sobre_la_carne)
-- [Vitalidad, alma, espíritu](/testi/ortega-y-gasset/vitalidad_alma_espíritu)
-- [d) Eidolología](/testi/ortega-y-gasset/d_eidolología)
+- [Vitalidad alma espíritu](/testi/ortega-y-gasset/vitalidad_alma_espíritu)
+- [d Eidolología](/testi/ortega-y-gasset/d_eidolología)
 
 **Plato**
 - [APOLOGY](/testi/plato/apology)

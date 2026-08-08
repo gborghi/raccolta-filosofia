@@ -1,5 +1,5 @@
 ---
-title: "La fiesta del trabajo.— Pensamientos para mañana"
+title: "La fiesta del trabajo Pensamientos para mañana"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_fiesta_del_trabajo_pensamientos_para_mañana" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La fiesta del trabajo.— Pensamientos para mañana" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="La fiesta del trabajo Pensamientos para mañana" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Por la calle de Alcalá —tan blanca bajo esta luz infantil que vierte mayo— desembocará mañana la oscura masa fluyente de los obreros.
 

@@ -1,5 +1,5 @@
 ---
-title: "LETTRE À M. GRIMM (2)"
+title: "LETTRE À M GRIMM 2"
 philosopher: "Rousseau"
 lang: "fr"
 edizione: "Arvensa Editions"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/lettre_à_m_grimm_2" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="LETTRE À M. GRIMM (2)" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="LETTRE À M GRIMM 2" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Je vous félicite, monsieur, de votre nouvelle gloire. Vous voilà en possession d'un honneur qu'Homère et Platon n'ont eu que longtemps après leur mort, et dont Boileau seul avait joui de son vivant parmi nous : vous avez un commentateur. Les remarques sur votre lettre n'ont pas, il est vrai, le titre de commentaires ; mais vous savez que les commentateurs suppriment les choses essentielles, et étendent celles qui n'en ont pas besoin ; qu'ils ont la fureur d'interpréter tout ce qui est clair ; que leurs explications sont toujours plus obscures que le texte, et qu'il n'y a sorte de choses qu'ils n'aperçoivent dans leur auteur, excepté les grâces et la finesse.
 

@@ -1,5 +1,5 @@
 ---
-title: "Los «ámbitos culturales»"
+title: "Los ámbitos culturales"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/los_ámbitos_culturales" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Los «ámbitos culturales»" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Los ámbitos culturales" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Conviene, sin embargo, mostrar con alguna mayor precisión cuál ha sido la ruta por la cual se ha llegado a esa ampliación del punto de vista.
 

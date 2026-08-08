@@ -1,5 +1,5 @@
 ---
-title: "El sentido histórico (2)"
+title: "El sentido histórico 2"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_sentido_histórico_2" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El sentido histórico (2)" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="El sentido histórico 2" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En el siglo XIX, el sentido histórico se ha abierto como una nueva pupila, como un nuevo órgano humano, el más humano de todos, porque con él el hombre percibe al hombre.
 

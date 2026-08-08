@@ -1,5 +1,5 @@
 ---
-title: "La guerra y la destitución de Unamuno.— Carta de Ortega y Gasset"
+title: "La guerra y la destitución de Unamuno Carta de Ortega y Gasset"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_guerra_y_la_destitución_de_unamuno_carta_de_ortega_y_gasset" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La guerra y la destitución de Unamuno.— Carta de Ortega y Gasset" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="La guerra y la destitución de Unamuno Carta de Ortega y Gasset" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Señor don Roberto Castrovido.
 

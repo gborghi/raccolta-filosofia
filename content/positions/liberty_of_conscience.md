@@ -25,7 +25,7 @@ Posizione sull'asse [Stato e individuo](/axes/state_and_individual).
 ## Opere (7)
 
 **Kant**
-- [Beantwortung der Frage: Was ist Aufklärung](/testi/kant/beantwortung_der_frage_was_ist_aufklärung)
+- [Beantwortung der Frage Was ist Aufklärung](/testi/kant/beantwortung_der_frage_was_ist_aufklärung)
 
 **Locke**
 - [A FOURTH LETTER FOR TOLERATION](/testi/locke/a_fourth_letter_for_toleration)

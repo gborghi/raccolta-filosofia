@@ -1,5 +1,5 @@
 ---
-title: "¿Una exposición Zuloaga?"
+title: "Una exposición Zuloaga"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/una_exposición_zuloaga" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="¿Una exposición Zuloaga?" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Una exposición Zuloaga" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Entre las cosas fáciles, la más importante que podía intentar ahora el ministro de Instrucción Pública sería, en mi opinión, una Exposición Zuloaga. No se trata de un homenaje: homenajes se están haciendo todos los días, y casi llegará a ser una distinción que se adjudique a hombres de verdadero mérito no consagrarles homenaje alguno. Los hombres de gran valer no son acreedores a estas adehalas placenteras: bastante tienen con su propia sustancia. El placer del gran artista o del gran pensador al hallarse con la obra cumplida delante, tierna aún, de la creación, paga sobradamente los graves esfuerzos en ella condensados. La conveniencia de una Exposición Zuloaga se funda en su utilidad para nosotros los que fuéramos a visitarla. ¿Y no está para esto puesto ahí el Ministerio de Instrucción Pública y Bellas Artes? Su función no es premiar los méritos de los españoles triunfantes con la pluma o el pincel; es más bien hacer posible la cultura, fomentar en la masa anónima las preocupaciones elevadas, suscitar en el ambiente público motivos de una vitalidad superior y hacer que la trivialidad del comercio ciudadano quede rota a menudo por corrientes difusas de valores ideales. No concibo que un ministro de Instrucción Pública se quede satisfecho si a la vuelta de cada mes no le cabe la certidumbre de haber enriquecido la conciencia española con un nuevo tema cultural. Su dignidad es la más alta en una sociedad europea, es la forma moderna de aquella otra divina magistratura que sobre los campos tórridos de Pharan ejercitó Aarón, hermano de Moisés. Sería vergonzoso que se contentase con administrar los servicios pedagógicos nacionales: al frente del personal educativo corresponde al ministro la ardiente actividad de primer maestro. ¿Por qué no ha de ocuparse en solicitar a las grandes personalidades europeas para que den conferencias en España? ¿Los grandes exploradores —Sven Hedin, Peary—, los grandes literatos —France, Lemaître, Pascoli, Bernard Shaw—, los grandes pensadores —Bergson, Croce, Simmel?…
 

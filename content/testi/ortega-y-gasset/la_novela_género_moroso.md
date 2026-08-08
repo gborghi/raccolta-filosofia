@@ -1,5 +1,5 @@
 ---
-title: "La novela, género moroso"
+title: "La novela género moroso"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_novela_género_moroso" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La novela, género moroso" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="La novela género moroso" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Según esto, la novela ha de ser hoy lo contrario que el cuento. El cuento es la simple narración de peripecias. El acento en la fisiología del cuento carga sobre éstas. La frescura pueril se interesa en la aventura como tal, acaso porque, como he sugerido, el niño ve con presencia evidente lo que nosotros no podemos actualizar. La aventura no nos interesa hoy, o, a lo sumo, interesa sólo al niño interior que, en forma de residuo un poco bárbaro, todos conservamos. El resto de nuestra persona no participa en el apasionamiento mecánico que la aventura del folletín acaso nos produce. Por eso, al concluir el novelón nos sentimos con mal sabor de boca, como habiéndonos entregado a un goce bajo y vil. Es muy difícil que hoy quepa inventar una aventura capaz de interesar nuestra sensibilidad superior.
 

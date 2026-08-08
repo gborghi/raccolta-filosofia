@@ -1,5 +1,5 @@
 ---
-title: "Notas. Sobre los legendarios terrores del año mil"
+title: "Notas Sobre los legendarios terrores del año mil"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/notas_sobre_los_legendarios_terrores_del_año_mil" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Notas. Sobre los legendarios terrores del año mil" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Notas Sobre los legendarios terrores del año mil" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En la historia de la Edad Media existe una página sugestiva como pocas, inquietante, que dice uno de los momentos en que la Humanidad se ha encontrado más oprimida, más angustiada. Sobre un cúmulo de desdichas reales, algunos historiadores han urdido el tapiz maravilloso de una leyenda. Es ésta la que supone a los hombres del siglo X abandonando las labores sustentadoras de la vida y huyendo en pardos rebaños al sosegado y milagroso secreto de los claustros. Nacida en el siglo XV, esta leyenda ha pasado entre las manos de todos los que han escrito historia medioeval, y precisamente los de pluma más poderosa se han complacido en detenerse junto a ella y enriquecerla con nuevos fantásticos detalles. Así se explica que, teniendo falta semejante de comprobación monumental, esta tradición se haya perpetuado y hasta hace muy poco no haya sido anulada. Lo extraño es que hombres tan escrupulosos y pausados en sus frases como Taine, la hayan aceptado.
 

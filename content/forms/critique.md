@@ -38,4 +38,4 @@ title: "critica"
 - [Der Antichrist](/testi/nietzsche/der_antichrist)
 
 **Rousseau**
-- [NOTES EN RÉFUTATION DE L’OUVRAGE D'HELVÉTIUS](/testi/rousseau/notes_en_réfutation_de_louvrage_dhelvétius)
+- [NOTES EN RÉFUTATION DE LOUVRAGE DHELVÉTIUS](/testi/rousseau/notes_en_réfutation_de_louvrage_dhelvétius)

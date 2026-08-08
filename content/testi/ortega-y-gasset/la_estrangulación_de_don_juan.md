@@ -1,5 +1,5 @@
 ---
-title: "La estrangulación de «Don Juan»"
+title: "La estrangulación de Don Juan"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_estrangulación_de_don_juan" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La estrangulación de «Don Juan»" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="La estrangulación de Don Juan" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En espera de que llegue la hora oportuna para poder ocuparme de asuntos un poco mayores —los temas tienen su tiempo, que a veces no coincide con el nuestro, y el escritor y el político, si lo son de verdad, aguardan pacientes su paso a uso de buen cazador—, no puedo menos de escribir unas líneas irritadas sobre la representación que se hace de Don Juan Tenorio.
 

@@ -1,5 +1,5 @@
 ---
-title: "ENSAYOS FILOSÓFICOS (BIOLOGÍA Y PEDAGOGÍA)"
+title: "ENSAYOS FILOSÓFICOS BIOLOGÍA Y PEDAGOGÍA"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/ensayos_filosóficos_biología_y_pedagogía" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="ENSAYOS FILOSÓFICOS (BIOLOGÍA Y PEDAGOGÍA)" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="ENSAYOS FILOSÓFICOS BIOLOGÍA Y PEDAGOGÍA" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 A DOMINGO BARNÉS
 

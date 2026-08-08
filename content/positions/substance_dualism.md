@@ -32,12 +32,12 @@ Posizione sull'asse [Statuto del reale](/axes/reality_status).
 **Descartes**
 - [DE LA FORMATION DU FŒTUS](/testi/descartes/de_la_formation_du_fœtus)
 - [DISCOURS DE LA MÉTHODE](/testi/descartes/discours_de_la_méthode)
-- [LES PASSIONS DE L’ÂME](/testi/descartes/les_passions_de_lâme)
+- [LES PASSIONS DE LÂME](/testi/descartes/les_passions_de_lâme)
 - [LES PRINCIPES DE LA PHILOSOPHIE](/testi/descartes/les_principes_de_la_philosophie)
 - [LETTRES](/testi/descartes/lettres)
 - [MÉDITATIONS MÉTAPHYSIQUES](/testi/descartes/méditations_métaphysiques)
 - [OBJECTIONS AUX MÉDITATIONS](/testi/descartes/objections_aux_méditations)
-- [TRAITÉ DE L’HOMME](/testi/descartes/traité_de_lhomme)
+- [TRAITÉ DE LHOMME](/testi/descartes/traité_de_lhomme)
 
 **Plato**
 - [FIRST ALCIBIADES](/testi/plato/first_alcibiades)

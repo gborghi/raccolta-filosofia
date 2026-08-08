@@ -81,7 +81,7 @@ title: "religione"
 - [Catecismo para la lectura de una carta](/testi/ortega-y-gasset/catecismo_para_la_lectura_de_una_carta)
 - [Cuestión religiosa](/testi/ortega-y-gasset/cuestión_religiosa)
 - [Defensa del teólogo frente al místico](/testi/ortega-y-gasset/defensa_del_teólogo_frente_al_místico)
-- [Del «humanismo» y de la generación cartesiana](/testi/ortega-y-gasset/del_humanismo_y_de_la_generación_cartesiana)
+- [Del humanismo y de la generación cartesiana](/testi/ortega-y-gasset/del_humanismo_y_de_la_generación_cartesiana)
 - [Dinero sacro](/testi/ortega-y-gasset/dinero_sacro)
 - [Dios a la vista](/testi/ortega-y-gasset/dios_a_la_vista)
 - [Epílogo sobre el alma desilusionada](/testi/ortega-y-gasset/epílogo_sobre_el_alma_desilusionada)
@@ -110,7 +110,7 @@ title: "religione"
 
 **Rousseau**
 - [LETTRE À MONSEIGNEUR DE BEAUMONT](/testi/rousseau/lettre_à_monseigneur_de_beaumont)
-- [ÉMILE ou de L’ÉDUCATION](/testi/rousseau/émile_ou_de_léducation)
+- [ÉMILE ou de LÉDUCATION](/testi/rousseau/émile_ou_de_léducation)
 
 **Seneca**
 - [NATURAL QUESTIONS](/testi/seneca/natural_questions)

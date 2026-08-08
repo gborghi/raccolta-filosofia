@@ -1,5 +1,5 @@
 ---
-title: "¿Por qué no probar a hacer bien las cosas?"
+title: "Por qué no probar a hacer bien las cosas"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/por_qué_no_probar_a_hacer_bien_las_cosas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="¿Por qué no probar a hacer bien las cosas?" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Por qué no probar a hacer bien las cosas" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El [caso](/concepts/fortune) del juez del Centro y su corrección gubernativa ofrecen, por la misma sencillez del tema, el mejor ejemplo para innumerables otras cuestiones que se han presentado y se presentarán. Siempre se tratará de los mismos perros con otros collares.
 

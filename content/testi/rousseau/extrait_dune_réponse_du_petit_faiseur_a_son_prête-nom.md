@@ -1,5 +1,5 @@
 ---
-title: "EXTRAIT D'UNE RÉPONSE DU PETIT FAISEUR A SON PRÊTE-NOM"
+title: "EXTRAIT DUNE RÉPONSE DU PETIT FAISEUR A SON PRÊTE-NOM"
 philosopher: "Rousseau"
 lang: "fr"
 edizione: "Arvensa Editions"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/extrait_dune_réponse_du_petit_faiseur_a_son_prête-nom" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="EXTRAIT D'UNE RÉPONSE DU PETIT FAISEUR A SON PRÊTE-NOM" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="EXTRAIT DUNE RÉPONSE DU PETIT FAISEUR A SON PRÊTE-NOM" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Quant au passage enharmonique de l'Orphée de M. Gluck, que vous dites avoir tant de peine à entonner et même à entendre, j'en sais bien la raison : c'est que vous ne pouvez rien sans moi, et qu'en quelque genre que ce puisse être, dépourvu de mon assistance, vous ne serez jamais qu'un ignorant. Vous sentez du moins la beauté de ce passage, et c'est déjà quelque chose ; mais vous ignorez ce qui la produit : je vais vous l'apprendre.
 

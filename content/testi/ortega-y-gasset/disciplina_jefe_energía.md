@@ -1,5 +1,5 @@
 ---
-title: "Disciplina, jefe, energía"
+title: "Disciplina jefe energía"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/disciplina_jefe_energía" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Disciplina, jefe, energía" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Disciplina jefe energía" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 ¿Qué haremos de nuestra pequeña hermana que no tiene pechos? —se preguntan los pastores del Cantar de los Cantares. ¿Qué haremos del partido liberal que no tiene disciplina ni jefe? —nos preguntamos muchos españoles, rabadanes de vagos ensueños étnicos, que en horas de melancolía y arrastrados por el deber solemos llevar al abrevadero político los rebaños cándidos de nuestras esperanzas.
 

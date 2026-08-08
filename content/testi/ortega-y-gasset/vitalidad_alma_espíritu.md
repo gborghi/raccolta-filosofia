@@ -1,5 +1,5 @@
 ---
-title: "Vitalidad, alma, espíritu"
+title: "Vitalidad alma espíritu"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/vitalidad_alma_espíritu" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Vitalidad, alma, espíritu" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Vitalidad alma espíritu" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 

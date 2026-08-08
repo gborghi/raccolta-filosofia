@@ -3,7 +3,6 @@ title: "DISCOURS DE LA MÉTHODE"
 philosopher: "Descartes"
 lang: "fr"
 edizione: "Arvensa Editions"
-anno_edizione: 2015
 pd_year: 1900
 kind: "work"
 tags:
@@ -14,7 +13,7 @@ tags:
 > [!abstract]
 > The autobiographical manifesto of the Cartesian method: four rules for rightly conducting reason, a provisional doubt culminating in the cogito, a proof of God's existence, and the distinction between the thinking human being and the animal-machine. In a few pages it lays out the programme of Descartes's entire philosophy.
 
-<p class="work-source">Testo originale francese · Arvensa Editions, 2015 · pubblico dominio</p>
+<p class="work-source">Testo originale francese · Arvensa Editions · pubblico dominio</p>
 
 <div class="atom-reader" data-work="testi/descartes/discours_de_la_méthode" data-philosopher="Descartes"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: "Del conflicto actual.— Una carta y un comentario de José Ortega y Gasset"
+title: "Del conflicto actual Una carta y un comentario de José Ortega y Gasset"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/del_conflicto_actual_una_carta_y_un_comentario_de_josé_ortega_y_gasset" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Del conflicto actual.— Una carta y un comentario de José Ortega y Gasset" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Del conflicto actual Una carta y un comentario de José Ortega y Gasset" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Señor don Manuel Aznar.
 

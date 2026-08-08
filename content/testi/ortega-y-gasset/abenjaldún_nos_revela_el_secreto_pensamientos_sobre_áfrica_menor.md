@@ -1,5 +1,5 @@
 ---
-title: "Abenjaldún nos revela el secreto (pensamientos sobre África Menor)"
+title: "Abenjaldún nos revela el secreto pensamientos sobre África Menor"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/abenjaldún_nos_revela_el_secreto_pensamientos_sobre_áfrica_menor" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Abenjaldún nos revela el secreto (pensamientos sobre África Menor)" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Abenjaldún nos revela el secreto pensamientos sobre África Menor" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 

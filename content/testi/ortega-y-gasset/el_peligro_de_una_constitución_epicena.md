@@ -1,5 +1,5 @@
 ---
-title: "[El peligro de una Constitución epicena]"
+title: "El peligro de una Constitución epicena"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_peligro_de_una_constitución_epicena" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="[El peligro de una Constitución epicena]" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="El peligro de una Constitución epicena" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El señor Ortega y Gasset (don José): Señores diputados: No sé si es parlamentario lo que voy a hacer, y, por tanto, suplico la benevolencia de la Cámara.
 

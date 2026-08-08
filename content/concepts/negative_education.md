@@ -17,4 +17,4 @@ title: "educazione negativa"
 ## Opere (1)
 
 **Rousseau**
-- [ÉMILE ou de L’ÉDUCATION](/testi/rousseau/émile_ou_de_léducation)
+- [ÉMILE ou de LÉDUCATION](/testi/rousseau/émile_ou_de_léducation)

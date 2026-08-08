@@ -66,9 +66,9 @@ title: "sostanza"
 - [Función y substancia](/testi/ortega-y-gasset/función_y_substancia)
 - [La resurrección de la mónada](/testi/ortega-y-gasset/la_resurrección_de_la_mónada)
 - [Panteísmo](/testi/ortega-y-gasset/panteísmo)
-- [b) Ontología](/testi/ortega-y-gasset/b_ontología)
-- [c) Synecología](/testi/ortega-y-gasset/c_synecología)
-- [d) Eidolología](/testi/ortega-y-gasset/d_eidolología)
+- [b Ontología](/testi/ortega-y-gasset/b_ontología)
+- [c Synecología](/testi/ortega-y-gasset/c_synecología)
+- [d Eidolología](/testi/ortega-y-gasset/d_eidolología)
 
 **Plato**
 - [SOPHIST](/testi/plato/sophist)

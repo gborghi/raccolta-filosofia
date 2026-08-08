@@ -1,5 +1,5 @@
 ---
-title: "España y Europa.— Eugenia de Montijo"
+title: "España y Europa Eugenia de Montijo"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/españa_y_europa_eugenia_de_montijo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="España y Europa.— Eugenia de Montijo" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="España y Europa Eugenia de Montijo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Ha muerto Eugenia de Montijo. He aquí una excelente ocasión para no hablar de política. Se dirá que Eugenia de Montijo fue Emperatriz de Francia, y, por lo tanto, su persona pertenece a la historia política. Es verdad; pero con la misma razón podemos decir que esta dama granadina conquistó a Francia en la persona del Emperador, y, por tanto, el pueblo francés pertenece a la historia sentimental de un corazón de española. Dejemos, pues, la política: aunque sea la de un Imperio, no representa en la vida de una mujer sino un ornamento en torno a su gracia y un atractivo más de su feminidad.
 
