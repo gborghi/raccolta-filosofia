@@ -26,7 +26,7 @@ data/ortega_corrupted.json
 # DS generico (Plato/Aristotle/...) + output rigenerabili del preprocess.
 data/ds_batches/
 data/ds_translate_cache_*.jsonl
-data/atom_search.json.gz
+# data/atom_search.json.gz — committed (needed by Cloudflare build for search shards)
 run_logs/
 # Indice search TF-IDF: intermedio di build, rigenerabile, non pubblicato.
 data/search-full-index.json

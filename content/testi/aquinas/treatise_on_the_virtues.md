@@ -25,6 +25,10 @@ tags:
 TREATISE ON HABITS IN PARTICULAR (QQ[55]-89) GOOD HABITS,
 i.e. VIRTUES (QQ[55]-70)
 
+<span class="qlang-split" data-lang="it"></span>
+
+Trattato sugli abiti in particolare (QQ[55]-89): buoni abiti, cioè virtù (QQ[55]-70).
+
 <span class="atom-split" data-atom="002" data-title="OF THE VIRTUES, AS TO THEIR ESSENCE (FOUR ARTICLES)" data-chapter="OF THE VIRTUES, AS TO THEIR ESSENCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We come now to the consideration of habits specifically. And since habits, as we have said
@@ -38,6 +42,15 @@ Under the first head, there are four points of inquiry:
 (2) Whether it is an operative habit?
 (3) Whether it is a good habit?
 (4) Of the definition of virtue.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora passiamo all’esame specifico delle abitudini. E poiché, come abbiamo detto (Q[54], A[3]), le abitudini si dividono in buone e cattive, dobbiamo innanzitutto parlare delle buone abitudini, che sono virtù, nonché di altre cose ad esse collegate, ovvero dei Doni, delle Beatitudini e dei Frutti; in secondo luogo, delle cattive abitudini, vale a dire dei vizi e dei peccati. Riguardo alle virtù, occorre considerare cinque aspetti: (1) l’essenza della virtù; (2) il suo soggetto; (3) la divisione delle virtù; (4) la causa della virtù; (5) alcune proprietà specifiche della virtù.  
+All’interno di questo primo ambito, vi sono quattro punti da esaminare:  
+(1) Se la virtù umana sia un’[abitudine](/concepts/custom);  
+(2) Se si tratti di un’abitudine operativa;  
+(3) Se sia una buona abitudine;  
+(4) La definizione stessa della virtù.
 
 <span class="atom-split" data-atom="003" data-title="Whether human virtue is a habit?" data-chapter="Whether human virtue is a habit?" data-kind="atom" data-srclang="en"></span>
 
@@ -98,6 +111,32 @@ end to which virtue is ordered: because in us love is set in order by virtue.
 Reply to Objection 5: Natural powers are of themselves determinate to one act: not so the
 rational powers. And so there is no comparison, as we have said.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la virtù umana non sia una [abitudine](/concepts/custom): infatti, la virtù è “il limite del potere” (De Coelo i, testo 116). Ma il limite di qualsiasi cosa può essere ricondotto al genere di ciò da cui deriva; ad esempio, un punto può essere considerato appartenente al genere della linea. Pertanto, la virtù dovrebbe essere ricondotta al genere del potere, e non a quello dell’abitudine.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (De Lib. Arb. ii) [*Retract. ix; cfr. De Lib. Arb. ii, 19] che “la virtù è un buon uso della libertà volontaria”. Ma l’uso della libertà volontaria è un atto. Pertanto, la virtù non è un’abitudine, ma un atto.
+
+Obiezione 3: Inoltre, non meritiamo nulla in base alle nostre abitudini, ma in base alle nostre azioni; altrimenti un uomo meriterebbe continuamente, anche mentre dorme. Ma noi meritiamo qualcosa grazie alle nostre virtù. Pertanto, le virtù non sono abitudini, ma azioni.
+
+Obiezione 4: Inoltre, Agostino afferma (De Moribus Ecclesiae, XV) che “la virtù è l’ordine dell’amore”, e (QQ. lxxxiii, qu. 30) che “quell’ordinamento chiamato virtù consiste nel godere di ciò che dobbiamo godere e nell’utilizzare ciò che dobbiamo utilizzare”. Ora, “ordine” può riferirsi sia a un’azione che a una relazione. Pertanto, la virtù non è un’abitudine, ma un’azione o una relazione.
+
+Obiezione 5: Inoltre, proprio come esistono virtù umane, esistono anche virtù naturali. Ma le virtù naturali non sono abitudini, bensì capacità innate. Pertanto, nemmeno le virtù umane sono abitudini.
+
+Al contrario, il Filosofo afferma (in “Categorie”, VI) che scienza e virtù sono abitudini.
+
+Rispondo che la Virtù indica una certa perfezione di un potere. Ora, la perfezione di una cosa viene considerata principalmente in relazione al suo fine; ma il fine di un potere è l’atto. Pertanto, si dice che un potere sia perfetto nella misura in cui è determinato ad agire. Esistono alcuni poteri che, di per sé, sono già direzionati verso specifici atti; ad esempio, i poteri naturali attivi. Per questo motivo, tali poteri naturali vengono considerati virtù in sé stessi. Tuttavia, i poteri razionali, propri dell’uomo, non sono direzionati verso un atto particolare, ma tendono indifferenziatamente verso molti atti; essi vengono determinati ad agire attraverso le abitudini, come è chiaro da quanto abbiamo detto in precedenza (Q[49], A[4]). Pertanto, le virtù umane sono abitudini.
+
+Risposta all’Obiezione 1: A volte attribuiamo il nome di “virtù” a ciò verso cui essa è diretta, cioè o al suo oggetto o all’atto che compie; ad esempio, chiamiamo “fede” ciò in cui crediamo, l’atto stesso di credere, nonché l’abitudine attraverso la quale crediamo. Quando quindi affermiamo che “la virtù è il limite del potere”, intendiamo con “virtù” l’oggetto verso cui tale potere è diretto. Il punto più estremo fino al quale un potere può arrivare viene infatti definito “virtù” di quel potere; ad esempio, se una persona è in grado di sollevare cento libbre e nient’altro, la sua “forza” è limitata a cento libbre, e non a sessanta. Tuttavia, l’obiezione considera la virtù essenzialmente come il limite del potere stesso.
+
+Risposta all’Obiezione 2: Si dice che un buon uso della libertà volontaria sia una virtù, nello stesso senso indicato sopra (ad 1); in altre parole, perché è proprio questo l’atto verso cui la virtù è diretta come al suo atto propriamente detto. Infatti, l’atto di virtù non è altro che un buon uso della libertà volontaria.
+
+Risposta all’Obiezione 3: Si dice che noi meritiamo qualcosa in due modi. Primo, in quanto tale merito; proprio come si dice che corriamo perché corriamo; e quindi meritiamo attraverso le nostre azioni. Secondo, si dice che meritiamo qualcosa grazie al principio su cui quel merito si fonda, così come si dice che corriamo grazie alla forza motrice che ci spinge a farlo; e quindi meritiamo attraverso le virtù e gli abiti che possediamo.
+
+Risposta all’Obiezione 4: Quando affermiamo che la virtù sia l’ordine o l’organizzazione dell’amore, ci riferiamo allo scopo verso cui l’amore è orientato; infatti, in noi stesso, l’amore viene ordinato dalla virtù.
+
+Risposta all’Obiezione 5: Le facoltà naturali, per loro stesse, sono destinate a compiere un solo atto; le facoltà razionali, invece, non lo sono. Pertanto, non esiste alcuna analogia tra di esse, come abbiamo già detto.
+
 <span class="atom-split" data-atom="004" data-title="Whether human virtue is an operative habit?" data-chapter="Whether human virtue is an operative habit?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not essential to human virtue to be an operative [habit](/concepts/custom). For
@@ -152,6 +191,24 @@ respect of some operation. Wherefore, as we have said above (Q[3], A[2]), happin
 which man is made most perfectly conformed to God, and which is the end of human life, consists
 in an operation.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia essenziale per la virtù umana essere un’abitudine efficace e operativa. Infatti Tullio afferma (Tusculane, iv) che, così come la salute e la [bellezza](/concepts/beauty) appartengono al corpo, così anche la virtù appartiene all’anima. Ma la salute e la bellezza non sono abitudini efficaci; pertanto lo è neanche la virtù.
+
+Obiezione 2: Inoltre, nelle cose naturali troviamo la virtù non solo in relazione all’atto, ma anche in relazione all’esistenza stessa: come è chiaro nel “De Coelo” del Filosofo, poiché alcune cose hanno una virtù che le caratterizza nell’essere sempre tali, mentre altre hanno una virtù che le caratterizza nell’essere talvolta e non sempre. Poiché la virtù naturale esiste nelle cose naturali, allo stesso modo la virtù umana esiste negli esseri razionali. Pertanto anche la virtù umana si riferisce non solo all’atto, ma anche all’esistenza stessa.
+
+Obiezione 3: Inoltre, il Filosofo afferma (Phys. vii, testo 17) che la virtù “è la disposizione di una cosa perfetta verso ciò che è migliore”. Ora, ciò che è migliore e verso cui l’uomo deve essere disposto attraverso la virtù è Dio stesso, come dimostra [Agostino](/figures/augustine) (De Moribus Eccl. 3,6,14): l’anima, infatti, viene resa simile a Lui attraverso la virtù. Pertanto, sembra che la virtù sia una qualità dell’anima in relazione a Dio, come se l’anima venisse “assimilata” a Lui; e non in relazione alle azioni o alle operazioni umane. Quindi, la virtù non è un’abitudine pratica, cioè un comportamento concreto che si manifesta nell’agire.
+
+Al contrario, il Filosofo (Etica, ii, 6) afferma che “la virtù di una cosa è ciò che rende il suo operare buono”.
+
+Rispondo che la Virtù, per la stessa natura del termine, implica una sorta di perfezione nel potere, come abbiamo detto in precedenza (A[1]). Poiché il potere – il termine latino “potentia” viene tradotto con “[potenzialità](/concepts/act_potency)” nel primo caso e con “potere” nel secondo – è di due tipi: il potere in relazione all’essere e il potere in relazione all’agire; la perfezione di ciascuno di questi tipi viene chiamata virtù. Il potere in relazione all’essere riguarda la materia, che è un essere potenziale, mentre il potere in relazione all’agire riguarda la forma, che è il principio dell’azione, poiché tutto agisce nella misura in cui è attivo. L’uomo è costituito in modo tale che il corpo rappresenti la materia e l’anima la forma: il corpo, infatti, è comune a tutti gli animali; lo stesso vale per le forze che sono comuni sia all’anima che al corpo; soltanto quelle forze specifiche dell’anima, cioè le facoltà razionali, appartengono esclusivamente all’uomo. Pertanto, la virtù umana, di cui stiamo parlando ora, non può appartenere al corpo, ma soltanto a ciò che è proprio dell’anima. Quindi, la virtù umana non riguarda l’essere, ma piuttosto l’agire; ne consegue che sia essenziale per essa essere un’abitudine operativa.
+
+Risposta all’Obiezione 1: Il modo d’agire deriva dalla disposizione dell’agente; poiché una cosa è ciò che è, anche il suo atto sarà conseguentemente tale. Pertanto, poiché la virtù rappresenta il principio di un certo tipo di azione, deve necessariamente esistere già in chi agisce una corrispondente disposizione interiore. La virtù infatti determina un’azione ordinata; quindi essa stessa è una disposizione ordinata dell’anima, nel senso che le sue facoltà sono in qualche modo organizzate tra loro e rispetto a ciò che esiste all’esterno di essa. Così, la virtù, in quanto disposizione adeguata dell’anima, è simile alla salute e alla bellezza, che sono disposizioni appropriate del corpo. Tuttavia, questo non impedisce affatto alla virtù di essere considerata un principio effettivo dell’azione.
+
+Risposta all’Obiezione 2: La virtù che viene considerata in relazione all’essere non è propria dell’uomo; ma soltanto quella virtù che riguarda le opere della ragione, e che invece è propria dell’uomo.
+
+Risposta all’Obiezione 3: Poiché la sostanza di Dio è il Suo stesso atto, l’aspetto più simile dell’uomo a Dio si riscontra in alcune delle Sue operazioni. Pertanto, come abbiamo detto sopra (Q[3], A[2]), la felicità o la beatitudine, grazie alle quali l’uomo raggiunge il massimo grado di conformità a Dio e che costituiscono lo scopo della vita umana, consistono appunto in tali operazioni.
+
 <span class="atom-split" data-atom="005" data-title="Whether human virtue is a good habit?" data-chapter="Whether human virtue is a good habit?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not essential to virtue that it should be a good [habit](/concepts/custom). For
@@ -192,6 +249,24 @@ Reply to Objection 3: Reason is shown to be so much the more perfect, according 
 to overcome or endure more easily the weakness of the body and of the lower powers. And therefore
 human virtue, which is attributed to reason, is said to be "made perfect in infirmity," not of the
 reason indeed, but of the body and of the lower powers.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non sia essenziale per la virtù che essa sia un buon [habito](/concepts/custom). Infatti, il peccato è sempre inteso in senso negativo. Tuttavia esiste anche una “virtù” nel peccato; secondo 1 Corinzi 15:56: “La ‘forza’ del peccato è la Legge”. Pertanto, la virtù non è sempre un buon habito.
+
+Obiezione 2: Inoltre, la virtù corrisponde al potere. Ma il potere non si riferisce soltanto al bene, ma anche al male: secondo Isaia 5: “Guai a voi che siete forti nel bere vino e robusti nell’ubriachezza”. Pertanto, anche la virtù si riferisce sia al bene che al male.
+
+Obiezione 3: Inoltre, secondo l’Apostolo (2 Corinzi 12:9): “La virtù [Douay: ‘forza’] diventa perfetta nell’indebolimento.” Ma l’indebolimento è un male. Pertanto, la virtù si riferisce non solo al bene, ma anche al male.
+
+Al contrario, [Agostino](/figures/augustine) afferma (De Moribus Ecclesiae vi): “Nessuno può dubitare che la virtù renda l’anima estremamente buona”; e il Filosofo dice (Etica ii, 6): “La virtù è ciò che rende colui che la possiede buono, e anche le sue azioni buone”.
+
+Rispondo che, come abbiamo detto sopra (A[1]), la virtù implica una perfezione del potere; pertanto, la virtù di una cosa è determinata dal limite del suo potere (De Coelo i). Ora, il limite di qualsiasi potere deve necessariamente essere considerato qualcosa di buono, poiché tutto ciò che è male implica un difetto; per questo motivo Dionigi afferma (Div. Hom. ii) che ogni male rappresenta una debolezza. E proprio per questa ragione la virtù di una cosa deve essere considerata in relazione al bene. Quindi, la virtù umana, essendo un’abitudine operativa, è un’abitudine buona, capace di produrre opere buone.
+
+Risposta all’Obiezione 1: Proprio come le cose negative vengono paragonate metaforicamente a qualcosa di perfetto, allo stesso modo vengono definite positive; infatti parliamo di un “ladro perfetto” o di un “assalitore perfetto”, così come spiega il Filosofo (Metafisica V, testo 21). In questo modo, dunque, la nozione di “virtù” viene applicata anche alle cose negative: si dice che il “peccato possieda una sorta di ‘virtù’”, nel senso che talvolta il peccato viene esacerbato dallo stesso principio che dovrebbe limitarlo, raggiungendo così il limite della sua stessa possibilità.
+
+Risposta all’Obiezione 2: Il male dell’ubriachezza e del consumo eccessivo di alcol consiste in un’allontanamento dall’ordine della ragione. Ora, accade che, insieme a questo allontanamento dalla ragione, alcuna forza inferiore sia “perfetta” nel senso di essere adeguata alle proprie caratteristiche specifiche, anche se ciò avviene in diretta opposizione alla ragione o in concomitanza con un suo declino. Tuttavia, questa “perfezione” di tale forza, poiché è compatibile con un’allontanamento dalla ragione, non può essere definita una virtù umana.
+
+Risposta all’Obiezione 3: Si dimostra che la ragione è tanto più perfetta quanto più è in grado di superare o sopportare facilmente le debolezze del corpo e delle facoltà inferiori. Pertanto, la virtù umana, attribuita alla ragione, viene definita “perfezionata nell’infirmità”, non della ragione stessa, ma del corpo e delle facoltà inferiori.
 
 <span class="atom-split" data-atom="006" data-title="Whether virtue is suitably defined?" data-chapter="Whether virtue is suitably defined?" data-kind="atom" data-srclang="en"></span>
 
@@ -283,6 +358,37 @@ but not without our consent. This is the sense of the words, "which God works in
 As to those things which are done by us, God causes them in us, yet not without action on our part,
 for He works in every will and in every nature.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la definizione di virtù comunemente data non sia appropriata, e cioè:  
+“La virtù è una buona qualità dell’animo grazie alla quale viviamo rettamente; nessuno può farne un uso malvagio; Dio la opera in noi senza il nostro intervento.” Poiché la virtù rappresenta la bontà umana, ed è proprio essa a rendere l’uomo buono. Tuttavia, la bontà stessa non sembra essere “buona” in senso assoluto, così come la bianchezza non è “bianca” in sé. Pertanto, descrivere la virtù come una “buona qualità” risulta inappropriato.
+
+Obiezione 2: Inoltre, nessuna differenza è più comune del suo genere; poiché è proprio essa a dividere il genere stesso. Ma il “bene” è più comune della qualità, poiché può essere identificato con l’essere stesso. Pertanto, il “bene” non dovrebbe essere incluso nella definizione della virtù come una differenza di natura qualitativa.
+
+Obiezione 3: Inoltre, come afferma [Agostino](/figures/augustine) (De Trinitate xii, 3): “Quando ci imbattiamo in qualcosa che non è comune né a noi né agli animali selvatici, si tratta di qualcosa che appartiene alla mente”. Tuttavia esistono anche virtù legate alle parti irrazionali dell’essere umano; come dice il Filosofo (Etica iii, 10). Pertanto, non tutte le virtù sono qualità “della mente”.
+
+Obiezione 4: Inoltre, la rettitudine sembra appartenere alla giustizia; da ciò i giusti vengono chiamati “giusti”. Ma la giustizia è una specie di virtù. Pertanto non è appropriato includere il termine “rettitudine” nella definizione di virtù, quando affermiamo che la virtù è ciò “con mezzo del quale viviamo rettamente”.
+
+Obiezione 5: Inoltre, chiunque sia orgoglioso di qualcosa ne fa cattivo uso. Ma molti sono orgogliosi della virtù, poiché Agostino afferma nella sua “Regola” che “l’orgoglio attende le buone azioni per distruggerle”. Pertanto, non è vero che “nessuno possa fare cattivo uso della virtù”.
+
+Obiezione 6: Inoltre, l’uomo viene giustificato per virtù. Ma Agostino, commentando Giovanni 15:11 (“Farà cose ancora maggiori di queste”), afferma nel *Trattato xxvii su Giovanni: Sermone XV sul Verbo nell’Apocalisse*: “Colui che ti ha creato senza di te, non ti giustificherà senza di te”. Pertanto, non è appropriato dire che “Dio opera la virtù in noi, senza di noi”.
+
+Al contrario, disponiamo dell’autorità di Agostino, dalle cui parole questa definizione è tratta, in particolare nel “De Libero Arbitrio” II, 19.
+
+Rispondo che questa definizione comprende perfettamente l’intera nozione essenziale della virtù. Infatti, la nozione essenziale perfetta di qualsiasi cosa deriva da tutte le sue cause. Ora, la definizione sopra menzionata include tutte le cause della virtù: la [causa formale](/concepts/four_causes) della virtù, come di ogni altra cosa, si ricava dal suo genere e dalla sua differenza, quando essa viene definita “una buona qualità”; infatti, “qualità” è il genere della virtù, mentre la differenza è “buono”. Tuttavia, la definizione sarebbe ancora più appropriata se al posto di “qualità” si utilizzasse “[abitudine](/concepts/custom)”, che ne rappresenta il genere immediato. La virtù non possiede una materia “da cui derivi”, così come nessun altro accidente; ma possiede una materia “su cui si esercita” e una materia “in cui si realizza”, ovvero il soggetto su cui essa agisce. La materia su cui la virtù si esercita è il suo oggetto, e questo non potrebbe essere incluso nella definizione sopra menzionata, poiché l’oggetto determina la virtù entro una specifica specie, mentre qui stiamo dando una definizione generale della virtù. Quanto alla causa materiale, essa è rappresentata dal soggetto, come indicato quando si dice che la virtù è una “buona qualità dell’animo”. Lo scopo finale della virtù, essendo un’abitudine operativa, è l’azione stessa; tuttavia va osservato che alcune abitudini operative sono sempre associate al male, come quelle viziose; altre invece possono essere volte sia al bene che al male; ad esempio, l’opinione può riguardare sia il vero che il falso, mentre la virtù è un’abitudine che è sempre orientata verso il bene. Pertanto, la distinzione tra la virtù e queste abitudini volte alternativamente al bene e al male si esprime nelle parole “con cui viviamo rettamente”; inoltre, la differenza tra la virtù e quelle abitudini che a volte portano al bene e a volte al male si esprime nelle parole “di cui nessuno fa cattivo uso”. Infine, Dio è la causa efficiente della virtù infusa, e questa definizione si applica proprio a tale tipo di virtù; ciò viene espresso nelle parole “che Dio opera in noi senza di noi”. Se omettiamo questa frase, il resto della definizione si applicherà a tutte le virtù in generale, sia quelle acquisite che quelle infuse.
+
+Risposta all’Obiezione 1: Ciò che viene per primo percepito dall’intelletto è l’essere; pertanto tutto ciò che comprendiamo lo consideriamo essere, e di conseguenza come qualcosa che esiste, o che è buono – concetti che sono convertibili con il concetto stesso di essere. Per questo diciamo che l’essenza è essere, è unica ed è buona; allo stesso modo, anche l’unità e la bontà vengono considerate aspetti dell’essere. Tuttavia, ciò non vale per le forme specifiche, come la bianchezza o la salute: infatti, nulla di ciò che comprendiamo viene percepito attraverso il concetto di “bianco” o “sano”. Dobbiamo comunque osservare che, così come gli accidenti e le forme non sostanziali vengono chiamati “esseri”, non perché essi stessi abbiano un’essenza propria, ma perché grazie a loro alcune cose diventano esse; allo stesso modo, vengono definiti “buoni” o “unici”, non per una qualche bontà o unità intrinseca, ma perché grazie a loro qualcosa diventa buono o unico. Anche la virtù viene chiamata “buona”, perché grazie a essa qualcosa diventa buono.
+
+Risposta all’Obiezione 2: Il bene, inteso nel senso in cui viene definito nella virtù, non è semplicemente il bene in generale, cioè ciò che può essere identificato con l’essere stesso e che ha un ambito più ampio delle qualità; piuttosto, si tratta del bene determinato dalla ragione, riguardo al quale Dionisio afferma (Div. Nom. iv) “che il bene dell’anima consiste nel essere in armonia con la ragione”.
+
+Risposta all’Obiezione 3: La virtù non può trovarsi nella parte irrazionale dell’anima, se non nella misura in cui questa parte partecipa alla ragione (Etica, i, 13). Pertanto, la ragione, o l’intelletto, è il soggetto proprio della virtù.
+
+Risposta all’Obiezione 4: La giustizia possiede una sua specifica rettitudine grazie alla quale rende corrette quelle cose esterne che vengono utilizzate dall’uomo e costituiscono l’oggetto proprio della giustizia, come mostreremo ulteriormente (Q[60], A[2]; SS, Q[58], A[8]). Tuttavia, la rettitudine che rappresenta l’ordine necessario per raggiungere un fine appropriato e per conformarsi alla [Legge divina](/concepts/divine_law), ovvero alla regola che guida la volontà umana, come già detto in precedenza (Q[19], A[4]), è comune a tutte le virtù.
+
+Risposta all’Obiezione 5: È possibile utilizzare in modo errato una virtù a livello oggettivo, ad esempio nutrendo pensieri negativi su di essa – come odiarla o esserne orgogliosi – ma non è possibile utilizzare una virtù come principio guida delle proprie azioni al punto che un atto basato su quella virtù diventi malvagio.
+
+Risposta all’Obiezione 6: La virtù infusa in noi è opera di Dio senza alcuna nostra azione, ma non senza il nostro consenso. Questo è il significato delle parole “che Dio opera in noi senza di noi”. Per quanto riguarda quelle cose che compiamo noi stessi, Dio le fa avvenire in noi, tuttavia non senza la nostra partecipazione, poiché Egli agisce in ogni volontà e in ogni natura umana.
+
 <span class="atom-split" data-atom="007" data-title="OF THE SUBJECT OF VIRTUE (SIX ARTICLES)" data-chapter="OF THE SUBJECT OF VIRTUE (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now have to consider the subject of virtue, about which there are six points of inquiry:
@@ -292,6 +398,16 @@ We now have to consider the subject of virtue, about which there are six points 
 (4) Whether the irascible and concupiscible faculties can be the subject of virtue?
 (5) Whether the sensitive powers of apprehension can be the subject of virtue?
 (6) Whether the will can be the subject of virtue?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora dobbiamo considerare il tema della virtù, su cui esistono sei punti di indagine:  
+(1) Se l’oggetto della virtù sia una facoltà dell’anima;  
+(2) Se una stessa virtù possa risiedere in diverse facoltà dell’anima;  
+(3) Se l’intelletto possa essere considerato oggetto di virtù;  
+(4) Se le facoltà irascibile e concupiscibile possano essere oggetto di virtù;  
+(5) Se le facoltà sensitive di comprensione possano essere oggetto di virtù;  
+(6) Se la volontà possa essere considerata oggetto di virtù.
 
 <span class="atom-split" data-atom="008" data-title="Whether the subject of virtue is a power of the soul?" data-chapter="Whether the subject of virtue is a power of the soul?" data-kind="atom" data-srclang="en"></span>
 
@@ -335,6 +451,24 @@ accident could uphold another; but because one accident inheres to substance by 
 as color to the body by means of the surface; so that surface is said to be the subject of color. In
 this way a power of the soul is said to be the subject of virtue.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’oggetto della virtù non sia una facoltà dell’anima. Infatti, [Agostino](/figures/augustine) afferma (De Lib. Arb. ii, 19) che “la virtù è ciò mediante il quale viviamo rettamente”. Ma viviamo grazie all’essenza stessa dell’anima, e non attraverso una sua facoltà particolare. Pertanto, la virtù non è una facoltà, bensì appartiene all’essenza stessa dell’anima.
+
+Obiezione 2: Inoltre, il Filosofo afferma (Etica ii, 6) che “la virtù è ciò che rende buono colui che la possiede, e anche le sue azioni”. Ma poiché le azioni sono realizzate attraverso il potere, anche colui che possiede una virtù è determinato dall’essenza dell’anima. Pertanto, la virtù non appartiene né al potere né all’essenza dell’anima.
+
+Obiezione 3: Inoltre, il potere appartiene alla seconda specie di qualità. Ma la virtù è una qualità, come abbiamo detto sopra (Q[55], A[4]); e una qualità non può essere soggetto di un’altra qualità. Pertanto, un potere dell’anima non può essere considerato soggetto di virtù.
+
+Al contrario, “La virtù è il limite del potere” (De Coelo ii). Ma tale limite risiede nella stessa cosa di cui essa costituisce il limite. Pertanto, la virtù appartiene a un certo potere dell’anima.
+
+Rispondo che si può dimostrare in tre modi che la virtù appartiene a una facoltà dell’anima. Primo, dalla stessa nozione di essenza della virtù, che implica la perfezione di tale facoltà; infatti, la perfezione risiede in ciò che essa rende perfetto. Secondo, dal fatto che la virtù è un’abitudine operativa, come abbiamo detto sopra (Q[55], A[2]); tutte le azioni, infatti, derivano dall’anima attraverso una determinata facoltà. Terzo, dal fatto che la virtù ci dispone verso ciò che è migliore; il meglio, infatti, rappresenta lo scopo finale di qualsiasi azione o attività, sia essa un’operazione concreta dell’anima sia qualcosa che ne deriva attraverso tale operazione. Pertanto, una facoltà dell’anima è senz’altro il soggetto della virtù.
+
+Risposta all’Obiezione 1: “Vivere” può essere inteso in due modi. A volte si intende con esso l’esistenza stessa dell’essere vivente; in questo senso, il concetto di “vivere” appartiene all’essenza dell’anima, che è il principio dell’esistenza nell’essere vivente. Ma altre volte “vivere” si intende come l’attività svolta dall’essere vivente; in questo senso, viviamo rettamente attraverso le azioni virtuose che compiamo.
+
+Risposta all’Obiezione 2: Il bene è o lo scopo finale, oppure qualcosa che si riferisce a tale scopo. Pertanto, poiché il bene del lavoratore consiste nel lavoro stesso, anche il fatto che la virtù renda il lavoratore buono si riferisce al lavoro, e di conseguenza, alla capacità o alle abilità necessarie per svolgerlo efficacemente.
+
+Risposta all’Obiezione 3: Si dice che un accidente sia il soggetto di un altro, non nel senso che uno accidente possa sostenere o sostituire un altro; ma perché un accidente è connesso alla sostanza attraverso un altro accidente, così come il colore è legato al corpo attraverso la superficie; per questo motivo si dice che la superficie sia il soggetto del colore. Allo stesso modo, si dice che una capacità dell’anima sia il soggetto di una virtù.
+
 <span class="atom-split" data-atom="009" data-title="Whether one virtue can be in several powers?" data-chapter="Whether one virtue can be in several powers?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one virtue can be in several powers. For habits are known by
@@ -370,6 +504,24 @@ virtue works according to right reason. But moral virtue is essentially in the a
 
 Reply to Objection 3: Prudence is really subjected in reason: but it presupposes as its principle
 the rectitude of the will, as we shall see further on (A[3]; Q[57], A[4]).
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra possibile che una stessa virtù possa risiedere in diverse facoltà o potenze. Infatti, le abitudini si riconoscono dai loro atti, e un singolo atto può derivare da più potenze: ad esempio, camminare richiede l’intelligenza come guida, la volontà come motore e la forza motrice come strumento per agire. Pertanto, anche una stessa abitudine può essere attribuita a diverse facoltà o potenze.
+
+Obiezione 2: Inoltre, il Filosofo afferma (Etica ii, 4) che per la virtù siano necessarie tre cose: “conoscere, voler e agire con costanza”. Ma “conoscere” appartiene all’intelletto, mentre “voler” appartiene alla volontà. Pertanto, la virtù può risiedere in diverse facoltà umane.
+
+Obiezione 3: Inoltre, la prudenza risiede nella ragione, poiché essa rappresenta “la giusta motivazione per agire” (Etica, VI, 5). Esiste anche nella volontà, poiché non può coesistere con una volontà perversa (Etica, VI, 12). Pertanto, una virtù può risiedere in due diverse facoltà umane.
+
+Al contrario, l’oggetto della virtù è una facoltà dell’anima. Ma lo stesso attributo non può esistere in più soggetti diversi; pertanto, una stessa virtù non può risiedere in diverse facoltà dell’anima.
+
+Rispondo che ci sono due modi in cui una stessa cosa può essere considerata sotto due aspetti diversi. Primo, quando essa è presente in entrambi gli aspetti su un piano di parità; in questo caso è impossibile che una virtù appartenga a due poteri diversi: poiché la diversità dei poteri deriva dalle condizioni generali degli oggetti, mentre la diversità delle abitudini deriva dalle loro caratteristiche specifiche. Pertanto, dove c’è diversità di poteri, c’è anche diversità di abitudini; ma non il contrario. In secondo luogo, una stessa cosa può essere considerata sotto due o più aspetti diversi, non su un piano di parità, bensì in un certo ordine logico. Così, una virtù può appartenere a diversi poteri: essa è principalmente presente in uno di questi poteri, mentre si estende agli altri attraverso una sorta di diffusione o disposizione particolare, nel senso che un potere viene influenzato da un altro e ne riceve qualcosa.
+
+Risposta all’Obiezione 1: Un atto non può appartenere contemporaneamente e nella stessa misura a diverse facoltà o poteri; può invece essere considerato tale da diversi punti di vista e in gradi variabili.
+
+Risposta all’Obiezione 2: “Conoscere” è una condizione necessaria per la virtù morale, poiché la virtù morale si basa sul ragionamento corretto. Tuttavia, la virtù morale ha essenzialmente radici nell’appetito umano.
+
+Risposta all’Obiezione 3: La prudenza è effettivamente sottomessa alla ragione; tuttavia presuppone come suo principio la rettitudine della volontà, come vedremo più avanti (A[3]; Q[57], A[4]).
 
 <span class="atom-split" data-atom="010" data-title="Whether the intellect can be the subject of virtue?" data-chapter="Whether the intellect can be the subject of virtue?" data-kind="atom" data-srclang="en"></span>
 
@@ -440,6 +592,25 @@ the intellect, so to know truth is the good act of the intellect. Whence the hab
 intellect in regard to the knowledge of truth, whether speculative or practical, is a virtue.
 
 Reply to Objection 3: This objection considers virtue simply so called.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’intelletto non sia il soggetto della virtù. Infatti, [Agostino](/figures/augustine) afferma nel “De Moribus Ecclesiae” XV che tutta la virtù è amore. Ma il soggetto dell’amore non è l’intelletto, bensì soltanto la potenza appetitiva. Pertanto, nessuna virtù risiede nell’intelletto.
+
+Obiezione 2: Inoltre, la virtù viene definita “bene”, come è chiaro da quanto detto in precedenza (Q[55], A[3]). Ora, il bene non è l’oggetto dell’intelletto, ma della potenza appetitiva. Pertanto, l’oggetto della virtù non è l’intelletto, ma la potenza appetitiva.
+
+Obiezione 3: Inoltre, la virtù è ciò che “rende il suo possessore buono”, come afferma il Filosofo (Etica ii, 6). Ma l’[abitudine](/concepts/custom) che perfeziona l’intelletto non rende il suo possessore buono: infatti, un uomo non viene considerato un uomo buono in base alla sua scienza o alla sua arte. Pertanto, l’intelletto non è l’oggetto della virtù.
+
+Al contrario, l’intelletto è comunemente definito come la facoltà mentale principale. Tuttavia, l’oggetto della virtù è proprio l’intelletto, come risulta chiaramente dalla definizione di virtù fornita sopra (Q[55], A[4]). Pertanto, è l’intelletto ad essere l’oggetto della virtù.
+
+Rispondo che, come abbiamo detto sopra (Q[55], A[3]), la virtù è un’abitudine mediante la quale agiamo bene. Ora, un’abitudine può essere orientata verso un atto buono in due modi: innanzitutto, nel senso che tale abitudine conferisce all’uomo l’abilità di compiere quell’atto; ad esempio, l’abitudine alla grammatica permette a una persona di parlare correttamente. Tuttavia, la conoscenza della grammatica non garantisce che una persona parli sempre correttamente: un esperto di grammatica può comunque commettere errori di battitura o di sintassi; lo stesso vale per altre scienze e arti. In secondo luogo, un’abitudine può non solo conferire l’abilità di agire, ma anche il modo corretto per utilizzare tale abilità; ad esempio, la giustizia non solo induce una persona a voler compiere atti giusti, ma le permette anche di agire effettivamente in modo giusto. Poiché il bene, e allo stesso modo l’essere, vengono definiti di una cosa semplicemente in relazione a ciò che essa è realmente, e non a ciò che potenzialmente può essere, quindi possedere abitudini di questo tipo significa effettivamente compiere atti buoni ed essere persone buone; ad esempio, perché si è giusti o temperanti. E poiché la virtù è ciò che rende il suo possessore buono e le sue azioni buone, queste abitudini vengono chiamate semplicemente virtù, poiché rendono effettivamente le azioni buone e il soggetto stesso buono. Ma il primo tipo di abitudini non viene chiamato semplicemente virtù, poiché non rende le azioni buone se non in relazione a un’abilità specifica, né rende il loro possessore buono in modo assoluto. Infatti, essere esperti in una scienza o in un’arte significa essere buoni in modo relativo, non assoluto; ad esempio, un bravo grammatico o un abile fabbro. Per questo motivo, a volte le scienze e le arti vengono considerate contrarie alle virtù; altre volte, invece, vengono chiamate stesse virtù (Etica, VI, 2). Pertanto, il soggetto di un’abitudine che viene chiamata virtù in senso relativo può essere l’intelletto, non solo l’intelletto pratico, ma anche quello speculativo, senza alcun riferimento alla volontà; infatti, come afferma il Filosofo (Etica, VI, 3), la scienza, la saggezza, la comprensione e anche l’arte sono virtù intellettuali. Ma il soggetto di un’abitudine che viene chiamata virtù in senso assoluto può essere soltanto la volontà, o qualche altra facoltà umana che sia mossa dalla volontà. La ragione di ciò è che la volontà muove tutte le altre facoltà razionali; quindi, se una persona agisce effettivamente in modo buono, è perché possiede una volontà buona. Pertanto, la virtù che rende una persona capace di agire effettivamente in modo buono, e non semplicemente di avere l’abilità di farlo, deve trovarsi nella volontà stessa o in qualche altra facoltà mossa dalla volontà. Ora, si verifica che anche l’intelletto è mosso dalla volontà, così come le altre facoltà umane; infatti, una persona considera qualcosa effettivamente perché vuole farlo. Pertanto, l’intelletto, in quanto sottoposto alla volontà, può essere il soggetto di quelle virtù chiamate “virtù assolute”. In questo senso, l’intelletto speculativo è il soggetto della fede, poiché l’intelletto viene mosso dai comandi della volontà.
+Del desiderio di aderire a ciò che è oggetto della fede: infatti “nessuno crede, se non lo vuole” [*Agostino: Trattato xxvi su Giovanni*]. Ma l’intelletto pratico è il soggetto della prudenza. Poiché la prudenza rappresenta la ragione corretta per agire in modo appropriato, è necessario che l’uomo sia giustamente disposto nei confronti dei principi su cui si fonda questa ragione, cioè nei confronti degli scopi che essa mira a realizzare; tale disposizione viene data dall’integrità della volontà, proprio come la comprensione dei principi della verità speculativa deriva dalla luce naturale dell’intelletto attivo. Pertanto, così come il soggetto della scienza – che è l’intelletto speculativo nel suo rapporto con l’intelletto attivo – è l’intelletto speculativo stesso, allo stesso modo il soggetto della prudenza è l’intelletto pratico nel suo rapporto con la volontà retta.
+
+Risposta all’Obiezione 1: L’affermazione di Agostino va intesa riferendosi alla virtù nel senso più stretto del termine: non si intende che ogni virtù sia essenzialmente amore, ma che essa dipenda in qualche modo dall’amore, nella misura in cui dipende dalla volontà, la cui prima manifestazione è proprio l’amore, come abbiamo già detto sopra (Q[25], AA[1], 2, 3; Q[27], A[4]; FP, Q[20], A[1]).
+
+Risposta all’Obiezione 2: Il bene di ogni cosa è il suo fine; pertanto, poiché la verità è il fine dell’intelletto, conoscere la verità rappresenta l’atto virtuoso dell’intelletto stesso. Di conseguenza, l’abitudine che perfeziona l’intelletto nel conoscere la verità, sia essa speculativa che pratica, è considerata una virtù.
+
+Risposta all’Obiezione 3: Questa obiezione considera la virtù nel suo significato più semplice, ovvero quello comunemente inteso.
 
 <span class="atom-split" data-atom="011" data-title="Whether the irascible and concupiscible powers are the subject of virtue?" data-chapter="Whether the irascible and concupiscible powers are the subject of virtue?" data-kind="atom" data-srclang="en"></span>
 
@@ -518,6 +689,28 @@ intention of the end in regard to the passions of the soul, is due to the good d
 powers. And therefore those moral virtues which are concerned with the passions are in the irascible
 and concupiscible powers, but prudence is in the reason.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le facoltà irascibile e concupiscente non possano essere oggetto di virtù. Infatti queste facoltà sono comuni sia a noi che agli animali privi di ragione. Ma ora stiamo parlando di virtù come qualcosa che è specificamente propria dell’uomo, proprio per questo motivo viene chiamata “virtù umana”. Pertanto è impossibile che la virtù umana risieda nelle facoltà irascibile e concupiscente, che fanno parte dell’appetito sensibile, come abbiamo detto nel FP, Q[81], A[2].
+
+Obiezione 2: Inoltre, l’appetito sensibile è una facoltà che utilizza un organo corporeo. Ma il bene della virtù non può risiedere nel corpo umano; infatti l’Apostolo dice (Romani 7): “So che il bene non abita nella mia carne”. Pertanto, l’appetito sensibile non può essere l’oggetto della virtù.
+
+Obiezione 3: Inoltre, [Agostino](/figures/augustine) dimostra (De Moribus Ecclesiae v) che la virtù non risiede nel corpo ma nell’anima, poiché il corpo è governato dall’anima; pertanto è interamente dovuto all’anima di un uomo l’uso corretto del proprio corpo: “Ad esempio, se il mio cocchiere, obbedendo ai miei ordini, guida bene i cavalli che conduce; tutto ciò dipende da me.” Ma così come l’anima governa il corpo, allo stesso modo la ragione governa gli appetiti sensibili. Pertanto, affinché le facoltà irascibile e concupiscibile siano correttamente regolate, è interamente dovuto alle facoltà razionali. Ora, “la virtù è ciò con cui viviamo rettamente”, come abbiamo detto sopra (Q[55], A[4]). Pertanto la virtù non risiede nelle facoltà irascibile e concupiscibile, ma soltanto nelle facoltà razionali.
+
+Obiezione 4: Inoltre, “l’atto principale della virtù morale è la scelta” (Etica, viii, 13). Ora, la scelta non è un atto delle facoltà irascibili e concupiscibili, ma della facoltà razionale, come abbiamo detto in precedenza (Q[13], A[2]). Pertanto, la virtù morale non risiede nelle facoltà irascibili e concupiscibili, ma nella ragione.
+
+Al contrario, la Forza d’animo viene attribuita alla parte irascibile dell’anima, mentre la Temperanza viene attribuita alla parte concupiscibile. Da ciò il Filosofo (Etica, iii, 10) afferma che “queste virtù appartengono alla parte irrazionale dell’anima”.
+
+Rispondo che le facoltà irascibile e concupiscibile possono essere considerate in due modi. Primo, in sé stesse, nella misura in cui fanno parte dell’appetito sensibile; e in questo senso non sono idonee a essere oggetto di virtù. Secondo, possono essere considerate come partecipanti alla ragione, poiché possiedono una naturale predisposizione ad obbedire alla ragione. Pertanto, la facoltà irascibile o concupiscibile può essere oggetto di virtù umane: infatti, nella misura in cui partecipa alla ragione, è il principio di un atto umano. E a queste facoltà dobbiamo necessariamente attribuire delle virtù. È evidente, infatti, che esistono alcune virtù legate alle facoltà irascibile e concupiscibile. Un atto che deriva da una certa facoltà, quando è mosso da un’altra, non può essere perfetto se entrambe le facoltà non sono ben disposte ad agire in modo corretto; ad esempio, l’atto di un artigiano non può avere successo se né l’artigiano né lo strumento utilizzato sono adeguatamente predisposti all’esecuzione del compito. Pertanto, riguardo alle operazioni delle facoltà irascibile e concupiscibile, quando queste sono mosse dalla ragione, deve necessariamente esistere qualche abitudine che perfezioni l’atto stesso, non solo la ragione, ma anche le suddette facoltà. E poiché la buona disposizione di una facoltà che agisce in base a un’altra dipende dalla sua conformità con questa ultima, la virtù insita nelle facoltà irascibile e concupiscibile non è altro che una certa conformità abituale di queste facoltà alla ragione.
+
+Risposta all’Obiezione 1: Le facoltà irascibile e concupiscibile, considerate in sé stesse come parti dell’appetito sensibile, sono comuni sia a noi che agli animali privi di ragione. Tuttavia, nella misura in cui queste facoltà sono razionali per partecipazione alla ragione stessa e obbediscono alla ragione, esse sono proprie esclusivamente dell’uomo. Ed è proprio in questo modo che possono diventare oggetto delle virtù umane.
+
+Risposta all’Obiezione 2: Proprio come la carne umana, di per sé, non possiede il bene della virtù, ma diventa lo strumento di un atto virtuoso quando viene guidata dalla ragione – e quindi “mettiamo i nostri membri al servizio della giustizia” – allo stesso modo, le facoltà irascibile e concupiscibile, di per sé, non possiedono il bene della virtù, ma piuttosto sono soggette alle “infezioni vili”; tuttavia, quando queste facoltà sono in armonia con la ragione, ne nasce il bene stesso.
+
+Risposta all’Obiezione 3: Il corpo è governato dall’anima, e le facoltà irascibile e concupiscibile sono guidate dalla ragione, ma in modi diversi. Infatti, il corpo obbedisce ciecamente all’anima, senza alcuna contraddizione, in quelle cose per cui ha una naturale predisposizione ad essere mosso dall’anima; da ciò deriva l’affermazione del Filosofo (Politica I, 3) secondo cui “l’anima governa il corpo con un comando dispotico”, proprio come un padrone governa il suo schiavo; per questo motivo, ogni movimento del corpo è riconducibile all’anima. La virtù, pertanto, non risiede nel corpo, ma nell’anima. Tuttavia, le facoltà irascibile e concupiscibile non obbediscono ciecamente alla ragione; al contrario, possiedono movimenti propri che, a volte, possono andare contro la volontà razionale. Per questo motivo, devono esistere anche delle virtù legate a queste facoltà, tali da indurle ad agire in modo corretto.
+
+Risposta all’Obiezione 4: Nella scelta vi sono due elementi principali: da un lato, l’intenzione relativa al fine che si vuole raggiungere, e questo appartiene alle virtù morali; dall’altro lato, la scelta preferenziale di ciò che è utile per raggiungere tale fine, e questo rientra nella sfera della prudenza (Etica, VI, 2,5). Tuttavia, le facoltà irascibile e concupiscibile possiedono un’intenzione corretta riguardo ai desideri dell’anima, grazie alla loro buona disposizione naturale. Pertanto, quelle virtù morali che riguardano direttamente questi desideri risiedono nelle facoltà irascibile e concupiscibile, mentre la prudenza appartiene alla ragione stessa.
+
 <span class="atom-split" data-atom="012" data-title="Whether the sensitive powers of apprehension are the subject of virtue?" data-chapter="Whether the sensitive powers of apprehension are the subject of virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is possible for virtue to be in the interior sensitive powers
@@ -566,6 +759,22 @@ And thus is made clear the Reply to the Second Objection.
 Reply to Objection 3: Memory is not a part of prudence, as species is of a genus, as though
 memory were a virtue properly so called: but one of the conditions required for prudence is a good
 memory; so that, in a fashion, it is after the manner of an integral part.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra possibile che la virtù possa risiedere nelle facoltà sensitive interne di comprensione. Infatti, l’appetito sensibile può essere oggetto di virtù, nella misura in cui obbedisce alla ragione. Ma le facoltà sensitive interne di comprensione obbediscono alla ragione: le facoltà dell’immaginazione, della riflessione e della memoria [*Cfr. FP, Q[78], A[4 agiscono infatti su comando della ragione. Pertanto, in queste facoltà può esistere virtù.
+
+Obiezione 2: Inoltre, poiché l’appetito razionale, che è la volontà, può essere ostacolato o favorito nel suo agire dall’appetito sensibile, allo stesso modo anche l’intelletto o la ragione possono essere ostacolati o favoriti dalle forze menzionate sopra. Pertanto, poiché possono esistere virtù nelle forze interiori dell’appetito, possono esistere altresì virtù nelle forze interiori dell’intellezione.
+
+Obiezione 3: Inoltre, la prudenza è una virtù; di essa [Cicerone](/figures/cicero) (De Invent. Rhetor. ii) afferma che la memoria ne costituisce una parte essenziale. Pertanto, anche nella capacità di ricordare può esistere una virtù; e allo stesso modo, nelle altre facoltà sensitive interne di comprensione.
+
+Al contrario, tutte le virtù sono o intellettuali o morali (Etica, ii, 1). Ora, tutte le virtù morali risiedono nell’appetito; mentre le virtù intellettuali si trovano nell’intelletto o nella ragione, come è chiaro dall’Etica, vi, 1. Pertanto, non esiste alcuna virtù nelle facoltà sensitive interne dell’uomo.
+
+Rispondo che nelle facoltà sensitive di comprensione esistono alcune abitudini. Ciò risulta chiaramente soprattutto da quanto afferma il Filosofo nel “De Memoria” (ii): “Ricordando una cosa dopo l’altra, ci abituiamo ad essa; e l’abitudine è una sorta di seconda natura”. Ora, un’abitudine derivante dall’uso non è altro che un’abitudine acquisita attraverso l’uso stesso, e tale abitudine assomiglia alla natura umana. Per questo motivo Tullio, nella sua “Retorica”, definisce la virtù “un’abitudine simile a una seconda natura, in armonia con la ragione”. Tuttavia, ciò che l’uomo acquisisce attraverso l’uso nelle proprie facoltà sensitive di comprensione non è propriamente un’abitudine nel senso stretto del termine, ma qualcosa che si aggiunge alle abitudini della facoltà intellettiva, come abbiamo già detto in precedenza (Q[50], A[4], ad 3). Nonostante ciò, anche se in tali facoltà esistessero delle abitudini, queste non potrebbero essere considerate virtù. La virtù, infatti, è un’abitudine perfetta grazie alla quale si compiono sempre azioni buone; pertanto la virtù deve necessariamente risiedere in quella facoltà che permette di realizzare pienamente l’atto buono. Ma la conoscenza della verità non viene completata nelle facoltà sensitive di comprensione, poiché queste sole preparano il terreno alla conoscenza intellettiva. Pertanto, in tali facoltà non esistono alcune delle virtù attraverso le quali conosciamo la verità: queste virtù risiedono piuttosto nell’intelletto o nella ragione.
+
+Risposta all’Obiezione 1: L’appetito sensibile è legato alla volontà, che è l’appetito razionale, poiché viene da essa mosso. Pertanto, l’atto della potenza appetitiva si compie nell’appetito sensibile; ed è per questo motivo che l’appetito sensibile è oggetto delle virtù. Al contrario, le facoltà sensitive di percezione sono collegate all’intelletto piuttosto nel senso in cui lo muovono; infatti, i fantasmi sono legati all’anima intellettiva, così come i colori alla vista (De Anima iii, testo 18). Pertanto, l’atto della conoscenza si compie nell’intelletto; ed è per questo motivo che le virtù cognitive risiedono nell’intelletto stesso. Così viene chiarita la Risposta alla Seconda Obiezione.
+
+Risposta all’Obiezione 3: La memoria non fa parte della prudenza, così come una specie non fa parte di un genere; non si tratta cioè di una virtù nel senso proprio del termine. Tuttavia, una buona memoria è una delle condizioni necessarie per essere prudenti; quindi, in un certo senso, può essere considerata una parte integrante della prudenza.
 
 <span class="atom-split" data-atom="013" data-title="Whether the will can be the subject of virtue?" data-chapter="Whether the will can be the subject of virtue?" data-kind="atom" data-srclang="en"></span>
 
@@ -616,6 +825,24 @@ the proper good of this or that man: and in these cases there is no need for vir
 nature of the power suffices for the purpose, as we have said. This need exists only in the case of
 virtues which are directed to some extrinsic good.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la volontà non sia il soggetto della virtù. Infatti, non è necessaria alcuna [abitudine](/concepts/custom) per ciò che appartiene a una facoltà per sua stessa natura. Ma poiché la volontà si trova nell’intelletto, è essenziale alla volontà, secondo il Filosofo (De [Anima](/concepts/soul) iii, testo 42), tendere verso ciò che è buono, in base alla ragione. E ogni virtù è orientata verso questo bene, poiché tutto naturalmente desidera il proprio vero bene; infatti, la virtù, come afferma Tullio nella sua Retorica, è un’“abitudine simile a una seconda natura, in armonia con la ragione”. Pertanto, la volontà non è il soggetto della virtù.
+
+Obiezione 2: Inoltre, ogni virtù è o intellettuale o morale (Etica, i, 13; ii, 1). Ma la virtù intellettuale è soggetta all’intelletto e alla ragione, e non alla volontà; mentre la virtù morale è soggetta alle facoltà irascibili e concupiscibili, che sono razionali per partecipazione. Pertanto, nessuna virtù è soggetta alla volontà.
+
+Obiezione 3: Inoltre, tutti gli atti umani per i quali le virtù sono destinate sono volontari. Pertanto, se esiste una virtù nella volontà riguardo a alcuni atti umani, allo stesso modo esisterà una virtù nella volontà riguardo a tutti gli atti umani. In tal caso, o non esisterebbe alcuna virtù in altre facoltà umane, oppure lo stesso atto sarebbe soggetto a due diverse virtù, il che sembra irragionevole. Pertanto, la volontà non può essere l’oggetto di virtù.
+
+Al contrario, nel motore è richiesta una perfezione maggiore rispetto a quella del mobile. Ma la volontà muove le facoltà irascibili e concupiscenti; pertanto, nella volontà dovrebbe esserci molto più virtù che nelle facoltà irascibili e concupiscenti.
+
+Rispondo che, poiché l’abitudine perfeziona la capacità umana di agire, allora tale capacità ha bisogno di un’abitudine che la renda effettivamente idonea ad agire bene, e questa abitudine è appunto una virtù; quando infatti la natura stessa di quella capacità non è sufficiente a raggiungere lo scopo desiderato. La natura propria di una capacità umana si manifesta nella sua relazione con l’oggetto a cui essa è rivolta. Poiché, come abbiamo detto in precedenza (Q[19], A[3]), l’oggetto della volontà è il bene razionale proporzionato alla stessa volontà, in questo caso la volontà non ha bisogno di alcuna virtù che la perfezioni. Tuttavia, se la volontà umana si trova di fronte a un bene che supera le sue capacità, sia riguardo all’intera specie umana – come il bene divino che trascende i limiti della [natura umana](/axes/human_nature) – sia riguardo all’individuo – come il bene del prossimo – allora la volontà ha bisogno di virtù. E per questo motivo, virtù come la carità e la giustizia, che indirizzano le affezioni umane verso Dio o verso il prossimo, sono essenziali per permettere alla volontà di agire in modo corretto.
+
+Risposta all’Obiezione 1: Questa obiezione è valida per quelle virtù che sono destinate al bene del soggetto stesso; come la temperanza e la forza d’animo, che riguardano le passioni umane, e simili, come risulta chiaramente da quanto abbiamo detto (Q[35], A[6]).
+
+Risposta all’Obiezione 2: Non solo le facoltà irascibile e concupiscibile sono razionali per partecipazione, ma “l’intera facoltà appetitiva”, cioè nella sua totalità (Etica, i, 13). Ora, la volontà è inclusa nella facoltà appetitiva. Pertanto, qualsiasi virtù risieda nella volontà deve essere una virtù morale, a meno che non sia di natura teologica, come vedremo in seguito (Q[62], A[3]).
+
+Risposta all’Obiezione 3: Alcune virtù sono dirette al bene delle passioni moderate, che rappresentano il bene proprio di questo o quel individuo; in questi casi non c’è bisogno della virtù nella volontà, poiché la natura stessa di tale potere è sufficiente per raggiungere lo scopo, come abbiamo già detto. Questa necessità esiste soltanto nel caso delle virtù dirette verso un bene esterno.
+
 <span class="atom-split" data-atom="014" data-title="OF THE INTELLECTUAL VIRTUES (SIX ARTICLES)" data-chapter="OF THE INTELLECTUAL VIRTUES (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now have to consider the various kinds of virtue: and (1) the intellectual virtues; (2) the
@@ -626,6 +853,16 @@ moral virtues; (3) the [theological virtues](/concepts/theological_virtues). Con
 (4) Whether prudence is a virtue distinct from art?
 (5) Whether prudence is a virtue necessary to man?
 (6) Whether "eubulia," "synesis" and "gnome" are virtues annexed to prudence?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora dobbiamo considerare i diversi tipi di virtù: (1) le virtù intellettuali; (2) le virtù morali; (3) le [virtù teologiche](/concepts/theological_virtues). Per quanto riguarda le prime, ci sono sei punti da esaminare:  
+(1) Se gli abiti dell’intelletto speculativo siano considerati virtù;  
+(2) Se ne siano tre, ovvero saggezza, scienza e intelletto;  
+(3) Se l’abito intellettivo, che è l’arte, sia una virtù;  
+(4) Se la prudenza sia una virtù distinta dall’arte;  
+(5) Se la prudenza sia una virtù necessaria all’uomo;  
+(6) Se “eubulia”, “synesis” e “gnome” siano virtù collegate alla prudenza.
 
 <span class="atom-split" data-atom="015" data-title="Whether the habits of the speculative intellect are virtues?" data-chapter="Whether the habits of the speculative intellect are virtues?" data-kind="atom" data-srclang="en"></span>
 
@@ -682,6 +919,24 @@ as we have already stated (Q[3], A[7]).
 
 Reply to Objection 3: Science is contrasted with virtue taken in the second sense, wherein it
 belongs to the appetitive faculty.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le abitudini dell’intelletto speculativo non siano virtù. Infatti, la virtù è un’abitudine operativa, come abbiamo detto in precedenza (Q[55], A[2]). Ma le abitudini speculative non sono operative: poiché il materiale oggetto della speculazione è diverso da quello oggetto dell’azione pratica. Pertanto, le abitudini dell’intelletto speculativo non possono essere considerate virtù.
+
+Obiezione 2: Inoltre, la virtù riguarda quelle cose grazie alle quali l’uomo diventa felice o beato; infatti “la felicità è la ricompensa della virtù” (Etica, i, 9). Ora, le abitudini intellettuali non riguardano gli atti umani o altri beni che permettono all’uomo di raggiungere la felicità, ma piuttosto cose relative alla natura o a Dio. Pertanto, abitudini del genere non possono essere definite virtù.
+
+Obiezione 3: Inoltre, la scienza è un’abitudine speculativa. Ma scienza e virtù sono distinte l’una dall’altra come generi che non sono subalterni, come dimostra il Filosofo nel “Topicus” iv. Pertanto, le abitudini speculative non sono virtù.
+
+Al contrario, sono soltanto le abitudini speculative a ritenere necessarie quelle cose che non possono esistere se non nel modo in cui esistono. Ora, il Filosofo (Etica, VI, 1) colloca alcune virtù intellettuali nella parte dell’anima che considera necessarie quelle cose che non possono essere altrimenti che come sono. Pertanto, le abitudini dell’intelletto speculativo costituiscono vere e proprie virtù.
+
+Rispondo che, poiché ogni virtù è destinata a qualche bene, come già detto sopra (Q[55], A[3]), un’abitudine può essere chiamata virtù per due motivi: in primo luogo, perché conferisce la capacità di compiere il bene; in secondo luogo, perché, oltre a questa capacità, permette anche di utilizzare correttamente tale capacità. Questa seconda condizione, come già accennato (Q[55], A[3]), riguarda soltanto quelle abitudini che influenzano la parte appetitiva dell’anima, poiché è proprio il potere appetitivo dell’anima a determinare l’uso corretto di tutte le altre facoltà e abitudini. Poiché dunque le abitudini dell’intelletto speculativo non perfezionano la parte appetitiva dell’anima né la influenzano in alcun modo, ma soltanto la parte intellettiva, possono essere chiamate virtù nella misura in cui conferiscono la capacità di compiere un’azione nobile, ovvero il contemplare la verità (poiché questa è l’attività specifica dell’intelletto). Tuttavia, non possono essere considerate virtù nel secondo senso, cioè come quelle che permettono di utilizzare correttamente una determinata facoltà o abitudine. Infatti, il possedere un’abitudine speculativa non implica necessariamente la tendenza ad utilizzarla; piuttosto, tale abitudine rende possibile considerare la verità in meri specifici, ma è la volontà dell’individuo a determinare se effettivamente si utilizzerà questa conoscenza. Di conseguenza, una virtù che perfeziona la volontà – come la carità o la giustizia – conferisce proprio la capacità di utilizzare correttamente queste abitudini speculative. E anche in questo caso, gli atti compiuti attraverso tali abitudini possono essere meritevoli se vengono eseguiti per motivi di carità; come afferma Gregorio nel “Moralium” (VI), “la vita contemplativa ha maggior valore della vita attiva”.
+
+Risposta all’Obiezione 1: Il lavoro si divide in due tipi: esterno e interno. Pertanto, la facoltà pratica o attiva, che è opposta alla facoltà speculativa, riguarda il lavoro esterno, per il quale non è destinata l’abitudine speculativa. Tuttavia, essa è destinata all’atto interno dell’intelletto, ovvero al considerare la verità; in questo senso, costituisce un’abitudine operativa.
+
+Risposta all’Obiezione 2: La virtù riguarda certe cose in due modi. In primo luogo, la virtù riguarda il proprio oggetto; pertanto, queste virtù speculative non si riferiscono a quelle cose che rendono l’uomo felice, salvo forse nel caso in cui il termine “quelle cose” indichi la [causa efficiente](/concepts/four_causes) o l’oggetto della felicità perfetta, cioè Dio, che è l’oggetto supremo della contemplazione. In secondo luogo, si dice che una virtù riguardi i propri atti; in questo senso, le virtù intellettuali si riferiscono proprio a quelle cose che rendono l’uomo felice, sia perché gli atti di queste virtù possono essere meritevoli, come già detto, sia perché costituiscono una sorta di inizio della beatitudine perfetta, che consiste nella contemplazione della verità, come abbiamo già affermato (Q[3], A[7]).
+
+Risposta all’Obiezione 3: La scienza viene contrapposta alla virtù intesa nel secondo senso, ovvero come facoltà appetitiva.
 
 <span class="atom-split" data-atom="016" data-title="Whether there are only three habits of the speculative intellect, viz. wisdom, science and understanding?" data-chapter="Whether there are only three habits of the speculative intellect, viz. wisdom, science and understanding?" data-kind="atom" data-srclang="en"></span>
 
@@ -751,6 +1006,25 @@ evil. Wherefore those habits alone are called intellectual virtues, whereby we t
 never tell a falsehood. But opinion and suspicion can be about both truth and falsehood: and so, as
 stated in Ethic. vi, 3, they are not intellectual virtues.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra inappropriato distinguere tre virtù dell’intelletto speculativo, ovvero saggezza, scienza e intelletto. Poiché una “specie” è un tipo di scienza, come affermato nell’Etica VI, 7, quindi la saggezza non dovrebbe essere considerata, insieme alla scienza, tra le virtù intellettuali.
+
+Obiezione 2: Inoltre, nel distinguere poteri, abitudini e atti in relazione ai loro oggetti, consideriamo principalmente l’aspetto formale di tali oggetti, come abbiamo già spiegato (FP, Q[77], A[3]). Pertanto, la diversità delle abitudini deriva non dai loro oggetti materiali, ma dall’aspetto formale di questi ultimi. Ora, il principio di una dimostrazione è proprio quell’aspetto formale grazie al quale la conclusione diventa conoscibile. Pertanto, la comprensione dei principi non dovrebbe essere considerata un’abitudine o una virtù distinta dalla conoscenza delle conclusioni stesse.
+
+Obiezione 3: Inoltre, una virtù intellettuale è quella che risiede nella facoltà essenzialmente razionale dell’uomo. Ora, anche la ragione speculativa utilizza il sillogismo dialettico allo scopo di argomentare, proprio come utilizza il sillogismo dimostrativo. Pertanto, poiché la scienza – che è il risultato di un sillogismo dimostrativo – viene considerata una virtù intellettuale, lo stesso dovrebbe valere anche per l’opinione.
+
+Al contrario, il Filosofo (Etica VI, 1) considera queste tre sole virtù intellettuali: saggezza, scienza e intelligenza.
+
+Rispondo che, come già detto (A[1]), le virtù dell’intelletto speculativo sono quelle che lo perfezionano nella considerazione della verità, poiché questa è la sua vera funzione. Ora, una verità può essere considerata in due modi: da un lato, come qualcosa che è conosciuto di per sé; dall’altro, come qualcosa che viene compreso attraverso un altro elemento conoscitivo. Ciò che è conosciuto di per sé è considerato un “principio” e viene immediatamente inteso dall’intelletto; pertanto, l’abitudine che perfeziona l’intelletto nella considerazione di tali principi viene chiamata “intelligenza”. Dall’altro lato, una verità che viene compresa attraverso un altro elemento conoscitivo viene intesa dall’intelletto non immediatamente, ma attraverso il processo razionale; in questo caso, essa è considerata un “termine” all’interno di un determinato contesto. Ciò può avvenire in due modi: primo, quando tale verità rappresenta l’ultimo elemento di un certo genere; secondo, quando essa costituisce il termine finale di tutta la conoscenza umana. Poiché “le cose che sono conoscibili dal nostro punto di vista sono in realtà conosciute prima e soprattutto nella loro natura” (Fisica I, testo 2, 3), ciò che rappresenta l’ultimo livello della conoscenza umana è proprio ciò che è conosciuto per primo e principalmente nella sua essenza. Di queste cose si occupa la “saggezza”, che considera le cause supreme; essa giudica correttamente tutte le cose e le ordina secondo il loro vero significato, poiché non può esistere un giudizio perfetto e universale che non si basi sulle cause primarie. Quanto a ciò che rappresenta l’ultimo elemento all’interno di un determinato genere di conoscenza, è la “scienza” ad agire come strumento per perfezionare l’intelletto; pertanto, a seconda dei diversi tipi di materia conoscibile, esistono abitudini cognitive diverse, mentre la saggezza è unica in natura.
+
+Risposta all’Obiezione 1: La saggezza è un tipo di scienza, nella misura in cui possiede ciò che è comune a tutte le scienze, ovvero la capacità di dimostrare conclusioni a partire da principi. Tuttavia, poiché possiede anche qualcosa di specificamente proprio, che le altre scienze non hanno – ovvero il potere di giudicarle non solo in base alle loro conclusioni, ma anche ai loro principi fondamentali – la saggezza rappresenta quindi una virtù più perfetta della semplice scienza.
+
+Risposta all’Obiezione 2: Quando l’aspetto formale di un oggetto viene riferito a una determinata facoltà o abitudine attraverso lo stesso atto, non esiste distinzione tra tale abitudine o facoltà e l’oggetto materiale stesso. Pertanto, appartiene alla stessa facoltà visiva sia la percezione del colore che quella della luce, che rappresenta l’aspetto formale sotto cui il colore viene percepito; inoltre, entrambe queste percezioni avvengono contemporaneamente alla percezione del colore stesso. D’altra parte, i principi su cui si basa una dimostrazione possono essere considerati separatamente, senza prendere in considerazione affatto la conclusione a cui portano; oppure possono essere esaminati insieme alle conclusioni, poiché queste ultime ne derivano logicamente. Pertanto, considerare i principi in questo secondo modo rientra nell’ambito della scienza, che prende in esame anche le conclusioni; mentre considerarli in sé stessi appartiene all’intelletto.  
+Di conseguenza, se analizziamo correttamente la questione, queste tre virtù sono distinte non perché siano uguali tra loro, ma perché seguono un certo ordine. Lo stesso vale per gli insiemi potenziali, in cui una parte è più perfetta di un’altra: ad esempio, l’anima razionale è più perfetta dell’anima sensibile, e quest’ultima lo è a sua volta rispetto all’anima vegetale. È proprio in questo modo che la scienza dipende dall’intelletto, considerato una virtù di grado superiore; entrambi, però, dipendono dalla saggezza, poiché questa rappresenta il livello più alto e include sia l’intelletto che la scienza, giudicando sia le conclusioni della scienza che i principi su cui queste si basano.
+
+Risposta all’Obiezione 3: Come già detto sopra (Q[55], AA[3],4), un’abitudine virtuosa ha una relazione fissa con il bene e non può in alcun modo essere riferita al male. Ora, il bene dell’intelletto è la verità, mentre la falsità ne rappresenta il male. Pertanto, solo quelle abitudini vengono chiamate virtù intellettuali, ovvero quelle attraverso le quali diciamo la verità e mai una menzogna. Invece, l’opinione e il sospetto possono riguardare sia la verità che la falsità; per questo motivo, come affermato nell’Etica VI, 3, non sono considerate virtù intellettuali.
+
 <span class="atom-split" data-atom="017" data-title="Whether the intellectual habit, art, is a virtue?" data-chapter="Whether the intellectual habit, art, is a virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that art is not an intellectual virtue. For [Augustine](/figures/augustine) says (De Lib.
@@ -802,6 +1076,24 @@ done by the body, which arts are, in a fashion, servile, inasmuch as the body is
 to the soul, and man, as regards his soul, is free [liber]. On the other hand, those sciences which
 are not ordained to any such like work, are called sciences simply, and not arts. Nor, if the liberal
 arts be more excellent, does it follow that the notion of art is more applicable to them.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’arte non sia una virtù intellettuale. Infatti, [Agostino](/figures/augustine) afferma (De Lib. Arb. ii, 18,19) che “nessuno fa cattivo uso delle virtù”. Ma si può fare cattivo uso anche dell’arte: un artigiano, infatti, può eseguire male il proprio lavoro pur possedendo le conoscenze necessarie. Pertanto, l’arte non è una virtù.
+
+Obiezione 2: Inoltre, non esiste alcuna “virtù della virtù”. Tuttavia, secondo il Filosofo (“Etica”, VI, 5), “esiste una virtù nell’arte”. Pertanto, l’arte non è una virtù.
+
+Obiezione 3: Inoltre, le arti liberali sono superiori alle arti meccaniche. Ma proprio come le arti meccaniche sono pratiche, così le arti liberali sono speculative. Pertanto, se l’arte fosse una virtù intellettuale, dovrebbe essere considerata tra le virtù speculative.
+
+Al contrario, il Filosofo (Etica VI, 3, 4) afferma che l’arte sia una virtù; eppure non la considera tra le virtù speculative, quelle che, secondo lui, risiedono nella parte scientifica dell’anima.
+
+Rispondo che l’Arte non è altro che “la giusta ragione per cui determinati lavori debbano essere realizzati”. Eppure il valore di queste opere dipende non dal modo in cui la facoltà appetitiva umana ne viene influenzata, ma dalla qualità stessa del lavoro compiuto. Un artigiano, infatti, è lodabile non per la volontà con cui esegue il proprio compito, ma per la qualità del risultato ottenuto. L’Arte, quindi, in senso stretto, è un’abitudine pratica. Tuttavia ha anche alcuni tratti in comune con le abitudini speculative: infatti, anche queste ultime riguardano la qualità dell’oggetto considerato, ma non il modo in cui l’appetito umano possa essere influenzato da esso. Così come, quando un geometra dimostra una verità, non importa se ne sia felice o arrabbiato; lo stesso vale per un artigiano, come abbiamo già osservato. Pertanto, l’Arte ha la natura di una virtù, proprio come le abitudini speculative: non perché queste permettano di realizzare opere buone in senso pratico – che è caratteristica delle virtù che perfezionano l’appetito umano – ma perché contribuiscono ad aumentare l’abilità nel svolgere bene un compito.
+
+Risposta all’Obiezione 1: Quando qualcuno dotato di un’arte produce un lavoro scadente, ciò non rappresenta l’espressione autentica di quell’arte; anzi, tale risultato è in contraddizione con i principi stessi dell’arte. Proprio come quando una persona mente, pur conoscendo la verità, le sue parole sono in disaccordo con ciò che sa; pertanto, proprio come la scienza è sempre legata al bene (come detto sopra, A[2], ad 3), lo stesso vale per l’arte. Ed è proprio per questo motivo che viene definita una “virtù”. Tuttavia, l’arte non raggiunge il livello di una virtù perfetta, poiché non permette al suo possessore di utilizzarla in modo corretto; per tale scopo sono necessari ulteriori elementi, anche se non è possibile utilizzare l’arte in modo efficace senza conoscerne appieno i principi.
+
+Risposta all’Obiezione 2: Affinché l’uomo possa utilizzare al meglio l’arte che possiede, è necessaria una buona volontà, la quale viene perfezionata dalle virtù morali; ed è proprio per questo motivo che il Filosofo afferma esistere una “virtù dell’arte”, ovvero una virtù morale, poiché l’utilizzo corretto dell’arte richiede necessariamente la presenza di tali virtù. È infatti evidente che un artigiano, guidato dalla giustizia che regola la sua volontà, è portato a svolgere il proprio lavoro con fedeltà.
+
+Risposta all’Obiezione 3: Anche in ambito speculativo esistono attività che richiedono uno sforzo concreto: ad esempio, la formulazione di un sillogismo o di un discorso appropriato, oppure il compimento di operazioni di calcolo o misurazione. Pertanto, tutte quelle abitudini destinate a tali attività della ragione speculativa possono essere considerate, in un certo senso, arti; tuttavia vengono definite “arti liberali”, al fine di distinguerle da quelle arti che servono ad attività svolte dal corpo, le quali, in qualche modo, sono “servili”, poiché il corpo è soggetto alla volontà dell’anima, mentre l’uomo, in quanto anima, è libero. D’altra parte, quelle scienze che non sono destinate ad alcuna attività del genere vengono semplicemente chiamate scienze, e non arti. Inoltre, il fatto che le arti liberali siano più eccellenti non implica affatto che il concetto di arte sia più applicabile a esse.
 
 <span class="atom-split" data-atom="018" data-title="Whether prudence is a distinct virtue from art?" data-chapter="Whether prudence is a distinct virtue from art?" data-kind="atom" data-srclang="en"></span>
 
@@ -860,6 +1152,24 @@ and the end of human life. But in some arts there is counsel about matters conce
 proper to those arts. Hence some men, in so far as they are good counselors in matters of warfare,
 or seamanship, are said to be prudent officers or pilots, but not simply prudent: only those are
 simply prudent who give good counsel about all the concerns of life.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la prudenza non sia una virtù distinta dall’arte. Infatti, l’arte è la ragione corretta riguardo a determinati lavori. Tuttavia, la diversità dei lavori non impedisce che un certo [habito](/concepts/custom) venga considerato un’arte; esistono infatti molteplici arti relative a lavori ampiamente diversi tra loro. Poiché anche la prudenza è una ragione corretta riguardo ai lavori, sembra che debba anch’essa essere considerata una virtù.
+
+Obiezione 2: Inoltre, la prudenza ha molto in comune con le arti rispetto alle abitudini speculative; entrambe, infatti, riguardano “cose contingenti che potrebbero essere diverse da come sono” (Etica, VI, 4,5). Ora, alcune abitudini speculative vengono definite arti; pertanto, ancora di più la prudenza dovrebbe essere considerata un’arte.
+
+Obiezione 3: Inoltre, appartiene alla prudenza “dare buoni consigli” (Etica, vi, 5). Ma il dare consigli avviene anche in alcune arti, come si afferma nell’Etica, iii, 3; ad esempio, nelle arti della guerra, della navigazione e della medicina. Pertanto, la prudenza non è distinta dalle arti.
+
+Al contrario, il Filosofo distingue la prudenza dall’arte (Etica, VI, 5).
+
+Rispondo che, dove la natura della virtù differisce, esiste anche un tipo diverso di virtù. Come già detto in precedenza (A[1]; Q[56], A[3]), alcune abitudini possiedono la natura della virtù semplicemente perché conferiscono l’idoneità per compiere azioni buone; altre, invece, sono vere e proprie virtù, non solo perché conferiscono tale idoneità, ma anche perché permettono di utilizzare efficacemente tali abilità. L’arte, però, conferisce soltanto l’idoneità per compiere azioni buone, poiché non riguarda il desiderio umano; la prudenza, invece, non solo fornisce tale idoneità, ma ne garantisce anche l’effettivo utilizzo, poiché tiene conto del desiderio stesso e ne presuppone la rettitudine. La ragione di questa differenza risiede nel fatto che l’arte rappresenta “la giusta ragione per creare cose”, mentre la prudenza è “la giusta ragione per agire”. Come affermato nella Metafisica IX, 16, “creare” consiste in azioni che si concretizzano nell’oggetto esterno, come costruire o tagliare; “agire”, invece, è un’azione che rimane all’interno dell’agente stesso, come vedere o volere. Pertanto, la prudenza ha lo stesso rapporto rispetto a tali azioni umane – che consistono nell’utilizzo delle capacità e delle abitudini – quanto l’arte ha rispetto alle attività creative: entrambe rappresentano la ragione perfetta per ciò di cui si occupano. Tuttavia, la perfezione e la rettitudine della ragione in ambito speculativo dipendono dai principi su cui essa si basa; così come abbiamo detto in precedenza (A[2], ad 2), la scienza dipende dalla comprensione dei principi stessi. Nei comportamenti umani, l’“fine” rappresenta ciò che i principi sono nell’ambito speculativo, come affermato nell’Etica VII, 8. Pertanto, per la prudenza – che è la giusta ragione per agire – è necessario che l’uomo abbia una corretta disposizione nei confronti di tali fini; ciò dipende dalla rettitudine del suo desiderio. Per questa ragione, alla prudenza è necessaria una virtù morale che possa rettificare tale desiderio. Al contrario, le cose buone prodotte dall’arte non riguardano il bene del desiderio umano, ma il bene delle stesse cose; quindi l’arte non presuppone la rettitudine del desiderio. Di conseguenza, si attribuisce maggiore lode a un artigiano che commette errori volontariamente rispetto a colui che lo fa involontariamente; inoltre, peccare volontariamente è molto più contrario alla prudenza rispetto a farlo involontariamente, poiché la rettitudine della volontà è essenziale per la prudenza, ma non per l’arte. È evidente quindi che la prudenza sia una virtù distinta dall’arte.
+
+Risposta all’Obiezione 1: I vari oggetti creati dall’arte sono tutti esterni all’uomo; pertanto non generano un tipo diverso di virtù. Ma la prudenza è una ragione corretta riguardo agli stessi atti umani; quindi rappresenta effettivamente un tipo distinto di virtù, come già detto in precedenza.
+
+Risposta all’Obiezione 2: La prudenza ha più in comune con l’arte che un’abitudine speculativa, se consideriamo il loro oggetto e il loro contenuto: entrambe riguardano infatti la parte razionale dell’anima e trattano di cose che possono essere diverse da come sono realmente. Tuttavia, se le consideriamo virtù, allora è l’arte ad avere più in comune con le abitudini speculative, come è evidente da quanto detto finora.
+
+Risposta all’Obiezione 3: La prudenza fornisce buoni consigli riguardo alle questioni relative alla vita intera dell’uomo e al fine della sua esistenza. Tuttavia, in alcune arti i consigli riguardano gli scopi specifici di tali arti. Pertanto, alcuni uomini, nella misura in cui sono buoni consiglieri in ambito militare o nautico, vengono definiti ufficiali o piloti prudenti, ma non semplicemente prudenti: soltanto coloro che forniscono buoni consigli su tutte le questioni legate alla vita possono essere considerati veramente prudenti.
 
 <span class="atom-split" data-atom="019" data-title="Whether prudence is a virtue necessary to man?" data-chapter="Whether prudence is a virtue necessary to man?" data-kind="atom" data-srclang="en"></span>
 
@@ -927,6 +1237,25 @@ place in necessary matters, which are not affected by the human will; but only i
 which can be effected by us, whether they be matters of interior action, or the products of external
 work. Hence it is only about contingent matters that an intellectual virtue is assigned to the practical
 intellect, viz. art, as regards things to be made, and prudence, as regards things to be done.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la prudenza non sia una virtù necessaria per condurre una buona vita. Poiché l’arte è relativa alle cose create, e rappresenta la ragione corretta per realizzarle, così anche la prudenza è relativa alle azioni compiute, e permette di giudicare la qualità della vita di una persona: infatti, la prudenza costituisce proprio quella ragione corretta in merito a tali azioni, come affermato nell’Etica VI, 5. Ora, l’arte non è necessaria per le cose create se non al fine di realizzarle, ma una volta che sono state create; allo stesso modo, la prudenza non è necessaria all’uomo per condurre una buona vita dopo che è diventato virtuoso, ma forse soltanto affinché possa diventare virtuoso.
+
+Obiezione 2: Inoltre, “È per prudenza che diamo buoni consigli”, come affermato nell’Etica VI, 5.  
+Ma l’uomo può agire non solo seguendo i propri buoni consigli, ma anche quelli altrui. Pertanto, non ha bisogno di prudenza per condurre una vita virtuosa; basta che segua i consigli di persone prudenti.
+
+Obiezione 3: Inoltre, una virtù intellettuale è quella che permette a una persona di dire sempre la verità e mai una menzogna. Tuttavia, questo non sembra essere vero per la prudenza: infatti, non è umano non commettere mai errori nel prendere decisioni riguardo a ciò che va fatto; poiché le azioni umane riguardano cose che possono essere diverse da come sono in realtà. Pertanto si legge (Sapienza 9:14): “I pensieri degli uomini mortali sono incerti, e i nostri consigli imprevedibili”. Quindi sembra che la prudenza non debba essere considerata una virtù intellettuale.
+
+Al contrario, viene considerata insieme ad altre virtù necessarie per la vita umana quando si legge, nella Saggezza Divina (8:7), che “essa insegna temperanza, prudenza, giustizia e forza d’animo, cose senza le quali gli uomini non potrebbero trarre alcun reale beneficio dalla vita”.
+
+Rispondo che la Prudenza è una virtù assolutamente necessaria per la vita umana. Infatti, una buona vita consiste in azioni buone, e per compiere tali azioni non basta soltanto sapere cosa fare, ma anche come farlo: vale a dire, che ci si attenga a scelte consapevoli, piuttosto che agire spinti dall’impulso o dalla passione. Poiché la scelta riguarda le cose in relazione al loro fine ultimo, l’accuratezza di tale scelta richiede due elementi fondamentali: il fine stesso e i mezzi adeguati per raggiungerlo. L’uomo è guidato verso il proprio fine naturale da una virtù che perfeziona la parte appetitiva dell’anima, la quale ha come oggetto il bene e il fine ultimo. Per essere in grado di utilizzare correttamente tali mezzi, l’uomo ha bisogno di un’abitudine razionale che lo predisponga adeguatamente; poiché i ragionamenti e le scelte riguardano sempre azioni volte a realizzare un fine preciso, tali processi mentali sono esercizi della ragione stessa. Pertanto, è necessaria una virtù intellettuale per perfezionare la ragione e renderla in grado di orientarsi correttamente verso gli obiettivi desiderati; questa virtù è proprio la Prudenza. In conclusione, la Prudenza è essenziale per condurre una vita buona.
+
+Risposta all’Obiezione 1: Il bene di un’arte risiede non nel maestro artigiano, ma nel prodotto stesso dell’arte, poiché l’arte è una ragione corretta riguardo alle cose da realizzare. Poiché la creazione di una cosa si concretizza nella materia esterna, essa rappresenta una perfezione non del creatore, ma della cosa stessa creata; allo stesso modo, il movimento è l’atto della cosa che viene mossa. L’arte, dunque, riguarda proprio la produzione di cose. D’altra parte, il bene della prudenza risiede nel principio attivo, il cui operare costituisce la sua stessa perfezione; poiché la prudenza è una ragione corretta riguardo alle azioni da compiere, come già detto (A[4]). Pertanto, l’arte non richiede che l’atto del maestro artigiano sia un atto buono, ma che il suo lavoro sia di qualità. Sarebbe invece necessario che la cosa stessa creata agisse bene (ad esempio, che un coltello tagliasse bene o una sega recidesse correttamente), se fosse possibile per tali cose agire piuttosto che essere semplicemente oggetto di azioni altrui; poiché esse non possiedono il potere di dominare i propri atti. Per questo motivo, il maestro artigiano ha bisogno dell’arte non per vivere bene, ma per produrre un’opera d’arte di qualità e per preservarla adeguatamente; mentre la prudenza è necessaria all’uomo non solo per essere una persona buona, ma soprattutto per condurre una vita retta.
+
+Risposta all’Obiezione 2: Quando un uomo compie un atto di bene non per propria volontà, ma spinto da quella di un altro, il suo atto non è ancora del tutto perfetto, in termini della ragione che lo ha guidato e del desiderio che lo ha motivato. Pertanto, se compie un atto di bene, non lo fa necessariamente nel modo migliore possibile; eppure questo è proprio ciò che è richiesto affinché possa condurre una vita virtuosa.
+
+Risposta all’Obiezione 3: Come affermato nell’Etica VI, 2, la verità non è la stessa per l’intelletto pratico che per quello speculativo. Poiché la verità dell’intelletto speculativo dipende dalla conformità tra l’intelletto e le cose; e poiché l’intelletto non può essere infallibilmente in conformità con le cose nei casi contingenti, ma soltanto in quelli necessari, nessuna abitudine speculativa relativa a cose contingenti costituisce una virtù intellettiva, se non quelle relative a cose necessarie. D’altra parte, la verità dell’intelletto pratico dipende dalla conformità con il giusto appetito; tale conformità ha luogo soltanto nei casi contingenti, che possono essere influenzati dalla volontà umana, sia che si tratti di azioni interiori che di risultati di attività esterne. Pertanto, è soltanto riguardo a cose contingenti che all’intelletto pratico vengono attribuite virtù intellettive: l’arte, in relazione alle cose da realizzare, e la prudenza, in relazione alle azioni da compiere.
 
 <span class="atom-split" data-atom="020" data-title="Whether \&quot;eubulia, synesis, and gnome\&quot; are virtues annexed to prudence? [*{euboulia, synesis, gnome}]" data-chapter="Whether \&quot;eubulia, synesis, and gnome\&quot; are virtues annexed to prudence? [*{euboulia, synesis, gnome}]" data-kind="atom" data-srclang="en"></span>
 
@@ -1056,6 +1385,24 @@ the faculties to act is the proper function of the appetitive power. Consequentl
 second nature by consenting to the reason, is proper to those virtues which are in the appetitive
 faculty.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che ogni virtù sia una virtù morale. Poiché la virtù morale prende il nome dal latino “mos”, cioè dalla [consuetudine](/concepts/custom). Ora, possiamo abituarci agli atti legati a tutte le virtù; pertanto, ogni virtù è una virtù morale.
+
+Obiezione 2: Inoltre, il Filosofo afferma (Etica ii, 6) che la virtù morale sia “un’abitudine di scegliere la via media razionale”. Ma ogni virtù è un’abitudine di scegliere: poiché gli atti di qualsiasi virtù possono essere compiuti volontariamente. Inoltre, ogni virtù consiste nel seguire in qualche modo la via media razionale, come spiegheremo più avanti (Q[64], AA[1],2,3). Pertanto, ogni virtù è una virtù morale.
+
+Obiezione 3: Inoltre, [Cicerone](/figures/cicero) afferma (De Invent. Rhet. ii) che “la virtù è un’abitudine simile a una seconda natura, in armonia con la ragione”. Ma poiché ogni virtù umana è orientata al bene dell’uomo, essa deve necessariamente essere in accordo con la ragione; infatti, il bene dell’uomo “consiste in ciò che è in linea con la sua ragione”, come afferma Dionigi di Areopago (Div. Nom. iv). Pertanto, ogni virtù è una virtù morale.
+
+Al contrario, il Filosofo (Etica, i, 13) afferma: “Quando parliamo della morale di una persona, non intendiamo dire che sia saggia o intelligente, ma che sia gentile o sobria”. Pertanto, saggezza e intelligenza non sono virtù morali; eppure lo sono, come già detto in precedenza (Q[57], A[2]). Ne consegue che non tutte le virtù siano virtù morali.
+
+Rispondo che, per rispondere chiaramente a questa domanda, dobbiamo considerare il significato della parola latina “mos”; così potremo scoprire cos’è una virtù “morale”. Ora, “mos” ha un doppio significato: a volte indica la consuetudine, nel senso in cui leggiamo (Atti 15:1): “Se non vi fate circoncidere secondo la consuetudine di Mosè, non potrete essere salvati”. Altre volte indica un’inclinazione naturale o quasi-naturale a compiere un’azione specifica; in questo senso il termine viene utilizzato anche per gli animali muti. Ad esempio, leggiamo (2 Maccabei 1:2) che “assalirono violentemente il nemico, come leoni, e li uccisero”; lo stesso termine è usato in Salmo 67:7, dove si dice: “Colui che rende gli uomini simili tra loro, affinché vivano insieme sotto lo stesso tetto”. Per entrambi questi significati esiste una sola parola in latino; in greco, invece, ci sono due parole distinte: “ethos” viene talvolta scritto con la “e” lunga e talvolta con quella breve. La virtù “morale”, quindi, deriva dal significato di “mos” come inclinazione naturale o quasi-naturale a compiere un’azione specifica. Anche l’altro significato di “mos”, cioè la consuetudine, è correlato a questo concetto: infatti la consuetudine diventa una sorta di seconda natura e genera un’inclinazione simile a quella naturale. È evidente, però, che l’inclinazione verso un’azione appartiene propriamente alla facoltà appetitiva, la cui funzione è muovere tutte le altre facoltà verso l’atto corrispondente, come spiegato in precedenza (Q[9], A[1]). Pertanto, non tutte le virtù sono virtù morali; solo quelle che rientrano nella sfera della facoltà appetitiva lo sono.
+
+Risposta all’Obiezione 1: Questo argomento utilizza la parola “mos” nel senso di “consuetudine”.
+
+Risposta all’Obiezione 2: Ogni atto di virtù può essere compiuto volontariamente; tuttavia nessuna virtù ci aiuta a scegliere correttamente, se non quella che riguarda la parte appetitiva dell’anima, poiché come già detto in precedenza, la scelta è un atto della facoltà appetitiva (Q[13], A[1]). Pertanto, l’abitudine di scegliere – cioè quell’abitudine che costituisce il principio attraverso cui effettuiamo le nostre scelte – è l’unica in grado di perfezionare la facoltà appetitiva; anche se gli atti compiuti grazie ad altre abitudini possono anch’essi essere frutto di una scelta volontaria.
+
+Risposta all’Obiezione 3: “La natura è il principio del movimento” (Physica ii, testo 3). Ora, spingere le facoltà ad agire è la funzione specifica della potenza appetitiva. Pertanto, conformarsi alla ragione e diventare, in tal modo, come una “seconda natura”, è proprio di quelle virtù che appartengono alla facoltà appetitiva.
+
 <span class="atom-split" data-atom="022" data-title="Whether moral virtue differs from intellectual virtue?" data-chapter="Whether moral virtue differs from intellectual virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that moral virtue does not differ from intellectual virtue. For
@@ -1121,6 +1468,28 @@ Reply to Objection 4: Right reason which is in accord with prudence is included 
 of moral virtue, not as part of its essence, but as something belonging by way of participation to
 all the moral virtues, in so far as they are all under the direction of prudence.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la virtù morale non differisca dalla virtù intellettuale. Infatti, [Agostino](/figures/augustine) afferma (De Civ. Dei iv, 21) che “la virtù è l’arte del comportamento corretto”. Ma l’arte rientra nella categoria delle virtù intellettuali. Pertanto, la virtù morale e quella intellettuale non differiscono tra loro.
+
+Obiezione 2: Inoltre, alcuni autori includono la scienza nella definizione delle virtù; ad esempio, alcuni definiscono la perseveranza come “una scienza o un’[abitudine](/concepts/custom) relativa a ciò che dobbiamo o non dobbiamo fare”; e la santità come “una scienza che rende l’uomo fedele e lo spinge ad adempiere ai propri doveri verso Dio”. Ora, poiché la scienza è una virtù intellettuale, ne consegue che anche le virtù morali non dovrebbero essere distinte dalle virtù intellettuali.
+
+Obiezione 3: Inoltre, Agostino afferma (Soliloquio i, 6) che “la virtù è la rettitudine e la perfezione della ragione”. Ma ciò riguarda le virtù intellettuali, come indicato nell’Etica vi, 13. Pertanto, la virtù morale non differisce dalla virtù intellettuale.
+
+Obiezione 4: Inoltre, una cosa non si distingue da ciò che è incluso nella sua definizione. Ma la virtù intellettuale è inclusa nella definizione di virtù morale; infatti il Filosofo afferma (Etica ii, 6) che “la virtù morale è un’abitudine che consiste nel scegliere quella misura che la ragione indica come quella da adottare un uomo prudente”. Ora, questa ragione corretta che stabilisce la misura della virtù morale appartiene a una virtù intellettuale, come si legge nell’Etica vi, 13. Pertanto, la virtù morale non si distingue dalla virtù intellettuale.
+
+Al contrario, si afferma nell’Etica I, 13 che “esistono due tipi di virtù: alcune le chiamiamo intellettuali, altre morali”.
+
+Rispondo che la Ragione è il principio fondamentale di ogni atto umano; e qualsiasi altro principio possa esistere negli atti umani, obbedisce in qualche modo alla Ragione, ma in modi diversi. Alcuni principi obbediscono ciecamente alla Ragione, senza alcuna contraddizione: sono questi i membri del corpo, purché siano in buono stato di salute; poiché non appena la Ragione dà l’ordine, la mano o il piede agiscono immediatamente. Per questo motivo il Filosofo afferma (Politica I, 3) che “l’anima governa il corpo come un despota”, cioè come un padrone governa uno schiavo che non ha diritto di ribellarsi. Pertanto alcuni ritenevano che tutti i principi attivi nell’uomo fossero subordinati alla Ragione in questo modo. Se ciò fosse vero, basterebbe che la ragione di un uomo fosse perfetta affinché potesse agire rettamente; quindi, poiché la virtù è un’abitudine che perfeziona l’uomo al fine di compiere azioni buone, ne conterrebbe che esistono soltanto virtù intellettuali. Questa era l’opinione di Socrate, il quale diceva “ogni virtù è una forma di prudenza”, come affermato nell’Etica VI, 13; pertanto sosteneva che finché un uomo possiede conoscenza, non può peccare; e che chiunque pecca lo fa per ignoranza.  
+Ora, questa opinione si basa su un presupposto errato. Poiché la facoltà appetitiva obbedisce alla Ragione, ma non ciecamente, bensì con una certa capacità di opposizione; per questo motivo il Filosofo afferma che “la Ragione comanda la facoltà appetitiva con un potere politico”, permettendo all’uomo di governare soggetti liberi che possiedono un certo diritto di opporsi. Pertanto Agostino, nel commento al Salmo 118 (Sermone 8), dice che “a volte comprendiamo ciò che è giusto mentre il desiderio è lento o addirittura assente”, poiché le abitudini o le passioni della facoltà appetitiva possono ostacolare l’uso della Ragione in alcune azioni specifiche. In questo senso, c’è del vero nell’affermazione di Socrate che finché un uomo possiede conoscenza, non può peccare; tuttavia, questa conoscenza deve includere anche l’uso della Ragione in quel particolare atto di scelta.  
+Pertanto, affinché un uomo compia un atto buono, è necessario non solo che la sua ragione sia ben disposta grazie a un’abitudine di virtù intellettiva, ma anche che il suo appetito sia ben disposto grazie a un’abitudine di virtù morale. La virtù morale differisce quindi dalla virtù intellettiva, così come l’appetito differisce dalla Ragione. Pertanto, proprio come l’appetito è il principio degli atti umani nella misura in cui partecipa alla Ragione, anche le abitudini morali possono essere considerate virtù nella misura in cui sono in conformità con la Ragione.
+
+Risposta all’Obiezione 1: Agostino utilizza solitamente il termine “arte” per indicare qualsiasi forma di ragionamento corretto; in questo senso, l’arte include la prudenza, che rappresenta il ragionamento corretto riguardo alle azioni da compiere, così come l’arte è il ragionamento corretto riguardo alle cose da creare. Pertanto, quando afferma che “la virtù è l’arte del comportamento retto”, ciò si riferisce essenzialmente alla prudenza; per quanto riguarda le altre virtù, tale affermazione vale in senso più esteso, poiché anch’esse sono guidate dalla prudenza.
+
+Risposta all’Obiezione 2: Tutte queste definizioni, qualunque ne sia l’autore, si basano sulla teoria socratica e devono essere spiegate in base a quanto abbiamo detto sull’arte (vedi punto 1). Lo stesso vale per la Terza Obiezione.
+
+Risposta all’Obiezione 4: La ragione retta, che è in accordo con la prudenza, è inclusa nella definizione della virtù morale, non come parte della sua essenza, ma come qualcosa che appartiene, per partecipazione, a tutte le virtù morali, nella misura in cui queste sono tutte guidate dalla prudenza.
+
 <span class="atom-split" data-atom="023" data-title="Whether virtue is adequately divided into moral and intellectual?" data-chapter="Whether virtue is adequately divided into moral and intellectual?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that virtue is not adequately divided into moral and intellectual.
@@ -1174,6 +1543,25 @@ maintains (Ethic. vii, 1,9).
 
 Reply to Objection 3: Faith, hope, and charity are superhuman virtues: for they are virtues of
 man as sharing in the grace of God.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la virtù non sia stata divisa in modo adeguato in virtù morali e intellettuali.  
+Infatti, la prudenza sembra rappresentare un mezzo tra le virtù morali e quelle intellettuali, poiché viene considerata tra le virtù intellettuali (Etica, VI, 3,5); inoltre, tutti la includono tra le quattro virtù cardinali, che sono virtù morali, come dimostreremo più avanti (Q[61], A[1]). Pertanto, la virtù non è stata divisa in modo adeguato in virtù intellettuali e morali, come se non esistesse alcun mezzo tra di esse.
+
+Obiezione 2: Inoltre, la contingenza, la perseveranza e la pazienza non vengono considerate virtù intellettuali. Tuttavia, nemmeno sono virtù morali; poiché non riducono le passioni a un livello moderato, anzi sono compatibili con una loro intensità elevata. Pertanto, la distinzione tra virtù intellettuali e morali non è adeguatamente precisa.
+
+Obiezione 3: Inoltre, la [fede](/concepts/theological_virtues), la speranza e la carità sono virtù. Tuttavia non sono virtù intellettuali, poiché ne esistono soltanto cinque, ovvero scienza, saggezza, intelligenza, prudenza e arte, come detto sopra (Q[57], AA[2], 3, 5). Né sono virtù morali, poiché non riguardano le passioni, che costituiscono l’oggetto principale delle virtù morali. Pertanto, la virtù non può essere adeguatamente divisa in intellettuali e morali.
+
+Al contrario, il Filosofo afferma (Etica, ii, 1) che “la virtù è di due tipi: intellettuale e morale”.
+
+Rispondo che la virtù umana è un’[abitudine](/concepts/custom) che perfeziona l’uomo al fine di compiere azioni buone. Ora, nell’uomo esistono soltanto due principi che guidano le sue azioni: l’intelletto o la ragione, e il desiderio; questi sono infatti i due principali motrici dell’azione umana, come affermato nel De [Anima](/concepts/soul) III, testo 48. Pertanto, ogni virtù umana deve necessariamente rappresentare una perfezione di uno di questi principi. Se perfeziona l’intelletto speculativo o pratico dell’uomo al fine che le sue azioni siano buone, allora si tratta di una virtù intellettuale; se invece perfeziona il suo desiderio, allora si tratta di una virtù morale. Ne consegue quindi che ogni virtù umana sia o intellettuale o morale.
+
+Risposta all’Obiezione 1: La prudenza è essenzialmente una virtù intellettuale. Tuttavia, se considerata dal punto di vista del suo oggetto, presenta alcune somiglianze con le virtù morali; infatti, si tratta di un ragionamento corretto riguardo alle azioni da compiere, come già affermato in precedenza (Q[57], A[4]). È in questo senso che viene considerata tra le virtù morali.
+
+Risposta all’Obiezione 2: La contingenza e la perseveranza non sono perfezioni dell’appetito sensibile. Ciò è evidente dal fatto che le passioni sono presenti sia nell’uomo debole che in quello perseverante, il che non sarebbe possibile se l’appetito sensibile fosse perfezionato da un’abitudine che lo rendesse conforme alla ragione. Tuttavia, la contingenza e la perseveranza sono perfezioni della facoltà razionale e servono a impedire che la ragione venga deviata dalle passioni. Ma non possono essere considerate virtù: poiché la virtù intellettuale, che permette alla ragione di giudicare correttamente in materia morale, presuppone un appetito retto per gli scopi finali, affinché possa basare i propri ragionamenti su principi validi; e questo è ciò che manca nell’uomo debole e in quello perseverante. Inoltre, un’azione che derivi da due principi diversi non può essere considerata perfetta, a meno che ciascun principio non sia perfezionato dall’abitudine corrispondente: quindi, per quanto perfetto possa essere l’agente razionale che utilizza uno strumento, l’effetto risultante sarà imperfetto se lo stesso strumento non è a sua volta ben predisposto. Pertanto, se la facoltà sensibile, guidata dalla facoltà razionale, non è perfetta, per quanto perfetta possa essere la facoltà razionale stessa, l’azione risultante sarà imperfetta; e di conseguenza, il principio che la guida non può essere considerato una virtù. Per questo motivo, la contingenza – che consiste nel rinunciare ai piaceri – e la perseveranza – che consiste nel sopportare i dolori – non sono virtù, ma qualcosa di meno di una virtù, come afferma il Filosofo (Etica, vii, 1,9).
+
+Risposta all’Obiezione 3: Fede, speranza e carità sono virtù sovrumane; poiché rappresentano le virtù dell’uomo nel momento in cui partecipa alla grazia di Dio.
 
 <span class="atom-split" data-atom="024" data-title="Whether there can be moral without intellectual virtue?" data-chapter="Whether there can be moral without intellectual virtue?" data-kind="atom" data-srclang="en"></span>
 
@@ -1230,6 +1618,24 @@ more grievously will it be hurt. And consequently, although moral virtue be not 
 is, according to right reason, as the Platonists maintained [*Cf. Plato, Meno xli.]; but also it needs
 to be "joined with right reason," as [Aristotle](/figures/aristotle) declares (Ethic. vi, 13).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra possibile che esista la virtù morale senza quella intellettuale. Infatti, come afferma [Cicerone](/figures/cicero) nel “De Inventione Rhetorica” ii, la virtù morale è “un’abitudine simile a una seconda natura, in armonia con la ragione”. Ora, sebbene la natura possa essere in accordo con una qualche ragione sovrana che la guida, non c’è necessità che tale ragione sia unita alla natura nello stesso soggetto; ciò è evidente nei fenomeni naturali privi di conoscenza. Pertanto, in un uomo può esistere una virtù morale, simile a una seconda natura, che lo spinge ad accordarsi con la sua ragione, senza che questa sia perfezionata da una virtù intellettuale.
+
+Obiezione 2: Inoltre, grazie alla virtù intellettuale l’uomo può utilizzare la ragione in modo perfetto. Tuttavia, a volte accade che le persone siano virtuose e gradite a Dio senza essere particolarmente abili nell’utilizzo della ragione. Pertanto, sembra possibile che esista una virtù morale senza una corrispondente virtù intellettuale.
+
+Obiezione 3: Le virtù morali ci spingono ad compiere azioni buone. Tuttavia, alcune persone, senza affidarsi al giudizio della ragione, possiedono una naturale inclinazione a compiere azioni buone. Pertanto, le virtù morali possono esistere indipendentemente dalle virtù intellettuali.
+
+Al contrario, Gregorio afferma (Moralia, xxii) che “le altre virtù, a meno che non facciamo con prudenza ciò che desideriamo fare, non possono essere considerate vere virtù”. Ma la prudenza è una virtù intellettuale, come già detto sopra (Q[57], A[5]). Pertanto, le virtù morali non possono esistere senza virtù intellettuali.
+
+Rispondo che la virtù morale può esistere senza alcune delle virtù intellettuali, ovvero saggezza, scienza e arte; ma non senza intelligenza e prudenza. La virtù morale non può prescindere dalla prudenza, poiché questa rappresenta l’abitudine di scegliere correttamente. Ora, affinché una scelta sia valida, sono necessarie due condizioni: in primo luogo, che l’intenzione sia rivolta verso un fine appropriato; e questo è possibile grazie alla virtù morale, che orienta la facoltà desiderativa verso il bene concorde con la ragione, ovvero verso un fine legittimo. In secondo luogo, che l’uomo identifichi correttamente gli elementi utili per raggiungere tale fine; e ciò è possibile soltanto se la sua ragione consiglia, giudica e comanda in modo appropriato, il che costituisce appunto la funzione della prudenza e delle virtù ad essa collegate, come già detto (Q[57], AA[5],6). Pertanto, non può esistere virtù morale senza prudenza; e di conseguenza, neppure senza intelligenza. Infatti, è grazie alla virtù dell’intelligenza che conosciamo i principi autoevidenti sia in ambito speculativo che pratico. Quindi, proprio come la ragione corretta in ambito speculativo, nella misura in cui si basa su principi conosciuti naturalmente, presuppone la comprensione di tali principi, allo stesso modo anche la prudenza – che rappresenta la ragione corretta riguardo alle azioni da compiere – richiede una tale comprensione.
+
+Risposta all’Obiezione 1: L’inclinazione naturale nelle cose prive di ragione è priva di libertà di scelta; pertanto, tale inclinazione non richiede necessariamente il concorso della ragione. Tuttavia, l’inclinazione verso le virtù morali è accompagnata dalla libertà di scelta; perciò, affinché possa essere perfetta, è necessario che la ragione venga perfezionata attraverso le virtù intellettuali.
+
+Risposta all’Obiezione 2: Un uomo può essere virtuoso senza disporre di un uso completo della ragione per quanto riguarda tutte le cose; basta che ne disponga per quelle che devono essere compiute in modo virtuoso. In questo modo, tutti gli uomini virtuosi utilizzano appieno la propria ragione. Pertanto, coloro che sembrano semplici, a causa della mancanza di astuzia mondana, potrebbero benissimo essere saggi, secondo quanto detto in Matteo 10:16: “Siate dunque prudenti come i serpenti e semplici come le colombe”.
+
+Risposta all’Obiezione 3: L’inclinazione naturale verso un bene virtuoso rappresenta una sorta di inizio della virtù, ma non è ancora la virtù perfetta. Infatti, più forte è questa inclinazione, maggiori possono essere i pericoli che comporta, a meno che non sia accompagnata dalla ragione retta, che orienti correttamente la scelta dei mezzi adeguati al fine desiderato. Così, se un cavallo al galoppo fosse cieco, più velocemente correrebbe e più gravemente cadrebbe, subendo danni ancora maggiori. Pertanto, anche se la virtù morale non è la stessa ragione retta, come sosteneva [Socrate](/figures/socrates), essa non solo “è in accordo con la ragione retta”, nel senso che spinge l’uomo verso ciò che secondo la ragione retta è giusto, come affermavano i Platonici [*Cfr. Platone, Meno xli.*]; ma ha anche bisogno di essere “completata dalla ragione retta”, come dichiara [Aristotele](/figures/aristotle) (Etica vi, 13).
+
 <span class="atom-split" data-atom="025" data-title="Whether there can be intellectual without moral virtue?" data-chapter="Whether there can be intellectual without moral virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there can be intellectual without moral virtue. Because perfection
@@ -1283,6 +1689,24 @@ Reply to Objection 3: Prudence not only helps us to be of good counsel, but also
 command well. This is not possible unless the impediment of the passions, destroying the judgment
 and command of prudence, be removed; and this is done by moral virtue.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra possibile esistere una virtù intellettuale senza virtù morale. Infatti, la perfezione di ciò che precede non dipende dalla perfezione di ciò che segue. Poiché la ragione precede e guida l’appetito sensibile, la virtù intellettuale, essendo una perfezione della ragione, non dipende dalla virtù morale, che è una perfezione della facoltà appetitiva; anzi, può esistere anche senza di essa.
+
+Obiezione 2: Inoltre, la morale riguarda l’ambito della prudenza, così come le cose realizzabili rientrano nell’ambito dell’arte. Ora, l’arte può esistere senza il suo materiale appropriato, proprio come un fabbro può operare senza ferro. Pertanto, la prudenza può esistere anche senza le virtù morali, sebbene, tra tutte le virtù intellettuali, sembri essere quella più strettamente legata alle virtù morali.
+
+Obiezione 3: Inoltre, la prudenza è “una virtù grazie alla quale diamo buoni consigli” (Etica, VI, 9). Ora, molte persone danno buoni consigli senza possedere virtù morali; pertanto, la prudenza può esistere anche senza virtù morali.
+
+Al contrario, desiderare di compiere il male è direttamente in contrasto con la virtù morale; eppure tale desiderio non è contrario a nulla che possa esistere senza la virtù morale. Ora, “peccare volontariamente” è contrario alla prudenza (Etica, VI, 5). Pertanto, la prudenza non può esistere senza la virtù morale.
+
+Rispondo che altre virtù intellettuali possono esistere senza virtù morale, ma la prudenza non può farlo. La ragione di ciò è che la prudenza rappresenta quella giusta capacità di valutare quali azioni intraprendere (e questo non solo in modo generale, ma anche in casi specifici); tale capacità richiede principi su cui basarsi per il ragionamento. Quando il ragionamento riguarda situazioni particolari, sono necessari sia principi universali che principi specifici. Per quanto riguarda i principi universali dell’azione, l’uomo è naturalmente predisposto a comprenderli attraverso la propria intelligenza o attraverso alcune scienze pratiche; tuttavia ciò non è sufficiente per giudicare correttamente nei casi concreti. A volte, infatti, i principi universali conosciuti tramite l’intelletto o la scienza vengono annullati da passioni particolari: ad esempio, una persona dominata dalla concupiscenza potrebbe ritenere buono ciò che in realtà è contrario al giudizio razionale. Pertanto, sebbene l’intelligenza naturale o le scienze contribuiscano a predisporre l’uomo ai principi universali dell’azione, affinché possa giudicare correttamente anche nei casi specifici, è necessario che si sviluppino ulteriori abitudini morali; tali abitudini rendono naturale per l’uomo giudicare in modo appropriato al fine da raggiungere. Ciò avviene attraverso la virtù morale: il virtuoso, infatti, è in grado di comprendere correttamente quale sia lo scopo della virtù stessa, poiché “un tale uomo percepisce lo scopo della virtù esattamente come esso realmente è” (Etica, III, 5). Di conseguenza, la giusta capacità di valutare quali azioni intraprendere richiede che l’uomo possieda virtù morale.
+
+Risposta all’Obiezione 1: La ragione, nel comprendere l’obiettivo finale, precede il desiderio di raggiungerlo; tuttavia, il desiderio stesso precede la ragione, poiché è proprio la ragione a decidere quale mezzo utilizzare, e questo rientra nell’ambito della prudenza. Anche in ambito speculativo, la comprensione dei principi costituisce la base su cui si fonda il ragionamento logico.
+
+Risposta all’Obiezione 2: Non dipende dalla disposizione del nostro appetito il fatto che giudichiamo bene o male i principi dell’arte, come invece avviene quando valutiamo lo scopo finale, che rappresenta il principio nelle questioni morali; nel primo caso, il nostro giudizio dipende esclusivamente dalla ragione. Pertanto, l’arte non richiede una virtù che perfezioni l’appetito, come invece avviene nella prudenza.
+
+Risposta all’Obiezione 3: La prudenza non solo ci aiuta a dare buoni consigli, ma anche a giudicare e comandare correttamente. Ciò è possibile soltanto se vengono eliminate gli ostacoli rappresentati dalle passioni, che distruggono il giudizio e la capacità di agire con prudenza; e questo avviene attraverso le virtù morali.
+
 <span class="atom-split" data-atom="026" data-title="OF MORAL VIRTUE IN RELATION TO THE PASSIONS (FIVE ARTICLES)" data-chapter="OF MORAL VIRTUE IN RELATION TO THE PASSIONS (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the difference of one moral virtue from another. And since those moral
@@ -1294,6 +1718,15 @@ the passions. Under the first head there are five points of inquiry:
 (3) Whether sorrow is compatible with moral virtue?
 (4) Whether every moral virtue is about a passion?
 (5) Whether there can be moral virtue without passion?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la differenza tra una virtù morale e un’altra. Poiché le virtù morali che riguardano le passioni differiscono in base alle diverse nature di queste ultime, dobbiamo esaminare: (1) il rapporto tra la virtù e la passione; (2) i diversi tipi di virtù morali in relazione alle passioni. Nel primo ambito di indagine vi sono cinque punti da analizzare:  
+(1) La virtù morale è forse una passione?  
+(2) È possibile esistere una virtù morale associata a una passione?  
+(3) Il dolore è compatibile con la virtù morale?  
+(4) Ogni virtù morale riguarda necessariamente una passione?  
+(5) È possibile esistere una virtù morale senza alcuna passione?
 
 <span class="atom-split" data-atom="027" data-title="Whether moral virtue is a passion?" data-chapter="Whether moral virtue is a passion?" data-kind="atom" data-srclang="en"></span>
 
@@ -1338,6 +1771,24 @@ of the soul is obedient to reason"; viz. "when pity is bestowed without violatin
 poor are relieved, or the penitent forgiven," as Augustine says (De Civ. Dei ix, 5). But if by pity
 we understand a habit perfecting man so that he bestows pity reasonably, nothing hinders pity, in
 this sense, from being a virtue. The same applies to similar passions.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la virtù morale sia una passione. Poiché il mezzo appartiene allo stesso genere degli estremi, e la virtù morale è proprio un mezzo tra due passioni. Pertanto, la virtù morale dovrebbe essere considerata una passione.
+
+Obiezione 2: Inoltre, virtù e vizio, essendo contrari tra loro, appartengono allo stesso genere. Tuttavia alcune passioni sono considerate vizi, come l’invidia e la [ira](/concepts/anger). Pertanto, alcune passioni possono essere considerate virtù.
+
+Obiezione 3: Inoltre, la pietà è una passione, poiché rappresenta il dolore per le sfortune altrui, come già detto sopra (Q[35], A[8]). Ora, “il famoso oratore [Cicerone](/figures/cicero) non esitò a definire la pietà una virtù”, come afferma [Agostino](/figures/augustine) nel De Civ. Dei IX, 5. Pertanto, una passione può essere considerata una virtù morale.
+
+Al contrario, si afferma nell’Etica, II, 5 che “le passioni non sono né virtù né vizi”.
+
+Rispondo che la virtù morale non può essere una passione. Ciò è evidente per tre motivi. Primo, perché una passione è un movimento dell’appetito sensibile, come detto sopra (Q[22], A[3]); mentre la virtù morale non è un movimento, bensì un principio che guida il movimento dell’appetito, essendo essa stessa una sorta di [abitudine](/concepts/custom). Secondo, perché le passioni in sé non sono buone né cattive. Il bene o il male dell’uomo dipendono infatti dalla ragione; pertanto le passioni, considerate in sé, possono riferirsi sia al bene che al male, poiché possono accordarsi o scontrarsi con la ragione. Ora, nulla di tutto ciò può essere considerato una virtù: poiché la virtù si riferisce esclusivamente al bene, come detto sopra (Q[55], A[3]). Terzo, perché anche ammesso che alcune passioni possano, in qualche modo, riferirsi esclusivamente al bene o al male, il movimento stesso della passione ha origine nell’appetito e si conclude nella ragione, poiché l’appetito tende alla conformità con la ragione. Al contrario, il movimento della virtù è inverso: inizia nella ragione e termina nell’appetito, poiché quest’ultimo viene mosso dalla ragione. Ecco perché la definizione di virtù morale (Etica ii, 6) afferma che essa sia “un’abitudine che porta a scegliere ciò che la ragione indica come il comportamento più saggio”.
+
+Risposta all’Obiezione 1: La virtù è un mezzo tra le passioni, non in base alla sua essenza, ma in considerazione del suo effetto; infatti, essa stabilisce proprio quel mezzo tra le passioni.
+
+Risposta all’Obiezione 2: Se per vizio intendiamo l’abitudine di compiere atti malvagi, è evidente che nessuna passione possa essere considerata un vizio. Tuttavia, se per vizio si intende il peccato, ovvero un atto malvagio, nulla impedisce a una passione di essere considerata un vizio, né di contribuire, in qualche modo, all’attuazione di un atto virtuoso; purché tale passione sia contraria alla ragione o, al contrario, in accordo con essa.
+
+Risposta all’Obiezione 3: Si dice che la pietà sia una virtù, cioè un atto di virtù, nella misura in cui “quel movimento dell’anima è obbediente alla ragione”; vale a dire “quando la pietà viene manifestata senza violare i principi della giustizia, come quando si aiutano i poveri o si perdona il pentito”, come afferma Agostino (De Civ. Dei ix, 5). Tuttavia, se intendiamo per pietà un’abitudine che rende l’uomo capace di manifestarla in modo razionale, nulla impedisce che la pietà, in questo senso, sia considerata una virtù. Lo stesso vale per altre passioni simili.
 
 <span class="atom-split" data-atom="028" data-title="Whether there can be moral virtue with passion?" data-chapter="Whether there can be moral virtue with passion?" data-kind="atom" data-srclang="en"></span>
 
@@ -1463,6 +1914,25 @@ more readily whatever banishes sorrow.
 Reply to Objection 3: Immoderate sorrow is a disease of the mind: but moderate sorrow is the
 mark of a well-conditioned mind, according to the present state of life.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il dolore sia incompatibile con la virtù. Poiché le virtù sono effetti della saggezza, come afferma la Saggezza 8:7: “Lei”, cioè la saggezza divina, “insegna temperanza, prudenza, giustizia e forza d’animo”. Ora, la “conversazione” della saggezza “non ha amarezza”, come leggiamo ulteriormente nel versetto 16. Pertanto, anche il dolore è incompatibile con la virtù.
+
+Obiezione 2: Inoltre, il dolore rappresenta un ostacolo al lavoro, come afferma il Filosofo (Etica, vii, 13; x, 5). Ma un ostacolo alle buone azioni è incompatibile con la virtù. Pertanto, il dolore è incompatibile con la virtù.
+
+Obiezione 3: Inoltre, Tullio definisce il dolore una “malattia dell’anima” (De Tusc. Quaest. iv). Ma una malattia dell’anima è incompatibile con la virtù, che rappresenta invece uno stato positivo dell’anima. Pertanto, il dolore è contrario alla virtù e incompatibile con essa.
+
+Al contrario, Cristo era perfetto in virtù. Tuttavia, Egli provava tristezza; infatti disse (Matteo 26:38): “La mia anima è addolorata fino alla morte”. Pertanto, la tristezza è compatibile con la virtù.
+
+Rispondo che, come afferma [Agostino](/figures/augustine) (De Civ. Dei xiv, 8), gli Stoici ritenevano che nell’animo dell’uomo saggio esistessero tre “eupatheiai”, cioè “tre buone passioni”, al posto delle tre perturbazioni mentali: invece della brama, il “desiderio”; invece della gioia, la “letizia”; invece della paura, la “prudenza”. Tuttavia negavano che nell’animo di un uomo saggio potesse esistere qualcosa di simile al dolore, per due motivi. Primo, perché il dolore riguarda un male già presente; ora gli Stoici sostenevano che a nessun uomo saggio potesse accadere alcun male, poiché consideravano la virtù l’unico bene dell’uomo e il vizio l’unico male, e quindi il vizio non poteva esistere in un uomo virtuoso. Ma questa argomentazione è irragionevole: poiché l’uomo è composto da ['anima e corpo](/axes/soul_body), ciò che contribuisce a preservare la vita del corpo rappresenta senz’altro un bene, anche se non il bene supremo, poiché può essere abusato; quindi anche il male contrario a questo bene può esistere in un uomo saggio e causargli un dolore moderato. Inoltre, sebbene un uomo virtuoso possa vivere senza peccati gravi, nessuno vive senza commettere peccati minori, come afferma 1 Giovanni 1:8: “Se diciamo di non avere peccato, ci inganniamo”. Un terzo motivo è che un uomo virtuoso, anche se attualmente non è in uno stato di peccato, potrebbe esserlo stato in passato; e va lodato se si pente di quel peccato, come dice 2 Corinzi 7:10: “Il dolore che è secondo Dio produce penitenza, che conduce alla salvezza”. Infine, un uomo virtuoso può anche piangere onestamente per il peccato altrui; quindi il dolore è compatibile con la virtù, proprio come le altre passioni quando sono moderate dalla ragione. Il loro secondo motivo per sostenere questa opinione era che il dolore riguarda un male presente, mentre la paura riguarda un male futuro; così come il piacere riguarda un bene presente e il desiderio un bene futuro. Ora, godere di un bene già posseduto o desiderare ciò che non si possiede può essere compatibile con la virtù; ma lo sconforto derivante dal dolore per un male presente è completamente contrario alla ragione, quindi incompatibile con la virtù. Tuttavia questa argomentazione è ancora irragionevole: poiché esiste un male che può essere presente nell’uomo virtuoso, e tale male viene rifiutato dalla ragione; quindi il desiderio sensuale segue il rifiuto della ragione attraverso il dolore per quel male, ma in modo moderato, secondo quanto detta dalla ragione. Poiché è proprio del carattere virtuoso che il desiderio sensuale sia conforme alla ragione, come già affermato (A[1], ad 2), quindi un dolore moderato per qualcosa che dovrebbe farci soffrire è segno di virtù, come dice anche il Filosofo (Etica ii, 6,7). Inoltre, questo atteggiamento si rivela utile per evitare il male: poiché, proprio come il bene viene cercato con maggiore slancio per il piacere, così il male viene evitato con maggiore determinazione a causa del dolore. Pertanto dobbiamo ammettere che il dolore per ciò che riguarda la virtù è incompatibile con.
+La virtù: poiché la virtù si rallegra di ciò che è proprio suo. D’altra parte, la virtù soffre moderatamente per tutto ciò che ostacola la sua realizzazione, in qualsiasi modo avvenga.
+
+Risposta all’Obiezione 1: Il passaggio citato dimostra che la saggezza non rende l’uomo triste; tuttavia, egli soffre per tutto ciò che ostacola la saggezza. Pertanto, non vi è spazio per il dolore nei beati, nei quali non può esserci alcun ostacolo alla saggezza.
+
+Risposta all’Obiezione 2: Il dolore ostacola l’azione che lo provoca; tuttavia ci aiuta a compiere più facilmente tutto ciò che può eliminarlo.
+
+Risposta all’Obiezione 3: Il dolore eccessivo è una malattia dell’anima; ma un dolore moderato rappresenta il segno di un’anima ben equilibrata, secondo lo stato attuale della vita.
+
 <span class="atom-split" data-atom="030" data-title="Whether all the moral virtues are about the passions?" data-chapter="Whether all the moral virtues are about the passions?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all the moral virtues are about the passions. For the Philosopher
@@ -1501,6 +1971,24 @@ rational by participation, but also the will, where there are no passions, as st
 
 Reply to Objection 3: Some virtues have passions as their proper matter, but some virtues not.
 Hence the comparison does not hold for all cases.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che tutte le virtù morali riguardino le passioni. Infatti, il Filosofo afferma (Etica ii, 3) che “la virtù morale riguarda gli oggetti di piacere e dolore”. Ma piacere e dolore sono passioni, come detto sopra (Q[23], A[4]; Q[31], A[1]; Q[35], AA[1], 2). Pertanto, tutte le virtù morali riguardano le passioni.
+
+Obiezione 2: Inoltre, l’oggetto delle virtù morali è una facoltà che è razionale per partecipazione, come afferma il Filosofo nell’Etica i, 13. Ma le passioni si trovano in questa parte dell’anima, come detto sopra (Q[22], A[3]). Pertanto, ogni virtù morale riguarda le passioni.
+
+Obiezione 3: Inoltre, ogni virtù morale è legata alle passioni; quindi o tutte le virtù morali riguardano le passioni, oppure nessuna di esse lo fa. Ma alcune virtù morali sono effettivamente legate alle passioni, come la forza d’animo e la temperanza, come affermato nell’Etica, III, 6,10. Pertanto, tutte le virtù morali riguardano le passioni.
+
+Al contrario, la Giustizia, che è una virtù morale, non riguarda le passioni; come affermato nell’Etica, v, 1 e seguenti.
+
+Rispondo che la virtù morale perfeziona la parte appetitiva dell’anima indirizzandola verso il bene, così come definito dalla ragione. Ora, il bene definito dalla ragione è ciò che è moderato o guidato dalla ragione stessa. Pertanto, esistono virtù morali relative a tutte le cose soggette alla guida e alla moderazione della ragione. La ragione dirige non solo le passioni dell’appetito sensibile, ma anche le operazioni dell’appetito intellettivo, cioè la volontà, che, come già detto (Q[22], A[3]), non è soggetta alle passioni. Quindi, non tutte le virtù morali riguardano le passioni; alcune riguardano le passioni, altre le operazioni intellettive.
+
+Risposta all’Obiezione 1: Le virtù morali non riguardano esclusivamente piaceri e dolori, poiché questi non ne costituiscono la materia propria; bensì rappresentano qualcosa che deriva dai loro atti concreti. Infatti, ogni uomo virtuoso si rallegra per gli atti di virtù e soffre per quelli contrari. Per questo motivo, il Filosofo, dopo le parole citate, aggiunge: “Se le virtù riguardano azioni e passioni; poiché ogni azione e passione sono accompagnate da piacere o dolore, ne consegue che anche le virtù sono legate a piaceri e dolori”, cioè a qualcosa che deriva dalla pratica della virtù stessa.
+
+Risposta all’Obiezione 2: Non solo l’appetito sensibile, che è l’oggetto delle passioni, è razionale per partecipazione, ma anche la volontà, nella quale non vi sono passioni, come già detto sopra.
+
+Risposta all’Obiezione 3: Alcune virtù hanno le passioni come loro materia propria, altre invece no. Pertanto, questa analogia non è valida in tutti i casi.
 
 <span class="atom-split" data-atom="031" data-title="Whether there can be moral virtue without passion?" data-chapter="Whether there can be moral virtue without passion?" data-kind="atom" data-srclang="en"></span>
 
@@ -1546,6 +2034,24 @@ is no sensitive appetite in God and the angels, as there is in man. Consequently
 God and the angels is altogether without passion, as it is without a body: whereas the good operation
 of man is with passion, even as it is produced with the body's help.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la virtù morale possa esistere senza passioni. Infatti, più la virtù morale è perfetta, più riesce a dominare le passioni; pertanto, al suo massimo livello di perfezione, essa è completamente priva di passioni.
+
+Obiezione 2: Inoltre, una cosa è perfetta quando viene separata dal suo contrario e da tutto ciò che tende verso di esso. Ora, le passioni ci spingono a peccare, il quale è contrario alla virtù; per questo motivo (Romani 7:5) vengono chiamate “passioni del peccato”. Pertanto, la virtù perfetta è completamente priva di passioni.
+
+Obiezione 3: Inoltre, è proprio grazie alle virtù che siamo conformi a Dio, come dichiara [Agostino](/figures/augustine) (De Moribus Ecclesiae, VI, xi, xiii). Ma Dio compie tutte le cose senza alcuna passione. Pertanto, la virtù più perfetta è anch’essa priva di qualsiasi passione.
+
+Al contrario, “Nessun uomo è giusto se non si rallegra delle proprie azioni”, come affermato nell’Etica I, 8. Ma la gioia è un sentimento; pertanto la giustizia non può esistere senza sentimenti, e lo stesso vale per le altre virtù.
+
+Rispondo che, se consideriamo le passioni come emozioni eccessive, come facevano gli Stoici, è evidente che in questo senso la virtù perfetta è priva di passioni. Tuttavia, se intendiamo per passioni qualsiasi movimento dell’appetito sensibile, allora è chiaro che le virtù morali, che riguardano appunto queste passioni come loro oggetto specifico, non possono esistere senza di esse. Il motivo è che in caso contrario si dovrebbe concludere che la virtù morale renda completamente inutili le facoltà subordinate alla ragione; mentre invece il compito della virtù non è privare queste facoltà delle loro funzioni naturali, ma farle eseguire i comandi della ragione attraverso l’esercizio dei loro atti appropriati. Pertanto, proprio come la virtù dirige gli organi del corpo verso le loro azioni appropriate, allo stesso modo dirige l’appetito sensibile verso i suoi movimenti regolamentati. Tuttavia, alcune virtù morali, che non riguardano direttamente le passioni ma piuttosto determinate operazioni mentali, possono esistere senza di esse. Un esempio è la giustizia: essa orienta la volontà verso il suo atto specifico, che non rientra nella categoria delle passioni. Nonostante ciò, dalla pratica della giustizia deriva una sensazione di gioia; almeno nella volontà, e in questo caso tale gioia non è considerata una passione. E se questa gioia aumenta con la perfezione della giustizia, essa può influenzare anche l’appetito sensibile; poiché, come già detto (Q[17], A[7]; Q[24], A[3]), le facoltà inferiori seguono spesso il movimento di quelle superiori. Pertanto, più una virtù è perfetta, più essa può generare emozioni.
+
+Risposta all’Obiezione 1: La virtù supera le passioni eccessive; essa genera invece passioni moderate e ordinate.
+
+Risposta all’Obiezione 2: È la passione disordinata, e non quella ordinata, a portare al peccato.
+
+Risposta all’Obiezione 3: Il bene di qualsiasi cosa dipende dalle caratteristiche della sua natura. Ora, in Dio e negli angeli non esiste alcun desiderio sensibile, come invece nell’uomo. Pertanto, l’azione virtuosa compiuta da Dio e dagli angeli avviene completamente senza passioni, poiché essi sono privi di corpo; mentre l’azione virtuosa dell’uomo è accompagnata da passioni, proprio perché viene realizzata con l’aiuto del corpo.
+
 <span class="atom-split" data-atom="032" data-title="HOW THE MORAL VIRTUES DIFFER FROM ONE ANOTHER (FIVE ARTICLES)" data-chapter="HOW THE MORAL VIRTUES DIFFER FROM ONE ANOTHER (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider how the moral virtues differ from one another: under which head there
@@ -1556,6 +2062,15 @@ about passions?
 (3) Whether there is but one moral virtue about operations?
 (4) Whether there are different moral virtues about different passions?
 (5) Whether the moral virtues differ in point of the various objects of the passions?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare in che modo le virtù morali si differenziano l’una dall’altra: sotto questo aspetto ci sono cinque punti da esaminare:  
+(1) Esiste una sola virtù morale?  
+(2) Le virtù morali relative alle azioni sono distinte da quelle relative alle passioni?  
+(3) Esiste una sola virtù morale relativa alle azioni?  
+(4) Esistono diverse virtù morali per le varie passioni?  
+(5) Le virtù morali differiscono in base agli oggetti delle varie passioni?
 
 <span class="atom-split" data-atom="033" data-title="Whether there is only one moral virtue?" data-chapter="Whether there is only one moral virtue?" data-kind="atom" data-srclang="en"></span>
 
@@ -1612,6 +2127,24 @@ above.
 Reply to Objection 3: Moral matters do not receive their species from the last end, but from
 their proximate ends: and these, although they be infinite in number, are not infinite in species.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che esista soltanto una virtù morale. Poiché, proprio come la direzione delle azioni morali appartiene alla ragione, che è l’oggetto delle virtù intellettuali, allo stesso modo anche la loro tendenza naturale appartiene all’appetito, che è anch’esso l’oggetto delle virtù morali. Ma esiste soltanto una virtù intellettuale in grado di guidare tutte le azioni morali, ovvero la prudenza. Pertanto, esiste anche soltanto una virtù morale in grado di determinare la tendenza naturale di tutte le azioni morali.
+
+Obiezione 2: Inoltre, le abitudini differiscono non in relazione ai loro oggetti materiali, ma in base all’aspetto formale di tali oggetti. Ora, l’aspetto formale del bene verso cui è diretta la virtù morale è qualcosa di specifico, ovvero il mezzo definito dalla ragione. Pertanto, sembrerebbe che esista una sola virtù morale.
+
+Obiezione 3: Inoltre, le cose relative alla morale sono definite dal loro fine, come già detto sopra (Q[1], A[3]). Ora, esiste un solo fine comune a tutte le virtù morali, ovvero la felicità, mentre i fini propri e immediati sono infiniti in numero. Tuttavia, le virtù morali stesse non sono infinite in numero. Pertanto, sembra che esista soltanto un fine comune per tutte le virtù morali.
+
+Al contrario, un’unica [abitudine](/concepts/custom) non può esercitare diverse funzioni, come già affermato sopra (Q[56], A[2]). Tuttavia, l’oggetto delle virtù morali è la parte appetitiva dell’anima, che è divisa in diverse facoltà, come indicato nel FP, Q[80], A[2] e nel FP, Q[81], A[2]. Pertanto, non può esistere una sola virtù morale.
+
+Rispondo che, come già detto sopra (Q[58], AA[1],2,3), le virtù morali sono abitudini della facoltà appetitiva. Ora, le abitudini differiscono specificamente in base alle differenze specifiche dei loro oggetti, come affermato anch’esso sopra (Q[54], A[2]). Inoltre, la specie dell’oggetto dell’appetito, come quella di qualsiasi altra cosa, dipende dalla sua forma specifica, che essa riceve dall’agente. Tuttavia, è necessario osservare che la materia del soggetto passivo ha un doppio rapporto con l’agente: a volte riceve la forma dell’agente nello stesso genere specifico in cui tale forma esiste nell’agente stesso, come avviene per tutti gli agenti univoci; quindi, se l’agente è di natura univoca, anche la materia deve necessariamente ricevere una forma dello stesso genere specifico. Altre volte, invece, la materia riceve la forma dall’agente, ma non nello stesso genere specifico in cui tale forma esiste nell’agente; questo è il caso delle cause di generazione non univoci: ad esempio, un animale viene generato dal sole. In questo caso, le forme ricevute dalla materia non appartengono alla stessa specie, ma variano in base all’adattabilità della materia a ricevere l’influenza dell’agente; per esempio, grazie all’azione del sole vengono prodotti animali di diverse specie, a seconda delle diverse capacità adattative della materia. È evidente quindi che, in ambito morale, la ragione svolge il ruolo di comandante e motore, mentre la facoltà appetitiva è guidata e influenzata dalla ragione. Tuttavia, l’appetito non riceve direttamente le indicazioni della ragione in modo univoco; esso è infatti razionale, ma non essenzialmente, bensì per partecipazione (Etica, i, 13). Di conseguenza, gli oggetti resi desiderabili dalla guida della ragione appartengono a diverse specie, in base alle loro varie relazioni con la ragione; ne deriva che le virtù morali siano di natura diversificata e non costituiscono un’unica entità.
+
+Risposta all’Obiezione 1: L’oggetto della ragione è la verità. Ora, in tutte le questioni morali, che sono questioni contingenti relative alle azioni umane, esiste soltanto un tipo di verità. Di conseguenza, esiste anche una sola virtù capace di guidare tutte queste questioni, ovvero la prudenza. D’altra parte, l’oggetto del potere appetitivo è il bene desiderabile, il quale varia in natura a seconda delle sue diverse relazioni con la ragione, che svolge il ruolo di guida.
+
+Risposta all’Obiezione 2: Questo elemento formale è lo stesso in termini generali, a causa dell’unità dell’agente; tuttavia varia nelle sue specifiche manifestazioni, in base alle diverse relazioni della materia che lo riceve, come spiegato sopra.
+
+Risposta all’Obiezione 3: Le questioni morali non ricevono la loro specifica dal fine ultimo, ma dai loro fini immediati; e questi, sebbene siano infiniti in numero, non lo sono nella loro specifica.
+
 <span class="atom-split" data-atom="034" data-title="Whether moral virtues about operations are different from those that are about passions?" data-chapter="Whether moral virtues about operations are different from those that are about passions?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that moral virtues are not divided into those which are about
@@ -1657,6 +2190,18 @@ This suffices for the Replies to the Objections. For the first considers operati
 of virtue, while the other two consider operation and passion as concurring in the same effect. But
 in some cases virtue is chiefly about operations, in others, about passions, for the reason given
 above.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le virtù morali non si dividano in quelle relative alle azioni e quelle relative alle passioni. Infatti, il Filosofo afferma (Etica ii, 3) che la virtù morale è “un’abitudine operativa mediante la quale compiamo ciò che è migliore nei casi di piacere o dolore”. Ora, piacere e dolore sono passioni, come detto sopra (Q[31], A[1]; Q[35], A[1]). Pertanto, la stessa virtù che riguarda le passioni riguarda anche le azioni, poiché si tratta di un’abitudine operativa.
+
+Obiezione 2: Inoltre, le passioni sono principi che guidano l’azione esterna. Pertanto, se alcune virtù regolano le passioni, devono necessariamente regolare anche le azioni concrete. Quindi le stesse virtù morali riguardano sia le passioni che le azioni.
+
+Obiezione 3: Inoltre, l’appetito sensibile viene mosso in modo positivo o negativo da ogni azione esterna. Ora, i movimenti dell’appetito sensibile sono passioni; pertanto, le stesse virtù che riguardano queste azioni riguardano anche queste passioni.
+
+Al contrario, il Filosofo ritiene che la giustizia riguardi le azioni umane; mentre la temperanza, la forza d’animo e la gentilezza riguardino le passioni (Etica, ii, 3,7; v, 1, e seguenti).
+
+Rispondo che l’azione e la passione svolgono un doppio ruolo rispetto alla virtù. In primo luogo, come suoi effetti: in questo senso, ogni virtù morale produce risultati positivi, nonché emozioni specifiche – piacere o dolore – che costituiscono manifestazioni della passione, come già accennato (Q[59], A[4], ad 1). In secondo luogo, l’azione può essere considerata l’oggetto principale di una virtù morale; in questo caso, le virtù che riguardano direttamente le azioni devono necessariamente differire da quelle che riguardano le emozioni. Il motivo è che il bene e il male, in alcune azioni, derivano dalla loro stessa natura, indipendentemente dall’effetto che queste azioni hanno sull’individuo; in altre parole, il bene e il male dipendono dal fatto che tali azioni siano proporzionali a qualcun altro. In questi casi, è necessaria una forza che regoli direttamente le stesse azioni: sono esempi di ciò l’acquisto e la vendita, nonché tutte quelle operazioni in cui vi è un elemento legato alla proporzione tra parti opposte. Per questo motivo, la giustizia e le virtù ad essa correlate riguardano principalmente le azioni come loro oggetto specifico. D’altra parte, in alcune azioni, il bene e il male dipendono soltanto dalla proporzionalità rispetto all’agente che le compie; in questi casi, il bene e il male dipendono dal modo in cui l’individuo è influenzato da tali azioni. Per questo motivo, in tali situazioni, la virtù riguarda principalmente le emozioni interne dell’anima, come la temperanza e la forza d’animo. Tuttavia, nelle azioni dirette verso altri individui, il bene della virtù può essere trascurato a causa di passioni eccessive dell’anima; in tali casi, la giustizia viene compromessa quando la misura appropriata dell’azione esterna viene violata, mentre altre virtù vengono danneggiate quando le emozioni interne superano il limite consentito. Ad esempio, quando una persona colpisce un’altra per rabbia, la giustizia viene compromessa dall’atto eccessivo; allo stesso modo, la gentilezza viene distrutta da una rabbia incontrollata. Lo stesso vale per altre virtù. Ciò basta per rispondere alle obiezioni sollevate. La prima obiezione considera l’azione come effetto della virtù, mentre le altre due considerano sia l’azione che la passione come fattori coinvolti nello stesso risultato. Tuttavia, come già detto, in alcuni casi la virtù riguarda principalmente le azioni, in altri le emozioni interne dell’anima.
 
 <span class="atom-split" data-atom="035" data-title="Whether there is only one moral virtue about operations?" data-chapter="Whether there is only one moral virtue about operations?" data-kind="atom" data-srclang="en"></span>
 
@@ -1712,6 +2257,24 @@ justice. Consequently, there is the same virtue of justice, especially in regard
 it may be that distributive justice is of another species from commutative justice; but about this we
 shall inquire later on (SS, Q[61], A[1]).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che esista soltanto una virtù morale legata alle azioni umane. Poiché la rettitudine di tutte le azioni esterne sembra appartenere alla giustizia, e la giustizia è una sola virtù, ne consegue che esiste anche una sola virtù legata alle azioni umane.
+
+Obiezione 2: Inoltre, sembra che le operazioni che da un lato mirano al bene dell’individuo e dall’altro al bene del molti siano le più diverse tra loro. Tuttavia, questa diversità non comporta una diversità nelle virtù morali: infatti il Filosofo afferma (Etica v, 1) che la giustizia legale, che dirige gli atti umani verso il bene comune, non differisce, se non logicamente, dalla virtù che orienta le azioni di un individuo esclusivamente verso un altro individuo. Pertanto, la diversità delle operazioni non genera una diversità nelle virtù morali.
+
+Obiezione 3: Inoltre, se esistono diverse virtù morali legate a operazioni diverse, ne consegue necessariamente la diversità delle stesse operazioni. Ma ciò è chiaramente falso: infatti, la funzione della giustizia è proprio quella di stabilire la rettitudine nelle varie forme di scambio e distribuzione, come viene esplicitato nell’Etica V, 2. Pertanto, non esistono virtù diverse legate a operazioni diverse.
+
+Al contrario, la Religione è una virtù morale distinta dalla pietà; entrambe riguardano azioni o comportamenti concreti.
+
+Rispondo che tutte le virtù morali relative alle azioni umane condividono un concetto generale di giustizia, che riguarda ciò che è dovuto a qualcuno; tuttavia differiscono in base a concetti specifici e particolari. La ragione di ciò sta nel fatto che, nelle azioni esterne, l’ordine stabilito dalla ragione si basa non sul modo in cui l’uomo è influenzato da tali azioni, ma sulla natura stessa delle cose coinvolte; da questa natura deriva il concetto di ciò che è dovuto, che rappresenta l’aspetto formale della giustizia: infatti, sembra proprio che rientri nella definizione di giustizia il fatto che un uomo restituisca a un altro ciò che gli è dovuto. Pertanto, tutte queste virtù hanno in qualche modo il carattere della giustizia; tuttavia, ciò che è dovuto non è dello stesso tipo in ognuna di esse: infatti, qualcosa può essere dovuto a una persona uguale in un certo senso, a una superiore in un altro, a una inferiore in ancora un altro; inoltre, la natura del debito varia a seconda che derivi da un contratto, da una promessa o da un favore già concesso. E, in corrispondenza di questi diversi tipi di debiti, esistono anche diverse virtù: ad esempio, la “religione”, attraverso la quale ripaghiamo il nostro debito verso Dio; la “pietà”, con cui restituiamo ciò che dobbiamo ai nostri genitori o alla nostra patria; la “gratitudine”, con cui riconosciamo i meriti di coloro che ci hanno aiutato, e così via.
+
+Risposta all’Obiezione 1: La giustizia, intesa nel senso proprio del termine, è una virtù specifica la cui finalità consiste nel garantire che ciò che è dovuto venga restituito in equivalenza. Tuttavia, il nome di “giustizia” viene esteso anche a tutti i casi in cui qualcosa che è dovuto viene effettivamente restituito; in questo senso, la giustizia non rappresenta più una virtù specifica.
+
+Risposta all’Obiezione 2: La giustizia che mira al bene comune è una virtù diversa da quella che si rivolge al bene privato di un individuo; pertanto il diritto comune differisce dal diritto privato. Tullio (De Inv. ii) considera la pietà una virtù particolare, poiché spinge l’uomo a perseguire il bene della sua patria. Ma la giustizia che orienta l’uomo verso il bene comune è una virtù generale, in quanto incarica tutte le altre virtù di servire al proprio scopo, ovvero al bene comune. Le virtù, nella misura in cui sono guidate da questa giustizia, ricevono il nome stesso di giustizia; quindi la virtù, logicamente parlando, non differisce dalla giustizia legale, così come esiste soltanto una differenza logica tra una virtù che agisce autonomamente e una virtù che agisce su comando di un’altra virtù.
+
+Risposta all’Obiezione 3: In tutte le operazioni che rientrano nella giustizia speciale esiste lo stesso tipo di dovere. Di conseguenza, esiste anche la stessa virtù della giustizia, soprattutto in relazione alle operazioni di commutazione. Potrebbe darsi infatti che la giustizia distributiva appartenga a una diversa specie rispetto alla giustizia commutativa; ma su questo argomento indagheremo più avanti (SS, Q[61], A[1]).
+
 <span class="atom-split" data-atom="036" data-title="Whether there are different moral virtues about different passions?" data-chapter="Whether there are different moral virtues about different passions?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there are not different moral virtues about different passions.
@@ -1765,6 +2328,24 @@ nature, consents to reason's dictates.
 
 Reply to Objection 3: Those three passions are directed to the same object in a certain order,
 as stated above: and so they belong to the same virtue.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non esistano diverse virtù morali legate a passioni diverse. Infatti, per ciò che ha lo stesso origine e lo stesso fine, esiste soltanto un’unica [abitudine](/concepts/custom); questo è particolarmente evidente nel caso delle scienze. Ma tutte le passioni hanno lo stesso origine, ovvero l’amore, e portano allo stesso fine, cioè alla gioia o al dolore, come abbiamo già affermato (Q[25], AA[1],2,4; Q[27], A[4]). Pertanto, esiste soltanto una virtù morale per tutte le passioni.
+
+Obiezione 2: Inoltre, se esistessero diverse virtù morali legate a passioni diverse, ne conseguirebbe che ci siano tante virtù morali quante sono le passioni. Ma chiaramente non è così: poiché esiste una sola virtù morale relativa a passioni opposte, ovvero la forza d’animo riguardo al timore e al coraggio; la temperanza riguardo al piacere e al dolore. Pertanto, non c’è bisogno di diverse virtù morali per passioni diverse.
+
+Obiezione 3: Inoltre, amore, desiderio e piacere sono passioni di diverso genere, come già affermato sopra (Q[23], A[4]). Ora, per tutte e tre queste passioni esiste soltanto una virtù, ovvero la moderazione. Pertanto, non esistono diverse virtù morali relative a passioni diverse.
+
+Al contrario, la Forza d’animo riguarda il timore e il coraggio; la Moderazione riguarda i desideri; l’Umiltà riguarda l’[ira](/concepts/anger); come affermato nell’Etica, iii, 6,10; iv, 5.
+
+Rispondo che non si può affermare che esista una sola virtù morale per tutte le passioni: poiché alcune passioni non hanno lo stesso potere di altre; alcune appartengono alla facoltà irascibile, altre a quella concupiscibile, come già detto sopra (Q[23], A[1]). D’altra parte, nemmeno ogni diversità di passioni è necessariamente sufficiente per esistere una diversità di virtù morali. Primo perché alcune passioni sono in opposizione reciproca, come la gioia e il dolore, la paura e il coraggio, e così via; per queste passioni opposte deve necessariamente esistere una sola virtù comune. Poiché la virtù morale consiste in una sorta di mediazione, e questa mediazione, nelle passioni opposte, è uguale per entrambe, proprio come nell’ordine naturale esiste un solo mezzo tra i contrari, ad esempio tra il nero e il bianco. In secondo luogo, ci sono diverse passioni che contrastano con la ragione in modo analogo: alcune spingono verso ciò che è contrario alla ragione, altre allontanano da ciò che è conforme a essa; pertanto le diverse passioni della facoltà concupiscibile non richiedono necessariamente virtù morali diverse, poiché i loro movimenti seguono un certo ordine, essendo tutte dirette verso lo stesso scopo: ottenere un bene o evitare un male. Ad esempio, dall’amore deriva il desiderio e dal desiderio la gioia; lo stesso vale per le passioni opposte: l’odio conduce all’evitamento o al disgusto, che a sua volta provoca dolore. D’altra parte, le passioni irascibili non seguono tutti lo stesso ordine, ma sono dirette verso cose diverse: il coraggio e la paura riguardano pericoli gravi; la speranza e la disperazione riguardano beni difficili da ottenere; l’ira cerca invece di superare ciò che ha causato danno. Pertanto, per queste passioni esistono virtù diverse: la temperanza per le passioni concupiscibili, il coraggio per la paura e il coraggio, la magnanimità per la speranza e la disperazione, la umiltà per l’ira.
+
+Risposta all’Obiezione 1: Tutte le passioni condividono uno stesso principio e uno stesso fine comuni; tuttavia, non condividono necessariamente lo stesso principio o lo stesso fine specifico. Pertanto, ciò non è sufficiente a garantire l’unità delle virtù morali.
+
+Risposta all’Obiezione 2: Proprio come nell’ordine naturale lo stesso principio determina il movimento da un estremo verso l’altro; e come nell’ordine intellettuale i contrari hanno una proporzione comune; allo stesso modo, tra le passioni opposte esiste soltanto una virtù morale, che, come una sorta di “seconda natura”, si conforma alle indicazioni della ragione.
+
+Risposta all’Obiezione 3: Quei tre sentimenti sono direzionati verso lo stesso oggetto, in un certo ordine, come detto sopra; pertanto appartengono alla stessa virtù.
 
 <span class="atom-split" data-atom="037" data-title="Whether the moral virtues differ in point of the various objects of the passions?" data-chapter="Whether the moral virtues differ in point of the various objects of the passions?" data-kind="atom" data-srclang="en"></span>
 
@@ -1871,6 +2452,29 @@ form of [anger](/concepts/anger); and, again, but one virtue, fortitude, for all
 involves difficulty, which requires virtue, even if it be not a great good in that particular kind of
 passion. Consequently there are various moral virtues about desires, as stated above.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le virtù morali non differiscano in base agli oggetti delle passioni. Poiché, proprio come esistono oggetti delle passioni, esistono anche oggetti delle azioni umane. Ora, quelle virtù morali che riguardano le azioni non differiscono in base agli oggetti di tali azioni: infatti, l’atto di comprare o vendere una casa o un cavallo rientra nella stessa virtù della giustizia. Pertanto, nemmeno quelle virtù morali che riguardano le passioni differiscono in base agli oggetti di tali passioni.
+
+Obiezione 2: Inoltre, le passioni sono atti o movimenti dell’appetito sensibile. Ora, per distinguere le abitudini dagli atti è necessaria una differenza maggiore. Pertanto, oggetti diversi che non modificano la natura stessa delle passioni non modificano nemmeno la natura delle virtù morali; quindi esiste soltanto una virtù morale relativa a tutti gli oggetti di piacere, e lo stesso vale per le altre passioni.
+
+Obiezione 3: Inoltre, il fatto che qualcosa sia più o meno piacevole non modifica la sua natura di “oggetto di piacere”. Diversi oggetti di piacere si differenziano soltanto per il grado di piacere che procurano; pertanto, tutti gli oggetti di piacere appartengono alla stessa specie di virtù. Lo stesso vale per gli oggetti che suscitano paura e per altri simili casi. Quindi, la virtù morale non si diversifica in base agli oggetti delle passioni.
+
+Obiezione 4: Inoltre, la virtù ostacola il male, proprio come produce il bene. Tuttavia esistono diverse virtù relative ai desideri di cose buone: ad esempio, la temperanza riguarda i desideri legati al piacere tattile, mentre l’“eutrapelia” si riferisce ai piaceri derivanti dai giochi. Pertanto, dovrebbero esistere anche virtù diverse relative alle paure del male.
+
+Al contrario, la Castità riguarda i piaceri sessuali, l’Astinenza i piaceri legati al cibo, e l’“Eutrapelia” i piaceri derivanti dai giochi.
+
+Rispondo che la perfezione di una virtù dipende dalla ragione, mentre la perfezione di una passione dipende dall’appetito sensibile. Pertanto, le virtù devono necessariamente essere distinte in base alla loro relazione con la ragione, mentre le passioni devono essere distinte in base alla loro relazione con l’appetito sensibile. Di conseguenza, gli oggetti delle passioni, in quanto sono diversamente collegati all’appetito sensibile, provocano i diversi tipi di passioni; al contrario, in quanto sono collegati alla ragione, provocano i diversi tipi di virtù. Ora, il movimento della ragione non è lo stesso di quello dell’appetito sensibile. Pertanto, nulla impedisce che differenze negli oggetti causino diverse passioni senza causare diverse virtù; ad esempio, una stessa virtù può riguardare più passioni, come già detto (A[4]); inoltre, differenze negli oggetti possono causare diverse virtù senza causare differenze nelle passioni, poiché diverse virtù possono essere dirette verso la stessa passione, ad esempio il piacere. Poiché diverse passioni, appartenenti a diverse facoltà umane, appartengono sempre a diverse virtù, come già detto (A[4]), quindi una differenza negli oggetti che corrisponde a una differenza nelle facoltà umane causa necessariamente una diversità specifica delle virtù; ad esempio, la differenza tra ciò che è buono in senso assoluto e ciò che è buono ma difficile da ottenere. Inoltre, poiché la ragione governa le facoltà inferiori dell’uomo in un certo ordine e si estende anche alle cose esterne, uno stesso oggetto delle passioni, a seconda che sia percepito dai sensi, dall’immaginazione o dalla ragione, e in base al fatto che appartenga all’anima, al corpo o alle cose esterne, ha diverse relazioni con la ragione e quindi è in grado di provocare differenze nelle virtù. Pertanto, il bene umano, oggetto di amore, desiderio e piacere, può riferirsi sia a un senso corporeo che alla comprensione interiore dell’intelletto; inoltre, questo stesso bene può essere rivolto al bene dell’uomo stesso, sia nel suo corpo che nella sua anima, oppure al bene dell’uomo rispetto ad altri uomini. Ogni tale differenza, essendo diversamente collegata alla ragione, determina una differenziazione delle virtù. Quindi, se prendiamo un bene che è percepito dal senso del tatto e che riguarda il mantenimento della vita umana, sia individuale che specie, come i piaceri legati al cibo o alle relazioni sessuali, esso appartiene alla virtù della “temperanza”. Per quanto riguarda i piaceri degli altri sensi, non sono intensi e quindi non rappresentano una grande difficoltà per la ragione; pertanto non esiste alcuna virtù che li corrisponda, poiché la virtù, “come l’arte, riguarda cose difficili” (Etica, ii, 3). D’altra parte, il bene che non è percepito dai sensi, ma da una facoltà interiore e che appartiene all’uomo stesso, è simile al denaro e all’onore: il primo, per sua natura, può essere utilizzato per il bene del corpo, mentre il secondo si basa sulla comprensione dell’intelletto. Questi beni, a loro volta.
+Tali beni possono essere considerati sia in senso assoluto, nel qual caso riguardano la facoltà concupiscente, sia come difficili da ottenere, nel qual caso appartengono alla parte irascibile dell’animo; tuttavia questa distinzione non ha alcun rilievo nei piaceri derivanti dal contatto fisico, poiché questi sono di natura inferiore e appropriati all’uomo soltanto nella misura in cui condivide qualcosa con gli animali irrazionali. Pertanto, riguardo al denaro considerato come bene assoluto, oggetto di desiderio, piacere o amore, esiste la virtù della “liberalezza”; ma se lo consideriamo difficile da ottenere e oggetto della nostra speranza, allora si parla di “magnanimità”. Per quanto riguarda il bene che chiamiamo onore, considerato in senso assoluto come oggetto d’amore, esiste la virtù della “filotimia”, ovvero dell’“amore per l’onore”; se invece lo consideriamo difficile da raggiungere e oggetto di speranza, allora si parla di “magnanimità”. Quindi la liberalezza e la filotimia appartengono alla facoltà concupiscente, mentre la magnanimità e la magnanimità appartengono alla parte irascibile dell’animo. Per quanto riguarda i beni umani in relazione agli altri esseri umani, non sembrano difficili da ottenere; vengono quindi considerati in senso assoluto come oggetto delle passioni concupiscenti. Tali beni possono procurare piacere nell’agire verso gli altri, sia in questioni serie – attraverso azioni guidate dalla ragione verso un fine appropriato – sia in attività ludiche, volte esclusivamente al piacere stesso e non legate alla ragione come le prime. Un uomo può comportarsi seriamente verso un altro in due modi: primo, rendendo il proprio comportamento gradito all’altro attraverso parole e azioni; questo rientra nella virtù che Aristotele definisce “amicizia” e può essere descritto come “affabilità”. Secondo, può comportarsi con franchezza, sia nelle parole che nelle azioni; questa è un’altra virtù, definita da Aristotele “verità”, poiché la franchezza è più legata alla ragione che al piacere, e riguarda questioni serie piuttosto che aspetti ludici della vita. Esiste inoltre una virtù specifica relativa ai piaceri derivanti dai giochi, definita da Aristotele “eutrapelia”. È quindi evidente che, secondo Aristotele, esistono dieci virtù morali legate alle passioni: forza d’animo, temperanza, liberalezza, magnanimità, magnanimità, filotimia, gentilezza, amicizia, verità ed eutrapelia; tutte queste differiscono in base al loro oggetto specifico o alla passione a cui sono legate. Se aggiungiamo anche la “giustizia”, che riguarda le azioni umane, ne otteniamo un totale di undici.
+
+Risposta all’Obiezione 1: Tutti gli oggetti di una stessa operazione specifica hanno lo stesso rapporto con la ragione; non lo stesso vale per tutti gli oggetti di una stessa passione specifica, poiché le operazioni non ostacolano la ragione come fanno invece le passioni.
+
+Risposta all’Obiezione 2: Le passioni non sono differenziate secondo la stessa regola delle virtù, come è stato detto sopra.
+
+Risposta all’Obiezione 3: “Di più o di meno” non comporta una differenza di specie, a meno che tali quantità non abbiano relazioni diverse rispetto alla ragione.
+
+Risposta all’Obiezione 4: Il bene è un motore più potente del male; infatti il male non provoca alcun movimento se non grazie al bene, come afferma Dionigi nel “Divino Nome” iv. Pertanto, il male non costituisce un ostacolo alla ragione, né richiede l’adozione di virtù, a meno che non sia di natura estrema; sembra infatti esistere un male del genere per ogni tipo di passione. Di conseguenza, esiste una sola virtù, la umiltà, per ogni forma di [ira](/concepts/anger); e allo stesso modo, una sola virtù, il coraggio, per tutte le forme di audacia. D’altra parte, il bene comporta difficoltà che richiedono l’esercizio delle virtù, anche se non si tratta di un bene di grande rilievo in quel particolare tipo di passione. Pertanto, esistono diverse virtù morali legate ai desideri, come già accennato in precedenza.
+
 <span class="atom-split" data-atom="038" data-title="OF THE CARDINAL VIRTUES (FIVE ARTICLES)" data-chapter="OF THE CARDINAL VIRTUES (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the cardinal virtues: under which head there are five points of inquiry:
@@ -1879,6 +2483,15 @@ We must now consider the cardinal virtues: under which head there are five point
 (3) Which are they?
 (4) Whether they differ from one another?
 (5) Whether they are fittingly divided into social, perfecting, perfect, and exemplar virtues?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare le virtù cardinali: in questa categoria esistono cinque punti di indagine principali:
+(1) Se le virtù morali debbano essere chiamate virtù cardinali o principali;
+(2) Quante sono in totale;
+(3) Quali sono esattamente;
+(4) Se si differenziano tra loro;
+(5) Se possono essere opportunamente suddivise in virtù sociali, virtù che perfezionano l’individuo, virtù perfette e virtù esemplari.
 
 <span class="atom-split" data-atom="039" data-title="Whether the moral virtues should be called cardinal or principal virtues?" data-chapter="Whether the moral virtues should be called cardinal or principal virtues?" data-kind="atom" data-srclang="en"></span>
 
@@ -1928,6 +2541,25 @@ Reply to Objection 3: Although the intellectual virtues, except in prudence, ran
 moral virtues, in the point of their subject, they do not rank before them as virtues; for a virtue, as
 such, regards good, which is the object of the appetite.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le virtù morali non dovrebbero essere chiamate virtù cardinali o principali.  
+Infatti, “i membri opposti di una divisione sono per natura simultanei” (Categorie x), quindi uno non può essere considerato principale rispetto all’altro. Ora, tutte le virtù rientrano tra i membri opposti della categoria generale “virtù”; pertanto nessuna di esse dovrebbe essere definita principale.
+
+Obiezione 2: Inoltre, il fine è considerato più importante dei mezzi. Tuttavia le [virtù teologiche](/concepts/theological_virtues) riguardano il fine, mentre le virtù morali riguardano i mezzi. Pertanto, sono le virtù teologiche, e non quelle morali, che dovrebbero essere definite principali o cardinali.
+
+Obiezione 3: Inoltre, ciò che è essenzialmente tale ha un rilievo maggiore rispetto a ciò che lo è solo in modo derivato o partecipativo. Ma le virtù intellettuali appartengono a ciò che è essenzialmente razionale; mentre le virtù morali appartengono a ciò che è razionale in modo derivato, come già detto sopra (Q[58], A[3]). Pertanto, le virtù intellettuali sono di maggior rilievo rispetto alle virtù morali.
+
+Al contrario, Ambrogio, spiegando le parole “Beati quelli che hanno spirito di povertà” (Lc 6:20), afferma: “Sappiamo che esistono quattro virtù cardinali, ovvero temperanza, giustizia, prudenza e forza d’animo”. Ma queste sono virtù morali; pertanto, le virtù morali sono virtù cardinali.
+
+Rispondo che, quando parliamo di virtù in senso generale, ci riferiamo alla virtù umana. Ora, la virtù umana, come detto sopra (Q[56], A[3]), è quella che corrisponde all’idea perfetta di virtù, cioè a quella che richiede la rettitudine dei desideri; tale virtù non solo conferisce la capacità di agire bene, ma anche induce effettivamente l’atto buono. D’altra parte, il nome “virtù” viene utilizzato anche per indicare quelle virtù che corrispondono in modo imperfetto all’idea di virtù e che non richiedono la rettitudine dei desideri; tali virtù conferiscono soltanto la capacità di agire bene, senza però indurre effettivamente l’atto buono. È evidente che ciò che è perfetto ha priorità rispetto a ciò che è imperfetto; pertanto, quelle virtù che implicano la rettitudine dei desideri vengono definite virtù principali. Tra queste rientrano le virtù morali e, in particolare, la prudenza; anche tra le virtù intellettuali, la prudenza può essere considerata una sorta di virtù morale, come chiarito sopra (Q[57], A[4]). Di conseguenza, quelle virtù che vengono definite principali o cardinali sono giustamente collocate tra le virtù morali.
+
+Risposta all’Obiezione 1: Quando un genere univoco viene diviso nelle sue specie, i membri di questa divisione sono uguali dal punto di vista dell’idea generica; sebbene, considerati nella loro natura come entità concrete, una specie possa essere superiore un’altra per rango e perfezione, proprio come l’uomo rispetto agli altri animali. Tuttavia, quando dividiamo un termine analogo che si applica a più cose, ma in modo diverso a ciascuna di esse, nulla impedisce che una di queste venga considerata superiore alle altre anche dal punto di vista dell’idea generica; ad esempio, il concetto di “essere” viene applicato alla sostanza principalmente in relazione agli accidenti. È proprio questo il caso quando la virtù viene suddivisa in diversi tipi: infatti, il bene definito dalla ragione non si manifesta nello stesso modo in tutte le cose.
+
+Risposta all’Obiezione 2: Le virtù teologiche sono superiori all’uomo, come già affermato sopra (Q[58], A[3], ad 3). Pertanto, dovrebbero essere correttamente definite non umane, ma “sovrumane” o virtù divine.
+
+Risposta all’Obiezione 3: Sebbene le virtù intellettuali, ad eccezione della prudenza, siano considerate superiori alle virtù morali in termini di oggetto, esse non lo sono però in quanto virtù; infatti, una virtù, in sé stessa, riguarda il bene, che è l’oggetto del desiderio.
+
 <span class="atom-split" data-atom="040" data-title="Whether there are four cardinal virtues?" data-chapter="Whether there are four cardinal virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there are not four cardinal virtues. For prudence is the directing
@@ -1972,6 +2604,24 @@ stated above.
 Reply to Objection 3: All the other virtues among which one ranks before another, are reducible
 to the above four, both as to the subject and as to the formal principle.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non esistano quattro virtù cardinali. Infatti, la prudenza è il principio guida delle altre virtù morali, come risulta chiaramente da quanto detto in precedenza (Q[58], A[4]). Ma ciò che guida le altre cose deve essere considerato superiore a queste; pertanto, solo la prudenza è una vera virtù principale.
+
+Obiezione 2: Inoltre, le virtù principali sono, in un certo senso, virtù morali. Ora siamo indirizzati verso azioni morali sia dalla ragione pratica che da un appetito retto, come affermato nell’Etica VI, 2. Pertanto esistono soltanto due virtù cardinali.
+
+Obiezione 3: Inoltre, anche tra le altre virtù alcune sono considerate più importanti di altre. Tuttavia, affinché una virtù sia considerata principale, non è necessario che sia superiore a tutte le altre, basta che lo sia rispetto a alcune. Pertanto, sembrerebbe che esistano molte più virtù principali di quante si possa pensare.
+
+Al contrario, Gregorio afferma (Moralia, ii): “L’intera struttura delle opere buone si basa su quattro virtù”.
+
+Rispondo che le cose possono essere numerate sia in base ai loro principi formali sia in relazione ai soggetti in cui si manifestano; in entrambi i casi riscontriamo l’esistenza di quattro virtù cardinali. Il principio formale della virtù di cui parliamo ora è il bene, inteso secondo la definizione data dalla ragione; tale bene può essere considerato in due modi: innanzitutto come qualcosa che esiste effettivamente nell’atto stesso della ragione, e in questo caso abbiamo una virtù principale, chiamata “Prudenza”. In secondo luogo, il bene può essere considerato nel modo in cui la ragione ne stabilisce l’ordine all’interno di altri elementi: sia nelle azioni umane, e allora abbiamo la “Giustizia”, sia nelle passioni, e in questo caso sono necessarie due virtù ulteriori. La necessità di imporre l’ordine della ragione sulle passioni deriva dal fatto che queste ultime sovvertono spesso tale ordine; ciò avviene in due modi: da un lato, quando le passioni spingono verso comportamenti contrari alla ragione, e allora è necessaria la “Temperanza” per moderarle; dall’altro lato, quando le passioni impediscono di seguire i dettami della ragione – ad esempio a causa del timore del pericolo o dello sforzo – e in questo caso è necessaria la “Forza d’animo” per rafforzare la volontà umana. Allo stesso modo, se consideriamo i soggetti su cui si manifestano le virtù, riscontriamo ancora lo stesso numero di quattro virtù cardinali. Esistono infatti quattro tipi di soggetti su cui si applica la virtù di cui parliamo: da un lato, quella parte dell’essere umano che è essenzialmente razionale, e questa virtù viene perfezionata dalla “Prudenza”; dall’altro lato, quelle parti dell’essere umano che sono razionali in modo indiretto; queste ultime sono tre: la volontà, soggetta alla “Giustizia”, la facoltà concupiscente, soggetta alla “Temperanza”, e la facoltà irascibile, soggetta alla “Forza d’animo”.
+
+Risposta all’Obiezione 1: La prudenza è, in senso assoluto, il principio di tutte le virtù. Le altre virtù sono principi, ciascuna nel proprio genere.
+
+Risposta all’Obiezione 2: Quella parte dell’anima che è razionale per partecipazione è triplice, come detto sopra.
+
+Risposta all’Obiezione 3: Tutte le altre virtù, tra cui alcune sono considerate più importanti di altre, possono essere ridotte alle quattro sopra menzionate, sia in termini di soggetto che di principio formale.
+
 <span class="atom-split" data-atom="041" data-title="Whether any other virtues should be called principal rather than these?" data-chapter="Whether any other virtues should be called principal rather than these?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that other virtues should be called principal rather than these. For,
@@ -2015,6 +2665,18 @@ is about due actions between equals; temperance, the virtue which suppresses des
 of touch; and fortitude, the virtue which strengthens against dangers of death. Thus again do the
 objections fail: because the other virtues may be principal in some other way, but these are called
 principal by reason of their matter, as stated above.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che altre virtù dovrebbero essere considerate principali piuttosto che queste. Infatti, apparentemente la più grande tra tutte è quella che rappresenta il principio di un determinato genere di virtù. Ora, “la magnanimità esercita una grande influenza su tutte le virtù” (Etica, iv, 3); pertanto, la magnanimità dovrebbe essere considerata più di ogni altra una virtù principale.
+
+Obiezione 2: Inoltre, ciò che rafforza le altre virtù dovrebbe essere soprattutto considerato una virtù principale. Ed è proprio la umiltà: infatti Gregorio afferma nell’Homilia IV in Evangelium che “colui che raccolge le altre virtù senza umiltà è come colui che cerca di contrastare il vento portando paglia con sé”. Pertanto, l’umiltà sembra senz’altro essere una virtù principale.
+
+Obiezione 3: Inoltre, ciò che è più perfetto sembra essere principale. Ma questo si applica alla pazienza, secondo Giacomo 1:4: “La pazienza compie un’opera perfetta”. Pertanto, la pazienza dovrebbe essere considerata una virtù principale.
+
+Al contrario, [Cicerone](/figures/cicero) riduce tutte le altre virtù a queste quattro (De Invent. Rhet. ii).
+
+Rispondo che, come già detto sopra (A[2]), queste quattro virtù vengono considerate virtù cardinali, in relazione ai quattro principi formali della virtù così come la comprendiamo oggi. Questi principi si trovano principalmente in determinati atti e passioni. Ad esempio, il bene che risiede nell’atto razionale si trova soprattutto nell’ordine impartito dalla ragione, ma non nel suo consiglio o nella sua valutazione, come indicato sopra (Q[57], A[6]). Inoltre, il bene definito dalla ragione e attuato nelle nostre azioni come qualcosa di giusto e dovuto si trova principalmente nelle transazioni e nelle distribuzioni relative a un’altra persona, su base di equità. Il bene legato alla repressione delle passioni si manifesta soprattutto in quelle passioni più difficili da controllare, ovvero nei piaceri sensoriali. Il bene derivante dalla fermezza nel mantenere ciò che la ragione definisce giusto, nonostante le spinte della passione, si manifesta principalmente nei pericoli di morte, i quali sono i più ardui da affrontare. Pertanto, queste quattro virtù possono essere considerate in due modi: innanzitutto, in relazione ai loro principi formali comuni; in questo senso vengono definite “virtù principali”, poiché rappresentano un elemento generale rispetto a tutte le altre virtù: ad esempio, qualsiasi virtù che porti al bene nell’atto di riflessione razionale può essere chiamata prudenza; ogni virtù che determini azioni giuste e dovute può essere chiamata giustizia; ogni virtù che reprima le passioni può essere chiamata temperanza; e ogni virtù che rafforzi l’animo di fronte a qualsiasi tipo di passione può essere chiamata forza d’animo. Molti studiosi sacri, così come i filosofi, parlano di queste virtù in questo senso; in questo modo anche le altre virtù vengono incluse sotto di esse. Pertanto, tutte le obiezioni avanzate falliscono. In secondo luogo, queste virtù possono essere considerate anche in base al fatto che ciascuna di esse prende il nome da quella che è più importante nel proprio ambito specifico; in questo caso vengono definite “virtù specifiche”, condivise con le altre. Tuttavia, vengono comunque chiamate “virtù principali” in relazione all’importanza del loro contenuto: la prudenza è quindi la virtù che impartisce ordini; la giustizia è la virtù che riguarda le azioni dovute tra persone uguali; la temperanza è la virtù che reprime i desideri legati ai piaceri sensoriali; e la forza d’animo è la virtù che rafforza l’individuo di fronte ai pericoli di morte. Anche in questo caso, le obiezioni avanzate falliscono: poiché le altre virtù possono essere considerate “virtù principali” in altri modi, ma queste sono definite tali proprio in base al loro contenuto specifico, come già detto sopra.
 
 <span class="atom-split" data-atom="042" data-title="Whether the four cardinal virtues differ from one another?" data-chapter="Whether the four cardinal virtues differ from one another?" data-kind="atom" data-srclang="en"></span>
 
@@ -2184,6 +2846,28 @@ the other virtues it draws them all into the service of the common weal, as the 
 to do well not only towards the community, but also towards the parts of the community, viz.
 towards the household, or even towards one individual.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che queste quattro virtù siano divise in modo inappropriato in virtù esemplari, virtù perfezionanti, virtù complete e virtù sociali. Infatti, come afferma Macrobio (Super Somn. Scip. 1), le “virtù esemplari sono quelle che esistono nella mente di Dio”. Ora, il Filosofo dice (Etica x, 8) che “è assurdo attribuire giustizia, forza d’animo, temperanza e prudenza a Dio”. Pertanto, queste virtù non possono essere considerate virtù esemplari.
+
+Obiezione 2: Inoltre, le virtù “perfette” sono quelle prive di qualsiasi passione; infatti Macrobio afferma (Super Somn. Scip. 1) che “in un’anima purificata, la temperanza non ha bisogno di reprimere i desideri mondani, poiché li ha completamente dimenticati; il coraggio non conosce le passioni e non ha bisogno di sconfiggerle”. Tuttavia, come è stato detto in precedenza (Q[59], A[5]), le suddette virtù non possono esistere senza passioni. Pertanto, non esiste alcuna virtù “perfetta”.
+
+Obiezione 3: Inoltre, egli afferma (Macrobius: Super Somn. Scip. 1) che le virtù “perfezionanti” siano quelle dell’uomo “che si allontana dalle affari umani e si dedica esclusivamente alle cose di Dio”. Ma sembra sbagliato comportarsi in questo modo, poiché [Cicerone](/figures/cicero) dice (De Offic. i): “Ritengo che non solo sia indegno di lode, ma anche malvagio da parte di un uomo affermare di disprezzare ciò che la maggior parte delle persone ammira, cioè il potere e le cariche pubbliche”. Pertanto, non esistono virtù “perfezionanti”.
+
+Obiezione 4: Inoltre, afferma Macrobio (Super Somn. Scip. 1) che le virtù “sociali” siano quelle “per mezzo delle quali gli uomini buoni lavorano al bene del loro paese e alla sicurezza della città”. Tuttavia, è soltanto la giustizia legale a essere diretta al benessere comune, come sostiene il Filosofo (Etica v, 1). Pertanto, altre virtù non dovrebbero essere chiamate “sociali”.
+
+Al contrario, Macrobio afferma (Super Somn. Scip. 1): “Plotino, insieme a Platone tra i primi maestri della filosofia, dice: ‘I quattro tipi di virtù sono i seguenti: in primo luogo ci sono le virtù sociali; in secondo luogo, ci sono le virtù purificatrici; in terzo luogo, ci sono le virtù che perfezionano l’anima; e in quarto luogo, ci sono le virtù esemplari.’” [Cfr. la quindicesima omelia di Crisostomo su San Matteo, dove si dice: “L’uomo mite, modesto, misericordioso e giusto non tiene per sé i propri buoni atti. Colui che ha il cuore puro e vive in pace, e sopporta persecuzioni per la verità, vive per il bene comune.”]
+
+Rispondo che, come afferma [Agostino](/figures/augustine) (De Moribus Ecclesiae vi), “l’anima ha bisogno di seguire qualcosa per poter generare la virtù; questo ‘qualcosa’ è Dio: se Lo seguiamo, vivremo rettamente”. Pertanto, l’esempio della virtù umana deve necessariamente esistere in Dio, proprio come in Lui esistono i modelli di tutte le cose. Di conseguenza, la virtù può essere considerata originariamente esistente in Dio; per questo parliamo di “virtù esemplari”. In Dio, lo stesso Intelletto Divino può essere chiamato prudenza; la temperanza, invece, rappresenta il modo in cui lo sguardo di Dio si rivolge verso Se Stesso, proprio come in noi essa è ciò che conforma i nostri desideri alla ragione. La forza d’animo di Dio è la Sua immutabilità; la Sua giustizia consiste nell’osservare la [Legge Eterna](/concepts/eternal_law) nelle Sue opere, come afferma Plotino (cfr. Macrobio, Super Somnium Scipionis 1). Inoltre, poiché l’uomo, per sua natura, è un essere sociale, queste virtù, nella misura in cui esistono in lui secondo le condizioni della sua natura, vengono chiamate “virtù sociali”; è grazie a esse che l’uomo si comporta rettamente nelle relazioni umane. È in questo senso che abbiamo parlato finora di queste virtù. Ma poiché spetta all’uomo sforzarsi al massimo per tendere verso le cose divine, come dichiara lo stesso Filosofo nell’Etica X, 7, e come ci esorta frequentemente la [Scrittura](/concepts/revelation) – ad esempio: “Siate perfetti, come è perfetto vostro Padre celeste” (Matteo 5:48) – dobbiamo necessariamente distinguere alcune virtù tra quelle sociali o umane e quelle esemplari, che sono divine. Queste ultime differiscono in base al loro scopo e alla loro direzione: alcune sono virtù di coloro che sono sulla strada verso la somiglianza divina; queste vengono chiamate “virtù perfezionanti”. La prudenza, contemplando le cose di Dio, considera nulla al mondo se non Lui stesso e dirige tutti i pensieri dell’anima esclusivamente verso Dio; la temperanza, nella misura consentita dalla natura, trascura i bisogni del corpo; la forza d’animo impedisce all’anima di temere di trascurare il corpo per rivolgersi alle cose celesti; la giustizia consiste nel permettere all’anima di seguire con tutto il cuore questo cammino. Oltre a queste, ci sono le virtù di coloro che hanno già raggiunto la somiglianza divina: queste vengono chiamate “virtù perfette”. La prudenza non vede nulla al di fuori delle cose di Dio; la temperanza non conosce desideri terreni; la forza d’animo non è soggetta alle passioni; la giustizia, imitando l’Intelletto Divino, si unisce a Lui attraverso un patto eterno. Tali sono le virtù attribuite ai Beati, o, in questa vita, a coloro che raggiungono la vetta della perfezione.
+
+Risposta all’Obiezione 1: Il filosofo parla di queste virtù nel loro rapporto con gli affari umani; ad esempio, la giustizia riguarda l’atto di comprare e vendere; la forza d’animo riguarda il timore; la temperanza riguarda i desideri; in questo senso è assurdo attribuirle a Dio.
+
+Risposta all’Obiezione 2: Le virtù umane, cioè quelle degli uomini che vivono insieme in questo mondo, riguardano le passioni. Ma le virtù di coloro che hanno raggiunto la beatitudine perfetta sono prive di passioni. Pertanto Plotino afferma (cfr. Macrobius, Super Somn. Scip. 1) che “le virtù sociali moderano le passioni”, cioè le portano al giusto equilibrio; “il secondo tipo di virtù”, ovvero quelle che contribuiscono alla perfezione dell’individuo, “le radicano”; “il terzo tipo di virtù”, ovvero quelle perfette, “le dimenticano del tutto”; mentre è empio menzionarle in relazione al quarto tipo di virtù, cioè quelle esemplari. Si può anche dire che qui Plotino parli delle passioni come di emozioni eccessive o disordinate.
+
+Risposta all’Obiezione 3: Trascurare gli affari umani quando la necessità lo vieta è un atto malvagio; altrimenti, è un atto virtuoso. Per questo motivo Cicerone afferma poco prima: “Forse si dovrebbe fare spazio a coloro che, grazie ai loro talenti eccezionali, si sono dedicati allo studio; così come a coloro che si sono ritirati dalla vita pubblica a causa di problemi di salute o per altri motivi ancora più importanti; quando tali persone cedono ad altri il potere e la fama derivanti dall’autorità”. Ciò concorda con quanto afferma Agostino (De Civ. Dei xix, 19): “L’amore per la verità richiede tempo libero dedicato allo studio; la carità impone l’esercizio di buone azioni. Se nessuno ci imponesse questo dovere, potremmo dedicarci interamente allo studio e alla contemplazione della verità; ma se tale dovere viene imposto su di noi, deve essere assunto sotto la spinta della carità”.
+
+Risposta all’Obiezione 4: Solo la giustizia legale riguarda direttamente il bene comune; tuttavia, imponendo le altre virtù, le coinvolge tutte al servizio del bene comune, come afferma il Filosofo (Etica V, 1). Dobbiamo infatti considerare che le virtù umane, nel senso in cui qui le intendiamo, consistono nel comportarsi bene non solo verso la comunità, ma anche verso le sue componenti, cioè verso la famiglia o addirittura verso un singolo individuo.
+
 <span class="atom-split" data-atom="044" data-title="OF THE THEOLOGICAL VIRTUES (FOUR ARTICLES)" data-chapter="OF THE THEOLOGICAL VIRTUES (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the [Theological Virtues](/concepts/theological_virtues): under which head there are four points of
@@ -2192,6 +2876,14 @@ inquiry:
 (2) Whether the theological virtues are distinct from the intellectual and moral virtues?
 (3) How many, and which are they?
 (4) Of their order.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare le [Virtù Teologiche]: sotto questa categoria esistono quattro punti di indagine:  
+(1) Esistono davvero virtù teologiche?  
+(2) Le virtù teologiche sono distinte dalle virtù intellettuali e morali?  
+(3) Quante ne sono e quali sono?  
+(4) Qual è il loro ordine logico.
 
 <span class="atom-split" data-atom="045" data-title="Whether there are any theological virtues?" data-chapter="Whether there are any theological virtues?" data-kind="atom" data-srclang="en"></span>
 
@@ -2244,6 +2936,24 @@ the beginning and end of nature, but in proportion to nature. But the reason and
 their nature, are not sufficiently directed to Him in so far as He is the object of supernatural
 happiness.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che non esistano alcune [virtù teologiche](/concepts/theological_virtues). Infatti, secondo il Phys. vii, testo 17, “la virtù è la disposizione di una cosa perfetta verso ciò che è migliore; e per perfetto intendo ciò che è disposto secondo la natura”. Ma ciò che è divino è al di sopra della natura umana. Pertanto, le virtù teologiche non sono virtù umane.
+
+Obiezione 2: Inoltre, le virtù teologali sono quasi-virtù divine. Ma le virtù divine sono esempi, come detto sopra (Q[61], A[5]), e tali esempi non risiedono in noi, ma in Dio. Pertanto, le virtù teologali non sono virtù umane.
+
+Obiezione 3: Inoltre, le virtù teologali sono chiamate così perché ci indirizzano verso Dio, che è l’inizio primo e la fine ultima di tutte le cose. Ma per natura della propria ragione e volontà, l’uomo è già diretto verso il proprio inizio primo e la propria fine ultima. Pertanto, non c’è alcun bisogno di abitudini legate alle virtù teologali per indirizzare la ragione e la volontà verso Dio.
+
+Al contrario, i precetti della Legge riguardano gli atti di virtù. Ora, la [Legge Divina](/concepts/divine_law) contiene precetti relativi agli atti di fede, speranza e carità; infatti è scritto (Ecclesiaste 2:8 e seguenti): “Voi che temete il Signore, credetelo”, e ancora: “Sperate in Lui” e “amateLo”. Pertanto, fede, speranza e carità sono virtù che ci guidano verso Dio; per questo motivo sono considerate virtù teologali.
+
+Rispondo che l’uomo viene perfezionato attraverso le virtù, poiché sono proprio quelle azioni che lo guidano verso la felicità, come è stato spiegato in precedenza (Q[5], A[7]). Ora, la felicità umana è duplice, come anche indicato in precedenza (Q[5], A[5]): una di esse è proporzionata alla [natura umana](/axes/human_nature), cioè quella che l’uomo può ottenere attraverso i propri principi naturali; l’altra, invece, trascende la natura umana e può essere raggiunta soltanto con il potere di Dio, attraverso una sorta di partecipazione alla divinità. Di questa felicità si legge nel 2 Pietro 1:4 che, per mezzo di Cristo, noi diventiamo “partecipanti della natura divina”. Poiché tale felicità supera le capacità della natura umana, i principi naturali stessi che ci permettono di agire rettamente non sono sufficienti a guidarci verso di essa. Pertanto, è necessario che l’uomo riceva da Dio principi aggiuntivi, grazie ai quali possa essere indirizzato verso questa felicità soprannaturale, proprio come i suoi principi naturali lo guidano verso il suo fine innato, anche se non senza l’aiuto divino. Tali principi vengono chiamati “virtù teologiche”: in primo luogo, perché il loro oggetto è Dio, poiché ci guidano correttamente verso di Lui; in secondo luogo, perché sono infusi in noi esclusivamente da Dio; in terzo luogo, perché queste virtù non ci vengono rivelate se non attraverso la [)rivelazione divina](/concepts/revelation) contenuta nelle Scritture Sacre.
+
+Risposta all’Obiezione 1: Una certa natura può essere attribuita a una determinata cosa in due modi. Primo, essenzialmente: e quindi queste virtù teologiche trascendono la natura umana. Secondo, per partecipazione, come il legno infuocato partecipa alla natura del fuoco; e così, in un certo senso, l’uomo diventa partecipe della Natura Divina, come detto sopra: pertanto queste virtù sono proporzionali all’uomo rispetto alla natura di cui egli diventa partecipante.
+
+Risposta all’Obiezione 2: Queste virtù vengono chiamate “divine” non perché Dio stesso sia virtuoso a causa di esse, ma perché grazie a esse Dio ci rende virtuosi e ci guida verso di Sé. Pertanto, queste virtù non sono esempi da seguire, bensì strumenti attraverso i quali Dio ci insegna la virtù.
+
+Risposta all’Obiezione 3: La ragione e la volontà sono naturalmente dirette verso Dio, poiché Egli è l’inizio e la fine della natura; tuttavia, questa direzione non è sufficiente, in quanto Dio rappresenta anche l’oggetto di una felicità soprannaturale.
+
 <span class="atom-split" data-atom="046" data-title="Whether the theological virtues are distinct from the intellectual and moral virtues?" data-chapter="Whether the theological virtues are distinct from the intellectual and moral virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [theological virtues](/concepts/theological_virtues) are not distinct from the moral and
@@ -2288,6 +2998,24 @@ love is the root and cause of every emotion, as stated above (Q[27], A[4]; Q[28]
 A[2], ad 1). If, however, it be understood of the love of charity, it does not mean that every other
 virtue is charity essentially: but that all other virtues depend on charity in some way, as we shall
 show further on (Q[65], AA[2],5; SS, Q[23], A[7]).
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le [virtù teologali](/concepts/theological_virtues) non siano distinte dalle virtù morali e intellettuali. Poiché, se esistono in un’anima umana, devono necessariamente perfezionarla, sia nel suo aspetto intellettivo che in quello appetitivo. Ora, le virtù che perfezionano l’aspetto intellettivo vengono chiamate virtù intellettuali; quelle che perfezionano l’aspetto appetitivo, invece, vengono chiamate virtù morali. Pertanto, le virtù teologali non sono distinte dalle virtù morali e intellettuali.
+
+Obiezione 2: Inoltre, le virtù teologiche sono quelle che ci guidano verso Dio. Ora, tra le virtù intellettuali ce n’è una che ci guida verso Dio: si tratta della saggezza, che riguarda le cose divine, poiché considera la causa suprema. Pertanto, le virtù teologiche non sono distinte dalle virtù intellettuali.
+
+Obiezione 3: Inoltre, [Agostino](/figures/augustine) (De Moribus Ecclesiae, XV) mostra come le quattro virtù cardinali costituiscano “l’ordine dell’amore”. Ora, l’amore è la carità, che è una virtù teologale. Pertanto, le virtù morali non sono distinte da quelle teologali.
+
+Al contrario, ciò che è al di sopra della natura umana è distinto da ciò che è conforme a essa. Tuttavia, le virtù teologiche sono al di sopra della natura umana; mentre le virtù intellettuali e morali sono in proporzione con essa, come chiaramente dimostrato in precedenza (Q[58], A[3]). Pertanto, queste virtù sono distinte l’una dall’altra.
+
+Rispondo che, come già detto sopra (Q[54], A[2], ad 1), le abitudini si distinguono specificamente l’una dall’altra in base alla differenza formale dei loro oggetti. Ora, l’oggetto delle virtù teologali è Dio stesso, che rappresenta lo scopo finale di tutto, poiché trascende la conoscenza della nostra ragione. Dall’altro canto, l’oggetto delle virtù intellettuali e morali è qualcosa comprensibile alla ragione umana. Pertanto, le virtù teologali si distinguono specificamente dalle virtù morali e intellettuali.
+
+Risposta all’Obiezione 1: Le virtù intellettuali e morali perfezionano l’intelletto e i desideri dell’uomo in base alle capacità della [natura umana](/axes/human_nature); le virtù teologiche, invece, lo fanno in modo soprannaturale.
+
+Risposta all’Obiezione 2: La saggezza che il Filosofo (Etica VI, 3,7) considera una virtù intellettuale riguarda le cose divine nella misura in cui sono accessibili alla ricerca della ragione umana. La virtù teologica, invece, si riferisce alle stesse cose nella misura in cui trascendono la ragione umana.
+
+Risposta all’Obiezione 3: Sebbene la carità sia amore, non è sempre amore. Pertanto, quando si afferma che ogni virtù rappresenti un’espressione dell’amore, ciò può essere inteso sia nel senso generale di amore, sia nel senso specifico dell’amore caritativo. Se si intende l’amore nel senso comune, allora ogni virtù è considerata un’espressione dell’amore, poiché ogni virtù cardinale richiede emozioni subordinate; e l’amore, come già detto (Q[27], A[4]; Q[28], A[6], ad 2; Q[41], A[2], ad 1), è la radice e la causa di tutte le emozioni. Se invece si intende l’amore caritativo, ciò non significa che ogni altra virtù sia essenzialmente amore; ma piuttosto che tutte le altre virtù dipendano in qualche modo dall’amore caritativo, come mostreremo ulteriormente (Q[65], AA[2],5; SS, Q[23], A[7]).
 
 <span class="atom-split" data-atom="047" data-title="Whether faith, hope, and charity are fittingly reckoned as theological virtues?" data-chapter="Whether faith, hope, and charity are fittingly reckoned as theological virtues?" data-kind="atom" data-srclang="en"></span>
 
@@ -2344,6 +3072,24 @@ Reply to Objection 3: Two things pertain to the appetite, viz. movement to the e
 conformity with the end by means of love. Hence there must needs be two theological virtues in
 the human appetite, namely, hope and charity.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che [fede, speranza e carità](/concepts/theological_virtues) non debbano essere considerate correttamente tre virtù teologiche. Infatti, le virtù teologiche sono legate alla felicità divina, così come le inclinazioni naturali sono legate allo scopo naturale dell’essere umano. Ora, tra le virtù dirette verso lo scopo naturale, esiste soltanto una virtù naturale, ovvero la comprensione dei principi fondamentali. Pertanto, dovrebbe esserci anche solo una virtù teologica.
+
+Obiezione 2: Inoltre, le virtù teologiche sono più perfette delle virtù intellettuali e morali. Ora, la fede non è considerata tra le virtù intellettuali, ma rappresenta qualcosa di inferiore a una vera virtù, poiché si tratta di una conoscenza imperfetta. Allo stesso modo, la speranza non è considerata tra le virtù morali, poiché è una passione. Pertanto, ancora meno dovrebbero essere considerate virtù teologiche.
+
+Obiezione 3: Inoltre, le virtù teologali indirizzano l’anima umana verso Dio. Ora, l’anima umana non può essere indirizzata verso Dio se non attraverso la parte intellettiva, che comprende l’intelletto e la volontà. Pertanto, dovrebbero esserci soltanto due virtù teologali: una che perfeziona l’intelletto e un’altra che perfeziona la volontà.
+
+Al contrario, l’Apostolo dice (1 Corinzi 13:13): “Restano dunque la fede, la speranza e la carità, queste tre cose.”
+
+Rispondo che, come già detto sopra (A[1]), le virtù teologiche guidano l’uomo verso la felicità soprannaturale nello stesso modo in cui l’inclinazione naturale lo conduce al suo fine intrinseco. Ora, questo fine intrinseco riguarda due aspetti: innanzitutto, l’intelletto, nella misura in cui contiene i primi principi universali che ci sono noti attraverso la luce naturale dell’intelligenza stessa e che costituiscono il punto di partenza sia per le riflessioni speculative che per quelle pratiche; in secondo luogo, la rettitudine della volontà, che tende naturalmente al bene definito dall’intelletto. Tuttavia, questi due aspetti non sono sufficienti per raggiungere la felicità soprannaturale, come si legge in 1 Corinzi 2:9: “Ciò che Dio ha preparato per coloro che lo amano, l’occhio non l’ha visto, né l’orecchio l’ha udito, né il cuore dell’uomo l’ha concepito”. Pertanto, riguardo a entrambi questi aspetti, all’uomo è necessario qualcosa di soprannaturale per essere guidato verso un fine davvero trascendente. Innanzitutto, per quanto riguarda l’intelletto, l’uomo riceve alcuni principi soprannaturali, che vengono compresi attraverso una luce divina: questi sono i contenuti della fede. In secondo luogo, la volontà viene guidata verso questo fine, sia come verso un obiettivo raggiungibile – e questo riguarda la speranza – sia come verso una certa unione spirituale che trasforma la volontà stessa in quel fine stesso – e questo appartiene alla carità. Infatti, il desiderio di qualcosa è naturalmente spinto verso il suo fine intrinseco; tale spinta deriva da una certa armonia tra quella cosa e il suo scopo finale.
+
+Risposta all’Obiezione 1: L’intelletto ha bisogno di specie intellegibili per poter comprendere; pertanto è necessaria un’[abitudine](/concepts/custom) naturale, oltre alla capacità stessa di comprendere. Tuttavia, la natura stessa della volontà è sufficiente affinché essa possa essere direzionata naturalmente verso il fine desiderato, sia riguardo all’intenzione che alla conformità di tale intento con il fine stesso. La natura della capacità intellettiva, invece, non è sufficiente in nessuno di questi due aspetti, poiché la volontà deve essere indirizzata verso cose che vanno al di là delle sue possibilità naturali. Pertanto, era necessaria un’abitudine soprannaturale, aggiuntiva a quella naturale, sia per quanto riguarda l’intenzione che la conformità con il fine desiderato.
+
+Risposta all’Obiezione 2: La fede e la speranza implicano una certa imperfezione: poiché la fede riguarda cose invisibili, e la speranza cose che non si possiedono ancora. Pertanto, nella misura in cui riguardano cose soggette al potere umano, la fede e la speranza sono inferiori alla nozione stessa di virtù. Ma quando si riferiscono a cose che trascendono le capacità della [natura umana](/axes/human_nature), la fede e la speranza superano qualsiasi virtù sia proporzionata all’uomo, come affermato in 1 Corinzi 1:25: “La debolezza di Dio è più potente degli uomini”.
+
+Risposta all’Obiezione 3: Due aspetti riguardano l’appetito umano: da un lato, la tendenza verso il fine desiderato; dall’altro, l’allineamento di tale tendenza al fine stesso attraverso l’amore. Pertanto, nell’appetito umano devono esistere due virtù teologali: la speranza e la carità.
+
 <span class="atom-split" data-atom="048" data-title="Whether faith precedes hope, and hope charity?" data-chapter="Whether faith precedes hope, and hope charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the order of the [theological virtues](/concepts/theological_virtues) is not that faith precedes
@@ -2392,6 +3138,24 @@ love at first; though afterwards hope is increased by love. Because from the fac
 that he can obtain a good through someone, he begins to love him: and from the fact that he loves
 him, he then hopes all the more in him.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’ordine delle [virtù teologali](/concepts/theological_virtues) non sia tale che la fede preceda la speranza e la speranza la carità. Infatti, la radice precede ciò che ne deriva. Ora, la carità è la radice di tutte le virtù, secondo Efesini 3:17: “Essendo radicate e fondate nella carità”. Pertanto, la carità precede le altre virtù.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (De Doctrina Christiana I): “Un uomo non può amare ciò che non ritiene esistere. Ma se lo crede e lo ama, compiendo opere buone finirà per sperare”. Pertanto, sembra che la fede preceda la carità, e la carità la speranza.
+
+Obiezione 3: Inoltre, l’amore è il principio di tutte le nostre emozioni, come detto sopra (A[2], ad 3). Ora la speranza è un tipo di emozione, poiché si tratta di una passione, come affermato sopra (Q[25], A[2]). Pertanto, la carità, che è amore, precede la speranza.
+
+Al contrario, l’Apostolo li elenca in questo modo (1 Corinzi 13:13): “Restano dunque la fede, la speranza e la carità.”
+
+Rispondo che l’Ordine è duplice: ordine di generazione e ordine di perfezione. Per quanto riguarda l’ordine di generazione, in cui la materia precede la forma e ciò che è imperfetto precede ciò che è perfetto, nell’ambito dello stesso soggetto la fede precede la speranza e la carità, in termini di azioni: poiché tutte queste virtù sono strettamente collegate tra loro. Infatti, il desiderio umano non può tendere verso nulla, né attraverso la speranza né attraverso l’amore, se prima quell’oggetto non viene percepito dai sensi o dall’intelletto; ed è proprio attraverso la fede che l’intelletto comprende l’oggetto della speranza e dell’amore. Pertanto, nell’ordine di generazione, la fede precede la speranza e la carità. Allo stesso modo, un uomo ama qualcosa perché lo percepisce come un bene per sé; e poiché spera di poter ottenere quel bene attraverso qualcuno, considera tale persona come un proprio bene. Ecco perché, proprio per questo motivo, l’uomo inizia ad amare quella persona: quindi, nell’ordine di generazione, la speranza precede la carità, in termini delle rispettive azioni.  
+Ma nell’ordine di perfezione, è la carità a precedere la fede e la speranza: poiché sia la fede che la speranza vengono stimolate dalla carità e ricevono da essa il loro pieno sviluppo come virtù. La carità, infatti, è la madre e la radice di tutte le virtù, in quanto ne rappresenta la forma essenziale, come spiegheremo più avanti (SS, Q[23], A[8]).  
+Questo basta per rispondere alla Prima Obiezione.
+
+Risposta all’Obiezione 2: Agostino parla di quella speranza attraverso la quale un uomo si augura di ottenere la beatitudine grazie ai meriti che già possiede; questa speranza appartiene a quella sorta di speranza alimentata e guidata dall’amore. Tuttavia, è possibile che un uomo, prima ancora di possedere l’amore, si auguri di ottenere meriti che non possiede ancora, ma che spera di acquisire in futuro.
+
+Risposta all’Obiezione 3: Come già detto sopra (Q[40], A[7]), quando si tratta delle passioni, la speranza riguarda due aspetti. Il primo è l’oggetto principale della speranza, ovvero il bene che si desidera ottenere; in questo senso, l’amore precede sempre la speranza: infatti, non ci si augura mai qualcosa di buono se non lo si desidera e lo si ama. La speranza riguarda inoltre la persona da cui si spera di poter ottenere quel bene; anche in questo caso, all’inizio la speranza precede l’amore, sebbene in seguito quest’ultimo possa rafforzare tale speranza. Infatti, quando una persona ritiene di poter ottenere qualcosa grazie a un’altra, inizia ad amarla; e proprio perché la ama, spera ancora di più in lei.
+
 <span class="atom-split" data-atom="049" data-title="OF THE CAUSE OF VIRTUES (FOUR ARTICLES)" data-chapter="OF THE CAUSE OF VIRTUES (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the cause of virtues; and under this head there are four points of inquiry:
@@ -2399,6 +3163,14 @@ We must now consider the cause of virtues; and under this head there are four po
 (2) Whether any virtue is caused in us by habituation?
 (3) Whether any moral virtues are in us by infusion?
 (4) Whether virtue acquired by habituation, is of the same species as infused virtue?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la causa delle virtù; e in questo ambito ci sono quattro punti di indagine:  
+(1) Se le virtù siano in noi per natura.  
+(2) Se alcuna virtù derivi da abitudine.  
+(3) Se alcune virtù morali siano in noi per infusione divina.  
+(4) Se la virtù acquisita attraverso l’abitudine appartenga alla stessa categoria della virtù ricevuta per infusione divina.
 
 <span class="atom-split" data-atom="050" data-title="Whether virtue is in us by nature?" data-chapter="Whether virtue is in us by nature?" data-kind="atom" data-srclang="en"></span>
 
@@ -2464,6 +3236,20 @@ virtue which are in us by nature, inasmuch as we are rational beings. The third 
 taken in the sense that, owing to the natural disposition which the body has from birth, one has an
 aptitude for pity, another for living temperately, another for some other virtue.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la virtù sia insita in noi per natura. Infatti Damasceno afferma (De Fide Orthodossa, iii, 14): “Le virtù sono naturali per noi e sono presenti in tutti noi allo stesso modo”. Inoltre Antonio, nel suo sermone ai monaci, dice: “Se la volontà si contraddice alla natura, è perversa; se segue la natura, è virtuosa”. In più, un commento a Matteo 4:23 (“Gesù andava in giro, ”) afferma: “Insegnò loro virtù naturali, cioè castità, giustizia, umiltà, che l’uomo possiede per natura”.
+
+Obiezione 2: Inoltre, il bene virtuoso consiste nell’armonia con la ragione, come è stato chiaramente dimostrato sopra (Q[55], A[4], ad 2). Ma ciò che è in armonia con la ragione è naturale all’uomo; poiché la ragione fa parte della natura umana. Pertanto, la virtù è insita nell’uomo per natura.
+
+Obiezione 3: Inoltre, ciò che è in noi fin dalla nascita viene definito “naturale” per noi. Ora, alcune virtù sono presenti nelle persone fin dalla nascita; infatti si legge (Giobbe 31:18): “Dalla mia infanzia la misericordia è cresciuta insieme a me; è emersa con me dal grembo di mia madre”. Pertanto, la virtù è innata nell’uomo per natura.
+
+Al contrario, tutto ciò che è insito nell’uomo per natura è comune a tutti gli uomini e non viene meno a causa del peccato, poiché anche nei demoni rimangono i doni naturali, come afferma Dionigi (Div. Nom. iv). Ma la virtù non è presente in tutti gli uomini; anzi, viene spazzata via dal peccato. Pertanto, non è insita nell’uomo per natura.
+
+Rispondo che, per quanto riguarda le forme corporee, alcuni hanno sostenuto che esse derivino interamente dall’interno, ad esempio coloro che difendevano la teoria delle “forme latenti” (*Anassagora; cfr. FP, Q[45], A[8]; Q[65], A[4]). Altri ritenevano invece che le forme provenissero interamente dall’esterno, soprattutto coloro che pensavano che tali forme derivassero da cause esterne specifiche. Ancora altri consideravano che le forme fossero in parte derivate dall’interno, poiché esistevano potenzialmente nella materia, e in parte dall’esterno, poiché venivano realizzate attraverso l’azione di agenti esterni. Allo stesso modo, per quanto riguarda le scienze e le virtù, alcuni sostenevano che esse derivassero interamente dall’interno, quindi che tutte le virtù e le scienze esistessero naturalmente nell’anima; ritenevano inoltre che gli ostacoli al loro sviluppo, dovuti al peso del corpo sull’anima, potessero essere superati attraverso lo studio e la pratica, proprio come il ferro viene reso lucido tramite la levigatura. Questa era l’opinione dei platonici. Altri affermavano che scienze e virtù derivassero interamente dall’esterno, grazie all’afflusso dell’intelletto attivo, come sosteneva Avicenna. Ancora altri ritenevano che scienze e virtù fossero presenti in noi per natura, ma non nella loro forma perfetta: questa era l’insegnamento del Filosofo (*Etica*, ii, 1) ed è quella che si avvicina di più alla verità. Per chiarire meglio questo punto, bisogna osservare che ci sono due modi in cui si può dire che qualcosa sia “naturale” per un uomo: uno in base alla sua natura specifica, l’altro in base alla sua natura individuale. Poiché ogni cosa deriva la propria specie dalla propria forma e la propria individualità dalla materia, e poiché la forma dell’uomo è la sua anima razionale, mentre la sua materia è il suo corpo, tutto ciò che appartiene all’anima razionale è naturale per l’uomo in base alla sua natura specifica; mentre tutto ciò che riguarda il temperamento particolare del corpo è naturale per lui in base alla sua natura individuale. Infatti, ciò che è naturale per l’uomo in relazione al suo corpo, considerato come parte della sua specie, può essere ricondotto all’anima, poiché quel corpo particolare è adatto a quella anima specifica. In entrambi i casi, la virtù è “naturale” per l’uomo, ma in modo incompleto. Questo vale in relazione alla sua natura specifica: nella ragione umana, infatti, esistono principi naturalmente conosciuti sia per il conoscere che per l’agire, che costituiscono la base delle virtù intellettuali e morali; inoltre, nella volontà c’è un desiderio naturale di agire bene, in accordo con la ragione. Questo vale anche in relazione alla sua natura individuale: a causa di determinate disposizioni del corpo, alcune persone sono più propense ad alcune virtù rispetto ad altre; infatti, alcune facoltà sensorie sono funzioni di parti specifiche del corpo, e la disposizione di queste parti influisce sul loro funzionamento, e di conseguenza anche sulle capacità razionali dell’uomo.
+Le suddette facoltà sensibili ci assistono in questo processo. In questo modo, un uomo possiede una predisposizione naturale per la scienza, un altro per la forza d’animo, un altro ancora per la moderazione; e in questi modi, sia le virtù intellettuali che quelle morali esistono in noi grazie a una predisposizione naturale, ma solo in modo iniziale, non perfetto. La natura ci determina infatti verso certe direzioni, mentre la perfezione di queste virtù dipende da diversi modi di agire, in relazione alle varie circostanze e agli ambiti specifici in cui tali virtù si manifestano.  
+È quindi evidente che tutte le virtù esistono in noi per natura, ma solo in forma iniziale, non perfetta; fatta eccezione per le [virtù teologiche](/concepts/theological_virtues), che derivano interamente dall’esterno. Ciò basta per rispondere alle obiezioni sollevate. Le prime due riguardano infatti quelle “scuole” naturali delle virtù che esistono in noi in quanto esseri razionali; la terza obiezione deve essere intesa nel senso che, a causa della disposizione naturale che il corpo possiede fin dalla nascita, alcune persone hanno una predisposizione per la pietà, altre per vivere in modo moderato, e altre ancora per altre virtù.
+
 <span class="atom-split" data-atom="051" data-title="Whether any virtue is caused in us by habituation?" data-chapter="Whether any virtue is caused in us by habituation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that virtues can not be caused in us by habituation. Because a gloss
@@ -2523,6 +3309,23 @@ of the appetite which results through the appetite partaking of reason, which re
 to moral virtue. Accordingly human acts, in so far as they proceed from higher principles, can cause
 acquired human virtues.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le virtù non possano essere generate in noi attraverso l’abitudine. Infatti, un commento di [Agostino](/figures/augustine) [*Cfr. Libro delle Sentenze, Prospere, c. cvi.*], che interpreta Romani 14:23 (“Tutto ciò che non proviene dalla fede è peccato”), afferma: “L’intera vita di un incredulo è peccato; e non esiste nulla di buono senza il Bene Supremo. Laddove manca la conoscenza della verità, anche nelle persone più perbene le virtù non sono altro che una mascherata del male”. Ora, la fede non può essere acquisita attraverso le opere, ma è donata da Dio, come si legge in Efesini 2:8 (“Per grazia siete salvati mediante la fede”). Pertanto, nessuna virtù acquisita può nascere in noi attraverso l’abitudine.
+
+Obiezione 2: Inoltre, peccato e virtù sono contrari tra loro, quindi sono incompatibili. Ora l’uomo non può evitare il peccato se non per la grazia di Dio, come afferma la Sapienza 8:21: “Sapevo che non avrei potuto astenermi dal peccato se Dio non me lo avesse concesso”. Pertanto, nemmeno le virtù possono essere generate in noi attraverso l’abitudine, ma soltanto per il dono di Dio.
+
+Obiezione 3: Inoltre, le azioni che portano alla virtù mancano della perfezione stessa della virtù. Ma un effetto non può essere più perfetto della sua causa. Pertanto, una virtù non può essere generata da azioni che la precedono.
+
+Al contrario, Dionisio afferma (Div. Nom. iv) che il bene è più efficace del male. Tuttavia, le cattive abitudini derivano da atti malvagi; pertanto, con maggiore ragione, le buone abitudini possono nascere da atti virtuosi.
+
+Rispondo che abbiamo già parlato in modo generale, sopra (Q[51], AA[2],3), della formazione delle abitudini a partire dagli atti; ora, parlando in modo più specifico di questo argomento in relazione alla virtù, dobbiamo ricordare che, come detto in precedenza (Q[55], AA[3],4), la virtù umana perfeziona l’uomo rispetto al bene. Poiché il concetto di bene consiste nel “modo, nella specie e nell’ordine”, come afferma Agostino nel De Nat. Boni iii, o nel “numero, nel peso e nella misura”, come espresso nella Sapienza 11:21, il bene umano deve necessariamente essere valutato in relazione a qualche regola. Questa regola è duplice, come già indicato (Q[19], AA[3],4): la ragione umana e la [Legge Divina](/concepts/divine_law). Poiché la Legge Divina rappresenta la regola più elevata, essa si estende a molte più cose; quindi tutto ciò che è regolato dalla ragione umana è anche regolato dalla Legge Divina, ma il contrario non vale.  
+Ne consegue che la virtù umana orientata verso il bene definito secondo le regole della ragione umana può essere generata da atti umani: poiché tali atti derivano dalla ragione, e è proprio grazie al potere e alle regole della ragione che tale bene viene realizzato. D’altra parte, la virtù che orienta l’uomo verso il bene definito dalla Legge Divina, e non dalla ragione umana, non può essere generata da atti umani, i cui principi sono fondamentalmente razionali; essa viene invece prodotta in noi esclusivamente dall’azione divina. Per questo motivo Agostino, nella definizione di questa seconda forma di virtù, aggiunge le parole: “quella che Dio opera in noi senza di noi” (Super Ps. 118, Serm. xxvi). Appunto riguardo a queste virtù si applica anche la Prima Obiezione sollevata.
+
+Risposta all’Obiezione 2: Il peccato mortale è incompatibile con la virtù infusa divinamente, soprattutto se considerata nel suo stato perfetto. Tuttavia, il peccato effettivo, anche se mortale, è compatibile con la virtù acquisita umanamente; poiché l’uso di una [abitudine](/concepts/custom) in noi è soggetto alla nostra volontà, come già detto (Q[49], A[3]): inoltre, un atto peccaminoso non distrugge un’abitudine di virtù acquisita, poiché si tratta di un’abitudine e non di un atto che sia direttamente contraria ad essa. Pertanto, sebbene l’uomo non possa evitare il peccato mortale senza la grazia divina, al punto di non peccare mai mortalmente, ciò non gli impedisce comunque di acquisire abitudini virtuose che gli permettano di astenersi dal male nella maggior parte dei casi, soprattutto in quelle questioni che sono più in contrasto con la ragione. Esistono inoltre alcuni peccati mortali che l’uomo non può assolutamente evitare senza la grazia divina, ovvero quelli che sono direttamente contrari alle [virtù teologali](/concepts/theological_virtues), le quali sono presenti in noi per dono della grazia. Questo aspetto verrà spiegato più ampiamente in seguito (Q[109], A[4]).
+
+Risposta all’Obiezione 3: Come già detto sopra (A[1]; Q[51], A[1]), alcune semine o principi della virtù acquisita esistono in noi per natura. Questi principi sono di qualità superiore rispetto alle virtù che ne derivano; pertanto, la comprensione dei principi speculativi è più nobile della scienza delle conclusioni, e la rettitudine naturale della ragione è più preziosa della correzione degli appetiti che avviene quando tali appetiti si fondono con la ragione, una correzione che rientra appunto nella sfera della virtù morale. Di conseguenza, gli atti umani, in quanto derivano da principi di ordine superiore, possono generare virtù umane acquisite.
+
 <span class="atom-split" data-atom="052" data-title="Whether any moral virtues are in us by infusion?" data-chapter="Whether any moral virtues are in us by infusion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no virtues besides the [theological virtues](/concepts/theological_virtues) are infused in us by
@@ -2562,6 +3365,24 @@ virtues in regard to other things, yet in relation to God.
 Reply to Objection 3: The power of those naturally instilled principles does not extend beyond
 the capacity of nature. Consequently man needs in addition to be perfected by other principles in
 relation to his supernatural end.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nessuna virtù, al di fuori delle [virtù teologali](/concepts/theological_virtues), venga infusa in noi da Dio. Poiché Dio non compie da solo, se non forse talvolta in modo miracoloso, quelle cose che possono essere realizzate attraverso cause secondarie; infatti, come afferma Dionigi di Atene (Coel. Hier. iv), “è regola di Dio produrre gli estremi attraverso il mezzo”. Ora, le virtù intellettuali e morali possono essere generate in noi attraverso i nostri stessi atti, come già detto sopra (A[2]). Pertanto, non è ragionevole che queste virtù vengano infuse direttamente da Dio.
+
+Obiezione 2: Inoltre, nelle opere di Dio si riscontra molto meno eccesso o superfluità rispetto alle opere della natura. Le virtù teologiche sono sufficienti a guidarci verso il bene soprannaturale; pertanto non esistono altre virtù soprannaturali che debbano essere suscitate in noi da Dio.
+
+Obiezione 3: Inoltre, la natura non utilizza due mezzi quando uno solo è sufficiente; tanto meno Dio. Ma Dio ha seminato nei nostri spiriti i semi della virtù, secondo un commento su Ebrea 1 [*Cfr. Gerolamo su Galati 1:15,16*]. Pertanto non sarebbe appropriato da Lui far sorgere in noi altre virtù attraverso mezzi diversi da quelli utilizzati per seminare i primi semi della virtù.
+
+Al contrario, è scritto (Sapienza 8:7): “Insegna moderazione, prudenza, giustizia e forza d’animo”.
+
+Rispondo che gli effetti devono necessariamente essere proporzionali alle loro cause e ai principi da cui derivano. Ora, tutte le virtù, sia intellettuali che morali, che vengono acquisite attraverso le nostre azioni, scaturiscono da certi principi naturali preesistenti in noi, come già detto (A[1]; Q[51], A[1]). Invece di questi principi naturali, Dio ci dona le virtù teologali, grazie alle quali veniamo guidati verso un fine soprannaturale, come si afferma in (Q[62], A[1]). Pertanto, abbiamo bisogno di ricevere da Dio altre abitudini che siano, in proporzione adeguata, corrispondenti alle virtù teologali; queste abitudini, per così dire, hanno lo stesso ruolo delle virtù morali e intellettuali rispetto ai principi naturali della virtù.
+
+Risposta all’Obiezione 1: Alcune virtù morali e intellettuali possono effettivamente essere generate dalle nostre azioni; tuttavia, tali virtù non sono proporzionali alle virtù teologiche. Pertanto, era necessario che ricevessimo da Dio, direttamente, altre virtù che fossero proporzionali a queste ultime.
+
+Risposta all’Obiezione 2: Le virtù teologali ci guidano sufficientemente verso il nostro fine soprannaturale, anche se in modo iniziale, cioè direttamente verso Dio stesso. Tuttavia, l’anima ha ancora bisogno di essere perfezionata attraverso altre virtù, relative ad altri aspetti della realtà, ma comunque in relazione a Dio.
+
+Risposta all’Obiezione 3: Il potere di quei principi innati non va oltre le capacità naturali dell’uomo. Pertanto, l’uomo ha bisogno che altri principi lo perfezionino ulteriormente, al fine di raggiungere il suo scopo soprannaturale.
 
 <span class="atom-split" data-atom="053" data-title="Whether virtue by habituation belongs to the same species as infused virtue?" data-chapter="Whether virtue by habituation belongs to the same species as infused virtue?" data-kind="atom" data-srclang="en"></span>
 
@@ -2618,6 +3439,24 @@ other eyes are formed naturally: consequently it was of the same species. It wou
 God wished to give a man miraculously virtues, such as those that are acquired by acts. But the
 case is not so in the question before us, as stated.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la virtù innata non differisca, per specie, dalla virtù acquisita. Poiché, secondo quanto detto (A[3]), le virtù acquisite e quelle innate non differiscono apparentemente se non in relazione al loro fine ultimo. Ora, le abitudini e gli atti umani vengono definiti non in base al loro fine ultimo, ma in base a quello immediato. Pertanto, la virtù morale o intellettuale innata non differisce dalla virtù acquisita.
+
+Obiezione 2: Inoltre, le abitudini si conoscono attraverso i loro atti. Ma l’atto di temperanza, sia quella innata che quella acquisita, è lo stesso: ovvero moderare i desideri legati al piacere sensoriale. Pertanto, non differiscono per specie.
+
+Obiezione 3: Inoltre, la virtù acquisita e quella infusa differiscono in quanto quella è operata direttamente da Dio, mentre l’altra è opera di una creatura. Ma l’uomo creato da Dio appartiene alla stessa specie dell’uomo nato naturalmente; e l’occhio che Dio ha dato all’uomo nato cieco è anch’esso prodotto dal potere della generazione. Pertanto, sembra che la virtù acquisita e quella infusa appartengano alla stessa specie.
+
+Al contrario, qualsiasi cambiamento venga apportato alla differenza espressa in una definizione comporta un’alterazione di specie. Tuttavia, la definizione della virtù infusa contiene le parole “che Dio opera in noi senza di noi”, come detto sopra (Q[55], A[4]). Pertanto, la virtù acquisita, a cui queste parole non si applicano, non appartiene alla stessa specie della virtù infusa.
+
+Rispondo che esistono due tipi di differenze specifiche tra le abitudini. La prima, come già detto sopra (Q[54], A[2]; Q[56], A[2]; Q[60], A[1]), deriva dagli aspetti specifici e formali degli oggetti su cui tali abitudini si rivolgono. L’oggetto di ogni virtù è un bene considerato nella sua essenza specifica; ad esempio, l’oggetto della temperanza è un bene legato ai piaceri derivanti dalla [concupiscenza](/concepts/concupiscence) del tatto. L’aspetto formale di questo oggetto deriva dalla ragione, che stabilisce il giusto mezzo tra questi desideri; l’elemento materiale, invece, appartiene alle stesse concupiscenze. È evidente che il mezzo stabilito dalla ragione umana si distingue da quello determinato dalla legge divina: ad esempio, nel consumo di cibo, il mezzo umano consiste nel non danneggiare la salute del corpo né ostacolare l’uso della ragione; mentre secondo la legge divina, è dovere dell’uomo “castigare il proprio corpo e sottometterlo” (1 Cor. 9:27) attraverso astinenze alimentari e simili. È quindi chiaro che la temperanza innata e quella acquisita differiscono per natura; lo stesso vale per le altre virtù. Le altre differenze specifiche tra le abitudini derivano dagli oggetti verso cui queste sono dirette: ad esempio, la salute di un uomo e quella di un cavallo non appartengono alla stessa categoria, a causa delle differenze nelle loro nature. Nello stesso senso, il Filosofo afferma (Politica iii, 3) che i cittadini possiedono virtù diverse in base al tipo di governo a cui sono destinati. Allo stesso modo, le virtù morali innate, attraverso le quali gli uomini si comportano bene come “confratelli dei santi e membri della famiglia di Dio” (Ef. 2:19), differiscono dalle virtù acquisite, che permettono loro di agire correttamente nelle questioni umane.
+
+Risposta all’Obiezione 1: La virtù innata e quella acquisita differiscono non solo in relazione allo scopo finale, ma anche in relazione ai loro oggetti specifici, come già detto.
+
+Risposta all’Obiezione 2: Sia la temperanza acquisita che quella innata moderano i desideri per i piaceri tattili, ma per motivi diversi, come già detto; pertanto le loro rispettive azioni non sono identiche.
+
+Risposta all’Obiezione 3: Dio ha dato all’uomo nato cieco un occhio per lo stesso motivo per cui gli altri occhi vengono naturalmente formati; pertanto, si tratta dello stesso “tipo” di organo. Sarebbe lo stesso se Dio volesse donare miracolosamente a un uomo virtù che normalmente si acquisiscono attraverso azioni concrete. Ma nel caso di cui ci occupiamo, le cose non stanno così, come è stato detto.
+
 <span class="atom-split" data-atom="054" data-title="OF THE MEAN OF VIRTUE (FOUR ARTICLES)" data-chapter="OF THE MEAN OF VIRTUE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the properties of virtues: and (1) the mean of virtue, (2) the connection
@@ -2627,6 +3466,14 @@ four points of inquiry:
 (2) Whether the mean of moral virtue is the real mean or the rational mean?
 (3) Whether the intellectual virtues observe the mean?
 (4) Whether the [theological virtues](/concepts/theological_virtues) do?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare le proprietà delle virtù: (1) il mezzo della virtù, (2) il legame tra le virtù, (3) l’equivalenza delle virtù, (4) la durata delle virtù. Nel primo ambito vi sono quattro punti di indagine:  
+(1) Se la virtù morale osserva il mezzo giusto;  
+(2) Se questo mezzo sia reale o razionale;  
+(3) Se anche le virtù intellettuali seguano tale mezzo;  
+(4) E se lo facciano anche le [virtù teologiche](/concepts/theological_virtues).
 
 <span class="atom-split" data-atom="055" data-title="Whether moral virtues observe the mean?" data-chapter="Whether moral virtues observe the mean?" data-kind="atom" data-srclang="en"></span>
 
@@ -2689,6 +3536,24 @@ an undue manner, i.e. out of unlawful superstition, or again for vainglory, it w
 if it be not done when it ought to be done, or as it ought to be done, it is a vice by deficiency: for
 instance, in those who break their vows of virginity or poverty.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la virtù morale non segua il mezzo. Infatti, la natura del mezzo è incompatibile con quella di ciò che è estremo. Ora, la natura stessa della virtù è qualcosa di estremo; come affermato nel “De Coelo”, “la virtù è il limite del potere”. Pertanto, la virtù morale non segue il mezzo.
+
+Obiezione 2: Inoltre, il massimo non è necessariamente un mezzo. Alcune virtù morali tendono verso un massimo: ad esempio, la magnanimità tende verso onori molto grandi, e la generosità tende verso spese molto elevate, come affermato nell’Etica iv, 2,3. Pertanto, non tutte le virtù morali rispettano il “mezzo”.
+
+Obiezione 3: Inoltre, se è essenziale per una virtù morale osservare la via di mezzo, ne consegue che una virtù morale non viene perfezionata, ma al contrario corrotta, quando si tende verso un estremo. Ora, alcune virtù morali vengono perfezionate proprio tendendo verso un estremo; ad esempio, la verginità, che si astiene da ogni piacere sessuale, osserva appunto l’estremo e rappresenta la forma più perfetta di castità; allo stesso modo, donare tutto ai poveri costituisce la forma più perfetta di misericordia o generosità. Pertanto, sembra che non sia essenziale per una virtù morale osservare la via di mezzo.
+
+Al contrario, il Filosofo afferma (Etica, ii, 6) che “la virtù morale è un’[abitudine](/concepts/custom) di scegliere la via di mezzo”.
+
+Rispondo che, come già spiegato (Q[55], A[3]), la natura della virtù consiste nel guidare l’uomo verso il bene. Ora, la virtù morale è propriamente una perfezione della parte appetitiva dell’anima riguardo a un oggetto determinato; e la misura o regola del movimento appetitivo nei confronti di tali oggetti è la ragione. Il bene di ciò che viene misurato o regolato consiste nella sua conformità con tale regola: pertanto, le cose buone create dall’arte sono quelle che seguono le leggi dell’arte stessa. Di conseguenza, in casi del genere, il male deriva dalla discordanza tra ciò che esiste e la regola che dovrebbe governarlo; ciò può accadere sia quando qualcosa supera tale misura sia quando non la raggiunge, come avviene chiaramente in tutte le cose soggette a regole o misure. È quindi evidente che il bene della virtù morale risiede nella conformità con la regola della ragione; e poiché tra eccesso e difetto esiste la media, ne consegue che la virtù morale segue appunto questa via di mezzo.
+
+Risposta all’Obiezione 1: La virtù morale deriva la sua bontà dalla regola della ragione, mentre la sua materia consiste nelle passioni o nelle azioni umane. Se quindi paragoniamo la virtù morale alla ragione, ciò che in essa è legato alla ragione occupa una posizione estrema: quella della conformità alle norme razionali; l’eccesso e il difetto, invece, rappresentano l’altra estremità, ovvero la deformità. Tuttavia, se consideriamo la virtù morale in relazione alla sua materia, essa occupa una posizione intermedia, poiché ha lo scopo di far sì che le passioni umane seguano le regole della ragione. Per questo motivo il Filosofo afferma (Etica, ii, 6) che “la virtù, in quanto essenza, è uno stato intermedio”, nel senso che le norme della virtù vengono applicate alla materia su cui si esprime; “ma diventa un’estremità quando si riferisce al ‘meglio’ e all‘eccellente’, ovvero quando riguarda la sua conformità assoluta alle regole razionali”.
+
+Risposta all’Obiezione 2: Nelle azioni e nelle passioni, il mezzo e gli estremi dipendono da varie circostanze; pertanto nulla impedisce che una cosa sia considerata estrema in relazione a una determinata circostanza, mentre allo stesso tempo possa essere considerata un mezzo in relazione ad altre circostanze, poiché è in conformità con la ragione. Questo vale per la magnanimità e la magnificenza: se consideriamo la quantità assoluta degli oggetti di queste virtù, le definiremo estreme e massime; ma se consideriamo tale quantità in relazione ad altre circostanze, allora assumono il carattere di mezzi. Infatti, queste virtù tendono verso questo massimo secondo le regole della ragione, cioè “là” dove è giusto, “quando” è giusto, e per uno “scopo” che sia giusto. Si verifica un eccesso quando si tende verso questo massimo “quando” non è opportuno, o “là” dove non è appropriato, o per uno scopo indebito; si verifica invece una carenza quando ci si astiene dal tendere verso di esso “là” dove sarebbe dovuto, e “quando” sarebbe opportuno. Ciò concorda con quanto afferma il Filosofo nell’Etica (IV, 3): “L’uomo magnanimo osserva l’estremo nella quantità, ma il mezzo nel modo corretto di agire”.
+
+Risposta all’Obiezione 3: Lo stesso si può dire della verginità e della povertà, così come della magnanimità. La verginità consiste nell’astenersi da ogni attività sessuale, e la povertà nell’eliminare ogni forma di ricchezza; entrambe vengono praticate per un fine giusto e in modo corretto, cioè secondo la parola di Dio e al fine della vita eterna. Tuttavia, se queste pratiche vengono compiute in modo indebito – ad esempio a causa di superstizioni illegali o per vanità – allora costituiscono un eccesso. Inoltre, se non vengono attuate quando dovrebbero essere attuate, o non nel modo corretto, rappresentano un vizio dovuto alla mancanza di tali pratiche; è il caso, ad esempio, di coloro che violano i propri voti di verginità o povertà.
+
 <span class="atom-split" data-atom="056" data-title="Whether the mean of moral virtue is the real mean, or the rational mean?" data-chapter="Whether the mean of moral virtue is the real mean, or the rational mean?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the mean of moral virtue is not the rational mean, but the real
@@ -2725,6 +3590,18 @@ to their passions; hence the rectitude of reason has to be established in the pa
 to us, who are moved in respect of the passions.
 This suffices for the Replies to the Objections. For the first two arguments take the rational
 mean as being in the very act of reason, while the third argues from the mean of justice.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che il mezzo della virtù morale non sia il mezzo razionale, ma il mezzo reale. Infatti, il bene della virtù morale consiste nel rispettare tale mezzo. Ora, il bene, come affermato nella “Metafisica” II, testo 8, risiede nelle cose stesse. Pertanto, il mezzo della virtù morale è un mezzo reale.
+
+Obiezione 2: Inoltre, il motivo su cui si fonda questa argomentazione è una capacità di comprensione. Tuttavia, la virtù morale non si basa su un mezzo che riguardi le nostre capacità cognitive, ma piuttosto su un mezzo che riguardi le nostre azioni o le nostre passioni. Pertanto, il mezzo alla base della virtù morale non è quello razionale, ma quello reale.
+
+Obiezione 3: Inoltre, un mezzo che viene adottato secondo proporzioni aritmetiche o geometriche è un mezzo reale. Ora, il mezzo della giustizia rientra in questa categoria, come affermato nell’Etica V, 3. Pertanto, il mezzo delle virtù morali non è il mezzo razionale, ma il mezzo reale.
+
+Al contrario, il Filosofo afferma (Etica, ii, 6) che “la virtù morale segue la media stabilita, ai nostri occhi, dalla ragione”.
+
+Rispondo che il mezzo razionale può essere inteso in due modi. In primo luogo, nel senso in cui tale mezzo viene osservato nell’atto stesso della ragione, come se l’atto stesso della ragione fosse volto a rispettare quel mezzo; in questo caso, poiché la virtù morale perfeziona non l’atto della ragione, ma quello del potere appetitivo, il mezzo della virtù morale non è necessariamente un mezzo razionale. In secondo luogo, il mezzo razionale può essere considerato come ciò che la ragione applica a una determinata materia; in questo senso, ogni mezzo della virtù morale è un mezzo razionale, poiché, come già detto, la virtù morale si attiene al mezzo attraverso l’adeguazione alla ragione retta. Tuttavia, a volte il mezzo razionale coincide anche con il mezzo reale; in tal caso, il mezzo della virtù morale è effettivamente un mezzo reale, ad esempio nella giustizia. Altre volte, invece, il mezzo razionale non corrisponde al mezzo reale, ma viene considerato in relazione a noi; questo vale per tutte le altre virtù morali. La ragione di ciò è che la giustizia riguarda operazioni che coinvolgono cose esterne, nelle quali il diritto deve essere stabilito in modo semplice e assoluto, come già detto; pertanto, nel caso della giustizia, il mezzo razionale coincide con il mezzo reale, poiché la giustizia assegna a ciascuno ciò che gli spetta, né di più né di meno. Le altre virtù morali, invece, riguardano passioni interne, e in questo caso il diritto non può essere stabilito nello stesso modo; pertanto, la rettitudine della ragione deve essere applicata alle passioni, tenendo conto delle nostre condizioni particolari. Ciò basta per rispondere alle obiezioni avanzate. I primi due argomenti considerano il mezzo razionale come parte dell’atto stesso della ragione, mentre il terzo si basa sul caso specifico della giustizia.
 
 <span class="atom-split" data-atom="057" data-title="Whether the intellectual virtues observe the mean?" data-chapter="Whether the intellectual virtues observe the mean?" data-kind="atom" data-srclang="en"></span>
 
@@ -2785,6 +3662,26 @@ something positive in both cases. Hence "to be" and "not to be" are contradictor
 stating that "good is good" is contrary to the opinion stating that "good is not good": and between
 two such contraries intellectual virtue observes the mean.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le virtù intellettuali non osservino la media. Poiché la virtù morale osserva la media conformandosi alla regola della ragione, le virtù intellettuali, essendo esse stesse parte della ragione, non sembrerebbero avere alcuna regola superiore. Pertanto, le virtù intellettuali non osservano la media.
+
+Obiezione 2: Inoltre, il mezzo della virtù morale è determinato da una virtù intellettuale; infatti, nell’Etica ii, 6 si afferma che “la virtù segue il mezzo stabilito dalla ragione, proprio come lo stabilirebbe un uomo prudente”. Se quindi anche la virtù intellettuale segue un certo mezzo, questo mezzo dovrà essere determinato da un’altra virtù, il che porterebbe a una serie infinita di virtù.
+
+Obiezione 3: Inoltre, un mezzo, nel senso proprio del termine, si trova tra contrari, come spiega il Filosofo (Metafisica, x, testi 22, 23). Tuttavia sembra non esistere alcuna contrarietà nell’intelletto; poiché i contrari, così come sono nell’intelletto, non si oppongono tra loro, ma vengono compresi insieme, come il bianco e il nero, la salute e la malattia. Pertanto, non esiste alcun mezzo nelle virtù intellettuali.
+
+Al contrario, l’Arte è una virtù intellettuale; eppure nell’arte esiste anche un mezzo (Etica, ii, 6). Pertanto anche la virtù intellettuale rispetta il concetto di medio.
+
+Rispondo che il bene di qualsiasi cosa consiste nel rispettare la misura giusta, conformandosi a una regola o a un criterio secondo cui quella cosa può risultare eccessiva o insufficiente, come già detto sopra (A[1]). Ora, la virtù intellettuale, proprio come la virtù morale, è orientata verso il bene, come si è affermato in precedenza (Q[56], A[3]). Pertanto, il bene di una virtù intellettuale consiste nel rispettare tale misura, nella misura in cui essa è soggetta a un criterio determinato. Il bene della virtù intellettuale è la verità: nel caso delle virtù contemplative, si tratta della verità intesa in senso assoluto (Etica VI, 2); nel caso delle virtù pratiche, si tratta della verità in relazione a un appetito retto.  
+La verità, intesa dal nostro intelletto, se considerata in modo assoluto, è misurata dalle cose stesse; poiché le cose sono la misura del nostro intelletto, come affermato nella Metafisica X, testo 5; e perché ciò che pensiamo o diciamo è vero o falso a seconda che le cose siano effettivamente così o meno. Pertanto, il bene della virtù intellettuale speculativa consiste nel rispettare una certa misura, conformandosi alle cose stesse, nel modo in cui l’intelletto le esprime come esse sono realmente. Si verifica un eccesso quando si afferma qualcosa di falso, come se quella cosa fosse vera quando in realtà non lo è; si verifica una carenza quando si nega falsamente qualcosa che invece è vero.  
+La verità della virtù intellettuale pratica, se considerata in relazione alle cose, consiste nel rispettare quel criterio di misura; quindi sia nella virtù intellettuale pratica che in quella speculativa, la misura giusta si realizza attraverso la conformità alle cose stesse. Tuttavia, se considerata in relazione all’appetito umano, tale misura assume il carattere di una regola o di un criterio guida. Di conseguenza, l’accuratezza del ragionamento costituisce sia la misura della virtù morale che quella della prudenza: della prudenza come capacità di guidare e misurare, e della virtù morale come oggetto di tale guida e misura. Allo stesso modo, il concetto di eccesso e carenza si applica in entrambi i casi.
+
+Risposta all’Obiezione 1: Le virtù intellettuali, come già detto, hanno anch’esse la loro misura; esse rispettano tale misura nel momento in cui si conformano ad essa.
+
+Risposta all’Obiezione 2: Non è necessaria una serie infinita di virtù; poiché la misura e la regola della virtù intellettuale non sono un altro tipo di virtù, ma piuttosto le cose stesse.
+
+Risposta all’Obiezione 3: Le cose stesse che sono contrarie non presentano alcuna contrarietà nell’intelletto, poiché una di esse costituisce la ragione per conoscere l’altra; tuttavia, nell’intelletto esiste effettivamente una contrarietà tra affermazione e negazione, che sono considerate contrarie. Come affermato alla fine del “Peri Hermenias”, sebbene “essere” e “non essere” non siano in contrarietà diretta, ma si trovino in un rapporto di opposizione contraddittoria l’uno rispetto all’altro, quando consideriamo il loro significato nelle cose stesse, da un lato abbiamo “essere” e dall’altro semplicemente “non essere”; tuttavia, se li riferiamo all’atto dell’intelletto, in entrambi i casi esiste qualcosa di positivo. Pertanto, “essere” e “non essere” sono contraddittori; ma l’affermazione secondo cui “il bene è buono” è contraria all’affermazione secondo cui “il bene non è buono”; tra due contrari del genere, la virtù intellettuale osserva una via di mezzo.
+
 <span class="atom-split" data-atom="058" data-title="Whether the theological virtues observe the mean?" data-chapter="Whether the theological virtues observe the mean?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [theological virtue](/concepts/theological_virtues) observes the mean. For the good of other
@@ -2838,6 +3735,25 @@ goodness is infinite. In like manner faith holds a middle course between contrar
 comparison with its object, which is God, in Whom we cannot believe too much; but in so far as
 human opinion itself takes a middle position between contrary opinions, as was explained above.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la [virtù teologica](/concepts/theological_virtues) segua sempre la via di mezzo. Infatti, il bene delle altre virtù consiste proprio nel loro attenersi a tale via; poiché la virtù teologica supera le altre in bontà, è ancora più evidente che essa osservi rigorosamente la via di mezzo.
+
+Obiezione 2: Inoltre, il mezzo della virtù morale dipende dal fatto che l’appetito sia governato dalla ragione; mentre il mezzo della virtù intellettuale consiste nel fatto che l’intelletto sia guidato dalle verità razionali. Ora, la virtù teologica perfeziona sia l’intelletto che l’appetito, come già detto sopra (Q[62], A[3]). Pertanto, anche la virtù teologica osserva il mezzo corretto.
+
+Obiezione 3: Inoltre, la speranza, che è una virtù teologica, rappresenta un mezzo tra disperazione e presunzione. Allo stesso modo, la fede segue una via di mezzo tra eresie contrarie, come afferma Boezio nel “De Duab. Natur.” vii: pertanto, riconoscendo in Cristo una sola Persona e due nature, osserviamo il punto medio tra l’eresia di Nestorio, che sosteneva l’esistenza di due persone e due nature, e l’eresia di Eutiche, che riteneva esistesse una sola persona e una sola natura. Quindi, le virtù teologiche seguono sempre un percorso mediano.
+
+Al contrario, ovunque la virtù si attenga al mezzo, è possibile peccare sia per eccesso che per difetto. Tuttavia, non esiste alcun peccato per eccesso nei confronti di Dio, che è l’oggetto della virtù teologica: infatti è scritto (Ecclesiaste 43:33): “Benedite il Signore e lodatelo quanto più potete; poiché egli è al di sopra di ogni lode”. Pertanto, la virtù teologica non si attiene al mezzo.
+
+Rispondo che, come già detto sopra (A[1]), il significato della virtù dipende dalla conformità alle sue regole o misure, nel senso che si può superare o mancare tali regole. Ora, la misura della virtù teologica può essere duplice. Una di queste misure deriva direttamente dalla natura stessa della virtù; pertanto, la misura e la regola della virtù teologica sono Dio stesso: poiché la nostra fede è guidata dalla verità divina, la carità dalla Sua bontà, e la speranza dall’immensità della Sua onnipotenza e della Sua amorevolezza. Questa misura trascende ogni potere umano; quindi non possiamo mai amare Dio quanto Egli meriti di essere amato, né credere in Lui e sperare in Lui quanto dovremmo. Molto meno può esserci eccesso in tali atti. Pertanto, il bene derivante da queste virtù non consiste in una misura media, ma aumenta man mano che ci avviciniamo al loro apice.  
+L’altra regola o misura della virtù teologica deriva invece dal confronto con noi stessi: poiché, sebbene non possiamo essere attratti verso Dio quanto dovremmo, dobbiamo comunque cercare di avvicinarci a Lui attraverso la fede, la speranza e l’amore, secondo le possibilità della nostra condizione. Pertanto, è possibile individuare una misura media, così come estremi, nella virtù teologica, in modo accidentale e rispetto alle nostre capacità umane.
+
+Risposta all’Obiezione 1: Il bene delle virtù intellettuali e morali consiste in un mezzo razionale, basato sulla conformità a una misura che può essere superata; ciò non vale, invece, nel caso della virtù teologica, considerata in sé stessa, come detto sopra.
+
+Risposta all’Obiezione 2: Le virtù morali e intellettuali perfezionano il nostro intelletto e i nostri desideri in relazione a una misura e a una regola create; mentre le virtù teologiche li perfezionano in relazione a una regola e a una misura non create. Pertanto, tale confronto non è valido.
+
+Risposta all’Obiezione 3: La speranza rappresenta la via di mezzo tra l’arroganza e la disperazione, per quanto ci riguarda. Un uomo viene considerato arrogante quando si augura di ricevere da Dio qualcosa che va oltre le sue possibilità; al contrario, viene considerato disperato quando non spera in ciò che, secondo le sue condizioni, potrebbe realisticamente aspettarsi. Tuttavia, non può esistere alcun eccesso nella speranza rispetto a Dio, la cui bontà è infinita. Allo stesso modo, la fede rappresenta una posizione intermediaria tra eresie contrapposte; questa posizione intermedia non deriva dal confronto con l’oggetto della fede – Dio, in Lui non possiamo mai credere abbastanza – ma dal fatto che anche il giudizio umano, di per sé, assume una posizione equilibrata tra opinioni opposte, come è stato spiegato sopra.
+
 <span class="atom-split" data-atom="059" data-title="OF THE CONNECTION OF VIRTUES (FIVE ARTICLES)" data-chapter="OF THE CONNECTION OF VIRTUES (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the connection of virtues: under which head there are five points of
@@ -2847,6 +3763,15 @@ inquiry:
 (3) Whether charity can be without them?
 (4) Whether faith and hope can be without charity?
 (5) Whether charity can be without them?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare il rapporto tra le virtù: in questo ambito vi sono cinque punti da esaminare:  
+(1) Se le virtù morali siano tra loro collegate;  
+(2) Se le virtù morali possano esistere senza carità;  
+(3) Se la carità possa esistere senza di esse;  
+(4) Se fede e speranza possano esistere senza carità;  
+(5) Se la carità possa esistere senza di loro.
 
 <span class="atom-split" data-atom="060" data-title="Whether the moral virtues are connected with one another? (parte 1)" data-chapter="Whether the moral virtues are connected with one another?" data-kind="atom" data-srclang="en"></span>
 
@@ -2948,6 +3873,24 @@ the other intellectual virtues, as do the moral virtues depend on prudence, beca
 a fashion, moves the reason, and the reason the appetite, as stated above (Q[9], A[1]; Q[58], A[5],
 ad 1).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le virtù morali non siano tra loro collegate. Poiché le virtù morali a volte derivano dall’esercizio di determinati atti, come dimostrato nell’Etica ii, 1,2, l’uomo può dedicarsi all’esercizio degli atti legati a una virtù senza necessariamente impegnarsi anche in quelli relativi a un’altra virtù. Pertanto, è possibile possedere una virtù morale senza possederne un’altra.
+
+Obiezione 2: Inoltre, la magnificenza e la magnanimità sono virtù morali. Ora, un uomo può possedere altre virtù morali senza essere dotato di magnificenza o magnanimità: infatti il Filosofo afferma (Etica, iv, 2,3) che “un uomo povero non può essere magnifico”, eppure può possedere altre virtù; inoltre, secondo lo stesso testo, “colui che ritiene di meritare soltanto cose piccole è modesto, ma non magnanimo”. Pertanto, le virtù morali non sono necessariamente collegate tra loro.
+
+Obiezione 3: Inoltre, così come le virtù morali perfezionano la parte appetitiva dell’anima, allo stesso modo le virtù intellettuali perfezionano la parte intellettiva. Tuttavia, le virtù intellettuali non sono tra loro collegate in modo reciproco: è possibile possedere una scienza senza possederne un’altra. Pertanto, nemmeno le virtù morali sono tra loro collegate.
+
+Obiezione 4: Inoltre, se le virtù morali sono reciprocamente collegate, ciò può avvenire soltanto perché sono unite insieme nella prudenza. Tuttavia, questo non è sufficiente per stabilire un legame effettivo tra queste virtù. Infatti, sembra possibile essere prudenti riguardo a azioni che riguardano una determinata virtù, senza esserlo per quelle relative a un’altra virtù; così come si può possedere l’arte di realizzare alcune cose, senza possederne l’arte per altre. Ora, la prudenza è rappresentata dalla ragione corretta riguardo alle azioni da compiere. Pertanto, le virtù morali non sono necessariamente collegate tra loro.
+
+Al contrario, Ambrogio afferma in riferimento a Luca 6:20: “Le virtù sono collegate tra loro; pertanto chi ne possiede una è considerato come ne possedesse molte”: e [Agostino](/figures/augustine) dice (De Trinitate vi, 4) che “le virtù che risiedono nella mente umana sono del tutto inseparabili le une dalle altre”; Gregorio aggiunge (Moralia xxii, 1) che “una virtù senza l’altra è o del tutto inutile, o estremamente imperfetta”; e [Cicerone](/figures/cicero) scrive (Quaestiones Tusculanae ii): “Se ammetti di non possedere una determinata virtù, allora necessariamente non ne possiedi nessuna”.
+
+Rispondo che la virtù morale può essere considerata sia perfetta che imperfetta. Una virtù morale imperfetta, come ad esempio la temperanza o la forza d’animo, non è altro che un’inclinazione in noi a compiere atti di bene, sia che tale inclinazione derivi dalla natura o dall’abitudine. Se consideriamo le virtù morali in questo modo, esse non sono collegate tra loro: infatti esistono persone che, per natura o abitudine, sono propense a compiere atti di generosità, ma non altrettanto di castità. La virtù morale perfetta, invece, è un’abitudine che ci spinge a compiere atti di bene in modo corretto e efficace. Se consideriamo le virtù morali in questo senso, dobbiamo riconoscere che sono collegate tra loro, come concordano quasi tutti gli studiosi. Ci sono infatti due motivi principali per questa connessione, legati ai diversi modi in cui vengono distinte le virtù cardinali. Come abbiamo già detto (Q[61], AA[3],4), alcune persone le distinguono in base a proprietà generali: ad esempio, si dice che la discrezione appartenga alla prudenza, la rettitudine alla giustizia, la moderazione alla temperanza e la forza d’animo alla virtù della fortitudine. In questo caso, il motivo della connessione tra queste virtù è evidente: la forza d’animo, ad esempio, non può essere considerata una vera virtù se mancano elementi come la moderazione o la rettitudine. Anche Gregorio sostiene questa tesi, affermando che “una virtù non può essere perfetta se isolata dalle altre: infatti non esiste vera prudenza senza temperanza, giustizia e forza d’animo”. Lo stesso motivo viene fornito anche da Agostino (De Trin. vi, 4). Altre persone, invece, distinguono queste virtù in base ai loro oggetti specifici; è proprio in questo senso che Aristotele spiega la loro connessione (Etica vi, 13). Come abbiamo già detto, nessuna virtù morale può esistere senza prudenza: essa infatti permette di scegliere correttamente, e tale capacità richiede non solo l’inclinazione verso un fine giusto – che è proprio caratteristica delle virtù morali – ma anche una valutazione accurata dei mezzi necessari per raggiungere quel fine, cosa che avviene attraverso la prudenza. Allo stesso modo, non si può possedere la prudenza senza le virtù morali: essa, infatti, rappresenta “la ragione corretta riguardo alle azioni da compiere”, e il punto di partenza della ragione è proprio l’obiettivo finale, verso cui l’uomo è orientato dalle virtù morali. Pertanto, così come non possiamo avere la scienza speculativa senza conoscere i principi fondamentali, non possiamo nemmeno avere la prudenza senza le virtù morali; da ciò deriva chiaramente che queste virtù sono collegate tra loro.
+
+Risposta all’Obiezione 1: Alcune virtù morali perfezionano l’uomo nel suo stato generale, in altre parole, riguardo a quelle azioni che devono essere compiute in ogni tipo di vita umana. Pertanto, l’uomo deve esercitarsi contemporaneamente in tutti gli ambiti legati a queste virtù morali. Se si dedica ad azioni virtuose in tutti questi campi, acquisirà le abitudini necessarie per possedere tutte le virtù morali. Tuttavia, se si dedica ad azioni virtuose in un ambito soltanto e non in altri – ad esempio, comportandosi bene nell’ambito dell’ira, ma non in quello della concupiscenza – acquisirà certamente l’abitudine di controllare la propria ira; tuttavia, questa abitudine mancherà della vera natura di una virtù, poiché vi sarà assenza di prudenza, elemento fondamentale nell’ambito della concupiscenza. Allo stesso modo, le inclinazioni naturali non possiedono il carattere completo di una virtù se manca la prudenza. Esistono però alcune virtù morali che perfezionano l’uomo in particolari ambiti, come la magnanimità e la generosità; poiché non tutti hanno l’opportunità di esercitarsi in questi campi, è possibile possedere altre virtù morali senza realmente acquisirne le abitudini – a condizione che si parli di virtù acquisite. Tuttavia, una volta acquisite queste altre virtù, si possiedono già in potenza. Infatti, se un uomo, attraverso la pratica, ha sviluppato la generosità nel donare piccole somme di denaro, ricevendo poi una grande somma, acquisirà facilmente l’abitudine della magnanimità con pochissimo sforzo; proprio come un geometra, attraverso uno studio minimo, può acquisire conoscenze scientifiche su concetti che prima non gli erano noti. Parliamo di possedere qualcosa quando siamo sul punto di ottenerlo, secondo quanto afferma il Filosofo (Physica ii, testo 56): “Ciò che manca appena non manca affatto”. Questo basta per rispondere alla Seconda Obiezione.
+
+Risposta all’Obiezione 3: Le virtù intellettuali riguardano argomenti diversi e tra loro non correlate, come è chiaramente il caso delle varie scienze e arti. Pertanto, in esse non si osserva quella connessione che esiste invece tra le virtù morali, le quali riguardano passioni e azioni strettamente collegate tra loro. Infatti, tutte le passioni hanno origine da determinate passioni fondamentali, ovvero amore e odio, e terminano in altre passioni, come piacere e dolore. Allo stesso modo, tutte le azioni che costituiscono oggetto delle virtù morali sono tra loro correlate, così come lo sono con le passioni stesse. Pertanto, l’intero ambito delle virtù morali rientra sotto la regola unica della prudenza. Tuttavia, tutte le cose intellegibili sono collegate a principi primi; per questo motivo, anche le virtù intellettuali dipendono dalla comprensione di tali principi, proprio come la prudenza dipende dalle virtù morali. D’altra parte, i principi universali che costituiscono oggetto della virtù dell’intelletto non dipendono dalle conclusioni derivanti dalle altre virtù intellettuali, così come le virtù morali non dipendono dalla prudenza; infatti, in un certo senso, l’appetito influenza la ragione e viceversa, come è stato detto sopra (Q[9], A[1]; Q[58], A[5], ad 1).
+
 <span class="atom-split" data-atom="061" data-title="Whether the moral virtues are connected with one another? (parte 2)" data-chapter="Whether the moral virtues are connected with one another?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: Those things to which the moral virtues incline, are as the principles of
@@ -2959,6 +3902,10 @@ he must necessarily wander from the truth in his conclusion. Moreover, things "d
 to one another, but not things "made," as stated above (ad 3). Consequently the lack of prudence
 in one department of things to be done, would result in a deficiency affecting other things to be
 done: whereas this does not occur in things to be made.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 4: Le cose verso cui inclinano le virtù morali costituiscono i principi della prudenza; al contrario, i prodotti dell’arte non sono i principi, ma l’oggetto stesso dell’arte. È evidente che, anche se la ragione possa essere corretta in una parte di un argomento e meno in un’altra, essa non può comunque essere definita “ragione corretta” se le mancano principi fondamentali. Pertanto, se una persona sbaglia riguardo al principio secondo cui “un tutto è maggiore della sua parte”, non potrà acquisire la scienza della geometria, poiché inevitabilmente si allontanerà dalla verità nelle sue conclusioni. Inoltre, le cose “realizzate” sono tra loro collegate, mentre le cose “create” lo sono meno, come già detto in precedenza (ad 3). Di conseguenza, la mancanza di prudenza in un ambito specifico delle attività da compiere influenzerà negativamente anche altre attività dello stesso tipo; ciò non accade invece per le cose “create”.
 
 <span class="atom-split" data-atom="062" data-title="Whether moral virtues can be without charity?" data-chapter="Whether moral virtues can be without charity?" data-kind="atom" data-srclang="en"></span>
 
@@ -3012,6 +3959,25 @@ Reply to Objection 2: This argument holds good of virtue in the sense of acquire
 
 Reply to Objection 3: Though charity surpasses science and prudence, yet prudence depends
 on charity, as stated: and consequently so do all the infused moral virtues.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra possibile che le virtù morali possano esistere senza carità. Infatti, nel Liber Sententiarum, Prospieri vii, si afferma che “tutte le virtù, tranne la carità, possono essere condivise sia dai buoni che dai cattivi”. Ma, sempre nello stesso libro, si sostiene che “la carità non può esistere se non nei buoni”. Pertanto, le altre virtù possono essere possedute senza carità.
+
+Obiezione 2: Inoltre, le virtù morali possono essere acquisite attraverso azioni umane, come affermato nell’Etica, ii, 1,2; mentre la carità non può essere posseduta in alcun altro modo se non attraverso l’infusione divina, secondo Romani 5:5: “La carità di Dio si riversa nei nostri cuori per mezzo dello Spirito Santo che ci è stato dato”. Pertanto, è possibile possedere le altre virtù senza la carità.
+
+Obiezione 3: Inoltre, le virtù morali sono collegate tra loro, poiché dipendono dalla prudenza. Ma la carità non dipende dalla prudenza; anzi, la supera, secondo Efesini 3:19: “La carità di Cristo, che supera ogni conoscenza”. Pertanto, le virtù morali non sono collegate alla carità e possono esistere anche senza di essa.
+
+Al contrario, è scritto (1 Gv. 3:14): “Chi non ama rimane nella morte”. Ora, la vita spirituale viene perfezionata dalle virtù, poiché “grazie a esse” “conduciamo una vita buona”, come afferma [Agostino](/figures/augustine) (De Lib. Arb. ii, 17,19). Pertanto, le virtù non possono esistere senza l’amore della carità.
+
+Rispondo che, come già detto sopra (Q[63], A[2]), è possibile, attraverso le azioni umane, acquisire virtù morali, nella misura in cui tali azioni producono opere buone dirette verso un fine non superiore alle capacità naturali dell’uomo; e quando queste virtù vengono acquisite in questo modo, possono esistere senza carità, proprio come avveniva in molti tra i gentili. Tuttavia, nella misura in cui tali azioni producono opere buone finalizzate a un fine soprannaturale, allora queste virtù possiedono il vero e pieno carattere di virtù; non possono essere acquisite attraverso azioni umane, ma vengono infuse da Dio. Virtù morali di questo tipo non possono esistere senza carità. Poiché è stato già affermato sopra (A[1]; Q[58], AA[4],5) che le altre virtù morali non possono esistere senza prudenza; e che la prudenza, a sua volta, non può esistere senza queste virtù, poiché esse rendono l’uomo ben disposto verso determinati fini, che costituiscono il punto di partenza del processo decisionale della prudenza. Ora, affinché la prudenza possa agire correttamente, è molto più necessario che l’uomo sia ben disposto verso il proprio fine ultimo, che è l’espressione concreta della carità, piuttosto che verso altri fini, che sono il risultato delle virtù morali; proprio come in ambito speculativo, la ragione ha estrema necessità del primo principio indimostrabile, ovvero che “le contraddizioni non possono essere entrambe vere nello stesso tempo”. È quindi evidente che né la prudenza infusa può esistere senza carità, né, di conseguenza, le altre virtù morali, poiché queste ultime non possono esistere senza prudenza.  
+Da quanto detto risulta chiaro che solo le virtù infuse sono perfette e meritano di essere chiamate semplicemente “virtù”, poiché guidano l’uomo verso il fine ultimo. Le altre virtù, invece, quelle acquisite in modo naturale, sono virtù in senso limitato, e non in senso assoluto; poiché guidano l’uomo verso un certo fine all’interno di un determinato ambito d’azione, ma non verso il fine ultimo in sé. Per questo motivo, una glossa di Agostino (*Cfr. Lib. Sentent. Prosperi cvi.*), sulle parole “Tutto ciò che non è della fede è peccato” (Romani 14:23), afferma: “Chi non riconosce la verità non possiede vere virtù, anche se il suo comportamento è buono”.
+
+Risposta all’Obiezione 1: Con il termine “virtù”, nelle parole citate, si intende una virtù imperfetta. Altrimenti, se considerassimo la virtù morale nel suo stato perfetto, “essa renderebbe buono colui che la possiede”; pertanto, non potrebbe mai appartenere a una persona malvagia.
+
+Risposta all’Obiezione 2: Questo argomento è valido per la virtù nel senso di virtù acquisita.
+
+Risposta all’Obiezione 3: Sebbene la carità superi la scienza e la prudenza, tuttavia la prudenza dipende dalla carità, come è stato affermato; di conseguenza, lo stesso vale per tutte le virtù morali innate.
 
 <span class="atom-split" data-atom="063" data-title="Whether charity can be without moral virtue?" data-chapter="Whether charity can be without moral virtue?" data-kind="atom" data-srclang="en"></span>
 
@@ -3122,6 +4088,25 @@ Reply to Objection 2: This argument is true of faith considered as a perfect vir
 Reply to Objection 3: Augustine is speaking here of that hope whereby we look to gain future
 bliss through merits which we have already; and this is not without charity.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che fede e speranza non possano mai essere prive di carità. Poiché sono [virtù teologali](/concepts/theological_virtues), sembrano essere ancora più eccellenti delle virtù morali infuse. Ma le virtù morali infuse non possono essere prive di carità; pertanto, nemmeno fede e speranza possono esserlo.
+
+Obiezione 2: Inoltre, “nessuno crede contro la propria volontà”, come afferma [Agostino](/figures/augustine) nel Trattato xxvi in Joan.  
+Ma la carità appartiene alla volontà stessa come sua perfezione, come già detto sopra (Q[62], A[3]). Pertanto, la fede non può esistere senza carità.
+
+Obiezione 3: Inoltre, Agostino afferma nell’“Enchiridion VIII” che “non può esserci speranza senza amore”. Ma l’amore è carità: è proprio di questo tipo di amore che parla. Pertanto, la speranza non può esistere senza carità.
+
+Al contrario, un commento a Matteo 1:2 afferma che “la fede genera la speranza, e la speranza genera la carità”. Ora, ciò che genera precede ciò che è generato e può esistere senza di esso; pertanto, la fede può esistere senza speranza, e la speranza può esistere senza carità.
+
+Rispondo che fede e speranza, come le virtù morali, possono essere considerate in due modi: innanzitutto in uno stato imperfetto; in secondo luogo, come virtù complete. Poiché la virtù è orientata all’attuazione di azioni buone, la virtù perfetta è quella che ci permette di compiere azioni davvero buone, non solo agendo bene, ma anche facendolo con perfezione. Altrimenti, se ciò che si fa è buono, ma non eseguito con cura, non sarà considerato perfettamente buono; di conseguenza, nemmeno l’abitudine che ne deriva avrà il carattere perfetto della virtù. Ad esempio, se una persona compie atti giusti, ciò che fa è buono; ma non sarà un atto di virtù perfetta se non lo compie con perfezione, cioè scegliendo correttamente, il che richiede prudenza; per questo motivo la giustizia non può essere considerata una virtù perfetta senza prudenza. Pertanto, fede e speranza possono esistere anche senza carità; ma senza di essa non hanno il carattere perfetto della virtù. Poiché l’atto di fede consiste nel credere in Dio, e poiché credere significa accordarsi volontariamente con qualcosa che deriva dalla propria libertà: voler diversamente da come si dovrebbe non costituisce un atto di fede perfetto. Voler come si dovrebbe è il risultato della carità, che perfeziona la volontà; poiché ogni movimento corretto della volontà deriva da un amore giusto, come afferma Agostino (De Civ. Dei xiv, 9). Quindi, fede e speranza possono esistere senza carità, ma non come virtù perfette; proprio come la temperanza e la forza d’animo possono esistere senza prudenza. Lo stesso vale per la speranza: poiché l’atto di speranza consiste nel rivolgersi a Dio in cerca della beatitudine futura. Questo atto è perfetto se si basa sui meriti che possediamo; e ciò non può avvenire senza carità. Tuttavia, aspettarsi la beatitudine futura grazie a meriti che ancora non si possiedono, ma che si intendono acquisire in futuro, costituisce un atto imperfetto; e questo è possibile anche senza carità. Pertanto, fede e speranza possono esistere senza carità; tuttavia, senza di essa, non sono vere e proprie virtù, poiché la natura della virtù richiede che, attraverso di esse, non solo si compiano azioni buone, ma anche che queste vengano svolte con perfezione (Etica, ii, 6).
+
+Risposta all’Obiezione 1: La virtù morale dipende dalla prudenza; e nemmeno la prudenza innata possiede il carattere di vera prudenza senza carità, poiché questa implica l’assenza di un ordine adeguato rispetto al principio fondamentale, ovvero all’ultimo fine da perseguire. D’altra parte, fede e speranza, in sé stesse, non dipendono né dalla prudenza né dalla carità; pertanto possono esistere senza carità, anche se non sono virtù prive di essa, come già affermato.
+
+Risposta all’Obiezione 2: Questo argomento è valido per la fede considerata come virtù perfetta.
+
+Risposta all’Obiezione 3: Agostino parla qui di quella speranza attraverso la quale cerchiamo di ottenere la beatitudine futura grazie ai meriti che già possediamo; e questa speranza non è priva di carità.
+
 <span class="atom-split" data-atom="065" data-title="Whether charity can be without faith and hope?" data-chapter="Whether charity can be without faith and hope?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that charity can be without faith and hope. For charity is the love
@@ -3164,6 +4149,24 @@ Reply to Objection 3: In Christ there was neither faith nor hope, on account of 
 an imperfection. But instead of faith, He had manifest vision, and instead of hope, full comprehension
 [*See above, Q[4], A[3]]: so that in Him was perfect charity.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra possibile che la carità possa esistere senza fede e speranza. Infatti, la carità è l’amore di Dio. Tuttavia, è possibile per noi amare Dio in modo naturale, senza ancora possedere fede o speranza nella beatitudine futura. Pertanto, la carità può esistere senza fede e speranza.
+
+Obiezione 2: Inoltre, la carità è la radice di tutte le virtù, secondo Efesini 3:17: “Radicate e fondate nella carità”. Ora, una radice a volte non presenta rami; pertanto, anche la carità può talvolta essere priva di fede, speranza e delle altre virtù.
+
+Obiezione 3: Inoltre, in Cristo esisteva una carità perfetta. Eppure Egli non possedeva né fede né speranza, poiché era un essere che comprendeva tutto perfettamente, come spiegheremo più avanti (TP, Q[7], AA[3],4). Pertanto, la carità può esistere senza fede e senza speranza.
+
+Al contrario, l’Apostolo afferma (Ebrei 11:6): “Senza fede è impossibile compiacere Dio”; e ciò appartiene evidentemente in modo particolare alla carità, secondo il Proverbi 8:17: “Amo coloro che mi amano”. Inoltre, è proprio attraverso la speranza che si giunge alla carità, come già detto sopra (Q[62], A[4]). Pertanto, non è possibile possedere la carità senza fede e speranza.
+
+Rispondo che la carità non indica soltanto l’amore di Dio, ma anche una certa [amicizia](/concepts/friendship) con Lui; ciò implica, oltre all’amore, un reciproco scambio di affetto e una comunione reciproca, come affermato nell’Etica viii, 2. Che questa comunione appartenga alla carità è evidente in 1 Giovanni 4:16: “Chi rimane nella carità, rimane in Dio, e Dio in lui”, e in 1 Corinzi 1:9, dove si legge: “Dio è fedele; per mezzo Sua siete stati chiamati alla comunione con Suo Figlio”. Ora, questa comunione dell’uomo con Dio, che consiste in un dialogo familiare e intimo con Lui, ha inizio in questa vita, per grazia, ma sarà perfezionata nella vita futura, per gloria; entrambe queste realtà le possediamo attraverso la fede e la speranza. Pertanto, proprio come un’amicizia con una persona sarebbe impossibile se si dubitasse della possibilità di una tale comunione o dialogo, allo stesso modo un’amicizia con Dio, che è la carità, è impossibile senza fede: senza fede, infatti, non si può credere nella possibilità di questa comunione e sperare di raggiungerla. Pertanto, la carità è assolutamente impossibile senza fede e speranza.
+
+Risposta all’Obiezione 1: La carità non è alcun tipo di amore per Dio, ma proprio quell’amore per Dio attraverso il quale Egli viene amato come oggetto di beatitudine, verso il quale ci dirigiamo grazie alla fede e alla speranza.
+
+Risposta all’Obiezione 2: La carità è la radice della fede e della speranza, in quanto le dona la perfezione della virtù. Ma la fede e la speranza, in sé stesse, sono i precursori della carità, come già detto sopra (Q[62], A[4]); pertanto, la carità è impossibile senza di esse.
+
+Risposta all’Obiezione 3: In Cristo non vi era né fede né speranza, poiché queste concetti implicavano un’imperfezione. Al loro posto, Egli possedeva una visione chiara e comprensiva, e al posto della speranza, una piena consapevolezza (*Vedi sopra, Q[4], A[3: in Lui, dunque, esisteva la carità perfetta.*
+
 <span class="atom-split" data-atom="066" data-title="OF EQUALITY AMONG THE VIRTUES (SIX ARTICLES)" data-chapter="OF EQUALITY AMONG THE VIRTUES (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider equality among the virtues: under which head there are six points of
@@ -3174,6 +4177,16 @@ inquiry:
 (4) Of the moral virtues as compared with one another;
 (5) Of the intellectual virtues in comparison with one another;
 (6) Of the [theological virtues](/concepts/theological_virtues) in comparison with one another.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare l’uguaglianza tra le virtù: in questo ambito esistono sei punti di indagine principali:  
+(1) Se una virtù possa essere maggiore o minore di un’altra;  
+(2) Se tutte le virtù presenti in uno stesso individuo siano uguali tra loro;  
+(3) Il rapporto tra la virtù morale e quella intellettuale;  
+(4) Il confronto tra le varie virtù morali;  
+(5) Il confronto tra le diverse virtù intellettuali;  
+(6) Il rapporto tra le [virtù teologiche](/concepts/theological_virtues).
 
 <span class="atom-split" data-atom="067" data-title="Whether one virtue can be greater or less than another?" data-chapter="Whether one virtue can be greater or less than another?" data-kind="atom" data-srclang="en"></span>
 
@@ -3238,6 +4251,24 @@ Reply to Objection 2: This "limit" which belongs to virtue, can have the charact
 Reply to Objection 3: God does not work by necessity of nature, but according to the order
 of His wisdom, whereby He bestows on men various measures of virtue, according to Eph. 4:7:
 "To every one of you [Vulg.: 'us'] is given grace according to the measure of the giving of Christ."
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che una virtù non possa essere maggiore o minore di un’altra. Infatti, è scritto nell’Apocalisse (21:16) che i lati della città di Gerusalemme sono uguali; e un commento afferma che questi lati rappresentino le virtù. Pertanto, tutte le virtù sono uguali; e di conseguenza, nessuna di esse può essere considerata maggiore o minore delle altre.
+
+Obiezione 2: Inoltre, una cosa che, per sua natura, consiste in un massimo non può essere né maggiore né minore di tale massimo. Ora, la natura della virtù consiste proprio in un massimo, poiché la virtù è “il limite del potere”, come afferma il Filosofo (De Coelo i, testo 116); e [Agostino](/figures/augustine) dice (De Lib. Arb. ii, 19) che “le virtù sono doni molto grandi, e nessuno può utilizzarle a scopi malvagi”. Pertanto, sembra che una virtù non possa essere né maggiore né minore di un’altra.
+
+Obiezione 3: Inoltre, la quantità di un effetto viene misurata dalla potenza dell’agente che lo produce. Ma le virtù perfette, cioè quelle innate o conferite da Dio, derivano da una potenza uniforme e infinita. Pertanto, sembrerebbe che nessuna virtù possa essere maggiore di un’altra.
+
+Al contrario, ovunque possa esserci aumento e maggiore abbondanza, può esserci anche disuguaglianza. Le virtù, infatti, permettono di raggiungere un livello più alto di abbondanza e crescita: è scritto infatti (Matteo 5:20): “Se la vostra giustizia non sarà maggiore di quella degli scribi e dei farisei, non entrerete nel regno dei cieli”; e (Proverbi 15:5): “Nella giustizia abbondante si trova la massima forza”. Pertanto, sembra che una virtù possa essere maggiore o minore di un’altra.
+
+Rispondo che, quando si chiede se una virtù possa essere maggiore di un’altra, la domanda può essere intesa in due modi diversi. Primo, in riferimento a virtù di specie diverse: in questo caso è evidente che una virtù possa essere superiore un’altra, poiché una causa è sempre più eccellente del suo effetto, e tra gli effetti quelli più vicini alla causa sono i più eccellenti. Come già detto (Q[18], A[5]; Q[61], A[2]), la causa e la radice del bene umano è la ragione; pertanto la prudenza, che perfeziona la ragione, supera in bontà le altre virtù morali che perfezionano il potere appetitivo, nella misura in cui partecipa della ragione stessa. Tra queste, alcune sono migliori di altre in base al grado di loro vicinanza alla ragione; quindi la giustizia, che risiede nella volontà, è superiore alle altre virtù morali, e la forza d’animo, che appartiene alla parte irascibile dell’uomo, prevale sulla temperanza, che si trova nella parte concupiscibile e possiede una minore dose di ragione, come affermato nell’Etica vii, 6. La domanda può essere intesa anche in un altro modo, ovvero in riferimento a virtù della stessa specie: in questo caso, come già detto (Q[52], A[1]), quando si considera l’intensità degli abiti morali, una virtù può essere definita maggiore o minore in due modi: primo, in sé stessa; secondo, rispetto al soggetto che la possiede. Se la consideriamo in sé stessa, possiamo definirla maggiore o minore in base agli oggetti a cui si estende; chiunque possieda una virtù, ad esempio la temperanza, la possiede rispetto a tutto ciò a cui essa si applica. Questo però non vale per le scienze e le arti: ogni grammatico, infatti, non conosce tutto ciò che riguarda la grammatica stessa. In questo senso, gli Stoici avevano ragione quando affermavano che una virtù non può essere maggiore o minore come possono esserlo le scienze e le arti, poiché la natura della virtù consiste in un massimo. Tuttavia, se consideriamo la virtù rispetto al soggetto che la possiede, essa può essere maggiore o minore a seconda dei diversi tempi o delle diverse persone: alcuni individui sono più predisposti di altri ad attuare il giusto mezzo stabilito dalla ragione; ciò può avvenire grazie a una maggiore abitudine, a una disposizione naturale migliore, a un giudizio più acuto della ragione, o ancora a un dono divino maggiore, che viene concesso a ciascuno “secondo la misura del dono di Cristo”, come affermato in Efesini 4:9. Gli Stoici, invece, sbagliavano quando sostenevano che nessuno potesse essere considerato virtuoso se non fosse estremamente predisposto alla virtù; poiché la natura della virtù non richiede che l’uomo raggiunga il giusto mezzo come se si trattasse di un punto indivisibile, ma basta che si avvicini a esso, come affermato nell’Etica ii, 6. Inoltre, uno stesso obiettivo può essere raggiunto più facilmente da alcuni che da altri.
+
+Risposta all’Obiezione 1: Questa uguaglianza non riguarda una quantità assoluta, ma una proporzione; infatti tutte le virtù in un uomo crescono in modo proporzionale, come vedremo più avanti (A[2]).
+
+Risposta all’Obiezione 2: Questo “limite” che appartiene alla virtù può assumere il carattere di qualcosa di “più” o “meno” buono, nei modi spiegati sopra; poiché, come già detto, non si tratta di un limite indivisibile.
+
+Risposta all’Obiezione 3: Dio non agisce per necessità naturale, ma secondo l’ordine della Sua saggezza; è così che dona agli uomini diversi gradi di virtù, come si legge in Efesini 4:7: “A ciascuno di voi è data la grazia secondo la misura del dono di Cristo”.
 
 <span class="atom-split" data-atom="068" data-title="Whether all the virtues that are together in one man, are equal?" data-chapter="Whether all the virtues that are together in one man, are equal?" data-kind="atom" data-srclang="en"></span>
 
@@ -3416,6 +4447,24 @@ Reply to Objection 3: There can be no magnanimity without the other virtues, as 
 Ethic. iv, 3. Hence it is compared to them as their ornament, so that relatively it is greater than all
 the others, but not simply.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la giustizia non sia la principale tra le virtù morali. Infatti, è meglio donare ciò che si possiede piuttosto che pagare ciò che si deve. Il primo atto appartiene alla generosità, il secondo alla giustizia; pertanto, la generosità sembrerebbe essere una virtù più grande della giustizia.
+
+Obiezione 2: Inoltre, la qualità principale di una cosa sembra essere quella grazie alla quale essa è più perfetta. Ora, secondo Giama 1:4, “La pazienza compie un’opera perfetta”. Pertanto, sembrerebbe che la pazienza sia superiore alla giustizia.
+
+Obiezione 3: Inoltre, “La magnanimità ha una grande influenza su ogni virtù”, come affermato nell’Etica, IV, 3. Pertanto, anche la giustizia ne viene esaltata; quindi la magnanimità è qualcosa di più della giustizia stessa.
+
+Al contrario, il Filosofo afferma (Etica, V, 1) che “la giustizia è la più eccellente delle virtù”.
+
+Rispondo che una virtù, considerata nella sua specie, può essere maggiore o minore, sia in modo assoluto che relativo. Si dice che una virtù sia maggiore in modo assoluto quando da essa emerge un bene razionale più grande, come già detto (A[1]). In questo senso, la giustizia è la più eccellente tra tutte le virtù morali, poiché è quella che più si avvicina alla ragione. Ciò risulta evidente se si considerano il suo soggetto e l’oggetto: il suo soggetto è la volontà, e la volontà è un appetito razionale, come affermato in precedenza (Q[8], A[1]; Q[26], A[1]); l’oggetto della giustizia sono le azioni attraverso cui l’uomo viene ordinato non solo in se stesso, ma anche rispetto agli altri. Pertanto “la giustizia è la più eccellente delle virtù” (Etica v, 1). Tra le altre virtù morali, che riguardano le passioni, più eccellente è l’oggetto su cui il movimento appetitivo viene subordinato alla ragione; tanto maggiore sarà quindi il bene razionale che ne deriva. Ora, tra tutte le cose che riguardano l’uomo, la principale è la vita, da cui dipendono tutte le altre. Pertanto la forza d’animo, che subordina il movimento appetitivo alla ragione nelle questioni relative alla vita e alla morte, occupa il primo posto tra le virtù morali legate alle passioni, ma è subordinata alla giustizia. Per questo motivo il Filosofo afferma (Retorica 1) che “le virtù più lodate devono necessariamente essere le più grandi; poiché la virtù è una capacità di compiere il bene”. Il guerriero coraggioso e il giusto sono quindi onorati più degli altri: il primo perché la sua forza d’animo è utile in guerra, il secondo perché la giustizia lo è sia in guerra che in pace. Dopo la forza d’animo viene la temperanza, che subordina l’appetito alla ragione nelle questioni direttamente legate alla vita, sia individuale che collettiva, ovvero riguardo al cibo e al sesso. Queste tre virtù, insieme alla prudenza, sono considerate le principali per eccellenza. Si dice inoltre che una virtù sia maggiore in modo relativo quando aiuta o abbellisce un’altra virtù principale; così come la sostanza è più eccellente dell’accidente in modo assoluto, ma relativamente alcuni accidenti possono essere più preziosi della sostanza se contribuiscono a perfezionarla in determinati modi.
+
+Risposta all’Obiezione 1: L’atto di liberalità deve basarsi sull’atto di giustizia, poiché “un uomo non è generoso nel donare, se non dona ciò che gli appartiene” (Politica ii, 3). Pertanto, non può esistere liberalità al di fuori della giustizia, che distingue tra “ciò che mi appartiene” e “ciò che ti appartiene”; mentre la giustizia può esistere senza liberalità. Quindi la giustizia è semplicemente superiore alla liberalità, in quanto più universale e sua fondamenta; mentre la liberalità è relativamente superiore, poiché rappresenta un ornamento e un complemento della giustizia.
+
+Risposta all’Obiezione 2: Si dice che la pazienza abbia “un effetto perfetto”, poiché tollera i mali; essa esclude non solo la vendetta ingiusta – anch’essa proibita dalla giustizia – né l’odio, represso dalla carità, né l’[ira](/concepts/anger), placata dalla gentilezza, ma anche il dolore eccessivo, che è alla radice di tutti questi sentimenti negativi. Pertanto, la pazienza è davvero perfetta e eccellente nel eliminare queste fonti di sofferenza. Tuttavia, non è necessariamente più perfetta delle altre virtù: infatti, la forza d’animo non solo tollera le difficoltà senza lasciarsi turbare, ma le affronta anche se necessario. Per questo motivo, chi è coraggioso è anche paziente; ma il contrario non vale, poiché la pazienza fa parte integrante della forza d’animo.
+
+Risposta all’Obiezione 3: Non può esistere alcuna magnanimità senza le altre virtù, come affermato nell’Etica iv, 3. Per questo motivo viene paragonata ad esse come il loro ornamento; in relazione alle altre virtù, quindi, è considerata più importante di tutte, ma non semplicemente così.
+
 <span class="atom-split" data-atom="071" data-title="Whether wisdom is the greatest of the intellectual virtues?" data-chapter="Whether wisdom is the greatest of the intellectual virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that wisdom is not the greatest of the intellectual virtues. Because
@@ -3490,6 +4539,28 @@ are the object of understanding, not only by drawing conclusions from them, as o
 but also by passing its judgment on them, and by vindicating them against those who deny them.
 Hence it follows that wisdom is a greater virtue than understanding.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la saggezza non sia la più grande delle virtù intellettuali. Infatti, il comandante è superiore a colui che viene comandato. Ora, la prudenza sembra dominare sulla saggezza, poiché si afferma nell’Etica I, 2 che la scienza politica, che appartiene alla prudenza (Etica VI, 8), “indica quali scienze debbano essere coltivate negli stati, e a quale di queste ciascun individuo dovrebbe dedicarsi, e in quale misura”. Poiché la saggezza è una di queste scienze, sembra quindi che la prudenza sia superiore alla saggezza.
+
+Obiezione 2: Inoltre, è proprio della natura della virtù indirizzare l’uomo verso la felicità; poiché la virtù è “la disposizione di una cosa perfetta verso ciò che è migliore”, come affermato nella Physica vii, testo 17. Ora, la prudenza è “la ragione corretta riguardo alle azioni da compiere”, grazie alla quale l’uomo raggiunge la felicità; mentre la saggezza non si occupa degli atti umani in sé, ma contribuisce comunque al raggiungimento della felicità. Pertanto, la prudenza è una virtù più importante della saggezza.
+
+Obiezione 3: Inoltre, più la conoscenza è perfetta, più sembra tale. Ora possediamo una conoscenza più perfetta delle cose umane, che sono oggetto della scienza, rispetto alle cose divine, che sono oggetto della saggezza – distinzione stabilita da [Agostino](/figures/augustine) (De Trinitate, xii, 14): poiché le cose divine sono incomprensibili, come afferma Giobbe 26:26: “Ecco, Dio è grande, al di là della nostra conoscenza”. Pertanto, la scienza rappresenta una virtù più elevata della saggezza.
+
+Obiezione 4: Inoltre, la conoscenza dei principi è più eccellente della conoscenza delle conclusioni. Tuttavia, la saggezza trae conclusioni da principi indimostrabili, che costituiscono l’oggetto della virtù dell’intelletto, proprio come fanno anche altre scienze. Pertanto, l’intelletto è una virtù più grande della saggezza.
+
+Al contrario, il Filosofo afferma (Etica VI, 7) che la saggezza sia “la guida” tra le “virtù intellettuali”.
+
+Rispondo che, come già detto sopra (A[3]), la grandezza di una virtù, in termini di sua specie, deriva dal suo oggetto. Ora, l’oggetto della saggezza supera gli oggetti di tutte le altre virtù intellettuali; poiché la saggezza considera la Causa Suprema, cioè Dio, come si afferma all’inizio della Metafisica. E poiché è in base alla causa che giudichiamo un effetto, e in base alla causa più elevata che giudichiamo gli effetti inferiori, è proprio per questo che la saggezza esercita il suo dominio su tutte le altre virtù intellettuali, ne dirige l’operato e ne rappresenta l’architetto principale.
+
+Risposta all’Obiezione 1: Poiché la prudenza riguarda gli affari umani, mentre la saggezza concerne la Causa Suprema, è impossibile che la prudenza sia una virtù maggiore della saggezza, “salvo” nel caso in cui, come si afferma nell’Etica VI, 7, “l’uomo fosse la cosa più grande del mondo”. Pertanto dobbiamo dire, sempre nello stesso libro (Etica VI), che non è la prudenza a comandare la saggezza, ma viceversa: poiché “l’uomo spirituale giudica tutte le cose; e lui stesso non è giudicato da nessuno” (1 Corinzi 2:15). La prudenza, infatti, non ha nulla a che fare con le questioni supreme che sono oggetto della saggezza; il suo ambito riguarda invece quelle azioni dirette al raggiungimento della saggezza, cioè i modi in cui gli uomini possono ottenerla. Pertanto la prudenza, o scienza politica, è, in questo senso, servitrice della saggezza; poiché conduce verso di essa, preparandone il cammino, proprio come un custode che apre la porta al re.
+
+Risposta all’Obiezione 2: La prudenza considera i mezzi per ottenere la felicità, ma la saggezza considera lo stesso oggetto della felicità, ovvero l’Intelligibile Supremo. E se davvero la riflessione della saggezza fosse perfetta riguardo al suo oggetto, allora nell’atto stesso di saggezza esisterebbe una felicità perfetta; ma poiché, in questa vita, l’atto di saggezza non è perfetto riguardo al suo oggetto principale, che è Dio, ne consegue che l’atto di saggezza rappresenti soltanto un inizio o una partecipazione alla felicità futura; pertanto, la saggezza è più vicina alla felicità della prudenza.
+
+Risposta all’Obiezione 3: Come afferma il Filosofo (De [Anima](/concepts/soul) i, testo 1), “una conoscenza è preferibile un’altra o perché riguarda un oggetto più nobile, o perché è più certa”. Pertanto, se gli oggetti in questione sono ugualmente buoni e [sublimi](/concepts/sublime), quella virtù che possiede una conoscenza più certa sarà considerata superiore. Tuttavia, una virtù che offre una conoscenza meno certa di un oggetto nobile e migliore è preferibile a quella che fornisce una conoscenza più certa di un oggetto di rango inferiore. Per questo motivo il Filosofo dice (De Coelo ii, testo 60) che “è molto importante essere in grado di conoscere qualcosa riguardo agli esseri celesti, anche se tale conoscenza si basa su ragionamenti deboli e probabili”; e ancora (De Part. Animal. i, 5) che “è meglio conoscere poco sulle cose sublimi piuttosto che molto sulle cose volgari”. Di conseguenza, la saggezza, che include la conoscenza di Dio, è al di fuori della portata dell’uomo, soprattutto in questa vita, tanto da non poter essere considerata sua proprietà: infatti “questo appartiene esclusivamente a Dio” (Metaph. i, 2); eppure questa piccola conoscenza di Dio che possiamo acquisire attraverso la saggezza è preferibile a qualsiasi altra forma di conoscenza.
+
+Risposta all’Obiezione 4: La verità e la conoscenza dei principi indemonstrabili dipendono dal significato dei termini utilizzati; infatti, non appena comprendiamo cosa sia un tutto e cosa ne sia una parte, sappiamo immediatamente che ogni tutto è maggiore della sua parte. Ora, conoscere il significato di “essere” e “non essere”, di “tutto” e “parte”, nonché di altre nozioni derivate dall’“essere”, termini su cui si basano i principi indemonstrabili, è proprio compito della saggezza. Poiché l’essere universale rappresenta l’effetto diretto della Causa Suprema, ovvero Dio, la saggezza fa uso di questi principi indemonstrabili, oggetto della comprensione umana, non solo per trarne conclusioni, come fanno altre scienze, ma anche per giudicarli e difenderli contro coloro che li negano. Da ciò deriva che la saggezza sia una virtù più elevata della semplice comprensione.
+
 <span class="atom-split" data-atom="072" data-title="Whether charity is the greatest of the theological virtues?" data-chapter="Whether charity is the greatest of the theological virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that charity is not the greatest of the [theological virtues](/concepts/theological_virtues). Because,
@@ -3554,6 +4625,16 @@ points of inquiry:
 (5) Whether anything remains of faith or hope?
 (6) Whether charity remains?
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare la durata delle virtù dopo questa vita; in questo ambito vi sono sei punti di indagine:  
+(1) Le virtù morali rimangono dopo questa vita?  
+(2) Le virtù intellettuali rimangono?  
+(3) La fede rimane?  
+(4) La speranza rimane?  
+(5) Rimane qualcosa della fede o della speranza?  
+(6) La carità rimane?
+
 <span class="atom-split" data-atom="074" data-title="Whether the moral virtues remain after this life?" data-chapter="Whether the moral virtues remain after this life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the moral virtues doe not remain after this life. For in the future
@@ -3613,6 +4694,24 @@ of these virtues, as stated above (Q[63], A[1]). Justice, however, will remain b
 will. Hence of justice it is specially said that it is "perpetual and immortal"; both by reason of its
 subject, since the will is incorruptible; and because its act will not change, as stated.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le virtù morali non sopravvivano a questa vita. Infatti, nello stato futuro di gloria gli uomini saranno come angeli, secondo Matteo 22:30. Ma è assurdo attribuire virtù morali agli angeli; “Tutto ciò che riguarda l’azione morale è insignificante e indegno degli dèi”, come affermato nell’Etica, x, 8. Pertanto, nemmeno negli uomini esisteranno virtù morali dopo questa vita.
+
+Obiezione 2: Inoltre, le virtù morali perfezionano l’uomo nella vita attiva. Ma la vita attiva non sopravvive a questa vita: infatti Gregorio afferma (Moralia, iv, 18): “Le opere della vita attiva scompaiono con il corpo”. Pertanto, le virtù morali non sopravvivono a questa vita.
+
+Obiezione 3: Inoltre, la temperanza e la forza d’animo, che sono virtù morali, risiedono nelle parti irrazionali dell’anima, come afferma il Filosofo (Etica, iii, 10). Ora, le parti irrazionali dell’anima vengono corrotte quando il corpo viene corrotto, poiché queste virtù sono azioni degli organi corporei. Pertanto, sembra che le virtù morali non sopravvivano alla morte.
+
+Al contrario, è scritto (Sapienza 1:15) che “la giustizia è eterna e immortale”.
+
+Rispondo che, come dice [Agostino](/figures/augustine) (De Trinitate xiv, 9), [Cicerone](/figures/cicero) riteneva che le virtù cardinali non sopravvivessero dopo questa vita; e che, come afferma Agostino stesso, “nella vita futura gli uomini diventano felici semplicemente conoscendo quella Natura, la quale è senza dubbio la più bella e amabile di tutte, poiché ha creato tutte le altre cose”. Successivamente, Cicerone concludeva che queste quattro virtù sopravvivessero nella vita futura, ma in modo diverso.  
+Per rendere questo chiaro, dobbiamo notare che in queste virtù esistono un elemento formale e uno quasi materiale. L’elemento materiale consiste in una certa inclinazione delle facoltà appetitive verso determinate passioni e azioni, secondo un particolare ordine; poiché questo ordine è stabilito dalla ragione, l’elemento formale coincide appunto con tale ordine razionale.  
+Pertanto, possiamo affermare che queste virtù morali non sopravvivono nella vita futura in termini di loro elemento materiale: nella vita futura, infatti, non ci saranno concupiscenze né piaceri legati al cibo e al sesso; né paura né coraggio di fronte ai pericoli della morte; né distribuzioni o scambi di beni utilizzati in questa vita. Tuttavia, in termini di elemento formale, queste virtù rimarranno perfette nella vita futura, soprattutto nei Beati, poiché la ragione di ciascuno avrà una rettitudine assoluta riguardo alle cose pertinenti a quel stato di vita; e le facoltà appetitive saranno guidate interamente dall’ordine della ragione. Per questo motivo Agostino afferma (De Trinitate xiv, 9) che “la prudenza vi sarà senza alcun rischio di errore; la forza d’animo, senza l’angoscia di sopportare il male; la temperanza, senza la ribellione dei desideri; così che la prudenza non preferirà né eguaglierà alcun bene a Dio; la forza d’animo lo seguirà con fermezza; e la temperanza si gioirà di Colui che non conosce imperfezione”. Quanto alla giustizia, è ancora più evidente quale sarà il suo ruolo in quella vita: “sottomettersi a Dio”, poiché anche in questa vita sottomettersi a un superiore fa parte della giustizia.
+
+Risposta all’Obiezione 1: Il filosofo parla qui di queste virtù morali in relazione al loro elemento materiale; quindi parla della giustizia in termini di “scambi e distribuzioni”; della forza d’animo in riferimento a situazioni di terrore e pericolo; della temperanza, riguardo a desideri lussuriosi. Lo stesso vale per la Seconda Obiezione: infatti, quelle cose che riguardano la vita attiva appartengono all’elemento materiale delle virtù.
+
+Risposta all’Obiezione 3: Dopo questa vita esistono due stati diversi: uno precedente alla risurrezione, durante il quale l’anima sarà separata dal corpo; l’altro dopo la risurrezione, quando le anime saranno riunite ai loro corpi. In questo stato di risurrezione, le facoltà irrazionali si troveranno negli organi corporei, proprio come avviene attualmente. Pertanto sarà possibile che la forza d’animo si manifesti nella parte irascibile dell’anima, e la temperanza in quella concupiscente, purché ciascuna di queste facoltà sia perfettamente disposta ad obbedire alla ragione. Tuttavia, nello stato precedente alla risurrezione, le parti irrazionali non esisteranno realmente nell’anima, ma soltanto in modo essenziale, come affermato nel FP, Q[77], A[8]. Di conseguenza, nemmeno queste virtù esisteranno realmente, ma solo nella loro radice, cioè nella ragione e nella volontà, dove si trovano le condizioni necessarie per il loro sviluppo, come già detto in precedenza (Q[63], A[1]). La giustizia, invece, rimarrà, poiché risiede nella volontà. Per questo motivo si dice specificamente che la giustizia è “perpetua e immortale”: sia per il suo soggetto, essendo la volontà incorruttibile, sia perché il suo operare non cambierà mai, come affermato.
+
 <span class="atom-split" data-atom="075" data-title="Whether the intellectual virtues remain after this life?" data-chapter="Whether the intellectual virtues remain after this life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the intellectual virtues do not remain after this life. For the
@@ -3669,6 +4768,26 @@ the phantasms, but not as to the intelligible species, which are in the "possibl
 Reply to Objection 3: As stated in the FP, Q[89], A[1] the separated soul has a mode of
 understanding, other than by turning to the phantasms. Consequently science remains, yet not as
 to the same mode of operation; as we have stated concerning the moral virtues (A[1]).
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le virtù intellettuali non sopravvivano a questa vita. Infatti l’Apostolo dice (1 Corinzi 13:8,9) che “la conoscenza sarà distrutta”, e spiega il motivo adducendo che “noi conosciamo solo in parte”. Proprio come la conoscenza scientifica è parziale, cioè imperfetta, lo stesso vale per la conoscenza delle altre virtù intellettuali, finché dura questa vita. Pertanto, tutte le virtù intellettuali scompariranno dopo questa vita.
+
+Obiezione 2: Inoltre, il Filosofo afferma (Categorie VI) che poiché la scienza è una [abitudine](/concepts/custom), essa rappresenta una qualità difficile da eliminare; infatti non si perde facilmente, se non a causa di un cambiamento radicale o di una malattia grave. Ma nessun cambiamento fisico può essere paragonato alla morte. Pertanto, la scienza e le altre virtù intellettuali non sopravvivono alla morte.
+
+Obiezione 3: Inoltre, le virtù intellettuali perfezionano l’intelletto affinché possa svolgere correttamente la sua funzione specifica. Ora sembra che, dopo questa vita, non vi sia alcuna attività dell’intelletto, poiché “l’anima non comprende nulla senza i fantasmi” (De Anima iii, testo 30); e, dopo questa vita, i fantasmi non sopravvivono, poiché il loro unico soggetto è un organo del corpo. Pertanto, anche le virtù intellettuali non sopravvivono dopo questa vita.
+
+Al contrario, la conoscenza di ciò che è universale e necessario è più stabile di quella delle cose particolari e contingenti. La conoscenza delle cose contingenti rimane nell’uomo anche dopo questa vita; ad esempio, la conoscenza di ciò che si è fatto o sofferto, secondo Luca 16:25: “Figlio, ricorda che hai ricevuto cose buone nella tua vita, e allo stesso modo Lazzaro cose cattive”. Ancora di più, quindi, rimane la conoscenza di ciò che è universale e necessario, che appartiene alla scienza e alle altre virtù intellettuali.
+
+Rispondo che, come affermato nell’FP, Q[79], A[6], alcuni ritengono che le specie intelligibili non rimangano nell’intelletto passivo se non quando quest’ultimo le comprende effettivamente; e che, finché tale comprensione cessa, tali specie non vengano più conservate se non nelle facoltà sensibili, ovvero nelle capacità dell’immaginazione e della memoria. Ora, queste facoltà cessano di funzionare quando il corpo viene corrotto; pertanto, secondo questa opinione, né la scienza né alcuna altra virtù intellettuale sopravvivrebbero alla morte, una volta distrutto il corpo.  
+Ma tale opinione è in contrasto con le idee di [Aristotele](/figures/aristotle), il quale afferma (De Anima iii, testo 8) che “l’intelletto possibile è attivo quando si identifica con ogni cosa nella misura in cui la comprende; e tuttavia rimane sempre in potenzialità di considerarla effettivamente”. È anche contraria alla ragione, poiché le specie intelligibili sono immutabilmente contenute nell’intelletto possibile, secondo il modo stesso in cui quest’ultimo le riceve. Per questo motivo l’intelletto possibile viene definito “l’abitazione delle specie”, poiché le conserva effettivamente.  
+Tuttavia i fantasmi, attraverso i quali l’uomo comprende in questa vita, applicando alle cose le specie intelligibili come descritto nell’FP, Q[84], A[7] e Q[85], A[1], ad 5, cessano di esistere non appena il corpo viene corrotto. Quindi, per quanto riguarda i fantasmi – che rappresentano l’elemento quasi-materiale delle virtù intellettuali – queste ultime scompaiono con la distruzione del corpo; ma le specie intelligibili, essendo presenti nell’intelletto possibile, sopravvivono alla morte. Ora, poiché le specie sono l’elemento quasi-formale delle virtù intellettuali, queste ultime rimangono dopo la vita terrena, proprio come abbiamo affermato riguardo alle virtù morali (A[1]).
+
+Risposta all’Obiezione 1: L’affermazione dell’Apostolo deve essere intesa come riferita all’elemento materiale nella scienza, nonché al modo di comprenderla; infatti, quando il corpo viene distrutto, anche i fantasmi scompaiono, e la scienza non può più essere applicata attraverso tali fantasmi.
+
+Risposta all’Obiezione 2: La malattia distrugge l’abitudine alla scienza riguardo al suo elemento materiale, cioè ai fantasmi, ma non riguardo alle specie intellegibili, che si trovano nell’intelletto “possibile”.
+
+Risposta all’Obiezione 3: Come affermato nel FP, Q[89], A[1], l’anima separata dispone di un modo di comprendere diverso da quello che consiste nell’interagire con i fantasmi. Pertanto, la capacità di conoscenza rimane, ma non attraverso lo stesso meccanismo operativo; come abbiamo già detto riguardo alle virtù morali (A[1]).
 
 <span class="atom-split" data-atom="076" data-title="Whether faith remains after this life?" data-chapter="Whether faith remains after this life?" data-kind="atom" data-srclang="en"></span>
 
@@ -3819,6 +4938,25 @@ us as something difficult. Hence he that has money is not, properly speaking, sa
 he can buy at once. In like manner those who have the glory of the soul are not, properly speaking,
 said to hope for the glory of the body, but only to desire it.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la speranza sopravviva alla morte, nello [stato](/concepts/state) di gloria. Infatti, la speranza perfeziona il desiderio umano in modo più elevato rispetto alle virtù morali. Ma le virtù morali rimangono anche dopo questa vita, come afferma chiaramente [Agostino](/figures/augustine) (De Trinitate, xiv, 9). Molto di più, quindi, la speranza sopravvive alla morte.
+
+Obiezione 2: Inoltre, la paura è opposta alla speranza. Ma la paura sopravvive anche dopo questa vita: nei Beati, c’è una paura filiale che permane per sempre; nei perduti, c’è la paura delle punizioni. Pertanto, allo stesso modo, anche la speranza può sopravvivere.
+
+Obiezione 3: Inoltre, proprio come la speranza riguarda un bene futuro, lo stesso vale per il desiderio. Nei Beati esiste certamente il desiderio di un bene futuro: sia per la gloria del corpo, che i loro spiriti anelano, come afferma Agostino (Genesi ad litteram XII, 35), sia per la gloria dell’anima, secondo l’Ecclesiaste 24:29 (“Coloro che mi mangiano avranno ancora fame; coloro che mi bevono avranno ancora sete”) e 1 Pietro 1:12 (“Su di Lui gli angeli desiderano posare lo sguardo”). Pertanto, sembra possibile che nei Beati esista ancora speranza anche dopo la fine di questa vita.
+
+Al contrario, l’Apostolo dice (Roma 8:24): “Perché un uomo si augura ciò che vede?”
+Ma i Beati vedono ciò che costituisce l’oggetto della speranza, cioè Dio. Pertanto, essi non sperano.
+
+Rispondo che, come già detto sopra (A[3]), ciò che, per sua stessa natura, implica imperfezione nel soggetto che lo possiede, è incompatibile con l’opposta perfezione di tale soggetto. È evidente quindi che il movimento, per la sua essenza stessa, implica imperfezione nel soggetto che lo compie; infatti, il movimento è “l’atto di ciò che si trova in [potenzialità](/concepts/act_potency)” (Phys. iii): non appena tale potenzialità viene realizzata, il movimento cessa; una cosa, infatti, non continua a diventare bianca una volta che è già diventata bianca. Ora, la speranza indica un movimento verso ciò che non si possiede ancora, come risulta chiaro da quanto detto sopra riguardo alla passione della speranza (Q[40], AA[1],2). Pertanto, quando avremo ottenuto ciò che speriamo, cioè il godimento di Dio, non sarà più possibile provare speranza.
+
+Risposta all’Obiezione 1: La speranza supera le virtù morali per quanto riguarda il suo oggetto, che è Dio. Tuttavia, gli atti delle virtù morali non sono incompatibili con la perfezione della felicità, come invece accade per l’atto di speranza; forse, tuttavia, questo discorso si applichi soltanto al loro contenuto materiale, che, in tal caso, potrebbe risultare incompatibile con tale perfezione. Infatti, la virtù morale perfeziona il desiderio, non solo riguardo a ciò che ancora non possediamo, ma anche riguardo a ciò che già possediamo effettivamente.
+
+Risposta all’Obiezione 2: La paura è di due tipi: quella servile e quella filiale, come spiegheremo più avanti (SS, Q[19], A[2]). La paura servile riguarda le punizioni ed è impossibile nella vita della gloria, poiché non vi sarà più alcuna possibilità di essere puniti. La paura filiale comprende due aspetti: uno è un atto di reverenza verso Dio, e questo aspetto rimarrà sempre presente; l’altro è un timore di essere separati da Dio, ma questo aspetto non sopravviverà nella vita della gloria, poiché la separazione da Dio è intrinsecamente malefica, e nel regno della gloria non esistono mali, come afferma il Proverbi 1:33: “Colui che ama il Signore godrà di abbondanza senza temere alcun male”. La paura, in quanto contrapposta alla speranza (come detto sopra, Q[23], A[2]; Q[40], A[1]), non è quindi contrapposta alla speranza nella vita della gloria. Nei perduti può esistere la paura delle punizioni, ma non la speranza nella gloria dei beati; poiché nei perduti ci sarà una sequenza di punizioni, e quindi l’idea di un futuro negativo rimarrà presente, elemento che genera paura; mentre la gloria dei santi, essendo una forma di partecipazione all’[eternità](/positions/eternity), non conosce né passato né futuro, ma solo il presente. Tuttavia, per parlare in termini rigorosi, nei perduti non esiste vera paura: poiché, come detto sopra (Q[42], A[2]), la paura è sempre accompagnata da una qualche speranza di scampo, e i perduti non possiedono tale speranza. Pertanto, in loro non vi sarà paura; se non nel senso generico del termine, quando si parla di un’attesa di eventi futuri negativi.
+
+Risposta all’Obiezione 3: Per quanto riguarda la gloria dell’anima, nei Beati non può esserci alcun desiderio, poiché il desiderio tende verso qualcosa di futuro, per la ragione già espressa (ad 2). Tuttavia si dice che in loro esistano fame e sete, perché non si stancano mai; per lo stesso motivo si dice che anche negli angeli esista il desiderio. Per quanto riguarda la gloria del corpo, nelle anime dei santi può esserci desiderio, ma non speranza, nel senso proprio del termine: né come [virtù teologica](/concepts/theological_virtues), poiché in questo caso l’oggetto della speranza è Dio e non un bene creato; né nel suo significato generale. L’oggetto della speranza, infatti, è qualcosa di difficile da ottenere, come già detto (Q[40], A[1]); mentre un bene il cui motivo certo noi lo possediamo già non può essere considerato qualcosa di difficile per noi. Pertanto, colui che ha denaro non si dice propriamente che speri in ciò che può acquistare immediatamente. Allo stesso modo, coloro che possiedono la gloria dell’anima non si dice propriamente che sperino nella gloria del corpo, ma soltanto che la desiderino.
+
 <span class="atom-split" data-atom="078" data-title="Whether anything of faith or hope remains in glory?" data-chapter="Whether anything of faith or hope remains in glory?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that something of faith and hope remains in glory. For when that
@@ -3884,6 +5022,26 @@ money, and therefore it is reasonable for the habit of liberality to remain. But
 not only is the object of faith, which is the unseen, removed actually, but even its possibility, by
 reason of the unchangeableness of heavenly bliss: and so such a habit would remain to no purpose.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che nella gloria rimanga qualcosa di fede e speranza. Infatti, quando viene eliminato ciò che è specifico di una cosa, rimane ciò che le è comune; così si afferma nel “De Causis”: “Se si toglie il razionale, rimane la vita; se si toglie la vita, rimane l’essere”. Ora, nella fede c’è qualcosa che la accomuna alla [beatazza](/positions/beatitude), ovvero la conoscenza; ma c’è anche qualcosa che le è specifico, ovvero l’oscurità, poiché la fede è una conoscenza in forma oscura. Pertanto, se si elimina l’oscurità della fede, la conoscenza che essa contiene rimane comunque.
+
+Obiezione 2: Inoltre, la fede è una luce spirituale dell’anima, secondo Efesini 1:17-18: “Gli occhi del vostro cuore saranno illuminati, nella conoscenza di Dio”; tuttavia questa luce è imperfetta rispetto alla luce della gloria, di cui si legge (Salmo 35:10): “Nella tua luce vedremo luce”. Ora, una luce imperfetta rimane sempre presente quando compare una luce perfetta: infatti una candela non si spegne quando appaiono i raggi del sole. Pertanto sembra che la luce stessa della fede continui ad esistere accanto alla luce della gloria.
+
+Obiezione 3: Inoltre, la sostanza di una [abitudine](/concepts/custom) non scompare con la perdita della materia che la costituisce: un uomo può infatti mantenere l’abitudine alla generosità anche dopo aver perso i propri soldi, ma non è in grado di compiere atti concreti legati a tale abitudine. Ora, l’oggetto della fede è la Prima Verità, intesa come qualcosa di invisibile; pertanto, anche quando questa verità diventa visibile e quindi conoscibile, l’abitudine alla fede può comunque persistere.
+
+Al contrario, la fede è semplicemente un’abitudine. Ora, qualcosa di semplice o viene completamente eliminato, oppure rimane completamente intatto. Poiché quindi la fede non rimane completamente intatta, ma viene eliminata, come detto sopra (A[3]), sembra che venga completamente eliminata.
+
+Rispondo che alcuni hanno sostenuto che la speranza venga completamente eliminata; ma che la fede venga eliminata in parte, cioè riguardo alla sua oscurità, e rimanga in parte, cioè riguardo alla sostanza della sua conoscenza. E se ciò si intende nel senso che essa rimane la stessa, non identicamente ma genericamente, allora è assolutamente vero; poiché la fede appartiene allo stesso genere della conoscenza, così come la visione beata. D’altra parte, la speranza non appartiene allo stesso genere della beatitudine celeste: poiché viene paragonata al godimento della beatitudine, proprio come il movimento è paragonato alla quiete nel contesto del movimento stesso.  
+Ma se ciò si intende nel senso che in cielo la conoscenza derivante dalla fede rimanga identicamente la stessa, allora questo è assolutamente impossibile. Poiché quando si elimina una differenza specifica, la sostanza del genere non rimane identicamente la stessa: ad esempio, se si elimina la differenza che costituisce il bianco, la sostanza del colore non rimane identica, come se lo stesso colore potesse essere contemporaneamente bianco e nero. Il motivo è che il genere non ha rapporto con la differenza come la materia ha rapporto con la forma; quindi la sostanza del genere non rimane identicamente la stessa quando si elimina la differenza, proprio come la sostanza della materia non rimane identica quando cambia la forma. Poiché il genere e la differenza non sono parti di una specie, altrimenti non verrebbero predicati di quella specie. Ma proprio come la specie indica l’intero complesso di materia e forma nelle cose materiali, lo stesso vale per la differenza e per il genere: il genere indica l’intero indicando ciò che è materiale; la differenza, indicando ciò che è formale; la specie, indicando entrambi. Così, nell’uomo, la natura sensibile è come la materia rispetto alla natura intellettuale: “animale” viene predicato di ciò che possiede una natura sensibile, “razionale” di ciò che possiede una natura intellettuale, e “uomo” di ciò che possiede entrambe. Quindi lo stesso intero è indicato da questi tre termini, ma non sotto lo stesso aspetto.  
+È quindi evidente che, poiché il significato della differenza è legato al genere, se quella differenza viene eliminata, la sostanza del genere non può rimanere identica; infatti, la stessa natura animale non rimane tale se un’altra sorta di anima ne costituisce l’essenza. Pertanto è impossibile che la conoscenza identica, che in precedenza era oscura, diventi una visione chiara. È evidente anche che, in cielo, nulla della fede rimane identicamente o specificamente lo stesso, ma solo genericamente.
+
+Risposta all’Obiezione 1: Se si elimina il concetto di “razionale”, ciò che rimane come elemento “vivente” è lo stesso, non identico, ma comunque correlato in termini generici, come già affermato.
+
+Risposta all’Obiezione 2: L’imperfezione della luce delle candele non è in contraddizione con la perfezione della luce del sole, poiché riguardano soggetti diversi; al contrario, l’imperfezione della fede e la perfezione della gloria sono in opposizione reciproca e riguardano lo stesso soggetto. Pertanto, sono incompatibili tra loro, proprio come la luce e l’oscurità nell’aria.
+
+Risposta all’Obiezione 3: Chi perde il proprio denaro non perde necessariamente la possibilità di averne; pertanto è ragionevole che l’abitudine alla generosità rimanga. Tuttavia, nello [stato](/concepts/state) della gloria, non solo l’oggetto della fede – che è ciò che non si vede – viene effettivamente eliminato, ma anche la possibilità stessa di credere in esso scompare, a causa dell’immutabilità della beatitudine celeste; quindi un tale atteggiamento rimarrebbe del tutto inutile.
+
 <span class="atom-split" data-atom="079" data-title="Whether charity remains after this life, in glory?" data-chapter="Whether charity remains after this life, in glory?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that charity does not remain after this life, in glory. Because
@@ -3922,6 +5080,24 @@ Reply to Objection 3: The reason why charity of the wayfarer cannot attain to th
 of the charity of heaven, is a difference on the part of the cause: for vision is a cause of love, as
 stated in Ethic. ix, 5: and the more perfectly we know God, the more perfectly we love Him.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che la carità non sopravviva dopo questa vita, nella gloria. Poiché, secondo 1 Corinzi 13:10, “quando verrà ciò che è perfetto, ciò che è imperfetto sarà eliminato”. Ora, la carità di colui che è ancora nel cammino verso la perfezione è imperfetta; pertanto, sarà eliminata quando si raggiungerà la perfezione nella gloria.
+
+Obiezione 2: Inoltre, abitudini e azioni si distinguono in base ai loro oggetti. Ma l’oggetto dell’amore è il bene inteso in sé stesso. Poiché quindi la comprensione della vita presente differisce dalla comprensione della vita futura, sembra che la carità non sia la stessa in entrambi i casi.
+
+Obiezione 3: Inoltre, le cose dello stesso genere possono passare dall’imperfezione alla perfezione attraverso un aumento continuo. Ma la carità di colui che è ancora nel cammino verso il cielo non potrà mai raggiungere l’uguaglianza con la carità celeste, per quanto possa aumentare. Pertanto, sembra che la carità di colui che è ancora nel cammino verso il cielo non rimanga nel cielo stesso.
+
+Al contrario, l’Apostolo dice (1 Corinzi 13:8): “La carità non fallisce mai”.
+
+Rispondo che, come già detto sopra (A[3]), quando l’imperfezione di una cosa non appartiene alla sua natura specifica, non c’è nulla che impedisca a quella stessa cosa di passare dall’imperfezione alla perfezione, proprio come l’uomo viene perfezionato attraverso la crescita e la bianchezza aumenta con l’intensità. Ora, la carità è amore, e la natura dell’amore non include alcuna imperfezione, poiché può riguardare un oggetto che si possiede o meno, che si vede o meno. Pertanto, la perfezione della gloria non elimina la carità; essa rimane identica a se stessa.
+
+Risposta all’Obiezione 1: L’imperfezione della carità è qualcosa che le è accidentale; infatti l’imperfezione non fa parte della natura dell’amore stesso. Ora, anche se ciò che è accidentale a una cosa venisse rimosso, la sostanza di quella cosa rimarrebbe comunque intatta. Pertanto, anche se l’imperfezione della carità venisse eliminata, la carità stessa non verrebbe distrutta.
+
+Risposta all’Obiezione 2: L’oggetto della carità non è la conoscenza in sé; se lo fosse, la carità del viandante non sarebbe la stessa di quella divina: l’oggetto della carità è ciò che viene conosciuto, e questo oggetto rimane sempre lo stesso, ovvero Dio stesso.
+
+Risposta all’Obiezione 3: Il motivo per cui la carità di chi è nel cammino verso Dio non può raggiungere la perfezione della carità divina risiede in una differenza riguardante la causa stessa: infatti, la visione di Dio è la causa dell’amore, come affermato nell’Etica, IX, 5; e più perfettamente conosciamo Dio, più perfettamente Lo amiamo.
+
 <span class="atom-split" data-atom="080" data-title="OF THE GIFTS (EIGHT ARTICLES)" data-chapter="OF THE GIFTS (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now come to consider the Gifts; under which head there are eight points of inquiry:
@@ -3933,6 +5109,18 @@ We now come to consider the Gifts; under which head there are eight points of in
 (6) Whether they remain in heaven?
 (7) Of their comparison with one another;
 (8) Of their comparison with the virtues.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora passiamo ad esaminare i “Doni”; sotto questa categoria vi sono otto punti da considerare:  
+(1) Se i Doni siano diversi dalle virtù;  
+(2) La necessità dei Doni;  
+(3) Se i Doni siano abitudini;  
+(4) Quali siano e quanti ne esistano;  
+(5) Se i Doni siano tra loro collegati;  
+(6) Se rimangano in cielo;  
+(7) Il loro confronto reciproco;  
+(8) Il loro confronto con le virtù.
 
 <span class="atom-split" data-atom="081" data-title="Whether the Gifts differ from the virtues? (parte 1)" data-chapter="Whether the Gifts differ from the virtues?" data-kind="atom" data-srclang="en"></span>
 
@@ -4033,6 +5221,25 @@ the good as appointed by reason; but they are opposed to the gifts, in as much a
 to the Divine instinct. For the same thing is opposed both to God and to reason, whose light flows
 from God.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i doni non siano diversi dalle virtù. Infatti, Gregorio, commentando il versetto Genesi 1:2 (“Gli nacquero sette figli”), afferma (Moralia, I, 12): “A noi sono nati sette figli, quando, attraverso la concezione di un pensiero celeste, le sette virtù dello Spirito Santo nascono in noi”; inoltre cita i versetti Isaia 11:2-3, dove vengono elencati i sette doni dello Spirito Santo. Pertanto, i sette doni dello Spirito Santo sono virtù.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine), commentando Matteo 12:45 (“Allora va e prende con sé altri sette spiriti”, ecc.), afferma (De Quaest. Evang. i, qu. 8): “I sette vizi sono contrapposti alle sette virtù dello Spirito Santo, cioè ai sette doni dello Spirito Santo”. Ora, i sette vizi sono contrapposti alle sette virtù comunemente definite tali; pertanto, i doni dello Spirito Santo non differiscono dalle virtù comunemente denominate tali.
+
+Obiezione 3: Inoltre, le cose la cui definizione è la stessa sono esse stesse uguali. Ma la definizione di virtù si applica ai doni; infatti, ogni dono è “una buona qualità dell’animo grazie alla quale conduciamo una vita buona”, ecc. [*Cfr. Q[55], A[4. Allo stesso modo, la definizione di un dono può essere applicata anche alle virtù infuse: poiché un dono è “un atto di donazione che non può essere ricambiato”, secondo il Filosofo (Topica iv, 4). Pertanto, le virtù e i doni non differiscono tra loro.
+
+Obiezione 4: Alcune delle cose menzionate tra i doni sono virtù; infatti, come detto sopra (Q[57], A[2]), saggezza, intelligenza e conoscenza sono virtù intellettuali; il consiglio appartiene alla prudenza, la pietà a una sorta di giustizia, e la forza d’animo è una virtù morale. Pertanto, sembra che i doni non differiscano dalle virtù.
+
+Al contrario, Gregorio (Morale, i, 12) distingue sette doni, che afferma essere rappresentati dai sette figli di Giobbe, dalle tre [virtù teologali](/concepts/theological_virtues), che, secondo lui, sono simboleggiate dalle tre figlie di Giobbe. Inoltre, distingue sempre quei sette doni dalle quattro virtù cardinali, che, a suo dire, sono rappresentate dai quattro angoli della casa.
+
+Rispondo che, se parliamo di doni e virtù in relazione al significato stesso delle parole che le designano, non esiste alcuna contraddizione tra loro. La parola “virtù” indica ciò che perfeziona l’uomo nel suo agire retto, mentre la parola “dono” si riferisce alla causa da cui tale perfezionamento deriva. Non vi è dunque motivo per cui ciò che proviene da un dono non possa perfezionare anche un altro nell’agire retto; soprattutto considerando che abbiamo già affermato (Q[63], A[3]) che alcune virtù vengono infuse in noi da Dio. Pertanto, in questo senso, non possiamo distinguere i doni dalle virtù. Alcuni hanno quindi sostenuto che i doni e le virtù siano indistinguibili; tuttavia rimane comunque una difficoltà da risolvere: bisogna spiegare perché alcune virtù vengano chiamate “doni” e altre no, e perché tra i doni vi siano, ad esempio, la paura, che non viene considerata una virtù. Altri hanno invece affermato che i doni debbano essere considerati distinti dalle virtù; tuttavia non hanno fornito una spiegazione adeguata per questa distinzione, una spiegazione che si applicasse sia a tutte le virtù che a nessun dono, o viceversa. Poiché dei sette doni, quattro appartengono alla ragione (saggezza, conoscenza, intelligenza e prudenza) e tre all’appetito (fortezza, pietà e paura), si è ritenuto che i doni perfezionino la volontà libera in quanto facoltà della ragione, mentre le virtù la perfezionano in quanto facoltà della volontà stessa. Se questa distinzione fosse vera, tutte le virtù dovrebbero appartenere all’appetito e tutti i doni alla ragione. Alcuni, osservando che Gregorio dice (Moralia ii, 26) che “il dono dello Spirito Santo, entrando nell’anima, la dota di prudenza, temperanza, giustizia e forza, e al contempo la rende più resistente a ogni tipo di tentazione grazie ai suoi sette doni”, hanno sostenuto che le virtù ci vengono date affinché possiamo compiere opere buone, mentre i doni ci permettono di resistere alle tentazioni. Ma nemmeno questa distinzione è sufficiente: anche le virtù infatti ci aiutano a resistere a quelle tentazioni che portano a peccati contrari alle virtù stesse; poiché ogni cosa naturalmente resiste al proprio contrario. Questo è particolarmente evidente per la carità, di cui si legge nel Cantico dei Cantici (8:7): “Molte acque non potranno spegnere la carità”. Altri ancora, osservando che questi doni sono menzionati nelle Scritture come presenti in Cristo secondo Isaia 11:2,3, hanno affermato che le virtù ci vengono date semplicemente affinché possiamo compiere opere buone, mentre i doni servono a farci conformare a Cristo, soprattutto riguardo alla Sua Passione, poiché fu allora che questi doni splendettero con maggiore intensità. Tuttavia nemmeno questa distinzione sembra soddisfacente: il Signore stesso infatti desiderava che noi fossimo conformati a Lui, soprattutto in umiltà e mansuetudine.
+A Matteo 11:29: “Imparate da Me, poiché Sono mite e umile di cuore”; e in carità, secondo Giovanni 15:12: “Amatevi gli uni gli altri, come Io vi ho amati”. Inoltre, queste virtù furono particolarmente evidenti nella Passione di Cristo. Pertanto, per distinguere i doni dalle virtù, dobbiamo guidarci nel modo in cui la [Scrittura](/concepts/revelation) si esprime: vi troviamo infatti il termine “spirito” e non “dono”. Così è scritto (Isaia 11:2,3): “Lo spirito, di saggezza e di intelligenza, riposerà su di lui”, ecc.; da queste parole si comprende chiaramente che questi sette doni sono stati infusi in noi per ispirazione divina. L’ispirazione indica infatti un movimento proveniente dall’esterno; va notato che nell’uomo esistono due principi di movimento: uno interno, ovvero la ragione; l’altro esterno, ovvero Dio, come detto sopra (Q[9], AA[4],6); inoltre il Filosofo lo afferma nel capitolo sull’Buona Fortuna (Etica Eudemica, vii, 8). È evidente che ciò che viene mosso deve essere proporzionato al suo motore; la perfezione del mobile consiste nella disposizione che gli permette di essere efficacemente mosso dal proprio motore. Pertanto, più nobile è il motore, più perfetta deve essere la disposizione del mobile affinché sia in armonia con esso; da ciò si deduce che un discepolo ha bisogno di una disposizione ancora più perfetta per ricevere insegnamenti più elevati dal proprio maestro. È chiaro inoltre che le virtù umane perfezionano l’uomo nella misura in cui è naturale che sia mosso dalla propria ragione nelle sue azioni interne ed esterne; quindi l’uomo ha bisogno di perfezioni ancora più elevate, affinché possa essere disposto ad essere mosso da Dio. Queste perfezioni vengono chiamate doni, non solo perché sono infuse da Dio, ma anche perché grazie a esse l’uomo diventa disponibile all’ispirazione divina, secondo Isaia 50:5: “Il Signore, mi ha aperto l’orecchio e non oppongo resistenza; non mi ritiro più indietro”. Anche il Filosofo afferma nel capitolo sull’Buona Fortuna che coloro che sono mossi dall’istinto divino non hanno bisogno di consultarsi con la ragione umana, ma devono seguire soltanto le proprie intuizioni interne, poiché sono mossi da un principio superiore alla ragione umana. Questo è ciò che alcuni sostengono: i doni perfezionano l’uomo per compiere atti che sono superiori alle semplici virtù.
+
+Risposta all’Obiezione 1: A volte questi doni vengono chiamati virtù, nel senso lato del termine. Tuttavia, essi possiedono qualcosa di più rispetto alle virtù intese in questo modo lato: poiché si tratta di virtù divine, che perfezionano l’uomo mosso da Dio. Per questo motivo il Filosofo (Etica vii, 1) pone al di sopra delle virtù comunemente intese una sorta di “virtù eroica” o “divina”, e a causa di queste virtù alcuni uomini vengono chiamati “divini”.
+
+Risposta all’Obiezione 2: I vizi sono contrari alle virtù nella misura in cui si oppongono al bene stabilito dalla ragione; ma sono anche contrari ai doni divini, poiché si oppongono all’istinto divino. Infatti, la stessa cosa può essere considerata contraria sia a Dio che alla ragione, la cui luce proviene da Dio stesso.
+
 <span class="atom-split" data-atom="082" data-title="Whether the Gifts differ from the virtues? (parte 2)" data-chapter="Whether the Gifts differ from the virtues?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: This definition applies to virtue taken in its general sense. Consequently,
@@ -4044,6 +5251,12 @@ relation to His motion; something, to wit, that makes man to follow well the pro
 Reply to Objection 4: Wisdom is called an intellectual virtue, so far as it proceeds from the
 judgment of reason: but it is called a gift, according as its work proceeds from the Divine prompting.
 The same applies to the other virtues.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 3: Questa definizione si applica alla virtù nel suo senso generale. Pertanto, se desideriamo restringerla alla virtù distinta dai doni divini, dobbiamo interpretare le parole “con cui conduciamo una vita buona” come riferite alla rettitudine di vita misurata dalla regola della ragione. Allo stesso modo, i doni divini, distinti dalla virtù innata, possono essere definiti come qualcosa che Dio dona all’uomo al fine di aiutarlo a seguire correttamente le sue istruzioni.
+
+Risposta all’Obiezione 4: La saggezza viene definita virtù intellettuale nel momento in cui deriva dal giudizio della ragione; ma viene considerata un dono quando la sua azione scaturisce dall’ispirazione divina. Lo stesso vale per le altre virtù.
 
 <span class="atom-split" data-atom="083" data-title="Whether the gifts are necessary to man for salvation?" data-chapter="Whether the gifts are necessary to man for salvation?" data-kind="atom" data-srclang="en"></span>
 
@@ -4115,6 +5328,24 @@ all folly, ignorance, dullness of mind and hardness of heart, and the rest. Cons
 the Holy Ghost, which make us amenable to His promptings, are said to be given as remedies to
 these defects.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i doni non siano necessari all’uomo per la salvezza. Poiché i doni sono destinati a una perfezione che supera quella ordinaria della virtù, non è necessario che l’uomo raggiunga una tale perfezione per essere salvato; infatti, una simile perfezione rientra non sotto il precetto, ma sotto un consiglio. Pertanto, i doni non sono necessari all’uomo per la salvezza.
+
+Obiezione 2: Inoltre, per la salvezza dell’uomo è sufficiente che si comporti bene nelle questioni relative a Dio e in quelle relative agli altri esseri umani. Il comportamento dell’uomo verso Dio è sufficientemente guidato dalle [virtù teologali](/concepts/theological_virtues), mentre il suo comportamento verso gli altri è guidato dalle virtù morali. Pertanto, i doni non sono necessari per la salvezza dell’uomo.
+
+Obiezione 3: Inoltre, Gregorio afferma (Moralia, ii, 26) che “lo Spirito Santo dona saggezza contro la follia, comprensione contro la stupidità, consiglio contro l’imprudenza, forza d’animo contro le paure, conoscenza contro l’ignoranza, pietà contro la durezza del cuore e timore contro l’orgoglio”. Tuttavia, un rimedio sufficiente per tutte queste cose si trova nelle virtù. Pertanto, questi doni non sono necessari all’uomo per la salvezza.
+
+Al contrario, di tutti i doni, la saggezza sembra essere il più nobile, mentre la paura il più meschino. Ora, ciascuno di questi due elementi è necessario per la salvezza: della saggezza si legge infatti (Sapienza 7:28): “Dio non ama nessuno se non colui che vive nella saggezza”; della paura invece (Ecclesiaste 1:28): “Colui che è privo di paura non può essere giustificato”. Pertanto, anche gli altri doni che si trovano tra questi due sono necessari per la salvezza.
+
+Rispondo che, come già detto sopra (A[1]), i doni sono perfezioni umane grazie alle quali l’uomo è predisposto ad essere sensibile agli stimoli di Dio. Pertanto, in quelle circostanze in cui la spinta della ragione non è sufficiente e è necessaria l’influenza dello Spirito Santo, diventa indispensabile l’intervento di tali doni. La ragione umana viene perfezionata da Dio in due modi: innanzitutto con una perfezione naturale, ovvero la luce razionale innata; in secondo luogo con una perfezione soprannaturale, rappresentata dalle virtù teologiche, come già affermato sopra (Q[62], A[1]). Sebbene questa seconda perfezione sia più elevata della prima, la prima è posseduta dall’uomo in modo più completo rispetto alla seconda: l’uomo, infatti, possiede pienamente la prima, mentre la seconda è posseduta in modo imperfetto, poiché amiamo e conosciamo Dio in modo imperfetto. È evidente che ciò che possiede una natura, una forma o una virtù perfette può agire da sé secondo tali caratteristiche; tuttavia, questo non esclude l’azione di Dio, il quale opera interiormente in ogni essere e in ogni volontà. Al contrario, ciò che possiede una natura, una forma o una virtù imperfette non può agire da solo, se non viene mosso da un altro fattore esterno. Ad esempio, il sole, che possiede la luce in modo perfetto, può brillare da sé; la luna, invece, che possiede questa qualità in modo imperfetto, emette soltanto una luce “prestatasi” dall’altro astro. Allo stesso modo, un medico che conosce perfettamente l’arte medica può operare da solo; il suo allievo, invece, che non è ancora completamente istruito, ha bisogno delle indicazioni del maestro per poter agire efficacemente. Pertanto, in quelle questioni che rientrano nell’ambito della ragione umana e sono dirette verso lo scopo naturale dell’uomo, quest’ultimo può agire attraverso il giudizio della propria ragione. Tuttavia, anche in questi casi, se l’uomo riceve aiuto sotto forma di stimoli particolari da parte di Dio, ciò avviene a causa della sua superiore bontà; per questo motivo, secondo i filosofi, non tutti coloro che possedevano le virtù morali acquisite possedevano anche le virtù eroiche o divine. Nelle questioni invece che riguardano lo scopo soprannaturale, verso cui la ragione umana è indirizzata – ma che essa può comprendere solo in modo imperfetto grazie alle virtù teologiche – la sola spinta della ragione non è sufficiente; è necessaria anche l’influenza dello Spirito Santo, come si legge in Romani 8:14-17 e nel Salmo 142:10. Infatti, nessuno può ricevere l’eredità di quel regno beato se non viene mosso e guidato dallo Spirito Santo. Pertanto, per raggiungere questo scopo, è indispensabile che l’uomo possieda il dono dello Spirito Santo.
+
+Risposta all’Obiezione 1: I doni trascendono la perfezione ordinaria delle virtù, non in termini di tipo di azioni (poiché i consigli trascendono i comandamenti), ma riguardo al modo in cui tali azioni vengono compiute, poiché l’uomo è mosso da un principio più elevato.
+
+Risposta all’Obiezione 2: Per mezzo delle virtù teologiche e morali, l’uomo non è così perfezionato riguardo al suo fine ultimo da non aver continuamente bisogno di essere spinto dalle sollecitazioni ancora più elevate dello Spirito Santo, per le ragioni già espresse.
+
+Risposta all’Obiezione 3: Che consideriamo la ragione umana come perfezionata nella sua perfezione naturale, o come perfezionata dalle virtù teologali, essa non conosce tutte le cose, né tutte le cose possibili. Pertanto, è incapace di evitare l’errore e altre simili cose menzionate nell’obiezione. Dio, tuttavia, la cui conoscenza e potere sono soggette a tutte le cose, ci protegge con il Suo intervento da ogni errore, ignoranza, stoltezza, durezza di cuore e simili difetti. Per questo motivo, i doni dello Spirito Santo, che ci rendono sensibili alle Sue ispirazioni, vengono considerati rimedi efficaci contro tali imperfezioni.
+
 <span class="atom-split" data-atom="084" data-title="Whether the gifts of the Holy Ghost are habits?" data-chapter="Whether the gifts of the Holy Ghost are habits?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the gifts of the Holy Ghost are not habits. Because a [habit](/concepts/custom) is
@@ -4161,6 +5392,24 @@ needs a habit.
 
 Reply to Objection 3: Prophecy is one of those gifts which are for the manifestation of the
 Spirit, not for the necessity of salvation: hence the comparison fails.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i doni dello Spirito Santo non siano abitudini. Infatti un’[abitudine](/concepts/custom) è una qualità permanente nell’uomo, definita come “una qualità difficile da eliminare”, come affermato nei “Predicamenti” (Categorie VI). Ora è proprio proprio di Cristo che i doni dello Spirito Santo risiedano in Lui, come si legge in Isaia 11:2-3: “Colui su cui vedrete lo Spirito scendere e rimanere su di Lui, Egli è colui che battezza”; su queste parole Gregorio commenta così (Moralia II, 27): “Lo Spirito Santo discende su tutti i fedeli; ma in modo particolare, dimora sempre nel Mediatore”. Pertanto, i doni dello Spirito Santo non sono abitudini.
+
+Obiezione 2: Inoltre, i doni dello Spirito Santo perfezionano l’uomo nella misura in cui quest’ultimo è mosso dallo Spirito di Dio, come detto sopra (AA[1],2). Ma nella misura in cui l’uomo è mosso dallo Spirito di Dio, egli è in qualche modo paragonabile a uno strumento nelle sue mani. Ora, essere perfezionati attraverso un’abitudine è appropriato a un soggetto principale, non a uno strumento; pertanto i doni dello Spirito Santo non sono abitudini.
+
+Obiezione 3: Inoltre, poiché i doni dello Spirito Santo derivano dall’ispirazione divina, lo stesso vale per il dono della profezia. Ora, la profezia non è un’abitudine; infatti, “lo spirito di profezia non risiede sempre nei profeti”, come afferma Gregorio (Homilia i in Ezechiele). Pertanto, lo stesso vale anche per i doni dello Spirito Santo.
+
+Al contrario, il nostro Signore, parlando dello Spirito Santo, disse ai suoi discepoli (Giovanni 14:17): “Rimarrà con voi e sarà in voi”. Ora lo Spirito Santo non è in un uomo senza i suoi doni; pertanto questi doni rimangono nell’uomo. Non si tratta quindi semplicemente di atti o passioni, ma di abitudini permanenti.
+
+Rispondo che, come già detto sopra (A[1]), i doni dello Spirito Santo sono perfezioni umane grazie alle quali l’uomo diventa suscettibile agli impulsi dello Spirito Santo stesso. È evidente, da quanto già esposto (Q[56], A[4]; Q[58], A[2]), che le virtù morali perfezionano la facoltà appetitiva nella misura in cui questa possiede una naturale predisposizione ad essere guidata dal comando della ragione. Pertanto, i doni dello Spirito Santo, rispetto allo stesso Spirito Santo, sono correlati all’uomo, proprio come le virtù morali, rispetto alla ragione, sono correlate alla facoltà appetitiva. Le virtù morali, infatti, sono abitudini che rendono le facoltà appetitive disposte ad obbedire prontamente alla ragione; allo stesso modo, i doni dello Spirito Santo sono abitudini che perfezionano l’uomo, permettendogli di obbedire facilmente allo Spirito Santo.
+
+Risposta all’Obiezione 1: Gregorio risolve questa obiezione (Moralia, ii, 27) affermando che “con quei doni senza i quali non si può ottenere la vita, lo Spirito Santo dimora sempre in tutti gli eletti, ma non con i suoi altri doni”. Ora, questi sette doni sono necessari per la salvezza, come detto sopra (A[2]). Pertanto, riguardo a essi, lo Spirito Santo dimora sempre negli uomini santi.
+
+Risposta all’Obiezione 2: Questo argomento è valido nel caso di uno strumento che non possiede alcuna capacità di agire, ma soltanto quella di essere soggetto ad azioni altrui. Tuttavia l’uomo non è uno strumento di questo tipo; infatti, lo Spirito Santo agisce su di lui in modo tale che anche lui possa agire a sua volta, nella misura in cui possiede una volontà libera. Pertanto, ha bisogno di abitudini per poter agire efficacemente.
+
+Risposta all’Obiezione 3: La profezia è uno di quei doni che servono alla manifestazione dello Spirito, non alla necessità della salvezza; pertanto, il paragone non regge.
 
 <span class="atom-split" data-atom="085" data-title="Whether the seven gifts of the Holy Ghost are suitably enumerated?" data-chapter="Whether the seven gifts of the Holy Ghost are suitably enumerated?" data-kind="atom" data-srclang="en"></span>
 
@@ -4240,6 +5489,33 @@ gifts are set down as corresponding to wisdom as their directing principle; on t
 the gift of understanding; on the part of the affections, the gift of fear. Because the principal reason
 for fearing God is taken from a consideration of the Divine excellence, which wisdom considers.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le sette grazie dello Spirito Santo siano elencate in modo improprio. Infatti, nell’elenco sono menzionate quattro grazie relative alle virtù intellettuali, ovvero saggezza, intelligenza, scienza e prudenza; mentre non viene menzionata alcuna grazia relativa all’arte, che rappresenta la quinta virtù intellettuale. Inoltre, nell’elenco sono incluse due grazie relative alla giustizia (pietà) e altre due relative alla forza d’animo (grazia della fortitudine), mentre manca quella relativa alla temperanza. Pertanto, l’elenco delle grazie è incompleto.
+
+Obiezione 2: Inoltre, la pietà fa parte della giustizia. Ma nessuna parte della virtù della forza viene attribuita a essa, se non la stessa virtù della forza. Pertanto, dovrebbe essere menzionata la giustizia stessa, e non la pietà.
+
+Obiezione 3: Inoltre, le [virtù teologali](/concepts/theological_virtues), più di qualsiasi altra, ci indirizzano verso Dio. Poiché dunque i doni rendono l’uomo perfetto nel momento in cui è mosso da Dio, sembra che alcuni di questi doni, corrispondenti alle virtù teologali, dovessero essere inclusi nella lista.
+
+Obiezione 4: Inoltre, proprio come Dio è oggetto di paura, lo è anche di amore, di speranza e di gioia. Ora, amore, speranza e gioia sono passioni condivise con la paura; pertanto, così come la paura viene considerata un dono di Dio, lo stesso dovrebbe valere per le altre tre passioni.
+
+Obiezione 5: Inoltre, la saggezza viene data al fine di guidare la comprensione; il consiglio, per guidare la forza d’animo; la conoscenza, per guidare la pietà. Pertanto, avrebbe dovuto esserci qualche altro dono destinato a guidare la paura. Di conseguenza, l’elenco dei sette doni dello Spirito Santo è inappropriato.
+
+Al contrario, c’è l’autorità delle Scritture Sacre (Isaia 11:2,3).
+
+Rispondo che, come già detto sopra (A[3]), i doni sono abitudini che perfezionano l’uomo, rendendolo pronto ad ascoltare le ispirazioni dello Spirito Santo, proprio come le virtù morali perfezionano le facoltà appetitive, facendole obbedire alla ragione. Ora, così come è naturale che le facoltà appetitive siano mosse dall’ordine della ragione, allo stesso modo è naturale che tutte le forze umane siano guidate dall’istinto di Dio, come da una potenza superiore. Pertanto, qualsiasi forza umana possa essere alla base delle azioni umane può anche essere oggetto di doni, proprio come lo sono le virtù; e tali forze sono la ragione e l’appetito.  
+La ragione è sia speculativa che pratica: in entrambe troviamo la comprensione della verità (che riguarda la sua scoperta) e il giudizio su di essa. Pertanto, per comprendere correttamente la verità, la ragione speculativa viene perfezionata dalla “intelligenza”; la ragione pratica, dal “consiglio”. Per giudicare rettamente, la ragione speculativa viene perfezionata dalla “saggezza”; la ragione pratica, dalla “scienza”. L’appetito, nelle questioni relative alle relazioni con gli altri, viene perfezionato dalla “pietà”; nelle questioni che riguardano l’individuo stesso, viene perfezionato dalla “fortezza” contro la paura dei pericoli e, contro un desiderio eccessivo di piaceri, dalla “timidezza”, secondo Proverbi 15:27: “Per timore del Signore tutti si allontanano dal male”, e Salmo 118:120: “Puniscimi con la tua timidezza, o Signore; temo infatti i tuoi giudizi”. È quindi evidente che questi doni si estendono a tutte quelle cose alle quali si estendono sia le virtù intellettuali che quelle morali.
+
+Risposta all’Obiezione 1: I doni dello Spirito Santo perfezionano l’uomo nelle cose relative a una vita virtuosa; invece, l’arte non è rivolta a tali questioni, ma alle cose esterne che possono essere create, poiché l’arte rappresenta la ragione corretta, non riguardo a ciò che deve essere fatto, ma a ciò che deve essere creato (Etica, VI, 4). Tuttavia, si può dire che, per quanto riguarda l’infusione dei doni dello Spirito Santo, l’azione principale spetta allo stesso Spirito Santo, che è il vero motore di tutto questo processo, e non agli uomini, i quali sono soltanto gli strumenti attraverso cui lo Spirito agisce. Il dono della paura corrisponde, in qualche modo, al dono della temperanza: proprio come la temperanza consiste nel impedire all’uomo di indulgere in piaceri malvagi per il bene stabilito dalla ragione, così anche il dono della paura serve a allontanare l’uomo dai piaceri malvagi attraverso la paura di Dio.
+
+Risposta all’Obiezione 2: La giustizia è così chiamata in virtù della rettitudine della ragione; per questo motivo è più appropriato definirla una virtù che un dono. Tuttavia, il nome di pietà indica la reverenza che nutriamo verso nostro padre e verso la nostra patria. Poiché Dio è il Padre di tutti, l’[adorazione](/concepts/religion) di Dio viene anch’essa chiamata pietà, come afferma [Agostino](/figures/augustine) (De Civ. Dei x, 1). Pertanto, il dono grazie al quale un uomo, per reverenza verso Dio, compie azioni buone verso tutti può essere giustamente definito pietà.
+
+Risposta all’Obiezione 3: La mente umana non viene mosso dallo Spirito Santo, a meno che in qualche modo non sia unito a Lui; proprio come lo strumento non viene mosso dall’artigiano, a meno che non vi sia un contatto o qualche altro tipo di unione tra loro. Ora, l’unione primordiale dell’uomo con Dio avviene attraverso la fede, la speranza e la carità; pertanto, queste virtù sono presupposte ai doni dello Spirito Santo, poiché ne costituiscono le radici. Di conseguenza, tutti i doni dello Spirito Santo corrispondono a queste tre virtù, essendo derivati da esse.
+
+Risposta all’Obiezione 4: L’amore, la speranza e la gioia hanno il bene come loro oggetto; poiché Dio è il Sovrano Bene, i nomi di queste emozioni vengono trasferiti alle virtù teologiche che uniscono l’uomo a Dio. D’altra parte, l’oggetto della paura è il male, il quale in alcun modo può riguardare Dio; pertanto la paura non indica un’unione con Dio, ma piuttosto un allontanamento da certe cose per rispetto di Dio. Per questo motivo, il nome “paura” non viene attribuito a una virtù teologica, bensì a un dono che ci allontana dal male, per motivi più elevati di quelli delle virtù morali.
+
+Risposta all’Obiezione 5: La saggezza dirige sia l’intelletto che le emozioni dell’uomo. Pertanto, due doni vengono considerati corrispondenti alla saggezza in quanto principi direttivi: da un lato, il dono della comprensione riguardante l’intelletto; dall’altro, il dono della paura riguardante le emozioni. Poiché la ragione principale per temere Dio deriva dalla considerazione dell’eccellenza divina, che è proprio oggetto di riflessione della saggezza.
+
 <span class="atom-split" data-atom="086" data-title="Whether the gifts of the Holy Ghost are connected?" data-chapter="Whether the gifts of the Holy Ghost are connected?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the gifts are not connected, for the Apostle says (1 Cor. 12:8):
@@ -4298,6 +5574,24 @@ without the other. Hence he had already observed that "each particular virtue is
 destitute, unless one virtue lend its support to another." We are therefore not to understand that one
 gift can be without another; but that if understanding were without wisdom, it would not be a gift;
 even as temperance, without justice, would not be a virtue.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che questi doni non siano tra loro collegati, poiché l’Apostolo dice (1 Corinzi 12:8): “A uno, per mezzo dello Spirito, viene data la parola di saggezza; a un altro, quella di conoscenza, sempre per mezzo dello stesso Spirito”. Ora, saggezza e conoscenza sono considerati tra i doni dello Spirito Santo. Pertanto, i doni dello Spirito Santo vengono concessi a diverse persone e non sono collegati tra loro nello stesso individuo.
+
+Obiezione 2: Inoltre, [Agostino](/figures/augustine) afferma (De Trin. xiv, 1) che “molti fedeli non possiedono conoscenza, pur avendo fede”. Tuttavia alcune delle grazie, almeno quella della paura, accompagnano la fede. Pertanto sembra che queste grazie non siano necessariamente collegate tra loro nello stesso individuo.
+
+Obiezione 3: Inoltre, Gregorio afferma (Moralia i) che la saggezza “è di scarso valore se le manca la comprensione, e la comprensione è del tutto inutile se non si fonda sulla saggezza. Il consiglio è privo di valore quando ne manca la forza della virtù, e la virtù è molto debole se non è sostenuta dal consiglio. La conoscenza è nulla senza l’uso della pietà, e la pietà è del tutto inutile se le manca la saggezza per discernere il vero. E certamente, senza queste virtù, anche la stessa paura non è in grado di portare a compiere azioni buone”: da ciò sembra possibile possedere una di queste doti senza le altre. Pertanto, i doni dello Spirito Santo non sono tra loro collegati.
+
+Al contrario, Gregory introduce il passaggio citato sopra con la seguente osservazione: “È degno di nota, in questa festa dei figli di Giobbe, che essi si nutrissero a turno gli uni con gli altri.” I figli di Giobbe di cui parla rappresentano i doni dello Spirito Santo; pertanto, questi doni dello Spirito Santo sono tra loro collegati dal fatto che si rafforzano a vicenda.
+
+Rispondo che la vera risposta a questa domanda si trova facilmente in ciò che è già stato detto. Infatti, è stato affermato (A[3]) che, così come le facoltà dell’appetito sono ordinate dalle virtù morali per quanto riguarda il governo della ragione, allo stesso modo tutte le facoltà dell’anima sono ordinate dai doni dello Spirito Santo per quanto riguarda l’azione dello Spirito Santo stesso. Ora, lo Spirito Santo dimora in noi attraverso la carità, secondo quanto si legge in Romani 5:5: “La carità di Dio è versata nei nostri cuori dallo Spirito Santo, che ci è stato dato”. Proprio come la nostra ragione viene perfezionata dalla prudenza, così anche i doni dello Spirito Santo sono collegati tra loro attraverso la carità. Pertanto, chi possiede la carità possiede tutti i doni dello Spirito Santo; nessuno di questi doni può essere posseduto senza la carità.
+
+Risposta all’Obiezione 1: La saggezza e la conoscenza possono essere considerate, in un certo senso, come grazie gratuite, nel momento in cui l’uomo dispone di una vasta conoscenza delle cose divine e umane, al punto da poter sia istruire i credenti che confondere gli increduli. È in questo senso che l’Apostolo parla, in questo passaggio, di saggezza e conoscenza; perciò menziona esplicitamente la “parola” della saggezza e la “parola” della conoscenza. Possono essere intese anche in un altro modo, come doni dello Spirito Santo: in tal caso, saggezza e conoscenza non sono altro che perfezioni dell’intelletto umano, che lo rendono capace di recepire le ispirazioni dello Spirito Santo nella conoscenza delle cose divine e umane. Di conseguenza, è evidente che questi doni siano presenti in tutti coloro che possiedono la carità.
+
+Risposta all’Obiezione 2: Agostino parla di conoscenza nel contesto dell’esposizione del passaggio dell’Apostolo citato sopra (OBIEZIONE 1); pertanto si riferisce alla conoscenza, nel senso già spiegato, come a una grazia gratuita. Ciò è chiaro dal contesto che segue: “Infatti, c’è una differenza tra sapere soltanto ciò in cui un uomo deve credere per ottenere la vita beata, che non è altro che la vita eterna, e sapere come trasmettere questa fede alle anime devote e difenderla dagli infedeli; quest’ultimo aspetto sembra essere stato definito dall’Apostolo con il nome stesso di ‘conoscenza’.”
+
+Risposta all’Obiezione 3: Proprio come il legame tra le virtù cardinali viene dimostrato in un certo modo dal fatto che una di esse perfeziona, in qualche modo, l’altra, come detto sopra (Q[65], A[1]); allo stesso modo Gregorio vuole dimostrare il legame tra i doni dello Spirito Santo, partendo dal principio che uno di essi non può essere perfetto senza l’altro. Pertanto aveva già osservato che “ogni virtù particolare è, al massimo grado, priva di completezza, se non viene sostenuta da un’altra virtù”. Non dobbiamo quindi intendere che uno dono dello Spirito Santo possa esistere senza un altro; ma piuttosto che, se la comprensione fosse separata dalla saggezza, essa non sarebbe considerata un vero dono dello Spirito Santo; così come la temperanza, priva della giustizia, non sarebbe una vera virtù.
 
 <span class="atom-split" data-atom="087" data-title="Whether the gifts of the Holy Ghost remain in heaven?" data-chapter="Whether the gifts of the Holy Ghost remain in heaven?" data-kind="atom" data-srclang="en"></span>
 
@@ -4363,6 +5657,24 @@ there.
 Reply to Objection 3: This argument considers the gifts as to their matter. For the matter of
 the gifts will not be the works of the active life; but all the gifts will have their respective acts about
 things pertaining to the contemplative life, which is the life of heavenly bliss.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i doni dello Spirito Santo non rimangano in cielo. Infatti Gregorio afferma (Moralia, ii, 26) che, grazie ai suoi sette doni, lo “Spirito Santo istruisce l’intelletto contro tutte le tentazioni”. Ora, secondo Isaia 11:9, in cielo non ci saranno tentazioni: “Non faranno del male né uccideranno su tutta la mia montagna santa”. Pertanto, in cielo non ci saranno doni dello Spirito Santo.
+
+Obiezione 2: Inoltre, i doni dello Spirito Santo sono abitudini, come detto sopra (A[3]). Ma le abitudini non sono utili quando i loro atti risultano impossibili. Ora, alcuni di questi doni non possono essere esercitati in cielo; infatti Gregorio afferma (Moralia, I, 15) che “la comprensione, permette di penetrare nella verità ascoltata, il consiglio ci impedisce di agire imprudentemente, la forza d’animo non teme le avversità, la pietà riempie il cuore più profondo con atti di misericordia”, e tutte queste qualità sono incompatibili con lo stato celeste. Pertanto, questi doni non rimarranno nello [stato](/concepts/state) di gloria.
+
+Obiezione 3: Inoltre, alcuni doni perfezionano l’uomo nella vita contemplativa, ad esempio la saggezza e la comprensione; altri lo perfezionano nella vita attiva, ad esempio la pietà e la forza d’animo. Ora, la vita attiva termina con questi doni, come afferma Gregorio (Moralia, VI). Pertanto, non tutti i doni dello Spirito Santo si troveranno nello stato di gloria.
+
+Al contrario, Ambrogio afferma (De Spiritu Sancto I, 20): “La città di Dio, Gerusalemme celeste, non è lavata dalle acque di un fiume terrestre: essa è lo Spirito Santo, il cui flusso noi possiamo soltanto percepire in parte. Lo Spirito Santo, proveniente dalla Fonte della vita, sembra scorrere in modo particolarmente abbondante in quegli spiriti celesti, formando un torrente impetuoso di virtù celesti sette volte più intense.”
+
+Rispondo che i doni dello Spirito Santo possono essere considerati in due modi: innanzitutto, in relazione alla loro essenza; in questo senso, essi saranno perfettamente realizzati in cielo, come si può evincere dal passo di Ambrogio appena citato. La ragione di ciò è che i doni dello Spirito Santo rendono la mente umana suscettibile all’azione dello stesso Spirito Santo, e questa azione sarà particolarmente evidente in cielo, dove Dio sarà “tutto in tutto” (1 Corinzi 15:28) e l’uomo completamente sottomesso a Lui. In secondo luogo, i doni possono essere considerati anche in relazione al soggetto su cui esercitano la loro influenza; in questa prospettiva, nella vita presente questi doni agiscono su determinati aspetti della realtà umana, mentre nello stato di gloria tali aspetti non saranno più oggetto delle loro influenze. Considerati in questo modo, i doni dello Spirito Santo non rimarranno nello stato di gloria; proprio come abbiamo affermato riguardo alle virtù cardinali (Q[67], A[1]).
+
+Risposta all’Obiezione 1: Qui Gregorio parla dei doni della Santità nella misura in cui sono compatibili con lo stato attuale; è infatti così che questi doni ci proteggono dalle tentazioni malvagie. Ma nello stato di gloria, in cui ogni male sarà scomparso, saremo perfezionati nel bene grazie ai doni dello Spirito Santo.
+
+Risposta all’Obiezione 2: Gregorio, in quasi ogni dono, include qualcosa che scompare con lo stato presente e qualcosa che rimane nello stato futuro. Egli infatti afferma che “la saggezza rafforza l’intelletto con la speranza e la certezza di cose eterne”; di queste due componenti, la speranza svanisce, mentre la certezza rimane. Per quanto riguarda la comprensione, egli dice che “penetra nelle verità ascoltate, rinfrescando il cuore e dissipando le sue tenebre”; in questo caso, l’ascolto scompare, poiché “non si insegnerà più a ogni uomo, al proprio fratello” (Ger. 31:3,4); ma la capacità di comprendere rimane. Del consiglio, egli dice che “ci impedisce di essere impulsivi”, il che è necessario nella vita presente; e anche che “riempie l’intelletto di ragione”, il che è necessario anche nello stato futuro. Per quanto riguarda la forza d’animo, egli afferma che “non teme le avversità”, il che è necessario nella vita presente; inoltre, “ci presenta le risorse della fiducia”, qualcosa che rimane anche nello stato futuro. Riguardo alla conoscenza, menziona soltanto che “supera il vuoto dell’ignoranza”, il che si riferisce allo stato presente; tuttavia, quando aggiunge “nel grembo dell’intelletto”, ciò può riferirsi in senso figurato alla pienezza della conoscenza, che appartiene allo stato futuro. Per quanto riguarda la pietà, egli dice che “sazia il cuore più profondo con atti di misericordia”. Queste parole, se prese letteralmente, si riferiscono soltanto allo stato presente; tuttavia, la cura verso il prossimo, rappresentata dal “cuore più profondo”, appartiene anche allo stato futuro, quando la pietà non consiste più in atti di misericordia, ma nella condivisione della gioia. Per quanto riguarda la paura, egli dice che “opprime l’intelletto, affinché non si vanti delle cose presenti”, il che si riferisce allo stato presente; e che “lo rafforza con la speranza per il futuro”, il che appartiene anch’esso allo stato presente, in termini di speranza, ma può anche riferirsi allo stato futuro, in quanto ciò che speriamo di ottenere qui sarà realtà lì.
+
+Risposta all’Obiezione 3: Questo argomento considera i doni in relazione al loro contenuto sostanziale. Infatti, il contenuto stesso dei doni non corrisponde alle opere della vita attiva; piuttosto, tutti i doni si manifestano attraverso azioni relative a cose legate alla vita contemplativa, ovvero alla vita di beatitudine celeste.
 
 <span class="atom-split" data-atom="088" data-title="Whether the gifts are set down by Isaias in their order of dignity?" data-chapter="Whether the gifts are set down by Isaias in their order of dignity?" data-kind="atom" data-srclang="en"></span>
 
@@ -4495,6 +5807,24 @@ Consequently wisdom and understanding and the like cannot be used to evil purpos
 they are gifts of the Holy Ghost. But, lest they depart from the perfection of charity, they assist one
 another. This is what Gregory means to say.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le virtù siano più eccellenti dei doni di Dio. Infatti, [Agostino](/figures/augustine) afferma (De Trinitate, XV, 18), parlando della carità: “Nessun dono di Dio è più eccellente di questo; è soltanto esso a separare i figli del regno eterno da quelli dell’eterna dannazione. Gli altri doni vengono concessi dallo Spirito Santo, ma senza la carità non hanno alcun valore.” Poiché la carità è una virtù, ne consegue che una virtù sia più eccellente dei doni dello Spirito Santo.
+
+Obiezione 2: Inoltre, ciò che è per natura primario sembra essere anche più eccellente. Ora, le virtù precedono i doni dello Spirito Santo; infatti Gregorio afferma (Moralia, ii, 26) che “il dono dello Spirito Santo, agendo sull’intelletto, prima di tutto forma giustizia, prudenza, forza d’animo, temperanza, e successivamente conferisce all’intelletto le sette virtù principali”, cioè i doni dello Spirito Santo stesso; quindi “donare saggezza contro la follia, comprensione contro la stupidità, consiglio contro l’imprudenza, forza d’animo contro la paura, conoscenza contro l’ignoranza, pietà contro la durezza di cuore, e paura contro la mancanza di pietà”. Pertanto, le virtù sono più eccellenti dei doni dello Spirito Santo.
+
+Obiezione 3: Inoltre, Agostino afferma (De Lib. Arb. ii, 19) che “le virtù non possono essere utilizzate a scopi malvagi”. Tuttavia è possibile farne un uso negativo, poiché Gregorio dice (Moralia i, 18): “Offriamo il sacrificio della preghiera, affinché la saggezza non ci induca all’arroganza; che la comprensione, pur essendo agile nel suo operare, non si allontani dalla retta via; che il consiglio, pur moltiplicandosi, non porti alla confusione; che la forza d’animo, pur donando fiducia in noi, non ci renda imprudenti; che la conoscenza, pur essendo capace di comprendere, non gonfi l’orgoglio; che la pietà, pur evitando le deviazioni, non si distorca nel suo cammino; e che la paura, pur essendo eccessiva, non ci trascini nella disperazione”. Pertanto, le virtù sono senz’altro più eccellenti dei doni dello Spirito Santo.
+
+Al contrario, i doni vengono concessi per aiutare le virtù e per correggere determinati difetti, come dimostra il passaggio citato (OBJ 2); in questo modo, apparentemente, riescono a realizzare ciò che le virtù non sono in grado di fare. Pertanto, i doni sono più eccellenti delle virtù stesse.
+
+Rispondo che, come è stato dimostrato sopra (Q[58], A[3]; Q[62], A[1]), esistono tre tipi di virtù: alcune sono teologiche, altre intellettuali e altre morali. Le [virtù teologiche](/concepts/theological_virtues) sono quelle attraverso le quali la mente umana viene unita a Dio; le virtù intellettuali sono quelle che perfezionano la ragione stessa; le virtù morali, invece, perfezionano le facoltà dell’anima nell’obbedienza alla ragione. D’altra parte, i doni dello Spirito Santo predispongono tutte le facoltà dell’anima ad essere soggette al movimento divino. Pertanto, i doni sembrano essere paragonabili alle virtù teologiche, attraverso le quali l’uomo viene unito allo Spirito Santo, suo motore; allo stesso modo in cui le virtù morali sono paragonabili alle virtù intellettuali, che perfezionano la ragione, principio motore delle virtù morali. Poiché le virtù intellettuali sono più eccellenti delle virtù morali e le regolano, anche le virtù teologiche sono più eccellenti dei doni dello Spirito Santo e li regolano. Per questo motivo Gregorio dice (Moralia, i, 12) che “i sette doni” non raggiungono mai la perfezione del numero dieci, a meno che tutto ciò che si fa non avvenga nella fede, nella speranza e nell’amore. Tuttavia, se paragoniamo i doni alle altre virtù, intellettuali e morali, allora i doni hanno la precedenza su di esse. Poiché i doni perfezionano le facoltà dell’anima in relazione allo Spirito Santo, loro motore; mentre le virtù perfezionano, o la ragione stessa, o le altre facoltà in relazione alla ragione: ed è evidente che più elevato è il motore, più eccellente deve essere lo stato in cui si trova ciò che viene mosso. Pertanto, i doni sono più perfetti delle virtù.
+
+Risposta all’Obiezione 1: La carità è una virtù teologica; e riconosciamo che sia più perfetta delle altre doti.
+
+Risposta all’Obiezione 2: Esistono due modi in cui una cosa precede un’altra. Il primo riguarda l’ordine di perfezione e dignità: ad esempio, l’amore di Dio precede l’amore del prossimo; in questo caso, i doni spirituali precedono le virtù intellettuali e morali, ma seguono le virtù teologiche. Il secondo modo riguarda l’ordine di generazione o disposizione naturale: ad esempio, l’amore per il prossimo precede l’amore di Dio, in termini di azione concreta; in questo caso, le virtù morali e intellettuali precedono i doni spirituali, poiché l’uomo, essendo ben subordinato alla propria ragione, è predisposto a sottomettersi correttamente anche a Dio.
+
+Risposta all’Obiezione 3: Saggezza, intelletto e simili sono doni dello Spirito Santo, poiché vengono ravvivati dall’amore, che “non agisce in modo perverso” (1 Corinzi 13:4). Pertanto, saggezza, intelletto e simili non possono essere utilizzati a scopi malvagi, nella misura in cui sono doni dello Spirito Santo. Tuttavia, affinché non si allontanino dalla perfezione dell’amore, essi si aiutano a vicenda. È questo che intende dire Gregorio.
+
 <span class="atom-split" data-atom="090" data-title="OF THE BEATITUDES (FOUR ARTICLES)" data-chapter="OF THE BEATITUDES (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the beatitudes: under which head there are four points of inquiry:
@@ -4502,6 +5832,14 @@ We must now consider the beatitudes: under which head there are four points of i
 (2) Of the rewards of the beatitudes: whether they refer to this life?
 (3) Of the number of the beatitudes;
 (4) Of the fittingness of the rewards ascribed to the beatitudes.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare le beatitudini: in questa categoria esistono quattro punti di indagine principali:
+(1) Se le beatitudini siano diverse dai doni e dalle virtù;
+(2) Riguardo alle ricompense legate alle beatitudini: se queste riguardino la vita presente;
+(3) Quanto al numero delle beatitudini stesse;
+(4) Quanto alla congruenza delle ricompense attribuite alle beatitudini.
 
 <span class="atom-split" data-atom="091" data-title="Whether the beatitudes differ from the virtues and gifts?" data-chapter="Whether the beatitudes differ from the virtues and gifts?" data-kind="atom" data-srclang="en"></span>
 
@@ -4548,6 +5886,24 @@ Reply to Objection 3: Meekness is to be taken as denoting the act of meekness: a
 applies to justice and mercy. And though these might seem to be virtues, they are nevertheless
 ascribed to gifts, because the gifts perfect man in all matters wherein the virtues perfect him, as
 stated above (Q[68], A[2]).
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le beatitudini non siano diverse dalle virtù e dai doni dello Spirito Santo. Infatti, [Agostino](/figures/augustine) (De Serm. Dom. in Monte i, 4) attribuisce le beatitudini menzionate da Matteo (v. 3 e seguenti) ai doni dello Spirito Santo; inoltre Ambrogio, nel suo commento su Luca 6:20 e seguenti, assegna quelle beatitudini alle quattro virtù cardinali. Pertanto, le beatitudini non differiscono dalle virtù e dai doni dello Spirito Santo.
+
+Obiezione 2: Inoltre, esistono soltanto due regole della volontà umana: la ragione e la [legge eterna](/concepts/eternal_law), come già detto sopra (Q[19], A[3]; Q[21], A[1]). Le virtù perfezionano l’uomo in relazione alla ragione; mentre i doni lo perfezionano in relazione alla legge eterna dello Spirito Santo, come risulta chiaramente da quanto detto (Q[68], AA[1],3, ecc.). Pertanto non può esistere nulla altro che riguardi la rettitudine della volontà umana, al di fuori delle virtù e dei doni. Di conseguenza, le beatitudini non differiscono da essi.
+
+Obiezione 3: Inoltre, tra le beatitudini sono incluse la umiltà, la giustizia e la misericordia, che vengono considerate virtù. Pertanto, le beatitudini non differiscono dalle virtù e dai doni spirituali.
+
+Al contrario, alcune cose sono incluse tra le beatitudini e non sono né virtù né doni, ad esempio povertà, lutto e pace. Pertanto, le beatitudini si distinguono dalle virtù e dai doni.
+
+Rispondo che, come già detto sopra (Q[2], A[7]; Q[3], A[1]), la felicità è lo scopo finale della vita umana. Si dice infatti che una persona possieda già tale scopo quando spera di ottenerlo; per questo il Filosofo afferma nell’Etica (I, 9) che “i bambini sono considerati felici perché pieni di speranza”, e l’Apostolo scrive in Romani 8:24: “Siamo salvati per la speranza”. Inoltre, speriamo di raggiungere uno scopo perché siamo spinti verso di esso e ci avviciniamo ad esso; questo implica necessariamente l’azione. Un uomo si avvicina allo scopo felice attraverso le opere di virtù, e soprattutto attraverso le opere dei doni dello Spirito Santo, se parliamo della felicità eterna, per la quale la nostra ragione non è sufficiente: abbiamo infatti bisogno di essere spinti dallo Spirito Santo e perfezionati con i suoi doni affinché possiamo obbedirgli e seguirlo. Pertanto, le beatitudini differiscono dalle virtù e dai doni non in quanto abitudini, ma come azioni derivanti da tali abitudini.
+
+Risposta all’Obiezione 1: Agostino e Ambrogio attribuiscono le beatitudini ai doni e alle virtù, così come gli atti vengono ricondotti agli abiti. Tuttavia i doni sono di natura superiore rispetto alle virtù cardinali, come già affermato in precedenza (Q[68], A[8]). Per questo motivo Ambrogio, spiegando le beatitudini rivolte alla folla comune, le attribuisce alle virtù cardinali; mentre Agostino, parlando delle beatitudini comunicate ai discepoli sulla montagna, cioè a coloro che erano più perfetti, le attribuisce ai doni dello Spirito Santo.
+
+Risposta all’Obiezione 2: Questo argomento dimostra che nessun altro tipo di abitudine, al di fuori delle virtù e dei doni naturali, è in grado di correggere il comportamento umano.
+
+Risposta all’Obiezione 3: La umiltà va intesa come l’atto stesso di essere umili; lo stesso vale per la giustizia e la misericordia. Anche se queste potrebbero sembrare virtù, vengono comunque considerate doni divini, poiché questi doni perfezionano l’uomo in tutte quelle aree in cui le virtù lo perfezionano, come già detto sopra (Q[68], A[2]).
 
 <span class="atom-split" data-atom="092" data-title="Whether the rewards assigned to the beatitudes refer to this life?" data-chapter="Whether the rewards assigned to the beatitudes refer to this life?" data-kind="atom" data-srclang="en"></span>
 
@@ -4617,6 +5973,24 @@ in this life, men "obtain" God's "Mercy." Again, the eye being cleansed by the g
 we can, so to speak, "see God." Likewise, in this life, those who are the "peacemakers" of their
 own movements, approach to likeness to God, and are called "the children of God." Nevertheless
 these things will be more perfectly fulfilled in heaven.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le ricompense attribuite alle beatitudini non si riferiscano a questa vita. Infatti, alcuni vengono definiti felici perché sperano in una ricompensa, come detto sopra (A[1]). Ora, l’oggetto della speranza è la felicità futura; pertanto queste ricompense si riferiscono alla vita futura.
+
+Obiezione 2: Inoltre, alcune punizioni sono stabilite esattamente per contrastare le beatitudini, come si legge in Luca 6:25: “Guai a voi che siete sazi, perché patirete la fame; guai a voi che ridete ora, perché piangerete e gemerete”. Ora, queste punizioni non riguardano questa vita, poiché spesso le persone non vengono punite in questa vita stessa, come si legge in Giobbe 21:13: “Trascorrono i loro giorni nella ricchezza”. Pertanto, nemmeno i premi delle beatitudini si riferiscono a questa vita.
+
+Obiezione 3: Inoltre, il regno dei cieli, descritto come ricompensa della povertà, rappresenta la felicità celeste, come afferma [Agostino](/figures/augustine) (De Civ. Dei xix) [*Cfr. De Serm. Dom. in Monte i, 1]. Ancora, una piena e abbondante realizzazione delle promesse divine può essere ottenuta soltanto nella vita futura, secondo il Salmo 16:15: “Sarò saziato quando apparirà la tua gloria”. Infine, è solo nella vita futura che vedremo Dio e che la nostra divina filiazione diventerà manifesta, come dice 1 Giovanni 3:2: “Ora siamo figli di Dio; ma non è ancora manifesto quale sarà la nostra forma futura. Sappiamo però che, quando Egli apparirà, saremo simili a Lui, perché lo vedremo così com’è”. Pertanto, queste ricompense riguardano esclusivamente la vita futura.
+
+Al contrario, Agostino afferma (De Serm. Dom. in Monte i, 4): “Queste promesse possono essere adempiute in questa vita, poiché crediamo che siano state adempiute negli apostoli. Infatti, nessuna parola può esprimere quel completo cambiamento, fino al punto di assomigliare a un angelo, che ci è promesso dopo questa vita.”
+
+Rispondo che gli Interpreti delle Scritture Sacre non sono d’accordo riguardo a queste ricompense. Alcuni, seguendo Ambrogio (Super Luc. v), ritengono che tutte queste ricompense si riferiscano alla vita futura; mentre Agostino (De Serm. Dom. in Monte i, 4) le considera relative alla vita presente; e Crisostomo nelle sue omelie (In Matth. xv) afferma che alcune riguardino il futuro, altre la vita presente. Per chiarire la questione, dobbiamo notare che la speranza di una felicità futura può esistere in noi per due motivi: innanzitutto, perché siamo preparati o predisposti a ricevere tale felicità, e questo avviene attraverso i meriti; in secondo luogo, perché nei santi, anche in questa vita, esiste una sorta di inizio imperfetto di quella felicità futura. Infatti, è una cosa sperare che un albero produca frutti quando appaiono le sue foglie, e un’altra cosa vederne già i primi segni. Pertanto, quelle cose che sono descritte come meriti nelle beatitudini rappresentano una sorta di preparazione o predisposizione alla felicità, sia essa perfetta che imperfetta; mentre quelle considerate ricompense possono essere la felicità stessa, nel senso di quella futura, oppure un suo inizio, come quello riscontrabile nelle persone che hanno raggiunto la perfezione, e in questo caso si riferiscono alla vita presente. Poiché quando una persona inizia a progredire negli atti delle virtù e dei doni divini, si può sperare che raggiunga la perfezione, sia come viaggiatore lungo il cammino verso il regno celeste, sia come cittadino di quel regno.
+
+Risposta all’Obiezione 1: La speranza considera la felicità futura come fine ultimo; tuttavia, può anche ritenere che l’aiuto della grazia sia ciò che conduce a tale fine, secondo il Salmo 27:7: “In Lui il mio cuore ha riposto la sua speranza e ho trovato aiuto”.
+
+Risposta all’Obiezione 2: Sebbene a volte i malvagi non subiscano punizioni materiali in questa vita, soffrono comunque punizioni spirituali. Per questo Agostino afferma (Confessioni, I): “Tu hai decretato, ed è così, Signore, che l’animo disordinato debba essere la propria stessa punizione”. Anche il Filosofo, parlando dei malvagi (Etica, IX, 4), dice che “la loro anima è divisa contro se stessa, una parte la spinge in un senso, l’altra in un altro”; e successivamente conclude: “Se la malvagità rende un uomo così miserabile, egli dovrebbe fare di tutto per evitare il vizio”. Allo stesso modo, anche se i buoni a volte non ricevono ricompense materiali in questa vita, non mancano mai ricompense spirituali, proprio anche in questa vita, secondo Matteo 19:29 e Marco 10:30: “Riceverete cento volte di più, anche in questo tempo”.
+
+Risposta all’Obiezione 3: Tutti questi doni saranno pienamente realizzati nella vita futura; ma nel frattempo, in un certo senso, già in questa vita hanno inizio. Poiché il “regno dei cieli”, come afferma Agostino (De Civ. Dei xiv; cfr. De Serm. Dom. in Monte, i, 1), può indicare l’inizio della saggezza perfetta, nel senso in cui lo “spirito” comincia ad dominare nell’uomo. La “possessione della terra” simboleggia le emozioni dell’anima ben ordinate, che si appoggiano sulla solida base dell’eredità eterna, rappresentata dalla “terra”. In questa vita riceviamo il Santo Spirito, chiamato il “Consolatore”, e quindi troviamo conforto. Anche in questa vita possediamo quella “vera nutrizione” di cui il Signore ha detto: “La mia carne è per compiere la volontà di Colui che mi ha mandato”. Inoltre, in questa vita gli uomini ottengono la “misericordia” di Dio; e quando l’occhio viene purificato dal dono della comprensione, possiamo, per così dire, “vedere Dio”. Allo stesso modo, coloro che sono i “pacificatori” nelle proprie azioni si avvicinano alla somiglianza con Dio e vengono chiamati “figli di Dio”. Tuttavia, tutte queste cose saranno realizzate in modo più perfetto in cielo.
 
 <span class="atom-split" data-atom="093" data-title="Whether the beatitudes are suitably enumerated? (parte 1)" data-chapter="Whether the beatitudes are suitably enumerated?" data-kind="atom" data-srclang="en"></span>
 
@@ -4720,6 +6094,33 @@ my counsel be acceptable to the king [Vulg: to thee, O king]: and redeem thou th
 and thy iniquities with works of mercy to the poor." It is thus that [Augustine](/figures/augustine) assigns them (De
 Serm. Dom. in Monte i, 4).
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che l’elenco delle beatitudini sia inadeguato. Infatti, le beatitudini sono associate ai doni, come detto sopra (A[1], ad 1). Tuttavia alcuni di questi doni, ovvero la saggezza e la comprensione, appartengono alla vita contemplativa; eppure nessuna beatitudine è associata all’atto stesso della contemplazione, poiché tutte sono legate alle attività della vita attiva. Pertanto, l’elenco delle beatitudini risulta incompleto.
+
+Obiezione 2: Inoltre, non solo i doni esecutivi appartengono alla vita attiva, ma anche alcuni dei doni direttivi, ad esempio la conoscenza e il consiglio; tuttavia nessuna delle beatitudini sembra essere direttamente collegata agli atti di conoscenza o di consiglio. Pertanto, le beatitudini non sono sufficientemente indicate come legate a tali atti.
+
+Obiezione 3: Inoltre, tra i doni esecutivi legati alla vita attiva, si dice che la paura sia associata alla povertà, mentre la pietà sembra corrispondere alla beatitudine della misericordia; tuttavia nulla viene menzionato in modo diretto in relazione alla giustizia. Pertanto, l’elenco delle beatitudini risulta incompleto.
+
+Obiezione 4: Inoltre, molte altre beatitudini vengono menzionate nelle Scritture Sacre. Così si legge in (Job 5:17): “Beato l’uomo che Dio corregge”; e in (Salmo 1:1): “Beato colui che non segue i consigli degli empi”; e in (Proverbi 3:13): “Beato l’uomo che trova la sapienza”. Pertanto, l’elenco delle beatitudini è incompleto.
+
+Obiezione 5: D’altra parte, sembra che vengano menzionati troppi elementi. Infatti, ci sono sette doni dello Spirito Santo, mentre sono indicate otto beatezze.
+
+Obiezione 6: Inoltre, nel sesto capitolo di Luca vengono menzionate soltanto quattro beatitudini; pertanto le sette o otto menzionate in Matteo 5 sono troppo numerose.
+
+Rispondo che queste beatitudini sono elencate in modo assolutamente appropriato. Per rendere ciò evidente, è necessario osservare che la beatitudine è stata considerata come derivante da una di tre cose: alcuni l’hanno attribuita alla vita sensuale, altri a quella attiva, e ancora altri a quella contemplativa [*Vedi Q[3. Ora, queste tre forme di felicità hanno rapporti diversi con la beatitudine futura, verso la quale si dice che tendiamo quando siamo felici. La felicità sensuale, essendo falsa e contraria alla ragione, rappresenta un ostacolo alla beatitudine futura; mentre la felicità della vita attiva costituisce una disposizione necessaria per raggiungerla; e la felicità contemplativa, se perfetta, è proprio l’essenza stessa della beatitudine futura; in caso contrario, ne rappresenta soltanto l’inizio.  
+Pertanto, il nostro Signore indicò innanzitutto alcune beatitudini come capaci di eliminare gli ostacoli derivanti dalla vita sensuale. La vita di piaceri, infatti, consiste in due aspetti: da un lato, nell’abbondanza di beni esterni, sia ricchezze che onori; dall’altro, nel seguire i desideri dei propri istinti, sia quelli irascibili che quelli concupiscenti. Per contrastare il primo aspetto, è necessario una virtù che permetta di utilizzare tali beni con moderazione, o addirittura di disprezzarli del tutto; da qui la prima beatitudine: “Beati i poveri di spirito”, che può riferirsi sia al disprezzo per le ricchezze che a quello per gli onori, derivanti dall’umiltà. Per contrastare il secondo aspetto, è necessaria una virtù che permetta di controllare i propri istinti entro i limiti stabiliti dalla ragione; da qui la seconda beatitudine: “Beati i miti”. Per contrastare il terzo aspetto, è necessario una virtù che permetta di utilizzare tali desideri con moderazione, o addirittura di abbandonarli del tutto quando necessario; da qui la terza beatitudine: “Beati coloro che piangono”.  
+La vita attiva consiste principalmente nelle relazioni con il prossimo, sia attraverso doveri legati alla giustizia sia attraverso gesti spontanei di generosità. Per adempiere ai doveri legati alla giustizia, è necessaria una virtù che ci induca a non rifiutare di compiere il nostro dovere verso il prossimo; per essere più generosi, è necessaria un’altra virtù che ci spinga ad agire con entusiasmo e desiderio di giustizia; da qui la quarta beatitudine: “Beati coloro che hanno fame e sete di giustizia”. Per quanto riguarda i gesti spontanei di generosità, è necessaria una virtù che ci induca a donare secondo le esigenze altrui, con rispetto per Dio; da qui la quinta beatitudine: “Beati coloro che sono misericordiosi”.
+“14:12,13”: “Quando prepari un pasto o una cena, non chiamare i tuoi amici né i tuoi fratelli, ma piuttosto i poveri, i disabili”, ecc.; ciò rappresenta propriamente l’atto di mostrare misericordia; da qui deriva la quinta beatitudine: “Beati coloro che hanno misericordia”.  
+Quelle cose che riguardano la vita contemplativa sono o la stessa beatitudine finale, oppure un suo inizio; per questo vengono incluse tra le beatitudini, non come meriti, ma come ricompense. Tuttavia anche gli effetti della vita attiva, che preparano l’uomo alla vita contemplativa, sono inclusi nelle beatitudini. Gli effetti della vita attiva, in relazione a quelle virtù e doni grazie ai quali l’uomo si perfeziona in se stesso, consistono nella purificazione del proprio cuore, affinché non venga contaminato dalle passioni; da qui deriva la sesta beatitudine: “Beati coloro che hanno il cuore puro”. Per quanto riguarda invece le virtù e i doni grazie ai quali l’uomo si perfeziona nei confronti del prossimo, l’effetto della vita attiva è la pace, secondo Isaia 32:17: “L’opera della giustizia è pace”; da qui deriva la settima beatitudine: “Beati coloro che promuovono la pace”.
+
+Risposta all’Obiezione 1: Gli atti dei doni che appartengono alla vita attiva sono indicati nei meriti; mentre gli atti dei doni relativi alla vita contemplativa sono indicati nelle ricompense, per la ragione sopra espressa. Infatti, “vedere Dio” corrisponde al dono dell’intelligenza; e essere simili a Dio, diventando “figli di Dio”, corrisponde al dono della saggezza.
+
+Risposta all’Obiezione 2: Nelle cose relative alla vita attiva, la conoscenza non viene cercata per se stessa, ma al fine di poter agire, come afferma anche il Filosofo (Etica, ii, 2). Pertanto, poiché la beatitudine implica qualcosa di assoluto, le beatitudini non includono gli atti stessi di quei doni che guidano l’uomo nella vita attiva; cioè, gli atti che derivano direttamente da tali doni – ad esempio, consigliare è l’atto legato al dono del consiglio, giudicare è l’atto legato al dono della conoscenza. D’altra parte, le beatitudini includono invece quegli atti pratici che sono direzionati da tali doni, come il pianto nel caso del dono della conoscenza, e la misericordia nel caso del dono del consiglio.
+
+Risposta all’Obiezione 3: Nell’applicare le beatitudini ai doni spirituali, possiamo considerare due aspetti. Il primo riguarda la somiglianza sostanziale tra queste beatitudini e i doni corrispondenti; in questo modo, le prime cinque beatitudini possono essere attribuite al dono della conoscenza e del consiglio, in quanto principi direttivi per l’agire umano; mentre le altre beatitudini devono essere distribuite tra i doni esecutivi. Ad esempio, la fame e la sete di giustizia, così come la misericordia, corrispondono al dono della pietà, che perfeziona l’uomo nelle sue relazioni con gli altri; la umiltà corrisponde al dono della forza d’animo, poiché Ambrogio afferma in riferimento a Luca 6:22: “Il compito della forza d’animo è sconfiggere la collera e contenere l’indignazione”; la povertà e il lutto corrispondono al dono della paura, che permette all’uomo di allontanarsi dai desideri e dai piaceri mondani.  
+In secondo luogo, possiamo considerare i motivi che stanno alla base delle beatitudini; in questo modo, alcune di esse dovranno essere attribuite in modo diverso. Ad esempio, il motivo principale dell’umiltà è la reverenza per Dio, che appartiene al dono della pietà; il motivo principale del lutto è la conoscenza, che permette all’uomo di riconoscere i propri difetti e quelli delle cose mondane, come afferma l’Ecclesiaste 1:18: “Chi aggiunge conoscenza, aggiunge anche dolore”. Il motivo principale della fame di giustizia è la forza d’animo dell’anima; mentre il motivo principale della misericordia è il consiglio di Dio, come si legge in Daniele 4:24: “Che il mio consiglio sia gradito al re. Redime i tuoi peccati con le elemosine e le tue iniquità con opere di misericordia verso i poveri”. È così che Agostino le attribuisce nel suo trattato De Serm. Dom. in Monte I, 4.
+
 <span class="atom-split" data-atom="094" data-title="Whether the beatitudes are suitably enumerated? (parte 2)" data-chapter="Whether the beatitudes are suitably enumerated?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: All the beatitudes mentioned in Holy Writ must be reduced to these,
@@ -4747,6 +6148,14 @@ and this he excludes, saying, fourthly: "Blessed shall you be, when men shall ha
 Ambrose says on Lk. 6:20, "poverty corresponds to temperance, which is unmoved by delights;
 hunger, to justice, since who hungers is compassionate and, through compassion gives; mourning,
 to prudence, which deplores perishable things; endurance of men's hatred belongs to fortitude."
+
+<span class="qlang-split" data-lang="it"></span>
+
+Risposta all’Obiezione 4: Tutte le beatitudini menzionate nelle Scritture Sacre devono essere ricondotte a queste, sia per quanto riguarda i meriti che le ricompense; poiché tutte appartengono o alla vita attiva o a quella contemplativa. Pertanto, quando leggiamo “Beato colui che il Signore corregge”, dobbiamo riferirci alla beatitudine del lutto; quando leggiamo “Beato colui che non segue i consigli degli empi”, dobbiamo riferirci alla purezza di cuore; e quando leggiamo “Beato colui che trova la sapienza”, ciò si riferisce alla ricompensa della settima beatitudine. Lo stesso vale per tutte le altre beatitudini che possano essere addotte.
+
+Risposta all’Obiezione 5: L’ottava beatitudine rappresenta una conferma e una dichiarazione di tutte quelle precedenti. Poiché il fatto stesso che un uomo sia confermato nella povertà d’animo, nella umiltà e nelle altre virtù corrispondenti implica che nessuna persecuzione possa indurlo a rinunciarvi. Pertanto, l’ottava beatitudine corrisponde, in qualche modo, a tutte le sette precedenti.
+
+Risposta all’Obiezione 6: Luca descrive il sermone del Signore rivolto alla folla (Lc. 6:17). Pertanto elenca le beatitudini in base alle capacità della folla, che conosce solo una felicità legata ai piaceri temporali e terreni; attraverso queste quattro beatitudini, il Signore esclude quindi quattro elementi che sembrerebbero appartenere a tale tipo di felicità. Il primo di questi è l’abbondanza di beni materiali, che viene esclusa con le parole: “Beati voi poveri”. Il secondo è che l’uomo goda di buone condizioni materiali, in termini di cibo e bevande; anche questo viene escluso con la frase: “Beati voi che avete fame”. Il terzo è che l’uomo sia colmo di gioia nel cuore; anche questa beatitudine viene scartata con le parole: “Beati voi che piangete ora”. Il quarto elemento è il favore esterno degli uomini; anch’esso viene escluso con la frase: “Beati sarete quando gli uomini vi odieranno”. Come afferma Ambrogio riguardo al versetto Lc. 6:20, “la povertà corrisponde alla temperanza, che non si lascia influenzare dai piaceri; la fame, alla giustizia, poiché chi ha fame è compassionevole e dona attraverso la compassione; il pianto, alla prudenza, che deplora le cose effimere; la capacità di sopportare l’odio altrui appartiene alla forza d’animo”.
 
 <span class="atom-split" data-atom="095" data-title="Whether the rewards of the beatitudes are suitably enumerated?" data-chapter="Whether the rewards of the beatitudes are suitably enumerated?" data-kind="atom" data-srclang="en"></span>
 
@@ -4815,6 +6224,24 @@ able to desire. And yet more is it to see God, even as he is a greater man who n
 court, but also sees the king's countenance. Lastly, the highest place in the royal palace belongs to
 the king's son.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che le ricompense delle beatitudini siano elencate in modo inappropriato. Poiché il regno dei cieli, che è la vita eterna, contiene tutte le cose buone, una volta concesso il regno dei cieli, non dovrebbero essere menzionate altre ricompense.
+
+Obiezione 2: Inoltre, il regno dei cieli viene indicato come ricompensa sia per la prima che per l’ottava [beatitudine](/positions/beatitude). Pertanto, per lo stesso motivo, dovrebbe essere stato assegnato a tutti.
+
+Obiezione 3: Inoltre, le beatitudini sono disposte in ordine crescente, come osserva [Agostino](/figures/augustine) (De Serm. Dom. in Monte i, 4); mentre le ricompense sembrano essere elencate in ordine decrescente, poiché “possedere la terra” è considerato meno importante di “possedere il regno dei cieli”. Pertanto, questa disposizione delle ricompense risulta inappropriata.
+
+Al contrario, c’è l’autorità del nostro Signore che ha proposto queste ricompense.
+
+Rispondo che queste ricompense vengono assegnate nel modo più appropriato, tenendo conto della natura delle beatitudini e del loro rapporto con i tre tipi di felicità menzionati sopra (A[3]). Le prime tre beatitudini riguardano il distacco dell’uomo da quelle cose in cui consiste la felicità sensuale: una felicità che l’uomo desidera cercando l’oggetto del proprio desiderio naturale, non dove dovrebbe cercarlo, cioè in Dio, ma in cose temporali e effimere. Pertanto, le ricompense relative a queste prime tre beatitudini corrispondono alle cose che alcuni uomini cercano di trovare nella felicità terrena. Gli uomini infatti cercano nelle cose esterne, come ricchezze e onori, una certa eccellenza e abbondanza; entrambe queste caratteristiche sono presenti nel regno dei cieli, attraverso il quale l’uomo può raggiungere un’autentica eccellenza e abbondanza di beni in Dio. Per questo motivo, il Signore ha promesso il regno dei cieli a coloro che sono poveri di spirito. Inoltre, gli uomini crudeli e spietati cercano di distruggere i loro nemici attraverso liti e lotte, al fine di garantirsi la propria sicurezza; per questo motivo, il Signore ha promesso ai mansueti una possesso sicuro e pacifico della terra dei viventi, simbolo della realtà concreta dei beni eterni. Inoltre, gli uomini cercano consolazione nelle fatiche della vita presente attraverso i piaceri e le passioni del mondo; per questo motivo, il Signore ha promesso conforto a coloro che piangono. Le altre due beatitudini appartengono alle azioni legate alla felicità attiva, cioè alle virtù che guidano l’uomo nelle sue relazioni con il prossimo; tuttavia, alcuni uomini si allontanano da queste azioni a causa di un amore eccessivo per il proprio bene. Per questo motivo, il Signore assegna ricompense a coloro che si allontanano da tali comportamenti, in base ai motivi che li spingono a farlo. Ci sono infatti persone che evitano di compiere atti di giustizia e prendono ciò che non è loro, al fine di accumulare beni temporali; per questo motivo, il Signore ha promesso a coloro che anelano alla giustizia che ne avranno abbondanza. Altri, invece, si allontanano dalle azioni di misericordia per non essere costretti a occuparsi delle sofferenze altrui; per questo motivo, il Signore ha promesso ai misericordiosi che riceveranno loro stessi misericordia e saranno liberati da ogni sofferenza. Le ultime due beatitudini appartengono alla felicità contemplativa; pertanto, le ricompense assegnate corrispondono alle disposizioni interiori necessarie per raggiungerle. La purezza dello sguardo, ad esempio, permette di vedere chiaramente; per questo motivo, a coloro che hanno un cuore puro è promesso di vedere Dio. Inoltre, cercare la pace dentro di sé o tra gli altri dimostra che una persona segue Dio, il quale è il Dio dell’unità e della pace; per questo motivo, come ricompensa, viene promessa la gloria della divina filiazione, che consiste in un’unione perfetta con Dio attraverso la saggezza suprema.
+
+Risposta all’Obiezione 1: Come afferma Crisostomo (Hom. XV in Matth.), tutte queste ricompense sono, in realtà, una sola, ovvero la felicità eterna, che l’intelletto umano non è in grado di comprendere appieno. Pertanto, è stato necessario descriverla attraverso varie benedizioni conosciute a noi, rispettando al contempo una corrispondenza adeguata tra tali ricompense e i meriti per cui vengono assegnate.
+
+Risposta all’Obiezione 2: Proprio come l’ottava beatitudine rappresenta una conferma di tutte le altre beatitudini, essa merita anch’essa tutti i premi connessi a esse. Pertanto, ciò che viene attribuito alle altre beatitudini può essere considerato conseguenza della sua stessa natura. Altrimenti, secondo Ambrogio (Super Luc., V), il regno dei cieli è promesso a coloro che sono poveri di spirito, in relazione alla gloria dell’anima; mentre a coloro che subiscono persecuzioni nel corpo, esso viene promesso in relazione alla gloria del corpo stesso.
+
+Risposta all’Obiezione 3: Anche i premi sono disposti in ordine crescente. Infatti, possedere la terra del regno celeste è molto di più che semplicemente averla: molte cose, infatti, esistono senza che le si possieda in modo stabile e pacifico. Inoltre, essere consolati nel regno celeste è molto di più che semplicemente possederlo, poiché la possessione di molte cose è accompagnata da dolore. Ancora, ricevere piena soddisfazione è molto di più che semplicemente essere consolati, poiché la piena soddisfazione implica abbondanza di conforto. La misericordia, inoltre, supera la sazietà, poiché attraverso di essa l’uomo riceve qualcosa di più di ciò che merita o è in grado di desiderare. E ancora di più importante è vedere Dio stesso, poiché Egli è colui che non solo partecipa ai banchetti reali, ma anche contempla il volto del re. Infine, il posto più alto nel palazzo reale appartiene al figlio del re.
+
 <span class="atom-split" data-atom="096" data-title="OF THE FRUITS OF THE HOLY GHOST (FOUR ARTICLES)" data-chapter="OF THE FRUITS OF THE HOLY GHOST (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the Fruits of the Holy Ghost: under which head there are four points of
@@ -4823,6 +6250,14 @@ inquiry:
 (2) Whether they differ from the beatitudes?
 (3) Of their number?
 (4) Of their opposition to the works of the flesh.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dobbiamo ora considerare i Frutti dello Spirito Santo: in questa categoria vi sono quattro punti da esaminare:  
+(1) Se i frutti dello Spirito Santo siano atti concreti?  
+(2) Se differiscano dalle beatitudini?  
+(3) Quanto al loro numero.  
+(4) E se siano in opposizione alle opere della carne.
 
 <span class="atom-split" data-atom="097" data-title="Whether the fruits of the Holy Ghost which the Apostle enumerates (Gal. 5) are acts?" data-chapter="Whether the fruits of the Holy Ghost which the Apostle enumerates (Gal. 5) are acts?" data-kind="atom" data-srclang="en"></span>
 
@@ -4884,6 +6319,24 @@ Augustine writes (Tract. xl in Joan.): "Faith is to believe what thou seest not"
 iii, 10): "Charity is the movement of the soul in loving God and our neighbor." It is thus that the
 names of the virtues are used in reckoning the fruits.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i frutti dello Spirito Santo, elencati dall’Apostolo (Galati 5:22,23), non siano atti concreti. Infatti, ciò che produce frutto dovrebbe essere considerato a sua volta un frutto; altrimenti il discorso continuerebbe all’infinito. Ma le nostre azioni producono effetti concreti: è scritto infatti (Sapienza 3:15): “Il frutto del buon lavoro è glorioso”, e (Giovanni 4:36): “Chi raccoglie riceve il suo compenso e raccolge frutti per la vita eterna”. Pertanto, le nostre azioni non dovrebbero essere definite frutti dello Spirito Santo.
+
+Obiezione 2: Inoltre, come afferma [Agostino](/figures/augustine) (De Trinitate, x, 10), “godiamo delle cose che conosciamo quando la nostra volontà si riposa nella gioia che esse ci procurano”. Tuttavia, la nostra volontà non dovrebbe riposare sulle nostre azioni per il semplice fatto che le compioniamo. Pertanto, le nostre azioni non dovrebbero essere chiamate “frutti”.
+
+Obiezione 3: Inoltre, tra i frutti dello Spirito Santo, l’Apostolo menziona alcune virtù, ovvero carità, umiltà, fede e castità. Ora, le virtù non sono azioni, ma abitudini, come già affermato in precedenza (Q[55], A[1]). Pertanto, anche i frutti dello Spirito Santo non sono azioni.
+
+Al contrario, è scritto (Matteo 12:33): “Dal frutto si conosce l’albero”; in altre parole, l’uomo viene conosciuto attraverso le sue azioni, come spiegano gli uomini santi. Per questo motivo le azioni umane vengono chiamate “frutti”.
+
+Rispondo che la parola “frutto” è stata trasferita dal mondo materiale a quello spirituale. Nel mondo materiale, il frutto è il prodotto di una pianta quando questa raggiunge la perfezione e possiede una certa dolcezza. Il concetto di frutto ha quindi un doppio significato: da un lato, riguarda ciò che l’uomo produce; dall’altro, ciò che egli raccoglie. Tuttavia, non tutto ciò che l’uomo raccoglie può essere considerato un frutto; solo ciò che rimane e procura piacere lo è veramente. L’uomo possiede infatti campi e alberi, ma questi non vengono definiti frutti; il vero frutto dell’uomo è ciò che egli intende trarre da essi per il proprio godimento. Se invece intendiamo con “frutto” il prodotto stesso dell’azione umana, allora anche le azioni umane possono essere considerate frutti: l’azione, infatti, è il risultato delle nostre scelte e procura piacere se sono appropriate a noi. Se l’azione umana deriva dalla ragione, si dice che sia il “frutto” della ragione; se invece deriva da una forza superiore, ovvero lo Spirito Santo, allora si dice che sia il “frutto” dello Spirito Santo, come un seme divino. Come recita Giovanni 3:9: “Chi è nato da Dio non pecca, perché il suo seme rimane in lui”.
+
+Risposta all’Obiezione 1: Poiché il frutto è qualcosa di ultimo e definitivo, nulla impedisce a un frutto di produrre un altro frutto, proprio come un’estremità è subordinata all’altra. E così anche le nostre opere, nella misura in cui sono prodotte dallo Spirito Santo che opera in noi, sono considerabili frutti; tuttavia, nella misura in cui mirano al fine ultimo che è la vita eterna, dovrebbero essere piuttosto definite “fiori”. Da qui deriva la scritta dell’Ecclesiaste (24:23): “I miei fiori sono i frutti dell’onore e della ricchezza”.
+
+Risposta all’Obiezione 2: Quando si dice che la volontà si compiace di qualcosa per il suo stesso valore intrinseco, ciò può essere inteso in due modi. Primo, nel senso che l’espressione “per il suo stesso valore” indichi la [causa finale](/concepts/four_causes); in questo caso, l’uomo non si compiace di nulla per il suo valore intrinseco, se non del fine ultimo che tale cosa rappresenta. Secondo, nel senso che tale espressione indichi la [causa formale](/concepts/four_causes); in questo caso, l’uomo può compiacersi di qualsiasi cosa sia piacevole per la sua natura intrinseca. È evidente quindi che un uomo malato si compiace della salute non per il suo valore intrinseco, ma come di un fine ultimo; si compiace di un medicinale efficace non perché rappresenti tale fine, ma perché è gradevole al palato; mentre si compiace di un medicinale inefficace assolutamente non per il suo valore intrinseco, ma solo in vista di qualche altro beneficio che esso possa apportare. Pertanto, dobbiamo dire che l’uomo deve compiacersi di Dio per il suo stesso valore, in quanto fine ultimo della sua esistenza, e delle azioni virtuose non come tali, ma per il loro valore intrinseco che è piacevole al virtuoso. Da qui deriva la dichiarazione di Ambrogio (De Paradiso, xiii): le azioni virtuose vengono chiamate “frutti” perché “rinfrescano coloro che le compiono con una gioia sacra e autentica”.
+
+Risposta all’Obiezione 3: A volte i [nomi](/positions/nominalism) delle virtù vengono applicati alle loro azioni; ad esempio, Agostino scrive nel “Trattato XL in Giovanni” che “la fede consiste nel credere in ciò che non si vede”, e nel “De Doctrina Christiana” III, 10 che “la carità è l’atto con cui l’anima ama Dio e il prossimo”. È proprio in questo modo che i nomi delle virtù vengono utilizzati per indicarne i frutti.
+
 <span class="atom-split" data-atom="098" data-title="Whether the fruits differ from the beatitudes?" data-chapter="Whether the fruits differ from the beatitudes?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the fruits do not differ from the beatitudes. For the beatitudes
@@ -4918,6 +6371,24 @@ differs from future beatitude. On the other hand the fruits of the present life 
 and perfect; wherefore not all the fruits are beatitudes.
 
 Reply to Objection 3: More is required for a beatitude than for a fruit, as stated.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i frutti non differiscano dalle beatitudini. Infatti, le beatitudini sono associate ai doni, come detto sopra (Q[69], A[1], ad 1). Ma i doni perfezionano l’uomo nella misura in cui quest’ultimo è mosso dallo Spirito Santo. Pertanto, anche le beatitudini stesse sono frutti dello Spirito Santo.
+
+Obiezione 2: Inoltre, poiché il frutto della vita eterna è la futura [beatazza](/positions/beatitude), che consiste nella possesso effettivo di ciò che si desidera, allo stesso modo i frutti della vita presente sono le beatitudini della vita presente, che si basano sulla speranza. Poiché il frutto della vita eterna è identificato con la futura beatazza, ne consegue che anche i frutti della vita presente siano delle forme di beatitudine.
+
+Obiezione 3: Inoltre, il frutto è essenzialmente qualcosa di supremo e delizioso. Ora, questa è proprio la natura stessa della beatitudine, come detto sopra (Q[3], A[1]; Q[4], A[1]). Pertanto, frutto e beatitudine hanno la stessa natura e, di conseguenza, non dovrebbero essere distinte l’una dall’altra.
+
+Al contrario, le cose divise in diverse specie si differenziano l’una dall’altra. Ma i frutti e le beatitudini sono suddivisi in parti distinte, come è evidente dal modo in cui vengono elencati. Pertanto, i frutti si differenziano dalle beatitudini.
+
+Rispondo che, per quanto riguarda la beatitudine, sono necessarie qualità maggiori rispetto a quelle richieste per un semplice frutto. Infatti, per un frutto è sufficiente che sia qualcosa di estremamente piacevole; mentre per una beatitudine è indispensabile che sia qualcosa di perfetto ed eccellente. Pertanto, tutte le beatitudini possono essere definite “frutti”, ma non il contrario. I frutti, infatti, sono semplicemente azioni virtuose che procurano piacere; mentre le beatitudini sono opera soltanto di perfezione, e proprio per questa loro natura perfetta vengono considerate doni anziché virtù, come già detto in precedenza (Q[69], A[1], ad 1).
+
+Risposta all’Obiezione 1: Questo argomento dimostra che le beatitudini sono frutti, ma non che tutti i frutti siano beatitudini.
+
+Risposta all’Obiezione 2: Il frutto della vita eterna è, per sua natura, definitivo e perfetto; pertanto non differisce in alcun modo dalla futura beatitudine. D’altra parte, i frutti della vita presente non sono necessariamente definitivi e perfetti; quindi non tutti questi frutti costituiscono forme di beatitudine.
+
+Risposta all’Obiezione 3: Come già detto, per una beatitudine sono necessarie cose più numerose rispetto a quelle richieste per un semplice frutto.
 
 <span class="atom-split" data-atom="099" data-title="Whether the fruits are suitably enumerated by the Apostle?" data-chapter="Whether the fruits are suitably enumerated by the Apostle?" data-kind="atom" data-srclang="en"></span>
 
@@ -5059,3 +6530,21 @@ Reply to Objection 2: "Good happens in one way, evil in all manner of ways," as 
 says (Div. Nom. iv): so that to one virtue many vices are contrary. Consequently we must not be
 surprised if the works of the flesh are more numerous than the fruits of the spirit.
 The Reply to the Third Objection is clear from what has been said.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Obiezione 1: Sembra che i frutti dello Spirito Santo non siano contrari alle opere della carne, quelle che l’Apostolo elenca in Galati 5:19 e seguenti. Infatti, ciò che è contrario appartiene allo stesso genere. Ma le opere della carne non vengono definite “frutti”; pertanto, nemmeno i frutti dello Spirito Santo possono essere considerati contrari ad esse.
+
+Obiezione 2: Inoltre, ogni cosa ha il proprio contrario. Ora l’Apostolo menziona più opere della carne che frutti dello Spirito; pertanto i frutti dello Spirito e le opere della carne non sono contrari tra loro.
+
+Obiezione 3: Inoltre, tra i frutti dello Spirito, primi posto occupano la carità, la gioia e la pace; cose a cui il concubinaggio, l’impurità e la dissolutezza, che sono le prime manifestazioni delle opere della carne, non si oppongono. Pertanto, i frutti dello Spirito non sono contrari alle opere della carne.
+
+Al contrario, l’Apostolo afferma (Galati 5:17) che “la carne desidera ciò che è contro lo spirito, e lo spirito ciò che è contro la carne”.
+
+Rispondo che le opere della carne e i frutti dello Spirito possono essere considerati in due modi.  
+Primo, in modo generale: in questo senso, i frutti dello Spirito, considerati nel loro insieme, sono contrari alle opere della carne. Lo Spirito infatti spinge la mente umana verso ciò che è in armonia con la ragione, o meglio, verso ciò che va oltre la ragione; mentre le inclinazioni carnali portano l’uomo verso beni sensibili e inferiori a lui stesso. Poiché i movimenti verso l’alto e verso il basso sono contrari nell’ordine fisico, allo stesso modo le opere della carne sono contrarie ai frutti dello Spirito nelle azioni umane.  
+Secondo, sia i frutti dello Spirito che le opere della carne possono essere considerati singolarmente, ciascuno secondo la sua natura specifica. In questo caso, non è necessario che siano sempre contrari tra loro: come già detto in precedenza, l’Apostolo non intendeva elencare tutte le opere, né spirituali né carnali. Tuttavia, adattando questa interpretazione, sant’Agostino, commentando Galati 5:22-23, contrappone i frutti dello Spirito alle opere della carne. Ad esempio, alla fornicazione – che è l’amore per il piacere sessuale al di fuori del matrimonio legittimo – si può opporre la carità, che unisce l’anima a Dio e rappresenta vera castità; all’impurità si può contrapporre la gioia della tranquillità; all’idolatria, che causò guerre contro il Vangelo di Dio, si può contrapporre la pace; alle streghezze, alle inimicizie, alle contese e ai litigi, si può contrapporre la pazienza, che ci aiuta a sopportare i mali inflitti da coloro che ci circondano, mentre la gentilezza ci aiuta a guarire tali mali e la bontà a perdonarli. Infine, all’eresia si può contrapporre la fede; all’invidia, la dolcezza; alla ubriachezza e alle baldorie, la moderazione.
+
+Risposta all’Obiezione 1: Ciò che deriva da un albero in contrasto con la sua natura non viene chiamato suo frutto, ma piuttosto sua corruzione. Poiché le azioni virtuose sono conformi alla ragione, mentre quelle viziose sono contrarie alla natura, è per questo che le azioni virtuose vengono definite frutti, mentre non accade lo stesso per le azioni viziose.
+
+Risposta all’Obiezione 2: “Il bene avviene in un solo modo, il male invece in molti modi diversi”, come afferma Dionigi (Div. Nom. iv): quindi, a una virtù corrispondono molte vizi contrari. Di conseguenza, non dobbiamo meravigliarci se le opere della carne siano più numerose dei frutti dello spirito. La risposta all’Terza Obiezione è chiara, data quanto detto finora.

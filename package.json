@@ -19,7 +19,8 @@
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
     "install-plugins": "npx tsx ./quartz/plugins/loader/install-plugins.ts",
-    "prebuild": "npm run install-plugins"
+    "prebuild": "npm run install-plugins",
+    "build": "SPA=1 node preprocess.mjs && npx quartz build && node scripts/inject-atom-search.mjs && node scripts/compress-search-index.mjs && node scripts/build-search-shards.mjs && node scripts/make-mobile-index.mjs"
   },
   "engines": {
     "npm": ">=10.9.2",
@@ -55,6 +56,7 @@
     "is-absolute-url": "^5.0.0",
     "isomorphic-git": "^1.36.3",
     "js-yaml": "^4.1.1",
+    "jsdom": "^30.0.1",
     "lightningcss": "^1.31.1",
     "mdast-util-find-and-replace": "^3.0.2",
     "mdast-util-to-hast": "^13.2.1",
@@ -107,6 +109,7 @@
     "@types/ws": "^8.18.1",
     "@types/yargs": "^17.0.35",
     "esbuild": "^0.27.2",
+    "playwright": "^1.62.1",
     "prettier": "^3.8.1",
     "tsx": "^4.21.0",
     "typescript": "^5.9.3"

@@ -56,6 +56,82 @@ Sur tout ce que je viens de dire, vous pourrez encore m'opposer que ce ne sont p
 
 Vous n'ignorez pas, mon cher père, les obligations infinies que j'ai à madame de Warens ; c'est sa charité qui m'a tiré plusieurs fois de la misère, et qui s'est constamment attachée depuis huit ans à pourvoir à tous mes besoins, et même bien au-delà du nécessaire. La bonté qu'elle a eue de me retirer dans sa maison, de me fournir des livres, de me payer des maîtres, et, par-dessus tout, ses excellentes instructions et son exemple édifiant, m'ont procuré les moyens d'une heureuse éducation, et de tourner au bien mes moeurs alors encore indécises. Il n'est pas besoin que je relève ici la grandeur de tous ses bienfaits ; la simple exposition que j'en fais à vos yeux suffit pour vous en faire sentir tout le prix au premier coup d'oeil. Jugez, mon cher père, de tout ce qui doit se passer dans un coeur bien fait, en reconnaissance de tout cela ; la mienne est sans bornes ; voyez jusqu'où s'étend mon bonheur, je n'ai de moyen pour la manifester que le seul qui peut me rendre parfaitement heureux.
 
+<span class="qlang-split" data-lang="en"></span>
+
+In the last letter you took the trouble to write to me on the 5th of this month, you urged me to share my views regarding a certain establishment with you. I beg your pardon if I have delayed in responding: the matter is important; it took me several days to reflect carefully and to express my thoughts clearly, so that I could convey them to you.
+
+I agree with you, my dear father, on the necessity of making a choice regarding an institution at an early stage and of diligently pursuing that choice; I had already understood this, but until now, I have always felt that I was outside of the absolutely essential prerequisite for such a situation—without which a person cannot act: namely, the possibility.
+
+For instance, suppose my talents had naturally inclined me toward study, whether for the church or for the legal profession; it is clear that I would have needed financial assistance—either for my sustenance, for clothing, or to cover the costs of my education. Or suppose commerce were my goal: in addition to supporting myself, I would have had to pay for an apprenticeship and also find a sufficient sum of money to establish myself on a decent footing. The expenses involved in choosing any profession would not have been much less significant; it is true that I already had some knowledge of the art of engraving, but aside from the fact that it was never my passion, I certainly did not possess enough skills to support myself independently, and no master would have taken me on without requiring payment for my training.
+
+Here, in accordance with my own judgment, are the cases of all the different institutions from which I could reasonably have chosen one; I leave it to you, my dear father, to decide for yourself whether it was within my power to meet their requirements.
+
+What I have just said can only refer to the past. At my age, it is too late to think about all these things; and such is my miserable condition that, even if I could have taken a firm stance at some point, all the necessary help was lacking to me; and when there is reason to hope for some progress, the time of childhood, that precious period for learning, has already passed irreversibly.
+
+Let us now consider what would be appropriate to do in my current situation: firstly, I can practice music, as I am fairly skilled at it; secondly, my modest talent for writing (I mean in terms of style) might help me find a job as a secretary for some nobleman; finally, in a few years, with more experience, I could perhaps serve as a tutor or mentor to young people of good character.
+
+As for the first article, I have always been quite pleased with the happiness I have felt in making some progress in music, a field in which people praise my rather delicate taste; and here, my dear father, is how I reasoned about it.
+
+Music is an art that presents little difficulty in practice; in other words, it can be easily practiced anywhere. Humans are naturally inclined to prefer the pleasant over the useful; therefore, one should exploit this weakness when it is possible to do so without injustice. And what could be more just than earning a fair reward for one’s efforts? Of all the talents I may possess, music is perhaps not the one that brings me the greatest honor, but certainly the easiest to pursue. After all, it is not always easy to gain access to influential circles; while one searches and struggles, life must go on, and music can always serve as a means of support in such times.
+
+This is how I viewed the potential usefulness of music to me; and here is the content for the second article, which focuses on the role of a secretary.
+
+Since I have already been in this position before, I am fairly aware of the various skills required for this job: a clear and easily understandable style of writing, great accuracy and fidelity in presenting information, and prudence in handling matters that fall within our scope of responsibility. Above all else, it is essential to maintain absolute secrecy—with these qualities, one can be a competent secretary. I am pleased to say that I already possess some of these skills; I work every day to acquire the rest, and I will spare no effort to achieve my goal.
+
+Finally, as for the position of governor for a young lord, I must admit that it is the role for which I feel a certain preference: you will be surprised at first; please take some time before making your decision.
+
+My dear father, you must not think that I devoted myself so entirely to music that I neglected any other kind of work. The kindness of Madame de Warens in offering me shelter in her home allowed me to make use of my time in a productive manner, and it is what I have been doing with considerable care until now.
+
+First of all, I established a study system that I divided into two main categories: the first includes everything that serves to enlighten the mind and enrich it with useful and enjoyable knowledge; the second encompasses methods for cultivating the [heart](/positions/fideism) towards wisdom and virtue. Madame de Warens has been kind enough to provide me with books, and I have made every effort to make as much progress as possible, organizing my time in such a way that nothing of it is wasted.
+
+Furthermore, everyone can attest to my good conduct; I cherish virtue, and I believe that no one has anything substantial to reproach me regarding it. I am religious and fear God. Moreover, despite being susceptible to extreme weaknesses and possessing more flaws than any other man in the world, I am fully aware of the many vices that need to be corrected in myself. Nevertheless, young people would indeed be fortunate if they always came into the hands of people who, like me, loathe vice and cherish virtue.
+
+Therefore, as far as sciences and the arts are concerned, I believe I know enough to provide an education suitable for a gentleman. Moreover, it is not precisely the duty of a governor to give lessons themselves; rather, their role is merely to ensure that such lessons are undertaken effectively. Indeed, it is necessary for a governor to possess knowledge in all subjects that exceeds what their student is expected to learn.
+
+I have nothing to reply to the objection that might be raised against the irregularity of my past behavior; since it is not excusable, I do not pretend to justify it. Therefore, my dear father, I told you at first that it would only be after a few years and with more experience that I would dare to take on the responsibility of managing someone else’s affairs. It is because I intend to completely correct myself, and I hope to succeed in doing so.
+
+Regarding everything I have just said, you might still argue that these are not solid institutions, especially in regard to the first and third points; on this matter, I beg you to consider that I am not presenting them to you as such, but merely as the only resources to which I can turn in the situation I find myself in, should the current forms of assistance prove insufficient. However, it is now time for me to elaborate on my true ideas and to come to a conclusion.
+
+You are well aware, my dear father, of the countless obligations I owe to Madame de Warens; it is her generosity that has several times saved me from misery and that, for eight years now, has constantly taken care of all my needs, even beyond what is necessary. Her kindness in taking me into her home, providing me with books, paying for my tutors, and, above all, her excellent guidance and exemplary behavior have enabled me to receive a happy education and to turn what were once indecisive tendencies of mine towards goodness. There is no need for me to elaborate on the magnitude of all her kindnesses; merely mentioning them before you is enough to make you realize their full value at a glance. Judge, my dear father, what kind of feelings a well-formed heart must hold in recognition of such favors; mine are boundless. See how far my happiness extends—my only way to express it is through that very means which can truly bring me complete joy.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nella última lettera che avete avuto la gentilezza di scrivermi il 5 di questo mese, mi esortate a condividere con voi le mie opinioni riguardo a un certo progetto. Vi chiedo scusa se ho tardato a rispondervi: la questione è importante; mi sono serviti alcuni giorni per rifletterci e per esprimerle in modo chiaro, affinché potessi comunicarve i miei pensieri.
+
+Concordo con voi, mio carissimo padre, sulla necessità di scegliere in tempo un’istituzione e di impegnarsi attivamente nel seguire tale scelta; me n’ero già reso conto, ma finora mi sono sempre trovato al di fuori della condizione assolutamente indispensabile in casi del genere, senza la quale l’uomo non può agire: cioè la possibilità stessa di agire.
+
+Supponiamo, ad esempio, che il mio talento si fosse naturalmente orientato verso lo studio, sia per la Chiesa che per l’avvocatura; è evidente che avrei avuto bisogno di aiuti finanziari, sia per il mio sostentamento che per i miei vestiti, o ancora per coprire le spese dello studio. Oppure supponiamo che il commercio fosse stato il mio obiettivo: oltre al mio mantenimento, sarebbe stato necessario pagare l’affitto di un laboratorio e trovare anche un capitale sufficiente per stabilirmi onestamente nella mia professione. Le spese non sarebbero state molto inferiori nemmeno in questo caso; è vero che già conoscevo qualcosa del mestiere di incisore, ma oltre al fatto che non mi piacesse affatto, è certo che non ne sapevo abbastanza per potermi sostenere da solo, e nessun maestro avrebbe accettato me senza che io pagassi le spese necessarie per il mio apprendistato.
+
+Ecco, secondo il mio parere, gli esempi di tutti quegli istituti tra cui avrei potuto ragionevolmente scegliere: lascio che sia voi stesso a giudicare, caro padre, se spettasse a me soddisfare i loro requisiti.
+
+Quello che ho appena detto riguarda esclusivamente il passato. Alla mia età, è troppo tardi per pensare a tutte queste cose; e tale è la mia misera condizione, che quando avrei potuto prendere una decisione definitiva, mi sono mancati tutti i mezzi necessari; e quando ho motivo di sperare in un qualche miglioramento, il tempo dell’infanzia, quel prezioso periodo per imparare, è ormai trascorso irrimediabilmente.
+
+Diamo ora un’occhiata a ciò che si potrebbe fare nella situazione in cui mi trovo: innanzitutto posso praticare la musica, di cui conosco abbastanza bene le basi; in secondo luogo, il poco talento che ho per la scrittura (intendo lo stile) potrebbe aiutarmi a trovare un lavoro come segretario presso qualche nobile; infine, tra alcuni anni, e con un po’ più di esperienza, potrei diventare precettore per giovani di buona famiglia.
+
+Per quanto riguarda il primo articolo, sono sempre stato abbastanza soddisfatto del felice risultato che ho ottenuto nel campo della musica, per la quale mi viene riconosciuto un gusto piuttosto raffinato; ed ecco, mio caro padre, come ho ragionato.
+
+La musica è un’arte che richiede poca difficoltà nella pratica; quindi, in ogni paese, è facile praticarla. Gli uomini tendono spesso a preferire ciò che è piacevole a ciò che è utile; bisogna approfittare di questa loro debolezza, quando ciò è possibile senza ingiustizia. E cosa c’è di più giusto del ricevere una retribuzione onesta per il proprio lavoro? Tra tutti i talenti che posso possedere, la musica non è forse quello che mi procura maggior onore, ma almeno è sicuramente il più facile da coltivare. Del resto, convenite che non sempre è facile entrare nelle case più importanti. Mentre si cerca e ci si sforza di ottenere qualcosa, bisogna pur vivere, e la musica può sempre rappresentare una valida risorsa in questi momenti.
+
+Ecco in che modo ho considerato che la musica potesse essermi utile: ecco quindi il secondo articolo, relativo alla posizione di segretario.
+
+Avendo già trovato me stesso in questa situazione, conosco piuttosto bene i diversi talenti necessari per questo incarico: uno stile chiaro e comprensibile, grande precisione e fedeltà nelle informazioni fornite, prudenza nell’affrontare questioni che rientrano nella nostra competenza; e, soprattutto, la capacità di mantenere il segreto. Con queste qualità si può essere un buon segretario. Posso dire di possederne alcune; lavoro ogni giorno per acquisirne altre e non risparmierò nulla pur di riuscirci.
+
+Infine, per quanto riguarda la carica di governatore di un giovane signore, vi confesso che è quella per la quale provo una certa predilezione: prima di tutto, sarete sorpresi; per favore, ritardate un attimo a prendere una decisione.
+
+Non dovete pensare, caro padre, che io mi sia dedicato così completamente alla musica da trascurare qualsiasi altro tipo di lavoro; la gentilezza di madame de Warens nel offrirmi rifugio presso di lei mi ha permesso di utilizzare il mio tempo in modo produttivo, e è esattamente ciò che ho fatto finora con grande impegno.
+
+Innanzitutto, ho creato un sistema di studio che ho diviso in due parti principali: la prima comprende tutto ciò che serve a illuminare l’intelletto e ad arricchirlo di conoscenze utili e piacevoli; la seconda contiene i metodi per educare il [cuore](/positions/fideism) alla saggezza e alla virtù. Madame de Warens ha avuto la gentilezza di fornirmi dei libri, e ho cercato di fare il maggior progresso possibile, organizzando il mio tempo in modo che nulla venisse sprecato.
+
+Inoltre, tutti possono giudicare correttamente il mio comportamento; amo le buone maniere e non credo che nessuno abbia motivo di rimproverarmi qualcosa di grave riguardo alla loro purezza; ho una profonda fede in Dio e lo temo. Tuttavia, essendo soggetto a estreme debolezze e pieno di difetti più di qualsiasi altro uomo al mondo, sono consapevole di quanti vizi debba correggere in me stesso. Ma dopotutto, i giovani sarebbero felici se finissero sempre tra le mani di persone che provassero per il vizio lo stesso odio e per la virtù lo stesso amore che provo io.
+
+Quindi, per quanto riguarda le scienze e le lettere, credo di sapere abbastanza per l’educazione di un gentiluomo; inoltre, non è certo compito di un governatore impartire lezioni, ma soltanto assicurarsi che queste vengano svolte con efficacia; effettivamente, è necessario che il governatore conosca su tutte le materie più di quanto lo studente debba imparare.
+
+Non ho nulla da rispondere all’obiezione che mi si può fare riguardo all’irregolarità del mio comportamento passato; poiché essa non è giustificabile, non intendo nemmeno cercare di scusarmene: per questo motivo, caro padre, vi ho detto fin dall’inizio che sarebbe solo tra qualche anno, e con maggiore esperienza, che avrei osato assumermi la responsabilità della guida di qualcuno. Ho infatti l’intenzione di correggermi completamente e spero di riuscirci.
+
+Riguardo a tutto ciò che ho appena detto, potreste ancora obiettare che non si tratta di istituzioni solide, soprattutto per quanto riguarda il primo e il terzo punto; su questo vi prego di considerare che non ve le propongo come tali, ma solo come le uniche risorse a cui posso ricorrere nella situazione in cui mi trovo, nel caso in cui i soccorsi attuali dovessero mancare. Ma è ora di esporvi le mie vere idee e di giungere alla conclusione.
+
+Caro padre, non ignorate certamente le infinite obbligazioni che ho verso madame de Warens; è stata la sua carità a salvarmi più volte dalla miseria e, negli ultimi otto anni, si è sempre presa cura di soddisfare tutti i miei bisogni, persino andando ben oltre ciò che era necessario. La gentilezza con cui mi ha accolto nella sua casa, mi ha fornito libri, mi ha pagato gli insegnanti e, soprattutto, le sue eccellenti istruzioni e il suo esempio virtuoso mi hanno permesso di ricevere un’educazione felice e di correggere i miei comportamenti, allora ancora incerti. Non è necessario che ribadisca qui l’enormità di tutti i suoi benefici; la semplice descrizione che ne faccio davanti a voi è sufficiente per farvi comprendere appieno il loro valore. Giudicate, caro padre, ciò che un cuore ben fatto dovrebbe provare in segno di riconoscenza per tutto questo; il mio sentimento è senza limiti. Vedete fino a che punto si estende la mia felicità: l’unico modo che ho per manifestarla è proprio quello che può rendermi davvero perfettamente felice.
+
 <span class="atom-split" data-atom="002" data-title="(apertura) (parte 2)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 J'ai donc dessein de supplier madame de Warens de vouloir bien agréer que je passe le reste de mes jours auprès d'elle, et que je lui rende jusqu'à la fin de ma vie tous les services qui seront en mon pouvoir ; je veux lui faire goûter autant qu'il dépendra de moi, par mon attachement à elle et par la sagesse et la régularité de ma conduite, les fruits des soins et des peines qu'elle s'est donnés pour moi : ce n'est point une manière frivole de lui témoigner ma reconnaissance ; cette sage et aimable dame a des sentiments assez beaux pour trouver de quoi se payer de ses bienfaits par ses bienfaits mêmes, et par l'hommage continuel d'un [coeur](/positions/fideism) plein de zèle, d'estime, d'attachement et de respect pour elle.
@@ -75,6 +151,50 @@ Lettre IX – À Mademoiselle Serre
 Lyon, 1736.
 
 Je me suis exposé au danger de vous revoir, et votre vue a trop justifié mes craintes, en rouvrant toutes les plaies de mon coeur. J'ai achevé de perdre auprès de vous le peu de raison qui me restait, et je sens que, dans l'état où vous m'avez réduit, je ne suis plus bon à rien qu'à vous adorer. Mon mal est d'autant plus triste, que je n'ai ni l'espérance ni la volonté d'en guérir, et qu'au risque de tout ce qu'il en peut arriver, il faut vous aimer éternellement. Je comprends, mademoiselle, qu'il n'y a de votre part à espérer aucun retour ; je suis un jeune homme sans fortune, je n'ai qu'un coeur à vous offrir, et ce coeur, tout plein de feu, de sentiments et de délicatesse qu'il puisse être, n'est pas sans doute un présent digne d'être reçu de vous. Je sens cependant, dans un fonds inépuisable de tendresse, dans un caractère toujours vif et toujours constant, des ressources pour le bonheur, qui devraient, auprès d'une maîtresse un peu sensible, être comptées pour quelque chose en dédommagement des biens et de la figure qui me manquent. Mais quoi ! vous m'avez traité avec une dureté incroyable, et s'il vous est arrivé d'avoir pour moi quelque espèce de complaisance, vous me l'avez ensuite fait acheter si cher, que je jurerais bien que vous n'avez eu d'autres vues que de me tourmenter. Tout cela me désespère sans m'étonner, et je trouve assez dans tous mes défauts de quoi justifier votre insensibilité pour moi : mais ne croyez pas que je vous taxe d'être insensible en effet. Non, votre coeur n'est pas moins fait pour l'amour que votre visage. Mon désespoir est que ce n'est pas moi qui devais le toucher. Je sais de science certaine que vous avez eu des liaisons, je sais même le nom de cet heureux mortel qui trouva l'art de se faire écouter ; et, pour vous donner une idée de ma façon de penser, c'est que, l'ayant appris par hasard, sans le chercher, mon respect pour vous ne me permettra jamais de vouloir savoir autre chose de votre conduite que ce qu'il vous plaira de m'en apprendre vous-même. En un mot, si je vous ai dit que vous ne seriez jamais religieuse, c'est que je connaissais que vous n'étiez en aucun sens faite pour l'être ; et si, comme amant passionné, je regarde avec horreur cette pernicieuse résolution, comme ami sincère et comme honnête homme, je ne vous conseillerai jamais de prêter votre consentement aux vues qu'on a sur vous à cet égard, parce qu'ayant certainement une vocation tout opposée, vous ne feriez que vous préparer des regrets superflus et de longs repentirs. Je vous le dis comme je le pense au fondée mon âme, et sans écouter mes propres intérêts. Si je pensais autrement, je vous le dirais de même ; et, voyant que je ne puis être heureux personnellement, je trouverais du moins mon bonheur dans le vôtre. J'ose vous assurer que vous me trouverez en tout la même droiture et la même délicatesse ; et, quelque tendre et quelque passionné que je sois, j'ose vous assurer que je fais profession d'être encore plus honnête homme. Hélas ! si vous vouliez m'écouter, j'ose dire que je vous ferais connaître la véritable félicité ; personne ne saurait mieux la sentir que moi, et j'ose croire que personne ne la saurait mieux faire éprouver. Dieu ! si j'avais pu parvenir à cette charmante possession, j'en serais mort assurément ; et comment trouver assez de ressources dans l'âme pour résister à ce torrent de plaisirs ? Mais si l'amour avait fait un [miracle](/concepts/miracle) et qu'il m'eût conservé la vie, quelque ardeur qui soit dans mon coeur, je sens qu'il l'aurait encore redoublée, et, pour m'empêcher d'expirer au milieu de mon bonheur, il aurait à chaque instant porté de nouveaux feux dans mon sang : cette seule pensée le fait, bouillonner ; je ne puis résister aux pièges d'une chimère séduisante ; votre charmante image me suit partout ; je ne puis m'en défaire même en m'y livrant ; elle me poursuit jusque pendant mon sommeil ; elle agite mon coeur et mes esprits ; elle consume mon tempérament ; et je sens, en un mot, que vous me tuez malgré vous-même, et que, quelque cruauté que vous ayez pour moi, mon sort est de mourir d'amour pour vous. Soit cruauté réelle, soit bonté imaginaire, le sort de mon amour est toujours de me faire mourir. Mais hélas ! en me plaignant de mes tourments je m'en prépare de nouveaux ; je ne puis penser à mon amour sans que mon coeur et mon imagination s'échauffent ; et quelque résolution que je fasse de vous obéir en commençant mes lettres, je me sens ensuite emporté au-delà de ce que vous exigez de moi. Au-liez-vous la dureté de m'en punir ? Le ciel pardonne les fautes involontaires : ne soyez pas plus sévère que lui, et comptez pour quelque chose l'excès d'un penchant invincible, qui me conduit malgré moi bien plus loin que je ne veux, si loin même que, s'il était en mon pouvoir de posséder une minute mon adorable reine sous la condition d'être pendu un quart d'heure après, j'accepterais cette offre avec plus de joie que celle du trône de l'univers. Après cela, je n'ai plus rien à vous dire, il faudrait que vous fussiez un monstre de barbarie pour me refuser au moins lui peu de pitié. L'ambition ni la fumée ne touchent point un coeur comme le mien ; j'avais résolu de passer le reste de mes jours en philosophe, dans une retraite qui s'offrait à moi ; vous avez détruit tous ces beaux projets ; j'ai senti qu'il m'était impossible de vivre éloigné de vous, et, pour me procurer les moyens de m'en rapprocher, je tente un voyage et des projets que mon malheur ordinaire empêchera sans doute de réussir. Mais puisque je suis destiné à me bercer de chimères, il faut du moins me livrer aux plus agréables, c'est-à-dire à celles qui vous ont pour objet : daignez, mademoiselle, donner quelque marque de bonté à un amant passionné, qui n'a commis d'autre crime envers vous que de vous trouver trop aimable ; donnez-moi une adresse, et permettez que je vous en donne une pour les lettres que j'aurai l'honneur de vous écrire et pour les réponses que vous voudrez bien me faire ; en un mot, laissez-moi par pitié quelque rayon d'espérance, quand ce ne serait que pour calmer les folies dont je suis capable.
+
+<span class="qlang-split" data-lang="en"></span>
+
+I therefore intend to request madame de Warens to allow me to spend the rest of my days in her company and to render her all the services within my power until the end of my life. I wish to enable her, as much as it is in my power, to experience the fruits of the care and efforts she has devoted to me, through my devotion to her and through the wisdom and integrity of my conduct. This is not a frivolous way to express my gratitude; this wise and kind lady possesses such noble sentiments that she will find ample reward for her kindness in the very acts of kindness I display toward her, as well as in the constant admiration and respect of a [heart](/positions/fideism) filled with zeal, esteem, devotion, and reverence for her.
+
+I hope, my dear father, that you will approve of my decision and support it with all your power. In this way, all difficulties are overcome; the establishment is fully accomplished, and it is undoubtedly the most solid and fortunate one that could possibly exist in the world, for, apart from the advantages it brings me, it is based on kindness and virtue on both sides.
+
+Furthermore, I do not claim that this provides me with a legitimate excuse for living in idleness and laziness: it is true that my daily routine is quite empty; but I have devoted it entirely to study, and Madame de Warens will surely acknowledge that I have followed this plan fairly consistently. So far, she has only complained about the excessive amount of time I devote to it. There is no reason to fear that my interest in studying will change; it possesses a charm that makes one unable to abandon it once they have tasted it. Moreover, the subject itself is so fascinating that no one can blame those who are fortunate enough to find pleasure in it and dedicate themselves to it.
+
+Here, my dear father, is the presentation of my views: I earnestly beg you to give your approval to them, to write to Madame de Warens, and to do everything in your power to help them succeed. I have reason to hope that your efforts will not be in vain and that they will lead to our mutual satisfaction.
+
+I am, etc.
+
+Letter IX – To Miss Serre
+
+[449]
+
+Lyon, 1736.
+
+I have exposed myself to the danger of seeing you again, and your appearance only served to confirm my fears, reopening all the wounds in my heart. I have completely lost whatever little reason I still possessed in your presence, and I feel that, in the state you have reduced me to, I am good for nothing but to adore you. My suffering is all the more heartbreaking because I neither have the hope nor the will to overcome it; and at the risk of everything that might happen, I must love you forever. Mademoiselle, I understand that there is no possibility of your returning to me; I am a young man without fortune, and all I have to offer you is my heart—a heart filled with passion, emotion, and delicacy. Yet, even if it may not be a gift worthy of your acceptance, I feel within me, amidst an inexhaustible source of tenderness and a character that remains always lively and steadfast, the means to find happiness. Such qualities, in the eyes of a somewhat sensitive mistress, should surely compensate for the lack of wealth and good looks that I possess. But alas! You have treated me with incredible cruelty; and if there was any moment of indulgence you showed toward me, you later made me pay such a high price for it that I swear your only intention was to torment me. All this fills me with despair, yet it does not surprise me. In fact, I can find enough justification for your indifference in all my own faults. But do not believe that I truly consider you insensible. No, your heart is just as capable of loving as your appearance. My despair stems from the realization that it is not I who am meant to touch it. I know with certainty that you have had other relationships; I even know the name of that fortunate man who managed to win your attention. To give you some idea of my thoughts, when I learned this by chance, without seeking it out, my respect for you prevented me from wanting to know anything more about your behavior than what you chose to tell me yourself. In short, if I said that you would never become a devout woman, it was because I knew you were not suited for such a life at all. And as a passionate lover, I loathe such a harmful resolve; but as a sincere friend and an honest man, I would never advise you to agree to any plans that others have for you in this regard, because you surely have a calling entirely different, and pursuing such a path would only bring you unnecessary regret and prolonged sorrow. I tell you this from the bottom of my heart, without considering my own interests at all. If I thought differently, I would still express it just the same. And since I cannot find personal happiness, I am willing to find it in yours. I assure you that you will find me as upright and delicate as ever; and despite my tenderness and passion, I swear that I am determined to be an even more honest man.
+Alas! if you would only listen to me, I dare say that I could lead you to true happiness; no one could feel it more deeply than I do, and I believe no one could bring it to you more effectively. God! if only I had been able to attain such bliss, I would surely have died from joy; how could one find enough strength within oneself to resist such a torrent of pleasures? But if love had performed a miracle and preserved my life, no matter how intense my passion was, I feel it would have grown even stronger. To prevent me from dying in the midst of my happiness, it would constantly kindle new fires in my blood—just the thought of it makes my heart boil. I cannot resist the allure of such an enchanting illusion; your charming image follows me everywhere; even when I try to rid myself of it, it persists. It haunts me even in my dreams, stirring my heart and mind, consuming my temperament. In short, I feel that you are causing my death, despite your own will, and that no matter how cruel you may be to me, my fate is to die of love for you. Whether it is real cruelty or imagined kindness, the outcome of my love is always death. But alas! in complaining about my suffering, I only invite more of it upon myself; whenever I think of you, my heart and imagination heat up. No matter how determined I am to obey you at the beginning of each letter, I soon find myself going beyond what you require of me. Would you be so cruel as to punish me for it? Heaven forgives involuntary mistakes—please be less severe than it is, and take into account the power of an irresistible passion that leads me far beyond my will, so far in fact that if I could possess my beloved for a minute, only to be hanged a quarter of an hour later, I would accept that fate with greater joy than I would the throne of the entire universe. After saying this, I have nothing more to say to you. You would have to be a monster of barbarity to refuse me even a little mercy in such a situation. Neither ambition nor worldly desires can touch a heart like mine; I had resolved to spend the rest of my life as a philosopher, in solitude. But you have destroyed all those beautiful plans. I realized that it was impossible for me to live without you, and so, in an attempt to find a way to be near you again, I embark on this journey and devise these plans—yet my usual misfortunes will likely prevent them from succeeding.
+But since I am destined to indulge in illusions, at least let me be indulged in the most pleasant ones—those that revolve around you. Please, mademoiselle, show some kindness toward a passionate lover who has committed no other crime against you than finding you too lovely. Give me your address, and allow me to give you mine for the letters I will have the honor of writing to you and for the replies you may choose to send. In short, out of pity, let me hold onto some glimmer of hope—even if it is merely to calm the madness that resides within me.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Pertanto, intendo supplicare madame de Warens di concedermi il permesso di trascorrere il resto dei miei giorni al suo fianco e di renderle, fino alla fine della mia vita, tutti i servizi che saranno in mio potere; desidero farle assaporare, nella misura del possibile, attraverso la mia devozione verso di lei e attraverso la saggezza e la regolarità del mio comportamento, i frutti delle cure e dei sacrifici che si è imposta per me: non si tratta certo di un modo frivolo per dimostrarle la mia riconoscenza; questa nobile e gentile signora possiede sentimenti così nobili da trovare motivo di gratitudine nei propri benefici, attraverso i benefici stessi che ha concesso, e attraverso l’omaggio costante di un [cuore](/positions/fideism) pieno di zelo, stima, devozione e rispetto per lei.
+
+Spero sinceramente, mio caro padre, che approverete la mia decisione e che mi sosterrete con tutte le vostre forze. In questo modo, tutte le difficoltà saranno superate; l’impresa sarà completata, e sicuramente sarà la più solida e la più felice possibile al mondo, poiché, oltre ai vantaggi che ne derivano per me, si basa su entrambi i lati sulla bontà del cuore e sulla virtù.
+
+Del resto, non pretendo di trovare in questo un pretesto onesto per vivere nella pigrizia e nell’ozio: è vero che il vuoto delle mie occupazioni quotidiane è grande; ma l’ho interamente dedicato allo studio, e madame de Warens potrà riconoscere che ho seguito abbastanza regolarmente questo piano: finora si è lamentata soltanto del suo eccesso. Non c’è motivo di temere che il mio interesse possa cambiare; lo studio possiede un fascino tale che, una volta provato, non si può più rinunciarvi; inoltre, l’argomento su cui verte è così bello che nessuno potrebbe biasimare coloro che hanno la fortuna di trovarci piacere e dedicarvisi.
+
+Ecco, mio caro padre, la esposizione delle mie idee: vi supplico umilmente di darvi il vostro consenso, di scrivere a madame de Warens e di intervenire presso di lei affinché tutto riesca; ho motivo di sperare che le vostre iniziative non siano vane e che portino a un risultato soddisfacente per entrambi.
+
+Io sono, ecc.
+
+Lettera IX – Alla Signorina Serre
+
+[449]
+
+Lione, 1736.
+
+Mi sono esposto al rischio di rivedervi, e il vostro aspetto ha confermato tutte le mie paure, riaprendo tutte le ferite del mio cuore. Con voi ho perso anche l’ultima traccia di ragione che mi rimaneva; in questo stato in cui mi avete ridotto, non sono più adatto a nulla se non ad amarvi. Il mio dolore è ancora più acuto perché non ho né la speranza né la volontà di guarire. E, a rischio di tutto ciò che potrebbe accadere, devo amarvi per sempre. Capisco, signorina, che da parte vostra non c’è alcuna possibilità di un ritorno. Sono un giovane senza fortuna; ho soltanto il mio cuore da offrirvi. E questo cuore, pieno di passione, di sentimenti e di delicatezza, forse non è certo un dono degno di essere accettato da voi. Tuttavia, nel profondo della mia tenerezza, nel mio carattere sempre vivace e costante, ci sono risorse per la felicità. Risorse che, presso una donna un po’ sensibile, dovrebbero essere considerate un qualche compensazione per i beni e l’aspetto che mi mancano. Ma, voi mi avete trattato con una durezza incredibile. E se mai avete provato un po’ di comprensione per me, ve ne siete poi pentita a caro prezzo. Giuro che il vostro intento era soltanto quello di tormentarmi. Tutto questo mi dispera, ma non mi sorprende. Trovo abbastanza nei miei difetti tutto ciò che può giustificare la vostra indifferenza verso di me. Ma non crediate che vi consideri davvero insensibile. No, il vostro cuore è altrettanto adatto all’amore quanto il vostro viso. Il mio dolore è soltanto quello di non essere io l’uomo giusto per toccarlo. So con certezza che avete avuto relazioni con qualcuno. Conosco persino il nome di quell’uomo fortunato che è riuscito a farsi ascoltare. E, per darvi un’idea dei miei pensieri, dopo averlo scoperto per caso, senza cercarlo, il mio rispetto per voi non mi permetterà mai di sapere altro riguardo al vostro comportamento se non ciò che vorrete voi stessa dirmi. In breve, se vi ho detto che non sareste mai diventata religiosa, è perché sapevo che non eravate affatto adatta a farlo. E se, come amante appassionato, guardo con orrore a questa decisione pericolosa, come amico sincero e onesto uomo, non vi consiglierò mai di acconsentire alle idee che alcuno ha su di voi in questo senso, perché, essendo certamente destinata a qualcosa di completamente opposto, vi preparereste soltanto a dei rimpianti inutili e a lunghi pentimenti. Ve lo dico con tutto il cuore, senza considerare i miei interessi personali. Se pensassi diversamente, ve lo direi ugualmente. E, visto che non posso essere felice personalmente, troverei almeno la mia felicità nella vostra. Vi assicuro che vi troverete di fronte a una persona altrettanto onesta e delicata. E, per quanto io possa essere tenero e appassionato, vi assicuro anche di essere un uomo ancora più onesto.
+Ahimè! Se solo voleste ascoltarmi, oserei dire che vi farei conoscere la vera felicità; nessuno potrebbe comprenderla meglio di me, e credo anche che nessuno possa farla provare con maggiore intensità. Dio! Se solo fossi riuscito a raggiungere quella meravigliosa condizione, sarei certamente morto di gioia; come si potrebbero trovare abbastanza forze nell’anima per resistere a un simile diluvio di piaceri? Ma se l’amore avesse compiuto un miracolo e mi avesse conservato la vita, qualsiasi intensità ci fosse nel mio cuore, so che sarebbe ancora aumentata. E per impedirmi di esalare l’ultimo respiro nel mezzo della mia felicità, ogni istante avrebbe ravvivato in me il fuoco dell’amore: solo questo pensiero basta a far ribollire il mio sangue. Non riesco a resistere alle tentazioni di una chimera così seducente. La vostra incantevole immagine mi segue ovunque; non posso liberarmene nemmeno cercando di ignorarla. Mi perseguita anche durante il sonno. Agita il mio cuore e la mia mente. Consuma il mio temperamento. In breve, so che mi state uccidendo, contro la vostra volontà. E che, per quanto crudele possiate essere con me, il mio destino è morire d’amore per voi. Che si tratti di vera crudeltà o di un’immaginaria bontà, il destino del mio amore è sempre quello di farmi morire. Ma ahimè! Piangendo i miei tormenti, ne sto forse preparando di nuovi. Non posso pensare all’amore senza che il mio cuore e la mia immaginazione si infuochino. E per quanto deciso sia a obbedirvi nelle mie lettere, in seguito mi ritrovo spesso a fare cose che vanno oltre le vostre richieste. Avreste la crudeltà di punirmi per questo? Il cielo perdona i peccati involontari. Non siate più severi di lui. E considerate almeno l’intensità di un sentimento irresistibile che mi spinge, contro la mia volontà, molto oltre quanto desideri. Così tanto, in effetti, che se solo potessi possedere per un minuto la mia adorabile regina, a condizione di essere impiccato un quarto d’ora dopo, accetterei questa offerta con più gioia di quella di diventare il sovrano dell’universo. Dopo tutto questo, non ho più nulla da dirvi. Sareste davvero un mostro di barbarie se mi rifiutaste anche solo un po’ di pietà. L’ambizione e le passioni non toccano mai un cuore come il mio. Avevo deciso di trascorrere il resto dei miei giorni come filosofo, in solitudine. Ma voi avete distrutto tutti questi bei progetti. Ho capito che è impossibile vivere lontano da voi. E per cercare i modi per avvicinarmi a voi, sto tentando un viaggio e intraprendendo progetti che, probabilmente, a causa della mia sfortuna, non riusciranno ad avere successo.
+Ma poiché sono destinato a indulgere in chimere, almeno lasciate che mi abbandoni a quelle più piacevoli, cioè a quelle che hanno voi come oggetto. Permettetemi, signorina, di dimostrare la mia passione per voi; non ho commesso alcun crimine nei vostri confronti se non quello di trovarvi troppo amabile. Datemi un indirizzo, e permettetemi di darvene uno anch’io per le lettere che avrò l’onore di scrivervi e per le risposte che vorrete concedermi. In breve, lasciate che abbia almeno un barlume di speranza, anche solo per placare le follie di cui sono capace.
 
 <span class="atom-split" data-atom="003" data-title="(apertura) (parte 3)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
@@ -158,6 +278,170 @@ Madame,
 
 Je ne me sers point de la voie indiquée de M. Barillot, parce que c'est faire le tour de l'école. Vos lettres et les miennes passant toutes par Lyon, il faudrait avoir une adresse à Lyon.
 
+<span class="qlang-split" data-lang="en"></span>
+
+Do not condemn me again for seeing you so infrequently during my stay here; I could not bear it. At least allow me the consolation of writing to you and receiving news from you in between; otherwise, I will come more often, at the risk of whatever might happen as a result. I am staying with the widow Petit, on Genti Street, near the Épée royale[450].
+
+1737
+
+Letter X – To M.
+
+Letter XI – To Baroness de Warens
+
+Letter XII – To Baroness de Warens
+
+Letter XIII – To Baroness de Warens
+
+Letter XIV – To Mr. Micoud
+
+Letter XV – To M.
+
+Letter XVI – To Baroness de Warens
+
+Correspondence Table
+
+Letter XI – To Baroness de Warens
+
+[453]
+
+… 1737.
+
+Madam,
+
+I had the honor of writing to you last Thursday, and Mr. Genevois took care of forwarding my letter; since then, I have not seen Mr. Barillot and have remained confined to my inn like a true prisoner. Yesterday, unable to bear waiting any longer to learn about the status of my affairs, I wrote to Mr. Barillot and expressed my concern in rather strong terms. He replied as follows:
+
+“Please calm down, my dear sir, everything is going well. I believe that by Monday or Tuesday everything will be over. I am not in a condition to go out yet; I will come to see you as soon as possible.”
+
+Here, madam, is the state I find myself in: as ignorant of my own affairs as if I were a hundred miles away from here, for it is forbidden to me to appear in town. Moreover, I am always alone, and the expenses are considerable; then there are the additional costs involved in trying to obtain that miserable money, not to mention what it took to consult that doctor and pay for some remedies he prescribed for me. You can easily imagine that my purse has long been empty, even though I already owe quite a bit at this tavern. Thus, I am certainly not leading the most pleasant life in the world; and to make matters worse, madam, I have heard no news from you at all. Nevertheless, I try my best to stay cheerful and hope that by the time you receive this letter, I will have found answers to all my questions. For truly, if this situation continues any longer, I will begin to think that people are just mocking me and are withholding from me everything I deserve.
+
+You see, madam, that the journey which I had embarked on as a sort of leisurely excursion has taken a completely opposite turn: indeed, the charm of being alone in a room all day long, allowing my melancholy to roam freely and indulge in continuous reverie does, quite contrary to what you might think, do nothing to improve my health. I look forward with longing to the moment of my return, and I will surely pray to God from now on that he spare me such an unpleasant journey.
+
+I had just finished writing my letter when Mr. Barillot came to see me. He assured me firmly that there were no longer any difficulties in my matter. The resident has intervened and has the kindness to take a personal interest in this case. Since there is a two-day interval between the beginning and the completion of my letter, I took this time to attend to my duties for Mr. the Resident, who received me with the greatest courtesy—and, I would say, with the utmost friendliness. I am now certain that my matter will be completely resolved in less than three days from now, and that my share will be paid without any difficulties, except for the expenses, which, to be honest, are somewhat high. The same goes for Mr. Barillot’s share, which turns out to be much higher than I had anticipated.
+
+Madam, I have not received any news from you in these two weeks; I am mortally anxious. If I do not receive a letter next week, I do not know what will happen to me. I received a letter from my uncle, which also contained another letter for his friend, the priest. I will make the journey there; but I know that nothing can be done, and that this position is lost for me.
+
+I have yet to write to my father, nor have I seen any of my parents; I am ordered to maintain this same incognito until the payment is made. I am extremely tempted to continue writing, for I still have much to say. However, I will refrain from doing so and reserve the next regular opportunity to bring you some good news. With deep respect, etc.
+
+Letter XII – To Baroness de Warens
+
+[454]
+
+Grenoble, September 13, 1737.
+
+Madam,
+
+I have been here for two days: one could not be more satisfied with a city than I am with this one. So much kindness and hospitality were shown to me that, upon leaving Chambéry, I felt as if I had entered a new world. Yesterday, Mr. Micoud invited me to dinner with several of his friends; and in the evening, after the play, I went to dinner with the kind Mr. Lagère.
+
+I did not see either Madame la Presidente, Madame d’Eybens, or Monsieur le President de Tencin; that gentleman is in the countryside at present. I did not manage to deliver the letter to his people. As for Madame de Bardonanche, I presented myself several times but was unable to pay my respects to her; I had the letter delivered anyway, and I am supposed to dine with her this morning, where I will learn some news about Madame d’Eybens.
+
+We must speak of Mr. de l’Orme. Madam, I had the honor of handing him your letter in person. When this gentleman excused himself on the absence of Monsignor the Bishop, he offered me an écu worth six francs; I accepted it out of timidity, but I felt it was my duty to give it to the porter. I do not know if I did right; but it will take more than just a change in my own attitude before I would dare to do otherwise. I hope your opinion will confirm mine.
+
+I was fortunate enough to find a second-hand chair for Montpellier; I will make use of it[455]. The transaction was arranged through the help of a friend, and it only costs me one louis of 24 francs for the chair; I will set off tomorrow morning. I am deeply sorry, madam, that I have not received any news from you here; but this is an opportunity that cannot be overlooked.
+
+If you have any letters to send to me, madam, I believe they could be left with Mr. Micoud here, who would then send them on to Montpellier, to the address of Mr. Lazerme. You can also send them directly from Chambéry; please do whatever seems most appropriate to you. As for me, I have no idea what to do in this regard.
+
+It troubles me greatly that I was forced to leave without paying my respects to Mr. the Marquis of Antremont and expressing my deepest gratitude to him: May I dare ask you, madam, to kindly make amends for this?
+
+Since I expect to be in Montpellier on Wednesday evening, the 18th of this month, I would therefore be able to receive your precious news sometime during next week, if you would take the trouble to write on Sunday or Monday morning. Please allow me to believe that my eagerness by then will not go so far as to become worry.
+
+Once again, madam, allow me to take the liberty of advising you to pay close attention to your health. Aren’t you my dear mother? Don’t I have every right to be deeply concerned about it? And don’t you need someone to constantly encourage you to give it even more attention?
+
+My nerves were greatly disturbed yesterday at the theater. They performed Alzire, and although it was not very well done, I was so moved that I lost my breath; my heartbeat accelerated remarkably, and I fear I will feel unwell for some time.[456]
+
+Why, madam, are some hearts so sensitive to the great, to what is [sublime](/concepts/sublime) and pathetic, while others seem destined merely to dwell in the baseness of their feelings? Fortune seems to offer some sort of compensation for all this; by elevating certain people, it seeks to bring them to the same level as those of greater greatness. But does it succeed or not? The public and you, madam, will probably disagree on this point. This accident has forced me to give up tragedy until my health is restored. I am now deprived of a pleasure that once cost me many tears in my life. With deep respect, etc.
+
+Letter XIII – To Baroness de Warens
+
+[457]
+
+Montpellier, October 23, 1737.
+
+Madam,
+
+I do not use the route indicated by Mr. Barillot, because it would involve going around the whole school district. Since both your letters and mine have to pass through Lyon, we would need to have an address in Lyon.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non condannatemi più durante il mio soggiorno qui per vedervi così di rado; non potrei sopportarlo. Almeno concedetemi, nei periodi intermedi, il conforto di scrivervi e ricevere vostre notizie; altrimenti verrò più spesso, a rischio di tutto ciò che potrebbe accadere. Sono ospitato presso la vedova Petit, in rue Genti, all’Épée royale[450].
+
+1737
+
+Lettera X – A M.
+
+Lettera XI – Alla signora baronessa di Warens
+
+Lettera XII – Alla signora baronessa di Warens
+
+Lettera XIII – Alla signora baronessa di Warens
+
+Lettera XIV – A Monsieur Micoud
+
+Lettera XV – A M.
+
+Lettera XVI – Alla signora baronessa di Warens
+
+Tabella della corrispondenza
+
+Lettera XI – Alla signora baronessa di Warens
+
+[453]
+
+… 1737.
+
+Signora,
+
+Ebbi l’onore di scrivervi giovedì scorso; il signor Genevois si occupò della mia lettera. Da allora non ho più visto il signor Barillot e sono rimasto rinchiuso nella mia locanda, come un vero prigioniero. Ieri, impaziente di conoscere lo stato delle mie faccende, scrissi al signor Barillot esprimendogli la mia preoccupazione in termini piuttosto forti. Lui mi rispose così:
+
+“Rassicuratevi, caro signore, tutto andrà bene. Credo che lunedì o martedì tutto sarà risolto. Non sono in grado di uscire al momento; vi andrò a trovare non appena possibile.”
+
+Ecco dunque, signora, in quale situazione mi trovo: ignoro completamente cosa accada nelle mie faccende, come se fossi a cento miglia da qui. Poiché mi è stato vietato di comparire in città. Inoltre, sono sempre solo, e le spese sono enormi; poi ci sono i costi necessari per ottenere quei miseri soldi, quelli legati alle visite del medico e al pagamento dei suoi rimedi. Potete facilmente immaginare che la mia borsa sia da tempo vuota, anche se ho già contratto notevoli debiti in questo locale. Quindi non conduco certo la vita più piacevole del mondo. E per colmo di sfortuna, signora, non ho alcuna notizia da parte vostra. Tuttavia cerco di tirare avanti con coraggio; e spero che prima di ricevere la mia lettera, riuscirò a capire tutto ciò che mi è accaduto. Perché, onestamente, se questa situazione dovesse continuare ancora a lungo, crederei davvero che si stia prendendo gioco di me.
+
+Vedete, signora, che il viaggio che avevo intrapreso come una sorta di divertimento ha assunto una piega del tutto opposta: quindi, il piacere di trovarmi tutto il giorno solo in una stanza, a lasciarmi sommergere dalla mia malinconia e in continue riflessioni, non contribuisce affatto, come potete facilmente immaginare, al miglioramento della mia salute. Anelo con impazienza al momento del mio ritorno e pregherò Dio che mi protegga da viaggi così sgradevoli in futuro.
+
+Ero appena arrivato alla fine della mia lettera quando il signor Barillot è venuto a trovarmi. Mi ha assicurato con forza che la mia questione non presentasse più alcuna difficoltà. Il residente si è intromesso e, per gentilezza sua, ha preso personalmente in carico questa faccenda. Poiché c’è un intervallo di due giorni tra l’inizio della mia lettera e la sua conclusione, in questo periodo ho avuto l’opportunità di rendere omaggio al residente, il quale mi ha accolto con estrema cortesia, anzi, con una cordialità davvero straordinaria. Ora sono sicuro che la mia questione verrà risolta completamente entro meno di tre giorni e che la mia parte sarà liquidata senza alcuna difficoltà, ad eccezione delle spese, le quali, a dire il vero, saranno piuttosto elevate, così come quella del signor Barillot, che si rivelerà molto più consistente di quanto avessi previsto.
+
+Signora, non ho ricevuto alcuna notizia da voi in questi ultimi due periodi; ne sono mortalmente preoccupato. Se non ricevo la vostra prossima lettera, non so cosa farò. Ho ricevuto una lettera dallo zio, insieme a un’altra indirizzata al curato suo amico. Andrò fino lì, ma so che non c’è nulla da fare. Quel prebendio è ormai perduto per me.
+
+Non ho ancora scritto a mio padre, né ho visto nessuno dei miei genitori; inoltre, mi è stato ordinato di mantenere lo stesso anonimato fino al momento del pagamento. Ho una terribile voglia di continuare a scrivere, poiché ho ancora molte cose da dire. Tuttavia non lo farò, e mi riservo di comunicarvi buone notizie nel prossimo ordine. Con profondo rispetto, ecc.
+
+Lettera XII – Alla signora baronessa di Warens
+
+[454]
+
+Grenoble, 13 settembre 1737.
+
+Signora,
+
+Sono qui da due giorni: non si può essere più soddisfatti di una città di quanto lo sia io di questa. Mi hanno dimostrato tanta amicizia e cortesia che, uscendo da Chambéry, credevo di trovarmi in un nuovo mondo. Ieri, il signor Micoud mi ha invitato a cena con diversi dei suoi amici; e la sera, dopo la commedia, sono andato a cena dal gentile signor Lagère.
+
+Non ho visto né la signora presidente, né la signora d’Eybens, né il signor presidente de Tencin: quest’ultimo si trova in campagna. Non ho potuto consegnare la lettera alle sue persone. Per quanto riguarda la signora de Bardonanche, mi sono presentato più volte, senza riuscire a fare le mie reverenze; ho fatto comunque consegnare la lettera e questa mattina dovrò pranzare da lei, dove apprenderò notizie sulla signora d’Eybens.
+
+È necessario parlare di Monsieur de l’Orme. Ho avuto l’onore, signora, di consegnargli personalmente la vostra lettera. Questo signore, scusandosi per l’assenza di Monsieur l’Évêque, mi offrì un ecu da sei franchi; lo accettai per timidezza, ma ritenni doverlo donare al portiere. Non so se abbia fatto la cosa giusta. Ma dovrà cambiare idea prima che io decida di agire diversamente. Oserei credere che anche voi non mi contraddirete in questo.
+
+Ho avuto la fortuna di trovare, appositamente per Montpellier, una sedia da viaggio: ne approfitterò[455]. L’acquisto è stato effettuato tramite un amico e il costo della vettura ammonta soltanto a un luigi da 24 franchi: partirò domani mattina. Sono molto dispiaciuto, signora, di non aver ricevuto notizie da voi; ma questa non è certo un’occasione da trascurare.
+
+Se avete, signora, delle lettere da inviarmi, credo che possano essere affidate a Monsieur Micoud qui, il quale le inoltrerà successivamente a Montpellier, all’indirizzo di Monsieur Lazerme. Potete anche inviarle direttamente da Chambéry: vi prego di decidere ciò che ritenete più opportuno; io, personalmente, non ne so nulla.
+
+Mi dispiace enormemente di essere stato costretto a partire senza poter rendere omaggio al signor marchese d’Antremont e presentargli le mie più umili ringraziamenti: oserei chiedervi, madama, di voler compensare questa mancanza?
+
+Poiché prevedo di poter essere a Montpellier mercoledì sera, il 18 corrente, potrei quindi, signora, ricevere le vostre preziose notizie nel corso della prossima settimana, se vi prendeste la briga di scrivere domenica o lunedì mattina. Vi prego di concedermi l’onore di credere che la mia impazienza fino a quel momento potrebbe arrivare all’inquietudine.
+
+Permettetemi ancora, signora, di prendermi la libertà di raccomandarvi di curare attentamente la vostra salute. Non siete forse mia cara mamma? Non ho forse il diritto di prendermene il massimo interesse; e non avete forse bisogno che vi si incoraggi continuiamente a prestare maggiore attenzione a essa?
+
+Ieri, al teatro, il mio stato d’animo è stato profondamente turbato. Hanno rappresentato “Alzire”; in verità la rappresentazione non era molto buona, ma sono rimasto commosso fino a perdere il respiro; le mie palpitazioni sono aumentate in modo sorprendente, e temo che ne risentirò per un po’[456].
+
+Perché, signora, ci sono cuori così sensibili al grande, al [sublime](/concepts/sublime), al patetico, mentre altri sembrano fatti soltanto per immergersi nella bassezza dei loro sentimenti? La fortuna sembra offrire una sorta di compensazione a tutto questo: cercando di elevare alcuni sentimenti, vuole portarli allo stesso livello della grandezza degli altri. Riesce nel suo intento o no? Il pubblico e voi, signora, probabilmente non sarete d’accordo. Questo incidente mi ha costretto a rinunciare per sempre al genere tragico, fino al ripristino della mia salute. Ora sono privato di un piacere che, nella mia vita, mi è costato molte lacrime. Ho l’onore di essere con profondo rispetto, ecc.
+
+Lettera XIII – Alla signora baronessa di Warens
+
+[457]
+
+Montpellier, 23 ottobre 1737.
+
+Signora,
+
+Non utilizzo il percorso indicato da Monsieur Barillot, perché significherebbe fare un giro lungo per raggiungere la destinazione. Poiché sia le vostre che le mie lettere passano tutte per Lione, sarebbe necessario disporre di un indirizzo a Lione.
+
 <span class="atom-split" data-atom="004" data-title="(apertura) (parte 4)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Voici un mois passé de mon arrivée à Montpellier, sans avoir pu recevoir aucune nouvelle de votre part, quoique j'aie écrit plusieurs fois et par différentes voies. Vous pouvez croire que je ne suis pas fort tranquille, et que ma situation n'est pas des plus gracieuses ; je vous proteste cependant, madame, avec la plus parfaite sincérité, que ma plus grande inquiétude vient de la crainte qu'il ne vous soit arrivé quelque accident. Je vous écris cet ordinaire-ci par trois différentes voies, savoir, par MM. Vêpres, M. Micoud, et en droiture ; il est impossible qu'une de ces trois lettres ne vous parvienne : ainsi, j'en attends la réponse dans trois semaines au plus tard ; passé ce temps-là, si je n'ai point de nouvelles, je serai contraint de partir dans le dernier désordre, et de me rendre à Chambéry comme je pourrai. Ce soir la poste doit arriver, et il se peut qu'il y aura quelque lettre pour moi ; peut-être n'avez-vous pas fait mettre les vôtres à la poste les jours qu'il fallait ; car j'aurais réponse depuis quinze jours, si les lettres avaient fait chemin dans leur temps. Vos lettres doivent passer par Lyon pour venir ici ; ainsi c'est les mercredi et samedi de bon matin qu'elles doivent être mises à la poste ; je vous avais donné précédemment l'adresse de ma pension : il vaudrait peut-être mieux les adresser en droit là où je suis logé, parce que je suis sûr de les y recevoir exactement. C'est chez M. Barcellon, huissier de la Bourse, en me Basse, proche du Palais.
@@ -169,6 +453,30 @@ P. S. Si vous avez quelque chose à m'envoyer par la voie des marchands de Lyon,
 J'allais fermer ma lettre quand j'ai reçu la vôtre, madame, du 12 du courant. Je crois n'avoir pas mérité les reproches que vous m'y faites sur mon peu d'exactitude. Depuis mon départ de Chambéry je n'ai point passé de semaine sans vous écrire. Du reste, je me rends justice ; et quoique peut-être il dut me paraître un peu dur que la première lettre que j'ai l'honneur de recevoir de vous ne soit pleine que de reproches, je conviens que je les mérite tous. Que voulez-vous, madame, que je vous dise ? Quand j'agis, je crois faire les plus belles choses du monde, et puis il se trouve au bout que ce ne sont que sottises : je le reconnais parfaitement bien moi-même. Il faudra tâcher, de se roidir contre sa bêtise à l'avenir, et faire phis d'attention sur sa conduite : c'est ce que je vous promets, avec une forte envie de l'exécuter. Après cela, si quelque retour d'[amour-propre](/concepts/amour_propre) voulait encore m'engager à tenter quelque voie de justification, je réserve à traiter cela de bouche avec vous, madame, non pas, s’il vous plaît, à la Saint-Jean, mais à la fin du mois de janvier ou au commencement du suivant.
 
 Quant à la lettre de M. [Arnauld](/schools/jansenism), vous savez, madame, mieux que moi-même, ce qui me convient en fait de recommandation. Je vois bien que vous vous imaginez que, parce que je suis à Montpellier, je puis voir les choses de plus près et juger de ce qu'il y a à faire ; mais, madame, je vous prie d'être bien persuadée que, hors ma pension et l'hôte de ma chambre, il m'est impossible de faire aucune liaison, ni de connaître le terrain le moins du monde à Montpellier, jusqu'à ce qu'on m'ait procuré quelque arme pour forcer les barricades que l'humeur inaccessible des particuliers et de toute la nation en général met à l'entrée de leurs maisons. Oh ! qu'on a une idée bien fausse du caractère languedocien, et surtout des habitants de Montpellier à l'égard de l'étranger ! mais pour revenir, les recommandations dont j'aurais besoin sont de toutes les espèces. Premièrement, pour la noblesse et les gens en place : il me serait très avantageux d'être présenté à. quelqu'un de cette classe, pour tâcher à me faire connaître et à faire quelque usage du peu de talents que j'ai, ou du moins à me donner quelque ouverture qui pût m'être utile dans la suite, en temps et lieu. En second lieu, pour les commerçants, afin de trouver quelque voie de communication plus courte et plus facile, et pour mille autres avantages que vous savez que l’on tire de ces connaissances-là. Troisièmement, parmi les gens de lettres, savants, professeurs, par les manières qu'on peut acquérir avec eux et les progrès qu'on y pourrait faire ; enfin, généralement pour toutes les personnes de mérite avec lesquelles on peut du moins lier une honnête société, apprendre quelque chose, et couler quelques heures prises sur la plus rude et la plus ennuyeuse solitude du monde. J'ai l'honneur de vous écrire cela, madame, et non à M. l'abbé Arnauld, parce qu'ayant la lettre vous verrez mieux ce qu'il y aura à répondre, et que, si vous voulez bien vous donner cette peine vous-même, cela fera encore un meilleur effet en ma faveur.
+
+<span class="qlang-split" data-lang="en"></span>
+
+It has been a month since my arrival in Montpellier, and I have not received any news from you, despite having written several times through different channels. You can imagine that I am far from at ease, and my situation is by no means pleasant. However, I assure you with the utmost sincerity that my greatest concern is the fear that something might have happened to you. This letter is being sent to you via three different routes: through Messrs. Vêpres and M. Micoud, as well as directly. It is impossible for any of these three letters not to reach you; therefore, I expect a reply within at most three weeks. If I receive no news by then, I will be forced to leave in the greatest disarray and make my way to Chambéry in whatever manner possible. The mail should arrive tonight, and it is possible that there will be a letter for me; perhaps you did not send your letters on the appropriate days. Had they been sent on time, I would have received a reply fifteen days ago. Your letters must pass through Lyon to reach me here; therefore, they should be sent on Wednesday or Saturday mornings. I had previously given you the address of my pension, but it might be better to send them directly to where I am staying, as I am certain they will arrive there without delay. The address is at Mr. Barcellon’s, the bailiff of the Bourse, in the Meilleure section, near the Palace.
+
+I have the honor of being here, with deep respect, and so on.
+
+P.S. If you have anything to send me through the merchants of Lyon, and if you were to write, for example, to Messrs. Vêpres in the same way as you did to me, I should receive their letter at the same time as yours, provided that they are sent on time.
+
+I was about to close my letter when I received yours, madam, dated the 12th of this month. I believe I have not deserved the reproaches you make regarding my lack of accuracy. Since leaving Chambéry, I have not spent a single week without writing to you. Moreover, I am fair enough with myself; and although perhaps it seemed somewhat harsh that the first letter I had the honor of receiving from you was filled only with reproaches, I admit that I deserve them all. What can I say to you, madam? When I act, I believe I am doing the finest things in the world, but in the end, it turns out to be nothing but foolishness—something I acknowledge quite clearly myself. In the future, I will try to steel myself against such stupidity and pay closer attention to my behavior. That is what I promise you, with a strong desire to keep it. As for whether some sense of [self-respect](/concepts/amour_propre) might still urge me to attempt some form of justification, I reserve the right to discuss this matter with you in person, madam—not, please, on Saint-Jean’s Day, but at the end of January or the beginning of the following month.
+
+As for Mr. [Arnauld](/schools/jansenism)’s letter, madam, you know better than I do what kind of recommendations would be suitable for me. I understand that you might think that since I am in Montpellier, I would be able to observe things more closely and determine what needs to be done; but please believe me, apart from my lodging and the host who provides my room, it is absolutely impossible for me to establish any contacts or even gain the slightest understanding of the local situation in Montpellier, until someone provides me with some means to overcome the barriers imposed by the aloofness of both individuals and the whole population towards strangers. Oh! How mistaken one can be about the character of the Languedoc region, and especially its inhabitants when it comes to foreigners! But to return to the matter at hand, the recommendations I would need are of various kinds. First and foremost, I would greatly benefit from being introduced to someone from the nobility or those in power; such contacts could help me make use of the limited talents I possess, or at least open up opportunities that might be useful to me in the future. Secondly, I need to establish connections with merchants in order to find shorter and more convenient ways to conduct business, as well as to gain many other advantages that come from such relationships. Thirdly, among the literati, scholars, and professors, I could learn valuable skills and make progress through their company. Lastly, in general, I would like to associate with any meritorious individuals who could offer me honest companionship, allow me to learn something new, and help me endure the harshness and monotony of solitude. I have the honor of writing this to you, madam, rather than to Mr. Arnauld, because by addressing you directly, you will be better able to decide how to respond. And if you would take the trouble to do so yourself, it would have an even greater positive impact on my behalf.
+
+<span class="qlang-split" data-lang="it"></span>
+
+È passato un mese dal mio arrivo a Montpellier e non ho ricevuto alcuna notizia da parte vostra, nonostante abbia scritto più volte e attraverso diversi canali. Potete essere certa che non sono affatto tranquillo e che la mia situazione non è delle più confortevoli; tuttavia vi assicuro con la massima sincerità che la mia principale preoccupazione deriva dalla paura che possa esservi accaduto qualche incidente. Sto inviando questa lettera attraverso tre diversi canali: i signori Vêpres, il signor Micoud e direttamente a voi. È impossibile che una di queste tre lettere non vi arrivi; pertanto aspetto la vostra risposta entro al massimo tre settimane. Se dopo questo lasso di tempo non riceverò alcuna notizia, sarò costretto a partire in condizioni disastrose e a recarmi a Chambéry nel modo che potrò. Stasera dovrebbe arrivare la posta; forse ci sarà qualche lettera per me. Forse non avete inviato le vostre nei giorni previsti, poiché avrei già ricevuto una risposta da quindici giorni se le lettere fossero state spedite in tempo. Le vostre lettere devono passare per Lione per arrivare qui; quindi dovrebbero essere inviate mercoledì o sabato mattina presto. Vi avevo già fornito l’indirizzo della mia pensione, ma forse è meglio inviarle direttamente dove mi trovo attualmente, poiché sono certo di riceverle senza problemi. Si tratta dell’abitazione del signor Barcellon, usciere della Borsa, situata in Me Basse, vicino al Palazzo.
+
+Ho l’onore di essere qui con il più profondo rispetto, ecc.
+
+P.S. Se avete qualcosa da inviarmi tramite i mercanti di Lione, e scriveste ad esempio ai signori Vêpres utilizzando lo stesso canale di comunicazione che usate con me, dovrei ricevere la loro lettera nello stesso momento della vostra.
+
+Stavo per chiudere la mia lettera quando ho ricevuto la vostra, signora, del 12 di questo mese. Credo di non aver meritato le rimproveri che mi fate per la mia mancanza di precisione. Da quando sono partito da Chambéry, non è passata nessuna settimana senza che vi scrivessi. Del resto, faccio giustizia a me stesso; e anche se forse mi è sembrato un po’ duro che la prima lettera che ho l’onore di ricevere da voi fosse piena solo di rimproveri, ammetto di meritarli tutti. Cosa posso dirvi, signora? Quando agisco, credo di compiere le cose più belle del mondo, e poi si scopre che sono solo sciocchezze: lo riconosco perfettamente anch’io. Dovrò cercare di resistere alla mia stupidità in futuro e prestare molta attenzione al mio comportamento: ve lo prometto, con grande desiderio di mantenerla. In ogni caso, se qualche rimorso d’[orgoglio](/concepts/amour_propre) dovesse ancora spingermi a cercare delle giustificazioni, riserverò il diritto di parlarne con voi di persona, signora. Non certo alla festa di San Giovanni, ma alla fine di gennaio o all’inizio di febbraio.
+
+Per quanto riguarda la lettera di Monsieur [Arnauld](/schools/jansenism), signora, voi sapete meglio di me quale raccomandazione mi sia effettivamente necessaria. Capisco bene che possiate pensare che, essendo a Montpellier, io abbia la possibilità di osservare più da vicino la situazione e decidere cosa sia opportuno fare; ma vi prego di essere assolutamente convinta che, fatta eccezione per la mia pensione e il mio ospite di camera, non mi è possibile stabilire alcun contatto né conoscere minimamente la realtà di Montpellier, finché non mi verranno forniti mezzi adeguati per superare le barriere poste dall’ostilità delle persone e dell’intera nazione verso gli stranieri. Oh! Quanto si sbaglia a concepire il carattere dei languedociani, e soprattutto degli abitanti di Montpellier nei confronti degli stranieri. Ma tornando al tema, le raccomandazioni di cui avrei bisogno sono di ogni tipo: innanzitutto, tra la nobiltà e le persone in posizione influente; mi sarebbe molto utile essere presentato a qualcuno di questa classe, per cercare di farmi conoscere e di sfruttare al meglio i pochi talenti che possiedo, o almeno per ottenere opportunità future che potrebbero rivelarsi utili. In secondo luogo, tra i commercianti, per trovare vie di comunicazione più rapide e semplici, e per molti altri vantaggi che si possono trarre da queste conoscenze. Terzo, tra gli intellettuali, gli scienziati, i professori: attraverso loro si possono acquisire nuove competenze e fare progressi significativi. Infine, in generale, con tutte le persone meritevoli con cui è possibile intrattenere rapporti onesti, imparare qualcosa e trascorrere almeno alcune ore in modo meno solitario e noioso del mondo intero. Ho l’onore di scrivervi queste cose, signora, e non a Monsieur l’abbé Arnauld, perché affidandovi la lettera potrete decidere più facilmente cosa rispondere; inoltre, se vorrete prendervi questa briga personalmente, l’effetto sarà ancora più positivo per me.
 
 <span class="atom-split" data-atom="005" data-title="(apertura) (parte 5)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
@@ -185,6 +493,40 @@ Lettre XV – À M…
 Montpellier, 4 novembre 1737.
 
 Monsieur,
+
+<span class="qlang-split" data-lang="en"></span>
+
+Madam, you describe my situation in Montpellier in such a humorous way that, in truth, the only way I could correct any possible inaccuracies would be to take the exact opposite approach. I will elaborate further on the kind of life I lead here in my next letter. As for you, madam, if only the account of your own circumstances were less truthful. Alas! For now, all I can do is earnestly wish for some alleviation in your lot; it would be too enviable if it were in accordance with what you deserve. I dare not hope for a recovery in my health, for it is even worse than when I left Chambéry; but if God were to grant me that, I would surely use it solely to try to relieve your burdens and assist you as a good and affectionate son, and as a grateful disciple. You urge me to stay here until Saint John’s Day. But I wouldn’t do so even if they covered me in gold. I have never seen a place more unsuitable to my tastes in all my life, nor a residence more tedious and gloomy than Montpellier. I know you won’t believe me; you are still influenced by the favorable impressions that those who have been there have spread abroad to attract others. Nevertheless, madam, I will provide you with a detailed account of life in Montpellier that will show you the truth clearly; I am waiting there for you to be astonished. As for my health, it is no wonder it has not improved. First of all, the food here is utterly poor—I mean it literally; I am not joking. The wine is too strong and always unpleasant to drink; the bread is passable, indeed, but there is no beef, no milk, no butter; we only eat poor-quality sheep’s meat and plenty of seafood, all prepared in foul-smelling oil. It would be impossible for you to taste the soups or stews they serve at my pension without vomiting. I don’t want to go into further detail about this, because if I told you everything exactly as it is, you would think even less of me than I deserve. Secondly, the air here does not suit me. Another paradox, even more unbelievable than the previous ones—but it is the truth. One cannot deny that the air in Montpellier is quite pure and fairly mild in winter. However, its proximity to the sea makes it dangerous for those who suffer from respiratory diseases; that’s why there are so many people with tuberculosis here. A certain wind, called “the marine wind” here, occasionally brings thick, cold fogs filled with salty, irritating particles, which are very harmful. As a result, I get colds, sore throats, and bronchitis more often than in Chambéry. But let’s not talk about this for now; if I said any more, you wouldn’t believe me. Yet I swear that I am telling you only the truth.
+Finally, there is the issue of high costs: I won’t dwell on this subject, as I have already discussed it before and plan to address it in more detail when discussing Montpellier. Let me just say that with the cash I brought with me and the 200 livres you kindly promised me, it would take a great deal more money for me to cover my current expenses—both what needs to be paid now and what will be needed later on. I haven’t been able to pay the landlady or rent my room yet; you can imagine how difficult my situation is, madam. And to make matters worse, if I were forced to borrow money, these kind people only charge 12 sous per six-franc piece every month. To be honest, I would rather sell everything than resort to such measures. However, madam, I am so fortunate that no one has yet asked me for money, except for the daily expenses for water, chicken broth, purgatives, and baths. Fortunately, I have found a way to borrow this money without any guarantees or interest—though it’s certainly not a reliable solution. It won’t last long, especially since the second month has already begun yesterday. But I am at ease now that I have heard from you and believe I will be helped in time. As for daily necessities, there is no shortage of them. Any good merchant in Lyon can issue a draft on Montpellier. If you mention this to M. C., he will be more than happy to help. In any case, here is the address of a merchant in Lyon who pays our gentlemen from Belley: M. Parent, a draper at the Change. As for my letters, it’s better to send them to M. Barcellon—or rather, Marcellon, as the address is on the first page—so they will be delivered more promptly. It’s already two hours past midnight, and my hand is tired from writing. Yet I haven’t even covered half of what I wanted to say. The rest of my story will be sent next Monday. I really can’t do any better; otherwise, madam, I wouldn’t imitate you in this regard. For now, I rely on our previous correspondence and send my respectful greetings to the reverend Jesuit fathers—Father Hemet and Father Coppier. Please give them a cup of chocolate to drink together in my honor. As for me, I’ll settle for some fish broth, since I don’t have even a tiny piece left.
+
+I forgot to mention Montpellier at the end; I decided to leave there by the end of December and go to a little, very pretty place in Provence to get donkey’s milk—just two miles from Saint-Esprit[458]. The air there is excellent; I will have good company, as I already met some people on the way, and I hope the cost of living won’t be quite as high as it is in Montpellier. I would like to hear your opinion on this. Moreover, it’s a two-for-one deal, since I will also be getting closer to my destination by two days’ travel time.
+
+I see, madam, that we could avoid many troubles and expenses if a merchant from Lyon were to instruct his correspondent here to send me money whenever I needed it, up to the amount designated; for these delays cause me great inconvenience and are of no benefit to you at all.
+
+Letter XV – To M.
+
+[459]
+
+Montpellier, November 4, 1737.
+
+Sir,
+
+<span class="qlang-split" data-lang="it"></span>
+
+Signora, il dettaglio che avete fornito sulla mia situazione a Montpellier è così ridicolo rispetto alla realtà che, in verità, non potrei correggere ciò che potrebbe essere in contrasto con la verità se non vi chiedendo di prendere esattamente l’opposto di quanto avete detto. Ne parlerò più ampiamente nella mia prossima lettera della vita che conduco qui. Per quanto riguarda voi, signora, se solo il racconto della vostra situazione fosse meno veritiero. Ahimè! Al momento, posso soltanto formulare fervidi desideri affinché il vostro destino possa essere alleviato: sarebbe troppo invidiabile se fosse conforme a ciò che meritate. Non oso sperare nel miglioramento della mia salute, poiché è ancora più precaria di quando sono partito da Chambéry; tuttavia, signora, se Dio volesse restituirmela, sicuramente la utilizzerei esclusivamente per cercare di alleviare le vostre preoccupazioni e per assistervi come un buon e affettuoso figlio, e come un allievo riconoscente. Mi esortate a rimanere qui fino a San Giovanni. Non lo farei nemmeno se mi offrissero dell’oro. Non ricordo di aver mai visto, in tutta la mia vita, una regione più antipatica ai miei gusti di questa; né un luogo di soggiorno più noioso e cupo di Montpellier. So bene che non mi crederete. Siete ancora influenzata dalle belle impressioni che coloro che ci sono stati hanno diffuso all’esterno per attirare altri. Tuttavia, signora, vi presento una descrizione dettagliata di Montpellier che vi farà comprendere la realtà delle cose; vi aspetto lì, per stupirvi. Per quanto riguarda la mia salute, non sorprende affatto che non si stia riprendendo. Prima di tutto, il cibo qui è davvero scadente; il vino è troppo forte e poco gradevole da bere; il pane è passabile, ma non ci sono né manzo né burro; si mangia solo carne di montone di scarsa qualità e pesce di mare in abbondanza, tutto preparato con olio puzzolente. È impossibile gustare zuppe o stufati senza vomitare. Non voglio continuare a parlare di queste cose, perché se vi raccontassi tutto esattamente come è, probabilmente non mi credereste affatto. Tuttavia posso giurare che dico solo la verità.
+Infine, c’è la question del costo: su questo non mi soffermerò, perché ne ho già parlato in precedenza e intendo approfondire l’argomento quando tratterò di Montpellier. Vi basti sapere che, con i soldi contanti che ho portato con me e i 200 franchi che avete avuto la gentilezza di promettermi, mi mancherebbe molto per coprire le spese correnti, come dite voi. Non sono ancora riuscito a pagare la padrona della pensione, né l’affitto della mia stanza; immaginate un po’ in che situazione mi trovo. E per completare il quadro, se dovessi ricorrere alla stampa per pubblicare qualcosa, queste brave persone hanno la gentilezza di chiedermi soltanto 12 soldi per ogni scudo da sei franchi, ogni mese. In verità, preferirei vendere tutto piuttosto che ricorrere a questo mezzo. Tuttavia, sono così fortunato che nessuno mi ha ancora chiesto denaro, tranne per le spese quotidiane come l’acqua, i brodi di pollo, i purgativi, i bagni. Anzi, ho trovato il modo di prenderli in prestito senza garanzie né interessi, da una persona molto affidabile. Tuttavia, questo non potrà durare a lungo, soprattutto ora che è già iniziato il secondo mese. Ma sono tranquillo, visto che ho ricevuto vostre notizie e sono sicuro di essere aiutato in tempo. Per quanto riguarda le comodità, ce ne sono in abbondanza: a Lione non c’è nessun commerciante che non emetta assegni su Montpellier. Se ne parlate con il signor C., gli sarà molto facile farlo. Comunque, ecco l’indirizzo di un commerciante che paga uno dei nostri signori di Belley: il signor Parent, mercante di tessuti a Lione, presso il Change. Per quanto riguarda le mie lettere, è meglio indirizzarle al signor Barcellon, o meglio, Marcellon, come indicato sulla prima pagina dell’indirizzo; così saranno consegnate più rapidamente. Sono le due dopo mezzanotte e la penna mi cade dalle mani. Tuttavia, non ho ancora scritto nemmeno la metà di ciò che volevo dire. La continuazione della mia relazione verrà inviata lunedì prossimo. Non posso fare di meglio. Altrimenti, signora, certamente non vi imiterei in questo senso. Nel frattempo, mi affido alle lettere precedenti e porgo i miei rispettosi saluti ai reverendi padri gesuiti: al reverendo padre Hemet e al reverendo padre Coppier. Vi prego umilmente di offrire loro una tazza di cioccolato da bere insieme, per la mia salute. Per quanto mi riguarda, mi accontento del fumetto, perché non mi è rimasto nemmeno un pezzettino.
+
+Ho dimenticato di concludere parlando di Montpellier e di dirvi che ho deciso di lasciarla verso la fine di dicembre per andare a prendere il latte d’asina in Provenza, in quel piccolo posto molto bello, situato a due leghe da Saint-Esprit[458]. L’aria lì è eccellente; ci sarà buona compagnia, con cui ho già fatto conoscenza durante il viaggio, e spero di non trovarmi lì così costretta come a Montpellier. Vi chiedo il vostro parere al riguardo. Inoltre, questo viaggio rappresenta anche un’ottima opportunità per approfittare di due vantaggi: mi avvicino infatti a due destinazioni diverse in una sola volta.
+
+Vedo, signora, che si potrebbero evitare molti inconvenienti e spese se un mercante di Lione facesse scrivere al proprio corrispondente da qui di mandarmi del denaro ogni volta che ne avessi bisogno, fino a raggiungere la somma destinata; poiché questi ritardi mi mettono in situazioni molto difficili e non vi portano alcun vantaggio.
+
+Lettera XV – A M.
+
+[459]
+
+Montpellier, 4 novembre 1737.
+
+Signore,
 
 <span class="atom-split" data-atom="006" data-title="(apertura) (parte 6)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
@@ -203,6 +545,42 @@ Lettre XVI – À Madame la baronne de Warens
 Montpellier, 14 décembre 1737.
 
 Madame,
+
+<span class="qlang-split" data-lang="en"></span>
+
+Which of the two should apologize to the other—either the poor traveler who has not spent a single week since leaving without writing to a friend from the bottom of his heart, or that ungrateful friend who goes so far as to ignore correspondence for two entire months or more without sending even the slightest sign of life to this poor pilgrim? Yes, sir, two whole months. I know I received a letter from you dated October 6th, but I also know that I did not receive it until the day before All Saints’ Day; and no matter how hard my reason tries to convince me otherwise, I find it difficult to believe that the date was added afterwards. As for me, sir, I wrote to you from Grenoble, the very day after my arrival in Montpellier, I sent you a letter through Mr. Micoud, I wrote directly to you; in short, I went to such lengths of accuracy that I almost sacrificed all my eagerness to keep in touch with you. As for Mr. de Trianon, God and he alone know whether one can truly accuse me of negligence in this regard. What a difference! It seems as if Savoy is seven or eight hundred miles away from here, yet we have compatriots in Montpellier who come from the region of Killerine (tell my uncle about this) and have received replies twice from their homes, while I have not received a single response from Chambéry. Three weeks ago, I received a letter telling me to wait, but since then, nothing more has come. No matter how difficult my current situation is, I would endure it willingly if only someone would deign to show me some sign of remembrance; but there is nothing—I am so forgotten that I hardly believe I am still alive. Since communication with Chambéry and Lyon has become impossible from here, I simply ask that people keep the promises they made to me. A few words of comfort would be enough to bring some solace to a situation that certainly has its hardships.
+
+I was unfortunate enough, in these embarrassing circumstances, to lose my hostess, Madame Mazet, and as a result, I had to settle my accounts with her heirs. A kind-hearted Irish man whom I had met showed me generosity by lending me sixty pounds on my word of honor—money that was used to pay my rent for the past month. However, I find myself deeply burdened by several other minor debts, and fifteen days ago, I was forced to abandon the treatment I had begun due to a lack of funds to continue it. Here are my current plans: If within fifteen days, which constitutes the rest of this second month, I receive no news at all, I have resolved to take a desperate gamble. I will try to sell some of my small possessions—those that are least valuable to me, for I have others that I would never part with—but this money will not be enough to pay off my debts or get me out of Montpellier. Therefore, I will dare to risk it at gambling, not out of any desire for it, but because I would rather endure solitude than resort to such a means, since there is no other way in Montpellier for me to make valuable connections. If I lose, my situation will hardly be any worse than before; but if I win, I will have escaped the most difficult predicament. It is indeed a great gamble, but I believe it is necessary to try in my current circumstances. I will only take this step as a last resort, when I see no other way out. If I receive good news by then, I certainly will not be so foolish as to venture into such uncertainty and risk losing everything: I will choose another course of action. I will pay off my debts here and then travel promptly to a small place near Saint-Esprit[460], where, at lower costs and in a healthier environment, I can begin my treatment again with greater peace of mind, comfort, and success—hopefully, much better than I did in Montpellier, whose atmosphere fills me with utter aversion. There, I will find kind company among honest people who will not seek to exploit the poor stranger but will instead help bring me a bit of joy, which I truly need very much.
+
+I confide all these things to you, my dear sir, as if you were a good friend who is willing to show concern for me and share in my little worries. I would also ask you to kindly pass on this information to those who are entitled to know it, so that if my letters should unfortunately get lost somewhere, someone else could then summarize their contents. Today I am writing to Mr. Trianon; and since the Paris post, which is also yours, only leaves here once a week, on Monday, it happens that since my arrival in Montpellier, I have not failed to send a single letter, despite the negligence in my own affairs, as you quite rightly and effortlessly pointed out.
+
+You might expect a description of the charming city of Montpellier, this earthly paradise, this center of French delights; but in truth, there is so little good and so much bad to say about it, that I would feel guilty of adding any further negative aspects to its portrayal. I await the moment when a more composed mind allows me to mention only those flaws that truth itself permits me to highlight. For now, here is roughly what you might think about it.
+
+Montpellier is a large and highly populated city, cut through by an immense labyrinth of dirty, winding streets that are six feet wide. These streets are alternately lined with magnificent hotels and miserable huts, filled with mud and manure. The inhabitants are divided into two classes: half are extremely wealthy, while the other half lead lives of utter poverty; yet they are all equally wretched in their ways of living—the most vile and filthy imaginable. Women are divided into two categories: those who spend their mornings beautifying themselves, their afternoons in debauchery, and their nights in similar pursuits, unlike the bourgeois women who devote their time solely to such activities. Moreover, neither group understands French; and they have such poor taste and lack of intelligence that they truly believe that comedies and operas are gatherings of sorcerers. As a result, no women have ever been seen attending performances in Montpellier, except perhaps a few unfortunate foreigners who would dare to offend the delicacy and modesty of the local ladies. You surely know the respect accorded to Huguenots in Italy and Jews in Spain; here, foreigners are treated precisely like a kind of animal created solely for being plundered, stolen from, and beaten if they have the audacity to complain. This is what I have been able to gather about the character of the inhabitants of Montpellier. As for the region itself, it produces good wine, a little wheat, abominable oil—nothing else but filth, poverty, and lack of everything essential to life. Adieu, my dear friend.
+
+Letter XVI – To Baroness de Warens
+
+Montpellier, December 14, 1737.
+
+Madam,
+
+<span class="qlang-split" data-lang="it"></span>
+
+Chi dei due dovrebbe chiedere scusa all’altro: il povero viaggiatore che, da quando è partito, non ha trascorso nemmeno una settimana senza scrivere a un amico dal cuore sincero, o quell’amico ingrato che arriva al punto di trascurare completamente la sua responsabilità, passando due mesi interi senza dare il minimo segno di vita a quel povero viaggiatore? Sì, signore, due mesi interi. So bene di aver ricevuto una vostra lettera datata 6 ottobre, ma so anche che l’ho ricevuta solo la vigilia di Ognissanti; e per quanto la mia ragione si sforzi di conciliarsi con i miei desideri, fatico a credere che quella data sia stata aggiunta in un secondo momento. Per quanto mi riguarda, signore, vi ho scritto da Grenoble, il giorno dopo il mio arrivo a Montpellier, tramite il signor Micoud. Insomma, ho fatto di tutto per essere estremamente puntuale nel mantenere i contatti con voi. Quanto al signor de Trianon. Dio e lui solo sanno se si possa davvero accusarmi di negligenza in questo senso. Che differenza. Sembra che la Savoia sia distante da qui sette o ottocento miglia, mentre a Montpellier abbiamo connazionali del decano di Killerine (diteci questo, per favore, a mio zio) che hanno ricevuto risposte due volte dalla loro regione. Mentre io non ho ricevuto nulla da Chambéry. Tre settimane fa ne ho ricevuta una in cui mi si chiedeva di attendere ancora. Da allora, niente più. Per quanto dura sia la mia situazione attuale, la sopporterei volentieri se solo qualcuno avesse la gentilezza di ricordarsi di me. Ma nulla. Sono così dimenticato. Che a malapena credo di essere ancora vivo. Poiché le comunicazioni con Chambéry e Lione sono diventate impossibili, non chiedo più altro che si mantengano le promesse fatte. Qualche parola di conforto mi sarebbe sufficiente. E basterebbe per rendere meno amara questa situazione così difficile.
+
+Ho avuto la sfortuna, in queste circostanze imbarazzanti, di perdere la mia ospite, madame Mazet; per questo ho dovuto saldare i miei debiti con i suoi eredi. Un onesto irlandese, che avevo conosciuto, fu così generoso da prestarmi sessanta sterline in cambio della mia parola; queste somme mi permisero di pagare il mese precedente e le spese della mia pensione. Tuttavia, a causa di altre piccole debiti, sono stato costretto ad abbandonare, da quindici giorni, i trattamenti medici che avevo iniziato, per mancanza di mezzi per continuarli. Ecco ora quali sono i miei piani: se entro quindici giorni, che rappresentano il resto del secondo mese, non riceverò alcuna notizia positiva, ho deciso di tentare un ultimo rischio. Venderò alcuni dei miei piccoli mobili, ovvero quelli che mi sono meno cari, poiché ne ho alcuni di cui non mi separerò mai. Tuttavia, questa somma non sarà sufficiente per pagare i miei debiti e lasciare Montpellier; quindi oserò rischiarla al gioco d’azzardo. Non per gusto, ma perché preferisco affrontare la solitudine piuttosto che ricorrere a questo mezzo, anche se a Montpellier non esistono altre possibilità. Se perderò, la mia situazione non sarà quasi peggiore di prima; ma se vincerò, mi libererò dal pericolo più grave di tutti. È davvero un grande rischio. Ma credo sia necessario provarci, data la mia situazione attuale. Prenderò questa decisione solo come ultima risorsa, quando non vedrò altre soluzioni. Se entro quel periodo riceverò buone notizie, sicuramente non commetterò l’imprudenza di tentare un’avventura così pericolosa. Prenderò invece un altro approccio: salderò i miei debiti qui e mi recherò immediatamente in una piccola località vicino a Saint-Esprit, dove, con spese minori e in un ambiente più salutare, potrò riprendere i miei trattamenti medici con maggiore tranquillità, piacere e successo. Come spero. A Montpellier il soggiorno è stato per me estremamente difficile; qui, invece, troverò buona compagnia di persone oneste che non cercheranno di approfittare del povero straniero, ma contribuiranno a rendergli la vita un po’ più felice. Ne ha davvero bisogno.
+
+Vi confido tutte queste cose, caro signore, come a un buon amico che desidera sinceramente interessarsi a me e condividere le mie piccole preoccupazioni. Vi chiedo anche di trasmetterle alle persone competenti, affinché, nel caso in cui le mie lettere dovessero perdersi da qualche parte, si possa comunque riassumere il loro contenuto. Oggi scrivo a Monsieur Trianon; e poiché la posta di Parigi, che è anche la vostra, parte da qui solo una volta alla settimana, cioè il lunedì, mi ritrovo ad aver scritto regolarmente ogni giorno da quando sono arrivato a Montpellier. Il che dimostra, come dite voi con grande saggezza, quanto sia grave la mia negligenza.
+
+Vi potrebbe essere offerta una descrizione della deliziosa città di Montpellier, questo paradiso terrestre, questo centro dei piaceri della Francia; ma, in realtà, ci sono così pochi aspetti positivi e così tanti negativi da menzionare, che mi sentirei in colpa se continuassi a rovinare il ritratto di questa città con qualche commento negativo. Aspetto che uno spirito più sereno mi permetta di parlare solo del male minimo che la verità mi consente di rivelare. Ecco, in linea di massima, ciò che potete pensare in attesa di ulteriori informazioni.
+
+Montpellier è una grande città molto popolosa, divisa da un immenso labirinto di strade sporche, tortuose e larghe circa sei piedi. Queste strade sono fiancheggiate alternativamente da splendidi hotel e misere capanne piene di fango e letame. Gli abitanti sono per metà molto ricchi e per l’altra metà estremamente poveri; tuttavia, tutti condividono lo stesso modo di vivere, il più vile e disgustoso che si possa immaginare. Le donne sono divise in due classi: da un lato ci sono le signore che trascorrono la mattina a truccarsi, il pomeriggio nei bordelli e la sera in dissolutezze; dall’altro lato ci sono le borghesi, le cui uniche occupazioni sembrano essere quelle legate alla vita notturna. In ogni caso, né l’una né l’altra comprendono il francese; inoltre, hanno un gusto e un’intelligenza così scarsi che non dubitano affatto che commedie e opere siano riunioni di stregoni. Quindi, a Montpellier non si è mai visto nessuno andare a teatro, tranne forse alcune povere straniere che hanno avuto l’imprudenza di sfidare la delicatezza e la modestia delle signore locali. Come sapete bene, in Italia si rispettano molto gli ugonotti, e in Spagna i giudei; qui, invece, gli stranieri vengono trattati esattamente come una specie di animali creati apposta per essere derubati, rapinati e picchiati, se solo osassero considerare tale trattamento ingiusto. Ecco quanto sono riuscito a scoprire riguardo al carattere degli abitanti di Montpellier. Per quanto riguarda la regione in generale, produce vino buono, un po’ di grano, olio di scarsa qualità, ma nessuna carne, né burro, né latticini, né frutta, né legna. Addio, caro amico.
+
+Lettera XVI – Alla signora baronessa di Warens
+
+Montpellier, 14 dicembre 1737.
+
+Signora,
 
 <span class="atom-split" data-atom="007" data-title="(apertura) (parte 7)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
@@ -334,6 +712,266 @@ Lettre XVIII – À Madame la baronne de Warens
 
 Ma très chère et très bonne maman, Je vous envoie ci-joint le brouillard du mémoire que vous trouverez après celui de la lettre à M. [Arnauld](/schools/jansenism). Si j'étais capable de faire un chef-d'oeuvre, ce mémoire à mon goût serait le mien, non qu'il soit travaillé avec beaucoup d'art, mais parce qu'il est écrit avec les sentiments qui conviennent à un homme que vous honorez du nom de fils. Assurément une ridicule fierté ne me conviendrait guère dans l'état où je suis : mais aussi j'ai toujours cru qu'on pouvait sans arrogance, et cependant sans s'avilir, conserver dans la mauvaise fortune et dans les supplications une certaine dignité plus propre à obtenir des grâces d'un honnête homme que les plus basses lâchetés. Au reste, je souhaite plus que je n'espère de ce mémoire, à moins que votre zèle et votre habileté ordinaires ne lui donnent un puissant véhicule ; car je sais, par une vieille expérience, que tous les hommes n'entendent et ne parlent pas le même langage. Je plains les âmes à qui le mien est inconnu ; il y a une maman au monde qui, à leur place, l'entendrait très bien ; mais, me direz-vous, pourquoi ne pas parler le leur ? C'est ce que je me suis assez représenté. Après tout, pour quatre misérables jours de vie, vaut-il la peine de se faire faquin ?
 
+<span class="qlang-split" data-lang="en"></span>
+
+I have just received your third letter; you do not date it, nor do you mention whether you have received mine, which leaves me in some confusion as to what to believe. You inform me that you have handed over the two hundred livres in question to Mr. Bouvier; I once again express my humble gratitude for this. However, since you sent this letter too early, it caused me to make a mistake: I issued a draft on Mr. Bouvier, but he refused to honor it, and it was returned to me. I immediately sent it back; it seems that it will be paid shortly. As for the other two hundred livres, I will only need half of that amount, since I do not intend to stay here any longer than until the end of February. Therefore, you will have to account for one hundred less livres. But I beg you to ensure that this money is safely in Mr. Bouvier’s hands by then. I was unable to follow the treatments prescribed for me due to a lack of funds. You had written that you would send me some money so that I could make arrangements before the final accounts are settled, but those accounts will be closed tomorrow, after two entire months of deliberation. As soon as I receive a response from Lyon, I will set off for Le Saint-Esprit and attempt the prescribed treatments—though, in all likelihood, they will be of no avail. Death is inevitable anyway, and my health is worse than ever.
+
+I am unable to continue telling you about my experiences today; it requires more tranquility than I currently possess. I should also mention that I have tried not to waste all my time in Montpellier; I have made some progress in mathematics. As for [entertainment](/positions/misery_and_greatness), my only source has been listening to charming music. I attended the opera three times—it is not particularly beautiful here, but the performers have excellent voices. I am currently in debt of one hundred and eighty livres here; with a bit of frugality, the remaining money should be enough to get by for the next two months. I hope to spend those months more pleasantly than in Montpellier. That is all. Nevertheless, madam, you may still write to me at this regular address; if I have left, your letters will be returned to me. I offer my most humble respects to the reverend Jesuit fathers. Once I receive some money and my spirits are not so depressed, I will have the honor of writing to them. With deep respect, etc.
+
+P.S. You must have received my reply regarding Mr. de Lautrec[461]. Oh, my dear mother! I would rather be with D. and engage in the hardest labor on earth than to possess the greatest wealth under any other circumstances. It is useless to think that I could live otherwise; I have told you this for a long time, and now I feel it even more passionately than ever. As long as I have this advantage, no matter what my situation is, everything else is indifferent to me. When one thinks as I do, it is not difficult to circumvent those important reasons that you refuse to tell me. For God’s sake, arrange things so that I do not die of despair. I accept everything; I submit to everything—except for this one matter, on which I am absolutely unable to agree, even if it meant suffering the most miserable fate. Ah! My dear mother, are you really no longer my dear mother? Have I lived for too many months already?
+
+You know there is one situation in which I would accept it with all the joy of my [-heart](/positions/fideism), but that situation is unique. Do you understand what I mean?
+
+1738
+
+Letter XVII – To Mr. de Conzié
+
+Correspondence Table
+
+Letter XVII – To Mr. de Conzié
+
+March 14, 1738[462].
+
+Sir,
+
+We received a letter from you yesterday evening, quite late at night, addressed to Madame de Warens, but we assumed it was meant for me. I am sending this reply early this morning, and this promptness should compensate for the brevity of my letter as well as the mediocrity of the verses attached to it. Moreover, mama did not want me to try to improve those verses, saying that it is not good for sick people to be too intellectual. We were very alarmed upon learning about your illness; and no matter how much you try to reassure us, we still remain concerned about your recovery, which can only be truly assured by your presence.
+
+I am honored to be associated with it, with infinite respect and devotion, and so on.
+
+To FANIE.
+
+Despite the art of Esculape and his sad efforts to help,
+
+That merciless fever was about to end my days.
+
+It was all because of you, dear Fanie.
+
+To remind me of life.
+
+Heavens! I still can’t think about it without feeling terrified:
+
+The horrors of Tartary unfolded before my eyes;
+
+In my eyes, death has obscured the true nature of things;
+
+I heard that murmur from the dreadful Cocyte.
+
+Alas! I was lost; the dreaded night owl.
+
+It had already led me to the shores of the River Lethe;
+
+There, offering me a cup, and with a stern look in his eyes.
+
+He immediately urged me to swallow that bitter wave:
+
+“Come,” he said, “and experience these life-saving waters.”
+
+Come and deposit here the errors and the evils.
+
+Which of these weak mortals fills such a lofty position?
+
+The aid provided by this river to all is truly beneficial.
+
+Without wasting a single day with unnecessary cries.
+
+Their hearts, having forgotten it, no longer desire it.
+
+Ah! Why is such oblivion necessary for them?
+
+If they knew what life really is, they would fear its misery.
+
+“Here it is,” I said to him, “a very learned sermon.”
+
+But dare you think so, my good lord Caron.
+
+After having loved the divine Fanie,
+
+Can such love ever be forgotten from memory?
+
+Do not take any credit for it; no, despite your efforts.
+
+My heart would adore her even among the dead:
+
+Therefore, please remove your black water.
+
+All the ink in the world, and that terrible grimoire.
+
+It would not take away from me those charming memories.
+
+On such a beautiful subject, I had much to say:
+
+And I was not ready to finish it yet.
+
+Suddenly, I saw something coming towards us.
+
+The god of the infernal empire.
+
+“Calm down,” he said to me, “I know about your suffering.”
+
+Perseverance has its price, even among the dead.
+
+What I did in the past for some futile agreements.
+
+I grant it to you today, out of your extreme tenderness.
+
+Go among the mortals, for the second time.
+
+To testify that, even on Super-Pluton,
+
+Such tender love deserves its rights.
+
+That is how it is, dear Fanie.
+
+May my passion for you have prevented me from perishing.
+
+But when the god of death wishes to restore me to life,
+
+Don’t make me die.
+
+1739
+
+Letter XVIII – To Baroness de Warens
+
+Letter XIX – To Baroness de Warens
+
+Correspondence Table
+
+Letter XVIII – To Baroness de Warens
+
+March 3, 1739.
+
+My very dear and good mother, I am sending you the attached memo, which will follow the letter to Mr. [Arnauld](/schools/jansenism). If I were capable of creating a masterpiece, this memo, in my opinion, would be such a work—not because it is particularly well-crafted, but because it is written with the sentiments befitting a man whom you honor as your son. Indeed, ridiculous pride would hardly suit me in my current state; yet I have always believed that one can maintain a certain dignity in adversity and through suffering—dignity more likely to earn the favor of an honest man than the most base acts of cowardice. Moreover, I hope for more from this memo than I truly expect, unless your usual zeal and skill give it greater impact; for I know from experience that not all men understand or speak the same language. I pity those whose ears are deaf to my words; there is a mother in the world who would understand them perfectly if they were addressed to her. But you may ask, why not speak their language instead? That is what I have often thought to myself. After all, for four miserable days of life, is it really worth demeaning oneself?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ho appena ricevuto la vostra terza lettera; non indicate la data e non menzionate nemmeno di aver ricevuto le mie: per questo non so cosa pensare. Mi dite di aver fatto contabilizzare i duecento livri in questione presso il signor Bouvier; vi ripeto ancora una volta la mia umile gratitudine. Tuttavia, avendomi scritto troppo presto, mi avete fatto compiere un passo errato: ho emesso una cambiale sul signor Bouvier, che lui ha rifiutata e che mi è stata restituita; l’ho immediatamente rispedita: sembra che verrà pagata entro breve. Per quanto riguarda gli altri duecento livri, ne avrò bisogno solo di metà, poiché non intendo trattenermi qui oltre la fine di febbraio; quindi vi mancheranno cento livri da contabilizzare. Ma vi supplico di far sì che questi soldi siano sicuramente nelle mani del signor Bouvier entro quel termine. Non sono riuscito a seguire le cure prescritte a causa della mancanza di denaro. Mi avevate scritto che mi avreste inviato dei soldi per potermi sistemare prima dell’apertura degli stati generali. Ebbene, l’apertura degli stati generali avviene domani, dopo due mesi interi di sedute. Non appena riceverò una risposta da Lione, partirò per il Saint-Esprit e proverò le cure prescritte. Ma temo che siano del tutto inutili. Dovrò comunque morire. E la mia salute è peggiorata di sempre.
+
+Oggi non posso continuare a raccontarvi quanto mi è accaduto; ci vorrebbe più tranquillità di quanta ne abbia attualmente. Vi dirò inoltre che ho cercato di non sprecare del tutto il mio tempo a Montpellier; ho fatto qualche progresso in matematica, e per quanto riguarda i [divertimenti](/positions/misery_and_greatness), l’unico che ho avuto è stato ascoltare musiche incantevoli. Sono andato tre volte all’opera: non è molto bella qui, ma ci sono voci eccellenti. Sono indebitato di centottanta livre; il resto, con un po’ di economia, mi basterà per passare i prossimi due mesi. Spero di trascorrerli in modo più piacevole che a Montpellier. Questo è tutto. Tuttavia, madame, potete sempre scrivermi qui all’indirizzo abituale; nel caso io fossi partito, le lettere mi verrebbero comunque restituite. Offro i miei più umili rispetti ai reverendi padri gesuiti. Quando riceverò del denaro e il mio spirito non sarà più così cupo, avrò l’onore di scrivere loro. Sono, con un profondo rispetto, ecc.
+
+P.S. Deve aver ricevuto la mia risposta riguardo a Monsieur de Lautrec[461]. Oh, mia cara mamma! Preferisco stare con D., occuparmi dei lavori più duri della terra, piuttosto che possedere la più grande fortuna in qualsiasi altro caso; è inutile pensare che io possa vivere diversamente: ve l’ho detto da tempo, e ora lo sento ancora più intensamente di prima. Finché ho questo vantaggio, non mi importa nulla, in quale condizione mi trovi. Quando si pensa come me, si capisce facilmente come evitare quelle ragioni importanti che voi non volete dirmi. Per l’amor di Dio, organizzate le cose in modo che io non muoia di disperazione. Approvo tutto; mi sottometto a tutto, tranne che a questo unico punto: non sono in grado di acconsentire, anche se dovesse significare subire il destino più misero. Ah! Mia cara mamma. Non siete forse più mia madre? Ho vissuto troppi mesi,?
+
+Sapete che c’è un caso in cui accetterei questa cosa con tutta la gioia del mio [cuore](/positions/fideism), ma questo caso è unico. Mi capite?
+
+1738
+
+Lettera XVII – A Monsieur de Conzié
+
+Tabella della corrispondenza
+
+Lettera XVII – A Monsieur de Conzié
+
+14 marzo 1738[462].
+
+Signore,
+
+Ieri sera, molto tardi, abbiamo ricevuto una lettera da parte vostra, indirizzata a madame de Warens, ma che abbiamo supposto fosse per me. Invio questa risposta stamattina presto, e questa puntualità dovrebbe compensare la brevità della mia lettera e la mediocrità dei versi che vi sono allegati. Del resto, mamma non ha voluto che li migliorassi, dicendo che non è bene che i malati abbiano troppo spirito. Siamo stati molto preoccupati nell’apprendere della vostra malattia; e per quanto voi cerchiate di rassicurarci, conserviamo un fondo di inquietudine riguardo al vostro recupero, il quale potrà essere completamente dissipato soltanto con la vostra presenza.
+
+Ho l’onore di essere, con un rispetto e un attaccamento infiniti, ecc.
+
+A Fanie.
+
+Nonostante l’arte di Esculapio e i suoi tristi tentativi di aiuto.
+
+La febbre spietata stava per porre fine ai miei giorni.
+
+È stato tutto merito vostro, adorabile Fanie.
+
+Ricordarmi della vita.
+
+Dio mio! Non riesco ancora a pensarci senza provare terrore.
+
+Le orrori del Tartaro si sono presentati davanti ai miei occhi;
+
+Ai miei occhi, la morte ha oscurato la natura stessa.
+
+Ho sentito quel mormorio provenire dal terribile Cocyte.
+
+Ahimè! Ero perso, quel temuto momento della notte.
+
+Mi aveva già portato sulle rive del Lete;
+
+Lì, mi porse una coppa e, con uno sguardo severo.
+
+Mi spinse immediatamente ad ingoiare quell’onda amara.
+
+“Vieni,” disse, “per provare queste acque così benefiche.”
+
+Vieni a depositare qui gli errori e i mali.
+
+Qui, corridoi pieni di deboli mortali.
+
+Il soccorso che questo fiume offre a tutti è salvavita.
+
+Senza rimpiangere quel giorno con grida inutili.
+
+Il loro cuore, avendolo dimenticato, non lo desidera più.
+
+Ah! Perché è necessario che dimentichino?
+
+Se conoscessero la vita, temerebbero la sua miseria.
+
+Ecco, gli dissi allora, un sermone davvero erudito.
+
+Ma osate forse pensare, mio nobile signore Caron.
+
+Dopo aver amato la divina Fanie.
+
+Mai si dimentica il ricordo di un tale amore?
+
+Non vi compiacetevi di questo; no, nonostante i vostri sforzi.
+
+Il mio cuore l’amava persino tra i morti:
+
+Pertanto, per favore eliminate la vostra “acqua nera”.
+
+Tutta l’inchiostro esistente al mondo, e tutto quel orribile grimorio.
+
+Questo non mi priverebbe del ricordo incantevole che ne ho.
+
+Su un argomento così bello avevo molto da dire.
+
+E non ero pronto ad arrendermi.
+
+All’improvviso, vidi qualcuno avvicinarsi a noi.
+
+Il dio dell’impero infernale.
+
+“Calmati,” mi disse, “conosco la tua sofferenza.”
+
+La costanza ha il suo prezzo, anche tra i morti.
+
+Quello che feci un tempo per alcuni vani accordi.
+
+Lo concedo oggi alla tua estrema tenerezza.
+
+Va tra i mortali, per la seconda volta.
+
+Testimoniare che, persino su Sur-Plutone,
+
+Un amore così tenero richiede dei diritti.
+
+È così, incantevole Fanie.
+
+Che la mia passione per voi mi abbia salvato dalla morte.
+
+Ma quando il dio dei morti vuole riportarmi in vita.
+
+Non cercate di farmi morire.
+
+1739
+
+Lettera XVIII – Alla signora baronessa di Warens
+
+Lettera XIX – Alla signora baronessa di Warens
+
+Tabella della corrispondenza
+
+Lettera XVIII – Alla signora baronessa di Warens
+
+3 marzo 1739.
+
+Ma amatissima e buonissima mamma, vi invio qui il “fumo della memoria” che troverete dopo quello della lettera a Monsieur [Arnauld](/schools/jansenism). Se fossi in grado di creare un capolavoro, questo memoriale, secondo i miei gusti, sarebbe proprio il mio; non perché sia stato scritto con grande arte, ma perché è stato redatto con i sentimenti adatti a un uomo che voi onorate chiamandolo vostro figlio. Certamente, una ridicola vanità non mi si addirebbe affatto nello stato in cui mi trovo; tuttavia ho sempre creduto che si possa, senza arroganza e senza umiliarsi, conservare nella sfortuna e nelle suppliche una certa dignità, più adatta a ottenere le grazie di un uomo onesto di quanto non lo siano le più basse viltà. Del resto, desidero di questo memoriale molto di più di quanto possa sperarne; a meno che il vostro zelo e la vostra abilità consuetudinari non gli conferiscano un potente effetto. Poiché so, per vecchia esperienza, che tutti gli uomini non comprendono e non parlano lo stesso linguaggio. Mi compiango di quelle anime a cui il mio linguaggio è sconosciuto; c’è una mamma al mondo che, al loro posto, lo capirebbe molto bene. Ma mi direte: perché non parlare il loro linguaggio? È ciò che mi sono più volte chiesto. Dopo tutto, per quattro miseri giorni di vita, vale davvero la pena comportarsi da buffoni?
+
 <span class="atom-split" data-atom="008" data-title="(apertura) (parte 8)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Il n'y a pas tant de mal cependant, et j'espère que vous trouverez, par la lecture du mémoire, que je n'ai pas fait le rodomont hors de propos, et que je me suis raisonnablement humanisé. Je sais bien, Dieu merci, à quoi que, sans cela, Petit aurait couru grand risque de mourir de faim en pareille occasion. Preuve que je ne suis pas propre à ramper indéfiniment dans les malheurs de la vie, c'est que je n'ai jamais fait le rogue ni le fendant dans la prospérité : mais qu'est-ce que je vous lanterne là, sans me souvenir, chère maman, que je parle à qui me connaît mieux que moi-même ? Baste ! un peu d'effusion de [coeur](/positions/fideism) dans l'occasion ne nuit jamais à l'amitié.
@@ -402,6 +1040,142 @@ Lettre XXII – À Madame de Sourgel
 
 ...1741[469]
 
+<span class="qlang-split" data-lang="en"></span>
+
+However, there is not so much harm in it, and I hope that upon reading this memoir, you will find that I have not acted in a way that is irrelevant or excessive, but rather that I have behaved in a reasonably humane manner. Thank God, I know full well what kind of dangers Petit would have faced if not for this; dying of hunger in such circumstances. The fact that I have never resorted to dishonesty or selfish behavior even in times of prosperity proves that I am not destined to endlessly sink into the misfortunes of life. But what am I talking about here—without remembering, dear mother, that I am speaking to someone who knows me better than I know myself? Enough! A little expression of [heart](/positions/fideism) at such a time can never harm a friendship.
+
+The entire memorandum is structured according to the framework we have discussed together on many occasions. I see all its parts as closely connected and capable of supporting each other. There is that damned journey from Besançon[463], regarding which, for my own sake, I felt it appropriate to slightly obscure its true purpose: a perpetual and unfortunate journey, if such ever existed in the world—and one that has already presented itself to me many times, under quite different forms. These are circumstances in which my vanity is not triumphant. In any case, I have managed to put everything together, God knows how! At least, if I am subjected to questioning at the Charmettes, I hope I will be able to answer satisfactorily. Since you are not as well-informed as I am, it would be wise, when presenting the memorandum, to briefly gloss over the details of the circumstances, to avoid any possible misunderstandings—unless I have the honor of meeting you before then.
+
+Regarding this matter, now that you have settled in the city, dear mother, don’t you ever think about taking a little trip to the countryside sometime? If my good genius inspires you to do so, please let me know at least three or four months in advance, so that I can prepare to welcome you and treat you with all due hospitality in my home.
+
+I take the liberty of extending my regards to Mr. Le Cureu and my friendship to my brother here. Please convey to the former that, just as Proserpine, (Ah! What a wonderful choice to mention Proserpine in this context!)
+
+Damn it! Where does my mind get all these kind thoughts from?
+
+Just as Proserpine used to spend six months on earth and six months in the underworld, it is likewise necessary for him to divide his time between you and me. But where shall we place the underworld? If you think it appropriate, let us put it in the city; otherwise, please do not object, for there is no room here for it. I have the honor of being, from the bottom of my heart, your very dear and good mother, etc.
+
+P.S. I realize that my letter might serve as an apology for you when you decide to write one that is a bit lengthy; but it must also be addressed to some dear and beloved mother; otherwise, mine would prove nothing at all.
+
+Letter XIX – To Baroness de Warens
+
+[464]
+
+Charmettes, March 18, 1739.
+
+My dear mother.
+
+I received, as I ought to have done, the letter you wrote to me last Sunday, and I sincerely concluded with myself that, since you believed I was in error, then I must indeed have been; therefore, without attempting to argue or evade the issue, I wholeheartedly apologized to my brother[465], and here too I offer you my most humble apologies. I also assure you that I am determined to always accept, with a positive attitude, any corrections you may deem appropriate to make, regardless of the tone in which you choose to express them.
+
+You have asked me to say that during Easter you wish to forgive me. I certainly do not intend to take this literally; I am sure that a heart like yours, which has loved someone as much as I remember you once loved me, could never reach such a state of bitterness that religious reasons would be necessary to reconcile you. I regard this as a small form of mortification that you impose upon me by forgiving me, and I know full well that a thorough understanding of your true feelings will alleviate that bitterness.
+
+I thank you, my dear mother, for the suggestion you made me to write to my father. However, please allow me to assure you that I did not delay in doing so out of negligence or forgetfulness. I believed it would be appropriate to wait for Mr. Abbé [Arnauld](/schools/jansenism)’s reply, so that if, as I fear, the project proved unsuccessful, I could simply drop the idea without further mention. But you have made me realize that my delay was based on a rather frivolous reason. Therefore, in order to rectify this as soon as possible, I am sending you this letter; I ask you to take the trouble to read it, consider it carefully, and send it on if you deem it appropriate.
+
+I believe it is unnecessary for me to assure you that I have been waiting with great impatience to see you again. Think, my dear mother, that it has been a month—perhaps even longer—that I have been deprived of this happiness. From the bottom of my heart, and with the feelings of a most affectionate son, etc.
+
+1740
+
+Letter XX – To Mr. d’Eybens
+
+Letter XXI – To Baroness de Warens
+
+Correspondence Table
+
+Letter XXI – To Baroness de Warens
+
+[467]
+
+[468]
+
+Lyon, May 1, 1740.
+
+Dear, dear mother of mine,
+
+I have finally arrived at Mr. de Mably’s residence; I cannot yet tell you precisely what my situation there will be, but what I have seen so far seems nothing unpleasant at all. Mr. de Mably is a very honest man who, having spent much time in society, at court, and enjoying various pleasures, learned to philosophize at an early age. He was pleased to find that my sentiments were quite in line with his own. So far, I have only had good things to say about the attention he has shown me. He expects me to behave freely in his house and not feel constrained in any way. You must understand that, being given such freedom, I will indeed exercise even less restraint; good manners have a great influence on me. And if Mr. de Mably does not disappoint me, I can assure you that my heart will be truly devoted to him. However, you have taught me not to rush to conclusions based on initial impressions, and never to place too much trust in what depends on human whims.
+
+To know how people think of me at this moment is something that is not entirely within my control. My usual timidity made me play a rather foolish role on the first day; and if Mr. de Mably had been from Savoy, he would have rendered his formidable judgment on the matter without any possibility of appeal. I do not know whether, behind that embarrassed demeanor, he was able to perceive anything good in me; what is certain is that his polite and engaging manner completely reassured me, and it now depends solely on me to show him who I really am. He writes to Father de la Coste, who will certainly share his letter with you; you can then form your own opinion about what he thinks of me.
+
+I dare to ask you, my dear mother, to be so kind as to convey my most humble respects to the Reverend Fathers and Brothers of the Jesuit Order. As for my little student, it would be impossible to refuse him the opportunity to be very kind; however, I am not yet able to tell you whether he will also possess a kind heart, because often what at this age appears to be signs of malice are merely signs of liveliness and carelessness. I have filled my letter with detailed information; but please, my dear mother, enlighten me as soon as possible regarding what is truly important to me—namely, your health and the success of your affairs. What is happening with Charmettes, Kiki, and all those who interest me so much? My address is at Mr. de Mably’s residence, the prévôt-général of Lyon, on Rue Saint-Dominique.
+
+I am honored to be, with great gratitude and deep respect, Madam, your most humble and obedient servant and son.
+
+1741
+
+Letter XXII – To Madame de Sourgel
+
+Correspondence Table
+
+Letter XXII – To Madame de Sourgel
+
+...1741[469]
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tuttavia, non c’è nulla di così grave; spero che, leggendo questo memoriale, comprenderete che non ho agito in modo spropositato e che mi sono comportato in modo ragionevolmente umano. So bene, grazie a Dio, a quale pericolo sarebbe potuto andare incontro Petit in una situazione del genere, se non fosse stato così. Il fatto che non abbia mai approfittato della prosperità per comportarmi in modo disonesto o spregevole dimostra che non sono il tipo da continuare a trascorrere la vita tra le difficoltà. Ma cosa sto dicendo, senza ricordarmi, cara mamma, che sto parlando con qualcuno che mi conosce meglio di me stesso! Basta! Un po’ di sincerità nel momento giusto non fa mai male all’amicizia.
+
+Tutta la memoria è strutturata secondo quel piano che abbiamo più volte analizzato insieme. Ritengo che tutto sia abbastanza coerente e possa reggere da solo. C’è quel maledetto viaggio a Besançon[463]: per onore mio, ho ritenuto opportuno nascondere un po’ il vero motivo di quel viaggio. Un viaggio eterno e sfortunato, se mai ne esistesse uno al mondo; mi è già capitato molte volte, sotto aspetti molto diversi. Sono immagini in cui la mia vanità non trionfa affatto. Comunque sia, ho cercato di sistemare tutto. Chissà come! In ogni caso, se dovrò rispondere a domande alle Charmettes, spero di riuscire a farlo senza difficoltà. Poiché voi non siete a conoscenza dei dettagli come me, sarà meglio, presentando la memoria, evitare di parlare troppo delle circostanze specifiche. Per evitare malintesi. A meno che non abbia l’onore di vedervi prima di allora.
+
+A proposito di questo, ora che siete stabilita in città, non vi viene mai in mente, cara mamma, di intraprendere qualche piccolo viaggio in campagna? Se il mio buon genio ve lo ispirasse, mi fareste un grande favore se mi avvisaste con tre o quattro mesi di anticipo, così da potermi preparare ad accogliervi e offrirvi tutte le cortesie che si addicono a casa mia.
+
+Mi permetto di rendere omaggio qui a Monsieur Le Cureu e di esprimere i miei saluti a mio fratello. Per favore, dite a Monsieur Le Cureu che, come Proserpina, (ah! Che bella idea inserire proprio Proserpina in questo contesto!).
+
+Maledizione! Da dove mi vengono tutte queste gentilezze?
+
+Poiché Proserpina un tempo trascorreva sei mesi sulla terra e sei mesi all’inferno, è necessario che anche lei divida il suo tempo tra te e me. Ma dove metteremo l’inferno? Mettetelo in città, se lo ritenete opportuno; perché qui, per favore, non volatene via. Ho l’onore di essere, dal profondo del mio cuore, tua molto cara e molto buona mamma, ecc.
+
+P.S. Mi rendo conto che la mia lettera potrebbe esservi utile come scusa, quando vi capiterà di dover scrivere una lettera un po’ lunga. Ma dovrà essere per una mamma molto cara e molto amata; altrimenti, la mia lettera non proverebbe nulla.
+
+Lettera XIX – Alla signora baronessa di Warens
+
+[464]
+
+Charmettes, 18 marzo 1739.
+
+Mia amatissima mamma.
+
+Ho ricevuto, come era dovuto, la lettera che mi avete scritto domenica scorsa, e ho sinceramente convenuto con me stesso che, poiché ritenevate che io avessi torto, doveva effettivamente essere così; pertanto, senza cercare scuse, ho chiesto sinceramente scusa a mio fratello[465] e vi porgo anch’io le mie umili scuse. Vi assicuro inoltre che ho deciso di accettare sempre con buona disposizione le correzioni che riterrete opportune da farmi, indipendentemente dal tono con cui le esprimerete.
+
+Mi avete fatto dire che, in occasione della Pasqua, desiderate perdonarmi. Non ho inteso prendere queste parole alla lettera, e sono certo che, quando un cuore come il vostro ha amato tanto qualcuno – come ricordo di essere stato amato da voi – sia impossibile arrivare a un punto di rancore tale da richiedere motivi religiosi per riconciliarsi. Considero questo perdono come una piccola mortificazione che mi imponete, e so bene che una perfetta conoscenza dei vostri veri sentimenti attenuerà l’amarezza.
+
+Vi ringrazio, mia molto cara mamma, per il parere che mi avete fatto dare di scrivere a mio padre. Tuttavia, lasciate che vi assicuri che il ritardo con cui ho agito non è stato causato né da negligenza né da dimenticanza. Pensavo fosse opportuno attendere la risposta di Monsignor l’Abate [Arnauld](/schools/jansenism), affinché, qualora l’argomento del mio memoriale non avesse alcuna possibilità di avere successo – come temevo – potessi lasciare cadere nel silenzio questo progetto ormai infranto. Tuttavia, voi mi avete fatto riflettere sul fatto che il mio ritardo si basava su una ragione troppo frivola; per rimediare al più presto possibile, vi invio questa lettera, e vi prego di prendervi la briga di leggerla, chiuderla e farla partire se lo ritenete opportuno.
+
+Non credo sia necessario assicurarvi che da molto tempo soffro nell’impazienza di rivedervi. Pensate, mia amatissima mamma, che da un mese, o forse anche di più, sono privato di questa felicità. Sono, dal profondo del mio cuore e con i sentimenti di un figlio il più tenero, ecc.
+
+1740
+
+Lettera XX – A Monsieur d’Eybens
+
+Lettera XXI – Alla signora baronessa di Warens
+
+Tabella della corrispondenza
+
+Lettera XXI – Alla signora baronessa di Warens
+
+[467]
+
+[468]
+
+Lione, 1° maggio 1740.
+
+Mia amatissima mamma,
+
+Sono finalmente arrivato a casa del signor de Mably; non vi dirò ancora con esattezza quale sarà la mia situazione lì, ma ciò che mi sembra finora non ha nulla di sgradevole. Il signor de Mably è un uomo molto onesto; una grande esperienza nel mondo, alla corte e nei piaceri gli ha insegnato a filosofare fin da giovane, e non si è certo lamentato che i miei sentimenti fossero abbastanza in linea con i suoi. Finora devo solo ringraziarlo per l’attenzione che mi ha dimostrato. Intende che io mi comporti con lui in modo naturale e senza alcuna restrizione, e che non mi senta limitato in nulla. Dovete riconoscere che, essendo così lasciato alla mia discrezione, mi concederò certamente ancora meno libertà; le buone maniere hanno su di me un grande potere. E se il signor de Mably non mi deluderà, può essere certo che il mio cuore gli sarà sinceramente devoto. Tuttavia, voi mi avete insegnato a non giudicare troppo in fretta dalle prime apparenze, e a non contare mai troppo su ciò che dipende dalla fantasia umana.
+
+Sapere, in questo momento, come si pensa di me non è del tutto nelle mie possibilità. La mia solita timidezza mi ha fatto interpretare un ruolo piuttosto sciocco il primo giorno; e se Monsieur de Mably fosse stato savoiardo, avrebbe espresso su questo argomento il suo giudizio spietato, senza alcuna possibilità di appello. Non so se, attraverso quell’aspetto imbarazzato, abbia percepito in me qualcosa di positivo; quello che è certo è che le sue maniere gentili e affabili mi hanno completamente rassicurato, e ora dipende da me mostrargli chi sono veramente. Scrive al R.P. de la Coste, il quale sicuramente vi comunicherà la sua lettera: potrete così giudicare cosa pensi di me.
+
+Oso supplicarvi, mia molto cara mamma, di voler far accettare i miei umili rispetti ai RR. PP. gesuiti. Per quanto riguarda il mio piccolo allievo, non si potrebbe certo rifiutargli di essere molto gentile. Ma non so ancora dirvi se avrà anche un cuore buono: spesso, a quell’età, ciò che sembra segno di malvagità non è altro che vivacità e leggerezza. Ho riempito la mia lettera con molti dettagli. Ma vi prego, mia molto cara mamma, di illuminarmi al più presto su ciò che per me è davvero importante: voglio sapere della vostra salute e del successo delle vostre faccende. Che fine hanno fatto le Charmettes, i Kiki, e tutte le altre cose che mi interessano tanto? La mia residenza è presso il signor de Mably, prefetto generale del Lyonnais, in rue Saint-Dominique.
+
+Ho l’onore di essere, con viva riconoscenza e profondo rispetto, signora, il vostro molto umile e molto obbediente servo e figlio.
+
+1741
+
+Lettera XXII – Alla signora de Sourgel
+
+Tabella della corrispondenza
+
+Lettera XXII – Alla signora de Sourgel
+
+...1741[469]
+
 <span class="atom-split" data-atom="009" data-title="(apertura) (parte 9)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Je suis fâché, madame, d'être obligé de relever les irrégularités de la lettre que vous avez écrite à M. Favre[470], à l'égard de madame la baronne de Warens. Quoique j'eusse prévu à peu près les suites de sa facilité à votre égard, je n'avais point à la vérité soupçonné que les choses en vinssent au point où vous les avez amenées, par une conduite qui ne prévient pas en faveur de votre caractère. Vous avez très raison, madame, de dire qu'il a été mal à madame de Warens d'en agir comme elle a fait avec vous et M. votre époux. Si son procédé fait honneur à son [coeur](/positions/fideism), il est sûr qu'il n'est pas également digne de ses [lumières](/schools/enlightenment), puisque avec beaucoup moins de pénétration et d'usage du monde je ne laissai pas de percer mieux qu'elle dans l'avenir, et de lui prédire assez juste une partie du retour dont vous payez son amitié et ses bons offices. Vous le sentîtes parfaitement, madame ; et, si je m'en souviens bien, la crainte que mes conseils ne fussent écoutés vous engagea, aussi bien que mademoiselle votre fille, à faire à mon égard certaines démarches un peu rampantes, qui, dans un coeur comme le mien, n'étaient guère propres à jeter de meilleurs préjugés que ceux que j'avais conçus ; à l'occasion de quoi vous rappelez fort noblement le présent que vous voulûtes me faire de ce précieux justaucorps, qui tient, aussi bien que moi, une place si honorable dans votre lettre. Mais j'aurai l'honneur de vous dire, madame, avec tout le respect que je vous dois, que je n'ai jamais songé à recevoir votre présent, dans quelque état d'abaissement qu'il ait plu à la fortune de me placer. J'y regarde de plus près que cela dans le choix de mes bienfaiteurs. J'aurais, en vérité, belle matière à railler, en faisant la description de ce superbe [habit](/concepts/custom) retourné, rempli de graisse, en tel état, en un mot, que toute ma modestie aurait eu bien de la peine d'obtenir de moi d'en porter un semblable. Je suis en pouvoir de prouver ce que j'avance, de manifester ce trophée de votre générosité ; il est encore en existence dans le même garde-meuble qui renferme tous ces précieux effets dont vous faites un si pompeux étalage. Heureusement madame la baronne eut la judicieuse précaution, sans présumer cependant que ce soin pût devenir utile, de faire ainsi enfermer le tout sans y toucher, avec toutes les attentions nécessaires en pareil cas. Je crois, madame, que l'inventaire de tous ces débris, comparés avec votre magnifique catalogue, ne laissera pas que de donner lieu à un fort joli contraste, surtout la belle cave à tabac. Pour les flambeaux, vous les aviez destinés à M. Perrin, vicaire de police, dont votre situation en ce pays-ci vous avait rendu la protection indispensablement nécessaire. Mais, les ayant refusés, ils sont ici tout prêts aussi à faire un des ornements de votre triomphe.
@@ -421,6 +1195,46 @@ Observations
 Craignant que les imputations calomnieuses de M. et madame de Sourgel ne fissent sur l'esprit de M. Favre une impression défavorable, madame de Warens crut qu'elle ferait bien de lui écrire. Sa lettre ayant été conservée, nous allons en rapporter quelques fragments.
 
 « Vous trouverez bon, monsieur, que, n'attendant plus ni réponse, ni satisfaction de M. et madame de Sourgel, je prenne le parti de vous écrire à vous-même. Je ne doute pas que vous ne prissiez mes intérêts avec chaleur, si vous étiez instruit de ce qui s'est passé entre eux et moi, et des circonstances dont toute cette affaire a été accompagnée J'en étais ici quand je viens de recevoir une copie de l'impertinente lettre que vous a écrite madame de Sourgel. Il semble qu'elle a affecté d'y entasser toutes les marques d'un méchant caractère. Je n'ai garde, monsieur, de tourner contre elle ses propres armes : je suis peu accoutumée à un semblable style, et je me contenterai de répondre à ses malignes insinuations, par un exposé du fait.
+
+<span class="qlang-split" data-lang="en"></span>
+
+Madam, I am sorry to have to point out the irregularities in the letter you wrote to Mr. Favre regarding Madame la Baronne de Warens. Although I had anticipated some of the consequences of her leniency towards you, I never imagined things would go as far as they did, given a behavior that does not reflect well on your character. You are quite right, madam, in saying that it was wrong for Madame de Warens to act as she did with you and your husband. If her conduct honors her heart, it certainly does not match the level of her intelligence, for I, with far less insight and worldly experience, was able to see more clearly into the future than she could and to predict accurately some of the events that have since occurred, events for which you are paying the price of her friendship and assistance. You were fully aware of this, madam; and if I remember correctly, your fear that my advice might not be heeded led both you and your daughter to take somewhat obsequious steps towards me—a behavior that, in someone like me, was hardly likely to improve the impression I already had of you. On this occasion, you very nobly mentioned the gift you intended to give me: that precious coat, which, just like me, holds such an honorable place in your letter. But with all the respect I owe you, madam, I must tell you that I never considered accepting it, no matter what state of decline fortune might have brought me into. In fact, when choosing my benefactors, I am quite particular about such matters. I could indeed find much to laugh at if I were to describe how that splendid coat ended up—so greasy and in such poor condition that even my modesty would have trouble suggesting that I wear something like it. I am able to prove what I say; that trophy of your generosity still exists, stored in the same chest that holds all these other precious items you have so proudly displayed. Fortunately, Madame la Baronne took the wise precaution of having everything carefully packed away without touching it, given that such care might be necessary at some point. I believe, madam, that comparing this list of remnants with your magnificent catalog will create a rather amusing contrast—especially when it comes to that beautiful tobacco chest. As for those candles, you had intended them for Mr. Perrin, the police vicar, whose protection was undoubtedly essential given your situation in this region. But since you refused them, they are here ready to add to the splendor of your “triumph.”
+
+Madam, I would not be able to continue in this light-hearted tone. I am truly indignant, and I believe that any honest man in my position would find it impossible not to feel the same. Reflect on your own circumstances, madam: remember the deplorable situation you found yourself in here—without money, without friends, without acquaintances, without resources. What would you have done without the assistance of Madame de Warens? Frankly, madam, I must say that you would have been in a very difficult position indeed. You had long since run out of your last penny; the name you chose to adopt, and the way you presented yourself, did nothing to arouse sympathy for you. Moreover, as far as I know, you had no significant testimonials to speak of your status or merits. Nevertheless, my kind godmother, moved by compassion for your troubles and current misery (please forgive me for using this word, madam), did not hesitate to help you. And the prompt and somewhat reckless manner in which she did so surely proves that her heart was far removed from those base and indignitable sentiments that you do not seem to mind attributing to her. Today, it seems even more evident—this very attempt to hide yourself is another proof of it—and frankly, this does little to reflect well on you.
+
+But, madam, what use is there in hesitating? The fact itself is your judge. It is as clear as the sun that you are trying to slander a woman who selflessly sacrificed herself to help you out of trouble. Out of selfish interest, you are willing to repay such a great kindness with utter ingratitude. And even if all your accusations were true, there would not be a single well-hearted person who would not reject with horror such despicable and shameless behavior as yours.
+
+But, thanks to God, there is no reason to fear that your statements might make a bad impression on those who have the honor of knowing Madame la Baronne, my godmother; her character and sentiments have so far maintained themselves with sufficient dignity that she has little to worry about regarding the accusations of slander. And surely, if anything has ever been opposed to her tastes, it has been greed and vile self-interest. Such vices are suitable for those who dare not show themselves in public; but for her, her actions are conducted in the face of heaven. And since she has nothing to hide in her conduct, she fears nothing from the speeches of her enemies. Moreover, Madame, you have included some rather vulgar terms in your letter regarding a necklace of garnets—terms utterly unworthy of a person who claims to be of a certain status, especially when referring to another woman of the same rank and whom you owe something. One might forgive such language given your sorrow at having to part with some pistols and being deprived of your precious money; and indeed, that is exactly what Madame de Warens will do—while correcting the inaccuracies in your account.
+
+As for me, madam, although you seemed to speak of me in an ambiguous manner, I would be honored to tell you that, though I am not known to you, I am indeed known to many worthy and distinguished individuals who are all aware that I have the honor of being the godchild of Madame la Baronne de Warens, who had the kindness to raise me and instill in me sentiments of integrity and honesty befitting her. I will strive to maintain these qualities throughout my life as a way of repaying her kindness; and I am deeply convinced that every example of cruelty and ingratitude that comes my way will serve as a valuable lesson, teaching me to avoid such behavior with utmost disgust.
+
+I have the honor of being here, with all due respect, etc.
+
+Observations
+
+Fearing that the slanderous accusations made by Mr. and Madame de Sourgel might have a negative impact on Mr. Favre’s mind, Madame de Warens thought it would be appropriate to write to him. Since his letter has been preserved, we will quote some passages from it.
+
+“Sir, you will surely agree that, since I have received neither response nor satisfaction from Monsieur and Madame de Sourgel, I have decided to write directly to you. I have no doubt that you would warmly support my interests if you were aware of what has happened between them and me, as well as of the circumstances surrounding this entire affair. I was here when I just received a copy of the impertinent letter that Madame de Sourgel wrote to you. It seems that she has gone to great lengths to display all the signs of a malicious character in it. Sir, I have no intention of using her own tactics against her; I am not accustomed to such language, and I will simply respond to her vicious insinuations by presenting the facts clearly.”
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sono molto dispiaciuto, signora, di dover evidenziare le irregolarità della lettera che avete scritto a Monsieur Favre riguardo alla baronessa de Warens. Anche se avevo previsto in parte le conseguenze della sua facilità nei vostri confronti, non avrei mai immaginato che le cose potessero arrivare al punto in cui sono arrivate, a causa di un comportamento che certamente non fa onore al vostro carattere. Avete perfettamente ragione, signora, nel dire che è stato sbagliato da parte della baronessa de Warens agire come ha fatto con voi e con vostro marito. Se il suo modo di comportarsi onora il suo cuore, certamente non è altrettanto degno delle sue conoscenze, poiché anche io, con molto meno intuizione e esperienza del mondo, sono riuscito a comprendere meglio del lei l’avenire e a prevedere in modo abbastanza accurato alcune delle conseguenze di cui ora pagate il prezzo per la sua amicizia e i suoi aiuti. Lo avete capito perfettamente, signora; e, se ricordo bene, la paura che i miei consigli venissero ascoltati vi ha spinto, insieme a vostra figlia, a compiere alcune azioni piuttosto umili nei miei confronti, azioni che, in un cuore come il mio, non avrebbero certo contribuito ad alleviare i pregiudizi che già avevo. A questo proposito, ricordate molto nobilmente il regalo che volevate farmi di quel prezioso giubbotto, che, proprio come me, occupa un posto così onorevole nella vostra lettera. Ma ho l’onore di dirvi, signora, con tutto il rispetto che vi devo, che non ho mai pensato di accettare quel regalo, per quanto basso possa essere stato il livello in cui la fortuna mi ha collocato. Nel scegliere i miei benefattori, tengo molto conto di queste cose. In realtà, avrei molti motivi per scherzare se dovessi descrivere quel magnifico abito ridotto in condizioni così pietose. È ancora esistente nello stesso armadio che contiene tutti quegli oggetti preziosi di cui fate un così pomposo spettacolo. Fortunatamente, la baronessa de Warens ha avuto la saggezza, anche se senza presumere che tale precauzione potesse rivelarsi utile, di far conservare tutto senza toccarlo, con tutte le attenzioni necessarie in un caso del genere. Credo, signora, che l’inventario di tutti questi oggetti, confrontato con il vostro magnifico elenco, possa creare un contrasto davvero interessante. Soprattutto quella bella scatola da tabacco. Per quanto riguarda i ceri, li avevate destinati a Monsieur Perrin, vice ispettore di polizia, la cui protezione era certamente necessaria data la vostra situazione in questa regione. Ma poiché li avete rifiutati, sono ora pronti anche loro ad adornare il vostro “trionfo”.
+
+Signora, non saprei continuare in questo tono scherzoso. Sono davvero indignato, e credo che a qualsiasi uomo onesto, al mio posto, sarebbe impossibile non provare lo stesso. Riflettete un attimo: ricordatevi le circostanze deplorevoli in cui vi siete trovati qui, voi, vostro marito e tutta la vostra famiglia. Senza denaro, senza amici, senza conoscenze, senza risorse. Cosa avreste fatto senza l’aiuto di madame de Warens? Onestamente, signora, sareste finiti in condizioni molto difficili. Da tempo non avevate più nemmeno un soldo; il nome che avevate scelto e il modo in cui vi presentavate non suscitavano certo simpatie. Non avevate, per quanto ne so, alcun testimone che potesse parlare a vostro favore riguardo al vostro rango o ai vostri meriti. Eppure, mia cara madrina, piena di compassione per i vostri mali e per la vostra attuale miseria (perdonatemi questo termine, signora), non esitò a venire in vostro aiuto. E il modo rapido e un po’ avventato con cui lo fece dimostra, credo, che il suo cuore era ben lontano da quei sentimenti pieni di bassezza e indignità che voi non vi vergognate affatto di attribuirle. Oggi sembra ancora evidente. Anche quel curioso tentativo di nascondervi ne è una prova. Il che, in realtà, non vi fa certo onore.
+
+Ma signora, a che serve tergiversare? Il fatto stesso è il vostro giudice. È chiaro come il sole che cercate di diffamare in modo meschino una donna che si è sacrificata senza esitazioni per tirarvi fuori dai guai. L’interesse di poche pistole vi spinge a ricambiare con un’ingratitudine spregevole uno dei benefici più importanti che poteste ricevere; e anche se tutte le vostre calunnie fossero vere, non esiste certo un cuore onesto che non respingesse con orrore le bassezze di un comportamento così disonorevole come il vostro.
+
+Ma, grazie a Dio, non c’è motivo di temere che i vostri discorsi possano fare una cattiva impressione su coloro che hanno l’onore di conoscere madame la baronessa, mia madrina; il suo carattere e i suoi sentimenti si sono finora mantenuti con sufficiente dignità da non dover temere molto le calunnie; e senza dubbio, se mai qualcosa è stato opposto ai suoi gusti, sono stati l’avarizia e gli interessi meschini. Questi vizi sono adatti a coloro che non osano mostrarsi in pubblico; ma per lei, le sue azioni avvengono alla luce del cielo; e poiché nella sua condotta non ha nulla da nascondere, non teme affatto i discorsi dei suoi nemici. Del resto, madame, avete inserito nella vostra lettera alcuni termini volgari riguardo a un collare di granati, molto indegni di una persona che si dice di condizione elevata, nei confronti di un’altra che lo è altrettanto e verso la quale ha degli obblighi. Si possono perdonare questi errori, data la tristezza che provate nel dover perdere alcune pistole e nel vedervi privata del vostro prezioso denaro; ed è questa la linea che madame de Warens seguirà, correggendo tuttavia l’errata esposizione dei fatti da voi fornita.
+
+Per quanto mi riguarda, signora, anche se voi avete l’abitudine di parlare di me in modo ambiguo, ho l’onore di dirvi che, sebbene non sia conosciuto da voi, lo sono invece da molte persone meritevoli e distinte, le quali sanno tutte che ho l’onore di essere il nipote della baronessa de Warens, la quale ha avuto la bontà di educarmi e di inculcarmi sentimenti di rettitudine e onestà degni di lei. Cercherò di mantenerli per suo conto, rendendole buona conto finché mi resterà un soffio di vita; e sono davvero ingannato se tutti gli esempi di durezza e ingratitudine che mi capiteranno sotto gli occhi non saranno per me delle buone lezioni che mi insegneranno ad evitarli con orrore.
+
+Ho l’onore di essere qui, con tutto il rispetto, ecc.
+
+Osservazioni
+
+Temendo che le calunniose accuse di Monsieur e Madame de Sourgel potessero lasciare un’impressione negativa su Monsieur Favre, Madame de Warens ritenne fosse opportuno scrivergli. Poiché la sua lettera è stata conservata, ne riporteremo alcuni frammenti.
+
+“Signore, riterrà opportuno che, non avendo più ricevuto risposta né soddisfazione da parte di Monsieur e Madame de Sourgel, io decida di scrivere direttamente a voi. Non dubito che prendiate con calore le mie ragioni, se veniste a conoscenza di ciò che è accaduto tra loro e me, nonché delle circostanze che hanno accompagnato tutta questa faccenda. Ero qui quando ho appena ricevuto una copia della lettera insopportabile che Madame de Sourgel vi ha scritto; sembra che abbia voluto accumularvi in essa tutte le manifestazioni di un cattivo carattere. Signore, non intendo certo usare contro di lei le sue stesse armi: non sono abituata a un simile stile, e mi limiterò a rispondere alle sue insinuazioni malvagie esponendo semplicemente i fatti.”
 
 <span class="atom-split" data-atom="010" data-title="(apertura) (parte 10)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
@@ -462,6 +1276,86 @@ Dissertation sur la musique moderne[471].
 
 Février 1743.
 
+<span class="qlang-split" data-lang="en"></span>
+
+“I saw here a gentleman and a lady, along with their family, who pretended to be printers under the name of Thibol; in the end, they decided to adopt the name Sourgel and assume the status of people of quality—I never really knew what was going on. One thing is certain: I had no proof or indication whatsoever to support their claims. They appeared in a very sad state, loaded with debts and penniless. Since I had developed some kind of relationship with the woman, who occasionally visited me and to whom I had been able to render some assistance, they came to me begging for help, asking me to lend them enough money to pay off their debts and enable them to travel to Paris. Not having the cash on hand that they needed, I borrowed it for them at considerable interest, although I set a very short deadline, since they promised to repay me as soon as they arrived in Paris. I took care of them not only without knowing them or anyone who did; I didn’t even know their real names. I am the only person who ever showed any interest in them, and I can assure you that any other attempts they might have made would have been utterly futile. I intervened on their behalf, settled their debts, helped the husband secure a way to be arrested and travel to Lyon with his son, provided shelter for the woman and her daughter in my home, allowed them to retrieve their belongings there, assigned my own property as collateral for the payment of their creditors—finally, I lent the woman and her daughter all the money they needed to make their journey with dignity, along with their family. Since then, I have been constantly harassed by their creditors until all their debts were paid in full, because I respect my commitments too much to go back on my word.”
+
+“As for the effects these items had on me, I can refer you to the inventory. The magnificent expressions of Madame de Sourgel did not add any value to them—none more than they had when she was deliberating whether to keep them or abandon them along with her apartment, which I managed to dissuade her from doing. I hoped she could still find some use for them. Monsieur, if I were to take into account all the minor expenses I incurred for this family, the losses to my own finances, the troubles and difficulties I faced, not to mention the embarrassing situations I found myself in, it seems quite reasonable that the cost of these furniture items would be fully compensated. But such trivial details are truly beneath me. Besides, it is only fair that I should pay some price for the pleasure I derived from being able to help them.”
+
+“Regarding these gifts, it would have been kind of Madame de Sourgel to have offered me something more substantial; since she is not accustomed to receiving such things from people I do not know, especially those who need my help as well as mine own, she would today have the pleasure of finding them along with all her furniture. It is true that she was kind enough to give me a small tobacco box, lined with lead—though I found it of very little value and rather shabby; I thought I could and even ought to accept it without any consequence. Moreover, since I make no use of tobacco at all, one could hardly accuse me of greed for accepting such a gift. It is included with the furniture. But what she forgot was a small wooden cross inlaid with mother-of-pearl, which I placed in the most prominent spot in my room, just to test the prophecy of Mademoiselle de Sourgel when she gave it to me—she said that whenever I looked at it, I would surely say, ‘This is my cross.’ Well, I doubt very much that I am short of gifts compared to Madame de Sourgel, even though she holds mine in such low regard. But it is not my place to bring these things up; my custom is to forget them once they have been given. Nor do I expect her to pay her pension with her daughter-in-law’s money—I allow her to attribute it all to friendship, although [compassion](/concepts/compassion) certainly played its part as well.”
+
+“Regarding that necklace of garnets, it is only right to take it back if it does not suit Madame de Sourgel; she could have used some decent and appropriate expressions in that regard. She knows very well that I never intended to impose it on her: I sold her that necklace for what it was, on exactly the same terms as it was sold to me by a lady of good character. As for me, I would never dare to offer her a compliment similar to the one Madame de Sourgel has just made.”
+
+“Madame de Sourgel accuses me of treating her badly. Is it really wrong to wait for nearly two years to receive money that was lent on such an occasion? Did she not promise to repay it as soon as she arrived? Didn’t I repeatedly beg her, out of kindness, to pay me at least out of consideration for the difficulties into which my advances had put me? Didn’t I write her numerous letters full of sincerity and courtesy, which, by describing the true situation, should have persuaded her to pay me, rather than letting her fall behind in her obligations? What great harm have I therefore done to her? No one knows better than you, sir; surely, if any shame should fall upon either of us, it is not my place to bear it.”
+
+“Here, sir, is what I had to say in response to the insults of that lady. All those who know me, all those who have known Mr. and Madame de Sourgel here, and even everyone in Chambéry can serve as witnesses to my claims. I am not in a hurry to gather these testimonies, for I would thereby expose myself to the mockery of those who have ridiculed my foolish credulity, as well as to the criticism of those who have condemned my imprudent behavior. Madame de Sourgel may now take whatever action she pleases, without fearing that I will go to any further lengths to respond to her insults. I believe that among honest people, it will be beyond doubt whom of us two will bear the disgrace resulting from this entire affair.”
+
+This letter serves to corroborate the details provided by Rousseau regarding Madame de Warens’ readiness to lend money or offer assistance. It explains the reasons for the disruption of her financial affairs and the chaos in her dealings. Always deceived, she failed to learn from her mistakes and would repeat the same errors the very next day. We believe readers would find it interesting to read a letter from Madame de Warens, as it contains evidence of the character Rousseau depicted her as having in his Confessions.
+
+1743
+
+Letter XXIII – To M.
+
+Letter XXIV – To Mr. Dupont
+
+Letter XXV – To Mr. Count des Charmettes
+
+Letter XXVI – To M.
+
+Letter XXVII – To Baroness de Warens
+
+Letter XXVIII – To Madame de Montaigu
+
+Correspondence Table
+
+Letter XXIII – To M.
+
+Written in response to the criticism that Abbe Desfontaines had directed at it.
+
+Thesis on Modern Music[471].
+
+February 1743.
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Ho visto qui un signore e una signora, con la loro famiglia, che si facevano passare per stampatori, usando il nome di Thibol; in seguito decisero di assumere il nome di Sourgel e di farsi passare per persone di rango. Non ho mai saputo con certezza cosa fosse realmente vero. Quello che è certo è che non ho avuto alcuna prova o indizio a riguardo. Apparivano in condizioni molto difficili: pieni di debiti, senza un soldo. Poiché avevo stretto una sorta di rapporto con la donna, che talvolta veniva da me e a cui ero stata abbastanza fortunata da poter essere d’aiuto, si presentarono a me chiedendomi aiuto, pregandomi di concedere loro del denaro per saldare i debiti e poter recarsi a Parigi. Non avendo il denaro contante di cui avevano bisogno, lo presi in prestito, con grandi difficoltà e ad alti interessi, anche se avevo fissato un termine molto breve, poiché mi promettevano di pagarmi non appena arrivati a Parigi. Mi sono quindi impegnata per loro, senza nemmeno conoscere loro o chiunque li conoscesse; anzi, senza nemmeno essere sicura del loro vero nome. Sono l’unica persona che si sia degnata di prestar loro attenzione. E oso affermare che qualsiasi altra tentativa da parte loro sarebbe stata vana. Ho fatto di tutto per aiutarli: ho placato i loro creditori, ho permesso al marito di garantire che non sarebbe stato arrestato e di recarsi a Lione con suo figlio; ho dato rifugio alla donna e alla figlia nella mia casa, ho permesso loro di prendere i propri effetti. Ho anche messo a disposizione i miei beni per pagare i creditori. Infine, ho prestato loro tutto il denaro necessario perché potessero viaggiare onorevolmente, insieme alla loro famiglia. Da allora non ho smesso di essere assillata dai loro creditori, fino a quando tutti i debiti non sono stati saldati. Perché rispetto troppo le mie promesse per mancare alla mia parola.”
+
+“Per quanto riguarda gli effetti che hanno avuto su di me, vi fornirò il catalogo completo. Le meravigliose espressioni della signora de Sourgel non aggiungeranno loro alcun valore in più rispetto a quello che avevano quando lei stessa decideva se abbandonarle insieme al suo mobilio. Io l’ho dissuasa dal farlo, sperando che potesse comunque trarne qualche vantaggio. Credo, signore, che se considerassi tutti i piccoli costi che ho sostenuto per questa famiglia, gli interessi del mio denaro, le difficoltà e soprattutto gli inconvenienti in cui mi sono trovata coinvolta, è molto probabile che il prezzo dei mobili venisse ampiamente compensato. Ma questi dettagli di poco conto, vi assicuro, non rientrano nella mia competenza; inoltre, è giusto che io paghi un certo prezzo per il piacere che ho avuto nell’aiutare queste persone, ”
+
+“Per quanto riguarda i regali attuali, sarebbe stato auspicabile che madame de Sourgel mi avesse offerto qualcosa di davvero bello. Poiché non è abituata a ricevere doni da persone che non conosco, soprattutto da coloro che hanno bisogno dei miei aiuti e di me stesso, oggi avrebbe potuto goderseli insieme a tutti i suoi mobili. È vero che si è presa la briga di regalarmi una piccola scatola da tabacco, foderata di piombo. Ma mi sembrava davvero di scarso valore e molto modesta; ho pensato quindi di poterla accettare senza alcun problema. Dopotutto, non facendo uso del tabacco, nessuno avrebbe potuto accusarmi di avarizia per averla accettata. È stata inclusa tra i mobili. Ma ciò che ha dimenticato è una piccola croce di legno incastonata di madreperla. L’ho messa nel posto più visibile della mia stanza, per verificare la profezia di mademoiselle de Sourgel: lei mi aveva detto che ogni volta che l’avrei vista, avrei pensato “Ecco la mia croce”. Comunque, dubito molto di essere indietro rispetto a madame de Sourgel, anche se lei disprezza tanto i miei regali. Ma non spetta a me ricordarle queste cose. La mia abitudine è dimenticarle non appena le ho fatte. E non chiedo nemmeno che paghi la sua pensione insieme a sua nuora. Lascio che tutto venga considerato un segno di amicizia. Anche se, in realtà, c’è stata anche una certa dose di [compassione](/concepts/compassion).”
+
+“Per il collare di granati, è giusto riprenderlo, se non si adatta a madame de Sourgel: avrebbe potuto utilizzare espressioni appropriate in merito; sa perfettamente che non ho cercato di imporle nulla: le ho venduto quel collare per ciò che era, e allo stesso prezzo con cui me lo aveva venduto una signora degna di stima. Di quella signora, mi guarderò bene dal fare un complimento simile a quello di madame de Sourgel.”
+
+“Madame de Sourgel mi accusa di trattarla male. È forse trattarla male aspettare quasi due anni l’oro che mi è stato prestato in una situazione del genere? Non mi aveva forse promesso di restituirmelo non appena fosse arrivata? Non le ho forse chiesto, più volte, di pagarmi, almeno per gentilezza, considerando le difficoltà in cui le mie anticipazioni mi hanno messo? Non le ho forse scritto molte lettere piene di cordialità e cortesia, che, descrivendo la situazione con sincerità, avrebbero dovuto spingerla a restituirmi l’oro, piuttosto che farle rimanere inadempiente? Quale grave danno le ho quindi arrecato? Nessuno lo sa meglio di voi, signore; sicuramente, se dovrà esserci vergogna per una di noi due, non sarà certo a me che spetterà sopportarla.”
+
+“Ecco, signore, ciò che avevo da rispondere alle invettive di questa signora. Tutti coloro che mi conoscono, tutti coloro che hanno conosciuto qui il signor e la signora de Sourgel, persino l’intera città di Chambéry, possono testimoniare quanto affermo. Non mi affretto ad raccogliere questi testimoni, poiché ciò potrebbe espormi al riso di coloro che hanno deriso la mia sciocca credulità, nonché ai rimproveri di coloro che hanno criticato il mio comportamento poco prudente. Ora la signora de Sourgel può fare ciò che vuole, senza temere che io mi impegni ulteriormente a rispondere alle sue offese. Credo che tra le persone oneste non possa esserci alcun dubbio su chi, di lei o di me, ricadrà la vergogna per tutta questa faccenda.”
+
+Questa lettera conferma i dettagli forniti da Rousseau riguardo alla facilità con cui madame de Warens prestava denaro o rendeva servizi agli altri. Spiega inoltre le cause del declino della sua fortuna e del disordine nelle sue faccende finanziarie. Sempre ingannata, non traeva alcun insegnamento dalle esperienze vissute e ripeteva il giorno dopo ciò che aveva fatto il giorno prima. Abbiamo ritenuto che il lettore troverebbe interessante questa lettera, nella quale si trovano prove del carattere che Rousseau le ha attribuito nelle sue Confessioni.
+
+1743
+
+Lettera XXIII – A M.
+
+Lettera XXIV – A Monsieur Dupont
+
+Lettera XXV – A Monsignor il conte des Charmettes
+
+Lettera XXVI – A M.
+
+Lettera XXVII – Alla signora baronessa di Warens
+
+Lettera XXVIII – Alla Signora de Montaigu
+
+Tabella della corrispondenza
+
+Lettera XXIII – A M.
+
+Scritta in occasione della critica che l’abate Desfontaines aveva rivolto alla sua opera.
+
+Dissertazione sulla musica moderna[471].
+
+Febbraio 1743.
+
 <span class="atom-split" data-atom="011" data-title="(apertura) (parte 11)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Je me disposais, monsieur, à vous envoyer un extrait de mon ouvrage ; mais j'en ai trouvé un dans les Observations sur les écrits modernes, qui me dispensera de ce soin, et auquel vos lecteurs pourront recourir. M. L. D. (l'abbé Desfontaines) dit que cet extrait est d'un de ses amis très versé dans la musique. Il est en effet écrit en homme du métier : je suis fâché seulement que l'auteur n'ait pas partout saisi ma pensée, ni même entendu mon ouvrage, d'autant plus que j'avais tâché d’y mettre toute la clarté dont mon sujet était susceptible. L'observateur dit, par exemple, que dans mon système les notes changent de nom selon les occasions : il me le fait dire à moi-même : cependant rien n'est moins vrai, puisque les mêmes notes y portent toujours et invariablement les mêmes noms : I est toujours ut, 2 toujours ré, etc. Il a encore mal entendu les changements de ton ; et faute d'avoir consulté les exemples que j'ai mis dans mon ouvrage, il a confondu la première note du chant qui suit le changement de ton, avec la première note du ton. Du reste, excepté quelques autres erreurs plus légères, je n'ai rien à reprendre dans cet extrait. Il serait à souhaiter que les réflexions que l'observateur y a ajoutées allassent un peu mieux au fait. Peu importe à mon système qu’Arétin ait le premier exprimé les sons de l'octave par les syllabes usitées : je veux, sur la foi de Denys d’Halicarnasse, qu'on fasse honneur aux anciens Égyptiens de cette invention, et même, s'il le faut, de l’Hymne de Saint-Jean, d'où ces syllabes sont tirées. Je consens, si tel est le bon plaisir de l'observateur, qu'on jette au feu toutes les traductions, excepté peut-être celle de M. l'abbé son ami ; que nos chiffres ne soient que des lettres grecques corrompues ; mais enfin je ne vois pas ce que font toutes ces remarques au système que j'ai proposé. Une dame d'esprit peut, même sans être grande musicienne, dire en badinant que si je change en chiffres les notes de la musique, peut-être substituerai-je en revanche des notes aux chiffres de l'accompagnement ; mais le bon mot, tout joli qu'il est, n'a pas, je pense, assez de solidité pour engager un journaliste à le citer à propos de rien. Quoi qu'il en soit, je déclare à l'observateur que je ne prétends point me brouiller avec les dames, et que je passe condamnation dès à présent sur tout ce qu'elles blâmeront.
@@ -493,6 +1387,70 @@ Les ambassadeurs ont deux voies de négociation avec le gouvernement. La premiè
 Mais comme cette manière de traiter par écrit est sujette à bien des inconvénients, soit par les longueurs qui en sont inséparables, soit par la difficulté du secret, plus grand dans un corps composé de plusieurs têtes ; quand les ambassadeurs sont chargés par leurs principaux de quelque négociation particulière, et d'une certaine importance auprès de la république, on leur nomme, à leur réquisition, un sénateur pour conférer tête à tête avec eux ; et ce sénateur est toujours un homme qui a passé par des ambassades, un procurateur de Saint-Marc, un chevalier de l'Étoile d'or, un sage grand, en un mot, une des premières têtes de l'état par le rang et par le génie.
 
 Il y a des exemples, et même assez récents, que la république a refusé des conférents aux ambassadeurs de princes dont elle n'était pas contente, ou dont elle ne croyait pas les négociations de nature à en mériter. C'est pourtant ce qui n'arrive guère, parce que, suivant une maxime générale, même à Venise, on ne risque rien à écouter les propositions d'autrui.
+
+<span class="qlang-split" data-lang="en"></span>
+
+Sir, I was about to send you an excerpt from my work; but I have found one in the “Observations on Modern Writings” that will obviate this need, and which your readers can refer to. Mr. L. D. (Abbe Desfontaines) states that this excerpt is written by one of his friends who is highly knowledgeable in music. Indeed, it is written by a professional; my only regret is that the author did not fully grasp my intentions or even understand my work, especially since I had tried to present my ideas as clearly as possible. For example, the observer says that in my system the names of the notes change depending on the context—I would say that this is simply not true, since the same notes always bear the same names: I is always ut, 2 is always ré, and so on. He also misinterpreted the changes in tone; and without referring to the examples I provided in my work, he confused the first note of a new tone with the starting note of that tone itself. Apart from a few other minor errors, I have nothing to object to in this excerpt. It would be desirable if the observations added by the observer were more relevant to the subject matter. It matters little to my system whether Arétin was the first to express the sounds of an octave using certain syllables; I want to honor the ancient Egyptians for this invention, and even, if necessary, the Hymn of Saint John from which these syllables derive. If that is the observer’s wish, I am willing to dismiss all translations except perhaps that of his friend, the abbe; I am also willing to accept that our numerical system is merely a corrupted form of Greek letters. But ultimately, I see no relevance of these remarks to the system I have proposed. A clever woman might jokingly say that if I convert musical notes into numbers, I might also replace the numerical symbols in accompaniment with actual musical notes; but such a remark, as lovely as it is, does not possess enough substance to persuade a journalist to quote it on any serious matter. In any case, I declare to the observer that I have no intention of offending ladies in any way, and that I accept in advance whatever they may criticize.
+
+Regarding the inaccuracies in my language, I readily acknowledge them. I believe that a Swiss would not be particularly well-received if he were to insist on being a purist; and Mr. Desfontaines, who is certainly aware of my country, could have advised his friend to show some indulgence towards me as a foreigner. Even the Academy of Sciences has set an example in this regard, and people have not failed to compliment me on my style. However, I am well aware that such praise often honors more my zeal than my actual talents. I am truly grateful to the observer who took the trouble to highlight, through the use of italics[472], the absurdity of a style that I myself can no longer bear to read since that time. I do not believe I will ever write another passage structured in such a manner; and this is precisely how I intend to handle my mistakes—whenever someone is kind enough to point them out to me[473].
+
+Moreover, I do not believe that the term “academy” arouses any critical thinking in the observer; I am convinced that the addition he made, after what was essentially a natural reflection on my part, is merely a frivolous remark that he himself realizes to be meaningless. To prove that one often has to address the public differently than an academic audience, he need only honestly ask M. Desfontaines whether he would not make some adjustments to his writings, in the event that his only readers were academics.
+
+The recognition given to me does not allow me to conclude this letter without expressing my gratitude to the observer for the compliments he has honored me with. I believe them to be sincere, without presuming that I deserve them; for while on one hand he accompanies them with remarks intended to make them less suspect, on the other hand he remains silent about several defects just as important as those he has pointed out. For instance, in citing the passage from Lucretius that I have placed at the beginning of my book, he repeats the mistake I made through carelessness—writing “animus” instead of “sensus,” the term used by that poet[474]. Now, since one would never suspect such a meticulous observer to have failed to notice such a mistake, it is clear that he refrained from mentioning it out of indulgence, probably not wishing to diminish in any way my status as a man of letters, which he has partially favored me with. What strikes me as strange is that he interprets this epigraph in a way that, according to him, I had not considered; yet I had indeed thought of it precisely in that manner, and it seems to me to be the only reasonable explanation one could give for its placement where it is.
+
+Rousseau.
+
+Observation
+
+This letter was brought to our attention by Mr. Barbier. It was never included in any edition of J.-J. Rousseau’s Works or Correspondence, and was only found in the collection known as *Journal de Verdun* [475]. In addition to the passage that we mentioned in the footnote—which Rousseau could no longer read himself—Abbe Desfontaines also draws attention to this phrase. It is clear that once symbols or means of comparison are invented, it becomes possible to measure the distance that separates the author of *Dissertation sur la musique moderne* from the author of *Émile*.
+
+Letter XXIV – To Mr. Dupont
+
+SECRETARY TO MR. JONVILLE, FRANCE’S SPECIAL ENVOY TO GENOA[476].
+
+[477]
+
+Venice, July 25, 1743.
+
+I begin my letter, my dear colleague, with the instructions that you requested in your letter dated the 18th, which were given to me by Mr. the Envoy; thereafter, we shall have some brief discussion regarding the hussars of Prince Lobkowitz, as well as that good priest from Foligno—about whom you speak with such irreverence that it smacks strongly of contempt.
+
+Ambassadors have two avenues for negotiation with the government. The first and most common one is through memorials, which are particularly favored by the Senate; for, in addition to avoiding any direct personal connections between the ambassador and certain members of the government, such memorials also allow for more careful preparation of the arguments to be presented. Moreover, the ambiguous and vague nature of these responses enables the ambassador to limit their commitment considerably, as opposed to situations where they would be forced to speak with greater clarity during formal conferences.
+
+However, since this method of conducting negotiations in writing entails numerous disadvantages—either due to the inevitable lengthiness of such communications or because of the greater difficulty in maintaining secrecy, especially when dealing with a body composed of multiple individuals—when ambassadors are entrusted by their superiors with particularly important negotiations on behalf of their republic, a senator is appointed at their request to meet with them in private. This senator is always someone who has previously held diplomatic posts: either a procurator of Saint Mark, a knight of the Golden Star, or a distinguished sage—in short, one of the foremost figures of the state, both in rank and ability.
+
+There are examples, even quite recent ones, where the republic refused to grant conferences to the ambassadors of princes whom it was not pleased with, or whose negotiations it did not believe would be worthy of such attention. Yet this is something that rarely happens, because, according to a general rule, even in Venice, there is no harm in listening to what others have to propose.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Signore, stavo per inviarvi un estratto del mio lavoro; tuttavia ho trovato uno simile nelle “Osservazioni sugli scritti moderni”, il quale mi risparmierà questa incombenza e al quale i vostri lettori potranno fare riferimento. Il signor L. D. (l’abate Desfontaines) afferma che questo estratto proviene da uno dei suoi amici molto versato in musica. Infatti, è scritto da un esperto del settore; mi dispiace soltanto che l’autore non abbia sempre compreso il mio pensiero, né nemmeno letto attentamente il mio lavoro, soprattutto considerando che avevo cercato di esprimerlo con la massima chiarezza possibile. Ad esempio, l’osservatore sostiene che nel mio sistema le note cambino nome a seconda delle circostanze; ma questo è assolutamente falso, poiché le stesse note portano sempre gli stessi nomi: il I rimane sempre ut, il 2 sempre ré, e così via. Ha anche frainteso i cambiamenti di tono; inoltre, non avendo consultato gli esempi che ho fornito nel mio lavoro, ha confuso la prima nota del canto che segue un cambio di tono con la prima nota dello stesso tono. A parte queste e altre piccole errori, non ho nulla da obiettare a questo estratto. Spererei soltanto che le riflessioni aggiunte dall’osservatore fossero più pertinenti al tema trattato. Non importa affatto che Arretino sia stato il primo ad esprimere i suoni dell’ottava attraverso le sillabe comunemente usate: io, sulla base delle affermazioni di Denys di Alicarnasso, desidero riconoscere agli antichi Egizi l’invenzione dei suoni musicali; anzi, se necessario, anche all’Inno di San Giovanni da cui queste sillabe derivano. Se tale è il desiderio dell’osservatore, sono disposto ad accettare che tutte le traduzioni esistenti vengano bruciate, tranne forse quella del suo amico l’abate; che i nostri simboli musicali siano semplicemente lettere greche alterate. Ma in definitiva, non vedo quale rapporto abbiano tutte queste osservazioni con il sistema che ho proposto. Una donna di spirito potrebbe, anche senza essere una grande musicista, dire scherzando che se sostituisco le note musicali con dei simboli, forse in cambio aggiungerò delle vere note ai simboli utilizzati per l’accompagnamento. Ma un bel detto, per quanto piacevole, non ha certo la solidità necessaria per convincere un giornalista a citarlo su qualsiasi argomento. Comunque sia, dichiaro all’osservatore che non intendo assolutamente scontrarmi con le donne, e che accetto in anticipo ogni loro critica.
+
+Per quanto riguarda le imprecisioni del mio linguaggio, sono facilmente d’accordo nel riconoscerle. Credo che un svizzero non avrebbe certo l’aria di chi si comporta da purista; inoltre, il signor Desfontaines, che conosce bene la mia patria, avrebbe potuto chiedere al suo amico di mostrarmi qualche indulgenza su questo punto, considerandomi un straniero. Anche l’Accademia delle Scienze ha dato l’esempio in questo senso, e non si è certo astenuti dal complimentarmi per lo stile del mio scritto. Tuttavia, so bene come devo ricevere questi elogi: onorano piuttosto il mio zelo che i miei talenti. E sono davvero grato a colui che, con l’uso di caratteri in grassetto[472], ha evidenziato l’assurdità di quel periodo di scrittura; da allora non ho più osato riprodurlo. Non credo che mi capiterà mai più di scrivere qualcosa di simile. Ed è proprio così che intendo utilizzare le mie “errori”, ogni volta che qualcuno vorrà gentilmente farmele notare[473].
+
+Inoltre, non credo affatto che la parola “accademia” susciti la critica dell’osservatore; sono convinto che quella nota aggiunta da lui, dopo una riflessione del tutto naturale da parte mia, sia soltanto un puro scherzo, di cui egli stesso sa bene che non ha alcun senso. Per convincersi che spesso bisogna parlare al pubblico in modo diverso rispetto a come si farebbe in un’Accademia, basta chiedere onestamente a M. Desfontaines se non apporterebbe qualche modifica ai suoi scritti, nel caso in cui i suoi lettori fossero soltanto accademici.
+
+La gratitudine mi impone di concludere questa lettera ringraziando l’osservatore per gli elogi che mi onora con essi. Li ritengo sinceri, senza illudermi di meritarli; infatti, se da un lato questi elogi sono accompagnati da commenti volti a renderli meno sospetti, dall’altro vengono taciuti diversi difetti altrettanto importanti di quelli che ha evidenziato. Ad esempio, citando il passaggio di Lucrezio che ho inserito all’inizio del mio libro, egli riproduce l’errore commesso per distrazione: ha scritto “animus” al posto di “sensus”, termine utilizzato da quel poeta[474]. Ora, poiché non si potrebbe mai sospettare che un osservatore così attento ai errori non abbia notato questo errore, è evidente che lo ha ignorato per indulgenza, probabilmente per non degradarmi completamente nella considerazione di letterato, qualità di cui mi fa parte. Quello che mi sembra strano è che spieghi questo passaggio in un senso che, a suo dire, non avevo preso in considerazione; tuttavia, quel senso mi pare proprio il più logico che si possa attribuire al testo in questione.
+
+Rousseau.
+
+Osservazione.
+
+Questa lettera ci è stata comunicata da Monsieur Barbier. Non ha mai fatto parte di alcuna edizione delle Opere o della Corrispondenza di J.-J. Rousseau, e si trovava soltanto nel raccolto conosciuto con il titolo di “Journal de Verdun”[475]. Oltre al periodo che abbiamo riportato nella nota, e del quale Rousseau non poteva più leggere i contenuti, l’abate Desfontaines sottolinea ancora questa frase: è evidente che, non appena verranno inventati segni o mezzi utilizzabili come oggetto di confronto e punto di partenza per misurare la distanza che separa l’autore della “Dissertazione sulla musica moderna” da quello di “Émile”, tali strumenti potranno fornire nuove informazioni su questo argomento.
+
+Lettera XXIV – A Monsieur Dupont
+
+Segretario di Monsieur Jonville, inviato straordinario di Francia a Genova[476].
+
+[477]
+
+Venezia, 25 luglio 1743.
+
+Inizio la mia lettera, caro confratello, con le istruzioni che mi avete chiesto nella vostra del 18, provenienti dal signor inviato; in seguito, avremo una breve discussione sui cosacchi del principe di Lobkowitz e su quel buon curato di Foligno, di cui parlate con un’irriverenza che puzza decisamente di rogo.
+
+Gli ambasciatori dispongono di due strade per negoziare con il governo. La prima, e la più comune, è quella dei memorandum; questa metodo piace molto al Senato, poiché permette, da un lato, di evitare legami particolari tra gli ambasciatori e alcuni membri dello stato, e dall’altro offre il vantaggio di poter preparare meglio ciò che si intende dire, e di potersi impegnare in risposte vaghe ed equivoci, molto meno di quanto ci si troverebbe costretti a fare durante delle conferenze in cui l’ambasciatore non avrebbe il controllo completo sul grado di chiarezza delle proprie dichiarazioni.
+
+Ma poiché questo modo di trattare per iscritto presenta molti svantaggi, sia a causa delle lunghezza dei messaggi che ne derivano inevitabilmente, sia a causa della difficoltà di mantenere il segreto, soprattutto in un organo composto da più persone; quando gli ambasciatori vengono incaricati dai loro sovrani di svolgere negoziazioni particolari e di rilevanza per la repubblica, su loro richiesta viene nominato un senatore per consultarsi con loro in privato; e questo senatore è sempre una persona che ha ricoperto incarichi diplomatici, un procuratore di San Marco, un cavaliere dell’Ordine della Stella d’Oro, insomma, una delle figure più importanti dello stato, sia per rango che per intelligenza.
+
+Ci sono esempi, e anzi piuttosto recenti, in cui la repubblica ha rifiutato di ricevere ambasciatori di principi di cui non era soddisfatta, o le cui negoziazioni non riteneva degne di attenzione. Tuttavia, questo accade molto raramente, perché, secondo un principio generale, anche a Venezia non c’è alcun rischio nel ascoltare le proposte altrui.
 
 <span class="atom-split" data-atom="012" data-title="(apertura) (parte 12)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
@@ -554,6 +1512,126 @@ Observation
 
 Cette lettre, imprimée pour la première fois dans l’Histoire de J.J. Rousseau (tome II), nous fut remise par M. Mourette, chef du bureau des archives au ministère de l'intérieur.
 
+<span class="qlang-split" data-lang="en"></span>
+
+When the person engaged in these discussions is named, they inform the ambassador thereof, accompanied by a compliment, and at the same time suggest to the ambassador a convent or some other neutral place for their meetings. In indicating the location, those conducting the discussions usually pay great attention to the convenience of the ambassador. For example, the meeting place for Mr. Count de Montaigu is almost right at the entrance to his palace, although he had some polite disagreements with his counterpart regarding this matter—whose residence was more than a mile away—and who never agreed to choose another location where the journey would be more convenient for both parties. In winter, the furniture and heating are provided at the expense of the republic; I believe the same applies to refreshments, which the integrity of those conducting the discussions does not neglect when appropriate. As for the time of the meetings, the person who has something to communicate to the other sends a secretary or a gentleman to propose the meeting time; and this often gives rise to further polite disagreements, as each party wants to allow the other to choose the hour. I remember once going to the Senate to arrange a meeting time; I was forced to decide on it myself, since the ambassador had never been willing to provide one. The person conducting the discussions usually arrives first, because since the accommodation belongs to the republic, it is appropriate that they be the first to use it. Well, my dear friend, this is all I have to tell you on this subject. Now that we have settled the various petty disputes of these powerful individuals, let us return to our own matters, etc.
+
+Observation
+
+It seems, from the details provided by Rousseau, that Mr. de Jonville had some interest in the post of ambassador to Venice. However, it was always intended for a person of high standing. We do not know why the first publishers did not include this letter in its entirety; it is noteworthy, both for its style—which is significantly superior to that of the previous letters—and because it shows that Rousseau was indeed engaged in fulfilling his duties.
+
+Letter XXVI – To M.
+
+… 1743.
+
+Sir,
+
+It must be admitted that you truly have a remarkable talent for somehow managing to double the price of the services you provide; I had genuinely expected a polite and witty response, as much as such is possible; yet what I found in yours were sentiments of affection, kindness, and openness—let me say so—if only they were expressed with greater sincerity and from the true voice of the [heart](/positions/fideism). My own heart is not silent on these matters; but it seeks words that are forceful enough to convey my friendship without compromising respect. None of the expressions that come to mind satisfy me in this regard. I do not, like you, possess the fortunate ability to combine the language of the pen with that of the heart in a dignified manner; but, sir, if you would continue to speak to me in this tone from time to time, I am certain I would learn much from your lessons[480].
+
+I have chosen the books listed below. As for Bayle’s Dictionary, I find it excessively expensive. I will not hide from you that I have a great desire to possess it; but I did not expect it to cost more than sixty pounds. If the one you are referring to, which has marginal corrections, does not exceed this price much, then I would be willing to accept it. In that case, sir, I might have difficulty obtaining permission to include it. You could, if you deem it appropriate, make use of M***, who is able and would certainly be willing to do so if you asked him. I believe it would be less suitable for me to propose it myself; I do not have the honor of being known to him well enough for that. I leave everything to your judicious discretion.
+
+It is Cicero’s edition in quarto format that I am looking for; you must have it. If not, I will wait. I also thought that Manesson Mallet’s “Geometrie” was available in quarto format. If you have it in this form, I will take it; otherwise, I will do without it for some time yet, since I don’t yet possess the necessary instruments. In that case, please send me Ozanam’s “Mathematical Recreations” instead.
+
+You know that we are missing the ninth volume of *Histoire ancienne*, as well as the last volume by Cleveland, which was added at a later stage. We also only have the first twenty parts of *Marianne*[481]. Please include all these in your shipment so that our books do not remain incomplete.
+
+Hoffmanni Lexicon.
+
+Newton’s Arithmetica.
+
+All of Cicero’s works.
+
+Usserii Annales.
+
+“Practical Geometry” by Manesson Mallet.
+
+Mathematical elements by P. Lami.
+
+Bayle’s Dictionary.
+
+If you believe that Despréaux’ works, in their quarto edition, can overlook all of this, then please have the kindness to include them.
+
+Please send me the entire amount as soon as possible, and I will then issue a check to Mr. Conti for the corresponding sum, based on the instructions you give him or those you provide to me.
+
+Observation
+
+In all recent editions, this letter has been truncated and ends with the first paragraph alone. I made the same omission in Madame Perronau’s edition. I am correcting it now by referring to the Geneva edition, which restores the letter in its entirety. I neither know the true date nor the name of the person to whom it was addressed. Based on the review of Rousseau’s works and readings that I conducted for his biography, as well as references to Ozanam’s “Mathematical Recreations” and Father Lami’s “Elements,” and considering the style of this letter, I would infer that it was written while Rousseau was at the Charmettes. However, this conjecture is contradicted by the reference to “Marianne’s Piety” in Rousseau’s writings. Marivaux published this novel in installments from 1734 to 1742; a total of twelve parts were published, but the author never completed it. If Jean-Jacques possessed all twelve parts, he could have written this letter only after 1742; if he had only two parts, he might have written it before that time. In doubt, we shall retain the date it carried in previous editions.
+
+Letter XXVIII – To Madame de Montaigu
+
+Venice, November 23, 1743.
+
+Madam,
+
+I fear that Your Excellency might have reason to accuse me of forgetting your orders if I were to delay writing to you any longer; however, the accuracy of the information provided by His Excellency the Ambassador does not warrant any additional details on his behalf—his health is in such good condition that only continued improvement is desired. Your Excellency makes use of Glauber’s salt, which benefits her greatly; she maintains a very close relationship with His Excellency the Ambassador of Spain, and I, in order to follow her tastes as much as my circumstances permit, have formed such a close friendship with his secretary that we are inseparable[482]. In Venice, there is nothing more closely united than the houses of France and Spain. I have somewhat altered my usual habits to conform to those around me; I go to the markets and watch performances in disguise, just as proudly as if I had spent my entire life in such attire. However, I realize that some of the details I relate may hold little interest for Your Excellency. Madam, I would wish to be able to tell you things about this country that are truly enticing, in order to persuade you to hasten your journey and thus fulfill the wishes of your entire family in Venice—of which I dare consider myself a member, not so much because of my rank, but rather because of my eagerness and dedication.
+
+I am sending a rather lengthy list of items to be purchased in Paris for myself and my friends from Venice to a friend of mine. Madame, S. Ex. has promised me that he would ask you to kindly accept all these items and send them on the same ship and using the same passports as your crew; I also earnestly request that you take the trouble to ensure that the amount specified in this list is paid, along with the goods themselves, in accordance with the instructions provided by Mr. the Ambassador.
+
+For example, madam, I would be grateful if you would kindly send him, by the first mail, a half-dozen properly bound copies of the “Colombat” for use as gifts; I have calculated that if they are sent immediately, they will arrive here on the penultimate day of the year. As for the Royal Almanach, I would not recommend that your excellence send it by post due to its size; it would be better if you took the trouble to send it via diligence to Lyon, where someone could then forward it to Marseille and from there to Genoa, to Mr. Dupont, who is in charge of French affairs, and he would ensure it reached us without any problems. I have the honor to remain, with the deepest respect, your most humble servant, etc.
+
+Observation
+
+This letter, which was first published in *The History of J.J. Rousseau* (Volume II), was provided to us by Mr. Mourette, head of the archives department at the Ministry of the Interior.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quando i negoziatori vengono designati, ne comunicano l’informazione all’ambasciatore, accompagnandola con un complimento, e gli propongono al contempo un convento o altro luogo neutro per le loro riunioni. Indicando il luogo, i negoziatori prestano solitamente molta attenzione alla comodità degli ambasciatori. Ad esempio, l’appuntamento del conte di Montaigu si trova quasi alle porte del suo palazzo, nonostante ci siano state discussioni di cortesia al riguardo con il suo negoziatore, che abitava a più di una lega di distanza e si rifiutava sempre di fissare un altro luogo dove il percorso fosse più agevole. Gli arredi e il riscaldamento in inverno sono forniti a spese della repubblica; credo che lo stesso valga per i rinfreschi, che il negoziatore onesto non trascura mai quando necessario. Per quanto riguarda l’orario delle riunioni, colui dei due che ha qualcosa da comunicare all’altro invia un segretario o un gentiluomo a proporre l’ora dell’incontro; e questo costituisce ancora oggetto di discussioni di cortesia, poiché ciascuno vuole lasciare all’altro la scelta dell’orario. Ricordo che una volta, andato al Senato per fissare un appuntamento, fui costretto a decidere io stesso l’ora, poiché l’ambasciatore non voleva mai fornirla. Il negoziatore arriva solitamente per primo, poiché l’alloggio appartiene alla repubblica e è giusto che sia lui ad occuparsene con dignità. Ecco, caro amico, tutto ciò che ho da dirvi su questo argomento. Ora che abbiamo regolamentato le “piccole dispute” dei potenti, torniamo alle nostre.
+
+Osservazione.
+
+Sembra, secondo i dettagli forniti da Rousseau, che il signor de Jonville avesse un certo interesse per l’ambasciata di Venezia. Tuttavia, essa era destinata a un uomo di rango elevato. Non sappiamo perché i primi editori non abbiano pubblicato questa lettera nella sua interezza; essa è davvero notevole: sia per lo stile, decisamente superiore a quello delle lettere precedenti, sia perché rivela come Rousseau si occupasse seriamente delle proprie mansioni.
+
+Lettera XXVI – A M.
+
+… 1743.
+
+Signore,
+
+Devo ammettere che avete davvero un notevole talento nel far sì che il prezzo dei servizi che offrite raddoppi; mi aspettavo davvero una risposta cortese e spiritosa, nella misura del possibile; ma quella che avete fornito conteneva elementi di tutta altra natura: sentimenti di affetto, gentilezza, sincerità. Elementi che la voce del [cuore](/positions/fideism) esprime in modo così caratteristico. Il mio cuore non è certo muto su questi argomenti; anzi, vorrebbe trovare termini energici e appropriati per esprimere adeguatamente l’amicizia. Nessuna delle espressioni che mi vengono in mente mi soddisfa in questo senso. Non ho, come voi, il felice talento di unire con dignità il linguaggio della penna a quello del cuore; ma, signore, continuate a parlarmi a questo modo, e vedrete che trarrò grande beneficio dalle vostre lezioni[480].
+
+Ho scelto i libri elencati in allegato. Per quanto riguarda il Dizionario di Bayle, lo ritengo estremamente costoso. Non vi nasconderò che ne ho una grande passione; ma non mi aspettavo che il suo prezzo superasse i sessanta livri. Se quello di cui parlate, con le correzioni in margine, non supera di molto questa cifra, me ne accontenterò. In tal caso, signore, avrei difficoltà ad ottenere il permesso per utilizzarlo. Potreste, se lo ritenete opportuno, fare ricorso a M***, che ne ha la possibilità e probabilmente sarebbe disposto ad aiutarvi se glielo chiedeste. Credo che non sia opportuno che io proponga io stesso questa soluzione. Non ho l’onore di essere abbastanza conosciuto da lui per farlo. Lascio tutto alla vostra saggezza e discrezione.
+
+Cerco l’edizione in quarto di Cicerone; dovete averla: se non l’avete, aspetterò. Pensavo anche che la “Geometria” di Manesson Mallet fosse disponibile in quarto. Se l’avete in questa forma, la prenderò; altrimenti me ne farò a meno ancora per un po’, dato che non possiedo ancora gli strumenti necessari. In tal caso, mi invierete invece le “Récréations mathématiques” di Ozanam.
+
+Sapete che ci manca il nono volume della “Storia antica”, così come l’ultimo volume di Cleveland, quello cioè che è stato aggiunto successivamente. Abbiamo inoltre solo le prime venti parti de “Marianne”[481]. Vi preghiamo di includere tutto ciò nel vostro pacco, affinché i nostri libri non rimangano incompleti.
+
+Hoffmanni Lexicon.
+
+“Aritmetica di Newton”.
+
+Tutte le opere di Cicerone.
+
+“Usserii Annali”.
+
+“Geometria pratica” di Manesson Mallet.
+
+Elementi di matematica del P. Lami.
+
+Dizionario di Bayle.
+
+Se ritenete che le Opere di Despréaux, nell’edizione in quarto, possano essere utilizzate per tutto ciò, vi preghiamo di aver la gentilezza di includerle.
+
+Per favore, inviatememi tutto il denaro il prima possibile; io farò poi il bonifico a Monsieur Conti per l’importo che voi o io decideremo di indicargli.
+
+Osservazione.
+
+In tutte le ultime edizioni, questa lettera è troncata e termina con il primo paragrafo. Ho fatto lo stesso omettendo anche io tale parte nell’edizione di madame Perronau. Ora la ripristino utilizzando l’edizione di Ginevra, sulla base della quale restituisco la lettera nella sua interezza; ignoro sia la data effettiva che il nome della persona a cui era indirizzata. Secondo la “Rivista degli studi e delle letture di Rousseau”, nonché le informazioni contenute nelle “Récréations mathématiques” di Ozanam e negli “Eléments” del P. Lami, e considerando lo stile della lettera, si potrebbe supporre che sia stata scritta alle Charmettes. Tuttavia, questa congettura viene contraddetta dalla richiesta di Rousseau riguardo alla “Pie de Marianne”. Marivaux pubblicò questo romanzo in parti a partire dal 1734 fino al 1742: ne furono pubblicate dodici parti, ma l’autore non lo completò mai. Se Jean-Jacques possedesse davvero dodici parti di questo romanzo, avrebbe potuto scrivere questa lettera solo dopo il 1742; se ne possedesse soltanto due, invece, avrebbe potuto scriverla prima di quell’anno. Nel dubbio, lasciamo che la lettera mantenga la data con cui era indicata nelle edizioni precedenti.
+
+Lettera XXVIII – Alla Signora de Montaigu
+
+Venezia, 23 novembre 1743.
+
+Signora,
+
+Temo che Vostra Eccellenza possa accusarmi di aver dimenticato i suoi ordini, se continuassi a ritardare nel scrivervi, anche se l’accuratezza delle informazioni fornite dall’ambasciatore non mi richiede alcun supplemento; la sua salute è tale che non si desidera altro se non che continui così. Vostra Eccellenza assume il sale di Glauber, dal quale trae grande beneficio; mantiene ancora rapporti molto stretti con l’ambasciatore di Spagna; e io, nel tentativo di imitare i suoi gusti nella misura consentita dalle mie condizioni, ho stretto un legame così intimo con il suo segretario che siamo inseparabili[482]: a Venezia non esiste nulla di più unito delle due case di Francia e Spagna. Ho un po’ modificato le mie abitudini per adattarmi agli altri; vado in giro per la piazza e ai spettacoli mascherata e con un cappello buffo, con la stessa fierezza come se avessi trascorso tutta la mia vita in quel modo; mi rendo conto che fornisco a Vostra Eccellenza dettagli che la interessano molto poco. Vorrei, signora, essere in grado di raccontarvi cose abbastanza affascinanti su questo paese, per convincervi ad accelerare il vostro viaggio e così soddisfare i desideri di tutta la vostra famiglia a Venezia, alla cui guida oso considerarmi, più per l’impegno e lo zelo dimostrati che per il mio rango.
+
+Sto inviando a un amico un memoriale piuttosto dettagliato contenente diverse istruzioni da seguire a Parigi, sia per me che per i miei amici di Venezia. Sua Eccellenza mi ha promesso, signora, di chiedervi gentilmente di accettare tutto ciò e di inviarlo sullo stesso vascello e con gli stessi passaporti del vostro equipaggio; vi supplico anche di voler soddisfare l’importo indicato nel memoriale, che vi verrà consegnato insieme alla merce, secondo quanto vi indicherà il signor ambasciatore.
+
+Esempio: Le prego, signora, di volergli inviare, con la prima posta, una mezza dozzina di colombacci ben rilegati, da utilizzare come regali; ho calcolato che, se vengono spediti immediatamente, arriveranno esattamente il penultimo giorno dell’anno. Per quanto riguarda l’Almanacco reale, non consiglierei che Vostra Eccellenza lo inviasse per posta a causa delle sue dimensioni; sarebbe meglio che si prendesse la briga di spedirlo a Lione con la diligenza, a qualcuno che lo inoltrerà poi a Marsiglia e da lì a Genova, a Monsieur Dupont, incaricato degli affari della Francia, il quale ce lo farà arrivare facilmente. Ho l’onore di essere, con il più profondo rispetto, di Vostra Eccellenza, il molto umile, ecc.
+
+Osservazione.
+
+Questa lettera, stampata per la prima volta nell’“Histoire de J.J. Rousseau” (volume II), ci è stata consegnata da Monsieur Mourette, capo dell’ufficio archivi del Ministero dell’Interno.
+
 <span class="atom-split" data-atom="013" data-title="(apertura) (parte 13)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Elle est importante, parce qu'elle montre les rapports qui existaient entre Jean-Jacques et la famille de son ambassadeur, et prouve évidemment qu'il n'était point, comme Voltaire a voulu le faire croire, laquais de M. de Montaigu.
@@ -604,6 +1682,106 @@ Septembre 1744[486]
 
 Monsieur,
 
+<span class="qlang-split" data-lang="en"></span>
+
+She is important because she reveals the relationships that existed between Jean-Jacques and the family of his ambassador, and clearly proves that he was not, as Voltaire sought to make people believe, a lackey of Monsieur de Montaigu.
+
+The gifts mentioned in this letter were not detrimental to the person who gave them, and they correspond to the details provided about his character—both in Rousseau’s “Confessions” and in Bernardin de Saint-Pierre’s account, which can be found in “Histoire de J.J. Rousseau”, Volume 11, page 250.
+
+1744
+
+[483]
+
+Letter XXIX – To Mr. Du Theil
+
+Letter XXX – To Mr. Du Theil
+
+Letter XXXI – To Mr. Du Theil
+
+Letter XXXII – To Mr. Du Theil
+
+Correspondence Table
+
+Letter XXIX – To Mr. Du Theil
+
+[484]
+
+In Venice, on August 8, 1744.
+
+Sir,
+
+I realize how such freedom on my part would seem inappropriate for a man who still has other resources at his disposal; but the circumstances in which I find myself make my audacity understandable.
+
+I dare bring before you my just and most respectful complaints against an ambassador of the king, and against a master whose bread I have eaten. A reasonable man would not take such steps unless necessary, and one who is as accustomed to resignation and patience as I am would not resort to them were it not for the duty that compels me to do so. I am ashamed, sir, to distract your attention, which should be devoted to more important matters, onto matters that, I admit, are not in themselves worthy of your time—yet which nevertheless bring misery into a man’s life and despair to an honest person, and thus become of interest to a heart as generous as yours.
+
+It has been fourteen months since I began serving Mr. the Count of Montaigu as his secretary. It is not my place to assess whether I was capable for such a role or not; it is certain that I have always relied more on my diligence than on my talents in performing it well. Moreover, it is clear that dispatches such as those that have appeared under my name at the tower for nearly a year are hardly likely to give a good impression of my abilities, since it is only natural to attribute to me the errors and inaccuracies they contain. However, it would be both easier and less appropriate for me to attempt to justify myself on this point. I will also refrain from mentioning the constant hardships and endless indignities I have endured—both because excessive sensitivity might have made me overly sensitive to them, and because attempting to describe them in sufficient detail to make them believable would require too much effort. Lastly, I must not abuse your kindness by dwelling on details that are irrelevant to the matter at hand.
+
+The grievances were mutual, and it is easy to see that each party considered only its own grievances to be legitimate: Finally, the ambassador decided to dismiss me. I had hoped that the matter would be handled with the usual honesty between a gentleman of dignity and a respectable servant—whose particular shortcomings should not diminish the respect due to his status, zeal, and integrity. I was mistaken. The ambassador, who had made it his policy to treat all those in his service as mere servants and to regard anyone leaving his house as a scoundrel worthy of such treatment, chose to employ this bizarre approach towards me. After unprecedented misconduct and failure to keep most of his promises, he attempted yesterday to settle what he called “my account” with me. He began in a tone that could make one tremble; the offensive terms he used and the hateful epithets he hurled at me were clearly meant to intimidate me and force me to submit to these unjust demands. After several futile attempts at negotiation, seeing that I was being so blatantly wronged, I respectfully asked him whether he wished to settle this matter fairly or if he was determined to act solely out of his own will—since in the latter case my presence was unnecessary. He flew into a rage, assuming I had implied that his will and fairness were not always one and the same. In truth, I did not deny this; indeed, the insults I endured left me no chance to speak. Finally, unable to force me to comply with his demands, he outright threatened to throw me out of the window if I refused. To avoid such a cruel outcome—and because I could no longer endure the horrors he was inflicting upon me—I left, grateful that my anger at such treatment had not made me act in a manner unworthy of the honorable position he held. Upon seeing me go, he ordered me to leave his palace immediately and never return; I obeyed, determined never to set foot there again—not out of fear for my life, but out of self-respect and a firm belief that it would be wrong to defy the ambassador of the greatest king in the world.
+
+Yet here I am, on the streets, languishing, infirm, without aid, without property, without a country—four hundred miles away from all my acquaintances, burdened with debts that I was forced to incur because Mr. the Ambassador failed to fulfill his obligations towards me. With no other resources than some mediocre talents that offer no protection against the injustice of those who employ them, in such a situation, forgive me, sir, for taking the liberty of seeking your protection against the cruel treatment inflicted upon the most devoted and faithful servant Mr. the Ambassador has ever had. I cannot bring my just grievances before any court; only at the foot of his Majesty’s throne am I permitted to plead for justice. I ask it with utmost respect and in the bitterness of my soul. I would never have resorted to this step if I had believed I could find some way to repay my debts and return to France—other than by relying on the payment of my wages, travel expenses, and the costs I am forced to incur here, while awaiting your orders.
+
+I know, sir, how many prejudices are against me; I know that in disputes between a master and a servant, it is always the latter who is in fault; I also know that, being completely unknown, I have no one who cares about my fate: your generosity and my own innocence are my only protectors. But I place my trust in both of them. Perhaps not all prejudices are against me; for instance, there is the opinion of the public. You must be aware of what is happening in this country and how people think here. That is all I can say in my defense—I would rather neglect certain means of protection than play the abhorrent role of a informer against a master whom I have served. At least I will be able to request the testimony of all those with whom I have lived until now, regarding the character and feelings that I claim to possess.
+
+Furthermore, should it happen that I have added a single word to the truth in the presentation I have the honor of making to you—and it will not be difficult to verify—then I am willing to pay with my life for my slander and my insolence.
+
+P.S. If you would be so kind as to give me your orders, Mr., Mr. Le Blond is within reach to convey them to me.
+
+Letter XXXI – To Mr. Du Theil
+
+September 1744[486]
+
+Sir,
+
+<span class="qlang-split" data-lang="it"></span>
+
+È importante perché mostra i rapporti esistenti tra Jean-Jacques e la famiglia dell’ambasciatore di quest’ultimo, e dimostra chiaramente che non era affatto, come Voltaire ha voluto far credere, il lacchè di Monsieur de Montaigu.
+
+I doni di cui si parla in questa lettera non erano dannosi per colui che li faceva, e coincidono con i dettagli forniti riguardo al suo carattere: sia da Rousseau nelle sue Confessioni, sia da Bernardin de Saint-Pierre, il cui resoconto è riportato nell’“Histoire de J.J. Rousseau”, volume 11, pagina 250.
+
+1744
+
+[483]
+
+Lettera XXIX – A Monsieur Du Theil
+
+Lettera XXX – A Monsieur Du Theil
+
+Lettera XXXI – A Monsieur Du Theil
+
+Lettera XXXII – A Monsieur Du Theil
+
+Tabella della corrispondenza
+
+Lettera XXIX – A Monsieur Du Theil
+
+[484]
+
+A Venezia, l’8 agosto 1744.
+
+Signore,
+
+Percepisco chiaramente quanto la libertà che mi assumo possa sembrare inappropriata per una persona che disponga di altre risorse; tuttavia, la situazione in cui mi trovo rende la mia audacia perdonabile.
+
+Oso portare fino a voi le mie giuste e molto rispettose lamentele contro un ambasciatore del re, e contro un uomo di cui ho mangiato il pane. Un uomo ragionevole non compie simili iniziative senza necessità; inoltre, un uomo così abituato alla rassegnazione e alla pazienza come me non si deciderebbe a farlo se anche il proprio dovere non lo costringesse a farlo. Mi vergogno, signore, di distogliere la vostra attenzione, destinata alle questioni più importanti, su argomenti che, devo ammetterlo, di per sé non meritano nemmeno un istante del vostro tempo; tuttavia, questi argomenti causano la sfortuna nella vita e il disperazione in un uomo onesto, e proprio per questo diventano interessanti per un cuore così generoso come il vostro.
+
+Sono entrato al servizio del conte di Montaigu come segretario quattordici mesi fa. Non spetta a me giudicare se fossi o meno adatto a tale incarico; è certo che ho sempre fatto affidamento più sul mio zelo che sui miei talenti per svolgerlo al meglio, e inoltre è evidente che messaggi come quelli che da quasi un anno vengono pubblicati sulla torre e che sembrano scritti di mia mano non sono certo indicativi delle mie capacità, poiché è naturale attribuirmi almeno gli errori e le imprecisioni che li caratterizzano; tuttavia sarebbe più facile che opportuno da parte mia giustificarmi su questo punto. Non menzionerò nemmeno le continue durezze e gli infiniti disagi che ho dovuto sopportare: sia perché una eccessiva sensibilità potrebbe avermi reso troppo suscettibile a tali cose, sia perché descriverli in modo sufficientemente dettagliato per renderli credibili mi costerebbe troppo sforzo, e infine non voglio abusare della vostra gentilezza con dettagli che non sono rilevanti per la questione principale.
+
+I malcontenti erano reciproci, e è facile giudicare che ognuno riconoscesse soltanto i propri diritti come legittimi: alla fine, l’ambasciatore decise di congedarmi. Speravo che tutto avvenisse con l’onestà abituale tra un padrone dignitoso e un domestico onorabile, al quale alcuni difetti particolari non dovrebbero togliere il rispetto dovuto al suo stato, al suo zelo e alla sua integrità. Mi sbagliavo: l’ambasciatore, che si era imposto come principio di trattare tutti coloro che erano al suo servizio con il vile titolo di “valletti”, e di considerare tutte le persone che lasciavano la sua casa come individui spregevoli degni soltanto dell’indifferenza, decise di applicare questa strana politica anche nei miei confronti. Dopo comportamenti inauditi e dopo aver mancato alla maggior parte delle sue promesse, ieri ha cercato di “fare il mio conto”, come lo chiamava lui. Il tono con cui è iniziata quella conversazione era tale da far tremare chiunque; le parole offensive e gli insulti che mi ha rivolto erano chiaramente destinati a intimidirmi e a rendermi docile di fronte alle ingiuste decisioni che intendeva prendere. Dopo diverse proteste inutili, vedendo che venivo trattato in modo così oltraggioso, chiesi rispettosamente all’ambasciatore se desiderasse risolvere la questione secondo principi di equità, oppure se fosse deciso a seguire soltanto la propria volontà, nel qual caso la mia presenza non gli sarebbe stata necessaria. Allora l’ambasciatore si infuriò terribilmente, supponendo che avessi insinuato che la sua volontà e l’equità non fossero sempre la stessa cosa. In realtà non ho negato questa possibilità, soprattutto perché le offese ricevute non mi lasciavano il tempo di pronunciare una parola. Alla fine, non riuscendo a costringermi ad accettare le sue condizioni, mi propose in termini molto chiari di firmare quel “conto”, oppure di gettarmi dalla finestra, giurando che avrebbe fatto subito gettare me stesso fuori. Vidi chiaramente che era pronto a mettere in atto la sua minaccia. Ma, volendo evitare una scelta così crudele e non potendo più sopportare le umiliazioni a cui ero sottoposto, uscii, ringraziando il cielo per il fatto che l’emozione causata da tali trattamenti non mi aveva spinto a imitare l’ambasciatore, perdendo così il profondo rispetto dovuto al suo nobile rango. Quando mi vide uscire, mi ordinò di lasciare immediatamente il suo palazzo e di non tornarci mai più. Così feci, deciso a non espormi mai più alla sua presenza. Non perché temessi davvero la morte che minacciava, ma per una legittima diffidenza nei miei confronti, e per evitare ulteriori ingiustizie da parte di un ambasciatore del più grande re del mondo.
+
+Eppure mi trovo ora per strada, languido, infermo, senza aiuto, senza beni, senza patria, a quattrocento miglia da tutte le persone che conosco; oppresso da debiti che sono stato costretto ad accumulare a causa del rifiuto dell’ambasciatore di rispettare gli accordi presi con me. Non ho altra risorsa se non alcuni modesti talenti che, tuttavia, non mi proteggono dagli abusi di coloro che li sfruttano. In una situazione del genere, perdonate, signore, la libertà che mi prendo nell’implorare la vostra protezione contro i crudeli trattamenti che l’ambasciatore riserva al servitore più devoto e fedele che abbia mai avuto. Non posso presentare le mie giuste lamentele in alcun tribunale: solo ai piedi del trono della sua maestà mi è permesso chiedere giustizia. La chiedo con grande rispetto e nel dolore più profondo del mio cuore. E non avrei mai preso questa decisione se avessi creduto di poter trovare qualche altra soluzione per saldare i miei debiti e tornare in Francia, diversa dal pagamento dei miei stipendi e delle spese necessarie per il viaggio, nonché da quelle che devo sostenere qui, nell’attesa che voi mi inviate le vostre istruzioni.
+
+So, signore, quanti pregiudizi ci siano contro di me; so che nei conflitti tra padrone e domestico è sempre il secondo ad avere torto; so anche che, essendo completamente sconosciuto, nessuno si interessa a me: la vostra generosità e la mia buona fede sono i miei unici protettori; ma mi affido ugualmente sia all’una che all’altra. Forse persino alcuni di questi pregiudizi non sono del tutto contro di me. Ad esempio, quello dell’opinione pubblica. Non è certo che voi non sappiate ciò che accade in questo paese e come la gente vi pensi. Questo è tutto ciò che posso dire a mio favore; preferisco trascurare alcune possibilità di difesa piuttosto che assumere, nei confronti di un padrone al quale ho servito, il ruolo odioso di delatore. Almeno avrò il diritto di chiedere testimonianza a tutte le persone con cui ho vissuto fino ad ora riguardo al carattere e ai sentimenti di cui mi vanto.
+
+Del resto, se dovesse accadere che abbia aggiunto una sola parola di falsità nel resoconto che ho l’onore di presentarvi, e ciò non sarà difficile da verificare, sono disposto a pagare con la mia vita per le mie calunnie e la mia insolenza.
+
+P.S. Se vostra signoria vorrà onorarmi con i suoi ordini, il signor Le Blond è in grado di trasmettermeli immediatamente.
+
+Lettera XXXI – A Monsieur Du Theil
+
+Settembre 1744[486]
+
+Signore,
+
 <span class="atom-split" data-atom="014" data-title="(apertura) (parte 14)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 J'apprends que M. le comte de Montaigu, pour couvrir ses torts envers moi, m'ose imputer des crimes ; et qu'après avoir donné un mémoire au sénat de Venise pour-me faire arrêter, il porte jusqu'à vous ses plaintes pour prévenir celles auxquelles il a donné lieu. Le sénat me rend justice ; M. le consul de France a été chargé de m'en assurer. Vous me la rendrez, monsieur, j'en suis très sûr, sitôt que vous m'aurez entendu. Pour cet effet, au lieu de m'arrêter à Genève, comme je l'avais résolu, je vais en diligence continuer mon voyage ; j'aspire avec ardeur au moment d'être admis à votre audience. Je porte ma tête à la justice du roi, si je suis coupable ; mais, si c'est M. de Montaigu qui l'est, je porte ma plainte au pied du trône ; je demande la justice qui m'est due ; et, si elle m'était refusée, je la réclamerais jusqu'à mon dernier soupir. En attendant, permettez-moi, monsieur, de vous représenter combien la plainte de M. l'ambassadeur est frivole, et combien ses accusations sont absurdes. Il m'accuse, dit-on, d'avoir vendu ses chiffres à M. le prince Pio. Vous savez mieux que personne de quelle importance sont les affaires dont est chargé M. le comte de Montaigu. M. le prince Pio n'est sûrement pas assez dupe pour donner un écu de tous ses chiffres ; et moi, quand j'aurais été assez fripon pour vouloir les lui vendre, je n'aurais pas été du moins assez bête pour l'espérer. L'impudence, j'ose le dire, et l'ineptie d'une pareille accusation vous sauteront aux yeux, si vous daignez lui donner un moment d'examen. Vous verrez qu'elle est faite sans raison, sans fondement, contre toute vraisemblance, et avec aussi peu d'esprit que de vérité, par quelqu'un qui, sentant ses injustices, croit les effacer en décriant celui qui en est victime, et prétend, à l'abri de son titre, déshonorer impunément son inférieur. Cependant, monsieur, cet inférieur, tel qu'il est, emporte, au milieu des outrages de M. l'ambassadeur, l'estime publique. J'ai vu toute la nation française m'accueillir, me consoler dans mon malheur. J'ai logé chez le chancelier du consulat ; j'ai été invité dans toutes les maisons ; toutes les bourses m'ont été ouvertes, et en attendant qu'il plaise à M. l'ambassadeur de me payer mes appointements, j'ai trouvé, dans celle de M. le consul, l'argent qui m'est nécessaire, puisqu'il ne plaît pas à M. l'ambassadeur de me payer mes appointements. Vous conviendrez, monsieur, qu'un pareil traitement serait fort extraordinaire, de la part des sujets du roi les plus fidèles, envers un pauvre étranger qu'ils soupçonneraient d'être un traître et un fripon. Je ne vous offre ces préjugés légitimes qu'en attendant de plus solides raisons. Vous connaîtrez dans peu s'ils sont fondés. Le soin de mon honneur, et la réparation qui m'est due, sont, au reste, l'unique objet de mon voyage. Aux preuves de la fidélité et de l'utilité de mes services, je ne joindrai point de sollicitations pour avoir de l'emploi ; je m'en tiens à l'épreuve que je viens de faire, et ne la réitérerai plus. J'aime mieux vivre libre et pauvre jusqu'à la fin, que de faire mon chemin dans une route aussi dangereuse.
@@ -639,6 +1817,82 @@ Lettre XXXIV – À M. Daniel Roguin
 Paris, le 9 juillet 1745.
 
 Je ne sais, monsieur, quel jugement vous porter de moi et de ma conduite ; mais les apparences me sont si contraires, que je n'aurais pas à me plaindre quand vous en penseriez peu favorablement. Vous n'en jugeriez pas de même si vous lisiez au fond de mon âme : l'amertume et l'affliction que vous y verriez n'y sont pas les sentiments d'un homme capable d'oublier son devoir.
+
+<span class="qlang-split" data-lang="en"></span>
+
+I learn that Mr. Count of Montaigu, in order to cover up his wrongs towards me, dares to implicate me in crimes; and that after submitting a memorial to the Senate of Venice requesting my arrest, he has even brought his complaints before you in an attempt to prevent any further action against him. The Senate has rendered justice to me; Mr. the Consul of France has been entrusted with ensuring this for me. I am certain, sir, that you will do the same once you have heard my case. For this reason, instead of stopping in Geneva as I had intended, I will continue my journey at once; I eagerly await the moment when I may be granted an audience with you. If I am guilty, I place myself under the king’s justice; but if it is Mr. de Montaigu who is guilty, I bring my complaint before the throne itself—I demand the justice that is due to me, and if it is denied, I will continue to seek it until my last breath. In the meantime, permit me to show you how frivolous are the accusations of Mr. the Ambassador and how absurd his claims are. He accuses me, it is said, of selling his confidential documents to Prince Pio. You know better than anyone how important the matters entrusted to Mr. Count of Montaigu are. Prince Pio is certainly not foolish enough to pay for all those documents; and as for me, were I so despicable as to attempt to sell them to him, I would not be so naive as to expect it to succeed. The audacity and ineptitude of such accusations will become evident to you if you deign to examine them. You will see that they are baseless, unfounded, contrary to all reason, and devoid both of wisdom and truth—proven by someone who, aware of his own injustices, tries to cover them up by denouncing their victim, and seeks to shame his inferior without facing any consequences. Nevertheless, sir, despite these insults from Mr. the Ambassador, I still hold the respect of the public. I have seen the entire French nation welcome me and console me in my misfortune. I have stayed at the residence of the Consul General; I have been invited to many homes; all doors have been opened to me. And until it please Mr. the Ambassador to pay my salary, I have found the necessary funds with the Consul himself—since he seems unwilling to do so. You will agree, sir, that such treatment would be highly unusual on the part of the king’s most loyal subjects towards a poor stranger whom they suspect of being a traitor and a scoundrel. I present these legitimate grievances in the hope that more substantial evidence will soon follow. The protection of my honor and the justice owed to me are, after all, the sole purposes of my journey.
+As evidence of the fidelity and usefulness of my services, I will not add any further requests for employment; I am content with the test I have just undertaken and will not repeat it. I would rather live freely and in poverty until the end than to proceed down such a dangerous path.
+
+Letter XXXII – To Mr. Du Theil
+
+[487]
+
+Paris, October 11, 1744.
+
+This will be the last time I take the liberty of writing to you, until you decide to instruct me further. I am well aware how bothersome my letters must be to you, and it is with great regret that I find myself forced to engage in an occupation so contrary to my nature; however, sir, given what I had the honor of writing to you before, I felt compelled to inform you of my arrival in Paris. Moreover, I acknowledge that the tone of my letters would require considerable explanations—though discretion forces me to omit some of them—and I will therefore limit myself to simply stating the reason that prompted me to write to you in the first place.
+
+If you would be so kind as to inquire about my conduct and character, either in Venice or in Genoa, where I have the honor of being known to Mr. de Jonville, or in Lyon, or in Geneva, my homeland, I hope you will learn nothing that would aggravate the injustice and the violent treatments inflicted upon me by Count Montaigu. The manner in which he treated me was such that a man of integrity would not have taken any precautions against it. With the duties I had imposed upon myself and the principles that guided me, I believed I was far above such misfortunes and therefore saw no need to seek guidance on how to behave in such situations from any set of rules. The diligence and accuracy with which I carried out the tasks entrusted to me by His Excellency should have given me even more confidence; perhaps I will be fortunate enough for you to hear about this from someone who is in a position to judge fairly and who has no motive to slander me. Therefore, if I have ever written to you in a manner that may have seemed irregular, I implore you to forgive me due to the extreme distress and despair caused by such unjust treatment. What could be more tragic for an honest man than to see himself slandered in public view and threatened with his own life, without any just cause and merely over some petty matters of interest, while being denied the right to defend himself or prove his innocence? In vain did I feel that I was exposing myself to ridicule; after all, the inferior is always in the wrong against the superior. Since I saw no other way but to present my case through fair and respectful representations, it is not the treatment itself given to me by Count Montaigu that bothers me. I have reason to believe he does not truly appreciate my merits enough to value my opinion highly. But, sir, what will the public think? They are often content to judge based on appearances without taking the time to examine whether the person being mistreated deserves such treatment. It is up to those who cherish fairness and have the right to investigate matters thoroughly to rectify this injustice and restore the honor of an honest man whose life seems worthless once his reputation is lost. My case is straightforward: if it comes to matters of interest, I have the honor to present you with a document written in the Count Montaigu’s own hand, which serves as irrefutable evidence against his good faith; if it comes to my honor, then the whole of Venice has witnessed the shameful treatment he inflicted upon me. I am already aware of the way His Excellency tends to portray those she hates; if people believe her word without question, then indeed, I seem doomed to ruin and disgrace. But if you would be so kind as to investigate further and verify the facts, I have every reason to believe that justice will be done.
+Count de Montaigu, without even realizing it, has done me a favor by introducing me to them.
+
+I do not claim, sir, to demand satisfaction from the Ambassador; I am well aware of the reasons that might oppose such a request, no matter how just it may be. All I ask is to be punished rigorously if I am guilty; but if I am innocent, and if you deem my character worthy of respect and my fate deserving of pity, then I dare implore your protection and some act of kindness on your part that might restore my reputation in the eyes of the public. Perhaps I will gain more in this way than I have lost; but I feel that the zeal with which I would strive to earn such recognition might one day lead people to doubt whether you have shown me more generosity than justice.
+
+1745
+
+Letter XXXIII – To Baroness de Warens
+
+Letter XXXIV – To Mr. Daniel Roguin
+
+Letter XXXIV – To Mr. de Voltaire
+
+Letter XXXVI – To Baroness de Warens
+
+Correspondence Table
+
+Letter XXXIV – To Mr. Daniel Roguin
+
+[488]
+
+Paris, July 9, 1745.
+
+I do not know, sir, what judgment you will form of me and my conduct; but the appearances are so against me that I would not be surprised if you held a poor opinion of me. However, if you were to read into the depths of my soul, you would find that the bitterness and sorrow there expressed are not the sentiments of a man capable of forgetting his duties.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Apprendo che il conte di Montaigu, per coprire i propri torti nei miei confronti, osa attribuirmi crimini; e che, dopo aver presentato un memoriale al senato di Venezia affinché mi facesse arrestare, porta persino le sue lamentele fino a voi per prevenire quelle che potrebbero derivarne. Il senato mi ha restituito giustizia; il console di Francia è stato incaricato di assicurarmelo. Sono certo, signore, che anche voi mi renderete giustizia non appena avrete ascoltato la mia versione dei fatti. Pertanto, invece di fermarmi a Ginevra come avevo deciso, proseguirò il mio viaggio senza indugio; anelo con ardore al momento in cui potrò essere ammesso alla vostra udienza. Se sono colpevole, affido la mia sorte alla giustizia del re; ma se è il conte di Montaigu ad essere colpevole, presenterò la mia denuncia ai piedi del trono, chiedendo la giustizia che mi spetta. E se questa mi venisse rifiutata, la reclamerò fino all’ultimo respiro. Nel frattempo, permettetemi di dimostrare quanto sia futile la lamentela dell’ambasciatore e quanto siano assurde le sue accuse. Mi accusa, si dice, di aver venduto i suoi documenti al principe Pio. Voi sapete meglio di chiunque altro l’importanza delle mansioni affidate al conte di Montaigu; il principe Pio non è certo così ingenuo da pagare un quattrino per tutti quei documenti. E io, anche se fossi abbastanza disonesto da volerli vendere a lui, non sarei certo abbastanza stupido da sperarci di guadagnare qualcosa. L’impudenza e l’incompetenza di una simile accusa diventeranno evidenti non appena la esaminerete attentamente. Vedrete che è priva di fondamento, contraddice ogni logica, e riflette soltanto ignoranza e falsità da parte di chi, consapevole delle proprie ingiustizie, cerca di cancellarle denigrando la vittima. E pretende, al riparo del proprio titolo, di poter disonorare impunemente un inferiore. Tuttavia, signore, questo “inferiore”, nonostante le offese dell’ambasciatore, gode della stima pubblica. Ho visto l’intera nazione francese accogliermi con affetto nel mio dolore; ho soggiornato presso il cancelliere del consolato, sono stato invitato in molte case. Tutti mi hanno offerto aiuto. E mentre aspetto che l’ambasciatore decida di pagarmi lo stipendio, ho trovato nell’ufficio del console i soldi di cui avevo bisogno. Poiché a lui non piaceva farlo. Concordate con me, signore: un trattamento del genere sarebbe davvero insolito da parte dei sudditi più fedeli del re verso un povero straniero che sospettano sia un traditore e un furfante. Vi presento queste argomentazioni legittime nella speranza di ricevere prove più convincenti. Presto scoprirete se sono fondate. L’onore mio e la giustizia che mi spetta sono, in ogni caso, lo scopo principale del mio viaggio.
+Di fronte alle prove della fedeltà e dell’utilità dei miei servizi, non aggiungerò alcuna richiesta per ottenere un lavoro; mi limiterò alla prova che ho appena affrontato e non la ripeterò più. Preferisco vivere libero e povero fino alla fine, piuttosto che intraprendere un cammino così pericoloso.
+
+Lettera XXXII – A Monsieur Du Theil
+
+[487]
+
+Parigi, 11 ottobre 1744.
+
+Ecco l’ultima volta che mi permetto di scrivervi, fino a quando non vorrete comunicarmi i vostri ordini. Sento bene quanto le mie lettere debbano disturbarvi, e con grande rammarico sono costretto ad assumere un compito così contrario al mio carattere; tuttavia, signore, non avrei potuto, data la natura delle comunicazioni che ho avuto l’onore di inviarvi in precedenza, astenermi dal farvi conoscere il mio arrivo a Parigi. Inoltre, riconosco che il tono delle mie lettere richiederebbe molte spiegazioni, ma la discrezione mi impone di rinunciarvi in parte; perciò mi limiterò a esporre semplicemente il motivo che mi ha spinto a scrivervele.
+
+Se Vostra Signoria vorrà prendere informazioni sulla mia condotta e sul mio carattere, sia a Venezia che a Genova, dove ho l’onore di essere conosciuto dal signor de Jonville, sia a Lione che a Ginevra, mia patria, spero che non scoprirete nulla che possa aggravare l’ingiustizia e le violenze di cui il conte di Montaigu ha ritenuto opportuno accoprirmi. I trattamenti che mi ha riservato sono proprio quelli contro i quali un uomo onesto non si preoccupa nemmeno di prendere precauzioni. Con i doveri che mi ero imposto e i sentimenti che mi guidavano, credevo di essere abbastanza superiore a simili avversità da non aver bisogno di cercare nelle mie principie regole di condotta in tali circostanze. Il zelo e l’accuratezza con cui ho adempiuto al compito che Sua Eccellenza mi aveva affidato non dovrebbero avermi ispirato alcuna diffidenza: forse sarò abbastanza fortunato da farvi sentire parlare di me da qualcuno che sia in grado di giudicare la situazione e che non abbia alcun interesse a diffamarmi. Se quindi, Signora, vi ho scritto qualcosa di irregolare, vi supplico di perdonarmi a causa del terribile turbamento e della disperazione in cui mi hanno gettato tali strani trattamenti. C’è forse nulla di più triste per un uomo onesto che vedere il proprio onore diffamato pubblicamente e la propria vita messa in pericolo, senza alcun motivo apparente, solo a causa di meschini litigi d’interesse, senza nemmeno la possibilità di difendersi o di giustificarsi? Inutilemente ho temuto di fare la figura dello sciocco; dopotutto, il subordinato ha sempre torto rispetto al superiore. Non ho visto altra via se non quella di presentare rappresentazioni giuste e rispettose per difendere il mio onore offeso. Non sono i trattamenti del conte di Montaigu in sé a offendermi; ho motivo di ritenere che lui non sia abbastanza conoscitore dei meriti altrui da dare un’importanza eccessiva alla sua stima. Ma, Signora, cosa penserà il pubblico, che si accontenta di giudicare dalle apparenze e raramente si prende la briga di verificare se la persona maltrattata se lo sia meritata? Sono le persone che amano l’equità e che hanno il diritto di approfondire le cose a rimediare all’ingiustizia del pubblico e a ristabilire l’onore di un uomo onesto che considera la propria vita senza valore quando ha perso la propria reputazione. Non c’è nulla di più semplice in questo caso: se si tratta di questioni d’interesse, il conto che avrò l’onore di presentarvi, scritto di pugno dal conte di Montaigu, è una prova irrefutabile che non potrebbe certo mettere in dubbio la sua buona fede. Se invece si tratta dell’onore, tutta Venezia ha visto con indignazione i trattamenti umilianti a cui mi ha sottoposto. So già di quali colori Sua Eccellenza sa dipingere le persone che ha preso in odio. Se quindi ci si fida ciecamente alle sue parole, non dubito affatto che io sia perduto e disonorato. Ma se Vostra Signoria vorrà prendere informazioni e verificare la situazione, oso sperare che il signor.
+Il conte di Montaigu mi ha, senza nemmeno pensarci, reso un servizio facendomi conoscere.
+
+Non pretendo, signore, di ottenere alcuna soddisfazione dall’ambasciatore; non ignoro, per quanto giuste possano essere, le ragioni che potrebbero opporsi a tale richiesta; chiedo soltanto di essere punito severamente se sono colpevole. Ma se non lo sono, e se ritenete il mio carattere degno di stima e la mia sorte meritevole di compassione, oso implorare la vostra protezione e qualche segno di benevolenza da parte vostra che possa rimettermi in onore agli occhi del pubblico. Forse riuscirò a recuperare più di quanto abbia perso; tuttavia sento che lo zelo con cui cercherei di meritarmi tale protezione potrebbe, un giorno, far dubitare se abbiate agito verso di me più per generosità che per giustizia.
+
+1745
+
+Lettera XXXIII – Alla signora baronessa di Warens
+
+Lettera XXXIV – A Monsieur Daniel Roguin
+
+Lettera XXXIV – A Monsieur de Voltaire
+
+Lettera XXXVI – Alla signora baronessa di Warens
+
+Tabella della corrispondenza
+
+Lettera XXXIV – A Monsieur Daniel Roguin
+
+[488]
+
+Parigi, 9 luglio 1745.
+
+Non so, signore, quale giudizio possiate formarvi su di me e sul mio comportamento; ma le apparenze sono così contrarie a ciò che realmente sono, che non avrei motivo di lamentarmi nemmeno se il vostro parere fosse sfavorevole. Non pensereste allo stesso modo se poteste leggere nel profondo della mia anima: l’amarezza e la sofferenza che vi trovereste non sono certo i sentimenti di un uomo capace di dimenticare i propri doveri.
 
 <span class="atom-split" data-atom="015" data-title="(apertura) (parte 15)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
@@ -679,6 +1933,86 @@ Madame,
 J'ai lu et copié le nouveau mémoire que vous avez pris la peine de m'envoyer : j'approuve fort le retranchement que vous avez fait, puisque outre que c'était un assez mauvais verbiage, c'est que, les circonstances n'en étant pas conformes à la vérité, je me faisais une violente peine de les avancer ; mais aussi il ne fallait pas me faire dire au commencement que j'avais abandonné tous mes droits et prétentions, puisque, rien n'étant plus manifestement faux, c'est toujours mensonge pour mensonge, et, de plus, que celui-là est bien plus aisé à vérifier.
 
 Quant aux autres changements, je vous dirai là-dessus, madame, ce que [Socrate](/figures/socrates) répondit autrefois à un certain Lysias. Ce Lysias était le plus habile orateur de son temps, et, dans l'accusation où Socrate fut condamné, il lui apporta un discours qu'il avait travaillé avec grand soin, où il mettait ses raisons et les moyens de Socrate dans tout leur jour. Socrate le lut avec plaisir, et le trouva fort bien fait ; mais il lui dit franchement qu'il ne lui était pas propre. Sur quoi Lysias lui ayant demandé comment il était possible que ce discours fût bien fait s'il ne lui était pas propre. De même, dit-il, en se servant, selon sa coutume, de comparaisons vulgaires, qu’un excellent ouvrier pourrait m'apporter des habits ou des souliers magnifiques, brodés d'or, et auxquels il ne manquerait rien, mais qui ne me conviendraient pas. Pour moi, plus docile que Socrate, j'ai laissé le tout comme vous avez jugé à propos de le changer, excepté deux ou trois expressions de style seulement, qui m'ont paru s'être glissées par mégarde.
+
+<span class="qlang-split" data-lang="en"></span>
+
+You are roughly aware of my situation. The first time I have the honor of meeting you in person, I will explain to you the nature of my resources: you can then judge the assistance they can provide me and the trust I must place in them. I have not received any response from that young man, and I am beginning to despair entirely of obtaining any resolution to this matter. However, an inability that I could not foresee has put me in the sad necessity of delaying my payments—first and foremost to you, my kind and generous friend and benefactor, as well as to all those honest people who, like you, have taken the trouble to assist me in my needs, relying on my integrity for assurances that they could not have expected from my fortune. The judge of hearts can read into mine: if their hopes have been disappointed, my current inability should be even less held against me as a crime, for, according to all rules of human prudence, I had no way of anticipating it at the time when I so unhappily abused your trust and friendship—unless one were to say that my past misfortunes should have served as a lesson to prepare me for even more improbable future hardships. Thus, deprived of all resources and left with only vague and distant hopes, I have been struggling against poverty since my arrival in Paris; and my efforts have been so earnest that, at the slightest glimmer of hope for some advantage, I had already asked you, even before I could possibly achieve it, to forgive me for taking steps that I could not undertake simultaneously. But my ongoing misfortune has once again deprived me of the means to fulfill this desire. You know that I undertook a project upon which I relied to support myself; it took so long to complete that I decided to imprison myself at the Hôtel Saint-Quentin, resolving not to leave until it was finished—which I have just done. I will not tell you whether it is good or bad; you can judge for yourself. It is hardly possible for the state of a troubled and melancholic mind not to affect one’s work; but I already foresee so many obstacles to its success that it might prove futile, and I would be greatly mistaken if it did not achieve the usual success in everything I undertake. In any case, I will spare no effort or care to overcome any difficulties, whether on this front or any other, that might affect you in any way. I would even go further: I am so weary of human society and companionship that it is only the dictates of honor that keep me here; and if I ever achieve my ultimate goal—namely, no longer needing anything—I will not be seen in Paris for twenty-four hours after that.
+
+Such are, my dear sir, the state of my soul. I am undoubtedly in a very pitiable condition; yet I still feel worthy of your esteem, and I beg you not to take it away from me unless you see me forget both my duty and my eternal gratitude—such gratitude I ask you to grant me forever. I confess frankly that, on the point of going to see you, I did not dare to appear before you without some assurance of your feelings toward me; an assurance that only my misfortunes, and not my sentiments, made necessary.
+
+I implore you to consider whether it would be possible to persuade the merchant to take back the jacket, allowing him to lose whatever amount he deems appropriate. I also have several other items that are still in new condition; however, since I believe that paying for them is less of a problem than having you restore them at such great expense, I do not mention them here.
+
+With all my respect, I implore you, Madame Duplessis and Mademoiselle. I am honored to be connected by the tenderest and most enduring bond—Monsieur, etc.
+
+Letter XXXVI – To Baroness de Warens
+
+... 1745[491].
+
+My very dear mother, I must inform you that, against all expectations, I have found a way to ensure that your matter is presented to Monsieur the Count of Castellane in the most favorable manner possible: it will be handled directly by the minister himself, so that, since this becomes an official affair involving correspondence, you can be certain of enjoying all the advantages that such favor can bring to the fairness of the process. I was obliged to prepare a memorandum based on the documents you sent me; I attach a copy here for your review, so you can see whether I have understood them correctly. If you respond promptly, I will have time to make any necessary corrections before submitting it, as the court will not return from Fontainebleau until in a few days. Moreover, you must act quickly and take the necessary steps regarding this matter; for example, it is quite strange not even to know the baptismal names of the people involved in the succession. You also know that in cases like this, nothing can be decided without proper baptismal records and the will of the testator, as well as those of the heir, all duly authenticated by the local authorities and the ministers of the king who are resident there. I am informing you of all this so that you can prepare all these necessary documents, and their regular dispatch will serve as a useful reminder for us both. Adieu, my dear mother; I have no desire to write at length about my own affairs, but what I have to tell you is so unpleasant that there is no point in hurrying.
+
+MEMORIE.
+
+N. N. De La Tour, a gentleman from the region of Vaud, having died in Constantinople, appointed Mr. Honoré Pelico, a French merchant, as his executor[492], with the task of ensuring that his estate was delivered to his closest relatives; Françoise de La Tour, Baroness of Warens, who falls within this category[493], would like it if someone could approach said Mr. Pelico and persuade him to relinquish the estate in her favor by demonstrating her rights to it. Without wishing to question the good intentions of Mr. Pelico, it seems that, given his silence so far regarding the deceased’s family, he is not eager to carry out the latter’s wishes. Therefore, it would be desirable if the Ambassador were to intervene and use his authority to examine and resolve this matter. The Baroness of Warens, having had her property confiscated due to her adherence to Catholicism, and not receiving the pensions that the King of Sardinia and later His Catholic Majesty had assigned her in Savoy, is certain that her dire circumstances provide yet another reason to urge His Excellency’s religion to intervene in her favor.
+
+1747
+
+Letter XXXVII – To Baroness de Warens
+
+Letter XXXVIII – To Baroness de Warens
+
+Letter XXXIX – To Baroness de Warens
+
+Correspondence Table
+
+Letter XXXVIII – To Baroness de Warens
+
+February 1747.
+
+Madam,
+
+I have read and copied the new memorandum you took the trouble to send me: I fully agree with the deletions you made, since not only was the language used quite poor, but also, given that the circumstances described did not correspond to the truth, I found it extremely difficult to proceed with presenting those claims. Moreover, it would have been wrong for you to state at the beginning that I had abandoned all my rights and claims, especially since what was stated there was so obviously false—after all, a lie is still a lie, and in this case, it is even easier to prove that it is false.
+
+As for the other changes, madam, I would tell you what [Socrates](/figures/socrates) once replied to a certain Lysias on this matter. This Lysias was the most skilled orator of his time, and in the accusation that led to Socrates’ condemnation, he presented him with a carefully prepared speech that laid out Socrates’ arguments and methods in great detail. Socrates read it with pleasure and found it well-written; but he told Lysias frankly that it did not suit him. When Lysias asked how such a speech could be good if it did not suit him, Socrates replied that just as an excellent craftsman might make me beautiful clothes or shoes, embroidered in gold and lacking nothing, they would still not suit me. As for me, being more docile than Socrates, I left everything as you deemed appropriate to change—except for two or three stylistic expressions that I believed had been inadvertently included.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Conoscete piuttosto bene la mia situazione. La prima volta che avrò l’onore di vedervi personalmente, vi spiegherò la natura delle mie risorse: giudicherete voi stesso quali aiuti esse possano fornirmi e quale fiducia io debba riporre in esse. Non ho più ricevuto risposta dal mio amico, e comincio davvero a disperare di poter ottenere qualcosa da lui. Tuttavia, una situazione che non avrei potuto prevedere mi costringe, con grande rammarico, ad accumulare ritardi nel pagamento dei debiti, soprattutto nei confronti vostri, mio caro e generoso amico e benefattore, così come di altre persone oneste che, proprio come voi, si sono preso la briga di aiutarmi, fidandosi della mia integrità. Il “giudice dei cuori” legge nel mio: se le loro speranze sono state deluse, la mia attuale impotenza non può certo essere considerata un crimine, poiché, secondo tutte le regole della prudenza umana, non avrei dovuto prevederla quando ho così sfortunatamente abusato della vostra fiducia e della vostra amicizia, a meno che i miei passati mali non debbano essere considerati una lezione per il futuro. Privo di ogni risorsa, costretto ad affidarmi a speranze vaghe e lontane, lotto contro la povertà da quando sono arrivato a Parigi. E le mie azioni sono così oneste che, non appena si presenta anche solo una minima possibilità di successo, vi ho chiesto, ancora prima di poterla concretizzare, di permettermi di compiere almeno in parte ciò che non riuscivo a fare tutto insieme. Ma la mia sfortuna continua ad impedirmi di realizzare i miei desideri. Sapete che avevo intrapreso un lavoro su cui contavo per ottenere i mezzi necessari per portarlo a termine. Ma esso richiedeva troppo tempo, quindi ho deciso di venire rinchiuso all’Hôtel Saint-Quentin, promettendomi di non uscire finché non l’avessi completato. Ed è proprio ciò che ho fatto. Non vi dirò se questo lavoro sia utile o inutile, voi ne giudicherete. È quasi inevitabile che lo stato d’animo di una persona afflitta e malinconica influisca sulle sue opere. Ma prevedo già tanti ostacoli al suo successo, che potrebbe rivelarsi un tentativo vano. E sarei davvero ingannato se non ottenesse il risultato sperato. Comunque sia, non risparmierò sforzi né impegni per superare tutte le difficoltà, sia di questo tipo che di altri. Che possano influenzare negativamente la realizzazione dei miei obiettivi. Vi dirò persino di più: sono così disgustato dalla società e dal rapporto con gli uomini, che è soltanto la legge dell’onore a trattenermi qui. E se mai riuscirò nel mio intento, cioè a non dover più nulla a nessuno, non vi vedrò più a Parigi per ventiquattro ore.
+
+Ecco, caro signore, quali sono le disposizioni del mio animo. Sono certamente molto da compiangere; ma mi sento sempre degno della vostra stima, e vi supplico di non togliermela se non quando vedrete che ho dimenticato il mio dovere e la mia eterna riconoscenza verso di voi: è questo ciò che chiedo per sempre. Vi confesso francamente che, nel momento di andare da voi, non ho osato presentarmi davanti a voi senza assicurarmi, in qualche modo, della vostra disposizione nei miei confronti, attraverso una giustificazione resa necessaria soltanto dai miei mali, e non dai miei sentimenti.
+
+Vi supplico di verificare se non si potrebbe convincere il commerciante a riprendere la giacca, perdendo lui stesso ciò che desidera. Ho anche altri oggetti, ancora nuovi; tuttavia, poiché ritengo che il pagamento sia meno lontano rispetto al costo che una loro restituzione vi causerebbe, non vi ne parlo.
+
+Con i miei rispetti, vi supplico, signora Duplessis e signorina. Ho l’onore di essere legato a voi con il sentimento più tenero e più eterno, signore, ecc.
+
+Lettera XXXVI – Alla signora baronessa di Warens
+
+... 1745[491].
+
+Mia molto cara mamma, devo informarvi che, contro ogni aspettativa, sono riuscito a far sì che la vostra causa venisse presentata al conte di Castellane nel modo più vantaggioso possibile: sarà lo stesso ministro ad occuparsene, in modo che questa questione venga trattata con la massima celerità e imparzialità. Sono stato costretto a redigere un memoriale basato sulle carte che mi avete inviato; vi allego qui una copia affinché possiate verificare se ho interpretato correttamente i contenuti. Se risponderete in tempi rapidi, avrò il tempo di apportare le necessarie correzioni prima di inviarlo ufficialmente; la corte non tornerà da Fontainebleau che tra alcuni giorni. Inoltre, è fondamentale che prendiate al più presto tutte le decisioni necessarie riguardo a questa questione: ad esempio, è davvero strano non conoscere nemmeno il nome di battesimo delle persone coinvolte nella successione. Come sapete, in casi del genere nulla può essere deciso senza documenti validi relativi ai battesimi dei soggetti interessati, nonché al testatore e all’erede, legalizzati dai magistrati locali e dai ministri reali residenti nella zona. Vi avviso di tutto ciò affinché vi assicuriate di avere a disposizione tutte queste carte; la loro invio periodico potrà rivelarsi utile come promemoria. Addio, mia cara mamma. Non ho alcuna voglia di scrivervi troppo a lungo riguardo alle mie faccende personali, ma ciò che devo comunicarvi è così poco piacevole che non vale la pena affrettarsi.
+
+MEMORIA.
+
+N. N. De La Tour, gentiluomo della regione del Vaud, essendo morto a Costantinopoli, aveva nominato il signor Honoré Pelico, mercante francese, suo esecutore testamentario, incaricandolo di far pervenire i suoi beni ai suoi parenti più prossimi. Françoise de La Tour, baronessa di Warens, che si trova in questa situazione, desidererebbe che si potesse intervenire presso il suddetto signor Pelico affinché si disfacesse dei suddetti beni a suo favore, dimostrandogli i suoi diritti. Senza voler mettere in dubbio la buona volontà del signor Pelico, sembra che, considerando il silenzio mantenuto finora da parte sua nei confronti della famiglia del defunto, non sia particolarmente desideroso di eseguire le sue ultime volontà. Per questo motivo, sarebbe auspicabile che l’ambasciatore intervenisse con la sua autorità per esaminare e decidere questa questione. La suddetta baronessa di Warens, avendo visto i suoi beni confiscati a causa della religione cattolica che aveva adottato, e non ricevendo le pensioni assegnatele dal re di Sardegna e successivamente dalla sua maestà cattolica in Savoia, non dubita affatto che la difficile situazione in cui si trova costituisca un ulteriore motivo per interessare a suo favore la religione di Sua Eccellenza.
+
+1747
+
+Lettera XXXVII – Alla signora baronessa di Warens
+
+Lettera XXXVIII – Alla signora baronessa di Warens
+
+Lettera XXXIX – Alla signora baronessa di Warens
+
+Tabella della corrispondenza
+
+Lettera XXXVIII – Alla signora baronessa di Warens
+
+Febbraio 1747.
+
+Signora,
+
+Ho letto e copiato il nuovo memoriale che vi siete preso la briga di inviarmi: approvo pienamente le modifiche che avete apportato, poiché non solo quel testo era piuttosto scadente dal punto di vista linguistico, ma anche perché le circostanze descritte non corrispondevano alla verità; per questo motivo mi sarebbe stato molto difficile presentarlo. Inoltre, non avreste dovuto far menzionare all’inizio che avevo abbandonato tutti i miei diritti e pretese, poiché nulla di ciò che era descritto poteva essere più palesemente falso. E comunque, mentire è sempre mentire, e in questo caso la menzogna risulta persino più facile da verificare.
+
+Per quanto riguarda gli altri cambiamenti, signora, vi dirò ciò che [Socrate](/figures/socrates) rispose un tempo a un certo Lisia. Questo Lisia era il più abile oratore del suo tempo; nell’accusa con cui Socrate fu condannato, gli portò un discorso che aveva preparato con grande cura, nel quale espondeva tutte le ragioni e i metodi di Socrate in modo molto dettagliato. Socrate lo lesse con piacere e lo trovò ben scritto; ma gli disse francamente che non era adatto a lui. Allora Lisia gli chiese come fosse possibile che un discorso del genere fosse ben scritto se non gli si addiceva. “Allo stesso modo”, rispose Socrate, “anche se un ottimo artigiano mi portasse abiti o scarpe magnifici, ricamati d’oro e senza alcun difetto, essi non mi starebbero bene. Io, più docile di Socrate, ho lasciato tutto com’era, tranne che per due o tre espressioni stilistiche che, a mio parere, sono state inserite per errore.”
 
 <span class="atom-split" data-atom="016" data-title="(apertura) (parte 16)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
@@ -733,6 +2067,114 @@ En dernier lieu, je viens d'être attaqué de violentes coliques d'estomac, acco
 Cependant le besoin me chasse de la chambre, et je me propose de faire demain ma première sortie ; peut-être que le grand air et un peu de promenade me rendront quelque chose de mes forces perdues. On m'a conseillé l'usage de l'extrait de genièvre, mais il est ici bien moins bon et beaucoup plus cher que dans nos montagnes.
 
 Et vous, ma chère maman, comment êtes-vous à présent ? Vos peines ne sont-elles point calmées ? n'êtes-vous point apaisée au sujet d'un malheureux fils, qui n'a prévu vos peines que de trop loin, sans jamais les pouvoir soulager ? Vous n'avez connu ni mon coeur ni ma situation. Permettez-moi de vous répondre ce que vous m'avez dit si souvent : vous ne me connaîtrez que quand il n'en sera plus temps.
+
+<span class="qlang-split" data-lang="en"></span>
+
+I became bolder towards the end: I have no idea what your intentions might have been in having the pension handled by His Excellency; but the disadvantages are obvious—clearly, if I were unfortunate enough to outlive him through some unforeseen accident, or if he fell ill, the pension would be lost. Wouldn’t it cost more to establish it in a far more secure way? Such considerations are merely detours that lead you astray, when there is no disadvantage at all in following the straight path. If my loyalty were questionable, and if anyone could suspect me of misappropriating or misusing this money, I would never have changed the arrangement so freely as I did. The reason I decided to speak about myself was because I believed that your sensitivity might be troubled by the thought that this money might benefit you in some way—an idea that could only arise in the mind of a madman. In any case, I hope to never stain my own hands with it.
+
+You must have, perhaps inadvertently, attached a separate sheet to the memorandum; I doubt it was intended to be copied. After all, someone might ask me what right I have to interfere in such matters. And since I claim to be completely detached from any civil affairs, would it be appropriate for me to appear so well-versed in matters that are not within my competence?
+
+As for what people tell me—that I would prefer not to be named—this is a false delicacy that I do not possess at all: Shame does not lie in admitting that one receives something, but in being forced to receive it. I despise the subtleties of poorly understood vanity just as much as I value noble sentiments. Nevertheless, I appreciate the consideration you and my uncle have shown in this matter; but I am free from both your concern and your offer. Besides, under what name, tell me, would you have the pension registered?
+
+I owe countless thanks to my dear uncle: every day I come to understand better just how kind he has been to me. If he has helped so many ungrateful people in his life, he can be certain that at least he has found one [grateful heart](/positions/fideism); for, as Seneca said.
+
+Many things are lost when one seeks to gain good in the same manner.
+
+That Latin is for the uncle; here is the French translation for you:
+
+Lose some of your power and benefits in order to properly place one.
+
+You have been practicing this phrase for a long time, yet I guess you have never read it in Seneca’s works.
+
+I am, with the utmost intensity of all my emotions, etc.
+
+Letter XXXIX – To Baroness de Warens
+
+Paris, December 17, 1747.
+
+It has only been six days, my dear mother, since I returned from Chenonceau[495]. Upon arriving, I received your letter dated the 2nd of this month, in which you reprimand me for my silence—and with good reason, for it appears that you have not received the letter I sent you from there, enclosed within the envelope of Abbe Giloz. I have just received a letter from him himself, in which he makes the same reproaches to me. Thus, I am certain that neither he nor you have received our packages; yet what he seems to be accusing me of is precisely what serves as my defense. For, being so far away from any office where I could have the letters stamped and sent, I took the risk of sending them without such stamps, informing both you and him how much I feared they might not arrive, and how I was waiting for your reply to feel reassured. I have not received that reply, and from this I understand that neither of us has received anything; it was therefore necessary to wait until my return to Paris before writing again. What further encouraged me to take such a risk was the fact that last year, by some fortunate chance, you had received a letter from me sent in the same way, since there was no other way I could have done it. To prove what I am saying, please take the trouble to have a package bearing my handwriting and addressed to Monsieur Abbe Giloz searched for at the post office. You can open it, take your letter, and send him his own: both letters contain details that are too personal for me to dare repeat them.
+
+Mr. Descreux came to see me the day after my arrival; he told me that he had some money at your disposal and that he was about to embark on a journey during which he planned to stop by and offer you his funds. But whatever he says, I don’t believe those funds are in any better shape than mine. I have always regarded the promissory notes he accepted as nothing but mere jest. He would accept millions from you, at the same rate—I assure you, it means absolutely nothing to him. He is just as broke as Mr. Baqueret; I don’t doubt he will end up pursuing his projects in the very same place. Anyway, I think he is a fairly good man—one who even combines two rare qualities: madness and greed.
+
+As for me, I say nothing to you; that is saying enough. Despite the injustices you inflict upon me inwardly, it would solely depend on me to turn your constant hostility towards me into respect and compassion. A few explanations would be sufficient for that; but your heart is already burdened with its own troubles, without having to bear those of others as well. I still hope that one day you will come to know me better and love me even more.
+
+I sincerely thank this brother for his wonderful friendship and assure him of mine. Goodbye, my too dear and too kind mother; I am once again at the Hôtel du Saint-Esprit, on Rue Plâtrière.
+
+I delayed sending this letter for a few days, in the hope that Mr. Des-creux would come to see me before he left; but I waited in vain, and now I consider him either gone or lost.
+
+1748
+
+Letter XL – To Mr. Altuna
+
+Letter XLI – To Baroness de Warens
+
+Correspondence Table
+
+Letter XLI – To Baroness de Warens
+
+Paris, August 26, 1748.
+
+I no longer hoped, my dear mother, to have the pleasure of writing to you; the period since my last letter was filled with two terrible illnesses one after another. First, I suffered from an attack of nephritic colic, accompanied by fever, pain, and difficulty in urinating. The pain subsided somewhat through baths, nitre, and other diuretics; however, the difficulty in urinating persisted. The stone that had moved from my kidney into my bladder could only be removed through surgery. But since both my health and my financial situation do not allow me to consider such an operation, all I have left is patience and resignation—remedies that are always at hand, yet often of little real help.
+
+Lastly, I have been afflicted with severe stomach cramps, accompanied by continuous vomiting and excessive intestinal activity. I tried countless ineffective remedies, including emetics, and ultimately used simarouba[498]; the vomiting has subsided, but I am now unable to digest anything at all. The food simply passes through my body as it is; I even had to give up the rice that was prescribed for me, and I am now forced to deprive myself of almost all nourishment. On top of everything else, I suffer from an incredible degree of weakness.
+
+However, the need drives me out of the room; I have decided to go on my first outing tomorrow. Perhaps the fresh air and a little walk will help me regain some of my lost strength. People have advised me to use juniper extract, but here it is of much lower quality and significantly more expensive than in our mountains.
+
+And you, my dear mother, how are you now? Have your pains not lessened at all? Are you not any more distressed by the thought of a unfortunate son who foresaw your sufferings only too late, never being able to alleviate them? You have never known my heart nor understood my situation. Allow me to reply to you with what you have so often said to me: you will never truly understand me until it is too late.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Alla fine sono stato più audace: non so quali potessero essere le vostre intenzioni nel far passare la pensione attraverso le mani di Sua Eccellenza; ma gli svantaggi di questa soluzione sono evidenti, poiché è chiaro che, se per qualche incidente imprevisto dovessi sopravvivere a lui, o se lui dovesse ammalarsi, la pensione sarebbe persa. Non costerebbe di più stabilirla nel modo più sicuro possibile? È come cercare vie traverse che vi confondono, quando invece non c’è alcun inconveniente nel seguire la strada giusta. Se la mia fedeltà fosse stata dubbia, e si potesse sospettare che fossi disposto a deviare quei soldi o ad usarli in modo improprio, mi sarei ben guardato dal cambiarne il destinatario con tanta facilità; e ciò che mi ha spinto a parlare di me stesso è stato il convincimento che la vostra delicatezza potesse essere offesa dall’idea che quei soldi venissero utilizzati a vostro vantaggio, un’idea che può nascere soltanto nella mente di una persona malvagia. Comunque sia, spero sinceramente di non macchiare mai le mie mani con questo denaro.
+
+Avete, probabilmente per errore, allegato al memoriale una pagina separata che, a mio parere, non doveva essere copiata: infatti, potrebbero chiedermi di cosa mi intrometta in questa faccenda. E io, che dichiaro di essere estraneo a qualsiasi questione civile, sarebbe appropriato da parte mia mostrarmi così ben informato su argomenti che non rientrano nella mia competenza?
+
+Per quanto riguarda ciò che mi viene detto, ovvero che desidererei non essere nominato, si tratta di una falsa delicatezza che io non condivido affatto: l’umiliazione non consiste nel dire di aver ricevuto qualcosa, ma nell’essere costretti a riceverlo; disprezzo le circonlocuzioni derivanti da una vanità malintesa tanto quanto apprezzo i sentimenti elevati. Tuttavia apprezzo molto la considerazione che voi e mio zio dimostrate nei miei confronti; ma non ho bisogno né dell’una né dell’altra. Del resto, con quale nome vorreste far registrare questa pensione?
+
+Esprimo mille ringraziamenti al mio molto caro zio: ogni giorno scopro sempre di più quanto sia buono con me; se nella sua vita ha aiutato tanti ingrati, può essere certo di aver trovato almeno un cuore riconoscente; perché, come dice Seneca.
+
+Si perde molto quando si cerca di ottenere qualcosa in modo sbagliato.
+
+Questo latino è destinato allo zio; ecco la traduzione in italiano per voi:
+
+Perdete i vostri benefici attuali per poterne ottenere uno migliore in futuro.
+
+Praticate questa frase da molto tempo, senza, immagino, averla mai letta nelle opere di Seneca.
+
+Sono, con tutta la vivacità dei miei sentimenti, ecc.
+
+Lettera XXXIX – Alla signora baronessa di Warens
+
+Parigi, 17 dicembre 1747.
+
+Sono tornato da Chenonceau[495] soltanto sei giorni fa, mia amatissima mamma. Al mio arrivo ho ricevuto la vostra lettera del 2 di questo mese, nella quale mi rimproverate il mio silenzio, e a ragione, poiché vi leggo che non avete ricevuto quella che vi avevo scritto da lì, inviata nell’indirizzo dell’abate Giloz. Ho appena ricevuto anche una lettera da lui, nella quale mi fa gli stessi rimproveri. Quindi sono certo che né lui abbia ricevuto il suo pacco, né voi la vostra lettera; ma ciò di cui sembra accusarmi è proprio ciò che mi giustifica. Infatti, essendo lontano da qualsiasi ufficio postale dove fosse possibile affrancare le lettere, ho osato inviarle senza affrancatura, avvisandovi entrambi di quanto temessi che non arrivassero, e aspettavo la vostra risposta per tranquillizzarmi. Non l’ho ricevuta, e da questo ho capito chiaramente che né voi né lui avevate ricevuto nulla; quindi era necessario attendere il mio ritorno a Parigi per poter scrivere di nuovo. Ciò che mi ha ancora incoraggiato ad osare inviare quella lettera è stato il fatto che l’anno scorso vi fosse arrivata una lettera, per qualche fortuna inspiegabile, anch’essa inviata nello stesso modo, poiché non c’era altra possibilità. Per dimostrare ciò che dico, vi prego di far cercare presso l’ufficio postale del Pont un pacco indirizzato a nome dell’abate Giloz. Potrete aprirlo, prendere la vostra lettera e inviargli la sua: entrambe contengono infatti dettagli troppo personali per me per osare ripetere l’operazione.
+
+Il signor Descreux venne a trovarmi il giorno dopo il mio arrivo; mi disse di avere del denaro da offrirmi e che doveva intraprendere un viaggio, durante il quale intendeva incontrarti per offrirti la sua borsa. Per quanto dica, non credo che la sua situazione finanziaria sia molto migliore della mia. Ho sempre considerato le cambiali che ha accettato come una vera e propria sciocchezza. Accetterà sicuramente qualsiasi somma tu voglia offrirgli, allo stesso prezzo. Te lo assicuro: a lui non importa affatto. È proprio come il signor Baqueret: è molto preciso nei suoi calcoli. E non dubito che realizzi i suoi progetti nello stesso posto. Del resto, credo sia una brava persona. Anzi, unisce due qualità rare da trovare insieme: la follia e l’interesse.
+
+Riguardo a me, non vi dico nulla; questo è già tutto ciò che ho da dire. Nonostante le ingiustizie che mi fate interiormente, spetterebbe soltanto a me trasformare in stima e compassione le vostre continue diffidenze nei miei confronti. Alcune spiegazioni basterebbero per questo; ma il vostro cuore ha già abbastanza dei propri mali, senza dover sopportare anche quelli degli altri. Spero sempre che un giorno mi conoscerete meglio e mi amerete di più.
+
+Ringrazio con affetto il fratello per la sua gentile amicizia e gli assicuro tutta la mia gratitudine. Addio, cara e preziosa mamma; sono di nuovo all’hotel du Saint-Esprit, in rue Plâtrière.
+
+Ho ritardato di alcuni giorni la spedizione di questa lettera, nella speranza che il signor Des-creux venisse a trovarmi prima della sua partenza; ma l’ho aspettato invano e ora lo considero assente o disperso.
+
+1748
+
+Lettera XL – A Monsieur Altuna
+
+Lettera XLI – Alla signora baronessa di Warens
+
+Tabella della corrispondenza
+
+Lettera XLI – Alla signora baronessa di Warens
+
+Parigi, 26 agosto 1748.
+
+Non mi aspettavo più di avere il piacere di scrivervi, mia molto cara mamma; il periodo tra la mia ultima lettera e questa è stato segnato da due terribili malattie una dopo l’altra. Prima ho avuto un attacco di colica renale, con febbre, bruciore e difficoltà a urinare; il dolore si è alleviato grazie a bagni caldi, nitro e altri diuretici, ma la difficoltà di urinare persiste ancora. Inoltre, il calcolo renale che si è spostato nella vescica può essere eliminato soltanto con un intervento chirurgico. Tuttavia, né la mia salute né le mie condizioni finanziarie mi permettono di prenderlo in considerazione; quindi non mi resta altro che la pazienza e la rassegnazione: rimedi sempre a disposizione, ma che spesso non risolvono nulla.
+
+Infine, sono stato colpito da violenti coliche addominali, accompagnate da vomiti continui e da un’eccessiva produzione di gas intestinali. Ho provato mille rimedi inutili, ho assunto l’emetico e, infine, anche il simarouba[498]; il vomito è cessato, ma non digerisco più affatto: il cibo esce esattamente come lo ho ingerito; ho dovuto rinunciare persino al riso che mi era stato prescritto e sono costretto a privarmi quasi completamente di qualsiasi alimento. Inoltre, soffro di una debolezza incredibile.
+
+Tuttavia, il bisogno mi spinge ad uscire dalla stanza; ho deciso di fare la mia prima passeggiata domani. Forse l’aria fresca e una breve camminata mi aiuteranno a recuperare parte delle forze che ho perso. Mi hanno consigliato di utilizzare l’estratto di genio, ma qui è molto meno efficace e molto più costoso rispetto alle nostre montagne.
+
+E voi, mia cara mamma, come state ora? I vostri dolori sono forse un po’ meno intensi? Siete finalmente in pace riguardo a quel figlio sfortunato che ha previsto i vostri mali troppo tardi, senza mai riuscire a alleviarli? Non avete conosciuto né il mio cuore né la mia situazione. Permettetemi di rispondervi ciò che mi avete detto così spesso: non mi conoscerete davvero se non quando sarà ormai troppo tardi.
 
 <span class="atom-split" data-atom="017" data-title="(apertura) (parte 17)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
@@ -792,6 +2234,122 @@ ALORS AUTEUR DU MERCURE DE FRANCE
 
 Paris, le 25 juillet 1750.
 
+<span class="qlang-split" data-lang="en"></span>
+
+Mr. Leonard sented for news of me some time ago. I promised to write to him, and I would have done so if I had not fallen ill again at just that time. If you think it appropriate, we could continue to correspond through this channel as usual. It would save us a few pennies in postage costs, a small amount that is almost essential in these difficult times of scarcity. I still hope that this situation will not last forever. I would greatly appreciate having some secure way to inform you of my true circumstances; I could use your advice immensely. I am using all my wits and health to try to behave wisely in these challenging circumstances, to extricate myself, if possible, from this state of disgrace and poverty. And I believe that every day I realize that it is merely chance that determines my fate, and that the greatest prudence is utterly powerless to change it. Adieu, my dear mother; please continue to write to me at the Hôtel du Saint-Esprit, on Rue Plâtrière.
+
+1749
+
+Letter XLII – To Baroness de Warens
+
+Letter XLIII – To M.
+
+Correspondence Table
+
+Letter XLIII – To M.
+
+... 1749[500].
+
+Here you are, sir, a deserter from the world and its pleasures; at your age and in your situation, such a transformation is truly remarkable. When a man of twenty-two, as gallant, kind, polite, and witty as you are—and who, moreover, is by no means dissatisfied with his fortune—decides to retire from worldly pursuits, out of pure taste and without being driven by any setbacks in his affairs or amusements, one can be certain that such a fruit of good sense and reflection will not lead to regret or remorse. Based on this conviction, I dare offer you a compliment regarding your decision to retire—a compliment that many others would not dare to express; I congratulate you on it. Without overemphasizing the greatness and perhaps even the heroism of your resolve, I must say frankly that I often lamented that a mind so just and a soul so noble as yours were destined merely for gallantry, card games, and champagne. You were born, my dear sir, for something far better. That passionate yet delicate taste for pleasure soon led you to discover the emptiness of the most dazzling superficialities; you will be surprised to find that the simplest and most modest pleasures possess just as much allure and vitality. Now that you have come to know men, you no longer need to see so many of them in order to learn to despise them. It would be wise for you to take some time to reflect on your own worth and character. In this way, as you begin a different kind of life, you will also conduct a small self-examination—the results of which will undoubtedly contribute to your peace of mind.
+
+Sir, even if you were to give too much in excess, that is precisely what I would not wish to do without caution. You have surely not completely renounced society or the company of other people; since you have made this choice out of your own free will, and without any adverse circumstances forcing you to do so, you should not adopt the bitter hatred of those who despise humanity—those mortal enemies of the human race. It is certainly permissible for you to despise them, but you must always remember that men, whatever one may say, are our brothers, despite ourselves and them. They may be harsh in their truths, but this does not diminish our duty to fulfill all obligations owed to them. Nevertheless, it must be admitted that one cannot do without certain means—such as “lanterns”—in order to establish commerce and maintain relationships; and when, unfortunately, those “lanterns” reveal nothing, it becomes necessary to deal with oneself and, in the absence of others, to take oneself as one’s friend and confidant. But this confidant and this friend must also be somewhat known; we must understand how much and to what extent we can trust them—for often appearances deceive us, even about ourselves. The hustle and bustle of cities and the noise of the world are hardly conducive to such self-examination. The distractions brought by external things are too frequent and too prolonged; one cannot find there any solitude or tranquility. Let us seek refuge in the countryside—there we can find rest and contentment that we have failed to obtain amidst gatherings and amusements. Let us try this new way of living; let us taste those peaceful pleasures, those delights of which Horace, a true connoisseur if ever there was one, spoke so highly. This, sir, is how I suspect you have reasoned.
+
+1750
+
+Letter XLIV – To Mr. de Voltaire
+
+Letter XLV – To Mr. de l’Academy of Dijon
+
+Letter XLVI – To Mr. Abbé Raynal
+
+Correspondence Table
+
+Letter XLIV – To Mr. de Voltaire
+
+Paris, January 30, 1750.
+
+Once, a Rousseau declared himself your enemy, out of fear of admitting his own inferiority to you; another Rousseau, unable to match the first in genius, sought to imitate his bad methods. I share the same name as them; but lacking both the talents of one and the competence of the other, I am even less capable of committing the same mistakes against you. I am willing to live unknown, but not dishonored; and I would consider myself dishonored if I failed to show you the respect that all men of letters owe you—and that all those who deserve it also hold for you.
+
+I wish not to dwell on this subject, nor to violate, even in your presence, the rule I have imposed upon myself never to recommend anyone personally; but, sir, I will take the liberty of telling you that you have misjudged a good man by assuming he would be capable of repaying the kindness and honesty you showed him regarding the Festivals of Ramire[501]. I have not forgotten the letter you had the kindness to send me on that occasion; it convinced me even more that, despite base slander, you are truly the protector of those young talents who need such support. It was for the sake of those whom I was trying to help that you deigned to promise me your friendship: their fate turned out to be unfortunate, and I should have expected no less. A solitary man who does not know how to speak, a timid and disheartened individual, would never have dared to approach you. What right did I have? It was not lack of zeal that held me back, but pride; and since I dared not present myself before you, I waited for an opportune moment to express my respect and gratitude.
+
+From that day on, I abandoned the pursuit of fame through letters and fantasy; and, despairing of achieving it through genius like you, I scorned to try, like ordinary men, to attain it through cunning and manipulation. Yet I will never cease to admire your works. You have depicted friendship and all virtues as those of a man who knows them and loves them. I have heard the whispers of envy, but I have despised its clamors, and I have said, without fear of being mistaken: These writings, which elevate my soul and kindle my courage, are certainly not the creations of a man indifferent to virtue.
+
+You have also failed to judge a republican correctly, for I was known to you as such. I love freedom; I likewise despise domination and slavery, and I refuse to impose them on anyone. Such sentiments are hardly compatible with insolence; it is more suited to slaves, or even to men of an even lower character—jealous petty individuals who envy the great.
+
+I therefore protest to you, sir, that not only did Rousseau of Geneva never deliver the speeches you attribute to him, but he is also incapable of delivering such speeches. I take no pride in the honor of being known to you; however, if such good fortune ever befalls me, I hope it will be through means worthy of your respect.
+
+It is my honor to be with you, sir, with deep respect – your most humble servant, etc.
+
+Observation
+
+This letter is remarkable in several respects. Rousseau had not yet achieved any fame, having not received the recognition bestowed upon him by the Academy of Dijon until some months later. Yet, from the tone he adopts in this letter, one would think he already began to have such expectations. The respect he expressed for Voltaire he never reneged on; as for genius and talent, it is not his fault that his views on indifference toward virtue later changed.
+
+Letter XLVI – To Mr. Abbé Raynal
+
+THEN, THE AUTHOR OF “MERCURE DE FRANCE”
+
+[502]
+
+Paris, July 25, 1750.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il signor Leonard mi ha chiesto notizie di me qualche tempo fa. Gli avevo promesso di scrivere, e lo avrei fatto se in quel periodo non fossi ricaduto malato. Se ritenete opportuno, potremmo continuare a scriverci regolarmente per questa via: sarebbero solo pochi centesimi da risparmiare sui francobolli, in un momento in cui questo tipo di economia è quasi una necessità. Spero sempre che questo stato di cose non duri all’infinito. Vorrei davvero disporre di un modo sicuro per comunicarvi la mia vera situazione: avrei bisogno moltissimo dei vostri consigli. Sto usando tutta la mia intelligenza e la mia salute per cercare di comportarmi saggiamente in queste difficili circostanze, per uscire, se possibile, da questo stato di disonore e povertà. E credo di notare ogni giorno che è soltanto il caso a determinare il mio destino, e che la massima prudenza non possa assolutamente fare nulla al riguardo. Addio, mia cara mamma. Scrivetemi sempre all’hotel du Saint-Esprit, in rue Plâtrière.
+
+1749
+
+Lettera XLII – Alla signora baronessa di Warens
+
+Lettera XLIII – A M.
+
+Tabella della corrispondenza
+
+Lettera XLIII – A M.
+
+... 1749[500].
+
+Ecco dunque, signore, che vi siete ritirato dal mondo e dai suoi piaceri; a vostra età e nella vostra situazione, questa è davvero una metamorfosi sorprendente. Quando un uomo di ventidue anni, galante, amabile, cortese, spiritoso come voi – e inoltre assolutamente non scoraggiato dalla fortuna – decide di ritirarsi, per semplice gusto personale e senza essere spinto da alcun insuccesso nelle sue imprese o nei suoi divertimenti, si può essere certi che un risultato così prezioso del buon senso e della riflessione non porterà con sé né disgusto né rimpianti. Basandomi su questa convinzione, oso farvi un complimento riguardo alla vostra scelta: vi congratulo sinceramente. Senza voler esagerare ciò che c’è di nobile e forse addirittura eroico nella vostra decisione, devo dirvi che spesso ho rimpianto che uno spirito così giusto e un’anima così bella come la vostra fossero fatti soltanto per la galanteria, le carte da gioco e il vino di Champagne. Siete nato, mio carissimo signore, per qualcosa di molto più importante; quel gusto appassionato, ma raffinato, che vi spinge verso i piaceri, vi ha presto fatto scoprire quanto siano insipidi anche quelli più brillanti. Scoprirete con sorpresa che anche i piaceri più semplici e modesti possiedono altrettanto fascino e vivacità. Ora che conoscete meglio gli uomini, non avete più bisogno di vederli spesso per imparare a disprezzarli. È ora che vi poniate qualche domanda su voi stesso, per capire quale opinione dovreste avere di voi stesso. Così, mentre provate un altro tipo di vita, farete anche un piccolo esame interiore. Il cui risultato non sarà certo inutile per la vostra tranquillità.
+
+Signore, anche se vi concedeste troppo in questo senso, non è qualcosa che vorrei senza alcuna moderazione. Senza dubbio non avete completamente rinunciato alla società né ai rapporti con gli altri uomini; poiché avete preso questa decisione di vostra spontanea volontà, e senza che alcun ostacolo spiacevole vi abbia costretto a farlo, non dovreste assolutamente condividere l’odio amaro dei misantropi, nemici mortali dell’umanità. È vero che potete disprezzare gli uomini, e questo non vi renderà certo l’unico a farlo; tuttavia dovete sempre amarli: gli uomini, qualunque cosa si dica, sono i nostri fratelli, anche se spesso ci sono ostili o indifferenti. Sì, sono fratelli molto duri nella verità, ma questo non ci esenta dal dovere verso di loro di adempiere a tutti i doveri che ci vengono imposti. Tuttavia, bisogna ammettere che per stabilire relazioni e intrattenere scambi con gli altri è necessario “portare una lanterna”, cioè essere consapevoli delle proprie azioni e delle proprie intenzioni. E quando, sfortunatamente, questa “lanterna” non rivela nulla di positivo, allora diventa necessario trattarsi da soli, assumendosi il ruolo di amici e confidenti. Ma questi “amici” e “confidenti”, bisogna anche conoscerli un po’, sapere come e fino a che punto si possa fidare di loro, perché spesso l’apparenza ci inganna, persino su noi stessi. E il tumulto delle città, il frastuono del mondo moderno non sono certo i luoghi adatti per questo tipo di analisi: le distrazioni offerte dagli oggetti esterni sono troppo frequenti e prolungate. Lì non si può godere di un po’ di solitudine e tranquillità. Salviamoci quindi in campagna, andiamo lì a cercare riposo e soddisfazione, cose che non abbiamo trovato tra le feste e i divertimenti della città. Proviamo questo nuovo stile di vita, assaporiamo quei piaceri pacifici, quelle dolcezze di cui Orazio, grande conoscitore in materia, parlava con tanto entusiasmo. Ecco, signore, credo che sia così che avete ragionato voi stesso.
+
+1750
+
+Lettera XLIV – A Monsieur de Voltaire
+
+Lettera XLV – A S.E. dell’Accademia di Digione
+
+Lettera XLVI – A Monsignor l’Abate Raynal
+
+Tabella della corrispondenza
+
+Lettera XLIV – A Monsieur de Voltaire
+
+Parigi, 30 gennaio 1750.
+
+Un Rousseau si dichiarò un tempo vostro nemico, per paura di riconoscere in sé la propria inferiorità; un altro Rousseau, non potendo avvicinarsi al primo per genio, cerca di imitare i suoi cattivi metodi. Io porto lo stesso nome di loro; ma non avendo né i talenti dell’uno né la sufficiente integrità dell’altro, sono ancora meno capace di commettere gli stessi errori nei vostri confronti. Sono disposto a vivere nell’oscurità, ma non nell’onore; e considererei me stesso disonorato se mancassi al rispetto che tutti i letterati dovrebbero avere per voi, e che tutti coloro che lo meritano vi mostrano.
+
+Non desidero dilungarmi su questo argomento, né violare, nemmeno con voi, la regola che mi sono imposta di non lodare mai nessuno in pubblico; tuttavia, signore, mi permetto di dirvi che avete giudicato male un uomo onesto, ritenendolo capace di ricambiare con ingratitudine e arroganza la bontà e l’onestà che avete dimostrato nei suoi confronti riguardo alle Feste di Ramire[501]. Non ho dimenticato la lettera che mi inviaste in quell’occasione: essa mi ha convinto ancora di più che, nonostante vane calunnie, siete davvero il protettore dei talenti emergenti che ne hanno bisogno. Fu a favore di coloro di cui stavo cercando di dimostrare le capacità che voi stesso vi degnaste di promettermi la vostra amicizia; purtroppo, il loro destino fu tragico. E avrei dovuto aspettarmelo. Un solitario che non sa parlare, un uomo timido e scoraggiato, come avrebbe potuto presentarsi a voi? Qual sarebbe stato il mio pretesto per farlo? Non mi mancava certo la volontà, ma l’orgoglio; e, non osando offrirmi davanti a voi, ho aspettato un’occasione favorevole per dimostrarvi il mio rispetto e la mia riconoscenza.
+
+Da quel giorno ho rinunciato alle lettere e alla speranza di acquisire reputazione; e, disperando di riuscirci con il genio come voi, ho rifiutato di provare, come fanno le persone comuni, ad ottenerla attraverso manovre e stratagemmi. Tuttavia, non rinuncierò mai al mio ammiramento per le vostre opere. Avete descritto l’amicizia e tutte le virtù come quelle di un uomo che le conosce e le ama veramente. Ho sentito mormorare l’invidia, ma ho disprezzato i suoi clamori, e ho detto, senza paura di sbagliarmi: Questi scritti, che elevano l’anima e infiammano il coraggio, non possono essere le opere di un uomo indifferente verso la virtù.
+
+Non avete nemmeno giudicato correttamente un repubblicano, poiché io ero conosciuto da voi come tale. Amo la libertà; odio altresì la dominazione e la schiavitù, e non intendo imporle a nessuno. Sentimenti del genere non sono affatto compatibili con l’insolenza; essa è più adatta agli schiavi, o ad uomini ancora più vili, a quei piccoli autori invidiosi dei grandi.
+
+Vi protesto quindi, signore, che non solo Rousseau di Ginevra non ha tenuto i discorsi che gli avete attribuiti, ma che è anche incapace di pronunciarne di simili. Non mi lusingo dell’onore di essere conosciuto da voi; tuttavia, se mai questo felice evento dovesse accadere, spero che avvenga in luoghi degni della vostra stima.
+
+Ho l’onore di essere, con profondo rispetto, signore, il vostro molto umile servitore, ecc.
+
+Osservazione.
+
+Questa lettera è degna di nota sotto diversi aspetti. Rousseau non aveva ancora alcuna fama, poiché non aveva ricevuto la corona che gli fu conferita, alcuni mesi dopo, dall’Accademia di Digione. Tuttavia, dal tono che utilizza si potrebbe dire che già allora avesse un certo presentimento di ciò che lo aspettava. L’onore che rende a Voltaire non l’ha mai ritrattato, né in termini di genio né di talenti; e non è certo colpa sua se in seguito ha cambiato opinione riguardo all’indifferenza verso la virtù.
+
+Lettera XLVI – A Monsignor l’Abate Raynal
+
+Allora, autore del “Mercure de France”.
+
+[502]
+
+Parigi, 25 luglio 1750.
+
 <span class="atom-split" data-atom="018" data-title="(apertura) (parte 18)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Vous le voulez, monsieur, je ne résiste plus ; il faut vous ouvrir un portefeuille qui n'était pas destiné à voir le jour, et qui en est très peu digne. Les plaintes du public sur ce déluge de mauvais écrits dont on l'inonde journellement m'ont assez appris qu'il n'a que faire des miens ; et, de mon côté, la réputation d'auteur médiocre, à laquelle seule j'aurais pu aspirer, a peu flatté mon ambition. N'ayant pu vaincre mon penchant pour les lettres, j'ai presque toujours écrit pour moi seul ; et le public, ni mes amis, n'auront pas à se plaindre que j'aie été pour eux recitator acerbus. Or on est toujours indulgent à soi-même ; et des écrits ainsi destinés à l'obscurité, l'auteur même eût-il du talent, manqueront toujours de ce feu que donne l'émulation, et de cette correction dont le seul désir de plaire peut surmonter le dégoût.
@@ -845,6 +2403,114 @@ AU SUJET D’UN NOUVEAU MODE DE MUSIQUE INVENTE PAR M. BLAlNVlLLE[506].
 Paris, le 30 mai 1751, au sortir du concert[507].
 
 Vous êtes bien aise, monsieur, vous, le panégyriste et l'ami des arts, de la tentative de M. Blainville pour l'introduction d'un nouveau mode dans notre musique. Pour moi, comme mon sentiment là-dessus ne fait rien à l'affaire, je passe immédiatement au jugement que vous me demandez sur la découverte même.
+
+<span class="qlang-split" data-lang="en"></span>
+
+You desire it, sir; I can no longer resist. It is necessary to create for you a portfolio that was never meant to see the light of day—and one that is far from worthy of such an honor. The public’s complaints about this flood of poor-quality writings that inundates them every day have taught me enough that they have nothing to do with my own works. Moreover, the reputation of being a mediocre writer—the only one I could possibly aspire to—has done little to satisfy my ambitions. Since I was unable to overcome my passion for literature, I almost always wrote solely for my own enjoyment. Neither the public nor my friends will have any reason to complain that I have been a harsh critic for them. Yet people are always lenient with themselves. And works destined for obscurity will, even if their author possesses talent, lack the drive brought about by competition and the discipline required only by the desire to please others.
+
+A peculiar thing is that, having once published only one work[503]—which certainly has nothing to do with poetry—I am now being called a poet against my will. People come every day to compliment me on comedies and other poems that I have not written and that I am not capable of writing. It is the coincidence of the names of the author and mine that brings me this honor. I would undoubtedly be flattered if people could take pride in compliments that are actually meant for others; but to praise a person for things that are beyond their abilities is nothing but to remind them of their own shortcomings.
+
+I had, to be honest, tried my hand at the lyrical genre with a work that was praised by amateurs but criticized by artists. The combination of two difficult artistic forms led these latter to reject it with equal fervor, as if it were indeed excellent.
+
+[Arv. ed]
+
+I had imagined, as a true Swiss, that success required merely doing things well; but having seen, through the experiences of others, that doing things well is actually the first and greatest obstacle one must overcome in this pursuit, and having also realized that other talents are needed which I neither possess nor wish to acquire, I quickly returned to obscurity—a place that suits both my abilities and my character. And it is there that you should leave me, for the sake of the honor of your journal. I am, etc.
+
+1751
+
+Letter XLVII – To Mr. Petit
+
+Letter XLVIII – To Madame de Francueil
+
+Letter XLIX – To Mr. Abbé Raynal
+
+Letter L – To Madame de Créqui
+
+Letter LI – To the Same One
+
+Letter LII – To the Same One
+
+Correspondence Table
+
+Letter XLVIII – To Madame de Francueil
+
+[504]
+
+Paris, April 20, 1751.
+
+Yes, madam, I placed my children in the Orphanage; I entrusted their care to an institution designed for that purpose. If my poverty and misfortunes prevent me from fulfilling such a sacred duty, it is indeed a tragedy that I must lament, but certainly not a crime I should blame myself for. I owe them sustenance; I have provided it for them in a way that is at least better or more secure than I could have done on my own—that is of primary importance. Secondly, there is the consideration of their mother, whom we must not bring into disgrace.
+
+You know my situation; I barely manage to earn a living each day with great difficulty—how could I possibly support a family? And if I were forced to take up the profession of writing, how could the worries of household chores and the troubles of raising children allow me the peace of mind needed to produce profitable work? The writings inspired by hunger bring little income, and this resource will soon be exhausted. I would then have to resort to deceit, intrigue, and cunning; seek some despicable job and try to succeed through ordinary means—otherwise, it would neither feed me nor sustain my family. In short, I would be forced to commit every kind of infamy, something I detest with utmost horror. To feed myself, my children, and their mother, by exploiting the suffering of the poor! No, madam; it would be better for them to be orphans than to have a scoundrel as their father.
+
+Stricken with a painful and fatal illness, I cannot hope for a long life anymore; were it possible for me to support these unfortunate children in their lifetime, they would surely pay a heavy price for the advantage of having been cared for more tenderly than they will ever be able to receive. Their mother, a victim of my indiscreet zeal, burdened with her own shame and needs, and almost as sick herself, is even less capable of providing for them than I am. She will be forced to abandon them to their own fate; and for them, there seems to be no other alternative but to become beggars or thieves—two essentially the same things. If only their condition were more justifiable, they might find it easier to obtain support. Bearing both the disgrace of their birth and that of their poverty, what will become of them?
+
+“Why did I not get married?” you might ask. Ask your unjust laws, madam. It was not right for me to enter into an eternal commitment, and no one will ever prove to me that any duty forces me to do so. What is certain is that I did not do it, and I have no intention of doing it. One should not have children if one cannot afford to feed them. Please forgive me, madam; nature seems to want us to have children, since the earth produces enough food for everyone. But it is the state of the rich, it is your state, that takes away the bread meant for my children.
+
+Nature also demands that we provide for their sustenance: this is what I have done. If there were no shelter for them, I would fulfill my duty and be willing to starve myself rather than fail to feed them.
+
+The term “foundlings” might seem to impress you, as if these children were found in the streets, exposed to death unless saved by chance. Rest assured that I would feel no more horror than you at the thought of an unworthy father who could resort to such barbarity—such an act is too far removed from my [heart](/positions/fideism) for me to even consider justifying it. There are established rules[505]; learn what they are, and you will see that children leave the hands of a midwife only to enter those of a nurse. I know that these children are not raised with delicacy—but so much the better for them; it makes them stronger. They are not given anything superfluous, but what is necessary. They are not turned into gentlemen, but into farmers or workers. In this way of raising them, I would choose for my own children. If I were their master, I would not weaken them through indulgence, exposing them to the illnesses that come from fatigue and harsh weather—conditions to which those unaccustomed to them would be vulnerable. They would not know how to dance or ride a horse; but they would have strong, resilient legs. I would not make them writers or office workers; I would not train them in the use of a pen, but rather in tools like the plow, file, or hammer—tools that enable a healthy, hardworking, and innocent life, a life in which one never abuses power for evil purposes and which brings no enemies through good deeds. Such is their destiny. With this simple, rustic education, they will be happier than their father. I am deprived of the pleasure of seeing them; I have never known the sweetness of a paternal embrace. Alas! As I have said before, all I see here is cause for regret—I am freeing them from misery at my own cost. This was how Plato desired that all children be raised in his ideal republic: each child unknown to their father, and all considered the children of the state. But such an education is vile and base! That is the real crime—and you, like everyone else, mistake what is merely a sign of poverty for a disgraceful vice.
+
+Letter XLIX – To Mr. Abbé Raynal
+
+Regarding a new musical mode invented by Mr. BlAlNVlLle[506].
+
+Paris, May 30, 1751, shortly after the concert[507].
+
+You certainly have every right to be pleased, sir, you who are such a champion and friend of the arts, at Mr. Blainville’s attempt to introduce a new approach into our music. As my personal feelings on this matter are irrelevant to the topic at hand, I will immediately move on to the judgment you have asked me to render regarding the discovery itself.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Voi lo volete, signore. Non resisto più; è necessario creare per voi un “portafoglio letterario” che non era destinato a vedere la luce e che ne è molto indegno. Le lamentele del pubblico riguardo a questa pioggia continua di scritti di scarsa qualità mi hanno insegnato chiaramente che tali opere non interessano affatto il lettore comune; inoltre, la reputazione di autore mediocre, l’unica che avrei potuto aspirare ad avere, non ha certo lusingato la mia ambizione. Non essendo riuscito a superare la mia passione per la letteratura, ho quasi sempre scritto soltanto per me stesso. E il pubblico, né i miei amici, avranno certo motivo di lamentarsi che io sia stato un “recitatore acerbo” per loro. Del resto, si è sempre indulgenti con se stessi. E degli scritti destinati all’oscurità, anche l’autore più talentuoso mancherà sempre di quel fuoco che deriva dall’emulazione e di quella cura nella forma che solo il desiderio di piacere può spingere a mettere in atto.
+
+Una cosa singolare è che, avendo un tempo pubblicato un solo libro[503], in cui certamente non si parla di poesia, oggi mi si consideri poeta contro la mia volontà. Ogni giorno qualcuno viene a complimentarmi per commedie e altre opere in versi che non ho mai scritto e che non sono nemmeno in grado di scrivere. È l’identicità del nome dell’autore con il mio ad attirarmi questo onore. Ne sarei certamente lusingato, se si potesse essere lusingati dagli elogi rubati ad altri; ma lodare una persona per cose che sono al di sopra delle sue forze significa farla riflettere sulla propria debolezza.
+
+Devo ammettere di aver provato a scrivere in stile lirico; un’opera che fu lodata dagli appassionati ma criticata dagli artisti, la cui combinazione di due forme artistiche particolarmente difficili portò questi ultimi ad escluderla con tanto fervore, come se davvero fosse stata eccellente.
+
+[Edizione Arv.]
+
+Mi ero immaginato, da vero svizzero, che per avere successo bastasse semplicemente fare bene le cose; ma avendo visto, attraverso l’esperienza altrui, che fare bene rappresenta il primo e più grande ostacolo da superare in questa carriera, e avendone personalmente sperimentato la difficoltà – poiché mi mancano altri talenti che non posso né voglio possedere – ho deciso di tornare nell’oscurità che si addice sia ai miei talenti che al mio carattere. E dove dovreste lasciarmi, per l’onore del vostro giornale. Sono, ecc.
+
+1751
+
+Lettera XLVII – A Monsieur Petit
+
+Lettera XLVIII – Alla Signora de Francueil
+
+Lettera XLIX – A Monsignor l’Abate Raynal
+
+Lettera L – Alla signora de Créqui
+
+Lettera LI – Alla stessa persona
+
+Lettera LII – Alla stessa persona
+
+Tabella della corrispondenza
+
+Lettera XLVIII – Alla Signora de Francueil
+
+[504]
+
+Parigi, 20 aprile 1751.
+
+Sì, signora, ho affidato i miei figli all’Orfanotrofio; ho incaricato l’istituto apposito di prendersi cura di loro. Se la mia povertà e le mie difficoltà mi impediscono di assolvere a un dovere così prezioso, questo è un dolore di cui devo lamentarmi, ma non un crimine che possa essere rimproverato a me. Ho il dovere di provvedere al loro sostentamento; l’ho fatto in modo che fosse migliore o, almeno, più sicuro di quanto avrei potuto farlo personalmente: questa è la considerazione principale. In secondo luogo, c’è la questione della loro madre, che non deve essere umiliata.
+
+Conoscete la mia situazione: guadagno a malapena da vivere ogni giorno; come potrei quindi mantenere una famiglia? E se fossi costretto a intraprendere la carriera di scrittore, come potrebbero le preoccupazioni domestiche e i problemi legati ai bambini lasciarmi, nel mio angusto rifugio, la tranquillità mentale necessaria per svolgere un lavoro redditizio? Gli scritti che nascono dalla fame non portano a grandi guadagni, e questa risorsa si esaurisce rapidamente. Sarebbe quindi necessario ricorrere a mezzi disonesti, ad intrighi, a manovre sleali; cercare qualche lavoro umiliante e cercare di farlo valere con qualsiasi mezzo. Altrimenti non riuscirei nemmeno a sfamarmi, e quel lavoro mi verrebbe presto tolto. In definitiva, dovrei abbandonarmi a ogni sorta di infamie, per le quali provo un orrore profondo. Nutrirmi, i miei figli e loro madre con il sangue dei poveri! No, signora. È meglio che siano orfani, piuttosto che avere per padre un furfante.
+
+Sopraffatto da una malattia dolorosa e mortale, non posso più sperare in una lunga vita; se solo potessi prendermi cura di questi sfortunati, destinati un giorno a soffrire, loro pagherebbero a caro prezzo il vantaggio di essere stati trattati con maggiore delicatezza di quanto possano esserlo attualmente. La loro madre, vittima della mia indiscrezione, costretta a sopportare la propria vergogna e le proprie necessità, quasi altrettanto malata di me e ancora meno in grado di nutrirli, sarà costretta ad abbandonarli a se stessi; per loro non vedo altra alternativa se non quella di diventare mendicanti o banditi, il che alla fine è la stessa cosa. Se solo la loro condizione fosse legittima, potrebbero trovare più facilmente modi per sopravvivere. Portando con sé sia l’infamia della propria nascita che quella della propria povertà, che destino li aspetta?
+
+“Perché non mi sono sposato?”, vi chiederete. Chiedetelo alle vostre ingiuste leggi, signora. Non era opportuno per me assumere un impegno eterno; e nessuno potrà mai dimostrarmi che qualche dovere mi obblighi a farlo. Quello che è certo è che non l’ho fatto, e non intendo farlo. Non si devono avere figli quando non si ha il modo di nutrirli. Perdonatemi, signora; la natura vuole che si abbiano figli, poiché la terra produce abbastanza cibo per tutti. Ma è lo stato dei ricchi, è il vostro stato, a rubarmi il pane dei miei bambini.
+
+La natura vuole anche che si provveda al loro sostentamento: è ciò che ho fatto; se non esistesse per loro un rifugio, compierei il mio dovere e mi rassegnerei a morire di fame piuttosto che non nutrirli.
+
+Questo termine “Bambini Trovati” vi imponerebbe forse l’idea che questi bambini vengano trovati per strada, esposti al pericolo di morire se non fossero salvati dal caso? Siate certe che non proverei più orrore di voi per quel padre indegno che potrebbe decidersi a compiere una tale barbarie: essa è troppo lontana dal mio [cuore](/positions/fideism) perché io mi degni nemmeno di giustificarla. Esistono regole stabilite[505]; informatevi su quali siano, e scoprirete che i bambini lasciano le mani della levatrice soltanto per passare in quelle di una nutrice. So che questi bambini non vengono allevati con particolare cura: meglio così, diventeranno più robusti; non ricevono nulla di superfluo, ma hanno ciò che è necessario; non vengono fatti diventare signori, ma contadini o operai. Non vedo nulla in questo modo di educarli che non sceglierei anch’io per i miei figli. Se ne fossi il padrone, non li preparerei con la mollezza alle malattie causate dalla fatica e dalle intemperie dell’aria; non saprebbero né ballare né montare a cavallo, ma avrebbero gambe forti e resistenti. Non li farei né autori né impiegati; non li eserciterei nell’uso della penna, ma della zappa, della lima o del martello, strumenti che permettono di condurre una vita sana, laboriosa, innocente, nella quale non si abusa mai per fare del male e che non attira nemici quando si fa del bene. È a questo che sono destinati; con l’educazione rustica che ricevono, saranno più felici di loro padre. Sono privato del piacere di vederli, e non ho mai assaporato la dolcezza degli abbracci paterni. Ahimè! Ve l’ho già detto: vedo solo motivi per lamentarmi, e li libero dalla povertà a mie spese. Così voleva Platone che tutti i bambini fossero educati nella sua repubblica: che ciascuno rimanesse sconosciuto al proprio padre, e che tutti fossero considerati figli dello stato. Ma questa educazione è vile e bassa! Questo è il vero crimine; vi imponete questa idea come agli altri. E non vedete che, seguendo sempre i pregiudizi del mondo, considerate disonorevole il vizio soltanto perché si lega alla povertà.
+
+Lettera XLIX – A Monsignor l’Abate Raynal
+
+Sul tema di un nuovo tipo di musica inventato dal signor BlAlNVlLle[506].
+
+Parigi, 30 maggio 1751, alla fine del concerto[507].
+
+Voi siete davvero fortunato, signore: voi, che siete un elogiatore e un amico delle arti, apprezzate il tentativo del signor Blainville di introdurre un nuovo stile nella nostra musica. Per quanto mi riguarda, poiché la mia opinione in merito non ha alcuna rilevanza pratica, passo immediatamente al giudizio che mi chiedete riguardo alla scoperta stessa.
 
 <span class="atom-split" data-atom="019" data-title="(apertura) (parte 19)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
@@ -913,6 +2579,142 @@ Lettre LIX – À la même
 Lettre LX – À la même
 
 Lettre LXI – À la même
+
+<span class="qlang-split" data-lang="en"></span>
+
+As much as I was able to grasp Mr. Blainville’s ideas during the rapid execution of the piece we just heard, I find that the mode he proposes to us consists of only two main chords, rather than the three chords present in each of the two [modes](/concepts/mode) commonly used. One of these two chords is the tonic, and the other is the fourth above it; this fourth chord could be called, if one so wishes, the dominant. The author seems to have had very good reasons for preferring the fourth chord over the fifth in this context; and the primary reason among all of them, when examining his scale progression, is the risk of falling into incorrect harmonic relationships.
+
+This scale is arranged in the following manner: it begins by ascending a major semitone from the tonic to the second note, then another whole tone to the third; continuing with another whole tone, it reaches the dominant, on which it establishes the rest, or, if I may express it this way, the hemistich of the mode. Then, starting again one tone above the dominant, it ascends another major semitone, a whole tone, and yet another whole tone; thus, the entire octave is traversed in the order of these notes: mi, fa, sol, la, si, ut, ré, mi. It descends in the same manner without any alterations. If you proceed diatonically, whether ascending or descending from the dominant of a minor mode to the octave of that same dominant, without using any accidental sharps or flats, you will obtain precisely Mr. Blainville’s scale. This demonstrates, first, that his diatonic progression is directly opposite to our own, where we must ascend a whole tone and descend a half-tone starting from the tonic; and second, that it was necessary to replace the harmonic structure commonly used in our modes with one different from it.
+
+3° To find, for this new range of tones, different accompaniments from those used in the conventional octave system; and consequently, other progressions based on the fundamental tone than those that are currently accepted.
+
+The range of this mode is precisely similar to the diagram used by the Greeks; for if one begins by ascending from the hypate chord or by descending from a note, and then traverses diatonically two separate tetrachords, one will obtain exactly the new mode—in fact, our old plagal mode, which still survives in plainchant. This is essentially a minor mode whose range would not be determined by taking a tonic to its octave via the dominant, but rather by taking a dominant to its octave via the tonic; indeed, the major third that the author is obliged to include in its final note, when combined with the manner in which it descends by half-shaves, gives this tonic all the characteristics of a dominant. Thus, if one were able to dispute Mr. Blainville’s claim to have made this invention, one could at least not deny him the merit of having dared to challenge, in some way, the high opinion our century holds of itself—and its contempt for all other eras in matters of science and taste.
+
+But what undoubtedly belongs to Mr. Blainville is the harmony that he has managed to achieve in a musical mode that was established in an era when we have every reason to believe that the concept of harmony, as we understand it today, was not yet known. No one will dispute either the scientific knowledge that enabled him to devise new fundamental musical progressions or the artistic skill with which he succeeded in implementing them, thus taking into account the fact that our ears are far more sensitive to new and pleasing sounds than to unpleasant ones.
+
+Once we can no longer accuse him of not having found what he offers us, we will accuse him of having found it indeed. We will acknowledge that his discovery is good, if he is willing to admit that it does not belong to him; but if he proves that it does belong to him, we will claim that it is bad—and he will not be the first artist against whom such arguments have been made. People will ask him on what basis he claims to override established laws and introduce others of his own authority.
+
+He will be accused of attempting to restore arbitrariness to the rules of a science for which so much effort has been made to reduce them to principles; of violating, in his advances, that harmonious connection which is the most universal law and the surest test of any true harmony.
+
+One will ask him what it is that he claims to use in place of the sensible harmony, whose mode is in no way capable of conveying such changes in tone. Lastly, people will also want to know why, in the essay he presented to the public, he mixed his own mode so closely with the other two modes that only a very small number of knowledgeable and attentive listeners were able to distinguish what truly belonged to his new system.
+
+I believe I can roughly anticipate his responses. He will easily find analogies on his side that are at least as sound as those we are content to accept. In his view, the minor mode cannot have any better foundations than his own. He will argue that the ear is our primary teacher of harmony, and that as long as the ear is satisfied, reason should merely seek to understand why it is satisfied, rather than attempting to prove that it is wrong in its satisfaction; it should neither try to introduce arbitrariness where none exists, nor conceal the arbitrariness that does exist. Yet this arbitrariness is so constant that, even within the rules of the octave, there are instances that violate those rules. This observation may not be originally attributed to Mr. Blainville, but I take it upon myself to make it.
+
+He will also claim that this harmonious connection that is pointed out to him is nothing short of indispensable for achieving harmony, and he will not hesitate to prove it.
+
+He will apologize for having mixed up these three modes, since we are constantly in the same situation with our two modes ourselves; not to mention that, through this clever mixture, he will have had the pleasure, as Montaigne would say, of making our modes “give our nose a slap” to his own. But no matter what he does, he will always be in the wrong for two irrefutable reasons: first, because he is an inventor; second, because he is dealing with musicians.
+
+I am, etc.
+
+Letter LI – To the Same One
+
+This Tuesday, October 16, 1751[509].
+
+Madam, I thank you for the injustices you inflict upon me; at least they demonstrate a concern that honors me and which I am aware of. I have a friend who is seriously ill, and it is my duty to care for him. With such an excuse, I would not consider myself guilty of breaking my promise, no matter how scrupulous I am in this regard. However, madam, I promised that you would read my letter about M. Gautier before the public, and I will keep that promise; I also promised to present my opera to you, and I will do so again. We did not discuss the timing of these events; and by delaying for a few days, I do not believe I am breaking any rules in that regard.
+
+If you regret the trust you have placed in me, it can only be because you believe I am not worthy of it. As for the distrust you seem to hold toward my manuscripts, I implore you to believe that I am far from capable of such behavior—and that, in fact, I treat you with much more fairness than you seem to treat me. In short, I beg you to believe that, in any way that matters, it would never be out of my own will that I were to do you wrong.
+
+With deep respect, madam, yours sincerely, etc.
+
+Letter LII – To the Same One
+
+This Monday, December 22, 1751[510].
+
+No, madam, I will not say it. What harm would that do? I shall remain, as I have always been, deeply moved and touched by your kindness towards me; my feelings have never had any influence on my bad behavior, and I wish to work hard to convince you of this.
+
+Upon careful consideration, Mr. Bordes’ speech will remain unanswered; in my opinion, it falls far short of the first one, for it is far better to be a skilled orator at the college level than to be a poor logician. Perhaps I will have the opportunity to elaborate on my ideas further without having to respond directly.
+
+Here is, madam, the book you have requested. I am not sure whether it will be easy to obtain another copy; but you would be greatly kind if you would wait until I had found one for you before returning this one to me.
+
+Goodbye, madam; I no longer dare speak to you about my resolutions. But you are making the burden of my sins against you too heavy for me to bear any longer.
+
+1752
+
+Letter LIII – To Madame de Créqui
+
+Letter LIV – To the Same One
+
+Letter LV – To the Same One
+
+Letter LVI – To the Same One
+
+Letter LVII – To the Same One
+
+Letter LVIII – To the Same One
+
+Letter LIX – To the Same One
+
+Letter LX – To the Same One
+
+Letter LXI – To the Same One
+
+<span class="qlang-split" data-lang="it"></span>
+
+Per quanto abbia potuto comprendere le idee di Monsieur Blainville durante l’esecuzione rapida della melodia che abbiamo appena ascoltato, ritengo che il sistema musicale da lui proposto preveda soltanto due corde principali, invece delle tre presenti in entrambi i [sistemi](/concepts/mode) musicali comunemente utilizzati. Una di queste due corde è la tonica, l’altra è la quarta sopra di essa; questa quarta potrebbe essere chiamata, se si vuole, dominante. L’autore sembra aver avuto motivi molto validi per preferire qui la quarta alla quinta; e il motivo principale tra tutti questi motivi è rappresentato dal rischio di incorrere in errori nella determinazione delle relazioni musicali corrette.
+
+Questa scala è disposta nel seguente modo: inizia con un semitono maggiore dalla tonica alla seconda nota, poi con un tono alla terza; proseguendo con un altro tono, raggiunge la dominante, sulla quale si stabilisce il riposo, o, per usare un’espressione appropriata, l’emischema del modo. Successivamente, riprendendo la sua ascesa con un tono sopra la dominante, sale ancora con un semitono maggiore, un tono e un altro tono; in questo modo si attraversa l’ottava seguendo l’ordine delle note mi, fa, sol, la, si, ut, ré, mi. La discesa avviene allo stesso modo, senza alcuna alterazione. Se si procede in modo diatonico, sia salendo che scendendo dalla dominante di un modo minore all’ottava di quella stessa dominante, senza utilizzare diesis né bemolli accidentali, si otterrà esattamente la scala proposta da M. Blainville: da ciò si evince che, 1°, il suo procedimento diatonico è direttamente opposto al nostro, nel quale, partendo dalla tonica, si deve salire di un tono e scendere di un semitono; 2°, che è stato necessario sostituire un’altra armonia con l’accordo sensibile comunemente utilizzato nei nostri modi, poiché quest’ultimo non rientra nella struttura della sua scala.
+
+3° Trovare, per questa nuova gamma, degli accordi diversi da quelli utilizzati nella regola dell’ottava; e di conseguenza, altre progressioni della nota fondamentale rispetto a quelle comunemente accettate.
+
+La gamma di questo modo è esattamente simile al diagramma utilizzato dai Greci; infatti, se si parte dalla corda ipata salendo o dalla nota discendente per attraversare diatonicamente due tetracordi separati, si ottiene proprio questa nuova gamma: si tratta del nostro vecchio modo plagale, ancora presente nel canto gregoriano. Si tratta propriamente di un modo minore il cui intervallo non va da una tonica all’ottava passando per la dominante, ma dalla dominante all’ottava passando per la tonica; in effetti, la terza maggiore che l’autore è costretto ad utilizzare nella sua conclusione, unita al modo in cui questa viene descritta come una discesa di mezzo tono, conferisce a questa tonica l’aspetto tipico di una dominante. Quindi, anche se si potesse contestare a M. Blainville il merito di questa invenzione, non si potrebbe certo negargli il coraggio di aver osato sfidare, almeno in questo ambito, l’alta stima che il nostro secolo ha di sé stesso e il suo disprezzo per tutte le epoche precedenti in materia di scienze e gusto.
+
+Ma ciò che sembra appartenere indubbiamente a Monsieur Blainville è l’armonia che egli ha saputo conferire a un modo musicale istituito in tempi in cui abbiamo tutte le ragioni di credere che non si conoscesse affatto l’armonia, nel senso che oggi diamo a questo termine. Nessuno gli contenderà né la scienza che gli ha permesso di ideare nuove progressioni musicali fondamentali, né l’abilità con cui è riuscito a metterle in pratica, prendendo cura delle nostre orecchie, molto più sensibili alle cose nuove che a quelle negative.
+
+Non appena non si potrà più rimproverargli di non aver trovato ciò che ci propone, gli si rimprovererà invece di averlo trovato. Si ammetterà che la sua scoperta è valida, se vuole ammettere che non è sua; se dimostra che è sua, gli si sosterrà che è cattiva. E non sarà certo il primo artista contro cui gli artisti abbiano argomentato in questo modo. Gli si chiederà su quale fondamento pretenda di sovvertire le leggi stabilite e di introdurne altre per proprio autorità.
+
+Gli si rimprovererà di voler ridurre all’arbitrio le regole di una scienza per cui si sono fatti tanti sforzi per renderle sistematizzate in principi; di violare, nei suoi sviluppi, quel legame armonioso che rappresenta la legge più generale e la prova più sicura di ogni vera armonia.
+
+Gli si chiederà cosa intenda sostituire all’accordo sensibile, il cui modo di espressione non è affatto adatto a comunicare i cambiamenti di tono. Inoltre, si vorrà sapere perché, nell’essaggio che ha presentato al pubblico, abbia mescolato così tanto il proprio modo di espressione con gli altri due sistemi musicali, da rendere possibile per pochissimi esperti, dotati di un orecchio allenato e attento, distinguere ciò che appartiene specificamente al suo nuovo sistema musicale.
+
+Credo di poter prevedere più o meno le sue risposte. Troverà facilmente, a suo favore, analogie almeno altrettanto valide di quelle con cui noi ci accontentiamo. Secondo lui, il modo minore non possiede fondamenti migliori del proprio. Ci sosterrà che l’orecchio sia il nostro primo maestro di armonia, e che, purché quest’ultimo sia soddisfatto, la ragione debba limitarsi a cercare il motivo per cui lo è, e non a dimostrargli che si sbaglia ad esserlo; che non debba né introdurre nelle cose l’arbitrio che in esse non esiste, né nascondere quello che vi trova. Ora, questo arbitrio è così costante che, anche nella regola dell’ottava, esistono errori rispetto a tali regole; osservazione che, forse, non appartiene a Monsieur Blainville, ma che assumo io stesso sulla mia responsabilità.
+
+Dirà ancora che questa connessione armoniosa che gli viene contestata è in realtà indispensabile nell’armonia stessa, e non avrà alcuna difficoltà a provarlo.
+
+Si scuserebbe di aver mescolato i tre modi musicali, sostenendo che noi siamo costantemente nella stessa situazione con i nostri due soli modi; inoltre, grazie a questo abile miscuglio, avrebbe avuto il piacere, direbbe Montaigne, di far “fare delle smorfie” ai nostri modi sul naso dei suoi. Ma, qualunque cosa faccia, dovrà comunque avere torto, per due ragioni inconfutabili: la prima è che lui stesso è l’inventore di questi modi; la seconda è che ha a che fare con dei musicisti.
+
+Io sono, ecc.
+
+Lettera LI – Alla stessa persona
+
+Questo martedì, 16 ottobre 1751[509].
+
+Vi ringrazio, signora, per le ingiustizie che mi fate; esse dimostrano almeno un interesse che mi onora e di cui sono consapevole. Ho un amico gravemente malato, e tutti i miei sforzi sono dovuti a lui: con una scusa del genere, non mi considererei colpevole di aver mancato alla mia parola, per quanto scrupoloso possa essere in questo senso. Tuttavia, signora, ho promesso che avreste visto, davanti al pubblico, la mia lettera su M. Gautier, e così farò; ho anche promesso di portarvi il mio opera, e lo farò ancora: non abbiamo parlato del termine stabilito; e ritengo di non essere in ritardo, anche se ho rinviato di alcuni giorni.
+
+Se vi pentite della fiducia che mi avete concesso, ciò non può significare altro se non che non mi avete ritenuto degno di essa. Per quanto riguarda la diffidenza che nutrite nei confronti dei miei manoscritti, vi supplico di credere che io sia molto lontano dal commettere simili errori, e che anzi vi renda molto più giustizia di quanto voi sembriate rendermela. In breve, vi supplico di credere che, in qualsiasi modo possa accadere, non sarà mai per mia volontà che commetterò degli sbagli nei vostri confronti.
+
+Con profondo rispetto, signora.
+
+Lettera LII – Alla stessa persona
+
+Questo lunedì, 22 dicembre 1751[510].
+
+No, signora, non lo dirò. Che male potrebbe derivarne? Sarò, come sempre, commosso e profondamente toccato dalla vostra bontà verso di me; i miei sentimenti non hanno mai avuto nulla a che fare con le mie cattive azioni, e voglio lavorare per convincervene.
+
+Il discorso di Monsieur Bordes, preso nel suo insieme, rimarrà senza risposta: personalmente lo ritengo molto inferiore al primo, perché è ancora meglio essere un buon oratore scolastico che un cattivo logico. Forse avrò l’occasione di sviluppare ulteriormente le mie idee senza rispondere direttamente.
+
+Ecco, signora, il libro che desiderate. Non so se sarà facile trovarne un esemplare; ma mi fareste un grande favore se non me lo restituisceste fino a quando ne avrò trovato un altro.
+
+Addio, signora; non oso più parlare con voi delle mie risoluzioni. Ma il peso dei miei errori nei vostri confronti è così insopportabile che sento chiaramente di non poterli più sopportare.
+
+1752
+
+Lettera LIII – Alla signora de Créqui
+
+Lettera LIV – Alla stessa persona
+
+Lettera LV – Alla stessa persona
+
+Lettera LVI – Alla stessa persona
+
+Lettera LVII – Alla stessa persona
+
+Lettera LVIII – Alla stessa persona
+
+Lettera LIX – Alla stessa persona
+
+Lettera LX – Alla stessa persona
+
+Lettera LXI – Alla stessa persona
 
 <span class="atom-split" data-atom="020" data-title="(apertura) (parte 20)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
@@ -1008,6 +2810,194 @@ Puisque vous jugez à propos, monsieur, de faire cause commune avec l'auteur de 
 
 Vous avez raison de dire que le faux ermite a pris le masque : il l'a pris en effet de plus d'une manière ; mais j'ai peine à concevoir comment cet artifice l'a mis en droit de me parler avec plus de franchise : car je vous avoue que cela lui donne à mes yeux beaucoup moins l'air d'un homme franc que celui d'un fourbe et d'un lâche, qui cherche à se mettre à couvert pour faire du mal impunément. Mais il s'est trompé : le mépris public a suffi pour ma vengeance, et je n'ai perdu à tout cela qu'un sentiment fort doux, qui est l'estime que je croyais devoir à un honnête homme.
 
+<span class="qlang-split" data-lang="en"></span>
+
+Letter LXII – To the Same One
+
+Letter LXIII – To the Same One
+
+Correspondence Table
+
+Letter LIV – To the Same One
+
+This Sunday morning, 1752.
+
+Madam, after in vain attempting to translate it, I feel that it is utterly impossible for me; all I can do to comply with your request is to try to give you some idea of the text in question by writing it down in a way that I imagine Horace would have done if he had intended to present it in French prose—except for the inferiority of my talent and the limitations of imitation. If you show this attempt at translation to Monsieur l’Ambassadeur[512], he will quite rightly laugh at it, and I would feel just as pleased; but I cannot say that I could do any better if I were to try again in my own way.
+
+Letter LVI – To the Same One
+
+This Sunday morning, 1752.
+
+No, madam, I have not used any deception towards you; as for lying, I try my best not to lie to anyone at all. The dinner I mentioned to you was canceled more than eight days ago; and if I had tried to avoid accepting your invitation on Monday, there would be no reason why I should have accepted it on Thursday or Friday. I will have the honor of dining with you on whatever day you designate, and then we can discuss our grievances; for I have mine as well. I find in your letters a tone of flattery far more offensive than the formalities you reproach me for using, and perhaps I am all too willing to correct such behavior.
+
+You must not be serious when you mention coming to my humble abode; it’s not that I doubt your philosophical insight enough to think you would do me such an honor, but rather because, lacking the means to receive you without some embarrassment, I cannot imagine you would have such malice as to seek to take advantage of it. Moreover, I must warn you that at the time you mention, you might still find my guests there; they would undoubtedly suspect some kind of understanding between you and me, and if they pressed me to tell them the truth, I would never have the strength to hide it from them. It was necessary to inform you of this in order for you to be at ease regarding the matter. So then, until Friday, madam, for I look forward to this possibility with pleasure.
+
+Letter LVIII – To the Same One
+
+This Wednesday morning, the 23rd of, 1752.
+
+I count the days, madam, and I am fully aware of my faults. I wish you could feel them too; I wish to make you forget them. It is truly difficult when one is guilty and wants to stop being it. Therefore, do not congratulate me on my fortune, for I have never been so miserable as since I became rich[514].
+
+Letter LX – To the Same One
+
+This Friday, 1752.
+
+It is true, madam, that I presented myself at your door yesterday. However, the inconvenience of finding you in the company of others, or even worse, the fact that you were not at home, leads me to venture and ask for your permission to visit you this morning instead of in the afternoon, which would be far too risky for me due to the possibility of other visitors arriving.
+
+It is also true that I am free[515]; this is a happiness that I wanted to experience before dying. As for wealth, it would not have been necessary to engage in philosophy at all in order to learn how to live without it. I will earn my living and be a man; there is no greater wealth than that.
+
+Madam, I shall not be able to avail myself of the honor you offer me tomorrow; and to prove to you that it is not Mr. Saurin who prevents me from doing so, I am ready to accept a dinner with him on any other day you may choose to designate.
+
+I am honored to be, with deep respect, Madame, your.
+
+Letter LXII – To the Same One
+
+On this Wednesday morning, the 23rd, 1752[517].
+
+Madam, you are forcing me to refuse you for the first time in my life. I have thought it over carefully, and I have always felt that gratitude and friendship cannot coexist in my heart. Therefore, allow me to keep my heart whole for a feeling that can bring true happiness to my life—a feeling for which neither your wealth nor anyone else’s could ever compensate me.
+
+I went to Passy yesterday and did not return until evening; that is why I was unable to visit you. Tomorrow, madam, I will dine at your home, and I will be even more pleased to do so since you are willing to forego the company of a third person.
+
+Letter LXIII – To the Same One
+
+On this Tuesday morning, 1752.
+
+My task is not yet completed, madam; the time that presses upon me and the work that keeps me occupied will prevent me from showing it to you before next week. Since you go out in the morning, we can choose any afternoon of your choosing, so long as it is not tomorrow or one of the Italian opera days[518]. As the reading will be quite lengthy, if we are to proceed without interruption, I would ask you to kindly close your door. I owe you so much, madam, that I dare not even try to justify myself, even when I am in the right; yet I know well that, without my work, it would have taken me far less time to come and see you this time.
+
+1753
+
+Letter LXIV – To Mr. de Francueil
+
+Letter LXV – To Baroness de Warens
+
+Letter LXVI – To Madame la Marquise de Pompadour
+
+Letter LXVII – To Mr. Fréron
+
+Letter LXVIII – To Mr. Abbé Raynal
+
+Correspondence Table
+
+Letter LXV – To Baroness de Warens
+
+Paris, February 13, 1753.
+
+My dear mother, I enclose with this letter a sum of 240 livres. My heart also grieves at the smallness of this amount and at the necessity you have for it; please try to meet your most urgent needs. It is easier for you where you are than here, where everything—especially bread—is terribly expensive. I do not wish to go into detail about the matters you mention to me, for now is not the time to remind you of my constant attitude toward your endeavors. I will only say that, amidst all your misfortunes, your reason and virtue are assets that cannot be taken away from you, and whose greatest value lies precisely in times of adversity.
+
+Your son is advancing rapidly toward his final resting place: the disease has made such great progress this winter that I no longer expect it to change. Therefore, I will go on my way with the only regret of leaving you in sorrow.
+
+On will give the first performance of “Le Devin” at the Paris Opera on March 1st; I am taking extreme care of myself until then in order to have the pleasure of watching it. It will also be performed on Shrove Tuesday at the Château de Bellevue, in presence of the King; and Madame la Marquise de Pompadour will play a role in it. Since all these performances will be given by noblemen and ladies of the court, I expect my performance to be poor and distorted; therefore, I will not attend. Moreover, having refused to be presented to the King, I do not wish to do anything that might seem like seeking another opportunity to do so. Despite all this glory, I continue to live off my job as a copyist, which allows me independence—and would make me happy if my happiness could be achieved without yours and without your health.
+
+I have some new books to send to you, and I will use either Mr. Leonard’s method or that of Abbe Giloz to do so, since I cannot find any more direct ways.
+
+Goodbye, my dear mother; always love a son who would wish to live for you more than for himself.
+
+Letter LXVII – To Mr. Fréron
+
+[522]
+
+[523]
+
+Paris, July 21, 1753.
+
+Since you, sir, have deemed it appropriate to align yourself with the author of that letter from an hermit to J.-J. Rousseau, you will undoubtedly find it quite fitting that this reply be shared by both of you. As for him, if such an alliance offends him, he must blame only himself; his dishonest behavior has indeed deserved such humiliation.
+
+You are right in saying that the false hermit put on a mask; indeed, he did so in more than one way. But I find it hard to understand how such a ruse could give him the right to speak to me with such frankness. To be honest, in my eyes, this only makes him seem less like an honest man and more like a cunning and cowardly individual who seeks to hide his true nature in order to inflict harm unpunished. But he was mistaken: public contempt was enough for my vengeance. And all I lost in the end was a very tender feeling—the respect that I believed I owed to an honest person.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lettera LXII – Alla stessa persona
+
+Lettera LXIII – Alla stessa persona
+
+Tabella della corrispondenza
+
+Lettera LIV – Alla stessa persona
+
+Questo mattino di domenica, nel 1752.
+
+Signora, dopo inutili tentativi, sento che tradurre è impossibile per me; tutto ciò che posso fare per obbedirvi è cercare di darvi un’idea del testo in questione, scrivendolo più o meno come immagino che Orazio avrebbe fatto se avesse voluto trasformarlo in prosa francese, a parte la differenza rappresentata dalla inferiorità del mio talento e dalla schiavitù dell’imitazione. Se mostrerete questo tentativo fallito all’ambasciatore[512], lui ne riderà giustamente, e anch’io lo farei con tutto il cuore; ma non so dire di meglio seguendo le indicazioni di un altro, né molto meglio facendolo da solo.
+
+Lettera LVI – Alla stessa persona
+
+Questo mattino di domenica, nel 1752.
+
+No, signora, non ho mai usato mezzi disonesti con voi; quanto al mentire, cerco di evitarlo con tutti. Il pranzo di cui vi ho parlato è stato annullato da più di otto giorni; e se avessi cercato di eludere il vostro invito per lunedì, non ci sarebbe alcuna ragione perché lo accettassi giovedì o venerdì. Avrò l’onore di pranzare con voi nel giorno che mi indicherete, e là discuteremo dei nostri dissidi; poiché anch’io ne ho i miei, e trovo nelle vostre lettere un tono di lodi molto peggiore di quello formale che mi rimproverate, e del quale forse ho fin troppa facilità nel correggermi.
+
+Non è certo seriamente che parliate di venire nel mio “galetto”; non è che non creda che abbiate abbastanza filosofia per farmi questo onore, ma perché, non avendone io stessa abbastanza per ricevervi senza qualche imbarazzo, non penso che abbiate la malizia di volervene approfittare. Inoltre, devo avvertirvi che all’ora che menzionate potreste ancora trovare i miei ospiti; non mancherebbero di sospettare qualche intesa tra voi e me; e se mi pressassero per conoscere la verità su questo punto, non avrei mai il coraggio di nascondergliela. Era necessario avvertirvi a questo proposito per essere tranquilli riguardo all’eventualità. Quindi, a venerdì, signora, poiché considero questa possibilità con piacere.
+
+Lettera LVIII – Alla stessa persona
+
+Questo mercoledì mattina, 23, 1752.
+
+Conto i giorni, signora, e mi rendo conto dei miei errori. Vorrei che anche voi li sentiste; vorrei farvi dimenticarli. È molto difficile quando si è colpevoli e si vuole smettere di esserlo. Quindi non ringraziatemi per la mia fortuna, perché mai sono stato così miserabile come da quando sono diventato ricco[514].
+
+Lettera LX – Alla stessa persona
+
+Questo venerdì, 1752.
+
+È vero, signora, che ieri mi sono presentato alla vostra porta. Tuttavia, il fatto di trovarvi in compagnia, o, peggio ancora, di non trovarvi a casa, mi spinge a chiedervi il permesso di presentarmi questa mattina, invece che nel pomeriggio, che per me rappresenta un momento particolarmente rischioso a causa delle visite che potrebbero verificarsi.
+
+È vero anche che sono libero[515]: è una felicità che ho voluto assaporare prima di morire. Per quanto riguarda la fortuna, non sarebbe stato necessario filosofare per imparare a farne a meno. Guadagnerò da vivere e sarò un uomo: non esiste alcuna fortuna al di sopra di questo.
+
+Signora, non potrò godere dell’onore che mi fate domani; e per dimostrarvi che non è il signor Saurin a impedirmelo, sono disposto ad accettare un pranzo con lui in qualsiasi altro giorno voi decidiate di indicarmi.
+
+Ho l’onore di essere, con profondo rispetto, signora, vostro.
+
+Lettera LXII – Alla stessa persona
+
+Questo mercoledì mattina, 23, 1752[517].
+
+Mi costringete, signora, a rifiutarvi per la prima volta in vita mia. Ho riflettuto attentamente e ho sempre sentito che nella mia anima riconoscenza e amicizia non possono coesistere. Permettetemi quindi di conservare il mio cuore intero per un sentimento che può rendere felice la mia vita, e dal quale né i vostri beni né quelli di alcun altro potrebbero mai compensarmi.
+
+Ieri sono andato a Passy e non sono tornato che la sera; per questo non sono riuscito a venire da voi. Domani, signora, pranzerò da voi, con tanto più piacere se volete concedermi l’onore di essere il terzo ospite.
+
+Lettera LXIII – Alla stessa persona
+
+Quel martedì mattina, 1752.
+
+Il mio compito non è ancora terminato, signora; il tempo che mi manca e il lavoro che devo svolgere mi impediranno di mostrarvelo prima della prossima settimana. Poiché uscite al mattino, sceglieremo l’pomeriggio che più vi conviene, purché non sia il giorno dopo domani né un giorno in cui si tiene l’opera italiana[518]. Poiché la lettura sarà piuttosto lunga, se vogliamo farla senza interruzioni, dovrete avere la gentilezza di chiudere la porta. Ho così tanti torti nei vostri confronti, signora, che non oso nemmeno giustificarmi, anche quando ho ragione; tuttavia so bene che, senza il mio lavoro, non avrei impiegato tutto questo tempo per venire a trovarvi.
+
+1753
+
+Lettera LXIV – A Monsieur de Francueil
+
+Lettera LXV – Alla signora baronessa di Warens
+
+Lettera LXVI – Alla marchesa di Pompadour
+
+Lettera LXVII – A Monsieur Fréron
+
+Lettera LXVIII – A Monsignor l’Abate Raynal
+
+Tabella della corrispondenza
+
+Lettera LXV – Alla signora baronessa di Warens
+
+Parigi, 13 febbraio 1753.
+
+Mia cara mamma, troverete allegato una lettera del valore di 240 livre. Anche il mio cuore soffre per l’entità modesta di questa somma e per la necessità urgente in cui vi trovate: cercate di soddisfare le vostre esigenze più immediate; questo sarà più facile dove siete voi che qui, dove tutte le cose, soprattutto il pane, sono terribilmente costose. Non voglio entrare nei dettagli delle questioni di cui mi parlate, perché non è il momento di ricordarvi quale sia sempre stato il mio atteggiamento riguardo alle vostre iniziative. Vi dirò soltanto che, nonostante tutte le vostre sfortune, la vostra ragione e la vostra virtù sono beni che nessuno può togliervi, e i cui veri valori si manifestano proprio nelle difficoltà.
+
+Vostro figlio si avvicina rapidamente alla sua ultima dimora: la malattia ha fatto grandi progressi quest’inverno, tanto che non mi aspetto più di vederlo migliorare. Andrò quindi verso la mia destinazione con l’unico rimpianto di lasciarvi nel dolore.
+
+Il 1° marzo avrà luogo la prima rappresentazione di “Le Devin” all’Opéra di Parigi: fino a quel momento mi comporterò con estrema cautela, per poter godermi lo spettacolo. Sarà anche rappresentato, il lunedì grasso, al castello di Bellevue, in presenza del re; e la marchesa de Pompadour vi interpreterà un ruolo. Poiché tutto ciò sarà eseguito da nobili della corte, mi aspetto che le mie performance siano scadenti e imprecise, quindi non andrò. Inoltre, poiché non ho voluto essere presentato al re, non desidero fare nulla che possa sembrare un tentativo di cercare nuovamente l’occasione per farlo. Nonostante tutta questa “gloria”, continuo a vivere del mio lavoro di copista: mi rende indipendente e mi darebbe felicità, se solo la mia felicità potesse essere realizzata senza la vostra e senza la vostra salute.
+
+Ho alcuni nuovi libri da inviarvi e userò per farlo il canale di Monsieur Léonard o quello dell’abate Giloz, poiché non ne trovo di più diretti.
+
+Addio, mia amatissima mamma: continuate sempre ad amare un figlio che desidera vivere più per voi che per se stesso.
+
+Lettera LXVII – A Monsieur Fréron
+
+[522]
+
+[523]
+
+Parigi, 21 luglio 1753.
+
+Poiché ritenete opportuno, signore, schierarvi al fianco dell’autore della lettera di un eremita a J.-J. Rousseau, sicuramente troverete molto giusto che anche questa risposta sia condivisa da entrambi. Quanto a lui, se una tale associazione lo offende, deve incolpare soltanto se stesso; il suo comportamento poco onesto merita davvero questa umiliazione.
+
+Avete ragione nel dire che quel falso eremita ha indossato la maschera: l’ha fatto in più modi diversi; tuttavia fatico a comprendere come questo stratagemma gli abbia dato il diritto di parlarmi con maggiore franchezza. Poiché devo ammettere che, ai miei occhi, questo comportamento non lo fa sembrare affatto una persona onesta, ma piuttosto un individuo astuto e codardo, che cerca di nascondersi per compiere del male impunemente. Ma si è sbagliato: il disprezzo pubblico è stato sufficiente per la mia vendetta. E tutto ciò che ho perso è stato un sentimento molto dolce, ovvero l’ammirazione che credevo di dover provare per una persona onesta.
+
 <span class="atom-split" data-atom="021" data-title="(apertura) (parte 21)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Je n'ai pas dessein d'entreprendre contre lui la défense du Devin du village. Il doit être permis à un ermite[524] plus qu'à tout autre de mal parler d'opéra ; et je ne m'attends pas que ce soit vous qui trouviez mauvais qu'on décide le plus hautement des choses que l'on connaît le moins.
@@ -1024,6 +3014,38 @@ Quant à moi, sans revenir sur des vérités démontrées, je me contenterai d'e
 
 Vous trouvez donc, monsieur, que la science est à l'esprit ce que la lumière est au corps. Cependant, en prenant ces mots dans votre propre sens, j'y vois cette différence, que, sans l'usage des yeux, les hommes ne pourraient se conduire ni vivre ; au lieu qu'avec le secours de la seule raison, et les plus simples observations des sens, ils peuvent aisément se passer de toute étude. La terre s'est peuplée, et le genre humain a subsisté, avant qu'il fût question d'aucune de ces belles connaissances : croyez-vous qu'il subsisterait dans une éternelle obscurité ? C'est la raison, mais non la science, qui est à l'esprit ce que la vue est au corps.
 
+<span class="qlang-split" data-lang="en"></span>
+
+I have no intention of defending the village’s “Devin” against him. It should be permitted to a hermit[524] more than to anyone else to speak ill of opera; and I do not expect it to be you who would object to someone making the most important decisions about things that we know the least about.
+
+Comparing J. J. Rousseau to a beautiful woman seems to me entirely amusing; it put me in such a good mood that, for once, I want to take the side of the ladies. First of all, I would like to ask you on what basis you conclude that for a woman to be seen walking in the park is evidence that she wants to please others, when she shows no sign of such desire at all. The beautiful woman would even have a better excuse if, in her supposed desire to please herself, it were impossible for her to see herself without being seen by others—and if the only mirror available were, for example, in a public square. In that case, it would be obvious that in order to satisfy her own curiosity, she would have to expose her face to everyone else’s gaze, and one could not accuse her of trying to please them, unless there was some evidence of coquetry or the usual flirtatious behavior of women with such intentions. Therefore, it remains for you, Mr. Hermit, and you, sir, to tell us what measures J. J. Rousseau took to win the favor of the audience, what schemes he employed, what flattery he directed at the public, whom he courted among the nobility and women, and what efforts he made to gain supporters and followers. Or else, you will have to explain how a private individual could go to see a play in the theater without being seen by the audience itself—because I, after all, couldn’t have the opera performed for me alone, with the doors closed[525]. Moreover, I think there is a fundamental difference between these two situations: one does not dress up just for oneself, and even the most beautiful woman, if she were to be left alone in a desert forever, would not think of dressing at all; whereas a music lover could be completely alone in the world and still enjoy watching an opera performance greatly. That is what I have to say to you, both you and your companion, in the name of that beautiful woman and also in my own name. After all, an hermit who talks only about women, fashion, and opera does not give a much better impression of his virtue than the methods you employ give any indication of your character—or of your intelligence, for that matter.
+
+You reproach me, sir, of a crime which I take pride in—and one that I endeavor to exacerbate day by day. It is undoubtedly not easy for you to comprehend how one can derive pleasure from their own self-esteem; but so that neither you nor this hermit might mistakenly attribute to such a sentiment those threatening qualities that you dare not even name, I declare very publicly that I hold myself in high regard—and that I have no doubt of coming to esteem myself even more highly in the future. As for the praises that some might wish to offer me, and which you already consider a crime against me, why should I refuse them? I am willing to accept your insults just as readily; and you can see quite well that there is hardly any difference in modesty between accepting one thing or the other. By reproaching me for my pride, you are forcing me to have it; for even if one were the most modest of all men, how could one not begin to believe in their own worth when receiving the same honors as Voltaire, Montesquieu, and all those illustrious figures of this century—whose works your satires praise almost as much as their own writings? Therefore, I believe I owe you thanks, rather than reproaches, for having acceded to my request. When I was convinced, along with the whole public, that your praises would bring disgrace upon a man of letters, I asked one of your friends to spare me on this point, leaving you free to hurl your insults at me as you saw fit. If you had confined yourself to that, according to your usual practice, I never would have replied to you; but by rejecting this new and petty attack on the truths I have demonstrated, one can kindly overlook your invectives—just as one might feed straw into the maw of a vicious bull.
+
+What bothers me about our little disputes is the harm they will cause to my enemies. You young scribblers, who hope to make a name for yourselves at my expense—every offense you commit against me is forgotten in advance, and I forgive it out of the recklessness of your youth; but the example of that hermit assures me of my vengeance: it will be cruel, yet I shall not even be involved in it. I leave you to the praises of Mr. Fréron.
+
+I turn back to you, sir; and since you wish it, I will try to clarify with you some ideas related to a question that has long been under discussion among the public. You complain that this issue has become tedious and over-discussed: you must believe that; for no one has worked harder than you to ensure that it remained so.
+
+As for me, without revisiting established truths, I will content myself with examining the ingenious and novel issue you have raised on this subject: namely, whether day has played a role in purifying morals. By assuming the negative, you will then say many beautiful things in favor of darkness and ignorance; you will praise the method of running with one’s eyes closed through the most unfamiliar territory, of abandoning all light in order to perceive objects—in short, much like the fox that wanted everyone to cut off their own tails. In the tone said to prevail in your writings, I suppose you must be quite pleased with having managed to mock one of the most serious issues conceivable. But you have already proven your ability to entertain in this manner; and since it is so easy to joke about anything at all, I find your humor rather amusing in this case. Generally speaking, however, if this is the only weapon you dare to wield, sometimes you use it with such skill that it manages to harm both merit and truth. But since I side with the friends of reason, allow me to remind you that in your camp, what would you do with people like these?
+
+Therefore, sir, you believe that science is to the mind what light is to the body. However, if I interpret these words in your own sense, I see this difference: without the use of eyes, humans would be unable to navigate or survive; whereas with the aid of reason alone and the simplest observations of the senses, they can easily do without any study at all. The earth was populated, and the human race survived long before any of these advanced conoscences even existed—do you think it could have continued to exist in perpetual darkness? It is reason, not science, that is to the mind what sight is to the body.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non ho intenzione di difendere contro di lui il “Veggente” del villaggio. A un eremita, più che a chiunque altro, dovrebbe essere permesso parlare male dell’opera; inoltre, non mi aspetto affatto che siate voi a ritenere sbagliato che le questioni più importanti vengano decise su quelle che conosciamo meno.
+
+Il paragone di J.-J. Rousseau con una bella donna mi sembra del tutto divertente; mi ha messo di così buon umore che, questa volta, voglio prendere le parti delle donne e vi chiedo innanzitutto con quale diritto giudicate che mostrarsi in giro sia una prova che una donna desideri piacere, se non dà alcun segno di tale desiderio. La bella donna avrebbe ancora più ragione se, nel gusto presunto di piacersi a sé stessa, le fosse impossibile vedersi senza mostrarsi, e se l’unico specchio disponibile fosse, ad esempio, in piazza pubblica: in tal caso sarebbe evidente che, per soddisfare la propria curiosità, dovrebbe pur mostrare il proprio viso agli altri, senza che si possa accusarla di aver cercato di piacere loro, a meno che un atteggiamento civettuoso o tutte le manierine delle donne presuntuose non ne dimostrassero l’intenzione. Quindi, a voi e all’eremita, signore, spetta dirci quali siano stati i metodi utilizzati da J.-J. Rousseau per conquistare la simpatia del pubblico: le cospirazioni che ha ordito, le lusinghe rivolte al pubblico, le attenzioni dedicate ai nobili e alle donne, gli sforzi fatti per ottenere sostenitori. Oppure dovete spiegarmi con quale mezzo un privato possa assistere a un’opera teatrale senza essere allo stesso tempo visto dal pubblico; infatti non posso certo, come Lulli, far eseguire l’opera solo per me, con le porte chiuse[525]. Inoltre, trovo che in questo paragone ci sia una differenza fondamentale: nessuno si veste per se stesso, e nemmeno la donna più bella, se rimasta sola in un deserto, penserebbe mai alla propria toilette; mentre un appassionato di musica potrebbe essere l’unico al mondo e non rinunciare comunque ad godersi una rappresentazione operistica. Ecco, signore, ciò che ho da rispondervi, in nome della bella donna e anche in mio nome. Del resto, un eremita che parla solo di donne, di toilette e d’opera non dà certo una buona impressione della propria virtù, così come i vostri metodi non fanno certo bene figura del vostro carattere. E nemmeno la sua lettera lascia intendere molto del suo spirito.
+
+Mi rimproverate, signore, per un crimine di cui vado fiero e che cerco ogni giorno di aggravare ulteriormente. Non deve essere facile per voi comprendere come si possa godere della propria stima. Ma affinché né voi né io commettiamo l’errore di attribuire a tale sentimento qualità così minacciose da non osarne nemmeno parlare, vi dichiaro pubblicamente che mi stimo molto e che non dispero di arrivare a stimarmi ancora di più. Per quanto riguarda gli elogi che qualcuno potrebbe volermi rivolgere, perché mai non dovrei accettarli? Accetto benissimo anche le vostre offese, e vedete bene che in entrambi i casi non c’è molta differenza in termini di modestia. Rimproverandomi il mio orgoglio, mi costringete ad averne; perché, anche se si fosse la persona più umile del mondo, come si potrebbe non lasciare che qualcuno ci creda, ricevendo gli stessi onori di Voltaire, Montesquieu e di tutti quegli uomini illustri del secolo di cui le vostre satire lodano quasi quanto i loro stessi scritti? Pertanto credo di dovervi ringraziare, e non rimproverarvi, per aver accettato la mia richiesta. Quando, convinto insieme al pubblico che i vostri elogi disonorassero un letterato, vi chiesi, attraverso uno dei vostri amici, di risparmiarmi in questo senso, lasciandovi tutta libertà nelle offese. Se vi foste limitati a farlo, secondo la vostra abitudine, non vi avrei mai risposto. Ma rifiutando quell’attacco nuovo e insignificante alle verità che ho dimostrato, si può gentilmente ignorare le vostre invettive, proprio come si dà del fieno al muso di un buon bue.
+
+Tutto ciò che mi dispiace dei nostri piccoli scontri è il danno che causeranno ai miei nemici. Giovani scapestrati, che sperate di farvi un nome solo a scapito del mio, tutte le offese che mi farete vengono dimenticate in anticipo e le perdono per la leggerezza della vostra età; ma l’esempio dell’eremita mi assicura sulla mia vendetta: sarà crudele, senza che io debba intervenire personalmente, e vi lascio alle lodi di Monsieur Fréron.
+
+Torno a voi, signore; e poiché lo desiderate, cercherò di chiarire con voi alcune idee relative a una questione che da tempo è oggetto di dibattito tra il pubblico. Vi lamentate che questa questione sia diventata noiosa e troppo discussa: dovete crederci; perché nessuno ha lavorato più di voi per far sì che ciò fosse vero.
+
+Per quanto mi riguarda, senza ripetere verità già dimostrate, mi limiterò ad esaminare il ingegnoso e nuovo problema che avete concepito su questo argomento: si tratta di invitare un’Accademia a proporre questa interessante questione: se il giorno abbia contribuito a purificare i costumi. Successivamente, assumendo una posizione negativa, direte cose molto belle a favore delle tenebre e dell’ignoranza; loderete il metodo di correre con gli occhi chiusi nel paese più sconosciuto, di rinunciare a ogni luce per osservare gli oggetti. In breve, come quel volpe che voleva che tutti si tagliassero la coda, esorterete tutti a togliersi, letteralmente, l’organo che a voi manca in senso figurato. Dal tono che mi dicono prevalga nelle vostre pubblicazioni, giudico che vi dovreste molto lodare per essere riusciti a mettere in ridicolo una delle questioni più importanti su cui si possa discutere. Ma avete già dimostrato di saper scherzare abilmente; e dopo aver divertito così piacevolmente riguardo all’“Esprit des Lois”, non è difficile fare lo stesso su qualsiasi altro argomento. In questa occasione, ho trovato il vostro scherzo abbastanza efficace. E in generale penso che, se questa fosse l’unica arma che osaste utilizzare, a volte la usiate con sufficiente abilità per danneggiare il merito e la verità. Ma permettetemi di chiamarmi amico della ragione. Del resto, cosa fareste di queste persone nel vostro partito?
+
+Quindi, signore, ritenete che la scienza sia per lo spirito ciò che la luce è per il corpo? Tuttavia, interpretando queste parole secondo il vostro significato personale, noto questa differenza: senza l’uso degli occhi, gli esseri umani non potrebbero né muoversi né vivere; mentre, con l’aiuto della sola ragione e delle osservazioni più semplici dei sensi, possono facilmente fare a meno di qualsiasi studio. La terra si è popolata e la specie umana è sopravvissuta prima ancora che venissero concepite queste belle conoscenze: credete davvero che potrebbe continuare a esistere in un’eterna oscurità? È la ragione, non la scienza, che è per lo spirito ciò che la vista è per il corpo.
+
 <span class="atom-split" data-atom="022" data-title="(apertura) (parte 22)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Une autre différence non moins importante est que, quoique la lumière soit une condition nécessaire sans laquelle les choses dont vous parlez ne se feraient pas, on ne peut dire, en aucune manière, que le jour soit la cause de ces choses-là ; au lieu que j'ai fait voir comment les sciences sont la cause des maux que je leur attribue. Quoique le feu brûle un corps combustible qu'il touche, il ne s'ensuit pas que la lumière brûle un corps combustible qu'elle éclaire : voilà pourtant la conclusion que vous tirez. Si vous aviez pris la peine de lire les écrits que vous me faites l'honneur de mépriser, et que vous devez du moins fort haïr, car ils sont d'un ennemi des méchants, vous y auriez vu une distinction perpétuelle entre les nombreuses sottises que nous honorons du nom de science, celles par exemple, dont vos recueils sont pleins, et la connaissance réelle de la vérité ; vous y auriez vu, par l'énumération des maux causés par la première, combien la culture en est dangereuse ; et par l'examen de l'esprit de l'homme, combien il est incapable de la seconde, si ce n'est dans les choses immédiatement nécessaires à sa conservation, et sur lesquelles le plus grossier paysan en sait du moins autant que le meilleur philosophe. D » sorte que, pour mettre quelque apparence de parité dans les deux questions, vous deviez supposer, non seulement un jour illusoire et trompeur, qui ne montre les choses que sous une fausse apparence, mais encore un vice dans l'organe visuel, qui altère la sensation de la lumière, des figures et des couleurs ; et alors vous eussiez trouvé qu'en effet il vaudrait encore mieux rester dans une éternelle obscurité, que de ne voir à se conduire que pour s'aller casser le nez contre des rochers, ou se vautrer dans la fange, ou mordre et déchirer tous les honnêtes gens qu'on pourrait atteindre. La comparaison du jour convient à la raison naturelle, dont la pure et bienfaisante lumière éclaire et guide les hommes : la science peut mieux se comparer à ces feux follets qui, dit-on, ne semblent éclairer les passants que pour les mener à des précipices. Pénétré d'une sincère admiration pour ces rares génies, dont les écrits immortels et les moeurs pures et honnêtes éclairent et instruisent l'univers, j'aperçois chaque jour davantage le danger qu'il y a de tolérer ce tas de grimauds, qui ne déshonorent pas moins la littérature par les louanges qu'ils lui donnent que par la manière dont ils la cultivent. Si tous les hommes étaient des Montesquieu, des Buffon, des Duclos, etc., je désirerais ardemment qu'ils cultivassent toutes les sciences, afin que le genre humain ne fut qu'une société de sages : mais vous, monsieur, qui sans doute êtes si modeste, puisque vous me reprochez tant mon orgueil, vous conviendrez volontiers, je m'assure, que si tous les hommes étaient des Frérons, leurs livres n'offriraient pas des instructions fort utiles, ni leur caractère une société fort aimable.
@@ -1039,6 +3061,40 @@ Juillet 1753.
 Je crois, monsieur, que vous verrez avec plaisir l'extrait ci-joint d'une lettre de Stockholm, que la personne à qui elle est adressée me charge de vous prier d'insérer dans le Mercure, l'objet en est de la dernière importance pour la vie des hommes ; et plus la négligence du public est excessive à cet égard, plus les citoyens éclairés doivent redoubler de zèle et d'activité pour la vaincre.
 
 Tous les chimistes de l’Europe nous avertissent depuis longtemps des mortelles qualités du cuivre, et des dangers auxquels on s'expose en faisant usage de ce pernicieux métal dans les batteries de cuisine. M. Rouelle, de l'académie des sciences, est celui qui en a démontré plus sensiblement les funestes effets, et qui s'en est plaint avec le plus de véhémence. M. Thierri, docteur en médecine, a réuni dans une savante thèse qu'il soutint en 1 749, sous la présidence de M. Falconnet, une multitude de preuves capables d'effrayer tout homme raisonnable qui fait quelque cas de sa vie et de celle de ses concitoyens. Ces physiciens ont fait voir que le vert-de-gris, ou le cuivre dissous, est un poison violent dont l'effet est toujours accompagné de symptômes affreux ; que la vapeur même de ce métal est dangereuse, puisque les ouvriers qui le travaillent sont sujets à diverses maladies mortelles ou habituelles ; que toutes les menstrues, les graisses, les sels, et l'eau même, dissolvent le cuivre, et en font du vert-de-gris ; que l'étamage le plus exact ne fait que diminuer cette dissolution ; que l'étain qu'on emploie dans cet étamage n'est pas lui-même exempt de danger, malgré l'usage indiscret qu'on a fait jusqu'à présent de ce métal, et que ce danger est plus grand ou moindre, selon les différents étains qu'on emploie, en raison de l'arsenic qui entre dans leur composition, ou du plomb qui entre dans leur alliage [526] ; que même en supposant à l'étamage une précaution suffisante, c'est une imprudence impardonnable de faire dépendre la vie et la santé des hommes d'une lame d'étain très déliée, qui s'use très promptement[527], et de l'exactitude des domestiques et des cuisiniers, qui rejettent ordinairement les vaisseaux récemment étamés, à cause du mauvais goût que donnent les matières employées à l'étamage : ils ont fait voir combien d'accidents affreux, produits par le cuivre, sont attribués tous les jours à des causes toutes différentes ; ils ont prouvé qu'une multitude de gens périssent, et qu'un plus grand nombre encore sont attaqués de mille différentes maladies, par l'usage de ce métal dans nos cuisines et dans nos fontaines, sans se douter eux-mêmes de la véritable cause de leurs maux. Cependant, quoique la manufacture d'ustensiles de fer battu et étamé, qui est établie au faubourg Saint-Antoine, offre des moyens faciles de substituer dans les cuisines une batterie moins dispendieuse, aussi commode que celle de cuivre, et parfaitement saine, au moins quant au métal principal, l’indolence ordinaire aux hommes sur les choses qui leur sont véritablement utiles, et les petites maximes que la paresse invente sur les usages établis, surtout quand ils sont mauvais, n'ont encore laissé que peu de progrès aux sages avis des chimistes, et n'ont proscrit le cuivre que de peu de cuisines. La répugnance des cuisiniers à employer d'autres vaisseaux que ceux qu'ils connaissent, est un obstacle dont on ne sent toute la force que quand on connaît la paresse et la gourmandise des maîtres. Chacun sait que la société abonde en gens qui préfèrent l'indolence au repos, et le plaisir au bonheur ; mais on a bien de la peine à concevoir qu'il y en ait qui aiment mieux s’exposer à périr, eux et toute leur famille, dans des tourments affreux, qu'à manger un ragoût brûlé.
+
+<span class="qlang-split" data-lang="en"></span>
+
+Another difference of no less importance is that, although light is a necessary condition without which the things you speak of could not exist, it is in no way possible to say that day is the cause of those things; whereas I have shown how science is the cause of the evils that I attribute to it. Although fire burns any combustible substance it touches, it does not follow that light burns any combustible substance it illuminates—yet this is the conclusion you draw. If you had taken the trouble to read those writings that you have the honor of despising, and which you must at least hate deeply, for they come from an enemy of the wicked, you would have seen therein a clear distinction between the numerous foolish things that we call science—and I mean those things, for example, that are filled in your collections—and true knowledge of the truth. You would have seen, through the enumeration of the evils caused by the former, how dangerous their pursuit is; and by examining the nature of the human mind, how incapable it is of attaining the latter, unless it deals with matters that are immediately necessary for its survival—matters about which even the simplest peasant knows as much as the most learned philosopher. Therefore, in order to create any semblance of equivalence between these two concepts, you would have to assume not only an illusory and deceptive “day” that presents things only in a false light, but also a defect in the visual organ that alters our perception of light, shapes, and colors. And then you would have realized that it is actually far better to remain in eternal darkness than to rely on such “light” to guide us—only to end up breaking our noses against rocks, wallowing in mud, or harming every honest person within reach. The comparison of day to natural reason is appropriate, for the pure and beneficial light of reason illuminates and guides mankind; whereas science might better be likened to those deceptive fires that, it is said, seem to guide travelers toward cliffs. Deeply admiring these rare geniuses whose immortal writings and noble character illuminate and educate the entire world, I increasingly realize the danger of tolerating those fools who not only dishonor literature with their false praise but also corrupt its true purpose. If everyone were a Montesquieu, a Buffon, a Duclos, or someone like them, I would eagerly desire that they pursue all fields of knowledge, so that humanity might be a community of wise men. But you, sir—since you seem so modest and often reprove my pride—I am certain you would agree that if everyone were like Fréron, their books would offer no useful guidance, and their behavior would not create a pleasant society at all.
+
+Please do not forget, sir, when your play wins the prize, to include these clarifications in the preface. In the meantime, I wish you much success; but if, in the career ahead, success does not meet your expectations, be careful not to resort to what you call “enveloping yourself in your own esteem”—for that would be a terrible cloak to wear.
+
+Letter LXVIII – To Mr. Abbé Raynal
+
+ON THE DANGEROUS USE OF COPPER UTENSILS
+
+July 1753.
+
+I believe, sir, that you will take pleasure in reading the excerpt from a letter from Stockholm that the person to whom it is addressed has asked me to request you to publish it in *Mercure*. The subject matter is of utmost importance for the welfare of mankind; and the more widespread public indifference on this issue is, the more enlightened citizens must redouble their efforts and enthusiasm to overcome it.
+
+Chemists throughout Europe have long warned us of the deadly properties of copper and the dangers associated with its use in kitchen utensils. Mr. Rouelle, from the Academy of Sciences, was particularly outspoken about these harmful effects and vehemently protested against their use. Dr. Thierri, a physician, compiled a comprehensive thesis in 1749, presented before Mr. Falconnet, which presented numerous irrefutable arguments capable of frightening any reasonable person who values his own life and the lives of his fellow citizens. These scientists demonstrated that verdigris—i.e., dissolved copper—is a violent poison whose effects are always accompanied by terrible symptoms; even the vapor of this metal is dangerous, as workers exposed to it frequently suffer from various fatal or chronic illnesses. They also showed that all kinds of substances, including menstruation fluids, fats, salts, and even water, can dissolve copper and turn it into verdigris; even the most meticulous tin-plating process only reduces this dissolution to some extent. The tin itself used in this process is not without danger either, despite its widespread current use—the degree of risk varying depending on the type of tin used, as different alloys contain varying amounts of arsenic or lead [526]. Moreover, even if adequate precautions are taken during plating, it remains utterly imprudent to rely on the durability of such thin tin coatings, which wear out quickly [527], or on the carefulness of household servants and chefs—who often discard newly plated utensils due to their unpleasant taste. The scientists also pointed out how many terrible accidents caused by copper are actually attributed to entirely different factors every day. They proved that countless people die or suffer from various illnesses as a result of using copper in our kitchens and water faucets, yet they themselves are unaware of the true cause of their suffering. Nevertheless, although the production of ironware and tin-plated utensils in the Saint-Antoine district offers convenient alternatives to copper cookware—cost-effective, practical, and at least safe regarding the metal itself—the usual indifference of people toward things that truly benefit them, along with the petty excuses invented by laziness to justify continuing bad habits, have meant that chemists’ wise advice has had little impact so far, and copper is still widely used in many kitchens.
+The chefs’ reluctance to use any vessels other than those they are accustomed to is an obstacle whose full extent becomes apparent only when one understands the laziness and gluttony of their masters. Everyone knows that society is full of people who prefer idleness to rest, and pleasure to true happiness; yet it is hard to believe that there are actually some who would rather risk their own lives and those of their entire families by enduring terrible suffering than eat a burnt stew.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un’altra differenza non meno importante è che, sebbene la luce sia una condizione necessaria senza la quale le cose di cui parlate non esisterebbero, non si può assolutamente affermare che il giorno ne sia la causa; al contrario, ho dimostrato come le scienze siano la causa dei mali che loro vengono attribuiti. Anche se il fuoco brucia un corpo combustibile che tocca, ciò non significa affatto che la luce bruci un corpo combustibile che illumina: eppure questa è la conclusione a cui giungete voi. Se vi foste presi la briga di leggere quegli scritti che avete l’onore di disprezzare, e che dovreste almeno odiare profondamente, poiché appartengono a un nemico dei malvagi, avreste visto una netta distinzione tra le molte sciocchezze che chiamiamo scienze – quelle, ad esempio, piene nei vostri raccolti – e la vera conoscenza della verità; avreste visto, attraverso l’elenco dei mali causati dalle prime, quanto sia pericolosa la loro pratica; e, analizzando lo spirito umano, quanto esso sia incapace di raggiungere la seconda, se non nelle cose strettamente necessarie alla sua sopravvivenza, su cui anche il più ignorante contadino ne sa tanto quanto il più erudito filosofo. Pertanto, per creare un’apparenza di equità tra queste due questioni, dovreste supporre non solo un giorno illusorio e ingannevole che mostra le cose solo sotto una falsa apparenza, ma anche un difetto nell’organo visivo che alteri la percezione della luce, delle forme e dei colori; e allora avreste scoperto che, in realtà, sarebbe ancora meglio rimanere per sempre nell’oscurità, piuttosto che cercare di orientarsi in un mondo pieno di pericoli. Il paragone con il giorno si addice alla ragione naturale, la cui luce pura e benefica illumina e guida gli uomini; le scienze, invece, possono essere paragonate a quei fuochi fatui che, si dice, sembrano illuminare i viandanti solo per condurli verso il disastro. Profondamente ammiratore di quei rari geni la cui opera immortale e le loro virtù purissime illuminano l’universo, vedo ogni giorno sempre più chiaramente quanto sia pericoloso tollerare quella massa di individui che non solo disonorano la letteratura con i loro elogi, ma anche con il modo in cui la praticano. Se tutti gli uomini fossero come Montesquieu, Buffon, Duclos e altri, desidererei ardentemente che coltivassero tutte le scienze, affinché l’umanità fosse una vera comunità di saggi; ma voi, signore, che sicuramente siete così umile da rimproverarmi tanto per il mio orgoglio, concorderete certamente con me sul fatto che, se tutti gli uomini fossero come Fréron, i loro libri non offrirebbero istruzioni utili e il loro comportamento non creerebbe una società piacevole.
+
+Per favore, signore, non dimentichiate di inserire questi piccoli chiarimenti nella prefazione quando la vostra opera avrà vinto il premio. Nel frattempo, vi auguro grandi successi; ma se, nel percorso che intraprenderete, il successo non dovesse rispondere alle vostre aspettative, fate attenzione a non “avvolgervi” nella vostra stessa stima, perché quel sarebbe un cattivo mantello.
+
+Lettera LXVIII – A Monsignor l’Abate Raynal
+
+SULL’USO PERICOLOSO DEI UTENSILI IN OTTONERO
+
+Luglio 1753.
+
+Credo, signore, che troverete piacevole leggere l’estrazione tratta da una lettera proveniente da Stoccolma; la persona a cui è indirizzata mi ha incaricato di chiedervi di pubblicarla su “Le Mercure”, poiché il suo contenuto è di estrema importanza per la vita degli uomini. E più la negligenza del pubblico in questo ambito è eccessiva, più i cittadini illuminati devono raddoppiare lo zelo e l’impegno per combatterla.
+
+Da tempo tutti i chimici d’Europa ci avvertono delle pericolose proprietà del rame e dei rischi a cui si espongono coloro che utilizzano questo metallo dannoso nelle pentole da cucina. Il signor Rouelle, dell’Accademia delle Scienze, è colui che ne ha dimostrato più chiaramente gli effetti funesti e si è lamentato con la massima veemenza di questa pratica. Il dottor Thierri, in una brillante tesi presentata nel 1749 sotto la presidenza del signor Falconnet, ha raccolto numerose prove capaci di spaventare qualsiasi uomo ragionevole che tenga alla propria vita e a quella dei suoi concittadini. Questi scienziati hanno dimostrato che il verderame, ovvero il rame disciolto, è un veleno violento i cui effetti sono sempre accompagnati da sintomi terribili; che persino la vaporizzazione di questo metallo è pericolosa, poiché gli operai che lo lavorano sono soggetti a diverse malattie mortali o croniche; che tutti i grassi, i sali e persino l’acqua disciolgono il rame, trasformandolo in verderame; che anche la più accurata trattazione con lo stagno non riesce a ridurre questa dissoluzione; che lo stagno stesso utilizzato in questo processo non è esente da pericoli, nonostante l’uso improprio che ne è stato fatto fino ad oggi; e che tale pericolo aumenta o diminuisce a seconda dello stagno impiegato, a causa dell’arsenico o del piombo presenti nella sua composizione. Hanno inoltre dimostrato come molti incidenti terribili causati dal rame vengano attribuiti ogni giorno a cause completamente diverse; hanno provato che molte persone muoiono, e un numero ancora maggiore soffre di mille malattie diverse, a causa dell’uso di questo metallo nelle nostre cucine e nelle nostre fontane, senza che esse stesse sappiano la vera causa dei loro mali. Tuttavia, nonostante la produzione di utensili in ferro battuto e stagno, stabilita nel quartiere di Saint-Antoine, offra mezzi semplici per sostituire nelle cucine una batteria meno costosa, altrettanto comoda di quella in rame e perfettamente sicura, almeno per quanto riguarda il metallo principale, l’indolenza umana verso ciò che è veramente utile e le piccole astuzie della pigrizia nei confronti delle abitudini consolidate, soprattutto quando queste sono dannose, hanno finora permesso solo pochi progressi agli saggi consigli dei chimici, e il rame è ancora ampiamente utilizzato in molte cucine.
+La ripugnanza dei cuochi nell’utilizzare altri utensili diversi da quelli a cui sono abituati rappresenta un ostacolo la cui reale entità si comprende solo conoscendo la pigrizia e la gola dei padroni di casa. Tutti sanno che nella società ci sono molte persone che preferiscono l’indolenza al riposo, e il piacere alla felicità; tuttavia è difficile credere che esistano individui che preferiscano esporre se stessi e tutta la propria famiglia a terribili sofferenze, piuttosto che mangiare un piatto bruciato.
 
 <span class="atom-split" data-atom="023" data-title="(apertura) (parte 23)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
@@ -1112,6 +3168,150 @@ Je vous honore du fond de mon âme, et suis de la même manière, monsieur, votr
 
 Lettre LXXII – Au père Lesage
 
+<span class="qlang-split" data-lang="en"></span>
+
+One must reason with the wise, never with the public. For a long time, the multitude has been likened to a flock of sheep; it requires examples rather than reasoning, for everyone fears appearing ridiculous far more than being foolish or wicked. Moreover, in all matters concerning the common good, nearly everyone, judging by their own principles, cares less about examining the strength of the arguments than about understanding the hidden motives of those who present them. For instance, many honest readers would readily suspect that the owner of a ironworks or the inventor of household fountains might be trying to manipulate my interests in this matter; such suspicion is quite natural in an age filled with charlatans, where even the most deceitful people always speak in the name of the public good. In such cases, example is far more persuasive than reasoning, for since the same doubt would likely have arisen in the minds of others, one is inclined to believe that those who did not reject the proposed change must have found compelling reasons for doing so. Therefore, rather than endlessly arguing about how absurd it is—even in doubt—to keep potentially poisonous utensils in the kitchen, it is more relevant to note that Mr. Duvernay has recently ordered iron cooking utensils for the Military Academy; that Prince de Conti has banned all copperware from his household; that the Duke of Duras, ambassador to Spain, did the same; and that his chef assured him that anyone in his profession who refused to use iron or copper utensils was either ignorant or ill-intentioned. Numerous others have followed this example, and those well-informed individuals who provided me with the extract mentioned above have confirmed that this change has had no negative impact on their dining experience—on the contrary, they can now enjoy excellently prepared dishes in iron containers with complete confidence.
+
+But what could be more strikingly presented to the public than this very excerpt? If there were any nation in the world that should oppose the exploitation of copper, it would certainly be Sweden, whose copper mines constitute its principal source of wealth, and whose people generally revere their ancient practices. Yet it is precisely this kingdom, so rich in copper, that sets an example to others by eliminating all uses of this metal that render it dangerous and harmful to the lives of its citizens. It is these very peoples, so attached to their old customs, who readily give up numerous conveniences that they could obtain from their mines, once reason and the authority of wise men demonstrate to them the risks inherent in the imprudent use of copper. I would like to hope that such a beneficial example will be followed throughout the rest of Europe, where there should certainly be less reluctance to ban, at least in the kitchen, a metal that is obtained from external sources. I wish that the public warnings of philosophers and men of letters would awaken people to the various dangers to which their imprudence exposes them, and remind all sovereigns that the responsibility for preserving human life is not only their primary duty but also their greatest interest.
+
+I am, etc.
+
+1754
+
+Letter LXIX – To Mr. Count d’Argenson
+
+Letter LXX – To Mr. Count of Turpin
+
+Letter LXXI – To Mr. d’Alembert
+
+Letter LXXII – To Father Lesage
+
+Letter LXXII – To Madame Gonceru
+
+Letter LXXIV – To Mr. Vernes
+
+Letter LXXV – To Mr. Perdriau
+
+Letter LXXVI – To Madame la Marquise de Menars
+
+Letter LXXVII – To Mr. Count of Lastic
+
+Letter LXXVII – To Madame d’Épinay
+
+Correspondence Table
+
+Letter LXX – To Mr. Count of Turpin
+
+He who had sent me a Letter at the beginning of the chapters.
+
+Philosophical and Literary Amusements of Two Friends
+
+Paris, May 12, 1754.
+
+In expressing my gratitude to you, sir, for the collection you sent me, I would like to add my thanks also for the letter that appears at its beginning and which is purportedly addressed to me[532]. Were it not for the praise accompanying it—which I wish to quickly forget—so as not to have any reason to reproach you, the content of that letter would be entirely worthy of appreciation.
+
+As for the lesson itself, I find its maxims to be very sensible; what seems to lack is their more thorough application. It would require a remarkable change in my mood and character if the duties of humanity ever ceased to be dear to me, just because people are wicked. By avoiding too large societies, I neither punish myself nor others. I free others from the distressing sight of a suffering person or an annoying observer, and I free myself from the inconvenience that comes from interacting with numerous people whose names I know only superficially. I am not prone to the boredom you accuse me of; and when I occasionally feel it, it is only in beautiful gatherings, where I find myself utterly out of place in every way. The only company that seems desirable to me is that which one shares with friends, and I enjoy it so much that I have no regret for missing the society of high society. Moreover, even if I hated people as much as I love them and feel sorry for them, I doubt that getting to know them more closely would be a good way to reconcile with them. And no matter how happy I am in my relationships, it would be difficult for me to find anyone who could compare to the comfort of being alone with myself.
+
+I thought that defending myself before you was the best proof I could give you that your opinions did not displeasure me, and that I valued your respect. Let me begin with you, sir, whom I should have addressed first; I have already read part of your work, and I am pleased to see the kind and honest way in which you and your friend make use of your leisure time and talents. Your collection is not bad enough to discourage you from further effort, nor good enough to take away the hope that you may one day create something even better[533]. Therefore, continue to work under the guidance of your divine masters, striving to extend their rights and enhance your own glory. To overcome, as you have begun to do, the prejudices born of your birth and status is indeed to place oneself far above both. But to combine practical examples with the teachings of virtue—such is what one would rightfully expect from anyone who preaches it in their writings. Such is the honorable commitment you have taken on, and which you are diligently striving to fulfill.
+
+I am wholeheartedly, etc.
+
+Letter LXXI – To Mr. d’Alembert
+
+[534]
+
+On this 26th of June 1754[535].
+
+I return to you, sir, the letter C, which I was unable to read earlier due to my constant illness. I have no idea how one could resist the honor you have done me in writing to me; in fact, I would be quite pleased if I did not know how. Thus, I fully agree with all your views and approve of the changes you deemed appropriate to make. However, I have reinstated one or two passages that you had deleted, because, following the principles you yourself established, I felt that these passages were relevant to the subject, did not convey any ill will, and contained no insults. Nevertheless, I wish for you to be absolutely the authority in this matter, and I submit everything to your judgment and wisdom.
+
+I cannot thank you enough for your introductory speech. I can hardly believe that you found it more enjoyable to deliver it than I did to read it. In particular, the encyclopedic series has been very instructive and enlightening to me; I intend to reread it many times. As for my own contribution, I find your idea regarding musical imitation to be both very accurate and innovative. Indeed, apart from a very few details, the art of a musician does not consist in immediately depicting objects, but rather in placing one’s soul in a state similar to that which the presence of those objects would induce. Everyone will understand this upon reading what you have written; and without you, perhaps no one would have ever thought of it at all. As Lamotte said.
+
+Of that truth which is present in all minds.
+
+They contain within them the seed itself;
+
+One can sense it, but yet it comes as a surprise.
+
+Upon reflection, it seems true.
+
+There are very few compliments that touch me deeply; but I am particularly grateful for those you have taken the trouble to offer me. I cannot help but feel pleased at the thought that future generations will see, in such a monument, how kindly you have remembered me.
+
+I honor you from the bottom of my heart, and in the same way, sir, I am your most humble servant, etc.
+
+Letter LXXII – To Father Lesage
+
+<span class="qlang-split" data-lang="it"></span>
+
+È necessario ragionare con i saggi, e mai con il pubblico. Da tempo si paragona la folla a un gregge di pecore: le serve esempi piuttosto che ragionamenti, poiché ognuno teme molto di apparire ridicolo più che pazzo o malvagio. Inoltre, in tutte le questioni che riguardano l’interesse comune, quasi tutti, giudicando secondo le proprie massime, preferiscono non esaminare la forza delle prove piuttosto che comprendere i motivi nascosti di chi le propone. Ad esempio, molti lettori onesti sospetterebbero facilmente che, con del denaro, il capo di una fabbrica di ferro battuto o l’inventore di fontane domestiche possano suscitare in me interesse in questa circostanza; un’ipotesi piuttosto naturale in un secolo di ciarlataneria, dove i più grandi truffatori parlano sempre in nome dell’interesse pubblico. L’esempio è in questo caso più persuasivo del ragionamento, poiché, essendo probabile che lo stesso scetticismo sia sorto anche negli altri, si tende a credere che coloro che non sono stati dissuasi da tale scetticismo abbiano trovato motivi decisivi per adottare ciò che veniva proposto. Pertanto, invece di limitarmi a dimostrare quanto sia assurdo, anche nel dubbio, lasciare in cucina utensili sospetti di contenere veleno, è meglio dire che il signor Duvernay ha appena ordinato l’uso della batteria di ferro nell’Accademia Militare; che il principe di Conti ne ha bandito l’uso nella propria casa; che il duca di Duras, ambasciatore in Spagna, ha fatto lo stesso; e che il suo cuoco, consultato al riguardo, gli ha assicurato chiaramente che coloro che non si adattavano all’uso della batteria di ferro, così come a quella di rame, erano o ignoranti o persone di cattive intenzioni. Molti altri hanno seguito questo esempio; le persone colte che mi hanno fornito il brano citato avevano già adottato questa pratica da tempo, e la loro tavola non ne ha risentito affatto, anzi, grazie alla fiducia che si può avere nel mangiare ottimi piatti preparati in contenitori di ferro.
+
+Ma cosa potrebbe esserci di più evidente da mostrare al pubblico di questo stesso estratto? Se esistesse nel mondo una nazione che dovesse opporsi all’espulsione del rame, questa sarebbe sicuramente la Svezia, le cui miniere di questo metallo rappresentano la sua principale risorsa economica, e i cui abitanti, in generale, idolatrano le loro antiche usanze. Eppure è proprio questo regno, così ricco di rame, che dà l’esempio agli altri nel togliere a questo metallo tutti quegli utilizzi che lo rendono pericoloso e che minacciano la vita dei cittadini; sono questi popoli, così attaccati alle loro vecchie abitudini, che rinunciano senza esitazione a molte comodità che potrebbero ottenere dalle loro miniere, non appena la ragione e l’autorità degli saggi gli fanno comprendere il rischio che comporta un uso immoderato di questo metallo. Vorrei davvero sperare che un esempio così salutare venisse seguito nel resto d’Europa, dove non si dovrebbe avere la stessa riluttanza ad abolire, almeno nelle cucine, un metallo che viene estratto dall’estero. Vorrei che gli avvertimenti pubblici dei filosofi e degli intellettuali risvegliassero i popoli sui pericoli di ogni sorta a cui li espone la loro imprudenza, e ricordassero più spesso a tutti i sovrani che il dovere principale, se non l’interesse più grande, consiste nel prendersi cura della conservazione degli esseri umani.
+
+Io sono, ecc.
+
+1754
+
+Lettera LXIX – Al signor conte d’Argenson
+
+Lettera LXX – Al conte di Turpin
+
+Lettera LXXI – A Monsieur d’Alembert
+
+Lettera LXXII – Al padre Lesage
+
+Lettera LXXII – A Madame Gonceru
+
+Lettera LXXIV – A Monsieur Vernes
+
+Lettera LXXV – A Monsieur Perdriau
+
+Lettera LXXVI – Alla marchesa di Menars
+
+Lettera LXXVII – Al signor conte di Lastic
+
+Lettera LXXVII – Alla signora d’Épinay
+
+Tabella della corrispondenza
+
+Lettera LXX – Al conte di Turpin
+
+Colui che mi aveva inviato una Lettera in cima alle altre.
+
+Divertimenti filosofici e letterari di due amici
+
+Parigi, 12 maggio 1754.
+
+Signore, ringraziandovi per il raccolto che mi avete inviato, vorrei aggiungere i miei ringraziamenti anche per la lettera che ne accompagna l’inizio e di cui si dice sia stata indirizzata a me[532], se non fosse per l’elogio che la accompagna e che desidero dimenticare al più presto, affinché non abbia motivo di rimproverarvi.
+
+Per quanto riguarda quella lezione, ritengo che le sue massime siano molto sensate; mi sembra però che manchi loro un’applicazione più accurata. Dovrei cambiare radicalmente umore e carattere se mai i doveri dell’umanità smettessero di essere cari per me, solo perché gli uomini sono cattivi. Non punisco né me stesso né nessun altro rifiutandomi di partecipare a società troppo numerose. Libero gli altri dal triste spettacolo di una persona che soffre, o da un osservatore importuno; e libero me stesso dall’imbarazzo che deriverebbe dal frequentare molte persone di cui, per fortuna, conosco soltanto i nomi. Non sono soggetto all’noia di cui mi accusate; e se talvolta la provo, è solo nelle belle riunioni, dove ho l’onore di sentirmi estremamente a disagio in ogni modo possibile. L’unica compagnia che mi sia sembrata desiderabile è quella che si può avere con gli amici. E ne godo con tale felicità da non rimpiangere affatto quella del gran mondo. Del resto, anche se odiassi gli uomini tanto quanto li amo e li compiango, temo che vederli più da vicino non sarebbe certo il modo migliore per riconciliarmi con loro. E, per quanto felice possa essere nelle mie relazioni, mi sarebbe difficile trovare mai con qualcuno in armonia tanto grande quanto quella che ho con me stesso.
+
+Ho pensato che giustificarmi davanti a voi fosse la migliore prova che potessi darvi del fatto che i vostri pareri non mi hanno dispiaciuto e che tengo in grande considerazione il vostro giudizio. Veniamo ora a voi, signore, con cui avrei dovuto iniziare: ho già letto una parte della vostra opera e vi vedo, con piacere, utilizzare in modo amichevole ed onesto i vostri tempi liberi e i vostri talenti. Il vostro lavoro non è abbastanza scadente da scoraggiarvi dal continuare a lavorare, né abbastanza buono da privarvi della speranza di poterlo migliorare in futuro[533]. Lavorate quindi, sotto la guida dei vostri divini maestri, per estendere i loro diritti e la vostra gloria. Sconfiggere, come avete già iniziato a fare, i pregiudizi legati alla vostra nascita e al vostro status sociale significa elevarsi molto al di sopra di entrambi. Ma unire l’esempio alle lezioni della virtù è ciò che si può aspettare da chi ne predica nei propri scritti. Questo è l’onorevole impegno che avete appena assunto e per il quale state lavorando.
+
+Con tutto il mio [cuore](/positions/fideism), ecc.
+
+Lettera LXXI – A Monsieur d’Alembert
+
+[534]
+
+Il 26 giugno 1754[535].
+
+Vi rimando, signore, la lettera C, che non ho potuto rileggere prima a causa della mia costante malattia. Non so proprio come si possa resistere al modo in cui avete avuto la gentilezza di scrivermi. E sarei molto contento se non lo sapessi. Pertanto, condivido completamente le vostre opinioni e approvo i cambiamenti che avete ritenuto opportuni apportare; tuttavia ho ripristinato uno o due passaggi che avevate eliminato, poiché, seguendo il principio da voi stesso stabilito, mi è sembrato che tali passaggi non alterassero il senso del testo, né contenessero insulti o toni offensivi. Voglio comunque che siate voi l’unico padrone di questa situazione. E vi sottometto tutto alla vostra equità e alle vostre [intuizioni](/schools/enlightenment).
+
+Non posso ringraziarvi abbastanza per il vostro discorso preliminare. Faccio fatica a credere che vi sia stato più piacevole pronunciarlo di quanto mi sia stato piacevole leggerlo. In particolare, la serie enciclopedica mi ha insegnato e illuminato molto; intendo rileggerla più volte. Per quanto riguarda la mia parte, trovo che la vostra idea sull’imitazione musicale sia molto giusta e originale. Infatti, ad eccezione di pochissime cose, l’arte del musicista non consiste nel rappresentare immediatamente gli oggetti, ma nel mettere l’anima in una condizione simile a quella che tali oggetti le darebbero se fossero presenti. Tutti se ne renderanno conto leggendo il vostro discorso; e senza di voi, forse nessuno si sarebbe mai reso conto di questo. Come dice Lamotte.
+
+Di questa verità, di cui tutti gli spiriti.
+
+In loro stessi possiedono il seme necessario.
+
+Si percepisce, ma si rimane sorpresi.
+
+Ritenerlo vero, se ci si pensa bene.
+
+Ci sono molto pochi elogi che riescono davvero a commuovermi; ma quelli che avete voluto farmi ricevo con grande gratitudine. Non posso fare a meno di pensare con piacere che la posterità, leggendo un simile monumento, comprenderà quanto bene abbiate pensato di me.
+
+Vi onoro con tutto il profondo della mia anima e, allo stesso modo, signore, sono il vostro più umile servitore, ecc.
+
+Lettera LXXII – Al padre Lesage
+
 <span class="atom-split" data-atom="024" data-title="(apertura) (parte 24)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Aux Eaux-Vives[536], le 1er juillet au soir, 1754.
@@ -1170,6 +3370,122 @@ Lettre LXXV – À M. Perdriau
 
 Paris, le 28 novembre 1754.
 
+<span class="qlang-split" data-lang="en"></span>
+
+At Eaux-Vives[536], on the evening of July 1st, 1754.
+
+Sumite material things of your body, which you use with equal effort.[537]
+
+The musician who, in 1720, claimed that the simplest music was also the most beautiful, was making a rather strange statement in my opinion. I would have preferred him to say that the best actor is one who makes the fewest gestures and speaks in the most composed manner. As for Lulli’s musical passages, I agree that they are flat and of poor taste.
+
+I am quite surprised to find that the same rhythmic patterns are present in “The Village Deity” as in Roland’s opera; it must be that, failing to see any connection myself, I am strangely blind to this point. After all, it is not easy to determine in which cases music contains such rhythmic patterns and in which it does not. I have established some rules to distinguish between these cases and have carefully followed them in my practice. Poem a me soepè deliberatam et multùm agita-tam requiris[538].
+
+If music consisted merely of simple songs and pleased us solely through physical sounds, it might happen that tunes from the provinces could please us just as much or even more than those from the court. However, whenever music is considered an art of imitation, just like poetry and painting, it is in the cities, at the courts, and wherever many people gather to pursue the arts of pleasure that one learns to cultivate it. In general, the best music is that which combines both physical pleasure and moral enjoyment—that is, the delight of the ear with the stimulation of the emotions.
+
+Thus it is for Alterius.
+
+He requested the book again and earnestly begged his friend. [539]
+
+If Molière consulted his maid, it was probably regarding *The Doctor in Spades*, Nicolle’s amusing antics, and the quarrel between Sosie and Cléanthis. But unless Molière’s maid was an exceptionally intelligent person, I would bet that this great playwright did not seek her advice on plays like *Misanthrope*, *Tartuffe*, or the beautiful scene involving Alcmene and Amphitryon. Musicians should also consult those who are ignorant with the same discretion—especially since musical imitation is far more indirect, less immediate, and requires greater sensitivity and skill to be appreciated than theatrical imitation.
+
+Although the principles of theatrical beauty have not been clarified to the greatest extent possible by either modern theorists or even Aristotle, they are nonetheless easy to establish. In my view, these principles can be reduced to two: imitation and interest, principles that also apply to music. I would not say, for fear of causing confusion, that beauty consists in the imitation of the true; rather, it lies in the truthfulness of such imitation—this, I believe, is the meaning of the verses of Horace and Boileau. The idea that imitation should only be exercised on useful objects is a good moral precept, but not a poetic rule; for there are many beautiful works whose subjects possess no practical value at all—such as Sophocles’ “Oedipus”.
+
+Mathematicians have very well explained the part of music that falls within their area of expertise—namely, the relationships between sounds, which also determine the physical pleasure derived from harmony and singing. On their part, philosophers have shown that music, considered one of the fine arts, shares with them the principle at the heart of its greatest charms: that of imitation.
+
+Musicians are not meant to reason about their art; it is the musicians’ task to discover these things, and it is the philosopher’s role to explain them.
+
+Although Abbe Du Bos spoke about music as a man who understood nothing of it, this does not prevent there from being rules for judging a musical composition just as there are rules for judging a poem or a painting. What would one say of a person who claimed to be able to judge Homer’s Iliad, Racine’s Phèdre, or Poussin’s The Deluge in the same way as he would judge an olive oil or a ham? Similarly, anyone who attempted to compare the profound effects of beautiful music—music that stirs every passion and fills the heart with all kinds of delightful emotions—with the crude, purely physical sensation experienced when tasting food would be utterly mistaken. What a vast difference there is, for the workings of the soul, between those who are cultivated in these matters and those who are not! A Pergolèse, a Voltaire, a Titian—these men can, so to speak, manipulate the hearts of enlightened people at will; but the countryman, ignorant of the masterpieces of such great artists, finds nothing more beautiful than the local village library, the signboards of the taverns, or the simple pleasures of his hometown.
+
+I therefore believe that it is entirely possible to discuss music, and even to determine, in relation to language, the qualities that music must possess in order to be good and pleasing; for although one cannot explain matters of taste, which are merely pure sensations, the philosopher may without hesitation attempt to explain those aspects of music that modify its structure and form part of what constitutes true beauty at a metaphysical level. I would refrain from entering into the so-called debate regarding whether music is simply spontaneous or composed, until I have understood the meaning of these terms themselves, which I am still unfamiliar with. In the meantime, I would assume that sounds and rhythms must be arranged and transformed by the musician, just as lines and colors are manipulated by the painter according to the hues and nuances of the objects he wishes to depict and the ideas he wants to express. However, to truly resolve these issues, which undoubtedly present their difficulties, it is necessary to engage in a more thorough analysis.
+
+In dealing with matters, it is appropriate to be cautious, Eutyche.
+
+So that the free will may perceive the power of poetry. [540]
+
+Letter LXXIV – To Mr. Vernes
+
+[543]
+
+Paris, October 15, 1754.
+
+You must keep your promise, sir, and at the same time satisfy both my heart and my conscience; for, in my opinion, friendship, remembrance, and gratitude—all of these are your due to me, and I will fulfill them without ever thinking that I owe them to you. Let us therefore love each other dearly, and hasten to reach a point where we no longer need to say these things to one another.
+
+I completed my journey[544] very happily and even more swiftly than I had hoped. I notice that my return surprised many people, who claimed that my re-entry into the kingdom was forbidden and that I had been exiled to Geneva—something that would be tantamount to a French bishop being banished to the court. Well, here I am, despite them and all their attempts, waiting for my heart to lead me back where you are. It could happen at any moment if I were to listen only to it. I haven’t found any of my friends here: Diderot is in Langres, Duclos in Brittany, Grimm in Provence, and even d’Alembert is in the countryside. So all that remains are acquaintances whose presence wouldn’t disturb my solitude in the slightest. The fourth volume of the Encyclopédie was published yesterday; it is said to be even better than the third. I don’t yet have a copy, so I can’t judge for myself. As for literary or political news, thank God; I’m just as indifferent to the foolishness happening in this world as to what people print in books.
+
+I forgot to leave with you the songs you had asked me to prepare; it was a carelessness that I will rectify this spring by adding some French songs, which will be more to the taste of your ladies and which they will sing better.
+
+With all my respect, I implore you to convey my greetings to your father and mother, and also do not forget to mention me to your sister when you write to her; please let me know how she is doing. Once again, I rely on you to speak well of me in your travels to Sécheron, in case anyone there might still be acquainted with me. Additionally, my regards to Monsieur, Madame, and Mademoiselle Mussard in Châtelaine: your eloquence will surely shine brightly when you defend a man who, after receiving so much honesty and trust, decides to leave and take away the cat.
+
+I intended to write a separate article about Mr. Abauzit. Please forgive me for the inconvenience his modesty caused me whenever I tried to express my deep and sincere admiration for him in his absence. Let him know, without any reservation, all the feelings I hold for him; and do not forget to reflect on your own feelings towards him as well.
+
+P.S. Mademoiselle Le Vasseur begs you to accept her most humble respects. I had intended to write to Mr. de Rochemont; but this damned laziness. Please use your friendship to help mine with him, I implore you.
+
+Letter LXXV – To Mr. Perdriau
+
+In Geneva.
+
+[545]
+
+Paris, November 28, 1754.
+
+<span class="qlang-split" data-lang="it"></span>
+
+A Les Eaux-Vives[536], la sera del 1° luglio 1754.
+
+Utilizzate materiali adeguati per ciò che state scrivendo, applicando uno sforzo equilibrato.[537]
+
+Il musicista che, nel 1720, affermava che la musica più semplice fosse anche la più bella, secondo me avanzava un’affermazione strana. Avrebbe potuto benissimo dire che il miglior attore è colui che fa meno gesti e parla in modo più calmo e composto. Per quanto riguarda i ritmi di Lulli, concordo sul fatto che siano piatti e di cattivo gusto.
+
+Sono molto sorpreso che nel “Devin du village” si ritrovino gli stessi accordi melodici presenti nell’opera di Roland; deve essere perché, non riuscendo io a individuare alcuna correlazione tra i due testi, mi sono stranamente accecato su questo punto. Del resto, non è affatto facile stabilire nei casi in cui la musica preveda tali accordi e in quali invece no. Mi sono fatto delle regole per distinguerli e le ho rigorosamente seguite nella pratica. Poem a me soepè deliberatam et multùm agita-tam requiris[538].
+
+Se la musica consistesse soltanto in semplici canzoni e piacesse unicamente per i suoni fisici, potrebbe accadere che melodie di provincia piacciano tanto o più di quelle della corte; ma ogni volta che la musica viene considerata un’arte di imitazione, così come la poesia e la pittura, è nella città, alla corte, ovunque si riuniscano molte persone per coltivare le arti del piacere, che essa viene appresa e sviluppata. In generale, la migliore musica è quella che unisce il piacere fisico a quello morale, cioè l’aggradimento dell’orecchio all’interesse dello spirito.
+
+Così per Alterius.
+
+Cambia l’ordine delle cose e invoca l’aiuto di un amico.[539]
+
+Se Molière consultò la sua serva, probabilmente riguardo a “Il medico contro la sua volontà”, alle battute di Nicolle, e alla disputa tra Sosia e Cléanthis; ma, a meno che la serva di Molière non fosse una persona davvero eccezionale, scommetterei che quel grande uomo non le chiedesse mai consigli riguardo a “Il misantropo”, a “Tartufo” o alla bellissima scena tra Alcmene e Amphitryon. Anche i musicisti dovrebbero consultare gli ignoranti con lo stesso discernimento, soprattutto perché l’imitazione musicale è molto più distaccata, meno immediata, e richiede una maggiore finezza di sensibilità per essere apprezzata, rispetto all’imitazione teatrale.
+
+Sebbene i principi della bellezza teatrale non siano stati portati, né dai moderni né nemmeno da Aristotele, al grado di chiarezza a cui sono suscettibili, essi sono comunque facili da stabilire. Questi principi mi sembrano ridursi a due: l’imitazione e l’interesse, che si applicano altrettanto alla musica. Non direi, per evitare di creare confusione, che il bello consista nell’imitazione della verità, ma nella “verità dell’imitazione”: è questo, a mio parere, il senso dei versi di Orazio e di Boileau. Il fatto che l’imitazione debba esercitarsi soltanto su oggetti utili rappresenta un buon principio morale, ma non una regola poetica; infatti esistono opere molto belle la cui trama non presenta alcun valore pratico: è il caso dell’“Edipo” di Sofocle.
+
+I matematici hanno spiegato molto bene quella parte della musica che rientra nella loro competenza, ovvero i rapporti tra i suoni, e da questi derivano anche il piacere fisico che proviamo nell’ascoltare armonie e canti. I filosofi, dal canto loro, hanno dimostrato che la musica, considerata una delle belle arti, ha, proprio come queste ultime, nel principio dell’imitazione il segreto dei suoi maggiori incantesimi.
+
+I musicisti non sono fatti per riflettere sul proprio arte: spetta a loro scoprire le cose, mentre al filosofo spetta spiegarle.
+
+Sebbene l’abate Du Bos abbia parlato di musica come un uomo che non ne capiva nulla, ciò non impedisce che esistano regole per giudicare una composizione musicale, così come un poema o un dipinto. Cosa si direbbe di un uomo che pretendesse di valutare l’Iliade di Omero, la Fedra di Racine o il Diluvio di Poussin allo stesso modo in cui valuta un olio d’oliva o un prosciutto? Lo stesso vale per chi vorrebbe paragonare il fascino di una musica incantevole, che suscita nel cuore l’agitazione di tutte le passioni e la voluttà di tutti i sentimenti, con la sensazione grossolana e puramente fisica che si prova gustando del cibo. Quanta differenza, per quanto riguarda gli stati d’animo umani, tra coloro che sono esperti in queste cose e quelli che non lo sono! Un Pergolèse, un Voltaire, un Tiziano potranno, per così dire, influenzare a piacimento i sentimenti di un popolo istruito; ma il contadino, insensibile alle opere di questi grandi artisti, non troverà nulla di più bello della biblioteca comunale, delle insegne dei pub o del ballo tradizionale del suo villaggio.
+
+Credo quindi che si possa tranquillamente discutere di musica, e persino individuare, rispetto al linguaggio, le qualità che essa deve possedere per essere considerata buona e piacevole; poiché, sebbene non sia possibile spiegare quelle cose legate al gusto che sono semplicemente sensazioni puramente fisiche, il filosofo può senza timore tentare di analizzare quelle che modificano la natura stessa delle cose e fanno parte della vera essenza del bello. Mi asterrò però dal partecipare a quella presunta controversia tra musica semplice e musica composta, finché non avrò compreso il significato di termini che al momento non riesco a comprendere. Nel frattempo, ritengo che i suoni e i movimenti debbano essere composti e modificati dal musicista, proprio come le linee e i colori dal pittore, in base alle tonalità e alle sfumature degli oggetti che vuole rappresentare e delle idee che vuole esprimere. Ma per risolvere davvero queste questioni, che non mancano di difficoltà.
+
+“È necessario essere opportuni nelle proprie azioni, Eutiche.”
+
+Affinché l’animo libero possa percepire la forza della poesia[540].
+
+Lettera LXXIV – A Monsieur Vernes
+
+[543]
+
+Parigi, 15 ottobre 1754.
+
+Dovete mantenere la vostra parola, signore, e allo stesso tempo soddisfare sia il mio cuore che la mia coscienza; perché stima, amicizia, ricordo, riconoscenza, tutto vi è dovuto, e io mi impegnerò a ripagare tutto ciò senza mai pensare di dovervelo. Amiamoci dunque molto entrambi, e affrettiamoci a raggiungere quel punto in cui non avremo più bisogno di dirlo l’uno all’altro.
+
+Ho compiuto il mio viaggio[544] in modo molto felice e persino più rapidamente di quanto mi aspettassi. Noto che il mio ritorno ha sorpreso molte persone, le quali sostenevano che il mio rientro nel regno fosse vietato e che fossi stato esiliato a Ginevra, il che per me sarebbe stato come per un vescovo francese essere confinato alla corte. Ebbene, eccomi qui, nonostante loro e le loro calunnie, in attesa che sia il mio cuore a riportarmi dove siete voi. Il che accadrebbe già adesso, se mi lasciassi guidare soltanto da esso. Non ho trovato qui nessuno dei miei amici: Diderot si trova a Langres, Duclos in Bretagna, Grimm in Provenza; persino d’Alembert è in campagna. Quindi non mi rimangono qui che conoscenti di cui non mi curo abbastanza da disturbare la mia solitudine per loro. Il quarto volume dell’Enciclopedia è uscito ieri; si dice sia ancora migliore del terzo. Non ne ho ancora ricevuto una copia, quindi non posso giudicarlo personalmente. Per quanto riguarda le notizie letterarie o politiche, grazie a Dio, non sono affatto curioso delle sciocchezze che avvengono in questo mondo, né di quelle che vengono stampate nei libri.
+
+Ho dimenticato di lasciarvi, prima di partire, le canzoni che mi avevate chiesto: è stata una distrazione che riparerò questa primavera, aggiungendo alcune canzoni francesi, che saranno più a gradimento delle vostre dame e che canteranno meglio.
+
+Con mille rispetti, vi prego di trasmettere i miei saluti a vostro padre e a vostra madre, e non dimenticatevi di menzionarmi anche quando scriverete a vostra sorella; vi supplico di comunicarmi in particolare le sue notizie. Mi raccomando ancora a voi affinché mi menzioniate ampiamente nei vostri resoconti sui vostri viaggi a Sécheron, nel caso ci si trovasse ancora lì. Inoltre, un saluto anche a monsieur, madame e mademoiselle Mussard di Châtelaine: la vostra eloquenza avrà sicuramente modo di brillare nell’apologia di un uomo che, dopo aver ricevuto tante prove di onestà, se ne va portando via il gatto.
+
+Volevo dedicare un articolo a parte a Monsieur Abauzit. Perdonatemi, in mia assenza, per l’imbarazzo che la sua modestia mi ha causato ogni volta che ho cercato di esprimergli il mio profondo e sincero rispetto. Riferitegli senza esitazioni tutti i sentimenti che provo per lui, e non dimenticate di riflettere anche su quelli che io provo per voi.
+
+P.S. La signorina Le Vasseur vi invita a ricevere i suoi più umili saluti. Intendevo scrivere al signor de Rochemont; ma questa maledetta pigrizia. Vi prego, facciate sì che la vostra amicizia possa aiutare la mia presso di lui.
+
+Lettera LXXV – A Monsieur Perdriau
+
+A Ginevra.
+
+[545]
+
+Parigi, 28 novembre 1754.
+
 <span class="atom-split" data-atom="025" data-title="(apertura) (parte 25)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 En répondant avec franchise à votre dernière lettre, en déposant mon [coeur](/positions/fideism) et mon sort entre vos mains, je crois, monsieur, vous donner une marque d'estime et de confiance moins équivoque que des louanges et des compliments, prodigués par la flatterie plus souvent que par l'amitié.
@@ -1183,6 +3499,36 @@ Quoique en général je fasse très peu de cas des étiquettes de procédés, et
 Votre lettre m'apprend elle-même que vous ne sentez pas moins que moi toutes les difficultés que j'avais prévues ; or vous savez qu'à force de se rendre difficile sur les permissions indifférentes, on invite les hommes à s'en passer. C'est ainsi que l'excessive circonspection du feu chancelier sur l'impression des meilleurs livres, fit enfin qu'on ne lui présentait plus de manuscrits, et que les livres ne s'imprimaient pas moins, quoique cette impression, faite contre les lois, fût réellement criminelle, au lieu qu'une dédicace non communiquée n'est tout au plus qu'une impolitesse ; et loin qu'un tel procédé soit blâmable par sa nature, il est, au fond, plus conforme à l'honnêteté que l'usage établi ; car il y a je ne sais quoi de lâche à demander aux gens la permission de les louer, et d'indécent à l'accorder. Ne croyez pas, non plus, qu'une telle conduite soit sans exemple : je puis vous faire voir des livres dédiés à la nation française, d'autres au peuple anglais, sans qu'on ait fait un crime aux auteurs de n'avoir eu pour cela ni le consentement de la nation, ni celui du prince, qui sûrement leur eut été refusé, parce que, dans toute monarchie, le roi veut être l'état, lui tout seul, et ne prétend pas que le peuple soit quelque chose.
 
 Au reste, si j'avais eu à m'ouvrir à quelqu'un sur cette affaire, c'aurait été à M. le Premier moins qu'à qui que ce soit au monde. J'honore et j'aime trop ce digne et respectable magistrat pour avoir voulu le compromettre en la moindre chose, et l'exposer au chagrin de déplaire peut-être à beaucoup de gens, en favorisant mon projet, ou d'être forcé peut-être à le blâmer contre son propre sentiment. Vous pouvez croire qu'ayant réfléchi longtemps sur les matières du gouvernement, je n'ignore pas la force de ces petites maximes d'état qu'un sage magistrat est obligé de suivre, quoiqu'il en sente lui-même toute la frivolité.
+
+<span class="qlang-split" data-lang="en"></span>
+
+By responding candidly to your last letter, by placing my [-heart](/positions/fideism) and my fate in your hands, I believe, sir, I am expressing an esteem and trust that are far more unequivocal than the praises and compliments that are often offered out of flattery rather than friendship.
+
+Yes, sir; struck by the similarities I observed between the form of government that derives from my principles and the one that actually exists in our republic, I decided to dedicate my “Discourse on the Origins and Foundations of Inequality” to it. I saw this as an excellent opportunity not only to honor my country and its leaders with just praise but also, if possible, to plant the olive branch of harmony in people’s hearts—something that at present exists only on medals—and to encourage them to seek happiness by following the example of a nation that is happy or could be happy without making any changes to its institutions. In doing so, I aim, as usual, less to please others than to be useful; I do not particularly rely on the support of those who belong to any particular party, for since I adhere only to the principles of justice and reason, I hardly expect anyone who follows other guidelines to approve of my views. And if this consideration did not deter me, it is because, in all matters, the criticism of the entire world matters far less to me than the approval of my own conscience. But you might say that dedicating a book to a republic is something that has never been done before. Even better, sir; in matters worthy of praise, it is better to set an example than to follow one. I believe I have more than sufficient reasons to consider myself unworthy of imitating anyone else; thus, your objection is, in essence, just another prejudice in my favor. After all, there are no longer any evil actions left to be attempted; and, whatever one may say, the question is not so much whether such a thing has been done or not but whether it is good or bad in itself—something I leave to your judgment. As for your concern that such innovations could be dangerous given what has happened recently, this is certainly true in many respects; but in this particular case, I believe my approach is all the more appropriate. Since my praise is directed at the magistrates and my exhortations are meant for the citizens, it is only right that the whole dedication be addressed to the republic itself—this way, I can address its various members directly and avoid giving my words any appearance of bias. I know there are some things that one should not bring up again; and I hope you believe me to have enough judgment not to do so, especially since in this regard, I have considered more what others might think than what I personally desire. After all, it would hardly be wise to pursue such a principle to the point of being overly cautious. The fate of Herostratus teaches us that trying to make people forget something by forbidding them from speaking about it is a poor strategy; but if we force people to speak about it only with sorrow, soon they will stop speaking about it altogether.
+There is some kind of timid prudence that has gained great favor in this century; such prudence, seeing difficulties everywhere, wisely chooses to do neither good nor evil. I prefer a boldness that, in order to do good, is willing sometimes to shake off the childish yoke of propriety.
+
+Perhaps my indiscreet zeal may lead me astray; perhaps, in taking my mistakes for useful truths and acting with the best intentions in the world, I may do more harm than good. I have nothing to say in response to this, except that such an argument should actually deter every upright person from seeking guidance, and leave the entire world at the mercy of the wicked and the foolish. After all, objections drawn solely from the inherent weaknesses of human nature carry weight against anyone; and no one can be entirely free from suspicion, unless they base the certainty of their own judgment on the integrity of their own heart. This is something I can claim with confidence, for being isolated among men, holding no position in society, devoid of any pretensions, and seeking my happiness solely in that of others, I believe I am free from those prejudices of status that cause even the wisest to bend their judgment to suit their own interests. It is true that I could seek advice from people more knowledgeable than myself—and indeed I would do so if I did not know that their own interests would always override their reason. In short, to put it bluntly, I place far more trust in my own disinterest than in the wisdom of anyone else.
+
+Although in general I pay very little attention to procedural labels and have long since shaken off their burden—more as a matter of convenience than necessity—I agree with you that it would have been appropriate to obtain the approval of the republic or the council, as is generally the custom in such cases. Indeed, this was my intention when I undertook my journey; however, after some consideration and observation, I quickly realized that it was impossible to secure such approval. I understood that requesting it would be tantamount to expecting a refusal, and that if I persisted, my action—while perhaps slightly lacking in certain formalities that many have chosen to ignore—would become a condemnable act of disobedience; whereas if I abandoned my plan, it would merely appear as the foolishness of a fool. For I learned that, without my knowledge, copies of my work and its dedication had already been made last May, and that I was no longer in control of preventing their misuse. Thus, I saw that giving up on my project would mean risking having it carried out by others instead.
+
+Your letter itself tells me that you are fully aware of all the difficulties I had anticipated; yet you know that by making it excessively difficult to obtain permission for what is merely trivial, one actually encourages people to dispense with such formalities altogether. It was precisely because of the chancellor’s excessive caution regarding the approval of high-quality books that no more manuscripts were submitted to him, and yet books continued to be published—though such publication, being contrary to the law, was indeed criminal in nature. In contrast, a dedication that is not communicated to anyone at all is at most merely impolite; far from being blameworthy in itself, such a practice is actually more honest than the established conventions. After all, there is something cowardly in asking people for permission to praise them, and something indecent in granting it without their consent. Nor believe that such behavior is without precedent: I can show you books dedicated to the French nation or to the English people, yet the authors did not commit any crime in not obtaining either the approval of the nation or that of the sovereign—since in every monarchy, the king claims to be the sole authority, and does not acknowledge the existence of the people as an independent entity.
+
+Besides, if I had ever needed to confide in anyone about this matter, it would have been in Mr. the Prime Minister more than in anyone else in the world. I hold too much respect and affection for that worthy and respectable magistrate to ever wish to compromise him in the slightest way, or to expose him to the distress of possibly displeasing many people by supporting my plan, or perhaps even being forced to condemn it against his own wishes. You may be certain that, having thought long and carefully about matters of governance, I am well aware of the importance of those subtle political maxims that a wise magistrate is obliged to follow, even if he himself sees all their frivolity.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Rispondendo con sincerità alla vostra ultima lettera, affidando il mio [cuore](/positions/fideism) e il mio destino nelle vostre mani, credo, signore, di dimostrarvi un segno di stima e fiducia meno ambiguo di lodi e complimenti che spesso derivano dalla adulazione piuttosto che dall’amicizia.
+
+Sì, signore: avendo notato le somiglianze tra la forma di governo che deriverebbe dai miei principi e quella effettivamente esistente nella nostra repubblica, mi sono proposto di dedicarle il mio “Discorso sull’origine e i fondamenti dell’ineguaglianza”. Ho colto questa opportunità come un modo eccellente per onorare la mia patria e i suoi capi con lodi sincere; per cercare, se possibile, di insediare nei cuori delle persone quell’ideale di felicità che al momento appare soltanto sulle medaglie, e allo stesso tempo per incoraggiarle a rendersi felici seguendo l’esempio di un popolo che lo è o che potrebbe esserlo senza modificare minimamente le proprie istituzioni. In questo, come al solito, non cerco tanto di piacere quanto di essere utile; non conto in particolare sul voto di chiunque appartenga a un partito specifico, poiché seguendo soltanto le regole della giustizia e della ragione, difficilmente posso aspettarmi l’approvazione di coloro che adottano altre direttive. E se questa considerazione non mi ha trattenuto, è perché in ogni caso il biasimo dell’universo intero mi colpisce molto meno dell’ammissione della mia coscienza. Ma dite voi: dedicare un libro alla repubblica. Questo non si è mai fatto prima. Meglio ancora, signore: nelle cose lodevoli, è preferibile dare l’esempio piuttosto che riceverlo; e credo di avere motivi più che sufficienti per non imitare nessuno. Quindi la vostra obiezione, in fondo, non è altro che un pregiudizio a mio favore. Poiché da tempo non esistono più azioni cattive da tentare. E, qualunque cosa si possa dire, non si tratta tanto di sapere se una cosa sia stata fatta o meno, quanto di capire se essa sia buona o cattiva in sé. Di questo lascio che siano voi a giudicare. Quanto a ciò che aggiungete, ossia che, dopo quanto è accaduto, simili innovazioni possano essere pericolose. Questa è senz’altro una grande verità. Ma da questo punto di vista, ritengo che la mia azione sia ancora più appropriata. Poiché i miei elogi sono rivolti ai magistrati e le mie esortazioni ai cittadini. È giusto che tutto ciò si indirizzi alla repubblica stessa. Per poter parlare a tutti i suoi membri, e per eliminare dalla mia dedica qualsiasi traccia di parzialità. So che ci sono cose che non è opportuno ricordare. E spero che mi riteniate abbastanza saggio da evitarlo. In questo caso, ho tenuto più conto del gusto altrui che del mio. Poiché non credo che sia una politica saggia spingere questa massima fino allo scrupolo. Il ricordo di Erostrato ci insegna che eliminare la libertà di parlare delle cose è un modo pessimo per farle dimenticare. Ma se si fa sì che le persone ne parlino solo con dolore, presto non ne parleranno più affatto.
+In questo secolo prevale una sorta di timida e pusillanime prudenza che, vedendo ovunque degli svantaggi, si limita, per saggezza, a non fare né bene né male; preferisco invece un coraggio generoso che, pur di compiere il bene, sia disposto talvolta a scuotere il meschino giogo della convenienza.
+
+Forse un zelo eccessivo mi spinge ad errare; forse, confondendo i miei errori con verità utili, potrei, con le migliori intenzioni del mondo, fare più male che bene. Non ho nulla da rispondere a questo, se non che una ragione simile dovrebbe indurre ogni uomo a comportarsi rettamente, lasciando l’universo alla discrezione del malvagio e dell’imprudente. Infatti, le obiezioni basate unicamente sulla debolezza umana hanno forza contro chiunque; e nessuno dovrebbe mai essere sicuro di sé stesso, se non si affida alla rettitudine del proprio cuore per verificare la correttezza delle proprie convinzioni. Questo è ciò che posso fare senza temerità: isolato tra gli uomini, privo di qualsiasi pretesa sociale, privo di ogni interesse personale e cercando il mio bene soltanto nel bene altrui, credo di essere almeno esente da quei pregiudizi legati allo status sociale che fanno piegare il giudizio anche dei saggi più equilibrati verso le opinioni che li avvantaggiano. Certo, potrei consultare persone più esperte di me; lo farei volentieri, se non sapessi che il loro interesse mi guiderà sempre più del loro buon senso. In breve, per parlare senza mezzi termini, mi fido ancora di più della mia onestà e del mio disinteresse, piuttosto che delle conoscenze altrui.
+
+Sebbene in generale non dia molta importanza alle etichette relative ai procedimenti e abbia da tempo cercato di liberarmi dal loro peso più che dalla loro utilità, ritengo, come voi, che sarebbe stato opportuno ottenere l’approvazione della repubblica o del consiglio, come avviene comunemente in casi simili. Ero così convinto di ciò che il mio viaggio fu in parte effettuato con l’intenzione di chiedere tale approvazione; tuttavia, dopo poco tempo e alcune osservazioni, compresi che era impossibile ottenerla. Realizzai che chiedere un permesso del genere equivaleva a sperare in un rifiuto, e che quindi la mia iniziativa, che al massimo violava una certa convenienza di cui molti si sono astenuti, sarebbe diventata una disobbedienza condannabile se avessi insistito, o l’errore di uno sciocco se avessi abbandonato il mio progetto. Poiché appresi che, già a maggio dello scorso anno, erano state fatte copie dell’opera e della dedica senza il mio permesso, e che non ero più in grado di impedire che venissero utilizzate in modo improprio, capii anche che non potevo rinunciare al mio progetto senza rischiare che venisse realizzato da altri.
+
+La vostra lettera stessa mi dimostra che provate, proprio come me, tutte le difficoltà che avevo previsto; e voi sapete bene che, rendendo troppo rigidi i requisiti per l’ottenimento di permessi insignificanti, si finisce per incoraggiare le persone a farne a meno. È così che l’eccessiva cautela del cancelliere riguardo alla pubblicazione dei migliori libri ha portato, in definitiva, al fatto che nessun manoscritto venisse più presentato a lui; eppure i libri continuavano ad essere stampati, anche se tale pratica, essendo contraria alle leggi, era effettivamente criminale. Al contrario, una dedica non comunicata rappresenta al massimo un atto di maleducazione; e lontanamente da essere criticabile per la sua natura, tale comportamento è, in realtà, più conforme all’onestà rispetto alle abitudini consolidate. Infatti, c’è qualcosa di vigliacco nel chiedere alle persone il permesso di lodarle, e di indecente nell’accordarlo. Non crediate nemmeno che un tale comportamento sia senza esempi: posso mostrarvi libri dedicati alla nazione francese o al popolo inglese, senza che gli autori abbiano commesso alcun crimine per non aver ottenuto né il consenso della nazione né quello del principe, che sicuramente sarebbe stato loro rifiutato, perché in ogni monarchia, il re vuole essere lo “stato”, lui solo, e non pretende affatto che il popolo abbia alcun ruolo.
+
+Del resto, se avessi dovuto confidarmi di questa faccenda con qualcuno, sarebbe stato certamente il Primo Ministro, piuttosto che chiunque altro al mondo. Onoro e amo troppo quel nobile e rispettabile magistrato per volerlo compromettere in alcun modo, né esporlo al dolore di poter dispiacere a molte persone favorendo il mio progetto, o forse essere costretto a biasimarlo contro la sua stessa volontà. Potete credere che, avendo riflettuto a lungo sulle questioni di governo, non ignoro la forza di queste piccole massime politiche che un saggio magistrato è obbligato a seguire, anche se ne percepisce tutta la frivolezza.
 
 <span class="atom-split" data-atom="026" data-title="(apertura) (parte 26)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
@@ -1219,6 +3565,82 @@ Il faut faire, madame, ce que vous voulez. Les lettres ne seront point envoyées
 Observation
 
 Les lettres adressées à madame d'Épinay ne sont pour la plupart, comme celles à madame de Créqui, datées que du jour de la semaine. Les unes comme les autres, écrites de Paris ou de l'Ermitage, n'avaient pas besoin d'autre indication pour les personnes qui les recevaient. Loin de prétendre avoir toujours rencontré juste en tâchant de réparer les omissions faites, nous convenons, quant à la correspondance avec madame d'Épinay, que cette précision n'était pas possible, parce qu'aucune circonstance de quelque intérêt ne rendait, à l'aide de rapprochements, la recherche facile. Mais cette correspondance finit avec l'année 1757. Elle offre en quelque sorte les pièces justificatives du récit présenté dans le neuvième livre des Confessions. Une partie de ces lettres se trouve dans les Mémoires de madame d'Épinay qui, sans intention, donne de nouvelles preuves de la sincérité de Rousseau.
+
+1755
+
+<span class="qlang-split" data-lang="en"></span>
+
+You will agree that it was impossible for me to obtain the Council’s approval without having my work examined first; and do you really think I am unaware of what such examinations entail, and how much the [pride](/concepts/amour_propre) of even the most well-intentioned censors, as well as the prejudices of the most enlightened individuals, cause them to replace reason with stubbornness and arrogance, leading them to reject excellent works simply because they do not conform to their own way of thinking or have not been contemplated as deeply as by the author? Have I not had countless arguments with my fellow reviewers? Despite being intelligent and honorable people, they always disappointed me with petty tricks that lacked both common sense and any legitimate reason, arising merely from base cowardice or the vanity of wanting to know better than anyone else. I never yielded, because I yield only to reason; the magistrate served as our judge, and it was always proven that the censors were in error. When I replied to the King of Poland, they insisted that I send him my manuscript first and publish it only with his approval—claiming that attacking him publicly, especially given the confidence I displayed in my response, would be a lack of respect toward the queen’s father. They even argued that my own safety required such precautions; but I took no such measures. I did not send my manuscript to the prince; I relied on public honesty, just as I do today, and events have proven that I was right. However, in Geneva, things would not go the same way; the decisions of my censors would be final: I would either be forced to remain silent or be compelled to express the opinions of others under my own name—something I refuse to do. Therefore, based on my experience, I have resolved to be my own sole censor from now on. I could not have a more stringent one, and my principles nor my character require it. Since all those people focus on countless irrelevant matters that concern me not at all, I prefer to rely on that inner, incorruptible judge who never judges anything badly, never condemns anything good, and never deceives when consulted in good faith. I hope you will agree that this judge has performed his duty well in the work in question—a work that everyone will be satisfied with, even though it would have received no approval from anyone else.
+
+You must still realize that the irregularities present in my method are entirely to my disadvantage and to the government’s advantage. If there is anything good in my work, it can be utilized; if there is anything bad, it can be rejected. People may approve of me or condemn me depending on their particular interests or the judgment of the public; they might even ban my book, if both the author and the state were unfortunate enough for the Council to disapprove of it—things that would no longer be possible once the dedication had been approved. In short, if I have done my duty towards my country well, its glory will be my reward; if I have failed, the blame shall fall solely upon me. Can a good citizen hesitate to take such risks?
+
+I set aside all personal considerations that might affect me, for they must never enter into the motives of a good man who works for the public good. If detachment of a heart that holds no regard for glory, wealth, or even life can make one worthy of proclaiming the truth, then I dare believe I am called to this [sublime](/concepts/sublime) vocation: it is to do good to others to the best of my ability that I refrain from accepting anything from them, and that I cherish my poverty and independence. I do not suppose such sentiments could ever harm me in the eyes of my fellow citizens; and without anticipating or fearing it, I prepare my soul for this final trial—the only one to which I might be susceptible. Believe me, I wish to remain honest, true, and a devoted citizen until my death; and if it were necessary for me to leave the sweet embrace of my homeland at this time, I would thus crown all the sacrifices I have made for the love of humanity and truth with that which costs my heart most, and which therefore honors me the most.
+
+You will easily understand that this letter is intended solely for you: I could have written you another one, one that would be visible to others, in a very different style; but besides the fact that such informal addresses are contrary to my nature, they would also be contrary to what I know of yours. For this reason, I will always be grateful for having had this opportunity to speak to you without reservation and to trust in the discretion of a kind man who holds me in friendship. Goodbye, sir; I embrace you wholeheartedly, with tenderness and respect[546].
+
+Letter LXXVII – To Mr. Count of Lastic
+
+(Included in the previous one)
+
+[548]
+
+Paris, December 20, 1754.
+
+Although I do not have the honor of being known to you, sir, I hope that since I am offering you both an apology and some money, my letter will not be received in a negative manner.
+
+I have learned that Mademoiselle de Cléry sent a basket from Blois to a kind old woman named Madame Le Vasseur, who is so poor that she lives with me; that this basket contained, among other things, a pot of butter weighing twenty livres; that somehow all of this ended up in your kitchen; that when the old woman found out about it, she simply sent her daughter to you along with a letter explaining the situation, asking you to return her butter or pay its cost; and that after you and your wife mocked her, as is customary, you simply ordered your servants to drive her away.
+
+I tried to comfort that distressed woman by explaining to her the rules of high society and proper education; I showed her that it would be pointless to have servants if their only purpose was to drive away the poor when they came to claim what was rightfully theirs. By demonstrating how justice and humanity were merely empty words in such contexts, I finally made her understand that she was far too honored for a count to have eaten her butter. Therefore, sir, she asks me to convey to you her gratitude for the honor you have done her, her regret for the inconvenience she may have caused you, and her wish that her butter had tasted good to you. Should it have cost you anything to have the package delivered to her, she is willing to repay you fairly. I am awaiting your orders only to carry out her wishes; I beg you to accept the sentiments with which I have the honor to be yours, etc. [549]
+
+Letter LXXVII – To Madame d’Épinay
+
+[550]
+
+That Thursday morning (December 20, 1754).
+
+Madam, you must do as you wish. The letters will not be sent, and now Monsieur the Count of Lastic can steal butter from all the good ladies in Paris without my complaint. Let’s drop Monsieur the Count and talk about your health—there is no need to risk it over such a trivial matter. As for Monsieur Tronchin’s prescriptions, your experience makes me highly skeptical; he has such a reputation that he could very well be a quack. Nevertheless, I must admit that I still trust him somewhat, and I attribute any possible misunderstanding to the inconvenience of distance. In any case, I greatly approve of your decision to stick to his treatment plan and avoid using his medicines. Generally speaking, that is all one should ever do with medicine—choose a regimen and stick to it. Please let me know how you are, as well as how Madame d’Esclavelles is. Goodbye, madam.
+
+Observation
+
+The letters addressed to Madame d’Épinay, like those to Madame de Créqui, were for the most part dated only with the day of the week. Whether written from Paris or from the Ermitage, neither set of letters required any additional indication for those who received them. Far from claiming to have always been able to determine the exact dates by attempting to fill in any omissions, we acknowledge that, in the case of correspondence with Madame d’Épinay, such precision was simply impossible, since no circumstances of any relevance would have made it possible to identify the dates through comparison. However, this correspondence came to an end in the year 1757. It serves, in a way, as evidence to support the account presented in the ninth book of the Confessions. A portion of these letters can be found in Madame d’Épinay’s Memoirs, which, unintentionally, provide further proof of Rousseau’s sincerity.
+
+1755
+
+<span class="qlang-split" data-lang="it"></span>
+
+Converrete che non avrei potuto ottenere l’approvazione del Consiglio senza che il mio lavoro venisse esaminato; e pensate davvero che io ignori cosa siano questi esami, e quanto l’[orgoglio](/concepts/amour_propre) dei censori, per quanto benintenzionati, e i pregiudizi delle persone più illuminate li inducano ad essere ostinati e presuntuosi al posto della ragione, facendoli cancellare cose eccellenti soltanto perché non sono in linea con il loro modo di pensare o perché non le hanno meditate con la stessa profondità dell’autore? Non ho forse avuto mille discussioni con i miei censori? Pur essendo persone intelligenti e oneste, mi hanno sempre deluso con meschini cavilli che non avevano alcun fondamento logico, ma derivavano soltanto da una vile pusillanimità o dalla vanità di voler sapere tutto meglio degli altri. Non ho mai ceduto, perché io cedo solo alla ragione; il magistrato è stato il nostro giudice, e si è sempre rivelato che i censori avevano torto. Quando risposi al re di Polonia, secondo loro avrei dovuto inviargli il mio manoscritto e pubblicarlo soltanto con il suo consenso: sostenevano che sarebbe stato un segno di mancanza di rispetto verso il padre della regina attaccarlo pubblicamente, soprattutto con la fierezza che dimostravo nella mia risposta; aggiungevano anche che la mia sicurezza richiedeva delle precauzioni. Ma io non ne ho preso alcuna; non ho inviato il mio manoscritto al principe; mi sono fidato dell’onestà pubblica, proprio come faccio ancora oggi, e gli eventi hanno dimostrato che avevo ragione. Ma a Ginevra le cose andrebbero diversamente: la decisione dei miei censori sarebbe irrevocabile; mi troverei costretto a tacere o ad esprimere il parere di altri in mio nome. E io non voglio fare né l’uno né l’altro. Quindi, sulla base della mia esperienza, ho preso la ferma decisione di essere da ora in poi il mio unico “censore”: non ne avrò mai uno più severo, e i miei principi non ne hanno bisogno. Poiché tutte queste persone si basano sempre su mille considerazioni estranee a cui io non do alcuna importanza, preferisco affidarmi a quel giudice interiore e incorruptibile che non giudica nulla di male né approva nulla di buono, e che non inganna mai quando viene consultato con sincerità. Spero che concorderete sul fatto che questo giudice abbia svolto bene il suo compito nell’opera in questione. Un’opera che tutti saranno soddisfatti di, anche se probabilmente nessuno l’avrebbe approvata.
+
+Dovete ancora riconoscere che l’irregolarità che si può trovare nel mio metodo è totalmente a mio svantaggio e a vantaggio del governo. Se c’è qualcosa di positivo nel mio lavoro, si potrà approfittarne; se c’è qualcosa di negativo, si potrà respingerlo; si potrà approvare o criticarmi in base agli interessi particolari o al giudizio del pubblico. Si potrebbe persino proibire il mio libro, se l’autore e lo Stato avessero la sfortuna che il Consiglio non ne fosse soddisfatto: tutte cose che non sarebbero più possibili, una volta approvata la dedica. In breve, se ho detto bene, l’onore sarà della mia patria; se ho detto male, il biasimo ricadrà solo su di me. Un buon cittadino può forse esitare ad affrontare tali rischi?
+
+Rimuovo tutte quelle considerazioni personali che potrebbero riguardarmi, poiché non dovrebbero mai entrare nei motivi di un uomo onesto che lavora per il bene pubblico. Se l’indipendenza di un [cuore](/positions/fideism) che non desidera né la gloria, né la fortuna, né persino la vita può renderlo degno di annunciare la verità, oso credere di essere chiamato a questa [sublime](/concepts/sublime) vocazione: è per fare del bene agli uomini, nel limite delle mie possibilità, che mi astengo dal riceverne da loro e che amo la mia povertà e la mia indipendenza. Non voglio nemmeno supporre che tali sentimenti possano mai nuocermi presso i miei concittadini; e sono pronto, senza prevederlo né temerlo, a affrontare questa ultima prova, l’unica alla quale possa essere sensibile. Credetemi: desidero rimanere onesto, vero e un cittadino devoto fino alla morte; e se in questa occasione dovesse toccarmi di lasciare la dolce dimora della patria, allora coronerò così i sacrifici che ho fatto per l’amore degli uomini e della verità con quello che costa di più al mio cuore, e che, di conseguenza, mi onora di più.
+
+Comprenderete facilmente che questa lettera è destinata esclusivamente a voi: avrei potuto scrivervene un’altra, di stile molto diverso, in modo che venisse letta da altri; ma, oltre al fatto che questo tipo di lettere non si addica al mio carattere, esse non sarebbero certo adatte nemmeno al vostro. Mi sarà quindi per sempre grato aver avuto l’opportunità di aprirmi con voi senza riserve e affidarmi alla discrezione di un uomo onesto che mi tiene in grande stima. Buongiorno, signore; vi abbraccio con tutto il mio cuore, con affetto e rispetto[546].
+
+Lettera LXXVII – Al signor conte di Lastic
+
+(Incluso nel paragrafo precedente)
+
+[548]
+
+Parigi, 20 dicembre 1754.
+
+Senza l’onore di essere conosciuto da voi, signore, spero che, offrendovi scuse e denaro, la mia lettera non venga ricevuta in modo negativo.
+
+Ho appreso che la signorina de Cléry ha inviato da Blois un cesto a una buona vecchia donna di nome Madame Le Vasseur, così povera da abitare presso di me; che quel cesto conteneva, tra le altre cose, un vaso di burro del peso di venti libbre; che tutto ciò è arrivato, chissà come, nella vostra cucina; che la buona vecchia, venutone a conoscenza, ha avuto la semplicità di mandarvi sua figlia, insieme alla lettera in cui vi informava della situazione, per chiedervi indietro il suo burro o il prezzo che aveva pagato; e che voi e vostra moglie, dopo averla presa in giro, come è consuetudine, avete ordinato ai vostri domestici di cacciarla via.
+
+Ho cercato di consolare quella buona donna angosciata, spiegandole le regole del mondo elegante e dell’educazione raffinata; le ho dimostrato che non ha alcun senso avere servitori se non per scacciare i poveri quando vengono a reclamare ciò che gli appartiene; e, mostrandole quanto siano banali termini come “giustizia” e “umanità”, alla fine le ho fatto capire che è davvero troppo onorata perché un conte abbia mangiato il suo burro. Pertanto, signore, mi incarica di esprimere la sua gratitudine per l’onore che le avete reso, il suo rammarico per l’intrusione che le ha causato, e il desiderio che il suo burro vi sia piaciuto. Se per caso vi è costato qualcosa il trasporto del pacco indirizzato a lei, si offre di rimborzarvi, come è giusto. Aspetto soltanto i vostri ordini per attuare le sue intenzioni e vi supplico di accettare con favore i sentimenti con cui ho l’onore di essere. [549]
+
+Lettera LXXVII – Alla signora d’Épinay
+
+[550]
+
+Quel giovedì mattina (20 dicembre 1754).
+
+Signora, bisogna fare ciò che desiderate voi. Le lettere non verranno inviate, e il conte di Lastic potrà ora rubare il burro a tutte le brave donne di Parigi senza che io me ne lamenti. Lasciamo quindi da parte il conte e parliamo della vostra salute, che non dovrebbe essere messa a rischio per una cosa così insignificante. Non so che dirvi riguardo alle prescrizioni del signor Tronchin: la sua esperienza le rende estremamente sospette. Ha una tale reputazione che potrebbe benissimo essere un ciarlatano. Tuttavia devo ammettere che ci tengo ancora a quelle prescrizioni, e attribuisco eventuali malintesi al disagio derivante dalla distanza. Comunque sia, approvo molto la decisione che avete preso di attenervi al suo regime alimentare e di non usare le sue medicine. In generale, questa dovrebbe essere l’unica utilità della medicina. Ma bisogna scegliere un regime alimentare e attenervisi rigorosamente. Fatemi sapere come state voi e come sta la signora d’Esclavelles. Addio, signora.
+
+Osservazione.
+
+Le lettere indirizzate a madame d’Épinay, come quelle a madame de Créqui, sono per lo più datate soltanto con il giorno della settimana in cui furono scritte. Sia l’una che l’altra, redatte a Parigi o all’Ermitage, non avevano bisogno di alcun’altra indicazione per chi le riceveva. Lontani dal pretendere di aver sempre azzeccato nel tentativo di correggere eventuali omissioni, riconosciamo che, per quanto riguarda la corrispondenza con madame d’Épinay, tale precisione fosse impossibile, poiché nessuna circostanza di qualche rilievo rendeva possibile individuare facilmente le lettere attraverso confronti. Tuttavia, questa corrispondenza terminò nell’anno 1757. Essa costituisce, in un certo senso, la prova concreta delle dichiarazioni contenute nel nono libro delle Confessioni. Una parte di queste lettere si trova nei Mémoires di madame d’Épinay, i quali, senza alcuna intenzione particolare da parte dell’autrice, forniscono ulteriori prove della sincerità di Rousseau.
 
 1755
 
@@ -1290,6 +3712,142 @@ Qui jamais ouït dire que le droit des gens, qu'on se vante si fort de respecter
 
 On dit, il est vrai, que cette occasion ne sera qu'un prétexte, à la faveur duquel on me punira de mon mépris pour la musique française. Comment, madame, punir un homme de son mépris pour la musique ! Ouites-vous jamais rien de pareil ? Une injustice s'excuse-t-elle par une injustice encore plus criante ? et dans le temps de cette horrible fermentation, digne de la plume de Tacite, n'eût-il pas été moins odieux de m'opprimer sur ce grave sujet, que d'y revenir, après coup, sur un sujet encore moins raisonnable ?
 
+<span class="qlang-split" data-lang="en"></span>
+
+Letter LXXIX – To Mr. Vernes
+
+Letter LXXX – To Madame d’Épinay
+
+Letter LXXXI – To the Same One
+
+Letter LXXXII – To Mr. Vernes
+
+Letter LXXXIII – To Madame la Marquise de Créqui
+
+Letter LXXXIV – To Mr. de Voltaire
+
+Letter LXXXV – To the Same One
+
+Letter LXXXVI – To Madame d’Épinay
+
+Letter LXXXVII – To the Same One
+
+Letter LXXXVIII – To Mr. de Boissi
+
+Letter LXXXIX – To Mr. Vernes
+
+Letter XC – To an Anonymous Individual
+
+Letter XCI – To Mr. Count of Tressan
+
+Letter XCII – To Mr. d’Alembert
+
+Correspondence Table
+
+Letter LXXX – To Madame d’Épinay
+
+... 1755.
+
+For God’s sake, madam, do not send me Mr. Malouin[553] anymore. I am not in good enough health to enjoy listening to him chatter. I trembled all day yesterday at the thought of his arrival; please free me from the fear of perhaps having to hurt a decent man whom I love—and who has come to me through your means. And do not join those annoying friends who, in their attempt to make me live according to their ways, will cause me to die of sorrow. Truly, when I am ill, I would rather be at the bottom of a desert.
+
+Another thing: overwhelmed by incessant visits and the presence of unpleasant people, I breathed a sigh of relief when Mr. de Saint-Lambert arrived; I confided in him about my troubles with that kind of trust I first place in those I esteem and respect. Surely he took it as pertaining to himself. At least, I must believe so, judging by what he said to me when he left and what he had his lackey tell me. In this way, I have the misfortune of bringing around me everything I wish to escape, and keeping away everything I wish to see—which is certainly neither very fortunate nor very clever. Besides, I haven’t even heard anything about Diderot. What a perfect match for my solitude, and for never seeing anyone but you! Goodbye, madam. I send my regards regarding the health of Grimm and yours. I’m afraid you might guess too much about my own condition from the tone of this letter. I had a very bad night; my bile was in turmoil, as you can see. I feel better this morning. As I write to you, everything is gradually returning to calm.
+
+Letter LXXXII – To Mr. Vernes
+
+Paris, July 6, 1755.
+
+Here, sir, is a lengthy interruption; but since I am well aware of my faults, and you are certainly familiar with our agreement, I have nothing new to say as an excuse. I would rather resume our correspondence without further delay than to repeat my apologies or offer futile excuses every time.
+
+I suppose you have already seen the manuscript for which you had shown such eagerness. Some copies are in the hands of Mr. Chappuis. In Geneva, I have received so many expressions of honesty from everyone that I would not be able to give preference to one over another without simultaneously causing offense by excluding others; yet there is one particular expression of honesty that only a friend could offer[556], and I have every right to expect it from those who have shown me such loyalty as you have. I cannot express in words the joy I felt when I learned that the Council had approved, on behalf of the republic, the dedication of this work; I fully appreciate all the indulgence and generosity contained in that decision[557]. I have always hoped that no one would fail to recognize the sentiments that inspired this letter, and that it would be welcomed by everyone who shares those sentiments; therefore, I count on your support, as well as that of your respected father and all my fellow citizens. I care very little what the rest of Europe might think about it. Moreover, terrible rumors had been spread about the severity of its content; yet my enemies did not hesitate to involve me in conflicts with the government. Fortunately, I was not condemned without being given a chance to present my case, and after examination, my entry was permitted without any difficulties.
+
+Tell me how your journal is progressing. I have not forgotten my promise: my copy has been pressing upon me so heavily lately that it leaves me no time to work. Moreover, I would not want to give you anything less than my best effort. But trust me, I will keep my word. At the very worst, next spring I will personally deliver to you what I could not send earlier. If I know your [heart](/positions/fideism) well, I believe you won’t be offended by the delay.
+
+Good day, sir; prepare yourself to love me more than ever, for I have made up my mind to force you to do so upon my return.
+
+Letter LXXXIII – To Madame la Marquise de Créqui
+
+Épinay, September 8, 1755.
+
+I see, madam, that the kindness you show me causes you some concern regarding the fate that certain people—at least those who are extremely indiscreet—like to threaten me with. Please do not let my tranquility alarm you if someone were to inform you that my arrest is imminent. If I do nothing to prevent it, it is because, having done nothing to deserve it, I would consider it an offense to the hospitality of the French nation and to the fairness of the prince who governs it to take precautions against what might be an injustice.
+
+If it is claimed that I wrote on a topic of political law proposed by the Academy of Dijon, I was authorized to do so by the program; and since proposing such a topic does not constitute any crime for an academy, I see no reason why addressing it should be considered a crime against me. It is true that I had to confine my remarks within the bounds of a general and purely philosophical discussion, without mentioning any specific individuals or applying those ideas to practical situations; but could you truly believe, madam, someone whom I have the honor of knowing, would be capable of forgetting such considerations for a moment? Even if common prudence would not allow me any leeway in this regard, I too much cherish honesty and truth to tolerate slander or satire. And if I take so few precautions in my conduct, it is because my conscience always assures me that I need none at all. Therefore, I implore you to be fully assured that nothing ever will come from my pen that could put me in any danger under a just government.
+
+When I might be mistaken about the usefulness of my maxims, do not we in France have prescribed forms for the publication of works that are to be published there? And when I might freely deviate from these forms, would not my mere respect for the law be enough to prevent me from doing so? You know, madam, how much scrupulous care I have always taken in this regard; you are well aware that even my most daring writings, without exception of that terrible Letter on Music, have never seen print unless they had been approved and permitted. It is in this way that I intend to continue throughout my life; and never, during my stay in France, will any of my works be published there without the consent both of myself and of the authorities[558].
+
+But if I know what my duties are, I am also aware of my rights: I am well aware that by faithfully obeying the laws of the country in which I live, I owe no account to anyone regarding my religion or my feelings, except to the officials of the state of which I have the honor to be a member. To demand that whenever one enters a new state, one must adopt all its principles, and that when traveling from one country to another, one must change one’s inclinations and beliefs, just as one changes one’s language and place of residence, would be to establish a completely new law. Everywhere one is, one must respect the sovereign and submit to the law; but one owes them nothing more, and one’s heart must always remain loyal to one’s homeland. So then, if it were true that, with the welfare of my country in mind, I had adopted principles more suitable for a republican government than for a monarchical one, where would my crime lie?
+
+Who has ever heard it said that the rights of man, of which so much is boasted in France as being respected, allow a foreigner to be punished for having dared, in a foreign country, to prefer the government of his own country to any other?
+
+It is indeed said that this occasion will merely be a pretext for punishing me for my disdain towards French music. How, madam, can one punish a man for his contempt for music! Have you ever heard of such a thing? Can an injustice be justified by an even more blatant injustice? And during this horrible “fermentation,” worthy of Tacite’s pen, wouldn’t it have been just as abhorrent to oppress me on this serious matter as to bring it up again later, on a subject that is even less reasonable?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lettera LXXIX – A Monsieur Vernes
+
+Lettera LXXX – Alla signora d’Épinay
+
+Lettera LXXXI – Alla stessa persona
+
+Lettera LXXXII – A Monsieur Vernes
+
+Lettera LXXXIII – Alla marchesa di Créqui
+
+Lettera LXXXIV – A Monsieur de Voltaire
+
+Lettera LXXXV – Allo stesso
+
+Lettera LXXXVI – Alla signora d’Épinay
+
+Lettera LXXXVII – Alla stessa persona
+
+Lettera LXXXVIII – A Monsieur de Boissi
+
+Lettera LXXXIX – A Monsieur Vernes
+
+Lettera XC – A un anonimo
+
+Lettera XCI – Al conte di Tressan
+
+Lettera XCII – A Monsieur d’Alembert
+
+Tabella della corrispondenza
+
+Lettera LXXX – Alla signora d’Épinay
+
+... 1755.
+
+Per Dio, signora, non mandatemi più il signor Malouin[553]. Non sto abbastanza bene per poter ascoltare con piacere i suoi discorsi. Ieri ho tremato tutto il giorno all’idea che arrivasse; liberatemi dalla paura di dover forse costringere un uomo onesto e che amo, mandatomi da voi, ad agire contro la mia volontà. E non unitevi a quegli importuni amici che, per farmi vivere secondo i loro modi, mi faranno morire di dolore. Onestamente, quando sono malata, vorrei trovarmi nel cuore del deserto.
+
+Un’altra cosa: sopraffatto da visite importune e da persone sgradevoli, respiravo di sollievo quando arrivava il signor de Saint-Lambert; gli raccontavo le mie difficoltà con quella sorta di fiducia che provo inizialmente verso le persone che stimo e rispetto. Non avrà forse preso tutto questo per sé? Almeno, devo crederlo, a giudicare da ciò che mi ha detto quando si è congedato e da quanto gli ha fatto dire dal suo lacchè. Così, ho la sfortuna di avere intorno a me tutto ciò che vorrei evitare, e di allontanare tutto ciò che vorrei vedere. Certo, questo non è affatto fortunato né abile da parte mia. Del resto, non ho nemmeno sentito parlare di Diderot. Che strana vocazione: quella di vivere nella solitudine e di vedere solo voi! Buongiorno, signora. Vi mando notizie sulla salute di Grimm e sulla vostra. Temo che possiate indovinare troppo facilmente lo stato della mia salute dal tono di questa lettera. Ho trascorso una brutta notte; la bile, come potete vedere, ha peggiorato le cose. Questa mattina sto meglio. Vi scrivo mentre tutto inizia lentamente a calmarsi.
+
+Lettera LXXXII – A Monsieur Vernes
+
+Parigi, 6 luglio 1755.
+
+Ecco, signore, una lunga interruzione nella nostra corrispondenza; ma poiché non ignoro i miei errori e poiché voi conoscete il nostro accordo, non ho nulla di nuovo da dirvi per scusarmi. Preferisco semplicemente riprendere la nostra comunicazione, piuttosto che dover ripetere ogni volta le mie scuse o le mie inutili giustificazioni.
+
+Suppongo che abbiate già visto il testo per il quale avevate mostrato tanta fretta di riceverlo. Ne esistono alcune copie in possesso del signor Chappuis. A Ginevra ho ricevuto così tante manifestazioni di onestà da parte di tutti, che non potrei preferire nessuno senza al contempo offendere altri; tuttavia, ci sarebbe da rubare al signor Chappuis un’onestà di cui solo l’amicizia è degna[556], e ho qualche diritto di aspettarmela da coloro che me ne hanno dato tante prove, proprio come da voi. Non riesco a esprimere la gioia con cui ho appreso che il Consiglio ha approvato, a nome della repubblica, la dedica di quest’opera; percepisco perfettamente tutta la tolleranza e la gentilezza contenute in questa decisione[557]. Speravo sempre che nessuno potesse negare i sentimenti che hanno ispirato questa lettera, e che fosse accettata da tutti coloro che li condividono; quindi conto sul vostro voto, su quello di vostro rispettabile padre e di tutti i miei buoni concittadini. Non mi interessa affatto ciò che ne penserà il resto d’Europa. Del resto, si era cercato di diffondere voci terribili sulla violenza di quest’opera; i miei nemici non hanno avuto bisogno di crearmi problemi con il governo. Fortunatamente, nessuno mi ha condannato senza averla letta, e, dopo l’esame, è stata permessa la sua pubblicazione senza alcuna difficoltà.
+
+Ditemi notizie del vostro giornale. Non ho dimenticato la mia promessa: da un po’ di tempo, la mia copia mi assilla così tanto che non mi lascia il tempo di lavorare. Inoltre, non vorrei darvi nulla che non potessi fare meglio. Ma manterrò la mia parola; contateci. Nel peggiore dei casi, vi porterò personalmente, la prossima primavera, ciò che non sarei riuscito a inviarvi prima. Se conosco bene il vostro [cuore](/positions/fideism), credo che non vi dispiacerà questo ritardo.
+
+Buongiorno, signore; si prepari a amarmi più che mai, perché ho deciso con fermezza di costringervi a farlo al mio ritorno.
+
+Lettera LXXXIII – Alla marchesa di Créqui
+
+Épinay, 8 settembre 1755.
+
+Vedo, signora, che la benevolenza di cui mi onorate vi causa preoccupazione riguardo al destino di cui alcuni, almeno molto indiscreti, amano minacciarmi. Per favore, non lasciate che la mia tranquillità vi allarmi, anche se vi venisse annunciata la mia imminente detenzione. Se non faccio nulla per evitarla, è perché, non avendo fatto nulla per meritarla, crederei di offendere l’ospitalità della nazione francese e la giustizia del principe che la governa, prendendo precauzioni contro un’ingiustizia che forse non si verificherà mai.
+
+Se ho scritto, come si sostiene, su una questione di diritto politico proposta dall’Accademia di Digione, ero autorizzato a farlo dal programma stabilito; e poiché non è considerato un crimine da parte di un’accademia proporre tale questione, non vedo perché dovrebbe essere considerato un crimine risolverla. È vero che ho dovuto limitarmi a una discussione generale e puramente filosofica, senza fare riferimento a persone specifiche né applicare concetti concreti; ma potreste davvero credere, signora, voi di cui ho l’onore di conoscervi, che io possa aver dimenticato tutto questo per un momento? Anche se la più elementare prudenza mi avesse vietato qualsiasi libertà in questo senso, amo troppo la franchezza e la verità per non detestare i libelli e la satira; e se metto così poca cautela nel mio comportamento, è perché il mio cuore mi dice sempre che non ne ho bisogno. Pertanto, vi prego di essere assolutamente certa che nulla mai uscirà dalla mia penna che possa espormi a qualsiasi pericolo sotto un governo giusto.
+
+Quando sbaglierò riguardo all’utilità delle mie massime, in Francia non esistono forse forme prescritte per la pubblicazione degli scritti che vi vengono fatti uscire? E quando potessi allontanarmi impunemente da queste norme, il solo rispetto che ho per le leggi non basterebbe forse a impedirmelo? Signora, sapete quanto io abbia sempre prestato attenzione a questo aspetto; non ignorate certo che i miei scritti più audaci, senza eccezione di quella terribile “Lettera sulla musica”, sono mai stati pubblicati se non con l’approvazione e il permesso delle autorità competenti. Così continuerò a comportarmi per tutta la vita; e mai, durante il mio soggiorno in Francia, nessuno dei miei scritti verrà pubblicato senza il consenso sia mio che di un funzionario legale[558].
+
+Ma se so quali sono i miei doveri, non ignoro nemmeno quali siano i miei diritti: so che obbedendo fedelmente alle leggi del paese in cui vivo, non devo rendere conto a nessuno della mia religione o dei miei sentimenti, ma soltanto ai magistrati dello stato di cui ho l’onore di essere membro. Sarebbe stabilire una legge davvero nuova voler che, ogni volta che si entra in un nuovo paese, si debbano adottarne tutte le norme e i principi; sarebbe come cambiare inclinazioni, principi, lingua e abitazione a seconda del luogo in cui ci si trova. Ovunque si sia, bisogna rispettare il sovrano e sottomettersi alla legge; ma non si deve loro nulla di più, e il cuore deve sempre essere fedele alla patria. Quindi, se fosse vero che, mirando al bene della mia patria, avessi adottato in paesi stranieri principi più adatti al governo repubblicano che a quello monarchico, qual sarebbe il mio crimine?
+
+Chi mai ha sentito dire che il diritto internazionale, di cui in Francia si parla con tanto orgoglio come di una norma rispettata, permetta di punire un straniero per aver osato, in un paese straniero, preferire il governo del proprio paese a qualsiasi altro?
+
+Si dice, è vero, che questa occasione non sarà altro che un pretesto per punirmi del mio disprezzo per la musica francese. Come si può, signora, punire una persona per il suo disprezzo per la musica! Avete mai sentito parlare di qualcosa del genere? Si può giustificare un’ingiustizia con un’ingiustizia ancora più evidente? E in questo periodo orribile, degno della penna di Tacite, non sarebbe stato meno odioso opprimermi su questa questione grave, che tornarci sopra, in un secondo momento, su un argomento ancora meno ragionevole?
+
 <span class="atom-split" data-atom="028" data-title="(apertura) (parte 28)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Quant à ce que vous me dites, madame, qu'il n'est pas question du bien ou du mal qu'on fait, mais seulement des amis ou des ennemis qu'on a, malgré la mauvaise opinion que j'ai de mon siècle, je ne puis croire que les choses en soient encore tout-à-fait à ce point. Mais, quand cela serait, quels ennemis puis-je avoir ? Content de ma situation, je ne cours ni les pensions, ni les emplois, ni les honneurs littéraires. Loin de vouloir du mal à personne, je ne cherche pas même à me venger de celui qu'on me fait. Je ne refuse point mes services aux autres, et ne leur en demande jamais. Je ne suis point flatteur, il est vrai ; mais aussi je ne suis pas trompeur, et ma franchise n'est point satirique : toutes personnalités odieuses sont bannies de ma bouche et de mes écrits ; et si je maltraite les vices, c'est en respectant les hommes.
@@ -1321,6 +3879,70 @@ Convenez-en, monsieur, s'il est bon que les grands génies instruisent les homme
 Le peuple reçoit les écrits des sages pour les juger, non pour s'instruire. Jamais on ne vit tant de Dandins. Le théâtre en fourmille, les cafés retentissent de leurs sentences, ils les affichent dans les journaux, les quais sont couverts de leurs écrits, et j'entends critiquer l’Orphelin, parce qu'on l'applaudit, à tel grimaud si peu capable d'en voir les défauts, qu'à peine en sent-il les beautés.
 
 Recherchons la première source des désordres de la société, nous trouverons que tous les maux des hommes leur viennent de l'erreur bien plus que de l'ignorance, et que ce que nous ne savons point nous nuit beaucoup moins que ce que nous croyons savoir. Or quel plus sûr moyen de courir d'erreurs en erreurs que la fureur de savoir tout ? Si l'on n'eût prétendu savoir que la terre ne tournait pas, on n'eût point puni Galilée pour avoir dit qu'elle tournait. Si les seuls philosophes en eussent réclamé le titre, l’Encyclopédie n'eût point eu de persécuteurs. Si cent mirmidons n'aspiraient à la gloire, vous jouiriez en paix de la vôtre, ou du moins vous n'auriez que des rivaux dignes de vous.
+
+<span class="qlang-split" data-lang="en"></span>
+
+As for what you are telling me, madam—that it is not about the good or evil one does, but merely about the friends or enemies one has—I, despite my negative view of my own century, cannot believe that things have really reached such a state. But even if that were true, what enemies could I possibly have? Content with my situation, I do not pursue pensions, jobs, or literary honors. Far from wishing anyone harm, I do not even seek to take revenge for the wrongs done to me. I do not refuse to help others, nor do I ever ask for anything in return. It is true that I am not flattering; but I am also not deceitful, and my frankness is never meant as satire. All detestable characters are kept out of my words and writings; and when I criticize vices, it is always with respect for human beings.
+
+Therefore, madam, do not worry about me, for I fear nothing and have nothing to fear. If my work were judged solely on the base of the slanderous rumors that are being spread, I must admit that I would be in great danger; but in a wise government, people’s fates are not decided so lightly. I am certain that I have nothing to fear, as long as one judges me only after reading what I have written. My sentiments, my conduct, and the justice of the king are the safeguards upon which I rely. I remain in the heart of Paris, enjoying the safety that belongs to an innocent person, and under the protection of laws that I have never violated. The cries of those who seek to incite fear will be just as ignored as they have always been. If I am in error, perhaps I will be refuted; perhaps even if I am right. But a man without any reproaches will not be treated like a scoundrel simply for having honored his country and for stating that the French do not sing well. Finally, even if some misfortune were to happen to me—a misfortune that honesty prevents me from anticipating—I would hardly regret having judged the government under which I lived more favorably than those who seek to frighten me.
+
+With all due respect, etc.
+
+Observation
+
+In this highly remarkable letter, Rousseau outlines his principles and portrays his character. Upon examining his conduct impartially, one is forced to acknowledge that all his actions stemmed from those principles—the wisdom of which cannot be disputed—and from that character which he had willingly chosen to distort. Having resolved unswervingly to submit to the laws and respect the sovereign, he expected to enjoy peace under their protection. Yet, to his utter astonishment and profound disruption of his beliefs, despite this supposed right to such safeguards, he found himself accused, persecuted, and condemned. Such injustice, abhorrent in his eyes, inevitably influenced his mindset, and his enemies came to regard what was merely incidental and temporary as something inherent and permanent in his nature.
+
+From this response to Madame de Créqui’s letter, it can be inferred that he must have already begun to cause trouble, and that discussions about him were likely causing concern for his friends.
+
+Letter LXXXIV – To Mr. de Voltaire
+
+Paris, September 10, 1755.
+
+It is my duty, sir, to thank you in every possible way. By offering you a glimpse into my sad reveries, I did not intend to present you with something worthy of you; rather, I sought to fulfill a duty and pay you the respect that we all owe you as our leader. Moreover, deeply grateful for the honor you bring to my country, I share my fellow citizens’ appreciation, and I hope it will only grow greater when they have benefited from the guidance you can offer them. Beautify the refuge you have chosen; enlighten a people worthy of your teachings; and you, who know so well how to depict virtue and freedom, teach us to cherish them both within our own walls and in your writings. Everything that comes into your presence must learn from you the path to glory.
+
+As you can see, I have no desire to restore us to our former state of ignorance and foolishness, although I personally regret greatly whatever little I may have lost as a result. As for you, sir, such a return would be a [miracle](/concepts/miracle)—both immense and utterly harmful. It would belong solely to God to accomplish such a thing, and only the devil could desire it. Therefore, do not attempt to revert to your former state; no one in the world would be less capable of succeeding than you. You have helped us stand upright on our own feet so well that we cannot possibly cease standing on your own.
+
+I acknowledge all the misfortunes that befall famous men in the realm of literature; I even accept all those evils inherent to humanity that seem independent of our vain knowledge. Men have opened up for themselves so many sources of misery that, even when fate diverts one of them, they are hardly less overwhelmed by others. Moreover, within the progress of things, there exist hidden connections that the ordinary person fails to perceive, but which will not escape the discerning eye of a sage who is willing to reflect upon them. It was neither Tereence nor Cicero nor Virgil nor Seneca nor Tacite; it was neither the scholars nor the poets who brought about Rome’s misfortunes and its people’s crimes. But without that slow, insidious poison that gradually corrupted what was perhaps the most vigorous form of government ever recorded in history, neither Cicero nor Lucrace nor Sallustus would have existed, or written their works. The gentle era of Julius Caesar and Tereence presaged the brilliant age of Augustus and Horace—and ultimately, the terrible centuries of Seneca and Nero, Domitian, and Martial. The taste for literature and the arts arises within a people from some internal vice that it only serves to exacerbate; and if it is true that all human progress is harmful to the species—especially those advances in the realm of the mind and knowledge that inflate our pride and multiply our errors—they will inevitably accelerate our misfortunes. Yet there comes a time when the evil has grown so far that precisely those very causes that gave it rise become necessary if we are to prevent it from worsening further. It is like having to leave a thorn in the wound, for fear that removing it would cause the victim to die.
+
+As for me, if I had followed my first vocation and neither read nor written, I would probably have been happier. However, if literature were to be destroyed today, I would be deprived of the only pleasure that remains to me. It is within its embrace that I find solace in all my troubles; it is among those who cultivate it that I taste the sweetness of friendship and learn to enjoy life without fearing death. I owe whatever I am to literature; I even owe you the honor of being known through my writings. But let us consider what is beneficial in our actions and what is true in our writings. Although philosophers, historians, and scholars are needed to enlighten the world and guide its blind inhabitants, if the wise Memnon told me the truth, I do not know of anything more absurd than a people of sages.
+
+“Admit it, sir: if it is indeed beneficial for great geniuses to instruct mankind, then the common people must receive their teachings. But if everyone tries to impart them, who will be willing to listen?” Montaigne said, “Lame people are unfit for physical exercises; and as for mental exercises, those whose minds are ‘lame’ are also incapable of engaging in them.” Yet in this age of knowledge, all we see are people who are themselves unable to learn—trying to teach others how to walk.
+
+The people receive the writings of the wise in order to judge them, not in order to learn from them. Never have there been so many “Dandins” as now. The theaters are filled with their speeches, cafes resound with their remarks; they publish them in newspapers, and the streets are covered with their writings. I hear people criticizing “L’Orphelin”, simply because it is applauded—by people who are so incapable of seeing its flaws that they hardly even perceive its beauties.
+
+Let us seek the root cause of the disorders in society, and we will find that all human misfortunes stem more from error than from ignorance. What we do not know harms us far less than what we believe we know. And what could be a surer way to make mistake after mistake than the obsession with knowing everything? Had people not claimed to know that the earth does not rotate, Galileo would not have been punished for stating the opposite. If only philosophers had claimed that title for themselves, the Encyclopædia would never have faced persecution. If not a hundred people were competing for glory, you could enjoy your own in peace—or at least you would only have rivals worthy of you.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Per quanto riguarda ciò che mi dite, signora, che non si tratta di bene o male compiuti, ma soltanto di amici o nemici che si hanno. Nonostante la cattiva opinione che ho del mio secolo, non posso credere che le cose siano ancora arrivate a tal punto. Ma anche se fosse vero, quali nemici potrei avere? Soddisfatto della mia situazione, non cerco né pensioni, né lavori, né onori letterari. Lontano dall’aver intenzioni negative verso nessuno, non cerco nemmeno di vendicarmi di chi mi fa del male. Non rifiuto mai di aiutare gli altri, e non ne chiedo mai nulla in cambio. Non sono certo un adulatore; ma allo stesso tempo non sono nemmeno ingannevole. La mia franchezza non ha mai intenti satirici: tutte le personalità odiose sono bandite dalla mia bocca e dai miei scritti. E se critico i vizi, è sempre nel rispetto degli uomini.
+
+Pertanto, non temete nulla per me, signora: poiché io non temo nulla e non ho motivo di temere nulla. Se si giudicasse il mio operato in base alle calunnie diffuse, devo ammettere che sarei in grave pericolo; ma in un governo saggio, il destino delle persone non viene deciso così alla leggera. So bene che non ho nulla da temere, se mi si giudica soltanto dopo aver letto ciò che ho scritto. I miei sentimenti, il mio comportamento e la giustizia del re sono le garanzie su cui mi fido: rimango nel cuore di Parigi, nella sicurezza che spetta all’innocenza, sotto la protezione delle leggi che non ho mai violato. Le grida dei calunniatori non verranno ascoltate più di quanto lo siano state in passato. Se ho torto, forse mi si confuterà; forse anche se ho ragione. Ma un uomo irreprensibile non verrà trattato come un malvagio solo perché ha onorato la sua patria e ha detto che i francesi non cantano bene. Infine, anche se potesse accadermi qualche sventura che l’onestà non mi permette di prevedere, avrei difficoltà a pentirmi di aver giudicato il governo sotto cui dovevo vivere in modo più favorevole rispetto alle persone che cercano di spaventarmi.
+
+Con tutto il rispetto, ecc.
+
+Osservazione.
+
+In questa lettera molto significativa, Rousseau esprime i suoi principi e descrive il proprio carattere. Esaminando la sua condotta con imparzialità, si è costretti a riconoscere che tutte le sue azioni derivano da quei principi la cui saggezza non può essere contestata, e da quel carattere che egli stesso aveva cercato di distorcere. In base a questa decisione, dalla quale non si allontanò mai, di sottomettersi alle leggi e di rispettare il sovrano, avrebbe dovuto aspettarsi la tranquillità sotto l’egida del sovrano e delle leggi. Pertanto, fu una sorpresa estremamente dolorosa, e un totale capovolgimento nelle sue idee, scoprire che, nonostante quella protezione di cui credeva di avere diritto, venne poi accusato, perseguitato e condannato. Quest’ingiustizia, così odiosa ai suoi occhi, dovette inevitabilmente influenzare la sua immaginazione; i suoi nemici considerarono quindi come uno stato naturale e costante ciò che in realtà era solo occasionale e passeggero.
+
+Si può presumere, da questa risposta alla lettera di Madame de Créqui, che già allora suscitasse preoccupazioni e che si parlasse di lui in modo da generare ansia nei suoi amici.
+
+Lettera LXXXIV – A Monsieur de Voltaire
+
+Parigi, 10 settembre 1755.
+
+È a me, signore, che spetta ringraziarvi in ogni senso. Offrendovi questa bozza delle mie tristi riflessioni, non ho inteso farvi un dono degno di voi, ma semplicemente adempiere a un dovere e rendervi omaggio, come tutti noi siamo tenuti a fare verso il nostro capo. Sensibile inoltre all’onore che fate alla mia patria, condivido la riconoscenza dei miei concittadini, e spero che essa aumenti ancora di più quando avranno tratto beneficio dalle istruzioni che potete loro fornire. Abbellite l’asilo che vi siete scelto; illuminate un popolo degno delle vostre lezioni; e voi, che sapete descrivere così bene le virtù e la libertà, insegnateci ad amarle sia nei nostri cuori che nelle nostre parole. Tutto ciò che vi è vicino deve imparare da voi la strada verso la gloria.
+
+Come potete vedere, non desidero affatto che torniamo alla nostra stupidità, anche se personalmente rimpiango molto di averne perso un po’. Per quanto vi riguarda, signore, un tale ritorno sarebbe un [miracolo](/concepts/miracle) così grande e al contempo così dannoso, da poter essere realizzato soltanto da Dio, o desiderato solo dal Diavolo. Quindi non cercate nemmeno di tornare indietro; nessuno al mondo ci riuscirebbe meglio di voi. Ci avete aiutati a stare in piedi così bene, che non possiamo smettere di rimanere in piedi anche noi.
+
+Concordo su tutte le sfortune che perseguitano gli uomini celebri nel campo letterario; concordo persino su tutti i mali legati all’umanità, quelli che sembrano essere indipendenti dalle nostre vane conoscenze. Gli uomini hanno aperto su di sé tante fonti di miseria, che anche quando il caso ne devia una, non sono affatto meno sommersi da esse. Inoltre, nel progresso delle cose esistono legami nascosti che la gente comune non percepisce, ma che non sfuggiranno all’occhio del saggio se deciderà di rifletterci sopra. Non sono stati né Terezio, né Cicerone, né Virgilio, né Seneca, né Tacito; né gli scienziati, né i poeti a causare le disgrazie di Roma e i crimini dei Romani: ma senza il veleno lento e segreto che gradualmente corruppe il governo più vigoroso di cui la storia abbia mai fatto menzione, Cicerone, Lucrizio o Sallustio non sarebbero mai esistiti, o non avrebbero mai scritto. Il secolo felice di Lelio e Terezio preannunciava da lontano il secolo splendente di Augusto e Orazio, e infine i secoli orribili di Seneca, Nerone, Domiziano e Marziale. Il gusto per le lettere e le arti nasce in un popolo a causa di un vizio interno che esso stesso alimenta; e se è vero che tutti i progressi umani sono dannosi per l’umanità, quelli dello spirito e delle conoscenze, che aumentano il nostro orgoglio e moltiplicano le nostre illusioni, accelerano presto le nostre sfortune. Ma arriva un momento in cui il male diventa tale che proprio le cause che lo hanno generato risultano necessarie per impedirne l’aggravarsi; è come se fosse necessario lasciare il “veleno” nella ferita, per evitare che la vittima muoia nel tentativo di strapparselo via.
+
+Per quanto mi riguarda, se avessi seguito la mia prima vocazione e non avessi né letto né scritto, probabilmente sarei stato più felice. Tuttavia, se le lettere fossero ora scomparse, mi mancherebbe l’unico piacere che mi rimane: è tra di esse che trovo conforto in tutte le mie sofferenze; è tra coloro che le coltivano che assaporo le dolcezze dell’amicizia e imparo ad apprezzare la vita senza temere la morte. Le devo tutto ciò che sono; le devo persino l’onore di essere conosciuto da voi. Ma consideriamo l’interesse nelle nostre azioni e la verità nei nostri scritti. Anche se siano necessari filosofi, storici, scienziati per illuminare il mondo e guidarne gli abitanti ciechi, se il saggio Memnone mi ha detto la verità, non conosco nulla di più assurdo di un popolo di saggi.
+
+Ammettiamolo, signore: se è giusto che i grandi geni istruiscano gli uomini, allora anche la gente comune deve ricevere le loro insegnanze; ma se ognuno si mette a darle, chi le vorrà accettare? “I gobbi”, dice Montaigne, “non sono adatti agli esercizi fisici; e per quanto riguarda gli esercizi mentali, ci sono anime ‘gobbe’”. Ma in questo secolo di sapere, si vedono solo persone “gobbe” che cercano di insegnare agli altri a camminare.
+
+Il popolo riceve gli scritti dei saggi per giudicarli, non per imparare. Non si sono mai visti così tanti “Dandin”. I teatri ne sono pieni, i caffè risuonano delle loro sentenze; le pubblicano sui giornali, i moli sono coperti dai loro scritti. E io sento criticare “L’Orfanello”, solo perché viene applaudito. Da individui così incapaci di riconoscere i suoi difetti, da non percepire nemmeno le sue bellezze.
+
+Cercando la prima causa dei disordini della società, scopriremo che tutti i mali degli uomini derivano dall’errore, molto più che dall’ignoranza; inoltre, ciò che non sappiamo ci nuoce molto meno di ciò che crediamo di sapere. E quale mezzo più sicuro per commettere errore dopo errore, se non la frenesia di voler conoscere tutto? Se nessuno avesse affermato di sapere che la terra non ruota, Galileo non sarebbe stato punito per averlo detto; se solo i filosofi avessero rivendicato questo titolo, l’Enciclopedia non avrebbe avuto persecutori. Se cento persone non aspirassero alla gloria, voi potreste godere in pace della vostra, o almeno avreste rivali degni di voi.
 
 <span class="atom-split" data-atom="029" data-title="(apertura) (parte 29)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
@@ -1369,6 +3991,102 @@ Lettre LXXXIX – À M. Vernes
 Paris, le 23 novembre 1755.
 
 Que je suis touché de vos tendres inquiétudes ! je ne vois rien de vous qui ne me prouve de plus en plus votre amitié pour moi, et qui ne vous rende de plus en plus digne de la mienne. Vous avez quelque raison de me croire mort, en ne recevant de moi nul signe de vie ; car je sens bien que ce ne sera qu'avec elle que je perdrai les sentiments que je vous dois. Mais, toujours aussi négligent que ci-devant, je ne vaux pas mieux que je ne faisais, si ce n'est que je vous aime encore davantage ; et si vous saviez combien il est difficile d'aimer les gens avec qui l'on a tort, vous sentiriez que mon attachement pour vous n'est pas tout-à-fait sans prix.
+
+<span class="qlang-split" data-lang="en"></span>
+
+Therefore, do not be surprised if you encounter some thorns that are inseparable from the flowers that crown great talents. The insults of your enemies are but satirical cheers that follow the procession of triumphalists; it is the public’s eagerness for all your writings that leads to those thefts of which you complain. Yet falsifications are not easy to carry out, for neither iron nor lead can be mixed with gold. Allow me to say this, out of my concern for both your peace and our enlightenment: despise those empty cries that aim less to harm you than to deter you from doing good. The more you are criticized, the more you must strive to earn admiration. A good book is a formidable reply to printed insults; and who would dare to attribute to you writings that you have not composed, when you can produce only works of unparalleled excellence?
+
+I am grateful for your invitation; and if this winter allows me to be in good health, I will take the opportunity in spring to return to my homeland and avail myself of your kindnesses. However, I would prefer to drink water from your fountain rather than milk from your cows; as for the herbs in your garden, I fear that I would find nothing but lotus, which is not food for beasts, and moly, which prevents humans from becoming such. With all my [heart](/positions/fideism) and respect, etc.
+
+Observation
+
+This letter, as flattering as it was, did not please Voltaire at all. He disliked it when people realized that he was susceptible to criticism and when they advised him to respond only with works of unparalleled quality, like those he had already produced. What he needed was undivided adulation, unreserved praise. The “Discourse on the Inequality of Conditions” sent to him by Jean-Jacques (to which Voltaire replied merely with a joke) must have made him realize that this new writer was of a different calibre than most of those with whom he associated himself—and that he could become a formidable rival. Voltaire chose, at first, to avoid direct confrontation and to evade the issue altogether, a talent he possessed in the highest degree.
+
+At the end of this letter, Rousseau mentions the lotus and the moly. The first plant grew on an island whose inhabitants were called “lotophagians” because they fed on lotuses; Homer describes it as such a delicious food that even the gods of Olympus enjoyed it with pleasure—Ulysses’ companions, however, wanted nothing else but it. The moly protected Ulysses from the influence of Circe. Our botanists have since demystified these wonderful plants; the latter is actually a type of garlic. The lotus, though less degraded in status, is now just a small, green tree with an attractive appearance—but it has lost its former significance and properties.
+
+Letter LXXXVI – To Madame d’Épinay
+
+[559]
+
+... 1755.
+
+My affairs with Mr. Tronchin are far from being settled, and your friendship toward me poses an obstacle that seems more difficult to overcome than ever before. But you have heeded your heart more than your own interests or my feelings in the arrangement you propose to me; this proposal has chilled my soul to the core. How poorly you understand your own interests to want to make a friend into a servant! And how little you know me if you think such considerations could sway me! I am not in any dire need of living or dying; but what torments me terribly is the uncertainty regarding which path will ensure me the greatest independence in the time left to me. Having done everything possible to find it, I have been unable to do so in Paris. I search for it with greater fervor than ever before; and what has afflicted me bitterly for over a year is the inability to determine where I might find it most securely. Nevertheless, the greatest likelihood lies in returning to my homeland, but I must confess that I would find it even more comforting beside you. The intense confusion I am in will not last much longer; my decision will be made in seven or eight days. But rest assured: it will not be driven by considerations of interest, for I have never feared running out of food, and in the worst-case scenario, I know how to make do.
+
+Moreover, I am not opposed to listening to what you have to say, provided that you remember that I am not for sale, and that my feelings, which are now of greater value than any price one might be willing to pay, would soon become of less value than such a price. Let us therefore forget entirely that this matter has even been discussed.
+
+As for you personally, I have no doubt that your heart understands the value of friendship; but I believe that my friendship is far more necessary to you than yours is to me, for you possess compensations that I lack—and for which I have forever renounced seeking.
+
+Good day, madam: here is another book for sale. Please send me my opera.
+
+Letter LXXXVIII – To Mr. de Boissi
+
+From the Académie Française
+
+AUTHOR OF "MERCURE DE FRANCE"
+
+[560]
+
+Paris, November 4, 1755.
+
+When I saw, sir, that your letter, written under the name of Monsieur de Voltaire, appeared in the “Mercure,” I assumed that you had obtained his consent for its publication; and since he had taken the trouble to ask mine before printing it, I had every reason to praise his approach rather than complain of yours. But what can I think of the nonsense you included in the “Mercure” under the guise of my response? If you claim that your copy was inaccurate, I would wonder who forced you to use such obviously erroneous text—text that is noteworthy only for its absurdity. To refrain from including ridiculous writings in your publication is a courtesy you owe, if not to the authors, at least to the public.
+
+If you believed, sir, that I would consent to the publication of this letter, why did you not send me a copy for my review? If you did not believe it, why print it under my name? If it is already improper to publish others’ letters without their consent, it is far more unjust to attribute them to them when there is no certainty that they indeed authored them—or even that they are their true works. Mr. de Voltaire’s bookseller, who had more right in this matter than anyone else, chose wisely to refrain from publishing my letter rather than print it without my consent, which he had the honesty to ask for beforehand. In my opinion, a man of your esteemed reputation should not be given lessons in such matters by a bookseller. Moreover, sir, I have all the more reason to complain about your conduct in this instance: in the very same volume in which you published a text so heavily altered under my name, you fear, quite rightly, that some verses attributed to Mr. de Voltaire may not actually be his work. If such consideration were the only basis for such behavior, I would not dare to claim it; but it is an act of justice—and you owe it to everyone.
+
+Since it is far more natural for me to be blamed for a foolish mistake than for you to be accused of an irregular procedure, and since I would thus remain responsible for the error in this matter if I failed to justify myself, I earnestly request that you kindly include this denial in the next issue of *Mercure*, and accept, sir, my respect and greetings.
+
+Letter LXXXIX – To Mr. Vernes
+
+Paris, November 23, 1755.
+
+How touched I am by your kind concerns! Nothing about you fails to prove once again how deep your friendship for me is, and how truly you deserve mine in return. You have every reason to believe me dead, since I send you no sign of life at all; for I know that it is only with her that I will lose the feelings I owe you. Yet, just as neglectful as before, I am no better than I used to be—except that I love you even more now. And if you only knew how difficult it is to love those whom one has wronged, you would realize that my affection for you is indeed priceless.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non siate quindi sorpresi se sentite alcune “spine” inseparabili dai fiori che adornano i grandi talenti: le offese dei vostri nemici non sono altro che acclamazioni satiriche che seguono il corteo dei vincitori; è l’entusiasmo del pubblico per tutte le vostre opere a causare quei furti di cui vi lamentate. Ma le falsifiche non sono affatto semplici, poiché né il ferro né il piombo si uniscono all’oro. Permettetemi di dirvelo, per l’interesse che provo per il vostro riposo e per la nostra istruzione: disprezzate quelle vane grida con cui si cerca meno di farvi del male che di distogliervi dal fare del bene. Più vi criticheranno, più dovete cercare di essere ammirati. Un buon libro rappresenta una risposta terribile alle offese pubblicate; e chi oserebbe attribuirvi opere che non avrete mai scritto, finché ne scriverete solo di inimitabili?
+
+Sono grato per la vostra invitazione; e se quest’inverno mi permetterà di stare in salute, in primavera andrò a vivere nella mia patria e approfitterò della vostra gentilezza. Tuttavia, preferirei bere l’acqua della vostra fonte piuttosto che il latte delle vostre mucche; quanto alle erbe del vostro giardino, temo di non trovarvi altro che il loto, che non è certo il cibo adatto agli animali, e il moly, che impedisce agli uomini di diventarlo. Con tutto il mio [cuore](/positions/fideism) e con rispetto, ecc.
+
+Osservazione.
+
+Questa lettera, per quanto lusinghiera, non piacque affatto a Voltaire. Non gli piaceva che si notasse che era sensibile alle critiche, né che gli si consigliasse di rispondervi soltanto con opere inimitabili, come quelle che aveva scritto lui stesso. Aveva bisogno di lodi incondizionate, di encomi senza limiti. Il “Discorso sull’ineguaglianza delle condizioni”, inviatogli da Jean-Jacques (a cui rispose soltanto con una battuta scherzosa), dovette fargli capire che questo nuovo scrittore era di tutt’altra tempra rispetto alla maggior parte di coloro con cui aveva rapporti, e che poteva diventare un avversario temibile. Decise quindi di evitare lo scontro diretto e di eludere la questione in discussione, un talento che possedeva in misura eccezionale.
+
+Alla fine di questa lettera, Rousseau parla del loto e del moly. La prima pianta cresceva su un’isola la cui popolazione si chiamava “lotofagi”, perché si nutriva di loto: Omero lo descrive come un cibo delizioso che gli dèi dell’Olimpo gustavano con piacere; i compagni di Ulisse non volevano più mangiare nient’altro. Il moly, invece, protegge Ulisse dall’influenza di Circe. I nostri botanici hanno smascherato il segreto di queste meravigliose piante; l’ultima di esse è in realtà una specie d’aglio. Il loto, oggi, non ha più lo stesso status e le stesse proprietà di un tempo: si tratta di un piccolo albero verde dall’aspetto gradevole, ma ormai privo dei suoi antichi poteri.
+
+Lettera LXXXVI – Alla signora d’Épinay
+
+[559]
+
+... 1755.
+
+La mia questione con il signor Tronchin non è ancora risolta, e la vostra amicizia verso di me rappresenta un ostacolo che mi sembra più difficile da superare che mai. Tuttavia, avete tenuto maggior conto dei vostri sentimenti che della vostra situazione economica o del mio umore nell’elaborare la proposta che mi state facendo; questa proposta mi ha gelato l’anima. Come potete sbagliarvi così tanto nel considerare i vostri interessi, volendo rendere un amico mio in una posizione di sottomissione? E come potete non comprendere quanto io sia lontano dall’essere influenzato da motivi del genere! Non ho alcuna difficoltà a vivere o a morire; ma ciò che mi tormenta profondamente è il dubbio riguardo al luogo in cui potrò trovare la massima indipendenza nel tempo che mi resta da vivere. Dopo aver fatto di tutto per ottenerla, non sono riuscito a trovarla a Parigi; ora la cerco con ancora più determinazione di prima. E ciò che mi addolora da oltre un anno è il non riuscire a capire dove potrò trovarla in modo sicuro. Tuttavia, le probabilità maggiori sono che si trovi nel mio paese. Ma devo ammettere che la troverei più dolce accanto a voi. Questa terribile incertezza non potrà durare ancora a lungo; prenderò una decisione tra sette o otto giorni. Ma state certi che non saranno motivi di interesse a guidarmi: non ho mai temuto di rimanere senza cibo, e so come cavarmela anche nel peggiore dei casi.
+
+Del resto, non rifiuto affatto di ascoltare ciò che avete da dirmi, purché vi ricordiate che non sono in vendita, e che i miei sentimenti, al di sopra ormai di qualsiasi prezzo si possa attribuire loro, presto saranno anche al di sotto di quel prezzo stesso. Dimentichiamo quindi completamente che sia mai stata sollevata questa questione.
+
+Per quanto riguarda voi personalmente, non dubito che il vostro cuore comprenda il valore dell’amicizia; tuttavia ritengo che la mia amicizia sia per voi molto più necessaria di quanto non lo sia la vostra per me, poiché voi disponete di compensi che a me mancano e dai quali ho rinunciato per sempre.
+
+Buongiorno, signora: ecco ancora un libro da vendere. Inviami il mio operaio.
+
+Lettera LXXXVIII – A Monsieur de Boissi
+
+Dell’Accademia francese
+
+Autore del “Mercure de France”.
+
+[560]
+
+Parigi, 4 novembre 1755.
+
+Quando vidi, signore, che la lettera che avevo ricevuto da lui veniva pubblicata sul “Mercure” con il nome di Monsieur de Voltaire, supposi che aveste ottenuto il suo consenso per farlo; e poiché egli stesso aveva voluto chiedermi il mio permesso per stamparla, non potevo fare altro che lodare il suo comportamento, senza dover lamentarmi del vostro. Ma cosa devo pensare di quel guazzabuglio che avete inserito nel “Mercure” sotto il titolo della mia risposta? Se mi dite che la vostra copia era errata, mi chiederò chi vi abbia costretto ad utilizzare una lettera palesemente inesatta, che si distingue soltanto per la sua assurdità. Astenersi dall’inserire scritti ridicoli nel proprio lavoro è un riguardo che dovete, se non agli autori, almeno al pubblico.
+
+Se avete creduto, signore, che io avrei acconsentito alla pubblicazione di questa lettera, perché non mi avete inviato una copia affinché potessi esaminarla? Se invece non ne eravate certo, perché l’avete stampata a mio nome? Se è poco appropriato stampare le lettere altrui senza il loro consenso, è ancora meno giusto attribuirle loro senza essere certi che siano davvero loro, e ancor meno quando si ritiene che non siano state scritte da loro nella forma in cui sono state pubblicate. Il libraio di Monsieur de Voltaire, che aveva in questo senso più diritti di chiunque altro, ha preferito astenersi dal stampare la mia lettera, piuttosto che farlo senza il mio consenso, che gli era stato onestamente chiesto. Credo che un uomo stimato come voi non debba ricevere da un libraio lezioni su come comportarsi in queste circostanze. Ho quindi ancora più motivo di lamentarmi del vostro comportamento: nello stesso volume in cui avete pubblicato un testo alterato a mio nome, temete, con ragione, di attribuire a Monsieur de Voltaire versi che non sono suoi. Se tale considerazione fosse dovuta soltanto al rispetto reciproco, mi astenerei dal farvi osservazioni; ma si tratta di un atto di giustizia, e voi la dovete a tutti.
+
+Poiché è molto più naturale attribuirmi una lettera sciocca piuttosto che a voi un comportamento poco regolare, e quindi rimarrei io il responsabile dell’errore in questa faccenda se trascurassi di giustificarmi, vi supplico di voler inserire questa dichiarazione di scusa nel prossimo numero di “Mercure”, e di accettare, signore, i miei rispetti e le mie saluti.
+
+Lettera LXXXIX – A Monsieur Vernes
+
+Parigi, 23 novembre 1755.
+
+Quanto sono commosso dalle vostre tenere preoccupazioni! Non vedo in voi nulla che non mi dimostri sempre di più la vostra amicizia per me, e che non vi renda sempre più degna della mia. Avete ragione di credermi morto, visto che non ricevete da me alcun segno di vita; infatti so bene che sarà solo con la sua perdita che perderò i sentimenti che vi devo. Ma, altrettanto negligente di prima, non valgo certo meglio di quanto facessi allora, se non per il fatto che vi amo ancora di più. E se sapeste quanto sia difficile amare le persone con cui si ha torto, capireste che il mio affetto per voi non è affatto senza valore.
 
 <span class="atom-split" data-atom="030" data-title="(apertura) (parte 30)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
@@ -1474,6 +4192,214 @@ Je ne sais, monsieur, pourquoi je suis toujours si fort en arrière avec vous ; 
 
 Je commence par ce qui m'a le plus touché dans votre lettre après les témoignages d'amitié que vous m'y donnez, et qui me deviennent plus chers de jour en jour : c'est l'espèce de défiance où vous me paraissez être de vous-même, à l'entrée de la nouvelle carrière qui se présente à vous[563]. Je ne puis vous parler de vos études et de vos connaissances, parce que je ne suis rien moins que juge dans ces matières ; mais j'oserai vous parler de l'instrument qui fait valoir tout cela, et dont je trouve que vous vous servez à merveille. Vous avez de la finesse dans l'esprit ; c'est ce que j'ai remarqué chez beaucoup de nos compatriotes : mais vous y joignez le naturel plus rare, qui lui donne des grâces. Je trouve dans toutes vos lettres une élégante simplicité qui va au coeur ; rien de la sécheresse des lettres de pur bel esprit, et tout l'agrément qui manque souvent à celles où le sentiment seul s'épanche avec un ami. J'ai trouvé la même chose dans votre conversation ; et moi, qui ne crains rien tant que les gens d'esprit, je me suis, sans y songer, attaché à vous par le tour du vôtre. Avec de telles dispositions, il ne faut point que vous vous embarrassiez des caprices de votre mémoire : vous aurez peu besoin de ses ressources pour figurer dans le monde littéraire. La lecture des anciens ne vous attachera point au fatras de l'érudition ; vous y prendrez cet intérêt de l'âme, que la méthode et le compas ont chassé de nos écrits modernes. Si vous n'éclaircissez point quelque texte obscur, vous ferez sentir les vraies beautés de ceux qui s'entendent ; et vous ferez dire à vos auditeurs qu'il vaut encore mieux imiter les anciens que les expliquer. Voilà, monsieur, ce que j'augure de vos talents, appliqués à l'étude des belles-lettres. Les inquiétudes que vous témoignez, et la manière dont vous les exprimez, m'apprennent que la seule faculté qui vous manque est le courage de mettre à profit celles que vous possédez. Il me serait fort doux, et il ne vous serait peut-être pas inutile en cette occasion, que la confiance que vous devez à ma sincérité vous en donnât un peu dans vos forces.
 
+<span class="qlang-split" data-lang="en"></span>
+
+You have been ill, and I did not know anything about it; but I knew that you were overwhelmed with work. I fear that the fatigue has exhausted your health, and that you might lose it again if you do not take care of it. Please cherish it, for it does not belong solely to you, and it can also bring comfort to a friend who has forever lost his own health. This summer, I had a rather severe relapse; autumn was quite good, but the approach of winter is cruel for me. I do not know how spring will affect me. The fifth volume of the Encyclopedia was published fifteen days ago; since the letter “E” has not even been completed in that volume, your article could not be included. In fact, I even asked Mr. Diderot to use it only if he himself was satisfied with it. For in a work that has been crafted with such care, one should not include a weak article when there is only one available at all. The article on the Encyclopedia written by Diderot has won the admiration of everyone in Paris. And what will add even more to your own admiration when you read it is that he wrote it while ill.
+
+I have just received from a Venetian nobleman a letter written in Italian; therein, I found with pleasure these three verses in honor of my homeland:
+
+Ah! A citizen of a well-governed city.
+
+A companion and brother of noble character.
+
+“Ch’amor del giusto has brought them together, etc.”
+
+This eulogy seems simple and [sublime](/concepts/sublime) to me, and yet I would not have expected it from Italy. May we be worthy of it!
+
+Goodbye, sir; we must part now, for I am in a hurry to finish the copy. Please convey my regards to your entire kind family; I embrace you with all my [heart](/positions/fideism).
+
+Letter XCI – To Mr. Count of Tressan
+
+[562]
+
+Paris, December 26, 1755.
+
+I honored you, sir, just as we all do; it is a pleasure for me to combine gratitude with respect, and I would be grateful to Mr. Palissot for having, without any intention on his part, provided me with evidence of your kindnesses, which allow me to express my own admiration for you. If this author failed in his duty toward the prince he sought to amuse—and indeed, if anyone deserves forgiveness more than I do—then who could possibly blame him? But if his only “crime” was exposing my ridicules, then that is precisely the role of theater; I see nothing wrong with this for an honest man, and indeed, I consider it a merit on the author’s part that he chose such a rich subject. Therefore, I beg you, sir, not to listen to the enthusiasm that friendship and generosity inspire in Mr. d’Alembert on this matter, and not to distress a worthy man over such a trivial matter—one who has never caused me any trouble and who would surely mourn deeply if he were to bring disgrace upon the King of Poland or you.
+
+My heart is moved by the praise you bestow upon those of my fellow citizens who are under your command. Indeed, the Genevan by nature is good-hearted; he possesses an honest soul and is not lacking in judgment. All he needs are good examples to guide him toward goodness. Permit me, sir, to urge these young officers to learn from yours, to earn the merit of your kindnesses, and to perfect under your watchful eye those qualities that they perhaps owe to you—and that you attribute to their upbringing. I would be pleased to apply for myself the advice I offer them when you come to Paris. They will study the warrior; I will study the philosopher. Our common pursuit shall be the virtuous man, and you will always remain our teacher. With respect, etc.
+
+Letter XCII – To Mr. d’Alembert
+
+On this 27th of December.
+
+I am truly grateful, my dear sir, for the interest you take in me; however, I cannot approve of the zeal that drives you to pursue that poor Mr. Palissot. I would deeply regret the time lost as a result of all this, were it not for the evidence of friendship it has brought me. Please put an end to this matter at once; I am indebted to you just as if it had already been resolved, and I assure you that expelling Palissot, out of consideration for me, would cause me more pain than pleasure. As for Fréron, I have nothing personally to say against him, since the issue concerns us both; but one thing is certain: your disdain would have hurt him far more than your pursuit of him, and whatever the outcome, such actions will only bring him honor rather than harm.
+
+I wrote to Mr. de Tressan to thank him and ask him to stop doing so. I will show you my reply along with his letter during our first meeting. I have no doubt that I owe you all the expressions of gratitude contained in that letter. Taking everything into account, after making all the necessary adjustments, it turns out that I am actually coming out ahead in every way in this matter. Why should we cause any harm to this poor man for the real good he has done me? I thank you from the bottom of my heart and embrace you warmly.
+
+1756
+
+Letter XCIII – To Mr. Count of Tressan
+
+Letter XCIV – To Mr. Perdriau
+
+Letter XCV – To Mr. Count of Tressan
+
+Letter XCVI – To Mr. de Boissi
+
+Letter XCVII – To Madame d’Épinay
+
+Letter XCVIII – To the Same One
+
+Letter XCIX – To Mr. Vernes
+
+Letter C – To Madame d’Épinay
+
+Letter CI – To the Same One
+
+Letter CII – To the Same One
+
+Letter CIII – To the Same One
+
+Letter CIV – To the Same One
+
+Letter CV – To the Same Person
+
+Letter CVI – To the Same One
+
+Letter CVII – To the Same One
+
+Letter CVIII – To the Same One
+
+Letter CIX – To the Same One
+
+Letter CIX – To Mr. de Scheyb
+
+Letter CXI – To Madame d’Épinay
+
+Letter CXII – To Mr. de Voltaire on Providence
+
+Letter CXIII – To Mr. Monnier
+
+Letter CXIV – To Madame d’Épinay
+
+Letter CXV – To the Same One
+
+Letter CXVI – To the Same One
+
+Letter CXVII – To the Same One
+
+Letter CXVIII – To the Same One
+
+Letter CXIX – To the Same One
+
+Letter CXX – To the Same One
+
+Letter CXXI – To the Same One
+
+Correspondence Table
+
+Letter XCIV – To Mr. Perdriau
+
+Paris, January 18, 1756.
+
+I do not know, sir, why I am always so far behind you in this regard; for writing to you brings me great pleasure. Yet it is not merely in this that I realize how often temperament prevails over inclination, and habit takes precedence even over genuine enjoyment.
+
+I begin with what touched me most in your letter, beyond all the expressions of friendship you offer me—something that grows more precious to me day by day: it is that certain confidence you seem to have in yourself as you embark on this new career before you[563]. I cannot speak to you about your studies or knowledge, for I am no judge in those matters; but I dare to talk about the instrument that makes all this possible—and which, in my opinion, you use with great skill. You possess a keen intellect; I have noticed this in many of our compatriots—but you add to it a rare natural grace that gives your intelligence its unique charm. In every one of your letters, I find an elegant simplicity that touches the heart directly; nothing of the dryness characteristic of letters written by those who rely solely on their intellect, and yet all the warmth that is often lacking in those where emotions are expressed unreservedly to a friend. I have seen the same in our conversations. And for someone like me, who fears nothing more than people of sharp intellect, I found myself unconsciously drawn to you because of the way you think. With such qualities, you need not worry about the whims of your memory; you will hardly need its help to make your mark in the literary world. Reading the ancients will not lead you into the maze of pedantic erudition; instead, you will discover that genuine interest in learning, which method and rigidity have driven out of our modern writings. If you do not bother to clarify some obscure texts, you will still be able to highlight the true beauties of those works that are well understood; and you will make your listeners realize that it is often better to imitate the ancients than to attempt to explain them. This, sir, is what I foresee for your talents when devoted to the study of the humanities. The concerns you express, and the way you convey them, tell me that the only thing lacking in you is the courage to put those abilities to good use. It would be a great pleasure for me—and perhaps useful for you as well—in this regard, if the trust you place in my sincerity could give you some strength in this endeavor.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Siete stato malato, e io non ne sapevo nulla; ma sapevo che eravate sommerso dal lavoro. Temo che la fatica abbia esaurito la vostra salute, e che siate ancora vicino a perderla di nuovo. Per favore, prendetevi cura di essa, come se appartenesse non solo a voi, ma anche a un amico che ha perso per sempre la propria salute. Quest’estate ho avuto una ricaduta piuttosto grave; l’autunno è trascorso abbastanza bene. Ma l’avvicinarsi dell’inverno mi causa grandi sofferenze. Non so cosa potrò dirvi riguardo all’arrivo della primavera. Il quinto volume dell’Enciclopedia è uscito da quindici giorni; poiché la lettera “E” non è nemmeno stata completata, il vostro articolo non è stato incluso. Ho persino chiesto a Monsieur Diderot di utilizzarlo soltanto se ne fosse stato lui stesso soddisfatto. In un’opera realizzata con tanta cura come questa, non si può inserire un articolo di scarsa qualità, quando ce ne sono altri migliori. L’articolo sull’Enciclopedia scritto da Diderot suscita l’ammirazione di tutta Parigi. E ciò che aumenterà ulteriormente la vostra ammirazione, quando lo leggerete, è il fatto che sia stato scritto mentre lui stesso era malato.
+
+Ho appena ricevuto da un nobile veneziano una lettera scritta in italiano; in essa ho letto con piacere questi tre versi dedicati alla mia patria:
+
+Ahimè, cittadino di una città ben governata.
+
+E compagno e fratello di ottimi compagni.
+
+Per amore della giustizia si sono riuniti insieme, ecc.
+
+Questo elogio mi sembra semplice e [sublime](/concepts/sublime); non avrei mai immaginato di riceverlo dall’Italia. Possiamo meritarlo!
+
+Buongiorno, signore, dobbiamo andare ora, perché ho fretta di completare la copia. Saluti affettuosi a tutta la sua cara famiglia; la abbraccio con tutto il mio [cuore](/positions/fideism).
+
+Lettera XCI – Al conte di Tressan
+
+[562]
+
+Parigi, 26 dicembre 1755.
+
+Vi onoravo, signore, come facciamo tutti; è per me dolce unire riconoscenza e stima, e sarei felice di ringraziare il signor Palissot per avermi procurato, senza che se ne rendesse conto, testimonianze delle vostre bontà, che mi permettono di esprimervi la mia rispettovole considerazione. Se quest’autore ha mancato verso colui a cui doveva obbedire, e che tutta la terra deve al principe che voleva divertire, chi più di me dovrebbe ritenere tale comportamento inescusabile? Ma se il suo unico “crimine” è stato quello di aver messo in evidenza i miei ridicoli, questo è proprio il compito del teatro; non vedo nulla di riprovevole in ciò per un uomo onesto, e anzi riconosco nell’autore il merito di aver scelto un argomento molto interessante. Pertanto vi prego, signore, di non dare ascolto alle parole di zelo che l’amicizia e la generosità spingono il signor d’Alembert a pronunciare in questo senso, e di non addolorare, per una simile sciocchezza, un uomo meritevole che non mi ha mai causato alcun problema e che soffrirebbe profondamente se dovesse subire la disapprovazione del re di Polonia o la vostra.
+
+Il mio cuore è commosso dagli elogi che voi riservate a quei miei concittadini che sono sotto i vostri ordini. Infatti, il genevese è per natura buono, ha un’anima onesta, non gli mancano certo le qualità intellettuali necessarie, e gli basteranno soltanto buoni esempi per orientarsi completamente verso il bene. Permettetemi, signore, di esortare questi giovani ufficiali a trarre insegnamento dal vostro comportamento, a rendersi degni delle vostre gentilezze e a perfezionare sotto i vostri occhi le qualità che forse possiedono, ma che voi attribuite alla loro educazione. Quando verrete a Parigi, accetterò volentieri il consiglio che do loro; loro studieranno l’uomo di guerra, io il filosofo: la nostra comune ricerca sarà l’uomo di bene, e voi sarete sempre il nostro maestro. Con rispetto, ecc.
+
+Lettera XCII – A Monsieur d’Alembert
+
+Il 27 dicembre.
+
+Sono molto sensibile, caro signore, all’interesse che lei dimostra per me; tuttavia non posso approvare l’zelo con cui continua a perseguire quel povero signor Palissot. Mi dispiacerebbe moltissimo di tutti i momenti che queste azioni le hanno fatto perdere, se non fosse per il testimone d’amicizia che ne deriva a mio favore. Per favore, lasci perdere questa questione; gliene sono grato tanto quanto se fosse già risolta, e le assicuro che l’allontanamento di Palissot, per amor mio, mi causerebbe più dolore che piacere. Per quanto riguarda Fréron, non ho nulla da dire personalmente, poiché la causa è comune; ma una cosa è certa: il suo disprezzo sarebbe stato per lui più offensivo delle vostre persecuzioni, e qualunque ne sia l’esito, queste azioni gli porteranno sempre più onore che danno.
+
+Ho scritto a Monsieur de Tressan per ringraziarlo e chiedergli di non procedere oltre in questa faccenda. Vi mostrerò la mia risposta insieme alla sua lettera durante il nostro primo incontro. Non posso dubitare che debba tutto il merito delle testimonianze di stima contenute in quella lettera. A conti fatti, in ogni modo possibile, ne esco vincitore. Perché dovremmo causare del male a quest’uomo povero per il bene reale che mi ha fatto? Vi ringrazio di tutto cuore e vi abbraccio.
+
+1756
+
+Lettera XCIII – Al conte di Tressan
+
+Lettera XCIV – A Monsieur Perdriau
+
+Lettera XCV – Al signor conte di Tressan
+
+Lettera XCVI – A Monsieur de Boissi
+
+Lettera XCVII – Alla signora d’Épinay
+
+Lettera XCVIII – Alla stessa persona
+
+Lettera XCIX – A Monsieur Vernes
+
+Lettera C – Alla signora d’Épinay
+
+Lettera CI – Alla stessa persona
+
+Lettera CII – Alla stessa persona
+
+Lettera CIII – Alla stessa persona
+
+Lettera CIV – Alla stessa persona
+
+Lettera CV – Alla stessa persona
+
+Lettera CVI – Alla stessa persona
+
+Lettera CVII – Alla stessa persona
+
+Lettera CVIII – Alla stessa persona
+
+Lettera CIX – Alla stessa persona
+
+Lettera CIX – A Monsieur de Scheyb
+
+Lettera CXI – Alla signora d’Épinay
+
+Lettera CXII – A Monsieur de Voltaire sulla Provvidenza
+
+Lettera CXIII – A Monsieur Monnier
+
+Lettera CXIV – Alla signora d’Épinay
+
+Lettera CXV – Alla stessa persona
+
+Lettera CXVI – Alla stessa persona
+
+Lettera CXVII – Alla stessa persona
+
+Lettera CXVIII – Alla stessa persona
+
+Lettera CXIX – Alla stessa persona
+
+Lettera CXX – Alla stessa persona
+
+Lettera CXXI – Alla stessa persona
+
+Tabella della corrispondenza
+
+Lettera XCIV – A Monsieur Perdriau
+
+Parigi, 18 gennaio 1756.
+
+Non so, signore, perché io sia sempre così indietro rispetto a voi nella nostra corrispondenza; infatti scrivervi mi procura grande piacere. Ma non è solo in questo che mi rendo conto di quanto il temperamento spesso prevale sull’inclinazione naturale e l’abitudine sopra il vero piacere.
+
+Inizio con ciò che mi ha colpito di più nella vostra lettera, dopo i segni di amicizia che mi dimostrate e che diventano sempre più preziosi per me giorno dopo giorno: si tratta della sorta di fiducia in voi stesso che sembrate provare all’inizio di questa nuova carriera che vi si presenta[563]. Non posso parlare delle vostre studi e delle vostre conoscenze, poiché non sono affatto un esperto in queste materie; ma oso parlarvi dell’strumento grazie al quale tutto ciò può essere valorizzato, e che ritengo voi utilizziate con grande abilità. Avete una finezza d’intelletto; è qualcosa che ho notato in molti dei nostri connazionali; ma vi aggiungete anche quella natura più rara che conferisce alle vostre qualità un fascino particolare. Trovo in tutte le vostre lettere una semplicità elegante che tocca il cuore; nulla della freddezza tipica delle lettere scritte da persone di pura intelligenza, e tutta quella piacevolezza che spesso manca in quelle in cui i sentimenti si esprimono liberamente con un amico. Ho riscontrato lo stesso anche nella vostra conversazione; e io, che temo tanto le persone intelligenti, mi sono, senza nemmeno pensarci, legato a voi per il modo in cui vi esprimete. Con tali doti, non dovreste preoccuparvi dei capricci della vostra memoria: avrete bisogno di poche sue risorse per distinguervi nel mondo letterario. La lettura degli antichi non vi farà fissare su sciocchezze erudite; ne trarrete quell’interesse profondo che la metodicità e l’ordine hanno spesso eliminato dai nostri scritti moderni. Se non chiarite alcuni testi oscuri, farete comunque emergere le vere bellezze di quelli che sono ben compresi; e farete dire ai vostri ascoltatori che è ancora meglio imitare gli antichi che spiegarli. Ecco, signore, ciò che auguro per i vostri talenti, se applicati allo studio delle lettere. Le preoccupazioni che esprimete e il modo in cui le manifestate mi fanno capire che l’unica cosa che vi manca è il coraggio di sfruttare al meglio quelle capacità che possedete. Sarebbe molto dolce, per me, e forse anche utile in questa circostanza, se la fiducia che dovete nella mia sincerità vi desse un po’ più di fiducia nelle vostre possibilità.
+
 <span class="atom-split" data-atom="031" data-title="(apertura) (parte 31)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Je pense qu'il ne faut pas trop chercher de précision dans les mots modus numerus, employés par Horace, non plus que dans tous les termes techniques qu'on trouve dans les poètes. Le seul endroit d'Horace où il paraisse avoir choisi les termes propres,-et qu'aussi les seuls ignorants entendent et expliquent, est le sonante mistum, etc., de la neuvième épode. Dans tout le reste, il prend vaguement un instrument pour la musique, le nombre pour la poésie, etc. ; et c'est faute d'avoir fait cette réflexion très simple, que tant de commentateurs se sont si ridiculement tourmentés sur tout cela.
@@ -1529,6 +4455,118 @@ Lettre CIV – À la même
 [572]
 
 Quoique le temps me contrarie depuis mon arrivée ici, je viens de passer les trois jours les plus tranquilles et les plus doux de ma vie ; ils le seront encore plus quand les ouvriers qu'occupe mon luxe ou votre sollicitude seront partis. Ainsi je ne serai proprement dans ma solitude que d'ici à deux ou trois jours ; en attendant, je m'arrange, non selon la morale turque, qui veut qu'on ne s'établisse ici-bas aucun domicile durable, mais selon la mienne, qui me porte à ne jamais quitter celui que j'occupe. Vous me trouverez rangé délicieusement, à la magnificence près que vous y avez mise, et qui, toutes les fois que j'entre dans ma chambre, me fait chercher respectueusement l'habitant d'un lieu si bien meublé. Au surplus, je ne vous conseille pas beaucoup de compter sur des compliments à notre première entrevue ; je vous réserve, au contraire, une censure griève[573] d'être venue malade et souffrante m'installer ici sans égard pour vous ni pour moi. Hâtez-vous de me rassurer sur les suites de cette indiscrétion, et souvenez-vous, une fois pour toutes, que je ne vous pardonnerai jamais d'oublier ainsi mes intérêts en songeant aux vôtres.
+
+<span class="qlang-split" data-lang="en"></span>
+
+I believe that one should not seek too much precision in the terms “modus numerus” used by Horace, nor in all those technical expressions found in the works of poets. The only passage in Horace where it seems he deliberately chose specific terms—terms that only ignorant people would actually understand and interpret—is the line “sonante mistum” in the ninth epode. In everything else, he merely uses words vaguely to refer to musical instruments or numerical concepts in poetic contexts. It is precisely because this very simple distinction was not made that so many commentators have gone to such ridiculous lengths in trying to decipher his intentions.
+
+As for the precise meaning of these two terms, one must seek it in Boethius and Martianus Capella[564]; for they are, among the ancients, the only Latin writers whose writings on music have reached us. There you will find that the term “Numerus” is used to refer to the execution of rhythm—that is, in music, to the regular division of time and musical values. As for the term “modus,” it refers to the particular rules governing melody, especially those that constitute what is known as a mode or tone. Thus, just as number governed the duration of musical intervals, the progression of a chant, in the first sense, proceeded according to the ascending and descending degrees of sounds; in the second sense, it followed the rules of pitch variation.
+
+Speaking of singing, I had long forgotten to mention an observation I made regarding the singing of psalms in our temples. I greatly admire the ancient simplicity of this practice, but its execution is shocking to delicate ears due to a flaw that is easily remediable. The problem arises when the singer is located far from certain parts of the temple; as the sound travels slowly across these large distances, by the time it reaches the outer areas, the singer’s voice has already changed pitch and begun to produce different notes. This becomes particularly disturbing in some areas, because the sound takes even longer to travel from one end of the temple to the other than from where the singer is standing. As a result, the air inside the temple is divided into various highly discordant sounds that overlap continuously, causing great discomfort to an experienced listener. This flaw is even more pronounced with the organ, since it emits sound only from one end of the building, rather than being located in its center like the singer.
+
+Or the remedy for this inconvenience seems to me very simple; since the visual rays are transmitted from the object to the eye in an instant, or at least with a speed far greater than that at which sound is transmitted from the sounding body to the ear, it is sufficient to substitute one for the other in order to obtain a simultaneous and perfectly harmonious chant throughout the entire choir. To achieve this, all that is needed is to place the singer, or someone assigned with this task, in a position where he can be seen by everyone, and to have him use a measuring stick whose movement can be easily observed from a distance—for example, a roll of paper. With such precautions, as long as the first note is prolonged sufficiently so that its intention is clearly heard everywhere before the rest of the chant begins, everything else will proceed in perfect harmony, and any discordance that might exist will inevitably disappear. One could even use a clock instead of a person, since the movement of a clock would be even more regular and constant.
+
+From this would arise two additional advantages: firstly, that without substantially altering the chant of the psalms, it would be possible to impart some rhythm or measure to them, thereby allowing for the distinction between long and short syllables in a more discernible manner; secondly, the inherent lethargy and monotony of such chants could be mitigated by the use of precise, masculine, and majestic harmonies, by adding appropriate bases and embellishments according to the author’s original intent—an intent that certainly did not deserve to be dismissed as insignificant. Well, sir, this, in my opinion, constitutes an important application of the techniques of arsis and thesis, as well as of musical proportion. But I cannot say more on this subject; what lacks is not so much the desire as the paper necessary to continue this discussion with you. Goodbye, sir; “I embrace you with respect and from the bottom of my [heart](/positions/fideism).”
+
+Letter XCVI – To Mr. de Boissi
+
+By returning him the LETTER FROM A BURGHER OF BORDEAUX,
+
+that he had intended to publish it in *Mercure* only with my consent.
+
+and after making the necessary cuts that I deem appropriate.
+
+Paris, January 24, 1756.
+
+I sincerely thank Mr. de Boissi for his kindness in sharing this piece with me. It appears to be well-written, seasoned with that subtle and delightful irony which I believe is what one might call “politeness,” and I feel in no way offended by it. Not only do I consent to its publication, but I even wish it to be printed in its current form, for the benefit of both the public and myself. If the author’s morals seem more sound than his logic, and if his opinions are better than his reasoning, isn’t that perhaps because the flaws in my character are much more apparent than the errors in my book? In any case, all those horrible things he finds in it only serve to prove once again that he shouldn’t waste his time reading it.
+
+Letter XCVIII – To the Same One
+
+[567]
+
+... 1756.
+
+Here is my master and comforter, Plutarch; keep him without any scruples as long as you read him, but do not keep him just to do nothing with him, and above all, do not lend him to anyone else; for I want to use him only for your benefit. If you can manage to get mademoiselle Le Vasseur the money for her dress, you will do her a great pleasure, for she has some small purchases to make before we leave. Let me know whether you have been relieved of your stomach troubles and domestic worries, and how you spent the night. Goodbye, madam and friend.
+
+Letter C – To Madame d’Épinay
+
+This Thursday, in the year 1756.
+
+I had forgotten that I was going to dinner at the Baron’s house today, and therefore I cannot go for a walk with you this afternoon.
+
+Being occupied with finding ways to live peacefully in my solitude, I am trying to turn into money everything that is useless to me; and my music is even more useless to me than my books. Therefore, if you are not already overwhelmed by the troubles I cause you, I would like to send you all of it. You can choose whatever you wish to get rid of, and I will try my best to get rid of the rest. I cannot express in words how delighted I am at the thought of no longer having anything but you in my life.
+
+Letter CII – To the Same One
+
+March 1756.
+
+I met Mr. Deleyre, and we agreed that he would complete the work started at the beginning of the month and that he would ask you to thank Mr. de Saint-Lambert for further assistance; moreover, I believe that it was only the presence of Conti that prevented him from taking advantage of your offer, and he will certainly do so if you renew it.
+
+Although my plans are well-made, I am in a state of crisis that troubles me until I leave this place; I earnestly desire to be able to settle down somewhere by Saturday evening. If such haste incurs any additional expenses, please consider them as something I am willing to bear. I have never done anything with such good intentions or that has been more beneficial to my peace of mind.
+
+Please let me know how you are. I will come to see you tonight or tomorrow.
+
+Letter CIV – To the Same One
+
+[572]
+
+Although time has been against me since my arrival here, I have just spent the three most peaceful and pleasant days of my life; they will be even more so once the workers employed by my extravagance or your concern are gone. Thus, I will truly be alone only in another two or three days; until then, I am making arrangements—not according to Turkish customs, which dictate that no permanent dwelling should be established here—but according to my own principles, which urge me never to leave the place where I am currently staying. You will find me neatly arranged, except for the excess of luxury you have added, which, every time I enter my room, makes me feel as if I am entering the residence of someone so opulently furnished. Moreover, I do not recommend that you expect many compliments on our first meeting; instead, I reserve for you a serious reprimand for coming here sick and in pain, without considering either your or my well-being. Hurry and assure me about the consequences of this indiscretion, and remember once and for all that I will never forgive you for forgetting my interests in favor of yours.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Penso che non sia necessario cercare eccessivamente precisione nei termini “modus numerus” utilizzati da Orazio, né in tutti gli altri termini tecnici presenti nelle sue poesie. L’unico passaggio in cui Orazio sembra aver scelto deliberatamente termini specifici – e che quindi solo gli ignoranti riescono a comprendere e spiegare – è quello relativo al “sonante mistum”, nell’epopea nona. Nel resto, egli utilizza in modo vago concetti come l’“strumento musicale” o il “numero” per indicare rispettivamente la musica e la poesia; ed è proprio a causa di questa mancanza di riflessione elementare che così tanti commentatori si sono tormentati in modo ridicolo su queste questioni.
+
+Per quanto riguarda il significato preciso dei due termini in questione, bisogna cercarlo in Boezio e in Martianus Capella[564]; poiché essi sono, tra gli antichi, gli unici latini i cui scritti sulla musica ci siano pervenuti. Vi si troverà che il termine “Numerus” viene utilizzato per indicare l’esecuzione del ritmo, cioè, in termini musicali, la divisione regolare dei tempi e delle durate. Per quanto riguarda il termine “modus”, esso si riferisce alle regole particolari della melodia, soprattutto a quelle che costituiscono il modo o il tono musicale. Così come il numero influenzava la durata dei tempi musicali, il modo influenzava gli intervalli e i gradi dei suoni; in questo senso, il “modo armonioso” seguiva le regole degli intervalli acuti e gravi, mentre il “modo disarmonioso” seguiva regole opposte.
+
+A proposito del canto, da molto tempo avevo dimenticato di parlarvi di un’osservazione che ho fatto riguardo al canto dei Salmi nei nostri templi; un canto la cui antica semplicità lodo molto, ma la cui esecuzione risulta scioccante per le orecchie sensibili a causa di un difetto facilmente correggibile. Questo difetto consiste nel fatto che il cantore, essendo situato piuttosto lontano da alcune parti del tempio e poiché il suono impiega molto tempo ad attraversare queste grandi distanze, la sua voce arriva appena alle estremità del tempio quando già ha cambiato tono e inizia a pronunciare altre note; questo diventa ancora più evidente in alcuni punti, poiché il suono impiega un tempo ancora maggiore per spostarsi da un’estremità all’altra rispetto al punto centrale dove si trova il cantore, e quindi l’aria presente nel tempio viene divisa in diversi suoni molto discordanti che si sovrappongono continuamente, causando un forte disagio alle orecchie abituate a ascoltare con attenzione. Un difetto che persino l’organo non fa altro che accentuare, poiché, a differenza del cantore che si trova al centro dell’edificio, esso emette il suono soltanto da un’estremità.
+
+Il rimedio a questo inconveniente mi sembra molto semplice: poiché i raggi visivi viaggiano dall’oggetto all’occhio nell’istante stesso in cui vengono emessi, o comunque con una velocità incomparabilmente maggiore rispetto a quella con cui il suono si trasmette dal corpo sonoro all’orecchio, basta sostituire i raggi visivi al suono per ottenere, in tutta l’estensione dell’area uditiva, un canto simultaneo e perfettamente armonioso. Per farlo, è sufficiente posizionare il cantante, o chiunque sia incaricato di questa funzione, in modo che sia visibile a tutti, e fargli utilizzare un bastone di misura il cui movimento possa essere facilmente osservato da lontano, ad esempio un rotolo di carta. Con questa precauzione – prolungare abbastanza la prima nota affinché il suo suono venga percepito ovunque prima che il canto continui – tutto il resto del brano risuonerà perfettamente in armonia, e ogni disarmonia sparirà inevitabilmente. Si potrebbe persino, al posto di un uomo, utilizzare un cronometro, il cui movimento sarebbe ancora più regolare.
+
+Ne deriverebbero altri due vantaggi: il primo è che, senza quasi alterare il canto dei salmi, si potrebbe dar loro un certo ritmo o misura, osservando almeno le sillabe lunghe e quelle brevi più significative; il secondo è che quella noia e monotonia che caratterizzano talvolta i salmi possono essere alleviate da un’armonia giusta, mascolina e maestosa, aggiungendo le basi musicali e le parti corrispondenti, secondo l’intenzione originale dell’autore, il quale certamente non era un musicista da sottovalutare. Ecco, signore, ciò che ritengo sia un utilizzo importante dell’arsis e della thesis, nonché del numero musicale. Ma non posso dire di più; mi manca piuttosto la carta per continuare questa conversazione. Buongiorno, signore; vi abbraccio con rispetto e con tutto il mio [cuore](/positions/fideism).
+
+Lettera XCVI – A Monsieur de Boissi
+
+Rinviandogli la LETTERA DI UN BORGHESE DI BORDO,
+
+aveva voluto pubblicare su “Le Mercure” soltanto con il mio consenso.
+
+e dopo le modifiche che riterrò opportune apportarvi.
+
+Parigi, 24 gennaio 1756.
+
+Ringrazio molto umilmente il signor de Boissi per la gentilezza dimostrata nel condividere con me questo testo. Mi sembra scritto in modo piacevole, arricchito da quell’ironia sottile e gradevole che, credo, si possa definire “cortesia”; non mi sento affatto offeso da esso. Non solo acconsento alla sua pubblicazione, ma desidero addirittura che venga stampato così com’è, a beneficio sia del pubblico che mio. Se la morale dell’autore sembra più sana della sua logica, e se i suoi consigli sono migliori dei suoi ragionamenti, non è forse perché i difetti della mia persona risultano molto più evidenti delle errori del mio libro? In ogni caso, tutte quelle cose orribili che vi trova dimostrano ancora di più che non dovrebbe perdere tempo a leggerlo.
+
+Lettera XCVIII – Alla stessa persona
+
+[567]
+
+... 1756.
+
+Ecco il mio maestro e consolatore, Plutarco; conservatelo senza esitazioni finché lo leggerete, ma non fatene uso per nulla, e soprattutto non prestatelo a nessuno; poiché voglio che sia utilizzato soltanto da voi. Se potete aiutare mademoiselle Le Vasseur ad ottenere i soldi necessari per il suo abito, le farete molto piacere; infatti ha alcune piccole spese da sbrigare prima della nostra partenza. Fatemi sapere se siete guarita dalla colica e dai vostri problemi domestici, e come avete trascorso la notte. Buongiorno, signora e amica mia.
+
+Lettera C – Alla signora d’Épinay
+
+Questo giovedì del 1756.
+
+Avevo dimenticato che oggi avrei dovuto cenare da barone[570], quindi non posso andare a fare una passeggiata con te questo pomeriggio.
+
+Occupato a trovare modi per vivere tranquillamente nella mia solitudine, cerco di trasformare in denaro tutto ciò che mi è inutile; la mia musica lo è ancora di più dei miei libri. Quindi, se non siete già sopraffatta dai problemi che vi causo, vorrei inviarvi tutta la mia roba. Potrete scegliere ciò di cui potete disfarvene, e io cercherò di liberarmi del resto. Non posso dirvi con quanta gioia penso al momento in cui non vedrò più altro che voi.
+
+Lettera CII – Alla stessa persona
+
+Marzo 1756.
+
+Ho incontrato il signor Deleyre e abbiamo concordato che egli porterà a termine il lavoro iniziato, e vi chiederà di ringraziare il signor de Saint-Lambert per quanto riguarda la prosecuzione del progetto; inoltre, credo che sia stata solo la presenza di Conti ad impedirgli di approfittare della vostra offerta, e che ne approfitterà se la rinnoverete.
+
+Nonostante le mie posizioni siano ben definite, rimango in uno stato di crisi che mi tormenta fino al momento del mio trasferimento; desidero ardentemente potermi stabilire entro sabato prossimo. Se questa accelerazione dei procedimenti richiede spese supplementari, consideratele a mio carico; non ne ho mai affrontate di migliori, né più utili per il mio riposo.
+
+Fatemi sapere come state. Vi andrò a trovare stasera o domani.
+
+Lettera CIV – Alla stessa persona
+
+[572]
+
+Sebbene il tempo mi sia ostile da quando sono arrivato qui, ho appena trascorso i tre giorni più tranquilli e dolci della mia vita; saranno ancora più sereni quando gli operai che il mio lusso o la vostra premura occupano se ne saranno andati. Quindi, in realtà, sarò veramente solo tra due o tre giorni; intanto mi sistemo non secondo la morale turca, che vuole che qui sotto non si stabilisca mai un domicilio permanente, ma secondo la mia, che mi spinge a non lasciare mai quello che occupo. Mi troverete sistemato in modo delizioso, tranne per la magnificenza che avete aggiunto voi; ogni volta che entro nella mia stanza, mi sembra di dover rispettosamente cercare il proprietario di un luogo così ben arredato. Inoltre, non vi consiglio di fare troppo affidamento su complimenti al nostro primo incontro; anzi, vi riservo una severa critica per essere venuti qui malati e sofferenti, senza considerare né voi né me. Affrettatevi a rassicurarmi riguardo alle conseguenze di questa indiscrezione, e ricordatevi, una volta per tutte, che non vi perdonerò mai se dimenticherete così i miei interessi per pensare ai vostri.
 
 <span class="atom-split" data-atom="032" data-title="(apertura) (parte 32)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
@@ -1594,6 +4632,134 @@ SECRÉTAIRE DES ÉTATS DE LA BASSE-AUTRICHE.
 
 Vous me demandez, monsieur, des louanges pour vos augustes souverains et pour les lettres qu'ils font fleurir dans leurs états. Trouvez bon que je commence par louer en vous un zélé sujet de l'impératrice et un bon citoyen de la république des lettres. Sans avoir l'honneur de vous connaître, je dois juger, à la ferveur qui vous anime, que vous vous acquittez parfaitement vous-même des devoirs que vous imposez aux autres, et que vous exercez à la fois les fonctions d'homme d'état au gré de leurs majestés, et celles d'auteur au gré du public.
 
+<span class="qlang-split" data-lang="en"></span>
+
+I have found two errors in the joint account regarding the money you gave me; both of them are to your disadvantage and make me suspect that you may have made other similar mistakes, which would not go unnoticed for long. The first error amounts to fourteen pounds: you are paying seven hands of Dutch paper at five pounds and five pence each, whereas it actually cost me three pounds and five pence, and I have noted this for your reference. The second error is six pounds, relating to a Racine play that I never received in the first place, so it is impossible you could have sold it to my benefit. In total, these amount to twenty francs, which should be credited to your account. Having dealt with the financial matters, let’s get back to our original topic.
+
+These past few days, I have thought only of myself; I have savored the beauties of my dwelling and the charms of complete freedom. But this morning, as I strolled in a delightful place, I imagined my old friend Diderot by my side. As I pointed out to him all the pleasures of that walk, I realized that these pleasures were even greater for me. I do not know whether I will ever truly be able to enjoy such heightened sensations; but if it is possible at some time, it will probably be thanks to the help of my old friend Grimm. Perhaps he could—and would—arrange for me to meet the friend I introduced to him, and share with me the joy of receiving him. It is not yet the right time to talk about all this; but you, my dear friend, when will we see each other again—you, in good health, and your savior[574], free from any troubles? He has promised to come, and he certainly will. As for you, my kind friend, no matter how much I long to see you, if you come without him, please do not come without his permission. Goodbye; despite the hermit’s beard[575] and the bear’s fur, please allow me to kiss you. And bring to the lord of this dwelling the respects of his most devoted subject and honorary fountainkeeper[576].
+
+The governors wish for me to implore you to accept their most humble respects; they are getting used to this place, just as well as I am—and even better than my cat is.
+
+Letter CVI – To the Same One
+
+The Hermitage, May 1756.
+
+I wanted to go and see you on Thursday, but the weather ruined the roads; they haven’t been dried yet. Nevertheless, if the weather is good tomorrow, I plan to try making the trip. In the meantime, please let me know how you are, for I am worried about both your physical and mental well-being. Goodbye, madam and friend; I look forward to those moments of tranquility when you will have time to love me a little.
+
+Here are your two books; I thank you for them.
+
+Letter CVII – To the Same One
+
+The Hermitage, May 1756.
+
+Madam, you will be pleased to hear that my stay here is becoming increasingly delightful for me; either you or I will change greatly, or else I will never leave. You, together with Monsieur d’Épinay, will enjoy the satisfaction of having made a man happy. This is certainly something worth not regretting in exchange for the coat from which you offer me half of it[579].
+
+I still have one small problem to resolve; it’s the remainder of my complaint. Madam, I would kindly ask you to help me get out of this predicament. To do that, I would like to, but let’s proceed in order; there are so many things I want to ask for that I need to prioritize them.
+
+1° To pay Madame Sabi 89 livres and 16 sous for rent and a fixed amount per person, in accordance with the entry I have made in the attached small book.
+
+2° To receive a receipt from both parties in respect of said book.
+
+3° Grant leave at the end of this term.
+
+4° Today, try to have the bed and the tapestry in the alcove removed, if possible.
+
+5° Load both of them onto the gardener’s car, along with the mattresses and any pottery or small utensils that can be added to them.
+
+6° To do this, it would be necessary to send someone competent to talk with the gardener boy, so that he could disassemble and pack everything without causing any damage.
+
+7° For another journey, there will still be a camp bed in the attic, about forty bottles that are still in the cellar; and there is also the wardrobe, along with all the brochures and papers it contains. To transport these items, I will send a trunk from here, along with a letter asking Mr. Deleyre to oversee this process of organizing the papers.
+
+In addition to this, it is necessary to take the small precaution of paying Madame Sabi in advance, so that she does not become alarmed when she sees my apartment being emptied without any mention of the agreed-upon and therefore due payment.
+
+All of this assumes that Madame d’Esclavelles’ move has been completed, and in order to prevent the gardener’s car from returning empty while there are still things to be transported. Moreover, my own great caution, which involved considerable effort in making all these arrangements, does not allow me to rely solely on your judgment regarding any possible adjustments that might need to be made to this plan.
+
+Please accept the most humble thanks of Mademoiselle Le Vasseur. So you had already guessed that the ink bottle had been used to deliberately spread ink over all the laundry belonging to these good people, leaving not a single piece intact? It seems that you, just like the gods, possess a provident and benevolent nature; something very similar was said when your gift was received. Time has not yet begun to heal its wounds, and your house is still far from completion. It would be premature to think about returning so soon. What you need to do now is to continue to take good care of your health, so that when you are at the Chevrette, you will be able to come to the Hermitage often to seek the company of a friend and some solitude. I will show you some delightful walks—places that I will love even more once you learn to appreciate them as well.
+
+Your advice is good, and I will follow it from now on. I would like to have my friends without worry, but not without warmth; I would see them with joy, yet I would also be able to do without them. I feel that they will always remain dear to me, and what I have lost in their regard is merely that excessive sensitivity which sometimes caused me discomfort and almost always dissatisfaction. Moreover, I have never doubted Diderot’s good intentions; but there is a long way between his home and mine, and many obstacles to overcome along the way. I would be lost if he tried to come and see me; he might plan to do so a hundred times, yet I would never see him once. Such a man would need to be taken away from his home by force in order to make him do what is desired of him.
+
+Hello, my good friend—no, not “madame,” although I inadvertently wrote it that way twice at the beginning of this scribble. But why such a correction? And what difference does it make between words when the [-heart](/positions/fideism) gives them all the same meaning?
+
+Letter CIX – To the Same One
+
+1756.
+
+Madam, I am worried about the state you were in when I left you yesterday; please let me know how you are. Please do your best to recover, for the sake of both you and me. Believe me—despite all the hardships of your situation, it would be very difficult for you to find a more sincere friend than him.
+
+Letter CIX – To Mr. de Scheyb
+
+Secretary of State of Lower Austria.
+
+[581]
+
+At the Hermitage, on July 15, 1756.
+
+You ask me, sir, to praise your august sovereigns and the literary endeavors they promote in their realms. Allow me then to begin by praising you as a zealous subject of the Empress and a worthy citizen of the Republic of Letters. Though I have not the honor of knowing you personally, I must conclude, from the fervor with which you pursue these pursuits, that you fulfill perfectly the duties you impose upon others—and that you simultaneously carry out the responsibilities of a statesman at the service of your sovereigns and those of an author who responds to the demands of the public.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ho trovato due errori nel conto congiunto riguardo al denaro che mi avete consegnato; entrambi sono a vostro svantaggio e mi fanno sospettare che possiate averne commessi altri dello stesso tipo, il che non vi riuscirebbe per molto tempo. Il primo errore riguarda quattordici lire: pagate sette fogli di carta olandese a cinque lire e cinque soldi l’uno, invece di tre lire e cinque soldi, che è stato il mio costo e che vi ho indicato chiaramente. Il secondo errore riguarda sei lire per un’opera di Racine che non ho mai avuto, quindi non potete averla venduta a mio vantaggio; in totale, si tratta di venti franchi per cui siete creditata sul mio conto. Ora parliamo del denaro, e torniamo al nostro argomento principale.
+
+In questi giorni ho pensato soltanto a me stesso; ho goduto delle bellezze della mia dimora e dei piaceri di una totale libertà. Ma questa mattina, passeggiando in un luogo delizioso, ho immaginato il mio vecchio amico Diderot al mio fianco; notando con lui i pregi di quella passeggiata, mi sono reso conto che tali piaceri aumentavano anche per me. Non so se riuscirò mai davvero a godere appieno di questo aumento. Se ciò dovesse accadere, probabilmente sarà grazie al favore del mio vecchio amico Grimm: forse potrà e vorrà organizzare un incontro con l’amico che gli ho procurato, per condividere con me la gioia di riceverlo. Non è ancora il momento di parlare di tutto questo. Ma voi, quando ci rivedremo? In salute, e il vostro salvatore senza problemi? Mi ha promesso di venire, e sicuramente lo farà. Quanto a voi, mia cara amica. Per quanto desideri vedermi, se venite senza di lui, almeno non venite senza la sua autorizzazione. Addio. Nonostante la barba dell’eremita e il pelo dell’orso, permettetemi di baciarvi. E portate ai piedi del signore di questa casa gli omaggi del suo molto devoto suddito e onorario fontaniere.
+
+Le governatrici desiderano che io vi supplichi di accettare i loro più umili rispetti; si sono abituate, qui, quasi quanto me, e molto meglio del mio gatto.
+
+Lettera CVI – Alla stessa persona
+
+L’Ermitage, maggio 1756.
+
+Volevo andare a trovarvi giovedì, ma il maltempo ha rovinato completamente i sentieri, che non sono ancora stati asciugati; tuttavia, se il tempo migliora, proverò comunque a partire domani. Nel frattempo, fatemi sapere come state, perché sono preoccupato per la vostra salute fisica e mentale. Salve, signora e amica mia; aspetto con impazienza quei momenti di tranquillità in cui avrete il tempo di amarmi un po’.
+
+Ecco i vostri due libri, per i quali vi ringrazio.
+
+Lettera CVII – Alla stessa persona
+
+L’Ermitage, maggio 1756.
+
+Sarà certamente un grande conforto per voi, signora, sapere che il mio soggiorno qui mi diventa sempre più piacevole; o noi due cambieremo molto, oppure non ne uscirò mai. Godrete, insieme a Monsieur d’Épinay, del piacere di aver reso felice un uomo. Ed è proprio per questo che non dovrete rimpiangere lo scambio di mantelli di cui mi offrite metà[579].
+
+Mi resta ancora una piccola questione da risolvere: si tratta del resto della mia dichiarazione. Signora, dovrete per favore aiutarmi a uscire da questa situazione imbarazzante. Per farlo, vorrei, ma procediamo un po’ in ordine; voglio infatti molte cose, e quindi devo stabilire quali siano le priorità.
+
+1° Pagare a madama Sabi 89 lire e 16 soldi per l’affitto e la tassa di capitazione, secondo quanto ho annotato nel libretto allegato.
+
+2° Ricevere una ricevuta da entrambe le parti relativa allo stesso libro.
+
+3° Concedere congedo alla fine di questo periodo.
+
+4° Far smontare oggi il letto e la tappezzeria dell’alcova, se ciò è possibile.
+
+5° Caricare entrambi sul furgone del giardiniere, insieme ai materassi e a tutto ciò che si possa aggiungere in termini di ceramiche e piccoli utensili domestici.
+
+6° Per farlo, sarebbe necessario inviare qualcuno competente che possa smontare e imballare tutto senza causare alcun danno.
+
+7° Per un altro viaggio, rimarranno un letto da campeggio che si trova nel solaio, una quarantina di bottiglie ancora in cantina; e l’armadio, con le brochures e i documenti che contiene. Per trasportarli, invierò da qui una valigia, insieme a una lettera nella quale chiederò a Monsieur Deleyre di occuparsi personalmente di questo smistamento dei documenti.
+
+Inoltre, è necessario prendere questa piccola precauzione: iniziare pagando la signora Sabi, così da evitare che si spaventi nel vedere il mio appartamento svuotato senza che venga menzionata la scadenza prevista e, di conseguenza, l’importo dovuto.
+
+Tutto ciò presuppone che il trasloco di madame d’Esclavelles sia già terminato; inoltre, affinché la carrozza del giardiniere non torni a vuoto finché ci sono ancora cose da portare via, ho preso tutte queste precauzioni con grande cura. In ogni caso, la mia grande prudenza, che ha organizzato tutto questo con tanto impegno, non mi permette di affidarmi interamente alla vostra per quanto riguarda eventuali modifiche da apportare a questo progetto.
+
+Accettate le più umili ringraziamenti di mademoiselle Le Vasseur. Quindi avevate indovinato che l’inchiostro era stato distribuito con estrema precisione dalla Chevrette su tutti i vestiti delle persone oneste, e che a malapena un solo pezzo fosse rimasto intatto? Sembra che voi, proprio come gli dei, possediate una provvidenza previdente e benevola; è più o meno ciò che è stato detto quando vi abbiamo ricevuto il vostro dono. Il tempo non si è ancora ripreso, e la vostra casa non è ancora completata. Non è ancora il momento di avvicinarsi troppo l’uno all’altro. Quello che dovete fare per sfruttare questo periodo è continuare a rafforzare la vostra salute, in modo che, quando sarete alla Chevrette, possiate venire spesso all’Ermitage a cercare un amico e la solitudine. Vi mostrerò dei sentieri incantevoli, che amerò ancora di più quando anche voi li amerete.
+
+Il vostro consiglio è ottimo, e lo seguirò d’ora in poi. Vorrei amare i miei amici senza preoccupazioni, ma senza freddezza; li vedrei con gioia, ma saprei anche fare a meno di loro. Sento che continueranno sempre ad essere ugualmente cari per me, e tutto ciò che ho perso per loro è quella delicatezza eccessiva che a volte mi causava disagio e quasi sempre insoddisfazione. Inoltre, non ho mai dubitato delle buone intenzioni di Diderot; ma c’è molta distanza tra la sua casa e la mia, e ci sono molte persone da superare lungo il cammino. Sono perduto se lui decidesse di venire a trovarmi: cento volte ne avrà l’intenzione, ma non lo vedrò mai arrivare. È un uomo che bisognerebbe portare via dalla sua casa, e costringerlo con la forza a fare ciò che si vuole da lui.
+
+Ciao, mia cara amica, e non “madame”, anche se per errore l’ho scritto due volte all’inizio di questo scarabocchio. Ma perché questo rettifica? E qual è la differenza tra queste parole, quando il [cuore](/positions/fideism) ne dà a tutte lo stesso significato?
+
+Lettera CIX – Alla stessa persona
+
+1756.
+
+Sono preoccupato, signora, per lo stato in cui vi ho lasciata ieri; fatemi sapere come state. Cerchate di riprendervi, per il vostro bene e per il mio. E credetemi: non troverete mai un amico più sincero e devoto di lui.
+
+Lettera CIX – A Monsieur de Scheyb
+
+Segretario di Stato della Bassa Austria.
+
+[581]
+
+All’Ermitage, il 15 luglio 1756.
+
+Mi chiedete, signore, di lodare i vostri augusti sovrani e le lettere che fanno fiorire nei loro regni. Permettetemi allora di iniziare lodando in voi un devoto suddito dell’imperatrice e un buon cittadino della repubblica delle lettere. Senza l’onore di conoscervi personalmente, devo giudicare, dalla passione che vi anima, che svolgete perfettamente i doveri che imponete agli altri, e che esercitate al contempo le funzioni di statista a servizio delle loro maestà e quelle di autore a beneficio del pubblico.
+
 <span class="atom-split" data-atom="033" data-title="(apertura) (parte 33)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 À l'égard des soins dont vous me chargez, je sais bien, monsieur, que je ne serais pas le premier républicain qui aurait encensé le trône, ni le premier ignorant qui chanterait les arts ; mais je suis si peu propre à remplir dignement vos intentions, que mon insuffisance est mon excuse, et je ne sais comment les grands noms que vous citez vous ont laissé songer au mien. Je vois d'ailleurs, au ton dont la flatterie usa de tout temps avec les princes vulgaires, que c'est honorer ceux qu'on estime que de les louer sobrement ; car on sait que les princes loués avec le plus d'excès sont rarement ceux qui méritent le mieux de l'être. Or il ne convient à personne de se mettre sur les rangs avec le projet de faire moins que les autres, surtout quand on doit craindre de faire moins bien. Permettez-moi donc de croire qu'il n'y a pas plus de vrai respect pour l'empereur et l'impératrice-reine dans les écrits des auteurs célèbres dont vous me parlez, que dans mon silence, et que ce serait une témérité de le rompre à leur exemple, à moins que d'avoir leurs talents.
@@ -1630,6 +4796,78 @@ Tous mes griefs sont donc contre votre Poème sur le Désastre de Lisbonne, parc
 
 Ne vous y trompez pas, monsieur, il arrive tout le contraire de ce que vous vous proposez. Cet optimisme, que vous trouvez si cruel, me console pourtant dans les mêmes douleurs que vous me peignez comme insupportables. Le poème de Pope adoucit mes maux et me porte à la patience ; le vôtre aigrit mes peines, m'excite au murmure, et m'ôtant tout, hors une espérance ébranlée, il me réduit au désespoir. Dans cette étrange opposition qui règne entre ce que vous prouvez et ce que j'éprouve, calmez la perplexité qui m'agite, et dites-moi qui s'abuse du sentiment ou de la raison.
 
+<span class="qlang-split" data-lang="en"></span>
+
+Regarding the duties you entrust to me, I am well aware, sir, that I would not be the first republican to praise the throne, nor the first ignorant person to extol the arts; but I am so utterly unfit to fulfill your intentions that my inadequacy is in fact my excuse. I cannot understand how those great names you mention could have led you to consider me worthy of such a role. Moreover, judging by the tone always used by flatterers toward ordinary princes, it seems that true honor lies in praising them modestly—for it is well known that those who are most excessively praised are often not those who truly deserve it. And surely no one should seek to fall short of others, especially when there is a risk of doing even worse. Therefore, allow me to believe that the respect shown for the Emperor and Empress-Rainbow in the writings of those famous authors you mention is no different from my own silence; and that it would be sheer audacity to break this silence by following their example, unless one possesses their talents as well.
+
+You also urge me to tell you whether your imperial majesties were right in dedicating magnificent institutions and enormous sums of money to public lectures in their capital; and after receiving affirmative answers from so many distinguished authors, you still demand one from me as well. As for me, sir, I do not possess the necessary [knowledge](/schools/enlightenment) to form a judgment so promptly; nor am I sufficiently familiar with the customs and talents of your compatriots to apply it confidently to your question. However, here is my precise opinion on this matter, and you may draw your own conclusions far more accurately than I could.
+
+In terms of morals: when men are corrupt, it is better for them to be knowledgeable than ignorant; but when they are good, there is a risk that knowledge may corrupt them.
+
+In terms of talents, when one possesses them, knowledge refines and strengthens them; but when one lacks them, study only deprives one of reason, turning a person of good sense and little intellect into a pedantic fool.
+
+I could add some reflections to this. Whether or not science is cultivated, whenever a great man emerges in any century, he remains a great man; for the source of his merit lies not in books, but in his own mind. Often, the obstacles he encounters and overcomes only serve to elevate and enhance him further. One can buy knowledge and even scholars; but genius, which makes that knowledge useful, cannot be purchased. It knows neither money nor the power of princes; it does not depend on them to bring it into existence, but merely to honor it. Genius lives and achieves immortality through the freedom that is its very nature. Even your illustrious Metastase was already a glory for Italy before he was welcomed by Charles VI. Let us therefore strive not to confuse true progress in talent with the protection that sovereigns may offer it. In China, science has existed for two thousand years and yet remains in its infancy; whereas in England, where the government does nothing to support it, science flourishes at its peak. Throughout Europe, though there are countless men of letters, those of real merit are still rare; enduring works are even rarer still, and future generations will likely think that far fewer books were written in this century than are being produced today.
+
+As for your particular country, sir, there is a very simple observation to make: the empress and her august ancestors did not need to rely on historians and poets to celebrate the great things they sought to accomplish; yet they accomplished great things, and those achievements were granted immortality, just like those of that ancient people who knew how to act but did not write. Perhaps what was most lacking in their endeavors was precisely what would have crowned them with true glory—the ability to sustain, through literature, so much renown that had been gained without it.
+
+In any case, sir, there will be many others who will offer praises to the protectors of science and the arts, praises that even their imperial majesties would share with most kings. For me, what I admire in them—and what is truly inherent to them—is their constant love for virtue and for all that is honest and honorable. I do not deny that your country was once barbaric; but I say that it would have been far easier to establish the arts among the Huns than to turn Europe’s most prestigious courts into schools of good manners.
+
+Furthermore, I must inform you that since your letter was sent to Geneva before arriving in Paris, it took nearly six weeks to reach me, which prevented me from responding to it as promptly as I would have wished.
+
+I am, as an honest man can be towards another, Mr. etc.
+
+Observation
+
+In this letter, which is remarkable for its blend of irony and philosophy, Rousseau summarizes his views on the literary controversy that arose in connection with his first speech. When he says that it is better for corrupt people to be wise than ignorant, he reveals how greatly this opinion had been distorted. By asking so naively for praise for his sovereigns, Mr. Scheyb was addressing someone who was far from generous in offering such praise.
+
+Letter CXII – To Mr. de Voltaire on Providence
+
+On August 18, 1756.
+
+Your last two poems[583], sir, have reached me in my solitude. Although all my friends are aware of my fondness for your writings, I have no idea how they could have come to me, unless it was through you. Therefore, I believe I owe you my thanks both for the poem itself and for the work it represents. In them, I found both pleasure and enlightenment, and I recognized the hand of a master. I would not say that everything in them pleases me equally; but those aspects that do not please me only inspire me to have even greater confidence in those that delight me. It is not without effort that I sometimes defend my reason against the charms of your poetry; but it is precisely in order to make my admiration more worthy of your works that I strive not to admire everything in them[584].
+
+I will say more, sir; I will speak without reservation. Not the beauties that I believed to perceive in those two poems—not even the faults that more discerning people might notice—no, it is rather the displeasures that disturb my enjoyment of your lectures at this moment that I wish to express. And I will say them still, moved by the first reading when my heart eagerly listened to yours; loving you as a brother, respecting you as a master, and finally feeling flattered that you would recognize in my intentions the sincerity of an upright soul, and in my words the tone of a friend of truth speaking to a philosopher. Indeed, the more your second poem delights me, the more freely I take sides against the first; for if you did not hesitate to oppose yourself, why should I fear to agree with you? I must believe that you do not hold much value on the sentiments that you so vehemently reject.
+
+Therefore, all my grievances are directed at your Poem on the Disaster of Lisbon, for I expected it to have effects more befitting humanity, which seems to have inspired you. You accuse Pope and Leibnitz of insulting our sufferings by claiming that everything is well; moreover, you paint the picture of our miseries in such vivid detail that you only serve to intensify our feelings of sorrow. Instead of the consolation I hoped for, you only cause me further anguish. It seems as if you fear that I might not realize just how unhappy I am, and you believe that proving to me that everything is bad will actually bring me some relief.
+
+Do not be mistaken, sir; the very opposite of what you intend happens. This optimism, which you find so cruel, actually comforts me in the very same pains that you describe as unbearable. Pope’s poem alleviates my suffering and inspires patience in me; yours, on the other hand, intensifies my pain, incites rebellion within me, and, taking away everything except a fragile hope, leaves me in despair. In this strange contradiction between what you claim and what I experience, please resolve the confusion that plagues me and tell me—whom it is that is deceiving itself, whether by emotion or by reason.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Per quanto riguarda i compiti che mi affidate, so bene, signore, che non sarei il primo repubblicano a lodare il trono, né il primo ignorante a esaltare le arti; ma sono così lontano dal poter adempiere degnamente alle vostre intenzioni, che la mia insufficienza è proprio la mia scusa. Non so davvero come i grandi nomi che citate possano avervi fatto pensare a me. Inoltre, osservando il tono con cui la lusinga è sempre stata usata nei confronti dei principi comuni, si capisce che onorarli consiste proprio nel lodarli in modo sobrio; infatti, si sa bene che i principi lodati con eccesso sono raramente quelli che meritano davvero di essere così esaltati. E non è certo appropriato per nessuno mettersi al loro livello con l’intenzione di fare meno degli altri, soprattutto quando si teme di non riuscire nemmeno a farlo bene. Permettetemi quindi di credere che nel silenzio dei grandi autori di cui parlate non ci sia certo meno rispetto per l’imperatore e l’imperatrice-regina di quanto ce ne sia nei miei scritti. E sarebbe una temerarietà rompere questo silenzio seguendo il loro esempio, a meno di possedere i loro talenti.
+
+Mi esortate anche voi a dirvi se le loro maestà imperiali abbiano fatto bene a dedicare istituzioni magnifiche e somme enormi a lezioni pubbliche nella loro capitale; e, dopo la risposta affermativa di tanti illustri autori, esigete ancora la mia. Quanto a me, signore, non dispongo delle [conoscenze](/schools/enlightenment) necessarie per decidere con tanta rapidità; inoltre, non conosco abbastanza le usanze e i talenti dei vostri connazionali per poter dare una risposta certa alla vostra domanda. Ecco tuttavia il dettaglio delle mie opinioni, su cui potrete trarre voi stessi le conclusioni migliori di me.
+
+In termini di costumi sociali: quando gli uomini sono corrotti, è meglio che siano istruiti piuttosto che ignoranti; quando invece sono buoni, si teme che le scienze possano corromperli.
+
+Per quanto riguarda i talenti: quando ne si possiedono, la conoscenza li perfeziona e li rafforza; quando invece ne mancano, lo studio finisce per privare una persona della ragione, trasformandola da una persona di buon senso e scarsa intelligenza in un pedante o uno sciocco.
+
+Potrei aggiungere alcune riflessioni a questo argomento. Che si coltivino o meno le scienze, in ogni secolo che nasca un grande uomo, egli rimane comunque un grande uomo; infatti la fonte del suo merito non risiede nei libri, ma nella sua mente, e spesso gli ostacoli che incontra e supera lo fanno crescere ancora di più. Si può acquistare la scienza, persino gli studiosi; ma il genio, che rende utile la conoscenza, non si compra: non conosce né l’oro né l’autorità dei sovrani; non spetta a loro farlo nascere, ma soltanto onorarlo. Il genio vive e si immortala nella libertà che gli è naturale, e persino il vostro illustre Metastasio era già una gloria per l’Italia prima di essere accolto da Carlo VI. Cerchiamo quindi di non confondere il vero progresso dei talenti con la protezione che i sovrani possono loro offrire. In Cina le scienze regnano da duemila anni e non riescono ancora a uscire dall’infanzia, mentre in Inghilterra sono al loro apice, nonostante il governo non faccia nulla per sostenerle. In Europa, sebbene ci siano molti letterati, le persone di vero merito sono sempre rare; gli scritti che sopravvivono nel tempo lo sono ancora di più, e la posterità crederà che in questo stesso secolo in cui ne vengono prodotti tanti, in realtà ne siano stati scritti molto pochi.
+
+Per quanto riguarda la vostra patria in particolare, signore, vi è un’osservazione molto semplice da fare: l’imperatrice e i suoi augusti antenati non hanno avuto bisogno di ricorrere a storici e poeti per celebrare le grandi imprese che volevano compiere; ma hanno effettivamente compiuto grandi imprese, e queste sono state consacrate all’immortalità, proprio come quelle di quel popolo antico che sapeva agire senza bisogno di scrivere. Forse alle loro azioni mancava ciò che avrebbe potuto renderle ancora più degne di lode: il fatto cioè di essere supportate dalle lettere, per rendere possibile celebrare una tale gloria ottenuta senza il loro aiuto.
+
+In ogni caso, signore, ci sono molti altri che renderanno agli protettori delle scienze e delle arti gli elogi che anche le vostre maestà imperiali condivideranno con la maggior parte dei re; per quanto mi riguarda, ciò che ammiro in loro, e che è veramente loro proprio, è il loro costante amore per la virtù e per tutto ciò che è onesto. Non nego che il vostro paese sia stato a lungo barbaro; ma dico che era più facile diffondere le belle arti tra gli Unni che trasformare la più grande corte d’Europa in un luogo di educazione ai buoni costumi.
+
+Del resto, devo dirvi che la vostra lettera, essendo stata inviata a Ginevra prima di arrivare a Parigi, è rimasta in viaggio per quasi sei settimane, il che mi ha impedito di rispondervi così presto come avrei voluto.
+
+Sono, per quanto un uomo onesto possa esserlo verso un altro, signore, ecc.
+
+Osservazione.
+
+In questa lettera, caratterizzata da un misto di ironia e filosofia che la rende particolarmente interessante, Rousseau riassume il proprio punto di vista sulla controversia letteraria scatenata in occasione del suo primo discorso. Quando afferma che sia meglio che gli uomini corrotti siano saggi piuttosto che ignoranti, mostra quanto questa opinione sia stata distorta. Chiedendo con ingenuità lodi per i suoi sovrani, il signor Scheyb si rivolgeva in realtà a qualcuno che non era certo prodigo di tali lodi.
+
+Lettera CXII – A Monsieur de Voltaire sulla Provvidenza
+
+Il 18 agosto 1756.
+
+I vostri ultimi due poemi[583], signore, sono giunti fino a me nella mia solitudine. E sebbene tutti i miei amici conoscano l’amore che provo per le vostre opere, non so da quale fonte possano essere arrivati, a meno che non sia dalla vostra. Pertanto credo di dovervi ringraziare sia per l’esemplare stesso che per l’opera in sé. In essi ho trovato piacere e istruzione insieme, e ho riconosciuto la mano del maestro. Non vi dirò che tutto mi piaccia ugualmente; ma ciò che non mi piace non fa altro che suscitare in me ancora maggiore fiducia nelle cose che mi entusiasmano. Non è senza difficoltà che a volte difendo la mia ragione contro i fascini della vostra poesia; ma è proprio per rendere la mia ammirazione più degna delle vostre opere che cerco di non ammirarvi in tutto[584].
+
+Farò di più, signore: vi dirò senza mezzi termini non le bellezze che ho creduto di percepire in questi due poemi – una tale analisi spaventerebbe la mia pigrizia – né tantomeno i difetti che persone più esperte di me potrebbero notare, ma piuttosto quei dispiaceri che in questo momento disturbano il piacere che provavo nelle vostre lezioni. Ve li dirò ancora, commosso da quella prima lettura in cui il mio cuore ascoltava con avidità il vostro; vi amo come un fratello, vi rispetto come un maestro e sono infine lusingato dal pensiero che riconoscerete nelle mie intenzioni la franchezza di un’anima onesta, e nei miei discorsi il tono di un amico della verità che parla a un filosofo. Del resto, più il vostro secondo poema mi incanta, più liberamente prendo posizione contro il primo; perché, se non avete esitato a contraddirvi stesso, perché dovrei temere di essere d’accordo con voi? Devo credere che non teniate davvero molto a sentimenti che confutate con tanta fermezza.
+
+Tutti i miei rimpianti riguardano quindi il vostro Poema sul Disastro di Lisbona, perché mi aspettavo che avesse effetti più degni dell’umanità, che sembra esservi ispirata. Vi rimproverate di Pope e di Leibnitz per aver insultato i nostri mali sostenendo che tutto vada bene; inoltre, descrivete con tale intensità le nostre miserie da aggravarne ancora il senso di dolore: al posto del conforto che speravo di trovare, non fate altro che rattristarmi. Sembra quasi che temiate che io non abbia sufficiente consapevolezza di quanto sia sfortunato, e credete di tranquillizzarmi molto dimostrandomi che tutto va male.
+
+Non si inganni, signore: accade esattamente il contrario di ciò che lei propone. Questo ottimismo, che lei ritiene così crudele, in realtà mi consola nelle stesse sofferenze che lei descrive come insopportabili. Il poema di Pope allevia i miei mali e mi induce alla pazienza; il suo, invece, aggrava le mie pene, mi spinge al lamento e, togliendomi tutto tranne che una speranza incerta, mi riduce al disperio. In questa strana contraddizione tra ciò che lei afferma e ciò che io provo, placi la mia confusione e dica chi si sta ingannando: se è il sentimento o la ragione.
+
 <span class="atom-split" data-atom="034" data-title="(apertura) (parte 34)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 « Homme, prends patience, me disent Pope et Leibnitz, les maux sont un effet nécessaire de la nature et de la constitution de cet univers. L'Être éternel et bienfaisant qui le gouverne eût voulu t'en garantir : de toutes les économies possibles, il a choisi celle qui réunissait le moins de mal et le plus de bien ; ou, pour dire la même chose encore plus crûment s'il le faut, s'il n'a pas mieux fait, c'est qu'il ne pouvait mieux faire. »
@@ -1647,6 +4885,42 @@ Il y a des événements qui nous frappent souvent plus ou moins, selon les faces
 Mais, quelque ingénieux que nous puissions être à fomenter nos misères à force de belles institutions, nous n'avons pu jusqu'à présent nous perfectionner au point de nous rendre généralement, la vie à charge, et de préférer le néant à notre existence, sans quoi le découragement-et le désespoir se aéraient bientôt emparés du plus grand nombre, et le genre humain n'eût pu subsister longtemps. Or, s'il est mieux pour nous d'être que de n'être pas, c'en serait assez pour justifier notre existence, quand même nous n'aurions aucun dédommagement à attendre des maux que nous avons à souffrir, et que ces maux seraient aussi grands que vous les dépeignez. Mais il est difficile de trouver, sur ce point, de la bonne foi chez les hommes, et de bons calculs chez les philosophes, parce que ceux-ci, dans la comparaison des biens et des maux, oublient toujours le doux sentiment de l'existence indépendant de toute autre sensation, et que la vanité de mépriser la mort engage les autres à calomnier la vie, à peu près comme ces femmes qui, avec une robe tachée et des ciseaux, prétendent aimer mieux des trous que des taches.
 
 Vous pensez, avec Érasme, que peu de gens voudraient renaître aux mêmes conditions qu'ils ont vécu ; mais tel tient sa marchandise fort haut, qui en rabattrait beaucoup s'il avait quelque espoir de conclure le marché. D'ailleurs, qui dois-je croire que vous avez consulté sur-cela ? des riches, peut-être, rassasiés de faux plaisirs, mais ignorant les véritables, toujours ennuyés de la vie, et toujours tremblants de la perdre ; peut-être des gens de lettres, de tous les ordres d'hommes le plus sédentaire, le plus malsain, le plus réfléchissant, et par conséquent le plus malheureux. Voulez-vous trouver des hommes de meilleure composition, ou du moins, communément plus sincères, et qui, formant le plus grand nombre, doivent au moins pour cela être écoutés par préférence ; consultez un honnête bourgeois qui aura passé une vie obscure et tranquille, sans projets et sans ambition ; un bon artisan qui vit commodément de son métier ; un paysan même, non de France, où l'on prétend qu'il faut les faire mourir de misère afin qu'ils nous fassent vivre, mais du pays, par exemple, où vous êtes, et généralement de tout pays libre. J'ose poser en fait qu'il n'y a peut-être pas dans le Haut-Valais un seul montagnard mécontent de sa vie presque automate, et qui n'acceptât volontiers, au lieu même du paradis qu'il attend et qui lui est dû, le marché de renaître sans cesse pour végéter ainsi perpétuellement. Ces différences me font croire que c'est souvent l'abus que nous faisons de la vie qui nous la rend à charge ; et j'ai bien moins bonne opinion de ceux qui sont fâchés d'avoir vécu, que de celui qui peut dire avec Caton : Nec me vixisse poenitet, quoniàm ità vixi, ut frustra me natum non existimem. Cela n'empêche pas que le sage ne puisse quelquefois déloger volontairement, sans murmure et sans désespoir, quand la nature ou la fortune lui porte bien distinctement l'ordre de mourir. Mais, selon le cours ordinaire des choses, de quelques maux que soit semée la vie humaine, elle n'est pas, à tout prendre, un mauvais présent ; et si ce n'est pas toujours un mal de mourir, c'en est fort rarement un de vivre.
+
+<span class="qlang-split" data-lang="en"></span>
+
+“Man, be patient,” Pope and Leibnitz told me. “Misfortunes are a necessary consequence of the nature and structure of this universe. The eternal and benevolent Being that governs it would have wished to protect you from them; among all possible arrangements, it chose the one that caused the least harm and brought the most good. Or, to put it even more bluntly—if it could not have done better, it is because it simply could not.”
+
+What does your poem tell me now? “Suffer forever, unhappy one. If there is a God who created you, he must be all-powerful; he could have prevented all your evils—so do not ever hope they will end. For otherwise, there would be no reason for your existence, except to suffer and die.” I do not know what such a doctrine can offer in the way of consolation compared to optimism or even the acceptance of fate. For myself, I must admit that it seems even more cruel than Manichaeism. If the dilemma of the origin of evil forced one to alter some aspect of God’s perfection, why then try to justify his power at the expense of his goodness? If one has to choose between two errors, I would prefer the first anyway.
+
+You certainly do not wish that your work be regarded as a poem against Providence; and I would never dare to give it such a name, even though you have described a certain writing[585] as a book against humanity, when in fact I was defending humanity against itself in that work. I am well aware of the distinction that must be drawn between an author’s intentions and the consequences that may arise from his doctrines. In justly defending myself, I merely wish to point out to you that, by depicting human misery, my goal was not only excusable but even praiseworthy, in my opinion: for I showed people how they were causing their own misfortunes, and thus how they could avoid them.
+
+I see no reason to seek the source of moral evil anywhere but in the free and perfected human being, who is inherently corrupt; as for physical evils, if the sensible and impassive material world constitutes a contradiction—in my opinion—it follows that such evils are inevitable in any system of which man is a part. In that case, the question is not why man is not perfectly happy, but why he exists at all. Moreover, I believe I have shown that, except for death—which is hardly a evil except for the preparations that precede it—most of our physical misfortunes are in fact our own doing. Without departing from your topic of Lisbon, consider this: nature did not gather twenty thousand six- or seven-story buildings in that area; if its inhabitants had been distributed more evenly and housed more properly, the damage would have been much less—or perhaps nonexistent at all. Everything would have been destroyed in the first shock, and the next day, people would have been seen twenty miles away, just as happy as if nothing had happened. But we insist on staying where we are, clinging to our possessions, and exposing ourselves to further dangers—because what we leave behind seems worth more than what we can take with us. How many unfortunate people lost their lives in that disaster simply because they wanted to save their clothes, their documents, or their money! Don’t we realize that, in such circumstances, a person’s identity becomes merely a tiny fraction of what they once were—so that saving that identity is hardly worth the effort when everything else has been lost?
+
+You would have preferred that the earthquake occur in the depths of a desert rather than in Lisbon. Can anyone doubt that earthquakes also [occur](/positions/realism_of_ideas) in deserts? But we do not mention it, because they cause no harm to the gentlemen from the cities—the only people we take into account. They hardly affect the animals and wild inhabitants of these remote areas, who neither fear the collapse of roofs nor the burning of houses. But what would such a privilege mean? Would it imply that the order of the world must change according to our whims, that nature must be subjected to our laws, and that in order to prevent an earthquake in a particular place, we simply need to build a city there?
+
+There are events that often affect us to varying degrees, depending on the perspective from which we consider them; these events often lose much of the horror they seem to inspire at first glance when examined more closely. I learned this from “Zadig,” and nature confirms it to me day after day: a quick death is not always a real evil—in fact, it can sometimes be regarded as a relative blessing. Among the many people crushed under the ruins of Lisbon, quite a few undoubtedly avoided even greater misfortunes. And despite the poignant nature of such descriptions and the poetic imagery they evoke, it is far from certain that any one of these unfortunate victims suffered more than if, according to the normal course of things, they had had to wait for death to come upon them after years of agony. Is there a more tragic end than that of a person who is overwhelmed with unnecessary care, prevented from breathing by notaries and heirs, murdered in their own bed by doctors, and then forced by barbaric priests to endure the process of dying in an agonizing manner? For me, it is clear that the evils imposed upon us by nature are far less cruel than those we ourselves add to them.
+
+But no matter how ingenious we may be at creating our own miseries through elaborate institutions, we have not yet managed to perfect ourselves to the extent of generally finding life unbearable and preferring nothingness to our existence. Otherwise, discouragement and despair would soon overcome the majority of people, and humanity could not have survived for long. Now, if it is better for us to exist than not to exist at all, that alone should be sufficient to justify our existence—even if we had no hope of compensation for the evils we must endure, even if those evils were as severe as you describe them. Yet it is difficult to find genuine sincerity in people’s views on this matter, nor sound reasoning among philosophers. For when they compare good and evil, they always overlook the pleasant sensation that comes with living independently of any other sensations. Moreover, the vanity inherent in despising death leads others to slander life—just as those women who, wearing stained clothes and wielding scissors, claim to prefer holes to stains.
+
+You, like Erasmus, believe that few people would wish to be reborn under the same conditions as those in which they lived; yet there are those who hold their goods at a very high price, and would significantly lower their demands if they had any hope of closing a deal. After all, whom do you think I should consult on this matter? Perhaps the rich, who are saturated with false pleasures but ignorant of true ones, always bored by life, and constantly fearing its loss; perhaps scholars, among all sorts of people—the most sedentary, the most unhealthy, the most contemplative, and therefore the most unhappy. Do you wish to find men of better character, or at least those who are generally more sincere? And since they form the majority, they should at least be given priority in being listened to. Consult an honest bourgeois who has led a quiet and uneventful life, without any ambitions or plans; a skilled artisan who makes a comfortable living from his trade; even a peasant—not from France, where it is claimed that they must be made to die in poverty so that we may live—but perhaps from your own country, or indeed from any free land. I dare say that there might not be a single mountain dweller in the Haut-Valais who is dissatisfied with his almost automated existence and would not gladly accept, instead of the paradise he awaits and deserves, the prospect of being reborn again and again to lead such a perpetual, dull existence. These differences lead me to believe that it is often our own abuse of life that makes it burdensome for us; and I hold those who regret having lived in far less esteem than those who can say, like Cato, “I have no regrets for having lived, for I have lived in such a way that I do not consider my birth to have been in vain.” Nevertheless, it is true that sometimes the wise person may willingly leave this life, without complaint or despair, when nature or fortune clearly command him to die. But, considering the ordinary course of things, no matter how many misfortunes life may bring, it is not, after all, a bad present; and if dying is not always a misfortune, then living very rarely is one.
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Uomo, abbi pazienza”, mi dicono Papa e Leibnitz, “i mali sono un effetto necessario della natura e della struttura di questo universo. L’Essere eterno e benevolo che lo governa avrebbe voluto proteggerti da essi: tra tutte le possibili soluzioni, ha scelto quella che causava meno male e più bene; o, per dirlo in modo ancora più crudo se necessario, se non ha potuto fare di meglio, è perché non poteva farne di meglio.”
+
+Cosa mi dice ora il vostro poema? “Soffri per sempre, infelice. Se esiste un Dio che ti ha creato, certamente è onnipotente; avrebbe potuto prevenire tutti i tuoi mali. Quindi non sperare mai che finiscano. Poiché non si potrebbe comprendere il motivo della tua esistenza, se non per soffrire e morire.” Non so cosa possa esserci di più consolante in una tale dottrina rispetto all’ottimismo o persino alla fatalità stessa. Per me, ammetto che mi sembri ancora più crudele del manicheismo. Se l’enigma dell’origine del male vi costringesse ad alterare alcuna delle perfezioni di Dio, perché voler giustificare la sua potenza a scapito della sua bontà? Se dobbiamo scegliere tra due errori, preferisco ancora il primo.
+
+Non desiderate, signore, che il vostro lavoro venga considerato un poema contro la Provvidenza; e io mi asterrò certamente dal dargli tale nome, anche se voi avete definito “libro contro il genere umano” un’opera in cui difendevo la causa dell’umanità contro di essa stessa. So bene quale distinzione sia necessario fare tra le intenzioni di un autore e le conseguenze che possono derivare dalla sua dottrina. La legittima difesa di me stesso mi obbliga soltanto a farvi notare che, descrivendo le miserie umane, il mio scopo era giustificabile e persino lodevole, a mio parere: infatti mostravo agli uomini come fossero loro stessi a causarsi i propri mali, e quindi come potessero evitarli.
+
+Non vedo come si possa cercare la fonte del male morale altrove che nell’uomo libero, perfezionato, ma già corrotto; quanto ai mali fisici, se la materia sensibile e impassibile rappresenta una contraddizione, come mi sembra, essi sono inevitabili in ogni sistema di cui l’uomo fa parte; quindi la domanda non è perché l’uomo non sia perfettamente felice, ma perché esista. Inoltre, credo di aver dimostrato che, ad eccezione della morte – che quasi non rappresenta un male se non per i preparativi che la precedono – la maggior parte dei nostri mali fisici è in realtà frutto delle nostre stesse azioni. Senza abbandonare l’argomento di Lisbona, concordate almeno su questo: la natura non aveva certo raccolto lì ventimila case di sei o sette piani; e se gli abitanti di questa grande città fossero stati distribuiti in modo più equilibrato e avessero vissuto in abitazioni più sicure, i danni sarebbero stati molto minori, o forse addirittura inesistenti. Tutto si sarebbe ripreso dopo il primo terremoto, e il giorno seguente li si sarebbe trovati a venti miglia di distanza, altrettanto felici come se nulla fosse accaduto. Ma bisogna restare, ostinarsi attorno alle proprie proprietà, esporci a nuove scosse, perché ciò che lasciamo indietro vale più di ciò che possiamo portarci via. Quanti sfortunati sono morti in quel disastro solo per cercare di salvare i propri vestiti, i propri documenti, il proprio denaro! Non si sa forse che la persona stessa di ogni uomo diventa ormai una parte insignificante di ciò che era un tempo, e che quasi non vale la pena salvarla quando si è perso tutto il resto?
+
+Avreste voluto che il terremoto avvenisse nel cuore di un deserto piuttosto che a Lisbona. Si può dubitare che anche nei deserti non si verifichino terremoti? Ma non ne parliamo, perché essi non causano alcun danno ai signori delle città, gli unici uomini di cui ci curavamo. Non arrecano nemmeno danni agli animali e ai selvaggi che abitano in questi luoghi remoti, i quali non temono né il crollo dei tetti né l’incendio delle case. Ma quale significato avrebbe un simile privilegio? Significherebbe forse che l’ordine del mondo debba cambiare secondo i nostri capricci, che la natura debba essere sottomessa alle nostre leggi, e che per impedire a un terremoto di verificarsi in un certo luogo basti semplicemente costruirci una città?
+
+Ci sono eventi che spesso ci colpiscono in modo diverso a seconda del punto di vista da cui li consideriamo; tali eventi perdono molto della loro terribilità quando vengono esaminati più attentamente. Ho imparato questo leggendo “Zadig”, e la natura mi conferma ogni giorno che una morte rapida non è sempre un vero male, anzi, a volte può persino rivelarsi un bene relativo. Tra tanti uomini distrutti dalle rovine di Lisbona, molti probabilmente hanno evitato disgrazie ancora peggiori; e nonostante la drammaticità di una simile descrizione e il fascino che essa possiede per la poesia, non è certo detto che uno solo di questi sfortunati abbia sofferto di più rispetto a quanto avrebbe sofferto se, secondo il corso normale degli eventi, avesse dovuto attendere a lungo in angoscia la morte che invece lo ha colpito all’improvviso. Esiste forse una fine più triste di quella di un uomo che viene sommerso da cure inutili, a cui notai e eredi non lasciano nemmeno il respiro, che i medici uccidono comodamente nel suo letto, e a cui preti barbari fanno assaporare con arte la morte? Per me, ovunque guardi, vedo che i mali a cui ci sottopone la natura sono meno crudeli di quelli che noi stessi aggiungiamo loro.
+
+Ma per quanto possiamo essere ingegnosi nel creare le nostre sofferenze attraverso bellissime istituzioni, finora non siamo riusciti a perfezionarci al punto di rendere la vita generalmente insopportabile e preferire il nulla alla nostra esistenza; altrimenti, il scoraggiamento e il disperazione avrebbero presto conquistato la maggior parte delle persone, e la specie umana non sarebbe sopravvissuta a lungo. Ora, se è meglio per noi esistere piuttosto che non esistere affatto, questo basta a giustificare la nostra esistenza, anche se dai mali che dobbiamo sopportare non possiamo aspettarci alcun rimedio, e questi mali fossero davvero così grandi come voi li descrivete. Tuttavia, è difficile trovare buona fede negli uomini su questo punto, né calcoli saggi nei filosofi: questi ultimi, infatti, nel confrontare beni e mali, dimenticano sempre il dolce sentimento legato all’esistenza stessa, indipendente da qualsiasi altra sensazione; inoltre, l’arroganza di disprezzare la morte spinge gli altri a diffamare la vita, proprio come quelle donne che, con un abito macchiato e dei forbici, pretendono di preferire i buchi alle macchie.
+
+Ritenete, come Erasmo, che poche persone vorrebbero rinascere nelle stesse condizioni in cui hanno vissuto; ma colui che vende il proprio “prodotto” a un prezzo elevato lo ridurrebbe notevolmente se avesse qualche speranza di concludere la vendita. Del resto, a chi credete che abbiate consultato al riguardo? Forse ai ricchi, sazi di false gioie e ignari di quelle vere, sempre infelici nella vita e sempre spaventati di perderla; forse agli intellettuali, tra le persone più sedentarie, malaticce e riflessive, e quindi anche le più sfortunate. Volete trovare uomini di carattere migliore, o almeno più sinceri, che, essendo la maggioranza, dovrebbero essere ascoltati con priorità? Consultate allora un onesto borghese che abbia trascorso una vita modesta e tranquilla, senza progetti né ambizioni; un bravo artigiano che viva dignitosamente del proprio lavoro; persino un contadino, non della Francia, dove si pretende che debbano morire di miseria affinché noi possiamo vivere, ma del paese da cui provenite voi, o in generale di qualsiasi paese libero. Oso affermare che probabilmente non esiste nemmeno un solo montanaro nell’Alto Vallese insoddisfatto della sua vita quasi meccanica, e che non accetterebbe volentieri, al posto del paradiso che aspetta e che gli spetta, l’idea di rinascere continuamente per vivere sempre allo stesso modo. Queste differenze mi fanno credere che sia spesso l’abuso che facciamo della vita a renderla un peso insopportabile; e ho molto meno stima di coloro che si lamentano di aver vissuto, rispetto a colui che può dire, come Catone: “Non mi pento di aver vissuto, poiché ho vissuto in modo tale da non considerarmi nato invano”. Questo non impedisce tuttavia al saggio di decidere talvolta, volontariamente e senza lamentele né disperazione, di lasciare questa vita. Ma, secondo il corso normale delle cose, nonostante i mali che la vita umana possa portare con sé, essa non è, in definitiva, un cattivo dono; e se morire non è sempre un male, molto raramente lo è vivere.
 
 <span class="atom-split" data-atom="035" data-title="(apertura) (parte 35)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
@@ -1670,6 +4944,50 @@ En général, il semble que les sceptiques s'oublient un peu sitôt qu'ils prenn
 
 Sur le bien du tout préférable à celui de sa partie, vous faites dire à l'homme : Je dois être aussi cher à mon maître, moi être pensant et sentant, que les planètes, qui probablement ne sentent point. Sans doute cet univers matériel ne doit pas être plus cher à son auteur qu'un seul être pensant et sentant ; mais le système de cet univers, qui produit, conserve et perpétue tous les êtres pensants et sentants, lui doit être plus cher qu'un seul de ces êtres ; il peut donc, malgré sa bonté, ou plutôt par sa bonté même, sacrifier quelque chose du bonheur des individus à la conservation du tout. Je crois, j'espère valoir mieux aux yeux de Dieu que la terre d'une planète ; mais si les planètes sont habitées, comme il est probable, pourquoi vaudrais-je mieux à ses yeux que tous les habitants de Saturne ? On a beau tourner ces idées en ridicule, il est certain que toutes les analogies sont pour cette population, et qu'il n'y a que l'orgueil humain qui soit contre. Or, cette population supposée, la conservation de l’univers semble avoir pour Dieu même immoralité qui se multiplie par le nombre des mondes habités.
 
+<span class="qlang-split" data-lang="en"></span>
+
+Our different ways of thinking on all these matters help me understand why many of your arguments seem inconclusive to me: for I am well aware that human reason far too often conforms to our opinions rather than to the truth, and that what one man considers proven is often nothing more than a sophism to another who holds opposing views.
+
+When you attack, for example, the chain of beings so well described by Pope, you claim that it is not true that if one atom were removed from the world, the world would cease to exist. You cite M. de Crousaz[586] on this point; then you add that nature is not subject to any precise measure or any specific [form](/positions/realism_of_ideas); that no planet moves along an absolutely regular trajectory; that no known being has a precisely mathematical shape; that no exact quantity is required for any process; that nature never acts in a strictly predictable manner; and thus, there is no reason to assert that the absence of a single atom on Earth would lead to its destruction. I must admit, sir, that in all this, I am more impressed by the force of your assertion than by the solidity of your reasoning—and that in this matter, I would place more trust in your authority than in your arguments.
+
+Regarding Mr. de Crousaz, I have not read his writings against Pope, and may not even be in a position to understand them; but what is absolutely certain is that I will not yield to him what I have argued against you, and that I place just as little faith in his arguments as in his authority. Far from thinking that nature is not subject to the precision of quantities and forms, I would rather believe that it is precisely nature itself that adheres to such precision, because only it knows how to accurately compare ends with means and measure strength against resistance. As for those supposed irregularities in nature, can anyone doubt that they all have their physical causes? And just because we cannot perceive these causes does that mean they do not exist? These apparent irregularities are probably due to some laws of which we are unaware, but which nature follows just as faithfully as those we know about; they may be the result of some agents that we cannot see, whose influence or interference operates in a fixed and measurable manner throughout all natural processes. Otherwise, it would mean that there are actions without principles and effects without causes—which is utterly contrary to any philosophy.
+
+Suppose there are two weights in equilibrium, yet not equal; if we add to the lighter weight the exact amount by which they differ, either the two weights will remain in equilibrium, resulting in a cause without effect; or the balance will be disrupted, leading to an effect without cause. However, if these weights were made of iron and a tiny magnet were hidden beneath one of them, the precision inherent in nature would strip away this apparent precision, and amidst such exactness, it might seem that precision is actually lacking. In the physical world, there is not a single geometric figure, mathematical operation, or scientific law to which we cannot apply some analogous example similar to the one I have just mentioned regarding gravity[587].
+
+You say that no known entity possesses a precisely mathematical form; I ask you, sir, whether there exists any form that does not do so, and whether the most bizarre of curves is not, in the eyes of nature, just as regular as a perfect circle is to ours. Moreover, I imagine that if any physical object could exhibit such apparent regularity, it would be nothing other than the universe itself, assuming it to be both finite and complete; for mathematical figures being merely abstractions, they relate only to themselves, whereas all natural forms are related to other objects and movements that alter them. Thus, this argument would still prove nothing against the precision of nature, even if we agreed on what you understand by the term “precision.”
+
+You distinguish between events that have effects and those that do not; I doubt whether this distinction is sound. To me, every event seems necessarily to have some effect—be it moral, physical, or a combination of both—but such effects are not always apparent, because the chain of events is even more difficult to trace than the lineage of human beings. Since one generally should not seek for effects that are more significant than the events that produce them, the triviality of the causes often renders the examination of these effects ridiculous, even though the effects themselves are undeniable. Moreover, often several almost imperceptible effects combine to produce a significant outcome. Furthermore, such an effect will still occur, even if it takes place outside of the body that generates it. Thus, the dust raised by a carriage may have no direct impact on its own movement, but it can influence the course of the entire world. And since nothing exists outside of the universe, everything that happens within it necessarily has an effect on the universe as a whole.
+
+Thus, sir, your examples seem to me more ingenious than convincing. I can see a thousand plausible reasons why it might not have been indifferent to Europe whether the heiress of Burgundy wore her hair properly or not, nor why it might have mattered to Rome whether Caesar turned his head right or left, or spat on one side or the other as he went to the senate on the day he was punished there. In short, recalling Pascal’s mention of that grain of sand, I am, in some respects, of your Brahmin’s opinion; and no matter how one looks at things, if not all events have tangible consequences, it seems undeniable that they all have real effects—effects that the human mind often fails to grasp, but which are never confused by nature itself.
+
+You say that it has been proven that celestial bodies move in a space devoid of resistance; certainly, that was a remarkable achievement to prove. However, following the custom of the ignorant, I place very little faith in demonstrations that go beyond my understanding. I imagine that, to construct such a demonstration, one would probably reason in this manner: A certain force, acting according to a particular law, must cause celestial bodies to move in a certain way within a space without resistance; yet the movements of these bodies are precisely calculated, which means there is no resistance at all. But who can know whether there might not be millions of other possible laws, in addition to the true one, according to which the same movements could be even better explained by some other medium than empty space? Didn’t the notion of the horror of empty space for a long time account for most of the effects that were later attributed to the action of air? When other experiments later dispelled this notion of an empty space, didn’t everything seem to become filled again? And wasn’t the concept of empty space re-established on the basis of new calculations? Who can tell us that some even more precise system won’t immediately destroy it? Let’s set aside the countless difficulties that a physicist might raise regarding the nature of light and illuminated spaces. But do you truly believe that Bayle, whose wisdom and restraint in matters of opinion I admire as much as you do, would have found your argument so thoroughly proven?
+
+Generally speaking, it seems that skeptics tend to forget their skepticism as soon as they adopt a dogmatic tone; they should use the term “to demonstrate” with far more restraint than anyone else. How can one expect to be believed when one boasts of knowing nothing while asserting so many things at the same time! Moreover, you made a very accurate critique of Pope’s system by pointing out that there is no proportional gradation between created beings and the Creator. If the chain of created beings leads to God, it is because He holds it in place, not because He is its final link.
+
+The good of the whole is certainly preferable to that of its parts; therefore, you cause man to say: “I must be just as precious to my Creator—being a being capable of thinking and feeling—as are those planets, which probably possess no such capacities at all.” Without doubt, this material universe cannot be more valuable in the eyes of its Creator than a single sentient being; yet the system of this universe, which produces, preserves, and perpetuates all sentient beings, must surely be regarded as of greater value to Him than any one of these beings. Hence, despite His goodness—or perhaps precisely because of it—He may be compelled to sacrifice some of the happiness of individual creatures in order to maintain the existence of the whole. I believe, I hope, that I am of more worth in God’s eyes than the earth of a planet; but if those planets are inhabited, as is likely, why should I be considered more valuable to Him than all the inhabitants of Saturn? No matter how much one may laugh at such ideas, it remains undeniable that all analogies favor this view, and that only human pride stands in its way. Moreover, if this hypothetical population of beings truly exists, then the preservation of the universe seems to involve an immorality on God’s part—which would become even more severe as the number of inhabited worlds increased.
+
+<span class="qlang-split" data-lang="it"></span>
+
+I nostri divers modi di pensare su tutti questi argomenti mi spiegano perché molte delle vostre prove risultino poco convincenti per me: infatti non ignoro quanto la ragione umana tenda più facilmente ad adeguarsi alle nostre opinioni che alla verità, e come, tra due persone con punti di vista opposti, ciò che uno considera dimostrato possa spesso essere soltanto un sofisma per l’altro.
+
+Quando si attacca, ad esempio, la catena degli esseri così ben descritta da Pope, si afferma che non sia vero che, se venisse rimosso un atomo dal mondo, questo non potrebbe continuare a esistere. A tal proposito si cita il signor de Crousaz[586]; inoltre si aggiunge che la natura non è soggetta a nessuna misura precisa né a nessuna [forma](/positions/realism_of_ideas) definita; che nessun pianeta segue una traiettoria assolutamente regolare; che nessun essere conosciuto presenta una forma matematicamente esatta; che per nessuna operazione sia necessaria una quantità precisa; che la natura non agisce mai in modo rigido e preciso; quindi non vi è alcun motivo per ritenere che la mancanza di un atomo sulla Terra possa causarne la distruzione. Devo ammettere, signore, che su tutto ciò sono più colpito dalla forza delle vostre affermazioni che dalla validità dei vostri ragionamenti, e in questa occasione cederei con maggiore fiducia alla vostra autorità che alle vostre prove.
+
+Per quanto riguarda il signor de Crousaz, non ho letto la sua opera contro Pope e forse non sono nemmeno in grado di comprenderla; ma una cosa è certa: non gli cederò ciò su cui vi ho discusso, e nutro altrettanta sfiducia nelle sue prove quanto nella sua autorità. Lontano dall’idea che la natura non sia soggetta alla precisione delle quantità e delle forme, credo invece proprio il contrario: è lei stessa ad aderire rigorosamente a tale precisione, poiché solo lei sa confrontare con esattezza i fini e i mezzi, e misurare la forza in base alla resistenza. Quanto alle sue presunte irregolarità, come si può dubitare che non abbiano tutte una causa fisica? E basta forse non percepirla per negarne l’esistenza? Queste apparenti irregolarità derivano probabilmente da alcune leggi di cui ignoriamo l’esistenza, ma che la natura segue con la stessa fedeltà di quelle che conosciamo; o da qualche agente che non riusciamo a individuare, il cui ostacolo o il cui contributo hanno dimensioni precise in tutte le sue operazioni. Altrimenti, si dovrebbe ammettere apertamente l’esistenza di azioni senza principio e di effetti senza causa, il che è assolutamente contrario a qualsiasi concezione filosofica.
+
+Supponiamo due pesi in equilibrio, ma diversi tra loro; se si aggiunge al peso più piccolo la differenza che esiste tra i due, o entrambi i pesi rimarranno ancora in equilibrio, il che significherebbe una causa senza effetto; oppure l’equilibrio verrà rotto, il che significherebbe un effetto senza causa. Tuttavia, se i pesi fossero di ferro e sotto uno di essi ci fosse un granello di magnetite nascosto, la precisione della natura toglierebbe a tale fenomeno l’apparenza di precisione stessa; cioè, proprio per via della sua estrema accuratezza, quel fenomeno sembrerebbe privo di essa. Non esiste alcuna figura geometrica, alcuna operazione matematica, alcuna legge del mondo fisico a cui non si possa applicare un esempio simile a quello che ho appena proposto riguardo alla gravità[587].
+
+Dite che nessun essere conosciuto presenta una forma esattamente matematica; vi chiedo, signore, se esista qualche forma che non lo sia, e se la curva più bizzarra non sia, agli occhi della natura, altrettanto regolare di un cerchio perfetto ai nostri. Inoltre, immagino che, se qualche corpo potesse possedere questa apparente regolarità, questo sarebbe soltanto l’universo stesso, nel caso in cui venisse considerato pieno e limitato; poiché le forme matematiche, essendo solo astrazioni, hanno rapporto soltanto con se stesse, mentre tutte le forme dei corpi naturali sono relative ad altri corpi e a movimenti che li modificano. Pertanto, questo non proverebbe comunque nulla contro la precisione della natura, anche se fossimo d’accordo su ciò che intendete per “precisione”.
+
+Si distinguono gli eventi che hanno effetti da quelli che non ne hanno alcuno: dubito che questa distinzione sia fondata. Ogni evento mi sembra necessariamente avere qualche effetto, sia morale che fisico, o entrambi; tuttavia questi effetti non sempre sono evidenti, poiché la concatenazione degli eventi è ancora più difficile da comprendere di quella delle azioni umane. In generale, non si dovrebbero cercare effetti più significativi di quelli che gli eventi stessi producono; quindi la piccolezza delle cause rende spesso l’analisi ridicola, anche se gli effetti sono certi. Molto spesso, inoltre, diversi effetti quasi impercettibili si combinano per produrre un evento di rilievo. Inoltre, un certo effetto può comunque verificarsi, anche quando avviene al di fuori del corpo che lo genera. Ad esempio, la polvere sollevata da una carrozza potrebbe non influenzare affatto il movimento della stessa, ma potrebbe avere ripercussioni sull’intero universo: poiché nulla nell’universo è estraneo ad esso, tutto ciò che vi avviene agisce necessariamente su di esso stesso.
+
+Pertanto, signore, i vostri esempi mi sembrano più ingegnosi che convincenti. Vedo mille ragioni plausibili per cui non sarebbe stato affatto indifferente per l’Europa che un certo giorno l’ereditiera di Borgogna fosse ben o male acconciata i capelli, né per il destino di Roma che Cesare voltasse lo sguardo a destra o a sinistra, e sputasse da una parte o dall’altra mentre si recava al senato nel giorno in cui vi veniva punito. In breve, ricordando il granello di sabbia menzionato da Pascal, sono, sotto alcuni aspetti, d’accordo con il vostro bramano; e, in qualunque modo si considerino le cose, se non tutti gli eventi hanno effetti sensibili, mi sembra indiscutibile che ne abbiano di reali, i cui fili l’intelletto umano spesso perde facilmente traccia, ma che la natura non confonde mai.
+
+Dite che è stato dimostrato che i corpi celesti compiono le loro rivoluzioni in uno spazio privo di resistenza: certamente era una bella cosa da dimostrare; ma, secondo l’abitudine degli ignoranti, ho molto poca fiducia nelle dimostrazioni che esulano dalla mia portata. Immagino che, per costruire una tale dimostrazione, si sia ragionato più o meno in questo modo: una certa forza, agendo secondo una determinata legge, deve produrre nei corpi celesti un certo movimento in uno spazio privo di resistenza; poiché i corpi celesti presentano esattamente il movimento previsto dalla legge, ne consegue che non esiste alcuna resistenza. Ma chi può sapere se non esistono, forse, milioni di altre leggi possibili, oltre a quella vera, secondo le quali gli stessi movimenti potrebbero essere ancora meglio spiegati in un fluido che nel vuoto? L’idea del vuoto, non è forse stata per molto tempo utilizzata per spiegare la maggior parte degli effetti che oggi si attribuiscono all’azione dell’aria? Quando altre esperienze hanno poi confutato questa idea del vuoto, tutto non è diventato “pieno”? Non si è forse ripristinato il concetto di vuoto sulla base di nuovi calcoli? Chi ci può garantire che un sistema ancora più preciso non lo distruggerà immediatamente? Lasciamo da parte le innumerevoli difficoltà che un fisico potrebbe sollevare riguardo alla natura della luce e degli spazi illuminati; ma credete davvero che Bayle, la cui saggezza e prudenza nelle opinioni ammiro molto, avrebbe ritenuto la vostra teoria così convincente?
+
+In generale, sembra che i scettici tendano a dimenticare le proprie posizioni non appena assumono un tono dogmatico; dovrebbero quindi utilizzare il termine “demonstrare” con maggiore moderazione di chiunque altro. Come si può essere creduti quando si pretende di non sapere nulla, mentre si affermano così tante cose? Del resto, avete fatto un corretto commento al sistema di Pope, osservando che non esiste alcuna gradazione proporzionale tra le creature e il Creatore; inoltre, se la catena degli esseri creati conduce a Dio, è perché Lui la sostiene, e non perché ne costituisca l’ultimo anello.
+
+Il bene del tutto è certamente preferibile al bene della sua singola parte; per questo si dice all’uomo: “Devo essere altrettanto prezioso per il mio Creatore, io che sono dotato di pensiero e sensazioni, quanto le pianete, che probabilmente non provano alcuna sensazione”. Senza dubbio, questo universo materiale non deve essere più prezioso per il suo Autore di un singolo essere pensante e sensibile; ma il sistema stesso di questo universo, che produce, conserva e perpetua tutti gli esseri pensanti e sensibili, deve essere certamente più prezioso per Lui di uno qualsiasi di questi esseri. Pertanto, nonostante la sua bontà – o forse proprio a causa della sua bontà – Dio può sacrificare qualcosa del benessere degli individui al fine di preservare l’intero universo. Credo, spero di valere di più agli occhi di Dio della terra di una pianeta; ma se le pianete sono abitate, come è probabile, perché dovrei valere di più ai suoi occhi di tutti gli abitanti di Saturno? Per quanto si possano mettere in ridicolo queste idee, è certo che tutte le analogie a favore di questa ipotetica popolazione esistono, e che solo l’orgoglio umano si oppone ad esse. Ora, se questa popolazione esiste davvero, la conservazione dell’universo sembra rappresentare per Dio stesso un atto immorale, il cui effetto negativo aumenta con il numero dei mondi abitati.
+
 <span class="atom-split" data-atom="036" data-title="(apertura) (parte 36)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Que le cadavre d'un homme nourrisse des vers, des loups, ou des plantes, ce n’est pas, je l'avoue, un dédommagement de la mort de cet homme ; mais si, dans le système de cet univers, il est nécessaire à la conservation du genre humain qu'il y ait une circulation de substance entre les hommes, les animaux et les végétaux, alors le mal particulier d'un individu contribue au bien général. Je meurs, je suis mangé des vers ; mais mes enfants, mes frères vivront comme j'ai vécu ; mon cadavre engraisse la terre dont ils mangeront les productions ; et je fais, par l'ordre de la nature et pour tous les hommes, ce que firent volontairement Codrus, Curtius, les Décies, les Philènes, et mille autres, pour une petite partie des hommes.
@@ -1687,6 +5005,42 @@ Si je ramène ces questions diverses à leur principe commun, il me semble qu'el
 Nous ne sommes ni l'un ni l'autre dans ce dernier cas. Bien loin, du. moins, que je puisse rien présumer de semblable de votre part en lisant le recueil de vos oeuvres, la plupart m'offrent les idées les plus grandes, les-plus douces, les plus consolantes de la divinité, et j'aime bien mieux un chrétien de votre façon que de celle de la Sorbonne.
 
 Quant à moi, je vous avouerai naïvement que ni le pour ni le contre ne me paraissent démontrés sur ce point par les seules [lumières](/schools/enlightenment) de la raison, et que, si le théiste ne fonde son sentiment que sur des probabilités, l'athée, moins précis encore, ne me paraît fonder le sien que sur des possibilités contraires. De plus, les objections de part et d'autre sont toujours insolubles, parce qu'elles roulent sur des choses dont les hommes n'ont point de véritable idée. Je conviens de tout cela, et pourtant je crois en Dieu tout aussi fortement que je crois une autre vérité, parce que croire et ne pas croire sont les choses du monde qui dépendent le moins de moi ; que l'état de doute est un état trop violent pour mon âme ; que, quand ma raison flotte, ma foi ne peut rester longtemps en suspens, et se détermine sans elle ; qu'enfin mille sujets de préférence m'attirent du côté le plus consolant, et joignent le poids de l'espérance à l'équilibre de la raison.
+
+<span class="qlang-split" data-lang="en"></span>
+
+Whether a man’s corpse be nourished by worms, wolves, or plants—I admit that this is not any compensation for that man’s death. But if, within the workings of this universe, it is necessary for the survival of the human race that there be a circulation of substances among humans, animals, and plants, then the particular harm inflicted upon one individual contributes to the greater good of all. I die; I am consumed by worms. Yet my children, my brothers will live as I lived. My corpse will nourish the earth from which they will draw their sustenance. And in this way, by the order of nature and for the benefit of all mankind, I perform what Codrus, Curtius, the Decii, Philenes—and countless others—voluntarily did for the sake of a mere fraction of humanity.
+
+To return to the system that you are criticizing, sir, I believe it cannot be properly examined without carefully distinguishing between the particular evil—whose existence no philosopher has ever denied—and the general evil that denies optimism itself. The question is not whether each of us suffers or not, but whether it would be good if the universe existed in this way, and whether our sufferings are inherent in its very nature. Thus, adding a word might make the statement more precise; instead of saying “everything is well,” it might be better to say “the whole thing is well” or “everything is well within the context of the whole.” It is clearly impossible for any human being to provide direct evidence either in favor or against this view, because such evidence would depend on a perfect understanding of the nature of the world and its purposeful design—knowledge that is undoubtedly beyond human comprehension. The true principles of optimism cannot be derived from the properties of matter or the mechanics of the universe, but only through [induction](/positions/induction) from the perfections of God who governs all things. Therefore, we do not prove the existence of God based on Pope’s system; rather, we use Pope’s system to support the existence of God. Undoubtedly, the question of the origin of evil is derived from the question of divine providence; and if these two issues have not been addressed more effectively, it is because our reasoning about providence has often been flawed, leading to absurd conclusions that have obscured all the meaningful insights that can be drawn from this profound and comforting doctrine.
+
+The first ones to ruin God’s cause were the priests and devout people who could not tolerate anything happening outside the established order. Instead, they always invoked divine justice in purely natural events. To ensure the validity of their beliefs, they punished the wicked and rewarded the good—whether through good or evil fortune, depending on the outcome of these events. I do not know if this constitutes sound theology, but I certainly consider it a flawed way of reasoning: to base arguments about God’s providence indiscriminately on both pros and cons, and to attribute to Him, without any distinction, everything that would also happen without His intervention.
+
+In turn, philosophers do not seem much more reasonable to me when I see them condemning heaven for not being impassive, crying out that everything is lost whenever they have a toothache, or when they are poor, or when someone steals from them, and blaming God, as Seneca says, for keeping watch over their luggage. If some tragic accident had caused Cartouche or Caesar to die in their infancy, one might ask: What crimes had they committed? These two “robbers” lived on, yet we say: Why were they allowed to live? On the contrary, a devout person would say, in the first case, that God wanted to punish the father by taking away his child; and in the second case, that God kept the child alive for the sake of punishing the people. Thus, no matter what position nature takes, Providence is always considered right by the devout and always wrong by the philosophers. Perhaps, in the order of human affairs, it has neither right nor wrong, because everything depends on the universal law, and there are no exceptions for anyone. It seems likely that particular events mean nothing in the eyes of the ruler of the universe; that his providence is merely universal; that he simply maintains the genera and species and oversees the whole process, without caring about how each individual spends this brief life. A wise king, who wants everyone to live happily within their respective realms, does he need to worry whether the inns there are good? If they are bad, a passerby may complain one night, but for the rest of his days, he will live in equally misplaced impatience. For indeed, nature has given us various ways of living, not just one single way.
+
+To consider this matter properly, it seems that things should be regarded as relative in the physical order and absolute in the moral order: The greatest idea I can form of Providence is that every material being is arranged in the best possible way with regard to the whole; and that every intelligent and sensible being is placed in the most favorable position possible for itself. Therefore, for anyone who is aware of their own existence, it is certainly better to exist than not to exist at all. However, this principle must be applied to the entire duration of each sentient being, and not to some particular moment within that duration—such as human life. This illustrates how closely the issue of Providence is linked to the question of the immortality of the soul, which I am fortunate enough to believe in, even though reason may doubt it; it is also closely connected to the question of the eternity of punishment, which neither you nor I, nor any truly pious person who believes in God, will ever come to believe.
+
+If I reduce these various questions to their common principle, it seems to me that they all relate to the question of the existence of God. If God exists, he is perfect; if he is perfect, he is wise, powerful, and just; if he is wise and powerful, then everything is good; if he is just and powerful, my soul is immortal; if my soul is immortal, thirty years of life mean nothing to me—and perhaps they are even necessary for the maintenance of the universe. If the first proposition is accepted, the subsequent ones can never be challenged; if it is denied, there is no point in debating its consequences.
+
+In that last case, we are neither one nor the other. Far from it, in fact. When I read your collection of works, I find that most of them convey the greatest, gentlest, and most comforting ideas about divinity. I prefer a Christian like you far more than one from the Sorbonne.
+
+As for me, I must confess naively that neither the arguments in favor nor those against seem to be sufficiently supported by the mere [reasonings](/schools/enlightenment) of logic. If the theist bases his belief solely on probabilities, then the atheist, being even less precise, seems to base his own denial on equally probable alternatives. Moreover, the objections on both sides remain insoluble, for they concern matters about which humans possess no true understanding. I acknowledge all this, yet I believe in God just as firmly as I believe in any other truth. For to believe or not to believe are among those things in this world that depend least on me; doubt is a state too violent for my soul; when reason wavers, faith cannot remain suspended for long but must find its own determination independently of reason; and finally, countless considerations urge me toward the more comforting side, combining the weight of hope with the balance of reason.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Che il cadavere di un uomo venga nutrito da vermi, lupi o piante, non è, lo ammetto, una compensazione per la sua morte; ma se, nel sistema di questo universo, è necessario che vi sia uno scambio di sostanze tra uomini, animali e piante affinché il genere umano possa sopravvivere, allora il male particolare di un individuo contribuisce al bene generale. Io muoio, vengo divorato dai vermi; ma i miei figli, i miei fratelli vivranno come ho vissuto io; il mio cadavere nutrirà la terra da cui trarranno il loro sostentamento. E così, per ordine della natura e a beneficio di tutti gli uomini, faccio ciò che Codro, Curtio, le Decie, le Filene e migliaia d’altri fecero volontariamente, anche se solo per una piccola parte dell’umanità.
+
+Per tornare, signore, al sistema che voi attaccate, credo che non si possa esaminarlo adeguatamente senza distinguere con cura il male particolare, la cui esistenza nessun filosofo ha mai negato, dal male generale che nega l’ottimismo. Non si tratta di sapere se ognuno di noi soffra o meno, ma se sia giusto che l’universo esista e se i nostri mali siano inevitabili nella sua struttura. Pertanto, l’aggiunta di un articolo renderebbe, a mio parere, la proposizione più precisa; e invece di dire “tutto è bene”, forse sarebbe meglio affermare “il tutto è bene, o il tutto è bene per il tutto”. È evidente quindi che nessun uomo potrebbe fornire prove dirette né a favore né contro questa tesi; poiché tali prove dipendono da una conoscenza perfetta della struttura del mondo e dello scopo del suo creatore, e tale conoscenza è indubbiamente al di là dell’intelligenza umana. I veri principi dell’ottimismo non possono essere dedotti né dalle proprietà della materia né dalla meccanica dell’universo, ma soltanto attraverso l’[induzione](/positions/induction) delle perfezioni di Dio che presiede a tutto; quindi non si dimostra l’esistenza di Dio attraverso il sistema di Pope, ma il sistema di Pope attraverso l’esistenza di Dio. Inoltre, è senza dubbio dalla questione della Provvidenza che deriva quella sull’origine del male: se queste due questioni non sono state trattate in modo equilibrato, è perché si è sempre ragionato in modo errato sulla Provvidenza, al punto che quanto ne è stato detto di assurdo ha confuso completamente tutti i conseguimenti che si potevano trarre da questo grande e consolante dogma.
+
+I primi ad aver rovinato la causa di Dio sono stati i sacerdoti e i devoti, che non tollerano che nulla avvenga secondo l’ordine stabilito, ma intervengono sempre con la giustizia divina in eventi puramente naturali; per essere certi della validità delle loro conclusioni, puniscono i malvagi e ricompensano i buoni, indistintamente, con beni o mali, a seconda degli eventi che si verificano. Non so se questa sia una buona teologia, ma ritengo che si tratti di un modo errato di ragionare: fondare in modo indiscriminato le prove della Provvidenza su argomentazioni a favore e contro, e attribuirle, senza distinzioni, tutto ciò che potrebbe accadere anche senza di essa.
+
+Anche i filosofi, a mio parere, non sembrano molto più razionali quando si lamentano del cielo perché non è indifferente alle loro sofferenze, gridano che tutto è perduto quando hanno mal di denti, sono poveri o vengono derubati, e incolpano Dio, come dice Seneca, della custodia delle loro cose. Se qualche evento tragico avesse fatto morire Cartouche o Cesare nella loro infanzia, si sarebbe chiesto: “Quali crimini avevano commesso?”. Questi due “ladri” sono sopravvissuti, e noi diciamo: “Perché li abbiamo lasciati vivere?”. Al contrario, un devoto direbbe, nel primo caso: “Dio voleva punire il padre togliendogli il figlio”; nel secondo: “Dio conservava il figlio per castigare il popolo”. Così, qualunque sia la decisione della natura, per i devoti la Provvidenza ha sempre ragione, mentre per i filosofi ha sempre torto. Forse, nell’ordine delle cose umane, essa non ha né torto né ragione, perché tutto segue una legge comune e nessuno è escluso da essa. Si può credere che gli eventi particolari non significhino nulla agli occhi del Signore dell’universo; che la sua Provvidenza sia soltanto universale; che si limiti a preservare i generi e le specie, e a governare il tutto, senza curarsi del modo in cui ogni individuo trascorre questa breve vita. Un re saggio, che desidera che tutti vivano felici nei loro regni, ha forse bisogno di sapere se i locali pubblici sono buoni? Il passante si lamenta una notte quando non lo sono, e per il resto della sua vita vive nell’impazienza. Poiché la natura ci ha fornito mezzi diversi per vivere, non ci ha dato l’abitudine di utilizzarli tutti.
+
+Per ragionare correttamente in questo senso, sembra che le cose debbano essere considerate in modo relativo nell’ordine fisico e assolutamente nell’ordine morale: l’idea più grande che io possa farmi della Provvidenza è che ogni essere materiale sia disposto nel modo migliore possibile rispetto al tutto, e che ogni essere intelligente e sensibile sia disposto nel modo migliore possibile rispetto a se stesso; in tal modo, per chi percepisce la propria esistenza, vale di più esistere piuttosto che non esistere. Tuttavia, questa regola deve essere applicata alla durata totale di ogni essere sensibile, e non a un momento particolare della sua esistenza, come ad esempio la vita umana; ciò dimostra quanto la questione della Provvidenza sia strettamente legata a quella dell’immortalità dell’anima, in cui ho la fortuna di credere, senza negare che la ragione possa dubitarne, e anche a quella dell’eternità delle pene, in cui né voi, né io, né alcun uomo che pensi bene di Dio crederemo mai.
+
+Se riduco queste diverse questioni al loro principio comune, mi sembra che tutte riguardino la questione dell’esistenza di Dio. Se Dio esiste, è perfetto; se è perfetto, è saggio, potente e giusto; se è saggio e potente, tutto è bene; se è giusto e potente, la mia anima è immortale; se la mia anima è immortale, trent’anni di vita non significano nulla per me, e forse sono necessari per il mantenimento dell’universo. Se mi si concede la prima proposizione, le successive non verranno mai messe in dubbio; se viene negata, non bisogna discutere sulle sue conseguenze.
+
+In questo ultimo caso, né io né voi siamo ciò che si potrebbe definire “tali”. Al contrario, leggendo la raccolta delle vostre opere, non posso affatto supporre nulla del genere da parte vostra; anzi, la maggior parte di esse mi offre le idee più grandi, più dolci e più consolanti sulla divinità. Preferisco di gran lunga un cristiano come voi a uno della Sorbona.
+
+Per quanto mi riguarda, vi confesso ingenuamente che né il “sì” né il “no” mi sembrano essere dimostrati in questo punto unicamente dalle sole [luci](/schools/enlightenment) della ragione; e che, se il teista fonda la sua convinzione soltanto su probabilità, l’ateo, ancora meno preciso, mi pare fondi la propria sulla presenza di possibilità contrarie. Inoltre, le obiezioni da entrambe le parti rimangono sempre irrisolte, poiché riguardano questioni su cui gli uomini non possiedono una vera comprensione. Ammetto tutto ciò, eppure credo in Dio con la stessa forza con cui credo in un’altra verità; perché credere o non credere sono le cose del mondo che dipendono meno da me stesso; perché lo stato di dubbio è troppo violento per la mia anima; perché, quando la mia ragione vacilla, la mia fede non può rimanere a lungo incerta e si decide comunque, anche senza di essa; e perché, infine, mille motivi mi spingono verso quella direzione che offre più consolazione, unendo il peso della speranza all’equilibrio della ragione.
 
 <span class="atom-split" data-atom="037" data-title="(apertura) (parte 37)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
@@ -1707,6 +5061,46 @@ Je ne puis m'empêcher, monsieur, de remarquer à ce propos une opposition bien 
 J'ai autant de peine à quitter cette ennuyeuse lettre que vous en aurez à l'achever. Pardonnez-moi, grand homme, un zèle peut-être indiscret, mais qui ne s'épancherait pas avec vous si je vous estimais moins. À Dieu ne plaise que je veuille offenser celui de mes contemporains dont j'honore le plus les talents, et dont les écrits parlent le mieux à mon coeur ; mais il s'agit de la cause de la Providence, dont j'attends tout. Après avoir si longtemps puisé dans vos leçons des consolations et du courage, il m'est dur que vous m'ôtiez maintenant tout cela pour ne m'offrir qu'une espérance incertaine et vague, plutôt comme un palliatif actuel que comme un dédommagement à venir. Non, j'ai trop souffert en cette vie pour n'en pas attendre une autre. Toutes les subtilités de la métaphysique ne me feront pas douter un moment de l'immortalité de l'âme, et d'une Providence bienfaisante. Je la sens, je la crois, je la veux, je l'espère, je la défendrai jusqu'à mon dernier soupir ; et ce sera, de toutes les disputes que j'aurai soutenues, la seule où mon intérêt ne sera pas oublié. Je suis avec respect, monsieur, etc.
 
 Observation
+
+<span class="qlang-split" data-lang="en"></span>
+
+Here, then, is a truth upon which we both agree; and based on this truth, you surely realize how easy it is to defend optimism and justify Providence. It is not necessary for me to repeat those well-reasoned and solid arguments that have been made so often on this subject. As for those philosophers who do not accept this principle, there is no point in debating with them on these matters, because what is merely a matter of personal conviction for us cannot constitute a proof for them; moreover, it would be unreasonable to say to someone: “You must believe this because I believe it.” On their part, they too should refrain from debating with us on the same issues, since these arguments are merely corollaries of the main proposition—propositions that an honest opponent would hardly dare to challenge in the first place. And for their own sake, it would be wrong for them to demand that we prove these corollaries independently of the fundamental proposition upon which they depend. I believe they should not do so for another reason as well: it would be inhumane to disturb peaceful minds and cause distress to people for no good purpose, when all one wants to teach them is something that is neither certain nor useful. In short, I think that, by your example, we can never attack too forcefully the superstitions that disrupt society, nor can we show enough respect for the religion that supports it.
+
+But I am as indignant as you that each person’s faith is not placed in the most perfect freedom, and that man dares to control the inner recesses of conscience—recesses into which he himself cannot penetrate—as if it were up to us to decide whether to believe or not in matters regarding which no proof is possible, and as if it were feasible to ever subject reason to authority.
+
+Do the kings of this world therefore have any authority in the other world, and do they have the right to torment their subjects here on earth in order to force them to go to paradise? No; by its very nature, any human government is limited to civil duties. And, despite what the sophist [Hobbes](/figures/hobbes) may have said, when a man serves the state well, he owes no one an account of how he serves God.
+
+I do not know whether this righteous being will not one day punish all tyranny exercised in its name; I am at least certain that it will not share in such tyranny, nor will it refuse eternal happiness to any virtuous and sincere unbeliever. May I, without offending either its kindness or even its justice, doubt that a righteous heart can atone for an involuntary mistake, and that irreproachable morals are far more valuable than a thousand bizarre cults prescribed by men and rejected by reason? Moreover: if I could, at my own choice, purchase virtue at the expense of my faith, and compensate for my supposed disbelief through sheer virtue, I would not hesitate for a moment. I would rather be able to tell God: “I have done good deeds that please you, without ever thinking of you; my heart followed your will, even though I did not know it,” than to have to say one day: “I loved you, yet I never ceased to offend you; I knew you, but I did nothing to please you.”
+
+I admit that there exists a certain kind of creed that laws may impose upon people; but beyond the principles of morality and natural law, such creeds must be purely negative in nature. For it is possible for religions to exist that undermine the foundations of society, and it is necessary to eradicate such religions first if we wish to ensure the peace of the state. Among these doctrines to be proscribed, intolerance is undoubtedly the most abhorrent; yet we must address it at its root. After all, the most bloodthirsty fanatics change their rhetoric depending on their circumstances, preaching patience and gentleness whenever they are not in a position of power. Therefore, I consider anyone who insists that one cannot be a good person without believing everything they believe to be inherently intolerant—and I condemn mercilessly those who think differently from them. Indeed, devout people rarely show any willingness to let those whom they reject live in peace in this world; a saint who believes he is living among damned souls would gladly take the devil’s role upon himself. As for those intolerant unbelievers who seek to force people to believe nothing at all, I would banish them just as harshly as those who want to force them to believe whatever they desire. For, judging by their zeal in making decisions and the bitterness of their criticisms, it is clear that all they lack is power in order to persecute believers with equal cruelty to the way they themselves are persecuted by fanatics. Where can one find a peaceful and gentle person who is content with others not thinking as he does? Such a person will surely never be found among devout people—but perhaps among philosophers.
+
+I would therefore like for each state to have a code of morals, or a sort of civil creed that explicitly outlines the social principles that everyone should accept, and negatively lists those intolerant principles that must be rejected—not as heretical, but as subversive. In this way, any religion that aligns with this code would be tolerated; any religion that does not would be prohibited, and individuals would be free to follow no other creed than this very code. Such a carefully crafted work, in my opinion, would be the most useful book ever written—and perhaps the only one truly necessary for mankind. Here, sir, is a subject worthy of your attention; I earnestly hope you will undertake this project and embellish it with your poetry, so that everyone, easily able to access it from a young age, may cultivate in their hearts those sentiments of kindness and humanity that shine in your writings but are often lacking in real life. I urge you to consider this plan—surely it would please the author of *Alzire*. You have already provided us with the catechism of man in your poem on natural religion; now, in the one I propose, give us the catechism of the citizen. This is a subject worthy of thorough reflection—and perhaps best reserved for the final work of your literary career, so as to conclude, with another act of benevolence toward humanity, the most brilliant trajectory any scholar has ever pursued.
+
+Sir, I cannot help but observe a rather peculiar contradiction between you and me regarding the subject of this letter. Satiated by glory and disillusioned with vain greatness, you live freely amidst abundance; certain of your own immortality, you philosophize peacefully about the nature of the soul; and if your body or heart suffer, you have Tronchin as both your doctor and your friend—yet you still find only evil on earth. As for me, a humble, poor man afflicted by an incurable disease, I meditate with joy in my solitude and find that everything is well. Where do these apparent contradictions come from? You yourself explained it: you enjoy what you have, but I hope; and hope itself makes everything seem beautiful.
+
+I find it just as difficult to leave this tedious letter as you will find it difficult to complete it. Please forgive me, great man, for this perhaps indiscreet zeal; but if I held you in lower esteem, such feelings would never have been expressed. May God forbid that I should wish to offend anyone among my contemporaries whose talents I hold in the highest regard, and whose writings speak so eloquently to my heart. Yet, this matter concerns the cause of Providence, upon which I place all my hopes. Having drawn solace and courage from your teachings for so many years, it is hard for me to accept that you should now take away everything you have given me, offering in its place only a vague and uncertain hope—more like a temporary remedy than a real compensation for what I have lost. No, I have suffered too much in this life to not expect another. All the subtleties of metaphysics cannot make me doubt for a moment the immortality of the soul or the existence of a benevolent Providence. I feel it, I believe it, I desire it, I hope for it, and I will defend it until my last breath. And among all the arguments I have ever engaged in, this will be the only one in which my own interests are truly at stake. With respect, yours sincerely, [Your Name].
+
+Observation
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ecco dunque una verità da cui entrambi partiamo; sulla base di essa, voi sentite quanto sia facile difendere l’ottimismo e giustificare la Provvidenza. Non spetta a voi ripetere quei ragionamenti, ormai ben noti e solidi, che sono stati così spesso espressi in merito. Per quanto riguarda i filosofi che non concordano su questo principio, non è necessario discutere con loro su queste materie: ciò che per noi rappresenta soltanto una dimostrazione basata sul sentimento, per loro potrebbe non essere altro che un’affermazione priva di fondamento logico. Non è certo un ragionamento valido dire a qualcuno: “Dovete credere in questo perché io ci credo”. Allo stesso modo, nemmeno loro dovrebbero discutere con noi su queste stesse questioni, poiché esse non sono altro che conseguenze della proposizione principale; un avversario onesto oserebbe a malapena opporle, e sarebbe errato da parte loro pretendere che quella conseguenza venisse dimostrata indipendentemente dalla premessa su cui si basa. Penso inoltre che non lo dovrebbero fare per un’altra ragione: è ingiusto turbare anime pacifiche e causare dolore agli uomini senza alcun motivo, quando ciò che si vuole insegnare loro non è né certo né utile. In breve, seguendo il vostro esempio, si potrebbe attaccare con forza la superstizione che disturba la società, ma anche rispettare profondamente la religione che la sostiene.
+
+Ma sono indignato, come voi, che la fede di ciascuno non sia basata sulla libertà più perfetta, e che l’uomo osi controllare ciò che si trova nell’interno delle coscienze, qualcosa di cui non potrebbe mai comprendere il contenuto, come se dipendesse da noi credere o meno in questioni su cui non esistono prove concrete, e come se fosse possibile sottomettere la ragione all’autorità.
+
+I re di questo mondo hanno forse qualche potere nell’altro regno e hanno il diritto di tormentare i loro sudditi quaggiù per costringerli ad andare in paradiso? No: ogni governo umano, per sua natura, si limita ai doveri civili; e, per quanto possa aver detto lo sofista [Hobbes](/figures/hobbes), quando un uomo serve bene lo stato, non deve rendere conto a nessuno del modo in cui serve Dio.
+
+Non so se quest’essere giusto non punirà un giorno tutta la tirannia esercitata in suo nome; so però con certezza che non ne condividerà mai l’uso, e che non rifiuterà la felicità eterna a nessun incredulo virtuoso e di buona fede. Posso forse, senza offendere la sua bontà e nemmeno la sua giustizia, dubitare che un cuore retto non possa redimere un errore involontario, e che delle condotte irreprensibili non valgano ben mille culti strani prescritti dagli uomini e rifiutati dalla ragione? Direi ancora di più: se potessi, a mio piacimento, comprare le opere della virtù a scapito della mia fede, e compensare con la mia bontà la mia presunta incredulità, non esiterei un istante; preferirei anzi poter dire a Dio: “Ho compiuto, senza pensare a te, il bene che ti è gradito; il mio cuore ha seguito la tua volontà senza conoscerla”, piuttosto che dovergli dire un giorno: “Ti amavo, e non ho mai smesso di offenderti; ti ho conosciuto, e non ho fatto nulla per compiacerti”.
+
+Devo ammettere che esiste una sorta di credo che le leggi possono imporre, ma al di fuori dei principi della morale e del diritto naturale, tale credo deve essere puramente negativo. Può infatti esistere delle religioni che attaccano i fondamenti della società, e bisogna innanzitutto estinguere queste religioni per garantire la pace dello stato. Tra questi dogmi da proibire, l’intolleranza è senza dubbio il più odioso; ma bisogna affrontarla alla sua radice: i fanatici più sanguinari cambiano atteggiamento a seconda delle circostanze e predicano solo pazienza e dolcezza quando non sono al potere. Pertanto, considero intollerante per principio qualsiasi persona che ritenga impossibile essere una buona persona senza credere in tutto ciò in cui crede, e condanna senza pietà coloro che non pensano come lei. Infatti, i fedeli raramente sono disposti a lasciare in pace coloro che sono riprovati in questo mondo; un santo che crede di vivere tra dei dannati è ben felice di anticipare il “lavoro” del diavolo. Quanto agli atei intolleranti che vorrebbero costringere la gente a non credere in nulla, li bandirei con la stessa severità di coloro che vogliono costringerla a credere in tutto ciò che loro desiderano; perché dallo zelo delle loro decisioni e dall’amarezza delle loro satire si evince chiaramente che a loro manca soltanto il potere per perseguitare i credenti con la stessa crudeltà con cui vengono perseguitati dai fanatici. Dov’è dunque quell’uomo pacifico e gentile che ritiene giusto che le persone non pensino come lui? Quest’uomo sicuramente non si troverà mai tra i devoti, ma forse tra i filosofi.
+
+Vorrei quindi che in ogni stato esistesse un codice morale, o una sorta di dichiarazione di fede civile, che contenesse positivamente le massime sociali che ognuno dovrebbe adottare, e negativamente le massime intolleranti che dovrebbero essere rifiutate, non come empie, ma come sediziose. Così, qualsiasi religione che fosse in accordo con questo codice sarebbe accettata; qualsiasi religione che non lo fosse sarebbe proibita, e ognuno avrebbe la libertà di non adottarne alcuna altra se non proprio quel codice. Un’opera redatta con cura sarebbe, a mio parere, il libro più utile mai scritto, e forse l’unico davvero necessario agli uomini. Ecco, signore, un argomento adatto a voi; desidererei ardentemente che vi impegnaste in questa opera e la arricchiste con la vostra poesia, affinché tutti, potendola apprendere facilmente, possano fin da piccoli portare nei loro cuori quei sentimenti di dolcezza e umanità che brillano nelle vostre opere e che nella pratica mancano a tutti. Vi esorto a riflettere su questo progetto, che sicuramente piacerà all’autore di “Alzire”. Ci avete fornito, nel vostro poema sulla religione naturale, il catechismo dell’uomo; ora dateci, in quello che vi propongo, il catechismo del cittadino. Si tratta di un argomento su cui riflettere a lungo, e forse da riservare per l’ultima delle vostre opere, affinché, con un ulteriore beneficio per l’umanità, possiate completare la più brillante carriera che mai uno scrittore abbia intrapreso.
+
+Non posso fare a meno, signore, di notare in questo contesto una singolare opposizione tra noi riguardo al tema di questa lettera. Saziato di gloria e disilluso dalle vane grandezze, voi vivete liberamente nell’abbondanza; certo della vostra immortalità, filosofate serenamente sulla natura dell’anima; e se il corpo o il cuore soffrono, avete Tronchin come medico e amico. Tuttavia, sulla terra non trovate che dolore. E io, uomo oscuro, povero e tormentato da un male senza rimedio, rifletto con piacere nella mia solitudine e trovo che tutto sia bene. Da dove derivano queste apparenti contraddizioni? Voi stesso l’avete spiegato: voi godete, ma io spero. E la speranza rende tutto più bello.
+
+Mi costa lo stesso sforzo lasciare questa noiosa lettera quanto a voi costerà scriverla fino in fondo. Perdonatemi, nobile signore: forse il mio zelo è indiscreto, ma non si manifesterebbe mai se vi stimassi di meno. Che Dio non voglia che io offenda colui tra i miei contemporanei che rispetto maggiormente per i suoi talenti e il cui spirito si esprime al meglio attraverso le sue opere; tuttavia, si tratta della causa della Provvidenza, da cui aspetto tutto. Dopo aver tratto per tanto tempo consolazione e coraggio dalle vostre insegnanze, mi è difficile che ora voi mi priviate di tutto ciò, offrendomi soltanto una speranza incerta e vaga, più simile a un palliativo temporaneo che a un vero rimedio futuro. No. Ho sofferto troppo in questa vita per non aspettarmene un’altra. Tutte le sottigliezze della metafisica non mi faranno mai dubitare dell’immortalità dell’anima e di una Provvidenza benevola. La sento, la credo, la desidero, l’aspetto. E la difenderò fino all’ultimo mio respiro; ed è questa, tra tutte le controversie che avrò sostenuto, l’unica in cui il mio interesse non verrà dimenticato. Con tutto il rispetto, signore, ecc.
+
+Osservazione.
 
 <span class="atom-split" data-atom="038" data-title="(apertura) (parte 38)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
@@ -1757,6 +5151,106 @@ Il fait ici un froid rigoureux qui vient altérer un peu de bonne heure ma provi
 Pour Dieu, gardez bien cette chère imbécillité, trésor inattendu dont le ciel vous favorise et dont vous avez grand besoin ; car si c'est un rhumatisme pour l'esprit, c'est au corps un très bon emplâtre pour la santé ; il vous faudrait bien de pareils rhumatismes pour vous rendre impotente ; et j'aimerais mieux que vous ne pussiez remuer ni pied ni pate, c'est-à-dire n'écrire ni vers ni comédie, que de vous savoir la migraine.
 
 Je dois une réponse à M. de Gauffecourt ; mais je compte toujours qu'il viendra la recevoir. En attendant les bouts-rimés, il peut prier M. Chapuis d'envoyer un double du mémoire que je lui ai laissé. Si tout ceci vous paraît clair, le rhumatisme vous tient bien fort.
+
+<span class="qlang-split" data-lang="en"></span>
+
+If any letter was worthy of Voltaire’s attention and deserved a reply from him, it was this one—filled with reason, sensitivity, tact, and a fine sense of propriety. The admiration for this great man was expressed with slight reservations that made the sentiment even more sincere, while the praise was couched in terms that left no doubt about the sincerity of those who offered it. Moreover, the subject matter was of utmost importance; had it been discussed by two men of such stature, what brilliant developments might have resulted? Everything thus called for Voltaire’s response—a free, eloquent reply from a man who dominated his time. What was that response? These few words: “Your letter is very beautiful, but I am recovering from an illness and myself in poor health. I will wait until I feel better before discussing these matters with you. Believe me, among all those who have read your letter, none holds you in higher esteem than I do, despite my occasional sharp remarks.” Unfortunately, his health never improved enough for him to engage in meaningful discussions with Rousseau, and soon those “sharp remarks” were replaced by bloody insults. (See the full response from Voltaire below—Arv. ed.)
+
+Voltaire's response
+
+At Les Délices, September 12, 1756.
+
+My dear Philosopher, you and I can engage in philosophical discussions in verse and prose during the intervals of our troubles. But at present, please forgive me for setting aside all these discussions—after all, they are but mere pastimes. Your letter is very beautiful, but I have a niece at home who has been in great danger for three weeks; I am attending to her and am also very ill myself. I will wait until I feel better and my niece recovers before daring to think about seeing you again. Mr. Tronchin told me that you would finally return to your homeland. Mr. d’Alembert will tell you what kind of philosophical life one can lead in my modest retreat. It would truly deserve its name if it could ever welcome you here. People say you hate living in cities; I share that sentiment with you. I wish to resemble you in so many ways that this similarity might persuade you to come and visit us. My current state of health does not allow me to say more. Believe me, among all those who have read your works, none holds you in higher esteem than I do—despite my occasional mischievous remarks—and among all those who will meet you, none is more eager to love you dearly. Let me begin by dispelling any formalities.
+
+Letter CXIV – To Madame d’Épinay
+
+... 1756.
+
+I begin by telling you that I am resolved, determined, no matter what happens, to spend the winter at the Hermitage; nothing will make me change my mind, and you yourself do not have the right to demand it, because such were our arrangements when I came here; so let us not talk about it any further, but rather let me briefly explain my reasons.
+
+It is essential for me to have leisure, tranquility, and all the comforts necessary to work this winter; it truly means everything to me. Five months ago, I began preparing everything so that nothing would distract me. I gathered wood, stocked up on provisions, and organized papers and books to have them readily available. I took every precaution in case of illness; I could only enjoy leisure if I followed this plan, and I would inevitably have to allocate the time that I otherwise devoted to my work. I know from experience that moving, despite your efforts, would result in losses, damage, and expenses for me—something I could not afford a second time. If I took everything with me, it would cause terrible trouble; if I left anything behind, it would be missing or stolen this winter. In my current situation, my time and comforts are more precious than my life itself. But do not imagine that I am taking any risks; I can easily defend myself against external threats—the real danger lay within. I promise you that I will never leave without taking precautions. I don’t even plan to go anywhere other than the garden this whole winter; it would take a full-scale attack to try to capture me here. As an extra precaution, I will always have a neighbor staying with me in the house. Once you send me weapons, I will never go out without a pistol within reach—even when just walking around the house. Moreover, I plan to have our man communicate through M. Matta. So please stop discussing this with me, my dear friend; it would only upset me and achieve nothing. Contradiction is deadly to me, and I am right to be stubborn in this matter.
+
+I see from your note that it is Monday, not Sunday, on which you are sending our man[588] away; I mention this because it is important for me to know the exact day. Please do not forget to give him a list of what you allow him to take from the room; otherwise, without knowing what belongs to him, I will not let anything be taken out. I am touched by your concerns and worries; but since they are not reasonable, I ask you to calm down. Always love me, and everything will [go](/concepts/anger) well. Goodbye.
+
+Observation
+
+Here begins the persecution of which Rousseau speaks in his Confessions. Or rather, it was at this time that he wished to return to Paris. Thérèse’s mother grew bored at the Hermitage; her only companions there were Thérèse and Jean-Jacques, whom she did not understand. Since she had friends of Rousseau give her gifts without his knowledge, one can easily imagine how frustrated she must have felt to be in such solitude, where, during the winter, she saw no one at all.
+
+Letter CXVI – To the Same One
+
+Sunday morning, the Hermitage, October 1756.
+
+I am delighted to learn, my dear friend, that you and your mother are feeling better; I cannot say the same for myself. I begin to fear that I have pushed my plans further than my abilities will allow; and if this state continues, I doubt I will see spring or my country again. Nevertheless, my soul is quite at peace, especially since I have seen my friend again[591].
+
+I wanted to visit you today, but I have to reschedule it for tomorrow; I still can’t be sure about anything yet. It will probably be the first time I feel brave enough to do so. I haven’t seen my threatening compatriot yet; I thank you for your advice, but I can’t help but laugh at your concerns. See you tomorrow.
+
+Letter CXVIII – To the Same One
+
+The Hermitage, November 17, 1756.
+
+I feel much better today; but I will only be able to see you next week, and I will go there proudly on foot—for the thought of using a carriage fills me with discomfort, as if I might lack the ability to walk in order to visit you. You have not told me anything about yourself; I hope that Mademoiselle Le Vasseur will bring me some good news from you. Goodbye, madam.
+
+Letter CXX – To the Same One
+
+The Hermitage, December 1756.
+
+The roads are in such poor condition that I have decided to write to you by mail; you can do the same, since my letters from Montmorency are delivered here, and in this respect, I am as if I were right in the heart of Paris.
+
+The cold here is severe enough to somewhat diminish my stock of wood at an early stage, but it also serves as a premature reminder of winter, showing me that, regardless of what one might say, this season is not necessarily more terrible here than elsewhere—except perhaps for the absence of friends. However, we can take solace in the hope of reuniting with them in spring, or at least seeing them again; after all, you have long informed me that they can always be found when needed, in every season.
+
+For God’s sake, hold onto this precious foolishness—this unexpected treasure that heaven has blessed you with, and of which you have great need. For if it is a “rheumatism” for the mind, it is indeed a very good remedy for the body’s health. You would truly need such “rheumatisms” to become incapable of doing anything; and I would rather you couldn’t move a foot or a toe—meaning you couldn’t write poems or plays—than to suffer from migraines.
+
+I owe a reply to Mr. de Gauffecourt; but I still expect him to come and receive it. In the meantime, he may ask Mr. Chapuis to send me a copy of the memorandum I left with him. If all this seems clear to you, well, then your rheumatism must be quite severe.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Se mai una lettera fu degna di attenzione e meritò una risposta da parte di Voltaire, fu proprio questa: piena di ragionevolezza, sensibilità, tatto e di un’eccellente percezione delle convenienze sociali. L’ammirazione per questo grande uomo vi era espressa con leggere restrizioni che rendevano l’espressione ancora più sincera; la lode, in termini tali da non lasciare dubbi sulla sincerità di chi la formulava, rendeva il messaggio ancora più significativo. Inoltre, l’argomento trattato era di estremo interesse: se fosse stato affrontato da due uomini del genere, a quali brillanti sviluppi avrebbe potuto dare luogo? Tutto ciò rendeva inevitabile una risposta da parte di Voltaire, un uomo libero, colto e padrone del proprio tempo. In che consistette dunque questa risposta? In poche parole: “La vostra lettera è molto bella, ma sono in convalescenza e anch’io malato. Aspetterò di stare meglio per riflettere con voi. Potete essere certi che, tra tutti coloro che l’hanno letta, nessuno vi stima più di me, nonostante le mie battute spiacevoli.” La salute di Voltaire non migliorò abbastanza da permettergli di discutere con Rousseau; presto, quelle battute spiacevoli furono sostituite da offese crudeli. (Cfr. qui sotto la risposta completa di Voltaire – edizione Arv.)
+
+Risposta di Voltaire
+
+Aux Délices, 12 settembre 1756.
+
+Mio caro Filosofo, tu ed io possiamo, nei momenti in cui non siamo afflitti da dolori, discutere in versi e in prosa. Ma in questo momento particolare, perdonami se lascio da parte tutte queste discussioni filosofiche che non sono altro che divertimenti. La tua lettera è molto bella, ma ho con me una mia nipote che da tre settimane si trova in grave pericolo; io stesso sono malato e devo assisterla. Aspetterò di stare meglio e che anche lei guarisca, prima di osare riflettere insieme a te. Il signor Tronchin mi ha detto che finalmente tornerai nella tua patria; il signor d’Alembert ti racconterà quale vita filosofica si conduce nel mio piccolo ritiro. Questo luogo meriterebbe davvero il nome che porta, se potesse averti qualche volta tra i suoi abitanti. Si dice che tu odii la vita nelle città; in questo ho qualcosa in comune con te. Vorrei assomigliarti in molti modi, affinché questa somiglianza ti spingesse a venirci a trovare. Lo stato in cui mi trovo non mi permette di dirti di più. Puoi essere certo che, tra tutti coloro che hanno letto la tua lettera, nessuno ti stimava più di me, nonostante le mie battute scherzose. E tra tutti coloro che ti incontreranno, nessuno è più disposto ad amarti sinceramente. Comincio quindi eliminando ogni formalità.
+
+Lettera CXIV – Alla signora d’Épinay
+
+... 1756.
+
+Innanzitutto vi dico che sono deciso, risoluto, a passare l’inverno all’Ermitage, a qualunque costo; nulla mi farà cambiare idea, e nemmeno voi avete il diritto di chiedermelo, perché tali erano le nostre convenzioni quando sono arrivato. Quindi non ne parliamo più, ma vi espongo in due parole le mie ragioni.
+
+È essenziale per me disporre di tempo libero, tranquillità e tutte le comodità necessarie per lavorare quest’inverno; per me, si tratta davvero di tutto. Cinque mesi fa ho iniziato a prendere tutte le precauzioni possibili affinché nessun impegno potesse distogliermi dal mio lavoro. Mi sono procurato legna, ho fatto scorta di provviste e ho raccolto, sistemato documenti e libri in modo da averli sempre a portata di mano. Ho anche previsto ogni possibile necessità nel caso mi ammalassi; posso godere di tranquillità soltanto seguendo questo piano, e dovrò necessariamente dedicare il tempo che altrimenti riserverei al lavoro. So per esperienza che un trasloco, nonostante le vostre intenzioni, comporterebbe perdite, danni e spese da parte mia, cose che non posso permettermi di affrontare una seconda volta. Se porto via tutto, ne deriverebbero grandi inconvenienti; se lascio qualcosa indietro, mi mancherebbe o qualcuno potrebbe venire a rubarlo quest’inverno. In definitiva, nella situazione in cui mi trovo, il mio tempo e le mie comodità sono più preziosi della mia stessa vita. Ma non pensate che io corra alcun rischio: mi difenderò sempre facilmente dagli eventuali pericoli esterni; il vero pericolo era interno. Vi prometto di non allontanarmi mai senza prendere le dovute precauzioni. Non intendo nemmeno passeggiare da qualche altra parte quest’inverno se non nel giardino: ci vorrebbe un assedio per attaccarmi qui. Per maggiore sicurezza, farò sempre dormire un vicino in casa mia. Infine, non appena mi avrete inviato le armi, non uscirò mai senza un pistolo a portata di mano, nemmeno intorno alla casa; inoltre, ho intenzione di far parlare il nostro uomo tramite il signor Matta. Quindi smettete pure di parlarne, mia cara amica: non fareste altro che rattristarmi e non otterreste nulla. La contraddizione mi è davvero mortale, e ho tutte le ragioni per essere testardo.
+
+Dal vostro biglietto vedo che è lunedì, e non domenica, che congedate il nostro uomo[588]; ciò mi sembra importante, poiché è fondamentale conoscere con esattezza la data. Non dimenticate di comunicargli quali oggetti gli è permesso portare via dalla stanza; altrimenti, non sapendo cosa gli appartiene, non permetterò che nulla venga preso. Sono commosso dalle vostre preoccupazioni e ansie; tuttavia, poiché non sono giustificate, vi chiedo di tranquillizzarvi. Amatemi sempre e tutto [andrà](/concepts/anger) bene. Buongiorno.
+
+Osservazione.
+
+Ecco l’inizio delle persecuzioni di cui Rousseau parla nelle sue Confessioni. La madre di Thérèse si annoiava all’Ermitage; la sua unica compagnia era costituita da Thérèse e da Jean-Jacques, che lei non riusciva a comprendere. Poiché i suoi amici facevano regalare dei doni a Rousseau senza che lui lo sapesse, si può facilmente immaginare quanto fosse infelice in quella solitudine, dove, durante l’inverno, non vedeva nessuno.
+
+Lettera CXVI – Alla stessa persona
+
+Domenica mattina, l’Ermitage, ottobre 1756.
+
+Mi rallegro molto, mia cara amica, di sapere che vi sentite meglio, così come vostra madre; per quanto riguarda me, non posso dire lo stesso. Inizio a temere di aver portato i miei progetti oltre le mie forze; e se questa situazione dovesse continuare, dubito di rivedere la primavera o il mio paese. Del resto, l’anima è abbastanza serena, soprattutto da quando ho rivisto il mio amico[591].
+
+Volevo venire a trovarvi oggi, ma dovrò rimandare a domani; comunque, non posso ancora esserne certo. Sicuramente sarà il primo momento in cui proverò il coraggio di farlo. Non ho ancora incontrato quel mio pericoloso connazionale; vi ringrazio per i vostri consigli, ma non riesco a fare a meno di ridere delle vostre preoccupazioni. A domani.
+
+Lettera CXVIII – Alla stessa persona
+
+L’Ermitage, 17 novembre 1756.
+
+Oggi sto molto meglio; tuttavia potrò vedervi solo la prossima settimana, e ci andrò con orgoglio a piedi. Questo mezzo di trasporto mi sembra così estraneo, come se non avessi le gambe per venire da voi. Non mi avete detto nulla di voi; spero che mademoiselle Le Vasseur mi porti buone notizie. Arrivederci, signora.
+
+Lettera CXX – Alla stessa persona
+
+L’Ermitage, dicembre 1756.
+
+I sentieri sono così in cattive condizioni che ho deciso di scrivervi per posta; anche voi potete fare lo stesso, poiché le mie lettere da Montmorency mi vengono consegnate fino a qui, quindi, in questo senso, mi trovo come se fossi nel centro di Parigi.
+
+Fa un freddo intenso qui, già da ora, riduce leggermente le mie scorte di legna; tuttavia, questa anticipata manifestazione dell’inverno mi dimostra che, nonostante quanto si possa dire, questa stagione qui non è affatto più terribile altrove, tranne per l’assenza degli amici. Ma ci consoliamo pensando di rivederli in primavera, o almeno di incontrarli di nuovo; infatti, da tempo mi avete detto che, quando necessario, si possono ritrovare gli amici in tutte le stagioni.
+
+Per Dio, custodite bene questa preziosa “stupidità”, un tesoro inaspettato di cui il cielo vi favorisce e di cui avete grande bisogno; perché se si tratta di un “reumatismo” per l’anima, per il corpo è invece un ottimo rimedio per la salute. Vi servirebbero proprio molti di questi “reumatismi” per diventare incapaci di fare qualsiasi cosa. Preferirei che non poteste muovere né piede né mano, cioè che non poteste scrivere versi o commedie, piuttosto che soffrire di mal di testa.
+
+Devo una risposta a Monsieur de Gauffecourt; ma conto ancora che venga a riceverla. Nel frattempo, può chiedere a Monsieur Chapuis di inviarmi una copia del memoriale che gli ho lasciato. Se tutto ciò vi sembra chiaro, il reumatismo vi affligge davvero molto.
 
 <span class="atom-split" data-atom="039" data-title="(apertura) (parte 39)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
@@ -1876,6 +5370,242 @@ P. S. Il faut que je vous ajoute que madame Le Vasseur me fait à présent de vi
 
 Observation
 
+<span class="qlang-split" data-lang="en"></span>
+
+Regarding Mr. de Gauffecourt and his manuscript, when do you plan to return it to me? Do you realize that it has been four years since I began working on reading it, yet I have still not finished it? Good day, madam; please spread the word about this throughout society[592].
+
+Letter CXXI – To the Same One
+
+On December 13, 1756[593].
+
+My dear friend, I would surely perish if I did not pour out my sorrows in the embrace of friendship. Diderot wrote me a letter that pierced my soul. He made it clear that it was only out of kindness that he did not regard me as a scoundrel—and there is much more to be said on this subject, his own words. And do you know why? Because Madame Le Vasseur is with me. Oh, heaven! What more would he have said if she were not here? I took them in off the street, her and her husband, when they were too old to earn a living. She has only served me for three months. For ten years now, I have been depriving myself of what is necessary for life in order to support her; I have provided her with everything she needed; I have even given up living in my own country for her sake. She is absolutely dependent on me, coming and going without any restraint; I care for her as if she were my own mother. And yet all this means nothing—if I do not sacrifice my own happiness and life for her, if I do not die of despair in Paris just for her amusement. Alas! The poor woman does not desire such things; she never complains; she is quite content. But I see what this means: even M. Grimm would not be satisfied if he had not deprived me of all the friends I once gave him. Philosophers of the city, if these are your so-called virtues, then you truly console me in knowing that I am but a wicked man. I was happy in my solitude; I did not mind poverty; I was indifferent to the world’s forgetfulness; I endured my troubles with patience. But to love—and to find only ungrateful hearts. Ah! That is what I cannot bear at all. Pardon me, my dear friend; my heart is burdened with sorrow, and my eyes are filled with tears that cannot be shed. If only I could see you for a moment and cry. How much relief it would bring me! But I will never set foot in Paris again; I have sworn it.
+
+I forgot to tell you that there is even some humor in the philosopher’s letter; he becomes barbaric in a lighthearted way—which shows that he is indeed cultivating his civility.
+
+Observation
+
+Rousseau portrays his soul in this letter. It becomes evident how deeply he was outraged by unjust judgments. He had no way of knowing that the future would hold even more unfair treatments for him than those inflicted upon Diderot—and even upon Monsieur Grimm. The way he speaks about Monsieur Grimm must have displeased Madame d’Épinay.
+
+1757
+
+Letter CXXII – To Madame d’Épinay
+
+Letter CXXIII – To the Same One
+
+Letter CXXIV – To the Same One
+
+Letter CXXV – To the Same One
+
+Letter CXXVI – To the Same One
+
+Letter CXXVII – To the Same One
+
+Letter CXXVIII – To the Same One
+
+Letter CXXIX – To Mr. Diderot
+
+Letter CXXX – To the Same One
+
+Letter CXXXI – To Madame d’Épinay
+
+Letter CXXXII – To the Same One
+
+Letter CXXXIII – To the Same One
+
+Letter CXXXIV – To the Same One
+
+Letter CXXXV – To the Same One
+
+Letter CXXXVI – To the Same One
+
+Letter CXXXVII – To the Same One
+
+Letter CXXXVIII – To Mr. Vernes
+
+Letter CXXXIX – To Madame d’Épinay
+
+Letter CXL – To the Same One
+
+Letter CXLI – To the Same One
+
+Letter CXLII – To Sophie (Madam d’Houdetot)
+
+Letter CXLIII – To Madame d’Épinay
+
+Letter CXLIV – To the Same One
+
+Letter CXLV – To the Same One
+
+Letter CXLVI – To the Same One
+
+Letter CXLVII – To the Same One
+
+Letter CXLVIII – To the Same One
+
+Letter CXLIX – To the Same One
+
+Letter CL – To the Same One
+
+Letter CLI – To the Same One
+
+Letter CLII – To Mr. de Saint-Lambert
+
+Letter CLIII – To Mr. Grimm
+
+Letter CLIV – To Madame d’Épinay
+
+Letter CLV – To Madame d’Houdetot
+
+Letter CLVI – To Mr. de Saint-Lambert
+
+Letter CLVII – To Mr. Grimm
+
+Letter CLVIII – To Madame d’Houdetot
+
+Letter CLIX – To the Same One
+
+Letter CLX – To Madame d’Épinay
+
+Letter CLXI – To the Same One
+
+Correspondence Table
+
+Letter CXXII – To the Same One
+
+January 1737.
+
+Here, madam, are Diderot’s letters and my last reply; read them and judge for yourselves, for as for me, I am too angry, too violently indignant to be able to think clearly.
+
+I just told Madame Le Vasseur that, as much as we both might enjoy living together, my friends considered it too unpleasant for a woman of her age to stay here; they believed she should go to Paris to live with her children, and that I would give her and her daughter everything I owned in the world. Upon hearing this, the daughter began to cry, but despite the pain of separating from her mother, she insisted on staying with me. And indeed, no matter what the philosophers might say, I will not force her to leave. Therefore, I must reserve some money to provide for her just as I do for myself. So I told Madame Le Vasseur that I would give her a pension that would be paid as long as I lived, and that is what will happen. I also asked you to determine the amount of this pension for her, and I implore you to do so—please do not hesitate to set it high; I will always benefit greatly from it, even if it is just in terms of my personal freedom.
+
+What is most terrible for me is that that good woman has taken it into her head that all of this is some kind of game being played between Diderot, me, and her daughter, and that it is a scheme I have concocted in order to get rid of her. She pointed out something very true regarding this: since she had spent part of the winter here[594], it was indeed very difficult for her to leave now that spring was approaching. I told her that she was right, but that if the slightest misfortune should happen to her during the summer, people would not hesitate to hold me responsible for it. “It won’t be the public,” I added, “who will say such things; it will be my friends. And I don’t have the courage to face them and be accused of being an assassin.”
+
+Fifteen days ago, we were living here in peace and perfect harmony. Now, we are all alarmed, agitated, and in tears, forced to separate. I assure you that this experience has taught me never to get involved in my friends’ domestic affairs unless I understand the situation thoroughly and with great caution. In fact, I am quite uncertain whether I should write to Mr. d’Épinay in support of that poor Cahouet[595].
+
+Since Diderot has informed me that he will be coming on Saturday, it is important to send him his letter immediately. If he comes, he will be received with honesty, but my heart will remain closed to him, and I feel that we will never see each other again. It matters little to him; it will merely mean the loss of another friend. But for me, I will lose everything and be tormented for the rest of my life[596]. Another experience has taught me too well that I do not possess a heart capable of forgetting what was dear to me. Let us, if possible, avoid an irreconcilable break. I am suffering so cruelly that I deemed it necessary to send you this urgent message in order to receive a prompt reply. Please use it to deliver the letter to Diderot and respond to me immediately, if you have any pity for me.
+
+P.S. I must add that Madame Le Vasseur is now hurling violent reproaches at me; she does so in a harsh, arrogant manner, with the tone of someone who feels well-supported by others. Neither I nor her daughter respond; we merely suffer in silence. It is clear that the elderly are cruel, merciless, and heartless—they love nothing but themselves. You see that I can no longer avoid becoming a monster. In the eyes of Monsieur Diderot, I will be a monster whether Madame Le Vasseur stays here or not; whatever choice I make, I will inevitably turn out to be evil.
+
+Observation
+
+<span class="qlang-split" data-lang="it"></span>
+
+A proposito di Monsieur de Gauffecourt e del suo manoscritto, quando intende restituirmelo? Sa che da quattro anni lavoro per riuscire a leggerlo, senza però essere ancora riuscito a terminarlo? Buongiorno, signora; mi faccia avere l’opportunità di partecipare attivamente alla vita sociale[592].
+
+Lettera CXXI – Alla stessa persona
+
+Il 13 dicembre 1756[593].
+
+Mia cara amica, dovrò soffocare se non riverso tutte le mie pene nell’abbraccio dell’amicizia. Diderot mi ha scritto una lettera che mi ha trafitto l’anima; mi dicono che è solo per grazia sua che non mi considera un malvagio, e ci sarebbe molto da dire al riguardo. Secondo le sue stesse parole. E sapete perché? Perché madame Le Vasseur è con me. Oh mio Dio, cosa direbbe ancora se lei non fosse qui? L’ho raccolta in strada, insieme a suo marito, in un’età in cui ormai non erano più in grado di guadagnarsi da vivere. Non mi ha mai reso che tre mesi di servizio. Da dieci anni mi privo del pane necessario per vivere per lei; la porto in luoghi dove non le manca nulla; rinuncio al soggiorno nella mia patria per lei. Lei è la sua padrona assoluta, va e viene senza alcun controllo. Mi prendo cura di lei come se fosse mia madre. Eppure tutto questo non basta. Sarei davvero un malvagio se non le sacrificassi anche la mia felicità e la mia vita. Se non morissi di disperazione a Parigi per il suo divertimento. Ahimè. Quella povera donna non lo desidera affatto; non si lamenta mai. È molto contenta. Ma capisco bene cosa sta succedendo. Anche M. Grimm non sarà soddisfatto se non mi avrà privato di tutti gli amici che gli ho dato. Filosofi delle città, se queste sono le vostre virtù, allora mi consolate davvero nel sapere di essere un malvagio. Ero felice nella mia solitudine; la solitudine non mi pesava; temevo poco la povertà; l’oblio del mondo non mi interessava; sopportavo i miei mali con pazienza. Ma amare, e trovare solo cuori ingrati, ah, questo è davvero insopportabile per me. Perdonami, mia cara amica. Il mio cuore è oppresso dal dolore. Gli occhi sono pieni di lacrime che non riescono a uscire. Se potessi vederti per un momento e piangere, quanto mi sentirei sollevato! Ma non metterò più piede a Parigi in vita mia. L’ho giurato.
+
+Dimenticavo di dirvi che nella lettera di quel filosofo c’è persino dell’umorismo; si comporta in modo “barbaro” con leggerezza. Si vede chiaramente che sta cercando di “civilizzarsi”.
+
+Osservazione.
+
+In questa lettera Rousseau descrive la propria anima; vi si può vedere quanto fosse indignato di fronte ai giudizi ingiusti. Non avrebbe mai immaginato che il futuro gli riservasse giudizi ancora più ingiusti di quelli subiti da Diderot, o persino dal signor Grimm. Il modo in cui parla di quest’ultimo sicuramente non piacque a madame d’Épinay.
+
+1757
+
+Lettera CXXII – Alla signora d’Épinay
+
+Lettera CXXIII – Alla stessa persona
+
+Lettera CXXIV – Alla stessa persona
+
+Lettera CXXV – Alla stessa persona
+
+Lettera CXXVI – Alla stessa persona
+
+Lettera CXXVII – Alla stessa persona
+
+Lettera CXXVIII – Alla stessa persona
+
+Lettera CXXIX – A Monsieur Diderot
+
+Lettera CXXX – Allo stesso.
+
+Lettera CXXXI – Alla signora d’Épinay
+
+Lettera CXXXII – Alla stessa persona
+
+Lettera CXXXIII – Alla stessa persona
+
+Lettera CXXXIV – Alla stessa persona
+
+Lettera CXXXV – Alla stessa persona
+
+Lettera CXXXVI – Alla stessa persona
+
+Lettera CXXXVII – Alla stessa persona
+
+Lettera CXXXVIII – A Monsieur Vernes
+
+Lettera CXXXIX – Alla signora d’Épinay
+
+Lettera CXL – Alla stessa persona
+
+Lettera CXLI – Alla stessa persona
+
+Lettera CXLII – A Sophie (Madame d’Houdetot)
+
+Lettera CXLIII – Alla signora d’Épinay
+
+Lettera CXLIV – Alla stessa persona
+
+Lettera CXLV – Alla stessa persona
+
+Lettera CXLVI – Alla stessa persona
+
+Lettera CXLVII – Alla stessa persona
+
+Lettera CXLVIII – Alla stessa persona
+
+Lettera CXLIX – Alla stessa persona
+
+Lettera CL – Alla stessa persona
+
+Lettera CLI – Alla stessa persona
+
+Lettera CLII – A Monsieur de Saint-Lambert
+
+Lettera CLIII – A Monsieur Grimm
+
+Lettera CLIV – Alla signora d’Épinay
+
+Lettera CLV – Alla signora d’Houdetot
+
+Lettera CLVI – A Monsieur de Saint-Lambert
+
+Lettera CLVII – A Monsieur Grimm
+
+Lettera CLVIII – Alla signora d’Houdetot
+
+Lettera CLIX – Alla stessa persona
+
+Lettera CLX – Alla signora d’Épinay
+
+Lettera CLXI – Alla stessa persona
+
+Tabella della corrispondenza
+
+Lettera CXXII – Alla stessa persona
+
+Gennaio 1737.
+
+Ecco, signora, le lettere di Diderot e la mia ultima risposta; leggetele e giudicateci, perché per quanto mi riguarda, sono troppo arrabbiato, troppo profondamente offeso per essere in grado di ragionare con lucidità.
+
+Ho appena detto a madame Le Vasseur che, per quanto entrambi potessimo desiderare vivere insieme, i miei amici ritenevano che lei fosse troppo malata, per una donna della sua età; che dovesse andare a Parigi a vivere con i suoi figli, e che io le avrei dato tutto ciò che possedevo al mondo, sia a lei che a sua figlia. A queste parole la figlia ha iniziato a piangere, ma nonostante il dolore di separarsi dalla madre, ha protestato che non mi avrebbe lasciato. E onestamente, per quanto possano dire i filosofi, non la costringerò a farlo. Quindi devo riservarmi qualcosa anche io, per poterla mantenere allo stesso modo in cui mantengo me stesso. Ho detto quindi a madame Le Vasseur che le avrei concesso una pensione che le sarebbe stata pagata finché fossi vissuto. E così sarà fatto. Le ho anche chiesto di stabilire voi stessa l’importo di questa pensione. Vi prego: non esitate a fissarlo un po’ alto; ne trarrò sempre molti vantaggi, anche solo in termini di libertà personale.
+
+Quello che trovo più orribile è che quella brava donna abbia preso l’idea che tutto ciò fosse solo un gioco tra Diderot, me e sua figlia, e che io avessi inventato questo stratagemma per sbarazzarmene. Mi ha fatto notare qualcosa di molto vero: essendo trascorsa una parte dell’inverno qui[594], le è davvero difficile andarsene con l’avvicinarsi della primavera. Le ho detto che aveva ragione, ma che se le fosse accaduto qualche disgrazia durante l’estate, non mancherebbero certo di incolparmi. “Non sarà il pubblico”, ho aggiunto, “a farlo, saranno i miei amici, e io non ho il coraggio di rischiare di essere considerato un assassino da loro.”
+
+Quindici giorni fa vivevamo qui in pace e in perfetta armonia. Ora siamo tutti allarmati, agitati, in lacrime, costretti a separarci. Vi assicuro che questo episodio mi insegnerà a non immischiarmi mai nelle faccende domestiche dei miei amici se non dopo averne pienamente compreso le ragioni e con grande cautela. Sono persino incerto se debba scrivere a Monsieur d’Épinay a favore di quel povero Cahouet[595].
+
+Poiché Diderot mi ha detto che verrà sabato, è importante inviargli immediatamente la sua lettera. Se dovesse venire, verrebbe accolto con onestà, ma il mio cuore si chiuderà davanti a lui e sento che non ci rivedremo mai più. A lui poco importerà; per lui sarà solo un amico in meno. Ma io perderò tutto e sarò tormentato per il resto della mia vita[596]. Un altro esempio mi ha insegnato troppo chiaramente che il mio cuore non sa dimenticare ciò che gli è stato caro. Se possibile, evitiamo una rottura irreconciliabile. Sono così crudelmente tormentato che ho ritenuto opportuno inviarvi questo messaggio urgente, affinché possiate ricevere una risposta tempestiva. Usatelo per consegnare la lettera a Diderot e rispondetemi immediatamente, se avete un po’ di pietà per me.
+
+P.S. Devo aggiungere che ora madame Le Vasseur mi fa dei violenti rimproveri; me li fa in modo duro, con arroganza, e con il tono di qualcuno che si sente molto protetto. Nemmeno sua figlia risponde; ci limitiamo a lamentarci in silenzio. Vedo che gli anziani sono duri, senza pietà, senza cuore, e non amano più nulla se non se stessi. Capite quindi che ormai non posso più evitare di essere considerato un mostro. Lo sono agli occhi di Monsieur Diderot, sia che madame Le Vasseur rimanga qui, sia che se ne vada. Qualunque decisione prenda, mi ritrovo comunque a essere cattivo, contro la mia volontà.
+
+Osservazione.
+
 <span class="atom-split" data-atom="040" data-title="(apertura) (parte 40)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Ces lettres, à l'occasion de Diderot, mettent à même de juger avec connaissance de cause les deux amis ; l'un violent, l'autre emporté, mais avec cette différence que le premier voulait, bon gré malgré, se mêler des affaires du second, qui s'occupait à peine des siennes, et ne voulait pour lui que l'indépendance. L'emportement de celui-ci était toujours provoqué par une cause qui le justifiait. D'ailleurs il s'évaporait promptement : mais la violence de Diderot, accessible à la haine, avait de la durée. L'odieuse note à l'occasion de Sénèque ne le prouve que trop. Diderot a laissé dans ses écrits des traces de cette haine et de son injustice : dans les siens, Rousseau n'a parlé de son ancien ami qu'en termes honorables.
@@ -1924,6 +5654,102 @@ Lettre CXXVIII – À la même
 
 Nous sommes ici trois malades, dont je ne suis pas celui qui aurait le moins besoin d'être gardé. Je laisse en plein hiver, au milieu des bois, les personnes que j'y ai amenées sous promesse de ne les y point abandonner. Les chemins sont affreux, et l'on enfonce de toutes parts jusqu'au jarret. De plus de deux cents amis qu'avait M. Gauffecourt à Paris, il est étrange qu'un pauvre infirme, accablé de ses propres maux, soit le seul dont il ait besoin. Je vous laisse réfléchir sur tout cela ; je vais donner encore ces deux jours à ma santé et aux chemins pour se raffermir. Je compte partir vendredi s'il ne pleut ni ne neige ; mais je suis tout-à-fait hors d’état d'aller à pied jusqu'à Paris, ni même jusqu'à Saint-Denys, et le pis est que le carrosse ne peut manquer de me faire beaucoup de mal dans l'état où je suis. Cependant si le vôtre se trouve, en cas de temps passable, vendredi à onze heures précises devant la grille de M. de Luxembourg[603], j’en profiterai, sinon je continuerai ma route comme je pourrai, et j'arriverai quand il plaira à Dieu. Au reste, je veux que mon voyage me soit payé ; je demande une épingle pour ma récompense ; si vous ne me la faites pas avoir, vous qui pouvez tout, je ne vous le pardonnerai jamais.
 
+<span class="qlang-split" data-lang="en"></span>
+
+These letters, written on the occasion of Diderot’s actions, enable the two friends to judge each other with full understanding of the circumstances: one was violent, the other impulsive—but with this difference in their approaches—the first insisted, whether willingly or not, on meddling in the other’s affairs, while the latter paid little attention to his own and only desired independence for himself. The impulsiveness of the latter was always provoked by a justifiable cause; moreover, it would quickly subside. But Diderot’s violence, capable of giving rise to hatred, was more enduring. The hateful note written on the occasion of Seneca is but one example of this. Diderot left traces of this hatred and injustice in his writings; Rousseau, on the other hand, spoke of his former friend only in honorable terms.
+
+Letter CXXIV – To the Same One
+
+... 1757.
+
+Madame Le Vasseur must write to you, my dear friend; I have asked her to tell you sincerely what she thinks. To put her at ease, I told her that I did not want to read her letter, and I beg you not to tell me anything about its contents.
+
+I will not send mine to Diderot, since you oppose it. But feeling deeply offended, it would mean admitting a fault that I do not possess, and exhibiting a kind of baseness and falsity that I could never tolerate—and which, in truth, you yourself would condemn regarding what lies at the bottom of my [heart](/positions/fideism). The Gospel indeed commands us to offer the other cheek to him who strikes us, but it does not command us to ask for forgiveness. Do you remember that character in the comedy who shouted “Murder!” while hitting someone with a stick? That is precisely the role of the philosopher.
+
+Do not expect to stop him from coming in such weather; he would be very angry if it were nicer outside. Anger will give him the time and strength that friendship refuses him: he will go out of his way just to walk here and repeat to me the insults he writes in his letters. I will endure them with utmost patience; he will then return to Paris and fall ill, while I will appear before everyone as a truly detestable person. Patience! One must suffer. Don’t you see the logic behind this man’s behavior? He wanted to come to Saint-Denys by carriage, have dinner there, and then be taken back home by carriage too. Eight days later, however, his financial situation no longer allows him to travel to the Ermitage except on foot. To use his own words, it is not absolutely impossible that this could be a sign of good faith. But if that’s the case, then something extremely unusual must have happened to his finances in those eight days. Oh, philosophy!
+
+I share in the sorrow you feel at your mother’s illness; but believe me, your pain could never compare to mine. In fact, it is even less painful to see those we love fall ill than to see them become unjust and cruel.
+
+Goodbye, my dear friend; this will be the last time I speak to you about this unfortunate matter.
+
+You speak to me about going to Paris with such calmness that it would delight me at any other time. I consider myself capable of saying all the beautiful things that could be said on this subject; but despite all that, I will never go to Paris in my life, and I thank heaven for having made me a bear, an hermit, and a stubborn person, rather than a philosopher.
+
+Letter CXXVI – To the Same One
+
+It may pass for a little flirtatious behavior; but the salt! Has any woman ever combined warmth with prudence at the same time? In the end, you’ll make me turn my hat askew, and I won’t be able to straighten it again. Haven’t you done enough for yourself? Now do something for me, and let me be loved in my own way.
+
+Oh! How kind you are in giving me these explanations! Ah, that troublesome rheumatism. Now that you have explained the ticket to me, please explain the commentary as well; because I still don’t understand what that “glacière” refers to. And, to be honest, I don’t know of any other “glacière” you might have in mind except for a collection of French music.
+
+Finally, you have seen that man[599]. That still counts as one capture; because I agree with you, and I believe that is all you will get. However, I can well imagine what a musk bear[600] might have to tell you about the effect of that first meeting. But as for me, I think the Diderot of the morning will always want to see you, while the Diderot of the evening will never have seen you at all. You know quite well that rheumatism sometimes plagues him too; and when he isn’t soaring high above the sun on his two great wings, one can find him lying in a pile of grass, immobilized by his four legs. Believe me, if you still have any leftover gauzes or bandages, you’d do well to send them to him. I didn’t know that Father Gauffecourt was ill; in fact, people even flattered me by saying they expected to see him today. But what you told me means that if he doesn’t come, I will be in great trouble.
+
+More new plans? By the devil, plans are fine, but too many plans can lead to chaos! A plan itself is undoubtedly a very good thing, but add in some details and dramatic scenes—that’s all it takes for a play to be successful when read aloud, and sometimes even when performed on stage. May God keep you from creating something that’s actually good enough for that purpose.
+
+I reread your letter in search of any spelling mistakes, but I couldn’t find any, although I have no doubt they exist. I am not angry with you for making them, but rather grateful that you noticed them. As for me, I had intended to make them on purpose just to embarrass you, but I completely forgot about that while writing to you.
+
+Hello, my friend of the present, and even more so of the future. You haven’t mentioned anything about your health, which leads me to assume that it is good.
+
+Regarding health, I don’t know if there’s any real meaning in this jumble of words, but it seems rather nonsensical to me. That makes me think I might have been better off making a thick, sturdy cap out of your fabric instead of a jacket, because I feel that rheumatism isn’t affecting my heart so much as my brain.
+
+I would kindly ask you to inquire with the tyrant[601] what meaning he gives to a package that he had sent to me, containing two écus of six francs each; it seems to me like an excessively large advance on the chess games he is bound to lose against me.
+
+Diderot is leaving here; I showed him your letter and mine. As I told you, he has developed a great respect for you, but he will not meet with you. You have already done enough, even for him. Believe me, let him go. Madame Le Vasseur is feeling a bit better now.
+
+Letter CXXVIII – To the Same One
+
+[602]
+
+At the Hermitage, January 1757.
+
+We are three sick people here, and I am certainly not the one who would need the least care or supervision. In the dead of winter, in the middle of the woods, I leave behind those I have brought there, promising not to abandon them. The roads are terrible; one sinks up to the ankles in mud everywhere. Out of more than two hundred friends that Monsieur Gauffecourt had in Paris, it is strange that a poor sick man, overwhelmed by his own troubles, should be the only one for whom he needs to worry. I leave you to reflect on all this; I will give my health and these roads another two days to recover. I plan to set off on Friday, provided it does not rain or snow; but in my current state, I am utterly unable to walk all the way to Paris, let alone to Saint-Denys. Moreover, the carriage is bound to cause me great harm given my condition. However, if your carriage happens to be available at eleven o’clock on Friday, in front of Monsieur de Luxembourg’s gate, I will take it; otherwise, I will continue on my journey as best I can and will arrive whenever God decides. Lastly, I demand that my travel expenses be paid; I ask for a pin as my reward. If you do not manage to provide it for me, you who can do anything, I will never forgive you.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Queste lettere, in occasione di Diderot, permettono ai due amici di giudicare con cognizione di causa le loro rispettive caratteristiche: l’uno violento, l’altro impulsivo, ma con questa differenza che il primo cercava, a tutti i costi, di intromettersi nelle faccende dell’altro, il quale si occupava appena delle proprie e desiderava soltanto per lui l’indipendenza. L’impulsività di quest’ultimo era sempre scatenata da una causa che la giustificava; inoltre, tale impulsività svaniva rapidamente. Ma la violenza di Diderot, suscettibile all’odio, aveva una durata maggiore; l’odiosa nota scritta in occasione di Seneca ne è la prova evidente. Diderot ha lasciato nei suoi scritti tracce di questo odio e della sua ingiustizia; Rousseau, invece, ha parlato del suo vecchio amico soltanto in termini onorevoli.
+
+Lettera CXXIV – Alla stessa persona
+
+... 1757.
+
+Madame Le Vasseur dovrebbe scrivervi, mia cara amica; le ho chiesto di dirvi sinceramente ciò che pensa. Per metterla a suo agio, le ho detto che non volevo leggere la sua lettera, e vi prego di non dirmi nulla di ciò che contiene.
+
+Non invierò il mio resoconto a Diderot, poiché voi vi opporreste. Ma sentendomi profondamente offeso, accordarsi su un tort che non ho commesso significherebbe una bassezza e una falsità che non potrei tollerare, e che voi stessi condannereste riguardo a ciò che accade nel profondo del mio [cuore](/positions/fideism). L’Evangelo ordina certamente a chi riceve un colpo di offrire l’altra guancia, ma non di chiedere scusa. Vi ricordate quell’uomo nella commedia che gridava “assassinio” mentre sferrava colpi di bastone? Ecco il ruolo del filosofo.
+
+Non sperate di poterlo impedire dal venire, con questo tempo. Sarebbe molto arrabbiato se il tempo fosse più bello. La rabbia gli darà il tempo e le forze che l’amicizia gli nega: si esalterà fino al punto di venire a piedi solo per ripetermi le offese che mi scrive nelle sue lettere. Le sopporterò, senza dubbio, con pazienza. Lui tornerà a Parigi e si ammalerà. E io apparirò davanti a tutti come un uomo estremamente odioso. Pazienza. Bisogna soffrire. Non trovate forse logica nel comportamento di quest’uomo che voleva venire da me a Saint-Denys, in fiacre, per pranzare e poi tornare via sempre in fiacre. E che, otto giorni dopo, a causa delle sue difficoltà finanziarie, non potesse più andare all’Ermitage se non a piedi? Parlando con il suo linguaggio. Non è assolutamente impossibile che ci sia sincerità nella sua azione. Ma in questo caso, devono essersi verificate strane trasformazioni nelle sue condizioni finanziarie. Oh, la filosofia,!
+
+Condivido il dolore che provate a causa della malattia di vostra madre; ma credetemi, il vostro dolore non potrebbe nemmeno avvicinarsi al mio. In realtà, soffriremmo ancora meno se le persone che amiamo fossero solo malate, piuttosto che ingiuste e crudeli.
+
+Addio, mia cara amica; questa è l’ultima volta che parlerò con te di questa sfortunata faccenda.
+
+Mi parlate di andare a Parigi con una calma che in qualsiasi altro momento mi rallegrerebbe molto. Riconosco che ci siano molte belle cose da dire al riguardo; tuttavia, non andrò mai a Parigi in vita mia, e ringrazio il cielo per avermi reso un orso, un eremita, e testardo, piuttosto che un filosofo.
+
+Lettera CXXVI – Alla stessa persona
+
+Passi pure per una sciocchezza. Ma il sale! Mai una donna ha mai offerto allo stesso tempo calore e prudenza. Alla fine mi farete mettere il cappello storto, e non lo rimetterò più dritto. Non avete già fatto abbastanza per voi? Ora fate qualcosa anche per me. E lasciatevi amare a mio piacimento.
+
+Oh! Che gentile siete a fornirmi queste spiegazioni. Ah, quel maledetto reumatismo. Ora che mi avete chiarito il contenuto di quella lettera, spiegatemi anche il commento; perché non capisco assolutamente cosa significhi quella “ghiacciaia” menzionata. E, per quanto ne so, l’unica “ghiacciaia” che vi riguardi è senz’altro una raccolta di musica francese.
+
+Infine, avete visto quell’uomo[599]: è sempre lo stesso individuo, perché sono d’accordo con voi, e credo che sia tutto ciò che avrete mai da lui. Tuttavia, immagino bene cosa vi potrebbe dire un orso muschiato[600] sull’effetto di quel primo incontro. Ma per quanto mi riguarda, penso che il Diderot del mattino vorrà comunque venire a trovarvi, mentre il Diderot della sera non vi vedrà mai. Sapete bene che a volte anche lui soffre di reumatismo. E quando non “vola” sulle sue due grandi ali vicino al sole, lo si trova su un mucchio d’erba, bloccato nelle sue quattro zampe. Credetemi: se avete ancora qualche pezzo di stoffa in più, fateglielo inviare. Non sapevo che il padre Gauffecourt fosse malato; anzi, mi hanno persino lusingato dicendo che lo avrei visto oggi. Quello che mi avete detto mi fa pensare che, se non viene, ne sarò molto preoccupata.
+
+Ancora nuovi piani? Che il diavolo si prenda tutti i piani. Un piano in sé è certamente una cosa molto bella, ma bisogna aggiungere dettagli e scene teatrali: sono proprio questi elementi a garantire il successo di un’opera, sia nella lettura che talvolta anche nell’esecuzione. Che Dio vi protegga dal crearne una davvero buona.
+
+Ho riletto la vostra lettera alla ricerca di errori di ortografia, ma non ne ho trovato nessuno, anche se non dubito che ce ne siano. Non vi biasimo per averli commessi, ma piuttosto per esservene accorti. Io stesso avrei voluto farne apposta per mettervi in imbarazzo, ma non ci ho più pensato mentre vi scrivevo.
+
+Ciao, mia amica del presente, e molto di più del futuro. Non mi parli della tua salute, il che mi fa sperare che sia buona.
+
+Per quanto riguarda la salute, non so se in questo numero ci sia qualche errore di ortografia, ma non credo che abbia molto senso; questo mi fa pensare che forse avrei fatto meglio a utilizzare il vostro grembiule per realizzare un cappello spesso e robusto, invece di un gilet. Perché sento che il reumatismo non mi colpisce il cuore, ma il cervello.
+
+Vi prego di chiedere al tiranno[601] cosa significhi un pacco che mi ha fatto inviare, contenente due scudi da sei franchi: mi sembra un acconto un po’ eccessivo rispetto alle partite a scacchi che dovrà perdere con me.
+
+Diderot se ne va ora; gli ho mostrato la vostra lettera e la mia. Gliel’ho detto: ha sviluppato una grande stima per voi, ma non vi incontrerà più. Avete già fatto abbastanza, anche per lui. Credetemi, lasciatelo andare. La mamma Le Vasseur sta un po’ meglio ora.
+
+Lettera CXXVIII – Alla stessa persona
+
+[602]
+
+All’Ermitage, gennaio 1757.
+
+Siamo qui in tre malati, e non sono certo io quello che avrebbe meno bisogno di essere assistito. Lascio persone che ho portato qui con l’impegno di non abbandonarle, nel bel mezzo dell’inverno, tra i boschi. I sentieri sono terribili; si affonda nella neve fino alle caviglie. È strano che, tra i più di duecento amici che il signor Gauffecourt aveva a Parigi, sia proprio un povero malato, oppresso dai propri mali, l’unico di cui abbia bisogno. Lascio che riflettiate su tutto questo; darò ancora questi due giorni alla mia salute e ai sentieri per riprendermi. Intendo partire venerdì, a condizione che non piova né nevichi; ma sono completamente impossibilitato a viaggiare a piedi fino a Parigi, né tantomeno fino a Saint-Denys. E il peggio è che la carrozza potrebbe causarmi molti problemi, data la mia condizione. Tuttavia, se la vostra si trovasse, venerdì alle undici in punto davanti alla residenza del signor de Luxembourg[603], ne approfitterei; altrimenti continuerò il mio viaggio come potrò e arriverò quando Dio vorrà. In ogni caso, voglio che il mio viaggio venga pagato. Chiedo un ago come ricompensa; se non me lo procurate voi, che potete tutto, non ve lo perdonerò mai.
+
 <span class="atom-split" data-atom="041" data-title="(apertura) (parte 41)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Je choisis d'aller dîner avec vous, et coucher chez Diderot. Je sens aussi, parmi tous mes chagrins, une certaine consolation à passer encore quelques soirées paisibles avec notre pauvre ami. Quant aux affaires, je n'y entends du tout rien ; je n'en veux entendre parler d'aucune espèce, à quelque prix que ce soit ; arrangez-vous là-dessus. Voilà un paquet et une lettre que je vous prie de faire porter chez Diderot. Bonjour, ma bonne amie ; tout en vous querellant, je vous plains, vous estime, et ne songe point sans attendrissement au zèle et à la constance dont vous avez besoin, toujours environnée d'amis malades ou chagrins, qui ne tirent leur courage et leur consolation que de vous.
@@ -1962,6 +5788,82 @@ Je voudrais vous faire deux ou trois questions très simples. Quel est l'agresse
 
 En supposant que j'eusse mal reçu vos reproches, et que j'eusse tort dans le fond, qui de nous deux était le plus obligé de prendre le ton de la raison pour y ramener l'autre ? Je n'ai jamais résisté à un mot de douceur. Vous pouvez l'ignorer, mais vous pouvez savoir que je ne cède pas volontiers aux outrages. Si votre dessein, dans toute cette affaire, eût été de m'irriter, qu'eussiez-vous fait de plus ?
 
+<span class="qlang-split" data-lang="en"></span>
+
+I have chosen to dine with you and spend the night at Diderot’s place. Among all my sorrows, I feel a certain comfort in being able to spend a few more peaceful evenings with our poor friend. As for matters of business, I understand nothing about them at all; I refuse to hear anything about them, no matter what the cost; you must arrange things accordingly. Here is a package and a letter; please have them delivered to Diderot. Goodbye, my dear friend; even as we argue, I feel sorry for you, I respect you, and I cannot help but think with emotion of the zeal and constancy you need, especially since you are always surrounded by friends who are sick or in sorrow, and who draw their courage and comfort from you alone.
+
+Letter CXXIX – To Mr. Diderot
+
+[604]
+
+This Wednesday evening, 1757.
+
+When you make promises, you are well aware that you have a wife, children, servants, and so on; yet you still go ahead and make those promises as if nothing were preventing you from keeping them. Therefore, I have every right to admire your courage. It is true that when you promise to come, I often wait in vain for you; and when you set up appointments with me, you never fail to keep them—without exception. I believe this is the greatest harm I have ever caused you in my life.
+
+You haven’t changed at all. Don’t delude yourself about that. If you had always been what you are now, I find it hard to believe that I would have become your friend; at least I am certain that you would not have become mine.
+
+Do you want to come to the Hermitage on Saturday? I beg you not to; I implore you earnestly. In our current situation, it would be inappropriate for us to meet so soon—there is a strong possibility that this will be our last encounter, and I do not wish to risk losing a friendship that is dear to me at such a time. It has nothing to do with my work; I am no longer in a state to talk about it or even think about it. But perhaps you would find it quite easy to fall ill just so that you could have the pleasure of reproaching me and causing me double sorrow. In all our arguments, you have always been the one who initiated the conflict. I am very certain that I have never done you any harm other than not enduring with enough patience the pain you enjoyed inflicting upon me—and in that regard, I admit I was wrong. I was happy in my solitude; you set out to disturb it, and you have succeeded quite well. After all, you said that only the wicked are alone; and in order to justify your judgment, you must, at any cost, make sure that I become one of them. Philosophers! Philosophers!
+
+No, I shall not blame heaven for having given me friends; but without Madame d’Épinay, I’m afraid I would have to blame it for not having given me any at all. Moreover, I do not agree that they are useless; in the past, they helped to make my life pleasant, and now they seem to prevent me from enjoying it anymore.
+
+As for that inhumane sophism you reproach me with, you are right to speak of it in such a low voice; indeed, you could not speak of it low enough for the sake of your own honor. May God protect you from having a heart that looks upon your friends in such a way! I begin to agree with you about Madame Le Vasseur; she will be better off in Paris. Unfortunately, I cannot provide her with comfort there, but I will give her everything I have, I will sell everything; if I manage to earn any money, it will be for her. She has children in Paris who can take care of her; if they are not enough, her daughter will join them. In all this, I would not be doing too much for my own heart, nor not enough for my friends. But whatever happens, I refuse to sacrifice my freedom or become her slave, even if philosophy were to prove that I ought to do so. I will remain alone here; I will eat bread and drink water; I will be happy and at peace. You will have Madame Le Vasseur, and soon I will be forgotten.
+
+I believe I have already replied to the Gentleman[605], that is, to the son of a farmer-general, that I did not feel pity for the poor people I saw on the ramparts waiting for my penny; that apparently he had already compensated them generously enough; that I was appointing him as my substitute; that the poor people of Paris would have nothing to complain about this arrangement; but that I would not easily find such a good substitute for those in Montmorency, who needed it even more urgently. There is a worthy old man here who has spent his entire life working, and now, no longer able to work, he dies of hunger in his old age. My conscience is far more satisfied with the two sous I give him every Monday than with a hundred pounds I might distribute to all the beggars on the ramparts. You philosophers are really amusing when you regard the inhabitants of cities as the only people to whom your duties bind you. It is in the countryside that one learns to love and serve humanity; in cities, one only learns to despise it. I have duties that I am bound to fulfill; and for that reason, I refuse to take on any additional duties that would prevent me from carrying out these ones properly.
+
+I notice something that it is important for me to tell you. I have never written to you without feeling tender; indeed, my previous letter was soaked with my tears. But now, even your indifference has extended to me as well. My eyes are dry, and my heart aches as I write to you. I am not in a position to receive you; please, do not come. I have never considered the time or counted my steps when my friends needed my presence. I would expect the same devotion from them, but this is not the case now. If you have any respect for an old friendship, do not bring it to the brink of an inevitable and irreparable break. I am sending you this letter via express mail; you can then return my sealed documents to me.
+
+Observation
+
+This letter is one of those that must be examined with careful attention in order to determine which party was at fault in the breakdown between Diderot and Jean-Jacques. It reveals that Jean-Jacques realized that Diderot’s friendship toward him had cooled, and he felt deep bitterness over this.
+
+Letter CXXX – To the Same One
+
+January 1757.
+
+I would like to briefly summarize the story of our disagreements. You sent me your book, and I wrote you a letter—the most tender and honest one I have ever written—in which I gently but firmly complained about a very questionable maxim that could be misinterpreted in my favor. In response, you sent me a very dry letter, claiming to forgive me and not considering me an dishonest person, solely because I have a woman of eighty years old at home. As if living in the countryside were fatal at that age, or as if such women only existed in Paris. My reply was full of the indignation of an honest man insulted by his friend; you responded with another abominable letter. I defended myself again, but, fearing your anger and also not wanting to be wrong against a friend, I sent my letter to Madame d’Épinay, asking her to judge our dispute. She returned it to me, urging me to destroy it, so I did. Now you are writing me another letter, calling me malicious, unjust, cruel, and ferocious. This is the exact summary of what happened in this matter.
+
+I would like to ask you two or three very simple questions. Who is the aggressor in this matter? If you want to refer to a third party, show my first letter; I will show yours.
+
+Assuming that I had misinterpreted your reproaches and that I were in fact wrong, who of us two would have been more obliged to adopt a rational approach in order to bring the other back to reason? I have never been able to resist a word of kindness. You may choose to ignore that, but you should know that I do not easily yield to insults. If your intention throughout this entire matter was indeed to irritate me, what more could you have done?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ho deciso di andare a cena con voi e di passare la notte da Diderot. Tra tutti i miei dolori, sento anche una certa consolazione nel poter trascorrere ancora alcune serate tranquille con il nostro povero amico. Per quanto riguarda gli affari, non ne capisco assolutamente nulla; non voglio nemmeno sentirne parlare, a nessun prezzo; arrangiatevi voi in merito. Ecco un pacchetto e una lettera che vi chiedo di far consegnare a Diderot. Addio, mia cara amica; anche se ci litighiamo, mi dispiace per voi, vi stimo molto, e penso con commozione al zelo e alla costanza di cui avete bisogno, trovandovi sempre circondata da amici malati o addolorati che traggono il loro coraggio e la loro consolazione solo da voi.
+
+Lettera CXXIX – A Monsieur Diderot
+
+[604]
+
+Questo mercoledì sera, nel 1757.
+
+Quando prendete impegni, non ignorate di avere una moglie, un figlio, domestici, ecc.; tuttavia continuate a prenderli come se nulla vi costringesse ad astenervi da essi: quindi ho ragione di ammirare il vostro coraggio. È vero che, quando promettete di venire, mi tocca aspettarvi invano; e quando fissate appuntamenti con me, vi vedo mancare a tutti senza eccezione. Questo, penso, è il più grande danno che vi abbia mai causato nella mia vita.
+
+Non siete cambiato affatto. Non vi compiacetevi di questo. Se foste sempre stato ciò che siete, fatico a credere che io sia diventato vostro amico; sono certo, almeno, che voi non sareste diventato il mio.
+
+Volete venire all’Ermitage sabato? Vi prego, non fatelo; vi supplico ardentemente. Nella situazione in cui ci troviamo entrambi, non è opportuno incontrarci così presto. Poiché sembra molto probabile che questa sia l’ultima volta che ci vedremo, e non voglio esporre un’amicizia che mi è cara a questa crisi. Non si tratta del mio lavoro: non sono più in grado di parlarne né di pensarci. Ma forse vi sarà facile ammalarvi, solo per il piacere di rimproverarmi e addolorarmi ancora di più. Nei nostri scontri, siete sempre stato voi l’aggressore. Sono molto sicuro di non avervi mai fatto altro male se non quello di non sopportare abbastanza pazientemente il dolore che vi piace infliggermi. E in questo, ammetto di aver sbagliato. Ero felice nella mia solitudine; voi avete cercato di turbare la mia serenità, e ci siete riusciti molto bene. Del resto, avete detto che solo il malvagio può vivere da solo. E per giustificare questa affermazione, è necessario, a qualunque costo, far sì che io diventi proprio così. Filosofi! Filosofi!
+
+No, non rimprovererò il cielo per avermi dato degli amici; ma senza madame d’Épinay, temo molto che dovrei rimproverarlo per non avermeli dati affatto. Del resto, non concordo con l’idea che siano inutili: un tempo mi aiutavano a rendere la vita piacevole, e ora invece mi aiutano a staccarmene.
+
+Per quanto riguarda quel sofismo inumano che mi rimproverate, avete ragione a parlarne con voce così bassa. Non potreste mai parlare abbastanza piano, per il vostro stesso onore. Che Dio vi protegga dal possedere un cuore capace di trattare in questo modo gli amici! Comincio ad essere d’accordo con voi riguardo a madame Le Vasseur: starà meglio a Parigi. Purtroppo non posso garantirle una vita agiata lì, ma le darò tutto ciò che ho, venderò tutto. Se riuscirò a guadagnare qualcosa, il ricavato sarà per lei. Ha dei figli a Parigi che possono prendersi cura di lei; se non fossero sufficienti, sua figlia verrà ad aiutarla. In tutto questo, non farei certo troppo per il mio cuore, né abbastanza per i miei amici. Ma, qualunque cosa accada, non voglio perdere la mia libertà, né diventare suo schiavo. Anche se la filosofia dovesse dimostrarmi che è mio dovere farlo. Rimarrò solo qui: mangerò pane, berò acqua. Sarò felice e tranquillo. Voi avrete madame Le Vasseur. E io verrò presto dimenticato.
+
+Credo di aver risposto al Lettore[605], ovvero al figlio di un intendente reale, dicendogli che non mi lamentavo dei poveri che aveva visto sulle mura in attesa del mio liardo; che apparentemente li aveva ampiamente compensati; che lo consideravo il mio sostituto ideale; che i poveri di Parigi non avrebbero dovuto lamentarsi di questo scambio; ma che non avrei trovato facilmente un sostituto altrettanto valido per quelli di Montmorency, i quali ne avevano bisogno molto di più. C’è qui un buon vecchio rispettabile che ha trascorso tutta la sua vita a lavorare e che, non potendolo più fare, muore di fame negli ultimi anni della sua vita. La mia coscienza è più soddisfatta dei due soldi che gli do ogni lunedì che di cento liardi che avrei potuto distribuire a tutti i mendicanti sulle mura. Siete davvero divertenti voi filosofi, quando considerate gli abitanti delle città come gli unici esseri umani verso cui i vostri doveri vi legano. È nella campagna che si impara ad amare e a servire l’umanità; nelle città, invece, si impara soltanto a disprezzarla. Ho dei doveri dai quali sono schiavo. Ed è proprio per questo che non voglio assumermene altri che mi impediscano di adempiere a quelli che ho già.
+
+Noto una cosa che è importante che vi dica: non vi ho mai scritto senza sentimento, e la mia lettera precedente era intrisa delle mie lacrime; ma alla fine anche la vostra freddezza si estende fino a me. I miei occhi sono asciutti, e il mio cuore si stringe mentre vi scrivo. Non sono in grado di vedervi: per favore, non venite. Non ho mai tenuto conto del tempo né del numero dei passi che facevo quando i miei amici avevano bisogno della mia presenza. Posso aspettarmi lo stesso impegno da loro; ma in questo caso non è il momento di farlo. Se avete un minimo di rispetto per un’antica amicizia, non venite a metterla a rischio di una rottura inevitabile e senza rimedio. Vi invio questa lettera tramite un corriere espresso, al quale potrete consegnare i miei documenti sigillati.
+
+Osservazione.
+
+Questa lettera è una di quelle che bisogna analizzare con attenzione per capire da quale parte risiedessero i torti nella rottura tra Diderot e Jean-Jacques. Vi si legge come quest’ultimo si rendesse conto che l’amicizia del primo si era raffreddata, e ne provasse un profondo senso di amarezza.
+
+Lettera CXXX – Allo stesso.
+
+Gennaio 1757.
+
+Desidero riassumere in poche parole la storia dei nostri dissidi. Mi avete inviato il vostro libro; vi ho scritto una lettera, la più tenera e onesta che abbia mai scritto in vita mia, nella quale mi lamentavo, con tutta la dolcezza dell’amicizia, di un principio molto discutibile, dal quale si potrebbe trarre una conclusione assai offensiva nei miei confronti. In risposta ho ricevuto una lettera molto fredda, nella quale affermate di perdonarmi, senza considerarmi un uomo disonesto. E questo soltanto perché ho una donna di ottant’anni in casa mia: come se la campagna fosse mortale a quell’età, e che esistessero donne di ottant’anni solo a Parigi. La mia risposta era piena della vivacità di un uomo onesto offeso dal proprio amico; voi avete replicato con una lettera orribile. Mi sono difeso ancora, con forza. Ma, temendo di avere torto contro un amico, ho inviato la mia lettera a madame d’Épinay, chiedendole di giudicare il nostro dissidio. Lei mi ha rimandato quella stessa lettera, esortandomi a cancellarla. E l’ho fatto. Ora mi scrivete un’altra lettera in cui mi definite cattivo, ingiusto, crudele, feroce. Ecco il resoconto preciso di quanto è accaduto in questa occasione.
+
+Vorrei farvi due o tre domande molto semplici. Chi è l’aggressore in questa faccenda? Se volete fare riferimento a una terza parte, mostratemi il mio primo biglietto; io vi mostrerò il vostro.
+
+Supponendo che avessi mal interpretato le vostre rimproveri e che in fondo avessi torto, chi di noi due sarebbe stato più obbligato a ricorrere al ragionamento per far tornare l’altro alla calma? Non ho mai resistito a una parola dolce. Potete ignorarlo, ma potete sapere che non cedo facilmente agli insulti. Se il vostro scopo, in tutta questa faccenda, fosse stato quello di irritarmi, cosa avreste potuto fare di più?
+
 <span class="atom-split" data-atom="042" data-title="(apertura) (parte 42)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Vous vous plaignez beaucoup des maux que je vous ai faits. Quels sont-ils donc enfin ces maux ? Serait-ce de ne pas endurer assez patiemment ceux que vous aimez à me faire ; de ne pas me laisser tyranniser à votre gré ; de murmurer quand vous affectez de me manquer de parole, et de ne jamais venir lorsque vous l'avez promis ? Si jamais je vous ai fait d'autres maux, articulez-les. Moi, faire du mal à mon ami ! Tout cruel, tout méchant, tout féroce que je suis, je mourrais de douleur, si je croyais jamais en avoir fait à mon plus cruel ennemi autant que vous m'en faites depuis six semaines.
@@ -1994,6 +5896,70 @@ Leurs grands empressements à me rendre mille services dont je ne me soucie poin
 
 S'il survient une querelle, je dirais bien que c'est à celui qui a tort de revenir le premier ; mais c'est ne rien dire, car chacun croit toujours avoir raison. Tort ou raison, c'est à celui qui a commencé la querelle à la finir. Si je reçois mal sa censure, si je m'aigris sans sujet, si je me mets en colère mal à propos, je ne veux point qu'il s'y mette à son tour. Je veux qu'il me caresse bien, qu'il me baise bien ; entendez-vous, madame ? en un mot, qu'il commence par m'apaiser, ce qui ne sera pas long ; car il n'y a point d'incendie au fond de mon coeur qu'une larme ne puisse éteindre. Alors, quand je serai attendri, calmé, honteux, confus, qu’il me gourmande bien, qu'il me dise bien mon lait ; et sûrement il sera content de moi. Voilà ce que je veux que mon ami fasse envers moi quand j'ai tort, et ce que je suis toujours prêt à faire envers lui dans le même cas. S'il est question d'une minutie, qu'on la laisse tomber, et qu'on ne se fasse pas un sot point d'honneur d'avoir toujours l’avantage.
 
+<span class="qlang-split" data-lang="en"></span>
+
+You complain greatly about the harm I have caused you. But what exactly are these harms? Could it be that I do not endure with enough patience those things you like to inflict upon me? That I do not allow you to tyrannize me at will? That I murmur when you seem to break your promises, and that I never come when you have promised to do so? If I have caused you any other harm, then state it clearly. For me to harm my friend! No matter how cruel, wicked, or ferocious I may be, I would die of pain if I ever believed I had done to my most bitter enemy as much as you have done to me in these six weeks.
+
+You offer me your services; I had not forgotten them, but do not delude yourself: many people have rendered me services who were not my friends. An honest man, who feels nothing, offers his help and believes himself to be a friend—yet he is mistaken; he is merely an honest man. All your eagerness, all your zeal in providing me with things I do not need at all, touch me little. I desire only friendship—and that is the very thing people refuse me. Ungrateful one, I have not rendered you any services, but I have loved you; and you will never be able to repay, with your whole life, what I felt for you during those three months. Show this letter to your wife—she is more fair than you—and ask her whether, when my presence brought comfort to your troubled heart, I ever counted my steps or watched the weather to go and console my friend in Vincennes. Insensitive and cruel man! Two tears shed in my heart would have been worth more to me than the throne of the world; but you refuse them and are content only with tearing them from me. Well then! Keep everything else—I want nothing more from you.
+
+It is true that I asked madame d’Épinay to prevent you from coming last Saturday. We were both irritated: I do not know how to measure my words; and you, on your part, are defiant, easily offended, and tend to overinterpret casually uttered statements, attributing subtle meanings to things that are quite simple. It would have been dangerous for us to meet in such a state of tension. Moreover, you wanted to come on foot; you might have gotten sick, and perhaps you wouldn’t have been too upset about it. I simply did not feel the courage to face all the risks associated with that meeting. This fear certainly did not deserve your reproaches; for no matter what you do, our former friendship will always remain a sacred bond for my heart. And even if you insult me again, I will still be happy to see you, as long as anger does not blind me.
+
+Regarding madame d’Épinay, I have sent her both your letters and mine; without this means of communication, I would be overwhelmed with grief. Moreover, now that I no longer have any reason to act in this matter, I needed some advice. You seem so proud of the way you handled this affair that you must be very pleased to have a witness who can admire your actions. It is true that she serves you well; and if I did not know her motives, I would think her just as unjust as you are.
+
+The more I think about it, the less I manage to understand you. How is that possible! Because, actually, I don’t quite know what you’re talking about, but you said that the villain is alone. Does that really mean he has to make me evil as well, and sacrifice your friend for his own judgment? For other authors, such an alternative would be dangerous. But you! Besides, this alternative isn’t even necessary at all; your judgment, though obscure and questionable, is true in a certain sense—and in that sense, it brings me honor. Because, no matter what you say, I am far less alone here than you are in the midst of Paris. Diderot. Diderot! I see you with bitter sorrow: constantly surrounded by villains, you learn to become like them; your kind heart is corrupted by their influence, and you force mine to gradually distance itself from you.
+
+Letter CXXXI – To Madame d’Épinay
+
+[606]
+
+At the Hermitage, on this Thursday, 1757.
+
+FIRST EDITION
+
+Diderot wrote me a third letter, returning my documents to me. My reply was written at the time I received yours: this matter has been going on for far too long; it must come to an end—so let’s not talk about it any further. But where did you get the idea that I would complain about you because you argue with me? Really, you are doing very well indeed; I often greatly need such advice when I am in error. And even now, since you argue with me when I am right, I am still grateful for it, for I understand your motives. And, to be honest and sincere, everything you say to me only serves to enhance the tone of respect and friendship between us. But you will never make me believe that you are doing me a favor by speaking well of me—you will never say: “There is actually much more that could be said about this.” That would greatly offend me, and it would also offend you, for it is not right for honest people to have friends whom they regard unfavorably. How, madam, can you call this a “form” or an “appearance”?
+
+As a solitary person, I am more sensitive than others; as a sick person, I deserve the care that humanity owes to the weakness and mood of someone who is suffering. I am poor, and it seems to me that this state also warrants respect. Therefore, let me make my declaration regarding what I expect from friendship and what I intend to bring to it. Feel free to criticize any aspect of my rules; but be prepared not to see me easily change them, for they are derived from my character, which I cannot alter.
+
+First and foremost, I want my friends to be my friends, not my masters; I want them to advise me, not to govern me. I am willing to give them control over my heart, but not over my freedom.
+
+Let them always speak to me freely and candidly. They can tell me everything; except for contempt, I allow them everything. The contempt of indifferent people is indifferent to me; but if it were directed at me by my friends, I would be worthy of it. If they are unfortunate enough to despise me, let them not tell me so; what good would that be? Let them leave me—that is their duty towards themselves. Apart from that, when they express their opinions to me, in whatever tone they may do so, they are exercising their right; and when, after listening to them, I act according to my own will, I am exercising mine. All I ask is that once I have made up my mind, they should not keep bringing up the same objections, incessantly and utterly uselessly.
+
+Their excessive eagerness to render me a thousand services of which I care not at all is bothersome to me; it carries with it an air of superiority that displeases me. After all, anyone else could do the same. I prefer it when they love me and allow themselves to be loved—this is what true friends alone know how to do. What particularly irritates me is when some random person tries to compensate them for my absence, when in fact only they alone can cause me pain. Only their caresses enable me to endure their so-called “kindnesses”; and even when I accept them from them, I want them to consider what pleases ME, not what pleases THEM—because we often think so differently on so many matters that what they regard as good seems bad to me.
+
+If a quarrel should arise, I would say that it is the one who is in the wrong who should be the first to make peace; but that would be saying nothing at all, for everyone always thinks they are right. Whether wrong or right, it is the one who started the quarrel who should end it. If I take his criticism badly, if I become angry for no reason, if I lose my temper unnecessarily, I do not want him to do the same in return. I want him to be kind to me, to treat me well; do you understand, madam? In short, I want him to calm me down first, and that won’t take long, because there is no fire in my heart that a single tear cannot put out. Then, when I am softened, calmed, ashamed, and confused, I want him to scold me properly, to tell me where I went wrong; and surely he will be satisfied with me. That is what I want my friend to do towards me when I am in the wrong, and that is what I am always ready to do for him in the same situation. If it’s just a trivial matter, let it go; there’s no need to be so stubbornly concerned about always having the upper hand.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Vi lamentate molto dei mali che vi ho causato. Ma quali sono dunque questi mali? Forse consistono nel non sopportare con abbastanza pazienza quelli che voi stesso desiderate infliggermi; nel non permettermi di essere “tirannizzato” secondo i vostri voleri; nel lamentarvi quando fingete di mancarmi di parole, e nel non venire mai quando me l’avete promesso? Se vi ho causato altri mali, ditemeli chiaramente. Io, fare del male al mio amico! Per quanto crudele, malvagio e feroce possa essere, morirei di dolore se credessi di aver fatto tanto male al mio nemico più acerrimo quante ne avete fatte voi a me nelle ultime sei settimane.
+
+Mi offrite i vostri servizi; non li avevo dimenticati, ma non vi ingannate: molte persone me li hanno resi, eppure non erano mie amiche. Un uomo onesto, che non prova nulla, rende un favore e crede di essere amico. Si sbaglia: è soltanto un uomo onesto. Tutta la vostra premura, tutto il vostro zelo nel procurarmi cose di cui non ho alcun bisogno mi toccano poco. Voglio solo l’amicizia. E questa è l’unica cosa che mi viene rifiutata. Ingrato. Non ti ho reso nessun favore, ma ti ho amato; e tu non mi ripagherai mai con la tua vita di ciò che ho provato per te in tre mesi. Mostra questo discorso a tua moglie, più giusta di te. Chiedile se, quando la mia presenza era dolce al tuo cuore afflitto, io contavo i passi e guardavo il tempo per andare a Vincennes a consolare il mio amico. Uomo insensibile e crudele! Due lacrime versate nel mio petto mi sarebbero valse di più del trono del mondo. Ma tu me le rifiuti, e ti accontenti di strapparmele via. Bene. Tieniti tutto il resto; non voglio più nulla da te.
+
+È vero che ho incaricato madame d’Épinay di impedirvi di venire sabato scorso. Entrambi eravamo irritati: io non so misurare le parole che pronuncio; e voi, siete ostile, suscettibile, analizzate con troppa attenzione quelle parole dette in modo superficiale, e tendete a attribuire a cose semplici significati nascosti che nessuno aveva preso in considerazione. Era pericoloso che ci incontrassimo in quelle condizioni. Inoltre, volevate venire a piedi; rischiavate di ammalarvi, e forse non ne sareste stato affatto dispiaciuto. Non mi sentivo il coraggio di affrontare tutti questi pericoli. Questo timore certamente non meritava i vostri rimproveri; perché, qualunque cosa possiate fare, il legame della nostra vecchia amicizia resterà sempre un legame sacro per il mio cuore. E anche se doveste insultarmi di nuovo, vi vedrò comunque con piacere, purché la rabbia non mi accechi.
+
+Per quanto riguarda madame d’Épinay, le ho inviato sia le vostre lettere che le mie; senza questa comunicazione, sarei soffocato dal dolore. E, non avendo più alcuna ragione per agire, avevo bisogno di consigli. Sembrate sempre così orgogliosi dei vostri metodi in questa faccenda. Deve quindi esservi molto soddisfatti di avere un testimone che possa ammirarli. È vero che vi è molto utile. E se non conoscessi il suo movente, la considererei anch’io altrettanto ingiusta quanto voi.
+
+Più ci penso, meno riesco a capirvi. Come! Perché, non so esattamente per cosa, avete detto che il malevolo è solo. Ma perché questo dovrebbe rendermi malvagio anch’io e farmi sacrificare il mio amico alla vostra sentenza? Per altri autori, quell’alternativa sarebbe pericolosa. Ma voi! Del resto, quell’alternativa non è nemmeno necessaria: la vostra sentenza, anche se oscura e strana, in un certo senso è molto vera. E in questo senso mi onora: perché, nonostante ciò che dite, io qui sono molto meno solo di voi nel mezzo di Parigi. Diderot! Diderot. Lo vedo con amara tristezza: costantemente circondato dai malvagi, imparate ad assomigliarvi a loro; il vostro buon cuore si corrompe in mezzo a loro, e costringete il mio a staccarsi lentamente da voi.
+
+Lettera CXXXI – Alla signora d’Épinay
+
+[606]
+
+All’Ermitage, questo giovedì, 1757.
+
+PRIMA REDAZIONE
+
+Diderot mi ha scritto una terza lettera, restituendomi i miei documenti. Ma la mia risposta era già pronta quando ho ricevuto la vostra: questa faccenda dura da troppo tempo; deve finire. Quindi non ne parliamo più. Ma da dove avete preso l’idea che io possa lamentarmi anche di voi solo perché mi contraddite? Davvero, fate molto bene: ne ho spesso bisogno quando ho torto; e anche ora, che mi contraddite quando ho ragione, non smetto di ringraziarvi. Perché comprendo i vostri motivi, e tutto ciò che mi dite, onestamente parlando, ha sempre un tono di stima e amicizia. Ma non riuscirete mai a farmi credere che mi facciate un favore parlando bene di me. Non direte mai: “Ci sarebbero ancora molte cose da dire su questo argomento”. Mi offendreste profondamente, e vi offendereste anche voi stessi. Perché non è affatto dignitoso per persone oneste avere amici di cui pensano male. Come potete chiamare questa una “forma”, un “aspetto esteriore”,?
+
+In qualità di solitario, sono più sensibile degli altri; in qualità di malato, ho diritto alle attenzioni che l’umanità deve riservare alla debolezza e all’umore di una persona che soffre. Sono povero, e mi sembra che questa condizione meriti ancora considerazione. Pertanto, vi faccio conoscere quali siano le mie esigenze riguardo all’amicizia e quali siano i principi su cui la baso. Sentitevi liberi di criticare quanto riterrete errato nelle mie regole; ma aspettatevi che non sia facile convincermi a modificarle, poiché derivano dal mio carattere, che non posso cambiare.
+
+In primo luogo, desidero che i miei amici siano davvero miei amici, e non i miei padroni; che mi diano consigli, e non che mi governino: sono disposto a rinunciare al mio cuore per loro, ma non alla mia libertà.
+
+Che parlino sempre con me liberamente e francamente. Possono dirmi tutto: tranne il disprezzo, permetto loro di dire qualsiasi cosa. Il disprezzo delle persone indifferenti non mi interessa; ma se lo dovessi subire dai miei amici, ne sarei degna. Se hanno la sfortuna di disprezzarmi, che non me lo dicano, a che serve? Che mi lascino andare, è il loro dovere verso se stessi. A parte questo, quando mi fanno le loro osservazioni, qualunque sia il tono con cui le esprimono, stanno semplicemente esercitando il loro diritto; e quando, dopo averle ascoltate, decido di agire secondo la mia volontà, sto semplicemente esercitando la mia. Non voglio altro che, una volta presa una decisione, non vengano continuamente a rimproverarmi con liti incessanti e del tutto inutili.
+
+Le loro grandi premure nel cercare di rendermi mille servizi di cui non mi curo affatto mi sono d’intralcio; vi percepisco un certo atteggiamento di superiorità che mi dispiace. Del resto, chiunque potrebbe fare lo stesso. Preferisco che mi amino e si lascino amare: è questo che solo gli amici sanno fare. Mi indigno soprattutto quando qualsiasi persona si occupa di “risarcirli” per colpa mia, mentre io posso sopportare soltanto che siano loro ad afflittersi per me. Solo le loro carezze riescono a farmi accettare i loro benefici; e quando mi impegno tanto per riceverli da loro, voglio che sia il loro gusto a guidarli, non il loro. Poiché pensiamo in modo così diverso su molte cose, spesso ciò che loro ritengono buono mi sembra invece cattivo.
+
+Se dovesse svergere una lite, direi senz’altro che è colui che ha torto ad essere il primo a fare pace; ma questo non significa nulla, perché ognuno crede sempre di avere ragione. Che abbia torto o ragione, spetta a colui che ha iniziato la lite a porre fine ad essa. Se ricevo una sua critica in modo offensivo, se mi arrabbio senza motivo, se mi infurio inappropriatamente, non voglio che anche lui faccia lo stesso. Voglio che mi tratti con dolcezza, che mi baci con affetto. Capite, signora? In breve, che inizi col calmarmi, il che non richiederà molto tempo; perché nel profondo del mio cuore non c’è alcun “incendio” che una lacrima non possa spegnere. Allora, quando sarò commosso, calmo, imbarazzato e confuso, che mi rimproveri con gentilezza, che mi dica ciò che devo fare. E sicuramente sarà contento di me. Questo è ciò che voglio che il mio amico faccia con me quando ho torto, e questo è ciò che sono sempre pronto a fare io per lui nella stessa situazione. Se si tratta di una questione insignificante, lasciamo perdere. E non bisogna fare la sciocca figura di voler sempre avere ragione.
+
 <span class="atom-split" data-atom="043" data-title="(apertura) (parte 43)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Je puis vous citer là-dessus une espèce de petit exemple dont vous ne vous doutez pas, quoiqu'il vous regarde ; c'est à l'occasion de ce billet où je vous parlais de la Bastille dans un sens bien différent de celui où vous le prîtes, et que vous n'entendîtes assurément pas comme je vous l'avais écrit. Vous m'écrivîtes une lettre bien éloignée d'être injurieuse et désobligeante (vous n'en savez point écrire de telles à vos amis), mais où je voyais que vous étiez mécontente de la mienne. J'étais persuadé, comme je le suis encore, qu'en cela vous aviez tort ; je vous répliquai : vous aviez établi certaines maximes, qu'il faut aimer les hommes indifféremment ; qu'il faut être content des autres, pour l'être de soi ; que nous sommes faits pour la société, pour supporter mutuellement nos défauts, pour avoir entre nous une intimité de frères, etc. Vous m'aviez mis précisément sur mon terrain. Ma lettre était bonne, du moins je la crus telle, et sûrement vous auriez pris du temps pour y répondre. Prêt à la fermer, je la relus avec plaisir ; elle avait, n'en doutez pas, le ton de l'amitié, mais une certaine chaleur dont je ne puis me défendre. Je sentis que vous n'en seriez pas plus contente que de la première, et qu'il s'élèverait entre nous un nuage d'altercation dont je serais la cause. À l'instant je jetai ma lettre au feu, résolu d'en demeurer là. Je ne saurais vous dire avec quel contentement de [coeur](/positions/fideism) je vis brûler-mon éloquence ; et vous savez que je ne vous en ai plus parlé. Ma chère et bonne amie, Pythagore disait qu'il ne faut jamais attiser le feu avec une épée ; cette sentence me paraît être la plus importante et la plus sacrée des lois de l'amitié.
@@ -2019,6 +5985,58 @@ Qu'ils me parlent toujours librement et franchement. Ils peuvent me tout dire: h
 Leurs grands empressements à me rendre mille services dont je ne me soucie point me sont à charge ; j'y trouve un certain air de supériorité qui me déplait: d'ailleurs tout le monde en peut faire autant. J'aime mieux qu'ils m'aiment et se laissent aimer ; voilà ce que les amis seuls peuvent faire. Je m'indigne surtout quand le premier venu les dédommage de moi, tandis que je ne puis souffrir qu'eux seuls au monde. Il n'y a que leurs caresses qui puissent me faire supporter leurs bienfaits ; man quand je fais tant que d'en recevoir d'eux, je veux qu'ils consultent mon goût et non pas le leur ; car nous pensons si différemment sur tant de choses, que souvent ce qu'ils estiment bon me paraît mauvais.
 
 S'il survient une querelle, je dirais bien que c'est à celui qui a tort de revenir le premier ; mais c'est ne rien dire, car chacun croit toujours avoir raison. Tort ou raison, c'est à celui qui a commencé la querelle à la, finir. Si je reçois mal sa censure, si je m'aigris sans sujet, si je me mets en colère mal à propos, il ne doit pas s'y mettre à mon exemple, ou bien il ne m'aime pas. Au contraire, je veux qu'il me caresse bien, qu'il me baise bien ; entendez-vous, madame ? en un mot, qu'il commence par m'apaiser, ce qui sûrement ne sera pas long ; car il n'y eut jamais d'incendie au fond de mon coeur qu'une larme ne pût éteindre. Alors, quand je serai attendri, calmé, honteux, confus, qu'il me gourmande bien, qu'il me dise bien mon fait ; et sûrement il sera content de moi. S'il est question d'une minutie qui ne vaille pas l'éclaircissement, qu'on la laisse tomber: que l'agresseur se taise le premier, et ne se fasse point un sot point d'honneur d'avoir toujours l'avantage. Voilà ce que je veux que mon ami fasse envers moi, et que je suis toujours prêt à faire envers lui dans le même cas.
+
+<span class="qlang-split" data-lang="en"></span>
+
+I can cite a small example on this subject that you might not be aware of, even though it concerns you directly. It relates to that letter in which I discussed the Bastille in a way quite different from how you understood it, and certainly not in the same sense in which I had written it. You replied to me with a letter that was far from being offensive or disrespectful (you simply don’t know how to write such things to your friends), but from which I could tell that you were dissatisfied with my approach. I was convinced, and I still am, that you were wrong in this regard; so I replied to you, stating that you had established certain principles: that one should love people without distinction; that one must be content with others in order to be content with oneself; that we are meant to live in society, to tolerate each other’s shortcomings, and to share a fraternal intimacy. You had precisely addressed the issue I wanted to discuss. My letter was well-written, at least I believed so, and surely you would have taken some time to respond to it. Just as I was about to close it, I read it over again with pleasure; it certainly carried the tone of friendship, but also a certain warmth that I couldn’t help expressing. I realized that you wouldn’t be any more satisfied with this reply than you had been with the first one, and that it would only lead to further disagreements between us. In that moment, I threw my letter into the fire, determined not to pursue the matter any further. I can tell you with absolute satisfaction how glad I was to see my “eloquence” burn away; and as you know, I never mentioned it to you again. My dear and good friend, Pythagoras said that one should never fan a fire with a sword; this saying seems to me to be the most important and sacred rule of friendship.
+
+I have many other demands towards my friends, and these demands increase the more dear they become to me; therefore, I will become increasingly demanding of you day by day. But for now, I must finish this letter.
+
+Upon rereading your letter, I see that you are informing me about the package containing Diderot’s works. However, neither the package nor the letter arrived at the same time; I received the package long before the letter. Do not be surprised if I begin to hate Paris even more: nothing but sorrow comes from there, except for your letters. I will never go there. If you wish to express your concerns about this matter to me, and even if you do so fervently, you have every right to do so; your words will be heard and remain futile. After that, please refrain from doing so any further.
+
+Do whatever you think is appropriate regarding Mr. d’Holbach’s book; but I do not approve of someone taking on the task of editing it, especially a woman. It amounts to forcing people to buy the book and exploiting their friends in the process; I refuse to have anything to do with it. Goodbye, my dear friend.
+
+SECOND REDACTION
+
+Diderot wrote me a third letter, returning my papers to me. Although you had mentioned in your previous letter that you were sending this package to me, it actually arrived later and by another route; as a result, by the time I received it, my reply to Diderot had already been written. You must be just as annoyed by all this delay as I am. So let’s not talk about it anymore, I beg you.
+
+But where did you get the idea that I would complain about you too? If I ever had to complain, it would be because you are too gentle with me and treat me too kindly. Often, I need to be treated with a bit more firmness; a tone of reprimand suits me well when I deserve it—I think it could even be quite endearing, like a form of affectionate teasing between friends. But one argues with a friend without despising them; one might say they are silly or foolish, but never that they are despicable. You will never suggest to me that you think I am being gracious just because I speak well of you. You will never imply that, upon closer inspection, there is much less respect to be had for me. You would never say something like, “Well, there’s actually a lot more to criticize here.” That would not only offend me, but it would also offend you; after all, it is not right for honest people to have friends whom they disapprove of. If I ever misinterpreted anything you said on this matter, you would surely rush to explain your true intentions and never persist in holding the same view in the negative way that I might have understood it. How, madam, can you call this a “form” or an “appearance”?
+
+Since we are discussing this topic, I would like to make my declaration regarding what I expect from friendship, and what I am willing to contribute to it in return. Feel free to point out anything you may consider flawed about my rules; but be prepared that I will not easily alter them, for they are rooted in my character, which I cannot change.
+
+First and foremost, I want my friends to be my friends, not my masters; I want them to advise me without attempting to govern me; I want them to have every right to my affection, but no right over my freedom. I find it very strange when people, in the name of friendship, always try to interfere in my affairs without telling me anything about theirs.
+
+Let them always speak to me freely and candidly. They can tell me everything; except for contempt, I allow them everything. The contempt of an indifferent person is indifferent to me; but if it comes from a friend, I would be worthy of it. If he has the misfortune to despise me, let him not tell me so—let him leave me; that is his duty towards himself. Apart from that, whenever he expresses his opinions to me, in whatever tone, he is exercising his right; and when, after listening to him, I act according to my own will, I am exercising mine. I consider it wrong for someone to keep nagging me endlessly about something that has already been done.
+
+Their excessive eagerness to render me a thousand services of which I care not at all is bothersome to me; it carries with it an air of superiority that displeases me—after all, anyone else could do the same. I prefer it when they love me and allow themselves to be loved; only true friends can do that. What particularly irritates me is when some random person tries to compensate them for my absence, when in reality only they alone matter to me in this world. It is only their affection that enables me to endure their kindnesses; indeed, since I am willing to accept so much from them, I want them to consider what pleases me, not what pleases them—for we often think so differently on many matters that what they regard as good seems bad to me.
+
+If a quarrel should arise, I would say that it is the one who is in the wrong who should be the first to make peace; but that would be saying nothing at all, for everyone always believes they are right. Whether wrong or right, it is the one who started the quarrel who should end it. If I take his criticism badly, if I become angry for no reason, if I lose my temper unnecessarily, he must not follow my example—otherwise, he does not love me. On the contrary, I want him to be kind to me, to treat me well; do you understand, madam? In short, I want him to calm me down first, which surely will not take long, for there has never been a fire in my heart that could not be extinguished by a single tear. Then, when I am softened, calmed, and ashamed, I want him to reprimand me properly and tell me where I went wrong; and surely he will be satisfied with me. If it is some trivial matter that is not worth discussing, let it go—let the one who started the quarrel be the first to apologize, and not insist on maintaining a foolish sense of honor at all costs. This is what I want my friend to do towards me, and I am always ready to do the same for him in similar situations.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Posso citarvi in proposito un piccolo esempio di cui probabilmente non vi rendete conto, anche se riguarda voi stessi; si tratta della lettera in cui vi parlavo della Bastiglia in modo molto diverso da come l’avete interpretata voi, e sicuramente non nel senso in cui l’avevo scritta. Mi avete risposto con una lettera assolutamente priva di offese o mancanza di rispetto (non sapete certo scrivere cose del genere ai vostri amici), ma dalla quale si capiva chiaramente che eravate insoddisfatta della mia risposta. Ero convinto, e lo sono ancora oggi, che in questo aveste torto; vi ho risposto dicendo che avevate enunciato alcune massime, come ad esempio amare gli uomini senza distinzioni, essere soddisfatti degli altri per poterlo essere di se stessi, e che siamo fatti per la società, per sopportare reciprocamente i nostri difetti, per avere tra noi un rapporto di fratellanza, ecc. Vi avevo colpito proprio nel punto debole. La mia lettera era buona, almeno così la credevo io, e sicuramente avreste preso del tempo per rispondermi. Mentre stavo per chiuderla, l’ho riletta con piacere; aveva certamente il tono dell’amicizia, ma anche una certa intensità che non posso negare. Ho capito che non sareste stata più soddisfatta di essa di quanto lo foste della prima, e che si sarebbe creato tra noi un conflitto a causa mia. Allora ho deciso di bruciarla, risoluto a lasciare le cose come stavano. Non so descrivervi con quanta gioia nel cuore abbia visto bruciare la mia “eloquenza”; e sapete bene che da allora non ne ho più parlato con voi. Mia cara e buona amica, Pitagora diceva che non si dovrebbe mai alimentare il fuoco con una spada; questa massima mi sembra essere la più importante e sacra tra tutte le leggi dell’amicizia.
+
+Ho molte altre pretese nei confronti dei miei amici, e queste aumentano quanto più mi sono cari: perciò diventerò sempre più esigente con voi giorno dopo giorno. Ma, per ora, devo concludere questa lettera.
+
+Leggendo la vostra lettera, vedo che mi annunciate l’arrivo del pacco di Diderot. Tuttavia, né l’uno né l’altro mi sono arrivati insieme: ho ricevuto il pacco molto prima della lettera. Non vi sorprendete se comincio ad odiare sempre di più Parigi: da quella città non ricevo altro che dolore, tranne le vostre lettere. Non ci andrò mai. Se desiderate esprimere i vostri rimproveri a questo proposito, anche con la massima veemenza possibile, avete tutto il diritto di farlo: saranno accettati, ma inutili. Dopo di ciò, non fatemelo più.
+
+Fate ciò che ritenete opportuno riguardo al libro del signor d’Holbach; tuttavia non approvo affatto che qualcuno si assuma l’onere di pubblicarlo, soprattutto una donna. Si tratta in realtà di un modo per costringere le persone ad acquistare il libro e di sfruttare i propri amici a tale scopo; io non voglio nulla del genere. Arrivederci, mia cara amica.
+
+Seconda redazione
+
+Diderot mi ha scritto una terza lettera, restituendomi i miei documenti. Sebbene nella sua lettera mi aveste detto di inviarvi quel pacco, esso è arrivato in un secondo momento e per un’altra via; quindi, quando l’ho ricevuto, la mia risposta a Diderot era già pronta. Deve essere altrettanto seccata da questa lunga serie di problemi quanto lo sono io. Per favore, non ne parliamo più.
+
+Ma da dove avete preso l’idea che mi lamenterei anche di voi? Se dovessi farlo, sarebbe perché siete troppo premurosi con me e mi trattate con troppa dolcezza. Spesso ho bisogno di essere trattata in modo più severo; un tono di rimprovero mi piace molto quando lo merito. Credo che a volte potrebbe persino risultare una sorta di affetto fraterno. Ma si discute con un amico senza disprezzarlo; si può dirgli chiaramente che è uno sciocco, ma non che è un idiota. Voi non mi farete mai credere che pensiate bene di me quando siete gentili con me. Non insinuerete mai che, se ci si guarda attentamente, ci sarebbe molto da ridimensionare nella mia stima. Non mi direte mai: “In realtà, ci sarebbero molte cose da criticare in me, ” Questo non solo mi offenderebbe, ma offenderebbe anche voi stesso. Perché non è dignitoso per persone oneste avere amici di cui pensano male. Se mai avessi frainteso qualcosa che avete detto su questo argomento, vi affrettaste sicuramente a spiegarmi il vostro vero pensiero, e non avreste mai sostenuto con fermezza quell’idea nel senso negativo in cui l’avrei potuta interpretare. Come potete chiamare questa una “forma”, un “aspetto esteriore”,?
+
+Vorrei, poiché stiamo trattando questo argomento, farvi conoscere quali siano le mie esigenze riguardo all’amicizia e cosa intendo io stesso offrire in essa. Sentitevi liberi di criticare quelle regole che ritenete errate; ma aspettatevi che non sia facile per me modificarle, poiché derivano dal mio carattere, che non posso cambiare.
+
+In primo luogo, voglio che i miei amici siano davvero miei amici, e non i miei padroni; che mi consiglino senza pretendere di governarmi; che abbiano ogni sorta di diritti sul mio cuore, ma nessun diritto sulla mia libertà. Trovo molto strani coloro che, sotto questo nome, pretendono sempre di intromettersi nelle mie faccende senza mai dirmi nulla delle loro.
+
+Che parlino sempre con me liberamente e francamente. Possono dirmi tutto: tranne il disprezzo, gli permetto di dire qualsiasi cosa. Il disprezzo di una persona indifferente non mi interessa; ma se provenisse da un amico, ne sarei degna. Se ha la sfortuna di disprezzarmi, che non me lo dica, che se ne vada. È il suo dovere verso se stesso. A parte questo, quando mi fa delle osservazioni, qualunque sia il tono con cui le esprime, sta esercitando il proprio diritto; e quando, dopo averlo ascoltato, decido di agire secondo la mia volontà, sto esercitando la mia. Trovo infatti spiacevole che si continui all’infinito a rimproverarmi per qualcosa che è già stato fatto.
+
+Le loro grandi premure nel cercare di rendermi mille servizi di cui non mi curo affatto mi sono d’intralcio; vi percepisco un certo atteggiamento di superiorità che mi dispiace. Del resto, chiunque potrebbe fare lo stesso. Preferisco che mi amino e si lascino amare: è questo che solo gli amici possono fare. Mi indigno soprattutto quando qualsiasi persona si occupa di “compensarmi” per la loro mancanza di attenzione verso di me, mentre io posso sopportare soltanto la loro assenza. Sono solo le loro carezze a permettermi di accettare i loro benefici; e quando faccio lo sforzo di riceverli da loro, voglio che sia il loro gusto a guidarli, non il mio. Poiché pensiamo in modo così diverso su molte cose, spesso ciò che loro ritengono buono mi sembra invece cattivo.
+
+Se dovesse svergere una lite, direi senz’altro che sia colui che ha torto ad essere il primo a fare pace; ma questo non significa nulla, perché ognuno crede sempre di avere ragione. Che abbia torto o ragione, è colui che ha iniziato la lite a doverla concludere. Se ricevo una sua critica in modo offensivo, se mi arrabbio senza motivo, se mi infurio inappropriatamente, non dovrebbe imitarmi; altrimenti significa che non mi ama. Al contrario, voglio che mi tratti con dolcezza, che mi baci con affetto. Insomma, che cerchi prima di tutto di calmarmi, il che sicuramente non richiederà molto tempo: infatti, nel profondo del mio cuore, nessun “incendio” potrebbe essere spento se non da una lacrima. Allora, quando sarò commosso, calmo, imbarazzato e confuso, che mi rimproveri con gentilezza, che mi dica chiaramente cosa ho fatto. E sicuramente sarà contento di me. Se si tratta di una questione insignificante che non merita di essere chiarita, lasciamola perdere: che sia colui che ha iniziato la lite ad arrendersi per primo, e che non si faccia prendere da sciocche idee di “onore” nel voler sempre avere ragione. Questo è ciò che voglio che il mio amico faccia con me. E sono sempre pronto a fare lo stesso nei suoi confronti.
 
 <span class="atom-split" data-atom="044" data-title="(apertura) (parte 44)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
@@ -2072,6 +6090,110 @@ Lettre CXLI – À la même
 
 Ce Vendredi au soir, l'Ermitage, été de 1757.
 
+<span class="qlang-split" data-lang="en"></span>
+
+I could cite a small example on this subject that you might not be aware of, even though it concerns you; it’s about a letter I received from you some time ago in response to another one I sent you, which I saw you were not satisfied with, and in which I did not, in my opinion, capture your thoughts accurately. I wrote a rather good reply—or at least that’s what I thought at the time; it certainly had the tone of true friendship, but at the same time, it contained a certain liveliness that I couldn’t help expressing. When I reread it later, I feared you might be even less satisfied with it than with the first one. Immediately, I threw my letter into the fire; I can’t tell you how delighted I was to see my “eloquence” burn away. I never mentioned it to you again, and I believe I have thus earned the honor of being “defeated” in this exchange. Sometimes, all it takes is a single spark to ignite a fire. My dear and good friend, Pythagoras said that one should never fan a fire with a sword; this saying seems to me to be the most important and sacred principle of friendship.
+
+I demand of a friend far more than all that I have just told you; even more than what he himself would be entitled to demand of me, or than I would demand of him if our roles were reversed. As a solitary person, I am more sensitive than others: if I ever offend a friend who lives in the world, he will think about it for a moment, but a thousand distractions will make him forget about it for the rest of the day; yet nothing distracts me when it comes to my friends. Deprived of sleep, I devote the entire night to thinking about them; walking alone, I am preoccupied with them from sunrise to sunset. My heart never finds a moment of respite, and the harshness of a friend can cause me years of suffering in just one day. As a sick person, I deserve the care that humanity owes to someone who is weak and in pain. What friend, what honest man would not be afraid of causing distress to a unfortunate individual afflicted by an incurable and painful illness? I am poor, and yet I believe this state deserves even more consideration. All these considerations that I demand, you have given me without my asking; surely, no true friend will ever need me to ask for them. But, my dear friend, let us speak candidly—do you really know any friends of mine? Honestly, it was fortunate for me that I learned to do without them. I know many people who would not mind if I owed them something, and indeed, I do owe them things; but as for hearts worthy of matching mine, ah! It is enough to know just one such person.
+
+Therefore, do not be surprised if I come to hate Paris even more; it brings me only sorrow, except for your letters—I will never return there. If you wish to express your concerns to me on this matter, and even as fervently as you please, you have every right to do so: they will be received with gratitude but will remain utterly useless. After that, please refrain from doing so any further.
+
+Do whatever you consider appropriate regarding Mr. d’Holbach’s book, except for taking on the task of editing it; that would be a way to force people to buy the book and to exploit its friends: I do not want any part of that.
+
+I thank you for the “Voyage of Anson”; I will return it to you next week.
+
+Forgive the erasures; I am writing to you by the fire, where we are all gathered. The governors and the gardener are endlessly telling each other stories about all the people who were hanged in this country, and today’s newspaper is so full of news that I have no idea what I am actually saying. Hello, my dear friend.
+
+Letter CXXXIII – To the Same One
+
+The Hermitage, February 1757.
+
+It has been so long since I received any news from you directly that I would be very worried about your health if it weren’t for the fact that, apart from that fever, you have seemed to be in fairly good condition. I have never liked the practice of exchanging letters in a strictly formal manner among friends, for friendship itself is the very antithesis of such formalities; but the circumstances surrounding my last letter make me somewhat anxious about its effect on you. If it weren’t for the confidence I have in my intentions, I would fear that it might have displeased you in some way. Rest assured that if that had been the case, either I would have failed to express myself clearly, or you would have misunderstood my feelings. In wishing to be valued by you, I merely sought to defend myself before my friend Diderot and those other people who once bore that name; beyond expressing my attachment for you, there was nothing in that letter that I intended to apply directly to you. What reassures me as much as it comforts my heart is the fact that your own feelings are no less strong than mine; I cannot help but believe that if you had been dissatisfied with me, you would have told me so. But please, to put my mind entirely at ease, tell me that you are not. Goodbye, my dear friend.
+
+You were absolutely right in wanting me to meet Diderot; he spent the entire day here yesterday. It’s been a very long time since I’ve had such a delightful experience. No disappointment can stand up against the presence of a friend.
+
+Letter CXXXV – To the Same One
+
+From the Hermitage, some unspecified spring in 1757.
+
+I wish, my dear friend, that you had recovered from your fever just as easily as I did from my cold; it developed quite rapidly, but then it suddenly disappeared without me even knowing what happened to it. May God once grant your headaches the same sudden resolution!
+
+I thank you; I don’t remember for what exactly. Ah! The turkey—though I shouldn’t really be thanking you for it, since it wasn’t meant for me, yet I have eaten it or will eat it as if I were the one who deserves to thank you.
+
+What you recommended to me was completely unnecessary. The echoes in my woods are quiet; I usually have little to say to them, and of that little, I say nothing at all. The names Julie’s and yours are the only things they know how to repeat.
+
+I recommend to you your health, your joy, and your comedies. I beg you to pay your court to the perfect one[609], and to kiss for me all your family—even those adorable bears: I imagine they are all adorable, except for me. In particular, I assure her of my respect for her “tyranny”[610].
+
+Letter CXXXVII – To the Same One
+
+This Sunday morning, April 1757.
+
+Here it is, madam, the beginnings of your hermitage, according to what the gardener says. Please let me know how you are and how things are going with you, until the festivities are over and the roads become passable again, so that I can come to see you. On Tuesday, I had dinner in Eaubonne, and on my way back, I was caught in rain and encountered various troubles that have continued ever since. Goodbye, madam; please love me as your hermit[611], just as you used to love me as your bear. Otherwise, I will put aside my monastic robes and return to my old ways.
+
+Letter CXXXIX – To Madame d’Épinay
+
+On this day, May 4th, 1757.
+
+Hello, my dear friend. I hear you are doing well; and since I think if anything were wrong with you, you would have sent word to me, I trust this good news. It is also said that I will soon have the pleasure of seeing you again, and then truly, the beautiful days will have returned—especially if it proves true, as I hope it will, that you will come here to enjoy some of the delights of the Ermitage. Goodbye once more. Mr. Cahouet is eager to leave, so I must end my letter now.
+
+Bring some brandy, and a bottle with a wide enough neck to allow nuts to be poured through it.
+
+Letter CXLI – To the Same One
+
+That Friday evening, at the Hermitage, in the summer of 1757.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Posso citarvi in proposito un piccolo esempio di cui probabilmente non vi rendete conto, anche se riguarda voi; si tratta di una lettera che ricevetti da voi qualche tempo fa, in risposta a un’altra della quale capii che non eravate soddisfatta, e nella quale, a mio parere, non avevate ben compreso il senso delle mie parole. Scrissi una replica abbastanza valida, o almeno così mi sembrò; sicuramente aveva il tono dell’amicizia vera, ma allo stesso tempo conteneva una certa vivacità di cui non posso fare a meno. E temevo, rileggendola, che non vi sareste trovata più soddisfatta di quella precedente. All’istante gettai la mia lettera nel fuoco; non posso descrivervi con quanta gioia vidi bruciare tutta la mia “eloquenza”. Non ne ho più parlato con voi, e credo di aver guadagnato l’onore di essere stato “sconfitto”: a volte basta una scintilla per scatenare un incendio. Mia cara e buona amica, Pitagora diceva che non si dovrebbe mai alimentare il fuoco con una spada. Questa massima mi sembra la più importante e la più sacra tra tutte le leggi dell’amicizia.
+
+Esigo da un amico molto di più di quanto vi abbia appena detto; anzi, di più di quanto lui dovrebbe esigere da me, e di quanto io non esigerei da lui se fossimo nei suoi panni. In qualità di solitario, sono più sensibile degli altri: se commetto qualche errore verso un amico che vive nel mondo, lui ci pensa per un momento, ma mille distrazioni gli fanno dimenticare tutto il resto della giornata; invece, nulla mi distrae quando si tratta dei miei amici. Privato del sonno, me ne occupo per tutta la notte; da solo durante una passeggiata, ci penso dal sorgere al tramonto del sole; il mio cuore non ha un istante di tregua, e le durezze di un amico possono causarmi anni di dolore in un solo giorno. In qualità di malato, ho diritto alle attenzioni che l’umanità deve riservare alla debolezza e all’umore di una persona che soffre. Qual è l’amico, quale è l’uomo onesto che non dovrebbe temere di causare dolore a un infelice afflitto da una malattia incurabile e dolorosa? Sono povero, e mi sembra che anche questa condizione meriti rispetto. Tutte queste attenzioni che esigo, voi le avete dimostrato senza che io ve ne parlassi; e sicuramente nessun vero amico avrà mai bisogno che gliele chieda. Ma, cara mia amica, parliamo sinceramente: mi conoscete degli amici? Onestamente, sono stato fortunato ad imparare a fare a meno di loro. Conosco molte persone che non si dispiacerebbero se fossi in debito con loro, e molte altre per cui effettivamente lo sono; ma cuori degni di rispondere al mio, ah! ne basta conoscerne uno solo.
+
+Non vi meravigliate quindi se provo sempre più odio per Parigi; non mi porta che dolore, a parte le vostre lettere. Lì non mi si rivedrà mai più. Se desiderate esprimere le vostre ragioni al riguardo, e anche con quanta forza vi pare, avete tutto il diritto di farlo: saranno accolte con gratitudine, ma inutili. Dopo di ciò, non ne parlerete più.
+
+Fatemi pure tutto ciò che ritenete opportuno riguardo al libro di Monsieur d’Holbach, tranne che occuparvi voi stessi della sua pubblicazione; questo equivarrebbe a costringere le persone ad acquistare un libro contro la loro volontà e a coinvolgere i suoi amici in questa attività: io non voglio nulla del genere.
+
+Vi ringrazio per il “Voyage d’Anson”; ve lo restituirò la settimana prossima.
+
+Perdonate le cancellature; vi scrivo accanto al mio fuoco, dove tutti siamo riuniti. Le governanti, insieme al giardiniere, raccontano storie su tutti i giustiziati del paese, e il giornale di oggi è così ricco di notizie che non so proprio più cosa sto scrivendo. Ciao, mia cara amica.
+
+Lettera CXXXIII – Alla stessa persona
+
+L’Ermitage, febbraio 1757.
+
+È da molto tempo che non ricevo notizie dirette da voi; sarei davvero molto preoccupato per la vostra salute, se non sapessi che, a parte quella febbre, vi siete sentita abbastanza bene. Non ho mai apprezzato tra gli amici l’abitudine di scriversi in modo troppo formale, poiché l’amicizia stessa è nemica delle formalità; tuttavia, la circostanza legata alla mia ultima lettera mi fa temere che possa avervi causato qualche dispiacere. Se non fossi certo delle mie intenzioni, temerei davvero che vi fosse sembrata offensiva in qualche modo. Siate certa che, in tal caso, avrei espresso male i miei sentimenti o voi li avreste interpretati erroneamente; desiderando essere apprezzato da voi, non ho voluto fare altro che difendere me stesso di fronte al mio amico Diderot e ad altre persone che un tempo portavano quel nome. Oltre ai segni del mio affetto per voi, non c’era nulla in quella lettera che potesse essere inteso come una dichiarazione personale. Quello che mi rassicura, così come il mio cuore, è il vostro atteggiamento, che è decisamente fiducioso nei miei confronti; non posso fare a meno di credere che, se foste stata insoddisfatta di me, me lo avreste detto. Ma vi prego, per tranquillizzarmi del tutto, ditemi che non lo siete. Addio, mia cara amica.
+
+Avevate perfettamente ragione nel voler che io incontrassi Diderot; è stato qui tutto il giorno ieri. Da molto tempo non trascorro momenti così deliziosi. Nessun dispiacere può resistere alla presenza di un amico.
+
+Lettera CXXXV – Alla stessa persona
+
+Dall’Ermitage, in quella primavera del 1757, chissà quale.
+
+Vorrei davvero, mia cara amica, che anche voi foste guarita dalla vostra influenza altrettanto facilmente quanto me dal mio raffreddore; prendeva una forma piuttosto grave, ma poi se n’è andata all’improvviso, senza che io sappia cosa ne sia stato. Che Dio possa far sì che anche le vostre emicranie seguano lo stesso “capriccio”!
+
+Vi ringrazio; non ricordo per cosa. Ah! Per il tacchino, di cui tuttavia non vi ringrazio, poiché non era destinato a me, ma del quale ho mangiato o mangerò come se fosse mio dovere ringraziarvi.
+
+Quello che mi avete consigliato era del tutto superfluo. Gli “echi” dei miei alberi sono discreti; di solito non ho molto da dir loro, e di ciò che ho, non ne dico assolutamente nulla. Il nome di Julie e il vostro sono le uniche cose che sanno ripetere.
+
+Vi raccomando la vostra salute, la vostra allegria e le vostre commedie. Vi prego di rendere omaggio alla perfetta[609], di abbracciare per me tutta la vostra famiglia, e anche gli orsi che si possono abbracciare: immagino che lo siano tutti, tranne me. In particolare, assicuro alla sua tirannia[610] i miei rispetti.
+
+Lettera CXXXVII – Alla stessa persona
+
+Questo mattino di domenica, aprile 1757.
+
+Ecco, signora, le basi della vostra “eremitaggio”, secondo quanto dice il giardiniere. Per favore, fatemi sapere notizie sulla vostra salute e sulle vostre faccende, finché non saranno passate le feste e i sentieri non si saranno asciugati, permettendomi così di venire a trovarvi. Martedì sono andato a cena a Eaubonne; al ritorno ho incontrato pioggia e disordini che continuano ancora adesso. Buongiorno, signora. Amatemi come un eremita, come mi amavate quando ero un orso; altrimenti lascerò il mio abito monastico e riprenderò la mia “pelle” di uomo comune.
+
+Lettera CXXXIX – Alla signora d’Épinay
+
+Il 4 maggio 1757.
+
+Buongiorno, mia cara amica. Si dice che stiate bene; e poiché penso che se non fosse così mi avreste fatta sapere qualcosa, mi affido a questa buona notizia. Si dice anche che presto avrò il piacere di rivedervi, e sarà allora che i bei giorni torneranno davvero, soprattutto se è vero, come ho motivo di sperare, che verrete qui a gustare alcuni dei deliziosi prodotti dell’Ermitage. Buongiorno ancora. Il signor Cahouet, desideroso di ripartire, mi sollecita. E così concludo.
+
+Portate del liquore e una bottiglia la cui bocca sia abbastanza larga da permettere di infilarci delle noci.
+
+Lettera CXLI – Alla stessa persona
+
+Quel venerdì sera, all’Ermitage, nell’estate del 1757.
+
 <span class="atom-split" data-atom="045" data-title="(apertura) (parte 45)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 J'envoie, madame, savoir de vos nouvelles et de celles de madame d'Esclavelles, par Damour le fils, qui va à Paris. Pour moi j'ai été incommodé ces deux jours-ci ; j'y ai beaucoup gagné ; car j'ai toujours remarqué que les maux du corps calment les agitations de l'âme. J'aurais besoin du Voyage de l’amiral Anson[613] ; vous saviez où trouver ce livre, vous me feriez plaisir de l'emprunter pour une quinzaine de jours, et de me l'envoyer. Je crois que M. d'Holbach Ta, et il se fera sûrement un plaisir de le prêter. Si vous pouviez me l'envoyer par le retour de Damour, j'en serais fort aise ; cependant cela ne presse pas absolument. Bonjour, ma bonne amie ; je suis touché de vos soins pour me rendre le repos ; le malheur est que personne n'en dira à Diderot autant que vous m'en avez dit, et qu'en vérité il est bien dur de porter en toute occasion les torts de nos amis et les nôtres.
@@ -2093,6 +6215,29 @@ Liée à la fin de sa longue carrière, avec un de nos hommes de lettres les plu
 la lettre
 
 Viens, Sophie, que j'afflige ton [coeur](/positions/fideism) injuste ; que je sois, à mon tour, sans pitié comme toi. Pourquoi t'épargnerais-je tandis que tu m'ôtes la raison, l'honneur et la vie ? Pourquoi te laisserais-je couler de paisibles jours, à toi qui me rends les miens insupportables ? Ah ! combien tu m'aurais été moins cruelle, si tu m'avais plongé dans le coeur un poignard au lieu du trait fatal qui me tue ! Vois ce que j'étais et ce que je suis devenu : vois à quel point tu m'avais élevé et jusqu'où tu m'as avili. Quand tu daignais m'écouter, j'étais plus qu'un homme ; depuis que tu me rebutes, je suis le dernier des mortels : j'ai perdu le sens, l'esprit et le courage ; d'un mot tu m'as tout ôté. Comment peux-tu te résoudre à détruire ainsi ton propre ouvrage ? Comment oses-tu rendre indigne de ton estime celui qui fut honoré de tes bontés ? Ah ! Sophie, je t'en conjure, ne te fais point rougir de l'ami que tu as cherché. C'est pour ta propre gloire que je te demande compte de moi. Ne suis-je pas ton bien ? N'en as-tu pas pris possession ? tu ne peux plus t'en dédire, et, puisque je t'appartiens, malgré moi-même et malgré toi, laisse-moi du moins mériter de t'appartenir. Rappelle-toi ces temps de félicité qui, pour mon tourment, ne sortiront jamais de ma mémoire. Cette flamme invisible, dont je reçus une seconde vie plus précieuse que la première, rendait à mon âme, ainsi qu'à mes sens, toute la vigueur de la jeunesse. L'ardeur de mes sentiments m'élevait jusqu'à toi. Combien de fois ton coeur, plein d'un autre amour, fut-il ému des transports du mien ? Combien de fois m'as-tu dit dans le bosquet de la cascade : Vous êtes l’amant le plus tendre dont j'eusse l'idée : non, jamais homme n'aima comme vous[617]. Quel triomphe pour moi que cet aveu dans ta bouche ! assurément il n'était pas suspect ; il était digne des feux dont je brûlais, de t'y rendre sensible en dépit des tiens, et de t'arracher une pitié que tu te reprochais si vivement. Eh ! pourquoi te la reprocher ? En quoi donc étais-tu coupable ? En quoi la fidélité était-elle offensée par des bontés qui laissaient ton coeur et tes sens tranquilles ? Si j'eusse été plus aimable et plus jeune, l'épreuve eût été plus dangereuse : mais, puisque. tu l'as soutenue, pourquoi t'en repentir ? Pourquoi changea de conduite avec tant de raisons d'être contente de toi ? Ah ! que ton amant même serait fier de ta constance s'il savait ce qu'elle a surmonté ! Si ton coeur et moi sommes seuls témoins de ta force, c'est à moi seul à m'en humilier. Étais-je digne de t'inspirer des désirs ? Mais quelquefois ils s'éveillent malgré qu'on en ait, et tu sus toujours triompher des tiens. Où est le crime d'écouter un autre amour, si ce n'est le danger de le partager ? Loin d'éteindre tes premiers feux, les miens semblaient les irriter encore. Ah ! si jamais tu fus tendre et fidèle, n'est-ce pas dans ces moments délicieux où mes pleurs t'en arrachaient quelquefois ; où les épanchements de nos coeurs s'excitaient mutuellement ; où, sans se répondre, ils savaient s'entendre ; où ton amour s'animait aux expressions du mien, et où l'amant qui t'est cher recueillait au fond de ton âme tous les transports exprimés par celui qui t'adore ? L'amour a tout perdu par ce changement bizarre que tu couvres de si vains prétextes. Il a perdu ce divin enthousiasme qui t'élevait à mes yeux au-dessus de toi-même ; qui te montrait à La fois, charmante par tes faveurs, [sublime](/concepts/sublime) par ta résistance, et redoublait par tes bontés mon respect et mes adorations. Il a perdu, chez toi, cette confiance aimable qui te faisait verser dans ce coeur qui t'aime tous les sentiments du tien. Nos conversations étaient touchantes : un attendrissement continuel les remplissait de son charme. Mes transports, que tu ne pouvais partager, ne laissaient pas de te plaire, et j'aimais à t'entendre exprimer les tiens pour un autre objet qui leur était cher, tant l'épanchement et la sensibilité ont de prix, même sans celui du retour ! Non, quand j'aurais été aimé, à peine aurais-je pu vivre dans un état plus doux, et je te défie de jamais dire à ton amant même rien de plus touchant que ce que tu me disais de lui, mille fois le jour. Qu'est devenu ce temps, cet heureux temps ? La sécheresse et la gêne, la tristesse ou le silence remplissent désormais nos entretiens. Deux ennemis, deux indifférents, vivraient entre eux avec moins de réserve que ne font deux coeurs faits pour s'aimer. Le mien, resserré par la crainte, n'ose plus donner l'essor aux feux dont il est dévoré. Mon âme intimidée se concentre et s'affaisse sur elle-même ; tous mes sentiments sont comprimés par la douleur. Cette lettre, que j'arrose de froides larmes, n'a plus rien de ce feu sacré qui coulait de ma plume en de plus doux instants. Si nous sommes un moment sans témoins, à peine ta bouche ose-t-elle exprimer un sentiment qui m'oppresse, qu'un air triste et mécontent le resserre au fond de mon coeur. Le vôtre, à son tour, n'a plus rien à me dire. Hélas ! n'est-ce pas me dire assez combien vous vous déplaisez avec moi, que ne me plus parler de ce que vous aimez. Ah ! parlez-moi de lui sans cesse, afin que ma présence ne soit pas pour vous sans plaisir.
+
+<span class="qlang-split" data-lang="en"></span>
+
+Madam, I am sending this letter to inquire about your well-being and that of Madame d’Esclavelles, through Damour le fils, who is going to Paris. As for me, I have experienced some discomfort these past two days; yet, in a way, it has been beneficial for me, for I have always observed that physical ailments can calm the turmoil of the soul. I would need the book *The Voyage of Admiral Anson*[613]; you knew where to find it. Would you please borrow it for about fifteen days and send it to me? I believe Mr. d’Holbach would be happy to lend it to me as well. If you could send it with Damour on his return, that would be very kind of you; however, it is not absolutely necessary. Goodbye, my dear friend; I am touched by your concern for ensuring my rest. Unfortunately, no one will tell Diderot as much about it as you have told me, and indeed, it is truly hard to bear the burdens of our friends’ and our own mistakes in every situation.
+
+If you have difficulty finding the book, do not worry; I will request it from the King’s Library for you.
+
+Letter CXLII – To Sophie (Madam d’Houdetot)
+
+[614]
+
+The Hermitage, June 1757[615].
+
+Note
+
+The following letter is of particular interest due to the circumstances in which Jean-Jacques and Sophie found themselves, and because Jean-Jacques describes them with such charm. His passion bordered on delirium. Madame d’Houdetot was little moved by it, for she felt a similar passion for Saint-Lambert; and, without diminishing the merit of his resistance, it is certain that it would have been even more glorious if love had not been involved. It is an inconceivable oddity—were it not for knowing how much such passion leads to extravagance—that Jean-Jacques found pleasure in having Sophie repeatedly tell him that she loved someone else. “I loved,” he said to her, “to hear you express your passion” for another person.
+
+At the end of her long career, madame d’Houdetot, who was associated with one of our most esteemed literati—either due to the superiority of his talent or to the nobility of his character[616]—once spoke to him about the scene in the bosquet of Eaubonne, with that charming openness that made their conversations so delightful. She admitted having taken some risks and that she had escaped danger only because a coachman passing by near the wall at that moment uttered an exclamation in a very audible voice. This exclamation, directed at a horse that had just knelt down, turned what was otherwise a rather awkward situation into something quite comical. Madame d’Houdetot, young, lively, and easily amused, burst into laughter, which angered Rousseau greatly. Both of them owed their safety to one single, forceful word; and both must have been very satisfied in the end with having preserved, one what love did not allow him to give up, and the other what his principles prevented him from taking.
+
+the letter
+
+Come, Sophie, let me torment your unjust heart; let me too be without mercy, just like you. Why should I spare you while you take away my reason, my honor, and my life? Why should I allow you to live peaceful days, when you make mine unbearable? Ah! How much less cruel you would have been if you had plunged a dagger into my heart instead of that fatal arrow that kills me! Look at what I was and what I have become: see how high you raised me and how low you have brought me. When you deigned to listen to me, I was more than a man; since you have rejected me, I am the lowest of mortals—I have lost my senses, my mind, my courage; in one word, you have taken everything away from me. How can you bear to destroy your own creation in such a way? How dare you render someone unworthy of your respect when they were once honored by your kindnesses? Ah! Sophie, I implore you—do not let the friend you sought bring you shame. It is for your own glory that I demand an account of myself from you. Am I not your property? Have you not taken possession of me? You can no longer deny it, and since I belong to you, against my will and against yours, at least let me deserve to belong to you. Remember those happy times that, for my torment, will never leave my memory. That invisible flame, which gave me a second life more precious than the first, restored all the vigor of youth to both my soul and my senses. The intensity of my feelings raised me towards you. How many times did your heart, filled with another love, be moved by mine? How many times did you tell me in the grove by the waterfall: “You are the tenderest lover I could ever imagine; no, never has a man loved like you.” What a triumph for me to hear such words from your lips! Surely they were not insincere; they were worthy of the passion that burned within me, worthy of making you feel it despite your own feelings, and worthy of drawing forth a pity that you so bitterly regretted. But why should you regret it? In what way was I guilty? In what way was fidelity offended by kindnesses that left your heart and senses at peace? If I had been more charming and younger, the trial would have been more dangerous; but since you endured it, why should you repent? Why change your behavior when there are so many reasons to be satisfied with yourself? Ah! How proud even your lover would be of your constancy if he knew what it had overcome! If only your heart and I were the only witnesses to your strength—then it would be only me who should humble myself. Was I worthy of inspiring such desires in you? But sometimes they arise despite our will, and you always managed to conquer them. What crime is there in listening to another love, if not the danger of sharing it? Far from extinguishing your first passions, mine seemed to fan them even more. Ah!
+If ever you were tender and faithful, wasn’t it in those delightful moments when my tears sometimes brought forth some response from you; when the outpourings of our hearts excited each other; when, without needing words, we understood each other; when your love was stirred by the expressions of mine, and when the lover who is dear to you captured all the emotions that one who adores you conveyed? Love has lost everything because of this strange change that you cover with such vain pretexts. It has lost that divine enthusiasm which made you appear in my eyes as something greater than yourself; which showed you as charming through your kindnesses, [sublime](/concepts/sublime) through your resistance, and which doubled my respect and adoration for you. It has lost, in you, that loving confidence which made you pour into the heart that loved you all the feelings of your own heart. Our conversations were touching; a constant tenderness filled them with its charm. My emotions, though you could not share them, still pleased you, and I loved to hear you express them for another person who was dear to you—for the value of expression and sensitivity is undeniable, even without reciprocation! No, even if I had been loved, I could hardly have enjoyed a more tender state of being; and I defy you to ever say to your lover anything more touching than what you said to me about him, thousands of times a day. What has become of that time, that happy time? Now, dryness, awkwardness, sadness, or silence fill our conversations. Two enemies, two people who are indifferent to each other, could live together with less restraint than two hearts meant to love each other. My heart, restrained by fear, no longer dares to let free the flames that devour it. My frightened soul concentrates and collapses upon itself; all my feelings are crushed by pain. This letter, which I wet with cold tears, no longer contains that sacred fire that used to flow from my pen in happier times. If we are alone for a moment, your lips hardly dare express a sentiment that weighs on me, before a sad and displeased expression stifles it deep within my heart. And yours, in turn, has nothing left to say to me. Alas! Isn’t that enough evidence that you dislike being with me, that you no longer talk about what you love? Ah! Speak of him constantly, so that my presence is not without pleasure for you.
 
 <span class="atom-split" data-atom="046" data-title="(apertura) (parte 46)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
