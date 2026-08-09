@@ -1001,7 +1001,7 @@ async function main() {
   }
   const kwOut = {}
   for (const [term, hrefs] of Object.entries(kwIndex)) kwOut[term] = [...hrefs]
-  await fs.writeFile(path.join(STATIC_DIR, "index_kw.json"), JSON.stringify(kwOut))
+  await fs.writeFile(path.join(STATIC_DIR, "works_kw.json"), JSON.stringify(kwOut))
 
   const taxOut = {}
   for (const [taxKey, type] of Object.entries(TAX_KEY_TO_TYPE)) {
