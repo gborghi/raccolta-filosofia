@@ -141,7 +141,7 @@ function chapterOf(t: string): string {
 // TOC leaf under a chapter group: strip the repeated chapter name so a part reads
 // just "Parte 3" instead of "II The Maniac (part 3)".
 function leafLabel(a: Atom): string {
-  let s = chapterOf(a.title)
+  let s = a.title
   if (a.chapter && s.startsWith(a.chapter)) {
     s = s.slice(a.chapter.length).replace(/^[\s—–-]+/, "").trim() || s
   }
