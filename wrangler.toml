@@ -1,0 +1,13 @@
+name = "filosofia"
+pages_build_output_dir = "public"
+compatibility_date = "2026-08-09"
+
+# Build command for Cloudflare Pages git integration:
+# npm run build
+#
+# The build command runs:
+#   npx quartz build && node scripts/inject-atom-search.mjs && \
+#   node scripts/compress-search-index.mjs && node scripts/build-search-shards.mjs && \
+#   node scripts/make-mobile-index.mjs
+#
+# Preprocess (npm run build:full) runs locally before git push.
